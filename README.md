@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 15:21:19**
+As of **2024-08-17 15:36:48**
 
 ## Newspaper Stats
 
-*Scraped **41,212** Articles*
+*Scraped **41,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,786
 dailymirrorlk | 4,733
-adaderanalk | 4,815
+adaderanalk | 4,816
 tamilmirrorlk | 5,279
 virakesarilk | 6,538
-adaderanasinhalalk | 7,016
+adaderanasinhalalk | 7,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,210 (100.0%) of 41,212 articles have been extended.
+41,212 (100.0%) of 41,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### අනුරගේ ජන රැලියත් ඇරඹෙයි - සජීවී දර්ශන
+
+*2024-08-17 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200033) · `si`
+
+ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ජය තහවුරු කිරීමට පවත්වන පළමු ජන රැලිය අද (17) තංගල්ලේදී ආරම්භ වුණි.
+
+◼️
+
+[Data](articles/ffc7f998.json)
+
+---
+
+### ‘Red’ alert issued for heavy rains
+
+*2024-08-17 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101307/red-alert-issued-for-heavy-rains) · `en`
+
+The Department of Meteorology has issued a ‘Red’ alert warning for heavy rainfall in several provinces and districts today.
+
+Showers will occur at times in the Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, the department said.
+
+Meanwhile, prevailing showery condition are expected to continue in the southwestern part of the island due to the low-level atmospheric disturbance in the vicinity of Sri Lanka, according to the Met. Department.
+
+Very heavy showers of about 150 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/0c3bcfb0.json)
+
+---
 
 ### Sri Lanka responds to Australian court order against diplomat
 
@@ -46,17 +78,25 @@ The allowance approved by the Ministry as the salary of the employee has been pa
 
 [Data](articles/d41e0ac8.json)
 
+[Extended Data](ext_articles/d41e0ac8.ext.json)
+
 ---
 
-### රනිල්ගේ රැලිය සජීවීව මෙතැනින්
+### Ranil's rally live here
 
 *2024-08-17 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200032) · `si`
 
-මෙවර ජනාධිපතිවරණයේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජය තහවුරු කෙරෙන පළමු ජන රැලිය අද (17) පස්වරුවේ අනුරාධපුර සල්දාදු ක්‍රීඩාංගණයේදී ආරම්භ කෙරුණි.
+President Ranil Wickremesinghe started his rally today at the Anuradhapura Saladata Grounds.
+
+🟩
+
+President Ranil Wickremesinghe, President Ranil Wickremesinghe, commenced today (17) at the Anuradhapura Saladata Grounds.
 
 ◼️
 
 [Data](articles/ec06b1cd.json)
+
+[Extended Data](ext_articles/ec06b1cd.ext.json)
 
 ---
 
@@ -2225,41 +2265,5 @@ The first match of the 3-match One Day Championship between Sri Lanka Women's Wo
 [Data](articles/54609f4e.json)
 
 [Extended Data](ext_articles/54609f4e.ext.json)
-
----
-
-### Sri Lanka cbank: rupee appreciation due to high inflows; depreciation possible in late 2024
-
-*2024-08-16 18:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-cbank-rupee-appreciation-due-to-high-inflows-depreciation-possible-in-late-2024-177082/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s recent rupee appreciation is due to higher foreign currency inflows compared to the outflows, but there is a possibility for depreciation in the latter part of this year, central bank officials said.
-
-The rupee currency has seen an appreciation in the recent months and traded around 300 rupees per U.S. dollar this week compared to 320 rupee in January this year.
-
-President Ranil Wickremesinghe, who is also the island nation’s Finance Minister, had expected the rupee to appreciate to around 270 per US dollar by June this year.
-
-“The main reason is we have more inflows,” D. S. T. Wanaguru, Director, at the Central Bank’s International Operations Department told reporters at a media briefing in Colombo on Friday (16).
-
-“The market has more foreign currency liquidity than the outflows. That has facilitated the central bank to purchase more foreign currency from the market.”
-
-...
-
-[Data](articles/b8707a13.json)
-
-[Extended Data](ext_articles/b8707a13.ext.json)
-
----
-
-### Hardnosed businessman with the softest heartbeat  Harry Jayawardena Celebrates  82nd Birthday on  on 17th August 2024
-
-*2024-08-16 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84548) · `en`
-
-Almost twenty years ago, I received a call from Don Harold Stassen Jayawardena. Of course, at the time I knew him as ‘Harry Jayawardena’ as did many Sri Lankans, especially in business circles. I was in England, veritably forced into exile by political circumstances which included the abduction and torture of the deputy editor of ‘The Nation,’ a newspaper published by Rivira Media Corporation, of which I was at the time the Managing Director, and a brutal attack on Upali Tennakoon, the editor of our sister newspaper in Sinhala. These attacks came just after my friend Lasantha Wickramatunge implored me to leave the country and not too long before he himself was killed. It was a time not just of exile but abandonment; for reasons of convenience or fear almost all those I considered friends avoided me. There were a handful who didn’t give a damn about possible consequences or cared enough to be supportive. I didn’t count Harry among them.
-
-...
-
-[Data](articles/28f2a77c.json)
-
-[Extended Data](ext_articles/28f2a77c.ext.json)
 
 ---

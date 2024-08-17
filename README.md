@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 22:21:23**
+As of **2024-08-17 22:36:38**
 
 ## Newspaper Stats
 
-*Scraped **41,251** Articles*
+*Scraped **41,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,790
 dailymirrorlk | 4,733
-adaderanalk | 4,822
+adaderanalk | 4,823
 tamilmirrorlk | 5,293
 virakesarilk | 6,539
 adaderanasinhalalk | 7,029
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,029
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,251 (100.0%) of 41,251 articles have been extended.
+41,251 (100.0%) of 41,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### ‘Level-3’ landslide early warnings issued for several areas in 2 districts
+
+*2024-08-17 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101314/level-3-landslide-early-warnings-issued-for-several-areas-in-2-districts) · `en`
+
+The National Building and Research Organisation (NBRO) has issued a ‘Level-3’ (Red / Evacuation) landslide early warning for multiple areas in two districts, as heavy rainfall continues in parts of the island.
+
+Accordingly, the Level-3 (Red / Evacuation) warning has been issued for the following divisional secretariat divisions (DSDs) in the Kalutara and Ratnapura districts:
+
+Kalutara – Ingirya and Bulathsinhala divisional secretariat divisions (DSDs) and surrounding areas
+
+Ratnapura - Elapatha, Eheliyagoda and Kalawana DSDs and surrounding areas
+
+The advisory further states that, since rainfall in the aforementioned areas within the past 24 hours has exceeded 150mm, if the rains continue, residents should evacuate to a safe location to avoid the risk of landslides, slope failures, rock falls, cutting failures, and ground subsidence.
+
+◼️
+
+[Data](articles/ce430888.json)
+
+---
 
 ### Three policemen receive bail
 
@@ -2265,29 +2285,5 @@ A sudden death investigator, A. Jayapalasingham. The body was handed over to rel
 [Data](articles/b69e232e.json)
 
 [Extended Data](ext_articles/b69e232e.ext.json)
-
----
-
-### Let us all mobilize for the rule that eradicate corruption - Sajith Premadasa
-
-*2024-08-16 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191266) · `ta`
-
-Sajith Premadasa, the Opposition Leader, calls for unity and action against corruption, emphasizing the role of new citizens as witnesses and partners in national progress. He criticizes deceptive political practices and vows to end such politics, highlighting his party's commitment to transparency and accountability. Premadasa addresses a gathering in Kurunegala, pledging to tackle issues like liquor licensing and ensure party funds support public welfare, not personal gains. He stresses the importance of electing leaders who represent the people's will and rejects divisive politics, advocating for a united Sri Lanka free from corruption and communalism.
-
-🟩
-
-In the history of the country, the Opposition Leader said that the newlyweds of the program would be the witnesses of the program, but also partners in the country's success journey and be the leaders of this journey to strengthen the country.
-
-We have carried out protests for the people during this period of practical and progressively, and we have launched massive programs to eradicate corruption.
-
-Like other party leaders, we do not play platforms and do not perform platforms and act in plays that deceive the magazine.. The Opposition Leader said that the Rajapaksa has taken action against the Rajapaksa's involvement in financial fraud by the Rajapaksas who have taken the country to the bank.
-
-The United People's Power has first submitted the individual Bill for MPs to recover the resources of the stolen country and the money stolen country.. In any case there is no contract with the thieves or their party members.
-
-...
-
-[Data](articles/1624bfa4.json)
-
-[Extended Data](ext_articles/1624bfa4.ext.json)
 
 ---

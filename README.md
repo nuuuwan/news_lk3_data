@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 17:06:20**
+As of **2024-08-17 17:21:23**
 
 ## Newspaper Stats
 
-*Scraped **41,233** Articles*
+*Scraped **41,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,789
 dailymirrorlk | 4,733
 adaderanalk | 4,818
-tamilmirrorlk | 5,287
+tamilmirrorlk | 5,288
 virakesarilk | 6,538
 adaderanasinhalalk | 7,023
 
@@ -26,15 +26,35 @@ adaderanasinhalalk | 7,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,225 (100.0%) of 41,233 articles have been extended.
+41,233 (100.0%) of 41,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### சஜித்தின் முதலாவது கூட்டத்தில் இணைந்த மொட்டு உறுப்பினர்
+### The budget member who joined Sajith's first meeting
 
 *2024-08-17 16:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-முதலாவது-கூட்டத்தில்-இணைந்த-மொட்டு-உறுப்பினர்/175-342329) · `ta`
+
+Sajith Premadasa, United People's Power President, started a public meeting in Akuressa. Matara district MP Karunadasa Kodhithu joined him as a presidential candidate.
+
+🟩
+
+United People's Power President Sajith Premadasa has begun a public meeting in Akuressa.
+
+Meanwhile, Matara district parliamentarian Karunadasa Kodhithu today (17) has joined the Presidential candidate Sajith Premadasa.. Remble
+
+◼️
+
+[Data](articles/13a4440f.json)
+
+[Extended Data](ext_articles/13a4440f.ext.json)
+
+---
+
+### சஜித்துடன் இணைந்த மொட்டு உறுப்பினர்
+
+*2024-08-17 16:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்த-மொட்டு-உறுப்பினர்/175-342329) · `ta`
 
 ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச பங்கேற்கும் பொதுக்கூட்டம்  அக்குரஸ்ஸவில் ஆரம்பமாகியுள்ளது.
 
@@ -42,63 +62,81 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/13a4440f.json)
+[Data](articles/c63b71df.json)
 
 ---
 
-### එම්පොක්ස් බිය පාකිස්තානය පුරා පැතිරෙයි
+### EMPOCS spreads across Pakistan
 
 *2024-08-17 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200040) · `si`
 
-එම්පොක්ස් හෙවත් මංකිපොක්ස් ආසාදිතයින්ගේ වැඩිවීමක් වාර්තා වේ යැයි පාකිස්තානය බියෙන් පසුවන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Pakistan faces rising concerns over mankix infections, leading to enhanced security measures nationwide, including at borders, healthcare facilities, and airports. Authorities advise adopting preventive practices amidst fears of increased cases.
 
-එම බිය හේතුවෙන් පාකිස්තානය පුරා පූර්ව ආරක්ෂක ක්‍රමවේද අනුගමනය කිරීමට බලධාරීන් දැනුම්දී තිබේ.
+🟩
 
-ඒ අනුව පාකිස්තානයේ දේශසීමා, සෞඛ්‍ය සේවා, ගුවන්තොටුපොළ ඇතුළු සියලුම පිවිසුම් ස්ථානවල පූර්ව ආරක්ෂාව තීව්‍ර කිරීමට උපදෙස් ලබාදී ඇති බව වාර්තා වෙයි.
+Foreign media reports that Pakistan is afraid of an increase in the mankix infections of the pakix, or mankix.
 
-මංකිපොක්ස් රෝග ලක්ෂණ යැයි සැක සහිත පුද්ගලයන් රටට ඇතුළුවන අවස්ථාවේදී දැඩිව පරීක්ෂා කිරීම සිදුකෙරෙන බවද වාර්තා වෙයි.
+The authorities have informed the authorities to adopt pre-security practices throughout Pakistan due to the fear.
 
-මංකිපොක්ස් රෝගියෙකු එරටින් හමුවීමත් සමග මෙම පියවර අනුගමනය කිරීමට කටයුතු කර තිබේ.
+It is reported that all access places including borders, health care and airports, including Pakistan, have been instructed to intensify precautions.
+
+It is also reported that suspected persons are the symptoms of the country.
+
+The measures have been taken to adopt this move with a mankipox patient.
 
 ◼️
 
 [Data](articles/18eb6018.json)
 
+[Extended Data](ext_articles/18eb6018.ext.json)
+
 ---
 
-### வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை
+### The Department of Meteorology is a red warning
 
 *2024-08-17 16:45:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களம்-சிவப்பு-எச்சரிக்கை/175-342328) · `ta`
 
-அடுத்த 24 மணி நேரத்திற்கு கனமழை மழை பய்யும் என வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+The Department of Meteorology issued a red warning for heavy rainfall across several regions in Sri Lanka, expected to last 24 hours from 1:00 pm today until 1:00 pm tomorrow. It forecasts 150 mm of rainfall in areas including the Western, Sabaragamuwa provinces, and districts like Galle, Matara, Kandy, and Nuwara Eliya. The public is advised to prepare for potential heavy winds and lightning due to thunderstorms. This comes as the southwestern part of the country continues to experience rainfall due to low atmospheric pressure levels.
 
-இன்று (17) பிற்பகல் 1:00 மணிக்கு வெளியிடப்பட்ட இந்த அறிவிப்பு நாளை (18) பிற்பகல் 1:00 மணி வரை செல்லுபடியாகும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் சில பகுதிகளில் 150 மி.மீ அளவில் கனமழை பெய்யக்கூடிய சாத்தியம் காணப்படுவதால் அது குறித்து அவதானமாக இருக்குமாறு கோரப்பட்டுள்ளது.
+The Department of Meteorology has issued a red warning that heavy rainfall will rain for the next 24 hours.
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்தை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறும் வளிமண்டலவியல் திணைக்களம் பொது மக்களை கோரியுள்ளது.
+The announcement, which was released today (17) at 1:00 pm, will be valid till 1:00 pm tomorrow (18).
 
-இதேவேளை, இலங்கையைச் சூழவுள்ள பகுதிகளில் காணப்படுகின்ற கீழ் வளிமண்டலத்தில் தளம்பல் நிலை காரணமாக நாட்டின் தென்மேற்குப் பகுதியில் தற்போது நிலவும் மழை நிலைமை மேலும் தொடரும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம்  மேலும் தெரிவித்துள்ளது. R
+It has been requested that 150 mm of heavy rainfall in the Western, Sabaragamuwa provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
+
+The Department of Meteorology has also called for the public to take steps to reduce the risk of temporary heavy winds and lightning strikes with thunderstorms.
+
+Meanwhile, the Department of Meteorology has said that the current rainfall in the southwestern part of the country is expected to continue due to the underwater level in the lower atmosphere in Sri Lanka.. Remble
 
 ◼️
 
 [Data](articles/e8c38072.json)
 
+[Extended Data](ext_articles/e8c38072.ext.json)
+
 ---
 
-### 3 கஜ முத்துகளுடன் மூவர் கைது
+### Three arrests with 3 gaj pearls
 
 *2024-08-17 16:29:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-கஜ-முத்துகளுடன்-மூவர்-கைது/175-342327) · `ta`
 
-1 கோடியே 30 இலட்சம் ரூபாய் பெறுமதியான 03 கஜ முத்துகளுடன் மூன்று சந்தேகநபர்கள் கைது செய்யப்பட்டதாக புத்தளம் விசேட அதிரடிப்படை முகாம் தெரிவித்துள்ளது.
+In a raid led by the Puttalam Special Task Force, three individuals were arrested for possessing 03 kajj pearls valued at Rs 1 crore 30 lakhs. The operation was based on intelligence from the Sri Lanka Air Force and targeted agents in the Kulakkarai area. Two suspects from Mawanella and one from Puttalam were detained.
 
-இலங்கை விமானப்படை புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் புத்தளம் சிறப்பு அதிரடிப்படை முகாம் அதிகாரிகள் புத்தளம் குளக்கரை பகுதியில் முகவர்களை ஈடுபடுத்தி இந்த சுற்றிவளைப்பு மேற்கொண்டுள்ளனர்.
+🟩
 
-இந்தச் சுற்றிவளைப்பில் மாவனெல்ல பிரதேசத்தைச் சேர்ந்த இருவர் மற்றும் புத்தளம் பகுதியைச் சேர்ந்த ஒருவரும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+The Puttalam Special Task Force (PTA) said that three suspects have been arrested with 03 kajj pearls worth Rs 1 crore 30 lakhs.
+
+Based on information received by the Sri Lanka Air Force Intelligence Unit, Puttalam Special Task Force Camp Officers have been involved in the raid for engaging agents in Kulakkarai area in Puttalam.
+
+Two persons from Mawanella area and a man from Puttalam have been arrested by the police in the surrounding surround.
 
 ◼️
 
 [Data](articles/0968ab25.json)
+
+[Extended Data](ext_articles/0968ab25.ext.json)
 
 ---
 
@@ -116,17 +154,23 @@ Sri Lanka Podujana Peramuna’s (SLPP) Matara District MP Karuna Kodithuwakku ha
 
 ---
 
-### ප්‍රදේශ කිහිපයකට මි.මී.150 ඉතා තද වැසි
+### 1550 mm mm high in several areas.
 
 *2024-08-17 16:21:49* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-කිහිපයකට-මි-මී-150-ඉතා-තද-වැසි/11-411415) · `si`
 
-ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැළඹිල ස්වභාවය හේතුවෙන් දිවයිනේ නිරිතදිග ‌ප්‍ර්‍රදේවල දැනට පවතින වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Due to its turbulent weather, Sri Lanka expects more rainfall, particularly affecting the Western, Sabaragamuwa, Galle, Matara, Kandy, and Nuwara Eliya regions.
 
-ඒ අනුව බස්නාහිර සහ සබරගමුව යන පළාත්වවලත්, ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය යන දිස්ත්‍රික්ක වලත් ඇතැම් ප්‍රදේශ වලට මිලිමීටර් 150ක පමණ ඉතා තද වැදි ඇති විය හැති බව එහි වැඩිදුරටත් සඳහන් කර ඇත.
+🟩
+
+The Department of Meteorology announces that the existing rain condition of the island is further expected due to the turbulent nature of Sri Lanka.
+
+Accordingly, in the Western and Sabaragamuwa Provincial Council, Galle, Matara, Kandy and Nuwara Eliya have been severely severe.
 
 ◼️
 
 [Data](articles/007882ee.json)
+
+[Extended Data](ext_articles/007882ee.ext.json)
 
 ---
 
@@ -152,17 +196,25 @@ In addition, MP Patali War Patali Champika Ranawaka, Thalakaratne Dilshan, who w
 
 ---
 
-### மௌலானாவுக்கு எதிராக ஒழுக்காற்று: நிஸாம் காரியப்பர்
+### Disciplinary against Maulana: Nizam Kariyapar
 
 *2024-08-17 16:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மௌலானாவுக்கு-எதிராக-ஒழுக்காற்று-நிஸாம்-காரியப்பர்/175-342326) · `ta`
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் அலி சாஹிர் மௌலானாவுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கும் கடிதத்தை ஜனாதிபதி சட்டத்தரணியும், ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் செயலாளருமான எம் நிசாம் காரியப்பர் அனுப்பியுள்ளார்.
+Nizam Kariyapper, representing the Sri Lanka Muslim Congress, has issued a disciplinary notice against Ali Zahir Maulana, accusing him of disloyalty due to alleged support for Ranil Wickremesinghe in the upcoming presidential election, contrary to party resolutions. Maulana's suspension from the party has been ordered pending his response, which must be received within a week.
 
-அந்த கடிதத்தில் அவர் தெரிவித்துள்ள விடயமானது, ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீமின் வேண்டுகோளின் பிரகாரம் இந்த கடிதம் அனுப்பி வைக்கப்படுவதாகவும், 2024 ஆகஸ்ட் 4, அன்று நடைபெற்ற கட்சியின் உயர்பீடக் குழுக் கூட்டத்தில், நீண்ட விவாதங்களுக்குப் பிறகு, ஜனாதிபதி தேர்தலில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச அவர்களை கட்சி ஆதரிக்க தீர்மானித்திருந்ததாகவும், நீங்கள் (அலி சாஹிர் மௌலானா) கூட்டத்தில் கலந்து கொள்ளவில்லை என்றாலும், நீங்கள் எனக்கு ஒரு வரமுடியாமை செய்தியை அனுப்பியுள்ளீர்கள்:
+🟩
+
+President's Attorney and Sri Lanka Muslim Congress Secretary M Nizam Kariyapper has sent a letter of disciplinary action against Sri Lanka Muslim Congress Batticaloa district parliamentarian Ali Zahir Maulana.
+
+In his letter, he said that the letter was sent at the request of Sri Lanka Muslim Congress leader Rauf Hakeem and that the party had decided to support the party's high -level committee meeting on August 4, 2024, after a long debate, after a long debate.) Although you have not attended the meeting, you have sent me an incompetent message:
+
+“Although I do not physically attend today's meeting, I promise to stand with the decision of the Hon. Chairman and the High Faculty of our party on the upcoming presidential election.. And I repeat my feelings and my loyalty to our party, and forgive me for the inability to attend today's meeting.
 
 ...
 
 [Data](articles/c6e3bca5.json)
+
+[Extended Data](ext_articles/c6e3bca5.ext.json)
 
 ---
 
@@ -300,19 +352,25 @@ Meanwhile, the Department of Meteorology states that the rain condition of the i
 
 ---
 
-### පාලකයන් තෝරා ගැනීම ගනුදෙනුව මුදලට යටවිය යුතු නෑ
+### The selection of rulers should not be submerged
 
 *2024-08-17 15:22:03* · [`adalk`](https://www.ada.lk/breaking_news/පාලකයන්-තෝරා-ගැනීම-ගනුදෙනුව-මුදලට-යටවිය-යුතු-නෑ/11-411414) · `si`
 
-පාලකයන් තොරා ගැනීමේ වැඩපිළිවෙල මුදලට සිදු කළ යුතු ‌දෙයක් නොවන බව මැතිවරණ කොමසාරිස්  ජනරාල් සමන් ශ්‍රී රත්නාක මහතා පැවසීය.
+Saman Sri Rating, Commissioner General of Elections, emphasized that ruler selection shouldn't be about personal gain but rather about serving the public. He made this statement during a program in Colombo, highlighting the importance of integrity in leadership choices.
 
-ඊයේ(16දා) කොළඹ පැවති වැඩසටහනකට එක්වෙමින් ඒ් මහතා මේ බව සඳහන් කළේය.
+🟩
 
-පාලකයන් තෝරා ගන්නා අවස්ථාවේදී ඒ් ගනුදෙනුව මුදලට යන දෙයක් නෙවෙයි. ඒක නොවිය යුතුයි කියන විශ්වාසය තියෙන්නේ.
+The Commissioner General of Elections Saman Sri Rating said that the choice of rulers should not be done.
+
+Speaking at a program held in Colombo yesterday (16), he said.
+
+When the rulers choose, the deal is not going to money. There is confidence that should not be.
 
 ◼️
 
 [Data](articles/313503ca.json)
+
+[Extended Data](ext_articles/313503ca.ext.json)
 
 ---
 
@@ -538,19 +596,25 @@ Surgerage power, presidential power, said the presidential candidate entreprenem
 
 ---
 
-### ஆசி பெற்றார் அநுர குமார திசாநாயக்க
+### Blessed
 
 *2024-08-17 13:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசி-பெற்றார்-அநுர-குமார-திசாநாயக்க/175-342321) · `ta`
 
-கண்டி அஸ்கிரிய மஹா விகாரையின் சியம் மஹா நிக்காய அஸ்கிரிய பீடத்தின் மஹா நாயக்க வரக்காகொட ஸ்ரீ ஞானரத்தன தேரர் மற்றும் அஸ்கிரி பீடத்தின் பிரதி பதிவாளர், அஸ்கிரி மஹா விகாரை பரிவேனாதிபதி சங்கைக்குரிய நாரம்பனாவே ஆனந்த மஹா நாயக்க தேரர் ஆகியோரை தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுர குமார திசாநாயக்க நேற்று (16) பிற்பகல் சந்தித்தார்.
+Presidential candidate Anura Kumara Dissanayaka met religious leaders including the President of Kandy Asgiriya Maha Viharaya and discussed the country's political situation, receiving their blessings for his presidential bid.
 
-இன்றளவில் நாட்டில் நிலவுகின்ற அரசியல் நிலைமை பற்றி அவரை உள்ளிட்ட மஹா சங்கத்தினருடன் கலந்துரையாடிய அநுர குமார திசாநாயக்க எதிர்வரும் ஜனாதிபதி தோ்தலில் வெற்றி பெறுவதற்கான அவர்களின் நல்லாசியை பெற்றுக்கொண்டார்.
+🟩
 
-இத்தருணத்தில் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் லால் காந்த பங்கேற்றார். R
+The Presidential candidate of the National People's Power Anura Kumara Dissanayaka yesterday (16), the President of the Kandy Asgiriya Maha Viharaya, Maha Nikaya Asgiriya Faculty, Maha Nayaka Varakkoda Sri Gnanarathana Thera and Deputy Registrar of Asgiri Maha Vikarai, Ananda Maha Nayaka Thera.
+
+Anura Kumara Dissanayake, who discussed the political situation in the country today with the Maha Sangha, has received their goodness to win the upcoming President.
+
+At this time, Lal Magnetic Assembly of the National People's Power. Remble
 
 ◼️
 
 [Data](articles/37bb6121.json)
+
+[Extended Data](ext_articles/37bb6121.ext.json)
 
 ---
 
@@ -2185,27 +2249,5 @@ The general public is therefore kindly requested to take adequate precautions to
 [Data](articles/2620f4f6.json)
 
 [Extended Data](ext_articles/2620f4f6.ext.json)
-
----
-
-### A warning to three districts
-
-*2024-08-16 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200014) · `si`
-
-Pre-landslide alerts have been issued for four areas: Neluwa, Elhugoda, Elpitiya, and Pitabeddaras in Matara district. The NBRO warns these regions starting from today at 7:30 pm.
-
-🟩
-
-Steps have been taken to issue pre-landslides alerts for three districts in the face of existence.
-
-The landslide has been issued for Neluwa, Elhugoda, Elpitiya, and Pitabeddaras in the Matara district.
-
-The National Building and Research Organization (NBRO) says that the warning notification is valid today (16) at 7.30 pm tomorrow.
-
-◼️
-
-[Data](articles/f6df8310.json)
-
-[Extended Data](ext_articles/f6df8310.ext.json)
 
 ---

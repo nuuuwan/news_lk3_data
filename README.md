@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 10:08:26**
+As of **2024-08-17 10:21:27**
 
 ## Newspaper Stats
 
-*Scraped **41,186** Articles*
+*Scraped **41,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,499
 dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
-adaderanalk | 4,808
+adaderanalk | 4,809
 tamilmirrorlk | 5,278
 virakesarilk | 6,534
 adaderanasinhalalk | 7,006
@@ -26,59 +26,93 @@ adaderanasinhalalk | 7,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,182 (100.0%) of 41,186 articles have been extended.
+41,186 (100.0%) of 41,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### வாகன இறக்குமதி குறித்து உயர்மட்ட தகவல் கசிந்தது
+### Flood warning issued as Kuda Ganga water level rises
+
+*2024-08-17 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101298/flood-warning-issued-as-kuda-ganga-water-level-rises) · `en`
+
+The water levels in the Kuda Ganga is rising, posing flood threats over the next 48 hours in the Bulathsinhala, Palindanuwara, and Madurawala Divisional Secretariat (DS) divisions, according to the Irrigation Department.
+
+◼️
+
+[Data](articles/02f39298.json)
+
+---
+
+### Top information leaked on vehicle imports
 
 *2024-08-17 09:56:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-உயர்மட்ட-தகவல்-கசிந்தது/175-342319) · `ta`
 
-தனியார் தேவைகளுக்காக வாகனங்களை இறக்குமதி செய்தால், வாகன இறக்குமதி வரியையும் அதிகரிக்க வேண்டியிருக்கும் என உயர் மட்ட தகவல்கள் தெரிவிக்கின்றன.
+The government plans to increase vehicle import taxes, especially for non-essential cars, to align with IMF recommendations and address rising costs of living. Essential vehicles and those with engines under 1000cc may be exempted from this hike.
 
-நாட்டு மக்களின் வாழ்க்கைச் செலவை கருத்தில் கொண்டு வாகன இறக்குமதிக்கான வரிகளை வருடாந்தம் திருத்துவதற்கு சர்வதேச நாணய நிதியத்துடன் அரசாங்கம் இணக்கம் தெரிவித்துள்ளதாக நிதியமைச்சு தெரிவித்துள்ளது.
+🟩
 
-கார்கள் இறக்குமதி செய்யப்பட்டால், வரிகள் அதிகரிக்கும் மற்றும் மதுபானத்திற்கு விதிக்கப்படும் கலால் வரி, வாகன இறக்குமதியிலும் விதிக்கப்படும், மேலும் பொருளாதார வளர்ச்சி மற்றும் பணவீக்க விகிதத்தின் காரணிகளுக்கு ஏற்ப இந்த வரி திருத்தப்படும். எனினும் அத்தியாவசிய வாகனங்களை மாத்திரம் முதலில் இறக்குமதி செய்வதில் அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+High -level reports suggest that if the vehicles are imported for private purposes, the vehicle import tax will also be increased.
 
-தனியார் வாகனங்களை இறக்குமதி செய்தால் வெளிநாட்டு கையிருப்பு பாதிக்கப்படாத வகையில் 1000க்கும் குறைவான எஞ்சின் திறன் கொண்ட சிறிய அளவிலான வாகனங்களை இறக்குமதி செய்ய அரசாங்கம் திட்டமிட்டுள்ளதாகவும் இது தொடர்பில் இறுதி முடிவு எட்டப்படவில்லை எனவும் தெரியவந்துள்ளது. R
+The Finance Ministry has said that the government has agreed with the International Monetary Fund to revise the tax on vehicle imports, considering the cost of living people.
+
+If cars are imported, the tax will increase and the excise tax on alcohol will be imposed on vehicle imports and the tax will be revised in accordance with the factors of the economic growth and inflation rate.. However, the government has focused on importing essential vehicles first.
+
+It has been revealed that the government is planning to import small amounts of instruments with less than 1000 engine capacity that is not affected by foreign reserves if imported private vehicles.. Remble
 
 ◼️
 
 [Data](articles/e9943e8d.json)
 
+[Extended Data](ext_articles/e9943e8d.ext.json)
+
 ---
 
-### ප්‍රදේශ තුනකට ගංවතුර අවදානමක්
+### Floods risk for three areas
 
 *2024-08-17 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200021) · `si`
 
-කළු ගඟෙහි කුඩා ගඟ උප ද්‍රෝණියේ ඉහළ ධාරා ප්‍රදේශවලට සැලකිය යුතු වර්ෂාපතනයක් ලැබී ඇති නිසා  ඉදිරි පැය 48ක් දක්වා වූ කාලය තුළ බුලත්සිංහල, මදුරාවල හා පාලින්ද නුවර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසයන්හි පහත් බිම් වලට ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවට වාරිමාර්ග දෙපාර්තමේන්තුව අද (17) පෙරවරුවේ අනතුරු ඇඟවීමක් කළේය.
+The Irrigation Department warns of flood risks in low-lying, privately owned areas near the Kalu River's sub-roads.
+
+🟩
+
+The Irrigation Department alerted to the lowlands of the low-owned areas of the Kalu Ganga's sub-roads in the sub-road area of ​​the Kalu River..
 
 ◼️
 
 [Data](articles/94d1a8ab.json)
 
+[Extended Data](ext_articles/94d1a8ab.ext.json)
+
 ---
 
-### பழைய தோட்டத்தில் தீ: 25 குடும்பங்களை  நிர்கதி
+### Old Garden Fire: 25 Families
 
 *2024-08-17 09:24:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பழைய-தோட்டத்தில்-தீ-25-குடும்பங்களை-நிர்கதி/76-342318) · `ta`
 
-பூண்டுலோயா பொலிஸ் பிரிவுக்குட்பட்ட சீன் பழைய தோட்டம் என அழைக்கப்படும் சீன் லோவர் பூண்டுலோயா தோட்டத்தில், வெள்ளிக்கிழமை  (16) இரவு 08 மணி அளவில் ஏற்பட்ட திடீர் தீ விபத்து சம்பவத்தில் 28 வீடுகள் கொண்ட இலக்கம் (01) தொடர் குடியிருப்பு லயத்தில் 25 வீடுகள் எரிந்து சாம்பலாகி உள்ளதாக பகுதிக்கு பொறுப்பான கிராம அபிவிருத்தி அதிகாரியின் அறிக்கை படி பூண்டுலோயா பொலிஸார் தெரிவித்தனர்.
+A fire in the Sean Old Gardens, Punduloya, destroyed 25 houses, affecting 86 people temporarily housed elsewhere or in hospital. Three pregnant women lost their homes but were kept safe. The cause is unknown; the fire was quickly contained but not before significant property loss. The Minister and Jeevan Thondaman visited the site, offering aid to the victims.
 
-இந்த திடீர் தீ விபத்து சம்பவத்தில் பாதிக்கப்பட்ட  25 வீடுகளை சேர்ந்த 86 பேர் நிர்கதிக்குள்ளான  நிலையில் அத் தோட்ட ஆலய மண்டபம் மற்றும் உறவினர்கள் வீடுகளில் தற்காலிகமாக தங்க வைக்கப்பட்டுள்ளனர்.
+🟩
 
-அதே நேரத்தில் இந்த திடீர் தீ பிடிப்பு சம்பவத்தினால் அதிர்ச்சிக்கு உள்ளான இரு வயோதிபர்கள் கொத்மலை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+According to the Rural Development Officer in charge of the area, 25 houses have been burnt in a 28 -housed residential area in a fire that broke out at the Sean Lower Garden of the Sean Old Garden, known as the Sean Old Gardens of the Punduloya Police Division.Excised.
 
-மேலும் இந்த  சம்பவத்தில் வீடுகளை இழந்து உள்ள மூன்று கர்ப்பிணி தாய்மார்கள் உறவினர்கள் வீடுகளில் பாதுகாப்பாக தங்க வைக்கப்பட்டுள்ளனர்.
+At least 86 people from the 25 houses affected by the fire have been temporarily housed in the house of the temple hall and relatives.
 
-தீ சம்பவத்துக்கான காரணம் மற்றும் சேத விவரங்களை கண்டறிய பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவித்தனர்.
+At the same time, two -year -olds have been admitted to the Kotmalai Divisional Hospital.
+
+In the incident, three pregnant mothers who have lost their homes have been kept safe in their homes.
+
+Police said they were investigating the cause and damage of the fire.
+
+At the same time, the fire was cut off shortly after the fire was cut off.
+
+It has been reported that the youths are struggling to bring the fire under control and that the Nuwara Eliya Municipal Fire Division has been invited and they have not arrived at the scene in a timely manner.
 
 ...
 
 [Data](articles/255c4eba.json)
+
+[Extended Data](ext_articles/255c4eba.ext.json)
 
 ---
 
@@ -102,21 +136,27 @@ The World Health Organization did not immediately respond to requests to confirm
 
 ---
 
-### பலத்த மழை ; மூன்று மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை
+### Heavy rain;Landslide alert to three districts
 
 *2024-08-17 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191269) · `ta`
 
-நாட்டில் பெய்து வரும் பலத்த மழை காரணமாக களுத்துறை, மாத்தறை மற்றும் காலி மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கையை தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் வெளியிட்டுள்ளது.
+Heavy rain triggers landslide warnings for Kalutara, Matara, and Galle districts. The public is urged to watch for signs like land and wall cracks, tree discoloration, and mudflows, contacting the District Disaster Management Center at 117 for any concerns. Senior Weather Officer Dr. Mohamed Saliheen predicts ongoing rainfall in the southwest due to atmospheric conditions.
 
-நிலம் மற்றும் சுவர்களில் விரிசல்கள் ஏற்படுதல், மரங்கள், வேலிகள் மற்றும் மின்கம்பங்கள் சாய்தல், திடீரென நீரூற்றுகள் தோன்றல், சேற்று நீர் வெளியேறல் போன்ற அறிகுறிகள் தென்பட்டால் எச்சரிக்கையாக இருக்குமாறு பொதுமக்கள் அறிவுறுத்தப்படுகிறார்கள்.
+🟩
 
-அனர்த்த முகாமைத்துவ மையத்தின் 117 என்ற இலக்கம் ஊடாக மாவட்ட அனர்த்த முகாமைத்துவ மத்திய நிலையத்திற்கு தகவல் தெரிவிக்குமாறு கேட்டுக்கொள்ளப்பட்டுள்ளனர்.
+Due to heavy rains in the country, the National Building Research Institute has issued a warning to Kalutara, Matara and Galle districts.
 
-இலங்கைக்கு மேலாக வளிமண்டலத்தின் கீழ் மட்டத்தில் தென்படுகின்ற இடையூரின் காரணமாக நாட்டின் தென்மேற்குப் பிராந்தியத்தில் நிலவுகின்ற மழையுடனான வானிலை இன்றும் தொடரக்கூடுமென சிரேஸ்ட  வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் தெரிவித்தார்.
+The public is advised to be cautious if there are signs such as cracks in the land and walls, the dyeing of trees, fences and wires, sudden fountains, and muddy water exit.
+
+They have been asked to inform the District Disaster Management Center through the number 117 of the Disaster Management Center.
+
+Senior Weather Officer Dr. Mohamed Saliheen said the rainy weather in the southwestern region of the country would continue today due to the interruption of the atmosphere above Sri Lanka.
 
 ◼️
 
 [Data](articles/3590ebf2.json)
+
+[Extended Data](ext_articles/3590ebf2.ext.json)
 
 ---
 
@@ -2173,25 +2213,5 @@ Nadeskumar Vinodhini (age 25) from Thanganagar village in the Seruvila Divisiona
 [Data](articles/021b0350.json)
 
 [Extended Data](ext_articles/021b0350.ext.json)
-
----
-
-### Designary Design During Dilith's Elections
-
-*2024-08-16 15:40:16* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්ගේ-මැතිවරණ-ව්‍යාපාරයේදි-උදයට-ලැබුණ-තනතුර/11-411407) · `si`
-
-Udaya Gammanpila, a member of Parliamentarian Gammanpila, has been appointed as the Chief Operations Officer for Dilith Jayaweera's Election Attorney team. In a press conference, he highlighted Dilith Jayaweera's unique approach to politics, emphasizing entrepreneurship, psychological and spiritual development, and accountability. This marks a significant shift in political strategies, focusing on innovation and direct engagement with voters.
-
-🟩
-
-Member of Parliamentarian Gammanpila has been appointed as the Chief Operations Chief of Dilith Jayaweera's Election Attorney at Law Dilith Jayaweera Entrepreneurship Attorney at Law Dilith Jayaweera's Electoral Attorney at Law Dilith Jayaweera.. At a press conference held in Colombo today, Udaya Gammanpila, Udaya Gammanpila, a media spokesman, has been appointed as a media spokesman as a media spokesman as a media spokesman.
-
-Speaking further Mr. Udaya Gammanpila said: "For the first time in the history of the National Political Political Cleaning of the Jayaratne of the Dilith Jayaweera is the first time in the history of Jaffna. We're going to JaffnaSince we were sown among the Sinhalese and the Sinhalese and the Sinhalese Tamils, we sowed the country's attempt to sow the main city in another country.Because necessary to defeat politics.
-
-...
-
-[Data](articles/f50d6a63.json)
-
-[Extended Data](ext_articles/f50d6a63.ext.json)
 
 ---

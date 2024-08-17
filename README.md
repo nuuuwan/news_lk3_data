@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 16:36:21**
+As of **2024-08-17 16:53:25**
 
 ## Newspaper Stats
 
-*Scraped **41,223** Articles*
+*Scraped **41,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,787
 dailymirrorlk | 4,733
-adaderanalk | 4,817
+adaderanalk | 4,818
 tamilmirrorlk | 5,282
 virakesarilk | 6,538
-adaderanasinhalalk | 7,021
+adaderanasinhalalk | 7,022
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,223 (100.0%) of 41,223 articles have been extended.
+41,223 (100.0%) of 41,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### SLPP Matara District MP backs Sajith in presidential poll
+
+*2024-08-17 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101309/slpp-matara-district-mp-backs-sajith-in-presidential-poll) · `en`
+
+Sri Lanka Podujana Peramuna’s (SLPP) Matara District MP Karuna Kodithuwakku has decided to support the Samagi Jana Balawegaya (SJB) presidential candidate Sajith Premadasa at the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/4333b887.json)
+
+---
+
+### කරුණාදාස කොඩිතුවක්කු සජිත්ට සහාය දෙයි
+
+*2024-08-17 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200038) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ මාතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී කරුණාදාස කොඩිතුවක්කු මහතා අද (17) ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කරමින් ඔහු සමග එක්විය.
+
+ඉදිරි ජනාධිපතිවරණයේදී සමගි ජන සන්ධානයේ නායක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීම වෙනුවෙන් දේශපාලන පක්ෂ 27ක් පසුගියදා සමගි ජන සන්ධානය සමග ගිවිසුම් ගතවිය.
+
+ඊට අමතරව එක්සත් ජනරජ පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා, සමස්ත ලංකා මහජන කොංග්‍රසයේ නායක පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බදියුදීන් මහතා, ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ හිටපු දක්ෂ තුන් ඉරියව් ක්‍රීඩකයකු වන තිලකරත්න ඩිල්ශාන් ඇතුළු පිරිසක් ද පසුගිය දින කිහිපයේදී සජිත් ප්‍රේමදාස මහතා සමග එක්විය.
+
+◼️
+
+[Data](articles/086037a5.json)
+
+---
 
 ### Sajith's rally begins in Akuressa - Livelihood
 
@@ -2217,49 +2245,5 @@ Accordingly, he has been banned in all kinds of cricket matches until re -announ
 [Data](articles/fae8b053.json)
 
 [Extended Data](ext_articles/fae8b053.ext.json)
-
----
-
-### An accident on Southern Expressway
-
-*2024-08-16 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200012) · `si`
-
-A bus and container collision caused an accident on the Southern Expressway, leading to traffic congestion. Police limited vehicles to one lane towards Matara to manage the situation.
-
-🟩
-
-The accident had occurred when a bus and container collided with each other.
-
-As a result, traffic congestion has also arisen and the police have also taken steps to restrict the vehicle to Matara to one lane.
-
-◼️
-
-[Data](articles/55eb8dde.json)
-
-[Extended Data](ext_articles/55eb8dde.ext.json)
-
----
-
-### The passenger service came to the Kankesan department from Naga shortly before!
-
-*2024-08-16 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/191260) · `ta`
-
-The passenger shipping service between Nagapattinam and Kankesanthurai began on October 14 but was suspended due to bad weather on October 23. It resumed recently, with ships departing from Nagapattinam reaching Kankesanthurai within hours.
-
-🟩
-
-The passenger shipping service from Nagapattinam to the Kankesan sector has started on Friday 16th.
-
-The passenger ship, which started the journey from Nagapattinam at 12 noon, reached Jaffna - Kankesanthurai at 5 pm.
-
-The passenger shipping service was launched on October 14 last year, due to inclement weather, suspended on October 23 last year.
-
-The Sivaganga passenger ship, which departed from Nagapattinam at 8 am on the 10th of this month, arrived at Kankesanthurai at 12 noon.
-
-◼️
-
-[Data](articles/fb2adcf8.json)
-
-[Extended Data](ext_articles/fb2adcf8.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 21:36:45**
+As of **2024-08-17 21:56:27**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,029
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,250 (100.0%) of 41,251 articles have been extended.
+41,251 (100.0%) of 41,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### පොලීසියේ තිදෙනාට ඇප ලැබෙයි
+### Three policemen receive bail
 
 *2024-08-17 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200046) · `si`
 
-වනඅලියෙකු වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් පොලිස් නිලධාරීන් තිදෙනා ඇප මත මුදාහැර තිබේ.
+Three police officers arrested over an elephant's death were granted bail. They were charged in relation to the shooting of a wild elephant at Dambaragama Junction. The investigation continues, focusing on recovering the baby elephants' remains under the direction of the Wildlife Director General.
 
-හිඟුරක්ගොඩ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ඔවුන් ඊයේ (17) ඇප මත මුදාහැර තිබුණි.
+🟩
 
-ඊයේ දඹුල්ල බකමූණ ප්‍රධාන මාර්ගයේ දම්පුරගම මංසන්ධියේදී වන අලියෙකු වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් මෙම පොලිස් නිලධාරීන් තිදෙනා අත්අඩංගුවට ගෙන තිබුණි.
+The three policemen who were arrested have been arrested on bail in connection with the shooting of a wild elephant.
 
-කෙසේවෙතත් වළ දැමුණු එම සත්ත්වයාගේ ශරීරකොටස්  වනජීවී අධ්‍යක්ෂ ජනරාල් එම්.ජී.සී සූරියබණ්ඩාර මහතාගේ උපදෙස් මත වැඩිදුර පරීක්ෂණ සඳහා නැවත ගොඩගැනීමට කටයුතු කෙරුණි.
+They were released on bail yesterday (17) after being produced before the Hingurakgoda Magistrate's Court.
+
+The three police officers had been arrested in connection with the assassination of an elephant at Dambaragama Junction on Bakandagama Junction on Bakandagama Junction yesterday.
+
+However, the babies of the buried creature, the Director General of Wildlife, MGC was recovered to recover further investigations.
 
 ◼️
 
 [Data](articles/5cafd514.json)
+
+[Extended Data](ext_articles/5cafd514.ext.json)
 
 ---
 

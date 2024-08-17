@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 14:55:03**
+As of **2024-08-17 15:06:13**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,015
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,208 (100.0%) of 41,210 articles have been extended.
+41,210 (100.0%) of 41,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### තුර්කි පාර්ලිමේන්තුවේ ගුටි බැට හුවමාරුවක්
+### A beat exchange of the Turkish Parliament
 
 *2024-08-17 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200030) · `si`
 
-විපක්ෂ මන්ත්‍රීවරයෙකු කළ ප්‍රකාශකින් කෝප වූ පාලක AK පක්ෂයේ මන්ත්‍රීවරයෙකු ඔහුට පහර දීමත් සමග තුර්කි පාර්ලිමේන්තු සභිකයින් අතර පාර්ලිමේන්තුව තුළදීම ගුටි බැට හුවමාරුවක් සිදුවිය.
+In a violent clash within the Turkish Parliament, an opposition MP, a member of the AKP, was assaulted. The incident was triggered by another opposition MP, sentenced to 18 years for attempting to overthrow the government, who sought to challenge the results of last year's election while imprisoned. Foreign media reports describe the scene as bloody.
 
-ආණ්ඩුව පෙරළා දැමීමට උත්සාහ කිරීමේ චෝදනාව මත වසර 18ක සිරදඬුවම් නියමව සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකුට නැවතත් පාර්ලිමේන්තුවට පැමිණීමට ඉඩදිය යුතු බවට විපක්ෂ මන්ත්‍රීවරයෙකු ඉල්ලීම් කිරීමත් සමග මෙම ගැටුම හටගෙන ඇති බව විදෙස් මාධ්‍ය පවසයි.
+🟩
 
-සිරදඬුවම් නියමව සිටින පුද්ගලයා සිරගතව සිටියදීම පසුගිය වසරේ පැවති මැතිවරණයට ඉදිරිපත් වී ජය ගැනීමටත් සමත් වී ඇති බව සඳහන් ය.
+With an announced by an Opposition MP, a member of the Controller of Controller AK AK was assaulted among the Turkey Parliamentary members.
 
-කෙසේ නමුත් විදෙස් මාධ්‍ය පවසන්නේ ගැටුම හේතුවෙන් පාර්ලිමේන්තුව තුළ ලේ වැගිරී ගිය බවය.
+The clash has taken place with the request of an Opposition MP who has been sentenced to 18 years in prison on the charge of trying to overcome the government.
+
+While the prison is jailed, he had come forward to overcome last year's election.
+
+However, foreign media states that the clash has been bloody due to the clash.
 
 ◼️
 
 [Data](articles/61599f1f.json)
+
+[Extended Data](ext_articles/61599f1f.ext.json)
 
 ---
 
@@ -130,19 +136,25 @@ Surgerage power, presidential power, said the presidential candidate entreprenem
 
 ---
 
-### உயர் பீடத்தில் ஆசி பெற்றார் அநுர குமார திசாநாயக்க
+### Blessed on the High Faculty Anura Kumara Dissanayake
 
 *2024-08-17 13:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-பீடத்தில்-ஆசி-பெற்றார்-அநுர-குமார-திசாநாயக்க/175-342321) · `ta`
 
-நேற்று (16) பிற்பகல் கண்டி அஸ்கிரிய மஹா விகாரையின் சியம் மஹா நிக்காய அஸ்கிரிய பீடத்தின் மஹா நாயக்க வரக்காகொட ஸ்ரீ ஞானரத்தன தேரர் மற்றும் அஸ்கிரி பீடத்தின் பிரதி பதிவாளர், அஸ்கிரி மஹா விகாரை பரிவேனாதிபதி சங்கைக்குரிய நாரம்பனாவே ஆனந்த மஹா நாயக்க தேரர் ஆகியோரை தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுர குமார திசாநாயக்க சந்தித்தார்.
+Anura Kumara Dissanayake, a presidential candidate from the National People's Power party, has been endorsed by the Maha Sangha due to his discussions on the country's political situation. He previously served as the Deputy Registrar of the Asgiri Maha Vihara and the Maha Nikaya Asgiriya Asgiriya Peetham. His endorsement comes ahead of the upcoming presidential election.
 
-இன்றளவில் நாட்டில் நிலவுகின்ற அரசியல் நிலைமை பற்றி அவரை உள்ளிட்ட மஹா சங்கத்தினருடன் கலந்துரையாடிய அநுர குமார திசாநாயக்க எதிர்வரும் ஜனாதிபதி தோ்தலில் வெற்றி பெறுவதற்கான அவர்களின் நல்லாசியை பெற்றுக்கொண்டார்.
+🟩
 
-இத்தருணத்தில் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் லால் காந்த பங்கேற்றார். R
+The Presidential Candidate of the National People's Power, Anura Kumara Nayaka, who was the Deputy Registrar of the Asgiri Maha Vihara, the Deputy Registrar of the Asgiri Peetha, the Maha Nikaya Asgiriya Asgiriya Peetham of the Asgiriya Maha Viharaya of Kandy.
+
+Anura Kumara Dissanayake, who discussed the political situation in the country today with the Maha Sangha, has received their goodness to win the upcoming President.
+
+At this time, Lal Magnetic Assembly of the National People's Power. Remble
 
 ◼️
 
 [Data](articles/c258a928.json)
+
+[Extended Data](ext_articles/c258a928.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 12:21:22**
+As of **2024-08-17 12:36:26**
 
 ## Newspaper Stats
 
-*Scraped **41,197** Articles*
+*Scraped **41,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,785
 dailymirrorlk | 4,733
-adaderanalk | 4,811
+adaderanalk | 4,812
 tamilmirrorlk | 5,278
 virakesarilk | 6,537
 adaderanasinhalalk | 7,008
@@ -26,51 +26,81 @@ adaderanasinhalalk | 7,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,195 (100.0%) of 41,197 articles have been extended.
+41,197 (100.0%) of 41,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### பூண்டுலோயாவில் தீ விபத்து ; 25 லைன் வீடு  தீக்கரை ; 86 பேர் நிர்கதி
+### Sri Lanka strongly object to construction of ‘Tamil Genocide Monument’ in Canada
 
-*2024-08-17 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191286) · `ta`
+*2024-08-17 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101301/sri-lanka-strongly-object-to-construction-of-tamil-genocide-monument-in-canada) · `en`
 
-பூண்டுலோயா பொலிஸ் பிரிவுக்குட்பட்ட சீன் பழைய தோட்டம் என்றழைக்கப்படும் சீன் லோவர் தோட்டத்தில் வெள்ளிக்கிழமை (16) இரவு  8  மணியளவில் ஏற்பட்ட திடீர் தீ விபத்து சம்பவத்தில் 25 லைன்  வீடுகள் எரிந்து தீக்கரையாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Sri Lanka’s Minister of Foreign Affairs Ali Sabry summoned the Canadian High Commissioner on Friday (16) to reiterate Sri Lanka’s strong objections conveyed on several occasions previously to the laying of foundation stone for the construction of a so–called “Tamil Genocide Monument” at the Chinguacousy Park in Brampton, Canada on 14 August 2024, the Ministry of Foreign Affairs said.
 
-இந்த திடீர் தீவிபத்து சம்பவத்தில் பாதிக்கப்பட்ட 25 வீடுகளை சேர்ந்த 86 பேர் நிர்கதிக்குள்ளான நிலையில், அவர்கள்  ஆலய மண்டபம் மற்றும் உறவினர்களின் வீடுகளில் தற்காலிகமாக தங்க வைக்கப்பட்டுள்ளனர்.
+Issuing a statement, the ministry stated that Foreign Minister Sabry emphasized that the Government of Sri Lanka categorically rejects this outrageously false narrative, which is being perpetuated for vote bank politics within Canada.
 
-இந்த சம்பவத்தினால் அதிர்ச்சிக்கு உள்ளான இரு வயோதிபர்கள் கொத்மலை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-வீடுகளை இழந்துள்ள மூன்று கர்பிணி தாய்மார்கள் உறவினர்களின் வீடுகளில் பாதுகாப்பாக தங்க வைக்கப்பட்டுள்ளனர்.
-
-தீ விபத்திற்கான காரணம் மற்றும் சேத விபரங்களை கண்டறிய பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளார்கள்.
-
-அதேநேரம் இந்த தீ விபத்து சம்பவம் இடம்பெற்ற சிறிது நேரத்தில் சீன் தோட்டத்திற்கான மின்சாரம் துண்டிக்கப்பட்டுள்ளது.
+Minister Sabry noted that ill-advised action by the City Council of Brampton is offensive to all peace-loving people in Canada and Sri Lanka. The so-called allegation of a genocide in Sri Lanka is a fabrication based on malicious disinformation and is not substantiated by any responsible authority, nationally or internationally, the statement highlighted.
 
 ...
 
-[Data](articles/b670c9e3.json)
+[Data](articles/1d4c0fac.json)
 
 ---
 
-### වතු නිවාස පෙළක් ගිනිගෙන විනාශ වෙයි
+### Fire in Punduloya;25 Line House Firekarai;86 people
+
+*2024-08-17 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191286) · `ta`
+
+A devastating house fire in Punduloya's Sean Lower Estate killed 86 people from 25 homes. Victims, including two-year-olds and three pregnant women, are sheltered temporarily. The cause is unknown, and power was cut off post-fire. Delays in the arrival of the Nuwara Eliya Municipal Fire Division hampered efforts to control the blaze.
+
+🟩
+
+The fire that broke out at the Sean Lower Estate, which is known as the Sean Old Garden of the Punduloya police division on Friday (16), has been burnt to death, police said.
+
+As 86 people belonging to the 25 houses affected by the fire, they have been temporarily housed in the temple hall and relatives' homes.
+
+Two -year -olds who were shocked by the incident have been admitted to the Kotmalai Divisional Hospital.
+
+Three pregnant mothers who have lost their homes have been kept safe in the houses of relatives.
+
+Police are investigating the cause and damage of the fire.
+
+At the same time, the electricity for the Sean estate was cut off shortly after the fire.
+
+It is reported that the youths have been struggling to bring the fire under control and that the Nuwara Eliya Municipal Fire Division has been invited and they have not arrived at the scene in a timely manner.
+
+◼️
+
+[Data](articles/b670c9e3.json)
+
+[Extended Data](ext_articles/b670c9e3.ext.json)
+
+---
+
+### Estate housing is set on fire
 
 *2024-08-17 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200023) · `si`
 
-පූඩළුඔය පොලිස් වසමට අයත් සීන් වත්තේ වතු නිවාස 24ක් ගිනිගෙන විනාශවී ඇති බව පූඩළුඔය පොලීසිය පවසයි.
+A massive fire broke out in estate housing under the Pedaluoya Police Division, destroying 24 houses. The blaze started around 8:00 pm and quickly spread, involving plantation workers and police from the nearby Poonooya Police station. Fortunately, no injuries were reported. The cause remains unknown, and the extent of the damage is still being assessed.
 
-මෙම ගින්න ඊයේ (16) රාත්‍රි 8.00 පමණ එක් නිවසික් හටගෙන ඇති අතර, පසුව සෙසු නිවාසවලට වේගයෙන් පැතිරී ගොස් තිබේ.
+🟩
 
-කෙසේ වෙතත් පැතිරී ගිය ගින්න වතු කම්කරුවන් සහ පූඩළුඔය පොලීසියේ නිලධාරින් එක්වී දැඩි පරිශ්‍රමයක් දරා පාලනය කිරීමට සමත්වී තිබුණි.
+24 24 houses have been destroyed in the area belonging to the area belonging to the Pedaluoya Police Division.
 
-ගින්නෙන් කිසිවෙකුට හෝ තුවාල සිදුවී නොමැති අතර, ගිනිගත් වතු නිවාසවල පවුල් 24කට අයත් සාමාජිකයන් 70කට ආසන්න පිරිසක් එම වතුයායේම ආරක්ෂිත ස්ථානයක මේ වනවිට රඳවා සිටී.
+The fire had broken down at around 8.00 pm yesterday (16), and then fast spread to the homes.
 
-ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර, ගින්නෙන් සිදුවූ හානිය ද මෙතෙක් තක්සේරු කර නොමැත.
+However, the spreading fire had joined the plantation workers and the officers of the Poonooya Police.
+
+No one has been injured in the fire
+
+The cause of the fire is yet to be ascertained, and the damage caused by the fire has not been estimated.
 
 ◼️
 
 [Data](articles/b514ea3a.json)
+
+[Extended Data](ext_articles/b514ea3a.ext.json)
 
 ---
 
@@ -2235,23 +2265,5 @@ The Ministry of External Affairs says that the necessary mediation is being carr
 [Data](articles/63f7a620.json)
 
 [Extended Data](ext_articles/63f7a620.ext.json)
-
----
-
-### Niroshan Dickwella found guilty of doping violation
-
-*2024-08-16 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101289/niroshan-dickwella-found-guilty-of-doping-violation) · `en`
-
-Sri Lankan cricketer Niroshan Dickwella has been found guilty of a doping violation during the recent Lanka Premiere League (LPL).
-
-This has reportedly been revealed following a doping test conducted by the Sri Lanka Anti-Doping Agency.
-
-Meanwhile, sources said that Dickwella has been suspended from all forms of cricket due to the alleged doping violation.
-
-◼️
-
-[Data](articles/dde22b55.json)
-
-[Extended Data](ext_articles/dde22b55.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 12:36:26**
+As of **2024-08-17 12:53:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,197 (100.0%) of 41,198 articles have been extended.
+41,198 (100.0%) of 41,198 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Minister Sabry noted that ill-advised action by the City Council of Brampton is 
 ...
 
 [Data](articles/1d4c0fac.json)
+
+[Extended Data](ext_articles/1d4c0fac.ext.json)
 
 ---
 

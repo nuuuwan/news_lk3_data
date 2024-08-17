@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 17:21:23**
+As of **2024-08-17 17:36:47**
 
 ## Newspaper Stats
 
-*Scraped **41,234** Articles*
+*Scraped **41,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,818
 tamilmirrorlk | 5,288
 virakesarilk | 6,538
-adaderanasinhalalk | 7,023
+adaderanasinhalalk | 7,024
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,233 (100.0%) of 41,234 articles have been extended.
+41,234 (100.0%) of 41,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### එංගලන්ත ලයන්ස් පුහුණු තරගය ජය ගනී
+
+*2024-08-17 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200041) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සමග පැවති පුහුණු තරගයෙන් කඩුලු 07ක ජයක් හිමි කරගැනීමට එංගලන්ත ලයන්ස් කණ්ඩායම සමත්විය.
+
+ඒ තරගයේ ජයග්‍රාහණය සඳහා ඔවුන්ට හිමිවු ලකුණු 122ක ඉලක්කය කඩුලු 03ක් පමණක් දැවී පසුකරයාමට සමත් වීමත් සමගය.
+
+තරගයේ පළමු ඉනිම සඳහා ශ්‍රී ලංකා කණ්ඩායම සියලුදෙනා දැවී ලබාගත් ලකුණු 139ට පිළිතුරු ලෙස එංගලන්ත ලයන්ස් කණ්ඩායම පළමු ඉනිම සඳහා ලකුණු 324ක් ලබා ගත්තේය.
+
+දෙවන ඉනිම සඳහා ශ්‍රී ලංකා කණ්ඩායම ලකුණු 306ක් ලබා ගත් අතර ඒ අනුව එංගලන්ත ලයන්ස් කණ්ඩායමට ජයග්‍රහණය සඳහා ලකුණු 122ක ඉලක්කයක් හිමිවී තිබුණි.
+
+◼️
+
+[Data](articles/1e14c174.json)
+
+---
 
 ### The budget member who joined Sajith's first meeting
 
@@ -52,17 +70,23 @@ Meanwhile, Matara district parliamentarian Karunadasa Kodhithu today (17) has jo
 
 ---
 
-### சஜித்துடன் இணைந்த மொட்டு உறுப்பினர்
+### The budge member attached to Sajith
 
 *2024-08-17 16:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்த-மொட்டு-உறுப்பினர்/175-342329) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச பங்கேற்கும் பொதுக்கூட்டம்  அக்குரஸ்ஸவில் ஆரம்பமாகியுள்ளது.
+Sajith Premadasa, leader of United People's Power, started a public gathering in Akuressa. Meanwhile, Matara district MP Karunadasa Kodhithu endorsed him as the presidential candidate.
 
-இதன்போது, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் மாத்தறை மாவட்ட பாராளுமன்ற உறுப்பினர் கருணாதாச கொடித்துவக்கு இன்று (17) ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவு தெரிவித்து அவருடன் இணைந்து கொண்டுள்ளார். R
+🟩
+
+United People's Power President Sajith Premadasa has begun a public meeting in Akuressa.
+
+Meanwhile, Matara district parliamentarian Karunadasa Kodhithu today (17) has joined the Presidential candidate Sajith Premadasa.. Remble
 
 ◼️
 
 [Data](articles/c63b71df.json)
+
+[Extended Data](ext_articles/c63b71df.ext.json)
 
 ---
 
@@ -2229,25 +2253,5 @@ It is impossible to mention who is in the presidential election. Because 22 perc
 [Data](articles/337c8efb.json)
 
 [Extended Data](ext_articles/337c8efb.ext.json)
-
----
-
-### Advisory issued for heavy rainfall in parts of the country
-
-*2024-08-16 20:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101294/advisory-issued-for-heavy-rainfall-in-parts-of-the-country) · `en`
-
-The Department of Meteorology has issued an advisory for heavy rainfall, valid for the next 12 hours, for the Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Prevailing showery condition over the South Western parts of the Island is expected to enhanced due to the low-level atmospheric disturbance in the vicinity of Sri Lanka during today and tomorrow (17), it said.
-
-Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, the advisory warns.
-
-The general public is therefore kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/2620f4f6.json)
-
-[Extended Data](ext_articles/2620f4f6.ext.json)
 
 ---

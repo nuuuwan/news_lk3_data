@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 11:21:24**
+As of **2024-08-17 11:36:44**
 
 ## Newspaper Stats
 
-*Scraped **41,187** Articles*
+*Scraped **41,192** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 350
+dbsjeyarajcom | 351
 newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 393
@@ -17,20 +17,86 @@ economynextcom | 2,499
 dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
-adaderanalk | 4,809
+adaderanalk | 4,811
 tamilmirrorlk | 5,278
-virakesarilk | 6,534
+virakesarilk | 6,536
 adaderanasinhalalk | 7,006
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,187 (100.0%) of 41,187 articles have been extended.
+41,187 (100.0%) of 41,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### Landslide early warnings issued for 4 districts
+
+*2024-08-17 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101300/landslide-early-warnings-issued-for-4-districts) · `en`
+
+The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in four districts, as heavy rainfall continues in parts of the island.
+
+Accordingly, a Level 2 (Amber) warning has been issued for several areas in the Galle, Kalutara, Matara and Ratnapura districts as follows:
+
+Galle – Elpitiya, Neluwa, Yakkalamulla and Nagoda Divisional Secretariat Divisions (DSD) and surrounding areas
+
+Kalutara – Ingirya, Horana, Bulathsinhala and Mathugama DSDs and surrounding areas
+
+Ratnapura- Kuruwita, Ratnapura, Elapatha, Eheliyagoda and Kalawana DSDs and surrounding areas
+
+Meanwhile, a Level 1 (Yellow) warning was issued for the following areas:
+
+Kegalle- Dehiowita, Deraniyagala, Warakapola, Yatiyanthota, Kegalle DSDs and surrounding areas
+
+Meanwhile, the NBRO says that this warnings will be in effect until 5.00 a.m. tomorrow (18).
+
+◼️
+
+[Data](articles/646094f6.json)
+
+---
+
+### Suspect arrested after trying to buy gold chain with over 100 fake currency notes
+
+*2024-08-17 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101299/suspect-arrested-after-trying-to-buy-gold-chain-with-over-100-fake-currency-notes) · `en`
+
+Police have arrested a 33-year-old man in possession of over 100 counterfeit currency notes of the Rs. 5,000 denomination in the Ratnapura area.
+
+The Police Media Division said that the arrest was made following a tip-off from a local jewellery shop manager who became suspicious of the currency notes when the suspect attempted to purchase gold jewellery.
+
+The suspect had entered the shop and produced a bundle of Rs. 5,000 notes on Friday (17), claiming that he wished to purchase a gold chain. However, the manager, noticing discrepancies in the currency notes, had informed the police in this regard.
+
+Upon inspection, police officers have found 102 counterfeit Rs. 5,000 notes and a pen drive in the suspect’s possession.
+
+Preliminary investigations have revealed that the suspect had printed the counterfeit notes using a printer at his home.
+
+Ratnapura Police have taken the suspect and the forged currency notes into custody and are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/fcfb81a6.json)
+
+---
+
+### காலி மாவட்டத்தில் அதிகளவான மழைவீழ்ச்சி பதிவு
+
+*2024-08-17 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191278) · `ta`
+
+இலங்கைக்கு மேலாக வளிமண்டலத்தின் கீழ் மட்டத்தில் தென்படுகின்ற இடையூரின் காரணமாக நாட்டின் தென்மேற்குப் பிராந்தியத்தில் நிலவுகின்ற மழையுடனான வானிலை அதிகரித்துள்ளது.
+
+இந்நிலையில், இன்று அதிகாலை 1 மணிவரையான காலப்பகுதிக்குள் காலி மாவட்டத்தில் நெலுவ பகுதியில் 191.5 மில்லிமீற்றர் அளவில் பலத்த மழைவீழ்ச்சி பதிவாகியுள்ளது.
+
+அத்துடன், களுத்துறை மாவட்டதில் வலல்லாவிட்ட பகுதியில் 177 மில்லிமீற்றரும், ஹொரண பகுதியில் 120 மில்லிமீற்றரும் மழைவீழ்ச்சி பதிவாகியுள்ளது.
+
+கொழும்பு மாவட்டத்தில் 116.5 மில்லிமீற்றரும், இரத்தினபுரி மாவட்டத்தில் எஹலியகொடை 116 மில்லிமீற்றரும் மழைவீழ்ச்சி பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/99d93801.json)
+
+---
 
 ### Flood warning issued as Kuda Ganga water level rises
 
@@ -91,6 +157,28 @@ The Irrigation Department alerted to the lowlands of the low-owned areas of the 
 [Data](articles/94d1a8ab.json)
 
 [Extended Data](ext_articles/94d1a8ab.ext.json)
+
+---
+
+### சூடானில் தாக்குதல் ; 80 பேர் பலி
+
+*2024-08-17 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/191272) · `ta`
+
+சூடானில் போரால் பாதிக்கப்பட்ட தென்கிழக்கில் உள்ள ஒரு கிராமத்தில் துணை இராணுவப் படைகள் நடத்திய தாக்குதலில் குறைந்தது 80 பேர் கொல்லப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+சென்னார் மாநிலத்தில் உள்ள ஜல்கினி கிராமத்தின் மீதே வியாழக்கிழமை காலை தாக்குதல் இடம்பெற்றுள்ளது.
+
+இந்த கிராமம் போரினால் பாதிக்கப்பட்டு 16 மாதங்கள் கடந்த நிலையில் சுவிட்சர்லாந்தில் போர் நிறுத்தப் பேச்சுக்கள் இடம்பெற்று வருகிறது.
+
+சூடானில் கடந்த 2023 ஆம் ஆண்டு  ஏப்ரல் மாதம் முதல் இராணுவத்துடன் போரிட்டு வரும் துணை இராணுவ படை சென்னார் மாநிலத் தலைநகரான சின்ஜாவை ஜூன் மாதம் கைப்பற்றியது.
+
+சின்னார் மாநிலத்தில் இடம்பெறும் தாக்குதல்கள் காரணமாக 725,000க்கும் அதிகமான மக்கள் அங்கிருந்து இடம்பெயர்ந்துள்ளதாக ஐக்கிய நாடுகள் சபையின் இடம்பெயர்வுக்கான சர்வதேச அமைப்பு குறிப்பிட்டுள்ளது.
+
+அத்துடன் சமீபத்திய ஐ.நா தரவுகளின்படி, சூடானிலிருந்து சுமார் 2.2 மில்லியன் மக்கள் வேறு நாடுகளில் தஞ்சம் புகுந்துள்ளதாகத் தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/8a54d4d6.json)
 
 ---
 
@@ -453,6 +541,22 @@ Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, d
 [Data](articles/be3c821b.json)
 
 [Extended Data](ext_articles/be3c821b.ext.json)
+
+---
+
+### 
+
+*2024-08-17 01:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84559) · `en`
+
+Will More MPs Defect From SJB to Ranil’s Side After Rajitha Senaratne’s Crossover?
+
+Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha  Senaratne is the latest among well-known politicians to throw in their lot with incumbent president Ranil Wickremesinghe. The Samagi Jana Balawegaya(SJB) MP for Kalutara district met with the president at the Gangaramaya temple in Colombo on 13 August and signed a memorandum of understanding (MOU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for  21 September 2024.Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
+
+Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports,  Senaratne  had stated  this motivated  him into  supporting  Wickremesinghe’s candidacy.
+
+...
+
+[Data](articles/09d4eecc.json)
 
 ---
 
@@ -1598,7 +1702,7 @@ This falsehood was exposed when the date of the presidential poll was gazetted b
 
 ---
 
-### 34 Political Parties and Alliances Endose Support for President  Ranil Wickremesinghe’s Candidacy at “Puluwan Sri Lanka”Convention in Colombo.
+### 34 Political Parties and Alliances Endorse Support for President  Ranil Wickremesinghe’s Candidacy at “Puluwan Sri Lanka”Convention in Colombo.
 
 *2024-08-16 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84553) · `en`
 
@@ -2115,111 +2219,5 @@ From the outset, it was believed that businessman and MP Dhammika Perera would b
 [Data](articles/a90c963c.json)
 
 [Extended Data](ext_articles/a90c963c.ext.json)
-
----
-
-### MP Ali Seri Shirna also supports President
-
-*2024-08-16 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200005) · `si`
-
-Ali Seri Shirna, leader of Sri Lanka's Muslim Congress Party in Batticaloa District, backs President Ranil Wickremesinghe for re-election.
-
-🟩
-
-The Batticaloa District of Sri Lanka Muslim Congress Party Ali Seri Saheer Moulana has decided to support President Ranil Wickremesinghe in the next presidential election.
-
-◼️
-
-[Data](articles/dd020464.json)
-
-[Extended Data](ext_articles/dd020464.ext.json)
-
----
-
-### SLMC’s Ali Zahir Moulana pledges support to President Ranil
-
-*2024-08-16 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101287/slmcs-ali-zahir-moulana-pledges-support-to-president-ranil) · `en`
-
-Sri Lanka Muslim Congress (SLMC) Batticaloa District MP Ali Zahir Moulana has met with President Ranil Wickremesinghe and assured his support at the upcoming Presidential Election.
-
-The Deputy Leader of the SLMC has met with President Wickremesinghe at his political office on Flower Road, Colombo this afternoon (16).
-
-◼️
-
-[Data](articles/e8ed240a.json)
-
-[Extended Data](ext_articles/e8ed240a.ext.json)
-
----
-
-### Sri Lanka’s ComBank raises Rs22.54bn in largest rights issue
-
-*2024-08-16 15:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-combank-raises-rs22-54bn-in-largest-rights-issue-177057/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commercial Bank of Ceylon Plc has raised 22.54 billion rupees to increase its Tier I and total capital to facilitate future business growth.
-
-The Bank offered ordinary voting and non-voting shareholders an issue of one equivalent share for every five shares held, at 85 rupees an ordinary voting share and 69 rupees an ordinary non-voting share.
-
-It received applications for 266,079,848 ordinary voting shares valued at 22.616 billion rupees, and 17,346,959 ordinary non-voting shares to the value of 1.196 billion rupees at the conclusion of the rights issue.
-
-“Our ability to raise such a significant amount in capital at a time of economic challenge truly underlines Commercial Bank’s status as a systemically-important bank,” Commercial Bank Chairman Mr Sharhan Muhseen said.
-
-This was the largest rights issue to date by a bank in the country, the bank said in a statement.
-
-...
-
-[Data](articles/09aac897.json)
-
-[Extended Data](ext_articles/09aac897.ext.json)
-
----
-
-### Permit to worship after 34 years
-
-*2024-08-16 15:53:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/34-வருடங்களின்-பின்-வழிபட-அனுமதி/46-342288) · `ta`
-
-After 34 years, the Kirimalai Krishnar Temple in Sri Lanka reopened for worship, allowing many to attend the Pongal Pongi special pooja. The temple, previously restricted due to its location within a high-security zone controlled by the Navy, is now accessible to the public, including on Fridays. This decision was welcomed by locals, with government agents and navy officials present at the reopening.
-
-🟩
-
-Permission was granted to worship the Kirimalai Krishnar Temple, which belongs to the Jaffna - Kankesanthurai West Grama Sevakar Division.. There, a large number of people went to the Pongal Pongi special pooja.
-
-For more than thirty years of the last thirty years, the public who went to the temple of Kirimalai Krishna, who had been under the control of the Navy under the military's High Security Zone, had been permitted to worship the temple after the Pongal Pongi Pooja was performed after the temple was admitted to the temple.
-
-The general public was very happy to see that the temple was degenerated after a long time.
-
-Jaffna District Government Agent Mr. Pradeepan, Jaffna District Additional Government Agent Srimohan, Red Selvar River Thirumurugan, Navy officials and civilians were present.
-
-Accordingly, the people have been allowed to go to the temple every Friday from today.
-
-...
-
-[Data](articles/054fdcf5.json)
-
-[Extended Data](ext_articles/054fdcf5.ext.json)
-
----
-
-### Murder of Thanganagar YouthBail for two people in the trial
-
-*2024-08-16 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191227) · `ta`
-
-In a court hearing, two suspects in the murder of Nadeskumar Vinodhini from Thanganagar were released on bail, while five others remain in custody for further questioning. The case, now before the Muttur Court, involves seven individuals initially arrested as suspects.
-
-🟩
-
-The murder of the murdered Thanganagar woman was taken up today (16) in the presence of Muttur Court Judge Mrs. Dasneem Mohammed Fausan.
-
-He has been granted bail to the 7th opponent of the main suspect and the 4th opponents involved in the murder, and the other five suspects will be remanded for a further 14 days.
-
-The case was taken up for the third time today at the Muttur Magistrate's Court. Based on the investigation of the bail application on behalf of the enemy, he ordered the release of the 7th opponent of the main suspect in the murder and the 4th opponent of the JCP machine, the 4th opponent of the JCP machine.
-
-Nadeskumar Vinodhini (age 25) from Thanganagar village in the Seruvila Divisional Secretariat Division was murdered and was recovered on the 5th of July after being buried in a well in a quarter of the village.
-
-...
-
-[Data](articles/021b0350.json)
-
-[Extended Data](ext_articles/021b0350.ext.json)
 
 ---

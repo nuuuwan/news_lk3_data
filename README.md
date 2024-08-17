@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 09:21:17**
+As of **2024-08-17 09:36:45**
 
 ## Newspaper Stats
 
-*Scraped **41,181** Articles*
+*Scraped **41,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,499
 dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
-adaderanalk | 4,807
+adaderanalk | 4,808
 tamilmirrorlk | 5,276
 virakesarilk | 6,533
 adaderanasinhalalk | 7,005
@@ -26,31 +26,55 @@ adaderanasinhalalk | 7,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,179 (100.0%) of 41,181 articles have been extended.
+41,181 (100.0%) of 41,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### இலங்கையில் கடவுச்சீட்டு பெறுவது மட்டுப்படுத்தப்பட்டது
+### First case of polio confirmed in a 10-month-old child in Gaza, Palestinian health officials say
+
+*2024-08-17 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101297/first-case-of-polio-confirmed-in-a-10-month-old-child-in-gaza-palestinian-health-officials-say) · `en`
+
+Palestinian health officials on Friday reported the first case of polio in an unvaccinated 10-month-old child in the Gaza city of Deir al-Balah, the first case in years in the coastal enclave that has been engulfed in the Israel-Hamas war since Oct. 7.
+
+After discovering the child’s symptoms, tests were conducted in Jordan’s capital of Amman and the case was confirmed to be polio, the health officials said.
+
+The potentially fatal, paralyzing disease mostly strikes children under the age of 5 and typically spreads through contaminated water. Pakistan and Afghanistan are the only countries where the spread of polio has never been stopped.
+
+The World Health Organization did not immediately respond to requests to confirm the case. However, U.N. health and children’s agencies have called for seven-day pauses in the fighting, starting at the end of August, to vaccinate 640,000 Palestinian children against polio.
+
+...
+
+[Data](articles/dc2fc238.json)
+
+---
+
+### Passport in Sri Lanka is limited
 
 *2024-08-17 08:48:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கடவுச்சீட்டு-பெறுவது-மட்டுப்படுத்தப்பட்டது/175-342316) · `ta`
 
-கடவுச்சீட்டு அச்சிடும் புத்தகங்கள் தீர்ந்துவிட்டதால், தினசரி வழங்கப்படும் கடவுச்சீட்டுகளின் எண்ணிக்கை 250 ஆக மட்டுப்படுத்தப்பட்டுள்ளதாக குடிவரவுத் திணைக்கள வட்டாரங்கள் தெரிவிக்கின்றன.
+Sri Lanka has limited passport issuance to 250 per day due to exhausted printing books and delays in e-Passport supplies. Only those without prior bookings can get passports. The Immigration Department advises against non-urgent passport applications until October.
 
-மேலும், திகதி மற்றும் நேரத்தை முன்பதிவு செய்யாமல் வரும் 30 பேருக்கு மட்டுமே கடவுச்சீட்டு வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+🟩
 
-விமான அனுமதிக்கான இ-பாஸ்போர்ட் முறையை உருவாக்க முடிவு செய்ததால், இந்த ஆண்டுக்கு தேவையான புத்தகங்கள் வாங்கப்படவில்லை.
+The number of passports issued daily has been limited to 250, as the passport printing books are exhausted, the Immigration Department sources said.
 
-ஆனால், ஜூலையில் வரவிருந்த இ-பாஸ்போர்ட் புத்தகங்கள் அக்டோபர் வரை தாமதமானதால், குடிவரவுத் துறைக்குச் சொந்தமான பாஸ்போர்ட் புத்தகங்களின் அளவு குறையத் தொடங்கியது. இதன் காரணமாக கடவுச்சீட்டு வழங்குவதை முடிந்தவரை மட்டுப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+In addition, only 30 people who have not booked the date and time have been taken to issue a passport.
 
-தினமும் சுமார் 1,300 பாஸ்போர்ட்டுகள் அச்சிடப்பட்டாலும், தற்போது அது 250 முதல் 300 வரை குறைந்துள்ளது.
+Since it decided to create the e-Passport system for air permit, the books needed for this year were not purchased.
 
-அவசர தேவை இல்லாவிட்டால் ஒக்டோபர் மாதம் வரை கடவுச்சீட்டு விண்ணப்பங்களை மேற்கொள்ள வேண்டாம் என குடிவரவு மற்றும் குடியகல்வு கட்டுப்பாட்டாளர் ஜெனரல் ஹர்ஷ இலுக்பிட்டிய அண்மையில் தெரிவித்திருந்தார்.
+However, as the e-Passport books in July have been delayed until October, the size of passport books belonging to the Immigration Department began to decline.. Due to this, steps have been taken to limit the issue of passports as much as possible.
+
+Although about 1,300 passports are printed daily, it has now declined from 250 to 300.
+
+Immigration and Emigration Controller General Harsha Ilukpitiya recently stated that if there is no urgent need, no passport applications until October.
 
 ...
 
 [Data](articles/b19083f4.json)
+
+[Extended Data](ext_articles/b19083f4.ext.json)
 
 ---
 
@@ -288,19 +312,25 @@ Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, d
 
 ---
 
-### பொருளாதாரம் 3 சதவீதம் அதிகரிக்கும்
+### The economy will increase by 3 percent
 
 *2024-08-17 01:26:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரம்-3-சதவீதம்-அதிகரிக்கும்/175-342313) · `ta`
 
-அடுத்த வருடம் மார்ச் மாதம் வரையில் இலங்கையின் பணவீக்கம் எதிர்பார்த்த இலக்கை விடவும் தாழ்ந்த மட்டத்தில் இருக்கும் என இலங்கை மத்திய வங்கி தெரிவித்துள்ளது.
+Sri Lanka's economy is projected to grow by 3% this year, according to the Central Bank, which also forecasts lower-than-expected inflation until March 2024. This outlook was shared in the bank's latest Monetary Policy Report.
 
-இலங்கை மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள நாணயக் கொள்கை அறிக்கையில் இந்த விடயம் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-இந்த வருடத்தின் இறுதியில் இலங்கையின் பொருளாதாரம் 3 சதவீதம் அதிகரிக்கும் என எதிர்பார்ப்பதாகவும் இலங்கை மத்திய வங்கி எதிர்வு கூறியுள்ளது. (a)
+The Central Bank of Sri Lanka has said that Sri Lanka's inflation will be lower than the expected goal until March next year.
+
+This is mentioned in the Monetary Policy Report issued by the Central Bank of Sri Lanka.
+
+Sri Lanka's economy is expected to increase by 3 per cent by the end of this year, the Central Bank of Sri Lanka. (A)
 
 ◼️
 
 [Data](articles/78265319.json)
+
+[Extended Data](ext_articles/78265319.ext.json)
 
 ---
 
@@ -2183,27 +2213,5 @@ The Consumer Affairs Authority of the Consumer Affairs has taken the lentils and
 [Data](articles/ef4278ad.json)
 
 [Extended Data](ext_articles/ef4278ad.ext.json)
-
----
-
-### Marikar denies Maithri's message
-
-*2024-08-16 15:25:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-செய்தியை-மறுத்தார்-மரிக்கார்/175-342287) · `ta`
-
-SM Marikar, spokesperson for the United People's Power, dismisses rumors that former President Maithripala Sirisena has joined their party, calling it a "false story" spread by a defeated government.
-
-🟩
-
-United People's Power spokesman SM Marikar says the news that former President Maithripala Sirisena joined the United People's Power is untrue.
-
-Former President Maithripala Sirisena has denied the news that he has joined the United People's Power.
-
-“This is a false story that is spread by the government that faces defeat. The government and its allies are currently spreading fake stories, ”said MP Marikar.
-
-◼️
-
-[Data](articles/6007a74b.json)
-
-[Extended Data](ext_articles/6007a74b.ext.json)
 
 ---

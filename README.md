@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 18:14:40**
+As of **2024-08-17 18:26:07**
 
 ## Newspaper Stats
 
-*Scraped **41,239** Articles*
+*Scraped **41,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,42 @@ adalk | 3,789
 dailymirrorlk | 4,733
 adaderanalk | 4,819
 tamilmirrorlk | 5,289
-virakesarilk | 6,538
+virakesarilk | 6,539
 adaderanasinhalalk | 7,026
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,236 (100.0%) of 41,239 articles have been extended.
+41,239 (100.0%) of 41,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### තවත් පාසල් සිසුවියකට අතවර කළ සිද්ධියක්
+### An eventually abused another school girl
 
 *2024-08-17 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200043) · `si`
 
-බාලවයස්කාර දැරියකට ලිංගික අතවර සිදුකළ බව කියන පාසල් ගුරුවරයෙකු සහ එම සිදුවීම වසන් කළ බවට චෝදනා එල්ලවූ අදාළ පාසලේ නියෝජ්‍ය විදුහල්පතිනිය මහවෙල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A school teacher and the Deputy Principal were arrested for sexual abuse and covering it up. The victim, a minor, was advised by the Deputy Principal to keep quiet about the incident.
 
-පොලිස් හදිසි ඇමතුම් අංකයට ලද පැමිණිල්ලක් මත මහව පොලීසිය සිදුකළ විමර්ශනයකින් පසු සැකකරු හා සැකකාරිය අත්අඩංගුවට ගෙන ඇති බව පොලිස් මූලස්ථානය සඳහන් කළේය.
+🟩
 
-12 හැවිරිදි අදාළ දැරිය ඉගෙනුම ලබන පාසලේ ගුරුවරයෙකු විසින් ඇය ලිංගික අතවරයට ලක් කර ඇති අතර ඒ සම්බන්ධයෙන් දැරිය විසින් පාසලේ නියෝජ්‍ය විදුහල්පතිනිය දැනුවත් කර ඇති බව සඳහන්ය.
+The Deputy Principal of the Mahawela Police have arrested a school teacher who was sexually abused and accused of concealment of a minor girl.
 
-කෙසේවෙතත් එම සිදුවීම කිසිදු අයෙකුට නොදන්වන ලෙස නියෝජ්‍ය විදුහල්පතිනිය දැරියට ප්‍රකාශ කර ඇති බව පොලීසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+The suspect and the suspect had been arrested following a complaint lodged by the police emergency number.
 
-ඒ අනුව එම සිද්ධියට අදාළ 51 හැවිරිදි ගුරුවරයා සහ 49 හැවිරිදි නියෝජ්‍ය විදුහල්පතිනිය මහවෙල පොලීසිය මගින් අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් සම්බන්ධයෙන් අධිකරණ ක්‍රියාමාර්ග ගැනීමට නියමිත බව පොලිස් මූලස්ථානය සඳහන් කළේය.
+She had been sexually abused by a teacher of the school's study, a teacher of the school.
+
+Investigations have revealed that the Deputy Principal had told the girl not to unaware that incident.
+
+Accordingly, the 51-year-old teacher and 49 year old Deputy Principal have been arrested by the Mahawela Police.
 
 ◼️
 
 [Data](articles/043e6b1d.json)
+
+[Extended Data](ext_articles/043e6b1d.ext.json)
 
 ---
 
@@ -66,19 +72,33 @@ The 58-year-old stated that the team of the yesteryears inspired their rivals to
 
 [Data](articles/a30d2bb4.json)
 
+[Extended Data](ext_articles/a30d2bb4.ext.json)
+
 ---
 
-### நித்திரையில் இருந்த 5 வயது குழந்தை கடத்தல்
+### 5 -year -old child trafficking
 
 *2024-08-17 17:40:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நித்திரையில்-இருந்த-5-வயது-குழந்தை-கடத்தல்/175-342330) · `ta`
 
-வீடு ஒன்றில் நித்திரையில் இருந்த 5 வயது சிறுவனை கடத்தல்காரன் ஒருவன் கடத்தி காட்டுக்குள் கொண்டு சென்ற குழந்தையை மீட்டதுடன் கடத்தல் காரணை பிரதேச மக்கள் மடக்கி பிடித்து நையப்புடைப்பு செய்து பொலிஸாரிடம் ஒப்படைத்த சம்பவம்   மட்டக்களப்பு  வாகரை பிரதேசத்தில் சனிக்கிழமை (17) அதிகாலையில் இடம் பெற்றுள்ளதுடன் அந்த பகுதியில் பெரும் பரபரப்பு ஏற்பட்டது என பொலிஸார் தெரிவித்தனர்
+In a tragic incident, a 5-year-old boy named Mohan Keerthi was kidnapped from his home in Vaharai. The abductor was later apprehended by locals who found the child hidden in the jungle. The suspect, a 35-year-old known for thefts, was remanded until the 23rd after being brought before the Valaichenai Magistrate's Court.
 
-வாகரை 5ம் வட்டாரத்தைச் சேர்ந்த 5 வயதுடைய மோகன் கீர்த்தி என்ற குழந்தை தாய் தந்தையுடன்  நித்திரையில் இருந்த நிலையில் சம்பவம் தினமான சனிக்கிழமை (17) அதிகாலை 3.30 மணியளவில் குறித்த  குழந்தை பால் கேட்டதை அடுத்து  தயார் தந்தைக்கு பக்கத்தில் சிறுவனை படுக்க வைத்துவிட்டு சமையலறைக்கு சென்று பால் போத்தலுடன் திரும்பி வந்தபோது நித்திரையில்  இருந்த குழந்தையை காணாததை அடுத்து அந்த பகுதி மக்கள் ஒன்று திரண்டு குழந்தையை தேடினர்.
+🟩
 
-...
+A 5 -year -old boy who was sleeping in a house was rescued by a kidnapper who was abducted and handed over to the police and handed over to the police and handed over to the police.
+
+Mohan Keerthi, a 5 -year -old child from Vaharai 5th, was sleeping with her mother's father on Saturday (17) at 3.30 am when the child was ready to go to the kitchen and returned to the kitchen and returned to the kitchen with a milk bottle.The gathering was searched for the baby.
+
+During this time, people who saw a child abducted and went to the jungle, searched the forest and left the child in the jungle and hid him in the area.
+
+The incident caused a stir in the area and the kidnapper was arrested in the area of ​​35 -year -old and addictive in a number of thefts.Preliminary inquiries by the police revealed.
+
+When the man was produced before the Valaichenai Magistrate's Court, the magistrate ordered him to be remanded until the 23rd.
+
+◼️
 
 [Data](articles/d194bd14.json)
+
+[Extended Data](ext_articles/d194bd14.ext.json)
 
 ---
 
@@ -219,6 +239,26 @@ Meanwhile, the Department of Meteorology has said that the current rainfall in t
 [Data](articles/e8c38072.json)
 
 [Extended Data](ext_articles/e8c38072.ext.json)
+
+---
+
+### கடந்த 24 மணித்தியாலங்களில் இரத்தினபுரியில் அதிக மழைவீழ்ச்சி பதிவு!
+
+*2024-08-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191320) · `ta`
+
+இன்று காலை 8.30 மணியுடன் நிறைவடைந்த 24  மணித்தியாலங்களில் இரத்தினபுரி மாவட்டம் எஹலியகொடை பகுதியில் 233 மில்லிமீற்றர் மழை வீழ்ச்சி பதிவாகியுள்ளது.
+
+புலத்சிங்கள, மதுராவளை மற்றும் பாலிந்தநுவர பிரதேச செயலகப் பிரிவுகளுக்குட்பட்ட குடா மற்றும் மகுரு ஆறுகளை அண்மித்த தாழ்நிலப் பகுதிகளில் வசிப்பவர்களுக்கு வெள்ள அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இந்த எச்சரிக்கை அடுத்த 48 மணித்தியாலங்களுக்கு அமுலில் இருக்கும் என நீர்ப்பாசன திணைக்களம் தெரிவித்துள்ளது.
+
+இந்நிலையில்,  தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் ஐந்து மாவட்டங்களில் உள்ள பல பிரதேச செயலகங்களுக்கு மண்சரிவு எச்சரிக்கை விடுத்துள்ளது.
+
+இலங்கைக்கு மேலாக வளிமண்டலத்தின் கீழ் மட்டத்தில் தென்படுகின்ற தளம்பல் நிலையினால்  நாட்டின் தென்மேற்குப் பிராந்தியத்தில் நிலவுகின்ற மழையுடனான வானிலை அதிகரிக்கும் என  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b6d3786b.json)
 
 ---
 
@@ -2215,27 +2255,5 @@ Moreover, for the first time in this election, the Election Expenditure Regulato
 [Data](articles/3d748108.json)
 
 [Extended Data](ext_articles/3d748108.ext.json)
-
----
-
-### Pamphlet supply in Vavuniya City
-
-*2024-08-16 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191236) · `ta`
-
-The Tamil National People's Front in Vavuniya distributed a pamphlet urging a boycott of the upcoming presidential election until the removal of the unity constitution and the establishment of the Samasti constitution. The event was attended by MP Selvarajah Gajendran and several party supporters.
-
-🟩
-
-The Tamil National People's Front issued a pamphlet today (16) in Vavuniya by the Tamil National People's Front demanding the boycott of the presidential election.
-
-The pamphlet was distributed in the tone of the tone of the presidential election until the unity constitution was removed and the Samasti constitution was created.
-
-Tamil National People's Front MP Selvarajah Gajendran and many supporters of the party were present.
-
-◼️
-
-[Data](articles/f67d2fe2.json)
-
-[Extended Data](ext_articles/f67d2fe2.ext.json)
 
 ---

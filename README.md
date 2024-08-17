@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 11:36:44**
+As of **2024-08-17 11:56:23**
 
 ## Newspaper Stats
 
-*Scraped **41,192** Articles*
+*Scraped **41,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 393
 islandlk | 2,380
-economynextcom | 2,499
+economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,187 (100.0%) of 41,192 articles have been extended.
+41,192 (100.0%) of 41,193 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,6 +56,8 @@ Meanwhile, the NBRO says that this warnings will be in effect until 5.00 a.m. to
 
 [Data](articles/646094f6.json)
 
+[Extended Data](ext_articles/646094f6.ext.json)
+
 ---
 
 ### Suspect arrested after trying to buy gold chain with over 100 fake currency notes
@@ -78,23 +80,31 @@ Ratnapura Police have taken the suspect and the forged currency notes into custo
 
 [Data](articles/fcfb81a6.json)
 
+[Extended Data](ext_articles/fcfb81a6.ext.json)
+
 ---
 
-### காலி மாவட்டத்தில் அதிகளவான மழைவீழ்ச்சி பதிவு
+### Most of the rainfall record in Galle district
 
 *2024-08-17 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191278) · `ta`
 
-இலங்கைக்கு மேலாக வளிமண்டலத்தின் கீழ் மட்டத்தில் தென்படுகின்ற இடையூரின் காரணமாக நாட்டின் தென்மேற்குப் பிராந்தியத்தில் நிலவுகின்ற மழையுடனான வானிலை அதிகரித்துள்ளது.
+Heavy rains hit the Galle district, especially in Neluwa, with significant amounts also recorded in Kalutara, Horana, Colombo, and Ratnapura districts due to atmospheric conditions over Sri Lanka.
 
-இந்நிலையில், இன்று அதிகாலை 1 மணிவரையான காலப்பகுதிக்குள் காலி மாவட்டத்தில் நெலுவ பகுதியில் 191.5 மில்லிமீற்றர் அளவில் பலத்த மழைவீழ்ச்சி பதிவாகியுள்ளது.
+🟩
 
-அத்துடன், களுத்துறை மாவட்டதில் வலல்லாவிட்ட பகுதியில் 177 மில்லிமீற்றரும், ஹொரண பகுதியில் 120 மில்லிமீற்றரும் மழைவீழ்ச்சி பதிவாகியுள்ளது.
+Due to the atmosphere at the atmosphere above Sri Lanka, the weather in the southwestern region of the country has increased.
 
-கொழும்பு மாவட்டத்தில் 116.5 மில்லிமீற்றரும், இரத்தினபுரி மாவட்டத்தில் எஹலியகொடை 116 மில்லிமீற்றரும் மழைவீழ்ச்சி பதிவாகியுள்ளது.
+Heavy rains have been reported in the Neluwa area in the Galle district within 1 am this morning.
+
+In addition, rainfall was reported in the Kalutara district of 177 millimeters and 120 millimeters in the Horana area.
+
+Rainfall in Colombo district was 116.5 millimeters and Ehaliyagoda 116 millimeters in Ratnapura district.
 
 ◼️
 
 [Data](articles/99d93801.json)
+
+[Extended Data](ext_articles/99d93801.ext.json)
 
 ---
 
@@ -160,25 +170,31 @@ The Irrigation Department alerted to the lowlands of the low-owned areas of the 
 
 ---
 
-### சூடானில் தாக்குதல் ; 80 பேர் பலி
+### Attack in Sudan;80 killed
 
 *2024-08-17 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/191272) · `ta`
 
-சூடானில் போரால் பாதிக்கப்பட்ட தென்கிழக்கில் உள்ள ஒரு கிராமத்தில் துணை இராணுவப் படைகள் நடத்திய தாக்குதலில் குறைந்தது 80 பேர் கொல்லப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+An attack by paramilitary forces in Sudan's Jalini village resulted in at least 80 deaths. This incident occurred 16 months after the war began, despite a ceasefire being negotiated in Switzerland. The conflict, ongoing since April 2023, has seen the paramilitary capture Senjah, Sennar's capital. Over 725,000 have been displaced, with approximately 2.2 million Sudanese seeking refuge abroad.
 
-சென்னார் மாநிலத்தில் உள்ள ஜல்கினி கிராமத்தின் மீதே வியாழக்கிழமை காலை தாக்குதல் இடம்பெற்றுள்ளது.
+🟩
 
-இந்த கிராமம் போரினால் பாதிக்கப்பட்டு 16 மாதங்கள் கடந்த நிலையில் சுவிட்சர்லாந்தில் போர் நிறுத்தப் பேச்சுக்கள் இடம்பெற்று வருகிறது.
+International media reports that at least 80 people have been killed in an attack by paramilitary forces in a village in Sudan, a village in Sudan.
 
-சூடானில் கடந்த 2023 ஆம் ஆண்டு  ஏப்ரல் மாதம் முதல் இராணுவத்துடன் போரிட்டு வரும் துணை இராணுவ படை சென்னார் மாநிலத் தலைநகரான சின்ஜாவை ஜூன் மாதம் கைப்பற்றியது.
+The attack took place on Thursday morning on the village of Jalini in Senar.
 
-சின்னார் மாநிலத்தில் இடம்பெறும் தாக்குதல்கள் காரணமாக 725,000க்கும் அதிகமான மக்கள் அங்கிருந்து இடம்பெயர்ந்துள்ளதாக ஐக்கிய நாடுகள் சபையின் இடம்பெயர்வுக்கான சர்வதேச அமைப்பு குறிப்பிட்டுள்ளது.
+16 months after the war, the ceasefire is taking place in Switzerland.
 
-அத்துடன் சமீபத்திய ஐ.நா தரவுகளின்படி, சூடானிலிருந்து சுமார் 2.2 மில்லியன் மக்கள் வேறு நாடுகளில் தஞ்சம் புகுந்துள்ளதாகத் தெரிவிக்கப்படுகின்றது.
+In June, the paramilitary force, which has been fighting with the army since April 2023 in Sudan, captured Senjah, the state capital of Sennar.
+
+More than 725,000 people have been displaced due to attacks in Chinnar, the International Organization for Migration of the United Nations said.
+
+According to recent UN data, about 2.2 million people from Sudan have sought refuge in other countries.
 
 ◼️
 
 [Data](articles/8a54d4d6.json)
+
+[Extended Data](ext_articles/8a54d4d6.ext.json)
 
 ---
 
@@ -341,6 +357,28 @@ In addition, when considering whether to provide protection to candidates, only 
 [Data](articles/ea7e27d9.json)
 
 [Extended Data](ext_articles/ea7e27d9.ext.json)
+
+---
+
+### India Sri Lanka passenger ferry service resumes
+
+*2024-08-17 08:19:00* · [`economynextcom`](https://economynext.com/india-sri-lanka-passenger-ferry-service-resumes-177086/) · `en`
+
+ECONOMYNEXT  – A passenger ferry service between Sri Lanka’s Jaffna and India’s Nagapatnam has resumed on August 16, with 50 passengers arriving in the maiden voyage, the Indian High Commission in Colombo said.
+
+“Future plans include the exploration of additional routes and services that will further expand connectivity and economic collaboration,” the Indian embassy said.
+
+The ferry ‘Sivagangai’ run by a private operator, IndSri Ferry Services, completed the journey between Nagapattinam and KKS in approximately 4 hours, the embassy said.
+
+India is subsidizing the service providing around 25 million Sri Lanka rupees a month for a year to cover fees and operating costs and Nagapatnam port.
+
+“The resumption of this service underscores the commitment of both countries to strengthening bilateral relations through improved connectivity,..” the Indian embassy said.
+
+India is also giving a grant of 63.5 million US dollars to upgrade Kankasanthurai Harbour in Jaffna. (Colombo/Aug17/2024)
+
+◼️
+
+[Data](articles/5fcd848d.json)
 
 ---
 
@@ -557,6 +595,8 @@ Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wick
 ...
 
 [Data](articles/09d4eecc.json)
+
+[Extended Data](ext_articles/09d4eecc.ext.json)
 
 ---
 
@@ -2201,23 +2241,5 @@ UNP sources said that Opposition MP Ali Zahir Maulana met President Ranil Wickre
 [Data](articles/aabff9fe.json)
 
 [Extended Data](ext_articles/aabff9fe.ext.json)
-
----
-
-### Rajapaksa's family
-
-*2024-08-16 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191235) · `ta`
-
-Dhammika Perera was expected to be the PA's presidential candidate, but he withdrew due to personal reasons. Instead, Mahinda Rajapaksa nominated his son, Namal Rajapaksa. However, there's discontent within the party about this choice.
-
-🟩
-
-From the outset, it was believed that businessman and MP Dhammika Perera would be named as the Presidential candidate of the PA. The party's general secretary Sakara Kariyawasam had revealed it on many occasions. No one refuses from Mahinda's side.The party said that the PA would choose one from his party and that he would announce who he was on the 7th.. Until then, it was certain that the candidate was Tamika.However, on the 6th, he sent a letter to the secretary of the PA, saying that he would quit this for personal reasons. Mahinda Rajapaksa has fielded his political successor Namal Rajapaksa. However, it is reported that Basil, Samal and Samal's son Sasheendra have expressed their dissatisfaction with Namal's Mahinda Passenger.
-
-◼️
-
-[Data](articles/a90c963c.json)
-
-[Extended Data](ext_articles/a90c963c.ext.json)
 
 ---

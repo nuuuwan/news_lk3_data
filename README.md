@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 14:21:13**
+As of **2024-08-17 14:36:34**
 
 ## Newspaper Stats
 
-*Scraped **41,206** Articles*
+*Scraped **41,208** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,83 @@ dailymirrorlk | 4,733
 adaderanalk | 4,814
 tamilmirrorlk | 5,278
 virakesarilk | 6,538
-adaderanasinhalalk | 7,012
+adaderanasinhalalk | 7,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,205 (100.0%) of 41,206 articles have been extended.
+41,206 (100.0%) of 41,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ජනාධිපති ධුර අපේක්ෂක දිලිත් යාපනයෙන් ඡන්ද සටන අරඹයි
+### ඡන්දෙ දිනන හැටි නාමල් කියයි
+
+*2024-08-17 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200029) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ ජනාධිපතිවරණයක් පමණක් නොව ඉදිරියේදී පැවැත්වීමට නියමිත ඕනෑම මැතිවරණයක් ජයග්‍රහණය කරන බව එම පක්ෂයේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+
+මහනුවර දිස්ත්‍රික් ක්‍රියාකාරී හමුවට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+මේ අතර අද දිනයේදී නාමල් රාජපක්ෂ මහතා දළදා සමිඳුන් වැඳපුදාගෙන ආශිර්වාද ලබාගෙන තිබුණි.
+
+"දැන් සන්ධානගත වන පක්ෂ ගත්තාම මේ ඡන්දෙන් පස්සේ ඒ නායකයාගෙන් පස්සේ ඒ පක්ෂ ඉවරයි. මේක තමයි ඇත්ත කතාව. 40ක් එක්ක ගිවිසුම් ගත වුණාම මේ ඡන්දෙන් පස්සේ ඒ 40 ඉන්නේ හතලිස් පොළක. පැරණි ජනතා විමුක්ති පෙරමුණ අලුත් NPP එකත් එක්ක එකතු වුණාම ඡන්දෙන් පස්සේ ඒ දෙගොල්ලෝ දෙපැත්තක. හැබැයි පොදුජන පෙරමුණ එළඹෙන ඕනෑම මැතිවරණයක් ජයගන්න සූදානම්. මහින්ද චින්තනයත් එක්ක."
+
+◼️
+
+[Data](articles/44143415.json)
+
+---
+
+### අනුර තංගල්ලෙන් ඡන්ද සටන අරඹයි
+
+*2024-08-17 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200028) · `si`
+
+ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ජය තහවුරු කිරීමට පවත්වන පළමු ජන රැලිය අද (17) පස්වරු 4ට තංගල්ලේදී ආරම්භ වීමට නියමිතය.
+
+අනුර කුමාර දිසානායක මහතා අද සර්ව ආගමික නායකයින්ගේ ආශිර්වාද ලබාගැනීම සඳහා පැමිණි අවස්ථාවේදී ප්‍රකාශ කළේ වෙහෙර විහාරස්ථානවල අභිවෘද්ධිය සඳහා ඇති අරමුදල් විනාශ කළ පුද්ගලයින් ජාතික ජන බලවේගයේ සංස්කෘතික ප්‍රතිපත්තිය සම්බන්ධයෙන් විවේචන එල්ල කරමින් සිටින බවය.
+
+ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා අද පෙරවරුවේ වැල්ලවත්තේ පිහිටි ශ්‍රී ලංකා අමරපුර මහා නිකායික සංඝ සභා කාර්යාලය වෙත පැමිණ මහා සංඝරත්නය බැහැ දැක ආශිර්වාද ලබා ගත්තේය.
+
+අනතුරුව අනුර කුමාර දිසානායක මහතා බම්බලපිටිය ශ්‍රී මාණික විනායගර් කෝවිලට පැමිණ හින්දු ආගමික වතාවත්වල නිරත වුණි.
+
+◼️
+
+[Data](articles/591abb9c.json)
+
+---
+
+### Presidential candidate Dilith launches election fight
 
 *2024-08-17 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200027) · `si`
 
-සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ මංගල ජන රැලිය අද (17) පස්වරුවේ යාපනයේදී පැවැත්වීමට නියමිතය.
+Defense entrepreneur Dilith Jayaweera, a presidential candidate, launched his election campaign in Jaffna, visiting religious sites and meeting local leaders. He emphasized unity and a strategic program for all Sri Lankans, particularly in the North.
 
-අද පෙරවරුවේ යාපනයට පැමිණි ව්‍යවසායක දිලිත් ජයවීර මහතා ප්‍රථමයෙන් ශ්‍රී නාග විහාරයට පැමිණ ආශිර්වාද ලබාගත්තේය.
+🟩
 
-එහිදී ශ්‍රී නාග විහාරයේ විහාරාධිපති පූජ්‍ය මීගහජඳුරේ සිරිවිමල හිමියන් බැහැදැක සර්වජන බලයේ දෙවෙනි කෙටුම්පත ද උන්වහන්සේ වෙත පිළිගැන්වීය.
+The defense entrepreneral Dilith Jayaweera, the presidential candidate, Dilith Jayaweera, will be held in Jaffna today (17).
 
-ඉන් පසුව ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහහතා ප්‍රමුඛ පිරිස යාපනය රදගුරු නිල නිවස වෙත පැමිණ යාපනය රදගුරු පදවියේ අනුනායක ගරු පී.ජේ. ජේබරත්නම් පියතුමා හමුවිය.
+Entrepreneral Dilith Jayaweera arrived at the Sri Naga Viharaya, who arrived in Jaffna this morning, arrived at the Sri Naga Viharaya.
 
-උන්වහන්සේට ද එහිදී සර්වජන බලයේ දෙවෙනි කෙටුම්පත පිළිගැන්වීම සිදු කෙරුණි.
+The Chief Incumbent of the Sri Naga Viharaya Ven. Ven.
 
-අනතුරුව ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහහතා ප්‍රමුඛ පිරිස යාපනය මොහිදීන් ජුම්මා පල්ලිය වෙත පැමිණ එහි ප්‍රධාන මවුලවි ඒ.එම්. රලීම් මවුලවිතුමා හමුවී ආශිර්වාද ලබාගත්තේය.
+Subsequently, Dilith Jayaweera, the leader of the Bishop of the Bishop of Jaffna, arrived in Jaffna and arrived at the Radows of Jaffna Bishop. Fr. Jabaratnayake met.
 
-පසුව ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහහතා ප්‍රමුඛ පිරිස යාපනය නල්ලූර් කෝවිලට පැමිණ හින්දු ආගමික වතාවත්වල නිරත වුණි.
+He also presented the second draft of the exangeration.
+
+The presidency, Dilith Jayaweera, the prominent group of Dilith Jayaweera and the prominent group arrived at Jaffna Moumma Church, the main molavy calendy AM. Rolim took the blessings and blessed.
+
+Later, the presidential candidate entrepreneur Dilith Jayaweera came to Nallur Kovil, Jaffna.
+
+Surgerage power, presidential power, said the presidential candidate entreprenement Dilith Jayaweera said,
 
 ...
 
 [Data](articles/aea7fcbd.json)
+
+[Extended Data](ext_articles/aea7fcbd.ext.json)
 
 ---
 
@@ -2215,53 +2259,5 @@ Former President Maithripala Sirisena says he has not decided to support any can
 [Data](articles/ac948abc.json)
 
 [Extended Data](ext_articles/ac948abc.ext.json)
-
----
-
-### Ajit Kumar's next update
-
-*2024-08-16 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191250) · `ta`
-
-"Ajith Kumar stars in 'Vida Tudiyam,' playing the sole villain opposite Nikhil Nair, whose character details were recently unveiled. Directed by Mahila Thurmani, with music by Anirudh and cinematography by Om Prakash, the film is produced by Subhashkaran under Leica Productions. Shooting is nearly complete, and the team has shared a photo of Nikhil Nair's role, stirring excitement among Ajith's fans."
-
-🟩
-
-The film crew is releasing the role of the actors starring Ajith Kumar starring in 'Vida Tudiyam' starring Ajith Kumar. The film crew has now released the role of actor Nikhil Nair.
-
-Ajith Kumar, Arjun, Arav, Trisha, Regina Kasadha, Nikhil Nair, starring director and actor Mahila Thurmani.
-
-Anirudh has composed the film, which is being recorded by Om Prakash. The film is being produced as Exan Entertainer and is produced by famous producer Subhashkaran on behalf of Leica Productions.
-
-The shooting of the film is nearing completion soon and the film crew posted new information about the film with a photo.. The film crew has released a photo of the role of actor Nikhil Nair in the film.
-
-It is revealed that Ajith is the only villain in the film, and Ajith is the only appearance in the backdrop of Nikhil Nair, who appears in actor Nikhil Rakat Look.. Ajith's fans are excited because the villains are too much.
-
-◼️
-
-[Data](articles/d3d5c9af.json)
-
-[Extended Data](ext_articles/d3d5c9af.ext.json)
-
----
-
-### Excavation work in search of the treasure of the Liberation Tigers
-
-*2024-08-16 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191248) · `ta`
-
-Excavation in Mullaitivu aimed at uncovering LTTE treasure yielded no results. Led by Judge Dharmalingam Pradeepan, the operation involved police, soldiers, and local officials but found nothing after several hours of digging. The judge then ordered the site to be sealed.
-
-🟩
-
-Excavation work was carried out under the supervision of Mullaitivu District Court Judge Dharmalingam Pradeepan on Friday (16) in a private land in the Mullaitivu Pudukkudiyiruppu Manduvil area, which was suspected to have been hiding the LTTE during the war.
-
-According to the information received by the Pudukkudiyiruppu police, the Mullaitivu District Court Judge, on the orders of the Mullaitivu District Court, was carrying out excavation work by the Police, Soldiers, Soldiers, Grama Niladhari and Pudukkudiyiruppu police.
-
-With the help of the Pico machine for several hours of excavation on the ground, we could not find arms or anything else. Since no excavations were available, it was followed by the order of Judge Dharmalingam to take action to close the excavated areas.
-
-◼️
-
-[Data](articles/d7f263f4.json)
-
-[Extended Data](ext_articles/d7f263f4.ext.json)
 
 ---

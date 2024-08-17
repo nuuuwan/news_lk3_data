@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 18:26:07**
+As of **2024-08-17 18:37:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,026
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,239 (100.0%) of 41,240 articles have been extended.
+41,240 (100.0%) of 41,240 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -242,23 +242,29 @@ Meanwhile, the Department of Meteorology has said that the current rainfall in t
 
 ---
 
-### கடந்த 24 மணித்தியாலங்களில் இரத்தினபுரியில் அதிக மழைவீழ்ச்சி பதிவு!
+### Heavy rainfall in Ratnapura in the last 24 hours!
 
 *2024-08-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191320) · `ta`
 
-இன்று காலை 8.30 மணியுடன் நிறைவடைந்த 24  மணித்தியாலங்களில் இரத்தினபுரி மாவட்டம் எஹலியகொடை பகுதியில் 233 மில்லிமீற்றர் மழை வீழ்ச்சி பதிவாகியுள்ளது.
+Ratnapura experienced heavy rainfall, with Ehaliyagoda receiving 233mm in 24 hours. A flood warning is issued for areas near the Kuda and Mauru rivers due to rising water levels. The warning remains effective for the next 48 hours. Additionally, a landslide warning has been issued for several Divisional Secretariats across five districts. The Department of Meteorology predicts increased rainfall in the southwestern region of Sri Lanka due to atmospheric conditions.
 
-புலத்சிங்கள, மதுராவளை மற்றும் பாலிந்தநுவர பிரதேச செயலகப் பிரிவுகளுக்குட்பட்ட குடா மற்றும் மகுரு ஆறுகளை அண்மித்த தாழ்நிலப் பகுதிகளில் வசிப்பவர்களுக்கு வெள்ள அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-இந்த எச்சரிக்கை அடுத்த 48 மணித்தியாலங்களுக்கு அமுலில் இருக்கும் என நீர்ப்பாசன திணைக்களம் தெரிவித்துள்ளது.
+Rainfall in Ehaliyagoda in Ratnapura district has been hit by 233 millimeters of rain in 24 hours, which ended at 8.30 am today.
 
-இந்நிலையில்,  தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் ஐந்து மாவட்டங்களில் உள்ள பல பிரதேச செயலகங்களுக்கு மண்சரிவு எச்சரிக்கை விடுத்துள்ளது.
+Flood warning has been issued to residents of the Kuda and Mauru rivers under the Pulathsingha, Mathuravalai and Balindanu Divisional Secretariat Divisions.
 
-இலங்கைக்கு மேலாக வளிமண்டலத்தின் கீழ் மட்டத்தில் தென்படுகின்ற தளம்பல் நிலையினால்  நாட்டின் தென்மேற்குப் பிராந்தியத்தில் நிலவுகின்ற மழையுடனான வானிலை அதிகரிக்கும் என  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The warning will be in effect for the next 48 hours, the Irrigation Department said.
+
+In this case, the National Building Research Institute has issued a landslide warning to several Divisional Secretariats in five districts.
+
+The Department of Meteorology has said that the rainy weather in the southwestern region of the country will increase due to the lack of atmosphere over the atmosphere above Sri Lanka.
 
 ◼️
 
 [Data](articles/b6d3786b.json)
+
+[Extended Data](ext_articles/b6d3786b.ext.json)
 
 ---
 

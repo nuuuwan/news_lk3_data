@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 11:56:23**
+As of **2024-08-17 12:08:49**
 
 ## Newspaper Stats
 
-*Scraped **41,193** Articles*
+*Scraped **41,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ colombotelegraphcom | 393
 islandlk | 2,380
 economynextcom | 2,500
 dailyftlk | 2,676
-adalk | 3,784
+adalk | 3,785
 dailymirrorlk | 4,733
 adaderanalk | 4,811
 tamilmirrorlk | 5,278
 virakesarilk | 6,536
-adaderanasinhalalk | 7,006
+adaderanasinhalalk | 7,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,192 (100.0%) of 41,193 articles have been extended.
+41,193 (100.0%) of 41,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### කුකුළේ ගඟ ජලාශය වාන් දමයි
+
+*2024-08-17 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200022) · `si`
+
+කළු ගඟෙහි ඉහළ ධාරා ප්‍රදේශවලට සැලකියයුතු වර්ෂාවක් ලැබීමත් සමඟ කුකුළේ ගඟ ජලාශය මේ වනවිට තත්පරයට ඝණ මීටර් 150ක ජල ධාරිතාවයකින් වාන් දමමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+වාරිමාර්ග ඉන්ජිනේරු (ජල විද්‍යා හා ආපදා කළමනාකරණ අංශය) ජී.ඩබ්.ඒ. සකුරා දිල්තාරා මහත්මිය මේ පිළිබඳ නිවේදනයක් නිකුත් කරමින් පැවසුවාය.
+
+මෙහිදී ඇය වැඩිදුරටත් පවසා සිටියේ, ගතවූ පැය 24 තුළ ලැබුණු අධික වර්ෂාපතනයත් සමග කළු ගඟෙහි ජල මට්ටම් සැලකියයුතු ලෙසින් ඉහළ යමින් පවතින බවය.
+
+◼️
+
+[Data](articles/6abc7604.json)
+
+---
 
 ### Landslide early warnings issued for 4 districts
 
@@ -379,6 +395,8 @@ India is also giving a grant of 63.5 million US dollars to upgrade Kankasanthura
 ◼️
 
 [Data](articles/5fcd848d.json)
+
+[Extended Data](ext_articles/5fcd848d.ext.json)
 
 ---
 
@@ -1376,6 +1394,20 @@ The National Building and Research Organization (NBRO) says that the warning not
 
 ---
 
+### අද හා හෙට වැස්සේ වැඩිවීමක්
+
+*2024-08-16 20:23:58* · [`adalk`](https://www.ada.lk/breaking_news/අද-හා-හෙට-වැස්සේ-වැඩිවීමක්/11-411411) · `si`
+
+ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැළඹිලි ස්වාභාවය හේතුවෙන් දිවයිනේ නිරිතදිග ප්‍ර දේශවල දැනට පවතින වැසි තත්ත්වයේ වැඩි විමක් අද හා හෙට දිනයේදී බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල ඇතැම් ප්‍ර දේශවලට මිලි මීටර් 100කට වැඩි තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි
+
+◼️
+
+[Data](articles/67ab6608.json)
+
+---
+
 ### Cricketer Niroshan Dikwella ban
 
 *2024-08-16 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191262) · `ta`
@@ -2205,41 +2237,5 @@ Both Premadasa and Dissanayaka, who are top contenders in the presidential elect
 [Data](articles/a109e977.json)
 
 [Extended Data](ext_articles/a109e977.ext.json)
-
----
-
-### Ali Sahir Maulana joined Ranil
-
-*2024-08-16 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191238) · `ta`
-
-Sri Lanka Muslim Congress MP Ali Zahir Maulana backs President Ranil Wickremesinghe for the upcoming presidential election.
-
-🟩
-
-Sri Lanka Muslim Congress MP Ali Zahir Maulana has supported President Ranil Wickremesinghe with support for the upcoming presidential election.
-
-◼️
-
-[Data](articles/385674d4.json)
-
-[Extended Data](ext_articles/385674d4.ext.json)
-
----
-
-### Ali Sahir joined Ranil
-
-*2024-08-16 16:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-இணைந்தார்-அலி-சாஹிர்/175-342289) · `ta`
-
-Opposition MP Ali Zahir Maulana supports President Ranil Wickremesinghe in the upcoming presidential election after meeting him.
-
-🟩
-
-UNP sources said that Opposition MP Ali Zahir Maulana met President Ranil Wickremesinghe and promised his support in the presidential election.
-
-◼️
-
-[Data](articles/aabff9fe.json)
-
-[Extended Data](ext_articles/aabff9fe.ext.json)
 
 ---

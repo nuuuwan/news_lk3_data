@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 23:06:37**
+As of **2024-08-17 23:21:18**
 
 ## Newspaper Stats
 
-*Scraped **41,253** Articles*
+*Scraped **41,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,790
 dailymirrorlk | 4,733
 adaderanalk | 4,823
-tamilmirrorlk | 5,293
+tamilmirrorlk | 5,294
 virakesarilk | 6,539
 adaderanasinhalalk | 7,030
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,253 (100.0%) of 41,253 articles have been extended.
+41,253 (100.0%) of 41,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### பேராயரிடம் ஆசிகளை பெற்றார் அநுர
+
+*2024-08-17 23:05:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராயரிடம்-ஆசிகளை-பெற்றார்-அநுர/175-342351) · `ta`
+
+தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுரகுமார திஸாநாயக்க இன்று (17) பிற்பகல் பொரளையில் உள்ள பேராயர் மல்கம் ரஞ்சித்தை அவரது உத்தியோகபூர்வ இல்லத்தில் சந்தித்தார்.
+
+NPP இன் செயற்குழு உறுப்பினர் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத்தும் கூட்டத்தில் கலந்துகொண்டார்
+
+இச்சந்திப்பின் போது, ​​பேராயர், கொழும்பு உதவி ஆயர் மக்ஸ்வெல் சில்வா, தந்தை அந்தோனி, மற்றும் தந்தை சிறில் காமினி ஆகியோருடன் பல்வேறு விடயங்கள் குறித்து திஸாநாயக்கவுடன் கலந்துரையாடியதுடன் எதிர்வரும் ஜனாதிபதித் தேர்தலில் அவரது வெற்றிக்கு ஆசீர்வாதங்களையும் வழங்கினார். R
+
+◼️
+
+[Data](articles/aba9b7f1.json)
+
+---
 
 ### A father of two kills floods
 
@@ -2271,19 +2287,5 @@ Many suspected that the President was trying to postpone elections and very few 
 [Data](articles/a6611fab.json)
 
 [Extended Data](ext_articles/a6611fab.ext.json)
-
----
-
-### Presidential Election 2024: What is the political economy awaiting Sri Lanka?
-
-*2024-08-17 00:01:46* · [`dailyftlk`](https://www.ft.lk/opinion/Presidential-Election-2024-What-is-the-political-economy-awaiting-Sri-Lanka/14-765660) · `en`
-
-The Presidential Election 2024 is crucial by all standards in view of the current economic catastrophe the country is experiencing. It is up to the masses to decide how they would choose the most suitable candidate who would decide on the fate of the nation and its people through his strategies and leadership. Majority of Sri Lanka’s eternally suffering masses in comparison to many other developed nations who were far too behind when we gained Independence in 1948 are expected to turn the tables on 21 September 2024
-
-...
-
-[Data](articles/ed39ccf1.json)
-
-[Extended Data](ext_articles/ed39ccf1.ext.json)
 
 ---

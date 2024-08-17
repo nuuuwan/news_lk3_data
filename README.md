@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 12:53:45**
+As of **2024-08-17 13:06:21**
 
 ## Newspaper Stats
 
-*Scraped **41,198** Articles*
+*Scraped **41,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ colombotelegraphcom | 393
 islandlk | 2,380
 economynextcom | 2,500
 dailyftlk | 2,676
-adalk | 3,785
+adalk | 3,786
 dailymirrorlk | 4,733
 adaderanalk | 4,812
 tamilmirrorlk | 5,278
-virakesarilk | 6,537
+virakesarilk | 6,538
 adaderanasinhalalk | 7,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,198 (100.0%) of 41,198 articles have been extended.
+41,198 (100.0%) of 41,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### பல மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை
+
+*2024-08-17 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191289) · `ta`
+
+நாட்டில் பலத்த மழை பெய்து வருவதால் நான்கு மாவட்டங்களில் உள்ள பல பகுதிகளுக்கு மண்சரிவு எச்சரிக்கைகள் விடுக்கப்பட்டுள்ளதாக தேசிய கட்டிடம் மற்றும் ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+
+அதன்படி, காலி, களுத்துறை, மாத்தறை மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களின் பல பகுதிகளுக்கு  2 ஆம் நிலை (ஆம்பர்) எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+காலி – எல்பிட்டிய, நெலுவ, யக்கலமுல்ல மற்றும் நாகொட பிரதேச செயலாளர் பிரிவுகள் (டி.எஸ்.டி) மற்றும் அதனைச் சுற்றியுள்ள பகுதிகள்
+
+களுத்துறை – இங்கிரிய, ஹொரண, புலத்சிங்கள மற்றும் மத்துகம பிரதேச செயலக பிரிவுகள் மற்றும் அதனைச் சுற்றியுள்ள பகுதிகள்
+
+மாத்தறை – பிடபெத்தர பிரதேச செயலக பிரிவுகள்  மற்றும் அதனைச் சுற்றியுள்ள பகுதிகள்
+
+இரத்தினபுரி- குருவிட்ட, இரத்தினபுரி, எலபாத, எஹலியகொட மற்றும் கலவான பிரதேச செயலக பிரிவுகள் மற்றும் அதனைச் சுற்றியுள்ள பகுதிகள்
+
+களுத்துறை – வலல்லாவிட்ட மற்றும் பாலிந்தநுவர பிரதேச செயலக பிரிவுகள்  மற்றும் அதனை சுற்றியுள்ள பகுதிகள்
+
+கேகாலை- தெஹியோவிட்ட, தெரணியகல, வரகாபொல, யட்டியந்தோட்டை, கேகாலை பிரதேச செயலக பிரிவுகள் மற்றும் அதனைச் சுற்றியுள்ள பகுதிகள்
+
+...
+
+[Data](articles/1a4453b7.json)
+
+---
 
 ### Sri Lanka strongly object to construction of ‘Tamil Genocide Monument’ in Canada
 
@@ -125,6 +151,20 @@ She further stated that the water levels in the Black River have significantly i
 [Data](articles/6abc7604.json)
 
 [Extended Data](ext_articles/6abc7604.ext.json)
+
+---
+
+### දිලිත් ජයවීරගේ මංගල රැළිය අද
+
+*2024-08-17 11:29:24* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ජයවීරගේ-මංගල-රැළිය-අද/11-411412) · `si`
+
+සර්වජන බලයේ ජනාධිපති අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ජය තහවුරු කෙරෙන ප්‍රචාරක රැළි මාලාවේ මංගල ජන රැළිය අද(17දා) පැවැත්වීමට කටයුතු යොදා තිබේ.
+
+ඒ අනුව එම ජන රැළිය යාපනයේ රක්කාපාර ක්‍රීඩාංගකවේදී අද පස්වරු 2.30ට ආරම්බ කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/aed2e2fb.json)
 
 ---
 
@@ -2215,57 +2255,5 @@ The Nawalapitiya Railway Control Room added that officials from Badulla Railway 
 [Data](articles/5bc331be.json)
 
 [Extended Data](ext_articles/5bc331be.ext.json)
-
----
-
-### Sri Lanka stocks close down, polls cast uncertainty
-
-*2024-08-16 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-polls-cast-uncertainty-177072/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
-
-The broader All Share Index closed down 0.24 percent, or 27.24 points, at 11,504; while the more liquid S&P SL20 Index closed down 0.24 percent, or 8.04 points, at 3,300.
-
-“We saw turnover tumbling after the past two days,” Softlogic Stockbrokers said. “We feel that differing polls on the possible outcome of the presidential election is disturbing investors.”
-
-“Nothing seems to be certain, and the fact that the tables could turn and there could be new people in power is making investors anxious.
-
-“This sentiment could continue for the next month.” Sri Lanka’s presidential election will be held a month from this week on September 21.
-
-There were two crossings recorded; Renuka Holdings Plc contributed 23 million to the turnover. The share closed up at 13.00 rupees.
-
-Melstacorp Plc saw some foreign buying interest after days of foreign selling. The share closed up at 82.00.
-
-...
-
-[Data](articles/455a1f38.json)
-
-[Extended Data](ext_articles/455a1f38.ext.json)
-
----
-
-### Ukrainian security depends in Sri Lanka
-
-*2024-08-16 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200006) · `si`
-
-Five retired Sri Lankan military personnel from the Russian war were detained by Ukrainian security forces upon entering Russia. The Ukrainian government notified the Sri Lankan embassy in Turkey about this incident. Measures are being taken to inform family members and diplomatic efforts are underway for their release.
-
-🟩
-
-Five Sri Lankan retirement army soldiers from the Russian war have been taken into custody.
-
-The External Affairs Ministry said that the Ukrainian government had officially had an official notification for the Sri Lankan embassy in Turkey.
-
-They are said to be taken into custody by the Ukrainian security forces during their entering the Russian borders.
-
-Steps have also been taken to educate the relatives of Sri Lankans in this regard.
-
-The Ministry of External Affairs says that the necessary mediation is being carried out for the release of the five Sri Lankans taken into the Ukrainian defense sector.
-
-◼️
-
-[Data](articles/63f7a620.json)
-
-[Extended Data](ext_articles/63f7a620.ext.json)
 
 ---

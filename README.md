@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 16:53:25**
+As of **2024-08-17 17:06:20**
 
 ## Newspaper Stats
 
-*Scraped **41,225** Articles*
+*Scraped **41,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ colombotelegraphcom | 393
 islandlk | 2,380
 economynextcom | 2,500
 dailyftlk | 2,676
-adalk | 3,787
+adalk | 3,789
 dailymirrorlk | 4,733
 adaderanalk | 4,818
-tamilmirrorlk | 5,282
+tamilmirrorlk | 5,287
 virakesarilk | 6,538
-adaderanasinhalalk | 7,022
+adaderanasinhalalk | 7,023
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,223 (100.0%) of 41,225 articles have been extended.
+41,225 (100.0%) of 41,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### சஜித்தின் முதலாவது கூட்டத்தில் இணைந்த மொட்டு உறுப்பினர்
+
+*2024-08-17 16:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-முதலாவது-கூட்டத்தில்-இணைந்த-மொட்டு-உறுப்பினர்/175-342329) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச பங்கேற்கும் பொதுக்கூட்டம்  அக்குரஸ்ஸவில் ஆரம்பமாகியுள்ளது.
+
+இதன்போது, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் மாத்தறை மாவட்ட பாராளுமன்ற உறுப்பினர் கருணாதாச கொடித்துவக்கு இன்று (17) ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவு தெரிவித்து அவருடன் இணைந்து கொண்டுள்ளார். R
+
+◼️
+
+[Data](articles/13a4440f.json)
+
+---
+
+### එම්පොක්ස් බිය පාකිස්තානය පුරා පැතිරෙයි
+
+*2024-08-17 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200040) · `si`
+
+එම්පොක්ස් හෙවත් මංකිපොක්ස් ආසාදිතයින්ගේ වැඩිවීමක් වාර්තා වේ යැයි පාකිස්තානය බියෙන් පසුවන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එම බිය හේතුවෙන් පාකිස්තානය පුරා පූර්ව ආරක්ෂක ක්‍රමවේද අනුගමනය කිරීමට බලධාරීන් දැනුම්දී තිබේ.
+
+ඒ අනුව පාකිස්තානයේ දේශසීමා, සෞඛ්‍ය සේවා, ගුවන්තොටුපොළ ඇතුළු සියලුම පිවිසුම් ස්ථානවල පූර්ව ආරක්ෂාව තීව්‍ර කිරීමට උපදෙස් ලබාදී ඇති බව වාර්තා වෙයි.
+
+මංකිපොක්ස් රෝග ලක්ෂණ යැයි සැක සහිත පුද්ගලයන් රටට ඇතුළුවන අවස්ථාවේදී දැඩිව පරීක්ෂා කිරීම සිදුකෙරෙන බවද වාර්තා වෙයි.
+
+මංකිපොක්ස් රෝගියෙකු එරටින් හමුවීමත් සමග මෙම පියවර අනුගමනය කිරීමට කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/18eb6018.json)
+
+---
+
+### வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை
+
+*2024-08-17 16:45:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களம்-சிவப்பு-எச்சரிக்கை/175-342328) · `ta`
+
+அடுத்த 24 மணி நேரத்திற்கு கனமழை மழை பய்யும் என வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+
+இன்று (17) பிற்பகல் 1:00 மணிக்கு வெளியிடப்பட்ட இந்த அறிவிப்பு நாளை (18) பிற்பகல் 1:00 மணி வரை செல்லுபடியாகும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+
+மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் சில பகுதிகளில் 150 மி.மீ அளவில் கனமழை பெய்யக்கூடிய சாத்தியம் காணப்படுவதால் அது குறித்து அவதானமாக இருக்குமாறு கோரப்பட்டுள்ளது.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்தை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறும் வளிமண்டலவியல் திணைக்களம் பொது மக்களை கோரியுள்ளது.
+
+இதேவேளை, இலங்கையைச் சூழவுள்ள பகுதிகளில் காணப்படுகின்ற கீழ் வளிமண்டலத்தில் தளம்பல் நிலை காரணமாக நாட்டின் தென்மேற்குப் பகுதியில் தற்போது நிலவும் மழை நிலைமை மேலும் தொடரும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம்  மேலும் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/e8c38072.json)
+
+---
+
+### 3 கஜ முத்துகளுடன் மூவர் கைது
+
+*2024-08-17 16:29:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-கஜ-முத்துகளுடன்-மூவர்-கைது/175-342327) · `ta`
+
+1 கோடியே 30 இலட்சம் ரூபாய் பெறுமதியான 03 கஜ முத்துகளுடன் மூன்று சந்தேகநபர்கள் கைது செய்யப்பட்டதாக புத்தளம் விசேட அதிரடிப்படை முகாம் தெரிவித்துள்ளது.
+
+இலங்கை விமானப்படை புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் புத்தளம் சிறப்பு அதிரடிப்படை முகாம் அதிகாரிகள் புத்தளம் குளக்கரை பகுதியில் முகவர்களை ஈடுபடுத்தி இந்த சுற்றிவளைப்பு மேற்கொண்டுள்ளனர்.
+
+இந்தச் சுற்றிவளைப்பில் மாவனெல்ல பிரதேசத்தைச் சேர்ந்த இருவர் மற்றும் புத்தளம் பகுதியைச் சேர்ந்த ஒருவரும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/0968ab25.json)
+
+---
 
 ### SLPP Matara District MP backs Sajith in presidential poll
 
@@ -42,21 +112,57 @@ Sri Lanka Podujana Peramuna’s (SLPP) Matara District MP Karuna Kodithuwakku ha
 
 [Data](articles/4333b887.json)
 
+[Extended Data](ext_articles/4333b887.ext.json)
+
 ---
 
-### කරුණාදාස කොඩිතුවක්කු සජිත්ට සහාය දෙයි
+### ප්‍රදේශ කිහිපයකට මි.මී.150 ඉතා තද වැසි
+
+*2024-08-17 16:21:49* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-කිහිපයකට-මි-මී-150-ඉතා-තද-වැසි/11-411415) · `si`
+
+ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැළඹිල ස්වභාවය හේතුවෙන් දිවයිනේ නිරිතදිග ‌ප්‍ර්‍රදේවල දැනට පවතින වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඒ අනුව බස්නාහිර සහ සබරගමුව යන පළාත්වවලත්, ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය යන දිස්ත්‍රික්ක වලත් ඇතැම් ප්‍රදේශ වලට මිලිමීටර් 150ක පමණ ඉතා තද වැදි ඇති විය හැති බව එහි වැඩිදුරටත් සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/007882ee.json)
+
+---
+
+### Kodituwakku supports Sajith
 
 *2024-08-17 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200038) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ මාතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී කරුණාදාස කොඩිතුවක්කු මහතා අද (17) ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කරමින් ඔහු සමග එක්විය.
+Kodithakku, a Matara District MP, supported Sajith Premadasa for President. Sajith, leading Samagi TNP, formed alliances with UPFA and was joined by MPs Patali Champika Ranawaka and cricketer Tillakaratne Dilshan, signaling broad support for his candidacy.
 
-ඉදිරි ජනාධිපතිවරණයේදී සමගි ජන සන්ධානයේ නායක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීම වෙනුවෙන් දේශපාලන පක්ෂ 27ක් පසුගියදා සමගි ජන සන්ධානය සමග ගිවිසුම් ගතවිය.
+🟩
 
-ඊට අමතරව එක්සත් ජනරජ පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා, සමස්ත ලංකා මහජන කොංග්‍රසයේ නායක පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බදියුදීන් මහතා, ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ හිටපු දක්ෂ තුන් ඉරියව් ක්‍රීඩකයකු වන තිලකරත්න ඩිල්ශාන් ඇතුළු පිරිසක් ද පසුගිය දින කිහිපයේදී සජිත් ප්‍රේමදාස මහතා සමග එක්විය.
+Matara District Parliamentarian Kodithakku, Matara District MP, has assisted the president's post of Presidential candidate Sajith Premadasa today (17).
+
+Samagi TNP leader leader Sajith Premadasa in front of the opposition leader Sajith Premadasa has contracted agreements with the UPFA.
+
+In addition, MP Patali War Patali Champika Ranawaka, Thalakaratne Dilshan, who was in the country's former Tillakaratne Dilshan, who was in the Sri Lankan people's team of Sri Lankan cricket team, Tillakaratne Dilshan, a group of Sri Lankan cricket team was with Sajith Premadasa.
 
 ◼️
 
 [Data](articles/086037a5.json)
+
+[Extended Data](ext_articles/086037a5.ext.json)
+
+---
+
+### மௌலானாவுக்கு எதிராக ஒழுக்காற்று: நிஸாம் காரியப்பர்
+
+*2024-08-17 16:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மௌலானாவுக்கு-எதிராக-ஒழுக்காற்று-நிஸாம்-காரியப்பர்/175-342326) · `ta`
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் அலி சாஹிர் மௌலானாவுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கும் கடிதத்தை ஜனாதிபதி சட்டத்தரணியும், ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் செயலாளருமான எம் நிசாம் காரியப்பர் அனுப்பியுள்ளார்.
+
+அந்த கடிதத்தில் அவர் தெரிவித்துள்ள விடயமானது, ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீமின் வேண்டுகோளின் பிரகாரம் இந்த கடிதம் அனுப்பி வைக்கப்படுவதாகவும், 2024 ஆகஸ்ட் 4, அன்று நடைபெற்ற கட்சியின் உயர்பீடக் குழுக் கூட்டத்தில், நீண்ட விவாதங்களுக்குப் பிறகு, ஜனாதிபதி தேர்தலில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச அவர்களை கட்சி ஆதரிக்க தீர்மானித்திருந்ததாகவும், நீங்கள் (அலி சாஹிர் மௌலானா) கூட்டத்தில் கலந்து கொள்ளவில்லை என்றாலும், நீங்கள் எனக்கு ஒரு வரமுடியாமை செய்தியை அனுப்பியுள்ளீர்கள்:
+
+...
+
+[Data](articles/c6e3bca5.json)
 
 ---
 
@@ -191,6 +297,22 @@ Meanwhile, the Department of Meteorology states that the rain condition of the i
 [Data](articles/c7f51d80.json)
 
 [Extended Data](ext_articles/c7f51d80.ext.json)
+
+---
+
+### පාලකයන් තෝරා ගැනීම ගනුදෙනුව මුදලට යටවිය යුතු නෑ
+
+*2024-08-17 15:22:03* · [`adalk`](https://www.ada.lk/breaking_news/පාලකයන්-තෝරා-ගැනීම-ගනුදෙනුව-මුදලට-යටවිය-යුතු-නෑ/11-411414) · `si`
+
+පාලකයන් තොරා ගැනීමේ වැඩපිළිවෙල මුදලට සිදු කළ යුතු ‌දෙයක් නොවන බව මැතිවරණ කොමසාරිස්  ජනරාල් සමන් ශ්‍රී රත්නාක මහතා පැවසීය.
+
+ඊයේ(16දා) කොළඹ පැවති වැඩසටහනකට එක්වෙමින් ඒ් මහතා මේ බව සඳහන් කළේය.
+
+පාලකයන් තෝරා ගන්නා අවස්ථාවේදී ඒ් ගනුදෙනුව මුදලට යන දෙයක් නෙවෙයි. ඒක නොවිය යුතුයි කියන විශ්වාසය තියෙන්නේ.
+
+◼️
+
+[Data](articles/313503ca.json)
 
 ---
 
@@ -413,6 +535,22 @@ Surgerage power, presidential power, said the presidential candidate entreprenem
 [Data](articles/aea7fcbd.json)
 
 [Extended Data](ext_articles/aea7fcbd.ext.json)
+
+---
+
+### ஆசி பெற்றார் அநுர குமார திசாநாயக்க
+
+*2024-08-17 13:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசி-பெற்றார்-அநுர-குமார-திசாநாயக்க/175-342321) · `ta`
+
+கண்டி அஸ்கிரிய மஹா விகாரையின் சியம் மஹா நிக்காய அஸ்கிரிய பீடத்தின் மஹா நாயக்க வரக்காகொட ஸ்ரீ ஞானரத்தன தேரர் மற்றும் அஸ்கிரி பீடத்தின் பிரதி பதிவாளர், அஸ்கிரி மஹா விகாரை பரிவேனாதிபதி சங்கைக்குரிய நாரம்பனாவே ஆனந்த மஹா நாயக்க தேரர் ஆகியோரை தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுர குமார திசாநாயக்க நேற்று (16) பிற்பகல் சந்தித்தார்.
+
+இன்றளவில் நாட்டில் நிலவுகின்ற அரசியல் நிலைமை பற்றி அவரை உள்ளிட்ட மஹா சங்கத்தினருடன் கலந்துரையாடிய அநுர குமார திசாநாயக்க எதிர்வரும் ஜனாதிபதி தோ்தலில் வெற்றி பெறுவதற்கான அவர்களின் நல்லாசியை பெற்றுக்கொண்டார்.
+
+இத்தருணத்தில் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் லால் காந்த பங்கேற்றார். R
+
+◼️
+
+[Data](articles/37bb6121.json)
 
 ---
 
@@ -2069,181 +2207,5 @@ The National Building and Research Organization (NBRO) says that the warning not
 [Data](articles/f6df8310.json)
 
 [Extended Data](ext_articles/f6df8310.ext.json)
-
----
-
-### Increased today and tomorrow
-
-*2024-08-16 20:23:58* · [`adalk`](https://www.ada.lk/breaking_news/අද-හා-හෙට-වැස්සේ-වැඩිවීමක්/11-411411) · `si`
-
-The Department of Meteorology forecasts heavy rainfall across several districts including Western, Matara, Kandy, and Nuwara Eliya, with amounts exceeding 100mm today and tomorrow.
-
-🟩
-
-The Department of Meteorology says that most of the existing rainy areas of the island nearly the country's clutterism is expected today.
-
-The department says that there will be more height in over 100 mm around millions of western, Matara, Kandy, Kandy and Nuwara Eliya districts.
-
-◼️
-
-[Data](articles/67ab6608.json)
-
-[Extended Data](ext_articles/67ab6608.ext.json)
-
----
-
-### Cricketer Niroshan Dikwella ban
-
-*2024-08-16 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191262) · `ta`
-
-Niroshan Dikwella, a former Sri Lankan cricketer, has been banned from all forms of cricket due to involvement in doping during the Lanka Premier League. The ban will be officially notified again. This action aims to maintain integrity in sports, conducted in collaboration with the Ministry of Sports and WADA guidelines.
-
-🟩
-
-Sri Lanka Cricket has announced that former Sri Lankan cricketer Niroshan Dikwella has been banned from engaging in all kinds of cricket.
-
-Sri Lanka Cricket has issued a statement that the ban imposed on it will be re -notified.
-
-During the recently concluded Lanka Premier League (LPL) competitions, it has been revealed that Niroshan Dikwella was involved in the use of a doping doping by the Sri Lanka Drug Prevention Agency (SLADA).
-
-The report further stated that such experiments are being conducted to ensure honesty in the sports sector.
-
-It is customary to conduct such tests in collaboration with the Ministry of Sports in accordance with the guidelines of the World Doping Prevention Agency (WADA).
-
-Sri Lanka Girik Gate said its aim was to ensure cricket as an unused sport.
-
-Sri Lanka Cricket is conducting such experiments in collaboration with the Ministry of Sports in the event of local competitions to avoid violating the rules of doping in the game.
-
-◼️
-
-[Data](articles/2cd243ce.json)
-
-[Extended Data](ext_articles/2cd243ce.ext.json)
-
----
-
-### The party jumps to elect an interim president - opposition leader
-
-*2024-08-16 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/191261) · `ta`
-
-Sajith Premadasa, the opposition leader, announced that only 170 lakh voters will elect the next president, contrary to expectations of an interim president being chosen. He emphasized the importance of unity and fighting against corruption, promising to end corrupt practices and political cultures. Premadasa also highlighted the need for financial transparency, stating that funds allocated should go towards education rather than personal gains.
-
-🟩
-
-Many people are now joining the party, thinking that he is going to elect an interim president in Parliament. But on September 21, opposition leader Sajith Premadasa said that only 170 lakh voters are going to elect their president.
-
-Opposition Leader Sajith Premadasa held his first election campaign in Kurunegala district on Friday morning (16) after the nomination was filed.. Speaking at the meeting, he added.
-
-I invite the people and the people of Kurunegala to join us on the journey of strengthening the Sri Lankan mother. As a practical potential progressive opposition, we voiced for the people and fought for them. United People's Power Professional Group fought for corruption scandal. I did not make plays on stage. Does not disappoint people showing empty documentary files.
-
-I am proud to say that the Rajapaksas have been put in court in the court of opposition.. I recall that the Rajapaksas were responsible for the fact that our legal action was the cause of the country's vangrott.
-
-...
-
-[Data](articles/585c87e4.json)
-
-[Extended Data](ext_articles/585c87e4.ext.json)
-
----
-
-### Rs. Showers over 100 mees - take the 24 hour care
-
-*2024-08-16 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200013) · `si`
-
-Heavy rains expected in Western, Sabaragamuwa, Galle, Matara, Kandy, and Nuwara Eliya districts within 24 hours, exceeding 100 mm. The Department of Meteorology advises caution against strong winds and lightning during thunderstorms due to atmospheric turbulence.
-
-🟩
-
-The Department of Meteorology has issued an announcement of heavy rains.
-
-Accordingly, the people in the Western and Sabaragamuwa Provincial and Sabaragamuwa Provincial and Galle, Matara, Kandy and Nuwara Eliya districts are informed.
-
-In the next 24 hours, those areas. Heavy showers exceeding 100 mees.
-
-The Department of Meteorology urges the public to minimize temporary strong winds and lightning accidents with thunderstorms.
-
-The situation has occurred due to the turbulent in-atmosphere in the lower atmosphere.
-
-◼️
-
-[Data](articles/ae1f9dd8.json)
-
-[Extended Data](ext_articles/ae1f9dd8.ext.json)
-
----
-
-### “A Comfortable Abode”
-
-*2024-08-16 19:42:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-comfortable-abode/) · `en`
-
-This month, known as “Nikini,” holds great significance in the Buddhist calendar as it marks the First Dhamma Sangayana (First Buddhist Council), which took place on the full moon day of this month. This pivotal event occurred three months after the passing of Lord Buddha when senior monks, led by Mahākāśyapa Thero, convened to establish and reinforce the monastic disciplines. This decision was prompted by concerns over the misbehaviour of a monk within the noble Sangha community.
-
-On this auspicious Nikini Poya day, I wish to share some Dhamma that deeply resonated with me. I recently listened to a recorded interview with Mr. A.S. Balasooriya, a respected Buddhist layperson from Sri Lanka, who offered insightful reflections on a poem from the Theragatha. The interview, conducted in Sinhalese, was broadcast on Sri Lanka TV and provided a profound exploration of the teachings.
-
-...
-
-[Data](articles/56a68e06.json)
-
-[Extended Data](ext_articles/56a68e06.ext.json)
-
----
-
-### Heavy traffic congestion on Southern Expressway due to accident
-
-*2024-08-16 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101293/heavy-traffic-congestion-on-southern-expressway-due-to-accident-) · `en`
-
-A passenger bus and a container truck have collided in the Galanigama area along the Southern Expressway causing heavy traffic congestion, the police said.
-
-Police said that as a result, only one lane is open for vehicular movements towards Matara.
-
-◼️
-
-[Data](articles/38c4361e.json)
-
-[Extended Data](ext_articles/38c4361e.ext.json)
-
----
-
-### Banning for Nirotion
-
-*2024-08-16 19:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரோஷனுக்கு-தடை/175-342293) · `ta`
-
-Niroshan Dikwella, a Sri Lankan cricketer, has been banned from all cricket activities due to violating the Pharmaceutical Prevention Act during the 2024 Lanka Premier League. The ban follows a doping test conducted by SLADA.
-
-🟩
-
-Sri Lankan cricketer Niroshan Dikwella has been accused of violating the Pharmaceutical Prevention Act.
-
-This was revealed in a doping test conducted by the Sri Lanka Drug Prevention Agency (SLADA) in the 2024 Lanka Premier League (LPL) tournament.
-
-Accordingly, he has been banned in all kinds of cricket matches until re -announcement.R
-
-◼️
-
-[Data](articles/cc64bee6.json)
-
-[Extended Data](ext_articles/cc64bee6.ext.json)
-
----
-
-### Sri Lankan cricketer banned Niroshan Dikwella
-
-*2024-08-16 19:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கிரிக்கெட்-வீரர்-நிரோஷன்-திக்வெல்லவிற்கு-தடை/175-342293) · `ta`
-
-Niroshan Dikwella, a Sri Lankan cricketer, has been banned from all cricket activities due to allegations of violating the Pharmaceutical Prevention Act. This comes after a doping test during the 2024 Lanka Premier League (LPL) tournament, conducted by the Sri Lanka Drug Prevention Agency (SLADA).
-
-🟩
-
-Sri Lankan cricketer Niroshan Dikwella has been accused of violating the Pharmaceutical Prevention Act.
-
-This was revealed in a doping test conducted by the Sri Lanka Drug Prevention Agency (SLADA) in the 2024 Lanka Premier League (LPL) tournament.
-
-Accordingly, he has been banned in all kinds of cricket matches until re -announcement.R
-
-◼️
-
-[Data](articles/fae8b053.json)
-
-[Extended Data](ext_articles/fae8b053.ext.json)
 
 ---

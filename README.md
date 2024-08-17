@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 23:36:35**
+As of **2024-08-17 23:56:10**
 
 ## Newspaper Stats
 
-*Scraped **41,254** Articles*
+*Scraped **41,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,790
 dailymirrorlk | 4,733
 adaderanalk | 4,823
-tamilmirrorlk | 5,294
+tamilmirrorlk | 5,295
 virakesarilk | 6,539
 adaderanasinhalalk | 7,030
 
@@ -26,25 +26,47 @@ adaderanasinhalalk | 7,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,253 (100.0%) of 41,254 articles have been extended.
+41,254 (100.0%) of 41,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### பேராயரிடம் ஆசிகளை பெற்றார் அநுர
+### ரணிலின் சிலிண்டர் சின்னத்திற்கு வந்தது சிக்கல்
+
+*2024-08-17 23:09:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-சிலிண்டர்-சின்னத்திற்கு-வந்தது-சிக்கல்/175-342352) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு சிலிண்டர் சின்னம் வழங்கப்பட்டமை தொடர்பில் ஜன அரகலயே புரவெசியோ என்ற அமைப்பின் பொதுச் செயலாளர் சானக்க பண்டார தேர்தல்கள் ஆணைக்குழுவுக்கு முறைப்பாடொன்றை அளித்துள்ளார்.
+
+2023ஆம் ஆண்டில் உள்ளூராட்சி தேர்தலில் போட்டியிடுவதற்கு தமது அமைப்புக்கு அந்தச் சின்னம் வழங்கப்பட்டுள்ளது.
+
+எனவே, சுயேட்சை வேட்பாளராகக் களமிறங்கியுள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு வழங்கிய அந்தச் சின்னத்தை மீளப்பெறுமாறு அந்த அமைப்பு கோரியுள்ளது. R
+
+◼️
+
+[Data](articles/cdb3c374.json)
+
+---
+
+### The blessing of the Archbishop
 
 *2024-08-17 23:05:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராயரிடம்-ஆசிகளை-பெற்றார்-அநுர/175-342351) · `ta`
 
-தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுரகுமார திஸாநாயக்க இன்று (17) பிற்பகல் பொரளையில் உள்ள பேராயர் மல்கம் ரஞ்சித்தை அவரது உத்தியோகபூர்வ இல்லத்தில் சந்தித்தார்.
+Anura Kumara Dissanayake, NPP's presidential candidate, met Archbishop Malcolm Ranjith and other religious figures for discussions and received their blessings for his upcoming election.
 
-NPP இன் செயற்குழு உறுப்பினர் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத்தும் கூட்டத்தில் கலந்துகொண்டார்
+🟩
 
-இச்சந்திப்பின் போது, ​​பேராயர், கொழும்பு உதவி ஆயர் மக்ஸ்வெல் சில்வா, தந்தை அந்தோனி, மற்றும் தந்தை சிறில் காமினி ஆகியோருடன் பல்வேறு விடயங்கள் குறித்து திஸாநாயக்கவுடன் கலந்துரையாடியதுடன் எதிர்வரும் ஜனாதிபதித் தேர்தலில் அவரது வெற்றிக்கு ஆசீர்வாதங்களையும் வழங்கினார். R
+The Presidential candidate of the National People's Power Anura Kumara Dissanayake met Archbishop Malcolm Ranjith at his official residence this afternoon.
+
+NPP's Executive Committee member Vijitha Herath also attended the meeting
+
+During the meeting, the Archbishop, Colombo Assistant Bishop Maxwell Silva, Father Anthony, and Father Cyril Gamini discussed with Dissanayake on various issues and offered blessings to his victory in the upcoming presidential election.. Remble
 
 ◼️
 
 [Data](articles/aba9b7f1.json)
+
+[Extended Data](ext_articles/aba9b7f1.ext.json)
 
 ---
 
@@ -2267,25 +2289,5 @@ Stemming from its ethics of supporting the underprivileged, Sanasa Life Insuranc
 [Data](articles/f88ad198.json)
 
 [Extended Data](ext_articles/f88ad198.ext.json)
-
----
-
-### Hobson’s choice?
-
-*2024-08-17 00:08:46* · [`dailyftlk`](https://www.ft.lk/columns/Hobson-s-choice/4-765663) · `en`
-
-Sri Lanka’s remarkable recovery should be credited to the able leadership of President Wickremesinghe and his political and bureaucratic team
-
-I see President Wickremesinghe’s policies as the only option for Sri Lanka in the immediate future. I sincerely hope that whoever is elected on the 22nd will not try to reinvent the wheel as President Gotabaya Rajapaksa did and destroyed our country. I strongly believe in the old adage “A known devil is better than an unknown angel”
-
-There has been a sigh of relief that President Ranil Wickremesinghe has called for the Presidential elections and the Elections Commission has declared 21 September as the day of reckoning for Sri Lanka.
-
-Many suspected that the President was trying to postpone elections and very few believed that President Ranil Wickremesinghe will call for the election as scheduled. He pulled out his magic wand and 85% of the lotuses chose his lake to thrive. There could be many more surprises prior to 21 September.
-
-...
-
-[Data](articles/a6611fab.json)
-
-[Extended Data](ext_articles/a6611fab.ext.json)
 
 ---

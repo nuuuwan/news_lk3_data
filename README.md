@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 16:08:41**
+As of **2024-08-17 16:21:13**
 
 ## Newspaper Stats
 
-*Scraped **41,219** Articles*
+*Scraped **41,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailyftlk | 2,676
 adalk | 3,787
 dailymirrorlk | 4,733
 adaderanalk | 4,817
-tamilmirrorlk | 5,281
+tamilmirrorlk | 5,282
 virakesarilk | 6,538
-adaderanasinhalalk | 7,018
+adaderanasinhalalk | 7,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,215 (100.0%) of 41,219 articles have been extended.
+41,219 (100.0%) of 41,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### සජිත්ගේ රැලිය අකුරැස්සෙන් ඇරඹෙයි - සජීවී දර්ශන
+
+*2024-08-17 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200037) · `si`
+
+සමගි ජන බලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස මහතා සහභාගී වන ජන රැලිය අද (17) අකුරැස්සේදී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/8158e0dc.json)
+
+---
+
+### “பணத்தை வீசினால் கதிரை இல்லை”
+
+*2024-08-17 16:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணத்தை-வீசினால்-கதிரை-இல்லை/175-342324) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கான பிரசாரச் செலவுகள் அங்கீகரிக்கப்பட்ட வரம்பை மீறினால் ஜனாதிபதியாக தேர்ந்தெடுக்கப்படுபவரின் ஆசனத்தை கூட பறிப்பதற்கு சட்ட ஏற்பாடுகள் உள்ளதாக தேர்தல் ஆணையாளர் நாயகம்  சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+
+அங்கீகரிக்கப்பட்ட வரம்புகளுக்கு மேல் பிரச்சாரச் செலவுகளைச் செய்வது சட்டவிரோதமானது என்றும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/2f3fe2f6.json)
+
+---
+
+### T20 කාන්තා ලෝක කුසලානයේ සත්කාරකත්වය සිම්බාබ්වේ ඉල්ලයි
+
+*2024-08-17 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200036) · `si`
+
+බංග්ලාදේශය තුළ පැවැත්වීමට නියමිතව තිබෙන විස්සයි 20 කාන්තා ලෝක කුසලානය එරට තුළ නොපවත්වන්නේ නම්, එය සිය රටේදී පවත්වන මෙන් සිබ්බාබ්වේ විසින් අයි.සී.සී.යෙන් ඉල්ලීමක් කර ඇත.
+
+මෙවර විස්සයි 20 කාන්තා ලෝක කුසලානය එළඹෙන ඔක්තෝබර් මස 03 වනදා සිට බංග්ලාදේශයේදී පැවැත්වීමට නියමිතව තිබේ.
+
+කෙසේ නමුත් එරට තුළ පවතින දේශපාලනය අස්ථාවරත්වය හේතුවෙන් එය සැලසුම් කළ ලෙස බංග්ලාදේශයේම පවත්වනවාද, නැතිනම් වෙනත් රටකට රැගෙන යන්නේ දැයි ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය මේ වනවිට සලකා බලමින් සිටී.
+
+2003 එක්දින ලෝක කුසලානයට දකුණු අප්‍රිකාව සහ කෙන්යාව සමගින් සම සත්කාරකත්වය ලබාදීමෙන් පසු සිම්බාබ්වේ මේ දක්වා කිසිඳු ආකෘතියක ලෝක කුසලානයකට සත්කාරකත්වය ලබාදී නොමැත.
+
+කෙසේ නමුත් ඔවුන් අවසන් වරට පැවැත් වූ එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලි දෙකෙහිම සුදුසුකම් ලැබීමේ තරගාවලියේ සත්කාරක රට ලෙසින් කටයුතු කළේය.
+
+එමෙන්ම ඔවුන් 2026දී පැවැත්වීමට නියමිතව තිබෙන අවුරුදු 19න් පහළ පිරිමි ලෝක කුසලානයට නැමීබියාව සමඟ සත්කාරකත්වය ලබාදෙන අතර, 2027 පැවැත්වෙන එක්දින ලෝක කුසලානයටද දකුණු අප්‍රිකාව සහ නැමීබියාව සමඟ සම සත්කාරකත්වය හිමිකරගෙන සිටී.
+
+...
+
+[Data](articles/887ca357.json)
+
+---
 
 ### Lawmakers in Turkey draw blood in brawl during debate on jailed colleague
 
@@ -47,6 +95,20 @@ In a subsequent scuffle involving dozens of deputies, a female lawmaker was stru
 ...
 
 [Data](articles/89ff1042.json)
+
+[Extended Data](ext_articles/89ff1042.ext.json)
+
+---
+
+### සර්වජන අපේක්ෂක දිලිත්ගේ රැලිය සජීවීව මෙතැනින්
+
+*2024-08-17 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200035) · `si`
+
+සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ මංගල ජන රැලිය අද (17) යාපනයේදී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/59402952.json)
 
 ---
 
@@ -94,33 +156,45 @@ The first rally was established in Tangalle today (17) to ensure the victories o
 
 ---
 
-### ரணிலின் முதலாவது பொதுக் கூட்டம்...
+### Ranil's first public meeting ...
 
 *2024-08-17 15:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-முதலாவது-பொதுக்-கூட்டம்/175-342323) · `ta`
 
-ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் முதலாவது பொதுக்கூட்டம் இன்று (17) பிற்பகல் அனுராதபுரம் சல்தாது விளையாட்டரங்கில் நடைபெறவுள்ளது.
+Ranil Wickremesinghe's campaign kick-off meeting today at Anuradhapura's Saldadu Stadium aims to secure his presidential win, gathering support from various parties including the UNP, SLFP, and UPF.
 
-ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா பொதுஜன பெரமுன, ஸ்ரீலங்கா சுதந்திரக் கட்சி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட கட்சிகளில் இருந்து ஆதரவு தெரிவித்த பாராளுமன்ற உறுப்பினர்கள், அமைச்சர்கள் பலரும் இதில் இணையவுள்ளதாக தெரிவிக்கப்படுகிறது. R
+🟩
+
+The first public meeting to ensure Ranil Wickremesinghe's victory in the presidential election will be held this afternoon at the Saldadu Stadium in Anuradhapura.
+
+It is reported that many MPs and ministers who supported the United National Party, the Sri Lanka Freedom Alliance, the Sri Lanka Freedom Party and the United People's Power.. Remble
 
 ◼️
 
 [Data](articles/b69cc4c0.json)
 
+[Extended Data](ext_articles/b69cc4c0.ext.json)
+
 ---
 
-### 102 தாள்களுடன் தங்கம் வாங்க வந்தவர் கைது
+### Arrested who came to buy gold with 102 sheets
 
 *2024-08-17 15:08:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/102-தாள்களுடன்-தங்கம்-வாங்க-வந்தவர்-கைது/175-342322) · `ta`
 
-இரத்தினபுரி நகரிலுள்ள நகைக்கடை ஒன்றில் தங்க நகையை கொள்வனவு செய்ய வந்த நபர் ஒருவர் நூற்றி இரண்டு 5,000 ரூபாய் போலி நாணயத்தாள்களுடன் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A man attempting to purchase gold jewelry in Ratnapura was arrested after police found him with 105,000 rupees in counterfeit money. Suspicion arose due to the presence of numerous 5,000 rupee notes. Following his arrest, additional suspicious items were discovered during a search.
 
-தங்க நெக்லஸ் ஒன்றை  வாங்குவதற்கு வந்த நபரின் மேசை மீது 5,000 நாணயத்தாள்கள் கட்டு ஒன்று இருந்ததால் சந்தேகத்தின் பேரில் பொலிஸாருக்கு தகவல் தெரிவிக்கப்பட்டது.
+🟩
 
-பின்னர், சந்தேகநபர் கைது செய்யப்பட்டு, சோதனையின் போது பல சந்தேகத்திற்கிடமான பொருட்கள் சிக்கியதாக பொலிஸார் தெரிவித்தனர். R
+A man who had come to buy a gold jewelery in a jewelery shop in Ratnapura was arrested with a hundred and 5,000 rupees of fake currency, police said.
+
+The police were informed on suspicion as there were 5,000 currency notes on the desk of the man who had come to buy a golden necklace.
+
+Later, the suspect was arrested and many suspicious items were trapped during the raid, police said the police said. Remble
 
 ◼️
 
 [Data](articles/dee57bd2.json)
+
+[Extended Data](ext_articles/dee57bd2.ext.json)
 
 ---
 
@@ -478,19 +552,25 @@ Minister Sabry noted that ill-advised action by the City Council of Brampton is 
 
 ---
 
-### වතු නිවාස පෙලක ගින්නක් - නිවාස 17ක් විනාශ වෙයි
+### Fire breaks into a plantation fire - 17 houses destroyed
 
 *2024-08-17 12:17:11* · [`adalk`](https://www.ada.lk/breaking_news/වතු-නිවාස-පෙලක-ගින්නක්---නිවාස-17ක්-විනාශ-වෙයි/11-411413) · `si`
 
-පූඬළුඔය , සීන්වත්ත වතුයායේ වතු නිවාස පෙළක ඊයේ (16දා) රාත්‍රීයේ හටගත් ගින්නකින් වතු නිවාස 17ක් විනාශයට පත්ව තිබේ.
+A fire in Padamo, SEeney Estate, destroyed 17 estate houses, including 8 completely and 9 severely damaged ones. It started from one house and quickly spread through the plantation.
 
-එහිදී නිවාස 08ක් මුළුමනින්ම විනාශයට පත්ව ඇති අතර, තවත් නිවාස 09කට දැඩි හානි සිදුව ඇති බව පොලීසිය සඳහන් කළේය.
+🟩
 
-එක් නිවසක මෙම ගින්න හටගෙන ඇති අතර පසුව එය ශීඝ්‍රයෙන් නිවාස පෙළටම ව්‍යාප්ත වී ගොස් මෙලෙස නිවාස විනාශ වී ඇති බව සඳහන්.
+17 estate houses have been destroyed in a fire that had occurred in a plantation housing in Padamo, SEeney Estate.
+
+Eight houses have been completely destroyed and 9 other houses have been severely damaged, police said.
+
+The fire had erupted in one house, and that the rapidly spread throughout the year and destroyed the houses.
 
 ◼️
 
 [Data](articles/f07855ce.json)
+
+[Extended Data](ext_articles/f07855ce.ext.json)
 
 ---
 
@@ -2153,107 +2233,5 @@ The Sivaganga passenger ship, which departed from Nagapattinam at 8 am on the 10
 [Data](articles/fb2adcf8.json)
 
 [Extended Data](ext_articles/fb2adcf8.ext.json)
-
----
-
-### Ex-President Maithripala reveals stance on presidential candidates
-
-*2024-08-16 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101292/ex-president-maithripala-reveals-stance-on-presidential-candidates) · `en`
-
-Former President Maithripala Sirisena states that he has not decided to support any of the candidates who are contesting the 2024 Presidential Election.
-
-Issuing a statement, Sirisena also refuted certain media reports and the statements made by some politicians of both the ruling party and the opposition regarding him.
-
-Meanwhile, the former President also highlighted that as the issues that has arisen within the Sri Lanka Freedom Party (SLFP) is currently being resolved in the courts and that the court has not yet given a decision as to who is the president of the party.
-
-Accordingly, he emphasized that only the SLFP’s Chairman has full authority under the party’s Constitution, there is no validity in the appointments and decisions made by any other member of the party.
-
-◼️
-
-[Data](articles/75029563.json)
-
-[Extended Data](ext_articles/75029563.ext.json)
-
----
-
-### Suspect released on bail
-
-*2024-08-16 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200011) · `si`
-
-A suspect arrested for obstructing elections was released on bail by the Colombo Magistrate's Court. The arrest involved members of the Welikada Police and the Ruhuna People's Party. The suspect, represented by President's Counsel Maithree Gunaratne, claimed possession of a nomination entry ticket but was also accused of protesting against a nomination proposal. The court ordered the suspect to assist the police in checking his phone and computer and scheduled another hearing for September.
-
-🟩
-
-The Colombo Magistrate's Court has ordered the release of a suspect who was arrested by the suspects to obstruct the Elections Commission at the time of the acceptance of nominations.
-
-The Welikada police were arrested by the Welikada Police and a member of the Ruhuna People's Party.
-
-The police have been arrested by the police that the suspect was arrested as a result of the activities of the officers who were nominated.
-
-President's Counsel Maithree Gunaratne appearing on behalf of the suspect said that the suspect had a ticket to enter the nomination-handing place.
-
-The lawyer has also been arrested in court that he had been arrested in protest of a nomination proposal.
-
-The Magistrate ordered the suspect on bail.
-
-The suspect has also been ordered to support the police to check the suspect's telephone and computer.
-
-The court has also set to call the case again on September.
-
-◼️
-
-[Data](articles/da04329e.json)
-
-[Extended Data](ext_articles/da04329e.ext.json)
-
----
-
-### Maithri's Action Notice
-
-*2024-08-16 19:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-அதிரடி-அறிவிப்பு/175-342292) · `ta`
-
-Maithripala Sirisena, former president, states he won't back any candidate in the upcoming presidential election. He also denies rumors spread by certain media and politicians about him.
-
-🟩
-
-Former President Maithripala Sirisena says he will not support any candidates contesting the upcoming presidential election.
-
-Former President Maithripala Sirisena said this.
-
-Similarly, he noted that there is no truth in the comments that some media and politicians make about me. Remble
-
-◼️
-
-[Data](articles/bb904aab.json)
-
-[Extended Data](ext_articles/bb904aab.ext.json)
-
----
-
-### Vishmi is the second Sri Lankan player who scored a century in women's international cricket
-
-*2024-08-16 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/191259) · `ta`
-
-Vishmi Gunaratne, aged 19, made history as the second Sri Lankan woman to score a century in women's international cricket, following in the footsteps of captain Samari Attapatta. Playing in her first ODI in Belfast against Ireland, Vishmi celebrated her birthday by scoring 101 runs off 97 balls, including 9 fours and 3 sixes. This achievement came just days before her 19th birthday, marking a significant milestone in her young career.
-
-🟩
-
-Vishmi Gunaratne made a history of 19 years of age in the first women's ODIs in Belfast against Ireland.
-
-Vishmi Gunaratne became the second player to score a century in women's international cricket after Sri Lankan captain Samari Attapatha.
-
-Vishmi Gunaratne, who is celebrating her 19th birthday on the 22nd of this month, has been able to get a century in the beginning of today's competition.
-
-Vishmi Gunaratne, who scored 97 balls, scored 101 runs with 9 fours and 3 sixes, despite the first ball of the match he faced in the first ball.
-
-Samari Attapattu had previously scored a century in women's international cricket. He has so far pointed out 9 centuries.
-
-Sri Lanka, who batted first in today's match, scored 221 runs for the loss of 6 wickets in 44 overs a short time ago.
-
-◼️
-
-[Data](articles/fc5ca8bb.json)
-
-[Extended Data](ext_articles/fc5ca8bb.ext.json)
 
 ---

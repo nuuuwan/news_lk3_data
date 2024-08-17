@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 17:36:47**
+As of **2024-08-17 17:57:08**
 
 ## Newspaper Stats
 
-*Scraped **41,235** Articles*
+*Scraped **41,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,818
 tamilmirrorlk | 5,288
 virakesarilk | 6,538
-adaderanasinhalalk | 7,024
+adaderanasinhalalk | 7,025
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,234 (100.0%) of 41,235 articles have been extended.
+41,234 (100.0%) of 41,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### ඉන්දියාව මිනිසුන් රැගත් රොකට්ටුවක් දියත් කරන්න සැරසෙයි
+
+*2024-08-17 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200042) · `si`
+
+"ගගන්යාන්" නමින් නම් කර ඇති මෙහෙයුම යටතේ පළමුව මිනිසුන් රහිතව පර්යේෂණ මට්ටමින් රොකට්ටුවක් අභ්‍යවකාශගත කිරීමට නියමිතය.
+
+G1 ලෙස හැඳින්වෙන රොකට්ටුව එළඹෙන දෙසැම්බර් මාසයේදී අභ්‍යවකාශගත කිරීමට අපේක්ෂා කරන බව ඉන්දීය අභ්‍යවකාශ පර්යේෂණ ආයතනය එනම් ඉස්රෝ (ISRO) ආයතනය පවසයි.
+
+ගගන්යාන් මෙහෙයුම යටතේ මෙට්‍රික්ටොන් 5.3ක බරකින් යුතු අභ්‍යවකාශ යානය දින 7ක කාලයක් පුරා පෘථිවි කක්ෂයේ රැඳී සිටීමට නියමිතය.
+
+ගගනගාමීන් තිදෙනෙකුද රැගත් යානය දියත් කිරීමට සැලසුම් කර ඇත්තේ 2025 වසරේදීය.
+
+◼️
+
+[Data](articles/42cabc06.json)
+
+---
 
 ### එංගලන්ත ලයන්ස් පුහුණු තරගය ජය ගනී
 
@@ -469,6 +487,8 @@ Showers will occur at times in the Western and Sabaragamuwa provinces and in Gal
 Meanwhile, prevailing showery condition are expected to continue in the southwestern part of the island due to the low-level atmospheric disturbance in the vicinity of Sri Lanka, according to the Met. Department.
 
 Very heavy showers of about 150 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, it added.
+
+Fairly strong winds about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces.
 
 Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
 
@@ -2225,33 +2245,5 @@ Accordingly, the Department of Rainfall has predicted rainfall in the Western an
 [Data](articles/faec0062.json)
 
 [Extended Data](ext_articles/faec0062.ext.json)
-
----
-
-### Rajapakse's family who gave orders to Kota
-
-*2024-08-16 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191245) · `ta`
-
-Rajapaksa family commands significant support, with 69 lakh orders for Gotabhaya Rajapaksa, indicating enthusiasm for his policies rather than familial wealth. Despite challenges from the Pivituru Hela Urumaya Party, the presidential race features 39 contestants, including several allied with major candidates. The electoral landscape is influenced by a 1981 law affecting campaign funding, allowing unrecognized parties to contest. Voter indecision remains high, with 22% undecided, complicating predictions.
-
-🟩
-
-69 lakhs of people who have ordered Gotabhaya Rajapaksa are zealous on the family. Udaya Kammanpila, MP of the Pivituru Hela Urumaya Party, said that even 3 percent of the vote in the election was challenging the presidential candidate of the PA.
-
-He made this statement during a media briefing held at the Alliance office in Colombo on Friday (16).
-
-39 contesting this time in the presidential election. A party is contesting as colleagues of the main presidential candidates.
-
-The control that introduced in 1981 is still in effect today. 5000 rupees for recognized political parties and an independent candidate of 75,000 rupees.
-
-Political parties, which do not win a seat in the parliamentary election, are contesting the presidential election as a political party approved in the presidential election.
-
-It is impossible to mention who is in the presidential election. Because 22 percent of the voters have not yet decided on who to vote.
-
-...
-
-[Data](articles/337c8efb.json)
-
-[Extended Data](ext_articles/337c8efb.ext.json)
 
 ---

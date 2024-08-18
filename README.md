@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 05:21:04**
+As of **2024-08-18 05:39:36**
 
 ## Newspaper Stats
 
-*Scraped **41,258** Articles*
+*Scraped **41,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 351
 newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 393
-islandlk | 2,380
+islandlk | 2,384
 economynextcom | 2,502
 dailyftlk | 2,676
 adalk | 3,790
@@ -26,11 +26,75 @@ adaderanasinhalalk | 7,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,258 (100.0%) of 41,258 articles have been extended.
+41,258 (100.0%) of 41,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### Harry J turns 82: more than a hard-nosed businessman
+
+*2024-08-18 02:45:00* · [`islandlk`](http://island.lk/harry-j-turns-82-more-than-a-hard-nosed-businessman/) · `en`
+
+Almost 20 years ago, I received a call from Don Harold Stassen Jayawardena. Of course, at the time I knew him as ‘Harry Jayawardena’ as did many Sri Lankans, especially in business circles. I was in England, veritably forced into exile by political circumstances which included the abduction and torture of the deputy editor of ‘The Nation,’ a newspaper published by Rivira Media Corporation, of which I was at the time the Managing Director, and a brutal attack on Upali Tennakoon, the editor of our sister newspaper in Sinhala.
+
+These attacks came just after my friend Lasantha Wickramatunge implored me to leave the country and not too long before he himself was killed. It was a time not just of exile but abandonment; for reasons of convenience or fear almost all those I considered friends avoided me. There were a handful who didn’t give a damn about possible consequences or cared enough to be supportive. I didn’t count Harry among them.
+
+...
+
+[Data](articles/5ba46232.json)
+
+---
+
+### FROM WHITES TO MUD
+
+*2024-08-18 02:06:00* · [`islandlk`](http://island.lk/from-whites-to-mud/) · `en`
+
+“Roti” Sivaratnam was Captain of the Royal College Rugby Team in 1957. He was also Captain of Boake House, which I belonged to.
+
+One afternoon after school, I was on the tennis court practicing. At that time, we all wore white for both cricket and tennis practices.
+
+From nowhere, “Roti” appeared on his bike and seemed extremely agitated. He caught a glimpse of me and immediately, in a most aggressive manner, summoned me to talk to him. He had a reputation for that and was a bit of a domineering guy.
+
+I had no choice other than to excuse myself from the game in progress and go up to him.
+
+As I got to his bike, he said firmly, jump on to the ‘doubling’ bar, which I did with no reasons given and no questions asked by me, for fear that most of us had for “Roti”.
+
+I was told during our short journey, illegally doubling within school premises, that Boake was playing an inter House rugby game and were badly short of players. He wanted me to make up the team and play for Boake.
+
+...
+
+[Data](articles/4b105210.json)
+
+---
+
+### BRADBY of MEMORIES
+
+*2024-08-18 02:05:00* · [`islandlk`](http://island.lk/bradby-of-memories/) · `en`
+
+On Saturday August 24 the FIRST LEG of the 78th edition of the prestigious Bradby Shield Encounter is due to be played at the Royal College Sports Complex. The recent appreciation of his teammate, the late Lal Senaratne, by that legendary Royal sportsman Lorenz Pereira (affectionately ‘Lollo’) brings forth heartening memories of that fascinating First Leg of 1958, played at Longden Place.
+
+...
+
+[Data](articles/5486b8ce.json)
+
+---
+
+### Issues of co-ordination during the 1971 insurgency
+
+*2024-08-18 01:32:00* · [`islandlk`](http://island.lk/issues-of-co-ordination-during-the-1971-insurgency/) · `en`
+
+(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
+
+A major responsibility I took upon myself during this period (of the 1971 insurrecton) was to co-ordinate essential services such as food distribution; the movement of petroleum products; electricity, water; and transport. I, of course, had enough experience of handling food distribution. Some of the same principles and part of the same drill could be applied to some of the other sectors.
+
+In a way food was the most important. Long curfew hours not only restricted food movements, but also gave very little time for the mass of the population to buy their essentials such as rice, flour and sugar from their co-operative, or authorized dealer point. During the few hours available for shopping, there were large and somewhat restive crowds at cooperative stores in particular. It was clear that if food was not available at these points or the service was not efficient, there would be panic.
+
+...
+
+[Data](articles/4bd5f75b.json)
+
+---
 
 ### Rajasthan's Violence: Internet service freeze
 
@@ -2243,77 +2307,5 @@ In order to make the service more affordable for passengers, the Government of I
 [Data](articles/f919cf60.json)
 
 [Extended Data](ext_articles/f919cf60.ext.json)
-
----
-
-### Costly speed the products vaccine products
-
-*2024-08-17 00:33:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பூசி-உற்பத்திகளை-விரைவுபடுத்துக/175-342309) · `ta`
-
-The WHO has declared a health emergency due to the spread of Empox virus across 13 African nations, advising vaccine-related companies to expedite production.
-
-🟩
-
-The World Health Organization has advised companies related to the issue of Empox's vaccines.
-
-The World Health Organization has issued this instruction as the World Health Organization has declared it as a state of emergency as the Empox's disease has increased.
-
-The establishment reported that the monkey fever, Embox, spreads in 13 countries of the African continent. (A)
-
-◼️
-
-[Data](articles/b8aa659b.json)
-
-[Extended Data](ext_articles/b8aa659b.ext.json)
-
----
-
-### Sri Lanka taps prospects for more exports to Pakistan
-
-*2024-08-17 00:15:15* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-taps-prospects-for-more-exports-to-Pakistan/34-765669) · `en`
-
-The Consulate General of Sri Lanka in Karachi in collaboration with the Department of Commerce of Sri Lanka facilitated Sri Lanka’s participation at the 19th My Karachi – Oasis of Harmony Exhibition held from 2 to 4 August at the Karachi Expo Centre.
-
-Sri Lankan exporters, including Maliban Biscuits, Tea Talk, Orange Electrics, and SriLankan Airlines joined the Consulate General to showcase their products and services at the event. The participation of Sri Lanka aimed to boost Sri Lankan exports to Pakistan and encourage more Pakistani tourists to visit the country.
-
-The Sri Lanka pavilion received an enthusiastic response from Pakistani businesses and extensive media coverage. Government officials, key chamber heads, and the Sri Lankan Consul General Jagath Abeywarna were among the distinguished visitors to the Sri Lanka stall.
-
-◼️
-
-[Data](articles/c442099c.json)
-
-[Extended Data](ext_articles/c442099c.ext.json)
-
----
-
-### Pelwatte Dairy launches landmark initiative with international support
-
-*2024-08-17 00:14:00* · [`dailyftlk`](https://www.ft.lk/business/Pelwatte-Dairy-launches-landmark-initiative-with-international-support/34-765668) · `en`
-
-Pelwatte Dairy Industries Ltd., has launched an innovative project titled “Inclusion of women in the formal dairy supply chain for economic empowerment of women farmers.”
-
-This initiative, which commenced in October 2022, aims to empower women farmers, enhance the local dairy industry’s capabilities, and promote sustainable agricultural practices. The project is supported by Solidaridad Asia Network and funded by the Canadian Government, demonstrating a robust international partnership committed to socio-economic development.
-
-...
-
-[Data](articles/488a14d3.json)
-
-[Extended Data](ext_articles/488a14d3.ext.json)
-
----
-
-### SL, Saudi Arabia discuss boosting bilateral trade
-
-*2024-08-17 00:13:14* · [`dailyftlk`](https://www.ft.lk/business/SL-Saudi-Arabia-discuss-boosting-bilateral-trade/34-765667) · `en`
-
-Ambassador of Sri Lanka to the Kingdom of Saudi Arabia Omar Lebbe Ameer Ajwad met with Saudi Arabia’s General Authority of Foreign Trade (GAFT) Governor Mohammad Alabduljabar at GAFT Headquarters in Riyadh on 7 August.
-
-While welcoming Ambassador Ameer Ajwad to the Kingdom of Saudi Arabia, GAFT Governor Mohammad Alabduljabar stressed the importance of enhancing bilateral cooperation between the two countries in potential sectors for win-win benefits. He extended GAFT’s support towards this end.
-
-...
-
-[Data](articles/1e940437.json)
-
-[Extended Data](ext_articles/1e940437.ext.json)
 
 ---

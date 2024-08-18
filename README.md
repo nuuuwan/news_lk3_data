@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 15:36:42**
+As of **2024-08-18 15:55:24**
 
 ## Newspaper Stats
 
-*Scraped **41,353** Articles*
+*Scraped **41,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,503
 dailyftlk | 2,676
-adalk | 3,799
+adalk | 3,800
 dailymirrorlk | 4,733
 adaderanalk | 4,835
 tamilmirrorlk | 5,322
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,050
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,352 (100.0%) of 41,353 articles have been extended.
+41,352 (100.0%) of 41,354 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -755,6 +755,28 @@ She is to be appointed to appoint his Cabinet in the next few days. Petentgtan s
 [Data](articles/de680c76.json)
 
 [Extended Data](ext_articles/de680c76.ext.json)
+
+---
+
+### ජාතික ධජය මැතිවරණ ප්‍රචාරයට ගත්තොත් නීතිය, ජාතික ගීය පක්ෂයේ ගීතය වේවි
+
+*2024-08-18 11:32:49* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ධජය-මැතිවරණ-ප්‍රචාරයට-ගත්තොත්-නීතිය--ජාතික-ගීය-පක්ෂයේ-ගීතය-වේවි/11-411426) · `si`
+
+ජාතික ධජය මැතිවරණ ප්‍රචාරක කටයුතු සදහා යොදා ගත්තොත් නීතිය ක්‍රියාත්මක කරන බවත් , මෙහෙම ගියොත් තව  ටික දිනකින් ජාතික ගීය පක්ෂයේ ගීතය බවට පත්වේවි යැයි මැතිවරණ කොමසාරිස් ජනරාල් සමන්  ශ්‍රී  රත්නායක මහතා ඊයේ (17) කොළඹ දි පැවසීය .
+
+මෙවර ජනාධිපතිවරණය නිමිත්තෙන් ජනමාධ්‍යවේදීන් දැනුවත් කිරිමේ වැඩසටහනකට සහභාගි වෙමින් හෙතෙම එසේ කීය .
+
+කොළඹ දී පැවති මෙම වැඩමුළුව පැපරල් සංවිධානයේ අනුග්‍රහය මත සංවිධානය කර තිබිණ .
+
+මෙහිදී තවදුරටත් අදහස් දක්වමින් මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා මෙසේද පැවසීය .
+
+අපි දේශපාලනඥයින් දිහා බලනවා.ඒ අය නැතිනම් මැතිවරණය ක් නෑ..ජාතික කොඩියේ අභිමානය    අද බල්ලට ගිහින් තිබෙනවා .සිංහයා ට නෑ.ඒක නිසා ජාතික කොඩිය මැතිවරණ ප්‍රචාරක කටයුතු සදහා මැතිවරණ ව්‍යාපාරය සදහා  යොදා ගන්න එපා .
+
+දැන් ක්‍රිකට් තරගාවලදී ජාතික ධජය ඇගවටා ඔතා ගෙන එක අතකින් මත්පැන් බෝතලයක් අල්ලාගෙන නටනවා .දේශපාලන දර්ශනයක් නැති නිසා මෙවැනි ගැටලු එනවා.
+
+...
+
+[Data](articles/e1cc26c7.json)
 
 ---
 
@@ -2273,29 +2295,5 @@ At the same time, the president's meeting was seen as a wave of people gathered 
 [Data](articles/d5f99052.json)
 
 [Extended Data](ext_articles/d5f99052.ext.json)
-
----
-
-### Sri Lanka begins counting its elephants
-
-*2024-08-17 19:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-counting-its-elephants-177095/) · `en`
-
-ECONOMYNEXT – Sri Lanka began counting its elephants in the wild in an island-wide census on Saturday (17) with a focus on conservation efforts.
-
-The census is being conducted by the Department of Wildlife Conservation after a hiatus of 13 years.
-
-The last elephant census in 2011 showed that there were 5,879 wild elephants in Sri Lanka.
-
-Since then Sri Lanka has lost many elephants due to gun shot wounds, electrocution and being struck by trains. Government data show that the highest number of tuskers have been killed in the Anuradhapura District.
-
-1,310 officers will be involved in the Anuradhapura Wildlife Zone for the census, Deputy Commissioner of Wildlife in charge of Anuradhapura Zone Keerthy Chandraratne was quoted in a government statement.
-
-Officers will be placed in forests and near water bodies where elephants hang out. 3,130 survey centers have been established across the country for the census. The counting ends on August 19.
-
-...
-
-[Data](articles/c81313c8.json)
-
-[Extended Data](ext_articles/c81313c8.ext.json)
 
 ---

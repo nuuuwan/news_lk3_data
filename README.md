@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 02:21:21**
+As of **2024-08-19 02:36:44**
 
 ## Newspaper Stats
 
-*Scraped **41,412** Articles*
+*Scraped **41,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,807
 dailymirrorlk | 4,733
 adaderanalk | 4,843
-tamilmirrorlk | 5,333
+tamilmirrorlk | 5,334
 virakesarilk | 6,568
 adaderanasinhalalk | 7,064
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,412 (100.0%) of 41,412 articles have been extended.
+41,412 (100.0%) of 41,413 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,22 @@ At the same time, I got the most votes in the Akkaraipattana Pradeshiya Sabha el
 [Data](articles/1fb98df1.json)
 
 [Extended Data](ext_articles/1fb98df1.ext.json)
+
+---
+
+### ஆசிரியர் உட்பட 3 பேர் கைது
+
+*2024-08-19 01:03:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-உட்பட-3-பேர்-கைது/175-342415) · `ta`
+
+மட்டக்களப்பு, களுவாஞ்சிக்குடி, ஏறாவூர், காத்தான்குடி, ஆகிய பொலிஸ் பிரிவுகளில் கடந்த இரு வாரங்களில் பாடசாலை சிறுமி ஒருவர் பாலியல் துஸ்பிரயோகம் செய்யப்பட்ட சம்பவம் தொடர்பாக ஆசிரியர் ஒருவரையும், இரு சிறுமிகளை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டில்  இரு இளைஞர்களை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்நிலையில்,  4 வயது சிறுவனை சித்திரவதை செய்த பாடசாலை ஆசிரியர் ஒருவருக்கு எதிராக முறைபாடு செய்துள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+மாவட்டதிலுள்ள பிரதேச பாடசாலை ஒன்றில் கல்விகற்றுவரும் 16 வயதுடைய மாணவியை கடந்த 11ம் திகதி ஞாயிற்றுக்கிழமை ஆலயம் ஒன்றில் தரிசனத்தில் ஈடுபட்டுக் கொண்டிருந்த சிறுமியை அதே பாடசாலையில் கல்வி கற்பித்துவரும் 44 வயதுடைய ஆசிரியர் சிறுமியை தனது மோட்டார் சைக்கிளில் ஏற்றிக் கொண்டு அங்கிருந்து மட்டுநகர் பகுதிக்கு பிராயாணித்துள்ளார்
+
+...
+
+[Data](articles/294713f4.json)
 
 ---
 
@@ -2363,31 +2379,5 @@ Investigations are conducted on the instructions of Mr. Subash Kawadawala, OIC C
 [Data](articles/a479306a.json)
 
 [Extended Data](ext_articles/a479306a.ext.json)
-
----
-
-### SI with ice. Arrested
-
-*2024-08-18 10:25:34* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සමග-එස්-අයි--අල්ලයි/11-411423) · `si`
-
-A suspect, a sub-inspector from Wellampitiya, was arrested for possessing 100ml of ice drugs. The arrest came after a police raid on a lodge. Investigations show he joined the police in January 2019. He will be produced before the UPFA court.
-
-🟩
-
-Wellampitiya Kittampuwa Liquet has been arrested by the Wellampitiya Police that an ice drug was arrested with ice drugs in a lodge.
-
-The suspect was taken into custody 100 milligns in the possession of the suspect.
-
-A group of Wellampitiya police officers had been arrested for possessing a person to protect and possessing a person in charge of the drug.
-
-Investigations have revealed that the suspect sub-inspector joined the police service in January 2019.
-
-The 27 year old resident of the second step in Anuradhapura is to be produced before the UPFA.
-
-◼️
-
-[Data](articles/fa2370d4.json)
-
-[Extended Data](ext_articles/fa2370d4.ext.json)
 
 ---

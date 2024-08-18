@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 10:36:39**
+As of **2024-08-18 10:55:13**
 
 ## Newspaper Stats
 
-*Scraped **41,293** Articles*
+*Scraped **41,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,502
 dailyftlk | 2,676
-adalk | 3,793
+adalk | 3,794
 dailymirrorlk | 4,733
 adaderanalk | 4,827
-tamilmirrorlk | 5,304
+tamilmirrorlk | 5,309
 virakesarilk | 6,539
 adaderanasinhalalk | 7,036
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 7,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,292 (100.0%) of 41,293 articles have been extended.
+41,293 (100.0%) of 41,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### இ.தொ.காவின் கொடிகள் அகற்றப்பட்டன
+
+*2024-08-18 10:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-கொடிகள்-அகற்றப்பட்டன/76-342368) · `ta`
+
+தேர்தல் விதிகளை மீறி காட்சிப்படுத்தப்பட்ட கொடிகளையே  பொகவந்தலாவை  பொலிஸ் அதிகாரிகள் சனிக்கிழமை  (17) இரவு அகற்றினர்.
+
+பொகவந்தலாவை நகரம் முழுவதும் இலங்கை தொழிலாளர் காங்கிரஸ் தொழிற்சங்க ஆதரவாளர்கள் குழு கொடிகளை தொங்கவிட்டிருந்தது. இந் நிலையில், தேர்தல் விதிகளை மீறிய செயல் எனக் கூறி பொகவந்தலாவை பொலிஸ் அதிகாரிகள் அவற்றை அகற்ற நடவடிக்கை எடுத்தனர்.
+
+◼️
+
+[Data](articles/56179de6.json)
+
+---
+
+### லிட்டில்ஜோன் வருகிறார்
+
+*2024-08-18 10:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்டில்ஜோன்-வருகிறார்/175-342366) · `ta`
+
+சமுத்திரங்கள் மற்றும் சர்வதேச சுற்றுச்சூழல் மற்றும் விஞ்ஞான விவகாரங்களுக்கான பதில் உதவி இராஜாங்க செயலாளர் ஜெனிபர் ஆர். லிட்டில்ஜோன் ஓகஸ்ட் 17 முதல் ஓகஸ்ட் 31 வரை இலங்கைக்கு பயணம் மேற்கொள்வார் என அமெரிக்க இராஜாங்கத் திணைக்களம் தெரிவித்துள்ளது.
+
+"அவரது வருகையின் போது, ​​இயற்கை மற்றும் கடல் பாதுகாப்பு, பிளாஸ்டிக் மற்றும் காற்று மாசுபாடு, காலநிலை நெருக்கடி, காடழிப்பு, இயற்கைக்கு எதிரான குற்றங்கள், சிவில் மற்றும் வணிக நடவடிக்கைகள், விஞ்ஞானம்,தொழிநுட்பம் உள்ளிட்ட துறைகளில் பெண்கள் மற்றும் சிறுமிகளை ஊக்குவித்தல் மற்றும் நிலையான கடல்சார் பொருளாதாரம் குறித்து அவர் கலந்துரையாடுவார் என, திணைக்களம் தெரிவித்துள்ளது.
+
+ஓகஸ்ட் 19 முதல் 21 வரை இலங்கையில் அவர் அரசு அதிகாரிகள் மற்றும் பங்குதாரர்களை சந்திப்பதுடன், அமெரிக்காவால் ஆதரிக்கப்படும் வனவிலங்கு பாதுகாப்புத் திட்டங்களைப் பார்வையிடுதல் ஹைட்ரோகிராஃபி மற்றும் காலநிலை மாற்றம் போன்ற முன்னுரிமைப் பகுதிகளில் அமெரிக்க நிபுணர்களுடன் இலங்கையர்களை இணைப்பதற்கான வாய்ப்புகளை ஆராய்வார் என திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/36fbedc7.json)
+
+---
+
+### து​ரோகம் இழைத்தவர்களுக்கு பாடம் புகட்டுவோம்
+
+*2024-08-18 10:16:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/து-ரோகம்-இழைத்தவர்களுக்கு-பாடம்-புகட்டுவோம்/175-342365) · `ta`
+
+கண்டி மாவட்ட தமிழ் முற்போக்கு கூட்டணியின் வாக்குகளை எதிர்வரும் தேர்தலில் ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவிற்கு பெருவாரியாக பெற்றுக்கொடுப்போம் என்று தொழிலாளர் தேசிய சங்கத்தின் தலைவரும்,  தமிழ் முற்போக்கு கூட்டணியின் பிரதி தலைவரும்இ நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான பழனி திகாம்பரம் தெரிவித்தார்.
+
+நாவலப்பிட்டி தேர்தல் தொகுதியை சேர்ந்த தமிழ் முற்போக்கு கூட்டணியின் பிரதான அமைப்பாளர்களை கினிகத்தேனையில் சனிக்கிழமை (17) சந்தித்து கலந்துரையாடிய போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+அவர் மேலும் தெரிவிக்கையில்: தமிழ் முற்போக்கு கூட்டணிக்கு யார் துரோகம் செய்தாலும் அதனை மக்கள் ஒருபோதும் ஏற்றுக்கொள்ள மாட்டார்கள். வருகின்ற தேர்தல்களில் துரோகம் செய்தவர்களுக்கு மக்கள் தகுந்த பாடத்தை காட்டுவார்கள். அத்தோடு, கண்டி மாவட்டத்தில் இருக்கின்ற எமது தமிழ் முற்போக்கு கூட்டணியின் வாக்காளர்கள் எந்தவகையிலும் தமது மனதிடத்தை இழக்காமல் தொடர்ந்தும் அரசியல் தொழிற்சங்க செயற்பாடுகளில் ஈடுபட வேண்டும்.
+
+...
+
+[Data](articles/e7f6fbe8.json)
+
+---
 
 ### Volcano erupts in Russia after 7.0-magnitude earthquake
 
@@ -52,6 +98,8 @@ The Russian Emergencies Ministry did not issue a tsunami warning due to the trem
 
 [Data](articles/04c5a34f.json)
 
+[Extended Data](ext_articles/04c5a34f.ext.json)
+
 ---
 
 ### 7.0 magnitude earthquake strikes off coast of eastern Russia
@@ -71,6 +119,22 @@ But the Kamchatka branch of Russia’s emergency ministry reported that there wa
 [Data](articles/873108c2.json)
 
 [Extended Data](ext_articles/873108c2.ext.json)
+
+---
+
+### ”மங்களவின் குடும்பத்தவர் எனக்கு ஆதரவு”
+
+*2024-08-18 10:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மங்களவின்-குடும்பத்தவர்-எனக்கு-ஆதரவு/175-342363) · `ta`
+
+மறைந்த அமைச்சர் மங்கள சமரவீரவின் குடும்ப உறுப்பினர்கள் அனைவரும் தனக்கு மீண்டும் ஆதரவளிக்க தீர்மானித்துள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+“மறைந்த சமரவீரவின் குடும்பத்தவரான சஞ்சலா சமரவீர குணவர்தன ஏற்கனவே மாத்தறை மாவட்டத்தின் சமகி வனிதா பலவேகய மாவட்டத் தலைவராக நியமிக்கப்பட்டுள்ளார்” என அக்குரஸ்ஸவில் நேற்று (17) நடைபெற்ற தனது பேரணியில் பிரேமதாச அறிவித்தார்.
+
+தென்னிலங்கையில் கறுவாத் தொழிலை அபிவிருத்தி செய்வதாகவும் குறித்த பேரணியின் போது அவர் உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/29d77d5a.json)
 
 ---
 
@@ -166,6 +230,22 @@ P. Susila has been admitted to Cauvery Hospital in Alwarpet, Chennai due to ill 
 
 ---
 
+### பின்னணி பாடகி பி.சுசிலாவுக்கு சுகயீனம்
+
+*2024-08-18 09:23:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பின்னணி-பாடகி-பி-சுசிலாவுக்கு-சுகயீனம்/54-342359) · `ta`
+
+தமிழ், தெலுங்கு, கன்னடம், மலையாளம், இந்தி உள்ளிட்ட 9 மொழிகளில் சுமார் 40,000க்கும் மேற்பட்ட பாடல்களை பாடியவர் பி சுசீலா. 70 மற்றும் 80களின் நடிகைகளான சாவித்ரி, பத்மினி, சரோஜா தேவி உள்ளிட்ட நடிகைகள் நடித்துள்ள படத்தில் அவர்களுக்காக பின்னணி பாடியுள்ளார்.
+
+உயர்ந்த மனிதன் படத்தில் இடம் பெற்ற “பால் போலவே” என்ற பாடலுக்காக முதன் முறையாக சிறந்த பெண் பின்னணிப் பாடகிக்கான தேசிய விருதை பெற்றார். வயது மூப்பு காரணமாக திரைப்படங்களில் பாடுவதை அவர் தவிர்த்து வருகிறார்.
+
+இந்நிலையில், உடல்நலக்குறைவு காரணமாக சென்னை ஆழ்வார்பேட்டையில் உள்ள காவேரி மருத்துவமனையில் பி.சுசிலா அனுமதிக்கப்பட்டுள்ளார்.S
+
+◼️
+
+[Data](articles/a8d901ad.json)
+
+---
+
 ### Public pardon for former Prime Minister Taksin Shinawatra
 
 *2024-08-18 09:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-பிரதமர்-தக்சின்-ஷினவத்ராவுக்கு-பொது-மன்னிப்பு/50-342358) · `ta`
@@ -219,6 +299,24 @@ Police Special Forces Special Army has handed over the suspects and their entrie
 [Data](articles/a666d831.json)
 
 [Extended Data](ext_articles/a666d831.ext.json)
+
+---
+
+### කසිප්පු මුදලාලිගෙන් අල්ලස් ගත් පොලිසියේ තිදෙනෙකුට වැඩ වරදියි
+
+*2024-08-18 08:51:08* · [`adalk`](https://www.ada.lk/breaking_news/කසිප්පු-මුදලාලිගෙන්-අල්ලස්-ගත්-පොලිසියේ-තිදෙනෙකුට-වැඩ-වරදියි/11-411420) · `si`
+
+රුපියල් හය දහසක අල්ලස් මුදලක් කසිප්පු මුදලාලි කෙනෙකුගෙන් ලබා ගත්තේ යයි කියන බෙන්තොට පොලීසියේ පොලිස් නිලධාරීන් තිදෙනෙකු ඊයේ (17) පස්වරුවේදී අත්අඩංගුවට ගත් බව කොස්ගොඩ පොලීසිය කියයි.
+
+මෙලෙස අත්අඩංගුවට ගනු ලැබූවේ බෙන්තොට පොලීසියේ සේවය කරමින් සිටි උප පොලිස් පරීක්ෂකවරයෙක්, පොලිස් සැරයන්වරයෙක් සහ පොලිස් කොස්තාපල් ජීප් රථ රියදුරෙක් බවද පොලීසිය කියයි.
+
+අල්ලස් මුදල ලබාදුන් පුද්ගලයා තමන් අල්ලස් මුදල ලබාදෙන් අයුරු සිය ජංගම දුරකතනයෙන් වීඩියෝ කර ඇල්පිටිය ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කමල් පලිස්කාර  මහතාට යොමු කිරීමෙන් අනතුරුව ඒ මහතා විසින් කොස්ගොඩ පොලීසියට කරන ලද දැනුම්දීමකට අනුව කොස්ගොඩ පොලීසියේ වැඩබලන ස්ථානාධිපතිවරයා ඇතුලු නිලධාරීන් පිරිසක් පොලිස් නිලධාරීන් තිදෙනා අත්අඩංගුවට ගෙන ඇත.
+
+සැකකාර පොලිස් නිලධාරීන් තිදෙනා අද(18) බලපිටිය අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබිණ.කොස්ගොඩ පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/fc21f090.json)
 
 ---
 
@@ -1056,15 +1154,31 @@ But, at the age of 4, Diana has begun to tell the details of life.  டயா�
 
 ---
 
-### 
+### Will  Rajitha Senaratne’s Crossover  Trigger More Defections of MPs From SJB to Ranil’s Side?
+
+*2024-08-17 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84559) · `en`
+
+Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha  Senaratne is the latest among well-known politicians to throw in their lot with incumbent president Ranil Wickremesinghe. The Samagi Jana Balawegaya(SJB) MP for Kalutara district met with the president at the Gangaramaya temple in Colombo on 13 August and signed a memorandum of understanding (MOU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for  21 September 2024.Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
+
+Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports,  Senaratne  had stated  this motivated  him into  supporting  Wickremesinghe’s candidacy.
+
+...
+
+[Data](articles/09d4eecc.json)
+
+[Extended Data](ext_articles/09d4eecc.ext.json)
+
+---
+
+### President Wickremesinghe   points out that  other main presidential candidates are  not opposed to the agreement with the IMF and that they have openly said they will continue with it.
 
 *2024-08-17 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84566) · `en`
-
-President Wickremesinghe   points out that  other main presidential candidates are  not opposed to the agreement with the IMF and that they have openly said they will continue with it.
 
 A total of 39 candidates are contesting in Sri Lanka’s ninth Presidential Election scheduled to be held on 21 September. This is a record number of candidates contesting in an election in the history of Presidential Elections of the country.
 
 Until now, the Presidential Election has been a direct contest between candidates of two main political parties or alliances led by them. But this time the election will be a three-way contest between incumbent President Ranil Wickremesinghe, Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa, and National People’s Power (NPP) Leader Anura Kumara Dissanayake.
+
+ng disturbing comments, questioning whether there is a chance of a change in the scenario of a three-way contest after the entry of Namal Rajapaksa, the National Organiser of the Sri Lanka Podujana Peramuna (SLPP) and the eldest son and political heir of former President Mahinda Rajapaksa into the fray.
 
 ...
 
@@ -2119,167 +2233,5 @@ The cause of the fire is yet to be ascertained, and the damage caused by the fir
 [Data](articles/b514ea3a.json)
 
 [Extended Data](ext_articles/b514ea3a.ext.json)
-
----
-
-### Spoon the chicken river reservoir
-
-*2024-08-17 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200022) · `si`
-
-Following heavy rains, the Kukule River's water capacity has increased to 150 cubic meters. The Department of Irrigation, led by Mrs. Sakura Dilthara, reports rising water levels in the Black River due to recent rainfall.
-
-🟩
-
-The Department of Irrigation says that with a significant rain in the Kalu Ganga's high current areas, the Kukule River Resources has already spake at 150 cubic water capacity.
-
-Irrigation Engineers (Hydrology and Disaster Management Division). Mrs. Sakura Dilthara issued announcement.
-
-She further stated that the water levels in the Black River have significantly increasing with heavy rainfall received during the past 24 hours.
-
-◼️
-
-[Data](articles/6abc7604.json)
-
-[Extended Data](ext_articles/6abc7604.ext.json)
-
----
-
-### Dilith Jayaweera's wedding rally today
-
-*2024-08-17 11:29:24* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ජයවීරගේ-මංගල-රැළිය-අද/11-411412) · `si`
-
-Today's Dilith Jayaweera wedding rally, a propaganda event, starts at 2:30 pm.
-
-🟩
-
-The rally of the propaganda rally will be held today (17).
-
-The rally is scheduled to commence at 2.30 pm today at 2.30 pm today.
-
-◼️
-
-[Data](articles/aed2e2fb.json)
-
-[Extended Data](ext_articles/aed2e2fb.ext.json)
-
----
-
-### Landslide early warnings issued for 4 districts
-
-*2024-08-17 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101300/landslide-early-warnings-issued-for-4-districts) · `en`
-
-The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in four districts, as heavy rainfall continues in parts of the island.
-
-Accordingly, a Level 2 (Amber) warning has been issued for several areas in the Galle, Kalutara, Matara and Ratnapura districts as follows:
-
-Galle – Elpitiya, Neluwa, Yakkalamulla and Nagoda Divisional Secretariat Divisions (DSD) and surrounding areas
-
-Kalutara – Ingirya, Horana, Bulathsinhala and Mathugama DSDs and surrounding areas
-
-Ratnapura- Kuruwita, Ratnapura, Elapatha, Eheliyagoda and Kalawana DSDs and surrounding areas
-
-Meanwhile, a Level 1 (Yellow) warning was issued for the following areas:
-
-Kegalle- Dehiowita, Deraniyagala, Warakapola, Yatiyanthota, Kegalle DSDs and surrounding areas
-
-Meanwhile, the NBRO says that this warnings will be in effect until 5.00 a.m. tomorrow (18).
-
-◼️
-
-[Data](articles/646094f6.json)
-
-[Extended Data](ext_articles/646094f6.ext.json)
-
----
-
-### Suspect arrested after trying to buy gold chain with over 100 fake currency notes
-
-*2024-08-17 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101299/suspect-arrested-after-trying-to-buy-gold-chain-with-over-100-fake-currency-notes) · `en`
-
-Police have arrested a 33-year-old man in possession of over 100 counterfeit currency notes of the Rs. 5,000 denomination in the Ratnapura area.
-
-The Police Media Division said that the arrest was made following a tip-off from a local jewellery shop manager who became suspicious of the currency notes when the suspect attempted to purchase gold jewellery.
-
-The suspect had entered the shop and produced a bundle of Rs. 5,000 notes on Friday (17), claiming that he wished to purchase a gold chain. However, the manager, noticing discrepancies in the currency notes, had informed the police in this regard.
-
-Upon inspection, police officers have found 102 counterfeit Rs. 5,000 notes and a pen drive in the suspect’s possession.
-
-Preliminary investigations have revealed that the suspect had printed the counterfeit notes using a printer at his home.
-
-Ratnapura Police have taken the suspect and the forged currency notes into custody and are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/fcfb81a6.json)
-
-[Extended Data](ext_articles/fcfb81a6.ext.json)
-
----
-
-### Most of the rainfall record in Galle district
-
-*2024-08-17 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191278) · `ta`
-
-Heavy rains hit the Galle district, especially in Neluwa, with significant amounts also recorded in Kalutara, Horana, Colombo, and Ratnapura districts due to atmospheric conditions over Sri Lanka.
-
-🟩
-
-Due to the atmosphere at the atmosphere above Sri Lanka, the weather in the southwestern region of the country has increased.
-
-Heavy rains have been reported in the Neluwa area in the Galle district within 1 am this morning.
-
-In addition, rainfall was reported in the Kalutara district of 177 millimeters and 120 millimeters in the Horana area.
-
-Rainfall in Colombo district was 116.5 millimeters and Ehaliyagoda 116 millimeters in Ratnapura district.
-
-◼️
-
-[Data](articles/99d93801.json)
-
-[Extended Data](ext_articles/99d93801.ext.json)
-
----
-
-### Flood warning issued as Kuda Ganga water level rises
-
-*2024-08-17 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101298/flood-warning-issued-as-kuda-ganga-water-level-rises) · `en`
-
-The water levels in the Kuda Ganga is rising, posing flood threats over the next 48 hours in the Bulathsinhala, Palindanuwara, and Madurawala Divisional Secretariat (DS) divisions, according to the Irrigation Department.
-
-Issuing an ‘Amber’ warning in this regard, the Irrigation Department stated that a considerable rainfall has occurred in the upstream catchment areas of Kuda Ganga Sub Basin of Kalu River as of 9.00 a.m. today.
-
-By analyzing the current rainfall situation and river water levels of Hydrological Stations in Kalu Ganga, it is warned that there is a possibility of a flood situation occurring in the low-lying areas of Kuda Ganga and Maguru Ganga valleys situated in Bulathsinhala, Madurawala and Palinda Nuwara D/S Divisions in the next 48 hours, it added.
-
-In the flood warning, which is effective until 09.00 a.m. on Monday (19), the department mentioned that as a result, there is high possibility of inundating of roads running through flood plains of Kuda Ganga and Magura Ganga.
-
-...
-
-[Data](articles/02f39298.json)
-
-[Extended Data](ext_articles/02f39298.ext.json)
-
----
-
-### Top information leaked on vehicle imports
-
-*2024-08-17 09:56:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-உயர்மட்ட-தகவல்-கசிந்தது/175-342319) · `ta`
-
-The government plans to increase vehicle import taxes, especially for non-essential cars, to align with IMF recommendations and address rising costs of living. Essential vehicles and those with engines under 1000cc may be exempted from this hike.
-
-🟩
-
-High -level reports suggest that if the vehicles are imported for private purposes, the vehicle import tax will also be increased.
-
-The Finance Ministry has said that the government has agreed with the International Monetary Fund to revise the tax on vehicle imports, considering the cost of living people.
-
-If cars are imported, the tax will increase and the excise tax on alcohol will be imposed on vehicle imports and the tax will be revised in accordance with the factors of the economic growth and inflation rate.. However, the government has focused on importing essential vehicles first.
-
-It has been revealed that the government is planning to import small amounts of instruments with less than 1000 engine capacity that is not affected by foreign reserves if imported private vehicles.. Remble
-
-◼️
-
-[Data](articles/e9943e8d.json)
-
-[Extended Data](ext_articles/e9943e8d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 02:06:03**
+As of **2024-08-19 02:21:21**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,411 (100.0%) of 41,412 articles have been extended.
+41,412 (100.0%) of 41,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### முதல் காலாண்டில் மாத்திரம் 207 எச்.ஐ.வி.தொற்றாளர்கள்; 13 பேர் உயிரிழப்பு
+### 207 HIVs in the first quarter alone;13 people die
 
 *2024-08-19 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/191395) · `ta`
 
-நாட்டில் முதல் காலாண்டில் மாத்திரம் 207 எச்.ஐ.வி தொற்றாளர்கள் இனங்காணப்பட்டுள்ளதுடன், 13 பேர் உயிரிழந்துள்ளனர். வருடாந்தம் 700 பேர் புதிய தொற்றாளர்களாக இனங்காணப்படுகிறார்கள் என சுகாதார அமைச்சு குறிப்பிட்டுள்ளது.
+In the first quarter, 207 HIV cases were reported in Sri Lanka, with 13 fatalities. This represents a significant increase from previous years, with annual new infections nearing 700. The majority of cases involve males aged 15 to 24, highlighting a concerning trend. The overall HIV infection rate has surged by 300% this year, emphasizing the urgent need for intervention, especially in areas with higher infection rates like the Western Province.
 
-எச்.ஐ.வி தொற்றாளர்களின் எண்ணிக்கை கடந்த ஆண்டை காட்டிலும் இந்த ஆண்டு 300 சதவீதமாக உயர்வடைந்துள்ளது. இந்த ஆண்டின் முதல் காலாண்டில் மாத்திரம் 207 எச்.ஐ.வி தொற்றாளர்கள் இனங்காணப்பட்டுள்ளதாக சுகாதார அமைச்சு அறிவுறுத்தியுள்ளது.
+🟩
 
-முதல் காலாண்டில் இனங்காணப்பட்ட 207 தொற்றாளர்களில்  15 வயது முதல் 24 வயதுக்குட்பட்ட  23 ஆண்களும், 05 பெண்களும் உள்ளடங்குகின்றனர்.அத்துடன் முதல் காலாண்டில் எச்.ஐ.வி. தொற்றாளர்களில் 13 பேர் உயிரிழந்துள்ளதுடன், இலங்கையில் இதுவரையான காலப்பகுதியில் மாத்திரம் 5912 பேர் எச்.ஐ.வி. தொற்றுக்குள்ளாகியுள்ளனர்.
+In the first quarter of the country alone, 207 HIV infections were identified and 13 died. The Ministry of Health has stated that 700 people are identified as new infections annually.
 
-2018 ஆம் ஆண்டு காலப்பகுதியில் இலங்கையில் எச்.ஐ.வி தொற்றாளர்களின் வீதம் மொத்த சனத்தொகையில் 1 மில்லியனுக்கு 0.03 வீதமாக காணப்பட்டது.ஆனால் தற்போது அந்த வீதம் 0.1 ஆக உயர்வடைந்துள்ளது. அதாவது நூற்றுக்கு 300 சதவீதமளவில் தொற்றாளர்களின் வீதம் உயர்வடைந்துள்ளது.
+The number of HIV infections has risen to 300 percent this year compared to last year. The Ministry of Health has advised that 207 HIV infections have been identified in the first quarter of this year.
 
-...
+Of the 207 infections identified in the first quarter, 23 men aged 15 to 24 include 23 men and 05 females.. Thirteen people have died and 5912 HIV in Sri Lanka so far in Sri Lanka. Are infected.
+
+In 2018, the rate of HIV infected in Sri Lanka was 0.03 per cent of the total population.. This means that the rate of infections has risen by 300 percent.
+
+This cannot be ignored.About 700 people are identified as new infections annually.HI among those who engage in sex businesses. V is able to observe that the spread of infection has increased. He said the number of HIV infections in the Western Province is high.
+
+◼️
 
 [Data](articles/5e15f404.json)
+
+[Extended Data](ext_articles/5e15f404.ext.json)
 
 ---
 

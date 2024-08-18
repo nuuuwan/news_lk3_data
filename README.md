@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 07:52:35**
+As of **2024-08-18 08:16:08**
 
 ## Newspaper Stats
 
-*Scraped **41,272** Articles*
+*Scraped **41,280** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 351
 newsfirstlk | 363
 bbccomsinhala | 382
-colombotelegraphcom | 393
+colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,502
 dailyftlk | 2,676
-adalk | 3,790
+adalk | 3,791
 dailymirrorlk | 4,733
-adaderanalk | 4,823
-tamilmirrorlk | 5,296
+adaderanalk | 4,825
+tamilmirrorlk | 5,300
 virakesarilk | 6,539
 adaderanasinhalalk | 7,032
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 7,032
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,264 (100.0%) of 41,272 articles have been extended.
+41,268 (100.0%) of 41,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### US Acting Assistant Secretary of State to visit Sri Lanka
+
+*2024-08-18 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101316/us-acting-assistant-secretary-of-state-to-visit-sri-lanka) · `en`
+
+US Acting Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs Jennifer R. Littlejohn will travel to Sri Lanka, India and Maldives from 17 August to 31 August.
+
+During her visit, she will discuss nature and marine conservation, plastic and air pollution, the climate crisis, deforestation, nature crimes, civil and commercial space activities, promoting women and girls in STEM, and the sustainable blue economy, said the US Department of State.
+
+In Sri Lanka from 19 to 21 August, she will meet with government officials and partners, visit U.S.-supported wildlife protection projects and explore opportunities for connecting Sri Lankans with U.S. experts in priority areas, such as hydrography and climate change.
+
+...
+
+[Data](articles/dae707f3.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-08-18 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101315/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur at several places elsewhere over the island during the evening or night, it said.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/2669c2e6.json)
+
+---
 
 ### A Pivothimpath for Russia
 
@@ -110,6 +146,8 @@ Fits Retail is expanding globally with its Damn Fine Coffee brand, launched in 2
 
 [Data](articles/685c13d6.json)
 
+[Extended Data](ext_articles/685c13d6.ext.json)
+
 ---
 
 ### Lycamobile’s Subaskaran Allirajah: Refugee from SL owning UK business empire
@@ -125,6 +163,8 @@ The name “Lyca” is based on Allirajah’s sister’s name, Lehka. “I didn�
 ...
 
 [Data](articles/8aabc9e3.json)
+
+[Extended Data](ext_articles/8aabc9e3.ext.json)
 
 ---
 
@@ -143,6 +183,24 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/c102e53e.json)
+
+[Extended Data](ext_articles/c102e53e.ext.json)
+
+---
+
+### வன்முறையுடன் தொடர்புடைய மூவர் கைது
+
+*2024-08-18 02:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறையுடன்-தொடர்புடைய-மூவர்-கைது/175-342356) · `ta`
+
+யாழ்ப்பாணம், வடமராட்சி, வல்வெட்டித்துறையில் பொலிஸ் நிலையத்துக்கு அருகில் உள்ள வீடொன்றுக்குள் நுழைந்து வன்முறையில் ஈடுபட்ட சம்பவம் தொடர்பாக மூன்று பேர் கைது செய்யப்பட்டனர்.
+
+சந்தேகநபர்களிடமிருந்து ஜந்து வாள்கள் கைப்பற்றப்பட்டுள்ளதுடன் வன்முறைக்குப் பயன்படுத்தப்பட்ட இரண்டு மோட்டார் சைக்கிள்களையும் மீட்கப் பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+சம்பவம் தொடர்பாக 19 மற்றும் 23 வயதான கோண்டாவில் பகுதியைச் சேர்ந்த 2 பேரும், அச்சுவேலியைச் சேர்ந்த ஒருவரும் கைது செய்யப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/83475658.json)
 
 ---
 
@@ -184,6 +242,36 @@ On Saturday August 24 the FIRST LEG of the 78th edition of the prestigious Bradb
 
 ---
 
+### செல்வச்சந்நிதியான் தேர்த் திருவிழா இன்று
+
+*2024-08-18 02:00:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்வச்சந்நிதியான்-தேர்த்-திருவிழா-இன்று/175-342355) · `ta`
+
+வரலாற்றுப் பிரசித்தி பெற்ற யாழ். வடமராட்சி தொண்டைமானாறு செல்வச்சந்நிதி முருகன் ஆலயத்தின் வருடாந்தத் தேர்த் திருவிழா இன்று காலை 8 மணிக்கு நடைபெறவுள்ளது.
+
+செல்வச்சந்நிதி முருகன் ஆலயத்தின் வருடாந்தப் பெருந்திருவிழா கடந்த 4 ஆம் திகதி ஆரம்பமாகி நடைபெற்று வருகின்றது. இதில், நேற்று இரவு சப்பரத் திருவிழா நடைபெற்றது. இன்று தேர்த் திருவிழா நடைபெறவுள்ளது.
+
+தேர், தீர்த்தத் திருவிழாக்களையொட்டி விசேட போக்குவரத்து ஏற்பாடுகள், சுகாதார, குடிதண்ணீர் மற்றும் பாதுகாப்பு ஏற்பாடுகள் செய்யப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/43a4d806.json)
+
+---
+
+### தேர்தல் பிரசார செலவுகளை கண்காணிக்க இணையத்தளம்
+
+*2024-08-18 01:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-பிரசார-செலவுகளை-கண்காணிக்க-இணையத்தளம்/175-342354) · `ta`
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களின் பிரசார செலவுகளைக் கண்காணிக்கும் வகையில் இணையத்தளம் ஒன்று உருவாக்கப்பட்டுள்ளது.
+
+இந்த இணையத்தளம் ட்ரான்ஸ்பரன்சி இன்டர்நேஷனல் ஸ்ரீலங்கா நிறுவனம், மற்றும் பெப்ரல் அமைப்பு உள்ளிட்ட ஆறு தேர்தல் கண்காணிப்பு அமைப்புகளினால் உருவாக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/39fa9e67.json)
+
+---
+
 ### Deconstructing Bangladesh
 
 *2024-08-18 01:51:00* · [`islandlk`](http://island.lk/deconstructing-bangladesh/) · `en`
@@ -195,6 +283,8 @@ On Monday, August 5, protesters managed to chase out Sheikh Hasina, the country�
 ...
 
 [Data](articles/040bc475.json)
+
+[Extended Data](ext_articles/040bc475.ext.json)
 
 ---
 
@@ -238,7 +328,35 @@ Fire has been set on four cars. Many vehicles have been attacked by throwing sto
 
 ---
 
+### Vickramabahu – Towards A Durable Political Assessment
+
+*2024-08-18 01:04:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/vickramabahu-towards-a-durable-political-assessment/) · `en`
+
+Gauging Bahu’s political legacy is in progress with many commentators making piecemeal contributions. Eulogies and commentaries have appeared in recent months but the discourse that I commence here is different. My association with VBK (Vickramabahu Karunaratne) goes back decades when we both took coveted University of Ceylon Firsts in electrical engineering – myself, in the class of 1963 and Bahu in 1965. But more important are the deep political links that began to gel in the mid-1960s. I became a Samasamajist at the age of 12 under the influence of the August 1953 Hartal. Bahu was won over to the Left in the mid-1960s by his Akbar Hall undergraduate room-mate, Chris Ratnayake. Chris even bought Bahu a hairbrush to keep his grubby scalp away from his own brush. Salad days! What larks!
+
+...
+
+[Data](articles/c5062ef1.json)
+
+---
+
 ### 2024-08-17 (Saturday)
+
+### சிலிண்டர் சின்னத்திற்கு சிக்கல்
+
+*2024-08-17 23:09:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்-சின்னத்திற்கு-சிக்கல்/175-342352) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு சிலிண்டர் சின்னம் வழங்கப்பட்டமை தொடர்பில் ஜன அரகலயே புரவெசியோ என்ற அமைப்பின் பொதுச் செயலாளர் சானக்க பண்டார தேர்தல்கள் ஆணைக்குழுவுக்கு முறைப்பாடொன்றை அளித்துள்ளார்.
+
+2023ஆம் ஆண்டில் உள்ளூராட்சி தேர்தலில் போட்டியிடுவதற்கு தமது அமைப்புக்கு அந்தச் சின்னம் வழங்கப்பட்டுள்ளது.
+
+எனவே, சுயேட்சை வேட்பாளராகக் களமிறங்கியுள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு வழங்கிய அந்தச் சின்னத்தை மீளப்பெறுமாறு அந்த அமைப்பு கோரியுள்ளது. R
+
+◼️
+
+[Data](articles/419c344a.json)
+
+---
 
 ### The problem came to Ranil's cylinder symbol
 
@@ -399,6 +517,20 @@ The PAFFREL organization states that trying to vote for voting during the electi
 [Data](articles/9668e84c.json)
 
 [Extended Data](ext_articles/9668e84c.ext.json)
+
+---
+
+### පුළුවන් ශ්‍රී ලංකා වැඩසටහන තුන් සිංහලය එකට එක්වන තැනක්
+
+*2024-08-17 19:58:44* · [`adalk`](https://www.ada.lk/breaking_news/පුළුවන්-ශ්‍රී-ලංකා-වැඩසටහන-තුන්-සිංහලය-එකට-එක්වන-තැනක්/11-411417) · `si`
+
+පුළුවන් ශ්‍රී ලංකා වැඩසටහන රට බෙදන වැඩපිළිවෙලක් නොව රට රැකීමට තුන් සිංහලය එකට එක්වන තැනක් බව ජනාධිපතිවරණ ස්වාධීන අපේක්ෂක ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවැසීය.
+
+අනුරාධපුරයේ අද(17දා) පැවති මංගල ජන රැළියට එක්වෙමින් ‌හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/69d44395.json)
 
 ---
 
@@ -2145,141 +2277,5 @@ These beneficial coconut trees are now enjoying the impact of the destruction of
 [Data](articles/32f80eb7.json)
 
 [Extended Data](ext_articles/32f80eb7.ext.json)
-
----
-
-### A rainy growth
-
-*2024-08-17 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200018) · `si`
-
-Expect heavy rainfall across several provinces today, including Kandy, Sabaragamuwa, and North Western regions. The Western and Sabaragamuwa provinces, particularly Galle and Matara districts, may see intense showers exceeding 100mm. Thundershowers are predicted throughout the day, with a high risk of strong winds and lightning strikes. The Department of Meteorology advises caution and preparedness for potential weather-related incidents.
-
-🟩
-
-The Department of Meteorology says that the existing show of rain conditions in the island nearly anticipation is expected today (17).
-
-According to the Department of Kandy, Sabaragamuwa and North Western provinces, will experience showers or thundershowers at times.
-
-In particular, in the Western and Sabaragamuwa provinces, Galle and Matara districts have been. Heavy rains may occur at more than 100.
-
-Thundershowers during the evening or night during the evening or night in the rest of the country.
-
-The Department of Meteorology also requests the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/1a6d4c41.json)
-
-[Extended Data](ext_articles/1a6d4c41.ext.json)
-
----
-
-### ‘Despite challenges in the market, SLT-MOBITEL reports moderate revenue growth in 1H 2024’
-
-*2024-08-17 02:53:00* · [`islandlk`](http://island.lk/despite-challenges-in-the-market-slt-mobitel-reports-moderate-revenue-growth-in-1h-2024/) · `en`
-
-SLT-MOBITEL, the National ICT Solutions Provider, has reported moderate revenue growth for the first half of 2024, while demonstrating savings through cost management initiatives.
-
-The 1H 2024 performance establishes SLT-MOBITEL’s resilience and adaptability in a challenging market environment. The moderate revenue growth, coupled with successful cost-saving initiatives, has led to notable improvements.
-
-The Group’s revenue for 1H 2024 reached Rs. 53.5 billion, marking a 1.6% increase compared to the same period last year. Gross Profit at Group level has also increased by 4.0% to Rs 20.9 billion with the gross profit margin expanding to 39.0% from 38.1% in the previous year. The moderate growth was achieved despite challenges in the market such as customer churn and less demand for new connections.
-
-...
-
-[Data](articles/efa391d0.json)
-
----
-
-### Union Assurance empowers community wellbeing with the HOPE initiative in Monaragala district
-
-*2024-08-17 02:52:00* · [`islandlk`](http://island.lk/union-assurance-empowers-community-wellbeing-with-the-hope-initiative-in-monaragala-district/) · `en`
-
-Union Assurance, Sri Lanka’s premier Life Insurer, continues its steadfast commitment to enriching community well-being with another successful execution of its HOPE initiative. The HOPE initiative underscores Union Assurance’s proactive approach to addressing and supporting the developmental needs of local communities, aimed at empowering the collective progress of the nation. The latest instalment of the initiative was conducted at Ethiliwewa Maha Vidyalaya in Wellawaya and was graced by the presence of Union Assurance’s Chief Executive Officer and other senior dignitaries.
-
-Union Assurance provided essential support to over 800 students from three schools in the Monaragala district, including the Ethiliwewa Maha Vidyalaya, Weherayaya Maha Vidyalaya and Balaharuwa Primary School with six months’ supply of sanitary napkins.
-
-...
-
-[Data](articles/c85adcfb.json)
-
----
-
-### Festival of Creativity 2024 to bring together creative minds and emerging talent
-
-*2024-08-17 02:51:00* · [`islandlk`](http://island.lk/festival-of-creativity-2024-to-bring-together-creative-minds-and-emerging-talent/) · `en`
-
-The Festival of Creativity 2024 is set to showcase and celebrate creative talent in Sri Lanka. Organised by the AMDT School of Creativity, and scheduled from the 23rd of August to the 1st of September, the festival promises to be an extraordinary experience, uniting creative minds across various disciplines. The AMDT Festival of Creativity will feature three major events, each designed to inspire, educate, and spotlight the incredible potential of Sri Lankan creatives.
-
-...
-
-[Data](articles/b0c8b848.json)
-
----
-
-### WindForce soars to new heights: stellar quarterly performance
-
-*2024-08-17 02:50:00* · [`islandlk`](http://island.lk/windforce-soars-to-new-heights-stellar-quarterly-performance/) · `en`
-
-WindForce PLC, Sri Lanka’s leader in the renewable energy sector, has announced an outstanding financial performance for the first quarter of the 2024/25 fiscal year. The company reported a robust 87% surge in EBITDA reaching LKR 1.95 billion, a significant leap from LKR 1 billion in the same period last year. This remarkable growth highlights the company’s strategic advancements and market strength.
-
-The group’s consolidated revenue for the quarter ending June 30, 2024, soared to LKR 1.56 billion, marking a 28% increase from LKR 1.22 billion in the previous year. Net profits also demonstrated substantial growth, climbing 27% to LKR 652 million, up from LKR 514 billion recorded in the first quarter of last year.
-
-This exceptional financial performance was largely driven by the successful commissioning of the Hiruras 15 MW wind power plant in June/July 2023, which significantly enhanced WindForce’s production capacity and revenue streams.
-
-...
-
-[Data](articles/2d2a6b87.json)
-
-[Extended Data](ext_articles/2d2a6b87.ext.json)
-
----
-
-### Share market gains for fifth consecutive day; profit-takings in some counters
-
-*2024-08-17 02:49:00* · [`islandlk`](http://island.lk/share-market-gains-for-fifth-consecutive-day-profit-takings-in-some-counters/) · `en`
-
-Investors gradually grew in optimism, helping the stock market to gain for the fifth consecutive day yesterday but witnessed profit- takings in some counters, market analysts said.
-
-The All- Share Price Index went down by 28.97 points while S and P SL20 declined by 1.53 points. Turnover stood at Rs 539 million with two crossings. Those crossings were reported in Renuka Holdings, which crossed 1.7 million shares to the tune of Rs 32.3 million; its shares traded at Rs 13 and Melstacope 250,000 shares crossed to the tune of Rs 20.7 million; its shares traded at Rs 81.
-
-...
-
-[Data](articles/484db1b0.json)
-
-[Extended Data](ext_articles/484db1b0.ext.json)
-
----
-
-### Elevating market integrity by ensuring secure and transparent trading practices at Colombo Stock Exchange
-
-*2024-08-17 02:41:00* · [`islandlk`](http://island.lk/elevating-market-integrity-by-ensuring-secure-and-transparent-trading-practices-at-colombo-stock-exchange/) · `en`
-
-Ms. Nilupa Perera, Senior Vice President of the Broker Supervision and Listed Entity Compliance Divisions at the Colombo Stock Exchange (CSE), provides an in-depth look at the critical roles her divisions play in maintaining market integrity and fostering good corporate governance.
-
-What is the role of the Broker Supervision Division at the CSE?
-
-The Broker Supervision Division is pivotal to ensure adequate protection for investors who engage the services of Trading Participants. We strive to deliver a high level of service and maintain effective working relationships with Trading Participants. By closely monitoring their activities, we ensure that Trading Participants provide secure and trusted services to investors.
-
-...
-
-[Data](articles/7f0d1cfc.json)
-
-[Extended Data](ext_articles/7f0d1cfc.ext.json)
-
----
-
-### Acorn Leisure signs game-changing alliance with NDB Capital Group and Sunil Fernando & Associates
-
-*2024-08-17 02:32:00* · [`islandlk`](http://island.lk/acorn-leisure-signs-game-changing-alliance-with-ndb-capital-group-and-sunil-fernando-associates/) · `en`
-
-Acorn Leisure, a subsidiary of the Acorn Group, has taken a significant step toward expansion by signing a Memorandum of Understanding (MOU) with NDB Capital Group and Sunil Fernando & Associates.
-
-Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, driven by an innovative hotel operations model that emphasizes transparency and strong governance. The partnership is designed to create a powerhouse in leisure management, providing crucial industry value additions such as innovative funding opportunities, project investment services, and real estate advice, to drive sustainable growth in Sri Lanka’s tourism sector. As the industry continues to recover and evolve, this alliance is expected to set new standards in hospitality, offering resort and villa owners cutting-edge solutions tailored to the demands of a rapidly changing market.
-
-...
-
-[Data](articles/be3c821b.json)
-
-[Extended Data](ext_articles/be3c821b.ext.json)
 
 ---

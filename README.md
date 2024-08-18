@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 23:56:14**
+As of **2024-08-19 00:08:14**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,406 (100.0%) of 41,408 articles have been extended.
+41,408 (100.0%) of 41,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### தையிட்டி சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் ஆரம்பம்!
+### The struggle against the illegal illegal Tissa Vihara begins!
 
 *2024-08-18 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191394) · `ta`
 
-தையிட்டி சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் 18ஆம் திகதி ஞாயிற்றுக்கிழமை மாலை 04 மணிக்கு ஆரம்பமாகியுள்ளது.
+Protesters led by Selvarajah Gajendran, general secretary of the Tamil National People's Front, started a fight against the Taiti illegal Tissa Vihara on Sunday, 18th, at 4 pm. The Vihara, without proper permits, aims to take over local lands. This issue particularly affects southern chauvinists who conduct full moon day worship there, leading to daily protests on these days.
 
-மக்களது காணிகளை சட்டவிரோதமாக அபகரித்து, எந்தவிதமான அனுமதிகளும் பெறப்படாது குறித்த விகாரை அமைக்கப்பட்டுள்ளது.
+🟩
 
-குறித்த விகாரையில் பௌர்ணமி தின வழிபாடுகளை முன்னெடுப்பதற்கு தென்பகுதியிலிருந்து பேரினவாத மக்கள் அழைத்து வரப்படுவது வழமை. அந்தவகையில் ஒவ்வொரு பௌர்ணமி தினத்திலும் குறித்த போராட்டம் முன்னெடுக்கப்பட்டு வருகின்றது. அந்தவகையில் இந்த போராட்டம் ஞாயிற்றுக்கிழமை (18) ஆரம்பமாகியது.
+The struggle against the Taiti illegal Tissa Vihara began at 4 pm on Sunday, the 18th.
 
-இந்த போராட்டத்தில் தமிழ்த் தேசிய மக்கள் முன்னணியின் பொதுச் செயலாளர் செல்வராஜா கஜேந்திரன், கட்சியின் உறுப்பினர்கள் மற்றும் பொதுமக்கள் என பலரும் கலந்துகொண்டனர்.
+The Vihara has been set up to illegally seize the lands of the people and not get any permits.
+
+It is customary for chauvinist people from the south to carry out the full moon day worship in the Vihara. The struggle is being carried out on every full moon day. The struggle began on Sunday (18).
+
+Selvarajah Gajendran, general secretary of the Tamil National People's Front, members of the party and the public participated in the protest.
 
 ◼️
 
 [Data](articles/c3a2f3b7.json)
+
+[Extended Data](ext_articles/c3a2f3b7.ext.json)
 
 ---
 
@@ -1507,6 +1513,8 @@ President Ranil Wickremesinghe said last week that Sri Lanka and the Internation
 ...
 
 [Data](articles/ee494e7c.json)
+
+[Extended Data](ext_articles/ee494e7c.ext.json)
 
 ---
 

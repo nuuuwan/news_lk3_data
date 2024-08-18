@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 22:54:00**
+As of **2024-08-18 23:06:40**
 
 ## Newspaper Stats
 
-*Scraped **41,400** Articles*
+*Scraped **41,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,503
 dailyftlk | 2,676
-adalk | 3,806
+adalk | 3,807
 dailymirrorlk | 4,733
 adaderanalk | 4,843
 tamilmirrorlk | 5,331
@@ -26,39 +26,51 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,398 (100.0%) of 41,400 articles have been extended.
+41,400 (100.0%) of 41,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### දිලිත් ජයවීර උපායමාර්ගික සැලැස්ම පැහැදිලි කරයි
+### Dilith Jayaweera explains the strategic plan
 
 *2024-08-18 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200082) · `si`
 
-ජනතාව බලාපොරොත්තු වන වෙනස සිදුකිරීමට සෙසු ජනාධිපතිධුර අපේක්ෂකයින් සතුව නැති උපාය මාර්ගික සැලැස්ම තමන් සතු බව සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera outlines a strategic plan aimed at reforming Sri Lanka's political landscape, emphasizing the need for change amidst corruption and inefficiency. Highlighting the roles of potential presidential candidates, he criticizes the current system, calling for a shift towards more effective governance and accountability.
 
-අද (18) මව්බිම ජනතා පක්ෂයේ ප්‍රධාන කාර්යාලයේ පැවති විද්වත් සහ ව්‍යවසායක හමුවක් අමතමින් ඒ මහතා මේ බව සඳහන් කළේය.
+🟩
+
+The exangeration entrepreneur Dilith Jayaweera says he has the strategic plan that the candidates have the nomination of the candidates to make the difference.
+
+He was speaking at a scholarly and an entrepreneur meeting held at the Head Office of the Motherland People's People's People's People's People's Party.
 
 ...
 
 [Data](articles/a50dfbaf.json)
 
+[Extended Data](ext_articles/a50dfbaf.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ක්‍රීඩිකාවන්ට අනපේක්ෂිත පරාජයක්
+### A Unexpected defeat for Sri Lankan women
 
 *2024-08-18 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200081) · `si`
 
-හර්ෂිතා සමරවික්‍රම ඉවසිලිවන්තව ගොඩනැගූ ශතකයේ වටිනාකම අපතේ යැවූ පසුපෙළ පිතිකාරිනියන්ගේ දුර්වල ක්‍රීඩා විලාශය නිසා අයර්ලන්ත කාන්තා කණ්ඩායම හමුවේ දෙවැනි එක්දින තරගයෙන්ද ලකුණු 15ක පරාජයක් ලැබීමට ශ්‍රී ලංකාවට සිදුවිය.
+In a surprising turn of events, Sri Lanka secured victory in the second ODI against the World Women's team, largely attributed to Hershae Samarawickrama's patient and valuable century. This win ensured Sri Lanka's place in the tournament finals, despite being bowled out for just 240 runs in 48 overs.
 
-ඒ අනුව තරග 03කින් යුත් තරගාවලියේ තවත් තරගයක් ඉතිරිව තිබියදීම තරගාවලිය ජයගැනීමට අයර්ලන්ත කාන්තා කණ්ඩායමට හැකිවිය.
+🟩
 
-බෙල්ෆාස්ට්හිදී පැවති මෙම තරගයේ අයර්ලන්තයෙන් හිමි වූ ලකුණු 256ක ඉලක්කයට පිළිතුරු ලෙස ශ්‍රී ලංකාවට පන්දුවාර 48කට සියලු දෙනා දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 240ක් පමණි.
+Sri Lanka won the second ODI, due to the weak glean role of Hershae Samarawickrama's worth of patient and waste the value of the century.
+
+Accordingly, the World Women's group won the tournament while another match was left.
+
+Sri Lanka won only 240 runs for the loss of 48 overs.
 
 ◼️
 
 [Data](articles/0356e647.json)
+
+[Extended Data](ext_articles/0356e647.ext.json)
 
 ---
 
@@ -425,6 +437,24 @@ Sajith Premadasa, who is the presidential candidate for the upcoming presidentia
 [Data](articles/ec804a48.json)
 
 [Extended Data](ext_articles/ec804a48.ext.json)
+
+---
+
+### අර්ජුන් මහේන්ද්‍රන් ලංකාවට ගෙන එනවා
+
+*2024-08-18 19:22:53* · [`adalk`](https://www.ada.lk/breaking_news/අර්ජුන්-මහේන්ද්‍රන්-ලංකාවට-ගෙන-එනවා/11-411437) · `si`
+
+මහබැංකු වංචාවට වගකිව යුතු පුද්ගලයන් නීතිය හමුවට ගෙන එන බවත්, එම වංචාව සිදු කර සිංගප්පූරුවට පැනගොස් සිටින අර්ජුන මහේන්ද්‍රන් ලංකාවට ගෙන එන බවත්, ජාතික ජනබලවේගයේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. රනිල් වික්‍රමසිංහ මහතා අනුරාධපුර සල්ගාදු පිටියේ පැවති රැලියේදී කළ ප්‍රකාශයකට පිළිතුරු ලබාදෙමින් ඔහු මේ බව ප්‍රකාශ කළේය.
+
+කිරිබත්ගොඩ නගරයේ ව්‍යාපාරිකයන්ට ප්‍රදේශයේ මන්ත්‍රීවරයාට කප්පම් ලබාදීමට  සිදු වූ බවත්,
+
+ජනතාව ප්‍රදේශයේ මන්ත්‍රීවරයාට කප්පම් ලබාදුන් දේශපාලනය අවසන් වන බවත් දිසානායක මහතා ප්‍රකාශ කළේය. ඔහු මේ බව පැවසුවේ අද (18දා) කිරිබත්ගොඩ පැවති ජාතික ජනබලවේගයේ රුලියේ දීය.
+
+පාසල් පොත් ඇතුළු අධ්‍යාපන උපකරණවලට පනවා තිබෙන බදු සම්පූර්ණයෙන්ම ඉවත් කරන බවත්, රෝග පරීක්ෂාව සඳහා රෝගීන්ගෙන් අයකරන වැට් බද්ද  පළමු අයවැයෙන්ම ඉවත් කරන බවත්  අනුර කුමාර දිසානායක මහතා පැවසීය.ඒ මහතා වැඩිදුරටත් මෙසේද පැවසීය.
+
+...
+
+[Data](articles/c194c34a.json)
 
 ---
 
@@ -2333,31 +2363,5 @@ The Irish Women's Group won the first ODI between the two countries and today th
 [Data](articles/6c33374f.json)
 
 [Extended Data](ext_articles/6c33374f.ext.json)
-
----
-
-### Thunderstorm
-
-*2024-08-18 09:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-342362) · `ta`
-
-Today, expect thundershowers in Kandy, Nuwara Eliya, Galle, and Matara, with heavy rains possible in the Western, Sabaragamuwa Provinces, and Galle/Matara districts. Strong winds up to 30-40 km/h may hit the northern and northwestern regions. The Department of Meteorology advises caution against heavy winds and lightning during storms.
-
-🟩
-
-Thundershowers or thundershowers will occur today (18) in the Kandy, Nuwara Eliya, Galle and Matara districts, the Department of Meteorology.
-
-Heavy rains are likely to experience 75 millimeters in some areas in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-In the evening or night, the rest of the country can occur widely or thunderstorms.
-
-The Department of Meteorology has announced that strong winds are likely to blow at speeds of up to 30-40 km / h in the northern, northern and northwestern provinces and northern and northwestern provinces.
-
-The Department of Meteorology has called for the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/b9f28a94.json)
-
-[Extended Data](ext_articles/b9f28a94.ext.json)
 
 ---

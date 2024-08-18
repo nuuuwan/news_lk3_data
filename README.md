@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 09:36:47**
+As of **2024-08-18 09:56:08**
 
 ## Newspaper Stats
 
-*Scraped **41,285** Articles*
+*Scraped **41,289** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 351
+dbsjeyarajcom | 352
 newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 394
@@ -18,19 +18,71 @@ dailyftlk | 2,676
 adalk | 3,793
 dailymirrorlk | 4,733
 adaderanalk | 4,825
-tamilmirrorlk | 5,301
+tamilmirrorlk | 5,303
 virakesarilk | 6,539
-adaderanasinhalalk | 7,034
+adaderanasinhalalk | 7,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,284 (100.0%) of 41,285 articles have been extended.
+41,285 (100.0%) of 41,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### දකුණු ලෙබනනයට ගුවන් ප්‍රහාර
+
+*2024-08-18 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200052) · `si`
+
+ඊශ්‍රායල හමුදාව විසින් දකුණු ලෙබනනයේ නබාටියේ නගරයට එල්ලකළ ගුවන් ප්‍රහාරයකින් සාමාන්‍ය වැසියන් 10 දෙනෙක් මියගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+මියගිය පිරිස අතර දරුවන් දෙදෙනෙක් ද වෙයි. තවත් 5 දෙනෙක් තුවාල ලබා තිබුණි.
+
+මේ අතර ඊශ්‍රායල හමුදාව පැවසුවේ හිස්බුල්ලා කණ්ඩායම භාවිත කළ අවි ගබඩාවක් ඉලක්ක කර එම ප්‍රහාරය එල්ලකළ බවයි.
+
+ඊට ප්‍රතිචාර ලෙස උතුරු ඊශ්‍රායලයේ ගම්මානයකට රොකට් ප්‍රහාර 55ක් එල්ලකළ බව හිස්බුල්ලා කණ්ඩායම නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/6cb74957.json)
+
+---
+
+### பின்னணி பாடகி பி.சுசிலா  மருத்துவமனையில் அனுமதி
+
+*2024-08-18 09:23:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பின்னணி-பாடகி-பி-சுசிலா-மருத்துவமனையில்-அனுமதி/54-342359) · `ta`
+
+தமிழ், தெலுங்கு, கன்னடம், மலையாளம், இந்தி உள்ளிட்ட 9 மொழிகளில் சுமார் 40,000க்கும் மேற்பட்ட பாடல்களை பாடியவர் பி சுசீலா. 70 மற்றும் 80களின் நடிகைகளான சாவித்ரி, பத்மினி, சரோஜா தேவி உள்ளிட்ட நடிகைகள் நடித்துள்ள படத்தில் அவர்களுக்காக பின்னணி பாடியுள்ளார்.
+
+உயர்ந்த மனிதன் படத்தில் இடம் பெற்ற “பால் போலவே” என்ற பாடலுக்காக முதன் முறையாக சிறந்த பெண் பின்னணிப் பாடகிக்கான தேசிய விருதை பெற்றார். வயது மூப்பு காரணமாக திரைப்படங்களில் பாடுவதை அவர் தவிர்த்து வருகிறார்.
+
+இந்நிலையில், உடல்நலக்குறைவு காரணமாக சென்னை ஆழ்வார்பேட்டையில் உள்ள காவேரி மருத்துவமனையில் பி.சுசிலா அனுமதிக்கப்பட்டுள்ளார்.S
+
+◼️
+
+[Data](articles/75e67868.json)
+
+---
+
+### முன்னாள் பிரதமர் தக்சின் ஷினவத்ராவுக்கு  பொது மன்னிப்பு
+
+*2024-08-18 09:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-பிரதமர்-தக்சின்-ஷினவத்ராவுக்கு-பொது-மன்னிப்பு/50-342358) · `ta`
+
+தாய்லாந்தின் மன்னர் மகா வஜிரலோங்கோர்னின் பிறந்தநாள் கொண்டாட்டத்தின் ஒரு பகுதியாக, சிறை தண்டனை அனுபவித்து வரும் முன்னாள் பிரதமர் தக்சின் ஷினவத்ராவுக்கு பொது மன்னிப்பு வழங்கப்பட்டுள்ளது.
+
+தென் கிழக்கு ஆசிய நாடான தாய்லாந்தின் பிரதமராக, 2001 முதல் 2006 வரை பதவி வகித்தவர் தக்சின் ஷினவத்ரா. தொலைதொடர்புத்துறை நிறுவன உரிமையாளர்; பெரும் செல்வந்தர்.
+
+இவரது பதவிக்காலத்தில், ஊழல் செய்ததாகவும், அதிகார துஷ்பிரயோகம் செய்ததாகவும் குற்றச்சாட்டு எழுந்து போராட்டங்கள் நடத்தப்பட்டன. இந்நிலையில், இராணுவப்புரட்சி நடந்து, தக்சின் ஆட்சி கவிழ்க்கப்பட்டது.
+
+அவரது கட்சி தடை செய்யப்பட்டு, தக்சின் அரசியலில் ஈடுபடவும் அந்நாட்டு அரசு தடை விதித்த நிலையில், கைது அச்சத்தில், வெளிநாட்டுக்கு தப்பியோடிய அவர், கம்போடியா உள்ளிட்ட நாடுகளில் 15 ஆண்டுகள் தங்கியிருந்தார்.
+
+...
+
+[Data](articles/a1ba5ab0.json)
+
+---
 
 ### Gajamuthu have been in two places
 
@@ -94,17 +146,23 @@ The surgery is carried out by the doctor who has been tested at the private hosp
 
 ---
 
-### වැට් බදු සම්පූර්ණයෙන්ම ඉවත් කරනවා
+### VAT is completely removed
 
 *2024-08-18 08:18:27* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-බදු-සම්පූර්ණයෙන්ම-ඉවත්-කරනවා/11-411419) · `si`
 
-"රටට මේ විදියට යන්න දෙන්න බැහැ. රට දියුණු  කරන්න ඕන.අපි බලයට පත්වූ පසු වංචාව,දූෂණය  නතර කරනව. වංචකයින්ට දඬුවම් දෙනව. සොරාගත්ත දේපල රජයට පවර ගන්නව. ජනතාව සතුටින් තියන ආණ්ඩුවක් හදනවා. ඒ ටික කළ හැක්කේ  ජාතික  ජන බලවේගයට පමණයි" ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක  මහතා පැවසීය. ඉකුත්17 වනදා තංගල්ල නගරයේ පැවති රට අනුරට මැයින් පැවති ජන රැලියක් අමතමින් දිසානායක මහතා එසේ පැවසීය .
+In a speech in Tangalle, Dissanayake addressed the nation's challenges, including economic downturns affecting farmers, fishermen, and businesses, and the need for a new direction. He criticized old, failed policies and promised to remove VAT, increase income, and protect cultural heritage. He urged unity to overcome enemies and ensure justice for wrongdoers, highlighting past injustices like the assassination of Lasantha Wickrematunge and the abduction of Poddala Jayantha. He called for support in the upcoming presidential election to implement these changes.
 
-රට විශාල ලෙස කඩා වැටීමක තියෙන්නෙ .ආර්ථික වශයෙන් ගත්තොත් පතුලටම ගිලුනු රටක්.අපරාධ පැත්තෙන් ගත්තොත් විශාල ලෙස අපරාධ වැඩිවුන රටක්. නීතියආධිපත්‍යය කඩා වැටුණු රටක්. ගොවිජනයගේ ජීවිත විශාල ලෙස පීඩනයට පත් රටක්. ධීවර ජනතාවගේ ජීවිත විශාල ලෙස පීඩනයට පත්වෙලා. ව්‍යාපාරික ජනතාව අවිනිශ්චිත තත්ත්වයට පත්වෙලා. තරුණ තරුණියන්ට තමාගේ අනාගත සිහිනය භංගත්වයට පත්වෙලා.
+🟩
+
+"The country cannot go this way. The country needs to be developed. After being powerful, fraud and corruption stops. Punishment for fraudsters. The government is entrusted with the government. People make a happy government. Only the national government force can only be done "Leader of the National Population". Dissanayake addressing a rally held in Tangalle town on the 17th.
+
+The country is in a large crash.. A country that collapsed by the rule. A country that is largely stressed in the lives of farming. The lives of fishermen have been severely affected. Business people have been uncertain. Young people have become a future dream.
 
 ...
 
 [Data](articles/d90ed01e.json)
+
+[Extended Data](ext_articles/d90ed01e.ext.json)
 
 ---
 
@@ -887,6 +945,22 @@ But, at the age of 4, Diana has begun to tell the details of life.  டயா�
 [Data](articles/2ed67739.json)
 
 [Extended Data](ext_articles/2ed67739.ext.json)
+
+---
+
+### 
+
+*2024-08-17 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84566) · `en`
+
+President Wickremesinghe   points out that  other main presidential candidates are  not opposed to the agreement with the IMF and that they have openly said they will continue with it.
+
+A total of 39 candidates are contesting in Sri Lanka’s ninth Presidential Election scheduled to be held on 21 September. This is a record number of candidates contesting in an election in the history of Presidential Elections of the country.
+
+Until now, the Presidential Election has been a direct contest between candidates of two main political parties or alliances led by them. But this time the election will be a three-way contest between incumbent President Ranil Wickremesinghe, Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa, and National People’s Power (NPP) Leader Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/2a617021.json)
 
 ---
 
@@ -2193,117 +2267,5 @@ The World Health Organization did not immediately respond to requests to confirm
 [Data](articles/dc2fc238.json)
 
 [Extended Data](ext_articles/dc2fc238.ext.json)
-
----
-
-### Heavy rain;Landslide alert to three districts
-
-*2024-08-17 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191269) · `ta`
-
-Heavy rain triggers landslide warnings for Kalutara, Matara, and Galle districts. The public is urged to watch for signs like land and wall cracks, tree discoloration, and mudflows, contacting the District Disaster Management Center at 117 for any concerns. Senior Weather Officer Dr. Mohamed Saliheen predicts ongoing rainfall in the southwest due to atmospheric conditions.
-
-🟩
-
-Due to heavy rains in the country, the National Building Research Institute has issued a warning to Kalutara, Matara and Galle districts.
-
-The public is advised to be cautious if there are signs such as cracks in the land and walls, the dyeing of trees, fences and wires, sudden fountains, and muddy water exit.
-
-They have been asked to inform the District Disaster Management Center through the number 117 of the Disaster Management Center.
-
-Senior Weather Officer Dr. Mohamed Saliheen said the rainy weather in the southwestern region of the country would continue today due to the interruption of the atmosphere above Sri Lanka.
-
-◼️
-
-[Data](articles/3590ebf2.json)
-
-[Extended Data](ext_articles/3590ebf2.ext.json)
-
----
-
-### Passport in Sri Lanka is limited
-
-*2024-08-17 08:48:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கடவுச்சீட்டு-பெறுவது-மட்டுப்படுத்தப்பட்டது/175-342316) · `ta`
-
-Sri Lanka has limited passport issuance to 250 per day due to exhausted printing books and delays in e-Passport supplies. Only those without prior bookings can get passports. The Immigration Department advises against non-urgent passport applications until October.
-
-🟩
-
-The number of passports issued daily has been limited to 250, as the passport printing books are exhausted, the Immigration Department sources said.
-
-In addition, only 30 people who have not booked the date and time have been taken to issue a passport.
-
-Since it decided to create the e-Passport system for air permit, the books needed for this year were not purchased.
-
-However, as the e-Passport books in July have been delayed until October, the size of passport books belonging to the Immigration Department began to decline.. Due to this, steps have been taken to limit the issue of passports as much as possible.
-
-Although about 1,300 passports are printed daily, it has now declined from 250 to 300.
-
-Immigration and Emigration Controller General Harsha Ilukpitiya recently stated that if there is no urgent need, no passport applications until October.
-
-...
-
-[Data](articles/b19083f4.json)
-
-[Extended Data](ext_articles/b19083f4.ext.json)
-
----
-
-### Murder in the past
-
-*2024-08-17 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200020) · `si`
-
-Two murders occurred in Wellawatte and Chilaw; one involving a 65-year-old woman killed in Chilaw, and another near the Wellawatte police market complex involving a 46-year-old from Colombo 13. The Chilaw case led to the arrest of a 34-year-old suspect from Weerapokuna, while the Wellawatte case resulted in the arrest of a 42-year-old shop owner.
-
-🟩
-
-The Police Media Division announced that two murders have been conducted in Wellawatte and Chilaw yesterday (16).
-
-One of these murders were carried out in the Welwatta area in Chilaw yesterday.
-
-The victim was a complaint received by the Chilaw police that a 65-year-old woman had been killed.
-
-Her daughter gave a statement that the murdered woman died on the vilwatta road.
-
-Also, the husband of daughter was raising a woman at night and had a statement that the motorcycle light was recognized and the man identified.
-
-Accordingly, the police officers involved in the crime have been arrested yesterday and submitted to the Chilaw police.
-
-The suspect is a 34 year old resident of the Weerapokuna, Bingiriya, police said.
-
-Meanwhile, another murder was held near the Wellawatte police market complex last morning.
-
-The deceased is a 46 year old resident of Colombo 13.
-
-...
-
-[Data](articles/adacfe43.json)
-
-[Extended Data](ext_articles/adacfe43.ext.json)
-
----
-
-### Presidential candidate
-
-*2024-08-17 08:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-ஒருவருக்கு-பெண்-பிரச்சினை/175-342315) · `ta`
-
-One presidential candidate requested extra security due to threats from a woman, confirmed by an intelligence unit investigation. Special protection is also being considered for six other candidates contesting the election.
-
-🟩
-
-During the provision of protection to 39 presidential candidates, one of them was reportedly seeking additional security on the issue of women.
-
-A high -ranking police official said that this was confirmed in an investigation by the intelligence unit regarding the protection of candidates contesting the presidential election.
-
-When the presidential candidate sought more protection, she was found to have been threatened by the woman.
-
-Special protection has been given to Ranil Wickremesinghe, Sajith Premadasa, Anurakumara Dissanayake, Namal Rajapaksa, Dilith Jayaweera and Vijayadasa Rajapaksa who are contesting the presidential election this year.
-
-In addition, when considering whether to provide protection to candidates, only the women's problem -based candidate is seeking special protection.. Remble
-
-◼️
-
-[Data](articles/ea7e27d9.json)
-
-[Extended Data](ext_articles/ea7e27d9.ext.json)
 
 ---

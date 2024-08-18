@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 10:08:37**
+As of **2024-08-18 10:21:14**
 
 ## Newspaper Stats
 
-*Scraped **41,290** Articles*
+*Scraped **41,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,76 @@ economynextcom | 2,502
 dailyftlk | 2,676
 adalk | 3,793
 dailymirrorlk | 4,733
-adaderanalk | 4,825
+adaderanalk | 4,826
 tamilmirrorlk | 5,304
 virakesarilk | 6,539
-adaderanasinhalalk | 7,035
+adaderanasinhalalk | 7,036
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,289 (100.0%) of 41,290 articles have been extended.
+41,290 (100.0%) of 41,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யும்
+### 7.0 magnitude earthquake strikes off coast of eastern Russia
+
+*2024-08-18 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101317/70-magnitude-earthquake-strikes-off-coast-of-eastern-russia) · `en`
+
+A magnitude 7.2 earthquake struck off the east coast of Russia’s Kamchatka region at a depth of 51 km (32 miles), the European Mediterranean Seismological Centre (EMSC) said on Saturday.
+
+The U.S. National Tsunami Warning Center said there was a tsunami threat from the quake.
+
+But the Kamchatka branch of Russia’s emergency ministry reported that there was no threat of tsunami and that the recorded aftershocks from the quake ranged in their magnitude from 3.9 to 5.0.
+
+“Most of the aftershocks are imperceptible,” the regional emergency authority said on Telegram.
+
+◼️
+
+[Data](articles/873108c2.json)
+
+---
+
+### අයර්ලන්තය සමග පැවැත්වෙන දෙවන තරගය අද
+
+*2024-08-18 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200053) · `si`
+
+සංචාරක ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහ අයර්ලන්ත කාන්තා කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය අද (18) පැවැත්වීමට නියමිතව තිබේ.
+
+දෙරට අතර පැවති පළමු එක්දින තරගයේ ජය අයර්ලන්ත කාන්තා කණ්ඩායම හිමි කර ගත් අතර අද තරගය කණ්ඩායම් දෙකටම තීරණාත්මක තරගයක් වී තිබේ.
+
+◼️
+
+[Data](articles/6c33374f.json)
+
+---
+
+### The rain or thunderstorm
 
 *2024-08-18 09:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையோ-அல்லது-இடியுடன்-கூடிய-மழையோ-பெய்யும்/175-342362) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று (18) மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Today, expect thundershowers in Kandy, Nuwara Eliya, Galle, and Matara, with heavy rains possible in the West and Sabaragamuwa provinces and Galle/Matara districts. Strong winds up to 30-40 km/h may hit the northern and northwestern regions. The Department of Meteorology advises caution against heavy winds and lightning during storms.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில பகுதிகளில் 75 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும்.
+🟩
 
-மாலை அல்லது இரவு வேளையில் நாட்டின் ஏனைய பகுதிகளில் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Thundershowers or thundershowers will occur today (18) in the Kandy, Nuwara Eliya, Galle and Matara districts, the Department of Meteorology.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் இடைக்கிடையில் 30-40 கிலோ மீற்றர் வேகத்தில் ஓரளவு பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+Heavy rains are likely to experience 75 millimeters in some areas in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், மக்களை கோரியுள்ளது. R
+In the evening or night, the rest of the country can occur widely or thunderstorms.
+
+The Department of Meteorology has announced that strong winds are likely to blow at speeds of up to 30-40 km / h in the northern, northern and northwestern provinces and northern and northwestern provinces.
+
+The Department of Meteorology has called for the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/fddf5f8f.json)
+
+[Extended Data](ext_articles/fddf5f8f.ext.json)
 
 ---
 
@@ -2231,63 +2269,5 @@ The Irrigation Department alerted to the lowlands of the low-owned areas of the 
 [Data](articles/94d1a8ab.json)
 
 [Extended Data](ext_articles/94d1a8ab.ext.json)
-
----
-
-### Attack in Sudan;80 killed
-
-*2024-08-17 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/191272) · `ta`
-
-An attack by paramilitary forces in Sudan's Jalini village resulted in at least 80 deaths. This incident occurred 16 months after the war began, despite a ceasefire being negotiated in Switzerland. The conflict, ongoing since April 2023, has seen the paramilitary capture Senjah, Sennar's capital. Over 725,000 have been displaced, with approximately 2.2 million Sudanese seeking refuge abroad.
-
-🟩
-
-International media reports that at least 80 people have been killed in an attack by paramilitary forces in a village in Sudan, a village in Sudan.
-
-The attack took place on Thursday morning on the village of Jalini in Senar.
-
-16 months after the war, the ceasefire is taking place in Switzerland.
-
-In June, the paramilitary force, which has been fighting with the army since April 2023 in Sudan, captured Senjah, the state capital of Sennar.
-
-More than 725,000 people have been displaced due to attacks in Chinnar, the International Organization for Migration of the United Nations said.
-
-According to recent UN data, about 2.2 million people from Sudan have sought refuge in other countries.
-
-◼️
-
-[Data](articles/8a54d4d6.json)
-
-[Extended Data](ext_articles/8a54d4d6.ext.json)
-
----
-
-### Old Garden Fire: 25 Families
-
-*2024-08-17 09:24:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பழைய-தோட்டத்தில்-தீ-25-குடும்பங்களை-நிர்கதி/76-342318) · `ta`
-
-A fire in the Sean Old Gardens, Punduloya, destroyed 25 houses, affecting 86 people temporarily housed elsewhere or in hospital. Three pregnant women lost their homes but were kept safe. The cause is unknown; the fire was quickly contained but not before significant property loss. The Minister and Jeevan Thondaman visited the site, offering aid to the victims.
-
-🟩
-
-According to the Rural Development Officer in charge of the area, 25 houses have been burnt in a 28 -housed residential area in a fire that broke out at the Sean Lower Garden of the Sean Old Garden, known as the Sean Old Gardens of the Punduloya Police Division.Excised.
-
-At least 86 people from the 25 houses affected by the fire have been temporarily housed in the house of the temple hall and relatives.
-
-At the same time, two -year -olds have been admitted to the Kotmalai Divisional Hospital.
-
-In the incident, three pregnant mothers who have lost their homes have been kept safe in their homes.
-
-Police said they were investigating the cause and damage of the fire.
-
-At the same time, the fire was cut off shortly after the fire was cut off.
-
-It has been reported that the youths are struggling to bring the fire under control and that the Nuwara Eliya Municipal Fire Division has been invited and they have not arrived at the scene in a timely manner.
-
-...
-
-[Data](articles/255c4eba.json)
-
-[Extended Data](ext_articles/255c4eba.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 18:27:27**
+As of **2024-08-18 18:38:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,367 (100.0%) of 41,370 articles have been extended.
+41,370 (100.0%) of 41,370 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,33 @@ Andriy Demchenko, a spokesperson for the Ukrainian border service, told Ukrainia
 
 [Data](articles/7e5d3304.json)
 
+[Extended Data](ext_articles/7e5d3304.ext.json)
+
 ---
 
-### පාස්කු ප්‍රහාරයේ සත්‍ය හෙළිකරන බවට සජිත්ගෙන් පොරොන්දුවක්
+### Sajith promises to reveal the truth of the Passover attack
 
 *2024-08-18 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200075) · `si`
 
-පාස්කු ප්‍රහාරය ගැන ජනතාව අපේක්ෂා කරන සත්‍ය අනාවරණය කිරීමට තමා ඇතුළු සමගි ජන බලවේගයේ සහ සමගි ජන සන්ධානයේ සියලු‍දෙනා සූදානම් බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Opposition Leader Sajith Premadasa announced readiness within the UPFA to uncover the truth behind the Passover attack, promising transparency and unity among all involved parties. This revelation was made during a speech at the Archbishop of Colombo's residence, where he also mentioned having a plan presented to Parliament regarding the matter. He expressed hope that the Catholic community would see this as a step towards justice for the Easter attack victims.
 
-කොළඹ අගරදගුරු නිවසේදී කාදිනල් මැල්කම් රංජිත් හිමිපානන් ඇතුළු කොළඹ පදවියේ සහායක රදගුරුතුමන්ලා මුණගැසී ආශිර්වාද ලබාගත් අවස්ථාවේ විපක්ෂ නායකවරයා මේ බව කියා සිටියේය.
+🟩
 
-පාස්කු ප්‍රහාරයේ සත්‍ය අනාවරණය කිරීම සම්බන්ධයෙන් තමාට පැහැදිලි වැඩපිළිවෙළක් ඇති බවත්, එය පාර්ලිමේන්තුවේදී පවා සභාගත කර ඇති බවත් හෙතෙම මෙහිදී පැවසීය.
+Opposition Leader Sajith Premadasa said that everyone in the reconciliation and reconciliation of the UPFA is ready to reveal the truth about the Passover attack.
 
-මෙරට කතෝලික ප්‍රජාව ප්‍රමුඛ සමස්ත ජනතාවගේ අපේක්ෂාව වන්නේ පාස්කු ප්‍රහාරය සම්බන්ධයෙන් වූ පරීක්ෂණ විනිවිදභාවයෙන් සිදු වූවාද?, එහි සත්‍ය හෙළිකර ගත්තාද යන්න බවත් නිසා ඒ සම්බන්ධයෙන් විනිවිදභාවයෙන් පරීක්ෂණ සිදුකර කාදිනල් හිමි ප්‍රමුඛ කතෝලික සභාව දැනුවත් කරන බවද සජිත් ප්‍රේමදාස මහතා පැවසීය.
+The Opposition Leader was speaking at the Archbishop of Colombo at the Archbishop of Colombo at home.
 
-...
+He said he had a clear arrangement for the truth of the Passover attack and it has been tabled in Parliament.
+
+The Election of the Catholic community is the prospect of the Easter attack on the Passover attack, "Sajith Premadasa said,
+
+The Opposition Leader, including Cardinal, promised that everyone who had to look at the truth without any differences in the Passover attack.
+
+◼️
 
 [Data](articles/2f9dfe60.json)
+
+[Extended Data](ext_articles/2f9dfe60.ext.json)
 
 ---
 
@@ -1344,23 +1354,29 @@ The launch of the Fund Finance Observatory was held on Friday (16) at the Bandar
 
 ---
 
-### පහරදි සේවකයා ඝාතනය කළ ව්‍යාපාරිකයෙක් අල්ලයි
+### Businessman arrested for killing the attacker
 
 *2024-08-18 10:36:38* · [`adalk`](https://www.ada.lk/breaking_news/පහරදි-සේවකයා-ඝාතනය-කළ-ව්‍යාපාරිකයෙක්-අල්ලයි/11-411424) · `si`
 
-අතින් පයින් පහර දීමෙන් සේවකයෙකු ඝාතනය කිරීම සම්බන්ධයෙන් ව්‍යාපාරිකයෙක් අත්අඩංගුවට ගත් බව වැල්ලවත්ත පොලිසිය කියයි.
+A businessman was arrested in Wellawatte for murdering a worker, identified as 46-year-old Madavan Godda Natayayake from Colombo 13. The incident occurred in front of a shop on Galle Road, where the victim worked. Police, led by Chief Inspector Subhash Kawadawala, apprehended the suspect early in the investigation due to a dispute.
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ කොළඹ 13 ජම්පටා වීදිය අංක 151/36 හි පදිංචිව සිටි මාදවන් ගෝවර්ධන නිත්‍යා නන්ද 46 එවිටි පුද්ගලයෙකි.
+🟩
 
-වැල්ලවත්ත ගාලු පාරේ වෙළෙඳ සංකීර්ණයක  පළමු මහලේ වෙළඳසැලක් ඉදිරිපිට පුද්ගලයකු මියගොස් සිටින බවත් සිදුකළ විමර්ශනයේදී ඔහු එම වෙළඳසැලේ සේවකයෙකු බවත් අනාවරණය වී යැයි පොලිසිය කියයි.
+Wellawatte police say businessman arrested a businessman regarding the murder of a worker.
 
-සේවකයා සහ වෙළඳසැලේ හිමිකරු අතර පෙරදින රාත්‍රී මත්පැන් පානය කර ඇති අතර එහිදී ඇතිවූ ආරවුලක් මත  ඝාතනය සිදුවී ඇති බවට අනාවරණය වී යැයි පොලිසිය කියයි.අත්අඩංගුවට ගත් සැකකරු පුස්සල්ලාව කටු කිතුල පදිංචි 42 හැවිරිදි  පුද්ගලයෙකි.
+The victim has been identified in Colombo 13, Colombo 13, Madavan Godda Natayayake, a 46 man.
 
-වැල්ලවත්ත පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සුභාෂ් කහදවල මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ.
+Police say that a person was killed in front of a shop at Galle Road, Wellawatte, was revealed that he was a servant of the shop.
+
+The suspect has been detected in the morning and the murder of the worker had been killed in a dispute, police said.
+
+Investigations are conducted on the instructions of Mr. Subash Kawadawala, OIC Chief Inspector Subhash Kawadawala.
 
 ◼️
 
 [Data](articles/a479306a.json)
+
+[Extended Data](ext_articles/a479306a.ext.json)
 
 ---
 

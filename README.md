@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 03:36:20**
+As of **2024-08-19 03:55:04**
 
 ## Newspaper Stats
 
-*Scraped **41,414** Articles*
+*Scraped **41,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 3,807
 dailymirrorlk | 4,733
 adaderanalk | 4,843
 tamilmirrorlk | 5,335
-virakesarilk | 6,568
+virakesarilk | 6,569
 adaderanasinhalalk | 7,064
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,413 (100.0%) of 41,414 articles have been extended.
+41,413 (100.0%) of 41,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### களுத்துறை, இரத்தினபுரி மாவட்டங்களுக்கு  மண்சரிவு சிவப்பு எச்சரிக்கை
+
+*2024-08-19 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191396) · `ta`
+
+நாட்டைச் சூழவுள்ள  கீழ் வளிமண்டலத்தில் தளம்பல் நிலை காரணமாக நாட்டின் தென்மேற்குப் பகுதியில் தற்போது நிலவும் மழையுடனான காலநிலை 19,20ஆம் திகதிகளில் நிலவும் என எதிர்பார்க்கப்படுகிறது.
+
+ஆறு மாவட்டங்களுக்கு விடுக்கப்பட்ட மண்சரிவு அபாய எச்சரிக்கை நீடிக்கப்பட்டுள்ளதுடன், களுத்துறை மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களில் ஒருசில பகுதிகளுக்கு  மண்சரிவு சிவப்பு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+மன்னாரிலிருந்து புத்தளம், கொழும்பு மற்றும் காலி ஊடாக ஹம்பாந்தோட்டை வரையான கரையோரத்திற்கு அப்பாற்பட்ட கடற்பரப்புகளில் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.நாட்டைச் சூழவுள்ள ஏனைய கடற்பரப்புகளில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+நாட்டைச் சூழவுள்ள கடற்பரப்புகளில் காற்றானது தென்மேற்கு திசையிலிருந்து வீசக் கூடுவதுடன் காற்றின் வேகமானது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+...
+
+[Data](articles/ee2a77da.json)
+
+---
 
 ### 207 HIVs in the first quarter alone;13 people die
 
@@ -2363,27 +2381,5 @@ The co-chairman of UPFA further said that the trade union trade union trade unio
 [Data](articles/bfe76b63.json)
 
 [Extended Data](ext_articles/bfe76b63.ext.json)
-
----
-
-### 'Election Expenditure Meter': Introduction of Election Campaign Fund Watch
-
-*2024-08-18 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191342) · `ta`
-
-Six election monitoring groups launched the 'Election Cost Meter' to track campaign spending ahead of Sri Lanka's September 21st presidential election. This initiative aims to inform the public, ensure fair competition, and uphold democratic principles by providing transparent information on campaign finances. The tool, accessible via www.chandasallimeetare.lk, offers details on candidate expenses, assets, and manifestos, allowing the public to make informed voting decisions.
-
-🟩
-
-Six leading election monitoring organizations have introduced the propaganda financial observation of the 'election cost meter' to monitor the amount of funds it spends and provide information to the public this time to provide information to the public.
-
-With the ninth presidential election to be held on September 21st, the country's leading election monitoring organizations, Transparency International Sri Lanka, the People's Movement for the People's Movement (February), to monitor the total amount of funds spent before the election, the People's Movement for Freedom and Freedom Elections (Freedom and Freedom Elections)Six organizations, the Hashttech generation and the democratic restructuring and the center of the Election Studies, have united the 'Election Cost Meter' propaganda financial observation internet equipment.
-
-The launch of the Fund Finance Observatory was held on Friday (16) at the Bandaranaike Memorial International Conference Hall in Colombo.
-
-...
-
-[Data](articles/a823069a.json)
-
-[Extended Data](ext_articles/a823069a.ext.json)
 
 ---

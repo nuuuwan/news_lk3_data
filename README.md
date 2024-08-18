@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 08:36:39**
+As of **2024-08-18 08:55:39**
 
 ## Newspaper Stats
 
-*Scraped **41,280** Articles*
+*Scraped **41,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,502
 dailyftlk | 2,676
-adalk | 3,791
+adalk | 3,792
 dailymirrorlk | 4,733
 adaderanalk | 4,825
 tamilmirrorlk | 5,300
 virakesarilk | 6,539
-adaderanasinhalalk | 7,032
+adaderanasinhalalk | 7,033
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,277 (100.0%) of 41,280 articles have been extended.
+41,280 (100.0%) of 41,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### තිදරු පියා ට කළ සැත්කම වැරදුණා ද ?
+
+*2024-08-18 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200050) · `si`
+
+කොළඹ ජාතික රෝහලේදී සිදුකළ ශල්‍යකර්මයකදී මැදිරිගිරියේ පදිංචි තිදරු පියෙක් මියයාම සම්බන්ධයෙන් සැත්කම සිදුකළ වෛද්‍යවරයා වගකීම භාරගත යුතු බවට ඥාතීන් චෝදනා කරයි.
+
+මියගිය පුද්ගලයාගේ නහරයක් කැපී සිදුවූ අධිර රුධිර වහනයෙන් පුද්ගලයා මියගොස් ඇති බවට වෛද්‍යවරයෙක් සඳහන් කළත්, සැත්කම සිදුකළ වෛද්‍යවරයා සඳහන් කර තිබුණේ යම්කිසි දෙයක් ඇනී මෙලෙස නහරයකට හානි සිදුවී ඇති බවටය.
+
+2023 වසරේ නොවැම්බර් මාසයේදී මැදිරිගිරිය ප්‍රදේශයේ බස් රථයක ගැටී මැදිරිගිරියේ පදිංචි ශාංචන රාජපක්ෂ නමැති 41 හැවිරිදි තිදරු පියා අනතුරකට ලක්වී තිබුණි.
+
+වම් අතෙහි වූ කිසියම් තැලීමක් හේතුවෙන් ඔහුගේ වම් අත ඉස්සීමේ අපහසුතාවයක් දිගින් දිගටම පැවතීම එදිනෙදා රාජකාරී කිරීමේදී ශාංචනට බාධාවක් වී විය.
+
+ඊට ප්‍රතිකාර කිරීම සඳහා මහනුවර පෞද්ගලික රෝහලකින් වෛද්‍යවරයකු හමුවූ ඔහුට පවසා තිබුණේ, ස්නායු බිඳීමක් සිදුව ඇති බැවින් ශල්‍යකර්මයක් සිදුකළ යුතු බවය.
+
+පෞද්ගලික රෝහලකදී ශල්‍යකර්මය සිදුකරනවා නම් රුපියල් ලක්ෂ 15ක පමණ මුදලක් වැය වන බවත්, රජයේ රෝහලක සිදුකරනවා නම් දිගු කලක් පොරොත්තු ලේඛනයේ සිටීමට සිදුවන බවත් එහිදී වෛද්‍යවරයා සඳහන් කර තිබුණි.
+
+...
+
+[Data](articles/3ed9abe8.json)
+
+---
+
+### ඔස්ට්‍රේලියා ෆෙඩරල් අධිකරණය දුන් නියෝගය ගැන විදෙස් අමාත්‍යාංශය කරුණු කියයි
+
+*2024-08-18 08:01:16* · [`adalk`](https://www.ada.lk/breaking_news/ඔස්ට්‍රේලියා-ෆෙඩරල්-අධිකරණය-දුන්-නියෝගය-ගැන-විදෙස්-අමාත්‍යාංශය-කරුණු-කියයි/11-411418) · `si`
+
+කැන්බරා නුවර හිටපු ශ්‍රී ලංකා නියෝජ්‍ය මහකොමසාරිස්වරියට එරෙහිව පවරන ලද නඩුවක් සම්බන්ධයෙන් ඕස්ට්‍රේලියානු ෆෙඩරල් අධිකරණය විසින් ලබා දුන් තීන්දුව පිළිබඳව පළ වී ඇති පුවත් වාර්තා කෙරෙහි විදේශ කටයුතු අමාත්‍යාංශයේ අවධානය යොමුවී තිබේ.
+
+ඔවුන්ගේ නිල නියෝජන රාජකාරිවලට සහය වීම පිණිස ගෘහ සහායක සහායිකාවන් රැගෙන යෑම සඳහා රාජ්‍ය තාන්ත්‍රික නිලධාරීන්ට විදේශ කටයුතු අමාත්‍යාංශය මඟින් පහසුකම් සැලසීම සාමාන්‍ය සිරිත බව විදේශ කටයුතු අමාත්‍යාංශය ප්‍රකාශ කරයි. මෙම සිද්ධියට අදාළ ගෘහ සහායිකාව තුන් වසරක පූර්ණ සේවා කාලයක් නිමා කොට තිබූ අතර, ස්වකීය සේවායෝජිකාව ඕස්ට්‍රේලියාවෙන් පිටත්ව ඒමට අදහස් කොට තිබූ දිනට පෙර දින සේවායෝජිකාවගේ නිල නිවෙසින් රහසින් පළා ගියාය.
+
+ගෘහ සහායිකාවගේ වැටුප වශයෙන් අමාත්‍යාංශය විසින් අනුමත කරනු ලැබූ දීමනාව ඇයට ගෙවා තිබේ. අන්‍යොන්‍ය වශයෙන් ගිවිස ගත් පරිදි සේවායෝජිකාව විසින් ගෘහ සහායිකාවට එම වැටුප ගෙවන ලද බවට අමාත්‍යාංශය සෑහීමට පත් වෙයි.
+
+◼️
+
+[Data](articles/885b3b1e.json)
+
+---
 
 ### US Acting Assistant Secretary of State to visit Sri Lanka
 
@@ -2255,63 +2293,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/d8a335bd.json)
 
 [Extended Data](ext_articles/d8a335bd.ext.json)
-
----
-
-### Sri Lanka is defeated
-
-*2024-08-17 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200019) · `si`
-
-In a cricket match, England Lions outperformed Sri Lanka, scoring 324 runs in their first innings compared to Sri Lanka's 139 runs. Despite starting their second innings at 185, Sri Lanka managed to score 306 runs but lost all wickets. Key contributors for Sri Lanka included Nishan Madushka (77), Dhananjaya De Silva (66), and Angelo Mathews (51). However, their efforts weren't enough as England Lions secured victory.
-
-🟩
-
-England Lion Groupsides to take the lead in the training competition between Sri Lanka and England Lions team.
-
-The Lions played for the loss of 47 runs for the loss of 2 wickets.
-
-Accordingly, they should only score about 75 runs for the defeat of the Sri Lankan team, and they are left today.
-
-Sri Lanka scored 139 runs for the loss of the match, and the Lions scored 324 runs for the first innings.
-
-Sri Lanka had to begin the second innings with 185 runs.
-
-However, Sri Lankan batsmen were able to overcome a significant amount of innings, and they scored 306 runs for the loss of all in the second innings.
-
-Nishan Madushka (77), Leader Dhananjaya De Silva (66) and Angelo Mathews (51) were partnered in their innings.
-
-However, due to the failure of the first innings, they were able to give the Lion's 122 runs.
-
-◼️
-
-[Data](articles/009c1d53.json)
-
-[Extended Data](ext_articles/009c1d53.ext.json)
-
----
-
-### Wild elephants in Batticaloa district;People's vulnerabilities are affected by the destruction of coconut trees
-
-*2024-08-17 07:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/191257) · `ta`
-
-Wild elephants in Batticaloa since 2007 have devastated homes, crops, and coconut trees, impacting locals' livelihoods. In recent attacks, farms and coconut plantations were ruined, affecting rural coconut production and community income. Despite efforts to address the issue, solutions remain elusive.
-
-🟩
-
-Due to the attack of wild elephants, the Batticaloa district has been destroying the homes of the people, their crop lands and more coconut trees from 2007 to the present day.. Former Eastern Provincial Council Member. Durairatnam expressed concern.
-
-In the early hours of Friday morning (16), wild elephants infiltrated the residence of the people of Bansen and Pullumalai have damaged the farmers' huts and many coconut trees.
-
-After visiting the disaster, he pointed out the matter.
-
-In the last seven months, wild elephants have destroyed about 950 to 1200 coconut trees in the Divisional Secretariat Divisions such as Vavunathivu, Padippalai, Wellaveli, Gran, Eravur Pattipalai (Chengaladi) Vaharai.
-
-These beneficial coconut trees are now enjoying the impact of the destruction of the wage industry and the life of the people.. This will affect local rural coconut production and people's livelihood in the future.
-
-...
-
-[Data](articles/32f80eb7.json)
-
-[Extended Data](ext_articles/32f80eb7.ext.json)
 
 ---

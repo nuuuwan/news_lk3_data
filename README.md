@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 13:36:37**
+As of **2024-08-18 13:55:51**
 
 ## Newspaper Stats
 
-*Scraped **41,337** Articles*
+*Scraped **41,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ dailymirrorlk | 4,733
 adaderanalk | 4,833
 tamilmirrorlk | 5,318
 virakesarilk | 6,550
-adaderanasinhalalk | 7,045
+adaderanasinhalalk | 7,046
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,333 (100.0%) of 41,337 articles have been extended.
+41,337 (100.0%) of 41,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### වැඩිම වර්ෂාපතනය කෑගල්ල ට
+### ගෝලීය දකුණේ හඬ සමුළුවට ජනපති එක්වෙයි
+
+*2024-08-18 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200064) · `si`
+
+බෙංගාල බොක්ක සහ ඒ අවට කලාපය මේ වන විට වර්ධනයේ මධ්‍යස්ථානයක් බවට පත්වෙමින් තිබෙන බැවින් බිම්ස්ටෙක් (BIMSTEC) සංවිධානයේ වැදගත්කම දිනෙන් දින ඉහළයමින් පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව පැවසුවේ ඊයේ (17) පැවති 'ගෝලීය දකුණේ හඬ' සමුළුවේ රාජ්‍ය නායක සැසිය සඳහා අනුරාධපුර ජනාධිපති මන්දිරයේ සිට මාර්ගගත ක්‍රමවේදය ඔස්සේ සම්බන්ධ වෙමිනි.
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ ප්‍රධානත්වයෙන් "තිරසර අනාගතයක් සඳහා සවිබල ගැන්වූ ගෝලීය දකුණක්" යන තේමාව යටතේ තුන්වැනිවරට පැවැත් වූ මෙම සමුළුව සඳහා රටවල් රැසක රාජ්‍ය නායකයින් සහභාගී වී තිබේ.
+
+තවදුරටත් බටහිරට ගෝලීය නායකත්වයේ ආධිපත්‍යය දැරීමට නොහැකි තැනකට ළඟා වී ඇති බැවින් එවැනි තත්ත්වයක් තුළ ගෝලීය දකුණ ශක්තිමත් කිරීමට ඉන්දියාව දරණ උත්සාහය ප්‍රශංසනීය බව ජනාධිපතිවරයා මෙහිදී පෙන්වා දී තිබේ.
+
+...
+
+[Data](articles/fa0c0cdf.json)
+
+---
+
+### The highest rainfall at Kegalle
 
 *2024-08-18 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200063) · `si`
 
-දිවයින අවට පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාවය හේතුවෙන් ප්‍රදේශ රැසකට තවමත් වැසි ඇදහැලෙමින් පවතී.
+Kegalle experienced the highest rainfall of 148.5mm due to atmospheric turmoil, causing flooding in areas like Smadeniya and increasing the water level of the Kalu River to a small flood stage.
 
-ගතවූ පැය 24ක කාලය තුළ වැඩිම වර්ෂාපතනය කෑගල්ල ප්‍රදේශයෙන් වාර්තාවූ අතර එම අගය මිලිමීටර් 148.5කි.
+🟩
 
-මේ අතර කළු ගඟේ අතුගංඟාවක් වන කුඩා ගඟ මිල්ලකන්ද ප්‍රදේශයෙන් තවදුරටත් ගංවතුර තත්ත්වයක පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Due to the prevailing turmoil in the low-atmosphere around the island, there will be raining in many areas.
 
-කළු ගඟේ තවත් අතු ගඟක් වන මගුරු ගඟේ ජල මට්ටම ද මගුර ප්‍රදේශයෙන් සුළු ගංවතුර තත්ත්වයක් දක්වා ඉහළ ගොස් ඇති බව වාර්තා වෙයි.
+The highest rainfall was reported from the Kegalle district while the value was 148.5 millimeters.
+
+Meanwhile, the Department of Irrigation has announced that the Smadeniya, a branishing of the Kalu River, is further flooded from the Milkanda area.
+
+The water level of the Kalu River Kalu River has increased to a small flood from the road.
 
 ◼️
 
 [Data](articles/f54f300c.json)
+
+[Extended Data](ext_articles/f54f300c.ext.json)
 
 ---
 
@@ -68,47 +92,63 @@ Gunawardena is the first person from Mangala Samaraweera’s family to enter int
 
 [Data](articles/56b2e659.json)
 
+[Extended Data](ext_articles/56b2e659.ext.json)
+
 ---
 
-### ඉන්දීය වෛද්‍යවරු මිලියනයක් වර්ජනයක
+### One million Indian doctors on strike
 
 *2024-08-18 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200062) · `si`
 
-ඉන්දීය වෛද්‍යවරියක් රාජකාරිය අතරතුර රෝහල තුළදීම දූෂණය කර ඝාතනය කිරීමේ සිද්ධියක් මුල්කරගෙන ඉන්දීය වෛද්‍යවරු ජාතික වැඩ වර්ජනයක් ක්‍රියාත්මක කර තිබේ.
+In response to the murder of a doctor in Kolkata, one million Indian doctors went on strike, disrupting healthcare services nationwide. The victim, a 31-year-old, was found dead, allegedly due to abuse, sparking outrage and protests across the country. Thirteen individuals, including women, were arrested in connection with the case. This incident highlights the ongoing issues of violence against medical professionals and women in India.
 
-දූෂණය කිරීමෙන් අනතුරුව ඝාතනයට ලක්වූ ඉන්දීය පුහුණු වෛද්‍යවරියකගේ නිරුවත් මෘතදේහය කොල්කටා හි රෝහලක සම්මන්ත්‍රණ ශාලාවක වැටී තිබියදී හමුවූයේ පසුගිය 9 වැනිදාය.
+🟩
 
-ඇයගේ සිරුර පුරා අපහරණයට ලක්වූ බව දැක්වෙන තුවාල කැලැල්ද දක්නට ලැබුණේ එය සමූහ දූෂණයක්ද යන සැකය මතුකරමිනි.
+Indian doctors have implemented a national strike on a incident of contamination and killing a Indian doctor during his duties.
 
-31 හැවිරිදි වෛද්‍යවරියක් එලෙස රාජකාරියේ නිරතව සිටියදී දූෂණයට ලක්ව ඝාතනය වීමේ සිද්ධිය ඉන්දියාව කලඹවනු ලැබුවේ පසුගිය සතිය ආරම්භයේ සිට, වෛද්‍යවරුන් ඇතුළු සමස්ත සෞඛ්‍ය ක්ෂේත්‍රයම විරෝධතා ආරම්භ කිරීමත් සමගිනි.
+The naked body of a murdered doctor was found at a colkata's seminar in Kolkata, a murdered.
 
-ඝාතනයට ලක්වූ වෛද්‍යවරිය පැය 36ක දීර්ඝ වැඩ මුරයක නිරතව සිට ඇති අතර, මෙවැනි සීමාව ඉක්මවූ වැඩ මුර සහ රෝහල් තුළ කාන්තාවන්ට ඇති අනාරක්ෂිතභාවය සම්බන්ධව එම විරෝධතාවල මාතෘකාව වී තිබුණි.
+The wounded fascals indicated that was abused throughout her body, and raised the suspicion that it was a group corruption.
 
-එය තවත් තීව්‍ර කරමින් ඉන්දීය වෛද්‍යවරුන් මිලියනයක් පමණ දෛනික රාජකාරිවලින් ඉවත්ව ජාතික වැඩ වර්ජනයක ද නිරතවුණි.
+When a 31-year-old doctor was duties, India was murdered by the beginning of the last week, from the beginning of the week and the entire health industry in protest.
 
-ඒ හේතුවෙන් එරට රෝහල් සහ සායනවල හදිසි රෝගීන් සඳහා පමණක් ප්‍රතිකාර ලබාදෙන බව වාර්තා වෙයි.
+The murdered doctor had been in a long-standing workplace and exceeded work guards and hospitals in hospitals.
+
+It turned out more of the daily duties and left the daily duties and left the daily duties.
+
+As a result, the country is being treated for emergency patients in hospitals and clinics.
+
+Thirteen persons, including women, have been arrested, including a group of women.
 
 ...
 
 [Data](articles/554390dc.json)
 
+[Extended Data](ext_articles/554390dc.ext.json)
+
 ---
 
-### தந்தை செல்வா நினைவுத்தூபியில் அஞ்சலி செலுத்தி பிரச்சார பணியை ஆரம்பிக்கிறார் தமிழ் பொது வேட்பாளர் அரியநேத்திரன்
+### Tamil general candidate Ariyanethran begins propaganda work by paying tribute to father Selva
 
 *2024-08-18 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191356) · `ta`
 
-தமிழ் பொது வேட்பாளர் அரியநேத்திரன் இன்று ஞாயிற்றுக்கிழமை (18) காலை 9 மணியளவில் தந்தை செல்வா நினைவுத்தூபியில் அன்னாரின் உருவச் சிலைக்கு மலர் மாலை அணிவித்து அஞ்சலி செலுத்தினார்.
+Ariyanethran, a Tamil general candidate, started his campaign by honoring his father's statue, attended by P.Ingaranesan and others. He'll address the public at 3 pm in Mullaitivu, followed by meetings across eight northern and eastern districts.
 
-இதில் தமிழ் தேசிய பசுமை இயக்கத்தின் தலைவர் பொ.ஐங்கரநேசன், சிவில் சமூக பிரதிநிதிகள் கலந்துகொண்டனர்.
+🟩
 
-முல்லைத்தீவு வற்றாப்பளை செந்தமிழ் விளையாட்டு மைதானத்தில் இன்று ஞாயிற்றுக்கிழமை பிற்பகல் 3 மணிக்கு தமிழ் பொது வேட்பாளர் அறிமுக பொதுக்கூட்டம் இடம்பெறவுள்ளது.
+Tamil general candidate Ariyanethran paid tribute to the statue of Annar on Sunday (18) at 9 am.
 
-அதனைத் தொடர்ந்து, வடக்கு, கிழக்கில் உள்ள எட்டு மாவட்டங்களிலும் உள்ள ஒவ்வொரு பிரதேச செயலர் பிரிவுகளிலும் இரண்டு கூட்டங்களும் மாவட்டங்களுக்கு ஒரு பெரும் பொதுக்கூட்டமும் பொதுவேட்பாளர் கலந்துகொள்ளும் கூட்டமாக இடம்பெற திட்டமிடப்பட்டுள்ளது.
+The President of the Tamil National Green Movement, P.Ingaranesan and civil society representatives were present.
+
+The Tamil general candidate will be held at the Mullaitivu Vadapalai Senthami Playground at 3 pm on Sunday afternoon.
+
+Subsequently, it is scheduled to be held in each of the eight districts of the North and East, and a large public meeting for the districts and a general candidate.
 
 ◼️
 
 [Data](articles/f50b611c.json)
+
+[Extended Data](ext_articles/f50b611c.ext.json)
 
 ---
 
@@ -2269,31 +2309,5 @@ Meanwhile, Matara district parliamentarian Karunadasa Kodhithu today (17) has jo
 [Data](articles/c63b71df.json)
 
 [Extended Data](ext_articles/c63b71df.ext.json)
-
----
-
-### EMPOCS spreads across Pakistan
-
-*2024-08-17 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200040) · `si`
-
-Pakistan faces rising concerns over mankix infections, leading to enhanced security measures nationwide, including at borders, healthcare facilities, and airports. Authorities advise adopting preventive practices amidst fears of increased cases.
-
-🟩
-
-Foreign media reports that Pakistan is afraid of an increase in the mankix infections of the pakix, or mankix.
-
-The authorities have informed the authorities to adopt pre-security practices throughout Pakistan due to the fear.
-
-It is reported that all access places including borders, health care and airports, including Pakistan, have been instructed to intensify precautions.
-
-It is also reported that suspected persons are the symptoms of the country.
-
-The measures have been taken to adopt this move with a mankipox patient.
-
-◼️
-
-[Data](articles/18eb6018.json)
-
-[Extended Data](ext_articles/18eb6018.ext.json)
 
 ---

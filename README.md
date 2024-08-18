@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 11:21:27**
+As of **2024-08-18 11:36:42**
 
 ## Newspaper Stats
 
-*Scraped **41,301** Articles*
+*Scraped **41,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ dailyftlk | 2,676
 adalk | 3,794
 dailymirrorlk | 4,733
 adaderanalk | 4,828
-tamilmirrorlk | 5,309
+tamilmirrorlk | 5,314
 virakesarilk | 6,539
-adaderanasinhalalk | 7,037
+adaderanasinhalalk | 7,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,300 (100.0%) of 41,301 articles have been extended.
+41,301 (100.0%) of 41,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### දකුණු අප්‍රිකාවට ජය
+
+*2024-08-18 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200056) · `si`
+
+බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමග පැවති දෙවන ටෙස්ට් ක්‍රිකට් තරගයෙන් ලකුණු 40ක ජයක් හිමිකර ගැනීමට සංචාරක දකුණු අප්‍රිකානු කණ්ඩායම සමත්ව තිබේ.
+
+මෙම තරගයේ පළමු ඉනිම වෙනුවෙන් දකුණු අප්‍රිකානු කණ්ඩායම සියලු දෙනා දැවී ලකුණු 160ක් රැස්කළ අතර බටහිර ඉන්දීය කොදෙව් කණ්ඩායම පළමු ඉනිම සඳහා සියලු දෙනා දැවී රැස් කළ ලකුණු සංඛ්‍යාව 144කි.
+
+දෙවන ඉනිම සදහා දකුණු අප්‍රිකානු කණ්ඩායම ලකුණු 246ක් ලබා ගැනීමත් සමග තරගය ජයග්‍රහණය කිරීම සදහා බටහිර ඉන්දීය කොදෙව් කණ්ඩායමට ලකුණු 263ක ඉලක්කයක් හිමි විය.
+
+කෙසේ වෙතත් කොදෙව් ක්‍රීඩකයින්ට දෙවන ඉනිමේ දී සියලු දෙනා දැවී රැස්කර ගැනීමට හැකිවුයේ ලකුණු 222ක් පමණි.
+
+ඒ අනුව තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලිය එකට බිංදුවක් ලෙස ජය හිමිකර ගැනීමට දකුණු අප්‍රිකානු කණ්ඩායම සමත් විය.
+
+◼️
+
+[Data](articles/b9420b70.json)
+
+---
 
 ### Sri Lanka aiming for over 1 million tourist arrivals in last five months of 2024
 
@@ -47,6 +67,8 @@ Meanwhile, the Managing Director of the SLTPB Nalin Perera highlighted that digi
 ◼️
 
 [Data](articles/c5d61207.json)
+
+[Extended Data](ext_articles/c5d61207.ext.json)
 
 ---
 
@@ -118,6 +140,22 @@ He will meet government officials and shareholders in Sri Lanka from August 19 t
 
 ---
 
+### து​ரோகிகளுக்கு பாடம் புகட்டுவோம்
+
+*2024-08-18 10:16:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/து-ரோகிகளுக்கு-பாடம்-புகட்டுவோம்/175-342365) · `ta`
+
+கண்டி மாவட்ட தமிழ் முற்போக்கு கூட்டணியின் வாக்குகளை எதிர்வரும் தேர்தலில் ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவிற்கு பெருவாரியாக பெற்றுக்கொடுப்போம் என்று தொழிலாளர் தேசிய சங்கத்தின் தலைவரும்,  தமிழ் முற்போக்கு கூட்டணியின் பிரதி தலைவரும்இ நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான பழனி திகாம்பரம் தெரிவித்தார்.
+
+நாவலப்பிட்டி தேர்தல் தொகுதியை சேர்ந்த தமிழ் முற்போக்கு கூட்டணியின் பிரதான அமைப்பாளர்களை கினிகத்தேனையில் சனிக்கிழமை (17) சந்தித்து கலந்துரையாடிய போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+அவர் மேலும் தெரிவிக்கையில்: தமிழ் முற்போக்கு கூட்டணிக்கு யார் துரோகம் செய்தாலும் அதனை மக்கள் ஒருபோதும் ஏற்றுக்கொள்ள மாட்டார்கள். வருகின்ற தேர்தல்களில் துரோகம் செய்தவர்களுக்கு மக்கள் தகுந்த பாடத்தை காட்டுவார்கள். அத்தோடு, கண்டி மாவட்டத்தில் இருக்கின்ற எமது தமிழ் முற்போக்கு கூட்டணியின் வாக்காளர்கள் எந்தவகையிலும் தமது மனதிடத்தை இழக்காமல் தொடர்ந்தும் அரசியல் தொழிற்சங்க செயற்பாடுகளில் ஈடுபட வேண்டும்.
+
+...
+
+[Data](articles/ca63d52d.json)
+
+---
+
 ### Let us teach for those who have been rag
 
 *2024-08-18 10:16:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/து-ரோகம்-இழைத்தவர்களுக்கு-பாடம்-புகட்டுவோம்/175-342365) · `ta`
@@ -186,6 +224,22 @@ But the Kamchatka branch of Russia’s emergency ministry reported that there wa
 
 ---
 
+### ”மங்கள குடும்பம் எனக்கு ஆதரவு”
+
+*2024-08-18 10:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மங்கள-குடும்பம்-எனக்கு-ஆதரவு/175-342363) · `ta`
+
+மறைந்த அமைச்சர் மங்கள சமரவீரவின் குடும்ப உறுப்பினர்கள் அனைவரும் தனக்கு மீண்டும் ஆதரவளிக்க தீர்மானித்துள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+“மறைந்த சமரவீரவின் குடும்பத்தவரான சஞ்சலா சமரவீர குணவர்தன ஏற்கனவே மாத்தறை மாவட்டத்தின் சமகி வனிதா பலவேகய மாவட்டத் தலைவராக நியமிக்கப்பட்டுள்ளார்” என அக்குரஸ்ஸவில் நேற்று (17) நடைபெற்ற தனது பேரணியில் பிரேமதாச அறிவித்தார்.
+
+தென்னிலங்கையில் கறுவாத் தொழிலை அபிவிருத்தி செய்வதாகவும் குறித்த பேரணியின் போது அவர் உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/1c9c03a5.json)
+
+---
+
 ### "Mangala's family support me"
 
 *2024-08-18 10:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மங்களவின்-குடும்பத்தவர்-எனக்கு-ஆதரவு/175-342363) · `ta`
@@ -225,6 +279,26 @@ The Irish Women's Group won the first ODI between the two countries and today th
 [Data](articles/6c33374f.json)
 
 [Extended Data](ext_articles/6c33374f.ext.json)
+
+---
+
+### இடியுடன் கூடிய மழை பெய்யும்
+
+*2024-08-18 09:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-342362) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று (18) மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில பகுதிகளில் 75 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும்.
+
+மாலை அல்லது இரவு வேளையில் நாட்டின் ஏனைய பகுதிகளில் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் இடைக்கிடையில் 30-40 கிலோ மீற்றர் வேகத்தில் ஓரளவு பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், மக்களை கோரியுள்ளது. R
+
+◼️
+
+[Data](articles/b9f28a94.json)
 
 ---
 
@@ -660,6 +734,22 @@ As the driver of the sky has been arrested, the traffic police are conducting fu
 
 ---
 
+### வன்முறையாளர் மூவர் கைது
+
+*2024-08-18 02:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறையாளர்-மூவர்-கைது/175-342356) · `ta`
+
+யாழ்ப்பாணம், வடமராட்சி, வல்வெட்டித்துறையில் பொலிஸ் நிலையத்துக்கு அருகில் உள்ள வீடொன்றுக்குள் நுழைந்து வன்முறையில் ஈடுபட்ட சம்பவம் தொடர்பாக மூன்று பேர் கைது செய்யப்பட்டனர்.
+
+சந்தேகநபர்களிடமிருந்து ஜந்து வாள்கள் கைப்பற்றப்பட்டுள்ளதுடன் வன்முறைக்குப் பயன்படுத்தப்பட்ட இரண்டு மோட்டார் சைக்கிள்களையும் மீட்கப் பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+சம்பவம் தொடர்பாக 19 மற்றும் 23 வயதான கோண்டாவில் பகுதியைச் சேர்ந்த 2 பேரும், அச்சுவேலியைச் சேர்ந்த ஒருவரும் கைது செய்யப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/359130a5.json)
+
+---
+
 ### Three arrested in connection with violence
 
 *2024-08-18 02:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறையுடன்-தொடர்புடைய-மூவர்-கைது/175-342356) · `ta`
@@ -759,6 +849,20 @@ The website has been developed by six election monitoring organizations, includi
 [Data](articles/39fa9e67.json)
 
 [Extended Data](ext_articles/39fa9e67.ext.json)
+
+---
+
+### பிரசார செலவுகளை கண்காணிக்க இணையம்
+
+*2024-08-18 01:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசார-செலவுகளை-கண்காணிக்க-இணையம்/175-342354) · `ta`
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களின் பிரசார செலவுகளைக் கண்காணிக்கும் வகையில் இணையத்தளம் ஒன்று உருவாக்கப்பட்டுள்ளது.
+
+இந்த இணையத்தளம் ட்ரான்ஸ்பரன்சி இன்டர்நேஷனல் ஸ்ரீலங்கா நிறுவனம், மற்றும் பெப்ரல் அமைப்பு உள்ளிட்ட ஆறு தேர்தல் கண்காணிப்பு அமைப்புகளினால் உருவாக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/cb4510a9.json)
 
 ---
 
@@ -2109,155 +2213,5 @@ This is the second rally organized by the Presidential Leadership Leader Sajith 
 [Data](articles/14be3b75.json)
 
 [Extended Data](ext_articles/14be3b75.ext.json)
-
----
-
-### First test flight of India’s human space mission rocket likely in December
-
-*2024-08-17 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101302/first-test-flight-of-indias-human-space-mission-rocket-likely-in-december) · `en`
-
-The first test flight of India’s human rated rocket for its human space mission ‘Gaganyaan’ is expected to take place in December 2024, said a top official of the Indian Space Research Organisation (ISRO).
-
-Speaking to the media after the successful orbiting of India’s earth observation satellite-08 (EOS-08) Dr S Somanath, Chairman, ISRO said: “The Gaganyaan rocket’s three stages have come to Satish Dhawan Space Centre. The integration of the crew module is happening at VSSC (Vikram Sarabhai Space Centre, Thiruvananthapuram).”
-
-According to Dr Somanath, all the systems for the Gaganyaan rocket code named G1 will reach Satish Dhawan Space Centre in November this year and the target for the rocket flight is December.
-
-On Friday morning ISRO’s new rocket - Small Satellite Launch Vehicle (SSLV) successfully put into orbit two satellites EOS-08 and SR-0 belonging to a space start-up Space Rickshaw in copy book style.
-
-...
-
-[Data](articles/89b3ac72.json)
-
-[Extended Data](ext_articles/89b3ac72.ext.json)
-
----
-
-### Ranil's wedding rally in Anuradhapura today
-
-*2024-08-17 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200025) · `si`
-
-Ranil Wickremesinghe kicked off his wedding rally in Anuradhapura today, with plans for 100 island-wide events. The President visited the Jaya Sri Maha Bodhi, blessing it alongside Hemaratana Thero. Ministers and SLFP supporters attended, marking the start of a significant political event.
-
-🟩
-
-The first rally will be held today (17) at the Anuradhapura Saladadu Stadium today (17).
-
-The President has planned to hold a hundred rallies island wide.
-
-It is also reported that many ministers and other parties who support the Sri Lanka Freedom Party, the Sri Lanka Freedom Party, the Sri Lanka Freedom Party, the Sri Lanka Freedom Party (SLFP).
-
-Meanwhile, President Ranil Wickremesinghe has come to Anuradhapura and has bowed the Jaya Sri Maha Bodhi and blessed the Historical Jaya Sri Maha Bodhi.
-
-The Atamasthana Leader of the Atamaththarai Atamathana Hemaratana Thero has been blessed and blessed the President.
-
-◼️
-
-[Data](articles/999bac2e.json)
-
-[Extended Data](ext_articles/999bac2e.ext.json)
-
----
-
-### Voter cannot sell money - Saman Sri Ratnayake
-
-*2024-08-17 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200024) · `si`
-
-Saman Sri Ratnayake, Elections Commissioner, emphasizes the importance of fair elections, stating that voters should not be influenced by money. He mentions the commission's efforts despite challenges and highlights the issue of voters becoming "customers," implying undue influence from financial transactions. The statement comes amid 519 complaints related to the presidential election, indicating ongoing concerns about electoral integrity.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that the ruler selected should not be sold to money.
-
-Elections Commissioner General Saman Sri Ratnayake said that the commission had not been held in Colombo yesterday (16).
-
-He further pointed out that voters should not be allowed to be customers.
-
-"The things that we have started to start.. Despite all that was not in this document, but what we had received in this document, the Commission rise to carry out this task. "
-
-"Can't do an election without money. Also, before elections, voters cannot become customers. "
-
-"If the money becomes a voters, it is a problem. So there are some limitations. "
-
-Meanwhile, 519 complaints have been received in connection with the presidential election.
-
-◼️
-
-[Data](articles/db14e7ef.json)
-
-[Extended Data](ext_articles/db14e7ef.ext.json)
-
----
-
-### Landslide alert to several districts
-
-*2024-08-17 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191289) · `ta`
-
-Heavy rains trigger landslide alerts in parts of Galle, Kalutara, Matara, and Ratnapura districts. Amber warnings issued for specific areas including Elpitiya, Neluwa, Yakkalamulla, Nagoda, Ingiriya, Horana, Pulathsingha, Matugama, Bidabethra, Kuruvitha, Ratnapura, Elapadha, Ehliyagoda, Valallavita, Palindanuwara, Tehiyovitta, Teraniyagala, Varakapola, Yattiyantottai, Athuraliya. Warnings effective from 5:00 AM Sunday, 18th.
-
-🟩
-
-The National Building and Research Institute said that landslides have been issued to many parts of four districts due to heavy rains.
-
-Accordingly, 2nd level (Amber) warning has been issued to many parts of Galle, Kalutara, Matara and Ratnapura districts.
-
-Galle - Elpitiya, Neluwa, Yakkalamulla and Nagoda Divisional Secretaries (DSD) and surrounding areas
-
-Kalutara - Ingiriya, Horana, Pulathsingha and Matugama Divisional Secretariat Divisions and the surrounding areas
-
-Matara - Bidabethra Divisional Secretariat Divisions and the surrounding areas
-
-Ratnapura- Kuruvitha, Ratnapura, Elapadha, Ehliyagoda and Mixed Divisional Secretariat Divisions and surrounding areas
-
-Kalutara - Valallavita and Palindanuwara Divisional Secretariat Divisions and surrounding areas
-
-Kegalle- Tehiyovitta, Teraniyagala, Varakapola, Yattiyantottai, Kegalle Divisional Secretariat Divisions and surrounding areas
-
-Matara - Athuraliya Divisional Secretariat Divisions and surrounding areas
-
-...
-
-[Data](articles/1a4453b7.json)
-
-[Extended Data](ext_articles/1a4453b7.ext.json)
-
----
-
-### Sri Lanka strongly object to construction of ‘Tamil Genocide Monument’ in Canada
-
-*2024-08-17 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101301/sri-lanka-strongly-object-to-construction-of-tamil-genocide-monument-in-canada) · `en`
-
-Sri Lanka’s Minister of Foreign Affairs Ali Sabry summoned the Canadian High Commissioner on Friday (16) to reiterate Sri Lanka’s strong objections conveyed on several occasions previously to the laying of foundation stone for the construction of a so–called “Tamil Genocide Monument” at the Chinguacousy Park in Brampton, Canada on 14 August 2024, the Ministry of Foreign Affairs said.
-
-Issuing a statement, the ministry stated that Foreign Minister Sabry emphasized that the Government of Sri Lanka categorically rejects this outrageously false narrative, which is being perpetuated for vote bank politics within Canada.
-
-Minister Sabry noted that ill-advised action by the City Council of Brampton is offensive to all peace-loving people in Canada and Sri Lanka. The so-called allegation of a genocide in Sri Lanka is a fabrication based on malicious disinformation and is not substantiated by any responsible authority, nationally or internationally, the statement highlighted.
-
-...
-
-[Data](articles/1d4c0fac.json)
-
-[Extended Data](ext_articles/1d4c0fac.ext.json)
-
----
-
-### Fire breaks into a plantation fire - 17 houses destroyed
-
-*2024-08-17 12:17:11* · [`adalk`](https://www.ada.lk/breaking_news/වතු-නිවාස-පෙලක-ගින්නක්---නිවාස-17ක්-විනාශ-වෙයි/11-411413) · `si`
-
-A fire in Padamo, SEeney Estate, destroyed 17 estate houses, including 8 completely and 9 severely damaged ones. It started from one house and quickly spread through the plantation.
-
-🟩
-
-17 estate houses have been destroyed in a fire that had occurred in a plantation housing in Padamo, SEeney Estate.
-
-Eight houses have been completely destroyed and 9 other houses have been severely damaged, police said.
-
-The fire had erupted in one house, and that the rapidly spread throughout the year and destroyed the houses.
-
-◼️
-
-[Data](articles/f07855ce.json)
-
-[Extended Data](ext_articles/f07855ce.ext.json)
 
 ---

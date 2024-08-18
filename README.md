@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 17:21:35**
+As of **2024-08-18 17:37:57**
 
 ## Newspaper Stats
 
-*Scraped **41,362** Articles*
+*Scraped **41,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,67 @@ dailymirrorlk | 4,733
 adaderanalk | 4,837
 tamilmirrorlk | 5,323
 virakesarilk | 6,553
-adaderanasinhalalk | 7,053
+adaderanasinhalalk | 7,054
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,359 (100.0%) of 41,362 articles have been extended.
+41,362 (100.0%) of 41,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### අනියම් පෙම දරු පවුලක් විනාශ කරයි
+### ප්‍රදේශ රැසකට තද වැසි
+
+*2024-08-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200072) · `si`
+
+ඒ අනුව, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේ විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/812f175d.json)
+
+---
+
+### Casual few children destroy a family
 
 *2024-08-18 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200071) · `si`
 
-සිය බිරිඳගේ සිරුරට පෙට්‍රල් දමා ගිනි තබා ඇයව ඝාතනය කිරීම සම්බන්ධයෙන් වෙන්නප්පුව ප්‍රදේශයේ කුලී නිවසට රැඳී සිටි පුද්ගලයෙකුව අද (18) අත්අඩංගුවටය ගත් බව පොලීසිය පවසයි.
+In a tragic incident, a woman was killed by her husband in Wennappuwa after confessing to police that she attempted to leave him for a lover in Kochchikade, Negombo. The couple's children witnessed the event. The husband, a coconut worker, claimed financial strain led him to send his wife abroad two years prior. Upon her return, she resumed her affair and refused to leave her lover's house, leading to a violent confrontation. Their eldest child, 14, tried to save his mother but was unsuccessful. The woman was hospitalized but succumbed to her injuries. The husband has been arrested, and the children, aged 3, 9, and 14, are under probation.
 
-අනියම් සම්බන්ධතාවයක් හේතුවෙන් සිය දරුවන් ගැන නොසිතා බිරිඳ නිවසින් පිටව යාමට උත්සාහ කළ බවත් එය වැළැක්වීම සඳහා බිරිඳගේ සිරුරට පෙට්‍රල් වක්කර ගිනි තැබූ බවත් සැකකරු පොලීසියට පාපෝච්චාරණය කර තිබේ.
+🟩
 
-ආර්ථික අපහසුතා හේතුවෙන් මීට වසර 2කට පෙර, ගෘහ සේවිකාවක් ලෙස සේවය කිරීම සඳහා ඇයව මැදපෙරදිග රටකට යවා ඇත්තේ සැකකාර සැමියා විසිනි.
+A person who had been arrested in the Wennappuwa area today (18), police said.
 
-නමුත් විදෙස්ගත වූ පසු සිය බිරිඳ, මීගමුව කොච්චිකඩේ ප්‍රදේශයේ පදිංචිව සිටින පුද්ගලයෙකු සමග අනියම් සම්බන්ධතාවයක් ගොඩනගා ගෙන ඇති බව සැකකරු පවසයි.
+The suspect has confessed that the wife tried to leave the home without feeling concerned with her children due to a casual relationship and to prevent it to the wife's body.
 
-ඉන්පසු ඇය අනියම් සැමියාට වැටුපෙන් වැඩි මුදලක් එවා ඇති බවත් තමන්ට සහ දරුවන්ට සුළු මුදලක් එවා ඇති බවත් සැකකරු පොලීසිය ට පවසා තිබේ.
+Due to economic difficulties, she had sent her to the Middle East to serve as a householder 2 years ago.
 
-සිය බිරිඳ මාස කිහිපයකට පෙර මෙරටට පැමිණ ඇති නමුත් ඇය නිවසට නොපැමිණ අනියම් සම්බන්ධතාවය පැවැත්වූ පුද්ගලයා පදිංචිව සිටි කොච්චිකඩේ නිවසට ගොස් ඔහු සමග ජීවත් වූ බවත් සැකකාර සැමියා පවසා ඇත.
+However, his wife has been building a casual relationship with a person living in Kochchikade area, Negombo.
+
+The suspect had told the police that she had sent more money from the casual mummy and had sent a small amount of money and children.
+
+Although his wife had arrived in Sri Lanka a few months ago, but she went to the house where he had unable to go home and went to the house of Kochchikade and lived with him.
+
+He said that despite the clash, he had not had a conflict and his second son was told to come home to visit her children.
+
+Accordingly, the woman who arrived at the house on the 10th was ready to leave the house on the 14th.
 
 ...
 
 [Data](articles/c82af787.json)
+
+[Extended Data](ext_articles/c82af787.ext.json)
 
 ---
 
@@ -76,19 +106,25 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 ---
 
-### சமூக ஊடகங்களை கண்காணிக்கும் நடவடிக்கைகள் ஆரம்பம் - தேர்தல் கண்காணிப்பு அமைப்பு
+### Beginning of Social Media Surveillance - Election Monitoring Organization
 
 *2024-08-18 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191370) · `ta`
 
-தேர்தல் வாக்களிப்பு தினத்திற்கு முந்தைய தேர்தல் கண்காணிப்பு நடவடிக்கைகளை ஆரம்பித்துள்ளதாக தேர்தல் கண்காணிப்பு அமைப்பான பவ்ரல் தெரிவித்துள்ளது.
+Powell, an election monitoring group, has started its pre-election surveillance. The director announced training for local superintendents and plans to deliver social media monitoring reports to the Election Commission starting next week.
 
-மாவட்ட மட்;டத்தில் தேர்தல் கண்காணிப்பாளர்களுக்கு பயிற்சிகளை வழங்கும் நடவடிக்கைகள் ஆரம்பமாகியுள்ளதாக பவ்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் தெரிவித்துள்ளார்.
+🟩
 
-சமூக ஊடகங்களை கண்காணிக்கவுள்ளதாக தெரிவித்துள்ள அவர் எதிர்வரும் திங்கட்கிழமை முதல் சமூக ஊடக கண்காணிப்பு அறிக்கைகளை தேர்தல் ஆணைக்குழுவிடம் சமர்ப்பிக்கவுள்ளதாக அவர் தெரிவித்துள்ளார்.
+Powell, the election monitoring organization, said that the election monitoring process has begun pre -election day.
+
+The Executive Director of the Powell Organization said that the process has begun to provide training to the election superintendents in the district.
+
+He said he would submit social media monitoring reports to the Election Commission from next Monday.
 
 ◼️
 
 [Data](articles/8efb1a3e.json)
+
+[Extended Data](ext_articles/8efb1a3e.ext.json)
 
 ---
 
@@ -470,21 +506,27 @@ The President has said that Sri Lanka is with a close economic integration of th
 
 ---
 
-### ලංකාවේ මරණවලින් සියයට 80කට හේතුව මෙන්න
+### Here are 80 percent of deaths in Sri Lanka
 
 *2024-08-18 13:24:37* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-මරණවලින්-සියයට-80කට-හේතුව-මෙන්න/11-411427) · `si`
 
-බෝ නොවන රෝග ලංකාවේ ප්‍රමුඛතම  ගැටළුවක් බවට පත්ව ඇති බවත්  ශ්‍රී ලංකාවේ සිදුවන මරණ වලින්  80%  බෝ නොවන රෝගවල බලපෑමෙන්  සිදුවන බව මාතලේ දිස්ත්‍රික් සෞඛ්‍ය සේවා අධ්‍යක්ෂ කුමුදු බණ්ඩාර  මහතා පවසයි.
+In Sri Lanka, non-communicable diseases cause 80% of deaths, highlighting a significant health challenge. The Matale District has formed a committee including various officials and NGOs to address this issue, aiming to develop interventions and programs to combat the problem effectively.
 
-මෙම තත්වයට මුහුණු දීම සදහා මාතලේ  දිස්ත්‍රික්කය තුළ බහුපාර්ශවීය  මැදිහත් වීමක් ඇති කිරීමට මධ්‍යම පළාත් සභාව හා එක්ව කටයුතු කිරීමට මාතලේ දිස්ත්‍රික්කය  පියවර ගෙන තිබේ.
+🟩
 
-මෙම  කමිටුව  මාතලේ දිස්ත්‍රික් ලේකම්ගේ ප්‍රධානත්වයෙන්  දිස්ත්‍රික්  සෞඛ්‍ය සේවා අධ්‍යක්ෂ,  දිස්ත්‍රික්කයේ සියලුම ප්‍රාදේශීය ලේකම් වරුන්,  ප්‍රාදේශීය සභාවේ සභාපතිවරුන්,  කළාප අධ්‍යාපන අධ්‍යක්ෂවරුන්, දිස්ත්‍රික් කෘෂීකර්ම අධ්‍යක්ෂ, සහකාර පොලිස් අධිකාරි,  දිස්ත්‍රික්  සමාජ සේවා හා ක්‍රීඩා නිලධාරි  ආපදා කළමනාකරණ සහකාර අධ්‍යක්ෂ, රාජ්‍ය නොවන සංවිධාන  හා බහුවිධ සංවිධාන ඇතුලත්ව  මෙම කමිටුව පත්කරනු ලැබිය.
+Non-communicable disease has become one of the leading problems in Sri Lanka and the Matale District Health Services Director Kumahu Bandara says that 80% of Sri Lanka's deaths are caused by the impact of non-communicable diseases.
 
-මෙම කමිටුව  රැස් වී  බෝ නොවන රෝග වලක්වා ගැනීමට අදාල වැඩ පිළිවෙලක් සකස් කිරීමට  අවශ්‍ය උපදෙස් හා ඒ සඳහා අවශ්‍ය පහසුකම් මධ්‍යම පළාත් සභාවේ මැදිහත්වීමෙන්  මාතලේ දිස්ත්‍රික් ලේකම් තේජානි තිලකරත්න මහත්මි හරහා ලබාදීමට   නියමිතය.
+The Matale District has taken steps to work together in the Matale district to create multilateral intervention in Matale District to face the situation.
+
+The committee is the Director of Matale District Secretary, District Secretaries, District Agriculture, District Director of Education and Sports Officer Disaster Management Assistant, NGO and Multiple OrganizationsThe committee was appointed inclusive.
+
+The committee will be given advice and the instructions required to prepare a program to prepare a program and the necessary facilities are due through the Matale District Secretary to the Matale District Secretary Grandnami.
 
 ◼️
 
 [Data](articles/0fc2f6c4.json)
+
+[Extended Data](ext_articles/0fc2f6c4.ext.json)
 
 ---
 
@@ -2277,27 +2319,5 @@ Therefore, the organization has called for the recovery of the symbol given to P
 [Data](articles/cdb3c374.json)
 
 [Extended Data](ext_articles/cdb3c374.ext.json)
-
----
-
-### The blessing of the Archbishop
-
-*2024-08-17 23:05:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராயரிடம்-ஆசிகளை-பெற்றார்-அநுர/175-342351) · `ta`
-
-Anura Kumara Dissanayake, NPP's presidential candidate, met Archbishop Malcolm Ranjith and other religious figures for discussions and received their blessings for his upcoming election.
-
-🟩
-
-The Presidential candidate of the National People's Power Anura Kumara Dissanayake met Archbishop Malcolm Ranjith at his official residence this afternoon.
-
-NPP's Executive Committee member Vijitha Herath also attended the meeting
-
-During the meeting, the Archbishop, Colombo Assistant Bishop Maxwell Silva, Father Anthony, and Father Cyril Gamini discussed with Dissanayake on various issues and offered blessings to his victory in the upcoming presidential election.. Remble
-
-◼️
-
-[Data](articles/aba9b7f1.json)
-
-[Extended Data](ext_articles/aba9b7f1.ext.json)
 
 ---

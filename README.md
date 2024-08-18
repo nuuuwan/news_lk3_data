@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 12:09:40**
+As of **2024-08-18 12:21:19**
 
 ## Newspaper Stats
 
-*Scraped **41,311** Articles*
+*Scraped **41,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 2,503
 dailyftlk | 2,676
 adalk | 3,794
 dailymirrorlk | 4,733
-adaderanalk | 4,828
+adaderanalk | 4,830
 tamilmirrorlk | 5,315
 virakesarilk | 6,539
-adaderanasinhalalk | 7,040
+adaderanasinhalalk | 7,041
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,311 (100.0%) of 41,311 articles have been extended.
+41,311 (100.0%) of 41,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### Elephant pearls seized, several suspects arrested in separate raids
+
+*2024-08-18 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101320/elephant-pearls-seized-several-suspects-arrested-in-separate-raids) · `en`
+
+Police have arrested multiple suspects for the illegal possession of elephant pearls (Gajamuthu) in two separate police operations.
+
+Ichchalampattu Police have apprehended two individuals who were in possession of two elephant pearls, during a raid carried out in the Poonagar area based on a tip-off received by the police.
+
+The suspects have been identified as residents of the Gokarella area.
+
+In a separate incident, three individuals who were attempting to sell three elephant pearls (Gajamuthu) near the Puttalam Lagoon shores have been arrested by the Police Special Task Force (STF).
+
+This raid followed a tip-off received by the Sri Lanka Air Force Intelligence, which indicated that the suspects were preparing to sell the elephant pearls for a sum of around Rs. 30 million.
+
+The suspects were arrested in an operation after undercover officers had posed as potential buyers.
+
+...
+
+[Data](articles/6a0f3eba.json)
+
+---
+
+### ගම්පහ ජනතාවට අවදානමක් ගැන දැනුම්දීමක්
+
+*2024-08-18 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200059) · `si`
+
+පවතින අධික වර්ෂාව හේතුවෙන් අත්තනගලු ඔයේ සහ එහි අතු ගංඟාවල ජල මට්ටම සැලකිය යුතු ලෙස ඉහළ යමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+එම තත්ත්වය හේතුවෙන් අත්තනගල්ල, ගම්පහ, ජාඇල, වත්තල වැනි ප්‍රාදේශීය ලේකම් කොට්ඨාසවල, අත්තනගලු ඔය සහ උරුවල් ඔය දෙපස සිටින ජනතාව අවධානයෙන් සිටින ලෙස වාරිමාර්ග දෙපාර්තමේන්තුවේ ජල විද්‍යා හා ආපදා කළමනාකරණ අංශයේ අධ්‍යක්ෂ ඉංජිනේරු එස්. පී. සී සුගීෂ්වර මහතා සඳහන් කළේය.
+
+"මේ දක්වා ඇතිවුණු වර්ෂාපතනය මත සැලකිය යුතු ගංවතුර මට්ටමක් ඇතිවීමේ හැකියාවක් තියෙනවා සහ ගංගා ද්‍රෝණිය අධික තෙත් තත්ත්වයට පත්වෙලා තියෙනවා. ඒ නිසා අද දිනය තුළ සැලකිය යුතු වර්ෂාපතනයක් අත්තනගලු ඔය සහ උරුවල් ඔය ධාරා ප්‍රදේශයට ලැබුණොත් ඉතා පහසුවෙන් ගංගා ද්‍රෝණිය සැලකියයුතු ඉහළ ගංවතුර තත්ත්වයකට පත්වීමේ අවදානම පවතිනවා. ඒ නිසා මේ ප්‍රදේශවල මහජනතාව මේ තත්ත්වය සම්බන්ධයෙන් දැඩි සැලකිල්ලකින් කටයුකු කළ යුතුයි."
+
+මේ අතර කළු ගඟේ අතුගංගාවක් වන කුඩා ගඟේ ජල මට්ටම මිල්ලකන්ද ප්‍රදේශයෙන් ඉහළ ගොස් ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+කළු ගඟේ ජල මට්ටමද සමහර ප්‍රදේශවල ඉහළ යමින් පවතින බව සුගීෂ්වර මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/886dc34e.json)
+
+---
+
+### Grama Niladhari Officers pause trade union action until prez poll ends
+
+*2024-08-18 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101319/-grama-niladhari-officers-pause-trade-union-action-until-prez-poll-ends) · `en`
+
+The Grama Niladhari Officers’ Alliance says that it will temporarily suspend its ongoing trade union action, effective from midnight today (Aug 18).
+
+The decision comes as their trade union aims to ensure the maximum contribution of its members in the upcoming Presidential Election, recognizing the vital role that Grama Niladhari officers play as election officers, the co-chairman of the alliance Nandana Ranasinghe said.
+
+The Grama Niladhari Officers’ unions launched trade union action on May 04, 2024, demanding adjustments to the Grama Niladhari service constitutions and allowance increments to better align with the current economic realities.
+
+Later, the alliance observed a ‘Black Protest Week’ from August 12 to 18. Nandana Ranasinghe stated that they will also conclude this trade union action at midnight today.
+
+Additionally, the work-to-rule campaign, which began on May 17, will be officially brought to an end tonight, according to Mr Ranasinghe.
+
+...
+
+[Data](articles/be766625.json)
+
+---
 
 ### King's approval for Thai Prime Minister
 
@@ -2183,85 +2245,5 @@ However, foreign media states that the clash has been bloody due to the clash.
 [Data](articles/61599f1f.json)
 
 [Extended Data](ext_articles/61599f1f.ext.json)
-
----
-
-### Namal says we win elections
-
-*2024-08-17 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200029) · `si`
-
-Namal Rajapaksa, a presidential candidate from the Sri Lanka General Front, asserts his party's victory in upcoming elections, emphasizing unity and readiness to face challenges. He made these remarks at a Kandy District Action meeting and paid respects to the Sacred Tooth Relic.
-
-🟩
-
-The presidential candidate named Namal Rajapaksa says that the Sri Lanka General Front is not only a presidential election but also wins any future elections.
-
-He was speaking at the Kandy District Action Action meeting.
-
-Meanwhile, Mr. Namal Rajapaksa had bowed the Sacred Tooth Relic today.
-
-"After the alliance parties, the party is over after that leader after this election. This is the real story. After 40 agree with 40, they were at 40. When the old JVP joins the new NPP, they two sides after their votes. But the Kidu Front is ready to overcome any of the elections. With the Mahinda Chinthanaya. "
-
-◼️
-
-[Data](articles/44143415.json)
-
-[Extended Data](ext_articles/44143415.ext.json)
-
----
-
-### Anura Tangalle launches election fight
-
-*2024-08-17 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200028) · `si`
-
-Anura Kumara Dissanayake kicks off his presidential campaign in Tangalle, facing criticism over cultural policies despite support from religious leaders. He visits key sites including the national propaganda headquarters and the Sri Lanka Amarapura Medhed Regional Scheme, ending his day at the Sri Monk Vineaja Twali in Bambalapitiya.
-
-🟩
-
-The first rally to ensure the victory of the presidency of the National Fundee Candidate Anura Kumara Dissanayake will commence today at Tangalle at Tangalle.
-
-When Anura Kumara Dissanayake arrived in the blessings of the All-religious leaders, people who destroyed funds for the betterment of Vehera temples are criticizing the cultural policy of the national power.
-
-Anura Kumara Dissanayake visited the presidency of the national propaganda and visited the Sri Lanka Amarapura Medhed Regional Scheme at Wellawatte this morning.
-
-Afterward, Anura Kumara Dissanayake had arrived at the Sri Monk Vineaja Twali in Bambalapitiya.
-
-◼️
-
-[Data](articles/591abb9c.json)
-
-[Extended Data](ext_articles/591abb9c.ext.json)
-
----
-
-### Presidential candidate Dilith launches election fight
-
-*2024-08-17 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200027) · `si`
-
-Defense entrepreneur Dilith Jayaweera, a presidential candidate, launched his election campaign in Jaffna, visiting religious sites and meeting local leaders. He emphasized unity and a strategic program for all Sri Lankans, particularly in the North.
-
-🟩
-
-The defense entrepreneral Dilith Jayaweera, the presidential candidate, Dilith Jayaweera, will be held in Jaffna today (17).
-
-Entrepreneral Dilith Jayaweera arrived at the Sri Naga Viharaya, who arrived in Jaffna this morning, arrived at the Sri Naga Viharaya.
-
-The Chief Incumbent of the Sri Naga Viharaya Ven. Ven.
-
-Subsequently, Dilith Jayaweera, the leader of the Bishop of the Bishop of Jaffna, arrived in Jaffna and arrived at the Radows of Jaffna Bishop. Fr. Jabaratnayake met.
-
-He also presented the second draft of the exangeration.
-
-The presidency, Dilith Jayaweera, the prominent group of Dilith Jayaweera and the prominent group arrived at Jaffna Moumma Church, the main molavy calendy AM. Rolim took the blessings and blessed.
-
-Later, the presidential candidate entrepreneur Dilith Jayaweera came to Nallur Kovil, Jaffna.
-
-Surgerage power, presidential power, said the presidential candidate entreprenement Dilith Jayaweera said,
-
-...
-
-[Data](articles/aea7fcbd.json)
-
-[Extended Data](ext_articles/aea7fcbd.ext.json)
 
 ---

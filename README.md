@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 13:55:51**
+As of **2024-08-18 14:07:10**
 
 ## Newspaper Stats
 
-*Scraped **41,338** Articles*
+*Scraped **41,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,92 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,503
 dailyftlk | 2,676
-adalk | 3,796
+adalk | 3,797
 dailymirrorlk | 4,733
-adaderanalk | 4,833
+adaderanalk | 4,834
 tamilmirrorlk | 5,318
 virakesarilk | 6,550
-adaderanasinhalalk | 7,046
+adaderanasinhalalk | 7,048
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,337 (100.0%) of 41,338 articles have been extended.
+41,338 (100.0%) of 41,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### ගෝලීය දකුණේ හඬ සමුළුවට ජනපති එක්වෙයි
+### ජයග්‍රහණයෙන් පසු අනුරගෙන් ජනතාවට ලැබෙන සහන ලැයිස්තුව
 
-*2024-08-18 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200064) · `si`
+*2024-08-18 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200066) · `si`
 
-බෙංගාල බොක්ක සහ ඒ අවට කලාපය මේ වන විට වර්ධනයේ මධ්‍යස්ථානයක් බවට පත්වෙමින් තිබෙන බැවින් බිම්ස්ටෙක් (BIMSTEC) සංවිධානයේ වැදගත්කම දිනෙන් දින ඉහළයමින් පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+සිය ජයග්‍රහණයෙන් පසු ආහාර, සෞඛ්‍ය සේවා සහ පාසල් උපකරණවලට පනවා ඇති VAT බද්ද ඉවත් කිරීමට පියවර ගන්නා බව ජාතික ජන බලවේගයේ ජනාධිපතිධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
 
-ජනාධිපතිවරයා මේ බව පැවසුවේ ඊයේ (17) පැවති 'ගෝලීය දකුණේ හඬ' සමුළුවේ රාජ්‍ය නායක සැසිය සඳහා අනුරාධපුර ජනාධිපති මන්දිරයේ සිට මාර්ගගත ක්‍රමවේදය ඔස්සේ සම්බන්ධ වෙමිනි.
+"අපි දන්නවා සමහර අය අපෙන් අහනවා සහෝදරයා මේ වගේ රටක් භාර ගන්න ඔයාලට බය නැද්ද කියලා. මතක තබා ගන්න මේ වෙලාවේදී තමයි ජාතික ජනබලවේගය රට භාරගන්න ඕනේ. රට වැටිලා තියෙන ප්‍රපාතයෙන් ගොඩ ගන්න. මේක ගොඩගන්න පුළුවන්. 15 වෙනිදා රෑ ඉදිරිපත්කළා අපේ විදුලි හා බලශක්ති සැලසුම. ඒ අනුව ඉතා කෙටි කාලයක් ඇතුළත විදුලි බිල තුනෙන් එකකින් අඩු කරනවා. ඊළඟ ආහාර, මේ ආණ්ඩුව ආහාරවලට වැට් ගහනවා. අපි ආහාර සඳහා තියෙන වැට් බද්ද අයින් කරනවා පළමු අයවැය ලේඛනයෙන්. සෞඛ්‍ය සහ සෞඛ්‍ය සේවා සැපයුමේ වැට් බද්ද අයින් කරනවා. ඊළඟට පාසල් උපකරණවලට පනවලා ඇති වැට් බද්ද අයින් කරනවා. ඇයි ආණ්ඩුව ඉන්නේ ජනතාව බලාගන්න. මේ ගොල්ලෝ එන්නේ ඒ අය බලාගන්න."
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ ප්‍රධානත්වයෙන් "තිරසර අනාගතයක් සඳහා සවිබල ගැන්වූ ගෝලීය දකුණක්" යන තේමාව යටතේ තුන්වැනිවරට පැවැත් වූ මෙම සමුළුව සඳහා රටවල් රැසක රාජ්‍ය නායකයින් සහභාගී වී තිබේ.
+◼️
 
-තවදුරටත් බටහිරට ගෝලීය නායකත්වයේ ආධිපත්‍යය දැරීමට නොහැකි තැනකට ළඟා වී ඇති බැවින් එවැනි තත්ත්වයක් තුළ ගෝලීය දකුණ ශක්තිමත් කිරීමට ඉන්දියාව දරණ උත්සාහය ප්‍රශංසනීය බව ජනාධිපතිවරයා මෙහිදී පෙන්වා දී තිබේ.
+[Data](articles/c802a8fe.json)
+
+---
+
+### ගාසා තීරයෙන් පෝලියෝ රෝගියෙක්
+
+*2024-08-18 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200065) · `si`
+
+ඊශ්‍රායල සහ හමාස් යුද ගැටුම්වලට මැදිව සිටින ගාසා තීරයෙන් වසර 25කට පසුව පෝලියෝ රෝගියෙකු හමුවී තිබේ.
+
+පලස්තීන සෞඛ්‍ය බලධාරීන් පවසා ඇත්තේ මධ්‍යම ගාසා තීරයේ එන්නත්කරණයට ලක් නොවූ මාස 10ක් වයසැති බිළිඳෙකුට මෙලෙස පෝලියෝ රෝගය වැළඳී ඇති බවය.
+
+යුද්ධය හේතුවෙන් මාස 11ක් පුරා එන්නත්කරණ කටයුතු නතර කිරීම හේතුවෙන් පෝලියෝ රෝගය යළි ව්‍යාප්තවීමේ අවදානමක් මතුවිය හැකි බව මීට පෙර එක්සත් ජාතීන්ගේ සංවිධානය විසින් අනතුරු ඇඟවිමක් ද සිදුකර තිබුණි.
+
+යුද්ධයට විරාමයක් ලබා දී 640,000ක් පමණ වන කුඩා දරුවන් සඳහා එන්නත්කරණය කඩිනමින් කටයුතු ආරම්භ කළ යුතු බව එක්සත් ජාතීන්ගේ මහලේකම් ඇන්තෝනියෝ ගුටේරස් අවධාරණය කර දින කිහිපයකට පසුව මෙම පෝලියෝ රෝගියා වාර්තා වීමද විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/5c363bd9.json)
+
+---
+
+### Sri Lanka seeks economic cooperation agreements from Japan to India, aiming for closer integration with India
+
+*2024-08-18 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101325/sri-lanka-seeks-economic-cooperation-agreements-from-japan-to-india-aiming-for-closer-integration-with-india) · `en`
+
+President Ranil Wickremesinghe emphasized the importance of strengthening economic cooperation and regional integration from Japan to India, with a special focus on deepening ties with India. The President made these remarks while addressing the Head of State Session of the 3rd Voice of Global South Summit, held under the theme “An Empowered Global South for a Sustainable Future.”
+
+Speaking from the President’s House in Anuradhapura virtually yesterday (17), President Wickremesinghe highlighted Sri Lanka’s strategic commitment to expanding economic partnerships across Asia, particularly through the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC). The President noted that as the Bay of Bengal region emerges as a hub of economic growth, the significance of BIMSTEC continues to rise. Sri Lanka, as a member, seeks closer economic integration with India and is exploring economic cooperation agreements extending from Japan to India.
 
 ...
 
+[Data](articles/b7737554.json)
+
+---
+
+### President assists Vote in the global voice
+
+*2024-08-18 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200064) · `si`
+
+President Ranil Wickremesinghe highlights the growing significance of BIMSTEC and the Bay of Bengal region, emphasizing India's efforts to enhance its global influence. He mentions Sri Lanka's close economic ties with India and plans for broader economic cooperation across the BIMSTEC nations.
+
+🟩
+
+President Ranil Wickremesinghe says that the importance of the Bimstec (BIMSEC) is now increasing the importance of the Bay of Bengal and the surrounding zone.
+
+The President was speaking at the Presidential Leader in the Anuradhapura President's House from the Presidential Palace in Anuradhapura yesterday (17).
+
+The heads of state have participated in a number of countries under the patronage of Indian Prime Minister Narendra Modi.
+
+The President has pointed out that India's attempt to strengthen the global right to strengthen the global leadership continues to dominate global leadership.
+
+The President has said that Sri Lanka is with a close economic integration of the Bimustek Association with close economic integration with India and to establish economic cooperation contracts from Japan to India.
+
+◼️
+
 [Data](articles/fa0c0cdf.json)
+
+[Extended Data](ext_articles/fa0c0cdf.ext.json)
 
 ---
 
@@ -1256,6 +1310,20 @@ The surgery is carried out by the doctor who has been tested at the private hosp
 
 ---
 
+### රට ගොඩ නගන සැලසුම් අපි හදල ඉවරයි
+
+*2024-08-18 08:18:27* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩ-නගන-සැලසුම්-අපි-හදල-ඉවරයි/11-411419) · `si`
+
+"රටට මේ විදියට යන්න දෙන්න බැහැ. රට දියුණු  කරන්න ඕන.අපි බලයට පත්වූ පසු වංචාව,දූෂණය  නතර කරනව. වංචකයින්ට දඬුවම් දෙනව. සොරාගත්ත දේපල රජයට පවර ගන්නව. ජනතාව සතුටින් තියන ආණ්ඩුවක් හදනවා. ඒ ටික කළ හැක්කේ  ජාතික  ජන බලවේගයට පමණයි" ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක  මහතා පැවසීය. ඉකුත්17 වනදා තංගල්ල නගරයේ පැවති රට අනුරට මැයින් පැවති ජන රැලියක් අමතමින් දිසානායක මහතා එසේ පැවසීය .
+
+රට විශාල ලෙස කඩා වැටීමක තියෙන්නෙ .ආර්ථික වශයෙන් ගත්තොත් පතුලටම ගිලුනු රටක්.අපරාධ පැත්තෙන් ගත්තොත් විශාල ලෙස අපරාධ වැඩිවුන රටක්. නීතියආධිපත්‍යය කඩා වැටුණු රටක්. ගොවිජනයගේ ජීවිත විශාල ලෙස පීඩනයට පත් රටක්. ධීවර ජනතාවගේ ජීවිත විශාල ලෙස පීඩනයට පත්වෙලා. ව්‍යාපාරික ජනතාව අවිනිශ්චිත තත්ත්වයට පත්වෙලා. තරුණ තරුණියන්ට තමාගේ අනාගත සිහිනය භංගත්වයට පත්වෙලා.
+
+...
+
+[Data](articles/a1341e0c.json)
+
+---
+
 ### VAT is completely removed
 
 *2024-08-18 08:18:27* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-බදු-සම්පූර්ණයෙන්ම-ඉවත්-කරනවා/11-411419) · `si`
@@ -2221,93 +2289,5 @@ When the man was produced before the Valaichenai Magistrate's Court, the magistr
 [Data](articles/d194bd14.json)
 
 [Extended Data](ext_articles/d194bd14.ext.json)
-
----
-
-### India prepares to launch a rocket carrying people
-
-*2024-08-17 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200042) · `si`
-
-India's ISRO plans to launch its first manned space mission, "Gaganyaan," in December. The spacecraft, weighing 5.3 metric tons, will orbit Earth. Scheduled for 2025, it aims to carry three astronauts.
-
-🟩
-
-Under the operation called "Ganganyan", the operation is to be first-known.
-
-The Indian Space Research Institute says the Indian space research is expected to be played in December, known as the G1.
-
-The spacecraft weighted at 5.3 metrical under the Ganganyan mission is to stay in the Earth orbit.
-
-In the year 2025, the plane to carry three astronauts.
-
-◼️
-
-[Data](articles/42cabc06.json)
-
-[Extended Data](ext_articles/42cabc06.ext.json)
-
----
-
-### England Lions win the training match
-
-*2024-08-17 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200041) · `si`
-
-In a cricket match, England Lions triumphed over Sri Lanka, securing a seven-wicket victory. The Lions set a high score of 324 in their first innings, while Sri Lanka managed 306 in theirs. Chasing 122 in the second innings, the Lions achieved the target with ease, losing only three wickets.
-
-🟩
-
-England Lions won the Sri Lankan team by seven wickets.
-
-The winning won the target of 122 runs for the loss of 3 runs.
-
-The Lions team scored 324 runs for the first innings in the first innings, as the Sri Lankan team was bowled out for the first innings.
-
-Sri Lanka scored 306 runs for the second innings, accordingly, a target of 122 runs for the victory of the Lion.
-
-◼️
-
-[Data](articles/1e14c174.json)
-
-[Extended Data](ext_articles/1e14c174.ext.json)
-
----
-
-### The budget member who joined Sajith's first meeting
-
-*2024-08-17 16:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-முதலாவது-கூட்டத்தில்-இணைந்த-மொட்டு-உறுப்பினர்/175-342329) · `ta`
-
-Sajith Premadasa, United People's Power President, started a public meeting in Akuressa. Matara district MP Karunadasa Kodhithu joined him as a presidential candidate.
-
-🟩
-
-United People's Power President Sajith Premadasa has begun a public meeting in Akuressa.
-
-Meanwhile, Matara district parliamentarian Karunadasa Kodhithu today (17) has joined the Presidential candidate Sajith Premadasa.. Remble
-
-◼️
-
-[Data](articles/13a4440f.json)
-
-[Extended Data](ext_articles/13a4440f.ext.json)
-
----
-
-### The budge member attached to Sajith
-
-*2024-08-17 16:53:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்த-மொட்டு-உறுப்பினர்/175-342329) · `ta`
-
-Sajith Premadasa, leader of United People's Power, started a public gathering in Akuressa. Meanwhile, Matara district MP Karunadasa Kodhithu endorsed him as the presidential candidate.
-
-🟩
-
-United People's Power President Sajith Premadasa has begun a public meeting in Akuressa.
-
-Meanwhile, Matara district parliamentarian Karunadasa Kodhithu today (17) has joined the Presidential candidate Sajith Premadasa.. Remble
-
-◼️
-
-[Data](articles/c63b71df.json)
-
-[Extended Data](ext_articles/c63b71df.ext.json)
 
 ---

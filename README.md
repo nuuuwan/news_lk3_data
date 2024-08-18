@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 15:55:24**
+As of **2024-08-18 16:07:53**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,050
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,352 (100.0%) of 41,354 articles have been extended.
+41,354 (100.0%) of 41,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### ரணிலுக்கே வெற்றி: ஆனந்தகுமார்
+### Win Ranil: Anandakumar
 
 *2024-08-18 15:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கே-வெற்றி-ஆனந்தகுமார்/175-342385) · `ta`
 
-வடக்கு, கிழக்கு மக்கள் மற்றும் மலையக மக்கள் உட்பட அனைத்து மக்களின் பேராதரவுடன் ஜனாதிபதி தேர்தலில் எமது ஜனாதிபதி ரணில் விக்கிரமசிங்க வரலாற்று வெற்றியை பதிவு செய்வார். அவரின் அடுத்த ஐந்தாண்டுகால ஆட்சியே இலங்கைக்கு பொற்காலமாக அமையவுள்ளது என்று ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்றுபேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்தார்.
+Ranil Wickremesinghe is predicted to win the presidential election, marking a historic victory for Sri Lanka, especially among Northern, Eastern, and Upcountry populations. Subbaiah Anandakumar, a UNP member, anticipates a "golden age" under Wickremesinghe's rule. The support from Parliamentarian Velukumar and the resolution of plantation workers' salary issues are highlighted as significant achievements. Wickremesinghe's commitment to land rights and economic revival in the hill country is praised, with Tamil leaders urged to support him for the country's progress.
 
-அத்துடன், ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிப்பதற்கு பாராளுமன்ற உறுப்பினர் வேலுகுமார் எடுத்த முடிவு மக்களின் எதிர்பார்ப்பாகும்.
+🟩
 
-“ மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கான சம்பளப் பிரச்சினைக்கு தீர்வு கிடைத்துள்ளமை மகிழ்ச்சியளிக்கின்றது. இதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க, முன்னாள் தொழில் அமைச்சர் மனுச நாணயக்கார, இலங்கை தொழிலாளர் காங்கிரஸ் உறுப்பினர்கள் உட்பட சம்பள உயர்வுக்காக குரல் கொடுத்த அனைவருக்கும் நன்றிகளைத் தெரிவித்துக்கொள்கின்றேன்.
+Our President Ranil Wickremesinghe will record historical victory in the presidential election with all the people, including the people of the North, East and the Upcountry people.. Subbaiah Anandakumar, a member of a three -member committee of the United National Party and the UNP district organizer, said that his next five years of rule would be the golden age of Sri Lanka.
+
+Moreover, the decision of Parliamentarian Velukumar to support President Ranil Wickremesinghe is the expectation of the people.
+
+“It is a pleasure to solve the salary issue for upland plantation workers. I thank all those who voiced their salary rise, including President Ranil Wickremesinghe, former Labor Minister Manusha Nanayakkara and members of the Ceylon Workers Congress.
 
 ...
 
 [Data](articles/43165dbc.json)
+
+[Extended Data](ext_articles/43165dbc.ext.json)
 
 ---
 
@@ -758,25 +764,37 @@ She is to be appointed to appoint his Cabinet in the next few days. Petentgtan s
 
 ---
 
-### ජාතික ධජය මැතිවරණ ප්‍රචාරයට ගත්තොත් නීතිය, ජාතික ගීය පක්ෂයේ ගීතය වේවි
+### If the National Flag is propagated, the law will be the song of the National Anthem Party
 
 *2024-08-18 11:32:49* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ධජය-මැතිවරණ-ප්‍රචාරයට-ගත්තොත්-නීතිය--ජාතික-ගීය-පක්ෂයේ-ගීතය-වේවි/11-411426) · `si`
 
-ජාතික ධජය මැතිවරණ ප්‍රචාරක කටයුතු සදහා යොදා ගත්තොත් නීතිය ක්‍රියාත්මක කරන බවත් , මෙහෙම ගියොත් තව  ටික දිනකින් ජාතික ගීය පක්ෂයේ ගීතය බවට පත්වේවි යැයි මැතිවරණ කොමසාරිස් ජනරාල් සමන්  ශ්‍රී  රත්නායක මහතා ඊයේ (17) කොළඹ දි පැවසීය .
+Saman Sri Ratnayake, Commissioner General of Elections, mentioned during a journalist awareness program that the National Anthem Party (NIC) will be held in Colombo, sponsored by Pattalion. He highlighted issues like misuse of the national flag and lack of focus on national development, referencing his track record of dismissing 19 individuals from his party.
 
-මෙවර ජනාධිපතිවරණය නිමිත්තෙන් ජනමාධ්‍යවේදීන් දැනුවත් කිරිමේ වැඩසටහනකට සහභාගි වෙමින් හෙතෙම එසේ කීය .
+🟩
 
-කොළඹ දී පැවති මෙම වැඩමුළුව පැපරල් සංවිධානයේ අනුග්‍රහය මත සංවිධානය කර තිබිණ .
+The Commissioner General of Elections Saman Sri Ratnayake said yesterday that the National Anthem Party (NIC) at the National Anthem Party (UNP) will be said in Colombo yesterday (17).
 
-මෙහිදී තවදුරටත් අදහස් දක්වමින් මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා මෙසේද පැවසීය .
+He was speaking at a journalist awareness program to mark the presidential election.
 
-අපි දේශපාලනඥයින් දිහා බලනවා.ඒ අය නැතිනම් මැතිවරණය ක් නෑ..ජාතික කොඩියේ අභිමානය    අද බල්ලට ගිහින් තිබෙනවා .සිංහයා ට නෑ.ඒක නිසා ජාතික කොඩිය මැතිවරණ ප්‍රචාරක කටයුතු සදහා මැතිවරණ ව්‍යාපාරය සදහා  යොදා ගන්න එපා .
+The workshop in Colombo was organized on the sponsorship of Pattalion.
 
-දැන් ක්‍රිකට් තරගාවලදී ජාතික ධජය ඇගවටා ඔතා ගෙන එක අතකින් මත්පැන් බෝතලයක් අල්ලාගෙන නටනවා .දේශපාලන දර්ශනයක් නැති නිසා මෙවැනි ගැටලු එනවා.
+Commissioner General Saman Sri Ratnayake said,
 
-...
+We look at politicians.
+
+Now catch the national flag in cricket and catch the national flag and catch a bottle of alcohol.
+
+It is not a problem that we do not have to pay the development work of the country.
+
+In my electoral history, I sent 19 people home in my home.
+
+Practual Organization Executive Director Rohana Hettiarachchi and its national organizer Sujeewa Gyathath also addressed the occasion.
+
+◼️
 
 [Data](articles/e1cc26c7.json)
+
+[Extended Data](ext_articles/e1cc26c7.ext.json)
 
 ---
 

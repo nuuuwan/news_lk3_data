@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 16:21:15**
+As of **2024-08-18 16:36:58**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,354 (100.0%) of 41,355 articles have been extended.
+41,355 (100.0%) of 41,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### තණමල්විල දැරියට බලපෑම් කළ අධිකරණ වෛද්‍යවරයා අත්අඩංගුවට
+### Judicial doctor arrested for influence the Thanamalwila girl
 
 *2024-08-18 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200069) · `si`
 
-තණමල්විල දැරිය දූෂණය කිරීමේ සිද්ධියට අදාළව වෛද්‍ය පරීක්ෂණය සිදුකළ හම්බන්තොට මහ රෝහලේ අධිකරණ වෛද්‍යවරයා එම දැරියට සාපරාධි බලහත්කාරයපෑමේ චෝදනාව මත ළමාරක්ෂණ අධිකාරිය විසින් ඊයේ (17) සවස අත්අඩංගුවට ගනු ලැබීය.
+A judicial doctor was arrested by the Child Protection Authority for allegedly influencing a medical test result related to a girl from Thanamalwila. The doctor was later released on bail. Meanwhile, 21 schoolchildren involved in the case were remanded, and four teachers, including the principal, were also arrested but released on bail.
 
-කෙසේ නමුත් අත්අඩංගුවට පත්වූ අධිකරණ වෛද්‍යවරයා හම්බන්තොට මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රුපියල් ලක්ෂ තුනක ශරීර ඇපයක් මත මුදා හැරිණි.
+🟩
 
-මෙම සිද්ධියට සම්බන්ධ පාසල් සිසුන් 21 දෙනෙකු මේ වනවිට රක්ෂිත බන්ධනාගාර ගතකර හා පරිවාස භාරයට පත් කර සිටියි.
+The Medical Testing Medical Test to the Medical Test for the rapid of the girl was arrested by the Child Protection Authority yesterday evening yesterday (17).
 
-එමෙන්ම සිද්ධිය වසන්කළ බවට චෝදනා එල්ල වූ මෙම දැරිය ඉගෙනුම ලැබූ පාසලේ විදුහල්පතිවරයා ඇතුළු ගුරුවරුන් සිව් දෙනෙකු මීට ඉහතදී අත්අඩංගුවට ගනු ලැබූ අතර ඔවුන්ව අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ඇප මත මුදා හැරිණි.
+However, after being produced before the Hambantota Magistrate's Court, was released on a personal bail of Rs.
+
+A total of 21 school children involved in the incident are being remanded and seized by probation.
+
+Four teachers, including the school principal, was arrested and released on bail after being accused of contemplating the incident.
 
 ◼️
 
 [Data](articles/b63834df.json)
+
+[Extended Data](ext_articles/b63834df.ext.json)
 
 ---
 

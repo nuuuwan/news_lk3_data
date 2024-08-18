@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 02:54:17**
+As of **2024-08-19 03:06:35**
 
 ## Newspaper Stats
 
@@ -89,6 +89,10 @@ At the same time, I got the most votes in the Akkaraipattana Pradeshiya Sabha el
 ### 3 persons including teacher
 
 *2024-08-19 01:03:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-உட்பட-3-பேர்-கைது/175-342415) · `ta`
+
+In Batticaloa, two youths were arrested for sexual abuse of a schoolgirl, while a teacher faced allegations for torturing a 4-year-old boy. A 16-year-old student and a 44-year-old teacher were kidnapped but managed to escape. The teacher later filed a complaint about the incident. Additionally, a 15-year-old girl was arrested for alleged sexual assault, and a 19-year-old man was accused of attempting to sexually assault another 15-year-old girl.
+
+🟩
 
 Police have arrested two youths on charges of sexually abusing a school girl in the last two weeks in Batticaloa, Kaluwanchikudi, Eravur and Kattankudi police divisions.
 

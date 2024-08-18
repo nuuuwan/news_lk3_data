@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 08:25:51**
+As of **2024-08-18 08:36:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,032
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,268 (100.0%) of 41,280 articles have been extended.
+41,277 (100.0%) of 41,280 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ In Sri Lanka from 19 to 21 August, she will meet with government officials and p
 ...
 
 [Data](articles/dae707f3.json)
+
+[Extended Data](ext_articles/dae707f3.ext.json)
 
 ---
 
@@ -65,6 +67,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/2669c2e6.json)
+
+[Extended Data](ext_articles/2669c2e6.ext.json)
 
 ---
 
@@ -188,19 +192,25 @@ Save my name, email, and website in this browser for the next time I comment.
 
 ---
 
-### வன்முறையுடன் தொடர்புடைய மூவர் கைது
+### Three arrested in connection with violence
 
 *2024-08-18 02:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறையுடன்-தொடர்புடைய-மூவர்-கைது/175-342356) · `ta`
 
-யாழ்ப்பாணம், வடமராட்சி, வல்வெட்டித்துறையில் பொலிஸ் நிலையத்துக்கு அருகில் உள்ள வீடொன்றுக்குள் நுழைந்து வன்முறையில் ஈடுபட்ட சம்பவம் தொடர்பாக மூன்று பேர் கைது செய்யப்பட்டனர்.
+In Jaffna, three arrests were made over violent incidents, including seizure of Jandu swords and efforts to retrieve two motorcycles involved. Two individuals from Konda, aged 19 and 23, were also apprehended.
 
-சந்தேகநபர்களிடமிருந்து ஜந்து வாள்கள் கைப்பற்றப்பட்டுள்ளதுடன் வன்முறைக்குப் பயன்படுத்தப்பட்ட இரண்டு மோட்டார் சைக்கிள்களையும் மீட்கப் பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+🟩
 
-சம்பவம் தொடர்பாக 19 மற்றும் 23 வயதான கோண்டாவில் பகுதியைச் சேர்ந்த 2 பேரும், அச்சுவேலியைச் சேர்ந்த ஒருவரும் கைது செய்யப்பட்டுள்ளனர். (a)
+Three persons have been arrested in connection with the incident of violence in Jaffna, Vadamarachchi and Valvettithurai.
+
+Jandu swords have been seized from the suspects and the police have taken steps to recover two motorcycles used for violence.
+
+Two persons from Konda, 19 and 23, have been arrested in connection with the incident.. (A)
 
 ◼️
 
 [Data](articles/83475658.json)
+
+[Extended Data](ext_articles/83475658.ext.json)
 
 ---
 
@@ -242,33 +252,45 @@ On Saturday August 24 the FIRST LEG of the 78th edition of the prestigious Bradb
 
 ---
 
-### செல்வச்சந்நிதியான் தேர்த் திருவிழா இன்று
+### Selvasanidhi Election Festival Today
 
 *2024-08-18 02:00:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்வச்சந்நிதியான்-தேர்த்-திருவிழா-இன்று/175-342355) · `ta`
 
-வரலாற்றுப் பிரசித்தி பெற்ற யாழ். வடமராட்சி தொண்டைமானாறு செல்வச்சந்நிதி முருகன் ஆலயத்தின் வருடாந்தத் தேர்த் திருவிழா இன்று காலை 8 மணிக்கு நடைபெறவுள்ளது.
+Today marks the annual election festival at the historical Vadamarachchi Thondamanaru Selvachani Murugan Temple in Jaffna, starting at 8 am. This follows the Chaparath festival held last night. The event includes special arrangements for traffic, health, drinking water, and security during the chariot and tirtha festivals.
 
-செல்வச்சந்நிதி முருகன் ஆலயத்தின் வருடாந்தப் பெருந்திருவிழா கடந்த 4 ஆம் திகதி ஆரம்பமாகி நடைபெற்று வருகின்றது. இதில், நேற்று இரவு சப்பரத் திருவிழா நடைபெற்றது. இன்று தேர்த் திருவிழா நடைபெறவுள்ளது.
+🟩
 
-தேர், தீர்த்தத் திருவிழாக்களையொட்டி விசேட போக்குவரத்து ஏற்பாடுகள், சுகாதார, குடிதண்ணீர் மற்றும் பாதுகாப்பு ஏற்பாடுகள் செய்யப்பட்டுள்ளன. (a)
+Historical Jaffna. The annual election festival of the Vadamarachchi Thondamanaru Selvachani Murugan Temple will be held at 8 am today.
+
+The annual festival of Selvasanidhi Murugan Temple is being held on the 4th of last month.. In this, the Chaparath festival was held last night. The election festival will be held today.
+
+Special traffic arrangements, health, drinking water and security arrangements have been made during the chariot and tirtha festivals. (A)
 
 ◼️
 
 [Data](articles/43a4d806.json)
 
+[Extended Data](ext_articles/43a4d806.ext.json)
+
 ---
 
-### தேர்தல் பிரசார செலவுகளை கண்காணிக்க இணையத்தளம்
+### Website to monitor election campaign costs
 
 *2024-08-18 01:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-பிரசார-செலவுகளை-கண்காணிக்க-இணையத்தளம்/175-342354) · `ta`
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களின் பிரசார செலவுகளைக் கண்காணிக்கும் வகையில் இணையத்தளம் ஒன்று உருவாக்கப்பட்டுள்ளது.
+A website launched by six groups monitors election campaign spending, including Transparency International Sri Lanka.
 
-இந்த இணையத்தளம் ட்ரான்ஸ்பரன்சி இன்டர்நேஷனல் ஸ்ரீலங்கா நிறுவனம், மற்றும் பெப்ரல் அமைப்பு உள்ளிட்ட ஆறு தேர்தல் கண்காணிப்பு அமைப்புகளினால் உருவாக்கப்பட்டுள்ளது. (a)
+🟩
+
+A website has been created to monitor the propaganda expenses of candidates contesting the presidential election.
+
+The website has been developed by six election monitoring organizations, including Transparency International Sri Lanka Company and February.. (A)
 
 ◼️
 
 [Data](articles/39fa9e67.json)
+
+[Extended Data](ext_articles/39fa9e67.ext.json)
 
 ---
 
@@ -338,23 +360,31 @@ Gauging Bahu’s political legacy is in progress with many commentators making p
 
 [Data](articles/c5062ef1.json)
 
+[Extended Data](ext_articles/c5062ef1.ext.json)
+
 ---
 
 ### 2024-08-17 (Saturday)
 
-### சிலிண்டர் சின்னத்திற்கு சிக்கல்
+### Trouble for the cylinder symbol
 
 *2024-08-17 23:09:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்-சின்னத்திற்கு-சிக்கல்/175-342352) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு சிலிண்டர் சின்னம் வழங்கப்பட்டமை தொடர்பில் ஜன அரகலயே புரவெசியோ என்ற அமைப்பின் பொதுச் செயலாளர் சானக்க பண்டார தேர்தல்கள் ஆணைக்குழுவுக்கு முறைப்பாடொன்றை அளித்துள்ளார்.
+Jana Arakalee Puravasio, led by its General Secretary, has complained to the Elections Commission about the allocation of a cylinder symbol to President Ranil Wickremesinghe for the 2023 local government elections. They demand the symbol's return, claiming it was mistakenly assigned to him as an independent candidate.
 
-2023ஆம் ஆண்டில் உள்ளூராட்சி தேர்தலில் போட்டியிடுவதற்கு தமது அமைப்புக்கு அந்தச் சின்னம் வழங்கப்பட்டுள்ளது.
+🟩
 
-எனவே, சுயேட்சை வேட்பாளராகக் களமிறங்கியுள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு வழங்கிய அந்தச் சின்னத்தை மீளப்பெறுமாறு அந்த அமைப்பு கோரியுள்ளது. R
+General Secretary of the Janaka Arakalee Paravasio, Jana Arakalee Puravasio, has lodged a complaint with the Elections Commission on the issue of a cylinder symbol to President Ranil Wickremesinghe.
+
+The symbol has been given to their organization to contest the local government elections by 2023.
+
+Therefore, the organization has called for the recovery of the symbol given to President Ranil Wickremesinghe, the independent candidate.. Remble
 
 ◼️
 
 [Data](articles/419c344a.json)
+
+[Extended Data](ext_articles/419c344a.ext.json)
 
 ---
 
@@ -520,17 +550,23 @@ The PAFFREL organization states that trying to vote for voting during the electi
 
 ---
 
-### පුළුවන් ශ්‍රී ලංකා වැඩසටහන තුන් සිංහලය එකට එක්වන තැනක්
+### Can Sri Lanka's Program One Place One of the Sinhalese
 
 *2024-08-17 19:58:44* · [`adalk`](https://www.ada.lk/breaking_news/පුළුවන්-ශ්‍රී-ලංකා-වැඩසටහන-තුන්-සිංහලය-එකට-එක්වන-තැනක්/11-411417) · `si`
 
-පුළුවන් ශ්‍රී ලංකා වැඩසටහන රට බෙදන වැඩපිළිවෙලක් නොව රට රැකීමට තුන් සිංහලය එකට එක්වන තැනක් බව ජනාධිපතිවරණ ස්වාධීන අපේක්ෂක ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවැසීය.
+Rajapaksa, an independent candidate, clarifies the Sri Lanka Program isn't about dividing the nation but rather uniting Sinhalese to safeguard it. He made this statement at a wedding rally in Anuradhapura.
 
-අනුරාධපුරයේ අද(17දා) පැවති මංගල ජන රැළියට එක්වෙමින් ‌හෙතෙම මේ බව සඳහන් කළේය.
+🟩
+
+President Rajapaksa Independent Candidate President Ranil Wickremesinghe said that the Sri Lanka Program is not a program to divide the country but a single Sinhalese to defend the country.
+
+He was speaking at the wedding rally held in Anuradhapura today (17) he said.
 
 ◼️
 
 [Data](articles/69d44395.json)
+
+[Extended Data](ext_articles/69d44395.ext.json)
 
 ---
 

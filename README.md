@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 22:21:25**
+As of **2024-08-18 22:36:57**
 
 ## Newspaper Stats
 
-*Scraped **41,397** Articles*
+*Scraped **41,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,503
 dailyftlk | 2,676
 adalk | 3,806
 dailymirrorlk | 4,733
-adaderanalk | 4,842
+adaderanalk | 4,843
 tamilmirrorlk | 5,331
 virakesarilk | 6,561
 adaderanasinhalalk | 7,062
@@ -26,29 +26,55 @@ adaderanasinhalalk | 7,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,395 (100.0%) of 41,397 articles have been extended.
+41,397 (100.0%) of 41,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### හර්ෂිතාගෙන් ගෞරවාන්විත ශතකයක්
+### Sajith vows to uncover truth behind Easter attacks
+
+*2024-08-18 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101336/-sajith-vows-to-uncover-truth-behind-easter-attacks) · `en`
+
+Opposition Leader Sajith Premadasa has pledged to expose the truth behind the Easter Sunday terror attacks, fulfilling the expectations of the people, particularly the country’s Catholic community.
+
+Premadasa made this remark during a visit to the Colombo Archbishop’s residence, where he met with His Eminence Cardinal Malcolm Ranjith and the Assistant Bishops of the Colombo Archdiocese to seek their blessings.
+
+The SJB leader and presidential candidate assured that he has a clear plan to uncover the truth, a plan that has already been presented in Parliament.
+
+He emphasized that the entire nation, led by the Catholic community, is questioning whether the investigations into the Easter attacks were conducted transparently and whether the truth has been fully disclosed.
+
+During the meeting, Premadasa promised Cardinal Ranjith and the Bishops that he would leave no stone unturned in his pursuit of justice.
+
+...
+
+[Data](articles/8b5bdfe9.json)
+
+---
+
+### A dignified century from Hersheet
 
 *2024-08-18 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200080) · `si`
 
-ශ්‍රී ලංකා කාන්තා ක්‍රිකට් ඉතිහාසයේ එක්දින ජාත්‍යන්තර තරගයකදී ශතකයක් රැස්කළ තෙවැනි ක්‍රීඩිකාවට බවට පත්වීමට හර්ෂිතා සමරවික්‍රම සමත් වූවාය.
+Hersha Samarawickma made history as the third Sri Lankan woman cricketer to score a century, achieving this feat in the second ODI against Ireland. Her impressive performance included 11 fours off 120 balls, marking a significant achievement for the Sri Lankan team during their tour. This milestone follows Sampathi Gunaratne's century in the first ODI, highlighting a strong performance by Sri Lankan women's cricket.
 
-සත්කාරක අයර්ලන්ත කාන්තා කණ්ඩායමට එරෙහිව බෙල්ෆාස්හිදී පැවැත්වෙන දෙවැනි එක්දින තරගයේදී ඇය මෙම කඩයිම පසුකර ගියාය.
+🟩
 
-පන්දු 120කින් ගොඩනැගුණු හර්ෂිතාගේ ඉනිමට හතරේ පහර 11ක් ඇතුළත් විය.
+Hersha Samarawickma succeeded in a third sportswoman in the history of Sri Lanka women's cricket.
 
-ශ්‍රී ලංකා කණ්ඩායම මෙම අයර්ලන්ත සංචාරය සිදුකිරීමට පෙර ශ්‍රී ලංකාව වෙනුවෙන් එක්දින ශතකයක් රැස්කර තිබුණේ චමරි අතපත්තු පමණි.
+She passed the shop in the second ODI of Belfas against the host Irish women's group.
 
-කෙසේ නමුත් දෙරට අතර පළමු එක්දින තරගයේදී විශ්මි ගුණරත්න ශතකයක් රැස්කිරීමට සමත් වූවාය.
+Hersheet's innings included 11 fours for Hersheet's innings in 120 balls.
+
+The Sri Lankan team had to scored only one day century on behalf of Sri Lanka before the visit to this Irish tour.
+
+However, Sampathi Gunaratne scored a century in the first ODI between the two countries.
 
 ◼️
 
 [Data](articles/b1eb9c4f.json)
+
+[Extended Data](ext_articles/b1eb9c4f.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ Gunaratne had smashed her maiden ODI century on Friday (16) against hosts Irelan
 ◼️
 
 [Data](articles/eb9f1276.json)
+
+[Extended Data](ext_articles/eb9f1276.ext.json)
 
 ---
 
@@ -2351,29 +2379,5 @@ Wellawaya OIC Karunatilake is investigating them.
 [Data](articles/4a7e08b4.json)
 
 [Extended Data](ext_articles/4a7e08b4.ext.json)
-
----
-
-### Air Force fighters to southern Leban
-
-*2024-08-18 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200052) · `si`
-
-In Southern Lebanon, 10 civilians including two children died due to an Israeli airstrike, with five others injured. The Israeli military claimed the target was Hezbollah weapons. In retaliation, Hezbollah launched 55 rockets towards a village in Northern Israel.
-
-🟩
-
-International media reports say that 10 civilians have killed the death of the Israeli Army in the city of South Lebana.
-
-Two children are among the deceased. 5 others were injured.
-
-Meanwhile, the Israeli military said that the attack was targeted at a weapon used by the Hezbollah.
-
-In response, the Hezbollah announced that there were 55 rockete attacks to a village in northern Israel.
-
-◼️
-
-[Data](articles/6cb74957.json)
-
-[Extended Data](ext_articles/6cb74957.ext.json)
 
 ---

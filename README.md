@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 14:55:45**
+As of **2024-08-18 15:06:16**
 
 ## Newspaper Stats
 
-*Scraped **41,345** Articles*
+*Scraped **41,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,503
 dailyftlk | 2,676
-adalk | 3,797
+adalk | 3,799
 dailymirrorlk | 4,733
-adaderanalk | 4,834
-tamilmirrorlk | 5,318
+adaderanalk | 4,835
+tamilmirrorlk | 5,319
 virakesarilk | 6,552
 adaderanasinhalalk | 7,049
 
@@ -26,59 +26,125 @@ adaderanasinhalalk | 7,049
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,342 (100.0%) of 41,345 articles have been extended.
+41,345 (100.0%) of 41,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### சஜித் நாற்பதாண்டுகளின் பின்னர் நாட்டின் அனைத்து இனங்களையும் ஒன்றிணைக்கும் ஜனாதிபதியாக வருவார் - இராதாகிருஷ்ணன்
+### Anura Kumara pledges to remove VAT on essential items
+
+*2024-08-18 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101326/anura-kumara-pledges-to-remove-vat-on-essential-items) · `en`
+
+National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake says that steps will be taken to remove the Value Added Tax (VAT) imposed on food, health services, and school supplies after his election victory.
+
+Speaking at a public rally in Galle yesterday (16), he emphasised the urgency of the NPP taking over the country’s leadership to address the current crises.
+
+“NPP’s leadership is needed to pull the nation back from its critical state”, said Dissanayake.
+
+He further stated that their recent proposal for a new electricity generation plan was presented on August 15, which aims to reduce electricity tariffs by one third and remove VAT on essential items including food, health services and school supplies in the first budget proposal itself.
+
+NPP’s leader further criticized other candidates for focusing on their personal interests rather than prioritizing the welfare of the people.
+
+◼️
+
+[Data](articles/88ee5057.json)
+
+---
+
+### වර්ෂාව ලබන 21 දක්වා - ඉදිරි පැය 24 තළ මි.මී.75ට වැඩි තරමක තද වැසි
+
+*2024-08-18 14:43:34* · [`adalk`](https://www.ada.lk/breaking_news/වර්ෂාව-ලබන-21-දක්වා---ඉදිරි-පැය-24-තළ-මි-මී-75ට-වැඩි-තරමක-තද-වැසි/11-411429) · `si`
+
+ඉදිරි පැය 24ක කාලය තුළ ප්‍රදේශ කිහිපයකට මිලිමීටර් 75ට වැඩි තරමක තද වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඒ අනුව බස්නාහිර, සබරගමුව සහ වයඹ යන පළාත් වලත්, මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර යන දිස්ත්‍රික්ක වලත් මෙලෙස මිලිමීයර 75ට වැඩි තරමක තද වැසි ඇති විය හැකි බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මේ අතර පවතින වැසි සහිත කාලගුණික තත්ත්වය ලබන 21 වැනිදා දක්වා බලාපොරොත්තු විය හැකි බව කාර්යයේ නියුතු කාලගුණ විද්‍යාඥ මලිත් ප්‍රනාන්දු මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/237ec81a.json)
+
+---
+
+### சாரதி வெட்டிக் கொலை
+
+*2024-08-18 14:38:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-வெட்டிக்-கொலை/175-342384) · `ta`
+
+தலங்கம, அருக்பிட்டிய பகுதியில் உள்ள வாகனம் பழுது பார்க்குமிடம் ஒன்றில் 45 வயதான முச்சக்கர வண்டி சாரதி ஒருவர் வெட்டிக் கொல்லப்பட்டதையடுத்து, தலங்கம பொலிஸார் சம்பவம் தொடர்பில் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+சம்பவம் தொடர்பான நீதவான் விசாரணை முன்னெடுக்கப்படவுள்ளதாகவும் சம்பவத்தின் நோக்கம் அல்லது சந்தேக நபர்கள் தொடர்பான விவரங்கள் இதுவரை தெரிய வரவில்லை எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/492b0bb6.json)
+
+---
+
+### After forty years
 
 *2024-08-18 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191346) · `ta`
 
-சஜித் பிரேமதாச நாற்பதாண்டுகளின் பின்னர் இந்த நாட்டின் அனைத்து இனங்களையும் ஒன்றிணைக்கும் ஜனாதிபதியாக வருவார் என மலையக மக்கள் முன்னணியின் தலைவரும் தமிழ் முற்போக்கு கூட்டணியின் பிரதி தலைவரும் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான வேலுசாமி இராதாகிருஷ்ணன் தெரிவித்துள்ளார்.
+Velusamy Radhakrishnan predicts Sajith Premadasa will unify Sri Lanka's ethnicities post-2024 elections, criticizing past leaders for fostering division. He accuses current officials of issuing lucrative liquor licenses to supporters, implicating them in corruption. Radhakrishnan assures Sajith Premadasa's victory will revoke these permits, highlighting his team's unity and readiness among plantation voters.
 
-2024ஆம் ஆண்டு நடைபெறவுள்ள ஜனாதிபதித் தேர்தல் தொடர்பில் விழிப்புணர்வை ஏற்படுத்தும் வகையில் நேற்று (17) ஹட்டனில் ஊடகவியலாளர் சந்திப்பொன்றை ஏற்பாடு செய்திருந்தபோதே வேலுசாமி இராதாகிருஷ்ணன் இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டில் இனவாதத்தையும் சாதியவாதத்தையும் விதைத்து முன்னாள் ஜனாதிபதிகள் ஆட்சியில் இருந்ததாகவும், 40 வருடங்களின் பின்னர் சஜித் பிரேமதாசவே இந்த நாட்டில் அனைத்து இனங்களையும் ஒன்றிணைத்து நாட்டை அபிவிருத்திப் பாதைக்கு இட்டுச் செல்லும் ஒரேயொரு ஜனாதிபதி வேட்பாளர் எனவும் தெரிவித்தார்.
+Sajith Premadasa will be the president who will unite all the ethnicities of this country after forty years, said Velusamy Radhakrishnan, the leader of the Upcountry People's Front, Deputy Leader of the Tamil Progressive Alliance and Nuwara Eliya District Parliamentarian and Member of Parliament.
 
-இன்று ரணிலுக்கு ஆதரவாக இணைவோருக்கு மதுபான விற்பனை உரிமம் மற்றும் பணம் வழங்கப்படுவதாக ராதாகிருஷ்ணன் குற்றம் சாட்டினார்.
+Velusamy Radhakrishnan said this while organizing a media briefing in Hatton yesterday (17) to raise awareness about the presidential election to be held in 2024.
+
+He said that the former presidents had been in power by sowing racism and casteism in the country and that after 40 years, Sajith Premadasa was the only presidential candidate that would unite all races in this country and lead the country.
+
+Radhakrishnan alleges that the liquor sales and money licenses are being issued to those who support Ranil today.
 
 ...
 
 [Data](articles/71188aa8.json)
 
+[Extended Data](ext_articles/71188aa8.ext.json)
+
 ---
 
-### විදේශ ආධාර ලබාගෙන රට ගොඩදානවා - සජිත්
+### Cave the country with foreign aid - Sajith
 
 *2024-08-18 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200067) · `si`
 
-තම පාලනයක් යටතේ විදේශ රටවල ආධාර ලබාගෙන රට ගොඩගන්නා වැඩසටහන දියත් කරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa criticizes the government for misusing foreign aid, emphasizing the importance of directly aiding the people instead of enriching politicians. He highlights the plight of flood and landslide victims in Kalutara, pledging to address national issues with international assistance, focusing on genuine development and welfare.
 
-"සංවර්ධනය නමින් දියුණුව නමින් අපි අදහස් කරන්නේ මෙරට ලක්ෂ 220කගේ සංවර්ධනයි. ඔබගේ දියුණුවයි. දියුණුව කියලා ඉලක්කම් ඉදිරිපත් කළාට වැඩක් නැහැ. දියුණුව සංවර්ධනට, සුබසාධනය මුදල් පසුම්බියට දැනෙන්න ඕනේ. අද වරදාන, වරප්‍රසාද භුක්ති විඳින්නේ ජනාධිපති හා ආණ්ඩුව. ලක්ෂ 220ක් අනාථ කරලා මැතිවරණයක් ළං වෙනකොට බොරු උප්පරවැට්ටි පොරොන්දු ඉදිරිපත් කරලා සීනිබෝල ලබාදීලා මේ අය හිතාගෙන ඉන්නවා මෙදා පාරත් රටේ ජනතාව රවට්ටන්න පුළුවන් කියලා. මේ අවස්ථාවේ රටේ සුවහසක් ජනතාව රැවටෙන්නට සූදානම් නැහැ. ගංවතුර, නායයාම් අවදානම් තිබීයදීත් කළුතර දිස්ත්‍රික්යේ ජනතාව ආවා. මේ ජනතාව මෙතෙන්නට රැස්වෙලා තියෙන්නේ සාමාන්‍ය ජනතාවට කැක්කුමක් තියෙන මේ රටේ සාමාන්‍ය ජනතාව වෙනුවෙන් කැපවීම්කරන පොදුජන සංවර්ධන යුගයක් වෙනුවෙන් අපිට හයිය දෙන්න. අපි සූදානම් මේ රටේ ප්‍රශ්නවලට විසඳුම් සපයන්න. මම ඔබට කියනවා අපේ රටේ මුදල්වලටත් විදේශිය රටවල ණය නෙමෙයි, ආධාර උපකාර අරගෙන  රට ගොඩගන්න වැඩසටහන අපි දයත් කරනවා."
+🟩
 
-◼️
+Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, Sagith Premadasa, the president's president's arrival is being launched and launched in a foreign land under its control.
+
+...
 
 [Data](articles/e3ed99f9.json)
 
+[Extended Data](ext_articles/e3ed99f9.ext.json)
+
 ---
 
-### இரண்டு கார்கள் ஒன்றுடன் ஒன்று மோதி விபத்து - 07 பேர் காயம்
+### Two cars collide with one another - 07 injured
 
 *2024-08-18 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191355) · `ta`
 
-கொழும்பு - கண்டி பிரதான வீதியில் கேகாலை மொலகொட பிரதேசத்தில் இன்று ஞாயிற்றுக்கிழமை (18) இரண்டு கார்கள் ஒன்றுடன் ஒன்று மோதி விபத்து ஏற்பட்டதில் 07 பேர் காயமடைந்துள்ளதாக கேகாலை பொலிஸார் தெரிவித்துள்ளனர்.
+A collision between two cars on the Colombo-Kandy road resulted in seven injuries, including children and adults from both Kandy and Colombo areas. The accident occurred when the driver, heading towards Colombo from Kandy, fell asleep at the wheel.
 
-காரில் பயணம் செய்தவர்களுள் 3 பேர் கண்டி பிலிமத்தலாவை பிரதேசத்தைச் சேர்ந்தவர்கள்; மற்றைய 4 பேரும் கொழும்பு களனி பிரதேசத்தைச் சேர்ந்தவர்கள் ஆவர்.
+🟩
 
-விபத்தில் 8 மாத குழந்தை, 01 வயது 6 மாதக் குழந்தை, மூன்று பெண்கள் மற்றும் இரண்டு ஆண்கள் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Seven people were injured in a collision with two cars on Sunday (18) in the Kegalle on the Colombo -Kandy main road, police said.
 
-மேலும், கண்டியிலிருந்து கொழும்பு நோக்கி பயணித்த காரின் சாரதி வாகனம் செலுத்திக்கொண்டிருந்தபோது உறங்கியமையினாலேயே விபத்து இடம்பெற்றுள்ளது எனவும், காயமடைந்தவர்களின் நிலைமை கவலைக்கிடமாக இல்லை எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+Three of the car passengers were from the Pilimathalawa area of ​​Kandy;The other four are from the Colombo Kelaniya area.
+
+8 months old, 01 years old 6 months old, three women and two men were injured in the accident, police said.
+
+In addition, police said that the driver of the car traveling from Kandy to Colombo was driving the accident due to sleeping.
 
 ◼️
 
 [Data](articles/5e13c127.json)
+
+[Extended Data](ext_articles/5e13c127.ext.json)
 
 ---
 
@@ -805,6 +871,26 @@ The launch of the Fund Finance Observatory was held on Friday (16) at the Bandar
 [Data](articles/a823069a.json)
 
 [Extended Data](ext_articles/a823069a.ext.json)
+
+---
+
+### අයිස් සමග එස්.අයි. අල්ලයි
+
+*2024-08-18 10:25:34* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සමග-එස්-අයි--අල්ලයි/11-411423) · `si`
+
+වැල්ලම්පිටිය  කිත්තම්පහුව ලැගුම්හලක් තුළදී බ්ලූ මැන්ඩල්  පොලිසියට අනුයුක්ත උප පොලිස් පරීක්ෂකවරයෙකු අයිස් මත්ද්‍රව්‍ය  සමග  අත්අඩංගුවට ගත් බව වැල්ලම්පිටිය පොලිසිය කියයි.
+
+සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 100 ක් පොලිස් භාරයට ගෙන ඇත.
+
+වැල්ලම්පිටිය පොලිසියේ  නිලධාරීන් කණ්ඩායමක් ඉකුත් 17 වෙනි දින  සිදු කරන ලද වැටලීමේදී එහි සිටි පුද්ගලයෙකු අත්අඩංගුවට ගෙන පරික්ෂා කිරීමේදී මත්ද්‍රව්‍ය  ළඟ තබා ගැනීමේ වරදට අත්අඩංගුවට ගෙන ඇති අතර වැඩිදුරටත් ප්‍රශ්න කිරීමේදී ඔහු පොලිස් නිලධාරියකු බවට අනාවරණය වී යැයි  උසස් පොලිස් නිලධාරියෙකු පැවසීය.
+
+සැකකාර උප පොලිස් පරීක්ෂකවරයා 2019 වර්ෂයේ ජනවාරි මස පොලිස්  සේවයට එක්වූ අයෙක් බව වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත.
+
+අනුරාධපුර දෙවන පියවර පදිංචි 27 හැවිරිදි  සැකකරු අලුත් කඩේ අංක දෙක අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/fa2370d4.json)
 
 ---
 
@@ -2201,93 +2287,5 @@ However, the 49-year-old female Deputy Principal has allegedly instructed the vi
 [Data](articles/67822069.json)
 
 [Extended Data](ext_articles/67822069.ext.json)
-
----
-
-### Follow these tips if rain enhances
-
-*2024-08-17 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200044) · `si`
-
-The Disaster Management Center warns of potential landslides and advises caution due to heavy rainfall exceeding 200mm, especially in mountainous regions. The public is urged to stay alert as the situation may worsen with further showers.
-
-🟩
-
-The Disaster Management Center (DMC) has been informed of the public due to the opening of the sluice gates of the chicken reservoir.
-
-Meanwhile, landslide warnings were issued for several districts with heavy rainfall.
-
-In particular, the people also informed the masses to be more concerned about landslides in the mountainous areas.
-
-Deputy Director of Disaster Management Center Deputy Director Pradeep Kodippili, which speaks of existing conditions,
-
-"It is very important that the people on either side of the small river are very important. The rainfall has been overweight. Showers over 200 mm. As a result, the characteristics of landslides. In addition to the rainy industry, it is impressive on mudslinging water springs and sometimes dried. "
-
-Following is the following landslide pre-warning announcement from 4 pm tomorrow (17) at 4 pm.
-
-◼️
-
-[Data](articles/2b4527f1.json)
-
-[Extended Data](ext_articles/2b4527f1.ext.json)
-
----
-
-### Diane that brought the reincarnation?
-
-*2024-08-17 18:29:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மறுபிறவி-எடுத்து-வந்த-டயானா/53-342332) · `ta`
-
-Australian journalist David Campbell claims his son Billy knows detailed stories about Princess Diana, including her life, death, and a previously unknown brother John. Billy reportedly identified himself as Diana in photos and described events from her life, leading to widespread surprise and debate over reincarnation.
-
-🟩
-
-There is an international debate on Princess Diana.. Who is David?Who is Billy?Is this child saying true?Surprise and confusion have erupted worldwide.
-
-David Campbell belongs to Australia. He works as an anchor on a popular channel there.  இவரது மகன் பெயர் பில்லி காம்பெல்.
-
-David has released shocking reports that Princess Diana, UK, is currently reincarnated and was born as her son.. David said:
-
-“Princess Diana died in a car accident in 1997.  அவர் இறந்து 18 வருடம் கழித்துதான், பில்லி எனக்கு பிறந்தான். As he was a 2 -year -old child, Diana showed the photo and said in the words "I am.". We all laughed at this. We thought the child was talking about something.
-
-But, at the age of 4, Diana has begun to tell the details of life.  டயானாவின் வாழ்க்கை, அவரது துயர மரணம் இதுகுறித்தெல்லாம் துல்லியமாக பில்லி சொன்னான். Hearing what he was talking about, my wife and I were silent. The reason is that we have not been so accurately aware of Diana or the UK royal family.
-
-...
-
-[Data](articles/2ed67739.json)
-
-[Extended Data](ext_articles/2ed67739.ext.json)
-
----
-
-### Will  Rajitha Senaratne’s Crossover  Trigger More Defections of MPs From SJB to Ranil’s Side?
-
-*2024-08-17 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84559) · `en`
-
-Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha  Senaratne is the latest among well-known politicians to throw in their lot with incumbent president Ranil Wickremesinghe. The Samagi Jana Balawegaya(SJB) MP for Kalutara district met with the president at the Gangaramaya temple in Colombo on 13 August and signed a memorandum of understanding (MOU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for  21 September 2024.Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
-
-Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports,  Senaratne  had stated  this motivated  him into  supporting  Wickremesinghe’s candidacy.
-
-...
-
-[Data](articles/09d4eecc.json)
-
-[Extended Data](ext_articles/09d4eecc.ext.json)
-
----
-
-### President Wickremesinghe   points out that  other main presidential candidates are  not opposed to the agreement with the IMF and that they have openly said they will continue with it.
-
-*2024-08-17 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84566) · `en`
-
-A total of 39 candidates are contesting in Sri Lanka’s ninth Presidential Election scheduled to be held on 21 September. This is a record number of candidates contesting in an election in the history of Presidential Elections of the country.
-
-Until now, the Presidential Election has been a direct contest between candidates of two main political parties or alliances led by them. But this time the election will be a three-way contest between incumbent President Ranil Wickremesinghe, Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa, and National People’s Power (NPP) Leader Anura Kumara Dissanayake.
-
-ng disturbing comments, questioning whether there is a chance of a change in the scenario of a three-way contest after the entry of Namal Rajapaksa, the National Organiser of the Sri Lanka Podujana Peramuna (SLPP) and the eldest son and political heir of former President Mahinda Rajapaksa into the fray.
-
-...
-
-[Data](articles/2a617021.json)
-
-[Extended Data](ext_articles/2a617021.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 10:21:14**
+As of **2024-08-18 10:36:39**
 
 ## Newspaper Stats
 
-*Scraped **41,292** Articles*
+*Scraped **41,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,502
 dailyftlk | 2,676
 adalk | 3,793
 dailymirrorlk | 4,733
-adaderanalk | 4,826
+adaderanalk | 4,827
 tamilmirrorlk | 5,304
 virakesarilk | 6,539
 adaderanasinhalalk | 7,036
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,290 (100.0%) of 41,292 articles have been extended.
+41,292 (100.0%) of 41,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### Volcano erupts in Russia after 7.0-magnitude earthquake
+
+*2024-08-18 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101317/volcano-erupts-in-russia-after-70-magnitude-earthquake) · `en`
+
+A volcano has erupted following a 7.0-magnitude earthquake that struck off Russia’s east coast, spurting a column of ash miles into the air, according to state-run media.
+
+The Shiveluch volcano is around 280 miles from Petropavlovsk-Kamchatsky, a coastal city with a population of about 180,000 that lies in Russia’s eastern region of Kamchatka.
+
+“According to visual evaluations, the ash column is rising as high as 8 kilometers (5 miles) above the sea level,” TASS reported Sunday morning local time, adding the volcano had released a gush of lava.
+
+According to the US Geological Survey (USGS), the quake’s epicenter was about 55 miles from Petropavlovsk-Kamchatsky and had a depth of about 30 miles.
+
+No “major damage” was caused by the quake, TASS reported, however, “buildings are now being examined for potential damage, with special attention paid to social facilities.”
+
+The Russian Emergencies Ministry did not issue a tsunami warning due to the tremor, TASS reported.
+
+...
+
+[Data](articles/04c5a34f.json)
+
+---
 
 ### 7.0 magnitude earthquake strikes off coast of eastern Russia
 
@@ -48,19 +70,27 @@ But the Kamchatka branch of Russia’s emergency ministry reported that there wa
 
 [Data](articles/873108c2.json)
 
+[Extended Data](ext_articles/873108c2.ext.json)
+
 ---
 
-### අයර්ලන්තය සමග පැවැත්වෙන දෙවන තරගය අද
+### The second match with Ireland today
 
 *2024-08-18 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200053) · `si`
 
-සංචාරක ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහ අයර්ලන්ත කාන්තා කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය අද (18) පැවැත්වීමට නියමිතව තිබේ.
+Today's second ODI match between Sri Lanka Women and Ireland is pivotal after Ireland's victory in the first game.
 
-දෙරට අතර පැවති පළමු එක්දින තරගයේ ජය අයර්ලන්ත කාන්තා කණ්ඩායම හිමි කර ගත් අතර අද තරගය කණ්ඩායම් දෙකටම තීරණාත්මක තරගයක් වී තිබේ.
+🟩
+
+The second ODI match between Sri Lanka Women's Team and the Irish women's group will be held today (18).
+
+The Irish Women's Group won the first ODI between the two countries and today the match has been a crucial match for both groups.
 
 ◼️
 
 [Data](articles/6c33374f.json)
+
+[Extended Data](ext_articles/6c33374f.ext.json)
 
 ---
 
@@ -2251,23 +2281,5 @@ It has been revealed that the government is planning to import small amounts of 
 [Data](articles/e9943e8d.json)
 
 [Extended Data](ext_articles/e9943e8d.ext.json)
-
----
-
-### Floods risk for three areas
-
-*2024-08-17 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200021) · `si`
-
-The Irrigation Department warns of flood risks in low-lying, privately owned areas near the Kalu River's sub-roads.
-
-🟩
-
-The Irrigation Department alerted to the lowlands of the low-owned areas of the Kalu Ganga's sub-roads in the sub-road area of ​​the Kalu River..
-
-◼️
-
-[Data](articles/94d1a8ab.json)
-
-[Extended Data](ext_articles/94d1a8ab.ext.json)
 
 ---

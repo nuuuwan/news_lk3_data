@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 11:07:00**
+As of **2024-08-18 11:21:27**
 
 ## Newspaper Stats
 
-*Scraped **41,300** Articles*
+*Scraped **41,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,502
 dailyftlk | 2,676
 adalk | 3,794
 dailymirrorlk | 4,733
-adaderanalk | 4,827
+adaderanalk | 4,828
 tamilmirrorlk | 5,309
 virakesarilk | 6,539
 adaderanasinhalalk | 7,037
@@ -26,29 +26,53 @@ adaderanasinhalalk | 7,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,299 (100.0%) of 41,300 articles have been extended.
+41,300 (100.0%) of 41,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### ග්‍රාම නිලධාරි වෘත්තිය ක්‍රියාමාර්ගය තාවකාලිකව අවසන් කරයි
+### Sri Lanka aiming for over 1 million tourist arrivals in last five months of 2024
+
+*2024-08-18 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101318/sri-lanka-aiming-for-over-1-million-tourist-arrivals-in-last-five-months-of-2024-) · `en`
+
+The Chairman of Sri Lanka Tourism Promotion Bureau (SLTPB) Chalaka Gajabahu says they expect the arrival of over one million tourists during the last five months of this year, in order to achieve the annual target of 2.3 million tourist arrivals for the year.
+
+Addressing a media briefing held in Colombo, the SLTPB Chairman stated that the tourism promotion campaigns carried out by the SLTPB have showed results, adding that they expect the country’s situation to be at ease to achieve this target.
+
+He also mentioned that the soft launch of the mobile application for Sri Lanka Tourism will take place in October.
+
+Meanwhile, the Managing Director of the SLTPB Nalin Perera highlighted that digital and promotion campaigns for 5 main markets will kick off in the month of September.
+
+◼️
+
+[Data](articles/c5d61207.json)
+
+---
+
+### The Grama Niladhari concludes the professional program
 
 *2024-08-18 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200055) · `si`
 
-සිය වෘත්තීය ක්‍රියාමාර්ගය අද (18) මධ්‍යම රාත්‍රියේ සිට තාවකාලිකව අවසන් කරන බව ග්‍රාම නිලධාරි වෘත්තිය සමිති සන්ධානය පවසයි.
+Grama Niladhari Trade Union Yoki is temporarily concluding its activities from midnight today to support the presidential election, where one of its members served as an election officer. This comes amid ongoing trade union actions since May 4, demanding improvements in Grama Niladhari services and divisions. Additionally, the Grama Niladhari Register Alliance (UPFA) has initiated a black protest week from August 12, set to end tonight, highlighting ongoing labor disputes.
 
-ග්‍රාම නිලධාරියා, මැතිවරණ නිලධාරියෙක් බැවින් එළැඹෙන ජනාධිපතිවරණයේදී සිය උපරිම දායකත්වය ලබාදීමේ අරමුණෙන් එම තීරණය ගත් බව එහි සම සභාපති නන්දන රණසිංහ මහතා අද (18) සඳහන් කළේය.
+🟩
 
-ග්‍රාම නිලධාරි සේවා ව්‍යවස්ථාවන් සහ ග්‍රාම නිලධාරි දිමනාවන් වත්මන් ආර්ථික තත්ත්වයට ගැලපෙන ලෙස සකස්කර දෙන ලෙස ඉල්ලමින් දිවයින් පුරා ග්‍රාම නිලධාරිවරු මැයි 04 වනදා සිට වෘත්තීය ක්‍රියාමාර්ගයක් ආරම්භ කර කළහ.
+The Grama Niladhari Trade Union Yoki says that his trade union will be temporarily concluded from midnight today (18).
 
-මේ අතර ග්‍රාම නිලධාරි වෘත්තිය සමිති සන්ධානය විසින් අගෝස්තු 12 වනදා සිට 18 වනදා දාක්වා කළු විරෝධතා සතියක් අරම්භකර තිබුණු අතර එයද අද මධ්‍යම රාත්‍රීයේ සිට අවසන් කිරීමට නියමිතව ඇති බව ග්‍රාම නිලධාරි වෘත්තිය සමිති සන්ධානයේ සම සභාපතිවරයා පැවසීය.
+The decision was taken to contribute his maximum contribution in the presidential election, as the Grama Niladhari was an election officer today (18).
 
-එමෙන්ම මැයි 17 වනදා සිට මේ දක්වා ග්‍රාම නිලධාරිවරුන් විසින් ක්‍රියාත්මකළ අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයද අද මධ්‍යම රාත්‍රියේ සිට අවසන් වන බව ග්‍රාම නිලධාරි වෘත්තිය සමිති සන්ධානයේ සම සභාපතිවරයා වැඩිදුරටත් පැවසීය.
+The Grama Niladharis throughout the island have launched a trade union action from May 4, demanding the preparation of Grama Niladhari Service and Grama Niladhari Divisions.
+
+Meanwhile, the Grama Niladhari Register Alliance (UPFA) has commenced a black protest week from August 12 and is scheduled to be completed in today's midnight.
+
+The co-chairman of UPFA further said that the trade union trade union trade union trade union trade union trade union trade union trade union trade union trade union trade said.
 
 ◼️
 
 [Data](articles/bfe76b63.json)
+
+[Extended Data](ext_articles/bfe76b63.ext.json)
 
 ---
 
@@ -2235,35 +2259,5 @@ The fire had erupted in one house, and that the rapidly spread throughout the ye
 [Data](articles/f07855ce.json)
 
 [Extended Data](ext_articles/f07855ce.ext.json)
-
----
-
-### Fire in Punduloya;25 Line House Firekarai;86 people
-
-*2024-08-17 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191286) · `ta`
-
-A devastating house fire in Punduloya's Sean Lower Estate killed 86 people from 25 homes. Victims, including two-year-olds and three pregnant women, are sheltered temporarily. The cause is unknown, and power was cut off post-fire. Delays in the arrival of the Nuwara Eliya Municipal Fire Division hampered efforts to control the blaze.
-
-🟩
-
-The fire that broke out at the Sean Lower Estate, which is known as the Sean Old Garden of the Punduloya police division on Friday (16), has been burnt to death, police said.
-
-As 86 people belonging to the 25 houses affected by the fire, they have been temporarily housed in the temple hall and relatives' homes.
-
-Two -year -olds who were shocked by the incident have been admitted to the Kotmalai Divisional Hospital.
-
-Three pregnant mothers who have lost their homes have been kept safe in the houses of relatives.
-
-Police are investigating the cause and damage of the fire.
-
-At the same time, the electricity for the Sean estate was cut off shortly after the fire.
-
-It is reported that the youths have been struggling to bring the fire under control and that the Nuwara Eliya Municipal Fire Division has been invited and they have not arrived at the scene in a timely manner.
-
-◼️
-
-[Data](articles/b670c9e3.json)
-
-[Extended Data](ext_articles/b670c9e3.ext.json)
 
 ---

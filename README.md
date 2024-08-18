@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 22:36:57**
+As of **2024-08-18 22:54:00**
 
 ## Newspaper Stats
 
-*Scraped **41,398** Articles*
+*Scraped **41,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 4,843
 tamilmirrorlk | 5,331
 virakesarilk | 6,561
-adaderanasinhalalk | 7,062
+adaderanasinhalalk | 7,064
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,397 (100.0%) of 41,398 articles have been extended.
+41,398 (100.0%) of 41,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### දිලිත් ජයවීර උපායමාර්ගික සැලැස්ම පැහැදිලි කරයි
+
+*2024-08-18 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200082) · `si`
+
+ජනතාව බලාපොරොත්තු වන වෙනස සිදුකිරීමට සෙසු ජනාධිපතිධුර අපේක්ෂකයින් සතුව නැති උපාය මාර්ගික සැලැස්ම තමන් සතු බව සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+අද (18) මව්බිම ජනතා පක්ෂයේ ප්‍රධාන කාර්යාලයේ පැවති විද්වත් සහ ව්‍යවසායක හමුවක් අමතමින් ඒ මහතා මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/a50dfbaf.json)
+
+---
+
+### ශ්‍රී ලංකා ක්‍රීඩිකාවන්ට අනපේක්ෂිත පරාජයක්
+
+*2024-08-18 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200081) · `si`
+
+හර්ෂිතා සමරවික්‍රම ඉවසිලිවන්තව ගොඩනැගූ ශතකයේ වටිනාකම අපතේ යැවූ පසුපෙළ පිතිකාරිනියන්ගේ දුර්වල ක්‍රීඩා විලාශය නිසා අයර්ලන්ත කාන්තා කණ්ඩායම හමුවේ දෙවැනි එක්දින තරගයෙන්ද ලකුණු 15ක පරාජයක් ලැබීමට ශ්‍රී ලංකාවට සිදුවිය.
+
+ඒ අනුව තරග 03කින් යුත් තරගාවලියේ තවත් තරගයක් ඉතිරිව තිබියදීම තරගාවලිය ජයගැනීමට අයර්ලන්ත කාන්තා කණ්ඩායමට හැකිවිය.
+
+බෙල්ෆාස්ට්හිදී පැවති මෙම තරගයේ අයර්ලන්තයෙන් හිමි වූ ලකුණු 256ක ඉලක්කයට පිළිතුරු ලෙස ශ්‍රී ලංකාවට පන්දුවාර 48කට සියලු දෙනා දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 240ක් පමණි.
+
+◼️
+
+[Data](articles/0356e647.json)
+
+---
 
 ### Sajith vows to uncover truth behind Easter attacks
 
@@ -49,6 +79,8 @@ During the meeting, Premadasa promised Cardinal Ranjith and the Bishops that he 
 ...
 
 [Data](articles/8b5bdfe9.json)
+
+[Extended Data](ext_articles/8b5bdfe9.ext.json)
 
 ---
 
@@ -2327,57 +2359,5 @@ The Department of Meteorology has called for the people to take necessary steps 
 [Data](articles/b9f28a94.json)
 
 [Extended Data](ext_articles/b9f28a94.ext.json)
-
----
-
-### The rain or thunderstorm
-
-*2024-08-18 09:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையோ-அல்லது-இடியுடன்-கூடிய-மழையோ-பெய்யும்/175-342362) · `ta`
-
-Today, expect thundershowers in Kandy, Nuwara Eliya, Galle, and Matara, with heavy rains possible in the West and Sabaragamuwa provinces and Galle/Matara districts. Strong winds up to 30-40 km/h may hit the northern and northwestern regions. The Department of Meteorology advises caution against heavy winds and lightning during storms.
-
-🟩
-
-Thundershowers or thundershowers will occur today (18) in the Kandy, Nuwara Eliya, Galle and Matara districts, the Department of Meteorology.
-
-Heavy rains are likely to experience 75 millimeters in some areas in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-In the evening or night, the rest of the country can occur widely or thunderstorms.
-
-The Department of Meteorology has announced that strong winds are likely to blow at speeds of up to 30-40 km / h in the northern, northern and northwestern provinces and northern and northwestern provinces.
-
-The Department of Meteorology has called for the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/fddf5f8f.json)
-
-[Extended Data](ext_articles/fddf5f8f.ext.json)
-
----
-
-### Two schoolgirls missing in Wellawaya
-
-*2024-08-18 09:40:22* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවායේ-පාසල්-සිසුවියන්-දෙදෙනෙක්-අතුරුදන්/11-411422) · `si`
-
-Two 15-year-olds from Wellawaya went missing on the 15th. One lives in Kotaweheragalaya; her absence was noted when she didn't return home. Both girls are from the Kithulkotuwa area. A complaint was filed with the Wellawaya Police, who are now investigating under OIC Karunatilake.
-
-🟩
-
-Two fifteen-year-old students from the Wellawaya Police Division have disappeared from the 15th (15th), Wellawaya Police said.
-
-One of the two students, a national school in the Wellawaya, resides in the Kotaweheragalaya area, which has arrived at her house on her residence in the village.
-
-The two girls were not from home when we look the next day. The house owner has lodged a complaint with the Wellawaya Police.
-
-In a query from Wellawaya, the two girls have gone to go with their own residents of Kithulkotuwa area.
-
-Wellawaya OIC Karunatilake is investigating them.
-
-◼️
-
-[Data](articles/4a7e08b4.json)
-
-[Extended Data](ext_articles/4a7e08b4.ext.json)
 
 ---

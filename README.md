@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 21:36:48**
+As of **2024-08-18 21:55:43**
 
 ## Newspaper Stats
 
-*Scraped **41,391** Articles*
+*Scraped **41,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,77 @@ dailyftlk | 2,676
 adalk | 3,806
 dailymirrorlk | 4,733
 adaderanalk | 4,840
-tamilmirrorlk | 5,329
+tamilmirrorlk | 5,330
 virakesarilk | 6,561
-adaderanasinhalalk | 7,060
+adaderanasinhalalk | 7,061
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,390 (100.0%) of 41,391 articles have been extended.
+41,391 (100.0%) of 41,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### சுங்க திணைக்கள வண்டியில் சிக்கிய மது போத்தல்கள்
+### நிறைவேற்று அதிகார ஜனாதிபதி முறை நீக்கப்படும் ; சஜித் உறுதி
+
+*2024-08-18 21:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிறைவேற்று-அதிகார-ஜனாதிபதி-முறை-நீக்கப்படும்-சஜித்-உறுதி/175-342398) · `ta`
+
+ஐக்கிய மக்கள் சக்தி அரசாங்கத்தின் கீழ் நிறைவேற்று அதிகாரமுடைய ஜனாதிபதி முறைமை நீக்கப்பட்டு பாராளுமன்ற ஜனநாயக முறைமை ஏற்றுக்கொள்ளப்படும் என ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+ருவன்வெல்ல பிரதேசத்தில் இன்று (18) இடம்பெற்ற  ஐக்கிய மக்கள் சக்தி பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+ஜனாதிபதி முறைமையை மாற்றியமைப்பதாக எவ்வளவோ பேர் தம்பட்டம் அடித்தாலும் எவரும் செய்யவில்லை. எனக்கு பதவிகள் வேண்டாம். நான் ஒன்று உறுதியளிக்கிறேன். நிறைவேற்று ஜனாதிபதி முறைமை நிச்சயமாக ஒழிக்கப்படும்.
+
+ராஜபக்ஸவிடம் முறையிட்டு நாட்டை திவாலாக்கிய குழுவின் பிரதான பாதுகாவலர் தான் ஜனாதிபதி. ராஜபக்ஸவை பாதுகாக்கும் பொலிஸ்மா அதிபர் ரணில் விக்ரமசிங்க என்றும் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/d1243539.json)
+
+---
+
+### අර්ජුන මහේන්ද්‍රන්ව ලංකාවට ගේනවා - අනුර කුමාර
+
+*2024-08-18 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200079) · `si`
+
+තමන් ජනපති වූ පසු මහ බැංකු වංචාවට අධිකරණයෙන් රතු වරේන්තු නිකුත් කර සිටින අර්ජුන මහේන්ද්‍රන්ව ලංකාවට රැගෙන එන බව ජාතික ජන බලවේගය ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+අද (18) කිරිබත්ගොඩ පැවති ජන හමුවකට එක්වෙමින් හෙතෙම මේ බව පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අනුරාධපුරයේ පැවති ජන රැළියකදී "අනුර මේකට උත්තර දියාපියෝ" යනුවෙන් කළ ප්‍රකාශයකට පිළිතුරු දෙමින් දිසානායක මහතා මේ බව පැවසීය.
+
+"මං දැක්කා අනුරාධපුරයේදී රනිල් වික්‍රමසිංහ අහනවා ප්‍රශ්නයක් අනුර මේකට උත්තර දීපිය, ආ දියාපියෝ (සිනහවකින්).  අපි අපහාස කරන්න ඕන නැහැනේ, අපි කවුරුත් වයසට යනවානේ.
+
+මං එක උත්තරයක් කියන්නම්.  මහ බැංකු වංචාවට සම්බන්ධවෙලා අධිකරණයෙන් රතු වරෙන්තු නිකුත් කරලා සිංගප්පූරුවට පැනලා ඉන්න අර්ජුන මහේන්ද්‍රව ලංකාවට ගේනවා. අර්ජුන මහේන්ද්‍ර කෝප් කමිටුවේ කටඋත්තරයක් දුන්නා මේ ගණුදෙනුව කරන්න කියලා උපදෙස් දුන්නේ මහ බැංකු භාර ඇමති රනිල් වික්‍රමසිංහ කියලා. අර්ජුන මහේන්ද්‍රන්ව රටෙන් පැන්නුවා.
+
+...
+
+[Data](articles/8f3738e2.json)
+
+---
+
+### Wine bottles caught in the Customs Department
 
 *2024-08-18 21:13:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுங்க-திணைக்கள-வண்டியில்-சிக்கிய-மது-போத்தல்கள்/175-342397) · `ta`
 
-சுங்க திணைக்களத்துக்கு சொந்தமான கெப் வண்டியொன்றில் இருந்து சுமார் 20 இலட்சம் ரூபா பெறுமதியான வெளிநாட்டு மதுபான போத்தல்களை துறைமுக பாதுகாப்பு பிரிவினர் இன்று (18)  கைப்பற்றியதாக துறைமுக அதிகார சபையின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+Customs officials seized 158 foreign liquor bottles worth Rs 20 lakh from a cab, attempting to smuggle them through the port. The driver has been confessed.
 
-குறித்த வண்டியில் இருந்து 158 வெளிநாட்டு மதுபானப் போத்தல்களைக் கைப்பற்றியதாகவும், துறைமுக எண் 2 எல்.பி வாயிலில் இருந்து மதுபானத்தை வெளியே எடுக்க முயன்றதாகவும் அந்த அதிகாரி தெரிவித்தார்.
+🟩
 
-வாகன சாரதியிடம் வாக்குமூலம் பதிவு செய்யப்பட்டுள்ளதாகவும் அந்த அதிகாரி மேலும் குறிப்பிட்டுள்ளார் R
+A senior official of the Ports Authority said that the Port Security Division seized foreign liquor bottles worth Rs 20 lakh from a cab owned by the Customs Department today.
+
+The official said that he had seized 158 foreign liquor bottles from the car and tried to take the liquor out of the LP gate.
+
+The official further stated that the confession has been registered with the driver.
 
 ◼️
 
 [Data](articles/c754db82.json)
+
+[Extended Data](ext_articles/c754db82.ext.json)
 
 ---
 
@@ -2339,61 +2383,5 @@ Despite being abroad, Taksin's hand was in the politics of Thailand. In the regi
 [Data](articles/2e9ad61c.json)
 
 [Extended Data](ext_articles/2e9ad61c.ext.json)
-
----
-
-### Public pardon for former Prime Minister Taksin Shinawatra
-
-*2024-08-18 09:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-பிரதமர்-தக்சின்-ஷினவத்ராவுக்கு-பொது-மன்னிப்பு/50-342358) · `ta`
-
-Taksin Shinawatra, former Thai PM (2001-2006), granted amnesty on King Maha Vajiralongkorn's birthday. Accused of corruption and ousted in a military coup, he lived abroad for 15 years. His return in 2023 saw him briefly imprisoned before his sentence was reduced. His daughter, Pannika, became PM after the Constitutional Court removed her predecessor. Taksin's public pardon allows him immediate release from corruption charges.
-
-🟩
-
-Former Prime Minister Taksin Shinawatra has been granted amnesty as part of the birthday party of King Maha Vajiralongorn, Thailand.
-
-Taksin Shinawatra was the prime minister of South East Asia, Thailand, from 2001 to 2006. The owner of the telecommunications company;Great rich.
-
-During his tenure, protests were carried out alleging that corruption and abuse of power. In this case, the military revolution took place and the rule of Taksh was overthrown.
-
-He had fled abroad for 15 years in countries, including Cambodia, in fear of arrests, as his party was banned and the politics of Taksin.
-
-Despite being abroad, Taksin's hand was in the politics of Thailand. In the regime change in 2011, his younger sister Englak Shinawatra became Prime Minister. However, Taksin stayed abroad. During the change, he had the opportunity to return to his homeland.
-
-...
-
-[Data](articles/a1ba5ab0.json)
-
-[Extended Data](ext_articles/a1ba5ab0.ext.json)
-
----
-
-### Gajamuthu have been in two places
-
-*2024-08-18 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200051) · `si`
-
-In two locations across the country, police have arrested several individuals linked to Gajamuthu. In the Poonagar area, Evlampattu police nabbed two locals suspected of possessing Gajamuthu. Additionally, the STF arrested three suspects in Puttalam for allegedly planning to sell Gajamuthu, based on intel from Air Force Intelligence about SLAF Buddhism's activities. These arrests involve residents from Gokarella, Mawanella, and Puttalam, with the suspects' properties being handed over for further investigation.
-
-🟩
-
-The police have arrested several suspects in the Gajamuthu on two areas in the country.
-
-Evlampattu police have arrested two suspects in possession of two Gajamuthu during a raid conducted by the police in Poonagar area.
-
-The suspects are residents of Gokarella area and the Evtlampattu police will be conducted in this regard.
-
-Meanwhile, the STF has been arrested for selling three suspects in the lagoon in Puttalam.
-
-The STF has been conducted on information received by the Air Force Intelligence that the SLAF Buddhism was preparing to sell these gycas.
-
-The suspects were arrested by a strategic and two of them are residents of Mawanella and another resident of Puttalam.
-
-Police Special Forces Special Army has handed over the suspects and their entries from their resorts to the police for further investigations.
-
-◼️
-
-[Data](articles/a666d831.json)
-
-[Extended Data](ext_articles/a666d831.ext.json)
 
 ---

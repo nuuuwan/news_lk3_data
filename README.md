@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 01:06:18**
+As of **2024-08-19 01:21:24**
 
 ## Newspaper Stats
 
-*Scraped **41,408** Articles*
+*Scraped **41,410** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 352
 newsfirstlk | 363
 bbccomsinhala | 382
-colombotelegraphcom | 394
+colombotelegraphcom | 395
 islandlk | 2,392
 economynextcom | 2,504
 dailyftlk | 2,676
 adalk | 3,807
 dailymirrorlk | 4,733
 adaderanalk | 4,843
-tamilmirrorlk | 5,331
+tamilmirrorlk | 5,332
 virakesarilk | 6,567
 adaderanasinhalalk | 7,064
 
@@ -26,9 +26,29 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,408 (100.0%) of 41,408 articles have been extended.
+41,408 (100.0%) of 41,410 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-19 (Monday)
+
+### ’தமிழ் மக்கள் ஆதரிக்கின்றவர் ஜனாதிபதியாக வேண்டும்’
+
+*2024-08-19 00:49:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்கள்-ஆதரிக்கின்றவர்-ஜனாதிபதியாக-வேண்டும்/175-342414) · `ta`
+
+பன்முகப்படுத்தப்பட்ட நிதியில் இம்முறை பல அபிவிருத்தி திட்டங்களை  என்னால் மேற்கொள்ள முடிந்துள்ளது. வருகின்ற ஜனாதிபதித் தேர்தலில் தமிழ் மக்கள் ஆதரிக்கின்ற ஒருவர்தான் இந்த நாட்டிலே ஜனாதிபதியாக வரவேண்டும்.
+
+அவ்வாறான சூழல் வருகின்றபோது தான் தமிழ்  மக்களின்  அரசியல்  சார்ந்த விடயங்களை முன்னெடுக்க முடியும் என மட்டக்களப்பு  மாவட்ட  பாராளுமன்ற  உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பு களுவாஞ்சிக்குடி சாயி சிறுவர் விளையாட்டு விழா  களுவாஞ்சிகுடியில் சனிக்கிழமை (17) மாலை  நடைபெற்றது.  இதன்போது  கலந்து  கொண்டு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+நாம்  அபிவிருத்தி  சார்ந்த  விடயங்களையும்  நாம்  முன்னெடுக்க  வேண்டும்.  எமது தேர்தல் விஞ்ஞாபனத்தில் கூட உரிமையுடன் கூடிய  அபிவிருத்தியை  முன்னெடுக்க வேண்டும் என்றுதான் எழுதியிருந்தோம். எனவே வடக்கு கிழக்கு மக்களுக்கு நன்கு சேவை செய்பவரை நன்கு அறிந்து எமது மக்கள் தேர்வு செய்ய வேண்டும்.
+
+...
+
+[Data](articles/bfac582a.json)
+
+---
 
 ### 2024-08-18 (Sunday)
 
@@ -715,6 +735,20 @@ Although Ranil, Sajith, Anura and Namal were seen as the main candidates, the de
 [Data](articles/d02248a2.json)
 
 [Extended Data](ext_articles/d02248a2.ext.json)
+
+---
+
+### River For Jaffna – White Elephant In The Offing
+
+*2024-08-18 18:33:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/river-for-jaffna-white-elephant-in-the-offing/) · `en`
+
+Recently while opening the de-salination plant in eastern Vadamaradchy, President Ranil Wickremesinghe said that he would commission river for Jaffna project, which Tamils are not going to take seriously. However it is worth examining feasibilty of it. Already there is one river in Jaffna peninsula, Valuki Aru, originating in Alavedy and confluencing at Araly, which in most of the time of the year runs dry. Hence this would be the second.
+
+One of the problem faced by people of Jaffna is the lack of potable and arable water supply. Ground water is the main source for agriculture in Jaffna through lift irrigation from wells, initially manually and now mechanised using pumps. While it is the preferred method for cash crops, rice cultivation is rain fed, where 90% of rain fall is in October to December. Due to excessive use of ground water, wells in some parts have turned brackish.
+
+...
+
+[Data](articles/4e4277d9.json)
 
 ---
 
@@ -2333,53 +2367,5 @@ He will meet government officials and shareholders in Sri Lanka from August 19 t
 [Data](articles/36fbedc7.json)
 
 [Extended Data](ext_articles/36fbedc7.ext.json)
-
----
-
-### Let's teach the rogis a lesson
-
-*2024-08-18 10:16:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/து-ரோகிகளுக்கு-பாடம்-புகட்டுவோம்/175-342365) · `ta`
-
-Palani Thikambaram, leader of the Tamil Progressive Alliance, announced support for Sajith Premadasa in the upcoming presidential election, vowing to teach a lesson to those who betrayed them through their votes. He emphasized the importance of continued political engagement and readiness for development projects in the Kandy district.
-
-🟩
-
-Palani Thikambaram, president of the Tamil Progressive Alliance, Nuwara Eliya District Member of Parliament, said that the votes of the Tamil Progressive Alliance of Kandy District will be given to the presidential candidate of the United People's Alliance Sajith Premadasa in the upcoming election.
-
-He was speaking at the meeting of the main organizers of the Tamil Progressive Alliance from the Nawalapitiya electorate on Saturday (17).
-
-He added: People will never accept the betrayal of the Tamil Progressive Alliance. People will show the appropriate lesson for those who betrayed in the coming elections. In addition, voters of our Tamil Progressive Alliance in the Kandy district must continue to engage in political trade union activities without losing their minds.
-
-The leaders of the Tamil Progressive Alliance, including myself, will be committed. United People's Power President Sajith Premadasa is sure to win the upcoming presidential election.
-
-...
-
-[Data](articles/ca63d52d.json)
-
-[Extended Data](ext_articles/ca63d52d.ext.json)
-
----
-
-### Let us teach for those who have been rag
-
-*2024-08-18 10:16:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/து-ரோகம்-இழைத்தவர்களுக்கு-பாடம்-புகட்டுவோம்/175-342365) · `ta`
-
-Palani Thikambaram, leader of the Tamil Progressive Alliance, announced support for Sajith Premadasa of the United People's Alliance in the upcoming presidential election. He warned against betrayals, promising a lesson through voting. The alliance plans to engage in political activities and ensure development across the Kandy district.
-
-🟩
-
-Palani Thikambaram, president of the Tamil Progressive Alliance, Nuwara Eliya District Member of Parliament, said that the votes of the Tamil Progressive Alliance of Kandy District will be given to the presidential candidate of the United People's Alliance Sajith Premadasa in the upcoming election.
-
-He was speaking at the meeting of the main organizers of the Tamil Progressive Alliance from the Nawalapitiya electorate on Saturday (17).
-
-He added: People will never accept the betrayal of the Tamil Progressive Alliance. People will show the appropriate lesson for those who betrayed in the coming elections. In addition, voters of our Tamil Progressive Alliance in the Kandy district must continue to engage in political trade union activities without losing their minds.
-
-The leaders of the Tamil Progressive Alliance, including myself, will be committed. United People's Power President Sajith Premadasa is sure to win the upcoming presidential election.
-
-...
-
-[Data](articles/e7f6fbe8.json)
-
-[Extended Data](ext_articles/e7f6fbe8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 14:36:43**
+As of **2024-08-18 14:55:45**
 
 ## Newspaper Stats
 
-*Scraped **41,342** Articles*
+*Scraped **41,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,68 @@ adalk | 3,797
 dailymirrorlk | 4,733
 adaderanalk | 4,834
 tamilmirrorlk | 5,318
-virakesarilk | 6,550
-adaderanasinhalalk | 7,048
+virakesarilk | 6,552
+adaderanasinhalalk | 7,049
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,342 (100.0%) of 41,342 articles have been extended.
+41,342 (100.0%) of 41,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### சஜித் நாற்பதாண்டுகளின் பின்னர் நாட்டின் அனைத்து இனங்களையும் ஒன்றிணைக்கும் ஜனாதிபதியாக வருவார் - இராதாகிருஷ்ணன்
+
+*2024-08-18 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191346) · `ta`
+
+சஜித் பிரேமதாச நாற்பதாண்டுகளின் பின்னர் இந்த நாட்டின் அனைத்து இனங்களையும் ஒன்றிணைக்கும் ஜனாதிபதியாக வருவார் என மலையக மக்கள் முன்னணியின் தலைவரும் தமிழ் முற்போக்கு கூட்டணியின் பிரதி தலைவரும் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான வேலுசாமி இராதாகிருஷ்ணன் தெரிவித்துள்ளார்.
+
+2024ஆம் ஆண்டு நடைபெறவுள்ள ஜனாதிபதித் தேர்தல் தொடர்பில் விழிப்புணர்வை ஏற்படுத்தும் வகையில் நேற்று (17) ஹட்டனில் ஊடகவியலாளர் சந்திப்பொன்றை ஏற்பாடு செய்திருந்தபோதே வேலுசாமி இராதாகிருஷ்ணன் இவ்வாறு தெரிவித்தார்.
+
+நாட்டில் இனவாதத்தையும் சாதியவாதத்தையும் விதைத்து முன்னாள் ஜனாதிபதிகள் ஆட்சியில் இருந்ததாகவும், 40 வருடங்களின் பின்னர் சஜித் பிரேமதாசவே இந்த நாட்டில் அனைத்து இனங்களையும் ஒன்றிணைத்து நாட்டை அபிவிருத்திப் பாதைக்கு இட்டுச் செல்லும் ஒரேயொரு ஜனாதிபதி வேட்பாளர் எனவும் தெரிவித்தார்.
+
+இன்று ரணிலுக்கு ஆதரவாக இணைவோருக்கு மதுபான விற்பனை உரிமம் மற்றும் பணம் வழங்கப்படுவதாக ராதாகிருஷ்ணன் குற்றம் சாட்டினார்.
+
+...
+
+[Data](articles/71188aa8.json)
+
+---
+
+### විදේශ ආධාර ලබාගෙන රට ගොඩදානවා - සජිත්
+
+*2024-08-18 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200067) · `si`
+
+තම පාලනයක් යටතේ විදේශ රටවල ආධාර ලබාගෙන රට ගොඩගන්නා වැඩසටහන දියත් කරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+"සංවර්ධනය නමින් දියුණුව නමින් අපි අදහස් කරන්නේ මෙරට ලක්ෂ 220කගේ සංවර්ධනයි. ඔබගේ දියුණුවයි. දියුණුව කියලා ඉලක්කම් ඉදිරිපත් කළාට වැඩක් නැහැ. දියුණුව සංවර්ධනට, සුබසාධනය මුදල් පසුම්බියට දැනෙන්න ඕනේ. අද වරදාන, වරප්‍රසාද භුක්ති විඳින්නේ ජනාධිපති හා ආණ්ඩුව. ලක්ෂ 220ක් අනාථ කරලා මැතිවරණයක් ළං වෙනකොට බොරු උප්පරවැට්ටි පොරොන්දු ඉදිරිපත් කරලා සීනිබෝල ලබාදීලා මේ අය හිතාගෙන ඉන්නවා මෙදා පාරත් රටේ ජනතාව රවට්ටන්න පුළුවන් කියලා. මේ අවස්ථාවේ රටේ සුවහසක් ජනතාව රැවටෙන්නට සූදානම් නැහැ. ගංවතුර, නායයාම් අවදානම් තිබීයදීත් කළුතර දිස්ත්‍රික්යේ ජනතාව ආවා. මේ ජනතාව මෙතෙන්නට රැස්වෙලා තියෙන්නේ සාමාන්‍ය ජනතාවට කැක්කුමක් තියෙන මේ රටේ සාමාන්‍ය ජනතාව වෙනුවෙන් කැපවීම්කරන පොදුජන සංවර්ධන යුගයක් වෙනුවෙන් අපිට හයිය දෙන්න. අපි සූදානම් මේ රටේ ප්‍රශ්නවලට විසඳුම් සපයන්න. මම ඔබට කියනවා අපේ රටේ මුදල්වලටත් විදේශිය රටවල ණය නෙමෙයි, ආධාර උපකාර අරගෙන  රට ගොඩගන්න වැඩසටහන අපි දයත් කරනවා."
+
+◼️
+
+[Data](articles/e3ed99f9.json)
+
+---
+
+### இரண்டு கார்கள் ஒன்றுடன் ஒன்று மோதி விபத்து - 07 பேர் காயம்
+
+*2024-08-18 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191355) · `ta`
+
+கொழும்பு - கண்டி பிரதான வீதியில் கேகாலை மொலகொட பிரதேசத்தில் இன்று ஞாயிற்றுக்கிழமை (18) இரண்டு கார்கள் ஒன்றுடன் ஒன்று மோதி விபத்து ஏற்பட்டதில் 07 பேர் காயமடைந்துள்ளதாக கேகாலை பொலிஸார் தெரிவித்துள்ளனர்.
+
+காரில் பயணம் செய்தவர்களுள் 3 பேர் கண்டி பிலிமத்தலாவை பிரதேசத்தைச் சேர்ந்தவர்கள்; மற்றைய 4 பேரும் கொழும்பு களனி பிரதேசத்தைச் சேர்ந்தவர்கள் ஆவர்.
+
+விபத்தில் 8 மாத குழந்தை, 01 வயது 6 மாதக் குழந்தை, மூன்று பெண்கள் மற்றும் இரண்டு ஆண்கள் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், கண்டியிலிருந்து கொழும்பு நோக்கி பயணித்த காரின் சாரதி வாகனம் செலுத்திக்கொண்டிருந்தபோது உறங்கியமையினாலேயே விபத்து இடம்பெற்றுள்ளது எனவும், காயமடைந்தவர்களின் நிலைமை கவலைக்கிடமாக இல்லை எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/5e13c127.json)
+
+---
 
 ### List of relief to the people after victory
 
@@ -266,7 +316,7 @@ The 43 -year -old suspect has been arrested in the incident and the Wennappuwa p
 
 *2024-08-18 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101322/man-found-murdered-with-throat-slit-in-thalangama) · `en`
 
-A person has been found murdered, after having his throat slashed with a sharp weapon at a garage in the Aruppitiya area of Thalangama this morning (Aug 18).
+A person has been found murdered, after having his throat slashed with a sharp weapon near a garage in the Aruppitiya area of Thalangama this morning (Aug 18).
 
 Police said that the place of residence of the victim, identified as a 45-year-old three-wheeler driver, has not yet been revealed.
 
@@ -2239,75 +2289,5 @@ ng disturbing comments, questioning whether there is a chance of a change in the
 [Data](articles/2a617021.json)
 
 [Extended Data](ext_articles/2a617021.ext.json)
-
----
-
-### An eventually abused another school girl
-
-*2024-08-17 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200043) · `si`
-
-A school teacher and the Deputy Principal were arrested for sexual abuse and covering it up. The victim, a minor, was advised by the Deputy Principal to keep quiet about the incident.
-
-🟩
-
-The Deputy Principal of the Mahawela Police have arrested a school teacher who was sexually abused and accused of concealment of a minor girl.
-
-The suspect and the suspect had been arrested following a complaint lodged by the police emergency number.
-
-She had been sexually abused by a teacher of the school's study, a teacher of the school.
-
-Investigations have revealed that the Deputy Principal had told the girl not to unaware that incident.
-
-Accordingly, the 51-year-old teacher and 49 year old Deputy Principal have been arrested by the Mahawela Police.
-
-◼️
-
-[Data](articles/043e6b1d.json)
-
-[Extended Data](ext_articles/043e6b1d.ext.json)
-
----
-
-### Aravinda de Silva says Sri Lanka no longer play attacking cricket
-
-*2024-08-17 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101310/aravinda-de-silva-says-sri-lanka-no-longer-play-attacking-cricket) · `en`
-
-Former Sri Lankan captain Aravinda de Silva lamented that the current bunch of men’s cricketers don’t play as bravely as their predecessors did. The former national men’s team’s chief selector feels England’s present approach to Test cricket is impressive and reckons it’s not impossible to defeat them in their backyard.
-
-The likes of Romesh Kaluwitharana, Sanath Jayasuriya, Arjuna Ranarunga, de Silva, Chaminda Vaas, and Muttiah Muralitharan were the nucleus of the men’s team’s golden era. They were part of the Island nation’s World Cup-winning squad in 1996, with de Silva scoring a hundred to overhaul Australia’s total of 241 in the final.
-
-The 58-year-old stated that the team of the yesteryears inspired their rivals to emulate their style of play. He also observed that England decided to take a positive approach and it’s paying off handsomely.
-
-...
-
-[Data](articles/a30d2bb4.json)
-
-[Extended Data](ext_articles/a30d2bb4.ext.json)
-
----
-
-### 5 -year -old child trafficking
-
-*2024-08-17 17:40:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நித்திரையில்-இருந்த-5-வயது-குழந்தை-கடத்தல்/175-342330) · `ta`
-
-In a tragic incident, a 5-year-old boy named Mohan Keerthi was kidnapped from his home in Vaharai. The abductor was later apprehended by locals who found the child hidden in the jungle. The suspect, a 35-year-old known for thefts, was remanded until the 23rd after being brought before the Valaichenai Magistrate's Court.
-
-🟩
-
-A 5 -year -old boy who was sleeping in a house was rescued by a kidnapper who was abducted and handed over to the police and handed over to the police and handed over to the police.
-
-Mohan Keerthi, a 5 -year -old child from Vaharai 5th, was sleeping with her mother's father on Saturday (17) at 3.30 am when the child was ready to go to the kitchen and returned to the kitchen and returned to the kitchen with a milk bottle.The gathering was searched for the baby.
-
-During this time, people who saw a child abducted and went to the jungle, searched the forest and left the child in the jungle and hid him in the area.
-
-The incident caused a stir in the area and the kidnapper was arrested in the area of ​​35 -year -old and addictive in a number of thefts.Preliminary inquiries by the police revealed.
-
-When the man was produced before the Valaichenai Magistrate's Court, the magistrate ordered him to be remanded until the 23rd.
-
-◼️
-
-[Data](articles/d194bd14.json)
-
-[Extended Data](ext_articles/d194bd14.ext.json)
 
 ---

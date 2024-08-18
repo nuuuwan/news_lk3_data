@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 18:15:57**
+As of **2024-08-18 18:27:27**
 
 ## Newspaper Stats
 
-*Scraped **41,367** Articles*
+*Scraped **41,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,503
 dailyftlk | 2,676
-adalk | 3,802
+adalk | 3,803
 dailymirrorlk | 4,733
-adaderanalk | 4,838
+adaderanalk | 4,839
 tamilmirrorlk | 5,323
 virakesarilk | 6,553
-adaderanasinhalalk | 7,056
+adaderanasinhalalk | 7,057
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,366 (100.0%) of 41,367 articles have been extended.
+41,367 (100.0%) of 41,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### Nearly a third of Belarus army deployed on Ukraine border, Lukashenko says
+
+*2024-08-18 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101331/nearly-a-third-of-belarus-army-deployed-on-ukraine-border-lukashenko-says) · `en`
+
+Belarusian President Alexander Lukashenko said on Sunday that Ukraine had stationed more than 120,000 troops at its border with Belarus and Minsk had deployed nearly a third of its armed forces along the entire border, the Belta state news agency reported.
+
+Lukashenko, a staunch ally of Vladimir Putin, was speaking against the backdrop of a Ukrainian incursion into Russia that began on Aug. 6 when thousands of Kyiv’s troops smashed through Russia’s western border in a major embarrassment for Putin’s top military brass.
+
+“Seeing their aggressive policy, we have introduced there and placed in certain points - in case of war, they would be defence - our military along the entire border,” Belta cited Lukashenko as saying in an interview with Russian state television.
+
+Andriy Demchenko, a spokesperson for the Ukrainian border service, told Ukrainian media outlet Ukrainska Pravda on Sunday that the situation on the border with Belarus remained unchanged.
+
+...
+
+[Data](articles/7e5d3304.json)
+
+---
+
+### පාස්කු ප්‍රහාරයේ සත්‍ය හෙළිකරන බවට සජිත්ගෙන් පොරොන්දුවක්
+
+*2024-08-18 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200075) · `si`
+
+පාස්කු ප්‍රහාරය ගැන ජනතාව අපේක්ෂා කරන සත්‍ය අනාවරණය කිරීමට තමා ඇතුළු සමගි ජන බලවේගයේ සහ සමගි ජන සන්ධානයේ සියලු‍දෙනා සූදානම් බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+කොළඹ අගරදගුරු නිවසේදී කාදිනල් මැල්කම් රංජිත් හිමිපානන් ඇතුළු කොළඹ පදවියේ සහායක රදගුරුතුමන්ලා මුණගැසී ආශිර්වාද ලබාගත් අවස්ථාවේ විපක්ෂ නායකවරයා මේ බව කියා සිටියේය.
+
+පාස්කු ප්‍රහාරයේ සත්‍ය අනාවරණය කිරීම සම්බන්ධයෙන් තමාට පැහැදිලි වැඩපිළිවෙළක් ඇති බවත්, එය පාර්ලිමේන්තුවේදී පවා සභාගත කර ඇති බවත් හෙතෙම මෙහිදී පැවසීය.
+
+මෙරට කතෝලික ප්‍රජාව ප්‍රමුඛ සමස්ත ජනතාවගේ අපේක්ෂාව වන්නේ පාස්කු ප්‍රහාරය සම්බන්ධයෙන් වූ පරීක්ෂණ විනිවිදභාවයෙන් සිදු වූවාද?, එහි සත්‍ය හෙළිකර ගත්තාද යන්න බවත් නිසා ඒ සම්බන්ධයෙන් විනිවිදභාවයෙන් පරීක්ෂණ සිදුකර කාදිනල් හිමි ප්‍රමුඛ කතෝලික සභාව දැනුවත් කරන බවද සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+...
+
+[Data](articles/2f9dfe60.json)
+
+---
 
 ### CWC to back President Ranil in presidential poll
 
@@ -45,6 +81,8 @@ Minister Thondaman stated that accordingly, the CWC will sign an agreement with 
 ◼️
 
 [Data](articles/4412371d.json)
+
+[Extended Data](ext_articles/4412371d.ext.json)
 
 ---
 
@@ -1306,6 +1344,26 @@ The launch of the Fund Finance Observatory was held on Friday (16) at the Bandar
 
 ---
 
+### පහරදි සේවකයා ඝාතනය කළ ව්‍යාපාරිකයෙක් අල්ලයි
+
+*2024-08-18 10:36:38* · [`adalk`](https://www.ada.lk/breaking_news/පහරදි-සේවකයා-ඝාතනය-කළ-ව්‍යාපාරිකයෙක්-අල්ලයි/11-411424) · `si`
+
+අතින් පයින් පහර දීමෙන් සේවකයෙකු ඝාතනය කිරීම සම්බන්ධයෙන් ව්‍යාපාරිකයෙක් අත්අඩංගුවට ගත් බව වැල්ලවත්ත පොලිසිය කියයි.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ කොළඹ 13 ජම්පටා වීදිය අංක 151/36 හි පදිංචිව සිටි මාදවන් ගෝවර්ධන නිත්‍යා නන්ද 46 එවිටි පුද්ගලයෙකි.
+
+වැල්ලවත්ත ගාලු පාරේ වෙළෙඳ සංකීර්ණයක  පළමු මහලේ වෙළඳසැලක් ඉදිරිපිට පුද්ගලයකු මියගොස් සිටින බවත් සිදුකළ විමර්ශනයේදී ඔහු එම වෙළඳසැලේ සේවකයෙකු බවත් අනාවරණය වී යැයි පොලිසිය කියයි.
+
+සේවකයා සහ වෙළඳසැලේ හිමිකරු අතර පෙරදින රාත්‍රී මත්පැන් පානය කර ඇති අතර එහිදී ඇතිවූ ආරවුලක් මත  ඝාතනය සිදුවී ඇති බවට අනාවරණය වී යැයි පොලිසිය කියයි.අත්අඩංගුවට ගත් සැකකරු පුස්සල්ලාව කටු කිතුල පදිංචි 42 හැවිරිදි  පුද්ගලයෙකි.
+
+වැල්ලවත්ත පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සුභාෂ් කහදවල මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ.
+
+◼️
+
+[Data](articles/a479306a.json)
+
+---
+
 ### SI with ice. Arrested
 
 *2024-08-18 10:25:34* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සමග-එස්-අයි--අල්ලයි/11-411423) · `si`
@@ -2285,59 +2343,5 @@ The website has been developed by six election monitoring organizations, includi
 [Data](articles/39fa9e67.json)
 
 [Extended Data](ext_articles/39fa9e67.ext.json)
-
----
-
-### Internet to monitor propaganda costs
-
-*2024-08-18 01:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசார-செலவுகளை-கண்காணிக்க-இணையம்/175-342354) · `ta`
-
-A website launched by six groups monitors propaganda spending by presidential election candidates, including Transparency International Sri Lanka and February.
-
-🟩
-
-A website has been created to monitor the propaganda expenses of candidates contesting the presidential election.
-
-The website has been developed by six election monitoring organizations, including Transparency International Sri Lanka Company and February.. (A)
-
-◼️
-
-[Data](articles/cb4510a9.json)
-
-[Extended Data](ext_articles/cb4510a9.ext.json)
-
----
-
-### Deconstructing Bangladesh
-
-*2024-08-18 01:51:00* · [`islandlk`](http://island.lk/deconstructing-bangladesh/) · `en`
-
-In a week marked by rioting in the UK and upheavals in Sri Lanka, Venezuela, and the US, Bangladesh is unravelling at breakneck speed.
-
-On Monday, August 5, protesters managed to chase out Sheikh Hasina, the country’s longest serving Prime Minister. They have now rallied around a new government. Later that week, Muhammad Yunus, Bangladesh’s sole Nobel Prize-winner and founder of Grameen Bank, was appointed to head the administration, while Md Asaduzzaman was selected as the new Attorney-General. Other appointments are expected to follow.
-
-...
-
-[Data](articles/040bc475.json)
-
-[Extended Data](ext_articles/040bc475.ext.json)
-
----
-
-### Issues of co-ordination during the 1971 insurgency
-
-*2024-08-18 01:32:00* · [`islandlk`](http://island.lk/issues-of-co-ordination-during-the-1971-insurgency/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-A major responsibility I took upon myself during this period (of the 1971 insurrecton) was to co-ordinate essential services such as food distribution; the movement of petroleum products; electricity, water; and transport. I, of course, had enough experience of handling food distribution. Some of the same principles and part of the same drill could be applied to some of the other sectors.
-
-In a way food was the most important. Long curfew hours not only restricted food movements, but also gave very little time for the mass of the population to buy their essentials such as rice, flour and sugar from their co-operative, or authorized dealer point. During the few hours available for shopping, there were large and somewhat restive crowds at cooperative stores in particular. It was clear that if food was not available at these points or the service was not efficient, there would be panic.
-
-...
-
-[Data](articles/4bd5f75b.json)
-
-[Extended Data](ext_articles/4bd5f75b.ext.json)
 
 ---

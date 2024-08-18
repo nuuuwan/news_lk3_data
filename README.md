@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 20:07:03**
+As of **2024-08-18 20:21:14**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,060
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,377 (100.0%) of 41,379 articles have been extended.
+41,379 (100.0%) of 41,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### විධායක ජනපති ධුරය අහෝසි කරනවා - සජිත්
+### Executive President's post is abolished - Sajith
 
 *2024-08-18 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200078) · `si`
 
-තමා ජනාධිපති වූ පසු විධායක ජනාධිපති ධුරය අනිවාර්යෙන්ම අහෝසි කරන බව සමගි ජන බලවේග ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා අවධාරණය කරයි.
+Presidential candidate Sajith Premadasa promises to abolish the executive presidency, emphasizing change and accountability. He criticizes current leadership, pledging transparency and support for the nation's industries.
 
-ඔහු මේ බව ප්‍රකාශ කළේ අද (18) රුවන්වැල්ලේ පැවති ජනරැලියේදීය.
+🟩
 
-"අපි ඔබට කියන්න කැමතියි, මේ රටත් ඔබත් දුකින් මුදවන යුගය සැප්තැම්බර් 21 වෙනිදා ඒ යුගය අපි බිහිකරනවා.  බොරුවට රුපියල් 1,700ක් දෙනවා කියලා රුපියල් 1,350ක් දෙන බොරුකාර වංචාකාර ක්‍රමය. අපි කියන්නේ නැහැ රුපියල් 2,000ක් දෙනවා කියලා. හැබැයි අපි එක දෙයක් කියනවා විරැකියාවෙන් පෙළෙන මේ ප්‍රදේශවල සමස්ත තාරුණ්‍යයට කුඩා තේ වතුහිමියන් හැටියට රටේ තේ නිෂ්පාදනයට දායකත්වය ලබාදෙන්නට අපි ක්‍රමවේදය හදනවා. රජපක්ෂලාට කත්ඇදලා රට බංකොලොත් කළ කණ්ඩායම්වල ප්‍රධාන ආරක්ෂක නිලධාරියා වෙලා. රටේ ජනාධිපති අද රාජපක්ෂලා ආරක්ෂා කරනවා. මට කියනවා පැනලා ගියාලු. මම පැනලා ගියේ නැහැ. මම කවදාවත් වෙනත් අපේක්ෂකයෝ දැම්මේ නැහැ.  කී දෙනෙක් කිව්වද ජනාධිපති ක්‍රමය ගැන. කවුරුත් වෙනස් කළේ නෑ. මට මේ තනතුරු ආසාව නැහැ. මම විධායක ජනාධිපති ක්‍රමය අනිවාර්යයෙන්ම ඉවත් කරනවා."
+The presidential candidate Sajith Premadasa emphasizes the president's power to abolish the executive presidency after his president.
+
+He was speaking at a reliance in Ruwanwella today (18).
+
+"We would like to tell you, the era of this country and sadness, we create that era again on September 21.  බොරුවට රුපියල් 1,700ක් දෙනවා කියලා රුපියල් 1,350ක් දෙන බොරුකාර වංචාකාර ක්‍රමය. We do not say 2,000 rupees. But we say one thing, as small tea estimates to the country's tea manufacturers as small tea estimates to the country's tea manufacturers, we make the methodology. The main security officer of bankrupted teams to the reign of the country. The President of the country is protecting the Rajapaksas today. Tells me the escape. I didn't run away. I never put other candidates.  කී දෙනෙක් කිව්වද ජනාධිපති ක්‍රමය ගැන. No one changed. I don't like these positions. I will definitely remove the executive presidency. "
 
 ◼️
 
 [Data](articles/4ee422f0.json)
+
+[Extended Data](ext_articles/4ee422f0.ext.json)
 
 ---
 
@@ -250,23 +256,31 @@ Minister Thondaman stated that accordingly, the CWC will sign an agreement with 
 
 ---
 
-### ලංකා කම්කරු කොංග්‍රසයේ සහාය රනිල්ට
+### Ranil to support Ceylon Workers Congress
 
 *2024-08-18 17:52:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-කම්කරු-කොංග්‍රසයේ-සහාය-රනිල්ට/11-411432) · `si`
 
-ජනාධිපතිවරණයේදි ලංකා කම්කරු කොංග්‍රසයේ සහයෝගය රනිල් වික්‍රමසිංහ මහතාට ලබා දිමට එම පක්ෂයේ ජාතික සභාව අද (18) දින තිරණය කල බව ලංකා කම්කරු කොංග්‍රසයේ මහ ලේකම් අමාත්‍ය ජිවන් තොණ්ඩමන් මහතා පැවසිය.
+The Ceylon Workers Congress, led by its General Secretary and Minister of Labor Congress, announced support for Ranil Wickremesinghe in the upcoming presidential election. The decision was made after extensive discussions within the party's National Council. Additionally, the council plans to raise plantation workers' salaries and improve land ownership rights over the next two years. This agreement will be formalized between the Ceylon Workers Congress and President Wickremesinghe's office.
 
-අමාත්‍යය ජිවන් තොණ්ඩමන් මහතා ඒ බැව් කියා සිටියේ අද හැටන් කොටගල ලංකා කම්කරු කොංග්‍රස් මුලස්ථානයේදි මාධ්‍ය හමුවක් පවත්වමිණි.
+🟩
 
-මෙම මාධ්‍ය හමුවේදි අදහස් දැක් වු එම පක්ෂයේ මහ ලේකම් අමාත්‍ය ජිවන් තොණ්ඩමන් මහතා කියා සිටියේ තම පක්ෂයේ ජාතික සභාවේ සමාජිකයන් එක් වි ජනාධිපතිවරණයේදි සහය ලබාදෙන අපෙක්ෂකයා සම්බන්ධයෙන් දිර්ඝ වශයෙන් සාකච්ඡා කල බවයි.
+The General Secretary of the Ceylon Workers Congress, Minister of Labor Congress, said that the National Council of the Sri Lanka Institute of Workers Congress was extended today in the presidential election.
 
-එම සාකච්ඡාවේදි ජාතික සභාවේ සියළුම සමාජිකයන් ඒකමතිකව ජනාධිපති අපෙක්ෂක රනිල් වික්‍රමසිංහ මහතාට සහය දැක්විමට තිරණය කල බවද ජිවන් තොණ්ඩමන් මහතා පැවසිය.
+Minister Jivan Thondaman was in Hatton held a press conference at Kotagala Lanka Workers' Congress.
 
-වසර දෙකක කාලයක් මේ රටේ පැවති ආර්ථික ගැටළු විසදමින්, වතු කම්කරුවන්ගේ වැටුප් වැඩි කිරිමට සහ එම ජනතාවගේ යටිතල පහසුකම් නංවාලිමටත්, ඉඩම් අයිතිය ලබාදිමට එකග වි ඇති නිසා ජාතික සභාව එම තිරණය ගත් බවද ජිවන් තොණ්ඩමන් මහතා පැවසිය.
+Speaking at a press conference, the General Secretary of the party, Minister of Secretary Jivan Thondaman said that the members of the party's national church was a long discussion in the presidential election.
+
+He said that all members of the National Council would have been disclosed to support Ranil Wickremesinghe.
+
+The National Council has decided to increase the salaries of plantation workers for two years, and the National Council has decided to increase the wages of plantation workers and enhance land ownership.
+
+It is to be signed between the Ceylon Workers Congress and Presidential Court of Sri Lanka Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/63b1fdb0.json)
+
+[Extended Data](ext_articles/63b1fdb0.ext.json)
 
 ---
 

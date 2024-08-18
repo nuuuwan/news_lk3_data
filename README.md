@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 09:06:49**
+As of **2024-08-18 09:21:20**
 
 ## Newspaper Stats
 
-*Scraped **41,283** Articles*
+*Scraped **41,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 4,825
 tamilmirrorlk | 5,301
 virakesarilk | 6,539
-adaderanasinhalalk | 7,033
+adaderanasinhalalk | 7,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,282 (100.0%) of 41,283 articles have been extended.
+41,283 (100.0%) of 41,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### තැන් දෙකකදී හසුවූ ගජමුතු
+
+*2024-08-18 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200051) · `si`
+
+දිවයිනේ ප්‍රදේශ දෙකක දී ගජමුතු සන්තකයේ තබාගෙන සිටි සැකකරුවන් කිහිපදෙනෙකු අත්අඩංගුවට ගැනීමට පොලීසිය සමත්ව තිබේ.
+
+පූනගර් ප්‍රදේශයේ දී පොලීසියට ලද තොරතුරක් මත සිදුකළ වැටලීමක දී ගජමුතු 02ක් සන්තකයේ තබාගෙන සිටි සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගැනීමට ඊච්චලම්පත්තුව පොලීසිය සමත්ව ඇත.
+
+සැකකරුවන් ගොකරැල්ල ප්‍රදේශයේ පදිංචිකරුවන් වන අතර මේ සම්බන්ධව ඊච්චලම්පත්තුව පොලීසිය වැඩිදුර විමර්ශන පැවැත්වීමට නියමිතය.
+
+මේ අතර පුත්තලම ප්‍රදේශයේ කලපු තීරයේ දී ගජමුතු 03ක් අලෙවි කිරීමට සූදානම් වූ සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගැනීමට පොලිස් විශේෂ කාර්ය බළකාය සමත්ව තිබේ.
+
+රුපියල් කෝටි 03කට මෙම ගජමුතු අලෙවි කිරීමට සූදානම් වූ බවට ගුවන් හමුදා බුද්ධි අංශයට ලද තොරතුරක් මත පොලිස් විශේෂ කාර්ය බළකාය මෙම වැටලීම සිදුකර ඇත.
+
+උපායදූතයෙකු යොදවා සැකකරුවන් අත්අඩංගුවට ගෙන ඇති අතර ඉන් දෙදෙනෙකු මාවනැල්ල ප්‍රදේශයේ පදිංචිකරුවන් වන අතර අනෙක් පුද්ගලයා පුත්තලම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+සැකකරුවන් සහ ඔවුන් සතුව තිබී තම භාරයට ගත් ගජමුතු වැඩිදුර විමර්ශණ සඳහා පුත්තලම පොලීසියට බාර දීමට පොලිස් විශේෂ බළකා නිලධාරීන් කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/a666d831.json)
+
+---
 
 ### Shall the surgery was wrong?
 
@@ -246,21 +270,27 @@ Save my name, email, and website in this browser for the next time I comment.
 
 ---
 
-### வான் மோதியதில் சிறுவன் மரணம்
+### Boy death in van crashes
 
 *2024-08-18 02:22:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வான்-மோதியதில்-சிறுவன்-மரணம்/175-342357) · `ta`
 
-மட்டக்களப்பு, வாகரை பிரதான வீதியிலுள்ள பனிச்சங்கேணி பாலத்தில் வீதியைக் குறுக்கே கடந்த சிறுவன் மீது வான் மோதியதில் அவர் உயிரிழந்துள்ளார்.
+An 8-year-old boy, Sapira Maheer, died after a crash involving a van at the Glacier Bridge in Batticaloa. The incident occurred around 7 pm, and the driver has been arrested. Investigations continue.
 
-இந்தப் பரிதாப சம்பவம் நேற்று இரவு 7 மணியளவில் இடம்பெற்றுள்ளது என்று வாகரை பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-வாழைச்சேனை, மீராவோடையைச் சேர்ந்த 8 வயதுடைய சப்பிறா மாஹீர் என்ற சிறுவனே உயிரிழந்துள்ளார்.
+He was killed when a boy crashed across the road at the Glacier Bridge on the Vaharai main road in Batticaloa.
 
-வானின் சாரதி கைது செய்யப்பட்டுள்ள நிலையில், விபத்து தொடர்பான மேலதிக விசாரணைகளை வாகரைப் போக்குவரத்துப் பொலிஸார் மேற்கொண்டு வருகின்றனர். (a)
+The tragic incident took place at around 7 pm last night, the Vaharai police said.
+
+A boy named Sapira Maheer, aged 8, from Valaichenai, Meeravoda, has died.
+
+As the driver of the sky has been arrested, the traffic police are conducting further investigations into the accident. (A)
 
 ◼️
 
 [Data](articles/d328b349.json)
+
+[Extended Data](ext_articles/d328b349.ext.json)
 
 ---
 
@@ -2279,27 +2309,5 @@ India is also giving a grant of 63.5 million US dollars to upgrade Kankasanthura
 [Data](articles/5fcd848d.json)
 
 [Extended Data](ext_articles/5fcd848d.ext.json)
-
----
-
-### Showery conditions expected to continue in parts of the island
-
-*2024-08-17 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101296/showery-conditions-expected-to-continue-in-parts-of-the-island) · `en`
-
-The Meteorology Department says prevailing showery conditions are expected to continue in the south-western part of the island due to the low-level atmospheric disturbance in the vicinity of Sri Lanka during today.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle, Matara and Mannar districts.
-
-Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere over the island during the evening or night, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/fae8c1f9.json)
-
-[Extended Data](ext_articles/fae8c1f9.ext.json)
 
 ---

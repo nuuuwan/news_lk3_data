@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 22:09:24**
+As of **2024-08-18 22:21:25**
 
 ## Newspaper Stats
 
-*Scraped **41,395** Articles*
+*Scraped **41,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,76 @@ economynextcom | 2,503
 dailyftlk | 2,676
 adalk | 3,806
 dailymirrorlk | 4,733
-adaderanalk | 4,841
+adaderanalk | 4,842
 tamilmirrorlk | 5,331
 virakesarilk | 6,561
-adaderanasinhalalk | 7,061
+adaderanasinhalalk | 7,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,393 (100.0%) of 41,395 articles have been extended.
+41,395 (100.0%) of 41,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### மறைந்த நடிகரின் மனைவி SJB இல் இணைந்தார்
+### හර්ෂිතාගෙන් ගෞරවාන්විත ශතකයක්
+
+*2024-08-18 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200080) · `si`
+
+ශ්‍රී ලංකා කාන්තා ක්‍රිකට් ඉතිහාසයේ එක්දින ජාත්‍යන්තර තරගයකදී ශතකයක් රැස්කළ තෙවැනි ක්‍රීඩිකාවට බවට පත්වීමට හර්ෂිතා සමරවික්‍රම සමත් වූවාය.
+
+සත්කාරක අයර්ලන්ත කාන්තා කණ්ඩායමට එරෙහිව බෙල්ෆාස්හිදී පැවැත්වෙන දෙවැනි එක්දින තරගයේදී ඇය මෙම කඩයිම පසුකර ගියාය.
+
+පන්දු 120කින් ගොඩනැගුණු හර්ෂිතාගේ ඉනිමට හතරේ පහර 11ක් ඇතුළත් විය.
+
+ශ්‍රී ලංකා කණ්ඩායම මෙම අයර්ලන්ත සංචාරය සිදුකිරීමට පෙර ශ්‍රී ලංකාව වෙනුවෙන් එක්දින ශතකයක් රැස්කර තිබුණේ චමරි අතපත්තු පමණි.
+
+කෙසේ නමුත් දෙරට අතර පළමු එක්දින තරගයේදී විශ්මි ගුණරත්න ශතකයක් රැස්කිරීමට සමත් වූවාය.
+
+◼️
+
+[Data](articles/b1eb9c4f.json)
+
+---
+
+### Harshitha Samarawickrema hits maiden ODI century
+
+*2024-08-18 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101335/harshitha-samarawickrema-hits-maiden-odi-century) · `en`
+
+Sri Lanka’s Harshitha Samarawickrema scored her maiden One-Day International century during the 2nd ODI against Ireland Women being played in Belfast.
+
+Accordingly, Samarawickrema becomes the third Sri Lankan Women’s player to score an ODI century in international cricket, after veteran Chamari Athapaththu and Vishmi Gunaratne.
+
+Gunaratne had smashed her maiden ODI century on Friday (16) against hosts Ireland.
+
+◼️
+
+[Data](articles/eb9f1276.json)
+
+---
+
+### The wife of the late actor joined SJB
 
 *2024-08-18 21:50:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மறைந்த-நடிகரின்-மனைவி-SJB-இல்-இணைந்தார்/175-342399) · `ta`
 
-உயிரிழந்த பிரபல நடிகர் ஜாக்சன் அந்தோனியின் மனைவி குமாரி முனசிங்க ஐக்கிய மக்கள் சக்தியில் இணைந்துள்ளார்.
+Kumari Munasinghe, widow of actor Jackson Antony, has joined the United People's Power party. She was named Gampaha District Organizer after Opposition Leader Sajith Premadasa's entry into the party.
 
-2024 ஜனாதிபதி தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிற்கு தனது ஆதரவை வழங்கும் நோக்கில் இன்று (18) இணைந்து கொண்டார்.
+🟩
 
-அவர் கட்சிக்குள் பிரவேசித்ததைத் தொடர்ந்து குமாரி முனசிங்கவை கம்பஹா மாவட்ட அமைப்பாளராக நியமித்தார். R
+Kumari Munasinghe, wife of famous actor Jackson Antony, has joined the United People's Power.
+
+In the 2024 presidential election, Opposition Leader Sajith joined Premadasa today (18).
+
+Following his entry into the party, Kumari Munasinghe was appointed as the Gampaha District Organizer. Remble
 
 ◼️
 
 [Data](articles/76dd7474.json)
+
+[Extended Data](ext_articles/76dd7474.ext.json)
 
 ---
 
@@ -65,6 +107,8 @@ The EU has previously done election monitoring in Sri Lanka six times with the l
 ...
 
 [Data](articles/0334c9b5.json)
+
+[Extended Data](ext_articles/0334c9b5.ext.json)
 
 ---
 
@@ -2331,59 +2375,5 @@ In response, the Hezbollah announced that there were 55 rockete attacks to a vil
 [Data](articles/6cb74957.json)
 
 [Extended Data](ext_articles/6cb74957.ext.json)
-
----
-
-### Man arrested with 102 fake notes
-
-*2024-08-18 09:29:50* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-5000-නෝට්ටු-102ක්-සමග-පුද්ගලයෙක්-අල්ලයි/11-411421) · `si`
-
-A man was arrested in Ratnapura for possessing 102 counterfeit banknotes. The 33-year-old from Badulla was caught during an investigation by the Mahiyanganaya Police. He had previously been identified as passing fake currency in Badulla. The Criminal Division will hand over further inquiries to the Central Investigation Department, and the suspect will face charges in Ratnapura courts.
-
-🟩
-
-The Criminal Division of Ratnapura, Ratnapura, has been arrested in Ratnapura within a small period of 102 counter notes with 102 counterfeit notes.
-
-The arrests were a 33 year old resident of the Badulla area.
-
-Investigations carried out in the Mahiyanganaya Police where the suspect is in the Mahiyanganaya Police where the suspect is in the Mahiyanganaya Police.
-
-The golds trees in Ratnapura and receives a necklace for Rs.
-
-The suspect had found 102 counterfeit notes for the arrested at Rulers, after the shopkeeper was educated by the Ratnapura Police.
-
-Further investigation made by the suspect revealed the fake notes for a long time in Badulla.
-
-The Criminal Division says that the suspect has handed over further investigations to Central for further investigations.
-
-Suspect's Home Suspect's Home The Criminal Investigations Department. The suspect is to be produced before the Ratnapura Courts.
-
-◼️
-
-[Data](articles/8279421f.json)
-
-[Extended Data](ext_articles/8279421f.ext.json)
-
----
-
-### Background singer is admitted to P.Susila Hospital
-
-*2024-08-18 09:23:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பின்னணி-பாடகி-பி-சுசிலா-மருத்துவமனையில்-அனுமதி/54-342359) · `ta`
-
-Renowned background singer P. Susheela, known for her contributions in 9 languages including Tamil, Telugu, and Hindi, has been hospitalized at Cauvery Hospital in Chennai due to illness. Despite winning the National Award for Best Female Background Singer, she prefers not to sing in films anymore due to her age.
-
-🟩
-
-P. Susheela has sung over 40,000 songs in 9 languages ​​including Tamil, Telugu, Kannada, Malayalam and Hindi. Actresses in the 70s and 80s, Savitri, Padmini and Saroja Devi have sung the background for them.
-
-The highest man won the National Award for Best Female Background Singer for the first time. He avoids singing in movies due to age.
-
-P. Susila has been admitted to Cauvery Hospital in Alwarpet, Chennai due to ill health.
-
-◼️
-
-[Data](articles/75e67868.json)
-
-[Extended Data](ext_articles/75e67868.ext.json)
 
 ---

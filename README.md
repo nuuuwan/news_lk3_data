@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 16:07:53**
+As of **2024-08-18 16:21:15**
 
 ## Newspaper Stats
 
-*Scraped **41,354** Articles*
+*Scraped **41,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,835
 tamilmirrorlk | 5,322
 virakesarilk | 6,552
-adaderanasinhalalk | 7,050
+adaderanasinhalalk | 7,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,354 (100.0%) of 41,354 articles have been extended.
+41,354 (100.0%) of 41,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### තණමල්විල දැරියට බලපෑම් කළ අධිකරණ වෛද්‍යවරයා අත්අඩංගුවට
+
+*2024-08-18 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200069) · `si`
+
+තණමල්විල දැරිය දූෂණය කිරීමේ සිද්ධියට අදාළව වෛද්‍ය පරීක්ෂණය සිදුකළ හම්බන්තොට මහ රෝහලේ අධිකරණ වෛද්‍යවරයා එම දැරියට සාපරාධි බලහත්කාරයපෑමේ චෝදනාව මත ළමාරක්ෂණ අධිකාරිය විසින් ඊයේ (17) සවස අත්අඩංගුවට ගනු ලැබීය.
+
+කෙසේ නමුත් අත්අඩංගුවට පත්වූ අධිකරණ වෛද්‍යවරයා හම්බන්තොට මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රුපියල් ලක්ෂ තුනක ශරීර ඇපයක් මත මුදා හැරිණි.
+
+මෙම සිද්ධියට සම්බන්ධ පාසල් සිසුන් 21 දෙනෙකු මේ වනවිට රක්ෂිත බන්ධනාගාර ගතකර හා පරිවාස භාරයට පත් කර සිටියි.
+
+එමෙන්ම සිද්ධිය වසන්කළ බවට චෝදනා එල්ල වූ මෙම දැරිය ඉගෙනුම ලැබූ පාසලේ විදුහල්පතිවරයා ඇතුළු ගුරුවරුන් සිව් දෙනෙකු මීට ඉහතදී අත්අඩංගුවට ගනු ලැබූ අතර ඔවුන්ව අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ඇප මත මුදා හැරිණි.
+
+◼️
+
+[Data](articles/b63834df.json)
+
+---
 
 ### Win Ranil: Anandakumar
 
@@ -2289,29 +2307,5 @@ At the same time, the president's meeting was seen as a wave of people gathered 
 [Data](articles/be6ed437.json)
 
 [Extended Data](ext_articles/be6ed437.ext.json)
-
----
-
-### People's floods at the president's Mangala meeting
-
-*2024-08-17 19:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-மங்கள-கூட்டத்தில்-மக்கள்-வெள்ளம்/175-342337) · `ta`
-
-Ranil Wickremesinghe's campaign kicked off with a public meeting in Anuradhapura, aiming for his presidential win. The event saw a large turnout, with support from various political parties. Plans for 100 more national meetings indicate a strong campaign strategy.
-
-🟩
-
-The first public meeting to ensure Ranil Wickremesinghe's victory in the upcoming presidential election was held this afternoon at the Saltathu Stadium in Anuradhapura.
-
-The President also plans to hold 100 public meetings nationwide.
-
-It is reported that many MPs and ministers who supported the United National Party, the Sri Lanka PA, the Sri Lanka Freedom Party and the United People's Power.
-
-At the same time, the president's meeting was seen as a wave of people gathered at the sea. Remble
-
-◼️
-
-[Data](articles/d5f99052.json)
-
-[Extended Data](ext_articles/d5f99052.ext.json)
 
 ---

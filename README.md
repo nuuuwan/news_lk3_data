@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 01:36:48**
+As of **2024-08-19 01:55:12**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,410 (100.0%) of 41,411 articles have been extended.
+41,411 (100.0%) of 41,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### ’தம்பியிடம் மனம் நொந்து அண்ணனிடம் இணைந்தேன்’
+### I joined his brother
 
 *2024-08-19 01:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்பியிடம்-மனம்-நொந்து-அண்ணனிடம்-இணைந்தேன்/175-342417) · `ta`
 
-இலங்கை தொழிலாளர் காங்கிரஸின் 20 வருட கால நட்பினை முறித்துக் கொண்டுள்ள அக்கரப்பத்தனை முன்னாள் பிரதேச சபைத் தலைவர் ராமன் கோபால் தொழிலாளர் தேசிய சங்கத்தில் இணைந்து கொண்டார்.
+Raman Gopal, a former leader of the Pradeshiya Sabha, has joined the National Association of Akkaraipattana, ending a 20-year relationship with the Ceylon Workers Congress. This move, along with former minister Palani Thikambaram, marks a significant shift. The association also hosted the Ponnadi Portugal meeting, highlighting its activities. Gopal noted his family's long-standing loyalty to the CWC and his leadership in the Pradeshiya Sabha, which faced dissolution. Despite this, he secured the highest vote in the Pradeshiya Sabha elections and advocates for change across the hill country.
 
-இவ்வாறு இணைந்து கொண்ட இராமன் கோபாலுக்கு, தொழிலாளர் தேசிய சங்கத் தலைவரும் முன்னாள் அமைச்சருமான பழனி திகாம்பரம் உத்தியோக பூர்வமாக இணைவு கடிதத்தை வழங்கி கட்சிக்கு இணைத்துக் கொண்டமை குறிப்பிடத்தக்கது.
+🟩
 
-ஹட்டனில் ஞாயிற்றுக்கிழமை  (18) நடைபெற்ற தொழிலாளர் தேசிய சங்க கூட்டத்தில் பொன்னாடை போர்த்திக் கௌரவிக்கப்பட்டு இவரை உத்தியோகப்பூர்வமாக இணைத்து கொண்டுள்ளமையும் குறிப்பிடத்தக்கதாகும்.
+Former Pradeshiya Sabha leader Raman Gopal joined the National Association of Akkaraipattana, who has broken the 20 -year friendship of the Ceylon Workers Congress.
 
-எனது தந்தை இ.தொ.காவின் நீண்ட கால விசுவாசி அதேபோல நான் 20 வருடகால விசுவாசி அதற்காக எனக்கு கிடைத்த சன்மானம் மூன்று மாத பிரதேச சபை தலைவர் மட்டுமேயாகும் என்றார் ராமன் கோபால் .
+It is noteworthy that Raman Gopal, the leader of the National Union, and former minister Palani Thikambaram, officially submitted a letter of affiliation with the party.
 
-அதுவும் அக்கரப்பத்தனை பிரதேச சபை கலைக்கப்படும் நிலையில் இந்த சபை அபிவிருத்தியில் பின் தள்ளப்பட்ட நிலையிலும் காங்கிரஸில் எழுதாத வரலாற்றில் தனக்கு இந்த பதவி வழங்கப்பட்டது அதை சரிவரச் செய்து 90 நாட்களில் சாதனை படைத்தேன்.
+It is noteworthy that the Ponnadi Portugal was honored with the Ponnadi Portuguese meeting at the National Association at the National Association of Workers on Sunday (18) in Hatton.
+
+Raman Gopal said that my father was a long -time loyalist of the CWC as well as the leader of the three -month Pradeshiya Sabha.
+
+With the dissolution of the Akkaraipattanam Pradeshiya Sabha, the council was postponed to the development of the Congress in the history of not writing in the history of the Congress.
+
+At the same time, I got the most votes in the Akkaraipattana Pradeshiya Sabha elections.
 
 ...
 
 [Data](articles/1fb98df1.json)
+
+[Extended Data](ext_articles/1fb98df1.ext.json)
 
 ---
 

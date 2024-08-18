@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 14:07:10**
+As of **2024-08-18 14:21:16**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 7,048
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,338 (100.0%) of 41,342 articles have been extended.
+41,342 (100.0%) of 41,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### ජයග්‍රහණයෙන් පසු අනුරගෙන් ජනතාවට ලැබෙන සහන ලැයිස්තුව
+### List of relief to the people after victory
 
 *2024-08-18 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200066) · `si`
 
-සිය ජයග්‍රහණයෙන් පසු ආහාර, සෞඛ්‍ය සේවා සහ පාසල් උපකරණවලට පනවා ඇති VAT බද්ද ඉවත් කිරීමට පියවර ගන්නා බව ජාතික ජන බලවේගයේ ජනාධිපතිධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+After their victory, Anura Kumara Dissanayake promises to eliminate VAT on food, healthcare, and school supplies. They also aim to reduce electricity bills and ensure the nation's prosperity.
 
-"අපි දන්නවා සමහර අය අපෙන් අහනවා සහෝදරයා මේ වගේ රටක් භාර ගන්න ඔයාලට බය නැද්ද කියලා. මතක තබා ගන්න මේ වෙලාවේදී තමයි ජාතික ජනබලවේගය රට භාරගන්න ඕනේ. රට වැටිලා තියෙන ප්‍රපාතයෙන් ගොඩ ගන්න. මේක ගොඩගන්න පුළුවන්. 15 වෙනිදා රෑ ඉදිරිපත්කළා අපේ විදුලි හා බලශක්ති සැලසුම. ඒ අනුව ඉතා කෙටි කාලයක් ඇතුළත විදුලි බිල තුනෙන් එකකින් අඩු කරනවා. ඊළඟ ආහාර, මේ ආණ්ඩුව ආහාරවලට වැට් ගහනවා. අපි ආහාර සඳහා තියෙන වැට් බද්ද අයින් කරනවා පළමු අයවැය ලේඛනයෙන්. සෞඛ්‍ය සහ සෞඛ්‍ය සේවා සැපයුමේ වැට් බද්ද අයින් කරනවා. ඊළඟට පාසල් උපකරණවලට පනවලා ඇති වැට් බද්ද අයින් කරනවා. ඇයි ආණ්ඩුව ඉන්නේ ජනතාව බලාගන්න. මේ ගොල්ලෝ එන්නේ ඒ අය බලාගන්න."
+🟩
+
+Anura Kumara Dissanayake says that steps will be taken to remove the VAT on food, health care and school equipment after its victory is taken to remove the VAT.
+
+"We know some people ask us if your brother is not afraid of you. Remember, the national popularity should be accepted. Build the country with the precipitate. This can be recovered. Pruning on the 15th at night our electricity and energy plan. Accordingly, the electricity bill will be reduced in one of three. The next food, this government vates food. We are eliminating the VAT for food in the first budget. VAT is removed from health and health care. Next, the VAT imposed on school equipment is removed. Why is the government to take care of the people?. Take care of these goats. "
 
 ◼️
 
 [Data](articles/c802a8fe.json)
 
+[Extended Data](ext_articles/c802a8fe.ext.json)
+
 ---
 
-### ගාසා තීරයෙන් පෝලියෝ රෝගියෙක්
+### A polio patient from the Gaza
 
 *2024-08-18 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200065) · `si`
 
-ඊශ්‍රායල සහ හමාස් යුද ගැටුම්වලට මැදිව සිටින ගාසා තීරයෙන් වසර 25කට පසුව පෝලියෝ රෝගියෙකු හමුවී තිබේ.
+In Gaza, a 10-month-old infant was diagnosed with polio, 25 years after its last case. This comes amid warnings from the UN about the potential resurgence of the disease due to conflict. The discovery occurred shortly after the start of the war, highlighting the impact of violence on public health.
 
-පලස්තීන සෞඛ්‍ය බලධාරීන් පවසා ඇත්තේ මධ්‍යම ගාසා තීරයේ එන්නත්කරණයට ලක් නොවූ මාස 10ක් වයසැති බිළිඳෙකුට මෙලෙස පෝලියෝ රෝගය වැළඳී ඇති බවය.
+🟩
 
-යුද්ධය හේතුවෙන් මාස 11ක් පුරා එන්නත්කරණ කටයුතු නතර කිරීම හේතුවෙන් පෝලියෝ රෝගය යළි ව්‍යාප්තවීමේ අවදානමක් මතුවිය හැකි බව මීට පෙර එක්සත් ජාතීන්ගේ සංවිධානය විසින් අනතුරු ඇඟවිමක් ද සිදුකර තිබුණි.
+Israeli and Hamas have found a polio 25 years after the Gaza.
 
-යුද්ධයට විරාමයක් ලබා දී 640,000ක් පමණ වන කුඩා දරුවන් සඳහා එන්නත්කරණය කඩිනමින් කටයුතු ආරම්භ කළ යුතු බව එක්සත් ජාතීන්ගේ මහලේකම් ඇන්තෝනියෝ ගුටේරස් අවධාරණය කර දින කිහිපයකට පසුව මෙම පෝලියෝ රෝගියා වාර්තා වීමද විශේෂත්වයකි.
+Palestinian health authorities have said that a 10-month-old infant had been diagnosed with a 10-month old infant.
+
+The United Nations had previously warned that the war could increase the pollio disease again due to the war.
+
+Anthony Patient a few days later, the polio patient was reportedly underlined to commence the war.
 
 ◼️
 
 [Data](articles/5c363bd9.json)
+
+[Extended Data](ext_articles/5c363bd9.ext.json)
 
 ---
 
@@ -75,6 +87,8 @@ Speaking from the President’s House in Anuradhapura virtually yesterday (17), 
 ...
 
 [Data](articles/b7737554.json)
+
+[Extended Data](ext_articles/b7737554.ext.json)
 
 ---
 
@@ -1310,17 +1324,23 @@ The surgery is carried out by the doctor who has been tested at the private hosp
 
 ---
 
-### රට ගොඩ නගන සැලසුම් අපි හදල ඉවරයි
+### We have made the building plans to build the country
 
 *2024-08-18 08:18:27* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩ-නගන-සැලසුම්-අපි-හදල-ඉවරයි/11-411419) · `si`
 
-"රටට මේ විදියට යන්න දෙන්න බැහැ. රට දියුණු  කරන්න ඕන.අපි බලයට පත්වූ පසු වංචාව,දූෂණය  නතර කරනව. වංචකයින්ට දඬුවම් දෙනව. සොරාගත්ත දේපල රජයට පවර ගන්නව. ජනතාව සතුටින් තියන ආණ්ඩුවක් හදනවා. ඒ ටික කළ හැක්කේ  ජාතික  ජන බලවේගයට පමණයි" ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක  මහතා පැවසීය. ඉකුත්17 වනදා තංගල්ල නගරයේ පැවති රට අනුරට මැයින් පැවති ජන රැලියක් අමතමින් දිසානායක මහතා එසේ පැවසීය .
+Dissanayake addresses a rally, emphasizing the need for national development to combat fraud and corruption. He highlights the challenges faced by farmers, fishermen, and businesses, urging a shift from past failures towards progress. He promises to protect cultural heritage and ensure justice for wrongdoers, inviting support for the upcoming presidential election.
 
-රට විශාල ලෙස කඩා වැටීමක තියෙන්නෙ .ආර්ථික වශයෙන් ගත්තොත් පතුලටම ගිලුනු රටක්.අපරාධ පැත්තෙන් ගත්තොත් විශාල ලෙස අපරාධ වැඩිවුන රටක්. නීතියආධිපත්‍යය කඩා වැටුණු රටක්. ගොවිජනයගේ ජීවිත විශාල ලෙස පීඩනයට පත් රටක්. ධීවර ජනතාවගේ ජීවිත විශාල ලෙස පීඩනයට පත්වෙලා. ව්‍යාපාරික ජනතාව අවිනිශ්චිත තත්ත්වයට පත්වෙලා. තරුණ තරුණියන්ට තමාගේ අනාගත සිහිනය භංගත්වයට පත්වෙලා.
+🟩
+
+"The country cannot go this way. The country needs to be developed. After being powerful, fraud and corruption stops. Punishment for fraudsters. The government is entrusted with the government. People make a happy government. Only the national government force can only be done "Leader of the National Population". Dissanayake addressing a rally held in Tangalle town on the 17th.
+
+The country is in a large crash.. A country that collapsed by the rule. A country that is largely stressed in the lives of farming. The lives of fishermen have been severely affected. Business people have been uncertain. Young people have become a future dream.
 
 ...
 
 [Data](articles/a1341e0c.json)
+
+[Extended Data](ext_articles/a1341e0c.ext.json)
 
 ---
 

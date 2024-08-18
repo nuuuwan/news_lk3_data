@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 11:56:20**
+As of **2024-08-18 12:09:40**
 
 ## Newspaper Stats
 
@@ -26,47 +26,61 @@ adaderanasinhalalk | 7,040
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,307 (100.0%) of 41,311 articles have been extended.
+41,311 (100.0%) of 41,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### තායිලන්ත අගමැතිනියට රජුගේ අනුමැතිය
+### King's approval for Thai Prime Minister
 
 *2024-08-18 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200058) · `si`
 
-තායිලන්ත අගමැති ධුරය සඳහා එරට පාර්ලිමේන්තුව මගින් මීට දින දෙකකට පෙර තෝරා පත්කර ගත් පේටොන්ග්ටාන් ශිනවත් සඳහා තායිලන්ත රජතුමා ගේ අනුමැතිය ලැබී තිබේ.
+Pettentan, a 37-year-old former Prime Minister and daughter of a student, has been approved as Thailand's youngest Prime Minister by the King. Elected through the Legislative Court, she plans to form her Cabinet soon, stating no intention to involve her father in government roles.
 
-ඒ අනුව එරට ළාබාලතම අගමැති ලෙස ඇය වාර්තාගත වෙයි. 37 හැවිරිදි වියේ පසුවන පේටොන්ග්ටාන්, තායිලන්තයේ හිටපු අගමැතිවරයෙක් වන තක්සින් ශිනවත් ගේ දියණිය කි.
+🟩
 
-ඇය එම ධුරය සඳහා තෝරාගනු ලැබුවේ එරට අගමැති ලෙස කටයුතු කළ ශ්‍රේතා තවිසින් ව ව්‍යවස්ථාදායක අධිකරණය මගින් බලයෙන් පහ කිරීම හේතුවෙනි.
+Pettentan, elected to the post of Prime Minister, has been approved by the King Thailand two days ago for the post of Prime Minister.
 
-ඉදිරි දින කිහිපයේදී ඇය සිය අමාත්‍ය මණ්ඩලය පත් කිරීමට නියමිතය. තම පියාට රජයේ වගකීමක් දීමට අදහස් නොකරන බව පැවසූ පේටොන්ග්ටාන් පෙන්වා දුන්නේ තමා සිය පියාගේ උපදෙස් බලාපොරොත්තු වන බවයි.
+Accordingly, she is in the younger prime minister of the country. The 37-year-old Pettongtan, a former Prime Minister of Thailand, is the daughter of the student of Thailand.
+
+She was chosen for the rank of the prime minister of the country with the emissivation of the Legislative Court.
+
+She is to be appointed to appoint his Cabinet in the next few days. Petentgtan said he would not intend to give his father a government responsibility.
 
 ◼️
 
 [Data](articles/de680c76.json)
 
+[Extended Data](ext_articles/de680c76.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා කනිෂ්ඨ මලල ක්‍රීඩා කණ්ඩායම අර්බුදයක
+### Sri Lanka Junior Athletics Team in crisis
 
 *2024-08-18 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200057) · `si`
 
-පේරු රාජ්‍යයේ පැවැත්වෙන ලෝක ශූරතා කනිෂ්ඨ මලල ක්‍රීඩා ශූරතා තරගාවලියට මෙවර ශ්‍රී ලංකාවෙන් ක්‍රීඩක ක්‍රීඩිකාවන් 13 දෙනෙකු සුදුසුකම් ලබා සිටියද ඔවුන්ගේ සහභාගිත්වය අවිනිශ්චිත වී තිබේ.
+Sri Lanka's junior athletics team faces uncertainty for the World Championship in Peru due to lack of funding from the Ministry of Sports for air tickets and other expenses. Despite qualifying, financial constraints prevent the 13 athletes' participation, echoing previous issues like the 2022 event in Colombia. This situation highlights the challenges in supporting young talent, potentially hindering Sri Lanka's future athletic achievements.
 
-ඒ ගුවන් ටිකට් පත් ඇතුළු ඊට අවශ්‍ය ප්‍රතිපාදන ලබාදීමට ක්‍රීඩා අමාත්‍යංශ බලධාරීන් ප්‍රතික්ෂේප කර තිබීම හේතුවෙනි.
+🟩
 
-යොවුන් මලල ක්‍රීඩක ක්‍රීඩිකාවන්ට සිය දක්ෂතා දැක්වීමට අවස්ථාව ලැබෙන ප්‍රධානතම තරගාවලිය වන ලෝක ශූරතා කනිෂ්ඨ මලල ක්‍රීඩා ශූරතා තරගාවලිය මෙවර පැවැත්වීමට නියමිතව තිබෙන්නේ ලතින් අමෙරිකානු රටක් වන පේරු හි ලීමා අගනුවරදීය.
+Sri Lanka's participation has been uncertain from the World Championship Junior Athletics Championship in Peru, despite the qualifications of the World Championships.
 
-අගෝස්තු 27 සිට 31දක්වා පැවැත්වෙන තරගාවලිය නියෝජනය කිරීමට ශ්‍රී ලාංකික ක්‍රීඩක ක්‍රීඩිකාවන් 13ක් සුදුසුකම් ලබා තිබුණි.
+It is due to the authorities of the Ministry of Sports to provide the necessary funds including air tickets.
 
-නොයෙක් දුෂ්කරතා මැද අදාළ පරිසාධන මට්ටම් පසු කරමින් ඊට සුදුසුකම් ලැබූ එම ක්‍රීඩක ක්‍රීඩිකාවන් 13 දෙනාට අවශ්‍ය වීසා ශ්‍රී ලංකා මලල ක්‍රීඩා සංගමය විසින් ඉන්දියාව වෙත ගොස් ලබා ගෙන තිබුණේ කෙසේ හෝ මෙරට අනාගත මලල ක්‍රීඩාව භාර ගැනීමට සැරසෙන මෙම යොවුන් ක්‍රීඩක ක්‍රීඩිකාවන් එම තරගාවලියට සහභාගි කරවීමේ ඒකායන අරමුණ ඇතිවය.
+The World Championship Championship Championships will be held in the capital of a Latin American country, the maintest competition of young athletes.
+
+There were 13 Sri Lankan athletes to represent the tournament to be held from August 27 to 31.
+
+The Visa Sri Lanka Athletic Association had gone to India by the 13striarch levels that were eligible to take the decision levels in the various difficulties..
+
+But the Athletics Union has requested the Sports Ministry authorities to provide funds for air tickets and other amenities after the visa.The funds cannot be provided.
 
 ...
 
 [Data](articles/c1c62f39.json)
+
+[Extended Data](ext_articles/c1c62f39.ext.json)
 
 ---
 
@@ -460,21 +474,29 @@ P. Susila has been admitted to Cauvery Hospital in Alwarpet, Chennai due to ill 
 
 ---
 
-### முன்னாள் பிரதமருக்கு  பொது மன்னிப்பு
+### Public apologies to the former prime minister
 
 *2024-08-18 09:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-பிரதமருக்கு-பொது-மன்னிப்பு/50-342358) · `ta`
 
-தாய்லாந்தின் மன்னர் மகா வஜிரலோங்கோர்னின் பிறந்தநாள் கொண்டாட்டத்தின் ஒரு பகுதியாக, சிறை தண்டனை அனுபவித்து வரும் முன்னாள் பிரதமர் தக்சின் ஷினவத்ராவுக்கு பொது மன்னிப்பு வழங்கப்பட்டுள்ளது.
+Taksin Shinawatra, ex-PM of Thailand (2001-2006), granted amnesty on King Maha Vajiralongkorn's birthday. Accused of corruption and ousted in a military coup, he lived abroad for 15 years. His sister, Yingluck Shinawatra, briefly served as PM in 2011. Taksin returned in 2023, arrested but later released due to health concerns. His sentence was reduced by a year. The Constitutional Court removed current PM Srettha Thavisin, leading to his daughter, Paetongtarn Shinawatra, becoming PM. Taksin's pardon, announced during the king's birthday, allows him immediate release from corruption charges.
 
-தென் கிழக்கு ஆசிய நாடான தாய்லாந்தின் பிரதமராக, 2001 முதல் 2006 வரை பதவி வகித்தவர் தக்சின் ஷினவத்ரா. தொலைதொடர்புத்துறை நிறுவன உரிமையாளர்; பெரும் செல்வந்தர்.
+🟩
 
-இவரது பதவிக்காலத்தில், ஊழல் செய்ததாகவும், அதிகார துஷ்பிரயோகம் செய்ததாகவும் குற்றச்சாட்டு எழுந்து போராட்டங்கள் நடத்தப்பட்டன. இந்நிலையில், இராணுவப்புரட்சி நடந்து, தக்சின் ஆட்சி கவிழ்க்கப்பட்டது.
+Former Prime Minister Taksin Shinawatra has been granted amnesty as part of the birthday party of King Maha Vajiralongorn, Thailand.
 
-அவரது கட்சி தடை செய்யப்பட்டு, தக்சின் அரசியலில் ஈடுபடவும் அந்நாட்டு அரசு தடை விதித்த நிலையில், கைது அச்சத்தில், வெளிநாட்டுக்கு தப்பியோடிய அவர், கம்போடியா உள்ளிட்ட நாடுகளில் 15 ஆண்டுகள் தங்கியிருந்தார்.
+Taksin Shinawatra was the prime minister of South East Asia, Thailand, from 2001 to 2006. The owner of the telecommunications company;Great rich.
+
+During his tenure, protests were carried out alleging that corruption and abuse of power. In this case, the military revolution took place and the rule of Taksh was overthrown.
+
+He had fled abroad for 15 years in countries, including Cambodia, in fear of arrests, as his party was banned and the politics of Taksin.
+
+Despite being abroad, Taksin's hand was in the politics of Thailand. In the regime change in 2011, his younger sister Englak Shinawatra became Prime Minister. However, Taksin stayed abroad. During the change, he had the opportunity to return to his homeland.
 
 ...
 
 [Data](articles/2e9ad61c.json)
+
+[Extended Data](ext_articles/2e9ad61c.ext.json)
 
 ---
 
@@ -647,6 +669,8 @@ ECONOMYNEXT – Sri Lanka’s Foreign Ministry said the approved salary agreed w
 ...
 
 [Data](articles/7c341672.json)
+
+[Extended Data](ext_articles/7c341672.ext.json)
 
 ---
 

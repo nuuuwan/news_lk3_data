@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 16:52:43**
+As of **2024-08-18 17:06:16**
 
 ## Newspaper Stats
 
-*Scraped **41,358** Articles*
+*Scraped **41,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,503
 dailyftlk | 2,676
 adalk | 3,800
 dailymirrorlk | 4,733
-adaderanalk | 4,836
+adaderanalk | 4,837
 tamilmirrorlk | 5,323
 virakesarilk | 6,552
 adaderanasinhalalk | 7,052
@@ -26,43 +26,75 @@ adaderanasinhalalk | 7,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,355 (100.0%) of 41,358 articles have been extended.
+41,358 (100.0%) of 41,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### සුපිරි ප්‍රංශ නළුවා ජීවිතක්ෂයට පත්වෙයි
+### Fairly heavy showers over 75mm expected during next 36 hours
+
+*2024-08-18 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101329/fairly-heavy-showers-over-75mm-expected-during-next-36-hours) · `en`
+
+The Department of Meteorology says that showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provincesand in Kandy, Nuwara-Eliya, Galle and Matara districts during next 36 hours.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it added.
+
+Showers or thundershowers will occur at several places elsewhere over the island during the evening or night.
+
+Meanwhile, the Met. Dept. states that fairly strong winds about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/b7c7492c.json)
+
+---
+
+### Superior French actories dies
 
 *2024-08-18 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200070) · `si`
 
-කලක් ප්‍රංශ සිනමාවේ කඩවසම්ම නළුවා ලෙස ප්‍රසිද්ධියට පත්ව සිටි ඇලන් ඩෙලෝන් ජීවිතක්ෂයට පත්ව ඇති බව එරට මාධ්‍ය වාර්තා කළේය.
+Alan Delanen, a prominent French actor known for roles in "The Samurai" and "Borsalino," passed away peacefully at home. His contributions to French cinema were significant.
 
-ප්‍රංශ සිනමාවේ සාර්ථකම යුගයේදී ඔහු එහි වර්ධනයට සුවිශේෂී කාර්ය භාරයක් කළ නළුවෙක් ලෙස ප්‍රකට ය.
+🟩
 
-ඉතා සාර්ථක සිනමාපටයන් වූ "The Samurai" සහ "Borsalino" වැනි චිත්‍රපට වල ඔහුගේ රංගනය විශේෂ විය.
+Alan Delanen has died as the handsome actor in French cinema.
 
-"ඔහුගේ නිවසේදී ඔහු ඉතා සාමකාමීව ජීවිතයෙන් සමුගත්තා", ඔහුගේ පවුලේ සාමාජිකයින් නිකුත්කළ නිවේදනයක දැක්වුණි.
+He is well known as an actor who has made a unique role in the French cinema.
+
+His performance was special in films such as "The samurai" and "borsalino".
+
+"At his home, he was very peaceable in his home," said his family members.
 
 ◼️
 
 [Data](articles/09b15589.json)
 
+[Extended Data](ext_articles/09b15589.ext.json)
+
 ---
 
-### ரணிலுக்கே இ.தொ.கா ஆதரவு
+### CWC support for Ranil
 
 *2024-08-18 16:21:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கே-இ-தொ-கா-ஆதரவு/175-342389) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிப்பதற்கு இலங்கை தொழிலாளர் காங்கிரஸ் தீர்மானித்துள்ளது.
+The Ceylon Workers Congress has endorsed President Ranil Wickremesinghe for the upcoming presidential election, deciding this during their National Council Meeting. A Memorandum of Understanding will be signed, affirming their support.
 
-இலங்கை தொழிலாளர் காங்கிரசின் தேசிய சபை கூட்டம்  கொட்டகலை CLFயில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்றது. இக்கூட்டத்தில் தேசிய சபையில் கலந்துரையாடி எடுக்கப்பட்ட முடிவின் பிரகாரம் இலங்கை தொழிலாளர் காங்கிரஸ் தனது  ஆதரவை ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு வழங்குவதாக உத்தியோகபூர்வமாக தெரிவித்துள்ளது.
+🟩
 
-தேசிய சபையில் முன்வைக்கப்பட்ட கோரிக்கைளை ஜனாதிபதியின் கவனத்திற்கு கொண்டு சென்று புரிந்துணர்வு உடன்படிக்கை கைச்சத்திடப்படவுள்ளது.
+The Ceylon Workers Congress has decided to support President Ranil Wickremesinghe in the upcoming presidential election.
+
+The National Council Meeting of the Ceylon Workers Congress was held on Sunday (18) at Kotagala CLF. The Ceylon Workers Congress has officially said that the Ceylon Workers Congress will extend its support to President Ranil Wickremesinghe as the decision of the National Council at the meeting.
+
+The Memorandum of Understanding (MoU) will be signed by the President's attention to the President.
 
 ◼️
 
 [Data](articles/51f4ef4a.json)
+
+[Extended Data](ext_articles/51f4ef4a.ext.json)
 
 ---
 
@@ -85,6 +117,8 @@ He further criticized the current government for its focus on personal gains whi
 ◼️
 
 [Data](articles/faa6b9f9.json)
+
+[Extended Data](ext_articles/faa6b9f9.ext.json)
 
 ---
 
@@ -2275,25 +2309,5 @@ However, the babies of the buried creature, the Director General of Wildlife, MG
 [Data](articles/5cafd514.json)
 
 [Extended Data](ext_articles/5cafd514.ext.json)
-
----
-
-### Indian hospitals hit as doctors strike to protest rape, murder of colleague
-
-*2024-08-17 20:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101313/indian-hospitals-hit-as-doctors-strike-to-protest-rape-murder-of-colleague) · `en`
-
-Hospitals and clinics across India turned away patients except for emergency cases on Saturday as medical professionals started a 24-hour shutdown in protest against the brutal rape and murder of a doctor in the eastern city of Kolkata.
-
-More than one million doctors were expected to join the strike, paralysing medical services across the world’s most populous nation. Hospitals said faculty staff from medical colleges had been pressed into service for emergency cases.
-
-The government, in a statement issued on Saturday after a meeting with representatives of medical associations, urged doctors to return to duties in the public interest.
-
-A 31-year old trainee doctor was raped and murdered last week inside the medical college in Kolkata where she worked, triggering nationwide protests among doctors and drawing parallels to the notorious gang rape and murder of a 23-year-old student on a moving bus in New Delhi in 2012.
-
-...
-
-[Data](articles/476fc314.json)
-
-[Extended Data](ext_articles/476fc314.ext.json)
 
 ---

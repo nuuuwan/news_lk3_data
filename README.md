@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 02:36:44**
+As of **2024-08-19 02:54:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,412 (100.0%) of 41,413 articles have been extended.
+41,413 (100.0%) of 41,413 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,19 +86,25 @@ At the same time, I got the most votes in the Akkaraipattana Pradeshiya Sabha el
 
 ---
 
-### ஆசிரியர் உட்பட 3 பேர் கைது
+### 3 persons including teacher
 
 *2024-08-19 01:03:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-உட்பட-3-பேர்-கைது/175-342415) · `ta`
 
-மட்டக்களப்பு, களுவாஞ்சிக்குடி, ஏறாவூர், காத்தான்குடி, ஆகிய பொலிஸ் பிரிவுகளில் கடந்த இரு வாரங்களில் பாடசாலை சிறுமி ஒருவர் பாலியல் துஸ்பிரயோகம் செய்யப்பட்ட சம்பவம் தொடர்பாக ஆசிரியர் ஒருவரையும், இரு சிறுமிகளை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டில்  இரு இளைஞர்களை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police have arrested two youths on charges of sexually abusing a school girl in the last two weeks in Batticaloa, Kaluwanchikudi, Eravur and Kattankudi police divisions.
 
-இந்நிலையில்,  4 வயது சிறுவனை சித்திரவதை செய்த பாடசாலை ஆசிரியர் ஒருவருக்கு எதிராக முறைபாடு செய்துள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+In this case, a police official said that a 4 -year -old boy had lodged a complaint against a school teacher who had tortured a 4 -year -old boy.
 
-மாவட்டதிலுள்ள பிரதேச பாடசாலை ஒன்றில் கல்விகற்றுவரும் 16 வயதுடைய மாணவியை கடந்த 11ம் திகதி ஞாயிற்றுக்கிழமை ஆலயம் ஒன்றில் தரிசனத்தில் ஈடுபட்டுக் கொண்டிருந்த சிறுமியை அதே பாடசாலையில் கல்வி கற்பித்துவரும் 44 வயதுடைய ஆசிரியர் சிறுமியை தனது மோட்டார் சைக்கிளில் ஏற்றிக் கொண்டு அங்கிருந்து மட்டுநகர் பகுதிக்கு பிராயாணித்துள்ளார்
+A 16 -year -old student who was educated at a area school in the district, a 44 -year -old teacher, who was educated in a temple on Sunday, 11th of this month, took a motorbike on her motorbike.
+
+The youths who saw this followed them and caught them in the city and fled with the girl from there.. According to the information received by the authorities of the Child Probation, the teacher lodged a complaint at the police station.
+
+The Eravur police arrested the author of the Eravur Magistrate's Court on the day of the incident.. He was ordered to be kept in detention until the 23rd.
 
 ...
 
 [Data](articles/294713f4.json)
+
+[Extended Data](ext_articles/294713f4.ext.json)
 
 ---
 

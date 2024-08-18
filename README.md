@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 20:36:51**
+As of **2024-08-18 20:55:10**
 
 ## Newspaper Stats
 
-*Scraped **41,379** Articles*
+*Scraped **41,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,503
 dailyftlk | 2,676
-adalk | 3,805
+adalk | 3,806
 dailymirrorlk | 4,733
 adaderanalk | 4,840
-tamilmirrorlk | 5,326
+tamilmirrorlk | 5,327
 virakesarilk | 6,553
 adaderanasinhalalk | 7,060
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,060
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,379 (100.0%) of 41,379 articles have been extended.
+41,379 (100.0%) of 41,381 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,20 @@ He was speaking at a reliance in Ruwanwella today (18).
 [Data](articles/4ee422f0.json)
 
 [Extended Data](ext_articles/4ee422f0.ext.json)
+
+---
+
+### ஆண்டகையுடன் சஜித் சந்திப்பு
+
+*2024-08-18 19:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்டகையுடன்-சஜித்-சந்திப்பு/175-342395) · `ta`
+
+பேரருட் திரு மல்கம் கர்தினால் ரஞ்சித் ஆண்டகை, அருட்திரு மெக்ஸ்வெல் சில்வா, அருட்திரு ஜே.டி. அந்தனி ஜயகொடி, அருட்திரு அன்டன் ரஞ்சித், அருட்திரு சிறில் காமினி மற்றும் அருட்திரு இந்திக ஜோய் ஆகியோரை எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச சந்தித்து ஆசிகளை பெற்றுக்கொண்டார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலை முன்னிட்டு ஜனாதிபதி வேட்பாளராக களமிறங்கும் சஜித் பிரேமதாச தனது வெற்றியின் பொருட்டு ஆசிகளை பெற்றுக்கொண்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/df0da868.json)
 
 ---
 
@@ -163,6 +177,26 @@ The Daily Mirror said further information would be announced to our readers when
 [Data](articles/a95fbf6a.json)
 
 [Extended Data](ext_articles/a95fbf6a.ext.json)
+
+---
+
+### බිරිඳට පෙට්‍රල් දමා ගිනි තැබා මරා දැමූ සැමියා අත්අඩංගුවට
+
+*2024-08-18 18:31:52* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳට-පෙට්‍රල්-දමා-ගිනි-තැබා-මරා-දැමූ-සැමියා-අත්අඩංගුවට/11-411434) · `si`
+
+තම සුරූපී බිරිදට බිරිදට පෙට්‍රල් ගිනි තබා මරා දැමිමේ චෝදනාවට 41 හැවිරිදි පොල් කඩන්නේකු වු සැමියා වෙන්නප්පුව පොලිසිය විසින් 18 දින අත් අඩංගුවට ගත් බව කියයි.
+
+මෙසේ මරණයට පත්ව ඇත්තේ වෙන්නප්පුව සින්ද්‍රාන්ති කොළණියෙ නිවසක පදිංචිව සිටි 37 හැවිරිදි තංගවේලු රාජලිංගම් සුසිලා නැමති තිදරු මවක් බව කියයි.
+
+මරණයට පත්වු කාන්තාව වසර දෙකකට පෙර මෙම ඝාතනයට සම්බන්ධ සැමියා විසින් මැදපෙරදිග රටක ගෘහ සේවිකාවක් ලෙස සේවය කිරීම සදහා යවා තිබු බවත් එහිදි කොච්චිකඩේ ප්‍රදේශයේ පදිංචි අයකු සමග සම්බන්ධයක් පවත්වාගෙන ගොස් ඇති බව පරික්ෂණ වලදි තහවුරු වී තිබේ.
+
+ඝාතනයට ලක්වු කාන්තාවගේ සැමියා කුලියට පොල් ගස් නැග පොල් කැඩිමේ නිරතව සිට ඇති බවත් ඔවුන් දරුවන් සමග සින්ද්‍රාන්තිය කොළණියෙ නිවසක් කුලියට ගෙන පදිංචිව සිට ඇති බව කියයි.
+
+නිවසේ පැවති ආර්ථික තත්වයෙන් ගොඩ ඒම සදහා තම බිරිද මැදපෙරදිග ගෘහ සේවිකාවක් ලෙස සේවයට යවා ඇති බව පැවසෙයි.
+
+...
+
+[Data](articles/6a8bcaaa.json)
 
 ---
 
@@ -2359,35 +2393,5 @@ The Department of Meteorology has taken steps to take necessary action to reduce
 [Data](articles/cd089d8b.json)
 
 [Extended Data](ext_articles/cd089d8b.ext.json)
-
----
-
-### Harry J turns 82: more than a hard-nosed businessman
-
-*2024-08-18 02:45:00* · [`islandlk`](http://island.lk/harry-j-turns-82-more-than-a-hard-nosed-businessman/) · `en`
-
-Almost 20 years ago, I received a call from Don Harold Stassen Jayawardena. Of course, at the time I knew him as ‘Harry Jayawardena’ as did many Sri Lankans, especially in business circles. I was in England, veritably forced into exile by political circumstances which included the abduction and torture of the deputy editor of ‘The Nation,’ a newspaper published by Rivira Media Corporation, of which I was at the time the Managing Director, and a brutal attack on Upali Tennakoon, the editor of our sister newspaper in Sinhala.
-
-These attacks came just after my friend Lasantha Wickramatunge implored me to leave the country and not too long before he himself was killed. It was a time not just of exile but abandonment; for reasons of convenience or fear almost all those I considered friends avoided me. There were a handful who didn’t give a damn about possible consequences or cared enough to be supportive. I didn’t count Harry among them.
-
-...
-
-[Data](articles/5ba46232.json)
-
-[Extended Data](ext_articles/5ba46232.ext.json)
-
----
-
-### Damn Fine Coffee expands into global market
-
-*2024-08-18 02:45:00* · [`islandlk`](http://island.lk/damn-fine-coffee-expands-into-global-market/) · `en`
-
-Fits Retail is expanding globally with its Damn Fine Coffee brand, launched in 2021. Originating as a premium coffee vending company in 2019, Fits Retail partnered with major coffee equipment brands and entered the HORECA segment. Damn Fine Coffee focuses on quality and sustainability, working with over 300 smallholder farmers and establishing a coffee processing centre in 2022, which earned recognition as one of Sri Lanka’s best processors. The company also sponsors the National Barista Championship and offers barista training. In 2023, Damn Fine Coffee made its first international export, marking its entry into the global market and signalling plans for further expansion.
-
-...
-
-[Data](articles/685c13d6.json)
-
-[Extended Data](ext_articles/685c13d6.ext.json)
 
 ---

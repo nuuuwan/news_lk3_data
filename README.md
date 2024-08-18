@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 01:21:24**
+As of **2024-08-19 01:36:48**
 
 ## Newspaper Stats
 
-*Scraped **41,410** Articles*
+*Scraped **41,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,807
 dailymirrorlk | 4,733
 adaderanalk | 4,843
-tamilmirrorlk | 5,332
+tamilmirrorlk | 5,333
 virakesarilk | 6,567
 adaderanasinhalalk | 7,064
 
@@ -26,27 +26,55 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,408 (100.0%) of 41,410 articles have been extended.
+41,410 (100.0%) of 41,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### ’தமிழ் மக்கள் ஆதரிக்கின்றவர் ஜனாதிபதியாக வேண்டும்’
+### ’தம்பியிடம் மனம் நொந்து அண்ணனிடம் இணைந்தேன்’
 
-*2024-08-19 00:49:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்கள்-ஆதரிக்கின்றவர்-ஜனாதிபதியாக-வேண்டும்/175-342414) · `ta`
+*2024-08-19 01:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்பியிடம்-மனம்-நொந்து-அண்ணனிடம்-இணைந்தேன்/175-342417) · `ta`
 
-பன்முகப்படுத்தப்பட்ட நிதியில் இம்முறை பல அபிவிருத்தி திட்டங்களை  என்னால் மேற்கொள்ள முடிந்துள்ளது. வருகின்ற ஜனாதிபதித் தேர்தலில் தமிழ் மக்கள் ஆதரிக்கின்ற ஒருவர்தான் இந்த நாட்டிலே ஜனாதிபதியாக வரவேண்டும்.
+இலங்கை தொழிலாளர் காங்கிரஸின் 20 வருட கால நட்பினை முறித்துக் கொண்டுள்ள அக்கரப்பத்தனை முன்னாள் பிரதேச சபைத் தலைவர் ராமன் கோபால் தொழிலாளர் தேசிய சங்கத்தில் இணைந்து கொண்டார்.
 
-அவ்வாறான சூழல் வருகின்றபோது தான் தமிழ்  மக்களின்  அரசியல்  சார்ந்த விடயங்களை முன்னெடுக்க முடியும் என மட்டக்களப்பு  மாவட்ட  பாராளுமன்ற  உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
+இவ்வாறு இணைந்து கொண்ட இராமன் கோபாலுக்கு, தொழிலாளர் தேசிய சங்கத் தலைவரும் முன்னாள் அமைச்சருமான பழனி திகாம்பரம் உத்தியோக பூர்வமாக இணைவு கடிதத்தை வழங்கி கட்சிக்கு இணைத்துக் கொண்டமை குறிப்பிடத்தக்கது.
 
-மட்டக்களப்பு களுவாஞ்சிக்குடி சாயி சிறுவர் விளையாட்டு விழா  களுவாஞ்சிகுடியில் சனிக்கிழமை (17) மாலை  நடைபெற்றது.  இதன்போது  கலந்து  கொண்டு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+ஹட்டனில் ஞாயிற்றுக்கிழமை  (18) நடைபெற்ற தொழிலாளர் தேசிய சங்க கூட்டத்தில் பொன்னாடை போர்த்திக் கௌரவிக்கப்பட்டு இவரை உத்தியோகப்பூர்வமாக இணைத்து கொண்டுள்ளமையும் குறிப்பிடத்தக்கதாகும்.
 
-நாம்  அபிவிருத்தி  சார்ந்த  விடயங்களையும்  நாம்  முன்னெடுக்க  வேண்டும்.  எமது தேர்தல் விஞ்ஞாபனத்தில் கூட உரிமையுடன் கூடிய  அபிவிருத்தியை  முன்னெடுக்க வேண்டும் என்றுதான் எழுதியிருந்தோம். எனவே வடக்கு கிழக்கு மக்களுக்கு நன்கு சேவை செய்பவரை நன்கு அறிந்து எமது மக்கள் தேர்வு செய்ய வேண்டும்.
+எனது தந்தை இ.தொ.காவின் நீண்ட கால விசுவாசி அதேபோல நான் 20 வருடகால விசுவாசி அதற்காக எனக்கு கிடைத்த சன்மானம் மூன்று மாத பிரதேச சபை தலைவர் மட்டுமேயாகும் என்றார் ராமன் கோபால் .
+
+அதுவும் அக்கரப்பத்தனை பிரதேச சபை கலைக்கப்படும் நிலையில் இந்த சபை அபிவிருத்தியில் பின் தள்ளப்பட்ட நிலையிலும் காங்கிரஸில் எழுதாத வரலாற்றில் தனக்கு இந்த பதவி வழங்கப்பட்டது அதை சரிவரச் செய்து 90 நாட்களில் சாதனை படைத்தேன்.
 
 ...
 
+[Data](articles/1fb98df1.json)
+
+---
+
+### Tamil people supported the president
+
+*2024-08-19 00:49:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்கள்-ஆதரிக்கின்றவர்-ஜனாதிபதியாக-வேண்டும்/175-342414) · `ta`
+
+Tamil community support for the president is highlighted, emphasizing his backing during upcoming elections. Development projects funded diversely have been successfully executed, thanks to the president's support. Political affairs of Tamils can progress in an environment conducive to their needs, as stated by Batticaloa district parliamentarian R. Sanakiyan. A children's sports festival in Batticaloa underscored the importance of development and unity among the people of the North and East, aiming for a prosperous future through collective decisions.
+
+🟩
+
+I have been able to carry out many development projects this time in the diverse funds. The president in this country is the one who supports the Tamil people in the coming presidential election.
+
+Batticaloa district parliamentarian R. Sanakiyan said that the political matters of the Tamil people can be carried out only when such an environment is coming.
+
+Batticaloa Kaluwanchikudi Sai Children's Sports Festival was held on Saturday evening (17) at Kaluwanchikudi.He said this while participating in the event.
+
+We need to carry out development -related issues.In our election manifesto, we wrote that we need to carry out the right -handed development. Therefore, the people of the North and East should be well aware of our people.
+
+We will announce a decision in unity of our party very quickly.If our people will join that decision, you can definitely set the best future in the region.
+
+◼️
+
 [Data](articles/bfac582a.json)
+
+[Extended Data](ext_articles/bfac582a.ext.json)
 
 ---
 
@@ -749,6 +777,8 @@ One of the problem faced by people of Jaffna is the lack of potable and arable w
 ...
 
 [Data](articles/4e4277d9.json)
+
+[Extended Data](ext_articles/4e4277d9.ext.json)
 
 ---
 
@@ -2345,27 +2375,5 @@ A group of Sri Lanka Workers Congress trade union supporters hung flags througho
 [Data](articles/56179de6.json)
 
 [Extended Data](ext_articles/56179de6.ext.json)
-
----
-
-### Littlezone is coming
-
-*2024-08-18 10:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்டில்ஜோன்-வருகிறார்/175-342366) · `ta`
-
-Jennifer R., Assistant Secretary of State, will visit Sri Lanka from August 17 to 31 to discuss environmental issues, including natural and sea protection, pollution, climate crisis, and deforestation. She'll also focus on anti-natural crimes, civil and business activities, science and technology, and promoting a stable maritime economy. Meetings with government officials and visits to US-backed wildlife protection programs are planned to foster collaboration between Sri Lankan and US experts in hydrography and climate change.
-
-🟩
-
-Assistant Secretary of State Jennifer R.. The US State Department has said that Littlezone will travel to Sri Lanka from August 17 to August 31.
-
-"During her visit, the department would discuss women and girls in the fields of natural and sea protection, plastic and air pollution, climate crisis, deforestation, anti -natural crimes, civil and business activities, science and technology, as he would discuss women and girls in the fields of stable maritime economyHas been reported.
-
-He will meet government officials and shareholders in Sri Lanka from August 19 to 21, and visit the US -backed wildlife protection programs to investigate the opportunities to connect Sri Lankans with US experts in areas such as hydrography and climate change.
-
-◼️
-
-[Data](articles/36fbedc7.json)
-
-[Extended Data](ext_articles/36fbedc7.ext.json)
 
 ---

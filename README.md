@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 09:56:08**
+As of **2024-08-18 10:08:37**
 
 ## Newspaper Stats
 
-*Scraped **41,289** Articles*
+*Scraped **41,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,793
 dailymirrorlk | 4,733
 adaderanalk | 4,825
-tamilmirrorlk | 5,303
+tamilmirrorlk | 5,304
 virakesarilk | 6,539
 adaderanasinhalalk | 7,035
 
@@ -26,61 +26,101 @@ adaderanasinhalalk | 7,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,285 (100.0%) of 41,289 articles have been extended.
+41,289 (100.0%) of 41,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### දකුණු ලෙබනනයට ගුවන් ප්‍රහාර
+### மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யும்
+
+*2024-08-18 09:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையோ-அல்லது-இடியுடன்-கூடிய-மழையோ-பெய்யும்/175-342362) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று (18) மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில பகுதிகளில் 75 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும்.
+
+மாலை அல்லது இரவு வேளையில் நாட்டின் ஏனைய பகுதிகளில் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் இடைக்கிடையில் 30-40 கிலோ மீற்றர் வேகத்தில் ஓரளவு பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், மக்களை கோரியுள்ளது. R
+
+◼️
+
+[Data](articles/fddf5f8f.json)
+
+---
+
+### Air Force fighters to southern Leban
 
 *2024-08-18 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200052) · `si`
 
-ඊශ්‍රායල හමුදාව විසින් දකුණු ලෙබනනයේ නබාටියේ නගරයට එල්ලකළ ගුවන් ප්‍රහාරයකින් සාමාන්‍ය වැසියන් 10 දෙනෙක් මියගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+In Southern Lebanon, 10 civilians including two children died due to an Israeli airstrike, with five others injured. The Israeli military claimed the target was Hezbollah weapons. In retaliation, Hezbollah launched 55 rockets towards a village in Northern Israel.
 
-මියගිය පිරිස අතර දරුවන් දෙදෙනෙක් ද වෙයි. තවත් 5 දෙනෙක් තුවාල ලබා තිබුණි.
+🟩
 
-මේ අතර ඊශ්‍රායල හමුදාව පැවසුවේ හිස්බුල්ලා කණ්ඩායම භාවිත කළ අවි ගබඩාවක් ඉලක්ක කර එම ප්‍රහාරය එල්ලකළ බවයි.
+International media reports say that 10 civilians have killed the death of the Israeli Army in the city of South Lebana.
 
-ඊට ප්‍රතිචාර ලෙස උතුරු ඊශ්‍රායලයේ ගම්මානයකට රොකට් ප්‍රහාර 55ක් එල්ලකළ බව හිස්බුල්ලා කණ්ඩායම නිවේදනය කළේය.
+Two children are among the deceased. 5 others were injured.
+
+Meanwhile, the Israeli military said that the attack was targeted at a weapon used by the Hezbollah.
+
+In response, the Hezbollah announced that there were 55 rockete attacks to a village in northern Israel.
 
 ◼️
 
 [Data](articles/6cb74957.json)
 
+[Extended Data](ext_articles/6cb74957.ext.json)
+
 ---
 
-### பின்னணி பாடகி பி.சுசிலா  மருத்துவமனையில் அனுமதி
+### Background singer is admitted to P.Susila Hospital
 
 *2024-08-18 09:23:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பின்னணி-பாடகி-பி-சுசிலா-மருத்துவமனையில்-அனுமதி/54-342359) · `ta`
 
-தமிழ், தெலுங்கு, கன்னடம், மலையாளம், இந்தி உள்ளிட்ட 9 மொழிகளில் சுமார் 40,000க்கும் மேற்பட்ட பாடல்களை பாடியவர் பி சுசீலா. 70 மற்றும் 80களின் நடிகைகளான சாவித்ரி, பத்மினி, சரோஜா தேவி உள்ளிட்ட நடிகைகள் நடித்துள்ள படத்தில் அவர்களுக்காக பின்னணி பாடியுள்ளார்.
+Renowned background singer P. Susheela, known for her contributions in 9 languages including Tamil, Telugu, and Hindi, has been hospitalized at Cauvery Hospital in Chennai due to illness. Despite winning the National Award for Best Female Background Singer, she prefers not to sing in films anymore due to her age.
 
-உயர்ந்த மனிதன் படத்தில் இடம் பெற்ற “பால் போலவே” என்ற பாடலுக்காக முதன் முறையாக சிறந்த பெண் பின்னணிப் பாடகிக்கான தேசிய விருதை பெற்றார். வயது மூப்பு காரணமாக திரைப்படங்களில் பாடுவதை அவர் தவிர்த்து வருகிறார்.
+🟩
 
-இந்நிலையில், உடல்நலக்குறைவு காரணமாக சென்னை ஆழ்வார்பேட்டையில் உள்ள காவேரி மருத்துவமனையில் பி.சுசிலா அனுமதிக்கப்பட்டுள்ளார்.S
+P. Susheela has sung over 40,000 songs in 9 languages ​​including Tamil, Telugu, Kannada, Malayalam and Hindi. Actresses in the 70s and 80s, Savitri, Padmini and Saroja Devi have sung the background for them.
+
+The highest man won the National Award for Best Female Background Singer for the first time. He avoids singing in movies due to age.
+
+P. Susila has been admitted to Cauvery Hospital in Alwarpet, Chennai due to ill health.
 
 ◼️
 
 [Data](articles/75e67868.json)
 
+[Extended Data](ext_articles/75e67868.ext.json)
+
 ---
 
-### முன்னாள் பிரதமர் தக்சின் ஷினவத்ராவுக்கு  பொது மன்னிப்பு
+### Public pardon for former Prime Minister Taksin Shinawatra
 
 *2024-08-18 09:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-பிரதமர்-தக்சின்-ஷினவத்ராவுக்கு-பொது-மன்னிப்பு/50-342358) · `ta`
 
-தாய்லாந்தின் மன்னர் மகா வஜிரலோங்கோர்னின் பிறந்தநாள் கொண்டாட்டத்தின் ஒரு பகுதியாக, சிறை தண்டனை அனுபவித்து வரும் முன்னாள் பிரதமர் தக்சின் ஷினவத்ராவுக்கு பொது மன்னிப்பு வழங்கப்பட்டுள்ளது.
+Taksin Shinawatra, former Thai PM (2001-2006), granted amnesty on King Maha Vajiralongkorn's birthday. Accused of corruption and ousted in a military coup, he lived abroad for 15 years. His return in 2023 saw him briefly imprisoned before his sentence was reduced. His daughter, Pannika, became PM after the Constitutional Court removed her predecessor. Taksin's public pardon allows him immediate release from corruption charges.
 
-தென் கிழக்கு ஆசிய நாடான தாய்லாந்தின் பிரதமராக, 2001 முதல் 2006 வரை பதவி வகித்தவர் தக்சின் ஷினவத்ரா. தொலைதொடர்புத்துறை நிறுவன உரிமையாளர்; பெரும் செல்வந்தர்.
+🟩
 
-இவரது பதவிக்காலத்தில், ஊழல் செய்ததாகவும், அதிகார துஷ்பிரயோகம் செய்ததாகவும் குற்றச்சாட்டு எழுந்து போராட்டங்கள் நடத்தப்பட்டன. இந்நிலையில், இராணுவப்புரட்சி நடந்து, தக்சின் ஆட்சி கவிழ்க்கப்பட்டது.
+Former Prime Minister Taksin Shinawatra has been granted amnesty as part of the birthday party of King Maha Vajiralongorn, Thailand.
 
-அவரது கட்சி தடை செய்யப்பட்டு, தக்சின் அரசியலில் ஈடுபடவும் அந்நாட்டு அரசு தடை விதித்த நிலையில், கைது அச்சத்தில், வெளிநாட்டுக்கு தப்பியோடிய அவர், கம்போடியா உள்ளிட்ட நாடுகளில் 15 ஆண்டுகள் தங்கியிருந்தார்.
+Taksin Shinawatra was the prime minister of South East Asia, Thailand, from 2001 to 2006. The owner of the telecommunications company;Great rich.
+
+During his tenure, protests were carried out alleging that corruption and abuse of power. In this case, the military revolution took place and the rule of Taksh was overthrown.
+
+He had fled abroad for 15 years in countries, including Cambodia, in fear of arrests, as his party was banned and the politics of Taksin.
+
+Despite being abroad, Taksin's hand was in the politics of Thailand. In the regime change in 2011, his younger sister Englak Shinawatra became Prime Minister. However, Taksin stayed abroad. During the change, he had the opportunity to return to his homeland.
 
 ...
 
 [Data](articles/a1ba5ab0.json)
+
+[Extended Data](ext_articles/a1ba5ab0.ext.json)
 
 ---
 
@@ -961,6 +1001,8 @@ Until now, the Presidential Election has been a direct contest between candidate
 ...
 
 [Data](articles/2a617021.json)
+
+[Extended Data](ext_articles/2a617021.ext.json)
 
 ---
 
@@ -2247,25 +2289,5 @@ It has been reported that the youths are struggling to bring the fire under cont
 [Data](articles/255c4eba.json)
 
 [Extended Data](ext_articles/255c4eba.ext.json)
-
----
-
-### First case of polio confirmed in a 10-month-old child in Gaza, Palestinian health officials say
-
-*2024-08-17 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101297/first-case-of-polio-confirmed-in-a-10-month-old-child-in-gaza-palestinian-health-officials-say) · `en`
-
-Palestinian health officials on Friday reported the first case of polio in an unvaccinated 10-month-old child in the Gaza city of Deir al-Balah, the first case in years in the coastal enclave that has been engulfed in the Israel-Hamas war since Oct. 7.
-
-After discovering the child’s symptoms, tests were conducted in Jordan’s capital of Amman and the case was confirmed to be polio, the health officials said.
-
-The potentially fatal, paralyzing disease mostly strikes children under the age of 5 and typically spreads through contaminated water. Pakistan and Afghanistan are the only countries where the spread of polio has never been stopped.
-
-The World Health Organization did not immediately respond to requests to confirm the case. However, U.N. health and children’s agencies have called for seven-day pauses in the fighting, starting at the end of August, to vaccinate 640,000 Palestinian children against polio.
-
-...
-
-[Data](articles/dc2fc238.json)
-
-[Extended Data](ext_articles/dc2fc238.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 06:06:22**
+As of **2024-08-18 06:41:58**
 
 ## Newspaper Stats
 
-*Scraped **41,262** Articles*
+*Scraped **41,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,823
 tamilmirrorlk | 5,296
 virakesarilk | 6,539
-adaderanasinhalalk | 7,030
+adaderanasinhalalk | 7,031
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,260 (100.0%) of 41,262 articles have been extended.
+41,262 (100.0%) of 41,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-08-18 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200048) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (18) දිනයේ විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/cd089d8b.json)
+
+---
 
 ### Harry J turns 82: more than a hard-nosed businessman
 
@@ -82,6 +102,8 @@ On Saturday August 24 the FIRST LEG of the 78th edition of the prestigious Bradb
 
 [Data](articles/5486b8ce.json)
 
+[Extended Data](ext_articles/5486b8ce.ext.json)
+
 ---
 
 ### Issues of co-ordination during the 1971 insurgency
@@ -97,6 +119,8 @@ In a way food was the most important. Long curfew hours not only restricted food
 ...
 
 [Data](articles/4bd5f75b.json)
+
+[Extended Data](ext_articles/4bd5f75b.ext.json)
 
 ---
 
@@ -2289,27 +2313,5 @@ Speaking at the inaugural rally launching Premadasa’s election campaign in Kur
 [Data](articles/1c8ce011.json)
 
 [Extended Data](ext_articles/1c8ce011.ext.json)
-
----
-
-### Ferry service between Nagapattinam and Kankesanthurai resumes
-
-*2024-08-17 00:52:32* · [`dailyftlk`](https://www.ft.lk/news/Ferry-service-between-Nagapattinam-and-Kankesanthurai-resumes/56-765685) · `en`
-
-The passenger ferry service between Nagapattinam in India and Kankesanthurai (KKS) near Jaffna in the Northern Province of Sri Lanka resumed yesterday.
-
-The transport service, which was launched earlier in October 2023, was temporarily halted.
-
-The ferry ‘Sivagangai’ run by a private operator, IndSri Ferry Services, completed its maiden journey between Nagapattinam and KKS in around four hours with around 50 passengers on board. The passengers were welcomed at the KKS Port by the Consul General of India at Jaffna.
-
-This resumption of the ferry service is a testament to the broader effort to enhance maritime connectivity between India and Sri Lanka.
-
-In order to make the service more affordable for passengers, the Government of India has decided to provide financial assistance of over Rs. 25 million per month, for a period of one year, to cover relevant charges and operating costs at Nagapattinam Port.
-
-...
-
-[Data](articles/f919cf60.json)
-
-[Extended Data](ext_articles/f919cf60.ext.json)
 
 ---

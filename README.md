@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 19:36:38**
+As of **2024-08-18 19:54:59**
 
 ## Newspaper Stats
 
-*Scraped **41,376** Articles*
+*Scraped **41,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,804
 dailymirrorlk | 4,733
 adaderanalk | 4,840
-tamilmirrorlk | 5,325
+tamilmirrorlk | 5,326
 virakesarilk | 6,553
 adaderanasinhalalk | 7,059
 
@@ -26,29 +26,49 @@ adaderanasinhalalk | 7,059
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,375 (100.0%) of 41,376 articles have been extended.
+41,376 (100.0%) of 41,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### தனமல்வில விவகாரம்:சட்ட வைத்திய அதிகாரி கைது
+### ஆயருடன் சஜித் சந்திப்பு
+
+*2024-08-18 19:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயருடன்-சஜித்-சந்திப்பு/175-342395) · `ta`
+
+பேரருட் திரு மல்கம் கர்தினால் ரஞ்சித் ஆண்டகை, அருட்திரு மெக்ஸ்வெல் சில்வா, அருட்திரு ஜே.டி. அந்தனி ஜயகொடி, அருட்திரு அன்டன் ரஞ்சித், அருட்திரு சிறில் காமினி மற்றும் அருட்திரு இந்திக ஜோய் ஆகியோரை எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச சந்தித்து ஆசிகளை பெற்றுக்கொண்டார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலை முன்னிட்டு ஜனாதிபதி வேட்பாளராக களமிறங்கும் சஜித் பிரேமதாச தனது வெற்றியின் பொருட்டு ஆசிகளை பெற்றுக்கொண்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/ec804a48.json)
+
+---
+
+### Tanamalwila affair: Arrested by Legal Officer
 
 *2024-08-18 18:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனமல்வில-விவகாரம்-சட்ட-வைத்திய-அதிகாரி-கைது/175-342394) · `ta`
 
-16 வயதுடைய பாடசாலை மாணவியை 22 மாணவர்கள் வன்புணர்வுக்கு உட்படுத்தியதாக கூறப்படும் சம்பவம் தொடர்பான மருத்துவப் பரிசோதனையை மேற்கொண்ட ஹம்பாந்தோட்டை மாவட்ட பொது வைத்தியசாலையின் சட்ட வைத்திய அதிகாரி தேசிய சிறுவர் பாதுகாப்பு அதிகார சபையால் கைது செய்யப்பட்டுள்ளார்.
+A legal officer from Hambantota District General Hospital was arrested by the National Child Protection Authority for allegedly intimidating a rape victim during a medical exam. The victim's mother filed a complaint about the officer's behavior, leading to his arrest and subsequent release on bail. This incident followed the arrest of 22 students involved in raping another group of 22 students, as well as the arrest and release on bail of four school staff members accused of covering up the crime.
 
-தனது மகளை பரிசோதித்தபோது குறித்த ஹம்பாந்தோட்டை வைத்திய அதிகாரி திட்டியதாகவும், மிரட்டும் வகையில் நடந்து கொண்டதாகவும், குறித்த சிறுமியின் தாய் கடந்த வாரம் தனமல்வில பொலிஸார் மற்றும் சிறுவர் பாதுகாப்பு அதிகாரசபையில் முறைப்பாடு செய்திருந்தார்.
+🟩
 
-ஜே.எம்.ஓ.வின் நடவடிக்கையின் பிறகு தனது மகள் மனநிலை பாதிக்கப்பட்டுள்ளதாகவும் சிறுமி பொய் சொன்னதாக குறித்த அதிகாரி குற்றம் சாட்டியதாகவும் சிறுமியின் தாய் கூறினார்.
+The National Child Protection Authority of the Hambantota District General Hospital has been arrested by the National Child Protection Authority, who conducted a medical examination on the incident where 22 students were raped by 22 students.
 
-இதனையடுத்து குறித்த சட்ட வைத்திய அதிகாரி நேற்று சனிக்கிழமை கைது செய்யப்பட்டு, ஹம்பாந்தோட்டை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டதன் பின்னர் 300,000 ரூபாய் பிணையில் விடுவிக்கப்பட்டார்.
+The girl's mother had lodged a complaint with the police and the Child Protection Authority last week that the Hambantota medical officer had scolded and intimidated her daughter.
 
-முன்னதாக, சம்பவத்தில் தொடர்புடைய 20க்கும் மேற்பட்ட மாணவர்கள் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டனர்.
+The girl's mother said that after the JMO's action, her daughter had been mentally ill and the official had accused the girl of lying.
+
+Subsequently, the legal officer was arrested on Saturday and released on bail of Rs 300,000 after the Hambantota Magistrate's Court was produced before the Magistrate's Court.
+
+Earlier, more than 20 students involved in the incident were arrested and kept in interrogation.
 
 ...
 
 [Data](articles/0b908c54.json)
+
+[Extended Data](ext_articles/0b908c54.ext.json)
 
 ---
 
@@ -2351,29 +2371,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/c102e53e.json)
 
 [Extended Data](ext_articles/c102e53e.ext.json)
-
----
-
-### Boy death in van crashes
-
-*2024-08-18 02:22:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வான்-மோதியதில்-சிறுவன்-மரணம்/175-342357) · `ta`
-
-An 8-year-old boy, Sapira Maheer, died after a crash involving a van at the Glacier Bridge in Batticaloa. The incident occurred around 7 pm, and the driver has been arrested. Investigations continue.
-
-🟩
-
-He was killed when a boy crashed across the road at the Glacier Bridge on the Vaharai main road in Batticaloa.
-
-The tragic incident took place at around 7 pm last night, the Vaharai police said.
-
-A boy named Sapira Maheer, aged 8, from Valaichenai, Meeravoda, has died.
-
-As the driver of the sky has been arrested, the traffic police are conducting further investigations into the accident. (A)
-
-◼️
-
-[Data](articles/d328b349.json)
-
-[Extended Data](ext_articles/d328b349.ext.json)
 
 ---

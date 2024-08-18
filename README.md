@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 13:06:19**
+As of **2024-08-18 13:21:04**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 7,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,332 (100.0%) of 41,333 articles have been extended.
+41,333 (100.0%) of 41,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### ජැක්සන් ඇන්තනීගේ බිරිඳ සජබයට එක්වෙයි
+### Jackson Anthony's wife joins education
 
 *2024-08-18 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200061) · `si`
 
-අභාවප්‍රාප්ත ජැක්සන් ඇන්තනී මහතාගේ බිරිඳ වන කුමාරි සඳලතා මුණසිංහ මහත්මිය 2024 ජනාධිපතිවරණයේ දී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමේ අරමුණින් සමගි ජන බලවේගය හා එක්වූවාය.
+Kumari Manda Munasinghe, widow of Jackson Anthony, supports Opposition Leader Sajith Premadasa in the Presidential Election, joining his reconciliation efforts. She takes on the role of Gampaha District Organizer post-handover.
 
-ඇය සමගි ජන බලවේගයට එක්වීමෙන් අනතුරුව ගම්පහ දිස්ත්‍රික් සංවිධායක ධුරයට පත් කිරීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා කටයුතු කර තිබුණි.
+🟩
+
+The wife of the late Jackson Anthony, Kumari Manda Munasinghe, joined the reconciliation to support Opposition Leader Sajith Premadasa in the Presidential Election.
+
+Opposition Leader Sajith Premadasa has been appointed as the Gampaha District Organizer after handing over to her unified force.
 
 ◼️
 
 [Data](articles/e628bbfe.json)
+
+[Extended Data](ext_articles/e628bbfe.ext.json)
 
 ---
 

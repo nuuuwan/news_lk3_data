@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 17:37:57**
+As of **2024-08-18 17:57:26**
 
 ## Newspaper Stats
 
-*Scraped **41,363** Articles*
+*Scraped **41,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,84 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,503
 dailyftlk | 2,676
-adalk | 3,801
+adalk | 3,802
 dailymirrorlk | 4,733
 adaderanalk | 4,837
 tamilmirrorlk | 5,323
 virakesarilk | 6,553
-adaderanasinhalalk | 7,054
+adaderanasinhalalk | 7,056
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,362 (100.0%) of 41,363 articles have been extended.
+41,363 (100.0%) of 41,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### ප්‍රදේශ රැසකට තද වැසි
+### බෙලරුසියාව දේශසීමාවට හමුදාව කැඳවයි
+
+*2024-08-18 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200074) · `si`
+
+බෙලරුසියාව සහ යුක්‍රේනය සිය දේශසීමාවේ හමුදා ශක්තිය වැඩි කිරීමට කටයුතු කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+බෙලරුසියා ජනාධිපති ඇලෙක්සැන්ඩර් ලුකෂෙන්කෝ පැවසුවේ යුක්‍රේනය, දේශසීමාව ආසන්නයේ හමුදා භටයින් 120,000ක් පමණ ස්ථාන ගත කර ඇති බවයි.
+
+මේ අතර ලුකෂෙන්කෝ පවසා ඇත්තේ යුක්‍රේන ක්‍රියාවට ප්‍රතිචාර ලෙස සිය හමුදාවෙන් වැඩි ප්‍රමාණයක් දේශසීමාවේ ස්ථානගත කළ බවයි.
+
+බෙලරුසියාවේ වෘත්තීය හමුදාව 48,000ක් පමණ වන අතර දේශසීමා බළකාය භටයින් 12,000කින් පමණ යුක්තය.
+
+යුක්‍රේන හමුදාව මේ වනවිට රුසියාව තුළට ම ගොස් හමුදා මෙහෙයුමක් ආරම්භ කර ඇති අතර ජාත්‍යන්තර මාධ්‍ය පවසන්නේ එය පුටින් බලාපොරොත්තු නොවූ ආක්‍රමණයක් බවයි.
+
+◼️
+
+[Data](articles/1e37aff9.json)
+
+---
+
+### ලංකා කම්කරු කොංග්‍රසයේ සහාය ජනපති රනිල්ට
+
+*2024-08-18 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200073) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේදී ලංකා කම්කරු කොංග්‍රසයේ සහාය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබාදීමට එම පක්ෂයේ ජාතික සභාව අද (18) තීරණය කළේය.
+
+කොටගල ලංකා කම්කරු කොංග්‍රස් මුලස්ථානයේදී පැවැති මාධ්‍ය හමුවක් පවත්වමින් එම කොංග්‍රසයේ මහ ලේකම් අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා මේ බව අනාවරණය කළේය.
+
+මෙහිදී ජාතික සභාවේ සියලුම සාමාජිකයන් ඒකමතිකව රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට තීරණය කර ඇත.
+
+ඒ අනුව ලංකා කම්කරු කොංග්‍රසය සහ රනිල් වික්‍රමසිංහ මහතා අතර ගිවිසුමක් ඉදිරියේදී අත්සන් කිරීමටද නියමිත බව ජීවන් තොණ්ඩමන් මහතා මෙහිදී පැවසීය.
+
+◼️
+
+[Data](articles/302ffb17.json)
+
+---
+
+### Heavy rains in many areas
 
 *2024-08-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200072) · `si`
 
-ඒ අනුව, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains and thundershowers expected across Western, Sabaragamuwa, Northwestern provinces, and in Galle and Matara districts, potentially exceeding 75mm. Showers likely in the evening or night elsewhere. Strong winds possible in Central Mountains and Hambantota district. Authorities advise caution to mitigate risks from storms, winds, and landslides.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Thundershowers showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේ විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+Some areas in the Western and Sabaragamuwa Province and in Galle and Matara districts are mm mm mm.. Heavy rains can occur at more than 75.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+Showers or thundershowers will occur at the evening or night in the rest of the island.
+
+From time to time in the Central Mountains and in the Hambantota district, in Hambantota district.. Strong winds can cause about 30-40 times.
+
+The Meteorologies have informed the people to take necessary steps to reduce the temporary winds and landslides caused by thunderstorms.
 
 ◼️
 
 [Data](articles/812f175d.json)
+
+[Extended Data](ext_articles/812f175d.ext.json)
 
 ---
 
@@ -477,6 +521,22 @@ Speaking from the President’s House in Anuradhapura virtually yesterday (17), 
 [Data](articles/b7737554.json)
 
 [Extended Data](ext_articles/b7737554.ext.json)
+
+---
+
+### ජල, විදුලි හා ඉන්ධන මිල ගණන් අඩු කරනවා
+
+*2024-08-18 13:36:08* · [`adalk`](https://www.ada.lk/breaking_news/ජල--විදුලි-හා-ඉන්ධන-මිල-ගණන්-අඩු-කරනවා/11-411428) · `si`
+
+සැප්තැම්බර් 21 වැනිදායින් පසු බිහි වන ජාතික ජන බලවේගයේ ආණ්ඩුවක් යටතේ ජල හා විදුලි හා ඉන්ධන මිල ගණන් අඩු කරන බවත් ආහාර,ඖෂධ,රසායනාගාර පරීක්ෂණ හා පාසල් උපකරණ වැට් බද්දෙන් නිදහස් කරන බවත් ජාතික ජන බලවේගයේ නායක හා ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා ඊයේ (17) මාතර දී පැවසීය.
+
+මාතර උයන්වත්ත ක්‍රිඩාංගනය පිටත පැවති ජාතික ජන බලවේගයේ මාතර දිස්ත්‍රික් ප්‍රචාරක රැලියේ දී ඔහු ඒ බව කීය.
+
+“පලමුවම මේ දේශපාලන පොර පිටිය සුද්ද කරන්න ඕන.මේක මහ කැත දේශපාලනයක්.2019 ඩලස්ගේ පොහොට්ටු වේදිකාවේ කතාව අහන්න.අද ඔහුගේ අකුරැස්සේ සජිත් ගේ වේදිකාවේ කතාව අහන්න.එදා සජිත්ට බැන්නා.අද සජිත් ගේ හොද කියනවා.එහෙම කියන්න එක්කෝ ඩලස් මැරිලා ඉපදෙන්න ඕන.එහෙම නැත්නම් අපි මැරිලා ඉපදෙන්න ඕන.මේ මොකද කරන්නේ ඊලග පාර පාර්ලිමේන්තුවට පැන ගන්න හදන්නේ.රාජිත සේනාරත්නත් ඒ වගේ තමා.87 ඉදන් එහාට මෙහාට පනිනවා.මම හිතුවා කවදහරි එහාට මෙහාට පැනලා පාර්ලිමේන්තුවේ දී කකුල පැටලිලා වැටෙයිද දන්නේ නෑ කියලා.ජාතික ජන බලවේගයේ ආණ්ඩුවක් යටතේ එහාට මෙහාට පැන්නොත් මන්ත්‍රීකම ඉවරයි.
+
+...
+
+[Data](articles/b103987e.json)
 
 ---
 
@@ -2259,65 +2319,5 @@ Fire has been set on four cars. Many vehicles have been attacked by throwing sto
 [Data](articles/29b03cc1.json)
 
 [Extended Data](ext_articles/29b03cc1.ext.json)
-
----
-
-### Vickramabahu – Towards A Durable Political Assessment
-
-*2024-08-18 01:04:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/vickramabahu-towards-a-durable-political-assessment/) · `en`
-
-Gauging Bahu’s political legacy is in progress with many commentators making piecemeal contributions. Eulogies and commentaries have appeared in recent months but the discourse that I commence here is different. My association with VBK (Vickramabahu Karunaratne) goes back decades when we both took coveted University of Ceylon Firsts in electrical engineering – myself, in the class of 1963 and Bahu in 1965. But more important are the deep political links that began to gel in the mid-1960s. I became a Samasamajist at the age of 12 under the influence of the August 1953 Hartal. Bahu was won over to the Left in the mid-1960s by his Akbar Hall undergraduate room-mate, Chris Ratnayake. Chris even bought Bahu a hairbrush to keep his grubby scalp away from his own brush. Salad days! What larks!
-
-...
-
-[Data](articles/c5062ef1.json)
-
-[Extended Data](ext_articles/c5062ef1.ext.json)
-
----
-
-### 2024-08-17 (Saturday)
-
-### Trouble for the cylinder symbol
-
-*2024-08-17 23:09:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்-சின்னத்திற்கு-சிக்கல்/175-342352) · `ta`
-
-Jana Arakalee Puravasio, led by its General Secretary, has complained to the Elections Commission about the allocation of a cylinder symbol to President Ranil Wickremesinghe for the 2023 local government elections. They demand the symbol's return, claiming it was mistakenly assigned to him as an independent candidate.
-
-🟩
-
-General Secretary of the Janaka Arakalee Paravasio, Jana Arakalee Puravasio, has lodged a complaint with the Elections Commission on the issue of a cylinder symbol to President Ranil Wickremesinghe.
-
-The symbol has been given to their organization to contest the local government elections by 2023.
-
-Therefore, the organization has called for the recovery of the symbol given to President Ranil Wickremesinghe, the independent candidate.. Remble
-
-◼️
-
-[Data](articles/419c344a.json)
-
-[Extended Data](ext_articles/419c344a.ext.json)
-
----
-
-### The problem came to Ranil's cylinder symbol
-
-*2024-08-17 23:09:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-சிலிண்டர்-சின்னத்திற்கு-வந்தது-சிக்கல்/175-342352) · `ta`
-
-Janaka Arakalee Paravasio, led by General Secretary Jana Arakalee Puravasio, filed a complaint with the Elections Commission regarding the allocation of a cylinder symbol to President Ranil Wickremesinghe for the 2023 local government elections. The organization seeks the return of this symbol, which was mistakenly assigned to Wickremesinghe as an independent candidate.
-
-🟩
-
-General Secretary of the Janaka Arakalee Paravasio, Jana Arakalee Puravasio, has lodged a complaint with the Elections Commission on the issue of a cylinder symbol to President Ranil Wickremesinghe.
-
-The symbol has been given to their organization to contest the local government elections by 2023.
-
-Therefore, the organization has called for the recovery of the symbol given to President Ranil Wickremesinghe, the independent candidate.. Remble
-
-◼️
-
-[Data](articles/cdb3c374.json)
-
-[Extended Data](ext_articles/cdb3c374.ext.json)
 
 ---

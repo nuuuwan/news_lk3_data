@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 18:55:17**
+As of **2024-08-18 19:06:17**
 
 ## Newspaper Stats
 
-*Scraped **41,372** Articles*
+*Scraped **41,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,104 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,503
 dailyftlk | 2,676
-adalk | 3,803
+adalk | 3,804
 dailymirrorlk | 4,733
-adaderanalk | 4,839
+adaderanalk | 4,840
 tamilmirrorlk | 5,324
 virakesarilk | 6,553
-adaderanasinhalalk | 7,058
+adaderanasinhalalk | 7,059
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,370 (100.0%) of 41,372 articles have been extended.
+41,372 (100.0%) of 41,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### ஜனாதிபதி வேட்பாளர்கள் மீண்டும் விவாதத்திற்கு அழைப்பு
+### Suspect arrested over Thalangama murder
+
+*2024-08-18 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101332/suspect-arrested-over-thalangama-murder) · `en`
+
+Police have arrested the suspect over the incident where a person was found murdered after his throat was slashed with a sharp weapon near a garage in the Aruppitiya area of Thalangama this morning (Aug. 18).
+
+The suspect, who has been identified as a resident of the Koswatte area, was arrested in Malabe this evening, police said.
+
+Meanwhile, police investigations have uncovered that the murder has been carried out over a monetary dispute.
+
+A 45-year-old three-wheeler driver was found murdered, with his throat slit near a garage in the Aruppitiya area today.
+
+The victim has been identified as a resident of the Thalawathugoda area, according to police.
+
+◼️
+
+[Data](articles/21b17da2.json)
+
+---
+
+### ශ්‍රී ලංකාවට ලකුණු 256ක ඉලක්කයක්
+
+*2024-08-18 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200077) · `si`
+
+අයර්ලන්ත කාන්තා ක්‍රිකට් කණ්ඩායමට එරෙහිව බෙල්ෆාස්හිදී අද (18) පැවැත්වෙන දෙවැනි එක්දින තරගයේ ශ්‍රී ලංකා කණ්ඩායමේ ඇරයුමෙන් පළමුව පන්දුවට පහරදුන් අයර්ලන්ත කණ්ඩායම පන්දුවාර 50 තුළදී කඩුලු 05ක් දැවී ලකුණු 255ක් රැස්කිරීමට සමත් විය.
+
+ඒ අනුව තරග 03කින් යුත් මෙම තරගාවලියේ තවදුරටත් රැඳී සිටීමට ශ්‍රී ලංකා කණ්ඩායම මෙම තරගය ජය ගත යුතුය.
+
+◼️
+
+[Data](articles/bdc8a7ba.json)
+
+---
+
+### Calling for the Presidential Candidates again
 
 *2024-08-18 18:32:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்கள்-மீண்டும்-விவாதத்திற்கு-அழைப்பு/175-342393) · `ta`
 
-எமது சகோதர ஊடகங்களான டெய்லி மிரர் மற்றும் லங்காதீப ஆகியவை நடத்தும் நேரடி ஜனாதிபதி விவாதத்திற்கு ரணில் விக்கிரமசிங்க, சஜித் பிரேமதாச, நாமல் ராஜபக்ஷ மற்றும் அனுரகுமார திஸாநாயக்க ஆகியோரை டெய்லி மிரர் மீண்டும் அழைக்கிறது.
+The Daily Mirror invites Ranil Wickremesinghe, Sajith Premadasa, Namal Rajapaksa, and Anuragumara Dissanayake for a presidential debate, aiming for constructive discourse rather than personal attacks. Initially, only Dissanayake accepted, with Wickremesinghe declining and Premadasa not responding. The newspaper's editor hopes for candidate participation, promising more details upon confirmation.
 
-இரண்டு மாதங்களுக்கு முன்னர் இவ் விவாதத்திற்கு முதன்முதலில் அழைத்த போது, ​​அனுரகுமார திஸாநாயக்க மட்டுமே அழைப்பை ஏற்றுக்கொண்டார், அதே நேரத்தில் விக்கிரமசிங்க அழைப்பை மறுத்ததுடன் சஜித் எவ்வித மறுமொழியும் அளிக்கவில்லை.
+🟩
 
-"இது ஒருவரையொருவர் கழுத்தை அறுப்பதற்கோ அல்லது யாரையும் கிண்டல் செய்வதற்கான ஒரு தளமாக இருக்காது, மாறாக விவாதத்திற்கான தளமாக மாத்திரமே இருக்கும். வேட்பாளர்கள் சவாலை ஏற்றுக்கொள்வார்கள் என்று நாங்கள் நம்புகிறோம்," என்று டெய்லி மிரர் தலைமை ஆசிரியர் ஜமிலா ஹுசைன் தெரிவித்தார்.
+The Daily Mirror is calling Ranil Wickremesinghe, Sajith Premadasa, Namal Rajapaksa and Anuragumara Dissanayake for a direct presidential debate by our fraternity media like Daily Mirror and Lanka.
 
-விவாதத்திற்கான எங்கள் சவாலை வேட்பாளர்கள் ஏற்றுக்கொள்ளும் போது மேலும் தகவல் எங்கள் வாசகர்களுக்கு அறிவிக்கப்படும் என டெய்லி மிரர் தெரிவித்துள்ளது.
+When he first invited the debate two months ago, Anuragumara Dissanayake only accepted the invitation, while Wickremesinghe denied the invitation and Sajith did not respond.
+
+"It would not be a platform to cut each other's neck or tease anyone but rather as a platform for debate. We hope that the candidates will accept the challenge, ”said Daily Mirror Headmaster Jamila Hussain.
+
+The Daily Mirror said further information would be announced to our readers when our challenging candidates accepted for the debate.
 
 ◼️
 
 [Data](articles/a95fbf6a.json)
 
+[Extended Data](ext_articles/a95fbf6a.ext.json)
+
 ---
 
-### අකුරේගොඩ ඝාතනයේ සැකකරු අත්අඩංගුවට
+### Akuregoda murder suspect arrested
 
 *2024-08-18 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200076) · `si`
 
-බත්තරමුල්ල, අකුරේගොඩ, අරුප්පිටිය ප්‍රදේශයේ දී තියුණු ආයුධයකින් පහරදී අද (18) උදැසන පුද්ගලයෙකු ඝාතනය කර තිබුණේ මුදල් ආරවුලක් මත බව පොලීසිය පවසයි.
+In Akirupitiya, a man was murdered with a firearm and a sharp weapon. The suspect, from Koswatta, was arrested in Malabe. The victim, a 45-year-old Thalawathugoda resident, was found decapitated near a local garage.
 
-ඒ අනුව ඝාතනය සිදුකළ සැකකරු මාලඹේ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-සැකකරු කොස්වත්ත ප්‍රදේශයේ පදිංචිකරුවෙකු බව පොලීසිය සිදුකළ විමර්ශන වලදී හෙළිවී තිබේ.
+A man was killed in a fundamental weapon in Akirupitiya, Aruppitiya, Battaramulla and a sharp weapon.
 
-ගෙල කපා ඝාතනය කරන ලද අදාළ පුද්ගලයාගේ මළ සිරුර ප්‍රදේශයේ ගරාජයක් අසල තිබී සොයාගෙන තිබුණි.
+Accordingly, the suspect has been arrested in Malabe.
 
-මෙලෙස ඝාතනය කර තිබුණේ 45 හැවිරිදි තලවතුගොඩ ප්‍රදේශයේ පදිංචි ත්‍රිරෝද රථ රියදුරෙක් බව පොලීසිය පැවසීය.
+Investigations have revealed that the suspect is a resident of Koswatta.
+
+The body of the person who was cut off the neck was found near a garage in the area.
+
+Accordingly, a 45-year-old was a 45-year-old resident of Thalawathugoda, police said.
 
 ◼️
 
 [Data](articles/03e92f5c.json)
+
+[Extended Data](ext_articles/03e92f5c.ext.json)
 
 ---
 
@@ -131,6 +177,24 @@ Minister Thondaman stated that accordingly, the CWC will sign an agreement with 
 [Data](articles/4412371d.json)
 
 [Extended Data](ext_articles/4412371d.ext.json)
+
+---
+
+### ෆින්ලන්තයෙන් කෘෂ් බීජ ආනයනය කර ඒවා ලංකාවේ ජයටම වවලා
+
+*2024-08-18 17:37:57* · [`adalk`](https://www.ada.lk/picture_story/ෆින්ලන්තයෙන්-කෘෂ්-බීජ-ආනයනය-කර-ඒවා-ලංකාවේ-ජයටම-වවලා/10-411430) · `si`
+
+ෆින්ලන්තයෙන් කුශ් නැමති මත්ද්‍රව්‍ය බිජ ඇතුළු අනෙකුත් රසායනික ද්‍රව්‍ය ආනයනය කර මාලඹේ පිට්ටුගල කහන්තොට පාරේ සුපිරි නිවාස සංකීර්ණයක දෙමහල් නිවසක ශීතාගාර තුළ කුශ් බීජ රෝපණය කරමින්  මහා පරිමාණයෙන් මත්ද්‍රව්‍ය නිෂ්පාදනාගාරයක් පවත්වාගෙන යමින්  ජාවාරමක නිරත වූ  පුද්ගලයන් දෙදෙනෙකු රුපියල් කෝටියකට අධික වටිනා කුශ් මත්ද්‍රව්‍ය  සහ උපකරණ රැසක් සමග අත්අඩංගුවට ගත් බව  බස්නාහිර පළාත දකුණ දිසාව අපරාධ කොට්ඨාසය කියයි.
+
+කුෂ් මත්ද්‍රව්‍ය මිලදීගත් පුද්ගලයෙකුද පොලිස් නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+
+එම සැකකරුවන් සමග   දෙමහල් නිවසේ පහත මහලේ සහ උඩුමහලේ කාමර දෙකක ප්ලාස්ටික්  ඇසුරුම් වල සරුවට වැවී තිබූ   විවිධ උස ප්‍රමාණවලින් යුත් කුශ් පැල 213, ආනයනික පොහොර වර්ග දියර වර්ග , බීජ, සහ කුඩා ඇසුරුම්  ඇතුළු නිෂ්පාදනයට  ගන්නා උපකරණ රැසක් පොලිස් භාරයට ගෙන ඇත.
+
+පොලිස් භාරයට එකක් කුෂ් පැලවල වැඩිම උස ප්‍රමාණය අඩි හතරක් පමණ වේ යැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/2288d531.json)
 
 ---
 
@@ -2295,65 +2359,5 @@ Two persons from Konda, 19 and 23, have been arrested in connection with the inc
 [Data](articles/359130a5.json)
 
 [Extended Data](ext_articles/359130a5.ext.json)
-
----
-
-### Three arrested in connection with violence
-
-*2024-08-18 02:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறையுடன்-தொடர்புடைய-மூவர்-கைது/175-342356) · `ta`
-
-In Jaffna, three arrests were made over violent incidents, including seizure of Jandu swords and efforts to retrieve two motorcycles involved. Two individuals from Konda, aged 19 and 23, were also apprehended.
-
-🟩
-
-Three persons have been arrested in connection with the incident of violence in Jaffna, Vadamarachchi and Valvettithurai.
-
-Jandu swords have been seized from the suspects and the police have taken steps to recover two motorcycles used for violence.
-
-Two persons from Konda, 19 and 23, have been arrested in connection with the incident.. (A)
-
-◼️
-
-[Data](articles/83475658.json)
-
-[Extended Data](ext_articles/83475658.ext.json)
-
----
-
-### FROM WHITES TO MUD
-
-*2024-08-18 02:06:00* · [`islandlk`](http://island.lk/from-whites-to-mud/) · `en`
-
-“Roti” Sivaratnam was Captain of the Royal College Rugby Team in 1957. He was also Captain of Boake House, which I belonged to.
-
-One afternoon after school, I was on the tennis court practicing. At that time, we all wore white for both cricket and tennis practices.
-
-From nowhere, “Roti” appeared on his bike and seemed extremely agitated. He caught a glimpse of me and immediately, in a most aggressive manner, summoned me to talk to him. He had a reputation for that and was a bit of a domineering guy.
-
-I had no choice other than to excuse myself from the game in progress and go up to him.
-
-As I got to his bike, he said firmly, jump on to the ‘doubling’ bar, which I did with no reasons given and no questions asked by me, for fear that most of us had for “Roti”.
-
-I was told during our short journey, illegally doubling within school premises, that Boake was playing an inter House rugby game and were badly short of players. He wanted me to make up the team and play for Boake.
-
-...
-
-[Data](articles/4b105210.json)
-
-[Extended Data](ext_articles/4b105210.ext.json)
-
----
-
-### BRADBY of MEMORIES
-
-*2024-08-18 02:05:00* · [`islandlk`](http://island.lk/bradby-of-memories/) · `en`
-
-On Saturday August 24 the FIRST LEG of the 78th edition of the prestigious Bradby Shield Encounter is due to be played at the Royal College Sports Complex. The recent appreciation of his teammate, the late Lal Senaratne, by that legendary Royal sportsman Lorenz Pereira (affectionately ‘Lollo’) brings forth heartening memories of that fascinating First Leg of 1958, played at Longden Place.
-
-...
-
-[Data](articles/5486b8ce.json)
-
-[Extended Data](ext_articles/5486b8ce.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 21:55:43**
+As of **2024-08-18 22:09:24**
 
 ## Newspaper Stats
 
-*Scraped **41,393** Articles*
+*Scraped **41,395** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,503
 dailyftlk | 2,676
 adalk | 3,806
 dailymirrorlk | 4,733
-adaderanalk | 4,840
-tamilmirrorlk | 5,330
+adaderanalk | 4,841
+tamilmirrorlk | 5,331
 virakesarilk | 6,561
 adaderanasinhalalk | 7,061
 
@@ -26,47 +26,97 @@ adaderanasinhalalk | 7,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,391 (100.0%) of 41,393 articles have been extended.
+41,393 (100.0%) of 41,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### நிறைவேற்று அதிகார ஜனாதிபதி முறை நீக்கப்படும் ; சஜித் உறுதி
+### மறைந்த நடிகரின் மனைவி SJB இல் இணைந்தார்
+
+*2024-08-18 21:50:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மறைந்த-நடிகரின்-மனைவி-SJB-இல்-இணைந்தார்/175-342399) · `ta`
+
+உயிரிழந்த பிரபல நடிகர் ஜாக்சன் அந்தோனியின் மனைவி குமாரி முனசிங்க ஐக்கிய மக்கள் சக்தியில் இணைந்துள்ளார்.
+
+2024 ஜனாதிபதி தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிற்கு தனது ஆதரவை வழங்கும் நோக்கில் இன்று (18) இணைந்து கொண்டார்.
+
+அவர் கட்சிக்குள் பிரவேசித்ததைத் தொடர்ந்து குமாரி முனசிங்கவை கம்பஹா மாவட்ட அமைப்பாளராக நியமித்தார். R
+
+◼️
+
+[Data](articles/76dd7474.json)
+
+---
+
+### International election observers arrive in Sri Lanka to monitor Presidential Poll
+
+*2024-08-18 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101334/international-election-observers-arrive-in-sri-lanka-to-monitor-presidential-poll) · `en`
+
+A group of election observers from the European Union and the Commonwealth have arrived in Sri Lanka to monitor the September 21 presidential election, Election Commission officials said on Sunday.
+
+They arrived in the island at the invitation of Sri Lanka’s Election Commission.
+
+The EU has previously done election monitoring in Sri Lanka six times with the last being at the presidential election of 2019.
+
+“The deployment of the Election Observation Mission in Sri Lanka this year confirms our long-standing commitment to supporting credible, transparent, inclusive and peaceful elections in the country,” the head of the observer group said in a statement on Saturday.
+
+“The forthcoming presidential election will give a new impetus to democracy following the 2022 political and economic crisis. This election is important for Sri Lanka to continue making progress on its path of reforms and lasting recovery, in full respect of democratic values,” the head of the observer group was quoted as saying.
+
+...
+
+[Data](articles/0334c9b5.json)
+
+---
+
+### The executive presidency will be abolished;Sajith confirmed
 
 *2024-08-18 21:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிறைவேற்று-அதிகார-ஜனாதிபதி-முறை-நீக்கப்படும்-சஜித்-உறுதி/175-342398) · `ta`
 
-ஐக்கிய மக்கள் சக்தி அரசாங்கத்தின் கீழ் நிறைவேற்று அதிகாரமுடைய ஜனாதிபதி முறைமை நீக்கப்பட்டு பாராளுமன்ற ஜனநாயக முறைமை ஏற்றுக்கொள்ளப்படும் என ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Presidential candidate Sajith Premadasa announced the abolition of Sri Lanka's executive presidency, advocating for a parliamentary democratic system instead. He reaffirmed his commitment to this change during a rally, emphasizing his determination despite opposition efforts to maintain the current system.
 
-ருவன்வெல்ல பிரதேசத்தில் இன்று (18) இடம்பெற்ற  ஐக்கிய மக்கள் சக்தி பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி முறைமையை மாற்றியமைப்பதாக எவ்வளவோ பேர் தம்பட்டம் அடித்தாலும் எவரும் செய்யவில்லை. எனக்கு பதவிகள் வேண்டாம். நான் ஒன்று உறுதியளிக்கிறேன். நிறைவேற்று ஜனாதிபதி முறைமை நிச்சயமாக ஒழிக்கப்படும்.
+Presidential candidate Sajith Premadasa has said that the executive presidency of the United People's Power will be abolished and the parliamentary democratic system will be accepted.
 
-ராஜபக்ஸவிடம் முறையிட்டு நாட்டை திவாலாக்கிய குழுவின் பிரதான பாதுகாவலர் தான் ஜனாதிபதி. ராஜபக்ஸவை பாதுகாக்கும் பொலிஸ்மா அதிபர் ரணில் விக்ரமசிங்க என்றும் குறிப்பிட்டார். R
+He said this while addressing the United People's Power rally in Ruwanwella area today (18).
+
+No matter how many people are trying to change the presidential system. I don't have posts. I promise one thing. The executive presidency will certainly be abolished.
+
+The President is the main guardian of the group that has appealed to Rajapaksa. Ranil Wickremesinghe, the Inspector General of Police for Protecting Rajapaksa. Remble
 
 ◼️
 
 [Data](articles/d1243539.json)
 
+[Extended Data](ext_articles/d1243539.ext.json)
+
 ---
 
-### අර්ජුන මහේන්ද්‍රන්ව ලංකාවට ගේනවා - අනුර කුමාර
+### Arjuna Mahendran brings to Sri Lanka - Anura Kumara
 
 *2024-08-18 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200079) · `si`
 
-තමන් ජනපති වූ පසු මහ බැංකු වංචාවට අධිකරණයෙන් රතු වරේන්තු නිකුත් කර සිටින අර්ජුන මහේන්ද්‍රන්ව ලංකාවට රැගෙන එන බව ජාතික ජන බලවේගය ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+National Folk Force presidential candidate Anura Kumara Dissanayake criticizes Arjuna Mahendran, accusing him of releasing confidential central bank documents related to a fraud case to Singapore. This accusation came during a public rally in Kiribathgoda, where Dissanayake also addressed a statement made by Ranil Wickremesinghe, referring to him as "Nessi Neguma." The speech highlights issues of corruption and the handling of sensitive information within the government.
 
-අද (18) කිරිබත්ගොඩ පැවති ජන හමුවකට එක්වෙමින් හෙතෙම මේ බව පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අනුරාධපුරයේ පැවති ජන රැළියකදී "අනුර මේකට උත්තර දියාපියෝ" යනුවෙන් කළ ප්‍රකාශයකට පිළිතුරු දෙමින් දිසානායක මහතා මේ බව පැවසීය.
+The National Folk Force Presidential candidate Anura Kumara Dissanayake says that after the President is released by the Central Bank fraud to Sri Lanka, he said.
 
-"මං දැක්කා අනුරාධපුරයේදී රනිල් වික්‍රමසිංහ අහනවා ප්‍රශ්නයක් අනුර මේකට උත්තර දීපිය, ආ දියාපියෝ (සිනහවකින්).  අපි අපහාස කරන්න ඕන නැහැනේ, අපි කවුරුත් වයසට යනවානේ.
+He was speaking at a public rally in Kiribathgoda today (18).
 
-මං එක උත්තරයක් කියන්නම්.  මහ බැංකු වංචාවට සම්බන්ධවෙලා අධිකරණයෙන් රතු වරෙන්තු නිකුත් කරලා සිංගප්පූරුවට පැනලා ඉන්න අර්ජුන මහේන්ද්‍රව ලංකාවට ගේනවා. අර්ජුන මහේන්ද්‍ර කෝප් කමිටුවේ කටඋත්තරයක් දුන්නා මේ ගණුදෙනුව කරන්න කියලා උපදෙස් දුන්නේ මහ බැංකු භාර ඇමති රනිල් වික්‍රමසිංහ කියලා. අර්ජුන මහේන්ද්‍රන්ව රටෙන් පැන්නුවා.
+He was responding to a statement that Mr. Ranil Wickremesinghe said to Anura Wickremesinghe in Anuradhapura, "Anura Nessi Neguma."
 
-...
+"I saw Ranil Wickremesinghe asks in Anuradhapura asking Ranil Wickremesinghe in Anuradhapura.  අපි අපහාස කරන්න ඕන නැහැනේ, අපි කවුරුත් වයසට යනවානේ.
+
+I'll tell you one answer.  මහ බැංකු වංචාවට සම්බන්ධවෙලා අධිකරණයෙන් රතු වරෙන්තු නිකුත් කරලා සිංගප්පූරුවට පැනලා ඉන්න අර්ජුන මහේන්ද්‍රව ලංකාවට ගේනවා. Arjuna Mahendra Croop committee gave this deal, Minister Ranil Wickremesinghe was instructed to do this deal. Arjuna Mahendran was produced from the country.
+
+So he asked what to do. Arjuna's Mahendra is banding the main.  උසාවිය කටඋත්තර ගන්නවා.  ඊළඟට ඔයත් ගේනවා. That's what you. He was thinking too much. Uncerpable, "
+
+◼️
 
 [Data](articles/8f3738e2.json)
+
+[Extended Data](ext_articles/8f3738e2.ext.json)
 
 ---
 
@@ -2335,53 +2385,5 @@ P. Susila has been admitted to Cauvery Hospital in Alwarpet, Chennai due to ill 
 [Data](articles/75e67868.json)
 
 [Extended Data](ext_articles/75e67868.ext.json)
-
----
-
-### Background singer P. Susila is ill
-
-*2024-08-18 09:23:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பின்னணி-பாடகி-பி-சுசிலாவுக்கு-சுகயீனம்/54-342359) · `ta`
-
-Renowned background singer P. Susila, known for her contributions to over 40,000 songs across nine languages, has been hospitalized in Chennai's Cauvery Hospital due to illness. Despite winning the National Award for Best Female Background Singer, she prefers not to sing in films anymore, likely due to her age.
-
-🟩
-
-P. Susheela has sung over 40,000 songs in 9 languages ​​including Tamil, Telugu, Kannada, Malayalam and Hindi. Actresses in the 70s and 80s, Savitri, Padmini and Saroja Devi have sung the background for them.
-
-The highest man won the National Award for Best Female Background Singer for the first time. He avoids singing in movies due to age.
-
-P. Susila has been admitted to Cauvery Hospital in Alwarpet, Chennai due to ill health.
-
-◼️
-
-[Data](articles/a8d901ad.json)
-
-[Extended Data](ext_articles/a8d901ad.ext.json)
-
----
-
-### Public apologies to the former prime minister
-
-*2024-08-18 09:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-பிரதமருக்கு-பொது-மன்னிப்பு/50-342358) · `ta`
-
-Taksin Shinawatra, ex-PM of Thailand (2001-2006), granted amnesty on King Maha Vajiralongkorn's birthday. Accused of corruption and ousted in a military coup, he lived abroad for 15 years. His sister, Yingluck Shinawatra, briefly served as PM in 2011. Taksin returned in 2023, arrested but later released due to health concerns. His sentence was reduced by a year. The Constitutional Court removed current PM Srettha Thavisin, leading to his daughter, Paetongtarn Shinawatra, becoming PM. Taksin's pardon, announced during the king's birthday, allows him immediate release from corruption charges.
-
-🟩
-
-Former Prime Minister Taksin Shinawatra has been granted amnesty as part of the birthday party of King Maha Vajiralongorn, Thailand.
-
-Taksin Shinawatra was the prime minister of South East Asia, Thailand, from 2001 to 2006. The owner of the telecommunications company;Great rich.
-
-During his tenure, protests were carried out alleging that corruption and abuse of power. In this case, the military revolution took place and the rule of Taksh was overthrown.
-
-He had fled abroad for 15 years in countries, including Cambodia, in fear of arrests, as his party was banned and the politics of Taksin.
-
-Despite being abroad, Taksin's hand was in the politics of Thailand. In the regime change in 2011, his younger sister Englak Shinawatra became Prime Minister. However, Taksin stayed abroad. During the change, he had the opportunity to return to his homeland.
-
-...
-
-[Data](articles/2e9ad61c.json)
-
-[Extended Data](ext_articles/2e9ad61c.ext.json)
 
 ---

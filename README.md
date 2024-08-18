@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 15:06:16**
+As of **2024-08-18 15:21:02**
 
 ## Newspaper Stats
 
-*Scraped **41,349** Articles*
+*Scraped **41,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 2,676
 adalk | 3,799
 dailymirrorlk | 4,733
 adaderanalk | 4,835
-tamilmirrorlk | 5,319
+tamilmirrorlk | 5,321
 virakesarilk | 6,552
-adaderanasinhalalk | 7,049
+adaderanasinhalalk | 7,050
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,345 (100.0%) of 41,349 articles have been extended.
+41,349 (100.0%) of 41,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### ரணிலுக்கே வெற்றி: ஆனந்தகுமார்
+
+*2024-08-18 15:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கே-வெற்றி/175-342385) · `ta`
+
+வடக்கு, கிழக்கு மக்கள் மற்றும் மலையக மக்கள் உட்பட அனைத்து மக்களின் பேராதரவுடன் ஜனாதிபதி தேர்தலில் எமது ஜனாதிபதி ரணில் விக்கிரமசிங்க வரலாற்று வெற்றியை பதிவு செய்வார். அவரின் அடுத்த ஐந்தாண்டுகால ஆட்சியே இலங்கைக்கு பொற்காலமாக அமையவுள்ளது என்று ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்றுபேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்தார்.
+
+அத்துடன், ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிப்பதற்கு பாராளுமன்ற உறுப்பினர் வேலுகுமார் எடுத்த முடிவு மக்களின் எதிர்பார்ப்பாகும்.
+
+“ மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கான சம்பளப் பிரச்சினைக்கு தீர்வு கிடைத்துள்ளமை மகிழ்ச்சியளிக்கின்றது. இதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க, முன்னாள் தொழில் அமைச்சர் மனுச நாணயக்கார, இலங்கை தொழிலாளர் காங்கிரஸ் உறுப்பினர்கள் உட்பட சம்பள உயர்வுக்காக குரல் கொடுத்த அனைவருக்கும் நன்றிகளைத் தெரிவித்துக்கொள்கின்றேன்.
+
+...
+
+[Data](articles/60deb246.json)
+
+---
+
+### ජනපති සටනට ආ වලව්කාරයෝ
+
+*2024-08-18 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200068) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයට නාමයෝජනා 39 දෙනෙකු ලබා දුන්නද, අපේක්ෂකයන් සිටින්නේ එක් අයෙකු පමණක් බව සමගි ජන බලවේගය පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්. මරික්කාර් මහතා පවසයි.
+
+ඔහු තවදුරටත් පවසා සිටියේ තව තරගකරුවෝ තිදෙනෙකු සිටින බවත්, ඉන් දෙදෙනෙකු වලව්කාරයෝ බවත් ය.
+
+එමෙන්ම චන්ද්‍රිකා, මහින්ද හා රනිල් යන සෑම අයෙකුටම ගොට්ට අල්ලන කෙනෙකුද ජනාධිපතිවරණයට තරග කරන බවද හෙතෙම පැවසීය.
+
+"මේ මැතිවරණයේ නාමයෝජනා 39 දෙනෙකු දුන්නට එක අපේක්ෂකයයි ඉන්නේ. තව තරගකරුවෝ තුන් දෙනෙක් ඉන්නවා. වලව්කාරයෝ දෙන්නෙක් ඉන්නවා. රනිල් හාමුයි, නාමල් හාමුයි. තව එක්කෙනෙක් ඉන්නවා රනිල් හාමුට ගොට්ට අල්ලන එක්කෙනෙක්. එයා චන්ද්‍රිකාගේ ආණ්ඩුවෙත් එහෙමයි, මහින්දගේ ආණ්ඩුවෙත් එහෙමයි, රනිල්ගේ ආණ්ඩුවෙත් එහෙමයි."
+
+◼️
+
+[Data](articles/c23cf2e0.json)
+
+---
 
 ### Anura Kumara pledges to remove VAT on essential items
 
@@ -50,35 +84,49 @@ NPP’s leader further criticized other candidates for focusing on their persona
 
 [Data](articles/88ee5057.json)
 
+[Extended Data](ext_articles/88ee5057.ext.json)
+
 ---
 
-### වර්ෂාව ලබන 21 දක්වා - ඉදිරි පැය 24 තළ මි.මී.75ට වැඩි තරමක තද වැසි
+### Heavy rains from 21mm to the next 24 hours
 
 *2024-08-18 14:43:34* · [`adalk`](https://www.ada.lk/breaking_news/වර්ෂාව-ලබන-21-දක්වා---ඉදිරි-පැය-24-තළ-මි-මී-75ට-වැඩි-තරමක-තද-වැසි/11-411429) · `si`
 
-ඉදිරි පැය 24ක කාලය තුළ ප්‍රදේශ කිහිපයකට මිලිමීටර් 75ට වැඩි තරමක තද වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Expect heavy rainfall of over 75mm in the Western, Nuwara Eliya, Galle, and Matara districts within the next 24 hours. This includes the Western, Sabaragamuwa, and North Western provinces. The rain is expected to continue until the 21st, as announced by the Department of Meteorology and confirmed by meteorologist Malith Fernando.
 
-ඒ අනුව බස්නාහිර, සබරගමුව සහ වයඹ යන පළාත් වලත්, මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර යන දිස්ත්‍රික්ක වලත් මෙලෙස මිලිමීයර 75ට වැඩි තරමක තද වැසි ඇති විය හැකි බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-මේ අතර පවතින වැසි සහිත කාලගුණික තත්ත්වය ලබන 21 වැනිදා දක්වා බලාපොරොත්තු විය හැකි බව කාර්යයේ නියුතු කාලගුණ විද්‍යාඥ මලිත් ප්‍රනාන්දු මහතා සඳහන් කළේය.
+The Department of Meteorology announces heavy showers more than 75 Mm in several areas during the next 24 hours.
+
+According to the Western, Sabaragamuwa and North Western provinces, more than 75 millimeters can occur in the Western, Nuwara Eliya, Galle and Matara districts.
+
+Meteorologist Malith Fernando stated that the rainy weather conditions can be expected until the 21st of the Meteorologist Malith Fernando.
 
 ◼️
 
 [Data](articles/237ec81a.json)
 
+[Extended Data](ext_articles/237ec81a.ext.json)
+
 ---
 
-### சாரதி வெட்டிக் கொலை
+### Killing
 
 *2024-08-18 14:38:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-வெட்டிக்-கொலை/175-342384) · `ta`
 
-தலங்கம, அருக்பிட்டிய பகுதியில் உள்ள வாகனம் பழுது பார்க்குமிடம் ஒன்றில் 45 வயதான முச்சக்கர வண்டி சாரதி ஒருவர் வெட்டிக் கொல்லப்பட்டதையடுத்து, தலங்கம பொலிஸார் சம்பவம் தொடர்பில் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+A 45-year-old three-wheeler driver was fatally injured during a vehicle repair in Thalangama. Police are investigating under a magistrate's order but haven't disclosed details about the incident or suspects.
 
-சம்பவம் தொடர்பான நீதவான் விசாரணை முன்னெடுக்கப்படவுள்ளதாகவும் சம்பவத்தின் நோக்கம் அல்லது சந்தேக நபர்கள் தொடர்பான விவரங்கள் இதுவரை தெரிய வரவில்லை எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+A 45 -year -old three -wheeler driver has been killed in a vehicle repair in Thalangama, Thalangama.
+
+Police said the magistrate's investigation into the incident is being carried out and details of the incident or suspects have not yet been revealed.
 
 ◼️
 
 [Data](articles/492b0bb6.json)
+
+[Extended Data](ext_articles/492b0bb6.ext.json)
 
 ---
 
@@ -874,23 +922,29 @@ The launch of the Fund Finance Observatory was held on Friday (16) at the Bandar
 
 ---
 
-### අයිස් සමග එස්.අයි. අල්ලයි
+### SI with ice. Arrested
 
 *2024-08-18 10:25:34* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සමග-එස්-අයි--අල්ලයි/11-411423) · `si`
 
-වැල්ලම්පිටිය  කිත්තම්පහුව ලැගුම්හලක් තුළදී බ්ලූ මැන්ඩල්  පොලිසියට අනුයුක්ත උප පොලිස් පරීක්ෂකවරයෙකු අයිස් මත්ද්‍රව්‍ය  සමග  අත්අඩංගුවට ගත් බව වැල්ලම්පිටිය පොලිසිය කියයි.
+A suspect, a sub-inspector from Wellampitiya, was arrested for possessing 100ml of ice drugs. The arrest came after a police raid on a lodge. Investigations show he joined the police in January 2019. He will be produced before the UPFA court.
 
-සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 100 ක් පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-වැල්ලම්පිටිය පොලිසියේ  නිලධාරීන් කණ්ඩායමක් ඉකුත් 17 වෙනි දින  සිදු කරන ලද වැටලීමේදී එහි සිටි පුද්ගලයෙකු අත්අඩංගුවට ගෙන පරික්ෂා කිරීමේදී මත්ද්‍රව්‍ය  ළඟ තබා ගැනීමේ වරදට අත්අඩංගුවට ගෙන ඇති අතර වැඩිදුරටත් ප්‍රශ්න කිරීමේදී ඔහු පොලිස් නිලධාරියකු බවට අනාවරණය වී යැයි  උසස් පොලිස් නිලධාරියෙකු පැවසීය.
+Wellampitiya Kittampuwa Liquet has been arrested by the Wellampitiya Police that an ice drug was arrested with ice drugs in a lodge.
 
-සැකකාර උප පොලිස් පරීක්ෂකවරයා 2019 වර්ෂයේ ජනවාරි මස පොලිස්  සේවයට එක්වූ අයෙක් බව වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත.
+The suspect was taken into custody 100 milligns in the possession of the suspect.
 
-අනුරාධපුර දෙවන පියවර පදිංචි 27 හැවිරිදි  සැකකරු අලුත් කඩේ අංක දෙක අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+A group of Wellampitiya police officers had been arrested for possessing a person to protect and possessing a person in charge of the drug.
+
+Investigations have revealed that the suspect sub-inspector joined the police service in January 2019.
+
+The 27 year old resident of the second step in Anuradhapura is to be produced before the UPFA.
 
 ◼️
 
 [Data](articles/fa2370d4.json)
+
+[Extended Data](ext_articles/fa2370d4.ext.json)
 
 ---
 
@@ -2146,6 +2200,24 @@ He was speaking at the wedding rally held in Anuradhapura today (17) he said.
 
 ---
 
+### ஜனாதிபதியின் மங்கல கூட்டத்தில் மக்கள் வெள்ளம்
+
+*2024-08-17 19:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-மங்கல-கூட்டத்தில்-மக்கள்-வெள்ளம்/175-342337) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் முதலாவது பொதுக்கூட்டம் இன்று (17) பிற்பகல் அனுராதபுரம் சல்தாது விளையாட்டரங்கில் நடைபெற்றது.
+
+மேலும், இதே போன்று நாடளாவிய ரீதியில் 100 பொதுக்கூட்டங்களை நடத்த ஜனாதிபதி திட்டமிட்டுள்ளார்.
+
+ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா பொதுஜன பெரமுன, ஸ்ரீலங்கா சுதந்திரக் கட்சி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட கட்சிகளில் இருந்து ஆதரவு தெரிவித்த பாராளுமன்ற உறுப்பினர்கள், அமைச்சர்கள் பலரும் இதில் இணையவுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இதேவேளை, ஜனாதிபதியின் இந்த கூட்டத்தில அலைகடலென மக்கள் கூட்டம் திரண்டு வந்ததை காணக்கூடியதாக இருந்தது. R
+
+◼️
+
+[Data](articles/be6ed437.json)
+
+---
+
 ### People's floods at the president's Mangala meeting
 
 *2024-08-17 19:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-மங்கள-கூட்டத்தில்-மக்கள்-வெள்ளம்/175-342337) · `ta`
@@ -2219,73 +2291,5 @@ There have been many meetings for this. But no justice is available anywhere. Th
 [Data](articles/956122a2.json)
 
 [Extended Data](ext_articles/956122a2.ext.json)
-
----
-
-### Spit towards the sky;Tension in the forbid
-
-*2024-08-17 19:14:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆகாயத்தை-நோக்கி-துப்பாகிச்சூடு-வாகரையில்-பதற்றம்/73-342335) · `ta`
-
-A leader of the Petroleum Corporation fired into the air as locals protested against land seizures by the JVP. A previous incident involved a Tamil sold to the corporation in London. Sea erosion caused by the JVP machinery led to land loss, but it was later reclaimed. The corporation's leader brandished a gun after an attack by the JVP, leading to intervention by the Special Task Force, who arrested the JVP members.
-
-🟩
-
-The leader of the Petroleum Corporation fired at the sky this afternoon when the people of the area tried to stop the land of public land by the JVP machine.The police said.
-
-In the past, a Tamil living in London has been sold to the leader of the Petroleum Corporation in the past.
-
-About one acre of land has gone into the sea with a sea erosion of the land of the land of the Petroleum Corporation of Petroleum Corporation with the JVP machine today, where the land was cleaned and the land was cleared of the land and the land beyond the borders of your land.They have said.
-
-In this case, they said that your land is now back from the sea where your land is back from the sea.
-
-The leader of the Petroleum Corporation took the handgun for his protection after the JVP attacked the machine after the controversy over the two sides.
-
-...
-
-[Data](articles/76a8bfd8.json)
-
-[Extended Data](ext_articles/76a8bfd8.ext.json)
-
----
-
-### Sri Lanka targets three million tourists in 2025 with new global campaign
-
-*2024-08-17 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101312/sri-lanka-targets-three-million-tourists-in-2025-with-new-global-campaign) · `en`
-
-Sri Lankan tourism authorities are expecting three million foreign tourists in 2025, Sri Lanka Tourism Promotion Bureau Managing Director Nalin Perera has said.
-
-From the second week of September, Sri Lankan tourism authorities will launch a promotional campaign covering key source markets, Perera said on Friday.
-
-Perera said the first phase of the campaign will target China, Britain, France, Germany, and India, while the second phase of the campaign will target Russia, Australia, Japan, South Korea, Poland, Italy, as well as Scandinavia, the Middle East and the Benelux countries.
-
-These campaigns are expected to increase tourist arrivals by 700,000 next year.
-
-Perera said over 1.2 million tourists have arrived in Sri Lanka by Aug. 12 and another 1.1 million are expected to arrive during the coming months, particularly from October to December. Sri Lanka expects to attract 2.3 million tourists in 2024.
-
-...
-
-[Data](articles/bb1e58c1.json)
-
-[Extended Data](ext_articles/bb1e58c1.ext.json)
-
----
-
-### School teacher, Dy Principal arrested over alleged sexual abuse of student and cover-up
-
-*2024-08-17 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101311/school-teacher-dy-principal-arrested-over-alleged-sexual-abuse-of-student-and-cover-up) · `en`
-
-Police have arrested a school teacher over an alleged incident of sexually abusing a 12-year-old girl, and the female Deputy Principal of the school for attempting to cover up the incident.
-
-Police Headquarters revealed the arrests were made following a thorough investigation launched into a complaint received through the police emergency hotline.
-
-The minor girl had been sexually abused by a 51-year-old teacher at the school in the Mahawela area, where she was studying, and the girl had reportedly informed the school’s Deputy Principal regarding the incident.
-
-However, the 49-year-old female Deputy Principal has allegedly instructed the victim to remain silent regarding the incident, police said.
-
-◼️
-
-[Data](articles/67822069.json)
-
-[Extended Data](ext_articles/67822069.ext.json)
 
 ---

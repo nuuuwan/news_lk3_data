@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 23:36:40**
+As of **2024-08-18 23:56:14**
 
 ## Newspaper Stats
 
-*Scraped **41,406** Articles*
+*Scraped **41,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 394
 islandlk | 2,392
-economynextcom | 2,503
+economynextcom | 2,504
 dailyftlk | 2,676
 adalk | 3,807
 dailymirrorlk | 4,733
 adaderanalk | 4,843
 tamilmirrorlk | 5,331
-virakesarilk | 6,566
+virakesarilk | 6,567
 adaderanasinhalalk | 7,064
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,406 (100.0%) of 41,406 articles have been extended.
+41,406 (100.0%) of 41,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### தையிட்டி சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் ஆரம்பம்!
+
+*2024-08-18 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191394) · `ta`
+
+தையிட்டி சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் 18ஆம் திகதி ஞாயிற்றுக்கிழமை மாலை 04 மணிக்கு ஆரம்பமாகியுள்ளது.
+
+மக்களது காணிகளை சட்டவிரோதமாக அபகரித்து, எந்தவிதமான அனுமதிகளும் பெறப்படாது குறித்த விகாரை அமைக்கப்பட்டுள்ளது.
+
+குறித்த விகாரையில் பௌர்ணமி தின வழிபாடுகளை முன்னெடுப்பதற்கு தென்பகுதியிலிருந்து பேரினவாத மக்கள் அழைத்து வரப்படுவது வழமை. அந்தவகையில் ஒவ்வொரு பௌர்ணமி தினத்திலும் குறித்த போராட்டம் முன்னெடுக்கப்பட்டு வருகின்றது. அந்தவகையில் இந்த போராட்டம் ஞாயிற்றுக்கிழமை (18) ஆரம்பமாகியது.
+
+இந்த போராட்டத்தில் தமிழ்த் தேசிய மக்கள் முன்னணியின் பொதுச் செயலாளர் செல்வராஜா கஜேந்திரன், கட்சியின் உறுப்பினர்கள் மற்றும் பொதுமக்கள் என பலரும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/c3a2f3b7.json)
+
+---
 
 ### Dilith Jayaweera explains the strategic plan
 
@@ -1472,6 +1490,26 @@ Whatever the dallas, we did not get in politics.
 
 ---
 
+### Sri Lanka personal income tax relief to cost 0.08-pct of GDP
+
+*2024-08-18 13:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-personal-income-tax-relief-to-cost-0-08-pct-of-gdp-177140/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s planned relief to personal income tax payers could cost 0.08 percent of gross domestic product in lost revenues and would be compensated by additional tax measures, Treasury Secretary Mahinda Siriwardana has said.
+
+President Ranil Wickremesinghe said last week that Sri Lanka and the International Monetary Fund has been discussing giving income tax relief by widening tax slabs.
+
+“The Treasury began negotiating such an amendment with the IMF as far back as September 2023,” Siriwardana told a public forum this week.
+
+“It was not possible to implement such a proposal previously given the fact that revenue was falling short of targets.
+
+“However, with the improvement in revenue performance this year, it has become possible to negotiate an adjustment to the PIT (Personal Income Tax) structure which provides some relief to the tax payers in the middle bands, whilst ensuring there isn’t an excessive gain for the highest income earners.
+
+...
+
+[Data](articles/ee494e7c.json)
+
+---
+
 ### President assists Vote in the global voice
 
 *2024-08-18 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200064) · `si`
@@ -2335,55 +2373,5 @@ The leaders of the Tamil Progressive Alliance, including myself, will be committ
 [Data](articles/e7f6fbe8.json)
 
 [Extended Data](ext_articles/e7f6fbe8.ext.json)
-
----
-
-### A warning of landslides for 6 districts;Act with observation - Disaster Management Center
-
-*2024-08-18 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191347) · `ta`
-
-Heavy rainfall and potential landslides are expected in six districts, affecting 26,898 individuals. The Meteorological Department warns of thunderstorms and advises caution against lightning strikes.
-
-🟩
-
-The prevailing rainy weather conditions in the southwestern part of the country are expected to increase today (18) and day (19) due to the lack of atmosphere surrounding the country.
-
-Thundershowers may be temporarily blowing in the area. The Meteorological Department and the Disaster Management Center have urged the public to take care of the impact of lightning impacts.
-
-26,898 people from 8522 families have been affected by the rainy weather.A yellow (initial) landslide hazard warning has been issued for 6 districts.
-
-Rainfall is expected in the districts of Kandy and Nuwara Eliya in the Western, Sabaragamuwa, South and North Western Province. Heavy rains are likely to experience over 150 millimeters in the districts of Western, Sabaragamuwa and North Western Provinces, Galle and Matara.
-
-Thunderstorms in the evening or night in a few areas of the country. In the northern and northwestern provinces, winds may blow at 30 - 40 speeds.
-
-...
-
-[Data](articles/39547052.json)
-
-[Extended Data](ext_articles/39547052.ext.json)
-
----
-
-### Volcano erupts in Russia after 7.0-magnitude earthquake
-
-*2024-08-18 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101317/volcano-erupts-in-russia-after-70-magnitude-earthquake) · `en`
-
-A volcano has erupted following a 7.0-magnitude earthquake that struck off Russia’s east coast, spurting a column of ash miles into the air, according to state-run media.
-
-The Shiveluch volcano is around 280 miles from Petropavlovsk-Kamchatsky, a coastal city with a population of about 180,000 that lies in Russia’s eastern region of Kamchatka.
-
-“According to visual evaluations, the ash column is rising as high as 8 kilometers (5 miles) above the sea level,” TASS reported Sunday morning local time, adding the volcano had released a gush of lava.
-
-According to the US Geological Survey (USGS), the quake’s epicenter was about 55 miles from Petropavlovsk-Kamchatsky and had a depth of about 30 miles.
-
-No “major damage” was caused by the quake, TASS reported, however, “buildings are now being examined for potential damage, with special attention paid to social facilities.”
-
-The Russian Emergencies Ministry did not issue a tsunami warning due to the tremor, TASS reported.
-
-...
-
-[Data](articles/04c5a34f.json)
-
-[Extended Data](ext_articles/04c5a34f.ext.json)
 
 ---

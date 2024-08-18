@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 19:06:17**
+As of **2024-08-18 19:21:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,059
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,372 (100.0%) of 41,375 articles have been extended.
+41,375 (100.0%) of 41,375 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,27 @@ The victim has been identified as a resident of the Thalawathugoda area, accordi
 
 [Data](articles/21b17da2.json)
 
+[Extended Data](ext_articles/21b17da2.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට ලකුණු 256ක ඉලක්කයක්
+### Sri Lanka target 256 runs
 
 *2024-08-18 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200077) · `si`
 
-අයර්ලන්ත කාන්තා ක්‍රිකට් කණ්ඩායමට එරෙහිව බෙල්ෆාස්හිදී අද (18) පැවැත්වෙන දෙවැනි එක්දින තරගයේ ශ්‍රී ලංකා කණ්ඩායමේ ඇරයුමෙන් පළමුව පන්දුවට පහරදුන් අයර්ලන්ත කණ්ඩායම පන්දුවාර 50 තුළදී කඩුලු 05ක් දැවී ලකුණු 255ක් රැස්කිරීමට සමත් විය.
+In a crucial match, the Irish women's cricket team scored 255/5 in 50 overs against Sri Lanka. To stay in the three-match tournament, Sri Lanka needs to surpass this score.
 
-ඒ අනුව තරග 03කින් යුත් මෙම තරගාවලියේ තවදුරටත් රැඳී සිටීමට ශ්‍රී ලංකා කණ්ඩායම මෙම තරගය ජය ගත යුතුය.
+🟩
+
+The Irish group scored 255 runs for the loss of 5 wickets in the 50 overs against the Irish women's cricket team.
+
+Accordingly, the Sri Lankan team should win the match for further staying in the three-match tournament.
 
 ◼️
 
 [Data](articles/bdc8a7ba.json)
+
+[Extended Data](ext_articles/bdc8a7ba.ext.json)
 
 ---
 
@@ -180,21 +188,31 @@ Minister Thondaman stated that accordingly, the CWC will sign an agreement with 
 
 ---
 
-### ෆින්ලන්තයෙන් කෘෂ් බීජ ආනයනය කර ඒවා ලංකාවේ ජයටම වවලා
+### Import of artland imported agriculture seeds and leaves Sri Lanka
 
 *2024-08-18 17:37:57* · [`adalk`](https://www.ada.lk/picture_story/ෆින්ලන්තයෙන්-කෘෂ්-බීජ-ආනයනය-කර-ඒවා-ලංකාවේ-ජයටම-වවලා/10-411430) · `si`
 
-ෆින්ලන්තයෙන් කුශ් නැමති මත්ද්‍රව්‍ය බිජ ඇතුළු අනෙකුත් රසායනික ද්‍රව්‍ය ආනයනය කර මාලඹේ පිට්ටුගල කහන්තොට පාරේ සුපිරි නිවාස සංකීර්ණයක දෙමහල් නිවසක ශීතාගාර තුළ කුශ් බීජ රෝපණය කරමින්  මහා පරිමාණයෙන් මත්ද්‍රව්‍ය නිෂ්පාදනාගාරයක් පවත්වාගෙන යමින්  ජාවාරමක නිරත වූ  පුද්ගලයන් දෙදෙනෙකු රුපියල් කෝටියකට අධික වටිනා කුශ් මත්ද්‍රව්‍ය  සහ උපකරණ රැසක් සමග අත්අඩංගුවට ගත් බව  බස්නාහිර පළාත දකුණ දිසාව අපරාධ කොට්ඨාසය කියයි.
+A major racket involving the importation of agricultural seeds and leaves into Sri Lanka from Artland has been busted in Finland, leading to numerous arrests. The operation, spanning across the Western and Southern Provinces, saw police officers among those detained. A total of 213 individuals were apprehended, with evidence found in a two-story building, including drugs hidden in plastic packaging. The investigation, led by Police Inspector Dynuka Weerasinghe, uncovered a sophisticated operation involving local and international participants, including residents of Maradana, England, and Australia.
 
-කුෂ් මත්ද්‍රව්‍ය මිලදීගත් පුද්ගලයෙකුද පොලිස් නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-එම සැකකරුවන් සමග   දෙමහල් නිවසේ පහත මහලේ සහ උඩුමහලේ කාමර දෙකක ප්ලාස්ටික්  ඇසුරුම් වල සරුවට වැවී තිබූ   විවිධ උස ප්‍රමාණවලින් යුත් කුශ් පැල 213, ආනයනික පොහොර වර්ග දියර වර්ග , බීජ, සහ කුඩා ඇසුරුම්  ඇතුළු නිෂ්පාදනයට  ගන්නා උපකරණ රැසක් පොලිස් භාරයට ගෙන ඇත.
+In Finland, a large number of people who were engaged in a racket was arrested with a large number of Rs.Western Province Southern Province says Criminal Division
 
-පොලිස් භාරයට එකක් කුෂ් පැලවල වැඩිම උස ප්‍රමාණය අඩි හතරක් පමණ වේ යැයි පොලිසිය කියයි.
+Police officers have also been arrested by police officers.
+
+The suspects have been taken into custody by the police custody, including 213 different height cubes, which have been drowned in two storied rooms on two upper home plastic packaging with the suspects.
+
+Police say one of the huge tall height of the rash tree is about four feet.
+
+Police Inspector Dynuka Weerasinghe has raided the relevant house in accordance with a resident of the Maharagama resident of Malabe area attached to the Criminal Division of the Western Province.
+
+Accordingly, the two storied house was surrounded by police inspector Dyuka Weerasinghe at the apartment, the police said that the factory was planted in the upper and low-class crops.
 
 ...
 
 [Data](articles/2288d531.json)
+
+[Extended Data](ext_articles/2288d531.ext.json)
 
 ---
 

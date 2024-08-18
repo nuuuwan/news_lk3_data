@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 15:21:02**
+As of **2024-08-18 15:36:42**
 
 ## Newspaper Stats
 
-*Scraped **41,352** Articles*
+*Scraped **41,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,799
 dailymirrorlk | 4,733
 adaderanalk | 4,835
-tamilmirrorlk | 5,321
+tamilmirrorlk | 5,322
 virakesarilk | 6,552
 adaderanasinhalalk | 7,050
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,050
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,349 (100.0%) of 41,352 articles have been extended.
+41,352 (100.0%) of 41,353 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,7 +34,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### ரணிலுக்கே வெற்றி: ஆனந்தகுமார்
 
-*2024-08-18 15:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கே-வெற்றி/175-342385) · `ta`
+*2024-08-18 15:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கே-வெற்றி-ஆனந்தகுமார்/175-342385) · `ta`
 
 வடக்கு, கிழக்கு மக்கள் மற்றும் மலையக மக்கள் உட்பட அனைத்து மக்களின் பேராதரவுடன் ஜனாதிபதி தேர்தலில் எமது ஜனாதிபதி ரணில் விக்கிரமசிங்க வரலாற்று வெற்றியை பதிவு செய்வார். அவரின் அடுத்த ஐந்தாண்டுகால ஆட்சியே இலங்கைக்கு பொற்காலமாக அமையவுள்ளது என்று ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்றுபேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்தார்.
 
@@ -44,25 +44,53 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/60deb246.json)
+[Data](articles/43165dbc.json)
 
 ---
 
-### ජනපති සටනට ආ වලව්කාරයෝ
+### Win Ranil: Anandakumar
+
+*2024-08-18 15:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கே-வெற்றி/175-342385) · `ta`
+
+Ranil Wickremesinghe is predicted to win the presidential election, marking a historic victory for Sri Lanka, especially among Northern, Eastern, and Upcountry populations. Subbaiah Anandakumar, a UNP member, anticipates a "golden age" under Wickremesinghe's rule. The support from Parliamentarian Velukumar and the expected resolution of land rights issues are highlighted as key factors contributing to Wickremesinghe's popularity. Tamil leaders are urged to back Wickremesinghe for the good of the nation, with warnings against choosing alternative candidates potentially leading the country into a "dark age."
+
+🟩
+
+Our President Ranil Wickremesinghe will record historical victory in the presidential election with all the people, including the people of the North, East and the Upcountry people.. Subbaiah Anandakumar, a member of a three -member committee of the United National Party and the UNP district organizer, said that his next five years of rule would be the golden age of Sri Lanka.
+
+Moreover, the decision of Parliamentarian Velukumar to support President Ranil Wickremesinghe is the expectation of the people.
+
+“It is a pleasure to solve the salary problem for upland plantation workers. I thank all those who voiced their voice for salary rise, including President Ranil Wickremesinghe, former Labor Minister Manusha Nanayakkara and members of the Ceylon Workers Congress.
+
+...
+
+[Data](articles/60deb246.json)
+
+[Extended Data](ext_articles/60deb246.ext.json)
+
+---
+
+### Witates who came to the fight
 
 *2024-08-18 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200068) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයට නාමයෝජනා 39 දෙනෙකු ලබා දුන්නද, අපේක්ෂකයන් සිටින්නේ එක් අයෙකු පමණක් බව සමගි ජන බලවේගය පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්. මරික්කාර් මහතා පවසයි.
+MP SM has submitted 39 nominations for the upcoming presidential election, all for himself, making him the sole candidate so far. Despite this, he mentions three potential opponents: two "witches" and a contender from Chandrika's, Mahinda's, and Ranil's governments.
 
-ඔහු තවදුරටත් පවසා සිටියේ තව තරගකරුවෝ තිදෙනෙකු සිටින බවත්, ඉන් දෙදෙනෙකු වලව්කාරයෝ බවත් ය.
+🟩
 
-එමෙන්ම චන්ද්‍රිකා, මහින්ද හා රනිල් යන සෑම අයෙකුටම ගොට්ට අල්ලන කෙනෙකුද ජනාධිපතිවරණයට තරග කරන බවද හෙතෙම පැවසීය.
+Meanwhile, MPs SM is the only one who has given 39 nominations for the coming presidential election, but there is only one candidates, MP SM. Mr. Marikkar says.
 
-"මේ මැතිවරණයේ නාමයෝජනා 39 දෙනෙකු දුන්නට එක අපේක්ෂකයයි ඉන්නේ. තව තරගකරුවෝ තුන් දෙනෙක් ඉන්නවා. වලව්කාරයෝ දෙන්නෙක් ඉන්නවා. රනිල් හාමුයි, නාමල් හාමුයි. තව එක්කෙනෙක් ඉන්නවා රනිල් හාමුට ගොට්ට අල්ලන එක්කෙනෙක්. එයා චන්ද්‍රිකාගේ ආණ්ඩුවෙත් එහෙමයි, මහින්දගේ ආණ්ඩුවෙත් එහෙමයි, රනිල්ගේ ආණ්ඩුවෙත් එහෙමයි."
+He further stated that there are three other competitors and two of them are the witchs.
+
+He also said that a person who caught gutta and contesting the presidential election for Chandrika, Mahinda and Ranil.
+
+"It is one candidate for 39 nominations nominations. There are three more competitors. There are two tapers. Ranil and Namal Homui. Another one has one who cares gutta. He is the same in Chandrika's government and the government's government. "
 
 ◼️
 
 [Data](articles/c23cf2e0.json)
+
+[Extended Data](ext_articles/c23cf2e0.ext.json)
 
 ---
 
@@ -2200,21 +2228,27 @@ He was speaking at the wedding rally held in Anuradhapura today (17) he said.
 
 ---
 
-### ஜனாதிபதியின் மங்கல கூட்டத்தில் மக்கள் வெள்ளம்
+### People flooded the president's manga meeting
 
 *2024-08-17 19:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-மங்கல-கூட்டத்தில்-மக்கள்-வெள்ளம்/175-342337) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் முதலாவது பொதுக்கூட்டம் இன்று (17) பிற்பகல் அனுராதபுரம் சல்தாது விளையாட்டரங்கில் நடைபெற்றது.
+Ranil Wickremesinghe kicked off his presidential campaign with a public meeting in Anuradhapura, attracting large crowds. The event marked the start of 100 planned nationwide gatherings. Supporters from various parties attended, signaling widespread support for his candidacy.
 
-மேலும், இதே போன்று நாடளாவிய ரீதியில் 100 பொதுக்கூட்டங்களை நடத்த ஜனாதிபதி திட்டமிட்டுள்ளார்.
+🟩
 
-ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா பொதுஜன பெரமுன, ஸ்ரீலங்கா சுதந்திரக் கட்சி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட கட்சிகளில் இருந்து ஆதரவு தெரிவித்த பாராளுமன்ற உறுப்பினர்கள், அமைச்சர்கள் பலரும் இதில் இணையவுள்ளதாக தெரிவிக்கப்படுகிறது.
+The first public meeting to ensure Ranil Wickremesinghe's victory in the upcoming presidential election was held this afternoon at the Saltathu Stadium in Anuradhapura.
 
-இதேவேளை, ஜனாதிபதியின் இந்த கூட்டத்தில அலைகடலென மக்கள் கூட்டம் திரண்டு வந்ததை காணக்கூடியதாக இருந்தது. R
+The President also plans to hold 100 public meetings nationwide.
+
+It is reported that many MPs and ministers who supported the United National Party, the Sri Lanka PA, the Sri Lanka Freedom Party and the United People's Power.
+
+At the same time, the president's meeting was seen as a wave of people gathered at the sea. Remble
 
 ◼️
 
 [Data](articles/be6ed437.json)
+
+[Extended Data](ext_articles/be6ed437.ext.json)
 
 ---
 
@@ -2263,33 +2297,5 @@ Officers will be placed in forests and near water bodies where elephants hang ou
 [Data](articles/c81313c8.json)
 
 [Extended Data](ext_articles/c81313c8.ext.json)
-
----
-
-### Emergency letter to the president
-
-*2024-08-17 19:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-அவசர-கடிதம்/175-342336) · `ta`
-
-The Mannar District Public Organizations Union accuses the government of unfairly allocating land to wealthy individuals and foreign investors, neglecting long-serving local farmers. They demand immediate resolution before elections, highlighting the violation of fundamental rights and the need for equitable distribution of resources.
-
-🟩
-
-The Mannar District Public Organizations Union has accused the poor farmers who have been engaged in farming for the past 30 years in the Mannar Cholamandala pond land and have been given land to the money launderers.
-
-Union President of Public Organizations VS Sivakaran has sent an urgent letter to the President today (17).
-
-The Mannar Cholamandala pond has written to you many times on the land subject. You have been illegally issuing land to big business and foreigners in Colombo.
-
-It is an obvious fact that your ministers have been offered this land unjustly without the principle of justice.
-
-The Government Agent has repeatedly appealed to the issue.
-
-There have been many meetings for this. But no justice is available anywhere. The land for the livelihood of the poor is a violation of fundamental rights.
-
-...
-
-[Data](articles/956122a2.json)
-
-[Extended Data](ext_articles/956122a2.ext.json)
 
 ---

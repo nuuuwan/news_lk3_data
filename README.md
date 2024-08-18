@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 16:36:58**
+As of **2024-08-18 16:52:43**
 
 ## Newspaper Stats
 
-*Scraped **41,355** Articles*
+*Scraped **41,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 2,503
 dailyftlk | 2,676
 adalk | 3,800
 dailymirrorlk | 4,733
-adaderanalk | 4,835
-tamilmirrorlk | 5,322
+adaderanalk | 4,836
+tamilmirrorlk | 5,323
 virakesarilk | 6,552
-adaderanasinhalalk | 7,051
+adaderanasinhalalk | 7,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,355 (100.0%) of 41,355 articles have been extended.
+41,355 (100.0%) of 41,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### සුපිරි ප්‍රංශ නළුවා ජීවිතක්ෂයට පත්වෙයි
+
+*2024-08-18 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200070) · `si`
+
+කලක් ප්‍රංශ සිනමාවේ කඩවසම්ම නළුවා ලෙස ප්‍රසිද්ධියට පත්ව සිටි ඇලන් ඩෙලෝන් ජීවිතක්ෂයට පත්ව ඇති බව එරට මාධ්‍ය වාර්තා කළේය.
+
+ප්‍රංශ සිනමාවේ සාර්ථකම යුගයේදී ඔහු එහි වර්ධනයට සුවිශේෂී කාර්ය භාරයක් කළ නළුවෙක් ලෙස ප්‍රකට ය.
+
+ඉතා සාර්ථක සිනමාපටයන් වූ "The Samurai" සහ "Borsalino" වැනි චිත්‍රපට වල ඔහුගේ රංගනය විශේෂ විය.
+
+"ඔහුගේ නිවසේදී ඔහු ඉතා සාමකාමීව ජීවිතයෙන් සමුගත්තා", ඔහුගේ පවුලේ සාමාජිකයින් නිකුත්කළ නිවේදනයක දැක්වුණි.
+
+◼️
+
+[Data](articles/09b15589.json)
+
+---
+
+### ரணிலுக்கே இ.தொ.கா ஆதரவு
+
+*2024-08-18 16:21:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கே-இ-தொ-கா-ஆதரவு/175-342389) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிப்பதற்கு இலங்கை தொழிலாளர் காங்கிரஸ் தீர்மானித்துள்ளது.
+
+இலங்கை தொழிலாளர் காங்கிரசின் தேசிய சபை கூட்டம்  கொட்டகலை CLFயில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்றது. இக்கூட்டத்தில் தேசிய சபையில் கலந்துரையாடி எடுக்கப்பட்ட முடிவின் பிரகாரம் இலங்கை தொழிலாளர் காங்கிரஸ் தனது  ஆதரவை ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு வழங்குவதாக உத்தியோகபூர்வமாக தெரிவித்துள்ளது.
+
+தேசிய சபையில் முன்வைக்கப்பட்ட கோரிக்கைளை ஜனாதிபதியின் கவனத்திற்கு கொண்டு சென்று புரிந்துணர்வு உடன்படிக்கை கைச்சத்திடப்படவுள்ளது.
+
+◼️
+
+[Data](articles/51f4ef4a.json)
+
+---
+
+### Sajith Premadasa promises to recover country’s economy through foreign aid
+
+*2024-08-18 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101328/sajith-premadasa-promises-to-recover-countrys-economy-through-foreign-aid) · `en`
+
+Samagi Jana Balawegaya’s (SJB) presidential candidate Sajith Premadasa says that he will be initiating a recovery program for the country’s economy with the help of foreign aid after his presidential election victory.
+
+Speaking at a public rally in Bandaragama, he highlighted that true development means the welfare and development of the people.
+
+“For us, the development means the development of 2.2 million people in this country, not just statistics”, said Premadasa.
+
+He further criticized the current government for its focus on personal gains while neglecting the needs of 22 million citizens who are struggling.
+
+“As the election approaches, they make misleading promises, attempting to deceive the populace. It is not impossible to deceive the people of the country at the moment”, he added.
+
+“Support us in creating a new era of development for everyone. We are committed to addressing and resolving the country’s issues with the help of foreign aid”, he said.
+
+◼️
+
+[Data](articles/faa6b9f9.json)
+
+---
 
 ### Judicial doctor arrested for influence the Thanamalwila girl
 
@@ -2239,79 +2295,5 @@ A 31-year old trainee doctor was raped and murdered last week inside the medical
 [Data](articles/476fc314.json)
 
 [Extended Data](ext_articles/476fc314.ext.json)
-
----
-
-### Here is the amount of money requesting the Presidential candidates
-
-*2024-08-17 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200045) · `si`
-
-Presidential candidates have been asked to disclose how much money each voter would receive, per the Elections Registration Act. The decision on proposals will be published in a gazette. A meeting was held at the Elections Commission, where it was mentioned that the election report should be submitted within 20 days post-summer. The commission also addressed allegations against a candidate from electronic media.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that leading candidates have been requested to provide the maximum amount of money available for a voter at a voter.
-
-However, the final decision on the proposals will be announced by a gazette.
-
-According to the Elections Registration Act, the nomination-permitted amount of nominations for one voter should be announced within 5 days.
-
-A discussion was held at the Elections Commission premises yesterday (16).
-
-Meanwhile, the Commissioner of Elections stated that the election commission should be given within 20 days of the end of the summer report for the presidential election.
-
-Meanwhile, the Elections Commission has notified the institution regarding the allegation of an allegation from electronic media for one candidate.
-
-The PAFFREL organization states that trying to vote for voting during the election period.
-
-◼️
-
-[Data](articles/9668e84c.json)
-
-[Extended Data](ext_articles/9668e84c.ext.json)
-
----
-
-### Can Sri Lanka's Program One Place One of the Sinhalese
-
-*2024-08-17 19:58:44* · [`adalk`](https://www.ada.lk/breaking_news/පුළුවන්-ශ්‍රී-ලංකා-වැඩසටහන-තුන්-සිංහලය-එකට-එක්වන-තැනක්/11-411417) · `si`
-
-Rajapaksa, an independent candidate, clarifies the Sri Lanka Program isn't about dividing the nation but rather uniting Sinhalese to safeguard it. He made this statement at a wedding rally in Anuradhapura.
-
-🟩
-
-President Rajapaksa Independent Candidate President Ranil Wickremesinghe said that the Sri Lanka Program is not a program to divide the country but a single Sinhalese to defend the country.
-
-He was speaking at the wedding rally held in Anuradhapura today (17) he said.
-
-◼️
-
-[Data](articles/69d44395.json)
-
-[Extended Data](ext_articles/69d44395.ext.json)
-
----
-
-### People flooded the president's manga meeting
-
-*2024-08-17 19:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-மங்கல-கூட்டத்தில்-மக்கள்-வெள்ளம்/175-342337) · `ta`
-
-Ranil Wickremesinghe kicked off his presidential campaign with a public meeting in Anuradhapura, attracting large crowds. The event marked the start of 100 planned nationwide gatherings. Supporters from various parties attended, signaling widespread support for his candidacy.
-
-🟩
-
-The first public meeting to ensure Ranil Wickremesinghe's victory in the upcoming presidential election was held this afternoon at the Saltathu Stadium in Anuradhapura.
-
-The President also plans to hold 100 public meetings nationwide.
-
-It is reported that many MPs and ministers who supported the United National Party, the Sri Lanka PA, the Sri Lanka Freedom Party and the United People's Power.
-
-At the same time, the president's meeting was seen as a wave of people gathered at the sea. Remble
-
-◼️
-
-[Data](articles/be6ed437.json)
-
-[Extended Data](ext_articles/be6ed437.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 08:55:39**
+As of **2024-08-18 09:06:49**
 
 ## Newspaper Stats
 
-*Scraped **41,282** Articles*
+*Scraped **41,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,792
 dailymirrorlk | 4,733
 adaderanalk | 4,825
-tamilmirrorlk | 5,300
+tamilmirrorlk | 5,301
 virakesarilk | 6,539
 adaderanasinhalalk | 7,033
 
@@ -26,47 +26,63 @@ adaderanasinhalalk | 7,033
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,280 (100.0%) of 41,282 articles have been extended.
+41,282 (100.0%) of 41,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### තිදරු පියා ට කළ සැත්කම වැරදුණා ද ?
+### Shall the surgery was wrong?
 
 *2024-08-18 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200050) · `si`
 
-කොළඹ ජාතික රෝහලේදී සිදුකළ ශල්‍යකර්මයකදී මැදිරිගිරියේ පදිංචි තිදරු පියෙක් මියයාම සම්බන්ධයෙන් සැත්කම සිදුකළ වෛද්‍යවරයා වගකීම භාරගත යුතු බවට ඥාතීන් චෝදනා කරයි.
+Relatives accuse a doctor at Colombo National Hospital of negligence leading to the death of a man injured in a bus accident. The doctor claimed the man died from a pre-existing condition, but the family alleges surgical errors. The surgery, initially planned at a private hospital due to cost concerns, was moved to Colombo National Hospital due to financial constraints. The man's condition worsened post-surgery, and despite efforts to save him, he passed away. An autopsy is pending, and the hospital's response to the incident remains unclear.
 
-මියගිය පුද්ගලයාගේ නහරයක් කැපී සිදුවූ අධිර රුධිර වහනයෙන් පුද්ගලයා මියගොස් ඇති බවට වෛද්‍යවරයෙක් සඳහන් කළත්, සැත්කම සිදුකළ වෛද්‍යවරයා සඳහන් කර තිබුණේ යම්කිසි දෙයක් ඇනී මෙලෙස නහරයකට හානි සිදුවී ඇති බවටය.
+🟩
 
-2023 වසරේ නොවැම්බර් මාසයේදී මැදිරිගිරිය ප්‍රදේශයේ බස් රථයක ගැටී මැදිරිගිරියේ පදිංචි ශාංචන රාජපක්ෂ නමැති 41 හැවිරිදි තිදරු පියා අනතුරකට ලක්වී තිබුණි.
+In surgery at the Colombo National Hospital, relatives have accused the doctor who has committed responsibility for the death of a three-member father of Medirigiriya.
 
-වම් අතෙහි වූ කිසියම් තැලීමක් හේතුවෙන් ඔහුගේ වම් අත ඉස්සීමේ අපහසුතාවයක් දිගින් දිගටම පැවතීම එදිනෙදා රාජකාරී කිරීමේදී ශාංචනට බාධාවක් වී විය.
+Although a doctor has said that the victim has died of a vein of the deceased episode.
 
-ඊට ප්‍රතිකාර කිරීම සඳහා මහනුවර පෞද්ගලික රෝහලකින් වෛද්‍යවරයකු හමුවූ ඔහුට පවසා තිබුණේ, ස්නායු බිඳීමක් සිදුව ඇති බැවින් ශල්‍යකර්මයක් සිදුකළ යුතු බවය.
+The 41-year-old father of Pharana Rajapakse, a 41-year-old father, who collided with a bus in Medirigiriya in November, 2023, was injured in Medirigiriya.
 
-පෞද්ගලික රෝහලකදී ශල්‍යකර්මය සිදුකරනවා නම් රුපියල් ලක්ෂ 15ක පමණ මුදලක් වැය වන බවත්, රජයේ රෝහලක සිදුකරනවා නම් දිගු කලක් පොරොත්තු ලේඛනයේ සිටීමට සිදුවන බවත් එහිදී වෛද්‍යවරයා සඳහන් කර තිබුණි.
+Any bruising on the left hand was to persist in everyday duties, the seagues were hindered.
+
+To treat it, he had found a doctor from a private hospital in Kandy, he had told a nervous break as a nervous break should be done.
+
+The doctor also stated that if the operation was carried out at a private hospital, it would cost about Rs.
+
+He admitted to the Colombo National Hospital on July 21 due to economic difficulties.
+
+The surgery is carried out by the doctor who has been tested at the private hospital in Kandy.
 
 ...
 
 [Data](articles/3ed9abe8.json)
 
+[Extended Data](ext_articles/3ed9abe8.ext.json)
+
 ---
 
-### ඔස්ට්‍රේලියා ෆෙඩරල් අධිකරණය දුන් නියෝගය ගැන විදෙස් අමාත්‍යාංශය කරුණු කියයි
+### Ministry of Australia's Court summarizes the orders of the federal court
 
 *2024-08-18 08:01:16* · [`adalk`](https://www.ada.lk/breaking_news/ඔස්ට්‍රේලියා-ෆෙඩරල්-අධිකරණය-දුන්-නියෝගය-ගැන-විදෙස්-අමාත්‍යාංශය-කරුණු-කියයි/11-411418) · `si`
 
-කැන්බරා නුවර හිටපු ශ්‍රී ලංකා නියෝජ්‍ය මහකොමසාරිස්වරියට එරෙහිව පවරන ලද නඩුවක් සම්බන්ධයෙන් ඕස්ට්‍රේලියානු ෆෙඩරල් අධිකරණය විසින් ලබා දුන් තීන්දුව පිළිබඳව පළ වී ඇති පුවත් වාර්තා කෙරෙහි විදේශ කටයුතු අමාත්‍යාංශයේ අවධානය යොමුවී තිබේ.
+The Australian Federal Court ordered the Sri Lankan Deputy High Commissioner to return home after fleeing his post three years ago. The Ministry of External Affairs stated it would support this action, emphasizing the importance of officials fulfilling their duties abroad.
 
-ඔවුන්ගේ නිල නියෝජන රාජකාරිවලට සහය වීම පිණිස ගෘහ සහායක සහායිකාවන් රැගෙන යෑම සඳහා රාජ්‍ය තාන්ත්‍රික නිලධාරීන්ට විදේශ කටයුතු අමාත්‍යාංශය මඟින් පහසුකම් සැලසීම සාමාන්‍ය සිරිත බව විදේශ කටයුතු අමාත්‍යාංශය ප්‍රකාශ කරයි. මෙම සිද්ධියට අදාළ ගෘහ සහායිකාව තුන් වසරක පූර්ණ සේවා කාලයක් නිමා කොට තිබූ අතර, ස්වකීය සේවායෝජිකාව ඕස්ට්‍රේලියාවෙන් පිටත්ව ඒමට අදහස් කොට තිබූ දිනට පෙර දින සේවායෝජිකාවගේ නිල නිවෙසින් රහසින් පළා ගියාය.
+🟩
 
-ගෘහ සහායිකාවගේ වැටුප වශයෙන් අමාත්‍යාංශය විසින් අනුමත කරනු ලැබූ දීමනාව ඇයට ගෙවා තිබේ. අන්‍යොන්‍ය වශයෙන් ගිවිස ගත් පරිදි සේවායෝජිකාව විසින් ගෘහ සහායිකාවට එම වැටුප ගෙවන ලද බවට අමාත්‍යාංශය සෑහීමට පත් වෙයි.
+The External Affairs Ministry has focused on the verdict from the Australian Federal Court of Sri Lanka to file a case filed against Sri Lanka's Deputy High Commissioner for the Sri Lankan Deputy High Commissioner for the Sri Lankan High Commissioner for the Sri Lankan High Commissioner.
+
+Ministry of External Affairs said that it is customary to facilitate the Ministry of External Affairs to take their official representative duties. The domestic support of the incident was completed three years of full work, secretly fled the employer's official residence before the day he was intended from Australia.
+
+She has paid the allowance approved by the Ministry as the cottage assistant's pay. The Ministry is satisfied that the employer paid the salary to the household supporter as the employer was taken.
 
 ◼️
 
 [Data](articles/885b3b1e.json)
+
+[Extended Data](ext_articles/885b3b1e.ext.json)
 
 ---
 
@@ -227,6 +243,24 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/c102e53e.json)
 
 [Extended Data](ext_articles/c102e53e.ext.json)
+
+---
+
+### வான் மோதியதில் சிறுவன் மரணம்
+
+*2024-08-18 02:22:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வான்-மோதியதில்-சிறுவன்-மரணம்/175-342357) · `ta`
+
+மட்டக்களப்பு, வாகரை பிரதான வீதியிலுள்ள பனிச்சங்கேணி பாலத்தில் வீதியைக் குறுக்கே கடந்த சிறுவன் மீது வான் மோதியதில் அவர் உயிரிழந்துள்ளார்.
+
+இந்தப் பரிதாப சம்பவம் நேற்று இரவு 7 மணியளவில் இடம்பெற்றுள்ளது என்று வாகரை பொலிஸார் தெரிவித்துள்ளனர்.
+
+வாழைச்சேனை, மீராவோடையைச் சேர்ந்த 8 வயதுடைய சப்பிறா மாஹீர் என்ற சிறுவனே உயிரிழந்துள்ளார்.
+
+வானின் சாரதி கைது செய்யப்பட்டுள்ள நிலையில், விபத்து தொடர்பான மேலதிக விசாரணைகளை வாகரைப் போக்குவரத்துப் பொலிஸார் மேற்கொண்டு வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/d328b349.json)
 
 ---
 
@@ -2267,31 +2301,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/fae8c1f9.json)
 
 [Extended Data](ext_articles/fae8c1f9.ext.json)
-
----
-
-### The rainy situation will continue to increase today
-
-*2024-08-17 08:05:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-நிலைமை-இன்று-தொடர்ந்தும்-அதிகரிக்கும்/175-342314) · `ta`
-
-The Department of Meteorology predicts increased rainfall today across Sri Lanka, especially in the southwestern region. Heavy rain is anticipated in the Western, Sabaragamuwa, and North Western Provinces, including Kandy, Nuwara Eliya, Galle, and Matara districts. Thunderstorms may also occur, posing a risk of lightning strikes. The public is urged to stay cautious and prepared.
-
-🟩
-
-The Department of Meteorology has predicted that the current rainfall in the southwestern part of the country is expected to increase today due to the underground atmosphere in Sri Lanka.
-
-Rainfall or thunderstorms are likely to occur in the Western, Sabaragamuwa and North Western Provinces in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Heavy rainfall is expected in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/d8a335bd.json)
-
-[Extended Data](ext_articles/d8a335bd.ext.json)
 
 ---

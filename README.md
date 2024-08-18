@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 17:57:26**
+As of **2024-08-18 18:15:57**
 
 ## Newspaper Stats
 
-*Scraped **41,366** Articles*
+*Scraped **41,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,503
 dailyftlk | 2,676
 adalk | 3,802
 dailymirrorlk | 4,733
-adaderanalk | 4,837
+adaderanalk | 4,838
 tamilmirrorlk | 5,323
 virakesarilk | 6,553
 adaderanasinhalalk | 7,056
@@ -26,47 +26,75 @@ adaderanasinhalalk | 7,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,363 (100.0%) of 41,366 articles have been extended.
+41,366 (100.0%) of 41,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### බෙලරුසියාව දේශසීමාවට හමුදාව කැඳවයි
+### CWC to back President Ranil in presidential poll
+
+*2024-08-18 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101330/cwc-to-back-president-ranil-in-presidential-poll) · `en`
+
+The National Committee of the Ceylon Workers’ Congress (CWC) has decided to support incumbent President Ranil Wickremesinghe in the upcoming presidential election.
+
+This was communicated by the General Secretary of the CWC, Minister Jeevan Thondaman during a press conference held at the party’s headquarters in Kotagala today (18).
+
+Minister Thondaman stated that accordingly, the CWC will sign an agreement with President Wickremesinghe in the near future.
+
+◼️
+
+[Data](articles/4412371d.json)
+
+---
+
+### Army summoned to Belarus
 
 *2024-08-18 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200074) · `si`
 
-බෙලරුසියාව සහ යුක්‍රේනය සිය දේශසීමාවේ හමුදා ශක්තිය වැඩි කිරීමට කටයුතු කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Belarus and Ukraine have bolstered their military presence along their shared border, with Belarus reporting a significant number of troops near the frontier. This move comes amid escalating tensions, with both countries engaging in military operations.
 
-බෙලරුසියා ජනාධිපති ඇලෙක්සැන්ඩර් ලුකෂෙන්කෝ පැවසුවේ යුක්‍රේනය, දේශසීමාව ආසන්නයේ හමුදා භටයින් 120,000ක් පමණ ස්ථාන ගත කර ඇති බවයි.
+🟩
 
-මේ අතර ලුකෂෙන්කෝ පවසා ඇත්තේ යුක්‍රේන ක්‍රියාවට ප්‍රතිචාර ලෙස සිය හමුදාවෙන් වැඩි ප්‍රමාණයක් දේශසීමාවේ ස්ථානගත කළ බවයි.
+International media reports that Belarus and Ukraine have taken steps to increase the military strength of their border.
 
-බෙලරුසියාවේ වෘත්තීය හමුදාව 48,000ක් පමණ වන අතර දේශසීමා බළකාය භටයින් 12,000කින් පමණ යුක්තය.
+Belarusia President Alexander Lukashenko said that Ukraine had been placed around 120,000 soldiers near the border.
 
-යුක්‍රේන හමුදාව මේ වනවිට රුසියාව තුළට ම ගොස් හමුදා මෙහෙයුමක් ආරම්භ කර ඇති අතර ජාත්‍යන්තර මාධ්‍ය පවසන්නේ එය පුටින් බලාපොරොත්තු නොවූ ආක්‍රමණයක් බවයි.
+In the meantime, Lukashenko had said that most of its army were placed in the Ukraine as response to the act of Ukrainian.
+
+The Belarusian trade army is about 48,000 and around 12,000 border.
+
+The Ukrainian army has already commenced a military operation in Russia and the international media says it is an unexpected investination.
 
 ◼️
 
 [Data](articles/1e37aff9.json)
 
+[Extended Data](ext_articles/1e37aff9.ext.json)
+
 ---
 
-### ලංකා කම්කරු කොංග්‍රසයේ සහාය ජනපති රනිල්ට
+### President to support Sri Lanka Workers Congress
 
 *2024-08-18 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200073) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයේදී ලංකා කම්කරු කොංග්‍රසයේ සහාය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබාදීමට එම පක්ෂයේ ජාතික සභාව අද (18) තීරණය කළේය.
+The UNP's National Council has endorsed Ranil Wickremesinghe for president, with the Ceylon Workers Congress set to join forces with him. This decision was announced by Jeewav Thondaman, the General Secretary of the Congress, at a press conference.
 
-කොටගල ලංකා කම්කරු කොංග්‍රස් මුලස්ථානයේදී පැවැති මාධ්‍ය හමුවක් පවත්වමින් එම කොංග්‍රසයේ මහ ලේකම් අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා මේ බව අනාවරණය කළේය.
+🟩
 
-මෙහිදී ජාතික සභාවේ සියලුම සාමාජිකයන් ඒකමතිකව රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට තීරණය කර ඇත.
+The National Council of the UNP (UNP) has decided to hand over the President of the Ceylon Workers Congress in the presidential election.
 
-ඒ අනුව ලංකා කම්කරු කොංග්‍රසය සහ රනිල් වික්‍රමසිංහ මහතා අතර ගිවිසුමක් ඉදිරියේදී අත්සන් කිරීමටද නියමිත බව ජීවන් තොණ්ඩමන් මහතා මෙහිදී පැවසීය.
+The General Secretary of the Congress Jeewav Thondaman has revealed this at a press conference held at the Kotagala Lanka Labor Congress headquarters.
+
+All members of the National Council have been unanimously decided to support Mr. Ranil Wickremesinghe.
+
+Accordingly, the Ceylon Workers Congress and Ranil Wickremesinghe will be signed in the future.
 
 ◼️
 
 [Data](articles/302ffb17.json)
+
+[Extended Data](ext_articles/302ffb17.ext.json)
 
 ---
 
@@ -524,19 +552,33 @@ Speaking from the President’s House in Anuradhapura virtually yesterday (17), 
 
 ---
 
-### ජල, විදුලි හා ඉන්ධන මිල ගණන් අඩු කරනවා
+### Low water, electrical and fuel prices
 
 *2024-08-18 13:36:08* · [`adalk`](https://www.ada.lk/breaking_news/ජල--විදුලි-හා-ඉන්ධන-මිල-ගණන්-අඩු-කරනවා/11-411428) · `si`
 
-සැප්තැම්බර් 21 වැනිදායින් පසු බිහි වන ජාතික ජන බලවේගයේ ආණ්ඩුවක් යටතේ ජල හා විදුලි හා ඉන්ධන මිල ගණන් අඩු කරන බවත් ආහාර,ඖෂධ,රසායනාගාර පරීක්ෂණ හා පාසල් උපකරණ වැට් බද්දෙන් නිදහස් කරන බවත් ජාතික ජන බලවේගයේ නායක හා ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා ඊයේ (17) මාතර දී පැවසීය.
+In a speech at a Matara district rally, leaders discussed lowering water, electricity, and fuel prices, exempting certain items like school equipment and medicines from VAT, and reducing VAT on essential food items. They emphasized equal application of laws to all, including politicians, and promised to address high electricity bills and fuel costs. Despite rain, a large crowd attended the event.
 
-මාතර උයන්වත්ත ක්‍රිඩාංගනය පිටත පැවති ජාතික ජන බලවේගයේ මාතර දිස්ත්‍රික් ප්‍රචාරක රැලියේ දී ඔහු ඒ බව කීය.
+🟩
 
-“පලමුවම මේ දේශපාලන පොර පිටිය සුද්ද කරන්න ඕන.මේක මහ කැත දේශපාලනයක්.2019 ඩලස්ගේ පොහොට්ටු වේදිකාවේ කතාව අහන්න.අද ඔහුගේ අකුරැස්සේ සජිත් ගේ වේදිකාවේ කතාව අහන්න.එදා සජිත්ට බැන්නා.අද සජිත් ගේ හොද කියනවා.එහෙම කියන්න එක්කෝ ඩලස් මැරිලා ඉපදෙන්න ඕන.එහෙම නැත්නම් අපි මැරිලා ඉපදෙන්න ඕන.මේ මොකද කරන්නේ ඊලග පාර පාර්ලිමේන්තුවට පැන ගන්න හදන්නේ.රාජිත සේනාරත්නත් ඒ වගේ තමා.87 ඉදන් එහාට මෙහාට පනිනවා.මම හිතුවා කවදහරි එහාට මෙහාට පැනලා පාර්ලිමේන්තුවේ දී කකුල පැටලිලා වැටෙයිද දන්නේ නෑ කියලා.ජාතික ජන බලවේගයේ ආණ්ඩුවක් යටතේ එහාට මෙහාට පැන්නොත් මන්ත්‍රීකම ඉවරයි.
+Leader of the National Power and Power Pictures and the president of the National Jones of the National Joneshop of the National Institute of Power and Drugs and VAT will be exempted and school equipment is released from VAT and VAT.) In Matara.
+
+He was speaking at the Matara district propaganda rally of the National Power in the Uyanwatta Contain Matara.
+
+"The privilege is to ask the story of the speech of Dullas' buds."Or we have to be dead.Pannan is over.
+
+Also, everyone is subject to the law. The politicians of the country is not subject to the law of Prasanna Ranatunga today.Not?The law is implementing the law equally.
+
+Also, when the president is coming to Parliament, a Mamage is also known to Rajapakse. They will not be given separate privileges in the villages.
+
+We also do not have the Minister of Cabinet at 25 Cabinet Ministers of the government..Alls grow.
+
+Whatever the dallas, we did not get in politics.
 
 ...
 
 [Data](articles/b103987e.json)
+
+[Extended Data](ext_articles/b103987e.ext.json)
 
 ---
 
@@ -2297,27 +2339,5 @@ In a way food was the most important. Long curfew hours not only restricted food
 [Data](articles/4bd5f75b.json)
 
 [Extended Data](ext_articles/4bd5f75b.ext.json)
-
----
-
-### Rajasthan's Violence: Internet service freeze
-
-*2024-08-18 01:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜஸ்தானின்-வன்முறை-இணைய-சேவை-முடக்கம்/175-342353) · `ta`
-
-In Rajasthan, post-violence in Udaipur, gatherings are banned, and internet services are temporarily halted to curb misinformation. A 10th-grade student is critically injured after being stabbed by another student from a different community, sparking communal tension. Four cars were torched, numerous vehicles attacked, and shops vandalized across Udaipur. A section 144 order restricts public assembly, and the internet shutdown aims to control the situation.
-
-🟩
-
-Rajasthan State has been banned from gathering after violence in Udaipur. Also, the Internet service has also been temporarily disabled.
-
-A student who is studying in 10th grade in Udaipur has been admitted to hospital in critical condition after a fellow student stabbed a knife. The attacker and the attacked student have caused social tension because they are from different communities.
-
-Fire has been set on four cars. Many vehicles have been attacked by throwing stone. Shops in many parts of Udaipur due to tension. 144 ban has been issued for people to gather. Internet service has been disabled to prevent the spread of misinformation.
-
-◼️
-
-[Data](articles/29b03cc1.json)
-
-[Extended Data](ext_articles/29b03cc1.ext.json)
 
 ---

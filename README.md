@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 12:53:34**
+As of **2024-08-18 13:06:19**
 
 ## Newspaper Stats
 
-*Scraped **41,332** Articles*
+*Scraped **41,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ dailymirrorlk | 4,733
 adaderanalk | 4,832
 tamilmirrorlk | 5,318
 virakesarilk | 6,549
-adaderanasinhalalk | 7,042
+adaderanasinhalalk | 7,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,326 (100.0%) of 41,332 articles have been extended.
+41,332 (100.0%) of 41,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### ජැක්සන් ඇන්තනීගේ බිරිඳ සජබයට එක්වෙයි
+
+*2024-08-18 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200061) · `si`
+
+අභාවප්‍රාප්ත ජැක්සන් ඇන්තනී මහතාගේ බිරිඳ වන කුමාරි සඳලතා මුණසිංහ මහත්මිය 2024 ජනාධිපතිවරණයේ දී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමේ අරමුණින් සමගි ජන බලවේගය හා එක්වූවාය.
+
+ඇය සමගි ජන බලවේගයට එක්වීමෙන් අනතුරුව ගම්පහ දිස්ත්‍රික් සංවිධායක ධුරයට පත් කිරීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/e628bbfe.json)
+
+---
 
 ### Man found murdered with throat slit in Thalangama
 
@@ -46,39 +60,53 @@ The motive behind the murder and the identity of the suspects are yet to be unco
 
 [Data](articles/4709a2cc.json)
 
+[Extended Data](ext_articles/4709a2cc.ext.json)
+
 ---
 
-### கணவனால் பெற்றோல் ஊற்றி தீ வைக்கப்பட்ட பெண் சிகிச்சை பலனின்றி உயிரிழப்பு
+### Husband pouring petrol
 
 *2024-08-18 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/191352) · `ta`
 
-வென்னப்புவ பிரதேசத்தில் கணவனால் பெற்றோல் ஊற்றி தீ வைக்கப்பட்ட மனைவி பலத்த காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக வென்னப்புவ பொலிஸார் தெரிவித்துள்ளனர்.
+In Wennappuwa, a man was severely burned and hospitalized after setting his wife ablaze due to marital conflict. The 43-year-old suspect is under arrest, with ongoing police investigations.
 
-கணவன் - மனைவிக்கு இடையே ஏற்பட்ட முரண்பாட்டின் காரணமாக மனைவியின் உடலில் கணவன் பெற்றோல் ஊற்றி தீ வைத்துள்ளதாக பொலிஸார் மேற்கொண்ட விசாரணையில் தெரியவந்துள்ளது.
+🟩
 
-இந்த சம்பவத்தில் 43 வயதான சந்தேக நபர் கைது செய்யப்பட்டுள்ளதோடு, வென்னப்புவ பொலிஸார் மேலதிக விசாரணைகளில் ஈடுபட்டுள்ளதாக தெரிவித்துள்ளனர்.
+Wennappuwa police said that the wife of a husband who was burnt in the Wennappuwa area after being admitted to the hospital after being seriously injured.
+
+An investigation by police revealed that the husband and wife had set fire to the wife's body due to conflict between husband and wife.
+
+The 43 -year -old suspect has been arrested in the incident and the Wennappuwa police said they were conducting further investigations.
 
 ◼️
 
 [Data](articles/10dbc8de.json)
 
+[Extended Data](ext_articles/10dbc8de.ext.json)
+
 ---
 
-### GS தொழிற்சங்க நடவடிக்கை கைவிடப்பட்டது
+### GS trade union action abandoned
 
 *2024-08-18 12:22:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/GS-தொழிற்சங்க-நடவடிக்கை-கைவிடப்பட்டது/175-342378) · `ta`
 
-கிராம உத்தியோகத்தர்கள் தொழிற்சங்க கூட்டமைப்பு இன்று (18) நள்ளிரவு முதல் தமது தொழிற்சங்க நடவடிக்கையை தற்காலிகமாக நிறுத்தவுள்ளதாக தெரிவித்துள்ளது.
+The Grama Niladhari Trade Union Federation has suspended its strike from midnight, prioritizing support for the upcoming presidential election. The union, active since May 4, demanded changes in the Grama Niladhari Service and payments due to the economy. This action, initiated on May 17, concludes today.
 
-கிராம உத்தியோகத்தர், தேர்தல் உத்தியோகத்தர் என்பதால் எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமது அதிகபட்ச பங்களிப்பை வழங்க வேண்டியதன் பொருட்டு இந்தத் தீர்மானம் மேற்கொள்ளப்பட்டதாக அதன் இணைத் தலைவர் நந்தன ரணசிங்க இன்று (18) தெரிவித்தார்.
+🟩
 
-கிராம அலுவலர் சேவை யாப்பு மற்றும் கிராம அலுவலர் கொடுப்பனவுகளை தற்போதைய பொருளாதார நிலைமைக்கு ஏற்றவாறு மாற்றியமைக்க வேண்டும் எனக் கோரி நாடு முழுவதிலும் உள்ள கிராம உத்தியோகத்தர்கள் கடந்த மே மாதம் 4ஆம் திகதி முதல் தொழிற்சங்க நடவடிக்கையை ஆரம்பித்தனர்.
+The Grama Niladhari Trade Union Federation has announced that it will suspend their trade union action from midnight today.
 
-அத்துடன், மே 17ஆம் திகதி முதல் இதுவரை காலமும் கிராம உத்தியோகத்தர்களால் முன்னெடுக்கப்பட்ட சட்டப்படி சேவை செய்யும் தொழிற்சங்க நடவடிக்கையும் இன்று நள்ளிரவுடன் நிறைவடைவதாக கிராம உத்தியோகத்தர் தொழிற்சங்கக் கூட்டமைப்பின் இணைத் தலைவர் மேலும் தெரிவித்தார்.
+Nandana Ranasinghe, the co -chair of the Grama Niladhari, said that the decision was made in order to make his highest contribution to the upcoming presidential election as the Grama Niladhari and Election Officer.
+
+Grama Niladhari from the country has launched a trade union action since May 4, demanding that the Grama Niladhari Service and Grama Niladhari payments be changed to the current economic situation.
+
+The co -chair of the Grama Niladhari Trade Union Federation added that the trade union action, which has been served by the Grama Niladhari since May 17, will be completed today.
 
 ◼️
 
 [Data](articles/5ea62e10.json)
+
+[Extended Data](ext_articles/5ea62e10.ext.json)
 
 ---
 
@@ -266,21 +294,29 @@ Tamil politicians who live in luxury in Colombo deceive the northern people. Sel
 
 ---
 
-### “கமலா ஹாரிஸை விடவும் நான் தான் அழகு”  -டிரம்ப்
+### "I am more than Kamala Harris"
 
 *2024-08-18 11:42:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கமலா-ஹாரிஸை-விடவும்-நான்-தான்-அழகு-டிரம்ப்/50-342373) · `ta`
 
-'கமலா ஹாரிஸை விட நான் தான் அழகாக இருக்கிறேன்” என்று, முன்னாள் ஜனாதிபதி டிரம்ப் கூறியிருப்பது புது சர்ச்சையை ஏற்படுத்தியுள்ளது.
+Donald Trump, in a controversial statement, claimed he is more attractive than Vice President Kamala Harris, sparking a new round of criticism. He also criticized her intelligence during the Pennsylvania election campaign. Despite his previous comments about Joe Biden, Trump is now focusing on another opponent, though he did not specify who.
 
-அமெரிக்க ஜனாதிபதி பதவிக்கான தேர்தல், நவ., 5இல் நடக்க உள்ளது. இதில், குடியரசு கட்சி சார்பில், சர்ச்சைகளின் நாயகனான முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் போட்டியிடுகிறார். கடந்த தேர்தலில் தோற்றுப்போய், தன் ஆதரவாளர்களை விட்டு கலவரம் செய்தது, ஆபாச பட நடிகை வாயடைக்க பணம் கொடுத்து விட்டு, போலிக்கணக்கு எழுதியது என அவர் மீதான சர்ச்சைகள் ஏராளம்.
+🟩
 
-அவரை எதிர்த்து, இந்த தேர்தலில் துணை ஜனாதிபதி கமலா ஹாரிஸ் ஜனநாயக கட்சி சார்பில் ஜனாதிபதி வேட்பாளராக களமிறங்க உள்ளார். 'அவரை எளிதில் வெற்றி கொள்வேன்' என தம்பட்டம் அடிக்கும் டிரம்ப், கமலாவை தாறுமாறாக விமர்சனம் செய்கிறார். 'இவ்வளவு காலம் இந்தியர் என்று கூறி வந்தவர், இப்போது கருப்பர் என தன்னை அடையாளப் படுத்துகிறார்” என்றும் கமலா பற்றி டிரம்ப் கூறியுள்ளார்.
+Former President Trump has said, "I am more beautiful than Kamala Harris," has caused a new controversy.
 
-இந்நிலையில், பென்சில்வேனியாவில் தேர்தல் பிரசாரத்தில், கமலா ஹாரிசின் தோற்றத்தையும், புத்திசாலித்தனத்தையும் கடுமையாக சாடியுள்ளார்.
+Elections for US President's position, Nov. 5. In this, on behalf of the Republican Party, former President Donald Trump, the hero of controversy. There has been a lot of controversy over the fact that she lost the last election, leaving her supporters, leaving the pornography actress to silence and wrote a fake.
+
+Vice President Kamala Harris will field the Democratic Party in this election as the presidential candidate. Trump is criticizing Kamala, 'I will win him easily'. Kamala said, "The man who has been calling it an Indian for so long, is now identifying himself as a black man."
+
+In this case, Kamala Harris has strongly criticized the appearance and intelligence in the election campaign in Pennsylvania.
+
+He said, “I'm more beautiful than him. I am better for l rather than Kamala. I have to compete against the beauty and knowledge I have.
 
 ...
 
 [Data](articles/dd23acfc.json)
+
+[Extended Data](ext_articles/dd23acfc.ext.json)
 
 ---
 
@@ -830,23 +866,29 @@ The Department of Meteorology has called for the people to take necessary steps 
 
 ---
 
-### වැල්ලවායේ පාසල් සිසුවියන් දෙදෙනෙක් අතුරුදන්
+### Two schoolgirls missing in Wellawaya
 
 *2024-08-18 09:40:22* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවායේ-පාසල්-සිසුවියන්-දෙදෙනෙක්-අතුරුදන්/11-411422) · `si`
 
-වැල්ලවාය පොලිස් වසමට අයත් කොටවෙහෙරගලයාය පදිංචි පහළොස් හැවිරිදි ශිෂ්‍යාවන් දෙදෙනෙකු ඉකුත් (15) වෙනිදා සිට අතුරුදහන්වී ඇතැයි වැල්ලවාය පොලීසිය පවසයි.
+Two 15-year-olds from Wellawaya went missing on the 15th. One lives in Kotaweheragalaya; her absence was noted when she didn't return home. Both girls are from the Kithulkotuwa area. A complaint was filed with the Wellawaya Police, who are now investigating under OIC Karunatilake.
 
-වැල්ලවාය ප්‍රදේශයේ ජාතික පාසලක දහවන වසරේ ඉගෙනුම ලබන මෙම ශිෂ්‍යාවන් දෙදෙනාගෙන් එක් සිසුවියක කොටවෙහෙරගලයාය ප්‍රදේශයේ පදිංචිව සිටින අතර එම ගමේම පදිංචි ඇයගේ යෙහෙළියක් පාඩම්කිරීම සඳහා ඉකුත් (14) වෙනිදා සවස ඇයගේ නිවසට පැමිණ ඇත.
+🟩
 
-පසුදින උදෑසන බලන විට දැරියන් දෙදෙනා නිවසේ සිට නැත. නිවසේ හිමිකාරිය විසින් ඒ පිළිබඳව වැල්ලවාය පොලීසියට පැමිණිලිකර ඇත.
+Two fifteen-year-old students from the Wellawaya Police Division have disappeared from the 15th (15th), Wellawaya Police said.
 
-මේ පිළිබඳව වැල්ලවාය පොලීසියෙන් කළ විමසුමකදී පැවසුවේ මෙම දැරියන් දෙදෙනා කිතුල්කොටේ ප්‍රදේශයේ පදිංචි තරුණයින් දෙදෙනෙකු සමඟ ප්‍රේම සම්බන්ධතා පවත්වාගෙන ගොස් ඇති බවටත්  ඔවුන් සමඟ යන්නට ඇතැයි විශ්වාසය පළකරයි.
+One of the two students, a national school in the Wellawaya, resides in the Kotaweheragalaya area, which has arrived at her house on her residence in the village.
 
-ඔවුන් අත්අඩංගුවට ගැනීමට වැල්ලවාය පොලිස් ස්ථානාධිපති ටී.එම් කරුණාතිලක මහතා පරීක්ෂණ පවත්වයි.
+The two girls were not from home when we look the next day. The house owner has lodged a complaint with the Wellawaya Police.
+
+In a query from Wellawaya, the two girls have gone to go with their own residents of Kithulkotuwa area.
+
+Wellawaya OIC Karunatilake is investigating them.
 
 ◼️
 
 [Data](articles/4a7e08b4.json)
+
+[Extended Data](ext_articles/4a7e08b4.ext.json)
 
 ---
 
@@ -874,27 +916,35 @@ In response, the Hezbollah announced that there were 55 rockete attacks to a vil
 
 ---
 
-### ව්‍යාජ 5000 නෝට්ටු 102ක් සමග පුද්ගලයෙක් අල්ලයි
+### Man arrested with 102 fake notes
 
 *2024-08-18 09:29:50* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-5000-නෝට්ටු-102ක්-සමග-පුද්ගලයෙක්-අල්ලයි/11-411421) · `si`
 
-රුපියල් 5000 යේ හොර නෝට්ටු 102 ක් සමඟින් පුද්ගලයෙකු  ලද තොරතුරක් මත විනාඩි  පහලොවක් වැනි සුළු කාලයක් තුල රත්නපුර නගරයේදි  අත් අඩංගුවට ගැනිමට රත්නපුර පොලිසියේ අපරාධ අංශය සමත් වි ඇත.
+A man was arrested in Ratnapura for possessing 102 counterfeit banknotes. The 33-year-old from Badulla was caught during an investigation by the Mahiyanganaya Police. He had previously been identified as passing fake currency in Badulla. The Criminal Division will hand over further inquiries to the Central Investigation Department, and the suspect will face charges in Ratnapura courts.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ බදුල්ල ප්‍රදේශයේ පදිංචි අවුරුදු 33 ක පුද්ගලයෙකු බව අපරාධ අංශය පවසයි.
+🟩
 
-මෙම සැකකරුට මුල්‍ය අපරාධ සම්බන්ධව නඩු කිපයක් බදුල්ල මහියංගණ පොලිසිවල පවතින බවද සිදු කරන ලද විමර්ශණ යෙන් අනාවරනය වි ඇති බව අපරාධ අංශය පවසයි.
+The Criminal Division of Ratnapura, Ratnapura, has been arrested in Ratnapura within a small period of 102 counter notes with 102 counterfeit notes.
 
-රත්නපුර නගරයේ රන් බඩු අලෙවි මධ්‍යස්ථානයනට පැමිණ රුපියල්  ලක්ෂ පහකට මාලයක් ලබාගෙන වලංගු රුපියල් පන්දහසේ නෝට්ටු සමඟ ව්‍යාජ  රුපියල් 5000 යේ හොර නෝට්ටු වෙළඳ  සැල් හිමියාට දි ඇත.
+The arrests were a 33 year old resident of the Badulla area.
 
-පසුව වෙළඳ සැල් හිමයා විසින් රත්නපුර පොලිසිය දැනුවත් කිරිමෙන් පසුව සැකකරු අත් අඩංගුවට ගෙන කරන ලද පරික්ෂාවකදි රුපියල් 5000 යේ ව්‍යාජ නෝට්ටු 102 ක් සොයාගත් බව පොලිසිය පවසයි.
+Investigations carried out in the Mahiyanganaya Police where the suspect is in the Mahiyanganaya Police where the suspect is in the Mahiyanganaya Police.
 
-සැකකරුගෙන් කරන ලද වැඩිදුර විමර්ශණයෙන් අනාවරනය වි අත්තේ බදුල්ල ප්‍රදේශයේ පදිංචි සිය නිවසේ කාලයක් තිස්සේ ව්‍යාජ නෝට්ටු මුද්‍රණය කර ඇතිබවයි.
+The golds trees in Ratnapura and receives a necklace for Rs.
 
-අදාල සැකකරු වැඩිදුර විමර්ශණ කටයුතු සඳහා කෙළඹ අපරාධ පරික්ෂණ දෙපාර්ත මේන්තුවට බාර දුන් බව අපරාධ අංශය පවසයි
+The suspect had found 102 counterfeit notes for the arrested at Rulers, after the shopkeeper was educated by the Ratnapura Police.
 
-...
+Further investigation made by the suspect revealed the fake notes for a long time in Badulla.
+
+The Criminal Division says that the suspect has handed over further investigations to Central for further investigations.
+
+Suspect's Home Suspect's Home The Criminal Investigations Department. The suspect is to be produced before the Ratnapura Courts.
+
+◼️
 
 [Data](articles/8279421f.json)
+
+[Extended Data](ext_articles/8279421f.ext.json)
 
 ---
 
@@ -2251,27 +2301,5 @@ The Department of Meteorology has said that the rainy weather in the southwester
 [Data](articles/b6d3786b.json)
 
 [Extended Data](ext_articles/b6d3786b.ext.json)
-
----
-
-### Three arrests with 3 gaj pearls
-
-*2024-08-17 16:29:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-கஜ-முத்துகளுடன்-மூவர்-கைது/175-342327) · `ta`
-
-In a raid led by the Puttalam Special Task Force, three individuals were arrested for possessing 03 kajj pearls valued at Rs 1 crore 30 lakhs. The operation was based on intelligence from the Sri Lanka Air Force and targeted agents in the Kulakkarai area. Two suspects from Mawanella and one from Puttalam were detained.
-
-🟩
-
-The Puttalam Special Task Force (PTA) said that three suspects have been arrested with 03 kajj pearls worth Rs 1 crore 30 lakhs.
-
-Based on information received by the Sri Lanka Air Force Intelligence Unit, Puttalam Special Task Force Camp Officers have been involved in the raid for engaging agents in Kulakkarai area in Puttalam.
-
-Two persons from Mawanella area and a man from Puttalam have been arrested by the police in the surrounding surround.
-
-◼️
-
-[Data](articles/0968ab25.json)
-
-[Extended Data](ext_articles/0968ab25.ext.json)
 
 ---

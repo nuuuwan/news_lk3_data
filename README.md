@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 23:21:32**
+As of **2024-08-18 23:36:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,401 (100.0%) of 41,406 articles have been extended.
+41,406 (100.0%) of 41,406 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -96,21 +96,31 @@ During the meeting, Premadasa promised Cardinal Ranjith and the Bishops that he 
 
 ---
 
-### அரியநேந்திரனுக்கு விளக்கம் கோரி இரண்டு வாரம் அவகாசம்; கட்சிக் கூட்டங்களிலும் பங்கேற்ற தடை! - சுமந்திரன் எம்.பி
+### Two weeks' time for Ariyanendran to explain;Banning from participating in party meetings!- Sumanthiran MP
 
 *2024-08-18 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191393) · `ta`
 
-பொது வேட்பாளராக அறிவிக்கப்பட்டுள்ள அரியநேந்திரன் அவர்களுக்கு விளக்கம் கோரி இரண்டு வார கால அவகாசம்  கொடுத்து கடிதம் அனுப்பப்பட்டுள்ளதுடன், அதுவரை கட்சிக் கூட்டங்களிலும் பங்கேற்ற தடை எனத் தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினரும், பேச்சாளருமான எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+Ariyanendran, named as the common Tamil candidate, received a two-week ultimatum to explain himself, barring him from party meetings. This action followed a central committee meeting where discussions included potential alliances and strategies to address Sinhala Buddhist chauvinism. Ariyanendran mentioned ongoing dialogues with major candidates, aiming for a Northeast-based solution and preparing a guiding document for voters. The party's stance remains undecided on supporting specific candidates until their manifestos are released.
 
-வவுனியாவில் உள்ள விருந்தினர் விடுதி ஒன்றில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்ற கட்சியின் மத்திய குழுக் கூட்டத்தின் பின் ஊடகங்களுக்கு கருத்து தெரிவித்த போதே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-பிரதான வேட்பாளர்களுடன் போச்சுவார்த்தை நடைபெற்றுக் கொண்டிருக்கின்றது. எமது அடிப்படை நிலைப்பாடு வடக்கு - கிழக்கு இணைந்த சமஸ்டி அடிப்படையிலான தீர்வு ஆகும்.
+Ariyanendran, who has been announced as the common candidate, has been sent a two -week time and has been sent to party meetings and the ban on participating in party meetings has been banned.
 
-மூன்று பிரதான வேட்பாளர்களுடனும் இடம்பெற்ற பேச்சுவார்த்தை தொடர்பாகவும், பேசிய விடயங்களையும் கூட்டத்தில் தெரியப்படுத்தினோம். சில முன்னேற்றகரமான கருத்துக்களை அவர்கள் தெரிவித்துள்ளார்கள். அவர்களது தேர்தல் அறிக்கை வெளிவந்த பின்னரே எமது இறுதி முடிவு எடுக்கப்படும்.
+He was speaking to the media after a party's central committee meeting held on Sunday (18) at a guest hostel in Vavuniya.. As he further stated,
+
+Pochu is being held with the main candidates. Our basic position is the North -East -combined Samasti -based solution.
+
+We also made a statement on talks with three major candidates and spoken things. They have made some progressive comments. Our final decision will be taken only after their election manifesto is released.
+
+Namal Rajapaksa had come to my house and met. Revealed the things they have. It was aimed at getting serious Sinhala votes.
+
+We also discussed the opportunities for it. Sinhala Buddhist chauvinism in the south is not lifted. We discussed it.
 
 ...
 
 [Data](articles/8a67ada8.json)
+
+[Extended Data](ext_articles/8a67ada8.ext.json)
 
 ---
 
@@ -254,37 +264,51 @@ So he asked what to do. Arjuna's Mahendra is banding the main.  උසාවි
 
 ---
 
-### காதல் காவியம் பாடும் இருவாச்சி பறவைகள்
+### Romantic epic birds
 
 *2024-08-18 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191392) · `ta`
 
-பறவை இனங்களிலேயே அரிதான, அழகான பறவை என்றால் இடத்தில் இருப்பது ‘ஹோர்ன் பில்’ என்று சொல்லக்கூடிய இருவாச்சி பறவைக் கூட்டம் தான். இருவாச்சி என்பது இருவாச்சி இனப்பறவைகளின் குடும்பப்பெயர் ஆகும்.
+The Hornbill, a unique bird known for its romantic behavior, exhibits a fascinating mating ritual. Males provide fruits and insects to females, who are only courted if they show interest. After pairing, both sexes engage in love flights, showcasing their bond. Nesting involves the female creating a natural wooden pod, where she lays eggs and later feeds the chicks through a small opening. The male then takes over, feeding and teaching the young to fly. However, during incubation, the female must find food, highlighting the high stakes of love and survival in the wild.
 
-இக்குடும்பத்தை ஹோர்ன்பில்” (Horn bill) என அழைக்கின்றன உலகம் முழுவதும் 54 வகை இருவாச்சி இனங்கள் இருக்கின்றன.இவை சுமார் 30 முதல் 40 ஆண்டுகள் வாழக்கூடியது.
+🟩
 
-இவை பெரிதும் இந்தியாவின் நேபாளம் , அந்தமான் தீவுகள் மற்றும் இந்தியாவின் மேற்குத்தொடர்ச்சி மலைகள் அருணாசலப் பிரதேசம், ஆகிய இடங்களில் வாழ்கின்றன. இங்கு 9இனங்கள் உள்ளன. தென்னிந்தியாவில் 4வகை இருவாச்சிகள் காணப்படுகின்றன.
+The rare, beautiful bird of birds is the two -year -old bird's crowd that can be called the Horn Bill. Irukachi is the family name of the two ethnic groups.
 
-இவை ஆண்  இருவாச்சி பறவை முதலில் பெண் இருவாச்சிபறவைக்கு பழம், பூச்சிகள் போன்றவற்றை வழங்கும். பெண் இருவாச்சி அதில் ஈர்க்கப்பட்டால் மட்டுமே ஆண் பறவையைத் தனது இணையாகத் தேர்வு செய்யுமாம்.
+The family is called Hornbill ”. There are 54 species of two species around the world.
 
-பின்னர் தமது காதலை வெளிப்படுத்த இரண்டுமே உயரமாகப் பறந்து வரும் இடை தேடுவதில் ஆரம்பித்து இளைப்பாறும் வரை எங்கு சென்றாலும் ஆண் பறவையும் பெண் பறவையும் இணைந்து செல்லுமாம்.
+These live in Nepal, the Andaman Islands of India and the Western Ghats of India, Arunachal Pradesh.. There are 9 species here. There are 4 types of two types in South India.
+
+These are the male dual bird that first provides fruit and insects for the female. Only if the female is attracted to it, the male bird will choose her parallel.
+
+Then, wherever you go to the intermittent searches to express their love, the male bird and the female bird will go together.
+
+During the reproductive reproduction of love. The nest of these species is the natural wooden pods. During the breeding season, female birds go into the cage before laying eggs.
 
 ...
 
 [Data](articles/ae55e264.json)
 
+[Extended Data](ext_articles/ae55e264.ext.json)
+
 ---
 
-### சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய பெண்ணாருவர் கைது!
+### Woman arrested for sexually abusing a girl
 
 *2024-08-18 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191375) · `ta`
 
-கற்பிட்டி, கந்தகுளியவெல்ல பிரதேசத்தில் சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தியுள்ளதாக கூறப்படும் பெண்ணாருவர் கைது செய்யப்பட்டுள்ளதாக கற்பிட்டி பொலிஸார் தெரிவித்துள்ளனர்.
+A 54-year-old woman was arrested in Kalpitiya for allegedly sexually abusing a girl in the Kandaguliyawella area.
 
-கந்தகுளியவெல்ல பிரதேசத்தைச் சேர்ந்த 54 வயதுடைய இரண்டு பிள்ளைகளின் தாயே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+Kalpitiya police have arrested a woman who allegedly sexually abused a girl in Kandaguliyawella area in Kalpitiya.
+
+The mother of two children aged 54 from Kandaguliyawella has been arrested, police said.
 
 ◼️
 
 [Data](articles/b01e809a.json)
+
+[Extended Data](ext_articles/b01e809a.ext.json)
 
 ---
 
@@ -310,35 +334,53 @@ The official further stated that the confession has been registered with the dri
 
 ---
 
-### ஆளுமை இல்லாத தலைவர்களை மக்கள் ஆதரிக்கப்போவதில்லை - நிஷாந்த ஸ்ரீ வர்ணசிங்க
+### People are not going to support leaders who are not personality - Nishantha Sri Warnasinghe
 
 *2024-08-18 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191385) · `ta`
 
-நாடு வீழ்ச்சியடையந்திருந்த போது பொறுப்புக்களை ஏற்றுக்கொள்ள பின்வாங்கிய சஜித் பிரேமதாச மற்றும் அனுரகுமார , தேர்தலில் வெற்றிபெற்று எவ்வாறு நாட்டை நிரவகிக்க முடியும்? அதனால் ஆளுமை இல்லாத தலைவர்களை மக்கள் ஒருபோதும் ஏற்றுக்கொள்ள மாட்டார்கள். நாட்டையும் மக்களயைும் பாதுகாத்த ரணில் விக்ரமசிங்கவுக்கு மக்கள் ஆதரவு அதிகரித்து வருகிறது என ஐக்கிய தேசிய கட்சியில் புதிதாக இணைந்துகொண்ட ஜாதிக்க ஹெல உறுமயவின் முன்னாள் பிரதித் தலைவர் நிஷாந்த ஸ்ரீ வர்ணசிங்க தெரிவித்தார்.
+Nishantha Sri Warnasinghe argues that leaders without personality won't gain public support, citing examples like Sajith Premadasa and Anuradhapura who didn't step up during crises. In contrast, Ranil Wickremesinghe, despite facing criticism, assumed leadership roles, stabilized the country, and earned growing popularity. Warnasinghe criticizes Sajith Premadasa and Anuradhapura for shying away from responsibility, suggesting they lack the necessary character for leadership.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் ஞாயிறுக்கிழமை (18) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
+
+Sajith Premadasa and Anurakumara, who retreated to accept responsibilities when the country was collapsed?So people will never accept leaders who do not have personality. Ranil Wickremesinghe, who defended the country and the people, is increasing popular support, said Nishantha Sri Warnasinghe, the former deputy leader of the Jathika Hela Urumaya (JHU), who joined the United National Party.
+
+He was speaking at a press conference held on Sunday (18) at the UNP headquarters.
+
+The then Prime Minister Mahinda Rajapakse resigned due to the mass struggle when the country died of Gotabhaya Rajapakse's erroneous resolutions.. If the Prime Minister resigns. The opposition leader in parliament should come forward to take charge of the government. But Sajith did not come forward to take charge of the country. The country was only US $ 20. That is why Sajith Premadasa is afraid to take charge. Anuragumara Dissanayake was also afraid.
 
 ...
 
 [Data](articles/9b434ae4.json)
 
+[Extended Data](ext_articles/9b434ae4.ext.json)
+
 ---
 
-### தேசிய உற்பத்திகளை முன்னிலைப்படுத்தி திட்டங்களை முன்னெடுப்போம்    -  நாமல் ராஜபக்ஷ
+### We will carry out projects to highlight national products - Namal Rajapaksa
 
 *2024-08-18 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191386) · `ta`
 
-செப்டெம்பர் 21 ஆம் திகதிக்கு பின்னர் தேசிய உற்பத்திகளை முன்னிலைப்படுத்திய பொருளாதார அபிவிருத்தித் திட்டங்களை முன்னெடுப்போம். சுய நல தேவைகளுக்காக எம்மை விட்டு விலகிச் சென்றவர்களுக்கு மக்கள் தகுந்த பாடம் புகட்டுவார்கள் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+Namal Rajapaksa, a Sri Lankan Presidential candidate, announced plans to focus on national product promotion post-September 21st as part of economic development efforts. He emphasized the importance of personal growth for overall economic improvement and urged the public to learn from those who prioritized self-interest over national welfare. Rajapaksa also highlighted the need to address the nation's challenges rather than focusing on election rivalries, inviting cooperation from all willing parties.
 
-திஸ்ஸமஹராம மகா விகாரையில் ஞாயிற்றுக்கிழமை (18)  வழிபாடுகளில் ஈடுபட்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதித் தேர்தலுக்கு நாங்கள் தயாராகவே இருக்கிறோம்.சர்வமத வழிபாடுகளுடன் எமது முதலாவது தேர்தல் பிரச்சாரத்தை நாளை மறுதினம் புதன்கிழமை அநுராதபுரம் நகரில் நடத்துவோம்.எமது வெற்றியில் நாட்டின் ஒட்டுமொத்த மக்களும் பங்காளிகளாவர்.
+We will carry out economic development plans that highlighted national products after September 21st. The Presidential candidate of Sri Lanka PA, Namal Rajapaksa, said that the people will teach the people who have left us for self -interest.
 
-செப்டெம்பர் 21 ஆம் திகதிக்கு பின்னர் தேசிய உற்பத்திகளை முன்னிலைப்படுத்திய பொருளாதார அபிவிருத்தி திட்டங்களை முன்னெடுப்போம்.தேசிய உற்பத்திகளுக்கு மாத்திரம் முக்கியத்துவம் கொடுப்போம். தனி நபரின் முன்னேற்றத்துடன் மாத்திரமே பொருளாதாரத்தை மேம்படுத்த முடியும் என்பதில் உறுதியாக இருக்கிறோம்.
+He was speaking to the media after the worship of the Tissamaharama Maha Viharaya on Sunday (18).
 
-...
+We are ready for the presidential election. We will hold our first election campaign in Anuradhapura on Wednesday, with the worship of the country.
+
+We will carry out the economic development projects that highlighted national products after September 21st.. We are sure that the economy can only improve with the improvement of the individual.
+
+In a crisis, people will teach us the appropriate lesson for those who have left us for their selfish needs.
+
+The country should pay attention to the challenges faced by the country rather than focusing on who's challenging in the presidential election. He said anyone can join hands with us in principle.
+
+◼️
 
 [Data](articles/526958fe.json)
+
+[Extended Data](ext_articles/526958fe.ext.json)
 
 ---
 

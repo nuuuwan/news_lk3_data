@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 07:21:16**
+As of **2024-08-18 07:52:35**
 
 ## Newspaper Stats
 
-*Scraped **41,264** Articles*
+*Scraped **41,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 351
 newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 393
-islandlk | 2,384
+islandlk | 2,392
 economynextcom | 2,502
 dailyftlk | 2,676
 adalk | 3,790
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,032
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,263 (100.0%) of 41,264 articles have been extended.
+41,264 (100.0%) of 41,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### රුසියාවට භූකම්පනයක්
+### A Pivothimpath for Russia
 
 *2024-08-18 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200049) · `si`
 
-රුසියාවට නැගෙනහිර දෙසින් වන මුහුදු ප්‍රදේශයේ අද (18) අලුයම භූකම්පනයක් සිදුව තිබේ.
+An earthquake of magnitude 7 struck off Russia's eastern coast, triggering a tsunami warning from the US Tsunami Warning Center, though no tsunami formed. This quake marks the start of seismic activity in the region, which is home to several active volcanoes.
 
-රික්ටර් මාපකයේ ඒකක 7 ක ප්‍රභලත්වයකින් යුතුව එම භූ කම්පනය හටගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+🟩
 
-මෙම භූ කම්පනයත් සමග අමෙරිකානු ජාතික සුනාමි අනතුරු ඇගවීමේ මධ්‍යස්ථානය මගින් සුනාමි අනතුරු ඇගවීමක් නිකුත් කළද පසුව එය සුනාමි තත්ත්වයක් නොවන බවට දැනුම් දී තිබේ.
+In the sea area of ​​the East, Russia, the earthquake has taken place this morning.
 
-පැසිපික් සාගරයේ භූ කම්පන ක්‍රියාකාරී තීරයක මෙම භූ කම්පනය හටගෙන ඇති අතර පළමු භූ කම්පනයෙන් පසුව පසු කම්පන කිහිපයක් ද සිදුව තිබේ.
+Foreign media reports that the earthquake has occurred with a port of 7 units of the richter thin.
 
-මෙම මුහුදු ප්‍රදේශයේ සක්‍රීය ගිනි කඳු කිහිපයක් ද පවතින බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+With the earthquake, the US Tsunami Warning Center has issued a tsunami warning center, but it is not a tsunami.
+
+The earthquake has broken on a seismic operation of the Pacific Ocean and the first earthquake has occurred.
+
+There are several active volcanoes in the sea.
 
 ◼️
 
 [Data](articles/44e634a7.json)
+
+[Extended Data](ext_articles/44e634a7.ext.json)
 
 ---
 
@@ -94,6 +100,52 @@ These attacks came just after my friend Lasantha Wickramatunge implored me to le
 
 ---
 
+### Damn Fine Coffee expands into global market
+
+*2024-08-18 02:45:00* · [`islandlk`](http://island.lk/damn-fine-coffee-expands-into-global-market/) · `en`
+
+Fits Retail is expanding globally with its Damn Fine Coffee brand, launched in 2021. Originating as a premium coffee vending company in 2019, Fits Retail partnered with major coffee equipment brands and entered the HORECA segment. Damn Fine Coffee focuses on quality and sustainability, working with over 300 smallholder farmers and establishing a coffee processing centre in 2022, which earned recognition as one of Sri Lanka’s best processors. The company also sponsors the National Barista Championship and offers barista training. In 2023, Damn Fine Coffee made its first international export, marking its entry into the global market and signalling plans for further expansion.
+
+...
+
+[Data](articles/685c13d6.json)
+
+---
+
+### Lycamobile’s Subaskaran Allirajah: Refugee from SL owning UK business empire
+
+*2024-08-18 02:35:00* · [`islandlk`](http://island.lk/lycamobiles-subaskaran-allirajah-refugee-from-sl-owning-uk-business-empire/) · `en`
+
+“He cooks for everyone and we stand around the breakfast bar and chat. Some of the most important decisions the company has taken have been over meals he’s made.”
+
+This is one of Lycamobile’s leadership team, and he’s talking about his boss, founder and chairman Subaskaran Allirajah. Lycamobile is a mobile virtual network operator, providing Sim packages to people across the globe, enabling them to make calls to anywhere else in the world – you might recognize its store frontage.
+
+The name “Lyca” is based on Allirajah’s sister’s name, Lehka. “I didn’t want to name the company after her exactly in case it didn’t work out,” he explains. Today, Lycamobile is in 21 countries, has 15m customers and turns over €1.6bn. According to The Sunday Times’s Rich List, Allirajah is worth £180m.
+
+...
+
+[Data](articles/8aabc9e3.json)
+
+---
+
+### Uswatte relaunches Chirpy Chips
+
+*2024-08-18 02:35:00* · [`islandlk`](http://island.lk/uswatte-relaunches-chirpy-chips/) · `en`
+
+Uswatte Confectionery Works Pvt Ltd, Sri Lanka’s oldest confectionery manufacturer, has relaunched its potato chip brand, Chirpy Chips, after a hiatus since 1994. The chips, which are made from pure potato, are available in three flavors—Cheese & Onion, Salted, and Hot N Spicy—and come in sizes of 16g, 24g, 50g, and 73g.
+
+The relaunch is led by Managing Director Shanura Perera, aiming to make Chirpy Chips a leading snack choice in Sri Lanka. The chips will be available at local grocery stores and leading supermarkets. Chairman Quintus Perera emphasized the brand’s commitment to meeting international standards for quality and taste.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/c102e53e.json)
+
+---
+
 ### FROM WHITES TO MUD
 
 *2024-08-18 02:06:00* · [`islandlk`](http://island.lk/from-whites-to-mud/) · `en`
@@ -129,6 +181,20 @@ On Saturday August 24 the FIRST LEG of the 78th edition of the prestigious Bradb
 [Data](articles/5486b8ce.json)
 
 [Extended Data](ext_articles/5486b8ce.ext.json)
+
+---
+
+### Deconstructing Bangladesh
+
+*2024-08-18 01:51:00* · [`islandlk`](http://island.lk/deconstructing-bangladesh/) · `en`
+
+In a week marked by rioting in the UK and upheavals in Sri Lanka, Venezuela, and the US, Bangladesh is unravelling at breakneck speed.
+
+On Monday, August 5, protesters managed to chase out Sheikh Hasina, the country’s longest serving Prime Minister. They have now rallied around a new government. Later that week, Muhammad Yunus, Bangladesh’s sole Nobel Prize-winner and founder of Grameen Bank, was appointed to head the administration, while Md Asaduzzaman was selected as the new Attorney-General. Other appointments are expected to follow.
+
+...
+
+[Data](articles/040bc475.json)
 
 ---
 
@@ -2108,6 +2174,48 @@ The Department of Meteorology also requests the public to take necessary steps t
 
 ---
 
+### ‘Despite challenges in the market, SLT-MOBITEL reports moderate revenue growth in 1H 2024’
+
+*2024-08-17 02:53:00* · [`islandlk`](http://island.lk/despite-challenges-in-the-market-slt-mobitel-reports-moderate-revenue-growth-in-1h-2024/) · `en`
+
+SLT-MOBITEL, the National ICT Solutions Provider, has reported moderate revenue growth for the first half of 2024, while demonstrating savings through cost management initiatives.
+
+The 1H 2024 performance establishes SLT-MOBITEL’s resilience and adaptability in a challenging market environment. The moderate revenue growth, coupled with successful cost-saving initiatives, has led to notable improvements.
+
+The Group’s revenue for 1H 2024 reached Rs. 53.5 billion, marking a 1.6% increase compared to the same period last year. Gross Profit at Group level has also increased by 4.0% to Rs 20.9 billion with the gross profit margin expanding to 39.0% from 38.1% in the previous year. The moderate growth was achieved despite challenges in the market such as customer churn and less demand for new connections.
+
+...
+
+[Data](articles/efa391d0.json)
+
+---
+
+### Union Assurance empowers community wellbeing with the HOPE initiative in Monaragala district
+
+*2024-08-17 02:52:00* · [`islandlk`](http://island.lk/union-assurance-empowers-community-wellbeing-with-the-hope-initiative-in-monaragala-district/) · `en`
+
+Union Assurance, Sri Lanka’s premier Life Insurer, continues its steadfast commitment to enriching community well-being with another successful execution of its HOPE initiative. The HOPE initiative underscores Union Assurance’s proactive approach to addressing and supporting the developmental needs of local communities, aimed at empowering the collective progress of the nation. The latest instalment of the initiative was conducted at Ethiliwewa Maha Vidyalaya in Wellawaya and was graced by the presence of Union Assurance’s Chief Executive Officer and other senior dignitaries.
+
+Union Assurance provided essential support to over 800 students from three schools in the Monaragala district, including the Ethiliwewa Maha Vidyalaya, Weherayaya Maha Vidyalaya and Balaharuwa Primary School with six months’ supply of sanitary napkins.
+
+...
+
+[Data](articles/c85adcfb.json)
+
+---
+
+### Festival of Creativity 2024 to bring together creative minds and emerging talent
+
+*2024-08-17 02:51:00* · [`islandlk`](http://island.lk/festival-of-creativity-2024-to-bring-together-creative-minds-and-emerging-talent/) · `en`
+
+The Festival of Creativity 2024 is set to showcase and celebrate creative talent in Sri Lanka. Organised by the AMDT School of Creativity, and scheduled from the 23rd of August to the 1st of September, the festival promises to be an extraordinary experience, uniting creative minds across various disciplines. The AMDT Festival of Creativity will feature three major events, each designed to inspire, educate, and spotlight the incredible potential of Sri Lankan creatives.
+
+...
+
+[Data](articles/b0c8b848.json)
+
+---
+
 ### WindForce soars to new heights: stellar quarterly performance
 
 *2024-08-17 02:50:00* · [`islandlk`](http://island.lk/windforce-soars-to-new-heights-stellar-quarterly-performance/) · `en`
@@ -2173,149 +2281,5 @@ Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, d
 [Data](articles/be3c821b.json)
 
 [Extended Data](ext_articles/be3c821b.ext.json)
-
----
-
-### The economy will increase by 3 percent
-
-*2024-08-17 01:26:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரம்-3-சதவீதம்-அதிகரிக்கும்/175-342313) · `ta`
-
-Sri Lanka's economy is projected to grow by 3% this year, according to the Central Bank, which also forecasts lower-than-expected inflation until March 2024. This outlook was shared in the bank's latest Monetary Policy Report.
-
-🟩
-
-The Central Bank of Sri Lanka has said that Sri Lanka's inflation will be lower than the expected goal until March next year.
-
-This is mentioned in the Monetary Policy Report issued by the Central Bank of Sri Lanka.
-
-Sri Lanka's economy is expected to increase by 3 per cent by the end of this year, the Central Bank of Sri Lanka. (A)
-
-◼️
-
-[Data](articles/78265319.json)
-
-[Extended Data](ext_articles/78265319.ext.json)
-
----
-
-### Will  Rajitha Senaratne’s Crossover  Trigger More Defections of MPs From SJB to Ranil’s Side?
-
-*2024-08-17 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84559) · `en`
-
-Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha  Senaratne is the latest among well-known politicians to throw in their lot with incumbent president Ranil Wickremesinghe. The Samagi Jana Balawegaya(SJB) MP for Kalutara district met with the president at the Gangaramaya temple in Colombo on 13 August and signed a memorandum of understanding (MOU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for  21 September 2024.Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
-
-Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports,  Senaratne  had stated  this motivated  him into  supporting  Wickremesinghe’s candidacy.
-
-...
-
-[Data](articles/09d4eecc.json)
-
-[Extended Data](ext_articles/09d4eecc.ext.json)
-
----
-
-### Reorganization in Electricity Board
-
-*2024-08-17 01:07:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபையில்-மறுசீரமைப்பு-அவசியம்/175-342312) · `ta`
-
-Anurakumara Dissanayake, a National People's Power Presidential candidate, called for reorganization of the Ceylon Electricity Board during a power sector workshop. He highlighted various issues within the board and suggested transforming it into a profit-making entity through internal restructuring.
-
-🟩
-
-The National People's Power Presidential candidate Anurakumara Dissanayake said that the Ceylon Electricity Board is required.
-
-He made this statement while participating in the workshop on the power sector.. As he further stated,
-
-There are a variety of defects in the power sector. Internal restructuring work must be carried out if it is to be relieved. He said the Ceylon Electricity Board could be transformed into a profit -making company. (A)
-
-◼️
-
-[Data](articles/fe31886b.json)
-
-[Extended Data](ext_articles/fe31886b.ext.json)
-
----
-
-### Guidance
-
-*2024-08-17 01:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்கம்மை-தொடர்பில்-வழிகாட்டல்-கோவை/175-342311) · `ta`
-
-The Ministry of Health in Sri Lanka is awaiting WHO guidance post-release of Kurma infection guidelines. WHO declared a global health emergency due to the infection. The Deputy Director General of Public Health mentioned the initiation of discussions on preventing the virus from entering the country.
-
-🟩
-
-The Ministry of Health has announced that the World Health Organization will release the guidance for Sri Lanka after the release of the Guidelines of the Kurma infection.
-
-The World Health Organization declared an emergency worldwide on Wednesday by the World Health Organization on the Infection.
-
-The Deputy Director General of Public Health of the Ministry of Health, SM Anald said that the preliminary talks have been initiated regarding the steps to be taken to prevent the spread of viral infections into the country.. (A)
-
-◼️
-
-[Data](articles/0b6b302e.json)
-
-[Extended Data](ext_articles/0b6b302e.ext.json)
-
----
-
-### Sajith at Meera Makkam School Kandy
-
-*2024-08-17 00:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-மீரா-மக்காம்-பள்ளிவாசலில்-சஜித்/175-342310) · `ta`
-
-Opposition leader Sajith Premadasa visited Kandy for the presidential election, attending the Dua Prayer at Meera Makkam School.
-
-🟩
-
-Opposition leader Sajith Premadasa visited the Kandy district yesterday for the presidential election.
-
-Sajith Premadasa attended the Dua Prayer held at the Meera Makkam school in Kandy.. (A)
-
-◼️
-
-[Data](articles/e2b11370.json)
-
-[Extended Data](ext_articles/e2b11370.ext.json)
-
----
-
-### SJB and Maithripala refute alliance rumours
-
-*2024-08-17 00:55:09* · [`dailyftlk`](https://www.ft.lk/news/SJB-and-Maithripala-refute-alliance-rumours/56-765688) · `en`
-
-SJB says party has no intention or need to join hands with Maithripala Sirisena as reported
-
-Says such claims are entirely fabricated and are being disseminated by Govt.-aligned groups
-
-Maithrpala Sirisena says he has not made any decision to support a candidate in 2024 Presidential Election yet
-
-The Samagi Jana Balawegaya (SJB) has refuted claims that former President Maithripala Sirisena has joined their ranks in support of SJB leader Sajith Premadasa’s Presidential candidacy.
-
-In a statement released yesterday, SJB Media Spokesperson S.M. Marikkar accused Government-aligned groups of fabricating and spreading false news through both traditional and social media channels.
-
-He said that the reports of Sirisena joining forces with the SJB are entirely fabricated and emphasised that the SJB has no intention or need to form an alliance with Sirisena.
-
-...
-
-[Data](articles/1b013f52.json)
-
-[Extended Data](ext_articles/1b013f52.ext.json)
-
----
-
-### SLMC MP Moulana backs President
-
-*2024-08-17 00:54:50* · [`dailyftlk`](https://www.ft.lk/news/SLMC-MP-Moulana-backs-President/56-765687) · `en`
-
-Sri Lanka Muslim Congress (SLMC) Batticaloa District MP Ali Zahir Moulana yesterday pledged his support to President Ranil Wickremesinghe.
-
-Moulana, who met with the President at the Presidential Operations Office, confirmed his backing for Wickremesinghe in the upcoming Presidential Election.
-
-Moulana has been active in politics since 1988 and was first elected to Parliament in 1994.
-
-◼️
-
-[Data](articles/0c6dc843.json)
-
-[Extended Data](ext_articles/0c6dc843.ext.json)
 
 ---

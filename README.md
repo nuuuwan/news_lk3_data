@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 21:06:18**
+As of **2024-08-18 21:21:17**
 
 ## Newspaper Stats
 
-*Scraped **41,388** Articles*
+*Scraped **41,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,49 +18,97 @@ dailyftlk | 2,676
 adalk | 3,806
 dailymirrorlk | 4,733
 adaderanalk | 4,840
-tamilmirrorlk | 5,327
-virakesarilk | 6,560
+tamilmirrorlk | 5,328
+virakesarilk | 6,561
 adaderanasinhalalk | 7,060
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,381 (100.0%) of 41,388 articles have been extended.
+41,388 (100.0%) of 41,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### ரணில் நாட்டை வீழ்ச்சியடையச்செய்த மொட்டு கட்சிக் காரர்களுடன் இணைந்து நாட்டை கட்டியெழுப்ப முயற்சிக்கிறார் - முஜிபுர் ரஹ்மான்
+### முள்ளிவாய்க்காலில் பொதுச்சுடரினை ஏற்றி பிரச்சார நடவடிக்கையை ஆரம்பித்தார் அரியநேத்திரன்
+
+*2024-08-18 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191387) · `ta`
+
+ஜனாதிபதி வேட்பாளார்  அரியநேந்திரன் இன்றையதினம் ஞாயிற்றுக்கிழமை (18) மாலை 3 மணியளவில்  முள்ளிவாய்க்காலில் பொதுச்சுடர் ஏற்றி ஜனாதிபதி தேர்த்தலுக்கான  முதலாவது பிரச்சாரத்தினை  ஆரம்பித்து வைத்துள்ளார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தல் நெருங்கிவரும்  நிலையில்  ஜனாதிபதி வேட்பாளர்கள் தமது வெற்றிக்காக  மக்கள் மத்தியில் பிரச்சார நடவடிக்கைகளை  உத்தியோக பூர்வமாக  முன்னெடுத்து வருகின்றனர்.
+
+இந்நிலையில் முல்லைத்தீவு  முள்ளிவாய்க்கால் பகுதியில் நினைவுதூபிக்கு பொது சுடரேற்றி வழிபட்டு தமிழ் மக்கள் சார்ந்து  தமிழ் மக்களை பிரதிநிதித்துவப்படுத்தி  ஜனாதிபதி வேட்பாளர்  அரியநேந்திரன் மற்றும் அவரோடு இணைந்து உறுப்பினர்கள்  தேர்தலுக்கான முதலாவது பிரச்சாரத்தை ஆரம்பித்து வைத்துள்ளனர்.
+
+குறித்த, அஞ்சலியின் போது முன்னாள் பாராளுமன்ற உறுப்பினர்களான சுரேஷ் பிரேமச்சந்திரன், சிவசக்தி ஆனந்தன்,  ஜனநாயக போராளிகள் கட்சியின் ஊடகப்பேச்சாளர் துளசி, சமூக செயற்பாட்டாளரும் அரசியல் ஆய்வாளருமான நிலாந்தன் மற்றும் கட்சியின் உறுப்பினர்கள் என பலரும் கலந்து கொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/d7643000.json)
+
+---
+
+### விமல் தரப்பினர் நல்லூர் கந்தனை வழிபட்டனர்
+
+*2024-08-18 21:02:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-தரப்பினர்-நல்லூர்-கந்தனை-வழிபட்டனர்/175-342396) · `ta`
+
+ஜனாதிபதி வேட்பாளர் திலித் ஜயவீர, பாராளுமன்ற உறுப்பினர்களான விமல் வீரவன்ச, உதய கம்மன்பில உள்ளிட்ட தரப்பினர் யாழ்பாணம் நல்லூர் கந்தன் ஆலயத்துக்கு சென்று வழிபாடுகளில் ஈடுபட்டுள்ளனர்.
+
+நல்லூர் கந்தசுவாமி கோவிலில் தற்போது திருவிழா இடம்பெற்று வரும் நிலையில், அவர்கள் நேற்று அங்கு சென்றுள்ளனர்.
+
+இதேவேளை, சர்வஜன அதிகார கூட்டணியின் முதலாவது அங்குரார்ப்பண தேர்தல் பிரசாரக் கூட்டம் யாழ்ப்பாணத்தில் நேற்று முன்தினம் இடம்பெற்றது. (a)
+
+◼️
+
+[Data](articles/6bf3c8d0.json)
+
+---
+
+### Ranil is trying to build the country along with the budget party that has collapsed -Mujibur Rahman
 
 *2024-08-18 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191389) · `ta`
 
-நாட்டை வீழ்ச்சியடையச்செய்த மொட்டு கட்சிக் காரர்களுடன் இணைந்து தேர்தலில் வெற்றிபெற முடியும் என்றே ரணில் விக்ரமசிங்க நினைத்தார். ஆனால் தற்போது நாமல் ராஜபக்ஷ் மொட்டு கட்சியில் போட்டியிடுவதால், அவருக்கு வெற்றிபெறுவது நம்பிக்கை இல்லாமல் போயுள்ளது. அதனால் ஐக்கிய மக்கள் சக்தியை பிளவுபடுத்த முயற்சிக்கிறார். ரணில் விக்ரமசிங்க இத்துப்போன காஸ் சிலிண்டர். அதில் காஸ் நிரப்ப முற்பட்டால்  வெடித்து சிதறிவிடும் என ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+Ranil Wickremesinghe, facing challenges with his party and the economic collapse under his leadership, attempts to form alliances but struggles due to internal divisions and external competition. Despite efforts to unite various factions, his confidence in victory wanes with Namal Rajapaksa's entry into the party. Mujibur Rahman criticizes Wickremesinghe's approach, suggesting it could lead to further instability. The narrative highlights Wickremesinghe's struggle to regain support, contrasting it with Sajith Premadasa's perceived popularity among the people.
 
-ருவன்வெல்ல பிரதேசத்தில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்ற தேர்தல் பிரசாரக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் தற்போது தற்பாேது கட்சியின் யானை சின்னம் இல்லை. காஸ் டாங்கியே இருக்கிறது.அந்த காஸ் டாங்கி இத்துப்போனதாகும். அதனால் அதில் ஒரு மாதத்துக்கு மேல் காஸ் நிரப்ப முடியாது. அதில் காஸ் நிரப்ப முற்பட்டால் அது வெடித்து சிதறிவிடும்.
+Ranil Wickremesinghe thought that the country could win the election with the party's party workers who collapsed the country.. But now that Namal Rajapaksa is contesting in the party, he is not confident of winning. So he tries to split the United People's Power. Ranil Wickremesinghe's Cass cylinder. United People's Shakti MP Mujibur Rahman said that if they tried to fill the Gas, they would explode.
+
+He said this while addressing the election campaign in Ruwanwella on Sunday (18).
+
+The United National Party headquarters, Sirikotha, is currently not the elephant symbol of the party. Cass tank. So it can't fill the gas for more than a month. If you try to fill the gas, it will explode.
+
+We tried 30 years to sell Ranil Wickremesinghe. But we were unable to sell him.. It was because we learned that the people of Sajith Premadasa led the creation of the United People's Power.
 
 ...
 
 [Data](articles/468abfdc.json)
 
+[Extended Data](ext_articles/468abfdc.ext.json)
+
 ---
 
-### இஞ்சியின் விலை வேகமாக வீழ்ச்சி!
+### The price of ginger falls fast!
 
 *2024-08-18 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191390) · `ta`
 
-இஞ்சி இறக்குமதி செய்ய எடுக்கப்பட்ட தீர்மானத்தினால், உள்ளூர் சந்தையில் இஞ்சியின் விலை வேகமாக வீழ்ச்சியடைந்துள்ளதால், தாம் கடும் பொருளாதார நெருக்கடிக்கு உள்ளாகியுள்ளதாக இஞ்சி விவசாயிகள் குற்றம் சுமத்தியுள்ளனர்.
+Ginger prices plummet due to imports, hitting local farmers hard. A kg, once 3000 rupees, now sells for 1000. The government allows importing 3000 metric tonnes to stabilize prices.
 
-கடந்த காலத்தில் சந்தையில் 3000 ரூபாவாக உயர்ந்து காணப்பட்ட ஒரு கிலோகிராம் இஞ்சி தற்போது 1000 ரூபாவிற்கு விற்பனை செய்யப்படுகிறது.
+🟩
 
-எவ்வாறாயினும், விலையை கட்டுப்படுத்தும் வகையில் 3000 மெற்றிக் தொன் இஞ்சியை இறக்குமதி செய்வதற்கு அமைச்சரவை அண்மையில் அனுமதி வழங்கியுள்ளமை குறிப்பிடத்தக்கது.
+Ginger farmers have blamed the importation of ginger and the prices of ginger in the local market have fallen rapidly and they have been in a severe economic crisis.
+
+One kilogram of ginger, which has risen to 3000 rupees in the past, is currently selling for 1000 rupees.
+
+However, the Cabinet has recently granted permission to import 3000 metric tonnes of ginger to control the price.
 
 ◼️
 
 [Data](articles/5d4aaae8.json)
+
+[Extended Data](ext_articles/5d4aaae8.ext.json)
 
 ---
 
@@ -86,23 +134,31 @@ He was speaking at a reliance in Ruwanwella today (18).
 
 ---
 
-### 20 வயதுக்குட்பட்ட சாவ் சம்பியன்ஷிப்: நேபாளத்திடம் தோல்வி அடைந்தது இலங்கை
+### Chaw Championship under the age of 20: Sri Lanka failed to Nepal
 
 *2024-08-18 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191388) · `ta`
 
-கத்மண்டு தசரத் ரங்கசாலா விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (18) பிற்பகல் நடைபெற்ற 20 வயதுக்குட்பட்ட தெற்காசிய கால்பந்தாட்ட சம்மேளன சம்பியன்ஷிப் போட்டியில் இலங்கையை 1 - 0 என்ற கோல் வித்தியாசத்தில் நேபாளம் வெற்றிகொண்டது.
+Nepal clinched victory in the Under-20 South Asian Football Federation Championships against Sri Lanka, with a crucial goal scored by Nirajan Tami in the 23rd minute. Despite Sri Lanka's efforts, particularly in the second half where players struggled with muscle cramps, Nepal's defense held strong. The match highlighted the potential of young players from both teams, raising questions about coaching strategies and future development opportunities.
 
-போட்டியின் பெரும் பகுதியில் பந்தை தன்னகத்தே வைத்து பரிமாற்றத்தில் ஈடுபட்ட நேபாளம் போட்டியின் 23ஆவது நிமிடத்தில் போட்ட கோல் அதன் வெற்றி கோலாக அமைந்தது.
+🟩
 
-இலங்கையின் பெனல்டி எல்லைக்குள் இருந்து நேபாள முன்கள வீரர் நிராஜன் தாமி வலது காலால் ஓங்கி உதைத்த பந்தை கோல் காப்பாளர் அஹமத் ஷரீப் தடுக்க முயற்சித்த போதிலும் அது கைகூடாமல் போனது.
+Nepal won the South Asian Football Federation Championships at the Under -20 Championships at the Kathmandu Dasarat Rangasala Stadium on Sunday afternoon.
 
-ஒரு சில சந்தர்ப்பங்களில் நேபாளத்தின் கோல் எல்லையின் பக்கவாட்டில் இலங்கை வீரர்கள் பந்தை நகர்த்திச் சென்ற போதிலும் முன்கள வீரர்களின் முயற்சிகள் பலனளிக்கவில்லை.
+In the large part of the match, Nepal, which was exchanged by the ball, was in the 23rd minute of the match.
 
-மேலும், போட்டியின் இரண்டாவது பகுதியில் இலங்கை வீரர்கள் அடிக்கடி உபாதைக்குள்ளானது திருப்தி தருவதாக அமையவில்லை. இலங்கை வீரர்கள் அடிக்கடி தசைப்பிடிப்பால் துடிப்தை அவதானிக்க முடிந்தது.
+Goalkeeper Ahmad Sharif tried to stop the ball that Nepali player Nirajan Tami kicked off the right leg from the penalty of Sri Lanka, but it was unchecked.
+
+On a few occasions, the Sri Lankan players moved the ball to the side of the goal border of Nepal, but the efforts of the former players were beneficial.
+
+Moreover, the Sri Lankan players are often satisfied with the second part of the competition. Sri Lankan players were often able to observe the tulip with muscle cramps.
+
+However, if these young players are given better exercises and advice, many of them are sure to be placed in the national team in the future.
 
 ...
 
 [Data](articles/bc2c6963.json)
+
+[Extended Data](ext_articles/bc2c6963.ext.json)
 
 ---
 
@@ -194,15 +250,21 @@ The victim has been identified as a resident of the Thalawathugoda area, accordi
 
 ---
 
-### இம்முறையைப் போல் பேரம் பேசுவதற்கான அரிய சந்தர்ப்பம் தமிழர்களுக்கு வாய்க்காது; சரியாக பயன்படுத்தி அரசியல் தீர்வுக்கான உத்தரவாதத்தை  சகல வேட்பாளர்களிடமும் பெறவேண்டும் - சுமந்திரன்
+### The rare opportunity of bargaining like this is not the Tamils;All candidates should get a guarantee of political settlement properly - Sumanthiran
 
 *2024-08-18 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191383) · `ta`
 
-இம்முறை ஜனாதிபதித் தேர்தலில் தமிழ் பொதுவேட்பாளரைக் களமிறக்குவது அநாவசியமானது மாத்திரமல்ல, இது தமிழ் மக்களுக்கு மிகப் பாதகமான விளைவை ஏற்படுத்தும் என்பதையும் நான் தொடர்ச்சியாகக் கூறிவருகின்றேன். தற்போதைய களநிலைவரத்தை ஒத்த சூழ்நிலையில்தான் நாம் எமது மக்களின் வாக்குப்பலத்தைப் பிரயோகித்து, அடையப்படவேண்டிய விடயங்களை அடைந்துகொள்ளவேண்டும். ஆயுதம் இல்லாத தற்போதைய சூழ்நிலையில் வாக்குப்பலம் தான் எம்முடைய ஆயுதம். அதனைத் தகுந்த சமயத்தில் பயன்படுத்தாமல், எங்கேயோ கொண்டுசென்று ஒழித்துவைப்பதை ஒத்ததாகவே தமிழ் பொதுவேட்பாளரைக் களமிறக்கும் செயற்பாடு இருக்கின்றது. இதனைவிட முட்டாள்தனமான செயற்பாடு வேறு எதுவுமில்லை.
+Sumanthiran emphasizes the importance of ensuring all candidates receive a fair political settlement, highlighting the potential adverse effects of fielding a Tamil general candidate in the presidential election. He stresses the power of voting as a tool for achieving goals, cautioning against using it as a weapon or making rash decisions without considering the broader implications.
+
+🟩
+
+It is not unnecessary to field the Tamil general candidate in the presidential election, and that this will have a very adverse effect on the Tamil people.. We must use the voting of our people and achieve what we need to achieve. Voting is in the current situation that is not weapon is our weapon. It is similar to the use of the Tamil general candidate to be eradicated somewhere, rather than the appropriate time.. There is nothing more stupid.
 
 ◼️
 
 [Data](articles/d6f06f00.json)
+
+[Extended Data](ext_articles/d6f06f00.ext.json)
 
 ---
 
@@ -226,15 +288,21 @@ Accordingly, the Sri Lankan team should win the match for further staying in the
 
 ---
 
-### பொது வேட்பாளரும் மலையக வேட்பாளரும்
+### Common candidate and upcountry candidate
 
 *2024-08-18 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191382) · `ta`
 
-பிர­தான வேட்­பா­ளர்­க­ளாக ரணில், சஜித், அநுர, நாமல் ஆகியோர் இப்­பட்­டி­யலில் காணப்­பட்­டாலும் ஜனா­தி­பதி தேர்தல் குறித்த பர­ப­ரப்­புகள் ஆரம்­ப­மாக முன்­னரே தமிழ்த்­த­ரப்பில் பொது வேட்­பாளர் ஒரு­வரை நிறுத்த வேண்டும் என்ற விவா­தங்கள் மேலெ­ழும்­பி­யி­ருந்­தன. வடக்கு, கிழக்கு வாழ் தமி­ழர்­களின் பிரச்­சி­னைகள் பற்றி போர் முடிந்த பின்­னரும் எந்த அர­சாங்­கமும் அக்­க­றை­கொள்­ளாத நிலையில் சிங்­கள அர­சியல் தலை­வர்­க­ளுக்கும், சிங்­கள சமூ­கத்­துக்கும் ,   சர்­வ­தே­சத்­துக்கும் அழுத்­த­மான ஒரு செய்­தியை முன்­வைப்­ப­தற்கு கட்­டா­ய­மாக தமிழ் பொது வேட்­பாளர் ஒரு­வரை ஜனா­தி­பதித் தேர்­தலில் கள­மி­றக்க வேண்டும் என்று வலி­யு­றுத்­தப்­பட்­டது.
+Ranil, Sajith, Anura, and Namal emerged as key presidential candidates amidst debates. The Tamil common candidate was encouraged to run due to lack of attention towards Tamil issues post-war, affecting both the Tamil community and international relations.
+
+🟩
+
+Although Ranil, Sajith, Anura and Namal were seen as the main candidates, the debate on the presidential election began before the start of the presidential election.. After the war on the problems of Tamils ​​in the North and East, no government was concerned about the issue of the Sinhala political leaders, the Sinhalese community and the international community, the Tamil common candidate was urged to field a presidential election.
 
 ◼️
 
 [Data](articles/d02248a2.json)
+
+[Extended Data](ext_articles/d02248a2.ext.json)
 
 ---
 
@@ -316,35 +384,49 @@ Accordingly, a 45-year-old was a 45-year-old resident of Thalawathugoda, police 
 
 ---
 
-### தமிழ் பொது வேட்பாளர் பா.அரியநேந்திரனின் முதலாவது தேர்தல் பிரச்சார கூட்டம்
+### Tamil General candidate Pa. Ariyanendran's first election campaign meeting
 
 *2024-08-18 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191380) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிடவுள்ள தமிழ் பொது வேட்பாளர் பா.அரியநேந்திரன் அவர்களது முதலாவது தேர்தல் பிரச்சார கூட்டம் முல்லைத்தீவு மண்ணில் ஆரம்பிக்கப்பட்டுள்ளது.
+PA Ariyanendran launched his presidential campaign in Mullaitivu, paying homage at the Mullivaikkal Memorial before addressing supporters at the Vadapalai Senthima Playground. The event featured notable figures like former Northern Provincial Agriculture Minister Kandaya Sivanesan and several MPs and ex-MPs.
 
-முன்னதாக முள்ளிவாய்க்கால் மண்ணுக்கு சென்ற ஜனாதிபதி தேர்தலில் போட்டியிடவுள்ள தமிழ் பொது வேட்பாளர் பா.அரியநேந்திரன் அவர்கள் முள்ளிவாய்கால் நினைவு முற்றத்தில் சுடரேற்றி அஞ்சலி செலுத்தி அதன்பின்னர் முல்லைத்தீவு வற்றாப்பளை செந்தமிழ் விளையாட்டு மைதானத்தில் இடம்பெறும் முதலாவது தேர்தல் பரப்புரை கூட்டத்தில் கலந்துகொண்டுள்ளார்
+🟩
 
-முன்னாள் வடமாகாண விவசாய அமைச்சர் கந்தையா சிவநேசன் அவர்களது தலைமையில் இடம்பெறும் இந்த கூட்டத்தில் பாராளுமன்ற உறுப்பினர்களான தர்மலிங்கம் சித்தார்த்தன் , செல்லம் அடைக்கலநாதன் , முன்னாள் பாராளுமன்ற உறுப்பினர்களான சிவசக்தி ஆனந்தன் , முன்னாள் யாழ் மாநர மேஜர் மணிவண்ணன், ஜனநாயக போராளிகள் கட்சி தலைவர் வேந்தன், உள்ளிட்ட அரசியல் பிரமுகர்கள் மற்றும் பத்தி எழுத்தாளர்களான நிலாந்தன், யதீந்திரா உள்ளிட்டவர்களும் பொதுமக்களும் கலந்துகொண்டுள்ளனர்.
+The first election campaign meeting of Tamil general candidate PA Ariyanendran, who is contesting the presidential election, has been inaugurated on the Mullaitivu soil.
+
+Earlier, Mullivaikkal, Tamil general candidate, P. Ariyanendran, who was contesting the presidential election in the Mullivaikkal soil, paid tribute to the Mullivaikkal Memorial and then participated in the first election campaign at the Mullaitivu Vadapalai Senthima Playground.
+
+The meeting will be chaired by former Northern Provincial Agriculture Minister Kandaya Sivanesan, including MPs Dharmalingam Siddharthan, Sellam Adakkalanathan, former MPs Sivasakthi Anandan, former Jaffna Monetry Major Manivannan, Democratic Militant Party leader Venthan, and Paradhakkalakkalakkalakkalakkalakkalakkalakkum.
 
 ◼️
 
 [Data](articles/0820c75d.json)
 
+[Extended Data](ext_articles/0820c75d.ext.json)
+
 ---
 
-### மட்டு நகரில் பிரபல உணவகத்தை 22ஆம் திகதி வரை மூடுமாறு நீதிமன்றம் உத்தரவு
+### The court ordered the closure of the popular restaurant in the city until the 22nd
 
 *2024-08-18 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191377) · `ta`
 
-மட்டக்களப்பு நகரில் இயங்கிவரும் பிரபல உணவகம் சுகாதார ஒழுங்கு விதிகளை மீறி கழிவு நீரை வெளியில் திறந்துவிட்ட மற்றும் மனித நுகர்வுக்கு பொருத்தமற்ற கோழி இறைச்சியை களஞ்சியப்படுத்தி வைத்திருந்தமை தொடர்பாக மட்டக்களப்பு நீதவான் நீதிமன்றம் உணவகத்தை எதிர்வரும் 22ம் திகதிவரை தற்காலிகமாக மூடுமாறு ஞாயிற்றுக்கிழமை (18) உத்தரவு பிறப்பித்ததையடுத்து உடன் பொது சுகாதார பரிசோதகர்கள் உணவகத்தை மூடி சீல் வைத்தனர்.
+A court order shut down a city's popular restaurant until the 22nd due to public complaints about its wastewater pollution. Health inspectors found unsanitary conditions and confiscated poultry meant for human consumption. The restaurant's owner faces charges under the Food Act, leading to the temporary closure.
 
-குறித்த பிரபல உணவகத்தின் கழிவு நீர் வெளியேறி வீதிகளிலும் வடிகான்களிலும் தேங்கி நிற்பதுடன் அந்த பகுதியில் தூர்நாற்றம் வீசி வருவதாக பொதுமக்கள் தொடர்ச்சியாக பொது சுகாதார பரிசோதகர்களுக்கு முறைப்பாடு தெரிவித்து வந்தனர்.
+🟩
 
-இந்த நிலையில் குறித்த உணவகத்தை புளியந்தீவு பொது சுகாதார பரிசோதகர் ஜெ.யசோதரன் தலைமையிலான பரிசோதகர்கள் முற்றுகையிட்டு பரிசோதனையிடனர் இதன் போது மனித நுகர்வுக்கு பொருத்தமற்ற கோழி இறைச்சியை களஞ்சியப்படுத்தி வைத்திருந்தமையை கண்டுபிடித்து கைப்பற்றியதுடன் சுகாதார ஒழுங்கு விதிகளை மீறி கழிவு நீரை வெளியில் திறந்துவிட்ட வந்துள்ளதை கண்டுபிடித்தனர்.
+Public health inspectors closed the restaurant on Sunday (18) that the Batticaloa Magistrate's Court on Sunday (18) ordered the closure of the restaurant on the 22nd of this month.
+
+The popular restaurant's waste water is stagnant in the streets and drains and the public has repeatedly complained to public health inspectors that the area is throwing.
+
+In this case, the restaurant, led by Puliyantivu Public Health Inspector J. Yasodharan, examined the siege and seized the seizure of poultry meat for human consumption.
+
+The owner of the restaurant under Section 13 (1) of the Food Act, No. 26, 1980, filed a case at the Public Health Inspector Batticaloa Magistrate's Court on Sunday.The magistrate immediately ordered the restaurant to be temporarily closed until the 22nd of this month, after being brought to the notice of the magistrate that the case was filed in court and was accused of being convicted.
 
 ...
 
 [Data](articles/fd2ca038.json)
+
+[Extended Data](ext_articles/fd2ca038.ext.json)
 
 ---
 
@@ -2309,57 +2391,5 @@ The three suspects were to be produced before the Balapitiya court today (18).
 [Data](articles/fc21f090.json)
 
 [Extended Data](ext_articles/fc21f090.ext.json)
-
----
-
-### Shall the surgery was wrong?
-
-*2024-08-18 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200050) · `si`
-
-Relatives accuse a doctor at Colombo National Hospital of negligence leading to the death of a man injured in a bus accident. The doctor claimed the man died from a pre-existing condition, but the family alleges surgical errors. The surgery, initially planned at a private hospital due to cost concerns, was moved to Colombo National Hospital due to financial constraints. The man's condition worsened post-surgery, and despite efforts to save him, he passed away. An autopsy is pending, and the hospital's response to the incident remains unclear.
-
-🟩
-
-In surgery at the Colombo National Hospital, relatives have accused the doctor who has committed responsibility for the death of a three-member father of Medirigiriya.
-
-Although a doctor has said that the victim has died of a vein of the deceased episode.
-
-The 41-year-old father of Pharana Rajapakse, a 41-year-old father, who collided with a bus in Medirigiriya in November, 2023, was injured in Medirigiriya.
-
-Any bruising on the left hand was to persist in everyday duties, the seagues were hindered.
-
-To treat it, he had found a doctor from a private hospital in Kandy, he had told a nervous break as a nervous break should be done.
-
-The doctor also stated that if the operation was carried out at a private hospital, it would cost about Rs.
-
-He admitted to the Colombo National Hospital on July 21 due to economic difficulties.
-
-The surgery is carried out by the doctor who has been tested at the private hospital in Kandy.
-
-...
-
-[Data](articles/3ed9abe8.json)
-
-[Extended Data](ext_articles/3ed9abe8.ext.json)
-
----
-
-### We have made the building plans to build the country
-
-*2024-08-18 08:18:27* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩ-නගන-සැලසුම්-අපි-හදල-ඉවරයි/11-411419) · `si`
-
-Dissanayake addresses a rally, emphasizing the need for national development to combat fraud and corruption. He highlights the challenges faced by farmers, fishermen, and businesses, urging a shift from past failures towards progress. He promises to protect cultural heritage and ensure justice for wrongdoers, inviting support for the upcoming presidential election.
-
-🟩
-
-"The country cannot go this way. The country needs to be developed. After being powerful, fraud and corruption stops. Punishment for fraudsters. The government is entrusted with the government. People make a happy government. Only the national government force can only be done "Leader of the National Population". Dissanayake addressing a rally held in Tangalle town on the 17th.
-
-The country is in a large crash.. A country that collapsed by the rule. A country that is largely stressed in the lives of farming. The lives of fishermen have been severely affected. Business people have been uncertain. Young people have become a future dream.
-
-...
-
-[Data](articles/a1341e0c.json)
-
-[Extended Data](ext_articles/a1341e0c.ext.json)
 
 ---

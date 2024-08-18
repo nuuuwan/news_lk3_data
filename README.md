@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 06:41:58**
+As of **2024-08-18 07:21:16**
 
 ## Newspaper Stats
 
-*Scraped **41,263** Articles*
+*Scraped **41,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,61 @@ dailymirrorlk | 4,733
 adaderanalk | 4,823
 tamilmirrorlk | 5,296
 virakesarilk | 6,539
-adaderanasinhalalk | 7,031
+adaderanasinhalalk | 7,032
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,262 (100.0%) of 41,263 articles have been extended.
+41,263 (100.0%) of 41,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
+### රුසියාවට භූකම්පනයක්
+
+*2024-08-18 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200049) · `si`
+
+රුසියාවට නැගෙනහිර දෙසින් වන මුහුදු ප්‍රදේශයේ අද (18) අලුයම භූකම්පනයක් සිදුව තිබේ.
+
+රික්ටර් මාපකයේ ඒකක 7 ක ප්‍රභලත්වයකින් යුතුව එම භූ කම්පනය හටගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+මෙම භූ කම්පනයත් සමග අමෙරිකානු ජාතික සුනාමි අනතුරු ඇගවීමේ මධ්‍යස්ථානය මගින් සුනාමි අනතුරු ඇගවීමක් නිකුත් කළද පසුව එය සුනාමි තත්ත්වයක් නොවන බවට දැනුම් දී තිබේ.
+
+පැසිපික් සාගරයේ භූ කම්පන ක්‍රියාකාරී තීරයක මෙම භූ කම්පනය හටගෙන ඇති අතර පළමු භූ කම්පනයෙන් පසුව පසු කම්පන කිහිපයක් ද සිදුව තිබේ.
+
+මෙම මුහුදු ප්‍රදේශයේ සක්‍රීය ගිනි කඳු කිහිපයක් ද පවතින බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/44e634a7.json)
+
+---
+
+### Showers in several areas
 
 *2024-08-18 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200048) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (18) දිනයේ විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect showers or thundershowers across Western, Sabaragamuwa, Northwestern provinces, including Kandy, Nuwara Eliya, Galle, and Matara districts, with heavy rain possible. These conditions may extend to other regions during evenings or nights. The Department of Meteorology advises caution against temporary winds and lightning due to thunderstorms, taking measures to mitigate risks.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in general area Kandy, Nuwara Eliya, Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department states in the Western and Sabaragamuwa provinces and in the Galle and Matara Districts. Heavy rains can occur at more than 75.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාඉල්ලා සිටී.
+Showers or thundershowers will occur at the evening or night in the rest of the island.
+
+From time to time at times of the central hills and in the North, North, North Central and Northwestern provinces.. The Department of Meteorology announces that there are about 30-40 times.
+
+The Department of Meteorology has taken steps to take necessary action to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/cd089d8b.json)
+
+[Extended Data](ext_articles/cd089d8b.ext.json)
 
 ---
 
@@ -2291,27 +2317,5 @@ Moulana has been active in politics since 1988 and was first elected to Parliame
 [Data](articles/0c6dc843.json)
 
 [Extended Data](ext_articles/0c6dc843.ext.json)
-
----
-
-### Marikkar declares Sajith Premadasa the people’s choice
-
-*2024-08-17 00:54:10* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-declares-Sajith-Premadasa-the-people-s-choice/56-765686) · `en`
-
-SJB’s S.M. Marikkar describes Ranil Wickremesinghe, Namal Rajapaksa as part of SL’s aristocratic class and AKD as supporter of class
-
-Says upcoming Presidential Election will be battle of SL’s classes and Premadasa is leader of common man
-
-Accuses Govt. of issuing bar permits and handing out financial incentives to secure support
-
-Samagi Jana Balawegaya (SJB) MP and Media Spokesman S.M. Marikkar has declared that within the next 40 days, SJB leader Sajith Premadasa, the leader of the common people, will be elected President.
-
-Speaking at the inaugural rally launching Premadasa’s election campaign in Kurunegala yesterday, Marikkar asserted that not all 39 candidates running in the election are genuine contenders. He noted that, aside from Premadasa, there are only three other serious candidates.
-
-...
-
-[Data](articles/1c8ce011.json)
-
-[Extended Data](ext_articles/1c8ce011.ext.json)
 
 ---

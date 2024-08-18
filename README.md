@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 13:21:04**
+As of **2024-08-18 13:36:37**
 
 ## Newspaper Stats
 
-*Scraped **41,333** Articles*
+*Scraped **41,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 2,503
 dailyftlk | 2,676
 adalk | 3,796
 dailymirrorlk | 4,733
-adaderanalk | 4,832
+adaderanalk | 4,833
 tamilmirrorlk | 5,318
-virakesarilk | 6,549
-adaderanasinhalalk | 7,043
+virakesarilk | 6,550
+adaderanasinhalalk | 7,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,333 (100.0%) of 41,333 articles have been extended.
+41,333 (100.0%) of 41,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### වැඩිම වර්ෂාපතනය කෑගල්ල ට
+
+*2024-08-18 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200063) · `si`
+
+දිවයින අවට පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාවය හේතුවෙන් ප්‍රදේශ රැසකට තවමත් වැසි ඇදහැලෙමින් පවතී.
+
+ගතවූ පැය 24ක කාලය තුළ වැඩිම වර්ෂාපතනය කෑගල්ල ප්‍රදේශයෙන් වාර්තාවූ අතර එම අගය මිලිමීටර් 148.5කි.
+
+මේ අතර කළු ගඟේ අතුගංඟාවක් වන කුඩා ගඟ මිල්ලකන්ද ප්‍රදේශයෙන් තවදුරටත් ගංවතුර තත්ත්වයක පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+කළු ගඟේ තවත් අතු ගඟක් වන මගුරු ගඟේ ජල මට්ටම ද මගුර ප්‍රදේශයෙන් සුළු ගංවතුර තත්ත්වයක් දක්වා ඉහළ ගොස් ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/f54f300c.json)
+
+---
+
+### Jackson Anthony’s wife and Mangala Samaraweera’s niece join SJB
+
+*2024-08-18 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101323/jackson-anthonys-wife-and-mangala-samaraweeras-niece-join-sjb) · `en`
+
+Kumari Munasinghe, the wife of veteran actor the late Jackson Anthony, has extended her support for Samagi Jana Balawegaya’s presidential candidate Sajith Premadasa in the 2024 presidential election.
+
+Premadasa has also appointed Kumari Munasinghe as the Gampaha District Organiser of the SJB, after she officially joined the party.
+
+Meanwhile, Chanchala Gunawardena, the niece of the late former minister Mangala Samaraweera, has also joined the SJB to back Sajith Premadasa during the forthcoming presidential poll.
+
+SJB leader and presidential candidate Sajith Premadasa has appointed her to the post of Matara District Organiser of the SJB, after she joined the party.
+
+Gunawardena is the first person from Mangala Samaraweera’s family to enter into politics after the passing of the veteran politician.
+
+◼️
+
+[Data](articles/56b2e659.json)
+
+---
+
+### ඉන්දීය වෛද්‍යවරු මිලියනයක් වර්ජනයක
+
+*2024-08-18 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200062) · `si`
+
+ඉන්දීය වෛද්‍යවරියක් රාජකාරිය අතරතුර රෝහල තුළදීම දූෂණය කර ඝාතනය කිරීමේ සිද්ධියක් මුල්කරගෙන ඉන්දීය වෛද්‍යවරු ජාතික වැඩ වර්ජනයක් ක්‍රියාත්මක කර තිබේ.
+
+දූෂණය කිරීමෙන් අනතුරුව ඝාතනයට ලක්වූ ඉන්දීය පුහුණු වෛද්‍යවරියකගේ නිරුවත් මෘතදේහය කොල්කටා හි රෝහලක සම්මන්ත්‍රණ ශාලාවක වැටී තිබියදී හමුවූයේ පසුගිය 9 වැනිදාය.
+
+ඇයගේ සිරුර පුරා අපහරණයට ලක්වූ බව දැක්වෙන තුවාල කැලැල්ද දක්නට ලැබුණේ එය සමූහ දූෂණයක්ද යන සැකය මතුකරමිනි.
+
+31 හැවිරිදි වෛද්‍යවරියක් එලෙස රාජකාරියේ නිරතව සිටියදී දූෂණයට ලක්ව ඝාතනය වීමේ සිද්ධිය ඉන්දියාව කලඹවනු ලැබුවේ පසුගිය සතිය ආරම්භයේ සිට, වෛද්‍යවරුන් ඇතුළු සමස්ත සෞඛ්‍ය ක්ෂේත්‍රයම විරෝධතා ආරම්භ කිරීමත් සමගිනි.
+
+ඝාතනයට ලක්වූ වෛද්‍යවරිය පැය 36ක දීර්ඝ වැඩ මුරයක නිරතව සිට ඇති අතර, මෙවැනි සීමාව ඉක්මවූ වැඩ මුර සහ රෝහල් තුළ කාන්තාවන්ට ඇති අනාරක්ෂිතභාවය සම්බන්ධව එම විරෝධතාවල මාතෘකාව වී තිබුණි.
+
+එය තවත් තීව්‍ර කරමින් ඉන්දීය වෛද්‍යවරුන් මිලියනයක් පමණ දෛනික රාජකාරිවලින් ඉවත්ව ජාතික වැඩ වර්ජනයක ද නිරතවුණි.
+
+ඒ හේතුවෙන් එරට රෝහල් සහ සායනවල හදිසි රෝගීන් සඳහා පමණක් ප්‍රතිකාර ලබාදෙන බව වාර්තා වෙයි.
+
+...
+
+[Data](articles/554390dc.json)
+
+---
+
+### தந்தை செல்வா நினைவுத்தூபியில் அஞ்சலி செலுத்தி பிரச்சார பணியை ஆரம்பிக்கிறார் தமிழ் பொது வேட்பாளர் அரியநேத்திரன்
+
+*2024-08-18 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191356) · `ta`
+
+தமிழ் பொது வேட்பாளர் அரியநேத்திரன் இன்று ஞாயிற்றுக்கிழமை (18) காலை 9 மணியளவில் தந்தை செல்வா நினைவுத்தூபியில் அன்னாரின் உருவச் சிலைக்கு மலர் மாலை அணிவித்து அஞ்சலி செலுத்தினார்.
+
+இதில் தமிழ் தேசிய பசுமை இயக்கத்தின் தலைவர் பொ.ஐங்கரநேசன், சிவில் சமூக பிரதிநிதிகள் கலந்துகொண்டனர்.
+
+முல்லைத்தீவு வற்றாப்பளை செந்தமிழ் விளையாட்டு மைதானத்தில் இன்று ஞாயிற்றுக்கிழமை பிற்பகல் 3 மணிக்கு தமிழ் பொது வேட்பாளர் அறிமுக பொதுக்கூட்டம் இடம்பெறவுள்ளது.
+
+அதனைத் தொடர்ந்து, வடக்கு, கிழக்கில் உள்ள எட்டு மாவட்டங்களிலும் உள்ள ஒவ்வொரு பிரதேச செயலர் பிரிவுகளிலும் இரண்டு கூட்டங்களும் மாவட்டங்களுக்கு ஒரு பெரும் பொதுக்கூட்டமும் பொதுவேட்பாளர் கலந்துகொள்ளும் கூட்டமாக இடம்பெற திட்டமிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f50b611c.json)
+
+---
 
 ### Jackson Anthony's wife joins education
 
@@ -52,27 +132,9 @@ Opposition Leader Sajith Premadasa has been appointed as the Gampaha District Or
 
 ---
 
-### Man found murdered with throat slit in Thalangama
-
-*2024-08-18 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101322/man-found-murdered-with-throat-slit-in-thalangama) · `en`
-
-A person has been found murdered, after having his throat slashed with a sharp weapon at a garage in the Aruppitiya area of Thalangama this morning (Aug 18).
-
-Police said that the place of residence of the victim, identified as a 45-year-old three-wheeler driver, has not yet been revealed.
-
-The motive behind the murder and the identity of the suspects are yet to be uncovered.
-
-◼️
-
-[Data](articles/4709a2cc.json)
-
-[Extended Data](ext_articles/4709a2cc.ext.json)
-
----
-
 ### Husband pouring petrol
 
-*2024-08-18 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/191352) · `ta`
+*2024-08-18 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191352) · `ta`
 
 In Wennappuwa, a man was severely burned and hospitalized after setting his wife ablaze due to marital conflict. The 43-year-old suspect is under arrest, with ongoing police investigations.
 
@@ -89,6 +151,24 @@ The 43 -year -old suspect has been arrested in the incident and the Wennappuwa p
 [Data](articles/10dbc8de.json)
 
 [Extended Data](ext_articles/10dbc8de.ext.json)
+
+---
+
+### Man found murdered with throat slit in Thalangama
+
+*2024-08-18 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101322/man-found-murdered-with-throat-slit-in-thalangama) · `en`
+
+A person has been found murdered, after having his throat slashed with a sharp weapon at a garage in the Aruppitiya area of Thalangama this morning (Aug 18).
+
+Police said that the place of residence of the victim, identified as a 45-year-old three-wheeler driver, has not yet been revealed.
+
+The motive behind the murder and the identity of the suspects are yet to be uncovered.
+
+◼️
+
+[Data](articles/4709a2cc.json)
+
+[Extended Data](ext_articles/4709a2cc.ext.json)
 
 ---
 
@@ -116,6 +196,30 @@ The co -chair of the Grama Niladhari Trade Union Federation added that the trade
 
 ---
 
+### Three police officers arrested for bribery
+
+*2024-08-18 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191354) · `ta`
+
+Three police officers from Pentota were arrested by Koskoda officials on charges of bribery. The arrests followed a complaint made to the Elpitiya Senior Police Officer. They will appear before a magistrate on Sunday.
+
+🟩
+
+Police officers of Pentota police station have been arrested by the Koskoda police station officials on Saturday (17).
+
+The Sub -Inspector of Police, the Police Surgel and the police driver have been arrested in the incident.
+
+The three suspects have been arrested after a bribery man has been sent to the Elpitiya Senior Police Officer and sent to the Elpitiya Senior Police Officer.
+
+Also, the three arrested will be produced before the Magistrate's Magistrate on Sunday (18).
+
+◼️
+
+[Data](articles/40b661b3.json)
+
+[Extended Data](ext_articles/40b661b3.ext.json)
+
+---
+
 ### Murder in Akuregoda
 
 *2024-08-18 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200060) · `si`
@@ -135,30 +239,6 @@ The deceased is a 45 year old three-wheeler driver and has not revealed any othe
 [Data](articles/c438e89b.json)
 
 [Extended Data](ext_articles/c438e89b.ext.json)
-
----
-
-### Three police officers arrested for bribery
-
-*2024-08-18 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191354) · `ta`
-
-Three police officers from Pentota were arrested by Koskoda officials on charges of bribery. The arrests followed a complaint made to the Elpitiya Senior Police Officer. They will appear before a magistrate on Sunday.
-
-🟩
-
-Police officers of Pentota police station have been arrested by the Koskoda police station officials on Saturday (17).
-
-The Sub -Inspector of Police, the Police Surgel and the police driver have been arrested in the incident.
-
-The three suspects have been arrested after a bribery man has been sent to the Elpitiya Senior Police Officer and sent to the Elpitiya Senior Police Officer.
-
-Also, the three arrested will be produced before the Magistrate's Magistrate on Sunday (18).
-
-◼️
-
-[Data](articles/40b661b3.json)
-
-[Extended Data](ext_articles/40b661b3.ext.json)
 
 ---
 
@@ -2215,97 +2295,5 @@ The measures have been taken to adopt this move with a mankipox patient.
 [Data](articles/18eb6018.json)
 
 [Extended Data](ext_articles/18eb6018.ext.json)
-
----
-
-### The Department of Meteorology is a red warning
-
-*2024-08-17 16:45:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களம்-சிவப்பு-எச்சரிக்கை/175-342328) · `ta`
-
-The Department of Meteorology issued a red warning for heavy rainfall across several regions in Sri Lanka, expected to last 24 hours from 1:00 pm today until 1:00 pm tomorrow. It forecasts 150 mm of rainfall in areas including the Western, Sabaragamuwa provinces, and districts like Galle, Matara, Kandy, and Nuwara Eliya. The public is advised to prepare for potential heavy winds and lightning due to thunderstorms. This comes as the southwestern part of the country continues to experience rainfall due to low atmospheric pressure levels.
-
-🟩
-
-The Department of Meteorology has issued a red warning that heavy rainfall will rain for the next 24 hours.
-
-The announcement, which was released today (17) at 1:00 pm, will be valid till 1:00 pm tomorrow (18).
-
-It has been requested that 150 mm of heavy rainfall in the Western, Sabaragamuwa provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
-
-The Department of Meteorology has also called for the public to take steps to reduce the risk of temporary heavy winds and lightning strikes with thunderstorms.
-
-Meanwhile, the Department of Meteorology has said that the current rainfall in the southwestern part of the country is expected to continue due to the underwater level in the lower atmosphere in Sri Lanka.. Remble
-
-◼️
-
-[Data](articles/e8c38072.json)
-
-[Extended Data](ext_articles/e8c38072.ext.json)
-
----
-
-### Sri Lanka CB: Not best time to publish monetary board minutes
-
-*2024-08-17 16:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-not-best-time-to-publish-monetary-board-minutes-177093/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Central Bank may consider publishing the minutes of its monetary policy decision minutes, but it is not the best time to make the discussions on the key policy rate decisions public now, a top official said.
-
-The new central bank act has made the monetary authority to be more transparent and accountable for its decisions.
-
-Many central banks including the United States’ Federal Reserve, India’s Reserve Bank, and Bank of Mexico release the minutes of their monetary policy meeting to ensure transparency.
-
-The new Central Bank Act passed by the Parliament in line with the guidance by the International Monetary Fund (IMF) includes measures for Sri Lanka’s central bank to be more transparent and accountable.
-
-These measures include releasing the Monetary Policy Report every six months and the first such report was released on February 15 and the second report was released this week.
-
-...
-
-[Data](articles/855a8253.json)
-
-[Extended Data](ext_articles/855a8253.ext.json)
-
----
-
-### A Member of the Budget to the Stage of Citation in Akuressa
-
-*2024-08-17 16:36:16* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීවරයෙක්-අකුරැස්සේදී-සජබ-වේදිකාවට/11-411416) · `si`
-
-In Akuressa, an opposition candidate opposes the presidential election of the reconciliation Cabinet, supporting President Mahinda Rajapaksa's winter.
-
-🟩
-
-Opposition candidate Opposition candidate opposition to the presidential election of the reconciliation Cabinet in Akuressa, which is informed in Akuressa, has been supporting the winter of President Mahinda Rajapaksa.
-
-◼️
-
-[Data](articles/1319e69e.json)
-
-[Extended Data](ext_articles/1319e69e.ext.json)
-
----
-
-### Heavy rainfall in Ratnapura in the last 24 hours!
-
-*2024-08-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191320) · `ta`
-
-Ratnapura experienced heavy rainfall, with Ehaliyagoda receiving 233mm in 24 hours. A flood warning is issued for areas near the Kuda and Mauru rivers due to rising water levels. The warning remains effective for the next 48 hours. Additionally, a landslide warning has been issued for several Divisional Secretariats across five districts. The Department of Meteorology predicts increased rainfall in the southwestern region of Sri Lanka due to atmospheric conditions.
-
-🟩
-
-Rainfall in Ehaliyagoda in Ratnapura district has been hit by 233 millimeters of rain in 24 hours, which ended at 8.30 am today.
-
-Flood warning has been issued to residents of the Kuda and Mauru rivers under the Pulathsingha, Mathuravalai and Balindanu Divisional Secretariat Divisions.
-
-The warning will be in effect for the next 48 hours, the Irrigation Department said.
-
-In this case, the National Building Research Institute has issued a landslide warning to several Divisional Secretariats in five districts.
-
-The Department of Meteorology has said that the rainy weather in the southwestern region of the country will increase due to the lack of atmosphere over the atmosphere above Sri Lanka.
-
-◼️
-
-[Data](articles/b6d3786b.json)
-
-[Extended Data](ext_articles/b6d3786b.ext.json)
 
 ---

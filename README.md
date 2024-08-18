@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 11:36:42**
+As of **2024-08-18 11:56:20**
 
 ## Newspaper Stats
 
-*Scraped **41,307** Articles*
+*Scraped **41,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,42 +13,86 @@ newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 394
 islandlk | 2,392
-economynextcom | 2,502
+economynextcom | 2,503
 dailyftlk | 2,676
 adalk | 3,794
 dailymirrorlk | 4,733
 adaderanalk | 4,828
-tamilmirrorlk | 5,314
+tamilmirrorlk | 5,315
 virakesarilk | 6,539
-adaderanasinhalalk | 7,038
+adaderanasinhalalk | 7,040
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,301 (100.0%) of 41,307 articles have been extended.
+41,307 (100.0%) of 41,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### දකුණු අප්‍රිකාවට ජය
+### තායිලන්ත අගමැතිනියට රජුගේ අනුමැතිය
+
+*2024-08-18 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200058) · `si`
+
+තායිලන්ත අගමැති ධුරය සඳහා එරට පාර්ලිමේන්තුව මගින් මීට දින දෙකකට පෙර තෝරා පත්කර ගත් පේටොන්ග්ටාන් ශිනවත් සඳහා තායිලන්ත රජතුමා ගේ අනුමැතිය ලැබී තිබේ.
+
+ඒ අනුව එරට ළාබාලතම අගමැති ලෙස ඇය වාර්තාගත වෙයි. 37 හැවිරිදි වියේ පසුවන පේටොන්ග්ටාන්, තායිලන්තයේ හිටපු අගමැතිවරයෙක් වන තක්සින් ශිනවත් ගේ දියණිය කි.
+
+ඇය එම ධුරය සඳහා තෝරාගනු ලැබුවේ එරට අගමැති ලෙස කටයුතු කළ ශ්‍රේතා තවිසින් ව ව්‍යවස්ථාදායක අධිකරණය මගින් බලයෙන් පහ කිරීම හේතුවෙනි.
+
+ඉදිරි දින කිහිපයේදී ඇය සිය අමාත්‍ය මණ්ඩලය පත් කිරීමට නියමිතය. තම පියාට රජයේ වගකීමක් දීමට අදහස් නොකරන බව පැවසූ පේටොන්ග්ටාන් පෙන්වා දුන්නේ තමා සිය පියාගේ උපදෙස් බලාපොරොත්තු වන බවයි.
+
+◼️
+
+[Data](articles/de680c76.json)
+
+---
+
+### ශ්‍රී ලංකා කනිෂ්ඨ මලල ක්‍රීඩා කණ්ඩායම අර්බුදයක
+
+*2024-08-18 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200057) · `si`
+
+පේරු රාජ්‍යයේ පැවැත්වෙන ලෝක ශූරතා කනිෂ්ඨ මලල ක්‍රීඩා ශූරතා තරගාවලියට මෙවර ශ්‍රී ලංකාවෙන් ක්‍රීඩක ක්‍රීඩිකාවන් 13 දෙනෙකු සුදුසුකම් ලබා සිටියද ඔවුන්ගේ සහභාගිත්වය අවිනිශ්චිත වී තිබේ.
+
+ඒ ගුවන් ටිකට් පත් ඇතුළු ඊට අවශ්‍ය ප්‍රතිපාදන ලබාදීමට ක්‍රීඩා අමාත්‍යංශ බලධාරීන් ප්‍රතික්ෂේප කර තිබීම හේතුවෙනි.
+
+යොවුන් මලල ක්‍රීඩක ක්‍රීඩිකාවන්ට සිය දක්ෂතා දැක්වීමට අවස්ථාව ලැබෙන ප්‍රධානතම තරගාවලිය වන ලෝක ශූරතා කනිෂ්ඨ මලල ක්‍රීඩා ශූරතා තරගාවලිය මෙවර පැවැත්වීමට නියමිතව තිබෙන්නේ ලතින් අමෙරිකානු රටක් වන පේරු හි ලීමා අගනුවරදීය.
+
+අගෝස්තු 27 සිට 31දක්වා පැවැත්වෙන තරගාවලිය නියෝජනය කිරීමට ශ්‍රී ලාංකික ක්‍රීඩක ක්‍රීඩිකාවන් 13ක් සුදුසුකම් ලබා තිබුණි.
+
+නොයෙක් දුෂ්කරතා මැද අදාළ පරිසාධන මට්ටම් පසු කරමින් ඊට සුදුසුකම් ලැබූ එම ක්‍රීඩක ක්‍රීඩිකාවන් 13 දෙනාට අවශ්‍ය වීසා ශ්‍රී ලංකා මලල ක්‍රීඩා සංගමය විසින් ඉන්දියාව වෙත ගොස් ලබා ගෙන තිබුණේ කෙසේ හෝ මෙරට අනාගත මලල ක්‍රීඩාව භාර ගැනීමට සැරසෙන මෙම යොවුන් ක්‍රීඩක ක්‍රීඩිකාවන් එම තරගාවලියට සහභාගි කරවීමේ ඒකායන අරමුණ ඇතිවය.
+
+...
+
+[Data](articles/c1c62f39.json)
+
+---
+
+### South Africa wins
 
 *2024-08-18 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200056) · `si`
 
-බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමග පැවති දෙවන ටෙස්ට් ක්‍රිකට් තරගයෙන් ලකුණු 40ක ජයක් හිමිකර ගැනීමට සංචාරක දකුණු අප්‍රිකානු කණ්ඩායම සමත්ව තිබේ.
+In the second Test cricket match against the West Indies, South Africa emerged victorious by 40 runs. Despite scoring 160 runs in their first innings, South Africa outperformed the West Indies' 144 runs. The West Indies fell short in their chase, managing only 222 runs in their second innings compared to South Africa's 246 runs, securing South Africa's victory in the series.
 
-මෙම තරගයේ පළමු ඉනිම වෙනුවෙන් දකුණු අප්‍රිකානු කණ්ඩායම සියලු දෙනා දැවී ලකුණු 160ක් රැස්කළ අතර බටහිර ඉන්දීය කොදෙව් කණ්ඩායම පළමු ඉනිම සඳහා සියලු දෙනා දැවී රැස් කළ ලකුණු සංඛ්‍යාව 144කි.
+🟩
 
-දෙවන ඉනිම සදහා දකුණු අප්‍රිකානු කණ්ඩායම ලකුණු 246ක් ලබා ගැනීමත් සමග තරගය ජයග්‍රහණය කිරීම සදහා බටහිර ඉන්දීය කොදෙව් කණ්ඩායමට ලකුණු 263ක ඉලක්කයක් හිමි විය.
+South African team has won the second Test cricket match with the West Indies by 40 runs.
 
-කෙසේ වෙතත් කොදෙව් ක්‍රීඩකයින්ට දෙවන ඉනිමේ දී සියලු දෙනා දැවී රැස්කර ගැනීමට හැකිවුයේ ලකුණු 222ක් පමණි.
+South Africa scored 160 runs for the loss of the first innings while West Indies were scored to 144 runs for the first innings.
 
-ඒ අනුව තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලිය එකට බිංදුවක් ලෙස ජය හිමිකර ගැනීමට දකුණු අප්‍රිකානු කණ්ඩායම සමත් විය.
+West Indies scored 263 runs in order to win the match with 246 runs for the second innings.
+
+However, West Indies were able to score only 222 runs in the second innings.
+
+South Africa won the winning Test series together as a zero.
 
 ◼️
 
 [Data](articles/b9420b70.json)
+
+[Extended Data](ext_articles/b9420b70.ext.json)
 
 ---
 
@@ -140,19 +184,27 @@ He will meet government officials and shareholders in Sri Lanka from August 19 t
 
 ---
 
-### து​ரோகிகளுக்கு பாடம் புகட்டுவோம்
+### Let's teach the rogis a lesson
 
 *2024-08-18 10:16:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/து-ரோகிகளுக்கு-பாடம்-புகட்டுவோம்/175-342365) · `ta`
 
-கண்டி மாவட்ட தமிழ் முற்போக்கு கூட்டணியின் வாக்குகளை எதிர்வரும் தேர்தலில் ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவிற்கு பெருவாரியாக பெற்றுக்கொடுப்போம் என்று தொழிலாளர் தேசிய சங்கத்தின் தலைவரும்,  தமிழ் முற்போக்கு கூட்டணியின் பிரதி தலைவரும்இ நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான பழனி திகாம்பரம் தெரிவித்தார்.
+Palani Thikambaram, leader of the Tamil Progressive Alliance, announced support for Sajith Premadasa in the upcoming presidential election, vowing to teach a lesson to those who betrayed them through their votes. He emphasized the importance of continued political engagement and readiness for development projects in the Kandy district.
 
-நாவலப்பிட்டி தேர்தல் தொகுதியை சேர்ந்த தமிழ் முற்போக்கு கூட்டணியின் பிரதான அமைப்பாளர்களை கினிகத்தேனையில் சனிக்கிழமை (17) சந்தித்து கலந்துரையாடிய போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-அவர் மேலும் தெரிவிக்கையில்: தமிழ் முற்போக்கு கூட்டணிக்கு யார் துரோகம் செய்தாலும் அதனை மக்கள் ஒருபோதும் ஏற்றுக்கொள்ள மாட்டார்கள். வருகின்ற தேர்தல்களில் துரோகம் செய்தவர்களுக்கு மக்கள் தகுந்த பாடத்தை காட்டுவார்கள். அத்தோடு, கண்டி மாவட்டத்தில் இருக்கின்ற எமது தமிழ் முற்போக்கு கூட்டணியின் வாக்காளர்கள் எந்தவகையிலும் தமது மனதிடத்தை இழக்காமல் தொடர்ந்தும் அரசியல் தொழிற்சங்க செயற்பாடுகளில் ஈடுபட வேண்டும்.
+Palani Thikambaram, president of the Tamil Progressive Alliance, Nuwara Eliya District Member of Parliament, said that the votes of the Tamil Progressive Alliance of Kandy District will be given to the presidential candidate of the United People's Alliance Sajith Premadasa in the upcoming election.
+
+He was speaking at the meeting of the main organizers of the Tamil Progressive Alliance from the Nawalapitiya electorate on Saturday (17).
+
+He added: People will never accept the betrayal of the Tamil Progressive Alliance. People will show the appropriate lesson for those who betrayed in the coming elections. In addition, voters of our Tamil Progressive Alliance in the Kandy district must continue to engage in political trade union activities without losing their minds.
+
+The leaders of the Tamil Progressive Alliance, including myself, will be committed. United People's Power President Sajith Premadasa is sure to win the upcoming presidential election.
 
 ...
 
 [Data](articles/ca63d52d.json)
+
+[Extended Data](ext_articles/ca63d52d.ext.json)
 
 ---
 
@@ -224,19 +276,25 @@ But the Kamchatka branch of Russia’s emergency ministry reported that there wa
 
 ---
 
-### ”மங்கள குடும்பம் எனக்கு ஆதரவு”
+### "Mangala family support me"
 
 *2024-08-18 10:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மங்கள-குடும்பம்-எனக்கு-ஆதரவு/175-342363) · `ta`
 
-மறைந்த அமைச்சர் மங்கள சமரவீரவின் குடும்ப உறுப்பினர்கள் அனைவரும் தனக்கு மீண்டும் ஆதரவளிக்க தீர்மானித்துள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Sajith Premadasa announced at a rally that the Mangala Samaraweera family will support him again. He also mentioned the appointment of Sanjala Samaraweera Gunawardena as the Matara district head and pledged to boost the cinnamon industry in South Sri Lanka.
 
-“மறைந்த சமரவீரவின் குடும்பத்தவரான சஞ்சலா சமரவீர குணவர்தன ஏற்கனவே மாத்தறை மாவட்டத்தின் சமகி வனிதா பலவேகய மாவட்டத் தலைவராக நியமிக்கப்பட்டுள்ளார்” என அக்குரஸ்ஸவில் நேற்று (17) நடைபெற்ற தனது பேரணியில் பிரேமதாச அறிவித்தார்.
+🟩
 
-தென்னிலங்கையில் கறுவாத் தொழிலை அபிவிருத்தி செய்வதாகவும் குறித்த பேரணியின் போது அவர் உறுதியளித்தார்.
+Opposition leader Sajith Premadasa has said that all members of the late Minister Mangala Samaraweera have decided to re -support him.
+
+"The family of late Samaraweera's family, Sanjala Samaraweera Gunawardena has already been appointed as the head of the Matara district," said Premadasa at his rally held at Akuranza yesterday.
+
+During the rally, he promised to develop the cinnamon industry in South Sri Lanka.
 
 ◼️
 
 [Data](articles/1c9c03a5.json)
+
+[Extended Data](ext_articles/1c9c03a5.ext.json)
 
 ---
 
@@ -282,23 +340,29 @@ The Irish Women's Group won the first ODI between the two countries and today th
 
 ---
 
-### இடியுடன் கூடிய மழை பெய்யும்
+### Thunderstorm
 
 *2024-08-18 09:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-342362) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று (18) மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Today, expect thundershowers in Kandy, Nuwara Eliya, Galle, and Matara, with heavy rains possible in the Western, Sabaragamuwa Provinces, and Galle/Matara districts. Strong winds up to 30-40 km/h may hit the northern and northwestern regions. The Department of Meteorology advises caution against heavy winds and lightning during storms.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில பகுதிகளில் 75 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும்.
+🟩
 
-மாலை அல்லது இரவு வேளையில் நாட்டின் ஏனைய பகுதிகளில் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Thundershowers or thundershowers will occur today (18) in the Kandy, Nuwara Eliya, Galle and Matara districts, the Department of Meteorology.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் இடைக்கிடையில் 30-40 கிலோ மீற்றர் வேகத்தில் ஓரளவு பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+Heavy rains are likely to experience 75 millimeters in some areas in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், மக்களை கோரியுள்ளது. R
+In the evening or night, the rest of the country can occur widely or thunderstorms.
+
+The Department of Meteorology has announced that strong winds are likely to blow at speeds of up to 30-40 km / h in the northern, northern and northwestern provinces and northern and northwestern provinces.
+
+The Department of Meteorology has called for the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/b9f28a94.json)
+
+[Extended Data](ext_articles/b9f28a94.ext.json)
 
 ---
 
@@ -393,6 +457,24 @@ P. Susila has been admitted to Cauvery Hospital in Alwarpet, Chennai due to ill 
 [Data](articles/a8d901ad.json)
 
 [Extended Data](ext_articles/a8d901ad.ext.json)
+
+---
+
+### முன்னாள் பிரதமருக்கு  பொது மன்னிப்பு
+
+*2024-08-18 09:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-பிரதமருக்கு-பொது-மன்னிப்பு/50-342358) · `ta`
+
+தாய்லாந்தின் மன்னர் மகா வஜிரலோங்கோர்னின் பிறந்தநாள் கொண்டாட்டத்தின் ஒரு பகுதியாக, சிறை தண்டனை அனுபவித்து வரும் முன்னாள் பிரதமர் தக்சின் ஷினவத்ராவுக்கு பொது மன்னிப்பு வழங்கப்பட்டுள்ளது.
+
+தென் கிழக்கு ஆசிய நாடான தாய்லாந்தின் பிரதமராக, 2001 முதல் 2006 வரை பதவி வகித்தவர் தக்சின் ஷினவத்ரா. தொலைதொடர்புத்துறை நிறுவன உரிமையாளர்; பெரும் செல்வந்தர்.
+
+இவரது பதவிக்காலத்தில், ஊழல் செய்ததாகவும், அதிகார துஷ்பிரயோகம் செய்ததாகவும் குற்றச்சாட்டு எழுந்து போராட்டங்கள் நடத்தப்பட்டன. இந்நிலையில், இராணுவப்புரட்சி நடந்து, தக்சின் ஆட்சி கவிழ்க்கப்பட்டது.
+
+அவரது கட்சி தடை செய்யப்பட்டு, தக்சின் அரசியலில் ஈடுபடவும் அந்நாட்டு அரசு தடை விதித்த நிலையில், கைது அச்சத்தில், வெளிநாட்டுக்கு தப்பியோடிய அவர், கம்போடியா உள்ளிட்ட நாடுகளில் 15 ஆண்டுகள் தங்கியிருந்தார்.
+
+...
+
+[Data](articles/2e9ad61c.json)
 
 ---
 
@@ -547,6 +629,24 @@ She has paid the allowance approved by the Ministry as the cottage assistant's p
 [Data](articles/885b3b1e.json)
 
 [Extended Data](ext_articles/885b3b1e.ext.json)
+
+---
+
+### Sri Lanka diplomat’s domestic worker in Australia paid approved salary: Ministry
+
+*2024-08-18 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-diplomats-domestic-worker-in-australia-paid-approved-salary-ministry-177126/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Foreign Ministry said the approved salary agreed with the domestic worker of the former Deputy High Commissioner of Canberra was paid to her, after an Australian court ruled that she was underpaid according to law.
+
+“The Ministry of Foreign Affairs wishes to state that it is the standard practice that diplomats are facilitated by the Ministry of Foreign Affairs to take domestic assistants to assist their official representational duties,” the statement said.
+
+“The domestic assistant in question served a full three-year term, and on the eve of the employer’s originally intended departure from Australia, absconded the residence of the employer.
+
+“The allowance approved by the Ministry as the salary of the employee has been paid to her. The Ministry is satisfied that the said salary was paid to the domestic assistant by the employer as mutually agreed.”
+
+...
+
+[Data](articles/7c341672.json)
 
 ---
 
@@ -734,19 +834,25 @@ As the driver of the sky has been arrested, the traffic police are conducting fu
 
 ---
 
-### வன்முறையாளர் மூவர் கைது
+### Violent trio arrested
 
 *2024-08-18 02:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறையாளர்-மூவர்-கைது/175-342356) · `ta`
 
-யாழ்ப்பாணம், வடமராட்சி, வல்வெட்டித்துறையில் பொலிஸ் நிலையத்துக்கு அருகில் உள்ள வீடொன்றுக்குள் நுழைந்து வன்முறையில் ஈடுபட்ட சம்பவம் தொடர்பாக மூன்று பேர் கைது செய்யப்பட்டனர்.
+In Jaffna, three individuals were arrested for violent incidents, with weapons and motorcycles recovered. Two from Konda, aged 19 and 23, are among them.
 
-சந்தேகநபர்களிடமிருந்து ஜந்து வாள்கள் கைப்பற்றப்பட்டுள்ளதுடன் வன்முறைக்குப் பயன்படுத்தப்பட்ட இரண்டு மோட்டார் சைக்கிள்களையும் மீட்கப் பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+🟩
 
-சம்பவம் தொடர்பாக 19 மற்றும் 23 வயதான கோண்டாவில் பகுதியைச் சேர்ந்த 2 பேரும், அச்சுவேலியைச் சேர்ந்த ஒருவரும் கைது செய்யப்பட்டுள்ளனர். (a)
+Three persons have been arrested in connection with the incident of violence in Jaffna, Vadamarachchi and Valvettithurai.
+
+Jandu swords have been seized from the suspects and the police have taken steps to recover two motorcycles used for violence.
+
+Two persons from Konda, 19 and 23, have been arrested in connection with the incident.. (A)
 
 ◼️
 
 [Data](articles/359130a5.json)
+
+[Extended Data](ext_articles/359130a5.ext.json)
 
 ---
 
@@ -852,17 +958,23 @@ The website has been developed by six election monitoring organizations, includi
 
 ---
 
-### பிரசார செலவுகளை கண்காணிக்க இணையம்
+### Internet to monitor propaganda costs
 
 *2024-08-18 01:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசார-செலவுகளை-கண்காணிக்க-இணையம்/175-342354) · `ta`
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களின் பிரசார செலவுகளைக் கண்காணிக்கும் வகையில் இணையத்தளம் ஒன்று உருவாக்கப்பட்டுள்ளது.
+A website launched by six groups monitors propaganda spending by presidential election candidates, including Transparency International Sri Lanka and February.
 
-இந்த இணையத்தளம் ட்ரான்ஸ்பரன்சி இன்டர்நேஷனல் ஸ்ரீலங்கா நிறுவனம், மற்றும் பெப்ரல் அமைப்பு உள்ளிட்ட ஆறு தேர்தல் கண்காணிப்பு அமைப்புகளினால் உருவாக்கப்பட்டுள்ளது. (a)
+🟩
+
+A website has been created to monitor the propaganda expenses of candidates contesting the presidential election.
+
+The website has been developed by six election monitoring organizations, including Transparency International Sri Lanka Company and February.. (A)
 
 ◼️
 
 [Data](articles/cb4510a9.json)
+
+[Extended Data](ext_articles/cb4510a9.ext.json)
 
 ---
 
@@ -2127,91 +2239,5 @@ Surgerage power, presidential power, said the presidential candidate entreprenem
 [Data](articles/aea7fcbd.json)
 
 [Extended Data](ext_articles/aea7fcbd.ext.json)
-
----
-
-### Blessed
-
-*2024-08-17 13:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசி-பெற்றார்-அநுர-குமார-திசாநாயக்க/175-342321) · `ta`
-
-Presidential candidate Anura Kumara Dissanayaka met religious leaders including the President of Kandy Asgiriya Maha Viharaya and discussed the country's political situation, receiving their blessings for his presidential bid.
-
-🟩
-
-The Presidential candidate of the National People's Power Anura Kumara Dissanayaka yesterday (16), the President of the Kandy Asgiriya Maha Viharaya, Maha Nikaya Asgiriya Faculty, Maha Nayaka Varakkoda Sri Gnanarathana Thera and Deputy Registrar of Asgiri Maha Vikarai, Ananda Maha Nayaka Thera.
-
-Anura Kumara Dissanayake, who discussed the political situation in the country today with the Maha Sangha, has received their goodness to win the upcoming President.
-
-At this time, Lal Magnetic Assembly of the National People's Power. Remble
-
-◼️
-
-[Data](articles/37bb6121.json)
-
-[Extended Data](ext_articles/37bb6121.ext.json)
-
----
-
-### Blessed on the High Faculty Anura Kumara Dissanayake
-
-*2024-08-17 13:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-பீடத்தில்-ஆசி-பெற்றார்-அநுர-குமார-திசாநாயக்க/175-342321) · `ta`
-
-Anura Kumara Dissanayake, a presidential candidate from the National People's Power party, has been endorsed by the Maha Sangha due to his discussions on the country's political situation. He previously served as the Deputy Registrar of the Asgiri Maha Vihara and the Maha Nikaya Asgiriya Asgiriya Peetham. His endorsement comes ahead of the upcoming presidential election.
-
-🟩
-
-The Presidential Candidate of the National People's Power, Anura Kumara Nayaka, who was the Deputy Registrar of the Asgiri Maha Vihara, the Deputy Registrar of the Asgiri Peetha, the Maha Nikaya Asgiriya Asgiriya Peetham of the Asgiriya Maha Viharaya of Kandy.
-
-Anura Kumara Dissanayake, who discussed the political situation in the country today with the Maha Sangha, has received their goodness to win the upcoming President.
-
-At this time, Lal Magnetic Assembly of the National People's Power. Remble
-
-◼️
-
-[Data](articles/c258a928.json)
-
-[Extended Data](ext_articles/c258a928.ext.json)
-
----
-
-### Voters shouldn’t be reduced to mere consumers during polls – Elections Chief
-
-*2024-08-17 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101303/voters-shouldnt-be-reduced-to-mere-consumers-during-polls-elections-chief) · `en`
-
-The Commissioner General of Elections, Saman Sri Ratnayake emphasized the need for stringent regulation of election finances, warning against the commercialization of the democratic process.
-
-Speaking at a conference held in Colombo yesterday (17), Mr. Ratnayake asserted that the choice of the country’s leadership should not be influenced by financial transactions.
-
-He highlighted the importance of ensuring that voters remain participants in the democratic process rather than being reduced to mere consumers during elections.
-
-Furthermore, the Elections Commissioner General expressed concerns that the expected outcomes from the laws regulating election expenses have not been fully met in a way that the Election Commission expected.
-
-“You can’t hold an election without money, but you also can’t use money to turn voters into customers,” Mr. Ratnayake stated.
-
-...
-
-[Data](articles/8995cf50.json)
-
-[Extended Data](ext_articles/8995cf50.ext.json)
-
----
-
-### Sajith sets the second step
-
-*2024-08-17 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200026) · `si`
-
-Sajith Premadasa, the Opposition Leader of the UPFA, launched his second presidential campaign rally today in Bandaragama.
-
-🟩
-
-The rally, the candidate Sajith Premadasa, the candidate Sajith Premadasa, was launched this morning in Bandaragama this morning.
-
-This is the second rally organized by the Presidential Leadership Leader Sajith Premadasa, Opposition Leader of the UPFA.
-
-◼️
-
-[Data](articles/14be3b75.json)
-
-[Extended Data](ext_articles/14be3b75.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 20:55:10**
+As of **2024-08-18 21:06:18**
 
 ## Newspaper Stats
 
-*Scraped **41,381** Articles*
+*Scraped **41,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 3,806
 dailymirrorlk | 4,733
 adaderanalk | 4,840
 tamilmirrorlk | 5,327
-virakesarilk | 6,553
+virakesarilk | 6,560
 adaderanasinhalalk | 7,060
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,379 (100.0%) of 41,381 articles have been extended.
+41,381 (100.0%) of 41,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
+
+### ரணில் நாட்டை வீழ்ச்சியடையச்செய்த மொட்டு கட்சிக் காரர்களுடன் இணைந்து நாட்டை கட்டியெழுப்ப முயற்சிக்கிறார் - முஜிபுர் ரஹ்மான்
+
+*2024-08-18 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191389) · `ta`
+
+நாட்டை வீழ்ச்சியடையச்செய்த மொட்டு கட்சிக் காரர்களுடன் இணைந்து தேர்தலில் வெற்றிபெற முடியும் என்றே ரணில் விக்ரமசிங்க நினைத்தார். ஆனால் தற்போது நாமல் ராஜபக்ஷ் மொட்டு கட்சியில் போட்டியிடுவதால், அவருக்கு வெற்றிபெறுவது நம்பிக்கை இல்லாமல் போயுள்ளது. அதனால் ஐக்கிய மக்கள் சக்தியை பிளவுபடுத்த முயற்சிக்கிறார். ரணில் விக்ரமசிங்க இத்துப்போன காஸ் சிலிண்டர். அதில் காஸ் நிரப்ப முற்பட்டால்  வெடித்து சிதறிவிடும் என ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+
+ருவன்வெல்ல பிரதேசத்தில் ஞாயிற்றுக்கிழமை (18) இடம்பெற்ற தேர்தல் பிரசாரக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் தற்போது தற்பாேது கட்சியின் யானை சின்னம் இல்லை. காஸ் டாங்கியே இருக்கிறது.அந்த காஸ் டாங்கி இத்துப்போனதாகும். அதனால் அதில் ஒரு மாதத்துக்கு மேல் காஸ் நிரப்ப முடியாது. அதில் காஸ் நிரப்ப முற்பட்டால் அது வெடித்து சிதறிவிடும்.
+
+...
+
+[Data](articles/468abfdc.json)
+
+---
+
+### இஞ்சியின் விலை வேகமாக வீழ்ச்சி!
+
+*2024-08-18 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191390) · `ta`
+
+இஞ்சி இறக்குமதி செய்ய எடுக்கப்பட்ட தீர்மானத்தினால், உள்ளூர் சந்தையில் இஞ்சியின் விலை வேகமாக வீழ்ச்சியடைந்துள்ளதால், தாம் கடும் பொருளாதார நெருக்கடிக்கு உள்ளாகியுள்ளதாக இஞ்சி விவசாயிகள் குற்றம் சுமத்தியுள்ளனர்.
+
+கடந்த காலத்தில் சந்தையில் 3000 ரூபாவாக உயர்ந்து காணப்பட்ட ஒரு கிலோகிராம் இஞ்சி தற்போது 1000 ரூபாவிற்கு விற்பனை செய்யப்படுகிறது.
+
+எவ்வாறாயினும், விலையை கட்டுப்படுத்தும் வகையில் 3000 மெற்றிக் தொன் இஞ்சியை இறக்குமதி செய்வதற்கு அமைச்சரவை அண்மையில் அனுமதி வழங்கியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5d4aaae8.json)
+
+---
 
 ### Executive President's post is abolished - Sajith
 
@@ -54,17 +86,43 @@ He was speaking at a reliance in Ruwanwella today (18).
 
 ---
 
-### ஆண்டகையுடன் சஜித் சந்திப்பு
+### 20 வயதுக்குட்பட்ட சாவ் சம்பியன்ஷிப்: நேபாளத்திடம் தோல்வி அடைந்தது இலங்கை
+
+*2024-08-18 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191388) · `ta`
+
+கத்மண்டு தசரத் ரங்கசாலா விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (18) பிற்பகல் நடைபெற்ற 20 வயதுக்குட்பட்ட தெற்காசிய கால்பந்தாட்ட சம்மேளன சம்பியன்ஷிப் போட்டியில் இலங்கையை 1 - 0 என்ற கோல் வித்தியாசத்தில் நேபாளம் வெற்றிகொண்டது.
+
+போட்டியின் பெரும் பகுதியில் பந்தை தன்னகத்தே வைத்து பரிமாற்றத்தில் ஈடுபட்ட நேபாளம் போட்டியின் 23ஆவது நிமிடத்தில் போட்ட கோல் அதன் வெற்றி கோலாக அமைந்தது.
+
+இலங்கையின் பெனல்டி எல்லைக்குள் இருந்து நேபாள முன்கள வீரர் நிராஜன் தாமி வலது காலால் ஓங்கி உதைத்த பந்தை கோல் காப்பாளர் அஹமத் ஷரீப் தடுக்க முயற்சித்த போதிலும் அது கைகூடாமல் போனது.
+
+ஒரு சில சந்தர்ப்பங்களில் நேபாளத்தின் கோல் எல்லையின் பக்கவாட்டில் இலங்கை வீரர்கள் பந்தை நகர்த்திச் சென்ற போதிலும் முன்கள வீரர்களின் முயற்சிகள் பலனளிக்கவில்லை.
+
+மேலும், போட்டியின் இரண்டாவது பகுதியில் இலங்கை வீரர்கள் அடிக்கடி உபாதைக்குள்ளானது திருப்தி தருவதாக அமையவில்லை. இலங்கை வீரர்கள் அடிக்கடி தசைப்பிடிப்பால் துடிப்தை அவதானிக்க முடிந்தது.
+
+...
+
+[Data](articles/bc2c6963.json)
+
+---
+
+### Sajith meets with the year
 
 *2024-08-18 19:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்டகையுடன்-சஜித்-சந்திப்பு/175-342395) · `ta`
 
-பேரருட் திரு மல்கம் கர்தினால் ரஞ்சித் ஆண்டகை, அருட்திரு மெக்ஸ்வெல் சில்வா, அருட்திரு ஜே.டி. அந்தனி ஜயகொடி, அருட்திரு அன்டன் ரஞ்சித், அருட்திரு சிறில் காமினி மற்றும் அருட்திரு இந்திக ஜோய் ஆகியோரை எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச சந்தித்து ஆசிகளை பெற்றுக்கொண்டார்.
+Opposition Leader Sajith Premadasa, the presidential candidate, met with several individuals including Anthony Jayakody, Aruttiru Anton Ranjith, Aruttiru Cheril Gamini, and Aruttiru Indika Joy. The meeting was seen as a blessing for his victory in the upcoming presidential election.
 
-எதிர்வரும் ஜனாதிபதி தேர்தலை முன்னிட்டு ஜனாதிபதி வேட்பாளராக களமிறங்கும் சஜித் பிரேமதாச தனது வெற்றியின் பொருட்டு ஆசிகளை பெற்றுக்கொண்டுள்ளமை குறிப்பிடத்தக்கது. R
+🟩
+
+Mr. Malcolm Cardinal Ranjith Annagai, Aruttiru Maxwell Silva,. Opposition Leader Sajith Premadasa met with Anthony Jayakody, Aruttiru Anton Ranjith, Aruttiru Cheril Gamini and Aruttiru Indika Joy.
+
+Sajith Premadasa, who is the presidential candidate for the upcoming presidential election, has been blessed for his victory.. Remble
 
 ◼️
 
 [Data](articles/df0da868.json)
+
+[Extended Data](ext_articles/df0da868.ext.json)
 
 ---
 
@@ -136,6 +194,18 @@ The victim has been identified as a resident of the Thalawathugoda area, accordi
 
 ---
 
+### இம்முறையைப் போல் பேரம் பேசுவதற்கான அரிய சந்தர்ப்பம் தமிழர்களுக்கு வாய்க்காது; சரியாக பயன்படுத்தி அரசியல் தீர்வுக்கான உத்தரவாதத்தை  சகல வேட்பாளர்களிடமும் பெறவேண்டும் - சுமந்திரன்
+
+*2024-08-18 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191383) · `ta`
+
+இம்முறை ஜனாதிபதித் தேர்தலில் தமிழ் பொதுவேட்பாளரைக் களமிறக்குவது அநாவசியமானது மாத்திரமல்ல, இது தமிழ் மக்களுக்கு மிகப் பாதகமான விளைவை ஏற்படுத்தும் என்பதையும் நான் தொடர்ச்சியாகக் கூறிவருகின்றேன். தற்போதைய களநிலைவரத்தை ஒத்த சூழ்நிலையில்தான் நாம் எமது மக்களின் வாக்குப்பலத்தைப் பிரயோகித்து, அடையப்படவேண்டிய விடயங்களை அடைந்துகொள்ளவேண்டும். ஆயுதம் இல்லாத தற்போதைய சூழ்நிலையில் வாக்குப்பலம் தான் எம்முடைய ஆயுதம். அதனைத் தகுந்த சமயத்தில் பயன்படுத்தாமல், எங்கேயோ கொண்டுசென்று ஒழித்துவைப்பதை ஒத்ததாகவே தமிழ் பொதுவேட்பாளரைக் களமிறக்கும் செயற்பாடு இருக்கின்றது. இதனைவிட முட்டாள்தனமான செயற்பாடு வேறு எதுவுமில்லை.
+
+◼️
+
+[Data](articles/d6f06f00.json)
+
+---
+
 ### Sri Lanka target 256 runs
 
 *2024-08-18 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200077) · `si`
@@ -153,6 +223,18 @@ Accordingly, the Sri Lankan team should win the match for further staying in the
 [Data](articles/bdc8a7ba.json)
 
 [Extended Data](ext_articles/bdc8a7ba.ext.json)
+
+---
+
+### பொது வேட்பாளரும் மலையக வேட்பாளரும்
+
+*2024-08-18 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191382) · `ta`
+
+பிர­தான வேட்­பா­ளர்­க­ளாக ரணில், சஜித், அநுர, நாமல் ஆகியோர் இப்­பட்­டி­யலில் காணப்­பட்­டாலும் ஜனா­தி­பதி தேர்தல் குறித்த பர­ப­ரப்­புகள் ஆரம்­ப­மாக முன்­னரே தமிழ்த்­த­ரப்பில் பொது வேட்­பாளர் ஒரு­வரை நிறுத்த வேண்டும் என்ற விவா­தங்கள் மேலெ­ழும்­பி­யி­ருந்­தன. வடக்கு, கிழக்கு வாழ் தமி­ழர்­களின் பிரச்­சி­னைகள் பற்றி போர் முடிந்த பின்­னரும் எந்த அர­சாங்­கமும் அக்­க­றை­கொள்­ளாத நிலையில் சிங்­கள அர­சியல் தலை­வர்­க­ளுக்கும், சிங்­கள சமூ­கத்­துக்கும் ,   சர்­வ­தே­சத்­துக்கும் அழுத்­த­மான ஒரு செய்­தியை முன்­வைப்­ப­தற்கு கட்­டா­ய­மாக தமிழ் பொது வேட்­பாளர் ஒரு­வரை ஜனா­தி­பதித் தேர்­தலில் கள­மி­றக்க வேண்டும் என்று வலி­யு­றுத்­தப்­பட்­டது.
+
+◼️
+
+[Data](articles/d02248a2.json)
 
 ---
 
@@ -180,23 +262,31 @@ The Daily Mirror said further information would be announced to our readers when
 
 ---
 
-### බිරිඳට පෙට්‍රල් දමා ගිනි තැබා මරා දැමූ සැමියා අත්අඩංගුවට
+### Man arrested for fire ache
 
 *2024-08-18 18:31:52* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳට-පෙට්‍රල්-දමා-ගිනි-තැබා-මරා-දැමූ-සැමියා-අත්අඩංගුවට/11-411434) · `si`
 
-තම සුරූපී බිරිදට බිරිදට පෙට්‍රල් ගිනි තබා මරා දැමිමේ චෝදනාවට 41 හැවිරිදි පොල් කඩන්නේකු වු සැමියා වෙන්නප්පුව පොලිසිය විසින් 18 දින අත් අඩංගුවට ගත් බව කියයි.
+A man was arrested for allegedly setting fire to his wife, Sundarkiniya, who died from severe burns. The couple lived in Wennappuwa, where Sundarkiniya worked as a housemaid after being accused of theft two years prior. She had a secret affair with a resident of Kochchikade, leading to tensions within the family. The incident occurred when Sundarkiniya attempted to leave the house, resulting in a confrontation and the subsequent fire. Their 14-year-old son witnessed the event. The suspect confessed to the crime and was arrested under the orders of Chief Inspector Thilina Hettiarachchi.
 
-මෙසේ මරණයට පත්ව ඇත්තේ වෙන්නප්පුව සින්ද්‍රාන්ති කොළණියෙ නිවසක පදිංචිව සිටි 37 හැවිරිදි තංගවේලු රාජලිංගම් සුසිලා නැමති තිදරු මවක් බව කියයි.
+🟩
 
-මරණයට පත්වු කාන්තාව වසර දෙකකට පෙර මෙම ඝාතනයට සම්බන්ධ සැමියා විසින් මැදපෙරදිග රටක ගෘහ සේවිකාවක් ලෙස සේවය කිරීම සදහා යවා තිබු බවත් එහිදි කොච්චිකඩේ ප්‍රදේශයේ පදිංචි අයකු සමග සම්බන්ධයක් පවත්වාගෙන ගොස් ඇති බව පරික්ෂණ වලදි තහවුරු වී තිබේ.
+The mother of 41-year-old coconut is a 41-year-old coconut in the blame on the karagel's petrol burning petrol.
 
-ඝාතනයට ලක්වු කාන්තාවගේ සැමියා කුලියට පොල් ගස් නැග පොල් කැඩිමේ නිරතව සිට ඇති බවත් ඔවුන් දරුවන් සමග සින්ද්‍රාන්තිය කොළණියෙ නිවසක් කුලියට ගෙන පදිංචිව සිට ඇති බව කියයි.
+The deceased is a 37-year-old Tangawal Rajalingam Susilla, a 37-year-old resident of a house in a nearby house in general area Wennappuwa.
 
-නිවසේ පැවති ආර්ථික තත්වයෙන් ගොඩ ඒම සදහා තම බිරිද මැදපෙරදිග ගෘහ සේවිකාවක් ලෙස සේවයට යවා ඇති බව පැවසෙයි.
+The deceased has been sent to serve the murder two years ago as a householder in the Murder and had a relationship with a resident of Kochchakeled in the Kochchikade area.
+
+Sundarkiniya has been rented and residents of the coconut in coconut trees and her husband had hired coconut trees.
+
+It is said that his wife has been sent as a householder in the midstrome to recover from the economic situation at home.
+
+The husband of the police have revealed that she had been a secret connection with a resident of Kochchikade, a resident of Kochchikade.
 
 ...
 
 [Data](articles/6a8bcaaa.json)
+
+[Extended Data](ext_articles/6a8bcaaa.ext.json)
 
 ---
 
@@ -223,6 +313,38 @@ Accordingly, a 45-year-old was a 45-year-old resident of Thalawathugoda, police 
 [Data](articles/03e92f5c.json)
 
 [Extended Data](ext_articles/03e92f5c.ext.json)
+
+---
+
+### தமிழ் பொது வேட்பாளர் பா.அரியநேந்திரனின் முதலாவது தேர்தல் பிரச்சார கூட்டம்
+
+*2024-08-18 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191380) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிடவுள்ள தமிழ் பொது வேட்பாளர் பா.அரியநேந்திரன் அவர்களது முதலாவது தேர்தல் பிரச்சார கூட்டம் முல்லைத்தீவு மண்ணில் ஆரம்பிக்கப்பட்டுள்ளது.
+
+முன்னதாக முள்ளிவாய்க்கால் மண்ணுக்கு சென்ற ஜனாதிபதி தேர்தலில் போட்டியிடவுள்ள தமிழ் பொது வேட்பாளர் பா.அரியநேந்திரன் அவர்கள் முள்ளிவாய்கால் நினைவு முற்றத்தில் சுடரேற்றி அஞ்சலி செலுத்தி அதன்பின்னர் முல்லைத்தீவு வற்றாப்பளை செந்தமிழ் விளையாட்டு மைதானத்தில் இடம்பெறும் முதலாவது தேர்தல் பரப்புரை கூட்டத்தில் கலந்துகொண்டுள்ளார்
+
+முன்னாள் வடமாகாண விவசாய அமைச்சர் கந்தையா சிவநேசன் அவர்களது தலைமையில் இடம்பெறும் இந்த கூட்டத்தில் பாராளுமன்ற உறுப்பினர்களான தர்மலிங்கம் சித்தார்த்தன் , செல்லம் அடைக்கலநாதன் , முன்னாள் பாராளுமன்ற உறுப்பினர்களான சிவசக்தி ஆனந்தன் , முன்னாள் யாழ் மாநர மேஜர் மணிவண்ணன், ஜனநாயக போராளிகள் கட்சி தலைவர் வேந்தன், உள்ளிட்ட அரசியல் பிரமுகர்கள் மற்றும் பத்தி எழுத்தாளர்களான நிலாந்தன், யதீந்திரா உள்ளிட்டவர்களும் பொதுமக்களும் கலந்துகொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/0820c75d.json)
+
+---
+
+### மட்டு நகரில் பிரபல உணவகத்தை 22ஆம் திகதி வரை மூடுமாறு நீதிமன்றம் உத்தரவு
+
+*2024-08-18 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191377) · `ta`
+
+மட்டக்களப்பு நகரில் இயங்கிவரும் பிரபல உணவகம் சுகாதார ஒழுங்கு விதிகளை மீறி கழிவு நீரை வெளியில் திறந்துவிட்ட மற்றும் மனித நுகர்வுக்கு பொருத்தமற்ற கோழி இறைச்சியை களஞ்சியப்படுத்தி வைத்திருந்தமை தொடர்பாக மட்டக்களப்பு நீதவான் நீதிமன்றம் உணவகத்தை எதிர்வரும் 22ம் திகதிவரை தற்காலிகமாக மூடுமாறு ஞாயிற்றுக்கிழமை (18) உத்தரவு பிறப்பித்ததையடுத்து உடன் பொது சுகாதார பரிசோதகர்கள் உணவகத்தை மூடி சீல் வைத்தனர்.
+
+குறித்த பிரபல உணவகத்தின் கழிவு நீர் வெளியேறி வீதிகளிலும் வடிகான்களிலும் தேங்கி நிற்பதுடன் அந்த பகுதியில் தூர்நாற்றம் வீசி வருவதாக பொதுமக்கள் தொடர்ச்சியாக பொது சுகாதார பரிசோதகர்களுக்கு முறைப்பாடு தெரிவித்து வந்தனர்.
+
+இந்த நிலையில் குறித்த உணவகத்தை புளியந்தீவு பொது சுகாதார பரிசோதகர் ஜெ.யசோதரன் தலைமையிலான பரிசோதகர்கள் முற்றுகையிட்டு பரிசோதனையிடனர் இதன் போது மனித நுகர்வுக்கு பொருத்தமற்ற கோழி இறைச்சியை களஞ்சியப்படுத்தி வைத்திருந்தமையை கண்டுபிடித்து கைப்பற்றியதுடன் சுகாதார ஒழுங்கு விதிகளை மீறி கழிவு நீரை வெளியில் திறந்துவிட்ட வந்துள்ளதை கண்டுபிடித்தனர்.
+
+...
+
+[Data](articles/fd2ca038.json)
 
 ---
 
@@ -2239,159 +2361,5 @@ The country is in a large crash.. A country that collapsed by the rule. A countr
 [Data](articles/a1341e0c.json)
 
 [Extended Data](ext_articles/a1341e0c.ext.json)
-
----
-
-### VAT is completely removed
-
-*2024-08-18 08:18:27* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-බදු-සම්පූර්ණයෙන්ම-ඉවත්-කරනවා/11-411419) · `si`
-
-In a speech in Tangalle, Dissanayake addressed the nation's challenges, including economic downturns affecting farmers, fishermen, and businesses, and the need for a new direction. He criticized old, failed policies and promised to remove VAT, increase income, and protect cultural heritage. He urged unity to overcome enemies and ensure justice for wrongdoers, highlighting past injustices like the assassination of Lasantha Wickrematunge and the abduction of Poddala Jayantha. He called for support in the upcoming presidential election to implement these changes.
-
-🟩
-
-"The country cannot go this way. The country needs to be developed. After being powerful, fraud and corruption stops. Punishment for fraudsters. The government is entrusted with the government. People make a happy government. Only the national government force can only be done "Leader of the National Population". Dissanayake addressing a rally held in Tangalle town on the 17th.
-
-The country is in a large crash.. A country that collapsed by the rule. A country that is largely stressed in the lives of farming. The lives of fishermen have been severely affected. Business people have been uncertain. Young people have become a future dream.
-
-...
-
-[Data](articles/d90ed01e.json)
-
-[Extended Data](ext_articles/d90ed01e.ext.json)
-
----
-
-### Ministry of Australia's Court summarizes the orders of the federal court
-
-*2024-08-18 08:01:16* · [`adalk`](https://www.ada.lk/breaking_news/ඔස්ට්‍රේලියා-ෆෙඩරල්-අධිකරණය-දුන්-නියෝගය-ගැන-විදෙස්-අමාත්‍යාංශය-කරුණු-කියයි/11-411418) · `si`
-
-The Australian Federal Court ordered the Sri Lankan Deputy High Commissioner to return home after fleeing his post three years ago. The Ministry of External Affairs stated it would support this action, emphasizing the importance of officials fulfilling their duties abroad.
-
-🟩
-
-The External Affairs Ministry has focused on the verdict from the Australian Federal Court of Sri Lanka to file a case filed against Sri Lanka's Deputy High Commissioner for the Sri Lankan Deputy High Commissioner for the Sri Lankan High Commissioner for the Sri Lankan High Commissioner.
-
-Ministry of External Affairs said that it is customary to facilitate the Ministry of External Affairs to take their official representative duties. The domestic support of the incident was completed three years of full work, secretly fled the employer's official residence before the day he was intended from Australia.
-
-She has paid the allowance approved by the Ministry as the cottage assistant's pay. The Ministry is satisfied that the employer paid the salary to the household supporter as the employer was taken.
-
-◼️
-
-[Data](articles/885b3b1e.json)
-
-[Extended Data](ext_articles/885b3b1e.ext.json)
-
----
-
-### Sri Lanka diplomat’s domestic worker in Australia paid approved salary: Ministry
-
-*2024-08-18 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-diplomats-domestic-worker-in-australia-paid-approved-salary-ministry-177126/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Foreign Ministry said the approved salary agreed with the domestic worker of the former Deputy High Commissioner of Canberra was paid to her, after an Australian court ruled that she was underpaid according to law.
-
-“The Ministry of Foreign Affairs wishes to state that it is the standard practice that diplomats are facilitated by the Ministry of Foreign Affairs to take domestic assistants to assist their official representational duties,” the statement said.
-
-“The domestic assistant in question served a full three-year term, and on the eve of the employer’s originally intended departure from Australia, absconded the residence of the employer.
-
-“The allowance approved by the Ministry as the salary of the employee has been paid to her. The Ministry is satisfied that the said salary was paid to the domestic assistant by the employer as mutually agreed.”
-
-...
-
-[Data](articles/7c341672.json)
-
-[Extended Data](ext_articles/7c341672.ext.json)
-
----
-
-### US Acting Assistant Secretary of State to visit Sri Lanka
-
-*2024-08-18 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101316/us-acting-assistant-secretary-of-state-to-visit-sri-lanka) · `en`
-
-US Acting Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs Jennifer R. Littlejohn will travel to Sri Lanka, India and Maldives from 17 August to 31 August.
-
-During her visit, she will discuss nature and marine conservation, plastic and air pollution, the climate crisis, deforestation, nature crimes, civil and commercial space activities, promoting women and girls in STEM, and the sustainable blue economy, said the US Department of State.
-
-In Sri Lanka from 19 to 21 August, she will meet with government officials and partners, visit U.S.-supported wildlife protection projects and explore opportunities for connecting Sri Lankans with U.S. experts in priority areas, such as hydrography and climate change.
-
-...
-
-[Data](articles/dae707f3.json)
-
-[Extended Data](ext_articles/dae707f3.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-08-18 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101315/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere over the island during the evening or night, it said.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/2669c2e6.json)
-
-[Extended Data](ext_articles/2669c2e6.ext.json)
-
----
-
-### A Pivothimpath for Russia
-
-*2024-08-18 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200049) · `si`
-
-An earthquake of magnitude 7 struck off Russia's eastern coast, triggering a tsunami warning from the US Tsunami Warning Center, though no tsunami formed. This quake marks the start of seismic activity in the region, which is home to several active volcanoes.
-
-🟩
-
-In the sea area of ​​the East, Russia, the earthquake has taken place this morning.
-
-Foreign media reports that the earthquake has occurred with a port of 7 units of the richter thin.
-
-With the earthquake, the US Tsunami Warning Center has issued a tsunami warning center, but it is not a tsunami.
-
-The earthquake has broken on a seismic operation of the Pacific Ocean and the first earthquake has occurred.
-
-There are several active volcanoes in the sea.
-
-◼️
-
-[Data](articles/44e634a7.json)
-
-[Extended Data](ext_articles/44e634a7.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-08-18 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200048) · `si`
-
-Expect showers or thundershowers across Western, Sabaragamuwa, Northwestern provinces, including Kandy, Nuwara Eliya, Galle, and Matara districts, with heavy rain possible. These conditions may extend to other regions during evenings or nights. The Department of Meteorology advises caution against temporary winds and lightning due to thunderstorms, taking measures to mitigate risks.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in general area Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The department states in the Western and Sabaragamuwa provinces and in the Galle and Matara Districts. Heavy rains can occur at more than 75.
-
-Showers or thundershowers will occur at the evening or night in the rest of the island.
-
-From time to time at times of the central hills and in the North, North, North Central and Northwestern provinces.. The Department of Meteorology announces that there are about 30-40 times.
-
-The Department of Meteorology has taken steps to take necessary action to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/cd089d8b.json)
-
-[Extended Data](ext_articles/cd089d8b.ext.json)
 
 ---

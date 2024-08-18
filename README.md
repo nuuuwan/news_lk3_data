@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 09:21:20**
+As of **2024-08-18 09:36:47**
 
 ## Newspaper Stats
 
-*Scraped **41,284** Articles*
+*Scraped **41,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 394
 islandlk | 2,392
 economynextcom | 2,502
 dailyftlk | 2,676
-adalk | 3,792
+adalk | 3,793
 dailymirrorlk | 4,733
 adaderanalk | 4,825
 tamilmirrorlk | 5,301
@@ -26,33 +26,39 @@ adaderanasinhalalk | 7,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,283 (100.0%) of 41,284 articles have been extended.
+41,284 (100.0%) of 41,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### තැන් දෙකකදී හසුවූ ගජමුතු
+### Gajamuthu have been in two places
 
 *2024-08-18 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200051) · `si`
 
-දිවයිනේ ප්‍රදේශ දෙකක දී ගජමුතු සන්තකයේ තබාගෙන සිටි සැකකරුවන් කිහිපදෙනෙකු අත්අඩංගුවට ගැනීමට පොලීසිය සමත්ව තිබේ.
+In two locations across the country, police have arrested several individuals linked to Gajamuthu. In the Poonagar area, Evlampattu police nabbed two locals suspected of possessing Gajamuthu. Additionally, the STF arrested three suspects in Puttalam for allegedly planning to sell Gajamuthu, based on intel from Air Force Intelligence about SLAF Buddhism's activities. These arrests involve residents from Gokarella, Mawanella, and Puttalam, with the suspects' properties being handed over for further investigation.
 
-පූනගර් ප්‍රදේශයේ දී පොලීසියට ලද තොරතුරක් මත සිදුකළ වැටලීමක දී ගජමුතු 02ක් සන්තකයේ තබාගෙන සිටි සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගැනීමට ඊච්චලම්පත්තුව පොලීසිය සමත්ව ඇත.
+🟩
 
-සැකකරුවන් ගොකරැල්ල ප්‍රදේශයේ පදිංචිකරුවන් වන අතර මේ සම්බන්ධව ඊච්චලම්පත්තුව පොලීසිය වැඩිදුර විමර්ශන පැවැත්වීමට නියමිතය.
+The police have arrested several suspects in the Gajamuthu on two areas in the country.
 
-මේ අතර පුත්තලම ප්‍රදේශයේ කලපු තීරයේ දී ගජමුතු 03ක් අලෙවි කිරීමට සූදානම් වූ සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගැනීමට පොලිස් විශේෂ කාර්ය බළකාය සමත්ව තිබේ.
+Evlampattu police have arrested two suspects in possession of two Gajamuthu during a raid conducted by the police in Poonagar area.
 
-රුපියල් කෝටි 03කට මෙම ගජමුතු අලෙවි කිරීමට සූදානම් වූ බවට ගුවන් හමුදා බුද්ධි අංශයට ලද තොරතුරක් මත පොලිස් විශේෂ කාර්ය බළකාය මෙම වැටලීම සිදුකර ඇත.
+The suspects are residents of Gokarella area and the Evtlampattu police will be conducted in this regard.
 
-උපායදූතයෙකු යොදවා සැකකරුවන් අත්අඩංගුවට ගෙන ඇති අතර ඉන් දෙදෙනෙකු මාවනැල්ල ප්‍රදේශයේ පදිංචිකරුවන් වන අතර අනෙක් පුද්ගලයා පුත්තලම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+Meanwhile, the STF has been arrested for selling three suspects in the lagoon in Puttalam.
 
-සැකකරුවන් සහ ඔවුන් සතුව තිබී තම භාරයට ගත් ගජමුතු වැඩිදුර විමර්ශණ සඳහා පුත්තලම පොලීසියට බාර දීමට පොලිස් විශේෂ බළකා නිලධාරීන් කටයුතු කර තිබේ.
+The STF has been conducted on information received by the Air Force Intelligence that the SLAF Buddhism was preparing to sell these gycas.
+
+The suspects were arrested by a strategic and two of them are residents of Mawanella and another resident of Puttalam.
+
+Police Special Forces Special Army has handed over the suspects and their entries from their resorts to the police for further investigations.
 
 ◼️
 
 [Data](articles/a666d831.json)
+
+[Extended Data](ext_articles/a666d831.ext.json)
 
 ---
 
@@ -85,6 +91,20 @@ The surgery is carried out by the doctor who has been tested at the private hosp
 [Data](articles/3ed9abe8.json)
 
 [Extended Data](ext_articles/3ed9abe8.ext.json)
+
+---
+
+### වැට් බදු සම්පූර්ණයෙන්ම ඉවත් කරනවා
+
+*2024-08-18 08:18:27* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-බදු-සම්පූර්ණයෙන්ම-ඉවත්-කරනවා/11-411419) · `si`
+
+"රටට මේ විදියට යන්න දෙන්න බැහැ. රට දියුණු  කරන්න ඕන.අපි බලයට පත්වූ පසු වංචාව,දූෂණය  නතර කරනව. වංචකයින්ට දඬුවම් දෙනව. සොරාගත්ත දේපල රජයට පවර ගන්නව. ජනතාව සතුටින් තියන ආණ්ඩුවක් හදනවා. ඒ ටික කළ හැක්කේ  ජාතික  ජන බලවේගයට පමණයි" ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක  මහතා පැවසීය. ඉකුත්17 වනදා තංගල්ල නගරයේ පැවති රට අනුරට මැයින් පැවති ජන රැලියක් අමතමින් දිසානායක මහතා එසේ පැවසීය .
+
+රට විශාල ලෙස කඩා වැටීමක තියෙන්නෙ .ආර්ථික වශයෙන් ගත්තොත් පතුලටම ගිලුනු රටක්.අපරාධ පැත්තෙන් ගත්තොත් විශාල ලෙස අපරාධ වැඩිවුන රටක්. නීතියආධිපත්‍යය කඩා වැටුණු රටක්. ගොවිජනයගේ ජීවිත විශාල ලෙස පීඩනයට පත් රටක්. ධීවර ජනතාවගේ ජීවිත විශාල ලෙස පීඩනයට පත්වෙලා. ව්‍යාපාරික ජනතාව අවිනිශ්චිත තත්ත්වයට පත්වෙලා. තරුණ තරුණියන්ට තමාගේ අනාගත සිහිනය භංගත්වයට පත්වෙලා.
+
+...
+
+[Data](articles/d90ed01e.json)
 
 ---
 
@@ -2285,29 +2305,5 @@ In addition, when considering whether to provide protection to candidates, only 
 [Data](articles/ea7e27d9.json)
 
 [Extended Data](ext_articles/ea7e27d9.ext.json)
-
----
-
-### India Sri Lanka passenger ferry service resumes
-
-*2024-08-17 08:19:00* · [`economynextcom`](https://economynext.com/india-sri-lanka-passenger-ferry-service-resumes-177086/) · `en`
-
-ECONOMYNEXT  – A passenger ferry service between Sri Lanka’s Jaffna and India’s Nagapatnam has resumed on August 16, with 50 passengers arriving in the maiden voyage, the Indian High Commission in Colombo said.
-
-“Future plans include the exploration of additional routes and services that will further expand connectivity and economic collaboration,” the Indian embassy said.
-
-The ferry ‘Sivagangai’ run by a private operator, IndSri Ferry Services, completed the journey between Nagapattinam and KKS in approximately 4 hours, the embassy said.
-
-India is subsidizing the service providing around 25 million Sri Lanka rupees a month for a year to cover fees and operating costs and Nagapatnam port.
-
-“The resumption of this service underscores the commitment of both countries to strengthening bilateral relations through improved connectivity,..” the Indian embassy said.
-
-India is also giving a grant of 63.5 million US dollars to upgrade Kankasanthurai Harbour in Jaffna. (Colombo/Aug17/2024)
-
-◼️
-
-[Data](articles/5fcd848d.json)
-
-[Extended Data](ext_articles/5fcd848d.ext.json)
 
 ---

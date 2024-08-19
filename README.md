@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 01:36:59**
+As of **2024-08-20 01:56:03**
 
 ## Newspaper Stats
 
-*Scraped **41,549** Articles*
+*Scraped **41,552** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 383
-colombotelegraphcom | 397
+colombotelegraphcom | 398
 islandlk | 2,402
 economynextcom | 2,507
-dailyftlk | 2,676
+dailyftlk | 2,678
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
@@ -26,11 +26,41 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,549 (100.0%) of 41,549 articles have been extended.
+41,552 (100.0%) of 41,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### Key lessons from Bangladesh crisis
+
+*2024-08-20 01:14:42* · [`dailyftlk`](https://www.ft.lk/columns/Key-lessons-from-Bangladesh-crisis/4-765713) · `en`
+
+Since its independence, Bangladesh has faced multiple political crises, characterised by periods of military rule, political violence, and fierce rivalry between its two main political parties. Despite these challenges, Bangladesh has managed to maintain a degree of political stability and achieve significant economic progress over the last decade. However, the severe crisis Bangladesh is currently enduring serves as a grave reminder for other countries in the South Asian region, highlighting what they must avoid.
+
+...
+
+[Data](articles/6e04b556.json)
+
+[Extended Data](ext_articles/6e04b556.ext.json)
+
+---
+
+### Presidential hopefuls should give top priority to make Sri Lanka a creative economy – Part II
+
+*2024-08-20 01:06:04* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-hopefuls-should-give-top-priority-to-make-Sri-Lanka-a-creative-economy-Part-II/4-765712) · `en`
+
+A country should support through its innovation policy, all types and phases of innovation not necessarily confining itself to high-tech industries
+
+Summary so far: There are 39 Presidential hopefuls seeking the mandate from voters to rule Sri Lanka for the next five years. Since Sri Lanka is a country that had been embroiled in an unparalleled economic crisis and still struggling to recover, it is necessary to adopt a suitable policy strategy to push the economy through a high growth path to facilitate it to deliver prosperity and wellbeing to people. This requires the policymakers to give the highest priority to build an innovative or a creative economy.
+
+...
+
+[Data](articles/1f3c5bbf.json)
+
+[Extended Data](ext_articles/1f3c5bbf.ext.json)
+
+---
 
 ### Prohibition
 
@@ -361,6 +391,22 @@ His team organizes concerts and carnivals throughout the country and that the go
 [Data](articles/f2ed2450.json)
 
 [Extended Data](ext_articles/f2ed2450.ext.json)
+
+---
+
+### Social Engineering: The Wild Card In Sri Lanka’s Election
+
+*2024-08-19 19:40:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/social-engineering-the-wild-card-in-sri-lankas-election/) · `en`
+
+As Sri Lanka inches closer to the Presidential election on September 21, 2024, the usual buzz around political campaigns is in full swing. But there’s a strong contender that might just tip the scales in unexpected ways—social engineering! And no, we’re not talking about hackers sneaking into databases. Instead, it’s the strategic manipulation of public sentiment and behavior, a practice that’s gaining unprecedented traction in the democratic world, especially among Sri Lankan voters, with the proliferation of smartphones and social media.
+
+Social engineering is the deliberate effort to influence attitudes and behaviors on a large scale, often through subtle and calculated messaging. It’s about crafting narratives, pushing slogans, and even spreading rumors or misinformation to steer the masses toward a particular candidate or away from others.
+
+...
+
+[Data](articles/0b0e8abb.json)
+
+[Extended Data](ext_articles/0b0e8abb.ext.json)
 
 ---
 
@@ -2303,69 +2349,5 @@ However, he pointed out that letters have been sent to stop the projects immedia
 [Data](articles/8196adbe.json)
 
 [Extended Data](ext_articles/8196adbe.ext.json)
-
----
-
-### New post for Harin
-
-*2024-08-19 10:00:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரினுக்குப்-புதிய-பதவி/175-342422) · `ta`
-
-Harin Fernando, ex-Minister, now serves as the President's Special Advisor for Tourism, Land, Sports, and Youth Affairs, as per a presidential letter to Ranil Wickremesinghe.
-
-🟩
-
-Former Minister Harin Fernando has been appointed as the President's Special Advisor to Tourism, Land, Sports and Youth Affairs, according to a letter to President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/6df924f9.json)
-
-[Extended Data](ext_articles/6df924f9.ext.json)
-
----
-
-### Blinken arrives in Middle East seeking Gaza ceasefire
-
-*2024-08-19 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101338/blinken-arrives-in-middle-east-seeking-gaza-ceasefire) · `en`
-
-U.S. Secretary of State Antony Blinken arrived in Tel Aviv on Sunday on another Middle East tour to push for a ceasefire in Gaza but Hamas raised doubts about the mission just hours after he landed by accusing Israel of undermining his efforts.
-
-The Palestinian militant group said it holds Israeli Prime Minister Benjamin Netanyahu responsible for “thwarting the mediators’ efforts”, delaying an agreement and exposing Israeli hostages in Gaza to the same aggression faced by Palestinians.
-
-On his ninth trip to the region since the war began in October, Blinken will meet on Monday with senior Israeli leaders including Netanyahu, a senior State Department official said.
-
-The talks to strike a deal for a truce and return of hostages held in Gaza were now at an “inflection point”, a senior Biden administration official told reporters en route to Tel Aviv. “We think this is a critical time,” the official said.
-
-...
-
-[Data](articles/66d436bb.json)
-
-[Extended Data](ext_articles/66d436bb.ext.json)
-
----
-
-### US in Sri Lanka
-
-*2024-08-19 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200089) · `si`
-
-Littlejone, an official from the US Department of State, arrives in Sri Lanka today to discuss promoting women and girls, addressing crises, and collaborating on science, technology, engineering, and math sectors. She will meet with Sri Lankan officials and partners, focusing on connecting locals with US experts in areas like wildlife protection and climate change.
-
-🟩
-
-Acting American Assistant American Assistant American Assistant American Assistant American Assistant Affairs. Littlejone is due to arrive in the island today.
-
-The American Department of State stated that she is to visit India and the Maldives.
-
-During this visit, she is to discuss the promotion of women and girls, natural crisis, civil and commercial crisis, natural crisis, civilian crisis, science, technological, engineering and math sector..
-
-According to the US Assistant Secretary of the State and the Government of Sri Lanka to meet with public officials and partners from today.
-
-She also join the US Department of State Department to connect Sri Lankans with US experts with US experts, such as watching wildlife protection projects, such as Hydrographe and Climate Change.
-
-◼️
-
-[Data](articles/af6d7c6b.json)
-
-[Extended Data](ext_articles/af6d7c6b.ext.json)
 
 ---

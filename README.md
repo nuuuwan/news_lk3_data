@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 02:36:37**
+As of **2024-08-20 02:55:42**
 
 ## Newspaper Stats
 
-*Scraped **41,562** Articles*
+*Scraped **41,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 383
 colombotelegraphcom | 399
 islandlk | 2,402
 economynextcom | 2,507
-dailyftlk | 2,684
+dailyftlk | 2,687
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
@@ -26,11 +26,71 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,555 (100.0%) of 41,562 articles have been extended.
+41,562 (100.0%) of 41,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### AKD denies NPP was invited to lead Govt. during 2022 political crisis
+
+*2024-08-20 02:19:21* · [`dailyftlk`](https://www.ft.lk/news/AKD-denies-NPP-was-invited-to-lead-Govt-during-2022-political-crisis/56-765744) · `en`
+
+NPP leader calls on President to uphold dignity of his office when making such claims
+
+Says it is common knowledge NPP was made no offer by Gotabaya or Mahinda Rajapakasa
+
+Accuses President of violating election laws by appointing Manusha and Harin as advisors
+
+Says he is misusing State resources and funds for his election campaign
+
+Slams ECSL for its inability to stop such abuses and take necessary action against it
+
+National People’s Power (NPP) leader and Presidential candidate Anura Kumara Dissanayake has strongly refuted recent claims by President Ranil Wickremesinghe that he was invited to take control of the Government during the 2022 political crisis when Mahinda Rajapaksa and other leaders stepped down.
+
+...
+
+[Data](articles/a4dc2c40.json)
+
+---
+
+### PAFFREL raises concerns over alleged election law violations by Govt.
+
+*2024-08-20 02:18:00* · [`dailyftlk`](https://www.ft.lk/news/PAFFREL-raises-concerns-over-alleged-election-law-violations-by-Govt/56-765743) · `en`
+
+States appointments represent violation of election laws, misuse of public funds
+
+Reveals vehicles from 5 Ministries used for election campaigning, 14 transfers within Govt. institutions
+
+Calls for stricter adherence to legal guidelines to ensure fair electoral process
+
+The People’s Action for Free and Fair Elections (PAFFREL) has expressed serious concerns regarding the Government’s alleged violations of election laws.
+
+The organisation has formally informed the Election Commission about these issues, focusing particularly on the recent appointment of two Presidential advisors by President Ranil Wickremesinghe.
+
+Speaking to the media, PAFFREL Executive Director Rohana Hettiarachchi stated that these appointments represent a clear violation of election laws and constitute a misuse of public funds.
+
+...
+
+[Data](articles/77746ff2.json)
+
+---
+
+### NPP cries foul over new Presidential Advisers
+
+*2024-08-20 02:16:48* · [`dailyftlk`](https://www.ft.lk/news/NPP-cries-foul-over-new-Presidential-Advisers/56-765742) · `en`
+
+National People’s Power (NPP) leader Anura Kumara Dissanayake yesterday voiced his concern over the appointments of Harin Fernando and Manusha Nanayakkara as new Advisers to the President by incumbent Ranil Wickremesinghe who is also seeking a mandate from the people.
+
+He told a news conference that the Elections Commission has issued a circular preventing new appointments during the election period hence the President’s move was in violation.
+
+Dissanayake also said the appointment will allow them to intervene in the activities of these Ministries, entertain perks and privileges such as vehicles and funds. He said the entire United National Party (UNP) camp in the President’s office is entertained by State funds where UNPers such as Akila Viraj, Sagala Ratnayake, Ashu Marasinghe etc. have been given advisory posts and Navin Dissanayake was appointed as a Governor.
+
+...
+
+[Data](articles/1579c223.json)
+
+---
 
 ### Ceylon Chamber to host political debate on economic visions on 29 August
 
@@ -43,6 +103,8 @@ Shehan Semasighe representing the President Ranil Wickremesinghe, Dr. Harsha de 
 ...
 
 [Data](articles/d6bf45cc.json)
+
+[Extended Data](ext_articles/d6bf45cc.ext.json)
 
 ---
 
@@ -57,6 +119,8 @@ In a statement the MMBL-Pathfinder Group said its joint-venture investment portf
 ...
 
 [Data](articles/efe82ddd.json)
+
+[Extended Data](ext_articles/efe82ddd.ext.json)
 
 ---
 
@@ -74,6 +138,8 @@ The National Chamber of Commerce of Sri Lanka and NEDA have been assisting the M
 
 [Data](articles/c36afa90.json)
 
+[Extended Data](ext_articles/c36afa90.ext.json)
+
 ---
 
 ### Creative Catalyst Fellowship completes intensive residency program
@@ -90,6 +156,8 @@ Good Life X recently concluded the intensive residency program of the Creative C
 
 [Data](articles/ee66bc55.json)
 
+[Extended Data](ext_articles/ee66bc55.ext.json)
+
 ---
 
 ### Workshop on “21 powerful Japanese methods to create organisation excellence”
@@ -104,23 +172,31 @@ Sunil G. Wijesinha will be the resource person for this session, who is a well�
 
 [Data](articles/900b2843.json)
 
+[Extended Data](ext_articles/900b2843.ext.json)
+
 ---
 
-### சிலிண்டர் சின்னத்துக்கு சிக்கல் இல்லை
+### No problem with cylinder symbol
 
 *2024-08-20 01:43:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்-சின்னத்துக்கு-சிக்கல்-இல்லை/175-342479) · `ta`
 
-ஜனாதிபதித் தேர்தலில் சுயேச்சை வேட்பாளராகப் போட்டியிடும்  ரணில் விக்கிர மசிங்கவுக்கு வழங்கப்பட்ட எரிவாயு சிலிண்டர் தொடர்பான ஆட்சேபனைகளை தேர்தல்கள் ஆணைக்குழு நிராகரிக்க தீர்மானித்துள்ளது.
+The Elections Commission rejected objections against Ranil Wickremesinghe's use of the gas cylinder symbol in his presidential bid, dismissing claims that it was improperly allocated during local elections. Election Commissioner Saman Sridha Ratnayake clarified that while reserved symbols are for registered parties, others can choose any symbol, emphasizing that the decision was not influenced by media attention but rather based on the rules.
 
-கடந்த உள்ளூராட்சி சபைத் தேர்தலில் எரிவாயு சிலிண்டர் சின்னம் தமது அணிக்கு வழங்கப்பட்டதாக அரசியல் கட்சியொன்று முன்வைத்துள்ள குற்றச்சாட்டுகளுக்கு தேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீத ரத்நாயக்க பதிலளித்துள்ளார்.
+🟩
 
-உள்ளூராட்சி தேர்தலின் போது காஸ் சிலிண்டர் சின்னத்தை கேட்டு பலர் கோரிக்கை வைத்திருந்தனர். ஒதுக்கப்பட்ட சின்னங்கள் அரசியல் கட்சிகளுக்கு மட்டுமேயாகும். மற்றவை யார் வேண்டுமானாலும் பயன்படுத்தலாம்.
+The Elections Commission has decided to reject the gas cylinder objections to Ranil Wickremesinghe, who is contesting as an independent candidate for the presidential election.
 
-எனவே, பொய்யான விஷயங்களுக்கு வாய்ப்பளிக்கக் கூடாது. இவற்றுக்குப் பதில் சொல்வதும் பொய்யானது, ஊடகங்களில் விளம்பரம் பெறுவதற்காக இப்படிச் செய்கிறார்கள் என்றார்.
+Election Commissioner Saman Sridha Ratnayake has responded to allegations made by a political party that the gas cylinder symbol was given to his team in the last local government election.
+
+During the local elections, many demanded the Cass cylinder symbol. The reserved symbols are only for political parties. Others can use anyone.
+
+Therefore, not to give a chance to false things. In response to this, it is false and they are doing so for advertising in the media.
 
 ◼️
 
 [Data](articles/6396d7b6.json)
+
+[Extended Data](ext_articles/6396d7b6.ext.json)
 
 ---
 
@@ -517,6 +593,8 @@ In this context, the development of human knowledge will generate inventions, bu
 ...
 
 [Data](articles/15f2b87f.json)
+
+[Extended Data](ext_articles/15f2b87f.ext.json)
 
 ---
 
@@ -2229,79 +2307,5 @@ The suspects are 25 years old and is to be produced before the Kaduwela Magistra
 [Data](articles/2c94ea03.json)
 
 [Extended Data](ext_articles/2c94ea03.ext.json)
-
----
-
-### PM pledges support for new political movement by MPs and parties backing President Ranil
-
-*2024-08-19 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101343/pm-pledges-support-for-new-political-movement-by-mps-and-parties-backing-president-ranil) · `en`
-
-Prime Minister Dinesh Gunawardena says that the Sri Lanka Podujana Peramuna (SLPP) MPs and political parties who came forward to support Ranil Wickremesinghe in the Presidential Election are holding discussions to create a new political movement.
-
-The Prime Minister made these comments while speaking to the media after visiting Maha Nayaka Theros of Malwathu and Asgiri chapters in Kandy, the Prime Minister’s Media Division said in a statement.
-
-The Prime Minister also mentioned that he will always give his blessing and support as the Prime Minister to build the said political movement.
-
-The Prime Minister further commented: “The overwhelming majority of SLPP MPs who supported the government to move forward, decided to support Mr. Ranil Wickremesinghe who recovered the country from the crisis, in the Presidential Election.”
-
-“Those MPs represent many other parties as well as SLPP”, he added.
-
-...
-
-[Data](articles/3a767072.json)
-
-[Extended Data](ext_articles/3a767072.ext.json)
-
----
-
-### Dilith Jayaweera advocates for centralized framework to achieve national priorities
-
-*2024-08-19 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101342/dilith-jayaweera-advocates-for-centralized-framework-to-achieve-national-priorities) · `en`
-
-Presidential Candidate of the ‘Sarvajana Balaya’ alliance and leader of the Mawbima Janatha Party (MJP) entrepreneur Dilith Jayaweera proposes the establishment of an authority on national strategic framework planning under the strategic framework proposed by his alliance.
-
-Addressing a gathering attended by intellectuals and entrepreneurs, at the MJP Headquarters in Colombo, Jayaweera expressed confidence that that his proposal is capable of achieving national priorities and objectives within a specific period of time.
-
-Speaking further, Dilith Jayaweera said: “The presidential election has been announced. Sajith Premadasa, Ranil Wickremesinghe, Anura Kumara Dissanayake, and Namal Rajapaksa are contesting. All of those candidates held cabinet portfolios in the past”
-
-...
-
-[Data](articles/a31fe34e.json)
-
-[Extended Data](ext_articles/a31fe34e.ext.json)
-
----
-
-### Water levels in several reservoirs - roads bloom
-
-*2024-08-19 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200091) · `si`
-
-Rising water levels in several reservoirs and heavy rainfall have caused road closures, including the Chilaw-Colombo main road due to Hamilton Canal and Sal Oya overflow. Traffic is being diverted through alternative routes. One sluice gate in the Qua River reservoir has been opened to release excess water, affecting nearby areas. The Disaster Management Center reports 2,354 individuals impacted by the weather conditions.
-
-🟩
-
-Water levels on several reservoirs have risen in several reservoirs with the prevailing rainy weather.
-
-The Chilaw - Colombo main road from 1.30 am today (19th) due to Hamilton Canal and Sal Oya.
-
-As a result, the vehicle traffic is interrupted, "Ada Derana reporter said.
-
-The traffic drivers have been instructed to use alternative routes to traffic drivers.
-
-"The Ada Derana reporter said that several vehicles traveling along the road had been unable to run into the water.
-
-Meanwhile, one sluice gate in the Qua River reservoir has been opened.
-
-Accordingly, 53 cubic waterfire will be released to the small river, and low-range trends in the surrounding floods due to overflowing.
-
-The Ada Derana reporter said that roads, lowland and houses in the Bulathsinhala Mulkana main road. Ada Derana reporter said.
-
-Traffic on the Bulathsinhala Mulchwa main road has been completely stopped and the alternative routes have been used to travel from Bulathsinhala to Malkawa, Addenda and Kidinkanda.
-
-...
-
-[Data](articles/9450a732.json)
-
-[Extended Data](ext_articles/9450a732.ext.json)
 
 ---

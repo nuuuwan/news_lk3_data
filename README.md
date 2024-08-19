@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 14:36:41**
+As of **2024-08-19 14:55:43**
 
 ## Newspaper Stats
 
-*Scraped **41,486** Articles*
+*Scraped **41,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 3,817
 dailymirrorlk | 4,733
 adaderanalk | 4,854
 tamilmirrorlk | 5,350
-virakesarilk | 6,578
+virakesarilk | 6,579
 adaderanasinhalalk | 7,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,486 (100.0%) of 41,486 articles have been extended.
+41,486 (100.0%) of 41,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### தேர்தல் கடமைகளுக்கு 200,000க்கும் மேற்பட்ட அரச ஊழியர்கள்
+
+*2024-08-19 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191419) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் கடமைகளுக்காக 200,000 முதல் 225,000 வரையிலான அரச ஊழியர்கள் ஈடுபடுத்தப்படுவார்கள் என தேசிய தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+நாடளாவிய ரீதியில் 13,000 வாக்களிப்பு நிலையங்களில் வாக்களிப்பு இடம்பெறும். ஜனாதிபதி தேர்தலில் போட்டியிட அனைத்து வேட்பாளர்களுக்கும் சின்னங்கள் ஒதுக்கப்பட்டுள்ளதாக சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a8b7ee66.json)
+
+---
+
+### Youth killed in Jaffna
+
+*2024-08-19 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191424) · `ta`
+
+Tavarasa Raghumathava, 32, from Neerveli, Jaffna, died unexpectedly while working on Sunday. Doctors found him dead upon arrival at Kopay Hospital, citing an unexplained heartache. His body is undergoing anatomical examination, with police confirming its presence at the teaching hospital.
+
+🟩
+
+Tavarasa Raghumathava (age 32) from Neerveli, Jaffna has died.
+
+The doctors said in a statement that he had already died when he went to work on Sunday morning (18) at work, when he was taken to the Kopay Hospital after he said he was suffering from a heartache at the workplace.
+
+Also, the cause of the death toll is unknown, the body is for an anatomical examination. Police said they were kept at the teaching hospital.
+
+◼️
+
+[Data](articles/9008df5f.json)
+
+[Extended Data](ext_articles/9008df5f.ext.json)
+
+---
 
 ### Rangiri Dambulla Rajamaha Viharaya’s Ven. Ambagaswewa Rahula Thero passes away
 
@@ -95,28 +131,6 @@ Meanwhile, the Minister added that a Memorandum of Understanding (MoU) between t
 [Data](articles/41405dad.json)
 
 [Extended Data](ext_articles/41405dad.ext.json)
-
----
-
-### Youth killed in Jaffna
-
-*2024-08-19 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/191424) · `ta`
-
-Tavarasa Raghumathava, 32, from Neerveli, Jaffna, died unexpectedly while working on Sunday. Doctors found him dead upon arrival at Kopay Hospital, citing an unexplained heartache. His body is undergoing anatomical examination, with police confirming its presence at the teaching hospital.
-
-🟩
-
-Tavarasa Raghumathava (age 32) from Neerveli, Jaffna has died.
-
-The doctors said in a statement that he had already died when he went to work on Sunday morning (18) at work, when he was taken to the Kopay Hospital after he said he was suffering from a heartache at the workplace.
-
-Also, the cause of the death toll is unknown, the body is for an anatomical examination. Police said they were kept at the teaching hospital.
-
-◼️
-
-[Data](articles/9008df5f.json)
-
-[Extended Data](ext_articles/9008df5f.ext.json)
 
 ---
 
@@ -2315,23 +2329,5 @@ Accordingly, the Sri Lankan team should win the match for further staying in the
 [Data](articles/bdc8a7ba.json)
 
 [Extended Data](ext_articles/bdc8a7ba.ext.json)
-
----
-
-### Common candidate and upcountry candidate
-
-*2024-08-18 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191382) · `ta`
-
-Ranil, Sajith, Anura, and Namal emerged as key presidential candidates amidst debates. The Tamil common candidate was encouraged to run due to lack of attention towards Tamil issues post-war, affecting both the Tamil community and international relations.
-
-🟩
-
-Although Ranil, Sajith, Anura and Namal were seen as the main candidates, the debate on the presidential election began before the start of the presidential election.. After the war on the problems of Tamils ​​in the North and East, no government was concerned about the issue of the Sinhala political leaders, the Sinhalese community and the international community, the Tamil common candidate was urged to field a presidential election.
-
-◼️
-
-[Data](articles/d02248a2.json)
-
-[Extended Data](ext_articles/d02248a2.ext.json)
 
 ---

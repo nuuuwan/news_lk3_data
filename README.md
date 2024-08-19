@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 12:55:28**
+As of **2024-08-19 13:06:38**
 
 ## Newspaper Stats
 
-*Scraped **41,469** Articles*
+*Scraped **41,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,505
 dailyftlk | 2,676
-adalk | 3,812
+adalk | 3,813
 dailymirrorlk | 4,733
 adaderanalk | 4,852
-tamilmirrorlk | 5,346
+tamilmirrorlk | 5,348
 virakesarilk | 6,575
 adaderanasinhalalk | 7,074
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 7,074
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,467 (100.0%) of 41,469 articles have been extended.
+41,469 (100.0%) of 41,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### ஹரின், மனுஷ நியமனம்: சட்டங்களை மீறும் செயல்
+
+*2024-08-19 12:47:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரின்-மனுஷ-நியமனம்-சட்டங்களை-மீறும்-செயல்/175-342435) · `ta`
+
+முன்னாள் அமைச்சர்களான ஹரின் பெர்னாண்டோ மற்றும் மனுஷ நாணயக்கார ஆகியோரை ஜனாதிபதி ஆலோசகர்களாக நியமித்தமை தேர்தல் சட்டங்களை மீறும் செயலாகும் என தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான  அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+
+தேர்தல் காலத்தில் புதிய நியமனங்களைத் தடுக்கும் வகையில் தேர்தல்கள் ஆணைக்குழு சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளதாகவும், சுற்றறிக்கையை மீறி குறித்த நியமனங்கள் வழங்கப்பட்டுள்ளதாகவும் அவர்  தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க, முன்னைய அமைச்சுக்களின் ஆலோசகர்களாக ஹரீன் மற்றும் மனுஷாவை நியமித்துள்ளதாகவும், இதன் மூலம் இந்த அமைச்சுக்களின் செயற்பாடுகளில் தலையிடுவதற்கும், வாகனங்கள் மற்றும் நிதிகள் போன்ற சலுகைகள் மற்றும் சலுகைகளை பெற்றுக் கொள்வதற்கும் இடமளிப்பதாகவும் அநுர திஸாநாயக்க தெரிவித்தார்.
+
+அகில விராஜ், சாகல ரத்நாயக்க, ஆஷு மாரசிங்க போன்ற ஐக்கிய தேசியக் கட்சியினருக்கு ஆலோசகர்கள் பதவிகள் வழங்கப்பட்டு, நவீன் திஸாநாயக்க ஆளுநராக நியமிக்கப்பட்டுள்ள அரச நிதியினால் முழு ஐ.தே.க முகாமும் மகிழ்விக்கப்படுவதாக அவர் கூறினார்.
+
+...
+
+[Data](articles/afb4559b.json)
+
+---
+
+### ஹரின், மனுஷவுக்கு புதிய நியமனம்
+
+*2024-08-19 12:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரின்-மனுஷவுக்கு-புதிய-நியமனம்/175-342434) · `ta`
+
+முன்னாள் அமைச்சர்களான ஹரின் பெர்னாண்டோ மற்றும் மனுஷ நாணயக்கார ஆகியோர் ஜனாதிபதியின் ஆலோசகர்களாக நியமிக்கப்பட்டுள்ளனர்.
+
+விளையாட்டு, காணி மற்றும் சுற்றுலா விவகாரங்களுக்கான ஆலோசகராக ஹரின் பெர்னாண்டோ நியமிக்கப்பட்டுள்ளதுடன், தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான ஆலோசகராக மனுஷ நாணயக்கார நியமிக்கப்பட்டுள்ளார்.
+
+அரசியலமைப்பின் 41(1) சரத்தின் கீழ் ஜனாதிபதிக்கு   வழங்கப்பட்டுள்ள அதிகாரத்தின் பிரகாரம் இந்த நியமனங்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவால்  வழங்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/d0e21d6a.json)
+
+---
 
 ### Philippines detects first mpox case this year, yet to determine strain
 
@@ -51,6 +85,8 @@ A case of the new variant was confirmed on Thursday in Sweden and linked to a gr
 ...
 
 [Data](articles/b4652ae5.json)
+
+[Extended Data](ext_articles/b4652ae5.ext.json)
 
 ---
 
@@ -73,6 +109,8 @@ He also emphasized that the responsibility to curb such criminal activity lies o
 ◼️
 
 [Data](articles/34989c20.json)
+
+[Extended Data](ext_articles/34989c20.ext.json)
 
 ---
 
@@ -1730,6 +1768,24 @@ However, if these young players are given better exercises and advice, many of t
 
 ---
 
+### අවුරුදු 8කදී දුම්වැටි බිලියන 26ක් අලෙවි කරලා, බදු ආදායම රු.බි. 833
+
+*2024-08-18 19:34:26* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-8කදී-දුම්වැටි-බිලියන-26ක්-අලෙවි-කරලා--බදු-ආදායම-රු-බි--833/11-411439) · `si`
+
+2015 වසරේ සිට 2023 වසර දක්වා මෙරට තුළ දුම්වැටි බිලියන 26.46ක් අළෙවි කර ඇති අතර, එමගින් රුපියල් බිලියන 833.23ක් බදු මුදල් ලෙස රජය විසින් අය කර ගෙන ඇති බව පාර්ලිමේන්තුවේදී අනාවරණය විය.
+
+2015 වසරේ සිට 2023 වසර දක්වා වැඩිම දුම්වැටි තොගයක් අළෙවි කර ඇත්තේ 2015 වසරේ වන අතර, එහිදී දුම්වැටි බිලියන 3.96ක් අළෙවි කර ඇත.
+
+කෙසේ වෙතත් දුම්වැටි බිලියන 2.30ක් අළෙවි කළ 2023 වසරේදී වැඩිම බදු ආදායම රජයට ලැබී ඇති අතර, එහිදී රුපියල් බිලියන 110.81ක් ලැබී ඇත.
+
+මීට අමතරව 2016 වසරේදී දුම්වැටි බිලියන 3.79ක් අළෙවි කර රුපියල් බිලියන 86.06ක්ද, 2017 වසරේදී දුම්වැටි බිලියන 3.15ක් අළෙවි කර රුපියල් බිලියන 88.88ක්ද, 2018 වසරේදී දුම්වැටි බිලියන 3.15ක් අළෙවි කර රුපියල් බිලියන 92.94ක්ද, 2019 වසරේදී දුම්වැටි බිලියන 2.62ක් අළෙවි කර රුපියල් බිලියන 87.55ක්ද, 2020 වසරේදී දුම්වැටි බිලියන 2.29ක් අළෙවි කර රුපියල් බිලියන 90.23ක්ද, 2021 වසරේදී දුම්වැටි බිලියන 2.38ක් අළෙවි කර රුපියල් බිලියන 90.70ක්ද, 2022 වසරේදී දුම්වැටි බිලියන 2.82ක් අළෙවි කර රුපියල් බිලියන 104.81ක්ද රජය විසින් බදු මුදල් ලෙස අය කරගෙන තිබේ.
+
+...
+
+[Data](articles/ab96f8a8.json)
+
+---
+
 ### Sajith meets with the year
 
 *2024-08-18 19:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்டகையுடன்-சஜித்-சந்திப்பு/175-342395) · `ta`
@@ -2233,87 +2289,5 @@ Minister Thondaman stated that accordingly, the CWC will sign an agreement with 
 [Data](articles/4412371d.json)
 
 [Extended Data](ext_articles/4412371d.ext.json)
-
----
-
-### Ranil to support Ceylon Workers Congress
-
-*2024-08-18 17:52:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-කම්කරු-කොංග්‍රසයේ-සහාය-රනිල්ට/11-411432) · `si`
-
-The Ceylon Workers Congress, led by its General Secretary and Minister of Labor Congress, announced support for Ranil Wickremesinghe in the upcoming presidential election. The decision was made after extensive discussions within the party's National Council. Additionally, the council plans to raise plantation workers' salaries and improve land ownership rights over the next two years. This agreement will be formalized between the Ceylon Workers Congress and President Wickremesinghe's office.
-
-🟩
-
-The General Secretary of the Ceylon Workers Congress, Minister of Labor Congress, said that the National Council of the Sri Lanka Institute of Workers Congress was extended today in the presidential election.
-
-Minister Jivan Thondaman was in Hatton held a press conference at Kotagala Lanka Workers' Congress.
-
-Speaking at a press conference, the General Secretary of the party, Minister of Secretary Jivan Thondaman said that the members of the party's national church was a long discussion in the presidential election.
-
-He said that all members of the National Council would have been disclosed to support Ranil Wickremesinghe.
-
-The National Council has decided to increase the salaries of plantation workers for two years, and the National Council has decided to increase the wages of plantation workers and enhance land ownership.
-
-It is to be signed between the Ceylon Workers Congress and Presidential Court of Sri Lanka Ranil Wickremesinghe.
-
-...
-
-[Data](articles/63b1fdb0.json)
-
-[Extended Data](ext_articles/63b1fdb0.ext.json)
-
----
-
-### Import of artland imported agriculture seeds and leaves Sri Lanka
-
-*2024-08-18 17:37:57* · [`adalk`](https://www.ada.lk/picture_story/ෆින්ලන්තයෙන්-කෘෂ්-බීජ-ආනයනය-කර-ඒවා-ලංකාවේ-ජයටම-වවලා/10-411430) · `si`
-
-A major racket involving the importation of agricultural seeds and leaves into Sri Lanka from Artland has been busted in Finland, leading to numerous arrests. The operation, spanning across the Western and Southern Provinces, saw police officers among those detained. A total of 213 individuals were apprehended, with evidence found in a two-story building, including drugs hidden in plastic packaging. The investigation, led by Police Inspector Dynuka Weerasinghe, uncovered a sophisticated operation involving local and international participants, including residents of Maradana, England, and Australia.
-
-🟩
-
-In Finland, a large number of people who were engaged in a racket was arrested with a large number of Rs.Western Province Southern Province says Criminal Division
-
-Police officers have also been arrested by police officers.
-
-The suspects have been taken into custody by the police custody, including 213 different height cubes, which have been drowned in two storied rooms on two upper home plastic packaging with the suspects.
-
-Police say one of the huge tall height of the rash tree is about four feet.
-
-Police Inspector Dynuka Weerasinghe has raided the relevant house in accordance with a resident of the Maharagama resident of Malabe area attached to the Criminal Division of the Western Province.
-
-Accordingly, the two storied house was surrounded by police inspector Dyuka Weerasinghe at the apartment, the police said that the factory was planted in the upper and low-class crops.
-
-...
-
-[Data](articles/2288d531.json)
-
-[Extended Data](ext_articles/2288d531.ext.json)
-
----
-
-### Army summoned to Belarus
-
-*2024-08-18 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200074) · `si`
-
-Belarus and Ukraine have bolstered their military presence along their shared border, with Belarus reporting a significant number of troops near the frontier. This move comes amid escalating tensions, with both countries engaging in military operations.
-
-🟩
-
-International media reports that Belarus and Ukraine have taken steps to increase the military strength of their border.
-
-Belarusia President Alexander Lukashenko said that Ukraine had been placed around 120,000 soldiers near the border.
-
-In the meantime, Lukashenko had said that most of its army were placed in the Ukraine as response to the act of Ukrainian.
-
-The Belarusian trade army is about 48,000 and around 12,000 border.
-
-The Ukrainian army has already commenced a military operation in Russia and the international media says it is an unexpected investination.
-
-◼️
-
-[Data](articles/1e37aff9.json)
-
-[Extended Data](ext_articles/1e37aff9.ext.json)
 
 ---

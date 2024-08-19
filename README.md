@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 19:06:59**
+As of **2024-08-19 19:21:22**
 
 ## Newspaper Stats
 
-*Scraped **41,516** Articles*
+*Scraped **41,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,861
 tamilmirrorlk | 5,354
 virakesarilk | 6,585
-adaderanasinhalalk | 7,085
+adaderanasinhalalk | 7,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,516 (100.0%) of 41,516 articles have been extended.
+41,516 (100.0%) of 41,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### මැතිවරණයෙන් 50% ගන්නා බවට අනුර විශ්වාසයෙන්
+
+*2024-08-19 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200106) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී තමන්ට නිසැක වශයෙන්ම 50% ඉක්මවූ ඡන්ද ප්‍රතිශතයක් ලබාගත හැකි අතර එය ඇතැම්විට සියයට හැට හැත්තෑව දක්වා වුවත් ඉහළ යා හැකි බව ජාතික ජන බලවේගයේ ජනාධිපතිධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+කොළඹදී අද (19) විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ඔහු එම අදහස් පළ කළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජාතික ජන බලවේගයේ ජනාධිපතිධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා,
+
+"රනිල් දැන් කියනවා ආණ්ඩුව ගන්න ආරාධනා කළා ඒ වෙලාවේ අපි හැංගුණා කියලා. රනිල්ගේ තරමට ඔය වගේ දේවල් කිව්වට කමන්නේ නැහැ. හැබැයි ජනාධිපති නිසා ඔය වගේ දේවල් කියන්න එපා. අපි බලය ඉල්ලලා ගෝඨාභයට ලිපියක් යැවුවා. ඒ ලියුම හම්බුණා කියලාවත් පිළිතුරු එව්වේ නැහැ. පාර්ලිමේන්තුවේ ජනාධිපති තෝරපු වෙලාවේ ඉතිං මාව ජනාධිපති කරන්න තිබුණානේ. එයාලා අපිට එහෙම බලය දෙන්නේ නැහැ. අපි කිසිසේත්ම පැනලා ගියේ නැහැ. අපි ලෑස්තියි රට භාරගන්න.
+
+...
+
+[Data](articles/0406e57b.json)
+
+---
 
 ### Sri Lanka’s PMI for July expands on new orders and production
 
@@ -2331,33 +2349,5 @@ During the meeting, Premadasa promised Cardinal Ranjith and the Bishops that he 
 [Data](articles/8b5bdfe9.json)
 
 [Extended Data](ext_articles/8b5bdfe9.ext.json)
-
----
-
-### Two weeks' time for Ariyanendran to explain;Banning from participating in party meetings!- Sumanthiran MP
-
-*2024-08-18 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191393) · `ta`
-
-Ariyanendran, named as the common Tamil candidate, received a two-week ultimatum to explain himself, barring him from party meetings. This action followed a central committee meeting where discussions included potential alliances and strategies to address Sinhala Buddhist chauvinism. Ariyanendran mentioned ongoing dialogues with major candidates, aiming for a Northeast-based solution and preparing a guiding document for voters. The party's stance remains undecided on supporting specific candidates until their manifestos are released.
-
-🟩
-
-Ariyanendran, who has been announced as the common candidate, has been sent a two -week time and has been sent to party meetings and the ban on participating in party meetings has been banned.
-
-He was speaking to the media after a party's central committee meeting held on Sunday (18) at a guest hostel in Vavuniya.. As he further stated,
-
-Pochu is being held with the main candidates. Our basic position is the North -East -combined Samasti -based solution.
-
-We also made a statement on talks with three major candidates and spoken things. They have made some progressive comments. Our final decision will be taken only after their election manifesto is released.
-
-Namal Rajapaksa had come to my house and met. Revealed the things they have. It was aimed at getting serious Sinhala votes.
-
-We also discussed the opportunities for it. Sinhala Buddhist chauvinism in the south is not lifted. We discussed it.
-
-...
-
-[Data](articles/8a67ada8.json)
-
-[Extended Data](ext_articles/8a67ada8.ext.json)
 
 ---

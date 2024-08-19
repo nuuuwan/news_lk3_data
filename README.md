@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 18:56:00**
+As of **2024-08-19 19:06:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,515 (100.0%) of 41,516 articles have been extended.
+41,516 (100.0%) of 41,516 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The services Purchasing Manager’s Index (PMI) indicated a further expansion in
 ...
 
 [Data](articles/e4f9520d.json)
+
+[Extended Data](ext_articles/e4f9520d.ext.json)
 
 ---
 

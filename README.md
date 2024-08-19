@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 03:36:50**
+As of **2024-08-20 03:55:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,566 (100.0%) of 41,567 articles have been extended.
+41,567 (100.0%) of 41,567 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -182,17 +182,27 @@ Sunil G. Wijesinha will be the resource person for this session, who is a well�
 
 ---
 
-### ’90% வேட்பாளர்கள்  போட்டியிடவில்லை’
+### 90% of candidates are not contesting
 
 *2024-08-20 01:56:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/90-வேட்பாளர்கள்-போட்டியிடவில்லை/175-342481) · `ta`
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களில் 90 சத வீதமானவர்கள் வெற்றிக்காக போட்டியிடாமல் வேறு தனிப்பட்ட இலக்குகள் மற்றும் நம்பிக்கைகளுக்காக போட்டியிடுவதாக தேர்தல் கண்காணிப்பு அமைப்புகள் கூறுகின்றன.
+In the upcoming presidential election, 90% of contestants aim for personal gains such as diplomatic roles, increased recognition, and strategic positioning within political parties, rather than securing victory. These candidates include entrepreneurs, current and former MPs, seeking to strengthen their political base or influence elections indirectly. The Election Commissioner notes an increase in candidates per seat, indicating a competitive field.
 
-தூதுவர் பதவிகள் உள்ளிட்ட இராஜதந்திரப் பதவிகளைப் பெறுதல், வெளிநாட்டுப் பயணங்களின் போது அதிக அங்கீகாரம் பெறுதல், ஆளுநர் பதவி, மாநகராட்சித் தலைவர் பதவிகள் உள்ளிட்ட பல்வேறு பதவிகளைப் பெறுதல், அடுத்த பொதுத் தேர்தலில் போட்டியிட பொதுத் தளத்தைத் தயார் செய்தல், அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகளில் நுட்பமாக நுழைந்து பதவிகளைப் பெறுதல், ஊடகங்களில் பிரிந்து செல்வது. நேரிடையாகவோ அல்லது மறைமுகமாகவோ முக்கிய வேட்பாளர்களை ஆதரிப்பது மற்றும் ஊடகங்கள் மூலம் விளம்பரம் பெறுதல் போன்றவை. இந்த வேட்பாளர்கள் ஜனாதிபதி தேர்தலில் போட்டியிடும் நோக்கங்களில் ஒன்றாக இருப்பதாக கண்காணிப்பு அமைப்பின் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+🟩
+
+Election monitoring organizations say that 90 percent of the candidates contesting the presidential election are contesting for other personal goals and beliefs, rather than contesting for victory.
+
+Getting diplomatic positions, including ambassadors, obtaining more recognition during foreign trips, obtaining various positions, including governor's post, corporation chairman, preparing the general base to contest the next general election, entering approved political parties, and separating the media.. Supporting key candidates directly or indirectly, and to advertise through the media. A spokesman for the watchdog said these candidates were one of the aims to contest the presidential election.
+
+He also noted that through his own claim that the purpose of a candidate contesting the presidential election is to gain the strength to get the local government member.
+
+Most of them are entrepreneurs, current MPs and former members.
 
 ...
 
 [Data](articles/af10ae94.json)
+
+[Extended Data](ext_articles/af10ae94.ext.json)
 
 ---
 

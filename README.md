@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 02:55:42**
+As of **2024-08-20 03:06:30**
 
 ## Newspaper Stats
 
-*Scraped **41,565** Articles*
+*Scraped **41,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,687
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
-tamilmirrorlk | 5,364
+tamilmirrorlk | 5,365
 virakesarilk | 6,594
 adaderanasinhalalk | 7,091
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,562 (100.0%) of 41,565 articles have been extended.
+41,565 (100.0%) of 41,566 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ National People’s Power (NPP) leader and Presidential candidate Anura Kumara D
 
 [Data](articles/a4dc2c40.json)
 
+[Extended Data](ext_articles/a4dc2c40.ext.json)
+
 ---
 
 ### PAFFREL raises concerns over alleged election law violations by Govt.
@@ -74,6 +76,8 @@ Speaking to the media, PAFFREL Executive Director Rohana Hettiarachchi stated th
 
 [Data](articles/77746ff2.json)
 
+[Extended Data](ext_articles/77746ff2.ext.json)
+
 ---
 
 ### NPP cries foul over new Presidential Advisers
@@ -89,6 +93,8 @@ Dissanayake also said the appointment will allow them to intervene in the activi
 ...
 
 [Data](articles/1579c223.json)
+
+[Extended Data](ext_articles/1579c223.ext.json)
 
 ---
 
@@ -173,6 +179,18 @@ Sunil G. Wijesinha will be the resource person for this session, who is a well�
 [Data](articles/900b2843.json)
 
 [Extended Data](ext_articles/900b2843.ext.json)
+
+---
+
+### அளுத்கம விகாரையில் நாமல்
+
+*2024-08-20 01:46:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அளுத்கம-விகாரையில்-நாமல்/175-342480) · `ta`
+
+பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்‌ஷ, ஞாயிற்றுக்கிழமை (18) இரவு அளுத்கம வரலாற்று கந்த விகாரையில் வழிபாடு செய்தார். விபுலாசர தேரரை தரிசித்த பின்னர் ஆலய முதல்வர் கொக்கவிட்டவிடம் ஆசிர்வாதம் பெற்றுக் கொண்டார்.
+
+◼️
+
+[Data](articles/0d6ad175.json)
 
 ---
 
@@ -2279,33 +2297,5 @@ Wild elephant died on the spot in the shooting. Police officers have been arrest
 [Data](articles/e5114acd.json)
 
 [Extended Data](ext_articles/e5114acd.ext.json)
-
----
-
-### A port cultivation raided at a two storied house
-
-*2024-08-19 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200092) · `si`
-
-In the Western Province, police raided a two-story house where 174 large cannabis plants were grown, valued at around ten billion rupees. The property, previously used for tea packaging, was rented out. A 25-year-old suspect was arrested during the raid and will be presented to the Kaduwela Magistrate's Court.
-
-🟩
-
-The Western Province of the Western Province has raided the Western District Code of Criminal Division in the UPFA, Western Province.
-
-Police say that nearly 174 massive cannabis plants were cultivated a room in the house.
-
-It is reported that a suspect has been raided at the time of the raid.
-
-The cost of the croad is about ten billion rupees.
-
-It has been reported that the house which had been maintained as a tea packaging institution had been obtained on rent basis.
-
-The suspects are 25 years old and is to be produced before the Kaduwela Magistrate's Court.
-
-◼️
-
-[Data](articles/2c94ea03.json)
-
-[Extended Data](ext_articles/2c94ea03.ext.json)
 
 ---

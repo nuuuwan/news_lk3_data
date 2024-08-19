@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 13:56:15**
+As of **2024-08-19 14:09:00**
 
 ## Newspaper Stats
 
-*Scraped **41,478** Articles*
+*Scraped **41,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,112 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,505
 dailyftlk | 2,676
-adalk | 3,815
+adalk | 3,817
 dailymirrorlk | 4,733
-adaderanalk | 4,852
-tamilmirrorlk | 5,348
+adaderanalk | 4,853
+tamilmirrorlk | 5,350
 virakesarilk | 6,578
-adaderanasinhalalk | 7,075
+adaderanasinhalalk | 7,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,475 (100.0%) of 41,478 articles have been extended.
+41,478 (100.0%) of 41,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### யாழில் வேலைக்கு சென்ற இளைஞன் உயிரிழப்பு
+### A commitment to ‘our people’: Jeevan Thondaman on CWC’s decision to back President Ranil
+
+*2024-08-19 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101346/a-commitment-to-our-people-jeevan-thondaman-on-cwcs-decision-to-back-president-ranil) · `en`
+
+The General Secretary of the Ceylon Workers’ Congress (CWC), Minister Jeevan Thondaman says that the party’s decision to back incumbent President Ranil Wickremesinghe comes as the CWC acknowledges his commitment to uplifting and fully integrating the plantation ‘Malaiyaha’ Tamil community into the social-economic fabric of Sri Lanka.
+
+Posting on ‘X’ (formerly Twitter), the CWC General Secretary highlighted that never before have they seen a leader dedicate so much effort to improving the living conditions and status of plantation ‘Malaiyaha’ Tamil community, which he termed as ‘our people’.
+
+“This decision by the CWC therefore represents the faith that our party, union and our community has in the President and his ability to resolve the issues that matter to us the most”, Thondaman said.
+
+Meanwhile, the Minister added that a Memorandum of Understanding (MoU) between the CWC and President Wickremesinghe, setting out the CWC’s requests, is currently being prepared and will be signed shortly.
+
+...
+
+[Data](articles/41405dad.json)
+
+---
+
+### Youth killed in Jaffna
 
 *2024-08-19 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/191424) · `ta`
 
-யாழ்ப்பாணம், நீர்வேலி பகுதியை சேர்ந்த தவராசா ரகுமாதவா (வயது 32) என்ற இளைஞரே உயிரிழந்துள்ளார்.
+Tavarasa Raghumathava, 32, from Neerveli, Jaffna, died unexpectedly while working on Sunday. Doctors found him dead upon arrival at Kopay Hospital, citing an unexplained heartache. His body is undergoing anatomical examination, with police confirming its presence at the teaching hospital.
 
-வீட்டிலிருந்து நேற்று ஞாயிற்றுக்கிழமை (18) காலை வேலைக்கு சென்ற நிலையில், வேலைத்தளத்தில் நெஞ்சு வலிப்பதாக கூறியதையடுத்து, சக தொழிலாளர்கள் அவரை கோப்பாய் வைத்தியசாலைக்கு அழைத்துச் சென்றவேளை, அவர் ஏற்கனவே உயிரிழந்துவிட்டார் என வைத்தியர்கள் அறிக்கையில் தெரிவித்துள்ளனர்.
+🟩
 
-மேலும், உயிரிழப்புக்கான காரணம் தெரியவராத நிலையில், சடலம் உடற்கூற்று பரிசோதனைக்காக யாழ். போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Tavarasa Raghumathava (age 32) from Neerveli, Jaffna has died.
+
+The doctors said in a statement that he had already died when he went to work on Sunday morning (18) at work, when he was taken to the Kopay Hospital after he said he was suffering from a heartache at the workplace.
+
+Also, the cause of the death toll is unknown, the body is for an anatomical examination. Police said they were kept at the teaching hospital.
 
 ◼️
 
 [Data](articles/9008df5f.json)
+
+[Extended Data](ext_articles/9008df5f.ext.json)
+
+---
+
+### මහ මුහුදේ ගැටුණු චීන - පිලිපීන නෞකා
+
+*2024-08-19 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200095) · `si`
+
+දකුණු මුහුදු චීන සාගර කලාපය මුල්කරගෙන චීනය කලක පටන් කලාපීය රටවල් සමඟ මතගැටුමකට එළැඹ සිටී.
+
+ඒ එම කලාපයට තායිවානය, පිලිපීනය ඇතුළු රටවල් කිහිපයක් ද හිමිකම් කීම හේතුවෙනි.
+
+පිලිපීන සහ චීන වෙරළාරක්ෂක යාත්‍රා දෙකක් එකිනෙක ගැටීමේ පුවතක් අද (19) වාර්තාවූයේ එවන් පසුබිමකදීය.
+
+පිලිපීන යාත්‍රාව හිතාමතාම තම නෞකාවේ ගැටුණු බවට චීනය චෝදනා කරයි.
+
+ඔවුන් පවසන්නේ, පිලිපීන යාත්‍රා තමන්ට අයත් සාගර කලාපයට අනවසරයෙන් ඇතුළු වූ බවය.
+
+◼️
+
+[Data](articles/f34665f7.json)
+
+---
+
+### ගෝඨාභය අපිට ආණ්ඩුව භාර ගන්න කියලා ආරාධනා කළේ නෑ
+
+*2024-08-19 13:32:44* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාභය-අපිට-ආණ්ඩුව-භාර-ගන්න-කියලා-ආරාධනා-කළේ-නෑ/11-411444) · `si`
+
+අරගල සමයේ එවකට ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා හෝ එවකට අග්‍රාමාත්‍ය මහින්ද රාජපක්ෂ මහතා ආණ්ඩුව භාරගන්නා ලෙස ජාතික ජන බලවේගයට ආරාධනයක් නොකල බව ජාතික ජන බලවේගයේ ජනාධිපතිවරණ අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+කොළඹ අද(19දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+ජාතික ජන බලවේගයට ගෝඨාභය හෝ මහින්ද රාජපක්ෂලා ආණ්ඩුව ගන්න ආරාධනා කළේ නෑ. අපි ඒ ගැන පුදුම  වෙන්නෙත් නෑ. අපිට ආරාධනා කරන්නේ නෑ. හිතනවාද රාජපක්ෂලා බඳුනක තියලා අපිට මේක පවරලා දෙයි කියලා. එහෙම දෙන්නේ නෑ.
+
+◼️
+
+[Data](articles/eaaa2a5f.json)
+
+---
+
+### நட்சத்திர ஹோட்டலில் தோட்டா  சிக்கியது
+
+*2024-08-19 13:19:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நட்சத்திர-ஹோட்டலில்-தோட்டா-சிக்கியது/175-342441) · `ta`
+
+கொழும்பில் உள்ள ஐந்து நட்சத்திர ஹோட்டல் ஒன்றின் நுழைவாயிலுக்கு அருகில் உயிருள்ள தோட்டா ஒன்று கண்டுபிடிக்கப்பட்டுள்ளதாக கோட்டை பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஹோட்டல் வளாகத்தை சுத்தம் செய்யும் பணியில் ஈடுபட்டிருந்த ஊழியர் ஒருவர் நுழைவாயிலுக்கு அருகில் உள்ள அரலிய மரத்திற்கு அருகில் உள்ள சுவரின் அடிபகுதியை  சுத்தம் செய்து கொண்டிருந்த போதே இந்த தோட்டா சிக்கியுள்ளது.
+
+பிரமுகர்கள் ஹோட்டலில் வந்து தங்கியிருந்த நிலையில், பாதுகாப்பு அதிகாரிகள் இருந்த இடத்திலேயே இந்த தோட்டா கிடந்துள்ளது என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது என  பொலிஸ் உயர் அதிகாரி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/0b7a6ea8.json)
 
 ---
 
@@ -69,6 +145,24 @@ The injured person has been hospitalized and his condition is serious.
 [Data](articles/5d42fba3.json)
 
 [Extended Data](ext_articles/5d42fba3.ext.json)
+
+---
+
+### விறகு லொறி ரயிலுடன் மோதியதில் ஒருவர் பலி
+
+*2024-08-19 13:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விறகு-லொறி-ரயிலுடன்-மோதியதில்-ஒருவர்-பலி/175-342438) · `ta`
+
+விறகு ஏற்றிச் சென்ற லொறி, ரயிலுடன் மோதியதில் அதில் பயணித்த இருவரில் ஒருவர் உயிரிழந்துள்ளதுடன் மற்றையவர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக கொஸ்கொட பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த சம்பவம், கொஸ்கொட இடுருவா பகுதியில் உள்ள புகையிரத கடவையில் திங்கட்கிழமை (19) பிற்பகல் இடம்பெற்றுள்ளது.
+
+ஐம்பத்தைந்து வயதுடைய நபரொருவரே உயிரிழந்துள்ளதாகவும், அவரும் பலத்த காயமடைந்த நபரும் இடுருவா, மஹா இதுருவா பிரதேசத்தைச் சேர்ந்தவர்கள் எனவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+கொஸ்கொடவில் இருந்து விறகு ஏற்றிச் சென்ற லொறியொன்று காலியிலிருந்து கொழும்பு நோக்கிச் சென்ற ரயிலுடன்  மோதியுள்ளதாக பொலிஸார் மேலும் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/3004cd84.json)
 
 ---
 
@@ -100,23 +194,29 @@ In addition, the company has more than 300 employees and said that there are 25 
 
 ---
 
-### මත්ද්‍රව්‍ය වැටලූ ස්ථානාධිපතිට මරණ තර්ජන
+### Drug-raided OIC threatened with death
 
 *2024-08-19 12:52:50* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-වැටලූ-ස්ථානාධිපතිට-මරණ-තර්ජන/11-411441) · `si`
 
-"අයිස්"මත්ද්‍රව්‍ය වැටලීමක් සම්බන්ධයෙන් උරණවී ඇතැයි විශ්වාස කරන පුද්ගලයකු කිරිබත්ගොඩ පොලිසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයාට දුරකථනයෙන් බැන මරණ තර්ජනය කර ඇතැයි තොරතුරු අනාවරණය වීඇත.
+A drug raid led to threats against the Officer-in-Charge (OIC) of the Kiribathgoda Police Criminal Investigation Division. The OIC was threatened with death after a failed operation to disrupt drug activities, allegedly by a drug dealer overseas. This incident occurred while the OIC was off duty and was reported through a phone call.
 
-අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති වරයා පොලිස් ස්ථානයේ නොමැති අවස්ථාවක පොලිසියේ පොදු දුරකතනයට රාජකාරියේ නිරතව සිටි නිලධාරියාට මෙම දුරකතන ඇමතුම ලැබීමෙන් පසු අදාළ නිලධාරියා දැනුවත් කර ඇත.
+🟩
 
-මෙම පොලිස් නිළධාරියා ඇතුළු කණ්ඩායම දිගින් දිගට මත්ද්‍රව්‍ය වැටලීම් සිදුකරන බවත් මේවා අඩපණ කිරීමට උත්සහයක් දරන බවද කියති.
+It has been revealed that a person believed to bear the 'ice "in the drug raid, it has been revealed that the OIC of the Kiribathgoda Police Criminal Investigation Division has been threatened.
 
-ඉකුත් සතියේ අයිස් මත්ද්‍රව්‍ය වැටලීමක් සම්බන්ධයෙන් තොරතුරු විමසා මෙලෙස මරණ තර්ජනය කර ඇතැයි ද කියති.
+The officer who was working on the telephone call was informed of the telephone call when the OIC of the Criminal Investigation Division was not duties.
 
-දැනට විදේශ ගතව සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුගේ උපදෙස් මත මෙම මරණ තර්ජනය එල්ල කර ඇතැයි විශ්වාස කෙරේ මේ සිද්දිය සම්බන්ධයෙන් පොලිස් නිලධාරීන් දැනුවත් කිරීමටත් විධිමත් පරීක්ෂණයක් කිරීමටත් නියමිතය.
+It is said that the police officer, including the police, will carry out drug raids and attempts to undermine them.
+
+It is said that he has threatened to hear information about an ice drug raiding last week.
+
+The deaths are threatened with the instructions of a drug dealer who is currently abroad.
 
 ◼️
 
 [Data](articles/c0d9d4ec.json)
+
+[Extended Data](ext_articles/c0d9d4ec.ext.json)
 
 ---
 
@@ -2201,115 +2301,5 @@ The Daily Mirror said further information would be announced to our readers when
 [Data](articles/a95fbf6a.json)
 
 [Extended Data](ext_articles/a95fbf6a.ext.json)
-
----
-
-### Man arrested for fire ache
-
-*2024-08-18 18:31:52* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳට-පෙට්‍රල්-දමා-ගිනි-තැබා-මරා-දැමූ-සැමියා-අත්අඩංගුවට/11-411434) · `si`
-
-A man was arrested for allegedly setting fire to his wife, Sundarkiniya, who died from severe burns. The couple lived in Wennappuwa, where Sundarkiniya worked as a housemaid after being accused of theft two years prior. She had a secret affair with a resident of Kochchikade, leading to tensions within the family. The incident occurred when Sundarkiniya attempted to leave the house, resulting in a confrontation and the subsequent fire. Their 14-year-old son witnessed the event. The suspect confessed to the crime and was arrested under the orders of Chief Inspector Thilina Hettiarachchi.
-
-🟩
-
-The mother of 41-year-old coconut is a 41-year-old coconut in the blame on the karagel's petrol burning petrol.
-
-The deceased is a 37-year-old Tangawal Rajalingam Susilla, a 37-year-old resident of a house in a nearby house in general area Wennappuwa.
-
-The deceased has been sent to serve the murder two years ago as a householder in the Murder and had a relationship with a resident of Kochchakeled in the Kochchikade area.
-
-Sundarkiniya has been rented and residents of the coconut in coconut trees and her husband had hired coconut trees.
-
-It is said that his wife has been sent as a householder in the midstrome to recover from the economic situation at home.
-
-The husband of the police have revealed that she had been a secret connection with a resident of Kochchikade, a resident of Kochchikade.
-
-...
-
-[Data](articles/6a8bcaaa.json)
-
-[Extended Data](ext_articles/6a8bcaaa.ext.json)
-
----
-
-### Akuregoda murder suspect arrested
-
-*2024-08-18 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200076) · `si`
-
-In Akirupitiya, a man was murdered with a firearm and a sharp weapon. The suspect, from Koswatta, was arrested in Malabe. The victim, a 45-year-old Thalawathugoda resident, was found decapitated near a local garage.
-
-🟩
-
-A man was killed in a fundamental weapon in Akirupitiya, Aruppitiya, Battaramulla and a sharp weapon.
-
-Accordingly, the suspect has been arrested in Malabe.
-
-Investigations have revealed that the suspect is a resident of Koswatta.
-
-The body of the person who was cut off the neck was found near a garage in the area.
-
-Accordingly, a 45-year-old was a 45-year-old resident of Thalawathugoda, police said.
-
-◼️
-
-[Data](articles/03e92f5c.json)
-
-[Extended Data](ext_articles/03e92f5c.ext.json)
-
----
-
-### Tamil General candidate Pa. Ariyanendran's first election campaign meeting
-
-*2024-08-18 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191380) · `ta`
-
-PA Ariyanendran launched his presidential campaign in Mullaitivu, paying homage at the Mullivaikkal Memorial before addressing supporters at the Vadapalai Senthima Playground. The event featured notable figures like former Northern Provincial Agriculture Minister Kandaya Sivanesan and several MPs and ex-MPs.
-
-🟩
-
-The first election campaign meeting of Tamil general candidate PA Ariyanendran, who is contesting the presidential election, has been inaugurated on the Mullaitivu soil.
-
-Earlier, Mullivaikkal, Tamil general candidate, P. Ariyanendran, who was contesting the presidential election in the Mullivaikkal soil, paid tribute to the Mullivaikkal Memorial and then participated in the first election campaign at the Mullaitivu Vadapalai Senthima Playground.
-
-The meeting will be chaired by former Northern Provincial Agriculture Minister Kandaya Sivanesan, including MPs Dharmalingam Siddharthan, Sellam Adakkalanathan, former MPs Sivasakthi Anandan, former Jaffna Monetry Major Manivannan, Democratic Militant Party leader Venthan, and Paradhakkalakkalakkalakkalakkalakkalakkalakkum.
-
-◼️
-
-[Data](articles/0820c75d.json)
-
-[Extended Data](ext_articles/0820c75d.ext.json)
-
----
-
-### Will  Rajitha Senaratne’s Crossover  Trigger More Defections of MPs From SJB to Ranil’s Side?
-
-*2024-08-18 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84559) · `en`
-
-Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha  Senaratne is the latest among well-known politicians to throw in their lot with incumbent president Ranil Wickremesinghe. The Samagi Jana Balawegaya(SJB) MP for Kalutara district met with the president at the Gangaramaya temple in Colombo on 13 August and signed a memorandum of understanding (MOU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for  21 September 2024.Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
-
-Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports,  Senaratne  had stated  this motivated  him into  supporting  Wickremesinghe’s candidacy.
-
-...
-
-[Data](articles/09d4eecc.json)
-
-[Extended Data](ext_articles/09d4eecc.ext.json)
-
----
-
-### Randoli Perahera of Kandy today
-
-*2024-08-18 18:15:19* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අවසන්-රන්දෝලි-පෙරහර-අද/11-411433) · `si`
-
-The Randoli Perahera, part of the traditional Esala Perahera in Kandy, will parade through various streets including Northern Street, DSDayakanayake Street, Viraluwara, and Rady, concluding at the HS. This event is scheduled for tomorrow (19), showcasing a vibrant display of culture and tradition.
-
-🟩
-
-Randoli Perahera of the historical Esala Perahera of Kandy is due to visit the streets tomorrow (19). The Northern Street, leaving the Yatinuwara Street, to the DSDayakanayake Street to the Street, to the HS, Viraluwara and Rady is to arrive at the HS.
-
-◼️
-
-[Data](articles/1899eede.json)
-
-[Extended Data](ext_articles/1899eede.ext.json)
 
 ---

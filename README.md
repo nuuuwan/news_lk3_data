@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 10:36:34**
+As of **2024-08-19 10:55:09**
 
 ## Newspaper Stats
 
-*Scraped **41,442** Articles*
+*Scraped **41,450** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
-bbccomsinhala | 382
+bbccomsinhala | 383
 colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,504
 dailyftlk | 2,676
-adalk | 3,810
+adalk | 3,811
 dailymirrorlk | 4,733
-adaderanalk | 4,845
-tamilmirrorlk | 5,338
+adaderanalk | 4,846
+tamilmirrorlk | 5,343
 virakesarilk | 6,569
 adaderanasinhalalk | 7,072
 
@@ -26,25 +26,91 @@ adaderanasinhalalk | 7,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,441 (100.0%) of 41,442 articles have been extended.
+41,442 (100.0%) of 41,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### බංග්ලාදේශයේ පාසල් සහ විශ්වවිද්‍යාල විවෘත කිරීමට තීරණයක්
+### எரிபொருள் விலைகள் குறைக்கப்படும்;அநுர
+
+*2024-08-19 10:24:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலைகள்-குறைக்கப்படும்-அநுர/175-342425) · `ta`
+
+எமது அரசாங்கத்தின் கீழ் இலங்கையில் எரிபொருள் விலை குறைக்கப்படும் என தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+
+இலங்கை பெற்றோலியக் கூட்டுத்தாபனம் இலங்கை வங்கி மற்றும் மக்கள் வங்கியில் 3 பில்லியன் டொலர் கடனைப் பெற்றுள்ளதாகவும், அதனை திறைசேரி பொறுப்பேற்றுள்ளதாகவும் அவர் விளக்கினார். இதன் விளைவாக, இந்த கடனை அடைக்க ஒரு லிட்டர் எரிபொருளுக்கு 50 ரூபாய் வீதம் அமல்படுத்தப்பட்டது.
+
+தேர்தல் கூட்டத்தில் உரையாற்றிய திஸாநாயக்க, கடன் கிட்டத்தட்ட முழுமையாக செலுத்தப்பட்டாலும், லிட்டருக்கு 50 ரூபாய் வசூலிப்பது தொடர்ந்து பொதுமக்களுக்கு சுமையாக உள்ளது. NPP அரசாங்கம் ஒரு முழுமையான மறுஆய்வு நடத்தி, அதன்படி எரிபொருள் விலையை குறைக்கும் என்று அவர் உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/e4c5df78.json)
+
+---
+
+### Indian, Sri Lankan canines train in Exercise Mitra Shakti
+
+*2024-08-19 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101339/indian-sri-lankan-canines-train-in-exercise-mitra-shakti) · `en`
+
+The armies of India and Sri Lanka have deployed canines “K9s” in military parlance in the bilateral exercise Mitra Shakti underway in the island nation. The Indian Army has deployed Zac, a Belgian Malinois, while Sri Lanka has fielded two canines. The 10th edition of Exercise Mitra Shakti is being held from August 12-25 at the Army Training School, Maduru Oya, Sri Lanka.
+
+“Two-and-half-year-old Zac is trained in specialised tactical operations such as cordon-and-search, search-and-destroy, fighting in built-up areas, jungle search, and area-sanitisation among others,” an Army official said. It has additionally been trained in specialised skills such as laser-guided assault and weapon retrieval, which greatly augment the “K9 capabilities” of our forces, the official stated.
+
+...
+
+[Data](articles/7f666dd5.json)
+
+---
+
+### Decision to open schools and universities in Bangladesh
 
 *2024-08-19 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200090) · `si`
 
-බංග්ලාදේශයේ වසා දැමුණු පාසල් සහ විශ්වවිද්‍යාල නැවත විවෘත කිරීමට තීරණය කර තිබේ.
+Bangladesh will reopen schools and universities after closing them for a month due to protests. The Ministry of Education announced the decision, which comes after taking steps to shut down educational institutions starting from March 17th.
 
-රැකියා කෝටා ක්‍රමය ප්‍රතිසංස්කරණය කරන ලෙස ඉල්ලා පැවැති උද්ඝෝෂණ සහ ගැටුම් හේතුවෙන් පාසල් සහ විශ්වවිද්‍යාල පසුගිය මස 17 වැනිදා සිට වසා දැමීමට එරට බලධාරීන් පියවර ගෙන තිබුණි.
+🟩
 
-මසකට අධික කාලයකින් පසුව බංග්ලාදේශයේ පාසල් හා විශ්වවිද්‍යාල නැවත විවෘත කරන ලෙස එරට අධ්‍යාපන අමාත්‍යංශය දැනුම් දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+It has been decided to reopen schools and universities closed in Bangladesh.
+
+The authorities have taken steps to close the schools and universities from the 17th of last month due to protests and clashes demanding the reconstruction of the Job Corto.
+
+The Ministry of Education has reportedly informed the resettlement of schools and universities in Bangladesh over a month.
 
 ◼️
 
 [Data](articles/db1d3784.json)
+
+[Extended Data](ext_articles/db1d3784.ext.json)
+
+---
+
+### ரிஷாட் பதியுதீன் ஜனாதிபதிக்கு அவசர கடிதம்
+
+*2024-08-19 10:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிஷாட்-பதியுதீன்-ஜனாதிபதிக்கு-அவசர-கடிதம்/175-342423) · `ta`
+
+வடக்கு, கிழக்கின் அபிவிருத்தித் திட்டங்களுக்கான அரசாங்க நிதி இடைநிறுத்தப்பட்டமை தொடர்பில் அகில இலங்கை மக்கள் காங்கிரஸின் தலைவர் ரிஷாட் பதியுதீன் கேள்வி எழுப்பியுள்ளார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவளிப்பதாக உறுதியளித்ததைத் தொடர்ந்து இந்த நிதி நிறுத்தம் இடம்பெற்றுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு எம்.பி பதியுதீன் எழுதியுள்ள கடிதத்தில் குற்றம் சுமத்தியுள்ளார்.
+
+பிரதேசத்தைச் சேர்ந்த மக்கள், கிராம அபிவிருத்திச் சங்கங்கள், பதிவு செய்யப்பட்ட கழகங்கள், நலன்புரிச் சங்கங்கள் மற்றும் ஏனைய சமூக அடிப்படையிலான அமைப்புக்களின் கோரிக்கைகளை கருத்திற் கொண்டு அபிவிருத்தி நடவடிக்கைகளுக்கு கணிசமான தொகையை ஒதுக்கியமைக்காக எம்.பி பதியுதீன் ஜனாதிபதிக்கு நன்றி தெரிவித்தார்.
+
+எவ்வாறாயினும், அந்த திட்டங்களை உடனடியாக நிறுத்துமாறும், எந்தவொரு நியாயமான காரணமும் இன்றி அந்த ஒதுக்கீட்டை திரும்பப் பெறுமாறும் கடிதங்கள் அனுப்பப்பட்டுள்ளதாக அவர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/8196adbe.json)
+
+---
+
+### ஹரினுக்குப் புதிய பதவி
+
+*2024-08-19 10:00:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரினுக்குப்-புதிய-பதவி/175-342422) · `ta`
+
+சுற்றுலா, காணி, விளையாட்டு மற்றும் இளைஞர் விவகாரம் தொடர்பான ஜனாதிபதியின் விசேட ஆலோசகராக முன்னாள் அமைச்சர் ஹரீன் பெர்னாண்டோ நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் அவருக்குக் கடிதம் மூலம் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6df924f9.json)
 
 ---
 
@@ -91,6 +157,26 @@ She also join the US Department of State Department to connect Sri Lankans with 
 [Data](articles/af6d7c6b.json)
 
 [Extended Data](ext_articles/af6d7c6b.ext.json)
+
+---
+
+### அர்ஜூன் மகேந்திரனை அழைத்து வருவேன்:அநுர
+
+*2024-08-19 09:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-மகேந்திரனை-அழைத்து-வருவேன்-அநுர/175-342421) · `ta`
+
+தாம் ஜனாதிபதியாக பதவியேற்றதன் பின்னர் மத்திய வங்கி மோசடி தொடர்பில் நீதிமன்றினால் சிவப்பு பிடியாணை பிறப்பிக்கப்பட்ட அர்ஜுன மகேந்திரனை இலங்கைக்கு அழைத்து வருவேன் என தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+
+கிரிபத்கொட பிரதேசத்தில் நேற்று (18) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் இதனை கூறியுள்ளார்.
+
+அநுராதபுரத்தில் இடம்பெற்ற மக்கள் சந்திப்பொன்றில் ஜனாதிபதி ரணில் விக்கிரமசிங்க விடுத்துள்ள “அனுர இதற்கு பதில் சொல்லுங்கள்” என தெரிவித்த கருத்துக்கு பதிலளிக்கும் போதே அநுர மேற்கண்டவாறு தெரிவித்தார்.
+
+நான் ஒரு பதில் தருகிறேன். மத்திய வங்கி மோசடி தொடர்பில் நீதிமன்றினால் சிவப்பு பிடியாணை பிறப்பிக்கப்பட்டு சிங்கப்பூருக்கு தப்பிச் சென்ற அர்ஜுன மகேந்திரா இலங்கைக்கு அழைத்து வரப்படுவார்.
+
+மத்திய வங்கிக்கு பொறுப்பான அமைச்சர் ஒருவர், ரணில் விக்கிரமசிங்க தான் இந்த கொடுக்கல் வாங்கலுக்கு ஆலோசனை வழங்கியதாக கோப் குழுவிடம் கூறியிருந்தார். இதையடுத்து அர்ஜுன
+
+...
+
+[Data](articles/067b65a3.json)
 
 ---
 
@@ -326,6 +412,28 @@ The Department of Meteorology has informed the people to take steps to take nece
 
 ---
 
+### ජනාධිපතිවරණය 2024 : ඡන්ද දායකයෙකු ලෙස ඔබ දැනගත යුතු කරුණු
+
+*2024-08-19 03:23:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjw3v6qngleo) · `si`
+
+ශ්‍රී ලංකාවේ ජනාධිපතිවරණයට ආදළ ඡන්ද විමසීම සැප්තැම්බර් 21 වන දාට යෙදී තිබේ.2022 වසරේ රට මුහුණ දුන් බරපතළ ආර්ථික අර්බුදයෙන් පසු පැවැත්වෙන පළමු ජනාධිපතිවරණය මෙය වේ.
+
+මෙම ආර්ථික අර්බුදය ආහාර, ඉන්ධන සහ අනෙකුත් අත්‍යවශ්‍ය ද්‍රව්‍ය හිඟයකට තුඩු දුන් අතර අවසානයේ ශ්‍රී ලංකාව බංකොලොත් රටක් බවට ප්‍රකාශයට පත් කිරීමට ද හේතු විය.
+
+එහිදී, පුළුල් විරෝධතා ඇති වූ අතර, එවකට ජනාධිපති ගෝඨාභය රාජපක්ෂට රටින් පලා ගොස් ධූරයෙන් ඉල්ලා අස්වීමට සිදු විය.
+
+ශ්‍රී ලාංකික පුරවැසියන් ජනාධිපති  මන්දිරය අත්පත් කරගැනීමෙන් ශ්‍රී ලංකාවේ බලවත්ම දේශපාලන රාජ වංශය පෙරළා දැමු හැටි
+
+ශ්‍රී ලංකාවේ ආණ්ඩුව ක්‍රියාත්මක වන්නේ අර්ධ-ජනාධිපති රාමුවක් තුළ වන අතර එහිදී ජනාධිපතිවරයා විසින් පත් කරන ලද අගමැතිවරයෙකු සහ අගමැතිවරයා විසින් යෝජනා කරන ලද කැබිනට් මණ්ඩලයක් සමග වැඩ කරන අතර ජනාධිපතිවරයා විධායක බලයක් දරයි.
+
+මෙවර ජනාධිපතිවරණයට අපේක්ෂකයින් 39 දෙනෙක් තරග වදිති. ශ්‍රී ලංකාවේ වෙසෙන මිලියන 22ක් වන ජනතාවගෙන් මිලියන 17කට ආසන්න සංඛ්‍යාවක් ජනපතිවරයෙකු තෝරා ගැනීමට ඡන්දය භාවිත කිරීමට සුදුසුකම් ලබති.
+
+...
+
+[Data](articles/d3e308c0.json)
+
+---
+
 ### Landslide Red Warning to Kalutara and Ratnapura districts
 
 *2024-08-19 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191396) · `ta`
@@ -483,6 +591,20 @@ We will announce a decision in unity of our party very quickly.If our people wil
 [Data](articles/bfac582a.json)
 
 [Extended Data](ext_articles/bfac582a.ext.json)
+
+---
+
+### ’21/4 தாக்குதலின் உண்மை நிலையை வெளிப்படுத்துவோம்’
+
+*2024-08-19 00:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதலின்-உண்மை-நிலையை-வெளிப்படுத்துவோம்/175-342413) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பாக மக்களின் எதிர்பார்த்துள்ளது போல உண்மை தன்மையை வெளிக் கொணர்வதற்கு தாம் உள்ளிட்ட ஐக்கிய மக்கள் சக்தியும் ஐக்கிய மக்கள் கூட்டணியின்  அனைவரும் தயாராக  இருக்கிறோம். இதற்கான தெளிவான வேலை திட்டங்கள் என்னிடம் இருக்கின்றன.  இது தொடர்பான விடயங்கள்  பாராளுமன்றத்தில் கூட   சமர்ப்பிக்கப்பட்டுள்ளன என்று  எதிர்க்கட்சித் தலைவரும் ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளருமான சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பாக முறையான விசாரணைகள் வெளிப்படைத்தன்மையோடு  இடம் பெற்றதா என்பது குறித்தே இந்த நாட்டில் உள்ள  கத்தோலிக்கர்களுக்கும்  ஒட்டுமொத்த நாட்டு  மக்களும் எதிர்பார்த்திருக்கின்றனர்.  இதன் உண்மைத்தன்மை  வெளிப்படுத்தப்பட்டதா என்பது குறித்தும் சிக்கல் காணப்படுகின்றன. எனவே  இது தொடர்பில் முறையான விசாரணைகளை மேற்கொண்டு, கா்தினல் உள்ளிட்ட கத்தோலிக்க பேரவைக்கு எங்கனமும் தெளிவுபடுத்துவோம் என்று  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+...
+
+[Data](articles/2455ffd5.json)
 
 ---
 
@@ -1203,6 +1325,20 @@ Anura Kumara Dissanayake added that the tax on patients with school books, inclu
 [Data](articles/c194c34a.json)
 
 [Extended Data](ext_articles/c194c34a.ext.json)
+
+---
+
+### කෝටි 618ක් වැය කළ බිම් සවිය පොළොවට ම වැළලී යයි
+
+*2024-08-18 19:14:55* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-618ක්-වැය-කළ-බිම්-සවිය-පොළොවට-ම-වැළලී-යයි/11-411436) · `si`
+
+ඉඩම් අමාත්‍යංශය යටතේ ඉඩම් හිමිකිරීමේ දෙපාර්තමේන්තුවේ ක්‍රියාත්මක වූ බිම් සවිය වැඩසටහනට රජය විසින් රුපියල් කෝටි 618 කට අධික වියදමක් වැය කර ඇතත්. වසර 20කට අධික කාල සීමාවක්  ගත වී ඇති බවත්  එහි ආරම්භක අරමුණ ඉටු කර ගැනීමට රජය අපොහොසත් වී ඇතැයි 17-8 දින නිකුත් කරන ලද නවතම විගණයකින් අනාවරණය වේ.
+
+ඉඩම් හිමිකම් නිරවුල් කිරීමේ අදෙපාර්තමේන්තුවේ 2023 වර්ෂයට අදාළ  කාර්ය සාධන වාර්තාවේ මේ බව සඳහන්වේ. 1998 අංක 21 දරණ හිමිකම් නිරවුල් කිරීමේ පනත සම්මත වීමෙන් අනතුරුව  බිම් සවිය වැඩ සටහන දිවයිනේ දිස්ත්‍රික්ක 03 ක ප්‍රාදේශීය ලේකම් කොට්ඨාශ 03 ක ආරම්භ කර ඇත. එහෙත් 2023 දෙසැම්බර් 31 වන දා වන විට දිස්ත්‍රික්ක 20 ක ප්‍රාදේශීය ලේකම් කොට්ඨාශ 87 ක පමණක් ක්‍රියාත්මක වුවද එය ලංකාවම ආවරණය වන පරිදි ක්‍රියාත්මක කළ හැකි කාල පරාසයක් හා සැලැස්මක්  සකස් කර නොතිබූ බව එම විගණන වාර්තාව මගින් අනාවරණය වේ.
+
+...
+
+[Data](articles/488da491.json)
 
 ---
 
@@ -2113,193 +2249,5 @@ Anura Kumara Dissanayake says that steps will be taken to remove the VAT on food
 [Data](articles/c802a8fe.json)
 
 [Extended Data](ext_articles/c802a8fe.ext.json)
-
----
-
-### A polio patient from the Gaza
-
-*2024-08-18 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200065) · `si`
-
-In Gaza, a 10-month-old infant was diagnosed with polio, 25 years after its last case. This comes amid warnings from the UN about the potential resurgence of the disease due to conflict. The discovery occurred shortly after the start of the war, highlighting the impact of violence on public health.
-
-🟩
-
-Israeli and Hamas have found a polio 25 years after the Gaza.
-
-Palestinian health authorities have said that a 10-month-old infant had been diagnosed with a 10-month old infant.
-
-The United Nations had previously warned that the war could increase the pollio disease again due to the war.
-
-Anthony Patient a few days later, the polio patient was reportedly underlined to commence the war.
-
-◼️
-
-[Data](articles/5c363bd9.json)
-
-[Extended Data](ext_articles/5c363bd9.ext.json)
-
----
-
-### Sri Lanka seeks economic cooperation agreements from Japan to India, aiming for closer integration with India
-
-*2024-08-18 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101325/sri-lanka-seeks-economic-cooperation-agreements-from-japan-to-india-aiming-for-closer-integration-with-india) · `en`
-
-President Ranil Wickremesinghe emphasized the importance of strengthening economic cooperation and regional integration from Japan to India, with a special focus on deepening ties with India. The President made these remarks while addressing the Head of State Session of the 3rd Voice of Global South Summit, held under the theme “An Empowered Global South for a Sustainable Future.”
-
-Speaking from the President’s House in Anuradhapura virtually yesterday (17), President Wickremesinghe highlighted Sri Lanka’s strategic commitment to expanding economic partnerships across Asia, particularly through the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC). The President noted that as the Bay of Bengal region emerges as a hub of economic growth, the significance of BIMSTEC continues to rise. Sri Lanka, as a member, seeks closer economic integration with India and is exploring economic cooperation agreements extending from Japan to India.
-
-...
-
-[Data](articles/b7737554.json)
-
-[Extended Data](ext_articles/b7737554.ext.json)
-
----
-
-### Low water, electrical and fuel prices
-
-*2024-08-18 13:36:08* · [`adalk`](https://www.ada.lk/breaking_news/ජල--විදුලි-හා-ඉන්ධන-මිල-ගණන්-අඩු-කරනවා/11-411428) · `si`
-
-In a speech at a Matara district rally, leaders discussed lowering water, electricity, and fuel prices, exempting certain items like school equipment and medicines from VAT, and reducing VAT on essential food items. They emphasized equal application of laws to all, including politicians, and promised to address high electricity bills and fuel costs. Despite rain, a large crowd attended the event.
-
-🟩
-
-Leader of the National Power and Power Pictures and the president of the National Jones of the National Joneshop of the National Institute of Power and Drugs and VAT will be exempted and school equipment is released from VAT and VAT.) In Matara.
-
-He was speaking at the Matara district propaganda rally of the National Power in the Uyanwatta Contain Matara.
-
-"The privilege is to ask the story of the speech of Dullas' buds."Or we have to be dead.Pannan is over.
-
-Also, everyone is subject to the law. The politicians of the country is not subject to the law of Prasanna Ranatunga today.Not?The law is implementing the law equally.
-
-Also, when the president is coming to Parliament, a Mamage is also known to Rajapakse. They will not be given separate privileges in the villages.
-
-We also do not have the Minister of Cabinet at 25 Cabinet Ministers of the government..Alls grow.
-
-Whatever the dallas, we did not get in politics.
-
-...
-
-[Data](articles/b103987e.json)
-
-[Extended Data](ext_articles/b103987e.ext.json)
-
----
-
-### Sri Lanka personal income tax relief to cost 0.08-pct of GDP
-
-*2024-08-18 13:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-personal-income-tax-relief-to-cost-0-08-pct-of-gdp-177140/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s planned relief to personal income tax payers could cost 0.08 percent of gross domestic product in lost revenues and would be compensated by additional tax measures, Treasury Secretary Mahinda Siriwardana has said.
-
-President Ranil Wickremesinghe said last week that Sri Lanka and the International Monetary Fund has been discussing giving income tax relief by widening tax slabs.
-
-“The Treasury began negotiating such an amendment with the IMF as far back as September 2023,” Siriwardana told a public forum this week.
-
-“It was not possible to implement such a proposal previously given the fact that revenue was falling short of targets.
-
-“However, with the improvement in revenue performance this year, it has become possible to negotiate an adjustment to the PIT (Personal Income Tax) structure which provides some relief to the tax payers in the middle bands, whilst ensuring there isn’t an excessive gain for the highest income earners.
-
-...
-
-[Data](articles/ee494e7c.json)
-
-[Extended Data](ext_articles/ee494e7c.ext.json)
-
----
-
-### President assists Vote in the global voice
-
-*2024-08-18 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200064) · `si`
-
-President Ranil Wickremesinghe highlights the growing significance of BIMSTEC and the Bay of Bengal region, emphasizing India's efforts to enhance its global influence. He mentions Sri Lanka's close economic ties with India and plans for broader economic cooperation across the BIMSTEC nations.
-
-🟩
-
-President Ranil Wickremesinghe says that the importance of the Bimstec (BIMSEC) is now increasing the importance of the Bay of Bengal and the surrounding zone.
-
-The President was speaking at the Presidential Leader in the Anuradhapura President's House from the Presidential Palace in Anuradhapura yesterday (17).
-
-The heads of state have participated in a number of countries under the patronage of Indian Prime Minister Narendra Modi.
-
-The President has pointed out that India's attempt to strengthen the global right to strengthen the global leadership continues to dominate global leadership.
-
-The President has said that Sri Lanka is with a close economic integration of the Bimustek Association with close economic integration with India and to establish economic cooperation contracts from Japan to India.
-
-◼️
-
-[Data](articles/fa0c0cdf.json)
-
-[Extended Data](ext_articles/fa0c0cdf.ext.json)
-
----
-
-### Here are 80 percent of deaths in Sri Lanka
-
-*2024-08-18 13:24:37* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-මරණවලින්-සියයට-80කට-හේතුව-මෙන්න/11-411427) · `si`
-
-In Sri Lanka, non-communicable diseases cause 80% of deaths, highlighting a significant health challenge. The Matale District has formed a committee including various officials and NGOs to address this issue, aiming to develop interventions and programs to combat the problem effectively.
-
-🟩
-
-Non-communicable disease has become one of the leading problems in Sri Lanka and the Matale District Health Services Director Kumahu Bandara says that 80% of Sri Lanka's deaths are caused by the impact of non-communicable diseases.
-
-The Matale District has taken steps to work together in the Matale district to create multilateral intervention in Matale District to face the situation.
-
-The committee is the Director of Matale District Secretary, District Secretaries, District Agriculture, District Director of Education and Sports Officer Disaster Management Assistant, NGO and Multiple OrganizationsThe committee was appointed inclusive.
-
-The committee will be given advice and the instructions required to prepare a program to prepare a program and the necessary facilities are due through the Matale District Secretary to the Matale District Secretary Grandnami.
-
-◼️
-
-[Data](articles/0fc2f6c4.json)
-
-[Extended Data](ext_articles/0fc2f6c4.ext.json)
-
----
-
-### The highest rainfall at Kegalle
-
-*2024-08-18 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200063) · `si`
-
-Kegalle experienced the highest rainfall of 148.5mm due to atmospheric turmoil, causing flooding in areas like Smadeniya and increasing the water level of the Kalu River to a small flood stage.
-
-🟩
-
-Due to the prevailing turmoil in the low-atmosphere around the island, there will be raining in many areas.
-
-The highest rainfall was reported from the Kegalle district while the value was 148.5 millimeters.
-
-Meanwhile, the Department of Irrigation has announced that the Smadeniya, a branishing of the Kalu River, is further flooded from the Milkanda area.
-
-The water level of the Kalu River Kalu River has increased to a small flood from the road.
-
-◼️
-
-[Data](articles/f54f300c.json)
-
-[Extended Data](ext_articles/f54f300c.ext.json)
-
----
-
-### Jackson Anthony’s wife and Mangala Samaraweera’s niece join SJB
-
-*2024-08-18 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101323/jackson-anthonys-wife-and-mangala-samaraweeras-niece-join-sjb) · `en`
-
-Kumari Munasinghe, the wife of veteran actor the late Jackson Anthony, has extended her support for Samagi Jana Balawegaya’s presidential candidate Sajith Premadasa in the 2024 presidential election.
-
-Premadasa has also appointed Kumari Munasinghe as the Gampaha District Organiser of the SJB, after she officially joined the party.
-
-Meanwhile, Chanchala Gunawardena, the niece of the late former minister Mangala Samaraweera, has also joined the SJB to back Sajith Premadasa during the forthcoming presidential poll.
-
-SJB leader and presidential candidate Sajith Premadasa has appointed her to the post of Matara District Organiser of the SJB, after she joined the party.
-
-Gunawardena is the first person from Mangala Samaraweera’s family to enter into politics after the passing of the veteran politician.
-
-◼️
-
-[Data](articles/56b2e659.json)
-
-[Extended Data](ext_articles/56b2e659.ext.json)
 
 ---

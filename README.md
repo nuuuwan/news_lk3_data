@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 23:56:54**
+As of **2024-08-20 00:09:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,546 (100.0%) of 41,547 articles have been extended.
+41,547 (100.0%) of 41,547 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -575,6 +575,8 @@ On 19 August, President Wickremesinghe met Buddhist monks at the stage of his in
 ...
 
 [Data](articles/5459eba0.json)
+
+[Extended Data](ext_articles/5459eba0.ext.json)
 
 ---
 

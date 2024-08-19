@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 15:37:00**
+As of **2024-08-19 15:56:00**
 
 ## Newspaper Stats
 
-*Scraped **41,492** Articles*
+*Scraped **41,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ dailymirrorlk | 4,733
 adaderanalk | 4,855
 tamilmirrorlk | 5,351
 virakesarilk | 6,579
-adaderanasinhalalk | 7,079
+adaderanasinhalalk | 7,080
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,492 (100.0%) of 41,492 articles have been extended.
+41,492 (100.0%) of 41,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### ශ්‍රී ලංකා ජනතා ජාතික පක්ෂයේ සහාය දිලිත්ට
+
+*2024-08-19 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200099) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේදී ශ්‍රී ලංකා ජනතා ජාතික පක්ෂයේ සහාය සර්වජන අපේක්ෂක ව්‍යවසායක, දිලිත් ජයවීර මහතාට ලබා දීමට එම පක්ෂය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/333d3212.json)
+
+---
 
 ### American ship suddenly arrived at the Port of Colombo
 
@@ -2325,27 +2337,5 @@ Anura Kumara Dissanayake added that the tax on patients with school books, inclu
 [Data](articles/c194c34a.json)
 
 [Extended Data](ext_articles/c194c34a.ext.json)
-
----
-
-### 618 million lands would be buried to the earth
-
-*2024-08-18 19:14:55* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-618ක්-වැය-කළ-බිම්-සවිය-පොළොවට-ම-වැළලී-යයි/11-411436) · `si`
-
-Despite significant investment, the Sri Lankan government's Bim Saviya Program, aimed at settling land titles, has made limited progress. Over 20 years, only 31% of targeted areas have been surveyed, with no surveys conducted in 26 divisions by October 2023. Construction has not begun in several districts, and fewer than 59 million land plots have been registered. This shortfall is highlighted in the 2023 Land Title Settlement Application performance report, indicating a need for enhanced efforts to meet goals set by the Title Settlement Act No. 21 of 1998.
-
-🟩
-
-Although the Government has spent Rs.. The latest audit issued by a monthly audit that the government has failed to fulfill over 20 years.
-
-This is stated in the performance report of the Land Title Settlement Application for 2023. Bim Saviya Program has been opened in three divisional secretariats in the country after the passage of Title Settlement Act No. 21 of 1998.. However, as at 87 districts 2023, only 87 Divisional Secretariat Divisions in 20 districts, the audit report reveals that a period of action will be implemented to cover Sri Lanka.
-
-The total budget spent on the Bim Saviya program is Rs. 618,372 million. In 2002, it has passed nearly 21 years since the commencement of the Homagama and Thambuththegama Divisional Secretariat Divisions.The Government has implemented the Bim Saviya Program in 87 Divisional Secretariat and 4728 Grama Niladhari Divisions.
-
-...
-
-[Data](articles/488da491.json)
-
-[Extended Data](ext_articles/488da491.ext.json)
 
 ---

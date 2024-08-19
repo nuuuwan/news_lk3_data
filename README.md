@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 12:36:39**
+As of **2024-08-19 12:55:28**
 
 ## Newspaper Stats
 
-*Scraped **41,467** Articles*
+*Scraped **41,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,505
 dailyftlk | 2,676
 adalk | 3,812
 dailymirrorlk | 4,733
-adaderanalk | 4,850
+adaderanalk | 4,852
 tamilmirrorlk | 5,346
 virakesarilk | 6,575
 adaderanasinhalalk | 7,074
@@ -26,63 +26,125 @@ adaderanasinhalalk | 7,074
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,460 (100.0%) of 41,467 articles have been extended.
+41,467 (100.0%) of 41,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### கடற்படையின் வெள்ள நிவாரணக் குழு பரகொடவுக்கு அனுப்பி வைப்பு
+### Philippines detects first mpox case this year, yet to determine strain
+
+*2024-08-19 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101345/-philippines-detects-first-mpox-case-this-year-yet-to-determine-strain) · `en`
+
+The Philippines has detected a new case of the mpox virus in the country, the first since December last year, its health department said on Monday, adding it was awaiting test results before being able to determine the strain.
+
+The patient was a 33-year-old Filipino male who had no travel history outside the Philippines, the Department of Health (DOH) said.
+
+“We are awaiting sequencing results and will update once available,” its spokesperson Albert Domingo said when asked about the strain.
+
+The World Health Organization on Wednesday declared mpox a global public health emergency, its highest form of alert, following an outbreak in the Democratic Republic of Congo that had spread to neighbouring countries.
+
+A new form of the virus has triggered global concern as it seems to spread easily though routine close contact.
+
+A case of the new variant was confirmed on Thursday in Sweden and linked to a growing outbreak in Africa, the first sign of its spread outside the continent.
+
+...
+
+[Data](articles/b4652ae5.json)
+
+---
+
+### ‘No one above the law’: Anura Kumara promises a safe, just Sri Lanka
+
+*2024-08-19 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101344/no-one-above-the-law-anura-kumara-promises-a-safe-just-sri-lanka) · `en`
+
+The Leader of the National People’s Power (NPP) and presidential candidate Anura Kumara Dissanayake says that they will create a country where the law and order is equally applied for everyone, under their government.
+
+Addressing a public rally in the Kolonnawa area, Dissanayake stated that the need to create a country where everyone can live in freedom has now arisen.
+
+Furthermore, he stressed that if the people do not make that political decision, then the country and every life will always be unsafe.
+
+“Who can give a certification about that? Someone attends the opening of a saloon and was shot dead. What is this? Do we need a country like this?”, the NPP leader questioned.
+
+He also emphasized that the responsibility to curb such criminal activity lies on the hands of the government, adding that “we are fully prepared to take over that duty.”
+
+“Everyone is equal before the law. No one is above the law. It will equally apply for me, you and everyone else”, Dissanayake added.
+
+◼️
+
+[Data](articles/34989c20.json)
+
+---
+
+### Navy's Flood Relief Committee sent to Paragoda
 
 *2024-08-19 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191415) · `ta`
 
-நாட்டில் நிலவும் சீரற்ற வானிலையால் களுத்துறை மாவட்டத்தின் பரகொட  பகுதிக்கு  நிவாரண நடவடிக்கைகளுக்கு குழுவொன்று அனுப்பப்பட்டுள்ளது.
+A committee from the Navy's Flood Relief was dispatched to Paragoda in the Kalutara district due to severe weather causing floods. The team began relief efforts on Monday, aiming to assist those affected by the disaster.
 
-அதன்படி, களுத்துறை மாவட்டத்தின் புளத்சிங்கள பிரதேசத்தில் வெள்ளம் ஏற்பட்டுள்ளதால் பொதுமக்களுக்கு நிவாரணம் வழங்குவதற்காக வெள்ள நிவாரணக் குழு பரகொட பகுதிக்கு அனுப்பப்பட்டுள்ளது.
+🟩
 
-இன்று திங்கட்கிழமை (19) பரகொடவில் வெள்ள நிவாரணப் பணிகளில் நிவாரணக் குழுவினர் ஈடுபட்டுள்ளனர்.
+Due to the inclement weather in the country, a committee has been sent to relief measures to the Paragoda area of ​​the Kalutara district.
 
-மேலும், வெள்ளத்தினால் பாதிக்கப்பட்ட மக்களுக்கான அவசர உதவி நடவடிக்கைகளை முன்னெடுக்க இலங்கை கடற்படையின் நிவாரண குழுக்கள் தயார் நிலையில் வைக்கப்பட்டுள்ளன.
+Accordingly, the floods in the Kalutara district have been sent to the Paragoda area to provide relief to the public due to flooding.
+
+The relief team is engaged in flood relief work in Paragoda on Monday (19).
+
+In addition, the Sri Lanka Navy's relief committees have been prepared to carry out emergency assistance for the flood affected people.
 
 ◼️
 
 [Data](articles/ba3e788f.json)
 
+[Extended Data](ext_articles/ba3e788f.ext.json)
+
 ---
 
-### குரங்கம்மை நோய் பரவல் குறித்து இலங்கை விழிப்புடன் உள்ளது - சுகாதார அதிகாரிகள்
+### Sri Lanka is aware of the spread of the disease - health officials
 
 *2024-08-19 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/191408) · `ta`
 
-உலகளாவிய ரீதியில் குரங்கம்மை நோய் பரவல் அதிகரித்துள்ளமையினால் இலங்கையானது நோய் தொடர்பில் விழிப்புணர்வை அதிகரித்துள்ளதாக சுகாதார அதிகாரிகள் தெரிவிக்கின்றனர்.
+Sri Lanka is ramping up awareness about a global disease, now classified as an international health concern by the WHO. While the exact number of cases isn't disclosed, heightened surveillance at entry points is reducing its spread, minimizing its impact.
 
-குரங்கம்மை நோயை  சர்வதேச சுகாதார அவசர நிலையாக உலக சுகாதார ஸ்தாபனம் பிரகடனம் செய்துள்ளது.
+🟩
 
-குரம்மை நோய் தொற்றினால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை அதிகளாவாக பதிவாக வில்லை.  தற்காலிக முன்னெச்சரிக்கை நடவடிக்கைகள் செயலில் இருப்பதால்  நோய்  தாக்கம் தொடர்பில்  அச்சுறுத்தல் குறைவாக உள்ளது.
+Health officials say that Sri Lanka has increased awareness on the disease due to the increasing spread of the disease globally.
 
-பல நாடுகளில் பாதிக்கப்பட்டவர்களின்  எண்ணிக்கை குறிப்பிடத்தக்களவு  அதிகரித்துள்ளமையினால் விமான நிலையங்கள் மற்றும் துறைமுகங்களில் கண்காணிப்பு  நடடிவடிக்கைகளை  அதிகரிக்க திட்டமிடப்பட்டுள்ளது.
+The World Health Organization has declared the disease as an international health state.
+
+The number of victims of the infection was not reported.The threat to the impact of the disease is minimal because temporary precautions are active.
+
+The number of victims in many countries has increased due to a significant increase in surveillance at airports and ports.
 
 ◼️
 
 [Data](articles/d2fc961e.json)
 
+[Extended Data](ext_articles/d2fc961e.ext.json)
+
 ---
 
-### மூன்று பொலிஸார் இடைநிறுத்தம்
+### Three police suspended
 
 *2024-08-19 11:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-பொலிஸார்-இடைநிறுத்தம்/175-342431) · `ta`
 
-பக்கமூன பிரதேசத்தில் காட்டு யானை உயிரிழந்த சம்பவத்துடன் தொடர்புடைய மூன்று பொலிஸ் உத்தியோகத்தர்கள் சேவையில் இருந்து இடைநிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Three police officers, including a surgeon and two constables, have been suspended after fatally shooting a wild elephant in Sri Lanka's Pakamuna region last week. The incident, which occurred on August 15, led to the elephant's immediate death. Regional wildlife officials have since arrested the officers involved.
 
-ஒரு பொலிஸ் சர்ஜென்ட் மற்றும் இரண்டு கான்ஸ்டபிள்கள் ஆகியோரே இவ்வாறு இடைநிறுத்தம் செய்யப்பட்டுள்ளதாக பொலன்னறுவை சிரேஷ்ட பொலிஸ் அதிகாரிகள் அலுவலகம் தெரிவித்துள்ளது.
+🟩
 
-கடந்த வாரம் (ஓகஸ்ட் 15) இரவு ரோந்துப் பணியில் ஈடுபட்டிருந்த பொலிஸ் அதிகாரிகள் குறித்த காட்டு யானை மீது துப்பாக்கிச் சூடு நடத்தினர்.
+Three police officers in connection with the death of a wild elephant in the Pakamuna area have been suspended.
 
-துப்பாக்கிச் சூட்டில் காட்டு யானை சம்பவ இடத்திலேயே உயிரிழந்தது. யானையின் மரணம் தொடர்பில் குறித்த பொலிஸ் உத்தியோகத்தர்கள் பிரதேச வனவிலங்கு அதிகாரிகளால் கைது செய்யப்பட்டனர்.
+A police surgeon and two constables have been suspended, according to the office of the Senior Police Officers of the Polonnaruwa.
+
+Last week (August 15), police officers who were on patrol were fired at a wild elephant.
+
+Wild elephant died on the spot in the shooting. Police officers have been arrested by regional wildlife officials in connection with the death of the elephant.
 
 ◼️
 
 [Data](articles/390a208e.json)
+
+[Extended Data](ext_articles/390a208e.ext.json)
 
 ---
 
@@ -230,19 +292,25 @@ He made these remarks during his visit to the Tissamaharama Raja Maha Viharaya t
 
 ---
 
-### உலக புகைப்பட தினம்
+### World Photo Day
 
 *2024-08-19 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191414) · `ta`
 
-ஆயிரம்  வார்த்தைகளால் சொல்ல முடியாத தகவலை  புகைப்படமானது ஒரு நொடிப் பொழுதிலே  பேசிவிட்டு செல்கிறது. ஒரு சிறந்த  புகைப்படவியல் என்பது பார்வையாளரின் மனங்களில் ஊடுருவி தாக்கத்தை ஏற்படுத்துவதாக இருக்க வேண்டும்.
+World Photo Day, celebrated on August 19, honors the power of photography to convey more than words can. Originating in the 19th century with pioneers like Louis Daguerre and Louis Jacques Mandé Daguerre, who captured the first photos, photography evolved to become a vital tool in journalism, advertising, and art. It uses light, both natural and artificial, to evoke emotions, particularly during the "Golden Hour," the optimal time for capturing stunning images. Today, photography continues to influence various mediums, including cinema and television, showcasing its universal appeal and impact.
 
-உலகப் புகைப்பட தினம் ஆகஸ்ட் 19ஆம் திகதி கொண்டாடப்படுகின்றது. இது புகைப்படத்தின் முக்கியத்துவம் மற்றும் புகைப்படக் கலைஞர்களின் பங்களிப்பைக் கொண்டாடும் நாளாகும்.
+🟩
 
-19 ஆம் நூற்றாண்டின் பெருமை  அல்லது சாதனையை ஆரம்பத்திலே லூயிஸ் டாகுவேரே என்பவரினால் "டாகுரி யோடைப்" என புகைப்படத்தின் செயல் பாட்டு முறையை வடிவமைத்தார். பின்னர் 1839 ஆம் ஆண்டு லூயிஸ் டாகுரே பாரிஸில் உள்ள போல்வர்கு  கோயிலை அருகில் உள்ள தெருவை புகைப்படமாக எடுத்தார்.இதுவே தனிநபரினால் எடுக்கப்பட்ட முதல் புகைப்படமாக கருதப்படுகிறது.
+The photo is talking about a thousand words that cannot be said in a moment. A great photography should be an impact on the viewer's minds.
+
+World Photo Day is celebrated on August 19. This is the day that celebrates the importance of the photo and the contribution of the photographers.
+
+The 19th century's pride or achievement was designed by Louis Daguere, "Dakuri Jodhup".. Later in 1839, Louis Taxure took a photo of the Bolwark Temple in Paris. This is considered the first photo taken by the individual.
 
 ...
 
 [Data](articles/fb00a182.json)
+
+[Extended Data](ext_articles/fb00a182.ext.json)
 
 ---
 
@@ -266,19 +334,25 @@ The Election Commission further says that the use of any religious symbols for e
 
 ---
 
-### யாழ். கடலில் 100 அடி ஆழத்தில் கடலட்டை பிடித்துக்கொண்டிருந்தவர் உயிரிழப்பு
+### Yall. The man who was holding the sea at a depth of 100 feet in the sea
 
 *2024-08-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191410) · `ta`
 
-யாழ்ப்பாண கடலில் சுமார் 100 அடி ஆழத்தில் கடலட்டை பிடித்துக்கொண்டிருந்த நபர் திடீரென நெஞ்சு வலி ஏற்பட்டு உயிரிழந்துள்ளார்.
+A diver died unexpectedly near Vadamarachchi East after surfacing from a depth of about 100 feet in the Jaffna Sea, experiencing chest pain. He was initially treated at Point Pedro Hospital before being transferred to Jaffna Bodhana Hospital.
 
-வடமராட்சி கிழக்கு, நாகர்கோவில் கடற்பகுதியில் சிலிண்டரை பயன்படுத்தி சுமார் 100 அடி ஆழத்தில் கடலட்டை பிடித்துக்கொண்டிருந்த வேளை, நெஞ்சு வலிப்பதாக கூறி, கடலின் மேல் பகுதிக்கு வந்துள்ளார்.
+🟩
 
-அதனை அடுத்து சக தொழிலாளிகள் அவரை பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதித்த நிலையில், அங்கிருந்து யாழ்.போதனா வைத்தியசாலைக்கு கொண்டு சென்ற வேளை அவர் உயிரிழந்துள்ளார்.
+A man who was holding a sea of ​​seaweed at a depth of about 100 feet in the Jaffna Sea died suddenly.
+
+Vadamarachchi East, using a cylinder in Nagercoil in Nagercoil, has come to the upper part of the sea, claiming to be a chest pain, while holding the sea at a depth of about 100 feet.
+
+He was later taken to the Point Pedro Hospital, where he was taken to the Jaffna Bodhana Hospital.
 
 ◼️
 
 [Data](articles/8ada838a.json)
+
+[Extended Data](ext_articles/8ada838a.ext.json)
 
 ---
 
@@ -320,19 +394,27 @@ The armies of India and Sri Lanka have deployed canines “K9s” in military pa
 
 ---
 
-### அகில இலங்கை மக்கள் காங்கிரஸ் கட்சியின் அரசியல் அதிகார பீடம் ,உயர்பீட உறுப்பினர்களுக்கும் ஜனாதிபதி வேட்பாளரான சஜித் பிரேமதாசவிற்கும் இடையில் சந்திப்பு
+### All Ceylon Peoples Congress Party's Political Power
 
 *2024-08-19 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191406) · `ta`
 
-அகில இலங்கை மக்கள் காங்கிரஸ் கட்சியின் அரசியல் அதிகார பீடம் மற்றும் உயர்பீட உறுப்பினர்களுக்கும், 2024 ஆம் ஆண்டு ஜனாதிபதி தேர்தலில் ஐக்கிய மக்கள் சக்தியினதும் ஐக்கிய மக்கள் கூட்டணியினதும் வேட்பாளராக போட்டியிடும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிற்கும் இடையிலான சினேகபூர்வ இராபோசன விருந்துபசார வைபவமொன்று கட்சியின் தலைவர் ரிஷாட் பதியுதீன் தலைமையில் சனிக்கிழமை (17) இரவு கொழும்பு கொள்ளுபிடி மென்டரின் ஹோட்டலில் இடம்பெற்றது.
+The All Ceylon Peoples Congress Party gathered at a hotel, led by Rishad Bathiudeen, to discuss the upcoming 2024 presidential election. The event saw the presence of opposition leader Sajith Premadasa from the United People's Alliance (UPFA), along with other high-ranking members. Discussions focused on the campaign strategies and current political challenges.
 
-இந்நிகழ்வில் அகில அகில இலங்கை மக்கள் காங்கிரஸ் கட்சியின் நாடளாவிய ரீதியிலான அதன் அரசியல் அதிகார பீட மற்றும் உயர்பீட உறுப்பினர்கள் கலந்து கொண்டனர்.
+🟩
 
-இந்நிகழ்வில், ஜனாதிபதி வேட்பாளர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுடன் ஐக்கிய மக்கள் சக்தியின் தவிசாளரும் பாராளுமன்ற உறுப்பினருமான இம்தியாஸ் பாக்கீர் மாக்கார், ஜனாதிபதி தேர்தல் செயற்பாட்டுப் பிரதானி சட்டத்தரணி சுஜீவ சேனசிங்க மற்றும் லக்‌ஷ்மன் பென்சேகா ஆகியோர் கலந்து கொண்டிருந்தனர்.
+The All Ceylon Peoples Congress Party's political power and high -ranking members were held at the Hotel on Saturday (17) at the Hotel, headed by the party leader Rishad Bathiudeen, a Snehakkal Robosana party between the opposition leader Sajith Premadasa, who is the candidate of the United People's Alliance (UPFA) and the United People's Alliance in the 2024 presidential election.
 
-...
+The event was attended by its political power and high -ranking members of the All India People's Congress Party.
+
+Presidential candidate Sajith Premadasa was also present at the event with United People's Power Chairman and Member of Parliament Imtiaz Bakir Makar, President of the Presidential Elections Program, Sujeewa Senasinghe and Lakshman Benska.
+
+The Presidential candidate Sajith Premadasa and the political power and high -ranking members have been a long timely discussion on the presidential election campaigns and the contemporary political issues of the country.
+
+◼️
 
 [Data](articles/0ead3999.json)
+
+[Extended Data](ext_articles/0ead3999.ext.json)
 
 ---
 
@@ -550,19 +632,27 @@ The Elections Commission says that the use of religious symbols for propaganda i
 
 ---
 
-### தேசிய முக்கியத்துவம் கருதியே ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க தீர்மானித்தேன் - நிஷாந்த ஸ்ரீ வர்ணசிங்க
+### I decided to support Ranil Wickremesinghe in view of national importance - Nishantha Sri Warnasinghe
 
 *2024-08-19 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191384) · `ta`
 
-ஜாதிக்க ஹெல உறுமய தலைமை எந்த தீர்மானம் எடுத்தாலும் தேசிய தேவை கருதி ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க தீர்மானித்தேன். வெற்றிபெறுவது எந்த பக்கமாக இருந்தாலும் சரியான பக்கத்தையே நான் தெரிவு செய்தேன் என ஐக்கிய தேசிய கட்சியில் புதிதாக இணைந்துகொண்ட ஜாதிக்க ஹெல உறுமயவின் முன்னாள் பிரதித் தலைவர் நிஷாந்த ஸ்ரீ வர்ணசிங்க தெரிவித்தார்.
+Nishantha Sri Warnasinghe, former deputy leader of the Jathika Hela Urumaya (JHU), announced his support for Ranil Wickremesinghe due to national necessity, highlighting Wickremesinghe's ability to stabilize the country post-Gotabhaya Rajapakse's resignation. Warnasinghe praised Wickremesinghe's leadership and decision-making, emphasizing his commitment to the nation's progress. This move comes after the JHU's decision to back Wickremesinghe based on national needs, with Warnasinghe joining the United National Party.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் ஞாயிறுக்கிழமை (18) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-கோத்தாபய ராஜபக்ஷ் ஜனாதிபதி பதவியை துறந்தபோது, ரணில் விக்ரமசிங்க பாராளுமன்றத்தில் ஒரு ஆசனத்தை மாத்திரம் வைத்துக்கொண்டு, அந்த பொறுப்பை ஏற்றுக்கொண்டு, நாட்டை ஸ்திர நிலைக்கு கொண்டுவந்துள்ளார். இக்கட்டான நிலையில் நாட்டை பொறுப்பேற்று ஸ்திர நிலைக்கு கொண்டுவர அவர் எடுத்த நடவடிக்கையை நாங்கள் பார்த்தோம்.
+The Jathika Hela Urumaya (JHU) decided to support Ranil Wickremesinghe for a national need for any decision. "I have chosen the right side of the victory," said Nishantha Sri Warnasinghe, the former deputy leader of the Jathika Hela Urumaya (JHU), who joined the United National Party.
+
+He was speaking at a press conference held on Sunday (18) at the UNP headquarters.
+
+When Gotabhaya Rajapakse resigned the presidency, Ranil Wickremesinghe kept a seat in parliament and accepted the responsibility and brought the country to stability.. We have seen his move to take responsibility for the country in a predicament.
+
+I had the hope that he was talented and he could. So I praised him from the beginning for his actions to bring the country to the forefront. There are many issues I have posted on Ranil Wickremesinghe on a few resolutions.
 
 ...
 
 [Data](articles/a1f4fc2b.json)
+
+[Extended Data](ext_articles/a1f4fc2b.ext.json)
 
 ---
 
@@ -2225,55 +2315,5 @@ The Ukrainian army has already commenced a military operation in Russia and the 
 [Data](articles/1e37aff9.json)
 
 [Extended Data](ext_articles/1e37aff9.ext.json)
-
----
-
-### President to support Sri Lanka Workers Congress
-
-*2024-08-18 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200073) · `si`
-
-The UNP's National Council has endorsed Ranil Wickremesinghe for president, with the Ceylon Workers Congress set to join forces with him. This decision was announced by Jeewav Thondaman, the General Secretary of the Congress, at a press conference.
-
-🟩
-
-The National Council of the UNP (UNP) has decided to hand over the President of the Ceylon Workers Congress in the presidential election.
-
-The General Secretary of the Congress Jeewav Thondaman has revealed this at a press conference held at the Kotagala Lanka Labor Congress headquarters.
-
-All members of the National Council have been unanimously decided to support Mr. Ranil Wickremesinghe.
-
-Accordingly, the Ceylon Workers Congress and Ranil Wickremesinghe will be signed in the future.
-
-◼️
-
-[Data](articles/302ffb17.json)
-
-[Extended Data](ext_articles/302ffb17.ext.json)
-
----
-
-### Heavy rains in many areas
-
-*2024-08-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200072) · `si`
-
-Heavy rains and thundershowers expected across Western, Sabaragamuwa, Northwestern provinces, and in Galle and Matara districts, potentially exceeding 75mm. Showers likely in the evening or night elsewhere. Strong winds possible in Central Mountains and Hambantota district. Authorities advise caution to mitigate risks from storms, winds, and landslides.
-
-🟩
-
-Thundershowers showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces.
-
-Some areas in the Western and Sabaragamuwa Province and in Galle and Matara districts are mm mm mm.. Heavy rains can occur at more than 75.
-
-Showers or thundershowers will occur at the evening or night in the rest of the island.
-
-From time to time in the Central Mountains and in the Hambantota district, in Hambantota district.. Strong winds can cause about 30-40 times.
-
-The Meteorologies have informed the people to take necessary steps to reduce the temporary winds and landslides caused by thunderstorms.
-
-◼️
-
-[Data](articles/812f175d.json)
-
-[Extended Data](ext_articles/812f175d.ext.json)
 
 ---

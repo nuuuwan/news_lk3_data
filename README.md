@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 20:36:49**
+As of **2024-08-19 20:55:53**
 
 ## Newspaper Stats
 
-*Scraped **41,531** Articles*
+*Scraped **41,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,505
 dailyftlk | 2,676
 adalk | 3,824
 dailymirrorlk | 4,733
-adaderanalk | 4,862
+adaderanalk | 4,863
 tamilmirrorlk | 5,354
 virakesarilk | 6,591
 adaderanasinhalalk | 7,090
@@ -26,41 +26,65 @@ adaderanasinhalalk | 7,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,527 (100.0%) of 41,531 articles have been extended.
+41,531 (100.0%) of 41,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### ඡන්ද දායකයෙකු වෙනුවෙන් වියදම් කළ හැකි උපරිම මුදල
+### Maximum amount that can be spent on a voter
 
 *2024-08-19 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200110) · `si`
 
-මැතිවරණ ප්‍රචාරක කටයුතු සඳහා ජනාධිපති අපේක්ෂයෙකු එක් ඡන්ද දායකයෙකු සඳහා වියදම් කළ හැකි උපරිම මුදල සඳහන් කරමින් අද රාත්‍රියේදී ගැසට් නිවේදනයක් නිකුත්කරන බව මැතිවරණ කොමිසම පවසයි.
+The Elections Commission limits campaign spending per voter to Rs. 109 for presidential candidates.
 
-ඒ අනුව, එක් ඡන්ද දායකයෙකු සඳහා වියදම් කළ හැකි මුදල වන්නේ රුපියල් 109කි.
+🟩
+
+The Elections Commission says that a presidential candidate for election propaganda is the maximum amount that can be spent on a voter.
+
+Accordingly, the amount that cost one voter is Rs. 109.
 
 ◼️
 
 [Data](articles/189ecf96.json)
 
+[Extended Data](ext_articles/189ecf96.ext.json)
+
 ---
 
-### ප්‍රසංග හා සැණකෙළිවලට අවසර නොදිමෙන් විශාල පිරිසක් පිඩාවට
+### Presidential election spending limit to be gazetted
+
+*2024-08-19 20:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101358/presidential-election-spending-limit-to-be-gazetted-) · `en`
+
+A Gazette notification will be issued tonight stipulating Rs. 109.00 as the maximum amount that a Presidential Candidate can spend on each voter during their election campaigns, the Commissioner General of Elections Saman Sri Ratnayake said.
+
+◼️
+
+[Data](articles/7e120bc9.json)
+
+---
+
+### A large number of people in concerting and carnival
 
 *2024-08-19 20:09:27* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසංග-හා-සැණකෙළිවලට-අවසර-නොදිමෙන්-විශාල-පිරිසක්-පිඩාවට/11-411448) · `si`
 
-මැතිවරණය අවසන් වනතුරු ප්‍රසංග හා සැණකෙළි පැවැත්වීමට පොලිසිය අවසර නොදීම හේතුවෙන් රට පුරා ප්‍රසංග සංවිධායකවරුන් තුන්දහසකට ආසන්න පිරිසක්ද,  මෙම කර්මාන්තය මත යැපෙන ගායක ගායිකාවන්, සංගීත ශිල්පීන්, වේදිකා නිර්මාණකරුවන් සහ වෙළෙඳුන් ඇතුළු ලක්ෂයකට ආසන්න පිරිසක් දැඩි දුෂ්කරතාවයට පත්ව තිබෙන බව ඔවුහු ප්‍රකාශ කරති.
+Due to election-related restrictions, thousands of concert organizers nationwide face significant challenges, impacting over 20 events across Sri Lanka. The Chairman of the Sri Lanka Concerting Carnival Organizers criticizes the decision, arguing it unfairly disrupts people's livelihoods and calls for immediate relaxation of restrictions on entertainment events.
 
-ශ්‍රී ලංකා ප්‍රසංග සැණකෙළි සංවිධායකවරුන් සහ සම්බන්ධීකාරකවරුන්ගේ ඒකාබද්ධ සංගමයේ සභාපති දිනේෂ් ආතාවුද මහතා රජයේ මේ තීරණය හේතුවෙන් දිවයිනේ විවිධ ප්‍රදේශවල කල් තියා සූදානම් කර තිබූ සැණකෙළි සහ ප්‍රසංග විස්සකට වැඩි ප්‍රමාණයක් නතර කිරීමට සිදුවූ බව ප්‍රකාශ කරයි.
+🟩
 
-මැතිවරණයක් පැවැත්වෙන්නේ යැයි පවසමින් ජන ජීවිතයේ අනෙකුත් කටයුතුවලට බාධා කිරීම නොකළ යුතු බවත් කලා කටයුතු ජීවන වෘත්තියක් කරගෙන කටයුතු කරන වෘත්තකයන් වෙනුවෙන් මේ ඉතා අසාධාරණ තීරණයක් බව ද ඔහු පෙන්වා දෙයි.
+Nearly three,000 concert organizers throughout the country, nearly 100,000 concert organizers across the country have been severely difficult to suffer due to the end of the election.
 
-තම කණ්ඩායම රට පුරා ප්‍රසංග සහ සැණකෙළි සංවිධාන කරන්නේ රජයට ලක්ෂ ගණනින් විනෝද බදු ගෙවමින් බවත් මෙවන් ප්‍රසංග සඳහා අය කරන රජය විනෝද බද්ධ වහා අඩු කළ යුතු බවත්  සංගමයේ මාධ්‍ය ලේකම් සිදේෂ් රංගන විජේවීර මහතා පවසයි.
+The Chairman of the Sri Lanka Concertainment Carnival Organizers and Coordinators of the Coordinators of the Coordinating Association of Sri Lanka and the Chairman of the Coordinating Association of Sri Lanka said that more than twenty had had more than had been stopped at various parts of the island.
+
+He pointed out that the other activities of the lives of the people of the lives of the people's life should not be interrupted and this is a very unfair decision.
+
+His team organizes concerts and carnivals throughout the country and that the government should be reduced by the government, and the government should immediately reduce fun.
 
 ◼️
 
 [Data](articles/f2ed2450.json)
+
+[Extended Data](ext_articles/f2ed2450.ext.json)
 
 ---
 
@@ -704,21 +728,29 @@ It is noteworthy that Parliamentarian Rishad Bathiudeen has sent a letter to Pre
 
 ---
 
-### කටුනායකින් ආරම්භ කළ ෂටල් බස් සේවාව ලප් තැනම ලොප් වෙයි
+### Shuttle bus service opened by Katunayake is loop loop
 
 *2024-08-19 16:03:30* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකින්-ආරම්භ-කළ-ෂටල්-බස්-සේවාව-ලප්-තැනම-ලොප්-වෙයි/11-411447) · `si`
 
-කටුනායක ගුවන් තොටුපොළේ සිට කොළඹ , කොටුව දුම්රිය ස්ථානය වෙත සහ මා කුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය වෙත ඉකුත් 08/15 දින  ආරම්භ කළ සුඛෝපභෝගී බස් රථ සේවාව ( Air Port Terminal Shuttle Service ) 08/19 දින උදෑසන 11.00 පමණ සිට තාවකාලිකව නවතා දැමීමට පියවර ගත් බව කටුනායක ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය.
+A luxury shuttle bus service started from Katunayake to the Multiple Transport Center but was halted after protests by the airport-Fort private Luxury Bus Association. The group visited the Ministry of Transport and sought support from the Commissioner's office. Despite opposition, ten buses will operate between Katunayake Airport, Colombo, and Fort Railway Station, including routes to Kumbura, Colombo.
 
-මෙම බස් රථ සේවාවට ආරම්භ කළ සැනින් , ඊට  එරෙහිව ගුවන් තොටුපොළ - කොටුව පෞද්ගලික සුඛෝපභෝගී බස් රථ සංගමය විරෝධතා ඉදිරිපත් කරමින් බස් රථ වර්ජනයක් ආරම්භ කර තිබුණි.
+🟩
 
-ඊට අමතරව ඔවුන් ප්‍රවාහන සහ මහාමාර්ග අමාත්‍යාංශය  මැතිවරණය කොමසාරිස් කාර්යාලය වෙත ගොස් සිය විරෝධතා ඉදිරිපත් කර තිබුණි.
+The luxury bus service commenced to the Multiple Transport Center from Katunayake and the Kumburu Transport Center, Katunayake, was temporarily stopped at 11:00 pm on 08/19 on 08/19 on 08/19 on 08/19.Airports Trust Officer said.
 
-මෙම විරෝධතා ව්‍යාපාරයට කටුනායක ගුවන් තොටුපොළ කුළී රථ ධාවන සංගම් ද සහයෝගය පළ කර තිබූ අතර මේ සියල්ල සළකා බලා එම සුඛෝපභෝගී බස් රථ ධාවනය ආරම්භ කර දින 04 කට පසුව  නවතා දැමීමට පියවර ගෙන තිබේ.
+The airport - Fort private Luxury Bus Association had launched a protest against this.
 
-...
+In addition, they had gone to the Ministry of Transport and Highways to go to the Commissioner's Office.
+
+Katunayake Airport rented vehicles were also supported by the Katunayaka Airport.
+
+Ten buses on the Katunayake Airport - Colombo and Fort, Katunayake Airport and the Colombo Fort, will be operated to the Fort Railway Station and the Kumbura, Colombo and the Kumbura, Colombo, and the Kumbura, Colombo, and the KumburaThe airport privately luxury bus association, Indika Gunasekera said.
+
+◼️
 
 [Data](articles/762656c6.json)
+
+[Extended Data](ext_articles/762656c6.ext.json)
 
 ---
 
@@ -1246,19 +1278,25 @@ Further, after the supplies and service requirements meet the supplies and servi
 
 ---
 
-### ඇමෙරිකා යුද නැවක් කොළඹ වරායට
+### US war ship to the port
 
 *2024-08-19 13:15:58* · [`adalk`](https://www.ada.lk/uncategorized/ඇමෙරිකා-යුද-නැවක්-කොළඹ-වරායට/1-411443) · `si`
 
-ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS Spruance’ නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමේ සංචාරයක් සඳහා අද දින (2024 අගෝස්තු 19) කොළඹ වරායට පැමිණෙන ලද අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව පිළිගැනීමට කටයුතු කෙරිණි.
+The US Navy's Arleigh Burke-class destroyer USS Spruance docked at Sri Lanka's Port of Colombo on August 19 for a visit. The ship, commanded by Thomas Adams, will stay until its supply and service needs are met before departing on August 20, 2024.
 
-මෙලෙස කොළඹ වරායට සේන්දු වූ Arleigh Burke - class destroyer වර්ගයට අයත් ‘USS Spruance’ නෞකාව, දිගින් මීටර් එකසිය හැටක් (160 ) හා නැව් මුළුව තුන්සිය තිස් අටකින් (338) සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස Commander Thomas Adams කටයුතු කරනු ලබයි.
+🟩
 
-තවද, සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමෙන් අනතුරුව ‘USS Spruance’ නෞකාව 2024 අගෝස්තු මස 20 වන දින දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+The US Navy, US Navy, arrived at the Port of Colombo today (August 19) for a visit to the UV Navy.
+
+Arleigh Burke - Clas Destroyer - CLASS SPRUANCE - CLASS SPRUANCE ARRIVALS '' US SPRUANCE 'is one hundred and sixty (338 meters), commenter Themas Adams as the Commanding Officer of the ship.
+
+Further, after the supplies and service requirements meet the supplies and service requirements, the ship is due to leave the island on the 20th of August 2024.
 
 ◼️
 
 [Data](articles/6a9d145b.json)
+
+[Extended Data](ext_articles/6a9d145b.ext.json)
 
 ---
 
@@ -2373,33 +2411,5 @@ At the same time, I got the most votes in the Akkaraipattana Pradeshiya Sabha el
 [Data](articles/1fb98df1.json)
 
 [Extended Data](ext_articles/1fb98df1.ext.json)
-
----
-
-### The risk of landslides to 6 districts
-
-*2024-08-19 01:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாவட்டங்களுக்கு-மண்சரிவு-அபாயம்/175-342416) · `ta`
-
-Landslide warnings issued for Ingiriya, Pulathsingha, Ratnapura, and Kalutara districts, along with several Divisional Secretariats in Colombo, Galle, Kegalle, Matara. Heavy rainfall predicted across the country, affecting 360 families. Precautions advised against lightning during thunderstorms.
-
-🟩
-
-A landslide risk warning has been issued to the Divisional Secretariat Divisions of the Ingiriya, Pulathsingha and Ratnapura District of the Kalutara District.
-
-The National Building Research Institute has also issued a landslide hazard warning to some Divisional Secretariats of Colombo, Galle, Kalutara, Kegalle, Matara and districts.
-
-Meanwhile, 1404 people from 360 families have been affected by the rains that have been impact on many parts of the country.
-
-Meanwhile, the Department of Meteorology has predicted that 75 millimeters of heavy rainfall is likely to occur in many parts of the country.
-
-Accordingly, rain or thunderstorms will be experienced in the districts of Galle, Matara, Kandy and Nuwara Eliya districts.
-
-The Department of Meteorology has stated that 75 millimeters of rainfall is expected in the Western and Sabaragamuwa Provinces and some parts of Galle and Matara districts.
-
-...
-
-[Data](articles/faf24a61.json)
-
-[Extended Data](ext_articles/faf24a61.ext.json)
 
 ---

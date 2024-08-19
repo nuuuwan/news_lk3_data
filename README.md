@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 19:21:22**
+As of **2024-08-19 19:37:56**
 
 ## Newspaper Stats
 
-*Scraped **41,517** Articles*
+*Scraped **41,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,82 @@ economynextcom | 2,505
 dailyftlk | 2,676
 adalk | 3,821
 dailymirrorlk | 4,733
-adaderanalk | 4,861
+adaderanalk | 4,862
 tamilmirrorlk | 5,354
-virakesarilk | 6,585
-adaderanasinhalalk | 7,086
+virakesarilk | 6,591
+adaderanasinhalalk | 7,087
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,516 (100.0%) of 41,517 articles have been extended.
+41,517 (100.0%) of 41,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### මැතිවරණයෙන් 50% ගන්නා බවට අනුර විශ්වාසයෙන්
+### Sri Lankan national on board luxury yacht that sank off Sicily coast – reports
+
+*2024-08-19 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101357/sri-lankan-national-on-board-luxury-yacht-that-sank-off-sicily-coast-reports) · `en`
+
+Several British tourists are feared missing after a boat sank off the coast of Sicily. The UK-flagged sailboat’s sinking has left seven individuals unaccounted for following a rescue operation.
+
+The Italian Coastguard and firefighters managed to rescue 15 people, among them a one-year-old child. It is believed the vessel succumbed to a tornado that hit the region.
+
+The majority of those on board were British, along with a New Zealander, a Sri Lankan national, two Anglo-French individuals, and an Irish citizen. According to the Italian news outlet Il Fatto Quotidiano, the boat went down near Porticello around 5am local time (4am GMT) on Monday (August 19).
+
+Dive teams have reached the sunken hull, located 49 meters underwater and roughly half a mile from shore, as reported by the same source, reports the Express. Those rescued from the ill-fated vessel have been brought to Porticciolo, detailed Il Fatto Quotidiano.
+
+...
+
+[Data](articles/8d92deb6.json)
+
+---
+
+### සජිත්ගේ ONE STOP SHOP සංකල්පය
+
+*2024-08-19 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200107) · `si`
+
+සිය පාලනයක් තුළ ජනාධිපති ලේකම් කාර්යාලය ආයෝජකයින්ට කඩිනම් අනුමැතිය ලබාදීම සඳහා වන මධ්‍යස්ථානයක් බවට පරිවර්තනය කරන බව සමගි ජන බලවේගයේ ජනාධිපති අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+සජිත් ප්‍රේමදාස මහතාගේ ජය තහවුරු කිරීම වෙනුවෙන් ''සැමට ජයක් - සමගි රටක්' තේමාවෙන් අද (19) පෙරවරුවේ නාවලපිටිය නගරයේ පැවති ජනරැලියකදී ඔහු මේ බව පවසා සිටියේය.
+
+"දැනටමත් මම ආයෝජකයන්ට කියලා තියෙන්නේ ගම් නියම්ගම් ප්‍රාදේශීය ලේකම් කොට්ඨාස සිසාරා කර්මාන්ත ශාලා බිහිකරන ගමන 22වැනිදා ඉදළම ක්‍රියාත්මක කිරීමට සූදානම් වෙන්න කියලා.
+
+ජනාධිපති ලේකම් කාර්යාලය 'ONE STOP SHOP' එකක් බවට පත් කරලා ආයෝජනය කරන්නට එන ආයෝජකයින්ට ඉක්මන් අනුමැතියන් ලබාදෙන මධ්‍යස්ථානයක් කරනවා.  ඒ සංකල්පය එදා රණසිංහ ප්‍රේමදාස මැතිතුමාගේ යුගයේ ක්‍රියාත්මක වුණා.
+
+ඒ වැඩපිළිවෙළ නැවත වරක් ක්‍රියාත්මක කරලා නුවර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් බල ප්‍රදේශ විස්සෙම නිෂ්පාදන කර්මාන්ත ආරම්භ කරනවා.
+
+කාබනික පොහොර වංචාව, නැනෝ පොහොර වංචාව, හොරා කාපු පොහොර සල්ලිටික නැවත වරක් හොරුන්ගෙන් අරගෙන මේ රටේ ජනතාවට අපි ලබා දෙනවා. ඒ හොරකම කරපු සියලුම දෙනා නීතිය හමුවට ගෙන එනවා.
+
+...
+
+[Data](articles/dcfdef39.json)
+
+---
+
+### Anura beliefs to take 50% of the election
 
 *2024-08-19 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200106) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී තමන්ට නිසැක වශයෙන්ම 50% ඉක්මවූ ඡන්ද ප්‍රතිශතයක් ලබාගත හැකි අතර එය ඇතැම්විට සියයට හැට හැත්තෑව දක්වා වුවත් ඉහළ යා හැකි බව ජාතික ජන බලවේගයේ ජනාධිපතිධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake, a candidate from the National People's Power (NPP), believes his party can secure over 50% of the vote in the upcoming presidential election, potentially increasing its share by another 50%. He criticized rival campaigns during a press conference in Colombo, highlighting societal fears and the spread of misinformation. Despite challenges, including a lack of support from traditional political parties and allegations of corruption, Anura expressed readiness to lead the nation.
 
-කොළඹදී අද (19) විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ඔහු එම අදහස් පළ කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජාතික ජන බලවේගයේ ජනාධිපතිධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා,
+The National Jathika Army can obtain over 50% of votes, which can be increased by 50% of the votes in the next presidential election.
 
-"රනිල් දැන් කියනවා ආණ්ඩුව ගන්න ආරාධනා කළා ඒ වෙලාවේ අපි හැංගුණා කියලා. රනිල්ගේ තරමට ඔය වගේ දේවල් කිව්වට කමන්නේ නැහැ. හැබැයි ජනාධිපති නිසා ඔය වගේ දේවල් කියන්න එපා. අපි බලය ඉල්ලලා ගෝඨාභයට ලිපියක් යැවුවා. ඒ ලියුම හම්බුණා කියලාවත් පිළිතුරු එව්වේ නැහැ. පාර්ලිමේන්තුවේ ජනාධිපති තෝරපු වෙලාවේ ඉතිං මාව ජනාධිපති කරන්න තිබුණානේ. එයාලා අපිට එහෙම බලය දෙන්නේ නැහැ. අපි කිසිසේත්ම පැනලා ගියේ නැහැ. අපි ලෑස්තියි රට භාරගන්න.
+He was conducting a special press conference in Colombo today.
+
+Anura Kumara Dissanayake, candidate of the national promos
+
+"Ranil now invited the government to take the government that we hid at the time. Ranil's as much as you don't mind. But because of the president, don't say things like that. We asked for power and sent a letter to Gotabhaya. The answer was not sent. When the presidency was selected in parliament, it was possible to do. They don't give us that same. We didn't jump at all. We're ready to accept the country.
 
 ...
 
 [Data](articles/0406e57b.json)
+
+[Extended Data](ext_articles/0406e57b.ext.json)
 
 ---
 
@@ -121,6 +167,88 @@ Dissanayake says that it is normal humanity to stand up with a hand -held hands 
 [Data](articles/bfcdd72b.json)
 
 [Extended Data](ext_articles/bfcdd72b.ext.json)
+
+---
+
+### வைபவ் நடிக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்' எனும் திரைப்படத்தின் டீசர் வெளியீடு
+
+*2024-08-19 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191462) · `ta`
+
+தமிழ் திரையுலகில் ஓரளவிற்கு சந்தை மதிப்புள்ள நட்சத்திர நடிகர்களின் பட்டியலில் இடம் பிடித்திருக்கும் நடிகர் வைபவ் கதையின் நாயகனாக நடித்திருக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர்கள் விக்ரம் ராஜேஷ்வர் மற்றும் அருண் கேசவ் ஆகியோர் இணைந்து இயக்கியிருக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்' எனும் திரைப்படத்தில் வைபவ், அதுல்யா ரவி, மணிகண்டன் ராஜேஷ், ஆனந்தராஜ், இளவரசு, ஜான் விஜய், சுனில் ரெட்டி, ரெடின் கிங்ஸ்லி, மொட்டை ராஜேந்திரன், பிபின், ஷீஹான் உசைனி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். டிஜோ டோமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி இமான் இசையமைத்திருக்கிறார். நகைச்சுவைக்கு முக்கியத்துவம் அளித்து தயாரிக்கப்பட்டிருக்கும் இந்த திரைப்படத்தை பி டி ஜி யுனிவர்சல் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் பாபி பாலச்சந்திரன் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/6da7a6aa.json)
+
+---
+
+### நானி நடிக்கும் 'சூர்யா'ஸ் சாட்டர்டே' படத்தின் முன்னோட்டம் வெளியீடு
+
+*2024-08-19 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191459) · `ta`
+
+'நான் ஈ' படத்தின் மூலம் தமிழ் ரசிகர்களையும் வெகுவாக கவர்ந்த தெலுங்கின் முன்னணி நட்சத்திர நடிகரான நானி கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'சூர்யா'ஸ் சாட்டர்டே' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் விவேக் ஆத்ரேயா இயக்கத்தில் உருவாகி இருக்கும் 'சூர்யா'ஸ் சாட்டர்டே' எனும் திரைப்படத்தில் நானி, எஸ். ஜே. சூர்யா, பிரியங்கா மோகன், அதிதி பாலன், அபிராமி, சாய்குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஜி. முரளி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜேக்ஸ் பிஜாய் இசையமைத்திருக்கிறார்.
+
+எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை டி வி வி என்டர்டெய்ன்மென்ட் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் டி வி வி தனய்யா மற்றும் கல்யாண் தாசரி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+எதிர்வரும் 29 ஆம் திகதியன்று தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளில் பான் இந்திய திரைப்படமாக இத்திரைப்படம் வெளியாகிறது. இந்நிலையில் இப்படத்தின் தமிழ் பதிப்பின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/a8cc7c8b.json)
+
+---
+
+### ரெபல் ஸ்டார்' பிரபாஸ் நடிக்கும் புதிய படம்
+
+*2024-08-19 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191464) · `ta`
+
+'கல்கி 2898 கிபி' படத்தின் பிரம்மாண்டமான வசூல் ரீதியான வெற்றிக்குப் பிறகு பான் இந்திய நட்சத்திர நடிகரான பிரபாஸ் நடிக்கும் பெயரிடப்படாத புதிய படத்தின் தொடக்க விழா ஹைதராபாத்தில் பிரம்மாண்டமாக நடைபெற்றது.
+
+'சீதா ராமம்' எனும் படத்தின் மூலம் இந்திய அளவிலான ரசிகர்களின் கவனத்தைக் கவர்ந்த இயக்குநர் ஹனு ராகவபுடி இயக்கத்தில் உருவாகவிருக்கும் பெயரிடப்படாத புதிய திரைப்படத்தில் பிரபாஸ், இமான்வி, மிதுன் சக்கரவர்த்தி, ஜெயப்பிரதா உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+
+சுதீப் சட்டர்ஜி ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு விஷால் சந்திரசேகர் இசையமைக்கிறார். இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் நவீன் யெர்னேனி மற்றும் வை . ரவிசங்கர் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+
+...
+
+[Data](articles/f27f6b53.json)
+
+---
+
+### சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிக்கும் 'வேட்டையன்' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-08-19 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191466) · `ta`
+
+சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் தயாராகி இருக்கும் 'வேட்டையன்' திரைப்படம் வெளியாகும் திகதியை படக்குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் அறிவித்திருக்கிறார்கள்.
+
+'ஜெய் பீம்' படத்தின் மூலம் பிரபலமான இயக்குநர் த. செ. ஞானவேல் இயக்கத்தில் உருவாகி இருக்கும் 'வேட்டையன்' எனும் திரைப்படத்தில் சுப்பர் ஸ்டார் ரஜினிகாந்த், பொலிவுட் சுப்பர் ஸ்டார் அமிதாப்பச்சன், பஹத் ஃபாசில், ராணா டகுபதி, மஞ்சு வாரியர், அபிராமி, ரித்திகா சிங், துஷாரா விஜயன், கிஷோர், ரெடின் கிங்ஸ்லி, ரோஹினி, ராவ் ரமேஷ், ரமேஷ் திலக் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+எஸ் . ஆர். கதிர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் சார்பில் பிரபல பிரம்மாண்டமான தயாரிப்பாளர் சுபாஷ்கரன் தயாரித்திருக்கிறார்.
+
+தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் விறுவிறுப்பாக நடைபெற்று வரும் நிலையில், இப்படத்தின் வெளியீட்டு திகதி குறித்த அதிகாரப்பூர்வமான அறிவிப்பினை பட குழுவினர் வெளியிட்டிருக்கிறார்கள்.
+
+...
+
+[Data](articles/19782856.json)
+
+---
+
+### முத்தமிழ் அறிஞர் கலைஞர் நூற்றாண்டு நினைவு நாணயம் வெளியீடு
+
+*2024-08-19 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191468) · `ta`
+
+தமிழகத்தின் முன்னாள் முதல்வர் கலைஞர் கருணாநிதியின் உருவம் பொறித்த நூற்றாண்டு நினைவு நாணயத்தை மத்திய பாதுகாப்பு துறை அமைச்சர் ராஜ்நாத் சிங் வெளியிட, தமிழக முதல்வர் மு. க. ஸ்டாலின் பெற்றுக் கொண்டார்.
+
+இதற்காக சென்னை கலைவாணர் அரங்கத்தில் நடைபெற்ற பிரத்யேக விழாவில் மத்திய பாதுகாப்புத்துறை அமைச்சர் ராஜ்நாத் சிங் கலந்து கொண்டார்.‌ இந்த நிகழ்வில் மத்திய இணை அமைச்சர் எல். முருகன், பாஜக மாநில தலைவர் அண்ணாமலை, திமுகவின் மக்களவை உறுப்பினர்கள், மாநிலங்களவை உறுப்பினர்கள், அமைச்சர்கள், சட்டமன்ற உறுப்பினர்கள், கட்சியின் மூத்த நிர்வாகிகள் என பலரும் பங்கு பற்றினர்.
+
+''1960களில் பெரும் அரசியல் தலைவராக உருவெடுத்தவர் கலைஞர் கருணாநிதி. 1960 முதல் தற்போது வரை ஆதிக்கம் செலுத்தும் கட்சியாக திமுகவை வளர்த்தெடுத்தவர் கருணாநிதி. அவரின் அரசியல் போராட்டங்கள் தீவிரமானவை. துணிச்சலானவை. அதே தருணத்தில் பல்வேறு தேசிய கட்சிகளுடன் நல்லுறவையும் பேணி காத்தவர்.
+
+...
+
+[Data](articles/39b6c2ce.json)
 
 ---
 
@@ -287,6 +415,26 @@ However, Ilankai Tamil Arashiyu MP Shaansenamanikkam said that the major preside
 [Data](articles/7cceadfe.json)
 
 [Extended Data](ext_articles/7cceadfe.ext.json)
+
+---
+
+### புகைப்படங்கள் கடந்த கால நினைவுகள்!
+
+*2024-08-19 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191440) · `ta`
+
+இந்த உலகில் நாம் வாழும், வாழ்ந்த காலங்களை என்றென்றும் நினைவுபடுத்துபவை  புகைப்படங்கள் தான்!
+
+பிறந்த நாள் கொண்டாடுகின்றோம் என்பதன் மறைமுகமான அர்த்தம், எமது வாழ்வில் ஒரு வருடம் அதிகரித்துள்ளது என்பதாகும். வருடங்கள் கழிந்தாலும் கடந்து வந்த காலங்களில் எடுக்கப்பட்ட புகைப்படங்கள் தான் கடந்து வந்த காலத்தினை நினைவுபடுத்துவதுடன் எம்மை எப்பொழுதும் இளமையாக வைத்துள்ளது.
+
+அந்த புகைப்படங்களை நிகழ்காலத்தில் பார்க்கும் பொழுது, நாம் அந்த காலத்திற்கே சென்று விடுவதானதொரு புத்துணர்ச்சி  எம் மனதில்  ஏற்படுத்துகின்றதல்லவா!
+
+கவிஞர் வைரமுத்துவின் கருத்தாழமிக்க கவிதை " முன்னோக்கி எனை நடத்தி முதுமை செய்யும் காலங்காள் பின்னோக்கி எனை நடத்தி பிள்ளையாக்கக் கூடாதா..” என்பதாகும். எமது பழைய புகைப்படங்களைப் பார்க்கும் பொழுது இந்த வரிகள் தான் எமது சிந்தையை தட்டிச் செல்கின்றன. எமது வாழ்க்கையிலேற்பட்ட மகிழ்ச்சியான தருணங்களையும், துயரமான  சம்பவங்களையும் நம் கண்முன் கொண்டு வந்து காட்டும் அவைகள்  காலத்தின் பொக்கிஷங்கள்.
+
+புகைப்படம் என்பது தனியே ஒரு படம் அல்ல . அது புகைப்படவியலாளர்களின் திறமையை வெளிப்படுத்துகின்ற ஓர் உன்னதமான கலை.
+
+...
+
+[Data](articles/44260517.json)
 
 ---
 
@@ -2195,159 +2343,5 @@ The Rootcode Foundation opened a computer lab at Mawathgama Kanishta Vidyalaya o
 [Data](articles/684976a2.json)
 
 [Extended Data](ext_articles/684976a2.ext.json)
-
----
-
-### HNB Assurance extends support for habitat restoration programme
-
-*2024-08-18 23:49:00* · [`islandlk`](http://island.lk/hnb-assurance-extends-support-for-habitat-restoration-programme/) · `en`
-
-HNB Assurance PLC has partnered with Biodiversity Sri Lanka (BSL), to support the Federation of Environmental Organizations (FEO Sri Lanka) and the Department of Wildlife Conservation (DWC) by committing to an additional 15 hectares of invasive alien plant species (IAPS) removal within the Lunugamvehera National Park over the next three years.
-
-This programme, focuses on the removal of Lantana Camara (S. Gandapana) and Eupatorium odoratum (S. Podi Singho Maran), which have been rapidly spreading and disrupting the native ecosystem across 900 hectares, creating a sustainable livelihood and a sense of ownership for the community around this national park.
-
-...
-
-[Data](articles/e87ab73f.json)
-
-[Extended Data](ext_articles/e87ab73f.ext.json)
-
----
-
-### SLT-MOBITEL partners with Sri Dalada Perahara for 10th consecutive year
-
-*2024-08-18 23:47:00* · [`islandlk`](http://island.lk/slt-mobitel-partners-with-sri-dalada-perahara-for-10th-consecutive-year/) · `en`
-
-SLT-MOBITEL has extended its partnership with the Kandy Sri Dalada Maligawa as the official ICT Service Provider for the 10th consecutive year. As part of this ongoing collaboration, SLT-MOBITEL will continue to offer a comprehensive suite of ICT solutions to the Maligawa, including high-speed broadband services, PEO TV, and voice communication powered by SLT-MOBITEL ‘s advanced fiber optic technology. Notably, these services will be provided free of charge, further strengthening SLT-MOBITEL’s commitment to supporting the Maligawa’s procession and initiatives.
-
-SLT-MOBITEL’s will enable the media centre of the Maligawa to efficiently broadcast and share cultural and religious information with the public and will provide all necessary ICT support to facilitate the live streaming of the annual Esala Perehera on various digital media channels. This will allow devotees and the general public to participate in and enjoy the festivities remotely.
-
-...
-
-[Data](articles/10539369.json)
-
-[Extended Data](ext_articles/10539369.ext.json)
-
----
-
-### Tourism earnings exceed US dollars 328mn in July 2024
-
-*2024-08-18 23:45:00* · [`islandlk`](http://island.lk/tourism-earnings-exceed-us-dollars-328mn-in-july-2024/) · `en`
-
-Earnings from tourism amounted to US dollars 328.3 mn in July 2024, compared to US dollars 151.1 mn in June 2024 and US dollars 219.0 mn in July 2023, according to the weekly Economic Report of the Central Bank of Sri Lanka.
-
-In July 2024, Purchasing Managers’ Indices (PMI) indicate expansions in both Manufacturing and Services activities, on a month-on-month basis.
-
-...
-
-[Data](articles/603d1516.json)
-
-[Extended Data](ext_articles/603d1516.ext.json)
-
----
-
-### .LK Domain Registry recognises dynamic websites promoting SL identity in cyberspace
-
-*2024-08-18 23:43:00* · [`islandlk`](http://island.lk/lk-domain-registry-recognises-dynamic-websites-promoting-sl-identity-in-cyberspace/) · `en`
-
-The widely subscribed .lk Domain Registry hosted a gala event at the Cinnamon Grand Hotel on 14th August 2024, where Sri Lanka’s best talent in web designing and development were recognised. The event celebrated talent, success and achievement within schools, academic institutions, government institutions, banks and private sector corporations in a way that encourages them to perform even better in the future.
-
-ITN Chairman Sudarshana Gunawardena, who was the chief guest of the event said, “The annual best web awards is a significant milestone for the digital landscape as it celebrates the innovative spirit and outstanding performance of the web presence of the participating entities of both public and private sectors.”
-
-“This is a competition where the judges put emphasis on how you use creativity and the power of technology to connect, communicate and collaborate for the greater success of your institutions and organizations.”
-
-...
-
-[Data](articles/dbdf4d3f.json)
-
-[Extended Data](ext_articles/dbdf4d3f.ext.json)
-
----
-
-### The struggle against the illegal illegal Tissa Vihara begins!
-
-*2024-08-18 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191394) · `ta`
-
-Protesters led by Selvarajah Gajendran, general secretary of the Tamil National People's Front, started a fight against the Taiti illegal Tissa Vihara on Sunday, 18th, at 4 pm. The Vihara, without proper permits, aims to take over local lands. This issue particularly affects southern chauvinists who conduct full moon day worship there, leading to daily protests on these days.
-
-🟩
-
-The struggle against the Taiti illegal Tissa Vihara began at 4 pm on Sunday, the 18th.
-
-The Vihara has been set up to illegally seize the lands of the people and not get any permits.
-
-It is customary for chauvinist people from the south to carry out the full moon day worship in the Vihara. The struggle is being carried out on every full moon day. The struggle began on Sunday (18).
-
-Selvarajah Gajendran, general secretary of the Tamil National People's Front, members of the party and the public participated in the protest.
-
-◼️
-
-[Data](articles/c3a2f3b7.json)
-
-[Extended Data](ext_articles/c3a2f3b7.ext.json)
-
----
-
-### Dilith Jayaweera explains the strategic plan
-
-*2024-08-18 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200082) · `si`
-
-Dilith Jayaweera outlines a strategic plan aimed at reforming Sri Lanka's political landscape, emphasizing the need for change amidst corruption and inefficiency. Highlighting the roles of potential presidential candidates, he criticizes the current system, calling for a shift towards more effective governance and accountability.
-
-🟩
-
-The exangeration entrepreneur Dilith Jayaweera says he has the strategic plan that the candidates have the nomination of the candidates to make the difference.
-
-He was speaking at a scholarly and an entrepreneur meeting held at the Head Office of the Motherland People's People's People's People's People's Party.
-
-...
-
-[Data](articles/a50dfbaf.json)
-
-[Extended Data](ext_articles/a50dfbaf.ext.json)
-
----
-
-### A Unexpected defeat for Sri Lankan women
-
-*2024-08-18 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200081) · `si`
-
-In a surprising turn of events, Sri Lanka secured victory in the second ODI against the World Women's team, largely attributed to Hershae Samarawickrama's patient and valuable century. This win ensured Sri Lanka's place in the tournament finals, despite being bowled out for just 240 runs in 48 overs.
-
-🟩
-
-Sri Lanka won the second ODI, due to the weak glean role of Hershae Samarawickrama's worth of patient and waste the value of the century.
-
-Accordingly, the World Women's group won the tournament while another match was left.
-
-Sri Lanka won only 240 runs for the loss of 48 overs.
-
-◼️
-
-[Data](articles/0356e647.json)
-
-[Extended Data](ext_articles/0356e647.ext.json)
-
----
-
-### Sajith vows to uncover truth behind Easter attacks
-
-*2024-08-18 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101336/-sajith-vows-to-uncover-truth-behind-easter-attacks) · `en`
-
-Opposition Leader Sajith Premadasa has pledged to expose the truth behind the Easter Sunday terror attacks, fulfilling the expectations of the people, particularly the country’s Catholic community.
-
-Premadasa made this remark during a visit to the Colombo Archbishop’s residence, where he met with His Eminence Cardinal Malcolm Ranjith and the Assistant Bishops of the Colombo Archdiocese to seek their blessings.
-
-The SJB leader and presidential candidate assured that he has a clear plan to uncover the truth, a plan that has already been presented in Parliament.
-
-He emphasized that the entire nation, led by the Catholic community, is questioning whether the investigations into the Easter attacks were conducted transparently and whether the truth has been fully disclosed.
-
-During the meeting, Premadasa promised Cardinal Ranjith and the Bishops that he would leave no stone unturned in his pursuit of justice.
-
-...
-
-[Data](articles/8b5bdfe9.json)
-
-[Extended Data](ext_articles/8b5bdfe9.ext.json)
 
 ---

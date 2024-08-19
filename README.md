@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 16:53:55**
+As of **2024-08-19 17:06:33**
 
 ## Newspaper Stats
 
-*Scraped **41,504** Articles*
+*Scraped **41,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,858
 tamilmirrorlk | 5,351
 virakesarilk | 6,585
-adaderanasinhalalk | 7,081
+adaderanasinhalalk | 7,082
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,499 (100.0%) of 41,504 articles have been extended.
+41,504 (100.0%) of 41,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### ඉලංකෙයි තමිල් අරසු පක්ෂයේ තීරණය
+
+*2024-08-19 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200101) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේදී කුමන අපේක්ෂකයාට සහාය දක්වන්නේ ද යන්න ඔවුන්ගේ ප්‍රතිපත්ති ප්‍රකාශ එළිදැක්වීමෙන් අනතුරුව තීරණය කරන බව ඉලංකෙයි තමිල් අරසු පක්ෂය (ITAK)පවසයි.
+
+එම පක්ෂයේ මධ්‍යම කාරක සභාවේ ඊයේ (18) වව්නියාව ප්‍රදේශයේ දී පැවති අතර ඊට පක්ෂයේ සියලු සාමාජිකයින් එක්ව තිබුණි.
+
+එහිදි ජනාධිපතිවරණයේදී සිය පක්ෂය සහාය දැක්විය යුතු අපේක්ෂකයා සම්බන්ධයෙන් විවිධ මත පළ වීමත් සමග රැස්වීමේ උණුසුම්කාරී තත්ත්වයක් ද ගෙන තිබේ.
+
+කෙසේවෙතත් පක්ෂයේ මතය කුමක් ද යන්න සම්බන්ධයෙන් ප්‍රධාන ජනාධිපති අපේක්ෂකයින්ගේ ප්‍රතිපත්ති ප්‍රකාශ එළිදැක්වීමෙන් අනතුරුව ප්‍රකාශ කරන බව ඉලංකෙයි තමිල් අරසු පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී ශානක්කියන් රාසමානික්කම් මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/7cceadfe.json)
+
+---
 
 ### One dead, six missing after luxury yacht sinks off Sicily
 
@@ -52,67 +70,99 @@ Eight of the 15 people rescued, including a one-year-old child, were transferred
 
 [Data](articles/28c7b3f3.json)
 
+[Extended Data](ext_articles/28c7b3f3.ext.json)
+
 ---
 
-### யாழில் விடுதியில் தங்கியிருந்த மூன்று யுவதிகள் கைது
+### Three girls arrested for staying in a hotel in Jaffna
 
 *2024-08-19 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191452) · `ta`
 
-யாழ்ப்பாணத்தில் உள்ள தனியார் விடுதி ஒன்றில் சந்தேகத்திற்கு இடமான முறையில் தங்கியிருந்த மூன்று யுவதிகள் திங்கட்கிழமை (19) காலை கைது செய்யப்பட்டுள்ளனர்.
+Three women were arrested in Jaffna for suspicious behavior at a private hostel. Police acted on confidential tips and found them unable to verify their identities. They will undergo a medical exam pending further investigation by the Jaffna Magistrate.
 
-யாழ்ப்பாணம் - கண்டி நெடுஞ்சாலையில், மாவட்ட செயலகத்திற்கு சற்று தொலைவில் உள்ள தனியார் விடுதி ஒன்றில் சந்தேகத்திற்கு இடமான முறையில் ஆள் நடமாட்டம் உள்ளதாக யாழ்ப்பாண பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் குறித்த விடுதிக்கு பொலிஸார் சென்று சோதனையிட்டனர்.
+🟩
 
-அதன்போது, விடுதியில் எவ்வித பதிவுகளும் இன்றி தங்கியிருந்ததுடன், தமது ஆள் அடையாளத்தை உறுதிப்படுத்த தவறிய மூன்று யுவதிகளை பொலிஸார் கைது செய்தனர்.
+Three women were arrested on Monday morning (19) morning at a private hostel in Jaffna.
 
-கைது செய்யப்பட்ட யுவதிகளை விசாரணைகளின் பின்னர் யாழ்.நீதவான் முன்னிலையில் முற்படுத்திய வேளை, அவர்களை எதிர்வரும் 26ஆம் திகதி வரையில் விளக்கமறியலில் வைக்க உத்தரவிட்ட நீதவான், மூவரையும் மருத்துவ பரிசோதனைக்கு உட்படுத்துமாறும் உத்தரவிட்டுள்ளார்.
+On the Jaffna -Kandy highway, the police went to the hostel on the basis of confidential information available to the Jaffna police that there was suspicious behavior at a private hostel at the district secretariat.
+
+At the same time, the police arrested three women who failed to confirm their identity.
+
+The magistrate ordered the three men to be subjected to a medical examination until the Jaffna Magistrate was tried before the Jaffna Magistrate after investigations.
 
 ◼️
 
 [Data](articles/09b3f23a.json)
 
+[Extended Data](ext_articles/09b3f23a.ext.json)
+
 ---
 
-### தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான ஜனாதிபதியின் ஆலோசகராக மனுஷ!
+### Manusha as President's Advisor on Industry and Foreign Employment
 
 *2024-08-19 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191448) · `ta`
 
-தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான ஜனாதிபதியின் ஆலோசகராக மனுஷ நாணயக்கார நியமிக்கப்பட்டுள்ளார்.
+Manusha Nanayakkara is now the president's advisor on industry and foreign employment, appointed by President Ranil Wickremesinghe.
 
-உடன் அமுலுக்கு வரும் வகையில் இந்த நியமனத்தை ஜனாதிபதி ரணில் விக்கிரமசிங்க வழங்கியுள்ளார்.
+🟩
+
+Manusha Nanayakkara has been appointed as the president's advisor on industry and foreign employment.
+
+President Ranil Wickremesinghe has made this appointment.
 
 ◼️
 
 [Data](articles/dac6266a.json)
 
+[Extended Data](ext_articles/dac6266a.ext.json)
+
 ---
 
-### தளபதி Vs இளைய தளபதி இணைந்து மிரட்டும் 'கோட்' பட முன்னோட்டம்
+### Commander VS Young Commander -in -Chief 'Code' image preview
 
 *2024-08-19 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191446) · `ta`
 
-ரசிகர்களின் பெரும் எதிர்பார்ப்பில் இருந்த விஜய் நடிக்கும் 'கோட்' திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+The AI-generated preview of "Got," starring Vijay, has garnered four million views within hours. Directed by Venkat Prabhu and featuring a cast including Vijay, Prashant, Prabhu Deva, and others, the film promises both entertainment and storytelling without political undertones. Set for release in Tamil, Telugu, and Hindi across over six thousand theaters globally on September 5th, it marks AGS Entertainment's 25th production. The film's fantasy producer, Archana Kalpathi, and director Venkat Prabhu launched it in Chennai, highlighting its appeal beyond Vijay's fan base.
 
-இந்த முன்னோட்டத்தில் தளபதியும், செயற்கை நுண்ணறிவு தொழில்நுட்பத்தின் உதவியுடன் உருவாக்கப்பட்டிருக்கும் இளைய தளபதியும் திரையில் தோன்றி மாயஜாலம் செய்வதால் விஜய் ரசிகர்கள் மட்டுமின்றி அனைத்து திரையுலக ரசிகர்களும் கொண்டாடி வருகிறார்கள். இந்த முன்னோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் நான்கு கோடி பார்வையாளர்களை கடந்து சாதனை படைத்து வருகிறது.
+🟩
 
-இயக்குநர் வெங்கட் பிரபு இயக்கத்தில் உருவாகி இருக்கும் 'தி கிரேட்டஸ்ட் ஆஃப் ஆல் டைம்' எனும் திரைப்படத்தில் விஜய், பிரசாந்த், பிரபுதேவா, மோகன், ஜெயராம், அஜ்மல், சினேகா, லைலா, மீனாட்சி சவுத்ரி, யோகி பாபு உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சித்தார்த்தா நூனி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார்.
+The preview of Vijay starrer 'Got' has been released.
+
+The commander and the youngest commander created with the help of artificial intelligence technology appear on the screen and are celebrating not only Vijay fans but all the film fans.. Within a short time of this preview, four million viewers are achieved.
+
+Vijay, Prashant, Prabhu Deva, Mohan, Jayaram, Ajmal, Sneha, Laila, Meenakshi Chaudhry, Yogi Babu, directed by director Venkat Prabhu.. Yuvan Shankar Raja has composed the film, which has been recorded by Siddhartha Nuni.
+
+The film is being produced by AGS Entertainment Company's 25th film.. Akoram+ Kalpathi S. Ganesh + Kalpathi S. Suresh has co -produced.
+
+The film is set to be released in Tamil, Telugu and Hindi in more than six thousand film mansions worldwide on the fifth of September.
+
+In this case, the film has been released. For this, the film's fantasy producer Archana Kalpathi and director Venkat Prabhu participated in the special launch ceremony in Chennai.
 
 ...
 
 [Data](articles/fa79fcb5.json)
 
+[Extended Data](ext_articles/fa79fcb5.ext.json)
+
 ---
 
-### 6 மாவட்டங்களின் அபிவிருத்திக்காக ரிஷாத்துக்கு ஒதுக்கப்பட்ட 200 மில்லியன் ரூபா பெறுமதியான வேலைத்திட்டங்கள் நிறுத்தம் !
+### 200 million rupees allocated to Rishad for the development of 6 districts
 
 *2024-08-19 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191447) · `ta`
 
-அகில இலங்கை மக்கள் காங்கிரஸின் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாத் பதியுத்தீனிக்கு ஆறு மாவட்டங்களின் அபிவிருத்திக்காக ஜனாதிபதியினால் ஒதுக்கப்பட்ட சுமார் 200மில்லியன் ரூபாவு பெறுமதியான வேலைத்திட்டங்களை உடனடியாக நிறுத்துமாறு ஜனாதிபதி செயலகம் அறிவித்துள்ளது.
+Rishad Bathiyuthani, MP and President of the All Ceylon Peoples Congress, has been allocated 200 million rupees by the President for the development of six districts. This decision follows a letter from Bathiyuthani to President Ranil Wickremesinghe, leading to the immediate halt of related projects.
 
-இது தொடர்பில் பாராளுமன்ற உறுப்பினர் ரிஷாத் பதியுதீன் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு கடிதமொன்றை அனுப்பியுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The Presidential Secretariat has announced that the President of the All Ceylon Peoples Congress and Member of Parliament, Rishad Bathiyuthani, has announced that the President will immediately halt the projects worth Rs 200 million for the development of six districts.
+
+It is noteworthy that Parliamentarian Rishad Bathiudeen has sent a letter to President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/c43ef7bb.json)
+
+[Extended Data](ext_articles/c43ef7bb.ext.json)
 
 ---
 
@@ -2289,29 +2339,5 @@ The country should pay attention to the challenges faced by the country rather t
 [Data](articles/526958fe.json)
 
 [Extended Data](ext_articles/526958fe.ext.json)
-
----
-
-### Ariyanethran launched a campaign in Mullivaikkal
-
-*2024-08-18 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191387) · `ta`
-
-Presidential candidate Ariyanendran initiated his campaign in Mullivaikkal, aiming to represent the Tamil people in the upcoming election. The event was attended by former MPs, party members, and activists, marking the start of his electoral journey.
-
-🟩
-
-Presidential candidate Ariyanendran has launched the first campaign for the presidential election at Mullivaikkal at 3 pm on Sunday (18).
-
-As the upcoming presidential election is nearing, the presidential candidates are officially carrying out campaigning among the people for their success.
-
-In this backdrop, the Presidential candidate Ariyanendran and him have launched the first campaign for the election, representing the Tamil people on the Mullaitivu Mullivaikkal area.
-
-Former MPs Suresh Premachandran, Sivasakthi Anandan, Democratic Militants Party spokesman Tulsi, social activist and political analyst Nilanthan and many members of the party were present during Anjali.
-
-◼️
-
-[Data](articles/d7643000.json)
-
-[Extended Data](ext_articles/d7643000.ext.json)
 
 ---

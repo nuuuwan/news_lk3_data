@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 21:57:22**
+As of **2024-08-19 22:09:38**
 
 ## Newspaper Stats
 
-*Scraped **41,535** Articles*
+*Scraped **41,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,505
 dailyftlk | 2,676
 adalk | 3,824
 dailymirrorlk | 4,733
-adaderanalk | 4,863
-tamilmirrorlk | 5,354
+adaderanalk | 4,864
+tamilmirrorlk | 5,359
 virakesarilk | 6,593
 adaderanasinhalalk | 7,091
 
@@ -26,11 +26,99 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,535 (100.0%) of 41,535 articles have been extended.
+41,535 (100.0%) of 41,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### சிசிலி கடலில் மூழ்கிய படகு - இலங்கையர்கள் உட்பட பலர் மாயம்
+
+*2024-08-19 21:49:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிசிலி-கடலில்-மூழ்கிய-படகு-இலங்கையர்கள்-உட்பட-பலர்-மாயம்/50-342462) · `ta`
+
+சிசிலி கடற்கரையில் இன்று அதிகாலை 22 பேருடன் பயணித்த சொகுசு படகு மூழ்கியதில் குறைந்தது 7 பேரைக் காணவில்லை என்று இத்தாலிய ஊடகங்கள் தெரிவிக்கின்றன.
+
+எவ்வாறாயினும், கடலோர காவல்படை ரோந்து படகுகள் மற்றும் தீயணைப்பு வீரர்கள் மூலம் ஒரு வயது குழந்தை உட்பட 15 பேர் மீட்கப்பட்டனர்.
+
+நியூசிலாந்து, இலங்கை, அயர்லாந்து ஆகிய நாடுகளைச் சேர்ந்த குடிமக்கள் மற்றும் இரண்டு பிரித்தானிய மற்றும் பிரஞ்சு பிரஜைகளும் படகில் இருந்தபோது விபத்து நடந்துள்ளதாக கூறப்படுகின்றது.
+
+இந்த குழுவினர் சிசிலியில் விடுமுறையில் சுற்றுலாப் பயணிகளாக இருந்ததாகவும், படகு பிரித்தானிய கொடியின் கீழ் பயணித்ததாகவும் நம்பப்படுகிறது.
+
+இதேவேளை, காணாமல் போனவர்களில் 4 பிரித்தானியர்கள், ஒரு கனேடியர்கள் மற்றும் இரண்டு அமெரிக்கர்கள் என ஏஜென்சியின் அறிக்கை குறிப்பிடுகிறது. R
+
+◼️
+
+[Data](articles/c9fd20f8.json)
+
+---
+
+### கர்தினாலை சந்தித்தார் நாமல்
+
+*2024-08-19 21:46:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்தினாலை-சந்தித்தார்-நாமல்/175-342461) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ, பேராயர் மல்கம் ரஞ்சித்தை இன்று பொரளையில் உள்ள பேராயரின் உத்தியோகபூர்வ இல்லத்தில் சந்தித்தார்.
+
+இந்த சந்திப்பின் போது, ​​ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்களுக்கு காரணமானவர்களை விசாரிக்க சுயாதீன ஆணைக்குழுவின் அவசியத்தை பேராயர் வலியுறுத்தினார்.
+
+இந்த நோக்கத்திற்காக ஒரு சுயாதீன நீதித்துறை ஆணைக்குழுவை நிறுவுவதன் முக்கியத்துவத்தை நாமல் ஒப்புக்கொண்டார்.
+
+◼️
+
+[Data](articles/107c8bf3.json)
+
+---
+
+### புகையிரதத்துடன் மோதிய லொறி - ஒருவர் உயிரிழப்பு
+
+*2024-08-19 21:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்துடன்-மோதிய-லொறி-ஒருவர்-உயிரிழப்பு/175-342460) · `ta`
+
+கொஸ்கொட, மஹா இந்துருவ பகுதியில் உள்ள புகையிரத கடவைக்கு அருகில் இன்று (19) பிற்பகல் விறகு ஏற்றிச் சென்ற சிறிய லொறி ரயிலுடன் மோதியதில் ஒருவர் உயிரிழந்துள்ளார்.
+
+இந்த விபத்தில் லொறியில் பயணித்த 55 வயதுடைய இந்துவர பகுதியைச் சேர்ந்த ஒருவர் உயிரிழந்துள்ளதுடன் மற்றையவர் படுகாயமடைந்துள்ளார்.
+
+படுகாயமடைந்த நபர் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார், அங்கு அவரது நிலை கவலைக்கிடமாக இருப்பதாக தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/9baf072a.json)
+
+---
+
+### New luxury airport shuttle service suspended after just 4 days
+
+*2024-08-19 21:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101359/new-luxury-airport-shuttle-service-suspended-after-just-4-days) · `en`
+
+The new luxury shuttle service which was recently launched to provide passenger transport services from the Bandaranaike International Airport (BIA) to the Colombo Fort Railway Station and the Multimodal Transport Centre (MMC) in Makumbura, has been temporally suspended effective from today (August 19).
+
+The relevant luxury bus service was initiated on August 15, however, it had faced immediate protests on the very same day.
+
+Specifically, the Airport-Fort Bus Employees’ Union had launched a bus strike on August 16 against the newly-initiated luxury airport shuttle service.
+
+In addition to this, the union had also lodged complaints with the Ministry of Transport and Highways as well as the Election Commission.
+
+The BIA taxi service associations had also expressed their support to the protest campaigns.
+
+Accordingly, after considering the concerns put forward, it has been decided to temporarily suspend the ‘Airport Terminal Shuttle Service’ after only four days of operation.
+
+...
+
+[Data](articles/4159a65e.json)
+
+---
+
+### ஒரு வாக்காளருக்கு 109 ரூபாயே செலவழிக்கலாம்
+
+*2024-08-19 21:36:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-வாக்காளருக்கு-109-ரூபாயே-செலவழிக்கலாம்/175-342459) · `ta`
+
+ஜனாதிபதி வேட்பாளர் பிரச்சாரத்தின் போது ஒரு வாக்காளருக்கு செலவழிக்கக்கூடிய அதிகபட்ச தொகை ரூ. 109.00 என தேர்தல் ஆணைக்குழு வரையறுத்துள்ளது.
+
+இது தொடர்பான வர்த்தமானி அறிவித்தல் இன்று இரவு வெளியிடப்படும் என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+
+◼️
+
+[Data](articles/1a944fec.json)
+
+---
 
 ### A luxury vessel in Italian sea
 
@@ -57,6 +145,18 @@ Coast Guard Officers have commenced search operations in search of the six disap
 [Data](articles/3ef2d95c.json)
 
 [Extended Data](ext_articles/3ef2d95c.ext.json)
+
+---
+
+### ஹரிஸ் எம்.பி இடைநிறுத்தம்
+
+*2024-08-19 21:08:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிஸ்-எம்-பி-இடைநிறுத்தம்/175-342458) · `ta`
+
+சிறிலங்கா முஸ்லிம் காங்கிஸின் உறுப்பினர் பதவியிலிருந்து பாராளுமன்ற உறுப்பினர் ஹரீஸ் தற்காலிகமாக இடைநிறுத்தம் இது தொடர்பில் எழுத்து மூலம் நாளை அவருக்கு அறிவிக்கப்படும் -ஓட்டமாவடியில் இன்று நடைபெற்ற கூட்டத்தில் கட்சித் தலைவர் ரவூப் ஹக்கீம் அறிவிப்பு-
+
+◼️
+
+[Data](articles/5fb3b3a2.json)
 
 ---
 
@@ -2261,151 +2361,5 @@ In June the central bank had to sell 52 million US dollars on a net basis, amid 
 [Data](articles/5d3b2d93.json)
 
 [Extended Data](ext_articles/5d3b2d93.ext.json)
-
----
-
-### Antony Blinkan visits Israel
-
-*2024-08-19 07:16:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அன்டணி-பிளிங்கன்-இஸ்ரேலுக்கு-விஜயம்/50-342419) · `ta`
-
-US Secretary of State Antony Blinken visited Israel for US-backed ceasefire talks aimed at ending the war in Gaza, which has lasted for 10 months.
-
-🟩
-
-The Washington Post reported that he had visited Israel yesterday for a US -backed ceasefire talks to end the war in Gaza for 10 consecutive months.
-
-US Secretary of State Antony Blinkan visits Israel for US -backed ceasefire talks. (A)
-
-◼️
-
-[Data](articles/e47de5bb.json)
-
-[Extended Data](ext_articles/e47de5bb.ext.json)
-
----
-
-### A fatal accident
-
-*2024-08-19 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200085) · `si`
-
-In a tragic accident on the Hakmana-Matara road, one person died and two others were seriously injured when a three-wheeler collided near Puhulwella. The victims were on their way to Matara; one passenger succumbed to injuries at Matara Hospital. Investigations are ongoing by the Thihagoda Police.
-
-🟩
-
-One person was killed in an accident in the Puhulwella area on the Hakmana-Matara road in Thihagoda Police Division.
-
-The accident had occurred when a three-wheeler was traveling from Hakmana to Matara to Matara.
-
-A passenger has been killed and admitted to the Matara Hospital after two passengers were seriously injured in the accident.
-
-Thihagoda Police are conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/e4c12601.json)
-
-[Extended Data](ext_articles/e4c12601.ext.json)
-
----
-
-### Some parts of the country still rain today
-
-*2024-08-19 07:10:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-இன்றும்-மழை/175-342418) · `ta`
-
-Rainfall or thunderstorms are expected today in the Western, Sabaragamuwa, North Western Provinces, and districts including Kandy, Nuwara Eliya, Galle, and Matara. Heavy rains exceeding 75mm are predicted in the Western and Sabaragamuwa Provinces, as well as Galle and Matara districts.
-
-🟩
-
-The Department of Meteorology has said that rainfall or thunderstorms are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts today.
-
-Heavy rains are expected by more than 75 millimeters in the Western and Sabaragamuwa Provinces, Galle and Matara districts, the Department of Weather forecast said the weather forecast said.. (A)
-
-◼️
-
-[Data](articles/cee54e34.json)
-
-[Extended Data](ext_articles/cee54e34.ext.json)
-
----
-
-### China today is today
-
-*2024-08-19 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200084) · `si`
-
-Today marks significant historical events, including the first Dhamma Sangayana led by Ananda Thera and the launch of Buddha's relics. These events underscore the importance of the temple's relationship with laypeople. In the morning, many devotees visit temples for religious observances. Tonight, the final Randoon Perahera of the Kandy Esala Perahera parade will take place, highlighting a day rich in cultural and religious festivities.
-
-🟩
-
-The Nicini Pudaka Pudaka, which took several historical events, have been played today (19).
-
-The poto is a major importance on a number of facts, including the first Dhamma Sangayana of Ananda Thera and launches the Buddha's relics.
-
-This tree is also important to ensure the relationship between the temple and laymen.
-
-In the same morning, many deransation will go to the temples and engaged in the priminal occasions.
-
-Meanwhile, the final of the Randoon Perahera of the Kandy Esala Perahera will be held to the streets tonight.
-
-◼️
-
-[Data](articles/9a0ee018.json)
-
-[Extended Data](ext_articles/9a0ee018.ext.json)
-
----
-
-### Heavy rains in many areas
-
-*2024-08-19 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200083) · `si`
-
-Heavy rainfall expected across several provinces, including Western, Sabaragamuwa, Southern, and North-Western regions, with potential for heavy showers exceeding 75mm. Thunderstorms may bring strong winds and pose risks like landslides. The Department advises caution against arbitrary actions due to weather conditions.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and North-Western provinces.
-
-Some areas in the Western and Sabaragamuwa Province and in Galle and Matara districts are mm mm mm.. Heavy rains can occur at more than 75.
-
-Showers or thundershowers will occur at the evening or night in the rest of the island.
-
-West in the central hills and in the North, North, North, North-central and Northwestern provinces and in the Hambantota district.. (30-40) can cause strong winds.
-
-The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
-
-◼️
-
-[Data](articles/ba9d64c0.json)
-
-[Extended Data](ext_articles/ba9d64c0.ext.json)
-
----
-
-### Presidential Election 2024: Things You Need to Know as a Voter
-
-*2024-08-19 03:23:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjw3v6qngleo) · `si`
-
-In the face of Sri Lanka's worst economic crisis, leading to bankruptcy and mass protests, citizens prepare to elect a new president amidst 39 contenders. The election system allows voters to choose among three candidates, with a majority needed to win. Key candidates include Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, and Namal Rajapaksa. Despite a tourism boom, the economy struggles under IMF loans and tax hikes. Sri Lanka also improved its media freedom ranking and dropped in the corruption index, reflecting ongoing challenges and progress.
-
-🟩
-
-This is the first presidential election that is the most serious economic crisis that the country faced in the country in Year 1222.
-
-This economic crisis has led food, fuel and other essentials, and eventually, it was eventually declared to be announced as a bankrupt country.
-
-There, broader protests occurred, and the then President Gotabhaya Rajapakse fled the country and resign from his post.
-
-Sri Lankan Citizens acquired the Presidential Pathship
-
-The Sri Lankan government operates within a half-president framework and is working with a Prime Minister appointed by the President and the President is executive.
-
-39 candidates contesting the presidential election. Nearly 17 million people living in Sri Lanka are eligible to vote for a presidential election.
-
-The candidate winning a percentage of 50% will win the presidential election. The ballot is allowed to nominate three candidates for voters.
-
-...
-
-[Data](articles/d3e308c0.json)
-
-[Extended Data](ext_articles/d3e308c0.ext.json)
 
 ---

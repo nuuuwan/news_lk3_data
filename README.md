@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 17:21:23**
+As of **2024-08-19 17:37:08**
 
 ## Newspaper Stats
 
-*Scraped **41,505** Articles*
+*Scraped **41,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,505
 dailyftlk | 2,676
-adalk | 3,819
+adalk | 3,820
 dailymirrorlk | 4,733
-adaderanalk | 4,858
-tamilmirrorlk | 5,351
+adaderanalk | 4,859
+tamilmirrorlk | 5,352
 virakesarilk | 6,585
-adaderanasinhalalk | 7,082
+adaderanasinhalalk | 7,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,505 (100.0%) of 41,505 articles have been extended.
+41,505 (100.0%) of 41,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### ගුවන්තොටේ සැප බස් සේවාව දින 4න් නවතී
+
+*2024-08-19 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200103) · `si`
+
+කටුනායක ගුවන්තොටුපොළේ සිට කොටුව දුම්රිය ස්ථානය සහ මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය වෙත ආරම්භකළ සුඛෝපභෝගී බස් සේවාව අද (19) සිට ක්‍රියාත්මක වන පරිදි තාවකාලිකව නවතා දමා ඇත.
+
+මෙම සුඛෝපභෝගී බස් සේවාව මේ මස 15වැනිදා ආරම්භ කළ අතර, එදිනම ඊට විරෝධතා එල්ල විය.
+
+විශේෂයෙන් ගුවන්තොටුපොළ - කොටුව පෞද්ගලික සුඛෝපභෝගී බස් රථ සංගමය විරෝධතා ඉදිරිපත් කරමින් බස් රථ වර්ජනයක්ද ආරම්භ කරනු ලැබීය.
+
+ඊට අමතරව ඔවුන් ප්‍රවාහන සහ මහාමාර්ග අමාත්‍යාංශය සහ මැතිවරණ කොමසාරිස් කාර්යාලය වෙත ගොස් තම විරෝධතාව ඉදිරිපත් කර තිබුණි.
+
+මෙම විරෝධතා ව්‍යාපාරයට කටුනායක ගුවන්තොටුපොළ කුළී රථ ධාවන සංගම් ද සිය සහයෝගය පළ කළේය.
+
+ඒ අනුව සියල්ල සළකාබලා සුඛෝපභෝගී බස් රථ ධාවනය ආරම්භ කර දින 04කට පසුව නවතා දැමීමට පියවර ගෙන ඇත.
+
+කෙසේ නමුත් නවතා දැමූ බස් රථ වෙනුවට තම බස් සංගමයේ දිනකට ධාවනයෙන් ඉවත් වන බස් රථ 10ක් , ගුවන්තොටුපොළේ සිට කොටුව දුම්රිය ස්ථානය සහ මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය වෙත ධාවනය කරවීමට නියමිත බව ගුවන්තොටුපොළ පෞද්ගලික සුඛෝපභෝගී බස් රථ සංගමයේ සභාපති ඉන්දික ගුණසේකර මහතා පැවසීය.
+
+◼️
+
+[Data](articles/b8862096.json)
+
+---
+
+### வெடிகுண்டு தாக்கப்பட்ட காருடன் வந்த பொன்சேகா
+
+*2024-08-19 17:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடிகுண்டு-தாக்கப்பட்ட-காருடன்-வந்த-பொன்சேகா/175-342451) · `ta`
+
+இந்த ஆண்டு நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் சரத் பொன்சேகா லந்தர் சின்னத்தில் சுயேட்சை வேட்பாளராக போட்டியிடுகின்றதுடன் அவரின் முதலாவது தேர்தல் பேரணி ஞாயிற்றுக்கிழமை (18) இடம்பெற்றது.
+
+இதன்போது வெடிகுண்டு தாக்கப்பட்ட காரையும் அவர் தனது பேரணிக்கு கொண்டு வந்திருந்தமை  குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/66fcca11.json)
+
+---
+
+### ITAK’s decision on endorsing presidential candidate to follow manifesto review
+
+*2024-08-19 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101354/itaks-decision-on-endorsing-presidential-candidate-to-follow-manifesto-review) · `en`
+
+The Ilankai Tamil Arasu Kachchi (ITAK) has announced that it will determine which candidate to support in the upcoming presidential election only after reviewing the manifestos of the contenders.
+
+This decision has been made during the party’s central committee meeting held yesterday (18) in Vavuniya, which saw the participation of all party members.
+
+The discussions reportedly grew heated as various opinions emerged regarding which candidate ITAK should endorse.
+
+ITAK Member of Parliament Shanakiyan Rasamanickam stated that the party’s final decision will be announced following the release of the main presidential candidates’ manifestos, indicating that ITAK is taking a cautious and considered approach to its endorsement in the election.
+
+◼️
+
+[Data](articles/7263eb6b.json)
+
+---
 
 ### Decision of the Ilankai Tamil Ahazi Ahazi
 
@@ -210,6 +266,8 @@ As a result, no one should be frightened that he is unable to get candidate in a
 
 The Sri Lanka People’s National Party (Ilankai Makkal Thesiya Katchi) has extended its support for the “Sarvajana Balaya” alliance’s presidential candidate entrepreneur Dilith Jayaweera during the upcoming presidential election.
 
+Accordingly, the leader of ‘Mawbima Janatha Party’, Dilith Jayaweera and the leader of the Sri Lanka People’s National Party, Thyagarasa Vishnukanthan signed a Memorandum of Understanding of the ‘Sarvajana Balaya’ alliance at the MJP Headquarters today (19).
+
 ◼️
 
 [Data](articles/71588f9c.json)
@@ -255,6 +313,26 @@ The party has decided to hand over the support of the National Party in the Pres
 [Data](articles/333d3212.json)
 
 [Extended Data](ext_articles/333d3212.ext.json)
+
+---
+
+### දින තුනක් තුළ එකම ආකාරයකින් ජිවිතයෙන් සමුගත් යතුරුපැදිකරුවෝ
+
+*2024-08-19 15:29:38* · [`adalk`](https://www.ada.lk/breaking_news/දින-තුනක්-තුළ-එකම-ආකාරයකින්-ජිවිතයෙන්-සමුගත්-යතුරුපැදිකරුවෝ/11-411445) · `si`
+
+නීත්‍යානුකූල බලපත්‍රයක් හෝ හිස්වැසුමක් හෝ නොමැතිව  එකම වයසේ පාසල් සිසුන් දෙදෙනෙකු යතුරු පැදි ධාවනයේ යෙදෙමින් සිටියදී  රිය අනතුරු වලට ලක්ව මියයාමේ සිදුවීම් දෙකක් දින තුනක් ඇතුළත  වාර්තා වූ බව හෝමාගම මූලික රෝහල පවසයි.
+
+ඉන් පළමු වැන්න ඉකුත් 15 දා හංවැල්ල වැලිපිල්ලෑව ප්‍රදේශයෙන් වාර්තා වූ අතර එහිදී යතුරුපැදි දෙකක් මුහුණට මුහුණ ගැටී දාහත් හැවිරිදි පාසල් සිසුවකු ඉන් මියගොස් තිබුණි.
+
+ඉන් දින තුනකට පසුව  මීගොඩ , දාම්පේ මාර්ගයේදී ටිපර් රථයක යතුරු පැදියක් ගැටී රිය අනතුරක් සිදුව තිබූ අතර අනතුරින් පැදිකරු හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මෙසේ මියගොස් තිබේ.
+
+මෙසේ මියගොස් ඇත්තේ මීගොඩ දාම්පේ අංක 226/ B ,  හි පදිංචි පෙරුම්බුලි අච්චිගේ සුබෝධ සශ්මික විජේසිංහ නමැති (17) හැවිරිදි  පාසල් සිසුවකු බව මීගොඩ පොලිසිය පවසයි.
+
+අනතුරින් පසුව ටිපර් රථ රියදුරු නො නවත්වා රථය ධාවනය කර ඇති අතර අනතුර සිදුවන අයුරු ඒ පසුපසින් ධාවනය වූ ත්‍රී රෝද රථ රියැදුරෙකු දැක කිලෝමීටර් ගණනක් පසුපස  ලුහුබැන්දද ටිපර් රථය අල්ලා ගැනීමට නොහැකු වී තිබූ බව පොලීසිය පවසයි.
+
+...
+
+[Data](articles/d5b18af0.json)
 
 ---
 
@@ -2253,97 +2331,5 @@ During the reproductive reproduction of love. The nest of these species is the n
 [Data](articles/ae55e264.json)
 
 [Extended Data](ext_articles/ae55e264.ext.json)
-
----
-
-### Woman arrested for sexually abusing a girl
-
-*2024-08-18 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191375) · `ta`
-
-A 54-year-old woman was arrested in Kalpitiya for allegedly sexually abusing a girl in the Kandaguliyawella area.
-
-🟩
-
-Kalpitiya police have arrested a woman who allegedly sexually abused a girl in Kandaguliyawella area in Kalpitiya.
-
-The mother of two children aged 54 from Kandaguliyawella has been arrested, police said.
-
-◼️
-
-[Data](articles/b01e809a.json)
-
-[Extended Data](ext_articles/b01e809a.ext.json)
-
----
-
-### Wine bottles caught in the Customs Department
-
-*2024-08-18 21:13:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுங்க-திணைக்கள-வண்டியில்-சிக்கிய-மது-போத்தல்கள்/175-342397) · `ta`
-
-Customs officials seized 158 foreign liquor bottles worth Rs 20 lakh from a cab, attempting to smuggle them through the port. The driver has been confessed.
-
-🟩
-
-A senior official of the Ports Authority said that the Port Security Division seized foreign liquor bottles worth Rs 20 lakh from a cab owned by the Customs Department today.
-
-The official said that he had seized 158 foreign liquor bottles from the car and tried to take the liquor out of the LP gate.
-
-The official further stated that the confession has been registered with the driver.
-
-◼️
-
-[Data](articles/c754db82.json)
-
-[Extended Data](ext_articles/c754db82.ext.json)
-
----
-
-### People are not going to support leaders who are not personality - Nishantha Sri Warnasinghe
-
-*2024-08-18 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191385) · `ta`
-
-Nishantha Sri Warnasinghe argues that leaders without personality won't gain public support, citing examples like Sajith Premadasa and Anuradhapura who didn't step up during crises. In contrast, Ranil Wickremesinghe, despite facing criticism, assumed leadership roles, stabilized the country, and earned growing popularity. Warnasinghe criticizes Sajith Premadasa and Anuradhapura for shying away from responsibility, suggesting they lack the necessary character for leadership.
-
-🟩
-
-Sajith Premadasa and Anurakumara, who retreated to accept responsibilities when the country was collapsed?So people will never accept leaders who do not have personality. Ranil Wickremesinghe, who defended the country and the people, is increasing popular support, said Nishantha Sri Warnasinghe, the former deputy leader of the Jathika Hela Urumaya (JHU), who joined the United National Party.
-
-He was speaking at a press conference held on Sunday (18) at the UNP headquarters.
-
-The then Prime Minister Mahinda Rajapakse resigned due to the mass struggle when the country died of Gotabhaya Rajapakse's erroneous resolutions.. If the Prime Minister resigns. The opposition leader in parliament should come forward to take charge of the government. But Sajith did not come forward to take charge of the country. The country was only US $ 20. That is why Sajith Premadasa is afraid to take charge. Anuragumara Dissanayake was also afraid.
-
-...
-
-[Data](articles/9b434ae4.json)
-
-[Extended Data](ext_articles/9b434ae4.ext.json)
-
----
-
-### We will carry out projects to highlight national products - Namal Rajapaksa
-
-*2024-08-18 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191386) · `ta`
-
-Namal Rajapaksa, a Sri Lankan Presidential candidate, announced plans to focus on national product promotion post-September 21st as part of economic development efforts. He emphasized the importance of personal growth for overall economic improvement and urged the public to learn from those who prioritized self-interest over national welfare. Rajapaksa also highlighted the need to address the nation's challenges rather than focusing on election rivalries, inviting cooperation from all willing parties.
-
-🟩
-
-We will carry out economic development plans that highlighted national products after September 21st. The Presidential candidate of Sri Lanka PA, Namal Rajapaksa, said that the people will teach the people who have left us for self -interest.
-
-He was speaking to the media after the worship of the Tissamaharama Maha Viharaya on Sunday (18).
-
-We are ready for the presidential election. We will hold our first election campaign in Anuradhapura on Wednesday, with the worship of the country.
-
-We will carry out the economic development projects that highlighted national products after September 21st.. We are sure that the economy can only improve with the improvement of the individual.
-
-In a crisis, people will teach us the appropriate lesson for those who have left us for their selfish needs.
-
-The country should pay attention to the challenges faced by the country rather than focusing on who's challenging in the presidential election. He said anyone can join hands with us in principle.
-
-◼️
-
-[Data](articles/526958fe.json)
-
-[Extended Data](ext_articles/526958fe.ext.json)
 
 ---

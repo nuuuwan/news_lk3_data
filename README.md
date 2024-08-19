@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 09:07:36**
+As of **2024-08-19 09:22:14**
 
 ## Newspaper Stats
 
-*Scraped **41,435** Articles*
+*Scraped **41,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,504
 dailyftlk | 2,676
-adalk | 3,808
+adalk | 3,809
 dailymirrorlk | 4,733
 adaderanalk | 4,844
 tamilmirrorlk | 5,337
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,434 (100.0%) of 41,435 articles have been extended.
+41,435 (100.0%) of 41,436 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,19 +52,25 @@ The baggamp was reportedly in the morning and reported that it was depth of abou
 
 ---
 
-### කුඩා ගඟ අවට සුළු ගං වතුර තත්ත්වයක්
+### Small flooring conditions around the small river
 
 *2024-08-19 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200086) · `si`
 
-පවතින අයහපත් කාලගුණය හේතුවෙන් කළු ගඟේ, කුඩා ගඟ උප ද්‍රෝණියේ පහත් බිම් ප්‍රදේශවල සුළු ගං වතුර තත්ත්වයක් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුවේ ජල විද්‍යා හා ආපදා කළමනාකරණ අංශය පවසයි.
+Heavy rains have caused flooding in the Kalu Ganga and other rivers, including the Black River and Attanagalu Oya. The Irrigation Department warns drivers to be cautious due to potential hazards from rising waters.
 
-එබැවින් ඒ ආශ්‍රිත මාර්ග භාවිත කරන රියදුරන් ඒ සම්බන්ධයෙන් අවධානය යොමු කළ යුතු බව එම අංශයේ වාරිමාර්ග ඉංජිනේරු ජී.ඩබ්ලිව්.ඒ සකුරා දිල්තාරා මහත්මිය පැවසුවාය.
+🟩
 
-"පසුගිය දින 2-3 තුළ පැවති අධික වර්ෂාපතනයත් සමඟ කළු ගඟ ද්‍රෝණියේ සහ අත්තනගලු ද්‍රෝණියේ ගංවතුර අවදානමකට පත් වුණා. නමුත් එළෙස සැලකිය යුතු වර්ෂාපතනයක් නොලැබුණත් තවමත් එම ගංවතුර අවදානම කළු ගඟේ කුඩා ගඟ උප ද්‍රෝණියෙත් ඒවගේම අත්තනගලු ඔයේ පවතිනවා.  මෙම තත්ත්වය හේතුවෙන් කුකුළේ ගඟ ජලවිදුලි බලාගාරයෙන් නිකුත් වෙන ජල ධාරිතාව තත්ත්පරයට ඝන මීටර් 25 දක්වා අඩු වෙලා තියෙනවා. නමුත් තවම කුඩා ගඟේ ද්‍රෝණියේ පහත්බිම් අවට මාර්ග ජලයෙන් යටවෙලා පවතිනවා. ඒ නිසා එම පහත්බිම් වලින් වැටි ඇති මාර්ග භාවිත කරන රියදුරන් ඒ පිළිබඳව දැඩි සැලකිල්ලෙන් කටයුතු කළ යුතුයි. "
+The Hydrology and Disaster Management Department of the Irrigation Department (Irrigation) Department of Irrigation Department says that there is small flora in the Kalu Ganga, the Kalu River, in the Kalu River.
+
+Therefore, the Irrigation Engineer (Ms. Sakurama Dilthara) said that drivers using routes should focus on it.
+
+"With heavy rainfall in the last 2-3 days, the floods in the Basin and the Attanagalu basin at risk. But even if there is no significant rainfall, the floods still last rising rainfall and the small river of the Black River, and Attanagalu Oya.  මෙම තත්ත්වය හේතුවෙන් කුකුළේ ගඟ ජලවිදුලි බලාගාරයෙන් නිකුත් වෙන ජල ධාරිතාව තත්ත්පරයට ඝන මීටර් 25 දක්වා අඩු වෙලා තියෙනවා. But the basin of the small river is still flooded in water. Therefore, drivers to use routes in the lowland should be careful about it. "
 
 ◼️
 
 [Data](articles/de4e70cd.json)
+
+[Extended Data](ext_articles/de4e70cd.ext.json)
 
 ---
 
@@ -1322,6 +1328,18 @@ Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wick
 
 ---
 
+### මහනුවර අවසන් රන්දෝලි පෙරහර අද
+
+*2024-08-18 18:15:19* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අවසන්-රන්දෝලි-පෙරහර-අද/11-411433) · `si`
+
+මහනුවර ඓතිහාසික ඇසළ පෙරහරේ අවසන් රන්දෝලි මහ පෙරහර හෙට (19) වීදි සංචාරය කිරීමට නියමිතය. රාත්‍රී 6.57යෙදෙන සුබ මොහොතින් උතුරු දිශාභිමුඛව පෙරහර පිටත්ව දළදා වීදියෙන් පහළට පැමිණ යටිනුවර වීදියට හැරී ඉදිරියට පැමිණ කන්දේ වීදියෙන් ඩී.එස්.සේනානායක වීදියට සේන්දු වී රජ වීදිය හන්දියට පැමිණ ඉහළට විත් පෙරහර ගෙවදීමට නියමිතය .
+
+◼️
+
+[Data](articles/1899eede.json)
+
+---
+
 ### The court ordered the closure of the popular restaurant in the city until the 22nd
 
 *2024-08-18 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191377) · `ta`
@@ -2277,29 +2295,5 @@ The co -chair of the Grama Niladhari Trade Union Federation added that the trade
 [Data](articles/5ea62e10.json)
 
 [Extended Data](ext_articles/5ea62e10.ext.json)
-
----
-
-### Three police officers arrested for bribery
-
-*2024-08-18 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191354) · `ta`
-
-Three police officers from Pentota were arrested by Koskoda officials on charges of bribery. The arrests followed a complaint made to the Elpitiya Senior Police Officer. They will appear before a magistrate on Sunday.
-
-🟩
-
-Police officers of Pentota police station have been arrested by the Koskoda police station officials on Saturday (17).
-
-The Sub -Inspector of Police, the Police Surgel and the police driver have been arrested in the incident.
-
-The three suspects have been arrested after a bribery man has been sent to the Elpitiya Senior Police Officer and sent to the Elpitiya Senior Police Officer.
-
-Also, the three arrested will be produced before the Magistrate's Magistrate on Sunday (18).
-
-◼️
-
-[Data](articles/40b661b3.json)
-
-[Extended Data](ext_articles/40b661b3.ext.json)
 
 ---

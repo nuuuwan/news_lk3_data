@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 07:53:00**
+As of **2024-08-19 08:16:38**
 
 ## Newspaper Stats
 
-*Scraped **41,431** Articles*
+*Scraped **41,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,504
 dailyftlk | 2,676
-adalk | 3,807
+adalk | 3,808
 dailymirrorlk | 4,733
 adaderanalk | 4,843
 tamilmirrorlk | 5,337
@@ -26,55 +26,73 @@ adaderanasinhalalk | 7,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,428 (100.0%) of 41,431 articles have been extended.
+41,431 (100.0%) of 41,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### அன்டணி பிளிங்கன் இஸ்ரேலுக்கு விஜயம்
+### Antony Blinkan visits Israel
 
 *2024-08-19 07:16:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அன்டணி-பிளிங்கன்-இஸ்ரேலுக்கு-விஜயம்/50-342419) · `ta`
 
-தொடர்ந்து 10 மாதங்களாக காசாவில் இடம்பெறும் போரை முடிவுக்குக் கொண்டு வரும் நோக்கில் அமெரிக்காவின் ஆதரவுடனான போர்நிறுத்த பேச்சுவார்த்தைக்காக அவர் நேற்று இஸ்ரேலுக்கு விஜயம் செய்துள்ளதாக வொஷிங்டன் போஸ்ட் செய்தி வெளியிட்டுள்ளது.
+US Secretary of State Antony Blinken visited Israel for US-backed ceasefire talks aimed at ending the war in Gaza, which has lasted for 10 months.
 
-போர்நிறுத்த கோரிக்கைகள் வலுப்பெற்றுள்ள நிலையில், அமெரிக்காவின் ஆதரவுடனான போர்நிறுத்த பேச்சுவார்த்தைக்காக அமெரிக்காவின் இராஜாங்க செயலாளர் அன்டணி பிளிங்கன் இஸ்ரேலுக்கு விஜயம் செய்துள்ளார். (a)
+🟩
+
+The Washington Post reported that he had visited Israel yesterday for a US -backed ceasefire talks to end the war in Gaza for 10 consecutive months.
+
+US Secretary of State Antony Blinkan visits Israel for US -backed ceasefire talks. (A)
 
 ◼️
 
 [Data](articles/e47de5bb.json)
 
+[Extended Data](ext_articles/e47de5bb.ext.json)
+
 ---
 
-### මාරක රිය අනතුරක්
+### A fatal accident
 
 *2024-08-19 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200085) · `si`
 
-තිහගොඩ පොලිස් වසමේ හක්මන - මාතර ප්‍රධාන මාර්ගයේ පුහුල්වැල්ල ප්‍රදේශයේ සිදුවූ රිය අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+In a tragic accident on the Hakmana-Matara road, one person died and two others were seriously injured when a three-wheeler collided near Puhulwella. The victims were on their way to Matara; one passenger succumbed to injuries at Matara Hospital. Investigations are ongoing by the Thihagoda Police.
 
-ඊයේ (18) පස්වරුවේ හක්මන දෙස සිට මාතර දෙසට ධාවනය වූ ත්‍රීරෝද රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ පෙරලී ගොස් විරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී අනතුර සිදුව තිබේ.
+🟩
 
-අනතුරින් ත්‍රීරෝද රථයේ ගමන් ගත් මගීන් දෙදෙනෙකු බරපතළ තුවාල ලබා මාතර රෝහලට ඇතුලත් කිරීමෙන් පසු එක් මගියෙක් මියගොස් ඇත.
+One person was killed in an accident in the Puhulwella area on the Hakmana-Matara road in Thihagoda Police Division.
 
-තුවාල ලැබූ ත්‍රීරෝද රථ රියදුරු, යතුරුපැදිකරු සහ පසුපැදිකාරිය  පුහුල්වැල්ල රෝහලට ඇතුලත් කර ඇති අතර අනතුර සම්බන්ධව තිහගොඩ පොලීසිය වැඩිදුර විමර්ශන පවත්වයි.
+The accident had occurred when a three-wheeler was traveling from Hakmana to Matara to Matara.
+
+A passenger has been killed and admitted to the Matara Hospital after two passengers were seriously injured in the accident.
+
+Thihagoda Police are conducting further investigations into the accident.
 
 ◼️
 
 [Data](articles/e4c12601.json)
 
+[Extended Data](ext_articles/e4c12601.ext.json)
+
 ---
 
-### நாட்டின் சில பகுதிகளில் இன்றும் மழை
+### Some parts of the country still rain today
 
 *2024-08-19 07:10:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-இன்றும்-மழை/175-342418) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று  அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Rainfall or thunderstorms are expected today in the Western, Sabaragamuwa, North Western Provinces, and districts including Kandy, Nuwara Eliya, Galle, and Matara. Heavy rains exceeding 75mm are predicted in the Western and Sabaragamuwa Provinces, as well as Galle and Matara districts.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில பகுதிகளில் 75 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் என அந்த திணைக்களம் வெளியிட்டுள்ள வானிலை முன்னறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது. (a)
+🟩
+
+The Department of Meteorology has said that rainfall or thunderstorms are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts today.
+
+Heavy rains are expected by more than 75 millimeters in the Western and Sabaragamuwa Provinces, Galle and Matara districts, the Department of Weather forecast said the weather forecast said.. (A)
 
 ◼️
 
 [Data](articles/cee54e34.json)
+
+[Extended Data](ext_articles/cee54e34.ext.json)
 
 ---
 
@@ -873,6 +891,20 @@ However, the Cabinet has recently granted permission to import 3000 metric tonne
 [Data](articles/5d4aaae8.json)
 
 [Extended Data](ext_articles/5d4aaae8.ext.json)
+
+---
+
+### හරීන්ට ජනපතිගෙන් තනතුරක්
+
+*2024-08-18 19:43:32* · [`adalk`](https://www.ada.lk/breaking_news/හරීන්ට-ජනපතිගෙන්-තනතුරක්/11-411440) · `si`
+
+සංචාරක, ඉඩම්, ක්‍රීඩා හා තරුණ කටයුතු පිළිබඳ ජනාධිපති උපදේශක තනතුරට හරීන් ප්‍රනාන්දු මහතාව පත් කර තිබේ. ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඊට අදාළ ලිපිය ඉකුත් 16වෙනිදා දිනැතිව හරීන් ප්‍රනාන්දු මහතා වෙත යොමු කර ඇත.
+
+වහාම ක්‍රියාත්මක වන පරිදි මෙම පත්කිරීම සිදු කර තිබේ. පසුගියදා ලබාදුන් අධිකරණ තීන්දුවකට අනුව හරීන් ප්‍රනාන්දු හා මනූෂ නානායක්කාර මහත්වරුන්ගේ පාර්ලිමේන්තු මන්ත්‍රී ධුර අහෝසි විය. ඒ අනුව ඔවුන් එවකට දරමින් සිටි අමාත්‍ය ධුරද අහෝසි විය. එම පුරප්පාඩු වූ මන්ත්‍රී ධුර ජනාධිපතිවරයා යටතට පවරා ගනිමින් ගැසට් පත්‍රයක් නිකුත් කෙරුණි.
+
+◼️
+
+[Data](articles/d5f04f14.json)
 
 ---
 
@@ -2269,33 +2301,5 @@ The suspects were arrested in an operation after undercover officers had posed a
 [Data](articles/6a0f3eba.json)
 
 [Extended Data](ext_articles/6a0f3eba.ext.json)
-
----
-
-### Notice of risk for Gampaha people
-
-*2024-08-18 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200059) · `si`
-
-The Department of Irrigation warns of potential flooding due to high water levels in the Attanagalu Oya and its tributaries, as well as the Kalu River. The public is advised to stay cautious, especially around the Attanagalu Oya and Uranugala Oya Capura areas.
-
-🟩
-
-The water level of the Attanagalu Oya and its branches, says the Department of Irrigation.
-
-Due to this situation, the Director of the Irrigation Department of the Irrigation and Disaster Management Division of the Department of Irrigation. P. Mr. C. Siveswara said.
-
-"There is a possibility of creating a significant flood level and river basin has become so wetted. Therefore, if the Attanagalu Oya and Uranugala Oya Capura area has been able to easily rainfall in today's day, the river basin is the risk of being significant flooding.. Therefore, the public should be careful about this situation. "
-
-Meanwhile, the Department of Irrigation says that the water level of the Kalu River has increased from milkanda area.
-
-He said that the water level of the Kalu River is also rising in some areas, Mr. Suesshwara said.
-
-The GN River water level has increased to a situation where the Baddegama should be addressed to the Baddegama.
-
-◼️
-
-[Data](articles/886dc34e.json)
-
-[Extended Data](ext_articles/886dc34e.ext.json)
 
 ---

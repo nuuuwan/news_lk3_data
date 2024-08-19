@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 16:10:15**
+As of **2024-08-19 16:21:27**
 
 ## Newspaper Stats
 
-*Scraped **41,496** Articles*
+*Scraped **41,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 3,819
 dailymirrorlk | 4,733
 adaderanalk | 4,857
 tamilmirrorlk | 5,351
-virakesarilk | 6,579
-adaderanasinhalalk | 7,080
+virakesarilk | 6,581
+adaderanasinhalalk | 7,081
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,493 (100.0%) of 41,496 articles have been extended.
+41,496 (100.0%) of 41,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### පොහොට්ටුවෙන් ඉවත්වුණු මැතිඇමැතිවරුගෙන් නව බලවේගයක්
+
+*2024-08-19 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200100) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය ලබාදීමට ඉදිරිපත් වූ ශ්‍රී ලංකා පොදුජන පෙරමුණේ මන්ත්‍රීවරු හා දේශපාලන පක්ෂ එක්ව ඉදිරියේදී නව දේශපාලන බලවේගයක් බිහි කිරීමට සාකච්ඡා පවත්වමින් සිටින බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පැවසීය.
+
+එමෙන්ම එම දේශපාලන බලවේගය ගොඩනැගීම සඳහා අගමැතිවරයා ලෙස තමන්ද සහයෝගය ලබාදෙන බව හෙතෙම කියා සිටියේය.
+
+ඊයේ (18) මහනුවර මල්වතු හා අස්ගිරි මහනාහිමිවරුන් බැහැ දැකීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+
+"රජය ඉදිරියට ගෙන යෑමට සහයෝගය ලබාදුන් පොහොට්ටුවේ මන්ත්‍රීවරු  බහුතරයක් රට වැටී තිබුණු අර්බුදයෙන් ගොඩගත් රනිල් වික්‍රමසිංහ මහතා ට ජනපතිවරණයේ දී  සහයෝගය ලබා දීමට තීරණය කළා.
+
+වසර දෙකක් තිස්සේ ඉතා අසීරුවෙන් ඉදිරියට පැමිණි රට මේ වනවිට නිවැරදි මාවතක ගමන් කරමින් තිබෙනවා.
+
+මේ ජයග්‍රහණය තව දුරටත් ආරක්ෂා කර ගනිමින් ඉදිරියට ගෙන යෑම සඳහා අප සියලු දෙනා එකට එකතු වී වැඩ කරනවා.
+
+මේ වනවිට පළාත් පාලන ආයතනයේ සිට පාර්ලිමේන්තුව දක්වා සියලුම මන්ත්‍රීවරු එකට අත්වැල් බැඳගෙන සිටිනවා.
+
+...
+
+[Data](articles/2b2db515.json)
+
+---
 
 ### Sri Lanka People’s National Party backs Dilith Jayaweera at prez poll
 
@@ -41,6 +65,8 @@ The Sri Lanka People’s National Party (Ilankai Makkal Thesiya Katchi) has exte
 ◼️
 
 [Data](articles/71588f9c.json)
+
+[Extended Data](ext_articles/71588f9c.ext.json)
 
 ---
 
@@ -62,6 +88,8 @@ Two suspects, aged 25 and 48, who were arrested at the scene are scheduled to be
 
 [Data](articles/0790d34a.json)
 
+[Extended Data](ext_articles/0790d34a.ext.json)
+
 ---
 
 ### People's National Party (SLC) support to Dilith
@@ -79,6 +107,48 @@ The party has decided to hand over the support of the National Party in the Pres
 [Data](articles/333d3212.json)
 
 [Extended Data](ext_articles/333d3212.ext.json)
+
+---
+
+### யாழ்ப்பாணம் செல்வ சந்நிதியில் 35 பவுண் நகை அபகரிப்பு
+
+*2024-08-19 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191438) · `ta`
+
+யாழ்ப்பாணம் செல்வ சந்நிதி முருகன் ஆலய தேர்த்திருவிழாவில் கலந்து கொண்டிருந்த பக்தர்களின் சுமார் 35 பவுண் தங்க நகைகள் அபகரிக்கப்பட்டுள்ளது.
+
+வரலாற்று சிறப்பு மிக்க செல்வ சந்நிதி முருகன் ஆலய வருடாந்திர தேர் திருவிழா நேற்று ஞாயிற்றுக்கிழமை  (18) இடம்பெற்றது.
+
+தேர்த்திருவிழாவில் நாட்டின் பல பாகங்களில் இருந்தும் , வெளிநாடுகளில் இருந்தும் , பெருந்திரளான பக்தர்கள் ஆலயத்திற்கு வருகை தந்து தேர் திருவிழாவை நேரில் கண்டு களித்தனர்.
+
+அதன் போது ஆலய சூழல்களில் சனநெரிசல்களை பயன்படுத்தி திருடர்கள் தம் கைவரிசைகளை காட்டியுள்ளனர்.
+
+பல பக்தர்களின் பெறுமதியான தங்க நகைகள் அபகரிக்கப்பட்டுள்ளன. தமக்கு கிடைக்கப்பெற்ற முறைப்பாடுகளின் அடிப்படையில் சுமார் 35 பவுண் நகைகள் அபகரிக்கப்பட்டுள்ளதாக வல்வெட்டித்துறை பொலிஸார் தெரிவித்துள்னர்.
+
+◼️
+
+[Data](articles/f8329dbc.json)
+
+---
+
+### மீராவோடையில் வீட்டுக்கு தீ வைப்பு!
+
+*2024-08-19 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191432) · `ta`
+
+வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட மீராவோடையிலுள்ள வீடொன்று இன்று திங்கட்கிழமை (19) அதிகாலை 3 மணியளவில் தீப்பற்றியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+வீட்டிலுள்ளோர் தூங்கிக் கொண்டிருந்த போது திடீரென வீடு  தீப்பற்றியதைக் கண்டு கூக்குரல் இட்டதைத் தொடர்ந்து அயலவர்கள் தீப்பரவலை கட்டுப்பாட்டுக்குள் கொண்டு வந்துள்ளனர்.
+
+ஓட்டமாவடி - மீராவோடை - 4 ஆம் வட்டாரம் நூரானியா வீதியிலுள்ள வீடொன்றே இவ்வாறு பகுதியளவில் தீப்பற்றியுள்ளது.
+
+தீப்பரவலை அணைக்கச் சென்ற நபர்களுக்கு சிறு காயங்கள் ஏற்பட்டுள்ளதுடன், வீட்டிலுள்ள மின்சாரப் பொருட்கள், தளபாடங்கள் பல தீயில் கருகியுள்ளன.
+
+குறித்த வீட்டில் சுமார் ஒரு வாரத்துக்கு முன்னர் திருடன் ஜன்னல் வழியாக வந்து அங்கிருந்த பணத்தை திருடிச் சென்றுள்ள நிலையில், இன்று திங்கட்கிழமை (19)  திருடன் வீட்டின் மேல் பகுதியில் பொருத்தப்பட்டிருந்த பொலித்தீன் வழியாக உட்செல்ல அதற்கு தீ வைத்ததில் இந்த சம்பம் இடம்பெற்றிருக்கலாம் என தெரிவிக்கப்படுகிறது.
+
+அத்துடன்,  தீப்பிடிப்பதை கண்டு வீட்டார் எழுந்த போது வீட்டிலிருந்து திருடன் ஓடிச் சென்றதை கண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/03d677b9.json)
 
 ---
 
@@ -386,19 +456,25 @@ The injured person has been hospitalized and his condition is serious.
 
 ---
 
-### ඇමෙරිකා යුද නැවක් කොළඹ වරායට
+### US war ship to the port
 
 *2024-08-19 13:15:58* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකා-යුද-නැවක්-කොළඹ-වරායට/10-411443) · `si`
 
-ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS Spruance’ නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමේ සංචාරයක් සඳහා අද දින (2024 අගෝස්තු 19) කොළඹ වරායට පැමිණෙන ලද අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව පිළිගැනීමට කටයුතු කෙරිණි.
+The US Navy's Arleigh Burke-class destroyer USS Spruance docked at Sri Lanka's Port of Colombo on August 19 for a visit. The ship, commanded by Thomas Adams, will stay until its supply and service needs are met before departing on August 20, 2024.
 
-මෙලෙස කොළඹ වරායට සේන්දු වූ Arleigh Burke - class destroyer වර්ගයට අයත් ‘USS Spruance’ නෞකාව, දිගින් මීටර් එකසිය හැටක් (160 ) හා නැව් මුළුව තුන්සිය තිස් අටකින් (338) සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස Commander Thomas Adams කටයුතු කරනු ලබයි.
+🟩
 
-තවද, සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමෙන් අනතුරුව ‘USS Spruance’ නෞකාව 2024 අගෝස්තු මස 20 වන දින දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+The US Navy, US Navy, arrived at the Port of Colombo today (August 19) for a visit to the UV Navy.
+
+Arleigh Burke - Clas Destroyer - CLASS SPRUANCE - CLASS SPRUANCE ARRIVALS '' US SPRUANCE 'is one hundred and sixty (338 meters), commenter Themas Adams as the Commanding Officer of the ship.
+
+Further, after the supplies and service requirements meet the supplies and service requirements, the ship is due to leave the island on the 20th of August 2024.
 
 ◼️
 
 [Data](articles/0dcf17e9.json)
+
+[Extended Data](ext_articles/0dcf17e9.ext.json)
 
 ---
 
@@ -2243,79 +2319,5 @@ He was speaking at a reliance in Ruwanwella today (18).
 [Data](articles/4ee422f0.json)
 
 [Extended Data](ext_articles/4ee422f0.ext.json)
-
----
-
-### Chaw Championship under the age of 20: Sri Lanka failed to Nepal
-
-*2024-08-18 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191388) · `ta`
-
-Nepal clinched victory in the Under-20 South Asian Football Federation Championships against Sri Lanka, with a crucial goal scored by Nirajan Tami in the 23rd minute. Despite Sri Lanka's efforts, particularly in the second half where players struggled with muscle cramps, Nepal's defense held strong. The match highlighted the potential of young players from both teams, raising questions about coaching strategies and future development opportunities.
-
-🟩
-
-Nepal won the South Asian Football Federation Championships at the Under -20 Championships at the Kathmandu Dasarat Rangasala Stadium on Sunday afternoon.
-
-In the large part of the match, Nepal, which was exchanged by the ball, was in the 23rd minute of the match.
-
-Goalkeeper Ahmad Sharif tried to stop the ball that Nepali player Nirajan Tami kicked off the right leg from the penalty of Sri Lanka, but it was unchecked.
-
-On a few occasions, the Sri Lankan players moved the ball to the side of the goal border of Nepal, but the efforts of the former players were beneficial.
-
-Moreover, the Sri Lankan players are often satisfied with the second part of the competition. Sri Lankan players were often able to observe the tulip with muscle cramps.
-
-However, if these young players are given better exercises and advice, many of them are sure to be placed in the national team in the future.
-
-...
-
-[Data](articles/bc2c6963.json)
-
-[Extended Data](ext_articles/bc2c6963.ext.json)
-
----
-
-### Tax revenues have been sold in 8 years, Tax Revenue Rs.. 833
-
-*2024-08-18 19:34:26* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-8කදී-දුම්වැටි-බිලියන-26ක්-අලෙවි-කරලා--බදු-ආදායම-රු-බි--833/11-411439) · `si`
-
-From 2015 to 2023, Sri Lanka sold 26.46 billion cigarettes generating Rs. 833.23 billion in taxes. The highest sales were in 2015 (3.96 billion), but the peak revenue was in 2023 (Rs. 110.81 billion from 2.30 billion cigarettes).
-
-🟩
-
-In Sri Lanka, 26.46 billion cigarettes have been sold to Rs. 833.23 billion in Sri Lanka from 2015.
-
-The highest number of smoking has been sold in 2015 to 2015, while selling 3.96 billion cigarettes from 2015.
-
-However, the government has received the highest tax revenue in 2023, which sells 2.30 billion cigarettes and Rs. 110.81 billion.
-
-In addition, Rs.87.55 billion, selling 2.38 billion rupees and selling 2.82 billion rupees in 2021, selling 2.82 billion rupees..
-
-This is stated that the State Minister Ranjith Siyambala Piyamala has been tabled in charge of the issue of MP Nimal Piyatissa.
-
-◼️
-
-[Data](articles/ab96f8a8.json)
-
-[Extended Data](ext_articles/ab96f8a8.ext.json)
-
----
-
-### Sajith meets with the year
-
-*2024-08-18 19:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்டகையுடன்-சஜித்-சந்திப்பு/175-342395) · `ta`
-
-Opposition Leader Sajith Premadasa, the presidential candidate, met with several individuals including Anthony Jayakody, Aruttiru Anton Ranjith, Aruttiru Cheril Gamini, and Aruttiru Indika Joy. The meeting was seen as a blessing for his victory in the upcoming presidential election.
-
-🟩
-
-Mr. Malcolm Cardinal Ranjith Annagai, Aruttiru Maxwell Silva,. Opposition Leader Sajith Premadasa met with Anthony Jayakody, Aruttiru Anton Ranjith, Aruttiru Cheril Gamini and Aruttiru Indika Joy.
-
-Sajith Premadasa, who is the presidential candidate for the upcoming presidential election, has been blessed for his victory.. Remble
-
-◼️
-
-[Data](articles/df0da868.json)
-
-[Extended Data](ext_articles/df0da868.ext.json)
 
 ---

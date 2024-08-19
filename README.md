@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 13:36:48**
+As of **2024-08-19 13:56:15**
 
 ## Newspaper Stats
 
-*Scraped **41,475** Articles*
+*Scraped **41,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,60 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,505
 dailyftlk | 2,676
-adalk | 3,813
+adalk | 3,815
 dailymirrorlk | 4,733
 adaderanalk | 4,852
 tamilmirrorlk | 5,348
-virakesarilk | 6,577
+virakesarilk | 6,578
 adaderanasinhalalk | 7,075
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,474 (100.0%) of 41,475 articles have been extended.
+41,475 (100.0%) of 41,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### ලොරි රථයක් දුම්රියේ ගැටී පුද්ගලයෙකු මරුට
+### யாழில் வேலைக்கு சென்ற இளைஞன் உயிரிழப்பு
+
+*2024-08-19 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/191424) · `ta`
+
+யாழ்ப்பாணம், நீர்வேலி பகுதியை சேர்ந்த தவராசா ரகுமாதவா (வயது 32) என்ற இளைஞரே உயிரிழந்துள்ளார்.
+
+வீட்டிலிருந்து நேற்று ஞாயிற்றுக்கிழமை (18) காலை வேலைக்கு சென்ற நிலையில், வேலைத்தளத்தில் நெஞ்சு வலிப்பதாக கூறியதையடுத்து, சக தொழிலாளர்கள் அவரை கோப்பாய் வைத்தியசாலைக்கு அழைத்துச் சென்றவேளை, அவர் ஏற்கனவே உயிரிழந்துவிட்டார் என வைத்தியர்கள் அறிக்கையில் தெரிவித்துள்ளனர்.
+
+மேலும், உயிரிழப்புக்கான காரணம் தெரியவராத நிலையில், சடலம் உடற்கூற்று பரிசோதனைக்காக யாழ். போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/9008df5f.json)
+
+---
+
+### Man dies after collision with a lorry
 
 *2024-08-19 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200094) · `si`
 
-කොස්ගොඩ පොලිස් වසමේ, මහ ඉඳුරුව දුම්රිය ස්ථානය ආසන්නයේ දුම්රිය හරස් මාර්ගයක අද (19) දහවල් සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+A man died in a collision with a lorry near the Railway Station, Kozgoda Police Division. The lorry, en route from Kosgoda to Colombo, overturned, killing one and seriously injuring another who has been hospitalized.
 
-ගාල්ල සිට කොළඹ දක්වා ධාවනය වූ දුම්රියක කොස්ගොඩ සිට පැමිණි දර පටවා ගත් ලොරි රථයක් මෙලෙස ගැටී ඇති බව පොලීසිය පවසයි.
+🟩
 
-අනතුරින් ලොරි රථයේ පැමිණි දෙදෙනාගෙන් එක් අයෙකු ජීවිතක්ෂයට පත්ව ඇත.
+An accident had died in an accident near the Railway Station near the Railure Station near the Railure Station near the Railure Station near the Railway Station at the Kozgoda Police Division.
 
-තුවාල ලැබූ අනෙක් පුද්ගලයා රෝහල් ගත කර ඇති අතර ඔහුගේ තත්ත්වය ද බරපතළ බව වාර්තා වෙයි.
+A lorry that had been loaded from Kosgoda to Colombo to Colombo has collapse.
+
+One person was killed in the lorry in the accident.
+
+The injured person has been hospitalized and his condition is serious.
 
 ◼️
 
 [Data](articles/5d42fba3.json)
+
+[Extended Data](ext_articles/5d42fba3.ext.json)
 
 ---
 
@@ -75,6 +97,26 @@ In addition, the company has more than 300 employees and said that there are 25 
 [Data](articles/d762ff0a.json)
 
 [Extended Data](ext_articles/d762ff0a.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය වැටලූ ස්ථානාධිපතිට මරණ තර්ජන
+
+*2024-08-19 12:52:50* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-වැටලූ-ස්ථානාධිපතිට-මරණ-තර්ජන/11-411441) · `si`
+
+"අයිස්"මත්ද්‍රව්‍ය වැටලීමක් සම්බන්ධයෙන් උරණවී ඇතැයි විශ්වාස කරන පුද්ගලයකු කිරිබත්ගොඩ පොලිසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයාට දුරකථනයෙන් බැන මරණ තර්ජනය කර ඇතැයි තොරතුරු අනාවරණය වීඇත.
+
+අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති වරයා පොලිස් ස්ථානයේ නොමැති අවස්ථාවක පොලිසියේ පොදු දුරකතනයට රාජකාරියේ නිරතව සිටි නිලධාරියාට මෙම දුරකතන ඇමතුම ලැබීමෙන් පසු අදාළ නිලධාරියා දැනුවත් කර ඇත.
+
+මෙම පොලිස් නිළධාරියා ඇතුළු කණ්ඩායම දිගින් දිගට මත්ද්‍රව්‍ය වැටලීම් සිදුකරන බවත් මේවා අඩපණ කිරීමට උත්සහයක් දරන බවද කියති.
+
+ඉකුත් සතියේ අයිස් මත්ද්‍රව්‍ය වැටලීමක් සම්බන්ධයෙන් තොරතුරු විමසා මෙලෙස මරණ තර්ජනය කර ඇතැයි ද කියති.
+
+දැනට විදේශ ගතව සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුගේ උපදෙස් මත මෙම මරණ තර්ජනය එල්ල කර ඇතැයි විශ්වාස කෙරේ මේ සිද්දිය සම්බන්ධයෙන් පොලිස් නිලධාරීන් දැනුවත් කිරීමටත් විධිමත් පරීක්ෂණයක් කිරීමටත් නියමිතය.
+
+◼️
+
+[Data](articles/c0d9d4ec.json)
 
 ---
 
@@ -2269,51 +2311,5 @@ Randoli Perahera of the historical Esala Perahera of Kandy is due to visit the s
 [Data](articles/1899eede.json)
 
 [Extended Data](ext_articles/1899eede.ext.json)
-
----
-
-### The court ordered the closure of the popular restaurant in the city until the 22nd
-
-*2024-08-18 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191377) · `ta`
-
-A court order shut down a city's popular restaurant until the 22nd due to public complaints about its wastewater pollution. Health inspectors found unsanitary conditions and confiscated poultry meant for human consumption. The restaurant's owner faces charges under the Food Act, leading to the temporary closure.
-
-🟩
-
-Public health inspectors closed the restaurant on Sunday (18) that the Batticaloa Magistrate's Court on Sunday (18) ordered the closure of the restaurant on the 22nd of this month.
-
-The popular restaurant's waste water is stagnant in the streets and drains and the public has repeatedly complained to public health inspectors that the area is throwing.
-
-In this case, the restaurant, led by Puliyantivu Public Health Inspector J. Yasodharan, examined the siege and seized the seizure of poultry meat for human consumption.
-
-The owner of the restaurant under Section 13 (1) of the Food Act, No. 26, 1980, filed a case at the Public Health Inspector Batticaloa Magistrate's Court on Sunday.The magistrate immediately ordered the restaurant to be temporarily closed until the 22nd of this month, after being brought to the notice of the magistrate that the case was filed in court and was accused of being convicted.
-
-...
-
-[Data](articles/fd2ca038.json)
-
-[Extended Data](ext_articles/fd2ca038.ext.json)
-
----
-
-### Sajith Premadasa’s churlish refusal to shake the proffered hand of Ranil Wickremesinghe  his political opponent is a reminder of the danger of a system where governance and character are symbiotically connected.
-
-*2024-08-18 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84571) · `en`
-
-“…who’s the fairest of them all?” Grimm Brothers (Snow White)
-
-The most iconic moment at Nelson Mandela’s star studded memorial service was a handshake.
-
-As US President Barack Obama ran up to the podium under a light drizzle, a CNN reporter was droning about the extra security arrangements. Suddenly, the excited voice of Christiane Amanpour cut in, shouting, “Castro, he’s shaking hands with Raul Castro.” Mr Obama had paused to shake the hand of the Cuban leader and to share a few words with him.
-
-That simple sign of civility had its decriers, especially on the right wing of the Republican Party. Mr. Obama was accused of being a traitor, of pandering to the enemy, of endangering democracy and American security.
-
-Mingling with one’s opponents on nomination day has become a Sri Lankan norm. 2024 was no exception. President Ranil Wickremesinghe and Sirithunga Jayasuriya, ideological antipodes of long standing, chatted together amiably.
-
-...
-
-[Data](articles/50eebf14.json)
-
-[Extended Data](ext_articles/50eebf14.ext.json)
 
 ---

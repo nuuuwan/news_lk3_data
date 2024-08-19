@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 11:56:44**
+As of **2024-08-19 12:10:50**
 
 ## Newspaper Stats
 
-*Scraped **41,456** Articles*
+*Scraped **41,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,84 @@ newsfirstlk | 363
 bbccomsinhala | 383
 colombotelegraphcom | 395
 islandlk | 2,402
-economynextcom | 2,504
+economynextcom | 2,505
 dailyftlk | 2,676
 adalk | 3,812
 dailymirrorlk | 4,733
-adaderanalk | 4,849
-tamilmirrorlk | 5,344
+adaderanalk | 4,850
+tamilmirrorlk | 5,345
 virakesarilk | 6,569
-adaderanasinhalalk | 7,073
+adaderanasinhalalk | 7,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,453 (100.0%) of 41,456 articles have been extended.
+41,456 (100.0%) of 41,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### மூன்று பொலிஸ் உத்தியோகத்தர்கள் இடைநிறுத்தம்
+
+*2024-08-19 11:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-பொலிஸ்-உத்தியோகத்தர்கள்-இடைநிறுத்தம்/175-342431) · `ta`
+
+பக்கமூன பிரதேசத்தில் காட்டு யானை உயிரிழந்த சம்பவத்துடன் தொடர்புடைய மூன்று பொலிஸ் உத்தியோகத்தர்கள் சேவையில் இருந்து இடைநிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+ஒரு பொலிஸ் சர்ஜென்ட் மற்றும் இரண்டு கான்ஸ்டபிள்கள் ஆகியோரே இவ்வாறு இடைநிறுத்தம் செய்யப்பட்டுள்ளதாக பொலன்னறுவை சிரேஷ்ட பொலிஸ் அதிகாரிகள் அலுவலகம் தெரிவித்துள்ளது.
+
+கடந்த வாரம் (ஓகஸ்ட் 15) இரவு ரோந்துப் பணியில் ஈடுபட்டிருந்த பொலிஸ் அதிகாரிகள் குறித்த காட்டு யானை மீது துப்பாக்கிச் சூடு நடத்தினர்.
+
+துப்பாக்கிச் சூட்டில் காட்டு யானை சம்பவ இடத்திலேயே உயிரிழந்தது. யானையின் மரணம் தொடர்பில் குறித்த பொலிஸ் உத்தியோகத்தர்கள் பிரதேச வனவிலங்கு அதிகாரிகளால் கைது செய்யப்பட்டனர்.
+
+◼️
+
+[Data](articles/e5114acd.json)
+
+---
+
+### දෙමහල් නිවසක පවත්වාගෙන ගිය කංසා වගාවක් වටලයි
+
+*2024-08-19 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200092) · `si`
+
+මාලඹේ පිට්ටුගල කහන්තොට පාර ප්‍රදේශයේ දෙමහල් නිවසක පවත්වාගෙන ගිය ගංජා වගාවක් බස්නාහිර පළාත දකුණ දිසාව භාර අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් ඊයේ (18) දහවල් වටලා තිබේ.
+
+අදාළ නිවසේ පහත මහලේ කාමරයක් වායු සමනය කර ගංජා පැළ 174කට ආසන්න ප්‍රමාණයක් වගා කර තිබූ බවත් පොලීසිය පවසයි.
+
+වැටලීම සිදුකරන අවස්ථාවේ දී සැකකරුවෙකු කුෂ් මත්ද්‍රව්‍ය පාර්සල් කරමින් සිට ඇති බවත් වාර්තා වෙයි.
+
+සොයා ගත් කුෂ් මත්ද්‍රව්‍ය තොගයේ වටිනාකම රුපියල් කෝටි දහයක් පමණ වන බවද පොලීසිය පවසයි.
+
+තේ ඇසුරුම් කිරීමේ ආයතනයක් ලෙසින් පවත්වාගෙන ගොස් ඇති අදාළ නිවස කුලී පදනම මත ලබාගෙන ඇති බවද වාර්තා වී තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 25 සහ 48 යන වයස්වල පසුවන්නන් වන අතර ඔවුන් කඩුවෙල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/2c94ea03.json)
+
+---
+
+### PM pledges support for new political movement by MPs and parties backing President Ranil
+
+*2024-08-19 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101343/pm-pledges-support-for-new-political-movement-by-mps-and-parties-backing-president-ranil) · `en`
+
+Prime Minister Dinesh Gunawardena says that the Sri Lanka Podujana Peramuna (SLPP) MPs and political parties who came forward to support Ranil Wickremesinghe in the Presidential Election are holding discussions to create a new political movement.
+
+The Prime Minister made these comments while speaking to the media after visiting Maha Nayaka Theros of Malwathu and Asgiri chapters in Kandy, the Prime Minister’s Media Division said in a statement.
+
+The Prime Minister also mentioned that he will always give his blessing and support as the Prime Minister to build the said political movement.
+
+The Prime Minister further commented: “The overwhelming majority of SLPP MPs who supported the government to move forward, decided to support Mr. Ranil Wickremesinghe who recovered the country from the crisis, in the Presidential Election.”
+
+“Those MPs represent many other parties as well as SLPP”, he added.
+
+...
+
+[Data](articles/3a767072.json)
+
+---
 
 ### Dilith Jayaweera advocates for centralized framework to achieve national priorities
 
@@ -46,31 +106,41 @@ Speaking further, Dilith Jayaweera said: “The presidential election has been a
 
 [Data](articles/a31fe34e.json)
 
+[Extended Data](ext_articles/a31fe34e.ext.json)
+
 ---
 
-### ජලාශ කිහිපයක ජල මට්ටම් ඉහළට - මාර්ග අවහිර වෙයි
+### Water levels in several reservoirs - roads bloom
 
 *2024-08-19 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200091) · `si`
 
-පවතින වැසි සහිත කාලගුණ තත්ත්වයත් සමඟ ජලාශ කිහිපයක ජල මට්ටම් ඉහළ ගොස් ඇති අතර ඒ අවට පහත් බිම් ජලයෙන් යට වී ඇති බව වාර්තා වේ.
+Rising water levels in several reservoirs and heavy rainfall have caused road closures, including the Chilaw-Colombo main road due to Hamilton Canal and Sal Oya overflow. Traffic is being diverted through alternative routes. One sluice gate in the Qua River reservoir has been opened to release excess water, affecting nearby areas. The Disaster Management Center reports 2,354 individuals impacted by the weather conditions.
 
-හැමිල්ටන් ඇළ සහ ලුණු ඔය පීටර ගැලීම හේතුවෙන් හලාවත - කොළඹ ප්‍රධාන මාර්ගය අද (19) අලුයම 01.30 සිට ස්ථාන කිහිපයකින් ජලයෙන් යටවී තිබේ.
+🟩
 
-ඒ හේතුවෙන් වාහන ගමනාගමනයට බාධා සිදු වී ඇති බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+Water levels on several reservoirs have risen in several reservoirs with the prevailing rainy weather.
 
-මෙම මාර්ග හරහා ගමන් ගන්නා රථ වාහන රියදුරන්ට විකල්ප මාර්ග භාවිතා කරන ලෙසට තෝඩුවාව පොලීසිය දැනුම් දී ඇත.
+The Chilaw - Colombo main road from 1.30 am today (19th) due to Hamilton Canal and Sal Oya.
 
-"අද දෙරණ" වාර්තාකරු පැවසුවේ මෙම මාර්ගයේ ගමන් කළ රථ වාහන කිහිපයක් ජලයට අසුවී ධාවනය කිරීමට නොහැකිව නතර වී තිබු බවය.
+As a result, the vehicle traffic is interrupted, "Ada Derana reporter said.
 
-මේ අතර, කුකුලේ ගඟ ජලාශයේ එක් වාන් දොරටුවක් මේ වන විට විවෘත කර ඇති බව වාර්තා වේ.
+The traffic drivers have been instructed to use alternative routes to traffic drivers.
 
-ඒ අනුව, ඉන් තත්පරයට ඝන මීටර 53ක ජල ධාරිතාවක් කුඩා ගඟ වෙත මුදා හැරෙන අතර කුඩා ගඟා පිටාර ගැලීම හේතුවෙන් ඒ අවට පහත් බිම් රැසක් ජලයෙන් යට වී තිබේ.
+"The Ada Derana reporter said that several vehicles traveling along the road had been unable to run into the water.
 
-බුලත්සිංහල මෝල්කාව ප්‍රධාන මාර්ගයේ දඹල සහ ඇටඹගස් හන්දිය යන ප්‍රදේශවල මාර්ග, පහත්බිම් සහ නිවාස ද මේ වන විට ජලයෙන් යටවී පවතින බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+Meanwhile, one sluice gate in the Qua River reservoir has been opened.
+
+Accordingly, 53 cubic waterfire will be released to the small river, and low-range trends in the surrounding floods due to overflowing.
+
+The Ada Derana reporter said that roads, lowland and houses in the Bulathsinhala Mulkana main road. Ada Derana reporter said.
+
+Traffic on the Bulathsinhala Mulchwa main road has been completely stopped and the alternative routes have been used to travel from Bulathsinhala to Malkawa, Addenda and Kidinkanda.
 
 ...
 
 [Data](articles/9450a732.json)
+
+[Extended Data](ext_articles/9450a732.ext.json)
 
 ---
 
@@ -425,6 +495,30 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/f01bc119.json)
 
 [Extended Data](ext_articles/f01bc119.ext.json)
+
+---
+
+### Sri Lanka central bank buys US$121mn in July, taking total to US$1.87
+
+*2024-08-19 07:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-buys-us121mn-in-july-taking-total-to-us1-87-177150/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has bought 121 million US dollars from banks in July 2024, taking net purchases to 1.87 million US dollars in 2024.
+
+The central bank had to sell dollars on a net basis in June after an ealier spike in unsterilized excess liquidity and credit.
+
+In order to collect reserves permanently the liquidity created from dollar purchases has to be mopped up.
+
+Mopping up prevents domestic investments of the same amount, allowing the central bank to invest the funds abroad as reserves.
+
+Sri Lanka gets about 2.0 billion dollars of current receipts every month, of which about 1.5 billion US dollars are used in imports now. Some money is also used for outward travel and paying bonds.
+
+The central bank can collect reserves from whatever that is saved by recipients of US dollars and is not re-lent to the domestic economy to invest as credit.
+
+In June the central bank had to sell 52 million US dollars on a net basis, amid a spike in credit and exchange rate volatility.
+
+...
+
+[Data](articles/5d3b2d93.json)
 
 ---
 
@@ -1452,21 +1546,33 @@ Sajith Premadasa, who is the presidential candidate for the upcoming presidentia
 
 ---
 
-### මේ වසරේදී ඒඩ්ස් රෝගීන් 700ක්
+### 700 AIDS patients this year
 
 *2024-08-18 19:26:54* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-ඒඩ්ස්-රෝගීන්-700ක්/11-411438) · `si`
 
-මේ වර්ෂයේ ගෙවීගිය කාලයෙහිදී ආසන්න වශයෙන්  ඒඩ්ස් රෝගීන්  700කට අසන්න පිරිසක් වාර්තා වී තිබෙන බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+This year, at least 700 AIDS patients were reported, with a total of 3,500 confirmed cases and 1,500 suspected ones nationwide. The Health Ministry highlighted a significant increase, especially among children under 16 and young adults, particularly in Colombo, Gampaha, and Kalutara districts. The spread is notably high among homosexual relationships, sex workers, and tourists, indicating a growing prevalence of the disease.
 
-මේ අනුව දිවයිනෙන්  මේ වන විට හඳුනාගෙන සිටින  රෝගීන්ගේ ප්‍රමාණය 3500 දක්වා ඉහළ ගොස් තිබෙන බවත්, තවත් 1500ක් පමණ  රෝගීන් ප්‍රමාණයක් රට තුළ සිටින බවට ස්‍යෙඛ්‍ය අංශ සැක පළ කරන බවත් එම සංගමයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා සඳහන් සඳහන් කළේය.
+🟩
 
-2018 වසර වන විට ජනගහනයෙන් මිලියනයකට ඒඩ්ස් රෝගීන් 0.03 ක් පමණ හඳුනා ගැනීමට සමත් වූ බවද,  මේ වන විට එම අගය දශම එක දක්වා එනම් සියයට තුන්සිය ගුණයකින් පමණ ඉහළ ගොස් ඇතැයිද  හෙතෙම පවසා සිටියේය.
+At least 700 AIDS patients reported this year, 700 AIDS patients have been reported, medical and civil rights doctors.
 
-හඳුනාගෙන සිටින  රෝගීන්  අතර වයස අවුරුදු 16 අඩු  ළමුන් 50 දෙනෙකුට ආසන්න ගණනක් ඇති තිබෙන  බවට සෞඛ්‍ය අමාත්‍යාංශයේ ලිංගාශ්‍රිත සහ ඒඩ්ස් රෝග මර්දන ව්‍යාපාරයේ නවතම දත්ත අනුව පෙන්නුම් කරන බවද ඒ මහතා සඳහන් කළේය.
+Accordingly, the number of patients who have identified as near the island has increased to 3500 and another 1500 patients have been suspected in the country.
+
+By 2018, about 0.03 AIDS patients were able to identify 0.03 AIDS cases, he further said.
+
+He said that there were nearly 16 children under the age of 16, the Health Ministry said that there were nearly 16 children under the age of 16, "he said.
+
+According to the percentage of identifying patients, at least 5,000 patients should be in Sri Lanka, he said.
+
+According to Chamal Sanjeewa, it is important to be aware of these areas, as the prevalence of patients is likely to be increasing.
+
+He said that several AIDS patients were reported in Colombo, Gampaha and Kalutara districts, he said.
 
 ...
 
 [Data](articles/352dc90b.json)
+
+[Extended Data](ext_articles/352dc90b.ext.json)
 
 ---
 
@@ -2205,95 +2311,5 @@ Four teachers, including the school principal, was arrested and released on bail
 [Data](articles/b63834df.json)
 
 [Extended Data](ext_articles/b63834df.ext.json)
-
----
-
-### Win Ranil: Anandakumar
-
-*2024-08-18 15:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கே-வெற்றி-ஆனந்தகுமார்/175-342385) · `ta`
-
-Ranil Wickremesinghe is predicted to win the presidential election, marking a historic victory for Sri Lanka, especially among Northern, Eastern, and Upcountry populations. Subbaiah Anandakumar, a UNP member, anticipates a "golden age" under Wickremesinghe's rule. The support from Parliamentarian Velukumar and the resolution of plantation workers' salary issues are highlighted as significant achievements. Wickremesinghe's commitment to land rights and economic revival in the hill country is praised, with Tamil leaders urged to support him for the country's progress.
-
-🟩
-
-Our President Ranil Wickremesinghe will record historical victory in the presidential election with all the people, including the people of the North, East and the Upcountry people.. Subbaiah Anandakumar, a member of a three -member committee of the United National Party and the UNP district organizer, said that his next five years of rule would be the golden age of Sri Lanka.
-
-Moreover, the decision of Parliamentarian Velukumar to support President Ranil Wickremesinghe is the expectation of the people.
-
-“It is a pleasure to solve the salary issue for upland plantation workers. I thank all those who voiced their salary rise, including President Ranil Wickremesinghe, former Labor Minister Manusha Nanayakkara and members of the Ceylon Workers Congress.
-
-...
-
-[Data](articles/43165dbc.json)
-
-[Extended Data](ext_articles/43165dbc.ext.json)
-
----
-
-### Win Ranil: Anandakumar
-
-*2024-08-18 15:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கே-வெற்றி/175-342385) · `ta`
-
-Ranil Wickremesinghe is predicted to win the presidential election, marking a historic victory for Sri Lanka, especially among Northern, Eastern, and Upcountry populations. Subbaiah Anandakumar, a UNP member, anticipates a "golden age" under Wickremesinghe's rule. The support from Parliamentarian Velukumar and the expected resolution of land rights issues are highlighted as key factors contributing to Wickremesinghe's popularity. Tamil leaders are urged to back Wickremesinghe for the good of the nation, with warnings against choosing alternative candidates potentially leading the country into a "dark age."
-
-🟩
-
-Our President Ranil Wickremesinghe will record historical victory in the presidential election with all the people, including the people of the North, East and the Upcountry people.. Subbaiah Anandakumar, a member of a three -member committee of the United National Party and the UNP district organizer, said that his next five years of rule would be the golden age of Sri Lanka.
-
-Moreover, the decision of Parliamentarian Velukumar to support President Ranil Wickremesinghe is the expectation of the people.
-
-“It is a pleasure to solve the salary problem for upland plantation workers. I thank all those who voiced their voice for salary rise, including President Ranil Wickremesinghe, former Labor Minister Manusha Nanayakkara and members of the Ceylon Workers Congress.
-
-...
-
-[Data](articles/60deb246.json)
-
-[Extended Data](ext_articles/60deb246.ext.json)
-
----
-
-### Witates who came to the fight
-
-*2024-08-18 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200068) · `si`
-
-MP SM has submitted 39 nominations for the upcoming presidential election, all for himself, making him the sole candidate so far. Despite this, he mentions three potential opponents: two "witches" and a contender from Chandrika's, Mahinda's, and Ranil's governments.
-
-🟩
-
-Meanwhile, MPs SM is the only one who has given 39 nominations for the coming presidential election, but there is only one candidates, MP SM. Mr. Marikkar says.
-
-He further stated that there are three other competitors and two of them are the witchs.
-
-He also said that a person who caught gutta and contesting the presidential election for Chandrika, Mahinda and Ranil.
-
-"It is one candidate for 39 nominations nominations. There are three more competitors. There are two tapers. Ranil and Namal Homui. Another one has one who cares gutta. He is the same in Chandrika's government and the government's government. "
-
-◼️
-
-[Data](articles/c23cf2e0.json)
-
-[Extended Data](ext_articles/c23cf2e0.ext.json)
-
----
-
-### Anura Kumara pledges to remove VAT on essential items
-
-*2024-08-18 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101326/anura-kumara-pledges-to-remove-vat-on-essential-items) · `en`
-
-National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake says that steps will be taken to remove the Value Added Tax (VAT) imposed on food, health services, and school supplies after his election victory.
-
-Speaking at a public rally in Galle yesterday (16), he emphasised the urgency of the NPP taking over the country’s leadership to address the current crises.
-
-“NPP’s leadership is needed to pull the nation back from its critical state”, said Dissanayake.
-
-He further stated that their recent proposal for a new electricity generation plan was presented on August 15, which aims to reduce electricity tariffs by one third and remove VAT on essential items including food, health services and school supplies in the first budget proposal itself.
-
-NPP’s leader further criticized other candidates for focusing on their personal interests rather than prioritizing the welfare of the people.
-
-◼️
-
-[Data](articles/88ee5057.json)
-
-[Extended Data](ext_articles/88ee5057.ext.json)
 
 ---

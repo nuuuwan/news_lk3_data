@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 19:37:56**
+As of **2024-08-19 19:56:33**
 
 ## Newspaper Stats
 
-*Scraped **41,525** Articles*
+*Scraped **41,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ dailymirrorlk | 4,733
 adaderanalk | 4,862
 tamilmirrorlk | 5,354
 virakesarilk | 6,591
-adaderanasinhalalk | 7,087
+adaderanasinhalalk | 7,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,517 (100.0%) of 41,525 articles have been extended.
+41,524 (100.0%) of 41,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### තාත්තා නවත්වපු තැනින් ඉදිරියට අරන් යනවා -නාමල්
+
+*2024-08-19 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200109) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ සංවර්ධන වැඩපිළිවෙළ ඉදිරියට සිදුකරගෙන යාම තම වගකීම බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+
+පෑලියගොඩ විද්‍යාලංකාර පිරිවෙන වෙත අද (19) පැමිණ ආශිර්වාද ලබාගැනීමෙන් පසු මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+
+මාධ්‍යවේදියා - රෝහිත අබේගුණවර්ධන කියලා තියෙනවා මොන්ටිසෝරි ළමයි එක්ක මේවා කරන්න බැහැ කියලා, ඔබතුමා මොන්ටිසෝරි ළමයෙක්ද?
+
+"එතුමා මම ගැනද කිව්වේ" වෙනකෙනෙක් ගැනද කිව්වේ කියලා එතුමාගෙන්ම තමයි අහන්න ඕන.
+
+"අපි අනෙක් දේශපාලන පක්ෂ වගේ මැතිවරණ කාලයේදී වාසි ලබාගන්න අපේ ප්‍රතිපත්ති වෙනස් කරන්නේ නැහැ. අපිට පුළුවන් දේ පුළුවන් කියනවා. බැරි දේ අපි බැහැයි කියනවා.
+
+පොලිස් සහ ඉඩම් බලතල දෙන්න බැහැ. නැත්නම් උතුරු නැගෙනහිර ඒකාබද්ද කරන්න බැහැ. මේ රට බෙදන්න බැහැ.
+
+මාධ්‍යවේදියා - තාත්තා නවත්වපු තැනින් ඔබතුමා පටන් ගන්නවා කියලද කියන්නේ?
+
+"පැහැදිලිවම. 2015 රට සංවර්ධනය කරලා නතර කරපු තැනින් ඉදිරියට අරන් යනවා."
+
+◼️
+
+[Data](articles/f7128a54.json)
+
+---
+
+### තවත් පැනිල්ලක් ගැන මනූෂගෙන් හෙළිදරව්වක්
+
+*2024-08-19 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200108) · `si`
+
+සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රීවරු 14 දෙනෙකු දැනටමත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කර ඇති අතර තවත් 5 දෙනකු ඉදිරි දින කිහිපයේ ජනපති සමඟ එක්වන බව හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතා පවසයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ "පුළුවන් ශ්‍රී ලංකා" සංකල්පය බලගැන්වීමේ අරමුණින් බේරුවල තරුණ සමුළුව ඊයේ (18) පස්වරුවේ අලුත්ගම ප්‍රදේශයේදී රැස්වුණි.
+
+...
+
+[Data](articles/3be8aa48.json)
+
+---
 
 ### Sri Lankan national on board luxury yacht that sank off Sicily coast – reports
 
@@ -48,27 +88,37 @@ Dive teams have reached the sunken hull, located 49 meters underwater and roughl
 
 [Data](articles/8d92deb6.json)
 
+[Extended Data](ext_articles/8d92deb6.ext.json)
+
 ---
 
-### සජිත්ගේ ONE STOP SHOP සංකල්පය
+### Sajith's One STOP Shop Concept
 
 *2024-08-19 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200107) · `si`
 
-සිය පාලනයක් තුළ ජනාධිපති ලේකම් කාර්යාලය ආයෝජකයින්ට කඩිනම් අනුමැතිය ලබාදීම සඳහා වන මධ්‍යස්ථානයක් බවට පරිවර්තනය කරන බව සමගි ජන බලවේගයේ ජනාධිපති අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Opposition Leader Sajith Premadasa announced plans to transform Sri Lanka's Presidential Secretariat into a 'One STOP Shop' for investors, focusing on sectors like organic and nano fertilizers. He emphasized the importance of combating fraud and corruption, promising to bring culprits to justice. This initiative aims to revitalize the economy, particularly in the Kandy district, by creating a conducive environment for investment and development.
 
-සජිත් ප්‍රේමදාස මහතාගේ ජය තහවුරු කිරීම වෙනුවෙන් ''සැමට ජයක් - සමගි රටක්' තේමාවෙන් අද (19) පෙරවරුවේ නාවලපිටිය නගරයේ පැවති ජනරැලියකදී ඔහු මේ බව පවසා සිටියේය.
+🟩
 
-"දැනටමත් මම ආයෝජකයන්ට කියලා තියෙන්නේ ගම් නියම්ගම් ප්‍රාදේශීය ලේකම් කොට්ඨාස සිසාරා කර්මාන්ත ශාලා බිහිකරන ගමන 22වැනිදා ඉදළම ක්‍රියාත්මක කිරීමට සූදානම් වෙන්න කියලා.
+Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, said that the Presidential Secretariat will be transformed into a center for the investors investors.
 
-ජනාධිපති ලේකම් කාර්යාලය 'ONE STOP SHOP' එකක් බවට පත් කරලා ආයෝජනය කරන්නට එන ආයෝජකයින්ට ඉක්මන් අනුමැතියන් ලබාදෙන මධ්‍යස්ථානයක් කරනවා.  ඒ සංකල්පය එදා රණසිංහ ප්‍රේමදාස මැතිතුමාගේ යුගයේ ක්‍රියාත්මක වුණා.
+He was speaking at a familiarity in Nawalapitiya this morning to ensure Sajith Premadasa.
 
-ඒ වැඩපිළිවෙළ නැවත වරක් ක්‍රියාත්මක කරලා නුවර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් බල ප්‍රදේශ විස්සෙම නිෂ්පාදන කර්මාන්ත ආරම්භ කරනවා.
+"I have already told the investors to prepare the journey towards the factory in the Gam Nimgam Divisional Secretariat area.
 
-කාබනික පොහොර වංචාව, නැනෝ පොහොර වංචාව, හොරා කාපු පොහොර සල්ලිටික නැවත වරක් හොරුන්ගෙන් අරගෙන මේ රටේ ජනතාවට අපි ලබා දෙනවා. ඒ හොරකම කරපු සියලුම දෙනා නීතිය හමුවට ගෙන එනවා.
+The Presidential Secretariat is a hub for the investors who are investors to be converted into a 'One STOP Shop'.  ඒ සංකල්පය එදා රණසිංහ ප්‍රේමදාස මැතිතුමාගේ යුගයේ ක්‍රියාත්මක වුණා.
 
-...
+The program will be re-implemented and the Divisional Secretariat areas of the Kandy district will be launched.
+
+We will bring the organic fertilizer fraud, nano fertilizer fraud and the people of this country with thiefs again.. All those who had done to bring to the law.
+
+The sun's dairy to tell all of you who heard my speech to tell all of you once again 'gum era "is born in this country."
+
+◼️
 
 [Data](articles/dcfdef39.json)
+
+[Extended Data](ext_articles/dcfdef39.ext.json)
 
 ---
 
@@ -170,85 +220,131 @@ Dissanayake says that it is normal humanity to stand up with a hand -held hands 
 
 ---
 
-### வைபவ் நடிக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்' எனும் திரைப்படத்தின் டீசர் வெளியீடு
+### Teaser release of Vaibhav starrer 'Chennai City Gangsters'
 
 *2024-08-19 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191462) · `ta`
 
-தமிழ் திரையுலகில் ஓரளவிற்கு சந்தை மதிப்புள்ள நட்சத்திர நடிகர்களின் பட்டியலில் இடம் பிடித்திருக்கும் நடிகர் வைபவ் கதையின் நாயகனாக நடித்திருக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+The teaser for "Chennai City Gangsters," featuring Vaibhav among others, has been released. Directed by Ajay Gnanamuttu, it promises comedy and features a plot about a planned bank robbery. Produced by BTG Universal's Bobi Balachandran, the film aims to showcase talent from Tamil Nadu and includes a music album through BTG Music.
 
-அறிமுக இயக்குநர்கள் விக்ரம் ராஜேஷ்வர் மற்றும் அருண் கேசவ் ஆகியோர் இணைந்து இயக்கியிருக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்' எனும் திரைப்படத்தில் வைபவ், அதுல்யா ரவி, மணிகண்டன் ராஜேஷ், ஆனந்தராஜ், இளவரசு, ஜான் விஜய், சுனில் ரெட்டி, ரெடின் கிங்ஸ்லி, மொட்டை ராஜேந்திரன், பிபின், ஷீஹான் உசைனி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். டிஜோ டோமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி இமான் இசையமைத்திருக்கிறார். நகைச்சுவைக்கு முக்கியத்துவம் அளித்து தயாரிக்கப்பட்டிருக்கும் இந்த திரைப்படத்தை பி டி ஜி யுனிவர்சல் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் பாபி பாலச்சந்திரன் தயாரித்திருக்கிறார்.
+🟩
+
+The preview of the film 'Chennai City Gangsters' has been released in the Tamil film industry.
+
+Vaibhav, Atuliya Ravi, Manikandan Rajesh, Anandaraj, John Vijay, Sunil Reddy, Redin Kingsley, Motta Rajendran, Bipin, Shehhan, Shahn, Shadhin, Bipin, Shehhan,. Dijo Tommy has composed the film for the film. The film is being produced by Bobi Balachandran on behalf of BTG Universal.
+
+The teaser launch of the film, which will be released in September, was held in Chennai. Director Ajay Gnanamuttu and actor Arun Vijay participated in the event.
+
+Speaking on the occasion, Bobby Balachandran said, “I thank the fans who have been honored with the film 'Demandi Colony 2', the first production of our company.. Following this, we have produced the movie 'Chennai City Gangsters'.
 
 ...
 
 [Data](articles/6da7a6aa.json)
 
+[Extended Data](ext_articles/6da7a6aa.ext.json)
+
 ---
 
-### நானி நடிக்கும் 'சூர்யா'ஸ் சாட்டர்டே' படத்தின் முன்னோட்டம் வெளியீடு
+### Nani starring 'Surya's Saturday'
 
 *2024-08-19 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191459) · `ta`
 
-'நான் ஈ' படத்தின் மூலம் தமிழ் ரசிகர்களையும் வெகுவாக கவர்ந்த தெலுங்கின் முன்னணி நட்சத்திர நடிகரான நானி கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'சூர்யா'ஸ் சாட்டர்டே' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+"Nani stars in 'Surya's Saturday,' directed by Vivek Athreya, featuring a multilingual release including Tamil, Telugu, Malayalam, Kannada, and Hindi versions. The film, produced by DVV Entertainment, showcases a diverse cast including Nani, S.J.Surya, Priyanka Mohan, Aditi Palan, and Abirami. Nani highlights the film's aim to unite audiences across generations, emphasizing its unique screenplay."
 
-இயக்குநர் விவேக் ஆத்ரேயா இயக்கத்தில் உருவாகி இருக்கும் 'சூர்யா'ஸ் சாட்டர்டே' எனும் திரைப்படத்தில் நானி, எஸ். ஜே. சூர்யா, பிரியங்கா மோகன், அதிதி பாலன், அபிராமி, சாய்குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஜி. முரளி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜேக்ஸ் பிஜாய் இசையமைத்திருக்கிறார்.
+🟩
 
-எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை டி வி வி என்டர்டெய்ன்மென்ட் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் டி வி வி தனய்யா மற்றும் கல்யாண் தாசரி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+The preview of the film 'Surya's Satarde', which plays the lead role of Telugu star Nani's story, has attracted Tamil fans through 'I E'.
 
-எதிர்வரும் 29 ஆம் திகதியன்று தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளில் பான் இந்திய திரைப்படமாக இத்திரைப்படம் வெளியாகிறது. இந்நிலையில் இப்படத்தின் தமிழ் பதிப்பின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+Nani, S.. J.. Surya, Priyanka Mohan, Aditi Palan, Abirami, Saikumar and many others have been cast. G. Jack Bijai has composed the film, which has been recorded by Murali.
 
-...
+The film is being produced by DVV Entertainment Company on behalf of DVV Entertainment Company.
+
+The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 29th of this month.. In this case, the preview of the Tamil version of the film has been released.
+
+For this, the actors Nani, S.. J.. Surya, actresses Priyanka Mohan, Aditi Palan and Abirami participated.
+
+Speaking about the film, actor Nani said, “Surya's Saturday movie. Director Vivek Athreya has made the film to reflect the sentiments of all sides. His screenplay would be exclusive.
+
+From children to adults, everyone has been lovingly urged to give the support of our films in this film. ”
+
+◼️
 
 [Data](articles/a8cc7c8b.json)
 
+[Extended Data](ext_articles/a8cc7c8b.ext.json)
+
 ---
 
-### ரெபல் ஸ்டார்' பிரபாஸ் நடிக்கும் புதிய படம்
+### New movie starring Rebel Star 'Prabhas
 
 *2024-08-19 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191464) · `ta`
 
-'கல்கி 2898 கிபி' படத்தின் பிரம்மாண்டமான வசூல் ரீதியான வெற்றிக்குப் பிறகு பான் இந்திய நட்சத்திர நடிகரான பிரபாஸ் நடிக்கும் பெயரிடப்படாத புதிய படத்தின் தொடக்க விழா ஹைதராபாத்தில் பிரம்மாண்டமாக நடைபெற்றது.
+The opening ceremony for Prabhas' new film, directed by Hanu Raghawapudi, took place in Hyderabad. Starring Prabhas, Imanvi, Mithun Chakraborty, and Jayapratha, it follows a warrior's journey in the 1940s against societal injustices. Vishal Chandrasekhar composed the music, with cinematography by Sudeep Chatterjee. Produced by Maithri Movie Makers' Naveen Jenernie and co-produced by Ravi Shankar, the film promises a blend of fiction and history.
 
-'சீதா ராமம்' எனும் படத்தின் மூலம் இந்திய அளவிலான ரசிகர்களின் கவனத்தைக் கவர்ந்த இயக்குநர் ஹனு ராகவபுடி இயக்கத்தில் உருவாகவிருக்கும் பெயரிடப்படாத புதிய திரைப்படத்தில் பிரபாஸ், இமான்வி, மிதுன் சக்கரவர்த்தி, ஜெயப்பிரதா உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+🟩
 
-சுதீப் சட்டர்ஜி ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு விஷால் சந்திரசேகர் இசையமைக்கிறார். இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் நவீன் யெர்னேனி மற்றும் வை . ரவிசங்கர் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+After the huge success of 'Kalki 2898 AD', the opening ceremony of the unnamed new film starring Pan Indian star actor Prabhas was held in Hyderabad.
+
+Prabhas, Imanvi, Mithun Chakraborty and Jayapratha are starring in the upcoming new film directed by Hanu Raghawapudi, directed by director Hanu Raghawapudi, who attracted the attention of Indian -level fans through the film 'Sita Ramam'.
+
+Vishal Chandrasekhar has composed the film, which is being recorded by Sudeep Chatterjee. The film was made on behalf of Maithri Movie Makers Company Producers Naveen Jenernie. Ravi Shankar is co -produced.
 
 ...
 
 [Data](articles/f27f6b53.json)
 
+[Extended Data](ext_articles/f27f6b53.ext.json)
+
 ---
 
-### சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிக்கும் 'வேட்டையன்' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+### Super Star Rajinikanth starrer 'Vettayan'
 
 *2024-08-19 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191466) · `ta`
 
-சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் தயாராகி இருக்கும் 'வேட்டையன்' திரைப்படம் வெளியாகும் திகதியை படக்குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் அறிவித்திருக்கிறார்கள்.
+"Rajinikanth's 'Vettayan', directed by 'Jai Bhim' fame CM, also stars Amitabh Bachchan, Rana Daggubati, and others. Composed by Anirudh, it's produced by Subaskaran under Leica Productions. Set for release in five languages on October 10th, the film follows the success of 'Jailer', which earned over Rs 600 crore. Fans eagerly await this alongside Surya's 'Gangaa', also releasing on October 10th."
 
-'ஜெய் பீம்' படத்தின் மூலம் பிரபலமான இயக்குநர் த. செ. ஞானவேல் இயக்கத்தில் உருவாகி இருக்கும் 'வேட்டையன்' எனும் திரைப்படத்தில் சுப்பர் ஸ்டார் ரஜினிகாந்த், பொலிவுட் சுப்பர் ஸ்டார் அமிதாப்பச்சன், பஹத் ஃபாசில், ராணா டகுபதி, மஞ்சு வாரியர், அபிராமி, ரித்திகா சிங், துஷாரா விஜயன், கிஷோர், ரெடின் கிங்ஸ்லி, ரோஹினி, ராவ் ரமேஷ், ரமேஷ் திலக் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-எஸ் . ஆர். கதிர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் சார்பில் பிரபல பிரம்மாண்டமான தயாரிப்பாளர் சுபாஷ்கரன் தயாரித்திருக்கிறார்.
+Super Star Rajinikanth's starring 'Vettayan' starring 'Vettayan' has been releasing a special photo of the film.
 
-தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் விறுவிறுப்பாக நடைபெற்று வரும் நிலையில், இப்படத்தின் வெளியீட்டு திகதி குறித்த அதிகாரப்பூர்வமான அறிவிப்பினை பட குழுவினர் வெளியிட்டிருக்கிறார்கள்.
+The famous director of 'Jai Bhim'. Cm. Super Star Rajinikanth, Bollywood Super Star Amitabh Bachchan, Bahat Fazil, Rana Dagupati, Manju Warrior, Abirami, Ritika Singh, Dushara Vijayan, Kishore.
+
+S.. R. Anirudh has composed the film, which has been recorded by Kadir. The film is being produced as Exan Entertainer and produced by famous producer Subhashkaran on behalf of Leica Productions.
+
+The film crew has issued an official announcement on the release date of the film as the post -shooting technology work is underway.
+
+The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 10th of October.
+
+Also, the teaser and first single of the film are expected to be released in September.
 
 ...
 
 [Data](articles/19782856.json)
 
+[Extended Data](ext_articles/19782856.ext.json)
+
 ---
 
-### முத்தமிழ் அறிஞர் கலைஞர் நூற்றாண்டு நினைவு நாணயம் வெளியீடு
+### Centenary Memorial Currency Release
 
 *2024-08-19 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191468) · `ta`
 
-தமிழகத்தின் முன்னாள் முதல்வர் கலைஞர் கருணாநிதியின் உருவம் பொறித்த நூற்றாண்டு நினைவு நாணயத்தை மத்திய பாதுகாப்பு துறை அமைச்சர் ராஜ்நாத் சிங் வெளியிட, தமிழக முதல்வர் மு. க. ஸ்டாலின் பெற்றுக் கொண்டார்.
+Union Defense Minister Rajnath Singh released a commemorative currency for the centenary of late Tamil Nadu CM Karunanidhi, highlighting his contributions to politics, welfare programs, and literature. The event, attended by various dignitaries, celebrated Karunanidhi's legacy, including his role in developing the DMK, introducing self-help groups for women, and advocating for state rights and federalism.
 
-இதற்காக சென்னை கலைவாணர் அரங்கத்தில் நடைபெற்ற பிரத்யேக விழாவில் மத்திய பாதுகாப்புத்துறை அமைச்சர் ராஜ்நாத் சிங் கலந்து கொண்டார்.‌ இந்த நிகழ்வில் மத்திய இணை அமைச்சர் எல். முருகன், பாஜக மாநில தலைவர் அண்ணாமலை, திமுகவின் மக்களவை உறுப்பினர்கள், மாநிலங்களவை உறுப்பினர்கள், அமைச்சர்கள், சட்டமன்ற உறுப்பினர்கள், கட்சியின் மூத்த நிர்வாகிகள் என பலரும் பங்கு பற்றினர்.
+🟩
 
-''1960களில் பெரும் அரசியல் தலைவராக உருவெடுத்தவர் கலைஞர் கருணாநிதி. 1960 முதல் தற்போது வரை ஆதிக்கம் செலுத்தும் கட்சியாக திமுகவை வளர்த்தெடுத்தவர் கருணாநிதி. அவரின் அரசியல் போராட்டங்கள் தீவிரமானவை. துணிச்சலானவை. அதே தருணத்தில் பல்வேறு தேசிய கட்சிகளுடன் நல்லுறவையும் பேணி காத்தவர்.
+Union Defense Minister Rajnath Singh has released the centenary commemoration of former Chief Minister of Tamil Nadu Karunanidhi. G. Stalin received.
+
+Union Defense Minister Rajnath Singh attended the event held at the Art Gallery of Chennai.. Murugan, BJP state president Annamalai, DMK's Lok Sabha members, Rajya Sabha members, ministers, legislators and senior party executives.
+
+“Artist Karunanidhi was the great political leader in the 1960s. Karunanidhi was the one who developed the DMK as the dominant party from 1960. Her political struggles are serious. Are brave. At the same time, he will maintain goodwill with various national parties.
+
+Karunanidhi is the one who has made welfare programs to get quality education. Manner. Karunanidhi introduced self -help groups for women in 1989.
 
 ...
 
 [Data](articles/39b6c2ce.json)
+
+[Extended Data](ext_articles/39b6c2ce.ext.json)
 
 ---
 
@@ -2309,39 +2405,5 @@ This luxurious area is designed exclusively for the top two VIP categories, Diam
 [Data](articles/be61b594.json)
 
 [Extended Data](ext_articles/be61b594.ext.json)
-
----
-
-### Neptune Recyclers recognised with Gold Award at ESG Summit 2024
-
-*2024-08-18 23:53:00* · [`islandlk`](http://island.lk/neptune-recyclers-recognised-with-gold-award-at-esg-summit-2024/) · `en`
-
-Neptune Recyclers recently reached a significant milestone, by receiving the Gold Award at the Environmental, Social and Governance (ESG) Summit 2024, organised by the Colombo University MBA Alumni Association, at the Cinnamon Grand Hotel, Colombo on 6th August 2024. The prestigious award was presented by His Excellency President Ranil Wickremesinghe.
-
-The award ceremony was attended by members of Neptune Recyclers Senior Management team, including Fazleen Majeed, Chief Executive Officer, Aadhil Azeez. Manager, Business Development, Moshin Mustaq and Wakeel Zackariya. Fazleen Majeed and Aadhil Azeez had the honour of receiving the award from President Ranil Wickremesinghe. The award was bestowed upon the company in recognition of their unparalleled commitment to implementing sustainable growth.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/844a4c8e.json)
-
-[Extended Data](ext_articles/844a4c8e.ext.json)
-
----
-
-### Rootcode opens second computer lab to empower students
-
-*2024-08-18 23:52:00* · [`islandlk`](http://island.lk/rootcode-opens-second-computer-lab-to-empower-students/) · `en`
-
-The Rootcode Foundation opened a computer lab at Mawathgama Kanishta Vidyalaya on August 4, 2024. This was the second school adopted by the Rootcode Foundation, which continues its mission to empower underprivileged children through technology education.
-
-...
-
-[Data](articles/684976a2.json)
-
-[Extended Data](ext_articles/684976a2.ext.json)
 
 ---

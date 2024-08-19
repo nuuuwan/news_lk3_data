@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 10:08:12**
+As of **2024-08-19 10:21:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,071
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,438 (100.0%) of 41,441 articles have been extended.
+41,441 (100.0%) of 41,441 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,33 @@ The talks to strike a deal for a truce and return of hostages held in Gaza were 
 
 [Data](articles/66d436bb.json)
 
+[Extended Data](ext_articles/66d436bb.ext.json)
+
 ---
 
-### අමෙරිකාවේ ඉහළ පෙළේ රාජ්‍ය නිලධාරිනියක් දිවයිනට
+### US in Sri Lanka
 
 *2024-08-19 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200089) · `si`
 
-සාගර සහ අන්තර්ජාතික පාරිසරික සහ විද්‍යාත්මක කටයුතු පිළිබඳ වැඩබලන අමෙරිකානු සහකාර රාජ්‍ය ලේකම් ජෙනිෆර් ආර්. ලිට්ල්ජෝන් අද (19) දිවයිනට පැමිණීමට නියමිතය.
+Littlejone, an official from the US Department of State, arrives in Sri Lanka today to discuss promoting women and girls, addressing crises, and collaborating on science, technology, engineering, and math sectors. She will meet with Sri Lankan officials and partners, focusing on connecting locals with US experts in areas like wildlife protection and climate change.
 
-අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව සඳහන් කළේ ඇය ඉන්දියාවේ සහ මාලදිවයිනේ ද සංචාරය කිරීමට නියමිත බවය.
+🟩
 
-මෙම  සංචාරයේදී ඇය සොබාදහම සහ සමුද්‍ර සංරක්ෂණය, ප්ලාස්ටික් සහ වායු දූෂණය, දේශගුණික අර්බුදය, වන විනාශය, ස්වාභාවික අපරාධ, සිවිල් සහ වාණිජ අභ්‍යවකාශ ක්‍රියාකාරකම්, විද්‍යා, තාක්ෂණික, ඉංජිනේරු සහ ගණිත අංශය වෙනුවෙන් කාන්තාවන් සහ ගැහැණු ළමුන් ප්‍රවර්ධනය කිරීම සහ තිරසර ආර්ථිකය පිළිබඳ සාකච්ඡා කිරීමට නියමිතය.
+Acting American Assistant American Assistant American Assistant American Assistant American Assistant Affairs. Littlejone is due to arrive in the island today.
 
-ඒ අනුව අමෙරිකානු සහකාර රාජ්‍ය ලේකම්වරිය අද සිට එළැඹෙන  21 දක්වා මෙරට රාජ්‍ය නිලධාරීන් සහ හවුල්කරුවන් හමුවී සාකච්ඡා කිරීමට නියමිත බව සඳහන් වේ.
+The American Department of State stated that she is to visit India and the Maldives.
 
-එමෙන්ම එක්සත් ජනපදයේ සහාය ලබන වනජීවී ආරක්ෂණ ව්‍යාපෘති නැරඹීම, හයිඩ්‍රොග්‍රැෆි සහ දේශගුණික විපර්යාස වැනි ප්‍රමුඛතා ක්ෂේත්‍රවල එක්සත් ජනපද විශේෂඥයන් සමඟ ශ්‍රී ලාංකිකයන් සම්බන්ධ කිරීමේ අවස්ථා ගවේෂණය කිරීමට ද ඇය එක්වනු ඇති බව අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව  සඳහන් කළේය.
+During this visit, she is to discuss the promotion of women and girls, natural crisis, civil and commercial crisis, natural crisis, civilian crisis, science, technological, engineering and math sector..
+
+According to the US Assistant Secretary of the State and the Government of Sri Lanka to meet with public officials and partners from today.
+
+She also join the US Department of State Department to connect Sri Lankans with US experts with US experts, such as watching wildlife protection projects, such as Hydrographe and Climate Change.
 
 ◼️
 
 [Data](articles/af6d7c6b.json)
+
+[Extended Data](ext_articles/af6d7c6b.ext.json)
 
 ---
 
@@ -1182,23 +1190,29 @@ Anura Kumara Dissanayake added that the tax on patients with school books, inclu
 
 ---
 
-### ළමා නිවාස ගත දරුවන්ගේ සංඛ්‍යාව ඉකුත් දස වසරක් තුළ 3,353 කින් අඩු වෙලා
+### The number of children's home children has decreased by 3,353 in the past ten years
 
 *2024-08-18 19:05:12* · [`adalk`](https://www.ada.lk/breaking_news/ළමා-නිවාස-ගත-දරුවන්ගේ-සංඛ්‍යාව-ඉකුත්-දස-වසරක්-තුළ-3-353-කින්-අඩු-වෙලා/11-411435) · `si`
 
-ළමා නිවාස ගත ළමයින්ගේ සංඛ්‍යාව ඉකුත් මාර්තු මාසයේ සිට (දස වසරක  කාල සීමාවක් තුළ)ළමයින් සංඛ්‍යාව  3353 කින් අඩු වී ඇත.
+Over the past decade, the number of children in care has dropped significantly, from 12,610 in 2014 to 9,258 in 2023. Despite this positive trend, there were still 605 cases of serious sexual abuse reported by the end of 2023. In response, a child protection committee was established in July 2024, focusing on addressing the needs of children, including nutrition.
 
-පරිවාසක  හා ළමා ආරක්ෂණ දෙපාර්තමේන්තුවේ 2014 වර්ෂයේ සිට 2023 වර්ෂය දක්වා දත්ත පරීක්ෂ කිරීමේ දී  මේ බව අනාවරණය වී ඇති බව 17-08 දින  නිකුත් කරන ලද නවතම විගණන වාර්තාවකින් අනාවරණය කර ඇත.
+🟩
 
-පරිවාසක හා ළමා ආරක්ෂක  දෙපාර්තමේන්තුවේ 2014 වර්ෂායේ දී දිවයින පුරා ශාඛා 38 ක රැඳී සිටි ළමයින් සංඛ්‍යාව 12,610 ක් වූ අතර  එම නිවාස වල සිටි ළමයින් සංඛ්‍යාව  2023 වර්ෂයේ දෙසැම්බර් වන විට 9258 ක් දක්වා අඩුව ඇත.
+The number of children's homes has been reduced from 3353 children since March (within ten years).
 
-මේ අතර ළමයින්ට එරෙහිව බරපතල ලිංගික අපයෝජන 605 ක් 2023 දෙසැම්බර් අවසන් වන විට සිදු වී ඇති බවත් එම වාර්තාවේ සඳහන්වේ.
+The latest audit report released from the year 2014 to the 2005 to 20th of the year 2014, it has been revealed.
 
-ළමා ආරක්ෂනය ක්‍රියාත්මක කිරීමේ කමිටුවක් 2024 වර්ෂයේ ජූලි මාසයේ  පත් කර ගන්නා ලද අතර ළමා නිවාසය ළමයින් අවම වීම සහ පෝෂණ අවශ්‍යතා පිළිබඳ වාර්තාවක් 2023 සැප්තැම්බර් මස පැවති එම රැස්වීමකදී   සියලු පළාත් පරිවාස හා ළමා ආරක්ෂක සේවා කොමසාරිස්වරුන්ගෙන් කැඳවා තිබුණු බව එම විගණන වාර්තාවේ සඳහන්වේ.
+The Department of Probation and Child Protection Department of 2014 was 12,610 and the number of children in these houses was reduced to 9258 at the time of 2023.
+
+The report states that 605 serious sexual abuse against children have occurred by the end of December 2023, reports say.
+
+The audit report states that a child protection activation committee was appointed in July in July, 2024 and a report on childhood needs and nutrition needs was summoned from the Probation and Child Protection Commissioners of the Probation and Child Care in 2023.
 
 ◼️
 
 [Data](articles/f69ec1e7.json)
+
+[Extended Data](ext_articles/f69ec1e7.ext.json)
 
 ---
 

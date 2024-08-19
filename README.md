@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 17:57:34**
+As of **2024-08-19 18:16:51**
 
 ## Newspaper Stats
 
-*Scraped **41,510** Articles*
+*Scraped **41,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,505
 dailyftlk | 2,676
-adalk | 3,820
+adalk | 3,821
 dailymirrorlk | 4,733
-adaderanalk | 4,859
-tamilmirrorlk | 5,352
+adaderanalk | 4,860
+tamilmirrorlk | 5,353
 virakesarilk | 6,585
 adaderanasinhalalk | 7,084
 
@@ -26,25 +26,69 @@ adaderanasinhalalk | 7,084
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,509 (100.0%) of 41,510 articles have been extended.
+41,510 (100.0%) of 41,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### දිනක් තුළ මැතිවරණ පැමිණිලි 65ක්
+### புதிய நியமனங்கள் குறித்து EC க்கு அறிவிப்பு
+
+*2024-08-19 17:48:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-நியமனங்கள்-குறித்து-EC-க்கு-அறிவிப்பு/175-342454) · `ta`
+
+தற்போதைய அரசாங்கம் தேர்தல் சட்டத்தை வேண்டுமென்றே மீறியமை குறித்து கடுமையான கவலைகளை எழுப்பும் அதே வேளையில், ஜனாதிபதியின் ஆலோசகர்கள் இருவரை நியமித்தது தொடர்பாக சுதந்திரமான மற்றும் நியாயமான தேர்தலுக்கான மக்கள் நடவடிக்கை அமைப்பு (PAFFREL) தேர்தல்கள் ஆணைக்குழுவிற்கு அறிவித்துள்ளது.
+
+ஜனாதிபதியின் ஆலோசகர்கள் இருவரை நியமித்துள்ளமை தேர்தல் சட்டத்தை மீறிய செயலாகவும், பொது நிதியை துஷ்பிரயோகம் செய்வதாகவும் அமைந்துள்ளதாக பெப்ரல் அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி ஊடகங்களுக்கு கருத்து தெரிவித்தார்.
+
+“ஜனாதிபதியின் ஆலோசகர்களாக நியமிக்கப்பட்ட இருவரும் ஜனாதிபதியின் தேர்தல் பிரச்சாரத்தில் தீவிரமாக ஈடுபட்டுள்ளனர். ஒரு வேட்பாளரை ஊக்குவிக்கும் தந்திரோபாயமான இந்த நடவடிக்கை தேர்தல் சட்டத்தின் கீழ் தடைசெய்யப்பட்டது” என அவர் சுட்டிக்காட்டினார்.
+
+"மேலும், இருவருக்குமான வாகனங்கள் உட்பட கொடுப்பனவுகள் பொது நிதியை தவறாக பயன்படுத்தும் செயலாகும்," என்று அவர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/1b7b0006.json)
+
+---
+
+### 65 more election-related complaints within 24 hours as total exceeds 600
+
+*2024-08-19 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101355/65-more-election-related-complaints-within-24-hours-as-total-exceeds-600) · `en`
+
+The complaints received by the Election Commission of Sri Lanka related to the upcoming presidential election have further increased.
+
+The Election Commission says that 65 more complaints have been received within the past 24 hours, pertaining to the 2024 Presidential Election.
+
+Accordingly, a total of 631 election complaints have been reported between July 31 and today (19), the Election Commission said.
+
+This includes 346 complaints received by the national election-related complaints management centre and 285 complaints received by the district centres, according to the Election Commission.
+
+The Presidential Election is scheduled to be held on September 21 and Nominations will be accepted on August 15, 2024.
+
+◼️
+
+[Data](articles/0d326fda.json)
+
+---
+
+### 65 election complaints within a day
 
 *2024-08-19 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200104) · `si`
 
-ගත වූ පැය 24ක කාලය තුළ මැතිවරණ පැමිණිලි 65ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+In the last 24 hours, the Elections Commission received 65 election complaints, with 30 going to the National Elections Complaint Management Center and 35 to the District Election Procedure Management Center. Since July 31, there have been 631 and 1831 complaints respectively.
 
-ජාතික මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට පැමිණිලි 35ක් සහ දිස්ත්‍රික් මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට පැමිණිලි 30ක් සඳහන්ය.
+🟩
 
-මේ අතර පසුගිය ජුලි 31 සිට ඊයේ (18) දිනය දක්වා සමස්ත පැමිණිලි 631ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Elections Commission says that 65 election complaints have been received during the past 24 hours.
+
+The National Elections Complaint Management Center has complained to the National Elections Complaint Management Center and 30 complaints to the District Election Procedure Management Center.
+
+Meanwhile, 631 complaints have been received from July 31 and 1831 complaints from July 31.
 
 ◼️
 
 [Data](articles/d6eb1bf8.json)
+
+[Extended Data](ext_articles/d6eb1bf8.ext.json)
 
 ---
 
@@ -303,6 +347,26 @@ Accordingly, the leader of ‘Mawbima Janatha Party’, Dilith Jayaweera and the
 [Data](articles/71588f9c.json)
 
 [Extended Data](ext_articles/71588f9c.ext.json)
+
+---
+
+### මහනුවර අවසන් රන්දෝලි පෙරහැරට මහ සෙනගක්
+
+*2024-08-19 15:52:08* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අවසන්-රන්දෝලි-පෙරහැරට-මහ-සෙනගක්/11-411446) · `si`
+
+මහනුවර ඓතිහාසික ශ්‍රී දළදා මාලිගයේ අවසන් රන්දෝලි පෙරහර වීදී සංචාරය කරන අද (19) දින දිවයිනේ නන් දෙසින් පැමිණි විශාල නරඹන්නන් පිරිසක් පෙරහැර නැරඹීමට හා  ආශිර්වාද ලබා ගැනීම සඳහා වීදී දෙපස පෙළ ගැසී සිටින අයුරු දක්නට ලැබිණී.
+
+මෙවර පෙරහර සඳහා දේශීය සංචාරකයින්ට අමතරව විදේශීය සංචාරකයින් ද විශාල පිරිසක් දක්නට ලැබීම සුවිශේෂි තත්ත්වයකි.
+
+නිකිණි පොහොය දිනය යෙදි තිබිම නිසා රජයේ නිවාඩු දිනයක් බැවින් දළදා මාලිගාව වැඳ  පුදා ගැනීමටත් පෙරහැර නැරඹීමටත් ඉතා විශාල  පිරිසක් පැමිණ සිටි අතර, පෙරවරුවේ සිට පැමිණී ජනතාව මෙසේ වීදී දෙපස රැස් වී සිටිනු දක්නට ලැබිණි.
+
+එසේ පැමිණි පිරිස් සඳහා විවිධ සංවිධාන හා පුද්ගලයින් විසින්  සිසිල් බීම, තේ පැන්, කඩල, බත් හා පාන් දන්සැල් ද සංවිධානය කර තිබිණි.
+
+අවසන් රන්දෝලි පෙරහැර රාත්‍රී 6.57ට යෙදෙන සුබ මොහොතින් උතුරු දිශාභිමුඛව පෙරහර පිටත්ව ශ්‍රී දළදා වීදිය, යටිනුවර වීදිය, කන්දේ වීදියෙන් හැරී  ඩී.එස් සේනානායක වීදියේ ගමන්කර රජ වීදිය ඔස්සේ ඉහළටවිත් පෙරහර ගෙවදීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/163cb3e8.json)
 
 ---
 
@@ -2269,79 +2333,5 @@ Following his entry into the party, Kumari Munasinghe was appointed as the Gampa
 [Data](articles/76dd7474.json)
 
 [Extended Data](ext_articles/76dd7474.ext.json)
-
----
-
-### International election observers arrive in Sri Lanka to monitor Presidential Poll
-
-*2024-08-18 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101334/international-election-observers-arrive-in-sri-lanka-to-monitor-presidential-poll) · `en`
-
-A group of election observers from the European Union and the Commonwealth have arrived in Sri Lanka to monitor the September 21 presidential election, Election Commission officials said on Sunday.
-
-They arrived in the island at the invitation of Sri Lanka’s Election Commission.
-
-The EU has previously done election monitoring in Sri Lanka six times with the last being at the presidential election of 2019.
-
-“The deployment of the Election Observation Mission in Sri Lanka this year confirms our long-standing commitment to supporting credible, transparent, inclusive and peaceful elections in the country,” the head of the observer group said in a statement on Saturday.
-
-“The forthcoming presidential election will give a new impetus to democracy following the 2022 political and economic crisis. This election is important for Sri Lanka to continue making progress on its path of reforms and lasting recovery, in full respect of democratic values,” the head of the observer group was quoted as saying.
-
-...
-
-[Data](articles/0334c9b5.json)
-
-[Extended Data](ext_articles/0334c9b5.ext.json)
-
----
-
-### The executive presidency will be abolished;Sajith confirmed
-
-*2024-08-18 21:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிறைவேற்று-அதிகார-ஜனாதிபதி-முறை-நீக்கப்படும்-சஜித்-உறுதி/175-342398) · `ta`
-
-Presidential candidate Sajith Premadasa announced the abolition of Sri Lanka's executive presidency, advocating for a parliamentary democratic system instead. He reaffirmed his commitment to this change during a rally, emphasizing his determination despite opposition efforts to maintain the current system.
-
-🟩
-
-Presidential candidate Sajith Premadasa has said that the executive presidency of the United People's Power will be abolished and the parliamentary democratic system will be accepted.
-
-He said this while addressing the United People's Power rally in Ruwanwella area today (18).
-
-No matter how many people are trying to change the presidential system. I don't have posts. I promise one thing. The executive presidency will certainly be abolished.
-
-The President is the main guardian of the group that has appealed to Rajapaksa. Ranil Wickremesinghe, the Inspector General of Police for Protecting Rajapaksa. Remble
-
-◼️
-
-[Data](articles/d1243539.json)
-
-[Extended Data](ext_articles/d1243539.ext.json)
-
----
-
-### Arjuna Mahendran brings to Sri Lanka - Anura Kumara
-
-*2024-08-18 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200079) · `si`
-
-National Folk Force presidential candidate Anura Kumara Dissanayake criticizes Arjuna Mahendran, accusing him of releasing confidential central bank documents related to a fraud case to Singapore. This accusation came during a public rally in Kiribathgoda, where Dissanayake also addressed a statement made by Ranil Wickremesinghe, referring to him as "Nessi Neguma." The speech highlights issues of corruption and the handling of sensitive information within the government.
-
-🟩
-
-The National Folk Force Presidential candidate Anura Kumara Dissanayake says that after the President is released by the Central Bank fraud to Sri Lanka, he said.
-
-He was speaking at a public rally in Kiribathgoda today (18).
-
-He was responding to a statement that Mr. Ranil Wickremesinghe said to Anura Wickremesinghe in Anuradhapura, "Anura Nessi Neguma."
-
-"I saw Ranil Wickremesinghe asks in Anuradhapura asking Ranil Wickremesinghe in Anuradhapura.  අපි අපහාස කරන්න ඕන නැහැනේ, අපි කවුරුත් වයසට යනවානේ.
-
-I'll tell you one answer.  මහ බැංකු වංචාවට සම්බන්ධවෙලා අධිකරණයෙන් රතු වරෙන්තු නිකුත් කරලා සිංගප්පූරුවට පැනලා ඉන්න අර්ජුන මහේන්ද්‍රව ලංකාවට ගේනවා. Arjuna Mahendra Croop committee gave this deal, Minister Ranil Wickremesinghe was instructed to do this deal. Arjuna Mahendran was produced from the country.
-
-So he asked what to do. Arjuna's Mahendra is banding the main.  උසාවිය කටඋත්තර ගන්නවා.  ඊළඟට ඔයත් ගේනවා. That's what you. He was thinking too much. Uncerpable, "
-
-◼️
-
-[Data](articles/8f3738e2.json)
-
-[Extended Data](ext_articles/8f3738e2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 18:39:27**
+As of **2024-08-19 18:56:00**
 
 ## Newspaper Stats
 
-*Scraped **41,515** Articles*
+*Scraped **41,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,505
 dailyftlk | 2,676
 adalk | 3,821
 dailymirrorlk | 4,733
-adaderanalk | 4,860
+adaderanalk | 4,861
 tamilmirrorlk | 5,354
 virakesarilk | 6,585
 adaderanasinhalalk | 7,085
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,514 (100.0%) of 41,515 articles have been extended.
+41,515 (100.0%) of 41,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### Sri Lanka’s PMI for July expands on new orders and production
+
+*2024-08-19 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101356/sri-lankas-pmi-for-july-expands-on-new-orders-and-production) · `en`
+
+The Central Bank of Sri Lanka’s (CBSL) purchasing manager’s report for July 2024 has shown that the manufacturing index expanded to 59.5 from 56.6 in the month of June this year.
+
+The CBSL said that all the sub-indices expanded on a month-on-month basis contributing to this increase.
+
+The report indicated that the increase in New Orders and Production was mainly attributable to the manufacture of food and beverage and textile & apparel sectors.
+
+Meanwhile, employment has turned positive in July 2024 while the Stock of Purchases also expanded in line with the increased demand for materials, as per the CBSL report.
+
+The services Purchasing Manager’s Index (PMI) indicated a further expansion in service activities in July 2024 as reflected by the Business Activity Index, which recorded an index value of 71.1, the highest value recorded so far this year.
+
+...
+
+[Data](articles/e4f9520d.json)
+
+---
 
 ### The horrific accident that killed a young man --cctv
 
@@ -58,21 +78,29 @@ The motorcycle was rushed to the main road despite the decades and the motorcycl
 
 ---
 
-### நாமலுடன் கைகுலுக்கியது ஏன்;பதிலளித்தார் அநுர
+### Why shook hands with Namal;
 
 *2024-08-19 18:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலுடன்-கைகுலுக்கியது-ஏன்-பதிலளித்தார்-அநுர/175-342455) · `ta`
 
-தேர்தல் செயலகத்தில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவுடன் இடம்பெற்ற கலந்துரையாடல் தொடர்பில் கருத்து தெரிவித்த தேசிய மக்கள் சக்தி தலைவர் அனுரகுமார திஸாநாயக்க, இன்று இது ஒரு சாதாரண அரசியல் சம்பவம் எனவும், கைகுலுக்கலைத் தவிர்ப்பதைக் காட்டிலும் இது சரியானது எனவும் தெரிவித்தார்.
+Anura Kumara Dissanayake, leader of the National People's Power, met with Namal Rajapaksa, a presidential candidate from Sri Lanka's PA party. He described their handshake as a routine political interaction, emphasizing its normalcy over avoiding such gestures. Dissanayake clarified that their discussion didn't revolve around significant issues but focused on basic greetings like "how are you." He highlighted the importance of human connections in politics, contrasting it with the criticism faced by the president for refusing a handshake.
 
-ராஜபக்ஷவுடனான உரையாடல் குறித்த கேள்விக்கு பதிலளித்த அவர், தாங்கள் விசேடமாக எதுவும் கலந்துரையாடவில்லை என்று ஊடகங்களுக்கு தெரிவித்தார்.
+🟩
 
-"நான் தான் 'மல்லி (தம்பி) எப்படி இருக்கிறீர்கள்?" என்று கேட்டேன். நான் விரும்பினால், அவரது தந்தை மற்றும் குடும்பத்தினர் நாட்டின் பொது நிதியைக் கொள்ளையடித்துள்ளனர் என்பதை அவரது முகத்திற்கு நேராக கூற முடியும், அல்லது நாகரிகமாக கையைக் குலுக்கி விட்டு வரமுடியும். கைகுலுக்குவதற்கும் எங்கள் கொள்கைகளுக்கு எந்த தொடர்பும் இல்லை. அது வெறும் அரசியல் நிகழ்வு தான் ”என்று அவர் கூறினார்.
+Commenting on the discussion with the Presidential candidate of the Sri Lanka PA, Namal Rajapaksa at the Election Secretariat, National People's Power Leader Anura Kumara Dissanayake said it was a normal political incident today and that this was more correct than avoiding handcuffs.
 
-ஒருவர் கைகுலுக்கினால் எழுந்து நின்று ஏற்றுக்கொள்வது சாதாரண மனித குணம் என திஸாநாயக்க தெரிவித்துள்ளார்.
+Responding to a question about the conversation with Rajapakse, he told the media that they had not discussed anything special.
 
-...
+"I am 'Malli (brother) how are you?"I asked that. If I want, his father and family can say straight to his face that the country has plundered public funds, or shake hands with a fashionable hand. Shake hands and our policies have no connection. It is just a political event, ”he said.
+
+Dissanayake says that it is normal humanity to stand up with a hand -held hands -on.
+
+“You see how people criticize the incident of the president's handcuffs. How proud he was. We did right then. It is wrong to refuse the handshake, ”he said.
+
+◼️
 
 [Data](articles/bfcdd72b.json)
+
+[Extended Data](ext_articles/bfcdd72b.ext.json)
 
 ---
 
@@ -2329,31 +2357,5 @@ We also discussed the opportunities for it. Sinhala Buddhist chauvinism in the s
 [Data](articles/8a67ada8.json)
 
 [Extended Data](ext_articles/8a67ada8.ext.json)
-
----
-
-### A dignified century from Hersheet
-
-*2024-08-18 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200080) · `si`
-
-Hersha Samarawickma made history as the third Sri Lankan woman cricketer to score a century, achieving this feat in the second ODI against Ireland. Her impressive performance included 11 fours off 120 balls, marking a significant achievement for the Sri Lankan team during their tour. This milestone follows Sampathi Gunaratne's century in the first ODI, highlighting a strong performance by Sri Lankan women's cricket.
-
-🟩
-
-Hersha Samarawickma succeeded in a third sportswoman in the history of Sri Lanka women's cricket.
-
-She passed the shop in the second ODI of Belfas against the host Irish women's group.
-
-Hersheet's innings included 11 fours for Hersheet's innings in 120 balls.
-
-The Sri Lankan team had to scored only one day century on behalf of Sri Lanka before the visit to this Irish tour.
-
-However, Sampathi Gunaratne scored a century in the first ODI between the two countries.
-
-◼️
-
-[Data](articles/b1eb9c4f.json)
-
-[Extended Data](ext_articles/b1eb9c4f.ext.json)
 
 ---

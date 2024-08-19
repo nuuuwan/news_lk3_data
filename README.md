@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 11:21:07**
+As of **2024-08-19 11:37:03**
 
 ## Newspaper Stats
 
-*Scraped **41,451** Articles*
+*Scraped **41,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,504
 dailyftlk | 2,676
 adalk | 3,811
 dailymirrorlk | 4,733
-adaderanalk | 4,847
-tamilmirrorlk | 5,343
+adaderanalk | 4,848
+tamilmirrorlk | 5,344
 virakesarilk | 6,569
 adaderanasinhalalk | 7,072
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,450 (100.0%) of 41,451 articles have been extended.
+41,451 (100.0%) of 41,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### MPs who left the party can come back any time - Namal
+
+*2024-08-19 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101341/mps-who-left-the-party-can-come-back-any-time-namal) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) presidential candidate Namal Rajapaksa says that he will revive efforts to crown Hambanthota as a hub of aviation and naval affairs in South Asia.
+
+He made these remarks during his visit to the Tissamaharama Raja Maha Viharaya to invoke blessings on Sunday (18). He was accompanied by several other lawmakers including Chamal Rajapaksa and State Minister of Power and Energy, D.V. Chanaka.
+
+“We implemented measures to turn Hambanthota into an aviation and naval hub.  Unfortunately, the good governance government put an end to those measures.  After the 22nd of September, we expect to turn hambanthota into South Asia’s hub of aviation and naval affairs once again, creating close to a million direct and indirect employment opportunities”, Rajapaksa claimed.
+
+...
+
+[Data](articles/762c49f5.json)
+
+---
 
 ### EC warns against using national flag, religious symbols in election campaigns
 
@@ -47,6 +63,8 @@ The Election Commission further says that the use of any religious symbols for e
 ◼️
 
 [Data](articles/22331ff5.json)
+
+[Extended Data](ext_articles/22331ff5.ext.json)
 
 ---
 
@@ -107,6 +125,24 @@ The Ministry of Education has reportedly informed the resettlement of schools an
 [Data](articles/db1d3784.json)
 
 [Extended Data](ext_articles/db1d3784.ext.json)
+
+---
+
+### ஜனாதிபதிக்கு ரிஷாட்  அவசர கடிதம்
+
+*2024-08-19 10:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-ரிஷாட்-அவசர-கடிதம்/175-342423) · `ta`
+
+வடக்கு, கிழக்கின் அபிவிருத்தித் திட்டங்களுக்கான அரசாங்க நிதி இடைநிறுத்தப்பட்டமை தொடர்பில் அகில இலங்கை மக்கள் காங்கிரஸின் தலைவர் ரிஷாட் பதியுதீன் கேள்வி எழுப்பியுள்ளார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவளிப்பதாக உறுதியளித்ததைத் தொடர்ந்து இந்த நிதி நிறுத்தம் இடம்பெற்றுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு எம்.பி பதியுதீன் எழுதியுள்ள கடிதத்தில் குற்றம் சுமத்தியுள்ளார்.
+
+பிரதேசத்தைச் சேர்ந்த மக்கள், கிராம அபிவிருத்திச் சங்கங்கள், பதிவு செய்யப்பட்ட கழகங்கள், நலன்புரிச் சங்கங்கள் மற்றும் ஏனைய சமூக அடிப்படையிலான அமைப்புக்களின் கோரிக்கைகளை கருத்திற் கொண்டு அபிவிருத்தி நடவடிக்கைகளுக்கு கணிசமான தொகையை ஒதுக்கியமைக்காக எம்.பி பதியுதீன் ஜனாதிபதிக்கு நன்றி தெரிவித்தார்.
+
+எவ்வாறாயினும், அந்த திட்டங்களை உடனடியாக நிறுத்துமாறும், எந்தவொரு நியாயமான காரணமும் இன்றி அந்த ஒதுக்கீட்டை திரும்பப் பெறுமாறும் கடிதங்கள் அனுப்பப்பட்டுள்ளதாக அவர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/30a4b6db.json)
 
 ---
 
@@ -2257,47 +2293,5 @@ Radhakrishnan alleges that the liquor sales and money licenses are being issued 
 [Data](articles/71188aa8.json)
 
 [Extended Data](ext_articles/71188aa8.ext.json)
-
----
-
-### Cave the country with foreign aid - Sajith
-
-*2024-08-18 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200067) · `si`
-
-Sajith Premadasa criticizes the government for misusing foreign aid, emphasizing the importance of directly aiding the people instead of enriching politicians. He highlights the plight of flood and landslide victims in Kalutara, pledging to address national issues with international assistance, focusing on genuine development and welfare.
-
-🟩
-
-Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, Sagith Premadasa, the president's president's arrival is being launched and launched in a foreign land under its control.
-
-...
-
-[Data](articles/e3ed99f9.json)
-
-[Extended Data](ext_articles/e3ed99f9.ext.json)
-
----
-
-### Two cars collide with one another - 07 injured
-
-*2024-08-18 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191355) · `ta`
-
-A collision between two cars on the Colombo-Kandy road resulted in seven injuries, including children and adults from both Kandy and Colombo areas. The accident occurred when the driver, heading towards Colombo from Kandy, fell asleep at the wheel.
-
-🟩
-
-Seven people were injured in a collision with two cars on Sunday (18) in the Kegalle on the Colombo -Kandy main road, police said.
-
-Three of the car passengers were from the Pilimathalawa area of ​​Kandy;The other four are from the Colombo Kelaniya area.
-
-8 months old, 01 years old 6 months old, three women and two men were injured in the accident, police said.
-
-In addition, police said that the driver of the car traveling from Kandy to Colombo was driving the accident due to sleeping.
-
-◼️
-
-[Data](articles/5e13c127.json)
-
-[Extended Data](ext_articles/5e13c127.ext.json)
 
 ---

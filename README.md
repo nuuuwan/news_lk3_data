@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 16:36:42**
+As of **2024-08-19 16:53:55**
 
 ## Newspaper Stats
 
-*Scraped **41,499** Articles*
+*Scraped **41,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ economynextcom | 2,505
 dailyftlk | 2,676
 adalk | 3,819
 dailymirrorlk | 4,733
-adaderanalk | 4,857
+adaderanalk | 4,858
 tamilmirrorlk | 5,351
-virakesarilk | 6,581
+virakesarilk | 6,585
 adaderanasinhalalk | 7,081
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,499 (100.0%) of 41,499 articles have been extended.
+41,499 (100.0%) of 41,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### One dead, six missing after luxury yacht sinks off Sicily
+
+*2024-08-19 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101353/one-dead-six-missing-after-luxury-yacht-sinks-off-sicily) · `en`
+
+One man died and six people were missing after a luxury yacht was struck by an unexpectedly violent storm and sank off the Sicilian capital Palermo, the Italian coast guard said on Monday.
+
+The 56-metre-long (184-ft) sailboat, which was British registered, sank with 22 people on board shortly before sunrise, the coast guard said in a statement.
+
+The missing people were of British, American and Canadian nationality, the coast guard said.
+
+“The wind was very strong. Bad weather was expected, but not of this magnitude,” a coast guard official in Palermo told Reuters.
+
+Storms and heavy rainfall have swept down Italy in recent days - with floods and landslides causing major damage in the north of the country - after weeks of scorching heat.
+
+Eight of the 15 people rescued, including a one-year-old child, were transferred to local hospitals. All were in a stable condition, local media reported.
+
+...
+
+[Data](articles/28c7b3f3.json)
+
+---
+
+### யாழில் விடுதியில் தங்கியிருந்த மூன்று யுவதிகள் கைது
+
+*2024-08-19 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191452) · `ta`
+
+யாழ்ப்பாணத்தில் உள்ள தனியார் விடுதி ஒன்றில் சந்தேகத்திற்கு இடமான முறையில் தங்கியிருந்த மூன்று யுவதிகள் திங்கட்கிழமை (19) காலை கைது செய்யப்பட்டுள்ளனர்.
+
+யாழ்ப்பாணம் - கண்டி நெடுஞ்சாலையில், மாவட்ட செயலகத்திற்கு சற்று தொலைவில் உள்ள தனியார் விடுதி ஒன்றில் சந்தேகத்திற்கு இடமான முறையில் ஆள் நடமாட்டம் உள்ளதாக யாழ்ப்பாண பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் குறித்த விடுதிக்கு பொலிஸார் சென்று சோதனையிட்டனர்.
+
+அதன்போது, விடுதியில் எவ்வித பதிவுகளும் இன்றி தங்கியிருந்ததுடன், தமது ஆள் அடையாளத்தை உறுதிப்படுத்த தவறிய மூன்று யுவதிகளை பொலிஸார் கைது செய்தனர்.
+
+கைது செய்யப்பட்ட யுவதிகளை விசாரணைகளின் பின்னர் யாழ்.நீதவான் முன்னிலையில் முற்படுத்திய வேளை, அவர்களை எதிர்வரும் 26ஆம் திகதி வரையில் விளக்கமறியலில் வைக்க உத்தரவிட்ட நீதவான், மூவரையும் மருத்துவ பரிசோதனைக்கு உட்படுத்துமாறும் உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/09b3f23a.json)
+
+---
+
+### தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான ஜனாதிபதியின் ஆலோசகராக மனுஷ!
+
+*2024-08-19 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191448) · `ta`
+
+தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான ஜனாதிபதியின் ஆலோசகராக மனுஷ நாணயக்கார நியமிக்கப்பட்டுள்ளார்.
+
+உடன் அமுலுக்கு வரும் வகையில் இந்த நியமனத்தை ஜனாதிபதி ரணில் விக்கிரமசிங்க வழங்கியுள்ளார்.
+
+◼️
+
+[Data](articles/dac6266a.json)
+
+---
+
+### தளபதி Vs இளைய தளபதி இணைந்து மிரட்டும் 'கோட்' பட முன்னோட்டம்
+
+*2024-08-19 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191446) · `ta`
+
+ரசிகர்களின் பெரும் எதிர்பார்ப்பில் இருந்த விஜய் நடிக்கும் 'கோட்' திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+இந்த முன்னோட்டத்தில் தளபதியும், செயற்கை நுண்ணறிவு தொழில்நுட்பத்தின் உதவியுடன் உருவாக்கப்பட்டிருக்கும் இளைய தளபதியும் திரையில் தோன்றி மாயஜாலம் செய்வதால் விஜய் ரசிகர்கள் மட்டுமின்றி அனைத்து திரையுலக ரசிகர்களும் கொண்டாடி வருகிறார்கள். இந்த முன்னோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் நான்கு கோடி பார்வையாளர்களை கடந்து சாதனை படைத்து வருகிறது.
+
+இயக்குநர் வெங்கட் பிரபு இயக்கத்தில் உருவாகி இருக்கும் 'தி கிரேட்டஸ்ட் ஆஃப் ஆல் டைம்' எனும் திரைப்படத்தில் விஜய், பிரசாந்த், பிரபுதேவா, மோகன், ஜெயராம், அஜ்மல், சினேகா, லைலா, மீனாட்சி சவுத்ரி, யோகி பாபு உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சித்தார்த்தா நூனி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார்.
+
+...
+
+[Data](articles/fa79fcb5.json)
+
+---
+
+### 6 மாவட்டங்களின் அபிவிருத்திக்காக ரிஷாத்துக்கு ஒதுக்கப்பட்ட 200 மில்லியன் ரூபா பெறுமதியான வேலைத்திட்டங்கள் நிறுத்தம் !
+
+*2024-08-19 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191447) · `ta`
+
+அகில இலங்கை மக்கள் காங்கிரஸின் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாத் பதியுத்தீனிக்கு ஆறு மாவட்டங்களின் அபிவிருத்திக்காக ஜனாதிபதியினால் ஒதுக்கப்பட்ட சுமார் 200மில்லியன் ரூபாவு பெறுமதியான வேலைத்திட்டங்களை உடனடியாக நிறுத்துமாறு ஜனாதிபதி செயலகம் அறிவித்துள்ளது.
+
+இது தொடர்பில் பாராளுமன்ற உறுப்பினர் ரிஷாத் பதியுதீன் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு கடிதமொன்றை அனுப்பியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c43ef7bb.json)
+
+---
 
 ### A new force from the ministic
 
@@ -2229,115 +2313,5 @@ Former MPs Suresh Premachandran, Sivasakthi Anandan, Democratic Militants Party 
 [Data](articles/d7643000.json)
 
 [Extended Data](ext_articles/d7643000.ext.json)
-
----
-
-### Wimal side worshiped Nallur Kandana
-
-*2024-08-18 21:02:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-தரப்பினர்-நல்லூர்-கந்தனை-வழிபட்டனர்/175-342396) · `ta`
-
-Presidential candidate Dilith Jayaweera and MPs Wimal Weerawansa, Udaya Kammanpila visited the Nallur Kandaswamy Temple in Jaffna during its festival. They also attended the inaugural event of the Alliance in Jaffna.
-
-🟩
-
-Presidential candidate Dilith Jayaweera, MPs Wimal Weerawansa and Udaya Kammanpila have visited the Nallur Kandan Temple in Jaffna.
-
-They have gone there yesterday as the festival is being held at the Nallur Kandaswamy Temple.
-
-Meanwhile, the first inauguration of the Alliance of the Alliance was held in Jaffna yesterday in Jaffna.. (A)
-
-◼️
-
-[Data](articles/6bf3c8d0.json)
-
-[Extended Data](ext_articles/6bf3c8d0.ext.json)
-
----
-
-### Ranil is trying to build the country along with the budget party that has collapsed -Mujibur Rahman
-
-*2024-08-18 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191389) · `ta`
-
-Ranil Wickremesinghe, facing challenges with his party and the economic collapse under his leadership, attempts to form alliances but struggles due to internal divisions and external competition. Despite efforts to unite various factions, his confidence in victory wanes with Namal Rajapaksa's entry into the party. Mujibur Rahman criticizes Wickremesinghe's approach, suggesting it could lead to further instability. The narrative highlights Wickremesinghe's struggle to regain support, contrasting it with Sajith Premadasa's perceived popularity among the people.
-
-🟩
-
-Ranil Wickremesinghe thought that the country could win the election with the party's party workers who collapsed the country.. But now that Namal Rajapaksa is contesting in the party, he is not confident of winning. So he tries to split the United People's Power. Ranil Wickremesinghe's Cass cylinder. United People's Shakti MP Mujibur Rahman said that if they tried to fill the Gas, they would explode.
-
-He said this while addressing the election campaign in Ruwanwella on Sunday (18).
-
-The United National Party headquarters, Sirikotha, is currently not the elephant symbol of the party. Cass tank. So it can't fill the gas for more than a month. If you try to fill the gas, it will explode.
-
-We tried 30 years to sell Ranil Wickremesinghe. But we were unable to sell him.. It was because we learned that the people of Sajith Premadasa led the creation of the United People's Power.
-
-...
-
-[Data](articles/468abfdc.json)
-
-[Extended Data](ext_articles/468abfdc.ext.json)
-
----
-
-### The price of ginger falls fast!
-
-*2024-08-18 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191390) · `ta`
-
-Ginger prices plummet due to imports, hitting local farmers hard. A kg, once 3000 rupees, now sells for 1000. The government allows importing 3000 metric tonnes to stabilize prices.
-
-🟩
-
-Ginger farmers have blamed the importation of ginger and the prices of ginger in the local market have fallen rapidly and they have been in a severe economic crisis.
-
-One kilogram of ginger, which has risen to 3000 rupees in the past, is currently selling for 1000 rupees.
-
-However, the Cabinet has recently granted permission to import 3000 metric tonnes of ginger to control the price.
-
-◼️
-
-[Data](articles/5d4aaae8.json)
-
-[Extended Data](ext_articles/5d4aaae8.ext.json)
-
----
-
-### President receives a post
-
-*2024-08-18 19:43:32* · [`adalk`](https://www.ada.lk/breaking_news/හරීන්ට-ජනපතිගෙන්-තනතුරක්/11-411440) · `si`
-
-Harin Fernando is appointed as the Presidential Advisor on Tourism, Land, Sports, and Youth Affairs, effective immediately. This follows the abolition of his previous roles due to a court decision, with the President assuming control of the vacant parliamentary seat.
-
-🟩
-
-Harin Fernando has been appointed to the post of Presidential Advisor on Tourism, Land, Sports and Youth Affairs. President Ranil Wickremesinghe has sent the letter to Harin Fernando on the 16th.
-
-This appointment has been made so effective.Harin Fernando and Manusha Nanayakkara have abolished according to the recent court's decision. Accordingly, the minister of the minister was abolished. The vacant sectional MP was taken over by the President.
-
-◼️
-
-[Data](articles/d5f04f14.json)
-
-[Extended Data](ext_articles/d5f04f14.ext.json)
-
----
-
-### Executive President's post is abolished - Sajith
-
-*2024-08-18 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200078) · `si`
-
-Presidential candidate Sajith Premadasa promises to abolish the executive presidency, emphasizing change and accountability. He criticizes current leadership, pledging transparency and support for the nation's industries.
-
-🟩
-
-The presidential candidate Sajith Premadasa emphasizes the president's power to abolish the executive presidency after his president.
-
-He was speaking at a reliance in Ruwanwella today (18).
-
-"We would like to tell you, the era of this country and sadness, we create that era again on September 21.  බොරුවට රුපියල් 1,700ක් දෙනවා කියලා රුපියල් 1,350ක් දෙන බොරුකාර වංචාකාර ක්‍රමය. We do not say 2,000 rupees. But we say one thing, as small tea estimates to the country's tea manufacturers as small tea estimates to the country's tea manufacturers, we make the methodology. The main security officer of bankrupted teams to the reign of the country. The President of the country is protecting the Rajapaksas today. Tells me the escape. I didn't run away. I never put other candidates.  කී දෙනෙක් කිව්වද ජනාධිපති ක්‍රමය ගැන. No one changed. I don't like these positions. I will definitely remove the executive presidency. "
-
-◼️
-
-[Data](articles/4ee422f0.json)
-
-[Extended Data](ext_articles/4ee422f0.ext.json)
 
 ---

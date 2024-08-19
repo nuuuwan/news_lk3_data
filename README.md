@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 11:37:03**
+As of **2024-08-19 11:56:44**
 
 ## Newspaper Stats
 
-*Scraped **41,453** Articles*
+*Scraped **41,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,504
 dailyftlk | 2,676
-adalk | 3,811
+adalk | 3,812
 dailymirrorlk | 4,733
-adaderanalk | 4,848
+adaderanalk | 4,849
 tamilmirrorlk | 5,344
 virakesarilk | 6,569
-adaderanasinhalalk | 7,072
+adaderanasinhalalk | 7,073
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,451 (100.0%) of 41,453 articles have been extended.
+41,453 (100.0%) of 41,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### Dilith Jayaweera advocates for centralized framework to achieve national priorities
+
+*2024-08-19 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101342/dilith-jayaweera-advocates-for-centralized-framework-to-achieve-national-priorities) · `en`
+
+Presidential Candidate of the ‘Sarvajana Balaya’ alliance and leader of the Mawbima Janatha Party (MJP) entrepreneur Dilith Jayaweera proposes the establishment of an authority on national strategic framework planning under the strategic framework proposed by his alliance.
+
+Addressing a gathering attended by intellectuals and entrepreneurs, at the MJP Headquarters in Colombo, Jayaweera expressed confidence that that his proposal is capable of achieving national priorities and objectives within a specific period of time.
+
+Speaking further, Dilith Jayaweera said: “The presidential election has been announced. Sajith Premadasa, Ranil Wickremesinghe, Anura Kumara Dissanayake, and Namal Rajapaksa are contesting. All of those candidates held cabinet portfolios in the past”
+
+...
+
+[Data](articles/a31fe34e.json)
+
+---
+
+### ජලාශ කිහිපයක ජල මට්ටම් ඉහළට - මාර්ග අවහිර වෙයි
+
+*2024-08-19 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200091) · `si`
+
+පවතින වැසි සහිත කාලගුණ තත්ත්වයත් සමඟ ජලාශ කිහිපයක ජල මට්ටම් ඉහළ ගොස් ඇති අතර ඒ අවට පහත් බිම් ජලයෙන් යට වී ඇති බව වාර්තා වේ.
+
+හැමිල්ටන් ඇළ සහ ලුණු ඔය පීටර ගැලීම හේතුවෙන් හලාවත - කොළඹ ප්‍රධාන මාර්ගය අද (19) අලුයම 01.30 සිට ස්ථාන කිහිපයකින් ජලයෙන් යටවී තිබේ.
+
+ඒ හේතුවෙන් වාහන ගමනාගමනයට බාධා සිදු වී ඇති බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+
+මෙම මාර්ග හරහා ගමන් ගන්නා රථ වාහන රියදුරන්ට විකල්ප මාර්ග භාවිතා කරන ලෙසට තෝඩුවාව පොලීසිය දැනුම් දී ඇත.
+
+"අද දෙරණ" වාර්තාකරු පැවසුවේ මෙම මාර්ගයේ ගමන් කළ රථ වාහන කිහිපයක් ජලයට අසුවී ධාවනය කිරීමට නොහැකිව නතර වී තිබු බවය.
+
+මේ අතර, කුකුලේ ගඟ ජලාශයේ එක් වාන් දොරටුවක් මේ වන විට විවෘත කර ඇති බව වාර්තා වේ.
+
+ඒ අනුව, ඉන් තත්පරයට ඝන මීටර 53ක ජල ධාරිතාවක් කුඩා ගඟ වෙත මුදා හැරෙන අතර කුඩා ගඟා පිටාර ගැලීම හේතුවෙන් ඒ අවට පහත් බිම් රැසක් ජලයෙන් යට වී තිබේ.
+
+බුලත්සිංහල මෝල්කාව ප්‍රධාන මාර්ගයේ දඹල සහ ඇටඹගස් හන්දිය යන ප්‍රදේශවල මාර්ග, පහත්බිම් සහ නිවාස ද මේ වන විට ජලයෙන් යටවී පවතින බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+
+...
+
+[Data](articles/9450a732.json)
+
+---
 
 ### MPs who left the party can come back any time - Namal
 
@@ -45,6 +87,8 @@ He made these remarks during his visit to the Tissamaharama Raja Maha Viharaya t
 ...
 
 [Data](articles/762c49f5.json)
+
+[Extended Data](ext_articles/762c49f5.ext.json)
 
 ---
 
@@ -128,21 +172,27 @@ The Ministry of Education has reportedly informed the resettlement of schools an
 
 ---
 
-### ஜனாதிபதிக்கு ரிஷாட்  அவசர கடிதம்
+### Rishad emergency letter to the president
 
 *2024-08-19 10:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-ரிஷாட்-அவசர-கடிதம்/175-342423) · `ta`
 
-வடக்கு, கிழக்கின் அபிவிருத்தித் திட்டங்களுக்கான அரசாங்க நிதி இடைநிறுத்தப்பட்டமை தொடர்பில் அகில இலங்கை மக்கள் காங்கிரஸின் தலைவர் ரிஷாட் பதியுதீன் கேள்வி எழுப்பியுள்ளார்.
+Rishad Bathiudeen, head of the All Ceylon People's Congress, criticized President Ranil Wickremesinghe for suspending funds for North and East development projects, accusing him of favoritism towards opposition leader Sajith Premadasa ahead of the presidential election. Despite thanking the President for supporting various development initiatives, Bathiudeen expressed concern over sudden halt orders for projects without explanation. He urged immediate intervention to resume the projects, warning potential legal action if necessary.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவளிப்பதாக உறுதியளித்ததைத் தொடர்ந்து இந்த நிதி நிறுத்தம் இடம்பெற்றுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு எம்.பி பதியுதீன் எழுதியுள்ள கடிதத்தில் குற்றம் சுமத்தியுள்ளார்.
+🟩
 
-பிரதேசத்தைச் சேர்ந்த மக்கள், கிராம அபிவிருத்திச் சங்கங்கள், பதிவு செய்யப்பட்ட கழகங்கள், நலன்புரிச் சங்கங்கள் மற்றும் ஏனைய சமூக அடிப்படையிலான அமைப்புக்களின் கோரிக்கைகளை கருத்திற் கொண்டு அபிவிருத்தி நடவடிக்கைகளுக்கு கணிசமான தொகையை ஒதுக்கியமைக்காக எம்.பி பதியுதீன் ஜனாதிபதிக்கு நன்றி தெரிவித்தார்.
+All Ceylon People's Congress President Rishad Bathiudeen has questioned the suspension of government funds for the development projects of the North and East.
 
-எவ்வாறாயினும், அந்த திட்டங்களை உடனடியாக நிறுத்துமாறும், எந்தவொரு நியாயமான காரணமும் இன்றி அந்த ஒதுக்கீட்டை திரும்பப் பெறுமாறும் கடிதங்கள் அனுப்பப்பட்டுள்ளதாக அவர் சுட்டிக்காட்டினார்.
+In a letter to President Ranil Wickremesinghe, MP Badiudeen has accused President Ranil Wickremesinghe of the financial stop following promising to support opposition leader Sajith Premadasa in the upcoming presidential election.
+
+MP Badiudeen thanked the President for allocating a significant amount of development activities, considering the demands of the people, rural development associations, registered corporations, welfare societies and other socially based organizations.
+
+However, he pointed out that letters have been sent to stop the projects immediately and withdraw the quota without any reasonable reason.
 
 ...
 
 [Data](articles/30a4b6db.json)
+
+[Extended Data](ext_articles/30a4b6db.ext.json)
 
 ---
 
@@ -1402,6 +1452,24 @@ Sajith Premadasa, who is the presidential candidate for the upcoming presidentia
 
 ---
 
+### මේ වසරේදී ඒඩ්ස් රෝගීන් 700ක්
+
+*2024-08-18 19:26:54* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-ඒඩ්ස්-රෝගීන්-700ක්/11-411438) · `si`
+
+මේ වර්ෂයේ ගෙවීගිය කාලයෙහිදී ආසන්න වශයෙන්  ඒඩ්ස් රෝගීන්  700කට අසන්න පිරිසක් වාර්තා වී තිබෙන බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+මේ අනුව දිවයිනෙන්  මේ වන විට හඳුනාගෙන සිටින  රෝගීන්ගේ ප්‍රමාණය 3500 දක්වා ඉහළ ගොස් තිබෙන බවත්, තවත් 1500ක් පමණ  රෝගීන් ප්‍රමාණයක් රට තුළ සිටින බවට ස්‍යෙඛ්‍ය අංශ සැක පළ කරන බවත් එම සංගමයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා සඳහන් සඳහන් කළේය.
+
+2018 වසර වන විට ජනගහනයෙන් මිලියනයකට ඒඩ්ස් රෝගීන් 0.03 ක් පමණ හඳුනා ගැනීමට සමත් වූ බවද,  මේ වන විට එම අගය දශම එක දක්වා එනම් සියයට තුන්සිය ගුණයකින් පමණ ඉහළ ගොස් ඇතැයිද  හෙතෙම පවසා සිටියේය.
+
+හඳුනාගෙන සිටින  රෝගීන්  අතර වයස අවුරුදු 16 අඩු  ළමුන් 50 දෙනෙකුට ආසන්න ගණනක් ඇති තිබෙන  බවට සෞඛ්‍ය අමාත්‍යාංශයේ ලිංගාශ්‍රිත සහ ඒඩ්ස් රෝග මර්දන ව්‍යාපාරයේ නවතම දත්ත අනුව පෙන්නුම් කරන බවද ඒ මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/352dc90b.json)
+
+---
+
 ### Arjun Mahendran brings to Sri Lanka
 
 *2024-08-18 19:22:53* · [`adalk`](https://www.ada.lk/breaking_news/අර්ජුන්-මහේන්ද්‍රන්-ලංකාවට-ගෙන-එනවා/11-411437) · `si`
@@ -2227,71 +2295,5 @@ NPP’s leader further criticized other candidates for focusing on their persona
 [Data](articles/88ee5057.json)
 
 [Extended Data](ext_articles/88ee5057.ext.json)
-
----
-
-### Heavy rains from 21mm to the next 24 hours
-
-*2024-08-18 14:43:34* · [`adalk`](https://www.ada.lk/breaking_news/වර්ෂාව-ලබන-21-දක්වා---ඉදිරි-පැය-24-තළ-මි-මී-75ට-වැඩි-තරමක-තද-වැසි/11-411429) · `si`
-
-Expect heavy rainfall of over 75mm in the Western, Nuwara Eliya, Galle, and Matara districts within the next 24 hours. This includes the Western, Sabaragamuwa, and North Western provinces. The rain is expected to continue until the 21st, as announced by the Department of Meteorology and confirmed by meteorologist Malith Fernando.
-
-🟩
-
-The Department of Meteorology announces heavy showers more than 75 Mm in several areas during the next 24 hours.
-
-According to the Western, Sabaragamuwa and North Western provinces, more than 75 millimeters can occur in the Western, Nuwara Eliya, Galle and Matara districts.
-
-Meteorologist Malith Fernando stated that the rainy weather conditions can be expected until the 21st of the Meteorologist Malith Fernando.
-
-◼️
-
-[Data](articles/237ec81a.json)
-
-[Extended Data](ext_articles/237ec81a.ext.json)
-
----
-
-### Killing
-
-*2024-08-18 14:38:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-வெட்டிக்-கொலை/175-342384) · `ta`
-
-A 45-year-old three-wheeler driver was fatally injured during a vehicle repair in Thalangama. Police are investigating under a magistrate's order but haven't disclosed details about the incident or suspects.
-
-🟩
-
-A 45 -year -old three -wheeler driver has been killed in a vehicle repair in Thalangama, Thalangama.
-
-Police said the magistrate's investigation into the incident is being carried out and details of the incident or suspects have not yet been revealed.
-
-◼️
-
-[Data](articles/492b0bb6.json)
-
-[Extended Data](ext_articles/492b0bb6.ext.json)
-
----
-
-### After forty years
-
-*2024-08-18 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191346) · `ta`
-
-Velusamy Radhakrishnan predicts Sajith Premadasa will unify Sri Lanka's ethnicities post-2024 elections, criticizing past leaders for fostering division. He accuses current officials of issuing lucrative liquor licenses to supporters, implicating them in corruption. Radhakrishnan assures Sajith Premadasa's victory will revoke these permits, highlighting his team's unity and readiness among plantation voters.
-
-🟩
-
-Sajith Premadasa will be the president who will unite all the ethnicities of this country after forty years, said Velusamy Radhakrishnan, the leader of the Upcountry People's Front, Deputy Leader of the Tamil Progressive Alliance and Nuwara Eliya District Parliamentarian and Member of Parliament.
-
-Velusamy Radhakrishnan said this while organizing a media briefing in Hatton yesterday (17) to raise awareness about the presidential election to be held in 2024.
-
-He said that the former presidents had been in power by sowing racism and casteism in the country and that after 40 years, Sajith Premadasa was the only presidential candidate that would unite all races in this country and lead the country.
-
-Radhakrishnan alleges that the liquor sales and money licenses are being issued to those who support Ranil today.
-
-...
-
-[Data](articles/71188aa8.json)
-
-[Extended Data](ext_articles/71188aa8.ext.json)
 
 ---

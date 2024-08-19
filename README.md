@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 14:55:43**
+As of **2024-08-19 15:06:42**
 
 ## Newspaper Stats
 
-*Scraped **41,487** Articles*
+*Scraped **41,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,96 @@ economynextcom | 2,505
 dailyftlk | 2,676
 adalk | 3,817
 dailymirrorlk | 4,733
-adaderanalk | 4,854
-tamilmirrorlk | 5,350
+adaderanalk | 4,855
+tamilmirrorlk | 5,351
 virakesarilk | 6,579
-adaderanasinhalalk | 7,077
+adaderanasinhalalk | 7,078
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,486 (100.0%) of 41,487 articles have been extended.
+41,487 (100.0%) of 41,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### தேர்தல் கடமைகளுக்கு 200,000க்கும் மேற்பட்ட அரச ஊழியர்கள்
+### One dead, another critical after lorry collides with train in Maha Induruwa
+
+*2024-08-19 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101349/one-dead-another-critical-after-lorry-collides-with-train-in-maha-induruwa) · `en`
+
+One person was reported dead after a lorry collided with a train near a railway crossing in Maha Induruwa, Kosgoda this afternoon (19).
+
+The lorry loaded with firewood, travelling from the Kosgoda area, has collided with a train plying from Galle to Colombo, the police said.
+
+Accordingly, one of the two individuals travelling in the lorry has been killed in the accident while the other was critically injured.
+
+The deceased has been identified as a 55-year-old resident of the Induwara area, according to police.
+
+The injured individual has been admitted to the hospital for treatment, and sources said that his condition is critical.
+
+◼️
+
+[Data](articles/f7ef9ca0.json)
+
+---
+
+### ඡන්ද දායකයෙකුට වැය කළ හැකි උපරිම මුදල කීය ද?
+
+*2024-08-19 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200097) · `si`
+
+ජනාධිපතිවරණයේදී ජන්ද දායකයෙකු සඳහා වියදම් කළ හැකි මුදල සඳහන් ගැසට් පත්‍රය අද (19) ප්‍රකාශයට පත්කරන බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+
+පසුගිය සෙනසුරාදා (17) ඊට අදාළව පැවති සාකච්ඡාවේ දී ශත පනහේ සිට රුපියල් 1,000 දක්වා අගයන් යටතේ අපේක්ෂකයින් ඉල්ලීම් ඉදිරිපත් කර තිබුණි.
+
+මැතිවරණ වියදම් නියාමන පනතට අනුව එක් ඡන්දදායකයෙකු සඳහා වියදම් කිරීමට අවසර ලත් මුදල නාමයෝජනා භාරගැනීමෙන් දින 5ක් ඇතුළත ගැසට් පත්‍රයක් මඟින් ප්‍රකාශයට පත්කළ යුතු වේ.
+
+මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පැවසුවේ ඒ පිළිබඳ තීරණය කිරීමට අපේක්ෂකයන් සහ මැතිවරණ කොමිසමේ නිලධාරීන් අතර පසුගිය සිකුරාදා පැවති සාකච්ඡාවේදී ශත පනහේ සිට රුපියල් දහස දක්වා අගයන් යටතේ අපේක්ෂකයින් ඉල්ලීම් ඉදිරිපත් කළ බවය.
+
+ඒ අනුව ජනාධිපතිවරණයේදී ජන්දදායකයෙකු සඳහා වියදම් කළ හැකි උපරිම මුදල සඳහන් ගැසට් පත්‍රය අද ප්‍රකාශයට පත්කිරීමට නියමිතය.
+
+මේ අතර මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයින්ට සිය ප්‍රතිපත්ති රටට ප්‍රකාශ කිරීම සඳහා සැලසුම් කළ විවාදයට මේ වන විට අපේක්ෂකයින් දෙදෙනෙකුගේ පැමිණීම තහවුරු කර ඇති බව පැෆ්රල් සංවිධානය පවසයි.
+
+...
+
+[Data](articles/3f503bb0.json)
+
+---
+
+### சம்பள உயர்வு குறித்து அரசாங்கம் பதில்
+
+*2024-08-19 14:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-உயர்வு-குறித்து-அரசாங்கம்-பதில்/175-342445) · `ta`
+
+"சகல அரசாங்க ஊழியர்களுக்கும் 25000 ரூபா கொடுப்பனவே 3 வருடங்கள் முழுவதும் வழங்கப்படும். கனிஷ்ட தரத்திலான சேவையாளர்களுக்கும் ஆகக் குறைந்த சம்பளமாக 55000 ரூபா அல்லது அதற்கு மேல் அதிகரிக்க முடியும்."
+
+அரசாங்க தகவல் திணைக்களத்தில் நேற்று (18) இடம்பெற்ற விசேட ஊடகவியலாளர்களுடனான விசேட சந்திப்பின் போது கலந்து கொண்ட அமைச்சரவைப் பேச்சாளர் பேராசிரியர் பந்துல குணவர்தன அரசாங்க சேவையின் அதிக சம்பள உயர்விற்கு எதிராக மேற்கொள்ளப்படும் பிரச்சாரம் தொடர்பாக இவ்வாறு குறிப்பிட்டார்.
+
+"அமைச்சரவை அனுமதி கிடைத்த அரசாங்க சேவை சம்பள உயர்வுக்கான யோசனை சர்வதேச நாணய நிதியத்தின்  ஒதுக்கீட்டிற்கு இணங்க மூன்று வருடங்கள் மாற்றம் அடையாமல் காணப்படுகின்றது.  எந்த அரசாங்கம் அமைக்கப்பட்டாலும் சர்வதேச நாணய நிதியத்தின் யோசனைக்கு அமைய செயற்பட வேண்டும். வரவு செலவுத் திட்டத்திற்காக இந்த சம்பள அதிகரிப்பு யோசனை முன்வைக்கப்பட்டுள்ளதுடன் அதற்கு அமைச்சரவை அனுமதி கிடைக்கப்பெற்றுள்ளது.
+
+...
+
+[Data](articles/91c8fa83.json)
+
+---
+
+### More than 200,000 civil servants for election obligations
 
 *2024-08-19 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191419) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் கடமைகளுக்காக 200,000 முதல் 225,000 வரையிலான அரச ஊழியர்கள் ஈடுபடுத்தப்படுவார்கள் என தேசிய தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+The National Elections Commission expects 200,000 to 225,000 civil servants to participate in the upcoming presidential election across 13,000 polling stations nationwide. All candidates have been assigned to contest.
 
-நாடளாவிய ரீதியில் 13,000 வாக்களிப்பு நிலையங்களில் வாக்களிப்பு இடம்பெறும். ஜனாதிபதி தேர்தலில் போட்டியிட அனைத்து வேட்பாளர்களுக்கும் சின்னங்கள் ஒதுக்கப்பட்டுள்ளதாக சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார்.
+🟩
+
+The National Elections Commission has announced that the public servants of 200,000 to 225,000 will be involved in the upcoming presidential election.
+
+Voting will take place at 13,000 polling stations nationwide. Saman Sri Ratnayake says all the candidates have been allotted to contest the presidential election.
 
 ◼️
 
 [Data](articles/a8b7ee66.json)
+
+[Extended Data](ext_articles/a8b7ee66.ext.json)
 
 ---
 
@@ -2269,65 +2333,5 @@ Earlier, more than 20 students involved in the incident were arrested and kept i
 [Data](articles/0b908c54.json)
 
 [Extended Data](ext_articles/0b908c54.ext.json)
-
----
-
-### Suspect arrested over Thalangama murder
-
-*2024-08-18 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101332/suspect-arrested-over-thalangama-murder) · `en`
-
-Police have arrested the suspect over the incident where a person was found murdered after his throat was slashed with a sharp weapon near a garage in the Aruppitiya area of Thalangama this morning (Aug. 18).
-
-The suspect, who has been identified as a resident of the Koswatte area, was arrested in Malabe this evening, police said.
-
-Meanwhile, police investigations have uncovered that the murder has been carried out over a monetary dispute.
-
-A 45-year-old three-wheeler driver was found murdered, with his throat slit near a garage in the Aruppitiya area today.
-
-The victim has been identified as a resident of the Thalawathugoda area, according to police.
-
-◼️
-
-[Data](articles/21b17da2.json)
-
-[Extended Data](ext_articles/21b17da2.ext.json)
-
----
-
-### The rare opportunity of bargaining like this is not the Tamils;All candidates should get a guarantee of political settlement properly - Sumanthiran
-
-*2024-08-18 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191383) · `ta`
-
-Sumanthiran emphasizes the importance of ensuring all candidates receive a fair political settlement, highlighting the potential adverse effects of fielding a Tamil general candidate in the presidential election. He stresses the power of voting as a tool for achieving goals, cautioning against using it as a weapon or making rash decisions without considering the broader implications.
-
-🟩
-
-It is not unnecessary to field the Tamil general candidate in the presidential election, and that this will have a very adverse effect on the Tamil people.. We must use the voting of our people and achieve what we need to achieve. Voting is in the current situation that is not weapon is our weapon. It is similar to the use of the Tamil general candidate to be eradicated somewhere, rather than the appropriate time.. There is nothing more stupid.
-
-◼️
-
-[Data](articles/d6f06f00.json)
-
-[Extended Data](ext_articles/d6f06f00.ext.json)
-
----
-
-### Sri Lanka target 256 runs
-
-*2024-08-18 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200077) · `si`
-
-In a crucial match, the Irish women's cricket team scored 255/5 in 50 overs against Sri Lanka. To stay in the three-match tournament, Sri Lanka needs to surpass this score.
-
-🟩
-
-The Irish group scored 255 runs for the loss of 5 wickets in the 50 overs against the Irish women's cricket team.
-
-Accordingly, the Sri Lankan team should win the match for further staying in the three-match tournament.
-
-◼️
-
-[Data](articles/bdc8a7ba.json)
-
-[Extended Data](ext_articles/bdc8a7ba.ext.json)
 
 ---

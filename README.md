@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 03:06:30**
+As of **2024-08-20 03:21:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,565 (100.0%) of 41,566 articles have been extended.
+41,566 (100.0%) of 41,566 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -182,15 +182,21 @@ Sunil G. Wijesinha will be the resource person for this session, who is a well�
 
 ---
 
-### அளுத்கம விகாரையில் நாமல்
+### Namal in Aluthgama Vihara
 
 *2024-08-20 01:46:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அளுத்கம-விகாரையில்-நாமல்/175-342480) · `ta`
 
-பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்‌ஷ, ஞாயிற்றுக்கிழமை (18) இரவு அளுத்கம வரலாற்று கந்த விகாரையில் வழிபாடு செய்தார். விபுலாசர தேரரை தரிசித்த பின்னர் ஆலய முதல்வர் கொக்கவிட்டவிடம் ஆசிர்வாதம் பெற்றுக் கொண்டார்.
+Namal Rajapaksa, a presidential candidate from the PA, visited the Aluthgama Historical Kanda Vihara, where he received blessings from Vipulasara Thera.
+
+🟩
+
+Namal Rajapaksa, the presidential candidate of the PA, worshiped at the Aluthgama Historical Kanda Vihara on Sunday night. After visiting Vipulasara Thera, the temple chief was blessed with Kokavitta.
 
 ◼️
 
 [Data](articles/0d6ad175.json)
+
+[Extended Data](ext_articles/0d6ad175.ext.json)
 
 ---
 

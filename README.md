@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 08:36:50**
+As of **2024-08-19 08:16:38**
 
 ## Newspaper Stats
 
-*Scraped **41,433** Articles*
+*Scraped **41,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,504
 dailyftlk | 2,676
 adalk | 3,808
 dailymirrorlk | 4,733
-adaderanalk | 4,844
+adaderanalk | 4,843
 tamilmirrorlk | 5,337
 virakesarilk | 6,569
 adaderanasinhalalk | 7,067
@@ -26,31 +26,11 @@ adaderanasinhalalk | 7,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,432 (100.0%) of 41,433 articles have been extended.
+41,431 (100.0%) of 41,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-08-19 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101337/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere over the island during the evening or night, it said.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/f01bc119.json)
-
----
 
 ### Antony Blinkan visits Israel
 
@@ -914,23 +894,17 @@ However, the Cabinet has recently granted permission to import 3000 metric tonne
 
 ---
 
-### President receives a post
+### හරීන්ට ජනපතිගෙන් තනතුරක්
 
 *2024-08-18 19:43:32* · [`adalk`](https://www.ada.lk/breaking_news/හරීන්ට-ජනපතිගෙන්-තනතුරක්/11-411440) · `si`
 
-Harin Fernando is appointed as the Presidential Advisor on Tourism, Land, Sports, and Youth Affairs, effective immediately. This follows the abolition of his previous roles due to a court decision, with the President assuming control of the vacant parliamentary seat.
+සංචාරක, ඉඩම්, ක්‍රීඩා හා තරුණ කටයුතු පිළිබඳ ජනාධිපති උපදේශක තනතුරට හරීන් ප්‍රනාන්දු මහතාව පත් කර තිබේ. ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඊට අදාළ ලිපිය ඉකුත් 16වෙනිදා දිනැතිව හරීන් ප්‍රනාන්දු මහතා වෙත යොමු කර ඇත.
 
-🟩
-
-Harin Fernando has been appointed to the post of Presidential Advisor on Tourism, Land, Sports and Youth Affairs. President Ranil Wickremesinghe has sent the letter to Harin Fernando on the 16th.
-
-This appointment has been made so effective.Harin Fernando and Manusha Nanayakkara have abolished according to the recent court's decision. Accordingly, the minister of the minister was abolished. The vacant sectional MP was taken over by the President.
+වහාම ක්‍රියාත්මක වන පරිදි මෙම පත්කිරීම සිදු කර තිබේ. පසුගියදා ලබාදුන් අධිකරණ තීන්දුවකට අනුව හරීන් ප්‍රනාන්දු හා මනූෂ නානායක්කාර මහත්වරුන්ගේ පාර්ලිමේන්තු මන්ත්‍රී ධුර අහෝසි විය. ඒ අනුව ඔවුන් එවකට දරමින් සිටි අමාත්‍ය ධුරද අහෝසි විය. එම පුරප්පාඩු වූ මන්ත්‍රී ධුර ජනාධිපතිවරයා යටතට පවරා ගනිමින් ගැසට් පත්‍රයක් නිකුත් කෙරුණි.
 
 ◼️
 
 [Data](articles/d5f04f14.json)
-
-[Extended Data](ext_articles/d5f04f14.ext.json)
 
 ---
 
@@ -2303,5 +2277,29 @@ Against this backdrop, the Sri Lanka Athletics Association had taken steps to ob
 [Data](articles/805f5c19.json)
 
 [Extended Data](ext_articles/805f5c19.ext.json)
+
+---
+
+### Elephant pearls seized, several suspects arrested in separate raids
+
+*2024-08-18 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101320/elephant-pearls-seized-several-suspects-arrested-in-separate-raids) · `en`
+
+Police have arrested multiple suspects for the illegal possession of elephant pearls (Gajamuthu) in two separate police operations.
+
+Ichchalampattu Police have apprehended two individuals who were in possession of two elephant pearls, during a raid carried out in the Poonagar area based on a tip-off received by the police.
+
+The suspects have been identified as residents of the Gokarella area.
+
+In a separate incident, three individuals who were attempting to sell three elephant pearls (Gajamuthu) near the Puttalam Lagoon shores have been arrested by the Police Special Task Force (STF).
+
+This raid followed a tip-off received by the Sri Lanka Air Force Intelligence, which indicated that the suspects were preparing to sell the elephant pearls for a sum of around Rs. 30 million.
+
+The suspects were arrested in an operation after undercover officers had posed as potential buyers.
+
+...
+
+[Data](articles/6a0f3eba.json)
+
+[Extended Data](ext_articles/6a0f3eba.ext.json)
 
 ---

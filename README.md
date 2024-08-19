@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 22:09:38**
+As of **2024-08-19 22:21:20**
 
 ## Newspaper Stats
 
-*Scraped **41,541** Articles*
+*Scraped **41,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 383
 colombotelegraphcom | 395
 islandlk | 2,402
-economynextcom | 2,505
+economynextcom | 2,507
 dailyftlk | 2,676
 adalk | 3,824
 dailymirrorlk | 4,733
@@ -26,61 +26,79 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,535 (100.0%) of 41,541 articles have been extended.
+41,541 (100.0%) of 41,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### சிசிலி கடலில் மூழ்கிய படகு - இலங்கையர்கள் உட்பட பலர் மாயம்
+### Boat drowned in Sicily Sea - Magic many, including Sri Lankans
 
 *2024-08-19 21:49:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிசிலி-கடலில்-மூழ்கிய-படகு-இலங்கையர்கள்-உட்பட-பலர்-மாயம்/50-342462) · `ta`
 
-சிசிலி கடற்கரையில் இன்று அதிகாலை 22 பேருடன் பயணித்த சொகுசு படகு மூழ்கியதில் குறைந்தது 7 பேரைக் காணவில்லை என்று இத்தாலிய ஊடகங்கள் தெரிவிக்கின்றன.
+A luxury boat sank off Sicily, leaving at least 7 missing among 22 passengers, including tourists from New Zealand, Sri Lanka, Ireland, Britain, France, and Canada. The Coast Guard rescued 15 people, including children. The boat, flagged as British, was carrying tourists on vacation.
 
-எவ்வாறாயினும், கடலோர காவல்படை ரோந்து படகுகள் மற்றும் தீயணைப்பு வீரர்கள் மூலம் ஒரு வயது குழந்தை உட்பட 15 பேர் மீட்கப்பட்டனர்.
+🟩
 
-நியூசிலாந்து, இலங்கை, அயர்லாந்து ஆகிய நாடுகளைச் சேர்ந்த குடிமக்கள் மற்றும் இரண்டு பிரித்தானிய மற்றும் பிரஞ்சு பிரஜைகளும் படகில் இருந்தபோது விபத்து நடந்துள்ளதாக கூறப்படுகின்றது.
+Italian media reports that at least 7 people have been missing in the luxury boat sinks with 22 people this morning on the Sicily coast.
 
-இந்த குழுவினர் சிசிலியில் விடுமுறையில் சுற்றுலாப் பயணிகளாக இருந்ததாகவும், படகு பிரித்தானிய கொடியின் கீழ் பயணித்ததாகவும் நம்பப்படுகிறது.
+However, 15 people, including an adult child, were rescued by Coast Guard patrol boats and firefighters.
 
-இதேவேளை, காணாமல் போனவர்களில் 4 பிரித்தானியர்கள், ஒரு கனேடியர்கள் மற்றும் இரண்டு அமெரிக்கர்கள் என ஏஜென்சியின் அறிக்கை குறிப்பிடுகிறது. R
+Citizens from New Zealand, Sri Lanka and Ireland and two British and French citizens are reportedly on the boat.
+
+It is believed that the group was tourists on vacation in Sicily and the boat was traveling under the British flag.
+
+Meanwhile, the agency report states that 4 of the missing were 4 British, one Canadians and two Americans. Remble
 
 ◼️
 
 [Data](articles/c9fd20f8.json)
 
+[Extended Data](ext_articles/c9fd20f8.ext.json)
+
 ---
 
-### கர்தினாலை சந்தித்தார் நாமல்
+### Namal met Cardinal
 
 *2024-08-19 21:46:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்தினாலை-சந்தித்தார்-நாமல்/175-342461) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ, பேராயர் மல்கம் ரஞ்சித்தை இன்று பொரளையில் உள்ள பேராயரின் உத்தியோகபூர்வ இல்லத்தில் சந்தித்தார்.
+Namal Rajapaksa, Sri Lanka PA's presidential candidate, met Archbishop Malcolm Ranjith, emphasizing the need for an Independent Commission to probe Easter Sunday bombings. Namal concurred on the necessity of such a commission.
 
-இந்த சந்திப்பின் போது, ​​ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்களுக்கு காரணமானவர்களை விசாரிக்க சுயாதீன ஆணைக்குழுவின் அவசியத்தை பேராயர் வலியுறுத்தினார்.
+🟩
 
-இந்த நோக்கத்திற்காக ஒரு சுயாதீன நீதித்துறை ஆணைக்குழுவை நிறுவுவதன் முக்கியத்துவத்தை நாமல் ஒப்புக்கொண்டார்.
+Namal Rajapaksa, the presidential candidate of the Sri Lanka PA, met Archbishop Malcolm Ranjith today at the official residence of the Archbishop in Borella.
+
+During the meeting, the Archbishop emphasized the need for the Independent Commission to investigate those responsible for the Easter Sunday bombing.
+
+Namal agreed to the importance of establishing an independent judicial commission for this purpose.
 
 ◼️
 
 [Data](articles/107c8bf3.json)
 
+[Extended Data](ext_articles/107c8bf3.ext.json)
+
 ---
 
-### புகையிரதத்துடன் மோதிய லொறி - ஒருவர் உயிரிழப்பு
+### Larry collided with train
 
 *2024-08-19 21:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்துடன்-மோதிய-லொறி-ஒருவர்-உயிரிழப்பு/175-342460) · `ta`
 
-கொஸ்கொட, மஹா இந்துருவ பகுதியில் உள்ள புகையிரத கடவைக்கு அருகில் இன்று (19) பிற்பகல் விறகு ஏற்றிச் சென்ற சிறிய லொறி ரயிலுடன் மோதியதில் ஒருவர் உயிரிழந்துள்ளார்.
+In a tragic accident near Kosgoda, a 55-year-old man was killed and another injured when a lorry train carrying firewood collided with a train at the Maha Hinduva railway crossing. The injured have been hospitalized, with their condition described as serious.
 
-இந்த விபத்தில் லொறியில் பயணித்த 55 வயதுடைய இந்துவர பகுதியைச் சேர்ந்த ஒருவர் உயிரிழந்துள்ளதுடன் மற்றையவர் படுகாயமடைந்துள்ளார்.
+🟩
 
-படுகாயமடைந்த நபர் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார், அங்கு அவரது நிலை கவலைக்கிடமாக இருப்பதாக தெரிவிக்கப்பட்டுள்ளது. R
+One person was killed when a small lorry train carrying firewood was collided this afternoon near the railway crossing of the Maha Hinduva area in Kosgoda.
+
+A 55 -year -old Hindu area was killed and the other was injured in the accident.
+
+The injured person has been admitted to the hospital, where his condition is worried. Remble
 
 ◼️
 
 [Data](articles/9baf072a.json)
+
+[Extended Data](ext_articles/9baf072a.ext.json)
 
 ---
 
@@ -104,19 +122,27 @@ Accordingly, after considering the concerns put forward, it has been decided to 
 
 [Data](articles/4159a65e.json)
 
+[Extended Data](ext_articles/4159a65e.ext.json)
+
 ---
 
-### ஒரு வாக்காளருக்கு 109 ரூபாயே செலவழிக்கலாம்
+### Can spend 109 rupees per voter
 
 *2024-08-19 21:36:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-வாக்காளருக்கு-109-ரூபாயே-செலவழிக்கலாம்/175-342459) · `ta`
 
-ஜனாதிபதி வேட்பாளர் பிரச்சாரத்தின் போது ஒரு வாக்காளருக்கு செலவழிக்கக்கூடிய அதிகபட்ச தொகை ரூ. 109.00 என தேர்தல் ஆணைக்குழு வரையறுத்துள்ளது.
+The Election Commission sets a limit of 109 rupees per voter for presidential campaign spending. Commissioner Saman Sri Ratnayake announced this, stating a gazette notification would be issued.
 
-இது தொடர்பான வர்த்தமானி அறிவித்தல் இன்று இரவு வெளியிடப்படும் என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+🟩
+
+The maximum amount of money can be spent on a voter during the presidential candidate campaign. The Election Commission has defined 109.00.
+
+Elections Commissioner Saman Sri Ratnayake said that the gazette notification will be issued tonight.
 
 ◼️
 
 [Data](articles/1a944fec.json)
+
+[Extended Data](ext_articles/1a944fec.ext.json)
 
 ---
 
@@ -148,15 +174,21 @@ Coast Guard Officers have commenced search operations in search of the six disap
 
 ---
 
-### ஹரிஸ் எம்.பி இடைநிறுத்தம்
+### Harris MP Pause
 
 *2024-08-19 21:08:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிஸ்-எம்-பி-இடைநிறுத்தம்/175-342458) · `ta`
 
-சிறிலங்கா முஸ்லிம் காங்கிஸின் உறுப்பினர் பதவியிலிருந்து பாராளுமன்ற உறுப்பினர் ஹரீஸ் தற்காலிகமாக இடைநிறுத்தம் இது தொடர்பில் எழுத்து மூலம் நாளை அவருக்கு அறிவிக்கப்படும் -ஓட்டமாவடியில் இன்று நடைபெற்ற கூட்டத்தில் கட்சித் தலைவர் ரவூப் ஹக்கீம் அறிவிப்பு-
+Harris MP, a member of the Sri Lanka Muslim Congress, faces suspension due to unspecified reasons.
+
+🟩
+
+Member of Parliament Haris will be suspended from the post of Sri Lanka Muslim Congress.
 
 ◼️
 
 [Data](articles/5fb3b3a2.json)
+
+[Extended Data](ext_articles/5fb3b3a2.ext.json)
 
 ---
 
@@ -387,6 +419,26 @@ The services Purchasing Manager’s Index (PMI) indicated a further expansion in
 [Data](articles/e4f9520d.json)
 
 [Extended Data](ext_articles/e4f9520d.ext.json)
+
+---
+
+### Sri Lanka to amend controversial SDP tax law by February 2025
+
+*2024-08-19 18:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-amend-controversial-sdp-tax-law-by-february-2025-177198/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to amend a Strategic Development Act which gave discretionary tax holidays and personal income tax free to up to 30 top executives in each project is to be amended, Treasury Secretary Mahinda Siriwardana has said.
+
+The SDP Act has come under fire from the International Monetary Fund in particular for long negotiated discretionary tax holidays given to projects, exposing the country to corruption vulnerabilities.
+
+A bizarre incentive given for SDB Projects is to make salaries of top executives completely free of tax.
+
+“A comprehensive review of the costs and benefits of past tax incentives granted will be initiated to have a more rigorous approach to the granting of new incentives to investors,” Siriwardana said in a speech this week.
+
+“This approach will have specific and transparent criteria and processes, and include sunset clauses to limit the duration of incentives and include assessment of benefits and costs.
+
+...
+
+[Data](articles/ee75eb2b.json)
 
 ---
 
@@ -1694,6 +1746,30 @@ He also emphasized that the responsibility to curb such criminal activity lies o
 
 ---
 
+### Sri Lanka apparel sector hiring, upturn in services: PMI
+
+*2024-08-19 11:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-apparel-sector-hiring-upturn-in-services-pmi-177195/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s manufacturing and service sectors continued to expand in July registering index values over 50 in July 2024, with new hires seen in the apparel sector, according to a Purchasing Managers Index compiled by the central bank.
+
+The Manufacturing PMI was 59.5 in July, after recording 56.6 in June with new orders seen in apparel and growth on manufacture of food and beverages, textile and apparel.
+
+“Employment turned positive in July, which was mainly attributable to the manufacture of textiles & apparel sector,” the statement said.
+
+“Stock of Purchases also expanded in line with the increased demand for materials.”
+
+The Services PMI recorded 71.1 in July after a 63.5 points in June.
+
+“Business activities in the transportation services grew mainly due to improvements observed in freight and aviation sectors,” the statement said.
+
+“Further, business activities in the wholesale and retail trade and other personal services also experienced a considerable growth during the month.
+
+...
+
+[Data](articles/09754f56.json)
+
+---
+
 ### Navy's Flood Relief Committee sent to Paragoda
 
 *2024-08-19 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191415) · `ta`
@@ -2313,53 +2389,5 @@ Therefore, the Irrigation Engineer (Ms. Sakurama Dilthara) said that drivers usi
 [Data](articles/de4e70cd.json)
 
 [Extended Data](ext_articles/de4e70cd.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-08-19 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101337/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere over the island during the evening or night, it said.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/f01bc119.json)
-
-[Extended Data](ext_articles/f01bc119.ext.json)
-
----
-
-### Sri Lanka central bank buys US$121mn in July, taking total to US$1.87
-
-*2024-08-19 07:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-buys-us121mn-in-july-taking-total-to-us1-87-177150/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has bought 121 million US dollars from banks in July 2024, taking net purchases to 1.87 million US dollars in 2024.
-
-The central bank had to sell dollars on a net basis in June after an ealier spike in unsterilized excess liquidity and credit.
-
-In order to collect reserves permanently the liquidity created from dollar purchases has to be mopped up.
-
-Mopping up prevents domestic investments of the same amount, allowing the central bank to invest the funds abroad as reserves.
-
-Sri Lanka gets about 2.0 billion dollars of current receipts every month, of which about 1.5 billion US dollars are used in imports now. Some money is also used for outward travel and paying bonds.
-
-The central bank can collect reserves from whatever that is saved by recipients of US dollars and is not re-lent to the domestic economy to invest as credit.
-
-In June the central bank had to sell 52 million US dollars on a net basis, amid a spike in credit and exchange rate volatility.
-
-...
-
-[Data](articles/5d3b2d93.json)
-
-[Extended Data](ext_articles/5d3b2d93.ext.json)
 
 ---

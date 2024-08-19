@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 21:21:23**
+As of **2024-08-19 21:37:04**
 
 ## Newspaper Stats
 
-*Scraped **41,534** Articles*
+*Scraped **41,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 4,863
 tamilmirrorlk | 5,354
 virakesarilk | 6,593
-adaderanasinhalalk | 7,090
+adaderanasinhalalk | 7,091
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,532 (100.0%) of 41,534 articles have been extended.
+41,534 (100.0%) of 41,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### ඉතාලි මුහුදේ සුඛෝපභෝගී යාත්‍රාවක් පෙරළෙයි
+
+*2024-08-19 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200111) · `si`
+
+ඉතාලියේ, සිසිලි දූපත් ආශ්‍රිත මුහුදේ සුඛෝපභෝගී යාත්‍රාවත් පෙරළීමෙන් පුද්ගලයෙකු මියගොස් තවත් 06 දෙනෙකු අතුරුදන්ව තිබේ.
+
+බ්‍රිතාන්‍ය ධජය යටතේ යාත්‍රා කළ මීටර් 56ක පමණ දිගින් යුතු අදාළ යාත්‍රාව අනතුරට ලක්වන අවස්ථාවේ මගීන් සහ කාර්ය මණ්ඩලය 22ක් සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ප්‍රදේශයේ පැවති අයහපත් කාලගුණය සමග ඇතිවූ ටොනේඩෝ තත්ත්වය අනතුරට හේතු වී ඇති බවට බලධාරීන් සඳහන් කර තිබේ.
+
+යාත්‍රාවේ සිටි පිරිස අතර ශ්‍රී ලාංකිකයෙකු ද වන බව වාර්තා වෙයි.
+
+මීට අමතරව බ්‍රිතාන්‍ය, අමෙරිකා, සහ කැනඩා ජාතිකයින් පිරිසක් එම සුඛෝපභෝගි යාත්‍රාවේ ගමන් කරමින් සිට ඇති අතර අනතුරින් මියගිය පුද්ගලයාගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැති බව සඳහන්ය.
+
+අතුරුදන් වූ පුද්ගලයින් 06 දෙනා සොයා වෙරළාරක්ෂක නිලධාරීන් සෝදිසි මෙහෙයුම් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/3ef2d95c.json)
+
+---
 
 ### Maximum amount that can be spent on a voter
 
@@ -56,7 +78,13 @@ Accordingly, the amount that cost one voter is Rs. 109.
 
 *2024-08-19 20:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101358/presidential-election-spending-limit-to-be-gazetted-) · `en`
 
-A Gazette notification will be issued tonight stipulating Rs. 109.00 as the maximum amount that a Presidential Candidate can spend on each voter during their election campaigns, the Commissioner General of Elections Saman Sri Ratnayake said.
+A Gazette notification will be issued tonight stipulating the maximum amount that a Presidential Candidate can spend on each voter during their election campaigns, the Commissioner General of Elections Saman Sri Ratnayake said.
+
+Accordingly, the maximum amount that each candidate can spend will be gazette as Rs. 109.00 per voter, he said.
+
+All upcoming national elections will be subject to new campaign finance laws that will limit the amount of funding that candidates, political parties and independent groups can spend on their campaigns.
+
+Ahead of the upcoming presidential election, the Election Commission had met with various stakeholders to brief them on the legislation and obtain their views and suggestions on establishing the spending limit and how to move forward in implementing the laws.
 
 ◼️
 
@@ -66,15 +94,21 @@ A Gazette notification will be issued tonight stipulating Rs. 109.00 as the maxi
 
 ---
 
-### சஜித்தின் பஸ்ஸும்  ரணிலின் பஸ்ஸும்
+### Sajith's Bus and Ranil's Bus
 
 *2024-08-19 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191457) · `ta`
 
-“வாழ்க்கை என்பதுஅந்தந்த  நேரத்து நியாயங்கள்”என்று  எழுத்தாளர் ஜெயகாந்தன் சொன்னார். இது யாருக்குப் பொருந்தாவிட்டாலும் அரசியல் வாதிகளுக்கு மிகப் பொருந்தும். அரசியலில் தாம் எடுக்கின்ற முடிவுகளுக்கு அந்த நேரத்தில் ஏதாவது நியாயங்கள் மட்டும் இருந்தால் போதுமானது. அதைவிடுத்து,எந்தமுடிவும் இன்னுமொருநேரத்தில் மாற்றப்படலாம் என்பது நினைவிருக்கட்டும்.
+Jayakanthan reflects on life as a series of moments, especially relevant for politicians whose actions, justified at the time, can change over time.
+
+🟩
+
+Writer Jayakanthan said, "Life is that time.". This is most appropriate for politicians no matter who does not apply. The decisions they make in politics are enough at the time if there are only any justifications at the time. Let me remember that any end can be changed at another time.
 
 ◼️
 
 [Data](articles/9e292c61.json)
+
+[Extended Data](ext_articles/9e292c61.ext.json)
 
 ---
 
@@ -356,19 +390,25 @@ From children to adults, everyone has been lovingly urged to give the support of
 
 ---
 
-### சிவில் பாதுகாப்பு படையணிக்கு அரசாங்கத்திடமிருந்து விசேட நிவாரணம்
+### Special relief from government to civil security forces
 
 *2024-08-19 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191463) · `ta`
 
-பாதுகாப்பு அமைச்சின் கீழ் செயற்படும் சிவில் பாதுகாப்புப் படையணியானது கடந்த முப்பது வருடகால கொடூர யுத்தத்தை முடிவுக்குக் கொண்டு வருவதற்கு தனித்துவமான பங்களிப்பை வழங்கியது. அத்தோடு நாட்டில் அமுல்படுத்தப்பட்டு வரும் அபிவிருத்தித் திட்டங்களுக்கும் சமூகத்தின் நல்வாழ்விற்கும் மிக முக்கியமான பணியை ஆற்றி வருகின்றது.
+The government has launched a special initiative to support the Civil Defense Force, recognizing its crucial role in ending a long war. This includes building homes for the homeless and renovating existing ones, with a focus on 100 members. Additionally, subsidies have been increased to improve their living standards.
 
-இதனைக் கருத்திற்கொண்டு, வீடற்ற உறுப்பினர்களுக்கு வீடு கட்டித் தருவதற்கும், ஏற்கனவே உள்ள வீடுகளை சீரமைப்பதற்கும், இந்த படையின் மூலம் தேவையான தொழிலாளர் பங்களிப்பை வழங்க அரசாங்கம் முடிவு செய்துள்ளதாக பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது. அதற்கமைய சிவில் பாதுகாப்பு படையணியின் 100 உறுப்பினர்களுக்கு இந்நிவாரணம் வழங்கப்படும் என பாதுகாப்பு இராஜாங்க அமைச்சர் அறிவித்துள்ளார்.
+🟩
 
-மேலும், பல ஆண்டுகளாக இந்த படையணியினர் விடுத்த கோரிக்கையை ஏற்று அவர்களுக்கான உதவித் தொகையை 500 ரூபாவாக அதிகரிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது. இதன் மூலம் அவர்களின் வாழ்க்கை நிலைமையை ஸ்திரப்படுத்த முடியும் எனவும் இராஜாங்க அமைச்சர் மேலும் தெரிவித்துள்ளார்.
+The Civil Defense Force, which operates under the Ministry of Defense, made a unique contribution to the end of the last thirty years of brutal war. In addition, the most important task is to be implemented in the country and the well -being of the community.
+
+Considering this, the government has decided to provide the necessary labor contribution through this army to build a house for homeless members and renovate existing houses.. The Minister of Defense has announced that the Civil Security Force will be given the matter to 100 members of the Civil Security Force.
+
+In addition, it has been decided to increase their subsidy to Rs.. The Minister of State added that this would be able to stabilize their lifestyle.
 
 ◼️
 
 [Data](articles/1e8a6a6e.json)
+
+[Extended Data](ext_articles/1e8a6a6e.ext.json)
 
 ---
 
@@ -2361,31 +2401,5 @@ The candidate winning a percentage of 50% will win the presidential election. Th
 [Data](articles/d3e308c0.json)
 
 [Extended Data](ext_articles/d3e308c0.ext.json)
-
----
-
-### Landslide Red Warning to Kalutara and Ratnapura districts
-
-*2024-08-19 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191396) · `ta`
-
-Heavy rainfall and potential landslides are predicted for Kalutara and Ratnapura districts, with a high risk of winds up to 60 km/h in certain sea areas. A red warning has been issued for specific areas, while other regions face yellow warnings.
-
-🟩
-
-The prevailing rainy weather in the southwest of the country is expected to prevail on the 19th and 20th due to the lack of atmosphere surrounding the country.
-
-A landslide hazard warning has been extended to six districts and a few areas in Kalutara and Ratnapura districts have been issued a red warning.
-
-From time to time, there is a possibility of rains or thunderstorms in the seas beyond Mannar to Puttalam, Colombo and Galle via Hambantota. Other seas around the country are likely to experience rain or thunderstorms in the evening or at night.
-
-In the seas around the country, the wind is blowing from the southwest direction and the wind speed is expected to be up to 30-40 km per hour.
-
-The wind speed in the seas beyond Kankesanthurai, Mannar, Colombo, Galle and Hambantota via Pottuvil is likely to increase to 60 km / h from time to time.
-
-...
-
-[Data](articles/ee2a77da.json)
-
-[Extended Data](ext_articles/ee2a77da.ext.json)
 
 ---

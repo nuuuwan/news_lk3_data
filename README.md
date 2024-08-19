@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 05:06:18**
+As of **2024-08-20 05:21:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,567 (100.0%) of 41,570 articles have been extended.
+41,570 (100.0%) of 41,570 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -182,35 +182,51 @@ Sunil G. Wijesinha will be the resource person for this session, who is a well�
 
 ---
 
-### வரிக்கு மேல் வரியை சுமத்தி வருகின்றனர்
+### Are carrying the line over the line
 
 *2024-08-20 02:05:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரிக்கு-மேல்-வரியை-சுமத்தி-வருகின்றனர்/175-342483) · `ta`
 
-குறிப்பிட்ட ஒரு செல்வந்த வர்க்கத்தினை பாதுகாக்கின்ற பொருளாதாரம் முறை ஒன்றே  தற்போது நாட்டில் காணப்படுகின்றது. IMF  ஒப்பந்தம் மூலமும் தொழிலாளர் வர்க்கத்தின் ETF, EPF  பணங்களை கொள்ளையடித்து  முதல் தர பணக்காரர்களை பாதுகாத்து வரும் ஆட்சியே நாட்டில் காணப்படுகின்றது என்று  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ  தெரிவித்தார்.
+Opposition leader Sajith Premadasa criticizes the government for allegedly favoring the wealthy through IMF agreements, claiming it robs the ETF and EPF. He urges dedication from leaders and promises a comprehensive economic growth strategy to combat poverty, contrasting with the current policy that has impoverished half the nation.
 
-அர்ப்பணிப்புடன் செயல்படுவதாக இருந்தால்  அனைவரும் அர்ப்பணிப்புடன் செயல்பட வேண்டும். ஆட்சி அதிகாரத்தில் உள்ளவர்களே முதலில் அர்ப்பணிப்புடன் செயல்பட வேண்டும். நாட்டின் தலைவரே அதிகபட்ச அர்ப்பணிப்புடன் செயல்பட வேண்டும். மக்களின் மீது வரிச் சுமையை  சுமத்திக் கொண்டு செல்கின்றார்.
+🟩
 
-IMF  குறிப்பிட்டதால்தான் அப்படி செய்கிறோம் என்பதை பதிலாக ஜனாதிபதி குறிப்பிட்டாலும்  அது மக்களை ஏமாற்றுகின்ற கருத்தாகும். IMF ஒப்பந்தத்தில் அவ்வாறான ஒரு விடயமும் குறிப்பிடப்படவில்லை. அரசாங்கம் மக்களை     அசௌகரியத்திற்குட்படுத்த  முயற்சிக்கிறது என்று எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The economy that protects a particularly wealthy class is now found in the country. Opposition leader Sajith Premadasa said that through the IMF agreement, the ETF and EPF of the EPF are being robbed and defending the first -class rich in the country.
+
+Everyone should act with dedication if it is dedicated. Those who are in power must first act with dedication. The head of the country must act with maximum commitment. He imposes the tax burden on the people.
+
+IMF is the idea that it is deceiving people, even if the president has instead of what we are doing. The IMF contract is not mentioned in such a thing. The opposition leader said the government was trying to inconvenience the people.
+
+He said this while addressing the Presidential Election Campaign held on Sunday (19) in front of the Nawalapitti Bus Stand.
+
+At the time of the country's deterioration. He said he would build an economic age that would create a comprehensive economic growth of the country and provide its replica.
 
 ...
 
 [Data](articles/910eccd3.json)
 
+[Extended Data](ext_articles/910eccd3.ext.json)
+
 ---
 
-### ’நெருக்கடியை வென்ற இரண்டு வருடப் பணிகள்’
+### Two years of consequences of winning the telephone crisis
 
 *2024-08-20 02:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெருக்கடியை-வென்ற-இரண்டு-வருடப்-பணிகள்/175-342482) · `ta`
 
-நாட்டின் வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்டெடுத்து, ஸ்திரத்தன்மையை ஏற்படுத்தி,  முன்னேற்றப் பாதைக்கு கொண்டு வருவதற்காக கடந்த இரண்டு வருடங்களில் ஜனாதிபதி ரணில் விக்ரமசிங்க சிறப்பான பணிகளை ஆற்றினார் என ஜனாதிபதி ஊடகப் பிரிவு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+Over the past two years, President Ranil Wickremesinghe has led efforts to stabilize and revitalize Sri Lanka's economy, implementing key reforms such as the Economic Transfer Act, State Financial Management Act, and introducing stringent anti-corruption laws. His initiatives aim to boost all sectors, protect vulnerable groups, enhance education and agriculture, and address healthcare and climate change issues, marking significant progress towards economic recovery and national unity.
 
-அனைத்து அம்சங்களிலும் வீழ்ச்சியடைந்திருந்த எமது நாட்டின் பொருளாதாரத்தை மாத்திரமன்றி,  ஸ்திரத்தன்மை மற்றும் முன்னேற்றத்திற்கு அவசியமான அனைத்துத் துறைகளையும் உள்ளடக்கிய வகையில் ஜனாதிபதியின் வேலைத்திட்டங்கள் அமைந்திருந்தன.
+🟩
 
-பொருளாதார பரிமாற்றச் சட்டத்தை நிறைவேற்றி, வரலாற்றில் முதல்முறையாக, தேசியத் திட்டம், இலக்குமயப்பட்ட வேலைத் திட்டம் மற்றும் பொறுப்புக்கூறல் ஆகியவற்றிற்குள் ஆட்சி நடைபெறும் சூழலை உருவாக்குதல், அரச நிதி முகாமைத்துவ சட்டத்தினை நிறைவேற்றியதன் மூலம் நாட்டில் முறையான நிதி ஒழுக்கத்தை ஏற்படுத்துதல், 83 புதிய சட்டங்கள் மற்றும் சட்ட வரைவுகளை நிறைவேற்றுவதற்காக பாராளுமன்றத்தில் சமர்ப்பித்து இந்நாட்டிற்குத் தேவையான சட்ட சீர்திருத்தங்களை மேற்கொள்ளப்பட்டுள்ளன.
+President Ranil Wickremesinghe has performed well in the last two years to restore the country from the worst economic crisis in the country, to bring about stability and bring it on the path of progress, the Presidential Media Unit said in a statement.
+
+The president's programs were aimed at all the sectors that were necessary for the economy of our country, which had fallen in all aspects.
+
+For the first time in the passage of the Economic Transfer Act, the creation of the ruling environment within the national program, the target program and the responsibility of the state, the implementation of the State Financial Management Act, the legal financial discipline in the country, the legal reforms for this country have been implemented to the country.
 
 ...
 
 [Data](articles/a3b195a1.json)
+
+[Extended Data](ext_articles/a3b195a1.ext.json)
 
 ---
 
@@ -604,15 +620,21 @@ Coast Guard Officers have commenced search operations in search of the six disap
 
 ---
 
-### ஹரிஸ் எம்.பி இடைநிறுத்தம்
+### Harris MP Pause
 
 *2024-08-19 21:08:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஹரிஸ்-எம்-பி-இடைநிறுத்தம்/150-342458) · `ta`
 
-சிறிலங்கா முஸ்லிம் காங்கிஸின் உறுப்பினர் பதவியிலிருந்து பாராளுமன்ற உறுப்பினர் ஹரீஸ் தற்காலிகமாக இடைநிறுத்தம் இது தொடர்பில் எழுத்து மூலம் நாளை அவருக்கு அறிவிக்கப்படும் -ஓட்டமாவடியில் இன்று நடைபெற்ற கூட்டத்தில் கட்சித் தலைவர் ரவூப் ஹக்கீம் அறிவிப்பு-
+Harris MP, a member of the Sri Lanka Muslim Congress, faces suspension due to unspecified reasons.
+
+🟩
+
+Member of Parliament Haris will be suspended from the post of Sri Lanka Muslim Congress.
 
 ◼️
 
 [Data](articles/20d25427.json)
+
+[Extended Data](ext_articles/20d25427.ext.json)
 
 ---
 

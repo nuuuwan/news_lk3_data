@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 07:03:05**
+As of **2024-08-19 07:31:15**
 
 ## Newspaper Stats
 
-*Scraped **41,427** Articles*
+*Scraped **41,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,61 @@ dailymirrorlk | 4,733
 adaderanalk | 4,843
 tamilmirrorlk | 5,335
 virakesarilk | 6,569
-adaderanasinhalalk | 7,065
+adaderanasinhalalk | 7,066
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,426 (100.0%) of 41,427 articles have been extended.
+41,427 (100.0%) of 41,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### ප්‍රදේශ රැසකට තද වැසි
+### නිකිණි පුර පසළොස්වක පොහොය අදයි
+
+*2024-08-19 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200084) · `si`
+
+ශාසනික වශයෙන් ඓතිහාසික සිදුවීම් ගණනාවක් සිදු වූ නිකිණි පුර පසලොස්වක පෝය දිනය අදට (19) යෙදී තිබේ.
+
+ප්‍රථම ධර්ම සංගායනාව පැවැත්වීම, ආනන්ද හිමි රහත් භාවයට පත්වීම, පෙර වස් මගහැරි භික්ෂූන් වහන්සේ පසුවස් එළඹීම මෙන්ම බුදුන්වහන්සේගේ ලලාට ධාතු තැන්පත් කරමින් සේරුවිල දා ගැබ තැනීම ආරම්භ කිරීම ඇතුලු කරුණු ගණනාවක් සම්බන්ධයෙන් මෙම පොහොය විශාල වැදගත්කමක් උසුලයි.
+
+එමෙන්ම පන්සල සහ ගිහියන් අතර සබඳතාව වඩාත් තහවුරු කිරීමට ද මෙම පොහොය වැදගත් වේ.
+
+ඒ අනුව අද උදෑසන සිටම සැදැහැවතුන් බොහෝ පිරිසක් වෙහෙර විහාරස්ථාන වෙත ගොස් අගමික වතාවත් වල නිරත වන බව අද දෙරණ වාරතාකරුවන් සඳහන් කළේය.
+
+මේ අතර මහනුවර ඇසළ පෙරහැරේ අවසන් රන්දෝළි පෙරහැර අද රාත්‍රියේ වීදි සංචාරය කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/9a0ee018.json)
+
+---
+
+### Heavy rains in many areas
 
 *2024-08-19 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200083) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණු  සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall expected across several provinces, including Western, Sabaragamuwa, Southern, and North-Western regions, with potential for heavy showers exceeding 75mm. Thunderstorms may bring strong winds and pose risks like landslides. The Department advises caution against arbitrary actions due to weather conditions.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and North-Western provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+Some areas in the Western and Sabaragamuwa Province and in Galle and Matara districts are mm mm mm.. Heavy rains can occur at more than 75.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+Showers or thundershowers will occur at the evening or night in the rest of the island.
+
+West in the central hills and in the North, North, North, North-central and Northwestern provinces and in the Hambantota district.. (30-40) can cause strong winds.
+
+The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
 
 ◼️
 
 [Data](articles/ba9d64c0.json)
+
+[Extended Data](ext_articles/ba9d64c0.ext.json)
 
 ---
 
@@ -2287,31 +2313,5 @@ Tamil politicians who live in luxury in Colombo deceive the northern people. Sel
 [Data](articles/5f7e7478.json)
 
 [Extended Data](ext_articles/5f7e7478.ext.json)
-
----
-
-### "I am more than Kamala Harris"
-
-*2024-08-18 11:42:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கமலா-ஹாரிஸை-விடவும்-நான்-தான்-அழகு-டிரம்ப்/50-342373) · `ta`
-
-Donald Trump, in a controversial statement, claimed he is more attractive than Vice President Kamala Harris, sparking a new round of criticism. He also criticized her intelligence during the Pennsylvania election campaign. Despite his previous comments about Joe Biden, Trump is now focusing on another opponent, though he did not specify who.
-
-🟩
-
-Former President Trump has said, "I am more beautiful than Kamala Harris," has caused a new controversy.
-
-Elections for US President's position, Nov. 5. In this, on behalf of the Republican Party, former President Donald Trump, the hero of controversy. There has been a lot of controversy over the fact that she lost the last election, leaving her supporters, leaving the pornography actress to silence and wrote a fake.
-
-Vice President Kamala Harris will field the Democratic Party in this election as the presidential candidate. Trump is criticizing Kamala, 'I will win him easily'. Kamala said, "The man who has been calling it an Indian for so long, is now identifying himself as a black man."
-
-In this case, Kamala Harris has strongly criticized the appearance and intelligence in the election campaign in Pennsylvania.
-
-He said, “I'm more beautiful than him. I am better for l rather than Kamala. I have to compete against the beauty and knowledge I have.
-
-...
-
-[Data](articles/dd23acfc.json)
-
-[Extended Data](ext_articles/dd23acfc.ext.json)
 
 ---

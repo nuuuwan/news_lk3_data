@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 01:21:25**
+As of **2024-08-20 01:36:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,548 (100.0%) of 41,549 articles have been extended.
+41,549 (100.0%) of 41,549 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -425,6 +425,8 @@ Book Review: Mountain at A center of the world: Pilgrimage and Pluralism in Sri 
 ...
 
 [Data](articles/9e7b895b.json)
+
+[Extended Data](ext_articles/9e7b895b.ext.json)
 
 ---
 

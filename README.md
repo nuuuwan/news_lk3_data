@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 20:21:21**
+As of **2024-08-19 20:36:49**
 
 ## Newspaper Stats
 
-*Scraped **41,527** Articles*
+*Scraped **41,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,505
 dailyftlk | 2,676
-adalk | 3,821
+adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,862
 tamilmirrorlk | 5,354
 virakesarilk | 6,591
-adaderanasinhalalk | 7,089
+adaderanasinhalalk | 7,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,527 (100.0%) of 41,527 articles have been extended.
+41,527 (100.0%) of 41,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### ඡන්ද දායකයෙකු වෙනුවෙන් වියදම් කළ හැකි උපරිම මුදල
+
+*2024-08-19 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200110) · `si`
+
+මැතිවරණ ප්‍රචාරක කටයුතු සඳහා ජනාධිපති අපේක්ෂයෙකු එක් ඡන්ද දායකයෙකු සඳහා වියදම් කළ හැකි උපරිම මුදල සඳහන් කරමින් අද රාත්‍රියේදී ගැසට් නිවේදනයක් නිකුත්කරන බව මැතිවරණ කොමිසම පවසයි.
+
+ඒ අනුව, එක් ඡන්ද දායකයෙකු සඳහා වියදම් කළ හැකි මුදල වන්නේ රුපියල් 109කි.
+
+◼️
+
+[Data](articles/189ecf96.json)
+
+---
+
+### ප්‍රසංග හා සැණකෙළිවලට අවසර නොදිමෙන් විශාල පිරිසක් පිඩාවට
+
+*2024-08-19 20:09:27* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසංග-හා-සැණකෙළිවලට-අවසර-නොදිමෙන්-විශාල-පිරිසක්-පිඩාවට/11-411448) · `si`
+
+මැතිවරණය අවසන් වනතුරු ප්‍රසංග හා සැණකෙළි පැවැත්වීමට පොලිසිය අවසර නොදීම හේතුවෙන් රට පුරා ප්‍රසංග සංවිධායකවරුන් තුන්දහසකට ආසන්න පිරිසක්ද,  මෙම කර්මාන්තය මත යැපෙන ගායක ගායිකාවන්, සංගීත ශිල්පීන්, වේදිකා නිර්මාණකරුවන් සහ වෙළෙඳුන් ඇතුළු ලක්ෂයකට ආසන්න පිරිසක් දැඩි දුෂ්කරතාවයට පත්ව තිබෙන බව ඔවුහු ප්‍රකාශ කරති.
+
+ශ්‍රී ලංකා ප්‍රසංග සැණකෙළි සංවිධායකවරුන් සහ සම්බන්ධීකාරකවරුන්ගේ ඒකාබද්ධ සංගමයේ සභාපති දිනේෂ් ආතාවුද මහතා රජයේ මේ තීරණය හේතුවෙන් දිවයිනේ විවිධ ප්‍රදේශවල කල් තියා සූදානම් කර තිබූ සැණකෙළි සහ ප්‍රසංග විස්සකට වැඩි ප්‍රමාණයක් නතර කිරීමට සිදුවූ බව ප්‍රකාශ කරයි.
+
+මැතිවරණයක් පැවැත්වෙන්නේ යැයි පවසමින් ජන ජීවිතයේ අනෙකුත් කටයුතුවලට බාධා කිරීම නොකළ යුතු බවත් කලා කටයුතු ජීවන වෘත්තියක් කරගෙන කටයුතු කරන වෘත්තකයන් වෙනුවෙන් මේ ඉතා අසාධාරණ තීරණයක් බව ද ඔහු පෙන්වා දෙයි.
+
+තම කණ්ඩායම රට පුරා ප්‍රසංග සහ සැණකෙළි සංවිධාන කරන්නේ රජයට ලක්ෂ ගණනින් විනෝද බදු ගෙවමින් බවත් මෙවන් ප්‍රසංග සඳහා අය කරන රජය විනෝද බද්ධ වහා අඩු කළ යුතු බවත්  සංගමයේ මාධ්‍ය ලේකම් සිදේෂ් රංගන විජේවීර මහතා පවසයි.
+
+◼️
+
+[Data](articles/f2ed2450.json)
+
+---
 
 ### Father is on the place where he was suspended - Namal
 
@@ -672,6 +704,24 @@ It is noteworthy that Parliamentarian Rishad Bathiudeen has sent a letter to Pre
 
 ---
 
+### කටුනායකින් ආරම්භ කළ ෂටල් බස් සේවාව ලප් තැනම ලොප් වෙයි
+
+*2024-08-19 16:03:30* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකින්-ආරම්භ-කළ-ෂටල්-බස්-සේවාව-ලප්-තැනම-ලොප්-වෙයි/11-411447) · `si`
+
+කටුනායක ගුවන් තොටුපොළේ සිට කොළඹ , කොටුව දුම්රිය ස්ථානය වෙත සහ මා කුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය වෙත ඉකුත් 08/15 දින  ආරම්භ කළ සුඛෝපභෝගී බස් රථ සේවාව ( Air Port Terminal Shuttle Service ) 08/19 දින උදෑසන 11.00 පමණ සිට තාවකාලිකව නවතා දැමීමට පියවර ගත් බව කටුනායක ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය.
+
+මෙම බස් රථ සේවාවට ආරම්භ කළ සැනින් , ඊට  එරෙහිව ගුවන් තොටුපොළ - කොටුව පෞද්ගලික සුඛෝපභෝගී බස් රථ සංගමය විරෝධතා ඉදිරිපත් කරමින් බස් රථ වර්ජනයක් ආරම්භ කර තිබුණි.
+
+ඊට අමතරව ඔවුන් ප්‍රවාහන සහ මහාමාර්ග අමාත්‍යාංශය  මැතිවරණය කොමසාරිස් කාර්යාලය වෙත ගොස් සිය විරෝධතා ඉදිරිපත් කර තිබුණි.
+
+මෙම විරෝධතා ව්‍යාපාරයට කටුනායක ගුවන් තොටුපොළ කුළී රථ ධාවන සංගම් ද සහයෝගය පළ කර තිබූ අතර මේ සියල්ල සළකා බලා එම සුඛෝපභෝගී බස් රථ ධාවනය ආරම්භ කර දින 04 කට පසුව  නවතා දැමීමට පියවර ගෙන තිබේ.
+
+...
+
+[Data](articles/762656c6.json)
+
+---
+
 ### A new force from the ministic
 
 *2024-08-19 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200100) · `si`
@@ -1193,6 +1243,22 @@ Further, after the supplies and service requirements meet the supplies and servi
 [Data](articles/0dcf17e9.json)
 
 [Extended Data](ext_articles/0dcf17e9.ext.json)
+
+---
+
+### ඇමෙරිකා යුද නැවක් කොළඹ වරායට
+
+*2024-08-19 13:15:58* · [`adalk`](https://www.ada.lk/uncategorized/ඇමෙරිකා-යුද-නැවක්-කොළඹ-වරායට/1-411443) · `si`
+
+ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS Spruance’ නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමේ සංචාරයක් සඳහා අද දින (2024 අගෝස්තු 19) කොළඹ වරායට පැමිණෙන ලද අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට සේන්දු වූ Arleigh Burke - class destroyer වර්ගයට අයත් ‘USS Spruance’ නෞකාව, දිගින් මීටර් එකසිය හැටක් (160 ) හා නැව් මුළුව තුන්සිය තිස් අටකින් (338) සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස Commander Thomas Adams කටයුතු කරනු ලබයි.
+
+තවද, සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමෙන් අනතුරුව ‘USS Spruance’ නෞකාව 2024 අගෝස්තු මස 20 වන දින දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/6a9d145b.json)
 
 ---
 
@@ -2335,97 +2401,5 @@ The Department of Meteorology has stated that 75 millimeters of rainfall is expe
 [Data](articles/faf24a61.json)
 
 [Extended Data](ext_articles/faf24a61.ext.json)
-
----
-
-### 3 persons including teacher
-
-*2024-08-19 01:03:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-உட்பட-3-பேர்-கைது/175-342415) · `ta`
-
-In Batticaloa, two youths were arrested for sexual abuse of a schoolgirl, while a teacher faced allegations for torturing a 4-year-old boy. A 16-year-old student and a 44-year-old teacher were kidnapped but managed to escape. The teacher later filed a complaint about the incident. Additionally, a 15-year-old girl was arrested for alleged sexual assault, and a 19-year-old man was accused of attempting to sexually assault another 15-year-old girl.
-
-🟩
-
-Police have arrested two youths on charges of sexually abusing a school girl in the last two weeks in Batticaloa, Kaluwanchikudi, Eravur and Kattankudi police divisions.
-
-In this case, a police official said that a 4 -year -old boy had lodged a complaint against a school teacher who had tortured a 4 -year -old boy.
-
-A 16 -year -old student who was educated at a area school in the district, a 44 -year -old teacher, who was educated in a temple on Sunday, 11th of this month, took a motorbike on her motorbike.
-
-The youths who saw this followed them and caught them in the city and fled with the girl from there.. According to the information received by the authorities of the Child Probation, the teacher lodged a complaint at the police station.
-
-The Eravur police arrested the author of the Eravur Magistrate's Court on the day of the incident.. He was ordered to be kept in detention until the 23rd.
-
-...
-
-[Data](articles/294713f4.json)
-
-[Extended Data](ext_articles/294713f4.ext.json)
-
----
-
-### Tamil people supported the president
-
-*2024-08-19 00:49:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்கள்-ஆதரிக்கின்றவர்-ஜனாதிபதியாக-வேண்டும்/175-342414) · `ta`
-
-Tamil community support for the president is highlighted, emphasizing his backing during upcoming elections. Development projects funded diversely have been successfully executed, thanks to the president's support. Political affairs of Tamils can progress in an environment conducive to their needs, as stated by Batticaloa district parliamentarian R. Sanakiyan. A children's sports festival in Batticaloa underscored the importance of development and unity among the people of the North and East, aiming for a prosperous future through collective decisions.
-
-🟩
-
-I have been able to carry out many development projects this time in the diverse funds. The president in this country is the one who supports the Tamil people in the coming presidential election.
-
-Batticaloa district parliamentarian R. Sanakiyan said that the political matters of the Tamil people can be carried out only when such an environment is coming.
-
-Batticaloa Kaluwanchikudi Sai Children's Sports Festival was held on Saturday evening (17) at Kaluwanchikudi.He said this while participating in the event.
-
-We need to carry out development -related issues.In our election manifesto, we wrote that we need to carry out the right -handed development. Therefore, the people of the North and East should be well aware of our people.
-
-We will announce a decision in unity of our party very quickly.If our people will join that decision, you can definitely set the best future in the region.
-
-◼️
-
-[Data](articles/bfac582a.json)
-
-[Extended Data](ext_articles/bfac582a.ext.json)
-
----
-
-### Let's reveal the reality of the attack 221/4
-
-*2024-08-19 00:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதலின்-உண்மை-நிலையை-வெளிப்படுத்துவோம்/175-342413) · `ta`
-
-The United People's Alliance, led by opposition leader Sajith Premadasa, plans to expose the truth behind the "lifeblood Sunday attack." Premadasa promises thorough investigations and appropriate actions against those responsible, emphasizing transparency and justice for the Catholic community. He visited the Colombo Bishop seeking blessings for his 2024 presidential campaign, highlighting his commitment to addressing the attack's background and verifying its authenticity.
-
-🟩
-
-The United People's Alliance, including the United People's Alliance, is ready to reveal the truth of the people as the people are looking for a lifeblood Sunday attack.. I have clear work for this.Opposition Leader and United People's Alliance's presidential candidate Sajith Premadasa said that these issues have been submitted in Parliament.
-
-The Catholics in this country are looking forward to whether proper inquiries into the life of the Sunday attack have been transparent.There is also a problem with whether its veracity is revealed. Opposition leader Sajith Premadasa said that the Catholic Council, including Ghathinal, will be made clear.
-
-Likewise, the Opposition Leader promised that he would find the backdrop of the lifeblood Sunday attack and its veracity without any difference and would take steps to give them the maximum punishment of all relevant laws.
-
-...
-
-[Data](articles/2455ffd5.json)
-
-[Extended Data](ext_articles/2455ffd5.ext.json)
-
----
-
-### 2024-08-18 (Sunday)
-
-### Bally’s Colombo unveils exclusive VIP lounge for elite members
-
-*2024-08-18 23:55:00* · [`islandlk`](http://island.lk/ballys-colombo-unveils-exclusive-vip-lounge-for-elite-members/) · `en`
-
-Bally’s Colombo, a prominent name in the Colombo nightlife scene and a top destination for night entertainment, recently launched its new Very Important Person (VIP) Lounge named “Paiza.”
-
-This luxurious area is designed exclusively for the top two VIP categories, Diamond and Infinity members, offering them unparalleled VIP services and an enhanced casino experience. The “Paiza” VIP Lounge provides an exclusive sanctuary for Bally’s most esteemed guests, allowing them to enjoy a higher level of play within a more intimate and lavish setting. Members of the Diamond and Infinity categories are treated to an array of exceptional amenities, including business class air tickets, luxury vehicle pickup from the airport, and accommodation in a luxury suite at a star-class hotel in Colombo. A separate bar and personalised steward service are also available, ensuring that every need is met with the utmost care and attention.
-
-...
-
-[Data](articles/be61b594.json)
-
-[Extended Data](ext_articles/be61b594.ext.json)
 
 ---

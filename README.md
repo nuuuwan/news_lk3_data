@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 15:06:42**
+As of **2024-08-19 15:21:30**
 
 ## Newspaper Stats
 
-*Scraped **41,490** Articles*
+*Scraped **41,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,505
 dailyftlk | 2,676
-adalk | 3,817
+adalk | 3,818
 dailymirrorlk | 4,733
 adaderanalk | 4,855
 tamilmirrorlk | 5,351
 virakesarilk | 6,579
-adaderanasinhalalk | 7,078
+adaderanasinhalalk | 7,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,487 (100.0%) of 41,490 articles have been extended.
+41,490 (100.0%) of 41,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### අමෙරිකානු නෞකාවක් හදිසියේ කොළඹ වරායට
+
+*2024-08-19 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200098) · `si`
+
+අමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් නෞකාවක් කොළඹ වරායට පැමිණ තිබේ.
+
+යු.එස්.එස් ස්ප්‍රොන්ස් නම් නෞකාව අද (19) පෙරවරුවේ කොළඹ වරායට පැමිණි බව නාවික හමුදාව පැවසුවේය.
+
+සැපයුම් සහ සේවා අවශ්‍යතා සපුරා ගැනීමේ සංචාරයක් සඳහා එම නෞකාව මෙරටට පැමිණ ඇති බව සඳහන්ය.
+
+නෞකාව දිගින් මීටර් 160ක් පමණ වන අතර නැව් මුළුව 338 දෙනෙකුගෙක් සමත්විත වන බව නාවික හමුදාව පැවසුවේය.
+
+සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමෙන් පසු නෞකාව හෙට (20) දිවයිනෙන් පිටත් වීමට නියමිතය.
+
+◼️
+
+[Data](articles/8f6d6d71.json)
+
+---
 
 ### One dead, another critical after lorry collides with train in Maha Induruwa
 
@@ -50,43 +70,61 @@ The injured individual has been admitted to the hospital for treatment, and sour
 
 [Data](articles/f7ef9ca0.json)
 
+[Extended Data](ext_articles/f7ef9ca0.ext.json)
+
 ---
 
-### ඡන්ද දායකයෙකුට වැය කළ හැකි උපරිම මුදල කීය ද?
+### What is the maximum amount of money that a voter can be spent?
 
 *2024-08-19 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200097) · `si`
 
-ජනාධිපතිවරණයේදී ජන්ද දායකයෙකු සඳහා වියදම් කළ හැකි මුදල සඳහන් ගැසට් පත්‍රය අද (19) ප්‍රකාශයට පත්කරන බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+The maximum spending limit per voter in the upcoming presidential election will be announced today, as per the Elections Commissioner General Saman Sri Ratnayake. This decision follows discussions and submissions from candidates regarding campaign expenses. Meanwhile, the PAFFREL organization confirms the participation of two candidates in a policy expression event, expecting more to join.
 
-පසුගිය සෙනසුරාදා (17) ඊට අදාළව පැවති සාකච්ඡාවේ දී ශත පනහේ සිට රුපියල් 1,000 දක්වා අගයන් යටතේ අපේක්ෂකයින් ඉල්ලීම් ඉදිරිපත් කර තිබුණි.
+🟩
 
-මැතිවරණ වියදම් නියාමන පනතට අනුව එක් ඡන්දදායකයෙකු සඳහා වියදම් කිරීමට අවසර ලත් මුදල නාමයෝජනා භාරගැනීමෙන් දින 5ක් ඇතුළත ගැසට් පත්‍රයක් මඟින් ප්‍රකාශයට පත්කළ යුතු වේ.
+Elections Commissioner General Saman Sri Ratnayake says that the gazette nor the gazette that can be spent on a voter charged at the presidential election will be announced today.
 
-මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පැවසුවේ ඒ පිළිබඳ තීරණය කිරීමට අපේක්ෂකයන් සහ මැතිවරණ කොමිසමේ නිලධාරීන් අතර පසුගිය සිකුරාදා පැවති සාකච්ඡාවේදී ශත පනහේ සිට රුපියල් දහස දක්වා අගයන් යටතේ අපේක්ෂකයින් ඉල්ලීම් ඉදිරිපත් කළ බවය.
+The demands of the demands of the respective discussions last Saturday (17) at the discussion.
 
-ඒ අනුව ජනාධිපතිවරණයේදී ජන්දදායකයෙකු සඳහා වියදම් කළ හැකි උපරිම මුදල සඳහන් ගැසට් පත්‍රය අද ප්‍රකාශයට පත්කිරීමට නියමිතය.
+According to the Elections Registration Act, the nomination for nomination should be announced within 5 days of accepting nominations for one voter.
 
-මේ අතර මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයින්ට සිය ප්‍රතිපත්ති රටට ප්‍රකාශ කිරීම සඳහා සැලසුම් කළ විවාදයට මේ වන විට අපේක්ෂකයින් දෙදෙනෙකුගේ පැමිණීම තහවුරු කර ඇති බව පැෆ්රල් සංවිධානය පවසයි.
+Elections Commissioner General Saman Sri Ratnayake said that the demands of the candidates and candidates were submitted to the Candidates and Elections Commission officials to determine the matter.
+
+Accordingly, the Gazette which means the maximum amount of money spent on the presidential election will be announced today.
+
+Meanwhile, PAFFREL organization states that the argument that the candidates have planned to express their policies to the country this time have confirmed the arrival of two candidates.
 
 ...
 
 [Data](articles/3f503bb0.json)
 
+[Extended Data](ext_articles/3f503bb0.ext.json)
+
 ---
 
-### சம்பள உயர்வு குறித்து அரசாங்கம் பதில்
+### The government responds to a salary increase
 
 *2024-08-19 14:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-உயர்வு-குறித்து-அரசாங்கம்-பதில்/175-342445) · `ta`
 
-"சகல அரசாங்க ஊழியர்களுக்கும் 25000 ரூபா கொடுப்பனவே 3 வருடங்கள் முழுவதும் வழங்கப்படும். கனிஷ்ட தரத்திலான சேவையாளர்களுக்கும் ஆகக் குறைந்த சம்பளமாக 55000 ரூபா அல்லது அதற்கு மேல் அதிகரிக்க முடியும்."
+The government plans to increase salaries for its employees significantly, with the lowest-paid set to receive an increase of at least 55,000 rupees. This decision, approved by the cabinet and aligned with IMF recommendations, aims to address longstanding concerns over low wages and the cost of living. The increase will be effective for three years, with details to be communicated officially soon.
 
-அரசாங்க தகவல் திணைக்களத்தில் நேற்று (18) இடம்பெற்ற விசேட ஊடகவியலாளர்களுடனான விசேட சந்திப்பின் போது கலந்து கொண்ட அமைச்சரவைப் பேச்சாளர் பேராசிரியர் பந்துல குணவர்தன அரசாங்க சேவையின் அதிக சம்பள உயர்விற்கு எதிராக மேற்கொள்ளப்படும் பிரச்சாரம் தொடர்பாக இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-"அமைச்சரவை அனுமதி கிடைத்த அரசாங்க சேவை சம்பள உயர்வுக்கான யோசனை சர்வதேச நாணய நிதியத்தின்  ஒதுக்கீட்டிற்கு இணங்க மூன்று வருடங்கள் மாற்றம் அடையாமல் காணப்படுகின்றது.  எந்த அரசாங்கம் அமைக்கப்பட்டாலும் சர்வதேச நாணய நிதியத்தின் யோசனைக்கு அமைய செயற்பட வேண்டும். வரவு செலவுத் திட்டத்திற்காக இந்த சம்பள அதிகரிப்பு யோசனை முன்வைக்கப்பட்டுள்ளதுடன் அதற்கு அமைச்சரவை அனுமதி கிடைக்கப்பெற்றுள்ளது.
+“All government employees will be paid 25000 rupees for 3 years. The lowest salary can be increased by 55000 rupees or more. "
+
+Cabinet spokesman Professor Bandula Gunawardena, who was present at a special meeting with special journalists held at the Government Information Department yesterday (18), made this statement on the campaign against the high salary increase of government service.
+
+"The idea of ​​a government service salary increase in the Cabinet has not been changed for three years in accordance with the allocation of the International Monetary Fund.. This salary increase idea has been proposed for the budget and has been granted cabinet approval.
+
+But the media did not publish it properly. As a Cabinet spokesman, I have a duty and responsibility to adjust it if the comments made on the cost of living in the Cabinet are wrong.
+
+The cabinet bond cannot be carried out it is secret. Do not carry them out. Copies will be sent to the Secretaries of the Ministry.
 
 ...
 
 [Data](articles/91c8fa83.json)
+
+[Extended Data](ext_articles/91c8fa83.ext.json)
 
 ---
 
@@ -313,6 +351,22 @@ A lorry carrying firewood from Koskoda has been hit by a train from Galle to Col
 [Data](articles/3004cd84.json)
 
 [Extended Data](ext_articles/3004cd84.ext.json)
+
+---
+
+### ඊශ්‍රායෙලයේ සිටින ලාංකිකයන්ට විශේෂ දැනුම් දීමක්
+
+*2024-08-19 13:09:07* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-සිටින-ලාංකිකයන්ට-විශේෂ-දැනුම්-දීමක්/11-411442) · `si`
+
+මැද පෙරදිග කලාපයේ වර්ධනය වන  නොසන්සුන්තාව උපරිම තලයට පැමිණ ඇති අතර ඉදිරි දින කීපය තුලදී ඊශ්‍රායලය ඉලක්ක කර ගනිමින් අනපේක්ෂිත ප්‍රහාරය සිදුවිය හැකි බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කර ඇති හෙයින් ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකකයින්ට තම ආරක්ශාව සදහා නිසි පියවර ගන්නා ලෙසට ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බංඩාර මහතා    ප්‍රවෘත්ති නිවේදනයක් නිකුත් කරමින්  දැනුම් දී සිටි .
+
+පසුගිය දින කීපය තුළ ඊශ්‍රායලයේ උතුරු සහ දකුණු කලාපවලට ෂෙල් රොකට් ප්‍රහාර ගණනාවක් එල්ලවූ බවත් , ඒ සියල්ල සාර්ථක මර්ධනය කිරීමට ඊශ්‍රායල් හමුදවන් සමත් වූ බවද හෙතෙම පවසයි .
+
+පසුගිය ගෙවුණු පැය 24 ක කාලය තුල හූති සංවිධානය ට අයත් නාවික යාත්‍රා දෙකක් රතු මුහුදේදී ඇමරිකානු හමුදා විසින් ප්‍රහාර එල්ලකර විනාශ කිරිමත් සමඟ කලාපයේ යුධ උණුසුම් ඉහල යමින් පවතින බවත් , මේ  තත්ත්වය මත නිරන්තරයෙන්ම තම ආරක්ශාව පිළිබඳව අවධානය යොමු කරන ලෙසත්, අත්‍යවශ්‍ය කරුණකට හැර තම සේවා ස්ථානයෙන් පිටතට නොයන ලෙසත් හදිසි අවස්ථාවකදි අවශ්‍ය උපකාර සදහා තානාපති කාර්යාලය   අමතන ලෙසට      ඊශ්‍රායල් ශ්‍රී ලංකා     තානාපති නිමල් බංඩාර මහතා ඉල්ලා සිටි .
+
+...
+
+[Data](articles/fa7e7142.json)
 
 ---
 
@@ -2281,57 +2335,5 @@ The total budget spent on the Bim Saviya program is Rs. 618,372 million. In 2002
 [Data](articles/488da491.json)
 
 [Extended Data](ext_articles/488da491.ext.json)
-
----
-
-### The number of children's home children has decreased by 3,353 in the past ten years
-
-*2024-08-18 19:05:12* · [`adalk`](https://www.ada.lk/breaking_news/ළමා-නිවාස-ගත-දරුවන්ගේ-සංඛ්‍යාව-ඉකුත්-දස-වසරක්-තුළ-3-353-කින්-අඩු-වෙලා/11-411435) · `si`
-
-Over the past decade, the number of children in care has dropped significantly, from 12,610 in 2014 to 9,258 in 2023. Despite this positive trend, there were still 605 cases of serious sexual abuse reported by the end of 2023. In response, a child protection committee was established in July 2024, focusing on addressing the needs of children, including nutrition.
-
-🟩
-
-The number of children's homes has been reduced from 3353 children since March (within ten years).
-
-The latest audit report released from the year 2014 to the 2005 to 20th of the year 2014, it has been revealed.
-
-The Department of Probation and Child Protection Department of 2014 was 12,610 and the number of children in these houses was reduced to 9258 at the time of 2023.
-
-The report states that 605 serious sexual abuse against children have occurred by the end of December 2023, reports say.
-
-The audit report states that a child protection activation committee was appointed in July in July, 2024 and a report on childhood needs and nutrition needs was summoned from the Probation and Child Protection Commissioners of the Probation and Child Care in 2023.
-
-◼️
-
-[Data](articles/f69ec1e7.json)
-
-[Extended Data](ext_articles/f69ec1e7.ext.json)
-
----
-
-### Tanamalwila affair: Arrested by Legal Officer
-
-*2024-08-18 18:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனமல்வில-விவகாரம்-சட்ட-வைத்திய-அதிகாரி-கைது/175-342394) · `ta`
-
-A legal officer from Hambantota District General Hospital was arrested by the National Child Protection Authority for allegedly intimidating a rape victim during a medical exam. The victim's mother filed a complaint about the officer's behavior, leading to his arrest and subsequent release on bail. This incident followed the arrest of 22 students involved in raping another group of 22 students, as well as the arrest and release on bail of four school staff members accused of covering up the crime.
-
-🟩
-
-The National Child Protection Authority of the Hambantota District General Hospital has been arrested by the National Child Protection Authority, who conducted a medical examination on the incident where 22 students were raped by 22 students.
-
-The girl's mother had lodged a complaint with the police and the Child Protection Authority last week that the Hambantota medical officer had scolded and intimidated her daughter.
-
-The girl's mother said that after the JMO's action, her daughter had been mentally ill and the official had accused the girl of lying.
-
-Subsequently, the legal officer was arrested on Saturday and released on bail of Rs 300,000 after the Hambantota Magistrate's Court was produced before the Magistrate's Court.
-
-Earlier, more than 20 students involved in the incident were arrested and kept in interrogation.
-
-...
-
-[Data](articles/0b908c54.json)
-
-[Extended Data](ext_articles/0b908c54.ext.json)
 
 ---

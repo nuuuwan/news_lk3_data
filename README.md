@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 22:55:17**
+As of **2024-08-19 23:07:07**
 
 ## Newspaper Stats
 
-*Scraped **41,545** Articles*
+*Scraped **41,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
-tamilmirrorlk | 5,359
+tamilmirrorlk | 5,360
 virakesarilk | 6,594
 adaderanasinhalalk | 7,091
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,544 (100.0%) of 41,545 articles have been extended.
+41,545 (100.0%) of 41,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### கனமழைக்கு வாய்ப்பு - வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை
+
+*2024-08-19 22:32:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனமழைக்கு-வாய்ப்பு-வளிமண்டலவியல்-திணைக்களம்-எச்சரிக்கை/175-342475) · `ta`
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அடுத்த 24 மணித்தியாலங்களில் கடும் மழை பொழியக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தல் விடுத்துள்ளது.
+
+இலங்கையை அண்மித்துள்ள வளிமண்டலத் தாழ்வு நிலை காரணமாக தென்மேற்குப் பகுதியில் நிலவும் மழையுடனான வானிலை தொடரும் என எதிர்பார்க்கப்படுவதாக அதில் தெரிவிக்கப்பட்டுள்ளது.
+
+மேற்கு மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக் கூடும் என அறிவுறுத்தல் எச்சரித்துள்ளது.
+
+எனவே இடியுடன் கூடிய மழையின் போது தற்காலிகமாக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள போதிய முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகிறார்கள். R
+
+◼️
+
+[Data](articles/48bb8271.json)
+
+---
 
 ### Weather advisory issued for heavy rains
 
@@ -166,19 +184,27 @@ Elections Commissioner Saman Sri Ratnayake said that the gazette notification wi
 
 ---
 
-### மக்களின் பொருளாதாரத்தை மட்டுப்படுத்தி ஆட்சியதிகாரத்தை முன்னெடுக்கவே தற்போதைய ஜனாதிபதி முற்படுகின்றார் - சஜித் பிரேமதாச
+### The current President is trying to restrict the economy of the people - Sajith Premadasa
 
 *2024-08-19 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191480) · `ta`
 
-பொதுமக்களின் பொருளாதாரத்தை மட்டுப்படுத்தி ஆட்சி அதிகாரத்தை முன்னெடுக்கவே தற்போதைய ஜனாதிபதி உள்ளிட்ட ஆட்சியாளர்கள் முற்படுகின்றார்கள். இன்று சேற்றிலே கால் வைத்து வாழ்கின்ற பொதுமக்களில் வாழ்க்கை இன்றைய பதில் ஜனாதிபதிக்கு முக்கியத்துவமாக அமைவதில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Opposition leader Sajith Premadasa criticizes the current government for limiting public economy and focusing on benefits for the wealthy. He emphasizes unity across racial, religious, and class lines to address Sri Lanka's economic challenges. Premadasa highlights the importance of aligning with the International Monetary Fund (IMF) under a new government to ensure the welfare of the people, mentioning the potential for small and medium manufacturers to contribute significantly to the national production. He also addresses the issue of political revenge affecting businesses and promises to work towards justice and improving the quality of life for all citizens.
 
-மாவனெல்லை நகரில் 19ஆம் திகதி திங்கட்கிழமை பிற்பகல் இடம்பெற்ற ஐக்கிய மக்கள் கூட்டமைப்பின் மக்கள் சந்திப்பிலேயே மேற்கண்டவாறு சஜித் பிரேமதாஸ தெரிவித்துள்ளார்.
+🟩
 
-இன்று நாட்டில் பிரித்தாள்கின்ற ஆட்சி முறை காணப்படுகின்றது. இனரீதியாக, மத ரீதியாக, கட்சி ரீதியாக, குலம் கோத்திரமாக, வகுப்பு ரீதியாக இன்று நாடு பிரித்து வைக்கப்பட்டு இருக்கிறது. இலங்கை நாடு விழுந்திருக்கிற பாதாளத்திலிருந்து மீட்டெடுக்க  நாம் அனைவரும் ஒன்றுபட வேண்டும்.
+The rulers, including the current president, seek to limit the economy of the public and carry out the power. Opposition leader Sajith Premadasa has said that today's answer is not important to the President in the public who live in the mud today.
+
+Sajith Premadasa said this at a meeting of the United People's Alliance (UPFA) held in Mawanella on Monday afternoon.
+
+Today the country is divided. The country is racially, religious, party, tribe, class, and class today. We must all unite to retrieve the underworld that the Sri Lankan country has fallen.
+
+The United People's Power and the United People's Alliance are seen as the massive political force that allies together in all villages in the country. Sri Lanka should be focused on the four ethnic population. Through that link, we have the power to carry out the program that is raised by the country.
 
 ...
 
 [Data](articles/8bbce5f1.json)
+
+[Extended Data](ext_articles/8bbce5f1.ext.json)
 
 ---
 
@@ -2363,29 +2389,5 @@ The Elections Commission says that the use of religious symbols for propaganda i
 [Data](articles/0c051349.json)
 
 [Extended Data](ext_articles/0c051349.ext.json)
-
----
-
-### I decided to support Ranil Wickremesinghe in view of national importance - Nishantha Sri Warnasinghe
-
-*2024-08-19 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191384) · `ta`
-
-Nishantha Sri Warnasinghe, former deputy leader of the Jathika Hela Urumaya (JHU), announced his support for Ranil Wickremesinghe due to national necessity, highlighting Wickremesinghe's ability to stabilize the country post-Gotabhaya Rajapakse's resignation. Warnasinghe praised Wickremesinghe's leadership and decision-making, emphasizing his commitment to the nation's progress. This move comes after the JHU's decision to back Wickremesinghe based on national needs, with Warnasinghe joining the United National Party.
-
-🟩
-
-The Jathika Hela Urumaya (JHU) decided to support Ranil Wickremesinghe for a national need for any decision. "I have chosen the right side of the victory," said Nishantha Sri Warnasinghe, the former deputy leader of the Jathika Hela Urumaya (JHU), who joined the United National Party.
-
-He was speaking at a press conference held on Sunday (18) at the UNP headquarters.
-
-When Gotabhaya Rajapakse resigned the presidency, Ranil Wickremesinghe kept a seat in parliament and accepted the responsibility and brought the country to stability.. We have seen his move to take responsibility for the country in a predicament.
-
-I had the hope that he was talented and he could. So I praised him from the beginning for his actions to bring the country to the forefront. There are many issues I have posted on Ranil Wickremesinghe on a few resolutions.
-
-...
-
-[Data](articles/a1f4fc2b.json)
-
-[Extended Data](ext_articles/a1f4fc2b.ext.json)
 
 ---

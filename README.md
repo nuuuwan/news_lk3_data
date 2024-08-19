@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 14:21:20**
+As of **2024-08-19 14:36:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,484 (100.0%) of 41,486 articles have been extended.
+41,486 (100.0%) of 41,486 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,27 +44,37 @@ Ven. Ambagaswewa Rahula Thero was receiving treatment at a private hospital in C
 
 [Data](articles/7e458579.json)
 
+[Extended Data](ext_articles/7e458579.ext.json)
+
 ---
 
-### පූජ්‍ය අඹගස්වැව රාහුල හිමියෝ අපවත් වෙති
+### Ven. Ambagaswewa Rahula Thero
 
 *2024-08-19 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200096) · `si`
 
-ඓතිහාසික රංගිරි - දඹුලූ රජමහා විහාර සහ ශ්‍රී  විෂ්ණු දේවාලයේ භාරකාර සියම් මහා නිකායේ අස්ගිරි පාර්ශවයේ මාතලේ දිසාවේ උප ප්‍රධාන සංඝනායක දඹුල්ල මැද පන්සලයෙහි අධිපති සිරි වළගම්බා මහා පිරිවෙන් අධ්‍යක්ෂ සද්ධර්ම කීර්ති ශ්‍රී චන්ද්‍රජෝති  අඹගස්වැවේ ශ්‍රී රාහුල නාහිමියන් කොළඹ පෞද්ගලික රෝහලකදී (19) අපවත් වී තිබේ.
+Ven. Ambagaswewa Rahula Thero, born on July 13, 1961, in Dambulla, is a prominent figure in Sri Lanka's religious and cultural sectors. He serves as the Governor of several prestigious Buddhist institutions and temples, including the Asgaru Maha Pirivena and Siyamu Maha Pirivena. His contributions extend beyond his roles, impacting both the monastic community and broader society.
 
-උන්වහන්සේගේ දේහය පිළිබඳව අවසන් කටයුතු පසුවට දැනුම්දෙන බව විහාරස්ථ දායක සභාව පවසති.
+🟩
 
-1961 වසරේ ජූලි මස 13 වැනි දින දඹුල්ල දිසා රෝහලේදී උපත ලද උන්වහන්සේ කුඩා අවදියේම ඓතිහාසික රංගිරි - දඹුල්ල රජමහා විහාර මැද පන්සලේ පැවිදි දිවියට එක්ව තිබේ.
+The Governor of the Asgaru Maha Pirivena, Siyam Maha Pirivena, Siyamu Keertha Pirivena, Siyamu Maha Pirivena, Siyamu Maha Senevi, Director of the Asgiriya Maha Nikiri, District Temple of Sri Vishnu Devalaya, Director of the Asgaswewa, District Temple of Sri Vishnu Devalaya has been in Colombo.
 
-එදා සිට අපවත් වන කාලය දක්වාම උන්වහන්සේ දඹුලු පුරවරයට පමණක් නොව මුළු මහත් සමාජයටම විශාල සමාජීය ආගමික සේවාවන් රැසක් ඉටු  කිරීම විශේෂත්වයකි.
+The temple subscription scheme says the funeral will be informed on the following day.
 
-අනුරාධපුර දිස්ත්‍රික්කයේ පළාගල ප්‍රාදේශීය ලේකම් කොට්ඨාශයට අයත් අඹගස්වැව නම් වූ ග්‍රාමයේ උපත ලද උන්වහන්සේ අපවත් වන විට ඓතිහාසික රංගිරි - දඹුලූ රජමහා විහාරයේ ශ්‍රී විෂ්ණු දේවාලයේ භාරකාරත්වය උසුලන්නට විය.
+Born at the Dambulla District Hospital on July 13, 1961, he had joined the monarchy in the face of historical temple.
 
-අඹගස්වැවේ රාහුල නාහිමියන් 1982 ජුනි මස 26 වන දින උපසම්පදාව ලබා ගත්හ.
+It is noteworthy that he has not only for the dug tube but also to the entire society.
 
-...
+Born was born in the Ambagaswewa village of the Palagala Divisional Secretariat in Anuradhapura District was taken to the custody of the historic Rangulu Vishman Devalaya in the historic Rangulau Viharaya.
+
+The Ambagaswewa Rahula Thera obtained orders on June 26, 1982.
+
+He is also the Chief Incumbent of the Sri Lankan Ven. Engaged.
+
+◼️
 
 [Data](articles/231c879b.json)
+
+[Extended Data](ext_articles/231c879b.ext.json)
 
 ---
 

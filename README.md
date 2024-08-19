@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 07:31:15**
+As of **2024-08-19 07:53:00**
 
 ## Newspaper Stats
 
-*Scraped **41,428** Articles*
+*Scraped **41,431** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,89 @@ dailyftlk | 2,676
 adalk | 3,807
 dailymirrorlk | 4,733
 adaderanalk | 4,843
-tamilmirrorlk | 5,335
+tamilmirrorlk | 5,337
 virakesarilk | 6,569
-adaderanasinhalalk | 7,066
+adaderanasinhalalk | 7,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,427 (100.0%) of 41,428 articles have been extended.
+41,428 (100.0%) of 41,431 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### නිකිණි පුර පසළොස්වක පොහොය අදයි
+### அன்டணி பிளிங்கன் இஸ்ரேலுக்கு விஜயம்
+
+*2024-08-19 07:16:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அன்டணி-பிளிங்கன்-இஸ்ரேலுக்கு-விஜயம்/50-342419) · `ta`
+
+தொடர்ந்து 10 மாதங்களாக காசாவில் இடம்பெறும் போரை முடிவுக்குக் கொண்டு வரும் நோக்கில் அமெரிக்காவின் ஆதரவுடனான போர்நிறுத்த பேச்சுவார்த்தைக்காக அவர் நேற்று இஸ்ரேலுக்கு விஜயம் செய்துள்ளதாக வொஷிங்டன் போஸ்ட் செய்தி வெளியிட்டுள்ளது.
+
+போர்நிறுத்த கோரிக்கைகள் வலுப்பெற்றுள்ள நிலையில், அமெரிக்காவின் ஆதரவுடனான போர்நிறுத்த பேச்சுவார்த்தைக்காக அமெரிக்காவின் இராஜாங்க செயலாளர் அன்டணி பிளிங்கன் இஸ்ரேலுக்கு விஜயம் செய்துள்ளார். (a)
+
+◼️
+
+[Data](articles/e47de5bb.json)
+
+---
+
+### මාරක රිය අනතුරක්
+
+*2024-08-19 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200085) · `si`
+
+තිහගොඩ පොලිස් වසමේ හක්මන - මාතර ප්‍රධාන මාර්ගයේ පුහුල්වැල්ල ප්‍රදේශයේ සිදුවූ රිය අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+ඊයේ (18) පස්වරුවේ හක්මන දෙස සිට මාතර දෙසට ධාවනය වූ ත්‍රීරෝද රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ පෙරලී ගොස් විරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී අනතුර සිදුව තිබේ.
+
+අනතුරින් ත්‍රීරෝද රථයේ ගමන් ගත් මගීන් දෙදෙනෙකු බරපතළ තුවාල ලබා මාතර රෝහලට ඇතුලත් කිරීමෙන් පසු එක් මගියෙක් මියගොස් ඇත.
+
+තුවාල ලැබූ ත්‍රීරෝද රථ රියදුරු, යතුරුපැදිකරු සහ පසුපැදිකාරිය  පුහුල්වැල්ල රෝහලට ඇතුලත් කර ඇති අතර අනතුර සම්බන්ධව තිහගොඩ පොලීසිය වැඩිදුර විමර්ශන පවත්වයි.
+
+◼️
+
+[Data](articles/e4c12601.json)
+
+---
+
+### நாட்டின் சில பகுதிகளில் இன்றும் மழை
+
+*2024-08-19 07:10:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-இன்றும்-மழை/175-342418) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று  அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில பகுதிகளில் 75 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் என அந்த திணைக்களம் வெளியிட்டுள்ள வானிலை முன்னறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/cee54e34.json)
+
+---
+
+### China today is today
 
 *2024-08-19 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200084) · `si`
 
-ශාසනික වශයෙන් ඓතිහාසික සිදුවීම් ගණනාවක් සිදු වූ නිකිණි පුර පසලොස්වක පෝය දිනය අදට (19) යෙදී තිබේ.
+Today marks significant historical events, including the first Dhamma Sangayana led by Ananda Thera and the launch of Buddha's relics. These events underscore the importance of the temple's relationship with laypeople. In the morning, many devotees visit temples for religious observances. Tonight, the final Randoon Perahera of the Kandy Esala Perahera parade will take place, highlighting a day rich in cultural and religious festivities.
 
-ප්‍රථම ධර්ම සංගායනාව පැවැත්වීම, ආනන්ද හිමි රහත් භාවයට පත්වීම, පෙර වස් මගහැරි භික්ෂූන් වහන්සේ පසුවස් එළඹීම මෙන්ම බුදුන්වහන්සේගේ ලලාට ධාතු තැන්පත් කරමින් සේරුවිල දා ගැබ තැනීම ආරම්භ කිරීම ඇතුලු කරුණු ගණනාවක් සම්බන්ධයෙන් මෙම පොහොය විශාල වැදගත්කමක් උසුලයි.
+🟩
 
-එමෙන්ම පන්සල සහ ගිහියන් අතර සබඳතාව වඩාත් තහවුරු කිරීමට ද මෙම පොහොය වැදගත් වේ.
+The Nicini Pudaka Pudaka, which took several historical events, have been played today (19).
 
-ඒ අනුව අද උදෑසන සිටම සැදැහැවතුන් බොහෝ පිරිසක් වෙහෙර විහාරස්ථාන වෙත ගොස් අගමික වතාවත් වල නිරත වන බව අද දෙරණ වාරතාකරුවන් සඳහන් කළේය.
+The poto is a major importance on a number of facts, including the first Dhamma Sangayana of Ananda Thera and launches the Buddha's relics.
 
-මේ අතර මහනුවර ඇසළ පෙරහැරේ අවසන් රන්දෝළි පෙරහැර අද රාත්‍රියේ වීදි සංචාරය කිරීමට නියමිතය.
+This tree is also important to ensure the relationship between the temple and laymen.
+
+In the same morning, many deransation will go to the temples and engaged in the priminal occasions.
+
+Meanwhile, the final of the Randoon Perahera of the Kandy Esala Perahera will be held to the streets tonight.
 
 ◼️
 
 [Data](articles/9a0ee018.json)
+
+[Extended Data](ext_articles/9a0ee018.ext.json)
 
 ---
 
@@ -2245,73 +2297,5 @@ The GN River water level has increased to a situation where the Baddegama should
 [Data](articles/886dc34e.json)
 
 [Extended Data](ext_articles/886dc34e.ext.json)
-
----
-
-### Grama Niladhari Officers pause trade union action until prez poll ends
-
-*2024-08-18 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101319/-grama-niladhari-officers-pause-trade-union-action-until-prez-poll-ends) · `en`
-
-The Grama Niladhari Officers’ Alliance says that it will temporarily suspend its ongoing trade union action, effective from midnight today (Aug 18).
-
-The decision comes as their trade union aims to ensure the maximum contribution of its members in the upcoming Presidential Election, recognizing the vital role that Grama Niladhari officers play as election officers, the co-chairman of the alliance Nandana Ranasinghe said.
-
-The Grama Niladhari Officers’ unions launched trade union action on May 04, 2024, demanding adjustments to the Grama Niladhari service constitutions and allowance increments to better align with the current economic realities.
-
-Later, the alliance observed a ‘Black Protest Week’ from August 12 to 18. Nandana Ranasinghe stated that they will also conclude this trade union action at midnight today.
-
-Additionally, the work-to-rule campaign, which began on May 17, will be officially brought to an end tonight, according to Mr Ranasinghe.
-
-...
-
-[Data](articles/be766625.json)
-
-[Extended Data](ext_articles/be766625.ext.json)
-
----
-
-### Special attention to telephone number
-
-*2024-08-18 11:48:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-கவனம்-செலுத்த-வேண்டும்/175-342374) · `ta`
-
-President Ranil Wickremesinghe highlighted the need to strengthen ties with India and regional unity from Japan to India during a conference, emphasizing the importance of these relationships for the future.
-
-🟩
-
-President Ranil Wickremesinghe emphasized the emphasis on strengthening relations with India and the importance of uniting and strengthening the region from Japan to India.
-
-The President said this while addressing a conference of the 'Voice of the Southern Territory of the Southern Region', which was conducted for the third time in the tone of the 'Son of the Strong World of Surprising Futures'.
-
-◼️
-
-[Data](articles/55282979.json)
-
-[Extended Data](ext_articles/55282979.ext.json)
-
----
-
-### There is no difference between the majority and the minority;Vote for us and vote for us - Dilith Jayaweera in the north
-
-*2024-08-18 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/191343) · `ta`
-
-Dilith Jayaweera, a presidential candidate, emphasizes unity among Sri Lankans, urging voters to support his party for equality and peace. He criticizes Northern politicians' promises of sharing power and implementing the 13th Amendment as deceptive, highlighting the need for national unity over division.
-
-🟩
-
-It is said that the northern politicians will be shared during the election and the 13th Amendment will be implemented.. There is no difference in the majority, minority. We are all Sri Lankans. Dilith Jayaweera, the presidential candidate of the universal power, urged the people of the Northern people to rely on us and vote for us.
-
-Speaking at the first meeting of the universal power in Jaffna on Saturday (17), he said this.
-
-In this country, the majority of the Sinhalese, the Tamils ​​are minority, should be equal to all.
-
-During the election, the Northern politicians will raise the slogans that political power should be shared and the 13th Amendment should be fully implemented. These are false activities that deceive the people of the North.
-
-Tamil politicians who live in luxury in Colombo deceive the northern people. Selfish politicians will create racist conflicts. To mention the truth, we decided to hold our first political meeting in Jaffna.
-
-...
-
-[Data](articles/5f7e7478.json)
-
-[Extended Data](ext_articles/5f7e7478.ext.json)
 
 ---

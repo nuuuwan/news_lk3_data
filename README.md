@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 21:37:04**
+As of **2024-08-19 21:57:22**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,534 (100.0%) of 41,535 articles have been extended.
+41,535 (100.0%) of 41,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### ඉතාලි මුහුදේ සුඛෝපභෝගී යාත්‍රාවක් පෙරළෙයි
+### A luxury vessel in Italian sea
 
 *2024-08-19 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200111) · `si`
 
-ඉතාලියේ, සිසිලි දූපත් ආශ්‍රිත මුහුදේ සුඛෝපභෝගී යාත්‍රාවත් පෙරළීමෙන් පුද්ගලයෙකු මියගොස් තවත් 06 දෙනෙකු අතුරුදන්ව තිබේ.
+A luxury Italian sea vessel carrying British, American, and Canadian passengers, including a Sri Lankan, sank due to bad weather, leaving one dead and six missing. Authorities are searching for the missing.
 
-බ්‍රිතාන්‍ය ධජය යටතේ යාත්‍රා කළ මීටර් 56ක පමණ දිගින් යුතු අදාළ යාත්‍රාව අනතුරට ලක්වන අවස්ථාවේ මගීන් සහ කාර්ය මණ්ඩලය 22ක් සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ප්‍රදේශයේ පැවති අයහපත් කාලගුණය සමග ඇතිවූ ටොනේඩෝ තත්ත්වය අනතුරට හේතු වී ඇති බවට බලධාරීන් සඳහන් කර තිබේ.
+The luxury vessel of the sea in Italy was killed and another six went missing.
 
-යාත්‍රාවේ සිටි පිරිස අතර ශ්‍රී ලාංකිකයෙකු ද වන බව වාර්තා වෙයි.
+Foreign media reports that the vessel of the British flag was in danger of the 56-meter.
 
-මීට අමතරව බ්‍රිතාන්‍ය, අමෙරිකා, සහ කැනඩා ජාතිකයින් පිරිසක් එම සුඛෝපභෝගි යාත්‍රාවේ ගමන් කරමින් සිට ඇති අතර අනතුරින් මියගිය පුද්ගලයාගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැති බව සඳහන්ය.
+Authorities claimed that the town of the inclement weather in the area had led to the accident.
 
-අතුරුදන් වූ පුද්ගලයින් 06 දෙනා සොයා වෙරළාරක්ෂක නිලධාරීන් සෝදිසි මෙහෙයුම් ආරම්භ කර තිබේ.
+It is reported that a Sri Lankan is among the vessels.
+
+In addition, a group of British, USA, and Canada have been traveling on the luxury vessel, and the identity of the deceased has not yet been established.
+
+Coast Guard Officers have commenced search operations in search of the six disappeared.
 
 ◼️
 
 [Data](articles/3ef2d95c.json)
+
+[Extended Data](ext_articles/3ef2d95c.ext.json)
 
 ---
 

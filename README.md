@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 00:09:45**
+As of **2024-08-20 00:21:16**
 
 ## Newspaper Stats
 
-*Scraped **41,547** Articles*
+*Scraped **41,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
-tamilmirrorlk | 5,360
+tamilmirrorlk | 5,361
 virakesarilk | 6,594
 adaderanasinhalalk | 7,091
 
@@ -26,9 +26,25 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,547 (100.0%) of 41,547 articles have been extended.
+41,547 (100.0%) of 41,548 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-20 (Tuesday)
+
+### மதச் சின்னங்களை பயன்படுத்த தடை
+
+*2024-08-20 00:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதச்-சின்னங்களை-பயன்படுத்த-தடை/175-342476) · `ta`
+
+தேர்தல் பிரசாரங்களுக்கு தேசியக் கொடி அல்லது மதச் சின்னங்களைப் பயன்படுத்துவது முற்றாகத் தடை செய்யப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது
+
+ஜனாதிபதி தேர்தல் பிரசாரங்களுக்கு தேசிய கொடியை பயன்படுத்தும் கட்சிகள் மீது கடும் நடவடிக்கை எடுக்கப்படும் என தேர்தல்கள் ஆணைக்குழு அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/0f0df2a6.json)
+
+---
 
 ### 2024-08-19 (Monday)
 
@@ -2359,33 +2375,5 @@ I will bring Arjun Mahendran. The court will answer him. Next you will bring. So
 [Data](articles/067b65a3.json)
 
 [Extended Data](ext_articles/067b65a3.ext.json)
-
----
-
-### I will bring Arjun Mahendran - Anura sure
-
-*2024-08-19 09:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-மகேந்திரனை-அழைத்து-வருவேன்-அநுர-உறுதி/175-342421) · `ta`
-
-Anura Dissanayake, a presidential candidate, announced plans to bring Arjuna Mahendran back to Sri Lanka from Singapore to face charges related to the central bank scandal. This was mentioned during public meetings in Kiribathgoda and Anuradhapura, where discussions also included responses to questions about the involvement of President Ranil Wickremesinghe in the transactions.
-
-🟩
-
-The National People's Power Presidential candidate Anurakumara Dissanayake has said that Arjuna Mahendran, who was issued a red case with the court in connection with the central bank scandal after his appointment as president, will be brought to Sri Lanka.
-
-He was speaking at a public meeting held in Kiribathgoda yesterday (18).
-
-At a public meeting in Anuradhapura, President Ranil Wickremesinghe said, "Answer this," said Anura.
-
-I will give you an answer. Arjuna Mahendra, who fled to Singapore and fled to Singapore, will be brought to Sri Lanka.
-
-A minister in charge of the Central Bank had told the Cobb Committee that Ranil Wickremesinghe had advised the transaction.. Arjuna
-
-I will bring Arjun Mahendran. The court will answer him. Next you will bring. So much. Thought to do this without saying too much. You can't say it. ”. Remble
-
-◼️
-
-[Data](articles/0f70bb3f.json)
-
-[Extended Data](ext_articles/0f70bb3f.ext.json)
 
 ---

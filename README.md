@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 10:55:09**
+As of **2024-08-19 11:07:21**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,442 (100.0%) of 41,450 articles have been extended.
+41,450 (100.0%) of 41,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### எரிபொருள் விலைகள் குறைக்கப்படும்;அநுர
+### Fuel prices will be reduced; Anura
 
 *2024-08-19 10:24:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலைகள்-குறைக்கப்படும்-அநுர/175-342425) · `ta`
 
-எமது அரசாங்கத்தின் கீழ் இலங்கையில் எரிபொருள் விலை குறைக்கப்படும் என தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+Anura Dissanayake, leader of the National People's Power party, announced plans to lower fuel prices in Sri Lanka, attributing it to the partial repayment of a $3 billion loan obtained by the Ceylon Petroleum Corporation from the Bank of Ceylon and People's Bank. The loan was used to stabilize the Treasury, leading to a temporary increase in fuel prices. Dissanayake pledged a comprehensive review to further decrease fuel costs once in power.
 
-இலங்கை பெற்றோலியக் கூட்டுத்தாபனம் இலங்கை வங்கி மற்றும் மக்கள் வங்கியில் 3 பில்லியன் டொலர் கடனைப் பெற்றுள்ளதாகவும், அதனை திறைசேரி பொறுப்பேற்றுள்ளதாகவும் அவர் விளக்கினார். இதன் விளைவாக, இந்த கடனை அடைக்க ஒரு லிட்டர் எரிபொருளுக்கு 50 ரூபாய் வீதம் அமல்படுத்தப்பட்டது.
+🟩
 
-தேர்தல் கூட்டத்தில் உரையாற்றிய திஸாநாயக்க, கடன் கிட்டத்தட்ட முழுமையாக செலுத்தப்பட்டாலும், லிட்டருக்கு 50 ரூபாய் வசூலிப்பது தொடர்ந்து பொதுமக்களுக்கு சுமையாக உள்ளது. NPP அரசாங்கம் ஒரு முழுமையான மறுஆய்வு நடத்தி, அதன்படி எரிபொருள் விலையை குறைக்கும் என்று அவர் உறுதியளித்தார்.
+Fuel prices in Sri Lanka will be reduced under our government, said Anurakumara Dissanayake, president of the National People's Power and Presidential candidate.
+
+He explained that the Ceylon Petroleum Corporation has received a loan of $ 3 billion in the Bank of Ceylon and People's Bank and has taken charge of the Treasury.. As a result, 50 rupees per liter of fuel was implemented to pay off this loan.
+
+Speaking at the election meeting, Dissanayake said the debt was almost fully paid, but the charge of Rs.. He promised that the NPP government would conduct a thorough review and reduce fuel prices.
 
 ◼️
 
 [Data](articles/e4c5df78.json)
+
+[Extended Data](ext_articles/e4c5df78.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ The armies of India and Sri Lanka have deployed canines “K9s” in military pa
 ...
 
 [Data](articles/7f666dd5.json)
+
+[Extended Data](ext_articles/7f666dd5.ext.json)
 
 ---
 
@@ -84,33 +92,45 @@ The Ministry of Education has reportedly informed the resettlement of schools an
 
 ---
 
-### ரிஷாட் பதியுதீன் ஜனாதிபதிக்கு அவசர கடிதம்
+### Emergency letter to Rishad Bathiudeen President
 
 *2024-08-19 10:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிஷாட்-பதியுதீன்-ஜனாதிபதிக்கு-அவசர-கடிதம்/175-342423) · `ta`
 
-வடக்கு, கிழக்கின் அபிவிருத்தித் திட்டங்களுக்கான அரசாங்க நிதி இடைநிறுத்தப்பட்டமை தொடர்பில் அகில இலங்கை மக்கள் காங்கிரஸின் தலைவர் ரிஷாட் பதியுதீன் கேள்வி எழுப்பியுள்ளார்.
+Rishad Bathiudeen, President of All Ceylon People's Congress, criticized President Ranil Wickremesinghe for suspending funds for North and East development projects, accusing him of favoritism towards opposition leader Sajith Premadasa ahead of the presidential election. Despite thanking the President for supporting various development initiatives, Bathiudeen expressed disappointment over the sudden halt of projects without justification. He urged immediate intervention to resume the projects, threatening legal action if necessary.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவளிப்பதாக உறுதியளித்ததைத் தொடர்ந்து இந்த நிதி நிறுத்தம் இடம்பெற்றுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு எம்.பி பதியுதீன் எழுதியுள்ள கடிதத்தில் குற்றம் சுமத்தியுள்ளார்.
+🟩
 
-பிரதேசத்தைச் சேர்ந்த மக்கள், கிராம அபிவிருத்திச் சங்கங்கள், பதிவு செய்யப்பட்ட கழகங்கள், நலன்புரிச் சங்கங்கள் மற்றும் ஏனைய சமூக அடிப்படையிலான அமைப்புக்களின் கோரிக்கைகளை கருத்திற் கொண்டு அபிவிருத்தி நடவடிக்கைகளுக்கு கணிசமான தொகையை ஒதுக்கியமைக்காக எம்.பி பதியுதீன் ஜனாதிபதிக்கு நன்றி தெரிவித்தார்.
+All Ceylon People's Congress President Rishad Bathiudeen has questioned the suspension of government funds for the development projects of the North and East.
 
-எவ்வாறாயினும், அந்த திட்டங்களை உடனடியாக நிறுத்துமாறும், எந்தவொரு நியாயமான காரணமும் இன்றி அந்த ஒதுக்கீட்டை திரும்பப் பெறுமாறும் கடிதங்கள் அனுப்பப்பட்டுள்ளதாக அவர் சுட்டிக்காட்டினார்.
+In a letter to President Ranil Wickremesinghe, MP Badiudeen has accused President Ranil Wickremesinghe of the financial stop following promising to support opposition leader Sajith Premadasa in the upcoming presidential election.
+
+MP Badiudeen thanked the President for allocating a significant amount of development activities, considering the demands of the people, rural development associations, registered corporations, welfare societies and other socially based organizations.
+
+However, he pointed out that letters have been sent to stop the projects immediately and withdraw the quota without any reasonable reason.
 
 ...
 
 [Data](articles/8196adbe.json)
 
+[Extended Data](ext_articles/8196adbe.ext.json)
+
 ---
 
-### ஹரினுக்குப் புதிய பதவி
+### New post for Harin
 
 *2024-08-19 10:00:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரினுக்குப்-புதிய-பதவி/175-342422) · `ta`
 
-சுற்றுலா, காணி, விளையாட்டு மற்றும் இளைஞர் விவகாரம் தொடர்பான ஜனாதிபதியின் விசேட ஆலோசகராக முன்னாள் அமைச்சர் ஹரீன் பெர்னாண்டோ நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் அவருக்குக் கடிதம் மூலம் தெரிவிக்கப்பட்டுள்ளது.
+Harin Fernando, ex-Minister, now serves as the President's Special Advisor for Tourism, Land, Sports, and Youth Affairs, as per a presidential letter to Ranil Wickremesinghe.
+
+🟩
+
+Former Minister Harin Fernando has been appointed as the President's Special Advisor to Tourism, Land, Sports and Youth Affairs, according to a letter to President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/6df924f9.json)
+
+[Extended Data](ext_articles/6df924f9.ext.json)
 
 ---
 
@@ -160,23 +180,31 @@ She also join the US Department of State Department to connect Sri Lankans with 
 
 ---
 
-### அர்ஜூன் மகேந்திரனை அழைத்து வருவேன்:அநுர
+### I will bring Arjun Mahendran: Anura
 
 *2024-08-19 09:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-மகேந்திரனை-அழைத்து-வருவேன்-அநுர/175-342421) · `ta`
 
-தாம் ஜனாதிபதியாக பதவியேற்றதன் பின்னர் மத்திய வங்கி மோசடி தொடர்பில் நீதிமன்றினால் சிவப்பு பிடியாணை பிறப்பிக்கப்பட்ட அர்ஜுன மகேந்திரனை இலங்கைக்கு அழைத்து வருவேன் என தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+National People's Power Presidential candidate Anurakumara Dissanayake announced plans to bring Arjuna Mahendran, implicated in a central bank scandal, back to Sri Lanka from Singapore. This was mentioned during public meetings in Kiribathgoda and Anuradhapura, where discussions also included responses to President Ranil Wickremesinghe's inquiries about the matter.
 
-கிரிபத்கொட பிரதேசத்தில் நேற்று (18) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் இதனை கூறியுள்ளார்.
+🟩
 
-அநுராதபுரத்தில் இடம்பெற்ற மக்கள் சந்திப்பொன்றில் ஜனாதிபதி ரணில் விக்கிரமசிங்க விடுத்துள்ள “அனுர இதற்கு பதில் சொல்லுங்கள்” என தெரிவித்த கருத்துக்கு பதிலளிக்கும் போதே அநுர மேற்கண்டவாறு தெரிவித்தார்.
+The National People's Power Presidential candidate Anurakumara Dissanayake has said that Arjuna Mahendran, who was issued a red case with the court in connection with the central bank scandal after his appointment as president, will be brought to Sri Lanka.
 
-நான் ஒரு பதில் தருகிறேன். மத்திய வங்கி மோசடி தொடர்பில் நீதிமன்றினால் சிவப்பு பிடியாணை பிறப்பிக்கப்பட்டு சிங்கப்பூருக்கு தப்பிச் சென்ற அர்ஜுன மகேந்திரா இலங்கைக்கு அழைத்து வரப்படுவார்.
+He was speaking at a public meeting held in Kiribathgoda yesterday (18).
 
-மத்திய வங்கிக்கு பொறுப்பான அமைச்சர் ஒருவர், ரணில் விக்கிரமசிங்க தான் இந்த கொடுக்கல் வாங்கலுக்கு ஆலோசனை வழங்கியதாக கோப் குழுவிடம் கூறியிருந்தார். இதையடுத்து அர்ஜுன
+At a public meeting in Anuradhapura, President Ranil Wickremesinghe said, "Answer this," said Anura.
 
-...
+I will give you an answer. Arjuna Mahendra, who fled to Singapore and fled to Singapore, will be brought to Sri Lanka.
+
+A minister in charge of the Central Bank had told the Cobb Committee that Ranil Wickremesinghe had advised the transaction.. Arjuna
+
+I will bring Arjun Mahendran. The court will answer him. Next you will bring. So much. Thought to do this without saying too much. You can't say it. ”. Remble
+
+◼️
 
 [Data](articles/067b65a3.json)
+
+[Extended Data](ext_articles/067b65a3.ext.json)
 
 ---
 
@@ -412,25 +440,33 @@ The Department of Meteorology has informed the people to take steps to take nece
 
 ---
 
-### ජනාධිපතිවරණය 2024 : ඡන්ද දායකයෙකු ලෙස ඔබ දැනගත යුතු කරුණු
+### Presidential Election 2024: Things You Need to Know as a Voter
 
 *2024-08-19 03:23:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjw3v6qngleo) · `si`
 
-ශ්‍රී ලංකාවේ ජනාධිපතිවරණයට ආදළ ඡන්ද විමසීම සැප්තැම්බර් 21 වන දාට යෙදී තිබේ.2022 වසරේ රට මුහුණ දුන් බරපතළ ආර්ථික අර්බුදයෙන් පසු පැවැත්වෙන පළමු ජනාධිපතිවරණය මෙය වේ.
+In the face of Sri Lanka's worst economic crisis, leading to bankruptcy and mass protests, citizens prepare to elect a new president amidst 39 contenders. The election system allows voters to choose among three candidates, with a majority needed to win. Key candidates include Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, and Namal Rajapaksa. Despite a tourism boom, the economy struggles under IMF loans and tax hikes. Sri Lanka also improved its media freedom ranking and dropped in the corruption index, reflecting ongoing challenges and progress.
 
-මෙම ආර්ථික අර්බුදය ආහාර, ඉන්ධන සහ අනෙකුත් අත්‍යවශ්‍ය ද්‍රව්‍ය හිඟයකට තුඩු දුන් අතර අවසානයේ ශ්‍රී ලංකාව බංකොලොත් රටක් බවට ප්‍රකාශයට පත් කිරීමට ද හේතු විය.
+🟩
 
-එහිදී, පුළුල් විරෝධතා ඇති වූ අතර, එවකට ජනාධිපති ගෝඨාභය රාජපක්ෂට රටින් පලා ගොස් ධූරයෙන් ඉල්ලා අස්වීමට සිදු විය.
+This is the first presidential election that is the most serious economic crisis that the country faced in the country in Year 1222.
 
-ශ්‍රී ලාංකික පුරවැසියන් ජනාධිපති  මන්දිරය අත්පත් කරගැනීමෙන් ශ්‍රී ලංකාවේ බලවත්ම දේශපාලන රාජ වංශය පෙරළා දැමු හැටි
+This economic crisis has led food, fuel and other essentials, and eventually, it was eventually declared to be announced as a bankrupt country.
 
-ශ්‍රී ලංකාවේ ආණ්ඩුව ක්‍රියාත්මක වන්නේ අර්ධ-ජනාධිපති රාමුවක් තුළ වන අතර එහිදී ජනාධිපතිවරයා විසින් පත් කරන ලද අගමැතිවරයෙකු සහ අගමැතිවරයා විසින් යෝජනා කරන ලද කැබිනට් මණ්ඩලයක් සමග වැඩ කරන අතර ජනාධිපතිවරයා විධායක බලයක් දරයි.
+There, broader protests occurred, and the then President Gotabhaya Rajapakse fled the country and resign from his post.
 
-මෙවර ජනාධිපතිවරණයට අපේක්ෂකයින් 39 දෙනෙක් තරග වදිති. ශ්‍රී ලංකාවේ වෙසෙන මිලියන 22ක් වන ජනතාවගෙන් මිලියන 17කට ආසන්න සංඛ්‍යාවක් ජනපතිවරයෙකු තෝරා ගැනීමට ඡන්දය භාවිත කිරීමට සුදුසුකම් ලබති.
+Sri Lankan Citizens acquired the Presidential Pathship
+
+The Sri Lankan government operates within a half-president framework and is working with a Prime Minister appointed by the President and the President is executive.
+
+39 candidates contesting the presidential election. Nearly 17 million people living in Sri Lanka are eligible to vote for a presidential election.
+
+The candidate winning a percentage of 50% will win the presidential election. The ballot is allowed to nominate three candidates for voters.
 
 ...
 
 [Data](articles/d3e308c0.json)
+
+[Extended Data](ext_articles/d3e308c0.ext.json)
 
 ---
 
@@ -594,17 +630,25 @@ We will announce a decision in unity of our party very quickly.If our people wil
 
 ---
 
-### ’21/4 தாக்குதலின் உண்மை நிலையை வெளிப்படுத்துவோம்’
+### Let's reveal the reality of the attack 221/4
 
 *2024-08-19 00:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதலின்-உண்மை-நிலையை-வெளிப்படுத்துவோம்/175-342413) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பாக மக்களின் எதிர்பார்த்துள்ளது போல உண்மை தன்மையை வெளிக் கொணர்வதற்கு தாம் உள்ளிட்ட ஐக்கிய மக்கள் சக்தியும் ஐக்கிய மக்கள் கூட்டணியின்  அனைவரும் தயாராக  இருக்கிறோம். இதற்கான தெளிவான வேலை திட்டங்கள் என்னிடம் இருக்கின்றன.  இது தொடர்பான விடயங்கள்  பாராளுமன்றத்தில் கூட   சமர்ப்பிக்கப்பட்டுள்ளன என்று  எதிர்க்கட்சித் தலைவரும் ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளருமான சஜித் பிரேமதாஸ தெரிவித்தார்.
+The United People's Alliance, led by opposition leader Sajith Premadasa, plans to expose the truth behind the "lifeblood Sunday attack." Premadasa promises thorough investigations and appropriate actions against those responsible, emphasizing transparency and justice for the Catholic community. He visited the Colombo Bishop seeking blessings for his 2024 presidential campaign, highlighting his commitment to addressing the attack's background and verifying its authenticity.
 
-உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பாக முறையான விசாரணைகள் வெளிப்படைத்தன்மையோடு  இடம் பெற்றதா என்பது குறித்தே இந்த நாட்டில் உள்ள  கத்தோலிக்கர்களுக்கும்  ஒட்டுமொத்த நாட்டு  மக்களும் எதிர்பார்த்திருக்கின்றனர்.  இதன் உண்மைத்தன்மை  வெளிப்படுத்தப்பட்டதா என்பது குறித்தும் சிக்கல் காணப்படுகின்றன. எனவே  இது தொடர்பில் முறையான விசாரணைகளை மேற்கொண்டு, கா்தினல் உள்ளிட்ட கத்தோலிக்க பேரவைக்கு எங்கனமும் தெளிவுபடுத்துவோம் என்று  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+🟩
+
+The United People's Alliance, including the United People's Alliance, is ready to reveal the truth of the people as the people are looking for a lifeblood Sunday attack.. I have clear work for this.Opposition Leader and United People's Alliance's presidential candidate Sajith Premadasa said that these issues have been submitted in Parliament.
+
+The Catholics in this country are looking forward to whether proper inquiries into the life of the Sunday attack have been transparent.There is also a problem with whether its veracity is revealed. Opposition leader Sajith Premadasa said that the Catholic Council, including Ghathinal, will be made clear.
+
+Likewise, the Opposition Leader promised that he would find the backdrop of the lifeblood Sunday attack and its veracity without any difference and would take steps to give them the maximum punishment of all relevant laws.
 
 ...
 
 [Data](articles/2455ffd5.json)
+
+[Extended Data](ext_articles/2455ffd5.ext.json)
 
 ---
 
@@ -1328,17 +1372,25 @@ Anura Kumara Dissanayake added that the tax on patients with school books, inclu
 
 ---
 
-### කෝටි 618ක් වැය කළ බිම් සවිය පොළොවට ම වැළලී යයි
+### 618 million lands would be buried to the earth
 
 *2024-08-18 19:14:55* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-618ක්-වැය-කළ-බිම්-සවිය-පොළොවට-ම-වැළලී-යයි/11-411436) · `si`
 
-ඉඩම් අමාත්‍යංශය යටතේ ඉඩම් හිමිකිරීමේ දෙපාර්තමේන්තුවේ ක්‍රියාත්මක වූ බිම් සවිය වැඩසටහනට රජය විසින් රුපියල් කෝටි 618 කට අධික වියදමක් වැය කර ඇතත්. වසර 20කට අධික කාල සීමාවක්  ගත වී ඇති බවත්  එහි ආරම්භක අරමුණ ඉටු කර ගැනීමට රජය අපොහොසත් වී ඇතැයි 17-8 දින නිකුත් කරන ලද නවතම විගණයකින් අනාවරණය වේ.
+Despite significant investment, the Sri Lankan government's Bim Saviya Program, aimed at settling land titles, has made limited progress. Over 20 years, only 31% of targeted areas have been surveyed, with no surveys conducted in 26 divisions by October 2023. Construction has not begun in several districts, and fewer than 59 million land plots have been registered. This shortfall is highlighted in the 2023 Land Title Settlement Application performance report, indicating a need for enhanced efforts to meet goals set by the Title Settlement Act No. 21 of 1998.
 
-ඉඩම් හිමිකම් නිරවුල් කිරීමේ අදෙපාර්තමේන්තුවේ 2023 වර්ෂයට අදාළ  කාර්ය සාධන වාර්තාවේ මේ බව සඳහන්වේ. 1998 අංක 21 දරණ හිමිකම් නිරවුල් කිරීමේ පනත සම්මත වීමෙන් අනතුරුව  බිම් සවිය වැඩ සටහන දිවයිනේ දිස්ත්‍රික්ක 03 ක ප්‍රාදේශීය ලේකම් කොට්ඨාශ 03 ක ආරම්භ කර ඇත. එහෙත් 2023 දෙසැම්බර් 31 වන දා වන විට දිස්ත්‍රික්ක 20 ක ප්‍රාදේශීය ලේකම් කොට්ඨාශ 87 ක පමණක් ක්‍රියාත්මක වුවද එය ලංකාවම ආවරණය වන පරිදි ක්‍රියාත්මක කළ හැකි කාල පරාසයක් හා සැලැස්මක්  සකස් කර නොතිබූ බව එම විගණන වාර්තාව මගින් අනාවරණය වේ.
+🟩
+
+Although the Government has spent Rs.. The latest audit issued by a monthly audit that the government has failed to fulfill over 20 years.
+
+This is stated in the performance report of the Land Title Settlement Application for 2023. Bim Saviya Program has been opened in three divisional secretariats in the country after the passage of Title Settlement Act No. 21 of 1998.. However, as at 87 districts 2023, only 87 Divisional Secretariat Divisions in 20 districts, the audit report reveals that a period of action will be implemented to cover Sri Lanka.
+
+The total budget spent on the Bim Saviya program is Rs. 618,372 million. In 2002, it has passed nearly 21 years since the commencement of the Homagama and Thambuththegama Divisional Secretariat Divisions.The Government has implemented the Bim Saviya Program in 87 Divisional Secretariat and 4728 Grama Niladhari Divisions.
 
 ...
 
 [Data](articles/488da491.json)
+
+[Extended Data](ext_articles/488da491.ext.json)
 
 ---
 

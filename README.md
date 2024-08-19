@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 03:21:51**
+As of **2024-08-20 03:36:50**
 
 ## Newspaper Stats
 
-*Scraped **41,566** Articles*
+*Scraped **41,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,687
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
-tamilmirrorlk | 5,365
+tamilmirrorlk | 5,366
 virakesarilk | 6,594
 adaderanasinhalalk | 7,091
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,566 (100.0%) of 41,566 articles have been extended.
+41,566 (100.0%) of 41,567 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -179,6 +179,20 @@ Sunil G. Wijesinha will be the resource person for this session, who is a well�
 [Data](articles/900b2843.json)
 
 [Extended Data](ext_articles/900b2843.ext.json)
+
+---
+
+### ’90% வேட்பாளர்கள்  போட்டியிடவில்லை’
+
+*2024-08-20 01:56:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/90-வேட்பாளர்கள்-போட்டியிடவில்லை/175-342481) · `ta`
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களில் 90 சத வீதமானவர்கள் வெற்றிக்காக போட்டியிடாமல் வேறு தனிப்பட்ட இலக்குகள் மற்றும் நம்பிக்கைகளுக்காக போட்டியிடுவதாக தேர்தல் கண்காணிப்பு அமைப்புகள் கூறுகின்றன.
+
+தூதுவர் பதவிகள் உள்ளிட்ட இராஜதந்திரப் பதவிகளைப் பெறுதல், வெளிநாட்டுப் பயணங்களின் போது அதிக அங்கீகாரம் பெறுதல், ஆளுநர் பதவி, மாநகராட்சித் தலைவர் பதவிகள் உள்ளிட்ட பல்வேறு பதவிகளைப் பெறுதல், அடுத்த பொதுத் தேர்தலில் போட்டியிட பொதுத் தளத்தைத் தயார் செய்தல், அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகளில் நுட்பமாக நுழைந்து பதவிகளைப் பெறுதல், ஊடகங்களில் பிரிந்து செல்வது. நேரிடையாகவோ அல்லது மறைமுகமாகவோ முக்கிய வேட்பாளர்களை ஆதரிப்பது மற்றும் ஊடகங்கள் மூலம் விளம்பரம் பெறுதல் போன்றவை. இந்த வேட்பாளர்கள் ஜனாதிபதி தேர்தலில் போட்டியிடும் நோக்கங்களில் ஒன்றாக இருப்பதாக கண்காணிப்பு அமைப்பின் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/af10ae94.json)
 
 ---
 
@@ -2279,29 +2293,5 @@ Wild elephant died on the spot in the shooting. Police officers have been arrest
 [Data](articles/390a208e.json)
 
 [Extended Data](ext_articles/390a208e.ext.json)
-
----
-
-### Published by three police officers
-
-*2024-08-19 11:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-பொலிஸ்-உத்தியோகத்தர்கள்-இடைநிறுத்தம்/175-342431) · `ta`
-
-Three police officers, including a surgeon and two constables, have been suspended after fatally shooting a wild elephant in Sri Lanka's Pakamuna area last week. The incident, which occurred on August 15, led to the elephant's immediate death. Regional wildlife officials have since arrested the officers for their involvement in the elephant's death.
-
-🟩
-
-Three police officers in connection with the death of a wild elephant in the Pakamuna area have been suspended.
-
-A police surgeon and two constables have been suspended, according to the office of the Senior Police Officers of the Polonnaruwa.
-
-Last week (August 15), police officers who were on patrol were fired at a wild elephant.
-
-Wild elephant died on the spot in the shooting. Police officers have been arrested by regional wildlife officials in connection with the death of the elephant.
-
-◼️
-
-[Data](articles/e5114acd.json)
-
-[Extended Data](ext_articles/e5114acd.ext.json)
 
 ---

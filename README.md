@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 12:10:50**
+As of **2024-08-19 12:21:44**
 
 ## Newspaper Stats
 
@@ -26,49 +26,61 @@ adaderanasinhalalk | 7,074
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,456 (100.0%) of 41,460 articles have been extended.
+41,460 (100.0%) of 41,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### மூன்று பொலிஸ் உத்தியோகத்தர்கள் இடைநிறுத்தம்
+### Published by three police officers
 
 *2024-08-19 11:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-பொலிஸ்-உத்தியோகத்தர்கள்-இடைநிறுத்தம்/175-342431) · `ta`
 
-பக்கமூன பிரதேசத்தில் காட்டு யானை உயிரிழந்த சம்பவத்துடன் தொடர்புடைய மூன்று பொலிஸ் உத்தியோகத்தர்கள் சேவையில் இருந்து இடைநிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Three police officers, including a surgeon and two constables, have been suspended after fatally shooting a wild elephant in Sri Lanka's Pakamuna area last week. The incident, which occurred on August 15, led to the elephant's immediate death. Regional wildlife officials have since arrested the officers for their involvement in the elephant's death.
 
-ஒரு பொலிஸ் சர்ஜென்ட் மற்றும் இரண்டு கான்ஸ்டபிள்கள் ஆகியோரே இவ்வாறு இடைநிறுத்தம் செய்யப்பட்டுள்ளதாக பொலன்னறுவை சிரேஷ்ட பொலிஸ் அதிகாரிகள் அலுவலகம் தெரிவித்துள்ளது.
+🟩
 
-கடந்த வாரம் (ஓகஸ்ட் 15) இரவு ரோந்துப் பணியில் ஈடுபட்டிருந்த பொலிஸ் அதிகாரிகள் குறித்த காட்டு யானை மீது துப்பாக்கிச் சூடு நடத்தினர்.
+Three police officers in connection with the death of a wild elephant in the Pakamuna area have been suspended.
 
-துப்பாக்கிச் சூட்டில் காட்டு யானை சம்பவ இடத்திலேயே உயிரிழந்தது. யானையின் மரணம் தொடர்பில் குறித்த பொலிஸ் உத்தியோகத்தர்கள் பிரதேச வனவிலங்கு அதிகாரிகளால் கைது செய்யப்பட்டனர்.
+A police surgeon and two constables have been suspended, according to the office of the Senior Police Officers of the Polonnaruwa.
+
+Last week (August 15), police officers who were on patrol were fired at a wild elephant.
+
+Wild elephant died on the spot in the shooting. Police officers have been arrested by regional wildlife officials in connection with the death of the elephant.
 
 ◼️
 
 [Data](articles/e5114acd.json)
 
+[Extended Data](ext_articles/e5114acd.ext.json)
+
 ---
 
-### දෙමහල් නිවසක පවත්වාගෙන ගිය කංසා වගාවක් වටලයි
+### A port cultivation raided at a two storied house
 
 *2024-08-19 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200092) · `si`
 
-මාලඹේ පිට්ටුගල කහන්තොට පාර ප්‍රදේශයේ දෙමහල් නිවසක පවත්වාගෙන ගිය ගංජා වගාවක් බස්නාහිර පළාත දකුණ දිසාව භාර අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් ඊයේ (18) දහවල් වටලා තිබේ.
+In the Western Province, police raided a two-story house where 174 large cannabis plants were grown, valued at around ten billion rupees. The property, previously used for tea packaging, was rented out. A 25-year-old suspect was arrested during the raid and will be presented to the Kaduwela Magistrate's Court.
 
-අදාළ නිවසේ පහත මහලේ කාමරයක් වායු සමනය කර ගංජා පැළ 174කට ආසන්න ප්‍රමාණයක් වගා කර තිබූ බවත් පොලීසිය පවසයි.
+🟩
 
-වැටලීම සිදුකරන අවස්ථාවේ දී සැකකරුවෙකු කුෂ් මත්ද්‍රව්‍ය පාර්සල් කරමින් සිට ඇති බවත් වාර්තා වෙයි.
+The Western Province of the Western Province has raided the Western District Code of Criminal Division in the UPFA, Western Province.
 
-සොයා ගත් කුෂ් මත්ද්‍රව්‍ය තොගයේ වටිනාකම රුපියල් කෝටි දහයක් පමණ වන බවද පොලීසිය පවසයි.
+Police say that nearly 174 massive cannabis plants were cultivated a room in the house.
 
-තේ ඇසුරුම් කිරීමේ ආයතනයක් ලෙසින් පවත්වාගෙන ගොස් ඇති අදාළ නිවස කුලී පදනම මත ලබාගෙන ඇති බවද වාර්තා වී තිබේ.
+It is reported that a suspect has been raided at the time of the raid.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 25 සහ 48 යන වයස්වල පසුවන්නන් වන අතර ඔවුන් කඩුවෙල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.
+The cost of the croad is about ten billion rupees.
+
+It has been reported that the house which had been maintained as a tea packaging institution had been obtained on rent basis.
+
+The suspects are 25 years old and is to be produced before the Kaduwela Magistrate's Court.
 
 ◼️
 
 [Data](articles/2c94ea03.json)
+
+[Extended Data](ext_articles/2c94ea03.ext.json)
 
 ---
 
@@ -89,6 +101,8 @@ The Prime Minister further commented: “The overwhelming majority of SLPP MPs w
 ...
 
 [Data](articles/3a767072.json)
+
+[Extended Data](ext_articles/3a767072.ext.json)
 
 ---
 
@@ -519,6 +533,8 @@ In June the central bank had to sell 52 million US dollars on a net basis, amid 
 ...
 
 [Data](articles/5d3b2d93.json)
+
+[Extended Data](ext_articles/5d3b2d93.ext.json)
 
 ---
 

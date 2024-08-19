@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 10:21:11**
+As of **2024-08-19 10:36:34**
 
 ## Newspaper Stats
 
-*Scraped **41,441** Articles*
+*Scraped **41,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 4,845
 tamilmirrorlk | 5,338
 virakesarilk | 6,569
-adaderanasinhalalk | 7,071
+adaderanasinhalalk | 7,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,441 (100.0%) of 41,441 articles have been extended.
+41,441 (100.0%) of 41,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### බංග්ලාදේශයේ පාසල් සහ විශ්වවිද්‍යාල විවෘත කිරීමට තීරණයක්
+
+*2024-08-19 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200090) · `si`
+
+බංග්ලාදේශයේ වසා දැමුණු පාසල් සහ විශ්වවිද්‍යාල නැවත විවෘත කිරීමට තීරණය කර තිබේ.
+
+රැකියා කෝටා ක්‍රමය ප්‍රතිසංස්කරණය කරන ලෙස ඉල්ලා පැවැති උද්ඝෝෂණ සහ ගැටුම් හේතුවෙන් පාසල් සහ විශ්වවිද්‍යාල පසුගිය මස 17 වැනිදා සිට වසා දැමීමට එරට බලධාරීන් පියවර ගෙන තිබුණි.
+
+මසකට අධික කාලයකින් පසුව බංග්ලාදේශයේ පාසල් හා විශ්වවිද්‍යාල නැවත විවෘත කරන ලෙස එරට අධ්‍යාපන අමාත්‍යංශය දැනුම් දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/db1d3784.json)
+
+---
 
 ### Blinken arrives in Middle East seeking Gaza ceasefire
 
@@ -2285,37 +2301,5 @@ Gunawardena is the first person from Mangala Samaraweera’s family to enter int
 [Data](articles/56b2e659.json)
 
 [Extended Data](ext_articles/56b2e659.ext.json)
-
----
-
-### One million Indian doctors on strike
-
-*2024-08-18 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200062) · `si`
-
-In response to the murder of a doctor in Kolkata, one million Indian doctors went on strike, disrupting healthcare services nationwide. The victim, a 31-year-old, was found dead, allegedly due to abuse, sparking outrage and protests across the country. Thirteen individuals, including women, were arrested in connection with the case. This incident highlights the ongoing issues of violence against medical professionals and women in India.
-
-🟩
-
-Indian doctors have implemented a national strike on a incident of contamination and killing a Indian doctor during his duties.
-
-The naked body of a murdered doctor was found at a colkata's seminar in Kolkata, a murdered.
-
-The wounded fascals indicated that was abused throughout her body, and raised the suspicion that it was a group corruption.
-
-When a 31-year-old doctor was duties, India was murdered by the beginning of the last week, from the beginning of the week and the entire health industry in protest.
-
-The murdered doctor had been in a long-standing workplace and exceeded work guards and hospitals in hospitals.
-
-It turned out more of the daily duties and left the daily duties and left the daily duties.
-
-As a result, the country is being treated for emergency patients in hospitals and clinics.
-
-Thirteen persons, including women, have been arrested, including a group of women.
-
-...
-
-[Data](articles/554390dc.json)
-
-[Extended Data](ext_articles/554390dc.ext.json)
 
 ---

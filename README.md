@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 21:07:02**
+As of **2024-08-19 21:21:23**
 
 ## Newspaper Stats
 
-*Scraped **41,532** Articles*
+*Scraped **41,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,863
 tamilmirrorlk | 5,354
-virakesarilk | 6,591
+virakesarilk | 6,593
 adaderanasinhalalk | 7,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,532 (100.0%) of 41,532 articles have been extended.
+41,532 (100.0%) of 41,534 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,18 @@ A Gazette notification will be issued tonight stipulating Rs. 109.00 as the maxi
 [Data](articles/7e120bc9.json)
 
 [Extended Data](ext_articles/7e120bc9.ext.json)
+
+---
+
+### சஜித்தின் பஸ்ஸும்  ரணிலின் பஸ்ஸும்
+
+*2024-08-19 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191457) · `ta`
+
+“வாழ்க்கை என்பதுஅந்தந்த  நேரத்து நியாயங்கள்”என்று  எழுத்தாளர் ஜெயகாந்தன் சொன்னார். இது யாருக்குப் பொருந்தாவிட்டாலும் அரசியல் வாதிகளுக்கு மிகப் பொருந்தும். அரசியலில் தாம் எடுக்கின்ற முடிவுகளுக்கு அந்த நேரத்தில் ஏதாவது நியாயங்கள் மட்டும் இருந்தால் போதுமானது. அதைவிடுத்து,எந்தமுடிவும் இன்னுமொருநேரத்தில் மாற்றப்படலாம் என்பது நினைவிருக்கட்டும்.
+
+◼️
+
+[Data](articles/9e292c61.json)
 
 ---
 
@@ -341,6 +353,22 @@ From children to adults, everyone has been lovingly urged to give the support of
 [Data](articles/a8cc7c8b.json)
 
 [Extended Data](ext_articles/a8cc7c8b.ext.json)
+
+---
+
+### சிவில் பாதுகாப்பு படையணிக்கு அரசாங்கத்திடமிருந்து விசேட நிவாரணம்
+
+*2024-08-19 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191463) · `ta`
+
+பாதுகாப்பு அமைச்சின் கீழ் செயற்படும் சிவில் பாதுகாப்புப் படையணியானது கடந்த முப்பது வருடகால கொடூர யுத்தத்தை முடிவுக்குக் கொண்டு வருவதற்கு தனித்துவமான பங்களிப்பை வழங்கியது. அத்தோடு நாட்டில் அமுல்படுத்தப்பட்டு வரும் அபிவிருத்தித் திட்டங்களுக்கும் சமூகத்தின் நல்வாழ்விற்கும் மிக முக்கியமான பணியை ஆற்றி வருகின்றது.
+
+இதனைக் கருத்திற்கொண்டு, வீடற்ற உறுப்பினர்களுக்கு வீடு கட்டித் தருவதற்கும், ஏற்கனவே உள்ள வீடுகளை சீரமைப்பதற்கும், இந்த படையின் மூலம் தேவையான தொழிலாளர் பங்களிப்பை வழங்க அரசாங்கம் முடிவு செய்துள்ளதாக பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது. அதற்கமைய சிவில் பாதுகாப்பு படையணியின் 100 உறுப்பினர்களுக்கு இந்நிவாரணம் வழங்கப்படும் என பாதுகாப்பு இராஜாங்க அமைச்சர் அறிவித்துள்ளார்.
+
+மேலும், பல ஆண்டுகளாக இந்த படையணியினர் விடுத்த கோரிக்கையை ஏற்று அவர்களுக்கான உதவித் தொகையை 500 ரூபாவாக அதிகரிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது. இதன் மூலம் அவர்களின் வாழ்க்கை நிலைமையை ஸ்திரப்படுத்த முடியும் எனவும் இராஜாங்க அமைச்சர் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/1e8a6a6e.json)
 
 ---
 
@@ -2359,59 +2387,5 @@ The wind speed in the seas beyond Kankesanthurai, Mannar, Colombo, Galle and Ham
 [Data](articles/ee2a77da.json)
 
 [Extended Data](ext_articles/ee2a77da.ext.json)
-
----
-
-### 207 HIVs in the first quarter alone;13 people die
-
-*2024-08-19 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/191395) · `ta`
-
-In the first quarter, 207 HIV cases were reported in Sri Lanka, with 13 fatalities. This represents a significant increase from previous years, with annual new infections nearing 700. The majority of cases involve males aged 15 to 24, highlighting a concerning trend. The overall HIV infection rate has surged by 300% this year, emphasizing the urgent need for intervention, especially in areas with higher infection rates like the Western Province.
-
-🟩
-
-In the first quarter of the country alone, 207 HIV infections were identified and 13 died. The Ministry of Health has stated that 700 people are identified as new infections annually.
-
-The number of HIV infections has risen to 300 percent this year compared to last year. The Ministry of Health has advised that 207 HIV infections have been identified in the first quarter of this year.
-
-Of the 207 infections identified in the first quarter, 23 men aged 15 to 24 include 23 men and 05 females.. Thirteen people have died and 5912 HIV in Sri Lanka so far in Sri Lanka. Are infected.
-
-In 2018, the rate of HIV infected in Sri Lanka was 0.03 per cent of the total population.. This means that the rate of infections has risen by 300 percent.
-
-This cannot be ignored.About 700 people are identified as new infections annually.HI among those who engage in sex businesses. V is able to observe that the spread of infection has increased. He said the number of HIV infections in the Western Province is high.
-
-◼️
-
-[Data](articles/5e15f404.json)
-
-[Extended Data](ext_articles/5e15f404.ext.json)
-
----
-
-### I joined his brother
-
-*2024-08-19 01:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்பியிடம்-மனம்-நொந்து-அண்ணனிடம்-இணைந்தேன்/175-342417) · `ta`
-
-Raman Gopal, a former leader of the Pradeshiya Sabha, has joined the National Association of Akkaraipattana, ending a 20-year relationship with the Ceylon Workers Congress. This move, along with former minister Palani Thikambaram, marks a significant shift. The association also hosted the Ponnadi Portugal meeting, highlighting its activities. Gopal noted his family's long-standing loyalty to the CWC and his leadership in the Pradeshiya Sabha, which faced dissolution. Despite this, he secured the highest vote in the Pradeshiya Sabha elections and advocates for change across the hill country.
-
-🟩
-
-Former Pradeshiya Sabha leader Raman Gopal joined the National Association of Akkaraipattana, who has broken the 20 -year friendship of the Ceylon Workers Congress.
-
-It is noteworthy that Raman Gopal, the leader of the National Union, and former minister Palani Thikambaram, officially submitted a letter of affiliation with the party.
-
-It is noteworthy that the Ponnadi Portugal was honored with the Ponnadi Portuguese meeting at the National Association at the National Association of Workers on Sunday (18) in Hatton.
-
-Raman Gopal said that my father was a long -time loyalist of the CWC as well as the leader of the three -month Pradeshiya Sabha.
-
-With the dissolution of the Akkaraipattanam Pradeshiya Sabha, the council was postponed to the development of the Congress in the history of not writing in the history of the Congress.
-
-At the same time, I got the most votes in the Akkaraipattana Pradeshiya Sabha elections.
-
-...
-
-[Data](articles/1fb98df1.json)
-
-[Extended Data](ext_articles/1fb98df1.ext.json)
 
 ---

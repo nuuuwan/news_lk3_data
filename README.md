@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 22:21:20**
+As of **2024-08-19 22:36:36**
 
 ## Newspaper Stats
 
-*Scraped **41,543** Articles*
+*Scraped **41,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,507
 dailyftlk | 2,676
 adalk | 3,824
 dailymirrorlk | 4,733
-adaderanalk | 4,864
+adaderanalk | 4,865
 tamilmirrorlk | 5,359
 virakesarilk | 6,593
 adaderanasinhalalk | 7,091
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,541 (100.0%) of 41,543 articles have been extended.
+41,543 (100.0%) of 41,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### Weather advisory issued for heavy rains
+
+*2024-08-19 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101360/weather-advisory-issued-for-heavy-rains) · `en`
+
+The Meteorology Department has issued an advisory for heavy rainfall, valid for the next 24 hours, for the Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+It states that the prevailing showery condition are expected to continue in the southwestern part of the island due to the low-level atmospheric disturbance in the vicinity of Sri Lanka.
+
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, the advisory warned.
+
+The general public is therefore kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/3751341f.json)
+
+---
 
 ### Boat drowned in Sicily Sea - Magic many, including Sri Lankans
 
@@ -439,6 +457,8 @@ A bizarre incentive given for SDB Projects is to make salaries of top executives
 ...
 
 [Data](articles/ee75eb2b.json)
+
+[Extended Data](ext_articles/ee75eb2b.ext.json)
 
 ---
 
@@ -1768,6 +1788,8 @@ The Services PMI recorded 71.1 in July after a 63.5 points in June.
 
 [Data](articles/09754f56.json)
 
+[Extended Data](ext_articles/09754f56.ext.json)
+
 ---
 
 ### Navy's Flood Relief Committee sent to Paragoda
@@ -2367,27 +2389,5 @@ The baggamp was reportedly in the morning and reported that it was depth of abou
 [Data](articles/624f0073.json)
 
 [Extended Data](ext_articles/624f0073.ext.json)
-
----
-
-### Small flooring conditions around the small river
-
-*2024-08-19 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200086) · `si`
-
-Heavy rains have caused flooding in the Kalu Ganga and other rivers, including the Black River and Attanagalu Oya. The Irrigation Department warns drivers to be cautious due to potential hazards from rising waters.
-
-🟩
-
-The Hydrology and Disaster Management Department of the Irrigation Department (Irrigation) Department of Irrigation Department says that there is small flora in the Kalu Ganga, the Kalu River, in the Kalu River.
-
-Therefore, the Irrigation Engineer (Ms. Sakurama Dilthara) said that drivers using routes should focus on it.
-
-"With heavy rainfall in the last 2-3 days, the floods in the Basin and the Attanagalu basin at risk. But even if there is no significant rainfall, the floods still last rising rainfall and the small river of the Black River, and Attanagalu Oya.  මෙම තත්ත්වය හේතුවෙන් කුකුළේ ගඟ ජලවිදුලි බලාගාරයෙන් නිකුත් වෙන ජල ධාරිතාව තත්ත්පරයට ඝන මීටර් 25 දක්වා අඩු වෙලා තියෙනවා. But the basin of the small river is still flooded in water. Therefore, drivers to use routes in the lowland should be careful about it. "
-
-◼️
-
-[Data](articles/de4e70cd.json)
-
-[Extended Data](ext_articles/de4e70cd.ext.json)
 
 ---

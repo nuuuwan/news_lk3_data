@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 02:21:27**
+As of **2024-08-20 02:36:37**
 
 ## Newspaper Stats
 
-*Scraped **41,555** Articles*
+*Scraped **41,562** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 383
-colombotelegraphcom | 398
+colombotelegraphcom | 399
 islandlk | 2,402
 economynextcom | 2,507
-dailyftlk | 2,679
+dailyftlk | 2,684
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
-tamilmirrorlk | 5,363
+tamilmirrorlk | 5,364
 virakesarilk | 6,594
 adaderanasinhalalk | 7,091
 
@@ -26,11 +26,103 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,555 (100.0%) of 41,555 articles have been extended.
+41,555 (100.0%) of 41,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### Ceylon Chamber to host political debate on economic visions on 29 August
+
+*2024-08-20 02:15:15* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-to-host-political-debate-on-economic-visions-on-29-August/34-765741) · `en`
+
+The Ceylon Chamber of Commerce yesterday announced that at its invitation, the four main Presidential candidates have nominated their leading economic policy experts to participate in a debate presenting each party’s economic policies and pledges ahead of the 2024 Presidential election, on 29 August at the BMICH.
+
+Shehan Semasighe representing the President Ranil Wickremesinghe, Dr. Harsha de Silva representing Sajith Premadasa, Dr. Harshana Suriyapperuma representing Anura Kumara Dissanayake and Prof. Ranjith Bandara representing Namal Rajapaksa will participate in ‘Defining the Vision – The Debate’ hosted by The Ceylon Chamber.
+
+...
+
+[Data](articles/d6bf45cc.json)
+
+---
+
+### MMBL-Pathfinder Group JV’s forex earnings to top $ 425 m
+
+*2024-08-20 02:12:34* · [`dailyftlk`](https://www.ft.lk/business/MMBL-Pathfinder-Group-JV-s-forex-earnings-to-top-425-m/34-765740) · `en`
+
+The MMBL-Pathfinder Group joint-venture portfolio of investments are expected to yield nearly $ 425 million in foreign exchange to Sri Lanka in 2024, a significant increase from the $ 250 million it earned in 2023.
+
+In a statement the MMBL-Pathfinder Group said its joint-venture investment portfolio consists of partnerships and strategic alliances with a wide network of globally reputed companies. These operate in niche markets dealing in financial and remittance services, export logistics, petroleum support services, pioneering ventures in tourism and leisure, and technology and innovation-related activities.
+
+...
+
+[Data](articles/efe82ddd.json)
+
+---
+
+### NCCSL, NEDA announces Entrepreneur Awards 2024 – Western Province
+
+*2024-08-20 02:11:26* · [`dailyftlk`](https://www.ft.lk/business/NCCSL-NEDA-announces-Entrepreneur-Awards-2024-Western-Province/34-765739) · `en`
+
+The National Chamber of Commerce of Sri Lanka (NCCSL), in partnership with the National Enterprise Development Authority (NEDA), has announced the launch of the Western Province Entrepreneur Awards 2024.
+
+Now in its seventh consecutive year, this prestigious event celebrates outstanding achievements in the Micro, Small, Medium, and Large Sectors, with a special focus on business excellence within the region.
+
+The National Chamber of Commerce of Sri Lanka and NEDA have been assisting the Micro, Small, Medium and Large sectors in the regions for a long time, and this offers special focus towards the upliftment of these sectors in the Western Province to develop their businesses and conduct training programs for them, including entrepreneurs with special abilities.
+
+...
+
+[Data](articles/c36afa90.json)
+
+---
+
+### Creative Catalyst Fellowship completes intensive residency program
+
+*2024-08-20 02:10:52* · [`dailyftlk`](https://www.ft.lk/business/Creative-Catalyst-Fellowship-completes-intensive-residency-program/34-765738) · `en`
+
+A group picture of all Creative Catalyst Fellowship Cohorts and Good Life X Team
+
+A retrospective session for Cohorts conducted by GoodLifeX Founder Randhula De Silva
+
+Good Life X recently concluded the intensive residency program of the Creative Catalyst Fellowship (CCF), funded through the United States Agency for International Development – supported Promoting Positive Information (PRO-INFO) project, by bringing together ten creatives from across Sri Lanka to collaborate, experiment, and develop creative content under the theme “Climate Positive.” This two-week intensive residency took place at Diyabubula, the Barberyn Art & Jungle Hideaway, the artistic abode of the late Laki Senanayake. The residency at Diyabubula, curated by Randhula de Silva, Founder of GLX, brought together experts from various fields, including science, innovation, art, design thinking, ecology, conservation and regeneration.
+
+...
+
+[Data](articles/ee66bc55.json)
+
+---
+
+### Workshop on “21 powerful Japanese methods to create organisation excellence”
+
+*2024-08-20 02:07:46* · [`dailyftlk`](https://www.ft.lk/business/Workshop-on-21-powerful-Japanese-methods-to-create-organisation-excellence/34-765737) · `en`
+
+The National Chamber of Commerce of Sri Lanka (NCCSL) has scheduled an insightful workshop titled “21 powerful Japanese methods to create organisation excellence” on Thursday 22 August from 9 a.m. to 12:30 p.m. at the National Chamber Auditorium.
+
+Sunil G. Wijesinha will be the resource person for this session, who is a well–known promoter of Japanese Techniques and Productivity. He is recognised as the pioneer who implemented many Japanese Techniques in Sri Lanka from as far back as 1980. He has followed many training programs in Japan. He is a past President of Japan Sri Lanka Technical & Cultural Association (JASTECA) and a past Chairman of JASTECA Trust. He received the APO Regional Award for promoting productivity in the Asia Pacific region. Last year the Government of Japan conferred on him the “Order of the Rising Sun, Gold and Silver Rays” for promoting relations between Japan and Sri Lanka by promoting Japanese management techniques in Sri Lanka.
+
+...
+
+[Data](articles/900b2843.json)
+
+---
+
+### சிலிண்டர் சின்னத்துக்கு சிக்கல் இல்லை
+
+*2024-08-20 01:43:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்-சின்னத்துக்கு-சிக்கல்-இல்லை/175-342479) · `ta`
+
+ஜனாதிபதித் தேர்தலில் சுயேச்சை வேட்பாளராகப் போட்டியிடும்  ரணில் விக்கிர மசிங்கவுக்கு வழங்கப்பட்ட எரிவாயு சிலிண்டர் தொடர்பான ஆட்சேபனைகளை தேர்தல்கள் ஆணைக்குழு நிராகரிக்க தீர்மானித்துள்ளது.
+
+கடந்த உள்ளூராட்சி சபைத் தேர்தலில் எரிவாயு சிலிண்டர் சின்னம் தமது அணிக்கு வழங்கப்பட்டதாக அரசியல் கட்சியொன்று முன்வைத்துள்ள குற்றச்சாட்டுகளுக்கு தேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீத ரத்நாயக்க பதிலளித்துள்ளார்.
+
+உள்ளூராட்சி தேர்தலின் போது காஸ் சிலிண்டர் சின்னத்தை கேட்டு பலர் கோரிக்கை வைத்திருந்தனர். ஒதுக்கப்பட்ட சின்னங்கள் அரசியல் கட்சிகளுக்கு மட்டுமேயாகும். மற்றவை யார் வேண்டுமானாலும் பயன்படுத்தலாம்.
+
+எனவே, பொய்யான விஷயங்களுக்கு வாய்ப்பளிக்கக் கூடாது. இவற்றுக்குப் பதில் சொல்வதும் பொய்யானது, ஊடகங்களில் விளம்பரம் பெறுவதற்காக இப்படிச் செய்கிறார்கள் என்றார்.
+
+◼️
+
+[Data](articles/6396d7b6.json)
+
+---
 
 ### 27 inches long
 
@@ -411,6 +503,20 @@ Ahead of the upcoming presidential election, the Election Commission had met wit
 [Data](articles/7e120bc9.json)
 
 [Extended Data](ext_articles/7e120bc9.ext.json)
+
+---
+
+### Presidential Hopefuls Should Give Top Priority To Make Sri Lanka A Creative Economy – Part II
+
+*2024-08-19 20:14:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-hopefuls-should-give-top-priority-to-make-sri-lanka-a-creative-economy-part-ii/) · `en`
+
+Summary so far: There are 39 Presidential hopefuls seeking the mandate from voters to rule Sri Lanka for the next five years. Since Sri Lanka is a country that had been embroiled in an unparalleled economic crisis and still struggling to recover, it is necessary to adopt a suitable policy strategy to push the economy through a high growth path to facilitate it to deliver prosperity and wellbeing to people. This requires the policymakers to give the highest priority to build an innovative or a creative economy.
+
+In this context, the development of human knowledge will generate inventions, but those inventions should be commercially produced by entrepreneurs through a process, identified by the Austrian American economist Joseph Schumpeter as innovation. Then, to lead those innovations to continued economic advancement, as also identified by Schumpeter, the knowledge should be diffused or made known to others, and they should imitate the early innovators.
+
+...
+
+[Data](articles/15f2b87f.json)
 
 ---
 
@@ -2197,149 +2303,5 @@ Traffic on the Bulathsinhala Mulchwa main road has been completely stopped and t
 [Data](articles/9450a732.json)
 
 [Extended Data](ext_articles/9450a732.ext.json)
-
----
-
-### MPs who left the party can come back any time - Namal
-
-*2024-08-19 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101341/mps-who-left-the-party-can-come-back-any-time-namal) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) presidential candidate Namal Rajapaksa says that he will revive efforts to crown Hambanthota as a hub of aviation and naval affairs in South Asia.
-
-He made these remarks during his visit to the Tissamaharama Raja Maha Viharaya to invoke blessings on Sunday (18). He was accompanied by several other lawmakers including Chamal Rajapaksa and State Minister of Power and Energy, D.V. Chanaka.
-
-“We implemented measures to turn Hambanthota into an aviation and naval hub.  Unfortunately, the good governance government put an end to those measures.  After the 22nd of September, we expect to turn hambanthota into South Asia’s hub of aviation and naval affairs once again, creating close to a million direct and indirect employment opportunities”, Rajapaksa claimed.
-
-...
-
-[Data](articles/762c49f5.json)
-
-[Extended Data](ext_articles/762c49f5.ext.json)
-
----
-
-### World Photo Day
-
-*2024-08-19 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191414) · `ta`
-
-World Photo Day, celebrated on August 19, honors the power of photography to convey more than words can. Originating in the 19th century with pioneers like Louis Daguerre and Louis Jacques Mandé Daguerre, who captured the first photos, photography evolved to become a vital tool in journalism, advertising, and art. It uses light, both natural and artificial, to evoke emotions, particularly during the "Golden Hour," the optimal time for capturing stunning images. Today, photography continues to influence various mediums, including cinema and television, showcasing its universal appeal and impact.
-
-🟩
-
-The photo is talking about a thousand words that cannot be said in a moment. A great photography should be an impact on the viewer's minds.
-
-World Photo Day is celebrated on August 19. This is the day that celebrates the importance of the photo and the contribution of the photographers.
-
-The 19th century's pride or achievement was designed by Louis Daguere, "Dakuri Jodhup".. Later in 1839, Louis Taxure took a photo of the Bolwark Temple in Paris. This is considered the first photo taken by the individual.
-
-...
-
-[Data](articles/fb00a182.json)
-
-[Extended Data](ext_articles/fb00a182.ext.json)
-
----
-
-### EC warns against using national flag, religious symbols in election campaigns
-
-*2024-08-19 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101340/ec-warns-against-using-national-flag-religious-symbols-in-election-campaigns) · `en`
-
-The Election Commission of Sri Lanka has informed political parties and presidential candidates to refrain from using the national flag or any religious symbols for propaganda during election campaigns.
-
-According to the commission, strict actions would be taken against any parties or individuals that utilize the national flag for propaganda during the presidential campaigns.
-
-The circular issued concerning the preparation of the election offices also instructs in this regard.
-
-The Election Commission further says that the use of any religious symbols for election propaganda is also strictly prohibited.
-
-◼️
-
-[Data](articles/22331ff5.json)
-
-[Extended Data](ext_articles/22331ff5.ext.json)
-
----
-
-### Yall. The man who was holding the sea at a depth of 100 feet in the sea
-
-*2024-08-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191410) · `ta`
-
-A diver died unexpectedly near Vadamarachchi East after surfacing from a depth of about 100 feet in the Jaffna Sea, experiencing chest pain. He was initially treated at Point Pedro Hospital before being transferred to Jaffna Bodhana Hospital.
-
-🟩
-
-A man who was holding a sea of ​​seaweed at a depth of about 100 feet in the Jaffna Sea died suddenly.
-
-Vadamarachchi East, using a cylinder in Nagercoil in Nagercoil, has come to the upper part of the sea, claiming to be a chest pain, while holding the sea at a depth of about 100 feet.
-
-He was later taken to the Point Pedro Hospital, where he was taken to the Jaffna Bodhana Hospital.
-
-◼️
-
-[Data](articles/8ada838a.json)
-
-[Extended Data](ext_articles/8ada838a.ext.json)
-
----
-
-### Fuel prices will be reduced; Anura
-
-*2024-08-19 10:24:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலைகள்-குறைக்கப்படும்-அநுர/175-342425) · `ta`
-
-Anura Dissanayake, leader of the National People's Power party, announced plans to lower fuel prices in Sri Lanka, attributing it to the partial repayment of a $3 billion loan obtained by the Ceylon Petroleum Corporation from the Bank of Ceylon and People's Bank. The loan was used to stabilize the Treasury, leading to a temporary increase in fuel prices. Dissanayake pledged a comprehensive review to further decrease fuel costs once in power.
-
-🟩
-
-Fuel prices in Sri Lanka will be reduced under our government, said Anurakumara Dissanayake, president of the National People's Power and Presidential candidate.
-
-He explained that the Ceylon Petroleum Corporation has received a loan of $ 3 billion in the Bank of Ceylon and People's Bank and has taken charge of the Treasury.. As a result, 50 rupees per liter of fuel was implemented to pay off this loan.
-
-Speaking at the election meeting, Dissanayake said the debt was almost fully paid, but the charge of Rs.. He promised that the NPP government would conduct a thorough review and reduce fuel prices.
-
-◼️
-
-[Data](articles/e4c5df78.json)
-
-[Extended Data](ext_articles/e4c5df78.ext.json)
-
----
-
-### Indian, Sri Lankan canines train in Exercise Mitra Shakti
-
-*2024-08-19 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101339/indian-sri-lankan-canines-train-in-exercise-mitra-shakti) · `en`
-
-The armies of India and Sri Lanka have deployed canines “K9s” in military parlance in the bilateral exercise Mitra Shakti underway in the island nation. The Indian Army has deployed Zac, a Belgian Malinois, while Sri Lanka has fielded two canines. The 10th edition of Exercise Mitra Shakti is being held from August 12-25 at the Army Training School, Maduru Oya, Sri Lanka.
-
-“Two-and-half-year-old Zac is trained in specialised tactical operations such as cordon-and-search, search-and-destroy, fighting in built-up areas, jungle search, and area-sanitisation among others,” an Army official said. It has additionally been trained in specialised skills such as laser-guided assault and weapon retrieval, which greatly augment the “K9 capabilities” of our forces, the official stated.
-
-...
-
-[Data](articles/7f666dd5.json)
-
-[Extended Data](ext_articles/7f666dd5.ext.json)
-
----
-
-### All Ceylon Peoples Congress Party's Political Power
-
-*2024-08-19 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191406) · `ta`
-
-The All Ceylon Peoples Congress Party gathered at a hotel, led by Rishad Bathiudeen, to discuss the upcoming 2024 presidential election. The event saw the presence of opposition leader Sajith Premadasa from the United People's Alliance (UPFA), along with other high-ranking members. Discussions focused on the campaign strategies and current political challenges.
-
-🟩
-
-The All Ceylon Peoples Congress Party's political power and high -ranking members were held at the Hotel on Saturday (17) at the Hotel, headed by the party leader Rishad Bathiudeen, a Snehakkal Robosana party between the opposition leader Sajith Premadasa, who is the candidate of the United People's Alliance (UPFA) and the United People's Alliance in the 2024 presidential election.
-
-The event was attended by its political power and high -ranking members of the All India People's Congress Party.
-
-Presidential candidate Sajith Premadasa was also present at the event with United People's Power Chairman and Member of Parliament Imtiaz Bakir Makar, President of the Presidential Elections Program, Sujeewa Senasinghe and Lakshman Benska.
-
-The Presidential candidate Sajith Premadasa and the political power and high -ranking members have been a long timely discussion on the presidential election campaigns and the contemporary political issues of the country.
-
-◼️
-
-[Data](articles/0ead3999.json)
-
-[Extended Data](ext_articles/0ead3999.ext.json)
 
 ---

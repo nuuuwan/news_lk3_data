@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 00:21:16**
+As of **2024-08-20 00:36:37**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,547 (100.0%) of 41,548 articles have been extended.
+41,548 (100.0%) of 41,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### மதச் சின்னங்களை பயன்படுத்த தடை
+### Prohibition
 
 *2024-08-20 00:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதச்-சின்னங்களை-பயன்படுத்த-தடை/175-342476) · `ta`
 
-தேர்தல் பிரசாரங்களுக்கு தேசியக் கொடி அல்லது மதச் சின்னங்களைப் பயன்படுத்துவது முற்றாகத் தடை செய்யப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது
+The Elections Commission banned the use of national flags or religious symbols in election campaigns, threatening strict actions against violators.
 
-ஜனாதிபதி தேர்தல் பிரசாரங்களுக்கு தேசிய கொடியை பயன்படுத்தும் கட்சிகள் மீது கடும் நடவடிக்கை எடுக்கப்படும் என தேர்தல்கள் ஆணைக்குழு அதிகாரிகள் தெரிவித்துள்ளனர்.
+🟩
+
+The Elections Commission has said that the use of national flag or religious symbols for election campaigns has been completely forbidden
+
+Elections Commission officials have said that strict action will be taken against the parties that use the national flag for the presidential election campaigns.
 
 ◼️
 
 [Data](articles/0f0df2a6.json)
+
+[Extended Data](ext_articles/0f0df2a6.ext.json)
 
 ---
 

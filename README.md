@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 09:36:53**
+As of **2024-08-19 09:55:54**
 
 ## Newspaper Stats
 
-*Scraped **41,436** Articles*
+*Scraped **41,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 2,676
 adalk | 3,809
 dailymirrorlk | 4,733
 adaderanalk | 4,844
-tamilmirrorlk | 5,337
+tamilmirrorlk | 5,338
 virakesarilk | 6,569
-adaderanasinhalalk | 7,069
+adaderanasinhalalk | 7,070
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,436 (100.0%) of 41,436 articles have been extended.
+41,436 (100.0%) of 41,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### அர்ஜூன் மகேந்திரனை அழைத்து வருவேன் - அநுர உறுதி
+
+*2024-08-19 09:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-மகேந்திரனை-அழைத்து-வருவேன்-அநுர-உறுதி/175-342421) · `ta`
+
+தாம் ஜனாதிபதியாக பதவியேற்றதன் பின்னர் மத்திய வங்கி மோசடி தொடர்பில் நீதிமன்றினால் சிவப்பு பிடியாணை பிறப்பிக்கப்பட்ட அர்ஜுன மகேந்திரனை இலங்கைக்கு அழைத்து வருவேன் என தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+
+கிரிபத்கொட பிரதேசத்தில் நேற்று (18) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் இதனை கூறியுள்ளார்.
+
+அநுராதபுரத்தில் இடம்பெற்ற மக்கள் சந்திப்பொன்றில் ஜனாதிபதி ரணில் விக்கிரமசிங்க விடுத்துள்ள “அனுர இதற்கு பதில் சொல்லுங்கள்” என தெரிவித்த கருத்துக்கு பதிலளிக்கும் போதே அநுர மேற்கண்டவாறு தெரிவித்தார்.
+
+நான் ஒரு பதில் தருகிறேன். மத்திய வங்கி மோசடி தொடர்பில் நீதிமன்றினால் சிவப்பு பிடியாணை பிறப்பிக்கப்பட்டு சிங்கப்பூருக்கு தப்பிச் சென்ற அர்ஜுன மகேந்திரா இலங்கைக்கு அழைத்து வரப்படுவார்.
+
+மத்திய வங்கிக்கு பொறுப்பான அமைச்சர் ஒருவர், ரணில் விக்கிரமசிங்க தான் இந்த கொடுக்கல் வாங்கலுக்கு ஆலோசனை வழங்கியதாக கோப் குழுவிடம் கூறியிருந்தார். இதையடுத்து அர்ஜுன
+
+...
+
+[Data](articles/0f70bb3f.json)
+
+---
+
+### ජාතික කොඩිය සහ ආගමික සංකේත ගැන මැතිවරණ කොමිසමෙන් නිවේදනයක්
+
+*2024-08-19 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200088) · `si`
+
+මැතිවරණ ප්‍රචාරක කටයුතු සඳහා ජාතික කොඩිය හෝ  ආගමික ලකුණු යොදා නොගන්නා ලෙස මැතිවරණ කොමිසම නිවේදනය කර තිබේ.
+
+මැතිවරණ කොමිෂන් සභාව පවසන්නේ ජාතික කොඩිය ජනාධිපතිවරණ ප්‍රචාරක කටයුතු සදහා භාවිත කරන පාර්ශ්ව සඳහා දැඩි ක්‍රියා මාර්ග ගැනීමට සිදුවන බවය.
+
+මැතිවරණ කාර්යාල සකස් කිරීමට අදාළ ව නිකුත් කර ඇති චක්‍රලේඛයේ ද මේ සම්බන්ධයෙන් දැනුම්වත් කර තිබේ.
+
+තවද ප්‍රචාරක කටයුතු සඳහා ආගමික සංකේත භාවිත කිරීම ද තහනම් බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+◼️
+
+[Data](articles/0c051349.json)
+
+---
 
 ### A powerful earthquake in Japan
 
@@ -2259,47 +2297,5 @@ The 43 -year -old suspect has been arrested in the incident and the Wennappuwa p
 [Data](articles/10dbc8de.json)
 
 [Extended Data](ext_articles/10dbc8de.ext.json)
-
----
-
-### Man found murdered with throat slit in Thalangama
-
-*2024-08-18 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101322/man-found-murdered-with-throat-slit-in-thalangama) · `en`
-
-A person has been found murdered, after having his throat slashed with a sharp weapon near a garage in the Aruppitiya area of Thalangama this morning (Aug 18).
-
-Police said that the place of residence of the victim, identified as a 45-year-old three-wheeler driver, has not yet been revealed.
-
-The motive behind the murder and the identity of the suspects are yet to be uncovered.
-
-◼️
-
-[Data](articles/4709a2cc.json)
-
-[Extended Data](ext_articles/4709a2cc.ext.json)
-
----
-
-### GS trade union action abandoned
-
-*2024-08-18 12:22:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/GS-தொழிற்சங்க-நடவடிக்கை-கைவிடப்பட்டது/175-342378) · `ta`
-
-The Grama Niladhari Trade Union Federation has suspended its strike from midnight, prioritizing support for the upcoming presidential election. The union, active since May 4, demanded changes in the Grama Niladhari Service and payments due to the economy. This action, initiated on May 17, concludes today.
-
-🟩
-
-The Grama Niladhari Trade Union Federation has announced that it will suspend their trade union action from midnight today.
-
-Nandana Ranasinghe, the co -chair of the Grama Niladhari, said that the decision was made in order to make his highest contribution to the upcoming presidential election as the Grama Niladhari and Election Officer.
-
-Grama Niladhari from the country has launched a trade union action since May 4, demanding that the Grama Niladhari Service and Grama Niladhari payments be changed to the current economic situation.
-
-The co -chair of the Grama Niladhari Trade Union Federation added that the trade union action, which has been served by the Grama Niladhari since May 17, will be completed today.
-
-◼️
-
-[Data](articles/5ea62e10.json)
-
-[Extended Data](ext_articles/5ea62e10.ext.json)
 
 ---

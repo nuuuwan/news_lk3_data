@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 05:39:23**
+As of **2024-08-19 06:04:52**
 
 ## Newspaper Stats
 
-*Scraped **41,416** Articles*
+*Scraped **41,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 395
-islandlk | 2,392
+islandlk | 2,402
 economynextcom | 2,504
 dailyftlk | 2,676
 adalk | 3,807
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,415 (100.0%) of 41,416 articles have been extended.
+41,423 (100.0%) of 41,426 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -193,6 +193,122 @@ We will announce a decision in unity of our party very quickly.If our people wil
 ---
 
 ### 2024-08-18 (Sunday)
+
+### Bally’s Colombo unveils exclusive VIP lounge for elite members
+
+*2024-08-18 23:55:00* · [`islandlk`](http://island.lk/ballys-colombo-unveils-exclusive-vip-lounge-for-elite-members/) · `en`
+
+Bally’s Colombo, a prominent name in the Colombo nightlife scene and a top destination for night entertainment, recently launched its new Very Important Person (VIP) Lounge named “Paiza.”
+
+This luxurious area is designed exclusively for the top two VIP categories, Diamond and Infinity members, offering them unparalleled VIP services and an enhanced casino experience. The “Paiza” VIP Lounge provides an exclusive sanctuary for Bally’s most esteemed guests, allowing them to enjoy a higher level of play within a more intimate and lavish setting. Members of the Diamond and Infinity categories are treated to an array of exceptional amenities, including business class air tickets, luxury vehicle pickup from the airport, and accommodation in a luxury suite at a star-class hotel in Colombo. A separate bar and personalised steward service are also available, ensuring that every need is met with the utmost care and attention.
+
+...
+
+[Data](articles/be61b594.json)
+
+[Extended Data](ext_articles/be61b594.ext.json)
+
+---
+
+### Neptune Recyclers recognised with Gold Award at ESG Summit 2024
+
+*2024-08-18 23:53:00* · [`islandlk`](http://island.lk/neptune-recyclers-recognised-with-gold-award-at-esg-summit-2024/) · `en`
+
+Neptune Recyclers recently reached a significant milestone, by receiving the Gold Award at the Environmental, Social and Governance (ESG) Summit 2024, organised by the Colombo University MBA Alumni Association, at the Cinnamon Grand Hotel, Colombo on 6th August 2024. The prestigious award was presented by His Excellency President Ranil Wickremesinghe.
+
+The award ceremony was attended by members of Neptune Recyclers Senior Management team, including Fazleen Majeed, Chief Executive Officer, Aadhil Azeez. Manager, Business Development, Moshin Mustaq and Wakeel Zackariya. Fazleen Majeed and Aadhil Azeez had the honour of receiving the award from President Ranil Wickremesinghe. The award was bestowed upon the company in recognition of their unparalleled commitment to implementing sustainable growth.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/844a4c8e.json)
+
+[Extended Data](ext_articles/844a4c8e.ext.json)
+
+---
+
+### Rootcode opens second computer lab to empower students
+
+*2024-08-18 23:52:00* · [`islandlk`](http://island.lk/rootcode-opens-second-computer-lab-to-empower-students/) · `en`
+
+The Rootcode Foundation opened a computer lab at Mawathgama Kanishta Vidyalaya on August 4, 2024. This was the second school adopted by the Rootcode Foundation, which continues its mission to empower underprivileged children through technology education.
+
+...
+
+[Data](articles/684976a2.json)
+
+[Extended Data](ext_articles/684976a2.ext.json)
+
+---
+
+### HNB Assurance extends support for habitat restoration programme
+
+*2024-08-18 23:49:00* · [`islandlk`](http://island.lk/hnb-assurance-extends-support-for-habitat-restoration-programme/) · `en`
+
+HNB Assurance PLC has partnered with Biodiversity Sri Lanka (BSL), to support the Federation of Environmental Organizations (FEO Sri Lanka) and the Department of Wildlife Conservation (DWC) by committing to an additional 15 hectares of invasive alien plant species (IAPS) removal within the Lunugamvehera National Park over the next three years.
+
+This programme, focuses on the removal of Lantana Camara (S. Gandapana) and Eupatorium odoratum (S. Podi Singho Maran), which have been rapidly spreading and disrupting the native ecosystem across 900 hectares, creating a sustainable livelihood and a sense of ownership for the community around this national park.
+
+...
+
+[Data](articles/e87ab73f.json)
+
+[Extended Data](ext_articles/e87ab73f.ext.json)
+
+---
+
+### SLT-MOBITEL partners with Sri Dalada Perahara for 10th consecutive year
+
+*2024-08-18 23:47:00* · [`islandlk`](http://island.lk/slt-mobitel-partners-with-sri-dalada-perahara-for-10th-consecutive-year/) · `en`
+
+SLT-MOBITEL has extended its partnership with the Kandy Sri Dalada Maligawa as the official ICT Service Provider for the 10th consecutive year. As part of this ongoing collaboration, SLT-MOBITEL will continue to offer a comprehensive suite of ICT solutions to the Maligawa, including high-speed broadband services, PEO TV, and voice communication powered by SLT-MOBITEL ‘s advanced fiber optic technology. Notably, these services will be provided free of charge, further strengthening SLT-MOBITEL’s commitment to supporting the Maligawa’s procession and initiatives.
+
+SLT-MOBITEL’s will enable the media centre of the Maligawa to efficiently broadcast and share cultural and religious information with the public and will provide all necessary ICT support to facilitate the live streaming of the annual Esala Perehera on various digital media channels. This will allow devotees and the general public to participate in and enjoy the festivities remotely.
+
+...
+
+[Data](articles/10539369.json)
+
+[Extended Data](ext_articles/10539369.ext.json)
+
+---
+
+### Tourism earnings exceed US dollars 328mn in July 2024
+
+*2024-08-18 23:45:00* · [`islandlk`](http://island.lk/tourism-earnings-exceed-us-dollars-328mn-in-july-2024/) · `en`
+
+Earnings from tourism amounted to US dollars 328.3 mn in July 2024, compared to US dollars 151.1 mn in June 2024 and US dollars 219.0 mn in July 2023, according to the weekly Economic Report of the Central Bank of Sri Lanka.
+
+In July 2024, Purchasing Managers’ Indices (PMI) indicate expansions in both Manufacturing and Services activities, on a month-on-month basis.
+
+...
+
+[Data](articles/603d1516.json)
+
+[Extended Data](ext_articles/603d1516.ext.json)
+
+---
+
+### .LK Domain Registry recognises dynamic websites promoting SL identity in cyberspace
+
+*2024-08-18 23:43:00* · [`islandlk`](http://island.lk/lk-domain-registry-recognises-dynamic-websites-promoting-sl-identity-in-cyberspace/) · `en`
+
+The widely subscribed .lk Domain Registry hosted a gala event at the Cinnamon Grand Hotel on 14th August 2024, where Sri Lanka’s best talent in web designing and development were recognised. The event celebrated talent, success and achievement within schools, academic institutions, government institutions, banks and private sector corporations in a way that encourages them to perform even better in the future.
+
+ITN Chairman Sudarshana Gunawardena, who was the chief guest of the event said, “The annual best web awards is a significant milestone for the digital landscape as it celebrates the innovative spirit and outstanding performance of the web presence of the participating entities of both public and private sectors.”
+
+“This is a competition where the judges put emphasis on how you use creativity and the power of technology to connect, communicate and collaborate for the greater success of your institutions and organizations.”
+
+...
+
+[Data](articles/dbdf4d3f.json)
+
+[Extended Data](ext_articles/dbdf4d3f.ext.json)
+
+---
 
 ### The struggle against the illegal illegal Tissa Vihara begins!
 
@@ -1053,6 +1169,8 @@ Mingling with one’s opponents on nomination day has become a Sri Lankan norm. 
 ...
 
 [Data](articles/50eebf14.json)
+
+[Extended Data](ext_articles/50eebf14.ext.json)
 
 ---
 
@@ -2203,187 +2321,5 @@ Subsequently, it was reported that the house was received from Dubai to attack t
 [Data](articles/95ec0e8e.json)
 
 [Extended Data](ext_articles/95ec0e8e.ext.json)
-
----
-
-### King's approval for Thai Prime Minister
-
-*2024-08-18 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200058) · `si`
-
-Pettentan, a 37-year-old former Prime Minister and daughter of a student, has been approved as Thailand's youngest Prime Minister by the King. Elected through the Legislative Court, she plans to form her Cabinet soon, stating no intention to involve her father in government roles.
-
-🟩
-
-Pettentan, elected to the post of Prime Minister, has been approved by the King Thailand two days ago for the post of Prime Minister.
-
-Accordingly, she is in the younger prime minister of the country. The 37-year-old Pettongtan, a former Prime Minister of Thailand, is the daughter of the student of Thailand.
-
-She was chosen for the rank of the prime minister of the country with the emissivation of the Legislative Court.
-
-She is to be appointed to appoint his Cabinet in the next few days. Petentgtan said he would not intend to give his father a government responsibility.
-
-◼️
-
-[Data](articles/de680c76.json)
-
-[Extended Data](ext_articles/de680c76.ext.json)
-
----
-
-### If the National Flag is propagated, the law will be the song of the National Anthem Party
-
-*2024-08-18 11:32:49* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ධජය-මැතිවරණ-ප්‍රචාරයට-ගත්තොත්-නීතිය--ජාතික-ගීය-පක්ෂයේ-ගීතය-වේවි/11-411426) · `si`
-
-Saman Sri Ratnayake, Commissioner General of Elections, mentioned during a journalist awareness program that the National Anthem Party (NIC) will be held in Colombo, sponsored by Pattalion. He highlighted issues like misuse of the national flag and lack of focus on national development, referencing his track record of dismissing 19 individuals from his party.
-
-🟩
-
-The Commissioner General of Elections Saman Sri Ratnayake said yesterday that the National Anthem Party (NIC) at the National Anthem Party (UNP) will be said in Colombo yesterday (17).
-
-He was speaking at a journalist awareness program to mark the presidential election.
-
-The workshop in Colombo was organized on the sponsorship of Pattalion.
-
-Commissioner General Saman Sri Ratnayake said,
-
-We look at politicians.
-
-Now catch the national flag in cricket and catch the national flag and catch a bottle of alcohol.
-
-It is not a problem that we do not have to pay the development work of the country.
-
-In my electoral history, I sent 19 people home in my home.
-
-Practual Organization Executive Director Rohana Hettiarachchi and its national organizer Sujeewa Gyathath also addressed the occasion.
-
-◼️
-
-[Data](articles/e1cc26c7.json)
-
-[Extended Data](ext_articles/e1cc26c7.ext.json)
-
----
-
-### Sri Lanka Junior Athletics Team in crisis
-
-*2024-08-18 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200057) · `si`
-
-Sri Lanka's junior athletics team faces uncertainty for the World Championship in Peru due to lack of funding from the Ministry of Sports for air tickets and other expenses. Despite qualifying, financial constraints prevent the 13 athletes' participation, echoing previous issues like the 2022 event in Colombia. This situation highlights the challenges in supporting young talent, potentially hindering Sri Lanka's future athletic achievements.
-
-🟩
-
-Sri Lanka's participation has been uncertain from the World Championship Junior Athletics Championship in Peru, despite the qualifications of the World Championships.
-
-It is due to the authorities of the Ministry of Sports to provide the necessary funds including air tickets.
-
-The World Championship Championship Championships will be held in the capital of a Latin American country, the maintest competition of young athletes.
-
-There were 13 Sri Lankan athletes to represent the tournament to be held from August 27 to 31.
-
-The Visa Sri Lanka Athletic Association had gone to India by the 13striarch levels that were eligible to take the decision levels in the various difficulties..
-
-But the Athletics Union has requested the Sports Ministry authorities to provide funds for air tickets and other amenities after the visa.The funds cannot be provided.
-
-...
-
-[Data](articles/c1c62f39.json)
-
-[Extended Data](ext_articles/c1c62f39.ext.json)
-
----
-
-### Tamil National Alliance
-
-*2024-08-18 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191349) · `ta`
-
-Indian High Commissioner Santosh Ja met with Tamil National Alliance (TNA) parliamentarians S. Siritharan and Charles Nirmalanathan to discuss the TNA's stance on the upcoming presidential election in Sri Lanka. The TNA expressed interest in nominating a Tamil candidate due to the community's significant issues and concerns.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh Ja has asked the Tamil general candidate and the Tamil people's position on the Tamil people during the meeting with S. Sridharan and Charles Nirmalanathan.
-
-The meeting between the Indian High Commissioner Santosh Ja and the Sri Lanka Tamil National Alliance (TNA) parliamentarians S. Siritharan and Charles Nirmalanathan were held on Friday (16) as the nominations for the presidential elections for the upcoming presidential election, which will be held on September 21st.
-
-During the meeting, the High Commissioner Santosh Ja, who was asked by the Tamil National Alliance (TNA) on the upcoming presidential election, asked about the state's contemporary political position, the Tamil people's position, the Tamil people's position and the Tamil state party's arrears.
-
-...
-
-[Data](articles/870c5263.json)
-
-[Extended Data](ext_articles/870c5263.ext.json)
-
----
-
-### Tamils ​​should join hands with us to build a racist country - Udaya Kammanpila
-
-*2024-08-18 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191348) · `ta`
-
-Udaya Kammanpila, leader of the Pivithuru Hela Urumaya Party, urges Tamils to unite with them to combat racism and separatism, emphasizing shared cultural and linguistic ties across the north and south of Sri Lanka. He criticizes politicians exploiting racial tensions for personal gain and calls for collective action to address Tamil issues, distinguishing between the Tamil people and those promoting division.
-
-🟩
-
-We have a debacle on the Tamils ​​and their culture. We are not against the Tamils. But we oppose the racists who trigger separatism that divides the country. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya Party, said that Tamils ​​should join hands with us to create a racist country.
-
-Speaking at the first propaganda meeting of Dilith Jayaweera, the presidential candidate of the universal power in Jaffna on Saturday (17).
-
-We are the children of the same family in the north and we are in the south. There are many similarities on the basis of culture and language between the two sides. Northern politicians refer to racist ideas and enrich themselves. But the Tamil people face many difficulties.
-
-The problems can only be solved if everyone works together. The separatists use the basic problems of the Tamil people for their needs and create a rift between the north and south.
-
-...
-
-[Data](articles/92104c7d.json)
-
-[Extended Data](ext_articles/92104c7d.ext.json)
-
----
-
-### August 30 - International Missing Persons Day Calling Special Consultation rally
-
-*2024-08-18 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191350) · `ta`
-
-On International Missing Persons Day, a rally led by the Kilinochchi Kandaswamy Temple and the North and East Missing Relations Association aims to highlight unresolved cases from the war's end 15 years ago. Relatives of the missing have protested since 2000, demanding justice for those disappeared during and after the conflict. This year, on August 30th, they plan to march to Depot Junction, handing over a petition to the UN office, seeking support from all parties involved.
-
-🟩
-
-A special speech rally has been organized by the Kilinochchi Kandaswamy Temple to Depot Junction on the 30th of this month, the North and East Missing Relations Association.
-
-With 15 years of the end of the war, the past violations and crimes against humanity are still not confirmed. At the same time, relatives of the missing in the North and the Eastern Provinces have been engaged in a series of protests over 2000, demanding the fact that the people who have been disappeared during the war and the final war have been vulnerable.
-
-With this backdrop, the association of the North and East has decided to carry out a special controversial rally as the last year, as the International Missing Day is declared on the 30th of August.
-
-Accordingly, at 9.30 am on the 30th of this month, the relatives of the missing persons will march at the depot junction at 10.00 am and hand over a Mahajar to the officials of the United Nations Branch Office.
-
-...
-
-[Data](articles/efb81947.json)
-
-[Extended Data](ext_articles/efb81947.ext.json)
-
----
-
-### South Africa wins
-
-*2024-08-18 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200056) · `si`
-
-In the second Test cricket match against the West Indies, South Africa emerged victorious by 40 runs. Despite scoring 160 runs in their first innings, South Africa outperformed the West Indies' 144 runs. The West Indies fell short in their chase, managing only 222 runs in their second innings compared to South Africa's 246 runs, securing South Africa's victory in the series.
-
-🟩
-
-South African team has won the second Test cricket match with the West Indies by 40 runs.
-
-South Africa scored 160 runs for the loss of the first innings while West Indies were scored to 144 runs for the first innings.
-
-West Indies scored 263 runs in order to win the match with 246 runs for the second innings.
-
-However, West Indies were able to score only 222 runs in the second innings.
-
-South Africa won the winning Test series together as a zero.
-
-◼️
-
-[Data](articles/b9420b70.json)
-
-[Extended Data](ext_articles/b9420b70.ext.json)
 
 ---

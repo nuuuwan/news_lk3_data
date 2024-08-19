@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 23:36:52**
+As of **2024-08-19 23:56:54**
 
 ## Newspaper Stats
 
-*Scraped **41,546** Articles*
+*Scraped **41,547** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 383
-colombotelegraphcom | 395
+colombotelegraphcom | 396
 islandlk | 2,402
 economynextcom | 2,507
 dailyftlk | 2,676
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,546 (100.0%) of 41,546 articles have been extended.
+41,546 (100.0%) of 41,547 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -561,6 +561,20 @@ Dissanayake says that it is normal humanity to stand up with a hand -held hands 
 [Data](articles/bfcdd72b.json)
 
 [Extended Data](ext_articles/bfcdd72b.ext.json)
+
+---
+
+### Ranil Wickremesinghe Borrows From The UNP’s Dirty Tricks Campaign Handbook
+
+*2024-08-19 18:01:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-wickremesinghe-borrows-from-the-unps-dirty-tricks-campaign-handbook/) · `en`
+
+The efficiency of Ranil Wickremesinghe‘s campaign team was clearly established by the manner in which it responded to content in social media deemed to be unfavorable to the UNP leader who is contesting the upcoming Presidential Election as an independent candidate.
+
+On 19 August, President Wickremesinghe met Buddhist monks at the stage of his inaugural election campaign rally. On that occasion, contrary to Buddhist practice and cultural norms, Wickremesinghe shook the hand of a Buddhist monk. This was duly captured and was subsequently sent to Uvindu Kurukulasuriya by an unknown source. Kurukulasuriya then posted 18 second video clip on Facebook with an appropriate comment. Colombo Telegraph learns that the post was seen by more than 1.4 million viewers and shared by 100,000’s of thousands and reposted by Facebook subscribers respectively. However, within 10 hours Facebook removed the post because the United National Party claimed copyright violation.
+
+...
+
+[Data](articles/5459eba0.json)
 
 ---
 
@@ -2371,29 +2385,5 @@ I will bring Arjun Mahendran. The court will answer him. Next you will bring. So
 [Data](articles/0f70bb3f.json)
 
 [Extended Data](ext_articles/0f70bb3f.ext.json)
-
----
-
-### Elections Commission announced on national flag and religious symbols
-
-*2024-08-19 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200088) · `si`
-
-The Elections Commission banned the use of the national flag and religious symbols in election propaganda, threatening severe actions against violators. This directive applies to all parties involved in the upcoming presidential election campaign and has been communicated to election officials.
-
-🟩
-
-The Elections Commission has announced not to use the national flag or religious signs for election propaganda.
-
-The Elections Commission says that the National Flag is to be taken to take heavy measures for parties used for presidential election campaign.
-
-The circular has also been informed of this regarding the preparation of electionhouses.
-
-The Elections Commission says that the use of religious symbols for propaganda is also prohibited.
-
-◼️
-
-[Data](articles/0c051349.json)
-
-[Extended Data](ext_articles/0c051349.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 13:21:28**
+As of **2024-08-19 13:36:48**
 
 ## Newspaper Stats
 
-*Scraped **41,474** Articles*
+*Scraped **41,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,61 @@ dailymirrorlk | 4,733
 adaderanalk | 4,852
 tamilmirrorlk | 5,348
 virakesarilk | 6,577
-adaderanasinhalalk | 7,074
+adaderanasinhalalk | 7,075
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,472 (100.0%) of 41,474 articles have been extended.
+41,474 (100.0%) of 41,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### தேயிலை ஏற்றுமதி, இறக்குமதியில் முன்னணி வகிக்கும் Sunshine Tea Private Limited
+### ලොරි රථයක් දුම්රියේ ගැටී පුද්ගලයෙකු මරුට
+
+*2024-08-19 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200094) · `si`
+
+කොස්ගොඩ පොලිස් වසමේ, මහ ඉඳුරුව දුම්රිය ස්ථානය ආසන්නයේ දුම්රිය හරස් මාර්ගයක අද (19) දහවල් සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+ගාල්ල සිට කොළඹ දක්වා ධාවනය වූ දුම්රියක කොස්ගොඩ සිට පැමිණි දර පටවා ගත් ලොරි රථයක් මෙලෙස ගැටී ඇති බව පොලීසිය පවසයි.
+
+අනතුරින් ලොරි රථයේ පැමිණි දෙදෙනාගෙන් එක් අයෙකු ජීවිතක්ෂයට පත්ව ඇත.
+
+තුවාල ලැබූ අනෙක් පුද්ගලයා රෝහල් ගත කර ඇති අතර ඔහුගේ තත්ත්වය ද බරපතළ බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/5d42fba3.json)
+
+---
+
+### SUNSHINE TEA Private Limited
 
 *2024-08-19 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191420) · `ta`
 
-இலங்கையிலுள்ள தேயிலைத்தூள் உற்பத்தி மற்றும் ஏற்றுமதி சார்ந்த சிறப்பு வாய்ந்த  நிறுவனங்களுள்  Sunshine Tea Private Limited முக்கியமானதொன்றாகும்.  களனி பிரதேசத்தில் அமைந்துள்ள இந்த நிறுவனத்தின் பிரதான அம்சமாக தேயிலைத்தூள் ஏற்றுமதி காணப்படுகின்றது.
+Sunshine Tea Private Limited, established in 1967 and rebranded in 1987, is a key player in Sri Lanka's tea industry, focusing on export. The company, employing over 300 staff, including 100 women, operates in both export and import sectors, generating annual sales exceeding $25 million. Its products, including ZESTA, Watawala, and Gordon Frazer teas, are exported to countries like Iran, Iraq, the US, Canada, Italy, Australia, and China. Sunshine Tea emphasizes quality, sustainability, and social responsibility, holding certifications like ISO 9001, FSSC 2000, and Fair Trade.
 
-இந்நிறுவனத்தின் செயற்பாடுகள் குறித்தும் அதன் தொழிற்பாடுகள் தொடர்பிலும் ஊடகவியலாளர்களுக்கு விளக்கமளிக்கும் களப்பயணம் ஒன்று அண்மையில் ஒழுங்கமைக்கப்பட்டிருந்தது.
+🟩
 
-இதன்போது, நிறுவனத்தின் தொழிற்பாடுகள் குறித்து அதன் பிரதம நிறைவேற்று அதிகாரியான சஞ்சீவ சரனபால விளக்கமளிக்கையில்,
+Sunshine Tea Private Limited is one of the most important companies in tea production and export in Sri Lanka.Tea exports are the main feature of the company in Kelaniya.
 
-அவர் நிறுவனத்தின் அறிமுகம் பற்றி எடுத்துரைக்கையில், 1967 ஆம் ஆண்டு நிறுவனம் ஆரம்பிக்கப்பட்டுள்ளதாகவும் அதன் பின்னர் 1987 ஆம் ஆண்டு SKS Exports என்ற பெயரில் நிறுவனம்  புதுபிக்கப்பட்டுள்ளதாகவும் அதன் பின்னர் 2007 ஆம் ஆண்டு sunshine Tea Private Limited என பெயர் மாற்றப்பட்டது.
+Recently, a field tournament to the media about the company's activities and its workshop was recently organized.
+
+In the meantime, its Chief Executive Officer Sanjeeva Saranabala explained the company's functions.
+
+According to the company's introduction, the company was launched in 1967 and then renewed in the name of SKS Exports in 1987 and was later renamed as SUNSHINE Tea Private Limited.
+
+Sunshine Tea Private Limited's Thai Company Sansin Holdings PLC can also be found in the website of Sansine Holdings PLC at https: //www.shinetea.lk.
+
+In addition, the company has more than 300 employees and said that there are 25 female workers and 75 male workers in the factory.They work in two categories as export and import. He said the company's annual sales were more than $ 25 million.
 
 ...
 
 [Data](articles/d762ff0a.json)
+
+[Extended Data](ext_articles/d762ff0a.ext.json)
 
 ---
 
@@ -120,21 +148,27 @@ A case of the new variant was confirmed on Thursday in Sweden and linked to a gr
 
 ---
 
-### பொல்லால் தாக்கப்பட்டு பொலிஸ் கான்ஸ்டபில் ஒருவர் கொலை ;  மூவர் கைது !
+### A man killed in police constableThree arrests!
 
 *2024-08-19 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191413) · `ta`
 
-தங்காலை கதுருபொகுன பகுதியில் பொலிஸ் கான்ஸ்டபில் ஒருவரை பொல்லால் தாக்கி கொலை செய்த சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேக நபர் உட்பட மூன்று பேர் தங்காலை பொலிஸ் குற்றப்புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+Three individuals, including the primary suspect in the murder of a police constable in Tangalle, have been detained. The main suspect was apprehended in Kandy with T-56 rifles and bullets. Two more suspects were found hiding and arrested in Tangalle.
 
-இந்த கொலை சம்பவம் தொடர்பில் தங்காலை பொலிஸ் குற்றப்புலனாய்வு பிரிவினருக்குக் கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் பிரதான சந்தேக நபர் கண்டி பிரதேசத்தில் வைத்து நேற்று ஞாயிற்றுக்கிழமை (18) கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட பிரதான சந்தேக நபரிடமிருந்து T-56 ரக துப்பாக்கி , 12 தோட்டாக்கள் என்பன கைப்பற்றப்பட்டுள்ளன.
+Three persons, including the main suspect in connection with the murder of a police constable in Tangalle, have been arrested by the Tangalle Police Criminal Investigation Division.
 
-இதனையடுத்து, கைது செய்யப்பட்ட பிரதான சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணையில், தங்காலை பிரதேசத்தில் உள்ள பாழடைந்த வீடொன்றில் தலைமறைவாக இருந்த ஏனைய இரண்டு சந்தேக நபர்களும் இன்று திங்கட்கிழமை (19) காலை கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The main suspect was arrested in Kandy on Sunday (18) in connection with the incident of the Tangalle Police Criminal Investigation Division.
+
+T-56 rifles and 12 bullets have been seized from the main suspect.
+
+Subsequently, two suspects who were hiding in a dilapidated house in the Tangalle area were arrested on Monday morning, police said.
 
 ◼️
 
 [Data](articles/6f1918a7.json)
+
+[Extended Data](ext_articles/6f1918a7.ext.json)
 
 ---
 
@@ -2281,25 +2315,5 @@ Mingling with one’s opponents on nomination day has become a Sri Lankan norm. 
 [Data](articles/50eebf14.json)
 
 [Extended Data](ext_articles/50eebf14.ext.json)
-
----
-
-### Nearly a third of Belarus army deployed on Ukraine border, Lukashenko says
-
-*2024-08-18 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101331/nearly-a-third-of-belarus-army-deployed-on-ukraine-border-lukashenko-says) · `en`
-
-Belarusian President Alexander Lukashenko said on Sunday that Ukraine had stationed more than 120,000 troops at its border with Belarus and Minsk had deployed nearly a third of its armed forces along the entire border, the Belta state news agency reported.
-
-Lukashenko, a staunch ally of Vladimir Putin, was speaking against the backdrop of a Ukrainian incursion into Russia that began on Aug. 6 when thousands of Kyiv’s troops smashed through Russia’s western border in a major embarrassment for Putin’s top military brass.
-
-“Seeing their aggressive policy, we have introduced there and placed in certain points - in case of war, they would be defence - our military along the entire border,” Belta cited Lukashenko as saying in an interview with Russian state television.
-
-Andriy Demchenko, a spokesperson for the Ukrainian border service, told Ukrainian media outlet Ukrainska Pravda on Sunday that the situation on the border with Belarus remained unchanged.
-
-...
-
-[Data](articles/7e5d3304.json)
-
-[Extended Data](ext_articles/7e5d3304.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 15:56:00**
+As of **2024-08-19 16:10:15**
 
 ## Newspaper Stats
 
-*Scraped **41,493** Articles*
+*Scraped **41,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,505
 dailyftlk | 2,676
-adalk | 3,818
+adalk | 3,819
 dailymirrorlk | 4,733
-adaderanalk | 4,855
+adaderanalk | 4,857
 tamilmirrorlk | 5,351
 virakesarilk | 6,579
 adaderanasinhalalk | 7,080
@@ -26,21 +26,59 @@ adaderanasinhalalk | 7,080
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,492 (100.0%) of 41,493 articles have been extended.
+41,493 (100.0%) of 41,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### ශ්‍රී ලංකා ජනතා ජාතික පක්ෂයේ සහාය දිලිත්ට
+### Sri Lanka People’s National Party backs Dilith Jayaweera at prez poll
+
+*2024-08-19 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101352/sri-lanka-peoples-national-party-backs-dilith-jayaweera-at-prez-poll) · `en`
+
+The Sri Lanka People’s National Party (Ilankai Makkal Thesiya Katchi) has extended its support for the “Sarvajana Balaya” alliance’s presidential candidate entrepreneur Dilith Jayaweera during the upcoming presidential election.
+
+◼️
+
+[Data](articles/71588f9c.json)
+
+---
+
+### Kush cannabis cultivation busted inside house in Malabe, 2 arrested
+
+*2024-08-19 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101351/kush-cannabis-cultivation-busted-inside-house-in-malabe-2-arrested-) · `en`
+
+Western Province - South Crimes Division officers have raided a Kush cannabis cultivation illegally carried out within a two-storey house at Kahanthota Road in Pittugala, Malabe.
+
+The raid, which was carried out last afternoon (19), has led to the discovery of a highly sophisticated cultivation setup, where approximately 174 Kush cannabis plants were cultivated inside an air-conditioned room on the ground floor of the residence, police said.
+
+During the raid, one of the suspects was caught in the process of packaging the drugs, and preparing for distribution. Police estimate the street value of the seized ‘Kush’ cannabis to be around Rs. 100 million.
+
+Further investigations have revealed that the house, which was purportedly operating under the guise of a tea-packing business, had been rented out for the purpose of running this illegal operation.
+
+Two suspects, aged 25 and 48, who were arrested at the scene are scheduled to be produced before the Kaduwela Magistrate’s Court, police said.
+
+◼️
+
+[Data](articles/0790d34a.json)
+
+---
+
+### People's National Party (SLC) support to Dilith
 
 *2024-08-19 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200099) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයේදී ශ්‍රී ලංකා ජනතා ජාතික පක්ෂයේ සහාය සර්වජන අපේක්ෂක ව්‍යවසායක, දිලිත් ජයවීර මහතාට ලබා දීමට එම පක්ෂය තීරණය කර තිබේ.
+The People's National Party (SLC) has endorsed Mr. Dilith Jayaweera for the Presidential Election, transferring its support from the National Party to him.
+
+🟩
+
+The party has decided to hand over the support of the National Party in the Presidential Election to Mr. Dilith Jayaweera.
 
 ◼️
 
 [Data](articles/333d3212.json)
+
+[Extended Data](ext_articles/333d3212.ext.json)
 
 ---
 
@@ -345,6 +383,22 @@ The injured person has been hospitalized and his condition is serious.
 [Data](articles/5d42fba3.json)
 
 [Extended Data](ext_articles/5d42fba3.ext.json)
+
+---
+
+### ඇමෙරිකා යුද නැවක් කොළඹ වරායට
+
+*2024-08-19 13:15:58* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකා-යුද-නැවක්-කොළඹ-වරායට/10-411443) · `si`
+
+ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS Spruance’ නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමේ සංචාරයක් සඳහා අද දින (2024 අගෝස්තු 19) කොළඹ වරායට පැමිණෙන ලද අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට සේන්දු වූ Arleigh Burke - class destroyer වර්ගයට අයත් ‘USS Spruance’ නෞකාව, දිගින් මීටර් එකසිය හැටක් (160 ) හා නැව් මුළුව තුන්සිය තිස් අටකින් (338) සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස Commander Thomas Adams කටයුතු කරනු ලබයි.
+
+තවද, සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමෙන් අනතුරුව ‘USS Spruance’ නෞකාව 2024 අගෝස්තු මස 20 වන දින දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/0dcf17e9.json)
 
 ---
 
@@ -2263,79 +2317,5 @@ Sajith Premadasa, who is the presidential candidate for the upcoming presidentia
 [Data](articles/df0da868.json)
 
 [Extended Data](ext_articles/df0da868.ext.json)
-
----
-
-### Sajith meets the bishop
-
-*2024-08-18 19:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயருடன்-சஜித்-சந்திப்பு/175-342395) · `ta`
-
-Sajith Premadasa, the opposition leader and presidential candidate, met with several individuals including bishops and political figures. He was blessed for his victory in the upcoming presidential election.
-
-🟩
-
-Mr. Malcolm Cardinal Ranjith Annagai, Aruttiru Maxwell Silva, Aruttu JD. Opposition Leader Sajith Premadasa met with Anthony Jayakody, Aruttiru Anton Ranjith, Aruttiru Cheril Gamini and Aruttiru Indika Joy.
-
-Sajith Premadasa, who is the presidential candidate for the upcoming presidential election, has been blessed for his victory.. Remble
-
-◼️
-
-[Data](articles/ec804a48.json)
-
-[Extended Data](ext_articles/ec804a48.ext.json)
-
----
-
-### 700 AIDS patients this year
-
-*2024-08-18 19:26:54* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-ඒඩ්ස්-රෝගීන්-700ක්/11-411438) · `si`
-
-This year, at least 700 AIDS patients were reported, with a total of 3,500 confirmed cases and 1,500 suspected ones nationwide. The Health Ministry highlighted a significant increase, especially among children under 16 and young adults, particularly in Colombo, Gampaha, and Kalutara districts. The spread is notably high among homosexual relationships, sex workers, and tourists, indicating a growing prevalence of the disease.
-
-🟩
-
-At least 700 AIDS patients reported this year, 700 AIDS patients have been reported, medical and civil rights doctors.
-
-Accordingly, the number of patients who have identified as near the island has increased to 3500 and another 1500 patients have been suspected in the country.
-
-By 2018, about 0.03 AIDS patients were able to identify 0.03 AIDS cases, he further said.
-
-He said that there were nearly 16 children under the age of 16, the Health Ministry said that there were nearly 16 children under the age of 16, "he said.
-
-According to the percentage of identifying patients, at least 5,000 patients should be in Sri Lanka, he said.
-
-According to Chamal Sanjeewa, it is important to be aware of these areas, as the prevalence of patients is likely to be increasing.
-
-He said that several AIDS patients were reported in Colombo, Gampaha and Kalutara districts, he said.
-
-...
-
-[Data](articles/352dc90b.json)
-
-[Extended Data](ext_articles/352dc90b.ext.json)
-
----
-
-### Arjun Mahendran brings to Sri Lanka
-
-*2024-08-18 19:22:53* · [`adalk`](https://www.ada.lk/breaking_news/අර්ජුන්-මහේන්ද්‍රන්-ලංකාවට-ගෙන-එනවා/11-411437) · `si`
-
-Arjuna Mahendran, linked to the Central Bank fraud, returned to Sri Lanka after escaping to Singapore. He criticized President's candidate Anura Kumara Dissanayake during a rally in Anuradhapura, accusing him of extortion politics. Dissanayake responded by promising to remove VAT on school books in the first budget, criticizing Ranil Wickremesinghe for ignoring leftist slogans. Mahendran also mentioned his statement at COPE about the fraud, implicating Wickremesinghe. The speech emphasized the importance of justice, equality under the law, and combating fraud and corruption through a national folk force, while also highlighting the need for economic development and modernization in sectors like agriculture and industry.
-
-🟩
-
-The Arjuna Mahendran who had taken responsible for the Central Bank fraud, said Arjuna Mahendran who had escaped Singapore to Sri Lanka and said that the President's candidate Anura Kumara Dissanayake.. He was responding to a statement at the rally held at the rally held at the Anuradhapura Salgadu Pachini.
-
-Businessing of the area in Kiribathgoda had to offer ransom to the area.
-
-Mr. Dissanayake said that the politics of the people who were extorted to the people of the area end.. He was speaking at a national popularity held in Kiribathgoda today (18).
-
-Anura Kumara Dissanayake added that the tax on patients with school books, including school books, will remove the VAT from the first budget, "he added.
-
-...
-
-[Data](articles/c194c34a.json)
-
-[Extended Data](ext_articles/c194c34a.ext.json)
 
 ---

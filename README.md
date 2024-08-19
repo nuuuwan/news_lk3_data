@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 05:21:18**
+As of **2024-08-19 05:39:23**
 
 ## Newspaper Stats
 
-*Scraped **41,415** Articles*
+*Scraped **41,416** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 352
+dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 395
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,415 (100.0%) of 41,415 articles have been extended.
+41,415 (100.0%) of 41,416 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -996,6 +996,22 @@ The meeting will be chaired by former Northern Provincial Agriculture Minister K
 
 ---
 
+### Will  Rajitha Senaratne’s Crossover  Trigger More Defections of MPs From SJB to Ranil’s Side?
+
+*2024-08-18 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84559) · `en`
+
+Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha  Senaratne is the latest among well-known politicians to throw in their lot with incumbent president Ranil Wickremesinghe. The Samagi Jana Balawegaya(SJB) MP for Kalutara district met with the president at the Gangaramaya temple in Colombo on 13 August and signed a memorandum of understanding (MOU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for  21 September 2024.Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
+
+Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports,  Senaratne  had stated  this motivated  him into  supporting  Wickremesinghe’s candidacy.
+
+...
+
+[Data](articles/09d4eecc.json)
+
+[Extended Data](ext_articles/09d4eecc.ext.json)
+
+---
+
 ### The court ordered the closure of the popular restaurant in the city until the 22nd
 
 *2024-08-18 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191377) · `ta`
@@ -1017,6 +1033,26 @@ The owner of the restaurant under Section 13 (1) of the Food Act, No. 26, 1980, 
 [Data](articles/fd2ca038.json)
 
 [Extended Data](ext_articles/fd2ca038.ext.json)
+
+---
+
+### Sajith Premadasa’s churlish refusal to shake the proffered hand of Ranil Wickremesinghe  his political opponent is a reminder of the danger of a system where governance and character are symbiotically connected.
+
+*2024-08-18 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84571) · `en`
+
+“…who’s the fairest of them all?” Grimm Brothers (Snow White)
+
+The most iconic moment at Nelson Mandela’s star studded memorial service was a handshake.
+
+As US President Barack Obama ran up to the podium under a light drizzle, a CNN reporter was droning about the extra security arrangements. Suddenly, the excited voice of Christiane Amanpour cut in, shouting, “Castro, he’s shaking hands with Raul Castro.” Mr Obama had paused to shake the hand of the Cuban leader and to share a few words with him.
+
+That simple sign of civility had its decriers, especially on the right wing of the Republican Party. Mr. Obama was accused of being a traitor, of pandering to the enemy, of endangering democracy and American security.
+
+Mingling with one’s opponents on nomination day has become a Sri Lankan norm. 2024 was no exception. President Ranil Wickremesinghe and Sirithunga Jayasuriya, ideological antipodes of long standing, chatted together amiably.
+
+...
+
+[Data](articles/50eebf14.json)
 
 ---
 
@@ -2349,51 +2385,5 @@ South Africa won the winning Test series together as a zero.
 [Data](articles/b9420b70.json)
 
 [Extended Data](ext_articles/b9420b70.ext.json)
-
----
-
-### Sri Lanka aiming for over 1 million tourist arrivals in last five months of 2024
-
-*2024-08-18 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101318/sri-lanka-aiming-for-over-1-million-tourist-arrivals-in-last-five-months-of-2024-) · `en`
-
-The Chairman of Sri Lanka Tourism Promotion Bureau (SLTPB) Chalaka Gajabahu says they expect the arrival of over one million tourists during the last five months of this year, in order to achieve the annual target of 2.3 million tourist arrivals for the year.
-
-Addressing a media briefing held in Colombo, the SLTPB Chairman stated that the tourism promotion campaigns carried out by the SLTPB have showed results, adding that they expect the country’s situation to be at ease to achieve this target.
-
-He also mentioned that the soft launch of the mobile application for Sri Lanka Tourism will take place in October.
-
-Meanwhile, the Managing Director of the SLTPB Nalin Perera highlighted that digital and promotion campaigns for 5 main markets will kick off in the month of September.
-
-◼️
-
-[Data](articles/c5d61207.json)
-
-[Extended Data](ext_articles/c5d61207.ext.json)
-
----
-
-### The Grama Niladhari concludes the professional program
-
-*2024-08-18 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200055) · `si`
-
-Grama Niladhari Trade Union Yoki is temporarily concluding its activities from midnight today to support the presidential election, where one of its members served as an election officer. This comes amid ongoing trade union actions since May 4, demanding improvements in Grama Niladhari services and divisions. Additionally, the Grama Niladhari Register Alliance (UPFA) has initiated a black protest week from August 12, set to end tonight, highlighting ongoing labor disputes.
-
-🟩
-
-The Grama Niladhari Trade Union Yoki says that his trade union will be temporarily concluded from midnight today (18).
-
-The decision was taken to contribute his maximum contribution in the presidential election, as the Grama Niladhari was an election officer today (18).
-
-The Grama Niladharis throughout the island have launched a trade union action from May 4, demanding the preparation of Grama Niladhari Service and Grama Niladhari Divisions.
-
-Meanwhile, the Grama Niladhari Register Alliance (UPFA) has commenced a black protest week from August 12 and is scheduled to be completed in today's midnight.
-
-The co-chairman of UPFA further said that the trade union trade union trade union trade union trade union trade union trade union trade union trade union trade union trade said.
-
-◼️
-
-[Data](articles/bfe76b63.json)
-
-[Extended Data](ext_articles/bfe76b63.ext.json)
 
 ---

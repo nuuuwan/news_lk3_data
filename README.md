@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 06:04:52**
+As of **2024-08-19 06:26:43**
 
 ## Newspaper Stats
 
-*Scraped **41,426** Articles*
+*Scraped **41,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,843
 tamilmirrorlk | 5,335
 virakesarilk | 6,569
-adaderanasinhalalk | 7,064
+adaderanasinhalalk | 7,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,423 (100.0%) of 41,426 articles have been extended.
+41,423 (100.0%) of 41,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### ප්‍රදේශ රැසකට තද වැසි
+
+*2024-08-19 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200083) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු  සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/ba9d64c0.json)
+
+---
 
 ### Landslide Red Warning to Kalutara and Ratnapura districts
 
@@ -2293,33 +2313,5 @@ He said, “I'm more beautiful than him. I am better for l rather than Kamala. I
 [Data](articles/dd23acfc.json)
 
 [Extended Data](ext_articles/dd23acfc.ext.json)
-
----
-
-### Yall. 3 arrested with swords
-
-*2024-08-18 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191344) · `ta`
-
-In Jaffna, three individuals were arrested for violence, including sword possession and damaging property worth 300,000. The suspects, aged 19 and 23 from Konda, arrived on two motorcycles and caused chaos near a police station. Investigations reveal links to external involvement, possibly from Dubai.
-
-🟩
-
-Three persons have been arrested in connection with the violence in the Jaffna - Valvettithurai police station.
-
-Five swords have been seized from the suspects and the police have taken steps to recover the two motorcycles used for violence.
-
-The Jaffna District Criminal Investigation Division (Jaffna District Crime Prevention Division) has been arrested on the orders of Jaffna District Deputy Inspector General of Police Kalinga Jayasinghe.
-
-Accordingly, six people who recently rushed on two motorbikes entered a house near the Valvettithurai police station and engaged in violence.. This resulted in damage to up to 3 lakh items.
-
-Two persons from Konda, aged 19 and 23, were arrested in connection with the incident.
-
-Subsequently, it was reported that the house was received from Dubai to attack the house during the police investigation and that the mercenaries were involved in the violence.
-
-◼️
-
-[Data](articles/95ec0e8e.json)
-
-[Extended Data](ext_articles/95ec0e8e.ext.json)
 
 ---

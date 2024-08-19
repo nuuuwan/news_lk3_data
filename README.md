@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 19:56:33**
+As of **2024-08-19 20:08:43**
 
 ## Newspaper Stats
 
@@ -26,49 +26,61 @@ adaderanasinhalalk | 7,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,524 (100.0%) of 41,527 articles have been extended.
+41,527 (100.0%) of 41,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### තාත්තා නවත්වපු තැනින් ඉදිරියට අරන් යනවා -නාමල්
+### Father is on the place where he was suspended - Namal
 
 *2024-08-19 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200109) · `si`
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ සංවර්ධන වැඩපිළිවෙළ ඉදිරියට සිදුකරගෙන යාම තම වගකීම බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa, son of former President Mahinda Rajapaksa, emphasizes his commitment to continuing his father's development programs as a candidate for Sri Lanka's presidency. He assures that their policies won't be altered for electoral gains, emphasizing unity and development over division.
 
-පෑලියගොඩ විද්‍යාලංකාර පිරිවෙන වෙත අද (19) පැමිණ ආශිර්වාද ලබාගැනීමෙන් පසු මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-මාධ්‍යවේදියා - රෝහිත අබේගුණවර්ධන කියලා තියෙනවා මොන්ටිසෝරි ළමයි එක්ක මේවා කරන්න බැහැ කියලා, ඔබතුමා මොන්ටිසෝරි ළමයෙක්ද?
+Namal Rajapaksa, candidate for the Sri Lanka General President, says that it is his responsibility to proceed with the development program of former President Mahinda Rajapaksa.
 
-"එතුමා මම ගැනද කිව්වේ" වෙනකෙනෙක් ගැනද කිව්වේ කියලා එතුමාගෙන්ම තමයි අහන්න ඕන.
+He was speaking to the media after the blessings of Peliyagoda Vidyalankara Pirivena today (19).
 
-"අපි අනෙක් දේශපාලන පක්ෂ වගේ මැතිවරණ කාලයේදී වාසි ලබාගන්න අපේ ප්‍රතිපත්ති වෙනස් කරන්නේ නැහැ. අපිට පුළුවන් දේ පුළුවන් කියනවා. බැරි දේ අපි බැහැයි කියනවා.
+Journalist - Rohitha Abeygunawardena is not able to do these with Montessori children, you're a Montessori kid?
 
-පොලිස් සහ ඉඩම් බලතල දෙන්න බැහැ. නැත්නම් උතුරු නැගෙනහිර ඒකාබද්ද කරන්න බැහැ. මේ රට බෙදන්න බැහැ.
+"He also said about me," he said.
 
-මාධ්‍යවේදියා - තාත්තා නවත්වපු තැනින් ඔබතුමා පටන් ගන්නවා කියලද කියන්නේ?
+"We do not change our policies to get advantage of the election during the election during the election. We can say what we can. We are not able to say what is impossible.
 
-"පැහැදිලිවම. 2015 රට සංවර්ධනය කරලා නතර කරපු තැනින් ඉදිරියට අරන් යනවා."
+Cannot give police and land powers. Or the North and the East cannot be monitored. This country cannot be divided.
+
+The journalist - says you start at the place where Dadkawa was upset?
+
+"Clearly. 2015 will be brought before the country has stopped developing. "
 
 ◼️
 
 [Data](articles/f7128a54.json)
 
+[Extended Data](ext_articles/f7128a54.ext.json)
+
 ---
 
-### තවත් පැනිල්ලක් ගැන මනූෂගෙන් හෙළිදරව්වක්
+### Manusha's revelation about another panel
 
 *2024-08-19 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200108) · `si`
 
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රීවරු 14 දෙනෙකු දැනටමත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කර ඇති අතර තවත් 5 දෙනකු ඉදිරි දින කිහිපයේ ජනපති සමඟ එක්වන බව හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතා පවසයි.
+Manusha Nanayakkara announced that five more parliamentarians will support President Ranil Wickremesinghe, bringing the total to nine. This comes after a youth conference aimed at empowering the president. The team includes members from various backgrounds, including those who opposed the Wilpattu National Park expansion and individuals involved in controversies like the COPE report and betting scandals. Despite these issues, the group remains united under the banner of reconciliation and empowerment.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ "පුළුවන් ශ්‍රී ලංකා" සංකල්පය බලගැන්වීමේ අරමුණින් බේරුවල තරුණ සමුළුව ඊයේ (18) පස්වරුවේ අලුත්ගම ප්‍රදේශයේදී රැස්වුණි.
+🟩
+
+Four parliamentarians have already supported President Ranil Wickremesinghe, former Minister Manusha Nanayakkara says that 5 others will join President.
+
+The Beruwala Youth Conference held at Aluthgama yesterday (18) at the Aluthgama yesterday (18) to empower the 'Sri Lanka "President Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/3be8aa48.json)
+
+[Extended Data](ext_articles/3be8aa48.ext.json)
 
 ---
 
@@ -514,23 +526,33 @@ However, Ilankai Tamil Arashiyu MP Shaansenamanikkam said that the major preside
 
 ---
 
-### புகைப்படங்கள் கடந்த கால நினைவுகள்!
+### Memories of the past of the photos!
 
 *2024-08-19 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191440) · `ta`
 
-இந்த உலகில் நாம் வாழும், வாழ்ந்த காலங்களை என்றென்றும் நினைவுபடுத்துபவை  புகைப்படங்கள் தான்!
+Photos capture moments, immortalizing them for future generations. They remind us of growth and change over time, celebrating milestones like birthdays. Poet Vairamuthu's verse, "Don't carry old age, run as a child," resonates with us when viewing old photos, evoking both joyous and poignant memories. Photography, beyond being a mere hobby, is an art form that conveys photographers' talents and ideas. Its evolution, from the Daguerreotype Process in the 19th century to modern digital cameras, reflects humanity's fascination with capturing reality. Today, photography continues to play a crucial role in documenting our world, from personal snapshots to historical images like the iconic "Tank Man" photo. Recognizing the impact of photography, World Photo Day serves as a reminder of its power to convey stories and emotions, making it a vital part of our cultural heritage.
 
-பிறந்த நாள் கொண்டாடுகின்றோம் என்பதன் மறைமுகமான அர்த்தம், எமது வாழ்வில் ஒரு வருடம் அதிகரித்துள்ளது என்பதாகும். வருடங்கள் கழிந்தாலும் கடந்து வந்த காலங்களில் எடுக்கப்பட்ட புகைப்படங்கள் தான் கடந்து வந்த காலத்தினை நினைவுபடுத்துவதுடன் எம்மை எப்பொழுதும் இளமையாக வைத்துள்ளது.
+🟩
 
-அந்த புகைப்படங்களை நிகழ்காலத்தில் பார்க்கும் பொழுது, நாம் அந்த காலத்திற்கே சென்று விடுவதானதொரு புத்துணர்ச்சி  எம் மனதில்  ஏற்படுத்துகின்றதல்லவா!
+Photos are the ones that we live in and live in this world forever!
 
-கவிஞர் வைரமுத்துவின் கருத்தாழமிக்க கவிதை " முன்னோக்கி எனை நடத்தி முதுமை செய்யும் காலங்காள் பின்னோக்கி எனை நடத்தி பிள்ளையாக்கக் கூடாதா..” என்பதாகும். எமது பழைய புகைப்படங்களைப் பார்க்கும் பொழுது இந்த வரிகள் தான் எமது சிந்தையை தட்டிச் செல்கின்றன. எமது வாழ்க்கையிலேற்பட்ட மகிழ்ச்சியான தருணங்களையும், துயரமான  சம்பவங்களையும் நம் கண்முன் கொண்டு வந்து காட்டும் அவைகள்  காலத்தின் பொக்கிஷங்கள்.
+The indirect meaning that we celebrate birthdays is that one year has increased in our lives. The photos taken during the passing of years have been reminiscent of the time they have passed and keep us young.
 
-புகைப்படம் என்பது தனியே ஒரு படம் அல்ல . அது புகைப்படவியலாளர்களின் திறமையை வெளிப்படுத்துகின்ற ஓர் உன்னதமான கலை.
+When we look at those photos in the present, we have a refreshing thing that we will go for that time!
+
+Poet Vairamuthu's concept poetry is "Do not carry out the old age, and run the child ..". When we look at our old photos, these lines are the ones that tap our minds. They are the treasures of the time that bring the happy moments and tragic events in our lives.
+
+Photo is not a movie alone. It is a classic art that expresses the talent of photographers.
+
+It is their artistic art for the famous photographers to express many ideas at the same time.
+
+At the beginning of the 19th century, Louis Daguerre and Joseph Nicephore Niepee designed the operational method of the photo known as "Daguerreotype Process".
 
 ...
 
 [Data](articles/44260517.json)
+
+[Extended Data](ext_articles/44260517.ext.json)
 
 ---
 

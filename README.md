@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 14:09:00**
+As of **2024-08-19 14:21:20**
 
 ## Newspaper Stats
 
-*Scraped **41,484** Articles*
+*Scraped **41,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 2,505
 dailyftlk | 2,676
 adalk | 3,817
 dailymirrorlk | 4,733
-adaderanalk | 4,853
+adaderanalk | 4,854
 tamilmirrorlk | 5,350
 virakesarilk | 6,578
-adaderanasinhalalk | 7,076
+adaderanasinhalalk | 7,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,478 (100.0%) of 41,484 articles have been extended.
+41,484 (100.0%) of 41,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### Rangiri Dambulla Rajamaha Viharaya’s Ven. Ambagaswewa Rahula Thero passes away
+
+*2024-08-19 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101348/rangiri-dambulla-rajamaha-viharayas-ven-ambagaswewa-rahula-thero-passes-away) · `en`
+
+The trustee monk of the Rangiri Dambulla Rajamaha Viharaya Ven. Ambagaswewa Rahula Thero has passed away this morning (19), sources confirmed.
+
+Ven. Ambagaswewa Rahula Thero was receiving treatment at a private hospital in Colombo at the time of his passing.
+
+◼️
+
+[Data](articles/7e458579.json)
+
+---
+
+### පූජ්‍ය අඹගස්වැව රාහුල හිමියෝ අපවත් වෙති
+
+*2024-08-19 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200096) · `si`
+
+ඓතිහාසික රංගිරි - දඹුලූ රජමහා විහාර සහ ශ්‍රී  විෂ්ණු දේවාලයේ භාරකාර සියම් මහා නිකායේ අස්ගිරි පාර්ශවයේ මාතලේ දිසාවේ උප ප්‍රධාන සංඝනායක දඹුල්ල මැද පන්සලයෙහි අධිපති සිරි වළගම්බා මහා පිරිවෙන් අධ්‍යක්ෂ සද්ධර්ම කීර්ති ශ්‍රී චන්ද්‍රජෝති  අඹගස්වැවේ ශ්‍රී රාහුල නාහිමියන් කොළඹ පෞද්ගලික රෝහලකදී (19) අපවත් වී තිබේ.
+
+උන්වහන්සේගේ දේහය පිළිබඳව අවසන් කටයුතු පසුවට දැනුම්දෙන බව විහාරස්ථ දායක සභාව පවසති.
+
+1961 වසරේ ජූලි මස 13 වැනි දින දඹුල්ල දිසා රෝහලේදී උපත ලද උන්වහන්සේ කුඩා අවදියේම ඓතිහාසික රංගිරි - දඹුල්ල රජමහා විහාර මැද පන්සලේ පැවිදි දිවියට එක්ව තිබේ.
+
+එදා සිට අපවත් වන කාලය දක්වාම උන්වහන්සේ දඹුලු පුරවරයට පමණක් නොව මුළු මහත් සමාජයටම විශාල සමාජීය ආගමික සේවාවන් රැසක් ඉටු  කිරීම විශේෂත්වයකි.
+
+අනුරාධපුර දිස්ත්‍රික්කයේ පළාගල ප්‍රාදේශීය ලේකම් කොට්ඨාශයට අයත් අඹගස්වැව නම් වූ ග්‍රාමයේ උපත ලද උන්වහන්සේ අපවත් වන විට ඓතිහාසික රංගිරි - දඹුලූ රජමහා විහාරයේ ශ්‍රී විෂ්ණු දේවාලයේ භාරකාරත්වය උසුලන්නට විය.
+
+අඹගස්වැවේ රාහුල නාහිමියන් 1982 ජුනි මස 26 වන දින උපසම්පදාව ලබා ගත්හ.
+
+...
+
+[Data](articles/231c879b.json)
+
+---
 
 ### A commitment to ‘our people’: Jeevan Thondaman on CWC’s decision to back President Ranil
 
@@ -47,6 +83,8 @@ Meanwhile, the Minister added that a Memorandum of Understanding (MoU) between t
 ...
 
 [Data](articles/41405dad.json)
+
+[Extended Data](ext_articles/41405dad.ext.json)
 
 ---
 
@@ -72,55 +110,73 @@ Also, the cause of the death toll is unknown, the body is for an anatomical exam
 
 ---
 
-### මහ මුහුදේ ගැටුණු චීන - පිලිපීන නෞකා
+### Philippine vessels collided in the sea
 
 *2024-08-19 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200095) · `si`
 
-දකුණු මුහුදු චීන සාගර කලාපය මුල්කරගෙන චීනය කලක පටන් කලාපීය රටවල් සමඟ මතගැටුමකට එළැඹ සිටී.
+A collision occurred between two Philippine and two Chinese vessels in the disputed South China Sea. China alleges the incident was intentional, claiming the area belongs to them. The region is contested by several nations, including Taiwan and the Philippines.
 
-ඒ එම කලාපයට තායිවානය, පිලිපීනය ඇතුළු රටවල් කිහිපයක් ද හිමිකම් කීම හේතුවෙනි.
+🟩
 
-පිලිපීන සහ චීන වෙරළාරක්ෂක යාත්‍රා දෙකක් එකිනෙක ගැටීමේ පුවතක් අද (19) වාර්තාවූයේ එවන් පසුබිමකදීය.
+China has reached a vibrant with regional countries since the South Sea China Ocean region.
 
-පිලිපීන යාත්‍රාව හිතාමතාම තම නෞකාවේ ගැටුණු බවට චීනය චෝදනා කරයි.
+The region is claimed by Taiwan, including several countries, including the Philippines.
 
-ඔවුන් පවසන්නේ, පිලිපීන යාත්‍රා තමන්ට අයත් සාගර කලාපයට අනවසරයෙන් ඇතුළු වූ බවය.
+It is in such a situation that a news item reported that two Philippines and two Chinese coasting vessels clash today.
+
+China accuses the Philippine vessel intentional ship.
+
+They say that Philippine vessels entered the ocean region belonging to their belongings.
 
 ◼️
 
 [Data](articles/f34665f7.json)
 
+[Extended Data](ext_articles/f34665f7.ext.json)
+
 ---
 
-### ගෝඨාභය අපිට ආණ්ඩුව භාර ගන්න කියලා ආරාධනා කළේ නෑ
+### Gotabhaya did not invite us to take over the government
 
 *2024-08-19 13:32:44* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාභය-අපිට-ආණ්ඩුව-භාර-ගන්න-කියලා-ආරාධනා-කළේ-නෑ/11-411444) · `si`
 
-අරගල සමයේ එවකට ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා හෝ එවකට අග්‍රාමාත්‍ය මහින්ද රාජපක්ෂ මහතා ආණ්ඩුව භාරගන්නා ලෙස ජාතික ජන බලවේගයට ආරාධනයක් නොකල බව ජාතික ජන බලවේගයේ ජනාධිපතිවරණ අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා පැවසීය.
+Mahinda Rajapaksa stated that Gotabhaya Rajapaksa was not asked to lead the government during a struggle, expressing no surprise at the situation.
 
-කොළඹ අද(19දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-ජාතික ජන බලවේගයට ගෝඨාභය හෝ මහින්ද රාජපක්ෂලා ආණ්ඩුව ගන්න ආරාධනා කළේ නෑ. අපි ඒ ගැන පුදුම  වෙන්නෙත් නෑ. අපිට ආරාධනා කරන්නේ නෑ. හිතනවාද රාජපක්ෂලා බඳුනක තියලා අපිට මේක පවරලා දෙයි කියලා. එහෙම දෙන්නේ නෑ.
+President Mahinda Rajapaksa, MP Anura Kumara Dissanayake, said that the then President Gotabhaya Rajapaksa was not invited to accept the government at the time of the struggle.
+
+He was speaking at a media briefing held in Colombo today (19).
+
+Gotabhaya or Mahinda Rajapaksa did not invite the government to take the government. We will not be surprised. We're not invited. Do you think that the Rajapaksas put into a bowl and give us this. Does not give it.
 
 ◼️
 
 [Data](articles/eaaa2a5f.json)
 
+[Extended Data](ext_articles/eaaa2a5f.ext.json)
+
 ---
 
-### நட்சத்திர ஹோட்டலில் தோட்டா  சிக்கியது
+### The bullet was stuck in the star hotel
 
 *2024-08-19 13:19:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நட்சத்திர-ஹோட்டலில்-தோட்டா-சிக்கியது/175-342441) · `ta`
 
-கொழும்பில் உள்ள ஐந்து நட்சத்திர ஹோட்டல் ஒன்றின் நுழைவாயிலுக்கு அருகில் உயிருள்ள தோட்டா ஒன்று கண்டுபிடிக்கப்பட்டுள்ளதாக கோட்டை பொலிஸார் தெரிவித்துள்ளனர்.
+A live bullet was discovered near the entrance of a five-star hotel in Colombo during cleaning. It was found close to where security officers stayed, leading to ongoing investigations.
 
-ஹோட்டல் வளாகத்தை சுத்தம் செய்யும் பணியில் ஈடுபட்டிருந்த ஊழியர் ஒருவர் நுழைவாயிலுக்கு அருகில் உள்ள அரலிய மரத்திற்கு அருகில் உள்ள சுவரின் அடிபகுதியை  சுத்தம் செய்து கொண்டிருந்த போதே இந்த தோட்டா சிக்கியுள்ளது.
+🟩
 
-பிரமுகர்கள் ஹோட்டலில் வந்து தங்கியிருந்த நிலையில், பாதுகாப்பு அதிகாரிகள் இருந்த இடத்திலேயே இந்த தோட்டா கிடந்துள்ளது என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது என  பொலிஸ் உயர் அதிகாரி தெரிவித்தார்.
+Fort police said that a living bullet has been found near the entrance of a five -star hotel in Colombo.
+
+The bullet was caught while cleaning the wall of the wall near the entrance to the entrance of the hotel complex.
+
+Investigations have been found that the bullet was located on the spot where the security officers were staying at the hotel.
 
 ◼️
 
 [Data](articles/0b7a6ea8.json)
+
+[Extended Data](ext_articles/0b7a6ea8.ext.json)
 
 ---
 
@@ -148,21 +204,27 @@ The injured person has been hospitalized and his condition is serious.
 
 ---
 
-### விறகு லொறி ரயிலுடன் மோதியதில் ஒருவர் பலி
+### One person killed
 
 *2024-08-19 13:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விறகு-லொறி-ரயிலுடன்-மோதியதில்-ஒருவர்-பலி/175-342438) · `ta`
 
-விறகு ஏற்றிச் சென்ற லொறி, ரயிலுடன் மோதியதில் அதில் பயணித்த இருவரில் ஒருவர் உயிரிழந்துள்ளதுடன் மற்றையவர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக கொஸ்கொட பொலிஸார் தெரிவிக்கின்றனர்.
+In a tragic accident at Kosgoda Iduruva railway crossing, a 55-year-old man was killed and another seriously injured when a lorry carrying firewood collided with a train traveling from Galle to Colombo on Monday afternoon.
 
-இந்த சம்பவம், கொஸ்கொட இடுருவா பகுதியில் உள்ள புகையிரத கடவையில் திங்கட்கிழமை (19) பிற்பகல் இடம்பெற்றுள்ளது.
+🟩
 
-ஐம்பத்தைந்து வயதுடைய நபரொருவரே உயிரிழந்துள்ளதாகவும், அவரும் பலத்த காயமடைந்த நபரும் இடுருவா, மஹா இதுருவா பிரதேசத்தைச் சேர்ந்தவர்கள் எனவும் பொலிஸார் தெரிவிக்கின்றனர்.
+Kosgoda police said that one of the two passengers were killed and the other had been admitted to the hospital in a hospital where a lorry carrying firewood was collided with a train.
 
-கொஸ்கொடவில் இருந்து விறகு ஏற்றிச் சென்ற லொறியொன்று காலியிலிருந்து கொழும்பு நோக்கிச் சென்ற ரயிலுடன்  மோதியுள்ளதாக பொலிஸார் மேலும் தெரிவிக்கின்றனர்.
+The incident took place on Monday afternoon (19) at the railway crossing of Koskoda Iduruva.
+
+A fifty -five -year -old man has died and the man who was seriously injured is from Iduruwa and Maha Idruwa, police said.
+
+A lorry carrying firewood from Koskoda has been hit by a train from Galle to Colombo, police said.
 
 ◼️
 
 [Data](articles/3004cd84.json)
+
+[Extended Data](ext_articles/3004cd84.ext.json)
 
 ---
 
@@ -2261,45 +2323,5 @@ Although Ranil, Sajith, Anura and Namal were seen as the main candidates, the de
 [Data](articles/d02248a2.json)
 
 [Extended Data](ext_articles/d02248a2.ext.json)
-
----
-
-### River For Jaffna – White Elephant In The Offing
-
-*2024-08-18 18:33:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/river-for-jaffna-white-elephant-in-the-offing/) · `en`
-
-Recently while opening the de-salination plant in eastern Vadamaradchy, President Ranil Wickremesinghe said that he would commission river for Jaffna project, which Tamils are not going to take seriously. However it is worth examining feasibilty of it. Already there is one river in Jaffna peninsula, Valuki Aru, originating in Alavedy and confluencing at Araly, which in most of the time of the year runs dry. Hence this would be the second.
-
-One of the problem faced by people of Jaffna is the lack of potable and arable water supply. Ground water is the main source for agriculture in Jaffna through lift irrigation from wells, initially manually and now mechanised using pumps. While it is the preferred method for cash crops, rice cultivation is rain fed, where 90% of rain fall is in October to December. Due to excessive use of ground water, wells in some parts have turned brackish.
-
-...
-
-[Data](articles/4e4277d9.json)
-
-[Extended Data](ext_articles/4e4277d9.ext.json)
-
----
-
-### Calling for the Presidential Candidates again
-
-*2024-08-18 18:32:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்கள்-மீண்டும்-விவாதத்திற்கு-அழைப்பு/175-342393) · `ta`
-
-The Daily Mirror invites Ranil Wickremesinghe, Sajith Premadasa, Namal Rajapaksa, and Anuragumara Dissanayake for a presidential debate, aiming for constructive discourse rather than personal attacks. Initially, only Dissanayake accepted, with Wickremesinghe declining and Premadasa not responding. The newspaper's editor hopes for candidate participation, promising more details upon confirmation.
-
-🟩
-
-The Daily Mirror is calling Ranil Wickremesinghe, Sajith Premadasa, Namal Rajapaksa and Anuragumara Dissanayake for a direct presidential debate by our fraternity media like Daily Mirror and Lanka.
-
-When he first invited the debate two months ago, Anuragumara Dissanayake only accepted the invitation, while Wickremesinghe denied the invitation and Sajith did not respond.
-
-"It would not be a platform to cut each other's neck or tease anyone but rather as a platform for debate. We hope that the candidates will accept the challenge, ”said Daily Mirror Headmaster Jamila Hussain.
-
-The Daily Mirror said further information would be announced to our readers when our challenging candidates accepted for the debate.
-
-◼️
-
-[Data](articles/a95fbf6a.json)
-
-[Extended Data](ext_articles/a95fbf6a.ext.json)
 
 ---

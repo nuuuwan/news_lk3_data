@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 12:21:44**
+As of **2024-08-19 12:36:39**
 
 ## Newspaper Stats
 
-*Scraped **41,460** Articles*
+*Scraped **41,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 2,676
 adalk | 3,812
 dailymirrorlk | 4,733
 adaderanalk | 4,850
-tamilmirrorlk | 5,345
-virakesarilk | 6,569
+tamilmirrorlk | 5,346
+virakesarilk | 6,575
 adaderanasinhalalk | 7,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,460 (100.0%) of 41,460 articles have been extended.
+41,460 (100.0%) of 41,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### கடற்படையின் வெள்ள நிவாரணக் குழு பரகொடவுக்கு அனுப்பி வைப்பு
+
+*2024-08-19 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191415) · `ta`
+
+நாட்டில் நிலவும் சீரற்ற வானிலையால் களுத்துறை மாவட்டத்தின் பரகொட  பகுதிக்கு  நிவாரண நடவடிக்கைகளுக்கு குழுவொன்று அனுப்பப்பட்டுள்ளது.
+
+அதன்படி, களுத்துறை மாவட்டத்தின் புளத்சிங்கள பிரதேசத்தில் வெள்ளம் ஏற்பட்டுள்ளதால் பொதுமக்களுக்கு நிவாரணம் வழங்குவதற்காக வெள்ள நிவாரணக் குழு பரகொட பகுதிக்கு அனுப்பப்பட்டுள்ளது.
+
+இன்று திங்கட்கிழமை (19) பரகொடவில் வெள்ள நிவாரணப் பணிகளில் நிவாரணக் குழுவினர் ஈடுபட்டுள்ளனர்.
+
+மேலும், வெள்ளத்தினால் பாதிக்கப்பட்ட மக்களுக்கான அவசர உதவி நடவடிக்கைகளை முன்னெடுக்க இலங்கை கடற்படையின் நிவாரண குழுக்கள் தயார் நிலையில் வைக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/ba3e788f.json)
+
+---
+
+### குரங்கம்மை நோய் பரவல் குறித்து இலங்கை விழிப்புடன் உள்ளது - சுகாதார அதிகாரிகள்
+
+*2024-08-19 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/191408) · `ta`
+
+உலகளாவிய ரீதியில் குரங்கம்மை நோய் பரவல் அதிகரித்துள்ளமையினால் இலங்கையானது நோய் தொடர்பில் விழிப்புணர்வை அதிகரித்துள்ளதாக சுகாதார அதிகாரிகள் தெரிவிக்கின்றனர்.
+
+குரங்கம்மை நோயை  சர்வதேச சுகாதார அவசர நிலையாக உலக சுகாதார ஸ்தாபனம் பிரகடனம் செய்துள்ளது.
+
+குரம்மை நோய் தொற்றினால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை அதிகளாவாக பதிவாக வில்லை.  தற்காலிக முன்னெச்சரிக்கை நடவடிக்கைகள் செயலில் இருப்பதால்  நோய்  தாக்கம் தொடர்பில்  அச்சுறுத்தல் குறைவாக உள்ளது.
+
+பல நாடுகளில் பாதிக்கப்பட்டவர்களின்  எண்ணிக்கை குறிப்பிடத்தக்களவு  அதிகரித்துள்ளமையினால் விமான நிலையங்கள் மற்றும் துறைமுகங்களில் கண்காணிப்பு  நடடிவடிக்கைகளை  அதிகரிக்க திட்டமிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d2fc961e.json)
+
+---
+
+### மூன்று பொலிஸார் இடைநிறுத்தம்
+
+*2024-08-19 11:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-பொலிஸார்-இடைநிறுத்தம்/175-342431) · `ta`
+
+பக்கமூன பிரதேசத்தில் காட்டு யானை உயிரிழந்த சம்பவத்துடன் தொடர்புடைய மூன்று பொலிஸ் உத்தியோகத்தர்கள் சேவையில் இருந்து இடைநிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+ஒரு பொலிஸ் சர்ஜென்ட் மற்றும் இரண்டு கான்ஸ்டபிள்கள் ஆகியோரே இவ்வாறு இடைநிறுத்தம் செய்யப்பட்டுள்ளதாக பொலன்னறுவை சிரேஷ்ட பொலிஸ் அதிகாரிகள் அலுவலகம் தெரிவித்துள்ளது.
+
+கடந்த வாரம் (ஓகஸ்ட் 15) இரவு ரோந்துப் பணியில் ஈடுபட்டிருந்த பொலிஸ் அதிகாரிகள் குறித்த காட்டு யானை மீது துப்பாக்கிச் சூடு நடத்தினர்.
+
+துப்பாக்கிச் சூட்டில் காட்டு யானை சம்பவ இடத்திலேயே உயிரிழந்தது. யானையின் மரணம் தொடர்பில் குறித்த பொலிஸ் உத்தியோகத்தர்கள் பிரதேச வனவிலங்கு அதிகாரிகளால் கைது செய்யப்பட்டனர்.
+
+◼️
+
+[Data](articles/390a208e.json)
+
+---
 
 ### Published by three police officers
 
@@ -176,6 +230,22 @@ He made these remarks during his visit to the Tissamaharama Raja Maha Viharaya t
 
 ---
 
+### உலக புகைப்பட தினம்
+
+*2024-08-19 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191414) · `ta`
+
+ஆயிரம்  வார்த்தைகளால் சொல்ல முடியாத தகவலை  புகைப்படமானது ஒரு நொடிப் பொழுதிலே  பேசிவிட்டு செல்கிறது. ஒரு சிறந்த  புகைப்படவியல் என்பது பார்வையாளரின் மனங்களில் ஊடுருவி தாக்கத்தை ஏற்படுத்துவதாக இருக்க வேண்டும்.
+
+உலகப் புகைப்பட தினம் ஆகஸ்ட் 19ஆம் திகதி கொண்டாடப்படுகின்றது. இது புகைப்படத்தின் முக்கியத்துவம் மற்றும் புகைப்படக் கலைஞர்களின் பங்களிப்பைக் கொண்டாடும் நாளாகும்.
+
+19 ஆம் நூற்றாண்டின் பெருமை  அல்லது சாதனையை ஆரம்பத்திலே லூயிஸ் டாகுவேரே என்பவரினால் "டாகுரி யோடைப்" என புகைப்படத்தின் செயல் பாட்டு முறையை வடிவமைத்தார். பின்னர் 1839 ஆம் ஆண்டு லூயிஸ் டாகுரே பாரிஸில் உள்ள போல்வர்கு  கோயிலை அருகில் உள்ள தெருவை புகைப்படமாக எடுத்தார்.இதுவே தனிநபரினால் எடுக்கப்பட்ட முதல் புகைப்படமாக கருதப்படுகிறது.
+
+...
+
+[Data](articles/fb00a182.json)
+
+---
+
 ### EC warns against using national flag, religious symbols in election campaigns
 
 *2024-08-19 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101340/ec-warns-against-using-national-flag-religious-symbols-in-election-campaigns) · `en`
@@ -193,6 +263,22 @@ The Election Commission further says that the use of any religious symbols for e
 [Data](articles/22331ff5.json)
 
 [Extended Data](ext_articles/22331ff5.ext.json)
+
+---
+
+### யாழ். கடலில் 100 அடி ஆழத்தில் கடலட்டை பிடித்துக்கொண்டிருந்தவர் உயிரிழப்பு
+
+*2024-08-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191410) · `ta`
+
+யாழ்ப்பாண கடலில் சுமார் 100 அடி ஆழத்தில் கடலட்டை பிடித்துக்கொண்டிருந்த நபர் திடீரென நெஞ்சு வலி ஏற்பட்டு உயிரிழந்துள்ளார்.
+
+வடமராட்சி கிழக்கு, நாகர்கோவில் கடற்பகுதியில் சிலிண்டரை பயன்படுத்தி சுமார் 100 அடி ஆழத்தில் கடலட்டை பிடித்துக்கொண்டிருந்த வேளை, நெஞ்சு வலிப்பதாக கூறி, கடலின் மேல் பகுதிக்கு வந்துள்ளார்.
+
+அதனை அடுத்து சக தொழிலாளிகள் அவரை பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதித்த நிலையில், அங்கிருந்து யாழ்.போதனா வைத்தியசாலைக்கு கொண்டு சென்ற வேளை அவர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/8ada838a.json)
 
 ---
 
@@ -231,6 +317,22 @@ The armies of India and Sri Lanka have deployed canines “K9s” in military pa
 [Data](articles/7f666dd5.json)
 
 [Extended Data](ext_articles/7f666dd5.ext.json)
+
+---
+
+### அகில இலங்கை மக்கள் காங்கிரஸ் கட்சியின் அரசியல் அதிகார பீடம் ,உயர்பீட உறுப்பினர்களுக்கும் ஜனாதிபதி வேட்பாளரான சஜித் பிரேமதாசவிற்கும் இடையில் சந்திப்பு
+
+*2024-08-19 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191406) · `ta`
+
+அகில இலங்கை மக்கள் காங்கிரஸ் கட்சியின் அரசியல் அதிகார பீடம் மற்றும் உயர்பீட உறுப்பினர்களுக்கும், 2024 ஆம் ஆண்டு ஜனாதிபதி தேர்தலில் ஐக்கிய மக்கள் சக்தியினதும் ஐக்கிய மக்கள் கூட்டணியினதும் வேட்பாளராக போட்டியிடும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிற்கும் இடையிலான சினேகபூர்வ இராபோசன விருந்துபசார வைபவமொன்று கட்சியின் தலைவர் ரிஷாட் பதியுதீன் தலைமையில் சனிக்கிழமை (17) இரவு கொழும்பு கொள்ளுபிடி மென்டரின் ஹோட்டலில் இடம்பெற்றது.
+
+இந்நிகழ்வில் அகில அகில இலங்கை மக்கள் காங்கிரஸ் கட்சியின் நாடளாவிய ரீதியிலான அதன் அரசியல் அதிகார பீட மற்றும் உயர்பீட உறுப்பினர்கள் கலந்து கொண்டனர்.
+
+இந்நிகழ்வில், ஜனாதிபதி வேட்பாளர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுடன் ஐக்கிய மக்கள் சக்தியின் தவிசாளரும் பாராளுமன்ற உறுப்பினருமான இம்தியாஸ் பாக்கீர் மாக்கார், ஜனாதிபதி தேர்தல் செயற்பாட்டுப் பிரதானி சட்டத்தரணி சுஜீவ சேனசிங்க மற்றும் லக்‌ஷ்மன் பென்சேகா ஆகியோர் கலந்து கொண்டிருந்தனர்.
+
+...
+
+[Data](articles/0ead3999.json)
 
 ---
 
@@ -445,6 +547,22 @@ The Elections Commission says that the use of religious symbols for propaganda i
 [Data](articles/0c051349.json)
 
 [Extended Data](ext_articles/0c051349.ext.json)
+
+---
+
+### தேசிய முக்கியத்துவம் கருதியே ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க தீர்மானித்தேன் - நிஷாந்த ஸ்ரீ வர்ணசிங்க
+
+*2024-08-19 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191384) · `ta`
+
+ஜாதிக்க ஹெல உறுமய தலைமை எந்த தீர்மானம் எடுத்தாலும் தேசிய தேவை கருதி ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க தீர்மானித்தேன். வெற்றிபெறுவது எந்த பக்கமாக இருந்தாலும் சரியான பக்கத்தையே நான் தெரிவு செய்தேன் என ஐக்கிய தேசிய கட்சியில் புதிதாக இணைந்துகொண்ட ஜாதிக்க ஹெல உறுமயவின் முன்னாள் பிரதித் தலைவர் நிஷாந்த ஸ்ரீ வர்ணசிங்க தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் ஞாயிறுக்கிழமை (18) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+கோத்தாபய ராஜபக்ஷ் ஜனாதிபதி பதவியை துறந்தபோது, ரணில் விக்ரமசிங்க பாராளுமன்றத்தில் ஒரு ஆசனத்தை மாத்திரம் வைத்துக்கொண்டு, அந்த பொறுப்பை ஏற்றுக்கொண்டு, நாட்டை ஸ்திர நிலைக்கு கொண்டுவந்துள்ளார். இக்கட்டான நிலையில் நாட்டை பொறுப்பேற்று ஸ்திர நிலைக்கு கொண்டுவர அவர் எடுத்த நடவடிக்கையை நாங்கள் பார்த்தோம்.
+
+...
+
+[Data](articles/a1f4fc2b.json)
 
 ---
 
@@ -2157,175 +2275,5 @@ The Meteorologies have informed the people to take necessary steps to reduce the
 [Data](articles/812f175d.json)
 
 [Extended Data](ext_articles/812f175d.ext.json)
-
----
-
-### Casual few children destroy a family
-
-*2024-08-18 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200071) · `si`
-
-In a tragic incident, a woman was killed by her husband in Wennappuwa after confessing to police that she attempted to leave him for a lover in Kochchikade, Negombo. The couple's children witnessed the event. The husband, a coconut worker, claimed financial strain led him to send his wife abroad two years prior. Upon her return, she resumed her affair and refused to leave her lover's house, leading to a violent confrontation. Their eldest child, 14, tried to save his mother but was unsuccessful. The woman was hospitalized but succumbed to her injuries. The husband has been arrested, and the children, aged 3, 9, and 14, are under probation.
-
-🟩
-
-A person who had been arrested in the Wennappuwa area today (18), police said.
-
-The suspect has confessed that the wife tried to leave the home without feeling concerned with her children due to a casual relationship and to prevent it to the wife's body.
-
-Due to economic difficulties, she had sent her to the Middle East to serve as a householder 2 years ago.
-
-However, his wife has been building a casual relationship with a person living in Kochchikade area, Negombo.
-
-The suspect had told the police that she had sent more money from the casual mummy and had sent a small amount of money and children.
-
-Although his wife had arrived in Sri Lanka a few months ago, but she went to the house where he had unable to go home and went to the house of Kochchikade and lived with him.
-
-He said that despite the clash, he had not had a conflict and his second son was told to come home to visit her children.
-
-Accordingly, the woman who arrived at the house on the 10th was ready to leave the house on the 14th.
-
-...
-
-[Data](articles/c82af787.json)
-
-[Extended Data](ext_articles/c82af787.ext.json)
-
----
-
-### Fairly heavy showers over 75mm expected during next 36 hours
-
-*2024-08-18 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101329/fairly-heavy-showers-over-75mm-expected-during-next-36-hours) · `en`
-
-The Department of Meteorology says that showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provincesand in Kandy, Nuwara-Eliya, Galle and Matara districts during next 36 hours.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it added.
-
-Showers or thundershowers will occur at several places elsewhere over the island during the evening or night.
-
-Meanwhile, the Met. Dept. states that fairly strong winds about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/b7c7492c.json)
-
-[Extended Data](ext_articles/b7c7492c.ext.json)
-
----
-
-### Beginning of Social Media Surveillance - Election Monitoring Organization
-
-*2024-08-18 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191370) · `ta`
-
-Powell, an election monitoring group, has started its pre-election surveillance. The director announced training for local superintendents and plans to deliver social media monitoring reports to the Election Commission starting next week.
-
-🟩
-
-Powell, the election monitoring organization, said that the election monitoring process has begun pre -election day.
-
-The Executive Director of the Powell Organization said that the process has begun to provide training to the election superintendents in the district.
-
-He said he would submit social media monitoring reports to the Election Commission from next Monday.
-
-◼️
-
-[Data](articles/8efb1a3e.json)
-
-[Extended Data](ext_articles/8efb1a3e.ext.json)
-
----
-
-### Superior French actories dies
-
-*2024-08-18 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200070) · `si`
-
-Alan Delanen, a prominent French actor known for roles in "The Samurai" and "Borsalino," passed away peacefully at home. His contributions to French cinema were significant.
-
-🟩
-
-Alan Delanen has died as the handsome actor in French cinema.
-
-He is well known as an actor who has made a unique role in the French cinema.
-
-His performance was special in films such as "The samurai" and "borsalino".
-
-"At his home, he was very peaceable in his home," said his family members.
-
-◼️
-
-[Data](articles/09b15589.json)
-
-[Extended Data](ext_articles/09b15589.ext.json)
-
----
-
-### CWC support for Ranil
-
-*2024-08-18 16:21:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கே-இ-தொ-கா-ஆதரவு/175-342389) · `ta`
-
-The Ceylon Workers Congress has endorsed President Ranil Wickremesinghe for the upcoming presidential election, deciding this during their National Council Meeting. A Memorandum of Understanding will be signed, affirming their support.
-
-🟩
-
-The Ceylon Workers Congress has decided to support President Ranil Wickremesinghe in the upcoming presidential election.
-
-The National Council Meeting of the Ceylon Workers Congress was held on Sunday (18) at Kotagala CLF. The Ceylon Workers Congress has officially said that the Ceylon Workers Congress will extend its support to President Ranil Wickremesinghe as the decision of the National Council at the meeting.
-
-The Memorandum of Understanding (MoU) will be signed by the President's attention to the President.
-
-◼️
-
-[Data](articles/51f4ef4a.json)
-
-[Extended Data](ext_articles/51f4ef4a.ext.json)
-
----
-
-### Sajith Premadasa promises to recover country’s economy through foreign aid
-
-*2024-08-18 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101328/sajith-premadasa-promises-to-recover-countrys-economy-through-foreign-aid) · `en`
-
-Samagi Jana Balawegaya’s (SJB) presidential candidate Sajith Premadasa says that he will be initiating a recovery program for the country’s economy with the help of foreign aid after his presidential election victory.
-
-Speaking at a public rally in Bandaragama, he highlighted that true development means the welfare and development of the people.
-
-“For us, the development means the development of 2.2 million people in this country, not just statistics”, said Premadasa.
-
-He further criticized the current government for its focus on personal gains while neglecting the needs of 22 million citizens who are struggling.
-
-“As the election approaches, they make misleading promises, attempting to deceive the populace. It is not impossible to deceive the people of the country at the moment”, he added.
-
-“Support us in creating a new era of development for everyone. We are committed to addressing and resolving the country’s issues with the help of foreign aid”, he said.
-
-◼️
-
-[Data](articles/faa6b9f9.json)
-
-[Extended Data](ext_articles/faa6b9f9.ext.json)
-
----
-
-### Judicial doctor arrested for influence the Thanamalwila girl
-
-*2024-08-18 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200069) · `si`
-
-A judicial doctor was arrested by the Child Protection Authority for allegedly influencing a medical test result related to a girl from Thanamalwila. The doctor was later released on bail. Meanwhile, 21 schoolchildren involved in the case were remanded, and four teachers, including the principal, were also arrested but released on bail.
-
-🟩
-
-The Medical Testing Medical Test to the Medical Test for the rapid of the girl was arrested by the Child Protection Authority yesterday evening yesterday (17).
-
-However, after being produced before the Hambantota Magistrate's Court, was released on a personal bail of Rs.
-
-A total of 21 school children involved in the incident are being remanded and seized by probation.
-
-Four teachers, including the school principal, was arrested and released on bail after being accused of contemplating the incident.
-
-◼️
-
-[Data](articles/b63834df.json)
-
-[Extended Data](ext_articles/b63834df.ext.json)
 
 ---

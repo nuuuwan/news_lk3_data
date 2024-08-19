@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 01:56:03**
+As of **2024-08-20 02:06:39**
 
 ## Newspaper Stats
 
-*Scraped **41,552** Articles*
+*Scraped **41,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 383
 colombotelegraphcom | 398
 islandlk | 2,402
 economynextcom | 2,507
-dailyftlk | 2,678
+dailyftlk | 2,679
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
-tamilmirrorlk | 5,361
+tamilmirrorlk | 5,363
 virakesarilk | 6,594
 adaderanasinhalalk | 7,091
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,552 (100.0%) of 41,552 articles have been extended.
+41,552 (100.0%) of 41,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### 27அங்குலம் நீளமானது
+
+*2024-08-20 01:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/27அங்குலம்-நீளமானது/175-342478) · `ta`
+
+ஜனாதிபதித் தேர்தல் தொடர்பான வாக்குச் சீட்டுகளை அச்சிடும் பணிகள் ஏற்கனவே ஆரம்பிக்கப்பட்டுள்ளதாக அரசாங்க அச்சக அலுவலகத்தின் பிரதானி திருமதி கங்கானி கல்பானி லியனகே தெரிவித்தார்.
+
+வாக்குச் சீட்டு அச்சடிப்பது தொடர்பாக தேர்தல் ஆணையத்திடம் பலமுறை பேச்சுவார்த்தை நடத்தியதையடுத்து, வாக்குச் சீட்டு முத்திரைகளை கடனாக வழங்கும் பணி தொடங்கியுள்ளது. இம்முறை வாக்குச் சீட்டு 26 அல்லது 27 அங்குலம் நீளமாக இருக்கலாம் என திருமதி கங்கானி கல்பானி லியனகே தெரிவித்தார்.
+
+சம்பந்தப்பட்ட அச்சுப் பணிகளுக்கு பொருள் தட்டுப்பாடு இல்லை. இன்னும் ஓரிரு நாட்களில் வாக்குச் சீட்டு அச்சடிக்கும் பணி நிறைவடையும் என்றார். வாக்குச் சீட்டுகள் அச்சடிக்கும் பணிகள் முடிவடைந்தவுடன் சிறப்பு பாதுகாப்புடன் தேசிய தேர்தல் ஆணையத்திடம் ஒப்படைக்க திட்டமிடப்பட்டுள்ளது.
+
+அரசாங்க அச்சகத்திற்கு போதிய பாதுகாப்பு வழங்கப்பட்டுள்ளதாக அரசாங்க அச்சகத்தின் பிரதானி திருமதி கங்கானி கல்பானி லியனகே மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/fbabbab2.json)
+
+---
+
+### Revisiting “Dhasa Raja Dharma”: Rhetoric or reality?
+
+*2024-08-20 01:38:01* · [`dailyftlk`](https://www.ft.lk/columns/Revisiting-Dhasa-Raja-Dharma-Rhetoric-or-reality/4-765724) · `en`
+
+Times are interesting when 39 candidates have come forward to “serve the nation” in seeking the pinnacle post. General public is fed up of non-sensical utterings from so called leaders. The true virtues of valued leadership are very high in demand. I thought it is an opportune time to discuss a timely research initiative with a deep dive into the availability and applicability of “Dasa Raja Dharma” in the current Sri Lankan context. Today’s column is all about it.
+
+...
+
+[Data](articles/84a9dd62.json)
+
+---
+
+### ’குப்பைகளை சேர்க்க முயற்சி’
+
+*2024-08-20 01:37:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குப்பைகளை-சேர்க்க-முயற்சி/175-342477) · `ta`
+
+தற்போதய அரசியல் மிகவும் தீவிரமான பாசறைகளாக மாறியிருக்கின்றது என்று தெரிவித்த தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுர குமார திசாநாயக்க, குப்பைகளை சேர்க்கவே முயற்சி செய்கின்றனர் என்றார்.
+
+மக்கள் விடுதலை முன்னணியின் தலைமையகத்தில், ஞாயிற்றுக்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்துரைத்த போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+இந்த பாராளுமன்றத்தில் நீண்டகாலமாக அமைச்சுப் பதவிகளை வகித்த அரசாங்கங்களை அமைத்தவர்களே இருக்கிறார்கள். அவர்களின் தேர்தல் இயக்கம் இந்த சிறப்புரிமைகளை ஒருவருக்கொருவர் பகிர்ந்து கொள்வதாகும். அதாவது இந்த நாட்டை அதலபாதாளத்தில் தள்ளிவிட்ட  மோசடிகள் ஊழல்கள் நிறைந்த கலாச்சாரத்தை ஏற்படுத்திய குழுக்கள் பகிர்ந்து கொள்வதிலான மல்லுக்கட்டலில் ஈடுபட்டுள்ளார்கள்.
+
+ரணில் விக்கிரமசிங்க ஒரு பகுதியை அபகரித்துக் கொள்ள முயற்சி செய்கிறார். நாமல் ராஜபக்ஷ ஒரு பகுதியை வைத்துக்கொள்ள முயற்சி செய்கிறார். சஜித் பிரேமதாஸ ஒன்றுசேர்ந்த குப்பை மேடுகளை சேர்த்துக் கொள்ள முயற்சி செய்கிறார். அதுதான் அவர்களின் தேர்தல் இயக்கம்.
+
+...
+
+[Data](articles/6bd63d96.json)
+
+---
 
 ### Key lessons from Bangladesh crisis
 
@@ -2279,75 +2327,5 @@ The Presidential candidate Sajith Premadasa and the political power and high -ra
 [Data](articles/0ead3999.json)
 
 [Extended Data](ext_articles/0ead3999.ext.json)
-
----
-
-### Decision to open schools and universities in Bangladesh
-
-*2024-08-19 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200090) · `si`
-
-Bangladesh will reopen schools and universities after closing them for a month due to protests. The Ministry of Education announced the decision, which comes after taking steps to shut down educational institutions starting from March 17th.
-
-🟩
-
-It has been decided to reopen schools and universities closed in Bangladesh.
-
-The authorities have taken steps to close the schools and universities from the 17th of last month due to protests and clashes demanding the reconstruction of the Job Corto.
-
-The Ministry of Education has reportedly informed the resettlement of schools and universities in Bangladesh over a month.
-
-◼️
-
-[Data](articles/db1d3784.json)
-
-[Extended Data](ext_articles/db1d3784.ext.json)
-
----
-
-### Rishad emergency letter to the president
-
-*2024-08-19 10:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-ரிஷாட்-அவசர-கடிதம்/175-342423) · `ta`
-
-Rishad Bathiudeen, head of the All Ceylon People's Congress, criticized President Ranil Wickremesinghe for suspending funds for North and East development projects, accusing him of favoritism towards opposition leader Sajith Premadasa ahead of the presidential election. Despite thanking the President for supporting various development initiatives, Bathiudeen expressed concern over sudden halt orders for projects without explanation. He urged immediate intervention to resume the projects, warning potential legal action if necessary.
-
-🟩
-
-All Ceylon People's Congress President Rishad Bathiudeen has questioned the suspension of government funds for the development projects of the North and East.
-
-In a letter to President Ranil Wickremesinghe, MP Badiudeen has accused President Ranil Wickremesinghe of the financial stop following promising to support opposition leader Sajith Premadasa in the upcoming presidential election.
-
-MP Badiudeen thanked the President for allocating a significant amount of development activities, considering the demands of the people, rural development associations, registered corporations, welfare societies and other socially based organizations.
-
-However, he pointed out that letters have been sent to stop the projects immediately and withdraw the quota without any reasonable reason.
-
-...
-
-[Data](articles/30a4b6db.json)
-
-[Extended Data](ext_articles/30a4b6db.ext.json)
-
----
-
-### Emergency letter to Rishad Bathiudeen President
-
-*2024-08-19 10:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிஷாட்-பதியுதீன்-ஜனாதிபதிக்கு-அவசர-கடிதம்/175-342423) · `ta`
-
-Rishad Bathiudeen, President of All Ceylon People's Congress, criticized President Ranil Wickremesinghe for suspending funds for North and East development projects, accusing him of favoritism towards opposition leader Sajith Premadasa ahead of the presidential election. Despite thanking the President for supporting various development initiatives, Bathiudeen expressed disappointment over the sudden halt of projects without justification. He urged immediate intervention to resume the projects, threatening legal action if necessary.
-
-🟩
-
-All Ceylon People's Congress President Rishad Bathiudeen has questioned the suspension of government funds for the development projects of the North and East.
-
-In a letter to President Ranil Wickremesinghe, MP Badiudeen has accused President Ranil Wickremesinghe of the financial stop following promising to support opposition leader Sajith Premadasa in the upcoming presidential election.
-
-MP Badiudeen thanked the President for allocating a significant amount of development activities, considering the demands of the people, rural development associations, registered corporations, welfare societies and other socially based organizations.
-
-However, he pointed out that letters have been sent to stop the projects immediately and withdraw the quota without any reasonable reason.
-
-...
-
-[Data](articles/8196adbe.json)
-
-[Extended Data](ext_articles/8196adbe.ext.json)
 
 ---

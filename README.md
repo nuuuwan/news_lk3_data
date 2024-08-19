@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 09:22:14**
+As of **2024-08-19 09:36:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,069
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,435 (100.0%) of 41,436 articles have been extended.
+41,436 (100.0%) of 41,436 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1328,15 +1328,21 @@ Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wick
 
 ---
 
-### මහනුවර අවසන් රන්දෝලි පෙරහර අද
+### Randoli Perahera of Kandy today
 
 *2024-08-18 18:15:19* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අවසන්-රන්දෝලි-පෙරහර-අද/11-411433) · `si`
 
-මහනුවර ඓතිහාසික ඇසළ පෙරහරේ අවසන් රන්දෝලි මහ පෙරහර හෙට (19) වීදි සංචාරය කිරීමට නියමිතය. රාත්‍රී 6.57යෙදෙන සුබ මොහොතින් උතුරු දිශාභිමුඛව පෙරහර පිටත්ව දළදා වීදියෙන් පහළට පැමිණ යටිනුවර වීදියට හැරී ඉදිරියට පැමිණ කන්දේ වීදියෙන් ඩී.එස්.සේනානායක වීදියට සේන්දු වී රජ වීදිය හන්දියට පැමිණ ඉහළට විත් පෙරහර ගෙවදීමට නියමිතය .
+The Randoli Perahera, part of the traditional Esala Perahera in Kandy, will parade through various streets including Northern Street, DSDayakanayake Street, Viraluwara, and Rady, concluding at the HS. This event is scheduled for tomorrow (19), showcasing a vibrant display of culture and tradition.
+
+🟩
+
+Randoli Perahera of the historical Esala Perahera of Kandy is due to visit the streets tomorrow (19). The Northern Street, leaving the Yatinuwara Street, to the DSDayakanayake Street to the Street, to the HS, Viraluwara and Rady is to arrive at the HS.
 
 ◼️
 
 [Data](articles/1899eede.json)
+
+[Extended Data](ext_articles/1899eede.ext.json)
 
 ---
 

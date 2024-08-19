@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 17:37:08**
+As of **2024-08-19 17:57:34**
 
 ## Newspaper Stats
 
-*Scraped **41,509** Articles*
+*Scraped **41,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,81 @@ dailymirrorlk | 4,733
 adaderanalk | 4,859
 tamilmirrorlk | 5,352
 virakesarilk | 6,585
-adaderanasinhalalk | 7,083
+adaderanasinhalalk | 7,084
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,505 (100.0%) of 41,509 articles have been extended.
+41,509 (100.0%) of 41,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### ගුවන්තොටේ සැප බස් සේවාව දින 4න් නවතී
+### දිනක් තුළ මැතිවරණ පැමිණිලි 65ක්
+
+*2024-08-19 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200104) · `si`
+
+ගත වූ පැය 24ක කාලය තුළ මැතිවරණ පැමිණිලි 65ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+ජාතික මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට පැමිණිලි 35ක් සහ දිස්ත්‍රික් මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට පැමිණිලි 30ක් සඳහන්ය.
+
+මේ අතර පසුගිය ජුලි 31 සිට ඊයේ (18) දිනය දක්වා සමස්ත පැමිණිලි 631ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d6eb1bf8.json)
+
+---
+
+### Facilities in the airport bus service at 4 days
 
 *2024-08-19 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200103) · `si`
 
-කටුනායක ගුවන්තොටුපොළේ සිට කොටුව දුම්රිය ස්ථානය සහ මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය වෙත ආරම්භකළ සුඛෝපභෝගී බස් සේවාව අද (19) සිට ක්‍රියාත්මක වන පරිදි තාවකාලිකව නවතා දමා ඇත.
+Luxury bus service from Katunayake airport to Fort Railway Station and Makulura area center was launched but later stopped due to protests. The Airport-Fort Private Luxury Bus Association initiated a strike and approached the Ministry of Transport and Highways. Despite this, 10 buses were allocated to replace others, as stated by the president of the airport's private Luxury Bus Association, Indika Gunasekara.
 
-මෙම සුඛෝපභෝගී බස් සේවාව මේ මස 15වැනිදා ආරම්භ කළ අතර, එදිනම ඊට විරෝධතා එල්ල විය.
+🟩
 
-විශේෂයෙන් ගුවන්තොටුපොළ - කොටුව පෞද්ගලික සුඛෝපභෝගී බස් රථ සංගමය විරෝධතා ඉදිරිපත් කරමින් බස් රථ වර්ජනයක්ද ආරම්භ කරනු ලැබීය.
+The luxury bus service opened from Katunayake airport to Fort Railway Station and the Makulura area center has been temporarily stopped.
 
-ඊට අමතරව ඔවුන් ප්‍රවාහන සහ මහාමාර්ග අමාත්‍යාංශය සහ මැතිවරණ කොමසාරිස් කාර්යාලය වෙත ගොස් තම විරෝධතාව ඉදිරිපත් කර තිබුණි.
+The luxury bus service was launched on the 15th and the protest was protesting on the 15th.
 
-මෙම විරෝධතා ව්‍යාපාරයට කටුනායක ගුවන්තොටුපොළ කුළී රථ ධාවන සංගම් ද සිය සහයෝගය පළ කළේය.
+The airport - Fort private Luxury Bus Association was also opened a bus strike on protests.
 
-ඒ අනුව සියල්ල සළකාබලා සුඛෝපභෝගී බස් රථ ධාවනය ආරම්භ කර දින 04කට පසුව නවතා දැමීමට පියවර ගෙන ඇත.
+In addition, they had gone to the Ministry of Transport and Highways and their protest.
 
-කෙසේ නමුත් නවතා දැමූ බස් රථ වෙනුවට තම බස් සංගමයේ දිනකට ධාවනයෙන් ඉවත් වන බස් රථ 10ක් , ගුවන්තොටුපොළේ සිට කොටුව දුම්රිය ස්ථානය සහ මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය වෙත ධාවනය කරවීමට නියමිත බව ගුවන්තොටුපොළ පෞද්ගලික සුඛෝපභෝගී බස් රථ සංගමයේ සභාපති ඉන්දික ගුණසේකර මහතා පැවසීය.
+Katunayake airport rental associations have also supported the protest.
+
+Accordingly, steps have been taken to stop the luxury buses and the opening of luxury buses.
+
+However, 10 buses will be driven to the bus association to replace the buses of the buses, the airport's private Luxury Bus Association President Indika Gunasekara said.
 
 ◼️
 
 [Data](articles/b8862096.json)
 
+[Extended Data](ext_articles/b8862096.ext.json)
+
 ---
 
-### வெடிகுண்டு தாக்கப்பட்ட காருடன் வந்த பொன்சேகா
+### Fonseka came with a bomb hit car
 
 *2024-08-19 17:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடிகுண்டு-தாக்கப்பட்ட-காருடன்-வந்த-பொன்சேகா/175-342451) · `ta`
 
-இந்த ஆண்டு நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் சரத் பொன்சேகா லந்தர் சின்னத்தில் சுயேட்சை வேட்பாளராக போட்டியிடுகின்றதுடன் அவரின் முதலாவது தேர்தல் பேரணி ஞாயிற்றுக்கிழமை (18) இடம்பெற்றது.
+Sarath Fonseka, running as an independent candidate in Sri Lanka's presidential election, made headlines by bringing a car damaged by a bomb to his inaugural rally. This symbolic gesture underscores his resilience and determination amidst adversity.
 
-இதன்போது வெடிகுண்டு தாக்கப்பட்ட காரையும் அவர் தனது பேரணிக்கு கொண்டு வந்திருந்தமை  குறிப்பிடத்தக்கது .
+🟩
+
+Sarath Fonseka is contesting as an independent candidate at the Lander symbol in this year's presidential election and her first election rally was held on Sunday (18).
+
+It is noteworthy that he also brought the bomb car to his rally.
 
 ◼️
 
 [Data](articles/66fcca11.json)
+
+[Extended Data](ext_articles/66fcca11.ext.json)
 
 ---
 
@@ -85,6 +113,8 @@ ITAK Member of Parliament Shanakiyan Rasamanickam stated that the party’s fina
 ◼️
 
 [Data](articles/7263eb6b.json)
+
+[Extended Data](ext_articles/7263eb6b.ext.json)
 
 ---
 
@@ -316,23 +346,33 @@ The party has decided to hand over the support of the National Party in the Pres
 
 ---
 
-### දින තුනක් තුළ එකම ආකාරයකින් ජිවිතයෙන් සමුගත් යතුරුපැදිකරුවෝ
+### Motorists who have passed the lives of the same way in three days
 
 *2024-08-19 15:29:38* · [`adalk`](https://www.ada.lk/breaking_news/දින-තුනක්-තුළ-එකම-ආකාරයකින්-ජිවිතයෙන්-සමුගත්-යතුරුපැදිකරුවෝ/11-411445) · `si`
 
-නීත්‍යානුකූල බලපත්‍රයක් හෝ හිස්වැසුමක් හෝ නොමැතිව  එකම වයසේ පාසල් සිසුන් දෙදෙනෙකු යතුරු පැදි ධාවනයේ යෙදෙමින් සිටියදී  රිය අනතුරු වලට ලක්ව මියයාමේ සිදුවීම් දෙකක් දින තුනක් ඇතුළත  වාර්තා වූ බව හෝමාගම මූලික රෝහල පවසයි.
+In three days, two school students died in separate motorcycle accidents without helmets or licenses. The first incident involved two motorcycles colliding near Hanwella on the 15th, followed by another where a girl was hit by a tipper truck on a Meegoda road. The girl, Subimuous Sashhawkhakhaku Wijesinghe, was critically injured and later pronounced dead at Homagama Base Hospital. The post-mortem revealed severe chest injuries as the cause of death. Both accidents highlighted the lack of safety measures among young riders.
 
-ඉන් පළමු වැන්න ඉකුත් 15 දා හංවැල්ල වැලිපිල්ලෑව ප්‍රදේශයෙන් වාර්තා වූ අතර එහිදී යතුරුපැදි දෙකක් මුහුණට මුහුණ ගැටී දාහත් හැවිරිදි පාසල් සිසුවකු ඉන් මියගොස් තිබුණි.
+🟩
 
-ඉන් දින තුනකට පසුව  මීගොඩ , දාම්පේ මාර්ගයේදී ටිපර් රථයක යතුරු පැදියක් ගැටී රිය අනතුරක් සිදුව තිබූ අතර අනතුරින් පැදිකරු හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මෙසේ මියගොස් තිබේ.
+The Homagama Base Hospital says that two incidents of death were reported in three days when two-aged school students were running a legitimate license or a helmet.
 
-මෙසේ මියගොස් ඇත්තේ මීගොඩ දාම්පේ අංක 226/ B ,  හි පදිංචි පෙරුම්බුලි අච්චිගේ සුබෝධ සශ්මික විජේසිංහ නමැති (17) හැවිරිදි  පාසල් සිසුවකු බව මීගොඩ පොලිසිය පවසයි.
+The first was reported from Welpillawa area in Hanwella on the 15th and two motorcycles had died in the face of two motorbikes.
 
-අනතුරින් පසුව ටිපර් රථ රියදුරු නො නවත්වා රථය ධාවනය කර ඇති අතර අනතුර සිදුවන අයුරු ඒ පසුපසින් ධාවනය වූ ත්‍රී රෝද රථ රියැදුරෙකු දැක කිලෝමීටර් ගණනක් පසුපස  ලුහුබැන්දද ටිපර් රථය අල්ලා ගැනීමට නොහැකු වී තිබූ බව පොලීසිය පවසයි.
+Three days later, a motorcycle was killed in a tipper in Meegoda and Dampura road.
+
+The deceased has been identified as a schoolgirl, Subimuous Sashhawkhakhaku Wijesinghe, a resident of Meegoda DM, 226 / B, in Meegoda.
+
+The tipper driver has not stopped and the accident has been driven by the accident and the tipper was unable to catch a three-wheeler driver.
+
+The schoolgirl was later informed a sacred ambulance to take the hospital to the hospital.
+
+Accordingly, the school student who was admitted to hospital was deceased and the Death of the Homagama Homagama Hospital Dr. Damith Attanayake made the post mortem examination.Was done.
 
 ...
 
 [Data](articles/d5b18af0.json)
+
+[Extended Data](ext_articles/d5b18af0.ext.json)
 
 ---
 
@@ -2303,33 +2343,5 @@ So he asked what to do. Arjuna's Mahendra is banding the main.  උසාවි
 [Data](articles/8f3738e2.json)
 
 [Extended Data](ext_articles/8f3738e2.ext.json)
-
----
-
-### Romantic epic birds
-
-*2024-08-18 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191392) · `ta`
-
-The Hornbill, a unique bird known for its romantic behavior, exhibits a fascinating mating ritual. Males provide fruits and insects to females, who are only courted if they show interest. After pairing, both sexes engage in love flights, showcasing their bond. Nesting involves the female creating a natural wooden pod, where she lays eggs and later feeds the chicks through a small opening. The male then takes over, feeding and teaching the young to fly. However, during incubation, the female must find food, highlighting the high stakes of love and survival in the wild.
-
-🟩
-
-The rare, beautiful bird of birds is the two -year -old bird's crowd that can be called the Horn Bill. Irukachi is the family name of the two ethnic groups.
-
-The family is called Hornbill ”. There are 54 species of two species around the world.
-
-These live in Nepal, the Andaman Islands of India and the Western Ghats of India, Arunachal Pradesh.. There are 9 species here. There are 4 types of two types in South India.
-
-These are the male dual bird that first provides fruit and insects for the female. Only if the female is attracted to it, the male bird will choose her parallel.
-
-Then, wherever you go to the intermittent searches to express their love, the male bird and the female bird will go together.
-
-During the reproductive reproduction of love. The nest of these species is the natural wooden pods. During the breeding season, female birds go into the cage before laying eggs.
-
-...
-
-[Data](articles/ae55e264.json)
-
-[Extended Data](ext_articles/ae55e264.ext.json)
 
 ---

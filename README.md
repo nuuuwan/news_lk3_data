@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 04:55:36**
+As of **2024-08-20 05:06:18**
 
 ## Newspaper Stats
 
-*Scraped **41,568** Articles*
+*Scraped **41,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,687
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
-tamilmirrorlk | 5,367
+tamilmirrorlk | 5,369
 virakesarilk | 6,594
 adaderanasinhalalk | 7,091
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,567 (100.0%) of 41,568 articles have been extended.
+41,567 (100.0%) of 41,570 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -195,6 +195,22 @@ IMF  குறிப்பிட்டதால்தான் அப்பட�
 ...
 
 [Data](articles/910eccd3.json)
+
+---
+
+### ’நெருக்கடியை வென்ற இரண்டு வருடப் பணிகள்’
+
+*2024-08-20 02:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெருக்கடியை-வென்ற-இரண்டு-வருடப்-பணிகள்/175-342482) · `ta`
+
+நாட்டின் வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்டெடுத்து, ஸ்திரத்தன்மையை ஏற்படுத்தி,  முன்னேற்றப் பாதைக்கு கொண்டு வருவதற்காக கடந்த இரண்டு வருடங்களில் ஜனாதிபதி ரணில் விக்ரமசிங்க சிறப்பான பணிகளை ஆற்றினார் என ஜனாதிபதி ஊடகப் பிரிவு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+அனைத்து அம்சங்களிலும் வீழ்ச்சியடைந்திருந்த எமது நாட்டின் பொருளாதாரத்தை மாத்திரமன்றி,  ஸ்திரத்தன்மை மற்றும் முன்னேற்றத்திற்கு அவசியமான அனைத்துத் துறைகளையும் உள்ளடக்கிய வகையில் ஜனாதிபதியின் வேலைத்திட்டங்கள் அமைந்திருந்தன.
+
+பொருளாதார பரிமாற்றச் சட்டத்தை நிறைவேற்றி, வரலாற்றில் முதல்முறையாக, தேசியத் திட்டம், இலக்குமயப்பட்ட வேலைத் திட்டம் மற்றும் பொறுப்புக்கூறல் ஆகியவற்றிற்குள் ஆட்சி நடைபெறும் சூழலை உருவாக்குதல், அரச நிதி முகாமைத்துவ சட்டத்தினை நிறைவேற்றியதன் மூலம் நாட்டில் முறையான நிதி ஒழுக்கத்தை ஏற்படுத்துதல், 83 புதிய சட்டங்கள் மற்றும் சட்ட வரைவுகளை நிறைவேற்றுவதற்காக பாராளுமன்றத்தில் சமர்ப்பித்து இந்நாட்டிற்குத் தேவையான சட்ட சீர்திருத்தங்களை மேற்கொள்ளப்பட்டுள்ளன.
+
+...
+
+[Data](articles/a3b195a1.json)
 
 ---
 
@@ -585,6 +601,18 @@ Coast Guard Officers have commenced search operations in search of the six disap
 [Data](articles/3ef2d95c.json)
 
 [Extended Data](ext_articles/3ef2d95c.ext.json)
+
+---
+
+### ஹரிஸ் எம்.பி இடைநிறுத்தம்
+
+*2024-08-19 21:08:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஹரிஸ்-எம்-பி-இடைநிறுத்தம்/150-342458) · `ta`
+
+சிறிலங்கா முஸ்லிம் காங்கிஸின் உறுப்பினர் பதவியிலிருந்து பாராளுமன்ற உறுப்பினர் ஹரீஸ் தற்காலிகமாக இடைநிறுத்தம் இது தொடர்பில் எழுத்து மூலம் நாளை அவருக்கு அறிவிக்கப்படும் -ஓட்டமாவடியில் இன்று நடைபெற்ற கூட்டத்தில் கட்சித் தலைவர் ரவூப் ஹக்கீம் அறிவிப்பு-
+
+◼️
+
+[Data](articles/20d25427.json)
 
 ---
 
@@ -2247,53 +2275,5 @@ The Services PMI recorded 71.1 in July after a 63.5 points in June.
 [Data](articles/09754f56.json)
 
 [Extended Data](ext_articles/09754f56.ext.json)
-
----
-
-### Navy's Flood Relief Committee sent to Paragoda
-
-*2024-08-19 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191415) · `ta`
-
-A committee from the Navy's Flood Relief was dispatched to Paragoda in the Kalutara district due to severe weather causing floods. The team began relief efforts on Monday, aiming to assist those affected by the disaster.
-
-🟩
-
-Due to the inclement weather in the country, a committee has been sent to relief measures to the Paragoda area of ​​the Kalutara district.
-
-Accordingly, the floods in the Kalutara district have been sent to the Paragoda area to provide relief to the public due to flooding.
-
-The relief team is engaged in flood relief work in Paragoda on Monday (19).
-
-In addition, the Sri Lanka Navy's relief committees have been prepared to carry out emergency assistance for the flood affected people.
-
-◼️
-
-[Data](articles/ba3e788f.json)
-
-[Extended Data](ext_articles/ba3e788f.ext.json)
-
----
-
-### Sri Lanka is aware of the spread of the disease - health officials
-
-*2024-08-19 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/191408) · `ta`
-
-Sri Lanka is ramping up awareness about a global disease, now classified as an international health concern by the WHO. While the exact number of cases isn't disclosed, heightened surveillance at entry points is reducing its spread, minimizing its impact.
-
-🟩
-
-Health officials say that Sri Lanka has increased awareness on the disease due to the increasing spread of the disease globally.
-
-The World Health Organization has declared the disease as an international health state.
-
-The number of victims of the infection was not reported.The threat to the impact of the disease is minimal because temporary precautions are active.
-
-The number of victims in many countries has increased due to a significant increase in surveillance at airports and ports.
-
-◼️
-
-[Data](articles/d2fc961e.json)
-
-[Extended Data](ext_articles/d2fc961e.ext.json)
 
 ---

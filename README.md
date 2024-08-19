@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 09:55:54**
+As of **2024-08-19 10:08:12**
 
 ## Newspaper Stats
 
-*Scraped **41,438** Articles*
+*Scraped **41,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,110 @@ colombotelegraphcom | 395
 islandlk | 2,402
 economynextcom | 2,504
 dailyftlk | 2,676
-adalk | 3,809
+adalk | 3,810
 dailymirrorlk | 4,733
-adaderanalk | 4,844
+adaderanalk | 4,845
 tamilmirrorlk | 5,338
 virakesarilk | 6,569
-adaderanasinhalalk | 7,070
+adaderanasinhalalk | 7,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,436 (100.0%) of 41,438 articles have been extended.
+41,438 (100.0%) of 41,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### அர்ஜூன் மகேந்திரனை அழைத்து வருவேன் - அநுர உறுதி
+### Blinken arrives in Middle East seeking Gaza ceasefire
 
-*2024-08-19 09:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-மகேந்திரனை-அழைத்து-வருவேன்-அநுர-உறுதி/175-342421) · `ta`
+*2024-08-19 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101338/blinken-arrives-in-middle-east-seeking-gaza-ceasefire) · `en`
 
-தாம் ஜனாதிபதியாக பதவியேற்றதன் பின்னர் மத்திய வங்கி மோசடி தொடர்பில் நீதிமன்றினால் சிவப்பு பிடியாணை பிறப்பிக்கப்பட்ட அர்ஜுன மகேந்திரனை இலங்கைக்கு அழைத்து வருவேன் என தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+U.S. Secretary of State Antony Blinken arrived in Tel Aviv on Sunday on another Middle East tour to push for a ceasefire in Gaza but Hamas raised doubts about the mission just hours after he landed by accusing Israel of undermining his efforts.
 
-கிரிபத்கொட பிரதேசத்தில் நேற்று (18) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் இதனை கூறியுள்ளார்.
+The Palestinian militant group said it holds Israeli Prime Minister Benjamin Netanyahu responsible for “thwarting the mediators’ efforts”, delaying an agreement and exposing Israeli hostages in Gaza to the same aggression faced by Palestinians.
 
-அநுராதபுரத்தில் இடம்பெற்ற மக்கள் சந்திப்பொன்றில் ஜனாதிபதி ரணில் விக்கிரமசிங்க விடுத்துள்ள “அனுர இதற்கு பதில் சொல்லுங்கள்” என தெரிவித்த கருத்துக்கு பதிலளிக்கும் போதே அநுர மேற்கண்டவாறு தெரிவித்தார்.
+On his ninth trip to the region since the war began in October, Blinken will meet on Monday with senior Israeli leaders including Netanyahu, a senior State Department official said.
 
-நான் ஒரு பதில் தருகிறேன். மத்திய வங்கி மோசடி தொடர்பில் நீதிமன்றினால் சிவப்பு பிடியாணை பிறப்பிக்கப்பட்டு சிங்கப்பூருக்கு தப்பிச் சென்ற அர்ஜுன மகேந்திரா இலங்கைக்கு அழைத்து வரப்படுவார்.
-
-மத்திய வங்கிக்கு பொறுப்பான அமைச்சர் ஒருவர், ரணில் விக்கிரமசிங்க தான் இந்த கொடுக்கல் வாங்கலுக்கு ஆலோசனை வழங்கியதாக கோப் குழுவிடம் கூறியிருந்தார். இதையடுத்து அர்ஜுன
+The talks to strike a deal for a truce and return of hostages held in Gaza were now at an “inflection point”, a senior Biden administration official told reporters en route to Tel Aviv. “We think this is a critical time,” the official said.
 
 ...
 
-[Data](articles/0f70bb3f.json)
+[Data](articles/66d436bb.json)
 
 ---
 
-### ජාතික කොඩිය සහ ආගමික සංකේත ගැන මැතිවරණ කොමිසමෙන් නිවේදනයක්
+### අමෙරිකාවේ ඉහළ පෙළේ රාජ්‍ය නිලධාරිනියක් දිවයිනට
+
+*2024-08-19 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200089) · `si`
+
+සාගර සහ අන්තර්ජාතික පාරිසරික සහ විද්‍යාත්මක කටයුතු පිළිබඳ වැඩබලන අමෙරිකානු සහකාර රාජ්‍ය ලේකම් ජෙනිෆර් ආර්. ලිට්ල්ජෝන් අද (19) දිවයිනට පැමිණීමට නියමිතය.
+
+අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව සඳහන් කළේ ඇය ඉන්දියාවේ සහ මාලදිවයිනේ ද සංචාරය කිරීමට නියමිත බවය.
+
+මෙම  සංචාරයේදී ඇය සොබාදහම සහ සමුද්‍ර සංරක්ෂණය, ප්ලාස්ටික් සහ වායු දූෂණය, දේශගුණික අර්බුදය, වන විනාශය, ස්වාභාවික අපරාධ, සිවිල් සහ වාණිජ අභ්‍යවකාශ ක්‍රියාකාරකම්, විද්‍යා, තාක්ෂණික, ඉංජිනේරු සහ ගණිත අංශය වෙනුවෙන් කාන්තාවන් සහ ගැහැණු ළමුන් ප්‍රවර්ධනය කිරීම සහ තිරසර ආර්ථිකය පිළිබඳ සාකච්ඡා කිරීමට නියමිතය.
+
+ඒ අනුව අමෙරිකානු සහකාර රාජ්‍ය ලේකම්වරිය අද සිට එළැඹෙන  21 දක්වා මෙරට රාජ්‍ය නිලධාරීන් සහ හවුල්කරුවන් හමුවී සාකච්ඡා කිරීමට නියමිත බව සඳහන් වේ.
+
+එමෙන්ම එක්සත් ජනපදයේ සහාය ලබන වනජීවී ආරක්ෂණ ව්‍යාපෘති නැරඹීම, හයිඩ්‍රොග්‍රැෆි සහ දේශගුණික විපර්යාස වැනි ප්‍රමුඛතා ක්ෂේත්‍රවල එක්සත් ජනපද විශේෂඥයන් සමඟ ශ්‍රී ලාංකිකයන් සම්බන්ධ කිරීමේ අවස්ථා ගවේෂණය කිරීමට ද ඇය එක්වනු ඇති බව අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව  සඳහන් කළේය.
+
+◼️
+
+[Data](articles/af6d7c6b.json)
+
+---
+
+### I will bring Arjun Mahendran - Anura sure
+
+*2024-08-19 09:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-மகேந்திரனை-அழைத்து-வருவேன்-அநுர-உறுதி/175-342421) · `ta`
+
+Anura Dissanayake, a presidential candidate, announced plans to bring Arjuna Mahendran back to Sri Lanka from Singapore to face charges related to the central bank scandal. This was mentioned during public meetings in Kiribathgoda and Anuradhapura, where discussions also included responses to questions about the involvement of President Ranil Wickremesinghe in the transactions.
+
+🟩
+
+The National People's Power Presidential candidate Anurakumara Dissanayake has said that Arjuna Mahendran, who was issued a red case with the court in connection with the central bank scandal after his appointment as president, will be brought to Sri Lanka.
+
+He was speaking at a public meeting held in Kiribathgoda yesterday (18).
+
+At a public meeting in Anuradhapura, President Ranil Wickremesinghe said, "Answer this," said Anura.
+
+I will give you an answer. Arjuna Mahendra, who fled to Singapore and fled to Singapore, will be brought to Sri Lanka.
+
+A minister in charge of the Central Bank had told the Cobb Committee that Ranil Wickremesinghe had advised the transaction.. Arjuna
+
+I will bring Arjun Mahendran. The court will answer him. Next you will bring. So much. Thought to do this without saying too much. You can't say it. ”. Remble
+
+◼️
+
+[Data](articles/0f70bb3f.json)
+
+[Extended Data](ext_articles/0f70bb3f.ext.json)
+
+---
+
+### Elections Commission announced on national flag and religious symbols
 
 *2024-08-19 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200088) · `si`
 
-මැතිවරණ ප්‍රචාරක කටයුතු සඳහා ජාතික කොඩිය හෝ  ආගමික ලකුණු යොදා නොගන්නා ලෙස මැතිවරණ කොමිසම නිවේදනය කර තිබේ.
+The Elections Commission banned the use of the national flag and religious symbols in election propaganda, threatening severe actions against violators. This directive applies to all parties involved in the upcoming presidential election campaign and has been communicated to election officials.
 
-මැතිවරණ කොමිෂන් සභාව පවසන්නේ ජාතික කොඩිය ජනාධිපතිවරණ ප්‍රචාරක කටයුතු සදහා භාවිත කරන පාර්ශ්ව සඳහා දැඩි ක්‍රියා මාර්ග ගැනීමට සිදුවන බවය.
+🟩
 
-මැතිවරණ කාර්යාල සකස් කිරීමට අදාළ ව නිකුත් කර ඇති චක්‍රලේඛයේ ද මේ සම්බන්ධයෙන් දැනුම්වත් කර තිබේ.
+The Elections Commission has announced not to use the national flag or religious signs for election propaganda.
 
-තවද ප්‍රචාරක කටයුතු සඳහා ආගමික සංකේත භාවිත කිරීම ද තහනම් බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+The Elections Commission says that the National Flag is to be taken to take heavy measures for parties used for presidential election campaign.
+
+The circular has also been informed of this regarding the preparation of electionhouses.
+
+The Elections Commission says that the use of religious symbols for propaganda is also prohibited.
 
 ◼️
 
 [Data](articles/0c051349.json)
+
+[Extended Data](ext_articles/0c051349.ext.json)
 
 ---
 
@@ -1127,6 +1179,26 @@ Anura Kumara Dissanayake added that the tax on patients with school books, inclu
 [Data](articles/c194c34a.json)
 
 [Extended Data](ext_articles/c194c34a.ext.json)
+
+---
+
+### ළමා නිවාස ගත දරුවන්ගේ සංඛ්‍යාව ඉකුත් දස වසරක් තුළ 3,353 කින් අඩු වෙලා
+
+*2024-08-18 19:05:12* · [`adalk`](https://www.ada.lk/breaking_news/ළමා-නිවාස-ගත-දරුවන්ගේ-සංඛ්‍යාව-ඉකුත්-දස-වසරක්-තුළ-3-353-කින්-අඩු-වෙලා/11-411435) · `si`
+
+ළමා නිවාස ගත ළමයින්ගේ සංඛ්‍යාව ඉකුත් මාර්තු මාසයේ සිට (දස වසරක  කාල සීමාවක් තුළ)ළමයින් සංඛ්‍යාව  3353 කින් අඩු වී ඇත.
+
+පරිවාසක  හා ළමා ආරක්ෂණ දෙපාර්තමේන්තුවේ 2014 වර්ෂයේ සිට 2023 වර්ෂය දක්වා දත්ත පරීක්ෂ කිරීමේ දී  මේ බව අනාවරණය වී ඇති බව 17-08 දින  නිකුත් කරන ලද නවතම විගණන වාර්තාවකින් අනාවරණය කර ඇත.
+
+පරිවාසක හා ළමා ආරක්ෂක  දෙපාර්තමේන්තුවේ 2014 වර්ෂායේ දී දිවයින පුරා ශාඛා 38 ක රැඳී සිටි ළමයින් සංඛ්‍යාව 12,610 ක් වූ අතර  එම නිවාස වල සිටි ළමයින් සංඛ්‍යාව  2023 වර්ෂයේ දෙසැම්බර් වන විට 9258 ක් දක්වා අඩුව ඇත.
+
+මේ අතර ළමයින්ට එරෙහිව බරපතල ලිංගික අපයෝජන 605 ක් 2023 දෙසැම්බර් අවසන් වන විට සිදු වී ඇති බවත් එම වාර්තාවේ සඳහන්වේ.
+
+ළමා ආරක්ෂනය ක්‍රියාත්මක කිරීමේ කමිටුවක් 2024 වර්ෂයේ ජූලි මාසයේ  පත් කර ගන්නා ලද අතර ළමා නිවාසය ළමයින් අවම වීම සහ පෝෂණ අවශ්‍යතා පිළිබඳ වාර්තාවක් 2023 සැප්තැම්බර් මස පැවති එම රැස්වීමකදී   සියලු පළාත් පරිවාස හා ළමා ආරක්ෂක සේවා කොමසාරිස්වරුන්ගෙන් කැඳවා තිබුණු බව එම විගණන වාර්තාවේ සඳහන්වේ.
+
+◼️
+
+[Data](articles/f69ec1e7.json)
 
 ---
 
@@ -2231,71 +2303,5 @@ Thirteen persons, including women, have been arrested, including a group of wome
 [Data](articles/554390dc.json)
 
 [Extended Data](ext_articles/554390dc.ext.json)
-
----
-
-### Tamil general candidate Ariyanethran begins propaganda work by paying tribute to father Selva
-
-*2024-08-18 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191356) · `ta`
-
-Ariyanethran, a Tamil general candidate, started his campaign by honoring his father's statue, attended by P.Ingaranesan and others. He'll address the public at 3 pm in Mullaitivu, followed by meetings across eight northern and eastern districts.
-
-🟩
-
-Tamil general candidate Ariyanethran paid tribute to the statue of Annar on Sunday (18) at 9 am.
-
-The President of the Tamil National Green Movement, P.Ingaranesan and civil society representatives were present.
-
-The Tamil general candidate will be held at the Mullaitivu Vadapalai Senthami Playground at 3 pm on Sunday afternoon.
-
-Subsequently, it is scheduled to be held in each of the eight districts of the North and East, and a large public meeting for the districts and a general candidate.
-
-◼️
-
-[Data](articles/f50b611c.json)
-
-[Extended Data](ext_articles/f50b611c.ext.json)
-
----
-
-### Jackson Anthony's wife joins education
-
-*2024-08-18 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200061) · `si`
-
-Kumari Manda Munasinghe, widow of Jackson Anthony, supports Opposition Leader Sajith Premadasa in the Presidential Election, joining his reconciliation efforts. She takes on the role of Gampaha District Organizer post-handover.
-
-🟩
-
-The wife of the late Jackson Anthony, Kumari Manda Munasinghe, joined the reconciliation to support Opposition Leader Sajith Premadasa in the Presidential Election.
-
-Opposition Leader Sajith Premadasa has been appointed as the Gampaha District Organizer after handing over to her unified force.
-
-◼️
-
-[Data](articles/e628bbfe.json)
-
-[Extended Data](ext_articles/e628bbfe.ext.json)
-
----
-
-### Husband pouring petrol
-
-*2024-08-18 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191352) · `ta`
-
-In Wennappuwa, a man was severely burned and hospitalized after setting his wife ablaze due to marital conflict. The 43-year-old suspect is under arrest, with ongoing police investigations.
-
-🟩
-
-Wennappuwa police said that the wife of a husband who was burnt in the Wennappuwa area after being admitted to the hospital after being seriously injured.
-
-An investigation by police revealed that the husband and wife had set fire to the wife's body due to conflict between husband and wife.
-
-The 43 -year -old suspect has been arrested in the incident and the Wennappuwa police said they were conducting further investigations.
-
-◼️
-
-[Data](articles/10dbc8de.json)
-
-[Extended Data](ext_articles/10dbc8de.ext.json)
 
 ---

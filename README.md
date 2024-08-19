@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 01:06:22**
+As of **2024-08-20 01:21:25**
 
 ## Newspaper Stats
 
-*Scraped **41,548** Articles*
+*Scraped **41,549** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 383
-colombotelegraphcom | 396
+colombotelegraphcom | 397
 islandlk | 2,402
 economynextcom | 2,507
 dailyftlk | 2,676
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,548 (100.0%) of 41,548 articles have been extended.
+41,548 (100.0%) of 41,549 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -413,6 +413,18 @@ The Beruwala Youth Conference held at Aluthgama yesterday (18) at the Aluthgama 
 [Data](articles/3be8aa48.json)
 
 [Extended Data](ext_articles/3be8aa48.ext.json)
+
+---
+
+### The Peak (Sri Pada) Through The Lens Of Ecological & Cultural Pluralism
+
+*2024-08-19 19:06:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-peak-sri-pada-through-the-lens-of-ecological-cultural-pluralism/) · `en`
+
+Book Review: Mountain at A center of the world: Pilgrimage and Pluralism in Sri Lanka – Author:  Alexander McKinley – Year of Publication: 2024 – Publisher: Columbia University Press, New York, 331pp with illustrations
+
+...
+
+[Data](articles/9e7b895b.json)
 
 ---
 
@@ -2353,33 +2365,5 @@ She also join the US Department of State Department to connect Sri Lankans with 
 [Data](articles/af6d7c6b.json)
 
 [Extended Data](ext_articles/af6d7c6b.ext.json)
-
----
-
-### I will bring Arjun Mahendran: Anura
-
-*2024-08-19 09:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-மகேந்திரனை-அழைத்து-வருவேன்-அநுர/175-342421) · `ta`
-
-National People's Power Presidential candidate Anurakumara Dissanayake announced plans to bring Arjuna Mahendran, implicated in a central bank scandal, back to Sri Lanka from Singapore. This was mentioned during public meetings in Kiribathgoda and Anuradhapura, where discussions also included responses to President Ranil Wickremesinghe's inquiries about the matter.
-
-🟩
-
-The National People's Power Presidential candidate Anurakumara Dissanayake has said that Arjuna Mahendran, who was issued a red case with the court in connection with the central bank scandal after his appointment as president, will be brought to Sri Lanka.
-
-He was speaking at a public meeting held in Kiribathgoda yesterday (18).
-
-At a public meeting in Anuradhapura, President Ranil Wickremesinghe said, "Answer this," said Anura.
-
-I will give you an answer. Arjuna Mahendra, who fled to Singapore and fled to Singapore, will be brought to Sri Lanka.
-
-A minister in charge of the Central Bank had told the Cobb Committee that Ranil Wickremesinghe had advised the transaction.. Arjuna
-
-I will bring Arjun Mahendran. The court will answer him. Next you will bring. So much. Thought to do this without saying too much. You can't say it. ”. Remble
-
-◼️
-
-[Data](articles/067b65a3.json)
-
-[Extended Data](ext_articles/067b65a3.ext.json)
 
 ---

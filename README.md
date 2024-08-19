@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 17:06:33**
+As of **2024-08-19 17:21:23**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,504 (100.0%) of 41,505 articles have been extended.
+41,505 (100.0%) of 41,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### ඉලංකෙයි තමිල් අරසු පක්ෂයේ තීරණය
+### Decision of the Ilankai Tamil Ahazi Ahazi
 
 *2024-08-19 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200101) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයේදී කුමන අපේක්ෂකයාට සහාය දක්වන්නේ ද යන්න ඔවුන්ගේ ප්‍රතිපත්ති ප්‍රකාශ එළිදැක්වීමෙන් අනතුරුව තීරණය කරන බව ඉලංකෙයි තමිල් අරසු පක්ෂය (ITAK)පවසයි.
+The Ilankai Tamil Arasu Party, after a meeting in Vavuniya, plans to announce its policy stance to aid in the upcoming presidential election. The gathering saw varied opinions, creating tension, especially regarding supporting the opposition. However, MP Shaansenamanikkam clarified that the party would decide on backing after assessing the main presidential candidates.
 
-එම පක්ෂයේ මධ්‍යම කාරක සභාවේ ඊයේ (18) වව්නියාව ප්‍රදේශයේ දී පැවති අතර ඊට පක්ෂයේ සියලු සාමාජිකයින් එක්ව තිබුණි.
+🟩
 
-එහිදි ජනාධිපතිවරණයේදී සිය පක්ෂය සහාය දැක්විය යුතු අපේක්ෂකයා සම්බන්ධයෙන් විවිධ මත පළ වීමත් සමග රැස්වීමේ උණුසුම්කාරී තත්ත්වයක් ද ගෙන තිබේ.
+The Ilankai Thamil Arasu Party says that after the launch of their policy statements will be determined to assist in the presidential election.
 
-කෙසේවෙතත් පක්ෂයේ මතය කුමක් ද යන්න සම්බන්ධයෙන් ප්‍රධාන ජනාධිපති අපේක්ෂකයින්ගේ ප්‍රතිපත්ති ප්‍රකාශ එළිදැක්වීමෙන් අනතුරුව ප්‍රකාශ කරන බව ඉලංකෙයි තමිල් අරසු පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී ශානක්කියන් රාසමානික්කම් මහතා පැවසුවේය.
+The Central Committee of the Central Committee was held in Vavuniya last yesterday and all members of the party participated.
+
+With the revelation of various opinions to support the opposition in the presidential election, there is a tense situation in the meeting.
+
+However, Ilankai Tamil Arashiyu MP Shaansenamanikkam said that the major presidential candidates were launched after the main presidential candidates of the party.
 
 ◼️
 
 [Data](articles/7cceadfe.json)
+
+[Extended Data](ext_articles/7cceadfe.ext.json)
 
 ---
 

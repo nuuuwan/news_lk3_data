@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 15:21:30**
+As of **2024-08-19 15:37:00**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,490 (100.0%) of 41,492 articles have been extended.
+41,492 (100.0%) of 41,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
 
-### අමෙරිකානු නෞකාවක් හදිසියේ කොළඹ වරායට
+### American ship suddenly arrived at the Port of Colombo
 
 *2024-08-19 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200098) · `si`
 
-අමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් නෞකාවක් කොළඹ වරායට පැමිණ තිබේ.
+A US Navy vessel, the USS Spruance, docked at Colombo's port on its 338th voyage, expected to fulfill supply and service needs before departing the next day.
 
-යු.එස්.එස් ස්ප්‍රොන්ස් නම් නෞකාව අද (19) පෙරවරුවේ කොළඹ වරායට පැමිණි බව නාවික හමුදාව පැවසුවේය.
+🟩
 
-සැපයුම් සහ සේවා අවශ්‍යතා සපුරා ගැනීමේ සංචාරයක් සඳහා එම නෞකාව මෙරටට පැමිණ ඇති බව සඳහන්ය.
+A US Navy ship arrived at the Port of Colombo.
 
-නෞකාව දිගින් මීටර් 160ක් පමණ වන අතර නැව් මුළුව 338 දෙනෙකුගෙක් සමත්විත වන බව නාවික හමුදාව පැවසුවේය.
+The USS Sprrons arrived at the Port of Colombo today (19th).
 
-සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමෙන් පසු නෞකාව හෙට (20) දිවයිනෙන් පිටත් වීමට නියමිතය.
+It is said that the ship arrived in Sri Lanka for a visit to meet the supplies and service requirements.
+
+The ship said that the ship was about 160 meters and 338 shipping tests.
+
+The ship is due to leave the island tomorrow (20) after the supplies and service requirements are met.
 
 ◼️
 
 [Data](articles/8f6d6d71.json)
+
+[Extended Data](ext_articles/8f6d6d71.ext.json)
 
 ---
 
@@ -354,19 +360,25 @@ A lorry carrying firewood from Koskoda has been hit by a train from Galle to Col
 
 ---
 
-### ඊශ්‍රායෙලයේ සිටින ලාංකිකයන්ට විශේෂ දැනුම් දීමක්
+### Special notice for Sri Lankans in Israel
 
 *2024-08-19 13:09:07* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-සිටින-ලාංකිකයන්ට-විශේෂ-දැනුම්-දීමක්/11-411442) · `si`
 
-මැද පෙරදිග කලාපයේ වර්ධනය වන  නොසන්සුන්තාව උපරිම තලයට පැමිණ ඇති අතර ඉදිරි දින කීපය තුලදී ඊශ්‍රායලය ඉලක්ක කර ගනිමින් අනපේක්ෂිත ප්‍රහාරය සිදුවිය හැකි බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කර ඇති හෙයින් ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකකයින්ට තම ආරක්ශාව සදහා නිසි පියවර ගන්නා ලෙසට ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බංඩාර මහතා    ප්‍රවෘත්ති නිවේදනයක් නිකුත් කරමින්  දැනුම් දී සිටි .
+Sri Lankan Ambassador in Israel, Mr. Nimal Bandara, urges Sri Lankans to prepare for emergencies, stock food, water, and medicines. He advises patience and seeks embassy support due to escalating tensions and potential threats from Israeli forces.
 
-පසුගිය දින කීපය තුළ ඊශ්‍රායලයේ උතුරු සහ දකුණු කලාපවලට ෂෙල් රොකට් ප්‍රහාර ගණනාවක් එල්ලවූ බවත් , ඒ සියල්ල සාර්ථක මර්ධනය කිරීමට ඊශ්‍රායල් හමුදවන් සමත් වූ බවද හෙතෙම පවසයි .
+🟩
 
-පසුගිය ගෙවුණු පැය 24 ක කාලය තුල හූති සංවිධානය ට අයත් නාවික යාත්‍රා දෙකක් රතු මුහුදේදී ඇමරිකානු හමුදා විසින් ප්‍රහාර එල්ලකර විනාශ කිරිමත් සමඟ කලාපයේ යුධ උණුසුම් ඉහල යමින් පවතින බවත් , මේ  තත්ත්වය මත නිරන්තරයෙන්ම තම ආරක්ශාව පිළිබඳව අවධානය යොමු කරන ලෙසත්, අත්‍යවශ්‍ය කරුණකට හැර තම සේවා ස්ථානයෙන් පිටතට නොයන ලෙසත් හදිසි අවස්ථාවකදි අවශ්‍ය උපකාර සදහා තානාපති කාර්යාලය   අමතන ලෙසට      ඊශ්‍රායල් ශ්‍රී ලංකා     තානාපති නිමල් බංඩාර මහතා ඉල්ලා සිටි .
+Sri Lankan Ambassador Sri Lankan Ambassador to Israeli Sri Lankan Sri Lankans to be taken to take appropriate action for Israel in the next few days, Mr. Nimal Bandara, Sri Lankan Ambassador, Sri Lankan Sri Lankan Sri Lankans to take appropriate measures to ensure that Israel is targeting Israel will take effect for Israel's deteriorationIn the issue of issuing.
+
+The Israeli Forces said that there were many shell rockets in the northern and southern regions of Israel over the past few days, he said.
+
+In the last 24 hours, the war harsh was ruling in the region with a reconciliation of the LTTE and constantly pay attention to their deposit and focus on this situation, and to focus on the protection of their deposit.Israeli Sri Lankan Ambassador Nimal Bandara has called for as to address the embassy for the necessary assistance in an emergency.
 
 ...
 
 [Data](articles/fa7e7142.json)
+
+[Extended Data](ext_articles/fa7e7142.ext.json)
 
 ---
 

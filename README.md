@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-19 11:07:21**
+As of **2024-08-19 11:21:07**
 
 ## Newspaper Stats
 
-*Scraped **41,450** Articles*
+*Scraped **41,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,504
 dailyftlk | 2,676
 adalk | 3,811
 dailymirrorlk | 4,733
-adaderanalk | 4,846
+adaderanalk | 4,847
 tamilmirrorlk | 5,343
 virakesarilk | 6,569
 adaderanasinhalalk | 7,072
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,450 (100.0%) of 41,450 articles have been extended.
+41,450 (100.0%) of 41,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-19 (Monday)
+
+### EC warns against using national flag, religious symbols in election campaigns
+
+*2024-08-19 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101340/ec-warns-against-using-national-flag-religious-symbols-in-election-campaigns) · `en`
+
+The Election Commission of Sri Lanka has informed political parties and presidential candidates to refrain from using the national flag or any religious symbols for propaganda during election campaigns.
+
+According to the commission, strict actions would be taken against any parties or individuals that utilize the national flag for propaganda during the presidential campaigns.
+
+The circular issued concerning the preparation of the election offices also instructs in this regard.
+
+The Election Commission further says that the use of any religious symbols for election propaganda is also strictly prohibited.
+
+◼️
+
+[Data](articles/22331ff5.json)
+
+---
 
 ### Fuel prices will be reduced; Anura
 
@@ -2281,25 +2299,5 @@ In addition, police said that the driver of the car traveling from Kandy to Colo
 [Data](articles/5e13c127.json)
 
 [Extended Data](ext_articles/5e13c127.ext.json)
-
----
-
-### List of relief to the people after victory
-
-*2024-08-18 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200066) · `si`
-
-After their victory, Anura Kumara Dissanayake promises to eliminate VAT on food, healthcare, and school supplies. They also aim to reduce electricity bills and ensure the nation's prosperity.
-
-🟩
-
-Anura Kumara Dissanayake says that steps will be taken to remove the VAT on food, health care and school equipment after its victory is taken to remove the VAT.
-
-"We know some people ask us if your brother is not afraid of you. Remember, the national popularity should be accepted. Build the country with the precipitate. This can be recovered. Pruning on the 15th at night our electricity and energy plan. Accordingly, the electricity bill will be reduced in one of three. The next food, this government vates food. We are eliminating the VAT for food in the first budget. VAT is removed from health and health care. Next, the VAT imposed on school equipment is removed. Why is the government to take care of the people?. Take care of these goats. "
-
-◼️
-
-[Data](articles/c802a8fe.json)
-
-[Extended Data](ext_articles/c802a8fe.ext.json)
 
 ---

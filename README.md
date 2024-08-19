@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 04:37:28**
+As of **2024-08-20 04:55:36**
 
 ## Newspaper Stats
 
-*Scraped **41,567** Articles*
+*Scraped **41,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,687
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
-tamilmirrorlk | 5,366
+tamilmirrorlk | 5,367
 virakesarilk | 6,594
 adaderanasinhalalk | 7,091
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,567 (100.0%) of 41,567 articles have been extended.
+41,567 (100.0%) of 41,568 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -179,6 +179,22 @@ Sunil G. Wijesinha will be the resource person for this session, who is a well�
 [Data](articles/900b2843.json)
 
 [Extended Data](ext_articles/900b2843.ext.json)
+
+---
+
+### வரிக்கு மேல் வரியை சுமத்தி வருகின்றனர்
+
+*2024-08-20 02:05:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரிக்கு-மேல்-வரியை-சுமத்தி-வருகின்றனர்/175-342483) · `ta`
+
+குறிப்பிட்ட ஒரு செல்வந்த வர்க்கத்தினை பாதுகாக்கின்ற பொருளாதாரம் முறை ஒன்றே  தற்போது நாட்டில் காணப்படுகின்றது. IMF  ஒப்பந்தம் மூலமும் தொழிலாளர் வர்க்கத்தின் ETF, EPF  பணங்களை கொள்ளையடித்து  முதல் தர பணக்காரர்களை பாதுகாத்து வரும் ஆட்சியே நாட்டில் காணப்படுகின்றது என்று  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ  தெரிவித்தார்.
+
+அர்ப்பணிப்புடன் செயல்படுவதாக இருந்தால்  அனைவரும் அர்ப்பணிப்புடன் செயல்பட வேண்டும். ஆட்சி அதிகாரத்தில் உள்ளவர்களே முதலில் அர்ப்பணிப்புடன் செயல்பட வேண்டும். நாட்டின் தலைவரே அதிகபட்ச அர்ப்பணிப்புடன் செயல்பட வேண்டும். மக்களின் மீது வரிச் சுமையை  சுமத்திக் கொண்டு செல்கின்றார்.
+
+IMF  குறிப்பிட்டதால்தான் அப்படி செய்கிறோம் என்பதை பதிலாக ஜனாதிபதி குறிப்பிட்டாலும்  அது மக்களை ஏமாற்றுகின்ற கருத்தாகும். IMF ஒப்பந்தத்தில் அவ்வாறான ஒரு விடயமும் குறிப்பிடப்படவில்லை. அரசாங்கம் மக்களை     அசௌகரியத்திற்குட்படுத்த  முயற்சிக்கிறது என்று எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/910eccd3.json)
 
 ---
 
@@ -2279,29 +2295,5 @@ The number of victims in many countries has increased due to a significant incre
 [Data](articles/d2fc961e.json)
 
 [Extended Data](ext_articles/d2fc961e.ext.json)
-
----
-
-### Three police suspended
-
-*2024-08-19 11:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-பொலிஸார்-இடைநிறுத்தம்/175-342431) · `ta`
-
-Three police officers, including a surgeon and two constables, have been suspended after fatally shooting a wild elephant in Sri Lanka's Pakamuna region last week. The incident, which occurred on August 15, led to the elephant's immediate death. Regional wildlife officials have since arrested the officers involved.
-
-🟩
-
-Three police officers in connection with the death of a wild elephant in the Pakamuna area have been suspended.
-
-A police surgeon and two constables have been suspended, according to the office of the Senior Police Officers of the Polonnaruwa.
-
-Last week (August 15), police officers who were on patrol were fired at a wild elephant.
-
-Wild elephant died on the spot in the shooting. Police officers have been arrested by regional wildlife officials in connection with the death of the elephant.
-
-◼️
-
-[Data](articles/390a208e.json)
-
-[Extended Data](ext_articles/390a208e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 03:54:55**
+As of **2024-08-21 04:06:56**
 
 ## Newspaper Stats
 
@@ -491,6 +491,10 @@ Revenues rose by 3% to Rs. 2.2 billion compared with the same period in the prev
 ### Strengthening corporate integrity with anti-corruption policies
 
 *2024-08-21 00:49:17* · [`dailyftlk`](https://www.ft.lk/opinion/Strengthening-corporate-integrity-with-anti-corruption-policies/14-765757) · `en`
+
+CIABOC Commission Member and former Additional Solicitor General Chethiya Gunasekera PC
+
+Dialog Axiata Group General Counsel and Vice President of Group Legal and Regulatory Trinesh Fernando
 
 In a seminar organised by Corporate Management Consultants, with Daily FT as the media sponsor, industry leaders gathered at NH Collections Colombo 3 to discuss the critical importance of embedding anti-corruption policies within corporate governance frameworks.
 

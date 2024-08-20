@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 12:36:42**
+As of **2024-08-20 12:55:13**
 
 ## Newspaper Stats
 
-*Scraped **41,653** Articles*
+*Scraped **41,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,511
 dailyftlk | 2,687
 adalk | 3,830
 dailymirrorlk | 4,733
-adaderanalk | 4,875
-tamilmirrorlk | 5,384
+adaderanalk | 4,876
+tamilmirrorlk | 5,385
 virakesarilk | 6,611
 adaderanasinhalalk | 7,108
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,650 (100.0%) of 41,653 articles have been extended.
+41,653 (100.0%) of 41,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### Blinken says Israel accepts Gaza proposal, urges Hamas to do same
+
+*2024-08-20 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/101370/blinken-says-israel-accepts-gaza-proposal-urges-hamas-to-do-same) · `en`
+
+U.S. Secretary of State Antony Blinken said on Monday Israeli Prime Minister Benjamin Netanyahu had accepted a “bridging proposal” presented by Washington to tackle disagreements blocking a ceasefire deal in Gaza, and urged Hamas to do the same.
+
+Blinken spoke to journalists after a day of meetings with Israeli officials, including a 2-1/2-hour meeting with Netanyahu. The top U.S. diplomat had said earlier that this push was probably the best and possibly last opportunity for a deal.
+
+Talks in Qatar seeking a ceasefire and hostage return agreement last week paused without a breakthrough, but were expected to resume this week based on the U.S. proposal to bridge the gaps between Israel and Hamas.
+
+Blinken’s visit comes as U.S. President  faces mounting election-year pressure over his stance on the conflict, with his Democratic party starting its national convention on Monday amid pro-Palestinian protests and worries about Muslim and Arab American votes in swing states.
+
+...
+
+[Data](articles/8321c6ad.json)
+
+---
 
 ### Presidential Election: Over 24,000 postal voting applications rejected
 
@@ -42,7 +60,7 @@ He further said that 24,268 postal vote applications have been rejected and that
 
 He also said that the delivery of ballot papers for postal voting will be carried out on August 26.
 
-The commission has mentioned that the opportunity has been provided for the marking of postal votes for a period of three days in the first week of September.
+The Election commission has stated that the opportunity has been provided for the marking of postal votes for a period of three days in the first week of September.
 
 Speaking in this regard, the Chairman of the Election Commission R.M.A.L. Rathnayake said:
 
@@ -52,11 +70,13 @@ Speaking in this regard, the Chairman of the Election Commission R.M.A.L. Rathna
 
 [Data](articles/73db4ead.json)
 
+[Extended Data](ext_articles/73db4ead.ext.json)
+
 ---
 
-### இலங்கைத் தமிழரசுக் கட்சியின் ஆதரவு யாருக்கு?
+### சுமந்திரனிடம் நாமல் சொன்ன சங்கதி அம்பலம்
 
-*2024-08-20 12:14:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைத்-தமிழரசுக்-கட்சியின்-ஆதரவு-யாருக்கு/175-342507) · `ta`
+*2024-08-20 12:14:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனிடம்-நாமல்-சொன்ன-சங்கதி-அம்பலம்/175-342507) · `ta`
 
 இலங்கைத் தமிழ் அரசுக் கட்சி 2024ஆம் ஆண்டு நடைபெறவுள்ள ஜனாதிபதித் தேர்தலில் எந்த வேட்பாளரை ஆதரிக்கும் என்பதை வேட்பாளர்கள் தமது கொள்கை அறிக்கையை வெளியிட்ட பின்னர் அறிவிக்கும் என தெரிவித்துள்ளது.
 
@@ -68,7 +88,33 @@ ITAK இன் மத்திய குழு ஞாயிற்றுக்க
 
 ...
 
+[Data](articles/355452fa.json)
+
+---
+
+### Who supports the Sri Lankan Tamil party?
+
+*2024-08-20 12:14:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைத்-தமிழரசுக்-கட்சியின்-ஆதரவு-யாருக்கு/175-342507) · `ta`
+
+The Sri Lankan Tamil State Party (ITAK) is considering supporting a candidate in the 2024 presidential election based on policy reports from three major contenders. The decision follows internal discussions and a tense meeting where various views were expressed. Parliamentarian MA Sumanthiran confirmed that ITAK has engaged with potential candidates, including Namal Rajapaksa, but no final decision has been made until policy declarations are released.
+
+🟩
+
+The Sri Lankan Tamil State Party has announced that the candidates will announce their policy report on which candidate will support the presidential election in 2024.
+
+The Central Committee of ITAK gathered in Vavuniya on Sunday (August 18) that all its members attended the meeting.
+
+The crowd has reported a tense situation at the meeting after several members shared various views on which party should support the candidate in the 2024 presidential election.
+
+However, commenting on the media, ITAK and TNA parliamentarian MA Sumanthiran said that the candidates would decide on which candidates to support the candidate.
+
+Parliamentarian Sumanthiran said the ITAK had already held discussions with three major presidential candidates while the Sri Lanka PA was held talks with Presidential candidate Namal Rajapaksa.
+
+...
+
 [Data](articles/b6adb67b.json)
+
+[Extended Data](ext_articles/b6adb67b.ext.json)
 
 ---
 
@@ -136,7 +182,15 @@ Residents of the affected areas have been urged to be vigilant and take necessar
 
 The 11 suspects, including a female suspect, who were arrested in connection with the shooting and killing of two persons including Surendra Wasantha Perera alias ‘Club Wasantha’ in Athurigiriya, have been further remanded until September 02 by the Kaduwela Magistrate’s Court, Ada Derana reporter said.
 
-◼️
+The order was issued after the defendants were produced before the Kaduwela Magistrate’s Court today (20).
+
+The legal case related to the incident was taken up before the court this afternoon.
+
+Police had arrested eleven suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place on July 08 and a 21-year-old female on suspicion of having aided and abetted in the shooting incident.
+
+During the investigations carried out thus far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million over a period of time.
+
+...
 
 [Data](articles/505e39f4.json)
 
@@ -354,19 +408,29 @@ Arjuna Ranatunga, who has said that cricket is ruined by gambling, and Thilanga 
 
 ---
 
-### අනුර අපුරේ ආගමික වතාවත්වල
+### Anura Religious Current
 
 *2024-08-20 10:45:04* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-අපුරේ-ආගමික-වතාවත්වල/11-411455) · `si`
 
-ජාතික ජන බලවේගය පක්ෂයේ ජනපති ධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතා  ඊයේ  (19දා) පස්වරුවේ අනුරාධපුරයට පැමිණ  අමටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතන නා හිමියන් බැහැ දැක, අනතුරුව  ඓතිහාසික  ජය ශ්‍රී මහා බෝ සමිඳුන්  වැඳ පුදා ගෙන ආශිර්වාද ලබා ගත්තේය.
+Anura Kumara Dissanayake criticized political practices, highlighting issues like corruption, party transfers, and the influence of money over merit in candidate selection. He emphasized the need for honesty, integrity, and a focus on building a manufacturing economy. He also touched on the International Monetary Fund's involvement and the potential abolition of the Executive Presidency, suggesting it aligns with national sentiment but was previously unaddressed.
 
-ආශිර්වාද ලබා ගැනීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඒ මහතා කියා සිටියේ, රනිල් වික්‍රමසිංහ මහතා මේ වන විටත් රට තුල කැලෑ නීතිය ක්‍රියාත්මක කරමින් පවතින බවය. මෛත්‍රිපාල සිරිසේන, චන්ද්‍රිකා කුමාරතුංගද ඔවුන්ගේ පාලන සමයේ කැලෑ නීති ක්‍රියාත්මක කල බවත් ජාතික ජන බලවේගයක් යටතේ නීතිය නිසියාකාරව ක්‍රියාත්මක කරන බවද ඒ මහතා පැවසීය.
+🟩
 
-"අධිකරණයෙන් වැරදි කරුවන් වූවන්ට , බරපතල ගණයේ අපරාධ කල පුද්ගලයන්ට කිසිදු මැතිවරණයකට ඉදිරි පත්වීමට නොහැකි වන ආකාරයට නීති ගෙන ඒමට අපි ඉදිරියේදී  කටයුතු කරනවා. මැතිවරණ සඳහා ඡන්ද අපේක්ෂකයන් ඉදිරිපත් කිරීමේදී පක්ෂ නායකයන්ට වගකීමක් තිබෙනවා. ඒත් ඔවුන් මුලින්ම බලන්නේ  මැතිවරණයට ඉදිරිපත් කිරීම සඳහා එම අපේක්ෂකයා සතුව මුදල් කොපමණක් තිබෙනවාද යන්න පමණයි.
+Amassamanadhi Candinal Anura Kumara Dissanayake, President's President of the party, visited Anuradhapura last evening and visited Pallegama Hemarathana Nawaraga.
+
+Speaking to the media after blessings, he said that Ranil Wickremesinghe is already underway in the country.. He also said that Maithripala Sirisena and Chandrika Kumaratunga were implementing the jungles of jungles during their reign.
+
+"We work in the future to bring the lawyers to the victims of the judiciary. Party leaders have a responsibility while presenting election candidates for elections. But they first look at the number of money to present the election.
+
+We change the culture of mind and honesty that the candidate has the knowledge and sincerity.
+
+The government of the national proof is a broken promise to stop corruption and punishing fraudsters and pollutants. We believe that a program to build a manufacturing economy can be strengthened by rejecting the taxpayers to provide a meal to the poor and the poor taxpayers.
 
 ...
 
 [Data](articles/4e57e4d7.json)
+
+[Extended Data](ext_articles/4e57e4d7.ext.json)
 
 ---
 
@@ -2209,45 +2273,5 @@ Accordingly, the amount that cost one voter is Rs. 109.
 [Data](articles/189ecf96.json)
 
 [Extended Data](ext_articles/189ecf96.ext.json)
-
----
-
-### Presidential election spending limit to be gazetted
-
-*2024-08-19 20:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101358/presidential-election-spending-limit-to-be-gazetted-) · `en`
-
-A Gazette notification will be issued tonight stipulating the maximum amount that a Presidential Candidate can spend on each voter during their election campaigns, the Commissioner General of Elections Saman Sri Ratnayake said.
-
-Accordingly, the maximum amount that each candidate can spend will be gazette as Rs. 109.00 per voter, he said.
-
-All upcoming national elections will be subject to new campaign finance laws that will limit the amount of funding that candidates, political parties and independent groups can spend on their campaigns.
-
-Ahead of the upcoming presidential election, the Election Commission had met with various stakeholders to brief them on the legislation and obtain their views and suggestions on establishing the spending limit and how to move forward in implementing the laws.
-
-◼️
-
-[Data](articles/7e120bc9.json)
-
-[Extended Data](ext_articles/7e120bc9.ext.json)
-
----
-
-### Lucky lucky to Indi Raja
-
-*2024-08-19 20:16:20* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දි-රාජාට-ලැබුණ-වාසනාව/10-411449) · `si`
-
-Today marked the historic finale of the Esala Perahera in Kandy, with the last Randoljah elephant's inauguration at the Sri Dalada Maligawa.
-
-🟩
-
-The final Randoli Perahera of the historical Esala Perahera of Kandy was held today (19).
-
-The last Randoljah elephant was inaugurated at the Sri Dalada Maligawa..
-
-◼️
-
-[Data](articles/2b385b1f.json)
-
-[Extended Data](ext_articles/2b385b1f.ext.json)
 
 ---

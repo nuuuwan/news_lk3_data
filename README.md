@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 15:55:24**
+As of **2024-08-20 16:08:40**
 
 ## Newspaper Stats
 
-*Scraped **41,683** Articles*
+*Scraped **41,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,515
 dailyftlk | 2,687
-adalk | 3,834
+adalk | 3,835
 dailymirrorlk | 4,733
 adaderanalk | 4,879
 tamilmirrorlk | 5,392
 virakesarilk | 6,615
-adaderanasinhalalk | 7,113
+adaderanasinhalalk | 7,114
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,683 (100.0%) of 41,683 articles have been extended.
+41,683 (100.0%) of 41,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### ජනපති ධුර අපේක්ෂකයන් මුදල් වියදම් කළ යුතු අයුරු
+
+*2024-08-20 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200135) · `si`
+
+2024 ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයෙකුට මැතිවරණ ප්‍රචාරක කටයුතු සඳහා එක් ඡන්දහිමියෙකු වෙනුවෙන් වැය කළ හැකි උපරිම මුදල රුපියල් 109ක් ලෙස දක්වමින් මැතිවරණ කොමිෂන් සභාව අතිවිශේෂ ගැසට් පත්‍රයක් නිකුත් කළේය.
+
+ඒ, 2023 අංක 3 දරන මැතිවරණ වියදම් නියාමනය කිරීමේ පනතේ තුන්වන වගන්තිය ප්‍රකාරවය.
+
+ඒ අනුව ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයෙකුට සිය මැතිවරණ ප්‍රචාරක වියදම් ලෙස වැය කළ හැකි උපරිම සීමාව රුපියල් එකසිය අසූ හයකෝටි අසූ දෙලක්ෂ 98,586කි.
+
+ජනාධිපති අපේක්ෂකයෙකුට එම මුදලින් සියයට 60ක් හෙවත් රුපියල් එකසිය දොළොස් කෝටි නවලක්ෂ 79,151යි ශත 60ක මුදලක් සිය ප්‍රචාරක වියදම් ලෙස දැරිය හැකිය.
+
+ඊට අමතරව ඉතිරි සියයට 40 හෙවත් රුපියල් හැත්තෑහතර කෝටි හැත්තෑ තුන්ලක්ෂ 19,434යි ශත 40ක මුදලක් අපේක්ෂකයාගේ ප්‍රචාරක කටයුතු වෙනුවෙන් පිළිගත් දේශපාලන පක්ෂයක හෝ වෙනත් දේශපාලන පක්ෂයක ලේකම්වරයාට හෝ අපේක්ෂකයෙකු නාමයෝජනා කළ ඡන්දහිමියාට වැයකළ හැකි බව මැතිවරණ කොමිෂන් සභාව නිකුත් කළ ගැසට් නිවේදනයේ සඳහන් ය.
+
+...
+
+[Data](articles/867f1036.json)
+
+---
 
 ### Bodies of 6 hostages meet
 
@@ -147,6 +167,20 @@ Police say that the fire is believed to have been damaged in about Rs.
 [Data](articles/e5206477.json)
 
 [Extended Data](ext_articles/e5206477.ext.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතනයේ සැකකරුන් තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කෙරේ
+
+*2024-08-20 14:43:40* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-සැකකරුන්-තවදුරටත්-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-411461) · `si`
+
+ක්ලබ් වසන්ත නොහොත් සුරේන්ද්‍ර වසන්ත පෙරේරා ඝාතන සිද්ධියට අත්අඩංගුවට ගත් සැකකරුන් 11 දෙනා ලබන සැප්තැම්බර් 02වැනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+අදාළ නඩුව අද (20දා) කඩුවෙල මහේස්ත්‍රාත් අධිකරණයේදී කැදවූ අවස්ථාවේදී මෙම නියෝගය ලබා දී ඇත.
+
+◼️
+
+[Data](articles/4e4f3665.json)
 
 ---
 
@@ -2307,39 +2341,5 @@ In a statement the MMBL-Pathfinder Group said its joint-venture investment portf
 [Data](articles/efe82ddd.json)
 
 [Extended Data](ext_articles/efe82ddd.ext.json)
-
----
-
-### Breastfeeding
-
-*2024-08-20 02:12:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்ப்பால்-புரைக்கேறி-குழந்தை-மரணம்/175-342485) · `ta`
-
-Breastfeeding is the process where a baby feeds directly from a mother's breast to obtain nutrition. It's considered the optimal source of nutrition for infants, providing essential nutrients, antibodies, and emotional bonding.
-
-🟩
-
-◼️
-
-[Data](articles/52ac123e.json)
-
-[Extended Data](ext_articles/52ac123e.ext.json)
-
----
-
-### NCCSL, NEDA announces Entrepreneur Awards 2024 – Western Province
-
-*2024-08-20 02:11:26* · [`dailyftlk`](https://www.ft.lk/business/NCCSL-NEDA-announces-Entrepreneur-Awards-2024-Western-Province/34-765739) · `en`
-
-The National Chamber of Commerce of Sri Lanka (NCCSL), in partnership with the National Enterprise Development Authority (NEDA), has announced the launch of the Western Province Entrepreneur Awards 2024.
-
-Now in its seventh consecutive year, this prestigious event celebrates outstanding achievements in the Micro, Small, Medium, and Large Sectors, with a special focus on business excellence within the region.
-
-The National Chamber of Commerce of Sri Lanka and NEDA have been assisting the Micro, Small, Medium and Large sectors in the regions for a long time, and this offers special focus towards the upliftment of these sectors in the Western Province to develop their businesses and conduct training programs for them, including entrepreneurs with special abilities.
-
-...
-
-[Data](articles/c36afa90.json)
-
-[Extended Data](ext_articles/c36afa90.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 20:55:48**
+As of **2024-08-20 21:06:47**
 
 ## Newspaper Stats
 
-*Scraped **41,735** Articles*
+*Scraped **41,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ economynextcom | 2,515
 dailyftlk | 2,687
 adalk | 3,842
 dailymirrorlk | 4,733
-adaderanalk | 4,887
+adaderanalk | 4,888
 tamilmirrorlk | 5,400
 virakesarilk | 6,631
-adaderanasinhalalk | 7,125
+adaderanasinhalalk | 7,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,733 (100.0%) of 41,735 articles have been extended.
+41,735 (100.0%) of 41,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### භාණ්ඩ මිල තවදුරටත් පහළ යන බව ජනපති කියයි
+
+*2024-08-20 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200148) · `si`
+
+රුපියල ශක්තිමත් වෙමින් ඇති බවත් ඒ අනුව භාණ්ඩ මිල ඉදිරියේදී තවදුරටත් පහළ යන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ 2024 ඇසළ පෙරහර මංගල්‍යයේ අවසන් රන්දෝලි මහ පෙරහර නැරඹීමට ඊයේ (19) එක්වීමෙන් අනතුරු පැමිණ සිටි ජනතාව සමග සුහද කතාබහක නිරතවෙමිනි.
+
+◼️
+
+[Data](articles/7de874f1.json)
+
+---
 
 ### Sri Lanka release world’s longest stamp symbolising Kandy Esala Perahera
 
@@ -43,6 +57,8 @@ The commemorative stamp was presented to President Ranil Wickremesinghe, accordi
 ◼️
 
 [Data](articles/9663b8cb.json)
+
+[Extended Data](ext_articles/9663b8cb.ext.json)
 
 ---
 
@@ -158,19 +174,29 @@ Ollie Pope will captain England in the absence of Stokes, while keeper Jamie Smi
 
 ---
 
-### දේශපාලනයෙන් විශ්‍රාම ගෙන සිටි ජනපතිට ආයේ පාර්ලමේන්තු එන්න කීවේ නවින්
+### The President who retired from politics came to Parliament
 
 *2024-08-20 19:16:46* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලනයෙන්-විශ්‍රාම-ගෙන-සිටි-ජනපතිට-ආයේ-පාර්ලමේන්තු-එන්න-කීවේ-නවින්/11-411472) · `si`
 
-දේශපාලනයෙන් විශ්‍රාම ගෙන සිටිජනපති රනිල් වික්‍රමසිංහ මහතාට එජාප ජාතික ලැයිස්තු මන්ත්‍රීධුරය භාරගෙන නැවත පාර්ලිමේන්තුවට පැමිණෙන ලෙස මුලින්ම යෝජනා කළේ සබරගමු ආණ්ඩුකාරවර නවින් දිසානායක මහතා බව ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා අද (20දා) පැවසීය.
+Navaragamuwa Governor Dissanayake, backed by President Ranil Wickremesinghe, was proposed to lead the UNP parliamentary list. Wickremesinghe emphasized unity and economic recovery, referencing a historical moment similar to 1956. The move aims to revitalize the UNP under Wickremesinghe's leadership, with support from various MPs including State Minister Ranjith Siyambalapitiya and others in the Kegalle District.
 
-ඒ මහතා මෙම අදහස් පලකළේජනාධිපති රනිල් වික්‍රමසිංහ මහතා නැවතත් ජනාධිපති කරලිමේ අරමුණින් සංවිධානය කෙරෙන ‘පුළුවන් ශ්‍රි ලංකා‘ කෑගල්ලලේ පැවති ඒකාබද්ධ සමුළු රැස්වීමේ ප්‍රධාන ආරාධිතයා ලෙස එක්වෙමිනි.
+🟩
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ සාගල රත්නායක මහතා පැවසුවේ පසුගිය කාල සීමාවේ ශ්‍රි ලංකාවේ ආර්ථිකය පැවැති ආකාරය ,අස්වැසුම ක්‍රමය තුළින් දිළිදුභාවය තුරන් කිරිමට සහය දුන් අයුරු ,උද්ධමනය පෙර පැවැති තත්ත්වය සහ දැන් තිබෙන්නවා වු තත්ත්වය පිළිබඳව ද රටේ පක්ෂ පාට බේදයකින් තොරව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නැවතත් ජනාධිපති කරලිමේ අරමුණින් සියලු  එකතුවෙන ලෙස ආරාධනා කරන බවත්  1956 න් පසු ප්‍රථම වතාවට යළිත් එක අරමුණකින් පක්ෂ පාට බේදයකින් තොරව සියලු දෙනා එකමුතු වි ඇති බවයි.
+Presidential Chief of Staff Sabaragamuwa Governor Navaragan Dissanayake, the Presidential staff, Navaragamuwa Governor, was first proposed to take over the UNP national listing of the UNP to parliament.
+
+He said that Ranil Wickremesinghe was backing the President's committee, "collectively participating in the joint guest at the 'Joint Meeting' in Sri Lanka.
+
+President Ranil Wickremesinghe once again, President Ranil Wickremesinghe has again commented on the country's color resolution to eradicate poverty in the recent period of time in the recent period.Everyone is united for the first time in 1956 after 1956, everyone has united.
+
+The country was restored by the country as a result of the country's economically degenerated by the country two years ago, the country was restored by the President of the UNP.Mr. Wickremesinghe.
+
+He was not assumed that he had not to accept the UNP that the UNP should be assumed by the UNP.
 
 ...
 
 [Data](articles/02b1f7d7.json)
+
+[Extended Data](ext_articles/02b1f7d7.ext.json)
 
 ---
 
@@ -859,6 +885,20 @@ The signing ceremony took place this evening at the Galadari Hotel, Colombo with
 [Data](articles/2f6f8f2b.json)
 
 [Extended Data](ext_articles/2f6f8f2b.ext.json)
+
+---
+
+### Sri Lanka’s LTL Holdings and India’s Petronet ink MoU for LNG supply to Sobadhanavi plant
+
+*2024-08-20 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101375/sri-lankas-ltl-holdings-and-indias-petronet-ink-mou-for-lng-supply-to-sobadhanavi-plant) · `en`
+
+A significant milestone in Sri Lanka’s energy sector unfolded today (20) with the signing of a Memorandum of Understanding (MOU) between LTL Holdings Limited of Sri Lanka and Petronet LNG Limited of India, for the development of infrastructure for the storage, regasification and supply of Liquefied Natural Gas (LNG) for the “Sobadhanavi” Combined Cycle Power Plant in Kerawalapitiya.
+
+The signing ceremony took place this evening at the Galadari Hotel, Colombo with the Chief Executive Officer of LTL Holdings Limited Mr. Nuhuman Marikkar and Chief Executive Officer and Managing Director of Petronet LNG Company Mr. Akshay Kumar Singh signing the agreement on behalf of their respective organizations.
+
+...
+
+[Data](articles/f565130b.json)
 
 ---
 
@@ -2329,53 +2369,5 @@ Police say that the man is carrying out the bomb to the crowded area.
 [Data](articles/913a6f84.json)
 
 [Extended Data](ext_articles/913a6f84.ext.json)
-
----
-
-### 631 complaints so far
-
-*2024-08-20 10:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-631-முறைப்பாடுகள்-பதிவு/175-342497) · `ta`
-
-From July 31 to August 18, the Election Commission received 631 complaints about the upcoming presidential election, including 65 on August 18 regarding election law violations. The National Election Complaints Center handled 346 complaints, while 285 came from district centers.
-
-🟩
-
-A total of 631 complaints have been received from the Election Commission on the upcoming presidential election till the evening of Sunday (18).
-
-The complaints have been received within the period from July 31 to August 18, the Commission said.
-
-They said 65 complaints filed last Sunday (18) were related to election law violations.
-
-Of the 631 complaints, the National Election Complaints Center received 346 complaints and 285 district centers.
-
-◼️
-
-[Data](articles/c1990e63.json)
-
-[Extended Data](ext_articles/c1990e63.ext.json)
-
----
-
-### Ready for direct debate: Namal
-
-*2024-08-20 10:23:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேரடி-விவாதத்துக்கு-தயார்-நாமல்/175-342496) · `ta`
-
-Namal, representing Sri Lanka's PA, has accepted an invitation from the Daily Mirror for a direct debate with major presidential candidates before the September 21st election. The debate includes Sajith Premadasa, Anurakumara Dissanayake, and Ranil Wickremesinghe. Namal emphasizes the need for such debates to allow citizens to better understand candidates' views, policies, and plans, aiding informed voting decisions.
-
-🟩
-
-Sri Lanka PA has officially accepted the invitation of the Daily Mirror and Lanka Sri Lanka's Presidential candidate for a direct debate with the main presidential candidates ahead of the presidential election on September 21.
-
-In a letter to the Chief Editor of the Daily Mirror, Jamila Hussein, Namal said that Sajith Premadasa, Anurakumara Dissanayake and Ranil Wickremesinghe will be in the debate.
-
-In the letter of Rajapakse, Namal explained the importance of organizing this kind of debate.
-
-“It is time for us to insert this practice of public debate among the main candidates so that citizens will have the opportunity to relatively understand the views, policies and action plans of each candidate. This will help people make an intellectual decision in the upcoming election. ”
-
-◼️
-
-[Data](articles/9b43b529.json)
-
-[Extended Data](ext_articles/9b43b529.ext.json)
 
 ---

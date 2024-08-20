@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 11:36:58**
+As of **2024-08-20 11:56:40**
 
 ## Newspaper Stats
 
-*Scraped **41,639** Articles*
+*Scraped **41,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 4,874
 tamilmirrorlk | 5,383
 virakesarilk | 6,601
-adaderanasinhalalk | 7,107
+adaderanasinhalalk | 7,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,628 (100.0%) of 41,639 articles have been extended.
+41,639 (100.0%) of 41,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### තැපැල් ඡන්ද සඳහා සුදුසුකම් ලැබූ පිරිස ගැන හෙළිදරව්වක්
+
+*2024-08-20 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200129) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා ඡන්දදායකයින් 736,589ක් තැපැල් ඡන්ද සඳහා ඉල්ලුම්කර ඇති බව මැතිවරණ කොමිසම පවසයි.
+
+එසේ ඉල්ලුම්කර ඇති ප්‍රමාණයෙන් 24,268ක් ප්‍රතික්ෂේප වී ඇති බවද වාර්තා විය.
+
+මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා ඒ බව හෙළිකළේය.
+
+එළැ ඹෙන 26 වැනිදා තැපැල් ඡන්ද සලකුණු කිරීමට අදාළ පත්‍රිකා අදාළ ආයතන වෙත යොමුකරන බව ද ඒ මහතා පැවසීය.
+
+සැප්තැම්බර් මස මුල් සතියේ දින තුනක කාලයක් තැපැල් ඡන්ද සලකුණු කිරීම සඳහා අවස්ථාව සලසා දී ඇති බව එම කොමිෂන් සභාව සඳහන් කළේය.
+
+මේ සම්බන්ධයෙන් කරුණු පැහැදිලි කරන මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්.රත්නායක මහතා,
+
+...
+
+[Data](articles/7a86eb6c.json)
+
+---
 
 ### ‘Club Wasantha’ murder suspects further remanded
 
@@ -42,57 +64,77 @@ The 11 suspects, including a female suspect, who were arrested in connection wit
 
 [Data](articles/505e39f4.json)
 
+[Extended Data](ext_articles/505e39f4.ext.json)
+
 ---
 
-### ක්ලබ් වසන්ත ඝාතන සැකකරුවන්ට අධිකරණයෙන් දුන් නියෝගය
+### Court order to suspects club spring murder
 
 *2024-08-20 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200128) · `si`
 
-ක්ලබ් වසන්ත ඝාතන සැකකරුවන්ව සැප්තැම්බර් 2 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+Suspects in Club Spring murder case remanded till Sept 2, appearing in Kaduwela Magistrate's Court today.
 
-ඔවුන්ව අද (20) දැඩි ආරක්ෂාවක් මධ්‍යයේ කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළේය.
+🟩
+
+Club spring murder suspects remanded until September 2.
+
+They were produced before the Kaduwela Magistrate's Court today.
 
 ◼️
 
 [Data](articles/7b53d430.json)
 
+[Extended Data](ext_articles/7b53d430.ext.json)
+
 ---
 
-### මන්කිපොක්ස් ආසාදිත මරණ 500 ඉක්මවයි
+### Mankipox exceeds 500 deaths
 
 *2024-08-20 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200127) · `si`
 
-වඳුරු උණ හෙවත් 'මන්කිපොක්ස්' වෛරසය ආසාදනය වීම හේතුවෙන් මියගිය පුද්ගලයින් සංඛ්‍යාව 548 දක්වා ඉහළ ගොස් තිබේ.
+Mankipox, also known as Mizksax, has caused over 500 deaths, primarily in Africa. The World Health Organization has declared it a global emergency due to its rapid spread. Health authorities are urging accelerated vaccination efforts to combat this virus.
 
-අප්‍රිකානු රටවල වේගයෙන් ව්‍යාප්ත වෙමින් පවතින මෙම වෛරස් රෝගී තත්ත්වය පුද්ගලයින් 16,000ක් පමණ මේ වන විට ගොඳුරු වී ඇති බව වාර්තා වේ.
+🟩
 
-'මන්කිපොක්ස්' වෛරසයේ ව්‍යාප්තිය සැලකිල්ලට ගනිමින් ලෝක සෞඛ්‍ය සංවිධානය විසින් එය ගෝලීය හදිසි තත්ත්වයක් ලෙස පසුගියදා ප්‍රකාශයට පත්කරනු ලැබීය.
+The number of people who died in infection has increased to 548 due to the monkey fever or 'Mizksax' virus.
 
-මෙම වෛරස් ව්‍යාප්තිය පාලනය කිරීම සඳහා එන්නත් වැඩසටහන වේගවත් කරන ලෙස අප්‍රිකානු රටවල සෞඛ්‍ය බලධාරීන් ඉල්ලීමක් කර ඇති බව වාර්තා වේ.
+It is reported that these viral illness is spreading in African countries, reports say.
+
+The World Health Organization declared it as a global emergency by the World Health Organization by considering the expansion of the mantpos.
+
+It is reported that the health authorities of African countries have requested to accelerate the vaccine program to control the vision of these views.
 
 ◼️
 
 [Data](articles/6b736a30.json)
 
+[Extended Data](ext_articles/6b736a30.ext.json)
+
 ---
 
-### ’கேமி’ க்கு 50 பேர் பலி;  ஏராளமானோர் மாயம்
+### 50 killedMay a number of magic
 
 *2024-08-20 11:05:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கேமி-க்கு-50-பேர்-பலி-ஏராளமானோர்-மாயம்/50-342500) · `ta`
 
-சீனாவில் ஏற்பட்ட சூறாவளியில் 50 பேர் பலியாகி உள்ள சம்பவம் சோகத்தை ஏற்படுத்தி உள்ளது.
+A devastating tornado in China's Hunan Province resulted in 50 deaths and significant damage, affecting over 1700 homes and triggering 65,000 landslides. Heavy rains led to evacuations of 23,419 people, with 15 still missing. Rescue efforts are ongoing, and essential services have been restored.
 
-சீனாவில் ஹூனான் மாகாணத்தில் உள்ள ஜிசிங் நகரில் கேமி சூறாவளி வீசியது. சூறாவளியின் எதிரொலியாக, கனமழையும் கொட்டித் தீர்க்க, மக்களின் இயல்பு வாழ்க்கை கடுமையாக பாதிக்கப்பட்டுள்ளது.
+🟩
 
-1700க்கும் அதிகமான வீடுகள் சேதம் அடைந்துள்ள நிலையில், 65,000 நிலச்சரிவுகளில் அந்நகரமே நிலைகுலைந்துள்ளது. மழை தொடர்ந்து நீடிப்பதால், 23,419 பேர் பாதுகாப்பான இடங்களுக்கு அப்புறப்படுத்தப்பட்டு உள்ளனர்.
+The tragedy of 50 people killed in a tornado in China has caused tragedy.
 
-இந்நிலையில், மழையில் சிக்கி 50 பேர் பலியாகி இருப்பதோடு, 15 பேர் காணாமல் போனதாக அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டுள்ளது.
+Gamy hurricanes in Jissing in Hunan Province China. As a result of the hurricane, the normal life of the people has been severely affected by heavy rains.
 
-மீட்புப் படையினர் பாதிக்கப்பட்டு பகுதிகளில் முகாமிட்டு, மீட்பு நடவடிக்கைகளில் ஈடுபட்டு உள்ளனர். மின்சாரம், தகவல் தொடர்பு, குடிநீர் விநியோகம் போன்ற அத்தியாவசிய சேவைகள் அனைத்தும் ஏற்படுத்தப்பட்டு உள்ளதாக அதிகாரிகள் தெரிவித்துள்ளனர்.S
+With more than 1700 homes damaged, the city is in a state of disrepair in 65,000 landslides. As rain continues, 23,419 people have been evacuated to safe places.
+
+At this point, 50 people have been killed in the rain and 15 have been reported missing.
+
+Rescuers are camping in the affected areas and engaged in rescue operations. Officials said the essential services such as electricity, communication and drinking water supply have been set up.
 
 ◼️
 
 [Data](articles/1b9d3d8c.json)
+
+[Extended Data](ext_articles/1b9d3d8c.ext.json)
 
 ---
 
@@ -113,6 +155,8 @@ During the investigations carried out thus far, it has been revealed that the ow
 ...
 
 [Data](articles/5d1bbdaa.json)
+
+[Extended Data](ext_articles/5d1bbdaa.ext.json)
 
 ---
 
@@ -138,21 +182,29 @@ A 24-year-old resident of the Kottukachchiya area has been arrested by the polic
 
 ---
 
-### ”சஜித் சகாக்கள் பலர் ரணிலுடன் இணைவர்”
+### "Sajith colleagues join Ranil"
 
 *2024-08-20 10:49:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-சகாக்கள்-பலர்-ரணிலுடன்-இணைவர்/175-342498) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் (SJB) மேலும் நான்கு அல்லது ஐந்து உறுப்பினர்கள் அடுத்த சில நாட்களில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் இணையவுள்ளதாக முன்னாள் அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+Manusha Nanayakkara announced that several members from the United People's Power (SJB), including four to five key figures, will join President Ranil Wickremesinghe in the coming days. This move comes as part of a broader support network for the president in the upcoming elections, with fourteen SJB members already expressing their backing. The SJB, known for its diverse opinions, enjoys the support of MPs from the Sri Lanka Peoples Freedom Alliance (PA) and notable figures like Sujeewa Senasinghe, Arjuna Ranatunga, Thilanga Sumathipala, Sampika Ranawaka, and Sajith Premadasa.
 
-எதிர்வரும் தேர்தலில் ஜனாதிபதிக்கு ஆதரவாக மொத்தம் பதினான்கு SJB உறுப்பினர்கள் ஏற்கனவே தமது ஆதரவை வழங்கியுள்ளனர் என நிகழ்வொன்றில் உரையாற்றிய நாணயக்கார தெரிவித்தார்.
+🟩
 
-SJB யில் தற்போது ஒரே விடயங்களை ஏற்றுக்கொள்பவர்கள் மற்றும் எதிர்ப்பவர்கள் என சமனான குழுவான்று இருப்பதாகவும் முன்னாள் அமைச்சர் மேலும் சுட்டிக்காட்டினார்.
+Former Minister Manusha Nanayakkara has said that four or five members of the United People's Power (SJB) will join President Ranil Wickremesinghe in the next few days.
 
-வில்பத்து வனப்பகுதியை வெட்டிய றிசாத் பதியுதீன் மற்றும் அதனை எதிர்த்த ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர்களின் ஆதரவை தற்போது SJB கொண்டுள்ளது. பத்திரப்பதிவு மோசடி குறித்து புத்தகங்களை எழுதிய சுஜீவ சேனசிங்க, அதேபோன்று இந்த மோசடியை பகல் கொள்ளை என்று கூறிய டலஸ் அழகப்பெருமவும் கட்சியில் உள்ளனர்.
+Speaking at an event, Nanayakkara said that a total of fourteen SJB members have already given their support in support of the president in the upcoming election.
+
+The former minister further pointed out that the SJB is currently an equal group of people who accept and oppose the same things.
+
+The SJB currently has the support of MPs of the Sri Lanka Peoples Freedom Alliance (PA). Sujeewa Senasinghe, who wrote books on the scandal scam, is also in the party, who claimed that the fraud was a daylight robbery.
+
+Arjuna Ranatunga, who has said that cricket is ruined by gambling, and Thilanga Sumathipala, who runs the gambling.. Sampika Ranawaka, who criticized the loans by speaking English, and Sajith Premadasa, who are trying to get a loan in English, are in the party. ”
 
 ...
 
 [Data](articles/acfca123.json)
+
+[Extended Data](ext_articles/acfca123.ext.json)
 
 ---
 
@@ -202,39 +254,51 @@ Police say that the man is carrying out the bomb to the crowded area.
 
 ---
 
-### இதுவரையில் 631 முறைப்பாடுகள் பதிவு
+### 631 complaints so far
 
 *2024-08-20 10:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-631-முறைப்பாடுகள்-பதிவு/175-342497) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தல் தொடர்பில் தேர்தல்கள் ஆணைக்குழுவிற்கு கடந்த ஞாயிற்றுக்கிழமை (18) மாலை வரை மொத்தம் 631 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன.
+From July 31 to August 18, the Election Commission received 631 complaints about the upcoming presidential election, including 65 on August 18 regarding election law violations. The National Election Complaints Center handled 346 complaints, while 285 came from district centers.
 
-ஜூலை 31 முதல் ஒகஸ்ட் 18 வரையிலான காலப்பகுதிக்குள் இந்த முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக ஆணைக்குழு தெரிவித்துள்ளது.
+🟩
 
-கடந்த ஞாயிற்றுக்கிழமை (18) பதிவாகிய 65 முறைப்பாடுகள் தேர்தல் சட்ட மீறல்கள் தொடர்பானவை என அவர்கள் தெரிவித்தனர்.
+A total of 631 complaints have been received from the Election Commission on the upcoming presidential election till the evening of Sunday (18).
 
-631 முறைப்பாடுகளில், தேசிய தேர்தல் முறைப்பாடுகள் மையம் 346 முறைப்பாடுகளையும், மாவட்ட மையங்கள் 285 முறபைபாடுகளையும் பெற்றுள்ளன.
+The complaints have been received within the period from July 31 to August 18, the Commission said.
+
+They said 65 complaints filed last Sunday (18) were related to election law violations.
+
+Of the 631 complaints, the National Election Complaints Center received 346 complaints and 285 district centers.
 
 ◼️
 
 [Data](articles/c1990e63.json)
 
+[Extended Data](ext_articles/c1990e63.ext.json)
+
 ---
 
-### நேரடி விவாதத்துக்கு தயார்:  நாமல்
+### Ready for direct debate: Namal
 
 *2024-08-20 10:23:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேரடி-விவாதத்துக்கு-தயார்-நாமல்/175-342496) · `ta`
 
-செப்டம்பர் 21 ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தலுக்கு முன்னதாக பிரதான ஜனாதிபதி வேட்பாளர்களுடன் நேரடி விவாதத்திற்கு டெய்லி மிரர் மற்றும் லங்காதீப விடுத்த அழைப்பை ஸ்ரீலங்கா பொதுஜன பெரமுன ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ உத்தியோகபூர்வமாக ஏற்றுக்கொண்டுள்ளார்.
+Namal, representing Sri Lanka's PA, has accepted an invitation from the Daily Mirror for a direct debate with major presidential candidates before the September 21st election. The debate includes Sajith Premadasa, Anurakumara Dissanayake, and Ranil Wickremesinghe. Namal emphasizes the need for such debates to allow citizens to better understand candidates' views, policies, and plans, aiding informed voting decisions.
 
-டெய்லி மிரர் பத்திரிகையின் பிரதம ஆசிரியர் ஜமிலா ஹுசைனுக்கு எழுதிய கடிதத்தில், சஜித் பிரேமதாச, அனுரகுமார திஸாநாயக்க மற்றும் ரணில் விக்கிரமசிங்க ஆகிய முன்னணி போட்டியாளர்களுடன் விவாதத்தில் கலந்துகொள்ள விருப்பம் நாமல் தெரிவித்துள்ளார்.
+🟩
 
-ராஜபக்ச கடிதத்தில் இந்த வகையான விவாதத்தை ஏற்பாடு செய்வதன் முக்கியத்துவத்தை நாமல் குறித்த கடிதத்தில் எடுத்துரைத்தார்.
+Sri Lanka PA has officially accepted the invitation of the Daily Mirror and Lanka Sri Lanka's Presidential candidate for a direct debate with the main presidential candidates ahead of the presidential election on September 21.
 
-“பிரதான வேட்பாளர்களிடையே பொது விவாதத்தின் இந்த நடைமுறையை நாம் புகுத்த வேண்டிய நேரம் இது, இதனால் குடிமக்கள் ஒவ்வொரு வேட்பாளரின் பார்வை, கொள்கைகள் மற்றும் செயல் திட்டங்களை ஒப்பீட்டளவில் புரிந்துகொள்வதற்கான வாய்ப்பைப் பெறுவார்கள். எதிர்வரும் தேர்தலில் மக்கள் அறிவார்ந்த தீர்மானத்தை எடுக்க இது உதவும்”
+In a letter to the Chief Editor of the Daily Mirror, Jamila Hussein, Namal said that Sajith Premadasa, Anurakumara Dissanayake and Ranil Wickremesinghe will be in the debate.
+
+In the letter of Rajapakse, Namal explained the importance of organizing this kind of debate.
+
+“It is time for us to insert this practice of public debate among the main candidates so that citizens will have the opportunity to relatively understand the views, policies and action plans of each candidate. This will help people make an intellectual decision in the upcoming election. ”
 
 ◼️
 
 [Data](articles/9b43b529.json)
+
+[Extended Data](ext_articles/9b43b529.ext.json)
 
 ---
 
@@ -338,27 +402,39 @@ The first earthquake was reported at 4.7 Richter and the 2nd 4.8 magnitude.
 
 ---
 
-### இந்தியாவில்  இரண்டு நிலநடுக்கங்கள்
+### Two earthquakes in India
 
 *2024-08-20 09:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-இரண்டு-நிலநடுக்கங்கள்/175-342489) · `ta`
 
-முதல் நிலநடுக்கம் 4.7 ரிக்டர் அளவிலும், 2 வது 4.8 ரிக்டர் ஆகவும் பதிவாகியுள்ளது.
+India experienced two significant earthquakes: one measured 4.7 Richter and another stronger quake at 4.8 Richter.
+
+🟩
+
+The first earthquake was reported at 4.7 Richter and 2nd 4.8 Richter.
 
 ◼️
 
 [Data](articles/e3ba3036.json)
 
+[Extended Data](ext_articles/e3ba3036.ext.json)
+
 ---
 
-### ඇතුගලින් පැන්නද වටැණද
+### Pitugala and round
 
 *2024-08-20 09:46:01* · [`adalk`](https://www.ada.lk/breaking_news/ඇතුගලින්-පැන්නද-වටැණද/11-411454) · `si`
 
-කුරුණෑගල, ඇතුගලින් බිමට වැටුණු පුද්ගලයෙක් බරපතල තුවාල ලබා කුරුණෑගල ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ. ඊයේ මෙම අනතුර සිදුව ඇති අතර තුවාල ලැබූ පුද්ගලයාගේ අනන්‍යතාව තහවුරු කරගෙන නොමැත.
+A man from Kurunegala, Sri Lanka, fell in Paragagala and was hospitalized in Kurunegala Teaching Hospital after an accident yesterday. His identity remains unknown.
+
+🟩
+
+Man who fell in Paragagala from Kurunegala and Australia has been admitted to the Kurunegala Teaching Hospital. The accident had occurred yesterday and the identity of the injured person has not been verified.
 
 ◼️
 
 [Data](articles/4d18fe36.json)
+
+[Extended Data](ext_articles/4d18fe36.ext.json)
 
 ---
 
@@ -1200,13 +1276,19 @@ In a statement the MMBL-Pathfinder Group said its joint-venture investment portf
 
 ---
 
-### தாய்ப்பால் புரைக்கேறி குழந்தை மரணம்
+### Breastfeeding
 
 *2024-08-20 02:12:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்ப்பால்-புரைக்கேறி-குழந்தை-மரணம்/175-342485) · `ta`
+
+Breastfeeding is the process where a baby feeds directly from a mother's breast to obtain nutrition. It's considered the optimal source of nutrition for infants, providing essential nutrients, antibodies, and emotional bonding.
+
+🟩
 
 ◼️
 
 [Data](articles/52ac123e.json)
+
+[Extended Data](ext_articles/52ac123e.ext.json)
 
 ---
 
@@ -2101,25 +2183,5 @@ Book Review: Mountain at A center of the world: Pilgrimage and Pluralism in Sri 
 [Data](articles/9e7b895b.json)
 
 [Extended Data](ext_articles/9e7b895b.ext.json)
-
----
-
-### Sri Lankan national on board luxury yacht that sank off Sicily coast – reports
-
-*2024-08-19 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101357/sri-lankan-national-on-board-luxury-yacht-that-sank-off-sicily-coast-reports) · `en`
-
-Several British tourists are feared missing after a boat sank off the coast of Sicily. The UK-flagged sailboat’s sinking has left seven individuals unaccounted for following a rescue operation.
-
-The Italian Coastguard and firefighters managed to rescue 15 people, among them a one-year-old child. It is believed the vessel succumbed to a tornado that hit the region.
-
-The majority of those on board were British, along with a New Zealander, a Sri Lankan national, two Anglo-French individuals, and an Irish citizen. According to the Italian news outlet Il Fatto Quotidiano, the boat went down near Porticello around 5am local time (4am GMT) on Monday (August 19).
-
-Dive teams have reached the sunken hull, located 49 meters underwater and roughly half a mile from shore, as reported by the same source, reports the Express. Those rescued from the ill-fated vessel have been brought to Porticciolo, detailed Il Fatto Quotidiano.
-
-...
-
-[Data](articles/8d92deb6.json)
-
-[Extended Data](ext_articles/8d92deb6.ext.json)
 
 ---

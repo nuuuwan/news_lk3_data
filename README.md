@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 09:08:23**
+As of **2024-08-20 09:21:15**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 7,101
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,608 (100.0%) of 41,610 articles have been extended.
+41,610 (100.0%) of 41,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### ළමුන් අතර හතිය රෝගී තත්ත්වයේ ඉහළයාමක්
+### As Highlights of Sickness
 
 *2024-08-20 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200122) · `si`
 
-ළමා හතිය වැනි රෝග තත්ත්වයන්‍ මේ දිනවල වාර්තා වීම ඉහළ ගොස් ඇති  බව කොළඹ රිච්වේ ආර්යා ළමා රෝහලේ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+Dr. Deepal Perera, a specialist based in Colombo, discusses highlights of sickness.
+
+🟩
+
+Dr. Deepal Perera, Specialist Dr. Deepal Perera, Colombo
 
 ◼️
 
 [Data](articles/d2476b07.json)
+
+[Extended Data](ext_articles/d2476b07.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ Conservative peer Chris Patten, the last British governor of Hong Kong, announce
 ...
 
 [Data](articles/7f2c3f93.json)
+
+[Extended Data](ext_articles/7f2c3f93.ext.json)
 
 ---
 

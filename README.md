@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 08:55:56**
+As of **2024-08-20 09:08:23**
 
 ## Newspaper Stats
 
-*Scraped **41,608** Articles*
+*Scraped **41,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 2,507
 dailyftlk | 2,687
 adalk | 3,826
 dailymirrorlk | 4,733
-adaderanalk | 4,867
+adaderanalk | 4,868
 tamilmirrorlk | 5,373
 virakesarilk | 6,601
-adaderanasinhalalk | 7,100
+adaderanasinhalalk | 7,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,608 (100.0%) of 41,608 articles have been extended.
+41,608 (100.0%) of 41,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### ළමුන් අතර හතිය රෝගී තත්ත්වයේ ඉහළයාමක්
+
+*2024-08-20 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200122) · `si`
+
+ළමා හතිය වැනි රෝග තත්ත්වයන්‍ මේ දිනවල වාර්තා වීම ඉහළ ගොස් ඇති  බව කොළඹ රිච්වේ ආර්යා ළමා රෝහලේ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+
+◼️
+
+[Data](articles/d2476b07.json)
+
+---
+
+### Pakistan ex-PM Imran Khan applies to be Oxford Chancellor from jail
+
+*2024-08-20 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101362/pakistan-ex-pm-imran-khan-applies-to-be-oxford-chancellor-from-jail) · `en`
+
+Pakistan’s jailed former prime minister Imran Khan has applied to become the next chancellor of Britain’s prestigious University of Oxford, his party said.
+
+Khan, prime minister from 2018 to 2022, has just marked one year in prison on various charges from corruption to inciting violence that he said are politically motivated and designed to keep him from power.
+
+“Imran Khan had given instructions that he would like to submit his application and now the application scrutiny will take place,” Sayed Zulfikar Bukhari, the London-based spokesman for Khan’s Pakistan Tehreek-e-Insaf (PTI) party, told AFP.
+
+“It’s a ceremonial post but one with utmost prestige and importance and Imran Khan, being one of the larger or more popular names coming out of Oxford, it would be brilliant to see him as chancellor,” he said.
+
+Conservative peer Chris Patten, the last British governor of Hong Kong, announced in February he was stepping down as Oxford chancellor.
+
+...
+
+[Data](articles/7f2c3f93.json)
+
+---
 
 ### President visited the final Randoli
 
@@ -2185,53 +2217,5 @@ President Ranil Wickremesinghe has made this appointment.
 [Data](articles/dac6266a.json)
 
 [Extended Data](ext_articles/dac6266a.ext.json)
-
----
-
-### Commander VS Young Commander -in -Chief 'Code' image preview
-
-*2024-08-19 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191446) · `ta`
-
-The AI-generated preview of "Got," starring Vijay, has garnered four million views within hours. Directed by Venkat Prabhu and featuring a cast including Vijay, Prashant, Prabhu Deva, and others, the film promises both entertainment and storytelling without political undertones. Set for release in Tamil, Telugu, and Hindi across over six thousand theaters globally on September 5th, it marks AGS Entertainment's 25th production. The film's fantasy producer, Archana Kalpathi, and director Venkat Prabhu launched it in Chennai, highlighting its appeal beyond Vijay's fan base.
-
-🟩
-
-The preview of Vijay starrer 'Got' has been released.
-
-The commander and the youngest commander created with the help of artificial intelligence technology appear on the screen and are celebrating not only Vijay fans but all the film fans.. Within a short time of this preview, four million viewers are achieved.
-
-Vijay, Prashant, Prabhu Deva, Mohan, Jayaram, Ajmal, Sneha, Laila, Meenakshi Chaudhry, Yogi Babu, directed by director Venkat Prabhu.. Yuvan Shankar Raja has composed the film, which has been recorded by Siddhartha Nuni.
-
-The film is being produced by AGS Entertainment Company's 25th film.. Akoram+ Kalpathi S. Ganesh + Kalpathi S. Suresh has co -produced.
-
-The film is set to be released in Tamil, Telugu and Hindi in more than six thousand film mansions worldwide on the fifth of September.
-
-In this case, the film has been released. For this, the film's fantasy producer Archana Kalpathi and director Venkat Prabhu participated in the special launch ceremony in Chennai.
-
-...
-
-[Data](articles/fa79fcb5.json)
-
-[Extended Data](ext_articles/fa79fcb5.ext.json)
-
----
-
-### 200 million rupees allocated to Rishad for the development of 6 districts
-
-*2024-08-19 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191447) · `ta`
-
-Rishad Bathiyuthani, MP and President of the All Ceylon Peoples Congress, has been allocated 200 million rupees by the President for the development of six districts. This decision follows a letter from Bathiyuthani to President Ranil Wickremesinghe, leading to the immediate halt of related projects.
-
-🟩
-
-The Presidential Secretariat has announced that the President of the All Ceylon Peoples Congress and Member of Parliament, Rishad Bathiyuthani, has announced that the President will immediately halt the projects worth Rs 200 million for the development of six districts.
-
-It is noteworthy that Parliamentarian Rishad Bathiudeen has sent a letter to President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/c43ef7bb.json)
-
-[Extended Data](ext_articles/c43ef7bb.ext.json)
 
 ---

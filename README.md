@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 00:36:40**
+As of **2024-08-21 00:53:33**
 
 ## Newspaper Stats
 
-*Scraped **41,763** Articles*
+*Scraped **41,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,687
 adalk | 3,845
 dailymirrorlk | 4,733
 adaderanalk | 4,889
-tamilmirrorlk | 5,403
+tamilmirrorlk | 5,404
 virakesarilk | 6,639
 adaderanasinhalalk | 7,132
 
@@ -26,9 +26,25 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,763 (100.0%) of 41,763 articles have been extended.
+41,763 (100.0%) of 41,764 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-21 (Wednesday)
+
+### உலகில் நீளமான முத்திரை ஜனாதிபதியிடம்
+
+*2024-08-21 00:37:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-நீளமான-முத்திரை-ஜனாதிபதியிடம்/175-342542) · `ta`
+
+கண்டி வரலாற்று முக்கியத்துவம் வாய்ந்த தலதா மாளிகை பெரஹராவை குறிக்கும் வகையில் தபால் திணைக்களத்தினால் வெளியிடப்பட்ட உலகில் மிக நீளமான நினைவு முத்திரை நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கையளிக்கப்பட்டது.
+
+இந்த முத்திரை 205 மில்லி மீற்றர் நீளமானது என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/79b05ca1.json)
+
+---
 
 ### 2024-08-20 (Tuesday)
 
@@ -2333,27 +2349,5 @@ The Arleigh Burke-class destroyer is 160 meters in length. These warships can co
 [Data](articles/7f33b07b.json)
 
 [Extended Data](ext_articles/7f33b07b.ext.json)
-
----
-
-### Childhood asthma on the rise in Sri Lanka, health officials warn
-
-*2024-08-20 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101371/childhood-asthma-on-the-rise-in-sri-lanka-health-officials-warn) · `en`
-
-The reports of diseases such as childhood asthma have increased these days, according to the Consultant Paediatrician of Lady Ridgeway Hospital for Children Dr. Deepal Perera.
-
-He further stated that there is an increase in the influenza cases being reported over the past couple of days.
-
-He noted that if a child exhibits symptoms such as a cough and difficulty in breathing, it could be a sign of asthma. According to him, both influenza and various viral fevers are currently spreading and, particularly the fever is affecting the upper respiratory tract. He added that the situation could likely worsen.
-
-“Therefore, if a child has a cough, cold or fever it is advisable to keep the child at home,” said the Consultant Paediatrician.
-
-He further advised that if children are showing such symptoms they should wear a mask and urged parents to be extra cautious about the potential increase in asthma and respiratory diseases among children.
-
-...
-
-[Data](articles/81bfea65.json)
-
-[Extended Data](ext_articles/81bfea65.ext.json)
 
 ---

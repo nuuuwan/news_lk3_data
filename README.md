@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 08:15:41**
+As of **2024-08-20 08:25:57**
 
 ## Newspaper Stats
 
-*Scraped **41,604** Articles*
+*Scraped **41,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,97 @@ dailyftlk | 2,687
 adalk | 3,826
 dailymirrorlk | 4,733
 adaderanalk | 4,867
-tamilmirrorlk | 5,372
+tamilmirrorlk | 5,373
 virakesarilk | 6,601
-adaderanasinhalalk | 7,097
+adaderanasinhalalk | 7,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,595 (100.0%) of 41,604 articles have been extended.
+41,595 (100.0%) of 41,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### අවසන් රන්දෝලිය නරඹන්න ගිය ජනපති
+
+*2024-08-20 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200121) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මහනුවර ඓතිහාසික දළදා මාළිගාවේ වාර්ෂික ඇසල පෙරහැර මංගල්‍යයේ අවසන් රන්දෝලි පෙරහැර නැරඹීමට එක්ව තිබේ.
+
+පෙරහර නැරඹීම සඳහා මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මිය, ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගර රත්නායක මහතා, අමාත්‍ය බන්දුල ගුණවර්ධන,රාජ්‍ය අමාත්‍යවරුන් වන අනුරාධ ජයරත්න, දිලුම් අමුණුගම, ලොහාන් රත්වත්තේ ඇතුළු පිරිසක් එක්ව සිටි බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ ඇසල පෙරහැර මංගල්‍යයේ අවසන් රන්දෝලි පෙරහැර ඊයේ (19) රාත්‍රි වීදී සංචාරය කෙරුණි.
+
+ඊයේ රාත්‍රී 6.57ට යෙදුණු සුබ මොහොතින් උතුරු දිශාභිමුඛව ගමන් ආරම්භ කෙරෙනු අවසන් රන්දෝලි පෙරහැරේ සධාතුක කරඬුව වැඩම කරවීම සිදුකරනු ලැබුවේ ශ්‍රී දළදා මාළිගාවේ ඉන්දිරාජා හස්තියාය.
+
+දළදා වීදිය, යටිනුවර වීදිය, කන්දෙ වීදිය, ඩී.එස් සේනානායක වීදිය ඔස්සේ ගමන් කළ පෙරහැර රජ වීදිය ඔස්සේ ඉහළට විත් ගෙවැදීම සිදුවුණි.
+
+◼️
+
+[Data](articles/4c0ada1f.json)
+
+---
+
+### அதிவிசேட வர்த்தமானி வெளியீடு
+
+*2024-08-20 08:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-342488) · `ta`
+
+ஜனாதிபதி வேட்பாளர் ஒருவர் தமது பிரசார பணிகளின் போது, வாக்காளருக்காக செலவிடக் கூடிய அதிகபட்ச தொகையை நிர்ணயித்து அதிவிசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+இதன்படி, தேர்தல் பிரசாரத்தின் போது ஒரு வாக்காளருக்காக வேட்பாளர் ஒருவர் 109 ரூபாவையே செலவிட முடியும் என அந்த வர்த்தமானியில் குறிப்பிடப்பட்டுள்ளது.
+
+இது தொடர்பான கலந்துரையாடல் ஒன்று அண்மையில் தேர்தல்கள் ஆணைக்குழு அதிகாரிகள் மற்றும் வேட்பாளர்களுக்கிடையே இடம்பெற்ற நிலையில் குறித்த தீர்மானம் எட்டப்பட்டுள்ளது.
+
+இதன்படி, வேட்பாளர் ஒருவரின் மொத்த செலவினமாக 186 கோடியே 82 லட்சத்து 98 ஆயிரத்து 500 ரூபாய் நிர்ணயிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/fd411150.json)
+
+---
+
+### පෑලියගොඩ ඝාතනයක්
+
+*2024-08-20 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200120) · `si`
+
+පෑලියගොඩ, නාරම්මිණිය ප්‍රදේශයේ නිවසක් ආසන්නයේ සිටි පුද්ගලයෙකුට පොල්ලකින් හා තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+පසුගිය 18 වනදා එම පහරදීම සිදුකර ඇති අතර අදාළ පහරදීමෙන් තුවාල ලැබූ පුද්ගලයා කොළඹ ජාතික රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටින විටදී ඊයේ (19) උදෑසන මියගොස් ඇත.
+
+එලෙස මියගොස් ඇත්තේ, නාරම්මිණිය පාර, කැලණිය ප්‍රදේශයේ පදිංචිව සිටි 39 හැවිරිදි පුද්ගලයෙකි.
+
+පුද්ගලික ආරවුලක් හේතුවෙන් මරණකරුට පිරිසක් විසින් පහරදී එම ඝාතනය සිදුකර ඇත බව පොලීසිය පවසයි.
+
+සිද්ධිය සම්බන්ධයෙන් 24 හැවිරිදි කොට්ටුකච්චිය ප්‍රදේශයේ පදිංචි සැකකරුවෙකු අපරාධ සඳහා භාවිතා කළ පිහියක්ද සමග අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/9db545d9.json)
+
+---
+
+### රටම බලාසිටි ගැසට්ටුව එළියට - උපරිමය රු 109යි
+
+*2024-08-20 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200119) · `si`
+
+‍ජනාධිපති අපේක්ෂකයෙකුට මැතිවරණ ප්‍රචාරක කටයුතු සඳහා එක් ඡන්දහිමියෙකුට වැයකළ හැකි උපරිම මුදල රුපියල් 109ක් බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+2023 අංක 3 දරණ මැතිවරණ වියදම් නියාමනය කිරීමේ පනතේ තුන්වන වගන්තිය යටතේ ජනාධිපතිවරණ ඡන්ද විමසීම සඳහා තරග කරන අපේක්ෂකයෙකු විසින් ඡන්දහිමියෙකු වෙනුවෙන් වැයකළ යුතු වියදම් සීමාව විශේෂ ගැසට් පත්‍රයක් මඟින් ප්‍රකාශයට පත්කර තිබේ.
+
+සියලු පිළිගත් දේශපාලන පක්ෂ අපේක්ෂකයින්, වෙනත් දේශපාලන පක්ෂ අපේක්ෂකයින් සහ ජනාධිපතිවරණය සඳහා නාමයෝජනා භාරදුන් අපේක්ෂකයින් සමග සාකච්ඡා කර මෙම වියදම් සීමාවන් තීරණය කර ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+ඒ අනුව ඡන්දහිමි නාමලේඛනයේ ලියාපදිංචි එක් ඡන්දහිමියෙකු වෙනුවෙන් රුපියල් 109කට නොවැඩි මුදලක් එක් අපේක්ෂකයෙකු විසින් සිය මැතිවරණ ප්‍රචාරක වියදම් ලෙස වැයකළ හැකි වන අතර වියදම් කළ හැකි උපරිම සීමාව රුපියල් එකසිය අසූ හයකෝටි අසූ දෙලක්ෂ 98,586ක් වන බව සඳහන්ය.
+
+ජනාධිපති අපේක්ෂකයෙකුට එම මුදලෙන් සියයට 60ක් හෙවත් රුපියල් එකසිය දොළොස් කෝටි නවලක්ෂ 79,151යි ශත 60ක මුදලක් සිය ප්‍රචාරක වියදම් ලෙස දැරිය හැකි වේ.
+
+...
+
+[Data](articles/d3a09924.json)
+
+---
 
 ### Festival of Downloads in the Esala Perahera of Kandy
 
@@ -2101,105 +2179,5 @@ It is noteworthy that Parliamentarian Rishad Bathiudeen has sent a letter to Pre
 [Data](articles/c43ef7bb.json)
 
 [Extended Data](ext_articles/c43ef7bb.ext.json)
-
----
-
-### Shuttle bus service opened by Katunayake is loop loop
-
-*2024-08-19 16:03:30* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකින්-ආරම්භ-කළ-ෂටල්-බස්-සේවාව-ලප්-තැනම-ලොප්-වෙයි/11-411447) · `si`
-
-A luxury shuttle bus service started from Katunayake to the Multiple Transport Center but was halted after protests by the airport-Fort private Luxury Bus Association. The group visited the Ministry of Transport and sought support from the Commissioner's office. Despite opposition, ten buses will operate between Katunayake Airport, Colombo, and Fort Railway Station, including routes to Kumbura, Colombo.
-
-🟩
-
-The luxury bus service commenced to the Multiple Transport Center from Katunayake and the Kumburu Transport Center, Katunayake, was temporarily stopped at 11:00 pm on 08/19 on 08/19 on 08/19 on 08/19.Airports Trust Officer said.
-
-The airport - Fort private Luxury Bus Association had launched a protest against this.
-
-In addition, they had gone to the Ministry of Transport and Highways to go to the Commissioner's Office.
-
-Katunayake Airport rented vehicles were also supported by the Katunayaka Airport.
-
-Ten buses on the Katunayake Airport - Colombo and Fort, Katunayake Airport and the Colombo Fort, will be operated to the Fort Railway Station and the Kumbura, Colombo and the Kumbura, Colombo, and the Kumbura, Colombo, and the KumburaThe airport privately luxury bus association, Indika Gunasekera said.
-
-◼️
-
-[Data](articles/762656c6.json)
-
-[Extended Data](ext_articles/762656c6.ext.json)
-
----
-
-### A new force from the ministic
-
-*2024-08-19 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200100) · `si`
-
-Prime Minister Dinesh Gunawardena announced support for Ranil Wickremesinghe in the Sri Lanka General Assembly, promising to unite political forces for a common goal. He expressed optimism about the country's direction post-elections, urging unity among local government members transitioning to parliament. This move aims to create a new political force, assuring stability and continuity in governance.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said that the MPs and the political parties of the Sri Lanka General Assembly, who was presented to support Ranil Wickremesinghe in the presidential election, said Prime Minister Dinesh Gunawardena.
-
-He also said that he would support the Prime Minister to build that political force.
-
-He was speaking to the media after the Malwathu and Asgiriya Chiefnenes of Kandy yesterday (18).
-
-"Ranil Wickremesinghe decided to support the president of the president of the president of the president of the President.
-
-The country who has been very difficult for two years is on the right path.
-
-We all work together to protect this victory and continue.
-
-All Members of the Local Government to Parliament have joined hands together.
-
-As a result, no one should be frightened that he is unable to get candidate in a future elections.
-
-...
-
-[Data](articles/2b2db515.json)
-
-[Extended Data](ext_articles/2b2db515.ext.json)
-
----
-
-### Sri Lanka People’s National Party backs Dilith Jayaweera at prez poll
-
-*2024-08-19 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101352/sri-lanka-peoples-national-party-backs-dilith-jayaweera-at-prez-poll) · `en`
-
-The Sri Lanka People’s National Party (Ilankai Makkal Thesiya Katchi) has extended its support for the “Sarvajana Balaya” alliance’s presidential candidate entrepreneur Dilith Jayaweera during the upcoming presidential election.
-
-Accordingly, the leader of ‘Mawbima Janatha Party’, Dilith Jayaweera and the leader of the Sri Lanka People’s National Party, Thyagarasa Vishnukanthan signed a Memorandum of Understanding of the ‘Sarvajana Balaya’ alliance at the MJP Headquarters today (19).
-
-◼️
-
-[Data](articles/71588f9c.json)
-
-[Extended Data](ext_articles/71588f9c.ext.json)
-
----
-
-### Randoli Perahera in Kandy
-
-*2024-08-19 15:52:08* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අවසන්-රන්දෝලි-පෙරහැරට-මහ-සෙනගක්/11-411446) · `si`
-
-On Nikini Pathiya Daya, a public holiday, Kandy saw a grand Randoli Perahera procession. Local tourists joined festivities including Dansal, offering food like tea, chickpattu, rice, and bread. The highlight was the final Randoli Perahera at 6:57 pm, starting from DB, Yanda Street, passing through Happy Street and ending at Gunawardena.
-
-🟩
-
-A large number of visitors from the island is a group of large visitors to visit and bless the Perahera today (19).
-
-In addition to the local tourists for the local tourists, there is a special situation.
-
-Since the Nikini Pathiya Daya was a government holiday, a government holiday had come to the Dalada Maligawa, and the people were gathered on either side of the morning.
-
-Dansal was also organized by various organizations and individuals and people, tea, chickpattu, rice and bread.
-
-The final redirect procession is due to be on the rise on the DB, Yanda Street at the Happy Street, Yanda Street at the Gunawardena, the final Randoli Perahera at 6.57 pm.
-
-◼️
-
-[Data](articles/163cb3e8.json)
-
-[Extended Data](ext_articles/163cb3e8.ext.json)
 
 ---

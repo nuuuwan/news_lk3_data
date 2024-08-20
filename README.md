@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 19:55:15**
+As of **2024-08-20 20:07:32**
 
 ## Newspaper Stats
 
-*Scraped **41,728** Articles*
+*Scraped **41,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 2,515
 dailyftlk | 2,687
 adalk | 3,841
 dailymirrorlk | 4,733
-adaderanalk | 4,885
+adaderanalk | 4,886
 tamilmirrorlk | 5,397
 virakesarilk | 6,631
-adaderanasinhalalk | 7,124
+adaderanasinhalalk | 7,125
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,727 (100.0%) of 41,728 articles have been extended.
+41,728 (100.0%) of 41,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### ලොව දීර්ඝතම මුද්දරය ශ්‍රී ලංකාවෙන්
+
+*2024-08-20 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200147) · `si`
+
+ලොව දීර්ඝතම මුද්දරය ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුව විසින් නිකුත් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+
+ඓතිහාසික ශ්‍රී දළදා පෙරහර සහිත එම මුද්දරය දිගින් මිලි මීටර් 205ක් වෙයි.
+
+එය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ට ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් පිරිනමා තිබේ.
+
+◼️
+
+[Data](articles/68f71f67.json)
+
+---
+
+### Sri Lanka, England name playing XIs on eve of first Test
+
+*2024-08-20 19:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101381/sri-lanka-england-name-playing-xis-on-eve-of-first-test) · `en`
+
+Matthew Potts and Dan Lawrence were included for England while Milan Rathnayake is poised for Sri Lanka debut in the first match of the crucial ICC World Test Championship series.
+
+England have opted to include an extra fast bowler in their side when naming their XI to take on Sri Lanka in the first Test of their series in Manchester commencing on Wednesday.
+
+Seamer Matthew Potts comes into the XI to replace injured captain Ben Stokes, while Dan Lawrence wins a recall for his first Test appearance in more than two years with regular opener Zak Crawley nursing a finger complaint.
+
+Crawley hurt his finger when fielding in the third and final Test of England’s recent series at home against the West Indies, while Stokes was sidelined when he picked up a hamstring injury when competing in the domestic Hundred competition.
+
+Ollie Pope will captain England in the absence of Stokes, while keeper Jamie Smith will bat at No.6 and all-rounder Chris Woakes will push up to No.7 as a result.
+
+...
+
+[Data](articles/8deb8264.json)
+
+---
 
 ### Presidential election related complaints
 
@@ -352,21 +388,29 @@ The film 'Banana', which is being directed by director Mari Selvaraj, who is the
 
 ---
 
-### රජයේ පහළම සේවකයාගේ වැටුපත් රු. 55000ක් දක්වා ඉහළට
+### The Laststalling employee's salary is Rs.. Up to 55,000
 
 *2024-08-20 17:11:41* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-පහළම-සේවකයාගේ-වැටුපත්-රු--55000ක්-දක්වා-ඉහළට/11-411466) · `si`
 
-රාජ්‍ය සේවක වැටුප් දීමනාව වැඩිවීමෙන්, පහළම සේවකයන්ටත් අවම වශයෙන් මසකට රුපියල් 55,000ක් හෝ ඊට වඩා වැඩි ප්‍රමාණයක් හිමිවන බව ප්‍රවාහන, මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය කැබිනට් ප්‍රකාශක,  අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පැවසීය. අමාත්‍යවරයා මේ බව පැවසුවේ රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති විශේෂ මාධ්‍ය හමුවට එක්වෙමිණි.
+The Transport Minister announced that public servants' salaries would not exceed Rs. 55,000 monthly, addressing concerns about rising costs and pay increases. He clarified that while some decisions would remain confidential, others, including salary adjustments, would be disclosed.
 
-රාජ්‍ය සේවකයන්ගේ වැටුප් වැඩිවීම සහ ජීවන වියදම් දීමනාව සම්බන්ධයෙන් දුර්මතයන් රාශියක් පැතිරෙමින් පවතින බවත්, කැබිනට් මණ්ඩලය විසින් ගනුලැබූ තීරණය වැරදි ආකාරයෙන් සමාජගත වේ නම් එය නිවැරදි කිරීම තමාගේ යුතුකමක් බවද හෙතෙම පෙන්වා දුන්නේය.
+🟩
 
-වර්තමාන ආණ්ඩුවේ කැබිනට් ප්‍රකාශක වශයෙන් ජනතාවට වැදගත් කැබිනට් තීරණ තමා ප්‍රකාශ කරන  බවත් එහෙත් ඇතැම් කැබිනට් තීරණ නිවැරදිව ජනතාව හමුවට නොයන බවත් අමාත්‍යවරයා පෙන්වා දුන්නේය.
+Transport, Highways and Mass Media Mass Media Cabbaken said that at least Rs. 55,000 per month and more than at least Rs.. He was speaking at a special media briefing held in the Government Information Department.
 
-පසුගියදා කැබිනට් මණ්ඩලය රැස් වූ අවස්ථාවේදී රාජ්‍ය සේවකයන්ගේ වැටුප් වර්ධක සම්බන්ධයෙන් වූ කැබිනට් පත්‍රිකාව තමා ඉදිරිපත්කළ බවත් එහි ප්‍රධාන කරුණු 02ක් ඇතුළත් වූ බවද හෙතෙම පැවසීය.
+He pointed out that if a number of misconceptions relating to the increasing increase in public servants and the cost of living allowance is widely spreading.
 
-...
+The Minister pointed out that the Cabinet proclaimers of the present government declares that he will declare the important cabinet decisions and certain cabinet decisions will not go to the public.
+
+He said that when the Cabinet met recently, the cabinet paper was presented by the public servants' increments.
+
+"All public servants will be given three years without amending Rs 25,000 rupees. Secondly, the basic salary is not amended, and between 24% and 25%. At least Rs. 55,000 per month and more than at least Rs. 55,000 per month. "
+
+◼️
 
 [Data](articles/3066b60b.json)
+
+[Extended Data](ext_articles/3066b60b.ext.json)
 
 ---
 
@@ -2333,41 +2377,5 @@ Accordingly, the passenger shipping service to Nagapattinam and Kankesanthurai w
 [Data](articles/7cd57e39.json)
 
 [Extended Data](ext_articles/7cd57e39.ext.json)
-
----
-
-### Two earthquakes next to India
-
-*2024-08-20 09:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-அடுத்தடுத்து-இரண்டு-நிலநடுக்கங்கள்/175-342489) · `ta`
-
-Two earthquakes near India occurred, one with a 4.7 Richter scale and another slightly stronger at 4.8 magnitude.
-
-🟩
-
-The first earthquake was reported at 4.7 Richter and the 2nd 4.8 magnitude.
-
-◼️
-
-[Data](articles/9597512c.json)
-
-[Extended Data](ext_articles/9597512c.ext.json)
-
----
-
-### Two earthquakes in India
-
-*2024-08-20 09:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-இரண்டு-நிலநடுக்கங்கள்/175-342489) · `ta`
-
-India experienced two significant earthquakes: one measured 4.7 Richter and another stronger quake at 4.8 Richter.
-
-🟩
-
-The first earthquake was reported at 4.7 Richter and 2nd 4.8 Richter.
-
-◼️
-
-[Data](articles/e3ba3036.json)
-
-[Extended Data](ext_articles/e3ba3036.ext.json)
 
 ---

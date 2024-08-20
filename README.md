@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 23:36:52**
+As of **2024-08-20 23:56:28**
 
 ## Newspaper Stats
 
-*Scraped **41,757** Articles*
+*Scraped **41,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ newsfirstlk | 363
 bbccomsinhala | 384
 colombotelegraphcom | 399
 islandlk | 2,416
-economynextcom | 2,515
+economynextcom | 2,520
 dailyftlk | 2,687
 adalk | 3,845
 dailymirrorlk | 4,733
 adaderanalk | 4,889
-tamilmirrorlk | 5,402
+tamilmirrorlk | 5,403
 virakesarilk | 6,639
 adaderanasinhalalk | 7,132
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,755 (100.0%) of 41,757 articles have been extended.
+41,757 (100.0%) of 41,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### ஈஸ்டர் ஞாயிறு தாக்குதல் ; நட்டஈட்டை செலுத்தி முடித்தார் மைத்திரி
+
+*2024-08-20 23:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-ஞாயிறு-தாக்குதல்-நட்டஈட்டை-செலுத்தி-முடித்தார்-மைத்திரி/175-342541) · `ta`
+
+ஈஸ்டர் ஞாயிறு தாக்குதல் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு செலுத்தப்பட வேண்டியிருந்த 100 மில்லியன் ரூபா நட்டஈடுத் தொகையை அவர் செலுத்தி முடித்துள்ளதாக  தெரிவிக்கப்படுகின்றது.
+
+அவர் செலுத்த வேண்டியிருந்த எஞ்சிய தொகையான 12 மில்லியன் ரூபாவை அவர் 16.08.2024 அன்று செலுத்தியுள்ளதாக குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/e7ece22b.json)
+
+---
 
 ### Elected the path named Namal
 
@@ -804,6 +818,22 @@ Dr. Deepal Perera pointed out that these days have been a heavy cold in Colombo 
 
 ---
 
+### Sri Lanka EC asks for tax payment details of financers under new election expenditure law
+
+*2024-08-20 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-asks-for-tax-payment-details-of-financers-under-new-election-expenditure-law-177435/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Election Commission (EC) has asked all the political parties contesting in the upcoming presidential election to compile the tax payment details of individuals and companies funding presidential candidates under the new Election Expenditure Act.
+
+The EC has asked the parties to provide details of name, address, national identity card number (NIC), Taxpayer Identification Number (TIN) at the Inland Revenue Department (IRD) or the registration number of the donor, contributor, or the institution incorporated or non-incorporated, who contribute for campaign financing.
+
+In an extraordinary gazette notification dated August 16 and published on Monday (19), the EC declared that each candidate is allowed to spend a maximum of 109 rupees for each voter in the presidential election campaigning activities, totaling 1,868.3 million rupees ($6 million) per candidate.
+
+...
+
+[Data](articles/be37fc3e.json)
+
+---
+
 ### Landslide warnings for 6 districts
 
 *2024-08-20 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200141) · `si`
@@ -1008,17 +1038,27 @@ A party has lodged a complaint with the Commission about the cooking gas cylinde
 
 ---
 
-### வாக்கெடுப்பு முடிவடைந்து 21 நாட்களுக்குள் போட்டியிடும் வேட்பாளர் செலவின விபரத்தை சமர்ப்பிக்க வேண்டும் - தேர்தல்கள் ஆணைக்குழு
+### The candidate contesting within 21 days after the referendum ends - the Elections Commission
 
 *2024-08-20 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191553) · `ta`
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர் ஒருவர், வாக்காளர் ஒருவருக்கு 109 ரூபாவுக்கு மேற்படாத தொகையை தேர்தல் பிரச்சார செலவினமாக செலவிட முடியும். இதற்கமைய வேட்பாளர் ஒருவர் 186 கோடி வரை செலவிட முடியும். தேர்தல் முடிவடைந்து 21 நாட்களுக்குள் செலவினம் தொடர்பான விபரத் திரட்டு ஆவணங்களை அத்தாட்சிப்படுத்தி ஆணைக்குழுவுக்கு ஒப்படைத்தல் வேண்டும் என தேர்தல்கள் ஆணைக்குழு அதிவிசேட வர்த்தமானி அறிவித்தலை வெளியிட்டுள்ளது.
+Candidates contesting the presidential election have a spending limit of Rs 186 crore, with specific allocations for recognized political parties, other parties, and independents. A detailed report of campaign expenses, including donations and media costs, must be submitted to the Elections Commission within 21 days post-election. Violations can lead to penalties under the Presidential Elections Act.
 
-2023 ஆம் ஆண்டின் 03 ஆம் இலக்க தேர்தல் செலவினத்தை ஒழுங்குப்படுத்தல் சட்டத்துக்கு அமைய வெளியிடப்பட்டுள்ள வர்த்தமானியில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
+🟩
+
+A candidate contesting the presidential election can spend more than Rs.. Accordingly, a candidate can spend Rs 186 crore. The Elections Commission has issued a notification that the Commission should be handed over to the Commission within 21 days of the election.
+
+The Gazette, which is published in accordance with the Regulation of Elections, No. 03 of 2023, said,
+
+A referendum to elect the President on the 21st of September will be held on September 21, 1981.. The Elections Commission recently discussed the Elections of the Elections Act, No. 03 of 2023, to the candidates of the politicized political parties, the candidates of other political parties and the independent candidates.
+
+The Elections Commission has set the costs of a recognized political party, a different political party, and an independent candidate for the election campaign for the campaign of candidates who are contesting the election on 21.09.2012.
 
 ...
 
 [Data](articles/ca3092dd.json)
+
+[Extended Data](ext_articles/ca3092dd.ext.json)
 
 ---
 
@@ -1117,6 +1157,26 @@ Meanwhile, after a commercial winning film 'Garuda', no leading film production 
 [Data](articles/3bad27fb.json)
 
 [Extended Data](ext_articles/3bad27fb.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 299.60/300.00, bond yields down
+
+*2024-08-20 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-299-60-300-00-bond-yields-down-177429/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 299.60/300.00 to the US dollar Tuesday, from 299.00/10 Friday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 11.05/20 percent, down from 11.15/25 percent.
+
+A bond maturing on 15.12.2027 closed at 11.90/12.05 percent, down from 12.00/10 percent.
+
+A bond maturing on 15.12.2028 closed at 12.75/90 percent, down from 12.85/95 percent.
+
+A bond maturing on 01.10.2032 closed at 13.10/25 percent. (Colombo/Aug20/2024)
+
+◼️
+
+[Data](articles/5e3409e8.json)
 
 ---
 
@@ -1384,6 +1444,50 @@ It is said that the sinking vessel is stuck in the sea within the sea.
 
 ---
 
+### Sri Lanka’s LTL, India’s Petronet sign MOU for LNG Infrastructure in Kerawalapitiya
+
+*2024-08-20 16:14:00* · [`economynextcom`](https://economynext.com/sri-lankas-ltl-indias-petronet-sign-mou-for-lng-infrastructure-in-kerawalapitiya-177419/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s LTL Holdings and India’s Petronet LNG Limited (PLL) signed a Memorandum of Understanding (MOU) on Tuesday to build LNG Infrastructure Development and LNG Supply in the island nation, the Power and Energy Ministry said.
+
+Both companies jointly submitted a proposal for Sri Lanka’s Ministry of Power and Energy and the cabinet approval has been already granted following the evaluation by a technical evaluation committee
+
+“This MOU signing ceremony will mark a significant milestone in Sri Lanka’s journey toward cleaner and more sustainable power generation,” the Ministry said in a statement.
+
+“This MOU covers for a joint development by LTL and PLL to develop necessary infrastructure and supply of LNG for initially for Sobadhanavi Power Plant at Kerawalapityta which will be commissioned shortly.”
+
+It said the proposal is an interim solution to introduce LNG for power generation in Sri Lanka on initiation by both governments of Sri Lanka and India.
+
+...
+
+[Data](articles/a9731130.json)
+
+---
+
+### Sri Lanka stocks close down, differing polls hurt market sentiment
+
+*2024-08-20 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-differing-polls-hurt-market-sentiment-177418/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 0.08 percent, or 9.46 points, at 11,494; while the more liquid S&P SL20 Index closed down 0.02 percent, or 0.69 points, at 3,300.
+
+“There was very subdued participation from local investors including retail,” Softlogic Stockbrokers said.
+
+“As we inch towards the election, the various informal polls being conducted on the possible outcome of the presidential election are giving different indicators, which actually hurts market sentiment.”
+
+“Earnings were a mixed bag, with some companies’ results being up and some down. We think the majority of earnings posted were positive.
+
+“And going forward things seem positive. We are scheduled to begin debt payments next month, which is at a manageable level. Electricity tariffs are down so the outlook is positive for companies.
+
+“Yet the market reacting in the opposite direction is a problem.”
+
+...
+
+[Data](articles/f4697853.json)
+
+---
+
 ### 300 million lawsuit
 
 *2024-08-20 16:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-300-மில்லியன்-இழப்பீடு-கோரி-வழக்குத்-தாக்கல்/175-342518) · `ta`
@@ -1428,17 +1532,27 @@ The proceedings of the Power and Energy Minister Kanchana Wijesekera and the lea
 
 ---
 
-### நாட்டை முன்னேற்ற முடியும் என்பதை செயலில் காட்டிய ஒரே தலைவர் ரணில் விக்கிரமசிங்க - இஷாக் ரஹ்மான்
+### Ranil Wickremesinghe - Ishaq Rahman
 
 *2024-08-20 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191538) · `ta`
 
-வீழ்ச்சியடைந்த நாட்டை தைரியமாக பொறுப்பெடுத்து தன்னால் முடியும் என்பதை செயலில் காட்டிய ஒரே தலைவர் ரணில் விக்ரமசிங்க. அதனால் தொடர்ந்தும் ரணில் விக்ரமசிங்கவுக்கு ஆட்சி அதிகாரத்தை பெற்றுக்கொடுக்கவே அவருக்கு ஆதரவளிக்க தீர்மானித்தேன். அனுராதபுரம் மக்கள் கட்சியை பார்த்து எனக்கு வாக்களிக்கவில்லை. அதனால் எந்த கட்சியில் போட்டியிட்டாலும் மக்கள் என்னை ஆதரிப்பார்கள் என்ற நம்பிக்கை எனக்கு இருக்கிறது என ஐக்கிய தேசிய கட்சியில் இணைந்துகொண்ட அனுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினர் இஷாக் ரஹ்மான் தெரிவித்தார்.
+Ishaq Rahman, an Anuradhapura district parliamentarian, supports Ranil Wickremesinghe due to his leadership during the country's crisis, highlighting Wickremesinghe's foresight and efforts to secure essential goods like fertilizer and fuel. Despite opposition party concerns, Wickremesinghe allocated funds for district development, earning praise from Rahman. This move, along with Wickremesinghe's ability to address national needs, has garnered Rahman's confidence in Wickremesinghe's leadership capabilities across political lines.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
+
+Ranil Wickremesinghe is the only leader who has shown that he can take responsibility for the falling country. So I decided to support Ranil Wickremesinghe to give him power. The Anuradhapura People's Party did not vote for me. "I am confident that people will support me in any party," said Ishaq Rahman, an Anuradhapura district parliamentarian who joined the United National Party.
+
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (20).
+
+When the country collapsed two years ago, no one came forward to take charge of the country. Opposition parties withdrawn fear that the country will be unable to do politics in the future. Ranil Wickremesinghe was the only country in the country to consider the future of the country when everyone in Parliament only considered their future.
+
+When Ranil Wickremesinghe was in charge of the country, the farmers did not get fertilizer for 50 thousand rupees.
 
 ...
 
 [Data](articles/2cd1ad6d.json)
+
+[Extended Data](ext_articles/2cd1ad6d.ext.json)
 
 ---
 
@@ -1581,6 +1695,26 @@ At the same time, police said that the sudden explosion of the gun was severely 
 [Data](articles/87e2fa19.json)
 
 [Extended Data](ext_articles/87e2fa19.ext.json)
+
+---
+
+### Sri Lanka insurance can help in economic recovery: CB Governor
+
+*2024-08-20 15:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-insurance-can-help-in-economic-recovery-cb-governor-177191/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s insurance sector can play a role in the country’s economic recovery, by helping mobilize long term funds and also providing to the needs of an ageing population, Central Bank Governor Nandalal Weerasinghe said.
+
+Agriculture was another area that insurance could play a greater role.
+
+Sri Lanka is now recovering from an economic crisis two years ago and insurance had a role to play.
+
+“As long-term investors, insurance companies can make a notable contribution towards development financing, especially in the context of limited long-term financing available in Sri Lanka,” he said at an international forum organized by the Insurance Association of Sri Lanka.
+
+“Even in the banking sector, we don’t have long-term financing available. The insurance sector can play this role, especially for SMEs. And large-scale development projects as long-term investment opportunities.”
+
+...
+
+[Data](articles/1f8b3221.json)
 
 ---
 
@@ -2201,147 +2335,5 @@ He further advised that if children are showing such symptoms they should wear a
 [Data](articles/81bfea65.json)
 
 [Extended Data](ext_articles/81bfea65.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-20 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191514) · `ta`
-
-On August 20, the US dollar bought for 294.3604 rupees and sold for 303.5775 rupees.
-
-🟩
-
-The US dollar purchasing price was 294.3604 rupees and the sales price were 303.5775 rupees on Tuesday (August 20).
-
-◼️
-
-[Data](articles/233e39af.json)
-
-[Extended Data](ext_articles/233e39af.ext.json)
-
----
-
-### Announce in Kalutara Flood
-
-*2024-08-20 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200130) · `si`
-
-In Kalutara, several roads are flooded due to the opening of sluice gates in the Kukule River and Deduru Oya reservoirs. Heavy rainfall exceeding 100mm is expected today in the Western and Sabaragamuwa Provinces, with showers forecasted across multiple regions.
-
-🟩
-
-Several roads in Maduru, Palindanuwara, Maddindan, Maddindan, Millant and Bulathsinhala have been allocated.
-
-The sluice gates of the Kukule River and Deduru Oya reservoir have been opened.
-
-Irrigation Director S.. P. C. He said, "Suesshwara said.
-
-Meanwhile, the Met Department said that there will be heavy showers at more than 100 millimeters today (20) in the Western and Sabaragamuwa Province.
-
-The department stated that showers or thundershowers will occur at times in the Western and Sabaragamuwa, Southern and Northwestern provinces.
-
-Thundershowers will develop at several places during the evening or night in the East, Uva and North Central provinces.
-
-◼️
-
-[Data](articles/676e4dcd.json)
-
-[Extended Data](ext_articles/676e4dcd.ext.json)
-
----
-
-### Blinken says Israel accepts Gaza proposal, urges Hamas to do same
-
-*2024-08-20 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/101370/blinken-says-israel-accepts-gaza-proposal-urges-hamas-to-do-same) · `en`
-
-U.S. Secretary of State Antony Blinken said on Monday Israeli Prime Minister Benjamin Netanyahu had accepted a “bridging proposal” presented by Washington to tackle disagreements blocking a ceasefire deal in Gaza, and urged Hamas to do the same.
-
-Blinken spoke to journalists after a day of meetings with Israeli officials, including a 2-1/2-hour meeting with Netanyahu. The top U.S. diplomat had said earlier that this push was probably the best and possibly last opportunity for a deal.
-
-Talks in Qatar seeking a ceasefire and hostage return agreement last week paused without a breakthrough, but were expected to resume this week based on the U.S. proposal to bridge the gaps between Israel and Hamas.
-
-Blinken’s visit comes as U.S. President  faces mounting election-year pressure over his stance on the conflict, with his Democratic party starting its national convention on Monday amid pro-Palestinian protests and worries about Muslim and Arab American votes in swing states.
-
-...
-
-[Data](articles/8321c6ad.json)
-
-[Extended Data](ext_articles/8321c6ad.ext.json)
-
----
-
-### Excellent hope to defend US democracy - Kamala Haris
-
-*2024-08-20 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191515) · `ta`
-
-Kamala Harris, praised by President Jobitton for her ability to safeguard US democracy, stood alongside Joe Biden, who emphasized unity and readiness to vote for independence and the Democratic Party. Highlighting their shared commitment to the nation, Biden expressed support for Harris and Tim Volcin, vowing to serve as a strong ally against Trump. Their speech, marked by emotional moments and a focus on national pride and unity, underscored their dedication to strengthening the US economy and international alliances, while firmly rejecting divisiveness.
-
-🟩
-
-President Jobitton says Kamala Harris is the best confidence to protect US democracy
-
-Between the slogans of thanks Joe, Joe Bidan appeared on the stage with his daughter Joe Azley.
-
-Speaking with tears after her daughter introduced herself, are you ready to vote for independence? Are you ready to vote for the United States and the Democratic Party?Kamala questioned whether he was ready to choose Haris and Tim Volcin.
-
-He said he would be the greatest volunteer for Bidan Harris, who had repeatedly attacked Donald Trump.
-
-When I loved the presidency but I love the United States, he said that those who gathered at the conference were saying that we love Joe.
-
-List of his government's achievements, such as strengthening the US economy and strengthening its alliance internationally, appealed to Kamala Harrisin to the White House.
-
-Faidan, who has continued to affect the United States, has said that they have no place in the United States.
-
-◼️
-
-[Data](articles/190d1c97.json)
-
-[Extended Data](ext_articles/190d1c97.ext.json)
-
----
-
-### Sri Lanka’s HNB Rs12bn debenture issue oversubscribed
-
-*2024-08-20 12:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-rs12bn-debenture-issue-oversubscribed-177369/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hatton National Bank Plc said its debenture issue to raise up to 12 billion rupees was oversubscribed.
-
-The Basel III compliant, Tier 2, listed, rated, unsecured, subordinated, redeemable debentures with a non-viability conversion feature were offered at 100 rupees each.
-
-A total of 120 million of the 5-year (2024/2029) 7-year(2024/2031) and 10-year (2024/34) debentures were issued on Friday (16).
-
-“We wish to inform you that we have received applications for over LKR 12,000,000,000/- (Rupees Twelve Billion) for the above Debenture Issue by Hatton National Bank PLC and accordingly the Issue has been oversubscribed,” the  bank said in a stock exchange filing.
-
-The basis of allotment will be notified to the CSE in due course, the  bank said.
-
-◼️
-
-[Data](articles/11ef838e.json)
-
-[Extended Data](ext_articles/11ef838e.ext.json)
-
----
-
-### Presidential Election: Over 24,000 postal voting applications rejected
-
-*2024-08-20 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101369/presidential-election-over-24000-postal-voting-applications-rejected) · `en`
-
-The Commissioner General of Elections Saman Sri Ratnayake has stated that 736,589 applications have been received for postal voting at the 2024 Presidential Election.
-
-He further said that 24,268 postal vote applications have been rejected and that a total of 712,321 applicants are eligible for postal voting.
-
-He also said that the delivery of ballot papers for postal voting will be carried out on August 26.
-
-The Election commission has stated that the opportunity has been provided for the marking of postal votes for a period of three days in the first week of September.
-
-Speaking in this regard, the Chairman of the Election Commission R.M.A.L. Rathnayake said:
-
-“The process of accepting postal voting applications has now been completed. The marking of postal votes has been prepared to be held in the next few days at the beginning of next month. On the 26th of this month, the respective postal ballots have been prepared to be issued to the relevant institutions.”
-
-...
-
-[Data](articles/73db4ead.json)
-
-[Extended Data](ext_articles/73db4ead.ext.json)
 
 ---

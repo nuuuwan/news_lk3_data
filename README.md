@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 16:21:24**
+As of **2024-08-20 16:36:51**
 
 ## Newspaper Stats
 
-*Scraped **41,687** Articles*
+*Scraped **41,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 2,515
 dailyftlk | 2,687
 adalk | 3,835
 dailymirrorlk | 4,733
-adaderanalk | 4,880
-tamilmirrorlk | 5,393
+adaderanalk | 4,881
+tamilmirrorlk | 5,394
 virakesarilk | 6,615
-adaderanasinhalalk | 7,114
+adaderanasinhalalk | 7,116
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,685 (100.0%) of 41,687 articles have been extended.
+41,687 (100.0%) of 41,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### MoU inked to develop infrastructure for Sobadhanavi LNG power plant
+
+*2024-08-20 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101375/mou-inked-to-develop-infrastructure-for-sobadhanavi-lng-power-plant-) · `en`
+
+A memorandum of understanding (MoU) was signed, a short while ago, to develop infrastructure for the storage, regasification and supply of liquefied natural gas (LNG) for the Sobadhanavi Combined Cycle Power Plant at Kerawalapitiya.
+
+The agreement was signed between Sri Lanka’s LTL Holdings Limited and India’s Petronet LNG Limited, under the patronage of the Minister of Power and Energy Kanchana Wijesekara and the Deputy High Commissioner of India in Sri Lanka.
+
+◼️
+
+[Data](articles/2f6f8f2b.json)
+
+---
+
+### ධනවතුන් කිහිපදෙනෙක්ව මුහුද යට සැඟවූ යාත්‍රා අනතුර
+
+*2024-08-20 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200137) · `si`
+
+ඉතාලි යාත්‍රා අනතුරින් අතුරුදන්ව සිටින පිරිස සම්බන්ධයෙන් තොරතුරු ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඒ අතර මෝගන් ස්ටැන්ලි ජාත්‍යන්තර බැංකුවේ සභාපති ජොනතන් බ්ලූමර්, ඔහුගේ බිරිඳ ජුඩි සහ ක්ලිෆර්ඩ් චාන්ස් නීතිඥ ක්‍රිස් මොර්විලෝ වෙයි.
+
+එසේම බ්‍රිතාන්‍යයේ තාක්ෂණ ක්ෂේත්‍රයේ ප්‍රබලයෙක් වූ මයික් ලින්ච් සහ ඔහුගේ දියණිය හනා ද අතුරුදන් ය.
+
+ඊයේ (19) සිසිලි දූපත ආසන්නයේ තිබූ අයහපත් කාලගුණය හේතුවෙන් බ්‍රිතාන්‍ය ධජය සහිත එම සුඛෝපභෝගී යාත්‍රාව මුහුදේ ගිලී ගියේය.
+
+එහි පුද්ගලයින් 22ක් ඒ අවස්ථාවේ සිට ඇති අතර අනතුරින් අනතුරුව 15 දෙනෙක් බේරා ගැනුණි.
+
+6 දෙනෙක් අතුරුදන් ව ඇති අතර සහන කණ්ඩායම් විසින් එක් සිරුරක් සොයාගෙන තිබේ.
+
+ගිලී ගිය යාත්‍රාව මීටර් 50ක් පමණ මුහුද අභ්‍යන්තරයේ සිරවී ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/044ad092.json)
+
+---
+
+### ரூ.300 மில்லியன் இழப்பீடு கோரி வழக்குத் தாக்கல்
+
+*2024-08-20 16:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-300-மில்லியன்-இழப்பீடு-கோரி-வழக்குத்-தாக்கல்/175-342518) · `ta`
+
+அரச வைத்தியசாலையில் கண்புரை அறுவை சிகிச்சைக்குப் பிறகு பயன்படுத்தப்படும் 'ப்ரெட்னிசோலோன் அசிடேடீன்' கண் சொட்டு மருந்தைப் பயன்படுத்தியதால் நிரந்தர பார்வை இழப்புக்கு உள்ளான மூன்று நோயாளிகள், கொழும்பு மாவட்ட நீதிமன்றத்தில் இன்று வழக்குத் தாக்கல் செய்துள்ளனர்.
+
+தமது கண் பார்வை இழப்பு மற்றும் அதனால் தமது உயிருக்கு ஏற்படக் கூடிய பாதிப்புகளின் பொருட்டு முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல மற்றும் 10 பேரிடமிருந்து ரூ. 300 மில்லியன் கோரியே இந்த வழக்குத் தாக்கல் செய்யப்பட்டுள்ளது.
+
+கெஹலிய ரம்புக்வெல்ல, ஜனக சந்திரகுப்த, தேசிய மருந்துகள் ஒழுங்குமுறை ஆணைக்குழு, பேராசிரியர். எஸ்.டி. ஜயரத்ன, வைத்தியர். விஜித் குணசேகர, வைத்தியர். அசேல குணவர்தன, வைத்தியர். ரொஹான் எதிரிசிங்க, வைத்தியர். மகேந்திர செனவிரத்ன, சாமீ கெமிஸ்ட் (தனியார்), இந்தியன் ஓ.பி.எல்.எல். ஆகியோரை இந்த வழக்கின் பிரதிவாதிகளாக சட்டமா அதிபர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/09eb4ac3.json)
+
+---
+
+### සොබාධනවි වෙනුවෙන් ඉන්දියාවේ සහ ශ්‍රී ලංකාවේ සමාගම් 2ක් ගිවිසුමකට එළඹෙයි
+
+*2024-08-20 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200136) · `si`
+
+කෙරවලපිටිය “සොබාධනවි” ඒකාබද්ධ චක්‍රීය බලාගාරය සඳහා ද්‍රවීකෘත ස්වභාවික වායු (Liquefied natural gas – LNG) ගබඩා කිරීම සඳහා යටිතල පහසුකම් සංවර්ධනය, LNG ප්‍රතිවායුකරණය කිරීම සහ සැපයීම සම්බන්ධයෙන් නව ගිවිසුමකට එළැඹ තිබේ.
+
+ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේ, ශ්‍රී ලංකාවේ LTL හොල්ඩිංග්ස් සමාගම සහ ඉන්දියාවේ පෙට්‍රොනෙට් LNG සමාගම අතර මෙම අවබෝධතා ගිවිසුම අත්සන් තැබීම අද (20) පස්වරුවේ සිදුකෙරුණු බවය.
+
+විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර හා ශ්‍රී ලංකාවේ ඉන්දීය නියෝජ්‍ය මහ කොමසාරිස්වරයාගේ ප්‍රධානත්වයෙනි එම කටයුතු සිදුකර ඇත.
+
+◼️
+
+[Data](articles/e44978b3.json)
+
+---
 
 ### 17 ex-PS members of SLPP pledge support to Ranil
 
@@ -52,21 +122,31 @@ Additionally, former Deputy Minister Nishantha Muthuhettigamage, was appointed a
 
 [Data](articles/5c2975a4.json)
 
+[Extended Data](ext_articles/5c2975a4.ext.json)
+
 ---
 
-### ஜனாதிபதியுடன் சஜித் கைகுலுக்காதது ஏன்?
+### Why not shake hands with the president?
 
 *2024-08-20 15:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-சஜித்-கைகுலுக்காதது-ஏன்/175-342517) · `ta`
 
-வேட்புமனுத் தாக்கல் நாளின் போது தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கைகுலுக்கத் தவறியமை தொடர்பில் தேவையற்ற குழப்பங்கள் ஏற்படுத்தப்பட்டு வருவதாகவும், அவ் வேளையில் சஜித் வேறு வேலையில் ஈடுபட்டிருந்ததால் எழுந்து நின்று வாழ்த்த முடியாமல் போனதாகவும் SJB இன் துணைத் தலைவர் சுஜீவ சேனசிங்க இன்று தெரிவித்தார்.
+Sujeewa Senasinghe criticized Sajith Premadasa for not shaking hands with President Ranil Wickremesinghe, calling it unnecessary fuss. He suggested a warm greeting like "Ayubowan" would've been healthier, reflecting the Sri Lankan culture. However, he also mentioned the impossibility of congratulating Kamala Harris due to her disability, and responded to criticisms by labeling Premadasa's actions as arrogant and disgusting.
 
-“சிலர் இந்த விஷயத்தைப் பற்றி தேவையில்லாத வம்புகளை உருவாக்குகிறார்கள். அதுமட்டுமின்றி பிரேமதாசவை ஜனாதிபதி விக்ரமசிங்க கைகூப்பி வாழ்த்தியிருந்தால் நன்றாக இருந்திருக்கும். 'ஆயுபோவன்' என்று கூறி வாழ்த்துவது ஆரோக்கியமானதாகவும், இனிமையாகவும் இருக்கும் என்பதோடு, வாழ்த்துவதற்கான சிறந்த வழியாகவும் இருந்திருக்கும். இதுவே உண்மையான இலங்கை வாழ்த்து முறையும் கூட” என அவர் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+🟩
 
-"ஆனால் நிச்சயமாக, கமலா ஹரிஸை ஒருவர் கைகோர்த்து ஆயுபோவன் என்று கூறி வாழ்த்த முடியாது," எனவும் அவர் கூறினார்.
+SJB's vice -president Sujeewa Senasinghe today said that the failure of Opposition Leader Sajith Premadasa with the current President Ranil Wickremesinghe on the day of the filing of the nomination was creating unnecessary confusion.
 
-...
+“Some people create unnecessary fuss about the matter. It would have been nice if President Wickremasinghe had congratulated Premadasa. Greeting 'Ayubovan' would have been healthy and sweet and the best way to greet. This is the real Sri Lankan greeting system, ”he said at a media briefing.
+
+"But, of course, one cannot congratulate Kamala Haris as a handicap," he said.
+
+Responding to the comments made by National People's Power Candidate Anurakumara Dissanayake that Premadasa had acted with the president, Senasinghe said that he had expressed his arrogance and disgust.
+
+◼️
 
 [Data](articles/75beb353.json)
+
+[Extended Data](ext_articles/75beb353.ext.json)
 
 ---
 
@@ -2271,97 +2351,5 @@ The body of the woman lying on the road has not yet been identified and the body
 [Data](articles/4744fa20.json)
 
 [Extended Data](ext_articles/4744fa20.ext.json)
-
----
-
-### Why Sajith does not accept the post of Prime Minister;Dayasiri Jayasekara in response to the President
-
-*2024-08-20 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191482) · `ta`
-
-Sajith Premadasa declined the Prime Minister position due to Gotabhaya Rajapaksa's refusal to meet his conditions, including holding elections and restoring the 19th amendment. Dayasiri Jayasekara supports Sajith, criticizing Ranil Wickremesinghe for accepting the role without conditions and suggesting Sajith's decision was correct.
-
-🟩
-
-Sajith Premadasa refused to post as Prime Minister as Gotabhaya Rajapaksa refused to accept Sajith Premadasa's conditions. But Ranil Wickremesinghe has been uncontrollable and has to work with the thieves today.
-
-Parliamentarian Dayasiri Jayasekara said that he has confirmed that Sri Lanka can not but Ranil cannot.
-
-He said this while addressing the election campaign held on Monday (19) in Mawanella.
-
-President Ranil Wickremesinghe asked the election campaign at Anuradhapura at an election rally in Anuradhapura, demanding that Sajith Premadasa escaped without accepting the post of Prime Minister.
-
-Mahinda Rajapaksa resigned from the country due to the people's struggle. When Sajith called Premadasa to accept the post of Prime Minister, Sajith Premadasa wrote a letter to Gotabhaya Rajapakse on 2022,5,12.
-
-...
-
-[Data](articles/4fd9f321.json)
-
-[Extended Data](ext_articles/4fd9f321.ext.json)
-
----
-
-### AKD denies NPP was invited to lead Govt. during 2022 political crisis
-
-*2024-08-20 02:19:21* · [`dailyftlk`](https://www.ft.lk/news/AKD-denies-NPP-was-invited-to-lead-Govt-during-2022-political-crisis/56-765744) · `en`
-
-NPP leader calls on President to uphold dignity of his office when making such claims
-
-Says it is common knowledge NPP was made no offer by Gotabaya or Mahinda Rajapakasa
-
-Accuses President of violating election laws by appointing Manusha and Harin as advisors
-
-Says he is misusing State resources and funds for his election campaign
-
-Slams ECSL for its inability to stop such abuses and take necessary action against it
-
-National People’s Power (NPP) leader and Presidential candidate Anura Kumara Dissanayake has strongly refuted recent claims by President Ranil Wickremesinghe that he was invited to take control of the Government during the 2022 political crisis when Mahinda Rajapaksa and other leaders stepped down.
-
-...
-
-[Data](articles/a4dc2c40.json)
-
-[Extended Data](ext_articles/a4dc2c40.ext.json)
-
----
-
-### PAFFREL raises concerns over alleged election law violations by Govt.
-
-*2024-08-20 02:18:00* · [`dailyftlk`](https://www.ft.lk/news/PAFFREL-raises-concerns-over-alleged-election-law-violations-by-Govt/56-765743) · `en`
-
-States appointments represent violation of election laws, misuse of public funds
-
-Reveals vehicles from 5 Ministries used for election campaigning, 14 transfers within Govt. institutions
-
-Calls for stricter adherence to legal guidelines to ensure fair electoral process
-
-The People’s Action for Free and Fair Elections (PAFFREL) has expressed serious concerns regarding the Government’s alleged violations of election laws.
-
-The organisation has formally informed the Election Commission about these issues, focusing particularly on the recent appointment of two Presidential advisors by President Ranil Wickremesinghe.
-
-Speaking to the media, PAFFREL Executive Director Rohana Hettiarachchi stated that these appointments represent a clear violation of election laws and constitute a misuse of public funds.
-
-...
-
-[Data](articles/77746ff2.json)
-
-[Extended Data](ext_articles/77746ff2.ext.json)
-
----
-
-### NPP cries foul over new Presidential Advisers
-
-*2024-08-20 02:16:48* · [`dailyftlk`](https://www.ft.lk/news/NPP-cries-foul-over-new-Presidential-Advisers/56-765742) · `en`
-
-National People’s Power (NPP) leader Anura Kumara Dissanayake yesterday voiced his concern over the appointments of Harin Fernando and Manusha Nanayakkara as new Advisers to the President by incumbent Ranil Wickremesinghe who is also seeking a mandate from the people.
-
-He told a news conference that the Elections Commission has issued a circular preventing new appointments during the election period hence the President’s move was in violation.
-
-Dissanayake also said the appointment will allow them to intervene in the activities of these Ministries, entertain perks and privileges such as vehicles and funds. He said the entire United National Party (UNP) camp in the President’s office is entertained by State funds where UNPers such as Akila Viraj, Sagala Ratnayake, Ashu Marasinghe etc. have been given advisory posts and Navin Dissanayake was appointed as a Governor.
-
-...
-
-[Data](articles/1579c223.json)
-
-[Extended Data](ext_articles/1579c223.ext.json)
 
 ---

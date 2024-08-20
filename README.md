@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 02:07:19**
+As of **2024-08-21 02:21:44**
 
 ## Newspaper Stats
 
-*Scraped **41,773** Articles*
+*Scraped **41,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 384
 colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,520
-dailyftlk | 2,694
+dailyftlk | 2,701
 adalk | 3,845
 dailymirrorlk | 4,733
 adaderanalk | 4,889
@@ -26,11 +26,137 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,770 (100.0%) of 41,773 articles have been extended.
+41,773 (100.0%) of 41,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### Tissa threatened with LoD over false claim against NPP on Dalada Perahera
+
+*2024-08-21 02:05:33* · [`dailyftlk`](https://www.ft.lk/news/Tissa-threatened-with-LoD-over-false-claim-against-NPP-on-Dalada-Perahera/56-765770) · `en`
+
+NPP Dr. Nalinda Jayatissa accuses Tissa Attanayake of propagating a false claim that an NPP Govt. will put an end to the Perahera tradition
+
+Demands that Attanayake apologise to NPP and MP Harini Amarasuriya, whom he attributed the comment to
+
+Says Attanayake was attempting to mislead Buddhist people in SL through such a claim
+
+Says Amarasuriya nor other NPP members have said party will end the Dalada Perahera
+
+Local independent fact-checkers confirm that claims against NPP on the matter are untrue and misleading
+
+National People’s Party (NPP) Executive Council member Dr. Nalinda Jayatissa has threatened to issue a letter of demand to Samagi Jana Balawegaya (SJB) MP Tissa Attanayake over a statement by him claiming that the NPP would discontinue the Dalada Perahera tradition if it comes to power.
+
+...
+
+[Data](articles/a4243f97.json)
+
+---
+
+### Sirisena completes Rs. 100 m compensation to Easter Sunday victims
+
+*2024-08-21 02:04:38* · [`dailyftlk`](https://www.ft.lk/news/Sirisena-completes-Rs-100-m-compensation-to-Easter-Sunday-victims/56-765769) · `en`
+
+Former President Maithripala Sirisena has fulfilled the Supreme Court’s order to pay Rs. 100 million in compensation to the victims of the Easter Sunday terror attacks.
+
+The final instalment of Rs. 12 million was paid on 16 August, completing the total compensation amount required by the Court.
+
+The Supreme Court issued its ruling on 12 January 2023, finding Sirisena, along with several other high-ranking officials, guilty of violating the Fundamental Rights of petitioners by failing to take action to prevent the Easter Sunday attacks despite having received sufficient intelligence warnings.
+
+The tragic attacks, which occurred on 21 April 2019, resulted in the deaths of over 250 people and caused widespread devastation.
+
+...
+
+[Data](articles/042a006e.json)
+
+---
+
+### SLMC cracks whip on Maulana and Harees for disciplinary violations
+
+*2024-08-21 02:04:05* · [`dailyftlk`](https://www.ft.lk/news/SLMC-cracks-whip-on-Maulana-and-Harees-for-disciplinary-violations/56-765768) · `en`
+
+The Sri Lanka Muslim Congress (SLMC) has removed MP H.M.M Harees from the party’s High Command due to his failure to support and participate in the campaign efforts backing Samagi Jana Balawegaya (SJB) leader Sajith Premadasa.
+
+In a letter to Harees yesterday, SLMC Secretary Nizam Kariapper PC noted that the MP had failed to attend a mandatory parliamentary group meeting led by SLMC Leader Rauff Hakeem on 16 August, as well as other campaign-related events, despite clear party directives to do so.
+
+Kariapper said accordingly he has been instructed by Hakeem to notify him of his suspension from the party’s High Command. The SLMC has given Harees until 26 August to submit his response to be considered by the party.
+
+...
+
+[Data](articles/276d4bda.json)
+
+---
+
+### Two candidates cry foul over 12 March Movement Presidential debate
+
+*2024-08-21 02:03:38* · [`dailyftlk`](https://www.ft.lk/news/Two-candidates-cry-foul-over-12-March-Movement-Presidential-debate/56-765767) · `en`
+
+Two Presidential candidates lodged a complaint with the Election Commission of Sri Lanka (ECSL) yesterday, voicing their stiff opposition to the upcoming Presidential debate scheduled for 7 September.
+
+Organised by the March 12 Movement, the debate is set to feature only six selected candidates, which the complainants argued is unfair to the other 33 candidates who have been excluded.
+
+Presidential hopeful Janaka Ratnayake speaking to the media outside the ECSL said he has requested the ECSL to stop the debate from going ahead.
+
+“Selecting six candidates while excluding 33 others is unjust to those left out. The chosen six will receive unnecessary promotion through the event, which will also gain extensive media coverage,” he said.
+
+Ratnayake said his group voiced their opposition to the debate and urged the ECSL to prevent the event from taking place. Ratnayake said if action is not taken, he will seek legal redress by filing a petition before the Supreme Court.
+
+...
+
+[Data](articles/0b981487.json)
+
+---
+
+### Sri Lankan philately into record books
+
+*2024-08-21 02:03:09* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-philately-into-record-books/56-765766) · `en`
+
+Philatelic Bureau, Department of Posts Sri Lanka along with Sri Dalada Maligawa will issue the longest stamp in the world measuring 205mm thereby beating the recently released Philippines longest stamp (measuring 200mm released on 12 June 2024).
+
+The stamp will depict the Esala Perahera procession in vibrant colours and be valued at Rs. 500.
+
+The record breaking took place yesterday (20 August) at President’s House in Kandy after the Day Procession (Dahawal Perahera) when the ‘Perahera Sandeshaya’ was presented to the President Ranil Wickremesinghe.
+
+The following items were issued: Stamp, souvenir sheet (miniature sheet), first day cover (FDC) and folder.
+
+Commenting on the record, Philatelic Association of Sri Lanka President Gihan Fernando emphasised the importance of this achievement as it has many advantages to Sri Lanka.
+
+...
+
+[Data](articles/54fa4b05.json)
+
+---
+
+### Keheliya hit with Rs. 300 m compensation claim over contaminated eye drops
+
+*2024-08-21 02:00:54* · [`dailyftlk`](https://www.ft.lk/news/Keheliya-hit-with-Rs-300-m-compensation-claim-over-contaminated-eye-drops/56-765765) · `en`
+
+Three patients who permanently lost their vision after using contaminated Prednisolone Acetate eye drops following cataract surgery at a State-run hospital have filed a lawsuit against former Health Minister Keheliya Rambukwella and several others before the Colombo District Court today, seeking Rs. 300 million in damages.
+
+The plaintiffs have named Rambukwella, former Health Ministry Secretary Janaka Chandraguptha, National Medicine Regulatory Authority (NMRA) Head Professor S.D. Jayaratne, NMRA CEO Dr. Vijith Gunasekara, Director General of Health Services (DGHS) Dr. Asela Gunawardena, Chamee Chemist Ltd. of Yakkala, Indiana Ophthalmics LLP and the Attorney General and several others were named as the defendants of these plaints. One plaintiff, Makkari Rajaratnam from Kandapola maintained he was admitted to the District General Hospital Nuwaraeliya and underwent a cataract surgery on 5 April 2023.
+
+...
+
+[Data](articles/ad8e837c.json)
+
+---
+
+### Sri Lanka Ceramics and Glass Council holds 18th AGM, celebrates industry progress and innovation
+
+*2024-08-21 01:58:01* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Ceramics-and-Glass-Council-holds-18th-AGM-celebrates-industry-progress-and-innovation/34-765764) · `en`
+
+The Annual General Meeting of the Sri Lanka Ceramics and Glass Council (SLCGC) took place on 1 August, at The Kingsbury Colombo.
+
+As the foremost industry body representing the ceramics and glass sectors in Sri Lanka, SLCGC is dedicated to promoting innovation, sustainability, and growth, thereby playing a crucial role in advancing industry standards and global competitiveness.
+
+At the commencement of the meeting, outgoing President Anura Warnakulasuriya, extended a warm welcome to the members while emphasising the Council’s notable accomplishments in the face of persistent challenges in recent years. He commended the dedication and efficacy of the Executive Committee and the Secretariat in addressing members’ concerns, navigating supply chain disruptions, and managing regulatory changes.
+
+...
+
+[Data](articles/2a96ee02.json)
+
+---
 
 ### ASI marks new era in sustainable infrastructure development in Sri Lanka
 
@@ -46,6 +172,8 @@ The event was a significant milestone in Sri Lanka’s journey towards sustainab
 
 [Data](articles/d92368f6.json)
 
+[Extended Data](ext_articles/d92368f6.ext.json)
+
 ---
 
 ### Canon team visits Board of Investment
@@ -59,6 +187,8 @@ The Canon Company is a Japanese giant specialising in optical imaging and commer
 ◼️
 
 [Data](articles/7ff13110.json)
+
+[Extended Data](ext_articles/7ff13110.ext.json)
 
 ---
 
@@ -77,6 +207,8 @@ The program, initiated and promoted by the Sri Lanka Industries Ministry, extend
 ...
 
 [Data](articles/29978e26.json)
+
+[Extended Data](ext_articles/29978e26.ext.json)
 
 ---
 
@@ -2171,159 +2303,5 @@ In the contemporary, there are many issues, including the United Nations Charter
 [Data](articles/77dfff56.json)
 
 [Extended Data](ext_articles/77dfff56.ext.json)
-
----
-
-### Asoka Priyantha support Ranil
-
-*2024-08-20 14:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசோக-பிரியந்த-ஆதரவு-ரணிலுக்கு/175-342514) · `ta`
-
-Ashoka Priyantha, Minister of State for Home Affairs, announced his support for President Ranil Wickremesinghe in the upcoming presidential election on Tuesday (20).
-
-🟩
-
-Minister of State for Home Affairs Ashoka Priyantha has decided to support President Ranil Wickremesinghe in the presidential election.
-
-Asoka Priyantha made his decision on Tuesday (20).
-
-◼️
-
-[Data](articles/0ecd909f.json)
-
-[Extended Data](ext_articles/0ecd909f.ext.json)
-
----
-
-### Asoka from Namal
-
-*2024-08-20 14:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலிடம்-இருந்து-தாவினார்-அசோக/175-342514) · `ta`
-
-Ashoka Priyantha, Minister of State for Home Affairs, supports President Ranil Wickremesinghe in the upcoming presidential election, as announced on Tuesday (20).
-
-🟩
-
-Minister of State for Home Affairs Ashoka Priyantha has decided to support President Ranil Wickremesinghe in the presidential election.
-
-Asoka Priyantha made his decision on Tuesday (20).
-
-◼️
-
-[Data](articles/d84ec486.json)
-
-[Extended Data](ext_articles/d84ec486.ext.json)
-
----
-
-### All Presidential candidates should be given the guarantee that the executive presidency will be completely abolished within a year of the new Parliament.
-
-*2024-08-20 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191517) · `ta`
-
-Civil society urges presidential candidates to commit to abolishing the executive presidency within a year of the new Parliament, citing its negative impacts on the economy, racial tensions, and overall stability in Sri Lanka. This reform is seen as crucial for the country's regeneration.
-
-🟩
-
-Representatives of the civil society have requested the presidential election candidates to ensure that the presidency will be abolished within a year of the new parliament.
-
-Civil community representatives have requested that all candidates contesting the 2024 presidential election be a firm pledge to abolish the executive presidency of the new parliament in a year.
-
-Rep.
-
-Civil society representatives have said that it has been formed as expedited, such as the social development of the social development.
-
-Executive power has only had the impact of neglecting the economy, and by accelerating racism, our political system is often affected by crisis and it has been a serious impact on peace and stability.
-
-The lack of responsibility and lack of responsibility has had this undesirable consequences, which has helped defeat the general public of Sri Lankans in Sri Lanka, which has had this undesirable consequences, and the civil society representatives said.
-
-...
-
-[Data](articles/89582c25.json)
-
-[Extended Data](ext_articles/89582c25.ext.json)
-
----
-
-### US official in Sri Lanka to discuss collabs in hydrography, climate change, biodiversity
-
-*2024-08-20 14:00:00* · [`economynextcom`](https://economynext.com/us-official-in-sri-lanka-to-discuss-collabs-in-hydrography-climate-change-biodiversity-177396/) · `en`
-
-ECONOMYNEXT – US Acting Assistant Secretary of State for Oceans, International Environmental and Scientific Affairs Jennifer Littlejohn is on a visit to Sri Lanka from August 19 to 21.
-
-“During her visit, she will engage with officials and partners, explore US-supported wildlife protection projects, and discuss opportunities to connect Sri Lankan and US experts in hydrography, climate change, and biodiversity,” US Ambassador to Sri Lanka Julie Chung said on X (twitter).
-
-She will discuss nature and marine conservation, plastic and air pollution, the climate crisis, deforestation, nature crimes, civil and commercial space activities, promoting women and girls in STEM, and the sustainable blue economy, a statement by the embassy said.
-
-After Colombo Littlejohn will travel to India and Maldives. (Colombo/Aug20/2024)
-
-◼️
-
-[Data](articles/a0ac3f92.json)
-
-[Extended Data](ext_articles/a0ac3f92.ext.json)
-
----
-
-### Floods remain in several areas of Kalutara District
-
-*2024-08-20 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101372/floods-remain-in-several-areas-of-kalutara-district) · `en`
-
-Several roads reportedly remain inundated in Madurawala, Palindanuwara, Millaniya and Bulathsinhala areas of Kalutara District due to the heavy rainfall.
-
-Meanwhile, it is also reported that the sluice gates of Kukule Ganga Reservoir and Deduru Oya Reservoir continue to remain open.
-
-The Director of Irrigation, S.P.C. Sugeeshwara stated that flood situations continue to remain in certain areas of the Gampaha District.
-
-Meanwhile, the Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
-
-Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it said, adding that showers or thundershowers will occur at several places in Eastern, Uva and North-Central Provinces during the evening or night.
-
-...
-
-[Data](articles/26bd1663.json)
-
-[Extended Data](ext_articles/26bd1663.ext.json)
-
----
-
-### Sri Lankans who exercised the luxury vessel
-
-*2024-08-20 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200132) · `si`
-
-Near Sicily, a luxury British-flagged yacht rescued 15 people, including a Sri Lankan crew member. The vessel was stranded half a mile from Poratchella port due to a storm, resulting in casualties and six missing persons, including British millionaire Mike Linch.
-
-🟩
-
-At the sea near Sicily Island, 15 people were securely liberated and among them a Sri Lankan staff member.
-
-The luxury sail of the British Flag, which was sailing under the British flag, which was sailing under the British flag, was sailing under the British flag.
-
-The vessel that had been stopped at half a mile from the port of Poratchella, the vessel was so mired by a tonido.
-
-Some died, six missing and there were a British wealth Mike Linch.
-
-◼️
-
-[Data](articles/ca52c128.json)
-
-[Extended Data](ext_articles/ca52c128.ext.json)
-
----
-
-### CSE, South Eastern University of Sri Lanka to enhance undergrad financial literacy
-
-*2024-08-20 13:21:00* · [`economynextcom`](https://economynext.com/cse-south-eastern-university-of-sri-lanka-to-enhance-undergrad-financial-literacy-177389/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange (CSE) and the South Eastern University of Sri Lanka (SEUSL) have signed an agreement to enhance financial literacy among undergraduates.
-
-The memorandum of understanding was signed on Friday (16) at the SEUSL in Oluvil.
-
-The state university offers undergraduate and postgraduate courses through six faculties; management and commerce, applied sciences, arts and culture, Islamic studies and Arabic language, engineering and technology).
-
-The CSE has previously had a similar programme with the Eastern University of Sri Lanka to promote capital market education among undergraduates. (Colombo/Aug20/2024)
-
-◼️
-
-[Data](articles/d945d5c3.json)
-
-[Extended Data](ext_articles/d945d5c3.ext.json)
 
 ---

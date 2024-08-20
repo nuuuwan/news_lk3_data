@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 14:36:49**
+As of **2024-08-20 14:55:50**
 
 ## Newspaper Stats
 
-*Scraped **41,674** Articles*
+*Scraped **41,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,687
 adalk | 3,832
 dailymirrorlk | 4,733
 adaderanalk | 4,878
-tamilmirrorlk | 5,388
+tamilmirrorlk | 5,389
 virakesarilk | 6,615
 adaderanasinhalalk | 7,111
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,668 (100.0%) of 41,674 articles have been extended.
+41,674 (100.0%) of 41,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### அசோக பிரியந்த ஆதரவு ரணிலுக்கு
+
+*2024-08-20 14:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசோக-பிரியந்த-ஆதரவு-ரணிலுக்கு/175-342514) · `ta`
+
+ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்த தீர்மானித்துள்ளார்.
+
+செவ்வாய்க்கிழமை (20)  இடம்பெற்ற கலந்துரையாடலில் கலந்து கொண்டு  அசோக பிரியந்த தனது தீர்மானத்தை தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/0ecd909f.json)
+
+---
 
 ### US official in Sri Lanka to discuss collabs in hydrography, climate change, biodiversity
 
@@ -47,6 +61,8 @@ After Colombo Littlejohn will travel to India and Maldives. (Colombo/Aug20/2024)
 ◼️
 
 [Data](articles/a0ac3f92.json)
+
+[Extended Data](ext_articles/a0ac3f92.ext.json)
 
 ---
 
@@ -72,21 +88,27 @@ Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa
 
 ---
 
-### සුඛෝපභෝගී යාත්‍රාවේ සිට දිවිබේරාගත් ලාංකිකයා
+### Sri Lankans who exercised the luxury vessel
 
 *2024-08-20 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200132) · `si`
 
-සිසිලි දූපත ආසන්නයේ දී මුහුදේ ගිලී ගිය සුඛෝපභෝගී යාත්‍රාවේ සිටි 15 දෙනෙක් ආරක්ෂිතව මුදාගෙන ඇති අතර, ඒ පිරිස අතර ශ්‍රී ලාංකික කාර්ය මණ්ඩල සාමාජිකයෙක් ද සිටී.
+Near Sicily, a luxury British-flagged yacht rescued 15 people, including a Sri Lankan crew member. The vessel was stranded half a mile from Poratchella port due to a storm, resulting in casualties and six missing persons, including British millionaire Mike Linch.
 
-මගීන් සහ කාර්ය මණ්ඩල සාමාජිකයින් 22ක් රැගත් බ්‍රිතාන්‍ය ධජය යටතේ යාත්‍රා කරමින් පැවති බේෂන් නම් සුඛෝපභෝගී රුවල් නෞකාව ඉතාලියේ සිසිලි දූපත ආසන්නයේ ගිලී ගියේ ඊයේ (19) දිනයේදී ය.
+🟩
 
-පොර්තිචෙල්ලෝ වරායෙන් සැතපුම් අඩක දුරින් නවත්වා තිබූ මෙම යාත්‍රාව මෙලෙස ගිලී ගොස් තිබුණේ එම කලාපයට බලපෑ ටොනේඩෝ තත්ත්වයක් හේතුවෙනි.
+At the sea near Sicily Island, 15 people were securely liberated and among them a Sri Lankan staff member.
 
-එහිදී අයෙක් මියගොස් 6 දෙනෙක් අතුරුදන් වූ අතර ඊට බ්‍රිතාන්‍ය ධන කුවේරයෙකු වන මයික් ලින්ච් ද අයත්ය.
+The luxury sail of the British Flag, which was sailing under the British flag, which was sailing under the British flag, was sailing under the British flag.
+
+The vessel that had been stopped at half a mile from the port of Poratchella, the vessel was so mired by a tonido.
+
+Some died, six missing and there were a British wealth Mike Linch.
 
 ◼️
 
 [Data](articles/ca52c128.json)
+
+[Extended Data](ext_articles/ca52c128.ext.json)
 
 ---
 
@@ -105,6 +127,8 @@ The CSE has previously had a similar programme with the Eastern University of Sr
 ◼️
 
 [Data](articles/d945d5c3.json)
+
+[Extended Data](ext_articles/d945d5c3.ext.json)
 
 ---
 
@@ -204,19 +228,25 @@ President Mahinda Rajapaksa supported 17 former Pradeshiya Sabha members in Kuru
 
 ---
 
-### கிளப் வசந்த கொலை: சந்தேக நபருக்கு பாதுகாப்பு
+### Club Vasantha Murder: Protection to the suspect
 
 *2024-08-20 12:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-சந்தேக-நபருக்கு-பாதுகாப்பு/175-342512) · `ta`
 
-கிளப் வசந்த சுட்டுக் கொல்லப்பட்ட சம்பவம் தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டிருந்த பெண் ஒருவர் உட்பட 11 சந்தேகநபர்கள் செவ்வாய்க்கிழமை (20) நீதிமன்றத்தில் மீண்டும் ஆஜர்படுத்தப்பட்டனர்.
+In a court appearance, eleven suspects, including a woman, connected to a club shooting were remanded until September 2. The magistrate, concerned about threats to one suspect, ordered police protection.
 
-நீதிமன்றத்தில் ஆஜர்படுத்திய போது அவர்களின் விளக்கமறியலை செப்டம்பர் இரண்டாம் திகதி வரை நீடித்து  கடுவல நீதவான் சனிமா விஜய பண்டார உத்தரவிட்டார்.
+🟩
 
-சந்தேக நபர்களில் ஒருவருக்கு  உயிருக்கு அச்சுறுத்தல் இருப்பதாக அவரது சார்பில்  நீதிமன்றில் முன்னிலையாகிய சட்டத்தரணி நீதிமன்றத்தின் கவனத்துக்கு கொண்டு வந்ததை அடுத்து அவருக்கு தேவையான பாதுகாப்பை வழங்குமாறு சிறைச்சாலை ஆணையாளருக்கு நீதவான் உத்தரவிட்டார் .
+Eleven suspects, including a woman who were detained in connection with the shooting of the club spring, were produced before a court on Tuesday (20).
+
+Kaduwela Magistrate Sanima Vijaya Bandara ordered the extension of their interrogation until September 2, when he appeared in court.
+
+The magistrate ordered the prison commissioner to provide the necessary protection after the lawyer, who appeared in court on behalf of his court, had a threat to one of the suspects.
 
 ◼️
 
 [Data](articles/55818fd5.json)
+
+[Extended Data](ext_articles/55818fd5.ext.json)
 
 ---
 
@@ -253,6 +283,8 @@ The Arleigh Burke-class destroyer is 160 meters in length. These warships can co
 ◼️
 
 [Data](articles/7f33b07b.json)
+
+[Extended Data](ext_articles/7f33b07b.ext.json)
 
 ---
 
@@ -391,6 +423,8 @@ The basis of allotment will be notified to the CSE in due course, the  bank said
 ◼️
 
 [Data](articles/11ef838e.json)
+
+[Extended Data](ext_articles/11ef838e.ext.json)
 
 ---
 
@@ -2281,29 +2315,5 @@ Therefore, not to give a chance to false things. In response to this, it is fals
 [Data](articles/6396d7b6.json)
 
 [Extended Data](ext_articles/6396d7b6.ext.json)
-
----
-
-### 27 inches long
-
-*2024-08-20 01:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/27அங்குலம்-நீளமானது/175-342478) · `ta`
-
-Printing of the presidential election ballots, which could be 26 or 27 inches long, has started without any material shortages. The process took just a few days, ensuring secure delivery to the National Election Commission post-polling.
-
-🟩
-
-Mrs. Kangani Kalpani Liyanage, the chief of the Government Press Office, said that printing of the presidential election has already begun.
-
-After repeated negotiations with the Election Commission on the ballot printing,. Mrs. Kangani Kalpani Liyanage said the ballot could be 26 or 27 inches long this time.
-
-There is no material shortage for the relevant print tasks. He said the ballot was completed in a couple of days. Once the polling process is completed, it is scheduled to be handed over to the National Election Commission with special security.
-
-Mrs. Kangani Kalpani Liyanage, the chief of the government printing press, has added that the government prints have been provided with adequate security.
-
-◼️
-
-[Data](articles/fbabbab2.json)
-
-[Extended Data](ext_articles/fbabbab2.ext.json)
 
 ---

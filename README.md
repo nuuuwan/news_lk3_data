@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 02:21:44**
+As of **2024-08-21 02:36:48**
 
 ## Newspaper Stats
 
-*Scraped **41,780** Articles*
+*Scraped **41,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,701
 adalk | 3,845
 dailymirrorlk | 4,733
 adaderanalk | 4,889
-tamilmirrorlk | 5,404
+tamilmirrorlk | 5,405
 virakesarilk | 6,641
 adaderanasinhalalk | 7,132
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,773 (100.0%) of 41,780 articles have been extended.
+41,780 (100.0%) of 41,781 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ National People’s Party (NPP) Executive Council member Dr. Nalinda Jayatissa h
 
 [Data](articles/a4243f97.json)
 
+[Extended Data](ext_articles/a4243f97.ext.json)
+
 ---
 
 ### Sirisena completes Rs. 100 m compensation to Easter Sunday victims
@@ -70,6 +72,8 @@ The tragic attacks, which occurred on 21 April 2019, resulted in the deaths of o
 
 [Data](articles/042a006e.json)
 
+[Extended Data](ext_articles/042a006e.ext.json)
+
 ---
 
 ### SLMC cracks whip on Maulana and Harees for disciplinary violations
@@ -85,6 +89,8 @@ Kariapper said accordingly he has been instructed by Hakeem to notify him of his
 ...
 
 [Data](articles/276d4bda.json)
+
+[Extended Data](ext_articles/276d4bda.ext.json)
 
 ---
 
@@ -106,6 +112,8 @@ Ratnayake said his group voiced their opposition to the debate and urged the ECS
 
 [Data](articles/0b981487.json)
 
+[Extended Data](ext_articles/0b981487.ext.json)
+
 ---
 
 ### Sri Lankan philately into record books
@@ -126,6 +134,8 @@ Commenting on the record, Philatelic Association of Sri Lanka President Gihan Fe
 
 [Data](articles/54fa4b05.json)
 
+[Extended Data](ext_articles/54fa4b05.ext.json)
+
 ---
 
 ### Keheliya hit with Rs. 300 m compensation claim over contaminated eye drops
@@ -139,6 +149,8 @@ The plaintiffs have named Rambukwella, former Health Ministry Secretary Janaka C
 ...
 
 [Data](articles/ad8e837c.json)
+
+[Extended Data](ext_articles/ad8e837c.ext.json)
 
 ---
 
@@ -155,6 +167,8 @@ At the commencement of the meeting, outgoing President Anura Warnakulasuriya, ex
 ...
 
 [Data](articles/2a96ee02.json)
+
+[Extended Data](ext_articles/2a96ee02.ext.json)
 
 ---
 
@@ -251,6 +265,20 @@ This youth development project is designed to foster entrepreneurship among the 
 [Data](articles/6cb1614f.json)
 
 [Extended Data](ext_articles/6cb1614f.ext.json)
+
+---
+
+### ’பொருளாதார சுதந்திரத்தை உருவாக்க இணையுங்கள்’
+
+*2024-08-21 01:00:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-சுதந்திரத்தை-உருவாக்க-இணையுங்கள்/175-342543) · `ta`
+
+பொருளாதாரப் பேரழிவின் விளிம்பில் சிக்கி இருக்கின்ற  நாட்டை மீட்டெடுப்பதற்கு முடியுமான ஞானமும் திறமையும் உள்ள சிறந்த குழு என்னிடம் இருக்கின்றது. மனிதாபிமான  முதலாளித்துவத்தையும், சமூக  ஜனநாயகத்தையும் ஒன்றோடு ஒன்று இணைத்து   ஏற்றுமதியை மையமாகக் கொண்ட பொருளாதார மேம்பாட்டின் ஊடாக நமது நாட்டை செழிப்பான நாடாகவும், துரித பொருளாதார  அபிவிருத்தியுடைய நாடாகவும் மாற்றி, அதன் பிரதிபலனின்  சமத்துவத்தை உறுதிப்படுத்தும் வகையில் பகிர்ந்தளிக்கும் பொருளாதார கட்டமைப்பிற்கு  இந்தக் குழுவோடு செல்ல முடியும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+இந்த புதிய சிந்தனை சமமான வழிமுறையை பின்பற்றி  நீதியையும் நியாயத்தையும்  நிலைநாட்டுகின்ற புதிய பாதைக்கு இட்டுச் செல்லும். இதில் ஊழல் மோசடிக்கு எந்த ஒரு இடமும் இல்லை.  கொள்முதல் முறைகளையும்  மோசடியான அரச கொடுக்கல் வாங்கல் முறைகளையும்  தவிர்த்து, ஊழலை அடியோடு இல்லாத செய்யும்  பொருளாதார சுதந்திரத்தை வெற்றி கொள்ளும் பணியில்  இணைந்து கொள்ளுமாறு  அழைப்பு விடுக்கிறேன்  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+...
+
+[Data](articles/ea2b4a79.json)
 
 ---
 
@@ -2279,29 +2307,5 @@ At the same time, it is noteworthy that the highest date for those who cannot vo
 [Data](articles/05512407.json)
 
 [Extended Data](ext_articles/05512407.ext.json)
-
----
-
-### The rights of human, minority in crisis
-
-*2024-08-20 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191525) · `ta`
-
-Dr. Jesab Marko addressed the challenges of protecting minority rights amidst contemporary crises, highlighting the importance of international agreements and the need for practical implementation beyond ideological debates. He emphasized the role of nationalism and national liberalism in either facilitating or hindering minority rights protection, advocating for a balanced approach that acknowledges and respects minority identities and rights. The speech underscored the significance of political parties, global politics, and internal cultural dialogues in addressing these issues, drawing examples from Germany, France, Bosnia, and Catalonia to illustrate the complexities and nuances involved in effectively safeguarding minority rights.
-
-🟩
-
-Dr. Jesab Marko made a special speech on the rights of human and minority rights in the contemporary crisis at the Summer University of Summer University in the State of Biripurg, Switzerland.
-
-Dr. Joseph Marow is the Leader of the Law of the University of Cross University and is a member of the International Committee of the Bosnia and Kurusia Constitution, the Judge of the Bosnia and the Kurussia Constitutional Court, the Political Adviser to the Austrian Government and the Director of the European Studies Center for Minority Rights.
-
-In this case, the summary of the speech of Dr. Jesab Marco, who is still influenced by the constitutional arrangements, policies and mechanisms of the rights of the minority:
-
-In the contemporary, there are many issues, including the United Nations Charters, Agreements and the EU Charters as international arrangements to protect the rights of minorities.
-
-...
-
-[Data](articles/77dfff56.json)
-
-[Extended Data](ext_articles/77dfff56.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 10:55:03**
+As of **2024-08-20 11:07:35**
 
 ## Newspaper Stats
 
-*Scraped **41,625** Articles*
+*Scraped **41,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 2,511
 dailyftlk | 2,687
 adalk | 3,828
 dailymirrorlk | 4,733
-adaderanalk | 4,870
+adaderanalk | 4,872
 tamilmirrorlk | 5,377
 virakesarilk | 6,601
-adaderanasinhalalk | 7,104
+adaderanasinhalalk | 7,105
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,621 (100.0%) of 41,625 articles have been extended.
+41,625 (100.0%) of 41,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### 39-year-old attacked to death over personal dispute
+
+*2024-08-20 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101366/39-year-old-attacked-to-death-over-personal-dispute) · `en`
+
+A person has been attacked to death with a sharp weapon and a club near a house in the Naramminiya area of Peliyagoda.
+
+The incident had occurred on August 18 and the person who was critically injured from the incident has succumbed to injuries while receiving treatment in the Colombo National Hospital last morning (19).
+
+The deceased is a 39-year-old resident of the Kelaniya area on Naramminiya Road.
+
+Police said the attack was carried out by a group of individuals over a personal dispute.
+
+A 24-year-old resident of the Kottukachchiya area has been arrested by the police in connection with the incident along with the knife which was allegedly used in the crime.
+
+◼️
+
+[Data](articles/e9da1fe2.json)
+
+---
+
+### Suspect arrested for defrauding over Rs. 2.4 mln promising jobs in Germany
+
+*2024-08-20 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101365/suspect-arrested-for-defrauding-over-rs-24-mln-promising-jobs-in-germany) · `en`
+
+A person has been arrested in the Gandara area in connection with a foreign employment scam after allegedly cheating more than Rs. 2.4 million from several individuals by promising employment opportunities in Germany.
+
+Police stated that the suspect was apprehended during a raid carried based on a tip-off received by the ‘119’ Police Emergency Hotline.
+
+The suspect, a 58-year-old resident of the Peliyagoda area, is said to have posed as a District Judge and a lawyer to deceive the victims.
+
+The police investigation has revealed that the suspect defrauded over Rs. 2,400,000 through these false promises of employment in Germany.
+
+Additionally, three complaints have been lodged with the Keselwatta Police regarding financial fraud, and Gandara Police is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/58aa806f.json)
+
+---
+
+### ඊශ්‍රායලයේ ඇතුළටම ගොස් සිදුකළ ප්‍රහාරය
+
+*2024-08-20 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200126) · `si`
+
+පසුගිය ඉරිදා ඊශ්‍රායලයේ ටෙල් අවීව් නගරයේ ආගමික මධ්‍යස්ථානයක් අසල සිදුකළ බෝම්බ ප්‍රහාරයේ වගකීම හමාස් සහ ඉස්ලාමික් ජිහාඩ් සංවිධාන වල සන්නද්ධ කණ්ඩායම් භාරගෙන තිබේ.
+
+ඊශ්‍රායල පොලීසිය සහ ෂින්බෙත් බුද්ධි සේවය එය ත්‍රස්ත ප්‍රහාරයක් ලෙස හඳුන්වාදී ඇත.
+
+එහිදී බෝම්බය රැගෙන යමින් සිටි පුද්ගලයා මියගිය අතර ඒ අසල සිටි තවත් පුද්ගලයෙක් එහිදී තුවාල ලැබීය.
+
+පොලීසිය පවසන්නේ එම පුද්ගලයා, ජනාකීර්ණ ප්‍රදේශයට බෝම්බය රැගෙන යමින් සිටින අතරතුරදී එය පුපුරා ගොස් ඇති බවයි.
+
+◼️
+
+[Data](articles/913a6f84.json)
+
+---
 
 ### Dilshan Rodrigo appointed CEO of Sri Lanka’s Union Bank
 
@@ -49,6 +107,8 @@ Rodrigo does not hold any shares of the Bank as at date, the bank said. (Colombo
 ◼️
 
 [Data](articles/3d255d68.json)
+
+[Extended Data](ext_articles/3d255d68.ext.json)
 
 ---
 
@@ -170,6 +230,8 @@ Sri Lanka to get another bumper main rice harvest in 2024 from El Niño?
 
 [Data](articles/b1c4d8c7.json)
 
+[Extended Data](ext_articles/b1c4d8c7.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens at 298.90/299.20 to US dollar
@@ -191,6 +253,8 @@ In equities, Colombo’s All Share Price Index opened 4.45 points higher at 11,5
 ◼️
 
 [Data](articles/3b92b203.json)
+
+[Extended Data](ext_articles/3b92b203.ext.json)
 
 ---
 
@@ -2111,81 +2175,5 @@ On 19 August, President Wickremesinghe met Buddhist monks at the stage of his in
 [Data](articles/5459eba0.json)
 
 [Extended Data](ext_articles/5459eba0.ext.json)
-
----
-
-### Teaser release of Vaibhav starrer 'Chennai City Gangsters'
-
-*2024-08-19 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191462) · `ta`
-
-The teaser for "Chennai City Gangsters," featuring Vaibhav among others, has been released. Directed by Ajay Gnanamuttu, it promises comedy and features a plot about a planned bank robbery. Produced by BTG Universal's Bobi Balachandran, the film aims to showcase talent from Tamil Nadu and includes a music album through BTG Music.
-
-🟩
-
-The preview of the film 'Chennai City Gangsters' has been released in the Tamil film industry.
-
-Vaibhav, Atuliya Ravi, Manikandan Rajesh, Anandaraj, John Vijay, Sunil Reddy, Redin Kingsley, Motta Rajendran, Bipin, Shehhan, Shahn, Shadhin, Bipin, Shehhan,. Dijo Tommy has composed the film for the film. The film is being produced by Bobi Balachandran on behalf of BTG Universal.
-
-The teaser launch of the film, which will be released in September, was held in Chennai. Director Ajay Gnanamuttu and actor Arun Vijay participated in the event.
-
-Speaking on the occasion, Bobby Balachandran said, “I thank the fans who have been honored with the film 'Demandi Colony 2', the first production of our company.. Following this, we have produced the movie 'Chennai City Gangsters'.
-
-...
-
-[Data](articles/6da7a6aa.json)
-
-[Extended Data](ext_articles/6da7a6aa.ext.json)
-
----
-
-### Nani starring 'Surya's Saturday'
-
-*2024-08-19 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191459) · `ta`
-
-"Nani stars in 'Surya's Saturday,' directed by Vivek Athreya, featuring a multilingual release including Tamil, Telugu, Malayalam, Kannada, and Hindi versions. The film, produced by DVV Entertainment, showcases a diverse cast including Nani, S.J.Surya, Priyanka Mohan, Aditi Palan, and Abirami. Nani highlights the film's aim to unite audiences across generations, emphasizing its unique screenplay."
-
-🟩
-
-The preview of the film 'Surya's Satarde', which plays the lead role of Telugu star Nani's story, has attracted Tamil fans through 'I E'.
-
-Nani, S.. J.. Surya, Priyanka Mohan, Aditi Palan, Abirami, Saikumar and many others have been cast. G. Jack Bijai has composed the film, which has been recorded by Murali.
-
-The film is being produced by DVV Entertainment Company on behalf of DVV Entertainment Company.
-
-The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 29th of this month.. In this case, the preview of the Tamil version of the film has been released.
-
-For this, the actors Nani, S.. J.. Surya, actresses Priyanka Mohan, Aditi Palan and Abirami participated.
-
-Speaking about the film, actor Nani said, “Surya's Saturday movie. Director Vivek Athreya has made the film to reflect the sentiments of all sides. His screenplay would be exclusive.
-
-From children to adults, everyone has been lovingly urged to give the support of our films in this film. ”
-
-◼️
-
-[Data](articles/a8cc7c8b.json)
-
-[Extended Data](ext_articles/a8cc7c8b.ext.json)
-
----
-
-### Special relief from government to civil security forces
-
-*2024-08-19 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191463) · `ta`
-
-The government has launched a special initiative to support the Civil Defense Force, recognizing its crucial role in ending a long war. This includes building homes for the homeless and renovating existing ones, with a focus on 100 members. Additionally, subsidies have been increased to improve their living standards.
-
-🟩
-
-The Civil Defense Force, which operates under the Ministry of Defense, made a unique contribution to the end of the last thirty years of brutal war. In addition, the most important task is to be implemented in the country and the well -being of the community.
-
-Considering this, the government has decided to provide the necessary labor contribution through this army to build a house for homeless members and renovate existing houses.. The Minister of Defense has announced that the Civil Security Force will be given the matter to 100 members of the Civil Security Force.
-
-In addition, it has been decided to increase their subsidy to Rs.. The Minister of State added that this would be able to stabilize their lifestyle.
-
-◼️
-
-[Data](articles/1e8a6a6e.json)
-
-[Extended Data](ext_articles/1e8a6a6e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 12:55:13**
+As of **2024-08-20 13:06:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,653 (100.0%) of 41,655 articles have been extended.
+41,655 (100.0%) of 41,655 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Blinken’s visit comes as U.S. President  faces mounting election-year pressur
 ...
 
 [Data](articles/8321c6ad.json)
+
+[Extended Data](ext_articles/8321c6ad.ext.json)
 
 ---
 
@@ -74,21 +76,29 @@ Speaking in this regard, the Chairman of the Election Commission R.M.A.L. Rathna
 
 ---
 
-### சுமந்திரனிடம் நாமல் சொன்ன சங்கதி அம்பலம்
+### Sangati exposed to Sumanthiran
 
 *2024-08-20 12:14:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனிடம்-நாமல்-சொன்ன-சங்கதி-அம்பலம்/175-342507) · `ta`
 
-இலங்கைத் தமிழ் அரசுக் கட்சி 2024ஆம் ஆண்டு நடைபெறவுள்ள ஜனாதிபதித் தேர்தலில் எந்த வேட்பாளரை ஆதரிக்கும் என்பதை வேட்பாளர்கள் தமது கொள்கை அறிக்கையை வெளியிட்ட பின்னர் அறிவிக்கும் என தெரிவித்துள்ளது.
+The Sri Lankan Tamil State Party's Central Committee met in Vavuniya, discussing support for the 2024 presidential election. Despite tensions over differing opinions, it was decided that the candidates' policies would be evaluated before making a final choice. Parliamentarian MA Sumanthiran confirmed that ITAK had discussions with three major candidates, including Namal Rajapaksa, whose victory is uncertain. The final decision will await the release of policy reports from all contenders.
 
-ITAK இன் மத்திய குழு ஞாயிற்றுக்கிழமை (ஒகஸ்ட் 18) வவுனியாவில் கூடியது, அதன் உறுப்பினர்கள் அனைவரும் கூட்டத்தில் கலந்து கொண்டனர்.
+🟩
 
-2024 ஜனாதிபதித் தேர்தலில் கட்சி எந்த வேட்பாளருக்கு ஆதரவளிக்க வேண்டும் என்பது குறித்து பல உறுப்பினர்கள் பல்வேறு கருத்துக்களைப் பகிர்ந்து கொண்டதையடுத்து கூட்டத்தில் பதற்றமான சூழ்நிலையும் பதிவாகியுள்ளது.
+The Sri Lankan Tamil State Party has announced that the candidates will announce their policy report on which candidate will support the presidential election in 2024.
 
-எவ்வாறாயினும், ஊடகங்களுக்கு கருத்து தெரிவித்த ITAK மற்றும் தமிழ் தேசிய கூட்டமைப்பின் (TNA) பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன், எந்த வேட்பாளரை ஆதரிப்பது என்பது குறித்து வேட்பாளர்கள் தங்கள் கொள்கை அறிக்கையை வெளியிட்ட பிறகு முடிவு செய்யப்படும் என்று கூறினார்.
+The Central Committee of ITAK gathered in Vavuniya on Sunday (August 18) that all its members attended the meeting.
+
+The crowd has reported a tense situation at the meeting after several members shared various views on which party should support the candidate in the 2024 presidential election.
+
+However, commenting on the media, ITAK and TNA parliamentarian MA Sumanthiran said that the candidates would decide on which candidates to support the candidate.
+
+Parliamentarian Sumanthiran said the ITAK had already held discussions with three major presidential candidates while the Sri Lanka PA was held talks with Presidential candidate Namal Rajapaksa.
 
 ...
 
 [Data](articles/355452fa.json)
+
+[Extended Data](ext_articles/355452fa.ext.json)
 
 ---
 

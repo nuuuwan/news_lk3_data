@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 22:21:24**
+As of **2024-08-20 22:36:53**
 
 ## Newspaper Stats
 
-*Scraped **41,746** Articles*
+*Scraped **41,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 4,889
 tamilmirrorlk | 5,402
 virakesarilk | 6,631
-adaderanasinhalalk | 7,130
+adaderanasinhalalk | 7,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,745 (100.0%) of 41,746 articles have been extended.
+41,746 (100.0%) of 41,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### නාමල් යන මග පැහැදිලි කරයි
+
+*2024-08-20 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200155) · `si`
+
+තම පාලනයක් යටතේ මෙරට වෛද්‍යවරුන් ඇතුළු වෘත්තිකයන් ආරක්ෂා කිරීමට ප්‍රතිපත්තිමය තීන්දු ගන්නා බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+
+අද (20) සිය මැතිවරණ ව්‍යාපාරය අතරවාරයේ රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය සමග පැවති සාකච්ඡාවකින් පසුව ඔහු මෙම අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/8b084dc0.json)
+
+---
+
+### ජනපතිවරණයෙන් පසු සාමය රකින හැටි අනුර කියයි
+
+*2024-08-20 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200154) · `si`
+
+ජනාධිපතිවරණය වෙනුවෙන් තම පක්ෂය ගොඩනගා ඇති කොට්ඨාස සභා ජනපතිවරණයෙන් පසුව ගමේ සාමය රැකීම වෙනුවෙන් යොදාගන්නා බව ජාතික ජන බලවේගයේ ජනපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ජය තහවුරු කිරීම වෙනුවෙන් දිවයින පුරා පවත්වන " රට අනුරට " ජන රැලි මාලාවේ තවත් රැලියක් " පොහොසත් රටක්, ලස්සන ජීවිතයක් " යන්න තේමා කරගනිමින් අද පස්වරුවේ ගල්ගමුව නගරයේදී පැවැත්වුණි.
+
+◼️
+
+[Data](articles/a3b2f7f5.json)
+
+---
 
 ### New program to eliminate poverty - Sajith
 
@@ -486,21 +514,27 @@ The Department of Meteorology also requests the public to take action to reduce 
 
 ---
 
-### රනිල්ට සහාය දෙන පොහොට්ටුවේ මන්ත්‍රීන්ට වෙනමම පක්ෂයක්
+### A separate party to MPs in Pohoth who support Ranil
 
 *2024-08-20 17:53:12* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ට-සහාය-දෙන-පොහොට්ටුවේ-මන්ත්‍රීන්ට-වෙනමම-පක්ෂයක්/11-411469) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකරන ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් වෙනුවෙන් නව දේශපාලන පක්ෂයක් බිහිකිරීම සම්බන්ධයෙන් වූ විශේෂ සාකච්ඡාවක් අද (2024.08.20) කොළඹදී පැවැත්විණි.
+A new political party supporting MPs Ranil Wickremesinghe was discussed in Colombo, aiming to field candidates from the next presidential election onwards. Nearly 100 MPs attended, including the Sri Lanka General Secretary and the Chief Organizer of the Government. The party's constitution is ready, with several names proposed for leadership roles.
 
-ඉදිරි ජනාධිපතිවරණයෙන් පසුව පැවැත්වෙන ඕනෑම මැතිවරණයකට මෙම නව දේශපාලන පක්ෂය හරහා අපේක්ෂකයින් ඉදිරිපත් කිරීමට එහිදී තීන්දු වී ඇත.
+🟩
 
-අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ සහ ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක ප්‍රසන්න රණතුංග මහතාගේ  ප්‍රධානත්වයෙන් පැවති මෙම හමුව සඳහා රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කර සිටින ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රීවරු සියයකට ආසන්න පිරිසක් සහභාගි වූහ.
+A special discussion was held in Colombo today (2024.08.20), a new political party that supports MPs Ranil Wickremesinghe.
 
-නව දේශපාලන පක්ෂය සඳහා නම් කීපයක්ම එහිදී යෝජනා වී ඇත. ඉදිරියේදී බිහිවන නව දේශපාලන පක්ෂය සඳහා ව්‍යවස්ථාව මේ වන විටත් සකස් කර ඇති බැවින් ඒ ව්‍යවස්ථාව අනුව ඉදිරියේදී කටයුතු කිරීමට ද එහිදී මන්ත්‍රීවරු  තීරණය කර ඇත.
+Any election after the next presidential election has decided to submit candidates through the new political party.
+
+Nearly 100 MPs in the Sri Lanka Civil Appointment of the Sri Lanka General Secretary of Prime Minister Dinesh Gunawardena and the Chief Organizer of the Government Prasanna Ranatunga were also present.
+
+Several names have been proposed for the new political party. MPs have decided to work in the future as the constitution has already been prepared for the next new political party.
 
 ◼️
 
 [Data](articles/ca0a03a2.json)
+
+[Extended Data](ext_articles/ca0a03a2.ext.json)
 
 ---
 
@@ -2313,63 +2347,5 @@ It is reported that the health authorities of African countries have requested t
 [Data](articles/6b736a30.json)
 
 [Extended Data](ext_articles/6b736a30.ext.json)
-
----
-
-### 50 killedMay a number of magic
-
-*2024-08-20 11:05:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கேமி-க்கு-50-பேர்-பலி-ஏராளமானோர்-மாயம்/50-342500) · `ta`
-
-A devastating tornado in China's Hunan Province resulted in 50 deaths and significant damage, affecting over 1700 homes and triggering 65,000 landslides. Heavy rains led to evacuations of 23,419 people, with 15 still missing. Rescue efforts are ongoing, and essential services have been restored.
-
-🟩
-
-The tragedy of 50 people killed in a tornado in China has caused tragedy.
-
-Gamy hurricanes in Jissing in Hunan Province China. As a result of the hurricane, the normal life of the people has been severely affected by heavy rains.
-
-With more than 1700 homes damaged, the city is in a state of disrepair in 65,000 landslides. As rain continues, 23,419 people have been evacuated to safe places.
-
-At this point, 50 people have been killed in the rain and 15 have been reported missing.
-
-Rescuers are camping in the affected areas and engaged in rescue operations. Officials said the essential services such as electricity, communication and drinking water supply have been set up.
-
-◼️
-
-[Data](articles/1b9d3d8c.json)
-
-[Extended Data](ext_articles/1b9d3d8c.ext.json)
-
----
-
-### The election promises are not enough - how many days will you implement them - Powell Plan to request candidates
-
-*2024-08-20 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191509) · `ta`
-
-Election monitoring group Powell urges Sri Lankan presidential candidates to detail their policy timelines and funding sources. Candidates like Anura Kumaratisanayake and Ranil Wickremesinghe must address how they'll turn campaign promises into action, amid concerns over past discrepancies between manifesto pledges and actual governance. Powell emphasizes transparency and accountability, requiring candidates to specify deadlines and financial plans for their proposed initiatives.
-
-🟩
-
-Election monitoring organizations will appeal to the presidential candidates to present a specific time for them to implement them in response to the presence of vast words.
-
-The presidential candidate of the National People's Power, Anura Kumaratisanayake, will release his election manifesto on the 26th.He will publish the manifesto.
-
-Ranil Wickremesinghe, who is contesting as an independent candidate, will soon release his election manifesto.
-
-In the past, the presidential candidates have published their election manifesto but there has been a huge gap between their promises and their implementation.
-
-The reason for this is that the matters they stated in the election manifesto were seen as a reality.
-
-Or in the midst of their tenure, the circumstances changed their policies.
-
-Sri Lanka is still trying to recover from the worst economic crisis after independence.
-
-Powell candidates, the election monitoring organization, are also planning to put forward the implementation of their plans.
-
-...
-
-[Data](articles/7896a4ea.json)
-
-[Extended Data](ext_articles/7896a4ea.ext.json)
 
 ---

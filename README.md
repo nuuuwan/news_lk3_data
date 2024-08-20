@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 03:06:18**
+As of **2024-08-21 03:21:09**
 
 ## Newspaper Stats
 
-*Scraped **41,787** Articles*
+*Scraped **41,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,108 +19,166 @@ adalk | 3,845
 dailymirrorlk | 4,733
 adaderanalk | 4,889
 tamilmirrorlk | 5,405
-virakesarilk | 6,647
+virakesarilk | 6,648
 adaderanasinhalalk | 7,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,781 (100.0%) of 41,787 articles have been extended.
+41,786 (100.0%) of 41,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### ஊழலை ஒழித்து பொருளாதார சுதந்திரத்தை உருவாக்கும் பணியில் இணைந்து கொள்ளுங்கள் - சஜித் பிரேமதாச
+### ஈஸ்டர் ஞாயிறு தாக்குதல் : எஞ்சிய நஷ்டஈடுத்தொகையை செலுத்தி முடித்த மைத்திரி!
+
+*2024-08-21 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/191580) · `ta`
+
+ஈஸ்டர் ஞாயிறு பயங்கரவாத தாக்குதல் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு செலுத்தப்பட வேண்டியிருந்த 100 மில்லியன் ரூபா நஷ்டஈடுத் தொகையை அவர் செலுத்தி முடித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு 100 மில்லியன் ரூபாவும், முன்னாள் பொலிஸ் மா அதிபர் பூஜித் ஜயசுந்தர, முன்னாள் அரச புலனாய்வுப் பணிப்பாளர் நிலந்த ஜயவர்தன ஆகியோருக்கு தலா 75 மில்லியன் ரூபாவும், முன்னாள் பாதுகாப்புச் செயலாளர் ஹேமசிறி பெர்னாண்டோவுக்கு 50 மில்லியன் ரூபாவும், முன்னாள் தேசிய புலனாய்வுத் தலைவர் சிசிர மெண்டிஸுக்கு 10 மில்லியன் ரூபாவும் கிடைத்துள்ளது. பாதிக்கப்பட்டவர்களுக்கு ஒரு கோடி ரூபாய் இழப்பீடு வழங்க வேண்டும் என்றும் நீதிமன்றம் உத்தரவிட்டது.
+
+அதற்கமைய அவர் செலுத்த வேண்டியிருந்த எஞ்சிய தொகையான 12 மில்லியன் ரூபாவை அவர் 16.08.2024 அன்று செலுத்தியுள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+
+எவ்வாறாயினும், முன்னாள் பொலிஸ் மா அதிபர் பூஜித் ஜயசுந்தர மற்றும் அரச புலனாய்வு சேவையின் முன்னாள் பணிப்பாளர் நிலந்த ஜயவர்தன ஆகியோருக்கு இதுவரை நஷ்டஈடு வழங்கப்படவில்லை என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d1b35282.json)
+
+---
+
+### Join the task of eradicating corruption and creating economic freedom - Sajith Premadasa
 
 *2024-08-21 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191579) · `ta`
 
-பொருளாதாரப் பேரழிவின் விளிம்பில் சிக்கி இருக்கின்ற  நாட்டை மீட்டெடுப்பதற்கு முடியுமான ஞானமும் திறமையும் உள்ள சிறந்த குழு என்னிடம் இருக்கின்றது.
+Sajith Premadasa calls for unity against corruption, advocating for economic freedom and prosperity through humanitarian capitalism and social democracy. He invites all, including traders and businessmen, to contribute to shaping the nation's economic future. This initiative aims to foster justice, equality, and transparency, eliminating space for corruption scandals.
 
-மனிதாபிமான  முதலாளித்துவத்தையும், சமூக  ஜனநாயகத்தையும் ஒன்றோடு ஒன்று இணைத்து ஏற்றுமதியை மையமாகக் கொண்ட பொருளாதார மேம்பாட்டின் ஊடாக நமது நாட்டை செழிப்பான நாடாகவும், துரித பொருளாதார  அபிவிருத்தியுடைய நாடாகவும் மாற்றி, அதன் பிரதிபலனின்  சமத்துவத்தை உறுதிப்படுத்தும் வகையில் பகிர்ந்தளிக்கும்   பொருளாதார கட்டமைப்பிற்கு  இந்தக் குழுவோடு செல்ல முடியும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+🟩
 
-இந்த புதிய சிந்தனை சமமான வழிமுறையை பின்பற்றி  நீதியையும் நியாயத்தையும்  நிலைநாட்டுகின்ற புதிய பாதைக்கு இட்டுச் செல்லும்.  இதில் ஊழல் மோசடிக்கு எந்த ஒரு இடமும் இல்லை.
+I have a great group of wisdom and skills that can restore the country that is trapped on the brink of economic disaster.
 
-கொள்முதல் முறைகளையும்  மோசடியான அரச கொடுக்கல் வாங்கல் முறைகளையும்  தவிர்த்து, ஊழலை அடியோடு இல்லாத செய்யும்  பொருளாதார சுதந்திரத்தை  வெற்றி கொள்ளும் பணியில்  இணைந்து கொள்ளுமாறு  அழைப்பு விடுக்கிறேன்  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+The Opposition Leader said that through the economic development of humanitarian capitalism and social democracy, we could transform our country into a prosperous country and a rapid economic development country, and that the economic structure of the reflection could be accompanied by the economic structure.
+
+This new thought will lead to a new path that uphelds justice and justice, following the equal means.There is no place for corruption scandal.
+
+Opposition Leader Sajith Premadasa said that I am invited to join the task of winning the economic independence of corruption, except for procurement systems and fraudulent government transactions.
+
+"I would like to thank the traders and businessmen of our country who have been involved in a friendly discussion and ideas on the future economic methods of our country," the Opposition Leader said at the session.
 
 ...
 
 [Data](articles/12020481.json)
 
+[Extended Data](ext_articles/12020481.ext.json)
+
 ---
 
-### எல்ரீஎல் ஹோல்டிங்ஸ் மற்றும் இந்தியா பெட்ரோநெட் எல்என்ஜி நிறுவனத்திற்கு இடையில் புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்து
+### Memorandum of Understanding (Memorandum
 
 *2024-08-21 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191578) · `ta`
 
-கெரவலப்பிட்டிய "சொபாதனவி" ஒருங்கிணைந்த  சுழற்சி மின் உற்பத்தி நிலையத்திற்கு திரவ இயற்கை எரிவாயு  சேமிப்பிற்கான உட்கட்டமைப்பை மேம்படுத்துவதற்கும், எல்என்ஜி  எரிவாயுபரிமாற்றம் மற்றும் விநியோகம் தொடர்பில் இலங்கை எல்.டி.எல் ஹோல்டிங்ஸ் நிறுவனம்  மற்றும் பெட்ரோநெட் எல்.என்.ஜி நிறுவனம் ஆகியவற்றுக்கிடையிலான புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திடும் நிகழ்வு செவ்வாய்க்கிழமை (20) பிற்பகல் கொழும்பு கலதாரி ஹோட்டலில் நடைபெற்றது.
+A Memorandum of Understanding was signed on April 20th between Sri Lanka's ERLL Holdings and India's Petronet LNG to enhance the infrastructure for liquid natural gas (LNG) storage and distribution to the Karavalapitiya "Sobadhanavi" Integrated Co-generation Power Plant. This initiative aims to ensure a continuous and affordable electricity supply in Sri Lanka, reduce greenhouse gas emissions, and support the country's environmental goals. The project involves importing LNG to the Colombo Port and transporting it via ISO containers to the Karavalapitiya storage terminal. The first phase of the Sobadhanavi plant is scheduled to commence operations in August 2024, with the second phase starting in 2025.
 
-இலங்கை எல்ரீஎல் ஹோல்டிங்ஸ் நிறுவனத்தின் பிரதம நிறைவேற்று அதிகாரி நுஹுமான் மரிக்கார் மற்றும் இந்தியாவின் பெட்ரோநெட் எல்என்ஐி நிறுவனத்தின் பிரதம நிறைவேற்று அதிகாரியும் முகாமைத்துவப் பணிப்பாளருமான அக்ஷய் குமார் சிங் ஆகியோர் ஒப்பந்தத்தில் கைச்சாத்திட்டனர்.
+🟩
 
-இந்நிகழ்வில் கலந்து கொண்டு உரையாற்றிய மின்சக்தி மற்றும் எரிசக்தி அமைச்சர்  காஞ்சன விஜேசேகர, இலங்கையின் நுகர்வோர்களுக்கு தொடர்ச்சியான மற்றும் தரமான மின்சார விநியோகத்தை உறுதிசெய்து குறைந்த செலவில் மின்சாரத்தை வழங்கும் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் நோக்கத்திற்கமையவே  இத்திட்டம் செயற்படுத்தப்படுவதாக  தெரிவித்தார்.
+The Memorandum of Understanding (Memorandum of Understanding) on ​​Tuesday (20) at the Colombo Hotel on Tuesday (20) afternoons to improve the infrastructure for liquid natural gas storage to the Karavalapitiya "Sobadhanavi" Integrated Cotational Power Plant and the LNG gas exchange and distribution of Sri Lanka LDL Holdings Company and Petronet LNG Company on Tuesday (20)Held.
+
+Nuhuman Marikar, Chief Executive Officer of Sri Lanka's ERLL Holdings and Akshay Kumar Singh, Chief Executive Officer and Managing Director of India's Petronet LNI, signed the agreement.
+
+Addressing the gathering, Minister of Power and Energy Kanjana Wijesekera said that the scheme is being implemented at the aim of ensuring continuous and quality electricity supply to Sri Lankan consumers and supplying electricity at low cost.
 
 ...
 
 [Data](articles/2144a29b.json)
 
+[Extended Data](ext_articles/2144a29b.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தல் ரணில் விக்ரமசிங்கவின் அரசியலின் இறுதிப்பயணம் - விஜயதாச ராஜபக்ஷ
+### President's Election Ranil Wickremesinghe's Politics
 
 *2024-08-21 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191576) · `ta`
 
-இடம்பெற இருக்கும் ஜனாதிபதி தேர்தலுடன் ரணில் விக்ரமசிங்கவின் அரசியல் பயணத்தின் இறுதிப்பயணமாகும். கட்சியை பாதுகாத்துக்கொள்ள முடியாமல் போன அவர் எவ்வாறு நாட்டை பாதுகாக்கப்போகிறார் என கேட்கிறோம் என தேசிய ஜனநாயக முன்னணியின் ஜனாதிபதி வேட்பாளர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+Ranil Wickremesinghe faces criticism ahead of Sri Lanka's presidential election, with questions about his ability to lead both the United National Party (UNP) and the nation. Critics like Vijayadasa Rajapakse doubt his effectiveness in protecting the party and question his suitability for national leadership. Despite internal challenges and allegations of party disarray, Wickremesinghe remains a significant figure in Sri Lankan politics, known for his controversial decisions and alliances.
 
-கொழும்பில் அமைந்துள்ள அவரது தேர்தல் காரியாலயத்தில் செவ்வாய்க்கிழமை (20) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் இருந்து யானையை நீக்கியமைக்காக ரணில் விக்ரமசிகவுக்கு டி,எஸ். சேகாநாயக்க எங்கிருந்தாவது சாபமிடுவார் என்றே நான் நினைக்கிறேன்.
+Ranil Wickremesinghe's political journey is the end of the upcoming presidential election. "We are not able to protect the party and ask how he is going to protect the country," said Vijayadasa Rajapakse, presidential candidate of the National Democratic Front.
 
-ரணில் விக்ரமசிங்கவின் 30 வருடகால தலைமைத்துவத்தின் கீழ் 106 பாராளுமன்ற உறுப்பினர்கள் இருந்த ஐக்கிய தேசிய கட்சி 2020 பொதுத் தேர்தலுடன் காணாமல் போகும் என நான் 2018ல் தெரிவித்திருந்தேன். அவரின் தலைமையில் அவருக்கு கட்சியை பாதுகாத்துக்கொள்ள முடியாமல் போயிருக்கிறது.
+He was speaking at a press conference held at his election office in Colombo on Tuesday (20).
+
+D, S, to Ranil Vikramasika for the removal of the elephant from the UNP headquarters. I think Sekanayake will curse anywhere.
+
+In 2018, I said that under the 30 -year leadership of Ranil Wickremesinghe, the United National Party (UNP), with 106 MPs, will disappear with the 2020 general election.. He is unable to protect the party under his leadership.
+
+Ranil Wickremesinghe, who is unable to protect the party, is going to protect the country?Ranil Wickremesinghe has no party today to contest the election. It is alleged that a different group of election symbol, the gas cylinder, is contesting.
 
 ...
 
 [Data](articles/853bdb55.json)
 
+[Extended Data](ext_articles/853bdb55.ext.json)
+
 ---
 
-### கண்டி எசல பெரஹெரா நிறைவுற்றதாக அறிவிக்கும் பிரகடனம் ஜனாதிபதியிடம் கையளிப்பு
+### Declaration to announce that Esa Perahera is completed by Kandy
 
 *2024-08-21 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191577) · `ta`
 
-வரலாற்று சிறப்பு மிக்க கண்டி தலதா மாளியை எசல பெரஹெரா சிறப்பாக நிறைவுள்ளதாக அறிவிக்கும் பிரகடனம் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் தலாதா மாளிகையின் தியவடன நிலமே பிரதீப் நிலங்க தேலவினால் செவ்வாய்க்கிழமை (20) ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கையளிக்கப்பட்டது.
+Esa Perahera, a significant cultural event in Kandy, was recently completed. President Ranil Wickremesinghe, after receiving the procession at the Dalada House, announced his commitment to promoting the event globally as a unique cultural aspect of Sri Lanka. He praised the organizers and outlined plans to transform Kandy into a cultural hub, including developing the Bellhoot Cultural Center and preserving historical sites like the Bogambara building. The President also mentioned initiatives to enhance tourism and religious activities across several cities, emphasizing the importance of showcasing Sri Lanka's rich culture to the world.
 
-ஊர்வலாமாக ஜனாதிபதி மாளிகைக்கு வருகை தந்த தலதா மாளிகை மற்றும் அண்மைய விகாரைகளின் தியவடன நிலமேக்களை ஜனாதிபதி வரவேற்றார்.
+🟩
 
-அதேநேரம் இதுவரையில் தலதா மாளிகைக்கு வழங்கப்பட்ட நிதி நன்கொடையாக  மில்லியன் ரூபாய் ஜனாதிபதியால் வழங்கி வைக்கப்பட்டது.
+President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe to President Ranil Wickremesinghe on Tuesday (20) by the Dalada House.
 
-அதன் தொடர்ச்சியாக மத்திய மாகாண சபையினால் வௌியிடப்பட்ட சிறப்பு சஞ்சிகையும் ஜனாதிபதிக்கு வழங்கி வைக்கப்பட்டது.
+The President welcomed the Dalada House and the recent statues of the President's House in the procession.
 
-அதேபோல் எஹெலேபொல வலவு பகுதியை மாளிகைக்கு சாற்றுவதற்கான கொடுப்பனவு பத்திரமும் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் தியவடன நிலமேயிடம் வழங்கி வைக்கப்பட்டது.
+At the same time, the fund was donated by the president as a donation donated to the Dalada House so far.
 
-பின்னர் கண்டி தலதா மாளிகையின் வரலாற்று சிறப்புமிக்க பெரஹெராவை அடையாளப்படுத்தும் வகையில் மி.மீ நீளத்தில் வெளியிடப்பட்ட முத்திரை சிரேஷ்ட பிரதி தபால்மா அதிபர் கே.ரணசிங்கவினால் வழங்கி வைக்கப்பட்டது.
+Subsequently, the President was also presented with a special magazine filed by the Central Provincial Council.
+
+Similarly, President Ranil Wickremesinghe was also given the Diyawadana Nilamee to the Elepola Walawa area.
+
+Later, the seal, which was later released by the Mmm -long stamp, was presented by the Postmaster Postmaster K. Ranasinghe to symbolize the historic Perera of the Kandy Dalada House.
+
+In addition, the stamp, the monument, the postage, which is based on the culture of the Dalada House, also featured the museum of the mansion.
 
 ...
 
 [Data](articles/0186e591.json)
 
+[Extended Data](ext_articles/0186e591.ext.json)
+
 ---
 
-### கொக்குத்தொடுவாய் பகுதியில் மேலும் பல இடங்களில் புதை குழிகள் - துரைராசா ரவிகரன்
+### Fossil Pits - Durairasa Ravikaran
 
 *2024-08-21 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191575) · `ta`
 
-கொக்குத்தொடுவாய் பகுதியில் பல இடங்களில் புதை குழிகள் இருக்கிறது என முன்னாள் வடமாகாண சபை உறுப்பினர் துரைராசா ரவிகரன் தெரிவித்தார்.
+Durairasa Ravikaran, a former council member, highlighted the presence of fossils in Kokkuttoduwai and criticized the lack of action on human burials, urging international oversight. He mentioned the initial court case, the request for archaeological faculty involvement, and the government's failure to provide fair reports. The displaced communities' hopes for justice and the need for international intervention were emphasized, alongside concerns over deception and the importance of legitimate judgments.
 
-முல்லைத்தீவு வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவுகளின் சங்கத்தினரால் இன்றையதினம் (20.08.2024) கொக்குத்தொடுவாய் மனித புதைகுழி முன்பாக கொக்குதொடுவாய் மனித புதைகுழி விடயத்தை மூடி மறைக்க வேண்டாம், எமக்கு உண்மையும் நீதியும் வேண்டும் என கூறி போராட்டம் முன்னெடுக்கப்பட்டிருந்து.
+🟩
 
-குறித்த போராட்டத்தில் கலந்து கொண்ட பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையிலே இவ்வாறு தெரிவித்தார்.
+Former Northern Provincial Council member Durairasa Ravikaran said that there are fossils in many places in the Kokkuttoduwai area.
 
-கொக்குத்தொடுவாய் மனித புதைகுழி விடயமானது ஆரம்பத்திலே நீதிமன்றத்தில் கலந்துரையாடல்கள் இடம்பெற்ற போது பலராலும் வைக்கப்பட்ட கோரிக்கை சர்வதேச பொறிமுறையோடு சர்வதேசத்தினுடைய கண்காணிப்பே வேண்டும்.
+The struggle has been carried out by the association of the missing persons of Mullaitivu today (20.08.2024), saying that we should not cover up the human burial issue in front of the human burial.
+
+He was speaking to the media after participating in the protest.
+
+When the Kokkuttuwai human burial issue was initially held in court, the demand made by many people should be monitored by the international mechanism.
+
+Students or professors from the Jaffna University Archaeological Faculty should be visited under this watch. Those requests were placed before. Yet these are not implemented. Two, three days Paramu Pushparadnam sir came to them. But he did not come later
+
+In the view of the Sri Lankan government, the Sri Lankan government has not received any fair and honest reports.
 
 ...
 
 [Data](articles/be9a1097.json)
+
+[Extended Data](ext_articles/be9a1097.ext.json)
 
 ---
 
@@ -2263,31 +2321,5 @@ Postal voting applications had been received 736,589. 24,268 of that refused app
 [Data](articles/5795b5d9.json)
 
 [Extended Data](ext_articles/5795b5d9.ext.json)
-
----
-
-### Bodies of 6 hostages meet
-
-*2024-08-20 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200134) · `si`
-
-Israeli forces discovered the remains of six hostages near Khan Unison, Gaza, who were among 109 taken by Hamas militants during an attack on October 7, 2023. Relatives urge the government to act swiftly to secure their release.
-
-🟩
-
-The Israeli defense army has found the bodies of 6 Israeli hounkers from Gaza.
-
-The bodies of the six were found yesterday (19) at Khan Unison, Gaza.
-
-International media reports that 109 Israeli hostages are responsible for Hamas fighters.
-
-They were abducted during the attack on Hamas militants on October 7, 2023.
-
-The relatives' relatives say the Israeli government should work to save them.
-
-◼️
-
-[Data](articles/c6ce0345.json)
-
-[Extended Data](ext_articles/c6ce0345.ext.json)
 
 ---

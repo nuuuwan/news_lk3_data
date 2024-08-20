@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 06:25:15**
+As of **2024-08-20 07:03:03**
 
 ## Newspaper Stats
 
-*Scraped **41,570** Articles*
+*Scraped **41,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,129 @@ dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 383
 colombotelegraphcom | 399
-islandlk | 2,402
+islandlk | 2,416
 economynextcom | 2,507
 dailyftlk | 2,687
 adalk | 3,824
 dailymirrorlk | 4,733
 adaderanalk | 4,865
-tamilmirrorlk | 5,369
-virakesarilk | 6,594
+tamilmirrorlk | 5,370
+virakesarilk | 6,601
 adaderanasinhalalk | 7,091
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,570 (100.0%) of 41,570 articles have been extended.
+41,570 (99.9%) of 41,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### அரசாங்கத்தின் திட்டத்தை இடைநடுவில் கைவிட்டால் நாட்டின் பொருளாதாரம் மீண்டும் வீழ்ச்சியடையும் - ஜனாதிபதி
+
+*2024-08-20 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191487) · `ta`
+
+எவராலும் தீர்க்க முடியாமல் போன பொருளாதார நெருக்கடியை தன்னால் தீர்க்க முடிந்திருந்தாலும், சரியான பொருளாதார மாற்றத்தை ஏற்படுத்தாமல், இந்த வேலைத்திட்டத்தை இடைநடுவில் கைவிட்டால், நாட்டின் பொருளாதாரம் மீண்டும் வீழ்ச்சியடையும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+
+எனவே ஜனாதிபதித் தேர்தலில் மக்கள் தமது எதிர்காலம் குறித்து சிந்தித்து முடிவெடுக்க வேண்டும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+Ask Ranil நிகழ்ச்சியில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் சமூக வலைத்தளங்கள் ஊடாக கேட்கப்பட்ட கேள்விகளுக்கு பதிலளிக்கும் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+கடந்த 75 வருட கால ஆட்சியாளர்கள் நாட்டின் அபிவிருத்திக்காக எதனையும் செய்யவில்லை என சில தரப்பினர் குற்றம் சுமத்திய போதிலும் அது உண்மை இல்லையென சுட்டிக்காட்டிய ஜனாதிபதி, தேசிய பொருளாதாரம் தொடர்பில் பேசி மக்கள் விடுதலை முன்னணி போன்ற கட்சிகள் உருவாக்கிய நிலைப்பாடே நாட்டின் விரைவான பொருளாதார அபிவிருத்திக்கு தடையாக அமைந்ததெனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/c930e30b.json)
+
+---
+
+### பிரேமலதா விஜயகாந்தை வீட்டுக்குச் சென்று சந்தித்த நடிகர் விஜய்
+
+*2024-08-20 03:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191486) · `ta`
+
+சென்னை விருகம்பாக்கத்தில் உள்ள மறைந்த நடிகரும், தேமுதிக தலைவருமான விஜயகாந்த் வீட்டுக்கு நடிகர் விஜய் சென்று, பிரேமலதா விஜயகாந்தை சந்தித்தார்.
+
+அப்போது, ‘THE GOAT’ படத்தில் விஜயகாந்தை AI தொழில்நுட்பம் மூலம் பயன்படுத்த அனுமதி கொடுத்ததற்காக, பிரேமலதா விஜயகாந்துக்கு நன்றி தெரிவித்தார் விஜய்.
+
+இந்த சந்திப்பின்போது, ‘THE GOAT’ படத்தின் இயக்குநர் வெங்கட் பிரபு, தயாரிப்பாளர் அர்ச்சனா கல்பாத்தி ஆகியோர் உடனிருந்தனர்.
+
+◼️
+
+[Data](articles/245a9088.json)
+
+---
+
+### வரலாற்றுச் சிறப்புமிக்க தலதா பெரஹராவை பார்வையிட்ட ஜனாதிபதி
+
+*2024-08-20 03:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191485) · `ta`
+
+கண்டி வரலாற்றுச் சிறப்புமிக்க தலதா மாளிகையின் வருடாந்த எசல பெரஹராவின் இறுதி ரந்தோலி பெரஹரா திங்கட்கிழமை (19) இரவு நடைபெற்றதுடன் ஜனாதிபதி ரணில் விக்ரமசிங்கவும் ஆயிரக்கணக்கான மக்களுடன் இணைந்து பெரஹராவைக் கண்டுகளித்தார்.
+
+பேராசிரியர் மைத்ரி விக்ரமசிங்க மற்றும்  தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க, அமைச்சர் பந்துல குணவர்தன, இராஜாங்க அமைச்சர்களான அனுராத ஜயரத்ன, திலும் அமுனுகம, லொஹான் ரத்வத்தே, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோர் உள்ளிட்ட பலர் இந்நிகழ்வில் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/1dcbd91b.json)
+
+---
+
+### சொகுசு படகு கவிழ்ந்து விபத்து: ஒருவர் உயிரிழப்பு;  6 பேர் காணாவில்லை
+
+*2024-08-20 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191484) · `ta`
+
+இத்தாலியில், சிசிலி தீவுகளுக்கு அருகே சொகுசு படகு ஒன்று கடலில் கவிழ்ந்து விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் 6 பேரை காணவில்லை.
+
+பிரித்தானியக் கொடியுடன் பயணித்த 56 மீற்றர் நீளமான கப்பலில் 22 பயணிகள் மற்றும் பணியாளர்கள் இருந்ததாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+அப்பகுதியில் நிலவும் மோசமான வானிலை காரணமாக ஏற்பட்ட சூறாவளியே இந்த விபத்திற்கு காரணம் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+மேலும், பிரித்தானிய, அமெரிக்க மற்றும் கனேடிய பிரஜைகள் அடங்கிய குழுவொன்று சொகுசு படகில் பயணித்துள்ளதுடன், விபத்தில் உயிரிழந்த நபரின் அடையாளம் இதுவரை உறுதிப்படுத்தப்படவில்லை.
+
+காணாமல் போன 06 பேரை தேடும் பணியை கரையோர பாதுகாப்பு அதிகாரிகள் ஆரம்பித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c394952a.json)
+
+---
+
+### நுரெலியாவில் அடையாளம் தெரியாத பெண்ணின் சடலம் மீட்பு
+
+*2024-08-20 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191483) · `ta`
+
+நுவரெலியாவில் அடையாளம் தெரியாமல் காணப்பட்ட பெண் ஒருவரின் சடலத்தினை பொலிஸார் வைத்தியசாலையில் ஒப்படைத்துள்ளனர்.
+
+குறித்த சடலம் திங்கட்கிழமை மாலை (19) நுவரெலியா கிரகரி வாவிக்கு அருகாமையில் உள்ள வீதியோரத்தில் விழுந்து கிடந்ததை அவதானித்த பொதுமக்கள் பொலிஸாருக்கு தெரியப்படுத்தியதையடுத்து சம்பவ இடத்திற்கு சென்ற பொலிஸார் 1990 அவசர நோயாளர் காவு வண்டி சேவைக்கு தெரிவித்ததையடுத்து சம்பவ இடத்திற்கு வருகை தந்த மருத்துவ உதவி அதிகாரிகள் குறித்த பெண் உயிரிழந்துள்ளதை உறுதிப்படுத்தியுள்ளனர்.
+
+இவ்வாறு வீதியோரத்தில் கிடக்கும் பெண்ணின் சடலம் இதுவரை அடையாளம் காணப்படவில்லை எனவும் நீதிமன்ற அனுமதியை பெற்று சடலத்தை பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் ஒப்படைக்க நடவடிக்கை எடுத்துவருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/4744fa20.json)
+
+---
+
+### சஜித் ஏன் பிரதமர் பதவியை ஏற்கவில்லை; தயாசிறி ஜயசேகர ஜனாதிபதிக்கு பதில்
+
+*2024-08-20 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191482) · `ta`
+
+சஜித் பிரேமதாசவின் நிபந்தனைகளை கோத்தாபய ராஜபக்ஷ் ஏற்றுக்கொள்ள மறுத்ததாலே பிரதமர் பதவியை சஜித் பிரேமதாச மறுத்துவிட்டார். ஆனால் ரணில் விக்ரமசிங்க நிபந்தனை இல்லாமல் ஏற்றுக்கொண்டுள்ளதால் இன்று திருடர்களுடன் இணைந்துசெயற்பட வேண்டிய நிலை ஏற்பட்டுள்ளது.
+
+இலங்கைக்கு முடியும் ஆனால் ரணிலுக்கு முடியாது என்பதை அவர் உறுதிப்படுத்தி இருக்கிறார் என பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+
+மாவனெல்லை பிரதேசத்தில் திங்கட்கிழமை (19) இடம்பெற்ற தேர்தல் பிரசாரக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க அநுராதபுரத்தில் இடம்பெற்ற தேர்தல் பிரசார கூட்டத்தில், பிரதமர் பதவியை ஏற்றுக்கொள்ளாமல் சஜித் பிரேமதாச ஏன் தப்பிச்சென்றார் என்ற கேள்விக்கு பதிலளிக்க வேண்டும் என கேட்டுக்கொண்டார்.
+
+மக்கள் போராட்டம் காரணமாக நாட்டின் பிரதமராக இருந்த மஹிந்த ராஜபக்ஷ் பதவி விலகினார். அதனால் பிரதமர் பதவியை ஏற்றுக்கொள்ளுமாறு சஜித் பிரேமதாசவுக்கு அழைப்பு விடுத்தபோது, சஜித் பிரேமதாச 2022,5,12ஆம் திகதி கோத்தாபய ராஜபக்ஷ்வுக்கு அது தொடர்பில் கடிதம் ஒன்றை எழுதியிருந்தார்.
+
+...
+
+[Data](articles/4fd9f321.json)
+
+---
 
 ### AKD denies NPP was invited to lead Govt. during 2022 political crisis
 
@@ -163,6 +267,22 @@ Good Life X recently concluded the intensive residency program of the Creative C
 [Data](articles/ee66bc55.json)
 
 [Extended Data](ext_articles/ee66bc55.ext.json)
+
+---
+
+### கொக்குத்தொடுவாயில் இன்று போராட்டம்
+
+*2024-08-20 02:09:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குத்தொடுவாயில்-இன்று-போராட்டம்/175-342484) · `ta`
+
+முல்லைத்தீவு, கொக்குத்தொடுவாய் மனிதப் புதைகுழிக்கு முன்பாக இன்று செவ்வாய்க்கிழமை கவனயீர்ப்புப் போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+
+முல்லைத்தீவு மாவட்ட காணாமல் ஆக்கப்பட்டோரின் உறவுகளின் சங்கத் தலைவி மரியசுரேஸ் ஈஸ்வரி இந்தத் தகவலைத் தெரிவித்துள்ளார்.
+
+கொக்குத்தொடுவாய் உள்ளிட்ட மனிதப் புதைகுழிகளுக்கு உரிய நீதி கோரி காணாமல் ஆக்கப்பட்ட உறவுகள் சங்கத்தின் ஏற்பாட்டில் இந்தப் போராட்டம் முன்னெடுக்கப்படவுள்ளது. (a)
+
+◼️
+
+[Data](articles/33d63f6b.json)
 
 ---
 
@@ -409,6 +529,24 @@ Elections Commission officials have said that strict action will be taken agains
 ---
 
 ### 2024-08-19 (Monday)
+
+### செப்டம்பர் 21ஆம் திகதிக்கு பின்னர் மீண்டும் நாட்டை அபிவிருத்தி செய்யும் யுகத்தை ஏற்படுத்துவோம் - சுஜீவ சேனசிங்க
+
+*2024-08-19 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191481) · `ta`
+
+ராஜபக்ஷ்வினருடன் இணைந்து ரணில் விக்ரமசிங்க ஐக்கிய தேசிய கட்சியையும் ஆதரவாளர்களையும் அழித்துவந்தார். அதனை பொறுத்துக்கொள்ள முடியாமலே சஜித் பிரேமதாச தலைமையில் ஐக்கிய மக்கள் சக்தியை உருவாக்கி கடந்த பொதுத் தேர்தலில் ரணில் விக்ரமசிங்கவை பூச்சியத்துக்கு இறக்கினோம்.
+
+செப்டம்பர் 21ஆம் திகதிக்கு பின்னர், மீண்டும் நாட்டை அபிவிருத்தி செய்த லலித், காமினி, ரணசிங்க பிரேமதாச யுகத்தை உருவாக்குவோம் என ஐக்கிய மக்கள் சக்தியின் உப தலைவர் சுஜீவ சேனசிங்க தெரிவித்தார்.
+
+மாவனெல்லை பிரதேசத்தில் திங்கட்கிழமை (19) இடம்பெற்ற தேர்தல் பிரசாரக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+ரணில் விக்ரமசிங்க 30 வருடங்களாக கட்சியின் தலைமை பதவியில் இருந்துகொண்டு, கட்சியில் இருந்த திறமையான, ஆளுமைமிக்கவர்களுக்கு சந்தர்ப்பம் வழங்காமல் ராஜபக்ஷ்வினருடன் டீல் போட்டுக்கொண்டு கட்சியை அழித்துக்கொண்டு எங்களையும் மிதித்துக்கொண்டிருந்தார்.
+
+...
+
+[Data](articles/ab2b87e6.json)
+
+---
 
 ### Opportunity for heavy rains - Department of Meteorology
 
@@ -822,6 +960,94 @@ The Beruwala Youth Conference held at Aluthgama yesterday (18) at the Aluthgama 
 
 ---
 
+### LAUGFS Holdings wins Gold Award at SLITAD People Development Awards
+
+*2024-08-19 19:15:00* · [`islandlk`](http://island.lk/laugfs-holdings-wins-gold-award-at-slitad-people-development-awards/) · `en`
+
+LAUGFS Holdings has been recognized with a prestigious Gold Award at the SLITAD People Development Awards 2023/24, held recently. This accolade reflects the company’s unwavering commitment to advancing human resource development (HRD) and its dedication to fostering an environment that promotes continuous learning and development. LAUGFS Holdings prioritizes enhancing the skills and competencies of its employees, believing that workforce development is integral to organizational excellence and national development. Accordingly, this recognition by SLITAD reinforces the company’s position as a leader in people development, setting a benchmark for other organizations to follow.
+
+...
+
+[Data](articles/127f35c5.json)
+
+---
+
+### Pelwatte Dairy launches landmark initiative with international support
+
+*2024-08-19 19:15:00* · [`islandlk`](http://island.lk/pelwatte-dairy-launches-landmark-initiative-with-international-support/) · `en`
+
+Pelwatte Dairy Industries Limited, a leading dairy manufacturer in Sri Lanka, has launched an innovative project titled “Inclusion of Women in the Formal Dairy Supply Chain for Economic Empowerment of Women Farmers.” This initiative, which commenced in October 2022, aims to empower women farmers, enhance the local dairy industry’s capabilities, and promote sustainable agricultural practices. The project is supported by Solidaridad Asia Network and funded by the Canadian Government, demonstrating a robust international partnership committed to socio-economic development.
+
+...
+
+[Data](articles/c45b44b1.json)
+
+---
+
+### ‘Pharmaceutical sector of Sri Lanka has increasing potential to penetrate Vietnamese market’
+
+*2024-08-19 19:14:00* · [`islandlk`](http://island.lk/pharmaceutical-sector-of-sri-lanka-has-increasing-potential-to-penetrate-vietnamese-market/) · `en`
+
+The embassy of Sri Lanka in collaboration with Export Development Board (EDB) organized a webinar on “Sri Lankan Pharmaceutical Industry” for Vietnamese pharmaceutical companies a couple of days before the Medipharm Expo 2024 in Ho Chi Minh (HCM) city. This was organized in order to raise the awareness as well as stress the potential of the Sri Lankan pharma sector to leading importers and manufacturers of pharma in Viet Nam. The webinar was attended by over 100 pharma companies in Viet Nam, the Drug Authority of Viet Nam and the Viet Nam Pharmaceutical Association, along with Sri Lankan pharma companies which are participating in the aforementioned Medipharma Expo 2024.
+
+...
+
+[Data](articles/5dad7305.json)
+
+---
+
+### NDB’s ‘Pancha Mama’ sparks financial savvy in young minds
+
+*2024-08-19 19:14:00* · [`islandlk`](http://island.lk/ndbs-pancha-mama-sparks-financial-savvy-in-young-minds/) · `en`
+
+NDB Bank recently conducted a series of workshops featuring NDB’s Pancha Mama, which aimed at fostering financial literacy and sustainable living habits among children. Held during June and July, these workshops reached schools, preschools, and other educational institutions in locations including Wattala, Minuwangoda, Ja-Ela, and Nittambuwa.
+
+The workshops blended educational content with engaging activities to emphasise the importance of saving. Beyond financial savings, the sessions highlighted sustainable practices like conserving water and electricity and minimising waste. This holistic approach aims to instill lifelong habits of mindful resource management in young participants.
+
+In addition to the children, the workshops also welcomed parents and teachers, with each session attracting about 200–250 participants. The interactive format, including fun games, made the sessions an enjoyable learning experience for all involved.
+
+...
+
+[Data](articles/ddd163fe.json)
+
+---
+
+### Union Bank partners National Entrepreneurship Development Programme with the University of Moratuwa
+
+*2024-08-19 19:13:00* · [`islandlk`](http://island.lk/union-bank-partners-national-entrepreneurship-development-programme-with-the-university-of-moratuwa/) · `en`
+
+Union Bank (UB) proudly announced a new Memorandum of Understanding (MOU) with the University of Moratuwa (UoM) and the National Innovation Agency to support the National Entrepreneurship Development Programme (NEDP), aimed at empowering SMEs and youth aspiring to become entrepreneurs across Sri Lanka. The MoU was signed in the presence of Nirvana Chaudhary, Chairman of Union Bank, Dilshan Rodrigo Director/CEO of Union Bank and Senior Prof. N D Gunawardena, Vice Chancellor of the University of Moratuwa.
+
+This initiative aligns with Union Bank School of Social Entrepreneurship (UBSSE)’s vision to develop, support, and promote social entrepreneurs while providing essential access to finance. This strategic partnership draws inspiration from the NabilSSE initiative, a renowned entrepreneurship development program spearheaded by Nabil Bank, Nepal’s largest private commercial bank of the CG Corp Global Group, the major shareholder of Union Bank.
+
+...
+
+[Data](articles/61f8578b.json)
+
+---
+
+### ‘ApiDenna’ with Gypsies Piyal and Shenal
+
+*2024-08-19 19:11:00* · [`islandlk`](http://island.lk/apidenna-with-gypsies-piyal-and-shenal/) · `en`
+
+Music lovers, who are familiar with the lyrics of the Gypsies hit song ‘Lunu Dehi’ will, obviously, remember the opening words “Api denna ek weela…” with the late Sunil Perera doing the needful.
+
+Well, what Sunil said in song, decades ago, has now become a reality, with his brother Piyal Perera, and the Gypsies new find, Shenal Nishshanka, operating as ‘ApiDenna,’ under the management of Ravi De Silva, who is now handling quite a few known showbiz artistes…and sports personalities, as well.
+
+Piyal was quick to add that both he and Shenal haven’t quit the Gypsies.
+
+“The Gypsies have been around for 55 years and I’m their leader. I joined the band when I was just 15 years old.”
+
+According to Piyal, ‘ApiDenna’ is a new venture which he and Shenal decided to try out, with the guidance of Ravi De Silva.
+
+“It has turned out to be a huge success and we seem to be in great demand…at various events,” said Piyal.
+
+...
+
+[Data](articles/09038d7a.json)
+
+---
+
 ### The Peak (Sri Pada) Through The Lens Of Ecological & Cultural Pluralism
 
 *2024-08-19 19:06:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-peak-sri-pada-through-the-lens-of-ecological-cultural-pluralism/) · `en`
@@ -910,6 +1136,56 @@ Anura Kumara Dissanayake, candidate of the national promos
 
 ---
 
+### More chart success for Andrea
+
+*2024-08-19 18:52:00* · [`islandlk`](http://island.lk/more-chart-success-for-andrea/) · `en`
+
+Andrea Marr’s new album ‘The Quasar Sessions’ has hit number one on the Australian Blues and Roots AirPlay charts. This is her third number one album in Australia and the second with the McNaMarr project.
+
+Says Andrea: “Our little Live album ‘The Quasar Sessions’ is Number 1 on the Australian Blues and Roots Airplay Charts. We are so grateful to all the radio presenters who played it, interviewed us and got behind this.
+
+“We want to say a huge THANK YOU to our wonderful band: Shane Gilbert, Andrew Fry, Dave Clark, Dan West and our two sax players Andrew Houston and Sean Vagg.
+
+“Also, a huge thank you to Sam Valentino at Quasar Studios, Markia at FiveOne Entertainment, and Jason Porter for the cover art.
+
+Please grab a copy from www.andreamarr.com or a digital copy from https://themcnamarrproject.bandcamp.com/
+
+Andrea, from Sri Lanka, is a singer/songwriter and vocal coach now based in Melbourne, Australia.
+
+...
+
+[Data](articles/43751497.json)
+
+---
+
+### First Capital Holdings delivers profitable start to FY24/25
+
+*2024-08-19 18:49:00* · [`islandlk`](http://island.lk/first-capital-holdings-delivers-profitable-start-to-fy24-25/) · `en`
+
+First Capital Holdings PLC (the Group) reported a Profit After Tax of Rs. 582 million for the quarter ended 30 June 2024, compared to Rs. 2.8 billion in the same period last year. This performance marks a significant achievement reflecting the Group’s strategic agility amidst the uncertain and challenging political and macroeconomic environment characterized by high volatility in interest rates.
+
+The Primary Dealer division achieved a Profit After Tax of Rs. 464 million for the quarter. The division’s results include a trading gain on government securities of Rs. 1.19 billion and net interest income of Rs. 387 million. In the same period last year, the division reported a Profit After Tax of Rs. 2.73 billion, which included a trading gain of Rs. 2.1 billion and net interest income of Rs. 1.1 billion.
+
+...
+
+[Data](articles/3a423a8c.json)
+
+---
+
+### Swisstek Ceylon & Chamari Athapaththu to set high standards in construction industry
+
+*2024-08-19 18:47:00* · [`islandlk`](http://island.lk/swisstek-ceylon-chamari-athapaththu-to-set-high-standards-in-construction-industry/) · `en`
+
+Swisstek Ceylon PLC, a pioneering force in Sri Lanka’s construction industry with a history of over 50 years, is proud to announce an exciting partnership with Chamari Athapaththu, the inspirational Captain of the Sri Lanka Women’s National Cricket Team, and a leading women’s cricketer in the world. The company is a market leader in tile adhesive and grout and was the first brand in its market category to receive SLS certification, which underscores the company’s commitment to maintaining high standards of quality.
+
+The company is taking a bold step with this initiative by using a female influencer in a male-centred industry to champion Sri Lanka’s recovering construction sector and empower both men and women to actively be involved in construction and renovation decision making, as it is crucial for long-term quality and durability of living spaces.
+
+...
+
+[Data](articles/6f9994f3.json)
+
+---
+
 ### Sri Lanka’s PMI for July expands on new orders and production
 
 *2024-08-19 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101356/sri-lankas-pmi-for-july-expands-on-new-orders-and-production) · `en`
@@ -951,6 +1227,18 @@ A bizarre incentive given for SDB Projects is to make salaries of top executives
 [Data](articles/ee75eb2b.json)
 
 [Extended Data](ext_articles/ee75eb2b.ext.json)
+
+---
+
+### Why Sajith?
+
+*2024-08-19 18:36:00* · [`islandlk`](http://island.lk/why-sajith/) · `en`
+
+I’ve been moved to put pen to paper for public consumption. Those who have followed my previous contributions may recall that I was a regular guest columnist and frequently appeared on your screens in the
+
+...
+
+[Data](articles/38a3206f.json)
 
 ---
 
@@ -1865,437 +2153,5 @@ Ven. Ambagaswewa Rahula Thero was receiving treatment at a private hospital in C
 [Data](articles/7e458579.json)
 
 [Extended Data](ext_articles/7e458579.ext.json)
-
----
-
-### Ven. Ambagaswewa Rahula Thero
-
-*2024-08-19 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200096) · `si`
-
-Ven. Ambagaswewa Rahula Thero, born on July 13, 1961, in Dambulla, is a prominent figure in Sri Lanka's religious and cultural sectors. He serves as the Governor of several prestigious Buddhist institutions and temples, including the Asgaru Maha Pirivena and Siyamu Maha Pirivena. His contributions extend beyond his roles, impacting both the monastic community and broader society.
-
-🟩
-
-The Governor of the Asgaru Maha Pirivena, Siyam Maha Pirivena, Siyamu Keertha Pirivena, Siyamu Maha Pirivena, Siyamu Maha Senevi, Director of the Asgiriya Maha Nikiri, District Temple of Sri Vishnu Devalaya, Director of the Asgaswewa, District Temple of Sri Vishnu Devalaya has been in Colombo.
-
-The temple subscription scheme says the funeral will be informed on the following day.
-
-Born at the Dambulla District Hospital on July 13, 1961, he had joined the monarchy in the face of historical temple.
-
-It is noteworthy that he has not only for the dug tube but also to the entire society.
-
-Born was born in the Ambagaswewa village of the Palagala Divisional Secretariat in Anuradhapura District was taken to the custody of the historic Rangulu Vishman Devalaya in the historic Rangulau Viharaya.
-
-The Ambagaswewa Rahula Thera obtained orders on June 26, 1982.
-
-He is also the Chief Incumbent of the Sri Lankan Ven. Engaged.
-
-◼️
-
-[Data](articles/231c879b.json)
-
-[Extended Data](ext_articles/231c879b.ext.json)
-
----
-
-### A commitment to ‘our people’: Jeevan Thondaman on CWC’s decision to back President Ranil
-
-*2024-08-19 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101346/a-commitment-to-our-people-jeevan-thondaman-on-cwcs-decision-to-back-president-ranil) · `en`
-
-The General Secretary of the Ceylon Workers’ Congress (CWC), Minister Jeevan Thondaman says that the party’s decision to back incumbent President Ranil Wickremesinghe comes as the CWC acknowledges his commitment to uplifting and fully integrating the plantation ‘Malaiyaha’ Tamil community into the social-economic fabric of Sri Lanka.
-
-Posting on ‘X’ (formerly Twitter), the CWC General Secretary highlighted that never before have they seen a leader dedicate so much effort to improving the living conditions and status of plantation ‘Malaiyaha’ Tamil community, which he termed as ‘our people’.
-
-“This decision by the CWC therefore represents the faith that our party, union and our community has in the President and his ability to resolve the issues that matter to us the most”, Thondaman said.
-
-Meanwhile, the Minister added that a Memorandum of Understanding (MoU) between the CWC and President Wickremesinghe, setting out the CWC’s requests, is currently being prepared and will be signed shortly.
-
-...
-
-[Data](articles/41405dad.json)
-
-[Extended Data](ext_articles/41405dad.ext.json)
-
----
-
-### Philippine vessels collided in the sea
-
-*2024-08-19 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200095) · `si`
-
-A collision occurred between two Philippine and two Chinese vessels in the disputed South China Sea. China alleges the incident was intentional, claiming the area belongs to them. The region is contested by several nations, including Taiwan and the Philippines.
-
-🟩
-
-China has reached a vibrant with regional countries since the South Sea China Ocean region.
-
-The region is claimed by Taiwan, including several countries, including the Philippines.
-
-It is in such a situation that a news item reported that two Philippines and two Chinese coasting vessels clash today.
-
-China accuses the Philippine vessel intentional ship.
-
-They say that Philippine vessels entered the ocean region belonging to their belongings.
-
-◼️
-
-[Data](articles/f34665f7.json)
-
-[Extended Data](ext_articles/f34665f7.ext.json)
-
----
-
-### Gotabhaya did not invite us to take over the government
-
-*2024-08-19 13:32:44* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාභය-අපිට-ආණ්ඩුව-භාර-ගන්න-කියලා-ආරාධනා-කළේ-නෑ/11-411444) · `si`
-
-Mahinda Rajapaksa stated that Gotabhaya Rajapaksa was not asked to lead the government during a struggle, expressing no surprise at the situation.
-
-🟩
-
-President Mahinda Rajapaksa, MP Anura Kumara Dissanayake, said that the then President Gotabhaya Rajapaksa was not invited to accept the government at the time of the struggle.
-
-He was speaking at a media briefing held in Colombo today (19).
-
-Gotabhaya or Mahinda Rajapaksa did not invite the government to take the government. We will not be surprised. We're not invited. Do you think that the Rajapaksas put into a bowl and give us this. Does not give it.
-
-◼️
-
-[Data](articles/eaaa2a5f.json)
-
-[Extended Data](ext_articles/eaaa2a5f.ext.json)
-
----
-
-### The bullet was stuck in the star hotel
-
-*2024-08-19 13:19:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நட்சத்திர-ஹோட்டலில்-தோட்டா-சிக்கியது/175-342441) · `ta`
-
-A live bullet was discovered near the entrance of a five-star hotel in Colombo during cleaning. It was found close to where security officers stayed, leading to ongoing investigations.
-
-🟩
-
-Fort police said that a living bullet has been found near the entrance of a five -star hotel in Colombo.
-
-The bullet was caught while cleaning the wall of the wall near the entrance to the entrance of the hotel complex.
-
-Investigations have been found that the bullet was located on the spot where the security officers were staying at the hotel.
-
-◼️
-
-[Data](articles/0b7a6ea8.json)
-
-[Extended Data](ext_articles/0b7a6ea8.ext.json)
-
----
-
-### Man dies after collision with a lorry
-
-*2024-08-19 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200094) · `si`
-
-A man died in a collision with a lorry near the Railway Station, Kozgoda Police Division. The lorry, en route from Kosgoda to Colombo, overturned, killing one and seriously injuring another who has been hospitalized.
-
-🟩
-
-An accident had died in an accident near the Railway Station near the Railure Station near the Railure Station near the Railure Station near the Railway Station at the Kozgoda Police Division.
-
-A lorry that had been loaded from Kosgoda to Colombo to Colombo has collapse.
-
-One person was killed in the lorry in the accident.
-
-The injured person has been hospitalized and his condition is serious.
-
-◼️
-
-[Data](articles/5d42fba3.json)
-
-[Extended Data](ext_articles/5d42fba3.ext.json)
-
----
-
-### US war ship to the port
-
-*2024-08-19 13:15:58* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකා-යුද-නැවක්-කොළඹ-වරායට/10-411443) · `si`
-
-The US Navy's Arleigh Burke-class destroyer USS Spruance docked at Sri Lanka's Port of Colombo on August 19 for a visit. The ship, commanded by Thomas Adams, will stay until its supply and service needs are met before departing on August 20, 2024.
-
-🟩
-
-The US Navy, US Navy, arrived at the Port of Colombo today (August 19) for a visit to the UV Navy.
-
-Arleigh Burke - Clas Destroyer - CLASS SPRUANCE - CLASS SPRUANCE ARRIVALS '' US SPRUANCE 'is one hundred and sixty (338 meters), commenter Themas Adams as the Commanding Officer of the ship.
-
-Further, after the supplies and service requirements meet the supplies and service requirements, the ship is due to leave the island on the 20th of August 2024.
-
-◼️
-
-[Data](articles/0dcf17e9.json)
-
-[Extended Data](ext_articles/0dcf17e9.ext.json)
-
----
-
-### US war ship to the port
-
-*2024-08-19 13:15:58* · [`adalk`](https://www.ada.lk/uncategorized/ඇමෙරිකා-යුද-නැවක්-කොළඹ-වරායට/1-411443) · `si`
-
-The US Navy's Arleigh Burke-class destroyer USS Spruance docked at Sri Lanka's Port of Colombo on August 19 for a visit. The ship, commanded by Thomas Adams, will stay until its supply and service needs are met before departing on August 20, 2024.
-
-🟩
-
-The US Navy, US Navy, arrived at the Port of Colombo today (August 19) for a visit to the UV Navy.
-
-Arleigh Burke - Clas Destroyer - CLASS SPRUANCE - CLASS SPRUANCE ARRIVALS '' US SPRUANCE 'is one hundred and sixty (338 meters), commenter Themas Adams as the Commanding Officer of the ship.
-
-Further, after the supplies and service requirements meet the supplies and service requirements, the ship is due to leave the island on the 20th of August 2024.
-
-◼️
-
-[Data](articles/6a9d145b.json)
-
-[Extended Data](ext_articles/6a9d145b.ext.json)
-
----
-
-### One person killed
-
-*2024-08-19 13:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விறகு-லொறி-ரயிலுடன்-மோதியதில்-ஒருவர்-பலி/175-342438) · `ta`
-
-In a tragic accident at Kosgoda Iduruva railway crossing, a 55-year-old man was killed and another seriously injured when a lorry carrying firewood collided with a train traveling from Galle to Colombo on Monday afternoon.
-
-🟩
-
-Kosgoda police said that one of the two passengers were killed and the other had been admitted to the hospital in a hospital where a lorry carrying firewood was collided with a train.
-
-The incident took place on Monday afternoon (19) at the railway crossing of Koskoda Iduruva.
-
-A fifty -five -year -old man has died and the man who was seriously injured is from Iduruwa and Maha Idruwa, police said.
-
-A lorry carrying firewood from Koskoda has been hit by a train from Galle to Colombo, police said.
-
-◼️
-
-[Data](articles/3004cd84.json)
-
-[Extended Data](ext_articles/3004cd84.ext.json)
-
----
-
-### Special notice for Sri Lankans in Israel
-
-*2024-08-19 13:09:07* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-සිටින-ලාංකිකයන්ට-විශේෂ-දැනුම්-දීමක්/11-411442) · `si`
-
-Sri Lankan Ambassador in Israel, Mr. Nimal Bandara, urges Sri Lankans to prepare for emergencies, stock food, water, and medicines. He advises patience and seeks embassy support due to escalating tensions and potential threats from Israeli forces.
-
-🟩
-
-Sri Lankan Ambassador Sri Lankan Ambassador to Israeli Sri Lankan Sri Lankans to be taken to take appropriate action for Israel in the next few days, Mr. Nimal Bandara, Sri Lankan Ambassador, Sri Lankan Sri Lankan Sri Lankans to take appropriate measures to ensure that Israel is targeting Israel will take effect for Israel's deteriorationIn the issue of issuing.
-
-The Israeli Forces said that there were many shell rockets in the northern and southern regions of Israel over the past few days, he said.
-
-In the last 24 hours, the war harsh was ruling in the region with a reconciliation of the LTTE and constantly pay attention to their deposit and focus on this situation, and to focus on the protection of their deposit.Israeli Sri Lankan Ambassador Nimal Bandara has called for as to address the embassy for the necessary assistance in an emergency.
-
-...
-
-[Data](articles/fa7e7142.json)
-
-[Extended Data](ext_articles/fa7e7142.ext.json)
-
----
-
-### SUNSHINE TEA Private Limited
-
-*2024-08-19 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191420) · `ta`
-
-Sunshine Tea Private Limited, established in 1967 and rebranded in 1987, is a key player in Sri Lanka's tea industry, focusing on export. The company, employing over 300 staff, including 100 women, operates in both export and import sectors, generating annual sales exceeding $25 million. Its products, including ZESTA, Watawala, and Gordon Frazer teas, are exported to countries like Iran, Iraq, the US, Canada, Italy, Australia, and China. Sunshine Tea emphasizes quality, sustainability, and social responsibility, holding certifications like ISO 9001, FSSC 2000, and Fair Trade.
-
-🟩
-
-Sunshine Tea Private Limited is one of the most important companies in tea production and export in Sri Lanka.Tea exports are the main feature of the company in Kelaniya.
-
-Recently, a field tournament to the media about the company's activities and its workshop was recently organized.
-
-In the meantime, its Chief Executive Officer Sanjeeva Saranabala explained the company's functions.
-
-According to the company's introduction, the company was launched in 1967 and then renewed in the name of SKS Exports in 1987 and was later renamed as SUNSHINE Tea Private Limited.
-
-Sunshine Tea Private Limited's Thai Company Sansin Holdings PLC can also be found in the website of Sansine Holdings PLC at https: //www.shinetea.lk.
-
-In addition, the company has more than 300 employees and said that there are 25 female workers and 75 male workers in the factory.They work in two categories as export and import. He said the company's annual sales were more than $ 25 million.
-
-...
-
-[Data](articles/d762ff0a.json)
-
-[Extended Data](ext_articles/d762ff0a.ext.json)
-
----
-
-### Drug-raided OIC threatened with death
-
-*2024-08-19 12:52:50* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-වැටලූ-ස්ථානාධිපතිට-මරණ-තර්ජන/11-411441) · `si`
-
-A drug raid led to threats against the Officer-in-Charge (OIC) of the Kiribathgoda Police Criminal Investigation Division. The OIC was threatened with death after a failed operation to disrupt drug activities, allegedly by a drug dealer overseas. This incident occurred while the OIC was off duty and was reported through a phone call.
-
-🟩
-
-It has been revealed that a person believed to bear the 'ice "in the drug raid, it has been revealed that the OIC of the Kiribathgoda Police Criminal Investigation Division has been threatened.
-
-The officer who was working on the telephone call was informed of the telephone call when the OIC of the Criminal Investigation Division was not duties.
-
-It is said that the police officer, including the police, will carry out drug raids and attempts to undermine them.
-
-It is said that he has threatened to hear information about an ice drug raiding last week.
-
-The deaths are threatened with the instructions of a drug dealer who is currently abroad.
-
-◼️
-
-[Data](articles/c0d9d4ec.json)
-
-[Extended Data](ext_articles/c0d9d4ec.ext.json)
-
----
-
-### Harin, Man's Appointment: The act of violating laws
-
-*2024-08-19 12:47:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரின்-மனுஷ-நியமனம்-சட்டங்களை-மீறும்-செயல்/175-342435) · `ta`
-
-Anurakumara Dissanayake accuses Harin Fernando and Manusha Nanayakkara's appointments as Presidential Advisors of violating election laws, citing a circular from the Elections Commission against new appointments during elections. President Ranil Wickremesinghe counters, stating their roles involve advising previous ministries and securing concessions like vehicles and funds. Dissanayake also alleges misuse of presidential resources for election campaigns, criticizing the appointments of other UNP advisors and Naveen Dissanayake as governor.
-
-🟩
-
-The appointment of former ministers Harin Fernando and Manusha Nanayakkara as Presidential Advisors is a violation of election laws, said Anurakumara Dissanayake, president and presidential candidate of the National People's Power.
-
-He said that the Elections Commission has issued a circular to prevent new appointments during the election and that appointments have been made in violation of the circular.
-
-President Ranil Wickremesinghe has said that Harin and Manusha have been appointed as advisers of previous ministries and thereby interfere with the activities of these ministries and to obtain concessions and concessions such as vehicles and funds.
-
-He said that the United National Party (UNP) has been given the posts of Advisors such as Akila Viraj, Sagala Ratnayake and Ashu Marasinghe and Naveen Dissanayake has been appointed as the governor of Naveen Dissanayake, he said.
-
-...
-
-[Data](articles/afb4559b.json)
-
-[Extended Data](ext_articles/afb4559b.ext.json)
-
----
-
-### Harin, the new appointment to the man
-
-*2024-08-19 12:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரின்-மனுஷவுக்கு-புதிய-நியமனம்/175-342434) · `ta`
-
-Harin Fernando and Manusha Nanayakkara, former ministers, have been named as presidential advisors. Fernando will advise on Sports, Land, and Tourism Affairs, while Nanayakkara will consult on Labor and Foreign Employment. These appointments were made by President Ranil Wickremesinghe, utilizing his constitutional powers under Article 41(1).
-
-🟩
-
-Former ministers Harin Fernando and Manusha Nanayakkara have been appointed as president's advisors.
-
-Harin Fernando has been appointed as the Advisor to Sports, Land and Tourism Affairs and Manusha Nanayakkara has been appointed as a consultant for labor and foreign employment.
-
-These appointments have been granted by President Ranil Wickremesinghe in accordance with the authority given to the President under strings of the Constitution 41 (1).
-
-◼️
-
-[Data](articles/d0e21d6a.json)
-
-[Extended Data](ext_articles/d0e21d6a.ext.json)
-
----
-
-### Philippines detects first mpox case this year, yet to determine strain
-
-*2024-08-19 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101345/-philippines-detects-first-mpox-case-this-year-yet-to-determine-strain) · `en`
-
-The Philippines has detected a new case of the mpox virus in the country, the first since December last year, its health department said on Monday, adding it was awaiting test results before being able to determine the strain.
-
-The patient was a 33-year-old Filipino male who had no travel history outside the Philippines, the Department of Health (DOH) said.
-
-“We are awaiting sequencing results and will update once available,” its spokesperson Albert Domingo said when asked about the strain.
-
-The World Health Organization on Wednesday declared mpox a global public health emergency, its highest form of alert, following an outbreak in the Democratic Republic of Congo that had spread to neighbouring countries.
-
-A new form of the virus has triggered global concern as it seems to spread easily though routine close contact.
-
-A case of the new variant was confirmed on Thursday in Sweden and linked to a growing outbreak in Africa, the first sign of its spread outside the continent.
-
-...
-
-[Data](articles/b4652ae5.json)
-
-[Extended Data](ext_articles/b4652ae5.ext.json)
-
----
-
-### A man killed in police constableThree arrests!
-
-*2024-08-19 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191413) · `ta`
-
-Three individuals, including the primary suspect in the murder of a police constable in Tangalle, have been detained. The main suspect was apprehended in Kandy with T-56 rifles and bullets. Two more suspects were found hiding and arrested in Tangalle.
-
-🟩
-
-Three persons, including the main suspect in connection with the murder of a police constable in Tangalle, have been arrested by the Tangalle Police Criminal Investigation Division.
-
-The main suspect was arrested in Kandy on Sunday (18) in connection with the incident of the Tangalle Police Criminal Investigation Division.
-
-T-56 rifles and 12 bullets have been seized from the main suspect.
-
-Subsequently, two suspects who were hiding in a dilapidated house in the Tangalle area were arrested on Monday morning, police said.
-
-◼️
-
-[Data](articles/6f1918a7.json)
-
-[Extended Data](ext_articles/6f1918a7.ext.json)
-
----
-
-### ‘No one above the law’: Anura Kumara promises a safe, just Sri Lanka
-
-*2024-08-19 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101344/no-one-above-the-law-anura-kumara-promises-a-safe-just-sri-lanka) · `en`
-
-The Leader of the National People’s Power (NPP) and presidential candidate Anura Kumara Dissanayake says that they will create a country where the law and order is equally applied for everyone, under their government.
-
-Addressing a public rally in the Kolonnawa area, Dissanayake stated that the need to create a country where everyone can live in freedom has now arisen.
-
-Furthermore, he stressed that if the people do not make that political decision, then the country and every life will always be unsafe.
-
-“Who can give a certification about that? Someone attends the opening of a saloon and was shot dead. What is this? Do we need a country like this?”, the NPP leader questioned.
-
-He also emphasized that the responsibility to curb such criminal activity lies on the hands of the government, adding that “we are fully prepared to take over that duty.”
-
-“Everyone is equal before the law. No one is above the law. It will equally apply for me, you and everyone else”, Dissanayake added.
-
-◼️
-
-[Data](articles/34989c20.json)
-
-[Extended Data](ext_articles/34989c20.ext.json)
-
----
-
-### Sri Lanka apparel sector hiring, upturn in services: PMI
-
-*2024-08-19 11:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-apparel-sector-hiring-upturn-in-services-pmi-177195/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s manufacturing and service sectors continued to expand in July registering index values over 50 in July 2024, with new hires seen in the apparel sector, according to a Purchasing Managers Index compiled by the central bank.
-
-The Manufacturing PMI was 59.5 in July, after recording 56.6 in June with new orders seen in apparel and growth on manufacture of food and beverages, textile and apparel.
-
-“Employment turned positive in July, which was mainly attributable to the manufacture of textiles & apparel sector,” the statement said.
-
-“Stock of Purchases also expanded in line with the increased demand for materials.”
-
-The Services PMI recorded 71.1 in July after a 63.5 points in June.
-
-“Business activities in the transportation services grew mainly due to improvements observed in freight and aviation sectors,” the statement said.
-
-“Further, business activities in the wholesale and retail trade and other personal services also experienced a considerable growth during the month.
-
-...
-
-[Data](articles/09754f56.json)
-
-[Extended Data](ext_articles/09754f56.ext.json)
 
 ---

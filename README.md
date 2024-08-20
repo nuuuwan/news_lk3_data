@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 18:16:56**
+As of **2024-08-20 18:29:05**
 
 ## Newspaper Stats
 
-*Scraped **41,718** Articles*
+*Scraped **41,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 3,838
 dailymirrorlk | 4,733
 adaderanalk | 4,885
 tamilmirrorlk | 5,396
-virakesarilk | 6,629
-adaderanasinhalalk | 7,120
+virakesarilk | 6,631
+adaderanasinhalalk | 7,121
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,715 (100.0%) of 41,718 articles have been extended.
+41,718 (100.0%) of 41,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### ඉදිරි පැය කිහිපයේ තද වැස්සක්
+
+*2024-08-20 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200143) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ඉදිරි පැය 36 සඳහා කාලගුණ අනාවැකියක් නිකුත් කර තිබේ.
+
+අද (20) සවස 4ට නිකුත් කර ඇති එම නිවේදනය හෙට සවස 4 තෙක් වලංගු බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව, බස්නාහිර, සබරගමුව, දකුණ සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+
+නැගෙනහිර, ඌව සහ උතුරුමැද පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනිත් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ද ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/ada66d4c.json)
+
+---
+
+### தேர்தல் செலவு தொடர்பில் தேர்தல் ஆணைக்குழுவின் தீர்மானத்தை வாபஸ்பெறக்கோரி வழக்கு தாக்கல் செய்வோம் - விஜயதாச ராஜபக்ஷ
+
+*2024-08-20 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191562) · `ta`
+
+வாக்காளர் ஒருவருக்கு 109 ரூபா செலவிடுவதற்கு முடியும் என தேர்தல் ஆணைக்குழு நிர்ணயித்துள்ளதன் மூலம் தேர்தல் செலவு கண்காணிப்பு சட்டத்தை ஆணைக்குழு  முறைகேடாக பயன்படுத்தி இருக்கிறது.
+
+அதனால் குறித்த சட்டம் மூலம் மக்களின் எதிர்பார்ப்பை வீணடித்துள்ள தேர்தல் ஆணைக்குழு, தீர்மானத்தை வாபஸ்பெற வேண்டும் என தெரிவித்து தேர்தல் ஆணைக்குழுவுக்கு எதிராக அடிப்படை உரிமை மீறல் வழக்கு தொடுக்க  இருக்கிறோம் என தேசிய ஜனநாயக முன்னணியின் ஜனாதிபதி வேட்பாளர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+
+கொழும்பில் அமைந்துள்ள அவரது தேர்தல் காரியாலயத்தில் செவ்வாய்க்கிழமை (20) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/f6be6556.json)
+
+---
 
 ### Dilith Jayaweera accepts invitation for presidential debate
 
@@ -48,31 +90,45 @@ Announcing this decision, Mawbima Janatha Pakshaya (MJP) leader Dilith Jayaweera
 
 [Data](articles/cba8a6d4.json)
 
+[Extended Data](ext_articles/cba8a6d4.ext.json)
+
 ---
 
-### ජනපති අපේක්ෂක විවාදයේ ඇරයුම දිලිත් පිළිගනී
+### Dilith welcomes the presidential candidate debate
 
 *2024-08-20 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200142) · `si`
 
-මාර්තු 12 ව්‍යාපාරය විසින් ජනාධිපති අපේක්ෂකයන් අතර පැවැත්වීමට නියමිත සංවාද සඳහා සර්වජන ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා සහභාගී වන බව ඔහුගේ නිල මාධ්‍ය ප්‍රකාශක දනිඳු විතානවසම් මහතා පැෆ්රල් සංවිධානයට ලිඛිතව දැනුම්දී තිබේ.
+Mr. Dilinda Vishara, representing the March 12 movement, will officially welcome the presidential candidates in writing.
+
+🟩
+
+The March 12 movement, Mr. Dilinda Vishara, his official resident of the presidential candidates, will be informed in writing for the presidential candidates.
 
 ◼️
 
 [Data](articles/b6c1a1fd.json)
 
+[Extended Data](ext_articles/b6c1a1fd.ext.json)
+
 ---
 
-### දිස්ත්‍රික්ක 06කට නායයෑම් අනතුරු ඇඟවීම්
+### Landslide warnings for 6 districts
 
 *2024-08-20 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200141) · `si`
 
-පවතින අයහපත් කාලගුණයත් සමග දිස්ත්‍රික්ක 06ක් සඳහා නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+Landslide warnings cover six districts due to bad weather: Colombo, Galle, Kalutara, Kegalle, Nuwara Eliya, and Ratnapura.
 
-ඒ කොළඹ, ගාල්ල, කළුතර, කෑගල්ල, නුවරඑළිය සහ රත්නපුර දිස්ත්‍රික්ක සඳහාය.
+🟩
+
+Landslide warnings have been issued for six districts with the inclement weather.
+
+That was for Colombo, Galle, Kalutara, Kegalle, Nuwara Eliya and Ratnapura districts.
 
 ◼️
 
 [Data](articles/4520b615.json)
+
+[Extended Data](ext_articles/4520b615.ext.json)
 
 ---
 
@@ -183,6 +239,24 @@ The film 'Banana', which is being directed by director Mari Selvaraj, who is the
 [Data](articles/5768b316.json)
 
 [Extended Data](ext_articles/5768b316.ext.json)
+
+---
+
+### சிலிண்டர் சின்னம் மீதான முறைப்பாடு அடிப்படையற்றது    - தேர்தல்கள் ஆணைக்குழு
+
+*2024-08-20 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191543) · `ta`
+
+சுயேட்சை வேட்பாளர் ரணில் விக்கிரமசிங்கவுக்கு வழங்கப்பட்ட சமையல் எரிவாயு சிலிண்டர் குறித்து ஒரு தரப்பினர் முன்வைத்துள்ள முறைப்பாடு அடிப்படையற்றது. உள்ளூராட்சி மன்றத் தேர்தல் சட்டத்துக்கும், ஜனாதிபதித் தேர்தல் சட்டத்துக்கும் இடையில் வேறுபாடுகள் காணப்படுகின்றன. ஆகவே இந்த முறைப்பாட்டை ஏற்க முடியாது என தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+
+தேர்தல்கள் அலுவலகத்தில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+தபால் மூல வாக்களிப்புக்கு 7 இலட்சத்துக்கும் அதிகமான வாக்காளர்கள் தகுதிப் பெற்றுள்ளார்கள். எதிர்வரும் 26 ஆம் திகதி வாக்களிப்பு அட்டைகள் மாவட்ட தெரிவத்தாட்சி அலுவலர்களுக்கு விநியோகிக்கப்படும்.
+
+செப்டெம்பர் 21 ஆம் திகதி வாக்கெடுப்புக்கான வாக்களிப்பு அட்டைகள் செப்டெம்பர் மாதம்  முதல் வாரத்தில் கிராம சேவகர் பிரிவுகள் ஊடாக வாக்காளர்களுக்கு விநியோகிக்கப்படும்.
+
+...
+
+[Data](articles/89f82c0c.json)
 
 ---
 
@@ -464,9 +538,11 @@ The event was chaired by Minister of Power and Energy Kanjana Wijesekera and Ind
 
 A memorandum of understanding (MoU) was signed, a short while ago, to develop infrastructure for the storage, regasification and supply of liquefied natural gas (LNG) for the Sobadhanavi Combined Cycle Power Plant at Kerawalapitiya.
 
-The agreement was signed between Sri Lanka’s LTL Holdings Limited and India’s Petronet LNG Limited, under the patronage of the Minister of Power and Energy Kanchana Wijesekara and the Deputy High Commissioner of India in Sri Lanka.
+The agreement was signed between Sri Lanka’s LTL Holdings Limited and India’s Petronet LNG Limited, under the patronage of the Minister of Power and Energy Kanchana Wijesekara and the Deputy High Commissioner of India in Sri Lanka Dr. Satyanjal Pandey.
 
-◼️
+The 350 MW LNG-based Combined Cycle Power Plant ‘Sobadhanavi’ is a landmark power project currently underway in the country and once commissioned it would be the largest IPP in the country and the first power plant to operate with LNG, paving way for the country to transition to greener forms of power generation from conventional thermal power.
+
+...
 
 [Data](articles/2f6f8f2b.json)
 
@@ -2263,79 +2339,5 @@ Rodrigo does not hold any shares of the Bank as at date, the bank said. (Colombo
 [Data](articles/3d255d68.json)
 
 [Extended Data](ext_articles/3d255d68.ext.json)
-
----
-
-### New Luxury Bus Service Started from Katunayake Airport
-
-*2024-08-20 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191491) · `ta`
-
-A new luxury bus service started from Katunayake Airport to Colombo but was suspended within four days due to a strike by the Airport-Fort Bus Employees Union. The union objected to the new service, leading to complaints from the Ministry of Transport and Highways and the Election Commission. The Chairman of the union announced that their buses would now serve the same routes.
-
-🟩
-
-The new luxury bus service launched from Katunayake Bandaranaike Airport to Colombo Fort Railway Station and Makumbura Diversity Transport Service has been suspended from Monday (19).
-
-The new luxury bus service was launched at the Katunayake airport at the Katunayake airport on the 15th of this month.
-
-On the 16th, the Airport - Fort Bus Employees Union went on strike against the new luxury bus service.
-
-In this regard, the Ministry of Transport and Highways and the Election Commission lodged a complaint.
-
-The rented vehicle association also supported the strike.
-
-In this case, it has been decided to temporarily suspend the new luxury bus transport service, which has been launched for only 4 days after the complaints have been initiated.
-
-...
-
-[Data](articles/64d037b5.json)
-
-[Extended Data](ext_articles/64d037b5.ext.json)
-
----
-
-### The threat of election violence did not come from the time of the Charity period
-
-*2024-08-20 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/191489) · `ta`
-
-The text discusses concerns over potential election violence, highlighting the government's decision to arm Members of Parliament (MPs) with guns as a precautionary measure due to anticipated unrest. It contrasts the current climate with past periods of civil unrest, noting differences in triggers and responses. The narrative emphasizes the importance of peaceful transitions through democratic processes, questioning the necessity of arming MPs amidst fears of violence. It advocates for ensuring fair and independent elections as a better approach to safeguarding democracy, rather than resorting to measures that could potentially escalate tensions.
-
-🟩
-
-The government's decision to deliver two referees to each of the Member of Parliament is a sign of fear that the election will be intensified as the election approaches the election.. In a letter to the Secretariat of the Ministry of Defense, the Ministry of Defense has stated that a resolution has been taken to provide two recruiters guns to each Member of Parliament, considering the violence of the charity.
-
-This is already overdue to the self -inflicted autonomous pistol for parliamentarians to receive their personal safety. Even after they have left the parliament, they can continue to renew the permit annually.
-
-...
-
-[Data](articles/8afedbd7.json)
-
-[Extended Data](ext_articles/8afedbd7.ext.json)
-
----
-
-### Iran in the back of Trump - intelligence confirms
-
-*2024-08-20 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200123) · `si`
-
-US intelligence confirms Iran interfered in Trump's election campaign, aiming to influence the outcome. The FBI and other agencies were briefed on this interference. Iran allegedly tried to help Trump win but denied involvement, according to foreign media reports.
-
-🟩
-
-The US intelligence has established Iran that there is Iran in the back of the election of Donald Trump's election campaign.
-
-Foreign media reports that FBI and other institutions have been informed by a joint statement.
-
-The report states that Iran has intervened to establish and demolish the US in the US, the US.
-
-Iran was accused of unaware of an internal internal message to the election campaign of Donald Trump's election campaign.
-
-However, Iranian officials had refused to do so, foreign media reports said.
-
-◼️
-
-[Data](articles/008359ff.json)
-
-[Extended Data](ext_articles/008359ff.ext.json)
 
 ---

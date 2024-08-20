@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 09:21:15**
+As of **2024-08-20 09:36:49**
 
 ## Newspaper Stats
 
-*Scraped **41,610** Articles*
+*Scraped **41,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,507
 dailyftlk | 2,687
-adalk | 3,826
+adalk | 3,827
 dailymirrorlk | 4,733
 adaderanalk | 4,868
 tamilmirrorlk | 5,373
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,101
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,610 (100.0%) of 41,610 articles have been extended.
+41,610 (100.0%) of 41,611 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -219,6 +219,22 @@ At the event, Professor Maithri Wickremesinghe and President's Senior Advisor to
 [Data](articles/621766e4.json)
 
 [Extended Data](ext_articles/621766e4.ext.json)
+
+---
+
+### අද මිලි මිටර් 100 ඉක්මවා වහින පැති මෙන්න
+
+*2024-08-20 07:19:21* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මිටර්-100-ඉක්මවා-වහින-පැති-මෙන්න/11-411451) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු හා වයඹ පළාත්වලත් මහනුවර හා නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එසේම බස්නාහිර හා සබරගමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රහේශවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්ත මේන්තුව දන්වා සිටියි.
+
+නැගෙනහිර, ඌව හා උතුරුමැද පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදි තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් දන්වයි.
+
+◼️
+
+[Data](articles/bdedd04b.json)
 
 ---
 
@@ -2205,25 +2221,5 @@ The magistrate ordered the three men to be subjected to a medical examination un
 [Data](articles/09b3f23a.json)
 
 [Extended Data](ext_articles/09b3f23a.ext.json)
-
----
-
-### Manusha as President's Advisor on Industry and Foreign Employment
-
-*2024-08-19 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191448) · `ta`
-
-Manusha Nanayakkara is now the president's advisor on industry and foreign employment, appointed by President Ranil Wickremesinghe.
-
-🟩
-
-Manusha Nanayakkara has been appointed as the president's advisor on industry and foreign employment.
-
-President Ranil Wickremesinghe has made this appointment.
-
-◼️
-
-[Data](articles/dac6266a.json)
-
-[Extended Data](ext_articles/dac6266a.ext.json)
 
 ---

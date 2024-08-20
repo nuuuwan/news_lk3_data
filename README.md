@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 18:29:05**
+As of **2024-08-20 18:39:25**
 
 ## Newspaper Stats
 
@@ -26,51 +26,67 @@ adaderanasinhalalk | 7,121
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,718 (100.0%) of 41,721 articles have been extended.
+41,721 (100.0%) of 41,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### ඉදිරි පැය කිහිපයේ තද වැස්සක්
+### A heavy rain in the next few hours
 
 *2024-08-20 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200143) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ඉදිරි පැය 36 සඳහා කාලගුණ අනාවැකියක් නිකුත් කර තිබේ.
+Heavy rain expected in Western, Sabaragamuwa, Southern, and Northwestern provinces over the next 36 hours. Some areas may experience heavy rainfall exceeding 75mm. Showers/thunderstorms predicted for Eastern, Uva, and North Central Provinces at night. Strong winds of 30-40 km/h possible in central hills, northern, north-central, and Northwestern provinces, including Hambantota district. The Department of Meteorology advises caution against potential damage from wind and lightning during thunderstorms.
 
-අද (20) සවස 4ට නිකුත් කර ඇති එම නිවේදනය හෙට සවස 4 තෙක් වලංගු බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-ඒ අනුව, බස්නාහිර, සබරගමුව, දකුණ සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+The Department of Meteorology has issued a weather forecast for the next 36 hours.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+The announcement issued at 4 pm today (20) will be valid until 4 pm today.
 
-නැගෙනහිර, ඌව සහ උතුරුමැද පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනිත් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+Accordingly, there will be showers at times or thundershowers in the Western, Sabaragamuwa, Southern and Northwestern provinces.
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Some areas in the Western and Sabaragamuwa Province and in Galle and Matara districts are mm mm mm.. Heavy rains can occur more than 75.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ද ඇතිවිය හැකිය.
+Showers or thundershowers at night in the east, Uva and North Central Province.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Showers or thundershowers will occur at the evening or night in the rest of the island.
+
+West in the central hills and in the North, North, North, North-central and Northwestern provinces and in the Hambantota district.. Strong winds can also be around 30-40 times.
+
+The Department of Meteorology also requests the public to take action to reduce the damages caused by temporary winds and lightning accidents due to thunderstorms.
 
 ◼️
 
 [Data](articles/ada66d4c.json)
 
+[Extended Data](ext_articles/ada66d4c.ext.json)
+
 ---
 
-### தேர்தல் செலவு தொடர்பில் தேர்தல் ஆணைக்குழுவின் தீர்மானத்தை வாபஸ்பெறக்கோரி வழக்கு தாக்கல் செய்வோம் - விஜயதாச ராஜபக்ஷ
+### Vijayadasa Rajapaksa
 
 *2024-08-20 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191562) · `ta`
 
-வாக்காளர் ஒருவருக்கு 109 ரூபா செலவிடுவதற்கு முடியும் என தேர்தல் ஆணைக்குழு நிர்ணயித்துள்ளதன் மூலம் தேர்தல் செலவு கண்காணிப்பு சட்டத்தை ஆணைக்குழு  முறைகேடாக பயன்படுத்தி இருக்கிறது.
+Vijayadasa Rajapaksa, the National Democratic Front's presidential candidate, criticized the Election Commission's implementation of the Election Expenditure Monitoring Act, which sets a spending limit of 109 rupees per voter for candidates. He announced plans to file a fundamental rights violation case against the Commission, arguing this decision undermines public trust and exceeds expected expenditure limits.
 
-அதனால் குறித்த சட்டம் மூலம் மக்களின் எதிர்பார்ப்பை வீணடித்துள்ள தேர்தல் ஆணைக்குழு, தீர்மானத்தை வாபஸ்பெற வேண்டும் என தெரிவித்து தேர்தல் ஆணைக்குழுவுக்கு எதிராக அடிப்படை உரிமை மீறல் வழக்கு தொடுக்க  இருக்கிறோம் என தேசிய ஜனநாயக முன்னணியின் ஜனாதிபதி வேட்பாளர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+🟩
 
-கொழும்பில் அமைந்துள்ள அவரது தேர்தல் காரியாலயத்தில் செவ்வாய்க்கிழமை (20) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+The Election Commission has used the Election Expenditure Monitoring Act by setting up a voter of 109 rupees per voter.
+
+The National Democratic Front's presidential candidate, Vijayadasa Rajapakse, said that the Election Commission, which has wasted the expectations of the people through the law, will file a fundamental rights violation against the Election Commission demanding the withdrawal of the resolution.
+
+He was speaking at a press conference held at his election office in Colombo on Tuesday (20).
+
+We have allowed the Election Expenditure Monitoring Act in the midst of a very small. However, the opposition parties protested against corruption. However, we have obtained the necessary majority in Parliament to allow the bill.
+
+The Election Expenditure Monitoring Act was to be implemented in the local government elections. The election is not yet. The law is in force in the current presidential election.
 
 ...
 
 [Data](articles/f6be6556.json)
+
+[Extended Data](ext_articles/f6be6556.ext.json)
 
 ---
 
@@ -242,21 +258,29 @@ The film 'Banana', which is being directed by director Mari Selvaraj, who is the
 
 ---
 
-### சிலிண்டர் சின்னம் மீதான முறைப்பாடு அடிப்படையற்றது    - தேர்தல்கள் ஆணைக்குழு
+### Complaint on cylinder logo is baseless - Elections Commission
 
 *2024-08-20 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191543) · `ta`
 
-சுயேட்சை வேட்பாளர் ரணில் விக்கிரமசிங்கவுக்கு வழங்கப்பட்ட சமையல் எரிவாயு சிலிண்டர் குறித்து ஒரு தரப்பினர் முன்வைத்துள்ள முறைப்பாடு அடிப்படையற்றது. உள்ளூராட்சி மன்றத் தேர்தல் சட்டத்துக்கும், ஜனாதிபதித் தேர்தல் சட்டத்துக்கும் இடையில் வேறுபாடுகள் காணப்படுகின்றன. ஆகவே இந்த முறைப்பாட்டை ஏற்க முடியாது என தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+Election Commission rejects complaint against Ranil Wickremesinghe's cylinder logo, citing differences between local and presidential election laws. Over 700,000 voters eligible for postal voting; cards due soon. Referendum voting cards to be distributed early September.
 
-தேர்தல்கள் அலுவலகத்தில் செவ்வாய்க்கிழமை (20) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-தபால் மூல வாக்களிப்புக்கு 7 இலட்சத்துக்கும் அதிகமான வாக்காளர்கள் தகுதிப் பெற்றுள்ளார்கள். எதிர்வரும் 26 ஆம் திகதி வாக்களிப்பு அட்டைகள் மாவட்ட தெரிவத்தாட்சி அலுவலர்களுக்கு விநியோகிக்கப்படும்.
+A complaint proposed by a party about the cooking gas cylinder given to Independent candidate Ranil Wickremesinghe. There are differences between the local government election law and the presidential election law. RMAL Ratnayake, Chairman of the Election Commission, said that this complaint cannot be accepted.
 
-செப்டெம்பர் 21 ஆம் திகதி வாக்கெடுப்புக்கான வாக்களிப்பு அட்டைகள் செப்டெம்பர் மாதம்  முதல் வாரத்தில் கிராம சேவகர் பிரிவுகள் ஊடாக வாக்காளர்களுக்கு விநியோகிக்கப்படும்.
+He made this statement during a media briefing held at the Elections Office on Tuesday (20).
+
+More than 7 lakh voters qualified for postal voting. Voting cards will be distributed to the District Secondary Officers on the 26th.
+
+Voting cards for the referendum on September 21 will be distributed to voters through the Grama Niladhari Divisions in the first week of September.
+
+A party has lodged a complaint with the Commission about the cooking gas cylinder symbol given to Independent candidate Ranil Wickremesinghe. This complaint is baseless. This is because the cylinder symbol was given to a party in accordance with the local election law.
 
 ...
 
 [Data](articles/89f82c0c.json)
+
+[Extended Data](ext_articles/89f82c0c.ext.json)
 
 ---
 

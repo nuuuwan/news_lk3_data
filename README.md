@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 14:08:50**
+As of **2024-08-20 14:21:16**
 
 ## Newspaper Stats
 
-*Scraped **41,668** Articles*
+*Scraped **41,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 4,878
 tamilmirrorlk | 5,387
 virakesarilk | 6,615
-adaderanasinhalalk | 7,110
+adaderanasinhalalk | 7,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,662 (100.0%) of 41,668 articles have been extended.
+41,668 (100.0%) of 41,669 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,45 +50,79 @@ Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa
 
 [Data](articles/26bd1663.json)
 
+[Extended Data](ext_articles/26bd1663.ext.json)
+
 ---
 
-### ஜப்பானில் கத்தரிக்கோல் காணாமல் போனதால் விமானங்கள் இரத்து
+### සුඛෝපභෝගී යාත්‍රාවේ සිට දිවිබේරාගත් ලාංකිකයා
+
+*2024-08-20 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200132) · `si`
+
+සිසිලි දූපත ආසන්නයේ දී මුහුදේ ගිලී ගිය සුඛෝපභෝගී යාත්‍රාවේ සිටි 15 දෙනෙක් ආරක්ෂිතව මුදාගෙන ඇති අතර, ඒ පිරිස අතර ශ්‍රී ලාංකික කාර්ය මණ්ඩල සාමාජිකයෙක් ද සිටී.
+
+මගීන් සහ කාර්ය මණ්ඩල සාමාජිකයින් 22ක් රැගත් බ්‍රිතාන්‍ය ධජය යටතේ යාත්‍රා කරමින් පැවති බේෂන් නම් සුඛෝපභෝගී රුවල් නෞකාව ඉතාලියේ සිසිලි දූපත ආසන්නයේ ගිලී ගියේ ඊයේ (19) දිනයේදී ය.
+
+පොර්තිචෙල්ලෝ වරායෙන් සැතපුම් අඩක දුරින් නවත්වා තිබූ මෙම යාත්‍රාව මෙලෙස ගිලී ගොස් තිබුණේ එම කලාපයට බලපෑ ටොනේඩෝ තත්ත්වයක් හේතුවෙනි.
+
+එහිදී අයෙක් මියගොස් 6 දෙනෙක් අතුරුදන් වූ අතර ඊට බ්‍රිතාන්‍ය ධන කුවේරයෙකු වන මයික් ලින්ච් ද අයත්ය.
+
+◼️
+
+[Data](articles/ca52c128.json)
+
+---
+
+### Planes canceled as scissors disappeared in Japan
 
 *2024-08-20 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191519) · `ta`
 
-விமான நிலையத்தில் கத்தரிக்கோல் ஒன்று காணாமல் போனதால் விமானங்கள் இரத்து செய்யப்பட்ட சம்பவம் ஒன்று ஜப்பானில் இடம்பெற்றுள்ளது.
+In Japan, the disappearance of a pair of scissors led to the cancellation of 36 flights and delays in 201 air services last weekend near New Chitos Airport. Passengers endured long security checks and congestion at the domestic terminal. A worker discovered the missing scissors, leading to an investigation by the Ministry of Land, Infrastructure, Transport and Tourism to prevent future incidents.
 
-கடந்த சனிக்கிழமை (17)  ஜப்பானில் கொக்கைடோவின் நியூ சிட்டோஸ் விமான நிலையத்தின் உள் நுழையும் வாயிலின் அருகே இருந்த  கடையொன்றில் கத்தரிக்கோல் காணாமல் போனதால் 36 விமானங்கள் இரத்து செய்யப்பட்டதோடு, 201 விமான சேவைகள் தாமதமடைந்துள்ளன.
+🟩
 
-விமான நிலையத்தின் உள்நாட்டு முனையத்தில் பாதுகாப்பு சோதனை நடவடிக்கைகளுக்காக சனிக்கிழமை (18) காலை சுமார் இரண்டு மணி நேரம் ஸ்தம்பித்ததால் பயணிகள் அவதிக்குள்ளாகியுள்ளனர்.
+An incident in Japan has taken place at the airport when a scissor disappeared.
 
-விமான நிலைய ஓய்வறையில் இருந்த பயணிகள் மீண்டும் சோதனைக்கு உட்படுத்தப்பட்டதால் பெரும் நெரிசல் மற்றும் வரிசைகள் காணப்பட்டன.
+Last Saturday (17), 36 flights were canceled and 201 air services were delayed due to the disappearance of scissors at a shop near the New Chitos Airport of Kokido in Japan.
 
-ஞாயிற்றுக்கிழமை (18)  கடையில் ஒரு தொழிலாளியால் கத்தரிக்கோல் கண்டுபிடிக்கப்பட்டதாக கொக்கைடோ விமான நிலையம் திங்களன்று அறிவித்தது.
+Passengers have suffered for about two hours on Saturday (18) for security checks at the airport's domestic terminal.
 
-காணாமல் போன கத்தரிக்கோலும் இதுவும் ஒன்றுதான் என்பதை உறுதிப்படுத்தும் வரை அறிவிப்பை வெளியிடுவதை நிறுத்தி வைத்திருந்ததாக அதிகாரிகள் விளக்கினர்.
+The passengers in the airport restroom were re -examined and there were huge congestion and rows.
 
-...
+The Kokido Airport announced on Monday that a worker was found by a worker at the store on Sunday (18).
+
+Officials explained that the missing scissors had stopped issuing the announcement until this was the same.
+
+The Ministry of Land, Infrastructure, Transport and Tourism has requested the Hokkaido airport to investigate the incident and prevent it from taking place again.
+
+◼️
 
 [Data](articles/7b349ae6.json)
 
+[Extended Data](ext_articles/7b349ae6.ext.json)
+
 ---
 
-### சட்டவிரோதமாக இலங்கைக்கு கொண்டுவரப்பட்ட இஞ்சியுடன் சந்தேகநபர் கைது !
+### Suspect arrested for illegally brought to Sri Lanka
 
 *2024-08-20 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191520) · `ta`
 
-இந்தியாவிலிருந்து மீன்பிடி படகுகள் மூலம் சட்டவிரோதமாக இலங்கைக்கு கொண்டு வரப்பட்ட 519 கிலோ 750 கிராம் இஞ்சியுடன் சந்தேகநபரொருவர் கைது செய்யப்பட்டுள்ளதாக மன்னார் பொலிஸ் விசேட அதிரடிப்படையினர் தெரிவித்துள்ளனர்.
+A suspect was arrested in Sri Lanka for smuggling 520 kg of ginger from India via fishing boats. The arrest follows investigations into ginger shortages and price hikes, revealing attempts to sell cheaper Indian ginger as more expensive local product.
 
-மன்னார் இராணுவ படையினருக்கு கிடைத்த தகவலின் அடிப்படையில் சுற்றிவளைப்பினை மேற்கொண்ட போது, இலங்கைக்கு  கொண்டுவரப்பட்ட  இஞ்சியுடன் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-நாட்டின் பல்வேறு பகுதிகளில் இஞ்சிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளமையினாலும், விலை அதிகரிப்பினாலும், இந்தியாவிலிருந்து  பச்சை இஞ்சி கடத்தல் மேற்கொண்டு அதிக விலைக்கு விற்பனை செய்ய முயற்சித்துள்ளதாக விசாரணையில் தெரியவந்துள்ளது.
+The Mannar Police Special Task Force said that a suspect has been arrested with 519 kg 750 g of ginger illegally brought to Sri Lanka by fishing boats from India.
 
-மேலும், சந்தேகநபர் இஞ்சியை பல பைகளில் பொதி  செய்து வெவ்வேறு பகுதிகளுக்கு விற்பனை செய்ய தயார் நிலையில் இருந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The suspect was arrested with a ginger brought to Sri Lanka while carrying out information on the Mannar Army.
+
+Investigations have revealed that ginger shortages in various parts of the country and the increase in prices have been attempted to sell green ginger from India at high prices.
+
+In addition, the suspect is ready to sell ginger in many pockets and sell it to different areas, police said.
 
 ◼️
 
 [Data](articles/6b425aae.json)
+
+[Extended Data](ext_articles/6b425aae.ext.json)
 
 ---
 
@@ -176,15 +210,21 @@ He further advised that if children are showing such symptoms they should wear a
 
 ---
 
-### இன்றைய நாணயமாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-20 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191514) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (ஆகஸ்ட் 20) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 294.3604 ரூபா ஆகவும் விற்பனை விலை 303.5775 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On August 20, the US dollar bought for 294.3604 rupees and sold for 303.5775 rupees.
+
+🟩
+
+The US dollar purchasing price was 294.3604 rupees and the sales price were 303.5775 rupees on Tuesday (August 20).
 
 ◼️
 
 [Data](articles/233e39af.json)
+
+[Extended Data](ext_articles/233e39af.ext.json)
 
 ---
 
@@ -236,25 +276,33 @@ Blinken’s visit comes as U.S. President  faces mounting election-year pressur
 
 ---
 
-### அமெரிக்க ஜனநாயகத்தை பாதுகாப்பதற்கான மிகச்சிறந்த நம்பிக்கை - கமலா ஹரிஸ் - ஜனநாயக கட்சியின் மாநாட்டில் பைடன்
+### Excellent hope to defend US democracy - Kamala Haris
 
 *2024-08-20 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191515) · `ta`
 
-அமெரிக்க ஜனநாயகத்தினை பாதுகாப்பதற்கான மிகச்சிறந்த நம்பிக்கை கமலா ஹாரிஸ் என ஜனாதிபதி ஜோபைடன் தெரிவித்துள்ளார்
+Kamala Harris, praised by President Jobitton for her ability to safeguard US democracy, stood alongside Joe Biden, who emphasized unity and readiness to vote for independence and the Democratic Party. Highlighting their shared commitment to the nation, Biden expressed support for Harris and Tim Volcin, vowing to serve as a strong ally against Trump. Their speech, marked by emotional moments and a focus on national pride and unity, underscored their dedication to strengthening the US economy and international alliances, while firmly rejecting divisiveness.
 
-நன்றி ஜோ என்ற கோசங்களிற்கு இடையில்  ஜோ பைடன் தனது மகள் ஜோ ஆஸ்லேயுடன் மேடையில் தோன்றினார்.
+🟩
 
-தனது மகள் தன்னை அறிமுகப்படுத்திய பின்னர் கண்ணீருடன் உரையாற்றிய பைடன் நீங்கள் சுதந்திரத்திற்காக வாக்களிக்க தயாரா?அமெரிக்காவிற்கும் ஜனநாயக கட்சிக்கும் வாக்களிக்க தயாரா? கமலா ஹரிசையும் டிம் வோல்சினையும் தெரிவு செய்ய தயாரா என கேள்வி எழுப்பினார்.
+President Jobitton says Kamala Harris is the best confidence to protect US democracy
 
-டொனால்ட் டிரம்பினை பலமுறை தாக்கிய பைடன் ஹரிசிற்கான மிகச்சிறந்த தொண்டனாக விளங்குவேன் என்றார்.
+Between the slogans of thanks Joe, Joe Bidan appeared on the stage with his daughter Joe Azley.
 
-நான் ஜனாதிபதி பதவியை நேசிக்கின்றேன் ஆனால் அதனை விட அமெரிக்காவை நேசிக்கின்றேன் என அவர் தெரிவித்தவேளை மாநாட்டில் திரண்டிருந்தவர்கள் நாங்கள் ஜோவை நேசிக்கின்றோம் என கோசம் எழுப்பினர்.
+Speaking with tears after her daughter introduced herself, are you ready to vote for independence? Are you ready to vote for the United States and the Democratic Party?Kamala questioned whether he was ready to choose Haris and Tim Volcin.
 
-அமெரிக்க பொருளாதாரத்தை வலுப்படுத்தியது,சர்வதேச ரீதியில் அதன் நட்புறவை வலுப்படுத்தியது போன்ற தனது அரசாங்கத்தின் சாதனைகளை பட்டியலிட்;ட பைடன் தனக்கு பின்னர் வெள்ளை மாளிகைக்கு கமலா ஹாரிசினை தெரிவு செய்யுமாறு வேண்டுகோள் விடுத்தார்.
+He said he would be the greatest volunteer for Bidan Harris, who had repeatedly attacked Donald Trump.
 
-...
+When I loved the presidency but I love the United States, he said that those who gathered at the conference were saying that we love Joe.
+
+List of his government's achievements, such as strengthening the US economy and strengthening its alliance internationally, appealed to Kamala Harrisin to the White House.
+
+Faidan, who has continued to affect the United States, has said that they have no place in the United States.
+
+◼️
 
 [Data](articles/190d1c97.json)
+
+[Extended Data](ext_articles/190d1c97.ext.json)
 
 ---
 
@@ -412,23 +460,31 @@ Based on the concerns raised by the attorneys who appeared on behalf of the accu
 
 ---
 
-### ජනපතිවරණයට ආවේ  දිනන්න නෙවෙයි
+### It is not to win the presidential election
 
 *2024-08-20 11:15:47* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-ආවේ--දිනන්න-නෙවෙයි/11-411457) · `si`
 
-තමන් ජනාධිපති මැතිවරණයට තරග කරනුයේ දිනන්න නොව කියන්න බව මෛලයග අරියසල් අරංගම්  නායක ජනාධිපති අපේක්ෂක එම්. තිලකරාජ් මහතා පවසයි.
+Mr. Thilaruj, a presidential candidate, emphasizes the importance of engaging voters from the plantation sector, highlighting the economic impact and the need for representation in the presidential race. He mentions the historical shift in citizenship post-independence and the potential of the plantation community to influence national politics.
 
-හැටන්හි පිහිටි ඒ මහතාගේ කාර්යාලයේදි මේ බව පැවසු එම්. තිලකරාජ් මහතා එහිදි වැඩි දුරටත් මෙසේද පවසන ලදි.
+🟩
 
-1948 වර්ෂයේදි නිදහස ලැබිමෙන් පසුව 1949 වර්ෂයේදි පාර්ලීමේන්තු පනතකින්  මේ වතුකර ජනතාවගේ පුරවැසි අයිතිය අයින් කලා එයට පසුව 1977 තමයි ඡන්දයකින් වතුකරයේ අයකු පාර්ලීමේන්තුවට ගියේ.
+Ariasal Arangam Leader presidential candidate mi. Mr. Thilaruj says.
 
-එතන සිට වරින් වර මෙම වතුකර ප්‍රදේශවලින් කිප දෙනකු ඡන්දය ඉල්ලා පාර්ලීමේන්තුවට ගියත් මට අවශ්‍ය වුනා මේ වතුකරයෙන් ජනාධිපති මැතිවරණයකටත් අයකුට තරග කරන්න පුලුවන් කියලා පෙන්වන්න.
+This was in the office of his office in Hatton. Mr. Thilaraj was further stated that he was more and more.
 
-මෙවර ජනාධිපති මැතිවරණයට තරග කරන එක් අයකුට රුපියල් කෝටි 200ක් පමන වැය වන බව කියනවා මේ වැය කරන මුදලින් එක් අවුරුද්දකට රුපියල් කෝටියක් වතුකරයට වියදම් කලානම් මේ තරම් ප්‍රශ්න මේ වතුකර ජනතාවට  නැහැ.
+In 1948, the citizen ownership of the citizens of the people in 1949 after independence in 1949, the citizenship of the people went to the part of the estate sector by 1977.
+
+From there, a few from these estates visited the voting, but I wanted to show that a presidential election could compete in this plantation.
+
+The cost of one who contested the presidential election is about Rs.
+
+The people of this plantation and strengthening the economy of this country are increasingly, the people of this plantation are increasingly spending the prospect of doing what time they have done so much time for the people.
 
 ...
 
 [Data](articles/5aa55291.json)
+
+[Extended Data](ext_articles/5aa55291.ext.json)
 
 ---
 
@@ -2249,33 +2305,5 @@ Elections Commission officials have said that strict action will be taken agains
 [Data](articles/0f0df2a6.json)
 
 [Extended Data](ext_articles/0f0df2a6.ext.json)
-
----
-
-### 2024-08-19 (Monday)
-
-### After September 21, we will re -develop the country -Sujeeva Senasinghe
-
-*2024-08-19 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191481) · `ta`
-
-Following the departure of Ranil Wickremesinghe from the United National Party, Sajith Premadasa leads the United People's Power, aiming to revitalize the country post-September 21. Key figures including Lalith Atulath Mudali, Gamini Dissanayake, and Ranasinghe Premadasa are set to spearhead this development. The speech highlights the destructive impact of LTTE, People's Liberation Front, and the Rajapaksa family on the nation's economy and stability, with Wickremesinghe's involvement criticized. The United People's Power currently holds 46% in election calculations, needing a 4% increase. Addressing the national debt, the party plans to negotiate loan reductions with the IMF and provide financial relief to merchants.
-
-🟩
-
-Ranil Wickremesinghe destroyed the United National Party and supporters with Rajapakse. Unable to tolerate this, Sajith Premadasa led the United People's Power and unloaded Ranil Wickremesinghe in the last general election.
-
-United People's Power Deputy Chairman Sujeewa Senasinghe said that after September 21, Lalith, Gamini and Ranasinghe will create the Premadasa Yuga, which will again develop the country.
-
-He said this while addressing the election campaign in Mawanella on Monday (19).
-
-Ranil Wickremesinghe has been in the party's leadership for 30 years and has been deal with Rajapakse, destroying the party and destroying the party.
-
-We torn up without being able to tolerate this. In the last general election, Ranil Wickremesinghe unloaded the zero and created the United People's Power under the leadership of Sajith Premadasa. After the upcoming September 21st, I am proud to announce that Lalith Atulath Mudali, Gamini Dissanayake and Ranasinghe Premadasa will create the era.
-
-...
-
-[Data](articles/ab2b87e6.json)
-
-[Extended Data](ext_articles/ab2b87e6.ext.json)
 
 ---

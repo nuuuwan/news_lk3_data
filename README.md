@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 12:10:37**
+As of **2024-08-20 12:21:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,640 (100.0%) of 41,650 articles have been extended.
+41,649 (100.0%) of 41,650 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,21 +60,33 @@ Chairman of the Elections Commission RM VLethani, which claims this,
 
 ---
 
-### பலத்த மழையினால் 3,000க்கும் மேற்பட்டோர் பாதிப்பு
+### More than 3,000 people are affected by heavy rains
 
 *2024-08-20 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191501) · `ta`
 
-நாட்டில் நிலவும் சீரற்ற வானிலையால் களுத்துறை, புத்தளம் மற்றும் இரத்தினபுரி மாவட்டங்களில் 929 குடும்பங்களைச் சேர்ந்த 3,243 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+Heavy rains affect over 3,000 people across several districts in Sri Lanka, causing flooding and raising landslide risks. The government issues warnings and alerts, urging caution among residents.
 
-களுத்துறை மாவட்டத்தின் மதுராவளை பிரதேச செயலகப் பிரிவில் வரகாகொட கலவெல்லவ வீதி, அலமோதர- பரகஸ்தோட்ட வீதி, மில்லனிய பிரதேச செயலகப் பிரிவின் பனாகொட- நர்துபான வீதி, புலத்சிங்கல- மொல்காவ வீதி, புலத்சிங்கல - மொல்காவ வீதி, புலத்சிங்கலத்தீ பிரிவின் செங்கலத்தலை வீதி, உப்பலத்தீவில் உள்ள பல வீதிகள் மற்றும் பாலிந்தநுவர பிரதேச செயலகப் பிரிவில் பதுரலிய - பெனிகல வீதி ஆகியன வெள்ளத்தில் மூழ்கியுள்ளன.
+🟩
 
-களுத்துறை மற்றும் இரத்தினபுரி மாவட்டங்களில் உள்ள பல பிரதேச செயலகங்களுக்கும் அனர்த்த முகாமைத்துவ மத்திய நிலையம் மண்சரிவு அபாயம் காரணமாக சிவப்பு அறிவித்தலைவெளியிட்டுள்ளது.
+3,243 people from 929 families in Kalutara, Puttalam and Ratnapura districts have been affected by the inclement weather in the country, the Disaster Management Center said.
 
-கொழும்பு, காலி, கேகாலை, மாத்தறை மற்றும் நுவரெலியா ஆகிய மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை அறிவிப்பு நீடிக்கப்பட்டுள்ளது.
+Kalutara Divisional Secretariat Division of Kalutara DistrictBenigala Road is flooded.
 
-...
+The Disaster Management Center has also issued a red announcement due to the risk of landslides in many Divisional Secretariats in Kalutara and Ratnapura districts.
+
+A landslide warning has been extended to Colombo, Galle, Kegalle, Matara and Nuwara Eliya districts.
+
+The Department of Meteorology has warned that more than 100 millimeters of heavy rainfall is expected in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
+
+Rainfall or thunderstorms are expected in the southern and northwestern provinces, Kandy and Nuwara Eliya districts.
+
+Residents of the affected areas have been urged to be vigilant and take necessary precautions to ensure their safety.
+
+◼️
 
 [Data](articles/23a8cd1f.json)
+
+[Extended Data](ext_articles/23a8cd1f.ext.json)
 
 ---
 
@@ -162,51 +174,73 @@ Rescuers are camping in the affected areas and engaged in rescue operations. Off
 
 ---
 
-### தேர்தல் வாக்குறுதிகள் மாத்திரம் போதாது - அவற்றை எப்படி எத்தனை நாட்களிற்குள் நடைமுறைப்படுத்துவீர்கள் என தெரிவியுங்கள் - வேட்பாளர்களிடம் வேண்டுகோள் விடுப்பதற்கு பவ்ரல் திட்டம்
+### The election promises are not enough - how many days will you implement them - Powell Plan to request candidates
 
 *2024-08-20 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191509) · `ta`
 
-ஜனாதிபதி வேட்பாளர்கள் பரந்த வார்த்தைகள் கவர்ச்சிகரமான திட்டங்களை முன்வைப்பதற்கு பதில்  அவற்றை தாங்கள் நடைமுறைப்படுத்துவதற்கான  குறிப்பிட்ட காலஅவகாசத்தை  முன்வைக்கவேண்டும் என தேர்தல் கண்காணிப்பு அமைப்புகள் வேண்டுகோள் விடுக்கவுள்ளன.
+Election monitoring group Powell urges Sri Lankan presidential candidates to detail their policy timelines and funding sources. Candidates like Anura Kumaratisanayake and Ranil Wickremesinghe must address how they'll turn campaign promises into action, amid concerns over past discrepancies between manifesto pledges and actual governance. Powell emphasizes transparency and accountability, requiring candidates to specify deadlines and financial plans for their proposed initiatives.
 
-தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அனுரகுமாரதிசநாயக்க 26ம் திகதி தனது தேர்தல் விஞ்ஞாபனத்தை வெளியிடவுள்ளார், ஐக்கிய மக்கள் சக்தியின் வேட்பாளர் எதிர்வரும் வெள்ளிக்கிழமை தனது தேர்தல்; விஞ்ஞாபனத்தை வெளியிடுவார்.
+🟩
 
-சுயேட்சை வேட்பாளராக போட்டியிடும் ரணில் விக்கிரமசிங்கவும் தனது தேர்தல் விஞ்ஞாபனத்தை விரைவில் வெளியிடவுள்ளார்.
+Election monitoring organizations will appeal to the presidential candidates to present a specific time for them to implement them in response to the presence of vast words.
 
-கடந்த காலங்களிலும் ஜனாதிபதி வேட்பாளர்கள் தங்கள் தேர்தல் விஞ்ஞாபனங்களை வெளியிட்டனர் ஆனால் அவர்களின் வாக்குறுதிகளிற்கும் அவை நடைமுறைப்படுத்தப்படுவதற்கும் இடையில் பாரிய இடைவெளி காணப்பட்டது.
+The presidential candidate of the National People's Power, Anura Kumaratisanayake, will release his election manifesto on the 26th.He will publish the manifesto.
 
-அவர்கள் தேர்தல் விஞ்ஞாபனத்தில் தெரிவித்த விடயங்கள் யதார்த்தசூழ்நிலையுடன் ஒத்துப்போகததாக காணப்பட்டமையே இதற்கான காரணம்.
+Ranil Wickremesinghe, who is contesting as an independent candidate, will soon release his election manifesto.
 
-அல்லது அவர்களின் பதவிக்காலத்தின் இடையில் சூழ்நிலைகள் மாறியதால் அவர்களால்  தங்கள் கொள்கைகளை நடைமுறைப்படுத்த முடியாத நிலையேற்பட்டது.
+In the past, the presidential candidates have published their election manifesto but there has been a huge gap between their promises and their implementation.
+
+The reason for this is that the matters they stated in the election manifesto were seen as a reality.
+
+Or in the midst of their tenure, the circumstances changed their policies.
+
+Sri Lanka is still trying to recover from the worst economic crisis after independence.
+
+Powell candidates, the election monitoring organization, are also planning to put forward the implementation of their plans.
 
 ...
 
 [Data](articles/7896a4ea.json)
 
+[Extended Data](ext_articles/7896a4ea.ext.json)
+
 ---
 
-### கனவு வீடுகளுடன் கசப்பான வாழ்க்கை
+### Bitter life with dream homes
 
 *2024-08-20 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191500) · `ta`
 
-மக்கள் தங்களது உடைமைகளையும் இழந்தார்கள். மக்களது வீடுகள் தரைமட்டமாக்கப்பட்டது. 500,000 மேற்பட்ட மக்கள் இடம்பெயர வேண்டி ஏற்பட்டது. வீடுகளை இழந்தவர்களில் பெரும்பாலானோர் தற்காலிக முகாம்களில் தங்க வைக்கப்பட்டனர். அரசாங்கமும் சர்வதேச சமூகங்களும் பாதிக்கப்பட்டவர்களுக்கு புதிய வீடுகளை வழங்க விரைந்து செயல்பட்டன. அதன் பயனாக இலங்கையில் கரையோர பகுதிகளில் சுனாமி வீட்டுத்திட்டங்கள் நிர்மாணிக்கப்பட்டு வீடுகளை இழந்த மக்களிடம் கையளிக்கப்பட்டது.
+After a devastating event, over half a million people lost their homes, which were then demolished. They were temporarily housed before being relocated to new homes through swift government and international aid efforts, resulting in the construction of tsunami housing projects.
+
+🟩
+
+People lost their possessions. The homes of the people have been demolished. More than 500,000 people had to displace. Most of those who lost their homes were placed in temporary shelters. The government and international communities acted swiftly to provide new homes to victims. As a result, tsunami housing projects were constructed and handed over to the people who lost their homes.
 
 ◼️
 
 [Data](articles/3b6ce75e.json)
 
+[Extended Data](ext_articles/3b6ce75e.ext.json)
+
 ---
 
-### பெண் வேட்பாளர்களே இல்லாத ஜனாதிபதி தேர்தல் ….!
+### Presidential election without female candidates…
 
 *2024-08-20 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191506) · `ta`
 
-ஒன்பதாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியை தெரிவு செய்யும் தேர்தல் செப்டெம்பர் 21 ஆம் திகதி இடம்பெறவுள்ளது. 40 பேர் கட்டுப்பணம் செலுத்தியிருந்த நிலையில் 39 பேர் மாத்திரமே  வேட்பு மனு தாக்கல் செய்தனர்.  இதில் மூன்று தமிழர்களும் இரண்டு முஸ்லிம்களும் அடங்குகின்றனர். இலங்கை வரலாற்றில் அதிக எண்ணிக்கையான வேட்பாளர்கள் போட்டியிடும் ஜனாதிபதி தேர்தல் என்ற சாதனை பதிவாகியுள்ள அதே வேளை பெண் வேட்பாளர்கள் எவரும் இல்லாத ஜனாதிபதி தேர்தலாகவும் இது விளங்குகின்றது.
+In Sri Lanka's upcoming presidential election, despite legal provisions for gender equality, no women have nominated themselves, marking a lack of female representation and highlighting ongoing challenges for women in politics. This election, with the highest number of male candidates in the country's history, is seen as reflecting a patriarchal culture despite international agreements aimed at eliminating gender discrimination. The absence of female candidates underscores the need for greater efforts to encourage women's participation in politics, given that more than half of Sri Lanka's population is female.
 
-பாலின சமத்துவத்திற்கான சட்ட ஏற்பாடுகள் இருக்கின்ற நிலையிலும் இலங்கை அரசியலில் பெண்கள் எதிர்கொள்ளும் தொடர்ச்சியான சவால்களை எடுத்துக்காட்டும் வகையில், இந்த ஆண்டு ஜனாதிபதி தேர்தலில்  பெண்கள் எவரும்  போட்டியிட முன்வரவில்லை. இதன் காரணமாக   ஆணாதிக்கம் நிறைந்த ஜனாதிபதி தேர்தல் என்றும் இதை வர்ணிக்கின்றனர்.
+🟩
+
+Elections to elect the ninth executive president will be held on September 21st. With 40 people, only 39 filed nominations.This includes three Tamils ​​and two Muslims. It is also a presidential election, with no female candidates, while the highest number of candidates are contesting in Sri Lanka's history.
+
+Despite the legal provisions for gender equality, no women have come forward to contest the presidential election this year to illustrate the continued challenges faced by women in Sri Lankan politics.. Because of this, it is described as a patriarchal presidential election.
 
 ...
 
 [Data](articles/ccb03822.json)
+
+[Extended Data](ext_articles/ccb03822.ext.json)
 
 ---
 
@@ -396,19 +430,25 @@ The legal function of the incident is to be heard in court this afternoon.
 
 ---
 
-### வாக்காளருக்கு செலவிடக்கூடிய தொகை தொடர்பில் வர்த்தமானி வெளியீடு
+### Gazette Issue on the amount they can spend on the voter
 
 *2024-08-20 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191495) · `ta`
 
-ஜனாதிபதி வேட்பாளர் ஒருவர் தனது தேர்தல் பிரச்சாரத்தின் போது ஒவ்வொரு வாக்காளருக்காகவும் செலவிடக்கூடிய அதிகபட்ச தொகையை நிர்ணயித்து அதிவிசேட வர்த்தமானி அறிவித்தல் தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்கவினால் நேற்று ஞாயிற்றுக்கிழமை (19) இரவு வெளியிடப்பட்டுள்ளது.
+The Gazette has set a maximum spending limit of Rs 186 crore 82 lakh 98 thousand 500 for presidential candidates, as per the directive from Commissioner General of Elections Saman Sri Ratnayake.
 
-அதன்படி, ஜனாதிபதி வேட்பாளர் ஒருவர் ஒரு வாக்காளருக்கு செலவழிக்கக்கூடிய அதிகபட்ச தொகை 109.00 ரூபாவென அந்த வர்த்தமானியில் நிர்ணயிக்கப்பட்டுள்ளது.
+🟩
 
-வர்த்தமானியின் படி, ஜனாதிபதி வேட்பாளர் ஒருவரின் மொத்த செலவினமாக 186 கோடியே 82 இலட்சத்து 98 ஆயிரத்து 500 ரூபாய் நிர்ணயிக்கப்பட்டுள்ளது.
+Elections Commissioner Commissioner Saman Sri Ratnayake has been issued on Sunday night by Commissioner General of Elections Commissioner Saman Sri Ratnayake.
+
+Accordingly, the Gazette is set to pay a maximum amount of Rs.
+
+According to the Gazette, the total expenditure of a presidential candidate has been fixed at Rs 186 crore 82 lakhs 98 thousand 500 rupees.
 
 ◼️
 
 [Data](articles/eb7d7b04.json)
+
+[Extended Data](ext_articles/eb7d7b04.ext.json)
 
 ---
 
@@ -572,21 +612,29 @@ In equities, Colombo’s All Share Price Index opened 4.45 points higher at 11,5
 
 ---
 
-### இலாபமற்ற வேலைத் திட்டங்களினால் தான்  நாடு வீழ்ச்சியடைந்துள்ளது - சஜித்
+### The country has fallen by non -profit programs - Sajith
 
 *2024-08-20 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191494) · `ta`
 
-நாடு இந்த அளவுக்கு வீழ்ச்சி அடைந்துள்ளமைக்கான காரணத்தை கண்டறிய வேண்டும். பிரதிபலன் இல்லாத  செயற்திட்டங்களை செயல்படுத்தியமையால்  நாடு கடன் சுமைக்குள் இறுகிக் கொண்டுள்ளதென எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+Opposition Leader Sajith Premadasa criticizes the government for the country's economic decline, attributing it to poor financial management and tax concessions to the wealthy, which he claims reduced GDP from 12% to 8%. He calls for an end to corruption and fraud to attract foreign investment, promising to recover stolen funds for public benefit.
 
-2024 ஜனாதிபதித் தேர்தலுக்கான ஐக்கிய மக்கள் சக்தியின் ஏழாவது மக்கள் வெற்றிப் பேரணி எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் திங்கட்கிழமை (19) மாலை மீரிகம நகரில் நடைபெற்றது.
+🟩
 
-ஐக்கிய மக்கள் சக்தியைச் சேர்ந்த அரசியல் தலைவர்கள் உள்ளிட்ட அப்பகுதியை சேர்ந்த ஏராளமான மக்கள் இக்கூட்டத்தில் கலந்து கொண்டிருந்தனர். இச்சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு குறிப்பிட்டார்.
+The country is to find out the reason for the fall of this level. Opposition Leader Sajith Premadasa said the country is in debt due to implementation of implementation.
 
-2022 ஆம் ஆண்டாகும் போது பில்லியன் கணக்கில் கடன் செலுத்த வேண்டும் என்று அறிந்திருந்த போதும் 2019 ஆம் ஆண்டு  ஆட்சி அதிகாரத்திற்கு வந்த உடனே செல்வந்தர்களுக்கும்  கோடீஸ்வரர்களுக்கும் 600 -  700 பில்லியன் ரூபாக்களை வரிச்சலுகையாக வழங்கி,  மொத்த உள்நாட்டு உற்பத்தியை 12 வீதத்திலிருந்து 8 வீதமாக குறைத்தனர்.
+The seventh people's victory rally for the 2024 presidential election was held in Meerigama on Monday evening under the leadership of Opposition Leader Sajith Premadasa.
+
+A large number of people from the area, including political leaders of the United People's Power, were present at the meeting. Opposition Leader Sajith Premadasa said this while addressing the meeting.
+
+Knowing that the billion would be paid by 2022, the rich and billionaires were given 600 -700 billion rupees as a tax concession to the wealthy and billionaires in 2019 and reduced the GDP from 12 percent to 8 percent.
+
+When the people were given relief during the reign of Ranasinghe Premadasa, the GDP was nearly 22 percent of the GDP.. Despite being able to provide relief to people that day, domestic production is down from 10 to 11 percent today.
 
 ...
 
 [Data](articles/41ef55b6.json)
+
+[Extended Data](ext_articles/41ef55b6.ext.json)
 
 ---
 
@@ -614,23 +662,29 @@ Three complaints have come forward to the Kandarawatta Police regarding financia
 
 ---
 
-### கூரிய ஆயுதத்தால் தாக்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்ட நபர் சிகிச்சை பலனின்றி உயிரிழப்பு !
+### A man admitted to hospital with sharp weapon deaths
 
 *2024-08-20 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191490) · `ta`
 
-பேலியகொடை , நாரம்மினிய பிரதேசத்தில் வீடொன்றுக்கு அருகில் நபர் ஒருவர் கூரிய ஆயுதத்தால் தாக்கப்பட்டு உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A man was fatally stabbed in Naramini, Peliyagoda, on March 18, leading to his admission to Colombo National Hospital. The 39-year-old victim from Kelaniya died due to personal conflicts. A 24-year-old suspect from Kottukachiya, armed with a knife, was arrested and is under investigation by the Peliyagoda police.
 
-இந்த சம்பவம் கடந்த 18 ஆம் திகதி  இடம்பெற்றுள்ளதோடு, தாக்குதலில் காயமடைந்த நபர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் சிகிச்சை பலனின்றி  நேற்று திங்கட்கிழமை  (19) காலை உயிரிழந்துள்ளார்.
+🟩
 
-உயிரிழந்தவர் களனி, நாரம்மினிய பகுதியைச் சேர்ந்த  39 வயதுடைய ஆணொருவராவார். தனிப்பட்ட முரண்பாட்டின்  காரணமாக இந்த தாக்குதல்  இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A man has been attacked by a sharp weapon near a house in Naramini area in Peliyagoda, police said.
 
-சம்பவத்துடன் தொடர்புடைய, கொட்டுகச்சிய பிரதேசத்தைச் சேர்ந்த 24 வயதுடைய சந்தேகநபர் குற்றச் செயல்களுக்காக  பயன்படுத்தப்படும் கத்தியுடன் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The incident took place on the 18th and the victim was admitted to the Colombo National Hospital on Monday morning (19).
 
-மேலும், சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை பேலியகொட பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+The deceased is a 39 -year -old man from Kelaniya and Naramini.Police said the attack was due to personal conflict.
+
+The 24 -year -old suspect from Kottukachiya area, involved in the incident, has been arrested with a knife used for crimes, police said.
+
+Further investigations into the incident are being carried out by the Peliyagoda police.
 
 ◼️
 
 [Data](articles/14d34490.json)
+
+[Extended Data](ext_articles/14d34490.ext.json)
 
 ---
 
@@ -656,37 +710,51 @@ Rodrigo does not hold any shares of the Bank as at date, the bank said. (Colombo
 
 ---
 
-### கட்டுநாயக்க விமான நிலையத்திலிருந்து ஆரம்பிக்கப்பட்ட புதிய சொகுசு பஸ் சேவை இடைநிறுத்தம் !
+### New Luxury Bus Service Started from Katunayake Airport
 
 *2024-08-20 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191491) · `ta`
 
-கட்டுநாயக்க பண்டாரநாயக்க விமான நிலையத்திலிருந்து கொழும்பு கோட்டை புகையிரத நிலையம் மற்றும் மாகும்புர பல்வகை போக்குவரத்து நிலையத்துக்கு இடையில் போக்குவரத்து சேவைக்காக ஆரம்பிக்கப்பட்ட புதிய சொகுசு பஸ் சேவை திங்கட்கிழமை (19) முதல் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளது.
+A new luxury bus service started from Katunayake Airport to Colombo but was suspended within four days due to a strike by the Airport-Fort Bus Employees Union. The union objected to the new service, leading to complaints from the Ministry of Transport and Highways and the Election Commission. The Chairman of the union announced that their buses would now serve the same routes.
 
-கடந்த 15 ஆம் திகதி AirPort Terminal Shuttle Service என்ற பெயரில் போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் ரஞ்சித் ரூபசிங்கவால், கட்டுநாயக்க விமான நிலையத்தில் இந்த புதிய சொகுசு பஸ் சேவை ஆரம்பித்து வைக்கப்பட்டது.
+🟩
 
-இந்நிலையில், கடந்த 16 ஆம் திகதி விமான நிலையம் - கோட்டை பஸ் ஊழியர் சங்கம் புதிய சொகுசு பஸ் சேவைக்கு எதிராக வேலை நிறுத்தத்தில் ஈடுபட்டது.
+The new luxury bus service launched from Katunayake Bandaranaike Airport to Colombo Fort Railway Station and Makumbura Diversity Transport Service has been suspended from Monday (19).
 
-அத்தோடு இது தொடர்பில் போக்குவரத்து மற்றும் நெடுஞ்சாலை அமைச்சு மற்றும் தேர்தல் ஆணைக்குழுவிடம் முறைப்பாடு பதிவு செய்தது.
+The new luxury bus service was launched at the Katunayake airport at the Katunayake airport on the 15th of this month.
 
-இந்த வேலை நிறுத்தப் போராட்டத்திற்கு வாடகை வாகன சங்கமும் ஆதரவை வழங்கி இருந்தது.
+On the 16th, the Airport - Fort Bus Employees Union went on strike against the new luxury bus service.
+
+In this regard, the Ministry of Transport and Highways and the Election Commission lodged a complaint.
+
+The rented vehicle association also supported the strike.
+
+In this case, it has been decided to temporarily suspend the new luxury bus transport service, which has been launched for only 4 days after the complaints have been initiated.
 
 ...
 
 [Data](articles/64d037b5.json)
 
+[Extended Data](ext_articles/64d037b5.ext.json)
+
 ---
 
-### தேர்தல் வன்முறை அச்சுறுத்தல் அறகலய காலகட்டத்தில் இருந்து வரவில்லை
+### The threat of election violence did not come from the time of the Charity period
 
 *2024-08-20 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/191489) · `ta`
 
-பாராளுமன்ற உறுப்பினர் ஒவ்வொருவருக்கும் இரு  றிப்பீட்டர் துப்பாக்கிகளை வழங்குவதற்கு அரசாங்கம் எடுத்த தீர்மானம் தேர்தல் நெருங்கும் நிலையில் அவர்களை இலக்கு வைக்கக்கூடிய வன்முறை தீவிரமடையும் என்று ஏற்பட்டிருக்கும் அச்சத்தின் அறிகுறியாகும். அறகலய காலகட்ட வன்முறையை கருத்திற்கொண்டு ஒவ்வொரு பாராளுமன்ற உறுப்பினருக்கும் இரு றிப்பீடடர் துப்பாக்கிகளை வழங்குவதற்கு தீர்மானம் ஒன்று எடுக்கப்பட்டிருக்கிறது என்றும்  அவற்றைப் பெறுவதற்கு அவர்கள் கட்டணத்தைச் செலுத்த வேண்டும் என்றும் பாதுகாப்பு அமைச்சு பாராளுமன்ற செயலகத்துக்கு எழுதிய கடிதம் ஒன்றில் தெரிவிக்கப்பட்டிருக்கிறது.
+The text discusses concerns over potential election violence, highlighting the government's decision to arm Members of Parliament (MPs) with guns as a precautionary measure due to anticipated unrest. It contrasts the current climate with past periods of civil unrest, noting differences in triggers and responses. The narrative emphasizes the importance of peaceful transitions through democratic processes, questioning the necessity of arming MPs amidst fears of violence. It advocates for ensuring fair and independent elections as a better approach to safeguarding democracy, rather than resorting to measures that could potentially escalate tensions.
 
-இது ஏற்கெனவே பாராளுமன்ற உறுப்பினர்கள் தங்களது தனிப்பட்ட பாதூகாப்புக்காக பெற்றுக்கொள்வதற்கு உரித்தைக் கொண்ட தன்னியக்க பிஸ்டலுக்கு மேலதிகமானதாகும். இந்த வசதியின் மூலமாக பெறப்படுகின்ற துப்பாக்கிகளை பாராளுமன்றத்தில் இருந்து வெளியேறிய பின்னரும் கூட அவர்கள் அனுமதிப்பத்திரத்தை வருடாந்தம் புதுப்பித்து தொடர்ந்தும் வைத்துக் கொள்ளமுடியும்.
+🟩
+
+The government's decision to deliver two referees to each of the Member of Parliament is a sign of fear that the election will be intensified as the election approaches the election.. In a letter to the Secretariat of the Ministry of Defense, the Ministry of Defense has stated that a resolution has been taken to provide two recruiters guns to each Member of Parliament, considering the violence of the charity.
+
+This is already overdue to the self -inflicted autonomous pistol for parliamentarians to receive their personal safety. Even after they have left the parliament, they can continue to renew the permit annually.
 
 ...
 
 [Data](articles/8afedbd7.json)
+
+[Extended Data](ext_articles/8afedbd7.ext.json)
 
 ---
 

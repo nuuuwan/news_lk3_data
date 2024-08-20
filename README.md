@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 17:06:28**
+As of **2024-08-20 17:21:26**
 
 ## Newspaper Stats
 
-*Scraped **41,703** Articles*
+*Scraped **41,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,515
 dailyftlk | 2,687
 adalk | 3,837
 dailymirrorlk | 4,733
-adaderanalk | 4,882
+adaderanalk | 4,883
 tamilmirrorlk | 5,395
 virakesarilk | 6,622
 adaderanasinhalalk | 7,117
@@ -26,37 +26,63 @@ adaderanasinhalalk | 7,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,700 (100.0%) of 41,703 articles have been extended.
+41,703 (100.0%) of 41,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### සම්ප්‍රදාය බිඳ දමමින් කෘතගුණ දැක්වූ ජනපති අපේක්ෂිකාව
+### Four buses torched in Wennappuwa
+
+*2024-08-20 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101377/four-buses-torched-in-wennappuwa) · `en`
+
+An incident has been reported where four buses were allegedly set on fire in the Wennappuwa area.
+
+The luxury buses in question, which had been brought for repairs, were reportedly set ablaze early this morning (20) at a vehicle repair shop on Lake Road, Wennappuwa.
+
+It is reported that one bus was completely destroyed in the fire.
+
+Meanwhile, footage from a nearby CCTV camera, show a person arriving and setting fire to the buses before fleeing the area.
+
+Police estimate that the fire has caused nearly Rs. 30 million in damages.
+
+◼️
+
+[Data](articles/9e2f57e0.json)
+
+---
+
+### Presidential candidate for breaking the tradition
 
 *2024-08-20 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200138) · `si`
 
-අමෙරිකානු ඩිමොක්‍රොටික් පක්ෂ ජාතික සම්මේලනය චිකාගෝ හිදී ඊයේ (19) ආරම්භ විය.
+The American Democrat Party launched its presidential campaign in Chicago, led by USriso Biday, a former Secretary of State backed by Hillary Clinton. This marks a break from tradition as candidates usually address the church on the last day of the convention. The event was highlighted by President Joe Biden's warm reception and his emphasis on the importance of his decision to run for vice president in the 2020 election.
 
-ඒ, අමෙරිකානු ජනාධිපතිවරණයේ ඩිමොක්‍රටික් පක්ෂ අපේක්ෂිකා කමලා හැරිස්, අමෙරිකානු ජනාධිපති ජෝ බයිඩන්, හිටපු අමෙරිකානු රාජ්‍ය ලේකම් හිලරි ක්ලින්ටන් රමුඛ ඩිමොක්‍රටික් පාක්ෂිකයින්ගේ ප්‍රධානත්වයෙනි.
+🟩
 
-පක්ෂ සම්මේලනය ඇමතූ ඩිමොක්‍රටික් පක්ෂ ජනාධිපති අපේක්ෂක කමලා හැරිස් එහිදී ජනාධිපති ජෝ බයිඩන්ට කෘතගුණ දක්වීම කාගේත් අවධානය දිනාගත් කරුණක් විය.
+The American Democott Party (UP) commenced yesterday at Chicago yesterday.
 
-ඇය අවධාරණය කළේ ඩිමොක්‍රටික් පාක්ෂිකයින් සෑමවිටම ජනාධිපති බයිඩන්ට ණයගැති  බවය.
+The US presidential election, the Democratic Party candidate, USriso Biday, former American Secretary of State Hillary Clinton is the main democratic supporters of the main democratic supporters.
 
-ජනාධිපති අපේක්ෂකයා පළමු දිනයේදීම සම්මේලනයට එක්වුවත් සම්මේලනය අවසන් දිනයේදී සභාව ඇමතීම සාමාන්‍ය සම්ප්‍රදාය වේ.
+The Democratic Party addressed the party convention was a matter of gratitude to President Joe Bidan.
 
-හැරිස් මෙලෙස සම්ප්‍රදාය බිඳ දැමීම, ඇය පක්ෂ අපේක්ෂකත්වයට පත්වූ අසාමාන්‍ය ස්වභාවයත් හේතුවන්නට ඇති බවට ඇතැම් පිරිස් මත පළකරයි.
+She emphasized that Democrats were always indebted by President Bidan.
 
-අමෙරිකානු ජාතික ජෝ බයිඩන් ද ජාතික සම්මේලනය ඇමතූ අතර එහිදී ජනාධිපතිවරයාට පාක්ෂිකයින්ගෙන් හිමිවූයේ උණුසුම් පිළිගැනීමකි.
+The presidential candidate joined the convention on the first day, while the convention is the ordinary custom to address the church on the last day.
 
-ජනාධිපති බයිඩන් වේදිකාව මතදී සංවේදී වූ අයුරු විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+Some men, the tradition of Harris breaking the tradition, and she may have caused the unusual character of party candidate.
 
-සම්මේලනය අමතමින් ජනාධිපති බයිඩන් පැවසුවේ අමෙරිකානු ජනාධිපති ධුරය දැරීම තමන් ලද භාග්‍යයක් බවය.
+USA Biden addressed the National Federation and the President received a warm welcome from the party.
+
+The sensitive to the President's Biden stage was foreign media reports.
+
+Addressing the conference, President Biden said that he was the privilege of being the US presidency.
 
 ...
 
 [Data](articles/0f2c19c9.json)
+
+[Extended Data](ext_articles/0f2c19c9.ext.json)
 
 ---
 
@@ -82,21 +108,27 @@ U.S. Secretary of State Antony Blinken is in the Middle East this week trying to
 
 ---
 
-### වෙන්නප්පුවේදී බස් රථ 04ට ගිනි තියයි
+### Four buses set on fire in Wennappuwa
 
 *2024-08-20 16:24:30* · [`adalk`](https://www.ada.lk/breaking_news/වෙන්නප්පුවේදී-බස්-රථ-04ට-ගිනි-තියයි/11-411463) · `si`
 
-අලුත්වැඩියා කටයුක්තක් සදහා වෙන්නප්පුව වැව පාරේ ගරාජයක නවතා තිබු බස් රථ හතරක් අද(20දා) අලුයම 2.30 ට පමණ හදිසි ගින්නකින් විනාශ විමේ සිද්ධියක් සම්බන්දයෙන් වෙන්නප්පුව මුලස්ථාන පොලිසිය පරික්ෂණයක් ආරම්භ කර ඇත.
+In Wennappuwa, four buses were torched around 2:30 am, with one completely destroyed and three others damaged. A local resident is suspected of setting the fire.
 
-ගරාජය තුළ පැතිරිගිය ගින්නෙන් නවින පන්නයේ බස් රථයක් සම්පුර්ණයෙන් ගිනිගෙන ඇති අතර තවත් බස් රථ තුනකට ගින්නෙන් සුලු හානි සිදුව තිබේ.
+🟩
 
-ගින්නෙන් බස් රථවලට සිදුවි හානිය රුපියල් කෝටි තුනක් පමණ බව පොලිසිය සදහන් කරයි.
+Four buses stopped in the Wennappuwa tank on Wennappuwa tank around 2.30 am today.
 
-අලුයම් කාළයේදි   කිසියම් පුද්ගලයකු බස් රථයකට ගිනි තබා  දිව යන ආකාරය අසල නිවසක සවිකර තිබු සිසිටිවි කාමරාවක සටහන් වි ඇති බව අප වාර්තාකරු සඳහන් කළේය.
+A bus in the garage has completely burned the fire and another three buses have been damaged by fire.
+
+Police say that the damage to the fire was about Rs.
+
+According to our correspondent, a civilian installed in a house to set fire to a bus in the early hours of fire.
 
 ◼️
 
 [Data](articles/ea062536.json)
+
+[Extended Data](ext_articles/ea062536.ext.json)
 
 ---
 
@@ -628,21 +660,31 @@ Asoka Priyantha made his decision on Tuesday (20).
 
 ---
 
-### புதிய நாடாளுமன்றத்தின் ஒரு வருட காலத்திற்குள்  நிறைவேற்றதிகார ஜனாதிபதி முறைமையை முற்றாக இல்லாதொழிப்போம் என்ற உத்தரவாதத்தை சகல ஜனாதிபதி வேட்பாளர்களும் வழங்கவேண்டும் -சிவில் சமூக பிரதிநிதிகள் வேண்டுகோள்
+### All Presidential candidates should be given the guarantee that the executive presidency will be completely abolished within a year of the new Parliament.
 
 *2024-08-20 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191517) · `ta`
 
-புதிய நாடாளுமன்றத்தின் ஒரு வருட காலத்திற்குள் நிறைவேற்றதிகார ஜனாதிபதி முறை நீக்கப்படும் என ஜனாதிபதிதேர்தல்  வேட்பாளர்கள் உறுதி மொழி வழங்கவேண்டும் என சிவில்சமூகத்தின் பிரதிநிதிகள் வேண்டுகோள் விடுத்துள்ளனர்.
+Civil society urges presidential candidates to commit to abolishing the executive presidency within a year of the new Parliament, citing its negative impacts on the economy, racial tensions, and overall stability in Sri Lanka. This reform is seen as crucial for the country's regeneration.
 
-2024 ஜனாதிபதி தேர்தலில் போட்டியிடும் அனைத்து வேட்பாளர்களும் புதிய நாடாளுமன்றத்தின் ஒரு வருடகாலத்தில் நிறைவேற்றதிகார ஜனாதிபதி முறையை நீக்குவோம் என்ற உறுதியான பகிரங்கமான உறுதிமொழியை வழங்கவேண்டும் என சிவில் சமூக பிரதிநிதிகள் வேண்டுகோள் விடுத்துள்ளனர்.
+🟩
 
-1978ம் ஆண்டின் அரசமைப்பின் 48வருடகால  செயற்பாட்டின் அனுபவங்கள், நிறைவேற்றதிகார ஜனாதிபதி முறை  ஏற்படுத்தப்பட்ட நோக்கத்தை அது நிறைவேற்றவில்லை என்பதை வெளிப்படுத்தியுள்ளது என சிவில் சமூகத்தின் பிரதிநிதிகள் தெரிவித்துள்ளனர்.
+Representatives of the civil society have requested the presidential election candidates to ensure that the presidency will be abolished within a year of the new parliament.
 
-துரிதப்படுத்தப்பட்ட, பேண்தகு பொருளாதார வளர்ச்சி அபிவிருத்தி சமூக ஐக்கியம் போன்ற அது ஏற்படுத்தப்பட்டமைக்கான என சிவில் சமூக பிரதிநிதிகள் தெரிவித்துள்ளனர்.
+Civil community representatives have requested that all candidates contesting the 2024 presidential election be a firm pledge to abolish the executive presidency of the new parliament in a year.
+
+Rep.
+
+Civil society representatives have said that it has been formed as expedited, such as the social development of the social development.
+
+Executive power has only had the impact of neglecting the economy, and by accelerating racism, our political system is often affected by crisis and it has been a serious impact on peace and stability.
+
+The lack of responsibility and lack of responsibility has had this undesirable consequences, which has helped defeat the general public of Sri Lankans in Sri Lanka, which has had this undesirable consequences, and the civil society representatives said.
 
 ...
 
 [Data](articles/89582c25.json)
+
+[Extended Data](ext_articles/89582c25.ext.json)
 
 ---
 
@@ -2317,23 +2359,5 @@ The current Chancellor of the University of Oxford, it recently announced that C
 [Data](articles/557ea52d.json)
 
 [Extended Data](ext_articles/557ea52d.ext.json)
-
----
-
-### What would Ranil do Prabhakaran
-
-*2024-08-20 07:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனை-ரணில்-என்ன-செய்திருப்பார்/175-342486) · `ta`
-
-In the upcoming presidential election, former parliamentarian Sujeewa Senasinghe suggests that if Prabhakaran were alive, he would likely support Ranil, indicating a potential alliance beyond just Prabhakaran.
-
-🟩
-
-Prabhakaran is not the only on this presidential election. Former parliamentarian Sujeewa Senasinghe said that Prabhakaran would have joined Ranil if he was still alive.
-
-◼️
-
-[Data](articles/3daab0a4.json)
-
-[Extended Data](ext_articles/3daab0a4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 21:56:10**
+As of **2024-08-20 22:09:34**
 
 ## Newspaper Stats
 
-*Scraped **41,742** Articles*
+*Scraped **41,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,84 @@ economynextcom | 2,515
 dailyftlk | 2,687
 adalk | 3,843
 dailymirrorlk | 4,733
-adaderanalk | 4,888
+adaderanalk | 4,889
 tamilmirrorlk | 5,402
 virakesarilk | 6,631
-adaderanasinhalalk | 7,128
+adaderanasinhalalk | 7,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,739 (100.0%) of 41,742 articles have been extended.
+41,742 (100.0%) of 41,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### මෛත්‍රී පාස්කු වන්දි මුදල ගෙවා අවසන් කරයි
+### දුප්පත්කම තුරන් කිරීමට නව වැඩපිළිවෙළක් -  සජිත්
+
+*2024-08-20 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200153) · `si`
+
+මෙරට සමූපකාර ව්‍යාපාරයද සම්බන්ධ කරගනිමින් ජන සවියෙන් ඔබ්බට ගිය දුප්පත්කම තුරන් කිරීමේ නව වැඩපිළිවෙළක් ඉදිරියේදී ක්‍රියාත්මක කරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් සමූපකාර කර්මාන්ත සහ වෙළෙඳ හමුව අද පස්වරුවේ පැවැත්වුණේ කොළඹ නෙලුම් පොකුණ රඟහලේදීය.
+
+මෙහිදී පළාත් 9ය නියෝජනය කරන සමූපකාර නායකයින් සහ සජිත් ප්‍රේමදාස මහතා අතර ගිවිසුමක්ද අත්සන් තැබුණි.
+
+◼️
+
+[Data](articles/7851f465.json)
+
+---
+
+### Maithripala completes compensation payments to Easter attack victims
+
+*2024-08-20 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101383/maithripala-completes-compensation-payments-to-easter-attack-victims) · `en`
+
+Former President Maithripala Sirisena has completed the payments of compensation of Rs. 100 million to the victims of the Easter Sunday terror attacks as ordered by the court.
+
+Accordingly, it is reported that the former President has paid the remaining amount of Rs. 12 million on August 16, 2024.
+
+◼️
+
+[Data](articles/31c9ced0.json)
+
+---
+
+### T20 කාන්තා ලෝක කුසලාන තරගාවලිය බංග්ලාදේශයෙන් ඉවතට
+
+*2024-08-20 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200152) · `si`
+
+බංග්ලාදේශය තුළ පැවැත්වීමට සූදානම් කර තිබූ විස්සයි 20 කාන්තා ලෝක කුසලාන තරගාවලිය එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය තීරණය කර තිබේ.
+
+මෙවර විස්සයි 20 කාන්තා ලෝක කුසලානය එළඹෙන ඔක්තෝබර් මස 03 වනදා සිට පැවැත්වීමට නියමිතව තිබුණි
+
+බංග්ලාදේශය තුළ පවතින දේශපාලනය අස්ථාවරත්වය හේතුවෙන් එය සැලසුම් කළ ලෙස බංග්ලාදේශයේම පවත්වනවාද, නැතිනම් වෙනත් රටකට රැගෙන යන්නේ දැයි ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය ඉකුත් දින කිහිපයේ සලකා බලමින් සිටියේය.
+
+◼️
+
+[Data](articles/5de1c834.json)
+
+---
+
+### Maithri ends money on payment
 
 *2024-08-20 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200151) · `si`
 
-පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට ගෙවීමට නියම වූ රුපියල් මිලියන 100ක වන්දිය ගෙවා අවසන් කර තිබේ.
+Former President Maithripala Sirisena paid Rs. 12 million to settle his dues, completing the outstanding amount.
 
-ඒ අනුව ඔහු විසින් ගෙවීමට ඉතිරිව තිබූ රුපියල් මිලියන 12ක මුදල 2024.08.16 වනදා ගෙවා අවසන් කර ඇති බව සඳහන්ය.
+🟩
+
+Former President Maithripala Sirisena has paid a cost of Rs.
+
+Accordingly, he has paid Rs. 12 million to pay the remaining Rs.
 
 ◼️
 
 [Data](articles/14bbc27d.json)
+
+[Extended Data](ext_articles/14bbc27d.ext.json)
 
 ---
 
@@ -106,23 +158,33 @@ The commemorative stamp was presented to President Ranil Wickremesinghe, accordi
 
 ---
 
-### மன்னார் யுவதி மரணம் :வைத்தியர் பணியிடை நீக்கம்
+### Mannar Yuvati Death: Removal of Doctor's Workplace
 
 *2024-08-20 20:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-யுவதி-மரணம்-வைத்தியர்-பணியிடை-நீக்கம்/175-342527) · `ta`
 
-மன்னார் மாவட்ட பொது வைத்தியசாலையில் மரியராஜ் சிந்துஜா என்ற இளம் பெண் உயிரிழந்த சம்பவம் தொடர்பில் வைத்தியர் ஒருவரை பணியிடை நீக்கம் செய்வதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+In response to the death of Marraj Sindhuja at Mannar District General Hospital from high blood pressure, four nurses and two family health officers were dismissed before investigations. The Director General of the Northern Provincial Health Services announced plans to remove a doctor involved but the action hasn't reached the hospital yet. Investigations by the Union Health Ministry officials continue.
 
-அண்மையில் குழந்தையைப் பிரசவித்த 27 வயதான மரியராஜ் சிந்துஜா என்ற பட்டதாரி பெண், அதிக குருதி போக்கு காரணமாக கடந்த மாதம் 28ஆம் திகதி மன்னார் பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்தார்.
+🟩
 
-எவ்வாறாயினும் அந்தச் சந்தர்ப்பத்தில் அங்கிருந்த வைத்தியர்கள் அவருக்கு உரிய முறையில் சிகிச்சையளிக்கவில்லை எனவும் வைத்தியர்களின் அசமந்த போக்கின் காரணமாகவே அவர் உயிரிழந்ததாகவும் குற்றஞ்சாட்டப்படுகிறது.
+Steps have been taken to remove a doctor in connection with the death of a young woman named Marraj Sindhuja at the Mannar District General Hospital.
 
-இந்த நிலையில் குறித்த சம்பவம் தொடர்பான விசாரணைகளுக்கு அமைய முன்னதாக, இரண்டு தாதியர்களுக்கும் இரண்டு குடும்பநல சுகாதார உத்தியோகத்தர்களுமாக நான்கு பேர் பணியிடை நீக்கம் செய்யப்பட்டுள்ளனர்.
+A 27 -year -old Graduate Graduate Woman, a 27 -year -old, died after being admitted to the Mannar General Hospital last month due to high blood vessels.
 
-இந்த நிலையில் குறித்த சம்பவம் தொடர்பில் வைத்தியர் ஒருவருக்கும் பணியிடை நீக்கம் வழங்குவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வட மாகாண சுகாதார சேவைகள் பணிப்பாளர் நாயகம் தெரிவித்தார்.
+However, on the occasion, the doctors were not treated by him properly and that he died due to the unhappiness of the doctors.
 
-...
+Before investigations into the incident, four nurses and two family health officers have been sacked.
+
+The Director General of the Northern Provincial Health Services Services Services said that steps have been taken to remove a workplace for a doctor in connection with the incident.
+
+However, the letter has not yet reached the Mannar District General Hospital, according to hospital sources.
+
+Meanwhile, a group of officials of the Union Health Ministry have been conducting investigations into the death of Mariaraj Sindhuja today.. Remble
+
+◼️
 
 [Data](articles/4a841a64.json)
+
+[Extended Data](ext_articles/4a841a64.ext.json)
 
 ---
 
@@ -290,17 +352,23 @@ It is said that 642 complaints were regarding violating election laws.
 
 ---
 
-### மீட்பர் ரணில் அல்லர்: இந்தியாவே மீட்டது
+### Ranil is not Ranil: India rescued
 
 *2024-08-20 18:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்பர்-ரணில்-அல்லர்-இந்தியாவே-மீட்டது/175-342524) · `ta`
 
-இலங்கை ரூபா பெறுமதியில், 120,000 இலட்சம் ரூபாய்களுக்கு நிகரான, 400 கோடி அமெரிக்கா டாலர் தொடர் கடன் (Indian Credit Line) நிதி உதவியை இந்திய அரசு தந்ததால்தான், பெட்ரோல், உணவு, காஸ், மருந்து வரிசைகள், மின்வெட்டுகள், உர தட்டுபாடு ஆகியவற்றில் இருந்து எமது நாடு காப்பாற்ற பட்டது. இந்த உண்மையை மறைத்து ரணில் விக்கிரமசிங்க நரித்தனமாக பேசி தெரிகிறார்.
+India extended a $400 million credit line to Sri Lanka, aiding in resolving shortages of petrol, food, gas, pharmaceuticals, electricity, and fertilizers. This decision was made before Ranil Wickremesinghe took office as Prime Minister and President in July 2022. Despite claims by Ranil that he played a significant role in securing this aid, it was already in progress. The assistance has significantly alleviated Sri Lanka's critical shortages, including agricultural fertilizers obtained through the Indian Loan Fund.
 
-இலங்கைக்கு இந்திய அரசின் தொடர் கடன் (Indian Credit Line) நிதி உதவி வழங்க வேண்டும் என இந்திய அரசு, 2021ம் வருடம், டிசம்பர் மாதம், கொள்கைரீதியாக முடிவு எடுத்தது. இவை ரணில் ஆட்சிக்கு வர முன்னர் தீர்மானிக்க பட்டவை. அதன் பிறகு, 2022ம் வருட மே மாதம் பிரதமராகவும், ஜூலை மாதம் ஜனாதிபதியாகவும் ரணில் பதவிகளை ஏற்றார். ரணில் பதவிக்கு வந்து இவற்றை பயன்படுத்தினார். ரணில் பதவிக்கு வந்து சுய முயற்சியால் இவற்றை கொண்டு வரவில்லை.  இந்த உதவிகள் இந்திய அரசு, இலங்கை மக்களுக்கு, இலங்கை நாட்டுக்கு வழங்கிய பெரும் உதவிகளாகும்.
+🟩
+
+The Indian government has provided financial assistance to the US $ 400 billion in the Sri Lankan rupee, our country has been saved from petrol, food, gas, pharmaceuticals, electricity and fertilizers.. Ranil Wickremesinghe is talking about this fact.
+
+In December 2021, the Government of India decided to provide financial assistance to Sri Lanka's Indian Credit Line. These are deciding before Ranil came to power. Subsequently, Ranil assumed positions as Prime Minister and President in July 2022. Ranil came to office and used these. Ranil did not bring these things with self -effort.These assistance is a great assistance provided by the Government of India, the Sri Lankan people and the Sri Lankan country.
 
 ...
 
 [Data](articles/2a6e7536.json)
+
+[Extended Data](ext_articles/2a6e7536.ext.json)
 
 ---
 
@@ -2289,71 +2357,5 @@ People lost their possessions. The homes of the people have been demolished. Mor
 [Data](articles/3b6ce75e.json)
 
 [Extended Data](ext_articles/3b6ce75e.ext.json)
-
----
-
-### Presidential election without female candidates…
-
-*2024-08-20 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191506) · `ta`
-
-In Sri Lanka's upcoming presidential election, despite legal provisions for gender equality, no women have nominated themselves, marking a lack of female representation and highlighting ongoing challenges for women in politics. This election, with the highest number of male candidates in the country's history, is seen as reflecting a patriarchal culture despite international agreements aimed at eliminating gender discrimination. The absence of female candidates underscores the need for greater efforts to encourage women's participation in politics, given that more than half of Sri Lanka's population is female.
-
-🟩
-
-Elections to elect the ninth executive president will be held on September 21st. With 40 people, only 39 filed nominations.This includes three Tamils ​​and two Muslims. It is also a presidential election, with no female candidates, while the highest number of candidates are contesting in Sri Lanka's history.
-
-Despite the legal provisions for gender equality, no women have come forward to contest the presidential election this year to illustrate the continued challenges faced by women in Sri Lankan politics.. Because of this, it is described as a patriarchal presidential election.
-
-...
-
-[Data](articles/ccb03822.json)
-
-[Extended Data](ext_articles/ccb03822.ext.json)
-
----
-
-### A three-month infant dies after breaking mother milk
-
-*2024-08-20 10:55:15* · [`adalk`](https://www.ada.lk/breaking_news/මව්-කිරි-හිරවීමෙන්-මාස-තුනක-බිළිඳියක්-මිය-යයි/11-411456) · `si`
-
-In Muraluvil, Jaffna, a three-and-a-half-month-old girl named Kapilan Announcer died from complications related to breastfeeding. The incident occurred at the Chavakachcheri Hospital where her mother was also admitted. The police are investigating the cause of death.
-
-🟩
-
-A girl was killed three and a half months due to the mother milk in Muraluvil, Jaffna yesterday.
-
-The doctors of the Chavakachcheri hospital told the Chavakachcheri Hospital that the mother was taken to the Chavakachcheri Hospital while the mother had breastfeeding at the infant.
-
-The deceased has been identified as Kapilan Announcer, a resident of Murushivil North, Jaffna.
-
-The body of the deceased was placed at the Chavakachcheri Hospital while the Chavakachcheri Police are conducting further investigations.
-
-◼️
-
-[Data](articles/3da77ee9.json)
-
-[Extended Data](ext_articles/3da77ee9.ext.json)
-
----
-
-### ‘Club Wasantha’ murder: Suspects produced before court
-
-*2024-08-20 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101367/club-wasantha-murder-suspects-produced-before-court) · `en`
-
-The 11 suspects, including a female suspect, who were arrested in connection with the shooting and killing of two persons including Surendra Wasantha Perera alias ‘Club Wasantha’ in Athurigiriya, have been produced before the Kaduwela Magistrate’s Court again today (20).
-
-The suspects were produced before the court   amidst tight security by the Police Special Task Force (STF), according to Ada Derana reporter.
-
-The legal case related to the incident is scheduled to be taken up before court this afternoon.
-
-Police had arrested eleven suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place on July 08 and a 21-year-old female on suspicion of having aided and abetted in the shooting incident.
-
-During the investigations carried out thus far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million over a period of time.
-
-...
-
-[Data](articles/5d1bbdaa.json)
-
-[Extended Data](ext_articles/5d1bbdaa.ext.json)
 
 ---

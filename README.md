@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 07:29:56**
+As of **2024-08-20 07:51:06**
 
 ## Newspaper Stats
 
-*Scraped **41,595** Articles*
+*Scraped **41,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,74 +15,178 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,507
 dailyftlk | 2,687
-adalk | 3,824
+adalk | 3,825
 dailymirrorlk | 4,733
-adaderanalk | 4,865
+adaderanalk | 4,867
 tamilmirrorlk | 5,370
 virakesarilk | 6,601
-adaderanasinhalalk | 7,094
+adaderanasinhalalk | 7,097
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,576 (100.0%) of 41,595 articles have been extended.
+41,585 (100.0%) of 41,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### ගෑස් සිලින්ඩරය ඡන්ද ලකුණ කරගත් හේතුව ගැන ජනපතිගෙන් ප්‍රකාශයක්
+### මහනුවර ඇසළ පෙරහැරේ දියකෑපීමේ මංගල්‍ය ඇරඹෙයි
+
+*2024-08-20 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200118) · `si`
+
+මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ ඇසල පෙරහැර මංගල්‍යයේ අවසන් රන්දෝලි පෙරහැර ඊයේ (19) රාත්‍රි වීදී සංචාරය කෙරුණි.
+
+ඊයේ රාත්‍රී 6.57ට යෙදුණු සුබ මොහොතින් උතුරු දිශාභිමුඛව ගමන් ආරම්භ කෙරෙනු අවසන් රන්දෝලි පෙරහැරේ සධාතුක කරඬුව වැඩම කරවීම සිදුකරනු ලැබුවේ ශ්‍රී දළදා මාළිගාවේ ඉන්දිරාජා හස්තියාය.
+
+දළදා වීදිය, යටිනුවර වීදිය, කන්දෙ වීදිය, ඩී.එස් සේනානායක වීදිය ඔස්සේ ගමන් කළ පෙරහැර රජ වීදිය ඔස්සේ ඉහළට විත් ගෙවැදීම සිදුවුණි.
+
+අවසන් රන්දෝලි පෙරහැරෙන් අනතුරුව අද (20) උදෑසන මහනුවර ගැටඹ තොටේ දී දිය කැපීමේ චාරිත්‍රය සිදුකිරීමට නියමිත බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/db5734af.json)
+
+---
+
+### ඉම්රාන් ඛාන්ගේ මීළඟ සැලසුම එළියට
+
+*2024-08-20 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200117) · `si`
+
+පාකිස්තානයේ හිටපු අග්‍රමාත්‍ය සිරගතව සිටින ඉම්රාන් ඛාන් ලොව වඩාත් කීර්තිමත් විශ්වවිද්‍යාලයක් ලෙසින් සැලකෙන බ්‍රිතාන්‍යයේ ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයේ මීළඟ කුලපතිවරයා වීම සඳහා අයදුම් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මේ බව ඉම්රාන් ඛාන්ගේ දේශපාලන පක්ෂය වන ටේහ්රීක් -ඊ-ඉන්සාෆ් (PTI) පක්ෂය සිය  'X' ගිණුමෙන්ද තහවුරු කර ඇත.
+
+එහි දැක්වෙන පරිදි පී.ටී.අයි. පක්ෂයේ ලන්ඩනයේ ප්‍රකාශක සයීඩ් සුල්ෆිකර් බුහාරි හරහා ඉම්රාන් ඛාන් තම අයදුම්පත විධිමත් ලෙස ඔක්ස්ෆර්ඩ් පාලනාධිකාරිය වෙත යොමුකර තිබේ.
+
+ඒ අනුව ඔහු කුලපති ධුරයට පත් වුවහොත් එම විශ්වවිද්‍යාලයේ කුලපති ධුරයට පත්වන ආසියානු සම්භවයක් ඇති පළමු පුද්ගලයා ඔහු වනු ඇත.
+
+එමෙන්ම පාකිස්තානයේ පළමු අගමැතිනිය වන බෙනාසීර් භූතෝ ඇතුළු පාකිස්තානයේ අගමැතිවරු හය දෙනෙක් සහ ජනාධිපතිවරු දෙදෙනෙකුද ඔක්ස්ෆර්ඩ් හි අධ්‍යාපනය ලබා ඇත.
+
+ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයේ වත්මන් කුලපති වන ක්‍රිස් පැටන් එළැඹෙන පෙබරවාරි මාසයේදී සිය තනතුරෙන් ඉල්ලා අස්වන බව පසුගියදා නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/557ea52d.json)
+
+---
+
+### Heavy showers above 100mm expected - Met Dept
+
+*2024-08-20 07:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101361/heavy-showers-above-100mm-expected-met-dept) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
+
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur at several places in Eastern, Uva and North-Central Provinces during the evening or night, it said.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/8d304540.json)
+
+---
+
+### ටෙස්ට් පිටියට කලකට පසු එන පොට්ස්
+
+*2024-08-20 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200116) · `si`
+
+ශ්‍රී ලංකාව හා එංගලන්තය අතර මේ මස 21වැනිදා ආරම්භ වන තරග 3කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලියේ පළමු තරගයට ක්‍රීඩාකරන එංගලන්ත සංචිතය ඊයේ (19) පස්වරුවේ නිවේදනය කළේය.
+
+ඒ අනුව ආබාධයකට ලක්ව සිටින නිත්‍ය ටෙස්ට් නායක බෙන් ස්ටෝක්ස්ගේ ස්ථානයට යොවුන් තුන්ඉරියව් ක්‍රීඩකයෙකු වන මැතිව් පොට්ස් කැඳවා තිබේ.
+
+මේ වනවිට 25 වියේ පසුවන පොට්ස් මීට පෙරද එංගලන්තය නියෝජනය කළ ක්‍රීඩකයෙකු වුවත්, 2023 වසරේ ජනවාරි මස අයර්ලන්තයට එරෙහි ටෙස්ට් තරගය ක්‍රීඩා කිරීමෙන් පසු මේ දක්වා ටෙස්ට් කණ්ඩායමේ අවස්ථාවක් ලැබී නොමැත. ඔලී පෝප්
+
+2022 වසරේදී නවසීලන්තයට එරෙහිව ජාත්‍යන්තර ටෙස්ට් වරම් දිනාගත් පොට්ස්, තරග 06කට ක්‍රීඩාකර කඩුලු 23ක් බිඳහෙළා සිටී.
+
+ඔහු සිය මංගල ටෙස්ට් තරගයේදීම ලකුණු 13කට කඩුලු 04ක් දවාගැනීමට සමත් විය.
+
+පළමු පෙළ ක්‍රිකට් තරගයන්හි කැපී පෙනෙන ක්‍රීඩකයෙකු වන පොට්ස්, තරග 55කදී කඩුලු 218ක් බිඳහෙළා ඇත.
+
+අවස්ථා 09කදී කඩුලු පහ බැගින් බිඳහෙළා ඇති ඔහුගේ ඉනිමක හොඳම පන්දු යැවීම 7/40ක් ලෙසින් දැක්වෙයි.
+
+එමෙන්ම පන්දුවට පහරදීමෙන්ද ලකුණු 1067ක් රැස්කර ඇති ඔහු ශතකයක් (නොදැවී 149) හා අර්ධ ශතක 03කට හිමිකම් කියයි.
+
+...
+
+[Data](articles/3067a0c6.json)
+
+---
+
+### President declares open the gas cylinder due to the election
 
 *2024-08-20 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200115) · `si`
 
-නිසි ආර්ථික පරිවර්තනකින් තොරව ‍රජයේ වැඩපිළිවෙළ අතරමග නතර කළහොත් යළිත් රටේ ආර්ථිකය කඩා වැටෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+In a bid to stimulate the economy ahead of elections, President Ranil Wickremesinghe urged citizens to consider their future and participate actively in the upcoming polls. He emphasized the importance of transitioning towards an export-driven economy to prevent another economic collapse, highlighting the need for long-term thinking, especially among the youth.
 
-ජනාධිපතිවරයා පෙන්වා දෙන්නේ, ජනතාව තම අනාගතය ගැන සිතා මෙවර ජනාධිපතිවරණයේ දී තින්දුවක් ගත යුතුව ඇති බවය.
+🟩
 
-සමාජ මාධ්‍ය ජාලා ඔස්සේ ඉදිරිපත් වූ ප්‍රශ්නවලට පිළිතුරු ලබා දීමේ "AskRanil" වැඩසටහනට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේය.
+President Ranil Wickremesinghe says that if the government's economy will collapse again, the country's economy will fall.
 
-"මේ රට මම භාරගත්තේ, වෙන කවුරුත් භාරගන්න නොසිටි අවස්ථාවක. හැම එක්කෙනාම ආර්ථික ප්‍රශ්න විසඳන්න බෑ කිව්වා. දැන් අපි ඒකට විසඳුම ලබාගෙන යනවා. රටේ නව ආර්ථිකයක් ඇති කරන්න. ඒක පරිවර්ථනය කරන්න ඕනේ විශේෂයෙන් ම අපනයන ආර්ථිකයක් හැටියට. අපි ඒ දුර යන්නේ නැත්නම්, අපි කරපු මේ වැඩ රඳා පවත්වන්න බෑ. ඒක කඩා වැටෙයි. මෙතැන තියෙන්නේ ඔබ සියලුදෙනාගේම ඊළඟ අවුරුදු 3 - 4 අනාගතය ගැන හිතන්න. තරුණ අයට තියෙන්නේ තව අවුරුදු 20කින් තමන්ට ඕන රට මොකද්ද කියලා හිතන්න. හිතලා ඡන්දය භාවිත කරන්න..."
+The President pointed out that the people should think about their future and have to take a ging in the presidential election.
+
+President Ranil Wickremesinghe expressed his views participating in the "ASKNIL" program to answer the questions presented by Social Media Brook.
+
+"I accepted this country when I did not accept anyone else.. Everyone could not solve economic problems. Now we're getting the solution to it. Create a new economy in the country. It should be translated as an export economy. If we don't go that far, we cannot rely on. It collapses. Think about the future for the next 3 - 4 years of all of you. Think of what young people have the country in 20 years. Think and vote ... "
 
 ...
 
 [Data](articles/87769c5f.json)
 
+[Extended Data](ext_articles/87769c5f.ext.json)
+
 ---
 
-### පුද්ගලයෙක් ඇතුගලින් ඇදවැටෙයි
+### A person falls in Paraguga
 
 *2024-08-20 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200114) · `si`
 
-ඊයේ (19) උදෑසන ඇතුගලෙන් පුද්ගලයෙකු බිම වැටුණු බවට 119 තොරුතුරු මධ්‍යස්ථානයට දුරකථන ඇමතුමක් ලැබී තිබුණි.
+A person fell in Paraguga yesterday morning and was seriously injured. They were taken to Kurunegala Hospital. The police are investigating the incident.
 
-බරපතළ තුවාල ලබා සිටි එම පුද්ගලයා කුරුණෑගල රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය පවසයි.
+🟩
 
-තුවාලකරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර සිද්ධිය සම්බන්ධයෙන් කුරුණෑගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The information center had been telephoned that a person had fallen to the ground yesterday morning (19).
+
+The man who was seriously injured was admitted to the Kurunegala Hospital.
+
+Kurunegala Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1297fe5c.json)
 
+[Extended Data](ext_articles/1297fe5c.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවු තද වැසි
+### Heavy rains exceeding 100mm
 
 *2024-08-20 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200112) · `si`
 
-බස්නාහිර, සබරගමුව සහ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට අද (20) දිනයේ මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall exceeding 100mm is expected in Western, Sabaragamuwa, Galle, and Matara districts. Showers or thundershowers will also occur in various regions including Eastern, Uva, Central Hills, Northern, North-Central, Northwestern provinces, and Hambantota district. The Department of Meteorology advises caution against temporary winds and lightning during thunderstorms.
 
-එමෙන්ම එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, දකුණු  සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-මේ අතර නැගෙනහිර, ඌව සහ උතරුමැද පළාත්වල සවස් කාලයේ හෝ රාත්‍රි කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Some areas in the Western, Sabaragamuwa and provinces and in the Galle and Matara Districts today (20) mm.. Heavy showers that have more than 100 can occur.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department also said that showers or thundershowers will occur at times in the Western and Sabaragamuwa, Southern and Northwestern provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Meanwhile, showers or thundershowers will occur at several places in the East, Uva and Uva and Uva and north.
+
+West in the central hills and in the North, North, North, North-central and Northwestern provinces and in the Hambantota district.. The Department of Meteorology announces that there are about 30-40 times.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/657553b3.json)
+
+[Extended Data](ext_articles/657553b3.ext.json)
 
 ---
 
@@ -364,19 +468,25 @@ Good Life X recently concluded the intensive residency program of the Creative C
 
 ---
 
-### கொக்குத்தொடுவாயில் இன்று போராட்டம்
+### Struggle today
 
 *2024-08-20 02:09:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குத்தொடுவாயில்-இன்று-போராட்டம்/175-342484) · `ta`
 
-முல்லைத்தீவு, கொக்குத்தொடுவாய் மனிதப் புதைகுழிக்கு முன்பாக இன்று செவ்வாய்க்கிழமை கவனயீர்ப்புப் போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+Protest planned in Mullaitivu, focusing on human rights issues, led by Marisarez Eswari of the Mullaitivu District Missing Relations. The event aims to seek justice for unidentified burials, organized by the Disappeared Relations Association.
 
-முல்லைத்தீவு மாவட்ட காணாமல் ஆக்கப்பட்டோரின் உறவுகளின் சங்கத் தலைவி மரியசுரேஸ் ஈஸ்வரி இந்தத் தகவலைத் தெரிவித்துள்ளார்.
+🟩
 
-கொக்குத்தொடுவாய் உள்ளிட்ட மனிதப் புதைகுழிகளுக்கு உரிய நீதி கோரி காணாமல் ஆக்கப்பட்ட உறவுகள் சங்கத்தின் ஏற்பாட்டில் இந்தப் போராட்டம் முன்னெடுக்கப்படவுள்ளது. (a)
+Mullaitivu, Kokkuttuvai, will be held on Tuesday in front of the human burial ground.
+
+Marisarez Eswari, president of the Mullaitivu District Missing Relations, said this.
+
+The struggle will be carried out in the arrangement of the Disappeared Relations Association seeking justice for human burials, including Kokkuttoduvai.. (A)
 
 ◼️
 
 [Data](articles/33d63f6b.json)
+
+[Extended Data](ext_articles/33d63f6b.ext.json)
 
 ---
 
@@ -624,21 +734,29 @@ Elections Commission officials have said that strict action will be taken agains
 
 ### 2024-08-19 (Monday)
 
-### செப்டம்பர் 21ஆம் திகதிக்கு பின்னர் மீண்டும் நாட்டை அபிவிருத்தி செய்யும் யுகத்தை ஏற்படுத்துவோம் - சுஜீவ சேனசிங்க
+### After September 21, we will re -develop the country -Sujeeva Senasinghe
 
 *2024-08-19 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191481) · `ta`
 
-ராஜபக்ஷ்வினருடன் இணைந்து ரணில் விக்ரமசிங்க ஐக்கிய தேசிய கட்சியையும் ஆதரவாளர்களையும் அழித்துவந்தார். அதனை பொறுத்துக்கொள்ள முடியாமலே சஜித் பிரேமதாச தலைமையில் ஐக்கிய மக்கள் சக்தியை உருவாக்கி கடந்த பொதுத் தேர்தலில் ரணில் விக்ரமசிங்கவை பூச்சியத்துக்கு இறக்கினோம்.
+Following the departure of Ranil Wickremesinghe from the United National Party, Sajith Premadasa leads the United People's Power, aiming to revitalize the country post-September 21. Key figures including Lalith Atulath Mudali, Gamini Dissanayake, and Ranasinghe Premadasa are set to spearhead this development. The speech highlights the destructive impact of LTTE, People's Liberation Front, and the Rajapaksa family on the nation's economy and stability, with Wickremesinghe's involvement criticized. The United People's Power currently holds 46% in election calculations, needing a 4% increase. Addressing the national debt, the party plans to negotiate loan reductions with the IMF and provide financial relief to merchants.
 
-செப்டம்பர் 21ஆம் திகதிக்கு பின்னர், மீண்டும் நாட்டை அபிவிருத்தி செய்த லலித், காமினி, ரணசிங்க பிரேமதாச யுகத்தை உருவாக்குவோம் என ஐக்கிய மக்கள் சக்தியின் உப தலைவர் சுஜீவ சேனசிங்க தெரிவித்தார்.
+🟩
 
-மாவனெல்லை பிரதேசத்தில் திங்கட்கிழமை (19) இடம்பெற்ற தேர்தல் பிரசாரக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+Ranil Wickremesinghe destroyed the United National Party and supporters with Rajapakse. Unable to tolerate this, Sajith Premadasa led the United People's Power and unloaded Ranil Wickremesinghe in the last general election.
 
-ரணில் விக்ரமசிங்க 30 வருடங்களாக கட்சியின் தலைமை பதவியில் இருந்துகொண்டு, கட்சியில் இருந்த திறமையான, ஆளுமைமிக்கவர்களுக்கு சந்தர்ப்பம் வழங்காமல் ராஜபக்ஷ்வினருடன் டீல் போட்டுக்கொண்டு கட்சியை அழித்துக்கொண்டு எங்களையும் மிதித்துக்கொண்டிருந்தார்.
+United People's Power Deputy Chairman Sujeewa Senasinghe said that after September 21, Lalith, Gamini and Ranasinghe will create the Premadasa Yuga, which will again develop the country.
+
+He said this while addressing the election campaign in Mawanella on Monday (19).
+
+Ranil Wickremesinghe has been in the party's leadership for 30 years and has been deal with Rajapakse, destroying the party and destroying the party.
+
+We torn up without being able to tolerate this. In the last general election, Ranil Wickremesinghe unloaded the zero and created the United People's Power under the leadership of Sajith Premadasa. After the upcoming September 21st, I am proud to announce that Lalith Atulath Mudali, Gamini Dissanayake and Ranasinghe Premadasa will create the era.
 
 ...
 
 [Data](articles/ab2b87e6.json)
+
+[Extended Data](ext_articles/ab2b87e6.ext.json)
 
 ---
 
@@ -683,6 +801,24 @@ The general public is therefore kindly requested to take adequate precautions to
 [Data](articles/3751341f.json)
 
 [Extended Data](ext_articles/3751341f.ext.json)
+
+---
+
+### Weather advisory issued for heavy rainfall
+
+*2024-08-19 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101360/weather-advisory-issued-for-heavy-rainfall) · `en`
+
+The Meteorology Department has issued an advisory for heavy rainfall, valid for the next 24 hours, for the Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+It states that the prevailing showery condition are expected to continue in the southwestern part of the island due to the low-level atmospheric disturbance in the vicinity of Sri Lanka.
+
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, the advisory warned.
+
+The general public is therefore kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/523f7a31.json)
 
 ---
 
@@ -928,6 +1064,20 @@ Ahead of the upcoming presidential election, the Election Commission had met wit
 
 ---
 
+### ඉන්දි රාජාට ලැබුණ වාසනාව
+
+*2024-08-19 20:16:20* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දි-රාජාට-ලැබුණ-වාසනාව/10-411449) · `si`
+
+මහනුවර ඓතිහාසික ඇසළ පෙරහරේ අවසන් රන්දෝලි මහ පෙරහර අද (19) වීදි සංචාරය කළේය .
+
+ශ්‍රී දළදා මාලිගාවේ සධාතුක කරඬුව දරාගත් ඉන්දිරාජා හස්තියා සවස 6.57 ට යෙදුණ සුබ මොහුර්තියෙන් සඳගල පා තැබීමත් සමඟ අවසන් රන්දෝලි මහ පෙරහරේ සමාරම්භය සනිටුහන් වූ අතර ඉන්දි රාජා හස්තියාගේ පරිවාර ඇතුන් ලෙස ශ්‍රී දළදා මාලිගාවේ ඇත් පන්තියේ මියන් රාජා සහ කෝට්ටේ රජමහා විහාරයට අයත් කෝට්ටේ රාජා යන හස්තීන් ගමන් කළේය .
+
+◼️
+
+[Data](articles/2b385b1f.json)
+
+---
+
 ### Presidential Hopefuls Should Give Top Priority To Make Sri Lanka A Creative Economy – Part II
 
 *2024-08-19 20:14:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-hopefuls-should-give-top-priority-to-make-sri-lanka-a-creative-economy-part-ii/) · `en`
@@ -1064,6 +1214,8 @@ LAUGFS Holdings has been recognized with a prestigious Gold Award at the SLITAD 
 
 [Data](articles/127f35c5.json)
 
+[Extended Data](ext_articles/127f35c5.ext.json)
+
 ---
 
 ### Pelwatte Dairy launches landmark initiative with international support
@@ -1076,6 +1228,8 @@ Pelwatte Dairy Industries Limited, a leading dairy manufacturer in Sri Lanka, ha
 
 [Data](articles/c45b44b1.json)
 
+[Extended Data](ext_articles/c45b44b1.ext.json)
+
 ---
 
 ### ‘Pharmaceutical sector of Sri Lanka has increasing potential to penetrate Vietnamese market’
@@ -1087,6 +1241,8 @@ The embassy of Sri Lanka in collaboration with Export Development Board (EDB) or
 ...
 
 [Data](articles/5dad7305.json)
+
+[Extended Data](ext_articles/5dad7305.ext.json)
 
 ---
 
@@ -1103,6 +1259,8 @@ In addition to the children, the workshops also welcomed parents and teachers, w
 ...
 
 [Data](articles/ddd163fe.json)
+
+[Extended Data](ext_articles/ddd163fe.ext.json)
 
 ---
 
@@ -2033,161 +2191,5 @@ Accordingly, the school student who was admitted to hospital was deceased and th
 [Data](articles/d5b18af0.json)
 
 [Extended Data](ext_articles/d5b18af0.ext.json)
-
----
-
-### 35 pound jewelery grab
-
-*2024-08-19 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191438) · `ta`
-
-During the Murugan Temple's annual chariot festival in Jaffna, thieves targeted attendees, stealing about 35 pounds of gold jewelry. The incident occurred as devotees from various locations celebrated the event. Following complaints, the Valvettithurai police initiated an investigation into the theft.
-
-🟩
-
-About 35 pounds of gold jewelery of the devotees attending the festival of Murugan Temple in Jaffna have been taken away.
-
-The annual chariot festival of Murugan Temple was held on Sunday (18).
-
-During the festival, a large number of devotees from many parts of the country and abroad visited the temple and witnessed the chariot festival.
-
-At the same time, the thieves showed their handicrafts using the gentlemen in the temple environments.
-
-The valuable gold jewelery of many devotees has been taken. About 35 pounds of jewelery have been seized on the basis of their complaints, the Valvettithurai police said.
-
-◼️
-
-[Data](articles/f8329dbc.json)
-
-[Extended Data](ext_articles/f8329dbc.ext.json)
-
----
-
-### Fire at home in Miravoda!
-
-*2024-08-19 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191432) · `ta`
-
-A house in Meeravoda, near Valaichenai, caught fire early Monday morning, likely sparked by thieves who broke in last week and returned to steal money. Neighbors managed to control the blaze, but it caused minor injuries and damage to the property.
-
-🟩
-
-A house in Meeravoda, which belongs to the Valaichenai police division, was set on fire at around 3 am on Monday (19).
-
-Neighbors have brought control of the fire after they shouted that the house was suddenly set on fire while sleeping.
-
-Ottamavadi - Meeravodai - 4th Circle of Noorania Road has been partially set on fire.
-
-People who went to the fire extinguish have suffered minor injuries and the electricity and furniture in the house have been caught in a fire.
-
-It is reported that the thief came through the window about a week ago at the house and stole the money from the house today (19).
-
-Also, when the house woke up, they saw the thief ran away from the house.
-
-◼️
-
-[Data](articles/03d677b9.json)
-
-[Extended Data](ext_articles/03d677b9.ext.json)
-
----
-
-### American ship suddenly arrived at the Port of Colombo
-
-*2024-08-19 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200098) · `si`
-
-A US Navy vessel, the USS Spruance, docked at Colombo's port on its 338th voyage, expected to fulfill supply and service needs before departing the next day.
-
-🟩
-
-A US Navy ship arrived at the Port of Colombo.
-
-The USS Sprrons arrived at the Port of Colombo today (19th).
-
-It is said that the ship arrived in Sri Lanka for a visit to meet the supplies and service requirements.
-
-The ship said that the ship was about 160 meters and 338 shipping tests.
-
-The ship is due to leave the island tomorrow (20) after the supplies and service requirements are met.
-
-◼️
-
-[Data](articles/8f6d6d71.json)
-
-[Extended Data](ext_articles/8f6d6d71.ext.json)
-
----
-
-### One dead, another critical after lorry collides with train in Maha Induruwa
-
-*2024-08-19 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101349/one-dead-another-critical-after-lorry-collides-with-train-in-maha-induruwa) · `en`
-
-One person was reported dead after a lorry collided with a train near a railway crossing in Maha Induruwa, Kosgoda this afternoon (19).
-
-The lorry loaded with firewood, travelling from the Kosgoda area, has collided with a train plying from Galle to Colombo, the police said.
-
-Accordingly, one of the two individuals travelling in the lorry has been killed in the accident while the other was critically injured.
-
-The deceased has been identified as a 55-year-old resident of the Induwara area, according to police.
-
-The injured individual has been admitted to the hospital for treatment, and sources said that his condition is critical.
-
-◼️
-
-[Data](articles/f7ef9ca0.json)
-
-[Extended Data](ext_articles/f7ef9ca0.ext.json)
-
----
-
-### What is the maximum amount of money that a voter can be spent?
-
-*2024-08-19 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200097) · `si`
-
-The maximum spending limit per voter in the upcoming presidential election will be announced today, as per the Elections Commissioner General Saman Sri Ratnayake. This decision follows discussions and submissions from candidates regarding campaign expenses. Meanwhile, the PAFFREL organization confirms the participation of two candidates in a policy expression event, expecting more to join.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that the gazette nor the gazette that can be spent on a voter charged at the presidential election will be announced today.
-
-The demands of the demands of the respective discussions last Saturday (17) at the discussion.
-
-According to the Elections Registration Act, the nomination for nomination should be announced within 5 days of accepting nominations for one voter.
-
-Elections Commissioner General Saman Sri Ratnayake said that the demands of the candidates and candidates were submitted to the Candidates and Elections Commission officials to determine the matter.
-
-Accordingly, the Gazette which means the maximum amount of money spent on the presidential election will be announced today.
-
-Meanwhile, PAFFREL organization states that the argument that the candidates have planned to express their policies to the country this time have confirmed the arrival of two candidates.
-
-...
-
-[Data](articles/3f503bb0.json)
-
-[Extended Data](ext_articles/3f503bb0.ext.json)
-
----
-
-### The government responds to a salary increase
-
-*2024-08-19 14:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-உயர்வு-குறித்து-அரசாங்கம்-பதில்/175-342445) · `ta`
-
-The government plans to increase salaries for its employees significantly, with the lowest-paid set to receive an increase of at least 55,000 rupees. This decision, approved by the cabinet and aligned with IMF recommendations, aims to address longstanding concerns over low wages and the cost of living. The increase will be effective for three years, with details to be communicated officially soon.
-
-🟩
-
-“All government employees will be paid 25000 rupees for 3 years. The lowest salary can be increased by 55000 rupees or more. "
-
-Cabinet spokesman Professor Bandula Gunawardena, who was present at a special meeting with special journalists held at the Government Information Department yesterday (18), made this statement on the campaign against the high salary increase of government service.
-
-"The idea of ​​a government service salary increase in the Cabinet has not been changed for three years in accordance with the allocation of the International Monetary Fund.. This salary increase idea has been proposed for the budget and has been granted cabinet approval.
-
-But the media did not publish it properly. As a Cabinet spokesman, I have a duty and responsibility to adjust it if the comments made on the cost of living in the Cabinet are wrong.
-
-The cabinet bond cannot be carried out it is secret. Do not carry them out. Copies will be sent to the Secretaries of the Ministry.
-
-...
-
-[Data](articles/91c8fa83.json)
-
-[Extended Data](ext_articles/91c8fa83.ext.json)
 
 ---

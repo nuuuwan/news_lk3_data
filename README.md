@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 16:08:40**
+As of **2024-08-20 16:21:24**
 
 ## Newspaper Stats
 
-*Scraped **41,685** Articles*
+*Scraped **41,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,515
 dailyftlk | 2,687
 adalk | 3,835
 dailymirrorlk | 4,733
-adaderanalk | 4,879
-tamilmirrorlk | 5,392
+adaderanalk | 4,880
+tamilmirrorlk | 5,393
 virakesarilk | 6,615
 adaderanasinhalalk | 7,114
 
@@ -26,29 +26,77 @@ adaderanasinhalalk | 7,114
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,683 (100.0%) of 41,685 articles have been extended.
+41,685 (100.0%) of 41,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### ජනපති ධුර අපේක්ෂකයන් මුදල් වියදම් කළ යුතු අයුරු
+### 17 ex-PS members of SLPP pledge support to Ranil
+
+*2024-08-20 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101374/17-ex-ps-members-of-slpp-pledge-support-to-ranil) · `en`
+
+Seventeen former Kurunegala Pradeshiya Sabha members of the Sri Lanka Podujana Peramuna (SLPP) have extended their support to President Ranil Wickremesinghe in the upcoming presidential election.
+
+This decision follows a meeting with the UNP Assistant Leader, Akila Viraj Kariyawasam.
+
+During the said meeting, they have assured their commitment to work towards President Wickremesinghe’s victory in election.
+
+Meanwhile, the appointment letters were presented yesterday (19) to the newly appointed District Organizers of the UNP at the party’s headquarters – Sirikotha, under the patronage of President Ranil Wickremesinghe.
+
+MP Ishak Rahuman, and former MPs P. Harrison, and W. B. Ekanayake were appointed as District Organizers for Anuradhapura while Nishantha Sri Warnasinghe, a former member of the Jathika Hela Urumaya (JHU), was appointed as a Colombo District UNP Organizer.
+
+Additionally, former Deputy Minister Nishantha Muthuhettigamage, was appointed as a Galle District UNP Organizer.
+
+...
+
+[Data](articles/5c2975a4.json)
+
+---
+
+### ஜனாதிபதியுடன் சஜித் கைகுலுக்காதது ஏன்?
+
+*2024-08-20 15:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-சஜித்-கைகுலுக்காதது-ஏன்/175-342517) · `ta`
+
+வேட்புமனுத் தாக்கல் நாளின் போது தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கைகுலுக்கத் தவறியமை தொடர்பில் தேவையற்ற குழப்பங்கள் ஏற்படுத்தப்பட்டு வருவதாகவும், அவ் வேளையில் சஜித் வேறு வேலையில் ஈடுபட்டிருந்ததால் எழுந்து நின்று வாழ்த்த முடியாமல் போனதாகவும் SJB இன் துணைத் தலைவர் சுஜீவ சேனசிங்க இன்று தெரிவித்தார்.
+
+“சிலர் இந்த விஷயத்தைப் பற்றி தேவையில்லாத வம்புகளை உருவாக்குகிறார்கள். அதுமட்டுமின்றி பிரேமதாசவை ஜனாதிபதி விக்ரமசிங்க கைகூப்பி வாழ்த்தியிருந்தால் நன்றாக இருந்திருக்கும். 'ஆயுபோவன்' என்று கூறி வாழ்த்துவது ஆரோக்கியமானதாகவும், இனிமையாகவும் இருக்கும் என்பதோடு, வாழ்த்துவதற்கான சிறந்த வழியாகவும் இருந்திருக்கும். இதுவே உண்மையான இலங்கை வாழ்த்து முறையும் கூட” என அவர் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+
+"ஆனால் நிச்சயமாக, கமலா ஹரிஸை ஒருவர் கைகோர்த்து ஆயுபோவன் என்று கூறி வாழ்த்த முடியாது," எனவும் அவர் கூறினார்.
+
+...
+
+[Data](articles/75beb353.json)
+
+---
+
+### Presidential Peace candidates to Spend Money
 
 *2024-08-20 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200135) · `si`
 
-2024 ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයෙකුට මැතිවරණ ප්‍රචාරක කටයුතු සඳහා එක් ඡන්දහිමියෙකු වෙනුවෙන් වැය කළ හැකි උපරිම මුදල රුපියල් 109ක් ලෙස දක්වමින් මැතිවරණ කොමිෂන් සභාව අතිවිශේෂ ගැසට් පත්‍රයක් නිකුත් කළේය.
+The Elections Commission has set spending limits for presidential peace candidates under Section 3 of the Election Examination Act No. 3 of 2023. Candidates can spend up to 60% of their budget on election propaganda, with the remainder allocated for campaign activities by the Secretary General of the Elections or another political party. All expenses must be reported to the Election Commission within 21 days, including details of how funds were used. This regulation applies to all recognized political parties and independent candidates participating in the presidential election.
 
-ඒ, 2023 අංක 3 දරන මැතිවරණ වියදම් නියාමනය කිරීමේ පනතේ තුන්වන වගන්තිය ප්‍රකාරවය.
+🟩
 
-ඒ අනුව ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයෙකුට සිය මැතිවරණ ප්‍රචාරක වියදම් ලෙස වැය කළ හැකි උපරිම සීමාව රුපියල් එකසිය අසූ හයකෝටි අසූ දෙලක්ෂ 98,586කි.
+The Elections Commission issued a special gazette sheet of the Elections for an election propaganda for election propaganda.
 
-ජනාධිපති අපේක්ෂකයෙකුට එම මුදලින් සියයට 60ක් හෙවත් රුපියල් එකසිය දොළොස් කෝටි නවලක්ෂ 79,151යි ශත 60ක මුදලක් සිය ප්‍රචාරක වියදම් ලෙස දැරිය හැකිය.
+It is in terms of Section 3 of the Regulation of the Election Examination Act No. 3 of 2023.
 
-ඊට අමතරව ඉතිරි සියයට 40 හෙවත් රුපියල් හැත්තෑහතර කෝටි හැත්තෑ තුන්ලක්ෂ 19,434යි ශත 40ක මුදලක් අපේක්ෂකයාගේ ප්‍රචාරක කටයුතු වෙනුවෙන් පිළිගත් දේශපාලන පක්ෂයක හෝ වෙනත් දේශපාලන පක්ෂයක ලේකම්වරයාට හෝ අපේක්ෂකයෙකු නාමයෝජනා කළ ඡන්දහිමියාට වැයකළ හැකි බව මැතිවරණ කොමිෂන් සභාව නිකුත් කළ ගැසට් නිවේදනයේ සඳහන් ය.
+Accordingly, the maximum limit of a candidate who is contesting for a presidential election cost is Rs.
+
+A presidential candidate can afford 60 percent of the money or Rs.
+
+In addition, the Elections Commission (EPL) stated that the Secretary General of the Elections or a candidate for the propaganda campaign of the candidate or another political party in the remaining 40 percent or 19,434 million and 19,4004 carts, a candidate said.
+
+The expenditure of election propaganda expenditure on election expenditure should be handed over to the Election Commission within 21 days.
+
+The gazette notification further states that the information for propaganda costs should include detailed information about how they spent.
 
 ...
 
 [Data](articles/867f1036.json)
+
+[Extended Data](ext_articles/867f1036.ext.json)
 
 ---
 
@@ -170,17 +218,23 @@ Police say that the fire is believed to have been damaged in about Rs.
 
 ---
 
-### ක්ලබ් වසන්ත ඝාතනයේ සැකකරුන් තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කෙරේ
+### Club spring murder suspects remanded
 
 *2024-08-20 14:43:40* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-සැකකරුන්-තවදුරටත්-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-411461) · `si`
 
-ක්ලබ් වසන්ත නොහොත් සුරේන්ද්‍ර වසන්ත පෙරේරා ඝාතන සිද්ධියට අත්අඩංගුවට ගත් සැකකරුන් 11 දෙනා ලබන සැප්තැම්බර් 02වැනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+Eleven suspects in the Club Wasantha murder case, including Wasantha Perera, have been remanded until September 2nd by the Kaduwela Magistrate's Court.
 
-අදාළ නඩුව අද (20දා) කඩුවෙල මහේස්ත්‍රාත් අධිකරණයේදී කැදවූ අවස්ථාවේදී මෙම නියෝගය ලබා දී ඇත.
+🟩
+
+The 11 suspects arrested for the murder of Club Wasantha aliram aliasin Wasantha Perera have been remanded until September 2.
+
+The order has been issued at the Kaduwela Magistrate's Court today (20).
 
 ◼️
 
 [Data](articles/4e4f3665.json)
+
+[Extended Data](ext_articles/4e4f3665.ext.json)
 
 ---
 
@@ -2309,37 +2363,5 @@ Dissanayake also said the appointment will allow them to intervene in the activi
 [Data](articles/1579c223.json)
 
 [Extended Data](ext_articles/1579c223.ext.json)
-
----
-
-### Ceylon Chamber to host political debate on economic visions on 29 August
-
-*2024-08-20 02:15:15* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-to-host-political-debate-on-economic-visions-on-29-August/34-765741) · `en`
-
-The Ceylon Chamber of Commerce yesterday announced that at its invitation, the four main Presidential candidates have nominated their leading economic policy experts to participate in a debate presenting each party’s economic policies and pledges ahead of the 2024 Presidential election, on 29 August at the BMICH.
-
-Shehan Semasighe representing the President Ranil Wickremesinghe, Dr. Harsha de Silva representing Sajith Premadasa, Dr. Harshana Suriyapperuma representing Anura Kumara Dissanayake and Prof. Ranjith Bandara representing Namal Rajapaksa will participate in ‘Defining the Vision – The Debate’ hosted by The Ceylon Chamber.
-
-...
-
-[Data](articles/d6bf45cc.json)
-
-[Extended Data](ext_articles/d6bf45cc.ext.json)
-
----
-
-### MMBL-Pathfinder Group JV’s forex earnings to top $ 425 m
-
-*2024-08-20 02:12:34* · [`dailyftlk`](https://www.ft.lk/business/MMBL-Pathfinder-Group-JV-s-forex-earnings-to-top-425-m/34-765740) · `en`
-
-The MMBL-Pathfinder Group joint-venture portfolio of investments are expected to yield nearly $ 425 million in foreign exchange to Sri Lanka in 2024, a significant increase from the $ 250 million it earned in 2023.
-
-In a statement the MMBL-Pathfinder Group said its joint-venture investment portfolio consists of partnerships and strategic alliances with a wide network of globally reputed companies. These operate in niche markets dealing in financial and remittance services, export logistics, petroleum support services, pioneering ventures in tourism and leisure, and technology and innovation-related activities.
-
-...
-
-[Data](articles/efe82ddd.json)
-
-[Extended Data](ext_articles/efe82ddd.ext.json)
 
 ---

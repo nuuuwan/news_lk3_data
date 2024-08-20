@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 17:57:58**
+As of **2024-08-20 18:16:56**
 
 ## Newspaper Stats
 
-*Scraped **41,715** Articles*
+*Scraped **41,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 2,515
 dailyftlk | 2,687
 adalk | 3,838
 dailymirrorlk | 4,733
-adaderanalk | 4,884
+adaderanalk | 4,885
 tamilmirrorlk | 5,396
 virakesarilk | 6,629
-adaderanasinhalalk | 7,118
+adaderanasinhalalk | 7,120
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,706 (100.0%) of 41,715 articles have been extended.
+41,715 (100.0%) of 41,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### Dilith Jayaweera accepts invitation for presidential debate
+
+*2024-08-20 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101379/dilith-jayaweera-accepts-invitation-for-presidential-debate) · `en`
+
+The ‘Sarvajana Balaya’ presidential candidate, entrepreneur Dilith Jayaweera has formally accepted the invitation to take part in the historic debate that the ‘March 12 Movement’ is hoping to organize between six candidates contesting the 2024 Presidential Election.
+
+Announcing this decision, Mawbima Janatha Pakshaya (MJP) leader Dilith Jayaweera said:
+
+“I would like to officially accept the invitation made by the March 12 Movement, to take part in a debate among 6 candidates contesting in this year’s Presidential Election.
+
+“I believe this platform will provide a novel experience for Sri Lankans to witness a productive dialogue on policies that each of us hopes to implement if voted into the Presidency.
+
+...
+
+[Data](articles/cba8a6d4.json)
+
+---
+
+### ජනපති අපේක්ෂක විවාදයේ ඇරයුම දිලිත් පිළිගනී
+
+*2024-08-20 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200142) · `si`
+
+මාර්තු 12 ව්‍යාපාරය විසින් ජනාධිපති අපේක්ෂකයන් අතර පැවැත්වීමට නියමිත සංවාද සඳහා සර්වජන ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා සහභාගී වන බව ඔහුගේ නිල මාධ්‍ය ප්‍රකාශක දනිඳු විතානවසම් මහතා පැෆ්රල් සංවිධානයට ලිඛිතව දැනුම්දී තිබේ.
+
+◼️
+
+[Data](articles/b6c1a1fd.json)
+
+---
+
+### දිස්ත්‍රික්ක 06කට නායයෑම් අනතුරු ඇඟවීම්
+
+*2024-08-20 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200141) · `si`
+
+පවතින අයහපත් කාලගුණයත් සමග දිස්ත්‍රික්ක 06ක් සඳහා නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+
+ඒ කොළඹ, ගාල්ල, කළුතර, කෑගල්ල, නුවරඑළිය සහ රත්නපුර දිස්ත්‍රික්ක සඳහාය.
+
+◼️
+
+[Data](articles/4520b615.json)
+
+---
 
 ### CID constable accused of helping ‘Harak Kata’ acquitted
 
@@ -45,6 +89,8 @@ Police Constable Abeysinghe had been detained and interrogated at the TID for ar
 ◼️
 
 [Data](articles/599dbf7a.json)
+
+[Extended Data](ext_articles/599dbf7a.ext.json)
 
 ---
 
@@ -70,21 +116,29 @@ The Commission also said that the report should be prepared, along with informat
 
 ---
 
-### பிரேமலதா விஜயகாந்த்துடன் 'கோட்' படக்குழு சந்திப்பு
+### 'Code' crew meeting with Premalatha Vijayakanth
 
 *2024-08-20 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191555) · `ta`
 
-சென்னையில் உள்ள தேமுதிக கட்சியின் பொதுச் செயலாளரான பிரேமலதா விஜயகாந்த்தை, தமிழக வெற்றி கழகத்தின் தலைவரும், நடிகருமான விஜய் சந்தித்தார்.
+Premalatha Vijayakanth, general secretary of the TMC, hosted a meeting with actor Vijay and others to honor the legacy of her husband, Vijayakanth, founder of the Tamil Nadu Victory Council. The gathering highlighted the impact of AI technology in their project 'Code', drawing attention from both the film and political sectors.
 
-சென்னையில் உள்ள மறைந்த நடிகர் விஜயகாந்தின் இல்லத்திற்கு நடிகர் விஜய் வருகை தந்தார். அங்குள்ள விஜயகாந்தின் உருவப்படத்திற்கு மலர் தூவி மரியாதை செலுத்தினார்.
+🟩
 
-இதனைத் தொடர்ந்து பிரேமலதாவிடம், 'கோட்' படத்தில் செயற்கை நுண்ணறிவு தொழில்நுட்பத்தின் உதவியுடன் மறைந்த நடிகர் கேப்டன் விஜயகாந்த்தை பயன்படுத்த அனுமதி அளித்ததற்காக நன்றி தெரிவித்தார். இந்நிகழ்வில் திரைப்பட இயக்குநர் வெங்கட் பிரபு , தயாரிப்பாளர் அர்ச்சனா கல்பாத்தி, விஜயகாந்தின் வாரிசுகள் உள்ளிட்டோரும் உடனிருந்தனர்.
+Vijayakanth, the general secretary of the TMC in Chennai, met Vijayakanth, the leader and actor of the Tamil Nadu Victory Council.
 
-விரைவில் தமிழக வெற்றிக் கழகம் எனும் அரசியல் கட்சியின் கொடி மற்றும்  மாநாட்டை நடத்த திட்டமிட்டு இருக்கும் விஜய்- தேசிய முற்போக்கு திராவிட கழகத்தின் பொதுச் செயலாளரான பிரேமலதாவை சந்தித்திருப்பது திரையுலகில் மட்டுமல்ல அரசியல் உலகிலும் கவனத்தை ஈர்த்திருக்கிறது.
+Actor Vijay visits Vijayakanth's residence in Chennai. He paid homage to the portrait of Vijayakanth there.
 
-...
+Following this, Premalatha thanked the late actor Vijayakanth for the help of artificial intelligence technology in 'Code'. Film director Venkat Prabhu, producer Archana Kalpathi and Vijayakanth's successors were also present at the event.
+
+The Vijay-National Progressive Dravidian League, the general secretary of the National Progressive Dravidian League, who is planning to hold the flag and convention of the political party, the Tamil Nadu Victory Corporation, has attracted attention not only in the film industry but also in the political world.
+
+In the meantime, Captain Vijayakanth is appearing for two minutes with artificial intelligence technology in 'Code' and his fans and Volunteers are excited.
+
+◼️
 
 [Data](articles/dbe1eb5d.json)
+
+[Extended Data](ext_articles/dbe1eb5d.ext.json)
 
 ---
 
@@ -108,85 +162,123 @@ Police Constable Sanjaya Abeysinghe was detained and questioned in the TID.
 
 ---
 
-### மாரி செல்வராஜின் 'வாழை' பட முன்னோட்டம் வெளியீடு
+### Mari Selvaraj's 'Banana' film preview release
 
 *2024-08-20 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191554) · `ta`
 
-'பரியேறும் பெருமாள்', 'கர்ணன்', 'மாமன்னன்' எனும் முத்தான மூன்று படைப்புகள் மூலம் தமிழ் திரையுலக படைப்பாளிகளின் பட்டியலில் இணைந்து கொண்ட மாரி செல்வராஜ் இயக்கத்தில் உருவாகி இருக்கும் 'வாழை' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இந்த முன்னோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் ஒரு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
+"Banana," directed by Mari Selvaraj, features performances by Kalaiyarasan, Satishkumar, Nikila Wimal, and Divya Duraisamy among others. Composed by Santosh Narayanan and produced by Mari Selvaraj and Dileep Subbarayan, it explores the struggles faced by children under economic burdens. The film's preview garnered over a million views, highlighting its anticipated impact. Set for release on the 23rd of this month, "Banana" has generated significant interest within the Tamil film industry.
 
-வளரிளம் பருவ நடிகர்களான பொன். வேல் மற்றும் எம். ராகுல் ஆகியோர் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'வாழை' எனும் திரைப்படத்தில், இவர்களுடன் நடிகர்கள் கலையரசன், சதீஷ்குமார், நடிகைகள் நிகிலா விமல், திவ்யா துரைசாமி , ஜானகி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
+
+The preview of the film 'Banana', which is being directed by Mari Selvaraj, has joined the list of Tamil filmmakers through three works of 'Periyarum Perumal', 'Karna' and 'Mamannan' - 'Mamannan'.. Within a short time of this preview, more than a million viewers have been visited and achieved.
+
+Valarilam is a seasonal actors gold. Vale and M. In the film 'Banana', Rahul, who plays the role of the role of actors Kalaiyarasan, Satishkumar, actresses Nikila Wimal, Divya Duraisamy, Janaki and many others.
+
+Santosh Narayanan has composed the film, which is being recorded by Theni Eswar. The film is co -produced by producers Mari Selvaraj and Dileep Subbarayan on behalf of Navi Studios and Farmers Master Plan Production.
+
+The film 'Banana', which is being directed by director Mari Selvaraj, who is the best 'pain conductor', has been abducted by his work through his work-has been reported from his own life.. As a result, the expectation of the film is increasing.
 
 ...
 
 [Data](articles/5768b316.json)
 
+[Extended Data](ext_articles/5768b316.ext.json)
+
 ---
 
-### கண் சத்திர சிகிச்சை விவகாரம் ; கெஹலியவிடமிருந்து 300 மில்லியன் ரூபாவை நஷ்ட ஈடாக கோரும் மூன்று நோயாளிகள்
+### Eye surgery affair;Three patients demanding compensation of 300 million rupees from Keheliya
 
 *2024-08-20 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191544) · `ta`
 
-கண் சத்திர சிகிச்சை மேற்கொண்டதன் பின்னர் ப்ரெட்னிசோலோன்  அசிடேட்என்ற மருந்தின் பாவனையால் பார்வை குறைபாடு ஏற்பட்ட 3 பேர் முன்னாள் சுகாதார  அமைச்சர் கெஹலியவிடமிருந்து 300 மில்லியன் ரூபாவை நஷ்ட ஈடாக கோரி கொழும்பு மாவட்ட நீதிமன்றத்தில் இன்று செவ்வாய்க்கிழமை (20) வழக்குத் தாக்கல் செய்துள்ளனர். மேலும் பத்து பேருக்கு  பார்வை குறைபாடு ஏற்பட்டுள்ளது.
+Three individuals suing former Health Minister Keheliya for 300 million rupees, alleging vision loss due to post-eye surgery use of Bretnisolone acetate. Ten others affected. Legal action involves multiple parties including health officials, drug regulatory bodies, and companies involved in the production and distribution of the eye drops. Petitioners represented by Inquitus Law Institute, citing adverse effects like teariness, irritation, and gradual vision loss after surgery at Nuwara Eliya General Hospital.
 
-கெஹலிய ரம்புக்வெல்ல, ஜனக சந்திரகுப்த, தேசிய மருந்துகள் ஒழுங்குமுறை ஆணையம், பேராசிரியர். எஸ்.டி. ஜெயரத்ன, வைத்தியர் விஜித் குணசேகர, வைத்தியர் அசேல குணவர்தன, வைத்தியர் ரொஹான் எதிரிசிங்க, வைத்தியர் மகேந்திர செனவிரத்ன, யக்கலையைச் சேர்ந்த Chamee Chemist (Pvt) Ltd, Indiana Ophthalmics LLP மற்றும் சட்டமா அதிபர் ஆகியோர் இந்த வழக்குகளின் பிரதிவாதிகளாக பெயரிடப்பட்டுள்ளனர்.
+🟩
 
-மேற்கூறிய பதினொரு பிரதிவாதிகளிடமிருந்து நட்டஈடு வழங்குமாறு கோரி, இன்விக்டஸ் சட்ட நிறுவனத்தின் சட்டத்தரணிகளான சம்பத் விஜேவர்தன, தமலி குருப்பு மற்றும் பிரவிங்க ரத்னசேகர ஆகியோரின் ஊடாக மனுதாரர் இந்த வழக்குகளை தாக்கல் செய்துள்ளனர்.
+Three persons who have been visionary due to the use of Bretnisolone acetate after eye treatment have filed a case in the Colombo District Court on Tuesday (20) demanding a compensation of 300 million rupees from former Health Minister Keheliya.. Another ten people have visually impaired.
+
+Keheliya Rambukwella, Janaka Chandragupta, National Drug Regulatory Authority, Professor. S.. Jayaratne, Dr. Vijith Gunasekera, Dr. Asela Gunawardena, Dr. Rohan Ethi Sinha, Dr. Mahendra Seneviratne, Yakkalai Chamee Chemist (PVT) Ltd, Indiaa Ophthalmics LLP and Attorney General have been named as the Deputy Inspector of these cases.
+
+The petitioner has filed these cases through the Attorneys of the Inquitus Law Institute, Sampath Wijewardena, Tamali Kuruppu and Pravinka Ratnasekara, demanding compensation from the eleven defendants.
 
 ...
 
 [Data](articles/c93aa2f0.json)
 
+[Extended Data](ext_articles/c93aa2f0.ext.json)
+
 ---
 
-### பௌத்த மதத்தை பின்னணியாக கொண்ட படம் தான் தங்கலான்- எழுத்தாளர் தமிழ் பிரபா பெருமிதம்
+### Tangalan- writer Tamil Prabha is proud of Buddhism
 
 *2024-08-20 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/191547) · `ta`
 
-சீயான் விக்ரம் நடிப்பில் தயாராகி கடந்த ஓகஸ்ட் 15 ஆம் திகதியன்று உலகம் முழுவதும் ஆயிரத்திற்கும் மேற்பட்ட திரைகளில் வெளியாகி, மக்களின் பேராதரவை பெற்று, தொடர்ந்து வெற்றி நடை போட்டுக் கொண்டிருக்கும் திரைப்படம் 'தங்கலான்'. பா ரஞ்சித் இயக்கத்தில் ஸ்டுடியோ கிரீன் நிறுவனத்தின் தயாரிப்பில் தமிழ் மற்றும் தெலுங்கு மொழியில் வெளியான இந்த திரைப்படம்  இதுவரை இந்திய மதிப்பில் 68 கோடி ரூபாயை வசூலித்திருப்பதாக தெரிவிக்கப்பட்டிருக்கிறது.
+"Thangalan," starring Sivakarthikeyan and directed by Pa. Ranjith, has grossed over Rs 68 crore in Tamil and Telugu. Writer Tamil Prabha, a dialogue editor, praised Ranjith for introducing her to cinema and for guiding her screenplay writing. She highlighted the significance of incorporating Buddhist elements into the film, making it a unique creation in Indian cinema that promotes Hindu mythology. The film crew thanked fans and supporters in Chennai, emphasizing the importance of audience engagement and the film's impact on moving viewers to a higher level of understanding.
 
-இந்நிலையில் படத்தினை வெற்றி பெறச் செய்த ரசிகர்களுக்கும், பார்வையாளர்களுக்கும் , ஆதரவளித்த ஊடகத்தினருக்கும் நன்றி தெரிவிக்கும் வகையில் படக் குழுவினர் நன்றி தெரிவிக்கும் விழா ஒன்றினை சென்னையில் ஒருங்கிணைத்திருந்தனர். இதில் பட குழுவினர் அனைவரும் பங்கு பற்றினர்.
+🟩
 
-இந்நிகழ்வில் எழுத்தாளரும், கதாசிரியரும், உரையாடல் ஆசிரியருமான தமிழ் பிரபா பேசுகையில், '' சர்பட்டா பரம்பரை- ப்ளூ ஸ்டார் - தங்கலான்-  என தொடர்ந்து ஹாட்ரிக் வெற்றி பெற்ற படங்களில் பணியாற்றிய மகிழ்ச்சி எனக்கு இருக்கிறது. என்னை சினிமாவில் அறிமுகப்படுத்திய பா ரஞ்சித்திற்கு நன்றி.‌
+'Thangalan', which was ready to star in more than a thousand screens around the world on August 15, starring Sion Vikram, and continued to win the world.. The film, which is being produced by Studio Green, directed by Ba Ranjith, has been reported to have grossed over Rs 68 crore in Tamil and Telugu.
+
+In this case, the film crew was united in Chennai to thank the fans, the audience and the supporters who supported the film.. All the film crew participated.
+
+Speaking at the event, Tamil Prabha, a writer, storyteller and dialogue editor, said:. Thanks to Pa Ranjith who introduced me to the cinema.
+
+Pa, though I am a writer, is the technique of writing the screenplay for the movie. Ranjith just taught. When I was writing a version for the film Thangalan, I wrote that a Buddha statue would be available when I was digging for a well in the village of Thangalan.. He was very excited when he told him this. He praised the idea that it was better.
 
 ...
 
 [Data](articles/81751229.json)
 
+[Extended Data](ext_articles/81751229.ext.json)
+
 ---
 
-### 'கருடன்' பட தயாரிப்பாளருடன் மீண்டும் கரம் கோர்க்கும் சூரி
+### 'Garuda' Suri is back with the filmmaker
 
 *2024-08-20 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191552) · `ta`
 
-முன்னணி நகைச்சுவை நடிகர் என்ற தளத்திலிருந்து கதையின் நாயகன் என்ற தளத்திற்கு உயர்ந்திருக்கும் நடிகர் சூரி மீண்டும் கதையின் நாயகனாக நடிக்கும் புதிய திரைப்படம் குறித்த அதிகாரப்பூர்வமான அறிவிப்பு வெளியாகி இருக்கிறது.
+"Actor Suri, known for comedy roles, reunites with director Prashant Pandiyaraj for a new movie under Larg Studios, produced by Kumar. This follows their successful collaboration on 'Garuda'. Details about other cast members will be announced soon."
 
-'புரூஸ் லீ' என்ற திரைப்படத்தையும், 'விலங்கு' எனும் இணைய தொடரையும் இயக்கிய இயக்குநர் பிரசாந்த் பாண்டியராஜ் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் சூரி கதையின் நாயகனாக நடிக்கிறார். இந்த திரைப்படத்தை லார்க் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் கே. குமார் தயாரிக்கிறார்.
+🟩
 
-இவர் ஏற்கனவே சூரி நடிப்பில் வெளியாகி வெற்றி பெற்ற 'கருடன்' எனும் படத்தினை தயாரித்த தயாரிப்பாளர் ஆவார்.  இந்தத் திரைப்படத்தில் நடிக்கும் ஏனைய நடிகர்கள், நடிகைகள் மற்றும் பணியாற்றும் தொழில்நுட்பக் கலைஞர்கள் குறித்த விவரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என எதிர்பார்க்கப்படுகிறது.
+Actor Suri, who is the leading comedian to the story of the story of the story, has been reunited with the official announcement of the new movie starring the story.
 
-...
+Director Prashant Pandiyaraj, who directed the movie 'Bruce Lee' and 'Animal'. The film was made on behalf of Larg Studios Company. Produced by Kumar.
+
+He is the producer of Suri's starring film 'Garuda' which has already been released.The details of other actors, actresses and working technicians who are working on the film are expected to be officially released soon.
+
+Meanwhile, after a commercial winning film 'Garuda', no leading film production company has not accessed the sun and there is no other way to break the film industry.
+
+◼️
 
 [Data](articles/3bad27fb.json)
 
+[Extended Data](ext_articles/3bad27fb.ext.json)
+
 ---
 
-### පෙරහර නිමයි - දහවල් දිය කපයි
+### The procession is completed - noon cuts
 
 *2024-08-20 16:53:28* · [`adalk`](https://www.ada.lk/breaking_news/පෙරහර-නිමයි---දහවල්-දිය-කපයි/11-411464) · `si`
 
-ඇසළ පෙරහැරට සමගාමීව දිය කැපීම ගැටඹේ දිය කපනා ගං තොටේදී අද (20) පෙරවරුවේ ඇසළ පෙරහැර මංගල්‍යෙයේ අවසන් රන්දෝලී පෙරහැරින් අනතුරුව දිය කැපීම ඊයේ (20) පෙරවරු 06.50න් පසුව යෙදුණු සුබ මොහොතින් ගැටඹේ දිය කපනා ගං තොටේදී මහවැලි ගඟ මධ්‍යයේදී දිය කැපීම සිදුවිණි.
+The Esala Perahera ended with the Diyamparalehera Perahera destroying its water cut. The Commander Asgiriya's procession concluded at the Gedi Raja Maha Viharaya, followed by the transfer of the Perahera to the Sri Dalada Maligawa the next day. The Devala Perahera conducted sacrifices at Katukareala Pallha before being cut off at Nathale, concluding the Kandy Perahera successfully.
 
-අවසන් රන්දෝලි පෙරහැර නිමාවත් සමඟ සධාතුක පෙරහැර කරඩුව අස්ගිරිය ඓතිහාසික ගෙඩිගේ රජමහ විහාරයේ තැම්පත් කෙරිණි.
+🟩
 
-පසුව දිවා පෙරහැරින් පෙරහර කරඩුව ඊයේ පස්වරුවේ ශ්‍රී දළදා මාලිගාව වෙත වැඩම කිරීමට සිදු කෙරිණි.
+The water cut of water cut in parallel to the Esala Perahera was destroyed by the Diyamparalehera Perahera.
 
-නාථ, විෂ්ණු, කතරගම සහ පත්තිනි සිව් මහා දේවාලයන්හි ප්‍රධානත්වයෙන් සිදුවූ දිය කැපීමෙන් පසු කටුකැලේ පුල්ලයාර් කෝවිලේදී පුද පූජා පැවැත්විමෙන් අනතුරුව දේවාල පෙරහැර, දළදා මාලිගාවේ පෙරහැර හා එක්ව දිවා පෙරහැරට එක්වීම සිදු විණි.
+With the end of the final Randoli Perahera, the process of the resident of the Commander Asgiriya was placed in the historic Gedi Raja Maha Viharaya.
 
-දහවල් පෙරහැර පවත්වා පෙරහැර සාර්ථකව නිමාවට පත්වූ බව සඳහන් සන්දේශය දියවඩන නිලමේවරයා විසින් මහනුවර ජනපති මැදුරේ දී ජනාධිපතිවරයාට භාර දීමෙන් අනතුරුව මෙවර මහනුවර වාර්ෂික ඇසළ පෙරහැර මංගල්‍ය නිමාවට පත්විණි. ( I J )
+The next day after the day after day after the Perahera was taken to the Sri Dalada Maligawa last evening.
+
+The Devala Perahera was conducting sacrifices at the Katukareala Pallha, Perahera after the destruction of the Dalada Maligawa after being cut off at Nathale, Vishmale Four Devalaya.
+
+Kandy Perahera, Kandy Perahera, concluded this year after handing over the afternoon Perahera successfully completed the procession.. (I J)
 
 ◼️
 
 [Data](articles/1c6bb27c.json)
+
+[Extended Data](ext_articles/1c6bb27c.ext.json)
 
 ---
 
@@ -212,21 +304,27 @@ Police estimate that the fire has caused nearly Rs. 30 million in damages.
 
 ---
 
-### மட்டுப்படுத்தப்பட்டது காங்கேசன்துறை - நாகபட்டினம் கப்பல் சேவை
+### Controlled Kankesanthurai - Nagapattinam Shipping Service
 
 *2024-08-20 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191551) · `ta`
 
-யாழ்ப்பாணம் - காங்கேசன்துறைக்கும் நாகப்பட்டினத்திற்குமான பயணிகள் கப்பல் சேவை வாரத்தில் 3 நாட்களுக்கு மட்டுப்படுத்தப்பட்டுள்ளதாக சிவகங்கை கப்பல் நிறுவனத்தின் பணிப்பாளர் நிரஞ்சன் தெரிவித்துள்ளார்.போதியளவான முன்பதிவு இல்லாமை காரணமாக இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+Niranjan, director of Sivaganga Shipping, announced limited passenger services to Jaffna-Kankesanthurai and Nagapattinam for three weekdays due to reduced demand. He also mentioned that shipbuilding procedures would continue until the end of August, aiming to resume full services from September 1st based on increased passenger numbers. Services to Nagapattinam and Kankesanthurai will operate only on Tuesdays, Thursdays, and Sundays.
 
-கப்பல் போக்குவரத்து தொடர்பாக அவர் மேலும் கருத்து தெரிவிக்கையில், எதிர்வரும் 31ஆம் திகதி வரையில் இந்த நடைமுறை காணப்படும் எனவும் நிறுவனத்தின் பணிப்பாளர் தெரிவித்துள்ளார்.
+🟩
 
-பயணிகள் வருகை அதிகரிப்பின் அடிப்படையில் எதிர்வரும் செப்டம்பர் முதலாம் திகதி முதல் நாளாந்தம் இந்த கப்பல் சேவையை முன்னெடுக்க எதிர்பார்த்துள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+Sivaganga Shipping Director Niranjan said that the passenger shipping service to Jaffna - Kankesanthurai and Nagapattinam has been limited for 3 days during the week.
 
-இதற்கமைய வாரத்தில் செவ்வாய், வியாழன் மற்றும் ஞாயிற்றுக்கிழமை ஆகிய மூன்று தினங்களில் மாத்திரமே நாகப்பட்டினத்திற்கும், காங்கேசன்துறைக்குமான பயணிகள் கப்பல் சேவை முன்னெடுக்கப்படும் என சிவகங்கை கப்பல் நிறுவனத்தின் பணிப்பாளர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+He further commented on shipbuilding that the procedure will be seen until the 31st of this month, the company's Director said.
+
+He added that the shipping service is expected to be carried out on the first day of September 1st on the basis of an increase in passenger attendance.
+
+The Director of Sivaganga Shipping Company said that the passenger shipping service to Nagapattinam and Kankesanthurai will be carried out only on Tuesday, Thursday and Sunday.
 
 ◼️
 
 [Data](articles/ccc2a596.json)
+
+[Extended Data](ext_articles/ccc2a596.ext.json)
 
 ---
 
@@ -264,23 +362,33 @@ Addressing the conference, President Biden said that he was the privilege of bei
 
 ---
 
-### நிறைவேற்றதிகார ஜனாதிபதி முறை நீக்கம் குறித்த தெளிவற்ற திட்டம் இல்லாத வாக்குறுதிகளால் மக்களை குழப்பவேண்டாம் -அலி சப்ரி வேண்டுகோள்
+### Do not confuse people with no vague plan on the abolition of executive presidency -Ali Sabri appeals
 
 *2024-08-20 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/191550) · `ta`
 
-நிறைவேற்றதிகார ஜனாதிபதி முறையை நீக்கவிரும்பும் ஜனாதிபதி வேட்பாளர்கள் அதனை எவ்வாறு முன்னெடுக்கப்போகின்றனர் என்ற திட்டத்தை முன்வைக்கவேண்டும் என வேண்டுகோள் விடுத்துள்ள வெளிவிவகார அமைச்சர் அலிசப்ரி இல்லையென்றால் தெளிவான திட்டம் இல்லாத தெளிவற்ற வாக்குறுதிகளால் வாக்காளர்களை குழப்பவேண்டாம் என கேட்டுக்கொண்டுள்ளார்.
+External Affairs Minister Ali Sabri urges clarity on plans to abolish the executive presidency ahead of the presidential election. Leaders like Chandrika Kumaratunga have advocated for its end during their tenure, while others like Maithripala Sirisena have cited legal constraints. The issue raises constitutional implications, prompting calls for concrete proposals and timelines from those committed to reform.
 
-ஜனாதிபதி தேர்தல் நெருங்கிவரும் நிலையில் நிறைவேற்று அதிகார ஜனாதிபதிமுறையை நீக்குவது தொடர்பில் புதிய வேண்டுகோள்களும் வாக்குறுதிகளும் வெளியாகியுள்ளன.
+🟩
 
-சந்திரிகா குமாரதுங்க போன்ற தலைவர்கள் தங்களி;ன் பதவிக்காலம் முடிவடையும் வரை இதனை பிற்போட்டனர்.
+External Affairs Minister Alizabri has appealed for the proposal on how to carry out the Presidential candidates to abolish the executive presidency.
 
-அதேவேளை மைத்திரிபாலசிறிசேன நீதிமன்றத்தின் உத்தரவு காரணமாகவே தான் நிறைவேற்றதிகாரம் குறித்து நடவடிக்கை எடுக்கவில்லை என தெரிவித்திருந்தார்.
+As the presidential election is nearing, new plea and promises have been made regarding the abolition of the executive president.
 
-உண்மையான நிலவரம் என்னவென்றால் நிறைவேற்றதிகார ஜனாதிபதி முறையை நீக்குவது எங்களின் அரசமைப்பி;ன் சில பிரிவுகளின் மீது நேரடியாக தாக்கத்தை  செலுத்துகின்றது.
+Leaders like Chandrika Kumaratunga have launched this until the end of his tenure.
 
-...
+At the same time, Maithripala Sirisena said he had not taken action against the administration due to the court's order.
+
+The real situation is that the abolition of the executive presidential system is directly impact on some sections of our constitution.
+
+So if you have a genuine commitment to this promise, we will talk about exclusive. When will you plan to find a solution to this issue only after your tenure is over?
+
+It is your duty to provide guidelines on how you want to carry out it if you really want to make a change of executive removal.
+
+◼️
 
 [Data](articles/3ec0e2f6.json)
+
+[Extended Data](ext_articles/3ec0e2f6.ext.json)
 
 ---
 
@@ -2229,73 +2337,5 @@ However, Iranian officials had refused to do so, foreign media reports said.
 [Data](articles/008359ff.json)
 
 [Extended Data](ext_articles/008359ff.ext.json)
-
----
-
-### I have no opportunist politicians who go to the sorghum for money and gifts - Sajith
-
-*2024-08-20 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191493) · `ta`
-
-Opposition leader Sajith Premadasa rejects opportunistic politics, refusing offers without genuine commitment. He emphasizes staying true to public-centered policies, not swayed by personal gains. Highlighting the nation's financial struggles, he vows to address the debt crisis and improve living conditions for all Sri Lankans. His recent rally in Meerigama marks a significant step towards the 2024 presidential election, gathering support amidst challenging times.
-
-🟩
-
-I do not follow the opportunist politics. Although he called for the Prime Minister's post during the 52 -day conspiracy in 2018, he rejected the invitation, and that he did not want to go behind the politics of opportunist politics because he did not have the gift of the Prime Minister's post.. Opposition leader Sajith Premadasa said that he had rejected the policy but that he had rejected the post of Prime Minister.
-
-If that would be done on that occasion, the country would have to be the guardian of the thieves who stole the country and stole money.I would have been a guard in the mouth of protecting the thieves.
-
-In any case the liabilities and money are not prepared to go to the sorghum for money. Whatever the proposals, no matter what the popular position, the proposals are not going away from the public -centered politics. Opposition Leader Sajith Premadasa said that Sajith Premadasa and my group could not spend the price in any case.
-
-...
-
-[Data](articles/593d9faf.json)
-
-[Extended Data](ext_articles/593d9faf.ext.json)
-
----
-
-### The new glimpse of women who are working to work with the roine
-
-*2024-08-20 09:16:46* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-එක්ව-කරන-අලුත්ම-සූදුවක්-ආඳාඋල්පතින්-නිතියේ-රැහැනට/11-411453) · `si`
-
-In Hidimaliyadda, 14 women aged 28-48 have been arrested for allegedly possessing lottery tickets worth Rs. 7950. The arrest followed a tip-off received by Badulla's Senior Superintendent of Police, Wasantha Kudasekera, and other officials. Further investigations are ongoing.
-
-🟩
-
-Halimaliyadda Police say 14 women who bet in charge of the lottery Ticket Draw
-
-The money was in charge of their possession of Rs. 7950 and several paper leaves were taken into custody.
-
-A group of women aged 28-48 years old, aged 13, aged 13, has been arrested in Hidimaliyadda Galeaaya, Batuaya and Avenudui.
-
-The number of women was arrested in Ridimaliyadda Police Officers on information received by the Ven.
-
-Badulla Senior Superintendent of Police, Wasantha Kudasekera Police Superintendent of Police, and other officials, including Assistant Superintendent of Police GW. B. Wrapuna, are conducting further investigations.
-
-◼️
-
-[Data](articles/24c1fe67.json)
-
-[Extended Data](ext_articles/24c1fe67.ext.json)
-
----
-
-### President Ranil reveals why he chose ‘Gas Cylinder’ as symbol instead of ‘Elephant’
-
-*2024-08-20 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101363/president-ranil-reveals-why-he-chose-gas-cylinder-as-symbol-instead-of-elephant) · `en`
-
-President Ranil Wickremesinghe emphasized that even if he successfully resolves the economic crisis that others have failed to address, the country’s economy will collapse again if the necessary economic transformations are interrupted midway.
-
-He urged citizens to carefully consider their future when making decisions in the upcoming presidential election.
-
-The President made these remarks during a recent session of the “Ask Ranil” program, where he responded to questions raised on social media.
-
-He also addressed criticisms, arguing that it is inaccurate to claim that previous leaders have done nothing for the country’s development over the past 75 years. He pointed out that rapid economic growth has been hindered by ideologies like those of the Janatha Vimukthi Peramuna, which advocate for a domestic economy.
-
-...
-
-[Data](articles/75b46bc4.json)
-
-[Extended Data](ext_articles/75b46bc4.ext.json)
 
 ---

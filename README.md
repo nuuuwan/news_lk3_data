@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 09:36:49**
+As of **2024-08-20 09:56:20**
 
 ## Newspaper Stats
 
-*Scraped **41,611** Articles*
+*Scraped **41,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 2,507
 dailyftlk | 2,687
 adalk | 3,827
 dailymirrorlk | 4,733
-adaderanalk | 4,868
+adaderanalk | 4,869
 tamilmirrorlk | 5,373
 virakesarilk | 6,601
-adaderanasinhalalk | 7,101
+adaderanasinhalalk | 7,102
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,610 (100.0%) of 41,611 articles have been extended.
+41,611 (100.0%) of 41,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### ට්‍රම්ප් පිටුපස ඉරානය - බුද්ධි අංශ තහවුරු කරයි
+
+*2024-08-20 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200123) · `si`
+
+ඩොනල්ඩ් ට්‍රම්ප්ගේ මැතිවරණ ව්‍යාපාරයට අනවසරයෙන් ඇතුළුවීම පිටුපස ඉරානය සිටින බව අමෙරිකානු බුද්ධි අංශ තහවුරු කර තිබේ.
+
+FBI සහ අනෙකුත් ආයතන එක්ව ඒකාබද්ධ ප්‍රකාශයක් නිකුත් කරමින් මේ බව දැනුම් දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අමෙරිකාවේ ප්‍රජාතන්ත්‍රවාදී ආයතන කෙරෙහි අසමගියක් ඇතිකිරීමට සහ විශ්වාසය බිඳදැමීමේ අරමුණින් ඉරානය විසින් අමෙරිකානු මැතිවරණයට මැදිහත් වී ඇති බව අදාළ වාර්තාවේ සඳහන්ය.
+
+ඩොනල්ඩ් ට්‍රම්ප්ගේ මැතිවරණ ව්‍යාපාරයට මෙම මස මුලදී අභ්‍යන්තර පණිවුඩයක් අනවසරයෙන් ඇතුළු වීම සම්බන්ධයෙන් ඉරානයට චෝදනා එල්ල වුණි.
+
+කෙසේවෙතත් ඉරාන නිලධාරීන් විසින් එය ප්‍රතික්ෂේප කර තිබූ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/008359ff.json)
+
+---
+
+### President Ranil reveals why he chose ‘Gas Cylinder’ as symbol instead of ‘Elephant’
+
+*2024-08-20 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101363/president-ranil-reveals-why-he-chose-gas-cylinder-as-symbol-instead-of-elephant) · `en`
+
+President Ranil Wickremesinghe emphasized that even if he successfully resolves the economic crisis that others have failed to address, the country’s economy will collapse again if the necessary economic transformations are interrupted midway.
+
+He urged citizens to carefully consider their future when making decisions in the upcoming presidential election.
+
+The President made these remarks during a recent session of the “Ask Ranil” program, where he responded to questions raised on social media.
+
+He also addressed criticisms, arguing that it is inaccurate to claim that previous leaders have done nothing for the country’s development over the past 75 years. He pointed out that rapid economic growth has been hindered by ideologies like those of the Janatha Vimukthi Peramuna, which advocate for a domestic economy.
+
+...
+
+[Data](articles/75b46bc4.json)
+
+---
 
 ### As Highlights of Sickness
 
@@ -222,19 +260,25 @@ At the event, Professor Maithri Wickremesinghe and President's Senior Advisor to
 
 ---
 
-### අද මිලි මිටර් 100 ඉක්මවා වහින පැති මෙන්න
+### Here are the sides that have exceeded 100 ml miters today
 
 *2024-08-20 07:19:21* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මිටර්-100-ඉක්මවා-වහින-පැති-මෙන්න/11-411451) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණු හා වයඹ පළාත්වලත් මහනුවර හා නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today, heavy rainfall exceeding 100mm is expected in the Western, Sabaragamuwa, Southern, and North-Western provinces, including Galle and Matara districts. Thundershowers will also occur in the Eastern, Uva, and North Central provinces.
 
-එසේම බස්නාහිර හා සබරගමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රහේශවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්ත මේන්තුව දන්වා සිටියි.
+🟩
 
-නැගෙනහිර, ඌව හා උතුරුමැද පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදි තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් දන්වයි.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and North-Western provinces.
+
+Also, in some areas in the Western and Sabaragamuwa Province, Galle and Matara districts are mm mm.. In heating heat, he has informed heat that will experience more than 100.
+
+Thundershowers will develop at several places in the East, Uva and North Central provinces.
 
 ◼️
 
 [Data](articles/bdedd04b.json)
+
+[Extended Data](ext_articles/bdedd04b.ext.json)
 
 ---
 
@@ -2173,53 +2217,5 @@ At the beginning of the 19th century, Louis Daguerre and Joseph Nicephore Niepee
 [Data](articles/44260517.json)
 
 [Extended Data](ext_articles/44260517.ext.json)
-
----
-
-### One dead, six missing after luxury yacht sinks off Sicily
-
-*2024-08-19 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101353/one-dead-six-missing-after-luxury-yacht-sinks-off-sicily) · `en`
-
-One man died and six people were missing after a luxury yacht was struck by an unexpectedly violent storm and sank off the Sicilian capital Palermo, the Italian coast guard said on Monday.
-
-The 56-metre-long (184-ft) sailboat, which was British registered, sank with 22 people on board shortly before sunrise, the coast guard said in a statement.
-
-The missing people were of British, American and Canadian nationality, the coast guard said.
-
-“The wind was very strong. Bad weather was expected, but not of this magnitude,” a coast guard official in Palermo told Reuters.
-
-Storms and heavy rainfall have swept down Italy in recent days - with floods and landslides causing major damage in the north of the country - after weeks of scorching heat.
-
-Eight of the 15 people rescued, including a one-year-old child, were transferred to local hospitals. All were in a stable condition, local media reported.
-
-...
-
-[Data](articles/28c7b3f3.json)
-
-[Extended Data](ext_articles/28c7b3f3.ext.json)
-
----
-
-### Three girls arrested for staying in a hotel in Jaffna
-
-*2024-08-19 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191452) · `ta`
-
-Three women were arrested in Jaffna for suspicious behavior at a private hostel. Police acted on confidential tips and found them unable to verify their identities. They will undergo a medical exam pending further investigation by the Jaffna Magistrate.
-
-🟩
-
-Three women were arrested on Monday morning (19) morning at a private hostel in Jaffna.
-
-On the Jaffna -Kandy highway, the police went to the hostel on the basis of confidential information available to the Jaffna police that there was suspicious behavior at a private hostel at the district secretariat.
-
-At the same time, the police arrested three women who failed to confirm their identity.
-
-The magistrate ordered the three men to be subjected to a medical examination until the Jaffna Magistrate was tried before the Jaffna Magistrate after investigations.
-
-◼️
-
-[Data](articles/09b3f23a.json)
-
-[Extended Data](ext_articles/09b3f23a.ext.json)
 
 ---

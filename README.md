@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 22:09:34**
+As of **2024-08-20 22:21:24**
 
 ## Newspaper Stats
 
-*Scraped **41,745** Articles*
+*Scraped **41,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,515
 dailyftlk | 2,687
-adalk | 3,843
+adalk | 3,844
 dailymirrorlk | 4,733
 adaderanalk | 4,889
 tamilmirrorlk | 5,402
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,742 (100.0%) of 41,745 articles have been extended.
+41,745 (100.0%) of 41,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### දුප්පත්කම තුරන් කිරීමට නව වැඩපිළිවෙළක් -  සජිත්
+### New program to eliminate poverty - Sajith
 
 *2024-08-20 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200153) · `si`
 
-මෙරට සමූපකාර ව්‍යාපාරයද සම්බන්ධ කරගනිමින් ජන සවියෙන් ඔබ්බට ගිය දුප්පත්කම තුරන් කිරීමේ නව වැඩපිළිවෙළක් ඉදිරියේදී ක්‍රියාත්මක කරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Presidential candidate Sajith Premadasa plans to revitalize Sri Lanka's cooperative movement to combat poverty, promising support across 9 provinces through a pact with Co-operatives and Industries.
 
-සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් සමූපකාර කර්මාන්ත සහ වෙළෙඳ හමුව අද පස්වරුවේ පැවැත්වුණේ කොළඹ නෙලුම් පොකුණ රඟහලේදීය.
+🟩
 
-මෙහිදී පළාත් 9ය නියෝජනය කරන සමූපකාර නායකයින් සහ සජිත් ප්‍රේමදාස මහතා අතර ගිවිසුමක්ද අත්සන් තැබුණි.
+The presidential candidate Sajith Premadasa, Sagith Premadasa, says that the Sri Lankan co-operative movement is also implemented in the future.
+
+Co-operative Industries and Markets held the presidential candidate Sajith Premadasa, headed by the presidential promos.
+
+A pact was also signed between Co-operatives and Sajith Premadasa, representing 9 provinces.
 
 ◼️
 
 [Data](articles/7851f465.json)
+
+[Extended Data](ext_articles/7851f465.ext.json)
 
 ---
 
@@ -60,21 +66,29 @@ Accordingly, it is reported that the former President has paid the remaining amo
 
 [Data](articles/31c9ced0.json)
 
+[Extended Data](ext_articles/31c9ced0.ext.json)
+
 ---
 
-### T20 කාන්තා ලෝක කුසලාන තරගාවලිය බංග්ලාදේශයෙන් ඉවතට
+### T20 Women's World Cup out of Bangladesh
 
 *2024-08-20 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200152) · `si`
 
-බංග්ලාදේශය තුළ පැවැත්වීමට සූදානම් කර තිබූ විස්සයි 20 කාන්තා ලෝක කුසලාන තරගාවලිය එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය තීරණය කර තිබේ.
+The ICC has chosen Bangladesh as the host for the T20 Women's World Cup, set to take place in the United Arab Emirates from October 3rd. This decision comes despite concerns over political implications.
 
-මෙවර විස්සයි 20 කාන්තා ලෝක කුසලානය එළඹෙන ඔක්තෝබර් මස 03 වනදා සිට පැවැත්වීමට නියමිතව තිබුණි
+🟩
 
-බංග්ලාදේශය තුළ පවතින දේශපාලනය අස්ථාවරත්වය හේතුවෙන් එය සැලසුම් කළ ලෙස බංග්ලාදේශයේම පවත්වනවාද, නැතිනම් වෙනත් රටකට රැගෙන යන්නේ දැයි ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය ඉකුත් දින කිහිපයේ සලකා බලමින් සිටියේය.
+The International Cricket Council has decided to hold the Twenty20 Women Cup in Bangladesh to be held in the United Arab Emilor.
+
+The Twenty20 Women's World Cup will be held from October 3
+
+The International Cricket Council (ICC) was considering the fact that the politics of the Bangladesh was designed to be designed to be planned in Bangladesh or to other country.
 
 ◼️
 
 [Data](articles/5de1c834.json)
+
+[Extended Data](ext_articles/5de1c834.ext.json)
 
 ---
 
@@ -469,6 +483,24 @@ The Department of Meteorology also requests the public to take action to reduce 
 [Data](articles/ada66d4c.json)
 
 [Extended Data](ext_articles/ada66d4c.ext.json)
+
+---
+
+### රනිල්ට සහාය දෙන පොහොට්ටුවේ මන්ත්‍රීන්ට වෙනමම පක්ෂයක්
+
+*2024-08-20 17:53:12* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ට-සහාය-දෙන-පොහොට්ටුවේ-මන්ත්‍රීන්ට-වෙනමම-පක්ෂයක්/11-411469) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකරන ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් වෙනුවෙන් නව දේශපාලන පක්ෂයක් බිහිකිරීම සම්බන්ධයෙන් වූ විශේෂ සාකච්ඡාවක් අද (2024.08.20) කොළඹදී පැවැත්විණි.
+
+ඉදිරි ජනාධිපතිවරණයෙන් පසුව පැවැත්වෙන ඕනෑම මැතිවරණයකට මෙම නව දේශපාලන පක්ෂය හරහා අපේක්ෂකයින් ඉදිරිපත් කිරීමට එහිදී තීන්දු වී ඇත.
+
+අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ සහ ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක ප්‍රසන්න රණතුංග මහතාගේ  ප්‍රධානත්වයෙන් පැවති මෙම හමුව සඳහා රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කර සිටින ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රීවරු සියයකට ආසන්න පිරිසක් සහභාගි වූහ.
+
+නව දේශපාලන පක්ෂය සඳහා නම් කීපයක්ම එහිදී යෝජනා වී ඇත. ඉදිරියේදී බිහිවන නව දේශපාලන පක්ෂය සඳහා ව්‍යවස්ථාව මේ වන විටත් සකස් කර ඇති බැවින් ඒ ව්‍යවස්ථාව අනුව ඉදිරියේදී කටයුතු කිරීමට ද එහිදී මන්ත්‍රීවරු  තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/ca0a03a2.json)
 
 ---
 
@@ -2339,23 +2371,5 @@ Powell candidates, the election monitoring organization, are also planning to pu
 [Data](articles/7896a4ea.json)
 
 [Extended Data](ext_articles/7896a4ea.ext.json)
-
----
-
-### Bitter life with dream homes
-
-*2024-08-20 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191500) · `ta`
-
-After a devastating event, over half a million people lost their homes, which were then demolished. They were temporarily housed before being relocated to new homes through swift government and international aid efforts, resulting in the construction of tsunami housing projects.
-
-🟩
-
-People lost their possessions. The homes of the people have been demolished. More than 500,000 people had to displace. Most of those who lost their homes were placed in temporary shelters. The government and international communities acted swiftly to provide new homes to victims. As a result, tsunami housing projects were constructed and handed over to the people who lost their homes.
-
-◼️
-
-[Data](articles/3b6ce75e.json)
-
-[Extended Data](ext_articles/3b6ce75e.ext.json)
 
 ---

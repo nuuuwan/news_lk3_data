@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 13:56:24**
+As of **2024-08-20 14:08:50**
 
 ## Newspaper Stats
 
-*Scraped **41,662** Articles*
+*Scraped **41,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,511
 dailyftlk | 2,687
-adalk | 3,831
+adalk | 3,832
 dailymirrorlk | 4,733
-adaderanalk | 4,877
+adaderanalk | 4,878
 tamilmirrorlk | 5,387
-virakesarilk | 6,611
+virakesarilk | 6,615
 adaderanasinhalalk | 7,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,662 (100.0%) of 41,662 articles have been extended.
+41,662 (100.0%) of 41,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### Floods remain in several areas of Kalutara District
+
+*2024-08-20 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101372/floods-remain-in-several-areas-of-kalutara-district) · `en`
+
+Several roads reportedly remain inundated in Madurawala, Palindanuwara, Millaniya and Bulathsinhala areas of Kalutara District due to the heavy rainfall.
+
+Meanwhile, it is also reported that the sluice gates of Kukule Ganga Reservoir and Deduru Oya Reservoir continue to remain open.
+
+The Director of Irrigation, S.P.C. Sugeeshwara stated that flood situations continue to remain in certain areas of the Gampaha District.
+
+Meanwhile, the Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
+
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it said, adding that showers or thundershowers will occur at several places in Eastern, Uva and North-Central Provinces during the evening or night.
+
+...
+
+[Data](articles/26bd1663.json)
+
+---
+
+### ஜப்பானில் கத்தரிக்கோல் காணாமல் போனதால் விமானங்கள் இரத்து
+
+*2024-08-20 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191519) · `ta`
+
+விமான நிலையத்தில் கத்தரிக்கோல் ஒன்று காணாமல் போனதால் விமானங்கள் இரத்து செய்யப்பட்ட சம்பவம் ஒன்று ஜப்பானில் இடம்பெற்றுள்ளது.
+
+கடந்த சனிக்கிழமை (17)  ஜப்பானில் கொக்கைடோவின் நியூ சிட்டோஸ் விமான நிலையத்தின் உள் நுழையும் வாயிலின் அருகே இருந்த  கடையொன்றில் கத்தரிக்கோல் காணாமல் போனதால் 36 விமானங்கள் இரத்து செய்யப்பட்டதோடு, 201 விமான சேவைகள் தாமதமடைந்துள்ளன.
+
+விமான நிலையத்தின் உள்நாட்டு முனையத்தில் பாதுகாப்பு சோதனை நடவடிக்கைகளுக்காக சனிக்கிழமை (18) காலை சுமார் இரண்டு மணி நேரம் ஸ்தம்பித்ததால் பயணிகள் அவதிக்குள்ளாகியுள்ளனர்.
+
+விமான நிலைய ஓய்வறையில் இருந்த பயணிகள் மீண்டும் சோதனைக்கு உட்படுத்தப்பட்டதால் பெரும் நெரிசல் மற்றும் வரிசைகள் காணப்பட்டன.
+
+ஞாயிற்றுக்கிழமை (18)  கடையில் ஒரு தொழிலாளியால் கத்தரிக்கோல் கண்டுபிடிக்கப்பட்டதாக கொக்கைடோ விமான நிலையம் திங்களன்று அறிவித்தது.
+
+காணாமல் போன கத்தரிக்கோலும் இதுவும் ஒன்றுதான் என்பதை உறுதிப்படுத்தும் வரை அறிவிப்பை வெளியிடுவதை நிறுத்தி வைத்திருந்ததாக அதிகாரிகள் விளக்கினர்.
+
+...
+
+[Data](articles/7b349ae6.json)
+
+---
+
+### சட்டவிரோதமாக இலங்கைக்கு கொண்டுவரப்பட்ட இஞ்சியுடன் சந்தேகநபர் கைது !
+
+*2024-08-20 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191520) · `ta`
+
+இந்தியாவிலிருந்து மீன்பிடி படகுகள் மூலம் சட்டவிரோதமாக இலங்கைக்கு கொண்டு வரப்பட்ட 519 கிலோ 750 கிராம் இஞ்சியுடன் சந்தேகநபரொருவர் கைது செய்யப்பட்டுள்ளதாக மன்னார் பொலிஸ் விசேட அதிரடிப்படையினர் தெரிவித்துள்ளனர்.
+
+மன்னார் இராணுவ படையினருக்கு கிடைத்த தகவலின் அடிப்படையில் சுற்றிவளைப்பினை மேற்கொண்ட போது, இலங்கைக்கு  கொண்டுவரப்பட்ட  இஞ்சியுடன் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+நாட்டின் பல்வேறு பகுதிகளில் இஞ்சிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளமையினாலும், விலை அதிகரிப்பினாலும், இந்தியாவிலிருந்து  பச்சை இஞ்சி கடத்தல் மேற்கொண்டு அதிக விலைக்கு விற்பனை செய்ய முயற்சித்துள்ளதாக விசாரணையில் தெரியவந்துள்ளது.
+
+மேலும், சந்தேகநபர் இஞ்சியை பல பைகளில் பொதி  செய்து வெவ்வேறு பகுதிகளுக்கு விற்பனை செய்ய தயார் நிலையில் இருந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/6b425aae.json)
+
+---
 
 ### 712,321 eligible to vote by post
 
@@ -116,6 +176,18 @@ He further advised that if children are showing such symptoms they should wear a
 
 ---
 
+### இன்றைய நாணயமாற்று விகிதம்
+
+*2024-08-20 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191514) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (ஆகஸ்ட் 20) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 294.3604 ரூபா ஆகவும் விற்பனை விலை 303.5775 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/233e39af.json)
+
+---
+
 ### Announce in Kalutara Flood
 
 *2024-08-20 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200130) · `si`
@@ -161,6 +233,28 @@ Blinken’s visit comes as U.S. President  faces mounting election-year pressur
 [Data](articles/8321c6ad.json)
 
 [Extended Data](ext_articles/8321c6ad.ext.json)
+
+---
+
+### அமெரிக்க ஜனநாயகத்தை பாதுகாப்பதற்கான மிகச்சிறந்த நம்பிக்கை - கமலா ஹரிஸ் - ஜனநாயக கட்சியின் மாநாட்டில் பைடன்
+
+*2024-08-20 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191515) · `ta`
+
+அமெரிக்க ஜனநாயகத்தினை பாதுகாப்பதற்கான மிகச்சிறந்த நம்பிக்கை கமலா ஹாரிஸ் என ஜனாதிபதி ஜோபைடன் தெரிவித்துள்ளார்
+
+நன்றி ஜோ என்ற கோசங்களிற்கு இடையில்  ஜோ பைடன் தனது மகள் ஜோ ஆஸ்லேயுடன் மேடையில் தோன்றினார்.
+
+தனது மகள் தன்னை அறிமுகப்படுத்திய பின்னர் கண்ணீருடன் உரையாற்றிய பைடன் நீங்கள் சுதந்திரத்திற்காக வாக்களிக்க தயாரா?அமெரிக்காவிற்கும் ஜனநாயக கட்சிக்கும் வாக்களிக்க தயாரா? கமலா ஹரிசையும் டிம் வோல்சினையும் தெரிவு செய்ய தயாரா என கேள்வி எழுப்பினார்.
+
+டொனால்ட் டிரம்பினை பலமுறை தாக்கிய பைடன் ஹரிசிற்கான மிகச்சிறந்த தொண்டனாக விளங்குவேன் என்றார்.
+
+நான் ஜனாதிபதி பதவியை நேசிக்கின்றேன் ஆனால் அதனை விட அமெரிக்காவை நேசிக்கின்றேன் என அவர் தெரிவித்தவேளை மாநாட்டில் திரண்டிருந்தவர்கள் நாங்கள் ஜோவை நேசிக்கின்றோம் என கோசம் எழுப்பினர்.
+
+அமெரிக்க பொருளாதாரத்தை வலுப்படுத்தியது,சர்வதேச ரீதியில் அதன் நட்புறவை வலுப்படுத்தியது போன்ற தனது அரசாங்கத்தின் சாதனைகளை பட்டியலிட்;ட பைடன் தனக்கு பின்னர் வெள்ளை மாளிகைக்கு கமலா ஹாரிசினை தெரிவு செய்யுமாறு வேண்டுகோள் விடுத்தார்.
+
+...
+
+[Data](articles/190d1c97.json)
 
 ---
 
@@ -304,19 +398,37 @@ Residents of the affected areas have been urged to be vigilant and take necessar
 
 The 11 suspects, including a female suspect, who were arrested in connection with the shooting and killing of two persons including Surendra Wasantha Perera alias ‘Club Wasantha’ in Athurigiriya, have been further remanded until September 02 by the Kaduwela Magistrate’s Court, Ada Derana reporter said.
 
-The order was issued after the defendants were produced before the Kaduwela Magistrate’s Court today (20).
+The order was issued after the defendants were produced before the Kaduwela Magistrate’s Court today (20) when case related to the incident was taken up before the court this afternoon.
 
-The legal case related to the incident was taken up before the court this afternoon.
+The Kaduwela Magistrate also ordered that the investigations related to the incident be handed over to the Western Province (South) Crimes Division.
 
-Police had arrested eleven suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place on July 08 and a 21-year-old female on suspicion of having aided and abetted in the shooting incident.
-
-During the investigations carried out thus far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million over a period of time.
+Based on the concerns raised by the attorneys who appeared on behalf of the accused that there are threats to the lives of their clients, the Magistrate also ordered that they be provided with the necessary security.
 
 ...
 
 [Data](articles/505e39f4.json)
 
 [Extended Data](ext_articles/505e39f4.ext.json)
+
+---
+
+### ජනපතිවරණයට ආවේ  දිනන්න නෙවෙයි
+
+*2024-08-20 11:15:47* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-ආවේ--දිනන්න-නෙවෙයි/11-411457) · `si`
+
+තමන් ජනාධිපති මැතිවරණයට තරග කරනුයේ දිනන්න නොව කියන්න බව මෛලයග අරියසල් අරංගම්  නායක ජනාධිපති අපේක්ෂක එම්. තිලකරාජ් මහතා පවසයි.
+
+හැටන්හි පිහිටි ඒ මහතාගේ කාර්යාලයේදි මේ බව පැවසු එම්. තිලකරාජ් මහතා එහිදි වැඩි දුරටත් මෙසේද පවසන ලදි.
+
+1948 වර්ෂයේදි නිදහස ලැබිමෙන් පසුව 1949 වර්ෂයේදි පාර්ලීමේන්තු පනතකින්  මේ වතුකර ජනතාවගේ පුරවැසි අයිතිය අයින් කලා එයට පසුව 1977 තමයි ඡන්දයකින් වතුකරයේ අයකු පාර්ලීමේන්තුවට ගියේ.
+
+එතන සිට වරින් වර මෙම වතුකර ප්‍රදේශවලින් කිප දෙනකු ඡන්දය ඉල්ලා පාර්ලීමේන්තුවට ගියත් මට අවශ්‍ය වුනා මේ වතුකරයෙන් ජනාධිපති මැතිවරණයකටත් අයකුට තරග කරන්න පුලුවන් කියලා පෙන්වන්න.
+
+මෙවර ජනාධිපති මැතිවරණයට තරග කරන එක් අයකුට රුපියල් කෝටි 200ක් පමන වැය වන බව කියනවා මේ වැය කරන මුදලින් එක් අවුරුද්දකට රුපියල් කෝටියක් වතුකරයට වියදම් කලානම් මේ තරම් ප්‍රශ්න මේ වතුකර ජනතාවට  නැහැ.
+
+...
+
+[Data](articles/5aa55291.json)
 
 ---
 
@@ -2165,139 +2277,5 @@ We torn up without being able to tolerate this. In the last general election, Ra
 [Data](articles/ab2b87e6.json)
 
 [Extended Data](ext_articles/ab2b87e6.ext.json)
-
----
-
-### Opportunity for heavy rains - Department of Meteorology
-
-*2024-08-19 22:32:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனமழைக்கு-வாய்ப்பு-வளிமண்டலவியல்-திணைக்களம்-எச்சரிக்கை/175-342475) · `ta`
-
-Heavy rains forecasted in Western & Sabaragamuwa provinces, Galle & Matara districts over 24 hours due to atmospheric conditions. Expectations of rainfall exceeding 100mm in some areas. Public advised to prepare for potential impacts from strong winds and lightning during storms.
-
-🟩
-
-The Department of Meteorology has instructed heavy rains in the next 24 hours in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-It is expected that the rainy weather is expected to continue in the southwest due to the atmospheric conditions near Sri Lanka.
-
-It has warned that more than 100 millimeters of heavy rains are expected in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-Therefore, the public is asked to take adequate precautions to reduce the impact of temporary heavy winds and lightning during thunderstorms.. Remble
-
-◼️
-
-[Data](articles/48bb8271.json)
-
-[Extended Data](ext_articles/48bb8271.ext.json)
-
----
-
-### Weather advisory issued for heavy rains
-
-*2024-08-19 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101360/weather-advisory-issued-for-heavy-rains) · `en`
-
-The Meteorology Department has issued an advisory for heavy rainfall, valid for the next 24 hours, for the Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-It states that the prevailing showery condition are expected to continue in the southwestern part of the island due to the low-level atmospheric disturbance in the vicinity of Sri Lanka.
-
-Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, the advisory warned.
-
-The general public is therefore kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/3751341f.json)
-
-[Extended Data](ext_articles/3751341f.ext.json)
-
----
-
-### Weather advisory issued for heavy rainfall
-
-*2024-08-19 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101360/weather-advisory-issued-for-heavy-rainfall) · `en`
-
-The Meteorology Department has issued an advisory for heavy rainfall, valid for the next 24 hours, for the Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-It states that the prevailing showery condition are expected to continue in the southwestern part of the island due to the low-level atmospheric disturbance in the vicinity of Sri Lanka.
-
-Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, the advisory warned.
-
-The general public is therefore kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/523f7a31.json)
-
-[Extended Data](ext_articles/523f7a31.ext.json)
-
----
-
-### Boat drowned in Sicily Sea - Magic many, including Sri Lankans
-
-*2024-08-19 21:49:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சிசிலி-கடலில்-மூழ்கிய-படகு-இலங்கையர்கள்-உட்பட-பலர்-மாயம்/50-342462) · `ta`
-
-A luxury boat sank off Sicily, leaving at least 7 missing among 22 passengers, including tourists from New Zealand, Sri Lanka, Ireland, Britain, France, and Canada. The Coast Guard rescued 15 people, including children. The boat, flagged as British, was carrying tourists on vacation.
-
-🟩
-
-Italian media reports that at least 7 people have been missing in the luxury boat sinks with 22 people this morning on the Sicily coast.
-
-However, 15 people, including an adult child, were rescued by Coast Guard patrol boats and firefighters.
-
-Citizens from New Zealand, Sri Lanka and Ireland and two British and French citizens are reportedly on the boat.
-
-It is believed that the group was tourists on vacation in Sicily and the boat was traveling under the British flag.
-
-Meanwhile, the agency report states that 4 of the missing were 4 British, one Canadians and two Americans. Remble
-
-◼️
-
-[Data](articles/c9fd20f8.json)
-
-[Extended Data](ext_articles/c9fd20f8.ext.json)
-
----
-
-### Namal met Cardinal
-
-*2024-08-19 21:46:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்தினாலை-சந்தித்தார்-நாமல்/175-342461) · `ta`
-
-Namal Rajapaksa, Sri Lanka PA's presidential candidate, met Archbishop Malcolm Ranjith, emphasizing the need for an Independent Commission to probe Easter Sunday bombings. Namal concurred on the necessity of such a commission.
-
-🟩
-
-Namal Rajapaksa, the presidential candidate of the Sri Lanka PA, met Archbishop Malcolm Ranjith today at the official residence of the Archbishop in Borella.
-
-During the meeting, the Archbishop emphasized the need for the Independent Commission to investigate those responsible for the Easter Sunday bombing.
-
-Namal agreed to the importance of establishing an independent judicial commission for this purpose.
-
-◼️
-
-[Data](articles/107c8bf3.json)
-
-[Extended Data](ext_articles/107c8bf3.ext.json)
-
----
-
-### Larry collided with train
-
-*2024-08-19 21:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்துடன்-மோதிய-லொறி-ஒருவர்-உயிரிழப்பு/175-342460) · `ta`
-
-In a tragic accident near Kosgoda, a 55-year-old man was killed and another injured when a lorry train carrying firewood collided with a train at the Maha Hinduva railway crossing. The injured have been hospitalized, with their condition described as serious.
-
-🟩
-
-One person was killed when a small lorry train carrying firewood was collided this afternoon near the railway crossing of the Maha Hinduva area in Kosgoda.
-
-A 55 -year -old Hindu area was killed and the other was injured in the accident.
-
-The injured person has been admitted to the hospital, where his condition is worried. Remble
-
-◼️
-
-[Data](articles/9baf072a.json)
-
-[Extended Data](ext_articles/9baf072a.ext.json)
 
 ---

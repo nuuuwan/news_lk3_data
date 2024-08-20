@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 02:36:48**
+As of **2024-08-21 02:55:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,780 (100.0%) of 41,781 articles have been extended.
+41,781 (100.0%) of 41,781 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -268,17 +268,25 @@ This youth development project is designed to foster entrepreneurship among the 
 
 ---
 
-### ’பொருளாதார சுதந்திரத்தை உருவாக்க இணையுங்கள்’
+### To create economic freedom
 
 *2024-08-21 01:00:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-சுதந்திரத்தை-உருவாக்க-இணையுங்கள்/175-342543) · `ta`
 
-பொருளாதாரப் பேரழிவின் விளிம்பில் சிக்கி இருக்கின்ற  நாட்டை மீட்டெடுப்பதற்கு முடியுமான ஞானமும் திறமையும் உள்ள சிறந்த குழு என்னிடம் இருக்கின்றது. மனிதாபிமான  முதலாளித்துவத்தையும், சமூக  ஜனநாயகத்தையும் ஒன்றோடு ஒன்று இணைத்து   ஏற்றுமதியை மையமாகக் கொண்ட பொருளாதார மேம்பாட்டின் ஊடாக நமது நாட்டை செழிப்பான நாடாகவும், துரித பொருளாதார  அபிவிருத்தியுடைய நாடாகவும் மாற்றி, அதன் பிரதிபலனின்  சமத்துவத்தை உறுதிப்படுத்தும் வகையில் பகிர்ந்தளிக்கும் பொருளாதார கட்டமைப்பிற்கு  இந்தக் குழுவோடு செல்ல முடியும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The Opposition Leader proposes transforming Sri Lanka from economic crisis to prosperity through humanitarian capitalism and social democracy, emphasizing transparency and equality to combat corruption.
 
-இந்த புதிய சிந்தனை சமமான வழிமுறையை பின்பற்றி  நீதியையும் நியாயத்தையும்  நிலைநாட்டுகின்ற புதிய பாதைக்கு இட்டுச் செல்லும். இதில் ஊழல் மோசடிக்கு எந்த ஒரு இடமும் இல்லை.  கொள்முதல் முறைகளையும்  மோசடியான அரச கொடுக்கல் வாங்கல் முறைகளையும்  தவிர்த்து, ஊழலை அடியோடு இல்லாத செய்யும்  பொருளாதார சுதந்திரத்தை வெற்றி கொள்ளும் பணியில்  இணைந்து கொள்ளுமாறு  அழைப்பு விடுக்கிறேன்  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+🟩
+
+I have the best group of wisdom and talent to restore the country that is trapped on the brink of economic disaster. The Opposition Leader said that through the economic development of humanitarian capitalism and social democracy, we could transform our country into a prosperous country and a rapid economic development country, and that the economic structure of the reflection could be accompanied by the economic structure.
+
+This new thinking will lead to a new path that maintains justice and justice by following the equal means. There is no place for corruption scandal.Opposition Leader Sajith Premadasa said that I am invited to join the task of winning the economic independence of corruption, except for procurement systems and fraudulent government transactions.
+
+"I would like to thank the traders and businessmen of our country who have been involved in a friendly discussion and ideas on the future economic methods of our country," the Opposition Leader said at the session.
 
 ...
 
 [Data](articles/ea2b4a79.json)
+
+[Extended Data](ext_articles/ea2b4a79.ext.json)
 
 ---
 

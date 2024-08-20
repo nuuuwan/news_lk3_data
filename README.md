@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 21:36:46**
+As of **2024-08-20 21:56:10**
 
 ## Newspaper Stats
 
-*Scraped **41,739** Articles*
+*Scraped **41,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,55 @@ dailyftlk | 2,687
 adalk | 3,843
 dailymirrorlk | 4,733
 adaderanalk | 4,888
-tamilmirrorlk | 5,400
+tamilmirrorlk | 5,402
 virakesarilk | 6,631
-adaderanasinhalalk | 7,127
+adaderanasinhalalk | 7,128
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,738 (100.0%) of 41,739 articles have been extended.
+41,739 (100.0%) of 41,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### තුන්වන තරගයේ ජය ශ්‍රී ලංකාවට
+### මෛත්‍රී පාස්කු වන්දි මුදල ගෙවා අවසන් කරයි
+
+*2024-08-20 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200151) · `si`
+
+පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට ගෙවීමට නියම වූ රුපියල් මිලියන 100ක වන්දිය ගෙවා අවසන් කර තිබේ.
+
+ඒ අනුව ඔහු විසින් ගෙවීමට ඉතිරිව තිබූ රුපියල් මිලියන 12ක මුදල 2024.08.16 වනදා ගෙවා අවසන් කර ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/14bbc27d.json)
+
+---
+
+### Sri Lanka wins the third match
 
 *2024-08-20 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200149) · `si`
 
-ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සහ අයර්ලන්ත කාන්තා ක්‍රිකට් කණ්ඩායම අතර පැවැති තෙවෙනි සහ අවසන් එක්දින තරගයෙන් ජය හිමි කරගැනීමට ශ්‍රී  ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම අද (20) සමත් වූවාය.
+In the third match, Sri Lanka's women's cricket team triumphed over the Irish Women's Cricket Team and the World Cricket Team. They ended their innings at 122 runs off 23 overs, losing only two wickets but securing an eight-wicket victory. Despite this win, the overall series score remains 1-1 in favor of Ireland.
 
-ලකුණු 122ක අයර්ලන්ත ඉලක්කය හඹා ගිය ශ්‍රී ලංකාව පන්දුවාර 23යි එක් පන්දුවක් අවසානයේ කඩුලු 2ක් දැවී ලකුණු 123ක් වාර්තා කළේය.
+🟩
 
-ඒ අනුව ශ්‍රී ලංකා ක්‍රීඩිකාවන් එම තරගය කඩුලු 08කි ජය ගත්තාය.
+Sri Lanka women's cricket team won the Town and the Irish Women's Cricket Team and the World Cricket Team won.
 
-කෙසේවෙතත් 2ට 1ක් ලෙස තරගාවලියේ ජය හිමිකර ගැනීමට අයර්ලන්ත ය සමත්විය.
+Sri Lanka scored 122 runs in the end of 23 overs and the loss of 2 wickets at the end of the three wickets.
+
+Accordingly, Sri Lanka won eight wickets.
+
+However, Ireland beat the tournament as 1 to 1.
 
 ◼️
 
 [Data](articles/745236fe.json)
+
+[Extended Data](ext_articles/745236fe.ext.json)
 
 ---
 
@@ -83,6 +103,26 @@ The commemorative stamp was presented to President Ranil Wickremesinghe, accordi
 [Data](articles/9663b8cb.json)
 
 [Extended Data](ext_articles/9663b8cb.ext.json)
+
+---
+
+### மன்னார் யுவதி மரணம் :வைத்தியர் பணியிடை நீக்கம்
+
+*2024-08-20 20:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-யுவதி-மரணம்-வைத்தியர்-பணியிடை-நீக்கம்/175-342527) · `ta`
+
+மன்னார் மாவட்ட பொது வைத்தியசாலையில் மரியராஜ் சிந்துஜா என்ற இளம் பெண் உயிரிழந்த சம்பவம் தொடர்பில் வைத்தியர் ஒருவரை பணியிடை நீக்கம் செய்வதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+அண்மையில் குழந்தையைப் பிரசவித்த 27 வயதான மரியராஜ் சிந்துஜா என்ற பட்டதாரி பெண், அதிக குருதி போக்கு காரணமாக கடந்த மாதம் 28ஆம் திகதி மன்னார் பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்தார்.
+
+எவ்வாறாயினும் அந்தச் சந்தர்ப்பத்தில் அங்கிருந்த வைத்தியர்கள் அவருக்கு உரிய முறையில் சிகிச்சையளிக்கவில்லை எனவும் வைத்தியர்களின் அசமந்த போக்கின் காரணமாகவே அவர் உயிரிழந்ததாகவும் குற்றஞ்சாட்டப்படுகிறது.
+
+இந்த நிலையில் குறித்த சம்பவம் தொடர்பான விசாரணைகளுக்கு அமைய முன்னதாக, இரண்டு தாதியர்களுக்கும் இரண்டு குடும்பநல சுகாதார உத்தியோகத்தர்களுமாக நான்கு பேர் பணியிடை நீக்கம் செய்யப்பட்டுள்ளனர்.
+
+இந்த நிலையில் குறித்த சம்பவம் தொடர்பில் வைத்தியர் ஒருவருக்கும் பணியிடை நீக்கம் வழங்குவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வட மாகாண சுகாதார சேவைகள் பணிப்பாளர் நாயகம் தெரிவித்தார்.
+
+...
+
+[Data](articles/4a841a64.json)
 
 ---
 
@@ -247,6 +287,20 @@ It is said that 642 complaints were regarding violating election laws.
 [Data](articles/dda08abe.json)
 
 [Extended Data](ext_articles/dda08abe.ext.json)
+
+---
+
+### மீட்பர் ரணில் அல்லர்: இந்தியாவே மீட்டது
+
+*2024-08-20 18:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்பர்-ரணில்-அல்லர்-இந்தியாவே-மீட்டது/175-342524) · `ta`
+
+இலங்கை ரூபா பெறுமதியில், 120,000 இலட்சம் ரூபாய்களுக்கு நிகரான, 400 கோடி அமெரிக்கா டாலர் தொடர் கடன் (Indian Credit Line) நிதி உதவியை இந்திய அரசு தந்ததால்தான், பெட்ரோல், உணவு, காஸ், மருந்து வரிசைகள், மின்வெட்டுகள், உர தட்டுபாடு ஆகியவற்றில் இருந்து எமது நாடு காப்பாற்ற பட்டது. இந்த உண்மையை மறைத்து ரணில் விக்கிரமசிங்க நரித்தனமாக பேசி தெரிகிறார்.
+
+இலங்கைக்கு இந்திய அரசின் தொடர் கடன் (Indian Credit Line) நிதி உதவி வழங்க வேண்டும் என இந்திய அரசு, 2021ம் வருடம், டிசம்பர் மாதம், கொள்கைரீதியாக முடிவு எடுத்தது. இவை ரணில் ஆட்சிக்கு வர முன்னர் தீர்மானிக்க பட்டவை. அதன் பிறகு, 2022ம் வருட மே மாதம் பிரதமராகவும், ஜூலை மாதம் ஜனாதிபதியாகவும் ரணில் பதவிகளை ஏற்றார். ரணில் பதவிக்கு வந்து இவற்றை பயன்படுத்தினார். ரணில் பதவிக்கு வந்து சுய முயற்சியால் இவற்றை கொண்டு வரவில்லை.  இந்த உதவிகள் இந்திய அரசு, இலங்கை மக்களுக்கு, இலங்கை நாட்டுக்கு வழங்கிய பெரும் உதவிகளாகும்.
+
+...
+
+[Data](articles/2a6e7536.json)
 
 ---
 
@@ -2301,79 +2355,5 @@ During the investigations carried out thus far, it has been revealed that the ow
 [Data](articles/5d1bbdaa.json)
 
 [Extended Data](ext_articles/5d1bbdaa.ext.json)
-
----
-
-### 39-year-old attacked to death over personal dispute
-
-*2024-08-20 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101366/39-year-old-attacked-to-death-over-personal-dispute) · `en`
-
-A person has been attacked to death with a sharp weapon and a club near a house in the Naramminiya area of Peliyagoda.
-
-The incident had occurred on August 18 and the person who was critically injured from the incident has succumbed to injuries while receiving treatment in the Colombo National Hospital last morning (19).
-
-The deceased is a 39-year-old resident of the Kelaniya area on Naramminiya Road.
-
-Police said the attack was carried out by a group of individuals over a personal dispute.
-
-A 24-year-old resident of the Kottukachchiya area has been arrested by the police in connection with the incident along with the knife which was allegedly used in the crime.
-
-◼️
-
-[Data](articles/e9da1fe2.json)
-
-[Extended Data](ext_articles/e9da1fe2.ext.json)
-
----
-
-### "Sajith colleagues join Ranil"
-
-*2024-08-20 10:49:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-சகாக்கள்-பலர்-ரணிலுடன்-இணைவர்/175-342498) · `ta`
-
-Manusha Nanayakkara announced that several members from the United People's Power (SJB), including four to five key figures, will join President Ranil Wickremesinghe in the coming days. This move comes as part of a broader support network for the president in the upcoming elections, with fourteen SJB members already expressing their backing. The SJB, known for its diverse opinions, enjoys the support of MPs from the Sri Lanka Peoples Freedom Alliance (PA) and notable figures like Sujeewa Senasinghe, Arjuna Ranatunga, Thilanga Sumathipala, Sampika Ranawaka, and Sajith Premadasa.
-
-🟩
-
-Former Minister Manusha Nanayakkara has said that four or five members of the United People's Power (SJB) will join President Ranil Wickremesinghe in the next few days.
-
-Speaking at an event, Nanayakkara said that a total of fourteen SJB members have already given their support in support of the president in the upcoming election.
-
-The former minister further pointed out that the SJB is currently an equal group of people who accept and oppose the same things.
-
-The SJB currently has the support of MPs of the Sri Lanka Peoples Freedom Alliance (PA). Sujeewa Senasinghe, who wrote books on the scandal scam, is also in the party, who claimed that the fraud was a daylight robbery.
-
-Arjuna Ranatunga, who has said that cricket is ruined by gambling, and Thilanga Sumathipala, who runs the gambling.. Sampika Ranawaka, who criticized the loans by speaking English, and Sajith Premadasa, who are trying to get a loan in English, are in the party. ”
-
-...
-
-[Data](articles/acfca123.json)
-
-[Extended Data](ext_articles/acfca123.ext.json)
-
----
-
-### Anura Religious Current
-
-*2024-08-20 10:45:04* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-අපුරේ-ආගමික-වතාවත්වල/11-411455) · `si`
-
-Anura Kumara Dissanayake criticized political practices, highlighting issues like corruption, party transfers, and the influence of money over merit in candidate selection. He emphasized the need for honesty, integrity, and a focus on building a manufacturing economy. He also touched on the International Monetary Fund's involvement and the potential abolition of the Executive Presidency, suggesting it aligns with national sentiment but was previously unaddressed.
-
-🟩
-
-Amassamanadhi Candinal Anura Kumara Dissanayake, President's President of the party, visited Anuradhapura last evening and visited Pallegama Hemarathana Nawaraga.
-
-Speaking to the media after blessings, he said that Ranil Wickremesinghe is already underway in the country.. He also said that Maithripala Sirisena and Chandrika Kumaratunga were implementing the jungles of jungles during their reign.
-
-"We work in the future to bring the lawyers to the victims of the judiciary. Party leaders have a responsibility while presenting election candidates for elections. But they first look at the number of money to present the election.
-
-We change the culture of mind and honesty that the candidate has the knowledge and sincerity.
-
-The government of the national proof is a broken promise to stop corruption and punishing fraudsters and pollutants. We believe that a program to build a manufacturing economy can be strengthened by rejecting the taxpayers to provide a meal to the poor and the poor taxpayers.
-
-...
-
-[Data](articles/4e57e4d7.json)
-
-[Extended Data](ext_articles/4e57e4d7.ext.json)
 
 ---

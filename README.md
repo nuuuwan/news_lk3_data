@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 19:36:49**
+As of **2024-08-20 19:55:15**
 
 ## Newspaper Stats
 
-*Scraped **41,727** Articles*
+*Scraped **41,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,515
 dailyftlk | 2,687
-adalk | 3,840
+adalk | 3,841
 dailymirrorlk | 4,733
 adaderanalk | 4,885
 tamilmirrorlk | 5,397
@@ -26,43 +26,55 @@ adaderanasinhalalk | 7,124
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,724 (100.0%) of 41,727 articles have been extended.
+41,727 (100.0%) of 41,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### ජනාධිපතිවරණයට අදාළ පැමිණිලි තව තවත් ඉහළට
+### Presidential election related complaints
 
 *2024-08-20 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200146) · `si`
 
-මෙවර ජනාධිපතිවරණයට අදාළව ලැබී ඇති පැමිණිලි සංඛ්‍යාව තවදුරටත් ඉහළ ගොස් තිබේ.
+Complaints about the presidential election have risen, with 666 received since July 31, including 642 for election law violations. Three complaints went to national centers, while others were distributed across district centers.
 
-ඊයේ (19) දිනය තුළ මැතිවරණ පැමිණිලි 35ක් ලැබී ඇති අතර එම සියලු පැමිණිලි මැතිවරණ නීති රීති උල්ලංඝණය කිරීම් බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+🟩
 
-ඉන් පැමිණිලි 3ක් ජාතික මැතිවරණ පැමිණිලි මධ්‍යස්ථානයට සහ අනෙක් පැමිණිලි 32ක දිස්ත්‍රික් මැතිවරණ පැමිණිලි මධ්‍යස්ථාන වෙත ලැබී තිබුණි.
+The number of complaints received regarding the presidential election has further increased.
 
-මේ අතර පසුගිය ජුලි මස 31 වන දින සිට මේ දක්වා ලැබී ඇති සමස්ත පැමිණිලි සංඛ්‍යාව 666ක් බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Elections Commission states that all the complaints have been received last (19).
 
-ඉන් පැමිණිලි 642ක් මැතිවරණ නීති රීති උල්ලංඝණය කිරීම සම්බන්ධයෙන් වන බව සඳහන් වේ.
+Three of the complaints were received at the National Elections Complaint Center and the District Elections Complaints Center for 32 other complaints.
+
+Meanwhile, the Elections Commission stated that the total number of complaints received from 31st July was 666.
+
+It is said that 642 complaints were regarding violating election laws.
 
 ◼️
 
 [Data](articles/dda08abe.json)
 
+[Extended Data](ext_articles/dda08abe.ext.json)
+
 ---
 
-### இலங்கையை மீட்டது இந்தியா தான் -  ரணில் விக்ரமசிங்க அல்ல
+### India is the rescue of Sri Lanka - Ranil Wickremesinghe is not
 
 *2024-08-20 18:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-மீட்டது-இந்தியா-தான்-ரணில்-விக்ரமசிங்க-அல்ல/175-342524) · `ta`
 
-இலங்கை ரூபா பெறுமதியில், 120,000 இலட்சம் ரூபாய்களுக்கு நிகரான, 400 கோடி அமெரிக்கா டாலர் தொடர் கடன் (Indian Credit Line) நிதி உதவியை இந்திய அரசு தந்ததால்தான், பெட்ரோல், உணவு, காஸ், மருந்து வரிசைகள், மின்வெட்டுகள், உர தட்டுபாடு ஆகியவற்றில் இருந்து எமது நாடு காப்பாற்ற பட்டது. இந்த உண்மையை மறைத்து ரணில் விக்கிரமசிங்க நரித்தனமாக பேசி தெரிகிறார்.
+India's financial aid of $400 million to Sri Lanka has alleviated shortages in fuel, food, medicines, electricity, and fertilizers, significantly aiding the country's recovery. This support, initiated before Ranil Wickremesinghe's tenure, continued under his leadership, contributing to stabilizing the nation's critical resources. Despite Ranil's claims of credit for these efforts, the assistance was a collective effort involving both governments and the people of Sri Lanka, highlighting the broader impact beyond individual leadership.
 
-இலங்கைக்கு இந்திய அரசின் தொடர் கடன் (Indian Credit Line) நிதி உதவி வழங்க வேண்டும் என இந்திய அரசு, 2021ம் வருடம், டிசம்பர் மாதம், கொள்கைரீதியாக முடிவு எடுத்தது. இவை ரணில் ஆட்சிக்கு வர முன்னர் தீர்மானிக்க பட்டவை. அதன் பிறகு, 2022ம் வருட மே மாதம் பிரதமராகவும், ஜூலை மாதம் ஜனாதிபதியாகவும் ரணில் பதவிகளை ஏற்றார். ரணில் பதவிக்கு வந்து இவற்றை பயன்படுத்தினார். ரணில் பதவிக்கு வந்து சுய முயற்சியால் இவற்றை கொண்டு வரவில்லை.  இந்த உதவிகள் இந்திய அரசு, இலங்கை மக்களுக்கு, இலங்கை நாட்டுக்கு வழங்கிய பெரும் உதவிகளாகும்.
+🟩
+
+The Indian government has provided financial assistance to the US $ 400 billion in the Sri Lankan rupee, our country has been saved from petrol, food, gas, pharmaceuticals, electricity and fertilizers.. Ranil Wickremesinghe is talking about this fact.
+
+In December 2021, the Government of India decided to provide financial assistance to Sri Lanka's Indian Credit Line. These are deciding before Ranil came to power. Subsequently, Ranil assumed positions as Prime Minister and President in July 2022. Ranil came to office and used these. Ranil did not bring these things with self -effort.These assistance is a great assistance provided by the Government of India, the Sri Lankan people and the Sri Lankan country.
 
 ...
 
 [Data](articles/30652d63.json)
+
+[Extended Data](ext_articles/30652d63.ext.json)
 
 ---
 
@@ -340,6 +352,24 @@ The film 'Banana', which is being directed by director Mari Selvaraj, who is the
 
 ---
 
+### රජයේ පහළම සේවකයාගේ වැටුපත් රු. 55000ක් දක්වා ඉහළට
+
+*2024-08-20 17:11:41* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-පහළම-සේවකයාගේ-වැටුපත්-රු--55000ක්-දක්වා-ඉහළට/11-411466) · `si`
+
+රාජ්‍ය සේවක වැටුප් දීමනාව වැඩිවීමෙන්, පහළම සේවකයන්ටත් අවම වශයෙන් මසකට රුපියල් 55,000ක් හෝ ඊට වඩා වැඩි ප්‍රමාණයක් හිමිවන බව ප්‍රවාහන, මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය කැබිනට් ප්‍රකාශක,  අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පැවසීය. අමාත්‍යවරයා මේ බව පැවසුවේ රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති විශේෂ මාධ්‍ය හමුවට එක්වෙමිණි.
+
+රාජ්‍ය සේවකයන්ගේ වැටුප් වැඩිවීම සහ ජීවන වියදම් දීමනාව සම්බන්ධයෙන් දුර්මතයන් රාශියක් පැතිරෙමින් පවතින බවත්, කැබිනට් මණ්ඩලය විසින් ගනුලැබූ තීරණය වැරදි ආකාරයෙන් සමාජගත වේ නම් එය නිවැරදි කිරීම තමාගේ යුතුකමක් බවද හෙතෙම පෙන්වා දුන්නේය.
+
+වර්තමාන ආණ්ඩුවේ කැබිනට් ප්‍රකාශක වශයෙන් ජනතාවට වැදගත් කැබිනට් තීරණ තමා ප්‍රකාශ කරන  බවත් එහෙත් ඇතැම් කැබිනට් තීරණ නිවැරදිව ජනතාව හමුවට නොයන බවත් අමාත්‍යවරයා පෙන්වා දුන්නේය.
+
+පසුගියදා කැබිනට් මණ්ඩලය රැස් වූ අවස්ථාවේදී රාජ්‍ය සේවකයන්ගේ වැටුප් වර්ධක සම්බන්ධයෙන් වූ කැබිනට් පත්‍රිකාව තමා ඉදිරිපත්කළ බවත් එහි ප්‍රධාන කරුණු 02ක් ඇතුළත් වූ බවද හෙතෙම පැවසීය.
+
+...
+
+[Data](articles/3066b60b.json)
+
+---
+
 ### Complaint on cylinder logo is baseless - Elections Commission
 
 *2024-08-20 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191543) · `ta`
@@ -388,21 +418,31 @@ The petitioner has filed these cases through the Attorneys of the Inquitus Law I
 
 ---
 
-### රාජ්‍ය පොහොර සමාගම වාර්තාගත ලාභයක් ලබයි
+### State fertilizer firms recorded recorded profits
 
 *2024-08-20 17:03:09* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-පොහොර-සමාගම-වාර්තාගත-ලාභයක්-ලබයි/11-411465) · `si`
 
-මෙතෙක් පොහොර සමාගම් දෙකක් වශයෙන් වශයෙන් පැවැති රජයට අයත් ලංකා පොහොර සමාගම හා කොමර්ෂල් පොහොර සමාගම් දෙක 2024 වසරේ සිට රාජ්‍ය පොහොර සමාගම (State Fertilizer Company ) නමින් ඒකාබද්ධ කල අතර එම සමාගම පසුගිය වසර තුළ වාර්තාගත ලාභයක් උපයා ඇතැයි එම පොහොර සමාගම් දෙකේ සභාපති ආචාර්ය ජගත් පෙරේරා මහතා පවසයි.
+In a merger of two fertilizer companies in Sri Lanka, the State Fertilizer Company reported its highest profit ever. This success was discussed during a progress review meeting led by Agriculture Minister Mahinda Amaraweera. The merger saw 272 employees retire, and the company's financial health is described as robust, despite the nation's economic challenges. The company's profitability extends to various crops including rice, tea, coconut, rubber, and cinnamon.
 
-ඒ මහතා මේ බව පැවසුවේ, රාජ්‍ය පොහොර සමාගමේ ඉදිරි කටයුතු හා මෙවර යල කන්නයේ මෙන්ම ඉදිරි මහ කන්නයේ දී පොහොර සැපයීම පිළිබඳව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ ප්‍රධානත්වයෙන් පැවති ප්‍රගති සමාලෝචන රැස්වීමකදී ය.
+🟩
 
-එහිදී අදහස් පළ කළ රාජ්‍ය පොහොර සමාගමේ සභාපති ආචාර්ය ජගත් පෙරේරා මහතා ඒකාබද්ධ කරන ලද මෙම පොහොර සමාගම් දෙක මගින් පසුගිය වසරේ දී රුපියල් මිලියන 433ක ලාභයක් උපයා ඇතැයි සඳහන් කළේය.
+The government belonging to the Government of Ceylon Fertilizer and the company, which was held in two fertilizer companies, was combined in the State Fertilizer Company, which had a record profit in the past year.Says.
 
-ඒ අනුව ලංකා පොහොර සමාගම රුපියල් මිලියන 141ක් හා කොළඹ කොමර්ෂල් පොහොර සමාගම රුපියල් මිලියන 292ක වශයෙන් ලාභ උපයා තිබේ.
+He was speaking at a progress review meeting held by the Minister of Agriculture and Plantation Industry Mahinda Amaraweera on the advancement of state fertilizer and fertilizer in the Yala season as well as fertilizer in the next season.
+
+The two fertilizer companies, which were speaking at the occasion, was combined by Dr. Jagath Perera, who was converted to Dr. Jagath Perera.
+
+Accordingly, Ceylon Fertilizer Company has made a profit of Rs.
+
+At the merger of these two companies, 272 employees voluntarily retired.
+
+The Chairman, the Chairman, said that the financial condition of the state fertilizer is very good at present.
 
 ...
 
 [Data](articles/123e5ee2.json)
+
+[Extended Data](ext_articles/123e5ee2.ext.json)
 
 ---
 
@@ -2329,23 +2369,5 @@ The first earthquake was reported at 4.7 Richter and 2nd 4.8 Richter.
 [Data](articles/e3ba3036.json)
 
 [Extended Data](ext_articles/e3ba3036.ext.json)
-
----
-
-### Pitugala and round
-
-*2024-08-20 09:46:01* · [`adalk`](https://www.ada.lk/breaking_news/ඇතුගලින්-පැන්නද-වටැණද/11-411454) · `si`
-
-A man from Kurunegala, Sri Lanka, fell in Paragagala and was hospitalized in Kurunegala Teaching Hospital after an accident yesterday. His identity remains unknown.
-
-🟩
-
-Man who fell in Paragagala from Kurunegala and Australia has been admitted to the Kurunegala Teaching Hospital. The accident had occurred yesterday and the identity of the injured person has not been verified.
-
-◼️
-
-[Data](articles/4d18fe36.json)
-
-[Extended Data](ext_articles/4d18fe36.ext.json)
 
 ---

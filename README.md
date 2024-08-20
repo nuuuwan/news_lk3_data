@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 14:55:50**
+As of **2024-08-20 15:06:48**
 
 ## Newspaper Stats
 
-*Scraped **41,675** Articles*
+*Scraped **41,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,76 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,515
 dailyftlk | 2,687
-adalk | 3,832
+adalk | 3,834
 dailymirrorlk | 4,733
-adaderanalk | 4,878
+adaderanalk | 4,879
 tamilmirrorlk | 5,389
 virakesarilk | 6,615
-adaderanasinhalalk | 7,111
+adaderanasinhalalk | 7,112
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,674 (100.0%) of 41,675 articles have been extended.
+41,675 (100.0%) of 41,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### அசோக பிரியந்த ஆதரவு ரணிலுக்கு
+### Search resumes in Sicily yacht sinking with finance boss among missing
+
+*2024-08-20 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101373/search-resumes-in-sicily-yacht-sinking-with-finance-boss-among-missing) · `en`
+
+Specialist divers on Tuesday launched a fresh search for six people, including UK tech tycoon Mike Lynch and the chairman of Morgan Stanley International, missing since their yacht capsized off the Italian island of Sicily.
+
+The British-flagged Bayesian, which had 22 people aboard including 10 crew, was anchored some 700 metres from port before dawn Monday when it was struck by a waterspout, a sort of mini tornado.
+
+Fifteen people aboard, including a mother with a one-year-old baby, were plucked to safety; one man has been found dead; and six people remain missing.
+
+On Tuesday, three divers strapped on oxygen bottles and began their descent to the wreck, some 50 metres below the sea surface.
+
+Most of those aboard the yacht were British, and the passengers were guests of Lynch, celebrating his recent acquittal in a massive US fraud case, according to Italian media.
+
+...
+
+[Data](articles/afc7a47f.json)
+
+---
+
+### බස් රථ 4ක් ගිනිගෙන විනාශ වෙයි
+
+*2024-08-20 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200133) · `si`
+
+අලුත්වැඩියා කටයුතු සඳහා රැගෙනවිත් තිබූ නවීන පන්නයේ බස් රථ 4ක් අද (20) අලුයම එලෙස ගිනිතබා ඇත.
+
+අසල තිබූ CCTV කැමරාවක් පරීක්ෂා කිරීමේදී කිසියම් පුද්ගලයෙක් පැමිණ බස් රථවලට ගිනිතබා පළායන අයුරු සටහන්වී ඇති බවද අප වාර්තාකරු පැවසීය.
+
+පොලීසිය පවසන්නේ ගින්නෙන් රුපියල් කෝටි 3ක පමණ හානියක් සිදුවූ ඇතැයි විශ්වාස කරන බවය.
+
+◼️
+
+[Data](articles/e5206477.json)
+
+---
+
+### Asoka Priyantha support Ranil
 
 *2024-08-20 14:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசோக-பிரியந்த-ஆதரவு-ரணிலுக்கு/175-342514) · `ta`
 
-ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்த தீர்மானித்துள்ளார்.
+Ashoka Priyantha, Minister of State for Home Affairs, announced his support for President Ranil Wickremesinghe in the upcoming presidential election on Tuesday (20).
 
-செவ்வாய்க்கிழமை (20)  இடம்பெற்ற கலந்துரையாடலில் கலந்து கொண்டு  அசோக பிரியந்த தனது தீர்மானத்தை தெரிவித்துள்ளார்.
+🟩
+
+Minister of State for Home Affairs Ashoka Priyantha has decided to support President Ranil Wickremesinghe in the presidential election.
+
+Asoka Priyantha made his decision on Tuesday (20).
 
 ◼️
 
 [Data](articles/0ecd909f.json)
+
+[Extended Data](ext_articles/0ecd909f.ext.json)
 
 ---
 
@@ -210,6 +252,26 @@ Meanwhile, on the 11th and 12th of September, the highest date for those who can
 
 ---
 
+### රට ගොඩදාපු නායකයාට විරුද්ධ වීමට පොහොට්ටුවට සදාචාරත්මක අයිතියක් නෑ
+
+*2024-08-20 13:00:59* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩදාපු-නායකයාට-විරුද්ධ-වීමට-පොහොට්ටුවට-සදාචාරත්මක-අයිතියක්-නෑ/11-411460) · `si`
+
+මිනිස්සු අපිට බලය දුන්නට අපේ නායකයෝ අපිව රැකගත්තද කියලා අපිට ගැටළුවක් තියෙනවා....
+
+රට ගොඩදාපු නායකයාට විරුද්ධ වීමට පොහොට්ටුවට සදාචාරත්මක අයිතියක් නැතැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+අමාත්‍යවරයා අවධාරණය කරන්නේ පොහොට්ටුව ඇතුළු සියළුම දේශපාලන පක්ෂවලට නැවත රට තුළ දේශපාලනය කිරීමට හැකි වතාවරණයක් සැකසුවේ වත්මන් ජනාධිපතිවරයා බවයි.
+
+අමාත්‍ය ප්‍රසන්න රණතුංග මහතා  මේ බව කියා සිටියේ කුරුණෑලගල දිස්ත්‍රික්කයේ නිකවැරටිය ආසනයේ ජනාධිපතිවරණ ඒකාබද්ධ කමිටු පිහිටුවීමේ සාකච්ඡාවට ඊයේ (19) දින එක්වෙමිණි. එම සාකච්ඡාව නිකවැරටිය මහසෙන් ප්‍රවාහන සමුපකාර සමිති සම්මන්ත්‍රණ ශාලාවේදී පැවැත්වුණි.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මෙසේද පැවසීය,
+
+...
+
+[Data](articles/86bf85bd.json)
+
+---
+
 ### Ranil helped to support 17 former president MPs in Pohoth
 
 *2024-08-20 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200131) · `si`
@@ -267,6 +329,26 @@ The magistrate ordered the prison commissioner to provide them with the necessar
 [Data](articles/8d53b4ff.json)
 
 [Extended Data](ext_articles/8d53b4ff.ext.json)
+
+---
+
+### කිසිම අවස්ථාවක ජනාධිපතිවරයා සතු විධායක බලතල අහෝසි නොකළ යුතුයි
+
+*2024-08-20 12:51:56* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-අවස්ථාවක-ජනාධිපතිවරයා-සතු-විධායක-බලතල-අහෝසි-නොකළ-යුතුයි/11-411459) · `si`
+
+ජනාධිපතිවරයා සතු විධායක බලතල ඉවත් නොකල යුතුයි. එම තනතුරට සුදුසු පුද්ගලයකු පත්වී පාර්ලිමේන්තුවේ සිටින සොරුන් ඉවත්කර  දූෂණය සම්බන්ධයෙන් කටයුතු කරන ආයතන පිරිසිදු කල යුතු බව ජනාධිපති අපේක්ෂක සරත් ෆොන්සේකා මහතා පැවසීය.
+
+ඒ මහතා මේ බව කියා සිටියේ පෙරේදා (19දා) පස්වරුවේ ඓතිහාසික රුවන්වැලි සෑ රදුන් වැඳ පුදා ගෙන ආශිර්වාද ලබා ගැනීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් පල කරමින්ය.
+
+"දූෂිත දේශපාලන සංස්කෘතිය මේ වන විට රටම ගිල ගෙන තිබෙනවා. මෙම තත්ත්වයෙන් මිදීමට පක්ෂ වලට වහල් නොවී ස්වාධීනව සහ බුද්ධිමත්ව කටයුතු කර ජාතික නායකයන්ට රට භාර දීමට සියලු දෙනා කටයුතු කල යුතුයි.
+
+එකම කණ්ඩායමක් විවිධ දේශපාලන පක්ෂ නිර්මාණය කර ගනිමින් ජනතාව ළඟට පැමිණියද ඔවුන්ගේ මානසිකත්වය වෙනස්වී  නැහැ.මොවුන් කිසි විටක රට ගැන හෝ රටේ අනාගතය ගැන පිළිබඳව සිත කටයුතු කරන්නේ නැහැ.
+
+සමගි ජන බලවේගයේ දොරගුළු විවෘත කරමින් ඕනෑම සොරෙකුට වුවද පක්ෂයට එක්වීමට අවස්ථා උදා කර තිබෙනවා.ඒ නිසා මට  එම පක්ෂය තුල අභිමානයෙන් යුතුව කටයුතු කිරීමට හැකියාවක් නැති නිසා තමයි  ඉවත් වුනේ. පරිණත බව හා නායකත්වය ලබා දීමට නොහැකි පුද්ගලයන් ජනාධිපති අපේක්ෂකත්වයට සුදුසු නැහැ.
+
+...
+
+[Data](articles/1f2b95ef.json)
 
 ---
 
@@ -2227,93 +2309,5 @@ At the time of the country's deterioration. He said he would build an economic a
 [Data](articles/910eccd3.json)
 
 [Extended Data](ext_articles/910eccd3.ext.json)
-
----
-
-### Two years of consequences of winning the telephone crisis
-
-*2024-08-20 02:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெருக்கடியை-வென்ற-இரண்டு-வருடப்-பணிகள்/175-342482) · `ta`
-
-Over the past two years, President Ranil Wickremesinghe has led efforts to stabilize and revitalize Sri Lanka's economy, implementing key reforms such as the Economic Transfer Act, State Financial Management Act, and introducing stringent anti-corruption laws. His initiatives aim to boost all sectors, protect vulnerable groups, enhance education and agriculture, and address healthcare and climate change issues, marking significant progress towards economic recovery and national unity.
-
-🟩
-
-President Ranil Wickremesinghe has performed well in the last two years to restore the country from the worst economic crisis in the country, to bring about stability and bring it on the path of progress, the Presidential Media Unit said in a statement.
-
-The president's programs were aimed at all the sectors that were necessary for the economy of our country, which had fallen in all aspects.
-
-For the first time in the passage of the Economic Transfer Act, the creation of the ruling environment within the national program, the target program and the responsibility of the state, the implementation of the State Financial Management Act, the legal financial discipline in the country, the legal reforms for this country have been implemented to the country.
-
-...
-
-[Data](articles/a3b195a1.json)
-
-[Extended Data](ext_articles/a3b195a1.ext.json)
-
----
-
-### 90% of candidates are not contesting
-
-*2024-08-20 01:56:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/90-வேட்பாளர்கள்-போட்டியிடவில்லை/175-342481) · `ta`
-
-In the upcoming presidential election, 90% of contestants aim for personal gains such as diplomatic roles, increased recognition, and strategic positioning within political parties, rather than securing victory. These candidates include entrepreneurs, current and former MPs, seeking to strengthen their political base or influence elections indirectly. The Election Commissioner notes an increase in candidates per seat, indicating a competitive field.
-
-🟩
-
-Election monitoring organizations say that 90 percent of the candidates contesting the presidential election are contesting for other personal goals and beliefs, rather than contesting for victory.
-
-Getting diplomatic positions, including ambassadors, obtaining more recognition during foreign trips, obtaining various positions, including governor's post, corporation chairman, preparing the general base to contest the next general election, entering approved political parties, and separating the media.. Supporting key candidates directly or indirectly, and to advertise through the media. A spokesman for the watchdog said these candidates were one of the aims to contest the presidential election.
-
-He also noted that through his own claim that the purpose of a candidate contesting the presidential election is to gain the strength to get the local government member.
-
-Most of them are entrepreneurs, current MPs and former members.
-
-...
-
-[Data](articles/af10ae94.json)
-
-[Extended Data](ext_articles/af10ae94.ext.json)
-
----
-
-### Namal in Aluthgama Vihara
-
-*2024-08-20 01:46:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அளுத்கம-விகாரையில்-நாமல்/175-342480) · `ta`
-
-Namal Rajapaksa, a presidential candidate from the PA, visited the Aluthgama Historical Kanda Vihara, where he received blessings from Vipulasara Thera.
-
-🟩
-
-Namal Rajapaksa, the presidential candidate of the PA, worshiped at the Aluthgama Historical Kanda Vihara on Sunday night. After visiting Vipulasara Thera, the temple chief was blessed with Kokavitta.
-
-◼️
-
-[Data](articles/0d6ad175.json)
-
-[Extended Data](ext_articles/0d6ad175.ext.json)
-
----
-
-### No problem with cylinder symbol
-
-*2024-08-20 01:43:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்-சின்னத்துக்கு-சிக்கல்-இல்லை/175-342479) · `ta`
-
-The Elections Commission rejected objections against Ranil Wickremesinghe's use of the gas cylinder symbol in his presidential bid, dismissing claims that it was improperly allocated during local elections. Election Commissioner Saman Sridha Ratnayake clarified that while reserved symbols are for registered parties, others can choose any symbol, emphasizing that the decision was not influenced by media attention but rather based on the rules.
-
-🟩
-
-The Elections Commission has decided to reject the gas cylinder objections to Ranil Wickremesinghe, who is contesting as an independent candidate for the presidential election.
-
-Election Commissioner Saman Sridha Ratnayake has responded to allegations made by a political party that the gas cylinder symbol was given to his team in the last local government election.
-
-During the local elections, many demanded the Cass cylinder symbol. The reserved symbols are only for political parties. Others can use anyone.
-
-Therefore, not to give a chance to false things. In response to this, it is false and they are doing so for advertising in the media.
-
-◼️
-
-[Data](articles/6396d7b6.json)
-
-[Extended Data](ext_articles/6396d7b6.ext.json)
 
 ---

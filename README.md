@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 13:36:54**
+As of **2024-08-20 13:56:24**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,661 (100.0%) of 41,662 articles have been extended.
+41,662 (100.0%) of 41,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### தபால் மூலம் வாக்களிக்க 712,321 பேர் தகுதி
+### 712,321 eligible to vote by post
 
 *2024-08-20 13:09:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூலம்-வாக்களிக்க-712-321-பேர்-தகுதி/175-342513) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் தபால் மூல வாக்களிப்பதற்காக 736,589 விண்ணப்பங்கள் கிடைக்கப்பெற்றுள்ளதாகவும் அவற்றுள் 24,268 விண்ணப்பங்கள் நிராகரிக்கப்பட்டுள்ளதாகவும் தேசிய தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+The National Elections Commission reported receiving 736,589 postal voting applications for the 2024 presidential election, with 24,268 rejections. Ultimately, 712,321 voters are eligible to vote by post. The postal vote days are set for September 4th, 5th, and 6th, while September 11th and 12th are reserved for those not eligible for postal voting.
 
-எவ்வாறாயினும், 2024 ஜனாதிபதித் தேர்தலில் தபால் மூலம் வாக்களிக்க 712,321 பேர் தகுதி பெற்றுள்ளதாக தேர்தல்கள் ஆணைக்குழு மேலும் தெரிவித்துள்ளது.
+🟩
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான தபால் மூல வாக்களிப்பு செப்டம்பர் 04, 05 மற்றும் 06 ஆம் திகதிகளில் நடத்தப்படவுள்ளது.
+The National Elections Commission said that 736,589 applications have been received for postal voting in the upcoming presidential election and 24,268 applications have been rejected.
 
-இதேவேளை, தபால் மூலம் வாக்களிக்க முடியாதவர்களுக்கு மேலதிக திகதியாக செப்டம்பர் 11 மற்றும் 12 ஆம் திகதிகள் ஒதுக்கப்பட்டுள்ளன.
+However, 712,321 candidates are eligible to vote by post in 2024 presidential election, the Election Commission further stated.
+
+The postal vote for the upcoming presidential election will be held on September 04, 05 and 6.
+
+Meanwhile, on the 11th and 12th of September, the highest date for those who cannot vote by post has been reserved.
 
 ◼️
 
 [Data](articles/8f649d5b.json)
+
+[Extended Data](ext_articles/8f649d5b.ext.json)
 
 ---
 

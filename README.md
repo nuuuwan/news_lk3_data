@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 01:21:37**
+As of **2024-08-21 01:36:59**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,766 (100.0%) of 41,768 articles have been extended.
+41,768 (100.0%) of 41,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### ரணில் விக்ரமசிங்கவுக்கு வழங்கி இருக்கும் தேர்தல் சின்னம் சட்ட விரோத செயலாகும் - விஜயதாச ராஜபக்ஷ
+### Ranil Wickremesinghe's election symbol is illegal -Vijayadasa Rajapaksa
 
 *2024-08-21 01:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/191573) · `ta`
 
-உள்ளூராட்சி மன்ற தேர்தல் இன்னும் முடிவடையாத நிலையில் அந்த தேர்தலில் ஒரு குழுவுக்கு வழங்கிய தேர்தல் சின்னத்தை ஜனாதிபதி தேர்தலில் வேறு ஒரு நபருக்கு வழங்குவது சட்டவிராேதமாகும். என்றாலும் தேர்தல் ஆணைக்குழு அதனை செய்திருக்கிறது என தேசிய ஜனநாயக முன்னணியின் ஜனாதிபதி வேட்பாளர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+Vijayadasa Rajapaksa criticizes the Election Commission for assigning an election symbol to a committee during ongoing local government elections, arguing it's premature and undermines public trust in the commission's ability to manage elections efficiently.
 
-கொழும்பில் அமைந்துள்ள அவரது தேர்தல் காரியாலயத்தில் செவ்வாய்க்கிழமை (20) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-உள்ளூராட்சி மன்ற தேர்தலுக்கு வேட்புமனு தாக்கல் செய்துள்ள நிலையில் தேர்தல் நடவடிக்கைகள் ஆரம்பிக்கப்பட்டுள்ளன. ஆனால் இன்னும் தேர்தல் முடிவடையவில்லை. இந்நிலையில் உள்ளூைராட்சி மன்ற தேர்தலில் போட்டியிடும் குழுவொன்றுக்கு எரிவாயு சிலிண்டர் தேர்தல் சின்னமாக தேர்தல் ஆணைக்குழு வழங்கியுள்ள நிலையில் தற்போது ஜனாதிபதி தேர்தலில் போட்டியிடும் ரணில் விக்ரமசிங்கவுக்கும் வழங்கி இருக்கிறது. இது சட்டவிராேத செயலாகும்.
+It is illegal to give the election symbol to a committee in the presidential election as the local government elections are not yet over.. However, the National Democratic Front's presidential candidate Vijayadasa Rajapakse said that the Election Commission has done so.
+
+He was speaking at a press conference held at his election office in Colombo on Tuesday (20).
+
+Elections have begun as the nomination has been filed for the local government elections. But the election has not ended yet. In this backdrop, the Election Commission has given a gas cylinder election to a group contesting the local government elections.. This is illegal.
+
+At the same time, if the local government elections are over, there is nothing wrong with providing the election symbol to the election panel to the other election.. Local government elections were initiated, though. But not ending. That is why we say that the election symbol given to a group cannot be given to a different candidate.
 
 ...
 
 [Data](articles/8082142c.json)
+
+[Extended Data](ext_articles/8082142c.ext.json)
 
 ---
 
@@ -106,25 +114,37 @@ The stamp is 205 millimeters long, the Presidential Media Unit said. (A)
 
 ### 2024-08-20 (Tuesday)
 
-### கடைசி மகளிர் ஒருநாள் போட்டியில் இலங்கைக்கு ஆறுதல் வெற்றி; ஆனால் தொடர் அயர்லாந்து வசம்
+### Sri Lanka's comfort to win the last women's ODIBut the series is in the case of Ireland
 
 *2024-08-20 23:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191572) · `ta`
 
-பெல்ஃபாஸ்ட், ஸ்டோமன்ட் சிவில் சேவைகள் கிரிக்கெட் மைதானத்தில் செவ்வாய்க்கிழமை (20) நடைபெற்ற அயர்லாந்துக்கு எதிரான மூன்றாவதும் கடைசியுமான மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 8 விக்கெட்களால் இலங்கை வெற்றியீட்டியது.
+Sri Lanka secured a consolation victory in the final women's ODI against Ireland, winning by 8 wickets after losing the series 2-1. The match was highlighted by Samira Athapaththu's all-round performance and Harsitha Samarawickrama's efficient batting. Despite Ireland's strong start, scoring 123 runs, Sri Lanka's disciplined bowling led by Athapaththu (3/15) and Kulasuriya (3/35) ensured their win.
 
-3 போட்டிகள் கொண்ட தொடரை ஏற்கனவே பறிகொடுத்த இலங்கைக்கு இது ஆறுதல் வெற்றியாக அமைந்தது.
+🟩
 
-முதல் இரண்டு போட்டிகளில் வெற்றிபெற்ற அயர்லாந்து தொடரை 2 - 1 என்ற ஆட்டங்கள் வித்தியாசத்தில் கைப்பற்றியது.
+Sri Lanka won by 8 wickets in the third and last women's ODI against Ireland on Tuesday (20) at the Belfast, Stomant Civil Services Cricket Ground.
 
-அணித் தலைவி சமரி அத்தபத்துவின் சகலதுறை ஆட்டம், ஹர்ஷித்தா சமரவிக்ரமவின் திறமையான துடுப்பாட்டம் என்பன இலங்கையின் இலகுவான வெற்றிக்கு வழிசமைத்தன.
+This was a consolation success for Sri Lanka, which had already been hit by a 3 -match series.
 
-அப் போட்டியில் அயர்லாந்தினால் நிர்ணயிக்கப்பட்ட 123 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை 23.1 ஓவர்களில் 2 விக்கெட்களை மாத்திரம் இழந்து 123 ஓட்டங்களைப் பெற்று இலகுவாக வெற்றியீட்டியது.
+Ireland won the first two matches by 2 - 1.
 
-சமரி அத்தபத்து 48 ஓட்டங்களையும் ஹர்ஷித்தா சமரவிக்ரம ஆட்டம் இழக்காமல் 48 ஓட்டங்களையும் பெற்றனர். கவிஷா டில்ஹாரி 10 ஓட்டங்களுடன் ஆட்டம் இழக்காதிருந்தார்.
+The all -round match of the team leader Samari Athapathu and the efficient batting of Harsitha Samarawickrama led to Sri Lanka's easy success.
 
-...
+In response, Ireland won 123 runs in the upcoming match and won by 2 wickets in 23.1 overs and scored 123 runs.
+
+Samari Attapathu scored 48 runs and Harshita Samarawickrama scored 48 runs. Kavisha Dilhari did not play with 10 runs.
+
+Ireland scored only 122 runs in 46.3 overs.
+
+Allein Kelly (35), Lee Bol (19) in the middle of the Mediterrane. E.) They contributed the best contribution to the batting.
+
+In the bowling, Samari Attapattu took 3 wickets for 15 runs, Achini Kulasuriya took 3 wickets for 35 runs while Sachini Nissanchala took 2 wickets for 35 runs.
+
+◼️
 
 [Data](articles/922134f7.json)
+
+[Extended Data](ext_articles/922134f7.ext.json)
 
 ---
 

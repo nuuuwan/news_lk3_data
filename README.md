@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 07:03:03**
+As of **2024-08-20 07:29:56**
 
 ## Newspaper Stats
 
-*Scraped **41,592** Articles*
+*Scraped **41,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,119 +20,213 @@ dailymirrorlk | 4,733
 adaderanalk | 4,865
 tamilmirrorlk | 5,370
 virakesarilk | 6,601
-adaderanasinhalalk | 7,091
+adaderanasinhalalk | 7,094
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,570 (99.9%) of 41,592 articles have been extended.
+41,576 (100.0%) of 41,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### அரசாங்கத்தின் திட்டத்தை இடைநடுவில் கைவிட்டால் நாட்டின் பொருளாதாரம் மீண்டும் வீழ்ச்சியடையும் - ஜனாதிபதி
+### ගෑස් සිලින්ඩරය ඡන්ද ලකුණ කරගත් හේතුව ගැන ජනපතිගෙන් ප්‍රකාශයක්
+
+*2024-08-20 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200115) · `si`
+
+නිසි ආර්ථික පරිවර්තනකින් තොරව ‍රජයේ වැඩපිළිවෙළ අතරමග නතර කළහොත් යළිත් රටේ ආර්ථිකය කඩා වැටෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වා දෙන්නේ, ජනතාව තම අනාගතය ගැන සිතා මෙවර ජනාධිපතිවරණයේ දී තින්දුවක් ගත යුතුව ඇති බවය.
+
+සමාජ මාධ්‍ය ජාලා ඔස්සේ ඉදිරිපත් වූ ප්‍රශ්නවලට පිළිතුරු ලබා දීමේ "AskRanil" වැඩසටහනට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේය.
+
+"මේ රට මම භාරගත්තේ, වෙන කවුරුත් භාරගන්න නොසිටි අවස්ථාවක. හැම එක්කෙනාම ආර්ථික ප්‍රශ්න විසඳන්න බෑ කිව්වා. දැන් අපි ඒකට විසඳුම ලබාගෙන යනවා. රටේ නව ආර්ථිකයක් ඇති කරන්න. ඒක පරිවර්ථනය කරන්න ඕනේ විශේෂයෙන් ම අපනයන ආර්ථිකයක් හැටියට. අපි ඒ දුර යන්නේ නැත්නම්, අපි කරපු මේ වැඩ රඳා පවත්වන්න බෑ. ඒක කඩා වැටෙයි. මෙතැන තියෙන්නේ ඔබ සියලුදෙනාගේම ඊළඟ අවුරුදු 3 - 4 අනාගතය ගැන හිතන්න. තරුණ අයට තියෙන්නේ තව අවුරුදු 20කින් තමන්ට ඕන රට මොකද්ද කියලා හිතන්න. හිතලා ඡන්දය භාවිත කරන්න..."
+
+...
+
+[Data](articles/87769c5f.json)
+
+---
+
+### පුද්ගලයෙක් ඇතුගලින් ඇදවැටෙයි
+
+*2024-08-20 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200114) · `si`
+
+ඊයේ (19) උදෑසන ඇතුගලෙන් පුද්ගලයෙකු බිම වැටුණු බවට 119 තොරුතුරු මධ්‍යස්ථානයට දුරකථන ඇමතුමක් ලැබී තිබුණි.
+
+බරපතළ තුවාල ලබා සිටි එම පුද්ගලයා කුරුණෑගල රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය පවසයි.
+
+තුවාලකරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර සිද්ධිය සම්බන්ධයෙන් කුරුණෑගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/1297fe5c.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවු තද වැසි
+
+*2024-08-20 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200112) · `si`
+
+බස්නාහිර, සබරගමුව සහ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට අද (20) දිනයේ මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, දකුණු  සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+මේ අතර නැගෙනහිර, ඌව සහ උතරුමැද පළාත්වල සවස් කාලයේ හෝ රාත්‍රි කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/657553b3.json)
+
+---
+
+### The country's economy will fall again if the government abandoned the plan - the president
 
 *2024-08-20 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191487) · `ta`
 
-எவராலும் தீர்க்க முடியாமல் போன பொருளாதார நெருக்கடியை தன்னால் தீர்க்க முடிந்திருந்தாலும், சரியான பொருளாதார மாற்றத்தை ஏற்படுத்தாமல், இந்த வேலைத்திட்டத்தை இடைநடுவில் கைவிட்டால், நாட்டின் பொருளாதாரம் மீண்டும் வீழ்ச்சியடையும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe warns that abandoning his economic recovery plan risks another economic downturn. He emphasizes the importance of considering future implications during the upcoming presidential election. Addressing concerns about his candidacy, he explains choosing the cylinder symbol as a representation of independence and unity. He clarifies his stance on the Rajapaksa family's involvement in his campaign, highlighting his own unique approach to governance. Discussing infrastructure projects like Pulmoddai Kaniyavalam, Trincomalee Port, and Hambantota Airport, he argues against claims of neglect over the past 75 years, citing achievements in education and infrastructure development. On anti-corruption efforts, he outlines the establishment of various investigative bodies and the introduction of new systems to combat illicit earnings. Reflecting on the impact of artificial intelligence, he calls for careful consideration of its potential benefits and dangers, advocating for regulation to ensure societal well-being. Lastly, he addresses the challenge of transitioning from a public service model to a modernized system, emphasizing the need for sustainable solutions to maintain economic stability and growth.
 
-எனவே ஜனாதிபதித் தேர்தலில் மக்கள் தமது எதிர்காலம் குறித்து சிந்தித்து முடிவெடுக்க வேண்டும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+🟩
 
-Ask Ranil நிகழ்ச்சியில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் சமூக வலைத்தளங்கள் ஊடாக கேட்கப்பட்ட கேள்விகளுக்கு பதிலளிக்கும் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe has urged the country's economy to fall again if he has been able to resolve the economic crisis that no one can resolve, but without the proper economic change.
 
-கடந்த 75 வருட கால ஆட்சியாளர்கள் நாட்டின் அபிவிருத்திக்காக எதனையும் செய்யவில்லை என சில தரப்பினர் குற்றம் சுமத்திய போதிலும் அது உண்மை இல்லையென சுட்டிக்காட்டிய ஜனாதிபதி, தேசிய பொருளாதாரம் தொடர்பில் பேசி மக்கள் விடுதலை முன்னணி போன்ற கட்சிகள் உருவாக்கிய நிலைப்பாடே நாட்டின் விரைவான பொருளாதார அபிவிருத்திக்கு தடையாக அமைந்ததெனவும் தெரிவித்தார்.
+The President pointed out that the people should consider their future in the presidential election.
+
+The President was responding to questions asked by President Ranil Wickremesinghe on social media at the ASK Ranil event.
+
+The President pointed out that it was not true, but that it was not true, but that it was not true of the country's rapid economic development.
+
+The President said that the party should be able to resolve the economic crisis facing the country and launch a new program without a party, and that he has decided to contest the presidential election as it is with the massive committee.
+
+Question - Why did you choose the cylinder symbol to contest the presidential election this time?
 
 ...
 
 [Data](articles/c930e30b.json)
 
+[Extended Data](ext_articles/c930e30b.ext.json)
+
 ---
 
-### பிரேமலதா விஜயகாந்தை வீட்டுக்குச் சென்று சந்தித்த நடிகர் விஜய்
+### Actor Vijay visited Premalatha Vijayakanth's house
 
 *2024-08-20 03:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191486) · `ta`
 
-சென்னை விருகம்பாக்கத்தில் உள்ள மறைந்த நடிகரும், தேமுதிக தலைவருமான விஜயகாந்த் வீட்டுக்கு நடிகர் விஜய் சென்று, பிரேமலதா விஜயகாந்தை சந்தித்தார்.
+Actor Vijay visited Premalatha Vijayakanth in Chennai, thanking her for allowing the use of her late husband, Vijayakanth, in the movie "The Goat." Also present were director Venkat Prabhu and producer Archana Kalpathi.
 
-அப்போது, ‘THE GOAT’ படத்தில் விஜயகாந்தை AI தொழில்நுட்பம் மூலம் பயன்படுத்த அனுமதி கொடுத்ததற்காக, பிரேமலதா விஜயகாந்துக்கு நன்றி தெரிவித்தார் விஜய்.
+🟩
 
-இந்த சந்திப்பின்போது, ‘THE GOAT’ படத்தின் இயக்குநர் வெங்கட் பிரபு, தயாரிப்பாளர் அர்ச்சனா கல்பாத்தி ஆகியோர் உடனிருந்தனர்.
+Actor Vijay visited the house of Vijayakanth, the late actor and leader of the DMK in Virugambakkam, Chennai and met Premalatha Vijayakanth.
+
+Vijay thanked Premalatha Vijayakanth for allowing Vijayakanth to be used by AI technology in the movie The Goat.
+
+During the meeting, Venkat Prabhu, director of the film The Goat, and producer Archana Kalpathi were present.
 
 ◼️
 
 [Data](articles/245a9088.json)
 
+[Extended Data](ext_articles/245a9088.ext.json)
+
 ---
 
-### வரலாற்றுச் சிறப்புமிக்க தலதா பெரஹராவை பார்வையிட்ட ஜனாதிபதி
+### The President visited the historic Talada Perahara
 
 *2024-08-20 03:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191485) · `ta`
 
-கண்டி வரலாற்றுச் சிறப்புமிக்க தலதா மாளிகையின் வருடாந்த எசல பெரஹராவின் இறுதி ரந்தோலி பெரஹரா திங்கட்கிழமை (19) இரவு நடைபெற்றதுடன் ஜனாதிபதி ரணில் விக்ரமசிங்கவும் ஆயிரக்கணக்கான மக்களுடன் இணைந்து பெரஹராவைக் கண்டுகளித்தார்.
+President Ranil Wickremesinghe joined thousands to witness the final Randoli Perahara of the historical Talada House in Kandy, accompanied by key advisors and ministers including Professor Maithri Wickremesinghe, Sagala Ratnayake, Bandula Gunawardena, Anuradha Jayaratne, Tilum Amunugama, Lohan Ratwatte, and Saman Ekanayaka.
 
-பேராசிரியர் மைத்ரி விக்ரமசிங்க மற்றும்  தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க, அமைச்சர் பந்துல குணவர்தன, இராஜாங்க அமைச்சர்களான அனுராத ஜயரத்ன, திலும் அமுனுகம, லொஹான் ரத்வத்தே, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோர் உள்ளிட்ட பலர் இந்நிகழ்வில் கலந்துகொண்டனர்.
+🟩
+
+President Ranil Wickremesinghe, along with thousands of people, saw Perahara, the last Randoli Perahara's final Randoli Perahara of the Historical Talada House of Kandy.
+
+Professor Maithri Wickremesinghe and President's Senior Advisor and Presidential Commission on National Security, Sagala Ratnayake, Minister Bandula Gunawardena, State Ministers Anuradha Jayaratne, Tilum Amunugama, Lohan Ratwatte and Secretary of the President Saman Ekanayaka.
 
 ◼️
 
 [Data](articles/1dcbd91b.json)
 
+[Extended Data](ext_articles/1dcbd91b.ext.json)
+
 ---
 
-### சொகுசு படகு கவிழ்ந்து விபத்து: ஒருவர் உயிரிழப்பு;  6 பேர் காணாவில்லை
+### Luxury boat crashes6 people are not found
 
 *2024-08-20 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191484) · `ta`
 
-இத்தாலியில், சிசிலி தீவுகளுக்கு அருகே சொகுசு படகு ஒன்று கடலில் கவிழ்ந்து விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் 6 பேரை காணவில்லை.
+A luxury yacht crashed off Sicily, killing one and leaving six missing amidst stormy weather. The vessel, flying the British flag, had 22 passengers and crew from various countries. Authorities are searching for the missing as identities of the deceased remain unconfirmed.
 
-பிரித்தானியக் கொடியுடன் பயணித்த 56 மீற்றர் நீளமான கப்பலில் 22 பயணிகள் மற்றும் பணியாளர்கள் இருந்ததாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+🟩
 
-அப்பகுதியில் நிலவும் மோசமான வானிலை காரணமாக ஏற்பட்ட சூறாவளியே இந்த விபத்திற்கு காரணம் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+In Italy, one person was killed when a luxury boat crashed into a sea near the Sicily Islands and six more people were missing.
 
-மேலும், பிரித்தானிய, அமெரிக்க மற்றும் கனேடிய பிரஜைகள் அடங்கிய குழுவொன்று சொகுசு படகில் பயணித்துள்ளதுடன், விபத்தில் உயிரிழந்த நபரின் அடையாளம் இதுவரை உறுதிப்படுத்தப்படவில்லை.
+Foreign media reports that there were 22 passengers and employees on a 56 -meter -long ship traveling with the British flag.
 
-காணாமல் போன 06 பேரை தேடும் பணியை கரையோர பாதுகாப்பு அதிகாரிகள் ஆரம்பித்துள்ளமை குறிப்பிடத்தக்கது.
+Officials said the crash was the cause of a hurricane caused by the worst weather in the area.
+
+Moreover, a group of British, US and Canadian citizens has traveled on a luxury boat and the identity of the person who died in the accident has not yet been confirmed.
+
+It is noteworthy that coastal security officials have begun the process of searching for six missing persons.
 
 ◼️
 
 [Data](articles/c394952a.json)
 
+[Extended Data](ext_articles/c394952a.ext.json)
+
 ---
 
-### நுரெலியாவில் அடையாளம் தெரியாத பெண்ணின் சடலம் மீட்பு
+### The corpse of the unidentified woman in Nurelia
 
 *2024-08-20 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191483) · `ta`
 
-நுவரெலியாவில் அடையாளம் தெரியாமல் காணப்பட்ட பெண் ஒருவரின் சடலத்தினை பொலிஸார் வைத்தியசாலையில் ஒப்படைத்துள்ளனர்.
+An unidentified woman's body was discovered on a road in Nuwara Eliya and handed over to the local hospital for autopsy after being found on Monday evening.
 
-குறித்த சடலம் திங்கட்கிழமை மாலை (19) நுவரெலியா கிரகரி வாவிக்கு அருகாமையில் உள்ள வீதியோரத்தில் விழுந்து கிடந்ததை அவதானித்த பொதுமக்கள் பொலிஸாருக்கு தெரியப்படுத்தியதையடுத்து சம்பவ இடத்திற்கு சென்ற பொலிஸார் 1990 அவசர நோயாளர் காவு வண்டி சேவைக்கு தெரிவித்ததையடுத்து சம்பவ இடத்திற்கு வருகை தந்த மருத்துவ உதவி அதிகாரிகள் குறித்த பெண் உயிரிழந்துள்ளதை உறுதிப்படுத்தியுள்ளனர்.
+🟩
 
-இவ்வாறு வீதியோரத்தில் கிடக்கும் பெண்ணின் சடலம் இதுவரை அடையாளம் காணப்படவில்லை எனவும் நீதிமன்ற அனுமதியை பெற்று சடலத்தை பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் ஒப்படைக்க நடவடிக்கை எடுத்துவருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+Police have handed over the body of an unidentified woman in Nuwara Eliya to the hospital.
+
+The body of the police informed the police that the body was found lying on the road near the Gregory Wavi on Monday evening (19).
+
+The body of the woman lying on the road has not yet been identified and the body is being taken to hand over the body to the Nuwara Eliya District General Hospital for autopsy.
 
 ◼️
 
 [Data](articles/4744fa20.json)
 
+[Extended Data](ext_articles/4744fa20.ext.json)
+
 ---
 
-### சஜித் ஏன் பிரதமர் பதவியை ஏற்கவில்லை; தயாசிறி ஜயசேகர ஜனாதிபதிக்கு பதில்
+### Why Sajith does not accept the post of Prime Minister;Dayasiri Jayasekara in response to the President
 
 *2024-08-20 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191482) · `ta`
 
-சஜித் பிரேமதாசவின் நிபந்தனைகளை கோத்தாபய ராஜபக்ஷ் ஏற்றுக்கொள்ள மறுத்ததாலே பிரதமர் பதவியை சஜித் பிரேமதாச மறுத்துவிட்டார். ஆனால் ரணில் விக்ரமசிங்க நிபந்தனை இல்லாமல் ஏற்றுக்கொண்டுள்ளதால் இன்று திருடர்களுடன் இணைந்துசெயற்பட வேண்டிய நிலை ஏற்பட்டுள்ளது.
+Sajith Premadasa declined the Prime Minister position due to Gotabhaya Rajapaksa's refusal to meet his conditions, including holding elections and restoring the 19th amendment. Dayasiri Jayasekara supports Sajith, criticizing Ranil Wickremesinghe for accepting the role without conditions and suggesting Sajith's decision was correct.
 
-இலங்கைக்கு முடியும் ஆனால் ரணிலுக்கு முடியாது என்பதை அவர் உறுதிப்படுத்தி இருக்கிறார் என பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+🟩
 
-மாவனெல்லை பிரதேசத்தில் திங்கட்கிழமை (19) இடம்பெற்ற தேர்தல் பிரசாரக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+Sajith Premadasa refused to post as Prime Minister as Gotabhaya Rajapaksa refused to accept Sajith Premadasa's conditions. But Ranil Wickremesinghe has been uncontrollable and has to work with the thieves today.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க அநுராதபுரத்தில் இடம்பெற்ற தேர்தல் பிரசார கூட்டத்தில், பிரதமர் பதவியை ஏற்றுக்கொள்ளாமல் சஜித் பிரேமதாச ஏன் தப்பிச்சென்றார் என்ற கேள்விக்கு பதிலளிக்க வேண்டும் என கேட்டுக்கொண்டார்.
+Parliamentarian Dayasiri Jayasekara said that he has confirmed that Sri Lanka can not but Ranil cannot.
 
-மக்கள் போராட்டம் காரணமாக நாட்டின் பிரதமராக இருந்த மஹிந்த ராஜபக்ஷ் பதவி விலகினார். அதனால் பிரதமர் பதவியை ஏற்றுக்கொள்ளுமாறு சஜித் பிரேமதாசவுக்கு அழைப்பு விடுத்தபோது, சஜித் பிரேமதாச 2022,5,12ஆம் திகதி கோத்தாபய ராஜபக்ஷ்வுக்கு அது தொடர்பில் கடிதம் ஒன்றை எழுதியிருந்தார்.
+He said this while addressing the election campaign held on Monday (19) in Mawanella.
+
+President Ranil Wickremesinghe asked the election campaign at Anuradhapura at an election rally in Anuradhapura, demanding that Sajith Premadasa escaped without accepting the post of Prime Minister.
+
+Mahinda Rajapaksa resigned from the country due to the people's struggle. When Sajith called Premadasa to accept the post of Prime Minister, Sajith Premadasa wrote a letter to Gotabhaya Rajapakse on 2022,5,12.
 
 ...
 
 [Data](articles/4fd9f321.json)
+
+[Extended Data](ext_articles/4fd9f321.ext.json)
 
 ---
 
@@ -2095,63 +2189,5 @@ The cabinet bond cannot be carried out it is secret. Do not carry them out. Copi
 [Data](articles/91c8fa83.json)
 
 [Extended Data](ext_articles/91c8fa83.ext.json)
-
----
-
-### More than 200,000 civil servants for election obligations
-
-*2024-08-19 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191419) · `ta`
-
-The National Elections Commission expects 200,000 to 225,000 civil servants to participate in the upcoming presidential election across 13,000 polling stations nationwide. All candidates have been assigned to contest.
-
-🟩
-
-The National Elections Commission has announced that the public servants of 200,000 to 225,000 will be involved in the upcoming presidential election.
-
-Voting will take place at 13,000 polling stations nationwide. Saman Sri Ratnayake says all the candidates have been allotted to contest the presidential election.
-
-◼️
-
-[Data](articles/a8b7ee66.json)
-
-[Extended Data](ext_articles/a8b7ee66.ext.json)
-
----
-
-### Youth killed in Jaffna
-
-*2024-08-19 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191424) · `ta`
-
-Tavarasa Raghumathava, 32, from Neerveli, Jaffna, died unexpectedly while working on Sunday. Doctors found him dead upon arrival at Kopay Hospital, citing an unexplained heartache. His body is undergoing anatomical examination, with police confirming its presence at the teaching hospital.
-
-🟩
-
-Tavarasa Raghumathava (age 32) from Neerveli, Jaffna has died.
-
-The doctors said in a statement that he had already died when he went to work on Sunday morning (18) at work, when he was taken to the Kopay Hospital after he said he was suffering from a heartache at the workplace.
-
-Also, the cause of the death toll is unknown, the body is for an anatomical examination. Police said they were kept at the teaching hospital.
-
-◼️
-
-[Data](articles/9008df5f.json)
-
-[Extended Data](ext_articles/9008df5f.ext.json)
-
----
-
-### Rangiri Dambulla Rajamaha Viharaya’s Ven. Ambagaswewa Rahula Thero passes away
-
-*2024-08-19 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101348/rangiri-dambulla-rajamaha-viharayas-ven-ambagaswewa-rahula-thero-passes-away) · `en`
-
-The trustee monk of the Rangiri Dambulla Rajamaha Viharaya Ven. Ambagaswewa Rahula Thero has passed away this morning (19), sources confirmed.
-
-Ven. Ambagaswewa Rahula Thero was receiving treatment at a private hospital in Colombo at the time of his passing.
-
-◼️
-
-[Data](articles/7e458579.json)
-
-[Extended Data](ext_articles/7e458579.ext.json)
 
 ---

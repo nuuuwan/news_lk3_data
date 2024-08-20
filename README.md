@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 22:36:53**
+As of **2024-08-20 22:55:02**
 
 ## Newspaper Stats
 
-*Scraped **41,748** Articles*
+*Scraped **41,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,515
 dailyftlk | 2,687
-adalk | 3,844
+adalk | 3,845
 dailymirrorlk | 4,733
 adaderanalk | 4,889
 tamilmirrorlk | 5,402
@@ -26,37 +26,49 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,746 (100.0%) of 41,748 articles have been extended.
+41,748 (100.0%) of 41,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### නාමල් යන මග පැහැදිලි කරයි
+### Elected the path named Namal
 
 *2024-08-20 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200155) · `si`
 
-තම පාලනයක් යටතේ මෙරට වෛද්‍යවරුන් ඇතුළු වෘත්තිකයන් ආරක්ෂා කිරීමට ප්‍රතිපත්තිමය තීන්දු ගන්නා බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa, son of Sri Lanka's President Gotabaya Rajapaksa, announced plans to safeguard Sri Lankan professionals through the Presidential Receipt of the Sri Lanka Appointment Decisions. This statement came after discussions with the Government Medical Officers Association during the Election Movement on April 20th.
 
-අද (20) සිය මැතිවරණ ව්‍යාපාරය අතරවාරයේ රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය සමග පැවති සාකච්ඡාවකින් පසුව ඔහු මෙම අදහස් පළ කළේය.
+🟩
+
+Namal Rajapaksa, president of the Sri Lanka General Aryn, says that under his control, the Presidential Receipt of the Sri Lanka Appointment Decisions to protect the professionals of Sri Lanka.
+
+He made these comments after a discussion with the Government Medical Officers Association of the Election Movement today (20).
 
 ◼️
 
 [Data](articles/8b084dc0.json)
 
+[Extended Data](ext_articles/8b084dc0.ext.json)
+
 ---
 
-### ජනපතිවරණයෙන් පසු සාමය රකින හැටි අනුර කියයි
+### Issues that promote peace after the presidential election
 
 *2024-08-20 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200154) · `si`
 
-ජනාධිපතිවරණය වෙනුවෙන් තම පක්ෂය ගොඩනගා ඇති කොට්ඨාස සභා ජනපතිවරණයෙන් පසුව ගමේ සාමය රැකීම වෙනුවෙන් යොදාගන්නා බව ජාතික ජන බලවේගයේ ජනපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake highlights issues promoting peace post-presidential election, emphasizing the importance of unity and prosperity for all citizens. The event in Galgamuwa underscores the vision of a thriving nation.
 
-ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ජය තහවුරු කිරීම වෙනුවෙන් දිවයින පුරා පවත්වන " රට අනුරට " ජන රැලි මාලාවේ තවත් රැලියක් " පොහොසත් රටක්, ලස්සන ජීවිතයක් " යන්න තේමා කරගනිමින් අද පස්වරුවේ ගල්ගමුව නගරයේදී පැවැත්වුණි.
+🟩
+
+Anura Kumara Dissanayake says that the presidential election has been built for the presidential election for the presidential election.
+
+The morrowse was held in Galgamuwa town this afternoon, "a rich country, beautiful life."
 
 ◼️
 
 [Data](articles/a3b2f7f5.json)
+
+[Extended Data](ext_articles/a3b2f7f5.ext.json)
 
 ---
 
@@ -479,6 +491,24 @@ Former Health Minister Keheliya Rambukwella as respondents, the Secretary Genera
 [Data](articles/7c8a44d1.json)
 
 [Extended Data](ext_articles/7c8a44d1.ext.json)
+
+---
+
+### නාමල්ගේ ළඟ හිටිය අශෝක ප්‍රියන්ත ජනපතිට
+
+*2024-08-20 18:07:29* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-ළඟ-හිටිය-අශෝක-ප්‍රියන්ත-ජනපතිට/11-411470) · `si`
+
+ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ජනපතිවරණයේ දී  සහාය පළ කිරීමට තීරණය කර තිබේ.
+
+අශෝක ප්‍රියන්ත මහතා මීට පෙර නාමල් රාජපක්ෂ මහතාට සහාය පළ කරන්නට තීරණය කර තිබුණි.
+
+අශෝක ප්‍රියන්ත මහතා ඊයේ (20)පෙරවරුවේ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන්  කොළඹ අරලියගහ මන්දිරයේ දී පැවති සාකච්ඡාවකට සහභාගී වී තම තීරණය දැනුම් දී ඇත.
+
+අශෝක ප්‍රියන්ත මහතා ඉකුත් මහ මැතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණ යටතේ පුත්තලම දිස්ත්‍රික්කයෙන් තරඟ කොට පාර්ලිමේන්තුවට තේරී පත්විය.
+
+◼️
+
+[Data](articles/952a32c8.json)
 
 ---
 
@@ -2323,29 +2353,5 @@ They were produced before the Kaduwela Magistrate's Court today.
 [Data](articles/7b53d430.json)
 
 [Extended Data](ext_articles/7b53d430.ext.json)
-
----
-
-### Mankipox exceeds 500 deaths
-
-*2024-08-20 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200127) · `si`
-
-Mankipox, also known as Mizksax, has caused over 500 deaths, primarily in Africa. The World Health Organization has declared it a global emergency due to its rapid spread. Health authorities are urging accelerated vaccination efforts to combat this virus.
-
-🟩
-
-The number of people who died in infection has increased to 548 due to the monkey fever or 'Mizksax' virus.
-
-It is reported that these viral illness is spreading in African countries, reports say.
-
-The World Health Organization declared it as a global emergency by the World Health Organization by considering the expansion of the mantpos.
-
-It is reported that the health authorities of African countries have requested to accelerate the vaccine program to control the vision of these views.
-
-◼️
-
-[Data](articles/6b736a30.json)
-
-[Extended Data](ext_articles/6b736a30.ext.json)
 
 ---

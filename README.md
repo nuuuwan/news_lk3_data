@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 15:36:39**
+As of **2024-08-20 15:55:24**
 
 ## Newspaper Stats
 
@@ -26,65 +26,83 @@ adaderanasinhalalk | 7,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,679 (100.0%) of 41,683 articles have been extended.
+41,683 (100.0%) of 41,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### ප්‍රාණඇපකරුවන් 6 දෙනෙකුගේ සිරුරු හමුවෙයි
+### Bodies of 6 hostages meet
 
 *2024-08-20 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200134) · `si`
 
-ඊශ්‍රායල ප්‍රාණඇපකරුවන් 6 දෙනෙකුගේ සිරුරු ගාසා තීරයෙන් සොයාගත් බව ඊශ්‍රායල ආරක්ෂක හමුදාව පවසයි.
+Israeli forces discovered the remains of six hostages near Khan Unison, Gaza, who were among 109 taken by Hamas militants during an attack on October 7, 2023. Relatives urge the government to act swiftly to secure their release.
 
-ගාසා තීරයේ ඛාන් යුනිස් ප්‍රදේශයෙන් එම 6 දෙනාගේ සිරුරු ඊයේ (19) සොයාගෙන තිබුණි.
+🟩
 
-ජාත්‍යන්තර මාධ්‍ය වාර්තා කරන්නේ තවත් ඊශ්‍රායල ප්‍රාණඇපකරුවන් 109ක් හමාස් සටන්කරුවන් භාරයේ සිටින බවයි.
+The Israeli defense army has found the bodies of 6 Israeli hounkers from Gaza.
 
-එම පිරිස 2023 ඔක්තෝබර් 07 වනදා හමාස් සටන්කාමීන් දියත්කළ ප්‍රහාරය අතරතුරදී පැහැර ගැනුණි.
+The bodies of the six were found yesterday (19) at Khan Unison, Gaza.
 
-ඔවුන් බේරාගැනීම සඳහා ඊශ්‍රායල රජය කටයුතු කළ යුතු බව ප්‍රාණඇපකරුවන්ගේ ඥාතීහු පවසති.
+International media reports that 109 Israeli hostages are responsible for Hamas fighters.
+
+They were abducted during the attack on Hamas militants on October 7, 2023.
+
+The relatives' relatives say the Israeli government should work to save them.
 
 ◼️
 
 [Data](articles/c6ce0345.json)
 
+[Extended Data](ext_articles/c6ce0345.ext.json)
+
 ---
 
-### மொட்டு புதிய கூட்டணியின் தலைவர் தினேஷ்?
+### Dinesh leader of the new alliance?
 
 *2024-08-20 15:02:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-புதிய-கூட்டணியின்-தலைவர்-தினேஷ்/175-342515) · `ta`
 
-ரணில் விக்கிரமசிங்கவை ஆதரிக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர்களால் உருவாக்கப்படவுள்ள புதிய கூட்டணியின் தலைவர் பதவியை பிரதமர் தினேஷ் குணவர்தனவுக்கு வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+Prime Minister Dinesh Gunawardena is leading the formation of a new political alliance in Sri Lanka, aimed at supporting President Ranil Wickremesinghe. The discussions began with a meeting chaired by the PM, and it includes representatives from various levels of government, including Provincial Councils and Local Government Councils. This move comes ahead of the upcoming elections, with the alliance planning to field candidates to contest.
 
-புதிய கூட்டணியை உருவாக்குவது தொடர்பான ஆரம்பக்கட்ட கலந்துரையாடல் செவ்வாய்க்கிழமை (20) காலை அலரிமாளிகையில் பிரதமர் தினேஷ் குணவர்தன தலைமையில் நடைபெற்றது.
+🟩
 
-எதிர்வரும் தேர்தலில் இந்த புதிய கூட்டணியுடன் இணைந்து போட்டியிடவுள்ளதாக ஜனாதிபதியை ஆதரிக்கும் மக்கள் கட்சியின் மூத்த பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+Prime Minister Dinesh Gunawardena has decided to post the new coalition chairman for the Sri Lanka PA's parliamentarians who support Ranil Wickremesinghe.
 
-ஜனாதிபதிக்கு ஆதரவளிக்க வரும் பொது மக்கள் முன்னணியின் மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றங்களின் பிரதிநிதிகளுக்கும் இந்த புதிய கூட்டணி திறக்கப்பட்டுள்ளதாக பாராளுமன்ற குழுவின் பேச்சாளர் மேலும் தெரிவித்தார்.
+The preliminary discussion on the formation of a new alliance was held on Tuesday (20) at the Alariyamalika chaired by Prime Minister Dinesh Gunawardena.
+
+A senior spokesman for the People's Party supporting the president said he would contest the upcoming election with the new coalition.
+
+The spokesman for the parliamentary committee added that the new coalition has been opened for representatives of the Provincial Councils and Local Government Councils of the People's Front to support the president.
 
 ◼️
 
 [Data](articles/84781440.json)
 
+[Extended Data](ext_articles/84781440.ext.json)
+
 ---
 
-### மொட்டுவின் புதிய கூட்டணிக்கு புதிய தலைவர்
+### The new leader for the new coalition of Mottu
 
 *2024-08-20 15:02:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவின்-புதிய-கூட்டணிக்கு-புதிய-தலைவர்/175-342515) · `ta`
 
-ரணில் விக்கிரமசிங்கவை ஆதரிக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர்களால் உருவாக்கப்படவுள்ள புதிய கூட்டணியின் தலைவர் பதவியை பிரதமர் தினேஷ் குணவர்தனவுக்கு வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+Prime Minister Dinesh Gunawardena has appointed a new coalition chairman for the Sri Lanka PA's parliamentarians backing Ranil Wickremesinghe. The initial talks on forming this alliance took place on Tuesday under his leadership. A key figure from the People's Party confirmed their participation in the upcoming elections with this new coalition. Additionally, the coalition now extends its invitation to representatives from the Provincial Councils and Local Government Councils of the People's Front to support the president.
 
-புதிய கூட்டணியை உருவாக்குவது தொடர்பான ஆரம்பக்கட்ட கலந்துரையாடல் செவ்வாய்க்கிழமை (20) காலை அலரிமாளிகையில் பிரதமர் தினேஷ் குணவர்தன தலைமையில் நடைபெற்றது.
+🟩
 
-எதிர்வரும் தேர்தலில் இந்த புதிய கூட்டணியுடன் இணைந்து போட்டியிடவுள்ளதாக ஜனாதிபதியை ஆதரிக்கும் மக்கள் கட்சியின் மூத்த பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+Prime Minister Dinesh Gunawardena has decided to post the new coalition chairman for the Sri Lanka PA's parliamentarians who support Ranil Wickremesinghe.
 
-ஜனாதிபதிக்கு ஆதரவளிக்க வரும் பொது மக்கள் முன்னணியின் மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றங்களின் பிரதிநிதிகளுக்கும் இந்த புதிய கூட்டணி திறக்கப்பட்டுள்ளதாக பாராளுமன்ற குழுவின் பேச்சாளர் மேலும் தெரிவித்தார்.
+The preliminary discussion on the formation of a new alliance was held on Tuesday (20) at the Alariyamalika chaired by Prime Minister Dinesh Gunawardena.
+
+A senior spokesman for the People's Party supporting the president said he would contest the upcoming election with the new coalition.
+
+The spokesman for the parliamentary committee added that the new coalition has been opened for representatives of the Provincial Councils and Local Government Councils of the People's Front to support the president.
 
 ◼️
 
 [Data](articles/b7e7ea90.json)
+
+[Extended Data](ext_articles/b7e7ea90.ext.json)
 
 ---
 
@@ -152,17 +170,23 @@ Asoka Priyantha made his decision on Tuesday (20).
 
 ---
 
-### நாமலிடம் இருந்து தாவினார் அசோக
+### Asoka from Namal
 
 *2024-08-20 14:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலிடம்-இருந்து-தாவினார்-அசோக/175-342514) · `ta`
 
-ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்த தீர்மானித்துள்ளார்.
+Ashoka Priyantha, Minister of State for Home Affairs, supports President Ranil Wickremesinghe in the upcoming presidential election, as announced on Tuesday (20).
 
-செவ்வாய்க்கிழமை (20)  இடம்பெற்ற கலந்துரையாடலில் கலந்து கொண்டு  அசோக பிரியந்த தனது தீர்மானத்தை தெரிவித்துள்ளார்.
+🟩
+
+Minister of State for Home Affairs Ashoka Priyantha has decided to support President Ranil Wickremesinghe in the presidential election.
+
+Asoka Priyantha made his decision on Tuesday (20).
 
 ◼️
 
 [Data](articles/d84ec486.json)
+
+[Extended Data](ext_articles/d84ec486.ext.json)
 
 ---
 

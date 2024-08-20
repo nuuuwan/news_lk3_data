@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 07:51:06**
+As of **2024-08-20 08:15:41**
 
 ## Newspaper Stats
 
-*Scraped **41,601** Articles*
+*Scraped **41,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,507
 dailyftlk | 2,687
-adalk | 3,825
+adalk | 3,826
 dailymirrorlk | 4,733
 adaderanalk | 4,867
-tamilmirrorlk | 5,370
+tamilmirrorlk | 5,372
 virakesarilk | 6,601
 adaderanasinhalalk | 7,097
 
@@ -26,49 +26,87 @@ adaderanasinhalalk | 7,097
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,585 (100.0%) of 41,601 articles have been extended.
+41,595 (100.0%) of 41,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### මහනුවර ඇසළ පෙරහැරේ දියකෑපීමේ මංගල්‍ය ඇරඹෙයි
+### Festival of Downloads in the Esala Perahera of Kandy
 
 *2024-08-20 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200118) · `si`
 
-මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ ඇසල පෙරහැර මංගල්‍යයේ අවසන් රන්දෝලි පෙරහැර ඊයේ (19) රාත්‍රි වීදී සංචාරය කෙරුණි.
+The Esala Perahera in Kandy concluded with the final Randoli Perahera, marking the start of the northern regime. The procession traveled through several streets, including Dalada Veediya and Yatahera Street. Following this, a water ritual is scheduled for today at the Gangala tree.
 
-ඊයේ රාත්‍රී 6.57ට යෙදුණු සුබ මොහොතින් උතුරු දිශාභිමුඛව ගමන් ආරම්භ කෙරෙනු අවසන් රන්දෝලි පෙරහැරේ සධාතුක කරඬුව වැඩම කරවීම සිදුකරනු ලැබුවේ ශ්‍රී දළදා මාළිගාවේ ඉන්දිරාජා හස්තියාය.
+🟩
 
-දළදා වීදිය, යටිනුවර වීදිය, කන්දෙ වීදිය, ඩී.එස් සේනානායක වීදිය ඔස්සේ ගමන් කළ පෙරහැර රජ වීදිය ඔස්සේ ඉහළට විත් ගෙවැදීම සිදුවුණි.
+The final Randoli Perahera of the Assyon Perahera of the Sri Dalada Maligawa, Kandy was the last Randolley Perahera last night.
 
-අවසන් රන්දෝලි පෙරහැරෙන් අනතුරුව අද (20) උදෑසන මහනුවර ගැටඹ තොටේ දී දිය කැපීමේ චාරිත්‍රය සිදුකිරීමට නියමිත බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+Indirajah was held at the Sri Dalada Maligawa, the final Randoli Perahera, which will commence the northern regime at 6.57 pm last night.
+
+The Perahera, the Paranga Visio, which was traveling along the Dalada Veediya, Yataherawara Street, Yatahera Street, DS Senanayake Street.
+
+The Ada Derana reporter stated that after the final Randoli procession, the ritual of water is due to be conducted at the Gangala tree today (20).
 
 ◼️
 
 [Data](articles/db5734af.json)
 
+[Extended Data](ext_articles/db5734af.ext.json)
+
 ---
 
-### ඉම්රාන් ඛාන්ගේ මීළඟ සැලසුම එළියට
+### தலதா பெரஹராவை பார்வையிட்டார் ஜனாதிபதி
+
+*2024-08-20 07:19:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-பெரஹராவை-பார்வையிட்டார்-ஜனாதிபதி/175-342487) · `ta`
+
+கண்டி வரலாற்றுச் சிறப்புமிக்க தலதா மாளிகையின் வருடாந்த எசல பெரஹராவின் இறுதி ரந்தோலி பெரஹரா நேற்று (19) இரவு நடைபெற்றதுடன் ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் ஆயிரக்கணக்கான மக்களுடன் இணைந்து பெரஹராவைக் கண்டுகளித்தார்.
+
+இந்த நிகழ்வில், பேராசிரியர் மைத்ரி விக்ரமசிங்க மற்றும்  தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க, அமைச்சர் பந்துல குணவர்தன, இராஜாங்க அமைச்சர்களான அனுராத ஜயரத்ன, திலும் அமுனுகம, லொஹான் ரத்வத்தே, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோர் உள்ளிட்ட பலர் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/621766e4.json)
+
+---
+
+### Imran Khan's next design out
 
 *2024-08-20 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200117) · `si`
 
-පාකිස්තානයේ හිටපු අග්‍රමාත්‍ය සිරගතව සිටින ඉම්රාන් ඛාන් ලොව වඩාත් කීර්තිමත් විශ්වවිද්‍යාලයක් ලෙසින් සැලකෙන බ්‍රිතාන්‍යයේ ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයේ මීළඟ කුලපතිවරයා වීම සඳහා අයදුම් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Imran Khan, former PM of Pakistan, is set to become the Chancellor of the University of Oxford, making history as the first Pakistani to hold this position. This appointment comes after Chris Patten stepped down in February. The announcement was confirmed by PTI, led by Khan, marking a significant recognition of his global stature.
 
-මේ බව ඉම්රාන් ඛාන්ගේ දේශපාලන පක්ෂය වන ටේහ්රීක් -ඊ-ඉන්සාෆ් (PTI) පක්ෂය සිය  'X' ගිණුමෙන්ද තහවුරු කර ඇත.
+🟩
 
-එහි දැක්වෙන පරිදි පී.ටී.අයි. පක්ෂයේ ලන්ඩනයේ ප්‍රකාශක සයීඩ් සුල්ෆිකර් බුහාරි හරහා ඉම්රාන් ඛාන් තම අයදුම්පත විධිමත් ලෙස ඔක්ස්ෆර්ඩ් පාලනාධිකාරිය වෙත යොමුකර තිබේ.
+Foreign media reports that Imran Khan, who is in the world, is considered a world's most prestigious university in the world, is the next charistehip of the British.
 
-ඒ අනුව ඔහු කුලපති ධුරයට පත් වුවහොත් එම විශ්වවිද්‍යාලයේ කුලපති ධුරයට පත්වන ආසියානු සම්භවයක් ඇති පළමු පුද්ගලයා ඔහු වනු ඇත.
+The political party of Imran Khan's political party, Taaharech-and Insugh confirmed its 'X' account.
 
-එමෙන්ම පාකිස්තානයේ පළමු අගමැතිනිය වන බෙනාසීර් භූතෝ ඇතුළු පාකිස්තානයේ අගමැතිවරු හය දෙනෙක් සහ ජනාධිපතිවරු දෙදෙනෙකුද ඔක්ස්ෆර්ඩ් හි අධ්‍යාපනය ලබා ඇත.
+PTI. Imran Khan has been directed to the Oxford administration properly across the party's London Syd's spokesman Sulfair.
 
-ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලයේ වත්මන් කුලපති වන ක්‍රිස් පැටන් එළැඹෙන පෙබරවාරි මාසයේදී සිය තනතුරෙන් ඉල්ලා අස්වන බව පසුගියදා නිවේදනය කළේය.
+Accordingly, he will be the first person to be appointed as the Chancellor of the University.
+
+There are six prime ministers of Pakistan, including the first Prime Minister of Pakistan, Benazir and two presidents.
+
+The current Chancellor of the University of Oxford, it recently announced that Chris Patton has resigned from his post in February.
 
 ◼️
 
 [Data](articles/557ea52d.json)
+
+[Extended Data](ext_articles/557ea52d.ext.json)
+
+---
+
+### பிரபாகரனை ரணில் என்ன செய்திருப்பார்
+
+*2024-08-20 07:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனை-ரணில்-என்ன-செய்திருப்பார்/175-342486) · `ta`
+
+இந்த ஜனாதிபதி தேர்தலில் பிரபாகரன் மட்டுமே போட்டியிடவில்லை. பிரபாகரன் உயிருடன் இருந்திருந்தால் அவரையும் ரணில் இணைத்திருப்பார் என்று ஐக்கிய மக்கள் சக்தியின் தேர்தல் பிரசாரக் கூட்டத்தில் முன்னாள் பாராளுமன்ற உறுப்பினர் சுஜீவ சேனசிங்க தெரிவித்தார்
+
+◼️
+
+[Data](articles/3daab0a4.json)
 
 ---
 
@@ -90,31 +128,41 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/8d304540.json)
 
+[Extended Data](ext_articles/8d304540.ext.json)
+
 ---
 
-### ටෙස්ට් පිටියට කලකට පසු එන පොට්ස්
+### Potts coming after a time when the Test
 
 *2024-08-20 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200116) · `si`
 
-ශ්‍රී ලංකාව හා එංගලන්තය අතර මේ මස 21වැනිදා ආරම්භ වන තරග 3කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලියේ පළමු තරගයට ක්‍රීඩාකරන එංගලන්ත සංචිතය ඊයේ (19) පස්වරුවේ නිවේදනය කළේය.
+Matthew Potts, a promising young English cricketer, has been included in the squad for the first Test match of the series against Sri Lanka. Despite not having played a Test match yet, Potts impressed in his debut year, taking 23 wickets in just six Tests in 2022, including a spell where he took 4/13. Known for his ability to take crucial wickets early in the innings, Potts has already made a significant impact in first-class cricket, taking 218 wickets in 55 matches. His batting prowess includes a century and three half-centuries, adding 1067 runs to his tally. This inclusion follows Ben Stokes' absence due to injury from the first Test.
 
-ඒ අනුව ආබාධයකට ලක්ව සිටින නිත්‍ය ටෙස්ට් නායක බෙන් ස්ටෝක්ස්ගේ ස්ථානයට යොවුන් තුන්ඉරියව් ක්‍රීඩකයෙකු වන මැතිව් පොට්ස් කැඳවා තිබේ.
+🟩
 
-මේ වනවිට 25 වියේ පසුවන පොට්ස් මීට පෙරද එංගලන්තය නියෝජනය කළ ක්‍රීඩකයෙකු වුවත්, 2023 වසරේ ජනවාරි මස අයර්ලන්තයට එරෙහි ටෙස්ට් තරගය ක්‍රීඩා කිරීමෙන් පසු මේ දක්වා ටෙස්ට් කණ්ඩායමේ අවස්ථාවක් ලැබී නොමැත. ඔලී පෝප්
+England The squad for the first match of the 3 match Test series, which will play between Sri Lanka and England, will play the first match of the 3 match Test series.
 
-2022 වසරේදී නවසීලන්තයට එරෙහිව ජාත්‍යන්තර ටෙස්ට් වරම් දිනාගත් පොට්ස්, තරග 06කට ක්‍රීඩාකර කඩුලු 23ක් බිඳහෙළා සිටී.
+Accordingly, the youth threeriarch, Matthew Pheni, has been called on permanent Test leader Ben Stokes.
 
-ඔහු සිය මංගල ටෙස්ට් තරගයේදීම ලකුණු 13කට කඩුලු 04ක් දවාගැනීමට සමත් විය.
+At the 25-year-old ponn, was a player representing England before, has not received the opportunity to win the Test match against Ireland in January 2023,. Ollie pup
 
-පළමු පෙළ ක්‍රිකට් තරගයන්හි කැපී පෙනෙන ක්‍රීඩකයෙකු වන පොට්ස්, තරග 55කදී කඩුලු 218ක් බිඳහෙළා ඇත.
+In 2022, international Test had won 23 wickets for six wickets.
 
-අවස්ථා 09කදී කඩුලු පහ බැගින් බිඳහෙළා ඇති ඔහුගේ ඉනිමක හොඳම පන්දු යැවීම 7/40ක් ලෙසින් දැක්වෙයි.
+He took 4 wickets for 13 runs.
 
-එමෙන්ම පන්දුවට පහරදීමෙන්ද ලකුණු 1067ක් රැස්කර ඇති ඔහු ශතකයක් (නොදැවී 149) හා අර්ධ ශතක 03කට හිමිකම් කියයි.
+A significant player of the first-order cricket matches, Potts, who were a prominent player of the first-order cricket matches, had blocked 218 wickets in 55 matches.
+
+Once the five wickets have been broken down in 09 are the best bowling in their innings.
+
+He had scored 1067 runs in the batting and claimed a century (139 unbeaten) and three half centuries.
+
+Ben Stokes lose the first Test, as a result of a disorder.
 
 ...
 
 [Data](articles/3067a0c6.json)
+
+[Extended Data](ext_articles/3067a0c6.ext.json)
 
 ---
 
@@ -161,6 +209,22 @@ Kurunegala Police are conducting further investigations.
 [Data](articles/1297fe5c.json)
 
 [Extended Data](ext_articles/1297fe5c.ext.json)
+
+---
+
+### ජනාධිපතිවරයේදී අපේක්ෂකයෙකුට වැය කළ හැකි උපරිම මුදල රු. 1 868 298 586
+
+*2024-08-20 06:25:47* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයේදී-අපේක්ෂකයෙකුට-වැය-කළ-හැකි-උපරිම-මුදල-රු--1-868-298-586/11-411450) · `si`
+
+2024 ජනාධිපතිවරණයේ අපේක්ෂකයෙකු විසින් ප්‍රචාරක වියදම් ලෙස ඡන්ද  හිමි නාම ලේඛනයේ ලියා පදිංචි  එක්  ඡන්ද  හිමියෙකු වෙනුවෙන් වැය කළ හැකි උපරිම  මුදල රුපියල් 109.00 ක් වියයුතු බව මැතිවරණ කොමිෂන් සභාව නියම කරයි.
+
+මේ අනුව එක් අපේක්ෂකයෙකුට  මෙවර ජනාධිපතිවරණයට අදාලව එලෙස වැයකළ හැකි උපරිම සමස්ත වියදම රුපියල් එකසිය අසූහය කෝටි අසූදෙලක්ෂ අනූඅට දහස් පන්සිය අසූහයක්(1,868,2,98,586.00 ) බව මැතිවරණ කොමිෂන් සභාව මෙම වියදම් නියම කිරීමට අදාලව අගෝස්තු 16 දාතමින් නිකුත් කළ අති විශේෂ ගැසට් නිවේදනය මගින් ප්‍රකාශයට පත් කර ඇත.
+
+මෙම වියදමෙන් සියයට 60 ක් හෙවත් රුපියල් එකසිය දොළොස් කෝටි නව ලක්ෂ හැත්තෑනව දහස් එකසිය පනස් එකයි ශත හැටක මුදලක්  (1,120,9,79,151.60) අපේක්ෂකයාට තම  ප්‍රචාරක වියදම් ලෙස දැරිය හැකි අතර සියයට 40 ක් හෙවත් රුපියල් හැත්තෑ හතර කෝටි හැත්තෑ තුන් ලක්ෂ දහනව දහස් නමසිය තිස් හතරයි ශත හතලිහක මුදලක් අපේක්ෂකයා නාම යෝජනා කළ දේශපාලන පක්ෂයට   හෝ  ඡන්ද  හිමියාට වැයකළ හැකි බව මැතිවරණ කොමිෂන් සභාව නියම කරයි.
+
+...
+
+[Data](articles/8aa6dee8.json)
 
 ---
 
@@ -820,6 +884,8 @@ The general public is therefore kindly requested to take adequate precautions to
 
 [Data](articles/523f7a31.json)
 
+[Extended Data](ext_articles/523f7a31.ext.json)
+
 ---
 
 ### Boat drowned in Sicily Sea - Magic many, including Sri Lankans
@@ -1064,17 +1130,23 @@ Ahead of the upcoming presidential election, the Election Commission had met wit
 
 ---
 
-### ඉන්දි රාජාට ලැබුණ වාසනාව
+### Lucky lucky to Indi Raja
 
 *2024-08-19 20:16:20* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දි-රාජාට-ලැබුණ-වාසනාව/10-411449) · `si`
 
-මහනුවර ඓතිහාසික ඇසළ පෙරහරේ අවසන් රන්දෝලි මහ පෙරහර අද (19) වීදි සංචාරය කළේය .
+Today marked the historic finale of the Esala Perahera in Kandy, with the last Randoljah elephant's inauguration at the Sri Dalada Maligawa.
 
-ශ්‍රී දළදා මාලිගාවේ සධාතුක කරඬුව දරාගත් ඉන්දිරාජා හස්තියා සවස 6.57 ට යෙදුණ සුබ මොහුර්තියෙන් සඳගල පා තැබීමත් සමඟ අවසන් රන්දෝලි මහ පෙරහරේ සමාරම්භය සනිටුහන් වූ අතර ඉන්දි රාජා හස්තියාගේ පරිවාර ඇතුන් ලෙස ශ්‍රී දළදා මාලිගාවේ ඇත් පන්තියේ මියන් රාජා සහ කෝට්ටේ රජමහා විහාරයට අයත් කෝට්ටේ රාජා යන හස්තීන් ගමන් කළේය .
+🟩
+
+The final Randoli Perahera of the historical Esala Perahera of Kandy was held today (19).
+
+The last Randoljah elephant was inaugurated at the Sri Dalada Maligawa..
 
 ◼️
 
 [Data](articles/2b385b1f.json)
+
+[Extended Data](ext_articles/2b385b1f.ext.json)
 
 ---
 
@@ -1276,6 +1348,8 @@ This initiative aligns with Union Bank School of Social Entrepreneurship (UBSSE)
 
 [Data](articles/61f8578b.json)
 
+[Extended Data](ext_articles/61f8578b.ext.json)
+
 ---
 
 ### ‘ApiDenna’ with Gypsies Piyal and Shenal
@@ -1297,6 +1371,8 @@ According to Piyal, ‘ApiDenna’ is a new venture which he and Shenal decided 
 ...
 
 [Data](articles/09038d7a.json)
+
+[Extended Data](ext_articles/09038d7a.ext.json)
 
 ---
 
@@ -1408,6 +1484,8 @@ Andrea, from Sri Lanka, is a singer/songwriter and vocal coach now based in Melb
 
 [Data](articles/43751497.json)
 
+[Extended Data](ext_articles/43751497.ext.json)
+
 ---
 
 ### First Capital Holdings delivers profitable start to FY24/25
@@ -1421,6 +1499,8 @@ The Primary Dealer division achieved a Profit After Tax of Rs. 464 million for t
 ...
 
 [Data](articles/3a423a8c.json)
+
+[Extended Data](ext_articles/3a423a8c.ext.json)
 
 ---
 
@@ -2121,75 +2201,5 @@ The final redirect procession is due to be on the rise on the DB, Yanda Street a
 [Data](articles/163cb3e8.json)
 
 [Extended Data](ext_articles/163cb3e8.ext.json)
-
----
-
-### Kush cannabis cultivation busted inside house in Malabe, 2 arrested
-
-*2024-08-19 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101351/kush-cannabis-cultivation-busted-inside-house-in-malabe-2-arrested-) · `en`
-
-Western Province - South Crimes Division officers have raided a Kush cannabis cultivation illegally carried out within a two-storey house at Kahanthota Road in Pittugala, Malabe.
-
-The raid, which was carried out last afternoon (19), has led to the discovery of a highly sophisticated cultivation setup, where approximately 174 Kush cannabis plants were cultivated inside an air-conditioned room on the ground floor of the residence, police said.
-
-During the raid, one of the suspects was caught in the process of packaging the drugs, and preparing for distribution. Police estimate the street value of the seized ‘Kush’ cannabis to be around Rs. 100 million.
-
-Further investigations have revealed that the house, which was purportedly operating under the guise of a tea-packing business, had been rented out for the purpose of running this illegal operation.
-
-Two suspects, aged 25 and 48, who were arrested at the scene are scheduled to be produced before the Kaduwela Magistrate’s Court, police said.
-
-◼️
-
-[Data](articles/0790d34a.json)
-
-[Extended Data](ext_articles/0790d34a.ext.json)
-
----
-
-### People's National Party (SLC) support to Dilith
-
-*2024-08-19 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200099) · `si`
-
-The People's National Party (SLC) has endorsed Mr. Dilith Jayaweera for the Presidential Election, transferring its support from the National Party to him.
-
-🟩
-
-The party has decided to hand over the support of the National Party in the Presidential Election to Mr. Dilith Jayaweera.
-
-◼️
-
-[Data](articles/333d3212.json)
-
-[Extended Data](ext_articles/333d3212.ext.json)
-
----
-
-### Motorists who have passed the lives of the same way in three days
-
-*2024-08-19 15:29:38* · [`adalk`](https://www.ada.lk/breaking_news/දින-තුනක්-තුළ-එකම-ආකාරයකින්-ජිවිතයෙන්-සමුගත්-යතුරුපැදිකරුවෝ/11-411445) · `si`
-
-In three days, two school students died in separate motorcycle accidents without helmets or licenses. The first incident involved two motorcycles colliding near Hanwella on the 15th, followed by another where a girl was hit by a tipper truck on a Meegoda road. The girl, Subimuous Sashhawkhakhaku Wijesinghe, was critically injured and later pronounced dead at Homagama Base Hospital. The post-mortem revealed severe chest injuries as the cause of death. Both accidents highlighted the lack of safety measures among young riders.
-
-🟩
-
-The Homagama Base Hospital says that two incidents of death were reported in three days when two-aged school students were running a legitimate license or a helmet.
-
-The first was reported from Welpillawa area in Hanwella on the 15th and two motorcycles had died in the face of two motorbikes.
-
-Three days later, a motorcycle was killed in a tipper in Meegoda and Dampura road.
-
-The deceased has been identified as a schoolgirl, Subimuous Sashhawkhakhaku Wijesinghe, a resident of Meegoda DM, 226 / B, in Meegoda.
-
-The tipper driver has not stopped and the accident has been driven by the accident and the tipper was unable to catch a three-wheeler driver.
-
-The schoolgirl was later informed a sacred ambulance to take the hospital to the hospital.
-
-Accordingly, the school student who was admitted to hospital was deceased and the Death of the Homagama Homagama Hospital Dr. Damith Attanayake made the post mortem examination.Was done.
-
-...
-
-[Data](articles/d5b18af0.json)
-
-[Extended Data](ext_articles/d5b18af0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 16:54:35**
+As of **2024-08-20 17:06:28**
 
 ## Newspaper Stats
 
-*Scraped **41,701** Articles*
+*Scraped **41,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,515
 dailyftlk | 2,687
-adalk | 3,836
+adalk | 3,837
 dailymirrorlk | 4,733
 adaderanalk | 4,882
 tamilmirrorlk | 5,395
 virakesarilk | 6,622
-adaderanasinhalalk | 7,116
+adaderanasinhalalk | 7,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,691 (100.0%) of 41,701 articles have been extended.
+41,700 (100.0%) of 41,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### සම්ප්‍රදාය බිඳ දමමින් කෘතගුණ දැක්වූ ජනපති අපේක්ෂිකාව
+
+*2024-08-20 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200138) · `si`
+
+අමෙරිකානු ඩිමොක්‍රොටික් පක්ෂ ජාතික සම්මේලනය චිකාගෝ හිදී ඊයේ (19) ආරම්භ විය.
+
+ඒ, අමෙරිකානු ජනාධිපතිවරණයේ ඩිමොක්‍රටික් පක්ෂ අපේක්ෂිකා කමලා හැරිස්, අමෙරිකානු ජනාධිපති ජෝ බයිඩන්, හිටපු අමෙරිකානු රාජ්‍ය ලේකම් හිලරි ක්ලින්ටන් රමුඛ ඩිමොක්‍රටික් පාක්ෂිකයින්ගේ ප්‍රධානත්වයෙනි.
+
+පක්ෂ සම්මේලනය ඇමතූ ඩිමොක්‍රටික් පක්ෂ ජනාධිපති අපේක්ෂක කමලා හැරිස් එහිදී ජනාධිපති ජෝ බයිඩන්ට කෘතගුණ දක්වීම කාගේත් අවධානය දිනාගත් කරුණක් විය.
+
+ඇය අවධාරණය කළේ ඩිමොක්‍රටික් පාක්ෂිකයින් සෑමවිටම ජනාධිපති බයිඩන්ට ණයගැති  බවය.
+
+ජනාධිපති අපේක්ෂකයා පළමු දිනයේදීම සම්මේලනයට එක්වුවත් සම්මේලනය අවසන් දිනයේදී සභාව ඇමතීම සාමාන්‍ය සම්ප්‍රදාය වේ.
+
+හැරිස් මෙලෙස සම්ප්‍රදාය බිඳ දැමීම, ඇය පක්ෂ අපේක්ෂකත්වයට පත්වූ අසාමාන්‍ය ස්වභාවයත් හේතුවන්නට ඇති බවට ඇතැම් පිරිස් මත පළකරයි.
+
+අමෙරිකානු ජාතික ජෝ බයිඩන් ද ජාතික සම්මේලනය ඇමතූ අතර එහිදී ජනාධිපතිවරයාට පාක්ෂිකයින්ගෙන් හිමිවූයේ උණුසුම් පිළිගැනීමකි.
+
+ජනාධිපති බයිඩන් වේදිකාව මතදී සංවේදී වූ අයුරු විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+
+සම්මේලනය අමතමින් ජනාධිපති බයිඩන් පැවසුවේ අමෙරිකානු ජනාධිපති ධුරය දැරීම තමන් ලද භාග්‍යයක් බවය.
+
+...
+
+[Data](articles/0f2c19c9.json)
+
+---
 
 ### Israeli military retrieves bodies of six hostages held in Gaza
 
@@ -50,19 +78,45 @@ U.S. Secretary of State Antony Blinken is in the Middle East this week trying to
 
 [Data](articles/3e3d46ff.json)
 
+[Extended Data](ext_articles/3e3d46ff.ext.json)
+
 ---
 
-### ’சொபாதனவி’ புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்து
+### වෙන්නප්පුවේදී බස් රථ 04ට ගිනි තියයි
+
+*2024-08-20 16:24:30* · [`adalk`](https://www.ada.lk/breaking_news/වෙන්නප්පුවේදී-බස්-රථ-04ට-ගිනි-තියයි/11-411463) · `si`
+
+අලුත්වැඩියා කටයුක්තක් සදහා වෙන්නප්පුව වැව පාරේ ගරාජයක නවතා තිබු බස් රථ හතරක් අද(20දා) අලුයම 2.30 ට පමණ හදිසි ගින්නකින් විනාශ විමේ සිද්ධියක් සම්බන්දයෙන් වෙන්නප්පුව මුලස්ථාන පොලිසිය පරික්ෂණයක් ආරම්භ කර ඇත.
+
+ගරාජය තුළ පැතිරිගිය ගින්නෙන් නවින පන්නයේ බස් රථයක් සම්පුර්ණයෙන් ගිනිගෙන ඇති අතර තවත් බස් රථ තුනකට ගින්නෙන් සුලු හානි සිදුව තිබේ.
+
+ගින්නෙන් බස් රථවලට සිදුවි හානිය රුපියල් කෝටි තුනක් පමණ බව පොලිසිය සදහන් කරයි.
+
+අලුයම් කාළයේදි   කිසියම් පුද්ගලයකු බස් රථයකට ගිනි තබා  දිව යන ආකාරය අසල නිවසක සවිකර තිබු සිසිටිවි කාමරාවක සටහන් වි ඇති බව අප වාර්තාකරු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ea062536.json)
+
+---
+
+### Memorandum of Understanding
 
 *2024-08-20 16:22:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொபாதனவி-புரிந்துணர்வு-ஒப்பந்தம்-கைச்சாத்து/175-342520) · `ta`
 
-கெரவலப்பிட்டிய "சொபாதனவி" ஒருங்கிணைந்த சுழற்சி மின் உற்பத்தி நிலையத்திற்கு திரவ இயற்கை எரிவாயு (Liquefied natural gas – LNG) களஞ்சியப்படுத்துவதற்கு உட்கட்டமைப்பு வசதி அபிவிருத்தி செய்தல்,எல்என்ஜி வாயுபரிமாற்றம் மற்றும் விநியோகம் தொடர்பில்  இலங்கை எல்.டி.எல் ஹோல்டிங் நிறுவனம் (LTL Holdings Limited, Sri Lanka) மற்றும்  இந்தியாவின் பெட்ரோநெட் எல்.என்.ஜி நிறுவனம் (Petronet LNG Limited, India)ஆகியவற்றுக்கு இடையில் சற்று முன்னர் புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திடப்பட்டது.
+A Memorandum of Understanding (MoU) was signed between Sri Lanka LTL Holdings Limited and PTRONET LNG Limited, facilitated by the Minister of Power and Energy Kanjana Wijesekera and the Indian Deputy High Commissioner to Sri Lanka, marking a significant event prior to the NGG meeting.
 
-மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர மற்றும் இலங்கைக்கான இந்திய பிரதி உயர்ஸ்தானிகர் ஆகியோரின் தலைமையில் இந்த நிகழ்வு நடைபெற்றது.
+🟩
+
+Sri Lanka LTL Holdings Limited, SRI LANCA)The Memorandum of Understanding (MoU) was signed shortly before the NGG (PTRONET LNG Limited and India).
+
+The event was chaired by Minister of Power and Energy Kanjana Wijesekera and Indian Deputy High Commissioner to Sri Lanka.
 
 ◼️
 
 [Data](articles/27a5f822.json)
+
+[Extended Data](ext_articles/27a5f822.ext.json)
 
 ---
 
@@ -180,17 +234,23 @@ Additionally, former Deputy Minister Nishantha Muthuhettigamage, was appointed a
 
 ---
 
-### கெரவலப்பிட்டிய ஒருங்கிணைந்த சுழற்சி மின் உற்பத்தி நிலையத்திற்கு திரவ இயற்கை எரிவாயுவை களஞ்சியப்படுத்த புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்து
+### Memorandum of Understanding (MoU) to reposit liquid natural gas to the Karavalapitiya Integrated Cotational Power Plant
 
 *2024-08-20 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/191541) · `ta`
 
-கெரவலப்பிட்டிய "சொபாதனவி" ஒருங்கிணைந்த சுழற்சி மின் உற்பத்தி நிலையத்திற்கு திரவ இயற்கை எரிவாயு (Liquefied natural gas – LNG) களஞ்சியப்படுத்துவதற்கு உட்கட்டமைப்பு வசதி அபிவிருத்தி செய்தல், எல்என்ஜி வாயுபரிமாற்றம் மற்றும் விநியோகம் தொடர்பில்  இலங்கை எல்ரீஎல் ஹோல்டிங் நிறுவனம்(LTL Holdings Limited, Sri Lanka)மற்றும்  இந்தியாவின் பெட்ரோநெட் எல்என்ஜி நிறுவனம் (Petronet LNG Limited, India) ஆகியவற்றுக்கு இடையில் இன்று செவ்வாய்க்கிழமை (20) புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திடப்பட்டது.
+An MoU was signed on 20th day between Ltd Holdings Limited, LTL Holdings Limited, and India's LNG Home Transfer and Distribution companies. Chaired by Sri Lanka's Minister of Power and Energy Kanjana Wijesekera and India's Deputy High Commissioner, it aims to reposit liquid natural gas to the Karavalapitiya Integrated Cotational Power Plant.
 
-மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர மற்றும் இலங்கைக்கான இந்திய பிரதி உயர்ஸ்தானிகர் ஆகியோரின் தலைமையில் இந்த நிகழ்வு நடைபெற்றது.
+🟩
+
+Ltdl Holdings Limited, LTL Holdings Limited, LNG Home Transfer and Distribution of Liquefied Natural Gas (LNG) GThe Memorandum of Understanding (MoU) was signed today (20) between Limited and India.
+
+The event was chaired by Minister of Power and Energy Kanjana Wijesekera and Indian Deputy High Commissioner to Sri Lanka.
 
 ◼️
 
 [Data](articles/a347ea42.json)
+
+[Extended Data](ext_articles/a347ea42.ext.json)
 
 ---
 
@@ -248,71 +308,97 @@ The gazette notification further states that the information for propaganda cost
 
 ---
 
-### தரப்படுத்தப்பட்ட ஜனநாயகமே நமது நாட்டுக்குத் தேவை :  அதிகாரத்தை கைப்பற்றுவது நோக்கம் அல்ல என்கிறார் சஜித்
+### Our country needs standardized democracy: Sajith says it is not aimed at seizing power
 
 *2024-08-20 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191535) · `ta`
 
-சிறந்த வெளிப்படை தன்மையுடன் கூடிய,  பொறுப்பேற்கின்ற, பொறுப்புக் கூறக்கூடிய  ஜனநாயக ரீதியில் மக்களை பிரதிநிதித்துவப்படுத்தக்கூடிய, ஆட்சி ஒன்றை  உருவாக்குவதே நோக்கமாகும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+Sajith Premadasa advocates for a standardized democracy to enhance transparency and responsibility in governance. He emphasizes the importance of a democratic system that truly represents the people, contrasting it with current practices he deems lacking. Premadasa, supported by various groups including political parties, artists, and civil organizations, stresses the need for a democratic system that prioritizes the welfare of the nation over personal or party interests. He highlights the challenges facing the country and calls for a return to constitutional democracy, emphasizing economic and social justice.
 
-2024 ஆம் ஆண்டு ஜனாதிபதி தேர்தலில் போட்டியிடுகின்ற எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவு வழங்கும் நோக்கில் அரசியல் கட்சிகள், கலைஞர்கள், சிவில் அமைப்புகள், ஓய்வுபெற்ற இராணுவத்தினர், சமூக சேவையாளர்கள், மற்றும் தொழிற்சங்க தலைவர்கள் உள்ளிட்டோர்களோடு ஒருங்கிணைந்த புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திடும் நிகழ்வு செவ்வாய்க்கிழமை (20) வோட்டர்ஸ் ஏஜ் ஹோட்டலில் நடைபெற்றது.
+🟩
 
-இந்த நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போது எதிர்க்கட்சித் தலைவர்  சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said the aim was to create a regime that would have a better transparency, responsible, and responsible democratically representing the people.
+
+The Integrated Memorandum of Understanding with political parties, artists, civil organizations, social workers and trade union leaders, including political parties, artists, civil organizations, social workers, and union leaders, were held at the Watching Age Hotel on Tuesday to support the opposition leader Sajith Premadasa, who is contesting the 2024 presidential election.
+
+Opposition Leader Sajith Premadasa said this while participating in the event.
 
 ...
 
 [Data](articles/381b825b.json)
 
+[Extended Data](ext_articles/381b825b.ext.json)
+
 ---
 
-### தாயின் கையிலிருந்த வேட்டைத் துப்பாக்கி வெடித்ததில் மகன் காயம்
+### Son injury to hunting gun in her mother's hand
 
 *2024-08-20 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/191510) · `ta`
 
-சூரியவெவ கபுகினிஸ்ஸ பிரதேசத்தில் தாயொருவரின் கையிலிருந்த வேட்டை துப்பாக்கி ஒன்று வெடித்தில் மூன்று வயதுடைய மகன் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In Surveva Kapukinissa, a three-year-old boy was accidentally shot in the face by his mother while she was handling a hunting rifle near a coconut tree. The incident resulted in severe injuries to the child due to the unexpected discharge of the gun.
 
-காயமடைந்த மகனின் தாயார் தென்னை மரத்திற்கு அருகில் இருந்த வேட்டை துப்பாக்கி ஒன்றினை கையில் எடுத்து சரிபார்க்க முயன்றுள்ளார்.
+🟩
 
-இதன்போது, அந்த துப்பாக்கி திடீரென வெடித்ததில் அருகிலிருந்த மகனின் கன்னத்தில் பலத்த காயம் ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A three -year -old son was injured in a hunting rifle in the hands of a mother in Surveva Kapukinissa area, police said.
+
+The injured son's mother tried to check a hunting gun near the coconut tree.
+
+At the same time, police said that the sudden explosion of the gun was severely injured in the nearby son's cheek.
 
 ◼️
 
 [Data](articles/87e2fa19.json)
 
+[Extended Data](ext_articles/87e2fa19.ext.json)
+
 ---
 
-### சமுத்திரம், சர்வதேச சூழலியல் விவகாரங்களுக்கான அமெரிக்க இராஜாங்க பதில் உதவி செயலர் இலங்கை வருகை
+### American State Reply Assistant Secretary to Sri Lanka to Sri Lanka
 
 *2024-08-20 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/191532) · `ta`
 
-சமுத்திரம், சர்வதேச சூழலியல் விவகாரங்களுக்கான அமெரிக்க இராஜாங்க பதில் உதவி செயலர் ஜெனிபர் ஆர். லிட்டில்ஜோன் இலங்கைக்கு விஜயம் மேற்கொண்டுள்ளார்.
+Assistant Secretary Jennifer R. Littlejon, accompanied by US Ambassador Julie Sung, visited Sri Lanka as part of a tour through Sri Lanka, India, and the Maldives from the 17th to 31st. The trip aimed to address environmental concerns such as marine safety, pollution, climate change, deforestation, and promote economic growth and women in science.
 
-இலங்கைக்கு வருகை தந்துள்ள னெிபர் ஆர். லிட்டில்ஜோனை அமெரிக்கத் தூதுவர் ஜூலி சங் அவரை சந்தித்து வரவேற்றுள்ளார்.
+🟩
 
-லிட்டில் ஜோன் 17 ஆம் திகதி முதல் 31 ஆம் திகதி வரை இலங்கை, இந்தியா, மற்றும் மாலைதீவு ஆகிய இடங்களுக்குப் பயணம் மேற்கொள்ளவுள்ளார்.
+American diplomatic reply to the ocean, international ecology, Assistant Secretary Jennifer R. Littlejon has visited Sri Lanka.
 
-நேற்று திங்கட்கிழமை (19) இலங்கைக்கு வருகை தந்த லிட்டில் ஜோன் இலங்கையில் உள்ள அரச அதிகாரிகள் மற்றும் ஏனைய தரப்பினர்களை சந்தித்து கலந்துரையாடவுள்ளார்.
+Visit to Sri Lanka. US Ambassador Julie Sung welcomed Littlejon.
 
-இந்த விஜயத்தின் போது இதன்போது இயற்கை மற்றும் கடற்பாதுகாப்பு, பிளாஸ்டிக் மற்றும் வளி மாசடைவு, காலநிலை மாற்ற நெருக்கடி, காடழிப்பு, சிவில் மற்றும் வர்த்தக நடவடிக்கைகள், விஞ்ஞான தொழில்நுட்ப நடவடிக்கைகளில் பெண்களை ஊக்குவித்தல், நிறைபேறான கடற்பிராந்தியப் பாதுகாப்புடன்கூடிய பொருளாதாரத்தைக் கட்டியெழுப்பல் உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பில் மூன்று நாடுகளினதும் உயர்மட்டப்பிரதிநிதிகளுடன் கலந்துரையாடல்களில் ஈடுபடவுள்ளார்.
+Little John will travel to Sri Lanka, India and the Maldives from 17th to 31st.
 
-...
+Little John, who visited Sri Lanka on Monday (19), will meet with state officials and other parties in Sri Lanka.
+
+During the visit, he was involved in various issues of all three countries on various issues, including natural and maritime safety, plastic and air pollution, climate change crisis, deforestation, civil and commercial activities, encouragement of women in scientific technology, and building an economical economy.
+
+Meanwhile, Jennifer R. Littlejon will visit India from 21st to 28th and Maldives from the 21st to 28th of this month.
+
+◼️
 
 [Data](articles/77d2d6b3.json)
 
+[Extended Data](ext_articles/77d2d6b3.ext.json)
+
 ---
 
-### තැපැල් ඡන්දයට සුදුසුකම් ලැබූ පිරිස මෙන්න - 24,000කගේ අයදුම්පත් ප්‍රතික්ෂේප වෙයි
+### Here are those who qualified for postal vote - 24,000 applications will be rejected
 
 *2024-08-20 15:19:41* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්දයට-සුදුසුකම්-ලැබූ-පිරිස-මෙන්න---24-000කගේ-අයදුම්පත්-ප්‍රතික්ෂේප-වෙයි/11-411462) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා අයදුම්පත් 736,589ක් ලැබී තිබූ බවත් එයින් අයදුම්පත්  24,268ක්  ප්‍රතික්ෂේප වූ බවත් මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා අද(20දා) පැවසීය.
+Out of 736,589 postal voting applications, 24,268 were rejected, leaving 712,321 eligible to vote in the upcoming presidential election.
 
-ඒ අනුව මෙවර ජනාධිපතිවරණය සඳහා  ඡන්දය භාවිතා කිරීම සඳහා අයදුම්කරුවන් 712,321ක්  සුදුසුකම් ලබා තිබෙන බවද ඔහු සඳහන් කළේය.
+🟩
 
-තැපැල් ඡන්ද අයදුම්පත් ලැබිලා තිබුණා 736,589ක්. ඒකෙන් 24,268ක්  අයදුම්පත් ප්‍රතික්ෂේප වුණා. ඒ අනුව අවසාන වශයෙන් ඉන්නවා 712,321ක තැපැල්  ඡන්දදායකයන් පිරිසක් ඉන්නවා.
+Elections Commissioner General Saman Sri Ratnayake said that 24,268 applications were rejected today (20).
+
+Accordingly, 712,32, candidates have qualified to vote for the presidential election.
+
+Postal voting applications had been received 736,589. 24,268 of that refused applications. Finally, there are 712,321 postal voters of postal voters.
 
 ◼️
 
 [Data](articles/5795b5d9.json)
+
+[Extended Data](ext_articles/5795b5d9.ext.json)
 
 ---
 
@@ -454,37 +540,51 @@ The order has been issued at the Kaduwela Magistrate's Court today (20).
 
 ---
 
-### தபால் மூலம் வாக்களிக்க 736,589 விண்ணப்பங்கள் கிடைக்கப்பெற்றுள்ளன - தேர்தல்கள் ஆணைக்குழு
+### 736,589 applications to vote by post - Elections Commission
 
 *2024-08-20 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191527) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் தபால் மூல வாக்களிப்பதற்காக 736,589 விண்ணப்பங்கள் கிடைக்கப்பெற்றுள்ளதாகவும் அவற்றுள் 24,268 விண்ணப்பங்கள் நிராகரிக்கப்பட்டுள்ளதாகவும் தேசிய தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார்.
+In the upcoming presidential election, 736,589 applications were submitted for postal voting, with 24,268 rejections. However, 712,321 are eligible to vote by post. Postal voting days are set for September 4th to 6th, while the last chance for non-postal voters is on September 11th and 12th.
 
-எவ்வாறாயினும், 2024 ஜனாதிபதித் தேர்தலில் தபால் மூலம் வாக்களிக்க 712,321 பேர் தகுதி பெற்றுள்ளதாக தேர்தல்கள் ஆணைக்குழு மேலும் தெரிவித்துள்ளது.
+🟩
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான தபால் மூல வாக்களிப்பு செப்டம்பர் 04, 05 மற்றும் 06 ஆம் திகதிகளில் நடத்தப்படவுள்ளது.
+The National Elections Commissioner Saman Sri Ratnayake said that 736,589 applications have been received and 24,268 applications have been rejected for postal voting in the upcoming presidential election.
 
-இதேவேளை, தபால் மூலம் வாக்களிக்க முடியாதவர்களுக்கு மேலதிக திகதியாக செப்டம்பர் 11 மற்றும் 12 ஆம் திகதிகள் ஒதுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+However, 712,321 candidates are eligible to vote by post in 2024 presidential election, the Election Commission further stated.
+
+The postal voting for the upcoming presidential election will be held on September 04, 05 and 6.
+
+At the same time, it is noteworthy that the highest date for those who cannot vote by post has been allocated on September 11 and 12.
 
 ◼️
 
 [Data](articles/05512407.json)
 
+[Extended Data](ext_articles/05512407.ext.json)
+
 ---
 
-### நெருக்கடியில் மனித, சிறுபான்மையினரின் உரிமைகள்
+### The rights of human, minority in crisis
 
 *2024-08-20 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191525) · `ta`
 
-சுவிட்சர்லாந்தின் பிறீபேர்க் மாநிலத்தில் உள்ள கோடைகாலப் பல்கலைக்கழகத்தின் சமஷ்டிக் கற்கைகள் நிலையத்தில் கலாநிதி.ஜேசப் மார்க்கோ ‘சமகாலத்தில் நெருக்கடியில் உள்ள மனித, சிறுபான்மையினரின் உரிமைகள்’ என்னும் தலைப்பில் விசேட உரையாற்றினார்.
+Dr. Jesab Marko addressed the challenges of protecting minority rights amidst contemporary crises, highlighting the importance of international agreements and the need for practical implementation beyond ideological debates. He emphasized the role of nationalism and national liberalism in either facilitating or hindering minority rights protection, advocating for a balanced approach that acknowledges and respects minority identities and rights. The speech underscored the significance of political parties, global politics, and internal cultural dialogues in addressing these issues, drawing examples from Germany, France, Bosnia, and Catalonia to illustrate the complexities and nuances involved in effectively safeguarding minority rights.
 
-கலாநிதி.ஜோசப் மார்க்கோ, கிராஸ் பல்கலைக்கழகத்தின் சட்ட பீடத் தலைவராக உள்ளதோடு, பொஸ்னியா,குரேசியா அரசியலமைப்பு மறுசீரமைப்பின் சர்வதேசக் குழுவின் அங்கத்தவராகவும், பொஸ்னியா,குரேசியா அரசியலமைப்பு நீதிமன்றத்தின் நீதிபதியாகவும், ஆஸ்திரியா அரசாங்கத்தின் அரசியல் ஆலோசகராகவும், சிறுபான்மை உரிமைகள் தொடர்பான ஐரோப்பிய கற்கைகள் நிலையத்தின் பணிப்பாளராகவும் ஐ.நா.செயலாளர் நாயகத்தின் பிரதம செயலாளராகவும் செயற்பட்டுள்ளார்.
+🟩
 
-இந்நிலையில் தற்போதும், அரசியலமைப்பு ஏற்பாடுகள், சிறுபான்மையினரின் உரிமைகள் பற்றிய கொள்கைகள் மற்றும் பொறிமுறைகள் வகுப்பதில் செல்வாக்குச் செலுத்தி வரும் கலாநிதி.ஜேசப் மார்க்கோ ஆற்ற உரையின் சுருக்கம் வருமாறு:
+Dr. Jesab Marko made a special speech on the rights of human and minority rights in the contemporary crisis at the Summer University of Summer University in the State of Biripurg, Switzerland.
+
+Dr. Joseph Marow is the Leader of the Law of the University of Cross University and is a member of the International Committee of the Bosnia and Kurusia Constitution, the Judge of the Bosnia and the Kurussia Constitutional Court, the Political Adviser to the Austrian Government and the Director of the European Studies Center for Minority Rights.
+
+In this case, the summary of the speech of Dr. Jesab Marco, who is still influenced by the constitutional arrangements, policies and mechanisms of the rights of the minority:
+
+In the contemporary, there are many issues, including the United Nations Charters, Agreements and the EU Charters as international arrangements to protect the rights of minorities.
 
 ...
 
 [Data](articles/77dfff56.json)
+
+[Extended Data](ext_articles/77dfff56.ext.json)
 
 ---
 
@@ -2235,61 +2335,5 @@ Prabhakaran is not the only on this presidential election. Former parliamentaria
 [Data](articles/3daab0a4.json)
 
 [Extended Data](ext_articles/3daab0a4.ext.json)
-
----
-
-### Heavy showers above 100mm expected - Met Dept
-
-*2024-08-20 07:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101361/heavy-showers-above-100mm-expected-met-dept) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
-
-Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places in Eastern, Uva and North-Central Provinces during the evening or night, it said.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/8d304540.json)
-
-[Extended Data](ext_articles/8d304540.ext.json)
-
----
-
-### Potts coming after a time when the Test
-
-*2024-08-20 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200116) · `si`
-
-Matthew Potts, a promising young English cricketer, has been included in the squad for the first Test match of the series against Sri Lanka. Despite not having played a Test match yet, Potts impressed in his debut year, taking 23 wickets in just six Tests in 2022, including a spell where he took 4/13. Known for his ability to take crucial wickets early in the innings, Potts has already made a significant impact in first-class cricket, taking 218 wickets in 55 matches. His batting prowess includes a century and three half-centuries, adding 1067 runs to his tally. This inclusion follows Ben Stokes' absence due to injury from the first Test.
-
-🟩
-
-England The squad for the first match of the 3 match Test series, which will play between Sri Lanka and England, will play the first match of the 3 match Test series.
-
-Accordingly, the youth threeriarch, Matthew Pheni, has been called on permanent Test leader Ben Stokes.
-
-At the 25-year-old ponn, was a player representing England before, has not received the opportunity to win the Test match against Ireland in January 2023,. Ollie pup
-
-In 2022, international Test had won 23 wickets for six wickets.
-
-He took 4 wickets for 13 runs.
-
-A significant player of the first-order cricket matches, Potts, who were a prominent player of the first-order cricket matches, had blocked 218 wickets in 55 matches.
-
-Once the five wickets have been broken down in 09 are the best bowling in their innings.
-
-He had scored 1067 runs in the batting and claimed a century (139 unbeaten) and three half centuries.
-
-Ben Stokes lose the first Test, as a result of a disorder.
-
-...
-
-[Data](articles/3067a0c6.json)
-
-[Extended Data](ext_articles/3067a0c6.ext.json)
 
 ---

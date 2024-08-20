@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 08:25:57**
+As of **2024-08-20 08:37:30**
 
 ## Newspaper Stats
 
@@ -26,87 +26,115 @@ adaderanasinhalalk | 7,100
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,595 (100.0%) of 41,608 articles have been extended.
+41,605 (100.0%) of 41,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### අවසන් රන්දෝලිය නරඹන්න ගිය ජනපති
+### President visited the final Randoli
 
 *2024-08-20 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200121) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මහනුවර ඓතිහාසික දළදා මාළිගාවේ වාර්ෂික ඇසල පෙරහැර මංගල්‍යයේ අවසන් රන්දෝලි පෙරහැර නැරඹීමට එක්ව තිබේ.
+President Ranil Wickremesinghe attended the final Randoli Perahera of the Annual Esala Perahera at the Dalada Maligawa in Kandy, accompanied by ministers including Maithree Wickremasinghe, Bandula Ratnayake, Anura Jayawardena, and Lohan Ratwatte. The procession, featuring traditional music and dance, marked the end of the event, highlighting cultural heritage.
 
-පෙරහර නැරඹීම සඳහා මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මිය, ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගර රත්නායක මහතා, අමාත්‍ය බන්දුල ගුණවර්ධන,රාජ්‍ය අමාත්‍යවරුන් වන අනුරාධ ජයරත්න, දිලුම් අමුණුගම, ලොහාන් රත්වත්තේ ඇතුළු පිරිසක් එක්ව සිටි බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+🟩
 
-මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ ඇසල පෙරහැර මංගල්‍යයේ අවසන් රන්දෝලි පෙරහැර ඊයේ (19) රාත්‍රි වීදී සංචාරය කෙරුණි.
+President Ranil Wickremesinghe has participated in the final Randoli Perahera of the Annual Estel Paragey of the Dalada Maligawa, Kandy.
 
-ඊයේ රාත්‍රී 6.57ට යෙදුණු සුබ මොහොතින් උතුරු දිශාභිමුඛව ගමන් ආරම්භ කෙරෙනු අවසන් රන්දෝලි පෙරහැරේ සධාතුක කරඬුව වැඩම කරවීම සිදුකරනු ලැබුවේ ශ්‍රී දළදා මාළිගාවේ ඉන්දිරාජා හස්තියාය.
+Prof. Maithree Wickremasinghe, Minister of Prof. Maithree Wickremasinghe, Chief of Professor Maithree Wickremasinghe, Minister of Staff Bandula Ratnayake, Minister of Public Ministers and King Anuradha Jayaratne and Lohan Ratwatte said.
 
-දළදා වීදිය, යටිනුවර වීදිය, කන්දෙ වීදිය, ඩී.එස් සේනානායක වීදිය ඔස්සේ ගමන් කළ පෙරහැර රජ වීදිය ඔස්සේ ඉහළට විත් ගෙවැදීම සිදුවුණි.
+The final Randoli Perahera of the Assyon Perahera of the Sri Dalada Maligawa, Kandy was the last Randolley Perahera last night.
+
+Indirajah was held at the Sri Dalada Maligawa, the final Randoli Perahera, which will commence the northern regime at 6.57 pm last night.
+
+The Perahera, the Paranga Visio, which was traveling along the Dalada Veediya, Yataherawara Street, Yatahera Street, DS Senanayake Street.
 
 ◼️
 
 [Data](articles/4c0ada1f.json)
 
+[Extended Data](ext_articles/4c0ada1f.ext.json)
+
 ---
 
-### அதிவிசேட வர்த்தமானி வெளியீடு
+### Release
 
 *2024-08-20 08:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-342488) · `ta`
 
-ஜனாதிபதி வேட்பாளர் ஒருவர் தமது பிரசார பணிகளின் போது, வாக்காளருக்காக செலவிடக் கூடிய அதிகபட்ச தொகையை நிர்ணயித்து அதிவிசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+A presidential candidate can spend up to 109 rupees per voter during elections, as per a recent decision by the Election Commission. The total expenditure limit for a candidate has been set at 186 crore 82 lakh 98 thousand 500 rupees.
 
-இதன்படி, தேர்தல் பிரசாரத்தின் போது ஒரு வாக்காளருக்காக வேட்பாளர் ஒருவர் 109 ரூபாவையே செலவிட முடியும் என அந்த வர்த்தமானியில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பான கலந்துரையாடல் ஒன்று அண்மையில் தேர்தல்கள் ஆணைக்குழு அதிகாரிகள் மற்றும் வேட்பாளர்களுக்கிடையே இடம்பெற்ற நிலையில் குறித்த தீர்மானம் எட்டப்பட்டுள்ளது.
+During his propaganda work, a presidential candidate has issued a notification of the maximum amount of money spent on the voter.
 
-இதன்படி, வேட்பாளர் ஒருவரின் மொத்த செலவினமாக 186 கோடியே 82 லட்சத்து 98 ஆயிரத்து 500 ரூபாய் நிர்ணயிக்கப்பட்டுள்ளது. (a)
+Accordingly, a candidate can spend 109 rupees for a voter during the election campaign, according to the gazette.
+
+A resolution has been reached between officials and candidates of the Election Commission recently.
+
+Accordingly, the total cost of a candidate has been fixed at 186 crores 82 lakh 98 thousand 500 rupees. (A)
 
 ◼️
 
 [Data](articles/fd411150.json)
 
+[Extended Data](ext_articles/fd411150.ext.json)
+
 ---
 
-### පෑලියගොඩ ඝාතනයක්
+### Murder of Peliyagoda
 
 *2024-08-20 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200120) · `si`
 
-පෑලියගොඩ, නාරම්මිණිය ප්‍රදේශයේ නිවසක් ආසන්නයේ සිටි පුද්ගලයෙකුට පොල්ලකින් හා තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+In Narammini, a 39-year-old man was attacked with a stick and a knife on the 18th, leading to his death. He was admitted to the Colombo National Hospital. The assailants, linked to a personal dispute, were from Kottukachchiya, and one has been arrested.
 
-පසුගිය 18 වනදා එම පහරදීම සිදුකර ඇති අතර අදාළ පහරදීමෙන් තුවාල ලැබූ පුද්ගලයා කොළඹ ජාතික රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටින විටදී ඊයේ (19) උදෑසන මියගොස් ඇත.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, නාරම්මිණිය පාර, කැලණිය ප්‍රදේශයේ පදිංචිව සිටි 39 හැවිරිදි පුද්ගලයෙකි.
+A person near the Narammini area in Naramicagoda has been assaulted with a stick and a sharp weapon.
 
-පුද්ගලික ආරවුලක් හේතුවෙන් මරණකරුට පිරිසක් විසින් පහරදී එම ඝාතනය සිදුකර ඇත බව පොලීසිය පවසයි.
+The attack was carried out on the 18th and was admitted to the Colombo National Hospital and was admitted to the Colombo National Hospital yesterday (19).
 
-සිද්ධිය සම්බන්ධයෙන් 24 හැවිරිදි කොට්ටුකච්චිය ප්‍රදේශයේ පදිංචි සැකකරුවෙකු අපරාධ සඳහා භාවිතා කළ පිහියක්ද සමග අත්අඩංගුවට ගෙන ඇත.
+The deceased has been identified as a 39 year old resident of Narammini Road, Kelaniya.
+
+Police say that a group of people have been assaulted by a group of people and the murder had been assaulted due to a personal dispute.
+
+A suspect, a resident of Kottukachchiya has been arrested along with a knife used for criminal.
 
 ◼️
 
 [Data](articles/9db545d9.json)
 
+[Extended Data](ext_articles/9db545d9.ext.json)
+
 ---
 
-### රටම බලාසිටි ගැසට්ටුව එළියට - උපරිමය රු 109යි
+### The exchange of the victory gazette - a maximum of Rs 109
 
 *2024-08-20 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200119) · `si`
 
-‍ජනාධිපති අපේක්ෂකයෙකුට මැතිවරණ ප්‍රචාරක කටයුතු සඳහා එක් ඡන්දහිමියෙකුට වැයකළ හැකි උපරිම මුදල රුපියල් 109ක් බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+The Election Commission has set a budget cap of Rs. 109 for presidential candidates under Section 3, No. 3 of the Election Cost Regulation Act. This limit applies to all recognized and other political party candidates. Candidates must allocate 60% of this amount for their campaign and submit a detailed report on their expenditures within 21 days post-election. Failure to comply or inaccuracies in reporting will not be tolerated.
 
-2023 අංක 3 දරණ මැතිවරණ වියදම් නියාමනය කිරීමේ පනතේ තුන්වන වගන්තිය යටතේ ජනාධිපතිවරණ ඡන්ද විමසීම සඳහා තරග කරන අපේක්ෂකයෙකු විසින් ඡන්දහිමියෙකු වෙනුවෙන් වැයකළ යුතු වියදම් සීමාව විශේෂ ගැසට් පත්‍රයක් මඟින් ප්‍රකාශයට පත්කර තිබේ.
+🟩
 
-සියලු පිළිගත් දේශපාලන පක්ෂ අපේක්ෂකයින්, වෙනත් දේශපාලන පක්ෂ අපේක්ෂකයින් සහ ජනාධිපතිවරණය සඳහා නාමයෝජනා භාරදුන් අපේක්ෂකයින් සමග සාකච්ඡා කර මෙම වියදම් සීමාවන් තීරණය කර ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Election Commission says that a presidential candidate will cost Rs. 109.
 
-ඒ අනුව ඡන්දහිමි නාමලේඛනයේ ලියාපදිංචි එක් ඡන්දහිමියෙකු වෙනුවෙන් රුපියල් 109කට නොවැඩි මුදලක් එක් අපේක්ෂකයෙකු විසින් සිය මැතිවරණ ප්‍රචාරක වියදම් ලෙස වැයකළ හැකි වන අතර වියදම් කළ හැකි උපරිම සීමාව රුපියල් එකසිය අසූ හයකෝටි අසූ දෙලක්ෂ 98,586ක් වන බව සඳහන්ය.
+Under Section 3, No. 3 of the Election Cost Regulation Act, No. 3 of the Election Examination Act, No. 3, has been announced by a special gazette.
 
-ජනාධිපති අපේක්ෂකයෙකුට එම මුදලෙන් සියයට 60ක් හෙවත් රුපියල් එකසිය දොළොස් කෝටි නවලක්ෂ 79,151යි ශත 60ක මුදලක් සිය ප්‍රචාරක වියදම් ලෙස දැරිය හැකි වේ.
+The Elections Commission states that the cost limits have been decided to discuss all recognized political party candidates, other political party candidates and the presidential election.
+
+Accordingly, one of the Rs.
+
+A presidential candidate can afford 60% of the money or Rs.
+
+In addition, the election campaign was issued by the election campaign to the Secretary or a candidate for the propaganda campaign of the candidate for the propaganda of the candidate for the remaining 40 percent, or Rs.
+
+The expenditure of election propaganda expenditure on the expenditure of the expenditure should be submitted to the Election Commission within 21 days.
 
 ...
 
 [Data](articles/d3a09924.json)
+
+[Extended Data](ext_articles/d3a09924.ext.json)
 
 ---
 
@@ -134,17 +162,23 @@ The Ada Derana reporter stated that after the final Randoli procession, the ritu
 
 ---
 
-### தலதா பெரஹராவை பார்வையிட்டார் ஜனாதிபதி
+### The President visited the Talada Perahara
 
 *2024-08-20 07:19:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-பெரஹராவை-பார்வையிட்டார்-ஜனாதிபதி/175-342487) · `ta`
 
-கண்டி வரலாற்றுச் சிறப்புமிக்க தலதா மாளிகையின் வருடாந்த எசல பெரஹராவின் இறுதி ரந்தோலி பெரஹரா நேற்று (19) இரவு நடைபெற்றதுடன் ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் ஆயிரக்கணக்கான மக்களுடன் இணைந்து பெரஹராவைக் கண்டுகளித்தார்.
+President Ranil Wickremesinghe attended the Esala Perahara at the Kandy Historical Talada House, joined by key advisors and ministers including his brother, Professor Maithri Wickremesinghe, and other officials.
 
-இந்த நிகழ்வில், பேராசிரியர் மைத்ரி விக்ரமசிங்க மற்றும்  தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க, அமைச்சர் பந்துல குணவர்தன, இராஜாங்க அமைச்சர்களான அனுராத ஜயரத்ன, திலும் அமுனுகம, லொஹான் ரத்வத்தே, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோர் உள்ளிட்ட பலர் கலந்துகொண்டனர். (a)
+🟩
+
+President Ranil Wickremesinghe, who was held last night (19) of the annual Esala Perahara of the Kandy Historical Talada House, saw Perahara with thousands of people.
+
+At the event, Professor Maithri Wickremesinghe and President's Senior Advisor to the National Security and President of the President, Sagala Ratnayake, Minister Bandula Gunawardena, State Ministers Anuradha Jayaratne, Tilum Amunugama, Lohan Ratwatte and Secretary of the President Saman Ekanayaka.. (A)
 
 ◼️
 
 [Data](articles/621766e4.json)
+
+[Extended Data](ext_articles/621766e4.ext.json)
 
 ---
 
@@ -176,15 +210,21 @@ The current Chancellor of the University of Oxford, it recently announced that C
 
 ---
 
-### பிரபாகரனை ரணில் என்ன செய்திருப்பார்
+### What would Ranil do Prabhakaran
 
 *2024-08-20 07:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனை-ரணில்-என்ன-செய்திருப்பார்/175-342486) · `ta`
 
-இந்த ஜனாதிபதி தேர்தலில் பிரபாகரன் மட்டுமே போட்டியிடவில்லை. பிரபாகரன் உயிருடன் இருந்திருந்தால் அவரையும் ரணில் இணைத்திருப்பார் என்று ஐக்கிய மக்கள் சக்தியின் தேர்தல் பிரசாரக் கூட்டத்தில் முன்னாள் பாராளுமன்ற உறுப்பினர் சுஜீவ சேனசிங்க தெரிவித்தார்
+In the upcoming presidential election, former parliamentarian Sujeewa Senasinghe suggests that if Prabhakaran were alive, he would likely support Ranil, indicating a potential alliance beyond just Prabhakaran.
+
+🟩
+
+Prabhakaran is not the only on this presidential election. Former parliamentarian Sujeewa Senasinghe said that Prabhakaran would have joined Ranil if he was still alive.
 
 ◼️
 
 [Data](articles/3daab0a4.json)
+
+[Extended Data](ext_articles/3daab0a4.ext.json)
 
 ---
 
@@ -290,19 +330,29 @@ Kurunegala Police are conducting further investigations.
 
 ---
 
-### ජනාධිපතිවරයේදී අපේක්ෂකයෙකුට වැය කළ හැකි උපරිම මුදල රු. 1 868 298 586
+### Maximum amount of money can cost at the President. 1 868 298 586
 
 *2024-08-20 06:25:47* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයේදී-අපේක්ෂකයෙකුට-වැය-කළ-හැකි-උපරිම-මුදල-රු--1-868-298-586/11-411450) · `si`
 
-2024 ජනාධිපතිවරණයේ අපේක්ෂකයෙකු විසින් ප්‍රචාරක වියදම් ලෙස ඡන්ද  හිමි නාම ලේඛනයේ ලියා පදිංචි  එක්  ඡන්ද  හිමියෙකු වෙනුවෙන් වැය කළ හැකි උපරිම  මුදල රුපියල් 109.00 ක් වියයුතු බව මැතිවරණ කොමිෂන් සභාව නියම කරයි.
+The maximum allowable campaign expenditure for a presidential candidate is Rs. 1,868,298,586, with Rs. 1,120,79,151.60 spent so far. Candidates must report all expenditures post-elections. False reporting is punishable under the Presidential Elections Act No 15 of 1981.
 
-මේ අනුව එක් අපේක්ෂකයෙකුට  මෙවර ජනාධිපතිවරණයට අදාලව එලෙස වැයකළ හැකි උපරිම සමස්ත වියදම රුපියල් එකසිය අසූහය කෝටි අසූදෙලක්ෂ අනූඅට දහස් පන්සිය අසූහයක්(1,868,2,98,586.00 ) බව මැතිවරණ කොමිෂන් සභාව මෙම වියදම් නියම කිරීමට අදාලව අගෝස්තු 16 දාතමින් නිකුත් කළ අති විශේෂ ගැසට් නිවේදනය මගින් ප්‍රකාශයට පත් කර ඇත.
+🟩
 
-මෙම වියදමෙන් සියයට 60 ක් හෙවත් රුපියල් එකසිය දොළොස් කෝටි නව ලක්ෂ හැත්තෑනව දහස් එකසිය පනස් එකයි ශත හැටක මුදලක්  (1,120,9,79,151.60) අපේක්ෂකයාට තම  ප්‍රචාරක වියදම් ලෙස දැරිය හැකි අතර සියයට 40 ක් හෙවත් රුපියල් හැත්තෑ හතර කෝටි හැත්තෑ තුන් ලක්ෂ දහනව දහස් නමසිය තිස් හතරයි ශත හතලිහක මුදලක් අපේක්ෂකයා නාම යෝජනා කළ දේශපාලන පක්ෂයට   හෝ  ඡන්ද  හිමියාට වැයකළ හැකි බව මැතිවරණ කොමිෂන් සභාව නියම කරයි.
+The Elections Commission states that the maximum amount of the electorate should cost Rs.
 
-...
+Accordingly, a maximum expenditure of Rs.Has been done.
+
+60 percent, or Rs. 1,120,79,151.60 million, or Rs.The Elections Commission states that the candidate has already paid the candidate for forty centuries.
+
+After the election results were published in all these expenditure, the candidate and the political party or the electorate should be submitted to the Elections Commission.
+
+The Elections Commission states that the presentation of false information is subject to the pardon of the Presidential Elections Act No 15 of 1981.
+
+◼️
 
 [Data](articles/8aa6dee8.json)
+
+[Extended Data](ext_articles/8aa6dee8.ext.json)
 
 ---
 
@@ -1594,6 +1644,8 @@ The company is taking a bold step with this initiative by using a female influen
 
 [Data](articles/6f9994f3.json)
 
+[Extended Data](ext_articles/6f9994f3.ext.json)
+
 ---
 
 ### Sri Lanka’s PMI for July expands on new orders and production
@@ -1649,6 +1701,8 @@ I’ve been moved to put pen to paper for public consumption. Those who have fol
 ...
 
 [Data](articles/38a3206f.json)
+
+[Extended Data](ext_articles/38a3206f.ext.json)
 
 ---
 

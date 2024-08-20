@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 20:21:21**
+As of **2024-08-20 20:36:54**
 
 ## Newspaper Stats
 
-*Scraped **41,733** Articles*
+*Scraped **41,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,515
 dailyftlk | 2,687
 adalk | 3,841
 dailymirrorlk | 4,733
-adaderanalk | 4,886
+adaderanalk | 4,887
 tamilmirrorlk | 5,400
 virakesarilk | 6,631
 adaderanasinhalalk | 7,125
@@ -26,41 +26,71 @@ adaderanasinhalalk | 7,125
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,730 (100.0%) of 41,733 articles have been extended.
+41,733 (100.0%) of 41,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### மன்னார் யுவதி மரணம் - வைத்தியர் ஒருவரும் பணியிடை நீக்கம்
+### Sri Lanka release world’s longest stamp symbolising Kandy Esala Perahera
 
-*2024-08-20 20:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-யுவதி-மரணம்-வைத்தியர்-ஒருவரும்-பணியிடை-நீக்கம்/175-342527) · `ta`
+*2024-08-20 20:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101382/sri-lanka-release-worlds-longest-stamp-symbolising-kandy-esala-perahera) · `en`
 
-மன்னார் மாவட்ட பொது வைத்தியசாலையில் மரியராஜ் சிந்துஜா என்ற இளம் பெண் உயிரிழந்த சம்பவம் தொடர்பில் வைத்தியர் ஒருவரை பணியிடை நீக்கம் செய்வதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+The world’s longest stamp, measuring 205 mm and symbolizing the historic Sri Dalada Perahera in Kandy, was released by the Postal Department of Sri Lanka on Tuesday (20).
 
-அண்மையில் குழந்தையைப் பிரசவித்த 27 வயதான மரியராஜ் சிந்துஜா என்ற பட்டதாரி பெண், அதிக குருதி போக்கு காரணமாக கடந்த மாதம் 28ஆம் திகதி மன்னார் பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்தார்.
+The commemorative stamp was presented to President Ranil Wickremesinghe, according to the President’s Media Division (PMD).
 
-எவ்வாறாயினும் அந்தச் சந்தர்ப்பத்தில் அங்கிருந்த வைத்தியர்கள் அவருக்கு உரிய முறையில் சிகிச்சையளிக்கவில்லை எனவும் வைத்தியர்களின் அசமந்த போக்கின் காரணமாகவே அவர் உயிரிழந்ததாகவும் குற்றஞ்சாட்டப்படுகிறது.
+◼️
 
-இந்த நிலையில் குறித்த சம்பவம் தொடர்பான விசாரணைகளுக்கு அமைய முன்னதாக, இரண்டு தாதியர்களுக்கும் இரண்டு குடும்பநல சுகாதார உத்தியோகத்தர்களுமாக நான்கு பேர் பணியிடை நீக்கம் செய்யப்பட்டுள்ளனர்.
-
-இந்த நிலையில் குறித்த சம்பவம் தொடர்பில் வைத்தியர் ஒருவருக்கும் பணியிடை நீக்கம் வழங்குவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வட மாகாண சுகாதார சேவைகள் பணிப்பாளர் நாயகம் தெரிவித்தார்.
-
-...
-
-[Data](articles/4d8f61dc.json)
+[Data](articles/9663b8cb.json)
 
 ---
 
-### திகா-வேலகுமார் அடிதடி
+### Mannar Yuvati Death - A Doctor
+
+*2024-08-20 20:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-யுவதி-மரணம்-வைத்தியர்-ஒருவரும்-பணியிடை-நீக்கம்/175-342527) · `ta`
+
+In response to the death of Marraj Sindhuja, a 27-year-old patient at Mannar District General Hospital from high blood pressure, four nurses and two family health officers have been dismissed pending investigation. The hospital is also taking action against a doctor involved but details are awaited as the removal order hasn't reached the hospital yet. Officials from the Union Health Ministry are conducting inquiries.
+
+🟩
+
+Steps have been taken to remove a doctor in connection with the death of a young woman named Marraj Sindhuja at the Mannar District General Hospital.
+
+A 27 -year -old Graduate Graduate Woman, a 27 -year -old, died after being admitted to the Mannar General Hospital last month due to high blood vessels.
+
+However, on the occasion, the doctors were not treated by him properly and that he died due to the unhappiness of the doctors.
+
+Before investigations into the incident, four nurses and two family health officers have been sacked.
+
+The Director General of the Northern Province Health Services Services said that steps have been taken to remove a workplace for a doctor in connection with the incident.
+
+However, the letter has not yet reached the Mannar District General Hospital, according to hospital sources.
+
+Meanwhile, a group of officials of the Union Health Ministry have been conducting inquiries into the death of Mariaraj Sindhuja today at the Mannar District General Hospital.. Remble
+
+◼️
+
+[Data](articles/4d8f61dc.json)
+
+[Extended Data](ext_articles/4d8f61dc.ext.json)
+
+---
+
+### Diga-Velakumar
 
 *2024-08-20 20:02:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகா-வேலகுமார்-அடிதடி/175-342526) · `ta`
 
-மலையக தமிழ் எம்.பிக்கள் இருவர் தனியார் தொலைக்காட்சி விவாத இடைநடுவில் கைகலப்பில் ஈடுபட்டனர்.
+In a private TV debate, two Tamil MPs discussed various issues.
+
+🟩
+
+Two of the upstairs Tamil MPs engaged in private television debate.
 
 ◼️
 
 [Data](articles/c8cdb3e0.json)
+
+[Extended Data](ext_articles/c8cdb3e0.ext.json)
 
 ---
 
@@ -86,17 +116,23 @@ President Ranil Wickremesinghe has been awarded by the officials of the Departme
 
 ---
 
-### 6 மாவட்டங்களுக்கு அபாய எச்சரிக்கை
+### Risk alert to 6 districts
 
 *2024-08-20 19:48:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாவட்டங்களுக்கு-அபாய-எச்சரிக்கை/175-342525) · `ta`
 
-கொழும்பு, காலி, களுத்துறை, கேகாலை, நுவரெலியா மற்றும் இரத்தினபுரி மாவட்டங்களுக்கே குறித்த மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Landslide warnings issued for Colombo, Galle, Kalutara, Kegalle, Nuwara Eliya, and Ratnapura due to heavy rain. Residents advised to stay safe.
 
-நிலவும் மழையுடனான காலநிலை காரணமாக இந்த இடங்களுக்கு எச்சரிக்கை விடுக்கப்பட்டுள்ளதுடன், மக்களை பாதுகாப்பாக இருக்குமாறும் எச்சரிக்கப்பட்டுள்ளனர். R
+🟩
+
+A landslide hazard warning has been issued for Colombo, Galle, Kalutara, Kegalle, Nuwara Eliya and Ratnapura districts.
+
+Due to the prevailing rainy weather, these places have been warned and people have been warned to be safe. Remble
 
 ◼️
 
 [Data](articles/a726170a.json)
+
+[Extended Data](ext_articles/a726170a.ext.json)
 
 ---
 
@@ -2349,27 +2385,5 @@ The legal function of the incident is to be heard in court this afternoon.
 [Data](articles/f57695d6.json)
 
 [Extended Data](ext_articles/f57695d6.ext.json)
-
----
-
-### Gazette Issue on the amount they can spend on the voter
-
-*2024-08-20 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191495) · `ta`
-
-The Gazette has set a maximum spending limit of Rs 186 crore 82 lakh 98 thousand 500 for presidential candidates, as per the directive from Commissioner General of Elections Saman Sri Ratnayake.
-
-🟩
-
-Elections Commissioner Commissioner Saman Sri Ratnayake has been issued on Sunday night by Commissioner General of Elections Commissioner Saman Sri Ratnayake.
-
-Accordingly, the Gazette is set to pay a maximum amount of Rs.
-
-According to the Gazette, the total expenditure of a presidential candidate has been fixed at Rs 186 crore 82 lakhs 98 thousand 500 rupees.
-
-◼️
-
-[Data](articles/eb7d7b04.json)
-
-[Extended Data](ext_articles/eb7d7b04.ext.json)
 
 ---

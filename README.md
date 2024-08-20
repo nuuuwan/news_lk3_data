@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 23:56:28**
+As of **2024-08-21 00:09:37**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,757 (100.0%) of 41,763 articles have been extended.
+41,763 (100.0%) of 41,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### ஈஸ்டர் ஞாயிறு தாக்குதல் ; நட்டஈட்டை செலுத்தி முடித்தார் மைத்திரி
+### Easter Sunday attack;Maithri finished paying compensation
 
 *2024-08-20 23:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-ஞாயிறு-தாக்குதல்-நட்டஈட்டை-செலுத்தி-முடித்தார்-மைத்திரி/175-342541) · `ta`
 
-ஈஸ்டர் ஞாயிறு தாக்குதல் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு செலுத்தப்பட வேண்டியிருந்த 100 மில்லியன் ரூபா நட்டஈடுத் தொகையை அவர் செலுத்தி முடித்துள்ளதாக  தெரிவிக்கப்படுகின்றது.
+Maithri completed compensating victims of the Easter Sunday attack, finishing with a final payment of 12 million rupees on August 16, 2024.
 
-அவர் செலுத்த வேண்டியிருந்த எஞ்சிய தொகையான 12 மில்லியன் ரூபாவை அவர் 16.08.2024 அன்று செலுத்தியுள்ளதாக குறிப்பிடப்பட்டுள்ளது. R
+🟩
+
+It is reported that he has completed the amount of Rs.
+
+It is stated that he paid the remaining 12 million rupees on 16.08.2024. Remble
 
 ◼️
 
 [Data](articles/e7ece22b.json)
+
+[Extended Data](ext_articles/e7ece22b.ext.json)
 
 ---
 
@@ -832,6 +838,8 @@ In an extraordinary gazette notification dated August 16 and published on Monday
 
 [Data](articles/be37fc3e.json)
 
+[Extended Data](ext_articles/be37fc3e.ext.json)
+
 ---
 
 ### Landslide warnings for 6 districts
@@ -1178,6 +1186,8 @@ A bond maturing on 01.10.2032 closed at 13.10/25 percent. (Colombo/Aug20/2024)
 
 [Data](articles/5e3409e8.json)
 
+[Extended Data](ext_articles/5e3409e8.ext.json)
+
 ---
 
 ### The procession is completed - noon cuts
@@ -1462,6 +1472,8 @@ It said the proposal is an interim solution to introduce LNG for power generatio
 
 [Data](articles/a9731130.json)
 
+[Extended Data](ext_articles/a9731130.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down, differing polls hurt market sentiment
@@ -1485,6 +1497,8 @@ The broader All Share Index closed down 0.08 percent, or 9.46 points, at 11,494;
 ...
 
 [Data](articles/f4697853.json)
+
+[Extended Data](ext_articles/f4697853.ext.json)
 
 ---
 
@@ -1715,6 +1729,8 @@ Sri Lanka is now recovering from an economic crisis two years ago and insurance 
 ...
 
 [Data](articles/1f8b3221.json)
+
+[Extended Data](ext_articles/1f8b3221.ext.json)
 
 ---
 

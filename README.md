@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 21:21:26**
+As of **2024-08-20 21:36:46**
 
 ## Newspaper Stats
 
-*Scraped **41,738** Articles*
+*Scraped **41,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,888
 tamilmirrorlk | 5,400
 virakesarilk | 6,631
-adaderanasinhalalk | 7,126
+adaderanasinhalalk | 7,127
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,737 (100.0%) of 41,738 articles have been extended.
+41,738 (100.0%) of 41,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### තුන්වන තරගයේ ජය ශ්‍රී ලංකාවට
+
+*2024-08-20 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200149) · `si`
+
+ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සහ අයර්ලන්ත කාන්තා ක්‍රිකට් කණ්ඩායම අතර පැවැති තෙවෙනි සහ අවසන් එක්දින තරගයෙන් ජය හිමි කරගැනීමට ශ්‍රී  ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම අද (20) සමත් වූවාය.
+
+ලකුණු 122ක අයර්ලන්ත ඉලක්කය හඹා ගිය ශ්‍රී ලංකාව පන්දුවාර 23යි එක් පන්දුවක් අවසානයේ කඩුලු 2ක් දැවී ලකුණු 123ක් වාර්තා කළේය.
+
+ඒ අනුව ශ්‍රී ලංකා ක්‍රීඩිකාවන් එම තරගය කඩුලු 08කි ජය ගත්තාය.
+
+කෙසේවෙතත් 2ට 1ක් ලෙස තරගාවලියේ ජය හිමිකර ගැනීමට අයර්ලන්ත ය සමත්විය.
+
+◼️
+
+[Data](articles/745236fe.json)
+
+---
 
 ### Prices will continue to fall further
 
@@ -396,21 +414,29 @@ The March 12 movement, Mr. Dilinda Vishara, his official resident of the preside
 
 ---
 
-### සීතල නිසා ළමා හතිය ඉහළට
+### Childness up because of the cold
 
 *2024-08-20 17:29:44* · [`adalk`](https://www.ada.lk/breaking_news/සීතල-නිසා-ළමා-හතිය-ඉහළට/11-411467) · `si`
 
-මෙම දිනවල පවතින වර්ෂාපතනයක් සමග රාත්‍රී කාලයේ හා උදෑසන පවත්නා සීතල හේතුවෙන් ළමා හතිය ඉහළ ගොස් ඇතැයිද මේ පිළිබඳ සැලකිලිමත් වී දරුවන් ළමා හතිය වැළඳීමෙන් ආරක්ෂා කරගන්නා ලෙසද කොළඹ රිජ්වේ ආර්යා ළමා රෝහලේ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+Due to the cold weather, there's an increase in respiratory issues among children, including coughing and flu-like symptoms. Dr. Deepal Perera advises keeping children indoors, wearing warm clothing, and avoiding smoking to prevent illnesses like viral fever and tuberculosis.
 
-ළමයින් අතර කැස්ස, හුස්ම ගැනීමේ අපහසුව, රාත්‍රී කාලයේ පවතින කැස්ස වැනි ලක්ෂණ දිගටම පවතී නම් මෙය ළමා හතිය වශයෙන් හඳුනාගත හැකි බවද, බොහෝ විට ඉන්ෆ්ලුවෙන්සා රෝගයට පසුකාලීනවද මාසයක් පමණ කැස්ස පවතින බවද ළමා රෝග විශේෂඥ වෛද්‍යවරයා වැඩිදුරටත් පැවසුවේය.
+🟩
 
-මින් පෙර හතිය වැළඳුණු අයට මෙන්ම මින් පෙර හතිය වැළඳී නැති අයටද හතිය වැළඳිය හැකි බව පෙන්වා දුන් විශේෂඥ වෛද්‍යවරයා ශීත කාලය සහ වර්ෂාව හේතුවෙන් තවමත් වෛරස් උණ පැතිරෙන තත්ත්වයක් දක්නට ලැබෙන බවද අවධාරණය කළේය.
+Dr. Deepal Perera, Specialist Dr. Deepal Perera, who has gone up due to the coldest of these days, has gone up due to the cold and the cold.
 
-සීතලත් සමග දරුවන් එළිමහනට නොයවන ලෙසද, ඒසේ යවන්නේ නම් සීතල ආවරණය ඇඳුමක් අන්දවා යවන ලෙසද, අධික ශීතලෙන් දරුවන් ආරක්ෂා කරගැනීමට හිස් වැසුම් පළඳා යවන ලෙසද ඔහු වැඩිදුරටත් පැවසුවේය.
+If the characteristics of coughing, breathing, is a child of breathing, is often coughing, often coughing in the influenza, often the influenza is later coughing.
+
+The specialist doctor who pointed to those who had been previously demonstrated and previously unguinding could be seen as a viral fever due to winter and rain.
+
+He further stated that if the children are not going to go outdoors with the cold, he will send a cold coverage dress and sends the helmets to protect the children.
+
+Dr. Deepal Perera pointed out that these days have been a heavy cold in Colombo in the morning and that virus fever could be determined not only due to viral fever.
 
 ...
 
 [Data](articles/a21fe22e.json)
+
+[Extended Data](ext_articles/a21fe22e.ext.json)
 
 ---
 
@@ -2349,27 +2375,5 @@ The government of the national proof is a broken promise to stop corruption and 
 [Data](articles/4e57e4d7.json)
 
 [Extended Data](ext_articles/4e57e4d7.ext.json)
-
----
-
-### Suspect arrested for defrauding over Rs. 2.4 mln promising jobs in Germany
-
-*2024-08-20 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101365/suspect-arrested-for-defrauding-over-rs-24-mln-promising-jobs-in-germany) · `en`
-
-A person has been arrested in the Gandara area in connection with a foreign employment scam after allegedly cheating more than Rs. 2.4 million from several individuals by promising employment opportunities in Germany.
-
-Police stated that the suspect was apprehended during a raid carried based on a tip-off received by the ‘119’ Police Emergency Hotline.
-
-The suspect, a 58-year-old resident of the Peliyagoda area, is said to have posed as a District Judge and a lawyer to deceive the victims.
-
-The police investigation has revealed that the suspect defrauded over Rs. 2,400,000 through these false promises of employment in Germany.
-
-Additionally, three complaints have been lodged with the Keselwatta Police regarding financial fraud, and Gandara Police is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/58aa806f.json)
-
-[Extended Data](ext_articles/58aa806f.ext.json)
 
 ---

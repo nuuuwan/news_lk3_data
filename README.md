@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 19:21:16**
+As of **2024-08-20 19:36:49**
 
 ## Newspaper Stats
 
-*Scraped **41,724** Articles*
+*Scraped **41,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,515
 dailyftlk | 2,687
-adalk | 3,839
+adalk | 3,840
 dailymirrorlk | 4,733
 adaderanalk | 4,885
-tamilmirrorlk | 5,396
+tamilmirrorlk | 5,397
 virakesarilk | 6,631
-adaderanasinhalalk | 7,123
+adaderanasinhalalk | 7,124
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,724 (100.0%) of 41,724 articles have been extended.
+41,724 (100.0%) of 41,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### ජනාධිපතිවරණයට අදාළ පැමිණිලි තව තවත් ඉහළට
+
+*2024-08-20 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200146) · `si`
+
+මෙවර ජනාධිපතිවරණයට අදාළව ලැබී ඇති පැමිණිලි සංඛ්‍යාව තවදුරටත් ඉහළ ගොස් තිබේ.
+
+ඊයේ (19) දිනය තුළ මැතිවරණ පැමිණිලි 35ක් ලැබී ඇති අතර එම සියලු පැමිණිලි මැතිවරණ නීති රීති උල්ලංඝණය කිරීම් බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+ඉන් පැමිණිලි 3ක් ජාතික මැතිවරණ පැමිණිලි මධ්‍යස්ථානයට සහ අනෙක් පැමිණිලි 32ක දිස්ත්‍රික් මැතිවරණ පැමිණිලි මධ්‍යස්ථාන වෙත ලැබී තිබුණි.
+
+මේ අතර පසුගිය ජුලි මස 31 වන දින සිට මේ දක්වා ලැබී ඇති සමස්ත පැමිණිලි සංඛ්‍යාව 666ක් බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+ඉන් පැමිණිලි 642ක් මැතිවරණ නීති රීති උල්ලංඝණය කිරීම සම්බන්ධයෙන් වන බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/dda08abe.json)
+
+---
+
+### இலங்கையை மீட்டது இந்தியா தான் -  ரணில் விக்ரமசிங்க அல்ல
+
+*2024-08-20 18:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-மீட்டது-இந்தியா-தான்-ரணில்-விக்ரமசிங்க-அல்ல/175-342524) · `ta`
+
+இலங்கை ரூபா பெறுமதியில், 120,000 இலட்சம் ரூபாய்களுக்கு நிகரான, 400 கோடி அமெரிக்கா டாலர் தொடர் கடன் (Indian Credit Line) நிதி உதவியை இந்திய அரசு தந்ததால்தான், பெட்ரோல், உணவு, காஸ், மருந்து வரிசைகள், மின்வெட்டுகள், உர தட்டுபாடு ஆகியவற்றில் இருந்து எமது நாடு காப்பாற்ற பட்டது. இந்த உண்மையை மறைத்து ரணில் விக்கிரமசிங்க நரித்தனமாக பேசி தெரிகிறார்.
+
+இலங்கைக்கு இந்திய அரசின் தொடர் கடன் (Indian Credit Line) நிதி உதவி வழங்க வேண்டும் என இந்திய அரசு, 2021ம் வருடம், டிசம்பர் மாதம், கொள்கைரீதியாக முடிவு எடுத்தது. இவை ரணில் ஆட்சிக்கு வர முன்னர் தீர்மானிக்க பட்டவை. அதன் பிறகு, 2022ம் வருட மே மாதம் பிரதமராகவும், ஜூலை மாதம் ஜனாதிபதியாகவும் ரணில் பதவிகளை ஏற்றார். ரணில் பதவிக்கு வந்து இவற்றை பயன்படுத்தினார். ரணில் பதவிக்கு வந்து சுய முயற்சியால் இவற்றை கொண்டு வரவில்லை.  இந்த உதவிகள் இந்திய அரசு, இலங்கை மக்களுக்கு, இலங்கை நாட்டுக்கு வழங்கிய பெரும் உதவிகளாகும்.
+
+...
+
+[Data](articles/30652d63.json)
+
+---
 
 ### Sri Lanka team coming to the competition tomorrow
 
@@ -351,6 +385,24 @@ The petitioner has filed these cases through the Attorneys of the Inquitus Law I
 [Data](articles/c93aa2f0.json)
 
 [Extended Data](ext_articles/c93aa2f0.ext.json)
+
+---
+
+### රාජ්‍ය පොහොර සමාගම වාර්තාගත ලාභයක් ලබයි
+
+*2024-08-20 17:03:09* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-පොහොර-සමාගම-වාර්තාගත-ලාභයක්-ලබයි/11-411465) · `si`
+
+මෙතෙක් පොහොර සමාගම් දෙකක් වශයෙන් වශයෙන් පැවැති රජයට අයත් ලංකා පොහොර සමාගම හා කොමර්ෂල් පොහොර සමාගම් දෙක 2024 වසරේ සිට රාජ්‍ය පොහොර සමාගම (State Fertilizer Company ) නමින් ඒකාබද්ධ කල අතර එම සමාගම පසුගිය වසර තුළ වාර්තාගත ලාභයක් උපයා ඇතැයි එම පොහොර සමාගම් දෙකේ සභාපති ආචාර්ය ජගත් පෙරේරා මහතා පවසයි.
+
+ඒ මහතා මේ බව පැවසුවේ, රාජ්‍ය පොහොර සමාගමේ ඉදිරි කටයුතු හා මෙවර යල කන්නයේ මෙන්ම ඉදිරි මහ කන්නයේ දී පොහොර සැපයීම පිළිබඳව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ ප්‍රධානත්වයෙන් පැවති ප්‍රගති සමාලෝචන රැස්වීමකදී ය.
+
+එහිදී අදහස් පළ කළ රාජ්‍ය පොහොර සමාගමේ සභාපති ආචාර්ය ජගත් පෙරේරා මහතා ඒකාබද්ධ කරන ලද මෙම පොහොර සමාගම් දෙක මගින් පසුගිය වසරේ දී රුපියල් මිලියන 433ක ලාභයක් උපයා ඇතැයි සඳහන් කළේය.
+
+ඒ අනුව ලංකා පොහොර සමාගම රුපියල් මිලියන 141ක් හා කොළඹ කොමර්ෂල් පොහොර සමාගම රුපියල් මිලියන 292ක වශයෙන් ලාභ උපයා තිබේ.
+
+...
+
+[Data](articles/123e5ee2.json)
 
 ---
 
@@ -2295,77 +2347,5 @@ Man who fell in Paragagala from Kurunegala and Australia has been admitted to th
 [Data](articles/4d18fe36.json)
 
 [Extended Data](ext_articles/4d18fe36.ext.json)
-
----
-
-### Sri Lanka on La Niña watch with warning for 2025 Maha rice crop
-
-*2024-08-20 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-on-la-nina-watch-with-warning-for-2025-maha-rice-crop-177328/) · `en`
-
-ECONOMYNEXT  – Sri Lanka could face below average rainfall from October if La Niña conditions develop in the Southern Pacific Ocean, leading to a reduced Maha season rice crop in 2025, weather forecasters have warned.
-
-While El Niño conditions, linked to a warming of the Southern Pacific Ocean has been associated with disruptions of rainfall in the early part of a year, it also tends to give strong rainfall in the ensuing inter monsoon season, filling up reservoirs.
-
-Inter-monsoon rains is key for the main, Maha rice cropping season, El Niño conditions gives bumper rice harvests in the following year.  But La Niña, linked to a cooling Pacific Ocean has the opposite effect.
-
-Last year, Met officials predicted strong inter monsoonal rains from El Niño. Hydro power generation also went up.
-
-Sri Lanka to get another bumper main rice harvest in 2024 from El Niño?
-
-...
-
-[Data](articles/b1c4d8c7.json)
-
-[Extended Data](ext_articles/b1c4d8c7.ext.json)
-
----
-
-### Sri Lanka rupee opens at 298.90/299.20 to US dollar
-
-*2024-08-20 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-298-90-299-20-to-us-dollar-177335/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 298.90/299.10 to the US dollar on Monday, dealers said. Bond yields were steady, they said, and stocks opened up 0.04 percent.
-
-The rupee closed at 299.00/10 to the greenback on Friday, ahead of a three-day weekend.
-
-In the secondary market, treasury trading was slow ahead of Wednesday’s (21) treasury bill auction, dealers said.
-
-A bond maturing on 15.06.2029 was quoted stable at 12.90/13.00 percent.
-
-A bond maturing on 15.05.2030 was quoted at 13.00/10 percent, down from 13.05/15 percent.
-
-In equities, Colombo’s All Share Price Index opened 4.45 points higher at 11,508, while the S&P SL20 of more liquid stocks opened up at 0.41 percent or 13.62 points to 3,314.
-
-◼️
-
-[Data](articles/3b92b203.json)
-
-[Extended Data](ext_articles/3b92b203.ext.json)
-
----
-
-### The country has fallen by non -profit programs - Sajith
-
-*2024-08-20 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191494) · `ta`
-
-Opposition Leader Sajith Premadasa criticizes the government for the country's economic decline, attributing it to poor financial management and tax concessions to the wealthy, which he claims reduced GDP from 12% to 8%. He calls for an end to corruption and fraud to attract foreign investment, promising to recover stolen funds for public benefit.
-
-🟩
-
-The country is to find out the reason for the fall of this level. Opposition Leader Sajith Premadasa said the country is in debt due to implementation of implementation.
-
-The seventh people's victory rally for the 2024 presidential election was held in Meerigama on Monday evening under the leadership of Opposition Leader Sajith Premadasa.
-
-A large number of people from the area, including political leaders of the United People's Power, were present at the meeting. Opposition Leader Sajith Premadasa said this while addressing the meeting.
-
-Knowing that the billion would be paid by 2022, the rich and billionaires were given 600 -700 billion rupees as a tax concession to the wealthy and billionaires in 2019 and reduced the GDP from 12 percent to 8 percent.
-
-When the people were given relief during the reign of Ranasinghe Premadasa, the GDP was nearly 22 percent of the GDP.. Despite being able to provide relief to people that day, domestic production is down from 10 to 11 percent today.
-
-...
-
-[Data](articles/41ef55b6.json)
-
-[Extended Data](ext_articles/41ef55b6.ext.json)
 
 ---

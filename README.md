@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 10:10:27**
+As of **2024-08-20 10:22:09**
 
 ## Newspaper Stats
 
-*Scraped **41,614** Articles*
+*Scraped **41,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,29 +18,85 @@ dailyftlk | 2,687
 adalk | 3,827
 dailymirrorlk | 4,733
 adaderanalk | 4,869
-tamilmirrorlk | 5,374
+tamilmirrorlk | 5,377
 virakesarilk | 6,601
-adaderanasinhalalk | 7,102
+adaderanasinhalalk | 7,103
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,613 (100.0%) of 41,614 articles have been extended.
+41,614 (100.0%) of 41,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### இந்தியாவில் அடுத்தடுத்து இரண்டு நிலநடுக்கங்கள்
+### 2009க்கு முன் எடுத்தவரா நீங்கள்?
+
+*2024-08-20 10:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2009க்கு-முன்-எடுத்தவரா-நீங்கள்/175-342491) · `ta`
+
+2009ஆம் ஆண்டுக்கு முன்னர் வழங்கப்பட்ட அனைத்து கனரக வாகன ஓட்டுநர் உரிமங்களையும் அடுத்த 3 மாதங்களுக்குள் இரத்துச் செய்ய நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+பழைய சாரதி அனுமதிப்பத்திரங்கள் அனைத்தையும் இரத்துச் செய்வதன் கீழ் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக மோட்டார் வாகன போக்குவரத்து ஆணையாளர் நாயகம் நிஷாந்த அனுருத்த வீரசிங்க தெரிவித்துள்ளார்.
+
+கடந்த காலங்களில் அச்சிட முடியாமல் குவிந்து கிடக்கும் 3 இலட்சம் சாரதி அனுமதிப்பத்திரங்களை அச்சிடும் பணி அடுத்த சில மாதங்களுக்குள் நிறைவடையும் எனவும் அவர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/faadfdc8.json)
+
+---
+
+### இலங்கை - இந்திய படகு சேவையில் மாற்றம்
+
+*2024-08-20 09:57:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-படகு-சேவையில்-மாற்றம்/175-342490) · `ta`
+
+போதியளவான முன்பதிவு இல்லாமை காரணமாக நாகப்பட்டினத்திற்கும், காங்கேசன்துறைக்குமான பயணிகள் கப்பல் சேவை வாரத்தில் 3 நாட்களுக்கு மட்டுப்படுத்தப்பட்டுள்ளதாக சிவகங்கை கப்பல் நிறுவனத்தின் பணிப்பாளர் நிரஞ்சன் தெரிவித்துள்ளார்.
+
+எதிர்வரும் 31ஆம் திகதி வரையில் இந்த நடைமுறை காணப்படும் எனவும், பயணிகள் வருகை அதிகரிப்பின் அடிப்படையில், எதிர்வரும் செப்டம்பர் முதலாம் திகதி முதல் நாளாந்தம் குறித்த கப்பல் சேவையை முன்னெடுக்க எதிர்பார்த்துள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+இதற்கமைய, வாரத்தில் செவ்வாய், வியாழன் மற்றும் ஞாயிற்றுக்கிழமை ஆகிய மூன்று தினங்களில் மாத்திரமே நாகப்பட்டினத்திற்கும், காங்கேசன்துறைக்குமான பயணிகள் கப்பல் சேவை முன்னெடுக்கப்படும் என சிவகங்கை கப்பல் நிறுவனத்தின் பணிப்பாளர் நிரஞ்சன் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/7cd57e39.json)
+
+---
+
+### Two earthquakes next to India
 
 *2024-08-20 09:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-அடுத்தடுத்து-இரண்டு-நிலநடுக்கங்கள்/175-342489) · `ta`
 
-முதல் நிலநடுக்கம் 4.7 ரிக்டர் அளவிலும், 2 வது 4.8 ரிக்டர் ஆகவும் பதிவாகியுள்ளது.
+Two earthquakes near India occurred, one with a 4.7 Richter scale and another slightly stronger at 4.8 magnitude.
+
+🟩
+
+The first earthquake was reported at 4.7 Richter and the 2nd 4.8 magnitude.
 
 ◼️
 
 [Data](articles/9597512c.json)
+
+[Extended Data](ext_articles/9597512c.ext.json)
+
+---
+
+### විදෙස් රැකියා දෙන බවට මුදල් වංචා කළ පුද්ගලයෙක් අත්අඩංගුවට
+
+*2024-08-20 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200124) · `si`
+
+විදේශ රැකියා ලබාදෙන පවසමින් රුපියල් ලක්ෂ 24කට අධික මුදලක් වංචා කළ පුද්ගලයෙකු ගන්දර ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය ප්‍රකාශ කළේ, 119 තොරතුරු මධ්‍යස්ථානයට ලැබුණු තොරතුරක් මත සිදුකළ වැටලීමකදී සැකකරු අත්අඩංගුවට ගෙන ඇති බවය.
+
+අත්අඩංගුවට ගත් සැකකරු දිසා විනිසුරුවරයෙකු සහ නීතීඥවරයෙකු ලෙස පෙනී සිටිමින් ජර්මනියේ රැකියා ලබාදෙන පවසා රුපියල් ලක්ෂ 24කට අධික මුදලක් වංචා කර ඇති බවට පොලීසිය සිදුකළ විමර්ශනවලින් අනාවරණය වී තිබේ.
+
+මූල්‍ය වංචා සම්බන්ධයෙන් කෙසෙල්වත්ත පොලීසියට පැමිණිලි 03ක් ද ඉදිරිපත්ව ඇති අතර සිද්ධිය සම්බන්ධයෙන් ගන්දර පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/c252ba7d.json)
 
 ---
 
@@ -257,6 +313,20 @@ The Ada Derana reporter stated that after the final Randoli procession, the ritu
 [Data](articles/db5734af.json)
 
 [Extended Data](ext_articles/db5734af.ext.json)
+
+---
+
+### தலதா பெரஹராவை பார்வையிட்டார் ஜனாதிபதி
+
+*2024-08-20 07:19:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/தலதா-பெரஹராவை-பார்வையிட்டார்-ஜனாதிபதி/46-342487) · `ta`
+
+கண்டி வரலாற்றுச் சிறப்புமிக்க தலதா மாளிகையின் வருடாந்த எசல பெரஹராவின் இறுதி ரந்தோலி பெரஹரா நேற்று (19) இரவு நடைபெற்றதுடன் ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் ஆயிரக்கணக்கான மக்களுடன் இணைந்து பெரஹராவைக் கண்டுகளித்தார்.
+
+இந்த நிகழ்வில், பேராசிரியர் மைத்ரி விக்ரமசிங்க மற்றும்  தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க, அமைச்சர் பந்துல குணவர்தன, இராஜாங்க அமைச்சர்களான அனுராத ஜயரத்ன, திலும் அமுனுகம, லொஹான் ரத்வத்தே, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோர் உள்ளிட்ட பலர் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/4ae1397b.json)
 
 ---
 
@@ -2113,99 +2183,5 @@ Meanwhile, 631 complaints have been received from July 31 and 1831 complaints fr
 [Data](articles/d6eb1bf8.json)
 
 [Extended Data](ext_articles/d6eb1bf8.ext.json)
-
----
-
-### Facilities in the airport bus service at 4 days
-
-*2024-08-19 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200103) · `si`
-
-Luxury bus service from Katunayake airport to Fort Railway Station and Makulura area center was launched but later stopped due to protests. The Airport-Fort Private Luxury Bus Association initiated a strike and approached the Ministry of Transport and Highways. Despite this, 10 buses were allocated to replace others, as stated by the president of the airport's private Luxury Bus Association, Indika Gunasekara.
-
-🟩
-
-The luxury bus service opened from Katunayake airport to Fort Railway Station and the Makulura area center has been temporarily stopped.
-
-The luxury bus service was launched on the 15th and the protest was protesting on the 15th.
-
-The airport - Fort private Luxury Bus Association was also opened a bus strike on protests.
-
-In addition, they had gone to the Ministry of Transport and Highways and their protest.
-
-Katunayake airport rental associations have also supported the protest.
-
-Accordingly, steps have been taken to stop the luxury buses and the opening of luxury buses.
-
-However, 10 buses will be driven to the bus association to replace the buses of the buses, the airport's private Luxury Bus Association President Indika Gunasekara said.
-
-◼️
-
-[Data](articles/b8862096.json)
-
-[Extended Data](ext_articles/b8862096.ext.json)
-
----
-
-### Fonseka came with a bomb hit car
-
-*2024-08-19 17:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடிகுண்டு-தாக்கப்பட்ட-காருடன்-வந்த-பொன்சேகா/175-342451) · `ta`
-
-Sarath Fonseka, running as an independent candidate in Sri Lanka's presidential election, made headlines by bringing a car damaged by a bomb to his inaugural rally. This symbolic gesture underscores his resilience and determination amidst adversity.
-
-🟩
-
-Sarath Fonseka is contesting as an independent candidate at the Lander symbol in this year's presidential election and her first election rally was held on Sunday (18).
-
-It is noteworthy that he also brought the bomb car to his rally.
-
-◼️
-
-[Data](articles/66fcca11.json)
-
-[Extended Data](ext_articles/66fcca11.ext.json)
-
----
-
-### ITAK’s decision on endorsing presidential candidate to follow manifesto review
-
-*2024-08-19 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101354/itaks-decision-on-endorsing-presidential-candidate-to-follow-manifesto-review) · `en`
-
-The Ilankai Tamil Arasu Kachchi (ITAK) has announced that it will determine which candidate to support in the upcoming presidential election only after reviewing the manifestos of the contenders.
-
-This decision has been made during the party’s central committee meeting held yesterday (18) in Vavuniya, which saw the participation of all party members.
-
-The discussions reportedly grew heated as various opinions emerged regarding which candidate ITAK should endorse.
-
-ITAK Member of Parliament Shanakiyan Rasamanickam stated that the party’s final decision will be announced following the release of the main presidential candidates’ manifestos, indicating that ITAK is taking a cautious and considered approach to its endorsement in the election.
-
-◼️
-
-[Data](articles/7263eb6b.json)
-
-[Extended Data](ext_articles/7263eb6b.ext.json)
-
----
-
-### Decision of the Ilankai Tamil Ahazi Ahazi
-
-*2024-08-19 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200101) · `si`
-
-The Ilankai Tamil Arasu Party, after a meeting in Vavuniya, plans to announce its policy stance to aid in the upcoming presidential election. The gathering saw varied opinions, creating tension, especially regarding supporting the opposition. However, MP Shaansenamanikkam clarified that the party would decide on backing after assessing the main presidential candidates.
-
-🟩
-
-The Ilankai Thamil Arasu Party says that after the launch of their policy statements will be determined to assist in the presidential election.
-
-The Central Committee of the Central Committee was held in Vavuniya last yesterday and all members of the party participated.
-
-With the revelation of various opinions to support the opposition in the presidential election, there is a tense situation in the meeting.
-
-However, Ilankai Tamil Arashiyu MP Shaansenamanikkam said that the major presidential candidates were launched after the main presidential candidates of the party.
-
-◼️
-
-[Data](articles/7cceadfe.json)
-
-[Extended Data](ext_articles/7cceadfe.ext.json)
 
 ---

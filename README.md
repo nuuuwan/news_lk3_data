@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 20:07:32**
+As of **2024-08-20 20:21:21**
 
 ## Newspaper Stats
 
-*Scraped **41,730** Articles*
+*Scraped **41,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,687
 adalk | 3,841
 dailymirrorlk | 4,733
 adaderanalk | 4,886
-tamilmirrorlk | 5,397
+tamilmirrorlk | 5,400
 virakesarilk | 6,631
 adaderanasinhalalk | 7,125
 
@@ -26,25 +26,77 @@ adaderanasinhalalk | 7,125
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,728 (100.0%) of 41,730 articles have been extended.
+41,730 (100.0%) of 41,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### ලොව දීර්ඝතම මුද්දරය ශ්‍රී ලංකාවෙන්
+### மன்னார் யுவதி மரணம் - வைத்தியர் ஒருவரும் பணியிடை நீக்கம்
+
+*2024-08-20 20:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-யுவதி-மரணம்-வைத்தியர்-ஒருவரும்-பணியிடை-நீக்கம்/175-342527) · `ta`
+
+மன்னார் மாவட்ட பொது வைத்தியசாலையில் மரியராஜ் சிந்துஜா என்ற இளம் பெண் உயிரிழந்த சம்பவம் தொடர்பில் வைத்தியர் ஒருவரை பணியிடை நீக்கம் செய்வதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+அண்மையில் குழந்தையைப் பிரசவித்த 27 வயதான மரியராஜ் சிந்துஜா என்ற பட்டதாரி பெண், அதிக குருதி போக்கு காரணமாக கடந்த மாதம் 28ஆம் திகதி மன்னார் பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்தார்.
+
+எவ்வாறாயினும் அந்தச் சந்தர்ப்பத்தில் அங்கிருந்த வைத்தியர்கள் அவருக்கு உரிய முறையில் சிகிச்சையளிக்கவில்லை எனவும் வைத்தியர்களின் அசமந்த போக்கின் காரணமாகவே அவர் உயிரிழந்ததாகவும் குற்றஞ்சாட்டப்படுகிறது.
+
+இந்த நிலையில் குறித்த சம்பவம் தொடர்பான விசாரணைகளுக்கு அமைய முன்னதாக, இரண்டு தாதியர்களுக்கும் இரண்டு குடும்பநல சுகாதார உத்தியோகத்தர்களுமாக நான்கு பேர் பணியிடை நீக்கம் செய்யப்பட்டுள்ளனர்.
+
+இந்த நிலையில் குறித்த சம்பவம் தொடர்பில் வைத்தியர் ஒருவருக்கும் பணியிடை நீக்கம் வழங்குவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வட மாகாண சுகாதார சேவைகள் பணிப்பாளர் நாயகம் தெரிவித்தார்.
+
+...
+
+[Data](articles/4d8f61dc.json)
+
+---
+
+### திகா-வேலகுமார் அடிதடி
+
+*2024-08-20 20:02:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகா-வேலகுமார்-அடிதடி/175-342526) · `ta`
+
+மலையக தமிழ் எம்.பிக்கள் இருவர் தனியார் தொலைக்காட்சி விவாத இடைநடுவில் கைகலப்பில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/c8cdb3e0.json)
+
+---
+
+### Sri Lanka's longest stamp in the world
 
 *2024-08-20 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200147) · `si`
 
-ලොව දීර්ඝතම මුද්දරය ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුව විසින් නිකුත් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+Sri Lanka now holds the record for the world's longest stamp, measuring 205mm and featuring the historic Sri Dalada Perahera. This achievement was recognized by President Ranil Wickremesinghe, who received an award from the Department of Posts.
 
-ඓතිහාසික ශ්‍රී දළදා පෙරහර සහිත එම මුද්දරය දිගින් මිලි මීටර් 205ක් වෙයි.
+🟩
 
-එය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ට ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් පිරිනමා තිබේ.
+The Presidential Media Unit announced that the Sri Lanka Postal Department has issued the longest stamp in the world.
+
+The stamp is 205 mm long, with historic Sri Dalada Perahera.
+
+President Ranil Wickremesinghe has been awarded by the officials of the Department of Postal Department.
 
 ◼️
 
 [Data](articles/68f71f67.json)
+
+[Extended Data](ext_articles/68f71f67.ext.json)
+
+---
+
+### 6 மாவட்டங்களுக்கு அபாய எச்சரிக்கை
+
+*2024-08-20 19:48:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாவட்டங்களுக்கு-அபாய-எச்சரிக்கை/175-342525) · `ta`
+
+கொழும்பு, காலி, களுத்துறை, கேகாலை, நுவரெலியா மற்றும் இரத்தினபுரி மாவட்டங்களுக்கே குறித்த மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+நிலவும் மழையுடனான காலநிலை காரணமாக இந்த இடங்களுக்கு எச்சரிக்கை விடுக்கப்பட்டுள்ளதுடன், மக்களை பாதுகாப்பாக இருக்குமாறும் எச்சரிக்கப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/a726170a.json)
 
 ---
 
@@ -65,6 +117,8 @@ Ollie Pope will captain England in the absence of Stokes, while keeper Jamie Smi
 ...
 
 [Data](articles/8deb8264.json)
+
+[Extended Data](ext_articles/8deb8264.ext.json)
 
 ---
 
@@ -2317,65 +2371,5 @@ According to the Gazette, the total expenditure of a presidential candidate has 
 [Data](articles/eb7d7b04.json)
 
 [Extended Data](ext_articles/eb7d7b04.ext.json)
-
----
-
-### Are you the one who took before 2009?
-
-*2024-08-20 10:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2009க்கு-முன்-எடுத்தவரா-நீங்கள்/175-342491) · `ta`
-
-Heavy driving licenses issued before 2009 will be canceled over the next three months. The Motor Vehicle Transport Commissioner plans to complete the printing of 3 lakh previously unprintable licenses soon.
-
-🟩
-
-Steps have been taken to cancel all heavy driving licenses issued before 2009 within the next three months.
-
-Motor Vehicle Transport Commissioner General Nishantha Anurutha Weerasinghe said that the decision was taken under the cancellation of all the old driver's licenses.
-
-He also said that the printing of 3 lakh driver's licenses that are unable to print in the past will be completed within the next few months.. Remble
-
-◼️
-
-[Data](articles/faadfdc8.json)
-
-[Extended Data](ext_articles/faadfdc8.ext.json)
-
----
-
-### US intelligence officials say Iran is to blame for hacks targeting Trump, Biden-Harris campaigns
-
-*2024-08-20 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101364/us-intelligence-officials-say-iran-is-to-blame-for-hacks-targeting-trump-biden-harris-campaigns) · `en`
-
-U.S. intelligence officials said Monday they were confident that Iran was responsible for the hack of Donald Trump’s presidential campaign, casting the cyber intrusion as part of a brazen and broader effort by Tehran to interfere in American politics and potentially shape the outcome of the election.
-
-The assessment from the FBI and other federal agencies was the first time the U.S. government has assigned blame for hacks that have raised anew the threat of foreign election interference and underscored how Iran, in addition to more sophisticated adversaries like Russia and China, remains a top concern. Besides breaching the Trump campaign, officials also believe that Iran tried to hack into the presidential campaign of Kamala Harris.
-
-...
-
-[Data](articles/3ed532bd.json)
-
-[Extended Data](ext_articles/3ed532bd.ext.json)
-
----
-
-### Sri Lanka - Change in Indian Boat Service
-
-*2024-08-20 09:57:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-படகு-சேவையில்-மாற்றம்/175-342490) · `ta`
-
-Due to low bookings, Sivaganga Shipping limits its passenger services to Nagapattinam and Kankesanthurai to Tuesdays, Thursdays, and Sundays weekly. This change remains effective until August 31st, with normal operations resuming from September 1st.
-
-🟩
-
-Sivaganga Shipping Company Director Niranjan said that due to inadequate booking, the passenger shipping service to Nagapattinam and Kankesanthurai has been limited for 3 days during the week.
-
-He added that the procedure will be seen until the 31st of this month and that the passenger attendance is expected to be carried out on the first day of September 1st.
-
-Accordingly, the passenger shipping service to Nagapattinam and Kankesanthurai will be carried out only on Tuesday, Thursday and Sunday a week, Sivaganga Shipping Director Niranjan said. Remble
-
-◼️
-
-[Data](articles/7cd57e39.json)
-
-[Extended Data](ext_articles/7cd57e39.ext.json)
 
 ---

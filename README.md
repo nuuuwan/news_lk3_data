@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 11:21:23**
+As of **2024-08-20 11:36:58**
 
 ## Newspaper Stats
 
-*Scraped **41,629** Articles*
+*Scraped **41,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ economynextcom | 2,511
 dailyftlk | 2,687
 adalk | 3,829
 dailymirrorlk | 4,733
-adaderanalk | 4,872
-tamilmirrorlk | 5,377
+adaderanalk | 4,874
+tamilmirrorlk | 5,383
 virakesarilk | 6,601
-adaderanasinhalalk | 7,105
+adaderanasinhalalk | 7,107
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,628 (100.0%) of 41,629 articles have been extended.
+41,628 (100.0%) of 41,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### ‘Club Wasantha’ murder suspects further remanded
+
+*2024-08-20 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101368/club-wasantha-murder-suspects-further-remanded) · `en`
+
+The 11 suspects, including a female suspect, who were arrested in connection with the shooting and killing of two persons including Surendra Wasantha Perera alias ‘Club Wasantha’ in Athurigiriya, have been further remanded until September 02 by the Kaduwela Magistrate’s Court, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/505e39f4.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතන සැකකරුවන්ට අධිකරණයෙන් දුන් නියෝගය
+
+*2024-08-20 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200128) · `si`
+
+ක්ලබ් වසන්ත ඝාතන සැකකරුවන්ව සැප්තැම්බර් 2 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+ඔවුන්ව අද (20) දැඩි ආරක්ෂාවක් මධ්‍යයේ කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළේය.
+
+◼️
+
+[Data](articles/7b53d430.json)
+
+---
+
+### මන්කිපොක්ස් ආසාදිත මරණ 500 ඉක්මවයි
+
+*2024-08-20 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200127) · `si`
+
+වඳුරු උණ හෙවත් 'මන්කිපොක්ස්' වෛරසය ආසාදනය වීම හේතුවෙන් මියගිය පුද්ගලයින් සංඛ්‍යාව 548 දක්වා ඉහළ ගොස් තිබේ.
+
+අප්‍රිකානු රටවල වේගයෙන් ව්‍යාප්ත වෙමින් පවතින මෙම වෛරස් රෝගී තත්ත්වය පුද්ගලයින් 16,000ක් පමණ මේ වන විට ගොඳුරු වී ඇති බව වාර්තා වේ.
+
+'මන්කිපොක්ස්' වෛරසයේ ව්‍යාප්තිය සැලකිල්ලට ගනිමින් ලෝක සෞඛ්‍ය සංවිධානය විසින් එය ගෝලීය හදිසි තත්ත්වයක් ලෙස පසුගියදා ප්‍රකාශයට පත්කරනු ලැබීය.
+
+මෙම වෛරස් ව්‍යාප්තිය පාලනය කිරීම සඳහා එන්නත් වැඩසටහන වේගවත් කරන ලෙස අප්‍රිකානු රටවල සෞඛ්‍ය බලධාරීන් ඉල්ලීමක් කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/6b736a30.json)
+
+---
+
+### ’கேமி’ க்கு 50 பேர் பலி;  ஏராளமானோர் மாயம்
+
+*2024-08-20 11:05:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கேமி-க்கு-50-பேர்-பலி-ஏராளமானோர்-மாயம்/50-342500) · `ta`
+
+சீனாவில் ஏற்பட்ட சூறாவளியில் 50 பேர் பலியாகி உள்ள சம்பவம் சோகத்தை ஏற்படுத்தி உள்ளது.
+
+சீனாவில் ஹூனான் மாகாணத்தில் உள்ள ஜிசிங் நகரில் கேமி சூறாவளி வீசியது. சூறாவளியின் எதிரொலியாக, கனமழையும் கொட்டித் தீர்க்க, மக்களின் இயல்பு வாழ்க்கை கடுமையாக பாதிக்கப்பட்டுள்ளது.
+
+1700க்கும் அதிகமான வீடுகள் சேதம் அடைந்துள்ள நிலையில், 65,000 நிலச்சரிவுகளில் அந்நகரமே நிலைகுலைந்துள்ளது. மழை தொடர்ந்து நீடிப்பதால், 23,419 பேர் பாதுகாப்பான இடங்களுக்கு அப்புறப்படுத்தப்பட்டு உள்ளனர்.
+
+இந்நிலையில், மழையில் சிக்கி 50 பேர் பலியாகி இருப்பதோடு, 15 பேர் காணாமல் போனதாக அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டுள்ளது.
+
+மீட்புப் படையினர் பாதிக்கப்பட்டு பகுதிகளில் முகாமிட்டு, மீட்பு நடவடிக்கைகளில் ஈடுபட்டு உள்ளனர். மின்சாரம், தகவல் தொடர்பு, குடிநீர் விநியோகம் போன்ற அத்தியாவசிய சேவைகள் அனைத்தும் ஏற்படுத்தப்பட்டு உள்ளதாக அதிகாரிகள் தெரிவித்துள்ளனர்.S
+
+◼️
+
+[Data](articles/1b9d3d8c.json)
+
+---
+
+### ‘Club Wasantha’ murder: Suspects produced before court
+
+*2024-08-20 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101367/club-wasantha-murder-suspects-produced-before-court) · `en`
+
+The 11 suspects, including a female suspect, who were arrested in connection with the shooting and killing of two persons including Surendra Wasantha Perera alias ‘Club Wasantha’ in Athurigiriya, have been produced before the Kaduwela Magistrate’s Court again today (20).
+
+The suspects were produced before the court   amidst tight security by the Police Special Task Force (STF), according to Ada Derana reporter.
+
+The legal case related to the incident is scheduled to be taken up before court this afternoon.
+
+Police had arrested eleven suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place on July 08 and a 21-year-old female on suspicion of having aided and abetted in the shooting incident.
+
+During the investigations carried out thus far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million over a period of time.
+
+...
+
+[Data](articles/5d1bbdaa.json)
+
+---
 
 ### 39-year-old attacked to death over personal dispute
 
@@ -51,6 +135,24 @@ A 24-year-old resident of the Kottukachchiya area has been arrested by the polic
 [Data](articles/e9da1fe2.json)
 
 [Extended Data](ext_articles/e9da1fe2.ext.json)
+
+---
+
+### ”சஜித் சகாக்கள் பலர் ரணிலுடன் இணைவர்”
+
+*2024-08-20 10:49:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-சகாக்கள்-பலர்-ரணிலுடன்-இணைவர்/175-342498) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் (SJB) மேலும் நான்கு அல்லது ஐந்து உறுப்பினர்கள் அடுத்த சில நாட்களில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் இணையவுள்ளதாக முன்னாள் அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+
+எதிர்வரும் தேர்தலில் ஜனாதிபதிக்கு ஆதரவாக மொத்தம் பதினான்கு SJB உறுப்பினர்கள் ஏற்கனவே தமது ஆதரவை வழங்கியுள்ளனர் என நிகழ்வொன்றில் உரையாற்றிய நாணயக்கார தெரிவித்தார்.
+
+SJB யில் தற்போது ஒரே விடயங்களை ஏற்றுக்கொள்பவர்கள் மற்றும் எதிர்ப்பவர்கள் என சமனான குழுவான்று இருப்பதாகவும் முன்னாள் அமைச்சர் மேலும் சுட்டிக்காட்டினார்.
+
+வில்பத்து வனப்பகுதியை வெட்டிய றிசாத் பதியுதீன் மற்றும் அதனை எதிர்த்த ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர்களின் ஆதரவை தற்போது SJB கொண்டுள்ளது. பத்திரப்பதிவு மோசடி குறித்து புத்தகங்களை எழுதிய சுஜீவ சேனசிங்க, அதேபோன்று இந்த மோசடியை பகல் கொள்ளை என்று கூறிய டலஸ் அழகப்பெருமவும் கட்சியில் உள்ளனர்.
+
+...
+
+[Data](articles/acfca123.json)
 
 ---
 
@@ -97,6 +199,42 @@ Police say that the man is carrying out the bomb to the crowded area.
 [Data](articles/913a6f84.json)
 
 [Extended Data](ext_articles/913a6f84.ext.json)
+
+---
+
+### இதுவரையில் 631 முறைப்பாடுகள் பதிவு
+
+*2024-08-20 10:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-631-முறைப்பாடுகள்-பதிவு/175-342497) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தல் தொடர்பில் தேர்தல்கள் ஆணைக்குழுவிற்கு கடந்த ஞாயிற்றுக்கிழமை (18) மாலை வரை மொத்தம் 631 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன.
+
+ஜூலை 31 முதல் ஒகஸ்ட் 18 வரையிலான காலப்பகுதிக்குள் இந்த முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக ஆணைக்குழு தெரிவித்துள்ளது.
+
+கடந்த ஞாயிற்றுக்கிழமை (18) பதிவாகிய 65 முறைப்பாடுகள் தேர்தல் சட்ட மீறல்கள் தொடர்பானவை என அவர்கள் தெரிவித்தனர்.
+
+631 முறைப்பாடுகளில், தேசிய தேர்தல் முறைப்பாடுகள் மையம் 346 முறைப்பாடுகளையும், மாவட்ட மையங்கள் 285 முறபைபாடுகளையும் பெற்றுள்ளன.
+
+◼️
+
+[Data](articles/c1990e63.json)
+
+---
+
+### நேரடி விவாதத்துக்கு தயார்:  நாமல்
+
+*2024-08-20 10:23:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேரடி-விவாதத்துக்கு-தயார்-நாமல்/175-342496) · `ta`
+
+செப்டம்பர் 21 ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தலுக்கு முன்னதாக பிரதான ஜனாதிபதி வேட்பாளர்களுடன் நேரடி விவாதத்திற்கு டெய்லி மிரர் மற்றும் லங்காதீப விடுத்த அழைப்பை ஸ்ரீலங்கா பொதுஜன பெரமுன ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ உத்தியோகபூர்வமாக ஏற்றுக்கொண்டுள்ளார்.
+
+டெய்லி மிரர் பத்திரிகையின் பிரதம ஆசிரியர் ஜமிலா ஹுசைனுக்கு எழுதிய கடிதத்தில், சஜித் பிரேமதாச, அனுரகுமார திஸாநாயக்க மற்றும் ரணில் விக்கிரமசிங்க ஆகிய முன்னணி போட்டியாளர்களுடன் விவாதத்தில் கலந்துகொள்ள விருப்பம் நாமல் தெரிவித்துள்ளார்.
+
+ராஜபக்ச கடிதத்தில் இந்த வகையான விவாதத்தை ஏற்பாடு செய்வதன் முக்கியத்துவத்தை நாமல் குறித்த கடிதத்தில் எடுத்துரைத்தார்.
+
+“பிரதான வேட்பாளர்களிடையே பொது விவாதத்தின் இந்த நடைமுறையை நாம் புகுத்த வேண்டிய நேரம் இது, இதனால் குடிமக்கள் ஒவ்வொரு வேட்பாளரின் பார்வை, கொள்கைகள் மற்றும் செயல் திட்டங்களை ஒப்பீட்டளவில் புரிந்துகொள்வதற்கான வாய்ப்பைப் பெறுவார்கள். எதிர்வரும் தேர்தலில் மக்கள் அறிவார்ந்த தீர்மானத்தை எடுக்க இது உதவும்”
+
+◼️
+
+[Data](articles/9b43b529.json)
 
 ---
 
@@ -197,6 +335,18 @@ The first earthquake was reported at 4.7 Richter and the 2nd 4.8 magnitude.
 [Data](articles/9597512c.json)
 
 [Extended Data](ext_articles/9597512c.ext.json)
+
+---
+
+### இந்தியாவில்  இரண்டு நிலநடுக்கங்கள்
+
+*2024-08-20 09:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-இரண்டு-நிலநடுக்கங்கள்/175-342489) · `ta`
+
+முதல் நிலநடுக்கம் 4.7 ரிக்டர் அளவிலும், 2 வது 4.8 ரிக்டர் ஆகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/e3ba3036.json)
 
 ---
 
@@ -1047,6 +1197,16 @@ In a statement the MMBL-Pathfinder Group said its joint-venture investment portf
 [Data](articles/efe82ddd.json)
 
 [Extended Data](ext_articles/efe82ddd.ext.json)
+
+---
+
+### தாய்ப்பால் புரைக்கேறி குழந்தை மரணம்
+
+*2024-08-20 02:12:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்ப்பால்-புரைக்கேறி-குழந்தை-மரணம்/175-342485) · `ta`
+
+◼️
+
+[Data](articles/52ac123e.json)
 
 ---
 
@@ -1961,225 +2121,5 @@ Dive teams have reached the sunken hull, located 49 meters underwater and roughl
 [Data](articles/8d92deb6.json)
 
 [Extended Data](ext_articles/8d92deb6.ext.json)
-
----
-
-### Sajith's One STOP Shop Concept
-
-*2024-08-19 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200107) · `si`
-
-Opposition Leader Sajith Premadasa announced plans to transform Sri Lanka's Presidential Secretariat into a 'One STOP Shop' for investors, focusing on sectors like organic and nano fertilizers. He emphasized the importance of combating fraud and corruption, promising to bring culprits to justice. This initiative aims to revitalize the economy, particularly in the Kandy district, by creating a conducive environment for investment and development.
-
-🟩
-
-Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, said that the Presidential Secretariat will be transformed into a center for the investors investors.
-
-He was speaking at a familiarity in Nawalapitiya this morning to ensure Sajith Premadasa.
-
-"I have already told the investors to prepare the journey towards the factory in the Gam Nimgam Divisional Secretariat area.
-
-The Presidential Secretariat is a hub for the investors who are investors to be converted into a 'One STOP Shop'.  ඒ සංකල්පය එදා රණසිංහ ප්‍රේමදාස මැතිතුමාගේ යුගයේ ක්‍රියාත්මක වුණා.
-
-The program will be re-implemented and the Divisional Secretariat areas of the Kandy district will be launched.
-
-We will bring the organic fertilizer fraud, nano fertilizer fraud and the people of this country with thiefs again.. All those who had done to bring to the law.
-
-The sun's dairy to tell all of you who heard my speech to tell all of you once again 'gum era "is born in this country."
-
-◼️
-
-[Data](articles/dcfdef39.json)
-
-[Extended Data](ext_articles/dcfdef39.ext.json)
-
----
-
-### Anura beliefs to take 50% of the election
-
-*2024-08-19 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200106) · `si`
-
-Anura Kumara Dissanayake, a candidate from the National People's Power (NPP), believes his party can secure over 50% of the vote in the upcoming presidential election, potentially increasing its share by another 50%. He criticized rival campaigns during a press conference in Colombo, highlighting societal fears and the spread of misinformation. Despite challenges, including a lack of support from traditional political parties and allegations of corruption, Anura expressed readiness to lead the nation.
-
-🟩
-
-The National Jathika Army can obtain over 50% of votes, which can be increased by 50% of the votes in the next presidential election.
-
-He was conducting a special press conference in Colombo today.
-
-Anura Kumara Dissanayake, candidate of the national promos
-
-"Ranil now invited the government to take the government that we hid at the time. Ranil's as much as you don't mind. But because of the president, don't say things like that. We asked for power and sent a letter to Gotabhaya. The answer was not sent. When the presidency was selected in parliament, it was possible to do. They don't give us that same. We didn't jump at all. We're ready to accept the country.
-
-...
-
-[Data](articles/0406e57b.json)
-
-[Extended Data](ext_articles/0406e57b.ext.json)
-
----
-
-### More chart success for Andrea
-
-*2024-08-19 18:52:00* · [`islandlk`](http://island.lk/more-chart-success-for-andrea/) · `en`
-
-Andrea Marr’s new album ‘The Quasar Sessions’ has hit number one on the Australian Blues and Roots AirPlay charts. This is her third number one album in Australia and the second with the McNaMarr project.
-
-Says Andrea: “Our little Live album ‘The Quasar Sessions’ is Number 1 on the Australian Blues and Roots Airplay Charts. We are so grateful to all the radio presenters who played it, interviewed us and got behind this.
-
-“We want to say a huge THANK YOU to our wonderful band: Shane Gilbert, Andrew Fry, Dave Clark, Dan West and our two sax players Andrew Houston and Sean Vagg.
-
-“Also, a huge thank you to Sam Valentino at Quasar Studios, Markia at FiveOne Entertainment, and Jason Porter for the cover art.
-
-Please grab a copy from www.andreamarr.com or a digital copy from https://themcnamarrproject.bandcamp.com/
-
-Andrea, from Sri Lanka, is a singer/songwriter and vocal coach now based in Melbourne, Australia.
-
-...
-
-[Data](articles/43751497.json)
-
-[Extended Data](ext_articles/43751497.ext.json)
-
----
-
-### First Capital Holdings delivers profitable start to FY24/25
-
-*2024-08-19 18:49:00* · [`islandlk`](http://island.lk/first-capital-holdings-delivers-profitable-start-to-fy24-25/) · `en`
-
-First Capital Holdings PLC (the Group) reported a Profit After Tax of Rs. 582 million for the quarter ended 30 June 2024, compared to Rs. 2.8 billion in the same period last year. This performance marks a significant achievement reflecting the Group’s strategic agility amidst the uncertain and challenging political and macroeconomic environment characterized by high volatility in interest rates.
-
-The Primary Dealer division achieved a Profit After Tax of Rs. 464 million for the quarter. The division’s results include a trading gain on government securities of Rs. 1.19 billion and net interest income of Rs. 387 million. In the same period last year, the division reported a Profit After Tax of Rs. 2.73 billion, which included a trading gain of Rs. 2.1 billion and net interest income of Rs. 1.1 billion.
-
-...
-
-[Data](articles/3a423a8c.json)
-
-[Extended Data](ext_articles/3a423a8c.ext.json)
-
----
-
-### Swisstek Ceylon & Chamari Athapaththu to set high standards in construction industry
-
-*2024-08-19 18:47:00* · [`islandlk`](http://island.lk/swisstek-ceylon-chamari-athapaththu-to-set-high-standards-in-construction-industry/) · `en`
-
-Swisstek Ceylon PLC, a pioneering force in Sri Lanka’s construction industry with a history of over 50 years, is proud to announce an exciting partnership with Chamari Athapaththu, the inspirational Captain of the Sri Lanka Women’s National Cricket Team, and a leading women’s cricketer in the world. The company is a market leader in tile adhesive and grout and was the first brand in its market category to receive SLS certification, which underscores the company’s commitment to maintaining high standards of quality.
-
-The company is taking a bold step with this initiative by using a female influencer in a male-centred industry to champion Sri Lanka’s recovering construction sector and empower both men and women to actively be involved in construction and renovation decision making, as it is crucial for long-term quality and durability of living spaces.
-
-...
-
-[Data](articles/6f9994f3.json)
-
-[Extended Data](ext_articles/6f9994f3.ext.json)
-
----
-
-### Sri Lanka’s PMI for July expands on new orders and production
-
-*2024-08-19 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101356/sri-lankas-pmi-for-july-expands-on-new-orders-and-production) · `en`
-
-The Central Bank of Sri Lanka’s (CBSL) purchasing manager’s report for July 2024 has shown that the manufacturing index expanded to 59.5 from 56.6 in the month of June this year.
-
-The CBSL said that all the sub-indices expanded on a month-on-month basis contributing to this increase.
-
-The report indicated that the increase in New Orders and Production was mainly attributable to the manufacture of food and beverage and textile & apparel sectors.
-
-Meanwhile, employment has turned positive in July 2024 while the Stock of Purchases also expanded in line with the increased demand for materials, as per the CBSL report.
-
-The services Purchasing Manager’s Index (PMI) indicated a further expansion in service activities in July 2024 as reflected by the Business Activity Index, which recorded an index value of 71.1, the highest value recorded so far this year.
-
-...
-
-[Data](articles/e4f9520d.json)
-
-[Extended Data](ext_articles/e4f9520d.ext.json)
-
----
-
-### Sri Lanka to amend controversial SDP tax law by February 2025
-
-*2024-08-19 18:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-amend-controversial-sdp-tax-law-by-february-2025-177198/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning to amend a Strategic Development Act which gave discretionary tax holidays and personal income tax free to up to 30 top executives in each project is to be amended, Treasury Secretary Mahinda Siriwardana has said.
-
-The SDP Act has come under fire from the International Monetary Fund in particular for long negotiated discretionary tax holidays given to projects, exposing the country to corruption vulnerabilities.
-
-A bizarre incentive given for SDB Projects is to make salaries of top executives completely free of tax.
-
-“A comprehensive review of the costs and benefits of past tax incentives granted will be initiated to have a more rigorous approach to the granting of new incentives to investors,” Siriwardana said in a speech this week.
-
-“This approach will have specific and transparent criteria and processes, and include sunset clauses to limit the duration of incentives and include assessment of benefits and costs.
-
-...
-
-[Data](articles/ee75eb2b.json)
-
-[Extended Data](ext_articles/ee75eb2b.ext.json)
-
----
-
-### Why Sajith?
-
-*2024-08-19 18:36:00* · [`islandlk`](http://island.lk/why-sajith/) · `en`
-
-I’ve been moved to put pen to paper for public consumption. Those who have followed my previous contributions may recall that I was a regular guest columnist and frequently appeared on your screens in the
-
-...
-
-[Data](articles/38a3206f.json)
-
-[Extended Data](ext_articles/38a3206f.ext.json)
-
----
-
-### The horrific accident that killed a young man --cctv
-
-*2024-08-19 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200105) · `si`
-
-A tragic accident occurred when three youths on a motorcycle collided with another vehicle at Weligampitiya junction. Krishan Perera, aged 18, was fatally injured. The other two riders were hospitalized. Witnesses described a chaotic scene where the police attempted to intervene but were unable to halt the speeding motorcycle.
-
-🟩
-
-Three youths who had arrived in a tipper in Weligampitiya junction today (19) at the pm today.
-
-Krishan Perera, an 18 year old Krishan Perera, is killed.
-
-The motorcyclist and the two motorcyclists and the two later motorcyclists have been admitted to Weligampititiya to Negombo road.
-
-The motorcycle was rushed to the main road despite the decades and the motorcycle traveling without the backplay of the back.
-
-"We're the three in the bike. At the three police, the police said to have a bike with two others. Didn't stop the boiling bound. We too didn't stop it. There was a husband from uniform, he was told to stop him. He was kicked because he couldn't stop. The bike was not attached to it. The minister of the police talked to the body suddenly. And there was a cantiner. If one boy went up and ran. Save the deer, I couldn't take the bike to take the bike. Headed up top ... "
-
-...
-
-[Data](articles/7ba5c228.json)
-
-[Extended Data](ext_articles/7ba5c228.ext.json)
-
----
-
-### Why shook hands with Namal;
-
-*2024-08-19 18:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலுடன்-கைகுலுக்கியது-ஏன்-பதிலளித்தார்-அநுர/175-342455) · `ta`
-
-Anura Kumara Dissanayake, leader of the National People's Power, met with Namal Rajapaksa, a presidential candidate from Sri Lanka's PA party. He described their handshake as a routine political interaction, emphasizing its normalcy over avoiding such gestures. Dissanayake clarified that their discussion didn't revolve around significant issues but focused on basic greetings like "how are you." He highlighted the importance of human connections in politics, contrasting it with the criticism faced by the president for refusing a handshake.
-
-🟩
-
-Commenting on the discussion with the Presidential candidate of the Sri Lanka PA, Namal Rajapaksa at the Election Secretariat, National People's Power Leader Anura Kumara Dissanayake said it was a normal political incident today and that this was more correct than avoiding handcuffs.
-
-Responding to a question about the conversation with Rajapakse, he told the media that they had not discussed anything special.
-
-"I am 'Malli (brother) how are you?"I asked that. If I want, his father and family can say straight to his face that the country has plundered public funds, or shake hands with a fashionable hand. Shake hands and our policies have no connection. It is just a political event, ”he said.
-
-Dissanayake says that it is normal humanity to stand up with a hand -held hands -on.
-
-“You see how people criticize the incident of the president's handcuffs. How proud he was. We did right then. It is wrong to refuse the handshake, ”he said.
-
-◼️
-
-[Data](articles/bfcdd72b.json)
-
-[Extended Data](ext_articles/bfcdd72b.ext.json)
 
 ---

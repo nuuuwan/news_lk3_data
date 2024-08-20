@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 10:36:36**
+As of **2024-08-20 10:55:03**
 
 ## Newspaper Stats
 
-*Scraped **41,621** Articles*
+*Scraped **41,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 383
 colombotelegraphcom | 399
 islandlk | 2,416
-economynextcom | 2,507
+economynextcom | 2,511
 dailyftlk | 2,687
 adalk | 3,828
 dailymirrorlk | 4,733
@@ -26,25 +26,51 @@ adaderanasinhalalk | 7,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,618 (100.0%) of 41,621 articles have been extended.
+41,621 (100.0%) of 41,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### ක්ලබ් වසන්ත ඝාතන සැකකරුවන් අධිකරණය ට
+### Dilshan Rodrigo appointed CEO of Sri Lanka’s Union Bank
+
+*2024-08-20 10:30:00* · [`economynextcom`](https://economynext.com/dilshan-rodrigo-appointed-ceo-of-sri-lankas-union-bank-177360/) · `en`
+
+ECONOMYNEXT – Dilshan Rodrigo has been appointed the Executive Director/Chief Executive Officer of Sri Lanka’s Union Bank of Colombo Plc with effect from August 16, the bank said in a stock exchange filing.
+
+He replaces Indrajit Asela Wickramasinghe who retired from the office of Chief Executive Officer as well as the Board of Union Bank on August 15.
+
+“Union Bank will refocus efforts to drive Retail and SME business by leveraging on the 61 branches spread across the country,” Rodrigo told Echelon Magazine in an interview.
+
+“We have ambitious balance sheet growth targets over the short to medium term to establish ourselves as a mainstream bank in Sri Lanka.”
+
+Rodrigo does not hold any shares of the Bank as at date, the bank said. (Colombo/Aug20/2024)
+
+◼️
+
+[Data](articles/3d255d68.json)
+
+---
+
+### Club spring murder suspects at court
 
 *2024-08-20 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200125) · `si`
 
-අතුරුගිරිය ටැටූ මධ්‍යස්ථානයක් තුළදී ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත නැමැත්තා ඇතුළු දෙදෙනෙකු වෙඩිතබා ඝාතනය කර තවත් සිව්දෙනෙකුට තුවාල සිදුකිරීමේ සිද්ධිය සම්බන්ධයෙන් බන්ධනාගාර ගතකර සිටින සැකකාරියක ඇතුළු සැකකරුවන් 11දෙනා අද (20) කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත යළි රැගෙන එන ලදි.
+Eleven suspects, including one killed beforehand, appeared in court. The case will be heard later.
 
-අප වාර්තාකරු පැවසුවේ පොලිස් විශේෂ කාර්ය බළකායේ දැඩි ආරක්ෂාව මධ්‍යයේ සැකකරුවන් අධිකරණය වෙත රැගෙන ආ බවය.
+🟩
 
-අදාළ සිද්ධිය සම්බන්ධයෙන් වූ නීති කෘත්‍යය අද දහවල් අධිකරණයේදී විභාගයට ගැනීමට නියමිතය.
+The 11 suspects including a suspect, who had been shot dead in an Athurugiriya area, was shot dead to the Kaduwela Magistrate's Court today (20).
+
+Our correspondent said that the suspects were brought to court centrally.
+
+The legal function of the incident is to be heard in court this afternoon.
 
 ◼️
 
 [Data](articles/f57695d6.json)
+
+[Extended Data](ext_articles/f57695d6.ext.json)
 
 ---
 
@@ -81,6 +107,8 @@ The assessment from the FBI and other federal agencies was the first time the U.
 ...
 
 [Data](articles/3ed532bd.json)
+
+[Extended Data](ext_articles/3ed532bd.ext.json)
 
 ---
 
@@ -121,6 +149,48 @@ The first earthquake was reported at 4.7 Richter and the 2nd 4.8 magnitude.
 [Data](articles/9597512c.json)
 
 [Extended Data](ext_articles/9597512c.ext.json)
+
+---
+
+### Sri Lanka on La Niña watch with warning for 2025 Maha rice crop
+
+*2024-08-20 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-on-la-nina-watch-with-warning-for-2025-maha-rice-crop-177328/) · `en`
+
+ECONOMYNEXT  – Sri Lanka could face below average rainfall from October if La Niña conditions develop in the Southern Pacific Ocean, leading to a reduced Maha season rice crop in 2025, weather forecasters have warned.
+
+While El Niño conditions, linked to a warming of the Southern Pacific Ocean has been associated with disruptions of rainfall in the early part of a year, it also tends to give strong rainfall in the ensuing inter monsoon season, filling up reservoirs.
+
+Inter-monsoon rains is key for the main, Maha rice cropping season, El Niño conditions gives bumper rice harvests in the following year.  But La Niña, linked to a cooling Pacific Ocean has the opposite effect.
+
+Last year, Met officials predicted strong inter monsoonal rains from El Niño. Hydro power generation also went up.
+
+Sri Lanka to get another bumper main rice harvest in 2024 from El Niño?
+
+...
+
+[Data](articles/b1c4d8c7.json)
+
+---
+
+### Sri Lanka rupee opens at 298.90/299.20 to US dollar
+
+*2024-08-20 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-298-90-299-20-to-us-dollar-177335/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 298.90/299.10 to the US dollar on Monday, dealers said. Bond yields were steady, they said, and stocks opened up 0.04 percent.
+
+The rupee closed at 299.00/10 to the greenback on Friday, ahead of a three-day weekend.
+
+In the secondary market, treasury trading was slow ahead of Wednesday’s (21) treasury bill auction, dealers said.
+
+A bond maturing on 15.06.2029 was quoted stable at 12.90/13.00 percent.
+
+A bond maturing on 15.05.2030 was quoted at 13.00/10 percent, down from 13.05/15 percent.
+
+In equities, Colombo’s All Share Price Index opened 4.45 points higher at 11,508, while the S&P SL20 of more liquid stocks opened up at 0.41 percent or 13.62 points to 3,314.
+
+◼️
+
+[Data](articles/3b92b203.json)
 
 ---
 
@@ -174,21 +244,29 @@ However, Iranian officials had refused to do so, foreign media reports said.
 
 ---
 
-### කාන්තාවන් එක්ව කරන අලුත්ම සූදුවක් ආඳාඋල්පතින් නිතියේ රැහැනට
+### The new glimpse of women who are working to work with the roine
 
 *2024-08-20 09:16:46* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-එක්ව-කරන-අලුත්ම-සූදුවක්-ආඳාඋල්පතින්-නිතියේ-රැහැනට/11-411453) · `si`
 
-ලොතරැයි ටිකට් පත් දිනුම් අංක වලට මුදල් ඔට්ටු ඇල්ලූ කාන්තාවන් 14 දෙනෙකු ඊයේ (19) ආදාඋල්පත 13 කනුව ප්‍රදේශයේදී සැකපිට අත්අඩංගුවට ගත් බව රිදීමාලියද්ද පොලිසිය පවසයි .
+In Hidimaliyadda, 14 women aged 28-48 have been arrested for allegedly possessing lottery tickets worth Rs. 7950. The arrest followed a tip-off received by Badulla's Senior Superintendent of Police, Wasantha Kudasekera, and other officials. Further investigations are ongoing.
 
-මොවුන් සන්තකයේ තිබී මුදල්  රුපියල් 7950ක්, දවසේ සීට්ටුව ලෙසින් නම් කර   කොටු සදහන් කර තිබූ කඩදාසි කොළ කීපයක් ද අත්අඩංගුවට ගනු ලැබිනයි පොලිසිය කීය .
+🟩
 
-රිදීමාලියද්ද  ගලේයාය , බටුයාය , ආදාඋල්පත 13 කනුව ප්‍රදේශයේ පදිංචි අවුරුදු 28-48 අතර වයසේ පසුවෙන කාන්තාවන් පිරිසක් මෙසේ අත්අඩංගුවට ගත් බවද පොලිසිය පැවසීය .
+Halimaliyadda Police say 14 women who bet in charge of the lottery Ticket Draw
 
-ලැබුණු තොරතුරක් මත රිදීමාලියද්ද පොලිසියේ නිලධාරීන්  වෙස්වලාගෙන ගොස්   ආදාඋල්පත 13 කනුව ප්‍රදේශයේ සිදු කල වැටලීමකදී  ලොතරැයි  මංඩලයේ දිනුම් අදින ලොතරැයි ටිකට් පත් වල සදහන් දිනුම් අංක වලට මුදල් ඔට්ටු අල්ලමින් සිටි මෙම කාන්තාවන් පිරිස අත්අඩංගුවට ගනු ලැබූ බවද පොලිසිය සදහන් කළේය .
+The money was in charge of their possession of Rs. 7950 and several paper leaves were taken into custody.
 
-...
+A group of women aged 28-48 years old, aged 13, aged 13, has been arrested in Hidimaliyadda Galeaaya, Batuaya and Avenudui.
+
+The number of women was arrested in Ridimaliyadda Police Officers on information received by the Ven.
+
+Badulla Senior Superintendent of Police, Wasantha Kudasekera Police Superintendent of Police, and other officials, including Assistant Superintendent of Police GW. B. Wrapuna, are conducting further investigations.
+
+◼️
 
 [Data](articles/24c1fe67.json)
+
+[Extended Data](ext_articles/24c1fe67.ext.json)
 
 ---
 
@@ -2109,79 +2187,5 @@ In addition, it has been decided to increase their subsidy to Rs.. The Minister 
 [Data](articles/1e8a6a6e.json)
 
 [Extended Data](ext_articles/1e8a6a6e.ext.json)
-
----
-
-### New movie starring Rebel Star 'Prabhas
-
-*2024-08-19 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191464) · `ta`
-
-The opening ceremony for Prabhas' new film, directed by Hanu Raghawapudi, took place in Hyderabad. Starring Prabhas, Imanvi, Mithun Chakraborty, and Jayapratha, it follows a warrior's journey in the 1940s against societal injustices. Vishal Chandrasekhar composed the music, with cinematography by Sudeep Chatterjee. Produced by Maithri Movie Makers' Naveen Jenernie and co-produced by Ravi Shankar, the film promises a blend of fiction and history.
-
-🟩
-
-After the huge success of 'Kalki 2898 AD', the opening ceremony of the unnamed new film starring Pan Indian star actor Prabhas was held in Hyderabad.
-
-Prabhas, Imanvi, Mithun Chakraborty and Jayapratha are starring in the upcoming new film directed by Hanu Raghawapudi, directed by director Hanu Raghawapudi, who attracted the attention of Indian -level fans through the film 'Sita Ramam'.
-
-Vishal Chandrasekhar has composed the film, which is being recorded by Sudeep Chatterjee. The film was made on behalf of Maithri Movie Makers Company Producers Naveen Jenernie. Ravi Shankar is co -produced.
-
-...
-
-[Data](articles/f27f6b53.json)
-
-[Extended Data](ext_articles/f27f6b53.ext.json)
-
----
-
-### Super Star Rajinikanth starrer 'Vettayan'
-
-*2024-08-19 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191466) · `ta`
-
-"Rajinikanth's 'Vettayan', directed by 'Jai Bhim' fame CM, also stars Amitabh Bachchan, Rana Daggubati, and others. Composed by Anirudh, it's produced by Subaskaran under Leica Productions. Set for release in five languages on October 10th, the film follows the success of 'Jailer', which earned over Rs 600 crore. Fans eagerly await this alongside Surya's 'Gangaa', also releasing on October 10th."
-
-🟩
-
-Super Star Rajinikanth's starring 'Vettayan' starring 'Vettayan' has been releasing a special photo of the film.
-
-The famous director of 'Jai Bhim'. Cm. Super Star Rajinikanth, Bollywood Super Star Amitabh Bachchan, Bahat Fazil, Rana Dagupati, Manju Warrior, Abirami, Ritika Singh, Dushara Vijayan, Kishore.
-
-S.. R. Anirudh has composed the film, which has been recorded by Kadir. The film is being produced as Exan Entertainer and produced by famous producer Subhashkaran on behalf of Leica Productions.
-
-The film crew has issued an official announcement on the release date of the film as the post -shooting technology work is underway.
-
-The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 10th of October.
-
-Also, the teaser and first single of the film are expected to be released in September.
-
-...
-
-[Data](articles/19782856.json)
-
-[Extended Data](ext_articles/19782856.ext.json)
-
----
-
-### Centenary Memorial Currency Release
-
-*2024-08-19 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191468) · `ta`
-
-Union Defense Minister Rajnath Singh released a commemorative currency for the centenary of late Tamil Nadu CM Karunanidhi, highlighting his contributions to politics, welfare programs, and literature. The event, attended by various dignitaries, celebrated Karunanidhi's legacy, including his role in developing the DMK, introducing self-help groups for women, and advocating for state rights and federalism.
-
-🟩
-
-Union Defense Minister Rajnath Singh has released the centenary commemoration of former Chief Minister of Tamil Nadu Karunanidhi. G. Stalin received.
-
-Union Defense Minister Rajnath Singh attended the event held at the Art Gallery of Chennai.. Murugan, BJP state president Annamalai, DMK's Lok Sabha members, Rajya Sabha members, ministers, legislators and senior party executives.
-
-“Artist Karunanidhi was the great political leader in the 1960s. Karunanidhi was the one who developed the DMK as the dominant party from 1960. Her political struggles are serious. Are brave. At the same time, he will maintain goodwill with various national parties.
-
-Karunanidhi is the one who has made welfare programs to get quality education. Manner. Karunanidhi introduced self -help groups for women in 1989.
-
-...
-
-[Data](articles/39b6c2ce.json)
-
-[Extended Data](ext_articles/39b6c2ce.ext.json)
 
 ---

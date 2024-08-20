@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 01:36:59**
+As of **2024-08-21 02:05:01**
 
 ## Newspaper Stats
 
-*Scraped **41,768** Articles*
+*Scraped **41,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 384
 colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,520
-dailyftlk | 2,689
+dailyftlk | 2,694
 adalk | 3,845
 dailymirrorlk | 4,733
 adaderanalk | 4,889
@@ -26,11 +26,59 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,768 (100.0%) of 41,768 articles have been extended.
+41,770 (100.0%) of 41,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### ASI marks new era in sustainable infrastructure development in Sri Lanka
+
+*2024-08-21 01:50:56* · [`dailyftlk`](https://www.ft.lk/business/ASI-marks-new-era-in-sustainable-infrastructure-development-in-Sri-Lanka/34-765763) · `en`
+
+From left: CIPE Country Representative Sarrah Sammoon, COSMI – ASI Coordinating Body President Nawaz Rajabdeen, US Embassy Economic Officer Bradley Gardner, University of Moratuwa Emeritus Professor Chitra Weddikkara, ASI Convenor Samantha Abeywickrama, and SOND Executive Director S. Senthurajah, credit: ASI Sri Lanka
+
+The Alliance for Sustainable Infrastructure (ASI) Sri Lanka held its inaugural Annual General Meeting (AGM) on 17 August at the Hector Kobbekaduwa Agrarian Training and Research Institute (HARTI), Colombo.
+
+The event was a significant milestone in Sri Lanka’s journey towards sustainable infrastructure development, bringing together key stakeholders from government, civil society, and the private sector.
+
+...
+
+[Data](articles/d92368f6.json)
+
+---
+
+### Canon team visits Board of Investment
+
+*2024-08-21 01:48:45* · [`dailyftlk`](https://www.ft.lk/business/Canon-team-visits-Board-of-Investment/34-765762) · `en`
+
+Canon Singapore President and CEO Toshiyuki Ishii and a team of officials, along with the Metropolitan Group, met with Board of Investment Chairman Dinesh Weerakkody, BOI officials, as well as those of Port City Colombo, for an overview of the investment climate.
+
+The Canon Company is a Japanese giant specialising in optical imaging and commercial printing products.
+
+◼️
+
+[Data](articles/7ff13110.json)
+
+---
+
+### Auto Foam Sri Lanka accredited by International Automotive Task Force
+
+*2024-08-21 01:40:32* · [`dailyftlk`](https://www.ft.lk/business/Auto-Foam-Sri-Lanka-accredited-by-International-Automotive-Task-Force/34-765760) · `en`
+
+Accolade Ventures subsidiary Auto Foam expanding operations by obtaining certification for highest standards and compliance in seat manufacturing
+
+Auto Foam Ltd., a leading seat manufacturing company based in Sri Lanka, has announced the receipt of the prestigious IATF 16949 certification for its automotive seat manufacturing plants, signifying its global expansion ambitions.
+
+This achievement not only solidifies Auto Foam Ltd. as a trailblazer in the Sri Lankan automotive sector, but also marks it as the first seat manufacturing company in the country to receive this internationally recognised certification.
+
+The program, initiated and promoted by the Sri Lanka Industries Ministry, extends its support to any automobile component manufacturer who wishes to obtain the certification.
+
+...
+
+[Data](articles/29978e26.json)
+
+---
 
 ### Ranil Wickremesinghe's election symbol is illegal -Vijayadasa Rajapaksa
 
@@ -53,6 +101,42 @@ At the same time, if the local government elections are over, there is nothing w
 [Data](articles/8082142c.json)
 
 [Extended Data](ext_articles/8082142c.ext.json)
+
+---
+
+### COYLE launches Young Lankan’s program
+
+*2024-08-21 01:00:59* · [`dailyftlk`](https://www.ft.lk/business/COYLE-launches-Young-Lankan-s-program/34-765759) · `en`
+
+From left: Committee Member Ravindu Thilakawardhana, Vice Chairman Suren Chandraratne, YL Member M.M.P.A.L. Weeraratne, Chairman Thushira Raddellla, Senior Vice Chairman Manjula Wijesundera, and Committee Member Janaka Mayakaduwa
+
+The Chamber of Young Lankan Entrepreneurs (COYLE) has announced the launch of its latest initiative, the Young Lankan’s program.
+
+This youth development project is designed to foster entrepreneurship among the next generation, empowering young minds across Sri Lanka to become the driving force behind the nation’s economic growth. As the world rapidly evolves, COYLE recognises the need to invest in the youth of today to secure a prosperous future for tomorrow.
+
+...
+
+[Data](articles/6cb1614f.json)
+
+[Extended Data](ext_articles/6cb1614f.ext.json)
+
+---
+
+### JAT sees bottom line growth of 77% for Q1
+
+*2024-08-21 00:57:28* · [`dailyftlk`](https://www.ft.lk/business/JAT-sees-bottom-line-growth-of-77-for-Q1/34-765758) · `en`
+
+Significant growth in wood coatings of 15% and paint brushes of 47%
+
+JAT Holdings PLC has announced strong growth in both its top- and bottom-line in the first quarter of FY25.
+
+Revenues rose by 3% to Rs. 2.2 billion compared with the same period in the previous year, driven by noticeable growth in the wood coatings and paint brushes categories. Profit After Tax (PAT) also demonstrated significant growth, expanding by 77% YoY for the quarter under review to record Rs. 124 million, up from Rs. 70 million in the same quarter of the previous year.
+
+...
+
+[Data](articles/01ade91f.json)
+
+[Extended Data](ext_articles/01ade91f.ext.json)
 
 ---
 
@@ -2241,127 +2325,5 @@ The CSE has previously had a similar programme with the Eastern University of Sr
 [Data](articles/d945d5c3.json)
 
 [Extended Data](ext_articles/d945d5c3.ext.json)
-
----
-
-### Planes canceled as scissors disappeared in Japan
-
-*2024-08-20 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191519) · `ta`
-
-In Japan, the disappearance of a pair of scissors led to the cancellation of 36 flights and delays in 201 air services last weekend near New Chitos Airport. Passengers endured long security checks and congestion at the domestic terminal. A worker discovered the missing scissors, leading to an investigation by the Ministry of Land, Infrastructure, Transport and Tourism to prevent future incidents.
-
-🟩
-
-An incident in Japan has taken place at the airport when a scissor disappeared.
-
-Last Saturday (17), 36 flights were canceled and 201 air services were delayed due to the disappearance of scissors at a shop near the New Chitos Airport of Kokido in Japan.
-
-Passengers have suffered for about two hours on Saturday (18) for security checks at the airport's domestic terminal.
-
-The passengers in the airport restroom were re -examined and there were huge congestion and rows.
-
-The Kokido Airport announced on Monday that a worker was found by a worker at the store on Sunday (18).
-
-Officials explained that the missing scissors had stopped issuing the announcement until this was the same.
-
-The Ministry of Land, Infrastructure, Transport and Tourism has requested the Hokkaido airport to investigate the incident and prevent it from taking place again.
-
-◼️
-
-[Data](articles/7b349ae6.json)
-
-[Extended Data](ext_articles/7b349ae6.ext.json)
-
----
-
-### Suspect arrested for illegally brought to Sri Lanka
-
-*2024-08-20 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191520) · `ta`
-
-A suspect was arrested in Sri Lanka for smuggling 520 kg of ginger from India via fishing boats. The arrest follows investigations into ginger shortages and price hikes, revealing attempts to sell cheaper Indian ginger as more expensive local product.
-
-🟩
-
-The Mannar Police Special Task Force said that a suspect has been arrested with 519 kg 750 g of ginger illegally brought to Sri Lanka by fishing boats from India.
-
-The suspect was arrested with a ginger brought to Sri Lanka while carrying out information on the Mannar Army.
-
-Investigations have revealed that ginger shortages in various parts of the country and the increase in prices have been attempted to sell green ginger from India at high prices.
-
-In addition, the suspect is ready to sell ginger in many pockets and sell it to different areas, police said.
-
-◼️
-
-[Data](articles/6b425aae.json)
-
-[Extended Data](ext_articles/6b425aae.ext.json)
-
----
-
-### 712,321 eligible to vote by post
-
-*2024-08-20 13:09:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூலம்-வாக்களிக்க-712-321-பேர்-தகுதி/175-342513) · `ta`
-
-The National Elections Commission reported receiving 736,589 postal voting applications for the 2024 presidential election, with 24,268 rejections. Ultimately, 712,321 voters are eligible to vote by post. The postal vote days are set for September 4th, 5th, and 6th, while September 11th and 12th are reserved for those not eligible for postal voting.
-
-🟩
-
-The National Elections Commission said that 736,589 applications have been received for postal voting in the upcoming presidential election and 24,268 applications have been rejected.
-
-However, 712,321 candidates are eligible to vote by post in 2024 presidential election, the Election Commission further stated.
-
-The postal vote for the upcoming presidential election will be held on September 04, 05 and 6.
-
-Meanwhile, on the 11th and 12th of September, the highest date for those who cannot vote by post has been reserved.
-
-◼️
-
-[Data](articles/8f649d5b.json)
-
-[Extended Data](ext_articles/8f649d5b.ext.json)
-
----
-
-### There is no moral right to resist the country to ruin the country
-
-*2024-08-20 13:00:59* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩදාපු-නායකයාට-විරුද්ධ-වීමට-පොහොට්ටුවට-සදාචාරත්මක-අයිතියක්-නෑ/11-411460) · `si`
-
-Prasanna Ranatunga, the Urban Development and Housing Minister, argues against resistance to the government, emphasizing the lack of moral justification. He discusses the political landscape, highlighting alliances and the challenges faced by leaders and supporters alike. The narrative touches on the complexities of political power dynamics, leadership changes, and the impact on the nation's stability and future direction.
-
-🟩
-
-We have a problem that our leaders have protected us for power ....
-
-Urban Development and Housing Minister Prasanna Ranatunga says there is no moral right to the rush to resist the country.
-
-The Minister emphasizes that the present president was prepared to go back to politics in the country again.
-
-Minister Prasanna Ranatunga was speaking at a discussion held yesterday (19) in the incom of Kurunegala yesterday (19).. The discussion was held at the Mahasen Transport Co-operative Societies Hall of Nikaweratiya.
-
-Speaking further Minister Prasanna Ranatunga further said:
-
-...
-
-[Data](articles/86bf85bd.json)
-
-[Extended Data](ext_articles/86bf85bd.ext.json)
-
----
-
-### Ranil helped to support 17 former president MPs in Pohoth
-
-*2024-08-20 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200131) · `si`
-
-Ranil backed 17 ex-president MPs in Pohoth, while President Mahinda Rajapaksa supported 17 former local council members in Kurunegala.
-
-🟩
-
-President Mahinda Rajapaksa supported 17 former Pradeshiya Sabha members in Kurunegala
-
-◼️
-
-[Data](articles/49c9ba3c.json)
-
-[Extended Data](ext_articles/49c9ba3c.ext.json)
 
 ---

@@ -1,36 +1,104 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 13:06:19**
+As of **2024-08-20 13:21:33**
 
 ## Newspaper Stats
 
-*Scraped **41,655** Articles*
+*Scraped **41,661** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
-bbccomsinhala | 383
+bbccomsinhala | 384
 colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,511
 dailyftlk | 2,687
-adalk | 3,830
+adalk | 3,831
 dailymirrorlk | 4,733
-adaderanalk | 4,876
-tamilmirrorlk | 5,385
+adaderanalk | 4,877
+tamilmirrorlk | 5,386
 virakesarilk | 6,611
-adaderanasinhalalk | 7,108
+adaderanasinhalalk | 7,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,655 (100.0%) of 41,655 articles have been extended.
+41,655 (100.0%) of 41,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### පොහොට්ටුවේ හිටපු ප්‍රාස මන්ත්‍රීවරු 17කගේ සහාය රනිල්ට
+
+*2024-08-20 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200131) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ කුරුණෑගල හිටපු ප්‍රාදේශිය සභා මන්ත්‍රීවරුන් 17 දෙනෙකු ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරමින් එක්ව තිබේ.
+
+◼️
+
+[Data](articles/49c9ba3c.json)
+
+---
+
+### கிளப் வசந்த கொலை சம்பவம் ; சந்தேக நபர்களுக்கு பாதுகாப்பு
+
+*2024-08-20 12:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-சம்பவம்-சந்தேக-நபர்களுக்கு-பாதுகாப்பு/175-342512) · `ta`
+
+கிளப் வசந்த சுட்டுக் கொல்லப்பட்ட சம்பவம் தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டிருந்த பெண் ஒருவர் உட்பட 11 சந்தேகநபர்கள் செவ்வாய்க்கிழமை (20) அன்று நீதிமன்றத்தில் ஆஜர்படுத்திய போது எதிர்வரும் செப்டம்பர் இரண்டாம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கடுவலை நீதவான் சனிமா விஜய பண்டார உத்தரவிட்டார்.
+
+சந்தேக நபர்களின் உயிருக்கு அச்சுறுத்தல் இருப்பதாக நீதிமன்றில் முன்னிலையாகிய சட்டத்தரணிகளால் முன்வைக்கப்பட்ட காரணங்களுக்கமைய அவர்களுக்கு தேவையான பாதுகாப்பை வழங்குமாறு சிறைச்சாலை ஆணையாளருக்கு நீதவான் உத்தரவிட்டார் .
+
+◼️
+
+[Data](articles/8d53b4ff.json)
+
+---
+
+### Childhood asthma on the rise in Sri Lanka, health officials warn
+
+*2024-08-20 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101371/childhood-asthma-on-the-rise-in-sri-lanka-health-officials-warn) · `en`
+
+The reports of diseases such as childhood asthma have increased these days, according to the Consultant Paediatrician of Lady Ridgeway Hospital for Children Dr. Deepal Perera.
+
+He further stated that there is an increase in the influenza cases being reported over the past couple of days.
+
+He noted that if a child exhibits symptoms such as a cough and difficulty in breathing, it could be a sign of asthma. According to him, both influenza and various viral fevers are currently spreading and, particularly the fever is affecting the upper respiratory tract. He added that the situation could likely worsen.
+
+“Therefore, if a child has a cough, cold or fever it is advisable to keep the child at home,” said the Consultant Paediatrician.
+
+He further advised that if children are showing such symptoms they should wear a mask and urged parents to be extra cautious about the potential increase in asthma and respiratory diseases among children.
+
+...
+
+[Data](articles/81bfea65.json)
+
+---
+
+### කළුතර ගංවතුර ගැන නිවේදනයක්
+
+*2024-08-20 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200130) · `si`
+
+කළුතර දිස්ත්‍රික්කයේ මදුරාවල, පාලින්දනුවර, මිල්ලනිය සහ බුලත්සිංහල යන ප්‍රදේශවල මාර්ග කිහිපයක් තවදුරටත් ජලයෙන් යට වී පවතින බව වාර්තා වෙයි.
+
+එමෙන්ම කුකුළේ ගඟ සහ දැදුරු ඔය ජලාශයේ වාන් දොරටු තවදුරටත් විවෘත කර ඇති බව ද සඳහන් ය.
+
+ගම්පහ දිස්ත්‍රික්කයේ ඇතැම් ප්‍රදේශවල තවදුරටත් ජල ගැලීම් තත්ත්වයක් පවතින බවද වාරිමාර්ග අධ්‍යක්ෂ එස්. පි. සී. සුගීෂ්වර මහතා පැවසීය.
+
+මේ අතර බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට අද (20) මිලිමීටර් 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පැවසීය.
+
+එම දෙපාර්තමේන්තුව සඳහන් කළේ බස්නාහිර, සබරගමුව, දකුණු  සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවයි.
+
+එමෙන්ම නැගෙනහිර, ඌව සහ උතුරුමැද පළාත්වල ද සවස් කාලයේ හෝ රාත්‍රි කාලයේ දී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි ය.
+
+◼️
+
+[Data](articles/676e4dcd.json)
+
+---
 
 ### Blinken says Israel accepts Gaza proposal, urges Hamas to do same
 
@@ -345,6 +413,24 @@ Despite the legal provisions for gender equality, no women have come forward to 
 [Data](articles/ccb03822.json)
 
 [Extended Data](ext_articles/ccb03822.ext.json)
+
+---
+
+### මව් කිරි හිරවීමෙන් මාස තුනක බිළිඳියක් මිය යයි
+
+*2024-08-20 10:55:15* · [`adalk`](https://www.ada.lk/breaking_news/මව්-කිරි-හිරවීමෙන්-මාස-තුනක-බිළිඳියක්-මිය-යයි/11-411456) · `si`
+
+යාපනය මුරසවිල් ප්‍රදේශයේ මව් කිරි හිරවීමේ හේතුවෙන් මාස තුනහමාරක පමණ දැරියක් ඊයේ (19) සවස මියගොස් ඇතැයි  ඡාවකච්චේරි පොලිසිය පවසයි.
+
+මව විසින් සිය බිළිඳියට මව්කිරි ලබා දෙන අතරතුරුවිය බිළිඳිය සිහසුන්වීම හේතුවෙන් එම අවස්ථාවේම චාවකච්චේරි රෝහල වෙතට රැගෙන යාමට පියවර ගත්තද රෝහලට රැගෙන යන විටත් බිළිඳිය මිය ගොස් සිටි බවට චාවකච්චේරි රෝහලේ වෛද්‍යවරුන් පවසා සිටියහ.
+
+මෙලෙස මව් කිරිහිරවීමෙන් මිය ගොස් ඇත්තේ යාපනය මුරුසවිල් උතුර ප්‍රදේශයේ පදිංචි කපිලන් නිවේදා නැමති මාස තුනක් වයසැති බිළිඳියකි.
+
+මියගිය බිළිඳියගේ සිරුර චාවකච්චේරි රෝහලේ තැන්පත් කොට ඇති අතර පශ්චාත් මරණ පරීක්ෂණය සිදු කිරීමටද නියමිත බව පරීක්ෂණ සිදුකරන චාවකච්චේරි පොලීසිය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/3da77ee9.json)
 
 ---
 
@@ -1362,6 +1448,28 @@ Kurunegala Police are conducting further investigations.
 
 ---
 
+### කාන්තා ජනගහනය වැඩි ශ්‍රී ලංකාවේ ජනපතිවරණයට කාන්තාවන් ඉදිරිපත් නොවන්නේ ඇයි?
+
+*2024-08-20 06:40:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c703r7e38n6o) · `si`
+
+කාන්තා ජනගහනය වැඩි ශ්‍රී ලංකාවේ ජනපතිවරණයට කාන්තාවන් ඉදිරිපත් නොවන්නේ ඇයි?
+
+ලොව ප්‍රථම අගමැතිනිය බලයට පත් කළ ඉතිහාසයකට උරුමකම් කියන, ජනාධිපතිවරියක විසින් දෙවරක් පාලනය හෙබවූ ශ්‍රී ලංකාවේ ජනපතිවරණයට තරග කිරීමට මෙවර එක ම කාන්තාවක හෝ ඉදිරිපත්ව නැත.
+
+ජනගහනයෙන් 52% වැඩි කාන්තාවන් සිටින ශ්‍රී ලංකාවේ, එකම කාන්තාවක්වත් ජනාධිපතිවරණයට තරග නොකළද ඊට ඉදිරිපත්ව සිටින පිරිමි අපේක්ෂකයන් ගණන 39ක් වන අතර එය මෑත ඉතිහාසයේ වැඩිම පිරිසක් අපේක්ෂකත්වය දරන ජනාධිපතිවරණය යි.
+
+මෙරට ඉතිහාසය තුළ ජනාධිපතිරණය සඳහා අවස්ථා කිහිපයක දී කාන්තාවන් හතර දෙනෙකු තරග කර ඇති අතර ඉන් එක් අපේක්ෂිකාවක් දෙවතාවක්ම රටේ පාලන බලය ලබා ගැනීමට සමත් විය.
+
+ජනාධිපතිවරණය 2024 : ඡන්ද දායකයෙකු ලෙස ඔබ දැනගත යුතු කරුණුජනාධිපතිවරණය 2024: ජනපති සටනට අපේක්ෂකයින් 39ක්
+
+1988 පැවති ජනාධිපතිවරණයට සිරිමාවෝ බණ්ඩාරනායක අපේක්ෂිකාවක ලෙස ඉදිරිපත් වූ අතර 1994 දී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග හා ශ්‍රීමතී දිසානායක ප්‍රධාන පක්ෂ දෙකේ අපේක්ෂිකාවන් ලෙස තරග කළ අතර ඉන් චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග ජයග්‍රාහණය කළාය.
+
+...
+
+[Data](articles/a1563f03.json)
+
+---
+
 ### Maximum amount of money can cost at the President. 1 868 298 586
 
 *2024-08-20 06:25:47* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයේදී-අපේක්ෂකයෙකුට-වැය-කළ-හැකි-උපරිම-මුදල-රු--1-868-298-586/11-411450) · `si`
@@ -2155,133 +2263,5 @@ Accordingly, after considering the concerns put forward, it has been decided to 
 [Data](articles/4159a65e.json)
 
 [Extended Data](ext_articles/4159a65e.ext.json)
-
----
-
-### Can spend 109 rupees per voter
-
-*2024-08-19 21:36:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-வாக்காளருக்கு-109-ரூபாயே-செலவழிக்கலாம்/175-342459) · `ta`
-
-The Election Commission sets a limit of 109 rupees per voter for presidential campaign spending. Commissioner Saman Sri Ratnayake announced this, stating a gazette notification would be issued.
-
-🟩
-
-The maximum amount of money can be spent on a voter during the presidential candidate campaign. The Election Commission has defined 109.00.
-
-Elections Commissioner Saman Sri Ratnayake said that the gazette notification will be issued tonight.
-
-◼️
-
-[Data](articles/1a944fec.json)
-
-[Extended Data](ext_articles/1a944fec.ext.json)
-
----
-
-### The current President is trying to restrict the economy of the people - Sajith Premadasa
-
-*2024-08-19 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191480) · `ta`
-
-Opposition leader Sajith Premadasa criticizes the current government for limiting public economy and focusing on benefits for the wealthy. He emphasizes unity across racial, religious, and class lines to address Sri Lanka's economic challenges. Premadasa highlights the importance of aligning with the International Monetary Fund (IMF) under a new government to ensure the welfare of the people, mentioning the potential for small and medium manufacturers to contribute significantly to the national production. He also addresses the issue of political revenge affecting businesses and promises to work towards justice and improving the quality of life for all citizens.
-
-🟩
-
-The rulers, including the current president, seek to limit the economy of the public and carry out the power. Opposition leader Sajith Premadasa has said that today's answer is not important to the President in the public who live in the mud today.
-
-Sajith Premadasa said this at a meeting of the United People's Alliance (UPFA) held in Mawanella on Monday afternoon.
-
-Today the country is divided. The country is racially, religious, party, tribe, class, and class today. We must all unite to retrieve the underworld that the Sri Lankan country has fallen.
-
-The United People's Power and the United People's Alliance are seen as the massive political force that allies together in all villages in the country. Sri Lanka should be focused on the four ethnic population. Through that link, we have the power to carry out the program that is raised by the country.
-
-...
-
-[Data](articles/8bbce5f1.json)
-
-[Extended Data](ext_articles/8bbce5f1.ext.json)
-
----
-
-### A luxury vessel in Italian sea
-
-*2024-08-19 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200111) · `si`
-
-A luxury Italian sea vessel carrying British, American, and Canadian passengers, including a Sri Lankan, sank due to bad weather, leaving one dead and six missing. Authorities are searching for the missing.
-
-🟩
-
-The luxury vessel of the sea in Italy was killed and another six went missing.
-
-Foreign media reports that the vessel of the British flag was in danger of the 56-meter.
-
-Authorities claimed that the town of the inclement weather in the area had led to the accident.
-
-It is reported that a Sri Lankan is among the vessels.
-
-In addition, a group of British, USA, and Canada have been traveling on the luxury vessel, and the identity of the deceased has not yet been established.
-
-Coast Guard Officers have commenced search operations in search of the six disappeared.
-
-◼️
-
-[Data](articles/3ef2d95c.json)
-
-[Extended Data](ext_articles/3ef2d95c.ext.json)
-
----
-
-### Harris MP Pause
-
-*2024-08-19 21:08:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஹரிஸ்-எம்-பி-இடைநிறுத்தம்/150-342458) · `ta`
-
-Harris MP, a member of the Sri Lanka Muslim Congress, faces suspension due to unspecified reasons.
-
-🟩
-
-Member of Parliament Haris will be suspended from the post of Sri Lanka Muslim Congress.
-
-◼️
-
-[Data](articles/20d25427.json)
-
-[Extended Data](ext_articles/20d25427.ext.json)
-
----
-
-### Harris MP Pause
-
-*2024-08-19 21:08:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிஸ்-எம்-பி-இடைநிறுத்தம்/175-342458) · `ta`
-
-Harris MP, a member of the Sri Lanka Muslim Congress, faces suspension due to unspecified reasons.
-
-🟩
-
-Member of Parliament Haris will be suspended from the post of Sri Lanka Muslim Congress.
-
-◼️
-
-[Data](articles/5fb3b3a2.json)
-
-[Extended Data](ext_articles/5fb3b3a2.ext.json)
-
----
-
-### Maximum amount that can be spent on a voter
-
-*2024-08-19 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200110) · `si`
-
-The Elections Commission limits campaign spending per voter to Rs. 109 for presidential candidates.
-
-🟩
-
-The Elections Commission says that a presidential candidate for election propaganda is the maximum amount that can be spent on a voter.
-
-Accordingly, the amount that cost one voter is Rs. 109.
-
-◼️
-
-[Data](articles/189ecf96.json)
-
-[Extended Data](ext_articles/189ecf96.ext.json)
 
 ---

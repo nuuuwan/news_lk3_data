@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 18:39:25**
+As of **2024-08-20 18:56:01**
 
 ## Newspaper Stats
 
-*Scraped **41,721** Articles*
+*Scraped **41,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ dailymirrorlk | 4,733
 adaderanalk | 4,885
 tamilmirrorlk | 5,396
 virakesarilk | 6,631
-adaderanasinhalalk | 7,121
+adaderanasinhalalk | 7,123
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,721 (100.0%) of 41,721 articles have been extended.
+41,721 (100.0%) of 41,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### හෙට තරගයට එන ශ්‍රී ලංකා කණ්ඩායම
+
+*2024-08-20 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200145) · `si`
+
+ශ්‍රී ලංකාව සහ එංගලන්තය අතර පළමු ටෙස්ට් තරගය හෙට (21) එංගලන්තයේ මැන්චෙස්ටර් හී ඕල්ට්‍රැෆට් ක්‍රීඩාංගණයේදී ඇරඹෙයි.
+
+එම තරගය සඳහා සහභාගී වන ශ්‍රී ලංකා කණ්ඩායම මේ වනවිට නම්කර තිබේ.
+
+මෙම තරගයේදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් මිලාන් රත්නායක සිය සංගල ටෙස්ට් තරගයට සහභාගී වෙයි.
+
+දකුණු අතින් මදවේග පන්දුයවන්නෙක් වන ඔහු වාරියපොළ ශ්‍රී සුමංගල විද්‍යාලයේ ආදි සිසුවෙකි.
+
+◼️
+
+[Data](articles/82066899.json)
+
+---
+
+### රෝගීන් තිදෙනෙක් නඩු මගට
+
+*2024-08-20 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200144) · `si`
+
+ඇසේ සුද ඉවත් කිරීමේ සැත්කමක් සිදු කිරීමෙන් පසුව රෝහලින් ලබා දුන් ඖෂධ භාවිත කිරීම හේතුවෙන් ඇස් පෙනීම අහිමි වූ බව පවසමින් වන්දි ඉල්ලා පුරවැසියන් තිදෙනෙකු විසින් කොළඹ දිසා අධිකරණය හමුවේ නඩු ගොනුකර තිබේ.
+
+කඳපොළ ප්‍රදේශයේ පදිංචි එම්. රාජරත්නම් ඇතුළු තිදෙනෙකු විසින් මෙම පැමිණිලි ඉදිරිපත් කර ඇත.
+
+පැමිණිකරුවන් ඉල්ලා ඇත්තේ තමන්ට සිදුවූ හනිය වෙනුවෙන් එවක සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු වගඋත්තරකරුවන් ගෙන් රුපියල් කෝටි 10 බැගින් වන්දි ලබාදෙන ලෙසට නියෝගයක් නිකුත් කරන ලෙසටය.
+
+එහි වගඋත්තරකරුවන් ලෙස හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, එම අමාත්‍යංශයේ හිටපු ලේකම් ජනක චන්ද්‍රගුප්ත, ජාතික ඖෂධ නියාමන අධිකාරිය, සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල් අසේල ගුණවර්ධන ඇතුළු 11 දෙනෙකු නම් කර තිබේ.
+
+◼️
+
+[Data](articles/7c8a44d1.json)
+
+---
 
 ### A heavy rain in the next few hours
 
@@ -2315,53 +2351,5 @@ Three complaints have come forward to the Kandarawatta Police regarding financia
 [Data](articles/c252ba7d.json)
 
 [Extended Data](ext_articles/c252ba7d.ext.json)
-
----
-
-### A man admitted to hospital with sharp weapon deaths
-
-*2024-08-20 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191490) · `ta`
-
-A man was fatally stabbed in Naramini, Peliyagoda, on March 18, leading to his admission to Colombo National Hospital. The 39-year-old victim from Kelaniya died due to personal conflicts. A 24-year-old suspect from Kottukachiya, armed with a knife, was arrested and is under investigation by the Peliyagoda police.
-
-🟩
-
-A man has been attacked by a sharp weapon near a house in Naramini area in Peliyagoda, police said.
-
-The incident took place on the 18th and the victim was admitted to the Colombo National Hospital on Monday morning (19).
-
-The deceased is a 39 -year -old man from Kelaniya and Naramini.Police said the attack was due to personal conflict.
-
-The 24 -year -old suspect from Kottukachiya area, involved in the incident, has been arrested with a knife used for crimes, police said.
-
-Further investigations into the incident are being carried out by the Peliyagoda police.
-
-◼️
-
-[Data](articles/14d34490.json)
-
-[Extended Data](ext_articles/14d34490.ext.json)
-
----
-
-### Dilshan Rodrigo appointed CEO of Sri Lanka’s Union Bank
-
-*2024-08-20 09:30:00* · [`economynextcom`](https://economynext.com/dilshan-rodrigo-appointed-ceo-of-sri-lankas-union-bank-177360/) · `en`
-
-ECONOMYNEXT – Dilshan Rodrigo has been appointed the Executive Director/Chief Executive Officer of Sri Lanka’s Union Bank of Colombo Plc with effect from August 16, the bank said in a stock exchange filing.
-
-He replaces Indrajit Asela Wickramasinghe who retired from the office of Chief Executive Officer as well as the Board of Union Bank on August 15.
-
-“Union Bank will refocus efforts to drive Retail and SME business by leveraging on the 61 branches spread across the country,” Rodrigo told Echelon Magazine in an interview.
-
-“We have ambitious balance sheet growth targets over the short to medium term to establish ourselves as a mainstream bank in Sri Lanka.”
-
-Rodrigo does not hold any shares of the Bank as at date, the bank said. (Colombo/Aug20/2024)
-
-◼️
-
-[Data](articles/3d255d68.json)
-
-[Extended Data](ext_articles/3d255d68.ext.json)
 
 ---

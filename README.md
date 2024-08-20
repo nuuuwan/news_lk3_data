@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 23:21:29**
+As of **2024-08-20 23:36:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,749 (100.0%) of 41,757 articles have been extended.
+41,755 (100.0%) of 41,757 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,25 +72,33 @@ The morrowse was held in Galgamuwa town this afternoon, "a rich country, beautif
 
 ---
 
-### மகளிர் ரி20 உலகக் கிண்ணத்தை பங்களாதேஷிலிருந்து ஐக்கிய அரபு இராச்சியத்திற்கு மாற்றியது ஐசிசி
+### ICC transferred the World Cup from Bangladesh to the United Arab Emirates
 
 *2024-08-20 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191571) · `ta`
 
-ரி20 மகளிர்  உலகக் கிண்ண கிரிக்கெட் போட்டி பங்களாதேஷிலிருந்து ஐக்கிய அரபு இராச்சியத்திற்கு மாற்றப்பட்டுள்ளது.
+The ICC moved the Women's T20 World Cup from Bangladesh to the UAE due to security concerns and travel advisories from several countries, including Australia, India, New Zealand, UK, and Scotland. This decision came amid ongoing political unrest and violence in Bangladesh, which led to Prime Minister Sheikh Hasina's resignation. The ICC praised Bangladesh's cricket board for its efforts but cited the need for international safety assurances.
 
-பங்களதேஷில் அரசுக்கு எதிரான போராட்டங்கள் ஜூலை மாதத்திலும் ஆகஸ்ட் மாத முற்பகுதியிலும் இடம்பெற்றதை அடுத்து சர்வதேச கிரிக்கெட் பேரவை (ஐசிசி) போட்டி நடைபெறும் இடத்தை மாற்றியுள்ளது.
+🟩
 
-அரசுக்கு எதிரான போராட்டம் தீவிரமடைந்ததை அடுத்து பிரதமர் ஷெய்க் ஹசினா இராஜினாமா செய்துவிட்டு இந்தியாவுக்கு சென்று விட்டார்.
+The R20 Women's World Cup cricket tournament has been shifted from Bangladesh to the United Arab Emirates.
 
-ஆனால்,  பரவலாக  பொதுச் சொத்துக்கள் சேதமாக்கப்பட்டதாகவும் கொள்ளையிடப்பட்டதாகவும் வன்முறைகள்   இடம்பெற்றதாக பங்களாதேஷிலிருந்து செய்திகள் வெளியாகின.
+The International Cricket Council (ICC) has changed the place where the protests against the state in Bangladesh took place in July and early August.
 
-ஐக்கிய நாடுகள் சபையின் ஊடாக மகளிர் ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியை நடத்துவதற்கு பங்களாதேஷின் இடைக்கால அரசு கடைசி முயற்சியில் ஈடுபட்டது.
+Prime Minister Sheikh Hasina has resigned after the fight against the state has intensified.
 
-ஆனால், தங்களது நாட்டு பிரஜைகள் பங்களாதேஷுக்கு பயணிக்கக்கூடாது என அவுஸ்திரேலியா, இந்தியா, நியூஸிலாந்து, ஐக்கிய இராச்சியம் (இங்கிலாந்து மற்றும் ஸ்கொட்லாந்து) ஆகிய நாடுகள் உட்பட மற்றும் சில நாடுகள் பயண ஆலோசனைகள் விடுத்ததால் ஐசிசி இந்த முடிவுக்கு வந்துள்ளது.
+However, there have been reports from Bangladesh that violence has been widely damaged and robbed.
+
+Bangladesh's interim government made the last attempt to hold the Women's T20 World Cup cricket match through the United Nations.
+
+However, the ICC has come to this end as some countries, including Australia, India, New Zealand, the United Kingdom (UK and Scotland), have made travel consultations not to travel to Bangladesh.
+
+'Bangladesh is not shameful that women's R20 World Cup. "We know that the Bangladesh Cricket Board will be doing the best in Eneane," said ICC Chief Executive Officer Jev Alridge.
 
 ...
 
 [Data](articles/7863c481.json)
+
+[Extended Data](ext_articles/7863c481.ext.json)
 
 ---
 
@@ -234,23 +242,33 @@ The commemorative stamp was presented to President Ranil Wickremesinghe, accordi
 
 ---
 
-### 'இங்கிலாந்தில் ஓர் அரிய வாய்ப்புக்காக இலங்கை தாகத்துடன் இருக்கிறது'
+### 'Sri Lanka is thirsty for a rare opportunity in the UK'
 
 *2024-08-20 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191569) · `ta`
 
-இங்கிலாந்தில் ஓர் அரிய வாய்ப்பை பற்றிப் பிடித்துக்கொள்ள இலங்கை மிகுந்த தாகத்துடன் இருப்பதாக இலங்கை கிரிக்கெட் அணியின் இடைக்காலப் பயிற்றுநர் சனத் ஜயசூரய தெரிவித்துள்ளார்.
+Sanath Jayasuriya, Sri Lanka's interim coach, expresses excitement about the upcoming ICC World Test Championship series against England, emphasizing the importance of mental preparation and adapting to varying conditions. Highlighting the rarity of such opportunities, he stresses the need for the team to seize the moment. With a mix of experience and youth, the squad aims to build on past successes and challenge England's dominance on home soil.
 
-இலங்கைக்கும் இங்கிலாந்துக்கும் இடையிலான 3 போட்டிகள் கொண்ட ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் 2023-25 தொடர் நாளை புதன்கிழமை (21) ஆரம்பமாகவுள்ள நிலையில் சனத் ஜயசூரிய இதனைத் தெரிவித்தார்.
+🟩
 
-எட்டு வருடங்களுக்குப் பின்னர் இங்கிலாந்துக்கு கிரிக்கெட் விஜயம் செய்யும் இலங்கை அணியில் பல அனுபவசாலிகள் இடம்பெறும் நிலையில், தனது வீரர்கள் மிகச் சரியான மனோநிலையுடன் இருப்பதை உறுதிசெய்யவேண்டும் என விரும்புவதாக சனத் ஜயசூரிய தெரிவித்தார்.
+Sri Lanka's interim coach Sanath Jayasuraya says Sri Lanka is very thirsty to take a rare opportunity in the UK.
 
-இந்தத் தொடர் முக்கியம் வாய்ந்தது என வலியுறுத்திய சனத் ஜயசூரிய, 'வீரர்கள் மத்தியில் தாகம் இருப்பதை உறுதி செய்ய வேண்டும் என விரும்புகிறேன்' என்றார்.
+Sanath Jayasuriya made this statement as the ICC World Test championship, which has a three-match match between Sri Lanka and England, commenced tomorrow (21st).
 
-'இது போன்ற 3 டெஸ்ட் போட்டிகளில் விளையாடுவதற்கு இன்னும் ஒரு வாய்ப்பு  இலகுவில்  கிடைக்காது' எனவும் அவர் சுட்டிக்காட்டினார்.
+Sanath Jayasuriya said he wanted to ensure that his players had the right mindset, with many experienced people in the Sri Lankan squad, which is a visit to England eight years later.
+
+Sanath Jayasuriya stressed that the series was important and said, "I want to ensure that the players are thirsty."
+
+"There is still no chance to play in 3 Test matches like this," he pointed out.
+
+'So we have to hold it when we can. It is challenging to accumulate flows here. The pitch is flat, but the ball may be swinging or serving. We have to prepare for it, ”said Sanath Jayasuriya.
+
+Sanath Jayasuriya, who has played 6 Tests in England, has scored 421 runs with an average of 42.1.
 
 ...
 
 [Data](articles/adade62a.json)
+
+[Extended Data](ext_articles/adade62a.ext.json)
 
 ---
 
@@ -332,23 +350,29 @@ Two of the upstairs Tamil MPs engaged in private television debate.
 
 ---
 
-### கட்சியின் பிரதித் தலைவர் பதவியும், உயர் பீட உறுப்புரிமையிலிருந்தும் ஹரீஸ் எம்.பி. இடைநிறுத்தம்!
+### Haris MP from the post of Deputy Leader of the party. Pause!
 
 *2024-08-20 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191568) · `ta`
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் பிரதித் தலைவர் பதவியில் இருந்தும், உயர் பீட உறுப்புரிமையிலிருந்து அந்தக் கட்சியின் அம்பாறை மாவட்ட பாராளுமன்ற உறுப்பினர் எச்.எம்.எம். ஹரீஸ் இடைநிறுத்தப்பட்டுள்ளார்.
+Deputy Leader Haris MP of the Sri Lanka Muslim Congress (SLMC) was suspended after failing to attend meetings supporting Sajith Premadasa for president. Despite this, he received 860 million rupees for development projects.
 
-கட்சியின் செயலாளர் சிரேஷ்ட சட்டத்தரணி நிஸாம் காரியப்பர் மு.கா தலைவர் ரவூப் ஹக்கீமின் அறிவுறுத்தலுக்கு அமைவாக, பாராளுமன்ற உறுப்பினர் ஹரீஸ் இற்கு இது தொடர்பில் 20ஆம் திகதி செவ்வாய்க்கிழமை கடிதமொன்று அனுப்பி வைக்கப்பட்டுள்ளது.
+🟩
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் சஜித் பிரேமதாசவை ஆதரிப்பதென முஸ்லிம் காங்கிரஸ் தீர்மானித்துள்ள நிலையில், சஜித் பிரேமதாசவின் வெற்றிக்காக பாராளுமன்ற உறுப்பினர்கள் உள்ளிட்ட அனைவரும் உழைக்க வேண்டுமென கட்சித் தலைவர் ரவூப் ஹக்கீமின் அறிவுறுத்தியிருந்தார்.
+HMM Member of the Ampara District Parliamentarian of the party from the top of the Sri Lanka Muslim Congress (SLMC). Haris has been suspended.
 
-இருந்த போதும், இதுவரையில் சஜித் பிரேமதாசவை ஆதரித்து நடத்தப்பட்ட எந்தவொரு கூட்டத்திலும் பாராளுமன்ற உறுப்பினர் ஹரீஸ் கலந்து கொள்ளவில்லை.
+A letter has been sent to MP Haris on Tuesday 20th in response to the instructions of the party secretary Nizam Kariyapper MK leader Rauf Hakeem.
 
-இதனை தொடர்ந்து அரசாங்கத்திடம் இருந்து பாராளுமன்ற உறுப்பினர் ஹரீஸ், 860 மில்லியன் ரூபாவை அபிவிருத்தி நடவடிக்கைகளுக்காகப் பெற்றுள்ளமையும் குறிப்பிடத்தக்கது.
+While the Muslim Congress has decided to support Sajith Premadasa in the upcoming presidential election, party leader Rauf Hakeem has advised everyone, including MPs, to work for the victory of Sajith Premadasa.
+
+However, MP Haris did not attend any meeting in support of Sajith Premadasa.
+
+Following this, Parliamentarian Haris has received 860 million rupees from the government for development activities.
 
 ◼️
 
 [Data](articles/5d5b7f80.json)
+
+[Extended Data](ext_articles/5d5b7f80.ext.json)
 
 ---
 
@@ -416,27 +440,33 @@ Ollie Pope will captain England in the absence of Stokes, while keeper Jamie Smi
 
 ---
 
-### அடுத்த சில மணி நேரங்களுக்கு கனமழை பெய்யும்
+### Heavy rainfall for the next few hours
 
 *2024-08-20 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191567) · `ta`
 
-அடுத்த 24 மணி நேரத்திற்கு வானிலை முன்னறிவிப்பை வானிலை ஆய்வு மையம் வெளியிட்டுள்ளது.
+The Meteorological Department forecasts heavy rainfall or thunderstorms for the next 24 hours across several provinces and districts, including the Western, Sabaragamuwa, South, Northwestern Provinces, Kandy, Nuwara Eliya, Galle, and Matara districts. Rain is expected to intensify in the evening or night, with strong winds in certain areas. The department advises taking precautions against the adverse weather conditions.
 
-மேல், சப்ரகமுவ, தெற்கு மற்றும் வடமேற்கு மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+🟩
 
-மேற்கு மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில பகுதிகளில் மி.மீ. அதிகபட்சமாக 75 ஆக இருக்கலாம்.
+The Meteorological Department has issued a weather forecast for the next 24 hours.
 
-கிழக்கு, ஊவா மற்றும் வடமத்திய மாகாணங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Rainfall or thunderstorms are expected in the Western, Sabaragamuwa, South and Northwestern Provinces and Kandy and Nuwara Eliya districts.
 
-தீவின் மற்ற பகுதிகளில் மாலை அல்லது இரவு நேரங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்.
+Mm in some parts of the West and Sabaragamuwa Provinces, Galle and Matara districts. May be a maximum of 75.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் காற்று கி.மீ. 30-40 வரை பலத்த காற்றும் வீசக்கூடும்.
+In the Eastern, Uva and North Central Provinces, rain or thunderstorms can occur in the evening or night.
 
-சீரற்ற காலநிலையால் ஏற்படக்கூடிய ஆபத்துக்களைக் குறைப்பதற்குத் தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறும் வளிமண்டலவியல் திணைக்களம் மக்களை கேட்டுக்கொண்டுள்ளமை குறிப்பிடத்தக்கது.
+Rain or thunderstorm in the other parts of the island in the evening or night.
+
+Western slopes of the Central Highlands, North, North Central and North Western Provinces and Hambantota district. Strong winds can be blowing from 30-40.
+
+It is noteworthy that the Department of Meteorology has also asked the people to take steps to reduce the dangers caused by inclement weather.
 
 ◼️
 
 [Data](articles/faa848f2.json)
+
+[Extended Data](ext_articles/faa848f2.ext.json)
 
 ---
 
@@ -556,19 +586,27 @@ He is a right-handed bowler, Akiyapola, an alumni of Sri Sumangala Vidyalaya.
 
 ---
 
-### செப்டெம்பர் 3 இல் மாகாணசபைத்தேர்தல் திருத்தச்சட்டமூலத்தின் மூன்றாம் வாசிப்பு - அன்றைய தினமே நிறைவேற்றவும் உத்தேசம்
+### The Third Reading of the Provincial Council Election Amendment on September 3
 
 *2024-08-20 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191564) · `ta`
 
-மாகாணசபைத்தேர்தல் திருத்தச்சட்டமூலத்தை எதிர்வரும் செப்டெம்பர் 3 ஆம் திகதி 3 ஆம் வாசிப்புக்காக பாராளுமன்றத்தில் சமர்ப்பித்து, அன்றைய தினமே நிறைவேற்றுவதென சட்டவாக்க நிலையியல் குழுக்கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
+On September 3, the Provincial Council Election Amendment received its third reading after being discussed in Parliament. The decision was made during a meeting of the Legislative Standing Committee chaired by Deputy Speaker Ajith Rajapaksa, with members including MA Sumanthiran from the Sri Lanka Tamil National Alliance (TNA). This amendment had previously been examined by the High Court under the Provincial Council Election Act before its submission to Parliament.
 
-சட்டவாக்க நிலையியல் குழு செவ்வாய்கிழமை (20) பிரதி சபாநாயகர் அஜித் ராஜபக்ஷ தலைமையில் பாராளுமன்றக் கட்டடத்தொகுதியில் கூடியது. இதில் அக்குழுவின் உறுப்பினர்களான எம்.ஏ.சுமந்திரன், மனோகணேசன், கோவிந்தன் கருணாகரம் உள்ளிட்டோர் பங்கேற்றிருந்தனர்.
+🟩
 
-அதில் இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரனால் கடந்த 6 ஆம் திகதி 2 ஆம் வாசிப்புக்காக பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்ட மாகாணசபைத்தேர்தல் திருத்தச்சட்டமூலத்தில் உயர்நீதிமன்றத்தினால் வலியுறுத்தப்பட்ட திருத்தங்கள் மேற்கொள்ளப்பட்டிருக்கும் நிலையில், அதனை 3 ஆம் வாசிப்புக்காக பாராளுமன்றத்தில் சமர்ப்பிப்பது குறித்து ஆராயப்பட்டது.
+It has been decided at the Legislative Standing Committee that the Provincial Council Amendment will be submitted to Parliament on the 3rd of September for the 3rd of September.
 
-...
+The Legislative Standing Committee met on Tuesday (20) at the parliamentary building headed by Deputy Speaker Ajith Rajapaksa. Members of the group MA Sumanthiran, Manohanesan and Govindan Karunagaram were also present.
+
+In it, MA Sumanthiran, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA), was examined by the High Court in the Provincial Council Election Act, which was submitted to Parliament on the 6th of last month, was investigated for the submission of the 3rd reading of Parliament.
+
+Accordingly, on the 3rd of September for the third reading of the country, it was decided to the Legal Statistical Committee to pass it on the same day.
+
+◼️
 
 [Data](articles/feb84f43.json)
+
+[Extended Data](ext_articles/feb84f43.ext.json)
 
 ---
 
@@ -922,19 +960,25 @@ He said that when the Cabinet met recently, the cabinet paper was presented by t
 
 ---
 
-### பிரச்சினைகளைக் கண்டு ஓடி ஒளிபவர்களிடம் எவ்வாறு நாட்டை ஒப்படைப்பது - பிரேம்நாத் சி தொலவத்த
+### How to hand over the country to the lighting of the country - Premnath C Tolawatta
 
 *2024-08-20 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191539) · `ta`
 
-காலி முகத்திடல் ஆர்ப்பாட்டத்தின் போது எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச உட்பட அவரது தரப்பினர் மீது தாக்குதல்கள் மேற்கொள்ளப்பட்ட போது அவர்கள் அங்கிருந்து தப்பியோடினர். அதே போன்று தான் பொருளாதார நெருக்கடிகளின் போதும் தப்பியோடினர். இவ்வாறு பிரச்சினைகளைக் கண்டு தப்பியோடுபவர்களிடம் எவ்வாறு நாட்டை ஒப்படைக்க முடியும் என்று பாராளுமன்ற உறுப்பினர் பிரேம்நாத் சி தொலவத்த தெரிவித்தார்.
+Premnath C Tolawatta criticizes politicians fleeing crises, citing examples from the Galle Face Demonstration and economic downturns. He warns against disrupting IMF agreements, urging stability under President Ranil Wickremesinghe to safeguard the economy and peace.
 
-பம்பலப்பிட்டி லோரிஸ் வீதியில் அமைந்துள்ள ரணில் விக்கிரமசிங்கவின் அரசியல் அலுவலகத்தில் செவ்வாய்கிழமை (20) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-நாட்டுக்காக சிந்தித்து நாம் இந்த தீர்மானத்தை எடுத்திருக்கின்றோம். ஆர்ப்பாட்டத்தின் போது ஆர்ப்பாட்டக்காரர்கள் சஜித் பிரேமதாச மீதும் அவரது குழுவினர் மீதும் எவ்வாறு தாக்குதல்களை மேற்கொண்டனர் என்பது தெரியும். அங்கிருந்து அவர்கள் எவ்வாறு தப்பியோடினார்கள் என்பதும் தெரியும். பிரச்சினைகள் ஏற்படும் போது அவர்களால் தப்பியோட முடியுமே தவிர அவற்றுக்கான தீர்வினை வழங்க முடியாது.
+During the Galle Face Demonstration, they fled when he was attacked by opposition leader Sajith Premadasa, including his side.. Similarly, they fled during the economic crisis. Parliamentarian Premnath C Tolawatta said how the country can be handed over to those who escape the problems.
+
+He further stated this at a press conference held at Ranil Wickremesinghe's political office at Loris Road, Bambalapitiya on Tuesday (20).
+
+We have taken this decision to think for the country. During the demonstration, the demonstrators knew how Sajith Premadasa and his crew were attacked. From there they know how they fled. When problems occur, they can escape and they cannot provide a solution.
 
 ...
 
 [Data](articles/bb99f8fd.json)
+
+[Extended Data](ext_articles/bb99f8fd.ext.json)
 
 ---
 

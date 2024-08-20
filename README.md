@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 19:06:43**
+As of **2024-08-20 19:21:16**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 7,123
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,721 (100.0%) of 41,724 articles have been extended.
+41,724 (100.0%) of 41,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### හෙට තරගයට එන ශ්‍රී ලංකා කණ්ඩායම
+### Sri Lanka team coming to the competition tomorrow
 
 *2024-08-20 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200145) · `si`
 
-ශ්‍රී ලංකාව සහ එංගලන්තය අතර පළමු ටෙස්ට් තරගය හෙට (21) එංගලන්තයේ මැන්චෙස්ටර් හී ඕල්ට්‍රැෆට් ක්‍රීඩාංගණයේදී ඇරඹෙයි.
+The Sri Lankan cricket team arrives in Manchester today for their first Test against England, starting tomorrow. Milan Ratnayake, a right-handed bowler from Akiyapola and alumnus of Sri Sumangala Vidyalaya, will be part of the squad.
 
-එම තරගය සඳහා සහභාගී වන ශ්‍රී ලංකා කණ්ඩායම මේ වනවිට නම්කර තිබේ.
+🟩
 
-මෙම තරගයේදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් මිලාන් රත්නායක සිය සංගල ටෙස්ට් තරගයට සහභාගී වෙයි.
+The first Test between Sri Lanka and England begins tomorrow (21) at Manchester, Oldster, England.
 
-දකුණු අතින් මදවේග පන්දුයවන්නෙක් වන ඔහු වාරියපොළ ශ්‍රී සුමංගල විද්‍යාලයේ ආදි සිසුවෙකි.
+The Sri Lankan team is already designated for the match.
+
+Milan Ratnayake participates in the Test for Sri Lanka in this match.
+
+He is a right-handed bowler, Akiyapola, an alumni of Sri Sumangala Vidyalaya.
 
 ◼️
 
 [Data](articles/82066899.json)
 
+[Extended Data](ext_articles/82066899.ext.json)
+
 ---
 
-### රෝගීන් තිදෙනෙක් නඩු මගට
+### Three patients were casualty
 
 *2024-08-20 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200144) · `si`
 
-ඇසේ සුද ඉවත් කිරීමේ සැත්කමක් සිදු කිරීමෙන් පසුව රෝහලින් ලබා දුන් ඖෂධ භාවිත කිරීම හේතුවෙන් ඇස් පෙනීම අහිමි වූ බව පවසමින් වන්දි ඉල්ලා පුරවැසියන් තිදෙනෙකු විසින් කොළඹ දිසා අධිකරණය හමුවේ නඩු ගොනුකර තිබේ.
+Three citizens filed lawsuits against the Colombo District Court, alleging harm from hospital-provided drugs used for cataract treatment. The plaintiffs, including Rajaratnam from Kandapola, seek compensation. The defendants include former Health Minister Keheliya Rambukwella, officials from the Ministry of Health, the National Drug Regulatory Authority, and the Director General of Health Services.
 
-කඳපොළ ප්‍රදේශයේ පදිංචි එම්. රාජරත්නම් ඇතුළු තිදෙනෙකු විසින් මෙම පැමිණිලි ඉදිරිපත් කර ඇත.
+🟩
 
-පැමිණිකරුවන් ඉල්ලා ඇත්තේ තමන්ට සිදුවූ හනිය වෙනුවෙන් එවක සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු වගඋත්තරකරුවන් ගෙන් රුපියල් කෝටි 10 බැගින් වන්දි ලබාදෙන ලෙසට නියෝගයක් නිකුත් කරන ලෙසටය.
+Three citizens have filed cases before the Colombo District Court for the use of the drugs provided by the hospital after the use of cataracts were caused by the hospital.
 
-එහි වගඋත්තරකරුවන් ලෙස හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, එම අමාත්‍යංශයේ හිටපු ලේකම් ජනක චන්ද්‍රගුප්ත, ජාතික ඖෂධ නියාමන අධිකාරිය, සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල් අසේල ගුණවර්ධන ඇතුළු 11 දෙනෙකු නම් කර තිබේ.
+A resident of Kandapola area. These complaints have been submitted by Rajaratnam.
+
+The complaints have been asked to issue a court order to compensate Rs.
+
+Former Health Minister Keheliya Rambukwella as respondents, the Secretary General of the Ministry of Janaka Chandra, National Drug Charge, National Drug Regulatory Authority and Director General of Health Services Asela Gunawardena have been named.
 
 ◼️
 
 [Data](articles/7c8a44d1.json)
+
+[Extended Data](ext_articles/7c8a44d1.ext.json)
 
 ---
 
@@ -1668,23 +1680,31 @@ Chairman of the Elections Commission RM VLethani, which claims this,
 
 ---
 
-### චොකලට් සොරකම් කළ වෛද්‍යවරිය අල්ලයි
+### Chocolate stolen doctor arrested
 
 *2024-08-20 11:28:24* · [`adalk`](https://www.ada.lk/breaking_news/චොකලට්-සොරකම්-කළ-වෛද්‍යවරිය-අල්ලයි/11-411458) · `si`
 
-කිරිබත්ගොඩ මාකොළ පාරේ පිහිටි පෞද්ගලික සමාගමකට අයත් සුපිරි වෙළෙඳ හලකින් නිකිණි පොහොය දින රුපියල් පන්දාහක් පමණ වටිනා ආහාරමය ද්‍රව්‍ය සොරකම් කළ බව කියන වෛද්‍යවරියක ඊයේ (19) අත්අඩංගුවට ගත් බව කිරිබත්ගොඩ පොලිසිය පවසයි
+A doctor was arrested in Sri Lanka for stealing food items worth Rs., including chocolates and sausages. The 54-year-old from Kelaniya is now facing charges after being caught with the goods.
 
-මෙම කාන්තාව මුදල් නොගෙවා හොර රහසේ රුපියල් එක් දහස් හාර සියයක් (1400) මිල සදහන් තේකුඩු පැකට් එකක් අරගෙන වෙළෙද හලින් පිටව යාමට සූදානම් වෙත්දී ආරක්ෂක අංශය විසින් අල්ලාගෙන ආයතන විධායක නිලධාරීනියට භාරදී ඇත.
+🟩
 
-එම නිලධාරිනිය මෙම කාන්තාවගේ ගමන් මල්ල පරීක්ෂා කිරීමේදී එහි තිබූ බිල්පත් නොමැති ජනප්‍රිය වර්ගවල ග්‍රෑම් 160 බැගින් බරැති  චොකලට් තුනක් ,උකුකළ කිරි ටින් එකක්,හා සොසේජස් පැකට් එකක් සොයා ගැනීමට හැකිවී ඇත.
+Kiribathgoda Police say that he was arrested yesterday (19) a doctor who was allegedly stealing foodstacity materials worth Rs.
 
-පසුව මෙම කාන්තාව කිරිබත්ගොඩ පොලිසියට භාරදී ඇත.එහිදී කළ විමර්ශනවලදී සොරකම් කළ භාණ්ඩ පිළිබඳවත් සැකකාරිය පිළිබදවත් තොරතුරු අනාවරණය වීඇත.
+The security unit has seized a packet of Rs.
 
-දැනටත් රජයේ රෝහලක සේවය කරන කැලණිය ප්‍රදේශයේ පදිංචි 54 හැවිරිදි වෛද්‍යවරිය මහර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට කටයුතු යොදා ඇත.
+When the officer inspected the woman's bag, three chocolate weighing 160 g of popular population, which weighted 160 g of popular population, was able to find a packet of milk, and a sausage packet.
 
-...
+The woman was later handed over to Kiribathgoda Police. Investigations have revealed information about the suspected goods and the suspect.
+
+The 54-year-old doctor from Kelaniya is currently being produced before the Mahara Magistrate's Court.
+
+The Criminal Investigation Division of the Kiribathgoda Police Station has conducted a group of people, including Mr. Deehana Nandasiri.
+
+◼️
 
 [Data](articles/78040c75.json)
+
+[Extended Data](ext_articles/78040c75.ext.json)
 
 ---
 

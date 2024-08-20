@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 13:21:33**
+As of **2024-08-20 13:36:54**
 
 ## Newspaper Stats
 
-*Scraped **41,661** Articles*
+*Scraped **41,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,687
 adalk | 3,831
 dailymirrorlk | 4,733
 adaderanalk | 4,877
-tamilmirrorlk | 5,386
+tamilmirrorlk | 5,387
 virakesarilk | 6,611
 adaderanasinhalalk | 7,110
 
@@ -26,35 +26,65 @@ adaderanasinhalalk | 7,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,655 (100.0%) of 41,661 articles have been extended.
+41,661 (100.0%) of 41,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### පොහොට්ටුවේ හිටපු ප්‍රාස මන්ත්‍රීවරු 17කගේ සහාය රනිල්ට
+### தபால் மூலம் வாக்களிக்க 712,321 பேர் தகுதி
+
+*2024-08-20 13:09:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூலம்-வாக்களிக்க-712-321-பேர்-தகுதி/175-342513) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் தபால் மூல வாக்களிப்பதற்காக 736,589 விண்ணப்பங்கள் கிடைக்கப்பெற்றுள்ளதாகவும் அவற்றுள் 24,268 விண்ணப்பங்கள் நிராகரிக்கப்பட்டுள்ளதாகவும் தேசிய தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+எவ்வாறாயினும், 2024 ஜனாதிபதித் தேர்தலில் தபால் மூலம் வாக்களிக்க 712,321 பேர் தகுதி பெற்றுள்ளதாக தேர்தல்கள் ஆணைக்குழு மேலும் தெரிவித்துள்ளது.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான தபால் மூல வாக்களிப்பு செப்டம்பர் 04, 05 மற்றும் 06 ஆம் திகதிகளில் நடத்தப்படவுள்ளது.
+
+இதேவேளை, தபால் மூலம் வாக்களிக்க முடியாதவர்களுக்கு மேலதிக திகதியாக செப்டம்பர் 11 மற்றும் 12 ஆம் திகதிகள் ஒதுக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/8f649d5b.json)
+
+---
+
+### Ranil helped to support 17 former president MPs in Pohoth
 
 *2024-08-20 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200131) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ කුරුණෑගල හිටපු ප්‍රාදේශිය සභා මන්ත්‍රීවරුන් 17 දෙනෙකු ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරමින් එක්ව තිබේ.
+Ranil backed 17 ex-president MPs in Pohoth, while President Mahinda Rajapaksa supported 17 former local council members in Kurunegala.
+
+🟩
+
+President Mahinda Rajapaksa supported 17 former Pradeshiya Sabha members in Kurunegala
 
 ◼️
 
 [Data](articles/49c9ba3c.json)
 
+[Extended Data](ext_articles/49c9ba3c.ext.json)
+
 ---
 
-### கிளப் வசந்த கொலை சம்பவம் ; சந்தேக நபர்களுக்கு பாதுகாப்பு
+### Club spring murder;Security to the suspects
 
 *2024-08-20 12:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-சம்பவம்-சந்தேக-நபர்களுக்கு-பாதுகாப்பு/175-342512) · `ta`
 
-கிளப் வசந்த சுட்டுக் கொல்லப்பட்ட சம்பவம் தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டிருந்த பெண் ஒருவர் உட்பட 11 சந்தேகநபர்கள் செவ்வாய்க்கிழமை (20) அன்று நீதிமன்றத்தில் ஆஜர்படுத்திய போது எதிர்வரும் செப்டம்பர் இரண்டாம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கடுவலை நீதவான் சனிமா விஜய பண்டார உத்தரவிட்டார்.
+In a case related to the Club Spring shooting, 11 suspects, including a woman, have been remanded until September 2. The magistrate ordered protection for them due to threats, as argued by their lawyers.
 
-சந்தேக நபர்களின் உயிருக்கு அச்சுறுத்தல் இருப்பதாக நீதிமன்றில் முன்னிலையாகிய சட்டத்தரணிகளால் முன்வைக்கப்பட்ட காரணங்களுக்கமைய அவர்களுக்கு தேவையான பாதுகாப்பை வழங்குமாறு சிறைச்சாலை ஆணையாளருக்கு நீதவான் உத்தரவிட்டார் .
+🟩
+
+Kaduwela Magistrate Sanima Vijaya Bandara has ordered the remand of 11 suspects, including a woman, who was detained in connection with the shooting of the club spring, to be remanded until the second September 2.
+
+The magistrate ordered the prison commissioner to provide them with the necessary protection for the reasons presented by the lawyers in court, which threatens the suspects.
 
 ◼️
 
 [Data](articles/8d53b4ff.json)
+
+[Extended Data](ext_articles/8d53b4ff.ext.json)
 
 ---
 
@@ -76,27 +106,35 @@ He further advised that if children are showing such symptoms they should wear a
 
 [Data](articles/81bfea65.json)
 
+[Extended Data](ext_articles/81bfea65.ext.json)
+
 ---
 
-### කළුතර ගංවතුර ගැන නිවේදනයක්
+### Announce in Kalutara Flood
 
 *2024-08-20 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200130) · `si`
 
-කළුතර දිස්ත්‍රික්කයේ මදුරාවල, පාලින්දනුවර, මිල්ලනිය සහ බුලත්සිංහල යන ප්‍රදේශවල මාර්ග කිහිපයක් තවදුරටත් ජලයෙන් යට වී පවතින බව වාර්තා වෙයි.
+In Kalutara, several roads are flooded due to the opening of sluice gates in the Kukule River and Deduru Oya reservoirs. Heavy rainfall exceeding 100mm is expected today in the Western and Sabaragamuwa Provinces, with showers forecasted across multiple regions.
 
-එමෙන්ම කුකුළේ ගඟ සහ දැදුරු ඔය ජලාශයේ වාන් දොරටු තවදුරටත් විවෘත කර ඇති බව ද සඳහන් ය.
+🟩
 
-ගම්පහ දිස්ත්‍රික්කයේ ඇතැම් ප්‍රදේශවල තවදුරටත් ජල ගැලීම් තත්ත්වයක් පවතින බවද වාරිමාර්ග අධ්‍යක්ෂ එස්. පි. සී. සුගීෂ්වර මහතා පැවසීය.
+Several roads in Maduru, Palindanuwara, Maddindan, Maddindan, Millant and Bulathsinhala have been allocated.
 
-මේ අතර බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට අද (20) මිලිමීටර් 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පැවසීය.
+The sluice gates of the Kukule River and Deduru Oya reservoir have been opened.
 
-එම දෙපාර්තමේන්තුව සඳහන් කළේ බස්නාහිර, සබරගමුව, දකුණු  සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවයි.
+Irrigation Director S.. P. C. He said, "Suesshwara said.
 
-එමෙන්ම නැගෙනහිර, ඌව සහ උතුරුමැද පළාත්වල ද සවස් කාලයේ හෝ රාත්‍රි කාලයේ දී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි ය.
+Meanwhile, the Met Department said that there will be heavy showers at more than 100 millimeters today (20) in the Western and Sabaragamuwa Province.
+
+The department stated that showers or thundershowers will occur at times in the Western and Sabaragamuwa, Southern and Northwestern provinces.
+
+Thundershowers will develop at several places during the evening or night in the East, Uva and North Central provinces.
 
 ◼️
 
 [Data](articles/676e4dcd.json)
+
+[Extended Data](ext_articles/676e4dcd.ext.json)
 
 ---
 
@@ -416,21 +454,27 @@ Despite the legal provisions for gender equality, no women have come forward to 
 
 ---
 
-### මව් කිරි හිරවීමෙන් මාස තුනක බිළිඳියක් මිය යයි
+### A three-month infant dies after breaking mother milk
 
 *2024-08-20 10:55:15* · [`adalk`](https://www.ada.lk/breaking_news/මව්-කිරි-හිරවීමෙන්-මාස-තුනක-බිළිඳියක්-මිය-යයි/11-411456) · `si`
 
-යාපනය මුරසවිල් ප්‍රදේශයේ මව් කිරි හිරවීමේ හේතුවෙන් මාස තුනහමාරක පමණ දැරියක් ඊයේ (19) සවස මියගොස් ඇතැයි  ඡාවකච්චේරි පොලිසිය පවසයි.
+In Muraluvil, Jaffna, a three-and-a-half-month-old girl named Kapilan Announcer died from complications related to breastfeeding. The incident occurred at the Chavakachcheri Hospital where her mother was also admitted. The police are investigating the cause of death.
 
-මව විසින් සිය බිළිඳියට මව්කිරි ලබා දෙන අතරතුරුවිය බිළිඳිය සිහසුන්වීම හේතුවෙන් එම අවස්ථාවේම චාවකච්චේරි රෝහල වෙතට රැගෙන යාමට පියවර ගත්තද රෝහලට රැගෙන යන විටත් බිළිඳිය මිය ගොස් සිටි බවට චාවකච්චේරි රෝහලේ වෛද්‍යවරුන් පවසා සිටියහ.
+🟩
 
-මෙලෙස මව් කිරිහිරවීමෙන් මිය ගොස් ඇත්තේ යාපනය මුරුසවිල් උතුර ප්‍රදේශයේ පදිංචි කපිලන් නිවේදා නැමති මාස තුනක් වයසැති බිළිඳියකි.
+A girl was killed three and a half months due to the mother milk in Muraluvil, Jaffna yesterday.
 
-මියගිය බිළිඳියගේ සිරුර චාවකච්චේරි රෝහලේ තැන්පත් කොට ඇති අතර පශ්චාත් මරණ පරීක්ෂණය සිදු කිරීමටද නියමිත බව පරීක්ෂණ සිදුකරන චාවකච්චේරි පොලීසිය වැඩිදුරටත් පැවසීය.
+The doctors of the Chavakachcheri hospital told the Chavakachcheri Hospital that the mother was taken to the Chavakachcheri Hospital while the mother had breastfeeding at the infant.
+
+The deceased has been identified as Kapilan Announcer, a resident of Murushivil North, Jaffna.
+
+The body of the deceased was placed at the Chavakachcheri Hospital while the Chavakachcheri Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/3da77ee9.json)
+
+[Extended Data](ext_articles/3da77ee9.ext.json)
 
 ---
 
@@ -1448,25 +1492,35 @@ Kurunegala Police are conducting further investigations.
 
 ---
 
-### කාන්තා ජනගහනය වැඩි ශ්‍රී ලංකාවේ ජනපතිවරණයට කාන්තාවන් ඉදිරිපත් නොවන්නේ ඇයි?
+### Why does women not present the presidential election in Sri Lanka with more women's population?
 
 *2024-08-20 06:40:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c703r7e38n6o) · `si`
 
-කාන්තා ජනගහනය වැඩි ශ්‍රී ලංකාවේ ජනපතිවරණයට කාන්තාවන් ඉදිරිපත් නොවන්නේ ඇයි?
+In Sri Lanka, despite having a higher percentage of women in the population, few women participate in presidential elections. This is attributed to historical patterns where only four women have contested, with none winning since 1988. Cultural and societal norms often associate politics with men, discouraging women from entering the field. Additionally, political parties have historically lacked female representation, and when proposed, ideas to include women were met with resistance. Economic challenges and lack of political awareness among women further contribute to the underrepresentation of women in Sri Lanka's presidential elections.
 
-ලොව ප්‍රථම අගමැතිනිය බලයට පත් කළ ඉතිහාසයකට උරුමකම් කියන, ජනාධිපතිවරියක විසින් දෙවරක් පාලනය හෙබවූ ශ්‍රී ලංකාවේ ජනපතිවරණයට තරග කිරීමට මෙවර එක ම කාන්තාවක හෝ ඉදිරිපත්ව නැත.
+🟩
 
-ජනගහනයෙන් 52% වැඩි කාන්තාවන් සිටින ශ්‍රී ලංකාවේ, එකම කාන්තාවක්වත් ජනාධිපතිවරණයට තරග නොකළද ඊට ඉදිරිපත්ව සිටින පිරිමි අපේක්ෂකයන් ගණන 39ක් වන අතර එය මෑත ඉතිහාසයේ වැඩිම පිරිසක් අපේක්ෂකත්වය දරන ජනාධිපතිවරණය යි.
+Why does women not present the presidential election in Sri Lanka with more women's population?
 
-මෙරට ඉතිහාසය තුළ ජනාධිපතිරණය සඳහා අවස්ථා කිහිපයක දී කාන්තාවන් හතර දෙනෙකු තරග කර ඇති අතර ඉන් එක් අපේක්ෂිකාවක් දෙවතාවක්ම රටේ පාලන බලය ලබා ගැනීමට සමත් විය.
+The President has not yet come forward to contest the president's president's president twice.
 
-ජනාධිපතිවරණය 2024 : ඡන්ද දායකයෙකු ලෙස ඔබ දැනගත යුතු කරුණුජනාධිපතිවරණය 2024: ජනපති සටනට අපේක්ෂකයින් 39ක්
+Although Sri Lanka, who has more than 52% more women, is 39 candidates, but the highest number of candidates in the recent history.
 
-1988 පැවති ජනාධිපතිවරණයට සිරිමාවෝ බණ්ඩාරනායක අපේක්ෂිකාවක ලෙස ඉදිරිපත් වූ අතර 1994 දී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග හා ශ්‍රීමතී දිසානායක ප්‍රධාන පක්ෂ දෙකේ අපේක්ෂිකාවන් ලෙස තරග කළ අතර ඉන් චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග ජයග්‍රාහණය කළාය.
+Four women have contested at several times in the history of the country, and one candidate has been able to acquire the country twice.
+
+Presidential Election 2024: You should know as a voter 2024: President to fight
+
+Sirimavo, the 1988 presidential election, was contesting as a candidate for Sirimavo Bandaranaike and Sirmathi Dissanayake.
+
+Chandrika Bandaranaike Kumaratunga, who came forward for the presidential election in 1999, led the country to the country until 2005 and then the situation changed.
+
+Until 2005, no candidate was presented to the presidential election, as a candidate of the 2019 Presidential Election to the 2019 Presidential Election.
 
 ...
 
 [Data](articles/a1563f03.json)
+
+[Extended Data](ext_articles/a1563f03.ext.json)
 
 ---
 
@@ -2239,29 +2293,5 @@ The injured person has been admitted to the hospital, where his condition is wor
 [Data](articles/9baf072a.json)
 
 [Extended Data](ext_articles/9baf072a.ext.json)
-
----
-
-### New luxury airport shuttle service suspended after just 4 days
-
-*2024-08-19 21:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101359/new-luxury-airport-shuttle-service-suspended-after-just-4-days) · `en`
-
-The new luxury shuttle service which was recently launched to provide passenger transport services from the Bandaranaike International Airport (BIA) to the Colombo Fort Railway Station and the Multimodal Transport Centre (MMC) in Makumbura, has been temporally suspended effective from today (August 19).
-
-The relevant luxury bus service was initiated on August 15, however, it had faced immediate protests on the very same day.
-
-Specifically, the Airport-Fort Bus Employees’ Union had launched a bus strike on August 16 against the newly-initiated luxury airport shuttle service.
-
-In addition to this, the union had also lodged complaints with the Ministry of Transport and Highways as well as the Election Commission.
-
-The BIA taxi service associations had also expressed their support to the protest campaigns.
-
-Accordingly, after considering the concerns put forward, it has been decided to temporarily suspend the ‘Airport Terminal Shuttle Service’ after only four days of operation.
-
-...
-
-[Data](articles/4159a65e.json)
-
-[Extended Data](ext_articles/4159a65e.ext.json)
 
 ---

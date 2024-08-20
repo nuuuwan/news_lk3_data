@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 10:22:09**
+As of **2024-08-20 10:36:36**
 
 ## Newspaper Stats
 
-*Scraped **41,618** Articles*
+*Scraped **41,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,94 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,507
 dailyftlk | 2,687
-adalk | 3,827
+adalk | 3,828
 dailymirrorlk | 4,733
-adaderanalk | 4,869
+adaderanalk | 4,870
 tamilmirrorlk | 5,377
 virakesarilk | 6,601
-adaderanasinhalalk | 7,103
+adaderanasinhalalk | 7,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,614 (100.0%) of 41,618 articles have been extended.
+41,618 (100.0%) of 41,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### 2009க்கு முன் எடுத்தவரா நீங்கள்?
+### ක්ලබ් වසන්ත ඝාතන සැකකරුවන් අධිකරණය ට
+
+*2024-08-20 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200125) · `si`
+
+අතුරුගිරිය ටැටූ මධ්‍යස්ථානයක් තුළදී ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත නැමැත්තා ඇතුළු දෙදෙනෙකු වෙඩිතබා ඝාතනය කර තවත් සිව්දෙනෙකුට තුවාල සිදුකිරීමේ සිද්ධිය සම්බන්ධයෙන් බන්ධනාගාර ගතකර සිටින සැකකාරියක ඇතුළු සැකකරුවන් 11දෙනා අද (20) කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත යළි රැගෙන එන ලදි.
+
+අප වාර්තාකරු පැවසුවේ පොලිස් විශේෂ කාර්ය බළකායේ දැඩි ආරක්ෂාව මධ්‍යයේ සැකකරුවන් අධිකරණය වෙත රැගෙන ආ බවය.
+
+අදාළ සිද්ධිය සම්බන්ධයෙන් වූ නීති කෘත්‍යය අද දහවල් අධිකරණයේදී විභාගයට ගැනීමට නියමිතය.
+
+◼️
+
+[Data](articles/f57695d6.json)
+
+---
+
+### Are you the one who took before 2009?
 
 *2024-08-20 10:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2009க்கு-முன்-எடுத்தவரா-நீங்கள்/175-342491) · `ta`
 
-2009ஆம் ஆண்டுக்கு முன்னர் வழங்கப்பட்ட அனைத்து கனரக வாகன ஓட்டுநர் உரிமங்களையும் அடுத்த 3 மாதங்களுக்குள் இரத்துச் செய்ய நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+Heavy driving licenses issued before 2009 will be canceled over the next three months. The Motor Vehicle Transport Commissioner plans to complete the printing of 3 lakh previously unprintable licenses soon.
 
-பழைய சாரதி அனுமதிப்பத்திரங்கள் அனைத்தையும் இரத்துச் செய்வதன் கீழ் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக மோட்டார் வாகன போக்குவரத்து ஆணையாளர் நாயகம் நிஷாந்த அனுருத்த வீரசிங்க தெரிவித்துள்ளார்.
+🟩
 
-கடந்த காலங்களில் அச்சிட முடியாமல் குவிந்து கிடக்கும் 3 இலட்சம் சாரதி அனுமதிப்பத்திரங்களை அச்சிடும் பணி அடுத்த சில மாதங்களுக்குள் நிறைவடையும் எனவும் அவர் குறிப்பிட்டுள்ளார். R
+Steps have been taken to cancel all heavy driving licenses issued before 2009 within the next three months.
+
+Motor Vehicle Transport Commissioner General Nishantha Anurutha Weerasinghe said that the decision was taken under the cancellation of all the old driver's licenses.
+
+He also said that the printing of 3 lakh driver's licenses that are unable to print in the past will be completed within the next few months.. Remble
 
 ◼️
 
 [Data](articles/faadfdc8.json)
 
+[Extended Data](ext_articles/faadfdc8.ext.json)
+
 ---
 
-### இலங்கை - இந்திய படகு சேவையில் மாற்றம்
+### US intelligence officials say Iran is to blame for hacks targeting Trump, Biden-Harris campaigns
+
+*2024-08-20 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101364/us-intelligence-officials-say-iran-is-to-blame-for-hacks-targeting-trump-biden-harris-campaigns) · `en`
+
+U.S. intelligence officials said Monday they were confident that Iran was responsible for the hack of Donald Trump’s presidential campaign, casting the cyber intrusion as part of a brazen and broader effort by Tehran to interfere in American politics and potentially shape the outcome of the election.
+
+The assessment from the FBI and other federal agencies was the first time the U.S. government has assigned blame for hacks that have raised anew the threat of foreign election interference and underscored how Iran, in addition to more sophisticated adversaries like Russia and China, remains a top concern. Besides breaching the Trump campaign, officials also believe that Iran tried to hack into the presidential campaign of Kamala Harris.
+
+...
+
+[Data](articles/3ed532bd.json)
+
+---
+
+### Sri Lanka - Change in Indian Boat Service
 
 *2024-08-20 09:57:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-படகு-சேவையில்-மாற்றம்/175-342490) · `ta`
 
-போதியளவான முன்பதிவு இல்லாமை காரணமாக நாகப்பட்டினத்திற்கும், காங்கேசன்துறைக்குமான பயணிகள் கப்பல் சேவை வாரத்தில் 3 நாட்களுக்கு மட்டுப்படுத்தப்பட்டுள்ளதாக சிவகங்கை கப்பல் நிறுவனத்தின் பணிப்பாளர் நிரஞ்சன் தெரிவித்துள்ளார்.
+Due to low bookings, Sivaganga Shipping limits its passenger services to Nagapattinam and Kankesanthurai to Tuesdays, Thursdays, and Sundays weekly. This change remains effective until August 31st, with normal operations resuming from September 1st.
 
-எதிர்வரும் 31ஆம் திகதி வரையில் இந்த நடைமுறை காணப்படும் எனவும், பயணிகள் வருகை அதிகரிப்பின் அடிப்படையில், எதிர்வரும் செப்டம்பர் முதலாம் திகதி முதல் நாளாந்தம் குறித்த கப்பல் சேவையை முன்னெடுக்க எதிர்பார்த்துள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-இதற்கமைய, வாரத்தில் செவ்வாய், வியாழன் மற்றும் ஞாயிற்றுக்கிழமை ஆகிய மூன்று தினங்களில் மாத்திரமே நாகப்பட்டினத்திற்கும், காங்கேசன்துறைக்குமான பயணிகள் கப்பல் சேவை முன்னெடுக்கப்படும் என சிவகங்கை கப்பல் நிறுவனத்தின் பணிப்பாளர் நிரஞ்சன் தெரிவித்துள்ளார். R
+Sivaganga Shipping Company Director Niranjan said that due to inadequate booking, the passenger shipping service to Nagapattinam and Kankesanthurai has been limited for 3 days during the week.
+
+He added that the procedure will be seen until the 31st of this month and that the passenger attendance is expected to be carried out on the first day of September 1st.
+
+Accordingly, the passenger shipping service to Nagapattinam and Kankesanthurai will be carried out only on Tuesday, Thursday and Sunday a week, Sivaganga Shipping Director Niranjan said. Remble
 
 ◼️
 
 [Data](articles/7cd57e39.json)
+
+[Extended Data](ext_articles/7cd57e39.ext.json)
 
 ---
 
@@ -82,21 +124,27 @@ The first earthquake was reported at 4.7 Richter and the 2nd 4.8 magnitude.
 
 ---
 
-### විදෙස් රැකියා දෙන බවට මුදල් වංචා කළ පුද්ගලයෙක් අත්අඩංගුවට
+### Man arrested for defrauding foreign employment
 
 *2024-08-20 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200124) · `si`
 
-විදේශ රැකියා ලබාදෙන පවසමින් රුපියල් ලක්ෂ 24කට අධික මුදලක් වංචා කළ පුද්ගලයෙකු ගන්දර ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+In Gandandara, a man was arrested for defrauding over Rs., posing as a judge and lawyer. The arrest followed a raid based on a tip from the 119 Information Center. Investigations reveal three cases of financial fraud against him, with ongoing inquiries.
 
-පොලීසිය ප්‍රකාශ කළේ, 119 තොරතුරු මධ්‍යස්ථානයට ලැබුණු තොරතුරක් මත සිදුකළ වැටලීමකදී සැකකරු අත්අඩංගුවට ගෙන ඇති බවය.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු දිසා විනිසුරුවරයෙකු සහ නීතීඥවරයෙකු ලෙස පෙනී සිටිමින් ජර්මනියේ රැකියා ලබාදෙන පවසා රුපියල් ලක්ෂ 24කට අධික මුදලක් වංචා කර ඇති බවට පොලීසිය සිදුකළ විමර්ශනවලින් අනාවරණය වී තිබේ.
+A person arrested in Gandandara area for defrauding over Rs.
 
-මූල්‍ය වංචා සම්බන්ධයෙන් කෙසෙල්වත්ත පොලීසියට පැමිණිලි 03ක් ද ඉදිරිපත්ව ඇති අතර සිද්ධිය සම්බන්ධයෙන් ගන්දර පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Police stated that the suspect was arrested during a raid on information received by the 119 Information Center.
+
+Investigations have revealed that the suspect had appeared to be a district judge and a lawyer and he had cheated for more than Rs.
+
+Three complaints have come forward to the Kandarawatta Police regarding financial fraud and the incident is further investigations.
 
 ◼️
 
 [Data](articles/c252ba7d.json)
+
+[Extended Data](ext_articles/c252ba7d.ext.json)
 
 ---
 
@@ -123,6 +171,24 @@ However, Iranian officials had refused to do so, foreign media reports said.
 [Data](articles/008359ff.json)
 
 [Extended Data](ext_articles/008359ff.ext.json)
+
+---
+
+### කාන්තාවන් එක්ව කරන අලුත්ම සූදුවක් ආඳාඋල්පතින් නිතියේ රැහැනට
+
+*2024-08-20 09:16:46* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-එක්ව-කරන-අලුත්ම-සූදුවක්-ආඳාඋල්පතින්-නිතියේ-රැහැනට/11-411453) · `si`
+
+ලොතරැයි ටිකට් පත් දිනුම් අංක වලට මුදල් ඔට්ටු ඇල්ලූ කාන්තාවන් 14 දෙනෙකු ඊයේ (19) ආදාඋල්පත 13 කනුව ප්‍රදේශයේදී සැකපිට අත්අඩංගුවට ගත් බව රිදීමාලියද්ද පොලිසිය පවසයි .
+
+මොවුන් සන්තකයේ තිබී මුදල්  රුපියල් 7950ක්, දවසේ සීට්ටුව ලෙසින් නම් කර   කොටු සදහන් කර තිබූ කඩදාසි කොළ කීපයක් ද අත්අඩංගුවට ගනු ලැබිනයි පොලිසිය කීය .
+
+රිදීමාලියද්ද  ගලේයාය , බටුයාය , ආදාඋල්පත 13 කනුව ප්‍රදේශයේ පදිංචි අවුරුදු 28-48 අතර වයසේ පසුවෙන කාන්තාවන් පිරිසක් මෙසේ අත්අඩංගුවට ගත් බවද පොලිසිය පැවසීය .
+
+ලැබුණු තොරතුරක් මත රිදීමාලියද්ද පොලිසියේ නිලධාරීන්  වෙස්වලාගෙන ගොස්   ආදාඋල්පත 13 කනුව ප්‍රදේශයේ සිදු කල වැටලීමකදී  ලොතරැයි  මංඩලයේ දිනුම් අදින ලොතරැයි ටිකට් පත් වල සදහන් දිනුම් අංක වලට මුදල් ඔට්ටු අල්ලමින් සිටි මෙම කාන්තාවන් පිරිස අත්අඩංගුවට ගනු ලැබූ බවද පොලිසිය සදහන් කළේය .
+
+...
+
+[Data](articles/24c1fe67.json)
 
 ---
 
@@ -316,17 +382,23 @@ The Ada Derana reporter stated that after the final Randoli procession, the ritu
 
 ---
 
-### தலதா பெரஹராவை பார்வையிட்டார் ஜனாதிபதி
+### The President visited the Talada Perahara
 
 *2024-08-20 07:19:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/தலதா-பெரஹராவை-பார்வையிட்டார்-ஜனாதிபதி/46-342487) · `ta`
 
-கண்டி வரலாற்றுச் சிறப்புமிக்க தலதா மாளிகையின் வருடாந்த எசல பெரஹராவின் இறுதி ரந்தோலி பெரஹரா நேற்று (19) இரவு நடைபெற்றதுடன் ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் ஆயிரக்கணக்கான மக்களுடன் இணைந்து பெரஹராவைக் கண்டுகளித்தார்.
+President Ranil Wickremesinghe attended the Esala Perahara at the Kandy Historical Talada House, joined by key advisors and ministers, amidst thousands of spectators.
 
-இந்த நிகழ்வில், பேராசிரியர் மைத்ரி விக்ரமசிங்க மற்றும்  தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க, அமைச்சர் பந்துல குணவர்தன, இராஜாங்க அமைச்சர்களான அனுராத ஜயரத்ன, திலும் அமுனுகம, லொஹான் ரத்வத்தே, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோர் உள்ளிட்ட பலர் கலந்துகொண்டனர். (a)
+🟩
+
+President Ranil Wickremesinghe, who was held last night (19) of the annual Esala Perahara of the Kandy Historical Talada House, saw Perahara with thousands of people.
+
+At the event, Professor Maithri Wickremesinghe and President's Senior Advisor to the National Security and President of the President, Sagala Ratnayake, Minister Bandula Gunawardena, State Ministers Anuradha Jayaratne, Tilum Amunugama, Lohan Ratwatte, Secretary to the President. (A)
 
 ◼️
 
 [Data](articles/4ae1397b.json)
+
+[Extended Data](ext_articles/4ae1397b.ext.json)
 
 ---
 
@@ -2111,77 +2183,5 @@ Karunanidhi is the one who has made welfare programs to get quality education. M
 [Data](articles/39b6c2ce.json)
 
 [Extended Data](ext_articles/39b6c2ce.ext.json)
-
----
-
-### Notification to EC regarding new appointments
-
-*2024-08-19 17:48:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-நியமனங்கள்-குறித்து-EC-க்கு-அறிவிப்பு/175-342454) · `ta`
-
-The PAFREL has notified the Elections Commission about the appointment of two presidential advisers, which the Executive Director claims violates election laws and misuses public funds. The director criticizes the use of ministry vehicles for election campaigns and warns against such actions ahead of the presidential election.
-
-🟩
-
-While the current government has raised serious concerns over the election law, the PAFREL has informed the Elections Commission (PAFFREL) for the appointment of two president's advisers.
-
-The Executive Director of the February, Rohana Hettiarachchi, told the media that the appointment of two president's advisors was a violation of the election law and abuse public funds.
-
-“Both appointed as president's advisors are actively involved in the president's election campaign. This act of promoting a candidate was banned under the Election Act, ”he pointed out.
-
-"Also, allowances for both vehicles, including vehicles, are an abuse of public funds," he said.
-
-Meanwhile, Hettiarachchi said that the vehicles of five ministries have been used for election campaigns and 14 transfers have been made in violation of the election law.
-
-He further stressed that such activities cannot be forgiven before the presidential election.
-
-◼️
-
-[Data](articles/1b7b0006.json)
-
-[Extended Data](ext_articles/1b7b0006.ext.json)
-
----
-
-### 65 more election-related complaints within 24 hours as total exceeds 600
-
-*2024-08-19 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101355/65-more-election-related-complaints-within-24-hours-as-total-exceeds-600) · `en`
-
-The complaints received by the Election Commission of Sri Lanka related to the upcoming presidential election have further increased.
-
-The Election Commission says that 65 more complaints have been received within the past 24 hours, pertaining to the 2024 Presidential Election.
-
-Accordingly, a total of 631 election complaints have been reported between July 31 and today (19), the Election Commission said.
-
-This includes 346 complaints received by the national election-related complaints management centre and 285 complaints received by the district centres, according to the Election Commission.
-
-The Presidential Election is scheduled to be held on September 21 and Nominations will be accepted on August 15, 2024.
-
-◼️
-
-[Data](articles/0d326fda.json)
-
-[Extended Data](ext_articles/0d326fda.ext.json)
-
----
-
-### 65 election complaints within a day
-
-*2024-08-19 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200104) · `si`
-
-In the last 24 hours, the Elections Commission received 65 election complaints, with 30 going to the National Elections Complaint Management Center and 35 to the District Election Procedure Management Center. Since July 31, there have been 631 and 1831 complaints respectively.
-
-🟩
-
-The Elections Commission says that 65 election complaints have been received during the past 24 hours.
-
-The National Elections Complaint Management Center has complained to the National Elections Complaint Management Center and 30 complaints to the District Election Procedure Management Center.
-
-Meanwhile, 631 complaints have been received from July 31 and 1831 complaints from July 31.
-
-◼️
-
-[Data](articles/d6eb1bf8.json)
-
-[Extended Data](ext_articles/d6eb1bf8.ext.json)
 
 ---

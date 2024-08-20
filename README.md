@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 21:06:47**
+As of **2024-08-20 21:21:26**
 
 ## Newspaper Stats
 
-*Scraped **41,737** Articles*
+*Scraped **41,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,515
 dailyftlk | 2,687
-adalk | 3,842
+adalk | 3,843
 dailymirrorlk | 4,733
 adaderanalk | 4,888
 tamilmirrorlk | 5,400
@@ -26,23 +26,29 @@ adaderanasinhalalk | 7,126
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,735 (100.0%) of 41,737 articles have been extended.
+41,737 (100.0%) of 41,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### භාණ්ඩ මිල තවදුරටත් පහළ යන බව ජනපති කියයි
+### Prices will continue to fall further
 
 *2024-08-20 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200148) · `si`
 
-රුපියල ශක්තිමත් වෙමින් ඇති බවත් ඒ අනුව භාණ්ඩ මිල ඉදිරියේදී තවදුරටත් පහළ යන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Wickremesinghe predicts rupee strength, expects lower prices ahead, during a chat at the 2024 Esala Perahera's final Randoli Perahera event.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ 2024 ඇසළ පෙරහර මංගල්‍යයේ අවසන් රන්දෝලි මහ පෙරහර නැරඹීමට ඊයේ (19) එක්වීමෙන් අනතුරු පැමිණ සිටි ජනතාව සමග සුහද කතාබහක නිරතවෙමිනි.
+🟩
+
+President Ranil Wickremesinghe says that the rupee is getting stronger and the prices will continue.
+
+The President was speaking in a friendly conversation with the people who were watching the last Randoli Perahera of the 2024 Esala Perahera.
 
 ◼️
 
 [Data](articles/7de874f1.json)
+
+[Extended Data](ext_articles/7de874f1.ext.json)
 
 ---
 
@@ -387,6 +393,24 @@ The March 12 movement, Mr. Dilinda Vishara, his official resident of the preside
 [Data](articles/b6c1a1fd.json)
 
 [Extended Data](ext_articles/b6c1a1fd.ext.json)
+
+---
+
+### සීතල නිසා ළමා හතිය ඉහළට
+
+*2024-08-20 17:29:44* · [`adalk`](https://www.ada.lk/breaking_news/සීතල-නිසා-ළමා-හතිය-ඉහළට/11-411467) · `si`
+
+මෙම දිනවල පවතින වර්ෂාපතනයක් සමග රාත්‍රී කාලයේ හා උදෑසන පවත්නා සීතල හේතුවෙන් ළමා හතිය ඉහළ ගොස් ඇතැයිද මේ පිළිබඳ සැලකිලිමත් වී දරුවන් ළමා හතිය වැළඳීමෙන් ආරක්ෂා කරගන්නා ලෙසද කොළඹ රිජ්වේ ආර්යා ළමා රෝහලේ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+
+ළමයින් අතර කැස්ස, හුස්ම ගැනීමේ අපහසුව, රාත්‍රී කාලයේ පවතින කැස්ස වැනි ලක්ෂණ දිගටම පවතී නම් මෙය ළමා හතිය වශයෙන් හඳුනාගත හැකි බවද, බොහෝ විට ඉන්ෆ්ලුවෙන්සා රෝගයට පසුකාලීනවද මාසයක් පමණ කැස්ස පවතින බවද ළමා රෝග විශේෂඥ වෛද්‍යවරයා වැඩිදුරටත් පැවසුවේය.
+
+මින් පෙර හතිය වැළඳුණු අයට මෙන්ම මින් පෙර හතිය වැළඳී නැති අයටද හතිය වැළඳිය හැකි බව පෙන්වා දුන් විශේෂඥ වෛද්‍යවරයා ශීත කාලය සහ වර්ෂාව හේතුවෙන් තවමත් වෛරස් උණ පැතිරෙන තත්ත්වයක් දක්නට ලැබෙන බවද අවධාරණය කළේය.
+
+සීතලත් සමග දරුවන් එළිමහනට නොයවන ලෙසද, ඒසේ යවන්නේ නම් සීතල ආවරණය ඇඳුමක් අන්දවා යවන ලෙසද, අධික ශීතලෙන් දරුවන් ආරක්ෂා කරගැනීමට හිස් වැසුම් පළඳා යවන ලෙසද ඔහු වැඩිදුරටත් පැවසුවේය.
+
+...
+
+[Data](articles/a21fe22e.json)
 
 ---
 
@@ -899,6 +923,8 @@ The signing ceremony took place this evening at the Galadari Hotel, Colombo with
 ...
 
 [Data](articles/f565130b.json)
+
+[Extended Data](ext_articles/f565130b.ext.json)
 
 ---
 
@@ -2345,29 +2371,5 @@ Additionally, three complaints have been lodged with the Keselwatta Police regar
 [Data](articles/58aa806f.json)
 
 [Extended Data](ext_articles/58aa806f.ext.json)
-
----
-
-### Attack on Israel
-
-*2024-08-20 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200126) · `si`
-
-Hamas and Islamic Jihad took control of a religious center in Tel Aviv last Sunday, leading to a terrorist attack identified by Israeli authorities. The attacker, carrying a bomb, was killed, and another individual nearby was injured. The incident occurred in a crowded area, highlighting the threat posed by such attacks.
-
-🟩
-
-Last Sunday, Tel Aviva in Tel Aviva, the armed groups of Hamas and Islamic Jihad have taken over the responsibility of a religious center.
-
-Israeli police and Shinabeth intelligence service has been introduced as a terrorist attack.
-
-The person who was carrying the bomb was killed and another man was near it was injured.
-
-Police say that the man is carrying out the bomb to the crowded area.
-
-◼️
-
-[Data](articles/913a6f84.json)
-
-[Extended Data](ext_articles/913a6f84.ext.json)
 
 ---

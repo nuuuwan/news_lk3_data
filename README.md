@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 15:06:48**
+As of **2024-08-20 15:21:25**
 
 ## Newspaper Stats
 
-*Scraped **41,679** Articles*
+*Scraped **41,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,687
 adalk | 3,834
 dailymirrorlk | 4,733
 adaderanalk | 4,879
-tamilmirrorlk | 5,389
+tamilmirrorlk | 5,391
 virakesarilk | 6,615
 adaderanasinhalalk | 7,112
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,112
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,675 (100.0%) of 41,679 articles have been extended.
+41,679 (100.0%) of 41,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### மொட்டு புதிய கூட்டணியின் தலைவர் தினேஷ்?
+
+*2024-08-20 15:02:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-புதிய-கூட்டணியின்-தலைவர்-தினேஷ்/175-342515) · `ta`
+
+ரணில் விக்கிரமசிங்கவை ஆதரிக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர்களால் உருவாக்கப்படவுள்ள புதிய கூட்டணியின் தலைவர் பதவியை பிரதமர் தினேஷ் குணவர்தனவுக்கு வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+
+புதிய கூட்டணியை உருவாக்குவது தொடர்பான ஆரம்பக்கட்ட கலந்துரையாடல் செவ்வாய்க்கிழமை (20) காலை அலரிமாளிகையில் பிரதமர் தினேஷ் குணவர்தன தலைமையில் நடைபெற்றது.
+
+எதிர்வரும் தேர்தலில் இந்த புதிய கூட்டணியுடன் இணைந்து போட்டியிடவுள்ளதாக ஜனாதிபதியை ஆதரிக்கும் மக்கள் கட்சியின் மூத்த பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+
+ஜனாதிபதிக்கு ஆதரவளிக்க வரும் பொது மக்கள் முன்னணியின் மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றங்களின் பிரதிநிதிகளுக்கும் இந்த புதிய கூட்டணி திறக்கப்பட்டுள்ளதாக பாராளுமன்ற குழுவின் பேச்சாளர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/84781440.json)
+
+---
 
 ### Search resumes in Sicily yacht sinking with finance boss among missing
 
@@ -50,21 +68,29 @@ Most of those aboard the yacht were British, and the passengers were guests of L
 
 [Data](articles/afc7a47f.json)
 
+[Extended Data](ext_articles/afc7a47f.ext.json)
+
 ---
 
-### බස් රථ 4ක් ගිනිගෙන විනාශ වෙයි
+### 4 buses will be destroyed
 
 *2024-08-20 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200133) · `si`
 
-අලුත්වැඩියා කටයුතු සඳහා රැගෙනවිත් තිබූ නවීන පන්නයේ බස් රථ 4ක් අද (20) අලුයම එලෙස ගිනිතබා ඇත.
+Four modern public buses were intentionally set on fire early morning for renovation, as revealed by a nearby CCTV footage. The police believe the damage is significant but haven't disclosed the exact amount yet.
 
-අසල තිබූ CCTV කැමරාවක් පරීක්ෂා කිරීමේදී කිසියම් පුද්ගලයෙක් පැමිණ බස් රථවලට ගිනිතබා පළායන අයුරු සටහන්වී ඇති බවද අප වාර්තාකරු පැවසීය.
+🟩
 
-පොලීසිය පවසන්නේ ගින්නෙන් රුපියල් කෝටි 3ක පමණ හානියක් සිදුවූ ඇතැයි විශ්වාස කරන බවය.
+Four modern public buses were burned for the renovation morning (20).
+
+Our correspondent said that a nearby CCTV camera has come up with a manner to come and set fire to buses.
+
+Police say that the fire is believed to have been damaged in about Rs.
 
 ◼️
 
 [Data](articles/e5206477.json)
+
+[Extended Data](ext_articles/e5206477.ext.json)
 
 ---
 
@@ -85,6 +111,20 @@ Asoka Priyantha made his decision on Tuesday (20).
 [Data](articles/0ecd909f.json)
 
 [Extended Data](ext_articles/0ecd909f.ext.json)
+
+---
+
+### நாமலிடம் இருந்து தாவினார் அசோக
+
+*2024-08-20 14:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலிடம்-இருந்து-தாவினார்-அசோக/175-342514) · `ta`
+
+ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்த தீர்மானித்துள்ளார்.
+
+செவ்வாய்க்கிழமை (20)  இடம்பெற்ற கலந்துரையாடலில் கலந்து கொண்டு  அசோக பிரியந்த தனது தீர்மானத்தை தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d84ec486.json)
 
 ---
 
@@ -252,23 +292,29 @@ Meanwhile, on the 11th and 12th of September, the highest date for those who can
 
 ---
 
-### රට ගොඩදාපු නායකයාට විරුද්ධ වීමට පොහොට්ටුවට සදාචාරත්මක අයිතියක් නෑ
+### There is no moral right to resist the country to ruin the country
 
 *2024-08-20 13:00:59* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩදාපු-නායකයාට-විරුද්ධ-වීමට-පොහොට්ටුවට-සදාචාරත්මක-අයිතියක්-නෑ/11-411460) · `si`
 
-මිනිස්සු අපිට බලය දුන්නට අපේ නායකයෝ අපිව රැකගත්තද කියලා අපිට ගැටළුවක් තියෙනවා....
+Prasanna Ranatunga, the Urban Development and Housing Minister, argues against resistance to the government, emphasizing the lack of moral justification. He discusses the political landscape, highlighting alliances and the challenges faced by leaders and supporters alike. The narrative touches on the complexities of political power dynamics, leadership changes, and the impact on the nation's stability and future direction.
 
-රට ගොඩදාපු නායකයාට විරුද්ධ වීමට පොහොට්ටුවට සදාචාරත්මක අයිතියක් නැතැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+🟩
 
-අමාත්‍යවරයා අවධාරණය කරන්නේ පොහොට්ටුව ඇතුළු සියළුම දේශපාලන පක්ෂවලට නැවත රට තුළ දේශපාලනය කිරීමට හැකි වතාවරණයක් සැකසුවේ වත්මන් ජනාධිපතිවරයා බවයි.
+We have a problem that our leaders have protected us for power ....
 
-අමාත්‍ය ප්‍රසන්න රණතුංග මහතා  මේ බව කියා සිටියේ කුරුණෑලගල දිස්ත්‍රික්කයේ නිකවැරටිය ආසනයේ ජනාධිපතිවරණ ඒකාබද්ධ කමිටු පිහිටුවීමේ සාකච්ඡාවට ඊයේ (19) දින එක්වෙමිණි. එම සාකච්ඡාව නිකවැරටිය මහසෙන් ප්‍රවාහන සමුපකාර සමිති සම්මන්ත්‍රණ ශාලාවේදී පැවැත්වුණි.
+Urban Development and Housing Minister Prasanna Ranatunga says there is no moral right to the rush to resist the country.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මෙසේද පැවසීය,
+The Minister emphasizes that the present president was prepared to go back to politics in the country again.
+
+Minister Prasanna Ranatunga was speaking at a discussion held yesterday (19) in the incom of Kurunegala yesterday (19).. The discussion was held at the Mahasen Transport Co-operative Societies Hall of Nikaweratiya.
+
+Speaking further Minister Prasanna Ranatunga further said:
 
 ...
 
 [Data](articles/86bf85bd.json)
+
+[Extended Data](ext_articles/86bf85bd.ext.json)
 
 ---
 
@@ -332,23 +378,29 @@ The magistrate ordered the prison commissioner to provide them with the necessar
 
 ---
 
-### කිසිම අවස්ථාවක ජනාධිපතිවරයා සතු විධායක බලතල අහෝසි නොකළ යුතුයි
+### Never undo the President's executive powers
 
 *2024-08-20 12:51:56* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-අවස්ථාවක-ජනාධිපතිවරයා-සතු-විධායක-බලතල-අහෝසි-නොකළ-යුතුයි/11-411459) · `si`
 
-ජනාධිපතිවරයා සතු විධායක බලතල ඉවත් නොකල යුතුයි. එම තනතුරට සුදුසු පුද්ගලයකු පත්වී පාර්ලිමේන්තුවේ සිටින සොරුන් ඉවත්කර  දූෂණය සම්බන්ධයෙන් කටයුතු කරන ආයතන පිරිසිදු කල යුතු බව ජනාධිපති අපේක්ෂක සරත් ෆොන්සේකා මහතා පැවසීය.
+Sarath Fonseka argues against removing presidential executive powers, emphasizing the need for a competent leader to tackle corruption and improve sectors like agriculture and fisheries. He criticizes the current Parliament majority for being corrupt and calls for independent, intelligent action to address national issues.
 
-ඒ මහතා මේ බව කියා සිටියේ පෙරේදා (19දා) පස්වරුවේ ඓතිහාසික රුවන්වැලි සෑ රදුන් වැඳ පුදා ගෙන ආශිර්වාද ලබා ගැනීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් පල කරමින්ය.
+🟩
 
-"දූෂිත දේශපාලන සංස්කෘතිය මේ වන විට රටම ගිල ගෙන තිබෙනවා. මෙම තත්ත්වයෙන් මිදීමට පක්ෂ වලට වහල් නොවී ස්වාධීනව සහ බුද්ධිමත්ව කටයුතු කර ජාතික නායකයන්ට රට භාර දීමට සියලු දෙනා කටයුතු කල යුතුයි.
+The President should not remove the executive powers of the president. The presidential candidate Sarath Fonseka said that a suitable person to the post should be removed and the corruption in the Parliament should be cleaned.
 
-එකම කණ්ඩායමක් විවිධ දේශපාලන පක්ෂ නිර්මාණය කර ගනිමින් ජනතාව ළඟට පැමිණියද ඔවුන්ගේ මානසිකත්වය වෙනස්වී  නැහැ.මොවුන් කිසි විටක රට ගැන හෝ රටේ අනාගතය ගැන පිළිබඳව සිත කටයුතු කරන්නේ නැහැ.
+He was speaking to the media after the historic Ruwanweli was bowned and blessed by the historic Ruwani.
 
-සමගි ජන බලවේගයේ දොරගුළු විවෘත කරමින් ඕනෑම සොරෙකුට වුවද පක්ෂයට එක්වීමට අවස්ථා උදා කර තිබෙනවා.ඒ නිසා මට  එම පක්ෂය තුල අභිමානයෙන් යුතුව කටයුතු කිරීමට හැකියාවක් නැති නිසා තමයි  ඉවත් වුනේ. පරිණත බව හා නායකත්වය ලබා දීමට නොහැකි පුද්ගලයන් ජනාධිපති අපේක්ෂකත්වයට සුදුසු නැහැ.
+"The corrupt political culture has already swallowed the country by now. Not slaves to parties to get rid of this situation, everyone should act independently and intelligently to the national leaders.
+
+The same group came to the people, but their mindset has never changed.
+
+Samagi-opening the doors of the people's architecture has been given opportunities to join the party.. People who cannot afford to mature and leadership are not suitable for presidential candidate.
 
 ...
 
 [Data](articles/1f2b95ef.json)
+
+[Extended Data](ext_articles/1f2b95ef.ext.json)
 
 ---
 
@@ -2267,47 +2319,5 @@ The struggle will be carried out in the arrangement of the Disappeared Relations
 [Data](articles/33d63f6b.json)
 
 [Extended Data](ext_articles/33d63f6b.ext.json)
-
----
-
-### Workshop on “21 powerful Japanese methods to create organisation excellence”
-
-*2024-08-20 02:07:46* · [`dailyftlk`](https://www.ft.lk/business/Workshop-on-21-powerful-Japanese-methods-to-create-organisation-excellence/34-765737) · `en`
-
-The National Chamber of Commerce of Sri Lanka (NCCSL) has scheduled an insightful workshop titled “21 powerful Japanese methods to create organisation excellence” on Thursday 22 August from 9 a.m. to 12:30 p.m. at the National Chamber Auditorium.
-
-Sunil G. Wijesinha will be the resource person for this session, who is a well–known promoter of Japanese Techniques and Productivity. He is recognised as the pioneer who implemented many Japanese Techniques in Sri Lanka from as far back as 1980. He has followed many training programs in Japan. He is a past President of Japan Sri Lanka Technical & Cultural Association (JASTECA) and a past Chairman of JASTECA Trust. He received the APO Regional Award for promoting productivity in the Asia Pacific region. Last year the Government of Japan conferred on him the “Order of the Rising Sun, Gold and Silver Rays” for promoting relations between Japan and Sri Lanka by promoting Japanese management techniques in Sri Lanka.
-
-...
-
-[Data](articles/900b2843.json)
-
-[Extended Data](ext_articles/900b2843.ext.json)
-
----
-
-### Are carrying the line over the line
-
-*2024-08-20 02:05:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரிக்கு-மேல்-வரியை-சுமத்தி-வருகின்றனர்/175-342483) · `ta`
-
-Opposition leader Sajith Premadasa criticizes the government for allegedly favoring the wealthy through IMF agreements, claiming it robs the ETF and EPF. He urges dedication from leaders and promises a comprehensive economic growth strategy to combat poverty, contrasting with the current policy that has impoverished half the nation.
-
-🟩
-
-The economy that protects a particularly wealthy class is now found in the country. Opposition leader Sajith Premadasa said that through the IMF agreement, the ETF and EPF of the EPF are being robbed and defending the first -class rich in the country.
-
-Everyone should act with dedication if it is dedicated. Those who are in power must first act with dedication. The head of the country must act with maximum commitment. He imposes the tax burden on the people.
-
-IMF is the idea that it is deceiving people, even if the president has instead of what we are doing. The IMF contract is not mentioned in such a thing. The opposition leader said the government was trying to inconvenience the people.
-
-He said this while addressing the Presidential Election Campaign held on Sunday (19) in front of the Nawalapitti Bus Stand.
-
-At the time of the country's deterioration. He said he would build an economic age that would create a comprehensive economic growth of the country and provide its replica.
-
-...
-
-[Data](articles/910eccd3.json)
-
-[Extended Data](ext_articles/910eccd3.ext.json)
 
 ---

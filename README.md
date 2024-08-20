@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 15:21:25**
+As of **2024-08-20 15:36:39**
 
 ## Newspaper Stats
 
-*Scraped **41,681** Articles*
+*Scraped **41,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ dailyftlk | 2,687
 adalk | 3,834
 dailymirrorlk | 4,733
 adaderanalk | 4,879
-tamilmirrorlk | 5,391
+tamilmirrorlk | 5,392
 virakesarilk | 6,615
-adaderanasinhalalk | 7,112
+adaderanasinhalalk | 7,113
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,679 (100.0%) of 41,681 articles have been extended.
+41,679 (100.0%) of 41,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### ප්‍රාණඇපකරුවන් 6 දෙනෙකුගේ සිරුරු හමුවෙයි
+
+*2024-08-20 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200134) · `si`
+
+ඊශ්‍රායල ප්‍රාණඇපකරුවන් 6 දෙනෙකුගේ සිරුරු ගාසා තීරයෙන් සොයාගත් බව ඊශ්‍රායල ආරක්ෂක හමුදාව පවසයි.
+
+ගාසා තීරයේ ඛාන් යුනිස් ප්‍රදේශයෙන් එම 6 දෙනාගේ සිරුරු ඊයේ (19) සොයාගෙන තිබුණි.
+
+ජාත්‍යන්තර මාධ්‍ය වාර්තා කරන්නේ තවත් ඊශ්‍රායල ප්‍රාණඇපකරුවන් 109ක් හමාස් සටන්කරුවන් භාරයේ සිටින බවයි.
+
+එම පිරිස 2023 ඔක්තෝබර් 07 වනදා හමාස් සටන්කාමීන් දියත්කළ ප්‍රහාරය අතරතුරදී පැහැර ගැනුණි.
+
+ඔවුන් බේරාගැනීම සඳහා ඊශ්‍රායල රජය කටයුතු කළ යුතු බව ප්‍රාණඇපකරුවන්ගේ ඥාතීහු පවසති.
+
+◼️
+
+[Data](articles/c6ce0345.json)
+
+---
 
 ### மொட்டு புதிய கூட்டணியின் தலைவர் தினேஷ்?
 
@@ -47,6 +67,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/84781440.json)
+
+---
+
+### மொட்டுவின் புதிய கூட்டணிக்கு புதிய தலைவர்
+
+*2024-08-20 15:02:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவின்-புதிய-கூட்டணிக்கு-புதிய-தலைவர்/175-342515) · `ta`
+
+ரணில் விக்கிரமசிங்கவை ஆதரிக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர்களால் உருவாக்கப்படவுள்ள புதிய கூட்டணியின் தலைவர் பதவியை பிரதமர் தினேஷ் குணவர்தனவுக்கு வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+
+புதிய கூட்டணியை உருவாக்குவது தொடர்பான ஆரம்பக்கட்ட கலந்துரையாடல் செவ்வாய்க்கிழமை (20) காலை அலரிமாளிகையில் பிரதமர் தினேஷ் குணவர்தன தலைமையில் நடைபெற்றது.
+
+எதிர்வரும் தேர்தலில் இந்த புதிய கூட்டணியுடன் இணைந்து போட்டியிடவுள்ளதாக ஜனாதிபதியை ஆதரிக்கும் மக்கள் கட்சியின் மூத்த பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+
+ஜனாதிபதிக்கு ஆதரவளிக்க வரும் பொது மக்கள் முன்னணியின் மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றங்களின் பிரதிநிதிகளுக்கும் இந்த புதிய கூட்டணி திறக்கப்பட்டுள்ளதாக பாராளுமன்ற குழுவின் பேச்சாளர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/b7e7ea90.json)
 
 ---
 
@@ -2279,45 +2317,5 @@ The National Chamber of Commerce of Sri Lanka and NEDA have been assisting the M
 [Data](articles/c36afa90.json)
 
 [Extended Data](ext_articles/c36afa90.ext.json)
-
----
-
-### Creative Catalyst Fellowship completes intensive residency program
-
-*2024-08-20 02:10:52* · [`dailyftlk`](https://www.ft.lk/business/Creative-Catalyst-Fellowship-completes-intensive-residency-program/34-765738) · `en`
-
-A group picture of all Creative Catalyst Fellowship Cohorts and Good Life X Team
-
-A retrospective session for Cohorts conducted by GoodLifeX Founder Randhula De Silva
-
-Good Life X recently concluded the intensive residency program of the Creative Catalyst Fellowship (CCF), funded through the United States Agency for International Development – supported Promoting Positive Information (PRO-INFO) project, by bringing together ten creatives from across Sri Lanka to collaborate, experiment, and develop creative content under the theme “Climate Positive.” This two-week intensive residency took place at Diyabubula, the Barberyn Art & Jungle Hideaway, the artistic abode of the late Laki Senanayake. The residency at Diyabubula, curated by Randhula de Silva, Founder of GLX, brought together experts from various fields, including science, innovation, art, design thinking, ecology, conservation and regeneration.
-
-...
-
-[Data](articles/ee66bc55.json)
-
-[Extended Data](ext_articles/ee66bc55.ext.json)
-
----
-
-### Struggle today
-
-*2024-08-20 02:09:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குத்தொடுவாயில்-இன்று-போராட்டம்/175-342484) · `ta`
-
-Protest planned in Mullaitivu, focusing on human rights issues, led by Marisarez Eswari of the Mullaitivu District Missing Relations. The event aims to seek justice for unidentified burials, organized by the Disappeared Relations Association.
-
-🟩
-
-Mullaitivu, Kokkuttuvai, will be held on Tuesday in front of the human burial ground.
-
-Marisarez Eswari, president of the Mullaitivu District Missing Relations, said this.
-
-The struggle will be carried out in the arrangement of the Disappeared Relations Association seeking justice for human burials, including Kokkuttoduvai.. (A)
-
-◼️
-
-[Data](articles/33d63f6b.json)
-
-[Extended Data](ext_articles/33d63f6b.ext.json)
 
 ---

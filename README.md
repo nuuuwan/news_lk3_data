@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 09:56:20**
+As of **2024-08-20 10:10:27**
 
 ## Newspaper Stats
 
-*Scraped **41,613** Articles*
+*Scraped **41,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,687
 adalk | 3,827
 dailymirrorlk | 4,733
 adaderanalk | 4,869
-tamilmirrorlk | 5,373
+tamilmirrorlk | 5,374
 virakesarilk | 6,601
 adaderanasinhalalk | 7,102
 
@@ -26,29 +26,47 @@ adaderanasinhalalk | 7,102
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,611 (100.0%) of 41,613 articles have been extended.
+41,613 (100.0%) of 41,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
 
-### ට්‍රම්ප් පිටුපස ඉරානය - බුද්ධි අංශ තහවුරු කරයි
+### இந்தியாவில் அடுத்தடுத்து இரண்டு நிலநடுக்கங்கள்
+
+*2024-08-20 09:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-அடுத்தடுத்து-இரண்டு-நிலநடுக்கங்கள்/175-342489) · `ta`
+
+முதல் நிலநடுக்கம் 4.7 ரிக்டர் அளவிலும், 2 வது 4.8 ரிக்டர் ஆகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/9597512c.json)
+
+---
+
+### Iran in the back of Trump - intelligence confirms
 
 *2024-08-20 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200123) · `si`
 
-ඩොනල්ඩ් ට්‍රම්ප්ගේ මැතිවරණ ව්‍යාපාරයට අනවසරයෙන් ඇතුළුවීම පිටුපස ඉරානය සිටින බව අමෙරිකානු බුද්ධි අංශ තහවුරු කර තිබේ.
+US intelligence confirms Iran interfered in Trump's election campaign, aiming to influence the outcome. The FBI and other agencies were briefed on this interference. Iran allegedly tried to help Trump win but denied involvement, according to foreign media reports.
 
-FBI සහ අනෙකුත් ආයතන එක්ව ඒකාබද්ධ ප්‍රකාශයක් නිකුත් කරමින් මේ බව දැනුම් දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-අමෙරිකාවේ ප්‍රජාතන්ත්‍රවාදී ආයතන කෙරෙහි අසමගියක් ඇතිකිරීමට සහ විශ්වාසය බිඳදැමීමේ අරමුණින් ඉරානය විසින් අමෙරිකානු මැතිවරණයට මැදිහත් වී ඇති බව අදාළ වාර්තාවේ සඳහන්ය.
+The US intelligence has established Iran that there is Iran in the back of the election of Donald Trump's election campaign.
 
-ඩොනල්ඩ් ට්‍රම්ප්ගේ මැතිවරණ ව්‍යාපාරයට මෙම මස මුලදී අභ්‍යන්තර පණිවුඩයක් අනවසරයෙන් ඇතුළු වීම සම්බන්ධයෙන් ඉරානයට චෝදනා එල්ල වුණි.
+Foreign media reports that FBI and other institutions have been informed by a joint statement.
 
-කෙසේවෙතත් ඉරාන නිලධාරීන් විසින් එය ප්‍රතික්ෂේප කර තිබූ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+The report states that Iran has intervened to establish and demolish the US in the US, the US.
+
+Iran was accused of unaware of an internal internal message to the election campaign of Donald Trump's election campaign.
+
+However, Iranian officials had refused to do so, foreign media reports said.
 
 ◼️
 
 [Data](articles/008359ff.json)
+
+[Extended Data](ext_articles/008359ff.ext.json)
 
 ---
 
@@ -67,6 +85,8 @@ He also addressed criticisms, arguing that it is inaccurate to claim that previo
 ...
 
 [Data](articles/75b46bc4.json)
+
+[Extended Data](ext_articles/75b46bc4.ext.json)
 
 ---
 
@@ -2187,35 +2207,5 @@ However, Ilankai Tamil Arashiyu MP Shaansenamanikkam said that the major preside
 [Data](articles/7cceadfe.json)
 
 [Extended Data](ext_articles/7cceadfe.ext.json)
-
----
-
-### Memories of the past of the photos!
-
-*2024-08-19 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191440) · `ta`
-
-Photos capture moments, immortalizing them for future generations. They remind us of growth and change over time, celebrating milestones like birthdays. Poet Vairamuthu's verse, "Don't carry old age, run as a child," resonates with us when viewing old photos, evoking both joyous and poignant memories. Photography, beyond being a mere hobby, is an art form that conveys photographers' talents and ideas. Its evolution, from the Daguerreotype Process in the 19th century to modern digital cameras, reflects humanity's fascination with capturing reality. Today, photography continues to play a crucial role in documenting our world, from personal snapshots to historical images like the iconic "Tank Man" photo. Recognizing the impact of photography, World Photo Day serves as a reminder of its power to convey stories and emotions, making it a vital part of our cultural heritage.
-
-🟩
-
-Photos are the ones that we live in and live in this world forever!
-
-The indirect meaning that we celebrate birthdays is that one year has increased in our lives. The photos taken during the passing of years have been reminiscent of the time they have passed and keep us young.
-
-When we look at those photos in the present, we have a refreshing thing that we will go for that time!
-
-Poet Vairamuthu's concept poetry is "Do not carry out the old age, and run the child ..". When we look at our old photos, these lines are the ones that tap our minds. They are the treasures of the time that bring the happy moments and tragic events in our lives.
-
-Photo is not a movie alone. It is a classic art that expresses the talent of photographers.
-
-It is their artistic art for the famous photographers to express many ideas at the same time.
-
-At the beginning of the 19th century, Louis Daguerre and Joseph Nicephore Niepee designed the operational method of the photo known as "Daguerreotype Process".
-
-...
-
-[Data](articles/44260517.json)
-
-[Extended Data](ext_articles/44260517.ext.json)
 
 ---

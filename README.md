@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 18:56:01**
+As of **2024-08-20 19:06:43**
 
 ## Newspaper Stats
 
-*Scraped **41,723** Articles*
+*Scraped **41,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,515
 dailyftlk | 2,687
-adalk | 3,838
+adalk | 3,839
 dailymirrorlk | 4,733
 adaderanalk | 4,885
 tamilmirrorlk | 5,396
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,123
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,721 (100.0%) of 41,723 articles have been extended.
+41,721 (100.0%) of 41,724 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1668,6 +1668,26 @@ Chairman of the Elections Commission RM VLethani, which claims this,
 
 ---
 
+### චොකලට් සොරකම් කළ වෛද්‍යවරිය අල්ලයි
+
+*2024-08-20 11:28:24* · [`adalk`](https://www.ada.lk/breaking_news/චොකලට්-සොරකම්-කළ-වෛද්‍යවරිය-අල්ලයි/11-411458) · `si`
+
+කිරිබත්ගොඩ මාකොළ පාරේ පිහිටි පෞද්ගලික සමාගමකට අයත් සුපිරි වෙළෙඳ හලකින් නිකිණි පොහොය දින රුපියල් පන්දාහක් පමණ වටිනා ආහාරමය ද්‍රව්‍ය සොරකම් කළ බව කියන වෛද්‍යවරියක ඊයේ (19) අත්අඩංගුවට ගත් බව කිරිබත්ගොඩ පොලිසිය පවසයි
+
+මෙම කාන්තාව මුදල් නොගෙවා හොර රහසේ රුපියල් එක් දහස් හාර සියයක් (1400) මිල සදහන් තේකුඩු පැකට් එකක් අරගෙන වෙළෙද හලින් පිටව යාමට සූදානම් වෙත්දී ආරක්ෂක අංශය විසින් අල්ලාගෙන ආයතන විධායක නිලධාරීනියට භාරදී ඇත.
+
+එම නිලධාරිනිය මෙම කාන්තාවගේ ගමන් මල්ල පරීක්ෂා කිරීමේදී එහි තිබූ බිල්පත් නොමැති ජනප්‍රිය වර්ගවල ග්‍රෑම් 160 බැගින් බරැති  චොකලට් තුනක් ,උකුකළ කිරි ටින් එකක්,හා සොසේජස් පැකට් එකක් සොයා ගැනීමට හැකිවී ඇත.
+
+පසුව මෙම කාන්තාව කිරිබත්ගොඩ පොලිසියට භාරදී ඇත.එහිදී කළ විමර්ශනවලදී සොරකම් කළ භාණ්ඩ පිළිබඳවත් සැකකාරිය පිළිබදවත් තොරතුරු අනාවරණය වීඇත.
+
+දැනටත් රජයේ රෝහලක සේවය කරන කැලණිය ප්‍රදේශයේ පදිංචි 54 හැවිරිදි වෛද්‍යවරිය මහර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට කටයුතු යොදා ඇත.
+
+...
+
+[Data](articles/78040c75.json)
+
+---
+
 ### More than 3,000 people are affected by heavy rains
 
 *2024-08-20 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191501) · `ta`
@@ -2327,29 +2347,5 @@ When the people were given relief during the reign of Ranasinghe Premadasa, the 
 [Data](articles/41ef55b6.json)
 
 [Extended Data](ext_articles/41ef55b6.ext.json)
-
----
-
-### Man arrested for defrauding foreign employment
-
-*2024-08-20 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200124) · `si`
-
-In Gandandara, a man was arrested for defrauding over Rs., posing as a judge and lawyer. The arrest followed a raid based on a tip from the 119 Information Center. Investigations reveal three cases of financial fraud against him, with ongoing inquiries.
-
-🟩
-
-A person arrested in Gandandara area for defrauding over Rs.
-
-Police stated that the suspect was arrested during a raid on information received by the 119 Information Center.
-
-Investigations have revealed that the suspect had appeared to be a district judge and a lawyer and he had cheated for more than Rs.
-
-Three complaints have come forward to the Kandarawatta Police regarding financial fraud and the incident is further investigations.
-
-◼️
-
-[Data](articles/c252ba7d.json)
-
-[Extended Data](ext_articles/c252ba7d.ext.json)
 
 ---

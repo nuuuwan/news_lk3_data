@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 20:36:54**
+As of **2024-08-20 20:55:48**
 
 ## Newspaper Stats
 
-*Scraped **41,734** Articles*
+*Scraped **41,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,515
 dailyftlk | 2,687
-adalk | 3,841
+adalk | 3,842
 dailymirrorlk | 4,733
 adaderanalk | 4,887
 tamilmirrorlk | 5,400
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,125
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,733 (100.0%) of 41,734 articles have been extended.
+41,733 (100.0%) of 41,735 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -155,6 +155,22 @@ Ollie Pope will captain England in the absence of Stokes, while keeper Jamie Smi
 [Data](articles/8deb8264.json)
 
 [Extended Data](ext_articles/8deb8264.ext.json)
+
+---
+
+### දේශපාලනයෙන් විශ්‍රාම ගෙන සිටි ජනපතිට ආයේ පාර්ලමේන්තු එන්න කීවේ නවින්
+
+*2024-08-20 19:16:46* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලනයෙන්-විශ්‍රාම-ගෙන-සිටි-ජනපතිට-ආයේ-පාර්ලමේන්තු-එන්න-කීවේ-නවින්/11-411472) · `si`
+
+දේශපාලනයෙන් විශ්‍රාම ගෙන සිටිජනපති රනිල් වික්‍රමසිංහ මහතාට එජාප ජාතික ලැයිස්තු මන්ත්‍රීධුරය භාරගෙන නැවත පාර්ලිමේන්තුවට පැමිණෙන ලෙස මුලින්ම යෝජනා කළේ සබරගමු ආණ්ඩුකාරවර නවින් දිසානායක මහතා බව ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා අද (20දා) පැවසීය.
+
+ඒ මහතා මෙම අදහස් පලකළේජනාධිපති රනිල් වික්‍රමසිංහ මහතා නැවතත් ජනාධිපති කරලිමේ අරමුණින් සංවිධානය කෙරෙන ‘පුළුවන් ශ්‍රි ලංකා‘ කෑගල්ලලේ පැවති ඒකාබද්ධ සමුළු රැස්වීමේ ප්‍රධාන ආරාධිතයා ලෙස එක්වෙමිනි.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ සාගල රත්නායක මහතා පැවසුවේ පසුගිය කාල සීමාවේ ශ්‍රි ලංකාවේ ආර්ථිකය පැවැති ආකාරය ,අස්වැසුම ක්‍රමය තුළින් දිළිදුභාවය තුරන් කිරිමට සහය දුන් අයුරු ,උද්ධමනය පෙර පැවැති තත්ත්වය සහ දැන් තිබෙන්නවා වු තත්ත්වය පිළිබඳව ද රටේ පක්ෂ පාට බේදයකින් තොරව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නැවතත් ජනාධිපති කරලිමේ අරමුණින් සියලු  එකතුවෙන ලෙස ආරාධනා කරන බවත්  1956 න් පසු ප්‍රථම වතාවට යළිත් එක අරමුණකින් පක්ෂ පාට බේදයකින් තොරව සියලු දෙනා එකමුතු වි ඇති බවයි.
+
+...
+
+[Data](articles/02b1f7d7.json)
 
 ---
 
@@ -834,11 +850,9 @@ The event was chaired by Minister of Power and Energy Kanjana Wijesekera and Ind
 
 *2024-08-20 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101375/mou-inked-to-develop-infrastructure-for-sobadhanavi-lng-power-plant-) · `en`
 
-A memorandum of understanding (MoU) was signed, a short while ago, to develop infrastructure for the storage, regasification and supply of liquefied natural gas (LNG) for the Sobadhanavi Combined Cycle Power Plant at Kerawalapitiya.
+A significant milestone in Sri Lanka’s energy sector unfolded today (20) with the signing of a Memorandum of Understanding (MOU) between LTL Holdings Limited of Sri Lanka and Petronet LNG Limited of India, for the development of infrastructure for the storage, regasification and supply of Liquefied Natural Gas (LNG) for the “Sobadhanavi” Combined Cycle Power Plant in Kerawalapitiya.
 
-The agreement was signed between Sri Lanka’s LTL Holdings Limited and India’s Petronet LNG Limited, under the patronage of the Minister of Power and Energy Kanchana Wijesekara and the Deputy High Commissioner of India in Sri Lanka Dr. Satyanjal Pandey.
-
-The 350 MW LNG-based Combined Cycle Power Plant ‘Sobadhanavi’ is a landmark power project currently underway in the country and once commissioned it would be the largest IPP in the country and the first power plant to operate with LNG, paving way for the country to transition to greener forms of power generation from conventional thermal power.
+The signing ceremony took place this evening at the Galadari Hotel, Colombo with the Chief Executive Officer of LTL Holdings Limited Mr. Nuhuman Marikkar and Chief Executive Officer and Managing Director of Petronet LNG Company Mr. Akshay Kumar Singh signing the agreement on behalf of their respective organizations.
 
 ...
 
@@ -2363,27 +2377,5 @@ In the letter of Rajapakse, Namal explained the importance of organizing this ki
 [Data](articles/9b43b529.json)
 
 [Extended Data](ext_articles/9b43b529.ext.json)
-
----
-
-### Club spring murder suspects at court
-
-*2024-08-20 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200125) · `si`
-
-Eleven suspects, including one killed beforehand, appeared in court. The case will be heard later.
-
-🟩
-
-The 11 suspects including a suspect, who had been shot dead in an Athurugiriya area, was shot dead to the Kaduwela Magistrate's Court today (20).
-
-Our correspondent said that the suspects were brought to court centrally.
-
-The legal function of the incident is to be heard in court this afternoon.
-
-◼️
-
-[Data](articles/f57695d6.json)
-
-[Extended Data](ext_articles/f57695d6.ext.json)
 
 ---

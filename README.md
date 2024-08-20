@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 22:55:02**
+As of **2024-08-20 23:06:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,748 (100.0%) of 41,749 articles have been extended.
+41,749 (100.0%) of 41,749 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -494,21 +494,27 @@ Former Health Minister Keheliya Rambukwella as respondents, the Secretary Genera
 
 ---
 
-### නාමල්ගේ ළඟ හිටිය අශෝක ප්‍රියන්ත ජනපතිට
+### Ashoka Priyantha President arrived at Namalgama
 
 *2024-08-20 18:07:29* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-ළඟ-හිටිය-අශෝක-ප්‍රියන්ත-ජනපතිට/11-411470) · `si`
 
-ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ජනපතිවරණයේ දී  සහාය පළ කිරීමට තීරණය කර තිබේ.
+Minister Asoka Priyantha switches support from Namal Rajapaksa to President Ranil Wickremesinghe after a meeting at Temple Trees. He contested from Puttalam District in the last general election.
 
-අශෝක ප්‍රියන්ත මහතා මීට පෙර නාමල් රාජපක්ෂ මහතාට සහාය පළ කරන්නට තීරණය කර තිබුණි.
+🟩
 
-අශෝක ප්‍රියන්ත මහතා ඊයේ (20)පෙරවරුවේ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන්  කොළඹ අරලියගහ මන්දිරයේ දී පැවති සාකච්ඡාවකට සහභාගී වී තම තීරණය දැනුම් දී ඇත.
+The Minister of Home Affairs Asoka Priyantha has decided to support President Ranil Wickremesinghe in the President.
 
-අශෝක ප්‍රියන්ත මහතා ඉකුත් මහ මැතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණ යටතේ පුත්තලම දිස්ත්‍රික්කයෙන් තරඟ කොට පාර්ලිමේන්තුවට තේරී පත්විය.
+Asoka Priyantha had previously decided to support Namal Rajapaksa.
+
+Asoka Priyantha has been informed of a meeting held at Temple Trees yesterday (20).
+
+Mr. Asoka Priyantha was contesting from the Puttalam District under the Sri Lanka Civil Appointment in the past general election.
 
 ◼️
 
 [Data](articles/952a32c8.json)
+
+[Extended Data](ext_articles/952a32c8.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 11:07:35**
+As of **2024-08-20 11:21:23**
 
 ## Newspaper Stats
 
-*Scraped **41,628** Articles*
+*Scraped **41,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,511
 dailyftlk | 2,687
-adalk | 3,828
+adalk | 3,829
 dailymirrorlk | 4,733
 adaderanalk | 4,872
 tamilmirrorlk | 5,377
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,105
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,625 (100.0%) of 41,628 articles have been extended.
+41,628 (100.0%) of 41,629 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ A 24-year-old resident of the Kottukachchiya area has been arrested by the polic
 
 [Data](articles/e9da1fe2.json)
 
+[Extended Data](ext_articles/e9da1fe2.ext.json)
+
 ---
 
 ### Suspect arrested for defrauding over Rs. 2.4 mln promising jobs in Germany
@@ -70,45 +72,31 @@ Additionally, three complaints have been lodged with the Keselwatta Police regar
 
 [Data](articles/58aa806f.json)
 
+[Extended Data](ext_articles/58aa806f.ext.json)
+
 ---
 
-### ඊශ්‍රායලයේ ඇතුළටම ගොස් සිදුකළ ප්‍රහාරය
+### Attack on Israel
 
 *2024-08-20 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200126) · `si`
 
-පසුගිය ඉරිදා ඊශ්‍රායලයේ ටෙල් අවීව් නගරයේ ආගමික මධ්‍යස්ථානයක් අසල සිදුකළ බෝම්බ ප්‍රහාරයේ වගකීම හමාස් සහ ඉස්ලාමික් ජිහාඩ් සංවිධාන වල සන්නද්ධ කණ්ඩායම් භාරගෙන තිබේ.
+Hamas and Islamic Jihad took control of a religious center in Tel Aviv last Sunday, leading to a terrorist attack identified by Israeli authorities. The attacker, carrying a bomb, was killed, and another individual nearby was injured. The incident occurred in a crowded area, highlighting the threat posed by such attacks.
 
-ඊශ්‍රායල පොලීසිය සහ ෂින්බෙත් බුද්ධි සේවය එය ත්‍රස්ත ප්‍රහාරයක් ලෙස හඳුන්වාදී ඇත.
+🟩
 
-එහිදී බෝම්බය රැගෙන යමින් සිටි පුද්ගලයා මියගිය අතර ඒ අසල සිටි තවත් පුද්ගලයෙක් එහිදී තුවාල ලැබීය.
+Last Sunday, Tel Aviva in Tel Aviva, the armed groups of Hamas and Islamic Jihad have taken over the responsibility of a religious center.
 
-පොලීසිය පවසන්නේ එම පුද්ගලයා, ජනාකීර්ණ ප්‍රදේශයට බෝම්බය රැගෙන යමින් සිටින අතරතුරදී එය පුපුරා ගොස් ඇති බවයි.
+Israeli police and Shinabeth intelligence service has been introduced as a terrorist attack.
+
+The person who was carrying the bomb was killed and another man was near it was injured.
+
+Police say that the man is carrying out the bomb to the crowded area.
 
 ◼️
 
 [Data](articles/913a6f84.json)
 
----
-
-### Dilshan Rodrigo appointed CEO of Sri Lanka’s Union Bank
-
-*2024-08-20 10:30:00* · [`economynextcom`](https://economynext.com/dilshan-rodrigo-appointed-ceo-of-sri-lankas-union-bank-177360/) · `en`
-
-ECONOMYNEXT – Dilshan Rodrigo has been appointed the Executive Director/Chief Executive Officer of Sri Lanka’s Union Bank of Colombo Plc with effect from August 16, the bank said in a stock exchange filing.
-
-He replaces Indrajit Asela Wickramasinghe who retired from the office of Chief Executive Officer as well as the Board of Union Bank on August 15.
-
-“Union Bank will refocus efforts to drive Retail and SME business by leveraging on the 61 branches spread across the country,” Rodrigo told Echelon Magazine in an interview.
-
-“We have ambitious balance sheet growth targets over the short to medium term to establish ourselves as a mainstream bank in Sri Lanka.”
-
-Rodrigo does not hold any shares of the Bank as at date, the bank said. (Colombo/Aug20/2024)
-
-◼️
-
-[Data](articles/3d255d68.json)
-
-[Extended Data](ext_articles/3d255d68.ext.json)
+[Extended Data](ext_articles/913a6f84.ext.json)
 
 ---
 
@@ -212,6 +200,18 @@ The first earthquake was reported at 4.7 Richter and the 2nd 4.8 magnitude.
 
 ---
 
+### ඇතුගලින් පැන්නද වටැණද
+
+*2024-08-20 09:46:01* · [`adalk`](https://www.ada.lk/breaking_news/ඇතුගලින්-පැන්නද-වටැණද/11-411454) · `si`
+
+කුරුණෑගල, ඇතුගලින් බිමට වැටුණු පුද්ගලයෙක් බරපතල තුවාල ලබා කුරුණෑගල ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ. ඊයේ මෙම අනතුර සිදුව ඇති අතර තුවාල ලැබූ පුද්ගලයාගේ අනන්‍යතාව තහවුරු කරගෙන නොමැත.
+
+◼️
+
+[Data](articles/4d18fe36.json)
+
+---
+
 ### Sri Lanka on La Niña watch with warning for 2025 Maha rice crop
 
 *2024-08-20 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-on-la-nina-watch-with-warning-for-2025-maha-rice-crop-177328/) · `en`
@@ -279,6 +279,28 @@ Three complaints have come forward to the Kandarawatta Police regarding financia
 [Data](articles/c252ba7d.json)
 
 [Extended Data](ext_articles/c252ba7d.ext.json)
+
+---
+
+### Dilshan Rodrigo appointed CEO of Sri Lanka’s Union Bank
+
+*2024-08-20 09:30:00* · [`economynextcom`](https://economynext.com/dilshan-rodrigo-appointed-ceo-of-sri-lankas-union-bank-177360/) · `en`
+
+ECONOMYNEXT – Dilshan Rodrigo has been appointed the Executive Director/Chief Executive Officer of Sri Lanka’s Union Bank of Colombo Plc with effect from August 16, the bank said in a stock exchange filing.
+
+He replaces Indrajit Asela Wickramasinghe who retired from the office of Chief Executive Officer as well as the Board of Union Bank on August 15.
+
+“Union Bank will refocus efforts to drive Retail and SME business by leveraging on the 61 branches spread across the country,” Rodrigo told Echelon Magazine in an interview.
+
+“We have ambitious balance sheet growth targets over the short to medium term to establish ourselves as a mainstream bank in Sri Lanka.”
+
+Rodrigo does not hold any shares of the Bank as at date, the bank said. (Colombo/Aug20/2024)
+
+◼️
+
+[Data](articles/3d255d68.json)
+
+[Extended Data](ext_articles/3d255d68.ext.json)
 
 ---
 
@@ -1298,7 +1320,7 @@ Since its independence, Bangladesh has faced multiple political crises, characte
 
 A country should support through its innovation policy, all types and phases of innovation not necessarily confining itself to high-tech industries
 
-Summary so far: There are 39 Presidential hopefuls seeking the mandate from voters to rule Sri Lanka for the next five years. Since Sri Lanka is a country that had been embroiled in an unparalleled economic crisis and still struggling to recover, it is necessary to adopt a suitable policy strategy to push the economy through a high growth path to facilitate it to deliver prosperity and wellbeing to people. This requires the policymakers to give the highest priority to build an innovative or a creative economy.
+Sri Lanka’s boost innovation program should aim at introducing multiple types of innovations, including network innovations, business structure innovations, service innovations, and channel innovations. What this means is that if there are inefficiencies in the supply chain, it will have a damaging impact on the businesses that use the inputs of inefficient operations for their outputs. For instance, if fertiliser and seeds are not delivered to farmers in time, the whole agricultural activities get hampered
 
 ...
 
@@ -2159,21 +2181,5 @@ Dissanayake says that it is normal humanity to stand up with a hand -held hands 
 [Data](articles/bfcdd72b.json)
 
 [Extended Data](ext_articles/bfcdd72b.ext.json)
-
----
-
-### Ranil Wickremesinghe Borrows From The UNP’s Dirty Tricks Campaign Handbook
-
-*2024-08-19 18:01:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-wickremesinghe-borrows-from-the-unps-dirty-tricks-campaign-handbook/) · `en`
-
-The efficiency of Ranil Wickremesinghe‘s campaign team was clearly established by the manner in which it responded to content in social media deemed to be unfavorable to the UNP leader who is contesting the upcoming Presidential Election as an independent candidate.
-
-On 19 August, President Wickremesinghe met Buddhist monks at the stage of his inaugural election campaign rally. On that occasion, contrary to Buddhist practice and cultural norms, Wickremesinghe shook the hand of a Buddhist monk. This was duly captured and was subsequently sent to Uvindu Kurukulasuriya by an unknown source. Kurukulasuriya then posted 18 second video clip on Facebook with an appropriate comment. Colombo Telegraph learns that the post was seen by more than 1.4 million viewers and shared by 100,000’s of thousands and reposted by Facebook subscribers respectively. However, within 10 hours Facebook removed the post because the United National Party claimed copyright violation.
-
-...
-
-[Data](articles/5459eba0.json)
-
-[Extended Data](ext_articles/5459eba0.ext.json)
 
 ---

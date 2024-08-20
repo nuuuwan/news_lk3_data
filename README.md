@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 00:09:37**
+As of **2024-08-21 00:21:30**
 
 ## Newspaper Stats
 
@@ -148,11 +148,15 @@ A pact was also signed between Co-operatives and Sajith Premadasa, representing 
 
 *2024-08-20 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101383/maithripala-completes-compensation-payments-to-easter-attack-victims) · `en`
 
-Former President Maithripala Sirisena has completed the payments of compensation of Rs. 100 million to the victims of the Easter Sunday terror attacks as ordered by the court.
+Former President Maithripala Sirisena has completed the payments of compensation of Rs. 100 million to the victims of the Easter Sunday terror attacks as ordered by the Supreme Court.
 
-Accordingly, it is reported that the former President has paid the remaining amount of Rs. 12 million on August 16, 2024.
+Accordingly, it is reported that the former President has paid the remaining amount of Rs. 12 million on August 16, thereby completing the total compensation payment ordered by the court.
 
-◼️
+On January 12, 2023, the Supreme Court found that former President Sirisena, former Defence Secretary Hemasiri Fernando, former IGP Pujith Jayasundara, former National Intelligence Chief Sisira Mendis and former Chief of State Intelligence Nilantha Jayawardena have violated the Fundamental Rights of petitioners, by failing to take action to prevent the Easter Sunday attacks despite receiving sufficient intelligence information.
+
+As a result, they were ordered to pay compensation to the victims of the Easter Sunday attacks, Ada Derana reporter said.
+
+...
 
 [Data](articles/31c9ced0.json)
 

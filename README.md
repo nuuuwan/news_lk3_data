@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 12:21:34**
+As of **2024-08-20 12:36:42**
 
 ## Newspaper Stats
 
-*Scraped **41,650** Articles*
+*Scraped **41,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,511
 dailyftlk | 2,687
-adalk | 3,829
+adalk | 3,830
 dailymirrorlk | 4,733
-adaderanalk | 4,874
-tamilmirrorlk | 5,383
+adaderanalk | 4,875
+tamilmirrorlk | 5,384
 virakesarilk | 6,611
 adaderanasinhalalk | 7,108
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 7,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,649 (100.0%) of 41,650 articles have been extended.
+41,650 (100.0%) of 41,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### Presidential Election: Over 24,000 postal voting applications rejected
+
+*2024-08-20 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101369/presidential-election-over-24000-postal-voting-applications-rejected) · `en`
+
+The Commissioner General of Elections Saman Sri Ratnayake has stated that 736,589 applications have been received for postal voting at the 2024 Presidential Election.
+
+He further said that 24,268 postal vote applications have been rejected and that a total of 712,321 applicants are eligible for postal voting.
+
+He also said that the delivery of ballot papers for postal voting will be carried out on August 26.
+
+The commission has mentioned that the opportunity has been provided for the marking of postal votes for a period of three days in the first week of September.
+
+Speaking in this regard, the Chairman of the Election Commission R.M.A.L. Rathnayake said:
+
+“The process of accepting postal voting applications has now been completed. The marking of postal votes has been prepared to be held in the next few days at the beginning of next month. On the 26th of this month, the respective postal ballots have been prepared to be issued to the relevant institutions.”
+
+...
+
+[Data](articles/73db4ead.json)
+
+---
+
+### இலங்கைத் தமிழரசுக் கட்சியின் ஆதரவு யாருக்கு?
+
+*2024-08-20 12:14:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைத்-தமிழரசுக்-கட்சியின்-ஆதரவு-யாருக்கு/175-342507) · `ta`
+
+இலங்கைத் தமிழ் அரசுக் கட்சி 2024ஆம் ஆண்டு நடைபெறவுள்ள ஜனாதிபதித் தேர்தலில் எந்த வேட்பாளரை ஆதரிக்கும் என்பதை வேட்பாளர்கள் தமது கொள்கை அறிக்கையை வெளியிட்ட பின்னர் அறிவிக்கும் என தெரிவித்துள்ளது.
+
+ITAK இன் மத்திய குழு ஞாயிற்றுக்கிழமை (ஒகஸ்ட் 18) வவுனியாவில் கூடியது, அதன் உறுப்பினர்கள் அனைவரும் கூட்டத்தில் கலந்து கொண்டனர்.
+
+2024 ஜனாதிபதித் தேர்தலில் கட்சி எந்த வேட்பாளருக்கு ஆதரவளிக்க வேண்டும் என்பது குறித்து பல உறுப்பினர்கள் பல்வேறு கருத்துக்களைப் பகிர்ந்து கொண்டதையடுத்து கூட்டத்தில் பதற்றமான சூழ்நிலையும் பதிவாகியுள்ளது.
+
+எவ்வாறாயினும், ஊடகங்களுக்கு கருத்து தெரிவித்த ITAK மற்றும் தமிழ் தேசிய கூட்டமைப்பின் (TNA) பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன், எந்த வேட்பாளரை ஆதரிப்பது என்பது குறித்து வேட்பாளர்கள் தங்கள் கொள்கை அறிக்கையை வெளியிட்ட பிறகு முடிவு செய்யப்படும் என்று கூறினார்.
+
+...
+
+[Data](articles/b6adb67b.json)
+
+---
 
 ### A revelation of the number of postals qualified
 
@@ -311,6 +351,22 @@ Arjuna Ranatunga, who has said that cricket is ruined by gambling, and Thilanga 
 [Data](articles/acfca123.json)
 
 [Extended Data](ext_articles/acfca123.ext.json)
+
+---
+
+### අනුර අපුරේ ආගමික වතාවත්වල
+
+*2024-08-20 10:45:04* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-අපුරේ-ආගමික-වතාවත්වල/11-411455) · `si`
+
+ජාතික ජන බලවේගය පක්ෂයේ ජනපති ධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතා  ඊයේ  (19දා) පස්වරුවේ අනුරාධපුරයට පැමිණ  අමටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතන නා හිමියන් බැහැ දැක, අනතුරුව  ඓතිහාසික  ජය ශ්‍රී මහා බෝ සමිඳුන්  වැඳ පුදා ගෙන ආශිර්වාද ලබා ගත්තේය.
+
+ආශිර්වාද ලබා ගැනීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඒ මහතා කියා සිටියේ, රනිල් වික්‍රමසිංහ මහතා මේ වන විටත් රට තුල කැලෑ නීතිය ක්‍රියාත්මක කරමින් පවතින බවය. මෛත්‍රිපාල සිරිසේන, චන්ද්‍රිකා කුමාරතුංගද ඔවුන්ගේ පාලන සමයේ කැලෑ නීති ක්‍රියාත්මක කල බවත් ජාතික ජන බලවේගයක් යටතේ නීතිය නිසියාකාරව ක්‍රියාත්මක කරන බවද ඒ මහතා පැවසීය.
+
+"අධිකරණයෙන් වැරදි කරුවන් වූවන්ට , බරපතල ගණයේ අපරාධ කල පුද්ගලයන්ට කිසිදු මැතිවරණයකට ඉදිරි පත්වීමට නොහැකි වන ආකාරයට නීති ගෙන ඒමට අපි ඉදිරියේදී  කටයුතු කරනවා. මැතිවරණ සඳහා ඡන්ද අපේක්ෂකයන් ඉදිරිපත් කිරීමේදී පක්ෂ නායකයන්ට වගකීමක් තිබෙනවා. ඒත් ඔවුන් මුලින්ම බලන්නේ  මැතිවරණයට ඉදිරිපත් කිරීම සඳහා එම අපේක්ෂකයා සතුව මුදල් කොපමණක් තිබෙනවාද යන්න පමණයි.
+
+...
+
+[Data](articles/4e57e4d7.json)
 
 ---
 
@@ -784,17 +840,25 @@ However, Iranian officials had refused to do so, foreign media reports said.
 
 ---
 
-### பணத்துக்காகவும் வரப்பிரசாதங்களுக்காகவும் சோரம் போகும் சந்தர்ப்பவாத அரசியல்வாதிகள் என்னிடம் இல்லை - சஜித்
+### I have no opportunist politicians who go to the sorghum for money and gifts - Sajith
 
 *2024-08-20 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191493) · `ta`
 
-நான் சந்தர்ப்பவாத அரசியலை பின்பற்றுவதில்லை. 2018 ஆம் ஆண்டு  52 நாள் சூழ்ச்சியின் போது பிரதமர் பதவியை  பொறுப்பேற்குமாறு 71 தடவை அழைப்பு விடுத்த போதும் அந்த அழைப்பை தான் நிராகரித்ததாகவும், அந்தப் பிரதமர் பதவிக்கான மக்கள் வரம் தனக்கு கிடைக்கவில்லை என்பதால் சந்தர்ப்பவாத பெருச்சாளித்தன அரசியலை மேம்படுத்தி பதவிகளின் பின்னால் செல்வதற்கு தமக்கு விருப்பமில்லை. அந்தக் கொள்கையினால் தான் கோட்டாபய ராஜபக்ஷ பிரதமர் பதவியை பொறுப்பேற்க்குமாறு கூறிய போதும் அதனை தான் நிராகரித்ததாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+Opposition leader Sajith Premadasa rejects opportunistic politics, refusing offers without genuine commitment. He emphasizes staying true to public-centered policies, not swayed by personal gains. Highlighting the nation's financial struggles, he vows to address the debt crisis and improve living conditions for all Sri Lankans. His recent rally in Meerigama marks a significant step towards the 2024 presidential election, gathering support amidst challenging times.
 
-அவ்வாறு அந்த சந்தர்ப்பத்தில் சென்று இருந்தால் இந்த நாட்டை சூறையாடி  வளங்களையும் பணத்தையும் திருடிய  திருடர்களின் பாதுகாவலராக தான் இருக்க வேண்டிய நிலை ஏற்பட்டிருக்கும்.  திருடர்களை பாதுகாக்கின்ற வாயில் காவலாளியாகவும் இருந்திருப்பேன்.
+🟩
+
+I do not follow the opportunist politics. Although he called for the Prime Minister's post during the 52 -day conspiracy in 2018, he rejected the invitation, and that he did not want to go behind the politics of opportunist politics because he did not have the gift of the Prime Minister's post.. Opposition leader Sajith Premadasa said that he had rejected the policy but that he had rejected the post of Prime Minister.
+
+If that would be done on that occasion, the country would have to be the guardian of the thieves who stole the country and stole money.I would have been a guard in the mouth of protecting the thieves.
+
+In any case the liabilities and money are not prepared to go to the sorghum for money. Whatever the proposals, no matter what the popular position, the proposals are not going away from the public -centered politics. Opposition Leader Sajith Premadasa said that Sajith Premadasa and my group could not spend the price in any case.
 
 ...
 
 [Data](articles/593d9faf.json)
+
+[Extended Data](ext_articles/593d9faf.ext.json)
 
 ---
 
@@ -2185,63 +2249,5 @@ The last Randoljah elephant was inaugurated at the Sri Dalada Maligawa..
 [Data](articles/2b385b1f.json)
 
 [Extended Data](ext_articles/2b385b1f.ext.json)
-
----
-
-### Presidential Hopefuls Should Give Top Priority To Make Sri Lanka A Creative Economy – Part II
-
-*2024-08-19 20:14:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-hopefuls-should-give-top-priority-to-make-sri-lanka-a-creative-economy-part-ii/) · `en`
-
-Summary so far: There are 39 Presidential hopefuls seeking the mandate from voters to rule Sri Lanka for the next five years. Since Sri Lanka is a country that had been embroiled in an unparalleled economic crisis and still struggling to recover, it is necessary to adopt a suitable policy strategy to push the economy through a high growth path to facilitate it to deliver prosperity and wellbeing to people. This requires the policymakers to give the highest priority to build an innovative or a creative economy.
-
-In this context, the development of human knowledge will generate inventions, but those inventions should be commercially produced by entrepreneurs through a process, identified by the Austrian American economist Joseph Schumpeter as innovation. Then, to lead those innovations to continued economic advancement, as also identified by Schumpeter, the knowledge should be diffused or made known to others, and they should imitate the early innovators.
-
-...
-
-[Data](articles/15f2b87f.json)
-
-[Extended Data](ext_articles/15f2b87f.ext.json)
-
----
-
-### Sajith's Bus and Ranil's Bus
-
-*2024-08-19 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191457) · `ta`
-
-Jayakanthan reflects on life as a series of moments, especially relevant for politicians whose actions, justified at the time, can change over time.
-
-🟩
-
-Writer Jayakanthan said, "Life is that time.". This is most appropriate for politicians no matter who does not apply. The decisions they make in politics are enough at the time if there are only any justifications at the time. Let me remember that any end can be changed at another time.
-
-◼️
-
-[Data](articles/9e292c61.json)
-
-[Extended Data](ext_articles/9e292c61.ext.json)
-
----
-
-### A large number of people in concerting and carnival
-
-*2024-08-19 20:09:27* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසංග-හා-සැණකෙළිවලට-අවසර-නොදිමෙන්-විශාල-පිරිසක්-පිඩාවට/11-411448) · `si`
-
-Due to election-related restrictions, thousands of concert organizers nationwide face significant challenges, impacting over 20 events across Sri Lanka. The Chairman of the Sri Lanka Concerting Carnival Organizers criticizes the decision, arguing it unfairly disrupts people's livelihoods and calls for immediate relaxation of restrictions on entertainment events.
-
-🟩
-
-Nearly three,000 concert organizers throughout the country, nearly 100,000 concert organizers across the country have been severely difficult to suffer due to the end of the election.
-
-The Chairman of the Sri Lanka Concertainment Carnival Organizers and Coordinators of the Coordinators of the Coordinating Association of Sri Lanka and the Chairman of the Coordinating Association of Sri Lanka said that more than twenty had had more than had been stopped at various parts of the island.
-
-He pointed out that the other activities of the lives of the people of the lives of the people's life should not be interrupted and this is a very unfair decision.
-
-His team organizes concerts and carnivals throughout the country and that the government should be reduced by the government, and the government should immediately reduce fun.
-
-◼️
-
-[Data](articles/f2ed2450.json)
-
-[Extended Data](ext_articles/f2ed2450.ext.json)
 
 ---

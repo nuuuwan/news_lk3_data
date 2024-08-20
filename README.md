@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 17:21:26**
+As of **2024-08-20 17:37:07**
 
 ## Newspaper Stats
 
-*Scraped **41,704** Articles*
+*Scraped **41,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 2,687
 adalk | 3,837
 dailymirrorlk | 4,733
 adaderanalk | 4,883
-tamilmirrorlk | 5,395
+tamilmirrorlk | 5,396
 virakesarilk | 6,622
-adaderanasinhalalk | 7,117
+adaderanasinhalalk | 7,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,703 (100.0%) of 41,704 articles have been extended.
+41,704 (100.0%) of 41,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### செலவுகளை சொல்லாதவர்களுக்கு தண்டனை
+
+*2024-08-20 17:17:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செலவுகளை-சொல்லாதவர்களுக்கு-தண்டனை/175-342521) · `ta`
+
+ஜனாதிபதி தேர்தல் முடிந்து 21 நாட்களுக்குள் அனைத்து வேட்பாளர்களும் தேர்தல் செலவு அறிக்கையை சமர்ப்பிக்க வேண்டும் என தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது .
+
+எந்த ஒரு வேட்பாளரும் குறிப்பிட்ட நேரத்திற்குள் அறிக்கையை சமர்ப்பிக்கத் தவறினால் , தவறான தகவலைச் சமர்ப்பித்தால் அல்லது அளவுக்கு அதிகமாக செலவு செய்தால் ஒரு இலட்சம் ரூபாய் அபராதம் , பதவி இழப்பு, மூன்று ஆண்டுகள் வாக்குரிமை இழப்பு அல்லது வேட்பாளராக இருக்கும் உரிமையை இழக்க நேரிடும் என்று தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது .
+
+மேலும் , அவர்களுக்கு உதவியவர்கள் பற்றிய தகவல்கள் மற்றும் நிதி, பொருள் அல்லது கடன் அடிப்படையில் பெறப்பட்ட அனைத்து தகவல்களையும் சேர்த்து இந்த அறிக்கை தயாரிக்கப்பட வேண்டும் எனவும் அனுமதிக்கப்பட்ட தொகையை விட அதிகமாக செலவு செய்தால் அவர் குற்றவாளியாகி விடுவார் எனவும் ஆணைக்குழு தெரிவித்துள்ளது .
+
+◼️
+
+[Data](articles/c8b8e172.json)
+
+---
+
+### හරක් කටා ට සහාය දුන් බවට චෝදනා එල්ලවූ CID කොස්තාපල් නිදොස්කොට නිදහස්
+
+*2024-08-20 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200140) · `si`
+
+නඳුන් චින්තක නොහොත් හරක් කටා ට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් පළායෑමට උත්සාහ කිරීමේ සිද්ධියට සහාය දුන් බවට චෝදනා එල්ලවූ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මහජන පැමිණිලි අංශයේ පොලිස් කොස්තාපල් සංජය අබේසිංහ ව අධිකරණය මගින් නිදොස්කොට නිදහස් කර තිබේ.
+
+පොලිස් කොස්තාපල් සංජය අබේසිංහ ව මාස 11ක පමණ කාලයක් TIDයේ රඳවාගෙන ප්‍රශ්න කරනු ලැබීය.
+
+◼️
+
+[Data](articles/f6bba76c.json)
+
+---
 
 ### Four buses torched in Wennappuwa
 
@@ -49,6 +79,8 @@ Police estimate that the fire has caused nearly Rs. 30 million in damages.
 ◼️
 
 [Data](articles/9e2f57e0.json)
+
+[Extended Data](ext_articles/9e2f57e0.ext.json)
 
 ---
 
@@ -2309,55 +2341,5 @@ At the event, Professor Maithri Wickremesinghe and President's Senior Advisor to
 [Data](articles/621766e4.json)
 
 [Extended Data](ext_articles/621766e4.ext.json)
-
----
-
-### Here are the sides that have exceeded 100 ml miters today
-
-*2024-08-20 07:19:21* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මිටර්-100-ඉක්මවා-වහින-පැති-මෙන්න/11-411451) · `si`
-
-Today, heavy rainfall exceeding 100mm is expected in the Western, Sabaragamuwa, Southern, and North-Western provinces, including Galle and Matara districts. Thundershowers will also occur in the Eastern, Uva, and North Central provinces.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and North-Western provinces.
-
-Also, in some areas in the Western and Sabaragamuwa Province, Galle and Matara districts are mm mm.. In heating heat, he has informed heat that will experience more than 100.
-
-Thundershowers will develop at several places in the East, Uva and North Central provinces.
-
-◼️
-
-[Data](articles/bdedd04b.json)
-
-[Extended Data](ext_articles/bdedd04b.ext.json)
-
----
-
-### Imran Khan's next design out
-
-*2024-08-20 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200117) · `si`
-
-Imran Khan, former PM of Pakistan, is set to become the Chancellor of the University of Oxford, making history as the first Pakistani to hold this position. This appointment comes after Chris Patten stepped down in February. The announcement was confirmed by PTI, led by Khan, marking a significant recognition of his global stature.
-
-🟩
-
-Foreign media reports that Imran Khan, who is in the world, is considered a world's most prestigious university in the world, is the next charistehip of the British.
-
-The political party of Imran Khan's political party, Taaharech-and Insugh confirmed its 'X' account.
-
-PTI. Imran Khan has been directed to the Oxford administration properly across the party's London Syd's spokesman Sulfair.
-
-Accordingly, he will be the first person to be appointed as the Chancellor of the University.
-
-There are six prime ministers of Pakistan, including the first Prime Minister of Pakistan, Benazir and two presidents.
-
-The current Chancellor of the University of Oxford, it recently announced that Chris Patton has resigned from his post in February.
-
-◼️
-
-[Data](articles/557ea52d.json)
-
-[Extended Data](ext_articles/557ea52d.ext.json)
 
 ---

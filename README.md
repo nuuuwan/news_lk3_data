@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-20 14:21:16**
+As of **2024-08-20 14:36:49**
 
 ## Newspaper Stats
 
-*Scraped **41,669** Articles*
+*Scraped **41,674** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ newsfirstlk | 363
 bbccomsinhala | 384
 colombotelegraphcom | 399
 islandlk | 2,416
-economynextcom | 2,511
+economynextcom | 2,515
 dailyftlk | 2,687
 adalk | 3,832
 dailymirrorlk | 4,733
 adaderanalk | 4,878
-tamilmirrorlk | 5,387
+tamilmirrorlk | 5,388
 virakesarilk | 6,615
 adaderanasinhalalk | 7,111
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,668 (100.0%) of 41,669 articles have been extended.
+41,668 (100.0%) of 41,674 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-20 (Tuesday)
+
+### US official in Sri Lanka to discuss collabs in hydrography, climate change, biodiversity
+
+*2024-08-20 14:00:00* · [`economynextcom`](https://economynext.com/us-official-in-sri-lanka-to-discuss-collabs-in-hydrography-climate-change-biodiversity-177396/) · `en`
+
+ECONOMYNEXT – US Acting Assistant Secretary of State for Oceans, International Environmental and Scientific Affairs Jennifer Littlejohn is on a visit to Sri Lanka from August 19 to 21.
+
+“During her visit, she will engage with officials and partners, explore US-supported wildlife protection projects, and discuss opportunities to connect Sri Lankan and US experts in hydrography, climate change, and biodiversity,” US Ambassador to Sri Lanka Julie Chung said on X (twitter).
+
+She will discuss nature and marine conservation, plastic and air pollution, the climate crisis, deforestation, nature crimes, civil and commercial space activities, promoting women and girls in STEM, and the sustainable blue economy, a statement by the embassy said.
+
+After Colombo Littlejohn will travel to India and Maldives. (Colombo/Aug20/2024)
+
+◼️
+
+[Data](articles/a0ac3f92.json)
+
+---
 
 ### Floods remain in several areas of Kalutara District
 
@@ -69,6 +87,24 @@ Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa
 ◼️
 
 [Data](articles/ca52c128.json)
+
+---
+
+### CSE, South Eastern University of Sri Lanka to enhance undergrad financial literacy
+
+*2024-08-20 13:21:00* · [`economynextcom`](https://economynext.com/cse-south-eastern-university-of-sri-lanka-to-enhance-undergrad-financial-literacy-177389/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange (CSE) and the South Eastern University of Sri Lanka (SEUSL) have signed an agreement to enhance financial literacy among undergraduates.
+
+The memorandum of understanding was signed on Friday (16) at the SEUSL in Oluvil.
+
+The state university offers undergraduate and postgraduate courses through six faculties; management and commerce, applied sciences, arts and culture, Islamic studies and Arabic language, engineering and technology).
+
+The CSE has previously had a similar programme with the Eastern University of Sri Lanka to promote capital market education among undergraduates. (Colombo/Aug20/2024)
+
+◼️
+
+[Data](articles/d945d5c3.json)
 
 ---
 
@@ -168,6 +204,22 @@ President Mahinda Rajapaksa supported 17 former Pradeshiya Sabha members in Kuru
 
 ---
 
+### கிளப் வசந்த கொலை: சந்தேக நபருக்கு பாதுகாப்பு
+
+*2024-08-20 12:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-சந்தேக-நபருக்கு-பாதுகாப்பு/175-342512) · `ta`
+
+கிளப் வசந்த சுட்டுக் கொல்லப்பட்ட சம்பவம் தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டிருந்த பெண் ஒருவர் உட்பட 11 சந்தேகநபர்கள் செவ்வாய்க்கிழமை (20) நீதிமன்றத்தில் மீண்டும் ஆஜர்படுத்தப்பட்டனர்.
+
+நீதிமன்றத்தில் ஆஜர்படுத்திய போது அவர்களின் விளக்கமறியலை செப்டம்பர் இரண்டாம் திகதி வரை நீடித்து  கடுவல நீதவான் சனிமா விஜய பண்டார உத்தரவிட்டார்.
+
+சந்தேக நபர்களில் ஒருவருக்கு  உயிருக்கு அச்சுறுத்தல் இருப்பதாக அவரது சார்பில்  நீதிமன்றில் முன்னிலையாகிய சட்டத்தரணி நீதிமன்றத்தின் கவனத்துக்கு கொண்டு வந்ததை அடுத்து அவருக்கு தேவையான பாதுகாப்பை வழங்குமாறு சிறைச்சாலை ஆணையாளருக்கு நீதவான் உத்தரவிட்டார் .
+
+◼️
+
+[Data](articles/55818fd5.json)
+
+---
+
 ### Club spring murder;Security to the suspects
 
 *2024-08-20 12:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-சம்பவம்-சந்தேக-நபர்களுக்கு-பாதுகாப்பு/175-342512) · `ta`
@@ -185,6 +237,22 @@ The magistrate ordered the prison commissioner to provide them with the necessar
 [Data](articles/8d53b4ff.json)
 
 [Extended Data](ext_articles/8d53b4ff.ext.json)
+
+---
+
+### US warship docks in Sri Lanka on replenishment visit
+
+*2024-08-20 12:44:00* · [`economynextcom`](https://economynext.com/us-warship-docks-in-sri-lanka-on-replenishment-visit-177377/) · `en`
+
+ECONOMYNEXT – The USS Spruance of the United States Navy which arrived at the Colombo Port on a replenishment visit on Monday (19) will depart today (20), the Sri Lanka Navy said.
+
+USS Spruance is manned by a crew of 338 personnel commanded by Commander Thomas Adams.
+
+The Arleigh Burke-class destroyer is 160 meters in length. These warships can conduct various mission sets, including anti-submarine warfare (ASW), anti-air warfare (AAW), and anti-surface warfare (ASuW). (Colombo/Aug20/2024)
+
+◼️
+
+[Data](articles/7f33b07b.json)
 
 ---
 
@@ -303,6 +371,26 @@ Faidan, who has continued to affect the United States, has said that they have n
 [Data](articles/190d1c97.json)
 
 [Extended Data](ext_articles/190d1c97.ext.json)
+
+---
+
+### Sri Lanka’s HNB Rs12bn debenture issue oversubscribed
+
+*2024-08-20 12:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-rs12bn-debenture-issue-oversubscribed-177369/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hatton National Bank Plc said its debenture issue to raise up to 12 billion rupees was oversubscribed.
+
+The Basel III compliant, Tier 2, listed, rated, unsecured, subordinated, redeemable debentures with a non-viability conversion feature were offered at 100 rupees each.
+
+A total of 120 million of the 5-year (2024/2029) 7-year(2024/2031) and 10-year (2024/34) debentures were issued on Friday (16).
+
+“We wish to inform you that we have received applications for over LKR 12,000,000,000/- (Rupees Twelve Billion) for the above Debenture Issue by Hatton National Bank PLC and accordingly the Issue has been oversubscribed,” the  bank said in a stock exchange filing.
+
+The basis of allotment will be notified to the CSE in due course, the  bank said.
+
+◼️
+
+[Data](articles/11ef838e.json)
 
 ---
 
@@ -2217,93 +2305,5 @@ Mrs. Kangani Kalpani Liyanage, the chief of the government printing press, has a
 [Data](articles/fbabbab2.json)
 
 [Extended Data](ext_articles/fbabbab2.ext.json)
-
----
-
-### Revisiting “Dhasa Raja Dharma”: Rhetoric or reality?
-
-*2024-08-20 01:38:01* · [`dailyftlk`](https://www.ft.lk/columns/Revisiting-Dhasa-Raja-Dharma-Rhetoric-or-reality/4-765724) · `en`
-
-Times are interesting when 39 candidates have come forward to “serve the nation” in seeking the pinnacle post. General public is fed up of non-sensical utterings from so called leaders. The true virtues of valued leadership are very high in demand. I thought it is an opportune time to discuss a timely research initiative with a deep dive into the availability and applicability of “Dasa Raja Dharma” in the current Sri Lankan context. Today’s column is all about it.
-
-...
-
-[Data](articles/84a9dd62.json)
-
-[Extended Data](ext_articles/84a9dd62.ext.json)
-
----
-
-### Try to add garbage
-
-*2024-08-20 01:37:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குப்பைகளை-சேர்க்க-முயற்சி/175-342477) · `ta`
-
-Anura Kumara Dissanayake criticizes current politics, accusing parties of corruption and self-interest. He highlights the National People's Power's efforts to unite various sectors against parliamentary corruption, emphasizing their focus on clarity and recovery methods.
-
-🟩
-
-Anura Kumara Dissanayake, the presidential candidate of the National People's Power, said that the current politics has become the most serious affection.
-
-He was speaking at a media briefing held at the headquarters of the Janatha Vimukthi Peramuna (JVP) on Sunday (29).
-
-There are those who have set up governments that have long been ministry posts in this Parliament. Their electoral movement is to share these privileges with each other. That is, groups that have created a culture of corruption and corrupt culture have been involved in the wrestling of the country.
-
-Ranil Wickremesinghe is trying to take a part. Namal Rajapaksa is trying to keep a part of. Sajith Premadasa tries to add united garbage. That is their electoral movement.
-
-...
-
-[Data](articles/6bd63d96.json)
-
-[Extended Data](ext_articles/6bd63d96.ext.json)
-
----
-
-### Key lessons from Bangladesh crisis
-
-*2024-08-20 01:14:42* · [`dailyftlk`](https://www.ft.lk/columns/Key-lessons-from-Bangladesh-crisis/4-765713) · `en`
-
-Since its independence, Bangladesh has faced multiple political crises, characterised by periods of military rule, political violence, and fierce rivalry between its two main political parties. Despite these challenges, Bangladesh has managed to maintain a degree of political stability and achieve significant economic progress over the last decade. However, the severe crisis Bangladesh is currently enduring serves as a grave reminder for other countries in the South Asian region, highlighting what they must avoid.
-
-...
-
-[Data](articles/6e04b556.json)
-
-[Extended Data](ext_articles/6e04b556.ext.json)
-
----
-
-### Presidential hopefuls should give top priority to make Sri Lanka a creative economy – Part II
-
-*2024-08-20 01:06:04* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-hopefuls-should-give-top-priority-to-make-Sri-Lanka-a-creative-economy-Part-II/4-765712) · `en`
-
-A country should support through its innovation policy, all types and phases of innovation not necessarily confining itself to high-tech industries
-
-Sri Lanka’s boost innovation program should aim at introducing multiple types of innovations, including network innovations, business structure innovations, service innovations, and channel innovations. What this means is that if there are inefficiencies in the supply chain, it will have a damaging impact on the businesses that use the inputs of inefficient operations for their outputs. For instance, if fertiliser and seeds are not delivered to farmers in time, the whole agricultural activities get hampered
-
-...
-
-[Data](articles/1f3c5bbf.json)
-
-[Extended Data](ext_articles/1f3c5bbf.ext.json)
-
----
-
-### Prohibition
-
-*2024-08-20 00:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதச்-சின்னங்களை-பயன்படுத்த-தடை/175-342476) · `ta`
-
-The Elections Commission banned the use of national flags or religious symbols in election campaigns, threatening strict actions against violators.
-
-🟩
-
-The Elections Commission has said that the use of national flag or religious symbols for election campaigns has been completely forbidden
-
-Elections Commission officials have said that strict action will be taken against the parties that use the national flag for the presidential election campaigns.
-
-◼️
-
-[Data](articles/0f0df2a6.json)
-
-[Extended Data](ext_articles/0f0df2a6.ext.json)
 
 ---

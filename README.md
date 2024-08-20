@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 00:53:33**
+As of **2024-08-21 01:06:42**
 
 ## Newspaper Stats
 
-*Scraped **41,764** Articles*
+*Scraped **41,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 384
 colombotelegraphcom | 399
 islandlk | 2,416
 economynextcom | 2,520
-dailyftlk | 2,687
+dailyftlk | 2,689
 adalk | 3,845
 dailymirrorlk | 4,733
 adaderanalk | 4,889
@@ -26,23 +26,61 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,763 (100.0%) of 41,764 articles have been extended.
+41,764 (100.0%) of 41,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### உலகில் நீளமான முத்திரை ஜனாதிபதியிடம்
+### Strengthening corporate integrity with anti-corruption policies
+
+*2024-08-21 00:49:17* · [`dailyftlk`](https://www.ft.lk/opinion/Strengthening-corporate-integrity-with-anti-corruption-policies/14-765757) · `en`
+
+In a seminar organised by Corporate Management Consultants, with Daily FT as the media sponsor, industry leaders gathered at NH Collections Colombo 3 to discuss the critical importance of embedding anti-corruption policies within corporate governance frameworks.
+
+The event, which drew a diverse audience of corporate executives, legal experts, and regulatory officials, emphasised the urgent need for Sri Lankan companies to adopt strong anti-bribery and anti-corruption measures, reinforcing the country’s commitment to ethical business practices.
+
+The seminar opened with a comprehensive overview of Sri Lanka’s new anti-corruption legislation by Commission to Investigate Allegations of Bribery and Corruption (CIABOC) Commission Member and former Additional Solicitor General Chethiya Gunasekera PC.
+
+...
+
+[Data](articles/b3a5ea9e.json)
+
+---
+
+### A phoenix rising from the ashes: Country needs strong leadership not an intern
+
+*2024-08-21 00:43:37* · [`dailyftlk`](https://www.ft.lk/columns/A-phoenix-rising-from-the-ashes-Country-needs-strong-leadership-not-an-intern/4-765755) · `en`
+
+A leader’s job is to create a culture and condition where all its citizens thrive and feel proud to be a part of this great nation and to create jobs, wealth and to make sure everyone contributes to the society
+
+I sincerely request all our political leaders to please stop your infighting and look after the interest of our great nation and the people of this wonderful country. Building a nation requires patience, persistence, and cooperation from all stakeholders. Ultimately, a successful nation is one that meets the needs and aspirations of its citizens and contributes to the well-being of humanity as a whole
+
+Let’s move forward together with Sri Lanka. Leo Tolstoy once remarked, “Everyone thinks of changing the world, but no one thinks of changing himself.” Any candidate who is willing to endorse given facts in this article should be given a chance. The difficult question is how many of these steps we have taken on our way to building a strong and successful nation?
+
+...
+
+[Data](articles/254e5166.json)
+
+---
+
+### The longest seal in the world to the president
 
 *2024-08-21 00:37:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-நீளமான-முத்திரை-ஜனாதிபதியிடம்/175-342542) · `ta`
 
-கண்டி வரலாற்று முக்கியத்துவம் வாய்ந்த தலதா மாளிகை பெரஹராவை குறிக்கும் வகையில் தபால் திணைக்களத்தினால் வெளியிடப்பட்ட உலகில் மிக நீளமான நினைவு முத்திரை நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கையளிக்கப்பட்டது.
+President Ranil Wickremesinghe received the world's longest stamp, measuring 205mm, marking the Talada House of Kandy's historical significance.
 
-இந்த முத்திரை 205 மில்லி மீற்றர் நீளமானது என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+🟩
+
+President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe yesterday in the world's world's longest commemoration published by the Postal Department to mark the historic Talada House of Kandy.
+
+The stamp is 205 millimeters long, the Presidential Media Unit said. (A)
 
 ◼️
 
 [Data](articles/79b05ca1.json)
+
+[Extended Data](ext_articles/79b05ca1.ext.json)
 
 ---
 
@@ -2305,49 +2343,5 @@ The magistrate ordered the prison commissioner to provide them with the necessar
 [Data](articles/8d53b4ff.json)
 
 [Extended Data](ext_articles/8d53b4ff.ext.json)
-
----
-
-### Never undo the President's executive powers
-
-*2024-08-20 12:51:56* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-අවස්ථාවක-ජනාධිපතිවරයා-සතු-විධායක-බලතල-අහෝසි-නොකළ-යුතුයි/11-411459) · `si`
-
-Sarath Fonseka argues against removing presidential executive powers, emphasizing the need for a competent leader to tackle corruption and improve sectors like agriculture and fisheries. He criticizes the current Parliament majority for being corrupt and calls for independent, intelligent action to address national issues.
-
-🟩
-
-The President should not remove the executive powers of the president. The presidential candidate Sarath Fonseka said that a suitable person to the post should be removed and the corruption in the Parliament should be cleaned.
-
-He was speaking to the media after the historic Ruwanweli was bowned and blessed by the historic Ruwani.
-
-"The corrupt political culture has already swallowed the country by now. Not slaves to parties to get rid of this situation, everyone should act independently and intelligently to the national leaders.
-
-The same group came to the people, but their mindset has never changed.
-
-Samagi-opening the doors of the people's architecture has been given opportunities to join the party.. People who cannot afford to mature and leadership are not suitable for presidential candidate.
-
-...
-
-[Data](articles/1f2b95ef.json)
-
-[Extended Data](ext_articles/1f2b95ef.ext.json)
-
----
-
-### US warship docks in Sri Lanka on replenishment visit
-
-*2024-08-20 12:44:00* · [`economynextcom`](https://economynext.com/us-warship-docks-in-sri-lanka-on-replenishment-visit-177377/) · `en`
-
-ECONOMYNEXT – The USS Spruance of the United States Navy which arrived at the Colombo Port on a replenishment visit on Monday (19) will depart today (20), the Sri Lanka Navy said.
-
-USS Spruance is manned by a crew of 338 personnel commanded by Commander Thomas Adams.
-
-The Arleigh Burke-class destroyer is 160 meters in length. These warships can conduct various mission sets, including anti-submarine warfare (ASW), anti-air warfare (AAW), and anti-surface warfare (ASuW). (Colombo/Aug20/2024)
-
-◼️
-
-[Data](articles/7f33b07b.json)
-
-[Extended Data](ext_articles/7f33b07b.ext.json)
 
 ---

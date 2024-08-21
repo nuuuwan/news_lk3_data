@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 20:55:49**
+As of **2024-08-21 21:06:44**
 
 ## Newspaper Stats
 
-*Scraped **41,938** Articles*
+*Scraped **41,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 403
 islandlk | 2,426
 economynextcom | 2,527
 dailyftlk | 2,701
-adalk | 3,865
+adalk | 3,866
 dailymirrorlk | 4,733
 adaderanalk | 4,909
 tamilmirrorlk | 5,434
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,937 (100.0%) of 41,938 articles have been extended.
+41,938 (100.0%) of 41,939 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Both subsidies will come into effect from tomorrow (22 August).
 ◼️
 
 [Data](articles/9af08faf.json)
+
+[Extended Data](ext_articles/9af08faf.ext.json)
 
 ---
 
@@ -227,6 +229,24 @@ Drugs were found at the Maldrolent Drug Trafficker in Kahathuduwa on June 9.
 [Data](articles/069eaf73.json)
 
 [Extended Data](ext_articles/069eaf73.ext.json)
+
+---
+
+### පළමු මාස 06 තුළ ඩොලර් බිලියන 09ක අපනයන ආදායමක්
+
+*2024-08-21 18:52:46* · [`adalk`](https://www.ada.lk/breaking_news/පළමු-මාස-06-තුළ-ඩොලර්-බිලියන-09ක-අපනයන-ආදායමක්/11-411492) · `si`
+
+මෙම වසරේ ගතවුණු මාස හය තුළ අමෙරිකානු ඩොලර් බිලියන නවයක ( 09) අපනයන ආදායමක් ලබා ඇති බව ආයෝජන ප්‍රවර්ධන රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම මහතා පැවසීය.
+
+එසේම පසුගිය මාස හයක කාලයක තුළ ශ්‍රී ලංකාව අමෙරිකානු ඩොලර් මිලියන 800ක පමණ ආයෝජන සඳහා ගිවිසුම් ගත වී ඇති බවද රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+
+ආයෝජන ප්‍රවර්ධන රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද (21) පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+"ශ්‍රී ලංකා ආයෝජන මණ්ඩලය ආයෝජන කලාප පහළොවක් සඳහා පහසුකම් සපයන අතර එම ආයෝජන කලාපවල සමාගම් 1575ක් මේ වනවිට මෙහෙයුම් කටයුතු සිදු කරනු ලබනවා. ලක්ෂ පහකට අධික සංඛ්‍යාවක් මේ තුළ රැකියා සිදු කරනවා. වත්මන් රජයේ නව ආයෝජන වැඩසටහන යටතේ නව ආයෝජන කලාප හතක් ස්ථාපිත කිරීමට සැලසුම් කර තිබෙනවා.
+
+...
+
+[Data](articles/8e7b26c0.json)
 
 ---
 
@@ -2349,29 +2369,5 @@ The Independent Memorandum of Perahera, Pradeep Nilaveli Pradeep Nilame, who is 
 [Data](articles/5d466223.json)
 
 [Extended Data](ext_articles/5d466223.ext.json)
-
----
-
-### An unknown corpse lands a coastal
-
-*2024-08-21 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200166) · `si`
-
-A mysterious body found near Welakale coast, Chilaw, remains unidentified. The victim, aged between 55-50 years, had 'Mom' tattooed on one arm and 'Ganes' in Sinhala on the other.
-
-🟩
-
-Police say that a unidentified body was built to the Welakale coastal area in the Chilaw Police Division.
-
-The police conferment that the identity of the body has not yet been established.
-
-Police say that the hair cut into the 55 feet - 50 feet of age, the police said.
-
-However, the 'Mom' on the left side of the deceased, 'Mom' has also been tattooned in Sinhala as 'Ganes' on the right.
-
-◼️
-
-[Data](articles/96672643.json)
-
-[Extended Data](ext_articles/96672643.ext.json)
 
 ---

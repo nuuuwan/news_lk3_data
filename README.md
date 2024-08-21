@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 15:36:55**
+As of **2024-08-21 15:55:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,154
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,887 (100.0%) of 41,888 articles have been extended.
+41,888 (100.0%) of 41,888 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,29 +54,39 @@ In a post on ‘X’ (formerly Twitter), MJP leader Dilith Jayaweera stated that
 
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2024-08-21 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200178) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගය මැන්චෙස්ටර්, ඕල්ඩ් ට්‍රැෆර්ඩ් ක්‍රීඩා පිටියේ පැවැත්වෙයි.
+In the first Test match against England in Manchester, Sri Lanka, led by Dimuth Karunaratne, won the toss and the coin. This marks a significant moment for Milan Ratnayake, a student from South Wariyapola Sumangala Vidyalaya, making his debut in a Test match. England's leadership has temporarily shifted to Ollie Pope due to Ben Stokes' injury. The series consists of three Tests, with Sri Lanka aiming to replicate their 2014 victory in England.
 
-එහි කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක ධනංජය ද සිල්වා සමත් විය.
+🟩
 
-දිමුත් කරුණාරත්න, නිශාන් මදුෂ්ක, කුසල් මෙන්ඩිස්, ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල්, ධනංජය ද සිල්වා (නායක), කමිඳු මෙන්ඩිස්, ප්‍රබාත් ජයසූරිය, අසිත ප්‍රනාන්දු, විශ්ව ප්‍රනාන්දු සහ මිලාන් රත්නායක
+The first Test match between the Sri Lanka and England team will be held on Manchester, Old Trafford.
 
-මෙය මිලාන් රත්නායකගේ මංගල ටෙස්ට් ක්‍රිකට් තරගය වෙයි. දකුණතින් මඳ වේග පන්දුයවන ඔහු වාරියපොළ සුමංගල විද්‍යාලයේ ආදී ශිෂ්‍යයෙකි.
+Sri Lanka Leader Dhanga De Silva won the toss and win its coin.
 
-ඩෑන් ලෝරන්ස්, බෙන් ඩකට්, ඔලී පෝප් (නායක), ජෝ රූට්‌, හැරී බ්රූක්, ජැමී ස්මිත්, ක්‍රිස් වෝක්ස්, ගස් ඇට්කින්සන්, මැතිව් පොට්ස්, මාර්ක් වුඩ්ස් සහ ෂොයිබ් බෂීර්
+Dimuth Karunaratne, Nishan Madushka, Kusal Mendis, Dinesh Chandimal, Dananju De Silva, University of Asitha Fernando, University, Milan Ratnayake and Milan Ratnayake
 
-එංගලන්ත නිත්‍ය ටෙස්ට් නායක බෙන් ස්ටොක්ස් තුවාල ලැබීම හේතුවෙන් මෙම තරගාවලිය සඳහා නායකයා ලෙස ඔලී පෝප් පත්කර ඇත.
+This is Milan Ratnayake's Mangala Test match. He is a student of the South with the South, Wariyapola Sumangala Vidyalaya.
 
-දෙරට අතර මෙම තරගාවලිය යටතේ ටෙස්ට් තරග තුනක් පැවැත්වීමට නියමිතය.
+Dan Lawrence, Been Dakatt, Oli-Pop (Leader), Harry Brook, Mark Woods, Mark Woods and Shoaib Bashir
 
-අවසන් වරට ශ්‍රී ලංකා කණ්ඩායම එංගලන්තයේදී ටෙස්ට් තරගයක් ජයගෙන ඇත්තේ 2014 වසරේදීය.
+The leader of the tournament has been appointed as the leader for the tournament due to the injury of the England regular Test leader Ben Stokes.
 
-...
+The two countries will play three Tests.
+
+The last Sri Lankan team won a Test match in England in 2014.
+
+Sri Lanka captained the Test match at Leades in the Leadship Grounds in 100 runs.
+
+Sri Lanka were also able to win the two-match Test tournament.
+
+◼️
 
 [Data](articles/73359cce.json)
+
+[Extended Data](ext_articles/73359cce.ext.json)
 
 ---
 

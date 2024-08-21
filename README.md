@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 03:36:45**
+As of **2024-08-22 03:55:22**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,990 (100.0%) of 41,991 articles have been extended.
+41,991 (100.0%) of 41,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### ’கனவு காண்பவர் அவதானிக்கவும்’
+### Look at the dreamer
 
 *2024-08-22 02:28:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனவு-காண்பவர்-அவதானிக்கவும்/175-342607) · `ta`
 
-சீனாவின் ஒரு மண்டலம் ஒரு பாதை அபிவிருத்தி செயற்திட்டம் அமுல்படுத்தப்படும் நாடுகளில் திட்டமிட்ட வகையில்  உள்ளக முரண்பாடுகள் தோற்றுவிக்கப்படுகின்றன. இலங்கையிலும்,பங்களாதேஷ் நாட்டிலும் இவ்வாறே முரண்பாடுகள்,கலவரங்கள் தோற்றுவிக்கப்பட்டன.  ஜனாதிபதியாக கனவு காண்பவர்கள் அனைவரும் இந்த  உண்மையை விளங்கிக் கொள்ள வேண்டியது அவசியம் என தேசிய சுதந்திர முன்னணியின் தலைவரும் சுயாதீன எதிரணி எம்.பி.யுமான  விமல் வீரசன்ச தெரிவித்தார்.
+In countries with Chinese-funded development projects, like Sri Lanka and Bangladesh, internal conflicts and riots have arisen. The National Freedom Front leader highlighted that understanding these issues is crucial for aspiring presidents. In Bangladesh, student protests against a quota system escalated into violence, leading to the resignation of Prime Minister Sheikh Hasina. Similar tensions are observed in Sri Lanka due to China's investment in the Colombo Port. These examples illustrate how Chinese development zones can fuel internal disputes.
 
-பாராளுமன்றத்தில் புதன் கிழமை (21) இடம்பெற்ற   மது வரி கட்டளைச் சட்ட ஒழுங்கு விதிகள் மீதான விவாதத்தில் உரையாற்றிய போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-கொழும்பு  துறைமுக அபிவிருத்தி நகரத்துக்கு சீனாவே முழுமையாக முதலீடு செய்துள்ளது. ஆகவே துறைமுக நகர அபிவிருத்தி திட்டத்தால்  இலங்கைக்கு எவ்வித பாதிப்பும் ஏற்படவில்லை.அவ்வாறான நிலையில் கொழும்பு துறைமுக நகரத்தை நிர்மாணித்தால்  சீகிரியா குன்றில் உள்ள கற்களை பெயர்த்து எடுக்க நேரிடும் என்று குறிப்பிட்டவர்கள்  ஜனாதிபதி தேர்தலில் போட்டியிடுவது நகைப்புக்குரியதாக உள்ளது.
+International contradictions are created in countries where a Zone of China is implemented by a Path Development Project. Such conflicts and riots were created in Sri Lanka and Bangladesh.The National Freedom Front leader and Independent Opposition MP Wimal Weerasanshans said that all those who dreamed of being president needed to understand this fact.
+
+Speaking at the debate on the Law Law Law Regulations on Wednesday (21) in Parliament, he said.
+
+China has fully invested to the Colombo Port Development City. Therefore, Sri Lanka has not been affected by the port Urban Development Program.
+
+There are many similarities between the riots in Bangladesh and the struggle in Sri Lanka by 2022. Students engaged in a struggle against the quota system that has been implemented in Bangladesh. After the court amended the quota system, he was involved in violence to resign Prime Minister Sheikh Hasina.
 
 ...
 
 [Data](articles/3eb92e11.json)
+
+[Extended Data](ext_articles/3eb92e11.ext.json)
 
 ---
 

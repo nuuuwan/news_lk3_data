@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 10:08:56**
+As of **2024-08-21 10:21:22**
 
 ## Newspaper Stats
 
-*Scraped **41,816** Articles*
+*Scraped **41,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ dailymirrorlk | 4,733
 adaderanalk | 4,894
 tamilmirrorlk | 5,409
 virakesarilk | 6,648
-adaderanasinhalalk | 7,138
+adaderanasinhalalk | 7,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,813 (100.0%) of 41,816 articles have been extended.
+41,816 (100.0%) of 41,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### නාඳුනන මළ සිරුරක් වෙරළට ගොඩ ගසයි
+
+*2024-08-21 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200166) · `si`
+
+හලාවත පොලිස් වසමේ වැල්ල කසකැලේ මුහුදු තීරයට නාඳුනන මෘත ශරීරයක් ගොඩ ගසා ඇතැයි පොලීසිය පවසයි.
+
+මෘත ශරීරයේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති බවද පොලීසිය ස﻿ඳහන් කරයි.
+
+වයස අවුරුදු 45ක්  - 50ක් අතර උඩ අඩි 5 අඟල් 8ක් වන කොණ්ඩය කොටට කපා ඇති රැවුල මදක් වවා ඇති අතර උඩුකයට නිල් පාට අත්දිග කමිසයක් ඇඳ සිටින බවත් යටිකය නිර්වස්ත්‍රව ඇති බවත් පොලීසිය පවසයි.
+
+කෙසේ වෙතත් මියගිය පුද්ගලයාගේ පපුවේ වම් පැත්තේ, 'අම්මා' යනුවෙන් ද දකුණු පැත්තේ 'විනිති' යනුවෙන් ද සිංහලෙන් පච්ච කොටා ඇති බව ද පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/96672643.json)
+
+---
+
+### ඩුබායි සිට මෙහෙය වූ තවත් ඝාතනයක සුලමුල හෙළිවෙයි
+
+*2024-08-21 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200165) · `si`
+
+වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් පුද්ගලයින් හය දෙනෙකු ශ්‍රී පුර ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, ගැමුණුපුර පුල්ලේයාර් හන්දිය ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණ නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් වෙඩිතබා එම ඝාතනය සිදුකර තිබූ බවය.
+
+එම ඝාතනය ඩුබායි රාජ්‍යයේ සිටින සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු වන පාතාල ප්‍රියන්ත නොහොත් ගුණසිරි ප්‍රියන්ත යන පුද්ගලයා විසින් මෙහෙයවා ඇති බව මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+කෙසේවෙතත් මියගිය පුද්ගලයා ඝාතනය කිරීමට සැලසුම් කළ පුද්ගලයා නොවන බවට සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්නකිරීම්වලදී අනාවරණය වී ඇති බව පොලීසිය පැවසුවේය.
+
+අත්අඩංගුවට ගෙන ඇත්තේ 20,22, 38, 40 හා 47 යන වයස් සීමාවල පසුවන වැලිඔය, පදවිය, කැබතිගොල්ලෑව හා පරාක්‍රමපුර ප්‍රදේශවල පදිංචිකරුවන් බව සඳහන්ය.
+
+◼️
+
+[Data](articles/6db18277.json)
+
+---
 
 ### Bandula Lal Bandarigoda sworn in as Member of Parliament
 
@@ -43,6 +81,26 @@ He took oaths before Speaker Mahinda Yapa Abeywardena following the commencement
 ◼️
 
 [Data](articles/fff87f7f.json)
+
+[Extended Data](ext_articles/fff87f7f.ext.json)
+
+---
+
+### බන්දුලාල් බණ්ඩාරිගොඩ දිවුරුම් දෙයි
+
+*2024-08-21 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200164) · `si`
+
+බන්දුලාල් බණ්ඩාරිගොඩ මහතා 09 වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීවරයෙක් ලෙස කථානායක මහින්ද යාපා අබේවර්ධන මහතා ඉදිරියේ අද (21) දිවුරුම් දුන්නේය.
+
+ඔහු පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් වශයෙන් පත්වූයේ ගාල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ලෙස කටයුතු කළ මනුෂ නානායක්කාර මහතාට සිය පාර්ලිමේන්තු අසුන අහිමිවීම හේතුවෙනි.
+
+මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව ශ්‍රේෂ්ඨාධිකරණය පසුගිය 09 වනදා තීන්දු කළේය.
+
+සිය පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගත් තීරණය නීතියට පටහැනි බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන් ඉදිරිපත් කළ පෙත්සම් නිෂ්ප්‍රභ කරමින් ශ්‍රේෂ්ඨාධිකරණය එම තීන්දුව ලබාදුනි.
+
+◼️
+
+[Data](articles/4e9d9ac4.json)
 
 ---
 
@@ -65,6 +123,18 @@ The 44-year-old suspect has been arrested, and Galapitamada Police are continuin
 ◼️
 
 [Data](articles/d6aa28ac.json)
+
+[Extended Data](ext_articles/d6aa28ac.ext.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-08-21 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200163) · `si`
+
+◼️
+
+[Data](articles/1840dc05.json)
 
 ---
 
@@ -1470,19 +1540,25 @@ It is noteworthy that the Department of Meteorology has also asked the people to
 
 ---
 
-### භාණ්ඩාගාරයට ලැබිය යුතු හිඟ බදු මුදල කෝටි එක්ලක්ෂ දහ දාහක්
+### Details of the Treasury receives Rs. 10,000 crores
 
 *2024-08-20 19:23:23* · [`adalk`](https://www.ada.lk/breaking_news/භාණ්ඩාගාරයට-ලැබිය-යුතු-හිඟ-බදු-මුදල-කෝටි-එක්ලක්ෂ-දහ-දාහක්/11-411473) · `si`
 
-මහ භාණ්ඩාගාරයට ලැබිය යුතු හිඟ බදු මුදල් කෝටි එක්ලක්ෂ දහදාහක් ඇති බවත්, බදු ගෙවිය යුතු අය අතර පාර්ලිමේන්තු මන්ත්‍රීවරුන් ද සිටිනා බවත් ජාතික ජනබලවේගයේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. බදු ගෙවිය යුතු මන්ත්‍රීවරු අතර ජොන්ස්ටන් ප්‍රනාන්දු හා ලක්ෂ්මන් වසන්ත පෙරේරා හා හිටපු මහබැංකු අධිපති අර්ජුන ඇලෝසියස් ද සිටින බව ඔහු ප්‍රකාශ කළේය.
+UNP presidential candidate Anura Kumara Dissanayake criticized the government for tax evasion and corruption, highlighting instances where prominent figures avoided paying taxes. He emphasized the importance of addressing these issues to revive the nation's economy and improve living standards. Dissanayake also touched upon the government's failure to utilize public funds effectively, citing specific examples of mismanagement and misuse of resources.
 
-ජාතික ජනබලවේගය කිසිවෙකුගෙන් දේශපාලන පළිගැනීම් සිදු නොකළද, මහජන මුදල් හා දේපළ හොරකම් කළ අය නිසි පරීක්ෂණ පවත්වා නීතිය හමුවට ගෙන එන බවත්, ඔවුන් එලෙස අනීතිකව උපයා ඇති ධනය හා දේපළ සියල්ල නැවත පවරා ගන්නා බවත් දිසානායක මහතා සඳහන් කළේය.
+🟩
 
-ඔහු මේ බව පැවසුවේ ඊයේ (20දා) ගල්ගමුවේ පැවති ජනරැළියක් අමතමිනි.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ දිසානායක මහතා මෙසේද කීය.
+UNP Presidential candidate Anura Kumara Dissanayake said that there were four hundred thousand taxes received by the Treasury.. He said Johnston Fernando and Lakshman Wasantha Perera and former Central Bank Governor were Aloysius.
+
+Despite the political retaliation of the national crocutation, the steal of public finance and property, the stolen of public finances and the stolen is being carried out and brought to the law, he said.
+
+He was speaking at a reprogramity in Galgamuwa yesterday (20), he added.
 
 ...
 
 [Data](articles/b5d96eba.json)
+
+[Extended Data](ext_articles/b5d96eba.ext.json)
 
 ---
 
@@ -2161,99 +2237,5 @@ Pa, though I am a writer, is the technique of writing the screenplay for the mov
 [Data](articles/81751229.json)
 
 [Extended Data](ext_articles/81751229.ext.json)
-
----
-
-### 'Garuda' Suri is back with the filmmaker
-
-*2024-08-20 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191552) · `ta`
-
-"Actor Suri, known for comedy roles, reunites with director Prashant Pandiyaraj for a new movie under Larg Studios, produced by Kumar. This follows their successful collaboration on 'Garuda'. Details about other cast members will be announced soon."
-
-🟩
-
-Actor Suri, who is the leading comedian to the story of the story of the story, has been reunited with the official announcement of the new movie starring the story.
-
-Director Prashant Pandiyaraj, who directed the movie 'Bruce Lee' and 'Animal'. The film was made on behalf of Larg Studios Company. Produced by Kumar.
-
-He is the producer of Suri's starring film 'Garuda' which has already been released.The details of other actors, actresses and working technicians who are working on the film are expected to be officially released soon.
-
-Meanwhile, after a commercial winning film 'Garuda', no leading film production company has not accessed the sun and there is no other way to break the film industry.
-
-◼️
-
-[Data](articles/3bad27fb.json)
-
-[Extended Data](ext_articles/3bad27fb.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 299.60/300.00, bond yields down
-
-*2024-08-20 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-299-60-300-00-bond-yields-down-177429/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 299.60/300.00 to the US dollar Tuesday, from 299.00/10 Friday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 11.05/20 percent, down from 11.15/25 percent.
-
-A bond maturing on 15.12.2027 closed at 11.90/12.05 percent, down from 12.00/10 percent.
-
-A bond maturing on 15.12.2028 closed at 12.75/90 percent, down from 12.85/95 percent.
-
-A bond maturing on 01.10.2032 closed at 13.10/25 percent. (Colombo/Aug20/2024)
-
-◼️
-
-[Data](articles/5e3409e8.json)
-
-[Extended Data](ext_articles/5e3409e8.ext.json)
-
----
-
-### The procession is completed - noon cuts
-
-*2024-08-20 16:53:28* · [`adalk`](https://www.ada.lk/breaking_news/පෙරහර-නිමයි---දහවල්-දිය-කපයි/11-411464) · `si`
-
-The Esala Perahera ended with the Diyamparalehera Perahera destroying its water cut. The Commander Asgiriya's procession concluded at the Gedi Raja Maha Viharaya, followed by the transfer of the Perahera to the Sri Dalada Maligawa the next day. The Devala Perahera conducted sacrifices at Katukareala Pallha before being cut off at Nathale, concluding the Kandy Perahera successfully.
-
-🟩
-
-The water cut of water cut in parallel to the Esala Perahera was destroyed by the Diyamparalehera Perahera.
-
-With the end of the final Randoli Perahera, the process of the resident of the Commander Asgiriya was placed in the historic Gedi Raja Maha Viharaya.
-
-The next day after the day after day after the Perahera was taken to the Sri Dalada Maligawa last evening.
-
-The Devala Perahera was conducting sacrifices at the Katukareala Pallha, Perahera after the destruction of the Dalada Maligawa after being cut off at Nathale, Vishmale Four Devalaya.
-
-Kandy Perahera, Kandy Perahera, concluded this year after handing over the afternoon Perahera successfully completed the procession.. (I J)
-
-◼️
-
-[Data](articles/1c6bb27c.json)
-
-[Extended Data](ext_articles/1c6bb27c.ext.json)
-
----
-
-### Four buses torched in Wennappuwa
-
-*2024-08-20 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101377/four-buses-torched-in-wennappuwa) · `en`
-
-An incident has been reported where four buses were allegedly set on fire in the Wennappuwa area.
-
-The luxury buses in question, which had been brought for repairs, were reportedly set ablaze early this morning (20) at a vehicle repair shop on Lake Road, Wennappuwa.
-
-It is reported that one bus was completely destroyed in the fire.
-
-Meanwhile, footage from a nearby CCTV camera, show a person arriving and setting fire to the buses before fleeing the area.
-
-Police estimate that the fire has caused nearly Rs. 30 million in damages.
-
-◼️
-
-[Data](articles/9e2f57e0.json)
-
-[Extended Data](ext_articles/9e2f57e0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 10:55:17**
+As of **2024-08-21 11:07:14**
 
 ## Newspaper Stats
 
-*Scraped **41,822** Articles*
+*Scraped **41,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,71 @@ dailymirrorlk | 4,733
 adaderanalk | 4,895
 tamilmirrorlk | 5,409
 virakesarilk | 6,648
-adaderanasinhalalk | 7,142
+adaderanasinhalalk | 7,144
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,820 (100.0%) of 41,822 articles have been extended.
+41,822 (100.0%) of 41,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### බන්දු ලාල් බණ්ඩාරිගොඩ මන්ත්‍රීවරයෙක් ලෙස දිවුරුම් දෙයි
+### වී මිලදී ගැනීමේ ගැටලුව කරඅරින ඇමති
+
+*2024-08-21 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200168) · `si`
+
+මුදල් අමාත්‍යාංශයේ නිලධාරීන් කිහිපදෙනෙකුගේ අත්තනෝමතික ක්‍රියා කලාපය හේතුවෙන් වී මිලදී ගැනීමේ කටයුතු අඩාල වී ඇති බව මහින්ද අමරවීර අමාත්‍යවරයා පවසයි.
+
+ඔහු පවසන්නේ, වී මිලදී ගැනීමේ කටයුතු මෝල්හිමිකරුවන්ට භාර දී ඇතත් එය නිසිපරිදි ක්‍රියාත්මක නොවන බවය.
+
+"අපි ඉල්ලා හිටියා සල්ලි දෙන්න කියලා. ඉතිං ඒ අය නිලධාරීන් විශ්වාස කරන්නේ, වී මණ්ඩලය ගැනවත් ඒ වැඩපිළිවෙල ගැනවත් නෙවෙයි මෝල් කට්ටිය ගැන. එහෙම විශ්වාස කරලා කටයුතු කරන්නේ කොහොමද? මං දැනට ලිඛිතවත් දන්වලා තියෙන්නේ, මුදල් අමාත්‍යංශයට වී මණ්ඩලය පවරා ගන්න කියලා. ජනාධිපතිතුමා කියලවත් මුදල් දෙන්නේ නැති නිලධාරීන් ඉන්නේ. එහෙම වුණාම කොහොමද කරන්නේ අපි. මේකට මට චෝදනා කරලා වැඩක් නෑ. මට මගේ පැත්තෙන් ගන්න තියෙන ඉහළම ක්‍රියාවලියට ප්‍රවේශ වෙලා තියෙන්නේ. අනිවාර්යයෙන්ම ගොවීන්ට අසාධාරණයක් වෙලා තියෙනවා. ඒක මං පිළිගන්නවා. මං මොකද්ද කරන්නේ? මට මොකද්ද කරන්න පුළුවන්? මේ නිලධාරීන් කිහිපදෙනෙක් කරන කාර්යයට මට කරන්න දෙයක් නෑ. ඒක තමා මං කියන්නේ මේ වගකීමෙන් මාව නිදහස් කරන්න."
+
+...
+
+[Data](articles/77395577.json)
+
+---
+
+### ගත වූ මාස කිහිපය තුළ රිය අනතුරුවලින් ජීවිත 1,417ක් මරුට
+
+*2024-08-21 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200167) · `si`
+
+වසරේ ගත වූ කාලසීමාව තුළ සිදුවූ රිය අනතුරුවලින් පුද්ගලයින් 1,417 දෙනෙකු ජීවිතක්ෂවට පත්ව ඇති බව පොලිසිය පවසයි.
+
+රථවාහන කොට්ඨාසය භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා පැවසුවේ වාර්ෂිකව යතුරුපැදි අනතුරුවලින් පුද්ගලයින් 1,000ක් පමණ මියයන බවය.
+
+"3,000කට අධික ප්‍රමාණයක් අනතුරු සිදුවන්නේ, පාරේ දී සිදුවන අනතුරු. වසරකට ඒ අනතුරුවලින් තුනෙන් එකක් ජීවිතක්ෂයට පත්වෙන්නේ යතුරුපැදිවලින් සිදුවන අනතුරු නිසා. 2023 වසරේ දී මාර්ග අනතුරු අඩුවීමක් දක්නට ලැබුණා. 2,214න් 2,321 දෙනෙක් ජීවිතක්ෂයට පත්වෙලා තියෙනවා. 2024 ජනවාරි 1 වනදා සිට 2024 අගෝස්තු 10 වෙද්දි මාරක රිය අනතුරු 1,352න් 1,417ක් ජීවිතක්ෂයට පත්වෙලා තියෙනවා."
+
+මාරක රියඅනතුරුවලින් පසුගිය වසරේදී පාසල් සිසුන් 328 දෙනෙක් මියගොස් ඇති බවද නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා පවසයි.
+
+වසර 10කට 30,000කට අධික ප්‍රමාණයක් දරුවන් ප්‍රමාණයක් ජීවිතක්ෂයට පත්වන බව ද ඒ මහතා වැඩිදුරටත් කියා සිටියේය.
+
+◼️
+
+[Data](articles/eb948b86.json)
+
+---
+
+### Bandu Lal Bandaraigoda sworn in as MP
 
 *2024-08-21 10:29:18* · [`adalk`](https://www.ada.lk/breaking_news/බන්දු-ලාල්-බණ්ඩාරිගොඩ-මන්ත්‍රීවරයෙක්-ලෙස-දිවුරුම්-දෙයි/11-411481) · `si`
 
-බන්දු ලාල් බණ්ඩාරිගොඩ මහතා අද(21දා) පෙරවරුවේ කථානායක මහින්ද යාපා අබේවර්ධන මහතා ඉදිරියේ පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ලෙස දිවුරුම් දුන්නේය.
+Bandu Lal Bandaraigoda was sworn in as an MP today, taking his oath before Speaker Mahinda Yapa Abeywardena. His appointment followed the abolition of Manusha Nanayakkara's position by the MPs' committee, with Supreme Court approval.
 
-ශ්‍රේෂ්ඨාධිකරණ තීන්දුවත් සමග මනූෂ නානායක්කාර මහතාගේ මන්ත්‍රී ධුරය අහෝසි වූ අතර, ඒ අනුව බණ්ඩාරිගොඩ මහතා අද දිනයේ එලෙස හිස් වූ මන්ත්‍රී ධුරයේ දිවුරුම් දුන්නේය.
+🟩
+
+Bandu Lal Bandaraigoda took oaths before Speaker Mahinda Yapa Abeywardena today (21).
+
+Manusha Nanayakkara was abolished by the MP's MP with Supreme Court and Bandaraigoda today.
 
 ◼️
 
 [Data](articles/e047261d.json)
+
+[Extended Data](ext_articles/e047261d.ext.json)
 
 ---
 
@@ -61,6 +103,8 @@ He also emphasized that bringing the maiden rally to Anuradhapura is an importan
 ◼️
 
 [Data](articles/a47bbf08.json)
+
+[Extended Data](ext_articles/a47bbf08.ext.json)
 
 ---
 
@@ -2195,51 +2239,5 @@ A party has lodged a complaint with the Commission about the cooking gas cylinde
 [Data](articles/89f82c0c.json)
 
 [Extended Data](ext_articles/89f82c0c.ext.json)
-
----
-
-### The candidate contesting within 21 days after the referendum ends - the Elections Commission
-
-*2024-08-20 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191553) · `ta`
-
-Candidates contesting the presidential election have a spending limit of Rs 186 crore, with specific allocations for recognized political parties, other parties, and independents. A detailed report of campaign expenses, including donations and media costs, must be submitted to the Elections Commission within 21 days post-election. Violations can lead to penalties under the Presidential Elections Act.
-
-🟩
-
-A candidate contesting the presidential election can spend more than Rs.. Accordingly, a candidate can spend Rs 186 crore. The Elections Commission has issued a notification that the Commission should be handed over to the Commission within 21 days of the election.
-
-The Gazette, which is published in accordance with the Regulation of Elections, No. 03 of 2023, said,
-
-A referendum to elect the President on the 21st of September will be held on September 21, 1981.. The Elections Commission recently discussed the Elections of the Elections Act, No. 03 of 2023, to the candidates of the politicized political parties, the candidates of other political parties and the independent candidates.
-
-The Elections Commission has set the costs of a recognized political party, a different political party, and an independent candidate for the election campaign for the campaign of candidates who are contesting the election on 21.09.2012.
-
-...
-
-[Data](articles/ca3092dd.json)
-
-[Extended Data](ext_articles/ca3092dd.ext.json)
-
----
-
-### Eye surgery affair;Three patients demanding compensation of 300 million rupees from Keheliya
-
-*2024-08-20 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191544) · `ta`
-
-Three individuals suing former Health Minister Keheliya for 300 million rupees, alleging vision loss due to post-eye surgery use of Bretnisolone acetate. Ten others affected. Legal action involves multiple parties including health officials, drug regulatory bodies, and companies involved in the production and distribution of the eye drops. Petitioners represented by Inquitus Law Institute, citing adverse effects like teariness, irritation, and gradual vision loss after surgery at Nuwara Eliya General Hospital.
-
-🟩
-
-Three persons who have been visionary due to the use of Bretnisolone acetate after eye treatment have filed a case in the Colombo District Court on Tuesday (20) demanding a compensation of 300 million rupees from former Health Minister Keheliya.. Another ten people have visually impaired.
-
-Keheliya Rambukwella, Janaka Chandragupta, National Drug Regulatory Authority, Professor. S.. Jayaratne, Dr. Vijith Gunasekera, Dr. Asela Gunawardena, Dr. Rohan Ethi Sinha, Dr. Mahendra Seneviratne, Yakkalai Chamee Chemist (PVT) Ltd, Indiaa Ophthalmics LLP and Attorney General have been named as the Deputy Inspector of these cases.
-
-The petitioner has filed these cases through the Attorneys of the Inquitus Law Institute, Sampath Wijewardena, Tamali Kuruppu and Pravinka Ratnasekara, demanding compensation from the eleven defendants.
-
-...
-
-[Data](articles/c93aa2f0.json)
-
-[Extended Data](ext_articles/c93aa2f0.ext.json)
 
 ---

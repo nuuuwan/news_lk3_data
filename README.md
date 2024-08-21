@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 08:15:42**
+As of **2024-08-21 08:37:02**
 
 ## Newspaper Stats
 
-*Scraped **41,805** Articles*
+*Scraped **41,808** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
-bbccomsinhala | 384
+bbccomsinhala | 385
 colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,520
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 4,891
 tamilmirrorlk | 5,406
 virakesarilk | 6,648
-adaderanasinhalalk | 7,136
+adaderanasinhalalk | 7,138
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,799 (100.0%) of 41,805 articles have been extended.
+41,806 (100.0%) of 41,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### හෙරොයින් කිලෝවක් සමග පොලිස් දෙදෙනෙක් කොටුවෙති
+
+*2024-08-21 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200162) · `si`
+
+හෙරොයින් කිලෝග්‍රෑම් 01ක් සන්තකයේ තබාගෙන සිටි පොලිස් පරීක්ෂකවරයෙකු සහ කොස්තාපල්වරයෙකු පිළියන්දලදී අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/3bb09cb2.json)
+
+---
+
+### What happens if any candidate does not take 50%?
+
+*2024-08-21 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200161) · `si`
+
+If a candidate doesn't meet the 50% threshold, it could lead to a lack of public confidence, as highlighted by Lecturer Dhamma Dissanayake, emphasizing the importance of trust in the electoral process this year.
+
+🟩
+
+Lecturer Dhamma Dissanayake says that the public should have confidence in the public to accept this year.
+
+◼️
+
+[Data](articles/b4a964ee.json)
+
+[Extended Data](ext_articles/b4a964ee.ext.json)
+
+---
 
 ### Police Inspector and Constable arrested with 01 kg of heroin
 
@@ -42,29 +72,37 @@ An Inspector of Police (IP) and a Constable have been arrested by the Colombo Cr
 
 [Data](articles/611fa75e.json)
 
+[Extended Data](ext_articles/611fa75e.ext.json)
+
 ---
 
-### මුදල් ආරවුලකට පවුලක්ම විනාශ කළ පුද්ගලයෙක්
+### A person who destroyed a family to a cash dispute
 
 *2024-08-21 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200160) · `si`
 
-නැන්දම්මාව ඝාතනය කර  බිරිඳට සහ දියණියට බරපතළ තුවාල සිදුකිරීම සම්බන්ධයෙන් පුද්ගලයෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+In a tragic incident over a cash dispute, a man severely injured his wife and daughter, leading to their hospitalization. The suspect, aged 44, was arrested after a complaint was filed about the attack in the Atladyagama area. Further investigations are ongoing.
 
-පොලීසිය ස﻿ඳහන් කළේ, ඊයේ (20) සවස් කාලයේ දී ගලපිටමඩ පොලිස් වසමේ ලෙවන්ගම ප්‍රදේශයේ නිවසකට පැමිණි පුද්ගලයෙකු කාන්තාවක් ඝාතනය කර තවත් කාන්තාවන් දෙදෙනෙකුට තුවාල සිදුකර ඇතැයි පොලීසියට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කළ බවය.
+🟩
 
-එලෙස ඝාතනයට ලක්ව ඇත්තේ අවුරුදු 55ක් වූ අතලවත්ත, ලෙවන්ගම ප්‍රදේශයේ පදිංචිකාරියකි.
+A person has been arrested in connection with the wife and daughter who seriously wounded the wife and daughter.
 
-මුදල් ආරවුලක් මත සැකකරු බිරිඳ හා බිරිඳගේ මව සමග බහින්බස් වීමක් ඇති කරගෙන තිබේ.
+Police have decided to investigate a complaint lodged by a complaint with a person who had come to a house in the Atladyagama area in the Galapitamada police division yesterday (20).
 
-පසුව බිරිඳගේ මවට ගලකින් පහරදී හිසට බරපතළ තුවාල සිදුකර ඇති අතර, තුවාලකාරියව කරවනැල්ල රෝහලට ඇතුළත් කිරීමෙන් පසු ජීවිතක්ෂයට පත්ව ඇත.
+The victim was a 55 year old resident of Athalawatta, Atlawatta.
 
-බිරිඳ සහ දියණියට තියුණු ආයුධයකින් පහරදී තුවාල සිදුකර ඇතැයි ද පොලිස් විමර්ශනයේ දී අනාවරණය වී තිබේ.
+On a cash dispute, the suspect has created an argument with his wife and his wife.
 
-සිදුවීම සම්බන්ධයෙන් 44 හැවිරිදි සැකකරුව අත්අඩංගුවට ගෙන ඇති අතර, ගලපිටමඩ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The wife's mother was hit with a stone and the injured were rushed to the Karawanella hospital.
+
+The police investigation revealed that his wife and daughter were injured and injured in a sharp instrument.
+
+The 44-year-old suspect has been arrested and Galapitamada police are conducting further investigations.
 
 ◼️
 
 [Data](articles/cf54f5af.json)
+
+[Extended Data](ext_articles/cf54f5af.ext.json)
 
 ---
 
@@ -85,6 +123,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/d7a7dba2.json)
+
+[Extended Data](ext_articles/d7a7dba2.ext.json)
 
 ---
 
@@ -335,6 +375,38 @@ National People’s Party (NPP) Executive Council member Dr. Nalinda Jayatissa h
 [Data](articles/a4243f97.json)
 
 [Extended Data](ext_articles/a4243f97.ext.json)
+
+---
+
+### Can we win these challenges to the new President to win the presidential election?
+
+*2024-08-21 02:05:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c86lj0pex2yo) · `si`
+
+The upcoming presidential election in Sri Lanka faces significant challenges, including managing a struggling economy, addressing rising poverty levels, navigating political instability, and ensuring social justice. Candidates must also navigate international relations, particularly with India, China, and the United States, and address educational reform and human rights issues. Despite these hurdles, the election presents an opportunity for the next president to lead Sri Lanka towards economic recovery and political stability.
+
+🟩
+
+Can we win these challenges to the new President to win the presidential election?
+
+Another time left for the Presidential Election Elections, elected by the 9th Executive President in Sri Lanka.
+
+39 candidates come forward with the objective of making Sri Lankan next President. The analysts pointed out that the situation has been changed, despite the main candidates of previous presidential elections, this year's situation has been changed.
+
+In the meantime, 50% of the votes can be obtained as a candidate.
+
+Despite all these challenges, the candidate who will win the presidential election will face many serious challenges.
+
+Many analysts believe that the challenge of the next challenge is the challenge of building a fixed economy.
+
+Senior Lecturer on political science and international studies of the Sri Lanka Open University Dr. Athulasiri Samarakoon told BBC Sinhala service.
+
+"The big challenge is that the economy is restored," he said.
+
+...
+
+[Data](articles/0dea6664.json)
+
+[Extended Data](ext_articles/0dea6664.ext.json)
 
 ---
 
@@ -706,6 +778,8 @@ Since the day nominations were accepted for the presidential election, the atmos
 
 [Data](articles/8c5da219.json)
 
+[Extended Data](ext_articles/8c5da219.ext.json)
+
 ---
 
 ### Make Your Vote Count
@@ -717,6 +791,8 @@ In a true democracy, the selection of candidates and the election process should
 ...
 
 [Data](articles/e6010ed9.json)
+
+[Extended Data](ext_articles/e6010ed9.ext.json)
 
 ---
 
@@ -2201,83 +2277,5 @@ The signing ceremony took place this evening at the Galadari Hotel, Colombo with
 [Data](articles/f565130b.json)
 
 [Extended Data](ext_articles/f565130b.ext.json)
-
----
-
-### Several rich people hidden under the sea
-
-*2024-08-20 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200137) · `si`
-
-An Italian shipwreck off Sicily involved 22 passengers, including high-profile figures like Jonathan Bloomir and Mike Lynch. Bad weather caused the luxury vessel to sink, resulting in six missing persons and one recovered body. Despite rescue efforts, the fate of five remains unknown.
-
-🟩
-
-International media reports to the people who disappeared from the Italian vessels accident.
-
-Meanwhile, Morgan Stanley International Bank Chairman Jonathan Bloomir, Chairman of the International Bank of Sri Lanka, is his wife and Clifford Chancellor.
-
-Also, Mike Lynch and his daughter, who is an act of the British technology industry.
-
-The luxury vessel with bad weather was near Sicily Island yesterday (19) was drowned in the sea.
-
-There were 22 people from that time and 15 were rescued after the accident.
-
-Six disappeared and relief teams found one body.
-
-It is said that the sinking vessel is stuck in the sea within the sea.
-
-◼️
-
-[Data](articles/044ad092.json)
-
-[Extended Data](ext_articles/044ad092.ext.json)
-
----
-
-### Sri Lanka’s LTL, India’s Petronet sign MOU for LNG Infrastructure in Kerawalapitiya
-
-*2024-08-20 16:14:00* · [`economynextcom`](https://economynext.com/sri-lankas-ltl-indias-petronet-sign-mou-for-lng-infrastructure-in-kerawalapitiya-177419/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s LTL Holdings and India’s Petronet LNG Limited (PLL) signed a Memorandum of Understanding (MOU) on Tuesday to build LNG Infrastructure Development and LNG Supply in the island nation, the Power and Energy Ministry said.
-
-Both companies jointly submitted a proposal for Sri Lanka’s Ministry of Power and Energy and the cabinet approval has been already granted following the evaluation by a technical evaluation committee
-
-“This MOU signing ceremony will mark a significant milestone in Sri Lanka’s journey toward cleaner and more sustainable power generation,” the Ministry said in a statement.
-
-“This MOU covers for a joint development by LTL and PLL to develop necessary infrastructure and supply of LNG for initially for Sobadhanavi Power Plant at Kerawalapityta which will be commissioned shortly.”
-
-It said the proposal is an interim solution to introduce LNG for power generation in Sri Lanka on initiation by both governments of Sri Lanka and India.
-
-...
-
-[Data](articles/a9731130.json)
-
-[Extended Data](ext_articles/a9731130.ext.json)
-
----
-
-### Sri Lanka stocks close down, differing polls hurt market sentiment
-
-*2024-08-20 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-differing-polls-hurt-market-sentiment-177418/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 0.08 percent, or 9.46 points, at 11,494; while the more liquid S&P SL20 Index closed down 0.02 percent, or 0.69 points, at 3,300.
-
-“There was very subdued participation from local investors including retail,” Softlogic Stockbrokers said.
-
-“As we inch towards the election, the various informal polls being conducted on the possible outcome of the presidential election are giving different indicators, which actually hurts market sentiment.”
-
-“Earnings were a mixed bag, with some companies’ results being up and some down. We think the majority of earnings posted were positive.
-
-“And going forward things seem positive. We are scheduled to begin debt payments next month, which is at a manageable level. Electricity tariffs are down so the outlook is positive for companies.
-
-“Yet the market reacting in the opposite direction is a problem.”
-
-...
-
-[Data](articles/f4697853.json)
-
-[Extended Data](ext_articles/f4697853.ext.json)
 
 ---

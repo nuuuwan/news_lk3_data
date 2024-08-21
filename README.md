@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 22:54:52**
+As of **2024-08-21 23:06:32**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,950 (100.0%) of 41,952 articles have been extended.
+41,952 (100.0%) of 41,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### ජනාධිපති ධුර අපේක්ෂකයන්ගේ වත්කම් හා බැරකම් ප්‍රකාශ ප්‍රසිද්ධ කෙරේ
+### Preservation and liabilities of presidential candidates are published
 
 *2024-08-21 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200192) · `si`
 
-ජනාධිපති ධුර අපේක්ෂකයින් විසින් ලබාදී ඇති ඔවුන්ගේ වත්කම් හා බැරකම් ප්‍රකාශවල පිටපත් ජනතා ප්‍රවේශය සඳහා මුදා හැර තිබේ.
+Presidential candidates' asset and liability disclosures have been made public by the Commission to Investigate Allegations of Bribery or Corruption, which will publish them on its official website.
 
-අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව දැනුම්දෙන්නේ සිය නිල වෙබ් අඩවිය හරහා ඒවා ප්‍රසිද්ධ කිරීමට කටයුතු කර ඇති බවය.
+🟩
+
+Copies of their assets and liabilities given by the presidenneys have been released to the public.
+
+The Commission to Investigate Allegations of Bribery or Corruption The Commission is notified to publish them through his official website.
 
 ◼️
 
 [Data](articles/6482711e.json)
+
+[Extended Data](ext_articles/6482711e.ext.json)
 
 ---
 
@@ -422,21 +428,31 @@ United People's Power Member of Parliament, Dalada Athukorala's resignation, wil
 
 ---
 
-### රුධිරය වහනය වීමෙන් කාන්තාවක් මිය යාමට වෛද්‍යවරයෙකු ඇතුලු සිව් දෙනෙකුගේ වැඩ තහනම්
+### Four people 'work including a doctor to die by blood banned
 
 *2024-08-21 19:24:40* · [`adalk`](https://www.ada.lk/breaking_news/රුධිරය-වහනය-වීමෙන්-කාන්තාවක්-මිය-යාමට-වෛද්‍යවරයෙකු-ඇතුලු-සිව්-දෙනෙකුගේ-වැඩ-තහනම්/11-411495) · `si`
 
-මන්නාරම මහරෝහලේ උපාධිධාරී කාන්තාවකට අධික ලෙස රුධිර වහනය වී මිය යාමේ සිද්ධියක් සම්බන්ධයෙන් වෛද්‍යවරයෙකුගේ ඇතුලු සිව් දෙනකුගේ සේවය සෞඛ්‍ය අමාත්‍යංශය විසින් ඊයේ (20) දින අත්හිටුව ඇත.
+The Ministry of Health suspended four doctors, including a female graduate, from Mannar Hospital following the death of a patient. The deceased, a 27-year-old woman named Murraj Seddja, was transferred there for further treatment but passed away shortly after. Her mother reported the incident as a case of negligence due to lack of blood supply. Authorities, including the Northern Province Director and the Ministry of Health Services, launched an investigation. Two nurses and a family health worker were suspended pending further inquiries. International human rights groups have called for a thorough investigation and punishment of those responsible.
 
-මන්නාරම මුරුන්ගන් ප්‍රදේශයේ පදිංචි මරියරාජ් සිංදුජා නමැති 27 හැවිරිදි උපාධිධාරී කාන්තාවක් දරුවකු ප්‍රසූත කිරීම සඳහා මුරුංගන් රෝහලට ඇතුලත් කොට දරුවා ප්‍රසූත කිරීමෙන් පසුව එම කාන්තාව ආපසු නිවසට ගොස් ඇති අතර නිවසට ගිය ඇයට අධික ලෙස රුධිර රුධිරය වාහන වීම හේතුවෙන් යළි මුරුන්ගන් රෝහලට ඇතුළත් කිරීමට පියවර ගෙන ඇත.
+🟩
 
-පසුව ඇයගේ තත්වය තරමක් බරපතල තත්වයේ තිබීම හේතුවෙන් වැඩිදුර ප්‍රතිකාර සඳහා ඇය මන්නාරම් මහ රෝහල වෙතට මාරු කොට යවා තිබු අතර එහිදී ඇය වාට්ටුවකට ඇතුලත් කිරීමට පියවර ගෙන තිබුණි.
+The Ministry of Health has suspended four of the doctors including a graduate woman in Mannar Hospital.
 
-කෙසේ වෙතත් අදාල වාට්ටුවේ කාර්යභාර වෛද්‍යවරයා හෙදියන් ඇතුළු කාර්ය මණ්ඩලය විසින් මෙම සිද්ධිය සාමාන්‍ය රුධිර වාහනය වීමක් ලෙස සලකා ඇති බවට මිය ගිය කාන්තාවගේ මව විසින් පෙලීසියට පවසා තිබුණි.
+The woman had returned home after Murraj Seddja, a 27 year old graduate woman, who was in Mannar.
+
+She had been transferred to the Mannar General Hospital for further treatment, while she had been transferred to the Mannar Hospital for further treatment.
+
+However, the mother of the dead woman had told the death of the dead to be considered a normal blood vehicle by the respective ward.
+
+However, the woman had died for a few hours later and died on July 28 hours after her mother filed a petition to all authorities.
+
+The Director of the Northern Province and the Ministry of Health Services have commenced the investigation and the Mannar Hospital in the Mannar Hospital in the Mannar Hospital, the manager of the Mannar Hospital, had taken steps to suspend the services of two nurses and a family health.
 
 ...
 
 [Data](articles/a38e1988.json)
+
+[Extended Data](ext_articles/a38e1988.ext.json)
 
 ---
 

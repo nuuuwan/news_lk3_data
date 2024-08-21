@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 23:37:16**
+As of **2024-08-21 23:56:26**
 
 ## Newspaper Stats
 
-*Scraped **41,952** Articles*
+*Scraped **41,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,46 @@ newsfirstlk | 363
 bbccomsinhala | 387
 colombotelegraphcom | 403
 islandlk | 2,426
-economynextcom | 2,527
+economynextcom | 2,536
 dailyftlk | 2,701
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
 tamilmirrorlk | 5,437
-virakesarilk | 6,677
+virakesarilk | 6,680
 adaderanasinhalalk | 7,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,952 (100.0%) of 41,952 articles have been extended.
+41,952 (100.0%) of 41,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### அயூப், ஷக்கீல் குவித்த அரைச் சதங்கள் பாகிஸ்தானை நல்ல நிலையில் இட்டன
+
+*2024-08-21 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191668) · `ta`
+
+பங்களதேஷுக்கு எதிராக ராவல்பிண்டி கிரிக்கெட் விளையாட்டரங்கில் இன்று புதன்கிழமை (21) ஆரம்பமான முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் முதலில் துடுப்பெடுத்தாடிவரும் பாகிஸ்தான் முதலாம் நாள் ஆட்டநேர முடிவில் 4 விக்கெட்களை இழந்து 158 ஓட்டங்களைப் பெற்றிருந்தது.
+
+இன்று காலை பெய்த மழை காரணமாக சுமார் நான்கரை மணித்தியாலங்கள் தாமதித்தே போட்டி தொடங்கியது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட பாகிஸ்தான் முதல் 3 விக்கெட்களை 16 ஓட்டங்களுக்கு இழந்து பெரும் தடுமாற்றத்தை எதிர்கொண்டது.
+
+அப்துல்லா ஷபிக் (2), அணித் தலைவர் ஷான் மசூத் (6), முன்னாள் அணித் தலைவர் பாபர் அஸாம் (0) ஆகிய மூவரும் 9 ஓவர்களுக்குள் ஆட்டம் இழந்து வெளியேறினர்.
+
+இந் நிலையில் ஜோடி சேர்ந்த சய்ம் அயூப், சவூத் ஷக்கீல் ஆகிய இருவரும் மிகவும் நிதானத்துடன் துடுப்பெடுத்தாடி 4ஆவது விக்கெட்டில் 98 ஓட்டங்களைப் பகிர்ந்து அணிக்கு சிறு நம்பிக்கையை ஊட்டினர்.
+
+தனது இரண்டாவது டெஸ்ட் போட்டியில் விளையாடும் அயூப் மிகத் திறமையாகத் துடுப்பெடுத்தாடி கன்னிச் அரைச் சதத்தைப் பூர்ததிசெய்து 56 ஓட்டங்களுடன் ஆட்டம் இழந்தார்.
+
+...
+
+[Data](articles/602576ed.json)
+
+---
 
 ### Preservation and liabilities of presidential candidates are published
 
@@ -81,6 +103,22 @@ Milan who reported the first 6 beat in the innings, Milan received 6 hits and 4 
 [Data](articles/45f761a6.json)
 
 [Extended Data](ext_articles/45f761a6.ext.json)
+
+---
+
+### வடக்கு மக்களை ஏமாற்ற போவதில்லை பொலிஸ், காணி அதிகாரங்களை வழங்க முடியாது - நாமல் ராஜபக்‌ஷ
+
+*2024-08-21 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191667) · `ta`
+
+தேர்தல் காலத்தில் வடக்கில் உள்ளவர்களை ஏமாற்ற வேண்டிய தேவை கிடையாது.  முடிந்ததை முடியும் என்பேன், முடியாததை முடியாது என்பேன்.  தமிழர்களின் கலாச்சாரத்தை பாதுகாப்பேன். மொழி உரிமையும் வழங்குவேன். ஆனால் வடக்கு மற்றும் கிழக்கு மாகாணத்தை ஒன்றிணைத்து காணி மற்றும் பொலிஸ் அதிகாரத்தை ஒருபோதும் வழங்கமாட்டேன்  என பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் முதலாவது கன்னி தேர்தல் பிரச்சாரக் கூட்டம் புதன்கிழமை (21) அநுராதபுரம் நகரில் இடம்பெற்றது. இதன்போது உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுன இந்த நாட்டின் அரசியல் வரைபடத்தை மாற்றியமைத்தது. முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தேசிய உற்பத்திகளை முன்னிலைப்படுத்திய பொருளாதார திட்டங்களை முன்னெடுத்து குறுகிய  காலத்தில் நாட்டை பல்வேறு துறைகளில் முன்னேற்றினார்.
+
+...
+
+[Data](articles/bc3474fc.json)
 
 ---
 
@@ -281,6 +319,22 @@ Accordingly, on Wednesday (21), the body was excavated in the presence of Mr. Sy
 [Data](articles/c5caaa08.json)
 
 [Extended Data](ext_articles/c5caaa08.ext.json)
+
+---
+
+### Opinion: Thalatha is right to lament UNP-SJB split
+
+*2024-08-21 20:32:00* · [`economynextcom`](https://economynext.com/opinion-thalatha-is-right-to-lament-unp-sjb-split-177625/) · `en`
+
+ECONOMYNEXT — Opposition MP Thalatha Atukorala believes that, if the United National Party (UNP) and the breakaway Samagi Jana Balawegaya (SJB) were to reunite, Sri Lanka’s voters would hand over the country to them “on a platter”.
+
+Whether she is correct in this presumption is anybody’s guess, but with just one month left to go to the presidential election, the chances of a reconciliation between the two parties, already in the decimal range, are fast approaching zero.
+
+Below is an excerpt from the speech Atukorala made in parliament Wednesday August 21 morning before she called it quits:
+
+...
+
+[Data](articles/f2b041f4.json)
 
 ---
 
@@ -559,6 +613,20 @@ Investment Promotion State Minister Dilum Amunugama, Hon.
 [Data](articles/8e7b26c0.json)
 
 [Extended Data](ext_articles/8e7b26c0.ext.json)
+
+---
+
+### மனித அபிவிருத்திச் சுட்டெண்ணின் பிரகாரம் 193 நாடுகளில் 78 ஆவது இடத்தில் இலங்கை
+
+*2024-08-21 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191652) · `ta`
+
+சர்வதேச செஞ்சிலுவை, செம்பிறைச் சங்கங்களின் சம்மேளனத்தினால் வெளியிடப்பட்டுள்ள வருடாந்த அறிக்கையின் பிரகாரம் இலங்கையானது 0.782 என்ற மனித அபிவிருத்திச் சுட்டெணுடன் 193 நாடுகளின் பட்டியலில் 78 ஆவது இடத்தில் இருக்கின்றது.
+
+கடந்த 2019 ஆம் ஆண்டு இலங்கை உயர் - நடுத்தர வருமானம் பெறும் நாடு எனும் நிலையை அடைந்திருந்த போதிலும், 2020 ஆம் ஆண்டு மீண்டும் குறைந்த - நடுத்தர வருமானம் பெறும் நாடு எனும் நிலைக்குக் கீழிறங்கியது. இருப்பினும் 2023 ஆம் ஆண்டுக்கான மனித அபிவிருத்திச் சுட்டெண் பிரகாரம் 193 நாடுகளில் இலங்கை 78 ஆவது இடத்தைப் பிடித்திருக்கிறது. இலங்கை உயர்வான மனித அபிவிருத்தியைக் கொண்டிருக்கிறது என்பதே இதன் அர்த்தமாகும்.
+
+...
+
+[Data](articles/20c739a9.json)
 
 ---
 
@@ -868,6 +936,70 @@ Rescuers have rushed throughout the province to assist the affected areas, as he
 
 ---
 
+### Sri Lanka to finalize 10 mining investments under new regulation: State Minister
+
+*2024-08-21 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-finalize-10-mining-investments-under-new-regulation-state-minister-177639/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in the process of finalizing 10 mining companies which have been looking to invest in the island nation’s mining for a long time amid change in the mining regulation, State Investment Minister Dilum Amunugama said.
+
+The Cabinet in August 2023 approved several proposals by President Ranil Wickremesinghe aimed at promoting foreign and local investment in the country’s mineral industry to boost revenues in a sector which has been long dragged by corruption.
+
+The cabinet proposal has changed the earlier mandatory requirement of value addition from the first day of the business.
+
+Instead, the government considers separation of minerals from the deposits as the initial value addition and the licensee could export the minerals either for 24 months or a maximum 30 percent of the grids. The licensee then could put up a value addition plant.
+
+...
+
+[Data](articles/7fe2ce3c.json)
+
+---
+
+### Sri Lanka lenders, Bank of China eye Port City for offshore banking
+
+*2024-08-21 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-lenders-bank-of-china-eye-port-city-for-offshore-banking-177626/) · `en`
+
+ECONOMYNEXT – Nine Sri Lanka banks have applied to, and Bank of China has expressed interest in, setting up branches within the special economic zone, Chief Operating Officer of the Colombo Port City Economic Commission Revan Wikramasuriya said.
+
+Sri Lanka recently gazetted regulations governing banks within the Port City. The banks will be regulated by Sri Lanka’s central bank, Wikramasuriya told reporters in Colombo.
+
+Commercial Bank of Ceylon, HNB, Sampath, NDB, NTB, Union Bank, DFCC, Bank of Ceylon and People’s Bank have applied to set up branches.
+
+The banks will provide services to offshore customers and businesses operating within the Colombo Port City.
+
+The Colombo Port City is a dollarized special economic zone which will be free of central bank liquidity tools and therefore free of currency crises. (Colombo/August21/2024)
+
+◼️
+
+[Data](articles/9b10ea66.json)
+
+---
+
+### Sri Lanka stocks close down, limited activity
+
+*2024-08-21 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-limited-activity-177628/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 0.11 percent, or 12.37 points, at 11,482; while the more liquid S&P SL20 Index closed up 0.08 percent, or 2.63 points, at 3,302.
+
+“Market ended a mixed bag today,” Softlogic Stockbrokers said. “There was more negative contributions to the ASPI than positive.”
+
+“There was very limited activity; it was another lackluster day.”
+
+There were two crossings recorded in the day; Melstacorp Plc (down at 81.70) and Pan Asia Banking Corporation Plc (up at 20.00).
+
+There was net foreign inflow of 580,955 recorded in the day.
+
+Top foreign buying was seen on Chevron Lubricants Lanka Plc (up at 124.00), and TeeJay Lanka Plc, (up at 40.70).
+
+Most active volumes, retail-driven, were seen on Sampath Bank Plc (up at 77.90).
+
+...
+
+[Data](articles/764ec0b0.json)
+
+---
+
 ### The number of dengue patients crossed 35,000
 
 *2024-08-21 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191651) · `ta`
@@ -889,6 +1021,24 @@ Health officials have urged the people to maintain cleanliness in the neighborho
 [Data](articles/82de575c.json)
 
 [Extended Data](ext_articles/82de575c.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 300.20/60, bond yields down
+
+*2024-08-21 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-20-60-bond-yields-down-177635/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 300.20/60 to the US dollar Wednesday, from 299.60/300.00 Tuesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 11.00/15 percent, down from 11.05/20 percent.
+
+A bond maturing on 15.06.2029 closed at 12.85/95 percent, down from 12.90/13.00 percent.
+
+A bond maturing on 01.10.2032 closed at 13.20/25 percent, up 13.10/25 percent. (Colombo/Aug21/2024)
+
+◼️
+
+[Data](articles/a857f88a.json)
 
 ---
 
@@ -1270,6 +1420,24 @@ Sri Lanka were also able to win the two-match Test tournament.
 
 ---
 
+### Sri Lanka sells Rs120bn in treasury bills
+
+*2024-08-21 14:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs120bn-in-treasury-bills-177604/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 3-month and 6-month treasury bill yields were up at Wednesday’s auction while the 12-month was down, with all offered 120 billion bills sold, data from the debt office showed.
+
+The 3-month yield was up 3 basis points to 9.42 percent, with 55 billion rupees offered and 76.1 billion rupees of bills sold.
+
+The 6-month yield was up 12 basis points to 9.80 percent, with 35 billion offered and 43.1 billion rupees of bills sold.
+
+The 12-month bills fell 2 basis points to 10.01 percent, with 30 billion offered and 740 million rupees of bills sold. (Colombo/Aug21/2024)
+
+◼️
+
+[Data](articles/18a2763a.json)
+
+---
+
 ### The world hero 'Kamal Haasan's praise'
 
 *2024-08-21 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/191625) · `ta`
@@ -1345,6 +1513,24 @@ State Cabinet Minister Girish Mahajan, who attempted to pacify the protesters, a
 [Data](articles/13014672.json)
 
 [Extended Data](ext_articles/13014672.ext.json)
+
+---
+
+### Sri Lanka’s John Keells delists GDR from Luxembourg Stock Exchange
+
+*2024-08-21 14:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-john-keells-delists-gdr-from-luxembourg-stock-exchange-177599/) · `en`
+
+ECONOMYNEXT – Sri Lanka conglomerate John Keells Holdings Plc said it had completed the delisting of its Global Depositary Receipts Program from the Luxembourg Stock Exchange.
+
+“The process of termination and delisting of the GDR Program from the Luxembourg Stock Exchange has been completed,” the company said in a Colombo stock exchange filing.
+
+John Keells announced on November 16, 2023 that it would terminate the captioned GDR Program, due to the relatively low number of GDR in issue and given “that they are not a significant contributor to facilitating trading in Company securities.”
+
+Global depositary shares are issued in international markets to access investors in capital markets outside a company’s home country. They are traded and pay dividends in US dollars. (Colombo/Aug21/2024)
+
+◼️
+
+[Data](articles/a7ba861f.json)
 
 ---
 
@@ -1545,6 +1731,28 @@ He said that there is a miraculous magic in the air and a feeling of deeply buri
 [Data](articles/bc1c908b.json)
 
 [Extended Data](ext_articles/bc1c908b.ext.json)
+
+---
+
+### Second US warship calls at Colombo Port for replenishment
+
+*2024-08-21 13:20:00* · [`economynextcom`](https://economynext.com/second-us-warship-calls-at-colombo-port-for-replenishment-177586/) · `en`
+
+ECONOMYNEXT – The USS O’kane of the United States Navy arrived at the Colombo Port on a replenishment visit on Wednesday (21), Sri Lanka’s Navy said.
+
+“The Sri Lanka Navy warmly welcomed the ship upon its arrival,” the Navy said. “Following the completion of replenishments, she is scheduled to depart the island on 22nd August.”
+
+USS O’kane is an 154-meter Arleigh Burke-class destroyer operated by a crew of 328 personnel. The ship is commanded by Commander Richard Ray.
+
+The warship follows the USS Spruance which arrived at the Colombo Port on Aug 19.
+
+Arleigh Burke-class destroyers are warships that can conduct various mission sets, including anti-submarine warfare, anti-air warfare, and anti-surface warfare.
+
+The USA has been moving military craft to the region in anticipation of a broader war in the middle east/west Asia, foreign media have reported. (Colombo/Aug20/2024)
+
+◼️
+
+[Data](articles/d5dfca5f.json)
 
 ---
 
@@ -2094,6 +2302,22 @@ The decision was taken on the consensus of the people of Matara, saying that the
 
 ---
 
+### Sri Lanka alcohol makers default on taxes of Rs7.9bn
+
+*2024-08-21 11:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-alcohol-makers-default-on-taxes-of-rs7-9bn-177532/) · `en`
+
+ECONOMYNEXT – Several alcohol makers have defaulted on taxes worth 7.9 billion rupees, Champika Ranawaka, a legislator who heads the Committee on Ways and Means of the parliament said.
+
+W M Mendis and Company owed 3.447 billion rupees, Wayamba Distilleries 560 million rupees, Wayamba Spirits 281 million rupees, Globe Blenders 1.148 million rupees, McCallum Brewery 619 million rupees, and Kalutara Cooperative Distilleries 17 million rupees in unpaid arrears, he told parliament Wednesday.
+
+According to the committee’s report, several of these companies had volunteered to pay default taxes and negotiations are in progress. (Colombo/Aug21/2024)
+
+◼️
+
+[Data](articles/a6431450.json)
+
+---
+
 ### The ruling party member came to the opposition through the church and helps Sajith supports the opposition
 
 *2024-08-21 11:45:27* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩු-පක්ෂයේ-මන්ත්‍රීවරයෙක්-සභා-ගර්භය-මැදින්-විපක්ෂයට-පැමිණ-සජිත්ට-සහය-පළ-කරයි/11-411484) · `si`
@@ -2151,261 +2375,5 @@ He was speaking at a special statement in parliament.
 [Data](articles/4ee6d9f0.json)
 
 [Extended Data](ext_articles/4ee6d9f0.ext.json)
-
----
-
-### Dalada Athukorala resigned from parliament
-
-*2024-08-21 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191599) · `ta`
-
-Dalada Athukorala, United People's Power Ratnapura District Parliamentarian, resigned from his parliamentary position, citing Opposition Leader Sajith Premadasa's haste to become president and advising caution based on Gotabhaya Rajapakse's fate.
-
-🟩
-
-United People's Power Ratnapura District Parliamentarian Dalada Athukorala has announced to the council that he will resign.
-
-On Wednesday (21), he announced his resignation of his parliamentary position by leaving a special announcement in Parliament.
-
-Meanwhile, Dalada Athukorala has stated that Opposition Leader Sajith Premadasa is trying to become president quickly and that the fate of Gotabhaya Rajapakse should be a lesson.
-
-◼️
-
-[Data](articles/229defb7.json)
-
-[Extended Data](ext_articles/229defb7.ext.json)
-
----
-
-### Thalatha handeshats
-
-*2024-08-21 11:27:06* · [`adalk`](https://www.ada.lk/breaking_news/තලතා-මන්ත්‍රී-ධුරය-අතහරී/11-411483) · `si`
-
-Ms. Thalatha Athukorala from the Samagi Force mentioned a significant announcement was made in Parliament previously.
-
-🟩
-
-Ms. Thalatha Athukorala of the Samagi Force stated that a special statement in Parliament has made a special statement in Parliament earlier.
-
-◼️
-
-[Data](articles/b4f10b27.json)
-
-[Extended Data](ext_articles/b4f10b27.ext.json)
-
----
-
-### Dalada Athukorala resigns
-
-*2024-08-21 11:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-அத்துகோரள-இராஜினாமா/175-342558) · `ta`
-
-Dalada Athukorala resigned from the United People's Power party, which sparked opposition from leader Sajith Premadasa.
-
-🟩
-
-United People's Power Member Talada Attukorala has announced his resignation.
-
-Opposition leader Sajith Premadasa said he was opposed to the decision to form the United People's Power.
-
-◼️
-
-[Data](articles/481a7d28.json)
-
-[Extended Data](ext_articles/481a7d28.ext.json)
-
----
-
-### Dalada Athukorala resigns
-
-*2024-08-21 11:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தலதா-அத்துகோரள-இராஜினாமா/150-342558) · `ta`
-
-Dalada Athukorala resigned from the United People's Power party, which sparked opposition from leader Sajith Premadasa.
-
-🟩
-
-United People's Power Member Talada Attukorala has announced his resignation.
-
-Opposition leader Sajith Premadasa said he was opposed to the decision to form the United People's Power.
-
-◼️
-
-[Data](articles/74cd54a5.json)
-
-[Extended Data](ext_articles/74cd54a5.ext.json)
-
----
-
-### Three persons arrested for acting like priests in Tangalle
-
-*2024-08-21 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191589) · `ta`
-
-In Tangalle, three individuals impersonating priests were arrested by the STF, confiscating 10 gemstones and 262 ancient coins. The duo disguised as clergy were from Galle Neluwa and Galle Nagoda, aged 24 and 25.
-
-🟩
-
-Tangalle police said that three suspects who allegedly carried various archaeologies were arrested by the Special Task Force (STF) in the Tangalle area.
-
-Police said Gajamuthu, 10 gemstones and 262 old coins were seized from the arrested persons.
-
-Among the suspects, the two were dressed like priests and the other were from the Galle Neluwa area and the other was from the Galle Nagoda area, police said.
-
-The arrested suspects were 24 and 25 years old, police said.
-
-◼️
-
-[Data](articles/fa62a295.json)
-
-[Extended Data](ext_articles/fa62a295.ext.json)
-
----
-
-### SJB’s Thalatha Athukorala resigns as MP
-
-*2024-08-21 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101393/sjbs-thalatha-athukorala-resigns-as-mp) · `en`
-
-Samagi Jana Balawegaya (SJB) Ratnapura District MP Thalatha Athukorala has informed parliament that she will be resigning from her position as a Member of Parliament.
-
-She made the announcement while delivering a statement in Parliament today (21).
-
-Thalatha Athukorala, the sister of the late United National Party (UNP) politician Gamini Athukorala, first entered Parliament in 2004.
-
-She has been re-elected in subsequent general elections in 2010, 2015, and 2020 from the Ratnapura District.
-
-In the 2020 general election, she secured her seat in Parliament as a member of the Samagi Jana Balawegaya (SJB) with 45,105 votes from the Ratnapura District.
-
-Delivering her special statement in parliament today, Athukorala said the following:
-
-...
-
-[Data](articles/7f89dae1.json)
-
-[Extended Data](ext_articles/7f89dae1.ext.json)
-
----
-
-### Sri Lanka’s CEB used Rs93bn profit to settle dues: Minister
-
-*2024-08-21 11:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-used-rs93bn-profit-to-settle-dues-minister-177493/) · `en`
-
-ECONOMYNEXT – A net profit of 93 billion rupees made by Sri Lanka’s state power utility the Ceylon Electricity Board was used to settle outstanding debt, the Minister of Power and Energy said.
-
-“The net profit of Rs 93 Billion by June 2024 has been utilized to pay the outstanding amounts to Renewable energy developers, Thermal power plants, Coal Procurement, Local suppliers, Dues to major projects, Roof top solar & Short term banking facilities,” Kanchana Wijesekera said on X (twitter).
-
-The electricity consumer tariffs has been revised and reduced considering the other profits after settlement of payments, Wijesekera said in post titled ‘CEB Profits and Balances clarification’.
-
-CEB reported a profit of 34.5 billion rupees for the three months ended on June 30, a 67 percent jump compared to 20.7 billion rupees in the same quarter in 2023 despite a fall in the revenue, interim accounts showed.
-
-...
-
-[Data](articles/a158931b.json)
-
-[Extended Data](ext_articles/a158931b.ext.json)
-
----
-
-### Earthquake in Kashmir
-
-*2024-08-21 11:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காஷ்மீரில்-நிலநடுக்கம்/50-342557) · `ta`
-
-A strong earthquake hit the Kashmir region, affecting both Pakistan and India. Measuring 5.1 on the Richter scale, it caused significant damage to buildings, leading many residents to seek safety outdoors.
-
-🟩
-
-A powerful earthquake struck in Kashmir, Pakistan and Indian border.
-
-As the earthquakes recorded 5.1 points on the Richter scale, many of the buildings there shocked the public and sought refuge on the street.
-
-◼️
-
-[Data](articles/8b4f456f.json)
-
-[Extended Data](ext_articles/8b4f456f.ext.json)
-
----
-
-### Six arrested over shooting and killing in Sripura
-
-*2024-08-21 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101392/six-arrested-over-shooting-and-killing-in-sripura) · `en`
-
-Six individuals have been arrested in connection with the recent shooting and killing of a youth in the Siripura area.
-
-The shooting had occurred at Pulleyar Junction in Gemunupura and was carried out by two unidentified gunmen on a motorcycle, said police.
-
-The preliminary investigations have revealed that the murder was carried out under the directive of the notorious underworld figure Gunasiri Priyantha, alias “Pathala Priyantha” who is in Dubai.
-
-However, during the interrogation of the arrested suspects it has been revealed that the victim of the shooting was not the intended target.
-
-The arrested suspects are aged 20, 22, 38, 40 and 47 and are residents of Weli Oya, Padaviya, Kebithigollewa and Parakramapura.
-
-◼️
-
-[Data](articles/518d7b33.json)
-
-[Extended Data](ext_articles/518d7b33.ext.json)
-
----
-
-### Thalatha resigns from post
-
-*2024-08-21 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200169) · `si`
-
-Thalatha Athukorala, a prominent UNP member and three-time parliamentarian from Ratnapura, announced her resignation today. She served under the leadership of her brother, Gamini Athukorala, and was last elected in 2020 with a significant number of preferential votes.
-
-🟩
-
-The Ratnapura District Parliamentarian Thalatha Athukorala today (21) stated today.
-
-Thalatha Athukorala is the chief of the UNP Gamini Athukorala.
-
-She was elected to Parliament in 2010, 2015 and 2020 in general elections.
-
-In 2020, she was elected to Parliament with 45,105 preferential votes in the Ratnapura District.
-
-◼️
-
-[Data](articles/cc418acc.json)
-
-[Extended Data](ext_articles/cc418acc.ext.json)
-
----
-
-### Dalada Special Text: Mustafabu to make action decision
-
-*2024-08-21 10:59:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-விசேட-உரை-அதிரடி-முடிவை-எடுக்க-முஸ்தீபு/175-342556) · `ta`
-
-Mustafabu, a member of the United People's Power Party, delivered a significant speech indicating potential changes within the party. Following this address, he plans to make a crucial decision regarding his political path.
-
-🟩
-
-United People's Power Member of Parliament of the United People's Power. He has been addressing a special speech as it has been reported that the party will change.
-
-After the speech, he will make a decisive decision on his political journey.
-
-◼️
-
-[Data](articles/098e7186.json)
-
-[Extended Data](ext_articles/098e7186.ext.json)
-
----
-
-### "Ready to face the monkey"
-
-*2024-08-21 10:59:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்கம்மைக்கு-முகங்கொடுக்க-தயார்/175-342555) · `ta`
-
-Sri Lanka is preparing to tackle a monkey issue, as stated by Health Minister Ramesh Pathirana in parliament. Measures are in place to protect citizens from potential harm, with the health ministry's readiness significantly improved compared to previous years.
-
-🟩
-
-Health Minister Ramesh Pathirana told parliament today that Sri Lanka is preparing to face monkeys a few years ago.
-
-Responding to a question raised by MP Rauf Hakeem, the minister said that all necessary measures have been taken to prevent the people from harm.
-
-“The Ready for Infection of the Ministry of Health is now much better than last years. They have taken all necessary measures to keep people from being affected, ”he said
-
-◼️
-
-[Data](articles/6ce3dd53.json)
-
-[Extended Data](ext_articles/6ce3dd53.ext.json)
 
 ---

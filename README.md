@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 03:06:42**
+As of **2024-08-22 03:21:16**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,989 (100.0%) of 41,990 articles have been extended.
+41,990 (100.0%) of 41,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### ’சூதாட்ட, கறுப்புப் பணம் விளையாடுகின்றது”
+### Model gambling, black money playing ”
 
 *2024-08-22 02:13:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூதாட்ட-கறுப்புப்-பணம்-விளையாடுகின்றது/175-342606) · `ta`
 
-ஜனாதிபதித் தேர்தலில் கறுப்புப் பணம், பாதாள குழுக்களின் பணம், போதைப் பொருள் பணம் மற்றும் சூதாட்ட பணம் அதிகளவில் பயன்படுத்தப்படுகின்றது என்று சுயேச்சை ஜனாதிபதி வேட்பாளரான பாராளுமன்ற உறுப்பினர் ரொஷான் ரணசிங்க தெரிவித்தார்.
+Roshan Ranasinghe, an independent presidential candidate, criticized the use of black money, drug money, and gambling funds in the upcoming election, questioning its fairness. He highlighted discrepancies such as limited candidate encouragement despite numerous nominations and vastly differing campaign spending limits between local and presidential elections. Ranasinghe urged for a fair election process and warned against the potential societal corruption and economic instability these practices could lead to.
 
-பாராளுமன்றத்தில் புதன்கிழமை (21) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+🟩
 
-ஜனாதிபதித் தேர்தல் சுதந்திரமானது என்றாலும் நீதியானதா? என்ற கேள்விகள் எழுகின்றன. தேர்தல்கள் ஆணைக்குழுவே முதலில் அநீதியை இழைக்கின்றது. சில வேட்பாளர்களுக்காக அவர்களின் உதவியாளர்களை அழைத்துவர தனியான இடம் ஒதுக்கியுள்ளது.
+Independent presidential candidate Roshan Ranasinghe said that black money, money, drug money and gambling money are heavily used in the presidential election.
 
-39 வேட்பாளர்கள் வேட்பு மனுக்களை தாக்கல் செய்கையில் 4 வேட்பாளர்களுக்காக மட்டும் இடம் ஒதுக்குவது அவர்களுக்காக ஊக்குவிப்பாகவே அமைகின்றது.
+He said this while addressing a special statement in Parliament on Wednesday (21).
 
-இதனை செய்ய முடியுமா? இதேவேளை உள்ளூராட்சித் தேர்தலில் வாக்காளர் ஒருவருக்காக 20 ரூபாவே செலவிட முடியும் என்று அறிவிக்கப்பட்டுள்ளது. ஆனால் ஜனாதிபதித் தேர்தலில் வேட்பாளர் ஒருவரால் 109 ரூபா செலவிட முடியுமென அறிவித்துள்ளது. அப்படியென்றால் 18,500 இலட்சம் ரூபா அவசியமாகும்.
+Is the presidential election independent but is justice?Questions arising. Elections Commission first implement injustice. A separate place has been allocated to bring their assistants for some candidates.
+
+When 39 candidates file nominations, only 4 candidates are encouraged.
+
+Can this be done?Meanwhile, it has been announced that a voter can spend 20 rupees in the local government election. But the presidential election has announced that a candidate can spend 109 rupees. That is, 18,500 lakhs of rupees.
+
+This is not a small amount. Similarly, some media also acts for each candidate. 39 people should be given equal rights. But not that happens like that. Meanwhile, February is also being treated unjustly. The company calls only 6 people for debate.
 
 ...
 
 [Data](articles/8822d2a2.json)
+
+[Extended Data](ext_articles/8822d2a2.ext.json)
 
 ---
 

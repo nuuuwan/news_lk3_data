@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 09:21:33**
+As of **2024-08-21 09:36:42**
 
 ## Newspaper Stats
 
-*Scraped **41,810** Articles*
+*Scraped **41,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,701
 adalk | 3,847
 dailymirrorlk | 4,733
 adaderanalk | 4,892
-tamilmirrorlk | 5,406
+tamilmirrorlk | 5,409
 virakesarilk | 6,648
 adaderanasinhalalk | 7,138
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 7,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,808 (100.0%) of 41,810 articles have been extended.
+41,810 (100.0%) of 41,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### நாமலின் முதலாவது ஜனாதிபதி தேர்தல் பிரச்சார கூட்டம் இன்று
+
+*2024-08-21 09:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-முதலாவது-ஜனாதிபதி-தேர்தல்-பிரச்சார-கூட்டம்-இன்று/175-342547) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முதலாவது தேர்தல் பிரச்சார கூட்டம் இன்று (21) அனுராதபுரத்தில் நடைபெறவுள்ளதாக பாராளுமன்ற உறுப்பினர் சஞ்சீவ எதிரிமான்ன தெரிவித்துள்ளார்.
+
+ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவை வெற்றியடையச் செய்யும் நோக்கில் இன்று பிற்பகல் 2 மணிக்கு அனுராதபுரம் கடபனஹா பிரதேசத்தில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் மாபெரும் தேர்தல் பிரச்சார கூட்டம் ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+இந்த முதலாவது பிரச்சார கூட்டத்தை அநுராதபுரத்திற்கு கொண்டு சென்றமை ஜனாதிபதித் தேர்தல் பிரச்சாரத்துக்கு கிடைத்த வெற்றியாகவும் பார்க்கிறோம் எனவும் அவர் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/e89b07ed.json)
+
+---
+
+### ஹெரோயினுடன் பொலிஸ் அதிகாரிகள் கைது
+
+*2024-08-21 09:08:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹெரோயினுடன்-பொலிஸ்-அதிகாரிகள்-கைது/175-342546) · `ta`
+
+சுமார் ஒரு கிலோ கிராம் ஹெரோயின் போதைப்பொருளை வைத்திருந்த பொலிஸ் பரிசோதகர் மற்றும் கான்ஸ்டபிள் ஆகியோர் பிலியந்தலையில் வைத்து கொழும்பு குற்றத்தடுப்பு பிரிவினரால் கைது செய்யப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/d9cca733.json)
+
+---
 
 ### Eyeing Eurasian connectivity corridors, Sri Lanka builds partnership with Central Asian countries
 
@@ -45,6 +73,20 @@ Titled ‘Central Asia Forum: A Gateway to New Horizons’, the Colombo event wi
 ...
 
 [Data](articles/7acc2eb3.json)
+
+[Extended Data](ext_articles/7acc2eb3.ext.json)
+
+---
+
+### புத்தளம் மார்க்க ரயில் சேவைகள் பாதிப்பு
+
+*2024-08-21 08:43:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மார்க்க-ரயில்-சேவைகள்-பாதிப்பு/175-342545) · `ta`
+
+சிலாபம் மற்றும் பங்கதெனியவுக்கு இடையில் மரமொன்று தண்டவாளத்தில் வீழ்ந்ததால் குறித்த மார்க்கத்தின் ரயில்  சேவைகள் தடைப்பட்டுள்ளதாகத் ரயில்வே திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/3d6d2b86.json)
 
 ---
 
@@ -1664,21 +1706,27 @@ Announcing this decision, Mawbima Janatha Pakshaya (MJP) leader Dilith Jayaweera
 
 ---
 
-### රට විරුවෝ මුල් මාස 7දී රු. බිලියන 964 ක් එවලා
+### For the first 7 months of the first 7 months of Rs. 964 billion
 
 *2024-08-20 17:37:54* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවෝ-මුල්-මාස-7දී-රු--බිලියන-964-ක්-එවලා/11-411468) · `si`
 
-විගමනික ශ්‍රමික ප්‍රජාව විසින් මේ වසරේ මුල් මාස 7 තුල රුපියල් බිලියන 964 කට අධික මුදල් මෙරටට එවා ඇති බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යංශය විසින්  ප්‍රකාශය කර ඇත .එය ඇමරිකානු ඩොලර් මිලියන 3710 ක් හෙවත්  බිලියන 3.710 අගයක් ගනියි .ඒ අනුව  2024 වර්ෂයේ  වැඩිම විදේශ ප්‍රේෂනය සිදු කළ මාසය මාර්තු වන අතර එහි අගය USS මිලියන 572 වෙයි .
+In the first half of 2023, Sri Lanka received over Rs. 964 billion from migrant workers, with a peak of $572 million in March and $566.8 million in July. This significant influx contributes to the country's foreign exchange reserves, crucial for importing essentials like medicines, fuel, and gas.
 
-පසුගිය ජූලි මසයේ දී  USS මිලියන 566.8 ක් විගමනික ශ්‍රමකයින් විසින් මෙරටට ප්‍රේෂනය කර ඇති බව වාර්තා වෙයි.මේ අතර 2023  වර්ෂයේදි  විගමනික ශ්‍රමක ප්‍රජාව විසින් මෙරටට එවා ඇති මුළු විදේශ විනිමය ප්‍රේෂන ප්‍රමාණය ඇමරිකානු ඩොලර් මිලියන 5970 වෙයි.එය 2022 වර්ෂය හා සැසදීමේදී 58% කැපී පෙනෙන  වර්ධනයකි.
+🟩
 
-විගමනික ශ්‍රමක ප්‍රජාව විසින් මෙරටට එවනු ලැබු ප්‍රේෂන  ශ්‍රී ලංකාවේ විදේශ විනිමය සංචිතය ඉහළ නැංවීම  සඳහා  විශාල දායකත්වයක්  දරනු ලබයි. මෙරට ඖෂධ, ඉන්ධන , ගෑස්  ඇතුළු අත්‍යවශ්‍ය භාණ්ඩ ආනයනයේදී විදේශ විනිමය අත්‍යවශ්‍ය මෙන්ම ඉතාම වැදගත් වෙයි.
+The Sri Lanka Foreign Employment Bureau has made a statement that the migrant work community has sent more than Rs. 364 billion in the first seven months of this year.The month performed was March, and its value is 572 million USS.
 
-මෙ වසරේ ජනවාරි  සිට අගෝස්තු  මාසය දක්වා  187,000 කට වඩා වැඩි ප්‍රමාණයක් රැකියා සඳහා විදේශ ගත වී ඇති බව වාර්තා වෙයි .
+USS 566.8 million in July was remitted to Sri Lanka.A growth.
+
+The remittances that were sent to Sri Lanka by the migrant service to Sri Lanka is a major contributor to Sri Lanka's foreign exchange reserve. Foreign exchange is essential as well as the importation of essential commodities including drugs, fuel, gas.
+
+From January to August, more than 187,000 has been abroad to employment from January to August.
 
 ◼️
 
 [Data](articles/f6d83c44.json)
+
+[Extended Data](ext_articles/f6d83c44.ext.json)
 
 ---
 
@@ -2225,71 +2273,5 @@ It is your duty to provide guidelines on how you want to carry out it if you rea
 [Data](articles/3ec0e2f6.json)
 
 [Extended Data](ext_articles/3ec0e2f6.ext.json)
-
----
-
-### Israeli military retrieves bodies of six hostages held in Gaza
-
-*2024-08-20 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/101376/israeli-military-retrieves-bodies-of-six-hostages-held-in-gaza) · `en`
-
-Israel retrieved the bodies of six hostages from the Khan Younis area in southern Gaza overnight, according to statements from the military and the prime minister’s office on Tuesday.
-
-The families of Yagev Buchshtab, Alexander Dancyg, Avraham Munder, Yoram Metzger, Nadav Popplewell, and Chaim Perry have been informed, the statements added.
-
-The Hostages Families Forum, an organisation that represents most hostage families, welcomed the news but renewed its call on the government to conclude a hostage release deal with the Gaza-based Palestinian militant group Hamas.
-
-“The immediate return of the remaining 109 hostages can only be achieved through a negotiated deal. The Israeli government, with the assistance of mediators, must do everything in its power to finalise the deal currently on the table,” it said.
-
-U.S. Secretary of State Antony Blinken is in the Middle East this week trying to secure a ceasefire and hostage return agreement between Israel and Hamas.
-
-...
-
-[Data](articles/3e3d46ff.json)
-
-[Extended Data](ext_articles/3e3d46ff.ext.json)
-
----
-
-### Four buses set on fire in Wennappuwa
-
-*2024-08-20 16:24:30* · [`adalk`](https://www.ada.lk/breaking_news/වෙන්නප්පුවේදී-බස්-රථ-04ට-ගිනි-තියයි/11-411463) · `si`
-
-In Wennappuwa, four buses were torched around 2:30 am, with one completely destroyed and three others damaged. A local resident is suspected of setting the fire.
-
-🟩
-
-Four buses stopped in the Wennappuwa tank on Wennappuwa tank around 2.30 am today.
-
-A bus in the garage has completely burned the fire and another three buses have been damaged by fire.
-
-Police say that the damage to the fire was about Rs.
-
-According to our correspondent, a civilian installed in a house to set fire to a bus in the early hours of fire.
-
-◼️
-
-[Data](articles/ea062536.json)
-
-[Extended Data](ext_articles/ea062536.ext.json)
-
----
-
-### Memorandum of Understanding
-
-*2024-08-20 16:22:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொபாதனவி-புரிந்துணர்வு-ஒப்பந்தம்-கைச்சாத்து/175-342520) · `ta`
-
-A Memorandum of Understanding (MoU) was signed between Sri Lanka LTL Holdings Limited and PTRONET LNG Limited, facilitated by the Minister of Power and Energy Kanjana Wijesekera and the Indian Deputy High Commissioner to Sri Lanka, marking a significant event prior to the NGG meeting.
-
-🟩
-
-Sri Lanka LTL Holdings Limited, SRI LANCA)The Memorandum of Understanding (MoU) was signed shortly before the NGG (PTRONET LNG Limited and India).
-
-The event was chaired by Minister of Power and Energy Kanjana Wijesekera and Indian Deputy High Commissioner to Sri Lanka.
-
-◼️
-
-[Data](articles/27a5f822.json)
-
-[Extended Data](ext_articles/27a5f822.ext.json)
 
 ---

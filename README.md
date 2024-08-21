@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 00:54:15**
+As of **2024-08-22 01:21:35**
 
 ## Newspaper Stats
 
-*Scraped **41,973** Articles*
+*Scraped **41,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 387
 colombotelegraphcom | 403
 islandlk | 2,426
 economynextcom | 2,536
-dailyftlk | 2,710
+dailyftlk | 2,711
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
-tamilmirrorlk | 5,437
+tamilmirrorlk | 5,438
 virakesarilk | 6,680
 adaderanasinhalalk | 7,167
 
@@ -26,9 +26,49 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,968 (100.0%) of 41,973 articles have been extended.
+41,973 (100.0%) of 41,975 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-22 (Thursday)
+
+### Samsung Sri Lanka offers 20-year warranty on refrigerators and washing machines
+
+*2024-08-22 01:00:23* · [`dailyftlk`](https://www.ft.lk/business/Samsung-Sri-Lanka-offers-20-year-warranty-on-refrigerators-and-washing-machines/34-765825) · `en`
+
+Samsung Sri Lanka, a premier name in consumer electronics, proudly continues its pioneering initiative: offering a 20-year warranty on Digital Inverter Motors in washing machines and Digital Inverter Compressors in refrigerators.
+
+This extraordinary commitment underscores Samsung’s dedication to delivering durable, high-quality appliances while championing a sustainable lifestyle.
+
+In a market where sustainability and longevity are crucial, Samsung Sri Lanka sets itself apart by providing this extensive warranty on its Digital Inverter technology. This initiative not only ensures customer peace of mind but also reduces the need for frequent appliance replacements, thereby minimising e-waste and promoting environmental sustainability. This warranty underscores the brand’s focus on innovation and consumer trust, promising extended durability and reliable performance.
+
+...
+
+[Data](articles/7fb28642.json)
+
+---
+
+### Model two -node competition is stupid
+
+*2024-08-22 00:42:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-முனை-போட்டி-முட்டாள்தனமானது/175-342603) · `ta`
+
+Dalada Attukorala criticizes two-party competition, citing it as unwise and self-serving, especially when leaders contest elections separately despite being from the same party. He mentions internal conflicts leading to party splits and expresses disappointment over the lack of unity, emphasizing the importance of national interests over personal ambitions.
+
+🟩
+
+It is a foolish act for two people who join the same party and compete on two ends.Attempts to combine Ranil and Sajith were not beneficial. Therefore, because I cannot act according to mental evidence, MP. Attorney -at -Law Dalada Attukorala has announced that the resignation of the United People's Power
+
+Parliament convened on Wednesday (21) chaired by Speaker Mahinda Yapa Abeywardena. He resigned after addressing a special statement.
+
+After the demise of my brother Gamini Athukara, I came to this parliament in 2004. My brother has made many dedication to the United National Party. In any case the party does not decide to leave the party. I also worked for this party. However, on various reasons, the party split with the 2020 general election due to internal conflicts within the party. The party was protected from dividing several times before the party was split.
+
+...
+
+[Data](articles/18b0d252.json)
+
+[Extended Data](ext_articles/18b0d252.ext.json)
+
+---
 
 ### 2024-08-21 (Wednesday)
 
@@ -124,6 +164,8 @@ Shades IT Solutions Founder and CEO Shana Karan participated as the Guest Speake
 
 [Data](articles/7d8da98b.json)
 
+[Extended Data](ext_articles/7d8da98b.ext.json)
+
 ---
 
 ### SL-Korea Business Council forum sheds insights to future scenarios and challenges
@@ -139,6 +181,8 @@ The discussion and insights shared included economic forecast, business impact, 
 ...
 
 [Data](articles/b36a41ca.json)
+
+[Extended Data](ext_articles/b36a41ca.ext.json)
 
 ---
 
@@ -186,6 +230,8 @@ The much anticipated Presidential election next month has created seismic activi
 
 [Data](articles/a0bd8ac7.json)
 
+[Extended Data](ext_articles/a0bd8ac7.ext.json)
+
 ---
 
 ### Political remnants and success for NPP
@@ -199,6 +245,8 @@ The country’s people are currently grappling with severe economic problems or 
 ...
 
 [Data](articles/fec6aba6.json)
+
+[Extended Data](ext_articles/fec6aba6.ext.json)
 
 ---
 
@@ -2339,55 +2387,5 @@ He is sworn in in the presence of Speaker Mahinda Yapa Abeywardena following the
 [Data](articles/5d86b4db.json)
 
 [Extended Data](ext_articles/5d86b4db.ext.json)
-
----
-
-### Another USA ark from Colombo to Colombo
-
-*2024-08-21 12:42:52* · [`adalk`](https://www.ada.lk/picture_story/එක්-ඇමෙරිකානු-යුද-නැවක්-කොළඹින්-යද්දි-තවත්-ඇමෙරිකා-යුද-නැවක්-කොළඹට/10-411486) · `si`
-
-The USS O'Kane, part of the Arleigh Burke-class destroyers, docked at the Port of Colombo on August 21 to fulfill supply and service requests under Commander Richard Ray. It will depart on August 22, 2024, after completing its mission.
-
-🟩
-
-The US Navy, US Navy, arrived at the Port of Colombo (August 21) to meet the Supply of Supplies and Service Requests (August 21) to accept the ship.
-
-Arleigh Burke - CLAILIGH BURKE - CLASS DESTROYE CLASS OKEER type 'USS OKEER', one hundred and four (328) and the shipwreck of the ship is Commander Richard Ray.
-
-Further, after the supplies and service requirements are met, the 'USS OKANE' is due to leave the island on August 22, 2024.
-
-The US Army ship arrived at the port of the Colombo Port to meet the supply requirements of the supply requirements.
-
-◼️
-
-[Data](articles/9539caf8.json)
-
-[Extended Data](ext_articles/9539caf8.ext.json)
-
----
-
-### Minister of Explanation of the profit of the EMC
-
-*2024-08-21 12:37:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-மி-ச-வின்-இலாபம்-குறித்து-அமைச்சர்-விளக்கம்/175-342562) · `ta`
-
-Kanjana Wijesekera, Power and Energy Minister, announced that the Electricity Board (CEB) recorded a net profit of Rs. 34.53 billion post-tax for the April-June 2024 quarter. This profit comes after revising and reducing consumer fees based on available profits. The minister highlighted the profitability of energy development, power plants, coal procurement, local suppliers, and short-term banking facilities.
-
-🟩
-
-Power and Energy Minister Kanjana Wijesekera said that the net profit of Rs.
-
-The Minister said that the profitable energy development, the power plants, the coal procurement, the local suppliers, the outstanding amount for large projects, the top solar sunlight and short -term banking facilities, the Minister said.
-
-Minister Wijeshekara added that the power consumers' fees have been revised and reduced in view of other profits available after the payment.
-
-CEB recorded profit after 2024 April-June Quarterly Taxes. The profit is the net profit registered after paying taxes on Rs 34.53 billion.
-
-Earlier, CEB is Rs.. Registered 84.67 billion. In the first half of 2024, CEB recorded a total profit of 119.20 billion rupees.
-
-◼️
-
-[Data](articles/348256b4.json)
-
-[Extended Data](ext_articles/348256b4.ext.json)
 
 ---

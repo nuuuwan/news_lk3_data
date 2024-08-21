@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 07:30:08**
+As of **2024-08-21 07:51:01**
 
 ## Newspaper Stats
 
-*Scraped **41,796** Articles*
+*Scraped **41,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,73 @@ dailyftlk | 2,701
 adalk | 3,845
 dailymirrorlk | 4,733
 adaderanalk | 4,889
-tamilmirrorlk | 5,405
+tamilmirrorlk | 5,406
 virakesarilk | 6,648
-adaderanasinhalalk | 7,133
+adaderanasinhalalk | 7,135
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,795 (100.0%) of 41,796 articles have been extended.
+41,796 (100.0%) of 41,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### අදත් ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
+### කොළඹ, ගාල්ල, මහනුවර සහ ත්‍රිකුණාමලය ගැන තීරණයක්
+
+*2024-08-21 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200159) · `si`
+
+කොළඹ, ගාල්ල, මහනුවර වගේම ත්‍රිකුණාමලය යන නගර ලංකාවේ ප්‍රධාන කේන්ද්‍රස්ථාන ලෙස ගොඩනැඟීමට රජය බලාපොරොත්තු වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පැවසුවේ, මහනුවර පුරවරය සංස්කෘතික හා කලා මධ්‍යස්ථානයක් ලෙස මෙන්ම දේශගුණික විපර්යාස පිළිබඳ විශ්වවිද්‍යාලයක් ඇති කිරීමට සැලසුම් කර ඇති බවය.
+
+...
+
+[Data](articles/208397bb.json)
+
+---
+
+### නාමල් ගේ මංගල රැලිය අද
+
+*2024-08-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200158) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ් මංගල ජනාධිපතිවරණ රැලිය අනුරාධපුර නගරයේ අද (21) පැවැත්වෙන බව සංජීව එදිරිමාන්න මන්ත්‍රීවරයා පවසයි.
+
+ඔහු පැවසුවේ, මෙම රුලිය අනුරාධපුරයේ පැවැත්වීමට හැකි වීම පොදුජන පෙරමුණ ලැබූ ජයග්‍රහණයක් බවය.
+
+"අද සවස 2ට අනුරාධපුර කඩපනහා පරිශ්‍රයේ දී ශ්‍රී ලංකා පොදුජන පෙරමුණේ විජයග්‍රාහි ජන රැලිය ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතාගේ ජයග්‍රහණය විජයග්‍රහණයක් වෙත ඔසවා තැබීමේ අරමුණ පෙරදැරිව මහා ජන රැලිය සංවිධානය කරනවා. මෙම සමාරම්භක ජනරැලිය අනුරාධපුරය වෙත රැගෙන ඒම අපි දේශපාලන ව්‍යාපාරයක් විදියටත් ජනාධිපතිවරණ කැම්පේන් එක ඇතුළේත් ලබපු ජයග්‍රහණයක් විදියට අපි දකිනවා."
+
+◼️
+
+[Data](articles/8de7adc1.json)
+
+---
+
+### Showers over 75mm
 
 *2024-08-21 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200156) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Expect showers or thundershowers across Western, Sabaragamuwa, Southern, and Northwestern provinces, with heavy rainfall possible in the Western and Sabaragamuwa Province and Galle/Matara districts. The Eastern, Uva, and North Central provinces may also experience showers towards the evening. Strong winds exceeding 30-40 times are expected in the central hills, northern, north-central, and Northwestern provinces, including the Hambantota district. The Meteorology Department advises caution against temporary winds and lightning during thunderstorms.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කළේ, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 75ට වැඩිතරමක තද වැසි ඇති විය හැකි බවය.
+🟩
 
-නැගෙනහිර, ඌව සහ උතුරුමැද පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and Northwestern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇති විය හැකිය.
+Department of Meteorological Department, in the Western and Sabaragamuwa Province and in the Galle and Matara districts. 75 Excellent rain can occur.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at the end of the Eastern, Uva and North Central provinces.
+
+West in the central hills and in the North, North, North, North-central and Northwestern provinces and in the Hambantota district.. Strong winds can be over 30-40 times.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/62962e77.json)
+
+[Extended Data](ext_articles/62962e77.ext.json)
 
 ---
 
@@ -423,6 +459,22 @@ The program, initiated and promoted by the Sri Lanka Industries Ministry, extend
 [Data](articles/29978e26.json)
 
 [Extended Data](ext_articles/29978e26.ext.json)
+
+---
+
+### இன்றும் பலத்த மழை
+
+*2024-08-21 01:06:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பலத்த-மழை/175-342544) · `ta`
+
+இலங்கையின் தென் மேற்கு பகுதியில் நிலவும் மழையுடனான வானிலை இன்றும் தொடரும் என எதிர்பார்க்கப்படுகிறது.
+
+இதற்கமைய மேல் மற்றும் சபரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அத்துடன், வடமேல் மாகாணத்திலும், கண்டி மற்றும் நுவரெலியா ஆகிய மாவட்டங்களிலும் இடைக்கிடையே மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. (a)
+
+◼️
+
+[Data](articles/2b924c42.json)
 
 ---
 
@@ -2249,79 +2301,5 @@ Responding to the comments made by National People's Power Candidate Anurakumara
 [Data](articles/75beb353.json)
 
 [Extended Data](ext_articles/75beb353.ext.json)
-
----
-
-### Presidential Peace candidates to Spend Money
-
-*2024-08-20 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200135) · `si`
-
-The Elections Commission has set spending limits for presidential peace candidates under Section 3 of the Election Examination Act No. 3 of 2023. Candidates can spend up to 60% of their budget on election propaganda, with the remainder allocated for campaign activities by the Secretary General of the Elections or another political party. All expenses must be reported to the Election Commission within 21 days, including details of how funds were used. This regulation applies to all recognized political parties and independent candidates participating in the presidential election.
-
-🟩
-
-The Elections Commission issued a special gazette sheet of the Elections for an election propaganda for election propaganda.
-
-It is in terms of Section 3 of the Regulation of the Election Examination Act No. 3 of 2023.
-
-Accordingly, the maximum limit of a candidate who is contesting for a presidential election cost is Rs.
-
-A presidential candidate can afford 60 percent of the money or Rs.
-
-In addition, the Elections Commission (EPL) stated that the Secretary General of the Elections or a candidate for the propaganda campaign of the candidate or another political party in the remaining 40 percent or 19,434 million and 19,4004 carts, a candidate said.
-
-The expenditure of election propaganda expenditure on election expenditure should be handed over to the Election Commission within 21 days.
-
-The gazette notification further states that the information for propaganda costs should include detailed information about how they spent.
-
-...
-
-[Data](articles/867f1036.json)
-
-[Extended Data](ext_articles/867f1036.ext.json)
-
----
-
-### Our country needs standardized democracy: Sajith says it is not aimed at seizing power
-
-*2024-08-20 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191535) · `ta`
-
-Sajith Premadasa advocates for a standardized democracy to enhance transparency and responsibility in governance. He emphasizes the importance of a democratic system that truly represents the people, contrasting it with current practices he deems lacking. Premadasa, supported by various groups including political parties, artists, and civil organizations, stresses the need for a democratic system that prioritizes the welfare of the nation over personal or party interests. He highlights the challenges facing the country and calls for a return to constitutional democracy, emphasizing economic and social justice.
-
-🟩
-
-Opposition Leader Sajith Premadasa said the aim was to create a regime that would have a better transparency, responsible, and responsible democratically representing the people.
-
-The Integrated Memorandum of Understanding with political parties, artists, civil organizations, social workers and trade union leaders, including political parties, artists, civil organizations, social workers, and union leaders, were held at the Watching Age Hotel on Tuesday to support the opposition leader Sajith Premadasa, who is contesting the 2024 presidential election.
-
-Opposition Leader Sajith Premadasa said this while participating in the event.
-
-...
-
-[Data](articles/381b825b.json)
-
-[Extended Data](ext_articles/381b825b.ext.json)
-
----
-
-### Son injury to hunting gun in her mother's hand
-
-*2024-08-20 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/191510) · `ta`
-
-In Surveva Kapukinissa, a three-year-old boy was accidentally shot in the face by his mother while she was handling a hunting rifle near a coconut tree. The incident resulted in severe injuries to the child due to the unexpected discharge of the gun.
-
-🟩
-
-A three -year -old son was injured in a hunting rifle in the hands of a mother in Surveva Kapukinissa area, police said.
-
-The injured son's mother tried to check a hunting gun near the coconut tree.
-
-At the same time, police said that the sudden explosion of the gun was severely injured in the nearby son's cheek.
-
-◼️
-
-[Data](articles/87e2fa19.json)
-
-[Extended Data](ext_articles/87e2fa19.ext.json)
 
 ---

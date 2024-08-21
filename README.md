@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 10:21:22**
+As of **2024-08-21 10:36:41**
 
 ## Newspaper Stats
 
@@ -26,47 +26,59 @@ adaderanasinhalalk | 7,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,816 (100.0%) of 41,820 articles have been extended.
+41,820 (100.0%) of 41,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### නාඳුනන මළ සිරුරක් වෙරළට ගොඩ ගසයි
+### An unknown corpse lands a coastal
 
 *2024-08-21 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200166) · `si`
 
-හලාවත පොලිස් වසමේ වැල්ල කසකැලේ මුහුදු තීරයට නාඳුනන මෘත ශරීරයක් ගොඩ ගසා ඇතැයි පොලීසිය පවසයි.
+A mysterious body found near Welakale coast, Chilaw, remains unidentified. The victim, aged between 55-50 years, had 'Mom' tattooed on one arm and 'Ganes' in Sinhala on the other.
 
-මෘත ශරීරයේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති බවද පොලීසිය ස﻿ඳහන් කරයි.
+🟩
 
-වයස අවුරුදු 45ක්  - 50ක් අතර උඩ අඩි 5 අඟල් 8ක් වන කොණ්ඩය කොටට කපා ඇති රැවුල මදක් වවා ඇති අතර උඩුකයට නිල් පාට අත්දිග කමිසයක් ඇඳ සිටින බවත් යටිකය නිර්වස්ත්‍රව ඇති බවත් පොලීසිය පවසයි.
+Police say that a unidentified body was built to the Welakale coastal area in the Chilaw Police Division.
 
-කෙසේ වෙතත් මියගිය පුද්ගලයාගේ පපුවේ වම් පැත්තේ, 'අම්මා' යනුවෙන් ද දකුණු පැත්තේ 'විනිති' යනුවෙන් ද සිංහලෙන් පච්ච කොටා ඇති බව ද පොලීසිය සඳහන් කරයි.
+The police conferment that the identity of the body has not yet been established.
+
+Police say that the hair cut into the 55 feet - 50 feet of age, the police said.
+
+However, the 'Mom' on the left side of the deceased, 'Mom' has also been tattooned in Sinhala as 'Ganes' on the right.
 
 ◼️
 
 [Data](articles/96672643.json)
 
+[Extended Data](ext_articles/96672643.ext.json)
+
 ---
 
-### ඩුබායි සිට මෙහෙය වූ තවත් ඝාතනයක සුලමුල හෙළිවෙයි
+### Another murder was led by Dubai
 
 *2024-08-21 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200165) · `si`
 
-වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් පුද්ගලයින් හය දෙනෙකු ශ්‍රී පුර ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+In Dubai, a murder plot led by underworld figure Priyantha was executed in Sri Lanka, resulting in six arrests from various locations including Sripapitiya, Padaviya, Cabinglewa, and Parakramapura. The victims were shot in the Gemunupura Pulley Junction area, but the mastermind behind the crime remains unidentified.
 
-පොලීසිය පැවසුවේ, ගැමුණුපුර පුල්ලේයාර් හන්දිය ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණ නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් වෙඩිතබා එම ඝාතනය සිදුකර තිබූ බවය.
+🟩
 
-එම ඝාතනය ඩුබායි රාජ්‍යයේ සිටින සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු වන පාතාල ප්‍රියන්ත නොහොත් ගුණසිරි ප්‍රියන්ත යන පුද්ගලයා විසින් මෙහෙයවා ඇති බව මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
+Six persons have been arrested in the Sripapitiya area for a shooting incident.
 
-කෙසේවෙතත් මියගිය පුද්ගලයා ඝාතනය කිරීමට සැලසුම් කළ පුද්ගලයා නොවන බවට සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්නකිරීම්වලදී අනාවරණය වී ඇති බව පොලීසිය පැවසුවේය.
+Police said that the police had been shot dead by two unidentified people in the Gemunupura Pulley Junction area.
 
-අත්අඩංගුවට ගෙන ඇත්තේ 20,22, 38, 40 හා 47 යන වයස් සීමාවල පසුවන වැලිඔය, පදවිය, කැබතිගොල්ලෑව හා පරාක්‍රමපුර ප්‍රදේශවල පදිංචිකරුවන් බව සඳහන්ය.
+Preliminary investigations have revealed that the murder was led by the person in Dubai, underworld priyanthi aliasiri Priyantha.
+
+However, the suspects of the suspects were not the person who planned to kill the dead.
+
+The residents of Padaviya, Cabinglewa and Parakramapura areas have been arrested in the ages of 20,22, 38 and 47.
 
 ◼️
 
 [Data](articles/6db18277.json)
+
+[Extended Data](ext_articles/6db18277.ext.json)
 
 ---
 
@@ -86,21 +98,27 @@ He took oaths before Speaker Mahinda Yapa Abeywardena following the commencement
 
 ---
 
-### බන්දුලාල් බණ්ඩාරිගොඩ දිවුරුම් දෙයි
+### Bandulal Bandaraigoda sworn in
 
 *2024-08-21 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200164) · `si`
 
-බන්දුලාල් බණ්ඩාරිගොඩ මහතා 09 වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීවරයෙක් ලෙස කථානායක මහින්ද යාපා අබේවර්ධන මහතා ඉදිරියේ අද (21) දිවුරුම් දුන්නේය.
+Mr. Bandulal Bandaraigoda was sworn in as a Member of Parliament, replacing Manusha Nanayakkara whose party membership was revoked by the Supreme Court due to legal issues.
 
-ඔහු පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් වශයෙන් පත්වූයේ ගාල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ලෙස කටයුතු කළ මනුෂ නානායක්කාර මහතාට සිය පාර්ලිමේන්තු අසුන අහිමිවීම හේතුවෙනි.
+🟩
 
-මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව ශ්‍රේෂ්ඨාධිකරණය පසුගිය 09 වනදා තීන්දු කළේය.
+Mr. Bandulal Bandaraigoda took oaths as a Member of Parliament in Parliament today (21) before Speaker Mahinda Yapa Abeywardena.
 
-සිය පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගත් තීරණය නීතියට පටහැනි බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන් ඉදිරිපත් කළ පෙත්සම් නිෂ්ප්‍රභ කරමින් ශ්‍රේෂ්ඨාධිකරණය එම තීන්දුව ලබාදුනි.
+He was a Member of Parliament by the Galle District Member of Parliament by the loss of Manusha Nanayakkara to losing his parliamentary seat.
+
+The Supreme Court decided to lose the party membership of Manusha Nanayakkara and Harin Fernando.
+
+The Supreme Court issued the verdict by refusing the petitions presented by the Ministers who were presented with the decision that the congenial power would be contradicted by the law to deprive their party membership.
 
 ◼️
 
 [Data](articles/4e9d9ac4.json)
+
+[Extended Data](ext_articles/4e9d9ac4.ext.json)
 
 ---
 
@@ -128,13 +146,19 @@ The 44-year-old suspect has been arrested, and Galapitamada Police are continuin
 
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-08-21 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200163) · `si`
+
+The Parliamentary Council has started its session, focusing on legislative discussions and policy decisions.
+
+🟩
 
 ◼️
 
 [Data](articles/1840dc05.json)
+
+[Extended Data](ext_articles/1840dc05.ext.json)
 
 ---
 

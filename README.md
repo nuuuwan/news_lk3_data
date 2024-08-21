@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 17:06:21**
+As of **2024-08-21 17:21:23**
 
 ## Newspaper Stats
 
-*Scraped **41,904** Articles*
+*Scraped **41,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,138 @@ colombotelegraphcom | 401
 islandlk | 2,426
 economynextcom | 2,527
 dailyftlk | 2,701
-adalk | 3,860
+adalk | 3,861
 dailymirrorlk | 4,733
-adaderanalk | 4,905
-tamilmirrorlk | 5,427
+adaderanalk | 4,906
+tamilmirrorlk | 5,428
 virakesarilk | 6,666
-adaderanasinhalalk | 7,155
+adaderanasinhalalk | 7,158
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,902 (100.0%) of 41,904 articles have been extended.
+41,904 (100.0%) of 41,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### Police seize 4 pythons and marsh crocodile found hidden in pet shop
+
+*2024-08-21 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101401/police-seize-4-pythons-and-marsh-crocodile-found-hidden-in-pet-shop) · `en`
+
+Wattala Police have taken into custody four pythons that were allegedly illegally smuggled into the country and were concealed at a pet shop in order to be sold.
+
+Police stated that a Sri Lankan marsh crocodile was also discovered during the raid at the pet shop.
+
+The animals were found hidden on the upper floor of the pet shop which is located in the Wattala area.
+
+The shop owner and two other employees have been arrested in connection with the incident.
+
+Police suspect that the pythons were smuggled into the country by concealing them in luggage by airline passengers.
+
+Meanwhile, the marsh crocodile is suspected to have been captured from a lake located in a dry zone area of the country while it is believe that each animal was to be sold for a sum of around Rs. 300,000.
+
+Police have taken necessary steps to transfer the animals to the Dehiwala National Zoo to obtain reports.
+
+The arrested suspects are scheduled to be produced before the Wattala Magistrate’s Court.
+
+◼️
+
+[Data](articles/08e7ed35.json)
+
+---
+
+### පාකිස්තාන පාර්ලිමේන්තුව මී රජ දහනක් වෙයි
+
+*2024-08-21 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200182) · `si`
+
+පාකිස්තාන පාර්ලිමේන්තුව තුළ මීයන් බෝවී එහි දෛනික කටයුතුවලට බාධා එල්ලවීමේ පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙම පුවත ගැන වැඩි අවධානයක් යොමුවී ඇත්තේ මීයන් බෝවීම පාලනයට රජය පාකිස්තාන රුපියල් මිලියන 1.2ක දැවැන්ත මුදලක් වෙන්කිරීමත් සමගිනි.
+
+වසර කිහිපයක් තිස්සේ පාර්ලිමේන්තුව පුරා මෙලෙස මීයන් බෝවී සිටින බවත්, උන් සාමාන්‍ය මීයන්ට වඩා විශාල වීම නිසා පාලනය අසීරුවී ඇති බවත් සඳහන් වෙයි.
+
+මෙම මීයන් එහි අතිශය වැදගත් ලිපිලේඛන රැසක් විනාශ කර ඇති බවත් විදෙස් මාධය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/0e7a3e3e.json)
+
+---
+
+### பிரஜைகளிடமிருந்து கேள்விகளுக்கு அழைப்பு
+
+*2024-08-21 16:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரஜைகளிடமிருந்து-கேள்விகளுக்கு-அழைப்பு/175-342575) · `ta`
+
+தேர்தல் கண்காணிப்புக் குழு மற்றும் சிவில் சமூகமான மார்ச் 12 இயக்கம் , 2024 ஜனாதிபதி வேட்பாளர்களுக்கான விவாதம் ஒன்றை ஏற்பாடு செய்துள்ளது,
+
+மக்களின் பொது பங்கேற்பை வளர்க்கும் முயற்சியில், இந்த இயக்கம் வேட்பாளர்களிடம் நாட்டு மக்கள் கேட்க விரும்பும் கேள்விகளை சமர்ப்பிக்க அழைப்பு விடுத்துள்ளது.
+
+இந்தக் கேள்விகளை பொது மக்கள் சமூக ஊடகங்கள், மின்னஞ்சல் அல்லது அஞ்சல் மூலமாக அனுப்பலாம்,
+
+விவாதம் முக்கியமான நிர்வாக ஆட்சி விஷயங்களில் கவனம் செலுத்துவதை உறுதிசெய்ய, அனைத்து கேள்விகளும் ஆட்சி மற்றும் அது சார்ந்த சிக்கல்களை மையப்படுத்தியதாக இருக்க வேண்டும் என்பதை இயக்கம் வலியுறுத்துகிறது.
+
+மார்ச் 12 இயக்கத்தால் நியமிக்கப்பட்ட நிபுணர் குழுவால் கேள்விகள் பரிசீலிக்கப்பட்டு இறுதி செய்யப்படும் .
+
+அஞ்சல் முகவரி: ஜனநாயக மறுசீரமைப்பு மற்றும் தேர்தல் கற்கைகளுக்கான நிறுவனம், இல. 15/22, சந்திரா வெத்தசிங்க மாவத்தை, 3வது லேன், நாவல கொஸ்வத்த வீதி, ராஜகிரிய.
+
+◼️
+
+[Data](articles/60efbe96.json)
+
+---
+
+### උද්ධමනය සුළු වශයෙන් ඉහළට
+
+*2024-08-21 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200181) · `si`
+
+ජාතික පාරිභෝගික මිල දර්ශකය මත පදනම් වූ මෙරට වාර්ෂික උද්ධමනය 2024 ජුලි මාසයේදී 2.5% දක්වා සුළු වශයෙන් ඉහළ ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+
+2024 ජුනි මාසයේදී 1.9%ක් ලෙස සටහන් වූ ආහාර කාණ්ඩයේ උද්ධමනය 2024 ජුලි මාසයේදී 2.9% දක්වා ඉහළ ගොස් තිබේ.
+
+ආහාර නොවන කාණ්ඩයේ උද්ධමනය ජුනි මාසයේදී වාර්තා වූ 2.7%ට සාපේක්ෂව 2024 ජුලි මාසයේදී 2.2% දක්වා පහත වැටී ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ජුනි මාසයේදී 7.5%ක් ලෙස සටහන් වූ ප්‍රවාහන උප කාණ්ඩයේ උද්ධමනය 2024 ජුලි මාසයේදී 4.9% දක්වා පහත වැටී තිබේ.
+
+ජුනි මාසයේදී 1.7%ක් ලෙස පැවති සෞඛ්‍ය උප කාණ්ඩයේ උද්ධමනය 4.0% දක්වා ඉහළයාම ද කැපී පෙනෙයි.
+
+◼️
+
+[Data](articles/97ca3970.json)
+
+---
+
+### වඩිවෙල් සුරේෂ් ට සහ සාහීර් මව්ලානා ට අමාත්‍ය තනතුරු
+
+*2024-08-21 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200180) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන වඩිවෙල් සුරේෂ් මහතා ට සහ අලි සාහීර් මව්ලානා මහතාට අමාත්‍ය ධුර පිරිනමා තිබේ.
+
+එහිදී අලි සාහීර් මව්ලානා මහතා ට කැබිනට් නොවන සංවර්ධන ව්‍යාපෘති අමාත්‍ය ධුරය පිරිනමා ඇත.
+
+වඩිවෙල් සුරේෂ් මහතා ව පත්කර ඇත්තේ කම්කරු රාජ්‍ය අමාත්‍යවරයා ලෙසය.
+
+ඔවුන් දෙදෙනා අදාළ පත්වීම් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් ලබාගත් බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+
+වඩිවෙල් සුරේෂ් මහතා බදුල්ල දිස්ත්‍රික්කයෙන් සමගි ජන බලවේගය නියෝජනය කරමින් පාර්ලිමේන්තුවට පිවිසියේය.
+
+2020 මහ මැතිවරණයේ දී බදුල්ල දිස්ත්‍රික්කය සඳහා සමගි ජන බලවේගය වෙනුවෙන් වැඩිම මනාප හිමිකරගත්තේ ඔහුය.
+
+තමා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ට සහාය දක්වන බව ඔහු පසුගියදා පැවසීය.
+
+සුරේෂ් මහතා ලංකා ජාතික වතු කම්කරු සංගමයේ ප්‍රධාන ලේකම්වරයා ලෙසද කටයුතු කරයි.
+
+කම්කරු අමාත්‍ය ධුරය දරූ මනුෂ නානායක්කාර මහතා ට ශ්‍රේෂ්ඨාධිකරණ තීන්දුවක් හේතුවෙන් අගෝස්තු 09 වනදා සිය පාර්ලිමේන්තු අසුන අහිමි විය.
+
+එම තීන්දුවේ සඳහන් වූයේ මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බවයි.
+
+...
+
+[Data](articles/942f2fa8.json)
+
+---
 
 ### Vadivel Suresh and Ali Zahir Moulana given ministerial posts
 
@@ -53,6 +169,8 @@ Meanwhile, Ali Zahir Moulana of the Sri Lanka Muslim Congress (SLMC) had been sw
 ...
 
 [Data](articles/7ba80d75.json)
+
+[Extended Data](ext_articles/7ba80d75.ext.json)
 
 ---
 
@@ -652,21 +770,27 @@ A total of 1,417 people have died in 1,352 road accidents that took place till A
 
 ---
 
-### பாக். யாத்ரீகர்கள் 28 பேர் பலி
+### Pack. 28 pilgrims killed
 
 *2024-08-21 12:59:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-யாத்ரீகர்கள்-28-பேர்-பலி/50-342564) · `ta`
 
-ஈரானில் பஸ் கவிழ்ந்து விபத்துக்குள்ளானதில், பாகிஸ்தான் யாத்ரீகர்கள் 28 பேர் பரிதாபமாக உயிரிழந்த நிலையில், 18 பேர் பலத்த காயமடைந்தனர்.
+A tragic accident occurred when a bus carrying over 50 Pakistani pilgrims from Pakistan to Iraq crashed in Iran's Yast province, resulting in 28 deaths and 18 injuries. The victims, from Largana in Pakistan's Indus Province, were traveling through Central Iran. Pakistan's Deputy Prime Minister and Foreign Minister, Ishaq Dar, expressed condolences and pledged support for the injured and the repatriation of the deceased.
 
-பாகிஸ்தானில் இருந்து ஈராக்கிற்கு, 50க்கும் மேற்பட்ட யாத்ரீகர்கள் பஸ்சில் சென்று கொண்டிருந்த நிலையில், மத்திய ஈரானின் யாஸ்த் மாகாணத்தில், சாரதியின் கட்டுப்பாட்டை இழந்து பஸ் விபத்துக்குள்ளானது.
+🟩
 
-இதில், 28 யாத்ரீகர்கள் சம்பவ இடத்திலேயே உயிரிழந்தனர். இவர்கள் பாகிஸ்தானின் சிந்து மாகாணம் லர்கானா நகரைச் சேர்ந்தவர்கள். 18 பேர் பலத்த காயமுற்ற நிலையில், சிகிச்சைக்காக மருத்துவமனையில் அனுமதிக்கப்பட்டனர்.
+At least 28 Pakistani pilgrims were killed when a bus crashed in Iran and 18 were injured.
 
-இந்நிலையில், பாகிஸ்தான் துணை பிரதமரும், வெளியுறவு துறை அமைச்சருமான இஷாக் தார் சமூகவலைதளத்தில் வெளியிட்டுள்ள பதிவில், 'உயிரிழந்தவர்களின் குடும்பங்களுக்கு இரங்கல் தெரிவித்து கொள்கிறேன். காயமடைந்த யாத்ரீகர்களுக்கு சிகிச்சை அளிக்க அனைத்து உதவிகளும் செய்யப்படும். டெஹ்ரானில் உள்ள நமது தூதருக்கு இறந்தவர்களின் உடலை, பாகிஸ்தானுக்கு திருப்பி அனுப்ப ஏற்பாடு செய்ய நான் அறிவுறுத்தி உள்ளேன்” என குறிப்பிட்டுள்ளார்.S
+From Pakistan to Iraq, more than 50 pilgrims were on their way to the bus, causing a driver to lose control of the Yast province of Central Iran.
+
+Of these, 28 pilgrims died on the spot. They are from Largana, Pakistan's Indus Province. 18 people were admitted to the hospital for treatment.
+
+In this context, Pakistan's Deputy Prime Minister and Foreign Minister Ishaq Dar posted on the social network, “I extend my condolences to the families of the victims of the victims.. All assistance will be done to treat the injured pilgrims. I have advised to arrange the body of the deceased to our ambassador in Tehran to return to Pakistan. ”
 
 ◼️
 
 [Data](articles/2edfc7d2.json)
+
+[Extended Data](ext_articles/2edfc7d2.ext.json)
 
 ---
 
@@ -839,6 +963,24 @@ He is sworn in in the presence of Speaker Mahinda Yapa Abeywardena following the
 [Data](articles/5d86b4db.json)
 
 [Extended Data](ext_articles/5d86b4db.ext.json)
+
+---
+
+### එක් ඇමෙරිකානු යුද නැවක් කොළඹින් යද්දි තවත් ඇමෙරිකා යුද නැවක් කොළඹට
+
+*2024-08-21 12:42:52* · [`adalk`](https://www.ada.lk/picture_story/එක්-ඇමෙරිකානු-යුද-නැවක්-කොළඹින්-යද්දි-තවත්-ඇමෙරිකා-යුද-නැවක්-කොළඹට/10-411486) · `si`
+
+ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS Okane’ නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමේ සංචාරයක් සඳහා අද දින (2024 අගෝස්තු 21) කොළඹ වරායට පැමිණෙන ලද අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට සේන්දු වූ Arleigh Burke - class destroyer වර්ගයට අයත් ‘USS Okane’ නෞකාව, දිගින් මීටර් එකසිය පනස් හතරක් (154 ) හා නැව් මුළුව තුන්සිය විසි අටකින් (328) සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස Commander Richard Ray කටයුතු කරනු ලබයි.
+
+තවද, සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමෙන් අනතුරුව ‘USS Okane’ නෞකාව 2024 අගෝස්තු මස 22 වන දින දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+
+මේ ආකාරයටම සැපයුම් අවශ්‍යතා සපුරා ගැනිම වෙනුවෙන් පසුගිය 19 දාද ඇමෙරිකානු යුද නැවක් කොළඹ වරායට පැමිණි අතර එය සැපයුම් අවශ්‍යතා සපුරා ගැනීමෙන් අනතුරුව පසුගිය 20දා දිවයිනෙන් පිටත්ව ගියේය.
+
+◼️
+
+[Data](articles/9539caf8.json)
 
 ---
 
@@ -2195,157 +2337,5 @@ It also makes other changes like limiting the scope to offences committed by any
 [Data](articles/fc723e92.json)
 
 [Extended Data](ext_articles/fc723e92.ext.json)
-
----
-
-### Decision in Colombo, Galle, Kandy and Trincomalee
-
-*2024-08-21 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200159) · `si`
-
-President Ranil Wickremesinghe announces plans to develop Colombo, Galle, Kandy, and Trincomalee, focusing on culture, arts, and climate change education in Kandy. Discussions include preserving Bogambara Prison's history, enhancing tourism, and establishing a climate translation university.
-
-🟩
-
-President Ranil Wickremesinghe says that the government is looking to build the cities of Colombo, Galle, Kandy and Trincomalee.
-
-The President said that the city of Kandy is planning to establish a cultural and artist, a university on climate change.
-
-"I have requested Japan especially from the Galagedy of Katugastota, not to stop our central expressway. Insert as a large urban area. Plans are now planning to act as a large center of Kandy. Four have been built, Colombo, Galle, Kandy and Trincomalee. The four four have to be developed in Sri Lanka. I discussed with Mugi. He said Chennai IT to open a pavilion in Sri Lanka. I named Kandy and now propose to start the flow. Developing the International Climate Translation University in Kotmale but also in the educational sector but also in the educational sector. Make these plans into a major city in Kandy over the next 10 years. "
-
-...
-
-[Data](articles/208397bb.json)
-
-[Extended Data](ext_articles/208397bb.ext.json)
-
----
-
-### Namal's wedding rally today
-
-*2024-08-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200158) · `si`
-
-Today's rally, led by President Mahinda Rajapaksa, marks a significant moment following the recent poll victory in Anuradhapura. The event, organized by the SLFP, aims to celebrate this success and set the stage for future political movements.
-
-🟩
-
-The President of Sri Lanka Appointed President Mahinda Rajapaksa rally will be held today (21).
-
-He said that the poll to be held in Anuradhapura was a victory.
-
-"Wijaygrava Pemi Ralis from the SLFP rally on the premises of Anuradhapura at 2 pm. We see this inauguration to Anuradhapura and see a victory that we have been in a political movement and the victory in the presidential campaign. "
-
-◼️
-
-[Data](articles/8de7adc1.json)
-
-[Extended Data](ext_articles/8de7adc1.ext.json)
-
----
-
-### Showers over 75mm
-
-*2024-08-21 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200156) · `si`
-
-Expect showers or thundershowers across Western, Sabaragamuwa, Southern, and Northwestern provinces, with heavy rainfall possible in the Western and Sabaragamuwa Province and Galle/Matara districts. The Eastern, Uva, and North Central provinces may also experience showers towards the evening. Strong winds exceeding 30-40 times are expected in the central hills, northern, north-central, and Northwestern provinces, including the Hambantota district. The Meteorology Department advises caution against temporary winds and lightning during thunderstorms.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and Northwestern provinces.
-
-Department of Meteorological Department, in the Western and Sabaragamuwa Province and in the Galle and Matara districts. 75 Excellent rain can occur.
-
-Showers or thundershowers will occur at the end of the Eastern, Uva and North Central provinces.
-
-West in the central hills and in the North, North, North, North-central and Northwestern provinces and in the Hambantota district.. Strong winds can be over 30-40 times.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/62962e77.json)
-
-[Extended Data](ext_articles/62962e77.ext.json)
-
----
-
-### Is the gazette notification that has risen to the estate workers' salary?
-
-*2024-08-21 05:32:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c33n7746nrgo) · `si`
-
-A gazette notification aimed at increasing plantation workers' salaries was released on August 13, amid concerns over the economic crisis affecting their livelihoods. This move follows historical struggles for fair wages, dating back to the British colonial era when Indian workers were brought to Sri Lanka for coffee plantation. Despite advancements, current salaries remain insufficient to meet the cost of living, prompting ongoing debates and protests for better compensation.
-
-🟩
-
-The plantation workers are struggling to increase their salaries as the economic crisis increase in the cost of living.
-
-The government was released by the government on the wages of plantation workers in several occasions.
-
-A new gazette notification for the increase in plantation workers' salaries was released on August 13.
-
-According to the gazette notification, many are on their eyes on whether the cost of the plantation workers will be resolved.
-
-The estate workers' community is Indian workers brought to the country for coffee plantation during the British colonial period.
-
-The plantation workers were taken by sea in the 19th century, along the sea, and about it with a difficult march to the central hills.
-
-Estimated workers also held a lengthy march in 2023 due to the completion of 200 years of completing 200 years.
-
-When the British commences coffee and tea cultivation in Sri Lanka, it is because the Sinhalese natives who have been incurred to contribute to the labor.
-
-...
-
-[Data](articles/e14b27d4.json)
-
-[Extended Data](ext_articles/e14b27d4.ext.json)
-
----
-
-### Easter Sunday attack:
-
-*2024-08-21 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/191580) · `ta`
-
-He paid 100 million rupees to former President Maithripala Sirisena for the Easter Sunday attack. Victims received 1 crore each, but compensation for Poojith Jayasundera and Nilantha Jayawardena is pending.
-
-🟩
-
-It is reported that he has completed a compensation of 100 million rupees to be paid to former President Maithripala Sirisena in connection with the Easter Sunday terrorist attack.
-
-Former President Maithripala Sirisena has Rs.. The court also ordered the victims to pay Rs 1 crore.
-
-It is stated that he had paid the remaining 12 million rupees on 16.08.2024.
-
-However, it is noteworthy that the former Inspector General of Police Poojith Jayasundera and former Director of State Intelligence Service Nilantha Jayawardena have not yet been compensated.
-
-◼️
-
-[Data](articles/d1b35282.json)
-
-[Extended Data](ext_articles/d1b35282.ext.json)
-
----
-
-### Join the task of eradicating corruption and creating economic freedom - Sajith Premadasa
-
-*2024-08-21 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191579) · `ta`
-
-Sajith Premadasa calls for unity against corruption, advocating for economic freedom and prosperity through humanitarian capitalism and social democracy. He invites all, including traders and businessmen, to contribute to shaping the nation's economic future. This initiative aims to foster justice, equality, and transparency, eliminating space for corruption scandals.
-
-🟩
-
-I have a great group of wisdom and skills that can restore the country that is trapped on the brink of economic disaster.
-
-The Opposition Leader said that through the economic development of humanitarian capitalism and social democracy, we could transform our country into a prosperous country and a rapid economic development country, and that the economic structure of the reflection could be accompanied by the economic structure.
-
-This new thought will lead to a new path that uphelds justice and justice, following the equal means.There is no place for corruption scandal.
-
-Opposition Leader Sajith Premadasa said that I am invited to join the task of winning the economic independence of corruption, except for procurement systems and fraudulent government transactions.
-
-"I would like to thank the traders and businessmen of our country who have been involved in a friendly discussion and ideas on the future economic methods of our country," the Opposition Leader said at the session.
-
-...
-
-[Data](articles/12020481.json)
-
-[Extended Data](ext_articles/12020481.ext.json)
 
 ---

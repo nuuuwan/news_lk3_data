@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 12:54:47**
+As of **2024-08-21 13:06:25**
 
 ## Newspaper Stats
 
-*Scraped **41,860** Articles*
+*Scraped **41,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 4,899
 tamilmirrorlk | 5,417
 virakesarilk | 6,657
-adaderanasinhalalk | 7,146
+adaderanasinhalalk | 7,147
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,859 (100.0%) of 41,860 articles have been extended.
+41,860 (100.0%) of 41,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### හිටපු නායක ෆාරුක් බංග්ලාදේශ ක්‍රිකට් සභාපති ධුරයට
+
+*2024-08-21 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200171) · `si`
+
+බංග්ලාදේශ ක්‍රිකට් පාලක මණ්ඩලයේ සභාපතිවරයා ලෙස එරට එක්දින ක්‍රිකට් කණ්ඩායමේ හිටපු නායකයෙක් වන ෆාරුක් අහමඩ් ව පත්කර ගෙන තිබේ.
+
+අද (21) පැවති ක්‍රිකට් පාලක මණ්ඩල රැස්වීමේදී එම පත්වීම සිදුකර ඇති බව සඳහන් ය.
+
+නස්මුල් හසන් එම තනතුරෙන් ඉල්ලා අස්වීමෙන් පසු අහමඩ් එම තනතුර සඳහා පත්කර ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/183b1a8b.json)
+
+---
 
 ### Sajith Premadasa supports Karunadasa flag
 
@@ -224,7 +240,15 @@ Samagi Jana Balawegaya (SJB) Ratnapura District MP Thalatha Athukorala has infor
 
 She made the announcement while delivering a statement in Parliament today (21).
 
-◼️
+Thalatha Athukorala, the sister of the late United National Party (UNP) politician Gamini Athukorala, first entered Parliament in 2004.
+
+She has been re-elected in subsequent general elections in 2010, 2015, and 2020 from the Ratnapura District.
+
+In the 2020 general election, she secured her seat in Parliament as a member of the Samagi Jana Balawegaya (SJB) with 45,105 votes from the Ratnapura District.
+
+Delivering her special statement in parliament today, Athukorala said the following:
+
+...
 
 [Data](articles/7f89dae1.json)
 
@@ -754,7 +778,11 @@ Samagi Jana Balawegaya (SJB) member Bandula Lal Bandarigoda was sworn in as a Me
 
 He took oaths before Speaker Mahinda Yapa Abeywardena following the commencement of the parliamentary proceedings at 9.30 a.m. today.
 
-◼️
+On 09 August 2024, the Supreme Court determined that the Samagi Jana Balawegaya’s (SJB) decision to expel then Galle District Member of Parliament Manusha Nanayakkara and the National List Member of Parliament Harin Fernando from the party is legally valid. As a result, the two Parliamentary seats became vacant.
+
+The Supreme Court declared this ruling while dismissing the petitions filed by Harin Fernando and Manusha Nanayakkkara challenging the SJB’s decision to remove them from their party membership.
+
+...
 
 [Data](articles/fff87f7f.json)
 
@@ -992,21 +1020,27 @@ The Railway Department has said that the railway services of the route have been
 
 ---
 
-### ලොව දිගම මුද්දරය ලංකාවෙන්
+### Sri Lanka's longest stamp in Sri Lanka
 
 *2024-08-21 08:36:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-දිගම-මුද්දරය-ලංකාවෙන්/11-411477) · `si`
 
-ලොව දිගම මුද්දරය ලෙස මිලි මීටර් 205 කින් යුතුව මහනුවර ඓතිහාසික ශ්‍රි දළදා පෙරහැර සංකේතවත් කරමින් තැපැල් දෙපාර්තමේන්තුව විසින් නිකුත් කළ සමරු මුද්දරය ජ්‍යෙෂ්ඨ නියෝජ්‍ය තැපැල්පති රාජිත කේ. රණසිංහ මහතා විසින් ඊයේ (20දා) ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගන්වනු ලැබීය.
+Sri Lanka issued its longest stamp, 205mm, to commemorate the historical Sri Dalada Perahera. The stamp was unveiled at the President's House in Kandy, marking the end of the Kandy Esala Perahera. It was presented to the Diyawadana Nilame for display at the Sri Dalada Maligawa museum. President Ranil Wickremesinghe highlighted the importance of showcasing this heritage globally.
 
-නුවර ඇසළ පෙරහර මංගල්‍යය අවසන් බව සනිටුවහන් කිරිම වෙනුවෙන් මහනුවර ජනපති මන්දිරයේ පැවැති උත්සවයේදි මෙම මුද්දරය එළි දැක්විය.
+🟩
 
-එසේම මෙහිදි ශ්‍රී දළදා මාළිගාව සහ බෞද්ධ සංස්කෘතිය ආශ්‍රයෙන් නිර්මාණය කරන ලද මුද්දර, සිහිවටන පත්‍රිකා සහ මුල්දින කවර එකතුවක් ශ්‍රී දළදා මාළිගාවේ කෞතුකාගාරයේ තැන්පත් කිරීම සඳහා දියවඩන නිලමේවරයා වෙත පිළිගැන්වීම ද සිදු කෙරිණි.
+Senior Deputy Postal Rajitha issued the commemorative stamp of the post of posts to symbolize the Historical Sri Dalada Perahera with 205 mm as the world, symbolized by the Kandy Dalada Perahera with 205 mm.. Ranasinghe was presented to President Ranil Wickremesinghe yesterday.
 
-මෙහිදී උත්සව සභාව ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ මහනුවර ඓතිහාසික ශ්‍රී දළදා පෙරහර දකුණු ආසියාවේ උසස්ම ආගමික උත්සවය ලෙස ලෝකය හමුවට ගෙන යාමට අවශ්‍ය පූර්ණ රාජ්‍ය අනුග්‍රහය ලබා දෙන බවයි.
+The stamp was launched at a function at the President's House in Kandy to conclude the end of the Kandy Esala Perahera.
+
+The stamps, souvenous tracts, and the early days of Sri Lanka and the first day were presented to the Diyawadana Nilame to deposit the collection at the Sri Dalada Maligawa museum.
+
+Addressing the gathering, President Ranil Wickremesinghe said that the historic Sri Dalada Perahera of Kandy is the full state patronage to be taken to the world as South Asia as South Asia.
 
 ◼️
 
 [Data](articles/87240851.json)
+
+[Extended Data](ext_articles/87240851.ext.json)
 
 ---
 
@@ -2171,21 +2205,5 @@ The President was speaking in a friendly conversation with the people who were w
 [Data](articles/7de874f1.json)
 
 [Extended Data](ext_articles/7de874f1.ext.json)
-
----
-
-### Sri Lanka release world’s longest stamp symbolising Kandy Esala Perahera
-
-*2024-08-20 20:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101382/sri-lanka-release-worlds-longest-stamp-symbolising-kandy-esala-perahera) · `en`
-
-The world’s longest stamp, measuring 205 mm and symbolizing the historic Sri Dalada Perahera in Kandy, was released by the Postal Department of Sri Lanka on Tuesday (20).
-
-The commemorative stamp was presented to President Ranil Wickremesinghe, according to the President’s Media Division (PMD).
-
-◼️
-
-[Data](articles/9663b8cb.json)
-
-[Extended Data](ext_articles/9663b8cb.ext.json)
 
 ---

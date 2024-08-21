@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 14:09:16**
+As of **2024-08-21 14:21:27**
 
 ## Newspaper Stats
 
-*Scraped **41,872** Articles*
+*Scraped **41,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,75 @@ dailymirrorlk | 4,733
 adaderanalk | 4,901
 tamilmirrorlk | 5,420
 virakesarilk | 6,661
-adaderanasinhalalk | 7,149
+adaderanasinhalalk | 7,151
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,868 (100.0%) of 41,872 articles have been extended.
+41,872 (100.0%) of 41,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### சட்டமூலங்களின் பரிசீலனைக்கு உறுப்பினர்கள் நியமனம்
+### මිලියන 4ක කප්පම් ඉල්ලූ පෙදරේරුවා
+
+*2024-08-21 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200175) · `si`
+
+ඉඩම් හිමි විශ්‍රාමික ධනවත් පුද්ගලයෙකුට දුරකථනයෙන් මරණීය තර්ජන කර රුපියල් ලක්ෂ 40ක කප්පම් මුදලක් ලබාගැනීමට උත්සාහ දැරූ පුද්ගලයෙකු බණ්ඩාරගම දී  අත්අඩංගුවට ගත් බව පානදුර කොට්ඨාස අපරාධ විමර්ශන අංශය කියයි.
+
+එම සැකකරු, විශ්‍රාමිකයාට තර්ජනය කිරීම සඳහා යොදාගත් ජංගම දුරකථනය, සිම් කාඩ්පත් දෙකක්, සැකකරුට කප්පම් මුදල් ලෙස ලබාදීමට සකස් කළ කඩදාසි කොළ අඩංගු කුඩා පාර්සලයක් මෙන්ම යතුරුපැදියක් ද පොලිස් භාරයට ගෙන ඇත.
+
+බණ්ඩාරගම ප්‍රදේශයේ පදිංචි පැමිණිලිකාර විශ්‍රාමික පුද්ගලයා මෙන්ම ඔහුගේ බිරිඳ ට ප්‍රදේශ රැසක ඉඩකඩම් තිබෙන අතර මීට වසර දෙකකට පමණ ඉහතදී ද ඔහුගේ බිරිඳගේ නමට තිබූ හොරණ පෝරුවදණ්ඩ ප්‍රදේශයේ ඉඩමක් රුපියල් කෝටි ගණනාවකට විකුණා තිබූ අතර ඉන් දින කීපයකට පසු පැමිණි තර්ජනාත්මක දුරකථන ඇමතුම් හමුවේ අසරණ වූ එම යුවළ ඇමතුම ලබා දුන් පුද්ගලයාගේ ඉල්ලීම පරිදි ලක්ෂ 40ක කප්පම් මුදලක් ලබාදී ඇති බව මෙම සිදුවීමෙන් පසු අනාවරණය වූ බව පොලීසිය කීය.
+
+ජීවිතයට ඇති ආසාව හේතුවෙන් ඒ සම්බන්ධයෙන් කිසිදු පොලීසියකට පැමිණිල්ලක් නොකළ බව පැමිණිලිකරු පොලිසිය හමුවේ ප්‍රකාශ කර තිබුණි.
+
+...
+
+[Data](articles/d380ed27.json)
+
+---
+
+### පෙර පාසල් සිසුවියන් දෙදෙනා අපයෝජනය කළ කම්කරුවා අත්අඩංගුවට
+
+*2024-08-21 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200174) · `si`
+
+පෙර පාසල් සිසුවියන් දෙදෙනෙක් ලිංගික අපහරණයට ලක්කිරීමේ සිදුවීමක් වාර්තාවීමත් සමඟ ඉන්දියාවේ මහාරාෂ්ට්‍ර ප්‍රාන්තයේ බද්ලාපූර් නගරයේ දැඩි උණුසුම් වාතාවරණයක් නිර්මාණය වුණි.
+
+අවුරුදු 3ක් සහ 4ක් වන මේ දැරියන් දෙදෙනා මෙලෙස අපයෝජනයට ලක්කර ඇත්තේ එම පෙර පාසල පවිත්‍ර කිරීමේ නිරත 23 හැවිරිදි කම්කරුවෙකි.
+
+අපයෝජනයට ලක්වූ දැරියන් දෙදෙනාගෙන් අයෙක් ඒ සම්බන්ධව තම දෙමාපියන්ට දන්වා ඇති අතර, ඉන් කෝපයට පත් දෙමාපියන් සහ ගම්වාසීන් පාසලට පැමිණ ඊට හානි කර තිබුණි.
+
+ප්‍රකෝපකාරී පිරිස් මැඬලීමට පොලිසිය මැදිහත්වූයේ ඔවුන් බද්ලාපූර් දුම්රිය ස්ථානය වෙත පැමිණ එහි කටයුතුවලට බාධාකිරීමත් සමගිනි.
+
+විරෝධතා මර්දනය කර දුම්රිය සේවා යථාවත් කිරීමට පසුව පොලීසිය සමත්ව තිබුණි.
+
+සිද්ධියේ සැකකරු පොලිස් අත්අඩංගුවට ගෙන ඇති අතර ඔහුට එරෙහි නීතිමය කටයුතු සිදුකරන බව ඉන් පසුව පොලීසිය තහවුරු කර තිබේ.
+
+◼️
+
+[Data](articles/41c43554.json)
+
+---
+
+### Appointment of members to review of the Bill
 
 *2024-08-21 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191618) · `ta`
 
-“மாகாண சபைத் தேர்தல்கள் (திருத்தம்)” எனும் சட்டமூலத்தின் பரிசீலனைக்கென 113 (2) ஆம் இலக்க நிலையியற் கட்டளையின் பிரகாரம் சட்டவாக்க நிலையியற் குழுவில் சேவையாற்றும் பொருட்டு சட்டத்தரணி (கலாநிதி) சுசில் பிரேமஜயந்த, பிரசன்ன ரணதுங்க, ஜானக வக்கும்புர, சாமர சம்பத் தசனாயக, சட்டத்தரணி சந்திம வீரக்கொடி, மனோ கணேசன், இரான் விக்கிரமரத்ன மற்றும் ஜகத் குமார சுமித்ராரச்சி ஆகிய உறுப்பினர்களை தான் மேலதிக உறுப்பினர்களாக நியமித்துள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன இன்று புதன்கிழமை (21) பாராளுமன்றத்தில் அறிவித்தார்.
+Speaker Mahinda Yapa Abeywardena appointed members including Dr. Susil Premajayantha, Prasanna Ranatunga, Janaka Vakkumbura, and others to review the "Provincial Council Elections (Amendment)" Bill. He also added Wickremaratne and Jagath Kumara Sumitraachi as additional members.
 
-“பாராளுமன்றத் தேர்தல்கள் (திருத்தம்) எனும் சட்டமூலத்தின் பரிசீலனைக்கென 113 (2) ஆம் இலக்க நிலையியற் கட்டளையின் பிரகாரம் சட்டவாக்க நிலையியற் குழுவில் சேவையாற்றும் பொருட்டு (திருமதி) சட்டத்தரணி பவித்ராதேவி வன்னிஆரச்சி, கஞ்சன விஜேசேகர,  பிரமித்த பண்டார தென்னகோன், கௌரவ றோஹண திஸாநாயக்க, அநுராத ஜயரத்ன, சட்டத்தரணி சந்திம வீரக்கொடி, மனோ கணேசன் மற்றும் இரான் விக்கிரமரத்ன ஆகிய உறுப்பினர்கள் நியமிக்கப்பட்டுள்ளதாகவும் சபாநாயகர் அறிவித்தார்.
+🟩
+
+Attorney -at -Law (Dr.) Susil Premajayantha, Prasanna Ranatunga, Janaka Vakkumbura, Samara Sampath Dasanayaka, Attorney -at -Law, Staff in order to serve the Legal Standing Committee in accordance with the Standing Ordinance of Article 113 (2) for the review of the "Provincial Council Elections (Amendment)" Bill.Speaker Mahinda Yapa Abeywardena announced in Parliament on Wednesday (21) that he had appointed the members of Wickremaratne and Jagath Kumara Sumitraachi as additional members.
+
+“The Parliamentary Elections (Amendment) Bill, according to the Standing Ordinance of Article 113 (2), to serve in the Legislative Standing Committee (Mrs.) Pavithradevi Vanni Arachchi, Kanjana Wijeshekara, Pramitha Bandara Tennakoon, Manava Roya DissanayakaThe Speaker also announced that members of Iran Wickremaratne have been appointed.
 
 ◼️
 
 [Data](articles/b14904fb.json)
+
+[Extended Data](ext_articles/b14904fb.ext.json)
 
 ---
 
@@ -88,39 +134,55 @@ The passage of Delegation, Jayantha de Silva served as the co-organizer at the B
 
 ---
 
-### கொக்குத்தொடுவாய் புதைகுழி மூடப்படுவதற்கு வடக்கின் ஐந்து மாவட்டங்களில் எதிர்ப்பு
+### Opposition in five districts of the North
 
 *2024-08-21 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191612) · `ta`
 
-52 பேரின் எலும்புக்கூடுகள் மீட்கப்பட்டதையடுத்து நீதிமன்ற உத்தரவின் பேரில் மூடப்பட்ட கொக்குத்தொடுவாய் மனித புதைகுழி தொடர்பில் உண்மையை வெளிப்படுத்தி நீதி வழங்குமாறு கோரி போரினால் பாதிக்கப்பட்டத் தமிழர்களின் தாய்மார் ஆர்ப்பாட்டம் நடத்தியுள்ளனர்.
+Tamil mothers protested in five northern districts, demanding justice for the remains of 52 individuals unearthed from a burial site. Relatives of the missing, including those from Mullaitivu, criticized the lack of action on similar discoveries and questioned the effectiveness of the Office of Missing Persons (OMP). They called for international intervention and genetic examinations to identify the deceased. The skeletal remains, initially intended for urgent burial, are now undergoing forensic analysis, with results expected in six months.
 
-2024ஆம் ஆண்டு ஜூலை 15ஆம் திகதி, அகழ்வுப் பணிகள் நிறைவுக்கு கொண்டுவரப்பட்ட முல்லைத்தீவு கொக்குத்தொடுவாய் வெகுஜன மயானத்திற்கு அருகில் செவ்வாய்க்கிழமை (20) ஒன்று கூடிய வடக்கின் ஐந்து மாவட்டங்களையும் பிரதிநிதித்துவப்படுத்தும் வலிந்து காணாமலாக்கப்பட்டவர்களின் உறவினர்கள், தமிழ் மக்கள் பிரதிநிதி ஒருவருடன் இணைந்து வடக்கு கிழக்கில் உள்ள அனைத்து மனித புதைகுழிகள் தொடர்பிலும் சர்வதேச விசாரணை அவசியமென, ஒரே குரலில் வலியுறுத்தினர்.
+🟩
+
+The mothers of the Tamils ​​affected by the war have staged a protest demanding the truth about the human burial ground, which is closed on a court order after the skeletons of 52 people have been recovered.
+
+The relatives of the missing persons who represented the five districts of the North on Tuesday (20), near the Mullaitivu Kokkuttuwai Mass, which was completed on July 15, 2024, in the North and East, with a Tamil people's representative in the North and East.
+
+Relatives of the Mullaitivu District Mullaitivu District, Marisuresh Eswari, said that the four human fossils found in the North were not given justice and that the skeletons that were rescued in the Kokkuttuwai human burial ground should be given to them.
 
 ...
 
 [Data](articles/4e835725.json)
 
+[Extended Data](ext_articles/4e835725.ext.json)
+
 ---
 
-### ஆகஸ்ட் மாதம் 10 ஆம் திகதி வரை வீதி விபத்துக்களால் 1,417 பேர் உயிரிழப்பு
+### 1,417 deaths of road accidents until 10th August
 
 *2024-08-21 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191605) · `ta`
 
-இவ் ஆண்டு ஆகஸ்ட் மாதம் 10 ஆம் திகதி வரை இடம்பெற்ற 1,352 விபத்துக்களில்  மொத்தம் 1,417 பேர் உயிரிழந்துள்ளதாக  போக்குவரத்து பிரிவிற்கு பொறுப்பான பிரதி பொலிஸ் மா அதிபர் இந்திக்க ஹப்புகொட தெரிவித்துள்ளார்.
+As of August 10, 1,417 deaths occurred from 1,352 road accidents this year. Compared to previous years, 2023 saw fewer accidents but more fatalities. Motorcycle accidents accounted for many deaths, especially among schoolchildren. Legal actions against helmet-less riders surged significantly in 2023.
 
-கடந்த மே மாதம் வரை 84 இலட்சம் வாகனங்கள் மோட்டார் போக்குவரத்துத் திணைக்களத்தில் பதிவு செய்யப்பட்டுள்ளன.  அவற்றில், 48 இலட்சம்  (58%) மோட்டார் சைக்கிள்களும், 11 இலட்சம் (14%) முச்சக்கர வண்டிகளும் பதிவு செய்யப்பட்டுள்ளன.
+🟩
 
-நீரில் மூழ்குதல், மின்சாரம் தாக்குதல் மற்றும் விழுதல், தற்கொலைகள் உள்ளிட்ட விபத்துக்களால் ஆண்டுதோறும் 12,000 பேர் உயிரிழக்கின்றனர்.
+A total of 1,417 people have died in 1,352 accidents till August 10 this year, Deputy Inspector General of Police Indika Hapugoda said.
 
-அதில் மூன்றில் ஒரு பகுதி (3,000) உயிரிழப்புகள் வீதி விபத்துகளால் ஏற்படுகின்றன. அதேவேளை, 1000 பேர் மோட்டார் சைக்கிள் விபத்துக்களால் உயிரிழந்துள்ளனர்.
+As of May last year, 84 lakh vehicles were registered with the Motor Transport Department.Of these, 48 lakh (58%) motorcycles and 11 lakh (14%) three -wheelers are registered.
 
-கடந்த 2021 ஆம் ஆண்டு இடம்பெற்ற 2,452 விபத்துகளில் 2,257 பேரும், 2022ல் 2,420 விபத்துகளில் 2,540 பேரும் உயிரிழந்துள்ளனர்.
+About 12,000 people die annually due to accidents, including submerged, electricity and falling and suicides.
 
-2023 ஆம் ஆண்டு குறைந்தளவிலான விபத்துக்கள் இடம் பெற்றுள்ளது. அதன்படி, 2,214 விபத்துகளில் 2,325 பேர் உயிரிழந்துள்ளனர்.
+One -third of them (3,000) casualties are caused by road accidents. At the same time, 1000 people have died of motorcycle accidents.
+
+Of the 2,452 accidents in 2021, 2,257 were killed and 2,540 in 2,420 accidents in 2022.
+
+2023 has fewer accidents. Accordingly, 2,325 people died in 2,214 accidents.
+
+A total of 1,417 people have died in 1,352 road accidents that took place till August 10 this year.
 
 ...
 
 [Data](articles/568c1f56.json)
+
+[Extended Data](ext_articles/568c1f56.ext.json)
 
 ---
 
@@ -224,23 +286,31 @@ Two more suspects fled from there, and police seized some of the equipment used 
 
 ---
 
-### எந்த வேட்பாளருக்கும் ஆதரவில்லை -கத்தோலிக்க திருச்சபை
+### Not supporting any candidate -Catolytic Church
 
 *2024-08-21 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/191615) · `ta`
 
-இலங்கையின் ஜனாதிபதி தேர்தலில் போட்டியிடும் எந்த வேட்பாளருக்கும் தனது அங்கீகாரத்தை வழங்கப்போவதில்லை என இலங்கை கத்தோலிக்க திருச்சபை தெரிவித்துள்ளது.
+The Catholic Church in Sri Lanka has announced it won't endorse any candidate in the upcoming presidential election. Despite meetings with several contenders, including Sajit Famedasa from the United People's Power and Anura Kumara from the JVP, the church remains neutral. The focus is on addressing concerns affecting Catholics, such as education and justice for the 2019 Easter Sunday attacks, rather than political endorsements.
 
-ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்களை சந்தித்துள்ள போதிலும் எந்த வேட்பாளருக்கும் ஆதரவை வெளியிடப்போவதில்லை என கத்தோலிக்க திருச்சபை தெரிவித்துள்ளது.
+🟩
 
-நாங்கள் எவருக்கும் அங்கீகாரத்தை வழங்கமாட்டோம் என கொழும்பு பேராயரின் பேச்சாளர் சிறில்காமினி பெர்ணாண்டோ தெரிவித்துள்ளார்.
+The Catholic Church of Sri Lanka has said that it will not give his recognition to any candidate contesting the presidential election.
 
-மக்களே தங்களிற்கு யார் வேண்டும் என்பதை தீர்மானிக்கவேண்டும்இநாங்கள் ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்களுடன் நாட்டில் கத்தோலிக்க மக்கள் எதிர்கொள்ளும் பிரச்சினைகள் குறித்த பேச்சுவார்த்தைகளில் மாத்திரம்  ஈடுபடுகின்றோம் என அவர் தெரிவித்துள்ளார்.
+The Catholic Church has said that despite the meeting of the presidential election, no candidate will support any candidate.
 
-ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித்பிரேமதாச ஜேவிபியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார உட்பட பல ஜனாதிபதி வேட்பாளர்கள் பேராயர் கர்தினால் மல்கம் ரஞ்சித்தை சந்தித்து பேச்சுவார்த்தைகளை மேற்கொண்டுள்ளனர்.
+Colombo Archbishop spokesman Sirilkamini Fernando said we would not give us recognition.
+
+He said that the people are only negotiating the problems faced by the Catholic people in the country with the candidates who are contesting the presidential election.
+
+Several presidential candidates, including the presidential candidate of the United People's Power, Sajit Famedasa JVP's presidential candidate, Anurakumara, have met Archbishop Cardinal Malcolm Ranjith.
+
+Sri Lanka Fernando said that despite the support of any candidate, he will hold talks with the presidential election candidates on the issue of Catholic people and the upheaval of justice for the 2019 resurrection Sunday attack.
 
 ...
 
 [Data](articles/4a892077.json)
+
+[Extended Data](ext_articles/4a892077.ext.json)
 
 ---
 
@@ -2157,61 +2227,5 @@ In a true democracy, the selection of candidates and the election process should
 [Data](articles/e6010ed9.json)
 
 [Extended Data](ext_articles/e6010ed9.ext.json)
-
----
-
-### 2024-08-20 (Tuesday)
-
-### Sri Lanka's comfort to win the last women's ODIBut the series is in the case of Ireland
-
-*2024-08-20 23:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191572) · `ta`
-
-Sri Lanka secured a consolation victory in the final women's ODI against Ireland, winning by 8 wickets after losing the series 2-1. The match was highlighted by Samira Athapaththu's all-round performance and Harsitha Samarawickrama's efficient batting. Despite Ireland's strong start, scoring 123 runs, Sri Lanka's disciplined bowling led by Athapaththu (3/15) and Kulasuriya (3/35) ensured their win.
-
-🟩
-
-Sri Lanka won by 8 wickets in the third and last women's ODI against Ireland on Tuesday (20) at the Belfast, Stomant Civil Services Cricket Ground.
-
-This was a consolation success for Sri Lanka, which had already been hit by a 3 -match series.
-
-Ireland won the first two matches by 2 - 1.
-
-The all -round match of the team leader Samari Athapathu and the efficient batting of Harsitha Samarawickrama led to Sri Lanka's easy success.
-
-In response, Ireland won 123 runs in the upcoming match and won by 2 wickets in 23.1 overs and scored 123 runs.
-
-Samari Attapathu scored 48 runs and Harshita Samarawickrama scored 48 runs. Kavisha Dilhari did not play with 10 runs.
-
-Ireland scored only 122 runs in 46.3 overs.
-
-Allein Kelly (35), Lee Bol (19) in the middle of the Mediterrane. E.) They contributed the best contribution to the batting.
-
-In the bowling, Samari Attapattu took 3 wickets for 15 runs, Achini Kulasuriya took 3 wickets for 35 runs while Sachini Nissanchala took 2 wickets for 35 runs.
-
-◼️
-
-[Data](articles/922134f7.json)
-
-[Extended Data](ext_articles/922134f7.ext.json)
-
----
-
-### Building a sustainable future: The impact of RPCs on Sri Lanka’s economy and environment
-
-*2024-08-20 23:41:00* · [`islandlk`](http://island.lk/building-a-sustainable-future-the-impact-of-rpcs-on-sri-lankas-economy-and-environment/) · `en`
-
-Despite challenges like COVID-19 and economic crises, Sri Lanka’s plantation industry remains a key economic pillar.
-
-Privatization in 1992 increased operational efficiency and reduced the government’s financial burden.
-
-RPCs have diversified crops, invested in environmental conservation, and improved worker welfare.
-
-The plantation industry has long been a cornerstone of Sri Lanka’s economy, and synonymous with the highest quality premium exports. Despite facing significant challenges over the past four years, including COVID-19, arbitrary decisions on fertilizers and agro-chemicals, and a historic economic crises, the industry provided a rare pillar of stability.
-
-...
-
-[Data](articles/12b9cd90.json)
-
-[Extended Data](ext_articles/12b9cd90.ext.json)
 
 ---

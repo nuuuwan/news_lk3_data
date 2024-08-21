@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 09:56:15**
+As of **2024-08-21 10:08:56**
 
 ## Newspaper Stats
 
-*Scraped **41,813** Articles*
+*Scraped **41,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,520
 dailyftlk | 2,701
-adalk | 3,847
+adalk | 3,848
 dailymirrorlk | 4,733
-adaderanalk | 4,892
+adaderanalk | 4,894
 tamilmirrorlk | 5,409
 virakesarilk | 6,648
 adaderanasinhalalk | 7,138
@@ -26,11 +26,47 @@ adaderanasinhalalk | 7,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,813 (100.0%) of 41,813 articles have been extended.
+41,813 (100.0%) of 41,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### Bandula Lal Bandarigoda sworn in as Member of Parliament
+
+*2024-08-21 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101388/bandula-lal-bandarigoda-sworn-in-as-member-of-parliament) · `en`
+
+Samagi Jana Balawegaya (SJB) member Bandula Lal Bandarigoda was sworn in as a Member of Parliament this morning (21), filling the vacancy created by the removal of former Galle District MP Manusha Nanayakkara.
+
+He took oaths before Speaker Mahinda Yapa Abeywardena following the commencement of the parliamentary proceedings at 9.30 a.m. today.
+
+◼️
+
+[Data](articles/fff87f7f.json)
+
+---
+
+### Man arrested for killing mother-in-law, injuring wife and daughter
+
+*2024-08-21 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101387/man-arrested-for-killing-mother-in-law-injuring-wife-and-daughter) · `en`
+
+An individual has been arrested for allegedly murdering his mother-in-law and causing serious injuries to his wife and daughter at Lewangama.
+
+Police said an investigation was launched after receiving a complaint regarding the incident, where a woman had been killed and two other females had been injured, which had occurred last evening (20) in the Lewangama area of the Galapitamada police division.
+
+The deceased, a 55-year-old woman from Atalawatta, Lewangama, was reportedly involved in an argument with the suspect over a monetary dispute.
+
+The suspect had allegedly struck her on the head with a rock, causing severe injuries. She had later succumbed to injuries after being admitted to Karawanella Base Hospital.
+
+Police investigation also revealed that the suspect had injured his wife and daughter with a sharp weapon during the altercation.
+
+The 44-year-old suspect has been arrested, and Galapitamada Police are continuing further investigations into the incident.
+
+◼️
+
+[Data](articles/d6aa28ac.json)
+
+---
 
 ### Namal's first presidential election campaign meeting today
 
@@ -1434,6 +1470,22 @@ It is noteworthy that the Department of Meteorology has also asked the people to
 
 ---
 
+### භාණ්ඩාගාරයට ලැබිය යුතු හිඟ බදු මුදල කෝටි එක්ලක්ෂ දහ දාහක්
+
+*2024-08-20 19:23:23* · [`adalk`](https://www.ada.lk/breaking_news/භාණ්ඩාගාරයට-ලැබිය-යුතු-හිඟ-බදු-මුදල-කෝටි-එක්ලක්ෂ-දහ-දාහක්/11-411473) · `si`
+
+මහ භාණ්ඩාගාරයට ලැබිය යුතු හිඟ බදු මුදල් කෝටි එක්ලක්ෂ දහදාහක් ඇති බවත්, බදු ගෙවිය යුතු අය අතර පාර්ලිමේන්තු මන්ත්‍රීවරුන් ද සිටිනා බවත් ජාතික ජනබලවේගයේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. බදු ගෙවිය යුතු මන්ත්‍රීවරු අතර ජොන්ස්ටන් ප්‍රනාන්දු හා ලක්ෂ්මන් වසන්ත පෙරේරා හා හිටපු මහබැංකු අධිපති අර්ජුන ඇලෝසියස් ද සිටින බව ඔහු ප්‍රකාශ කළේය.
+
+ජාතික ජනබලවේගය කිසිවෙකුගෙන් දේශපාලන පළිගැනීම් සිදු නොකළද, මහජන මුදල් හා දේපළ හොරකම් කළ අය නිසි පරීක්ෂණ පවත්වා නීතිය හමුවට ගෙන එන බවත්, ඔවුන් එලෙස අනීතිකව උපයා ඇති ධනය හා දේපළ සියල්ල නැවත පවරා ගන්නා බවත් දිසානායක මහතා සඳහන් කළේය.
+
+ඔහු මේ බව පැවසුවේ ඊයේ (20දා) ගල්ගමුවේ පැවති ජනරැළියක් අමතමිනි.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ දිසානායක මහතා මෙසේද කීය.
+
+...
+
+[Data](articles/b5d96eba.json)
+
+---
+
 ### The President who retired from politics came to Parliament
 
 *2024-08-20 19:16:46* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලනයෙන්-විශ්‍රාම-ගෙන-සිටි-ජනපතිට-ආයේ-පාර්ලමේන්තු-එන්න-කීවේ-නවින්/11-411472) · `si`
@@ -2203,93 +2255,5 @@ Police estimate that the fire has caused nearly Rs. 30 million in damages.
 [Data](articles/9e2f57e0.json)
 
 [Extended Data](ext_articles/9e2f57e0.ext.json)
-
----
-
-### Controlled Kankesanthurai - Nagapattinam Shipping Service
-
-*2024-08-20 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191551) · `ta`
-
-Niranjan, director of Sivaganga Shipping, announced limited passenger services to Jaffna-Kankesanthurai and Nagapattinam for three weekdays due to reduced demand. He also mentioned that shipbuilding procedures would continue until the end of August, aiming to resume full services from September 1st based on increased passenger numbers. Services to Nagapattinam and Kankesanthurai will operate only on Tuesdays, Thursdays, and Sundays.
-
-🟩
-
-Sivaganga Shipping Director Niranjan said that the passenger shipping service to Jaffna - Kankesanthurai and Nagapattinam has been limited for 3 days during the week.
-
-He further commented on shipbuilding that the procedure will be seen until the 31st of this month, the company's Director said.
-
-He added that the shipping service is expected to be carried out on the first day of September 1st on the basis of an increase in passenger attendance.
-
-The Director of Sivaganga Shipping Company said that the passenger shipping service to Nagapattinam and Kankesanthurai will be carried out only on Tuesday, Thursday and Sunday.
-
-◼️
-
-[Data](articles/ccc2a596.json)
-
-[Extended Data](ext_articles/ccc2a596.ext.json)
-
----
-
-### Presidential candidate for breaking the tradition
-
-*2024-08-20 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200138) · `si`
-
-The American Democrat Party launched its presidential campaign in Chicago, led by USriso Biday, a former Secretary of State backed by Hillary Clinton. This marks a break from tradition as candidates usually address the church on the last day of the convention. The event was highlighted by President Joe Biden's warm reception and his emphasis on the importance of his decision to run for vice president in the 2020 election.
-
-🟩
-
-The American Democott Party (UP) commenced yesterday at Chicago yesterday.
-
-The US presidential election, the Democratic Party candidate, USriso Biday, former American Secretary of State Hillary Clinton is the main democratic supporters of the main democratic supporters.
-
-The Democratic Party addressed the party convention was a matter of gratitude to President Joe Bidan.
-
-She emphasized that Democrats were always indebted by President Bidan.
-
-The presidential candidate joined the convention on the first day, while the convention is the ordinary custom to address the church on the last day.
-
-Some men, the tradition of Harris breaking the tradition, and she may have caused the unusual character of party candidate.
-
-USA Biden addressed the National Federation and the President received a warm welcome from the party.
-
-The sensitive to the President's Biden stage was foreign media reports.
-
-Addressing the conference, President Biden said that he was the privilege of being the US presidency.
-
-...
-
-[Data](articles/0f2c19c9.json)
-
-[Extended Data](ext_articles/0f2c19c9.ext.json)
-
----
-
-### Do not confuse people with no vague plan on the abolition of executive presidency -Ali Sabri appeals
-
-*2024-08-20 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/191550) · `ta`
-
-External Affairs Minister Ali Sabri urges clarity on plans to abolish the executive presidency ahead of the presidential election. Leaders like Chandrika Kumaratunga have advocated for its end during their tenure, while others like Maithripala Sirisena have cited legal constraints. The issue raises constitutional implications, prompting calls for concrete proposals and timelines from those committed to reform.
-
-🟩
-
-External Affairs Minister Alizabri has appealed for the proposal on how to carry out the Presidential candidates to abolish the executive presidency.
-
-As the presidential election is nearing, new plea and promises have been made regarding the abolition of the executive president.
-
-Leaders like Chandrika Kumaratunga have launched this until the end of his tenure.
-
-At the same time, Maithripala Sirisena said he had not taken action against the administration due to the court's order.
-
-The real situation is that the abolition of the executive presidential system is directly impact on some sections of our constitution.
-
-So if you have a genuine commitment to this promise, we will talk about exclusive. When will you plan to find a solution to this issue only after your tenure is over?
-
-It is your duty to provide guidelines on how you want to carry out it if you really want to make a change of executive removal.
-
-◼️
-
-[Data](articles/3ec0e2f6.json)
-
-[Extended Data](ext_articles/3ec0e2f6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 04:07:44**
+As of **2024-08-22 04:21:34**
 
 ## Newspaper Stats
 
-*Scraped **41,991** Articles*
+*Scraped **41,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,722
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
-tamilmirrorlk | 5,442
+tamilmirrorlk | 5,443
 virakesarilk | 6,681
 adaderanasinhalalk | 7,167
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,991 (100.0%) of 41,991 articles have been extended.
+41,991 (100.0%) of 41,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### ’தமிழர்கள் மத்தியில் வாக்களிப்பதில் குழப்பம்’
+
+*2024-08-22 02:34:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்கள்-மத்தியில்-வாக்களிப்பதில்-குழப்பம்/175-342608) · `ta`
+
+தமிழ் மக்களின் அபிமானம் பெற்ற தலைவர்களான ரணில் விக்கிரமசிங்கவும் சஜித் பிரேமதாசவும் இம்முறை பிரிந்து நின்று ஜனாதிபதித் தேர்தலில் போட்டியிடுவதனால் இந்த முறை தமிழ் மக்கள் யாருக்கு வாக்களிப்பது என்ற  நெருக்கடிக்கு, குழப்பத்துக்கு ஆளாகியுள்ளனர். என ஐக்கிய மக்கள் சக்தியின் இரத்தினபுரி மாவட்ட எம்.பி.யும் முன்னாள் நீதி அமைச்சருமான சட்டத்தரணி தலதா அத்துகோரள  தெரிவித்தார்.
+
+பாராளுமன்றம் புதன்கிழமை (21) சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கூடியது. தனது ராஜினாமாவை அறிவிக்கும் முன்னர் விசேட கூற்றொன்றை விடுத்து உரையாற்றும் போது மேற்கண்டவாறு தெரிவித்தார்.
+
+2005 ஜனாதிபதி தேர்தலில் எமது வேட்பாளர் ரணில் விக்ரமசிங்க தோல்வியடைய தமிழ் மக்கள் வாக்களிக்காமையே பிரதான காரணமாக இருந்தது , ராஜபக்சவினரின் சதி நடவடிக்கைக்குள் சிக்குண்டு வடக்கு கிழக்கு மக்கள் வாக்களிப்பு பகிஷ்கரிப்புக்கு ஆளாகினர்.அன்று அவர்கள் வழமைபோன்று வாக்களித்திருந்தால். ரணில் விக்ரமசிங்க ஜனாதிபதியாகி இருந்திருப்பார். அதனால் அன்று அவர்கள் விட்ட   தவறை திருத்திக்கொள்வார்கள் என்பது உறுதி .
+
+...
+
+[Data](articles/2dd227d0.json)
+
+---
 
 ### Look at the dreamer
 
@@ -2317,29 +2333,5 @@ He said that there is a miraculous magic in the air and a feeling of deeply buri
 [Data](articles/bc1c908b.json)
 
 [Extended Data](ext_articles/bc1c908b.ext.json)
-
----
-
-### Second US warship calls at Colombo Port for replenishment
-
-*2024-08-21 13:20:00* · [`economynextcom`](https://economynext.com/second-us-warship-calls-at-colombo-port-for-replenishment-177586/) · `en`
-
-ECONOMYNEXT – The USS O’kane of the United States Navy arrived at the Colombo Port on a replenishment visit on Wednesday (21), Sri Lanka’s Navy said.
-
-“The Sri Lanka Navy warmly welcomed the ship upon its arrival,” the Navy said. “Following the completion of replenishments, she is scheduled to depart the island on 22nd August.”
-
-USS O’kane is an 154-meter Arleigh Burke-class destroyer operated by a crew of 328 personnel. The ship is commanded by Commander Richard Ray.
-
-The warship follows the USS Spruance which arrived at the Colombo Port on Aug 19.
-
-Arleigh Burke-class destroyers are warships that can conduct various mission sets, including anti-submarine warfare, anti-air warfare, and anti-surface warfare.
-
-The USA has been moving military craft to the region in anticipation of a broader war in the middle east/west Asia, foreign media have reported. (Colombo/Aug20/2024)
-
-◼️
-
-[Data](articles/d5dfca5f.json)
-
-[Extended Data](ext_articles/d5dfca5f.ext.json)
 
 ---

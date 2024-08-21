@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 17:37:19**
+As of **2024-08-21 17:57:46**
 
 ## Newspaper Stats
 
-*Scraped **41,910** Articles*
+*Scraped **41,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 2,701
 adalk | 3,861
 dailymirrorlk | 4,733
 adaderanalk | 4,906
-tamilmirrorlk | 5,428
+tamilmirrorlk | 5,430
 virakesarilk | 6,666
-adaderanasinhalalk | 7,158
+adaderanasinhalalk | 7,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,910 (100.0%) of 41,910 articles have been extended.
+41,910 (100.0%) of 41,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### පනත් කෙටුම්පත් 02ක් සලකාබැලීමට කාරක සභා සාමාජික මන්ත්‍රීවරුන් නම් කරයි
+
+*2024-08-21 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200183) · `si`
+
+“පළාත් සභා ඡන්ද විමසීම් සංශෝධන පනත් කෙටුම්පත සහ පාර්ලිමේන්තු මැතිවරණ සංශෝධන පනත් කෙටුම්පත සලකාබැලීම සඳහා කාරක සභා සාමාජික මන්ත්‍රීවරුන් නම් කර තිබේ.
+
+“පළාත් සභා ඡන්ද විමසීම් (සංශෝධන)” නමැති පනත් කෙටුම්පත සලකා බැලීම සඳහා පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 113(2) අනුව, ව්‍යවස්ථාදායක ස්ථාවර කාරක සභාවට පාර්ලිමේන්තු මන්ත්‍රීවරයන් 08 දෙනෙකු අතිරේක සාමාජික මන්ත්‍රීවරයන් වශයෙන් කථානායක මහින්ද යාපා අබේවර්ධන මහතා විසින් නම් කර තිබේ.
+
+ඒ , නීතිඥ (ආචාර්ය) සුසිල් ප්‍රේමජයන්ත, ප්‍රසන්න රණතුංග, ජානක වක්කුඹුර, චාමර සම්පත් දසනායක, නීතිඥ චන්දිම වීරක්කොඩි, මනෝ ගනේෂන්, ඉරාන් වික්‍රමරත්න සහ ජගත් කුමාර සුමිත්‍රාආරච්චි යන පාර්ලිමේන්තු මන්ත්‍රීවරුන්ය.
+
+එමෙන්ම “පාර්ලිමේන්තු මැතිවරණ (සංශෝධන)” නමැති පනත් කෙටුම්පත සලකා බැලීම සඳහා පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 113(2) අනුව, ව්‍යවස්ථාදායක ස්ථාවර කාරක සභාවට ද  පාර්ලිමේන්තු මන්ත්‍රීවරුන් 08 දෙනෙකු අතිරේක සාමාජික මන්ත්‍රීවරයන් වශයෙන් කථානායක මහින්ද යාපා අබේවර්ධන මහතා විසින් නම් කර තිබේ.
+
+...
+
+[Data](articles/60d5e84b.json)
+
+---
+
+### சீனாவின் லியோனிங்கில் நிலச்சரிவு
+
+*2024-08-21 17:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவின்-லியோனிங்கில்-நிலச்சரிவு/50-342579) · `ta`
+
+சீனாவின் வடகிழக்கு மாகாணமான லியோனிங்கில் (Liaoning) உள்ள கிராமப்பகுதிகளில் பெய்த கடும் மழை காரணமாக அங்கு வெள்ளமும் நிலச்சரிவும் ஏற்பட்டுள்ளது.
+
+இதில் 300க்கும் மேற்பட்டோர் சிக்கித் தவிக்கும் நிலையில், அங்கு தொடர்பாடல்களும் துண்டிக்கப்பட்டுள்ளதாக சீன ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இந்நிலையில், ஹெலிகொப்டர்கள் மூலம் மீட்புப் பணிகள் இடம்பெற்றுவரும் நிலையில், பாதிக்கப்பட்ட பகுதிகளுக்கு உதவிகள் வழங்க மாகாணம் முழுவதும் மீட்புப் படையினர் விரைந்துள்ளனர்.S
+
+◼️
+
+[Data](articles/1f81cc2a.json)
+
+---
 
 ### Police seize 4 pythons and marsh crocodile found hidden in pet shop
 
@@ -57,6 +91,20 @@ The arrested suspects are scheduled to be produced before the Wattala Magistrate
 [Data](articles/08e7ed35.json)
 
 [Extended Data](ext_articles/08e7ed35.ext.json)
+
+---
+
+### அலி சாஹிர் மௌலானா அமைச்சராக நியமனம்
+
+*2024-08-21 17:04:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-சாஹிர்-மௌலானா-அமைச்சராக-நியமனம்/175-342576) · `ta`
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் (SLMC) தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினர் செய்ட் அலி சாஹிர் மௌலானா, இன்று முதல் அமுலுக்கு வரும் வகையில் அமைச்சரவை அல்லாத அபிவிருத்தித் திட்ட அமைச்சராக நியமிக்கப்பட்டுள்ளார்.
+
+இதற்கிடையில், ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தொழிலாளர் இராஜாங்க அமைச்சராக நியமிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/34604ac6.json)
 
 ---
 
@@ -2297,77 +2345,5 @@ Police further said that the seized haul of heroin, weighing approximately 01 kg
 [Data](articles/611fa75e.json)
 
 [Extended Data](ext_articles/611fa75e.ext.json)
-
----
-
-### A person who destroyed a family to a cash dispute
-
-*2024-08-21 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200160) · `si`
-
-In a tragic incident over a cash dispute, a man severely injured his wife and daughter, leading to their hospitalization. The suspect, aged 44, was arrested after a complaint was filed about the attack in the Atladyagama area. Further investigations are ongoing.
-
-🟩
-
-A person has been arrested in connection with the wife and daughter who seriously wounded the wife and daughter.
-
-Police have decided to investigate a complaint lodged by a complaint with a person who had come to a house in the Atladyagama area in the Galapitamada police division yesterday (20).
-
-The victim was a 55 year old resident of Athalawatta, Atlawatta.
-
-On a cash dispute, the suspect has created an argument with his wife and his wife.
-
-The wife's mother was hit with a stone and the injured were rushed to the Karawanella hospital.
-
-The police investigation revealed that his wife and daughter were injured and injured in a sharp instrument.
-
-The 44-year-old suspect has been arrested and Galapitamada police are conducting further investigations.
-
-◼️
-
-[Data](articles/cf54f5af.json)
-
-[Extended Data](ext_articles/cf54f5af.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-08-21 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101384/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places in Eastern, Uva and North-Central Provinces during the evening or night, it said.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/d7a7dba2.json)
-
-[Extended Data](ext_articles/d7a7dba2.ext.json)
-
----
-
-### Sri Lanka Online Safety Act amendment bill published
-
-*2024-08-21 07:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-safety-act-amendment-bill-published-177446/) · `en`
-
-ECONOMYNEXT – Sri Lanka has published a bill make changes to the country’s controversial Online Safety Act which was passed in parliament despite opposition from civil society groups and the tech industry.
-
-The law seeks to police online discourse through an Online Safety Commission with sweeping powers.
-
-The new bill makes the appointment of Commissioners subject to approval by the Constitutional Council.
-
-It also makes other changes like limiting the scope to offences committed by anyone while in Sri Lanka and removing Section 19.
-
-...
-
-[Data](articles/fc723e92.json)
-
-[Extended Data](ext_articles/fc723e92.ext.json)
 
 ---

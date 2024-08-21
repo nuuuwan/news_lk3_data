@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 04:21:34**
+As of **2024-08-22 04:37:04**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,991 (100.0%) of 41,992 articles have been extended.
+41,992 (100.0%) of 41,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### ’தமிழர்கள் மத்தியில் வாக்களிப்பதில் குழப்பம்’
+### Confusion in voting among Tamils
 
 *2024-08-22 02:34:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்கள்-மத்தியில்-வாக்களிப்பதில்-குழப்பம்/175-342608) · `ta`
 
-தமிழ் மக்களின் அபிமானம் பெற்ற தலைவர்களான ரணில் விக்கிரமசிங்கவும் சஜித் பிரேமதாசவும் இம்முறை பிரிந்து நின்று ஜனாதிபதித் தேர்தலில் போட்டியிடுவதனால் இந்த முறை தமிழ் மக்கள் யாருக்கு வாக்களிப்பது என்ற  நெருக்கடிக்கு, குழப்பத்துக்கு ஆளாகியுள்ளனர். என ஐக்கிய மக்கள் சக்தியின் இரத்தினபுரி மாவட்ட எம்.பி.யும் முன்னாள் நீதி அமைச்சருமான சட்டத்தரணி தலதா அத்துகோரள  தெரிவித்தார்.
+Tamil voters face confusion over choosing between leaders Ranil Wickremesinghe and Sajith Premadasa due to past electoral decisions. The 2005 defeat of Wickremesinghe by Tamil votes led to regret, yet in 2019, Tamil support divided between him and Premadasa. This election cycle sees a similar dilemma, with both parties vying for Tamil support amidst historical voting patterns and recent political shifts.
 
-பாராளுமன்றம் புதன்கிழமை (21) சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கூடியது. தனது ராஜினாமாவை அறிவிக்கும் முன்னர் விசேட கூற்றொன்றை விடுத்து உரையாற்றும் போது மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-2005 ஜனாதிபதி தேர்தலில் எமது வேட்பாளர் ரணில் விக்ரமசிங்க தோல்வியடைய தமிழ் மக்கள் வாக்களிக்காமையே பிரதான காரணமாக இருந்தது , ராஜபக்சவினரின் சதி நடவடிக்கைக்குள் சிக்குண்டு வடக்கு கிழக்கு மக்கள் வாக்களிப்பு பகிஷ்கரிப்புக்கு ஆளாகினர்.அன்று அவர்கள் வழமைபோன்று வாக்களித்திருந்தால். ரணில் விக்ரமசிங்க ஜனாதிபதியாகி இருந்திருப்பார். அதனால் அன்று அவர்கள் விட்ட   தவறை திருத்திக்கொள்வார்கள் என்பது உறுதி .
+Ranil Wickremesinghe and Sajith Premadasa, who are adorable leaders, are confused by the crisis of whom the Tamil people to vote for this time.. Attorney -at -law Dalada Attukorala, a former MP of the United People's Power and former Justice Minister.
+
+Parliament convened on Wednesday (21) chaired by Speaker Mahinda Yapa Abeywardena. He said this while addressing a special statement before announcing his resignation.
+
+The main reason for the failure of the Tamil people to vote for the defeat of our candidate Ranil Wickremesinghe in the 2005 presidential election, the people of the North and East were subjected to voting.. Ranil Wickremesinghe would have been president. So they are sure that they will correct the mistake that day.
+
+Gotabhaya Rajapaksa and Sajith Premadasa voted for Sajith Premadasa when the Tamil people of the North and East contested the 2019 presidential election.
 
 ...
 
 [Data](articles/2dd227d0.json)
+
+[Extended Data](ext_articles/2dd227d0.ext.json)
 
 ---
 

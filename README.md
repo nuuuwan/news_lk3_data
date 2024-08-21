@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 02:07:38**
+As of **2024-08-22 02:22:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,985 (100.0%) of 41,987 articles have been extended.
+41,987 (100.0%) of 41,987 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Commenting on SJB MP Thalatha Athukorala’s sudden decision to step down from h
 
 [Data](articles/b833d9ef.json)
 
+[Extended Data](ext_articles/b833d9ef.ext.json)
+
 ---
 
 ### Vadivel Suresh and Ali Zahir Moulana get ministerial posts
@@ -63,6 +65,8 @@ Suresh has been appointed as the State Minister of Labour and Moulana as the Non
 ◼️
 
 [Data](articles/7f814b80.json)
+
+[Extended Data](ext_articles/7f814b80.ext.json)
 
 ---
 

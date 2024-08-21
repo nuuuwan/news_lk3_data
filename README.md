@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 17:57:46**
+As of **2024-08-21 18:15:31**
 
 ## Newspaper Stats
 
-*Scraped **41,913** Articles*
+*Scraped **41,914** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 387
-colombotelegraphcom | 401
+colombotelegraphcom | 402
 islandlk | 2,426
 economynextcom | 2,527
 dailyftlk | 2,701
@@ -26,43 +26,57 @@ adaderanasinhalalk | 7,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,910 (100.0%) of 41,913 articles have been extended.
+41,913 (100.0%) of 41,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### පනත් කෙටුම්පත් 02ක් සලකාබැලීමට කාරක සභා සාමාජික මන්ත්‍රීවරුන් නම් කරයි
+### Committee member MPs are named to consider two bills
 
 *2024-08-21 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200183) · `si`
 
-“පළාත් සභා ඡන්ද විමසීම් සංශෝධන පනත් කෙටුම්පත සහ පාර්ලිමේන්තු මැතිවරණ සංශෝධන පනත් කෙටුම්පත සලකාබැලීම සඳහා කාරක සභා සාමාජික මන්ත්‍රීවරුන් නම් කර තිබේ.
+Eight MPs have been appointed to review two bills: the Provincial Council Elections Bill and the Parliamentary Elections Amendment Bill, following parliamentary standing orders. The committee includes legal professionals like Dr. Susil Premajayantha, Prasanna Ranatunga, and others, tasked with amendments to both election laws.
 
-“පළාත් සභා ඡන්ද විමසීම් (සංශෝධන)” නමැති පනත් කෙටුම්පත සලකා බැලීම සඳහා පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 113(2) අනුව, ව්‍යවස්ථාදායක ස්ථාවර කාරක සභාවට පාර්ලිමේන්තු මන්ත්‍රීවරයන් 08 දෙනෙකු අතිරේක සාමාජික මන්ත්‍රීවරයන් වශයෙන් කථානායක මහින්ද යාපා අබේවර්ධන මහතා විසින් නම් කර තිබේ.
+🟩
 
-ඒ , නීතිඥ (ආචාර්ය) සුසිල් ප්‍රේමජයන්ත, ප්‍රසන්න රණතුංග, ජානක වක්කුඹුර, චාමර සම්පත් දසනායක, නීතිඥ චන්දිම වීරක්කොඩි, මනෝ ගනේෂන්, ඉරාන් වික්‍රමරත්න සහ ජගත් කුමාර සුමිත්‍රාආරච්චි යන පාර්ලිමේන්තු මන්ත්‍රීවරුන්ය.
+The Committee Member MPs have been named to address the Provincial Council Elections Bill and the Parliamentary Elections Amendment Bill.
 
-එමෙන්ම “පාර්ලිමේන්තු මැතිවරණ (සංශෝධන)” නමැති පනත් කෙටුම්පත සලකා බැලීම සඳහා පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 113(2) අනුව, ව්‍යවස්ථාදායක ස්ථාවර කාරක සභාවට ද  පාර්ලිමේන්තු මන්ත්‍රීවරුන් 08 දෙනෙකු අතිරේක සාමාජික මන්ත්‍රීවරයන් වශයෙන් කථානායක මහින්ද යාපා අබේවර්ධන මහතා විසින් නම් කර තිබේ.
+According to the Standing Orders of Parliament, "Provincial Council Elections (Amendment)" According to the Standing Orders of Parliament, eight parliamentarians have been named by the Legislative Standing Committee.
 
-...
+A lawyer (Dr.) Susil Premajayantha, Prasanna Ranatunga, Chamara Sampath Dasanayake, Attorneys Chandima Weerakkody, Mano Ganeshan, Iran Wickramaratne and Jagath Kumara Sumnestyrachchi.
+
+According to the Standing Orders of Parliament, "Parliamentary Elections (Amendment)" in the Standing Orders (Amendment) "has been named by the Legislative Standing Committee as Additional Member Midens as Additional Member Midens.
+
+Attorney at Law Pavithradeviarachchi, Kanchana Wijesara, Pipaina Bandara Tennakoon, King Bandara Tennakara, Anuradha Jayaratne, Attorney Chandima Weerakkody, Mano Ganeshan and Iran Wickramaratne.
+
+◼️
 
 [Data](articles/60d5e84b.json)
 
+[Extended Data](ext_articles/60d5e84b.ext.json)
+
 ---
 
-### சீனாவின் லியோனிங்கில் நிலச்சரிவு
+### Landslide in China's Leoning
 
 *2024-08-21 17:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவின்-லியோனிங்கில்-நிலச்சரிவு/50-342579) · `ta`
 
-சீனாவின் வடகிழக்கு மாகாணமான லியோனிங்கில் (Liaoning) உள்ள கிராமப்பகுதிகளில் பெய்த கடும் மழை காரணமாக அங்கு வெள்ளமும் நிலச்சரிவும் ஏற்பட்டுள்ளது.
+Heavy rains in China's Liaoning province triggered floods and landslides, stranding over 300 people and cutting off communication. Rescue efforts are underway, including helicopter missions, to aid the affected rural areas.
 
-இதில் 300க்கும் மேற்பட்டோர் சிக்கித் தவிக்கும் நிலையில், அங்கு தொடர்பாடல்களும் துண்டிக்கப்பட்டுள்ளதாக சீன ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+🟩
 
-இந்நிலையில், ஹெலிகொப்டர்கள் மூலம் மீட்புப் பணிகள் இடம்பெற்றுவரும் நிலையில், பாதிக்கப்பட்ட பகுதிகளுக்கு உதவிகள் வழங்க மாகாணம் முழுவதும் மீட்புப் படையினர் விரைந்துள்ளனர்.S
+Heavy rains have caused floods and landslides in the rural areas of Liaoning, the northeastern province of China.
+
+Chinese media reports that more than 300 people are trapped and communications have been cut off.
+
+Rescuers have rushed throughout the province to assist the affected areas, as helicopters are under rescue operations.
 
 ◼️
 
 [Data](articles/1f81cc2a.json)
+
+[Extended Data](ext_articles/1f81cc2a.ext.json)
 
 ---
 
@@ -94,17 +108,23 @@ The arrested suspects are scheduled to be produced before the Wattala Magistrate
 
 ---
 
-### அலி சாஹிர் மௌலானா அமைச்சராக நியமனம்
+### Ali Sahir Maulana appointed Minister
 
 *2024-08-21 17:04:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-சாஹிர்-மௌலானா-அமைச்சராக-நியமனம்/175-342576) · `ta`
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் (SLMC) தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினர் செய்ட் அலி சாஹிர் மௌலானா, இன்று முதல் அமுலுக்கு வரும் வகையில் அமைச்சரவை அல்லாத அபிவிருத்தித் திட்ட அமைச்சராக நியமிக்கப்பட்டுள்ளார்.
+Said Ali Zahir Maulana, a Sri Lanka Muslim Congress MP, is now the Minister of Non-Cabinet Development Projects. Meanwhile, Vadivel Suresh from the United People's Power party has been named the Minister of Labor.
 
-இதற்கிடையில், ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தொழிலாளர் இராஜாங்க அமைச்சராக நியமிக்கப்பட்டுள்ளார்.
+🟩
+
+Sri Lanka Muslim Congress (SLMC) National List Member of Parliament Said Ali Zahir Maulana has been appointed as the Minister of Non -Cabinet Development Project with implementation from today.
+
+Meanwhile, United People's Power (SJB) MP Vadivel Suresh has been appointed as the Minister of Labor.
 
 ◼️
 
 [Data](articles/34604ac6.json)
+
+[Extended Data](ext_articles/34604ac6.ext.json)
 
 ---
 
@@ -1109,6 +1129,20 @@ It is reported that Ahmed has been appointed to the post after the post of Nasam
 [Data](articles/183b1a8b.json)
 
 [Extended Data](ext_articles/183b1a8b.ext.json)
+
+---
+
+### The Students Protests 1975-76 At University Of Peradeniya That Ousted President Vithanage & Sirimavo’s Dictatorship
+
+*2024-08-21 12:16:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-students-protests-1975-76-at-university-of-peradeniya-that-ousted-president-vithanage-sirimavos-dictatorship/) · `en`
+
+Book review: The Students protests 1975-76 at University of Peradeniya that ousted President Vithanage and Sirimavo’s dictatorship
+
+The book launch ceremony of Dr Rajasinghe Bandara, ‘The Students protests 1975-76 at University of Peradeniya that ousted President Vithanage and Sirimavo’s dictatorship’ was held at Mahaweli Centre Auditorium, Colombo 7, at the beginning of this month. The former speaker, Mr Karu Jayasuriya was the chief guest. Mr. Mahinda Deshapriya, former Election Commissioner and the veteran diplomat and political scientist Dr Dayan Jayatilleka delivered the main speeches.  I was among the audience.
+
+...
+
+[Data](articles/90c2aff7.json)
 
 ---
 
@@ -2327,23 +2361,5 @@ Lecturer Dhamma Dissanayake says that the public should have confidence in the p
 [Data](articles/b4a964ee.json)
 
 [Extended Data](ext_articles/b4a964ee.ext.json)
-
----
-
-### Police Inspector and Constable arrested with 01 kg of heroin
-
-*2024-08-21 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101385/police-inspector-and-constable-arrested-with-01-kg-of-heroin) · `en`
-
-An Inspector of Police (IP) and a Constable have been arrested by the Colombo Crimes Division (CCD) at Piliyandala while in possession of over 01 kilogram of heroin, police said.
-
-The two arrested police officers are reportedly attached to the Moratuwa Special Task Force (STF) Camp.
-
-Police further said that the seized haul of heroin, weighing approximately 01 kg and 53 grams, is estimated to be worth over Rs. 10 million.
-
-◼️
-
-[Data](articles/611fa75e.json)
-
-[Extended Data](ext_articles/611fa75e.ext.json)
 
 ---

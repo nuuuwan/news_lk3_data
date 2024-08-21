@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 00:21:25**
+As of **2024-08-22 00:36:55**
 
 ## Newspaper Stats
 
-*Scraped **41,964** Articles*
+*Scraped **41,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 387
 colombotelegraphcom | 403
 islandlk | 2,426
 economynextcom | 2,536
-dailyftlk | 2,701
+dailyftlk | 2,710
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
@@ -26,11 +26,113 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,964 (100.0%) of 41,964 articles have been extended.
+41,964 (100.0%) of 41,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### Sri Lankan scientist appointed to prestigious UK Parliamentary advisory group
+
+*2024-08-21 23:58:23* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-scientist-appointed-to-prestigious-UK-Parliamentary-advisory-group/56-765824) · `en`
+
+The UK Parliament has announced the appointments of the prestigious Thematic Research Leads, a new Parliamentary role of the Economic and Social Research Council (ESRC) of UK.
+
+According to the evidence these prestigious and influential roles have made a positive impact. In 2024, Parliament partnered with UK Research and Innovation (UKRI) to expand Parliament’s network of Thematic Research Leads across a wider range of academic disciplines and policy areas. Dr Varuna De Silva, a Sri Lankan attached to the Loughborough Universityhas been appointed as the Thematic Lead for AI and Digital Sector.
+
+Quoted from: www.parliament.uk: “Based on the concept of Chief Scientific Advisers, Thematic Research Leads bring their impartial expertise, extensive policy knowledge and strong network of research connections to a variety of teams in and out of Parliament. They work for three days each week in Parliament, while continuing their role in their own academic institution.”
+
+...
+
+[Data](articles/6e4229ab.json)
+
+---
+
+### Fintech Forum, Sri Lanka debuts
+
+*2024-08-21 23:55:35* · [`dailyftlk`](https://www.ft.lk/business/Fintech-Forum-Sri-Lanka-debuts/34-765823) · `en`
+
+Seated (from left): Hatton National Bank Chief Operating Officer Sanjay Wijemanne, Paymaster Solutions Founder and CEO Ransika De Silva, LankaPay CEO Channa
+
+de Silva, LOLC Finance Chairman Conrad Dias, and Dialog Finance Director/CEO Nazeem Mohamed. Standing (from left): Pay Media Founder Kanishka Weeramunda,
+
+Bhasha Lanka Founder and CEO Dhanika Perera, Commercial Bank of Ceylon CIO Sumudu Gunawardhana, and Bank of Ceylon Products and Banking Department DGM
+
+Initiative to pave way for Sri Lanka to be a centre of excellence for Fintech
+
+In a strategic move to position Sri Lanka as a regional centre of excellence for financial technology (Fintech), a national body – Fintech Forum, Sri Lanka – was established recently and registered as an association.
+
+...
+
+[Data](articles/78a064e7.json)
+
+---
+
+### Reality television program ‘On Eagle’s Wings’ to transform Sri Lanka’s SME landscape
+
+*2024-08-21 23:53:26* · [`dailyftlk`](https://www.ft.lk/business/Reality-television-program-On-Eagle-s-Wings-to-transform-Sri-Lanka-s-SME-landscape/34-765822) · `en`
+
+With the support of the United States through the United States Agency for International Development (USAID), the Lanka Impact Investing Network (LIIN) has announced the ‘On Eagle’s Wings’ program.
+
+‘On Eagles Wings’ is a groundbreaking 32-episode reality television program designed to nurture entrepreneurship and drive inclusive economic growth in Sri Lanka.
+
+The launch event on 15 August brought together stakeholders, entrepreneurs, and investors to celebrate and support the next wave of Sri Lankan Small and Medium-sized Enterprises (SMEs). The program targets unlocking $ 3.5 million in capital, nurturing over 400 impact enterprises, and empowering 2,000 entrepreneurs. USAID’s Climate Adaptation Project and the USAID CATALYZE Sri Lanka Private Sector Development Activity supported the program development.
+
+...
+
+[Data](articles/5f1a7631.json)
+
+---
+
+### India leads world in ChatGPT usage ahead of US, UK
+
+*2024-08-21 23:51:05* · [`dailyftlk`](https://www.ft.lk/business/India-leads-world-in-ChatGPT-usage-ahead-of-US-UK/34-765821) · `en`
+
+Since its 2022 release, ChatGPT has attracted significant interest, with some people showing more enthusiasm than others. According to Stocklytics.com, India leads in ChatGPT usage, with 45% of the population using the chatbot.
+
+The site’s financial analyst, Edith Reads said: “India’s augmented use of ChatGPT can be credited to the high number of IT jobs in the country, with many of its workers relying on the chatbot to enhance their productivity and solve their questions.”
+
+Morocco has an impressive 38% adoption rate after India, and the UAE ranks third, with 34% using the chatbot. Argentina, Brazil, and Indonesia all trail the UAE with a 32% adoption rate. South Africa then follows with 31%. One similar trait across all these countries is that they have a larger population of younger people, hinting that the chatbot is more relevant and appealing to the younger tech-savvy generation.
+
+...
+
+[Data](articles/870656bc.json)
+
+---
+
+### EDB and SLASSCOM launch ‘SheExports’ program to empower women tech entrepreneurs
+
+*2024-08-21 23:48:39* · [`dailyftlk`](https://www.ft.lk/business/EDB-and-SLASSCOM-launch-SheExports-program-to-empower-women-tech-entrepreneurs/34-765820) · `en`
+
+The Sri Lanka Export Development Board (EDB), together with SLASSCOM launched the ‘SheExports’ capacity building program for women tech entrepreneurs on 9 August.
+
+This initiative, designed as a long-term capacity-building and mentoring program, marks a significant milestone in empowering women entrepreneurs in the ICT/BPO sector to take their ventures to the international stage.
+
+The inauguration, held at the EDB, was attended by distinguished personalities including EDB Chairman and CEO Dr. Kingsley Bernard, SLASSCOM Chairman Nishan Mendis and several SLASSCOM Board Directors.
+
+Shades IT Solutions Founder and CEO Shana Karan participated as the Guest Speaker and shared her inspiring success story with the participants. Her journey resonated deeply, offering valuable insights and motivation for the aspiring women entrepreneurs who were attending the program.
+
+...
+
+[Data](articles/7d8da98b.json)
+
+---
+
+### SL-Korea Business Council forum sheds insights to future scenarios and challenges
+
+*2024-08-21 23:32:59* · [`dailyftlk`](https://www.ft.lk/opinion/SL-Korea-Business-Council-forum-sheds-insights-to-futurescenarios-and-challenges/14-765814) · `en`
+
+The Sri Lanka-Korea Business Council last week hosted a top-level panel discussion under the theme ‘Sri Lanka’s future: forecast, scenarios and challenges’, which delved into pressing topics concerning the country.
+
+The panel was addressed by Advocata Institute Chairman Murtaza Jafferjee, Verite Research Executive Director Dr. Nishan de Mel, Senior Economist and former Central Bank Assistant Governor Dr. Anila Dias Bandaranaike, and Hatton National Bank Managing Director and CEO Jonathan Alles. The session was moderated by Advocata Institute CEO Dhananath Fernando.
+
+The discussion and insights shared included economic forecast, business impact, socio-economic vulnerabilities and necessary actions, challenges and consequences, current economic status and impact of policy deviations.
+
+...
+
+[Data](articles/b36a41ca.json)
+
+---
 
 ### Half a century in Ayub and Shakeel made Pakistan in good condition
 
@@ -63,6 +165,50 @@ Shoribul Islam took 2 wickets for 30 runs while Hasan Mahmood took 2 wickets for
 [Data](articles/602576ed.json)
 
 [Extended Data](ext_articles/602576ed.ext.json)
+
+---
+
+### Anura, Ranil, Sajith: Classism versus elitism
+
+*2024-08-21 22:48:00* · [`dailyftlk`](https://www.ft.lk/columns/Anura-Ranil-Sajith-Classism-versus-elitism/4-765812) · `en`
+
+The much anticipated Presidential election next month has created seismic activity in and out of the political arena. While the candidates are focused on winning, those in the periphery, the cohorts and the plutocrats are in a dilemma. The biggest joke is that for most of the sitting Members of Parliament and other politicians it does not matter whether Ranil wins or Sajith wins. Among their selfish and opportunistic agendas, the formidable challenge is to make sure that Anura does not come to power.
+
+...
+
+[Data](articles/a0bd8ac7.json)
+
+---
+
+### Political remnants and success for NPP
+
+*2024-08-21 22:35:37* · [`dailyftlk`](https://www.ft.lk/columns/Political-remnants-and-success-for-NPP/4-765810) · `en`
+
+Under the NPP government after 21 September 2024, law and order will undoubtedly be relevant and applicable to all, from the president of Sri Lanka to the ordinary people or grassroots. In other words, if the law is violated, due punishment by the law will be ruled. The above will be a massive change in the right direction so people can sense and feel it is becoming part and parcel of life
+
+The country’s people are currently grappling with severe economic problems or challenges, including the escalating cost of living and the repercussions of IMF programs aimed at economic recovery. However, the NPP is committed to addressing these issues, offering hope and optimism for a better future. Indeed, the escalating cost of living is the foremost burning issue for all low- and middle-income households. Given the above, the country witnessed an array of strikes by trade unions, and the Government addressed and resolved the workers’ concerns using tear gas and water cannons
+
+...
+
+[Data](articles/fec6aba6.json)
+
+---
+
+### Election outcomes, best teams: Strategic advantages of political alliances
+
+*2024-08-21 22:22:19* · [`dailyftlk`](https://www.ft.lk/columns/Election-outcomes-best-teams-Strategic-advantages-of-political-alliances/4-765809) · `en`
+
+There were three surprises in Sri Lankan politics in the last week.
+
+The unprecedentedly massive turnout for Sajith Premadasa in Kurunegala, August 16th which was evidence of a quantum leap after his formation of a broad Alliance on August 8th.
+
+The entry into the Alliance campaigning for a Sajith presidency, of Champika Ranawaka, foremost ideologue and figure of the BJP-type Right, together with his compact but proficient group of followers (Karunatne Paranavithana being especially noteworthy).
+
+The rock-star emergence of Namal Rajapaksa, starting outside the Election Commission on August 15th. The SLPP-SLFP ‘barons’ who defected en masse to Ranil, re-formed the UPFA, and entering through a virtual doorway paraded as on a catwalk at a ‘Sri Lanka Can’ signing on August 16th, should be afraid, very afraid. The renegades have no one who generates that type of enthusiasm among their voters. Namal’s vote fractures Ranil’s SLPP-SLFP political prop.
+
+...
+
+[Data](articles/affc5429.json)
 
 ---
 
@@ -2235,191 +2381,5 @@ Earlier, CEB is Rs.. Registered 84.67 billion. In the first half of 2024, CEB re
 [Data](articles/348256b4.json)
 
 [Extended Data](ext_articles/348256b4.ext.json)
-
----
-
-### Two dictatorship in polys arrested
-
-*2024-08-21 12:30:42* · [`adalk`](https://www.ada.lk/breaking_news/කෝටියක-මත්කුඩු-පොලිසිියේ-දෙදෙනෙක්-අල්ලයි/11-411485) · `si`
-
-In Piliyandala, a police inspector and constable were arrested along with two intelligence officers from the Moratuwa Special Task Force for possessing 53 kg of drugs. They were caught in a vehicle used for drug trafficking. Further investigations are ongoing.
-
-🟩
-
-A police inspector and a constable has been arrested by the Colombo Crimes Division, a police inspector and a constable has been arrested in Piliyandala.
-
-Two intelligence officers of the Moratuwa Special Task Force have been arrested.
-
-The two suspects have been taken into custody by 53 kilograms of drugs, a couple, and a luugoli van.
-
-According to a special unit of the Colombo Crimes Division, the special unit of the Colombo Crimes Division has been assigned to the Colombo Crimes Division for special operations launched.Hori has been taken into police custody by the drug, swallland and electricity.
-
-The police said that the driver of the police was identified as a police inspector at Moratuwa.
-
-So 35;A 32-year-old Inspector who assist the racket and the 32-year-old constable has been arrested in connection with the possession of drugs.
-
-The two suspects are to be produced in court. The Criminal Division is conducting further investigations.
-
-◼️
-
-[Data](articles/03a315b3.json)
-
-[Extended Data](ext_articles/03a315b3.ext.json)
-
----
-
-### Former Leader Farooq Bangladeshi Chairman
-
-*2024-08-21 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200171) · `si`
-
-Farooq, ex-ODI cricket leader, named Chairman of Bangladesh Cricket Governing Board, succeeding Nasamul Hassan, in a board meeting today.
-
-🟩
-
-Farooch, a former leader of the country's ODI cricket, has been appointed as the Chairman of the Bangladesh Governing Board.
-
-The appointment was made at the meeting held today (21) at the Cricket Board.
-
-It is reported that Ahmed has been appointed to the post after the post of Nasamul Hassan.
-
-◼️
-
-[Data](articles/183b1a8b.json)
-
-[Extended Data](ext_articles/183b1a8b.ext.json)
-
----
-
-### The Students Protests 1975-76 At University Of Peradeniya That Ousted President Vithanage & Sirimavo’s Dictatorship
-
-*2024-08-21 12:16:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-students-protests-1975-76-at-university-of-peradeniya-that-ousted-president-vithanage-sirimavos-dictatorship/) · `en`
-
-Book review: The Students protests 1975-76 at University of Peradeniya that ousted President Vithanage and Sirimavo’s dictatorship
-
-The book launch ceremony of Dr Rajasinghe Bandara, ‘The Students protests 1975-76 at University of Peradeniya that ousted President Vithanage and Sirimavo’s dictatorship’ was held at Mahaweli Centre Auditorium, Colombo 7, at the beginning of this month. The former speaker, Mr Karu Jayasuriya was the chief guest. Mr. Mahinda Deshapriya, former Election Commissioner and the veteran diplomat and political scientist Dr Dayan Jayatilleka delivered the main speeches.  I was among the audience.
-
-...
-
-[Data](articles/90c2aff7.json)
-
-[Extended Data](ext_articles/90c2aff7.ext.json)
-
----
-
-### Sajith Premadasa supports Karunadasa flag
-
-*2024-08-21 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191602) · `ta`
-
-Sajith Premadasa received support from the Sri Lanka People's Alliance (PA) for his presidential bid. A parliamentarian from the PA resigned from their position to back him, as announced in Parliament on Wednesday (21).
-
-🟩
-
-Sri Lanka PA has announced to the House that the parliamentarian of the Sri Lanka PA has supported Sajith Premadasa in the presidential election.
-
-On Wednesday (21), he announced his resignation of his parliamentary position by leaving a special announcement in Parliament.
-
-◼️
-
-[Data](articles/a0ec9d52.json)
-
-[Extended Data](ext_articles/a0ec9d52.ext.json)
-
----
-
-### MP flowed to the flag
-
-*2024-08-21 12:02:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொடித்துவக்கு-எம்-பி-பாய்ந்தார்/175-342560) · `ta`
-
-A Matara district PA member decided to join the opposition in Parliament, supporting Sajith Premadasa in the presidential election based on public consensus.
-
-🟩
-
-Matara district member of the PA has said that he will sit in the opposition in Parliament.
-
-The decision was taken on the consensus of the people of Matara, saying that the decision was taken, and that he would support Sajith Premadasa in the presidential election.
-
-◼️
-
-[Data](articles/455a8111.json)
-
-[Extended Data](ext_articles/455a8111.ext.json)
-
----
-
-### Sri Lanka alcohol makers default on taxes of Rs7.9bn
-
-*2024-08-21 11:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-alcohol-makers-default-on-taxes-of-rs7-9bn-177532/) · `en`
-
-ECONOMYNEXT – Several alcohol makers have defaulted on taxes worth 7.9 billion rupees, Champika Ranawaka, a legislator who heads the Committee on Ways and Means of the parliament said.
-
-W M Mendis and Company owed 3.447 billion rupees, Wayamba Distilleries 560 million rupees, Wayamba Spirits 281 million rupees, Globe Blenders 1.148 million rupees, McCallum Brewery 619 million rupees, and Kalutara Cooperative Distilleries 17 million rupees in unpaid arrears, he told parliament Wednesday.
-
-According to the committee’s report, several of these companies had volunteered to pay default taxes and negotiations are in progress. (Colombo/Aug21/2024)
-
-◼️
-
-[Data](articles/a6431450.json)
-
-[Extended Data](ext_articles/a6431450.ext.json)
-
----
-
-### The ruling party member came to the opposition through the church and helps Sajith supports the opposition
-
-*2024-08-21 11:45:27* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩු-පක්ෂයේ-මන්ත්‍රීවරයෙක්-සභා-ගර්භය-මැදින්-විපක්ෂයට-පැමිණ-සජිත්ට-සහය-පළ-කරයි/11-411484) · `si`
-
-Sri Lanka's Opposition Leader Sajith Premadasa, supported by a ruling party member who joined through the church, publicly backs the opposition in the upcoming presidential election.
-
-🟩
-
-The General Assembly of Sri Lanka MP Koditakku made a special statement in Parliament today (21), said the Opposition Leader Sajith Premadasa supported the front presidential election today.
-
-The Opposition Leader Sajith Premadasa greeted the opposition from the Chamber of Government Meeting.
-
-◼️
-
-[Data](articles/6ce0d932.json)
-
-[Extended Data](ext_articles/6ce0d932.ext.json)
-
----
-
-### MP Karunadasa Kodithuwakku crosses over to opposition
-
-*2024-08-21 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101394/mp-karunadasa-kodithuwakku-crosses-over-to-opposition) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Matara District MP Karunadasa Kodithuwakku has decided to crossover to the opposition in the Parliament.
-
-Delivering a special statement in Parliament today (21) to announce the decision, the MP declared that he will be supporting Opposition Leader Sajith Premadasa in the upcoming presidential election, for the benefit of the country’s future and the economy.
-
-After concluding his speech, Kodithuwakku took his seat among the opposition MPs in the Parliament.
-
-Kodithuwakku had entered parliament after securing 114,319 votes in the 2020 general election from the Matara District, under the SLPP ticket.
-
-◼️
-
-[Data](articles/30eae7b0.json)
-
-[Extended Data](ext_articles/30eae7b0.ext.json)
-
----
-
-### Kodithaki goes to Opposition
-
-*2024-08-21 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200170) · `si`
-
-Kodithaki joins opposition against Matara District MP Kodithakku in Sri Lanka's General Front, as announced in a parliamentary statement.
-
-🟩
-
-He has decided to join the opposition to the opposition of Matara District Parliamentarian Kodithakku on the Sri Lanka General Front.
-
-He was speaking at a special statement in parliament.
-
-◼️
-
-[Data](articles/4ee6d9f0.json)
-
-[Extended Data](ext_articles/4ee6d9f0.ext.json)
 
 ---

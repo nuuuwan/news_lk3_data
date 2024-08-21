@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 12:10:11**
+As of **2024-08-21 12:21:13**
 
 ## Newspaper Stats
 
-*Scraped **41,845** Articles*
+*Scraped **41,849** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
-bbccomsinhala | 385
+bbccomsinhala | 386
 colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,527
 dailyftlk | 2,701
-adalk | 3,850
+adalk | 3,853
 dailymirrorlk | 4,733
 adaderanalk | 4,899
 tamilmirrorlk | 5,416
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,843 (100.0%) of 41,845 articles have been extended.
+41,845 (100.0%) of 41,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### ආණ්ඩු පක්ෂයේ මන්ත්‍රීවරයෙක් සභා ගර්භය මැදින් විපක්ෂයට පැමිණ සජිත්ට සහය පළ කරයි
+
+*2024-08-21 11:45:27* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩු-පක්ෂයේ-මන්ත්‍රීවරයෙක්-සභා-ගර්භය-මැදින්-විපක්ෂයට-පැමිණ-සජිත්ට-සහය-පළ-කරයි/11-411484) · `si`
+
+ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී කරුණාදාස කොඩිතුවක්කු මහතා අද(21දා) පාර්ලිමේන්තුවේ විශේෂ ප්‍රකාශයක් කරමින් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට ඉදිරි ජනාධිපතිවරණයේදී සහය පළ කරන බව පැවසීය.
+
+අනතුරුව ආණ්ඩු පක්ෂයේ ආණ්ඩු පක්ෂයේ සිට සභා ගර්භය මැදින් විපක්ෂයට පැමිණ ඒ මහතා විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා ආචාර කරමින් විපක්ෂයට එක් විය.
+
+◼️
+
+[Data](articles/6ce0d932.json)
+
+---
 
 ### MP Karunadasa Kodithuwakku crosses over to opposition
 
@@ -47,6 +61,8 @@ Kodithuwakku had entered parliament after securing 114,319 votes in the 2020 gen
 ◼️
 
 [Data](articles/30eae7b0.json)
+
+[Extended Data](ext_articles/30eae7b0.ext.json)
 
 ---
 
@@ -67,6 +83,18 @@ He was speaking at a special statement in parliament.
 [Data](articles/4ee6d9f0.json)
 
 [Extended Data](ext_articles/4ee6d9f0.ext.json)
+
+---
+
+### තලතා මන්ත්‍රී ධුරය අතහරී
+
+*2024-08-21 11:27:06* · [`adalk`](https://www.ada.lk/breaking_news/තලතා-මන්ත්‍රී-ධුරය-අතහරී/11-411483) · `si`
+
+සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තලතා අතුකෝරල මහත්මිය මීට සුළු මොහොතකට පෙර පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදු කරමින් සිය පාර්ලිමේන්තු මන්ත්‍රී ධුරයෙන් ඉවත් වන බව ප්‍රකාශ කළාය.
+
+◼️
+
+[Data](articles/b4f10b27.json)
 
 ---
 
@@ -724,6 +752,28 @@ The Railway Department has said that the railway services of the route have been
 
 ---
 
+### මාතලේ ගොවිහු රැසක් වී වෙනුවට බඩඉරිගු වවයි
+
+*2024-08-21 08:29:29* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-ගොවිහු-රැසක්-වී-වෙනුවට-බඩඉරිගු-වවයි/11-411476) · `si`
+
+මාතලේ දිස්‍ත්‍රික්කයේ වී වගාව වෙනුවට ප්‍රදේශ රැසක අතුරු බෝග රැසක් වගාකර ඇතැයි ගොවි සංවිධාන කියයි.
+
+වැසි තත්ත්වයේ වෙනස්වීම් සහ කෙටිකාලින භෝග වලින් වැඩි අස්වැන්නක් අපේක්ෂාවෙන් ගොවිහු අතුරු භෝග වගාකර තිබේ.
+
+එළවළු වලට අමතරව මාතලේ දිස්ත්‍රික්කයේ ප්‍රදේශ රැසක බඩඉරිගු වගා කර ඇති අතර ගොවින් පවසන්නේ සිය වගා මේ වන විට හොද තත්ත්වයේ පවතින බවයි.
+
+මේ වන විට පලදාව අපෙක්ෂාවෙන් පවතින හා ඒ ආසන්නයට පැමිණි බඩඉරිගු වගාවන් රැසක් ප්‍රාදේශිය ලේකම් කොට්ඨාශ රැසක දක්නට ලැබෙයි.
+
+වී වගාවට අමතරව සිදුකර ඇති වගා අතර නාඋල,පල්ලේපොල,ලග්ගල හා විල්ගමුව ආදී ප්‍රදේශ වල බඩඉරිගු වගා දැක ගත හැකිය.
+
+ඡායාරූපයෙන් දැක්වෙන්නේ නාඋල - අරන්ගල වෙල්යායේ බඩඉරිගු වගාකර ඇති අයුරුයි.
+
+◼️
+
+[Data](articles/d8e25100.json)
+
+---
+
 ### Two police stabbed with a kilo of heroin
 
 *2024-08-21 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200162) · `si`
@@ -864,6 +914,8 @@ It also makes other changes like limiting the scope to offences committed by any
 
 [Data](articles/fc723e92.json)
 
+[Extended Data](ext_articles/fc723e92.ext.json)
+
 ---
 
 ### Decision in Colombo, Galle, Kandy and Trincomalee
@@ -933,6 +985,30 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/62962e77.json)
 
 [Extended Data](ext_articles/62962e77.ext.json)
+
+---
+
+### වතු කම්කරු වැටුප ඉහළ දැමූ ගැසට් නිවේදනය යථාර්ථයක් වෙයි ද?
+
+*2024-08-21 05:32:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c33n7746nrgo) · `si`
+
+ආර්ථික අර්බුදය හේතුවෙන් ජීවන වියදම ඉහළ යාමත් සමග ඊට සරිලන අයුරින් සිය වැටුප් ඉහළ දමන ලෙස ඉල්ලා වතු කම්කරු ජනතාව අරගලයක නිරත වී සිටිති.
+
+අවස්ථා කිහිපයකදී වතු කම්කරුවන්ගේ වැටුප් සම්බන්ධයෙන් රජය මගින් ගැසට් නිවේදන නිකුත් කෙරුණු අතර විවිධ අවස්ථාවලදී එම ගැසට් නිවේදන රජය විසින් නැවත හකුළා ගනු ලැබීය.
+
+එවන් පසුබිමක වතු කම්කරුවන්ගේ වැටුප් වැඩි කිරීමට අදාළ නව ගැසට් නිවේදනයක් ඉකුත් අගෝස්තු මස 13 වන දා නිකුත් කෙරිණි.
+
+එලෙස නිකුත් කළ ගැසට් නිවේදනය අනුව වතු කම්කරුවන්ගේ වැටුප් ගැටලුවට විසඳුමක් හිමි වේ ද යන්න සම්බන්ධයෙන් බොහෝ දෙනා දෑස් යොමා සිටියි.
+
+වතු කම්කරු ප්‍රජාව යනු බ්‍රිතාන්‍ය යටත් විජිත සමයේ කෝපි වගාව සඳහා මෙරටට ගෙන එන ලද ඉන්දියානු කම්කරුවන් ය.
+
+19 වන ශත වර්ෂයේදී මන්නාරම දක්වා මුහුදු මාර්ගයෙන් ද, ඉන්පසුව මධ්‍යම කඳුකරයේ ඇති වතු දක්වා දුෂ්කර පාගමනකින් මෙම වතු කම්කරුවන් රැගෙන විත් තිබේ.
+
+වතු කම්කරුවන් ශ්‍රී ලංකාවේ සේවයට පැමිණ වසර 200ක් සම්පූර්ණ වීම හේතුවෙන් 2023 වසරේදී දීර්ඝ පාගමනක් ද පවත්වන ලදී.
+
+...
+
+[Data](articles/e14b27d4.json)
 
 ---
 
@@ -2109,97 +2185,5 @@ He was speaking at a reprogramity in Galgamuwa yesterday (20), he added.
 [Data](articles/b5d96eba.json)
 
 [Extended Data](ext_articles/b5d96eba.ext.json)
-
----
-
-### The President who retired from politics came to Parliament
-
-*2024-08-20 19:16:46* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලනයෙන්-විශ්‍රාම-ගෙන-සිටි-ජනපතිට-ආයේ-පාර්ලමේන්තු-එන්න-කීවේ-නවින්/11-411472) · `si`
-
-Navaragamuwa Governor Dissanayake, backed by President Ranil Wickremesinghe, was proposed to lead the UNP parliamentary list. Wickremesinghe emphasized unity and economic recovery, referencing a historical moment similar to 1956. The move aims to revitalize the UNP under Wickremesinghe's leadership, with support from various MPs including State Minister Ranjith Siyambalapitiya and others in the Kegalle District.
-
-🟩
-
-Presidential Chief of Staff Sabaragamuwa Governor Navaragan Dissanayake, the Presidential staff, Navaragamuwa Governor, was first proposed to take over the UNP national listing of the UNP to parliament.
-
-He said that Ranil Wickremesinghe was backing the President's committee, "collectively participating in the joint guest at the 'Joint Meeting' in Sri Lanka.
-
-President Ranil Wickremesinghe once again, President Ranil Wickremesinghe has again commented on the country's color resolution to eradicate poverty in the recent period of time in the recent period.Everyone is united for the first time in 1956 after 1956, everyone has united.
-
-The country was restored by the country as a result of the country's economically degenerated by the country two years ago, the country was restored by the President of the UNP.Mr. Wickremesinghe.
-
-He was not assumed that he had not to accept the UNP that the UNP should be assumed by the UNP.
-
-...
-
-[Data](articles/02b1f7d7.json)
-
-[Extended Data](ext_articles/02b1f7d7.ext.json)
-
----
-
-### Presidential election related complaints
-
-*2024-08-20 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200146) · `si`
-
-Complaints about the presidential election have risen, with 666 received since July 31, including 642 for election law violations. Three complaints went to national centers, while others were distributed across district centers.
-
-🟩
-
-The number of complaints received regarding the presidential election has further increased.
-
-The Elections Commission states that all the complaints have been received last (19).
-
-Three of the complaints were received at the National Elections Complaint Center and the District Elections Complaints Center for 32 other complaints.
-
-Meanwhile, the Elections Commission stated that the total number of complaints received from 31st July was 666.
-
-It is said that 642 complaints were regarding violating election laws.
-
-◼️
-
-[Data](articles/dda08abe.json)
-
-[Extended Data](ext_articles/dda08abe.ext.json)
-
----
-
-### Ranil is not Ranil: India rescued
-
-*2024-08-20 18:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்பர்-ரணில்-அல்லர்-இந்தியாவே-மீட்டது/175-342524) · `ta`
-
-India extended a $400 million credit line to Sri Lanka, aiding in resolving shortages of petrol, food, gas, pharmaceuticals, electricity, and fertilizers. This decision was made before Ranil Wickremesinghe took office as Prime Minister and President in July 2022. Despite claims by Ranil that he played a significant role in securing this aid, it was already in progress. The assistance has significantly alleviated Sri Lanka's critical shortages, including agricultural fertilizers obtained through the Indian Loan Fund.
-
-🟩
-
-The Indian government has provided financial assistance to the US $ 400 billion in the Sri Lankan rupee, our country has been saved from petrol, food, gas, pharmaceuticals, electricity and fertilizers.. Ranil Wickremesinghe is talking about this fact.
-
-In December 2021, the Government of India decided to provide financial assistance to Sri Lanka's Indian Credit Line. These are deciding before Ranil came to power. Subsequently, Ranil assumed positions as Prime Minister and President in July 2022. Ranil came to office and used these. Ranil did not bring these things with self -effort.These assistance is a great assistance provided by the Government of India, the Sri Lankan people and the Sri Lankan country.
-
-...
-
-[Data](articles/2a6e7536.json)
-
-[Extended Data](ext_articles/2a6e7536.ext.json)
-
----
-
-### India is the rescue of Sri Lanka - Ranil Wickremesinghe is not
-
-*2024-08-20 18:58:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-மீட்டது-இந்தியா-தான்-ரணில்-விக்ரமசிங்க-அல்ல/175-342524) · `ta`
-
-India's financial aid of $400 million to Sri Lanka has alleviated shortages in fuel, food, medicines, electricity, and fertilizers, significantly aiding the country's recovery. This support, initiated before Ranil Wickremesinghe's tenure, continued under his leadership, contributing to stabilizing the nation's critical resources. Despite Ranil's claims of credit for these efforts, the assistance was a collective effort involving both governments and the people of Sri Lanka, highlighting the broader impact beyond individual leadership.
-
-🟩
-
-The Indian government has provided financial assistance to the US $ 400 billion in the Sri Lankan rupee, our country has been saved from petrol, food, gas, pharmaceuticals, electricity and fertilizers.. Ranil Wickremesinghe is talking about this fact.
-
-In December 2021, the Government of India decided to provide financial assistance to Sri Lanka's Indian Credit Line. These are deciding before Ranil came to power. Subsequently, Ranil assumed positions as Prime Minister and President in July 2022. Ranil came to office and used these. Ranil did not bring these things with self -effort.These assistance is a great assistance provided by the Government of India, the Sri Lankan people and the Sri Lankan country.
-
-...
-
-[Data](articles/30652d63.json)
-
-[Extended Data](ext_articles/30652d63.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 16:53:01**
+As of **2024-08-21 17:06:21**
 
 ## Newspaper Stats
 
-*Scraped **41,902** Articles*
+*Scraped **41,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,527
 dailyftlk | 2,701
 adalk | 3,860
 dailymirrorlk | 4,733
-adaderanalk | 4,904
-tamilmirrorlk | 5,426
+adaderanalk | 4,905
+tamilmirrorlk | 5,427
 virakesarilk | 6,666
 adaderanasinhalalk | 7,155
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,155
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,899 (100.0%) of 41,902 articles have been extended.
+41,902 (100.0%) of 41,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### Vadivel Suresh and Ali Zahir Moulana given ministerial posts
+
+*2024-08-21 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101399/vadivel-suresh-and-ali-zahir-moulana-given-ministerial-posts) · `en`
+
+Badulla District MP Vadivel Suresh has been appointed as the State Minister of Labour.
+
+Meanwhile, MP Ali Zahir Moulana has been appointed as the Non Cabinet Minister of Development Projects.
+
+They were sworn in before President Ranil Wickremesinghe today (21).
+
+Vadivel Suresh had been elected to the parliament in the 2020 general election from the Samagi Jana Balawegaya (SJB) representing the Badulla District.
+
+However, he was removed from his position as the SJB’s Passara Organiser in November last year in the wake of the parliamentarian voting in favour of the 2024 Budget during the second reading.
+
+On December 6, 2023, Suresh was appointed as Advisor to President Ranil Wickremesinghe on the full integration of up-country Tamils into Sri Lankan society.
+
+Meanwhile, Ali Zahir Moulana of the Sri Lanka Muslim Congress (SLMC) had been sworn in as a Member of Parliament on October 17, to fill the seat left vacant following the removal of former minister Naseer Ahamed.
+
+...
+
+[Data](articles/7ba80d75.json)
+
+---
 
 ### Vadivel Suresh appointed State Minister of Labour
 
@@ -625,6 +649,24 @@ A total of 1,417 people have died in 1,352 road accidents that took place till A
 [Data](articles/568c1f56.json)
 
 [Extended Data](ext_articles/568c1f56.ext.json)
+
+---
+
+### பாக். யாத்ரீகர்கள் 28 பேர் பலி
+
+*2024-08-21 12:59:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-யாத்ரீகர்கள்-28-பேர்-பலி/50-342564) · `ta`
+
+ஈரானில் பஸ் கவிழ்ந்து விபத்துக்குள்ளானதில், பாகிஸ்தான் யாத்ரீகர்கள் 28 பேர் பரிதாபமாக உயிரிழந்த நிலையில், 18 பேர் பலத்த காயமடைந்தனர்.
+
+பாகிஸ்தானில் இருந்து ஈராக்கிற்கு, 50க்கும் மேற்பட்ட யாத்ரீகர்கள் பஸ்சில் சென்று கொண்டிருந்த நிலையில், மத்திய ஈரானின் யாஸ்த் மாகாணத்தில், சாரதியின் கட்டுப்பாட்டை இழந்து பஸ் விபத்துக்குள்ளானது.
+
+இதில், 28 யாத்ரீகர்கள் சம்பவ இடத்திலேயே உயிரிழந்தனர். இவர்கள் பாகிஸ்தானின் சிந்து மாகாணம் லர்கானா நகரைச் சேர்ந்தவர்கள். 18 பேர் பலத்த காயமுற்ற நிலையில், சிகிச்சைக்காக மருத்துவமனையில் அனுமதிக்கப்பட்டனர்.
+
+இந்நிலையில், பாகிஸ்தான் துணை பிரதமரும், வெளியுறவு துறை அமைச்சருமான இஷாக் தார் சமூகவலைதளத்தில் வெளியிட்டுள்ள பதிவில், 'உயிரிழந்தவர்களின் குடும்பங்களுக்கு இரங்கல் தெரிவித்து கொள்கிறேன். காயமடைந்த யாத்ரீகர்களுக்கு சிகிச்சை அளிக்க அனைத்து உதவிகளும் செய்யப்படும். டெஹ்ரானில் உள்ள நமது தூதருக்கு இறந்தவர்களின் உடலை, பாகிஸ்தானுக்கு திருப்பி அனுப்ப ஏற்பாடு செய்ய நான் அறிவுறுத்தி உள்ளேன்” என குறிப்பிட்டுள்ளார்.S
+
+◼️
+
+[Data](articles/2edfc7d2.json)
 
 ---
 
@@ -2305,53 +2347,5 @@ Opposition Leader Sajith Premadasa said that I am invited to join the task of wi
 [Data](articles/12020481.json)
 
 [Extended Data](ext_articles/12020481.ext.json)
-
----
-
-### Memorandum of Understanding (Memorandum
-
-*2024-08-21 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191578) · `ta`
-
-A Memorandum of Understanding was signed on April 20th between Sri Lanka's ERLL Holdings and India's Petronet LNG to enhance the infrastructure for liquid natural gas (LNG) storage and distribution to the Karavalapitiya "Sobadhanavi" Integrated Co-generation Power Plant. This initiative aims to ensure a continuous and affordable electricity supply in Sri Lanka, reduce greenhouse gas emissions, and support the country's environmental goals. The project involves importing LNG to the Colombo Port and transporting it via ISO containers to the Karavalapitiya storage terminal. The first phase of the Sobadhanavi plant is scheduled to commence operations in August 2024, with the second phase starting in 2025.
-
-🟩
-
-The Memorandum of Understanding (Memorandum of Understanding) on ​​Tuesday (20) at the Colombo Hotel on Tuesday (20) afternoons to improve the infrastructure for liquid natural gas storage to the Karavalapitiya "Sobadhanavi" Integrated Cotational Power Plant and the LNG gas exchange and distribution of Sri Lanka LDL Holdings Company and Petronet LNG Company on Tuesday (20)Held.
-
-Nuhuman Marikar, Chief Executive Officer of Sri Lanka's ERLL Holdings and Akshay Kumar Singh, Chief Executive Officer and Managing Director of India's Petronet LNI, signed the agreement.
-
-Addressing the gathering, Minister of Power and Energy Kanjana Wijesekera said that the scheme is being implemented at the aim of ensuring continuous and quality electricity supply to Sri Lankan consumers and supplying electricity at low cost.
-
-...
-
-[Data](articles/2144a29b.json)
-
-[Extended Data](ext_articles/2144a29b.ext.json)
-
----
-
-### President's Election Ranil Wickremesinghe's Politics
-
-*2024-08-21 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191576) · `ta`
-
-Ranil Wickremesinghe faces criticism ahead of Sri Lanka's presidential election, with questions about his ability to lead both the United National Party (UNP) and the nation. Critics like Vijayadasa Rajapakse doubt his effectiveness in protecting the party and question his suitability for national leadership. Despite internal challenges and allegations of party disarray, Wickremesinghe remains a significant figure in Sri Lankan politics, known for his controversial decisions and alliances.
-
-🟩
-
-Ranil Wickremesinghe's political journey is the end of the upcoming presidential election. "We are not able to protect the party and ask how he is going to protect the country," said Vijayadasa Rajapakse, presidential candidate of the National Democratic Front.
-
-He was speaking at a press conference held at his election office in Colombo on Tuesday (20).
-
-D, S, to Ranil Vikramasika for the removal of the elephant from the UNP headquarters. I think Sekanayake will curse anywhere.
-
-In 2018, I said that under the 30 -year leadership of Ranil Wickremesinghe, the United National Party (UNP), with 106 MPs, will disappear with the 2020 general election.. He is unable to protect the party under his leadership.
-
-Ranil Wickremesinghe, who is unable to protect the party, is going to protect the country?Ranil Wickremesinghe has no party today to contest the election. It is alleged that a different group of election symbol, the gas cylinder, is contesting.
-
-...
-
-[Data](articles/853bdb55.json)
-
-[Extended Data](ext_articles/853bdb55.ext.json)
 
 ---

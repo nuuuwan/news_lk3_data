@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 00:36:55**
+As of **2024-08-22 00:54:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,964 (100.0%) of 41,973 articles have been extended.
+41,968 (100.0%) of 41,973 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Quoted from: www.parliament.uk: “Based on the concept of Chief Scientific Advi
 ...
 
 [Data](articles/6e4229ab.json)
+
+[Extended Data](ext_articles/6e4229ab.ext.json)
 
 ---
 
@@ -66,6 +68,8 @@ In a strategic move to position Sri Lanka as a regional centre of excellence for
 
 [Data](articles/78a064e7.json)
 
+[Extended Data](ext_articles/78a064e7.ext.json)
+
 ---
 
 ### Reality television program ‘On Eagle’s Wings’ to transform Sri Lanka’s SME landscape
@@ -82,6 +86,8 @@ The launch event on 15 August brought together stakeholders, entrepreneurs, and 
 
 [Data](articles/5f1a7631.json)
 
+[Extended Data](ext_articles/5f1a7631.ext.json)
+
 ---
 
 ### India leads world in ChatGPT usage ahead of US, UK
@@ -97,6 +103,8 @@ Morocco has an impressive 38% adoption rate after India, and the UAE ranks third
 ...
 
 [Data](articles/870656bc.json)
+
+[Extended Data](ext_articles/870656bc.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 16:08:39**
+As of **2024-08-21 16:21:30**
 
 ## Newspaper Stats
 
-*Scraped **41,888** Articles*
+*Scraped **41,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,903
 tamilmirrorlk | 5,425
 virakesarilk | 6,661
-adaderanasinhalalk | 7,154
+adaderanasinhalalk | 7,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,888 (100.0%) of 41,888 articles have been extended.
+41,888 (100.0%) of 41,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### ජනපති අපේක්ෂක විවාදයට 39 දෙනාටම ඇරයුම්
+
+*2024-08-21 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200179) · `si`
+
+2024 ජනාධිපතිවරණ අපේක්ෂක විවාදය සැලසුම් කර ඇති පරිදි සැප්තැම්බර් මස 7 වන දින ඒ ආකාරයෙන්ම පැවැත්වීමට කටයුතු කරන බව මාර්තු 12 ව්‍යාපාරය පවසයි.
+
+ඒ සඳහා අනෙකුත් අපේක්ෂකයන්ද දක්වන උනන්දුව සැලකිල්ලට ගනිමින් මෙම විවාදය අදියර කිහිපයක් යටතේ ක්‍රියාත්මක කිරීමට ද මාර්තු 12 ව්‍යාපාරය තීන්දු කර ඇත.
+
+මාර්තු 12 ව්‍යාපාරයේ මෙහෙයුම් කමිටුව අපේක්ෂකයින් 39 දෙනාටම විවෘතව මෙම විවාද මාලාව සඳහා ආරාධනා කරන අතර ඒ සඳහා අපේක්ෂකයන්ගේ කැමැත්ත ඊමේල් ලිපිනයට අගෝස්තු 24 වනදා මධ්‍යහ්න 12 ට පෙර යොමුකරන ලෙසද දැනුම්දෙයි.
+
+මීට අදාළ වැඩි විස්තර පහත දුරකථන අංකයෙන් ලබාගත හැකි බවත් මාර්තු 12 ව්‍යාපාරයේ මෙහෙයුම් කමිටුව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/3873ee28.json)
+
+---
 
 ### Sarvajana Balaya’s strategic plan presented to Ceylon Chamber of Commerce
 
@@ -2307,29 +2325,5 @@ At the commencement of the meeting, outgoing President Anura Warnakulasuriya, ex
 [Data](articles/2a96ee02.json)
 
 [Extended Data](ext_articles/2a96ee02.ext.json)
-
----
-
-### A 12 -year -old student was admitted to Vavuniya Hospital
-
-*2024-08-21 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191574) · `ta`
-
-A 12-year-old student from Vavuniya City Famous School was hospitalized due to vomiting, possibly linked to drug use. The boy, a Hindu cleric's son, was initially treated in the hospital's emergency department before being moved to the patient hostel.
-
-🟩
-
-A 12 -year -old student studying in a school in Vavuniya has been admitted to the Vavuniya Hospital after he was admitted to the Vavuniya Hospital.
-
-A 12 -year -old student who is studying in Grade 7 at Vavuniya City City Famous School has gone back to a place near a shop in front of the school and went back to school.
-
-In a short time the student has been admitted to the Vavuniya Hospital through their parents as they have been vomiting.
-
-The student who was admitted to the Emergency Department of the Vavuniya Hospital has now been transferred to the patient hostel, police said.. Police said that the student used Jazz drugs. It is also worth noting that the student is the son of a Hindu cleric.
-
-◼️
-
-[Data](articles/3439c992.json)
-
-[Extended Data](ext_articles/3439c992.ext.json)
 
 ---

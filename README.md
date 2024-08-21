@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 00:09:51**
+As of **2024-08-22 00:21:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,959 (100.0%) of 41,964 articles have been extended.
+41,964 (100.0%) of 41,964 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1076,6 +1076,8 @@ A bond maturing on 01.10.2032 closed at 13.20/25 percent, up 13.10/25 percent. (
 
 [Data](articles/a857f88a.json)
 
+[Extended Data](ext_articles/a857f88a.ext.json)
+
 ---
 
 ### Police seize 4 pythons and marsh crocodile found hidden in pet shop
@@ -1472,6 +1474,8 @@ The 12-month bills fell 2 basis points to 10.01 percent, with 30 billion offered
 
 [Data](articles/18a2763a.json)
 
+[Extended Data](ext_articles/18a2763a.ext.json)
+
 ---
 
 ### The world hero 'Kamal Haasan's praise'
@@ -1567,6 +1571,8 @@ Global depositary shares are issued in international markets to access investors
 ◼️
 
 [Data](articles/a7ba861f.json)
+
+[Extended Data](ext_articles/a7ba861f.ext.json)
 
 ---
 
@@ -1789,6 +1795,8 @@ The USA has been moving military craft to the region in anticipation of a broade
 ◼️
 
 [Data](articles/d5dfca5f.json)
+
+[Extended Data](ext_articles/d5dfca5f.ext.json)
 
 ---
 
@@ -2351,6 +2359,8 @@ According to the committee’s report, several of these companies had volunteere
 ◼️
 
 [Data](articles/a6431450.json)
+
+[Extended Data](ext_articles/a6431450.ext.json)
 
 ---
 

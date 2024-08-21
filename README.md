@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 04:55:36**
+As of **2024-08-22 05:06:31**
 
 ## Newspaper Stats
 
@@ -26,99 +26,135 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,992 (100.0%) of 41,997 articles have been extended.
+41,997 (100.0%) of 41,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### இலவச விசா வசதியின் கீழ் 35 நாடுகளின் குடிமக்களுக்கு நாட்டிற்குள் நுழைய வாய்ப்பு
+### Opportunity for citizens of 35 countries under the free visa facility
 
 *2024-08-22 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191674) · `ta`
 
-35 நாடுகளின் குடிமக்களுக்கு இலவச விசா வசதியின் கீழ் நாட்டுக்குள் பிரவேசிப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The government has approved a free visa program for citizens of 35 countries, including major economies like the UK, US, Canada, and Germany, effective from October 1, 2024, for a duration of 6 months. This initiative aims to boost tourism and economic ties.
 
-இங்கிலாந்து, அமெரிக்கா, கனடா, ஜெர்மனி, ஆஸ்திரேலியா, சவுதி அரேபியா, சீனா, இந்தியா, ரஷ்யா, தென் கொரியா, ஜப்பான் உள்ளிட்ட 35 நாடுகள் இதில் சேர்ந்துள்ளன.
+🟩
 
-அக்டோபர் 1, 2024 முதல் 06 மாத காலத்திற்கு இந்த வாய்ப்பு கிடைக்கும்.
+The Cabinet has approved the entry into the country under a free visa facility for citizens of 35 countries.
 
-ஐக்கிய இராச்சியம், ஜெர்மனி, நெதர்லாந்து, பெல்ஜியம், ஸ்பெயின், அவுஸ்திரேலியா, டென்மார்க், போலந்து, கசகஸ்தான், சவூதி அரேபியா,. ஐக்கிய அரபு எமிரேட்ஸ், நேபாளம், சீனா, இந்தியா, இந்தோனேஷியா, ரஷ்யா, தாய்லாந்து, மலேஷியா, ஜப்பான், பிரான்ஸ்,  அமெரிக்கா, கனடா, செக் குடியரசு, இத்தாலி, சுவிட்சர்லாந்து, ஆஸ்திரியா, இஸ்ரேல், பெலாரஸ், ஈரான், சுவீடன், தென் கொரியா, கத்தார், ஓமன், பஹ்ரைன், நியூசிலாந்து
+It includes 35 countries including the UK, the United States, Canada, Germany, Australia, Saudi Arabia, China, India, Russia, South Korea and Japan.
+
+This opportunity will be available for a period of October 1, 2024 to 6 months.
+
+The United Kingdom, Germany, the Netherlands, Belgium, Spain, Australia, Denmark, Poland, Kazakhstan, Saudi Arabia. United Arab Emirates, Nepal, China, India, Indonesia, Russia, Malaysia, Malaysia, Japan, USA, Canada, Czech Republic, Italy, Switzerland, Austria, Israel, Israel, Belarus, Iran, Sweden, South KoreaBahrain, New Zealand
 
 ◼️
 
 [Data](articles/6fddfda2.json)
 
+[Extended Data](ext_articles/6fddfda2.ext.json)
+
 ---
 
-### நாம் திருடர்களை பாதுகாப்பதில்லை : உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான  சூத்திரதாரிகளின் மீது நீதியை நிலை நாட்டுவோம் - சஜித் பிரேமதாச
+### We do not protect thieves: We will uphold justice on the masterminds of the survivor Sunday attack - Sajith Premadasa
 
 *2024-08-22 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/191673) · `ta`
 
-தன்னையும் தனது குழுவில் உள்ளவர்களையும்    வைன் ஸ்டோர்களையும், மதுபான சாலை அனுமதி பத்திரங்களையும், சலுகைகளையும் வரப்பிரசாதனங்களையும் காட்டி விலைக்கு வாங்க முடியாது.
+Sajith Premadasa promises justice for survivors of the Sunday attack, criticizes wine store privileges, and vows not to sell out for personal gain. He addresses a rally, highlighting unaddressed truths behind attacks and criticizes current leadership. Premadasa pledges to support entrepreneurs, establish Youth Development Centers, and combat poverty through new job plans. He rejects offers to become Prime Minister during Rajapakse's tenure, emphasizing commitment to democracy and accountability.
 
-பணத்துக்கும் பதவிகளுக்கும் எனது சுய கௌரவத்தை  காட்டி கொடுத்து ஏலத்தில் செல்வதும் இல்லை. தான் இந்த நாட்டை விற்கவோ,  ஏலத்தில் விடவோ, இந்த மக்களை காட்டிக் கொடுக்கவோ ஒருபோதும் முற்படுவதில்லை.  எனவே என் மீது நம்பிக்கை கொள்ளுங்கள் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச  வேண்டுகோள் விடுத்தார்.
+🟩
 
-2024 ஜனாதிபதித் தேர்தலுக்கான ஐக்கிய மக்கள் சக்தியின் எட்டாவது மக்கள் வெற்றிப் பேரணி எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் கட்டுநாயக்க நகரில் புதன்கிழமை  (21) மாலை இடம்பெற்றது. இதில், ஐக்கிய மக்கள் சக்தியைச் சேர்ந்த அரசியல் தலைவர்கள் போலவே அப்பகுதியை சேர்ந்த ஏராளமான மக்கள் கலந்து கொண்டிருந்தனர். இதில் கலந்து கொண்டு  உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+Wine stores, liquor road permits, privileges and gifts cannot be purchased by himself and his group.
+
+My self -esteem for money and posts is not going to auction. He never seeks to sell, auction or betray these people.So Opposition Leader Sajith Premadasa appealed to me to believe in me.
+
+The eighth people's victory rally for the 2024 presidential election was held on Wednesday evening in Katunayake under the leadership of Opposition Leader Sajith Premadasa. Like the political leaders of the United People's Power, a large number of people from the area attended. He said this while addressing the gathering.
+
+The truth has not yet been revealed in connection with the stupid attack on Kochchikadai, Kattuvapitiya, Batticaloa and many other hotels. The Leader of the Opposition pointed out that the truth has not been revealed regarding the leadership.
+
+President Gotabhaya Rajapakse has deceived the people of the country and the Catholic community.
 
 ...
 
 [Data](articles/daebebd1.json)
 
+[Extended Data](ext_articles/daebebd1.ext.json)
+
 ---
 
-### லுணுகலையில் இரு குழுக்களுக்கிடையில் ஏற்பட்ட மோதல்; இருவர் வைத்தியசாலையில்
+### Conflict between two groups in Lunagal;Two people at the hospital
 
 *2024-08-22 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191672) · `ta`
 
-லுணுகலை கல்லு குதத்தை ஏலத்தில் பெற வந்த இரு குழுக்களுக்கிடையில் ஏற்பட்ட மோதலில் இருவர் லுணுகலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக லுணுகலை பொலிஸார் தெரிவித்தனர்.
+In Lunugala, a clash erupted between two groups from Kurunegala and Badulla over an auction for a stone gutter. Two individuals were hospitalized and are receiving treatment. The Lunugala police are investigating the incident.
 
-லுணுகலை நகரில் உள்ள கல்லு குதம் இன்றையதினம் ஏலத்தில் விடப்பட இருந்த நிலையில் குருணாகலை மற்றும் பதுளை பகுதியில் உள்ள இரண்டு குழுக்கள் குறித்த கல்லு குதத்தை ஏலத்தில் பெறுவதற்கு முற்பட்ட போது இரு குழுக்களுக்கிடையில் ஏற்பட்ட வாக்குவாதம் கைகலப்பாக மாறியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-காயமடைந்த இருவர் லுணுகலை வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதுடன் சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை லுணுகலை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Lunugala police said that two persons have been admitted to the Lunugala Hospital in a clash between two groups that came to auction the Lunugala Kalu Gall.
+
+Police said that the two groups in Kurunegala and Badulla were trying to get a bidding of a stone gutter in the city of Lunugala.
+
+The two injured have been admitted to the Lunugala Hospital and are being treated and further investigations are being carried out by the Lunugala police.
 
 ◼️
 
 [Data](articles/b7113e34.json)
 
+[Extended Data](ext_articles/b7113e34.ext.json)
+
 ---
 
-### 2024 இன் முதல் 6 மாதங்களில் 9 பில்லியன் அமெரிக்க டொலர் ஏற்றுமதி வருமானம் கிடைத்துள்ளது – திலும் அமுனுகம
+### In the first six months of 2024, US $ 9 billion has earned $ 9 billion
 
 *2024-08-22 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/191671) · `ta`
 
-இந்த வருடத்தின் கடந்த ஆறு மாதங்களில் ஒன்பது (9) பில்லியன் அமெரிக்க டொலர் ஏற்றுமதி வருமானம் கிடைத்துள்ளதாக முதலீட்டு மேம்பாட்டு இராஜாங்க அமைச்சர் திலும் அமுனுகம தெரிவித்தார்.
+In the first half of 2024, Sri Lanka achieved $9 billion in exports and secured $800 million in investments. The government plans to enhance 15 investment zones, aiming to create seven new ones, including around Mankulam, Paranthan, and Trincomalee. These efforts are expected to attract $1 billion in investment contracts. Additionally, the Kankesanthurai zone may become a Canada-Sri Lanka Investment Zone, and amendments to the Economic Transfer Act are underway. The government is also focusing on promoting exports through various schemes and expects to finalize 35 investment projects soon.
 
-அத்துடன், கடந்த ஆறு மாதங்களில் இலங்கை சுமார் 800 மில்லியன் அமெரிக்க டொலர் பெறுமதியான முதலீடுகளுக்கான உடன்படிக்கைகளை ஏற்படுத்திக்கொண்டிருப்பதாகவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டினார்.
+🟩
 
-‘இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்’ என்ற தலைப்பில் புதன்கிழமை (21) ஜனாதிபதி ஊடக மையத்தில் நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்ட முதலீட்டு ஊக்குவிப்பு இராஜாங்க அமைச்சர் திலும் அமுனுகம இதனைக் குறிப்பிட்டார்.
+The Minister of Investment Development, Dilum Amunugama, said that in the last six months of this year, nine (9) billion exports have been earned.
 
-“இலங்கை முதலீட்டுச் சபை பதினைந்து முதலீட்டு வலயங்களுக்கான வசதிகளை வழங்குவதுடன் அந்த முதலீட்டு வலயங்களில் தற்போது 1575 நிறுவனங்கள் செயற்பாட்டுப் பணிகளை முன்னெடுத்து வருகின்றன. இதில் 500,000 இற்கும் மேற்பட்டோர் பணிபுரிகின்றனர். தற்போதைய அரசாங்கத்தின் புதிய முதலீட்டுத் திட்டத்தின் கீழ் ஏழு புதிய முதலீட்டு வலயங்களை நிறுவத் திட்டமிடப்பட்டுள்ளது.
+The Minister of State also pointed out that in the last six months, Sri Lanka has been making agreements on investments worth about US $ 800 million.
+
+Investment Promotion Minister Til Amunugama made this statement at a press conference held at the Presidential Media Center on Wednesday (21) titled 'Two Years Progress and Future'.
+
+“The Sri Lanka Investment Board will provide facilities for fifteen investment zones and are currently carrying out operations in those investment zones.. Over 500,000 people work. It is planned to establish seven new investment zones under the current government's new investment plan.
+
+The new investment zones are scheduled to be around Mankulam, Paranthan, Kankesanthurai, Trincomalee, Iranavila, Hambantota and Pingiriya areas.. Investment contracts worth $ 1 billion this year are expected.
 
 ...
 
 [Data](articles/b966bbbc.json)
 
+[Extended Data](ext_articles/b966bbbc.ext.json)
+
 ---
 
-### இலங்கைக்கு புதிதாக நியமனம் பெற்ற மூன்று தூதுவர்களும் இரண்டு உயர்ஸ்தானிகர்களும் ஜனாதிபதியிடம் நற்சான்றிதழ்களை கையளித்தனர்
+### Three newly appointed Ambassadors and two high -rankings handed over the president's credentials to the President
 
 *2024-08-22 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191670) · `ta`
 
-இலங்கைக்கு புதிதாக நியமிக்கப்பட்டுள்ள மூன்று தூதுவர்கள் மற்றும் இரண்டு உயர்ஸ்தானிகர்கள் புதன்கிழமை (21) கொழும்பு கோட்டை ஜனாதிபதி மாளிகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் தமது நற்சான்றிதழ்களை கையளித்தனர்.
+Newly appointed Ambassadors from Vietnam, Myanmar, and a High Commissioner from Zimbabwe presented their credentials to Sri Lanka's President Ranil Wickremesinghe. Also present were the Ministers of Foreign Affairs and Justice, along with the President's Secretary, during a ceremony at the President's House in Colombo.
 
-2.  டிரின் தி டாம் (Trinh Thi Tam) - தூதுவர் - வியட்நாம் சோசலிசக் குடியரசு
+🟩
 
-3.  மாலர் தன் டைக் (Marlar Than Htaik)  - தூதுவர் - மியான்மார்
+Three newly appointed Ambassadors and two high -ranking Ambassadors to Sri Lanka handed over their credentials to President Ranil Wickremesinghe at the President's House in Colombo on Wednesday (21).
 
-4.  பெர்சி பெட்சன் சந்தா (Percy Patson Chanda)  - உயர்ஸ்தானிகர் - சிம்பாப்வே
+2. Trin The Tom (Trinh Thi Tam) - Ambassador - Vietnam Socialist Republic
 
-நற்சான்றிதழ்களை ஏற்றுக்கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க, புதிய தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர்களுடன் சிநேகபூர்வ உரையாடலிலும் ஈடுபட்டார்.
+3. Malar Than Htaik - Ambassador - Myanmar
 
-வெளிநாட்டலுவல்கள் அமைச்சர் மற்றும் நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியல் யாப்பு மறுசீரமைப்பு அமைச்சர் அலி சப்ரி, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோரும் இந்நிகழ்வில் கலந்துகொண்டனர்.
+4. Percy Patson Chanda - High Commissioner - Zimbabwe
+
+President Ranil Wickremesinghe, who accepted the credentials, also engaged in a speech with new ambassadors and high -rankings.
+
+Minister of Foreign Affairs and Minister of Justice, Justice, Prison Affairs and Political Reforms Ali Sabri and President's Secretary Saman Ekanayake were also present.
 
 ◼️
 
 [Data](articles/9c075e8d.json)
+
+[Extended Data](ext_articles/9c075e8d.ext.json)
 
 ---
 

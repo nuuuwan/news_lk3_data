@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 22:10:29**
+As of **2024-08-21 22:21:53**
 
 ## Newspaper Stats
 
-*Scraped **41,948** Articles*
+*Scraped **41,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,527
 dailyftlk | 2,701
 adalk | 3,867
 dailymirrorlk | 4,733
-adaderanalk | 4,909
+adaderanalk | 4,910
 tamilmirrorlk | 5,437
 virakesarilk | 6,677
 adaderanasinhalalk | 7,165
@@ -26,39 +26,51 @@ adaderanasinhalalk | 7,165
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,946 (100.0%) of 41,948 articles have been extended.
+41,949 (100.0%) of 41,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### මංගල ටෙස්ට් තරගයේ මිලාන්ගෙන් අර්ධ ශතකයක්
+### Half-century from Milan in Mangala Test Competition
 
 *2024-08-21 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200190) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගය මැන්චෙස්ටර්, ඕල්ඩ් ට්‍රැෆර්ඩ් ක්‍රීඩා පිටියේදී අද (21) ආරම්භ වුණි.
+In the historic first Test match between England and Sri Lanka at Manchester's Old Trafford, Milan Ratnayake made headlines with his debut half-century. Opening the innings, he scored 66 runs off just 52 balls, including 6 fours and 4 sixes, marking a promising start for the Sri Lankan team in the series.
 
-එහිදී සිය මංගල ටෙස්ට් තරගයට එක්වූ මිලාන් රත්නායක සිය පළමු අර්ධ ශතකය වාර්තා කළේය.
+🟩
 
-ඉනිමේ පළමු 6 පහරද වාර්තා කළ මිලාන් සිය අර්ධ ශතකය වෙනුවෙන් 6 පහර 01ක් සහ 4 පහර 5ක් ලබා ගත්තේය.
+The first Test match between England and the England team began this morning at the Manchester, Old Traford.
+
+Milan Ratnayake, who joined their wedding Test series, recorded his first half century.
+
+Milan who reported the first 6 beat in the innings, Milan received 6 hits and 4 hits for his half century.
 
 ◼️
 
 [Data](articles/80510633.json)
 
+[Extended Data](ext_articles/80510633.ext.json)
+
 ---
 
-### அநுராதபுரத்தில் SLPP-யின் பிரசாரக் கூட்டம்
+### SLPP's campaign meeting in Anuradhapura
 
 *2024-08-21 21:41:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுராதபுரத்தில்-SLPP-யின்-பிரசாரக்-கூட்டம்/175-342590) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்சவுக்கு ஆதரவு திரட்டி, அநுராதபுரத்தில் இன்று தேர்தல் பிரசாரக் கூட்டம் நடைபெற்றது.
+In Anuradhapura, SLPP hosted a campaign meeting for Namal Rajapaksa, the PA's presidential candidate, with his father, former President Mahinda Rajapaksa, in attendance.
 
-மேலும், இந்த கூட்டத்தில் முன்னாள் ஜனாதிபதியும், நாமலின் தந்தையுமான மஹிந்த ராஜபக்ஸவும் கலந்துகொண்டிருந்தமை குறிப்பிடத்தக்கது. R
+🟩
+
+The election campaign meeting was held today in Anuradhapura, supporting the Sri Lankan PA's presidential candidate Namal Rajapaksa.
+
+It is also worth noting that former President and Namal's father Mahinda Rajapaksa attended the meeting.. Remble
 
 ◼️
 
 [Data](articles/9457b064.json)
+
+[Extended Data](ext_articles/9457b064.ext.json)
 
 ---
 
@@ -139,6 +151,34 @@ It is also noteworthy that the suspect was also working at the Mandasi Divisiona
 [Data](articles/cc6294f7.json)
 
 [Extended Data](ext_articles/cc6294f7.ext.json)
+
+---
+
+### Five new envoys present credentials to the President
+
+*2024-08-21 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101406/five-new-envoys-present-credentials-to-the-president) · `en`
+
+President Ranil Wickremesinghe received the credentials of two newly appointed High Commissioners and three Ambassadors to Sri Lanka at the President’s House in Colombo today (21), the President’s Media Division (PMD) reported.
+
+The High Commissioners representing the Republic of Zambia and the People’s Republic of Bangladesh were present.
+
+Additionally, Ambassadors from the Republic of Lithuania, the Socialist Republic of Vietnam and the Republic of the Union of Myanmar also handed over their credentials.
+
+Below is the list of the new High Commissioners and Ambassadors who presented the credentials to President Wickremesinghe today:
+
+Ambassador-designate of the Republic of Lithuania based in New Delhi
+
+Ambassador-designate of the Republic of the Union of Myanmar based in Colombo
+
+High Commissioner-designate of the Republic of Zambia based in New Delhi
+
+High Commissioner-designate of the People’s Republic of Bangladesh based in Colombo
+
+...
+
+[Data](articles/58e09d58.json)
+
+[Extended Data](ext_articles/58e09d58.ext.json)
 
 ---
 
@@ -244,9 +284,11 @@ The suspects arrested in connection with the incident are to be produced before 
 
 *2024-08-21 20:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101403/sri-lanka-approves-visa-free-facility-for-citizens-of-35-countries-) · `en`
 
-The Cabinet of Ministers has decided to grant visa-free access to Sri Lanka for citizens of 35 countries, including the UK, USA, Canada, Germany, Australia, Saudi Arabia, China, India, Russia, South Korea, and Japan.
+The Cabinet of Ministers has decided to allow visa-free entry to Sri Lanka for citizens of 35 countries, including the United Kingdom (UK), United States (US), Canada, Germany, Australia, Saudi Arabia, China, India, Russia, South Korea, and Japan.
 
-This policy will be in effect from October 1, 2024, for a period of six months.
+This new visa-free policy will be in effect from October 01, 2024, and will remain in effect for a period of six months.
+
+List of countries to be offered visa-free access to Sri Lanka:
 
 ◼️
 
@@ -538,7 +580,7 @@ The film crew has released a photo of the actors Ganesh Saravanan and Dasarathi,
 
 *2024-08-21 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101402/us-commends-sri-lankas-commitment-to-70-renewable-energy-by-2030) · `en`
 
-The United States have commended Sri Lanka’s commitment to 70% renewable energy by 2030 and its proactive role in global climate initiatives.
+The United States has commended Sri Lanka’s commitment to 70% renewable energy by 2030 and its proactive role in global climate initiatives.
 
 U.S. Acting Assistant Secretary for Oceans and International Environmental and Scientific Affairs Jennifer Littlejohn, who is currently on an official visit to Sri Lanka, accompanied by US Ambassador to Sri Lanka Julie Chung, had held separate meetings with Sri Lanka’s Foreign Minister Ali Sabry and Presidential Advisor on Climate Change Ruwan Wijewardene on Wednesday (21).
 
@@ -2355,37 +2397,5 @@ After entering politics in 2010, Field Marshal Sarath Fonseka said that he had t
 [Data](articles/e21aa769.json)
 
 [Extended Data](ext_articles/e21aa769.ext.json)
-
----
-
-### A sum of Rs.. Proposal to do 100000
-
-*2024-08-21 10:49:54* · [`adalk`](https://www.ada.lk/breaking_news/වගා-හානි-වන්දි-අක්කරයකට-රු--100000ක්-කරන්න-යෝජනාවක්/11-411482) · `si`
-
-The Parakrama Market Farmer Organization in Polonnaruwa asked the Minister of Agriculture for increased support due to damages from droughts, floods, and forest fires. The Minister responded by proposing a compensation scheme covering six crops without any farmer contributions. Additionally, the government will waive import taxes on agricultural equipment, though VAT may still apply.
-
-🟩
-
-The Parakrama Market Farmer Organization of Polonnaruwa currently requested the Minister of Agriculture and Plantation Industries to increase the Rs.
-
-The request was presented at a discussion on the farming issues of the agriculture minister and members of the Polonnaruwa Minister of Polonnaruwa yesterday (20).
-
-The Farmer Organization presented to the Minister
-
-A prominent proposal was that the government is currently increasingly damaged by the drought, floods and forest damage to the cultivation of a cultivation at present.
-
-Accordingly, a cost of compensation will be paid to Rs 250,000 per hectare.
-
-The Minister of Agriculture stated that he has already presented the Cabinet paper to pay Rs.
-
-It is compensated for drought, floods and wildlife, under this cultural damn compensation program. Accordingly Agricultural insurance covers six crops, maize, chilli, onions, soybeans and potatoes.
-
-The specialty of this is that no contributions from the farmers do not charge.
-
-...
-
-[Data](articles/c3b098b4.json)
-
-[Extended Data](ext_articles/c3b098b4.ext.json)
 
 ---

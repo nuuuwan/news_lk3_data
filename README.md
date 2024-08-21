@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 11:21:26**
+As of **2024-08-21 11:37:07**
 
 ## Newspaper Stats
 
-*Scraped **41,826** Articles*
+*Scraped **41,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,520
 dailyftlk | 2,701
 adalk | 3,850
 dailymirrorlk | 4,733
-adaderanalk | 4,896
+adaderanalk | 4,898
 tamilmirrorlk | 5,409
 virakesarilk | 6,648
-adaderanasinhalalk | 7,144
+adaderanasinhalalk | 7,145
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,824 (100.0%) of 41,826 articles have been extended.
+41,826 (100.0%) of 41,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### SJB’s Thalatha Athukorala resigns as MP
+
+*2024-08-21 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101393/sjbs-thalatha-athukorala-resigns-as-mp) · `en`
+
+Samagi Jana Balawegaya (SJB) Ratnapura District MP Thalatha Athukorala has informed parliament that she will be resigning from her position as a Member of Parliament.
+
+She made the announcement while delivering a statement in Parliament today (21).
+
+◼️
+
+[Data](articles/7f89dae1.json)
+
+---
+
+### Six arrested over shooting and killing in Sripura
+
+*2024-08-21 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101392/six-arrested-over-shooting-and-killing-in-sripura) · `en`
+
+Six individuals have been arrested in connection with the recent shooting and killing of a youth in the Siripura area.
+
+The shooting had occurred at Pulleyar Junction in Gemunupura and was carried out by two unidentified gunmen on a motorcycle, said police.
+
+The preliminary investigations have revealed that the murder was carried out under the directive of the notorious underworld figure Gunasiri Priyantha, alias “Pathala Priyantha” who is in Dubai.
+
+However, during the interrogation of the arrested suspects it has been revealed that the victim of the shooting was not the intended target.
+
+The arrested suspects are aged 20, 22, 38, 40 and 47 and are residents of Weli Oya, Padaviya, Kebithigollewa and Parakramapura.
+
+◼️
+
+[Data](articles/518d7b33.json)
+
+---
+
+### තලතා මන්ත්‍රී ධුරයෙන් ඉවත්වෙයි
+
+*2024-08-21 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200169) · `si`
+
+සමගි ජන බලවේගයේ රත්නපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රිනි තලතා අතුකෝරල මහත්මිය සිය ධුරයෙන් ඉවත්වීමට තීරණය කළ බව අද (21) පාර්ලිමේන්තුවේ දී ප්‍රකාශ කළාය.
+
+තලතා අතුකෝරල, එක්සත් ජාතික පක්ෂයේ ප්‍රධානියෙක් වූ ගාමිණි අතුකෝරල මහතාගේ සහෝදරිය වෙයි.
+
+එසේම 2010, 2015 සහ 2020 මහ මැතිවරණවලදී ඇය රත්නපුර දිස්ත්‍රික්කයෙන් ජයග්‍රහණය කරමින් පාර්ලිමේන්තුවට තේරී පත්වූවාය.
+
+2020 වසරේදී ඇය රත්නපුර දිස්ත්රිකයෙන් මනාප 45,105ක් ලබාගනිමින් සමගි ජන බලවේගයෙන් පාර්ලිමේන්තුවට තේරී පත්වූවාය.
+
+◼️
+
+[Data](articles/cc418acc.json)
+
+---
 
 ### Bus carrying Shiite pilgrims from Pakistan to Iraq crashes in Iran, killing at least 28
 
@@ -49,6 +101,8 @@ Authorities offered no immediate cause for the crash. However, Iran has one of t
 ...
 
 [Data](articles/3b86e456.json)
+
+[Extended Data](ext_articles/3b86e456.ext.json)
 
 ---
 
@@ -364,17 +418,25 @@ A police inspector and a constable have been arrested in Piliyandala.
 
 ---
 
-### අනන්‍යතාවය හෙළි නොකරන්නන් ගෙන් පරිත්‍යාග භාර ගැනීම අපේක්ෂකයන්ට තහනම්
+### Candidates prohibited to accept donations of donations from the uncommunication
 
 *2024-08-21 08:05:15* · [`adalk`](https://www.ada.lk/breaking_news/අනන්‍යතාවය-හෙළි-නොකරන්නන්-ගෙන්-පරිත්‍යාග-භාර-ගැනීම-අපේක්ෂකයන්ට-තහනම්/11-411475) · `si`
 
-2023 අංක 03 දරණ මැතිවරණ වියදම් නියාමනය කිරීමේ පනත අනුව 2024 ජනාධිපතිවරණයේදී    දේශපාලන පක්ෂ,  ස්වාධීන කන්ඩායම් හෝ අපේක්ෂකයන් විසින් සිය මැතිවරණ කටයුතු ප්‍රවර්ධනය සඳහා අනන්‍යතාවය හෙළි නොකරන තැනැත්තන් ඇතුළුව  ඇතැම්  මාර්ග කීපයකින් මුදල් හෝ  ද්‍රව්‍ය  පරිත්‍යාග  සෘජුව හෝ වක්‍රව ලබා ගැනීම නොකළ යුතු බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+The Elections Commission prohibits political parties, independent groups, and candidates from accepting donations exceeding 50% from foreign entities or anonymous sources. This rule applies to all participants in the 2024 Presidential Election, ensuring transparency and preventing undue influence.
 
-ඒ අනුව රජයේ දෙපාර්තමේන්තුවකින් හෝ සංස්ථාවකින් හෝ යම් කොටස් ප්‍රමාණයක් රජය  හෝ රාජ්‍ය  සංස්ථාවක් විසින් හිමිකාරත්වය දරන මෙරට සංස්ථාපිත සමාගමක් වෙතින්ද,  විදේශ රාජ්‍යකින් හෝ ජාත්‍යන්තර සංවිධානයකින් හෝ විදේශයක ලියා පදිංචි පුද්ගල මන්ඩලයකින් ,විදේශීය කොටස් හිමිකාරිත්වය සියයට 50 ක් හෝ ඊට වැඩියෙන් හිමි මෙරට සමාගම් පනත යටතේ හෝ ඊට අදාලව මෙරට සංස්ථාපිත සමාගමක් මගින් මෙන්ම අනන්‍යතාවය හෙළි නොකරන තැනැත්තන්ගෙන්ද මෙකී පරිත්‍යාග බාර ගැනීම නොකළ යුතුය.
+🟩
 
-...
+The Elections Commission announces that in the 2024 Presidential Party, the political parties, independent groups or candidates, including people who do not reveal the identity of the 2024 Presidential Election, to promote the identity of the 2024 presidential election..
+
+Accordingly, a government corporate company or a corporate or a corporation or a state corporation is owned by a foreign state or a state corporation, under the company's company under the Companies Act, 50 percent or more ownership.This should not be accepted by a local corporate company as well as those who do not reveal identity.
+
+The Elections Commission to be subjected to direct or indirectly to the presidential election in accordance with the presidential election of the Presidential Chandr, No. 15 of 1981 as a result of the presidential election of the Presidential Chandr.States in the gazette notification published.
+
+◼️
 
 [Data](articles/c084cd05.json)
+
+[Extended Data](ext_articles/c084cd05.ext.json)
 
 ---
 
@@ -2167,75 +2229,5 @@ In the meantime, Captain Vijayakanth is appearing for two minutes with artificia
 [Data](articles/dbe1eb5d.json)
 
 [Extended Data](ext_articles/dbe1eb5d.ext.json)
-
----
-
-### CID constable acquitted of backed by beef
-
-*2024-08-20 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200140) · `si`
-
-Sanjaya Abeysinghe, a police constable, was acquitted by the CID after being accused of attempting to evade charges. He had previously been detained and interrogated by the Terrorist Investigation Division (TID).
-
-🟩
-
-The police constable Sanjaya Abeysinghe has been acquitted by the Criminal Investigation Department of the Criminal Investigations Department (CID) accused of trying to flee the case from the Criminal Investigation Department.
-
-Police Constable Sanjaya Abeysinghe was detained and questioned in the TID.
-
-◼️
-
-[Data](articles/f6bba76c.json)
-
-[Extended Data](ext_articles/f6bba76c.ext.json)
-
----
-
-### Mari Selvaraj's 'Banana' film preview release
-
-*2024-08-20 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191554) · `ta`
-
-"Banana," directed by Mari Selvaraj, features performances by Kalaiyarasan, Satishkumar, Nikila Wimal, and Divya Duraisamy among others. Composed by Santosh Narayanan and produced by Mari Selvaraj and Dileep Subbarayan, it explores the struggles faced by children under economic burdens. The film's preview garnered over a million views, highlighting its anticipated impact. Set for release on the 23rd of this month, "Banana" has generated significant interest within the Tamil film industry.
-
-🟩
-
-The preview of the film 'Banana', which is being directed by Mari Selvaraj, has joined the list of Tamil filmmakers through three works of 'Periyarum Perumal', 'Karna' and 'Mamannan' - 'Mamannan'.. Within a short time of this preview, more than a million viewers have been visited and achieved.
-
-Valarilam is a seasonal actors gold. Vale and M. In the film 'Banana', Rahul, who plays the role of the role of actors Kalaiyarasan, Satishkumar, actresses Nikila Wimal, Divya Duraisamy, Janaki and many others.
-
-Santosh Narayanan has composed the film, which is being recorded by Theni Eswar. The film is co -produced by producers Mari Selvaraj and Dileep Subbarayan on behalf of Navi Studios and Farmers Master Plan Production.
-
-The film 'Banana', which is being directed by director Mari Selvaraj, who is the best 'pain conductor', has been abducted by his work through his work-has been reported from his own life.. As a result, the expectation of the film is increasing.
-
-...
-
-[Data](articles/5768b316.json)
-
-[Extended Data](ext_articles/5768b316.ext.json)
-
----
-
-### The Laststalling employee's salary is Rs.. Up to 55,000
-
-*2024-08-20 17:11:41* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-පහළම-සේවකයාගේ-වැටුපත්-රු--55000ක්-දක්වා-ඉහළට/11-411466) · `si`
-
-The Transport Minister announced that public servants' salaries would not exceed Rs. 55,000 monthly, addressing concerns about rising costs and pay increases. He clarified that while some decisions would remain confidential, others, including salary adjustments, would be disclosed.
-
-🟩
-
-Transport, Highways and Mass Media Mass Media Cabbaken said that at least Rs. 55,000 per month and more than at least Rs.. He was speaking at a special media briefing held in the Government Information Department.
-
-He pointed out that if a number of misconceptions relating to the increasing increase in public servants and the cost of living allowance is widely spreading.
-
-The Minister pointed out that the Cabinet proclaimers of the present government declares that he will declare the important cabinet decisions and certain cabinet decisions will not go to the public.
-
-He said that when the Cabinet met recently, the cabinet paper was presented by the public servants' increments.
-
-"All public servants will be given three years without amending Rs 25,000 rupees. Secondly, the basic salary is not amended, and between 24% and 25%. At least Rs. 55,000 per month and more than at least Rs. 55,000 per month. "
-
-◼️
-
-[Data](articles/3066b60b.json)
-
-[Extended Data](ext_articles/3066b60b.ext.json)
 
 ---

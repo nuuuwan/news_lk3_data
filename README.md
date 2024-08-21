@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 18:38:50**
+As of **2024-08-21 18:57:05**
 
 ## Newspaper Stats
 
-*Scraped **41,918** Articles*
+*Scraped **41,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,527
 dailyftlk | 2,701
 adalk | 3,863
 dailymirrorlk | 4,733
-adaderanalk | 4,906
+adaderanalk | 4,907
 tamilmirrorlk | 5,431
 virakesarilk | 6,666
 adaderanasinhalalk | 7,160
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,916 (100.0%) of 41,918 articles have been extended.
+41,918 (100.0%) of 41,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### US commends Sri Lanka’s commitment to 70% renewable energy by 2030
+
+*2024-08-21 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101402/us-commends-sri-lankas-commitment-to-70-renewable-energy-by-2030) · `en`
+
+The United States have commended Sri Lanka’s commitment to 70% renewable energy by 2030 and its proactive role in global climate initiatives.
+
+U.S. Acting Assistant Secretary for Oceans and International Environmental and Scientific Affairs Jennifer Littlejohn, who is currently on an official visit to Sri Lanka, accompanied by US Ambassador to Sri Lanka Julie Chung, had held separate meetings with Sri Lanka’s Foreign Minister Ali Sabry and Presidential Advisor on Climate Change Ruwan Wijewardene on Wednesday (21).
+
+“We commended Sri Lanka’s commitment to 70% renewable energy by 2030 and its proactive role in global climate initiatives,” US Ambassador Julie Chung said, in a post on ‘X’ (formerly Twitter).
+
+She stated that they discussed ongoing U.S. support, including the work of the U.S. Agency for International Development (USAID) on power sector reforms and potential collaborations with the Smithsonian Institution to protect Sri Lanka’s unique natural resources.
+
+...
+
+[Data](articles/b17ba415.json)
+
+---
 
 ### Haris met Sajith
 
@@ -880,27 +898,33 @@ During the police investigations, police investigations revealed that the car pa
 
 ---
 
-### දයාසිරි ගිය පැත්ත පරාදයි
+### Dayasiri defeated
 
 *2024-08-21 13:04:06* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරි-ගිය-පැත්ත-පරාදයි/11-411487) · `si`
 
-තමන් කිසිඳු පුද්ගලයකුට සුරාබදු බලපත්‍රයක් ලබාදී හෝ එවැන්නක් ලබාදෙන ලෙසට කිසිවෙකුගේ නමක් නිර්දේශ කර හෝ නෑ..
+Prasanna Ranatunga denies issuing excise licenses to anyone, including politicians, amid opposition claims for political gain. He clarifies misinformation in the media and requests corrections. Dayasiri Jayasekera, mentioned for alleged involvement, is defended by Ranatunga, who urges against mudslinging and highlights the importance of truthfulness in politics.
 
-දේශපාලන වාසි ලබා ගැනීමේ අරමුණින් විපක්ෂය වැරදි මත සමාජගත කරනවා...
+🟩
 
-තමන් කිසිඳු පුද්ගලයකුට සුරාබදු බලපත්‍රයක් ලබාදී හෝ එවැන්නක් ලබාදෙන ලෙසට කිසිවෙකුගේ නමක් නිර්දේශ කර හෝ නැතැයි ආණ්ඩුපක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා වරප්‍රසාද ප්‍රශ්නයක් නඟමින් පාර්ලිමේන්තුවේදී අද (21) සඳහන් කළේය.
+No one's name is recommended that they have issued an excise license or providing it.
 
-අමාත්‍යවරයා අවධාරණය කරන්නේ දේශපාලන වාසි ලබා ගැනීමේ අරමුණින් විපක්ෂය වැරදි මත සමාජගත කරමින් සිටින බවයි.
+The opposition is socializing on misconceptions to achieve political gain ...
 
-කතානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුව අද (21) රැස්විය.
+Governor, Urban Development and Housing Minister Prasanna Ranatunga stated that he stated or recommended that one of the employees of an excise license or providing it to any person.
 
-එහිදී වරප්‍රසාද ප්‍රශ්නයක් නඟමින් අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මෙසේද පැවසීය.
+The Minister emphasizes that the opposition is socializing the misconception to achieve political gain.
 
-කතානායකතුමනී, මාධ්‍යවල පළ වූ වැරදි තොරතුරක් සම්බන්ධයෙන් නිවැරදි කිරීමට මට අවස්ථාවක් ලබා දීම සම්බන්ධව මගේ ස්තූතිය පුද කරනවා.
+Parliament was held under the patronage of Speaker Mahinda Yapa Abeywardena.
+
+Minister Prasanna Ranatunga said:
+
+Speaker, I thank you for giving me a chance to correct the wrong information published in the media.
 
 ...
 
 [Data](articles/5d1df674.json)
+
+[Extended Data](ext_articles/5d1df674.ext.json)
 
 ---
 
@@ -1180,21 +1204,33 @@ Earlier, CEB is Rs.. Registered 84.67 billion. In the first half of 2024, CEB re
 
 ---
 
-### කෝටියක මත්කුඩු පොලිසිියේ දෙදෙනෙක් අල්ලයි
+### Two dictatorship in polys arrested
 
 *2024-08-21 12:30:42* · [`adalk`](https://www.ada.lk/breaking_news/කෝටියක-මත්කුඩු-පොලිසිියේ-දෙදෙනෙක්-අල්ලයි/11-411485) · `si`
 
-රුපියල් කෝටියකට අධික වටිනා හොරයින් මත්කුඩු තොගයක් ජාවාරම් කිරීම සඳහා පිළියන්දල මිරිස්වත්ත  සුපිරි වෙළඳ සංකීර්ණයක රථගාලකට පැමිණ සිටි  පොලිස් පරීක්ෂකවරයෙකු සහ කොස්තාපල්වරයෙකු  කොළඹ අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන ඇතැයි නීතිය දිසාව භාර හා වැඩ බලන මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති රුවන් ගුණසේකර මහතා පැවසීය.
+In Piliyandala, a police inspector and constable were arrested along with two intelligence officers from the Moratuwa Special Task Force for possessing 53 kg of drugs. They were caught in a vehicle used for drug trafficking. Further investigations are ongoing.
 
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ මොරටුව විශේෂ කාර්ය බළකාය කඳවුරට අයත් බුද්ධි නිලධාරීන් දෙදෙනෙකි.
+🟩
 
-එම සැකකරුවන් දෙදෙනා සමග හොරයින් මත්කුඩු කිලෝ ගෑම් 1 ගෑම් 53  ක්  අත් විලංගු යුවලක්  ,විද්‍යුත්තරාධියක් , මෙන්ම සුඛෝභෝගි වෑන් රථයක් පොලිස් භාරයට ගෙන ඇත.
+A police inspector and a constable has been arrested by the Colombo Crimes Division, a police inspector and a constable has been arrested in Piliyandala.
 
-සංවිධානාත්මක අපරාධ මැඩලීම සඳහා දියත් කරන ලද විශේෂ මෙහෙයුම් සඳහා කොළඹ අපරාධ කොට්ඨාසයට අනුයුක්ත කර ඇති විශේෂ ඒකකය මගින්  සිදු කරන ලද විමර්ශනයකදී අනාවරණය වූ තොරතුරු අනුව පිළියන්දල මිරිස්වත්ත  සුපිරි වෙළඳ සැලක රථ ගාලේ නවතා තිබූ සුඛෝභෝගී මෝටර් රථයක් පරීක්ෂා කිරීමේදී වෑන් රථයේ ඉදිරිපස වම්පස ගමන් කළ පුද්ගලයාගේ ගමන් බෑගයේ  හොරයින් මත්කුඩු තොගය , අත්විලංගුව සහ විද්‍යුත් තරාදිය පොලිස් භාරයට ගෙන ඇත.
+Two intelligence officers of the Moratuwa Special Task Force have been arrested.
 
-...
+The two suspects have been taken into custody by 53 kilograms of drugs, a couple, and a luugoli van.
+
+According to a special unit of the Colombo Crimes Division, the special unit of the Colombo Crimes Division has been assigned to the Colombo Crimes Division for special operations launched.Hori has been taken into police custody by the drug, swallland and electricity.
+
+The police said that the driver of the police was identified as a police inspector at Moratuwa.
+
+So 35;A 32-year-old Inspector who assist the racket and the 32-year-old constable has been arrested in connection with the possession of drugs.
+
+The two suspects are to be produced in court. The Criminal Division is conducting further investigations.
+
+◼️
 
 [Data](articles/03a315b3.json)
+
+[Extended Data](ext_articles/03a315b3.ext.json)
 
 ---
 
@@ -2341,29 +2377,5 @@ The Railway Department has said that the railway services of the route have been
 [Data](articles/3d6d2b86.json)
 
 [Extended Data](ext_articles/3d6d2b86.ext.json)
-
----
-
-### Sri Lanka's longest stamp in Sri Lanka
-
-*2024-08-21 08:36:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-දිගම-මුද්දරය-ලංකාවෙන්/11-411477) · `si`
-
-Sri Lanka issued its longest stamp, 205mm, to commemorate the historical Sri Dalada Perahera. The stamp was unveiled at the President's House in Kandy, marking the end of the Kandy Esala Perahera. It was presented to the Diyawadana Nilame for display at the Sri Dalada Maligawa museum. President Ranil Wickremesinghe highlighted the importance of showcasing this heritage globally.
-
-🟩
-
-Senior Deputy Postal Rajitha issued the commemorative stamp of the post of posts to symbolize the Historical Sri Dalada Perahera with 205 mm as the world, symbolized by the Kandy Dalada Perahera with 205 mm.. Ranasinghe was presented to President Ranil Wickremesinghe yesterday.
-
-The stamp was launched at a function at the President's House in Kandy to conclude the end of the Kandy Esala Perahera.
-
-The stamps, souvenous tracts, and the early days of Sri Lanka and the first day were presented to the Diyawadana Nilame to deposit the collection at the Sri Dalada Maligawa museum.
-
-Addressing the gathering, President Ranil Wickremesinghe said that the historic Sri Dalada Perahera of Kandy is the full state patronage to be taken to the world as South Asia as South Asia.
-
-◼️
-
-[Data](articles/87240851.json)
-
-[Extended Data](ext_articles/87240851.ext.json)
 
 ---

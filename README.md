@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 19:36:55**
+As of **2024-08-21 19:55:37**
 
 ## Newspaper Stats
 
-*Scraped **41,922** Articles*
+*Scraped **41,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 2,701
 adalk | 3,864
 dailymirrorlk | 4,733
 adaderanalk | 4,907
-tamilmirrorlk | 5,431
-virakesarilk | 6,666
+tamilmirrorlk | 5,432
+virakesarilk | 6,674
 adaderanasinhalalk | 7,161
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,921 (100.0%) of 41,922 articles have been extended.
+41,922 (100.0%) of 41,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### தலதாவின் இடத்திற்கு கரு பரணவிதான
+
+*2024-08-21 19:33:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவின்-இடத்திற்கு-கரு-பரணவிதான/175-342585) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள பதவி விலகியதன் மூலம் ஏற்பட்ட வெற்றிடத்தை இரத்தினபுரி மாவட்டத்தில் கட்சியின் பட்டியலில் அடுத்ததாக உள்ள கரு பரணவிதான நிரப்ப உள்ளார்.
+
+◼️
+
+[Data](articles/e83fa4ab.json)
+
+---
+
+### பதுளையில் லொறி ஒன்று வீதியில் கவிழ்ந்து விபத்து! மூவர் பலத்த காயம்
+
+*2024-08-21 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191664) · `ta`
+
+பதுளை தென்னேபங்குவ பிரதான வீதியில் வெந்தேசி வத்தை பகுதியில் லொறி ஒன்று வீதியில் கவிழ்ந்து விபத்துக்குள்ளானதில் மூவர் பலத்த காயமடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+குறித்த விபத்துக்குள்ளான  லொறியில் பயணித்த மூவரும் கந்தகெட்டிய 21 ம் கட்டையை சேர்ந்த நபர்கள் என பொலிஸார் தெரிவித்தனர்.
+
+குறித்த லொறியின் வேகத்தை சாரதியால் கட்டுப்படுத்த முடியாமையே விபத்துக்கான காரணம் என பதுளை  தலைமையக பொலிஸ் போக்குவரத்து பிரிவினர் தெரிவித்தனர்.
+
+காயமடைந்த மூவரும் பதுளை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதாகவும் மேலதிக விசாரணைகளை பதுளை தலைமையக போக்குவரத்து பொலிஸார் மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3f01309a.json)
+
+---
 
 ### More about STF IP and Constable with heroin
 
@@ -66,6 +96,40 @@ Drugs were found at the Maldrolent Drug Trafficker in Kahathuduwa on June 9.
 
 ---
 
+### யாழில் இடம்பெற்ற மக்கள் போராட்ட முன்னணியின் பிரசார நடவடிக்கைகளில் வசந்த முதலிகே பங்கேற்பு
+
+*2024-08-21 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/191648) · `ta`
+
+மக்கள் போராட்ட முன்னணியின் பிரசார நடவடிக்கைகள் வசந்த முதலிகேவின் பங்கேற்புடன் இன்று புதன்கிழமை (21)  யாழ்ப்பாணத்தில் இடம்பெற்றது.
+
+யாழ்ப்பாணம் மத்திய பேருந்து நிலைய பகுதியில் மக்கள் போராட்ட முன்னணியின் கொள்கைகளை விளக்கும் துண்டுப்பிரசுரங்கள் இன்று காலை விநியோகிக்கப்பட்டன.
+
+அரகலய போராட்ட குழுவினருடன் இணைந்து முன்னிலை சோசலிசக் கட்சி, புதிய ஜனநாயக மாக்ஸிஸ லெனினிஸ கட்சி, சோசலிச மக்கள் மன்றம், உள்ளிட்ட ஜனநாயக சிவில் சமூகத்தினர் இணைந்து தேர்தல் அரசியலில் களமிறங்கியுள்ளனர்.
+
+மக்கள் போராட்ட முன்னணியின் ஜனாதிபதி வேட்பாளராக நூவான் போபகே குடைச் சின்னத்தில் போட்டியிடுகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6e1e0bdd.json)
+
+---
+
+### புதிய போஸ்டர்களை வெளியிடும் 'விடாமுயற்சி' படக்குழு
+
+*2024-08-21 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/191631) · `ta`
+
+அஜித் குமார் நடிப்பில் தயாராகி வரும் விடா முயற்சி படத்தில் நடிக்கும் நடிகர்கள் கணேஷ் சரவணன் மற்றும் தாசரதி ஆகியோர்களின் கதாபாத்திர தோற்ற புகைப்படத்தை படக் குழு வெளியிட்டுள்ளது.
+
+இயக்குநரும், நடிகரும், பின்னணி குரல் கலைஞரான மகிழ் திருமேனி இயக்கத்தில் உருவாகி வரும் 'விடா முயற்சி' எனும் திரைப்படத்தில் அஜித் குமார், அர்ஜுன், திரிஷா, ரெஜினா, ஆரவ், நிகில் நாயர், கணேஷ் சரவணன், தாசரதி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஓம் பிரகாஷ் ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சுபாஷ்கரன் தயாரிக்கிறார்.
+
+ஹைதராபாத்தில் நடைபெற்று வந்த இந்த திரைப்படத்தின் படப்பிடிப்பு நிறைவு பெற்றிருக்கிறது. இன்னும் சில நாட்கள் மட்டுமே படப்பிடிப்பு மீதமிருக்கும் நிலையில் இப்படத்தில் நடித்திருக்கும் நடிகர்களின் கதாபாத்திரத்தை.. தோற்றப் புகைப்படங்களாக படக்குழுவினர் தொடர்ச்சியாக வெளியிட்டு வருகிறார்கள்.
+
+...
+
+[Data](articles/9ca2369c.json)
+
+---
+
 ### US commends Sri Lanka’s commitment to 70% renewable energy by 2030
 
 *2024-08-21 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101402/us-commends-sri-lankas-commitment-to-70-renewable-energy-by-2030) · `en`
@@ -83,6 +147,60 @@ She stated that they discussed ongoing U.S. support, including the work of the U
 [Data](articles/b17ba415.json)
 
 [Extended Data](ext_articles/b17ba415.ext.json)
+
+---
+
+### மதுவரித் திணைக்களம் 7.9 பில்லியன் ரூபா வரி நிலுவையைச் செலுத்தவில்லை - சம்பிக்க ரணவக்க
+
+*2024-08-21 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191614) · `ta`
+
+உள்நாட்டு இறைவரித் திணைக்களம்,மதுவரித் திணைக்களம் மற்றும் சுங்கத் திணைக்களம்  இந்த ஆண்டு முதல் ஆறு மாத காலப்பகுதியில் மாத்திரம்  1680  பில்லியன் ரூபாவை திரட்டிக் கொண்டுள்ளன.
+
+மதுவரி திணைக்களம்  பிரதான மதுபான நிறுவனங்களிடமிருந்து 7.9 பில்லியன் ரூபா வரியை இதுவரை அறவிடவில்லை என பாராளுமன்ற வழிவகைகள் பற்றிய குழுவின் தலைவர் பாட்டலி  சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (21) இடம்பெற்ற அமர்வின் போது வழிவகைகள் பற்றிய பாராளுமன்ற குழுவின் அறிக்கையை சபைக்கு முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+அரச வருவாயை ஈட்டிக் கொள்வதற்கு பல யோசனைகைள முன்வைத்துள்ளோம். உள்நாட்டு இறைவரித் திணைக்களம், மதுவரித் திணைக்களம் மற்றும் சுங்கத் திணைக்களம் ஆகிய மூன்று அரச நிறுவனங்கள்  கடந்த ஆறு மாத காலப்பகுதிக்குள்  மாத்திரம் 1680.4 பில்லியன் ரூபாவை வருமானமாக ஈட்டியுள்ளன.
+
+...
+
+[Data](articles/22f582b8.json)
+
+---
+
+### ரிஷாத்தின் நிதியை இரத்துச்செய்து முஷாரப்புக்கு புதிதாக நிதி ஒதுக்கீடு செய்திருப்பதில் என்ன நியாயம் - சஜித் சபையில் கேள்வி
+
+*2024-08-21 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191610) · `ta`
+
+பன்முகப்படுத்தப்பட்ட நிதியில் ரிஷாத் பதியுதீனுக்கு ஒதுக்கப்பட்ட நிதியை இரத்துச்செய்துள்ள நிலையில் ஆளும் தரப்பு உறுப்பினர் முஷாரப் எம்.பிக்கு புதிதாக 300 மில்லியன் ரூபா ஒதுக்கப்பட்டிருப்பது தவறான நடவடிக்கையாகும். தேர்தல் காலத்தில் இவ்வாறு செயற்படுவது தொடர்பில் தேர்தல் ஆணைக்குழு நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+தேர்தல் ஒன்று இடம்பெற இருக்கும் சமயத்தில் அரச நிதி பயன்படுத்திக்கொண்டு தேர்தல் நடவடிக்கைகளில் ஈடுபடுவது சட்டவிராேதமான குற்றச்செயலாகும். பாராளுமன்ற உறுப்பினர் ரிஷாத் பதியுதீனுக்கு ஒதுக்கப்பட்டிருந்த பன்முகப்படுத்தப்பட்ட நிதி, அவர் எதிர்க்கட்சியில் எங்களுடன் இணைந்து செயற்பட தீர்மானம் எடுத்த காரணத்தினால் குறித்த பன்முகப்படுத்தப்பட்ட நிதியை இல்லாமல் செய்திருக்கிறது.
+
+அதேநேரம் அரச தரப்புக்கு ஆதரவளிக்க தீர்மானித்துள்ள பாராளுமன்ற முஷாரப்புக்கு  புதிதாக 300 மில்லியன் ரூபா அபிவிருத்திக்கு என ஒதுக்கப்பட்டிருக்கிறது. ஆனால் அந்த பணத்தை இவர்கள் தேர்தலுக்காகவே பயன்படுத்த இருக்கின்றனர்.அரச அதிகாரிகள் இந்த தவறை செய்ய வேண்டாம்.
+
+...
+
+[Data](articles/0ec8287a.json)
+
+---
+
+### முதலாவது டெஸ்டில் தடுமாறுகிறது இலங்கை
+
+*2024-08-21 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191661) · `ta`
+
+இங்கிலாந்துக்கு எதிராக மென்ச்செஸ்டர், ஓல்ட் ட்ரபோர்ட் விளையாட்டரங்கில் இன்று புதன்கிழமை (21) ஆரம்பமான ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் தொடரின் முதலாவது போட்டியில் இலங்கை அணி பெரும் தடுமாற்றம் அடைந்துள்ளது.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை முதலாம் நாள் பகல் போசன இடைவேளையின்போது 5 விக்கெட்களை இழந்து 80 ஓட்டங்களைப் பெற்று மிகவும் இக்கட்டான நிலையில் இருக்கிறது.
+
+திமுத் கருணார்டன (2), நிஷான் மதுஷ்க (4), ஏஞ்சலோ மெத்யூஸ் (0), குசல் மெண்டிஸ் (24), தினேஷ் சந்திமால் (17) ஆகிய ஐவரும் அநாவசியமாக ஆட்டம் இழந்தனர்.
+
+இடைவேளையின்போது இலங்கை அணியின் கடைசி துடுப்பாட்ட வீரர்களான அணித் தலைவர் தனஞ்சய டி சில்வா (24), கமிந்து மெண்டிஸ் (5) ஆகிய இருவரும் ஆட்டம் இழக்காதிருந்தனர்.
+
+பந்துவீச்சில் கிறிஸ் வோக்ஸ் 17 ஓட்டங்களுக்கு 2 விக்கெட்களையும் ஷொயெப் பஷிர் 7 ஓட்டங்களுக்கு ஒரு விக்கெட்டையும் மார்க் வூட் 13 ஓட்டங்களுக்கு ஒரு விக்கெட்டையும் கைப்பற்றியுள்ளனர்.
+
+◼️
+
+[Data](articles/eb162b17.json)
 
 ---
 
@@ -202,6 +320,24 @@ Rescuers have rushed throughout the province to assist the affected areas, as he
 
 ---
 
+### டெங்கு நோயாளர்களின் எண்ணிக்கை 35,000 கடந்தது
+
+*2024-08-21 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191651) · `ta`
+
+நாட்டில் டெங்கு நோயாளர்களின் எண்ணிக்கை 35,000 கடந்துள்ளதாக தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+
+அதன்படி, இம்மாதம் 20 ஆம் திகதி வரை 35,375 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர்.  அவர்களில் அதிகளவாக 8,599 நோயாளர்கள் கொழும்பு மாவட்டத்தில் மட்டும் பதிவாகியுள்ளனர்.
+
+மேல் மாகாணத்தில் இதுவரை 14,448 பேர் பதிவாகியுள்ளதோடு, மாகாண ரீதியாக அதிகளவாக இம்மாதத்தில் 2,630 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர்.
+
+நாட்டில் பல பகுதிகளில் பெய்து வரும் பலத்த மழையினால் டெங்கு நோயைத் தடுக்க சுற்றுப்புறங்களில் தூய்மையைப் பேணுமாறும், நுளம்புகள் பெருகும் இடங்களை அகற்றுமாறும் சுகாதார அதிகாரிகள் மக்களை வலியுறுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/82de575c.json)
+
+---
+
 ### Police seize 4 pythons and marsh crocodile found hidden in pet shop
 
 *2024-08-21 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101401/police-seize-4-pythons-and-marsh-crocodile-found-hidden-in-pet-shop) · `en`
@@ -271,6 +407,20 @@ Foreign media reports that these rats have destroyed a number of important docum
 [Data](articles/0e7a3e3e.json)
 
 [Extended Data](ext_articles/0e7a3e3e.ext.json)
+
+---
+
+### வடிவேல் சுரேஷ்  இராஜாங்க அமைச்சர் : அலி ஸாஹிர் மௌலானா அமைச்சரவை அந்தஸ்தற்ற அமைச்சராக பதவிப்பிரமாணம் !
+
+*2024-08-21 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/191646) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தொழிலாளர் இராஜாங்க அமைச்சராக ஜனாதிபதி முன்னிலையில் சத்தியப் பிரமாணம் செய்துகொண்டார்.
+
+இதேவேளை, ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினர் அலி ஸாஹிர் மௌலானா இன்று புதன்கிழமை (21) முதல் அமுலுக்கு வரும் வகையில் அமைச்சரவை அந்தஸ்த்து அல்லாத அபிவிருத்தித் திட்ட அமைச்சராக ஜனாதிபதி முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+◼️
+
+[Data](articles/d95ee9b0.json)
 
 ---
 
@@ -803,6 +953,8 @@ Quo vadis domine? ‘Where are you going, Lord?’, Peter asks the risen Christ 
 ...
 
 [Data](articles/b7e1686b.json)
+
+[Extended Data](ext_articles/b7e1686b.ext.json)
 
 ---
 
@@ -2181,199 +2333,5 @@ The Supreme Court declared this ruling while dismissing the petitions filed by H
 [Data](articles/fff87f7f.json)
 
 [Extended Data](ext_articles/fff87f7f.ext.json)
-
----
-
-### Bandulal Bandaraigoda sworn in
-
-*2024-08-21 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200164) · `si`
-
-Mr. Bandulal Bandaraigoda was sworn in as a Member of Parliament, replacing Manusha Nanayakkara whose party membership was revoked by the Supreme Court due to legal issues.
-
-🟩
-
-Mr. Bandulal Bandaraigoda took oaths as a Member of Parliament in Parliament today (21) before Speaker Mahinda Yapa Abeywardena.
-
-He was a Member of Parliament by the Galle District Member of Parliament by the loss of Manusha Nanayakkara to losing his parliamentary seat.
-
-The Supreme Court decided to lose the party membership of Manusha Nanayakkara and Harin Fernando.
-
-The Supreme Court issued the verdict by refusing the petitions presented by the Ministers who were presented with the decision that the congenial power would be contradicted by the law to deprive their party membership.
-
-◼️
-
-[Data](articles/4e9d9ac4.json)
-
-[Extended Data](ext_articles/4e9d9ac4.ext.json)
-
----
-
-### Man arrested for killing mother-in-law, injuring wife and daughter
-
-*2024-08-21 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101387/man-arrested-for-killing-mother-in-law-injuring-wife-and-daughter) · `en`
-
-An individual has been arrested for allegedly murdering his mother-in-law and causing serious injuries to his wife and daughter at Lewangama.
-
-Police said an investigation was launched after receiving a complaint regarding the incident, where a woman had been killed and two other females had been injured, which had occurred last evening (20) in the Lewangama area of the Galapitamada police division.
-
-The deceased, a 55-year-old woman from Atalawatta, Lewangama, was reportedly involved in an argument with the suspect over a monetary dispute.
-
-The suspect had allegedly struck her on the head with a rock, causing severe injuries. She had later succumbed to injuries after being admitted to Karawanella Base Hospital.
-
-Police investigation also revealed that the suspect had injured his wife and daughter with a sharp weapon during the altercation.
-
-The 44-year-old suspect has been arrested, and Galapitamada Police are continuing further investigations into the incident.
-
-◼️
-
-[Data](articles/d6aa28ac.json)
-
-[Extended Data](ext_articles/d6aa28ac.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-08-21 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200163) · `si`
-
-The Parliamentary Council has started its session, focusing on legislative discussions and policy decisions.
-
-🟩
-
-◼️
-
-[Data](articles/1840dc05.json)
-
-[Extended Data](ext_articles/1840dc05.ext.json)
-
----
-
-### Namal's first meeting today
-
-*2024-08-21 09:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-முதலாவது-கூட்டம்-இன்று/175-342547) · `ta`
-
-Today marks the inaugural election campaign meeting for Sri Lanka PA's presidential candidate Namal Rajapaksa in Anuradhapura, aiming to boost his chances in the upcoming elections.
-
-🟩
-
-Parliamentarian Sanjeewa Eneharanna said that the first election campaign meeting of the Sri Lanka PA will be held in Anuradhapura today (21).
-
-The Sri Lanka PA has organized a massive election campaign meeting in Kadabanaha, Anuradhapura at 2 pm today to win the presidential candidate Namal Rajapaksa.
-
-He also said that the first campaign meeting was brought to Anuradhapura as a victory for the presidential election campaign.. Remble
-
-◼️
-
-[Data](articles/10a75b3e.json)
-
-[Extended Data](ext_articles/10a75b3e.ext.json)
-
----
-
-### Namal's first presidential election campaign meeting today
-
-*2024-08-21 09:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-முதலாவது-ஜனாதிபதி-தேர்தல்-பிரச்சார-கூட்டம்-இன்று/175-342547) · `ta`
-
-Namal Rajapaksa's inaugural presidential campaign meeting took place today in Anuradhapura, organized by the Sri Lanka PA to boost his candidacy. The event, held in Kadabanaha, aimed to showcase support for his election bid, marking a significant start to his campaign.
-
-🟩
-
-Parliamentarian Sanjeewa enemy said that the first election campaign meeting of the Sri Lanka PA will be held in Anuradhapura today.
-
-The Sri Lanka PA has organized a massive election campaign meeting in Kadabanaha, Anuradhapura at 2 pm today to win the presidential candidate Namal Rajapaksa.
-
-He also said that the first campaign meeting was brought to Anuradhapura as a victory for the presidential election campaign.. Remble
-
-◼️
-
-[Data](articles/e89b07ed.json)
-
-[Extended Data](ext_articles/e89b07ed.ext.json)
-
----
-
-### Police officers arrested with heroin
-
-*2024-08-21 09:08:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹெரோயினுடன்-பொலிஸ்-அதிகாரிகள்-கைது/175-342546) · `ta`
-
-A police inspector and constable were arrested by the Colombo Crime Unit in Piliyandala for possessing about a kilogram of heroin.
-
-🟩
-
-Police Inspector and Constable, who had about a kilogram of heroin, have been arrested by the Colombo Crime Unit in Piliyandala.. Remble
-
-◼️
-
-[Data](articles/d9cca733.json)
-
-[Extended Data](ext_articles/d9cca733.ext.json)
-
----
-
-### The echo of the death of Sindhuja;Various resolutions at the Mannar District General Hospital
-
-*2024-08-21 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191585) · `ta`
-
-An emergency meeting at Mannar District General Hospital discussed future improvements to ensure safety and efficiency. Key officials including the Government Agent plan to address concerns directly with the President. Training sessions will be introduced to enhance patient care.
-
-🟩
-
-An emergency discussion was held at the Mannar District General Hospital on Tuesday evening (20) under the organizing of the Mannar District Public Organizations Union.
-
-Mannar District Government Agent K. Kanageswaran, Additional Government Agent, Divisional Secretary, Assistant District Secretary, Regional Health Services Director, Hospital Director, Hospital Director, Blessed Experts, Civil Society RepresentativesWere attending.
-
-A number of issues were widely investigated in the wake of the future move of the Mannar District General Hospital and that the people would come to the hospital without fear.
-
-The Government Agent said he was writing a letter to the President seeking a solution to some issues.
-
-It was also decided to provide training on the patient's approach to the patient.
-
-◼️
-
-[Data](articles/ce48951b.json)
-
-[Extended Data](ext_articles/ce48951b.ext.json)
-
----
-
-### India’s Petronet to supply Sri Lanka for 5-years via LNG Iso containers
-
-*2024-08-21 08:59:00* · [`economynextcom`](https://economynext.com/indias-petronet-to-supply-sri-lanka-for-5-years-via-lng-iso-containers-177456/) · `en`
-
-ECONOMYNEXT – An agreement to supply liquefied natural gas to a power plant run by Sri Lanka’s LTL Holdings will be effective for 5 years and will be extended by mutual agreement, according to a Bombay stock exchange filing by Petronet India Limited.
-
-The LNG will be loaded from Petronet’s Kochin terminal and brought by ship to Sri Lanka and taken overland to the 350 Megawatt ‘Sobadanavi’ combined cycle power plant built by LTL Holdings in Kerawalapitiya near Colombo.
-
-The ISO Containers will be unloaded at Colombo Port and stored in a  designated storage area, Sri Lanka’s Energy Ministry said. The containers will then be transported to a storage and regasification terminal. The regasified LNG will be delivered to the power plant through a pipeline.
-
-The proposal is an interim solution to start LNG for power generation in Sri Lanka on initiation by Government of Sri Lanka and the Government of India, the island’s Energy Ministry said.
-
-...
-
-[Data](articles/410f5207.json)
-
-[Extended Data](ext_articles/410f5207.ext.json)
-
----
-
-### Saudi Arabia has provided US $ 131 billion humanitarian aid so far
-
-*2024-08-21 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191582) · `ta`
-
-Saudi Arabia, under Kings Abdul Rahman, Salman, and Prince Muhammad, has donated $131 billion from 1975 to 2024 to 171 countries, implementing 7,090 humanitarian, relief, and development programs. In 2023, it ranked fourth globally for humanitarian aid, spending $1.2 billion, 3.6% of total aid to developing nations facing disasters. The Humanitarian Aid and Relief Center, founded in 2015, has launched 3,009 initiatives in 100 countries, providing over $6.94 billion in aid. Notably, Saudi Arabia has significantly contributed to aiding Yemen, Gaza, Syria, Turkey, and Sri Lanka, including free eye surgeries and various support programs.
-
-🟩
-
-King Abdul Rahman bin Abdul Aziz has been in the forefront of humanitarian aid in the world, the Saudi Arabian Kingdom. The name is still being held by Saudi Arabian King Salman bin Abdul Aziz and Prince Muhammad bin Salman. The Saudi government is providing this charity and humanitarian aid to overcome the suffering of the people of the world.
-
-From 1975 to 2024, Saudi Arabia has donated and assisted $ 131 billion to 171 countries and implemented 7090 humanitarian, relief and development programs.
-
-By the end of 2023, the Saudi has been identified as the fourth largest donation of humanitarian and relief aid worldwide this year.. It is noteworthy that the Saudi has spent US $ 1.2 billion this year alone. According to the United Nations Financial Monitoring Service (FTSS), this amount is 3.6% of all the assistance provided to other countries that are facing developing countries and disasters and crises.
-
-...
-
-[Data](articles/8b8192ed.json)
-
-[Extended Data](ext_articles/8b8192ed.ext.json)
 
 ---

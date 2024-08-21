@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 10:36:41**
+As of **2024-08-21 10:55:17**
 
 ## Newspaper Stats
 
-*Scraped **41,820** Articles*
+*Scraped **41,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,520
 dailyftlk | 2,701
-adalk | 3,848
+adalk | 3,849
 dailymirrorlk | 4,733
-adaderanalk | 4,894
+adaderanalk | 4,895
 tamilmirrorlk | 5,409
 virakesarilk | 6,648
 adaderanasinhalalk | 7,142
@@ -26,11 +26,43 @@ adaderanasinhalalk | 7,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,820 (100.0%) of 41,820 articles have been extended.
+41,820 (100.0%) of 41,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### බන්දු ලාල් බණ්ඩාරිගොඩ මන්ත්‍රීවරයෙක් ලෙස දිවුරුම් දෙයි
+
+*2024-08-21 10:29:18* · [`adalk`](https://www.ada.lk/breaking_news/බන්දු-ලාල්-බණ්ඩාරිගොඩ-මන්ත්‍රීවරයෙක්-ලෙස-දිවුරුම්-දෙයි/11-411481) · `si`
+
+බන්දු ලාල් බණ්ඩාරිගොඩ මහතා අද(21දා) පෙරවරුවේ කථානායක මහින්ද යාපා අබේවර්ධන මහතා ඉදිරියේ පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ලෙස දිවුරුම් දුන්නේය.
+
+ශ්‍රේෂ්ඨාධිකරණ තීන්දුවත් සමග මනූෂ නානායක්කාර මහතාගේ මන්ත්‍රී ධුරය අහෝසි වූ අතර, ඒ අනුව බණ්ඩාරිගොඩ මහතා අද දිනයේ එලෙස හිස් වූ මන්ත්‍රී ධුරයේ දිවුරුම් දුන්නේය.
+
+◼️
+
+[Data](articles/e047261d.json)
+
+---
+
+### Namal Rajapaksa’s maiden rally in A’pura today
+
+*2024-08-21 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101390/namal-rajapaksas-maiden-rally-in-apura-today) · `en`
+
+MP Sanjeeva Edirimanna says that the inaugural public rally of the Sri Lanka Podujana Peramuna (SLPP) presidential candidate Namal Rajapaksa will be held today (21) in Anuradhapura.
+
+He said that is a significant achievement for the SLPP to hold this rally in Anuradhapura.
+
+According to Edirimanna, the rally, set to take place at 2.00 p.m. today in the Kadapanaha area, aims to elevate the victory of their presidential candidate, MP Namal Rajapaksa.
+
+He also emphasized that bringing the maiden rally to Anuradhapura is an important political move and represents a notable victory for the party.
+
+◼️
+
+[Data](articles/a47bbf08.json)
+
+---
 
 ### An unknown corpse lands a coastal
 
@@ -2209,57 +2241,5 @@ The petitioner has filed these cases through the Attorneys of the Inquitus Law I
 [Data](articles/c93aa2f0.json)
 
 [Extended Data](ext_articles/c93aa2f0.ext.json)
-
----
-
-### State fertilizer firms recorded recorded profits
-
-*2024-08-20 17:03:09* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-පොහොර-සමාගම-වාර්තාගත-ලාභයක්-ලබයි/11-411465) · `si`
-
-In a merger of two fertilizer companies in Sri Lanka, the State Fertilizer Company reported its highest profit ever. This success was discussed during a progress review meeting led by Agriculture Minister Mahinda Amaraweera. The merger saw 272 employees retire, and the company's financial health is described as robust, despite the nation's economic challenges. The company's profitability extends to various crops including rice, tea, coconut, rubber, and cinnamon.
-
-🟩
-
-The government belonging to the Government of Ceylon Fertilizer and the company, which was held in two fertilizer companies, was combined in the State Fertilizer Company, which had a record profit in the past year.Says.
-
-He was speaking at a progress review meeting held by the Minister of Agriculture and Plantation Industry Mahinda Amaraweera on the advancement of state fertilizer and fertilizer in the Yala season as well as fertilizer in the next season.
-
-The two fertilizer companies, which were speaking at the occasion, was combined by Dr. Jagath Perera, who was converted to Dr. Jagath Perera.
-
-Accordingly, Ceylon Fertilizer Company has made a profit of Rs.
-
-At the merger of these two companies, 272 employees voluntarily retired.
-
-The Chairman, the Chairman, said that the financial condition of the state fertilizer is very good at present.
-
-...
-
-[Data](articles/123e5ee2.json)
-
-[Extended Data](ext_articles/123e5ee2.ext.json)
-
----
-
-### Tangalan- writer Tamil Prabha is proud of Buddhism
-
-*2024-08-20 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/191547) · `ta`
-
-"Thangalan," starring Sivakarthikeyan and directed by Pa. Ranjith, has grossed over Rs 68 crore in Tamil and Telugu. Writer Tamil Prabha, a dialogue editor, praised Ranjith for introducing her to cinema and for guiding her screenplay writing. She highlighted the significance of incorporating Buddhist elements into the film, making it a unique creation in Indian cinema that promotes Hindu mythology. The film crew thanked fans and supporters in Chennai, emphasizing the importance of audience engagement and the film's impact on moving viewers to a higher level of understanding.
-
-🟩
-
-'Thangalan', which was ready to star in more than a thousand screens around the world on August 15, starring Sion Vikram, and continued to win the world.. The film, which is being produced by Studio Green, directed by Ba Ranjith, has been reported to have grossed over Rs 68 crore in Tamil and Telugu.
-
-In this case, the film crew was united in Chennai to thank the fans, the audience and the supporters who supported the film.. All the film crew participated.
-
-Speaking at the event, Tamil Prabha, a writer, storyteller and dialogue editor, said:. Thanks to Pa Ranjith who introduced me to the cinema.
-
-Pa, though I am a writer, is the technique of writing the screenplay for the movie. Ranjith just taught. When I was writing a version for the film Thangalan, I wrote that a Buddha statue would be available when I was digging for a well in the village of Thangalan.. He was very excited when he told him this. He praised the idea that it was better.
-
-...
-
-[Data](articles/81751229.json)
-
-[Extended Data](ext_articles/81751229.ext.json)
 
 ---

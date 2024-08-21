@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 04:37:04**
+As of **2024-08-22 04:55:36**
 
 ## Newspaper Stats
 
-*Scraped **41,992** Articles*
+*Scraped **41,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,108 @@ adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
 tamilmirrorlk | 5,443
-virakesarilk | 6,681
+virakesarilk | 6,686
 adaderanasinhalalk | 7,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,992 (100.0%) of 41,992 articles have been extended.
+41,992 (100.0%) of 41,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### இலவச விசா வசதியின் கீழ் 35 நாடுகளின் குடிமக்களுக்கு நாட்டிற்குள் நுழைய வாய்ப்பு
+
+*2024-08-22 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191674) · `ta`
+
+35 நாடுகளின் குடிமக்களுக்கு இலவச விசா வசதியின் கீழ் நாட்டுக்குள் பிரவேசிப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+இங்கிலாந்து, அமெரிக்கா, கனடா, ஜெர்மனி, ஆஸ்திரேலியா, சவுதி அரேபியா, சீனா, இந்தியா, ரஷ்யா, தென் கொரியா, ஜப்பான் உள்ளிட்ட 35 நாடுகள் இதில் சேர்ந்துள்ளன.
+
+அக்டோபர் 1, 2024 முதல் 06 மாத காலத்திற்கு இந்த வாய்ப்பு கிடைக்கும்.
+
+ஐக்கிய இராச்சியம், ஜெர்மனி, நெதர்லாந்து, பெல்ஜியம், ஸ்பெயின், அவுஸ்திரேலியா, டென்மார்க், போலந்து, கசகஸ்தான், சவூதி அரேபியா,. ஐக்கிய அரபு எமிரேட்ஸ், நேபாளம், சீனா, இந்தியா, இந்தோனேஷியா, ரஷ்யா, தாய்லாந்து, மலேஷியா, ஜப்பான், பிரான்ஸ்,  அமெரிக்கா, கனடா, செக் குடியரசு, இத்தாலி, சுவிட்சர்லாந்து, ஆஸ்திரியா, இஸ்ரேல், பெலாரஸ், ஈரான், சுவீடன், தென் கொரியா, கத்தார், ஓமன், பஹ்ரைன், நியூசிலாந்து
+
+◼️
+
+[Data](articles/6fddfda2.json)
+
+---
+
+### நாம் திருடர்களை பாதுகாப்பதில்லை : உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான  சூத்திரதாரிகளின் மீது நீதியை நிலை நாட்டுவோம் - சஜித் பிரேமதாச
+
+*2024-08-22 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/191673) · `ta`
+
+தன்னையும் தனது குழுவில் உள்ளவர்களையும்    வைன் ஸ்டோர்களையும், மதுபான சாலை அனுமதி பத்திரங்களையும், சலுகைகளையும் வரப்பிரசாதனங்களையும் காட்டி விலைக்கு வாங்க முடியாது.
+
+பணத்துக்கும் பதவிகளுக்கும் எனது சுய கௌரவத்தை  காட்டி கொடுத்து ஏலத்தில் செல்வதும் இல்லை. தான் இந்த நாட்டை விற்கவோ,  ஏலத்தில் விடவோ, இந்த மக்களை காட்டிக் கொடுக்கவோ ஒருபோதும் முற்படுவதில்லை.  எனவே என் மீது நம்பிக்கை கொள்ளுங்கள் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச  வேண்டுகோள் விடுத்தார்.
+
+2024 ஜனாதிபதித் தேர்தலுக்கான ஐக்கிய மக்கள் சக்தியின் எட்டாவது மக்கள் வெற்றிப் பேரணி எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் கட்டுநாயக்க நகரில் புதன்கிழமை  (21) மாலை இடம்பெற்றது. இதில், ஐக்கிய மக்கள் சக்தியைச் சேர்ந்த அரசியல் தலைவர்கள் போலவே அப்பகுதியை சேர்ந்த ஏராளமான மக்கள் கலந்து கொண்டிருந்தனர். இதில் கலந்து கொண்டு  உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/daebebd1.json)
+
+---
+
+### லுணுகலையில் இரு குழுக்களுக்கிடையில் ஏற்பட்ட மோதல்; இருவர் வைத்தியசாலையில்
+
+*2024-08-22 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191672) · `ta`
+
+லுணுகலை கல்லு குதத்தை ஏலத்தில் பெற வந்த இரு குழுக்களுக்கிடையில் ஏற்பட்ட மோதலில் இருவர் லுணுகலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக லுணுகலை பொலிஸார் தெரிவித்தனர்.
+
+லுணுகலை நகரில் உள்ள கல்லு குதம் இன்றையதினம் ஏலத்தில் விடப்பட இருந்த நிலையில் குருணாகலை மற்றும் பதுளை பகுதியில் உள்ள இரண்டு குழுக்கள் குறித்த கல்லு குதத்தை ஏலத்தில் பெறுவதற்கு முற்பட்ட போது இரு குழுக்களுக்கிடையில் ஏற்பட்ட வாக்குவாதம் கைகலப்பாக மாறியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+காயமடைந்த இருவர் லுணுகலை வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதுடன் சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை லுணுகலை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/b7113e34.json)
+
+---
+
+### 2024 இன் முதல் 6 மாதங்களில் 9 பில்லியன் அமெரிக்க டொலர் ஏற்றுமதி வருமானம் கிடைத்துள்ளது – திலும் அமுனுகம
+
+*2024-08-22 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/191671) · `ta`
+
+இந்த வருடத்தின் கடந்த ஆறு மாதங்களில் ஒன்பது (9) பில்லியன் அமெரிக்க டொலர் ஏற்றுமதி வருமானம் கிடைத்துள்ளதாக முதலீட்டு மேம்பாட்டு இராஜாங்க அமைச்சர் திலும் அமுனுகம தெரிவித்தார்.
+
+அத்துடன், கடந்த ஆறு மாதங்களில் இலங்கை சுமார் 800 மில்லியன் அமெரிக்க டொலர் பெறுமதியான முதலீடுகளுக்கான உடன்படிக்கைகளை ஏற்படுத்திக்கொண்டிருப்பதாகவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டினார்.
+
+‘இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்’ என்ற தலைப்பில் புதன்கிழமை (21) ஜனாதிபதி ஊடக மையத்தில் நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்ட முதலீட்டு ஊக்குவிப்பு இராஜாங்க அமைச்சர் திலும் அமுனுகம இதனைக் குறிப்பிட்டார்.
+
+“இலங்கை முதலீட்டுச் சபை பதினைந்து முதலீட்டு வலயங்களுக்கான வசதிகளை வழங்குவதுடன் அந்த முதலீட்டு வலயங்களில் தற்போது 1575 நிறுவனங்கள் செயற்பாட்டுப் பணிகளை முன்னெடுத்து வருகின்றன. இதில் 500,000 இற்கும் மேற்பட்டோர் பணிபுரிகின்றனர். தற்போதைய அரசாங்கத்தின் புதிய முதலீட்டுத் திட்டத்தின் கீழ் ஏழு புதிய முதலீட்டு வலயங்களை நிறுவத் திட்டமிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/b966bbbc.json)
+
+---
+
+### இலங்கைக்கு புதிதாக நியமனம் பெற்ற மூன்று தூதுவர்களும் இரண்டு உயர்ஸ்தானிகர்களும் ஜனாதிபதியிடம் நற்சான்றிதழ்களை கையளித்தனர்
+
+*2024-08-22 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191670) · `ta`
+
+இலங்கைக்கு புதிதாக நியமிக்கப்பட்டுள்ள மூன்று தூதுவர்கள் மற்றும் இரண்டு உயர்ஸ்தானிகர்கள் புதன்கிழமை (21) கொழும்பு கோட்டை ஜனாதிபதி மாளிகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் தமது நற்சான்றிதழ்களை கையளித்தனர்.
+
+2.  டிரின் தி டாம் (Trinh Thi Tam) - தூதுவர் - வியட்நாம் சோசலிசக் குடியரசு
+
+3.  மாலர் தன் டைக் (Marlar Than Htaik)  - தூதுவர் - மியான்மார்
+
+4.  பெர்சி பெட்சன் சந்தா (Percy Patson Chanda)  - உயர்ஸ்தானிகர் - சிம்பாப்வே
+
+நற்சான்றிதழ்களை ஏற்றுக்கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க, புதிய தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர்களுடன் சிநேகபூர்வ உரையாடலிலும் ஈடுபட்டார்.
+
+வெளிநாட்டலுவல்கள் அமைச்சர் மற்றும் நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியல் யாப்பு மறுசீரமைப்பு அமைச்சர் அலி சப்ரி, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோரும் இந்நிகழ்வில் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/9c075e8d.json)
+
+---
 
 ### Confusion in voting among Tamils
 
@@ -2209,137 +2299,5 @@ The Maligakanda Magistrate's directive to the law was filed against the law, who
 [Data](articles/6b097636.json)
 
 [Extended Data](ext_articles/6b097636.ext.json)
-
----
-
-### A 71-year-old adult is not the love of 67 years old
-
-*2024-08-21 13:57:41* · [`adalk`](https://www.ada.lk/breaking_news/67-හැවිරිදි-විවාහක-කතගේ-ආදරය-නොලැබුණයි-71-හැවිරිදි-වැඩිහිටියෙක්-ජීවිතයට-සමුදෙයි/11-411489) · `si`
-
-Alan, a 71-year-old, was murdered outside his temporary shelter in Kohuwala. The crime scene included two plastic bottles and a ground-overland vehicle. Investigations suggest Alan had a brief phone contact with someone before his death. A woman reported seeing him alive earlier, but he was found dead later. The case is under investigation by the Kohuwala Police Station.
-
-🟩
-
-A man's body was killed in front of a two storied house in Kohuwala Road, Kohuwala police said.
-
-The deceased has been identified as Alan, aged 71. Police found two plastic bottles of a faction and ground-overlands where the corpse was fallen.
-
-Police investigations have revealed that the deceased has been a temporary shelter in the late last year.
-
-The 69-year-old home owners have been leaving home due to the fact that the cargo had promised the room.
-
-After that, he had tried to maintain a telephone briefly with a number of bottles to the Kadawala road to the Kadawala road in Kohuwala, evening, and said she too would kill the woman in Kohuwala.Police say it is.
-
-The woman had come to the police and arrived at the police and returned to the police with police officers, police said.
-
-When police officers immediately operated in the 1990 policemen
-
-The man was reportedly deceased, police said.
-
-...
-
-[Data](articles/c703ed20.json)
-
-[Extended Data](ext_articles/c703ed20.ext.json)
-
----
-
-### 4 million ransom requested mararior
-
-*2024-08-21 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200175) · `si`
-
-A 58-year-old man from Kiriwattuduwa, suspected of demanding a 4 million rupee ransom from a retiree in Bandaragama, was arrested along with a parcel and a motorcycle used for extortion. The victim, who received numerous threats, reported the case to the police after being assured the issue was resolved. Investigations reveal the suspect has a criminal history, including a murder charge.
-
-🟩
-
-The Panadura Division Criminal Investigation Division has been arrested in Bandaragama at Bandaragama.
-
-The suspect has also seized a small parcel and a motorcycle, which contains a small parcel and a motorcycle used to give the suspect as extortion money.
-
-Designation of the residents of Bandaragama, and two years ago, the land of the Horana, a large number of threatening telephone calls had been sold for a few days, and in the face of threatening telephone calls, the couple, who had come to a few days ago, the couple was given to the callThe incident was revealed that a ransom amounted to Rs.
-
-The complainant had told the police that no police had lodged a complaint with the interests of the life.
-
-A 290 perches of land belonging to a famous private company in Bandaragama has been sold for Rs.
-
-About two weeks later, the company is unauthorized that the company is owned by the company and cannot enter into the company.
-
-...
-
-[Data](articles/d380ed27.json)
-
-[Extended Data](ext_articles/d380ed27.ext.json)
-
----
-
-### Worker who was abused by the previous school children arrested
-
-*2024-08-21 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200174) · `si`
-
-In Bathlapur, India, a 23-year-old cleaner was arrested after two preschoolers allegedly abused him. The incident led to parental outrage, resulting in school damage and protests. Police intervention controlled the situation, restoring order and arresting the suspect, promising legal action.
-
-🟩
-
-The warm athlest in Bhalapur, India, was created in Bathlapour, India, with two pre-school abuse.
-
-The two girls and 4 years have been abused a 23 year old worker who cleanses the previous school.
-
-Someone had informed their parents about the two suspects, and angry parents and villagers have come to school and damaged it.
-
-The police intervened to suppress provocation and interrupted them to the Bathlapur Railway Station.
-
-The police had been able to control the protests and restored the railway services.
-
-The suspect has been arrested by the police and confirmed that the legal action will be taken against him.
-
-◼️
-
-[Data](articles/41c43554.json)
-
-[Extended Data](ext_articles/41c43554.ext.json)
-
----
-
-### Covid-19 Policy – The Breach Of Trust
-
-*2024-08-21 13:47:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/covid-19-policy-the-breach-of-trust/) · `en`
-
-Quo vadis domine? ‘Where are you going, Lord?’, Peter asks the risen Christ whom he meets along the Appian way. ‘Romam eo iterum crucifigi’, Christ replies. ‘I am going to Rome in order to be crucified again.
-
-...
-
-[Data](articles/b7e1686b.json)
-
-[Extended Data](ext_articles/b7e1686b.ext.json)
-
----
-
-### Michelle Obama retaliates to Trump
-
-*2024-08-21 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/191619) · `ta`
-
-At the US Democratic Party conference, Michelle Obama criticized Donald Trump's character, highlighting his racist comments and narrow worldview. She mentioned Trump's mockery of Black people during his campaign and questioned his qualifications for presidency. Obama emphasized Trump's promotion of hate and lies, contrasting them with genuine ideas and solutions. She drew parallels between the excitement around Kamala Harris's nomination and the hopeful atmosphere of her husband's 2008 campaign, describing it as magical and deeply moving.
-
-🟩
-
-Speaking at the US Democratic Party conference, Michelle Obama has strongly criticized former President Donald Trump's character and his racist ideas.
-
-His limited short view of the world, he said that the two hard workers, who were educated and the winners of life, were afraid of the existence of the two.
-
-Mitchell Obama has pointed out that Trump has mocked during his campaign as black tours.
-
-Mitchell Obama has questioned who is going to tell him that Trump is currently searching for the post of President (President).
-
-Michelle Obama has claimed that Trump is the one who proposes ugly woman hatred and racist lies rather than Trump's real ideas and solutions.
-
-Michelle Obama said the feelings about Kamala Haris in the National Conference of the Democratic Party and the United States were like the feelings of her husband's presidential election campaign in 2008.
-
-He said that there is a miraculous magic in the air and a feeling of deeply buried deeply.
-
-◼️
-
-[Data](articles/bc1c908b.json)
-
-[Extended Data](ext_articles/bc1c908b.ext.json)
 
 ---

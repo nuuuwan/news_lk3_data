@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 01:06:42**
+As of **2024-08-22 00:54:15**
 
 ## Newspaper Stats
 
-*Scraped **41,974** Articles*
+*Scraped **41,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,710
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
-tamilmirrorlk | 5,438
+tamilmirrorlk | 5,437
 virakesarilk | 6,680
 adaderanasinhalalk | 7,167
 
@@ -26,25 +26,9 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,968 (100.0%) of 41,974 articles have been extended.
+41,968 (100.0%) of 41,973 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-08-22 (Thursday)
-
-### ’இரு முனை போட்டி முட்டாள்தனமானது’
-
-*2024-08-22 00:42:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-முனை-போட்டி-முட்டாள்தனமானது/175-342603) · `ta`
-
-ஒரே கட்சியைச்சேர்ந்த இரண்டுபேர் பிளவுபட்டு இரண்டு முனைகளில் போட்டியிடுவது முட்டாள்தனமான செயல்.  ரணிலையும் சஜித்தையும் இணைக்க   தான் மேற்கொண்ட முயற்சிகள் பயனளிக்கவில்லை. ஆகையால் மனச் சாட்சிப்படி என்னால் செயல்பட முடியாது என்பதால்,  எம்.பி. பதவியிலிருந்து ராஜினாமா செய்வதாக  ஐக்கிய மக்கள் சக்தியின் இரத்தினபுரி மாவட்ட எம்.பியான சட்டத்தரணி  தலதா அத்துகோரள  அறிவித்தார்
-
-பாராளுமன்றம் புதன்கிழமை (21)  சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கூடியது. விசேட அறிக்கை ஒன்றை விடுத்து உரையாற்றிய பின்னர் ராஜினாமா செய்தார்.
-
-...
-
-[Data](articles/18b0d252.json)
-
----
 
 ### 2024-08-21 (Wednesday)
 
@@ -2379,5 +2363,31 @@ The US Army ship arrived at the port of the Colombo Port to meet the supply requ
 [Data](articles/9539caf8.json)
 
 [Extended Data](ext_articles/9539caf8.ext.json)
+
+---
+
+### Minister of Explanation of the profit of the EMC
+
+*2024-08-21 12:37:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-மி-ச-வின்-இலாபம்-குறித்து-அமைச்சர்-விளக்கம்/175-342562) · `ta`
+
+Kanjana Wijesekera, Power and Energy Minister, announced that the Electricity Board (CEB) recorded a net profit of Rs. 34.53 billion post-tax for the April-June 2024 quarter. This profit comes after revising and reducing consumer fees based on available profits. The minister highlighted the profitability of energy development, power plants, coal procurement, local suppliers, and short-term banking facilities.
+
+🟩
+
+Power and Energy Minister Kanjana Wijesekera said that the net profit of Rs.
+
+The Minister said that the profitable energy development, the power plants, the coal procurement, the local suppliers, the outstanding amount for large projects, the top solar sunlight and short -term banking facilities, the Minister said.
+
+Minister Wijeshekara added that the power consumers' fees have been revised and reduced in view of other profits available after the payment.
+
+CEB recorded profit after 2024 April-June Quarterly Taxes. The profit is the net profit registered after paying taxes on Rs 34.53 billion.
+
+Earlier, CEB is Rs.. Registered 84.67 billion. In the first half of 2024, CEB recorded a total profit of 119.20 billion rupees.
+
+◼️
+
+[Data](articles/348256b4.json)
+
+[Extended Data](ext_articles/348256b4.ext.json)
 
 ---

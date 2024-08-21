@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 21:37:18**
+As of **2024-08-21 21:56:25**
 
 ## Newspaper Stats
 
-*Scraped **41,939** Articles*
+*Scraped **41,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,152 @@ colombotelegraphcom | 403
 islandlk | 2,426
 economynextcom | 2,527
 dailyftlk | 2,701
-adalk | 3,866
+adalk | 3,867
 dailymirrorlk | 4,733
 adaderanalk | 4,909
-tamilmirrorlk | 5,434
-virakesarilk | 6,674
-adaderanasinhalalk | 7,163
+tamilmirrorlk | 5,436
+virakesarilk | 6,677
+adaderanasinhalalk | 7,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,939 (100.0%) of 41,939 articles have been extended.
+41,946 (100.0%) of 41,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### The child who died of doctor's negligence in Vavuniya
+
+*2024-08-21 21:35:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வவுனியாவில்-வைத்தியரின்-அலட்சியத்தினால்-இறந்த-குழந்தை/72-342589) · `ta`
+
+In Vavuniya, a child died allegedly due to a hospital's negligence. The father filed a complaint at the police station, accusing the hospital of mishandling his wife's treatment and his newborn's care. The incident involved medication mix-ups, delayed responses, and a lack of proper attention, leading to the tragic loss of their child.
+
+🟩
+
+A complaint has been lodged at the Vavuniya Police Station by the father of the child that his child was born and died due to negligence of a Vavuniya hospital.
+
+I was admitted to the Vavuniya Hospital on the 17th of last month for his wife.. The next day, his medicines were given to his paneer.
+
+My wife, who could not bear this, told a nurse there. At the time, a doctor on duty used the phone and said that it was not a problem without taking care of it. Then they gave the wife the painful medicine and told him to sleep.
+
+A medical officer who arrived at the hospital the next day had spoken to the doctor on duty that he may have taken the baby.. Then again at 5 pm, my wife took my wife to the surgery hall.
+
+He did not come out even though it was several hours. In the meantime, my wife has been transferred to the 5th hostel, saying that the 7th hotel was not operating.
+
+...
+
+[Data](articles/ecd78400.json)
+
+[Extended Data](ext_articles/ecd78400.ext.json)
+
+---
+
+### Complaints of the Presidential election
+
+*2024-08-21 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200189) · `si`
+
+Over 700 complaints have been filed about the presidential election, including 717 in the last 24 hours, mostly citing election law violations.
+
+🟩
+
+The number of complaints received regarding the presidential election has exceeded the 700 threshold.
+
+The Elections Commission states that there are 717 complaints that have been reported since 51 complaints received during the past 24 hours.
+
+The Commission also said that all complaints reported on the day yesterday (20) also said that election laws violations.
+
+◼️
+
+[Data](articles/428da0cf.json)
+
+[Extended Data](ext_articles/428da0cf.ext.json)
+
+---
+
+### Yuvati sacrifice for treasure:
+
+*2024-08-21 21:24:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதையலுக்காக-யுவதி-பலியெடுப்பு-அலைபேசியை-அடுத்து-அள்ளினர்/76-342588) · `ta`
+
+A nurse from the Akkaraipattana Mandi Divisional Hospital, Sivalingam Darshini, was discovered buried in the Chinapitiya estate, Nuwara Eliya district. Missing for six months, her relatives reported her disappearance to the police, who expedited their search upon learning she underwent surgery recently. A suspect, also a hospital worker, was arrested and found with a cellphone linked to the case. Investigations suggest the victim was murdered for her phone, which led to the discovery of her body. The suspect, accused of kidnapping the treasurer, was ordered by the court to be held under police protection pending further inquiries.
+
+🟩
+
+The body of a woman who was murdered and buried in the Chinapitiya estate in the Konapitiya estate, which belongs to the Mandaranuwara police division of the Nuwara Eliya district, has been excavated today (21).
+
+Sivalingam Darshini (age 36) of the Muloya estate of Hewahata, who was dug up, has been identified as the body.
+
+The woman who was dug up in the incident has been working as a nurse at the Akkaraipattana Mandi Divisional Hospital.
+
+Relatives have lodged a complaint at Akkaraipattana and Mandaranuwara police station that the nurse was missing for the last six months.
+
+Police are conducting investigations into the missing woman.
+
+At the same time, the woman who missed the incident has operated two days ago. As a source of this, police accelerated the search operation.
+
+The suspect arrested in the incident has found a hand telephone.
+
+It is also noteworthy that the suspect was also working at the Mandasi Divisional Hospital with the missing woman.
+
+...
+
+[Data](articles/cc6294f7.json)
+
+[Extended Data](ext_articles/cc6294f7.ext.json)
+
+---
+
+### Vehicle accident in Vavuniya;Injury
+
+*2024-08-21 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/191666) · `ta`
+
+A vehicle accident on Pond A-9 road near Vavuniya involved a collision between a Haiyas vehicle and a three-wheeler traveling from Vavuniya to Jaffna. One person, the driver of the three-wheeler, was injured and hospitalized. Police are investigating the incident.
+
+🟩
+
+One person was injured in a vehicle accident on the Pond A-9 road with a Vavuniya lamp.
+
+The accident occurred when a Haiyas vehicle and a three -wheeler collided with. The accident occurred on a three -wheeler traveling from Vavuniya to Jaffna.
+
+The driver of the three -wheeler has been admitted to the hospital after being injured. Police are conducting further investigations.
+
+◼️
+
+[Data](articles/f81809f5.json)
+
+[Extended Data](ext_articles/f81809f5.ext.json)
+
+---
+
+### Digging as a woman who has disappeared for 6 months
+
+*2024-08-21 20:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191665) · `ta`
+
+A woman, Sivalingam Darshani, 36, mother of three, was found murdered and buried in a Chinese murder garden in Sri Lanka's Nuwara Eliya district. She had been missing for six months before her body was discovered and exhumed on Wednesday. The police, led by the Nuwara Eliya Divisional Criminal Investigation Division, are investigating the case, including seizing jewelry she wore, which was mortgaged at a bank. Another suspect from the Mandaranawara area has been arrested, and further inquiries are ongoing.
+
+🟩
+
+The body of a woman who was killed and buried in the Chinese murder garden in the Hangurankate Konapitiya Konapitiya district of Nuwara Eliya district was dug on Wednesday (21).
+
+Sivalingam Darshani, the mother of three children, aged 36, has been killed and buried.
+
+She was transferred to the Konapitiya Divisional Hospital after being transferred to the Konapitiya Divisional Hospital for the last six months.
+
+Further inquiries into the incident were handed over to the Divisional Criminal Investigation Bureau by the Senior Superintendent of Police Nuwara Eliya.
+
+Police have also seized the jewelery that he was wearing from the suspect had been mortgaged at a bank in Panvila.
+
+Accordingly, on Wednesday (21), the body was excavated in the presence of Mr. Syipath Wickremesinghe, the Valappanai Magistrate.Police said that another suspect from Mandaranawara area has been arrested in connection with the incident.
+
+...
+
+[Data](articles/c5caaa08.json)
+
+[Extended Data](ext_articles/c5caaa08.ext.json)
+
+---
 
 ### Cabinet approves fuel subsidy for fisherfolk, fertiliser subsidy for tea growers
 
@@ -174,6 +304,30 @@ United People's Power Member of Parliament, Dalada Athukorala's resignation, wil
 
 ---
 
+### Go to visit the Kandy Perahera and left the city of 20 tonnes
+
+*2024-08-21 19:19:30* · [`adalk`](https://www.ada.lk/breaking_news/නුවර-පෙරහර-බලන්න-ගිහින්-ටොන්-20ක-කුණු-නුවර-දාලා-ඇවිත්/11-411494) · `si`
+
+Kandy Perahera's waste management initiative has removed over 200 tonnes of waste, including elephant feed, without any environmental impact. This marks a significant improvement from past processions.
+
+🟩
+
+The popular waste management of the Kandy Municipal Council has expressed his concern for the environment.
+
+Head of the Department Namal Dissanayake emphasized that the use of the use of the deepecies during the Esala Perahera.
+
+More than 200 tons of waste, including elephants of Perahera, has already been removed and the removal of the same waste is already removed.
+
+He emphasized that the elephants have not eaten by elephants in between. He added that this situation was not reported during the previous procession.
+
+◼️
+
+[Data](articles/473723f1.json)
+
+[Extended Data](ext_articles/473723f1.ext.json)
+
+---
+
 ### A lorry crashed into a road in BadullaTrio
 
 *2024-08-21 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191664) · `ta`
@@ -297,6 +451,32 @@ It is noteworthy that the Nuwan Bopaghe Umbrella is contesting as the presidenti
 [Data](articles/6e1e0bdd.json)
 
 [Extended Data](ext_articles/6e1e0bdd.ext.json)
+
+---
+
+### I am opposed to the current government's actions that act to eliminate the country - the MP of the PA. Flaod
+
+*2024-08-21 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191633) · `ta`
+
+The PA MP opposes the government's actions, which he believes aim to dismantle the country. He supports presidential candidate Sajith Premadasa and criticizes the current government's stance. The MP, elected with over 115,000 votes in 2022, urges the government to resist the "decisive moment" in the country's political and social structure. He expresses gratitude towards political parties, including PM Dinesh Gunawardena, for their cooperation.
+
+🟩
+
+PA has decided to go to the opposition to support the presidential candidate Sajith Premadasa in the current decisive position.
+
+He was speaking at a special statement during a session held in Parliament on Wednesday (21).
+
+In the general election of 2022, I contested the PA in the PA and elected to Parliament with 1 lakh 15 thousand votes.
+
+The country is currently opposed to the decisive moment in political and social structure. This government should impose an unconditional opposition against the country.
+
+I thank the political parties, including Prime Minister Dinesh Gunawardena, who has cooperated with my political activities so far. I have made this decision for the country.
+
+◼️
+
+[Data](articles/c724bec7.json)
+
+[Extended Data](ext_articles/c724bec7.ext.json)
 
 ---
 
@@ -2219,161 +2399,5 @@ He says that paddy purchasing has been handed over to Malhemen, but it is not fu
 [Data](articles/77395577.json)
 
 [Extended Data](ext_articles/77395577.ext.json)
-
----
-
-### In the past few months, 1,417 lives die
-
-*2024-08-21 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200167) · `si`
-
-In 2023, 2,214 people died in road accidents, with 1,417 fatalities reported from January 1, 2024. The DIG noted a concerning trend: 328 student deaths and over 30,000 child fatalities in the last decade.
-
-🟩
-
-A total of 1,417 people have been killed in road accidents during the year.
-
-DIG in charge of the traffic division Indika Hapugoda said about 1,000 people die annually.
-
-"There are over 3,000 accidents, the dangers of the road. One-third of those accidents is killed due to accidents. 2023 saw a road accident in the year 2023. 2,214 were killed. From January 1, 2024, 1,417 of the 1,352 fatal accidents were killed. "
-
-DIG Indika Hapugoda says that 328 students have died last year with the deadly accident.
-
-He added that more than 30,000 children die for 10 years.
-
-◼️
-
-[Data](articles/eb948b86.json)
-
-[Extended Data](ext_articles/eb948b86.ext.json)
-
----
-
-### Bandu Lal Bandaraigoda sworn in as MP
-
-*2024-08-21 10:29:18* · [`adalk`](https://www.ada.lk/breaking_news/බන්දු-ලාල්-බණ්ඩාරිගොඩ-මන්ත්‍රීවරයෙක්-ලෙස-දිවුරුම්-දෙයි/11-411481) · `si`
-
-Bandu Lal Bandaraigoda was sworn in as an MP today, taking his oath before Speaker Mahinda Yapa Abeywardena. His appointment followed the abolition of Manusha Nanayakkara's position by the MPs' committee, with Supreme Court approval.
-
-🟩
-
-Bandu Lal Bandaraigoda took oaths before Speaker Mahinda Yapa Abeywardena today (21).
-
-Manusha Nanayakkara was abolished by the MP's MP with Supreme Court and Bandaraigoda today.
-
-◼️
-
-[Data](articles/e047261d.json)
-
-[Extended Data](ext_articles/e047261d.ext.json)
-
----
-
-### Neon and Echelon Unveil Shine 50: Sri Lanka’s Young Game-Changing Women
-
-*2024-08-21 10:22:00* · [`economynextcom`](https://economynext.com/neon-and-echelon-unveil-shine-50-sri-lankas-young-game-changing-women-177474/) · `en`
-
-Neon and Echelon have launched Shine 50, an initiative spotlighting 50 young women boldly making significant contributions and driving change across Sri Lanka. These trailblazers, from entrepreneurs and environmental advocates to artists and activists, are redefining leadership and innovation in their fields.
-
-Dubbed “The Girls Who Run the World,” Shine 50 honours women between the ages of 18 and 35 for their impact on society and their role in driving change across diverse fields, from agriculture to art, business, social enterprises, education, environment, technology, entertainment, and science. The honorees represent regions across the country, including Jaffna, Galle, Batticaloa, Colombo, and the Central Hills.
-
-Top from left: Piyumi Wattuhewa, Meera Nadarasa, Tashini Vithanage, Thanuki Goonesinghe; Bottom from left: Rose Fernando, Deanna Jayasundera, Sriyangani Dhanapala, and Shenelle Rodrigo
-
-...
-
-[Data](articles/96796336.json)
-
-[Extended Data](ext_articles/96796336.ext.json)
-
----
-
-### Police Inspector, Constable arrested with heroin
-
-*2024-08-21 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191583) · `ta`
-
-In Colombo, a police inspector and constable were arrested for possessing a kilogram of heroin. They were stopped near Piliyandala while driving from a shopping complex. The inspector, 35 years old, faces charges of aiding drug trafficking, allegedly holding the heroin.
-
-🟩
-
-A police inspector and a constable who had a kilogram of heroin had been arrested by the Colombo Crime Unit, police said.
-
-The two were arrested while they were traveling in a car from a shopping complex in Piliyandala, police said.
-
-The arrested persons are said to belong to the Moratuwa Special Task Force Intelligence Unit.
-
-The 35 -year -old police inspector has been arrested on charges of assisting drug trafficking and is accused of holding constable heroin.
-
-◼️
-
-[Data](articles/3e1f6205.json)
-
-[Extended Data](ext_articles/3e1f6205.ext.json)
-
----
-
-### Namal Rajapaksa’s maiden rally in A’pura today
-
-*2024-08-21 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101390/namal-rajapaksas-maiden-rally-in-apura-today) · `en`
-
-MP Sanjeeva Edirimanna says that the inaugural public rally of the Sri Lanka Podujana Peramuna (SLPP) presidential candidate Namal Rajapaksa will be held today (21) in Anuradhapura.
-
-He said that is a significant achievement for the SLPP to hold this rally in Anuradhapura.
-
-According to Edirimanna, the rally, set to take place at 2.00 p.m. today in the Kadapanaha area, aims to elevate the victory of their presidential candidate, MP Namal Rajapaksa.
-
-He also emphasized that bringing the maiden rally to Anuradhapura is an important political move and represents a notable victory for the party.
-
-◼️
-
-[Data](articles/a47bbf08.json)
-
-[Extended Data](ext_articles/a47bbf08.ext.json)
-
----
-
-### Sounds to open on the 28th
-
-*2024-08-21 10:14:45* · [`adalk`](https://www.ada.lk/breaking_news/සොබාධනවි-28-දා-විවෘත-කරයි/11-411480) · `si`
-
-Sri Lanka is marking a significant step towards sustainable energy with a MoU between LTTE Holdings and Petronet LNG, aiming for a reliable, quality, and cost-effective power supply. This initiative, led by Power and Energy Minister Kanchana Wijesekara, aligns with President Ranil Wickremesinghe's renewable energy program. The project involves constructing an LNG terminal near the Sanjeewa Power Plant, with the first phase set to begin operations soon, promising to reduce electricity costs and support economic growth.
-
-🟩
-
-Sri Lanka marks an important turning point on the journey to clean and sustainable energy generation,
-
-A Memorandum of Understanding (MoU) signed between the LTTE holdings and Petront LNG company in India.
-
-The objective is to ensure a continuous and quality power supply under the minimum cost.
-
-Minister of Power and Energy Kanchana Wijesekara is an opportunity to strengthen the presence of the President's program to renewable energy - Power and Energy Minister Kanchana Wijesekara.
-
-Sangetables to KerawalapitiyaA Memorandum of Understanding (MoU) was held between Petronet Lng Lng Lng LNG Limited (Mounu) at Galadi Hotel this afternoon.
-
-Sri Lanka's CEO Numan Marikkar and its Chief Executive Officer and Managing Director of Sri Lanka (Its Ceylon) signed the agreement with its CEO and Managing Officer to India's Petront LNG.
-
-...
-
-[Data](articles/cd2577f4.json)
-
-[Extended Data](ext_articles/cd2577f4.ext.json)
-
----
-
-### Ehelepola Walawwa officially assigns to the palace
-
-*2024-08-21 10:05:45* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැලේපොල-වලව්ව-නිල-වශයෙන්-මාළිගාවට-පවරයි/11-411479) · `si`
-
-President Ranil Wickremesinghe received the special free payment sheet for the Sri Dalada Malurawa Kandy from Ehelepola Walawwa. The Independent Memorandum of Perahera was also presented to him by Pradeep Nilaveli Nilame, marking significant events in the history of the Sri Dalanda Maligawa and Four Saturu Maha temple.
-
-🟩
-
-President Ranil Wickremesinghe handed over the special free payment sheet related to the Sri Dalada Malurawa Kandy Kandy.
-
-The Independent Memorandum of Perahera, Pradeep Nilaveli Pradeep Nilame, who is presented to President Ranil Wickremesinghe in the historic of the Sri Dalanda Maligawa and Four Saturu Maha temple, the Diyawadana Nilame is presented to President Ranil Wickremesinghe.Was given to the palace.
-
-◼️
-
-[Data](articles/5d466223.json)
-
-[Extended Data](ext_articles/5d466223.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 01:55:52**
+As of **2024-08-22 02:07:38**
 
 ## Newspaper Stats
 
-*Scraped **41,985** Articles*
+*Scraped **41,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 387
 colombotelegraphcom | 403
 islandlk | 2,426
 economynextcom | 2,536
-dailyftlk | 2,720
+dailyftlk | 2,722
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
@@ -26,11 +26,45 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,978 (100.0%) of 41,985 articles have been extended.
+41,985 (100.0%) of 41,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### President cannot avoid defeat by recruiting MPs from other parties: Mujibur
+
+*2024-08-22 01:42:17* · [`dailyftlk`](https://www.ft.lk/news/President-cannot-avoid-defeat-by-recruiting-MPs-from-other-parties-Mujibur/56-765836) · `en`
+
+Claims numerous conspiracies are ongoing against SJB leader Sajith Premadasa to ensure his defeatSays Thalatha Athukorala’s resignation speech hints at who she plans to align with going forward
+
+Opines Athukorala’s decision to resign from MP post was incorrect
+
+Samagi Jana Balawegaya (SJB) MP Mujibur Rahuman stated yesterday that President Ranil Wickremesinghe’s defeat in the upcoming Presidential election cannot be avoided by recruiting MPs from other parties.
+
+Addressing a press conference in Colombo, he also noted that numerous conspiracies are ongoing against SJB leader Sajith Premadasa to ensure his defeat at the elections.
+
+Commenting on SJB MP Thalatha Athukorala’s sudden decision to step down from her Parliamentary post, Marikkar noted that she mentioned in her resignation speech her intention to continue in politics. “It hints at who she plans to align with moving forward,” he said.
+
+...
+
+[Data](articles/b833d9ef.json)
+
+---
+
+### Vadivel Suresh and Ali Zahir Moulana get ministerial posts
+
+*2024-08-22 01:39:12* · [`dailyftlk`](https://www.ft.lk/news/Vadivel-Suresh-and-Ali-Zahir-Moulana-get-ministerial-posts/56-765835) · `en`
+
+Badulla District MP Vadivel Suresh and Batticalo District MP Ali Zahir Moulana have been bestowed with Ministerial posts yesterday following their support to President Ranil Wickremesinghe’s election bid.
+
+Suresh has been appointed as the State Minister of Labour and Moulana as the Non Cabinet Minister of Development Projects.
+
+◼️
+
+[Data](articles/7f814b80.json)
+
+---
 
 ### Paranawithana to replace Thalatha in Parliament
 
@@ -47,6 +81,8 @@ An alumnus of Aloysius College, Ratnapura, he holds a Bachelor of Arts Degree fr
 ◼️
 
 [Data](articles/74ab5691.json)
+
+[Extended Data](ext_articles/74ab5691.ext.json)
 
 ---
 
@@ -66,6 +102,8 @@ The High Commissioner distributed solar lanterns to some of the beneficiaries of
 
 [Data](articles/434b3283.json)
 
+[Extended Data](ext_articles/434b3283.ext.json)
+
 ---
 
 ### Sri Lanka secures $ 8 b export revenue, signs $ 800 m investment deals in 1H of 2024: State Minister
@@ -82,6 +120,8 @@ Amunugama said the Board of Investment of Sri Lanka currently facilitates 15 inv
 
 [Data](articles/3877d6d1.json)
 
+[Extended Data](ext_articles/3877d6d1.ext.json)
+
 ---
 
 ### CEB’s Rs. 93 b profit used to settle power project debts: Minister
@@ -96,6 +136,8 @@ Power and Energy Minister Kanchana Wijesekera yesterday announced that the CEB�
 
 [Data](articles/fd402530.json)
 
+[Extended Data](ext_articles/fd402530.ext.json)
+
 ---
 
 ### SAB Campus of CA Sri Lanka signs MOU with AATSL for BSc. in Applied Accounting Degree exemptions
@@ -109,6 +151,8 @@ The primary objective of this collaboration is to enhance the qualification proc
 ...
 
 [Data](articles/21e4dbff.json)
+
+[Extended Data](ext_articles/21e4dbff.ext.json)
 
 ---
 
@@ -128,21 +172,31 @@ The ‘Sri Lanka Trade Fair Dubai 2024’ will showcase the best of Sri Lankan p
 
 [Data](articles/d7980854.json)
 
+[Extended Data](ext_articles/d7980854.ext.json)
+
 ---
 
-### ’அநாதை அரசியல்வாதிகள் பொய்களை பரப்புகின்றனர்’
+### Orphaned politicians spread lies
 
 *2024-08-22 01:21:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநாதை-அரசியல்வாதிகள்-பொய்களை-பரப்புகின்றனர்/175-342604) · `ta`
 
-அனைத்து மதங்களினதும் சுதந்திரமான வழிப்பாட்டு உரிமைகளையும் அனைத்து கலாச்சார உரிமைகளையும் பேணி பாதுகாத்து முன்னெடுத்துவருவதை ஏற்றுக்கொள்கின்ற ஒரு அரசியல் இயக்கமே தேசிய மக்கள் சக்தியாகும் எனத் தெரிவித்துள்ள அந்த சக்தியின் ஜனாதிபதி வேட்பாளர் அநுரகுமார திஸாநாயக்க, அநாதை அரசியல்வாதிகள் பொய்களை பரப்புகின்றனர் என்றார்.
+Anura Kumara Dissanayake, a Presidential candidate, emphasizes unity across religions and cultures, criticizing extremist actions within minority communities. He highlights the need for national solidarity against violence and division, asserting his party's commitment to preserving freedom and cultural rights for all.
 
-தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுர குமார திசாநாயக்க அகில இலங்கை ஜம்இய்யத்துல் உலமா அமைப்பின் பிரதானி அஷ்சேக் முஃப்தி ஏ.ஜே.ஏ. ரிஷ்வி, அஷ்சேக் அர்கம் நுரஅமித் மற்றும் கலாநிதி ஏ.ஏ.அஹமட் அஷ்வர் ஆகியோரை ஜயந்த வீரசேகர மாவத்தையில் அமைந்துள்ள அகில இலங்கை ஜம்இய்யத்துல் உலமா சபையின் தலைமை அலுவலகத்தில் புதன்கிழமை (21) சந்தித்தார்.
+🟩
 
-நாட்டில் நிலவுகின்ற அரசியல் நிலைமைகள் பற்றி முஃப்திமார்களுடனும் நிர்வாக மௌலவிமார்களுடனும் கலந்துரையாடிய அநுரகுமார திசாநாயக்க, எதிர்வரும் ஜனாதிபதித் தேர்தலில் வெற்றி பெறுவதற்கான நல்லாசியையும் பெற்றுக்கொண்டார்.
+Anura Kumara Dissanayake, the Presidential candidate of the power, said that the national power is a political movement that acknowledges the preservation of the freedom of all religions and all cultural rights.
+
+President of the National People's Power, Anura Kumara Dissanayake All Ceylon Jamiyyathul Ulama Organization. Rishwi, Ashsek Argam Nura Aamith and Dr. AA Ahmed Ashwar met at the headquarters of the All Ceylon Jamiyyathul Ulama Council at Jayantha Weerasekara Mawatha on Wednesday (21).
+
+Anurakumara Dissanayake, who discussed the political situation in the country with the Muftimars and the administrative Moulavimars, also received the goodwill of winning the upcoming presidential election.
+
+They are distorting a thing I mentioned in Parliament.Member of Parliament Rauf Hakeem has publicly spoken about this. This is the main task of politically stable groups
 
 ...
 
 [Data](articles/044d1b5f.json)
+
+[Extended Data](ext_articles/044d1b5f.ext.json)
 
 ---
 
@@ -2263,49 +2317,5 @@ The passage of Delegation, Jayantha de Silva served as the co-organizer at the B
 [Data](articles/933214ad.json)
 
 [Extended Data](ext_articles/933214ad.ext.json)
-
----
-
-### Opposition in five districts of the North
-
-*2024-08-21 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191612) · `ta`
-
-Tamil mothers protested in five northern districts, demanding justice for the remains of 52 individuals unearthed from a burial site. Relatives of the missing, including those from Mullaitivu, criticized the lack of action on similar discoveries and questioned the effectiveness of the Office of Missing Persons (OMP). They called for international intervention and genetic examinations to identify the deceased. The skeletal remains, initially intended for urgent burial, are now undergoing forensic analysis, with results expected in six months.
-
-🟩
-
-The mothers of the Tamils ​​affected by the war have staged a protest demanding the truth about the human burial ground, which is closed on a court order after the skeletons of 52 people have been recovered.
-
-The relatives of the missing persons who represented the five districts of the North on Tuesday (20), near the Mullaitivu Kokkuttuwai Mass, which was completed on July 15, 2024, in the North and East, with a Tamil people's representative in the North and East.
-
-Relatives of the Mullaitivu District Mullaitivu District, Marisuresh Eswari, said that the four human fossils found in the North were not given justice and that the skeletons that were rescued in the Kokkuttuwai human burial ground should be given to them.
-
-...
-
-[Data](articles/4e835725.json)
-
-[Extended Data](ext_articles/4e835725.ext.json)
-
----
-
-### Love pair: 2 police removal
-
-*2024-08-21 13:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதல்-ஜோடியிடம்-கப்பம்-2-பொலிஸார்-நீக்கம்/175-342566) · `ta`
-
-Two constables from Kaduwela police station were dismissed for allegedly trying to extort Rs 10,000. They were caught searching a car on Chandrika Kumaratunga Road, informing its occupants about their improper behavior.
-
-🟩
-
-The Nugegoda Senior Superintendent's Office said that two constables on duty at the Kaduwela police station have been sacked on charges of attempting to get Rs 10,000.
-
-The two constables were traveling on a motorcycle from 6 pm to 6 pm on the 14th.
-
-During the police investigations, police investigations revealed that the car parked at Chandrika Kumaratunga Road, which belongs to the Mulleriya police division, has been searched and that the romantic couple in the car has been informed that they have been informed that they are behaving in a state of disrepair.
-
-◼️
-
-[Data](articles/e9f56a68.json)
-
-[Extended Data](ext_articles/e9f56a68.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 15:21:28**
+As of **2024-08-21 15:36:55**
 
 ## Newspaper Stats
 
-*Scraped **41,887** Articles*
+*Scraped **41,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 4,903
 tamilmirrorlk | 5,425
 virakesarilk | 6,661
-adaderanasinhalalk | 7,153
+adaderanasinhalalk | 7,154
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,885 (100.0%) of 41,887 articles have been extended.
+41,887 (100.0%) of 41,888 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,34 @@ In a post on ‘X’ (formerly Twitter), MJP leader Dilith Jayaweera stated that
 ...
 
 [Data](articles/26f476df.json)
+
+[Extended Data](ext_articles/26f476df.ext.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-08-21 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200178) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගය මැන්චෙස්ටර්, ඕල්ඩ් ට්‍රැෆර්ඩ් ක්‍රීඩා පිටියේ පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක ධනංජය ද සිල්වා සමත් විය.
+
+දිමුත් කරුණාරත්න, නිශාන් මදුෂ්ක, කුසල් මෙන්ඩිස්, ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල්, ධනංජය ද සිල්වා (නායක), කමිඳු මෙන්ඩිස්, ප්‍රබාත් ජයසූරිය, අසිත ප්‍රනාන්දු, විශ්ව ප්‍රනාන්දු සහ මිලාන් රත්නායක
+
+මෙය මිලාන් රත්නායකගේ මංගල ටෙස්ට් ක්‍රිකට් තරගය වෙයි. දකුණතින් මඳ වේග පන්දුයවන ඔහු වාරියපොළ සුමංගල විද්‍යාලයේ ආදී ශිෂ්‍යයෙකි.
+
+ඩෑන් ලෝරන්ස්, බෙන් ඩකට්, ඔලී පෝප් (නායක), ජෝ රූට්‌, හැරී බ්රූක්, ජැමී ස්මිත්, ක්‍රිස් වෝක්ස්, ගස් ඇට්කින්සන්, මැතිව් පොට්ස්, මාර්ක් වුඩ්ස් සහ ෂොයිබ් බෂීර්
+
+එංගලන්ත නිත්‍ය ටෙස්ට් නායක බෙන් ස්ටොක්ස් තුවාල ලැබීම හේතුවෙන් මෙම තරගාවලිය සඳහා නායකයා ලෙස ඔලී පෝප් පත්කර ඇත.
+
+දෙරට අතර මෙම තරගාවලිය යටතේ ටෙස්ට් තරග තුනක් පැවැත්වීමට නියමිතය.
+
+අවසන් වරට ශ්‍රී ලංකා කණ්ඩායම එංගලන්තයේදී ටෙස්ට් තරගයක් ජයගෙන ඇත්තේ 2014 වසරේදීය.
+
+...
+
+[Data](articles/73359cce.json)
 
 ---
 
@@ -1570,29 +1598,39 @@ By the end of 2023, the Saudi has been identified as the fourth largest donation
 
 ---
 
-### එංගලන්ත - ශ්‍රී ලංකා ටෙස්ට් තරග ඉතිහාසයේ අමතක නොවන සිදුවීම් 5ක්
+### Five unforgettable events in Sri Lanka Test history of England
 
 *2024-08-21 08:55:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c24pvy1gdj4o) · `si`
 
-එංගලන්ත - ශ්‍රී ලංකා ටෙස්ට් තරග ඉතිහාසයේ අමතක නොවන සිදුවීම් 5ක්
+In the rich history of Test cricket between Sri Lanka and England, several standout moments have etched themselves into memory. Notably, Sri Lanka's historic first Test victory over England in 1993, where Sanath Jayasuriya's 213 runs and Muttiah Muralitharan's 7/155 were pivotal. Another memorable instance was in 2014 when Sri Lanka clinched a Test series win in England, showcasing their formidable batting led by Angelo Mathews' 160 runs and the bowling prowess of Shaminda Eranga. These victories underscored Sri Lanka's growing strength in international cricket, marking them as formidable opponents.
 
-ශ්‍රී ලංකාව සහ එංගලන්තය අතර තරග 03කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලිය බදාදා (අගෝස්තු 21) ආරම්භ වීමට නියමිත ය. ශ්‍රී ලංකාව සහ එංගලන්තය අතර පළමු ටෙස්ට් තරගය ක්‍රීඩා කරනු ලැබුවේ මීට වස 42කට ඉහතදී ය.
+🟩
 
-එංගලන්ත කණ්ඩායම හමුවේ අවසන් වරට ශ්‍රී ලංකා කණ්ඩායම ටෙස්ට් තරග ජයග්‍රහණයක් වාර්තා කිරීමට සමත් වූයේ 2014 වසරේදී ය.
+Five unforgettable events in Sri Lanka Test history of England
 
-ක්‍රීඩා ලෝලීන්ට මෙන් ම ක්‍රිකට් විචාරකයින්ට ද සුවිශේෂී මතක සටහන් ගෙන දුන් ශ්‍රී ලංකා - එංගලන්ත ටෙස්ට් ක්‍රිකට් තරග ඉතිහාසයේ සිදුවූ සුවිශේෂී සිදුවීම් මොනවා ද?
+The three-match Test series between Sri Lanka and England will commence on Wednesday (August 21). Sri Lanka and England played the first Test between 42 poison.
 
-මේ, ඒ සම්බන්ධයෙන් බීබීසී සිංහල සේවය සිදුකළ කරුණු සොයා බැලීමකි.
+In the year 2014, the Sri Lankan team won a Test match victory in the year 2014.
 
-ශ්‍රී ලංකාව සහ එංගලන්තය අතර පැවැත්වූ පළමු ටෙස්ට් තරගයේදී ශ්‍රී ලංකා පිතිකරුවන් තිදෙනෙකු අර්ධ ශතක වාර්තා කිරීමට සමත්වීම කැපී පෙනෙන සිදුවීමක් විය.
+What unique events have happened in the history of Sri Lanka and Cricket commentators, as well as to the sports loli and cricket commentators?
 
-එහිදී රංජන් මඩුගල්ල, අර්ජුණ රණතුංග සහ රෝයි ඩයස් ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් අර්ධ ශතක වාර්තා කිරීමට සමත් වූහ.
+This is a search for the BBC Sinhala service.
 
-එම තරගයේ පළමු ඉනිමේදී රංජන් මඩුගල්ල ලකුණු 65ක්, අර්ජුන රණතුංග ලකුණු 54ක් සහ රෝයි ඩයස් ලකුණු 77ක් රැස් කිරීමට සමත් වූහ.
+It was a significant event to record a half centuries in the first Test match between Sri Lanka and England.
+
+Ranjan Madugalle, Arjuna Ranatunga and Roy Dias recorded half centuries for the Sri Lankan team.
+
+In the first innings of the match Ranjan Madugalla, 65 runs and Arjuna Ranatunga scored 54 runs and Roy Dias scored 77 runs.
+
+In the first innings of the Mel, the Asantha Mel took 4 wickets.
+
+England won the group by seven wickets in the Mangala Test match with Sri Lanka.
 
 ...
 
 [Data](articles/0c3ec28a.json)
+
+[Extended Data](ext_articles/0c3ec28a.ext.json)
 
 ---
 
@@ -2283,23 +2321,5 @@ The student who was admitted to the Emergency Department of the Vavuniya Hospita
 [Data](articles/3439c992.json)
 
 [Extended Data](ext_articles/3439c992.ext.json)
-
----
-
-### ASI marks new era in sustainable infrastructure development in Sri Lanka
-
-*2024-08-21 01:50:56* · [`dailyftlk`](https://www.ft.lk/business/ASI-marks-new-era-in-sustainable-infrastructure-development-in-Sri-Lanka/34-765763) · `en`
-
-From left: CIPE Country Representative Sarrah Sammoon, COSMI – ASI Coordinating Body President Nawaz Rajabdeen, US Embassy Economic Officer Bradley Gardner, University of Moratuwa Emeritus Professor Chitra Weddikkara, ASI Convenor Samantha Abeywickrama, and SOND Executive Director S. Senthurajah, credit: ASI Sri Lanka
-
-The Alliance for Sustainable Infrastructure (ASI) Sri Lanka held its inaugural Annual General Meeting (AGM) on 17 August at the Hector Kobbekaduwa Agrarian Training and Research Institute (HARTI), Colombo.
-
-The event was a significant milestone in Sri Lanka’s journey towards sustainable infrastructure development, bringing together key stakeholders from government, civil society, and the private sector.
-
-...
-
-[Data](articles/d92368f6.json)
-
-[Extended Data](ext_articles/d92368f6.ext.json)
 
 ---

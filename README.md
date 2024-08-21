@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 19:08:15**
+As of **2024-08-21 19:21:39**
 
 ## Newspaper Stats
 
-*Scraped **41,919** Articles*
+*Scraped **41,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ colombotelegraphcom | 402
 islandlk | 2,426
 economynextcom | 2,527
 dailyftlk | 2,701
-adalk | 3,863
+adalk | 3,864
 dailymirrorlk | 4,733
 adaderanalk | 4,907
 tamilmirrorlk | 5,431
 virakesarilk | 6,666
-adaderanasinhalalk | 7,160
+adaderanasinhalalk | 7,161
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,919 (100.0%) of 41,919 articles have been extended.
+41,919 (100.0%) of 41,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### හෙරොයින් සමග හසුවූ STF IP සහ කොස්තාපල් ගැන තවත් තොරතුරු
+
+*2024-08-21 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200185) · `si`
+
+කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් අත්අඩංගුවට ගත් පොලිස් පරීක්ෂකවරයා සහ කොස්තාපල්වරයා සතුව තිබූ හෙරොයින් තොගයේ වටිනාකම රුපියල් කෝටි 2කට අධික බව පොලීසිය පවසයි.
+
+ඔවුන් සතුව තිබී හෙරොයින් කිලෝග්‍රෑම් 1යි ග්‍රෑම් 53ක් සොයාගෙන තිබුණි.
+
+යුක්තිය මෙහෙයුමට සමගාමීව සංවිධානාත්මක අපරාධ මැඩලීම සඳහා කොළඹ අපරාධ කොට්ඨාසය විශේෂ මෙහෙයුම් ආරම්භ කර ඇති අතර ඊයේ (20) පස්වරුවේ විශේෂ වැටලීමක් පිළියන්දල ප්‍රදේශයේදී ක්‍රියාත්මක කර තිබුණි.
+
+පිළියන්දල මිරිස්වත්ත ප්‍රදේශයේ පිහිටි පෞද්ගලික වෙළෙඳසැලක රථගාලක නවතා තිබූ වෑන් රථයක් එහිදී පරීක්ෂා කර ඇත.
+
+වෑන් රථයේ රියදුරු ඇතුළු තවත් පුද්ගලයෙක් එහි රැඳී සිට ඇති අතර රියදුරු අසුනට යාබද අසුනේ රැඳී සිටි පුද්ගලයාගේ ගමන් බෑගය පරීක්ෂා කිරීමේදී එහි තිබී හෙරොයින් කිලෝග්‍රෑම් 1යි ග්‍රෑම් 53ක්, මාංචු යුගළයක් සහ ඉලෙක්ට්‍රොනික තරාදියක් විමර්ශකයන් සොයාගෙන තිබේ.
+
+එම සැකකරු මොරටුව විශේෂ කාර්යය බළකා කඳවුරට අනුයුක්ත පොලිස් කොස්තාපල්වරයෙක් බව අනාවරණ වී ඇත.
+
+වෑන් රථයේ රියදුරු ලෙස ක්‍රියාකර ඇති සැකකරු මොරටුව විශේෂ කාර්යය බළකා කඳවුරට අනුයුක්ත පොලිස් පරීක්ෂකවරයෙකි.
+
+...
+
+[Data](articles/069eaf73.json)
+
+---
 
 ### US commends Sri Lanka’s commitment to 70% renewable energy by 2030
 
@@ -95,6 +119,22 @@ The bus bathing system has caused the accident, foreign media said.
 [Data](articles/ef0fe4a5.json)
 
 [Extended Data](ext_articles/ef0fe4a5.ext.json)
+
+---
+
+### දිවා ආහාරය වන විට ලංකාව අසීරු අඩියක
+
+*2024-08-21 18:01:15* · [`adalk`](https://www.ada.lk/sports/දිවා-ආහාරය-වන-විට-ලංකාව-අසීරු-අඩියක/9-411490) · `si`
+
+සත්කාරක එංගලන්ත කණ්ඩායම සමගින් පැවැත්වෙන පළමු ටෙස්ට් තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදෙමින් සිටින ශ්‍රී ලංකා කණ්ඩායම පළමු දිනයේදී දිවා ආහාරය සඳහා තරගය නතර කරන විට කඩුලු 5ක් දැවී ලකුණු 80ක් රැස්කරගෙන අසීරු අවස්ථාවක සිටියි.
+
+නොදැවී පිටියේ රැදී සිටින ධනංජයද සිල්වා ලකුණු 28ක් හා කමිඳු මෙන්ඩිස් ලකුණු 5ක් රැස්කරගෙ සිටියි.
+
+මුලු ලකුණු සංඛයාව 6දී  ශ්‍රී ලංකාවේ කඩුලු තුනක් බිඳ වැටීම කැපී පෙනන කරුණක් විය. එංගලන්තය වෙනුවෙන් ක්‍රිස් වොක්ස් කඩුලු දෙකක් දවා ගත්තේය.
+
+◼️
+
+[Data](articles/c66b3324.json)
 
 ---
 
@@ -2343,41 +2383,5 @@ England won the group by seven wickets in the Mangala Test match with Sri Lanka.
 [Data](articles/0c3ec28a.json)
 
 [Extended Data](ext_articles/0c3ec28a.ext.json)
-
----
-
-### Eyeing Eurasian connectivity corridors, Sri Lanka builds partnership with Central Asian countries
-
-*2024-08-21 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101386/eyeing-eurasian-connectivity-corridors-sri-lanka-builds-partnership-with-central-asian-countries) · `en`
-
-Aiming at exploring the strategic role of Central Asia in Eurasia and beyond with particular emphasis on the emergence of new transport and logistics corridors, Sri Lanka’s Foreign Ministry will on Wednesday host a first of its kind event to discuss ways to strengthen its economic ties with the region.
-
-Titled ‘Central Asia Forum: A Gateway to New Horizons’, the Colombo event will be opened by Sri Lankan Foreign Secretary Aruni Wijewardane with Foreign Minister Ali Sabry also scheduled to deliver an address, highlighting Sri Lanka’s priorities in the region.
-
-“With its strategic location, Central Asia is poised to play an important role in the future of Eurasian connectivity. The event is expected to offer perspectives and insights that will shape the future of Sri Lanka’s engagement with the region,” the Sri Lankan Foreign Ministry said in a statement.
-
-...
-
-[Data](articles/7acc2eb3.json)
-
-[Extended Data](ext_articles/7acc2eb3.ext.json)
-
----
-
-### Puttalam Mark Rail Services Damage
-
-*2024-08-21 08:43:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மார்க்க-ரயில்-சேவைகள்-பாதிப்பு/175-342545) · `ta`
-
-Railway services between Chilaw and Pangadeniya are halted due to a fallen tree blocking the tracks.
-
-🟩
-
-The Railway Department has said that the railway services of the route have been blocked as a tree fell on the rails between Chilaw and Pangadeniya.. (A)
-
-◼️
-
-[Data](articles/3d6d2b86.json)
-
-[Extended Data](ext_articles/3d6d2b86.ext.json)
 
 ---

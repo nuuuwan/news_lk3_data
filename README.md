@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 01:36:46**
+As of **2024-08-22 01:55:52**
 
 ## Newspaper Stats
 
-*Scraped **41,978** Articles*
+*Scraped **41,985** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 387
 colombotelegraphcom | 403
 islandlk | 2,426
 economynextcom | 2,536
-dailyftlk | 2,714
+dailyftlk | 2,720
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
-tamilmirrorlk | 5,438
+tamilmirrorlk | 5,439
 virakesarilk | 6,680
 adaderanasinhalalk | 7,167
 
@@ -26,11 +26,125 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,975 (100.0%) of 41,978 articles have been extended.
+41,978 (100.0%) of 41,985 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### Paranawithana to replace Thalatha in Parliament
+
+*2024-08-22 01:37:48* · [`dailyftlk`](https://www.ft.lk/news/Paranawithana-to-replace-Thalatha-in-Parliament/56-765834) · `en`
+
+Eksath Janaraja Peramuna Politburo Chairperson Karunarathna Paranawithana is expected to replace outgoing Samagi Jana Balawegaya (SJB) MP Thalatha Athukorala in Parliament.
+
+Karunarathna Paranawithana contested from the Ratnapura District under the SJB ticket in the 2020 Parliamentary elections but did not secure a seat, receiving 42,314 preferential votes. As the next candidate on the SJB preferential list, he is likely to be appointed to Thalatha Athukorala’s seat.
+
+The 56-year-old is a former MP and served as Deputy Minister of Provincial Council and Local Government. He previously worked as Secretary to the Ministry of Mass Media before resigning to contest in the 2015 Parliamentary elections as part of the UNP-led alliance.
+
+An alumnus of Aloysius College, Ratnapura, he holds a Bachelor of Arts Degree from the University of Colombo.
+
+◼️
+
+[Data](articles/74ab5691.json)
+
+---
+
+### Indian High Commissioner extends multi-sectoral assistance to Central, Sabaragamuwa, Uva and North Western Provinces
+
+*2024-08-22 01:35:57* · [`dailyftlk`](https://www.ft.lk/news/Indian-High-Commissioner-extends-multi-sectoral-assistance-to-Central-Sabaragamuwa-Uva-and-North-Western-Provinces/56-765833) · `en`
+
+The High Commissioner of India to Sri Lanka Santosh Jha on Tuesday visited Mahatma Gandhi International Centre (MGIC), Matale.
+
+The High Commissioner inaugurated an Indian Gallery at the Centre. The gallery houses rich informative resources on cultural, historical, social, political, economic and other aspects of India.
+
+Notably, the MGIC was constructed under Indian grant assistance in 2015.
+
+The High Commissioner distributed solar lanterns to some of the beneficiaries of Phase III of Indian Housing Project (IHP), and notebooks and school bags to students of plantation schools. The distribution will now continue and for the solar lanterns, cover all the 4,000 beneficiary households of the Phase III of the IHP, and for the notebooks and school bags, 10,000 beneficiary students from the plantation regions.
+
+...
+
+[Data](articles/434b3283.json)
+
+---
+
+### Sri Lanka secures $ 8 b export revenue, signs $ 800 m investment deals in 1H of 2024: State Minister
+
+*2024-08-22 01:32:46* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-secures-8-b-export-revenue-signs-800-m-investment-deals-in-1H-of-2024-State-Minister/34-765832) · `en`
+
+Investment Promotion State Minister Dilum Amunugama announced that Sri Lanka has secured an export income of $ 9 billion in the first six months of 2024, whilst noting that investment agreements totalling around $ 800 million were signed during the same period.
+
+He made these remarks at a press briefing titled “Two Years of Progress and Advancements” held at the Presidential Media Centre (PMC) yesterday.
+
+Amunugama said the Board of Investment of Sri Lanka currently facilitates 15 investment zones, with 1,575 companies operating within them, providing employment to over 500,000 people. Under the Government’s new investment program, seven additional investment zones are planned for areas including Mankulam, Paranthan, Kankasanthurai, Trincomalee, Iranawila, Hambantota and Bingiriya.
+
+...
+
+[Data](articles/3877d6d1.json)
+
+---
+
+### CEB’s Rs. 93 b profit used to settle power project debts: Minister
+
+*2024-08-22 01:31:29* · [`dailyftlk`](https://www.ft.lk/business/CEB-s-Rs-93-b-profit-used-to-settle-power-project-debts-Minister/34-765831) · `en`
+
+Power and Energy Minister Kanchana Wijesekera yesterday announced that the CEB’s net profit of Rs. 93 billion registered by June was utilised to settle payments of various power project debts.
+
+“The net profit was utilised to pay the outstanding amounts to renewable energy developers, thermal power plants, coal procurement, local suppliers, dues to major projects, rooftop solar, and short-term banking facilities,” he shared via a post on ‘X’.
+
+...
+
+[Data](articles/fd402530.json)
+
+---
+
+### SAB Campus of CA Sri Lanka signs MOU with AATSL for BSc. in Applied Accounting Degree exemptions
+
+*2024-08-22 01:29:22* · [`dailyftlk`](https://www.ft.lk/business/SAB-Campus-of-CA-Sri-Lanka-signs-MOU-with-AATSL-for-BSc-in-Applied-Accounting-Degree-exemptions/34-765830) · `en`
+
+The SAB Campus of The Chartered Institute of Sri Lanka (CA Sri Lanka) and the Association of Accounting Technicians Sri Lanka (AATSL) recently embarked on a new path in accounting by signing a Memorandum of Understanding (MoU) aimed at advancing and collaborating professional education. The MOU grants exemptions for members of AATSL by way of lateral entry to the BSc. in Applied Accounting (General) Degree Program.
+
+The primary objective of this collaboration is to enhance the qualification process for students aiming to obtain an accounting degree from CA Sri Lanka. By providing these exemptions, the MoU opens up new avenues for AATSL members to pursue a globally recognised degree that is approved by the Ministry of Education and recognised by the University Grants Commission. This partnership not only reinforces the commitment of both institutions to academic excellence but also ensures that students have access to a world-class education that meets international standards.
+
+...
+
+[Data](articles/21e4dbff.json)
+
+---
+
+### ‘Sri Lanka Trade Fair Dubai 2024’ in November
+
+*2024-08-22 01:27:45* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Trade-Fair-Dubai-2024-in-November/34-765829) · `en`
+
+Importers from the UAE, Oman, and Saudi Arabia participated in the grand launching ceremony and gala dinner of the ‘Sri Lanka Trade Fair Dubai 2024’
+
+The highly anticipated ‘Sri Lanka Trade Fair Dubai 2024’ (www.srilankatradefair.org), a platform designed to foster business growth and international trade between Sri Lanka and the Gulf region, is set to take place on 2 and 3 November.
+
+The event has garnered the full backing of the Sri Lankan Embassy in the UAE, the Consulate General of Sri Lanka in Dubai, and chambers of commerce across the UAE and other Gulf countries.
+
+The ‘Sri Lanka Trade Fair Dubai 2024’ will showcase the best of Sri Lankan products, services, and innovations, providing a critical platform for Sri Lankan businesses to connect with well over 15,000 buyers, investors, and partners from across the Gulf region and beyond.
+
+...
+
+[Data](articles/d7980854.json)
+
+---
+
+### ’அநாதை அரசியல்வாதிகள் பொய்களை பரப்புகின்றனர்’
+
+*2024-08-22 01:21:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநாதை-அரசியல்வாதிகள்-பொய்களை-பரப்புகின்றனர்/175-342604) · `ta`
+
+அனைத்து மதங்களினதும் சுதந்திரமான வழிப்பாட்டு உரிமைகளையும் அனைத்து கலாச்சார உரிமைகளையும் பேணி பாதுகாத்து முன்னெடுத்துவருவதை ஏற்றுக்கொள்கின்ற ஒரு அரசியல் இயக்கமே தேசிய மக்கள் சக்தியாகும் எனத் தெரிவித்துள்ள அந்த சக்தியின் ஜனாதிபதி வேட்பாளர் அநுரகுமார திஸாநாயக்க, அநாதை அரசியல்வாதிகள் பொய்களை பரப்புகின்றனர் என்றார்.
+
+தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுர குமார திசாநாயக்க அகில இலங்கை ஜம்இய்யத்துல் உலமா அமைப்பின் பிரதானி அஷ்சேக் முஃப்தி ஏ.ஜே.ஏ. ரிஷ்வி, அஷ்சேக் அர்கம் நுரஅமித் மற்றும் கலாநிதி ஏ.ஏ.அஹமட் அஷ்வர் ஆகியோரை ஜயந்த வீரசேகர மாவத்தையில் அமைந்துள்ள அகில இலங்கை ஜம்இய்யத்துல் உலமா சபையின் தலைமை அலுவலகத்தில் புதன்கிழமை (21) சந்தித்தார்.
+
+நாட்டில் நிலவுகின்ற அரசியல் நிலைமைகள் பற்றி முஃப்திமார்களுடனும் நிர்வாக மௌலவிமார்களுடனும் கலந்துரையாடிய அநுரகுமார திசாநாயக்க, எதிர்வரும் ஜனாதிபதித் தேர்தலில் வெற்றி பெறுவதற்கான நல்லாசியையும் பெற்றுக்கொண்டார்.
+
+...
+
+[Data](articles/044d1b5f.json)
+
+---
 
 ### C2S.lk and Rohan De Lanerolle dominate Commonwealth Business Excellence Awards
 
@@ -47,6 +161,8 @@ This pioneering invention by C2S.lk has allowed Sri Lanka to convert 38 Constant
 ...
 
 [Data](articles/5e82ac48.json)
+
+[Extended Data](ext_articles/5e82ac48.ext.json)
 
 ---
 
@@ -66,6 +182,8 @@ The accolades were presented to Officials of Prime Lands Residencies PLC at a ga
 
 [Data](articles/a3f65f52.json)
 
+[Extended Data](ext_articles/a3f65f52.ext.json)
+
 ---
 
 ### Sri Lanka – Singapore Business Council holds 27th AGM
@@ -81,6 +199,8 @@ The Council also welcomed the following companies to its Committee for 2024/2025
 ...
 
 [Data](articles/53d450c6.json)
+
+[Extended Data](ext_articles/53d450c6.ext.json)
 
 ---
 
@@ -2187,191 +2307,5 @@ During the police investigations, police investigations revealed that the car pa
 [Data](articles/e9f56a68.json)
 
 [Extended Data](ext_articles/e9f56a68.ext.json)
-
----
-
-### Dayasiri defeated
-
-*2024-08-21 13:04:06* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරි-ගිය-පැත්ත-පරාදයි/11-411487) · `si`
-
-Prasanna Ranatunga denies issuing excise licenses to anyone, including politicians, amid opposition claims for political gain. He clarifies misinformation in the media and requests corrections. Dayasiri Jayasekera, mentioned for alleged involvement, is defended by Ranatunga, who urges against mudslinging and highlights the importance of truthfulness in politics.
-
-🟩
-
-No one's name is recommended that they have issued an excise license or providing it.
-
-The opposition is socializing on misconceptions to achieve political gain ...
-
-Governor, Urban Development and Housing Minister Prasanna Ranatunga stated that he stated or recommended that one of the employees of an excise license or providing it to any person.
-
-The Minister emphasizes that the opposition is socializing the misconception to achieve political gain.
-
-Parliament was held under the patronage of Speaker Mahinda Yapa Abeywardena.
-
-Minister Prasanna Ranatunga said:
-
-Speaker, I thank you for giving me a chance to correct the wrong information published in the media.
-
-...
-
-[Data](articles/5d1df674.json)
-
-[Extended Data](ext_articles/5d1df674.ext.json)
-
----
-
-### 1,417 deaths of road accidents until 10th August
-
-*2024-08-21 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191605) · `ta`
-
-As of August 10, 1,417 deaths occurred from 1,352 road accidents this year. Compared to previous years, 2023 saw fewer accidents but more fatalities. Motorcycle accidents accounted for many deaths, especially among schoolchildren. Legal actions against helmet-less riders surged significantly in 2023.
-
-🟩
-
-A total of 1,417 people have died in 1,352 accidents till August 10 this year, Deputy Inspector General of Police Indika Hapugoda said.
-
-As of May last year, 84 lakh vehicles were registered with the Motor Transport Department.Of these, 48 lakh (58%) motorcycles and 11 lakh (14%) three -wheelers are registered.
-
-About 12,000 people die annually due to accidents, including submerged, electricity and falling and suicides.
-
-One -third of them (3,000) casualties are caused by road accidents. At the same time, 1000 people have died of motorcycle accidents.
-
-Of the 2,452 accidents in 2021, 2,257 were killed and 2,540 in 2,420 accidents in 2022.
-
-2023 has fewer accidents. Accordingly, 2,325 people died in 2,214 accidents.
-
-A total of 1,417 people have died in 1,352 road accidents that took place till August 10 this year.
-
-...
-
-[Data](articles/568c1f56.json)
-
-[Extended Data](ext_articles/568c1f56.ext.json)
-
----
-
-### Pack. 28 pilgrims killed
-
-*2024-08-21 12:59:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-யாத்ரீகர்கள்-28-பேர்-பலி/50-342564) · `ta`
-
-A tragic accident occurred when a bus carrying over 50 Pakistani pilgrims from Pakistan to Iraq crashed in Iran's Yast province, resulting in 28 deaths and 18 injuries. The victims, from Largana in Pakistan's Indus Province, were traveling through Central Iran. Pakistan's Deputy Prime Minister and Foreign Minister, Ishaq Dar, expressed condolences and pledged support for the injured and the repatriation of the deceased.
-
-🟩
-
-At least 28 Pakistani pilgrims were killed when a bus crashed in Iran and 18 were injured.
-
-From Pakistan to Iraq, more than 50 pilgrims were on their way to the bus, causing a driver to lose control of the Yast province of Central Iran.
-
-Of these, 28 pilgrims died on the spot. They are from Largana, Pakistan's Indus Province. 18 people were admitted to the hospital for treatment.
-
-In this context, Pakistan's Deputy Prime Minister and Foreign Minister Ishaq Dar posted on the social network, “I extend my condolences to the families of the victims of the victims.. All assistance will be done to treat the injured pilgrims. I have advised to arrange the body of the deceased to our ambassador in Tehran to return to Pakistan. ”
-
-◼️
-
-[Data](articles/2edfc7d2.json)
-
-[Extended Data](ext_articles/2edfc7d2.ext.json)
-
----
-
-### 35 Pakistani pilgrims killed
-
-*2024-08-21 12:59:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-கவிழ்ந்ததில்-பாகிஸ்தான்-யாத்ரீகர்கள்-35-பேர்-பலி/50-342564) · `ta`
-
-A tragic accident occurred when a bus carrying over 50 Pakistani pilgrims from Pakistan to Iraq crashed in Iran's Yast province, resulting in 35 deaths and 18 injuries. The victims hailed from Largana, Pakistan's Indus Province. Pakistan's Deputy Prime Minister and Foreign Minister, Ishaq Dar, expressed his condolences and pledged support for the injured and the repatriation of the deceased.
-
-🟩
-
-At least 35 Pakistani pilgrims were killed when a bus crashed in Iran and 18 were injured.
-
-From Pakistan to Iraq, more than 50 pilgrims were on their way to the bus, causing a driver to lose control of the Yast province of Central Iran.
-
-Of these, 35 pilgrims died on the spot. They are from Largana, Pakistan's Indus Province. 18 people were admitted to the hospital for treatment.
-
-In this context, Pakistan's Deputy Prime Minister and Foreign Minister Ishaq Dar posted on the social network, “I extend my condolences to the families of the victims of the victims.. All assistance will be done to treat the injured pilgrims. I have advised to arrange the body of the deceased to our ambassador in Tehran to return to Pakistan. ”
-
-◼️
-
-[Data](articles/3a6153e0.json)
-
-[Extended Data](ext_articles/3a6153e0.ext.json)
-
----
-
-### Pack. 35 pilgrims killed
-
-*2024-08-21 12:59:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-யாத்ரீகர்கள்-35-பேர்-பலி/50-342564) · `ta`
-
-A tragic accident occurred in Iran's Yazd province where a bus carrying over 50 Pakistani pilgrims en route to Iraq collided with another vehicle, resulting in 35 fatalities and injuring 18 others. The victims hailed from Largana, Pakistan's Indus Province. In response, Pakistan's Deputy Prime Minister and Foreign Minister, Ishaq Dar, expressed his condolences and pledged support for the injured and the repatriation of the deceased.
-
-🟩
-
-At least 35 Pakistani pilgrims were killed when a bus crashed in Iran and 18 were injured.
-
-In Central Iran's Yast province, a bus crashed into a bus from Pakistan to Iraq, with more than 50 pilgrims on the bus.
-
-Of these, 35 pilgrims died on the spot. They are from Largana, Pakistan's Indus Province. 18 people were admitted to the hospital for treatment.
-
-In this context, Pakistan's Deputy Prime Minister and Foreign Minister Ishaq Dar posted on the social network, “I extend my condolences to the families of the victims of the victims.. All assistance will be done to treat the injured pilgrims. I have advised to arrange the body of the deceased to our ambassador in Tehran to return to Pakistan. ”
-
-◼️
-
-[Data](articles/75350ea8.json)
-
-[Extended Data](ext_articles/75350ea8.ext.json)
-
----
-
-### Over 1,400 fatalities from road accidents so far in 2024
-
-*2024-08-21 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101395/over-1400-fatalities-from-road-accidents-so-far-in-2024) · `en`
-
-Sri Lanka Police says that a total of 1,417 persons have died from the road accidents that have occurred within the period that has elapsed so far this year.
-
-The Director of the Traffic Administration and Road Safety Division, DIG Indika Hapugoda says that annually around 1,000 fatalities are reported due the motorcycle accidents.
-
-He added that out of the more than 3,000 road accidents that occur each year, one-third are fatalities caused by motorcycle accidents.
-
-“In 2023, a decrease in road accidents was observed”, he said, adding that 2,321 fatalities had occurred from 2,214 road accidents.
-
-Furthermore, he revealed that thus far 1,417 persons have died from 1,352 fatal road accidents between January 01 and August 10, 2024.
-
-Meanwhile, 328 school children have died from fatal road accidents within the last year, according to DIG Hapugoda.
-
-◼️
-
-[Data](articles/20d89b08.json)
-
-[Extended Data](ext_articles/20d89b08.ext.json)
-
----
-
-### Dilith's Strategic Plan to Ceylon Chamber of Commerce
-
-*2024-08-21 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200172) · `si`
-
-Delith Jayaweera presented the second phase of the Norrotom strategy to the Sri Lanka Chamber of Commerce, focusing on economic plans for presidential candidates. This comes amid protests against the Truth Commissioners Act, which critics argue betrays war heroes.
-
-🟩
-
-The second boil of the Norrotom - a Buddhist-filled tomorrow is the second bill of the party's strategic program to the Sri Lanka Chamber of Commerce.
-
-It was at a meeting with the representatives of the board representatives and representatives of the security forces today (21).
-
-Representatives of the Commerce Representatives of the Sri Lanka Chamber of Commerce (SLMC) met the representatives of the elephant candidate.
-
-The Chamber of Commerce under awareness programs on the Presidential candidates on the economic plan, which is compiled by the Chamber of Education.
-
-There, Delith Jayaweera gave the representatives of the Sri Lanka Chamber of Commerce by the Second of the Norrological Strategy Strategy.
-
-Meanwhile, the exempt power has launched a protest to the Diyatha Uyana near the Parliament Rounding this morning.
-
-It is forced to hold the Truth Commissioners Act who betrayed the war heroes who have betrayed the war heroes.
-
-◼️
-
-[Data](articles/b73766e6.json)
-
-[Extended Data](ext_articles/b73766e6.ext.json)
 
 ---

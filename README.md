@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 08:37:02**
+As of **2024-08-21 08:55:50**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 7,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,806 (100.0%) of 41,808 articles have been extended.
+41,808 (100.0%) of 41,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### හෙරොයින් කිලෝවක් සමග පොලිස් දෙදෙනෙක් කොටුවෙති
+### Two police stabbed with a kilo of heroin
 
 *2024-08-21 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200162) · `si`
 
-හෙරොයින් කිලෝග්‍රෑම් 01ක් සන්තකයේ තබාගෙන සිටි පොලිස් පරීක්ෂකවරයෙකු සහ කොස්තාපල්වරයෙකු පිළියන්දලදී අත්අඩංගුවට ගෙන තිබේ.
+In Piliyandala, a police inspector and constable were arrested after being stabbed with a kilo of heroin.
+
+🟩
+
+A police inspector and a constable have been arrested in Piliyandala.
 
 ◼️
 
 [Data](articles/3bb09cb2.json)
+
+[Extended Data](ext_articles/3bb09cb2.ext.json)
 
 ---
 
@@ -1260,17 +1266,23 @@ President Ranil Wickremesinghe has been awarded by the officials of the Departme
 
 ---
 
-### කෙහෙළිය ඇතුළු පිරිසකගෙන් රු. කෝටි 30ක් වන්දි ඉල්ලයි
+### From Keheliya and several others. 30 crore seek compensation
 
 *2024-08-20 19:52:22* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ඇතුළු-පිරිසකගෙන්-රු--කෝටි-30ක්-වන්දි-ඉල්ලයි/11-411474) · `si`
 
-නුවරඑළිය රජයේ මහ රෝහලෙන් කළ ඇසේ සුද ඉවත් කිරීමේ ශල්‍යකර්මවලින් පසු ලබාදුන් ඖෂධ හේතුවෙන් ඇස් පෙනීම අහිමි වීමට වන්දි වශයෙන් හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සෞඛ්‍ය හා රෝහල් බලධාරීන්ගෙන් රුපියල් කෝටි 30 ක වන්දි අය කරදෙන්නැයි ඉල්ලා පුරවැසියන් තිදෙනෙක් කොළඹ දිසා අධිකරණයේ නඩු තුනක් අද (20දා) පැවරූහ.
+In a case filed in the Colombo District Court, 30 crore individuals seek compensation for losing their sight due to drugs from the General Hospital in Nuwara Eliya. The lawsuit targets former Health Minister Keheliya Rambukwella, who received compensation for his lost eye, and other officials for allowing the importation of the faulty drug from an Indian company. The plaintiffs, represented by Attorney Sampath Wijewardene, claim the drug was administered under doctor's orders in April 2023, leading to blindness. They demand accountability and compensation from both the drug suppliers and the approving authorities.
 
-තමන් සදාකාලික අන්ධභාවයට පත්වීමට හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතා ප්‍රමුඛ අදාළ ඖෂධය ඉන්දියානු සමාගමෙන් මෙරටට ගෙන්වීමට අවසර දුන් බලධාරීන්, ඖෂධය අනුමත කළ බලධාරීන් මෙන්ම ඖෂධය ගෙන්වූ සමාගම සම්පූර්ණයෙන්ම වගකිවයුතු බව සඳහන් කරමින් පෙත්සම්කරුවන් මෙම වන්දි නඩු ගොනු කර ඇත.
+🟩
+
+Former Health Minister Keheliya Rambukwella, who has been compensated for the loss of the eye, the Colombo District Court has filed three cases from the Colombo District Court today (20 billion) as compensation to lose their eyesight due to drugs issued by the General Hospital in Nuwara Eliya.Assigned.
+
+The petitioners have filed this compensation, regarding the authorities who have allowed former Health Minister Keheliya Rambukwella who has allowed the drug from the Indian Company and the pharmaceutical authorities who have been allowed to import the drug from the Indian Company.
 
 ...
 
 [Data](articles/1f1515f6.json)
+
+[Extended Data](ext_articles/1f1515f6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 07:03:20**
+As of **2024-08-21 07:30:08**
 
 ## Newspaper Stats
 
-*Scraped **41,795** Articles*
+*Scraped **41,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,889
 tamilmirrorlk | 5,405
 virakesarilk | 6,648
-adaderanasinhalalk | 7,132
+adaderanasinhalalk | 7,133
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,795 (100.0%) of 41,795 articles have been extended.
+41,795 (100.0%) of 41,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### අදත් ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
+
+*2024-08-21 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200156) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කළේ, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 75ට වැඩිතරමක තද වැසි ඇති විය හැකි බවය.
+
+නැගෙනහිර, ඌව සහ උතුරුමැද පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇති විය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/62962e77.json)
+
+---
 
 ### Easter Sunday attack:
 
@@ -2303,27 +2323,5 @@ At the same time, police said that the sudden explosion of the gun was severely 
 [Data](articles/87e2fa19.json)
 
 [Extended Data](ext_articles/87e2fa19.ext.json)
-
----
-
-### Sri Lanka insurance can help in economic recovery: CB Governor
-
-*2024-08-20 15:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-insurance-can-help-in-economic-recovery-cb-governor-177191/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s insurance sector can play a role in the country’s economic recovery, by helping mobilize long term funds and also providing to the needs of an ageing population, Central Bank Governor Nandalal Weerasinghe said.
-
-Agriculture was another area that insurance could play a greater role.
-
-Sri Lanka is now recovering from an economic crisis two years ago and insurance had a role to play.
-
-“As long-term investors, insurance companies can make a notable contribution towards development financing, especially in the context of limited long-term financing available in Sri Lanka,” he said at an international forum organized by the Insurance Association of Sri Lanka.
-
-“Even in the banking sector, we don’t have long-term financing available. The insurance sector can play this role, especially for SMEs. And large-scale development projects as long-term investment opportunities.”
-
-...
-
-[Data](articles/1f8b3221.json)
-
-[Extended Data](ext_articles/1f8b3221.ext.json)
 
 ---

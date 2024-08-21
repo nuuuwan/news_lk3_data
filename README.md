@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 16:36:48**
+As of **2024-08-21 16:53:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,155
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,889 (100.0%) of 41,902 articles have been extended.
+41,899 (100.0%) of 41,902 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,17 +44,25 @@ He was sworn in before President Ranil Wickremesinghe, a short while ago.
 
 [Data](articles/9e8a9957.json)
 
+[Extended Data](ext_articles/9e8a9957.ext.json)
+
 ---
 
-### இராஜாங்க அமைச்சராக வடிவேல் சுரேஷ் பதவியேற்பு
+### Vadivel Suresh is sworn in as diplomatic minister
 
 *2024-08-21 16:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சராக-வடிவேல்-சுரேஷ்-பதவியேற்பு/175-342573) · `ta`
 
-தொழில் இராஜாங்க அமைச்சராக வடிவேல் சுரேஷ் எம்.பி , ஜனாதிபதி ரணில் முன்னிலையில் பதவியேற்றார்.
+Vadivel Suresh, an MP, has been appointed as the Minister of Industry, with President Ranil presiding over his swearing-in ceremony.
+
+🟩
+
+Vadivel Suresh MP was sworn in as the Minister of Industry and President Ranil.
 
 ◼️
 
 [Data](articles/55424e63.json)
+
+[Extended Data](ext_articles/55424e63.ext.json)
 
 ---
 
@@ -82,43 +90,57 @@ The operating committee of the March 12 movement says that more information can 
 
 ---
 
-### யாழ்.போதனாவில் சத்திரசிகிச்சை மூலம் துண்டாக்கப்பட்ட கைகள் இணைப்பு
+### Link with shredded hands by surgery in Jaffna
 
 *2024-08-21 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191638) · `ta`
 
-குறித்த தகவலை யாழ்ப்பாணம் போதனா வைத்தியசாலைப் பணிப்பாளர் த. சத்தியமூர்த்தி தனது சமூகவலைத்தளப்பதிவில் தெரிவித்துள்ளார்.
+A youth underwent a lengthy surgery at Jaffna Hospital, returning home afterward. The operation was performed by medical experts, including doctors and nurses, under the direction of Dr. Satyamurthy.
 
-யாழ்.போதனா வைத்தியசாலை யில் கடந்த மாதம் கை துண்டிக்கப்பட்ட நிலையில் இளைஞன் ஒருவர் அனுமதிக்கப்பட்டிருந்தார்.
+🟩
 
-இந்நிலையிலேயே, நீண்ட மணிநேர சத்திர சிகிச்சையின் பின்னர் வெற்றிகரமாக மீண்டும் கை பொருத்தப்பட்டு இளைஞன் வீடு திரும்பியுள்ளார்.
+Director of Jaffna Teaching Hospital. Satyamurthy said in his social network.
 
-குறிப்பிட்ட சத்திரசிகிச்சையை வெற்றிகரமாக மேற்கொண்ட வைத்திய நிபுணர்கள், வைத்தியர்கள், தாதியர்கள் மற்றும் உத்தியோகத்தர்கள்
+A youth was admitted to Jaffna Hospital last month.
+
+In this case, the young man has returned home after a long hour of surgery.
+
+Medical experts, doctors, nurses and officers who have successfully carried out a particular surgery
 
 ◼️
 
 [Data](articles/0cd56655.json)
 
+[Extended Data](ext_articles/0cd56655.ext.json)
+
 ---
 
-### பற்றி எரியும் அமேசான் காடு ; மூச்சுவிட திணறும் பிரேசிலிய மக்கள்
+### Amazon forest about burning;Brazilian people who breathe
 
 *2024-08-21 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191630) · `ta`
 
-பிரேசிலில்  அமேசான் காட்டுப்பகுதியில் தீப்பரவல் ஏற்பட்டுள்ளதால் ரொண்டோனியா மாநிலத்திலுள்ள போர்டோ வெல்ஹோவில் சூரிய வெளிச்சத்தை கூட காணமுடியாத அளவிற்கு அடர்த்தியான புகை சூழ்ந்துள்ளது.
+In Brazil, the Amazon forest fires are causing severe air pollution, especially in Porto Velho, Rondonia, affecting residents' health. The PM 2.5 levels exceed WHO guidelines by 11 times, increasing risks of lung diseases and other health issues. Illegal agricultural practices contribute to the wildfires, with over 42,000 recorded since January, a significant increase from previous years.
 
-இந்நிலையில்,  புகை சூழ்ந்துள்ளமையினால்  460,000 பேர் வசிக்கும் பொலிவியாவின் எல்லைக்கு அருகிலுள்ள நகரத்திலுள்ள  30 வயதுடைய  ஆசிரியர் தயானே மோரேஸ், "நாங்கள் சுவாசிக்க சிரமப்படுகிறோம்" என்று கூறியுள்ளார்.
+🟩
 
-போர்டோ வெல்ஹோவில் செவ்வாய்க்கிழமை (20) பிஎம்2.5 எனப்படும் புற்றுநோயை உண்டாக்கும் நுண்துகள்களின் செறிவு ஒரு கன மீட்டர் காற்றில் 56.5 மைக்ரோகிராம்களாக அதிகரித்துள்ளது.
+Due to a fire in the Amazon forest area in Brazil, Porto Wellho, the state of Rondonia, has been so dense smoke.
 
-உலக சுகாதார ஸ்தாபனத்தின் நுண்துகள்களின் அதிகபட்ச வழிகாட்டுதல் வரம்புகளை விட 11 மடங்கு அதிகரித்துள்ளது.
+In this case, Dayan Mysore, a 30 -year -old teacher in the city near the border of Bolivia, where 460,000 people live, said, "We are having trouble breathing."
 
-இந்த நுண்துகள்களை சுவாசிப்பதால்  நுரையீரல் புற்றுநோய், இதய நோய், பக்கவாதம், நீரிழிவு மற்றும் பிற உடல்நலப் பிரச்சனைகளின் அபாயத்தை அதிகரிப்பதாக கண்டறியப்பட்டுள்ளது.
+In Porto Welho, on Tuesday (20), PM 2.5, the concentration of pimples, called PM 2.5, increased to 56.5 micrograms in a cubic meter of air.
 
-14 ஆம் திகதி ஒரு கன மீட்டருக்கு 246.4 மைக்ரோகிராம் ஆபத்தான  அளவில் காணப்பட்டுள்ளதாக காற்றின் தரத்தைர கண்காணிக்கும் IQAir நிறுவனம் தெரிவித்துள்ளது.
+The World Health Organization has increased 11 times more than the maximum guidelines of the captures.
+
+Breathing these pushing has been found to increase the risk of lung cancer, heart disease, stroke, diabetes and other health problems.
+
+The IQair, which monitors the air quality, said that 246.4 micrograms were dangerous per cubic meter on the 14th.
+
+The Rondonia state government has begun a complaint to complain about it that the wildfire is spreading as agriculture is illegally setting fire to the use of land.
 
 ...
 
 [Data](articles/04d55251.json)
+
+[Extended Data](ext_articles/04d55251.ext.json)
 
 ---
 
@@ -180,17 +202,27 @@ Sri Lanka were also able to win the two-match Test tournament.
 
 ---
 
-### உலக நாயகன்' கமல்ஹாசனின் பாராட்டு மழையில் 'கொட்டுக்காளி'
+### The world hero 'Kamal Haasan's praise'
 
 *2024-08-21 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/191625) · `ta`
 
-தமிழ் திரை உலகின் முன்னணி நட்சத்திரக் கலைஞரான சூரி - அன்னா பென் இணைந்து முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'கொட்டுக்காளி' எனும் திரைப்படத்தை 'உலக நாயகன்' கமல்ஹாசன் பாராட்டி இருக்கிறார். மேலும் படத்தினை பாராட்டி நற்சான்றிதழ் ஒன்றையும் வழங்கியிருக்கிறார்.
+"Kamal Haasan, known as 'World Man,' praises 'Kottukali,' highlighting its realistic storytelling and appreciating director Vinod Raj and producer Sivakarthikeyan."
 
-'கூழாங்கல்' எனும் படைப்பை இயக்கி ரசிகர்களின் கவனத்தை கவர்ந்த இயக்குநர் பி. எஸ். வினோத் ராஜ் இயக்கத்தில் உருவாகி இருக்கும் 'கொட்டுக்காளி' எனும் திரைப்படத்தில் சூரி, அன்னா பென் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பி. சக்திவேல் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்தினை கணேஷ் சிவா தொகுத்திருக்கிறார்.  யதார்த்த வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை எஸ் கே புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் நடிகரும், தயாரிப்பாளருமான சிவகார்த்திகேயன் தயாரித்திருக்கிறார்.
+🟩
+
+'World Man' Kamal Haasan praises the film 'Kottukali', which is the leading role of the Tamil screen world's leading star Suri - Anna Ben.. He has also given a credentials in appreciation of the film.
+
+Director P.. S.. Suri, Anna Ben and many others have starred in the film 'Kottukkali' directed by Vinod Raj. B.. Ganesh Siva has compiled the film, which has been recorded by Sakthivel.The film, which is based on realistic life, has produced the film on behalf of SK Productions and produced Sivakarthikeyan.
+
+The film is released on the 23rd of the film House.. As the peak of this, the 'World Man' Kamal Haasan, who is hailed as the 'Narakamatum Encyclopedia' of Tamil cinema, has been praised by the film and has given a credential.
+
+In it, he said, “The Kottukkali film crew is telling a wonderful rational story in the world of cinema. Mr.. Thank you to Sivakarthikeyan. ”
 
 ...
 
 [Data](articles/d431ee62.json)
+
+[Extended Data](ext_articles/d431ee62.ext.json)
 
 ---
 
@@ -248,15 +280,21 @@ State Cabinet Minister Girish Mahajan, who attempted to pacify the protesters, a
 
 ---
 
-### இன்றைய நாணயமாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-21 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191622) · `ta`
 
-இன்று புதன்கிழமை  (ஆகஸ்ட் 21) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை  295.2072 ரூபா ஆகவும் விற்பனை விலை  304.4523 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's buying rate was 295.2072 rupees and selling rate was 304.4523 rupees as per the Central Bank's update on August 21.
+
+🟩
+
+The US dollar purchasing price was 295.2072 rupees and the sales price were 304.4523 rupees based on a currency exchange rate released by the Central Bank on Wednesday (August 21).
 
 ◼️
 
 [Data](articles/f166ec83.json)
+
+[Extended Data](ext_articles/f166ec83.ext.json)
 
 ---
 
@@ -310,23 +348,35 @@ The Maligakanda Magistrate's directive to the law was filed against the law, who
 
 ---
 
-### 67 හැවිරිදි විවාහක කතගේ ආදරය නොලැබුණයි 71 හැවිරිදි වැඩිහිටියෙක් ජීවිතයට සමුදෙයි
+### A 71-year-old adult is not the love of 67 years old
 
 *2024-08-21 13:57:41* · [`adalk`](https://www.ada.lk/breaking_news/67-හැවිරිදි-විවාහක-කතගේ-ආදරය-නොලැබුණයි-71-හැවිරිදි-වැඩිහිටියෙක්-ජීවිතයට-සමුදෙයි/11-411489) · `si`
 
-කොහුවල සිරිගල් මාවතේ දෙමහල් නිවසක් ඉදිරිපිට ආලින්දයේ දි  පුද්ගලයෙකුගේ  සිරුරට ගිනි ඇවිලි මිය ගොස් ඇතැයි   කොහුවල පොලිසිය කියයි.
+Alan, a 71-year-old, was murdered outside his temporary shelter in Kohuwala. The crime scene included two plastic bottles and a ground-overland vehicle. Investigations suggest Alan had a brief phone contact with someone before his death. A woman reported seeing him alive earlier, but he was found dead later. The case is under investigation by the Kohuwala Police Station.
 
-මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 71 ක් වන ආලන් නමැති පුද්ගලයෙකි. මළ සිරුර වැටී තිබූ ස්ථානයේ ගිනිපෙට්ටියක් සහ භූමි තෙල් ගඳවාහනය වන ප්ලාස්ටික් බෝතල් දෙකක් තිබී පොලිසිය මගින් සොයාගෙන ඇත.
+🟩
 
-මියගිය පුද්ගලයා මෙම නිවසේ කාමරයක ඉකුත් වසරේ අග භාගයේදී මාස තුනක කාලයක් තාවකාලිකව නවාතැන් ගෙන සිට ඇතැයි  පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+A man's body was killed in front of a two storied house in Kohuwala Road, Kohuwala police said.
 
-ෙඑම පුද්ගලයා පොරොන්දු වූ පරිදි කාමරයට ගෙවිය යුතු රුපියල් 10000/=  ක මුදල ලබා නොදීමත් මත 69 හැවිරිදි  නිවෙස් හිමිකාරිය නිවසින් පිටමන් කර ඇතැයි පොලිසිය කියයි.
+The deceased has been identified as Alan, aged 71. Police found two plastic bottles of a faction and ground-overlands where the corpse was fallen.
 
-පසුවද ඔහු වරින් වර මෙම කාන්තාවට දුරකථන ඇමතුම් ලබාදී අනියම් සබඳතාවයක් පවත්වාගෙන යාමට උත්සාහ දරා ඇති අතර පෙරේදා (20) එම කාන්තාවගේ කොහුවල කඩවත පාරේ ව්‍යාපාරික ස්ථානය වෙත බෝතල් කීපයක් බහා තිබූ බෑගයක් රැගෙන පැමිණ නිවසේ නවාතැන් ගැනීමට ඉඩ ලබා නොදුනහොත් ඇයත් මරා ඔහුත් මැරෙන බව පවසා තර්ජනය කර ඇතැයි  පොලිසිය කියයි.
+Police investigations have revealed that the deceased has been a temporary shelter in the late last year.
+
+The 69-year-old home owners have been leaving home due to the fact that the cargo had promised the room.
+
+After that, he had tried to maintain a telephone briefly with a number of bottles to the Kadawala road to the Kadawala road in Kohuwala, evening, and said she too would kill the woman in Kohuwala.Police say it is.
+
+The woman had come to the police and arrived at the police and returned to the police with police officers, police said.
+
+When police officers immediately operated in the 1990 policemen
+
+The man was reportedly deceased, police said.
 
 ...
 
 [Data](articles/c703ed20.json)
+
+[Extended Data](ext_articles/c703ed20.ext.json)
 
 ---
 
@@ -386,23 +436,33 @@ The suspect has been arrested by the police and confirmed that the legal action 
 
 ---
 
-### ஜனாதிபதி பதவி என்பது 'கறுப்பினத்தவர்களின் வேலை" டிரம்பிற்கு மிச்செல் ஒபாமா பதிலடி
+### Michelle Obama retaliates to Trump
 
 *2024-08-21 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/191619) · `ta`
 
-அமெரிக்க ஜனநாயக கட்சியின் மாநாட்டில் உரையாற்றுகையில் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பின் குணாதிசயத்தையும் அவரது இனவெறி கருத்துக்களையும் மிச்செல்  ஓபாமா கடுமையாக சாடியுள்ளார்.
+At the US Democratic Party conference, Michelle Obama criticized Donald Trump's character, highlighting his racist comments and narrow worldview. She mentioned Trump's mockery of Black people during his campaign and questioned his qualifications for presidency. Obama emphasized Trump's promotion of hate and lies, contrasting them with genuine ideas and solutions. She drew parallels between the excitement around Kamala Harris's nomination and the hopeful atmosphere of her husband's 2008 campaign, describing it as magical and deeply moving.
 
-உலகத்;தை பற்றிய அவரது வரையறுக்கப்பட்ட குறுகிய பார்வை, இரண்டு கடின உழைப்பாளிகளான கல்விகற்றவர்களான ,வாழ்க்கையில் வெற்றிபெற்றவர்களான இருவரின் இருப்பு குறித்து அவருக்கு அச்சத்தை ஏற்படுத்தியது என தெரிவித்துள்ள அவர் அந்த இருவரும் கறுப்பினத்தவர்கள் எனவும் தெரிவித்துள்ளார்.
+🟩
 
-கறுப்புவேலைகள் என டிரம்ப் தனது பிரச்சாரத்தின் போது கேலி செய்திருப்பதை மிட்செல் ஒபாமா சுட்டிக்காட்டியுள்ளார்.
+Speaking at the US Democratic Party conference, Michelle Obama has strongly criticized former President Donald Trump's character and his racist ideas.
 
-டிரம்ப்  தற்போது தேடும் வேலை( ஜனாதிபதி பதவி ) அந்த கறுப்புவேலைகளில் ஒன்றாகயிருக்கலாம் என யார் அவருக்கு தெரிவிக்கப்போகின்றார்கள் என மிட்செல் ஒபாமா கேள்வி எழுப்பியுள்ளார்.
+His limited short view of the world, he said that the two hard workers, who were educated and the winners of life, were afraid of the existence of the two.
 
-டிரம்ப் உண்மையான யோசனைகள் மற்றும் தீர்வுகளிற்கு மாறாக அசிங்கமான பெண் வெறுப்பு ,இனவாத பொய்களை முன்வைப்பவர் டிரம்ப் என மிச்செல் ஒபாமா சாடியுள்ளார்.
+Mitchell Obama has pointed out that Trump has mocked during his campaign as black tours.
 
-...
+Mitchell Obama has questioned who is going to tell him that Trump is currently searching for the post of President (President).
+
+Michelle Obama has claimed that Trump is the one who proposes ugly woman hatred and racist lies rather than Trump's real ideas and solutions.
+
+Michelle Obama said the feelings about Kamala Haris in the National Conference of the Democratic Party and the United States were like the feelings of her husband's presidential election campaign in 2008.
+
+He said that there is a miraculous magic in the air and a feeling of deeply buried deeply.
+
+◼️
 
 [Data](articles/bc1c908b.json)
+
+[Extended Data](ext_articles/bc1c908b.ext.json)
 
 ---
 
@@ -1214,23 +1274,35 @@ After entering politics in 2010, Field Marshal Sarath Fonseka said that he had t
 
 ---
 
-### වගා හානි වන්දි අක්කරයකට රු. 100000ක් කරන්න යෝජනාවක්
+### A sum of Rs.. Proposal to do 100000
 
 *2024-08-21 10:49:54* · [`adalk`](https://www.ada.lk/breaking_news/වගා-හානි-වන්දි-අක්කරයකට-රු--100000ක්-කරන්න-යෝජනාවක්/11-411482) · `si`
 
-වගා හානි වන්දි ලබා දීමේ දී දැනට අක්කරයක් සඳහා  රජය විසින් නොමිලයේ ගෙවනු ලබන රුපියල් 40,000ක මුදල රුපියල් 100,000ක් දක්වා වැඩි කරන ලෙස පොලොන්නරුව පරාක්‍රම සමුද්‍ර ව්‍යාපාර ගොවි සංවිධානය කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගෙන් ඉල්ලීමක් කළේය.
+The Parakrama Market Farmer Organization in Polonnaruwa asked the Minister of Agriculture for increased support due to damages from droughts, floods, and forest fires. The Minister responded by proposing a compensation scheme covering six crops without any farmer contributions. Additionally, the government will waive import taxes on agricultural equipment, though VAT may still apply.
 
-මෙම ඉල්ලීම ඉදිරිපත් කළේ , කෘෂි කර්ම අමාත්‍යවරයා හා පොලොන්නරුව පරාක්‍රම සමුද්‍ර ව්‍යාපාර ගොවි සංවිධානයේ සාමාජිකයින් අතර ඊයේ (20) ගොවි ගැටලු පිළිබඳ පැවති සාකච්ඡාවක දීය.
+🟩
 
-එහිදී එම ගොවි සංවිධානය, අමාත්‍යවරයා වෙත ඉදිරිපත් කළ යෝජනා මාලාව
+The Parakrama Market Farmer Organization of Polonnaruwa currently requested the Minister of Agriculture and Plantation Industries to increase the Rs.
 
-අතර ප්‍රමුඛ යෝජනාවක් වුයේ මේ වනවිට සෑම වසරකම නියඟය, ගංවතුර සහ  වනසතුන්ගෙන් සිදුවන වගා හානි ඉහළ යමින් පවතින නිසා වගා හානියක දී දැනට අක්කරයක් සඳහා රජය විසින්  කිසිදු දායකත්ව මුදලක් ලබා නොගනිමින් ගෙවනු ලබන රුපියල් 40,000ක වන්දි මුදල රුපියල් 100,000ක් දක්වා ඉහළ නැංවීමට පියවර ගන්නා ලෙසයි.
+The request was presented at a discussion on the farming issues of the agriculture minister and members of the Polonnaruwa Minister of Polonnaruwa yesterday (20).
 
-ඒ අනුව වගා හානි සිදුවන හෙක්ටයාර් එකකට රුපියල් 250,000ක වන්දි මුදලක් හිමි වේ.
+The Farmer Organization presented to the Minister
+
+A prominent proposal was that the government is currently increasingly damaged by the drought, floods and forest damage to the cultivation of a cultivation at present.
+
+Accordingly, a cost of compensation will be paid to Rs 250,000 per hectare.
+
+The Minister of Agriculture stated that he has already presented the Cabinet paper to pay Rs.
+
+It is compensated for drought, floods and wildlife, under this cultural damn compensation program. Accordingly Agricultural insurance covers six crops, maize, chilli, onions, soybeans and potatoes.
+
+The specialty of this is that no contributions from the farmers do not charge.
 
 ...
 
 [Data](articles/c3b098b4.json)
+
+[Extended Data](ext_articles/c3b098b4.ext.json)
 
 ---
 
@@ -1384,23 +1456,31 @@ He also emphasized that bringing the maiden rally to Anuradhapura is an importan
 
 ---
 
-### සොබාධනවි 28 දා විවෘත කරයි
+### Sounds to open on the 28th
 
 *2024-08-21 10:14:45* · [`adalk`](https://www.ada.lk/breaking_news/සොබාධනවි-28-දා-විවෘත-කරයි/11-411480) · `si`
 
-ශ්‍රී ලංකාව පිරිසිදු සහ තිරසර බලශක්ති උත්පාදනයක් කරා යන ගමනේ වැදගත් සන්ධිස්ථානයක් සනිටුහන් කරමින්,
+Sri Lanka is marking a significant step towards sustainable energy with a MoU between LTTE Holdings and Petronet LNG, aiming for a reliable, quality, and cost-effective power supply. This initiative, led by Power and Energy Minister Kanchana Wijesekara, aligns with President Ranil Wickremesinghe's renewable energy program. The project involves constructing an LNG terminal near the Sanjeewa Power Plant, with the first phase set to begin operations soon, promising to reduce electricity costs and support economic growth.
 
-එල්ටීඑල් හොල්ඩිංග්ස් සමාගම සහ ඉන්දියාවේ පෙට්‍රොනෙට් එල්එන්ජී සමාගම අතර අවබෝධතා ගිවිසුමකට අත්සන් තැබේ.
+🟩
 
-අවම පිරිවැයක් යටතේ අඛණ්ඩ සහ ගුණාත්මක විදුලි සැපයුමක් සහතික කිරීම අරමුණයි.
+Sri Lanka marks an important turning point on the journey to clean and sustainable energy generation,
 
-පුනර්ජනීය බලශක්තිය කරා යොමුවිමේ ජනපතිගේ වැඩපිළිවෙළ ශක්තිමත් කරන අවස්ථාවක් – විදුලිබල හා බලශක්ති අමාත්‍ය කාංචන විජේසේකර මහතා.
+A Memorandum of Understanding (MoU) signed between the LTTE holdings and Petront LNG company in India.
 
-කෙරවලපිටිය “සොබාධනවි” ඒකාබද්ධ චක්‍රීය බලාගාරය සඳහා ද්‍රවීකෘත ස්වභාවික වායු (Liquefied Natural Gas – LNG) ගබඩා කිරීම වෙනුවෙන් යටිතල පහසුකම් සංවර්ධනය, LNG ප්‍රතිවායුකරණ කිරීම සහ සැපයීම සම්බන්ධයෙන් ශ්‍රී ලංකාවේ එල්ටීඑල් හොල්ඩිංග්ස් සමාගම (LTL Holdings Limited, Sri Lanka) සහ ඉන්දියාවේ පෙට්‍රොනෙට් එල්එන්ජී සමාගම (Petronet LNG Limited,India) අතර අවබෝධතා ගිවිසුමකට (MOU) අත්සන් තැබීම අද (20) පස්වරුවේ කොළඹ ගලධාරි හෝටලයේදී සිදු කෙරිණ.
+The objective is to ensure a continuous and quality power supply under the minimum cost.
+
+Minister of Power and Energy Kanchana Wijesekara is an opportunity to strengthen the presence of the President's program to renewable energy - Power and Energy Minister Kanchana Wijesekara.
+
+Sangetables to KerawalapitiyaA Memorandum of Understanding (MoU) was held between Petronet Lng Lng Lng LNG Limited (Mounu) at Galadi Hotel this afternoon.
+
+Sri Lanka's CEO Numan Marikkar and its Chief Executive Officer and Managing Director of Sri Lanka (Its Ceylon) signed the agreement with its CEO and Managing Officer to India's Petront LNG.
 
 ...
 
 [Data](articles/cd2577f4.json)
+
+[Extended Data](ext_articles/cd2577f4.ext.json)
 
 ---
 

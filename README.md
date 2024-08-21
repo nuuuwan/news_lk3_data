@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 21:56:25**
+As of **2024-08-21 22:10:29**
 
 ## Newspaper Stats
 
-*Scraped **41,946** Articles*
+*Scraped **41,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 2,701
 adalk | 3,867
 dailymirrorlk | 4,733
 adaderanalk | 4,909
-tamilmirrorlk | 5,436
+tamilmirrorlk | 5,437
 virakesarilk | 6,677
-adaderanasinhalalk | 7,164
+adaderanasinhalalk | 7,165
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,946 (100.0%) of 41,946 articles have been extended.
+41,946 (100.0%) of 41,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### මංගල ටෙස්ට් තරගයේ මිලාන්ගෙන් අර්ධ ශතකයක්
+
+*2024-08-21 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200190) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගය මැන්චෙස්ටර්, ඕල්ඩ් ට්‍රැෆර්ඩ් ක්‍රීඩා පිටියේදී අද (21) ආරම්භ වුණි.
+
+එහිදී සිය මංගල ටෙස්ට් තරගයට එක්වූ මිලාන් රත්නායක සිය පළමු අර්ධ ශතකය වාර්තා කළේය.
+
+ඉනිමේ පළමු 6 පහරද වාර්තා කළ මිලාන් සිය අර්ධ ශතකය වෙනුවෙන් 6 පහර 01ක් සහ 4 පහර 5ක් ලබා ගත්තේය.
+
+◼️
+
+[Data](articles/80510633.json)
+
+---
+
+### அநுராதபுரத்தில் SLPP-யின் பிரசாரக் கூட்டம்
+
+*2024-08-21 21:41:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுராதபுரத்தில்-SLPP-யின்-பிரசாரக்-கூட்டம்/175-342590) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்சவுக்கு ஆதரவு திரட்டி, அநுராதபுரத்தில் இன்று தேர்தல் பிரசாரக் கூட்டம் நடைபெற்றது.
+
+மேலும், இந்த கூட்டத்தில் முன்னாள் ஜனாதிபதியும், நாமலின் தந்தையுமான மஹிந்த ராஜபக்ஸவும் கலந்துகொண்டிருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/9457b064.json)
+
+---
 
 ### The child who died of doctor's negligence in Vavuniya
 
@@ -2357,47 +2387,5 @@ The specialty of this is that no contributions from the farmers do not charge.
 [Data](articles/c3b098b4.json)
 
 [Extended Data](ext_articles/c3b098b4.ext.json)
-
----
-
-### Bandarigoda MP
-
-*2024-08-21 10:43:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டாரிகொட-எம்-பியாக-சத்தியப்பிரமாணம்/175-342552) · `ta`
-
-Mahinda Yapa Abeywardena sworn in as MP, replacing former minister Manusha Nanayakkara who lost his seat.
-
-🟩
-
-Bandula Lal Bandarigoda Speaker Mahinda Yapa Abeywardena today sworn in as a Member of Parliament.
-
-Former minister Manusha Nanayakkara lost his parliamentary post and was appointed to the vacancy.
-
-◼️
-
-[Data](articles/1bcdbc61.json)
-
-[Extended Data](ext_articles/1bcdbc61.ext.json)
-
----
-
-### Minister to commit paddy purchasing problem
-
-*2024-08-21 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200168) · `si`
-
-The Minister of Paddy criticizes the Ministry of Finance for mishandling paddy purchases, citing issues with Malhemen's operation and allegations of corruption among officials. He expresses frustration over the lack of transparency and fairness towards farmers, calling for the Ministry of Finance to address these problems directly.
-
-🟩
-
-The Minister of Paddy has been launched due to the arbitrary process of several officers of the Ministry of Finance.
-
-He says that paddy purchasing has been handed over to Malhemen, but it is not functioning properly.
-
-"We demanded the money. So they believe in the officials about the padees or about the paddy field. How can I trust that?I have already informed the Ministry of Finance to the Ministry of Finance. Officers who are not even paying money. When you do, we are doing. There is no need for me accusing me. The highest process I have to take on my side has been accessed. It is inevitable to farmers unfairly. It accepts. What do I do?What can I do?I have nothing to do to work with some of these officers. It tells me to release me from this responsibility. "
-
-...
-
-[Data](articles/77395577.json)
-
-[Extended Data](ext_articles/77395577.ext.json)
 
 ---

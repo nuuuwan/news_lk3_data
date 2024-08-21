@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 15:06:41**
+As of **2024-08-21 15:21:28**
 
 ## Newspaper Stats
 
-*Scraped **41,885** Articles*
+*Scraped **41,887** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
-bbccomsinhala | 386
+bbccomsinhala | 387
 colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,527
 dailyftlk | 2,701
 adalk | 3,857
 dailymirrorlk | 4,733
-adaderanalk | 4,902
+adaderanalk | 4,903
 tamilmirrorlk | 5,425
 virakesarilk | 6,661
 adaderanasinhalalk | 7,153
@@ -26,35 +26,61 @@ adaderanasinhalalk | 7,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,882 (100.0%) of 41,885 articles have been extended.
+41,885 (100.0%) of 41,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### විදේශීය පිඹුරන් 4ක් සහ ගැට කිඹුලෙක් සඟවාගෙන සිටි පිරිසක් අත්අඩංගුවට
+### Sarvajana Balaya’s strategic plan presented to Ceylon Chamber of Commerce
+
+*2024-08-21 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101398/sarvajana-balayas-strategic-plan-presented-to-ceylon-chamber-of-commerce) · `en`
+
+The second draft of the strategic plan of the ‘Sarvajana Balaya’ alliance has been presented to the representatives of Ceylon Chamber of Commerce (CCC) on Wednesday (21).
+
+The representatives of the Ceylon Chamber of Commerce had met with the Presidential Candidate of the ‘Sarvajana Balaya’ alliance and leader of the Mawbima Janatha Party (MJP) entrepreneur Dilith Jayaweera at the headquarters of MJP this morning.
+
+The meeting took place under the CCC’s series of programmes to educate the presidential candidates regarding its landmark policy document, ‘Vision 2030,’ designed to steer Sri Lanka towards sustainable and inclusive development by 2030.
+
+A copy of this comprehensive economic plan was also presented to presidential candidate Dilith Jayaweera during today’s meeting.
+
+In a post on ‘X’ (formerly Twitter), MJP leader Dilith Jayaweera stated that he briefed the Ceylon Chamber of Commerce on the Sarvajana Balaya strategic plan at the party headquarters this morning.
+
+...
+
+[Data](articles/26f476df.json)
+
+---
+
+### Foreign plans and a group of people arrested
 
 *2024-08-21 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200177) · `si`
 
-නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් විකිණීම සඳහා සඟවාගෙන සිටි විදේශීය පිඹුරන් සිව් දෙනෙකු වත්තල පොලීසිය විසින් අද (21) සිය භාරයට ගෙන තිබේ.
+Wattala Police arrested four foreigners hiding reptiles in their luggage, suspected to be worth up to $30,000 each. The animals were discovered during a raid and will be sent to the Dehiwala Zoo for examination. The suspects face charges and will appear in court.
 
-පොලීසිය සඳහන් කළේ එම වැටලීමේදී ශ්‍රී ලංකාවේ ගැට කිඹුලෙකු ද සොයාගත් බවය.
+🟩
 
-වත්තල ප්‍රදේශයේ සුරතල් සතුන් අලෙවි කරන ස්ථානයක උඩු මහළ තුළ මෙම සතුන් සඟවාගෙන සිට ඇති අතර සිද්ධිය සම්බන්ධයෙන් අදාළ අලෙවිසැළ පවත්වාගෙන ගිය හිමිකරු සහ සේවකයන් දෙදෙනෙකු ද වත්තල පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+Four foreign scales were taken into custody by the Wattala Police today (21).
 
-පිරිමි පිඹුරන් දෙදෙනෙකු සහ ගැහැණු සතුන් දෙදෙනෙකු මෙලෙස පොලීසිය විසින් සිය භාරයට ගෙන ඇත.
+Police said the raid was also found in Sri Lanka.
 
-මෙම සතුන් ගුවන් මගින් ගමන් මලු තුළ සඟවා මෙරටට රැගෙන එන්නට ඇතැයි පොලීසිය සැක පළ කරයි.
+These animals were hidden in the upper floor in Wattala and two employees and two employees have been arrested by the Wattala Police.
 
-ගැට කිඹුලා ශ්‍රී ලංකාවේ වියළි කළාපීය ප්‍රදේශයක පිහිටි වැවකින් අල්ලා ගන්නට ඇතැයි සැක කරන අතර මෙම එක් සතෙකු රුපියල් ලක්ෂ තුනකට ඉහළ මිළකට අලෙවි කිරීම සඳහා සූදානම් කර තිබියදී මෙලෙස සොයාගෙන තිබේ.
+Two male pimens and two females have been taken into custody by the police.
 
-මෙම සතුන් දෙහිවල සත්වෝද්‍යානය වෙත යොමු කර ඔවුන් පිළිබඳ වාර්තාවක් ලබා ගැනීමට පොලීසිය පියවර ගෙන ඇත.
+Police suspect that the animals have been brought hidden in luggage through aircraft.
 
-සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් වත්තල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+The knock crocodile suspects that one of these animals were preparing for three lakhs to three lakhs.
+
+Police have taken steps to direct these animals to the Dehiwala Zoo and obtain a report on them.
+
+The suspects are to be produced before the Wattala Magistrate's Court.
 
 ◼️
 
 [Data](articles/a0767e12.json)
+
+[Extended Data](ext_articles/a0767e12.ext.json)
 
 ---
 
@@ -75,6 +101,8 @@ State Cabinet Minister Girish Mahajan, who attempted to pacify the protesters, a
 ...
 
 [Data](articles/13014672.json)
+
+[Extended Data](ext_articles/13014672.ext.json)
 
 ---
 
@@ -204,21 +232,29 @@ Attorney -at -Law (Dr.) Susil Premajayantha, Prasanna Ranatunga, Janaka Vakkumbu
 
 ---
 
-### රට පිඹුරන් අලෙවි කරන්න කලින් පොලීසියට කොටුවෙයි
+### Police capture before the country is sold
 
 *2024-08-21 13:16:04* · [`adalk`](https://www.ada.lk/breaking_news/රට-පිඹුරන්-අලෙවි-කරන්න-කලින්-පොලීසියට-කොටුවෙයි/11-411488) · `si`
 
-ශ්‍රී ලංකාවට නීතිවිරෝධී ලෙස රැගෙන විත්, විකිණීම සදහා වත්තල ප්‍රදේශයේ සුරතල් සතුන් අලෙවි මධ්‍යස්ථානයක උඩු මහළේ සගවා ගෙන සිටි විදේශීය පිඹුරන් සිව් දෙනෙකු සහ ශ්‍රී ලංකාවේ ගැට කිඹුලෙකු සමග එම අලෙවි සැළේ හිමිකරු සහ එහි සේවකයින් දෙදෙනෙකු ද  වත්තල පොලිසිය මගින් 08/21 දින  අත් අඩංගුවට ගෙන තිබේ.
+Colombo Police arrested four owners and two employees from Colombo South and Wattala for smuggling endangered crocodiles to Sri Lanka. The suspects were found with the animals in their luggage, which were later handed over to the Dehiwala Zoo. They were charged and appeared before the Wattala Magistrate's Court.
 
-බම්බල් බී , ස්පයිඩර් කැළිපර් සහ බනානා යන වර්ග වලට අයත් පිඹුරන් පිරිමි සතුන් දෙදෙනෙකු සහ ගැහැණු සතුන් දෙදෙනෙකු මෙලෙස පොලිසිය විසින් අත් අඩංගුවට ගෙන තිබේ .
+🟩
 
-මොවුන් ගුවන් මගින් , සිය ගමන් මලු තුළ සගවා ගෙන , මෙරටට ගෙන එන්නට ඇතැයි පොලිසිය සැක පහළ කරයි.
+Four owner of the Colombo South and two employees have been arrested by the Colombo Police with the Colombo South Floor and two employees in Wattala to be illegally taken to Sri Lanka..
 
-මෙම ගැට කිඹුලා ශ්‍රී ලංකාවේ වියළි කළාපීය ප්‍රදේශයක පිහිටි වැවකින් අල්ලා ගන්නට ඇතැයි පොලිසිය සැක කරන අතර මෙම එක් සතෙකු රුපියල් ලක්ෂ තුනකට ඉහළ මිළකට අලෙවි කිරීම සදහා සූදානම් කර තිබියදී මෙලෙස පොලිසිය විසින් අත් අඩංගුවට ගෙන තිබේ.
+Two colors and two females have been arrested by the police and two females.
 
-...
+The police suspect that they have been brought to bring and brought in their luggage on their bags.
+
+The police suspect that the knot crocodile was captured by a tank in Sri Lanka with a tank in Sri Lanka.
+
+The police have been taken to the Dehiwala Zoo and the police are arrested and submitted to the Wattala Magistrate's Court.
+
+◼️
 
 [Data](articles/a00f7fbb.json)
+
+[Extended Data](ext_articles/a00f7fbb.ext.json)
 
 ---
 
@@ -1534,6 +1570,32 @@ By the end of 2023, the Saudi has been identified as the fourth largest donation
 
 ---
 
+### එංගලන්ත - ශ්‍රී ලංකා ටෙස්ට් තරග ඉතිහාසයේ අමතක නොවන සිදුවීම් 5ක්
+
+*2024-08-21 08:55:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c24pvy1gdj4o) · `si`
+
+එංගලන්ත - ශ්‍රී ලංකා ටෙස්ට් තරග ඉතිහාසයේ අමතක නොවන සිදුවීම් 5ක්
+
+ශ්‍රී ලංකාව සහ එංගලන්තය අතර තරග 03කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලිය බදාදා (අගෝස්තු 21) ආරම්භ වීමට නියමිත ය. ශ්‍රී ලංකාව සහ එංගලන්තය අතර පළමු ටෙස්ට් තරගය ක්‍රීඩා කරනු ලැබුවේ මීට වස 42කට ඉහතදී ය.
+
+එංගලන්ත කණ්ඩායම හමුවේ අවසන් වරට ශ්‍රී ලංකා කණ්ඩායම ටෙස්ට් තරග ජයග්‍රහණයක් වාර්තා කිරීමට සමත් වූයේ 2014 වසරේදී ය.
+
+ක්‍රීඩා ලෝලීන්ට මෙන් ම ක්‍රිකට් විචාරකයින්ට ද සුවිශේෂී මතක සටහන් ගෙන දුන් ශ්‍රී ලංකා - එංගලන්ත ටෙස්ට් ක්‍රිකට් තරග ඉතිහාසයේ සිදුවූ සුවිශේෂී සිදුවීම් මොනවා ද?
+
+මේ, ඒ සම්බන්ධයෙන් බීබීසී සිංහල සේවය සිදුකළ කරුණු සොයා බැලීමකි.
+
+ශ්‍රී ලංකාව සහ එංගලන්තය අතර පැවැත්වූ පළමු ටෙස්ට් තරගයේදී ශ්‍රී ලංකා පිතිකරුවන් තිදෙනෙකු අර්ධ ශතක වාර්තා කිරීමට සමත්වීම කැපී පෙනෙන සිදුවීමක් විය.
+
+එහිදී රංජන් මඩුගල්ල, අර්ජුණ රණතුංග සහ රෝයි ඩයස් ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් අර්ධ ශතක වාර්තා කිරීමට සමත් වූහ.
+
+එම තරගයේ පළමු ඉනිමේදී රංජන් මඩුගල්ල ලකුණු 65ක්, අර්ජුන රණතුංග ලකුණු 54ක් සහ රෝයි ඩයස් ලකුණු 77ක් රැස් කිරීමට සමත් වූහ.
+
+...
+
+[Data](articles/0c3ec28a.json)
+
+---
+
 ### Eyeing Eurasian connectivity corridors, Sri Lanka builds partnership with Central Asian countries
 
 *2024-08-21 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101386/eyeing-eurasian-connectivity-corridors-sri-lanka-builds-partnership-with-central-asian-countries) · `en`
@@ -2239,41 +2301,5 @@ The event was a significant milestone in Sri Lanka’s journey towards sustainab
 [Data](articles/d92368f6.json)
 
 [Extended Data](ext_articles/d92368f6.ext.json)
-
----
-
-### Canon team visits Board of Investment
-
-*2024-08-21 01:48:45* · [`dailyftlk`](https://www.ft.lk/business/Canon-team-visits-Board-of-Investment/34-765762) · `en`
-
-Canon Singapore President and CEO Toshiyuki Ishii and a team of officials, along with the Metropolitan Group, met with Board of Investment Chairman Dinesh Weerakkody, BOI officials, as well as those of Port City Colombo, for an overview of the investment climate.
-
-The Canon Company is a Japanese giant specialising in optical imaging and commercial printing products.
-
-◼️
-
-[Data](articles/7ff13110.json)
-
-[Extended Data](ext_articles/7ff13110.ext.json)
-
----
-
-### Auto Foam Sri Lanka accredited by International Automotive Task Force
-
-*2024-08-21 01:40:32* · [`dailyftlk`](https://www.ft.lk/business/Auto-Foam-Sri-Lanka-accredited-by-International-Automotive-Task-Force/34-765760) · `en`
-
-Accolade Ventures subsidiary Auto Foam expanding operations by obtaining certification for highest standards and compliance in seat manufacturing
-
-Auto Foam Ltd., a leading seat manufacturing company based in Sri Lanka, has announced the receipt of the prestigious IATF 16949 certification for its automotive seat manufacturing plants, signifying its global expansion ambitions.
-
-This achievement not only solidifies Auto Foam Ltd. as a trailblazer in the Sri Lankan automotive sector, but also marks it as the first seat manufacturing company in the country to receive this internationally recognised certification.
-
-The program, initiated and promoted by the Sri Lanka Industries Ministry, extends its support to any automobile component manufacturer who wishes to obtain the certification.
-
-...
-
-[Data](articles/29978e26.json)
-
-[Extended Data](ext_articles/29978e26.ext.json)
 
 ---

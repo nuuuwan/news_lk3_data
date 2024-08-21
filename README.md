@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 02:36:54**
+As of **2024-08-22 02:55:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,987 (100.0%) of 41,989 articles have been extended.
+41,989 (100.0%) of 41,989 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -144,21 +144,31 @@ Power and Energy Minister Kanchana Wijesekera yesterday announced that the CEB�
 
 ---
 
-### பராட்டே கைவிடப்பட்டால் நிவாரணங்கள் தொடருமா?
+### Will the relief continue if Parate is abandoned?
 
 *2024-08-22 01:30:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பராட்டே-கைவிடப்பட்டால்-நிவாரணங்கள்-தொடருமா/175-342605) · `ta`
 
-பராட்டே சட்டமூலம் கைவிடப்பட்டாலும், அரசாங்கத்தினால் அவர்களுக்கு வழங்கப்பட்ட நிவாரணங்கள்  தொடருமா என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சபையில் கேள்வி எழுப்பினார்
+Despite abandoning the Parate Bill, the government assures continued relief for small and medium manufacturers and tourists. Opposition Leader Sajith Premadasa questions the sustainability of this aid and calls for transparency on the government's plans, including asset amounts and long-term actions for affected parties. He urges the government to focus on developing a national policy for these sectors, highlighting the need for financial support and debt restructuring to acknowledge their significant contributions over the past four years.
 
-பாராளுமன்றத்தில் புதன்கிழமை (21) விசேட கூற்றை முன்வைத்தே இவ்வாறு கேள்வி எழுப்பிய அவர் மேலும் பேசுகையில்,
+🟩
 
-பராட்டே சட்டமூலத்தினால் சிறிய மற்றும் நடுத்தர உற்பத்தியாளர்கள் மற்றும் சுற்றுலா  ஆகிய துறைகளில் பாதிக்கப்பட்டவர்கள் குறித்து எதிர்க்கட்சி கொடுத்த அழுத்தம் காரணமாக பராட்டே சட்டமூலம்   கைவிடப்பட்டாலும், அரசாங்கத்தினால்  அவர்களுக்கு வழங்கப்பட்ட நிவாரணங்கள்  தொடருமா என தெரிந்துகொள்ள வேண்டும்.
+Opposition Leader Sajith Premadasa questioned whether the Barade Bill was abandoned, but the relief provided by the government would continue.
 
-இந்தத் தொழிற்துறையில் ஈடுபட்டவர்களின்  சொத்துக்களில் எந்த அளவிலான  சொத்துக்கள் கடந்த வருடம் ஏலத்தில் விடப்பட்டிருக்கிறது என்பது குறித்தும்  அறிந்து கொள்ள வேண்டியுள்ளது.
+He questioned the special claim on Wednesday (21) in Parliament.
+
+Although the Paratete Bill has been abandoned due to pressure on the victims of small and medium manufacturers and tourists in the Paratete Bill, the government should know if the relief provided by the government will continue.
+
+It is also necessary to know the amount of assets in this industry.
+
+Similarly, steps should be taken to bring about changes in the Bill of the Bill. If not, you should also know the long and short -term action of the government on the victims.
+
+Is the government focusing on the preparation of a national policy plan on small and medium manufacturers?The government's contribution to improve entrepreneurs or innovations in this country should be aware of the contribution.
 
 ...
 
 [Data](articles/05a5f7d0.json)
+
+[Extended Data](ext_articles/05a5f7d0.ext.json)
 
 ---
 
@@ -380,21 +390,31 @@ The launch event on 15 August brought together stakeholders, entrepreneurs, and 
 
 ---
 
-### அணித் தலைவர் தனஞ்சய, அறிமுக வீரர் மிலன் குவித்த அரைச் சதங்கள் இலங்கையை சிறந்த நிலையில் இட்டன
+### Half a century of team captain Tanjaya and debutant Milan made Sri Lanka in the best position
 
 *2024-08-21 23:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191669) · `ta`
 
-இங்கிலாந்துக்கு எதிராக மென்ச்செஸ்டர், ஓல்ட் ட்ரபோர்ட் விளையாட்டரங்கில் புதன்கிழமை (21) ஆரம்பமான முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை, முதல் இன்னிங்ஸில் சகல விக்கெட்களையும் இழந்து 236 ஓட்டங்களைப் பெற்றது.
+In the first Test cricket match at Manchester and Old Trafford Stadium, Sri Lanka batted first, scoring 236 runs in their first innings. Team captain Tanajaya de Silva and debutant Milan Ratnayake contributed with half-centuries, sharing an 8th-wicket partnership that revived Sri Lanka's innings after a slow start. Milan Ratnayake notably scored 72 runs on his debut, setting a record for the most runs in a debut Test match. Despite early struggles, Sri Lanka's decision to bat first was vindicated as Tanajaya de Silva and Milan Ratnayake's partnership ensured they reached a competitive total. England ended the day without losing a wicket, scoring 22 runs in their first innings.
 
-அணித் தலைவர் தனஞ்சய டி சில்வா, அறிமுக வீரர் மிலன் ரத்நாயக்க ஆகியோர் குவித்த அரைச் சதங்களும் அவர்கள் இருவரும் 8ஆவது விக்கெட்டில் பகிர்ந்த பெறுமதிமிக்க 63 ஓட்டங்களும் இலங்கை அணியை மீட்டெடுத்தன.
+🟩
 
-மிலன் ரத்நாயக்க 72 ஓட்டங்களைப் பெற்றதன் மூலம் அறிமுக டெஸ்ட் போட்டியில் அதிகூடிய ஓட்டங்களைப் பெற்ற 9ஆம் இலக்க வீரர் என்ற சாதனையை நிலைநாட்டினார். அத்துடன் முதல் தர கிரிக்கெட் போட்டி ஒன்றில மிலன் பெற்ற அதிகூடிய எண்ணிக்கை இதுவாகும்.
+Sri Lanka, who decided to bat first in the first Test cricket match at Mensterster and Old Traford Stadium on Wednesday (21), scored 236 runs in the first innings.
 
-இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாட இலங்கை எடுத்த தீர்மானம் புத்திசாலித்தனமானது என எண்ணப்பட்டது. ஆனால், ஓட்டங்கள் பெறுவதில் பெரும் சிரமத்தை எதிர்கொண்ட இலங்கை முதல் 33 பந்துகளில் 6 ஓட்டங்களை மாத்திரமே பெற்றிருந்தது.
+Team captain Tananjaya de Silva and debutant Milan Ratnayake have scored half -centuries and their two -wickets in the 8th wicket.
+
+Milan Ratnayake set the record for the highest number of runs in the debut Test match by scoring 72 runs.. This is the highest number of Milan in a first -class cricket match.
+
+Sri Lanka's decision to bat first in this match was considered wise. But Sri Lanka had only 6 runs off the first 33 balls, which faced great difficulty in getting runs.
+
+When the total number was 6 runs, Timut Karunaratne (2) Nishan Madushka (4) and Angelo Mathews (0) took their wickets.
+
+Subsequently, Kusal Mendis (24), Dinesh Chandimal (17), Kamindu Mendis (12) and Prabhat Jayasuriya (10) lost the game in a steady interval.
 
 ...
 
 [Data](articles/da1c5961.json)
+
+[Extended Data](ext_articles/da1c5961.ext.json)
 
 ---
 

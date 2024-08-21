@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 03:21:16**
+As of **2024-08-22 03:36:45**
 
 ## Newspaper Stats
 
-*Scraped **41,990** Articles*
+*Scraped **41,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,722
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
-tamilmirrorlk | 5,441
+tamilmirrorlk | 5,442
 virakesarilk | 6,681
 adaderanasinhalalk | 7,167
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,990 (100.0%) of 41,990 articles have been extended.
+41,990 (100.0%) of 41,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### ’கனவு காண்பவர் அவதானிக்கவும்’
+
+*2024-08-22 02:28:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனவு-காண்பவர்-அவதானிக்கவும்/175-342607) · `ta`
+
+சீனாவின் ஒரு மண்டலம் ஒரு பாதை அபிவிருத்தி செயற்திட்டம் அமுல்படுத்தப்படும் நாடுகளில் திட்டமிட்ட வகையில்  உள்ளக முரண்பாடுகள் தோற்றுவிக்கப்படுகின்றன. இலங்கையிலும்,பங்களாதேஷ் நாட்டிலும் இவ்வாறே முரண்பாடுகள்,கலவரங்கள் தோற்றுவிக்கப்பட்டன.  ஜனாதிபதியாக கனவு காண்பவர்கள் அனைவரும் இந்த  உண்மையை விளங்கிக் கொள்ள வேண்டியது அவசியம் என தேசிய சுதந்திர முன்னணியின் தலைவரும் சுயாதீன எதிரணி எம்.பி.யுமான  விமல் வீரசன்ச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன் கிழமை (21) இடம்பெற்ற   மது வரி கட்டளைச் சட்ட ஒழுங்கு விதிகள் மீதான விவாதத்தில் உரையாற்றிய போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+கொழும்பு  துறைமுக அபிவிருத்தி நகரத்துக்கு சீனாவே முழுமையாக முதலீடு செய்துள்ளது. ஆகவே துறைமுக நகர அபிவிருத்தி திட்டத்தால்  இலங்கைக்கு எவ்வித பாதிப்பும் ஏற்படவில்லை.அவ்வாறான நிலையில் கொழும்பு துறைமுக நகரத்தை நிர்மாணித்தால்  சீகிரியா குன்றில் உள்ள கற்களை பெயர்த்து எடுக்க நேரிடும் என்று குறிப்பிட்டவர்கள்  ஜனாதிபதி தேர்தலில் போட்டியிடுவது நகைப்புக்குரியதாக உள்ளது.
+
+...
+
+[Data](articles/3eb92e11.json)
+
+---
 
 ### Model gambling, black money playing ”
 
@@ -2317,25 +2333,5 @@ The USA has been moving military craft to the region in anticipation of a broade
 [Data](articles/d5dfca5f.json)
 
 [Extended Data](ext_articles/d5dfca5f.ext.json)
-
----
-
-### Appointment of members to review of the Bill
-
-*2024-08-21 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191618) · `ta`
-
-Speaker Mahinda Yapa Abeywardena appointed members including Dr. Susil Premajayantha, Prasanna Ranatunga, Janaka Vakkumbura, and others to review the "Provincial Council Elections (Amendment)" Bill. He also added Wickremaratne and Jagath Kumara Sumitraachi as additional members.
-
-🟩
-
-Attorney -at -Law (Dr.) Susil Premajayantha, Prasanna Ranatunga, Janaka Vakkumbura, Samara Sampath Dasanayaka, Attorney -at -Law, Staff in order to serve the Legal Standing Committee in accordance with the Standing Ordinance of Article 113 (2) for the review of the "Provincial Council Elections (Amendment)" Bill.Speaker Mahinda Yapa Abeywardena announced in Parliament on Wednesday (21) that he had appointed the members of Wickremaratne and Jagath Kumara Sumitraachi as additional members.
-
-“The Parliamentary Elections (Amendment) Bill, according to the Standing Ordinance of Article 113 (2), to serve in the Legislative Standing Committee (Mrs.) Pavithradevi Vanni Arachchi, Kanjana Wijeshekara, Pramitha Bandara Tennakoon, Manava Roya DissanayakaThe Speaker also announced that members of Iran Wickremaratne have been appointed.
-
-◼️
-
-[Data](articles/b14904fb.json)
-
-[Extended Data](ext_articles/b14904fb.ext.json)
 
 ---

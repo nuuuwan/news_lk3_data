@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 14:21:27**
+As of **2024-08-21 14:37:03**
 
 ## Newspaper Stats
 
-*Scraped **41,874** Articles*
+*Scraped **41,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,110 @@ colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,527
 dailyftlk | 2,701
-adalk | 3,854
+adalk | 3,856
 dailymirrorlk | 4,733
 adaderanalk | 4,901
-tamilmirrorlk | 5,420
+tamilmirrorlk | 5,425
 virakesarilk | 6,661
-adaderanasinhalalk | 7,151
+adaderanasinhalalk | 7,152
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,872 (100.0%) of 41,874 articles have been extended.
+41,874 (100.0%) of 41,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### මිලියන 4ක කප්පම් ඉල්ලූ පෙදරේරුවා
+### மனைவியின் தொல்லையால் வீட்டைவிட்டு ஓடிய கணவர்
+
+*2024-08-21 14:11:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியின்-தொல்லையால்-வீட்டைவிட்டு-ஓடிய-கணவர்/175-342569) · `ta`
+
+வீட்டில் சாப்பிடும்போது ஒரு பருக்கை கீழே சிந்தினால் கூட சண்டை போடுவார். எனது சுதந்திரத்தை முழுவதுமாக பறித்துக் கொண்டார். அவருடன் இருந்தால் நிம்மதியாக வாழ முடியாது என்பதால் வீட்டை விட்டு வெளியேறினேன். என்னை சிறையில் வேண்டுமானால் கூட அடையுங்கள். ஆனால் அவருடன் சேர்த்துவைக்காதீர்கள்” என  கணவன் கெஞ்சியுள்ள சம்பவம், பெங்களூரில் இடம்பெற்றுள்ளது.
+
+பெங்களூருவில் உள்ள ஒயிட் ஃபீல்டை சேர்ந்தவர் முகேஷ் (28). மென்பொருள் பொறியாளரான இவ‌ர் அங்குள்ள பன்னாட்டு தகவல் தொழில்நுட்ப நிறுவனத்தில் பணியாற்றி வருகிறார். வீட்டிலிருந்து கடந்த 4-ம் திகதி வெளியே சென்ற இவர் மீண்டும் திரும்பி வரவில்லை. இதனால் அதிர்ச்சி அடைந்த அவரது மனைவி, தனது கணவரை காணவில்லை என ஒயிட் ஃபீல்ட் காவல் நிலையத்தில் புகார் அளித்தார்.
+
+முகேஷை யாரேனும் கடத்தி சென்றிருக்கலாம் என்ற கோணத்தில் தனிப்படை பொலிஸார் விசாரணையை தொடங்கினர். முகேஷின் செல்போன் எண் மூலம் அவரது இருப்பிடத்தை கண்டுபிடிக்க பொலிஸார் முயன்றனர். ஆனால், அவரது செல்போன் எண் சுவிட்ச் ஆஃப் செய்யப்பட்டிருந்தது.
+
+...
+
+[Data](articles/b43f3628.json)
+
+---
+
+### කෙහෙළිය වෙනුවෙන් ආ පෙත්සම ගැන අධිකරණය දුන් නියෝගය
+
+*2024-08-21 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200176) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදීගැනීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා රක්ෂිත බන්ධනාගාර ගත කරමින් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දුන් නියෝගය ප්‍රතිශෝධනය කරන ලෙස ඉල්ලා ගොනුකර ඇති පෙත්සමට විරෝධතා ඉදිරිපත් කිරීම සඳහා කොළඹ මහාධිකරණය අද (21) වගඋත්තරකරුවන්ට කල් ලබා දුන්නේය.
+
+මෙම පෙත්සම කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මහතා ඉදිරියේ කැඳවූ අවස්ථාවේදී විනිසුරුවරයා නියෝග කළේ අදාළ පෙත්සම විභාගයට ගැනීම සඳහා නොතීසි නිකුත් කිරීමට තීන්දු කරන බවයි.
+
+එහිදී නීතිපතිවරයා ඇතුළු වගඋත්තරකරුවන් වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මෙනෙවිය සඳහන් කළේ අදාළ පෙත්සම සඳහා විරෝධතා ගොනු කිරීමට දිනයක් ලබා දෙන ලෙසට ය.
+
+ඒ අනුව අදාළ විරෝධතා සැප්තැම්බර් මස 12 වනදා ගොනු කිරීමට පියවර ගන්නා ලෙස විනිසුරුවරයා නියෝග කළේය.
+
+...
+
+[Data](articles/6b097636.json)
+
+---
+
+### 4 million ransom requested mararior
 
 *2024-08-21 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200175) · `si`
 
-ඉඩම් හිමි විශ්‍රාමික ධනවත් පුද්ගලයෙකුට දුරකථනයෙන් මරණීය තර්ජන කර රුපියල් ලක්ෂ 40ක කප්පම් මුදලක් ලබාගැනීමට උත්සාහ දැරූ පුද්ගලයෙකු බණ්ඩාරගම දී  අත්අඩංගුවට ගත් බව පානදුර කොට්ඨාස අපරාධ විමර්ශන අංශය කියයි.
+A 58-year-old man from Kiriwattuduwa, suspected of demanding a 4 million rupee ransom from a retiree in Bandaragama, was arrested along with a parcel and a motorcycle used for extortion. The victim, who received numerous threats, reported the case to the police after being assured the issue was resolved. Investigations reveal the suspect has a criminal history, including a murder charge.
 
-එම සැකකරු, විශ්‍රාමිකයාට තර්ජනය කිරීම සඳහා යොදාගත් ජංගම දුරකථනය, සිම් කාඩ්පත් දෙකක්, සැකකරුට කප්පම් මුදල් ලෙස ලබාදීමට සකස් කළ කඩදාසි කොළ අඩංගු කුඩා පාර්සලයක් මෙන්ම යතුරුපැදියක් ද පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-බණ්ඩාරගම ප්‍රදේශයේ පදිංචි පැමිණිලිකාර විශ්‍රාමික පුද්ගලයා මෙන්ම ඔහුගේ බිරිඳ ට ප්‍රදේශ රැසක ඉඩකඩම් තිබෙන අතර මීට වසර දෙකකට පමණ ඉහතදී ද ඔහුගේ බිරිඳගේ නමට තිබූ හොරණ පෝරුවදණ්ඩ ප්‍රදේශයේ ඉඩමක් රුපියල් කෝටි ගණනාවකට විකුණා තිබූ අතර ඉන් දින කීපයකට පසු පැමිණි තර්ජනාත්මක දුරකථන ඇමතුම් හමුවේ අසරණ වූ එම යුවළ ඇමතුම ලබා දුන් පුද්ගලයාගේ ඉල්ලීම පරිදි ලක්ෂ 40ක කප්පම් මුදලක් ලබාදී ඇති බව මෙම සිදුවීමෙන් පසු අනාවරණය වූ බව පොලීසිය කීය.
+The Panadura Division Criminal Investigation Division has been arrested in Bandaragama at Bandaragama.
 
-ජීවිතයට ඇති ආසාව හේතුවෙන් ඒ සම්බන්ධයෙන් කිසිදු පොලීසියකට පැමිණිල්ලක් නොකළ බව පැමිණිලිකරු පොලිසිය හමුවේ ප්‍රකාශ කර තිබුණි.
+The suspect has also seized a small parcel and a motorcycle, which contains a small parcel and a motorcycle used to give the suspect as extortion money.
+
+Designation of the residents of Bandaragama, and two years ago, the land of the Horana, a large number of threatening telephone calls had been sold for a few days, and in the face of threatening telephone calls, the couple, who had come to a few days ago, the couple was given to the callThe incident was revealed that a ransom amounted to Rs.
+
+The complainant had told the police that no police had lodged a complaint with the interests of the life.
+
+A 290 perches of land belonging to a famous private company in Bandaragama has been sold for Rs.
+
+About two weeks later, the company is unauthorized that the company is owned by the company and cannot enter into the company.
 
 ...
 
 [Data](articles/d380ed27.json)
 
+[Extended Data](ext_articles/d380ed27.ext.json)
+
 ---
 
-### පෙර පාසල් සිසුවියන් දෙදෙනා අපයෝජනය කළ කම්කරුවා අත්අඩංගුවට
+### Worker who was abused by the previous school children arrested
 
 *2024-08-21 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200174) · `si`
 
-පෙර පාසල් සිසුවියන් දෙදෙනෙක් ලිංගික අපහරණයට ලක්කිරීමේ සිදුවීමක් වාර්තාවීමත් සමඟ ඉන්දියාවේ මහාරාෂ්ට්‍ර ප්‍රාන්තයේ බද්ලාපූර් නගරයේ දැඩි උණුසුම් වාතාවරණයක් නිර්මාණය වුණි.
+In Bathlapur, India, a 23-year-old cleaner was arrested after two preschoolers allegedly abused him. The incident led to parental outrage, resulting in school damage and protests. Police intervention controlled the situation, restoring order and arresting the suspect, promising legal action.
 
-අවුරුදු 3ක් සහ 4ක් වන මේ දැරියන් දෙදෙනා මෙලෙස අපයෝජනයට ලක්කර ඇත්තේ එම පෙර පාසල පවිත්‍ර කිරීමේ නිරත 23 හැවිරිදි කම්කරුවෙකි.
+🟩
 
-අපයෝජනයට ලක්වූ දැරියන් දෙදෙනාගෙන් අයෙක් ඒ සම්බන්ධව තම දෙමාපියන්ට දන්වා ඇති අතර, ඉන් කෝපයට පත් දෙමාපියන් සහ ගම්වාසීන් පාසලට පැමිණ ඊට හානි කර තිබුණි.
+The warm athlest in Bhalapur, India, was created in Bathlapour, India, with two pre-school abuse.
 
-ප්‍රකෝපකාරී පිරිස් මැඬලීමට පොලිසිය මැදිහත්වූයේ ඔවුන් බද්ලාපූර් දුම්රිය ස්ථානය වෙත පැමිණ එහි කටයුතුවලට බාධාකිරීමත් සමගිනි.
+The two girls and 4 years have been abused a 23 year old worker who cleanses the previous school.
 
-විරෝධතා මර්දනය කර දුම්රිය සේවා යථාවත් කිරීමට පසුව පොලීසිය සමත්ව තිබුණි.
+Someone had informed their parents about the two suspects, and angry parents and villagers have come to school and damaged it.
 
-සිද්ධියේ සැකකරු පොලිස් අත්අඩංගුවට ගෙන ඇති අතර ඔහුට එරෙහි නීතිමය කටයුතු සිදුකරන බව ඉන් පසුව පොලීසිය තහවුරු කර තිබේ.
+The police intervened to suppress provocation and interrupted them to the Bathlapur Railway Station.
+
+The police had been able to control the protests and restored the railway services.
+
+The suspect has been arrested by the police and confirmed that the legal action will be taken against him.
 
 ◼️
 
 [Data](articles/41c43554.json)
+
+[Extended Data](ext_articles/41c43554.ext.json)
 
 ---
 
@@ -156,6 +206,22 @@ Relatives of the Mullaitivu District Mullaitivu District, Marisuresh Eswari, sai
 
 ---
 
+### காதல் ஜோடியிடம் கப்பம்: 2 பொலிஸார் நீக்கம்
+
+*2024-08-21 13:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதல்-ஜோடியிடம்-கப்பம்-2-பொலிஸார்-நீக்கம்/175-342566) · `ta`
+
+கடுவெல பொலிஸ் நிலையத்தில் கடமையாற்றும் இரண்டு கான்ஸ்டபிள்கள் ரூபாய் 10,000 இலஞ்சமாக பெற முயற்சித்த குற்றச்சாட்டின் பேரில் பணியிடை நீக்கம் செய்யப்பட்டதாக நுகேகொட பிரதேச சிரேஷ்ட பொலிஸ் அத்தியட்சகர் அலுவலகம் தெரிவித்துள்ளது.
+
+கான்ஸ்டபிள்கள் இருவரும் 14ஆம் திகதி  மாலை 6 மணி முதல் அடுத்த நாள் 6 மணி வரை மோட்டார் சைக்கிளில் பயணித்து சோதனை நடவடிக்கைகளிள் ஈடுபட்டுள்ளனர்.
+
+இதன் போது முல்லேரிய பொலிஸ் பிரிவுக்குட்பட்ட சந்திரிகா குமாரதுங்க வீதியில் நிறுத்தி வைக்கப்பட்டிருந்த காரை சோதனையிட்டுள்ளதுடன்  காரில் இருந்த காதல் ஜோடி அநாகரீகமாக நடந்து கொள்வதாக தகவல் கிடைத்தது என கூறி அச்சுறுத்தி அவர்களிடமிருந்து இலஞ்சம் பெற முயற்சித்துள்ளதாக பொலிஸ் விசாரணைகளின் போது தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/e9f56a68.json)
+
+---
+
 ### 1,417 deaths of road accidents until 10th August
 
 *2024-08-21 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191605) · `ta`
@@ -207,6 +273,24 @@ In this context, Pakistan's Deputy Prime Minister and Foreign Minister Ishaq Dar
 [Data](articles/3a6153e0.json)
 
 [Extended Data](ext_articles/3a6153e0.ext.json)
+
+---
+
+### பாக். யாத்ரீகர்கள் 35 பேர் பலி
+
+*2024-08-21 12:59:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-யாத்ரீகர்கள்-35-பேர்-பலி/50-342564) · `ta`
+
+ஈரானில் பஸ் கவிழ்ந்து விபத்துக்குள்ளானதில், பாகிஸ்தான் யாத்ரீகர்கள் 35 பேர் பரிதாபமாக உயிரிழந்த நிலையில், 18 பேர் பலத்த காயமடைந்தனர்.
+
+பாகிஸ்தானில் இருந்து ஈராக்கிற்கு, 50க்கும் மேற்பட்ட யாத்ரீகர்கள் பஸ்சில் சென்று கொண்டிருந்த நிலையில், மத்திய ஈரானின் யாஸ்த் மாகாணத்தில், சாரதியின் கட்டுப்பாட்டை இழந்து பஸ் விபத்துக்குள்ளானது.
+
+இதில், 35 யாத்ரீகர்கள் சம்பவ இடத்திலேயே உயிரிழந்தனர். இவர்கள் பாகிஸ்தானின் சிந்து மாகாணம் லர்கானா நகரைச் சேர்ந்தவர்கள். 18 பேர் பலத்த காயமுற்ற நிலையில், சிகிச்சைக்காக மருத்துவமனையில் அனுமதிக்கப்பட்டனர்.
+
+இந்நிலையில், பாகிஸ்தான் துணை பிரதமரும், வெளியுறவு துறை அமைச்சருமான இஷாக் தார் சமூகவலைதளத்தில் வெளியிட்டுள்ள பதிவில், 'உயிரிழந்தவர்களின் குடும்பங்களுக்கு இரங்கல் தெரிவித்து கொள்கிறேன். காயமடைந்த யாத்ரீகர்களுக்கு சிகிச்சை அளிக்க அனைத்து உதவிகளும் செய்யப்படும். டெஹ்ரானில் உள்ள நமது தூதருக்கு இறந்தவர்களின் உடலை, பாகிஸ்தானுக்கு திருப்பி அனுப்ப ஏற்பாடு செய்ய நான் அறிவுறுத்தி உள்ளேன்” என குறிப்பிட்டுள்ளார்.S
+
+◼️
+
+[Data](articles/75350ea8.json)
 
 ---
 
@@ -539,6 +623,20 @@ Opposition leader Sajith Premadasa said he was opposed to the decision to form t
 [Data](articles/481a7d28.json)
 
 [Extended Data](ext_articles/481a7d28.ext.json)
+
+---
+
+### தலதா அத்துகோரள இராஜினாமா
+
+*2024-08-21 11:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தலதா-அத்துகோரள-இராஜினாமா/150-342558) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள தனது பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்வதாக அறிவித்துள்ளார்.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஐக்கிய மக்கள் சக்தியை அமைக்கும் முடிவை தாம் எதிர்ப்பதாக அத்துகோரள தெரிவித்தார்.
+
+◼️
+
+[Data](articles/74cd54a5.json)
 
 ---
 
@@ -938,6 +1036,20 @@ He also emphasized that bringing the maiden rally to Anuradhapura is an importan
 
 ---
 
+### ඇහැලේපොල වලව්ව නිල වශයෙන් මාළිගාවට පවරයි
+
+*2024-08-21 10:05:45* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැලේපොල-වලව්ව-නිල-වශයෙන්-මාළිගාවට-පවරයි/11-411479) · `si`
+
+ඇහැලේපොල වලව්ව මහනුවර ශ්‍රී දළදා මාලිගාවට පැවරීමට අදාළ විශේෂ නිදහස් දීමනා පත්‍රය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් දියවඩන නිළමේවරයා වෙත භාර දුන්නේය.
+
+මහනුවර ඓතිහාසික ශ්‍රී දළඳා මාළිගාවේ සහ සතර මහා දේවාලයන්හි වාර්ෂික ඇසළ මහා පෙරහර පෞරාණික චාරිත්‍ර ගරුකරමින් විචිත්‍රවත් ලෙස පවත්වා අවසන් කළ බව සැළ කෙරෙන පෙරහර සංදේශය දියවඩන නිළමේ ප්‍රදීප් නිලංග දෑල මහතා විසින් මහනුවර ජනාධිපති මන්දිරයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගන්වනු ලැබූ අවස්තාවේදි මෙම නිදහස් දිමනා පත්‍රයද දළදා මාලිගාව වෙත ලබාදුන්නේය.
+
+◼️
+
+[Data](articles/5d466223.json)
+
+---
+
 ### An unknown corpse lands a coastal
 
 *2024-08-21 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200166) · `si`
@@ -959,6 +1071,20 @@ However, the 'Mom' on the left side of the deceased, 'Mom' has also been tattoon
 [Data](articles/96672643.json)
 
 [Extended Data](ext_articles/96672643.ext.json)
+
+---
+
+### පෙම්වතුන් යුවළක් බිය ගන්නා අල්ලස් ගන්න හැදූ කොස්තාපල් දෙදෙනෙකුගේ වැඩ තහනම්
+
+*2024-08-21 09:55:25* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතුන්-යුවළක්-බිය-ගන්නා-අල්ලස්-ගන්න-හැදූ-කොස්තාපල්-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-411478) · `si`
+
+මුල්ලේරියාව චන්ද්‍රිකා කුමාරතුංග මාවතේදී  පෙම්වතුන් යුවළක් බිය ගන්වා රුපියල් 10000/= අල්ලස් ලබා ගැනීමට තැත් කළ කඩුවෙල පොලිසියට අනුයුක්ත කොස්තාපල්වරු දෙදෙනකුගේ වැඩ තහනම් කළ බව නුගේගොඩ  කොට්ඨාසයේ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කාර්යාලය කියයි.
+
+එම නිලධාරීන් දෙදෙනා ඉකුත් 14 වෙනිදින සවස 6  සිට පසු දින 6 දක්වා යතුරු පැදි සංචාරයේ යොදවා සිට ඇති අතර කඩුවෙල පොලිස් වසමෙන් බැහැරව මුල්ලේරියාව පොලිස් වසමේ චන්ද්‍රිකා කුමාරතුංග මාවතේ නවතා තිබූ මෝටර් රථයක් පරික්ෂාවට ලක්කර එහි රියදුරු අසුනේ සිටි තරුණයකු සහ ඊට  යාබද අසුනේ සිටි තරුණියක අශෝබනව හැසිරෙන බවට 119 මධ්‍යස්ථානයෙන් පණිවිඩයක් ලැබී තිබෙන බවට සාවද්‍ය ප්‍රකාශයක් කරමින් ඔවුන් දෙදෙනා බිය ගන්වා රුපියල් 10000/= ක මුදලක්ම අල්ලස් වශයෙන් ලබා ගැනීමට තැත් කර ඇති බවට විමර්ශනවලදී අනාවරණය වී ඇතැයි උසස් පොලිස් නිලධාරියෙක් කීය. ඉහත විෂමාචාර ක්‍රියාව හේතුවෙන් එම නිලධාරින්ගේ වැඩ තහනම සිදුකර ඇත
+
+◼️
+
+[Data](articles/4e6f2864.json)
 
 ---
 
@@ -2099,133 +2225,5 @@ This youth development project is designed to foster entrepreneurship among the 
 [Data](articles/6cb1614f.json)
 
 [Extended Data](ext_articles/6cb1614f.ext.json)
-
----
-
-### To create economic freedom
-
-*2024-08-21 01:00:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-சுதந்திரத்தை-உருவாக்க-இணையுங்கள்/175-342543) · `ta`
-
-The Opposition Leader proposes transforming Sri Lanka from economic crisis to prosperity through humanitarian capitalism and social democracy, emphasizing transparency and equality to combat corruption.
-
-🟩
-
-I have the best group of wisdom and talent to restore the country that is trapped on the brink of economic disaster. The Opposition Leader said that through the economic development of humanitarian capitalism and social democracy, we could transform our country into a prosperous country and a rapid economic development country, and that the economic structure of the reflection could be accompanied by the economic structure.
-
-This new thinking will lead to a new path that maintains justice and justice by following the equal means. There is no place for corruption scandal.Opposition Leader Sajith Premadasa said that I am invited to join the task of winning the economic independence of corruption, except for procurement systems and fraudulent government transactions.
-
-"I would like to thank the traders and businessmen of our country who have been involved in a friendly discussion and ideas on the future economic methods of our country," the Opposition Leader said at the session.
-
-...
-
-[Data](articles/ea2b4a79.json)
-
-[Extended Data](ext_articles/ea2b4a79.ext.json)
-
----
-
-### JAT sees bottom line growth of 77% for Q1
-
-*2024-08-21 00:57:28* · [`dailyftlk`](https://www.ft.lk/business/JAT-sees-bottom-line-growth-of-77-for-Q1/34-765758) · `en`
-
-Significant growth in wood coatings of 15% and paint brushes of 47%
-
-JAT Holdings PLC has announced strong growth in both its top- and bottom-line in the first quarter of FY25.
-
-Revenues rose by 3% to Rs. 2.2 billion compared with the same period in the previous year, driven by noticeable growth in the wood coatings and paint brushes categories. Profit After Tax (PAT) also demonstrated significant growth, expanding by 77% YoY for the quarter under review to record Rs. 124 million, up from Rs. 70 million in the same quarter of the previous year.
-
-...
-
-[Data](articles/01ade91f.json)
-
-[Extended Data](ext_articles/01ade91f.ext.json)
-
----
-
-### Strengthening corporate integrity with anti-corruption policies
-
-*2024-08-21 00:49:17* · [`dailyftlk`](https://www.ft.lk/opinion/Strengthening-corporate-integrity-with-anti-corruption-policies/14-765757) · `en`
-
-CIABOC Commission Member and former Additional Solicitor General Chethiya Gunasekera PC
-
-Dialog Axiata Group General Counsel and Vice President of Group Legal and Regulatory Trinesh Fernando
-
-In a seminar organised by Corporate Management Consultants, with Daily FT as the media sponsor, industry leaders gathered at NH Collections Colombo 3 to discuss the critical importance of embedding anti-corruption policies within corporate governance frameworks.
-
-The event, which drew a diverse audience of corporate executives, legal experts, and regulatory officials, emphasised the urgent need for Sri Lankan companies to adopt strong anti-bribery and anti-corruption measures, reinforcing the country’s commitment to ethical business practices.
-
-The seminar opened with a comprehensive overview of Sri Lanka’s new anti-corruption legislation by Commission to Investigate Allegations of Bribery and Corruption (CIABOC) Commission Member and former Additional Solicitor General Chethiya Gunasekera PC.
-
-...
-
-[Data](articles/b3a5ea9e.json)
-
-[Extended Data](ext_articles/b3a5ea9e.ext.json)
-
----
-
-### A phoenix rising from the ashes: Country needs strong leadership not an intern
-
-*2024-08-21 00:43:37* · [`dailyftlk`](https://www.ft.lk/columns/A-phoenix-rising-from-the-ashes-Country-needs-strong-leadership-not-an-intern/4-765755) · `en`
-
-A leader’s job is to create a culture and condition where all its citizens thrive and feel proud to be a part of this great nation and to create jobs, wealth and to make sure everyone contributes to the society
-
-I sincerely request all our political leaders to please stop your infighting and look after the interest of our great nation and the people of this wonderful country. Building a nation requires patience, persistence, and cooperation from all stakeholders. Ultimately, a successful nation is one that meets the needs and aspirations of its citizens and contributes to the well-being of humanity as a whole
-
-Let’s move forward together with Sri Lanka. Leo Tolstoy once remarked, “Everyone thinks of changing the world, but no one thinks of changing himself.” Any candidate who is willing to endorse given facts in this article should be given a chance. The difficult question is how many of these steps we have taken on our way to building a strong and successful nation?
-
-...
-
-[Data](articles/254e5166.json)
-
-[Extended Data](ext_articles/254e5166.ext.json)
-
----
-
-### The longest seal in the world to the president
-
-*2024-08-21 00:37:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-நீளமான-முத்திரை-ஜனாதிபதியிடம்/175-342542) · `ta`
-
-President Ranil Wickremesinghe received the world's longest stamp, measuring 205mm, marking the Talada House of Kandy's historical significance.
-
-🟩
-
-President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe yesterday in the world's world's longest commemoration published by the Postal Department to mark the historic Talada House of Kandy.
-
-The stamp is 205 millimeters long, the Presidential Media Unit said. (A)
-
-◼️
-
-[Data](articles/79b05ca1.json)
-
-[Extended Data](ext_articles/79b05ca1.ext.json)
-
----
-
-### Challenges & Limitations Of Presidential Candidates
-
-*2024-08-21 00:25:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/challenges-limitations-of-presidential-candidates/) · `en`
-
-Since the day nominations were accepted for the presidential election, the atmosphere has intensified progressively. Even months before the election date was set, the National People’s Power (NPP) began its campaign with a meticulously planned strategy, positioning itself ahead in the early stages. However, as other candidates entered the race, the competition has grown increasingly fierce. The current president, who started the race with minimal public support, has made considerable progress according to reports. Meanwhile, the Samagi Jana Balawegaya (SJB) has managed to pose a strong challenge to the NPP, forming a broad multiethnic coalition. Despite this, most surveys indicate that a majority of voters are still undecided, making the upcoming weeks crucial for securing victory.
-
-...
-
-[Data](articles/8c5da219.json)
-
-[Extended Data](ext_articles/8c5da219.ext.json)
-
----
-
-### Make Your Vote Count
-
-*2024-08-21 00:09:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/make-your-vote-count/) · `en`
-
-In a true democracy, the selection of candidates and the election process should involve the entire population equally. Unfortunately, our current election rules allow only a select few to become candidates without requiring any public endorsement, such as a stepwise regional election process within the party. Our system favours existing politicians and makes it virtually impossible to register a political party to address specific issues. It is a significant obstacle to a fair and inclusive democratic process. Despite the wishes expressed by the ordinary people during ‘Aragalaya 2022,’ we are left with mostly the same 225 candidates to choose from once again, a situation that should concern us all.
-
-...
-
-[Data](articles/e6010ed9.json)
-
-[Extended Data](ext_articles/e6010ed9.ext.json)
 
 ---

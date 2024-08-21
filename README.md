@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 09:36:42**
+As of **2024-08-21 09:56:15**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 7,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,810 (100.0%) of 41,813 articles have been extended.
+41,813 (100.0%) of 41,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### நாமலின் முதலாவது ஜனாதிபதி தேர்தல் பிரச்சார கூட்டம் இன்று
+### Namal's first presidential election campaign meeting today
 
 *2024-08-21 09:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-முதலாவது-ஜனாதிபதி-தேர்தல்-பிரச்சார-கூட்டம்-இன்று/175-342547) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முதலாவது தேர்தல் பிரச்சார கூட்டம் இன்று (21) அனுராதபுரத்தில் நடைபெறவுள்ளதாக பாராளுமன்ற உறுப்பினர் சஞ்சீவ எதிரிமான்ன தெரிவித்துள்ளார்.
+Namal Rajapaksa's inaugural presidential campaign meeting took place today in Anuradhapura, organized by the Sri Lanka PA to boost his candidacy. The event, held in Kadabanaha, aimed to showcase support for his election bid, marking a significant start to his campaign.
 
-ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவை வெற்றியடையச் செய்யும் நோக்கில் இன்று பிற்பகல் 2 மணிக்கு அனுராதபுரம் கடபனஹா பிரதேசத்தில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் மாபெரும் தேர்தல் பிரச்சார கூட்டம் ஏற்பாடு செய்யப்பட்டுள்ளது.
+🟩
 
-இந்த முதலாவது பிரச்சார கூட்டத்தை அநுராதபுரத்திற்கு கொண்டு சென்றமை ஜனாதிபதித் தேர்தல் பிரச்சாரத்துக்கு கிடைத்த வெற்றியாகவும் பார்க்கிறோம் எனவும் அவர் குறிப்பிட்டார். R
+Parliamentarian Sanjeewa enemy said that the first election campaign meeting of the Sri Lanka PA will be held in Anuradhapura today.
+
+The Sri Lanka PA has organized a massive election campaign meeting in Kadabanaha, Anuradhapura at 2 pm today to win the presidential candidate Namal Rajapaksa.
+
+He also said that the first campaign meeting was brought to Anuradhapura as a victory for the presidential election campaign.. Remble
 
 ◼️
 
 [Data](articles/e89b07ed.json)
 
+[Extended Data](ext_articles/e89b07ed.ext.json)
+
 ---
 
-### ஹெரோயினுடன் பொலிஸ் அதிகாரிகள் கைது
+### Police officers arrested with heroin
 
 *2024-08-21 09:08:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹெரோயினுடன்-பொலிஸ்-அதிகாரிகள்-கைது/175-342546) · `ta`
 
-சுமார் ஒரு கிலோ கிராம் ஹெரோயின் போதைப்பொருளை வைத்திருந்த பொலிஸ் பரிசோதகர் மற்றும் கான்ஸ்டபிள் ஆகியோர் பிலியந்தலையில் வைத்து கொழும்பு குற்றத்தடுப்பு பிரிவினரால் கைது செய்யப்பட்டுள்ளனர். R
+A police inspector and constable were arrested by the Colombo Crime Unit in Piliyandala for possessing about a kilogram of heroin.
+
+🟩
+
+Police Inspector and Constable, who had about a kilogram of heroin, have been arrested by the Colombo Crime Unit in Piliyandala.. Remble
 
 ◼️
 
 [Data](articles/d9cca733.json)
+
+[Extended Data](ext_articles/d9cca733.ext.json)
 
 ---
 
@@ -78,15 +90,21 @@ Titled ‘Central Asia Forum: A Gateway to New Horizons’, the Colombo event wi
 
 ---
 
-### புத்தளம் மார்க்க ரயில் சேவைகள் பாதிப்பு
+### Puttalam Mark Rail Services Damage
 
 *2024-08-21 08:43:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மார்க்க-ரயில்-சேவைகள்-பாதிப்பு/175-342545) · `ta`
 
-சிலாபம் மற்றும் பங்கதெனியவுக்கு இடையில் மரமொன்று தண்டவாளத்தில் வீழ்ந்ததால் குறித்த மார்க்கத்தின் ரயில்  சேவைகள் தடைப்பட்டுள்ளதாகத் ரயில்வே திணைக்களம் தெரிவித்துள்ளது. (a)
+Railway services between Chilaw and Pangadeniya are halted due to a fallen tree blocking the tracks.
+
+🟩
+
+The Railway Department has said that the railway services of the route have been blocked as a tree fell on the rails between Chilaw and Pangadeniya.. (A)
 
 ◼️
 
 [Data](articles/3d6d2b86.json)
+
+[Extended Data](ext_articles/3d6d2b86.ext.json)
 
 ---
 

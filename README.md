@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 19:21:39**
+As of **2024-08-21 19:36:55**
 
 ## Newspaper Stats
 
-*Scraped **41,921** Articles*
+*Scraped **41,922** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 387
-colombotelegraphcom | 402
+colombotelegraphcom | 403
 islandlk | 2,426
 economynextcom | 2,527
 dailyftlk | 2,701
@@ -26,33 +26,43 @@ adaderanasinhalalk | 7,161
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,919 (100.0%) of 41,921 articles have been extended.
+41,921 (100.0%) of 41,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### හෙරොයින් සමග හසුවූ STF IP සහ කොස්තාපල් ගැන තවත් තොරතුරු
+### More about STF IP and Constable with heroin
 
 *2024-08-21 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200185) · `si`
 
-කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් අත්අඩංගුවට ගත් පොලිස් පරීක්ෂකවරයා සහ කොස්තාපල්වරයා සතුව තිබූ හෙරොයින් තොගයේ වටිනාකම රුපියල් කෝටි 2කට අධික බව පොලීසිය පවසයි.
+A police inspector and a constable from the University of Moratuwa were arrested by the Colombo Crimes Division for possessing a significant amount of heroin valued at over Rs. 2 billion. The inspector was caught driving a van containing 1 kilogram of heroin and an electronic scale, while the constable was also implicated in the case. These arrests are part of ongoing efforts to combat organized crime, with the suspects facing charges related to drug trafficking.
 
-ඔවුන් සතුව තිබී හෙරොයින් කිලෝග්‍රෑම් 1යි ග්‍රෑම් 53ක් සොයාගෙන තිබුණි.
+🟩
 
-යුක්තිය මෙහෙයුමට සමගාමීව සංවිධානාත්මක අපරාධ මැඩලීම සඳහා කොළඹ අපරාධ කොට්ඨාසය විශේෂ මෙහෙයුම් ආරම්භ කර ඇති අතර ඊයේ (20) පස්වරුවේ විශේෂ වැටලීමක් පිළියන්දල ප්‍රදේශයේදී ක්‍රියාත්මක කර තිබුණි.
+Police Inspector who was arrested by the officers of the Colombo Crimes Division and the stock of heroin stock of heroin was Rs. 2 billion.
 
-පිළියන්දල මිරිස්වත්ත ප්‍රදේශයේ පිහිටි පෞද්ගලික වෙළෙඳසැලක රථගාලක නවතා තිබූ වෑන් රථයක් එහිදී පරීක්ෂා කර ඇත.
+They found 1 kilograms of heroin and 53 grams.
 
-වෑන් රථයේ රියදුරු ඇතුළු තවත් පුද්ගලයෙක් එහි රැඳී සිට ඇති අතර රියදුරු අසුනට යාබද අසුනේ රැඳී සිටි පුද්ගලයාගේ ගමන් බෑගය පරීක්ෂා කිරීමේදී එහි තිබී හෙරොයින් කිලෝග්‍රෑම් 1යි ග්‍රෑම් 53ක්, මාංචු යුගළයක් සහ ඉලෙක්ට්‍රොනික තරාදියක් විමර්ශකයන් සොයාගෙන තිබේ.
+The Colombo Crimes Division has launched special operations to suppress organized crimes in parallel with the operation.
 
-එම සැකකරු මොරටුව විශේෂ කාර්යය බළකා කඳවුරට අනුයුක්ත පොලිස් කොස්තාපල්වරයෙක් බව අනාවරණ වී ඇත.
+A van that was parked in a car park in a private shole in Miriswatta, Piliyandala.
 
-වෑන් රථයේ රියදුරු ලෙස ක්‍රියාකර ඇති සැකකරු මොරටුව විශේෂ කාර්යය බළකා කඳවුරට අනුයුක්ත පොලිස් පරීක්ෂකවරයෙකි.
+The driver of the van had been lodged there and found 1 kilograms of heroin and a electronic scales in the adjoining the side of the seat.
+
+The suspect is a police constable attached to the University of Moratuwa.
+
+The suspect, which has acted as the driver of the van is an Inspector of Police Inspector at the University of Moratuwa.
+
+Accordingly, the Colombo Crimes Division has arrested the suspects under the acquisition of heroin racket and the suspects were charged with allegations.
+
+Drugs were found at the Maldrolent Drug Trafficker in Kahathuduwa on June 9.
 
 ...
 
 [Data](articles/069eaf73.json)
+
+[Extended Data](ext_articles/069eaf73.ext.json)
 
 ---
 
@@ -122,19 +132,25 @@ The bus bathing system has caused the accident, foreign media said.
 
 ---
 
-### දිවා ආහාරය වන විට ලංකාව අසීරු අඩියක
+### When lunch Sri Lanka is a difficult time
 
 *2024-08-21 18:01:15* · [`adalk`](https://www.ada.lk/sports/දිවා-ආහාරය-වන-විට-ලංකාව-අසීරු-අඩියක/9-411490) · `si`
 
-සත්කාරක එංගලන්ත කණ්ඩායම සමගින් පැවැත්වෙන පළමු ටෙස්ට් තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදෙමින් සිටින ශ්‍රී ලංකා කණ්ඩායම පළමු දිනයේදී දිවා ආහාරය සඳහා තරගය නතර කරන විට කඩුලු 5ක් දැවී ලකුණු 80ක් රැස්කරගෙන අසීරු අවස්ථාවක සිටියි.
+In the first Test against England, Sri Lanka faced challenges during lunch. Winning the toss, they chose to bat but lost three key wickets. Dhananjaya scored 28 runs, while Mendis remained unbeaten. England's Chris Vox claimed two wickets.
 
-නොදැවී පිටියේ රැදී සිටින ධනංජයද සිල්වා ලකුණු 28ක් හා කමිඳු මෙන්ඩිස් ලකුණු 5ක් රැස්කරගෙ සිටියි.
+🟩
 
-මුලු ලකුණු සංඛයාව 6දී  ශ්‍රී ලංකාවේ කඩුලු තුනක් බිඳ වැටීම කැපී පෙනන කරුණක් විය. එංගලන්තය වෙනුවෙන් ක්‍රිස් වොක්ස් කඩුලු දෙකක් දවා ගත්තේය.
+The Sri Lankan team won the toss and attacking the first Test match with the host England.
+
+Dhananjaya also, 28 runs and Kimindu Mendis, remain in unseid grounds.
+
+Total scorer was a significant point in Sri Lanka's three wickets. Chris Vox took two wickets for England.
 
 ◼️
 
 [Data](articles/c66b3324.json)
+
+[Extended Data](ext_articles/c66b3324.ext.json)
 
 ---
 
@@ -775,6 +791,18 @@ The suspect has been arrested by the police and confirmed that the legal action 
 [Data](articles/41c43554.json)
 
 [Extended Data](ext_articles/41c43554.ext.json)
+
+---
+
+### Covid-19 Policy – The Breach Of Trust
+
+*2024-08-21 13:47:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/covid-19-policy-the-breach-of-trust/) · `en`
+
+Quo vadis domine? ‘Where are you going, Lord?’, Peter asks the risen Christ whom he meets along the Appian way. ‘Romam eo iterum crucifigi’, Christ replies. ‘I am going to Rome in order to be crucified again.
+
+...
+
+[Data](articles/b7e1686b.json)
 
 ---
 
@@ -2347,41 +2375,5 @@ By the end of 2023, the Saudi has been identified as the fourth largest donation
 [Data](articles/8b8192ed.json)
 
 [Extended Data](ext_articles/8b8192ed.ext.json)
-
----
-
-### Five unforgettable events in Sri Lanka Test history of England
-
-*2024-08-21 08:55:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c24pvy1gdj4o) · `si`
-
-In the rich history of Test cricket between Sri Lanka and England, several standout moments have etched themselves into memory. Notably, Sri Lanka's historic first Test victory over England in 1993, where Sanath Jayasuriya's 213 runs and Muttiah Muralitharan's 7/155 were pivotal. Another memorable instance was in 2014 when Sri Lanka clinched a Test series win in England, showcasing their formidable batting led by Angelo Mathews' 160 runs and the bowling prowess of Shaminda Eranga. These victories underscored Sri Lanka's growing strength in international cricket, marking them as formidable opponents.
-
-🟩
-
-Five unforgettable events in Sri Lanka Test history of England
-
-The three-match Test series between Sri Lanka and England will commence on Wednesday (August 21). Sri Lanka and England played the first Test between 42 poison.
-
-In the year 2014, the Sri Lankan team won a Test match victory in the year 2014.
-
-What unique events have happened in the history of Sri Lanka and Cricket commentators, as well as to the sports loli and cricket commentators?
-
-This is a search for the BBC Sinhala service.
-
-It was a significant event to record a half centuries in the first Test match between Sri Lanka and England.
-
-Ranjan Madugalle, Arjuna Ranatunga and Roy Dias recorded half centuries for the Sri Lankan team.
-
-In the first innings of the match Ranjan Madugalla, 65 runs and Arjuna Ranatunga scored 54 runs and Roy Dias scored 77 runs.
-
-In the first innings of the Mel, the Asantha Mel took 4 wickets.
-
-England won the group by seven wickets in the Mangala Test match with Sri Lanka.
-
-...
-
-[Data](articles/0c3ec28a.json)
-
-[Extended Data](ext_articles/0c3ec28a.ext.json)
 
 ---

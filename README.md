@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 01:21:35**
+As of **2024-08-22 01:36:46**
 
 ## Newspaper Stats
 
-*Scraped **41,975** Articles*
+*Scraped **41,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 387
 colombotelegraphcom | 403
 islandlk | 2,426
 economynextcom | 2,536
-dailyftlk | 2,711
+dailyftlk | 2,714
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
@@ -26,11 +26,63 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,973 (100.0%) of 41,975 articles have been extended.
+41,975 (100.0%) of 41,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### C2S.lk and Rohan De Lanerolle dominate Commonwealth Business Excellence Awards
+
+*2024-08-22 01:09:37* · [`dailyftlk`](https://www.ft.lk/business/C2S-lk-and-Rohan-De-Lanerolle-dominate-Commonwealth-Business-Excellence-Awards/34-765828) · `en`
+
+Sri Lanka’s commitment to sustainability and innovation was celebrated at the Commonwealth Business Excellence Awards held on 17 August at the Emperor’s Palace in Johannesburg, South Africa.
+
+C2S.lk, a trailblazer in sustainable practices, was honoured with the ‘Sustainable Business Award of the Year’ and the ‘Business Transformation Award’, marking a significant achievement for the company.
+
+In an extraordinary display of individual excellence, C2S.lk Chairman and Inventor Rohan De Lanerolle swept three major awards: ‘Sustainable Innovator of the Year’, ‘Engineering Innovator of the Year’, and ‘Male Innovator of the Year’. His visionary leadership and relentless pursuit of innovation have set a new benchmark in the global business arena.
+
+This pioneering invention by C2S.lk has allowed Sri Lanka to convert 38 Constanta machines, including those used by India’s top tea brands, Taj Mahal by Unilever India and Tata Tea by
+
+...
+
+[Data](articles/5e82ac48.json)
+
+---
+
+### Prime Lands Residencies’ ‘The Grand Ward Place’ website shines with dual wins at 14th BestWeb.lk 2024 competition
+
+*2024-08-22 01:07:01* · [`dailyftlk`](https://www.ft.lk/business/Prime-Lands-Residencies-The-Grand-Ward-Place-website-shines-with-dual-wins-at-14th-BestWeb-lk-2024-competition/34-765827) · `en`
+
+Prime Lands Residencies shines with dual awards at the 14th BestWeb.lk 2024, celebrating excellence in digital innovation
+
+Prime Lands Residencies PLC, has once again demonstrated excellence as a digital innovator clinching two prestigious awards for ‘The Grand Ward Place’ www.thegrand.com.lk website at the 14th BestWeb.lk 2024 Competition, organised by the LK Domain Registry, held recently.
+
+The website of the ultra-luxurious condominium secured the Gold Award for ‘Best Mobile User Experience Corporate Website’ and the Silver Award for ‘Best Corporate Website’ reinforcing the company’s ability to deliver an exceptional online experience for their customers across all platforms.
+
+The accolades were presented to Officials of Prime Lands Residencies PLC at a gala event held on 14 August at the Cinnamon Grand Hotel, where leading digital innovators and visionaries gathered to celebrate technological excellence.
+
+...
+
+[Data](articles/a3f65f52.json)
+
+---
+
+### Sri Lanka – Singapore Business Council holds 27th AGM
+
+*2024-08-22 01:05:15* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Singapore-Business-Council-holds-27th-AGM/34-765826) · `en`
+
+The 27th Annual General Meeting of the Sri Lanka – Singapore Business Council (SLSBC) of The Ceylon Chamber of Commerce was held recently at the Hilton Colombo Residence.
+
+Shiluka Goonewardene was re-elected as President for the 2024-2025 period, continuing his leadership for another term. The Vice Presidents re-elected for the year include Tilak Gunawardana of MAC Holdings Ltd., Nirupa Peiris of Overseas Realty (Ceylon) PLC, and Indhra Kaushal Rajapaksa of Kalhari Enterprises.
+
+The Council also welcomed the following companies to its Committee for 2024/2025: Air Global Ltd., Brown & Company PLC, CIC Holdings PLC, Hemas Hospitals Ltd., Just in Time Holdings Ltd., Spillburg Holdings Ltd., and Vaughan Chemicals Ltd. Prajeeth Balasubramaniam will serve as the Immediate Past President.
+
+...
+
+[Data](articles/53d450c6.json)
+
+---
 
 ### Samsung Sri Lanka offers 20-year warranty on refrigerators and washing machines
 
@@ -45,6 +97,8 @@ In a market where sustainability and longevity are crucial, Samsung Sri Lanka se
 ...
 
 [Data](articles/7fb28642.json)
+
+[Extended Data](ext_articles/7fb28642.ext.json)
 
 ---
 
@@ -265,6 +319,8 @@ The rock-star emergence of Namal Rajapaksa, starting outside the Election Commis
 ...
 
 [Data](articles/affc5429.json)
+
+[Extended Data](ext_articles/affc5429.ext.json)
 
 ---
 
@@ -2317,75 +2373,5 @@ It is forced to hold the Truth Commissioners Act who betrayed the war heroes who
 [Data](articles/b73766e6.json)
 
 [Extended Data](ext_articles/b73766e6.ext.json)
-
----
-
-### Arrested for searching for gold
-
-*2024-08-21 12:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலி-தங்கத்தை-தேடியவர்-கைது/175-342563) · `ta`
-
-A man suspected of planning to dig for gold near LTTE burial sites in Omantha was arrested after fleeing two accomplices. The arrest followed intelligence tips about his intentions and the use of a scanning device. Police also confiscated equipment including phones and motorcycles.
-
-🟩
-
-Omantha police said that a person who was found in the LTTE had been buried by the Liberation Tigers of Tamil Eelam (LTTE) during the war had been arrested.
-
-The suspect was arrested during a roundup on the basis of information received by the Army Intelligence Unit in connection with a person who was ready to carry out excavations using the land scanner.. The scanner machine has also been seized.
-
-Two more suspects fled from there, and police seized some of the equipment used for the mobile phone, motorcycle and digging of their respective suspects.. The suspect is said to be from Omantha area, aged 54.
-
-◼️
-
-[Data](articles/360ea845.json)
-
-[Extended Data](ext_articles/360ea845.ext.json)
-
----
-
-### Not supporting any candidate -Catolytic Church
-
-*2024-08-21 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/191615) · `ta`
-
-The Catholic Church in Sri Lanka has announced it won't endorse any candidate in the upcoming presidential election. Despite meetings with several contenders, including Sajit Famedasa from the United People's Power and Anura Kumara from the JVP, the church remains neutral. The focus is on addressing concerns affecting Catholics, such as education and justice for the 2019 Easter Sunday attacks, rather than political endorsements.
-
-🟩
-
-The Catholic Church of Sri Lanka has said that it will not give his recognition to any candidate contesting the presidential election.
-
-The Catholic Church has said that despite the meeting of the presidential election, no candidate will support any candidate.
-
-Colombo Archbishop spokesman Sirilkamini Fernando said we would not give us recognition.
-
-He said that the people are only negotiating the problems faced by the Catholic people in the country with the candidates who are contesting the presidential election.
-
-Several presidential candidates, including the presidential candidate of the United People's Power, Sajit Famedasa JVP's presidential candidate, Anurakumara, have met Archbishop Cardinal Malcolm Ranjith.
-
-Sri Lanka Fernando said that despite the support of any candidate, he will hold talks with the presidential election candidates on the issue of Catholic people and the upheaval of justice for the 2019 resurrection Sunday attack.
-
-...
-
-[Data](articles/4a892077.json)
-
-[Extended Data](ext_articles/4a892077.ext.json)
-
----
-
-### Bandula Lal Bandarigoda Member of Parliament
-
-*2024-08-21 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/191592) · `ta`
-
-Bandula Lal Bandarigoda, from United People's Power, was sworn in as a Member of Parliament for Galle District, replacing Manusha Nanayakkara. The ceremony took place before Speaker Mahinda Yapa Abeywardena during parliamentary proceedings that began at 9:30 am on 21st.
-
-🟩
-
-United People's Power Member Bandula Lal Bandarigoda sworn in as a Member of Parliament for the vacancy caused by the loss of parliamentary membership of Manusha Nanayakkara in Galle District.
-
-He is sworn in in the presence of Speaker Mahinda Yapa Abeywardena following the inception of parliamentary proceedings at 9.30 am today (21).
-
-◼️
-
-[Data](articles/5d86b4db.json)
-
-[Extended Data](ext_articles/5d86b4db.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 12:36:50**
+As of **2024-08-21 12:54:47**
 
 ## Newspaper Stats
 
-*Scraped **41,859** Articles*
+*Scraped **41,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,527
 dailyftlk | 2,701
-adalk | 3,853
+adalk | 3,854
 dailymirrorlk | 4,733
 adaderanalk | 4,899
 tamilmirrorlk | 5,417
@@ -26,37 +26,49 @@ adaderanasinhalalk | 7,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,849 (100.0%) of 41,859 articles have been extended.
+41,859 (100.0%) of 41,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### கருணாதாஸ கொடித்துவக்கு சஜித் பிரேமதாசவுக்கு ஆதரவு அளிப்பதாக சபையில் தெரிவிப்பு
+### Sajith Premadasa supports Karunadasa flag
 
 *2024-08-21 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191602) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் கருணாதாஸ கொடித்துவக்கு ஜனாதிபதி தேர்தலில் சஜித் பிரேமதாசவுக்கு ஆதரவளிப்பதாக சபைக்கு அறிவித்துள்ளார்.
+Sajith Premadasa received support from the Sri Lanka People's Alliance (PA) for his presidential bid. A parliamentarian from the PA resigned from their position to back him, as announced in Parliament on Wednesday (21).
 
-இன்று புதன்கிழமை (21) பாராளுமன்றத்தில் விசேட அறிவிப்பொன்றினை விடுத்து தனது பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்வதாக அறிவித்தார்.
+🟩
+
+Sri Lanka PA has announced to the House that the parliamentarian of the Sri Lanka PA has supported Sajith Premadasa in the presidential election.
+
+On Wednesday (21), he announced his resignation of his parliamentary position by leaving a special announcement in Parliament.
 
 ◼️
 
 [Data](articles/a0ec9d52.json)
 
+[Extended Data](ext_articles/a0ec9d52.ext.json)
+
 ---
 
-### கொடித்துவக்கு எம்.பி பாய்ந்தார்
+### MP flowed to the flag
 
 *2024-08-21 12:02:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொடித்துவக்கு-எம்-பி-பாய்ந்தார்/175-342560) · `ta`
 
-பொதுஜன பெரமுனவின் மாத்தறை மாவட்ட உறுப்பினர் கருணா கொடித்துவக்கு பாராளுமன்றத்தில் எதிர்க்கட்சியில் அமரவுள்ளதாக தெரிவித்துள்ளார்.
+A Matara district PA member decided to join the opposition in Parliament, supporting Sajith Premadasa in the presidential election based on public consensus.
 
-மாத்தறை மக்களின் ஒருமித்த கருத்தின் அடிப்படையில் இந்தத் தீர்மானம் எடுக்கப்பட்டதாகத் தெரிவித்த  கொடிதுவக்கு, ஜனாதிபதி தேர்தலில் சஜித் பிரேமதாசவுக்கு ஆதரவளிப்பதாகத் தெரிவித்தார்.
+🟩
+
+Matara district member of the PA has said that he will sit in the opposition in Parliament.
+
+The decision was taken on the consensus of the people of Matara, saying that the decision was taken, and that he would support Sajith Premadasa in the presidential election.
 
 ◼️
 
 [Data](articles/455a8111.json)
+
+[Extended Data](ext_articles/455a8111.ext.json)
 
 ---
 
@@ -120,19 +132,25 @@ He was speaking at a special statement in parliament.
 
 ---
 
-### பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்தார் தலதா அத்துகோரல
+### Dalada Athukorala resigned from parliament
 
 *2024-08-21 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191599) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரல  பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்வதாக சபைக்கு அறிவித்துள்ளார்.
+Dalada Athukorala, United People's Power Ratnapura District Parliamentarian, resigned from his parliamentary position, citing Opposition Leader Sajith Premadasa's haste to become president and advising caution based on Gotabhaya Rajapakse's fate.
 
-இன்று புதன்கிழமை (21) பாராளுமன்றத்தில் விசேட அறிவிப்பொன்றினை விடுத்து தனது பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்வதாக அறிவித்தார்.
+🟩
 
-இதேவேளை, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச விரைவாக ஜனாதிபதியாக முயற்சிக்கிறார் என்றும் கோட்டபய ராஜபக்‌ஷவுக்கு ஏற்பட்ட கதியை ஒரு படிப்பினையாக கொள்ள வேண்டும் என்றும் இதன்போது தலதா அதுகோரல குறிப்பிட்டுள்ளார்.
+United People's Power Ratnapura District Parliamentarian Dalada Athukorala has announced to the council that he will resign.
+
+On Wednesday (21), he announced his resignation of his parliamentary position by leaving a special announcement in Parliament.
+
+Meanwhile, Dalada Athukorala has stated that Opposition Leader Sajith Premadasa is trying to become president quickly and that the fate of Gotabhaya Rajapakse should be a lesson.
 
 ◼️
 
 [Data](articles/229defb7.json)
+
+[Extended Data](ext_articles/229defb7.ext.json)
 
 ---
 
@@ -174,21 +192,27 @@ Opposition leader Sajith Premadasa said he was opposed to the decision to form t
 
 ---
 
-### தங்காலையில் பூசாரிகளை போல் நடித்து தொல்பொருட்களை எடுத்துச் சென்ற மூவர் கைது
+### Three persons arrested for acting like priests in Tangalle
 
 *2024-08-21 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191589) · `ta`
 
-தங்காலை பகுதியில் பூசாரிகளை போல் நடித்து பல்வேறு தொல்பொருட்களை எடுத்துச் சென்றதாக கூறப்படும் மூன்று சந்தேகநபர்கள் பொலிஸ் விசேட அதிரடிப் படையினரால் கைது செய்யப்பட்டுள்ளதாக தங்காலை பொலிஸார் தெரிவித்துள்ளனர்.
+In Tangalle, three individuals impersonating priests were arrested by the STF, confiscating 10 gemstones and 262 ancient coins. The duo disguised as clergy were from Galle Neluwa and Galle Nagoda, aged 24 and 25.
 
-கைது செய்யப்பட்டவர்களிடமிருந்து கஜமுத்து, 10 மாணிக்க கற்கள் மற்றும் 262 பழைய நாணயங்கள் என்பன கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேகநபர்களிள்,  பூசாரிகளைப் போன்று உடை அணிந்திருந்த இருவரும் காலி நெலுவ பகுதியைச் சேர்ந்தவர்கள் என்பதுடன் மற்றையவர் காலி நாகொடை பகுதியைச் சேர்ந்தவர் என பொலிஸார் தெரிவித்துள்ளனர்.
+Tangalle police said that three suspects who allegedly carried various archaeologies were arrested by the Special Task Force (STF) in the Tangalle area.
 
-கைது செய்யப்பட்ட சந்தேகநபர்கள் மூவரும் 24 மற்றும் 25 வயதுடையவர்கள் என பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
+Police said Gajamuthu, 10 gemstones and 262 old coins were seized from the arrested persons.
+
+Among the suspects, the two were dressed like priests and the other were from the Galle Neluwa area and the other was from the Galle Nagoda area, police said.
+
+The arrested suspects were 24 and 25 years old, police said.
 
 ◼️
 
 [Data](articles/fa62a295.json)
+
+[Extended Data](ext_articles/fa62a295.ext.json)
 
 ---
 
@@ -370,7 +394,7 @@ Athukorala is the sister of one-time United National National Party general Secr
 
 Opposition Leader Sajith Premadasa was too much in a hurry to become leader, she said drawing parallels with the rise of Gotabaya Rajapaksa.
 
-“All the drowning snakes and mongooses (nai-mugati) have clung on the SJB log (kote) to avoid drowning,” she said in a scathing attack on Premadasa. (Colombo/Aug20/2024)
+“All the drowning snakes and mongooses (nai-mugati) have clung on the SJB log (kote) to avoid drowning,” she said in a scathing attack on Premadasa. (Colombo/Aug21/2024)
 
 ◼️
 
@@ -426,17 +450,23 @@ Former minister Manusha Nanayakkara lost his parliamentary post and was appointe
 
 ---
 
-### பந்துல லால் பண்டாரிகொட பாராளுமன்ற உறுப்பினராக சத்தியப்பிரமாணம்
+### Bandula Lal Bandarigoda Member of Parliament
 
 *2024-08-21 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191592) · `ta`
 
-காலி மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் மனுஷ நாணயக்கார பாராளுமன்ற உறுப்புரிமையை இழந்தமையினால் ஏற்பட்ட வெற்றிடத்திற்கு  ஐக்கிய மக்கள் சக்தியின் உறுப்பினர் பந்துல லால் பண்டாரிகொட பாராளுமன்ற உறுப்பினராக சத்தியப்பிரமாணம் செய்துகொண்டார்.
+Bandula Lal Bandarigoda, from United People's Power, was sworn in as a Member of Parliament for Galle District, replacing Manusha Nanayakkara. The ceremony took place before Speaker Mahinda Yapa Abeywardena during parliamentary proceedings that began at 9:30 am on 21st.
 
-இன்று (21) காலை  9.30 மணிக்கு பாராளுமன்ற நடவடிக்கைகள் ஆரம்பிக்கப்பட்டதை தொடர்ந்து சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில் அவர் சத்தியப்பிரமாணம் செய்துகொண்டுள்ளார்.
+🟩
+
+United People's Power Member Bandula Lal Bandarigoda sworn in as a Member of Parliament for the vacancy caused by the loss of parliamentary membership of Manusha Nanayakkara in Galle District.
+
+He is sworn in in the presence of Speaker Mahinda Yapa Abeywardena following the inception of parliamentary proceedings at 9.30 am today (21).
 
 ◼️
 
 [Data](articles/5d86b4db.json)
+
+[Extended Data](ext_articles/5d86b4db.ext.json)
 
 ---
 
@@ -516,7 +546,7 @@ Neon and Echelon have launched Shine 50, an initiative spotlighting 50 young wom
 
 Dubbed “The Girls Who Run the World,” Shine 50 honours women between the ages of 18 and 35 for their impact on society and their role in driving change across diverse fields, from agriculture to art, business, social enterprises, education, environment, technology, entertainment, and science. The honorees represent regions across the country, including Jaffna, Galle, Batticaloa, Colombo, and the Central Hills.
 
-From left: Piyumi Wattuhewa, Meera Nadarasa, Tashini Vithanage, Thanuki Goonesinghe, Rose Fernando, Deanna Jayasundera, Sriyangani Dhanapala, Shenelle Rodrigo
+Top from left: Piyumi Wattuhewa, Meera Nadarasa, Tashini Vithanage, Thanuki Goonesinghe; Bottom from left: Rose Fernando, Deanna Jayasundera, Sriyangani Dhanapala, and Shenelle Rodrigo
 
 ...
 
@@ -526,21 +556,27 @@ From left: Piyumi Wattuhewa, Meera Nadarasa, Tashini Vithanage, Thanuki Goonesin
 
 ---
 
-### ஹெரோயினுடன் பொலிஸ் பரிசோதகர், கான்ஸ்டபிள் கைது!
+### Police Inspector, Constable arrested with heroin
 
 *2024-08-21 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191583) · `ta`
 
-ஒரு கிலோகிராம் ஹெரோயின் போதைப்பொருளை வைத்திருந்த பொலிஸ் பரிசோதகர் ஒருவரும் கான்ஸ்டபிள் ஒருவரும் கொழும்பு குற்றத்தடுப்பு பிரிவினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Colombo, a police inspector and constable were arrested for possessing a kilogram of heroin. They were stopped near Piliyandala while driving from a shopping complex. The inspector, 35 years old, faces charges of aiding drug trafficking, allegedly holding the heroin.
 
-இவர்கள் இருவரும்  பிலியந்தலையில் உள்ள வணிக வளாகம் ஒன்றின் தரிப்பிடத்திலிருந்து காரில் வந்துகொண்டிருந்த போதே கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கைது செய்யப்பட்டவர்கள் மொரட்டுவை விசேட அதிரடிப்படையின் புலனாய்வுப் பிரிவைச் சேர்ந்தவர்கள் எனத் தெரிவிக்கப்படுகிறது.
+A police inspector and a constable who had a kilogram of heroin had been arrested by the Colombo Crime Unit, police said.
 
-35 வயதான பொலிஸ் பரிசோதகர் போதைப்பொருள் கடத்தலுக்கு உதவிய குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டுள்ளதோடு, கான்ஸ்டபிள் ஹெரோயின் வைத்திருந்ததாக குற்றம் சாட்டப்பட்டுள்ளார்.
+The two were arrested while they were traveling in a car from a shopping complex in Piliyandala, police said.
+
+The arrested persons are said to belong to the Moratuwa Special Task Force Intelligence Unit.
+
+The 35 -year -old police inspector has been arrested on charges of assisting drug trafficking and is accused of holding constable heroin.
 
 ◼️
 
 [Data](articles/3e1f6205.json)
+
+[Extended Data](ext_articles/3e1f6205.ext.json)
 
 ---
 
@@ -588,21 +624,27 @@ However, the 'Mom' on the left side of the deceased, 'Mom' has also been tattoon
 
 ---
 
-### மாமியாரை தாக்கி கொலை செய்த நபரொருவர் கைது !
+### A man arrested for assassinating and murder
 
 *2024-08-21 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191584) · `ta`
 
-மாமியாரை தாக்கி கொலை செய்து  மனைவி மற்றும் மகளை கடுமையாக தாக்கி காயப்படுத்திய நபரொருவர் கலபிடமட லெவன்கம பகுதியில் வைத்து கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In Kalapitamada, a man was arrested for allegedly murdering his mother-in-law over a money dispute. The victim was attacked and later died at Karawanella Hospital. Police continue investigating the case.
 
-கலபிடமட பொலிஸ் பிரிவிற்குட்பட்ட லெவன்கம பகுதியில் நேற்று செவ்வாய்க்கிழமை (20) சந்தேக நபர், மாமியாரை தாக்கி கொலை செய்துள்ளதோடு, மனைவி மற்றும் மகளை கூரிய ஆயுதத்தால் தாக்கி  காயப்படுத்தியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-சந்தேக நபர் பணத் தகராறு காரணமாக மாமியாரின் தலையில் கல்லால் தாக்கியுள்ளார். இதன்போது, தலையில் பலத்த காயமடைந்த மாமியார் கரவனெல்ல வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+A man who was assassinated and killed by his wife and daughter was arrested in the Levancama area of ​​Kalapitamada, police said.
 
-சம்பவம் தொடர்பில் 44 வயதுடைய சந்தேக நபர் கைது செய்யப்பட்டுள்ளதுடன், கலபிடமட பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+The suspect was assaulted and assaulted by a mother -in -law on Tuesday (20) in the Kalapitamada police division, police said.
+
+The suspect hit the head of the mother -in -law due to a money dispute. Meanwhile, a mother -in -law, who was seriously injured, died after being admitted to the Karawanella Hospital.
+
+The 44 -year -old suspect has been arrested in connection with the incident and Kalapitamada police are conducting further investigations.
 
 ◼️
 
 [Data](articles/eaa49f7a.json)
+
+[Extended Data](ext_articles/eaa49f7a.ext.json)
 
 ---
 
@@ -652,23 +694,29 @@ The two were expelled from the SJB for joining Ranil Wickremesinghe as ministers
 
 ---
 
-### பெரஹராவை ட்ரோன் கமராவில் புகைப்படம் எடுத்த திருமண புகைப்படப்பிடிப்பாளர் கைது
+### Arrested for a wedding photographer who photographed Perahara on a drone camera
 
 *2024-08-21 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/191588) · `ta`
 
-கண்டி வரலாற்றுச் சிறப்புமிக்க தலதா மாளிகையின் வருடாந்த எசல பெரஹராவின் இறுதி பெரஹரா ரந்தோலி பெரஹராவில் ட்ரோன் கமராவை பயன்படுத்தி புகைப்படம் எடுத்த திருமண புகைப்படப்பிடிப்பாளர்  கைது செய்யப்பட்டுள்ளார்.
+A wedding photographer was arrested for using a drone camera during the last Perahara Randoli of the Annual Esala Perahara at the historical Talada House in Kandy. The Air Force shot down the drone at the Dalada House complex, leading to the arrest of the suspect at a nearby hotel. The area is a high-security zone where drone use is prohibited without permission. Additionally, two others were arrested for drone usage on the event's third day.
 
-தலதா மாளிகை வளாகத்தில் ட்ரோன் கமரா பறப்பதை அவதானித்த விமானப்படை வீரர்கள் அதனை சுட்டு வீழ்த்தியுள்ளனர்.
+🟩
 
-பின்னர் ட்ரோன் கமராவை பயன்படுத்திய சந்தேக நபர்  தலதா மாளிகைக்கு அருகிலுள்ள ஹோட்டலில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+A wedding photographer who photographed photo using a drone camera in the last Perahara Randoli Perahara of the Annual Esala Perahara of the Historical Talada House in Kandy has been arrested.
 
-உயர் பாதுகாப்பு வலயமாக அறிவிக்கப்பட்டுள்ள தலதா மாளிகையில் அனுமதியின்றி ட்ரோன் கமராக்களை பயன்படுத்த தடை விதிக்கப்பட்டுள்ளது.
+Air Force soldiers shot down the drone camera at the Dalada House complex.
 
-ரந்தோலி பெரஹெராவின் மூன்றாவது நாளில் ட்ரோன் கமராவை பயன்படுத்திய மேலும் இருவர் கைது செய்யப்பட்டனர்.
+The suspect, who later used the drone camera, was arrested at a hotel near the Dalada House.
+
+The Talada House, which has been declared a high security zone, is banned from using drone cameras without permission.
+
+Two more people were arrested for using a drone camera on the third day of Randoli Behera.
 
 ◼️
 
 [Data](articles/35040b37.json)
+
+[Extended Data](ext_articles/35040b37.ext.json)
 
 ---
 
@@ -840,23 +888,29 @@ Police Inspector and Constable, who had about a kilogram of heroin, have been ar
 
 ---
 
-### சிந்துஜாவின் மரணத்தின் எதிரொலி ; மன்னார் மாவட்ட பொது வைத்தியசாலையில் பல்வேறு தீர்மானங்கள் முன்னெடுப்பு
+### The echo of the death of Sindhuja;Various resolutions at the Mannar District General Hospital
 
 *2024-08-21 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191585) · `ta`
 
-மன்னார் மாவட்ட பொது அமைப்புக்களின் ஒன்றியத்தின் ஏற்பாட்டில்  மன்னார் மாவட்ட பொது வைத்தியசாலையில்  செவ்வாய்க்கிழமை (20) மாலை அவசர கலந்துரையாடல் ஒன்று முன்னெடுக்கப்பட்டுள்ளது.
+An emergency meeting at Mannar District General Hospital discussed future improvements to ensure safety and efficiency. Key officials including the Government Agent plan to address concerns directly with the President. Training sessions will be introduced to enhance patient care.
 
-பொது அமைப்புக்களின் ஒன்றிய தலைவர் வி.எஸ்.சிவகரன் தலைமையில் இடம்பெற்ற குறித்த கலந்துரையாடலில் மன்னார் மாவட்ட அரசாங்க அதிபர் க.கணகேஸ்வரன், மேலதிக அரசாங்க அதிபர், பிரதேச செயலாளர், உதவி மாவட்ட செயலாளர், பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் , வைத்தியசாலை பணிப்பாளர், அருட்தந்தையர்கள், வைத்திய நிபுணர்கள் ,சிவில் சமூக பிரதிநிதிகள், ஆகியோர் கலந்து கொண்டிருந்தனர்.
+🟩
 
-இதன்போது மன்னார் மாவட்ட பொது வைத்தியசாலையின் எதிர்கால நகர்வு தொடர்பாகவும்   மக்கள் அச்சமின்றி வைத்தியசாலைக்கு வரும் சூழலை ஏற்படுத்தி முன்னோக்கி நகர்வோம் என்னும் நோக்கு நிலையில் பல விடயங்கள் அறிவு பூர்வமாக  ஆராயப்பட்டன.
+An emergency discussion was held at the Mannar District General Hospital on Tuesday evening (20) under the organizing of the Mannar District Public Organizations Union.
 
-இதன் போது சில விடயங்களுக்கு தீர்வு கோரி  ஜனாதிபதிக்கு கடிதம் எழுதுவதாக  அரசாங்க அதிபர் கூறினார்.
+Mannar District Government Agent K. Kanageswaran, Additional Government Agent, Divisional Secretary, Assistant District Secretary, Regional Health Services Director, Hospital Director, Hospital Director, Blessed Experts, Civil Society RepresentativesWere attending.
 
-மேலும்  இன்முகத்தோடு நோயாளரை  அணுகும் முறைமை  தொடர்பில் பயிற்சி  வழங்குவது என்றும் தீர்மானிக்கப்பட்டது.
+A number of issues were widely investigated in the wake of the future move of the Mannar District General Hospital and that the people would come to the hospital without fear.
+
+The Government Agent said he was writing a letter to the President seeking a solution to some issues.
+
+It was also decided to provide training on the patient's approach to the patient.
 
 ◼️
 
 [Data](articles/ce48951b.json)
+
+[Extended Data](ext_articles/ce48951b.ext.json)
 
 ---
 
@@ -880,17 +934,25 @@ The proposal is an interim solution to start LNG for power generation in Sri Lan
 
 ---
 
-### இதுவரை 131 பில்லியன் அமெரிக்க டொலர் மனிதாபிமான உதவிகளை வழங்கியுள்ள சவூதி அரேபியா
+### Saudi Arabia has provided US $ 131 billion humanitarian aid so far
 
 *2024-08-21 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191582) · `ta`
 
-மன்னர் அப்துல் ரஹ்மான் பின் அப்துல் அஸீஸ் அவர்களது காலம் தொட்டே மனிதாபிமான உதவிகளை உலகம் பூராகவும் செய்து வருவதில் சவூதி அரேபிய இராச்சியம் முன்னனி வகித்து வருகிறது. இந்த நாமத்தை இன்றும் சவூதி அரேபிய மன்னர் சல்மான் பின் அப்துல் அஸீஸ் அவர்களும் பட்டத்து இளவரசர் முஹம்மத் பின் சல்மான் அவர்களும் கட்டிக் காத்து வருகின்றனர். உலக மக்களின் இன்னல்களைப் போக்குவதற்கும் கடினமான நேரங்களில் கைகொடுக்கும் நோக்கோடுமே இந்த தொண்டு மற்றும் மனிதாபிமான உதவிகளை சவூதி அரசாங்கம் செய்து வருகிறது.
+Saudi Arabia, under Kings Abdul Rahman, Salman, and Prince Muhammad, has donated $131 billion from 1975 to 2024 to 171 countries, implementing 7,090 humanitarian, relief, and development programs. In 2023, it ranked fourth globally for humanitarian aid, spending $1.2 billion, 3.6% of total aid to developing nations facing disasters. The Humanitarian Aid and Relief Center, founded in 2015, has launched 3,009 initiatives in 100 countries, providing over $6.94 billion in aid. Notably, Saudi Arabia has significantly contributed to aiding Yemen, Gaza, Syria, Turkey, and Sri Lanka, including free eye surgeries and various support programs.
 
-1975 ஆம் ஆண்டிலிருந்து 2024 வரையான காலப்பகுதிக்குள், சவூதி அரேபியா 171 நாடுகளுக்கு தோராயமாக 131 பில்லியன் அமெரிக்க டொலர்களை நன்கொடையாகவும் உதவிகளாகவும் வழங்கியுள்ளதோடு,  7090 மனிதாபிமான, நிவாரணம் மற்றும் மேம்பாட்டுத் திட்டங்களையும் செயல்படுத்தியுள்ளது.
+🟩
+
+King Abdul Rahman bin Abdul Aziz has been in the forefront of humanitarian aid in the world, the Saudi Arabian Kingdom. The name is still being held by Saudi Arabian King Salman bin Abdul Aziz and Prince Muhammad bin Salman. The Saudi government is providing this charity and humanitarian aid to overcome the suffering of the people of the world.
+
+From 1975 to 2024, Saudi Arabia has donated and assisted $ 131 billion to 171 countries and implemented 7090 humanitarian, relief and development programs.
+
+By the end of 2023, the Saudi has been identified as the fourth largest donation of humanitarian and relief aid worldwide this year.. It is noteworthy that the Saudi has spent US $ 1.2 billion this year alone. According to the United Nations Financial Monitoring Service (FTSS), this amount is 3.6% of all the assistance provided to other countries that are facing developing countries and disasters and crises.
 
 ...
 
 [Data](articles/8b8192ed.json)
+
+[Extended Data](ext_articles/8b8192ed.ext.json)
 
 ---
 
@@ -927,6 +989,24 @@ The Railway Department has said that the railway services of the route have been
 [Data](articles/3d6d2b86.json)
 
 [Extended Data](ext_articles/3d6d2b86.ext.json)
+
+---
+
+### ලොව දිගම මුද්දරය ලංකාවෙන්
+
+*2024-08-21 08:36:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-දිගම-මුද්දරය-ලංකාවෙන්/11-411477) · `si`
+
+ලොව දිගම මුද්දරය ලෙස මිලි මීටර් 205 කින් යුතුව මහනුවර ඓතිහාසික ශ්‍රි දළදා පෙරහැර සංකේතවත් කරමින් තැපැල් දෙපාර්තමේන්තුව විසින් නිකුත් කළ සමරු මුද්දරය ජ්‍යෙෂ්ඨ නියෝජ්‍ය තැපැල්පති රාජිත කේ. රණසිංහ මහතා විසින් ඊයේ (20දා) ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගන්වනු ලැබීය.
+
+නුවර ඇසළ පෙරහර මංගල්‍යය අවසන් බව සනිටුවහන් කිරිම වෙනුවෙන් මහනුවර ජනපති මන්දිරයේ පැවැති උත්සවයේදි මෙම මුද්දරය එළි දැක්විය.
+
+එසේම මෙහිදි ශ්‍රී දළදා මාළිගාව සහ බෞද්ධ සංස්කෘතිය ආශ්‍රයෙන් නිර්මාණය කරන ලද මුද්දර, සිහිවටන පත්‍රිකා සහ මුල්දින කවර එකතුවක් ශ්‍රී දළදා මාළිගාවේ කෞතුකාගාරයේ තැන්පත් කිරීම සඳහා දියවඩන නිලමේවරයා වෙත පිළිගැන්වීම ද සිදු කෙරිණි.
+
+මෙහිදී උත්සව සභාව ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ මහනුවර ඓතිහාසික ශ්‍රී දළදා පෙරහර දකුණු ආසියාවේ උසස්ම ආගමික උත්සවය ලෙස ලෝකය හමුවට ගෙන යාමට අවශ්‍ය පූර්ණ රාජ්‍ය අනුග්‍රහය ලබා දෙන බවයි.
+
+◼️
+
+[Data](articles/87240851.json)
 
 ---
 
@@ -2107,35 +2187,5 @@ The commemorative stamp was presented to President Ranil Wickremesinghe, accordi
 [Data](articles/9663b8cb.json)
 
 [Extended Data](ext_articles/9663b8cb.ext.json)
-
----
-
-### 'Sri Lanka is thirsty for a rare opportunity in the UK'
-
-*2024-08-20 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191569) · `ta`
-
-Sanath Jayasuriya, Sri Lanka's interim coach, expresses excitement about the upcoming ICC World Test Championship series against England, emphasizing the importance of mental preparation and adapting to varying conditions. Highlighting the rarity of such opportunities, he stresses the need for the team to seize the moment. With a mix of experience and youth, the squad aims to build on past successes and challenge England's dominance on home soil.
-
-🟩
-
-Sri Lanka's interim coach Sanath Jayasuraya says Sri Lanka is very thirsty to take a rare opportunity in the UK.
-
-Sanath Jayasuriya made this statement as the ICC World Test championship, which has a three-match match between Sri Lanka and England, commenced tomorrow (21st).
-
-Sanath Jayasuriya said he wanted to ensure that his players had the right mindset, with many experienced people in the Sri Lankan squad, which is a visit to England eight years later.
-
-Sanath Jayasuriya stressed that the series was important and said, "I want to ensure that the players are thirsty."
-
-"There is still no chance to play in 3 Test matches like this," he pointed out.
-
-'So we have to hold it when we can. It is challenging to accumulate flows here. The pitch is flat, but the ball may be swinging or serving. We have to prepare for it, ”said Sanath Jayasuriya.
-
-Sanath Jayasuriya, who has played 6 Tests in England, has scored 421 runs with an average of 42.1.
-
-...
-
-[Data](articles/adade62a.json)
-
-[Extended Data](ext_articles/adade62a.ext.json)
 
 ---

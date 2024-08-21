@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 16:21:30**
+As of **2024-08-21 16:36:48**
 
 ## Newspaper Stats
 
-*Scraped **41,889** Articles*
+*Scraped **41,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,41 +12,113 @@ dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 387
 colombotelegraphcom | 401
-islandlk | 2,423
+islandlk | 2,426
 economynextcom | 2,527
 dailyftlk | 2,701
-adalk | 3,857
+adalk | 3,860
 dailymirrorlk | 4,733
-adaderanalk | 4,903
-tamilmirrorlk | 5,425
-virakesarilk | 6,661
+adaderanalk | 4,904
+tamilmirrorlk | 5,426
+virakesarilk | 6,666
 adaderanasinhalalk | 7,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,888 (100.0%) of 41,889 articles have been extended.
+41,889 (100.0%) of 41,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### ජනපති අපේක්ෂක විවාදයට 39 දෙනාටම ඇරයුම්
+### Vadivel Suresh appointed State Minister of Labour
+
+*2024-08-21 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101399/vadivel-suresh-appointed-state-minister-of-labour) · `en`
+
+Badulla District MP Vadivel Suresh has been appointed as the State Minister of Labour.
+
+He was sworn in before President Ranil Wickremesinghe, a short while ago.
+
+◼️
+
+[Data](articles/9e8a9957.json)
+
+---
+
+### இராஜாங்க அமைச்சராக வடிவேல் சுரேஷ் பதவியேற்பு
+
+*2024-08-21 16:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சராக-வடிவேல்-சுரேஷ்-பதவியேற்பு/175-342573) · `ta`
+
+தொழில் இராஜாங்க அமைச்சராக வடிவேல் சுரேஷ் எம்.பி , ஜனாதிபதி ரணில் முன்னிலையில் பதவியேற்றார்.
+
+◼️
+
+[Data](articles/55424e63.json)
+
+---
+
+### 39 invited for 39 candidate debate
 
 *2024-08-21 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200179) · `si`
 
-2024 ජනාධිපතිවරණ අපේක්ෂක විවාදය සැලසුම් කර ඇති පරිදි සැප්තැම්බර් මස 7 වන දින ඒ ආකාරයෙන්ම පැවැත්වීමට කටයුතු කරන බව මාර්තු 12 ව්‍යාපාරය පවසයි.
+39 candidates have been invited for a debate scheduled for September 7, organized by the March 12 Movement. The event will unfold in stages, ensuring all candidates' interests are considered. Interested parties should contact the organizing committee via email or phone for further details.
 
-ඒ සඳහා අනෙකුත් අපේක්ෂකයන්ද දක්වන උනන්දුව සැලකිල්ලට ගනිමින් මෙම විවාදය අදියර කිහිපයක් යටතේ ක්‍රියාත්මක කිරීමට ද මාර්තු 12 ව්‍යාපාරය තීන්දු කර ඇත.
+🟩
 
-මාර්තු 12 ව්‍යාපාරයේ මෙහෙයුම් කමිටුව අපේක්ෂකයින් 39 දෙනාටම විවෘතව මෙම විවාද මාලාව සඳහා ආරාධනා කරන අතර ඒ සඳහා අපේක්ෂකයන්ගේ කැමැත්ත ඊමේල් ලිපිනයට අගෝස්තු 24 වනදා මධ්‍යහ්න 12 ට පෙර යොමුකරන ලෙසද දැනුම්දෙයි.
+The March 12 Business states that the presidential candidate debate will be held on 7th September.
 
-මීට අදාළ වැඩි විස්තර පහත දුරකථන අංකයෙන් ලබාගත හැකි බවත් මාර්තු 12 ව්‍යාපාරයේ මෙහෙයුම් කමිටුව සඳහන් කරයි.
+The March 12 movement has been implemented to implement this debate in several stages, considering the interest of other candidates.
+
+The operating committee of the March 12 movement will open to these debate series openly and will be informed to refer to the email address before 12 months.
+
+The operating committee of the March 12 movement says that more information can be obtained from the following telephone number.
 
 ◼️
 
 [Data](articles/3873ee28.json)
+
+[Extended Data](ext_articles/3873ee28.ext.json)
+
+---
+
+### யாழ்.போதனாவில் சத்திரசிகிச்சை மூலம் துண்டாக்கப்பட்ட கைகள் இணைப்பு
+
+*2024-08-21 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191638) · `ta`
+
+குறித்த தகவலை யாழ்ப்பாணம் போதனா வைத்தியசாலைப் பணிப்பாளர் த. சத்தியமூர்த்தி தனது சமூகவலைத்தளப்பதிவில் தெரிவித்துள்ளார்.
+
+யாழ்.போதனா வைத்தியசாலை யில் கடந்த மாதம் கை துண்டிக்கப்பட்ட நிலையில் இளைஞன் ஒருவர் அனுமதிக்கப்பட்டிருந்தார்.
+
+இந்நிலையிலேயே, நீண்ட மணிநேர சத்திர சிகிச்சையின் பின்னர் வெற்றிகரமாக மீண்டும் கை பொருத்தப்பட்டு இளைஞன் வீடு திரும்பியுள்ளார்.
+
+குறிப்பிட்ட சத்திரசிகிச்சையை வெற்றிகரமாக மேற்கொண்ட வைத்திய நிபுணர்கள், வைத்தியர்கள், தாதியர்கள் மற்றும் உத்தியோகத்தர்கள்
+
+◼️
+
+[Data](articles/0cd56655.json)
+
+---
+
+### பற்றி எரியும் அமேசான் காடு ; மூச்சுவிட திணறும் பிரேசிலிய மக்கள்
+
+*2024-08-21 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191630) · `ta`
+
+பிரேசிலில்  அமேசான் காட்டுப்பகுதியில் தீப்பரவல் ஏற்பட்டுள்ளதால் ரொண்டோனியா மாநிலத்திலுள்ள போர்டோ வெல்ஹோவில் சூரிய வெளிச்சத்தை கூட காணமுடியாத அளவிற்கு அடர்த்தியான புகை சூழ்ந்துள்ளது.
+
+இந்நிலையில்,  புகை சூழ்ந்துள்ளமையினால்  460,000 பேர் வசிக்கும் பொலிவியாவின் எல்லைக்கு அருகிலுள்ள நகரத்திலுள்ள  30 வயதுடைய  ஆசிரியர் தயானே மோரேஸ், "நாங்கள் சுவாசிக்க சிரமப்படுகிறோம்" என்று கூறியுள்ளார்.
+
+போர்டோ வெல்ஹோவில் செவ்வாய்க்கிழமை (20) பிஎம்2.5 எனப்படும் புற்றுநோயை உண்டாக்கும் நுண்துகள்களின் செறிவு ஒரு கன மீட்டர் காற்றில் 56.5 மைக்ரோகிராம்களாக அதிகரித்துள்ளது.
+
+உலக சுகாதார ஸ்தாபனத்தின் நுண்துகள்களின் அதிகபட்ச வழிகாட்டுதல் வரம்புகளை விட 11 மடங்கு அதிகரித்துள்ளது.
+
+இந்த நுண்துகள்களை சுவாசிப்பதால்  நுரையீரல் புற்றுநோய், இதய நோய், பக்கவாதம், நீரிழிவு மற்றும் பிற உடல்நலப் பிரச்சனைகளின் அபாயத்தை அதிகரிப்பதாக கண்டறியப்பட்டுள்ளது.
+
+14 ஆம் திகதி ஒரு கன மீட்டருக்கு 246.4 மைக்ரோகிராம் ஆபத்தான  அளவில் காணப்பட்டுள்ளதாக காற்றின் தரத்தைர கண்காணிக்கும் IQAir நிறுவனம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/04d55251.json)
 
 ---
 
@@ -108,6 +180,20 @@ Sri Lanka were also able to win the two-match Test tournament.
 
 ---
 
+### உலக நாயகன்' கமல்ஹாசனின் பாராட்டு மழையில் 'கொட்டுக்காளி'
+
+*2024-08-21 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/191625) · `ta`
+
+தமிழ் திரை உலகின் முன்னணி நட்சத்திரக் கலைஞரான சூரி - அன்னா பென் இணைந்து முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'கொட்டுக்காளி' எனும் திரைப்படத்தை 'உலக நாயகன்' கமல்ஹாசன் பாராட்டி இருக்கிறார். மேலும் படத்தினை பாராட்டி நற்சான்றிதழ் ஒன்றையும் வழங்கியிருக்கிறார்.
+
+'கூழாங்கல்' எனும் படைப்பை இயக்கி ரசிகர்களின் கவனத்தை கவர்ந்த இயக்குநர் பி. எஸ். வினோத் ராஜ் இயக்கத்தில் உருவாகி இருக்கும் 'கொட்டுக்காளி' எனும் திரைப்படத்தில் சூரி, அன்னா பென் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பி. சக்திவேல் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்தினை கணேஷ் சிவா தொகுத்திருக்கிறார்.  யதார்த்த வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை எஸ் கே புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் நடிகரும், தயாரிப்பாளருமான சிவகார்த்திகேயன் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/d431ee62.json)
+
+---
+
 ### Foreign plans and a group of people arrested
 
 *2024-08-21 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200177) · `si`
@@ -144,7 +230,7 @@ The suspects are to be produced before the Wattala Magistrate's Court.
 
 *2024-08-21 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101397/protest-over-sexual-assault-of-school-girls-in-indias-maharashtra-turns-chaotic) · `en`
 
-Amid nationwide protests over the brutal rape and murder of a Kolkata doctor, two young female students from a school in Maharashtra’s Badlapur were allegedly sexually assaulted, leading to widespread public outrage.
+Amid nationwide protests in India over the brutal rape and murder of a Kolkata doctor, two young female students from a school in Maharashtra’s Badlapur were allegedly sexually assaulted, leading to widespread public outrage.
 
 The situation escalated on Tuesday when protesters, angry over the alleged police inaction, blocked train services at the Badlapur railway station, prompting the police to resort to lathicharge to disperse the crowd.
 
@@ -159,6 +245,18 @@ State Cabinet Minister Girish Mahajan, who attempted to pacify the protesters, a
 [Data](articles/13014672.json)
 
 [Extended Data](ext_articles/13014672.ext.json)
+
+---
+
+### இன்றைய நாணயமாற்று விகிதம்
+
+*2024-08-21 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191622) · `ta`
+
+இன்று புதன்கிழமை  (ஆகஸ்ட் 21) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை  295.2072 ரூபா ஆகவும் விற்பனை விலை  304.4523 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f166ec83.json)
 
 ---
 
@@ -209,6 +307,26 @@ The Maligakanda Magistrate's directive to the law was filed against the law, who
 [Data](articles/6b097636.json)
 
 [Extended Data](ext_articles/6b097636.ext.json)
+
+---
+
+### 67 හැවිරිදි විවාහක කතගේ ආදරය නොලැබුණයි 71 හැවිරිදි වැඩිහිටියෙක් ජීවිතයට සමුදෙයි
+
+*2024-08-21 13:57:41* · [`adalk`](https://www.ada.lk/breaking_news/67-හැවිරිදි-විවාහක-කතගේ-ආදරය-නොලැබුණයි-71-හැවිරිදි-වැඩිහිටියෙක්-ජීවිතයට-සමුදෙයි/11-411489) · `si`
+
+කොහුවල සිරිගල් මාවතේ දෙමහල් නිවසක් ඉදිරිපිට ආලින්දයේ දි  පුද්ගලයෙකුගේ  සිරුරට ගිනි ඇවිලි මිය ගොස් ඇතැයි   කොහුවල පොලිසිය කියයි.
+
+මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 71 ක් වන ආලන් නමැති පුද්ගලයෙකි. මළ සිරුර වැටී තිබූ ස්ථානයේ ගිනිපෙට්ටියක් සහ භූමි තෙල් ගඳවාහනය වන ප්ලාස්ටික් බෝතල් දෙකක් තිබී පොලිසිය මගින් සොයාගෙන ඇත.
+
+මියගිය පුද්ගලයා මෙම නිවසේ කාමරයක ඉකුත් වසරේ අග භාගයේදී මාස තුනක කාලයක් තාවකාලිකව නවාතැන් ගෙන සිට ඇතැයි  පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+ෙඑම පුද්ගලයා පොරොන්දු වූ පරිදි කාමරයට ගෙවිය යුතු රුපියල් 10000/=  ක මුදල ලබා නොදීමත් මත 69 හැවිරිදි  නිවෙස් හිමිකාරිය නිවසින් පිටමන් කර ඇතැයි පොලිසිය කියයි.
+
+පසුවද ඔහු වරින් වර මෙම කාන්තාවට දුරකථන ඇමතුම් ලබාදී අනියම් සබඳතාවයක් පවත්වාගෙන යාමට උත්සාහ දරා ඇති අතර පෙරේදා (20) එම කාන්තාවගේ කොහුවල කඩවත පාරේ ව්‍යාපාරික ස්ථානය වෙත බෝතල් කීපයක් බහා තිබූ බෑගයක් රැගෙන පැමිණ නිවසේ නවාතැන් ගැනීමට ඉඩ ලබා නොදුනහොත් ඇයත් මරා ඔහුත් මැරෙන බව පවසා තර්ජනය කර ඇතැයි  පොලිසිය කියයි.
+
+...
+
+[Data](articles/c703ed20.json)
 
 ---
 
@@ -265,6 +383,26 @@ The suspect has been arrested by the police and confirmed that the legal action 
 [Data](articles/41c43554.json)
 
 [Extended Data](ext_articles/41c43554.ext.json)
+
+---
+
+### ஜனாதிபதி பதவி என்பது 'கறுப்பினத்தவர்களின் வேலை" டிரம்பிற்கு மிச்செல் ஒபாமா பதிலடி
+
+*2024-08-21 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/191619) · `ta`
+
+அமெரிக்க ஜனநாயக கட்சியின் மாநாட்டில் உரையாற்றுகையில் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பின் குணாதிசயத்தையும் அவரது இனவெறி கருத்துக்களையும் மிச்செல்  ஓபாமா கடுமையாக சாடியுள்ளார்.
+
+உலகத்;தை பற்றிய அவரது வரையறுக்கப்பட்ட குறுகிய பார்வை, இரண்டு கடின உழைப்பாளிகளான கல்விகற்றவர்களான ,வாழ்க்கையில் வெற்றிபெற்றவர்களான இருவரின் இருப்பு குறித்து அவருக்கு அச்சத்தை ஏற்படுத்தியது என தெரிவித்துள்ள அவர் அந்த இருவரும் கறுப்பினத்தவர்கள் எனவும் தெரிவித்துள்ளார்.
+
+கறுப்புவேலைகள் என டிரம்ப் தனது பிரச்சாரத்தின் போது கேலி செய்திருப்பதை மிட்செல் ஒபாமா சுட்டிக்காட்டியுள்ளார்.
+
+டிரம்ப்  தற்போது தேடும் வேலை( ஜனாதிபதி பதவி ) அந்த கறுப்புவேலைகளில் ஒன்றாகயிருக்கலாம் என யார் அவருக்கு தெரிவிக்கப்போகின்றார்கள் என மிட்செல் ஒபாமா கேள்வி எழுப்பியுள்ளார்.
+
+டிரம்ப் உண்மையான யோசனைகள் மற்றும் தீர்வுகளிற்கு மாறாக அசிங்கமான பெண் வெறுப்பு ,இனவாத பொய்களை முன்வைப்பவர் டிரம்ப் என மிச்செல் ஒபாமா சாடியுள்ளார்.
+
+...
+
+[Data](articles/bc1c908b.json)
 
 ---
 
@@ -1076,6 +1214,26 @@ After entering politics in 2010, Field Marshal Sarath Fonseka said that he had t
 
 ---
 
+### වගා හානි වන්දි අක්කරයකට රු. 100000ක් කරන්න යෝජනාවක්
+
+*2024-08-21 10:49:54* · [`adalk`](https://www.ada.lk/breaking_news/වගා-හානි-වන්දි-අක්කරයකට-රු--100000ක්-කරන්න-යෝජනාවක්/11-411482) · `si`
+
+වගා හානි වන්දි ලබා දීමේ දී දැනට අක්කරයක් සඳහා  රජය විසින් නොමිලයේ ගෙවනු ලබන රුපියල් 40,000ක මුදල රුපියල් 100,000ක් දක්වා වැඩි කරන ලෙස පොලොන්නරුව පරාක්‍රම සමුද්‍ර ව්‍යාපාර ගොවි සංවිධානය කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගෙන් ඉල්ලීමක් කළේය.
+
+මෙම ඉල්ලීම ඉදිරිපත් කළේ , කෘෂි කර්ම අමාත්‍යවරයා හා පොලොන්නරුව පරාක්‍රම සමුද්‍ර ව්‍යාපාර ගොවි සංවිධානයේ සාමාජිකයින් අතර ඊයේ (20) ගොවි ගැටලු පිළිබඳ පැවති සාකච්ඡාවක දීය.
+
+එහිදී එම ගොවි සංවිධානය, අමාත්‍යවරයා වෙත ඉදිරිපත් කළ යෝජනා මාලාව
+
+අතර ප්‍රමුඛ යෝජනාවක් වුයේ මේ වනවිට සෑම වසරකම නියඟය, ගංවතුර සහ  වනසතුන්ගෙන් සිදුවන වගා හානි ඉහළ යමින් පවතින නිසා වගා හානියක දී දැනට අක්කරයක් සඳහා රජය විසින්  කිසිදු දායකත්ව මුදලක් ලබා නොගනිමින් ගෙවනු ලබන රුපියල් 40,000ක වන්දි මුදල රුපියල් 100,000ක් දක්වා ඉහළ නැංවීමට පියවර ගන්නා ලෙසයි.
+
+ඒ අනුව වගා හානි සිදුවන හෙක්ටයාර් එකකට රුපියල් 250,000ක වන්දි මුදලක් හිමි වේ.
+
+...
+
+[Data](articles/c3b098b4.json)
+
+---
+
 ### Bandarigoda MP
 
 *2024-08-21 10:43:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டாரிகொட-எம்-பியாக-சத்தியப்பிரமாணம்/175-342552) · `ta`
@@ -1223,6 +1381,26 @@ He also emphasized that bringing the maiden rally to Anuradhapura is an importan
 [Data](articles/a47bbf08.json)
 
 [Extended Data](ext_articles/a47bbf08.ext.json)
+
+---
+
+### සොබාධනවි 28 දා විවෘත කරයි
+
+*2024-08-21 10:14:45* · [`adalk`](https://www.ada.lk/breaking_news/සොබාධනවි-28-දා-විවෘත-කරයි/11-411480) · `si`
+
+ශ්‍රී ලංකාව පිරිසිදු සහ තිරසර බලශක්ති උත්පාදනයක් කරා යන ගමනේ වැදගත් සන්ධිස්ථානයක් සනිටුහන් කරමින්,
+
+එල්ටීඑල් හොල්ඩිංග්ස් සමාගම සහ ඉන්දියාවේ පෙට්‍රොනෙට් එල්එන්ජී සමාගම අතර අවබෝධතා ගිවිසුමකට අත්සන් තැබේ.
+
+අවම පිරිවැයක් යටතේ අඛණ්ඩ සහ ගුණාත්මක විදුලි සැපයුමක් සහතික කිරීම අරමුණයි.
+
+පුනර්ජනීය බලශක්තිය කරා යොමුවිමේ ජනපතිගේ වැඩපිළිවෙළ ශක්තිමත් කරන අවස්ථාවක් – විදුලිබල හා බලශක්ති අමාත්‍ය කාංචන විජේසේකර මහතා.
+
+කෙරවලපිටිය “සොබාධනවි” ඒකාබද්ධ චක්‍රීය බලාගාරය සඳහා ද්‍රවීකෘත ස්වභාවික වායු (Liquefied Natural Gas – LNG) ගබඩා කිරීම වෙනුවෙන් යටිතල පහසුකම් සංවර්ධනය, LNG ප්‍රතිවායුකරණ කිරීම සහ සැපයීම සම්බන්ධයෙන් ශ්‍රී ලංකාවේ එල්ටීඑල් හොල්ඩිංග්ස් සමාගම (LTL Holdings Limited, Sri Lanka) සහ ඉන්දියාවේ පෙට්‍රොනෙට් එල්එන්ජී සමාගම (Petronet LNG Limited,India) අතර අවබෝධතා ගිවිසුමකට (MOU) අත්සන් තැබීම අද (20) පස්වරුවේ කොළඹ ගලධාරි හෝටලයේදී සිදු කෙරිණ.
+
+...
+
+[Data](articles/cd2577f4.json)
 
 ---
 
@@ -2095,235 +2273,5 @@ Ranil Wickremesinghe, who is unable to protect the party, is going to protect th
 [Data](articles/853bdb55.json)
 
 [Extended Data](ext_articles/853bdb55.ext.json)
-
----
-
-### Declaration to announce that Esa Perahera is completed by Kandy
-
-*2024-08-21 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191577) · `ta`
-
-Esa Perahera, a significant cultural event in Kandy, was recently completed. President Ranil Wickremesinghe, after receiving the procession at the Dalada House, announced his commitment to promoting the event globally as a unique cultural aspect of Sri Lanka. He praised the organizers and outlined plans to transform Kandy into a cultural hub, including developing the Bellhoot Cultural Center and preserving historical sites like the Bogambara building. The President also mentioned initiatives to enhance tourism and religious activities across several cities, emphasizing the importance of showcasing Sri Lanka's rich culture to the world.
-
-🟩
-
-President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe to President Ranil Wickremesinghe on Tuesday (20) by the Dalada House.
-
-The President welcomed the Dalada House and the recent statues of the President's House in the procession.
-
-At the same time, the fund was donated by the president as a donation donated to the Dalada House so far.
-
-Subsequently, the President was also presented with a special magazine filed by the Central Provincial Council.
-
-Similarly, President Ranil Wickremesinghe was also given the Diyawadana Nilamee to the Elepola Walawa area.
-
-Later, the seal, which was later released by the Mmm -long stamp, was presented by the Postmaster Postmaster K. Ranasinghe to symbolize the historic Perera of the Kandy Dalada House.
-
-In addition, the stamp, the monument, the postage, which is based on the culture of the Dalada House, also featured the museum of the mansion.
-
-...
-
-[Data](articles/0186e591.json)
-
-[Extended Data](ext_articles/0186e591.ext.json)
-
----
-
-### Fossil Pits - Durairasa Ravikaran
-
-*2024-08-21 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191575) · `ta`
-
-Durairasa Ravikaran, a former council member, highlighted the presence of fossils in Kokkuttoduwai and criticized the lack of action on human burials, urging international oversight. He mentioned the initial court case, the request for archaeological faculty involvement, and the government's failure to provide fair reports. The displaced communities' hopes for justice and the need for international intervention were emphasized, alongside concerns over deception and the importance of legitimate judgments.
-
-🟩
-
-Former Northern Provincial Council member Durairasa Ravikaran said that there are fossils in many places in the Kokkuttoduwai area.
-
-The struggle has been carried out by the association of the missing persons of Mullaitivu today (20.08.2024), saying that we should not cover up the human burial issue in front of the human burial.
-
-He was speaking to the media after participating in the protest.
-
-When the Kokkuttuwai human burial issue was initially held in court, the demand made by many people should be monitored by the international mechanism.
-
-Students or professors from the Jaffna University Archaeological Faculty should be visited under this watch. Those requests were placed before. Yet these are not implemented. Two, three days Paramu Pushparadnam sir came to them. But he did not come later
-
-In the view of the Sri Lankan government, the Sri Lankan government has not received any fair and honest reports.
-
-...
-
-[Data](articles/be9a1097.json)
-
-[Extended Data](ext_articles/be9a1097.ext.json)
-
----
-
-### Tissa threatened with LoD over false claim against NPP on Dalada Perahera
-
-*2024-08-21 02:05:33* · [`dailyftlk`](https://www.ft.lk/news/Tissa-threatened-with-LoD-over-false-claim-against-NPP-on-Dalada-Perahera/56-765770) · `en`
-
-NPP Dr. Nalinda Jayatissa accuses Tissa Attanayake of propagating a false claim that an NPP Govt. will put an end to the Perahera tradition
-
-Demands that Attanayake apologise to NPP and MP Harini Amarasuriya, whom he attributed the comment to
-
-Says Attanayake was attempting to mislead Buddhist people in SL through such a claim
-
-Says Amarasuriya nor other NPP members have said party will end the Dalada Perahera
-
-Local independent fact-checkers confirm that claims against NPP on the matter are untrue and misleading
-
-National People’s Party (NPP) Executive Council member Dr. Nalinda Jayatissa has threatened to issue a letter of demand to Samagi Jana Balawegaya (SJB) MP Tissa Attanayake over a statement by him claiming that the NPP would discontinue the Dalada Perahera tradition if it comes to power.
-
-...
-
-[Data](articles/a4243f97.json)
-
-[Extended Data](ext_articles/a4243f97.ext.json)
-
----
-
-### Can we win these challenges to the new President to win the presidential election?
-
-*2024-08-21 02:05:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c86lj0pex2yo) · `si`
-
-The upcoming presidential election in Sri Lanka faces significant challenges, including managing a struggling economy, addressing rising poverty levels, navigating political instability, and ensuring social justice. Candidates must also navigate international relations, particularly with India, China, and the United States, and address educational reform and human rights issues. Despite these hurdles, the election presents an opportunity for the next president to lead Sri Lanka towards economic recovery and political stability.
-
-🟩
-
-Can we win these challenges to the new President to win the presidential election?
-
-Another time left for the Presidential Election Elections, elected by the 9th Executive President in Sri Lanka.
-
-39 candidates come forward with the objective of making Sri Lankan next President. The analysts pointed out that the situation has been changed, despite the main candidates of previous presidential elections, this year's situation has been changed.
-
-In the meantime, 50% of the votes can be obtained as a candidate.
-
-Despite all these challenges, the candidate who will win the presidential election will face many serious challenges.
-
-Many analysts believe that the challenge of the next challenge is the challenge of building a fixed economy.
-
-Senior Lecturer on political science and international studies of the Sri Lanka Open University Dr. Athulasiri Samarakoon told BBC Sinhala service.
-
-"The big challenge is that the economy is restored," he said.
-
-...
-
-[Data](articles/0dea6664.json)
-
-[Extended Data](ext_articles/0dea6664.ext.json)
-
----
-
-### Sirisena completes Rs. 100 m compensation to Easter Sunday victims
-
-*2024-08-21 02:04:38* · [`dailyftlk`](https://www.ft.lk/news/Sirisena-completes-Rs-100-m-compensation-to-Easter-Sunday-victims/56-765769) · `en`
-
-Former President Maithripala Sirisena has fulfilled the Supreme Court’s order to pay Rs. 100 million in compensation to the victims of the Easter Sunday terror attacks.
-
-The final instalment of Rs. 12 million was paid on 16 August, completing the total compensation amount required by the Court.
-
-The Supreme Court issued its ruling on 12 January 2023, finding Sirisena, along with several other high-ranking officials, guilty of violating the Fundamental Rights of petitioners by failing to take action to prevent the Easter Sunday attacks despite having received sufficient intelligence warnings.
-
-The tragic attacks, which occurred on 21 April 2019, resulted in the deaths of over 250 people and caused widespread devastation.
-
-...
-
-[Data](articles/042a006e.json)
-
-[Extended Data](ext_articles/042a006e.ext.json)
-
----
-
-### SLMC cracks whip on Maulana and Harees for disciplinary violations
-
-*2024-08-21 02:04:05* · [`dailyftlk`](https://www.ft.lk/news/SLMC-cracks-whip-on-Maulana-and-Harees-for-disciplinary-violations/56-765768) · `en`
-
-The Sri Lanka Muslim Congress (SLMC) has removed MP H.M.M Harees from the party’s High Command due to his failure to support and participate in the campaign efforts backing Samagi Jana Balawegaya (SJB) leader Sajith Premadasa.
-
-In a letter to Harees yesterday, SLMC Secretary Nizam Kariapper PC noted that the MP had failed to attend a mandatory parliamentary group meeting led by SLMC Leader Rauff Hakeem on 16 August, as well as other campaign-related events, despite clear party directives to do so.
-
-Kariapper said accordingly he has been instructed by Hakeem to notify him of his suspension from the party’s High Command. The SLMC has given Harees until 26 August to submit his response to be considered by the party.
-
-...
-
-[Data](articles/276d4bda.json)
-
-[Extended Data](ext_articles/276d4bda.ext.json)
-
----
-
-### Two candidates cry foul over 12 March Movement Presidential debate
-
-*2024-08-21 02:03:38* · [`dailyftlk`](https://www.ft.lk/news/Two-candidates-cry-foul-over-12-March-Movement-Presidential-debate/56-765767) · `en`
-
-Two Presidential candidates lodged a complaint with the Election Commission of Sri Lanka (ECSL) yesterday, voicing their stiff opposition to the upcoming Presidential debate scheduled for 7 September.
-
-Organised by the March 12 Movement, the debate is set to feature only six selected candidates, which the complainants argued is unfair to the other 33 candidates who have been excluded.
-
-Presidential hopeful Janaka Ratnayake speaking to the media outside the ECSL said he has requested the ECSL to stop the debate from going ahead.
-
-“Selecting six candidates while excluding 33 others is unjust to those left out. The chosen six will receive unnecessary promotion through the event, which will also gain extensive media coverage,” he said.
-
-Ratnayake said his group voiced their opposition to the debate and urged the ECSL to prevent the event from taking place. Ratnayake said if action is not taken, he will seek legal redress by filing a petition before the Supreme Court.
-
-...
-
-[Data](articles/0b981487.json)
-
-[Extended Data](ext_articles/0b981487.ext.json)
-
----
-
-### Sri Lankan philately into record books
-
-*2024-08-21 02:03:09* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-philately-into-record-books/56-765766) · `en`
-
-Philatelic Bureau, Department of Posts Sri Lanka along with Sri Dalada Maligawa will issue the longest stamp in the world measuring 205mm thereby beating the recently released Philippines longest stamp (measuring 200mm released on 12 June 2024).
-
-The stamp will depict the Esala Perahera procession in vibrant colours and be valued at Rs. 500.
-
-The record breaking took place yesterday (20 August) at President’s House in Kandy after the Day Procession (Dahawal Perahera) when the ‘Perahera Sandeshaya’ was presented to the President Ranil Wickremesinghe.
-
-The following items were issued: Stamp, souvenir sheet (miniature sheet), first day cover (FDC) and folder.
-
-Commenting on the record, Philatelic Association of Sri Lanka President Gihan Fernando emphasised the importance of this achievement as it has many advantages to Sri Lanka.
-
-...
-
-[Data](articles/54fa4b05.json)
-
-[Extended Data](ext_articles/54fa4b05.ext.json)
-
----
-
-### Keheliya hit with Rs. 300 m compensation claim over contaminated eye drops
-
-*2024-08-21 02:00:54* · [`dailyftlk`](https://www.ft.lk/news/Keheliya-hit-with-Rs-300-m-compensation-claim-over-contaminated-eye-drops/56-765765) · `en`
-
-Three patients who permanently lost their vision after using contaminated Prednisolone Acetate eye drops following cataract surgery at a State-run hospital have filed a lawsuit against former Health Minister Keheliya Rambukwella and several others before the Colombo District Court today, seeking Rs. 300 million in damages.
-
-The plaintiffs have named Rambukwella, former Health Ministry Secretary Janaka Chandraguptha, National Medicine Regulatory Authority (NMRA) Head Professor S.D. Jayaratne, NMRA CEO Dr. Vijith Gunasekara, Director General of Health Services (DGHS) Dr. Asela Gunawardena, Chamee Chemist Ltd. of Yakkala, Indiana Ophthalmics LLP and the Attorney General and several others were named as the defendants of these plaints. One plaintiff, Makkari Rajaratnam from Kandapola maintained he was admitted to the District General Hospital Nuwaraeliya and underwent a cataract surgery on 5 April 2023.
-
-...
-
-[Data](articles/ad8e837c.json)
-
-[Extended Data](ext_articles/ad8e837c.ext.json)
-
----
-
-### Sri Lanka Ceramics and Glass Council holds 18th AGM, celebrates industry progress and innovation
-
-*2024-08-21 01:58:01* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Ceramics-and-Glass-Council-holds-18th-AGM-celebrates-industry-progress-and-innovation/34-765764) · `en`
-
-The Annual General Meeting of the Sri Lanka Ceramics and Glass Council (SLCGC) took place on 1 August, at The Kingsbury Colombo.
-
-As the foremost industry body representing the ceramics and glass sectors in Sri Lanka, SLCGC is dedicated to promoting innovation, sustainability, and growth, thereby playing a crucial role in advancing industry standards and global competitiveness.
-
-At the commencement of the meeting, outgoing President Anura Warnakulasuriya, extended a warm welcome to the members while emphasising the Council’s notable accomplishments in the face of persistent challenges in recent years. He commended the dedication and efficacy of the Executive Committee and the Secretariat in addressing members’ concerns, navigating supply chain disruptions, and managing regulatory changes.
-
-...
-
-[Data](articles/2a96ee02.json)
-
-[Extended Data](ext_articles/2a96ee02.ext.json)
 
 ---

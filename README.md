@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 20:37:01**
+As of **2024-08-21 20:55:49**
 
 ## Newspaper Stats
 
-*Scraped **41,937** Articles*
+*Scraped **41,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,527
 dailyftlk | 2,701
 adalk | 3,865
 dailymirrorlk | 4,733
-adaderanalk | 4,908
+adaderanalk | 4,909
 tamilmirrorlk | 5,434
 virakesarilk | 6,674
 adaderanasinhalalk | 7,163
@@ -26,33 +26,55 @@ adaderanasinhalalk | 7,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,936 (100.0%) of 41,937 articles have been extended.
+41,937 (100.0%) of 41,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### மலைப்பாம்புகளை மறைத்து வைத்திருந்த கும்பல் கைது
+### Cabinet approves fuel subsidy for fisherfolk, fertiliser subsidy for tea growers
+
+*2024-08-21 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101405/cabinet-approves-fuel-subsidy-for-fisherfolk-fertiliser-subsidy-for-tea-growers) · `en`
+
+The Cabinet of Ministers has granted approval to provide a subsidy of Rs. 25 for diesel and kerosene oil for the fishermen communities.
+
+Additionally, approval has also been given for a fertiliser subsidy of Rs. 4,000 for tea growers.
+
+Both subsidies will come into effect from tomorrow (22 August).
+
+◼️
+
+[Data](articles/9af08faf.json)
+
+---
+
+### A gang arrested for hiding the pythons
 
 *2024-08-21 20:07:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைப்பாம்புகளை-மறைத்து-வைத்திருந்த-கும்பல்-கைது/175-342587) · `ta`
 
-சட்டவிரோதமான முறையில் இலங்கைக்கு கொண்டு வரப்பட்டிருந்த நான்கு வெளிநாட்டு மலைப்பாம்புகளை வத்தளை பொலிஸார் இன்று (21) கைது செய்துள்ளனர்.
+Wattala police arrested four foreign pythons and two individuals for smuggling them into Sri Lanka, hidden in boxes. The pythons, possibly from a lake in the country's dry zone, were discovered during a raid and could fetch 300,000 rupees each. They plan to transfer the snakes to the Dehiwala Zoo and charge the suspects in court.
 
-இந்த சோதனையின் போது இலங்கையின் சதுப்பு நில முதலை ஒன்றும் கண்டுபிடிக்கப்பட்டதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
+🟩
 
-வத்தளை பிரதேசத்தில் உள்ள பெட்டிக்கடை ஒன்றின் மாடியில் விலங்குகள் மறைத்து வைக்கப்பட்டிருந்த நிலையில், சம்பவம் தொடர்பில் கடையின் உரிமையாளர் மற்றும் ஊழியர்கள் இருவரையும் வத்தளை பொலிஸார் கைது செய்துள்ளனர்.
+Wattala police have arrested four foreign pythons that illegally brought to Sri Lanka.
 
-இந்த விலங்குகளை பயணப் பொதிகளில் மறைத்து வைத்து இலங்கைக்கு கொண்டு வரப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+Police said Sri Lanka's swamp crocodile was found during the raid.
 
-சதுப்பு நில முதலை இலங்கையின் வறண்ட பிரதேசத்தில் அமைந்துள்ள ஏரியில் இருந்து பிடிக்கப்பட்டதாக சந்தேகிக்கப்படுகிறது, மேலும் இந்த விலங்கு 300,000 ரூபாவுக்கு விற்பனைக்கு தயாராக இருந்தமையும் கண்டுபிடிக்கப்பட்டுள்ளது.
+Wattala police have arrested two shop owners and staff in connection with the incident as animals were hidden on the floor of a box in Wattala.
 
-இந்த விலங்குகளை தெஹிவளை மிருகக்காட்சிசாலைக்கு அனுப்பி அவை பற்றிய அறிக்கையைப் பெறுவதற்கு பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+Police suspect that these animals may have been brought to Sri Lanka by hiding in travel packages.
 
-சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேகநபர்கள் வத்தளை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளனர் R
+The marshland is suspected of being caught from a lake located in the dry area of ​​Sri Lanka and has been found to be ready for sale for 300,000 rupees.
+
+The police have taken steps to send these animals to the Dehiwala Zoo.
+
+The suspects arrested in connection with the incident are to be produced before the Wattala Magistrate's Court
 
 ◼️
 
 [Data](articles/67b2ccef.json)
+
+[Extended Data](ext_articles/67b2ccef.ext.json)
 
 ---
 
@@ -2351,25 +2373,5 @@ However, the 'Mom' on the left side of the deceased, 'Mom' has also been tattoon
 [Data](articles/96672643.json)
 
 [Extended Data](ext_articles/96672643.ext.json)
-
----
-
-### Two constables attempted to take a bribe of lovers
-
-*2024-08-21 09:55:25* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතුන්-යුවළක්-බිය-ගන්නා-අල්ලස්-ගන්න-හැදූ-කොස්තාපල්-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-411478) · `si`
-
-Two constables in Sri Lanka were caught trying to accept a 10,000 Rupee bribe at Maulleriyawa. They were scared off after receiving a threat message.
-
-🟩
-
-The office of two constables attached to Kaduwela Police who attempted to obtain bribes at the Maulleriyawa Mulleriyawa.
-
-The two officers have been deployed on motorbike from 6 pm on the 14th of the afternoon.119 Investigations have revealed that the two were frightened by a censore, saying that the two had received a message of a message and tried to bribe Rs. 10000 / =. The suspects were banned due to the above musicalism
-
-◼️
-
-[Data](articles/4e6f2864.json)
-
-[Extended Data](ext_articles/4e6f2864.ext.json)
 
 ---

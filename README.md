@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 11:07:14**
+As of **2024-08-21 11:21:26**
 
 ## Newspaper Stats
 
-*Scraped **41,824** Articles*
+*Scraped **41,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,520
 dailyftlk | 2,701
-adalk | 3,849
+adalk | 3,850
 dailymirrorlk | 4,733
-adaderanalk | 4,895
+adaderanalk | 4,896
 tamilmirrorlk | 5,409
 virakesarilk | 6,648
 adaderanasinhalalk | 7,144
@@ -26,45 +26,77 @@ adaderanasinhalalk | 7,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,822 (100.0%) of 41,824 articles have been extended.
+41,824 (100.0%) of 41,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### වී මිලදී ගැනීමේ ගැටලුව කරඅරින ඇමති
+### Bus carrying Shiite pilgrims from Pakistan to Iraq crashes in Iran, killing at least 28
+
+*2024-08-21 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101391/bus-carrying-shiite-pilgrims-from-pakistan-to-iraq-crashes-in-iran-killing-at-least-28) · `en`
+
+A bus carrying Shiite pilgrims from Pakistan to Iraq crashed in central Iran, killing at least 28 people, an official said Wednesday.
+
+The crash happened Tuesday night in the central Iranian province of Yazd, said Mohammad Ali Malekzadeh, a local emergency official, according to the state-run IRNA news agency.
+
+Another 23 people suffered injuries in the crash, 14 of them serious, he added.
+
+The pilgrims had been on their way to Iraq to commemorate Arbaeen, which marks the 40th day following the death of a Shiite saint in the 7th century. Pilgrims gather in Karbala, Iraq, in what’s regarded as the largest annual public gathering in the world.
+
+Authorities offered no immediate cause for the crash. However, Iran has one of the world’s worst traffic safety records with some 17,000 deaths annually. The grave toll is blamed on wide disregard for traffic laws, unsafe vehicles and inadequate emergency services in its vast rural areas.
+
+...
+
+[Data](articles/3b86e456.json)
+
+---
+
+### Minister to commit paddy purchasing problem
 
 *2024-08-21 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200168) · `si`
 
-මුදල් අමාත්‍යාංශයේ නිලධාරීන් කිහිපදෙනෙකුගේ අත්තනෝමතික ක්‍රියා කලාපය හේතුවෙන් වී මිලදී ගැනීමේ කටයුතු අඩාල වී ඇති බව මහින්ද අමරවීර අමාත්‍යවරයා පවසයි.
+The Minister of Paddy criticizes the Ministry of Finance for mishandling paddy purchases, citing issues with Malhemen's operation and allegations of corruption among officials. He expresses frustration over the lack of transparency and fairness towards farmers, calling for the Ministry of Finance to address these problems directly.
 
-ඔහු පවසන්නේ, වී මිලදී ගැනීමේ කටයුතු මෝල්හිමිකරුවන්ට භාර දී ඇතත් එය නිසිපරිදි ක්‍රියාත්මක නොවන බවය.
+🟩
 
-"අපි ඉල්ලා හිටියා සල්ලි දෙන්න කියලා. ඉතිං ඒ අය නිලධාරීන් විශ්වාස කරන්නේ, වී මණ්ඩලය ගැනවත් ඒ වැඩපිළිවෙල ගැනවත් නෙවෙයි මෝල් කට්ටිය ගැන. එහෙම විශ්වාස කරලා කටයුතු කරන්නේ කොහොමද? මං දැනට ලිඛිතවත් දන්වලා තියෙන්නේ, මුදල් අමාත්‍යංශයට වී මණ්ඩලය පවරා ගන්න කියලා. ජනාධිපතිතුමා කියලවත් මුදල් දෙන්නේ නැති නිලධාරීන් ඉන්නේ. එහෙම වුණාම කොහොමද කරන්නේ අපි. මේකට මට චෝදනා කරලා වැඩක් නෑ. මට මගේ පැත්තෙන් ගන්න තියෙන ඉහළම ක්‍රියාවලියට ප්‍රවේශ වෙලා තියෙන්නේ. අනිවාර්යයෙන්ම ගොවීන්ට අසාධාරණයක් වෙලා තියෙනවා. ඒක මං පිළිගන්නවා. මං මොකද්ද කරන්නේ? මට මොකද්ද කරන්න පුළුවන්? මේ නිලධාරීන් කිහිපදෙනෙක් කරන කාර්යයට මට කරන්න දෙයක් නෑ. ඒක තමා මං කියන්නේ මේ වගකීමෙන් මාව නිදහස් කරන්න."
+The Minister of Paddy has been launched due to the arbitrary process of several officers of the Ministry of Finance.
+
+He says that paddy purchasing has been handed over to Malhemen, but it is not functioning properly.
+
+"We demanded the money. So they believe in the officials about the padees or about the paddy field. How can I trust that?I have already informed the Ministry of Finance to the Ministry of Finance. Officers who are not even paying money. When you do, we are doing. There is no need for me accusing me. The highest process I have to take on my side has been accessed. It is inevitable to farmers unfairly. It accepts. What do I do?What can I do?I have nothing to do to work with some of these officers. It tells me to release me from this responsibility. "
 
 ...
 
 [Data](articles/77395577.json)
 
+[Extended Data](ext_articles/77395577.ext.json)
+
 ---
 
-### ගත වූ මාස කිහිපය තුළ රිය අනතුරුවලින් ජීවිත 1,417ක් මරුට
+### In the past few months, 1,417 lives die
 
 *2024-08-21 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200167) · `si`
 
-වසරේ ගත වූ කාලසීමාව තුළ සිදුවූ රිය අනතුරුවලින් පුද්ගලයින් 1,417 දෙනෙකු ජීවිතක්ෂවට පත්ව ඇති බව පොලිසිය පවසයි.
+In 2023, 2,214 people died in road accidents, with 1,417 fatalities reported from January 1, 2024. The DIG noted a concerning trend: 328 student deaths and over 30,000 child fatalities in the last decade.
 
-රථවාහන කොට්ඨාසය භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා පැවසුවේ වාර්ෂිකව යතුරුපැදි අනතුරුවලින් පුද්ගලයින් 1,000ක් පමණ මියයන බවය.
+🟩
 
-"3,000කට අධික ප්‍රමාණයක් අනතුරු සිදුවන්නේ, පාරේ දී සිදුවන අනතුරු. වසරකට ඒ අනතුරුවලින් තුනෙන් එකක් ජීවිතක්ෂයට පත්වෙන්නේ යතුරුපැදිවලින් සිදුවන අනතුරු නිසා. 2023 වසරේ දී මාර්ග අනතුරු අඩුවීමක් දක්නට ලැබුණා. 2,214න් 2,321 දෙනෙක් ජීවිතක්ෂයට පත්වෙලා තියෙනවා. 2024 ජනවාරි 1 වනදා සිට 2024 අගෝස්තු 10 වෙද්දි මාරක රිය අනතුරු 1,352න් 1,417ක් ජීවිතක්ෂයට පත්වෙලා තියෙනවා."
+A total of 1,417 people have been killed in road accidents during the year.
 
-මාරක රියඅනතුරුවලින් පසුගිය වසරේදී පාසල් සිසුන් 328 දෙනෙක් මියගොස් ඇති බවද නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා පවසයි.
+DIG in charge of the traffic division Indika Hapugoda said about 1,000 people die annually.
 
-වසර 10කට 30,000කට අධික ප්‍රමාණයක් දරුවන් ප්‍රමාණයක් ජීවිතක්ෂයට පත්වන බව ද ඒ මහතා වැඩිදුරටත් කියා සිටියේය.
+"There are over 3,000 accidents, the dangers of the road. One-third of those accidents is killed due to accidents. 2023 saw a road accident in the year 2023. 2,214 were killed. From January 1, 2024, 1,417 of the 1,352 fatal accidents were killed. "
+
+DIG Indika Hapugoda says that 328 students have died last year with the deadly accident.
+
+He added that more than 30,000 children die for 10 years.
 
 ◼️
 
 [Data](articles/eb948b86.json)
+
+[Extended Data](ext_articles/eb948b86.ext.json)
 
 ---
 
@@ -329,6 +361,20 @@ A police inspector and a constable have been arrested in Piliyandala.
 [Data](articles/3bb09cb2.json)
 
 [Extended Data](ext_articles/3bb09cb2.ext.json)
+
+---
+
+### අනන්‍යතාවය හෙළි නොකරන්නන් ගෙන් පරිත්‍යාග භාර ගැනීම අපේක්ෂකයන්ට තහනම්
+
+*2024-08-21 08:05:15* · [`adalk`](https://www.ada.lk/breaking_news/අනන්‍යතාවය-හෙළි-නොකරන්නන්-ගෙන්-පරිත්‍යාග-භාර-ගැනීම-අපේක්ෂකයන්ට-තහනම්/11-411475) · `si`
+
+2023 අංක 03 දරණ මැතිවරණ වියදම් නියාමනය කිරීමේ පනත අනුව 2024 ජනාධිපතිවරණයේදී    දේශපාලන පක්ෂ,  ස්වාධීන කන්ඩායම් හෝ අපේක්ෂකයන් විසින් සිය මැතිවරණ කටයුතු ප්‍රවර්ධනය සඳහා අනන්‍යතාවය හෙළි නොකරන තැනැත්තන් ඇතුළුව  ඇතැම්  මාර්ග කීපයකින් මුදල් හෝ  ද්‍රව්‍ය  පරිත්‍යාග  සෘජුව හෝ වක්‍රව ලබා ගැනීම නොකළ යුතු බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+ඒ අනුව රජයේ දෙපාර්තමේන්තුවකින් හෝ සංස්ථාවකින් හෝ යම් කොටස් ප්‍රමාණයක් රජය  හෝ රාජ්‍ය  සංස්ථාවක් විසින් හිමිකාරත්වය දරන මෙරට සංස්ථාපිත සමාගමක් වෙතින්ද,  විදේශ රාජ්‍යකින් හෝ ජාත්‍යන්තර සංවිධානයකින් හෝ විදේශයක ලියා පදිංචි පුද්ගල මන්ඩලයකින් ,විදේශීය කොටස් හිමිකාරිත්වය සියයට 50 ක් හෝ ඊට වැඩියෙන් හිමි මෙරට සමාගම් පනත යටතේ හෝ ඊට අදාලව මෙරට සංස්ථාපිත සමාගමක් මගින් මෙන්ම අනන්‍යතාවය හෙළි නොකරන තැනැත්තන්ගෙන්ද මෙකී පරිත්‍යාග බාර ගැනීම නොකළ යුතුය.
+
+...
+
+[Data](articles/c084cd05.json)
 
 ---
 
@@ -2191,53 +2237,5 @@ He said that when the Cabinet met recently, the cabinet paper was presented by t
 [Data](articles/3066b60b.json)
 
 [Extended Data](ext_articles/3066b60b.ext.json)
-
----
-
-### How to hand over the country to the lighting of the country - Premnath C Tolawatta
-
-*2024-08-20 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191539) · `ta`
-
-Premnath C Tolawatta criticizes politicians fleeing crises, citing examples from the Galle Face Demonstration and economic downturns. He warns against disrupting IMF agreements, urging stability under President Ranil Wickremesinghe to safeguard the economy and peace.
-
-🟩
-
-During the Galle Face Demonstration, they fled when he was attacked by opposition leader Sajith Premadasa, including his side.. Similarly, they fled during the economic crisis. Parliamentarian Premnath C Tolawatta said how the country can be handed over to those who escape the problems.
-
-He further stated this at a press conference held at Ranil Wickremesinghe's political office at Loris Road, Bambalapitiya on Tuesday (20).
-
-We have taken this decision to think for the country. During the demonstration, the demonstrators knew how Sajith Premadasa and his crew were attacked. From there they know how they fled. When problems occur, they can escape and they cannot provide a solution.
-
-...
-
-[Data](articles/bb99f8fd.json)
-
-[Extended Data](ext_articles/bb99f8fd.ext.json)
-
----
-
-### Complaint on cylinder logo is baseless - Elections Commission
-
-*2024-08-20 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191543) · `ta`
-
-Election Commission rejects complaint against Ranil Wickremesinghe's cylinder logo, citing differences between local and presidential election laws. Over 700,000 voters eligible for postal voting; cards due soon. Referendum voting cards to be distributed early September.
-
-🟩
-
-A complaint proposed by a party about the cooking gas cylinder given to Independent candidate Ranil Wickremesinghe. There are differences between the local government election law and the presidential election law. RMAL Ratnayake, Chairman of the Election Commission, said that this complaint cannot be accepted.
-
-He made this statement during a media briefing held at the Elections Office on Tuesday (20).
-
-More than 7 lakh voters qualified for postal voting. Voting cards will be distributed to the District Secondary Officers on the 26th.
-
-Voting cards for the referendum on September 21 will be distributed to voters through the Grama Niladhari Divisions in the first week of September.
-
-A party has lodged a complaint with the Commission about the cooking gas cylinder symbol given to Independent candidate Ranil Wickremesinghe. This complaint is baseless. This is because the cylinder symbol was given to a party in accordance with the local election law.
-
-...
-
-[Data](articles/89f82c0c.json)
-
-[Extended Data](ext_articles/89f82c0c.ext.json)
 
 ---

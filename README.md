@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 11:37:07**
+As of **2024-08-21 11:56:35**
 
 ## Newspaper Stats
 
-*Scraped **41,829** Articles*
+*Scraped **41,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,52 @@ newsfirstlk | 363
 bbccomsinhala | 385
 colombotelegraphcom | 401
 islandlk | 2,423
-economynextcom | 2,520
+economynextcom | 2,527
 dailyftlk | 2,701
 adalk | 3,850
 dailymirrorlk | 4,733
 adaderanalk | 4,898
-tamilmirrorlk | 5,409
+tamilmirrorlk | 5,416
 virakesarilk | 6,648
-adaderanasinhalalk | 7,145
+adaderanasinhalalk | 7,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,826 (100.0%) of 41,829 articles have been extended.
+41,829 (100.0%) of 41,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### කරුණාදාස කොඩිතුවක්කු විපක්ෂයට යයි
+
+*2024-08-21 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200170) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ මාතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී කරුණාදාස කොඩිතුවක්කු මහතා විපක්ෂයට එක්වීමට තීරණය කර තිබේ.
+
+පාර්ලිමේන්තුවේ දී විශේෂ ප්‍රකාශයක් සිදුකරමින් ඒ මහතා මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/4ee6d9f0.json)
+
+---
+
+### தலதா அத்துகோரள இராஜினாமா
+
+*2024-08-21 11:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-அத்துகோரள-இராஜினாமா/175-342558) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள தனது பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்வதாக அறிவித்துள்ளார்.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஐக்கிய மக்கள் சக்தியை அமைக்கும் முடிவை தாம் எதிர்ப்பதாக அத்துகோரள தெரிவித்தார்.
+
+◼️
+
+[Data](articles/481a7d28.json)
+
+---
 
 ### SJB’s Thalatha Athukorala resigns as MP
 
@@ -43,6 +71,40 @@ She made the announcement while delivering a statement in Parliament today (21).
 ◼️
 
 [Data](articles/7f89dae1.json)
+
+[Extended Data](ext_articles/7f89dae1.ext.json)
+
+---
+
+### Sri Lanka’s CEB used Rs93bn profit to settle dues: Minister
+
+*2024-08-21 11:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-used-rs93bn-profit-to-settle-dues-minister-177493/) · `en`
+
+ECONOMYNEXT – A net profit of 93 billion rupees made by Sri Lanka’s state power utility the Ceylon Electricity Board was used to settle outstanding debt, the Minister of Power and Energy said.
+
+“The net profit of Rs 93 Billion by June 2024 has been utilized to pay the outstanding amounts to Renewable energy developers, Thermal power plants, Coal Procurement, Local suppliers, Dues to major projects, Roof top solar & Short term banking facilities,” Kanchana Wijesekera said on X (twitter).
+
+The electricity consumer tariffs has been revised and reduced considering the other profits after settlement of payments, Wijesekera said in post titled ‘CEB Profits and Balances clarification’.
+
+CEB reported a profit of 34.5 billion rupees for the three months ended on June 30, a 67 percent jump compared to 20.7 billion rupees in the same quarter in 2023 despite a fall in the revenue, interim accounts showed.
+
+...
+
+[Data](articles/a158931b.json)
+
+---
+
+### காஷ்மீரில் நிலநடுக்கம்
+
+*2024-08-21 11:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காஷ்மீரில்-நிலநடுக்கம்/50-342557) · `ta`
+
+பாகிஸ்தான் மற்றும் இந்திய எல்லைக்குட்பட்ட காஷ்மீர் பகுதியில் அடுத்தடுத்து சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டது.
+
+ரிக்டர் அளவுகோலில் இந்த நிலநடுக்கங்கள் 5.1புள்ளிகளாக பதிவாகிய நிலையில், அங்குள்ள பல கட்டிடங்கள் குலுங்கியதால் அதிர்வினை உணர்ந்த பொதுமக்கள் தங்களது வீடுகளிலிருந்து வெளியேறி வீதியில் தஞ்சம் புகுந்தனர்.
+
+◼️
+
+[Data](articles/8b4f456f.json)
 
 ---
 
@@ -64,23 +126,61 @@ The arrested suspects are aged 20, 22, 38, 40 and 47 and are residents of Weli O
 
 [Data](articles/518d7b33.json)
 
+[Extended Data](ext_articles/518d7b33.ext.json)
+
 ---
 
-### තලතා මන්ත්‍රී ධුරයෙන් ඉවත්වෙයි
+### Thalatha resigns from post
 
 *2024-08-21 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200169) · `si`
 
-සමගි ජන බලවේගයේ රත්නපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රිනි තලතා අතුකෝරල මහත්මිය සිය ධුරයෙන් ඉවත්වීමට තීරණය කළ බව අද (21) පාර්ලිමේන්තුවේ දී ප්‍රකාශ කළාය.
+Thalatha Athukorala, a prominent UNP member and three-time parliamentarian from Ratnapura, announced her resignation today. She served under the leadership of her brother, Gamini Athukorala, and was last elected in 2020 with a significant number of preferential votes.
 
-තලතා අතුකෝරල, එක්සත් ජාතික පක්ෂයේ ප්‍රධානියෙක් වූ ගාමිණි අතුකෝරල මහතාගේ සහෝදරිය වෙයි.
+🟩
 
-එසේම 2010, 2015 සහ 2020 මහ මැතිවරණවලදී ඇය රත්නපුර දිස්ත්‍රික්කයෙන් ජයග්‍රහණය කරමින් පාර්ලිමේන්තුවට තේරී පත්වූවාය.
+The Ratnapura District Parliamentarian Thalatha Athukorala today (21) stated today.
 
-2020 වසරේදී ඇය රත්නපුර දිස්ත්රිකයෙන් මනාප 45,105ක් ලබාගනිමින් සමගි ජන බලවේගයෙන් පාර්ලිමේන්තුවට තේරී පත්වූවාය.
+Thalatha Athukorala is the chief of the UNP Gamini Athukorala.
+
+She was elected to Parliament in 2010, 2015 and 2020 in general elections.
+
+In 2020, she was elected to Parliament with 45,105 preferential votes in the Ratnapura District.
 
 ◼️
 
 [Data](articles/cc418acc.json)
+
+[Extended Data](ext_articles/cc418acc.ext.json)
+
+---
+
+### தலதா விசேட உரை: அதிரடி முடிவை எடுக்க முஸ்தீபு
+
+*2024-08-21 10:59:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-விசேட-உரை-அதிரடி-முடிவை-எடுக்க-முஸ்தீபு/175-342556) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் இரத்தினபுரி மாவட்ட  பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள  பாராளுமன்றத்தில் விசேட உரையாற்றி கொண்டிருக்கின்றார். அவர், கட்சி மாறுவார் என தகவல்கள் வெளியாகியிருந்த நிலையில், விசேட உரையாற்றிக்கொண்டிருக்கின்றார்.
+
+இந்த உரையின் பின்னர், தன்னுடைய அரசியல் பயணம் தொடர்பில் தீர்மானமிக்க முடிவை எடுப்பார் என்று தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/098e7186.json)
+
+---
+
+### ”குரங்கம்மைக்கு முகங்கொடுக்க தயார்”
+
+*2024-08-21 10:59:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்கம்மைக்கு-முகங்கொடுக்க-தயார்/175-342555) · `ta`
+
+சில வருடங்களுக்கு முன்னர் இருந்ததை விட குரங்கம்மைக்கு முகங்கொடுக்க இலங்கை சிறப்பாக தயாராகி வருவதாக சுகாதார அமைச்சர் ரமேஷ் பத்திரன இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+
+பாராளுமன்ற உறுப்பினர் ரவூப் ஹக்கீம் எழுப்பிய கேள்விக்கு பதிலளித்த அமைச்சர், மக்கள் பாதிக்கப்படாமல் இருக்க தேவையான அனைத்து நடவடிக்கைகளும் எடுக்கப்பட்டுள்ளதாக தெரிவித்தார்.
+
+"சுகாதார அமைச்சகத்தின் தொற்றுநோய்க்கான தயார்நிலை கடந்த ஆண்டுகளை விட இப்போது மிகவும் சிறப்பாக உள்ளது. மக்கள் பாதிக்கப்படாமல் இருக்க தேவையான அனைத்து நடவடிக்கைகளையும் அவர்கள் எடுத்துள்ளனர்," என்று அவர் கூறினார்
+
+◼️
+
+[Data](articles/6ce3dd53.json)
 
 ---
 
@@ -103,6 +203,58 @@ Authorities offered no immediate cause for the crash. However, Iran has one of t
 [Data](articles/3b86e456.json)
 
 [Extended Data](ext_articles/3b86e456.ext.json)
+
+---
+
+### Sri Lanka MP Thalatha Athukorala resigns
+
+*2024-08-21 10:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-mp-thalatha-athukorala-resigns-177499/) · `en`
+
+ECONOMYNEXT – Sri Lanka Samagi Jana Balavegaya legislator Thalatha Athukorala has announced her resignation in Parliament.
+
+Athukorala is the sister of one-time United National National Party general Secretary Gamini Athukorala, and a party stalwart.
+
+“If we are to win this election, we have to join forces,” Athukorala said in an impassioned speech, in which she lamented the splitting of the UNP.
+
+Opposition Leader Sajith Premadasa was too much in a hurry to become leader, she said drawing parallels with the rise of Gotabaya Rajapaksa.
+
+“All the drowning snakes and mongooses (nai-mugati) have clung on the SJB log (kote) to avoid drowning,” she said in a scathing attack on Premadasa. (Colombo/Aug20/2024)
+
+◼️
+
+[Data](articles/9aea1197.json)
+
+---
+
+### தனியாக கூட்டம் நடாத்தினார் பொன்சேகா
+
+*2024-08-21 10:52:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியாக-கூட்டம்-நடாத்தினார்-பொன்சேகா/175-342553) · `ta`
+
+ஜனாதிபதி வேட்பாளர் பீல்ட் மார்ஷல் சரத் பொன்சேகா, சமூக ஊடகங்களில் மக்கள் கூட்டம் இல்லாத தேர்தல் பிரசாரம் தொடர்பான காணொளி ஒன்று பரவியதற்கு தனது பிரச்சார முயற்சிகள் உண்மையானவை என பதிலளித்துள்ளார்.
+
+சமூக ஊடகங்களில் ஒரு அறிக்கையில், தனது பொது பேரணிக்கு போக்குவரத்து ஏற்பாடுகள் செய்யப்படவில்லை என்றும், மது அல்லது சாப்பாடு கொடுத்து மக்களை பேருந்துகளில் அழைத்து வரவில்லை என்றும் கூறினார்.
+
+மேலும், தேர்தல் பிரச்சாரத்திற்கு முந்தைய நாள் இரவு பொதுமக்களுக்கு இடையூறு இல்லாத பகுதிகளில் 50க்கும் மேற்பட்ட சுவரொட்டிகள் ஒட்டப்பட்டன. பொதுமக்களுக்கு இடையூறு ஏற்படாத வகையில் ஒலிபெருக்கிகளை பொருத்தவும் அறிவுறுத்தப்பட்டது.
+
+எனது பொதுக்கூட்டத்தில் ஒரு நபராக இருந்தாலும், ஐந்து, பத்து, ஐம்பது பேர் அல்லது நூறு பேர் கலந்து கொண்டாலும், எனது விசுவாசமான கட்சி ஆதரவாளர்கள் என்பதால் 1000 பேரை விட, அவர்கள் எனக்கு முக்கியமானவர்கள்,'' என்று கூறினார்.
+
+...
+
+[Data](articles/e21aa769.json)
+
+---
+
+### பண்டாரிகொட எம்.பியாக சத்தியப்பிரமாணம்
+
+*2024-08-21 10:43:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டாரிகொட-எம்-பியாக-சத்தியப்பிரமாணம்/175-342552) · `ta`
+
+பந்துல லால் பண்டாரிகொட  சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில் பாராளுமன்ற உறுப்பினராக இன்று சத்தியப்பிரமாணம் செய்து கொண்டார்.
+
+முன்னாள் அமைச்சர் மனுஷ நாணயக்கார தனது பாராளுமன்ற உறுப்பினர் பதவியை இழந்ததையடுத்து ஏற்பட்ட வெற்றிடத்திற்கே அவர் நியமிக்கப்பட்டு பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+◼️
+
+[Data](articles/1bcdbc61.json)
 
 ---
 
@@ -174,6 +326,22 @@ Manusha Nanayakkara was abolished by the MP's MP with Supreme Court and Bandarai
 
 ---
 
+### Neon and Echelon Unveil Shine 50: Sri Lanka’s Young Game-Changing Women
+
+*2024-08-21 10:22:00* · [`economynextcom`](https://economynext.com/neon-and-echelon-unveil-shine-50-sri-lankas-young-game-changing-women-177474/) · `en`
+
+Neon and Echelon have launched Shine 50, an initiative spotlighting 50 young women boldly making significant contributions and driving change across Sri Lanka. These trailblazers, from entrepreneurs and environmental advocates to artists and activists, are redefining leadership and innovation in their fields.
+
+Dubbed “The Girls Who Run the World,” Shine 50 honours women between the ages of 18 and 35 for their impact on society and their role in driving change across diverse fields, from agriculture to art, business, social enterprises, education, environment, technology, entertainment, and science. The honorees represent regions across the country, including Jaffna, Galle, Batticaloa, Colombo, and the Central Hills.
+
+From left: Piyumi Wattuhewa, Meera Nadarasa, Tashini Vithanage, Thanuki Goonesinghe, Rose Fernando, Deanna Jayasundera, Sriyangani Dhanapala, Shenelle Rodrigo
+
+...
+
+[Data](articles/96796336.json)
+
+---
+
 ### Namal Rajapaksa’s maiden rally in A’pura today
 
 *2024-08-21 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101390/namal-rajapaksas-maiden-rally-in-apura-today) · `en`
@@ -241,6 +409,48 @@ The residents of Padaviya, Cabinglewa and Parakramapura areas have been arrested
 [Data](articles/6db18277.json)
 
 [Extended Data](ext_articles/6db18277.ext.json)
+
+---
+
+### Bandula Lal Bandarigoda sworn as Sri Lanka legislator replacing Manusha
+
+*2024-08-21 09:50:00* · [`economynextcom`](https://economynext.com/bandula-lal-bandarigoda-sworn-as-sri-lanka-legislator-replacing-manusha-177472/) · `en`
+
+ECONOMYNEXT – Bandula Lal Bandarigoda, from the Galle District was sworn in as a member Sri Lanka’s parliament before Speaker Mahinda Yapa Abeywardana.
+
+He replaced Manusha Nanayakkara of the Samagi Jana Balawegaya who lost his seat following a court ruling.
+
+The post of Harin Fernando, who is a national list legislator is also vacant after the same court ruling.
+
+The two were expelled from the SJB for joining Ranil Wickremesinghe as ministers. Court upheld the decision. (Colombo/Aug21/2024)
+
+◼️
+
+[Data](articles/65f30a12.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 299.80/300.20 to US dollar
+
+*2024-08-21 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-299-80-300-20-to-us-dollar-177470/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 299.80/300.20 to the US dollar on Wednesday, dealers said. Bond yields were steady, they said, and stocks opened up 0.12 percent.
+
+The rupee closed at 299.60/300.00 to the greenback on Tuesday, after a three-day weekend.
+
+In the secondary market, trading was slow during the treasury bill auction, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 11.10/20 percent, up from 11.05/20 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.70/80 percent.
+
+A bond maturing on 15.06.2029 was quoted stable at 12.90/13.00 percent.
+
+In equities, Colombo’s All Share Price Index opened 13.82 points higher at 11,508, while the S&P SL20 of more liquid stocks opened up at 0.44 percent or 14.99 points to 3,314.
+
+◼️
+
+[Data](articles/517abc67.json)
 
 ---
 
@@ -324,6 +534,22 @@ The Parliamentary Council has started its session, focusing on legislative discu
 
 ---
 
+### நாமலின் முதலாவது   கூட்டம் இன்று
+
+*2024-08-21 09:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-முதலாவது-கூட்டம்-இன்று/175-342547) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முதலாவது தேர்தல் பிரச்சார கூட்டம்  அனுராதபுரத்தில் இன்று (21)நடைபெறவுள்ளதாக பாராளுமன்ற உறுப்பினர் சஞ்சீவ எதிரிமான்ன தெரிவித்துள்ளார்.
+
+ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவை வெற்றியடையச் செய்யும் நோக்கில் இன்று பிற்பகல் 2 மணிக்கு அனுராதபுரம் கடபனஹா பிரதேசத்தில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் மாபெரும் தேர்தல் பிரச்சார கூட்டம் ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+இந்த முதலாவது பிரச்சார கூட்டத்தை அநுராதபுரத்திற்கு கொண்டு சென்றமை ஜனாதிபதித் தேர்தல் பிரச்சாரத்துக்கு கிடைத்த வெற்றியாகவும் பார்க்கிறோம் எனவும் அவர் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/10a75b3e.json)
+
+---
+
 ### Namal's first presidential election campaign meeting today
 
 *2024-08-21 09:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-முதலாவது-ஜனாதிபதி-தேர்தல்-பிரச்சார-கூட்டம்-இன்று/175-342547) · `ta`
@@ -361,6 +587,24 @@ Police Inspector and Constable, who had about a kilogram of heroin, have been ar
 [Data](articles/d9cca733.json)
 
 [Extended Data](ext_articles/d9cca733.ext.json)
+
+---
+
+### India’s Petronet to supply Sri Lanka for 5-years via LNG Iso containers
+
+*2024-08-21 08:59:00* · [`economynextcom`](https://economynext.com/indias-petronet-to-supply-sri-lanka-for-5-years-via-lng-iso-containers-177456/) · `en`
+
+ECONOMYNEXT – An agreement to supply liquefied natural gas to a power plant run by Sri Lanka’s LTL Holdings will be effective for 5 years and will be extended by mutual agreement, according to a Bombay stock exchange filing by Petronet India Limited.
+
+The LNG will be loaded from Petronet’s Kochin terminal and brought by ship to Sri Lanka and taken overland to the 350 Megawatt ‘Sobadanavi’ combined cycle power plant built by LTL Holdings in Kerawalapitiya near Colombo.
+
+The ISO Containers will be unloaded at Colombo Port and stored in a  designated storage area, Sri Lanka’s Energy Ministry said. The containers will then be transported to a storage and regasification terminal. The regasified LNG will be delivered to the power plant through a pipeline.
+
+The proposal is an interim solution to start LNG for power generation in Sri Lanka on initiation by Government of Sri Lanka and the Government of India, the island’s Energy Ministry said.
+
+...
+
+[Data](articles/410f5207.json)
 
 ---
 
@@ -521,6 +765,24 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/d7a7dba2.json)
 
 [Extended Data](ext_articles/d7a7dba2.ext.json)
+
+---
+
+### Sri Lanka Online Safety Act amendment bill published
+
+*2024-08-21 07:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-safety-act-amendment-bill-published-177446/) · `en`
+
+ECONOMYNEXT – Sri Lanka has published a bill make changes to the country’s controversial Online Safety Act which was passed in parliament despite opposition from civil society groups and the tech industry.
+
+The law seeks to police online discourse through an Online Safety Commission with sweeping powers.
+
+The new bill makes the appointment of Commissioners subject to approval by the Constitutional Council.
+
+It also makes other changes like limiting the scope to offences committed by anyone while in Sri Lanka and removing Section 19.
+
+...
+
+[Data](articles/fc723e92.json)
 
 ---
 
@@ -1883,351 +2145,5 @@ He is a right-handed bowler, Akiyapola, an alumni of Sri Sumangala Vidyalaya.
 [Data](articles/82066899.json)
 
 [Extended Data](ext_articles/82066899.ext.json)
-
----
-
-### The Third Reading of the Provincial Council Election Amendment on September 3
-
-*2024-08-20 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191564) · `ta`
-
-On September 3, the Provincial Council Election Amendment received its third reading after being discussed in Parliament. The decision was made during a meeting of the Legislative Standing Committee chaired by Deputy Speaker Ajith Rajapaksa, with members including MA Sumanthiran from the Sri Lanka Tamil National Alliance (TNA). This amendment had previously been examined by the High Court under the Provincial Council Election Act before its submission to Parliament.
-
-🟩
-
-It has been decided at the Legislative Standing Committee that the Provincial Council Amendment will be submitted to Parliament on the 3rd of September for the 3rd of September.
-
-The Legislative Standing Committee met on Tuesday (20) at the parliamentary building headed by Deputy Speaker Ajith Rajapaksa. Members of the group MA Sumanthiran, Manohanesan and Govindan Karunagaram were also present.
-
-In it, MA Sumanthiran, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA), was examined by the High Court in the Provincial Council Election Act, which was submitted to Parliament on the 6th of last month, was investigated for the submission of the 3rd reading of Parliament.
-
-Accordingly, on the 3rd of September for the third reading of the country, it was decided to the Legal Statistical Committee to pass it on the same day.
-
-◼️
-
-[Data](articles/feb84f43.json)
-
-[Extended Data](ext_articles/feb84f43.ext.json)
-
----
-
-### Three patients were casualty
-
-*2024-08-20 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200144) · `si`
-
-Three citizens filed lawsuits against the Colombo District Court, alleging harm from hospital-provided drugs used for cataract treatment. The plaintiffs, including Rajaratnam from Kandapola, seek compensation. The defendants include former Health Minister Keheliya Rambukwella, officials from the Ministry of Health, the National Drug Regulatory Authority, and the Director General of Health Services.
-
-🟩
-
-Three citizens have filed cases before the Colombo District Court for the use of the drugs provided by the hospital after the use of cataracts were caused by the hospital.
-
-A resident of Kandapola area. These complaints have been submitted by Rajaratnam.
-
-The complaints have been asked to issue a court order to compensate Rs.
-
-Former Health Minister Keheliya Rambukwella as respondents, the Secretary General of the Ministry of Janaka Chandra, National Drug Charge, National Drug Regulatory Authority and Director General of Health Services Asela Gunawardena have been named.
-
-◼️
-
-[Data](articles/7c8a44d1.json)
-
-[Extended Data](ext_articles/7c8a44d1.ext.json)
-
----
-
-### Ashoka Priyantha President arrived at Namalgama
-
-*2024-08-20 18:07:29* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-ළඟ-හිටිය-අශෝක-ප්‍රියන්ත-ජනපතිට/11-411470) · `si`
-
-Minister Asoka Priyantha switches support from Namal Rajapaksa to President Ranil Wickremesinghe after a meeting at Temple Trees. He contested from Puttalam District in the last general election.
-
-🟩
-
-The Minister of Home Affairs Asoka Priyantha has decided to support President Ranil Wickremesinghe in the President.
-
-Asoka Priyantha had previously decided to support Namal Rajapaksa.
-
-Asoka Priyantha has been informed of a meeting held at Temple Trees yesterday (20).
-
-Mr. Asoka Priyantha was contesting from the Puttalam District under the Sri Lanka Civil Appointment in the past general election.
-
-◼️
-
-[Data](articles/952a32c8.json)
-
-[Extended Data](ext_articles/952a32c8.ext.json)
-
----
-
-### A heavy rain in the next few hours
-
-*2024-08-20 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200143) · `si`
-
-Heavy rain expected in Western, Sabaragamuwa, Southern, and Northwestern provinces over the next 36 hours. Some areas may experience heavy rainfall exceeding 75mm. Showers/thunderstorms predicted for Eastern, Uva, and North Central Provinces at night. Strong winds of 30-40 km/h possible in central hills, northern, north-central, and Northwestern provinces, including Hambantota district. The Department of Meteorology advises caution against potential damage from wind and lightning during thunderstorms.
-
-🟩
-
-The Department of Meteorology has issued a weather forecast for the next 36 hours.
-
-The announcement issued at 4 pm today (20) will be valid until 4 pm today.
-
-Accordingly, there will be showers at times or thundershowers in the Western, Sabaragamuwa, Southern and Northwestern provinces.
-
-Some areas in the Western and Sabaragamuwa Province and in Galle and Matara districts are mm mm mm.. Heavy rains can occur more than 75.
-
-Showers or thundershowers at night in the east, Uva and North Central Province.
-
-Showers or thundershowers will occur at the evening or night in the rest of the island.
-
-West in the central hills and in the North, North, North, North-central and Northwestern provinces and in the Hambantota district.. Strong winds can also be around 30-40 times.
-
-The Department of Meteorology also requests the public to take action to reduce the damages caused by temporary winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/ada66d4c.json)
-
-[Extended Data](ext_articles/ada66d4c.ext.json)
-
----
-
-### A separate party to MPs in Pohoth who support Ranil
-
-*2024-08-20 17:53:12* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ට-සහාය-දෙන-පොහොට්ටුවේ-මන්ත්‍රීන්ට-වෙනමම-පක්ෂයක්/11-411469) · `si`
-
-A new political party supporting MPs Ranil Wickremesinghe was discussed in Colombo, aiming to field candidates from the next presidential election onwards. Nearly 100 MPs attended, including the Sri Lanka General Secretary and the Chief Organizer of the Government. The party's constitution is ready, with several names proposed for leadership roles.
-
-🟩
-
-A special discussion was held in Colombo today (2024.08.20), a new political party that supports MPs Ranil Wickremesinghe.
-
-Any election after the next presidential election has decided to submit candidates through the new political party.
-
-Nearly 100 MPs in the Sri Lanka Civil Appointment of the Sri Lanka General Secretary of Prime Minister Dinesh Gunawardena and the Chief Organizer of the Government Prasanna Ranatunga were also present.
-
-Several names have been proposed for the new political party. MPs have decided to work in the future as the constitution has already been prepared for the next new political party.
-
-◼️
-
-[Data](articles/ca0a03a2.json)
-
-[Extended Data](ext_articles/ca0a03a2.ext.json)
-
----
-
-### Vijayadasa Rajapaksa
-
-*2024-08-20 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191562) · `ta`
-
-Vijayadasa Rajapaksa, the National Democratic Front's presidential candidate, criticized the Election Commission's implementation of the Election Expenditure Monitoring Act, which sets a spending limit of 109 rupees per voter for candidates. He announced plans to file a fundamental rights violation case against the Commission, arguing this decision undermines public trust and exceeds expected expenditure limits.
-
-🟩
-
-The Election Commission has used the Election Expenditure Monitoring Act by setting up a voter of 109 rupees per voter.
-
-The National Democratic Front's presidential candidate, Vijayadasa Rajapakse, said that the Election Commission, which has wasted the expectations of the people through the law, will file a fundamental rights violation against the Election Commission demanding the withdrawal of the resolution.
-
-He was speaking at a press conference held at his election office in Colombo on Tuesday (20).
-
-We have allowed the Election Expenditure Monitoring Act in the midst of a very small. However, the opposition parties protested against corruption. However, we have obtained the necessary majority in Parliament to allow the bill.
-
-The Election Expenditure Monitoring Act was to be implemented in the local government elections. The election is not yet. The law is in force in the current presidential election.
-
-...
-
-[Data](articles/f6be6556.json)
-
-[Extended Data](ext_articles/f6be6556.ext.json)
-
----
-
-### Dilith Jayaweera accepts invitation for presidential debate
-
-*2024-08-20 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101379/dilith-jayaweera-accepts-invitation-for-presidential-debate) · `en`
-
-The ‘Sarvajana Balaya’ presidential candidate, entrepreneur Dilith Jayaweera has formally accepted the invitation to take part in the historic debate that the ‘March 12 Movement’ is hoping to organize between six candidates contesting the 2024 Presidential Election.
-
-Announcing this decision, Mawbima Janatha Pakshaya (MJP) leader Dilith Jayaweera said:
-
-“I would like to officially accept the invitation made by the March 12 Movement, to take part in a debate among 6 candidates contesting in this year’s Presidential Election.
-
-“I believe this platform will provide a novel experience for Sri Lankans to witness a productive dialogue on policies that each of us hopes to implement if voted into the Presidency.
-
-...
-
-[Data](articles/cba8a6d4.json)
-
-[Extended Data](ext_articles/cba8a6d4.ext.json)
-
----
-
-### For the first 7 months of the first 7 months of Rs. 964 billion
-
-*2024-08-20 17:37:54* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවෝ-මුල්-මාස-7දී-රු--බිලියන-964-ක්-එවලා/11-411468) · `si`
-
-In the first half of 2023, Sri Lanka received over Rs. 964 billion from migrant workers, with a peak of $572 million in March and $566.8 million in July. This significant influx contributes to the country's foreign exchange reserves, crucial for importing essentials like medicines, fuel, and gas.
-
-🟩
-
-The Sri Lanka Foreign Employment Bureau has made a statement that the migrant work community has sent more than Rs. 364 billion in the first seven months of this year.The month performed was March, and its value is 572 million USS.
-
-USS 566.8 million in July was remitted to Sri Lanka.A growth.
-
-The remittances that were sent to Sri Lanka by the migrant service to Sri Lanka is a major contributor to Sri Lanka's foreign exchange reserve. Foreign exchange is essential as well as the importation of essential commodities including drugs, fuel, gas.
-
-From January to August, more than 187,000 has been abroad to employment from January to August.
-
-◼️
-
-[Data](articles/f6d83c44.json)
-
-[Extended Data](ext_articles/f6d83c44.ext.json)
-
----
-
-### Dilith welcomes the presidential candidate debate
-
-*2024-08-20 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200142) · `si`
-
-Mr. Dilinda Vishara, representing the March 12 movement, will officially welcome the presidential candidates in writing.
-
-🟩
-
-The March 12 movement, Mr. Dilinda Vishara, his official resident of the presidential candidates, will be informed in writing for the presidential candidates.
-
-◼️
-
-[Data](articles/b6c1a1fd.json)
-
-[Extended Data](ext_articles/b6c1a1fd.ext.json)
-
----
-
-### Childness up because of the cold
-
-*2024-08-20 17:29:44* · [`adalk`](https://www.ada.lk/breaking_news/සීතල-නිසා-ළමා-හතිය-ඉහළට/11-411467) · `si`
-
-Due to the cold weather, there's an increase in respiratory issues among children, including coughing and flu-like symptoms. Dr. Deepal Perera advises keeping children indoors, wearing warm clothing, and avoiding smoking to prevent illnesses like viral fever and tuberculosis.
-
-🟩
-
-Dr. Deepal Perera, Specialist Dr. Deepal Perera, who has gone up due to the coldest of these days, has gone up due to the cold and the cold.
-
-If the characteristics of coughing, breathing, is a child of breathing, is often coughing, often coughing in the influenza, often the influenza is later coughing.
-
-The specialist doctor who pointed to those who had been previously demonstrated and previously unguinding could be seen as a viral fever due to winter and rain.
-
-He further stated that if the children are not going to go outdoors with the cold, he will send a cold coverage dress and sends the helmets to protect the children.
-
-Dr. Deepal Perera pointed out that these days have been a heavy cold in Colombo in the morning and that virus fever could be determined not only due to viral fever.
-
-...
-
-[Data](articles/a21fe22e.json)
-
-[Extended Data](ext_articles/a21fe22e.ext.json)
-
----
-
-### Sri Lanka EC asks for tax payment details of financers under new election expenditure law
-
-*2024-08-20 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-asks-for-tax-payment-details-of-financers-under-new-election-expenditure-law-177435/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Election Commission (EC) has asked all the political parties contesting in the upcoming presidential election to compile the tax payment details of individuals and companies funding presidential candidates under the new Election Expenditure Act.
-
-The EC has asked the parties to provide details of name, address, national identity card number (NIC), Taxpayer Identification Number (TIN) at the Inland Revenue Department (IRD) or the registration number of the donor, contributor, or the institution incorporated or non-incorporated, who contribute for campaign financing.
-
-In an extraordinary gazette notification dated August 16 and published on Monday (19), the EC declared that each candidate is allowed to spend a maximum of 109 rupees for each voter in the presidential election campaigning activities, totaling 1,868.3 million rupees ($6 million) per candidate.
-
-...
-
-[Data](articles/be37fc3e.json)
-
-[Extended Data](ext_articles/be37fc3e.ext.json)
-
----
-
-### Landslide warnings for 6 districts
-
-*2024-08-20 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200141) · `si`
-
-Landslide warnings cover six districts due to bad weather: Colombo, Galle, Kalutara, Kegalle, Nuwara Eliya, and Ratnapura.
-
-🟩
-
-Landslide warnings have been issued for six districts with the inclement weather.
-
-That was for Colombo, Galle, Kalutara, Kegalle, Nuwara Eliya and Ratnapura districts.
-
-◼️
-
-[Data](articles/4520b615.json)
-
-[Extended Data](ext_articles/4520b615.ext.json)
-
----
-
-### CID constable accused of helping ‘Harak Kata’ acquitted
-
-*2024-08-20 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101378/cid-constable-accused-of-helping-harak-kata-acquitted) · `en`
-
-The Police Constable attached to the Criminal Investigation Department (CID), who was accused of assisting the escape attempt by notorious criminal figure and drug trafficker Nadun Chithaka Wickremeratne alias ‘Harak Kata’ from CID custody, has been acquitted by the court.
-
-Police Constable Sanjaya Abeysinghe of the CID’s Public Complaints Division, who had been arrested by the Terrorist Investigation Division (TID), was produced before the Colombo Fort Magistrate’s Court today (20).
-
-Police Constable Abeysinghe had been detained and interrogated at the TID for around 11 months.
-
-◼️
-
-[Data](articles/599dbf7a.json)
-
-[Extended Data](ext_articles/599dbf7a.ext.json)
-
----
-
-### Punishment for those who do not tell the costs
-
-*2024-08-20 17:17:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செலவுகளை-சொல்லாதவர்களுக்கு-தண்டனை/175-342521) · `ta`
-
-Candidates must submit an election cost report within 21 days post-election. Failure to do so, submitting incorrect information, or exceeding budget results in fines. The report includes details about funds, materials, and contributors. Excessive spending is punishable.
-
-🟩
-
-The Election Commission has said that all candidates should submit an election cost report within 21 days after the presidential election.
-
-The Election Commission said that if any candidate fails to submit the report within a certain time, if you submit the wrong information or spend too much, you will have a fine of Rs.
-
-The Commission also said that the report should be prepared, along with information and funds, materials or credit based on those who helped them, and if he spends more than the amount allowed, he will be guilty.
-
-◼️
-
-[Data](articles/c8b8e172.json)
-
-[Extended Data](ext_articles/c8b8e172.ext.json)
-
----
-
-### 'Code' crew meeting with Premalatha Vijayakanth
-
-*2024-08-20 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191555) · `ta`
-
-Premalatha Vijayakanth, general secretary of the TMC, hosted a meeting with actor Vijay and others to honor the legacy of her husband, Vijayakanth, founder of the Tamil Nadu Victory Council. The gathering highlighted the impact of AI technology in their project 'Code', drawing attention from both the film and political sectors.
-
-🟩
-
-Vijayakanth, the general secretary of the TMC in Chennai, met Vijayakanth, the leader and actor of the Tamil Nadu Victory Council.
-
-Actor Vijay visits Vijayakanth's residence in Chennai. He paid homage to the portrait of Vijayakanth there.
-
-Following this, Premalatha thanked the late actor Vijayakanth for the help of artificial intelligence technology in 'Code'. Film director Venkat Prabhu, producer Archana Kalpathi and Vijayakanth's successors were also present at the event.
-
-The Vijay-National Progressive Dravidian League, the general secretary of the National Progressive Dravidian League, who is planning to hold the flag and convention of the political party, the Tamil Nadu Victory Corporation, has attracted attention not only in the film industry but also in the political world.
-
-In the meantime, Captain Vijayakanth is appearing for two minutes with artificial intelligence technology in 'Code' and his fans and Volunteers are excited.
-
-◼️
-
-[Data](articles/dbe1eb5d.json)
-
-[Extended Data](ext_articles/dbe1eb5d.ext.json)
 
 ---

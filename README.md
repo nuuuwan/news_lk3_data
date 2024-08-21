@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 17:21:23**
+As of **2024-08-21 17:37:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,158
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,904 (100.0%) of 41,910 articles have been extended.
+41,910 (100.0%) of 41,910 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,95 +56,121 @@ The arrested suspects are scheduled to be produced before the Wattala Magistrate
 
 [Data](articles/08e7ed35.json)
 
+[Extended Data](ext_articles/08e7ed35.ext.json)
+
 ---
 
-### පාකිස්තාන පාර්ලිමේන්තුව මී රජ දහනක් වෙයි
+### Pakistani Parliament will be bowled
 
 *2024-08-21 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200182) · `si`
 
-පාකිස්තාන පාර්ලිමේන්තුව තුළ මීයන් බෝවී එහි දෛනික කටයුතුවලට බාධා එල්ලවීමේ පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+The Pakistani Parliament faces a unique challenge: a significant mouse infestation, with reports of unusually large rats damaging important documents. To address this, the government allocated 1.2 million to control the breeding of these rodents.
 
-මෙම පුවත ගැන වැඩි අවධානයක් යොමුවී ඇත්තේ මීයන් බෝවීම පාලනයට රජය පාකිස්තාන රුපියල් මිලියන 1.2ක දැවැන්ත මුදලක් වෙන්කිරීමත් සමගිනි.
+🟩
 
-වසර කිහිපයක් තිස්සේ පාර්ලිමේන්තුව පුරා මෙලෙස මීයන් බෝවී සිටින බවත්, උන් සාමාන්‍ය මීයන්ට වඩා විශාල වීම නිසා පාලනය අසීරුවී ඇති බවත් සඳහන් වෙයි.
+Mice breeding in pakistan parliament have reportedly a hurdle to its daily activities.
 
-මෙම මීයන් එහි අතිශය වැදගත් ලිපිලේඛන රැසක් විනාශ කර ඇති බවත් විදෙස් මාධය වාර්තා කරයි.
+The news focused on the allocation of Pakistani 1.2 million to control the breeding of mice breeding.
+
+It is said that there is a rat of rats for several years and is larger than ordinary mice.
+
+Foreign media reports that these rats have destroyed a number of important documents.
 
 ◼️
 
 [Data](articles/0e7a3e3e.json)
 
+[Extended Data](ext_articles/0e7a3e3e.ext.json)
+
 ---
 
-### பிரஜைகளிடமிருந்து கேள்விகளுக்கு அழைப்பு
+### Calling questions from citizens
 
 *2024-08-21 16:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரஜைகளிடமிருந்து-கேள்விகளுக்கு-அழைப்பு/175-342575) · `ta`
 
-தேர்தல் கண்காணிப்புக் குழு மற்றும் சிவில் சமூகமான மார்ச் 12 இயக்கம் , 2024 ஜனாதிபதி வேட்பாளர்களுக்கான விவாதம் ஒன்றை ஏற்பாடு செய்துள்ளது,
+The Movement of the Election Monitoring Committee and the Civil Community March 12 is organizing a debate for the 2024 presidential candidates to enhance public participation. Citizens can submit questions via social media, email, or mail, focusing on governance-related issues. An Expert Panel will review these questions to ensure the debate addresses crucial administrative topics.
 
-மக்களின் பொது பங்கேற்பை வளர்க்கும் முயற்சியில், இந்த இயக்கம் வேட்பாளர்களிடம் நாட்டு மக்கள் கேட்க விரும்பும் கேள்விகளை சமர்ப்பிக்க அழைப்பு விடுத்துள்ளது.
+🟩
 
-இந்தக் கேள்விகளை பொது மக்கள் சமூக ஊடகங்கள், மின்னஞ்சல் அல்லது அஞ்சல் மூலமாக அனுப்பலாம்,
+The Movement of the Election Monitoring Committee and the Civil Community March 12 has organized a debate for the 2024 presidential candidates,
 
-விவாதம் முக்கியமான நிர்வாக ஆட்சி விஷயங்களில் கவனம் செலுத்துவதை உறுதிசெய்ய, அனைத்து கேள்விகளும் ஆட்சி மற்றும் அது சார்ந்த சிக்கல்களை மையப்படுத்தியதாக இருக்க வேண்டும் என்பதை இயக்கம் வலியுறுத்துகிறது.
+In an attempt to promote the public participation of the people, the movement has called for the candidates to submit the questions they want to ask the candidates.
 
-மார்ச் 12 இயக்கத்தால் நியமிக்கப்பட்ட நிபுணர் குழுவால் கேள்விகள் பரிசீலிக்கப்பட்டு இறுதி செய்யப்படும் .
+These questions can be sent by the public by social media, email or mail,
 
-அஞ்சல் முகவரி: ஜனநாயக மறுசீரமைப்பு மற்றும் தேர்தல் கற்கைகளுக்கான நிறுவனம், இல. 15/22, சந்திரா வெத்தசிங்க மாவத்தை, 3வது லேன், நாவல கொஸ்வத்த வீதி, ராஜகிரிய.
+The movement emphasizes that all questions must be centered on the rule and related issues to ensure that the debate focus on important administrative matters.
+
+Questions will be considered and finalized by the Expert Panel appointed by the March 12 movement.
+
+Postal Address: Company for Democratic Reforms and Election Studies,. 15/22, Chandra Vethasinghe Mawatha, 3rd Lane, Navala Koswatta Road, Rajagiriya.
 
 ◼️
 
 [Data](articles/60efbe96.json)
 
+[Extended Data](ext_articles/60efbe96.ext.json)
+
 ---
 
-### උද්ධමනය සුළු වශයෙන් ඉහළට
+### Inflation is slightly up
 
 *2024-08-21 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200181) · `si`
 
-ජාතික පාරිභෝගික මිල දර්ශකය මත පදනම් වූ මෙරට වාර්ෂික උද්ධමනය 2024 ජුලි මාසයේදී 2.5% දක්වා සුළු වශයෙන් ඉහළ ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka's annual inflation rose to 2.5% in July 2024, with food prices increasing to 2.9%. Non-foods saw a slight decrease to 2.2%, while transport inflation dropped to 4.9%. Health sector inflation surged from 1.7% to 4.0%.
 
-2024 ජුනි මාසයේදී 1.9%ක් ලෙස සටහන් වූ ආහාර කාණ්ඩයේ උද්ධමනය 2024 ජුලි මාසයේදී 2.9% දක්වා ඉහළ ගොස් තිබේ.
+🟩
 
-ආහාර නොවන කාණ්ඩයේ උද්ධමනය ජුනි මාසයේදී වාර්තා වූ 2.7%ට සාපේක්ෂව 2024 ජුලි මාසයේදී 2.2% දක්වා පහත වැටී ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව සඳහන් කළේය.
+The annual inflation in Sri Lanka based on the National Customer Price Index has increased to 2.5% in July 2024, the Department of Census and Statistics.
 
-ජුනි මාසයේදී 7.5%ක් ලෙස සටහන් වූ ප්‍රවාහන උප කාණ්ඩයේ උද්ධමනය 2024 ජුලි මාසයේදී 4.9% දක්වා පහත වැටී තිබේ.
+In July 2024, the inflation of the food category of food category, increased to 2.9% in July 2024.
 
-ජුනි මාසයේදී 1.7%ක් ලෙස පැවති සෞඛ්‍ය උප කාණ්ඩයේ උද්ධමනය 4.0% දක්වා ඉහළයාම ද කැපී පෙනෙයි.
+Department of Census and Statistics said that the non-foods fell to 2.2% in July 2024 compared to 2.2% over July.
+
+Inflation of transport subground of 2024, in July, 2024 has fallen to 4.9% in July.
+
+Inflation in health subground of 1.7% in June is high to 4.0% increase.
 
 ◼️
 
 [Data](articles/97ca3970.json)
 
+[Extended Data](ext_articles/97ca3970.ext.json)
+
 ---
 
-### වඩිවෙල් සුරේෂ් ට සහ සාහීර් මව්ලානා ට අමාත්‍ය තනතුරු
+### Minister posts at Vadiwel Suresh and Sahair Malluta
 
 *2024-08-21 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200180) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන වඩිවෙල් සුරේෂ් මහතා ට සහ අලි සාහීර් මව්ලානා මහතාට අමාත්‍ය ධුර පිරිනමා තිබේ.
+Vadivel Suresh and Ali Sahar Mollana were appointed ministers by President Ranil Wickremesinghe. Suresh, who represents the Badulla District and is the Chief Secretary of the Ceylon National Estate Workers Union, became the State Minister of Labor. Mollana, a member of the Sri Lanka Muslim Congress, was named the Minister of Cabinet after being sworn in as an MP following a Supreme Court ruling.
 
-එහිදී අලි සාහීර් මව්ලානා මහතා ට කැබිනට් නොවන සංවර්ධන ව්‍යාපෘති අමාත්‍ය ධුරය පිරිනමා ඇත.
+🟩
 
-වඩිවෙල් සුරේෂ් මහතා ව පත්කර ඇත්තේ කම්කරු රාජ්‍ය අමාත්‍යවරයා ලෙසය.
+Members of Parliament, Vadival Suresh, was given the ministerial portfolio and Ali Sahar Mollana.
 
-ඔවුන් දෙදෙනා අදාළ පත්වීම් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් ලබාගත් බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+Ali Sarahr Mollana has been awarded the Minister of Cabinet.
 
-වඩිවෙල් සුරේෂ් මහතා බදුල්ල දිස්ත්‍රික්කයෙන් සමගි ජන බලවේගය නියෝජනය කරමින් පාර්ලිමේන්තුවට පිවිසියේය.
+Vadivel Suresh has been appointed as the State Minister of Labor.
 
-2020 මහ මැතිවරණයේ දී බදුල්ල දිස්ත්‍රික්කය සඳහා සමගි ජන බලවේගය වෙනුවෙන් වැඩිම මනාප හිමිකරගත්තේ ඔහුය.
+The Presidential Media Unit said that the two of them obtained the appointments from President Ranil Wickremesinghe.
 
-තමා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ට සහාය දක්වන බව ඔහු පසුගියදා පැවසීය.
+Vadivel Suresh entered Parliament representing the Badulla District representing the Badulla District.
 
-සුරේෂ් මහතා ලංකා ජාතික වතු කම්කරු සංගමයේ ප්‍රධාන ලේකම්වරයා ලෙසද කටයුතු කරයි.
+He was the highest number of preferential votes for the Badulla District for the Badulla District in the 2020 general election.
 
-කම්කරු අමාත්‍ය ධුරය දරූ මනුෂ නානායක්කාර මහතා ට ශ්‍රේෂ්ඨාධිකරණ තීන්දුවක් හේතුවෙන් අගෝස්තු 09 වනදා සිය පාර්ලිමේන්තු අසුන අහිමි විය.
+He recently said he would support President Ranil Wickremesinghe.
 
-එම තීන්දුවේ සඳහන් වූයේ මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බවයි.
+Mr. Suresh also serves as the Chief Secretary of the Ceylon National Estate Workers Union.
+
+Manusha Nanayakkara, Minister of Labor, lost his parliamentary seat on August 9 due to a Supreme Court decision.
+
+According to the decision, the decision taken by the reconciliation was legitimated to deprive the party membership of Manusha Nanayakkara and Harin Fernando.
 
 ...
 
 [Data](articles/942f2fa8.json)
+
+[Extended Data](ext_articles/942f2fa8.ext.json)
 
 ---
 
@@ -966,21 +992,27 @@ He is sworn in in the presence of Speaker Mahinda Yapa Abeywardena following the
 
 ---
 
-### එක් ඇමෙරිකානු යුද නැවක් කොළඹින් යද්දි තවත් ඇමෙරිකා යුද නැවක් කොළඹට
+### Another USA ark from Colombo to Colombo
 
 *2024-08-21 12:42:52* · [`adalk`](https://www.ada.lk/picture_story/එක්-ඇමෙරිකානු-යුද-නැවක්-කොළඹින්-යද්දි-තවත්-ඇමෙරිකා-යුද-නැවක්-කොළඹට/10-411486) · `si`
 
-ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS Okane’ නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමේ සංචාරයක් සඳහා අද දින (2024 අගෝස්තු 21) කොළඹ වරායට පැමිණෙන ලද අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව පිළිගැනීමට කටයුතු කෙරිණි.
+The USS O'Kane, part of the Arleigh Burke-class destroyers, docked at the Port of Colombo on August 21 to fulfill supply and service requests under Commander Richard Ray. It will depart on August 22, 2024, after completing its mission.
 
-මෙලෙස කොළඹ වරායට සේන්දු වූ Arleigh Burke - class destroyer වර්ගයට අයත් ‘USS Okane’ නෞකාව, දිගින් මීටර් එකසිය පනස් හතරක් (154 ) හා නැව් මුළුව තුන්සිය විසි අටකින් (328) සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස Commander Richard Ray කටයුතු කරනු ලබයි.
+🟩
 
-තවද, සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමෙන් අනතුරුව ‘USS Okane’ නෞකාව 2024 අගෝස්තු මස 22 වන දින දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+The US Navy, US Navy, arrived at the Port of Colombo (August 21) to meet the Supply of Supplies and Service Requests (August 21) to accept the ship.
 
-මේ ආකාරයටම සැපයුම් අවශ්‍යතා සපුරා ගැනිම වෙනුවෙන් පසුගිය 19 දාද ඇමෙරිකානු යුද නැවක් කොළඹ වරායට පැමිණි අතර එය සැපයුම් අවශ්‍යතා සපුරා ගැනීමෙන් අනතුරුව පසුගිය 20දා දිවයිනෙන් පිටත්ව ගියේය.
+Arleigh Burke - CLAILIGH BURKE - CLASS DESTROYE CLASS OKEER type 'USS OKEER', one hundred and four (328) and the shipwreck of the ship is Commander Richard Ray.
+
+Further, after the supplies and service requirements are met, the 'USS OKANE' is due to leave the island on August 22, 2024.
+
+The US Army ship arrived at the port of the Colombo Port to meet the supply requirements of the supply requirements.
 
 ◼️
 
 [Data](articles/9539caf8.json)
+
+[Extended Data](ext_articles/9539caf8.ext.json)
 
 ---
 

@@ -1,64 +1,134 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 07:51:01**
+As of **2024-08-21 08:15:42**
 
 ## Newspaper Stats
 
-*Scraped **41,799** Articles*
+*Scraped **41,805** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 384
-colombotelegraphcom | 399
+colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,520
 dailyftlk | 2,701
-adalk | 3,845
+adalk | 3,846
 dailymirrorlk | 4,733
-adaderanalk | 4,889
+adaderanalk | 4,891
 tamilmirrorlk | 5,406
 virakesarilk | 6,648
-adaderanasinhalalk | 7,135
+adaderanasinhalalk | 7,136
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,796 (100.0%) of 41,799 articles have been extended.
+41,799 (100.0%) of 41,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### කොළඹ, ගාල්ල, මහනුවර සහ ත්‍රිකුණාමලය ගැන තීරණයක්
+### Police Inspector and Constable arrested with 01 kg of heroin
+
+*2024-08-21 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101385/police-inspector-and-constable-arrested-with-01-kg-of-heroin) · `en`
+
+An Inspector of Police (IP) and a Constable have been arrested by the Colombo Crimes Division (CCD) at Piliyandala while in possession of 01 kilogram of heroin, police said.
+
+◼️
+
+[Data](articles/611fa75e.json)
+
+---
+
+### මුදල් ආරවුලකට පවුලක්ම විනාශ කළ පුද්ගලයෙක්
+
+*2024-08-21 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200160) · `si`
+
+නැන්දම්මාව ඝාතනය කර  බිරිඳට සහ දියණියට බරපතළ තුවාල සිදුකිරීම සම්බන්ධයෙන් පුද්ගලයෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය ස﻿ඳහන් කළේ, ඊයේ (20) සවස් කාලයේ දී ගලපිටමඩ පොලිස් වසමේ ලෙවන්ගම ප්‍රදේශයේ නිවසකට පැමිණි පුද්ගලයෙකු කාන්තාවක් ඝාතනය කර තවත් කාන්තාවන් දෙදෙනෙකුට තුවාල සිදුකර ඇතැයි පොලීසියට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කළ බවය.
+
+එලෙස ඝාතනයට ලක්ව ඇත්තේ අවුරුදු 55ක් වූ අතලවත්ත, ලෙවන්ගම ප්‍රදේශයේ පදිංචිකාරියකි.
+
+මුදල් ආරවුලක් මත සැකකරු බිරිඳ හා බිරිඳගේ මව සමග බහින්බස් වීමක් ඇති කරගෙන තිබේ.
+
+පසුව බිරිඳගේ මවට ගලකින් පහරදී හිසට බරපතළ තුවාල සිදුකර ඇති අතර, තුවාලකාරියව කරවනැල්ල රෝහලට ඇතුළත් කිරීමෙන් පසු ජීවිතක්ෂයට පත්ව ඇත.
+
+බිරිඳ සහ දියණියට තියුණු ආයුධයකින් පහරදී තුවාල සිදුකර ඇතැයි ද පොලිස් විමර්ශනයේ දී අනාවරණය වී තිබේ.
+
+සිදුවීම සම්බන්ධයෙන් 44 හැවිරිදි සැකකරුව අත්අඩංගුවට ගෙන ඇති අතර, ගලපිටමඩ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/cf54f5af.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-08-21 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101384/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur at several places in Eastern, Uva and North-Central Provinces during the evening or night, it said.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/d7a7dba2.json)
+
+---
+
+### Decision in Colombo, Galle, Kandy and Trincomalee
 
 *2024-08-21 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200159) · `si`
 
-කොළඹ, ගාල්ල, මහනුවර වගේම ත්‍රිකුණාමලය යන නගර ලංකාවේ ප්‍රධාන කේන්ද්‍රස්ථාන ලෙස ගොඩනැඟීමට රජය බලාපොරොත්තු වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announces plans to develop Colombo, Galle, Kandy, and Trincomalee, focusing on culture, arts, and climate change education in Kandy. Discussions include preserving Bogambara Prison's history, enhancing tourism, and establishing a climate translation university.
 
-ජනාධිපතිවරයා පැවසුවේ, මහනුවර පුරවරය සංස්කෘතික හා කලා මධ්‍යස්ථානයක් ලෙස මෙන්ම දේශගුණික විපර්යාස පිළිබඳ විශ්වවිද්‍යාලයක් ඇති කිරීමට සැලසුම් කර ඇති බවය.
+🟩
+
+President Ranil Wickremesinghe says that the government is looking to build the cities of Colombo, Galle, Kandy and Trincomalee.
+
+The President said that the city of Kandy is planning to establish a cultural and artist, a university on climate change.
+
+"I have requested Japan especially from the Galagedy of Katugastota, not to stop our central expressway. Insert as a large urban area. Plans are now planning to act as a large center of Kandy. Four have been built, Colombo, Galle, Kandy and Trincomalee. The four four have to be developed in Sri Lanka. I discussed with Mugi. He said Chennai IT to open a pavilion in Sri Lanka. I named Kandy and now propose to start the flow. Developing the International Climate Translation University in Kotmale but also in the educational sector but also in the educational sector. Make these plans into a major city in Kandy over the next 10 years. "
 
 ...
 
 [Data](articles/208397bb.json)
 
+[Extended Data](ext_articles/208397bb.ext.json)
+
 ---
 
-### නාමල් ගේ මංගල රැලිය අද
+### Namal's wedding rally today
 
 *2024-08-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200158) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ් මංගල ජනාධිපතිවරණ රැලිය අනුරාධපුර නගරයේ අද (21) පැවැත්වෙන බව සංජීව එදිරිමාන්න මන්ත්‍රීවරයා පවසයි.
+Today's rally, led by President Mahinda Rajapaksa, marks a significant moment following the recent poll victory in Anuradhapura. The event, organized by the SLFP, aims to celebrate this success and set the stage for future political movements.
 
-ඔහු පැවසුවේ, මෙම රුලිය අනුරාධපුරයේ පැවැත්වීමට හැකි වීම පොදුජන පෙරමුණ ලැබූ ජයග්‍රහණයක් බවය.
+🟩
 
-"අද සවස 2ට අනුරාධපුර කඩපනහා පරිශ්‍රයේ දී ශ්‍රී ලංකා පොදුජන පෙරමුණේ විජයග්‍රාහි ජන රැලිය ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතාගේ ජයග්‍රහණය විජයග්‍රහණයක් වෙත ඔසවා තැබීමේ අරමුණ පෙරදැරිව මහා ජන රැලිය සංවිධානය කරනවා. මෙම සමාරම්භක ජනරැලිය අනුරාධපුරය වෙත රැගෙන ඒම අපි දේශපාලන ව්‍යාපාරයක් විදියටත් ජනාධිපතිවරණ කැම්පේන් එක ඇතුළේත් ලබපු ජයග්‍රහණයක් විදියට අපි දකිනවා."
+The President of Sri Lanka Appointed President Mahinda Rajapaksa rally will be held today (21).
+
+He said that the poll to be held in Anuradhapura was a victory.
+
+"Wijaygrava Pemi Ralis from the SLFP rally on the premises of Anuradhapura at 2 pm. We see this inauguration to Anuradhapura and see a victory that we have been in a political movement and the victory in the presidential campaign. "
 
 ◼️
 
 [Data](articles/8de7adc1.json)
+
+[Extended Data](ext_articles/8de7adc1.ext.json)
 
 ---
 
@@ -462,19 +532,25 @@ The program, initiated and promoted by the Sri Lanka Industries Ministry, extend
 
 ---
 
-### இன்றும் பலத்த மழை
+### Heavy rain today
 
 *2024-08-21 01:06:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பலத்த-மழை/175-342544) · `ta`
 
-இலங்கையின் தென் மேற்கு பகுதியில் நிலவும் மழையுடனான வானிலை இன்றும் தொடரும் என எதிர்பார்க்கப்படுகிறது.
+Sri Lanka's southwest, including Galle, Matara, and parts of Sabaragamuwa, expects over 100mm of heavy rain today. The North Western Province, along with Kandy and Nuwara Eliya districts, may see intermittent rain or thunderstorms.
 
-இதற்கமைய மேல் மற்றும் சபரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+🟩
 
-அத்துடன், வடமேல் மாகாணத்திலும், கண்டி மற்றும் நுவரெலியா ஆகிய மாவட்டங்களிலும் இடைக்கிடையே மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. (a)
+The rainy weather is expected to continue today in the south -west of Sri Lanka.
+
+The Department of Meteorology has predicted more than 100 millimeters of heavy rainfall in some areas of Galle and Matara districts in the upper and Sabaragamuwa provinces.
+
+The Department of Meteorology has forecast intermittent rain or thunderstorms in the North Western Province and Kandy and Nuwara Eliya districts.. (A)
 
 ◼️
 
 [Data](articles/2b924c42.json)
+
+[Extended Data](ext_articles/2b924c42.ext.json)
 
 ---
 
@@ -617,6 +693,30 @@ The stamp is 205 millimeters long, the Presidential Media Unit said. (A)
 [Data](articles/79b05ca1.json)
 
 [Extended Data](ext_articles/79b05ca1.ext.json)
+
+---
+
+### Challenges & Limitations Of Presidential Candidates
+
+*2024-08-21 00:25:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/challenges-limitations-of-presidential-candidates/) · `en`
+
+Since the day nominations were accepted for the presidential election, the atmosphere has intensified progressively. Even months before the election date was set, the National People’s Power (NPP) began its campaign with a meticulously planned strategy, positioning itself ahead in the early stages. However, as other candidates entered the race, the competition has grown increasingly fierce. The current president, who started the race with minimal public support, has made considerable progress according to reports. Meanwhile, the Samagi Jana Balawegaya (SJB) has managed to pose a strong challenge to the NPP, forming a broad multiethnic coalition. Despite this, most surveys indicate that a majority of voters are still undecided, making the upcoming weeks crucial for securing victory.
+
+...
+
+[Data](articles/8c5da219.json)
+
+---
+
+### Make Your Vote Count
+
+*2024-08-21 00:09:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/make-your-vote-count/) · `en`
+
+In a true democracy, the selection of candidates and the election process should involve the entire population equally. Unfortunately, our current election rules allow only a select few to become candidates without requiring any public endorsement, such as a stepwise regional election process within the party. Our system favours existing politicians and makes it virtually impossible to register a political party to address specific issues. It is a significant obstacle to a fair and inclusive democratic process. Despite the wishes expressed by the ordinary people during ‘Aragalaya 2022,’ we are left with mostly the same 225 candidates to choose from once again, a situation that should concern us all.
+
+...
+
+[Data](articles/e6010ed9.json)
 
 ---
 
@@ -1081,6 +1181,20 @@ President Ranil Wickremesinghe has been awarded by the officials of the Departme
 [Data](articles/68f71f67.json)
 
 [Extended Data](ext_articles/68f71f67.ext.json)
+
+---
+
+### කෙහෙළිය ඇතුළු පිරිසකගෙන් රු. කෝටි 30ක් වන්දි ඉල්ලයි
+
+*2024-08-20 19:52:22* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ඇතුළු-පිරිසකගෙන්-රු--කෝටි-30ක්-වන්දි-ඉල්ලයි/11-411474) · `si`
+
+නුවරඑළිය රජයේ මහ රෝහලෙන් කළ ඇසේ සුද ඉවත් කිරීමේ ශල්‍යකර්මවලින් පසු ලබාදුන් ඖෂධ හේතුවෙන් ඇස් පෙනීම අහිමි වීමට වන්දි වශයෙන් හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සෞඛ්‍ය හා රෝහල් බලධාරීන්ගෙන් රුපියල් කෝටි 30 ක වන්දි අය කරදෙන්නැයි ඉල්ලා පුරවැසියන් තිදෙනෙක් කොළඹ දිසා අධිකරණයේ නඩු තුනක් අද (20දා) පැවරූහ.
+
+තමන් සදාකාලික අන්ධභාවයට පත්වීමට හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතා ප්‍රමුඛ අදාළ ඖෂධය ඉන්දියානු සමාගමෙන් මෙරටට ගෙන්වීමට අවසර දුන් බලධාරීන්, ඖෂධය අනුමත කළ බලධාරීන් මෙන්ම ඖෂධය ගෙන්වූ සමාගම සම්පූර්ණයෙන්ම වගකිවයුතු බව සඳහන් කරමින් පෙත්සම්කරුවන් මෙම වන්දි නඩු ගොනු කර ඇත.
+
+...
+
+[Data](articles/1f1515f6.json)
 
 ---
 
@@ -2165,141 +2279,5 @@ The broader All Share Index closed down 0.08 percent, or 9.46 points, at 11,494;
 [Data](articles/f4697853.json)
 
 [Extended Data](ext_articles/f4697853.ext.json)
-
----
-
-### 300 million lawsuit
-
-*2024-08-20 16:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-300-மில்லியன்-இழப்பீடு-கோரி-வழக்குத்-தாக்கல்/175-342518) · `ta`
-
-Three patients suing over permanent vision loss post-cataract surgery at State Hospital, blaming 'Brednisolane acetate' eye drops. Case includes former Health Minister Keheliya Rambukwella and 10 others, filed for 300 million.
-
-🟩
-
-Three patients who have been subjected to permanent vision loss have filed a case in the Colombo District Court today due to the use of the 'Brednisolone acetatein' eye drops used after cataract surgery at the State Hospital.
-
-Former Health Minister Keheliya Rambukwella and 10 persons from Rs.. The case has been filed with only 300 million.
-
-Keheliya Rambukwella, Janaka Chandragupta, National Drug Regulatory Commission, Professor. S.. Jayaratne, Doctor. Vijith Gunasekera, Doctor. Asela Gunawardena, Doctor. Rohan enemy, doctor. Mahendra Seneviratne, Sammy Chemist (Private), Indian OPLL. The Attorney General referred to the defendants of the case.
-
-◼️
-
-[Data](articles/09eb4ac3.json)
-
-[Extended Data](ext_articles/09eb4ac3.ext.json)
-
----
-
-### India and Sri Lankan companies enter into agreement for sounds
-
-*2024-08-20 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200136) · `si`
-
-India's Petronet LNG and Sri Lanka's Litingtons LNG sign an MoU for sound Sangetables transport to Kerawalapitiya. The deal was facilitated by Sri Lanka's Power and Energy Minister Kanchana Wijesekera and the Indian Deputy High Commissioner.
-
-🟩
-
-Sangetables to Kerawalapitiya
-
-The Presidential Media Unit said that the MoU was signed between Ltdings LNG in Sri Lanka and Petront Lng in India.
-
-The proceedings of the Power and Energy Minister Kanchana Wijesekera and the leaders of the Indian Deputy High Commissioner in Sri Lanka have been carried out.
-
-◼️
-
-[Data](articles/e44978b3.json)
-
-[Extended Data](ext_articles/e44978b3.ext.json)
-
----
-
-### Ranil Wickremesinghe - Ishaq Rahman
-
-*2024-08-20 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191538) · `ta`
-
-Ishaq Rahman, an Anuradhapura district parliamentarian, supports Ranil Wickremesinghe due to his leadership during the country's crisis, highlighting Wickremesinghe's foresight and efforts to secure essential goods like fertilizer and fuel. Despite opposition party concerns, Wickremesinghe allocated funds for district development, earning praise from Rahman. This move, along with Wickremesinghe's ability to address national needs, has garnered Rahman's confidence in Wickremesinghe's leadership capabilities across political lines.
-
-🟩
-
-Ranil Wickremesinghe is the only leader who has shown that he can take responsibility for the falling country. So I decided to support Ranil Wickremesinghe to give him power. The Anuradhapura People's Party did not vote for me. "I am confident that people will support me in any party," said Ishaq Rahman, an Anuradhapura district parliamentarian who joined the United National Party.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (20).
-
-When the country collapsed two years ago, no one came forward to take charge of the country. Opposition parties withdrawn fear that the country will be unable to do politics in the future. Ranil Wickremesinghe was the only country in the country to consider the future of the country when everyone in Parliament only considered their future.
-
-When Ranil Wickremesinghe was in charge of the country, the farmers did not get fertilizer for 50 thousand rupees.
-
-...
-
-[Data](articles/2cd1ad6d.json)
-
-[Extended Data](ext_articles/2cd1ad6d.ext.json)
-
----
-
-### 17 ex-PS members of SLPP pledge support to Ranil
-
-*2024-08-20 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101374/17-ex-ps-members-of-slpp-pledge-support-to-ranil) · `en`
-
-Seventeen former Kurunegala Pradeshiya Sabha members of the Sri Lanka Podujana Peramuna (SLPP) have extended their support to President Ranil Wickremesinghe in the upcoming presidential election.
-
-This decision follows a meeting with the UNP Assistant Leader, Akila Viraj Kariyawasam.
-
-During the said meeting, they have assured their commitment to work towards President Wickremesinghe’s victory in election.
-
-Meanwhile, the appointment letters were presented yesterday (19) to the newly appointed District Organizers of the UNP at the party’s headquarters – Sirikotha, under the patronage of President Ranil Wickremesinghe.
-
-MP Ishak Rahuman, and former MPs P. Harrison, and W. B. Ekanayake were appointed as District Organizers for Anuradhapura while Nishantha Sri Warnasinghe, a former member of the Jathika Hela Urumaya (JHU), was appointed as a Colombo District UNP Organizer.
-
-Additionally, former Deputy Minister Nishantha Muthuhettigamage, was appointed as a Galle District UNP Organizer.
-
-...
-
-[Data](articles/5c2975a4.json)
-
-[Extended Data](ext_articles/5c2975a4.ext.json)
-
----
-
-### Memorandum of Understanding (MoU) to reposit liquid natural gas to the Karavalapitiya Integrated Cotational Power Plant
-
-*2024-08-20 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/191541) · `ta`
-
-An MoU was signed on 20th day between Ltd Holdings Limited, LTL Holdings Limited, and India's LNG Home Transfer and Distribution companies. Chaired by Sri Lanka's Minister of Power and Energy Kanjana Wijesekera and India's Deputy High Commissioner, it aims to reposit liquid natural gas to the Karavalapitiya Integrated Cotational Power Plant.
-
-🟩
-
-Ltdl Holdings Limited, LTL Holdings Limited, LNG Home Transfer and Distribution of Liquefied Natural Gas (LNG) GThe Memorandum of Understanding (MoU) was signed today (20) between Limited and India.
-
-The event was chaired by Minister of Power and Energy Kanjana Wijesekera and Indian Deputy High Commissioner to Sri Lanka.
-
-◼️
-
-[Data](articles/a347ea42.json)
-
-[Extended Data](ext_articles/a347ea42.ext.json)
-
----
-
-### Why not shake hands with the president?
-
-*2024-08-20 15:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-சஜித்-கைகுலுக்காதது-ஏன்/175-342517) · `ta`
-
-Sujeewa Senasinghe criticized Sajith Premadasa for not shaking hands with President Ranil Wickremesinghe, calling it unnecessary fuss. He suggested a warm greeting like "Ayubowan" would've been healthier, reflecting the Sri Lankan culture. However, he also mentioned the impossibility of congratulating Kamala Harris due to her disability, and responded to criticisms by labeling Premadasa's actions as arrogant and disgusting.
-
-🟩
-
-SJB's vice -president Sujeewa Senasinghe today said that the failure of Opposition Leader Sajith Premadasa with the current President Ranil Wickremesinghe on the day of the filing of the nomination was creating unnecessary confusion.
-
-“Some people create unnecessary fuss about the matter. It would have been nice if President Wickremasinghe had congratulated Premadasa. Greeting 'Ayubovan' would have been healthy and sweet and the best way to greet. This is the real Sri Lankan greeting system, ”he said at a media briefing.
-
-"But, of course, one cannot congratulate Kamala Haris as a handicap," he said.
-
-Responding to the comments made by National People's Power Candidate Anurakumara Dissanayake that Premadasa had acted with the president, Senasinghe said that he had expressed his arrogance and disgust.
-
-◼️
-
-[Data](articles/75beb353.json)
-
-[Extended Data](ext_articles/75beb353.ext.json)
 
 ---

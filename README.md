@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 20:21:47**
+As of **2024-08-21 20:37:01**
 
 ## Newspaper Stats
 
-*Scraped **41,936** Articles*
+*Scraped **41,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,701
 adalk | 3,865
 dailymirrorlk | 4,733
 adaderanalk | 4,908
-tamilmirrorlk | 5,433
+tamilmirrorlk | 5,434
 virakesarilk | 6,674
 adaderanasinhalalk | 7,163
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,934 (100.0%) of 41,936 articles have been extended.
+41,936 (100.0%) of 41,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### மலைப்பாம்புகளை மறைத்து வைத்திருந்த கும்பல் கைது
+
+*2024-08-21 20:07:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைப்பாம்புகளை-மறைத்து-வைத்திருந்த-கும்பல்-கைது/175-342587) · `ta`
+
+சட்டவிரோதமான முறையில் இலங்கைக்கு கொண்டு வரப்பட்டிருந்த நான்கு வெளிநாட்டு மலைப்பாம்புகளை வத்தளை பொலிஸார் இன்று (21) கைது செய்துள்ளனர்.
+
+இந்த சோதனையின் போது இலங்கையின் சதுப்பு நில முதலை ஒன்றும் கண்டுபிடிக்கப்பட்டதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+வத்தளை பிரதேசத்தில் உள்ள பெட்டிக்கடை ஒன்றின் மாடியில் விலங்குகள் மறைத்து வைக்கப்பட்டிருந்த நிலையில், சம்பவம் தொடர்பில் கடையின் உரிமையாளர் மற்றும் ஊழியர்கள் இருவரையும் வத்தளை பொலிஸார் கைது செய்துள்ளனர்.
+
+இந்த விலங்குகளை பயணப் பொதிகளில் மறைத்து வைத்து இலங்கைக்கு கொண்டு வரப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+சதுப்பு நில முதலை இலங்கையின் வறண்ட பிரதேசத்தில் அமைந்துள்ள ஏரியில் இருந்து பிடிக்கப்பட்டதாக சந்தேகிக்கப்படுகிறது, மேலும் இந்த விலங்கு 300,000 ரூபாவுக்கு விற்பனைக்கு தயாராக இருந்தமையும் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+இந்த விலங்குகளை தெஹிவளை மிருகக்காட்சிசாலைக்கு அனுப்பி அவை பற்றிய அறிக்கையைப் பெறுவதற்கு பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேகநபர்கள் வத்தளை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளனர் R
+
+◼️
+
+[Data](articles/67b2ccef.json)
+
+---
 
 ### Sri Lanka approves visa-free facility for citizens of 35 countries
 
@@ -44,21 +68,29 @@ This policy will be in effect from October 1, 2024, for a period of six months.
 
 [Data](articles/764b1bb6.json)
 
+[Extended Data](ext_articles/764b1bb6.ext.json)
+
 ---
 
-### රටවල් 35ක පුරවැසියන්ට වීසා රහිතව මෙරටට ඇතුළුවීමට කැබිනට් අනුමැතිය
+### Cabinet approval for citizens of 35 countries
 
 *2024-08-21 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200187) · `si`
 
-රටවල් 35ක පුරවැසියන් සඳහා වීසා රහිතව මෙරටට ඇතුළුවීමට කැබිනට් අනුමැතිය ලබාදී තිබේ.
+The cabinet has approved a six-month visa-free entry for citizens of 35 countries, including the UK, Canada, Australia, China, India, Russia, South Korea, and Japan, starting October 1, 2024.
 
-එක්සත් රාජධානිය, අමෙරිකාව, කැනඩාව, ජර්මනිය, ඔස්ට්‍රේලියාව, සෞදි අරාබිය, චීනය, ඉන්දියාව, රුසියාව, දකුණු කොරියාව සහ ජපානය ඇතුළු රටවල් 35ක් ඊට අයත්ය.
+🟩
 
-එම අවස්ථාව ලැබෙන්නේ 2024 ඔක්තෝබර් 01 සිට මාස 06ක කාලටක් සඳහාය.
+Cabinet has approved the entry for the citizens of 35 countries.
+
+It contains 35 countries including the United Kingdom, Canada, Australia, Australia, Australia, Australia, China, India, Russia, Russia, Russia, Russia, Russia, South Korea and Japan.
+
+The opportunity comes for a period of six months from October 1, 2024.
 
 ◼️
 
 [Data](articles/f186c146.json)
+
+[Extended Data](ext_articles/f186c146.ext.json)
 
 ---
 
@@ -2339,29 +2371,5 @@ The two officers have been deployed on motorbike from 6 pm on the 14th of the af
 [Data](articles/4e6f2864.json)
 
 [Extended Data](ext_articles/4e6f2864.ext.json)
-
----
-
-### A man arrested for assassinating and murder
-
-*2024-08-21 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191584) · `ta`
-
-In Kalapitamada, a man was arrested for allegedly murdering his mother-in-law over a money dispute. The victim was attacked and later died at Karawanella Hospital. Police continue investigating the case.
-
-🟩
-
-A man who was assassinated and killed by his wife and daughter was arrested in the Levancama area of ​​Kalapitamada, police said.
-
-The suspect was assaulted and assaulted by a mother -in -law on Tuesday (20) in the Kalapitamada police division, police said.
-
-The suspect hit the head of the mother -in -law due to a money dispute. Meanwhile, a mother -in -law, who was seriously injured, died after being admitted to the Karawanella Hospital.
-
-The 44 -year -old suspect has been arrested in connection with the incident and Kalapitamada police are conducting further investigations.
-
-◼️
-
-[Data](articles/eaa49f7a.json)
-
-[Extended Data](ext_articles/eaa49f7a.ext.json)
 
 ---

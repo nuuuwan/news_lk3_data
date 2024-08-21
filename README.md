@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 20:08:31**
+As of **2024-08-21 20:21:47**
 
 ## Newspaper Stats
 
-*Scraped **41,934** Articles*
+*Scraped **41,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,44 +17,86 @@ economynextcom | 2,527
 dailyftlk | 2,701
 adalk | 3,865
 dailymirrorlk | 4,733
-adaderanalk | 4,907
+adaderanalk | 4,908
 tamilmirrorlk | 5,433
 virakesarilk | 6,674
-adaderanasinhalalk | 7,162
+adaderanasinhalalk | 7,163
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,931 (100.0%) of 41,934 articles have been extended.
+41,934 (100.0%) of 41,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### හෙට සිට ධීවරයින්ට ඉන්ධන සහ තේ වගාකරුවන්ට පොහොර සහනාධාරයක්
+### Sri Lanka approves visa-free facility for citizens of 35 countries
+
+*2024-08-21 20:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101403/sri-lanka-approves-visa-free-facility-for-citizens-of-35-countries-) · `en`
+
+The Cabinet of Ministers has decided to grant visa-free access to Sri Lanka for citizens of 35 countries, including the UK, USA, Canada, Germany, Australia, Saudi Arabia, China, India, Russia, South Korea, and Japan.
+
+This policy will be in effect from October 1, 2024, for a period of six months.
+
+◼️
+
+[Data](articles/764b1bb6.json)
+
+---
+
+### රටවල් 35ක පුරවැසියන්ට වීසා රහිතව මෙරටට ඇතුළුවීමට කැබිනට් අනුමැතිය
+
+*2024-08-21 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200187) · `si`
+
+රටවල් 35ක පුරවැසියන් සඳහා වීසා රහිතව මෙරටට ඇතුළුවීමට කැබිනට් අනුමැතිය ලබාදී තිබේ.
+
+එක්සත් රාජධානිය, අමෙරිකාව, කැනඩාව, ජර්මනිය, ඔස්ට්‍රේලියාව, සෞදි අරාබිය, චීනය, ඉන්දියාව, රුසියාව, දකුණු කොරියාව සහ ජපානය ඇතුළු රටවල් 35ක් ඊට අයත්ය.
+
+එම අවස්ථාව ලැබෙන්නේ 2024 ඔක්තෝබර් 01 සිට මාස 06ක කාලටක් සඳහාය.
+
+◼️
+
+[Data](articles/f186c146.json)
+
+---
+
+### Fuel and tea growers have been a fertilizer subsidy to fuel and tea growers
 
 *2024-08-21 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200186) · `si`
 
-හෙට (22) සිට වහාම ක්‍රියාත්මක වන පරිදි ධීවරයින් සඳහා ඩීසල් සහ භූමිතෙල් සඳහා රුපියල් 25ක සහනාධාරයක් ලබාදීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+The government approved subsidies for both fuel and tea growers, aiding their industries significantly.
 
-ඊට අමතරව තේ වගාකරුවන් සඳහා රුපියල් 4,000ක පොහොර සහනාධාරයක් ද ලබාදීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+🟩
+
+Cabinet approval has been given to grant a subsidy of Rs.
+
+In addition, Cabinet approval has been given to provide a fertilizer subsidy for tea growers.
 
 ◼️
 
 [Data](articles/0c29c9b3.json)
 
+[Extended Data](ext_articles/0c29c9b3.ext.json)
+
 ---
 
-### 35 நாடுகளுக்கு இலவச விசா அணுகல்
+### Free Visa Access to 35 countries
 
 *2024-08-21 19:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-நாடுகளுக்கு-இலவச-விசா-அணுகல்/175-342586) · `ta`
 
-2024 ஆம் ஆண்டு ஒக்டோபர் 1 ஆம் திகதி முதல் 35 நாட்டு பயணிகள் விசா இன்றி இலங்கைக்கு வருவதற்கு அமைச்சரவை தீர்மானித்துள்ளதாக சுற்றுலாத்துறை அமைச்சின் ஆலோசகர் ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+Sri Lanka will allow visa-free entry to tourists from 35 countries starting October 1, 2024, as announced by Tourism Minister Harin Fernando.
+
+🟩
+
+Tourism Ministry Advisor Harin Fernando said that the Cabinet has decided to visit Sri Lanka without a visa on October 1, 2024.
 
 ◼️
 
 [Data](articles/3ee6bb14.json)
+
+[Extended Data](ext_articles/3ee6bb14.ext.json)
 
 ---
 
@@ -134,17 +176,23 @@ Drugs were found at the Maldrolent Drug Trafficker in Kahathuduwa on June 9.
 
 ---
 
-### වඩිවේල්ට හා අලී සහීර්ට අමාත්‍යධුර
+### Minister of Vadiwil and Ali Saureer
 
 *2024-08-21 18:48:43* · [`adalk`](https://www.ada.lk/breaking_news/වඩිවේල්ට-හා-අලී-සහීර්ට-අමාත්‍යධුර/11-411491) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන වඩිවෙල් සුරේෂ් මහතා ට සහ අලි සාහීර් මව්ලානා මහතාට අමාත්‍ය ධුර පිරිනමා තිබේ. ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ සිට ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට පැමිණි මන්ත්‍රී අලි සාහීර් මව්ලානා මහ කැබිනට් නොවන සංවර්ධන ව්‍යාපෘති අමාත්‍ය ධුරය පිරිනමා ඇත.
+Vadivel Suresh and Ali Sahar Mollana were appointed ministers, with Suresh taking on labor issues and Mollana focusing on non-cabinet development projects. Both have supported President Ranil Wickremesinghe.
 
-සමගි ජනබලවේගයේ සිට ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට පැමිණි මන්ත්‍රී වඩිවෙල් සුරේෂ් මහතා  කම්කරු රාජ්‍ය අමාත්‍යවරයා ලෙස පත්කර තිබේ.
+🟩
+
+Members of Parliament, Vadivel Suresh, was given ministerial portfolio and Ali Sahar Mollana. Member Ali Sarare Moulana has been awarded a non-cabinet cabinet development projects who had been supporting President Ranil Wickremesinghe from the Sri Lanka Muslim Congress.
+
+MP Vadiwell Suresh has been appointed as the State Minister of Labor to support Ranil Wickremesinghe from unity.
 
 ◼️
 
 [Data](articles/3c865e6d.json)
+
+[Extended Data](ext_articles/3c865e6d.ext.json)
 
 ---
 
@@ -2315,51 +2363,5 @@ The 44 -year -old suspect has been arrested in connection with the incident and 
 [Data](articles/eaa49f7a.json)
 
 [Extended Data](ext_articles/eaa49f7a.ext.json)
-
----
-
-### Another murder was led by Dubai
-
-*2024-08-21 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200165) · `si`
-
-In Dubai, a murder plot led by underworld figure Priyantha was executed in Sri Lanka, resulting in six arrests from various locations including Sripapitiya, Padaviya, Cabinglewa, and Parakramapura. The victims were shot in the Gemunupura Pulley Junction area, but the mastermind behind the crime remains unidentified.
-
-🟩
-
-Six persons have been arrested in the Sripapitiya area for a shooting incident.
-
-Police said that the police had been shot dead by two unidentified people in the Gemunupura Pulley Junction area.
-
-Preliminary investigations have revealed that the murder was led by the person in Dubai, underworld priyanthi aliasiri Priyantha.
-
-However, the suspects of the suspects were not the person who planned to kill the dead.
-
-The residents of Padaviya, Cabinglewa and Parakramapura areas have been arrested in the ages of 20,22, 38 and 47.
-
-◼️
-
-[Data](articles/6db18277.json)
-
-[Extended Data](ext_articles/6db18277.ext.json)
-
----
-
-### Bandula Lal Bandarigoda sworn as Sri Lanka legislator replacing Manusha
-
-*2024-08-21 09:50:00* · [`economynextcom`](https://economynext.com/bandula-lal-bandarigoda-sworn-as-sri-lanka-legislator-replacing-manusha-177472/) · `en`
-
-ECONOMYNEXT – Bandula Lal Bandarigoda, from the Galle District was sworn in as a member Sri Lanka’s parliament before Speaker Mahinda Yapa Abeywardana.
-
-He replaced Manusha Nanayakkara of the Samagi Jana Balawegaya who lost his seat following a court ruling.
-
-The post of Harin Fernando, who is a national list legislator is also vacant after the same court ruling.
-
-The two were expelled from the SJB for joining Ranil Wickremesinghe as ministers. Court upheld the decision. (Colombo/Aug21/2024)
-
-◼️
-
-[Data](articles/65f30a12.json)
-
-[Extended Data](ext_articles/65f30a12.ext.json)
 
 ---

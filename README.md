@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 22:21:53**
+As of **2024-08-21 22:36:43**
 
 ## Newspaper Stats
 
-*Scraped **41,949** Articles*
+*Scraped **41,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 4,910
 tamilmirrorlk | 5,437
 virakesarilk | 6,677
-adaderanasinhalalk | 7,165
+adaderanasinhalalk | 7,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,949 (100.0%) of 41,949 articles have been extended.
+41,949 (100.0%) of 41,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### ශ්‍රී ලංකා පළමු ඉනිම ලකුණු 236කට සීමාවෙයි
+
+*2024-08-21 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200191) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගය මැන්චෙස්ටර්, ඕල්ඩ් ට්‍රැෆර්ඩ් ක්‍රීඩා පිටියේදී අද (21) ආරම්භ වුණි.
+
+එහි කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක ධනංජය ද සිල්වා සමත්වූ අතර ඔහු තීරණය කළේ පළමුව පන්දුවට පහරදීමට ය.
+
+ඒ අනුව අද දිනයේ ශ්‍රී ලංකා කණ්ඩායමේ සියලුදෙනා දැවී ලබා ගත්තේ ලකුණු 236ක් පමණි.
+
+පළමු ඉනිමේ පන්දුවට පහරදීමට පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායමේ මුල් පෙළ අසාර්ථක වූ අතර දිමුත් , නිෂාන් මදුෂ්ක , මැතිව්ස් , කුසල් මෙන්ඩිස් හා චන්දිමාල් ලකුණු 72ක් තුළ දවාගැනීමට එංගලන්ත පන්දු යවන්නන් සමත්විය.
+
+විශිෂ්ට ඉනිමක් ක්‍රීඩා කළ ධනංජය ද සිල්වා පන්දු 84ක් තුළ ලකුණු 74ක් වාර්තා කරමින් ශ්‍රී ලංකා ඉනිම ඔසවා තැබීය.
+
+සිය මංගල ටෙස්ට් ක්‍රිකට් තරගයට එක්වූ මිලාන් රත්නායක ධනංජයට අනගි සහායක් ලබාදෙමින් පන්දු 135ක් තුළ ලකුණු 72ක් ලාබා ගත්තේය.
+
+එහිදී සිය මංගල ටෙස්ට් තරගයට එක්වූ මිලාන් රත්නායක සිය පළමු අර්ධ ශතකය වාර්තා කළේ පන්දු 96කිනි.
+
+ඉනිමේ පළමු 6 පහරද වාර්තා කළ මිලාන් සිය අර්ධ ශතකය වෙනුවෙන් 6 පහර 01ක් සහ 4 පහර 5ක් ලබා ගත්තේය.
+
+◼️
+
+[Data](articles/45f761a6.json)
+
+---
 
 ### Half-century from Milan in Mangala Test Competition
 
@@ -2371,31 +2397,5 @@ Opposition Leader Sajith Premadasa was too much in a hurry to become leader, she
 [Data](articles/9aea1197.json)
 
 [Extended Data](ext_articles/9aea1197.ext.json)
-
----
-
-### Fonseka held the meeting alone
-
-*2024-08-21 10:52:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியாக-கூட்டம்-நடாத்தினார்-பொன்சேகா/175-342553) · `ta`
-
-Field Marshal Sarath Fonseka, a presidential candidate, addressed concerns about his election campaign tactics, emphasizing transparency and respect for voters' choices. He clarified that his rallies were not funded with alcohol or meals for attendees, nor were they disruptive to local communities. Despite facing obstacles since entering politics in 2010, Fonseka remains committed to development and has declined offers from other political parties due to personal convictions. He views the sharing of his rally videos on social media as evidence of the public's political awareness.
-
-🟩
-
-Presidential candidate Field Marshal Sarath Fonseka has responded to his propaganda efforts to spread a video on social media -free election campaign.
-
-In a statement on social media, he said that his general rally had not been made available for his public rally and that the people were not brought in buses by giving alcohol or meals.
-
-Also, more than 50 posters were pasted in areas where the public did not disrupt the night before the election campaign. It was also advised to fit the loudspeakers so that the public would not be disrupted.
-
-Although a person at my public meeting, five, ten, fifty or a hundred people attended, they are more important to me than 1000 people because my loyal party supporters are. ”
-
-After entering politics in 2010, Field Marshal Sarath Fonseka said that he had tried to work for development and faced many obstacles.
-
-...
-
-[Data](articles/e21aa769.json)
-
-[Extended Data](ext_articles/e21aa769.ext.json)
 
 ---

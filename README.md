@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 13:37:06**
+As of **2024-08-21 13:56:25**
 
 ## Newspaper Stats
 
-*Scraped **41,867** Articles*
+*Scraped **41,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,527
 dailyftlk | 2,701
 adalk | 3,854
 dailymirrorlk | 4,733
-adaderanalk | 4,900
+adaderanalk | 4,901
 tamilmirrorlk | 5,420
 virakesarilk | 6,657
 adaderanasinhalalk | 7,149
@@ -26,27 +26,49 @@ adaderanasinhalalk | 7,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,866 (100.0%) of 41,867 articles have been extended.
+41,867 (100.0%) of 41,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### ජයන්ත ද සිල්වා දිවි සැරියට සමුදෙයි
+### Former CMC member Jayantha de Silva passes away
+
+*2024-08-21 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101396/former-cmc-member-jayantha-de-silva-passes-away) · `en`
+
+Former Colombo Municipal Council (CMC) member Jayantha de Silva has passed away at the age of 78.
+
+A former member of the Western Provincial Council (WPC), Mr. De Silva was synonymous with his project ‘Pragna Pradeepa’, which had donated stationary and other equipment to school children since its inception in 1988.
+
+A former member of the United National Party (UNP), he had later joined the Samagi Jana Balawegaya (SJB).
+
+◼️
+
+[Data](articles/b0ff61f6.json)
+
+---
+
+### Jayantha de Silva assumed to life
 
 *2024-08-21 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200173) · `si`
 
-හිටපු බස්නාහිර පළාත් සභා මන්ත්‍රි ජයන්ත ද සිල්වා මහතා අභාවප්‍රාප්ත වී තිබේ.
+Jayantha de Silva, former Western Provincial Councilor and Colombo Municipal Councillor, passed away. He aided poor children through the Winda Pradeshiya Sabaragamuwa Development Society and co-organized events in Borella.
 
-එක්සත් ජාතික පක්ෂයෙන් ක්‍රියාකාරී දේශපාලනයට පිවිසි ජයන්ත ද සිල්වා මහතා කොළඹ මහ නගර සභාවේ නාගරික මන්ත්‍රිවරයෙකු ලෙසත් බස්නාහිර පළාත් සභා මන්ත්‍රිවරයෙකු ලෙසත් දශක තුනකට අධික කාලයක් සේවය කර තිබේ.
+🟩
 
-ඔහු විසින් ආරම්භ කළ ප්‍රඥා ප්‍රදීප ශිෂ්‍යත්ව වැඩසටහන මඟින් දුප්පත් දරුවන් රැසකට අත්වැලක් සැපයීමට හැකියාව ලැබුණි.
+Former Western Provincial Councilor Jayantha de Silva has passed away.
 
-අභාවප්‍රාප්ත වනවිට ජයන්ත ද සිල්වා මහතා සමගි ජන බලවේගයේ බොරැල්ල අසානයේ සම සංවිධායකවරයා ලෙස කටයුතු කළේය.
+Jayantha de Silva has served as a municipal in the Colombo Municipal Council and a Western Provincial Council MP.
+
+He was able to help a number of poor children by the Winder Pradeshiya Scriptures.
+
+The passage of Delegation, Jayantha de Silva served as the co-organizer at the Borella of the Samaga.
 
 ◼️
 
 [Data](articles/933214ad.json)
+
+[Extended Data](ext_articles/933214ad.ext.json)
 
 ---
 
@@ -2197,35 +2219,5 @@ The morrowse was held in Galgamuwa town this afternoon, "a rich country, beautif
 [Data](articles/a3b2f7f5.json)
 
 [Extended Data](ext_articles/a3b2f7f5.ext.json)
-
----
-
-### ICC transferred the World Cup from Bangladesh to the United Arab Emirates
-
-*2024-08-20 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191571) · `ta`
-
-The ICC moved the Women's T20 World Cup from Bangladesh to the UAE due to security concerns and travel advisories from several countries, including Australia, India, New Zealand, UK, and Scotland. This decision came amid ongoing political unrest and violence in Bangladesh, which led to Prime Minister Sheikh Hasina's resignation. The ICC praised Bangladesh's cricket board for its efforts but cited the need for international safety assurances.
-
-🟩
-
-The R20 Women's World Cup cricket tournament has been shifted from Bangladesh to the United Arab Emirates.
-
-The International Cricket Council (ICC) has changed the place where the protests against the state in Bangladesh took place in July and early August.
-
-Prime Minister Sheikh Hasina has resigned after the fight against the state has intensified.
-
-However, there have been reports from Bangladesh that violence has been widely damaged and robbed.
-
-Bangladesh's interim government made the last attempt to hold the Women's T20 World Cup cricket match through the United Nations.
-
-However, the ICC has come to this end as some countries, including Australia, India, New Zealand, the United Kingdom (UK and Scotland), have made travel consultations not to travel to Bangladesh.
-
-'Bangladesh is not shameful that women's R20 World Cup. "We know that the Bangladesh Cricket Board will be doing the best in Eneane," said ICC Chief Executive Officer Jev Alridge.
-
-...
-
-[Data](articles/7863c481.json)
-
-[Extended Data](ext_articles/7863c481.ext.json)
 
 ---

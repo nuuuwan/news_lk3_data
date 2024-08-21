@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 11:56:35**
+As of **2024-08-21 12:10:11**
 
 ## Newspaper Stats
 
-*Scraped **41,844** Articles*
+*Scraped **41,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,527
 dailyftlk | 2,701
 adalk | 3,850
 dailymirrorlk | 4,733
-adaderanalk | 4,898
+adaderanalk | 4,899
 tamilmirrorlk | 5,416
 virakesarilk | 6,648
 adaderanasinhalalk | 7,146
@@ -26,37 +26,67 @@ adaderanasinhalalk | 7,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,829 (100.0%) of 41,844 articles have been extended.
+41,843 (100.0%) of 41,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### කරුණාදාස කොඩිතුවක්කු විපක්ෂයට යයි
+### MP Karunadasa Kodithuwakku crosses over to opposition
+
+*2024-08-21 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101394/mp-karunadasa-kodithuwakku-crosses-over-to-opposition) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Matara District MP Karunadasa Kodithuwakku has decided to crossover to the opposition in the Parliament.
+
+Delivering a special statement in Parliament today (21) to announce the decision, the MP declared that he will be supporting Opposition Leader Sajith Premadasa in the upcoming presidential election, for the benefit of the country’s future and the economy.
+
+After concluding his speech, Kodithuwakku took his seat among the opposition MPs in the Parliament.
+
+Kodithuwakku had entered parliament after securing 114,319 votes in the 2020 general election from the Matara District, under the SLPP ticket.
+
+◼️
+
+[Data](articles/30eae7b0.json)
+
+---
+
+### Kodithaki goes to Opposition
 
 *2024-08-21 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200170) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ මාතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී කරුණාදාස කොඩිතුවක්කු මහතා විපක්ෂයට එක්වීමට තීරණය කර තිබේ.
+Kodithaki joins opposition against Matara District MP Kodithakku in Sri Lanka's General Front, as announced in a parliamentary statement.
 
-පාර්ලිමේන්තුවේ දී විශේෂ ප්‍රකාශයක් සිදුකරමින් ඒ මහතා මේ බව පැවසීය.
+🟩
+
+He has decided to join the opposition to the opposition of Matara District Parliamentarian Kodithakku on the Sri Lanka General Front.
+
+He was speaking at a special statement in parliament.
 
 ◼️
 
 [Data](articles/4ee6d9f0.json)
 
+[Extended Data](ext_articles/4ee6d9f0.ext.json)
+
 ---
 
-### தலதா அத்துகோரள இராஜினாமா
+### Dalada Athukorala resigns
 
 *2024-08-21 11:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-அத்துகோரள-இராஜினாமா/175-342558) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள தனது பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்வதாக அறிவித்துள்ளார்.
+Dalada Athukorala resigned from the United People's Power party, which sparked opposition from leader Sajith Premadasa.
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஐக்கிய மக்கள் சக்தியை அமைக்கும் முடிவை தாம் எதிர்ப்பதாக அத்துகோரள தெரிவித்தார்.
+🟩
+
+United People's Power Member Talada Attukorala has announced his resignation.
+
+Opposition leader Sajith Premadasa said he was opposed to the decision to form the United People's Power.
 
 ◼️
 
 [Data](articles/481a7d28.json)
+
+[Extended Data](ext_articles/481a7d28.ext.json)
 
 ---
 
@@ -92,19 +122,27 @@ CEB reported a profit of 34.5 billion rupees for the three months ended on June 
 
 [Data](articles/a158931b.json)
 
+[Extended Data](ext_articles/a158931b.ext.json)
+
 ---
 
-### காஷ்மீரில் நிலநடுக்கம்
+### Earthquake in Kashmir
 
 *2024-08-21 11:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காஷ்மீரில்-நிலநடுக்கம்/50-342557) · `ta`
 
-பாகிஸ்தான் மற்றும் இந்திய எல்லைக்குட்பட்ட காஷ்மீர் பகுதியில் அடுத்தடுத்து சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டது.
+A strong earthquake hit the Kashmir region, affecting both Pakistan and India. Measuring 5.1 on the Richter scale, it caused significant damage to buildings, leading many residents to seek safety outdoors.
 
-ரிக்டர் அளவுகோலில் இந்த நிலநடுக்கங்கள் 5.1புள்ளிகளாக பதிவாகிய நிலையில், அங்குள்ள பல கட்டிடங்கள் குலுங்கியதால் அதிர்வினை உணர்ந்த பொதுமக்கள் தங்களது வீடுகளிலிருந்து வெளியேறி வீதியில் தஞ்சம் புகுந்தனர்.
+🟩
+
+A powerful earthquake struck in Kashmir, Pakistan and Indian border.
+
+As the earthquakes recorded 5.1 points on the Richter scale, many of the buildings there shocked the public and sought refuge on the street.
 
 ◼️
 
 [Data](articles/8b4f456f.json)
+
+[Extended Data](ext_articles/8b4f456f.ext.json)
 
 ---
 
@@ -154,33 +192,45 @@ In 2020, she was elected to Parliament with 45,105 preferential votes in the Rat
 
 ---
 
-### தலதா விசேட உரை: அதிரடி முடிவை எடுக்க முஸ்தீபு
+### Dalada Special Text: Mustafabu to make action decision
 
 *2024-08-21 10:59:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-விசேட-உரை-அதிரடி-முடிவை-எடுக்க-முஸ்தீபு/175-342556) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் இரத்தினபுரி மாவட்ட  பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள  பாராளுமன்றத்தில் விசேட உரையாற்றி கொண்டிருக்கின்றார். அவர், கட்சி மாறுவார் என தகவல்கள் வெளியாகியிருந்த நிலையில், விசேட உரையாற்றிக்கொண்டிருக்கின்றார்.
+Mustafabu, a member of the United People's Power Party, delivered a significant speech indicating potential changes within the party. Following this address, he plans to make a crucial decision regarding his political path.
 
-இந்த உரையின் பின்னர், தன்னுடைய அரசியல் பயணம் தொடர்பில் தீர்மானமிக்க முடிவை எடுப்பார் என்று தகவல்கள் தெரிவிக்கின்றன.
+🟩
+
+United People's Power Member of Parliament of the United People's Power. He has been addressing a special speech as it has been reported that the party will change.
+
+After the speech, he will make a decisive decision on his political journey.
 
 ◼️
 
 [Data](articles/098e7186.json)
 
+[Extended Data](ext_articles/098e7186.ext.json)
+
 ---
 
-### ”குரங்கம்மைக்கு முகங்கொடுக்க தயார்”
+### "Ready to face the monkey"
 
 *2024-08-21 10:59:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்கம்மைக்கு-முகங்கொடுக்க-தயார்/175-342555) · `ta`
 
-சில வருடங்களுக்கு முன்னர் இருந்ததை விட குரங்கம்மைக்கு முகங்கொடுக்க இலங்கை சிறப்பாக தயாராகி வருவதாக சுகாதார அமைச்சர் ரமேஷ் பத்திரன இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+Sri Lanka is preparing to tackle a monkey issue, as stated by Health Minister Ramesh Pathirana in parliament. Measures are in place to protect citizens from potential harm, with the health ministry's readiness significantly improved compared to previous years.
 
-பாராளுமன்ற உறுப்பினர் ரவூப் ஹக்கீம் எழுப்பிய கேள்விக்கு பதிலளித்த அமைச்சர், மக்கள் பாதிக்கப்படாமல் இருக்க தேவையான அனைத்து நடவடிக்கைகளும் எடுக்கப்பட்டுள்ளதாக தெரிவித்தார்.
+🟩
 
-"சுகாதார அமைச்சகத்தின் தொற்றுநோய்க்கான தயார்நிலை கடந்த ஆண்டுகளை விட இப்போது மிகவும் சிறப்பாக உள்ளது. மக்கள் பாதிக்கப்படாமல் இருக்க தேவையான அனைத்து நடவடிக்கைகளையும் அவர்கள் எடுத்துள்ளனர்," என்று அவர் கூறினார்
+Health Minister Ramesh Pathirana told parliament today that Sri Lanka is preparing to face monkeys a few years ago.
+
+Responding to a question raised by MP Rauf Hakeem, the minister said that all necessary measures have been taken to prevent the people from harm.
+
+“The Ready for Infection of the Ministry of Health is now much better than last years. They have taken all necessary measures to keep people from being affected, ”he said
 
 ◼️
 
 [Data](articles/6ce3dd53.json)
+
+[Extended Data](ext_articles/6ce3dd53.ext.json)
 
 ---
 
@@ -224,37 +274,53 @@ Opposition Leader Sajith Premadasa was too much in a hurry to become leader, she
 
 [Data](articles/9aea1197.json)
 
+[Extended Data](ext_articles/9aea1197.ext.json)
+
 ---
 
-### தனியாக கூட்டம் நடாத்தினார் பொன்சேகா
+### Fonseka held the meeting alone
 
 *2024-08-21 10:52:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியாக-கூட்டம்-நடாத்தினார்-பொன்சேகா/175-342553) · `ta`
 
-ஜனாதிபதி வேட்பாளர் பீல்ட் மார்ஷல் சரத் பொன்சேகா, சமூக ஊடகங்களில் மக்கள் கூட்டம் இல்லாத தேர்தல் பிரசாரம் தொடர்பான காணொளி ஒன்று பரவியதற்கு தனது பிரச்சார முயற்சிகள் உண்மையானவை என பதிலளித்துள்ளார்.
+Field Marshal Sarath Fonseka, a presidential candidate, addressed concerns about his election campaign tactics, emphasizing transparency and respect for voters' choices. He clarified that his rallies were not funded with alcohol or meals for attendees, nor were they disruptive to local communities. Despite facing obstacles since entering politics in 2010, Fonseka remains committed to development and has declined offers from other political parties due to personal convictions. He views the sharing of his rally videos on social media as evidence of the public's political awareness.
 
-சமூக ஊடகங்களில் ஒரு அறிக்கையில், தனது பொது பேரணிக்கு போக்குவரத்து ஏற்பாடுகள் செய்யப்படவில்லை என்றும், மது அல்லது சாப்பாடு கொடுத்து மக்களை பேருந்துகளில் அழைத்து வரவில்லை என்றும் கூறினார்.
+🟩
 
-மேலும், தேர்தல் பிரச்சாரத்திற்கு முந்தைய நாள் இரவு பொதுமக்களுக்கு இடையூறு இல்லாத பகுதிகளில் 50க்கும் மேற்பட்ட சுவரொட்டிகள் ஒட்டப்பட்டன. பொதுமக்களுக்கு இடையூறு ஏற்படாத வகையில் ஒலிபெருக்கிகளை பொருத்தவும் அறிவுறுத்தப்பட்டது.
+Presidential candidate Field Marshal Sarath Fonseka has responded to his propaganda efforts to spread a video on social media -free election campaign.
 
-எனது பொதுக்கூட்டத்தில் ஒரு நபராக இருந்தாலும், ஐந்து, பத்து, ஐம்பது பேர் அல்லது நூறு பேர் கலந்து கொண்டாலும், எனது விசுவாசமான கட்சி ஆதரவாளர்கள் என்பதால் 1000 பேரை விட, அவர்கள் எனக்கு முக்கியமானவர்கள்,'' என்று கூறினார்.
+In a statement on social media, he said that his general rally had not been made available for his public rally and that the people were not brought in buses by giving alcohol or meals.
+
+Also, more than 50 posters were pasted in areas where the public did not disrupt the night before the election campaign. It was also advised to fit the loudspeakers so that the public would not be disrupted.
+
+Although a person at my public meeting, five, ten, fifty or a hundred people attended, they are more important to me than 1000 people because my loyal party supporters are. ”
+
+After entering politics in 2010, Field Marshal Sarath Fonseka said that he had tried to work for development and faced many obstacles.
 
 ...
 
 [Data](articles/e21aa769.json)
 
+[Extended Data](ext_articles/e21aa769.ext.json)
+
 ---
 
-### பண்டாரிகொட எம்.பியாக சத்தியப்பிரமாணம்
+### Bandarigoda MP
 
 *2024-08-21 10:43:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டாரிகொட-எம்-பியாக-சத்தியப்பிரமாணம்/175-342552) · `ta`
 
-பந்துல லால் பண்டாரிகொட  சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில் பாராளுமன்ற உறுப்பினராக இன்று சத்தியப்பிரமாணம் செய்து கொண்டார்.
+Mahinda Yapa Abeywardena sworn in as MP, replacing former minister Manusha Nanayakkara who lost his seat.
 
-முன்னாள் அமைச்சர் மனுஷ நாணயக்கார தனது பாராளுமன்ற உறுப்பினர் பதவியை இழந்ததையடுத்து ஏற்பட்ட வெற்றிடத்திற்கே அவர் நியமிக்கப்பட்டு பதவிப்பிரமாணம் செய்துகொண்டார்.
+🟩
+
+Bandula Lal Bandarigoda Speaker Mahinda Yapa Abeywardena today sworn in as a Member of Parliament.
+
+Former minister Manusha Nanayakkara lost his parliamentary post and was appointed to the vacancy.
 
 ◼️
 
 [Data](articles/1bcdbc61.json)
+
+[Extended Data](ext_articles/1bcdbc61.ext.json)
 
 ---
 
@@ -339,6 +405,8 @@ From left: Piyumi Wattuhewa, Meera Nadarasa, Tashini Vithanage, Thanuki Goonesin
 ...
 
 [Data](articles/96796336.json)
+
+[Extended Data](ext_articles/96796336.ext.json)
 
 ---
 
@@ -428,6 +496,8 @@ The two were expelled from the SJB for joining Ranil Wickremesinghe as ministers
 
 [Data](articles/65f30a12.json)
 
+[Extended Data](ext_articles/65f30a12.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens weaker at 299.80/300.20 to US dollar
@@ -451,6 +521,8 @@ In equities, Colombo’s All Share Price Index opened 13.82 points higher at 11,
 ◼️
 
 [Data](articles/517abc67.json)
+
+[Extended Data](ext_articles/517abc67.ext.json)
 
 ---
 
@@ -534,19 +606,25 @@ The Parliamentary Council has started its session, focusing on legislative discu
 
 ---
 
-### நாமலின் முதலாவது   கூட்டம் இன்று
+### Namal's first meeting today
 
 *2024-08-21 09:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-முதலாவது-கூட்டம்-இன்று/175-342547) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முதலாவது தேர்தல் பிரச்சார கூட்டம்  அனுராதபுரத்தில் இன்று (21)நடைபெறவுள்ளதாக பாராளுமன்ற உறுப்பினர் சஞ்சீவ எதிரிமான்ன தெரிவித்துள்ளார்.
+Today marks the inaugural election campaign meeting for Sri Lanka PA's presidential candidate Namal Rajapaksa in Anuradhapura, aiming to boost his chances in the upcoming elections.
 
-ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவை வெற்றியடையச் செய்யும் நோக்கில் இன்று பிற்பகல் 2 மணிக்கு அனுராதபுரம் கடபனஹா பிரதேசத்தில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் மாபெரும் தேர்தல் பிரச்சார கூட்டம் ஏற்பாடு செய்யப்பட்டுள்ளது.
+🟩
 
-இந்த முதலாவது பிரச்சார கூட்டத்தை அநுராதபுரத்திற்கு கொண்டு சென்றமை ஜனாதிபதித் தேர்தல் பிரச்சாரத்துக்கு கிடைத்த வெற்றியாகவும் பார்க்கிறோம் எனவும் அவர் குறிப்பிட்டார். R
+Parliamentarian Sanjeewa Eneharanna said that the first election campaign meeting of the Sri Lanka PA will be held in Anuradhapura today (21).
+
+The Sri Lanka PA has organized a massive election campaign meeting in Kadabanaha, Anuradhapura at 2 pm today to win the presidential candidate Namal Rajapaksa.
+
+He also said that the first campaign meeting was brought to Anuradhapura as a victory for the presidential election campaign.. Remble
 
 ◼️
 
 [Data](articles/10a75b3e.json)
+
+[Extended Data](ext_articles/10a75b3e.ext.json)
 
 ---
 
@@ -605,6 +683,8 @@ The proposal is an interim solution to start LNG for power generation in Sri Lan
 ...
 
 [Data](articles/410f5207.json)
+
+[Extended Data](ext_articles/410f5207.ext.json)
 
 ---
 
@@ -2121,29 +2201,5 @@ In December 2021, the Government of India decided to provide financial assistanc
 [Data](articles/30652d63.json)
 
 [Extended Data](ext_articles/30652d63.ext.json)
-
----
-
-### Sri Lanka team coming to the competition tomorrow
-
-*2024-08-20 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200145) · `si`
-
-The Sri Lankan cricket team arrives in Manchester today for their first Test against England, starting tomorrow. Milan Ratnayake, a right-handed bowler from Akiyapola and alumnus of Sri Sumangala Vidyalaya, will be part of the squad.
-
-🟩
-
-The first Test between Sri Lanka and England begins tomorrow (21) at Manchester, Oldster, England.
-
-The Sri Lankan team is already designated for the match.
-
-Milan Ratnayake participates in the Test for Sri Lanka in this match.
-
-He is a right-handed bowler, Akiyapola, an alumni of Sri Sumangala Vidyalaya.
-
-◼️
-
-[Data](articles/82066899.json)
-
-[Extended Data](ext_articles/82066899.ext.json)
 
 ---

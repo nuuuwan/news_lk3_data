@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 23:56:26**
+As of **2024-08-22 00:09:51**
 
 ## Newspaper Stats
 
@@ -26,31 +26,43 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,952 (100.0%) of 41,964 articles have been extended.
+41,959 (100.0%) of 41,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### அயூப், ஷக்கீல் குவித்த அரைச் சதங்கள் பாகிஸ்தானை நல்ல நிலையில் இட்டன
+### Half a century in Ayub and Shakeel made Pakistan in good condition
 
 *2024-08-21 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191668) · `ta`
 
-பங்களதேஷுக்கு எதிராக ராவல்பிண்டி கிரிக்கெட் விளையாட்டரங்கில் இன்று புதன்கிழமை (21) ஆரம்பமான முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் முதலில் துடுப்பெடுத்தாடிவரும் பாகிஸ்தான் முதலாம் நாள் ஆட்டநேர முடிவில் 4 விக்கெட்களை இழந்து 158 ஓட்டங்களைப் பெற்றிருந்தது.
+On the first day of the cricket match between Pakistan and Bangladesh at Rawalpindi, heavy rain delayed the start but allowed a shortened session. Pakistan, batting first, faced early losses with Abdullah Shafiq, captain Shan Masood, and Babar Azam out for low scores. However, Saym Ayub and Saud Shakil steadied the innings with a 98-run partnership, with Ayub scoring a half-century on his second Test appearance. Later, Saud Shakil and Mohammed Rizwan added 44 runs before Shakil was dismissed for 57. Bangladesh's bowlers, Shoribul Islam and Hasan Mahmood, picked up two wickets each.
 
-இன்று காலை பெய்த மழை காரணமாக சுமார் நான்கரை மணித்தியாலங்கள் தாமதித்தே போட்டி தொடங்கியது.
+🟩
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட பாகிஸ்தான் முதல் 3 விக்கெட்களை 16 ஓட்டங்களுக்கு இழந்து பெரும் தடுமாற்றத்தை எதிர்கொண்டது.
+Pakistan scored 158 runs for the end of the first day of the first -day match at the Rawalpindi Cricket Stadium against Bangladesh today (21st).
 
-அப்துல்லா ஷபிக் (2), அணித் தலைவர் ஷான் மசூத் (6), முன்னாள் அணித் தலைவர் பாபர் அஸாம் (0) ஆகிய மூவரும் 9 ஓவர்களுக்குள் ஆட்டம் இழந்து வெளியேறினர்.
+Due to the rains this morning, the competition began for about four and a half hours.
 
-இந் நிலையில் ஜோடி சேர்ந்த சய்ம் அயூப், சவூத் ஷக்கீல் ஆகிய இருவரும் மிகவும் நிதானத்துடன் துடுப்பெடுத்தாடி 4ஆவது விக்கெட்டில் 98 ஓட்டங்களைப் பகிர்ந்து அணிக்கு சிறு நம்பிக்கையை ஊட்டினர்.
+Pakistan, who was first invited to bat in the upting match, lost the first 3 wickets for 16 runs.
 
-தனது இரண்டாவது டெஸ்ட் போட்டியில் விளையாடும் அயூப் மிகத் திறமையாகத் துடுப்பெடுத்தாடி கன்னிச் அரைச் சதத்தைப் பூர்ததிசெய்து 56 ஓட்டங்களுடன் ஆட்டம் இழந்தார்.
+Abdullah Shafiq (2), team captain Shaun Masood (6) and former team captain Babar Azam (0) lost the match in 9 overs.
 
-...
+Saym Ayub and Saud Shakil, who paired up, were very relaxed and shared 98 runs in the 4th wicket.
+
+Ayub, who played in his second Test, was very effective and lost the Virgin half -century and lost 56 runs.
+
+Subsequently, Saud Shakil and Mohammed Rizwan shared 44 runs in the 5th wicketless 5th wicket.
+
+In Saud Shake, Mohammed Rizwan did not play with 57 runs.
+
+Shoribul Islam took 2 wickets for 30 runs while Hasan Mahmood took 2 wickets for 33 runs.
+
+◼️
 
 [Data](articles/602576ed.json)
+
+[Extended Data](ext_articles/602576ed.ext.json)
 
 ---
 
@@ -106,19 +118,27 @@ Milan who reported the first 6 beat in the innings, Milan received 6 hits and 4 
 
 ---
 
-### வடக்கு மக்களை ஏமாற்ற போவதில்லை பொலிஸ், காணி அதிகாரங்களை வழங்க முடியாது - நாமல் ராஜபக்‌ஷ
+### Police are not going to deceive the people of the North - Namal Rajapaksa
 
 *2024-08-21 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191667) · `ta`
 
-தேர்தல் காலத்தில் வடக்கில் உள்ளவர்களை ஏமாற்ற வேண்டிய தேவை கிடையாது.  முடிந்ததை முடியும் என்பேன், முடியாததை முடியாது என்பேன்.  தமிழர்களின் கலாச்சாரத்தை பாதுகாப்பேன். மொழி உரிமையும் வழங்குவேன். ஆனால் வடக்கு மற்றும் கிழக்கு மாகாணத்தை ஒன்றிணைத்து காணி மற்றும் பொலிஸ் அதிகாரத்தை ஒருபோதும் வழங்கமாட்டேன்  என பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+Namal Rajapaksa assures the people of the North that there's no plan to merge the North and Eastern Provinces, promising to safeguard Tamil culture and language rights without delegating police and land powers.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் முதலாவது கன்னி தேர்தல் பிரச்சாரக் கூட்டம் புதன்கிழமை (21) அநுராதபுரம் நகரில் இடம்பெற்றது. இதன்போது உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுன இந்த நாட்டின் அரசியல் வரைபடத்தை மாற்றியமைத்தது. முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தேசிய உற்பத்திகளை முன்னிலைப்படுத்திய பொருளாதார திட்டங்களை முன்னெடுத்து குறுகிய  காலத்தில் நாட்டை பல்வேறு துறைகளில் முன்னேற்றினார்.
+There is no need to deceive those in the North during the election.I can end up, I can't.I will protect the culture of Tamils. I will also grant language rights. But the Presidential candidate of the PA, Namal Rajapaksa, said that he would never give up land and police authority to combine the North and Eastern Province.
+
+The first virgin election campaign meeting of Sri Lanka PA. He said the above.
+
+Sri Lanka PA has changed the political map of this country. Former President Mahinda Rajapaksa has advanced the country in various sectors in a short time, implementing economic plans that highlighted national products.
+
+We handed over the country that was economically advanced in 2015. Gotabhaya Rajapakse took charge of the country that was affected by the economic level in 2019. Kovit was also influenced by the economic impact. When we raised the decisive question of whether the economy or the life of the people, we preserved the lives of the people.
 
 ...
 
 [Data](articles/bc3474fc.json)
+
+[Extended Data](ext_articles/bc3474fc.ext.json)
 
 ---
 
@@ -335,6 +355,8 @@ Below is an excerpt from the speech Atukorala made in parliament Wednesday Augus
 ...
 
 [Data](articles/f2b041f4.json)
+
+[Extended Data](ext_articles/f2b041f4.ext.json)
 
 ---
 
@@ -616,17 +638,25 @@ Investment Promotion State Minister Dilum Amunugama, Hon.
 
 ---
 
-### மனித அபிவிருத்திச் சுட்டெண்ணின் பிரகாரம் 193 நாடுகளில் 78 ஆவது இடத்தில் இலங்கை
+### According to the Human Development Index, Sri Lanka is ranked 78th in 193 countries
 
 *2024-08-21 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191652) · `ta`
 
-சர்வதேச செஞ்சிலுவை, செம்பிறைச் சங்கங்களின் சம்மேளனத்தினால் வெளியிடப்பட்டுள்ள வருடாந்த அறிக்கையின் பிரகாரம் இலங்கையானது 0.782 என்ற மனித அபிவிருத்திச் சுட்டெணுடன் 193 நாடுகளின் பட்டியலில் 78 ஆவது இடத்தில் இருக்கின்றது.
+Sri Lanka, despite facing severe economic crises including high inflation, currency devaluation, and food insecurity, maintains a high human development index ranking (78th out of 193 countries) as per the 2023 Human Development Index. It transitioned from a high-middle-income country in 2019 to a low-middle-income country in 2020 due to economic challenges.
 
-கடந்த 2019 ஆம் ஆண்டு இலங்கை உயர் - நடுத்தர வருமானம் பெறும் நாடு எனும் நிலையை அடைந்திருந்த போதிலும், 2020 ஆம் ஆண்டு மீண்டும் குறைந்த - நடுத்தர வருமானம் பெறும் நாடு எனும் நிலைக்குக் கீழிறங்கியது. இருப்பினும் 2023 ஆம் ஆண்டுக்கான மனித அபிவிருத்திச் சுட்டெண் பிரகாரம் 193 நாடுகளில் இலங்கை 78 ஆவது இடத்தைப் பிடித்திருக்கிறது. இலங்கை உயர்வான மனித அபிவிருத்தியைக் கொண்டிருக்கிறது என்பதே இதன் அர்த்தமாகும்.
+🟩
+
+According to an annual report published by the International Red Cross and Czech Societies Federation, Sri Lanka is ranked 78th in the list of 193 countries with a human development set by 0.782.
+
+In 2019, Sri Lanka reached the highest and middle -income country, but in 2020, it was a low -middle income country.. However, according to the Human Development Index for 2023, Sri Lanka ranks 78th in 193 countries. This means that Sri Lanka has high human development.
+
+“Sri Lanka faced the impact of a serious economic crisis, including high inflation, rupee value decline, food security, fuel and essential products. The crisis has further intensified following the failure of the damage policy implemented and the domestic agricultural production has fallen by significant amount, ”the International Red Cross and Red Cross Societies Federation said.
 
 ...
 
 [Data](articles/20c739a9.json)
+
+[Extended Data](ext_articles/20c739a9.ext.json)
 
 ---
 
@@ -952,6 +982,8 @@ Instead, the government considers separation of minerals from the deposits as th
 
 [Data](articles/7fe2ce3c.json)
 
+[Extended Data](ext_articles/7fe2ce3c.ext.json)
+
 ---
 
 ### Sri Lanka lenders, Bank of China eye Port City for offshore banking
@@ -971,6 +1003,8 @@ The Colombo Port City is a dollarized special economic zone which will be free o
 ◼️
 
 [Data](articles/9b10ea66.json)
+
+[Extended Data](ext_articles/9b10ea66.ext.json)
 
 ---
 
@@ -997,6 +1031,8 @@ Most active volumes, retail-driven, were seen on Sampath Bank Plc (up at 77.90).
 ...
 
 [Data](articles/764ec0b0.json)
+
+[Extended Data](ext_articles/764ec0b0.ext.json)
 
 ---
 

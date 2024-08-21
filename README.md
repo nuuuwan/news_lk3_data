@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 22:36:43**
+As of **2024-08-21 22:54:52**
 
 ## Newspaper Stats
 
-*Scraped **41,950** Articles*
+*Scraped **41,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,66 @@ colombotelegraphcom | 403
 islandlk | 2,426
 economynextcom | 2,527
 dailyftlk | 2,701
-adalk | 3,867
+adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
 tamilmirrorlk | 5,437
 virakesarilk | 6,677
-adaderanasinhalalk | 7,166
+adaderanasinhalalk | 7,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,949 (100.0%) of 41,950 articles have been extended.
+41,950 (100.0%) of 41,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
 
-### ශ්‍රී ලංකා පළමු ඉනිම ලකුණු 236කට සීමාවෙයි
+### ජනාධිපති ධුර අපේක්ෂකයන්ගේ වත්කම් හා බැරකම් ප්‍රකාශ ප්‍රසිද්ධ කෙරේ
+
+*2024-08-21 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200192) · `si`
+
+ජනාධිපති ධුර අපේක්ෂකයින් විසින් ලබාදී ඇති ඔවුන්ගේ වත්කම් හා බැරකම් ප්‍රකාශවල පිටපත් ජනතා ප්‍රවේශය සඳහා මුදා හැර තිබේ.
+
+අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව දැනුම්දෙන්නේ සිය නිල වෙබ් අඩවිය හරහා ඒවා ප්‍රසිද්ධ කිරීමට කටයුතු කර ඇති බවය.
+
+◼️
+
+[Data](articles/6482711e.json)
+
+---
+
+### Sri Lanka first innings limited to 236 runs
 
 *2024-08-21 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200191) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගය මැන්චෙස්ටර්, ඕල්ඩ් ට්‍රැෆර්ඩ් ක්‍රීඩා පිටියේදී අද (21) ආරම්භ වුණි.
+In the first Test match at Manchester's Old Trafford, Sri Lanka, led by Dhananjaya de Silva, chose to bat first after winning the toss but were bowled out for 236 runs. De Silva contributed significantly with 84 runs off 135 balls, while Kilan Ratnayake added 72 runs. Milan Ratnayake, making his debut, scored his first half-century, including six fours and four sixes.
 
-එහි කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක ධනංජය ද සිල්වා සමත්වූ අතර ඔහු තීරණය කළේ පළමුව පන්දුවට පහරදීමට ය.
+🟩
 
-ඒ අනුව අද දිනයේ ශ්‍රී ලංකා කණ්ඩායමේ සියලුදෙනා දැවී ලබා ගත්තේ ලකුණු 236ක් පමණි.
+The first Test match between England and the England team began this morning at the Manchester, Old Traford.
 
-පළමු ඉනිමේ පන්දුවට පහරදීමට පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායමේ මුල් පෙළ අසාර්ථක වූ අතර දිමුත් , නිෂාන් මදුෂ්ක , මැතිව්ස් , කුසල් මෙන්ඩිස් හා චන්දිමාල් ලකුණු 72ක් තුළ දවාගැනීමට එංගලන්ත පන්දු යවන්නන් සමත්විය.
+Sri Lanka Leader Dhanghanjaya de Silva won the toss and decided to bat first.
 
-විශිෂ්ට ඉනිමක් ක්‍රීඩා කළ ධනංජය ද සිල්වා පන්දු 84ක් තුළ ලකුණු 74ක් වාර්තා කරමින් ශ්‍රී ලංකා ඉනිම ඔසවා තැබීය.
+Accordingly, the Sri Lankan team bowled out for 236 runs.
 
-සිය මංගල ටෙස්ට් ක්‍රිකට් තරගයට එක්වූ මිලාන් රත්නායක ධනංජයට අනගි සහායක් ලබාදෙමින් පන්දු 135ක් තුළ ලකුණු 72ක් ලාබා ගත්තේය.
+Sri Lanka's first text was failed to be attacked in the first innings to bat.
 
-එහිදී සිය මංගල ටෙස්ට් තරගයට එක්වූ මිලාන් රත්නායක සිය පළමු අර්ධ ශතකය වාර්තා කළේ පන්දු 96කිනි.
+Dhananjaya de Silva, who played a great innings, lifted Sri Lankan innings in 84 balls.
 
-ඉනිමේ පළමු 6 පහරද වාර්තා කළ මිලාන් සිය අර්ධ ශතකය වෙනුවෙන් 6 පහර 01ක් සහ 4 පහර 5ක් ලබා ගත්තේය.
+Kilan Ratnayake, who joined their Mangala Test series, provided with 72 runs in 135 balls.
+
+Milan Ratnayake, who joined his Mangala Test series, scored his first half century balls.
+
+Milan who reported the first 6 beat in the innings, Milan received 6 hits and 4 hits for his half century.
 
 ◼️
 
 [Data](articles/45f761a6.json)
+
+[Extended Data](ext_articles/45f761a6.ext.json)
 
 ---
 
@@ -399,6 +419,24 @@ United People's Power Member of Parliament, Dalada Athukorala's resignation, wil
 [Data](articles/e83fa4ab.json)
 
 [Extended Data](ext_articles/e83fa4ab.ext.json)
+
+---
+
+### රුධිරය වහනය වීමෙන් කාන්තාවක් මිය යාමට වෛද්‍යවරයෙකු ඇතුලු සිව් දෙනෙකුගේ වැඩ තහනම්
+
+*2024-08-21 19:24:40* · [`adalk`](https://www.ada.lk/breaking_news/රුධිරය-වහනය-වීමෙන්-කාන්තාවක්-මිය-යාමට-වෛද්‍යවරයෙකු-ඇතුලු-සිව්-දෙනෙකුගේ-වැඩ-තහනම්/11-411495) · `si`
+
+මන්නාරම මහරෝහලේ උපාධිධාරී කාන්තාවකට අධික ලෙස රුධිර වහනය වී මිය යාමේ සිද්ධියක් සම්බන්ධයෙන් වෛද්‍යවරයෙකුගේ ඇතුලු සිව් දෙනකුගේ සේවය සෞඛ්‍ය අමාත්‍යංශය විසින් ඊයේ (20) දින අත්හිටුව ඇත.
+
+මන්නාරම මුරුන්ගන් ප්‍රදේශයේ පදිංචි මරියරාජ් සිංදුජා නමැති 27 හැවිරිදි උපාධිධාරී කාන්තාවක් දරුවකු ප්‍රසූත කිරීම සඳහා මුරුංගන් රෝහලට ඇතුලත් කොට දරුවා ප්‍රසූත කිරීමෙන් පසුව එම කාන්තාව ආපසු නිවසට ගොස් ඇති අතර නිවසට ගිය ඇයට අධික ලෙස රුධිර රුධිරය වාහන වීම හේතුවෙන් යළි මුරුන්ගන් රෝහලට ඇතුළත් කිරීමට පියවර ගෙන ඇත.
+
+පසුව ඇයගේ තත්වය තරමක් බරපතල තත්වයේ තිබීම හේතුවෙන් වැඩිදුර ප්‍රතිකාර සඳහා ඇය මන්නාරම් මහ රෝහල වෙතට මාරු කොට යවා තිබු අතර එහිදී ඇය වාට්ටුවකට ඇතුලත් කිරීමට පියවර ගෙන තිබුණි.
+
+කෙසේ වෙතත් අදාල වාට්ටුවේ කාර්යභාර වෛද්‍යවරයා හෙදියන් ඇතුළු කාර්ය මණ්ඩලය විසින් මෙම සිද්ධිය සාමාන්‍ය රුධිර වාහනය වීමක් ලෙස සලකා ඇති බවට මිය ගිය කාන්තාවගේ මව විසින් පෙලීසියට පවසා තිබුණි.
+
+...
+
+[Data](articles/a38e1988.json)
 
 ---
 
@@ -2353,49 +2391,5 @@ Responding to a question raised by MP Rauf Hakeem, the minister said that all ne
 [Data](articles/6ce3dd53.json)
 
 [Extended Data](ext_articles/6ce3dd53.ext.json)
-
----
-
-### Bus carrying Shiite pilgrims from Pakistan to Iraq crashes in Iran, killing at least 28
-
-*2024-08-21 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101391/bus-carrying-shiite-pilgrims-from-pakistan-to-iraq-crashes-in-iran-killing-at-least-28) · `en`
-
-A bus carrying Shiite pilgrims from Pakistan to Iraq crashed in central Iran, killing at least 28 people, an official said Wednesday.
-
-The crash happened Tuesday night in the central Iranian province of Yazd, said Mohammad Ali Malekzadeh, a local emergency official, according to the state-run IRNA news agency.
-
-Another 23 people suffered injuries in the crash, 14 of them serious, he added.
-
-The pilgrims had been on their way to Iraq to commemorate Arbaeen, which marks the 40th day following the death of a Shiite saint in the 7th century. Pilgrims gather in Karbala, Iraq, in what’s regarded as the largest annual public gathering in the world.
-
-Authorities offered no immediate cause for the crash. However, Iran has one of the world’s worst traffic safety records with some 17,000 deaths annually. The grave toll is blamed on wide disregard for traffic laws, unsafe vehicles and inadequate emergency services in its vast rural areas.
-
-...
-
-[Data](articles/3b86e456.json)
-
-[Extended Data](ext_articles/3b86e456.ext.json)
-
----
-
-### Sri Lanka MP Thalatha Athukorala resigns
-
-*2024-08-21 10:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-mp-thalatha-athukorala-resigns-177499/) · `en`
-
-ECONOMYNEXT – Sri Lanka Samagi Jana Balavegaya legislator Thalatha Athukorala has announced her resignation in Parliament.
-
-Athukorala is the sister of one-time United National National Party general Secretary Gamini Athukorala, and a party stalwart.
-
-“If we are to win this election, we have to join forces,” Athukorala said in an impassioned speech, in which she lamented the splitting of the UNP.
-
-Opposition Leader Sajith Premadasa was too much in a hurry to become leader, she said drawing parallels with the rise of Gotabaya Rajapaksa.
-
-“All the drowning snakes and mongooses (nai-mugati) have clung on the SJB log (kote) to avoid drowning,” she said in a scathing attack on Premadasa. (Colombo/Aug21/2024)
-
-◼️
-
-[Data](articles/9aea1197.json)
-
-[Extended Data](ext_articles/9aea1197.ext.json)
 
 ---

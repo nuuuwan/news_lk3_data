@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 05:39:26**
+As of **2024-08-21 06:04:00**
 
 ## Newspaper Stats
 
-*Scraped **41,788** Articles*
+*Scraped **41,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 384
 colombotelegraphcom | 399
-islandlk | 2,416
+islandlk | 2,423
 economynextcom | 2,520
 dailyftlk | 2,701
 adalk | 3,845
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,132
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,788 (100.0%) of 41,788 articles have been extended.
+41,791 (100.0%) of 41,795 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -581,6 +581,44 @@ In the bowling, Samari Attapattu took 3 wickets for 15 runs, Achini Kulasuriya t
 [Data](articles/922134f7.json)
 
 [Extended Data](ext_articles/922134f7.ext.json)
+
+---
+
+### Building a sustainable future: The impact of RPCs on Sri Lanka’s economy and environment
+
+*2024-08-20 23:41:00* · [`islandlk`](http://island.lk/building-a-sustainable-future-the-impact-of-rpcs-on-sri-lankas-economy-and-environment/) · `en`
+
+Despite challenges like COVID-19 and economic crises, Sri Lanka’s plantation industry remains a key economic pillar.
+
+Privatization in 1992 increased operational efficiency and reduced the government’s financial burden.
+
+RPCs have diversified crops, invested in environmental conservation, and improved worker welfare.
+
+The plantation industry has long been a cornerstone of Sri Lanka’s economy, and synonymous with the highest quality premium exports. Despite facing significant challenges over the past four years, including COVID-19, arbitrary decisions on fertilizers and agro-chemicals, and a historic economic crises, the industry provided a rare pillar of stability.
+
+...
+
+[Data](articles/12b9cd90.json)
+
+[Extended Data](ext_articles/12b9cd90.ext.json)
+
+---
+
+### Share market trading hamstrung by caution as polls jitters take their toll
+
+*2024-08-20 23:37:00* · [`islandlk`](http://island.lk/share-market-trading-hamstrung-by-caution-as-polls-jitters-take-their-toll/) · `en`
+
+The stock market yesterday was characterized by an absence of dynamic trading activities as most investors adopted a cautious stance due to the upcoming presidential election, stock market analysts said.
+
+Amid those developments both indices indicated mixed reactions. The All Share Price Index went down by 9.46 points while the S and P SL20 was also down by 0.69.
+
+Turnover stood at Rs 581 million with three crossings. Those crossings were reported in JKH, which crossed 281,000 shares to the tune of Rs 51.5 million and its shares traded at Rs 183, Melstacope 300,000 shares crossed for Rs 24,6 million; its shares traded at Rs 82 and TJ Lanka 500,000 shares crossed for Rs 20.4 million; its shares traded at Rs 40.70.
+
+...
+
+[Data](articles/5225f7f0.json)
+
+[Extended Data](ext_articles/5225f7f0.ext.json)
 
 ---
 
@@ -2287,55 +2325,5 @@ Sri Lanka is now recovering from an economic crisis two years ago and insurance 
 [Data](articles/1f8b3221.json)
 
 [Extended Data](ext_articles/1f8b3221.ext.json)
-
----
-
-### American State Reply Assistant Secretary to Sri Lanka to Sri Lanka
-
-*2024-08-20 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/191532) · `ta`
-
-Assistant Secretary Jennifer R. Littlejon, accompanied by US Ambassador Julie Sung, visited Sri Lanka as part of a tour through Sri Lanka, India, and the Maldives from the 17th to 31st. The trip aimed to address environmental concerns such as marine safety, pollution, climate change, deforestation, and promote economic growth and women in science.
-
-🟩
-
-American diplomatic reply to the ocean, international ecology, Assistant Secretary Jennifer R. Littlejon has visited Sri Lanka.
-
-Visit to Sri Lanka. US Ambassador Julie Sung welcomed Littlejon.
-
-Little John will travel to Sri Lanka, India and the Maldives from 17th to 31st.
-
-Little John, who visited Sri Lanka on Monday (19), will meet with state officials and other parties in Sri Lanka.
-
-During the visit, he was involved in various issues of all three countries on various issues, including natural and maritime safety, plastic and air pollution, climate change crisis, deforestation, civil and commercial activities, encouragement of women in scientific technology, and building an economical economy.
-
-Meanwhile, Jennifer R. Littlejon will visit India from 21st to 28th and Maldives from the 21st to 28th of this month.
-
-◼️
-
-[Data](articles/77d2d6b3.json)
-
-[Extended Data](ext_articles/77d2d6b3.ext.json)
-
----
-
-### Here are those who qualified for postal vote - 24,000 applications will be rejected
-
-*2024-08-20 15:19:41* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්දයට-සුදුසුකම්-ලැබූ-පිරිස-මෙන්න---24-000කගේ-අයදුම්පත්-ප්‍රතික්ෂේප-වෙයි/11-411462) · `si`
-
-Out of 736,589 postal voting applications, 24,268 were rejected, leaving 712,321 eligible to vote in the upcoming presidential election.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake said that 24,268 applications were rejected today (20).
-
-Accordingly, 712,32, candidates have qualified to vote for the presidential election.
-
-Postal voting applications had been received 736,589. 24,268 of that refused applications. Finally, there are 712,321 postal voters of postal voters.
-
-◼️
-
-[Data](articles/5795b5d9.json)
-
-[Extended Data](ext_articles/5795b5d9.ext.json)
 
 ---

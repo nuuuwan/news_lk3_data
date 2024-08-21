@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 09:07:28**
+As of **2024-08-21 09:21:33**
 
 ## Newspaper Stats
 
-*Scraped **41,808** Articles*
+*Scraped **41,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,520
 dailyftlk | 2,701
-adalk | 3,846
+adalk | 3,847
 dailymirrorlk | 4,733
-adaderanalk | 4,891
+adaderanalk | 4,892
 tamilmirrorlk | 5,406
 virakesarilk | 6,648
 adaderanasinhalalk | 7,138
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,808 (100.0%) of 41,808 articles have been extended.
+41,808 (100.0%) of 41,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### Eyeing Eurasian connectivity corridors, Sri Lanka builds partnership with Central Asian countries
+
+*2024-08-21 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101386/eyeing-eurasian-connectivity-corridors-sri-lanka-builds-partnership-with-central-asian-countries) · `en`
+
+Aiming at exploring the strategic role of Central Asia in Eurasia and beyond with particular emphasis on the emergence of new transport and logistics corridors, Sri Lanka’s Foreign Ministry will on Wednesday host a first of its kind event to discuss ways to strengthen its economic ties with the region.
+
+Titled ‘Central Asia Forum: A Gateway to New Horizons’, the Colombo event will be opened by Sri Lankan Foreign Secretary Aruni Wijewardane with Foreign Minister Ali Sabry also scheduled to deliver an address, highlighting Sri Lanka’s priorities in the region.
+
+“With its strategic location, Central Asia is poised to play an important role in the future of Eurasian connectivity. The event is expected to offer perspectives and insights that will shape the future of Sri Lanka’s engagement with the region,” the Sri Lankan Foreign Ministry said in a statement.
+
+...
+
+[Data](articles/7acc2eb3.json)
+
+---
 
 ### Two police stabbed with a kilo of heroin
 
@@ -1648,6 +1664,24 @@ Announcing this decision, Mawbima Janatha Pakshaya (MJP) leader Dilith Jayaweera
 
 ---
 
+### රට විරුවෝ මුල් මාස 7දී රු. බිලියන 964 ක් එවලා
+
+*2024-08-20 17:37:54* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවෝ-මුල්-මාස-7දී-රු--බිලියන-964-ක්-එවලා/11-411468) · `si`
+
+විගමනික ශ්‍රමික ප්‍රජාව විසින් මේ වසරේ මුල් මාස 7 තුල රුපියල් බිලියන 964 කට අධික මුදල් මෙරටට එවා ඇති බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යංශය විසින්  ප්‍රකාශය කර ඇත .එය ඇමරිකානු ඩොලර් මිලියන 3710 ක් හෙවත්  බිලියන 3.710 අගයක් ගනියි .ඒ අනුව  2024 වර්ෂයේ  වැඩිම විදේශ ප්‍රේෂනය සිදු කළ මාසය මාර්තු වන අතර එහි අගය USS මිලියන 572 වෙයි .
+
+පසුගිය ජූලි මසයේ දී  USS මිලියන 566.8 ක් විගමනික ශ්‍රමකයින් විසින් මෙරටට ප්‍රේෂනය කර ඇති බව වාර්තා වෙයි.මේ අතර 2023  වර්ෂයේදි  විගමනික ශ්‍රමක ප්‍රජාව විසින් මෙරටට එවා ඇති මුළු විදේශ විනිමය ප්‍රේෂන ප්‍රමාණය ඇමරිකානු ඩොලර් මිලියන 5970 වෙයි.එය 2022 වර්ෂය හා සැසදීමේදී 58% කැපී පෙනෙන  වර්ධනයකි.
+
+විගමනික ශ්‍රමක ප්‍රජාව විසින් මෙරටට එවනු ලැබු ප්‍රේෂන  ශ්‍රී ලංකාවේ විදේශ විනිමය සංචිතය ඉහළ නැංවීම  සඳහා  විශාල දායකත්වයක්  දරනු ලබයි. මෙරට ඖෂධ, ඉන්ධන , ගෑස්  ඇතුළු අත්‍යවශ්‍ය භාණ්ඩ ආනයනයේදී විදේශ විනිමය අත්‍යවශ්‍ය මෙන්ම ඉතාම වැදගත් වෙයි.
+
+මෙ වසරේ ජනවාරි  සිට අගෝස්තු  මාසය දක්වා  187,000 කට වඩා වැඩි ප්‍රමාණයක් රැකියා සඳහා විදේශ ගත වී ඇති බව වාර්තා වෙයි .
+
+◼️
+
+[Data](articles/f6d83c44.json)
+
+---
+
 ### Dilith welcomes the presidential candidate debate
 
 *2024-08-20 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200142) · `si`
@@ -2257,37 +2291,5 @@ The event was chaired by Minister of Power and Energy Kanjana Wijesekera and Ind
 [Data](articles/27a5f822.json)
 
 [Extended Data](ext_articles/27a5f822.ext.json)
-
----
-
-### MoU inked to develop infrastructure for Sobadhanavi LNG power plant
-
-*2024-08-20 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101375/mou-inked-to-develop-infrastructure-for-sobadhanavi-lng-power-plant-) · `en`
-
-A significant milestone in Sri Lanka’s energy sector unfolded today (20) with the signing of a Memorandum of Understanding (MOU) between LTL Holdings Limited of Sri Lanka and Petronet LNG Limited of India, for the development of infrastructure for the storage, regasification and supply of Liquefied Natural Gas (LNG) for the “Sobadhanavi” Combined Cycle Power Plant in Kerawalapitiya.
-
-The signing ceremony took place this evening at the Galadari Hotel, Colombo with the Chief Executive Officer of LTL Holdings Limited Mr. Nuhuman Marikkar and Chief Executive Officer and Managing Director of Petronet LNG Company Mr. Akshay Kumar Singh signing the agreement on behalf of their respective organizations.
-
-...
-
-[Data](articles/2f6f8f2b.json)
-
-[Extended Data](ext_articles/2f6f8f2b.ext.json)
-
----
-
-### Sri Lanka’s LTL Holdings and India’s Petronet ink MoU for LNG supply to Sobadhanavi plant
-
-*2024-08-20 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101375/sri-lankas-ltl-holdings-and-indias-petronet-ink-mou-for-lng-supply-to-sobadhanavi-plant) · `en`
-
-A significant milestone in Sri Lanka’s energy sector unfolded today (20) with the signing of a Memorandum of Understanding (MOU) between LTL Holdings Limited of Sri Lanka and Petronet LNG Limited of India, for the development of infrastructure for the storage, regasification and supply of Liquefied Natural Gas (LNG) for the “Sobadhanavi” Combined Cycle Power Plant in Kerawalapitiya.
-
-The signing ceremony took place this evening at the Galadari Hotel, Colombo with the Chief Executive Officer of LTL Holdings Limited Mr. Nuhuman Marikkar and Chief Executive Officer and Managing Director of Petronet LNG Company Mr. Akshay Kumar Singh signing the agreement on behalf of their respective organizations.
-
-...
-
-[Data](articles/f565130b.json)
-
-[Extended Data](ext_articles/f565130b.ext.json)
 
 ---

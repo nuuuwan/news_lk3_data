@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 18:15:31**
+As of **2024-08-21 18:25:54**
 
 ## Newspaper Stats
 
-*Scraped **41,914** Articles*
+*Scraped **41,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 2,701
 adalk | 3,861
 dailymirrorlk | 4,733
 adaderanalk | 4,906
-tamilmirrorlk | 5,430
+tamilmirrorlk | 5,431
 virakesarilk | 6,666
-adaderanasinhalalk | 7,159
+adaderanasinhalalk | 7,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,913 (100.0%) of 41,914 articles have been extended.
+41,914 (100.0%) of 41,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### சஜித்தை சந்தித்தார் ஹரீஸ்
+
+*2024-08-21 18:07:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-சந்தித்தார்-ஹரீஸ்/175-342581) · `ta`
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும், முன்னாள் அமைச்சருமான சட்டத்தரணி ரவூப் ஹக்கீம் மற்றும் பாராளுமன்ற உறுப்பினரும், முன்னாள் இராஜாங்க அமைச்சருமான சட்டத்தரணி எச்.எம்.எம். ஹரீஸ் ஆகியோருக்கு எதிர்க்கட்சித் தலைவரும், ஜனாதிபதி வேட்பாளருமான சஜித் பிரேமதாச விடுத்திருந்த அழைப்பின் பேரில் பாராளுமன்ற கட்டிடத்தொகுதியில், புதன்கிழமை (21)  இருவரும் சஜித் பிரேமதாசவை சந்தித்து சமகால அரசியல் சூழ்நிலைகள் சம்பந்தமாக கலந்துரையாடினர்.
+
+இதன்போது கிழக்கு மாகாண மக்களின் பிரச்சினைகள், கோரிக்கைகள், சமகாலத்தில் முஸ்லிம்கள் எதிர்நோக்கும் பிரச்சினைகள், சமூகம் சார்ந்த பிரச்சினைகள் தொடர்பில் திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினரும், முன்னாள் இராஜாங்க அமைச்சருமான சட்டத்தரணி எச்.எம்.எம். ஹரீஸ் எதிர்க்கட்சித் தலைவரும், ஜனாதிபதி வேட்பாளருமான சஜித் பிரேமதாசவிடம் எடுத்துரைத்திருந்தார்.
+
+இங்கு கலந்து கொண்டிருந்த ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும், முன்னாள் அமைச்சருமான சட்டத்தரணி ரவூப் ஹக்கீம் அவர்கள் முஸ்லிம் சமூகம் சார்ந்த விடயங்கள் தொடர்பில் பல விஷயங்களை வலியுறுத்தியிருந்தார் என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7d2441f6.json)
+
+---
+
+### පාකිස්තානුවන්ගේ වන්දනා ගමන ඛේදවාචකයකින් අවසන් වෙයි
+
+*2024-08-21 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200184) · `si`
+
+පාකිස්තාන වන්දනාකරුවන් පිරිසක් රැගත් බස් රථයක් ඉරානයේදී අනතුරට ලක්වීමෙන් පුද්ගලයින් 28 දෙනෙකු මියගොස් තිබේ.
+
+අනතුරින් තවත් පුද්ගලයින් 23 දෙනෙකු තුවාල ලබා ඇති අතර ඔවුන්ගෙන් 07 දෙනෙකුගේ තත්ත්වය බරපතළ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+පාකිස්තානයේ සින්ඩ් පළාතේ සිට ඉරානය හරහා ඉරාකයේ කර්බාලා වෙත ගමන් කරමින් සිටියදී එම බස්රථය පෙරළී ගොස් අනතුර සිදුවී තිබුණි.
+
+බස්රථයේ තිරිංග පද්ධතියේ හටගත් දෝෂයක් අනතුරට හේතුවී ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/ef0fe4a5.json)
+
+---
 
 ### Committee member MPs are named to consider two bills
 
@@ -1143,6 +1177,8 @@ The book launch ceremony of Dr Rajasinghe Bandara, ‘The Students protests 1975
 ...
 
 [Data](articles/90c2aff7.json)
+
+[Extended Data](ext_articles/90c2aff7.ext.json)
 
 ---
 
@@ -2321,45 +2357,5 @@ A police inspector and a constable have been arrested in Piliyandala.
 [Data](articles/3bb09cb2.json)
 
 [Extended Data](ext_articles/3bb09cb2.ext.json)
-
----
-
-### Candidates prohibited to accept donations of donations from the uncommunication
-
-*2024-08-21 08:05:15* · [`adalk`](https://www.ada.lk/breaking_news/අනන්‍යතාවය-හෙළි-නොකරන්නන්-ගෙන්-පරිත්‍යාග-භාර-ගැනීම-අපේක්ෂකයන්ට-තහනම්/11-411475) · `si`
-
-The Elections Commission prohibits political parties, independent groups, and candidates from accepting donations exceeding 50% from foreign entities or anonymous sources. This rule applies to all participants in the 2024 Presidential Election, ensuring transparency and preventing undue influence.
-
-🟩
-
-The Elections Commission announces that in the 2024 Presidential Party, the political parties, independent groups or candidates, including people who do not reveal the identity of the 2024 Presidential Election, to promote the identity of the 2024 presidential election..
-
-Accordingly, a government corporate company or a corporate or a corporation or a state corporation is owned by a foreign state or a state corporation, under the company's company under the Companies Act, 50 percent or more ownership.This should not be accepted by a local corporate company as well as those who do not reveal identity.
-
-The Elections Commission to be subjected to direct or indirectly to the presidential election in accordance with the presidential election of the Presidential Chandr, No. 15 of 1981 as a result of the presidential election of the Presidential Chandr.States in the gazette notification published.
-
-◼️
-
-[Data](articles/c084cd05.json)
-
-[Extended Data](ext_articles/c084cd05.ext.json)
-
----
-
-### What happens if any candidate does not take 50%?
-
-*2024-08-21 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200161) · `si`
-
-If a candidate doesn't meet the 50% threshold, it could lead to a lack of public confidence, as highlighted by Lecturer Dhamma Dissanayake, emphasizing the importance of trust in the electoral process this year.
-
-🟩
-
-Lecturer Dhamma Dissanayake says that the public should have confidence in the public to accept this year.
-
-◼️
-
-[Data](articles/b4a964ee.json)
-
-[Extended Data](ext_articles/b4a964ee.ext.json)
 
 ---

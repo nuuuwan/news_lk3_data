@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 02:55:20**
+As of **2024-08-22 03:06:42**
 
 ## Newspaper Stats
 
-*Scraped **41,989** Articles*
+*Scraped **41,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,722
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
-tamilmirrorlk | 5,440
+tamilmirrorlk | 5,441
 virakesarilk | 6,681
 adaderanasinhalalk | 7,167
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,989 (100.0%) of 41,989 articles have been extended.
+41,989 (100.0%) of 41,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### ’சூதாட்ட, கறுப்புப் பணம் விளையாடுகின்றது”
+
+*2024-08-22 02:13:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூதாட்ட-கறுப்புப்-பணம்-விளையாடுகின்றது/175-342606) · `ta`
+
+ஜனாதிபதித் தேர்தலில் கறுப்புப் பணம், பாதாள குழுக்களின் பணம், போதைப் பொருள் பணம் மற்றும் சூதாட்ட பணம் அதிகளவில் பயன்படுத்தப்படுகின்றது என்று சுயேச்சை ஜனாதிபதி வேட்பாளரான பாராளுமன்ற உறுப்பினர் ரொஷான் ரணசிங்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (21) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+ஜனாதிபதித் தேர்தல் சுதந்திரமானது என்றாலும் நீதியானதா? என்ற கேள்விகள் எழுகின்றன. தேர்தல்கள் ஆணைக்குழுவே முதலில் அநீதியை இழைக்கின்றது. சில வேட்பாளர்களுக்காக அவர்களின் உதவியாளர்களை அழைத்துவர தனியான இடம் ஒதுக்கியுள்ளது.
+
+39 வேட்பாளர்கள் வேட்பு மனுக்களை தாக்கல் செய்கையில் 4 வேட்பாளர்களுக்காக மட்டும் இடம் ஒதுக்குவது அவர்களுக்காக ஊக்குவிப்பாகவே அமைகின்றது.
+
+இதனை செய்ய முடியுமா? இதேவேளை உள்ளூராட்சித் தேர்தலில் வாக்காளர் ஒருவருக்காக 20 ரூபாவே செலவிட முடியும் என்று அறிவிக்கப்பட்டுள்ளது. ஆனால் ஜனாதிபதித் தேர்தலில் வேட்பாளர் ஒருவரால் 109 ரூபா செலவிட முடியுமென அறிவித்துள்ளது. அப்படியென்றால் 18,500 இலட்சம் ரூபா அவசியமாகும்.
+
+...
+
+[Data](articles/8822d2a2.json)
+
+---
 
 ### President cannot avoid defeat by recruiting MPs from other parties: Mujibur
 
@@ -2309,31 +2329,5 @@ Attorney -at -Law (Dr.) Susil Premajayantha, Prasanna Ranatunga, Janaka Vakkumbu
 [Data](articles/b14904fb.json)
 
 [Extended Data](ext_articles/b14904fb.ext.json)
-
----
-
-### Police capture before the country is sold
-
-*2024-08-21 13:16:04* · [`adalk`](https://www.ada.lk/breaking_news/රට-පිඹුරන්-අලෙවි-කරන්න-කලින්-පොලීසියට-කොටුවෙයි/11-411488) · `si`
-
-Colombo Police arrested four owners and two employees from Colombo South and Wattala for smuggling endangered crocodiles to Sri Lanka. The suspects were found with the animals in their luggage, which were later handed over to the Dehiwala Zoo. They were charged and appeared before the Wattala Magistrate's Court.
-
-🟩
-
-Four owner of the Colombo South and two employees have been arrested by the Colombo Police with the Colombo South Floor and two employees in Wattala to be illegally taken to Sri Lanka..
-
-Two colors and two females have been arrested by the police and two females.
-
-The police suspect that they have been brought to bring and brought in their luggage on their bags.
-
-The police suspect that the knot crocodile was captured by a tank in Sri Lanka with a tank in Sri Lanka.
-
-The police have been taken to the Dehiwala Zoo and the police are arrested and submitted to the Wattala Magistrate's Court.
-
-◼️
-
-[Data](articles/a00f7fbb.json)
-
-[Extended Data](ext_articles/a00f7fbb.ext.json)
 
 ---

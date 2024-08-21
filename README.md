@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-21 14:55:49**
+As of **2024-08-21 15:06:41**
 
 ## Newspaper Stats
 
-*Scraped **41,882** Articles*
+*Scraped **41,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ colombotelegraphcom | 401
 islandlk | 2,423
 economynextcom | 2,527
 dailyftlk | 2,701
-adalk | 3,856
+adalk | 3,857
 dailymirrorlk | 4,733
-adaderanalk | 4,901
+adaderanalk | 4,902
 tamilmirrorlk | 5,425
 virakesarilk | 6,661
-adaderanasinhalalk | 7,152
+adaderanasinhalalk | 7,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,882 (100.0%) of 41,882 articles have been extended.
+41,882 (100.0%) of 41,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-21 (Wednesday)
+
+### විදේශීය පිඹුරන් 4ක් සහ ගැට කිඹුලෙක් සඟවාගෙන සිටි පිරිසක් අත්අඩංගුවට
+
+*2024-08-21 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200177) · `si`
+
+නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් විකිණීම සඳහා සඟවාගෙන සිටි විදේශීය පිඹුරන් සිව් දෙනෙකු වත්තල පොලීසිය විසින් අද (21) සිය භාරයට ගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ එම වැටලීමේදී ශ්‍රී ලංකාවේ ගැට කිඹුලෙකු ද සොයාගත් බවය.
+
+වත්තල ප්‍රදේශයේ සුරතල් සතුන් අලෙවි කරන ස්ථානයක උඩු මහළ තුළ මෙම සතුන් සඟවාගෙන සිට ඇති අතර සිද්ධිය සම්බන්ධයෙන් අදාළ අලෙවිසැළ පවත්වාගෙන ගිය හිමිකරු සහ සේවකයන් දෙදෙනෙකු ද වත්තල පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+පිරිමි පිඹුරන් දෙදෙනෙකු සහ ගැහැණු සතුන් දෙදෙනෙකු මෙලෙස පොලීසිය විසින් සිය භාරයට ගෙන ඇත.
+
+මෙම සතුන් ගුවන් මගින් ගමන් මලු තුළ සඟවා මෙරටට රැගෙන එන්නට ඇතැයි පොලීසිය සැක පළ කරයි.
+
+ගැට කිඹුලා ශ්‍රී ලංකාවේ වියළි කළාපීය ප්‍රදේශයක පිහිටි වැවකින් අල්ලා ගන්නට ඇතැයි සැක කරන අතර මෙම එක් සතෙකු රුපියල් ලක්ෂ තුනකට ඉහළ මිළකට අලෙවි කිරීම සඳහා සූදානම් කර තිබියදී මෙලෙස සොයාගෙන තිබේ.
+
+මෙම සතුන් දෙහිවල සත්වෝද්‍යානය වෙත යොමු කර ඔවුන් පිළිබඳ වාර්තාවක් ලබා ගැනීමට පොලීසිය පියවර ගෙන ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් වත්තල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/a0767e12.json)
+
+---
+
+### Protest over sexual assault of school girls in India’s Maharashtra turns chaotic
+
+*2024-08-21 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101397/protest-over-sexual-assault-of-school-girls-in-indias-maharashtra-turns-chaotic) · `en`
+
+Amid nationwide protests over the brutal rape and murder of a Kolkata doctor, two young female students from a school in Maharashtra’s Badlapur were allegedly sexually assaulted, leading to widespread public outrage.
+
+The situation escalated on Tuesday when protesters, angry over the alleged police inaction, blocked train services at the Badlapur railway station, prompting the police to resort to lathicharge to disperse the crowd.
+
+The protest was ignited after news of the alleged sexual abuse spread, with hundreds of people gathering to demand swift action against the accused and justice for the victims.
+
+In response to the growing unrest, the Maharashtra government announced the formation of a Special Investigation Team (SIT) to probe the incident.
+
+State Cabinet Minister Girish Mahajan, who attempted to pacify the protesters, assured them of strict action against those responsible, stating, “The accused person will face the most severe punishment.”
+
+...
+
+[Data](articles/13014672.json)
+
+---
 
 ### Husband
 
@@ -155,6 +201,24 @@ Attorney -at -Law (Dr.) Susil Premajayantha, Prasanna Ranatunga, Janaka Vakkumbu
 [Data](articles/b14904fb.json)
 
 [Extended Data](ext_articles/b14904fb.ext.json)
+
+---
+
+### රට පිඹුරන් අලෙවි කරන්න කලින් පොලීසියට කොටුවෙයි
+
+*2024-08-21 13:16:04* · [`adalk`](https://www.ada.lk/breaking_news/රට-පිඹුරන්-අලෙවි-කරන්න-කලින්-පොලීසියට-කොටුවෙයි/11-411488) · `si`
+
+ශ්‍රී ලංකාවට නීතිවිරෝධී ලෙස රැගෙන විත්, විකිණීම සදහා වත්තල ප්‍රදේශයේ සුරතල් සතුන් අලෙවි මධ්‍යස්ථානයක උඩු මහළේ සගවා ගෙන සිටි විදේශීය පිඹුරන් සිව් දෙනෙකු සහ ශ්‍රී ලංකාවේ ගැට කිඹුලෙකු සමග එම අලෙවි සැළේ හිමිකරු සහ එහි සේවකයින් දෙදෙනෙකු ද  වත්තල පොලිසිය මගින් 08/21 දින  අත් අඩංගුවට ගෙන තිබේ.
+
+බම්බල් බී , ස්පයිඩර් කැළිපර් සහ බනානා යන වර්ග වලට අයත් පිඹුරන් පිරිමි සතුන් දෙදෙනෙකු සහ ගැහැණු සතුන් දෙදෙනෙකු මෙලෙස පොලිසිය විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මොවුන් ගුවන් මගින් , සිය ගමන් මලු තුළ සගවා ගෙන , මෙරටට ගෙන එන්නට ඇතැයි පොලිසිය සැක පහළ කරයි.
+
+මෙම ගැට කිඹුලා ශ්‍රී ලංකාවේ වියළි කළාපීය ප්‍රදේශයක පිහිටි වැවකින් අල්ලා ගන්නට ඇතැයි පොලිසිය සැක කරන අතර මෙම එක් සතෙකු රුපියල් ලක්ෂ තුනකට ඉහළ මිළකට අලෙවි කිරීම සදහා සූදානම් කර තිබියදී මෙලෙස පොලිසිය විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/a00f7fbb.json)
 
 ---
 
@@ -1620,7 +1684,11 @@ Lecturer Dhamma Dissanayake says that the public should have confidence in the p
 
 *2024-08-21 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101385/police-inspector-and-constable-arrested-with-01-kg-of-heroin) · `en`
 
-An Inspector of Police (IP) and a Constable have been arrested by the Colombo Crimes Division (CCD) at Piliyandala while in possession of 01 kilogram of heroin, police said.
+An Inspector of Police (IP) and a Constable have been arrested by the Colombo Crimes Division (CCD) at Piliyandala while in possession of over 01 kilogram of heroin, police said.
+
+The two arrested police officers are reportedly attached to the Moratuwa Special Task Force (STF) Camp.
+
+Police further said that the seized haul of heroin, weighing approximately 01 kg and 53 grams, is estimated to be worth over Rs. 10 million.
 
 ◼️
 
@@ -2207,69 +2275,5 @@ The program, initiated and promoted by the Sri Lanka Industries Ministry, extend
 [Data](articles/29978e26.json)
 
 [Extended Data](ext_articles/29978e26.ext.json)
-
----
-
-### Heavy rain today
-
-*2024-08-21 01:06:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பலத்த-மழை/175-342544) · `ta`
-
-Sri Lanka's southwest, including Galle, Matara, and parts of Sabaragamuwa, expects over 100mm of heavy rain today. The North Western Province, along with Kandy and Nuwara Eliya districts, may see intermittent rain or thunderstorms.
-
-🟩
-
-The rainy weather is expected to continue today in the south -west of Sri Lanka.
-
-The Department of Meteorology has predicted more than 100 millimeters of heavy rainfall in some areas of Galle and Matara districts in the upper and Sabaragamuwa provinces.
-
-The Department of Meteorology has forecast intermittent rain or thunderstorms in the North Western Province and Kandy and Nuwara Eliya districts.. (A)
-
-◼️
-
-[Data](articles/2b924c42.json)
-
-[Extended Data](ext_articles/2b924c42.ext.json)
-
----
-
-### Ranil Wickremesinghe's election symbol is illegal -Vijayadasa Rajapaksa
-
-*2024-08-21 01:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/191573) · `ta`
-
-Vijayadasa Rajapaksa criticizes the Election Commission for assigning an election symbol to a committee during ongoing local government elections, arguing it's premature and undermines public trust in the commission's ability to manage elections efficiently.
-
-🟩
-
-It is illegal to give the election symbol to a committee in the presidential election as the local government elections are not yet over.. However, the National Democratic Front's presidential candidate Vijayadasa Rajapakse said that the Election Commission has done so.
-
-He was speaking at a press conference held at his election office in Colombo on Tuesday (20).
-
-Elections have begun as the nomination has been filed for the local government elections. But the election has not ended yet. In this backdrop, the Election Commission has given a gas cylinder election to a group contesting the local government elections.. This is illegal.
-
-At the same time, if the local government elections are over, there is nothing wrong with providing the election symbol to the election panel to the other election.. Local government elections were initiated, though. But not ending. That is why we say that the election symbol given to a group cannot be given to a different candidate.
-
-...
-
-[Data](articles/8082142c.json)
-
-[Extended Data](ext_articles/8082142c.ext.json)
-
----
-
-### COYLE launches Young Lankan’s program
-
-*2024-08-21 01:00:59* · [`dailyftlk`](https://www.ft.lk/business/COYLE-launches-Young-Lankan-s-program/34-765759) · `en`
-
-From left: Committee Member Ravindu Thilakawardhana, Vice Chairman Suren Chandraratne, YL Member M.M.P.A.L. Weeraratne, Chairman Thushira Raddellla, Senior Vice Chairman Manjula Wijesundera, and Committee Member Janaka Mayakaduwa
-
-The Chamber of Young Lankan Entrepreneurs (COYLE) has announced the launch of its latest initiative, the Young Lankan’s program.
-
-This youth development project is designed to foster entrepreneurship among the next generation, empowering young minds across Sri Lanka to become the driving force behind the nation’s economic growth. As the world rapidly evolves, COYLE recognises the need to invest in the youth of today to secure a prosperous future for tomorrow.
-
-...
-
-[Data](articles/6cb1614f.json)
-
-[Extended Data](ext_articles/6cb1614f.ext.json)
 
 ---

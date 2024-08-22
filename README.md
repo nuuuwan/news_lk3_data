@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 00:09:48**
+As of **2024-08-23 00:21:42**
 
 ## Newspaper Stats
 
-*Scraped **42,148** Articles*
+*Scraped **42,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 3,884
 dailymirrorlk | 4,733
 adaderanalk | 4,939
 tamilmirrorlk | 5,470
-virakesarilk | 6,701
+virakesarilk | 6,702
 adaderanasinhalalk | 7,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,148 (100.0%) of 42,148 articles have been extended.
+42,148 (100.0%) of 42,149 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### ரூட், புறூக், ஸ்மித் ஆகியோர் துடுப்பாட்டத்தில் பிரகாசிப்பு; இலங்கையைவிட 23 ஓட்டங்கள் முன்னிலையில் இங்கிலாந்து
+
+*2024-08-22 23:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191741) · `ta`
+
+இலங்கைக்கு எதிராக மென்ச்செஸ்டர் எமிரேட்ஸ் ஓல்ட் ட்ரபோர்ட் விளையாட்டரங்கில் நடைபெற்றுவரும் ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் தொடரின் முதலாவது போட்டியின் இரண்டாம் நாளான இன்றைய ஆட்ட நேர முடிவின்போது இங்கிலாந்து அதன் முதல் இன்னிங்ஸில் 6 விக்கெட்களை இழந்து 259 ஓட்டங்களைப் பெற்றுள்ளது.
+
+இதற்கு அமைய முதல் இன்னிங்ஸில் 4 விக்கெட்கள் மீதம் இருக்க 23 ஓட்டங்களால் இங்கிலாந்து முன்னிலையில் இருக்கிறது.
+
+இலங்கை அதன் முதன் இன்னிங்ஸில் சகல விக்கெட்களையும் இழந்து 236 ஓட்டங்களைப் பெற்றது.
+
+இலங்கையைப் போன்றே இங்கிலாந்து துடுப்பாட்டத்திலும் மத்திய வரிசையில் ஹெரி புறூக், ஜெமி ஸ்மித் ஆகியோர் அரைச் சதங்கள் குவித்து தமது அணியை பலப்படுத்தினர்.
+
+இன்று காலை பெய்த மழை காரணமாக இரண்டாம் நாள் ஆட்டம் பிற்பகல் 1.15 மணிக்கே ஆரம்பமானது.
+
+பென் டக்கெட் (18), டான் லோரன்ஸ் (30), ஒல்லி போப் (6) ஆகிய மூவரும் களம் விட்டகல இங்கிலாந்தின் மொத்த எண்ணிக்கை 67 ஓட்டங்களாக இருந்தது.
+
+எனினும் ஜோ ரூட், ஹெரி புறூக் ஆகிய இருவரும் 4ஆவது விக்கெட்டில் 58 ஓட்டங்களைப் பகிர்ந்து இங்கிலாந்துக்கு உற்சாகத்தைக் கொடுத்தனர்.
+
+...
+
+[Data](articles/abb4c1ef.json)
+
+---
 
 ### Pakistan reached a strong position to accumulate centuries
 
@@ -2347,29 +2371,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/28bdac3d.json)
 
 [Extended Data](ext_articles/28bdac3d.ext.json)
-
----
-
-### The rain or thunderstorm
-
-*2024-08-22 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையோ-அல்லது-இடியுடன்-கூடிய-மழையோ-பெய்யும்/175-342617) · `ta`
-
-Occasional rain or thunderstorms expected in Western, Sabaragamuwa, Southern, North Western Provinces, Kandy, and Nuwara Eliya districts. Rainfall or thundershowers likely in Eastern and Uva provinces in the evening or night. Heavy rainfall possible in Central Highlands' western areas, North, North Central, North Western Provinces, and Hambantota district, reaching speeds of 30-40 km/h. Thundershowers may briefly affect other regions. Public urged to prepare for potential lightning strikes.
-
-🟩
-
-It is possible to occasionally rain or thunderstorms in the Western, Sabaragamuwa, Southern and North Western Provinces and Kandy and Nuwara Eliya districts.
-
-In the Eastern and Uva provinces, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-There is a possibility that a large number of rainfall is likely to blow up to 30-40 km / h in the western areas of the Central Highlands, North, North Central and North Western Provinces and Hambantota district.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/41e696d1.json)
-
-[Extended Data](ext_articles/41e696d1.ext.json)
 
 ---

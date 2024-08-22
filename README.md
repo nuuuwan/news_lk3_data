@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 05:06:33**
+As of **2024-08-23 05:21:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,163 (100.0%) of 42,174 articles have been extended.
+42,166 (100.0%) of 42,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ This discussion on the impact of motherhood on women’s careers took place at t
 
 [Data](articles/3effd95b.json)
 
+[Extended Data](ext_articles/3effd95b.ext.json)
+
 ---
 
 ### Malaysia and Sri Lanka forge strategic partnership to empower women entrepreneurs
@@ -61,6 +63,8 @@ In Sri Lanka, where women make up approximately 52% of the population, significa
 ...
 
 [Data](articles/fafca2c0.json)
+
+[Extended Data](ext_articles/fafca2c0.ext.json)
 
 ---
 
@@ -79,6 +83,8 @@ US Ambassador Julie Chung joined over 40 Sri Lankan women business owners as the
 ...
 
 [Data](articles/0678c1d8.json)
+
+[Extended Data](ext_articles/0678c1d8.ext.json)
 
 ---
 

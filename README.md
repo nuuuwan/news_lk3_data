@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 08:56:01**
+As of **2024-08-22 09:07:51**
 
 ## Newspaper Stats
 
-*Scraped **42,022** Articles*
+*Scraped **42,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,536
 dailyftlk | 2,723
 adalk | 3,869
 dailymirrorlk | 4,733
-adaderanalk | 4,912
+adaderanalk | 4,913
 tamilmirrorlk | 5,448
 virakesarilk | 6,686
 adaderanasinhalalk | 7,168
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,168
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,018 (100.0%) of 42,022 articles have been extended.
+42,018 (100.0%) of 42,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### Biden, in call with Netanyahu, stresses urgency of Gaza ceasefire
+
+*2024-08-22 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101409/biden-in-call-with-netanyahu-stresses-urgency-of-gaza-ceasefire) · `en`
+
+U.S. President Joe Biden, in a phone call with Israeli Prime Minister Benjamin Netanyahu on Wednesday, stressed the urgent need to conclude a Gaza ceasefire-for-hostages deal and pointed to upcoming Cairo talks as crucial, the White House said.
+
+Their call followed U.S. Secretary of State Antony Blinken’s whirlwind trip to the Middle East that ended on Tuesday without an agreement between Israel and Hamas militants on a truce in the Palestinian enclave.
+
+Negotiators who have struggled for months to conclude a ceasefire deal plan to meet in the coming days in Cairo.
+
+“The president stressed the urgency of bringing the ceasefire and hostage release deal to closure and discussed upcoming talks in Cairo to remove any remaining obstacles,” a White House statement about the call said.
+
+...
+
+[Data](articles/6840868a.json)
+
+---
 
 ### Sri Lanka bonds decline as debt deal runs into election calendar
 
@@ -2223,33 +2241,5 @@ A bond maturing on 01.10.2032 closed at 13.20/25 percent, up 13.10/25 percent. (
 [Data](articles/a857f88a.json)
 
 [Extended Data](ext_articles/a857f88a.ext.json)
-
----
-
-### Police seize 4 pythons and marsh crocodile found hidden in pet shop
-
-*2024-08-21 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101401/police-seize-4-pythons-and-marsh-crocodile-found-hidden-in-pet-shop) · `en`
-
-Wattala Police have taken into custody four pythons that were allegedly illegally smuggled into the country and were concealed at a pet shop in order to be sold.
-
-Police stated that a Sri Lankan marsh crocodile was also discovered during the raid at the pet shop.
-
-The animals were found hidden on the upper floor of the pet shop which is located in the Wattala area.
-
-The shop owner and two other employees have been arrested in connection with the incident.
-
-Police suspect that the pythons were smuggled into the country by concealing them in luggage by airline passengers.
-
-Meanwhile, the marsh crocodile is suspected to have been captured from a lake located in a dry zone area of the country while it is believe that each animal was to be sold for a sum of around Rs. 300,000.
-
-Police have taken necessary steps to transfer the animals to the Dehiwala National Zoo to obtain reports.
-
-The arrested suspects are scheduled to be produced before the Wattala Magistrate’s Court.
-
-◼️
-
-[Data](articles/08e7ed35.json)
-
-[Extended Data](ext_articles/08e7ed35.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 14:36:39**
+As of **2024-08-22 14:55:36**
 
 ## Newspaper Stats
 
-*Scraped **42,077** Articles*
+*Scraped **42,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ newsfirstlk | 363
 bbccomsinhala | 389
 colombotelegraphcom | 403
 islandlk | 2,439
-economynextcom | 2,542
+economynextcom | 2,547
 dailyftlk | 2,723
-adalk | 3,875
+adalk | 3,876
 dailymirrorlk | 4,733
 adaderanalk | 4,928
-tamilmirrorlk | 5,459
+tamilmirrorlk | 5,463
 virakesarilk | 6,693
 adaderanasinhalalk | 7,176
 
@@ -26,39 +26,85 @@ adaderanasinhalalk | 7,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,074 (100.0%) of 42,077 articles have been extended.
+42,077 (100.0%) of 42,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Shine 50 Awards Night Celebrates Sri Lanka’s Impactful Young Leaders
+
+*2024-08-22 14:18:00* · [`economynextcom`](https://economynext.com/shine-50-awards-night-celebrates-sri-lankas-impactful-young-leaders-177731/) · `en`
+
+Neon and Echelon Media recently hosted the Shine 50 Awards and Networking Evening at the Oak Room Ballroom, Cinnamon Grand, celebrating 50 young women making remarkable contributions across Sri Lanka.
+
+The event, attended by U.S. Ambassador to Sri Lanka Julie J. Chung, honoured women aged 18 to 35 who are driving change in diverse fields such as entrepreneurship, environmental advocacy, the arts, science, and technology.
+
+An initiative launched by Neon and Echelon in partnership with USAID, Shine 50 celebrates young women redefining leadership and innovation in their respective sectors. These bold, brilliant, and unstoppable women captivated the evening with their stories, serving as a poignant reflection that Sri Lanka’s future will be shaped not by its past but by new voices, perspectives, and leadership exuded by the Shine 50 inductees.
+
+...
+
+[Data](articles/e6aa5974.json)
+
+---
+
+### Japan, UNFPA Sri Lanka gift computers to Ministry of Women and Child Affairs
+
+*2024-08-22 14:17:00* · [`economynextcom`](https://economynext.com/japan-unfpa-sri-lanka-gift-computers-to-ministry-of-women-and-child-affairs-177741/) · `en`
+
+ECONOMYNEXT – Supported by Japan, UNFPA Sri Lanka has handed over 278 computers to the Ministry of Women and Child Affairs to strengthen services provided for survivors of gender-based violence (GBV) in the country.
+
+“These computers will enable Women Development Officers, Counselling Assistants & Child Rights Promotion Officers at Women Development Units across the country, to regularly update the upcoming GBV referral services database that will enable timely and effective support for survivors of GBV,” United Nations Population Fund Sri Lanka Representative Kunle Adeniyi said on X (twitter).
+
+The database aims to improve coordination, response time and overall effectiveness of GBV interventions across Sri Lanka, he said. (Colombo/Aug22/2024)
+
+◼️
+
+[Data](articles/8bbfbfe6.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-08-22 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191707) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஆகஸ்ட் 22) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 295.7249 ரூபாவாகவும், விற்பனை விலை 305.0419 ரூபாவாகவும் பதிவாகியுள்ளது.
+On August 22, the US dollar bought 295.7249 rupees and sold for 305.0419 rupees.
+
+🟩
+
+The US dollar purchasing price was 295.7249 rupees and the sales price were Rs 305.0419 on Friday (August 22).
 
 ◼️
 
 [Data](articles/caac7be3.json)
 
+[Extended Data](ext_articles/caac7be3.ext.json)
+
 ---
 
-### இலங்கையின் புதிய ஜனாதிபதி அரசியல் அதிகாரம் பகிர்ந்தளிப்பு, பொறுப்புக்கூறலை மேம்படுத்துவதற்கான நடவடிக்கைகளை எடுக்கவேண்டும் - ஐநா மனித உரிமை ஆணையாளர் அலுவலகம்
+### Sri Lanka's new president should take steps to promote the distribution of political power and accountability - the UN Human Rights Commissioner's Office
 
 *2024-08-22 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191705) · `ta`
 
-இலங்கையின் புதிய ஜனாதிபதியாக தெரிவு செய்யப்படுபவர் அரசியல் அதிகாரத்தை பகிர்ந்தளிப்பதற்கும்,பொறுப்புக்கூறல் மற்றும் நல்லிணக்கம் என்பனவற்றை மேம்படுத்துவதற்கும் தேவையான அடிப்படையான அரசியல் யாப்பு மற்றும் நிறுவனரீதியான சீர்திருத்தங்களை முன்னெடுக்கவேண்டும் என ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் அலுவலகம் வேண்டுகோள் விடுத்துள்ளது.
+The UN Human Rights Commissioner's Office urges Sri Lanka's new president to implement political and institutional reforms to enhance power distribution, accountability, and reconciliation. This call comes after the elections, emphasizing the need to address conflict roots, bolster democracy, and ensure justice for all Sri Lankans, aligning with the aspirations of those who protested in 2022.
 
-இலங்கையின் மனித உரிமைநிலவரம்  குறித்த ஐக்கிய நாடுகளின் மனித உரிமை ஆணையாளரின் முழுமையான அறிக்கையிலேயே  இந்த வேண்டுகோள் இடம்பெற்றுள்ளது.
+🟩
 
-தேர்தல்களையடுத்து புதிதாக தெரிவு செய்யப்படும் ஜனாதிபதி ஒரு அவசரவிடயமாக இலங்கை நாட்டுக்கென அனைவரையும் அரவணைக்கும்  முன்னெடுக்கும் தேசிய நோக்கினை முன்னெடுக்கவேண்டும்.
+The United Nations Human Rights Commissioner's Office has requested that the new president of Sri Lanka be the basic political and institutional reforms necessary to distribute political power and promote accountability and reconciliation.
 
-அத்தோடு முரண்பாடுகளிற்கான மூல காரணங்களை கவனத்தில் எடுத்து ஜனநாயகத்தை பலப்படுத்துவதற்கும்,அரசியல் அதிகாரத்தை பகிர்ந்தளிப்பதற்கும்,பொறுப்புக்கூறல் மற்றும் நல்லிணக்கம் என்பனவற்றை மேம்படுத்துவதற்கும் தேவையான அடிப்படையான அரசியல் யாப்பு மற்றும் நிறுவனரீதியான சீர்திருத்தங்களை முன்னெடுக்கவேண்டும்.
+The request was made in full report of the United Nations Human Rights Commissioner on Sri Lanka's Human Rights Council.
 
-...
+Following the elections, the newly elected president must carry out the national aim of carrying out all the people of Sri Lanka.
+
+In addition, the basic political and institutional reforms are necessary to take care of the root causes of conflicts, to strengthen democracy, to distribute political power and to improve accountability and reconciliation.
+
+With the Sri Lankan presidential election and parliamentary elections, Sri Lanka has the opportunity to re -dedicate itself to the transfigured justice, which has been represented by the widespread parties representing all the Sri Lankans who protested in 2022.
+
+◼️
 
 [Data](articles/0f599f53.json)
+
+[Extended Data](ext_articles/0f599f53.ext.json)
 
 ---
 
@@ -75,6 +121,8 @@ The report points to several laws and bills introduced by the Government since 2
 ...
 
 [Data](articles/b7ce34af.json)
+
+[Extended Data](ext_articles/b7ce34af.ext.json)
 
 ---
 
@@ -93,6 +141,22 @@ The channel debuted with several videos, including a teaser trailer, a fun quiz 
 [Data](articles/a5f753a9.json)
 
 [Extended Data](ext_articles/a5f753a9.ext.json)
+
+---
+
+### දෙමෝදර සංචාරකයන්ගෙන් පිරි යයි
+
+*2024-08-22 13:52:12* · [`adalk`](https://www.ada.lk/breaking_news/දෙමෝදර-සංචාරකයන්ගෙන්-පිරි-යයි/11-411502) · `si`
+
+උඩරට දුම්රිය මාර්ගයේ පිහිටි දෙමෝදර  ආරුක්කු නමයේ පැරණි දුම්රිය පාලම නැරඹීම සඳහා  විශාල දෙස් විදෙස් සංචාරකයන් පිරිසක් මේ දිනවල පැමිණෙමින් සිටිති.
+
+විදෙස් සංචාරකයන් විශාල පිරිසක් දිවයිනට පැමිණීමත් හා පාසල් නිවාඩුවත් හේතුවෙන් මෙසේ විශාල සංචාරකයන් පිරිසක් දිනයේ සෑම වේලාවකම  ආරුක්කු නමයේ පාලම නැරඹීමට පැමිණෙමින් සිටින  බව ආරුක්කු නමයේ පාලම අසල ප්‍රදේශයේ පදිංචි  පිරිස් පවසති.
+
+1913 වසරේ වැඩ ආරම්භ කොට 1921 වසරේදී ඉඳි කිරීම්  අවසන් කරන ලද අඩි 80ක උසින් හා අඩි 300ක දිගකින් මෙන්ම අඩි 25ක පළලකින් සමන්විත ආරුක්කු නමයේ පාලමේ විෂ්මිත වාස්තුවිද්‍යාත්මක දක්ෂතාවය සහ ඒ අවට කඳුකරයේ ඇති හරිතකරණය හේතුවෙන් මෙම ප්‍රදේශය සංචාරක ව්‍යාපාරයේ ප්‍රමුඛතම ස්ථානයක් බවට මේ වනවිට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/e8a0048e.json)
 
 ---
 
@@ -144,6 +208,24 @@ Accordingly, the England team will be behind 214 more than Sri Lanka's first inn
 
 ---
 
+### பஸ்ஸை விட்டு ஜோடியாக ஓடிய டயர்கள்
+
+*2024-08-22 13:29:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்ஸை-விட்டு-ஜோடியாக-ஓடிய-டயர்கள்/76-342635) · `ta`
+
+இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ்ஸொன்றின் பின்பக்க ஜோடி டயர்கள், பஸ்ஸை விட்டுவிட்டு 100 அடி தூரத்துக்கு உருண்டோடி புரண்டுகொண்டதுடன், டயருக்கு முன்பாக பின்பக்க டயர்கள் இன்றி நொண்டிய​டித்துக்​கொண்டு ஓடிய பஸ், சுமார் 50 அடி தூரத்தில் நின்றுக்கொண்ட சம்பவம் பதுளையில் இடம்பெற்றுள்ளது.
+
+பதுளை ஸ்பிரிங்வலி வீதியில் ஸ்பிரிங்வேலியிலிருந்து பதுளை நோக்கிச் வியாழக்கிழமை (22) பயணித்து கொண்டிருந்த இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பதுளை டிப்போவுக்குச் சொந்தமான பஸ் வண்டியொன்று முதலில் அச்சில் பின்பக்க டயர் ஜோடி கலந்து விபத்துக்குள்ளானது.
+
+டயர்கள் கழன்றதன் பின்னர் பஸ் சுமார் 50 அடி முன்பாக ஓடி நடுரோட்டில் நிறுத்தப்பட்டது. கழன்ற டயர் ஜோடி 100 அடி தூரம் ஓடிசென்று நின்றுள்ளது.
+
+இந்த விபத்தால்,  இவ்வழியான போக்குவரத்து கடுமையாக பாதிக்கப்பட்டிருந்தது. விபத்து இடம்பெற்றபோது, அந்த பஸ்ஸில், 100க்கு மேற்பட்ட பயணிகள் இருந்தனர். அவர்களுக்கு எவ்விதமான பாதிப்புகளும் ஏற்படவில்லை.
+
+...
+
+[Data](articles/f9065463.json)
+
+---
+
 ### Sajith reiterates plans to amend IMF agreement after winning presidential poll
 
 *2024-08-22 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101420/sajith-reiterates-plans-to-amend-imf-agreement-after-winning-presidential-poll) · `en`
@@ -164,6 +246,26 @@ Commenting further, Premadasa stated that a mere 3.1% economic growth by 2029, w
 
 ---
 
+### Sri Lanka’s Maga Engineering given contract for World Bank-funded Kandy project
+
+*2024-08-22 13:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-maga-engineering-given-contract-for-world-bank-funded-kandy-project-177722/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to improve access roads to the Kandy Multimodal Transport Terminal Development Project (KMTTDP) to Maga Engineering (Pvt) Limited, Minister of Transport and Highways Bandula Gunawardana said.
+
+“The World Bank is funding the greater Kandy city development project Visal Mahanuwara through a 30 billion rupee (koti thun dahasa) loan, which will reduce congestion in the city of Kandy,” Gunawardana told reporters on Thursday (22).
+
+“The access roads to this terminal have to be rehabilitated and improved.”
+
+Bids were invited for the awarding of the contract under the local competitive bidding procedure, he said, and 10 bids were received.
+
+“Based on the recommendations of the Standing Procurement Committee, the Cabinet approved the proposal to award the relevant contract to Maga Engineering (Pvt) Limited.” (Colombo/Aug22/2024)
+
+◼️
+
+[Data](articles/d9603e1b.json)
+
+---
+
 ### Govt. to introduce ‘AI-related student societies’ in schools
 
 *2024-08-22 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101419/govt-to-introduce-ai-related-student-societies-in-schools-) · `en`
@@ -179,6 +281,24 @@ The programme’s goal is to provide an opportunity for the students to engage i
 [Data](articles/5508c576.json)
 
 [Extended Data](ext_articles/5508c576.ext.json)
+
+---
+
+### Sri Lanka’s top court orders election commission to hold local govt polls
+
+*2024-08-22 12:52:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-court-orders-election-commission-to-hold-local-govt-polls-177723/) · `en`
+
+ECONOMYNEXT — The fundamental rights of voters have been violated through the postponement of the 2023 local government elections, the Supreme Court has said, ordering the election commission to hold the postponed election immediately.
+
+Media reports said the apex court had ruled that the Minister of Finance and members of the election commission have violated the voters’ fundamental rights in delaying the election.
+
+The verdict was issued upon hearing petitions  filed by several parties including the main opposition Samagi Jana Balawegaya (SJB), the leftist National Peoples’ Power (NPP) and the People’s Action for Free & Fair Elections (PAFFREL).
+
+The election commission had originally scheduled the local government polls for March 9, 2023, but postponed them to April 25, 2023. The elections were not held, however, citing a lack of funds due to the country’s ongoing recovery from the worst financial crisis in decades. (Colombo/Aug22/2024)
+
+◼️
+
+[Data](articles/fd4f24cb.json)
 
 ---
 
@@ -221,6 +341,24 @@ The presidential election is scheduled for September 21st.
 [Data](articles/1cec4d84.json)
 
 [Extended Data](ext_articles/1cec4d84.ext.json)
+
+---
+
+### Sri Lanka announces fertilizer subsidies for tea and rice farmers ahead of polls
+
+*2024-08-22 12:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-announces-fertilizer-subsidies-for-tea-and-rice-farmers-ahead-of-polls-177713/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Fertilizer Company will give upto a 30,000 rupee fertilizer subsidy to small rice farmers for the current Maha season, Cabinet spokesman Bandula Gunawardana said.
+
+The subsidy will be given at the rate of 15,000 rupees per hectare, for 2 hectares at max.
+
+The cost of the subsidy was not in the cabinet paper he said.
+
+It is not clear how the subsidy will be funded. (Colombo/Aug22/2024)
+
+◼️
+
+[Data](articles/c7b97ce3.json)
 
 ---
 
@@ -309,6 +447,22 @@ The decision was given by Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, M
 [Data](articles/884684f0.json)
 
 [Extended Data](ext_articles/884684f0.ext.json)
+
+---
+
+### ஆ​​டையின்றி தோசை சுட்டதால் வழக்கு
+
+*2024-08-22 11:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆ-டையின்றி-தோசை-சுட்டதால்-வழக்கு/175-342628) · `ta`
+
+மேலாடையின்றி தோசை சுட்டு கொண்டு இருந்ததாகக் கூறி கொழும்பு நகரில் அமைந்துள்ள பிரபல உணவுகமொன்றுக்கு எதிராக பொதுச் சுகாதார பரிசோதகரால்  புதன்கிழமை (21) அன்று கொழும்பு நீதவான் நீதிமன்றில் 02 வழக்கு தாக்கல் செய்யப்பட்டுள்ளது .
+
+அத்துடன் ராஜகிரிய மற்றும் அதன் சுற்றுவட்டாரப் பகுதிகளிலும் பல குற்றச்சாட்டுகளின் கீழ் 06 கடைகளுக்கு எதிராக வழக்கு பதிவு செய்யப்பட்டுள்ளது.
+
+பொது சுகாதார பரிசோதகர் ஏ. எல். எம். சந்திரசேன கொழும்பு பிரதான நீதவான் நீதிமன்றத்தில் குறித்த வழக்கு தாக்கல் செய்திருந்தார்.
+
+◼️
+
+[Data](articles/27a5e724.json)
 
 ---
 
@@ -728,6 +882,26 @@ Commissioner Badrani Jayawardena told the Daily Mirror that any candidate or pol
 
 ---
 
+### தமிழக வெற்றிக் கழகத்தின் கொடி அறிமுகம்
+
+*2024-08-22 10:13:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-வெற்றிக்-கழகத்தின்-கொடி-அறிமுகம்/175-342618) · `ta`
+
+தமிழக வெற்றிக் கழகத்தின் கொடியை, அக்கட்சியின் தலைவரும், நடிகருமான விஜய், சென்னை பனையூரில் உள்ள தலைமை அலுவலகத்தில் வியாழக்கிழமை (22)  அறிமுகம் செய்தார்.
+
+கட்சி கொடியில் சிவப்பு, மஞ்சள் நிற கொடியில் இரண்டு போர் யானைகளுக்கு நடுவே வாகை மலர் கொண்டு வடிவமைக்கப்பட்டுள்ளதோடு, கட்சியின் கொள்கைகள், எதிர்கால திட்டங்கள் அடங்கிய பாடலும் வௌியிடப்பட்டுள்ளது.
+
+தமிழக வெற்றிக் கழகம் கட்சியை துவக்கியுள்ள விஜய், 2026 சட்டசபை தேர்தலில் களமிறங்க உள்ளார். அதற்கு முன், கட்சியின் பெயர் மற்றும் கொடியை, மக்களிடம் கொண்டு சேர்ப்பதற்கான நடவடிக்கைகளை துவக்கி உள்ளார்.
+
+அதன் ஒரு பகுதியாக, இன்று பொதுமக்களுக்கும், தொண்டர்களுக்கும் கட்சி கொடி அறிமுகம் செய்யப்பட்டது. பனையூரில் அமைந்துள்ள கட்சி அலுவலகத்தில், சற்று முன் கொடியேற்றி வைத்த விஜய், கட்சியின் கொள்கைகள், எதிர்கால திட்டங்கள் அடங்கிய பாடலை வெளியிட்டார்.
+
+இதற்கமைய, நடிகர் விஜய்க்கு நாம் தமிழர் ஒருங்கிணைப்பாளர் சீமான்,  தமிழ் மாநில காங்கிரஸ்  தலைவர் ஜி.கே.வாசன் வாழ்த்து தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c9415ae8.json)
+
+---
+
 ### Thunderstorm
 
 *2024-08-22 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-342617) · `ta`
@@ -827,6 +1001,26 @@ We will protect language and culture, we will only do what we can do, and we wil
 [Data](articles/26547943.json)
 
 [Extended Data](ext_articles/26547943.ext.json)
+
+---
+
+### ”வடக்கு, கிழக்கு  இணைக்கப்படாது”
+
+*2024-08-22 10:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-இணைக்கப்படாது/175-342616) · `ta`
+
+சவால்களுக்கு தாம் ஒருபோதும் பயப்படுவதில்லை என்றும் சவால்களை தாம் விரும்புவதாகவும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+அநுராதபுரத்தில் இடம்பெற்ற ஜனாதிபதித் தேர்தல் பிரசாரக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றிய அவர், தாம் கொள்கைகளின் அடிப்படையில் அரசியலில் ஈடுபட்டு வருவதாகவும், செயற்திட்டத்துடன் முன்னோக்கிச் செல்லத் தயார் எனவும் தெரிவித்தார்.
+
+"நாங்கள் சவால்களுக்கு பயப்படுவதில்லை. நான் சவால்களை விரும்புகிறேன். அதைத்தான் நான் என் தந்தையிடம் கற்றுக்கொண்டேன். நான் யாரையும் வெறுக்கவில்லை. அதனால், எங்கள் மீது சேறு பூசுவது பயனற்றது," என்று அவர் கூறினார்.
+
+2005 மற்றும் 2015 ஆம் ஆண்டுகளில் நடைமுறையில் இருந்த விவசாயக் கொள்கையை நடைமுறைப்படுத்துவேன் என்று கூறிய ராஜபக்ச, விவசாயிகளுக்கு உர மானியம் வழங்குவதாகவும் கூறினார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசாங்கம் மாகாண சபைகளுக்கு பொலிஸ் மற்றும் காணி அதிகாரங்களை வழங்காது எனவும் வடக்கு மற்றும் கிழக்கு மாகாணங்கள் இணைக்கப்பட மாட்டாது எனவும் அவர் வலியுறுத்தியுள்ளார்.
+
+...
+
+[Data](articles/977f0003.json)
 
 ---
 
@@ -2017,205 +2211,5 @@ Morocco has an impressive 38% adoption rate after India, and the UAE ranks third
 [Data](articles/870656bc.json)
 
 [Extended Data](ext_articles/870656bc.ext.json)
-
----
-
-### EDB and SLASSCOM launch ‘SheExports’ program to empower women tech entrepreneurs
-
-*2024-08-21 23:48:39* · [`dailyftlk`](https://www.ft.lk/business/EDB-and-SLASSCOM-launch-SheExports-program-to-empower-women-tech-entrepreneurs/34-765820) · `en`
-
-The Sri Lanka Export Development Board (EDB), together with SLASSCOM launched the ‘SheExports’ capacity building program for women tech entrepreneurs on 9 August.
-
-This initiative, designed as a long-term capacity-building and mentoring program, marks a significant milestone in empowering women entrepreneurs in the ICT/BPO sector to take their ventures to the international stage.
-
-The inauguration, held at the EDB, was attended by distinguished personalities including EDB Chairman and CEO Dr. Kingsley Bernard, SLASSCOM Chairman Nishan Mendis and several SLASSCOM Board Directors.
-
-Shades IT Solutions Founder and CEO Shana Karan participated as the Guest Speaker and shared her inspiring success story with the participants. Her journey resonated deeply, offering valuable insights and motivation for the aspiring women entrepreneurs who were attending the program.
-
-...
-
-[Data](articles/7d8da98b.json)
-
-[Extended Data](ext_articles/7d8da98b.ext.json)
-
----
-
-### The Glenrock earns spotlight in National Geographic Traveller (UK) for its eco-luxury offering
-
-*2024-08-21 23:39:00* · [`islandlk`](http://island.lk/the-glenrock-earns-spotlight-in-national-geographic-traveller-uk-for-its-eco-luxury-offering/) · `en`
-
-The Glenrock, a luxurious hideaway nature resort located in the serene mountain village of Belihuloya, has been featured in the September issue of the prestigious National Geographic Traveller (UK). This recognition marks a significant milestone for the property, often celebrated for its unique blend of luxury and sustainability, nestled within the breathtaking landscapes of Sri Lanka.
-
-The feature is a significant achievement for The Glenrock, as it places the resort among the select few that meet the publication’s high standards for luxury, natural beauty, and sustainability. National Geographic Traveller (UK) is one of the leading travel magazines in the UK, with a global reputation that has been established over 135 years. The inclusion of The Glenrock in this magazine not only underscores a commitment to providing an eco-luxury experience but also enhances the property’s visibility to discerning travelers around the world.
-
-...
-
-[Data](articles/77e9cace.json)
-
-[Extended Data](ext_articles/77e9cace.ext.json)
-
----
-
-### People’s Bank hands over newly built home to underprivileged family in Padaviya
-
-*2024-08-21 23:39:00* · [`islandlk`](http://island.lk/peoples-bank-hands-over-newly-built-home-to-underprivileged-family-in-padaviya/) · `en`
-
-People’s Bank officially handed over a newly-built home to a low income family in Padaviya, Weli Oya as part of its ‘Mahajana Mehewara’ social responsibility programme.
-
-Funded by the People’s Bank Buddhist Society, together with staff members of the Anuradhapura Regional Head Office and branches in the region, Sri Lanka Army’s 9th Battalion of the Gajaba Regiment provided the construction manpower for the home.
-
-The event was attended by People’s Chief Executive Officer/General Manager Clive Fonseka, Sri Lanka Army 9th Battalion of the Gajaba Regiment Second-in-Command Sujith Karunanayake, Deputy General Manager-Banking Support Services Nipunika Wijayaratne, Head of Marketing Nalaka Wijayawardana, Deputy General Manager-Channel Management Naleen Pathiranage, Anuradhapura Regional Manager Asitha Danawalawithana, Assistant Regional Managers, Padaviya Branch Manager, Buddhist Society members as well as a large number of the bank’s staff members participated in the programme.
-
-...
-
-[Data](articles/7c940d09.json)
-
-[Extended Data](ext_articles/7c940d09.ext.json)
-
----
-
-### Virtusa recognized as Enterprise Innovator in HFS Horizons: Healthcare Provider (HCP) 2024 Report
-
-*2024-08-21 23:38:00* · [`islandlk`](http://island.lk/virtusa-recognized-as-enterprise-innovator-in-hfs-horizons-healthcare-provider-hcp-2024-report/) · `en`
-
-Company highlighted for its ability to support HCPs on their enterprise transformation journey
-
-Virtusa Corporation, a global provider of digital strategy, digital engineering, and information technology (IT) services, has been recognized as an Enterprise Innovator by leading global research and analysis firm HFS Research in its HFS Horizons: HCP Service Providers, 2024 report.
-
-Virtusa is recognized as a Horizon 2 – Enterprise Innovator in the report, highlighting its commitment to improving provider onboarding timelines and experience and reducing operational costs. Virtusa is one of 36 healthcare service providers assessed in the report for its role in the global care delivery industry. The report specifically commends Virtusa for its ability to address the full value chain including patient intake, diagnosis, care, and provider services.
-
-The Glenrock earns spotlight in National Geographic Traveller (UK) for its eco-luxury offering
-
-...
-
-[Data](articles/28d75d87.json)
-
-[Extended Data](ext_articles/28d75d87.ext.json)
-
----
-
-### ‘SL yet to come out of crisis; increasing dollar revenue should be a priority’
-
-*2024-08-21 23:37:00* · [`islandlk`](http://island.lk/sl-yet-to-come-out-of-crisis-increasing-dollar-revenue-should-be-a-priority/) · `en`
-
-The Sri Lankan economy is now showing some stability after 2022 but it is yet to come out of that crisis. This could be done by increasing dollar revenue and by targeting four major sectors, a top economist attached to an independent policy think tank said.
-
-‘Stability is not a good place to stay in for long for any country but it is time to move out and increase the country’s revenue by curtailing borrowings, Chief Executive Officer, Advocata Institute, Dhananath Fernando said.
-
-Addressing Rotary Club Colombo South members at a recent function held at NH Collection, Colombo, Fernando said; ‘Since we are yet come out of this crisis, the country’s economic growth and stability should come from four main channels/sectors, namely, exports, foreign remittances, tourism and Foreign Direct Investment (FDI).
-
-...
-
-[Data](articles/ae6e8c4f.json)
-
-[Extended Data](ext_articles/ae6e8c4f.ext.json)
-
----
-
-### Union Assurance breaks new ground with industry-first Digital Loyalty Rewards Programme
-
-*2024-08-21 23:36:00* · [`islandlk`](http://island.lk/union-assurance-breaks-new-ground-with-industry-first-digital-loyalty-rewards-programme/) · `en`
-
-Union Assurance introduces another groundbreaking initiative in the Sri Lankan Life Insurance industry with the launch of the Clicklife App’s Digital Loyalty Rewards Programme. This innovative programme, the first-of-its-kind in the market, aligns perfectly with the Company’s purpose of supporting all Sri Lankans to enrich their well-being, by championing innovative platforms that elevate their quality of life while being financially protected every step of the way.
-
-Union Assurance’s new Digital Loyalty Rewards Programme offers all customers an opportunity to earn rewards worth millions through the Clicklife App. The programme is seamlessly integrated into the Clicklife App, allowing customers to accumulate digital rewards and redeem them at a vast network of over 100+ merchants, ranging from supermarkets and pharmacies to restaurants and apparel outlets.
-
-...
-
-[Data](articles/9626bf22.json)
-
-[Extended Data](ext_articles/9626bf22.ext.json)
-
----
-
-### CSE indices send mixed signals; ASPI down, S and P SL 20 up
-
-*2024-08-21 23:35:00* · [`islandlk`](http://island.lk/cse-indices-send-mixed-signals-aspi-down-s-and-p-sl-20-up/) · `en`
-
-JKH said it had completed delisting of its Global Depositary Receipts Program from the Luxembourg Stock Exchange.
-
-“The process of termination and delisting of the GDR Program from the Luxembourg Stock Exchange has been completed, a CSE filing said.
-
-Amid those developments both indices indicated mixed reactions. All Share Price Index went down by 6.73 points while S and P SL20 rose by 6.05 points. Turnover stood at Rs 547 million with two crossings. Those crossings were reported in Melstacope, which crossed 600,000 shares to the tune of Rs 49.2 million and its shares traded at Rs 82 and Pan Asia Bank 1.5 million shares crossed to the tune of Rs 30 million; its shares traded at Rs 20.
-
-...
-
-[Data](articles/63257cd0.json)
-
-[Extended Data](ext_articles/63257cd0.ext.json)
-
----
-
-### SL-Korea Business Council forum sheds insights to future scenarios and challenges
-
-*2024-08-21 23:32:59* · [`dailyftlk`](https://www.ft.lk/opinion/SL-Korea-Business-Council-forum-sheds-insights-to-futurescenarios-and-challenges/14-765814) · `en`
-
-The Sri Lanka-Korea Business Council last week hosted a top-level panel discussion under the theme ‘Sri Lanka’s future: forecast, scenarios and challenges’, which delved into pressing topics concerning the country.
-
-The panel was addressed by Advocata Institute Chairman Murtaza Jafferjee, Verite Research Executive Director Dr. Nishan de Mel, Senior Economist and former Central Bank Assistant Governor Dr. Anila Dias Bandaranaike, and Hatton National Bank Managing Director and CEO Jonathan Alles. The session was moderated by Advocata Institute CEO Dhananath Fernando.
-
-The discussion and insights shared included economic forecast, business impact, socio-economic vulnerabilities and necessary actions, challenges and consequences, current economic status and impact of policy deviations.
-
-...
-
-[Data](articles/b36a41ca.json)
-
-[Extended Data](ext_articles/b36a41ca.ext.json)
-
----
-
-### Final installment of Cucumber Magic
-
-*2024-08-21 23:23:00* · [`islandlk`](http://island.lk/final-installment-of-cucumber-magic/) · `en`
-
-Hi! Yes, this is the final installment where Cucumber is concerned.
-
-I’ve had some very good feedbacks from readers saying that my Cucumber beauty tips have done them good.
-
-You will need 02 tablespoons cucumber juice and 1/2 cup avocado pulp
-
-Mix them well and then apply the paste on your face and leave it on for 15 to 20 minutes.
-
-(This cucumber face pack will soften your skin and reduce blemishes)
-
-You will need 1/2 cucumber, 1/2 apple and 01 tablespoon oats.
-
-Chop the cucumber and apple and mash them and then mix in the oats and blend into a smooth paste.
-
-Apply the paste on your face and neck. Wash off with warm water after 20 minutes.
-
-(If you have sensitive skin, this cucumber face pack will soothe your skin and rejuvenate it)
-
-Apply on the face and let it sit for at least 15 minutes and then rinse with water.
-
-to it. Mix it thoroughly. You can also blend both the ingredients.
-
-Apply this evenly on the face and neck, let it dry for about 20 minutes and then rinse with lukewarm water.
-
-...
-
-[Data](articles/82860f5d.json)
-
-[Extended Data](ext_articles/82860f5d.ext.json)
-
----
-
-### Sri Lanka achieves $9 billion in export income Income in First Half of 2024 – State Minister for Investment Promotion, Dilum Amunugama
-
-*2024-08-21 23:13:00* · [`islandlk`](http://island.lk/sri-lanka-achieves-9-billion-in-export-income-income-in-first-half-of-2024-state-minister-for-investment-promotion-dilum-amunugama/) · `en`
-
-State Minister for Investment Promotion, Dilum Amunugama, announced that Sri Lanka has secured an export income of USD 9 billion in the first six months of this year.
-
-He also highlighted that investment agreements totaling approximately USD 800 million have been signed during the same period.
-
-The State Minister shared this information at a press briefing titled “Two Years of Progress and Advancements” held at the Presidential Media Centre (PMC), today (21).
-
-The Board of Investment of Sri Lanka currently facilitates 15 investment zones, with 1,575 companies operating within them, providing employment to over 500,000 people. Under the government’s new investment program, seven additional investment zones are planned for areas including Mankulam, Paranthan, Kankasanthurai, Trincomalee, Iranawila, Hambantota, and Bingiriya.
-
-...
-
-[Data](articles/99e90bf8.json)
-
-[Extended Data](ext_articles/99e90bf8.ext.json)
 
 ---

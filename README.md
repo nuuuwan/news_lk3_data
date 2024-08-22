@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 17:21:26**
+As of **2024-08-22 17:37:12**
 
 ## Newspaper Stats
 
-*Scraped **42,112** Articles*
+*Scraped **42,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 2,723
 adalk | 3,879
 dailymirrorlk | 4,733
 adaderanalk | 4,934
-tamilmirrorlk | 5,466
+tamilmirrorlk | 5,467
 virakesarilk | 6,695
-adaderanasinhalalk | 7,184
+adaderanasinhalalk | 7,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,108 (100.0%) of 42,112 articles have been extended.
+42,112 (100.0%) of 42,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### “சம்பளத்தை அதிகரிக்க அமைச்சரவை அனுமதி  ”
+
+*2024-08-22 17:20:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-அதிகரிக்க-அமைச்சரவை-அனுமதி/175-342641) · `ta`
+
+2025 ஆம் ஆண்டு ஜனவரி மாதம் முதல் அனைத்து அரச ஊழியர்களுக்குமான சம்பளத்தை அதிகரிக்க அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அரச சேவையில் உள்ள சம்பள முரண்பாடுகளை தீர்க்க நியமிக்கப்பட்ட நிபுணர் குழுவின் தலைவர் உதய செனவிரத்ன தெரிவித்தார்.
+
+கல்வித் தகைமை, அனுபவம், பொறுப்பு ஆகியவற்றை அடிப்படையாகக் கொண்டு, கடைநிலை ஊழியர்களுக்கு 24 வீதமும், உயர்நிலை அதிகாரிகளுக்கு 24 முதல் 50 வீதத்திற்கு மேல் வரையான சம்பள அதிகரிப்பு வழங்க அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அவர் மேலும் தெரிவித்தார்
+
+◼️
+
+[Data](articles/a1c9caef.json)
+
+---
+
+### රියදුරු බලපත් අවලංගු කිරීම ගැන දෙපාර්තමේන්තුවෙන් නිවේදනයක්
+
+*2024-08-22 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200212) · `si`
+
+රියදුරන් විසින් 2009ට පෙර ලබා ගන්නා ලද රියදුරු බලපත්‍ර ඉදිරි මාස තුන ඇතුළත අවලංගු කිරීමට මෝටර් රථ දෙපාර්තමේන්තුව කටයුතු කිරීමට සූදානම් කරමින් සිටින බවට පළවන ප්‍රවෘත්තිය සම්බන්ධව එම දෙපාර්තමේන්තුව විසින් කරුණු පැහැදිලි කර තිබේ.
+
+ඒ අනුව එම දෙපාර්තමේන්තුවේ කොමසාරිස් ජනරාල් නිශාන්ත අනුරුද්ධ විරසිංහ මහතා පවසන්නේ එවැනි රියදුරු බලපත් අවලංගු කිරීමක් පිළිබඳ ප්‍රතිපත්තිමය තීරණයක් මෝටර් රථ දෙපාර්තමේන්තුව හෝ රජය විසින් මෙතෙක් ගෙන නොමැති බවය.
+
+කෙසේ නමුත් ප්‍රවාහන අමාත්‍යාංශය සමග සාකච්ඡා කර මාර්ග ආරක්ෂාව සම්බන්ධයෙන් මතුව ඇති තත්ත්වය සලකා බලා රියදුරු බලපත්‍රයට අසාදු ලකුණු ලබාදීමේ ක්‍රමවේදයක් ක්‍රියාවට නැංවීම සඳහා කටයුතු මේ වනවිට ආරම්භ කර ඇති බව ඔහු පවසයි.
+
+ඒ අනුව ඉදිරි මාස තුන ඇතුළත මෙම නව ක්‍රමවේදය ක්‍රියාත්මක කිරීමට අදාළ මූලික කටයුතු මේ වනවිට නිර්මාණය වෙමින් පවතින බව අද (22) පැවති මාධ්‍ය හමුවේදී ඔහු පැවසීය.
+
+...
+
+[Data](articles/29aa91e6.json)
+
+---
 
 ### Calling Hershath from West Indies
 
@@ -100,6 +132,8 @@ An expert committee, chaired by former Presidential Secretary Udaya Seneviratne,
 
 [Data](articles/3398ea6a.json)
 
+[Extended Data](ext_articles/3398ea6a.ext.json)
+
 ---
 
 ### ‘We gain nothing by misleading Tamil people in the North’ - Namal
@@ -120,23 +154,31 @@ Speaking further, the SLPP presidential candidate said: “We are committed to r
 
 [Data](articles/bea2e577.json)
 
+[Extended Data](ext_articles/bea2e577.ext.json)
+
 ---
 
-### “ 21ஆம் திகதி எமது வெற்றியை உறுதி செய்வோம்”
+### "We will ensure our success on the 21st"
 
 *2024-08-22 16:19:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21ஆம்-திகதி-எமது-வெற்றியை-உறுதி-செய்வோம்/175-342640) · `ta`
 
-தேர்தலில் சிலர் முன்கூட்டியே வெற்றி பெற்றாலும், ரணில் விக்கிரமசிங்ஹ சந்தேகத்திற்கு இடமின்றி செப்டம்பர் 21 ஆம் திகதி வெற்றியீட்டுவார் என தொழில்  மற்றும் வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான ஜனாதிபதியின் ஆலோசகர் மனுஷ நாணயக்கார, வியாழக்கிழமை (22) இடம்பெற்ற வடிவேல் சுரேஷின் பதவியேற்பு நிகழ்வின் போது  தெரிவித்தார்.
+Manusha Nanayakkara, advising at a swearing-in ceremony, expressed confidence in Ranil Wickremesinghe's election victory, citing strong grassroots support from UNP members. She highlighted the readiness of villagers to back Wickremesinghe due to his leadership and plans for national development. Despite challenges, including skepticism towards Sajith Premadasa's candidacy, the focus remains on electing a leader committed to progress. The assurance was made for success in the upcoming elections on the 21st, with implications for parliamentary membership and party unity.
 
-பாராளுமன்றத்தில் தலதா அத்துகோரள ஆற்றிய உரையானது சமகி ஜன பலவேகய வின் அடிமட்ட உறுப்பினர்கள் மத்தியில்  எதிரொலிக்கும் அத்துடன் ஐக்கிய தேசியக் கட்சியின்  தலைவரைச் சுற்றி திரளுவதற்கு அவர்களைத் தூண்டும் என அமைச்சர் தெரிவித்தார்.
+🟩
 
-“ஐக்கிய மக்கள் சக்தியின் கிராம மட்ட உறுப்பினர்கள் அடிப்படையில் ஐக்கிய தேசியக் கட்சியின் அங்கத்தவர்கள். ஆகவே தமது தலைவர் நாட்டைக் கட்டியெழுப்பும் நோக்கில் திட்டமிட்டு செயற்ப்படுகின்றதால், தங்களது  ஆதரவை அவருக்கு வழங்க மக்கள்  தயாராக உள்ளனர்.
+President's adviser to industry and foreign employment, Manusha Nanayakkara, said at the swearing -in ceremony on Thursday (22), that Ranil Wickremesinghe will undoubtedly win the election even though some people win the election.
 
-தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் என்ற வகையில் ஜனாதிபதி, தேவையான அறிவுறுத்தல்களையும் வழிகாட்டுதல்களையும் தொழில் அமைச்சுக்கு  வழங்கிவருகிறார் . எனவே, திட்டமிட்டபடி அமைச்சின் அனைத்து பணிகளும்  தொடரும்.
+The speech delivered by the Dalada Attukorala in Parliament will be echoed among the grassroots level members of the Samaki Jana Balavayaka and that they will be provoking them around the leader of the United National Party.
+
+“UNP members are based on village level members of the United People's Power. Therefore, the people are ready to give their support for him as their leader is planning to build the country.
+
+As Minister of Labor and Foreign Employment, the President gives the necessary instructions and guidelines to the Ministry of Labor. Therefore, all the tasks of the Ministry will continue as planned.
 
 ...
 
 [Data](articles/c47323da.json)
+
+[Extended Data](ext_articles/c47323da.ext.json)
 
 ---
 
@@ -183,6 +225,8 @@ The arrest came hot on the heels of pressure from civil society activists and he
 ...
 
 [Data](articles/58fb989f.json)
+
+[Extended Data](ext_articles/58fb989f.ext.json)
 
 ---
 
@@ -2243,49 +2287,5 @@ Minister of Foreign Affairs and Minister of Justice, Justice, Prison Affairs and
 [Data](articles/9c075e8d.json)
 
 [Extended Data](ext_articles/9c075e8d.ext.json)
-
----
-
-### The first fuel, subsidy for fertilizer
-
-*2024-08-22 02:37:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-எரிபொருள்-உரத்திற்கு-மானியம்/175-342609) · `ta`
-
-The government has approved subsidies: 25 rupees per liter for diesel and kerosene for fishermen, and a 4,000 rupee subsidy for fertilizers for the tea department.
-
-🟩
-
-The Cabinet has approved a subsidy of 25 rupees per liter of diesel and kerosene for fishermen from today.
-
-Meanwhile, the Cabinet has approved the tea department's 4,000 rupee fertilizer subsidy.
-
-◼️
-
-[Data](articles/08182dbb.json)
-
-[Extended Data](ext_articles/08182dbb.ext.json)
-
----
-
-### Confusion in voting among Tamils
-
-*2024-08-22 02:34:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்கள்-மத்தியில்-வாக்களிப்பதில்-குழப்பம்/175-342608) · `ta`
-
-Tamil voters face confusion over choosing between leaders Ranil Wickremesinghe and Sajith Premadasa due to past electoral decisions. The 2005 defeat of Wickremesinghe by Tamil votes led to regret, yet in 2019, Tamil support divided between him and Premadasa. This election cycle sees a similar dilemma, with both parties vying for Tamil support amidst historical voting patterns and recent political shifts.
-
-🟩
-
-Ranil Wickremesinghe and Sajith Premadasa, who are adorable leaders, are confused by the crisis of whom the Tamil people to vote for this time.. Attorney -at -law Dalada Attukorala, a former MP of the United People's Power and former Justice Minister.
-
-Parliament convened on Wednesday (21) chaired by Speaker Mahinda Yapa Abeywardena. He said this while addressing a special statement before announcing his resignation.
-
-The main reason for the failure of the Tamil people to vote for the defeat of our candidate Ranil Wickremesinghe in the 2005 presidential election, the people of the North and East were subjected to voting.. Ranil Wickremesinghe would have been president. So they are sure that they will correct the mistake that day.
-
-Gotabhaya Rajapaksa and Sajith Premadasa voted for Sajith Premadasa when the Tamil people of the North and East contested the 2019 presidential election.
-
-...
-
-[Data](articles/2dd227d0.json)
-
-[Extended Data](ext_articles/2dd227d0.ext.json)
 
 ---

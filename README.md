@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 18:39:43**
+As of **2024-08-22 18:56:02**
 
 ## Newspaper Stats
 
-*Scraped **42,122** Articles*
+*Scraped **42,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 403
 islandlk | 2,441
 economynextcom | 2,547
 dailyftlk | 2,723
-adalk | 3,880
+adalk | 3,881
 dailymirrorlk | 4,733
 adaderanalk | 4,936
 tamilmirrorlk | 5,468
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,120 (100.0%) of 42,122 articles have been extended.
+42,123 (100.0%) of 42,123 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,29 @@ His body was brought ashore in a blue body bag and driven in an ambulance to a n
 
 [Data](articles/add028c0.json)
 
+[Extended Data](ext_articles/add028c0.ext.json)
+
 ---
 
-### ගංවතුර ගැන දැනුම්දීමක්
+### A Notification of Floods
 
 *2024-08-22 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200215) · `si`
 
-දින කිහිපයක් පුරා ඇද හැලුණු වර්ෂාවේ අඩුවීමක් මේ වනවිට දැකගැනීමට හැකිවුවත්, පැවති අවදානම් තත්ත්වය තවමත් එලෙසින්ම පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසා සිටියි.
+Flood warnings remain active despite reduced rainfall. Irrigation Engineer Sakura reports ongoing flood risks from the Black, Gin, and Nilwala rivers. Flooding in Kalutara's small rivers persists, caution advised for road users. Water levels in Gin River and lower areas are monitored closely; similar vigilance needed for lowlands.
 
-දිවයිනේ නවතම තත්ත්වය පිළිබඳ යාවත්කාලීන කිරීමක් සිදුකරමින් වාරිමාර්ග ඉංජිනේරු (ජල විද්‍යා හා ආපදා කළමනාකරණ අංශය) ජී. ඩබ්. ඒ. සකුරා දිල්තාරා මහත්මිය අද (22) පස්වරුවේ පවසා සිටියේ කළු,  ගිං සහ නිල්වලා ගංඟා ද්‍රෝණීන්ගේ ගංවතුර අවදානම තවමත් පවතින බවයි.
+🟩
 
-"දින කිහිපයක් පුරාවට පැවති කළු,  ගිං සහ නිල්වලා ගංඟා ද්‍රෝණීන්ගේ මෙන්ම කළු ගඟෙහි උප ද්‍රෝණියේ ගංවතුර අවදානම තවමත් පවතිනවා. නමුත් අද දිනයේ සැලකිය යුතු වර්ෂාපතනයක් නොලැබීම නිසා එහි ජල මට්ටම තව දුරටත් ඉහළ යාමකින් තොරව ජල මට්ටමේ අඩුවීමක් අපේක්ෂා කරනවා. කෙසේ නමුත් ඉදිරි දිනය තුළත් පහත්බිමවල ගංවතුර තත්ත්වය පවතීවි. පවතින වර්ෂා රහිත කාලගුණ තත්ත්වයත් සමග මෙම තත්ත්වය ක්‍රමයෙන් පහළ යනු ඇතැයි බලාපොරොත්තු වෙනවා.
+The decrease in the rainy decrease in a few days, the risk situation has still said that the risk situation is still there.
+
+Irrigation Engineer (Hydrology and Disaster Management Division) by conducting update of the country's latest status. W. A. Mrs. Sakura, Diltota said that the floods of black, Gin and Nilwala River.
+
+"The flooding of the black, Gin and Nilwala river, and the distloral risk of the black river, which have been throughout several days. However, it is no longer expected to be no significant rainfall today. However, there will be floods in the next day and in the next day. The situation will gradually gradually with the current rainless weather conditions.
 
 ...
 
 [Data](articles/ccb90c8b.json)
+
+[Extended Data](ext_articles/ccb90c8b.ext.json)
 
 ---
 
@@ -143,6 +151,32 @@ The body was then found in the house while the police were inspected by the hous
 [Data](articles/6f60e5f5.json)
 
 [Extended Data](ext_articles/6f60e5f5.ext.json)
+
+---
+
+### Another US war ship to the port
+
+*2024-08-22 17:35:11* · [`adalk`](https://www.ada.lk/picture_story/තවත්-ඇමෙරිකා-යුද-නැවක්-කොළඹ-වරායට/10-411507) · `si`
+
+The USS Stockdale, an Arleigh Burke-class destroyer, docked at the Port of Colombo on August 22, commanded by Lauren Johnson. It will depart on August 23, 2024, after fulfilling supply and service needs. This marks the third US naval vessel to arrive in Colombo since the same day.
+
+🟩
+
+The US Navy, US Navy, arrived at the Port of Colombo today (August 22
+
+Arleigh Burke - Clas Destroyer, which arrived at the Colombo port, is 155.3 meters in length and the Commander Lauren Johnson is the Commanding Officer of the Ship.
+
+Further, following the supplies and service requirements, the 'USS Stockdale' is due to leave the island on 23 August 2024.
+
+The US Navy, US Navy, arrived at the Port of Colombo today (August 22
+
+Accordingly, three ships in the US have arrived at the Port of Colombo since the end of this day.
+
+◼️
+
+[Data](articles/bea964d6.json)
+
+[Extended Data](ext_articles/bea964d6.ext.json)
 
 ---
 
@@ -2295,19 +2329,5 @@ The following countries will be eligible for visa free entry.
 [Data](articles/371af97f.json)
 
 [Extended Data](ext_articles/371af97f.ext.json)
-
----
-
-### The Ambassador of Vietnam to Sri Lanka presents credentials
-
-*2024-08-22 05:50:00* · [`economynextcom`](https://economynext.com/the-ambassador-of-vietnam-to-sri-lanka-presents-credentials-177680/) · `en`
-
-ECONOMYNEXT – Trinh Thi Tam as Ambassador to Sri Lanka from the Socialist Republic of Vietnam has presented credentials to President Ranil Wickremesinghe, the Foreign Ministry said.
-
-◼️
-
-[Data](articles/b736840f.json)
-
-[Extended Data](ext_articles/b736840f.ext.json)
 
 ---

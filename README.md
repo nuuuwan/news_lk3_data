@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 15:06:33**
+As of **2024-08-22 15:21:42**
 
 ## Newspaper Stats
 
-*Scraped **42,089** Articles*
+*Scraped **42,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 403
 islandlk | 2,439
 economynextcom | 2,547
 dailyftlk | 2,723
-adalk | 3,876
+adalk | 3,877
 dailymirrorlk | 4,733
 adaderanalk | 4,929
 tamilmirrorlk | 5,464
@@ -26,29 +26,55 @@ adaderanasinhalalk | 7,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,087 (100.0%) of 42,089 articles have been extended.
+42,089 (100.0%) of 42,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### செப்டெம்பர் 8 ஆம் திகதி ஆரம்பம்
+### ජනපති හා මැතිවරණ කොමිෂම මූලික අයිතිවාසිකම් උල්ලංගණය කළ බවට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කරයි
+
+*2024-08-22 14:57:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-මැතිවරණ-කොමිෂම-මූලික-අයිතිවාසිකම්-උල්ලංගණය-කළ-බවට-ශ්‍රේෂ්ඨාධිකරණය-තීන්දු-කරයි/11-411504) · `si`
+
+පළාත් පාලන ඡන්ද විමසීම නිසි පරිදි නොපැවැත්වීම තුළින් මැතිවරණ කොමිසමේ සාමාජිකයින් හා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+
+ඒ සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ පැෆ්රල් ආයතනය විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සම්වල තීන්දුව දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝග නිකුත් කළේය.
+
+ඒ අනුව හැකි ඉක්මනින් පළාත් පාලන ඡන්ද විමසීම පැවැත්වීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය මැතිවරණ කොමිසමට නියම කර තිබේ.
+
+අගවිනිසුරු ජයන්ත ජයසූරිය, විජිත් මලල්ගොඩ, මුර්දු ප්‍රනාන්දු, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන මහත්ම මහත්මීන්ගෙන් සමන්විත පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසු
+
+◼️
+
+[Data](articles/e678b65d.json)
+
+---
+
+### Beginning on September 8th
 
 *2024-08-22 14:50:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டெம்பர்-8-ஆம்-திகதி-ஆரம்பம்/175-342637) · `ta`
 
-2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கான உத்தியோகபூர்வ வாக்குச் சீட்டுகளை விநியோகிக்கும் விசேட தினமாக செப்டம்பர் 8 ஆம் திகதியை (ஞாயிற்றுக்கிழமை) தபால் திணைக்களம் அறிவித்துள்ளது.
+Starting September 8th, the Postal Department will distribute official ballots for the 2024 presidential election until September 14th. Deputy Chief Minister DA Rajitha K Ranasinghe mentioned that the distribution hours are from 8:00 am to 6:00 pm. After September 14th, no more ballots will be supplied, but voters can still obtain them upon confirming their identity at their local post office during the election period.
 
-செப்டெம்பர் 8ஆம் திகதி அரசாங்க விடுமுறை நாளாக இருந்தாலும் உத்தியோகபூர்வ வாக்குச் சீட்டு விநியோகம் காலை 8.00 மணி முதல் மாலை 6.00 மணி வரை மேற்கொள்ளப்படும் என எதிர்பார்க்கப்படுவதாக பிரதி தபால் மா அதிபர் (பதில்) டி.ஏ.ராஜித கே.ரணசிங்க ஊடகங்களுக்குத் தெரிவித்தார்.
+🟩
 
-உத்தியோகபூர்வ வாக்குச் சீட்டுகளைப் பெறுவதற்காக அறிவிக்கப்பட்ட திகதியில் மக்கள் தங்கள் வீடுகளில் இருப்பார்கள் என்று நாங்கள் நம்புகிறோம்," என்று அவர் மேலும் கூறினார்.
+The Postal Department has announced the special day of distributing official ballot for the 2024 presidential election.
 
-அதன்படி, வாக்குச் சீட்டுகளை விநியோகிக்க செப்டம்பர் 14-ஆம் திகதி இறுதி நாளாக அறிவிக்கப்பட்டுள்ளது.
+The Deputy Chief Minister (Reply) DA Rajitha K Ranasinghe told the media that the official ballot distribution of the official ballot is expected to be carried out from 8.00 am to 6.00 pm.
 
-இறுதி திகதியை தேர்தல் ஆணைக்குழு அறிவித்தது. அதன்படி, செப்டம்பர் 14ஆம் திகதிக்குப் பின், அதிகாரப்பூர்வ தேர்தல் அட்டைகளை வீடு வீடாக விநியோகம் செய்வது நிறுத்தப்படும்.
+We hope that people will be in their homes on the date of announced to receive official ballot, ”he added.
 
-...
+Accordingly, the last day of September 14 has been announced to distribute ballot.
+
+The Election Commission announced the final date. Accordingly, after September 14, the supply of official election cards will be stopped.
+
+But after people confirm their identity, they can receive their voting cards from the nearby post office at the time of the election.
+
+◼️
 
 [Data](articles/886ae117.json)
+
+[Extended Data](ext_articles/886ae117.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ This top-tier recognition places Dr. Weerasinghe among the elite central bank go
 ...
 
 [Data](articles/5bb9b0c1.json)
+
+[Extended Data](ext_articles/5bb9b0c1.ext.json)
 
 ---
 
@@ -2229,23 +2257,5 @@ In a strategic move to position Sri Lanka as a regional centre of excellence for
 [Data](articles/78a064e7.json)
 
 [Extended Data](ext_articles/78a064e7.ext.json)
-
----
-
-### Reality television program ‘On Eagle’s Wings’ to transform Sri Lanka’s SME landscape
-
-*2024-08-21 23:53:26* · [`dailyftlk`](https://www.ft.lk/business/Reality-television-program-On-Eagle-s-Wings-to-transform-Sri-Lanka-s-SME-landscape/34-765822) · `en`
-
-With the support of the United States through the United States Agency for International Development (USAID), the Lanka Impact Investing Network (LIIN) has announced the ‘On Eagle’s Wings’ program.
-
-‘On Eagles Wings’ is a groundbreaking 32-episode reality television program designed to nurture entrepreneurship and drive inclusive economic growth in Sri Lanka.
-
-The launch event on 15 August brought together stakeholders, entrepreneurs, and investors to celebrate and support the next wave of Sri Lankan Small and Medium-sized Enterprises (SMEs). The program targets unlocking $ 3.5 million in capital, nurturing over 400 impact enterprises, and empowering 2,000 entrepreneurs. USAID’s Climate Adaptation Project and the USAID CATALYZE Sri Lanka Private Sector Development Activity supported the program development.
-
-...
-
-[Data](articles/5f1a7631.json)
-
-[Extended Data](ext_articles/5f1a7631.ext.json)
 
 ---

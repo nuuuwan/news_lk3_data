@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 00:53:46**
+As of **2024-08-23 01:06:31**
 
 ## Newspaper Stats
 
-*Scraped **42,149** Articles*
+*Scraped **42,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,723
 adalk | 3,884
 dailymirrorlk | 4,733
 adaderanalk | 4,939
-tamilmirrorlk | 5,470
+tamilmirrorlk | 5,471
 virakesarilk | 6,702
 adaderanasinhalalk | 7,194
 
@@ -26,9 +26,27 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,149 (100.0%) of 42,149 articles have been extended.
+42,149 (100.0%) of 42,150 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-23 (Friday)
+
+### ஜனாதிபதி வேட்பாளர் மரணம்
+
+*2024-08-23 00:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-மரணம்/175-342660) · `ta`
+
+இம்முறை ஜனாதிபதி தேர்தலில் சுயேட்சை வேட்பாளராக போட்டியிட்ட அய்ட்ரூஸ் முகமது இலியாஸ் (வயது 78)  காலமானார்.
+
+சுகவீனமுற்றிருந்த அவர் 2 நாட்களாக புத்தளம் ஆதார  வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் நேற்று (22) காலமானார்.
+
+அவர் ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் யாழ்ப்பாண மாவட்ட முன்னாள் நாடாளுமன்ற உறுப்பினர் என்பது குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/df17e689.json)
+
+---
 
 ### 2024-08-22 (Thursday)
 
@@ -240,7 +258,7 @@ The Navy has also informed the incident regarding the disappearances.
 
 *2024-08-22 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101432/family-living-in-makeshift-hut-atop-tree-with-newborn-triplets-receive-new-home) · `en`
 
-A family which had been living in a makeshift hut atop a tree in Habarana with their newborn triplets were today (22) gifted a new home, build with the assistance of generous donors, just three months after Ada Derana reported on the plight of the couple who were lacking a proper home for their children.
+A family which had been living in a makeshift hut atop a tree in Habarana with their newborn triplets were today (22) gifted a new home, built with the assistance of generous donors, just three months after Ada Derana reported on the plight of the couple who were lacking a proper home for their children.
 
 This was made possible through the initiative of the Chief Incumbent of the Sandagiri Maha Seya in Hanthana, Ven. Gangasiripura Dhammaloka Thero and with the generous donations from benefactors living in Sri Lanka and abroad.
 
@@ -2359,29 +2377,5 @@ Accordingly, Tamil Nadu Coordinator Seeman and Tamil Nadu Congress leader GK Vas
 [Data](articles/c9415ae8.json)
 
 [Extended Data](ext_articles/c9415ae8.ext.json)
-
----
-
-### Thunderstorm
-
-*2024-08-22 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-342617) · `ta`
-
-Occasional rains or thunderstorms expected in Western, Sabaragamuwa, Southern, North Western Provinces, Kandy, and Nuwara Eliya districts. Rainfall or thundershowers likely in Eastern and Uva provinces in the evening or night. Heavy rainfall possible in western areas of Central Highlands, North, North Central, and North Western Provinces, and Hambantota district, with winds up to 30-40 km/h. Thundershowers may affect upcoming areas; public advised to take precautions against lightning.
-
-🟩
-
-It is possible to occasionally rain or thunderstorms in the Western, Sabaragamuwa, Southern and North Western Provinces and Kandy and Nuwara Eliya districts.
-
-In the Eastern and Uva provinces, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-There is a possibility that a large number of rainfall is likely to blow up to 30-40 km / h in the western areas of the Central Highlands, North, North Central and North Western Provinces and Hambantota district.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/28bdac3d.json)
-
-[Extended Data](ext_articles/28bdac3d.ext.json)
 
 ---

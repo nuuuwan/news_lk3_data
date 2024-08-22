@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 19:55:38**
+As of **2024-08-22 20:08:41**
 
 ## Newspaper Stats
 
-*Scraped **42,126** Articles*
+*Scraped **42,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 403
 islandlk | 2,441
 economynextcom | 2,547
 dailyftlk | 2,723
-adalk | 3,881
+adalk | 3,882
 dailymirrorlk | 4,733
 adaderanalk | 4,937
 tamilmirrorlk | 5,469
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,125 (100.0%) of 42,126 articles have been extended.
+42,126 (100.0%) of 42,127 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Additionally, Ather will also focus on establishing a network of fast-charging i
 ...
 
 [Data](articles/8424ff59.json)
+
+[Extended Data](ext_articles/8424ff59.ext.json)
 
 ---
 
@@ -75,6 +77,22 @@ Responding to a question raised by a journalist, "If the present president wins 
 [Data](articles/089ef98d.json)
 
 [Extended Data](ext_articles/089ef98d.ext.json)
+
+---
+
+### 2024 ජනවාරි සිට සෑම රාජ්‍ය සේවකයෙකුගේම මූලික වැටුප සියයට 24 සිට 50 කින් ඉහළට
+
+*2024-08-22 18:31:29* · [`adalk`](https://www.ada.lk/breaking_news/2024-ජනවාරි-සිට-සෑම-රාජ්‍ය-සේවකයෙකුගේම-මූලික-වැටුප-සියයට-24-සිට-50-කින්-ඉහළට/11-411508) · `si`
+
+ලබන වසරේ ජනවාරි මාසයේ සිට සෑම රාජය සේවකයෙකුගේම මූලික වැටුප සියයට 24 සිට සියයට 50 දක්වා වූ ප්‍රතිශතයකින් ඉහළ නැංවීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+රාජ්‍ය සේවක වැටුප් විශමතා ඉවත් කිරීම වෙනුවෙන් පත්කළ විශේෂඥ කමිටුවේ සභාපති උදය සෙනෙවිරත්න මහතා ප්‍රකාශ කළේ මේ අනුව රජ්‍ය සේවයේ පහළම තලයේ සේවකයාගේ මූලික වැටුප සියයට 24කින් ඉහළ නැංවෙනු ඇති බවයි.
+
+එසේම ඉහළ සේවකයන්ගේ මූලික වැටුප සියයට සියයට 24 සිට සියයට 50 දක්වා වූ ප්‍රතිශතයකින් ඉහළ නැංවීමට නියමිත අතර එහිදී ඔවුන්ගේ සුදුසුකම්, පළපුරුද්ද හා රැකියාවේ කාර්ය යනාදිය සලකා බැලීමට නියමිතය.
+
+◼️
+
+[Data](articles/fa2e31a1.json)
 
 ---
 
@@ -2297,31 +2315,5 @@ The general public is requested to take adequate precautions to minimize damages
 [Data](articles/c25402ad.json)
 
 [Extended Data](ext_articles/c25402ad.ext.json)
-
----
-
-### Chancellor arrested for showing the film
-
-*2024-08-22 07:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருபாலாருக்கும்-படம்-காட்டிய-அதிபர்-கைது/175-342612) · `ta`
-
-A school principal was arrested for allegedly showing pornographic images to Grade 5 students during evening classes. The incident came to light when a parent learned about it from their child. The principal, aged 57, faces charges and will be produced in court. Further inquiries are ongoing.
-
-🟩
-
-A school principal has been arrested for showing pornographic images through his mobile phone for students and students in Grade 5.
-
-Eravur police said that a 57 -year -old school principal from a school in the Eravur police division in Batticaloa has been arrested on Wednesday night.
-
-Six people, including 3 girls, are educated in the Grade 5 Grade 5 in the police division.. In this case;The Chancellor has been taught in the evening after school after school ended the students who appear for the 5th scholarship examination.
-
-When the Chancellor asked the students, the girl told his parents that a student could not go to the evening class as the principal had shown pornographic pictures from her mobile phone.
-
-Following the incident, the parents of the 3 -year -old girl, who were informed of the 119th police emergency number, registered a vote from the 3 students and the 57 -year -old Chancellor arrested the Chancellor.
-
-...
-
-[Data](articles/c2aef66a.json)
-
-[Extended Data](ext_articles/c2aef66a.ext.json)
 
 ---

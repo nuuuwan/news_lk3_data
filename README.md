@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 04:09:17**
+As of **2024-08-23 04:21:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,158 (100.0%) of 42,163 articles have been extended.
+42,163 (100.0%) of 42,163 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ SPARK is an annual skills focused launch-pad  for Sri Lanka’s next generation
 ...
 
 [Data](articles/fab84c37.json)
+
+[Extended Data](ext_articles/fab84c37.ext.json)
 
 ---
 
@@ -62,6 +64,8 @@ Cabraal and the other accused are charged with causing Rs. 1.843 billion in loss
 
 [Data](articles/9e3ab253.json)
 
+[Extended Data](ext_articles/9e3ab253.ext.json)
+
 ---
 
 ### Speaker Mahinda Yapa Abeywardana leads Parliamentary delegation to Maldives
@@ -77,6 +81,8 @@ During the visit, Abeywardana paid a courtesy call on Republic of Maldives Presi
 ...
 
 [Data](articles/ad4b757d.json)
+
+[Extended Data](ext_articles/ad4b757d.ext.json)
 
 ---
 
@@ -96,6 +102,8 @@ Speaking at the post-Cabinet meeting media briefing he noted that the initiative
 
 [Data](articles/f3d0c54e.json)
 
+[Extended Data](ext_articles/f3d0c54e.ext.json)
+
 ---
 
 ### SJB Jaffna District Organiser pledges support to President
@@ -113,6 +121,8 @@ Following the pledging of support, Stanley was appointed as the Jaffna District 
 ◼️
 
 [Data](articles/e7635e8e.json)
+
+[Extended Data](ext_articles/e7635e8e.ext.json)
 
 ---
 

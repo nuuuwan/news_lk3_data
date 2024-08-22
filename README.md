@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 14:21:16**
+As of **2024-08-22 14:36:39**
 
 ## Newspaper Stats
 
-*Scraped **42,074** Articles*
+*Scraped **42,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,542
 dailyftlk | 2,723
 adalk | 3,875
 dailymirrorlk | 4,733
-adaderanalk | 4,927
+adaderanalk | 4,928
 tamilmirrorlk | 5,459
-virakesarilk | 6,691
+virakesarilk | 6,693
 adaderanasinhalalk | 7,176
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,073 (100.0%) of 42,074 articles have been extended.
+42,074 (100.0%) of 42,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-22 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191707) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஆகஸ்ட் 22) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 295.7249 ரூபாவாகவும், விற்பனை விலை 305.0419 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/caac7be3.json)
+
+---
+
+### இலங்கையின் புதிய ஜனாதிபதி அரசியல் அதிகாரம் பகிர்ந்தளிப்பு, பொறுப்புக்கூறலை மேம்படுத்துவதற்கான நடவடிக்கைகளை எடுக்கவேண்டும் - ஐநா மனித உரிமை ஆணையாளர் அலுவலகம்
+
+*2024-08-22 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191705) · `ta`
+
+இலங்கையின் புதிய ஜனாதிபதியாக தெரிவு செய்யப்படுபவர் அரசியல் அதிகாரத்தை பகிர்ந்தளிப்பதற்கும்,பொறுப்புக்கூறல் மற்றும் நல்லிணக்கம் என்பனவற்றை மேம்படுத்துவதற்கும் தேவையான அடிப்படையான அரசியல் யாப்பு மற்றும் நிறுவனரீதியான சீர்திருத்தங்களை முன்னெடுக்கவேண்டும் என ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் அலுவலகம் வேண்டுகோள் விடுத்துள்ளது.
+
+இலங்கையின் மனித உரிமைநிலவரம்  குறித்த ஐக்கிய நாடுகளின் மனித உரிமை ஆணையாளரின் முழுமையான அறிக்கையிலேயே  இந்த வேண்டுகோள் இடம்பெற்றுள்ளது.
+
+தேர்தல்களையடுத்து புதிதாக தெரிவு செய்யப்படும் ஜனாதிபதி ஒரு அவசரவிடயமாக இலங்கை நாட்டுக்கென அனைவரையும் அரவணைக்கும்  முன்னெடுக்கும் தேசிய நோக்கினை முன்னெடுக்கவேண்டும்.
+
+அத்தோடு முரண்பாடுகளிற்கான மூல காரணங்களை கவனத்தில் எடுத்து ஜனநாயகத்தை பலப்படுத்துவதற்கும்,அரசியல் அதிகாரத்தை பகிர்ந்தளிப்பதற்கும்,பொறுப்புக்கூறல் மற்றும் நல்லிணக்கம் என்பனவற்றை மேம்படுத்துவதற்கும் தேவையான அடிப்படையான அரசியல் யாப்பு மற்றும் நிறுவனரீதியான சீர்திருத்தங்களை முன்னெடுக்கவேண்டும்.
+
+...
+
+[Data](articles/0f599f53.json)
+
+---
+
+### Sri Lanka needs transformational changes for accountability and reconciliation - UN report
+
+*2024-08-22 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101422/sri-lanka-needs-transformational-changes-for-accountability-and-reconciliation-un-report) · `en`
+
+A UN Human Rights Office report issued today (22) identified renewed threats to fundamental freedoms in Sri Lanka, evidenced by new or proposed regressive laws, erosion of democratic checks and balances, ongoing threats and intimidation against civil society and journalists, and recurrence of serious human rights violations of the past.
+
+“As the country approaches presidential and parliamentary elections, it has an opportunity to recommit to the transformational changes demanded by a broad cross-section of Sri Lankans, including accountability and reconciliation,” UN Human Rights Chief Volker Türk said.
+
+The report points to several laws and bills introduced by the Government since 2023, giving security forces broad powers and significantly expanding pre-existing restrictions on freedoms of expression, opinion and association. “This trend is particularly concerning as the country is in an important pre-election period,” the High Commissioner said.
+
+...
+
+[Data](articles/b7ce34af.json)
+
+---
 
 ### 10 million in a day! Cristiano Ronaldo breaks YouTube record with lightning-fast subscriber milestone
 
@@ -45,6 +91,8 @@ The channel debuted with several videos, including a teaser trailer, a fun quiz 
 ...
 
 [Data](articles/a5f753a9.json)
+
+[Extended Data](ext_articles/a5f753a9.ext.json)
 
 ---
 
@@ -2169,73 +2217,5 @@ The Board of Investment of Sri Lanka currently facilitates 15 investment zones, 
 [Data](articles/99e90bf8.json)
 
 [Extended Data](ext_articles/99e90bf8.ext.json)
-
----
-
-### Divisions and polarisation in our society
-
-*2024-08-21 23:12:00* · [`islandlk`](http://island.lk/divisions-and-polarisation-in-our-society/) · `en`
-
-Humans are not united as a species. Divisions based on geography, ethnicity, coloir, religion, opinions and other attributes present everywhere dominate the social and political dynamics of the world.
-
-Nobody knows why this happens: a naïve explanation is that birds of the same feather flock together. A person feels more comfortable when he or she associates with people who look similar and think alike. Intolerances of differences leads to social segregation.
-
-Human communities also polarise. Polarisation is the widening separation of a society into two physically unseparated opposing camps based on some identity or belief. The colour, the language spoken and the religion, the political ideology are examples of the former and latter.
-
-Polarisation differs from division. Unlike in division, the polarised parties oppose or confront each other. However, division can be triggered to ensue polarization.
-
-...
-
-[Data](articles/5890684f.json)
-
-[Extended Data](ext_articles/5890684f.ext.json)
-
----
-
-### Half a century in Ayub and Shakeel made Pakistan in good condition
-
-*2024-08-21 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191668) · `ta`
-
-On the first day of the cricket match between Pakistan and Bangladesh at Rawalpindi, heavy rain delayed the start but allowed a shortened session. Pakistan, batting first, faced early losses with Abdullah Shafiq, captain Shan Masood, and Babar Azam out for low scores. However, Saym Ayub and Saud Shakil steadied the innings with a 98-run partnership, with Ayub scoring a half-century on his second Test appearance. Later, Saud Shakil and Mohammed Rizwan added 44 runs before Shakil was dismissed for 57. Bangladesh's bowlers, Shoribul Islam and Hasan Mahmood, picked up two wickets each.
-
-🟩
-
-Pakistan scored 158 runs for the end of the first day of the first -day match at the Rawalpindi Cricket Stadium against Bangladesh today (21st).
-
-Due to the rains this morning, the competition began for about four and a half hours.
-
-Pakistan, who was first invited to bat in the upting match, lost the first 3 wickets for 16 runs.
-
-Abdullah Shafiq (2), team captain Shaun Masood (6) and former team captain Babar Azam (0) lost the match in 9 overs.
-
-Saym Ayub and Saud Shakil, who paired up, were very relaxed and shared 98 runs in the 4th wicket.
-
-Ayub, who played in his second Test, was very effective and lost the Virgin half -century and lost 56 runs.
-
-Subsequently, Saud Shakil and Mohammed Rizwan shared 44 runs in the 5th wicketless 5th wicket.
-
-In Saud Shake, Mohammed Rizwan did not play with 57 runs.
-
-Shoribul Islam took 2 wickets for 30 runs while Hasan Mahmood took 2 wickets for 33 runs.
-
-◼️
-
-[Data](articles/602576ed.json)
-
-[Extended Data](ext_articles/602576ed.ext.json)
-
----
-
-### Anura, Ranil, Sajith: Classism versus elitism
-
-*2024-08-21 22:48:00* · [`dailyftlk`](https://www.ft.lk/columns/Anura-Ranil-Sajith-Classism-versus-elitism/4-765812) · `en`
-
-The much anticipated Presidential election next month has created seismic activity in and out of the political arena. While the candidates are focused on winning, those in the periphery, the cohorts and the plutocrats are in a dilemma. The biggest joke is that for most of the sitting Members of Parliament and other politicians it does not matter whether Ranil wins or Sajith wins. Among their selfish and opportunistic agendas, the formidable challenge is to make sure that Anura does not come to power.
-
-...
-
-[Data](articles/a0bd8ac7.json)
-
-[Extended Data](ext_articles/a0bd8ac7.ext.json)
 
 ---

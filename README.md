@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 09:21:18**
+As of **2024-08-22 09:36:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,169
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,023 (100.0%) of 42,026 articles have been extended.
+42,026 (100.0%) of 42,026 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The national event in Sri Lanka is an integral part of these global efforts, foc
 ...
 
 [Data](articles/a28bfd22.json)
+
+[Extended Data](ext_articles/a28bfd22.ext.json)
 
 ---
 
@@ -100,19 +102,25 @@ Sri Lanka Podujana Peramuna (SLPP) MP Karunadasa Kodithuwakku yesterday declared
 
 ---
 
-### ඉදිකිරීම් ක්ෂේත්‍රයේ ගැටලුවලට විසදුම්
+### Solutions to the work sector
 
 *2024-08-22 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200195) · `si`
 
-ඉදිකිරීම් ක්ෂේත්‍රයේ වෘත්තීයවේදීන්ගේ පවතින ගැටලු විසඳීම සඳහා නව නීති හඳුන්වාදීමට පියවර ගන්නා බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced measures to tackle challenges faced by professionals in the construction industry, stating that necessary orders have been prepared and finalized. This was in response to a question posed at the Institute of Development and Construction.
 
-ජනාධිපතිවරයා පෙන්වාදෙන්නේ ඒ සඳහා අවශ්‍ය අණපනත් මේ වන විටත් සකස් කර අවසන් බවය.
+🟩
 
-දේශයේ අනාගතය ගොඩනැංවීම යන තේමාව යටතේ පැවති සංවර්ධන හා ඉදිකිරීම් ක්ෂේත්‍රයේ වෘත්තීයවේදීන්ගේ හමුවේදී ඉදිරිපත් වු පැනයකට පිළිතුරු ලබාදෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+President Ranil Wickremesinghe says that steps will be introduced to address the issues of professionals in the construction industry.
+
+The President shows that the necessary orders are already prepared and completed.
+
+President Ranil Wickremesinghe made this statement responding to a query presented at the Institute of Development and Construction.
 
 ◼️
 
 [Data](articles/9ee23bf6.json)
+
+[Extended Data](ext_articles/9ee23bf6.ext.json)
 
 ---
 
@@ -1796,21 +1804,27 @@ The injured have been admitted to the Badulla General Hospital and further inves
 
 ---
 
-### තවත් විශේෂ පෙත්සම් කිහිපයක තීරණය අද
+### Several more special petitions
 
 *2024-08-21 18:58:59* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-විශේෂ-පෙත්සම්-කිහිපයක-තීරණය-අද/11-411493) · `si`
 
-පළාත් පාලන මැතිවරණය පැවැත්වීම  කල් දැමීමට එරෙහිව ගොනු කොට තිබූ පෙත්සම් වල තීන්දුව අදදින (22) ප්‍රකාශයට පත් කිරීමට නියමිතය.
+Today's verdict on postponing local government elections will be released. Chief Justice Jayantha Jayasuriya was questioned by Supreme Court justices regarding several petitions filed by the National Folk Forces and others against the Elections Commission. Petitioners argue that recommendations were not adequately communicated to voters, impacting the local government election process.
 
-අගවිනිසුරු ජයන්ත ජයසූරිය ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන විජිත් මළල්ගොඩ,  ගාමිණී අමරසේකර, මුර්දු ප්‍රනාන්දු සහ යසන්ත කෝදාගොඩ  යන මහත්ම මහත්මීන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම් විභාගයට ගැණිණ.
+🟩
 
-පළාත් පාලන මැතිවරණය පැවැත්වීම කල් දැමීමට එරෙහිව සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය විසින් ගොනු කර තිබූ පෙත්සම්වල  වගඋත්තරකරුවන් වශයෙන් මැතිවරණ කොමිසම එහි සාමාජිකයන් ඇතුළු පිරිසක් නම් කර ඇත.
+The verdict filed against postponing the local government elections will be published today (22).
 
-පළාත් පාලන මැතිවරණ නියමිත දින නොපැවැත්වීිමෙන් වගඋත්තරකරුවන් සර්වජන ඡන්ද බලය සම්බන්ධයෙන් ජනතාවට ඇති අයිතිය උල්ලංඝනය කර ඇතැයි සඳහන් කරමින් පෙත්සම පවරා ඇති පෙත්සම්කරුවෝ පළාත් පාලන මැතිවරණය පැවැත්වීමට වගඋත්තරකරුවන්ට නියම කරන්නැයි ඉල්ලා සිටිති.
+Chief Justice Jayantha Jayasuriya was examined by Supreme Court Justice, Gamini Amarasekera, Mrs. Gamini Amarasekera, Mrs. Murdu Fernando and Yasantha Kodagoda.
+
+The Elections Commission has been named as respondents in the petitions filed by the National Folk Forces, the National Folk Force and the National Governance Policy.
+
+The petitioners who have filed the local government elections have been vested in the local government election, claiming that the recommendations have not been violated to the people of the national voting.
 
 ◼️
 
 [Data](articles/044993e0.json)
+
+[Extended Data](ext_articles/044993e0.ext.json)
 
 ---
 

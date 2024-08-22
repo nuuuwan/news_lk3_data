@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 18:17:02**
+As of **2024-08-22 18:29:22**
 
 ## Newspaper Stats
 
-*Scraped **42,119** Articles*
+*Scraped **42,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 4,935
 tamilmirrorlk | 5,468
 virakesarilk | 6,696
-adaderanasinhalalk | 7,186
+adaderanasinhalalk | 7,187
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,117 (100.0%) of 42,119 articles have been extended.
+42,119 (100.0%) of 42,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### මෝටර් රථයක් අධිවේගී මාර්ගයේදී ආරක්ෂිත වැටේ ගැටෙයි
+
+*2024-08-22 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200214) · `si`
+
+හම්බන්තොට මහ රෝහලේ විශේෂඥ වෛද්‍යවරයෙකුගේ බිරිඳක් සහ දරු දෙදෙනා ගමන්ගත් මෝටර් රථය දක්ෂිණ අධිවේගී මාර්ගයේදී අනතුරකට ලක්වී තිබුණි.
+
+ඒ, බද්දේගම අධිවේගී පිවිසුම ආසන්නයේ කිලෝමීටර් 80. 9 කණුව අසලදී ය.
+
+වයස අවුරුදු 16ත් 21ත් අතර වයස්වල පසුවන පුතුන් දෙදෙනෙකු සහ ඔවුන්ගේ මව එම අනතුරින් තුවාල ලැබීය.
+
+අනතුර සිදුවන අවස්ථාවේදී 21 හැවිරිදි පුතු මෝටර් රථය ධාවනය කර ඇති බව පොලීසිය පවසයි.
+
+මාතර දෙස සිට කොළඹ දෙසට පැමිණෙමින් තිබූ මෝටර් රථය  මාර්ගයේ මැද ආරක්ෂිත වැටේ ගැටීමත් සමග මොනරාගල සිට කොළඹ දෙසට ධාවනය වෙමින් තිබූ සුඛෝපභෝගී පෞද්ගලික බස් රථයක ද ගැටී තිබුණි.
+
+තුවාල ලබා මෝටර් රථයේ සිරවී සිටි පිරිසව කඩිනමින් මුදාගෙන රෝහල්ගත කිරීමට ඒ අසලින් ගමන්ගත් රියදුරන් කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/63e6c2db.json)
+
+---
 
 ### Man takes his own life after murdering wife and injuring son
 
@@ -51,6 +73,8 @@ If you or someone you know is in crisis and needs help, resources are available 
 ◼️
 
 [Data](articles/eab1710f.json)
+
+[Extended Data](ext_articles/eab1710f.ext.json)
 
 ---
 
@@ -316,23 +340,33 @@ During the presidential election, Telecom demanded to intervene to defeat the go
 
 ---
 
-### மன்னாரில் இளம் குடும்ப பெண் உயிரிழந்த சம்பவம் ; வைத்தியர் பணியிடை நீக்கம்
+### The death of a young family woman in Mannar;Removal
 
 *2024-08-22 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191722) · `ta`
 
-மன்னார் மாவட்ட பொது வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட நிலையில்  உயிரிழந்த   இளம் குடும்ப பெண் ஒருவரின் மரணத்துடன் தொடர்புடையதாக கூறப்படும் வைத்தியர் பணியிடை நீக்கம்  செய்யப் பட்டுள்ளதாக மன்னார் மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளர் வைத்தியர் அஸாத் எம் ஹனீபா தெரிவித்தார்.
+In Mannar, a young mother died from excessive bleeding after childbirth, leading to the dismissal of four staff members, including two doctors and two family welfare officers, over allegations of inadequate treatment. The hospital director confirmed the dismissals and stated that further actions would be taken against one of the dismissed doctors despite him being on leave.
 
-அண்மையில் குழந்தையைப் பிரசவித்த 27 வயதான பெண் அதிக குருதி போக்கு காரணமாக கடந்த மாதம் 28 ஆம் திகதி மன்னார் பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்தார்.
+🟩
 
-எவ்வாறாயினும் அந்தச் சந்தர்ப்பத்தில் அங்கிருந்த வைத்தியர் அவருக்கு உரிய முறையில் சிகிச்சை அளிக்கவில்லை என்றும் வைத்தியர்களின் அசமந்த போக்கு காரணமாக அவர் உயிரிழந்ததாகவும் குற்றஞ்சாட்டப்படுகிறது.
+The Director of the Mannar District General Hospital, Dr. Azad M Haneefa, said that the doctor who was allegedly involved in the death of a young woman who died after being admitted to the Mannar District General Hospital has been sacked.
 
-இந்நிலையில் குறித்த சம்பவம் தொடர்பான விசாரணைகளுக்கு அமைய ஏலவே நான்கு பேர் பணியிடை நீக்கம் செய்யப்பட்டுள்ளனர்.
+A 27 -year -old woman who recently delivered a baby died after being admitted to the Mannar General Hospital last month due to high blood flow.
 
-இரண்டு தாதியர்களுக்கும் இரண்டு குடும்ப நல சுகாதார உத்தியோகத்தர் களுக்கு இவ்வாறு பணியிடை நீக்கம் வழங்கப்பட்டுள்ளது.
+However, it is alleged that the doctor did not treat him properly and that he died of doctors' unhappiness.
+
+Four people have been sacked in connection with the incident.
+
+The two nurses have been sacked for two family welfare officers.
+
+The Director General of the Northern Provincial Health Services Services said that steps have been taken to remove a workplace for a doctor in connection with the incident.
+
+The Director of the Mannar District General Hospital, Dr. Azad M Haneefa, said that he received a letter on Wednesday (21) on the removal of the workplace for the doctor.
 
 ...
 
 [Data](articles/f2292e4e.json)
+
+[Extended Data](ext_articles/f2292e4e.ext.json)
 
 ---
 
@@ -2273,31 +2307,5 @@ The United Kingdom, Germany, the Netherlands, Belgium, Spain, Australia, Denmark
 [Data](articles/6fddfda2.json)
 
 [Extended Data](ext_articles/6fddfda2.ext.json)
-
----
-
-### We do not protect thieves: We will uphold justice on the masterminds of the survivor Sunday attack - Sajith Premadasa
-
-*2024-08-22 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/191673) · `ta`
-
-Sajith Premadasa promises justice for survivors of the Sunday attack, criticizes wine store privileges, and vows not to sell out for personal gain. He addresses a rally, highlighting unaddressed truths behind attacks and criticizes current leadership. Premadasa pledges to support entrepreneurs, establish Youth Development Centers, and combat poverty through new job plans. He rejects offers to become Prime Minister during Rajapakse's tenure, emphasizing commitment to democracy and accountability.
-
-🟩
-
-Wine stores, liquor road permits, privileges and gifts cannot be purchased by himself and his group.
-
-My self -esteem for money and posts is not going to auction. He never seeks to sell, auction or betray these people.So Opposition Leader Sajith Premadasa appealed to me to believe in me.
-
-The eighth people's victory rally for the 2024 presidential election was held on Wednesday evening in Katunayake under the leadership of Opposition Leader Sajith Premadasa. Like the political leaders of the United People's Power, a large number of people from the area attended. He said this while addressing the gathering.
-
-The truth has not yet been revealed in connection with the stupid attack on Kochchikadai, Kattuvapitiya, Batticaloa and many other hotels. The Leader of the Opposition pointed out that the truth has not been revealed regarding the leadership.
-
-President Gotabhaya Rajapakse has deceived the people of the country and the Catholic community.
-
-...
-
-[Data](articles/daebebd1.json)
-
-[Extended Data](ext_articles/daebebd1.ext.json)
 
 ---

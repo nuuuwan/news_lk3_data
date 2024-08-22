@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 23:56:43**
+As of **2024-08-23 00:09:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,144 (100.0%) of 42,148 articles have been extended.
+42,148 (100.0%) of 42,148 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -690,6 +690,8 @@ A bond maturing on 15.05.2030 closed at 12.85/13.05 percent. (Colombo/Aug22/2024
 
 [Data](articles/17bef60b.json)
 
+[Extended Data](ext_articles/17bef60b.ext.json)
+
 ---
 
 ### Will Sajith recover the presidential election?- Manu Nanayakkara
@@ -755,6 +757,8 @@ There were five crossings recorded in the day; Commercial Bank, Dialog, Kelani T
 ...
 
 [Data](articles/8dff7bbf.json)
+
+[Extended Data](ext_articles/8dff7bbf.ext.json)
 
 ---
 
@@ -1224,6 +1228,8 @@ Though the court ordered the earlier system operated by state-owned Mobitel be r
 
 [Data](articles/6c08861e.json)
 
+[Extended Data](ext_articles/6c08861e.ext.json)
+
 ---
 
 ### Allow AI Student Associations
@@ -1293,6 +1299,8 @@ The Institute for Health Policy (IHP)’s Sri Lanka Opinion Tracker Survey (SLOT
 ...
 
 [Data](articles/ffb312da.json)
+
+[Extended Data](ext_articles/ffb312da.ext.json)
 
 ---
 

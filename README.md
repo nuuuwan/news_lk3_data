@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 07:03:12**
+As of **2024-08-22 07:31:39**
 
 ## Newspaper Stats
 
-*Scraped **42,009** Articles*
+*Scraped **42,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ dailyftlk | 2,722
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
-tamilmirrorlk | 5,444
+tamilmirrorlk | 5,445
 virakesarilk | 6,686
-adaderanasinhalalk | 7,167
+adaderanasinhalalk | 7,168
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,998 (100.0%) of 42,009 articles have been extended.
+42,005 (100.0%) of 42,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### කාලගුණයේ වෙනසක්
+
+*2024-08-22 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200193) · `si`
+
+පවතින වැසි තත්ත්වයේ අඩුවීමක් අද (22) දිනයේ සිට බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇතිවේ.
+
+නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/7cdcec94.json)
+
+---
 
 ### Opportunity for citizens of 35 countries under the free visa facility
 
@@ -173,6 +193,20 @@ Minister of Foreign Affairs and Minister of Justice, Justice, Prison Affairs and
 [Data](articles/9c075e8d.json)
 
 [Extended Data](ext_articles/9c075e8d.ext.json)
+
+---
+
+### இன்று முதல் எரிபொருள், உரத்திற்கு மானியம்
+
+*2024-08-22 02:37:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-எரிபொருள்-உரத்திற்கு-மானியம்/175-342609) · `ta`
+
+இன்று முதல் அமுலாகும் வகையில் கடற்றொழிலாளர்களுக்கு டீசல் மற்றும் மண்ணெண்ணெய் லீற்றருக்கு 25 ரூபா மானியம் வழங்க அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+இதேவேளை, தேயிலை துறையினருக்கு 4,000 ரூபா உர மானியம் வழங்கவும் அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/08182dbb.json)
 
 ---
 
@@ -688,6 +722,8 @@ The feature is a significant achievement for The Glenrock, as it places the reso
 
 [Data](articles/77e9cace.json)
 
+[Extended Data](ext_articles/77e9cace.ext.json)
+
 ---
 
 ### People’s Bank hands over newly built home to underprivileged family in Padaviya
@@ -703,6 +739,8 @@ The event was attended by People’s Chief Executive Officer/General Manager Cli
 ...
 
 [Data](articles/7c940d09.json)
+
+[Extended Data](ext_articles/7c940d09.ext.json)
 
 ---
 
@@ -722,6 +760,8 @@ The Glenrock earns spotlight in National Geographic Traveller (UK) for its eco-l
 
 [Data](articles/28d75d87.json)
 
+[Extended Data](ext_articles/28d75d87.ext.json)
+
 ---
 
 ### CSE indices send mixed signals; ASPI down, S and P SL 20 up
@@ -737,6 +777,8 @@ Amid those developments both indices indicated mixed reactions. All Share Price 
 ...
 
 [Data](articles/63257cd0.json)
+
+[Extended Data](ext_articles/63257cd0.ext.json)
 
 ---
 
@@ -790,6 +832,8 @@ Apply this evenly on the face and neck, let it dry for about 20 minutes and then
 
 [Data](articles/82860f5d.json)
 
+[Extended Data](ext_articles/82860f5d.ext.json)
+
 ---
 
 ### Sri Lanka achieves $9 billion in export income Income in First Half of 2024 – State Minister for Investment Promotion, Dilum Amunugama
@@ -808,6 +852,8 @@ The Board of Investment of Sri Lanka currently facilitates 15 investment zones, 
 
 [Data](articles/99e90bf8.json)
 
+[Extended Data](ext_articles/99e90bf8.ext.json)
+
 ---
 
 ### Divisions and polarisation in our society
@@ -825,6 +871,8 @@ Polarisation differs from division. Unlike in division, the polarised parties op
 ...
 
 [Data](articles/5890684f.json)
+
+[Extended Data](ext_articles/5890684f.ext.json)
 
 ---
 
@@ -2243,63 +2291,5 @@ The Rondonia state government has begun a complaint to complain about it that th
 [Data](articles/04d55251.json)
 
 [Extended Data](ext_articles/04d55251.ext.json)
-
----
-
-### Sarvajana Balaya’s strategic plan presented to Ceylon Chamber of Commerce
-
-*2024-08-21 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101398/sarvajana-balayas-strategic-plan-presented-to-ceylon-chamber-of-commerce) · `en`
-
-The second draft of the strategic plan of the ‘Sarvajana Balaya’ alliance has been presented to the representatives of Ceylon Chamber of Commerce (CCC) on Wednesday (21).
-
-The representatives of the Ceylon Chamber of Commerce had met with the Presidential Candidate of the ‘Sarvajana Balaya’ alliance and leader of the Mawbima Janatha Party (MJP) entrepreneur Dilith Jayaweera at the headquarters of MJP this morning.
-
-The meeting took place under the CCC’s series of programmes to educate the presidential candidates regarding its landmark policy document, ‘Vision 2030,’ designed to steer Sri Lanka towards sustainable and inclusive development by 2030.
-
-A copy of this comprehensive economic plan was also presented to presidential candidate Dilith Jayaweera during today’s meeting.
-
-In a post on ‘X’ (formerly Twitter), MJP leader Dilith Jayaweera stated that he briefed the Ceylon Chamber of Commerce on the Sarvajana Balaya strategic plan at the party headquarters this morning.
-
-...
-
-[Data](articles/26f476df.json)
-
-[Extended Data](ext_articles/26f476df.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-08-21 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200178) · `si`
-
-In the first Test match against England in Manchester, Sri Lanka, led by Dimuth Karunaratne, won the toss and the coin. This marks a significant moment for Milan Ratnayake, a student from South Wariyapola Sumangala Vidyalaya, making his debut in a Test match. England's leadership has temporarily shifted to Ollie Pope due to Ben Stokes' injury. The series consists of three Tests, with Sri Lanka aiming to replicate their 2014 victory in England.
-
-🟩
-
-The first Test match between the Sri Lanka and England team will be held on Manchester, Old Trafford.
-
-Sri Lanka Leader Dhanga De Silva won the toss and win its coin.
-
-Dimuth Karunaratne, Nishan Madushka, Kusal Mendis, Dinesh Chandimal, Dananju De Silva, University of Asitha Fernando, University, Milan Ratnayake and Milan Ratnayake
-
-This is Milan Ratnayake's Mangala Test match. He is a student of the South with the South, Wariyapola Sumangala Vidyalaya.
-
-Dan Lawrence, Been Dakatt, Oli-Pop (Leader), Harry Brook, Mark Woods, Mark Woods and Shoaib Bashir
-
-The leader of the tournament has been appointed as the leader for the tournament due to the injury of the England regular Test leader Ben Stokes.
-
-The two countries will play three Tests.
-
-The last Sri Lankan team won a Test match in England in 2014.
-
-Sri Lanka captained the Test match at Leades in the Leadship Grounds in 100 runs.
-
-Sri Lanka were also able to win the two-match Test tournament.
-
-◼️
-
-[Data](articles/73359cce.json)
-
-[Extended Data](ext_articles/73359cce.ext.json)
 
 ---

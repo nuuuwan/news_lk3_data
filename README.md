@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 21:08:05**
+As of **2024-08-22 21:21:14**
 
 ## Newspaper Stats
 
-*Scraped **42,132** Articles*
+*Scraped **42,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,70 @@ adalk | 3,884
 dailymirrorlk | 4,733
 adaderanalk | 4,937
 tamilmirrorlk | 5,469
-virakesarilk | 6,698
+virakesarilk | 6,699
 adaderanasinhalalk | 7,190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,131 (100.0%) of 42,132 articles have been extended.
+42,132 (100.0%) of 42,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### SLS ගසා මිනිස් පරිභෝජනයට යැවූ පුන්නක්කු තෙල්
+### Pudekko oil who tits SLS and sent human consumption
 
 *2024-08-22 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200217) · `si`
 
-සුපිරිසිදු පොල්තෙල් බව පවසමින් පුන්නක්කු මගින් මිනිස් පරිභෝජනයට නුසුදුසු පොල්තෙල් නිපදවන නිෂ්පාදනාගාරයක් නීතියේ රැහැනට හසුකර ගැනීමට අද (22) හැකිවිය.
+Today, authorities raided a facility producing coconut oil for human consumption after receiving reports about its quality. The Colombo District Raid Unit of the Consumer Affairs Authority discovered that the oil, labeled as containing SLS certificates, was actually counterfeit. Additionally, other types of oil were found being sold under false pretenses. This investigation led to the decision to seal the facility, highlighting concerns over consumer safety and product authenticity.
 
-මිනිස් පරිභෝජනයට සුදුසු ප්‍රමිතියක නොමැති පොල්තෙල් සකසා වෙළෙඳපොළට නිකුත් කරන මාලබේ කහන්තොට ප්‍රදේශයේ ස්ථානයක් සම්බන්ධයෙන් මාලබේ පොලීසියට තොරතුරක් ලැබී තිබුණි.
+🟩
 
-පොලීසිය සිදුකළ දැනුම්දීමකට අනුව පාරිභෝගික සේවා අධිකාරියේ කොළඹ දිස්ත්‍රික් වැටලීම් ඒකකය විසින් අද එම ස්ථානය වටලනු ලැබුවේ අද දෙරණ උකුස්සා ද සමගිනි.
+A manufacturement of coconut oil that produces suitable coconut oil to consume human consumption is made today (22).
 
-එහි යනවිටත් අදාළ ස්ථානයේ කෑන් තුළ බහා පොල්තෙල් තොගයක් අලෙවි කිරීම සඳහා සූදානම් කර තිබෙනු දක්නට ලැබුණි.
+The Malabe Police received information on a place where the coconut oil was created and released to the market.
 
-ඇසුරුම් කරන ලද පොල්තෙල් බෝතල්වල SLS සහතිකය ඇති බවට සඳහන් ලේබල් අලවා ඇති ආකාරය දක්නට ලැබුණද මෙහිදී අනාවරණය වූයේ එය ව්‍යාජ එකක් බවය.
+The Colombo District Raid Unit of the Consumer Affairs Authority has been raided by the Colombo District Raid Unit of the Consumer Affairs Authority today.
 
-එමෙන්ම සුපිරිසිදු පොල්තෙල් බව පවසමින් වෙළඳපොළට නිකුත් කරන මෙම පොල්තෙල් සඳහා විදේශයකින් ගෙන්වන තවත් තෙල් වර්ගයක් එක් කරන බවද මෙහිදී හෙළිවුණි.
+The coconut oil stock of coconut oil was found in the caning of the place.
 
-තවදුරටත් සිදුකළ විමර්ශනයේදී අනාවරණ වූයේ මිනිස් පරිභෝජනයට කිසිසේත්ම නුසුදුසු පුන්නක්කු තෙල්ද මෙයට මිශ්‍රකර වෙළෙඳපොළට නිකුත් කරන බවය.
+Although the labels claimed that the SLS certificate is available in bottles of coconut oil bottles, it was revealed that it was fake.
+
+It was revealed that another type of oil imported to the market is being released to the market by claiming that the market is released.
+
+Investigation further revealed that the pitcher is inappropriate for human consumption to the mixed market.
+
+Accordingly, steps have been taken to seal this place by the Consumer Affairs Authority.
 
 ...
 
 [Data](articles/6302357e.json)
+
+[Extended Data](ext_articles/6302357e.ext.json)
+
+---
+
+### தெற்கு அதிவேக வீதியில் பயணித்த கார் ஒன்று பாதுகாப்பு வேலியிலும் சொகுசு தனியார் பஸ்ஸிலும் மோதி விபத்து
+
+*2024-08-22 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191737) · `ta`
+
+மாத்தறையில் இருந்து கொழும்பு நோக்கி வந்த கார் வீதியின் நடுவில் உள்ள பாதுகாப்பு வேலியில் மோதியதுடன் மொனராகலையில் இருந்து கொழும்பு நோக்கி பயணித்த சொகுசு தனியார் பஸ்ஸிலும் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+ஹம்பாந்தோட்டை பொது வைத்தியசாலையின் விசேட வைத்தியர் ஒருவரின் மனைவி மற்றும் இரண்டு பிள்ளைகள் பயணித்த கார் தெற்கு அதிவேக வீதியில் விபத்துக்குள்ளாகியுள்ளது.
+
+பத்தேகம அதிவேக வீதி நுழைவாயிலுக்கு அருகில் கிமீ 80. 9 தூண் அருகில் இந்த விபத்து இடம்பெற்று உள்ளது.
+
+இவ்விபத்தில் 16 மற்றும் 21 வயதுடைய இரு மகன்களும் அவர்களது தாயும் காயமடைந்துள்ளனர்.
+
+விபத்தின் போது 21 வயது மகனே காரை செலுத்தி வந்ததாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+அந்த வழியாக சென்ற சாரதிகள் காரில் சிக்கியவர்களை மீட்டு வைத்தியசாலையில் அனுமதிக்க துரித நடவடிக்கை எடுத்திருந்தனர்.
+
+◼️
+
+[Data](articles/547c0030.json)
 
 ---
 
@@ -2325,23 +2355,5 @@ In Sri Lanka sugar and ethanol is protected by import taxes and domestic product
 [Data](articles/61a8a623.json)
 
 [Extended Data](ext_articles/61a8a623.ext.json)
-
----
-
-### Sri Lanka bonds decline as debt deal runs into election calendar
-
-*2024-08-22 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101408/sri-lanka-bonds-decline-as-debt-deal-runs-into-election-calendar) · `en`
-
-Sri Lanka’s dollar bonds are drifting lower on investor concern that the completion of a debt restructuring agreement with creditors could be pushed back by next month’s presidential election.
-
-The country’s dollar bonds due in 2030 traded below 55 cents on the dollar on Wednesday, down from 59 cents in mid June. This month, Sri Lanka has the worst performing emerging-market debt following Lebanon, according to indexes compiled by Bloomberg.
-
-Sri Lanka struck a preliminary deal with private investors in July to restructure $12.6 billion of bonds — an agreement which needs to gain backing of the International Monetary Fund and bilateral creditors such as China and France. A month later, the South Asian nation’s government requested more details regarding the IMF’s assessment of the proposed debt revamp.
-
-...
-
-[Data](articles/b6c6bd26.json)
-
-[Extended Data](ext_articles/b6c6bd26.ext.json)
 
 ---

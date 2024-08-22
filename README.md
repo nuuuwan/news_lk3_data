@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 08:37:51**
+As of **2024-08-22 08:56:01**
 
 ## Newspaper Stats
 
-*Scraped **42,018** Articles*
+*Scraped **42,022** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 353
+dbsjeyarajcom | 354
 newsfirstlk | 363
-bbccomsinhala | 387
+bbccomsinhala | 388
 colombotelegraphcom | 403
 islandlk | 2,439
 economynextcom | 2,536
-dailyftlk | 2,722
+dailyftlk | 2,723
 adalk | 3,869
 dailymirrorlk | 4,733
-adaderanalk | 4,911
+adaderanalk | 4,912
 tamilmirrorlk | 5,448
 virakesarilk | 6,686
 adaderanasinhalalk | 7,168
@@ -26,11 +26,39 @@ adaderanasinhalalk | 7,168
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,018 (100.0%) of 42,018 articles have been extended.
+42,018 (100.0%) of 42,022 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### Sri Lanka bonds decline as debt deal runs into election calendar
+
+*2024-08-22 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101408/sri-lanka-bonds-decline-as-debt-deal-runs-into-election-calendar) · `en`
+
+Sri Lanka’s dollar bonds are drifting lower on investor concern that the completion of a debt restructuring agreement with creditors could be pushed back by next month’s presidential election.
+
+The country’s dollar bonds due in 2030 traded below 55 cents on the dollar on Wednesday, down from 59 cents in mid June. This month, Sri Lanka has the worst performing emerging-market debt following Lebanon, according to indexes compiled by Bloomberg.
+
+Sri Lanka struck a preliminary deal with private investors in July to restructure $12.6 billion of bonds — an agreement which needs to gain backing of the International Monetary Fund and bilateral creditors such as China and France. A month later, the South Asian nation’s government requested more details regarding the IMF’s assessment of the proposed debt revamp.
+
+...
+
+[Data](articles/b6c6bd26.json)
+
+---
+
+### SLPP MP Karunadasa Kodithuwakku pledges support for Sajith
+
+*2024-08-22 08:12:09* · [`dailyftlk`](https://www.ft.lk/news/SLPP-MP-Karunadasa-Kodithuwakku-pledges-support-for-Sajith/56-765848) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) MP Karunadasa Kodithuwakku yesterday declared support for the Opposition and Samagi Jana Balawegaya (SJB) leader Sajith Premadasa in the upcoming Presidential Election. Following his decision, MP Kodithuwakku crossed over to the Opposition side in Parliament yesterday.
+
+◼️
+
+[Data](articles/89bca952.json)
+
+---
 
 ### Car accident at high speed
 
@@ -395,6 +423,26 @@ This is not a small amount. Similarly, some media also acts for each candidate. 
 [Data](articles/8822d2a2.json)
 
 [Extended Data](ext_articles/8822d2a2.ext.json)
+
+---
+
+### දශක හතරක ජනපති සටනේ මං සලකුණු
+
+*2024-08-22 02:00:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3ej1y059gno) · `si`
+
+විසිවන ශතවර්ෂයේ පටන් පැවැත්වෙන මැතිවරණ ශ්‍රී ලංකාවේ ප්‍රජාතන්ත්‍රවාදී පාලන ක්‍රියාවලියේ කශේරුකාවයි. 1977 දෙවන ජනරජ ආණ්ඩුක්‍රම ව්‍යවස්ථාව යටතේ ආරම්භ වූ විධායක ජනාධිපති ධූරය සඳහා පළමු වරට ජනාධිපතිවරණයක් පැවැත්වූයේ 1982 වසරේදීයි.
+
+එම වසරේ පටන් ඇරඹි ජනාධිපතිවරණ බොහෝමයක් ශ්‍රී ලංකාව තීරණාත්මක තත්වයන්ට මුහුණ දෙමින් සිටියදී පැවැත්වූ ඒවා වේ.
+
+ජනතාවගේ පරමාධිපත්‍ය බලය අභ්‍යාස කිරීම සඳහා කලින් කලට පැවැත්වූ මෙම ජනාධිපතිවරණවල දී, ප්‍රජාතන්ත්‍රවාදය යන සාධකය විවිධාකාරයෙන් උස් පහත්වීම්වලට ලක්ව තිබේ.
+
+1815 දී බ්‍රිතාන්‍ය පාලනයට මුළුමනින් ම නතු වූ ශ්‍රී ලංකාවේ පාලන කටයුතු සිදුකරගෙන යාම සඳහා වන පළමු ආණ්ඩුක්‍රම ප්‍රතිසංස්කරණය ගෙන එන්නේ කෝල්බෲක් ප්‍රතිසංස්කරණය ලෙසයි.
+
+දශක ගණනාවක් පැවති එම පාලන ක්‍රමය අවසන් වන්නේ ව්‍යවස්ථාදායක සභාවේ නියෝජිතයන් ප්‍රමාණය වැඩි කරන ලෙස පැමිණි ඉල්ලීම් සහ නිල නොලත් මන්ත්‍රීවරුන් කිහිපදෙනෙකු සීමිත ඡන්දයකින් තෝරා පත් කරගන්නා ලෙස පැමිණි ඉල්ලීම් නිසායි.
+
+...
+
+[Data](articles/663d651d.json)
 
 ---
 
@@ -1888,6 +1936,22 @@ This action is completely illegal. So we urge the Election Commission to take ac
 
 ---
 
+### Will  Rajitha Senaratne’s Crossover  Trigger More Defections of MPs From SJB to Ranil’s Side?
+
+*2024-08-21 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84559) · `en`
+
+Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha  Senaratne is the latest among well-known politicians to throw in their lot with incumbent president Ranil Wickremesinghe. The Samagi Jana Balawegaya(SJB) MP for Kalutara district met with the president at the Gangaramaya temple in Colombo on 13 August and signed a memorandum of understanding (MOU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for  21 September 2024.Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
+
+Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports,  Senaratne  had stated  this motivated  him into  supporting  Wickremesinghe’s candidacy.
+
+...
+
+[Data](articles/09d4eecc.json)
+
+[Extended Data](ext_articles/09d4eecc.ext.json)
+
+---
+
 ### Sri Lanka stumbles in the first Test
 
 *2024-08-21 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191661) · `ta`
@@ -1979,6 +2043,24 @@ Total scorer was a significant point in Sri Lanka's three wickets. Chris Vox too
 [Data](articles/c66b3324.json)
 
 [Extended Data](ext_articles/c66b3324.ext.json)
+
+---
+
+### SJB Ratnapura District MP Thalatha Athukorale Announces her Resignation from Parliament;Delivers Scathing Attack on Sajith Premadasa questioning his  leadership qualities and suitability to lead the country at this critical time. Asks if Premadasa is attempting to act out Part II of Gotabaya Rajapaksa fiasco
+
+*2024-08-21 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84576) · `en`
+
+Samagi Jana Balawegaya (SJB) Ratnapura District MP Thalatha Athukorala yesterday announced her resignation from Parliament delivering a scathing critique of party’s Presidential hopeful Sajith Premadasa before stepping down.
+
+During a special address in Parliament, Thalatha Athukorala, who entered Parliament in 2004 after the untimely passing of her brother, United National Party (UNP) stalwart Gamini Athukorala, questioned Sajith Premadasa’s leadership qualities and his suitability to lead the country at this critical time.
+
+She also underscored the importance of honesty and patience in politics, stating her belief that this was not the right time for Sajith Premadasa to pursue the Presidency of Sri Lanka.
+
+A visibly emotional Athukoarala expressed deep regret over the division of the UNP and the recent failure of the UNP and the SJB to unite ahead of the Presidential election.
+
+...
+
+[Data](articles/43c8d77b.json)
 
 ---
 
@@ -2169,123 +2251,5 @@ The arrested suspects are scheduled to be produced before the Wattala Magistrate
 [Data](articles/08e7ed35.json)
 
 [Extended Data](ext_articles/08e7ed35.ext.json)
-
----
-
-### Ali Sahir Maulana appointed Minister
-
-*2024-08-21 17:04:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-சாஹிர்-மௌலானா-அமைச்சராக-நியமனம்/175-342576) · `ta`
-
-Said Ali Zahir Maulana, a Sri Lanka Muslim Congress MP, is now the Minister of Non-Cabinet Development Projects. Meanwhile, Vadivel Suresh from the United People's Power party has been named the Minister of Labor.
-
-🟩
-
-Sri Lanka Muslim Congress (SLMC) National List Member of Parliament Said Ali Zahir Maulana has been appointed as the Minister of Non -Cabinet Development Project with implementation from today.
-
-Meanwhile, United People's Power (SJB) MP Vadivel Suresh has been appointed as the Minister of Labor.
-
-◼️
-
-[Data](articles/34604ac6.json)
-
-[Extended Data](ext_articles/34604ac6.ext.json)
-
----
-
-### Pakistani Parliament will be bowled
-
-*2024-08-21 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200182) · `si`
-
-The Pakistani Parliament faces a unique challenge: a significant mouse infestation, with reports of unusually large rats damaging important documents. To address this, the government allocated 1.2 million to control the breeding of these rodents.
-
-🟩
-
-Mice breeding in pakistan parliament have reportedly a hurdle to its daily activities.
-
-The news focused on the allocation of Pakistani 1.2 million to control the breeding of mice breeding.
-
-It is said that there is a rat of rats for several years and is larger than ordinary mice.
-
-Foreign media reports that these rats have destroyed a number of important documents.
-
-◼️
-
-[Data](articles/0e7a3e3e.json)
-
-[Extended Data](ext_articles/0e7a3e3e.ext.json)
-
----
-
-### Vadivel Suresh State Minister: Ali Zahir Maulana sworn in as Cabinet
-
-*2024-08-21 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/191646) · `ta`
-
-Vadivel Suresh, from the United People's Power party, was sworn in as the Minister of Labor. Simultaneously, Ali Zahir Maulana, a member of the Sri Lanka Muslim Congress, took office as the Minister of Non-Development Planning, focusing on implementation.
-
-🟩
-
-Vadivel Suresh, a United People's Power Member of Parliament, sworn in as the Minister of Labor in the presence of the President.
-
-Meanwhile, Sri Lanka Muslim Congress National List Member Ali Zahir Maulana was sworn in as the President of the Cabinet as Minister of Non -Development Planning with implementation on Wednesday (21st).
-
-◼️
-
-[Data](articles/d95ee9b0.json)
-
-[Extended Data](ext_articles/d95ee9b0.ext.json)
-
----
-
-### Calling questions from citizens
-
-*2024-08-21 16:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரஜைகளிடமிருந்து-கேள்விகளுக்கு-அழைப்பு/175-342575) · `ta`
-
-The Movement of the Election Monitoring Committee and the Civil Community March 12 is organizing a debate for the 2024 presidential candidates to enhance public participation. Citizens can submit questions via social media, email, or mail, focusing on governance-related issues. An Expert Panel will review these questions to ensure the debate addresses crucial administrative topics.
-
-🟩
-
-The Movement of the Election Monitoring Committee and the Civil Community March 12 has organized a debate for the 2024 presidential candidates,
-
-In an attempt to promote the public participation of the people, the movement has called for the candidates to submit the questions they want to ask the candidates.
-
-These questions can be sent by the public by social media, email or mail,
-
-The movement emphasizes that all questions must be centered on the rule and related issues to ensure that the debate focus on important administrative matters.
-
-Questions will be considered and finalized by the Expert Panel appointed by the March 12 movement.
-
-Postal Address: Company for Democratic Reforms and Election Studies,. 15/22, Chandra Vethasinghe Mawatha, 3rd Lane, Navala Koswatta Road, Rajagiriya.
-
-◼️
-
-[Data](articles/60efbe96.json)
-
-[Extended Data](ext_articles/60efbe96.ext.json)
-
----
-
-### Inflation is slightly up
-
-*2024-08-21 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200181) · `si`
-
-Sri Lanka's annual inflation rose to 2.5% in July 2024, with food prices increasing to 2.9%. Non-foods saw a slight decrease to 2.2%, while transport inflation dropped to 4.9%. Health sector inflation surged from 1.7% to 4.0%.
-
-🟩
-
-The annual inflation in Sri Lanka based on the National Customer Price Index has increased to 2.5% in July 2024, the Department of Census and Statistics.
-
-In July 2024, the inflation of the food category of food category, increased to 2.9% in July 2024.
-
-Department of Census and Statistics said that the non-foods fell to 2.2% in July 2024 compared to 2.2% over July.
-
-Inflation of transport subground of 2024, in July, 2024 has fallen to 4.9% in July.
-
-Inflation in health subground of 1.7% in June is high to 4.0% increase.
-
-◼️
-
-[Data](articles/97ca3970.json)
-
-[Extended Data](ext_articles/97ca3970.ext.json)
 
 ---

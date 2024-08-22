@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 18:29:22**
+As of **2024-08-22 18:39:43**
 
 ## Newspaper Stats
 
-*Scraped **42,120** Articles*
+*Scraped **42,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,82 @@ economynextcom | 2,547
 dailyftlk | 2,723
 adalk | 3,880
 dailymirrorlk | 4,733
-adaderanalk | 4,935
+adaderanalk | 4,936
 tamilmirrorlk | 5,468
 virakesarilk | 6,696
-adaderanasinhalalk | 7,187
+adaderanasinhalalk | 7,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,119 (100.0%) of 42,120 articles have been extended.
+42,120 (100.0%) of 42,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### මෝටර් රථයක් අධිවේගී මාර්ගයේදී ආරක්ෂිත වැටේ ගැටෙයි
+### British tech billionaire Mike Lynch’s body retrieved from sunken yacht in Sicily
+
+*2024-08-22 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101430/british-tech-billionaire-mike-lynchs-body-retrieved-from-sunken-yacht-in-sicily) · `en`
+
+The body of British tech magnate Mike Lynch was retrieved on Thursday from the wreck of his family yacht that sank earlier this week off the coast of Sicily during a violent storm, a source close to the rescue operation said.
+
+Lynch’s 18-year-old daughter Hannah is still unaccounted for, the source said. The bodies of the other four people who vanished when the boat went down were recovered from the yacht on Wednesday.
+
+The British-flagged Bayesian, a 56-metre-long (184-ft) superyacht carrying 22 passengers and crew, was anchored off the port of Porticello, near Palermo, when it disappeared beneath the waves in a matter of minutes after the bad weather struck.
+
+Lynch, 59, was one of the UK’s best-known tech entrepreneurs and had invited friends to join him on the yacht to celebrate his recent acquittal in a major U.S. fraud trial.
+
+His body was brought ashore in a blue body bag and driven in an ambulance to a nearby hospital morgue.
+
+...
+
+[Data](articles/add028c0.json)
+
+---
+
+### ගංවතුර ගැන දැනුම්දීමක්
+
+*2024-08-22 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200215) · `si`
+
+දින කිහිපයක් පුරා ඇද හැලුණු වර්ෂාවේ අඩුවීමක් මේ වනවිට දැකගැනීමට හැකිවුවත්, පැවති අවදානම් තත්ත්වය තවමත් එලෙසින්ම පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසා සිටියි.
+
+දිවයිනේ නවතම තත්ත්වය පිළිබඳ යාවත්කාලීන කිරීමක් සිදුකරමින් වාරිමාර්ග ඉංජිනේරු (ජල විද්‍යා හා ආපදා කළමනාකරණ අංශය) ජී. ඩබ්. ඒ. සකුරා දිල්තාරා මහත්මිය අද (22) පස්වරුවේ පවසා සිටියේ කළු,  ගිං සහ නිල්වලා ගංඟා ද්‍රෝණීන්ගේ ගංවතුර අවදානම තවමත් පවතින බවයි.
+
+"දින කිහිපයක් පුරාවට පැවති කළු,  ගිං සහ නිල්වලා ගංඟා ද්‍රෝණීන්ගේ මෙන්ම කළු ගඟෙහි උප ද්‍රෝණියේ ගංවතුර අවදානම තවමත් පවතිනවා. නමුත් අද දිනයේ සැලකිය යුතු වර්ෂාපතනයක් නොලැබීම නිසා එහි ජල මට්ටම තව දුරටත් ඉහළ යාමකින් තොරව ජල මට්ටමේ අඩුවීමක් අපේක්ෂා කරනවා. කෙසේ නමුත් ඉදිරි දිනය තුළත් පහත්බිමවල ගංවතුර තත්ත්වය පවතීවි. පවතින වර්ෂා රහිත කාලගුණ තත්ත්වයත් සමග මෙම තත්ත්වය ක්‍රමයෙන් පහළ යනු ඇතැයි බලාපොරොත්තු වෙනවා.
+
+...
+
+[Data](articles/ccb90c8b.json)
+
+---
+
+### A car collides the safety fence on the highway
 
 *2024-08-22 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200214) · `si`
 
-හම්බන්තොට මහ රෝහලේ විශේෂඥ වෛද්‍යවරයෙකුගේ බිරිඳක් සහ දරු දෙදෙනා ගමන්ගත් මෝටර් රථය දක්ෂිණ අධිවේගී මාර්ගයේදී අනතුරකට ලක්වී තිබුණි.
+A car crash on the highway involved a family en route to Hambantota General Hospital, injuring two sons and their mother. The incident occurred near Baddegama, 80km from the nearest access point. A luxury bus heading towards Colombo from Moneragala also collided with the car. All injured parties were rushed to the hospital.
 
-ඒ, බද්දේගම අධිවේගී පිවිසුම ආසන්නයේ කිලෝමීටර් 80. 9 කණුව අසලදී ය.
+🟩
 
-වයස අවුරුදු 16ත් 21ත් අතර වයස්වල පසුවන පුතුන් දෙදෙනෙකු සහ ඔවුන්ගේ මව එම අනතුරින් තුවාල ලැබීය.
+The wife and two children who were experiencing a specialist of the Hambantota General Hospital were in danger of the Southern Expressway.
 
-අනතුර සිදුවන අවස්ථාවේදී 21 හැවිරිදි පුතු මෝටර් රථය ධාවනය කර ඇති බව පොලීසිය පවසයි.
+That is 80 km of the nearest access to the Baddegama highway. 9 is near the post.
 
-මාතර දෙස සිට කොළඹ දෙසට පැමිණෙමින් තිබූ මෝටර් රථය  මාර්ගයේ මැද ආරක්ෂිත වැටේ ගැටීමත් සමග මොනරාගල සිට කොළඹ දෙසට ධාවනය වෙමින් තිබූ සුඛෝපභෝගී පෞද්ගලික බස් රථයක ද ගැටී තිබුණි.
+Two sons and their mother were injured in the accident.
 
-තුවාල ලබා මෝටර් රථයේ සිරවී සිටි පිරිසව කඩිනමින් මුදාගෙන රෝහල්ගත කිරීමට ඒ අසලින් ගමන්ගත් රියදුරන් කටයුතු කර තිබුණි.
+The 21-year-old son has been driven by the police at the time of the accident.
+
+The car in Matara to Colombo was also hit by a luxury private bus traveling from Moneragala to Colombo with the collision of the road.
+
+The injured were the victims of the trapped men and hospitalized to hospital.
 
 ◼️
 
 [Data](articles/63e6c2db.json)
+
+[Extended Data](ext_articles/63e6c2db.ext.json)
 
 ---
 
@@ -2267,45 +2309,5 @@ ECONOMYNEXT – Trinh Thi Tam as Ambassador to Sri Lanka from the Socialist Repu
 [Data](articles/b736840f.json)
 
 [Extended Data](ext_articles/b736840f.ext.json)
-
----
-
-### Ambassador of Myanmar presents credentials to Sri Lanka
-
-*2024-08-22 05:48:00* · [`economynextcom`](https://economynext.com/ambassador-of-myanmar-presents-credentials-to-sri-lanka-177673/) · `en`
-
-ECONOMYNEXT – Marlar Than Htaik, ambassador to Sri Lanka from the Union of Myanmar presented credentials to President Ranil Wickremesinghe, the Foreign Ministry said.
-
-She presented credentials to President Wickremesinghe on August 21. (Colombo/Aug22/2024)
-
-◼️
-
-[Data](articles/be8db45e.json)
-
-[Extended Data](ext_articles/be8db45e.ext.json)
-
----
-
-### Opportunity for citizens of 35 countries under the free visa facility
-
-*2024-08-22 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191674) · `ta`
-
-The government has approved a free visa program for citizens of 35 countries, including major economies like the UK, US, Canada, and Germany, effective from October 1, 2024, for a duration of 6 months. This initiative aims to boost tourism and economic ties.
-
-🟩
-
-The Cabinet has approved the entry into the country under a free visa facility for citizens of 35 countries.
-
-It includes 35 countries including the UK, the United States, Canada, Germany, Australia, Saudi Arabia, China, India, Russia, South Korea and Japan.
-
-This opportunity will be available for a period of October 1, 2024 to 6 months.
-
-The United Kingdom, Germany, the Netherlands, Belgium, Spain, Australia, Denmark, Poland, Kazakhstan, Saudi Arabia. United Arab Emirates, Nepal, China, India, Indonesia, Russia, Malaysia, Malaysia, Japan, USA, Canada, Czech Republic, Italy, Switzerland, Austria, Israel, Israel, Belarus, Iran, Sweden, South KoreaBahrain, New Zealand
-
-◼️
-
-[Data](articles/6fddfda2.json)
-
-[Extended Data](ext_articles/6fddfda2.ext.json)
 
 ---

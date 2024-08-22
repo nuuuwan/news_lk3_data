@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 13:37:00**
+As of **2024-08-22 13:56:22**
 
 ## Newspaper Stats
 
-*Scraped **42,069** Articles*
+*Scraped **42,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,542
 dailyftlk | 2,723
 adalk | 3,873
 dailymirrorlk | 4,733
-adaderanalk | 4,925
+adaderanalk | 4,926
 tamilmirrorlk | 5,459
 virakesarilk | 6,691
 adaderanasinhalalk | 7,175
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,067 (100.0%) of 42,069 articles have been extended.
+42,069 (100.0%) of 42,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### Sajith reiterates plans to amend IMF agreement after winning presidential poll
+
+*2024-08-22 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101420/sajith-reiterates-plans-to-amend-imf-agreement-after-winning-presidential-poll) · `en`
+
+The presidential candidate of the ‘Samagi Jana Sandhanaya’, opposition leader Sajith Premadasa reiterated his stance of amending Sri Lanka’s agreement with the International Monetary Fund (IMF) following his election to the Office of the President, citing that the existing agreement does not focus on economic growth.
+
+Addressing the National Visionary Summit in Colombo, organized by the National Council of Professionals, the Opposition Leader expressed his view that a government should not only focus on debt sustainability, adding that attention is also needed to be paid to other areas including trade.
+
+Commenting further, Premadasa stated that a mere 3.1% economic growth by 2029, which is agreed by the IMF and the Sri Lankan Government is insufficient, highlighting that debt sustainability cannot be the sole focus.
+
+“We must align our economy towards growth, not just growth, but tradable growth. It is a must to ensure that we achieve shared prosperity”, he added.
+
+...
+
+[Data](articles/0ba92d8e.json)
+
+---
 
 ### Govt. to introduce ‘AI-related student societies’ in schools
 
@@ -45,6 +63,8 @@ The programme’s goal is to provide an opportunity for the students to engage i
 ◼️
 
 [Data](articles/5508c576.json)
+
+[Extended Data](ext_articles/5508c576.ext.json)
 
 ---
 
@@ -63,6 +83,8 @@ A preliminary report by Iran’s military had said in May that no evidence of fo
 ...
 
 [Data](articles/a524c13e.json)
+
+[Extended Data](ext_articles/a524c13e.ext.json)
 
 ---
 
@@ -2213,29 +2235,5 @@ Milan who reported the first 6 beat in the innings, Milan received 6 hits and 4 
 [Data](articles/45f761a6.json)
 
 [Extended Data](ext_articles/45f761a6.ext.json)
-
----
-
-### Police are not going to deceive the people of the North - Namal Rajapaksa
-
-*2024-08-21 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191667) · `ta`
-
-Namal Rajapaksa assures the people of the North that there's no plan to merge the North and Eastern Provinces, promising to safeguard Tamil culture and language rights without delegating police and land powers.
-
-🟩
-
-There is no need to deceive those in the North during the election.I can end up, I can't.I will protect the culture of Tamils. I will also grant language rights. But the Presidential candidate of the PA, Namal Rajapaksa, said that he would never give up land and police authority to combine the North and Eastern Province.
-
-The first virgin election campaign meeting of Sri Lanka PA. He said the above.
-
-Sri Lanka PA has changed the political map of this country. Former President Mahinda Rajapaksa has advanced the country in various sectors in a short time, implementing economic plans that highlighted national products.
-
-We handed over the country that was economically advanced in 2015. Gotabhaya Rajapakse took charge of the country that was affected by the economic level in 2019. Kovit was also influenced by the economic impact. When we raised the decisive question of whether the economy or the life of the people, we preserved the lives of the people.
-
-...
-
-[Data](articles/bc3474fc.json)
-
-[Extended Data](ext_articles/bc3474fc.ext.json)
 
 ---

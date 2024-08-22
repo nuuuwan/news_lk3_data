@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 23:36:56**
+As of **2024-08-22 23:56:43**
 
 ## Newspaper Stats
 
-*Scraped **42,142** Articles*
+*Scraped **42,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 390
 colombotelegraphcom | 403
 islandlk | 2,441
-economynextcom | 2,547
+economynextcom | 2,553
 dailyftlk | 2,723
 adalk | 3,884
 dailymirrorlk | 4,733
@@ -26,57 +26,81 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,139 (100.0%) of 42,142 articles have been extended.
+42,144 (100.0%) of 42,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### ஷக்கீல், ரிஸ்வான் அபார சதங்கள் குவிக்க, பாகிஸ்தான் பலமான நிலையை அடைந்தது
+### Pakistan reached a strong position to accumulate centuries
 
 *2024-08-22 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191740) · `ta`
 
-பங்களாதேஷுக்கு எதிராக ராவல்பிண்டி விளையாட்டரங்கில் நடைபெற்றுவரும் ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் தொடரின் முதலாவது போட்டியில் சவூத் ஷக்கீல், மொஹமத் ரிஸ்வான் ஆகியோர் 5ஆவது விக்கெட்டில் பகிர்ந்த 240 ஓட்டங்களின் உதவியுடன் பாகிஸ்தான் கணிசமான மொத்த எண்ணிக்கையைப் பெற்று பலமான நிலையை அடைந்தது.
+In the ICC World Test Championship opener at Rawalpindi, Pakistan amassed 448/4 in their first innings, led by centuries from Saud Shakeel (141) and Mohammad Rizwan (171). Shakeel's knock included 9 fours, marking his third Test century, while Rizwan's effort, off 239 balls with 11 fours and 3 sixes, was his third Test ton and highest individual score in Tests. The partnership between Rizwan and Aga Salman (44 runs) and Rizwan and Shaheen Shah Afridi (50 runs) highlighted Pakistan's batting strength. Bangladesh ended the day at 27/0, with Hasan Mahmud and Shoriful Islam taking two wickets each for Pakistan.
 
-போட்டியின் இரண்டாம் நாளான இன்று காலை தனது முதலாவது இன்னிங்ஸை 4 விக்கெட் இழப்புக்கு 154 ஓட்டங்களிலிருந்து தொடர்ந்த பாகிஸ்தான், 6 விக்கெட்களை இழந்து 448 ஓட்டங்களைப் பெற்றிருந்தபோது தனது முதல் இன்னிங்ஸை நிறுத்திக்கொண்டது.
+🟩
 
-சவூத் ஷக்கீல், மொஹமத் ரிஸ்வான் ஆகிய இருவரும் மிகத் திறமையாகத் துடுப்பெடுத்தாடி  அபார  சதங்கள் குவித்தனர்.
+In the first match of the ICC World Test Championships at Rawalpindi Stadium against Bangladesh, Pakistan achieved a significant total number with the help of 240 runs in the 5th wicket.
 
-அவர்களில் பொறுமையுடன் துடுப்பெடுத்தாடிய சவூத் ஷக்கீல் 261 பந்துகளை எதிர்கொண்டு 9 பவுண்டறிகள் அடங்கலாக 141 ஓட்டங்களைப் பெற்றார். 11ஆவது டெஸ்ட் போட்டியில் விளையாடும் ஷக்கீல் குவித்த 3ஆவது சதம் இதுவாகும்.
+On the second day of the match, Pakistan stopped their first innings for 448 runs for the loss of 154 runs for the loss of 154 runs for the loss of 4 wickets.
+
+Saudi Shakiel and Mohammed Rizwan both played very effectively and scored great centuries.
+
+Saudi Shakheel, who was patiently bowled out, scored 141 runs, including 9 pounds.. This is the 3rd century in the 11th Test.
+
+Mohammed Rizwan, who was initially relaxed and later, faced 239 balls, and did not play with 171 runs, including 11 pounds and 3 sixes.
+
+It was his 3rd Test century and his 171 runs were recorded as his unique Test innings.
+
+Rizwan shared 44 runs with Aga Salman in the 6th wicket after Shakel lost the match and shared 50 runs with Shaheen Shah Abridi in the 7th wicket.
 
 ...
 
 [Data](articles/96570fa0.json)
 
+[Extended Data](ext_articles/96570fa0.ext.json)
+
 ---
 
-### பல்கலைக்கழக மாணவனின் தவறான முடிவு
+### The wrong decision of the university student
 
 *2024-08-22 23:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மாணவனின்-தவறான-முடிவு/175-342659) · `ta`
 
-பேராதனை பல்கலைக்கழகத்தில் தொழில்நுட்பம் கற்கும் வயம்ப பல்கலைக்கழகத்தின் நான்காம் வருட மாணவர் கண்டி ரியகமவில் உள்ள விடுதி ஒன்றில் சடலமாக மீட்கப்பட்டுள்ளார்.
+A fourth-year student from the University of Wayamba at Peradeniya University was found dead in his hostel room in Riyagama, Kandy, after hanging himself. Investigations suggest he had been struggling with life's complexities and felt let down by society. A 24-year-old roommate from Gampaha mentioned the deceased's distress but couldn't comprehend his state of mind.
 
-இந்த மாணவர் மூன்று நாட்களாக தூக்கிட்டு தற்கொலை முயற்சியில் ஈடுபட்டுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது. இது தொடர்பில் மடிக்கணினியில் குறிப்பையும் வைத்துள்ளதாக தெரிவருகின்றது.
+🟩
 
-கம்பஹா ஹப்புகொட பிரதேசத்தைச் சேர்ந்த 24 வயதுடைய குறித்த மாணவன் மேலும் மூன்று மாணவர்களுடன் குறித்த விடுதியில் தங்கியிருந்தமை விசாரணைகளில் தெரியவந்துள்ளது.
+The fourth year student of the University of Wayamba University at Peradeniya University has been found dead at a hostel in Riyagama Kandy.
 
-வாழ்க்கை என்ற வினோதமான திரைப்படத்தை தன்னால் புரிந்து கொள்ள முடியவில்லை என்றும், சமூகத்தை புரிந்து கொள்ள முடியாமல் மிகுந்த ஏமாற்றம் அடைந்திருப்பதாகவும் அவர் விட்டுச்சென்ற குறிப்பில் தெரிவித்துள்ளார். R
+Investigations have revealed that the student was hanged for three days and attempted suicide. It is also known that the laptop is on this regard.
+
+Investigations have revealed that a 24 -year -old student from Gampaha Hapugoda was staying at the hotel with three more students.
+
+He said that he was unable to understand the bizarre film of life and that he was very disappointed that the community was very disappointed.. Remble
 
 ◼️
 
 [Data](articles/693094e6.json)
 
+[Extended Data](ext_articles/693094e6.ext.json)
+
 ---
 
-### ஜனாதிபதி வேட்பாளர் டொக்டர் ஐதுரூஸ் இல்லியாஸ் காலமானார்
+### Presidential Candidate Dr. Etirus Illiyas has passed away
 
 *2024-08-22 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/191739) · `ta`
 
-ஜனாதிபதி வேட்பாளரும் முன்னாள் எம்பியுமான வைத்தியர் ஐதுரூஸ் இல்லியாஸ் 22ஆம் திகதி வியாழக்கிழமை காலமானார்.
+Dr. Eidurus Illiyas, a former MP and presidential candidate, unexpectedly passed away on Thursday, 22nd.
+
+🟩
+
+The presidential candidate and former MP, Dr. Eidurus Illiyas, passed away on Thursday 22nd.
 
 ◼️
 
 [Data](articles/a8a7654a.json)
+
+[Extended Data](ext_articles/a8a7654a.ext.json)
 
 ---
 
@@ -221,6 +245,28 @@ Accordingly, Chief Justice Jayantha Jayasuriya, Vijayantha Jayasuriya, Vijayanth
 [Data](articles/74f23cd6.json)
 
 [Extended Data](ext_articles/74f23cd6.ext.json)
+
+---
+
+### United Petroleum launches services in Sri Lanka
+
+*2024-08-22 20:40:00* · [`economynextcom`](https://economynext.com/united-petroleum-launches-services-in-sri-lanka-177827/) · `en`
+
+ECONOMYNEXT – United Petroleum of Australia was launched in Sri Lanka on Thursday (22), Minister of Power and Energy Kanchana Wijesekera said.
+
+“They will commence retail fuel operations in September with 150 dealer owned and operated fuel stations,” Wijesekera said on X (twitter).
+
+United Petroleum becomes the fourth retail operator to enter the Sri Lankan market after LIOC, Sinopec, RM Parks-Shell.
+
+The company signed an agreement with the Ministry of Power and Energy earlier this year to enter petroleum retail operations in the island.
+
+Sri Lanka last year awarded retail fuel licenses to three foreign firms – China’s Sinopec, United Petroleum Australia and US-based RM Parks to reduce the state-owned Ceylon Petroleum Corporation’s (CPC) pressure on finding foreign currency for the country’s whole fuel import.
+
+...
+
+[Data](articles/78ecb510.json)
+
+[Extended Data](ext_articles/78ecb510.ext.json)
 
 ---
 
@@ -588,6 +634,24 @@ Accordingly, three ships in the US have arrived at the Port of Colombo since the
 
 ---
 
+### Sri Lanka Cabinet approves public sector wage hike ahead of polls
+
+*2024-08-22 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-public-sector-wage-hike-ahead-of-polls-177823/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers approved a public sector salary hike in line with an expert panel recommendation for all public servants from January 2025, President Ranil Wickremesinghe’s office said.
+
+The move, however, comes a month ahead of the presidential poll in which President Wickremesinghe is contesting under an independent coalition.
+
+Wickremsinghe, after a series of protests by public sector employees demanding wage hike early this year, appointed a nine-member specialist committee in June headed by former presidential secretary Udaya Seneviratne to address salary anomalies in the government service.
+
+...
+
+[Data](articles/9c80b1b2.json)
+
+[Extended Data](ext_articles/9c80b1b2.ext.json)
+
+---
+
 ### Kehelia
 
 *2024-08-22 17:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலியவின்-விளக்கமறியல்-நீடிப்பு/175-342642) · `ta`
@@ -605,6 +669,26 @@ Former Health Minister Keheliya Rambukwella was arrested on February 2 on charge
 [Data](articles/178fa4ce.json)
 
 [Extended Data](ext_articles/178fa4ce.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 300.80/301.30, bond yields down
+
+*2024-08-22 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-80-301-30-bond-yields-down-177817/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 300.80/301.30 to the US dollar Thursday, from 300.20/60 Wednesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed stable at 11.00/15 percent.
+
+A bond maturing on 15.12.2027 closed at 11.80/95 percent, down from 11.89/12.00 percent.
+
+A bond maturing on 01.07.2028 closed at 12.45/60 percent, down from 12.50/60 percent.
+
+A bond maturing on 15.05.2030 closed at 12.85/13.05 percent. (Colombo/Aug22/2024)
+
+◼️
+
+[Data](articles/17bef60b.json)
 
 ---
 
@@ -649,6 +733,28 @@ Based on education qualifications, experience and responsibility, the Cabinet ha
 [Data](articles/a1c9caef.json)
 
 [Extended Data](ext_articles/a1c9caef.ext.json)
+
+---
+
+### Sri Lanka stocks close down, foreign buying interest picks up
+
+*2024-08-22 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-foreign-buying-interest-picks-up-177813/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.21 percent, or 24.19 points, at 11,458; while the more liquid S&P SL20 Index closed down 0.43 percent, or 14.30 points, at 3,288.
+
+There was net foreign inflow of 15.5 million recorded in the day.
+
+Top foreign buying was seen on Dialog Axiata Plc (flat at 9.00), Melstacorp Plc (up at 81.90), Tess Agro Plc (flat at 1.00), and John Keells Holdings Plc (down at 181.00 rupees).
+
+Foreign selling was seen on Commercial Bank of Ceylon Plc non-voting (flat at 75.00), Ceylon Cold Stores plc (dowb at 56.10), Associated Motor Finance Company Plc (up at 24.70), and Talawakelle Tea Estates Plc (down at 120.00).
+
+There were five crossings recorded in the day; Commercial Bank, Dialog, Kelani Tyres Plc (up at 79.20), Hatton National Bank Plc (down at 183.00), and JKH.
+
+...
+
+[Data](articles/8dff7bbf.json)
 
 ---
 
@@ -1104,6 +1210,22 @@ Further investigations are conducting further investigations to obtain detention
 
 ---
 
+### Sri Lanka opposition: govt, immigration officials violating SC order on visa deal
+
+*2024-08-22 15:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-govt-immigration-officials-violating-sc-order-on-visa-deal-177799/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Public Security Ministry and officials in charge of immigration are violating the country’s Supreme Court order on a visa deal involving IVS-GBS and VFS Global, key opposition legislators said.
+
+Sri Lanka’s Supreme Court on August 2 suspended the contract given to private consortium IVS-GBS and VFS Global to deal with visa issuance in an interim order after 8 Fundamental Rights (FR) cases were filed against giving the deal without a competitive tender.
+
+Though the court ordered the earlier system operated by state-owned Mobitel be restored until hearing of the case is completed, the Department of Immigration and Emigration has yet to restore the system.
+
+...
+
+[Data](articles/6c08861e.json)
+
+---
+
 ### Allow AI Student Associations
 
 *2024-08-22 15:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-மாணவர்-சங்கங்களுக்கு-அனுமதி/175-342638) · `ta`
@@ -1155,6 +1277,22 @@ It is noteworthy that a person is unable to obtain a flight passenger in a fligh
 [Data](articles/d1fda079.json)
 
 [Extended Data](ext_articles/d1fda079.ext.json)
+
+---
+
+### Sri Lankans believe economy, inflation most pressing national issues: survey
+
+*2024-08-22 14:59:00* · [`economynextcom`](https://economynext.com/sri-lankans-believe-economy-inflation-most-pressing-national-issues-survey-177766/) · `en`
+
+ECONOMYNEXT — Sri Lankans overwhelmingly cite the economy and inflation as their biggest concerns going
+
+into the September presidential election, an independent poll has shown.
+
+The Institute for Health Policy (IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS) polling during April to July 2024 showed, however, concerns about unemployment have been rising since the start of the year, whilst the numbers of Sri Lankans citing corruption and drugs as top national problems have been declining.
+
+...
+
+[Data](articles/ffb312da.json)
 
 ---
 
@@ -2225,133 +2363,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/41e696d1.json)
 
 [Extended Data](ext_articles/41e696d1.ext.json)
-
----
-
-### Court order against protesters
-
-*2024-08-22 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200199) · `si`
-
-A court order was issued by the Maligakanda Magistrate against a protest planned by the Department of Health Sciences and the Inter University Students Federation, following a request from the Maradana police. The order aims to prevent obstruction of traffic and public disturbance during the event.
-
-🟩
-
-The Maligakanda Magistrate has issued a court order on a protest to be held today (22) by the Department of Health Sciences and the Inter University Students Federation.
-
-The order had been issued in accordance with a request made by the Maradana police OIC.
-
-The protest is to be organized by the Department of Allied Health Sciences and the Inter University Students Federation.
-
-The court order has issued the court order to respond to vehicles and the public to obstruct the protest to prevent traffic on traffic to prevent traffic to prevent traffic on traffic.
-
-Accordingly, the Maligakanda Magistrate's Court has issued a prohibition to prevent the development of the road and the health of the Ministry of Health today to 9 pm today.
-
-◼️
-
-[Data](articles/927609b2.json)
-
-[Extended Data](ext_articles/927609b2.ext.json)
-
----
-
-### "The North and Eastern Provinces will not be merged"
-
-*2024-08-22 10:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-மாகாணங்கள்-இணைக்கப்பட-மாட்டாது/175-342616) · `ta`
-
-Namal Rajapaksa, a Sri Lanka PA presidential candidate, emphasizes his readiness to tackle challenges, inspired by his father. He vows to revive the agrarian policies of 2005 and 2015, including farmer fertilizer subsidies. Rajapaksa assures that under his leadership, the Sri Lankan PA government will not merge the Northern and Eastern Provinces nor delegate police and land powers to provincial councils. He commits to preserving language and culture without deceiving the Northern Province populace with false promises.
-
-🟩
-
-Namal Rajapaksa, the presidential candidate of the Sri Lanka PA, said he would never be afraid of the challenges and he would like to challenge.
-
-Speaking at a presidential election campaign meeting in Anuradhapura, he said he was involved in politics based on policies and was ready to go forward with the project.
-
-“We are not afraid of challenges. I like the challenges. That's what I learned from my father. I don't hate anyone. So it is useless to apply mud on us, ”he said.
-
-Rajapakse said he would implement the agrarian policy that was in effect in 2005 and 2015 and said that the farmers were providing fertilizer subsidy.
-
-He stressed that the Sri Lankan PA government will not grant police and land powers to provincial councils and that the Northern and Eastern Provinces will not be merged.
-
-We will protect language and culture, we will only do what we can do, and we will not deceive the people of the Northern Province by making false promises.
-
-◼️
-
-[Data](articles/26547943.json)
-
-[Extended Data](ext_articles/26547943.ext.json)
-
----
-
-### “North and East will not be connected”
-
-*2024-08-22 10:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-இணைக்கப்படாது/175-342616) · `ta`
-
-Namal Rajapaksa, a Sri Lanka PA presidential candidate, emphasizes his readiness to tackle challenges, inspired by his father. He vows to revive the agrarian policies of 2005 and 2015, including farmer fertilizer subsidies. Rajapaksa assures that the Northern and Eastern provinces won't merge, nor will provincial councils gain police and land powers. He pledges to safeguard language and culture without deceiving the Northern populace with false promises.
-
-🟩
-
-Namal Rajapaksa, the presidential candidate of the Sri Lanka PA, said he would never be afraid of the challenges and he wanted to challenge.
-
-Speaking at a presidential election campaign meeting in Anuradhapura, he said he was involved in politics based on policies and was ready to go forward with the project.
-
-“We are not afraid of challenges. I like the challenges. That's what I learned from my father. I don't hate anyone. So it is useless to apply mud on us, ”he said.
-
-Rajapakse said he would implement the agrarian policy that was in effect in 2005 and 2015 and said that the farmers were providing fertilizer subsidy.
-
-He stressed that the Sri Lankan PA government will not grant police and land powers to provincial councils and that the Northern and Eastern Provinces will not be merged.
-
-We will protect language and culture, we will only do what we can do, and we will not deceive the people of the Northern Province by making false promises.
-
-◼️
-
-[Data](articles/977f0003.json)
-
-[Extended Data](ext_articles/977f0003.ext.json)
-
----
-
-### Court order issued over protests planned by student unions in Colombo
-
-*2024-08-22 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101412/court-order-issued-over-protests-planned-by-student-unions-in-colombo) · `en`
-
-The Maligakanda Magistrate’s Court has issued an order preventing Allied Health Sciences Students’ Union and the Inter-University Students’ Federation (IUSF) from holding protest marches, entering the Health Ministry, and inconveniencing the public in the area from 10.00 a.m. to 9.00 p.m. today (22).
-
-This order has been issued following a request made by Maradana Police, based on intelligence received by police that the planned protest will cause inconvenience to the public and disrupt traffic movement along roads near the Health Ministry in Colombo, the Police Media Division said.
-
-Accordingly, the Convenor of the Allied Health Sciences Students’ Union Tharushan Herath, Convenor of the IUSF Madhushan Chandrajith and others have been prohibited from gathering near the Ministry of Health, entering the Health Ministry premises and holding protest marches in a way that inconvenience the public from 10.00 a.m. to 9.00 p.m. today, as per the court order, police said.
-
-◼️
-
-[Data](articles/811ce024.json)
-
-[Extended Data](ext_articles/811ce024.ext.json)
-
----
-
-### Court order issued over protests by Allied Health Sciences Graduates, IUSF
-
-*2024-08-22 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101412/court-order-issued-over-protests-by-allied-health-sciences-graduates-iusf) · `en`
-
-The Maligakanda Magistrate’s Court has issued an order preventing Allied Health Sciences Graduates’ Union and the Inter-University Students’ Federation (IUSF) from holding protest marches, entering the Health Ministry, and inconveniencing the public in the area from 10.00 a.m. to 9.00 p.m. today (22).
-
-◼️
-
-[Data](articles/89091410.json)
-
-[Extended Data](ext_articles/89091410.ext.json)
-
----
-
-### Court order issued over protests planned by health trade unions, IUSF
-
-*2024-08-22 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101412/court-order-issued-over-protests-planned-by-health-trade-unions-iusf) · `en`
-
-The Maligakanda Magistrate’s Court has issued an order preventing health sector trade unions and the Inter-University Students’ Federation (IUSF) from holding protest marches, entering the Health Ministry, and inconveniencing the public in the area from 10.00 a.m. to 9.00 p.m. today (22).
-
-◼️
-
-[Data](articles/eeeb532f.json)
-
-[Extended Data](ext_articles/eeeb532f.ext.json)
 
 ---

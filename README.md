@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 13:06:32**
+As of **2024-08-22 13:21:19**
 
 ## Newspaper Stats
 
-*Scraped **42,065** Articles*
+*Scraped **42,067** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 354
 newsfirstlk | 363
-bbccomsinhala | 388
+bbccomsinhala | 389
 colombotelegraphcom | 403
 islandlk | 2,439
 economynextcom | 2,542
@@ -19,18 +19,34 @@ adalk | 3,873
 dailymirrorlk | 4,733
 adaderanalk | 4,923
 tamilmirrorlk | 5,459
-virakesarilk | 6,690
+virakesarilk | 6,691
 adaderanasinhalalk | 7,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,065 (100.0%) of 42,065 articles have been extended.
+42,065 (100.0%) of 42,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### உள்ளூராட்சி மன்ற தேர்தலை முடிந்தளவு விரைவில் நடத்துமாறும் உயர் நீதிமன்றம் உத்தரவு !
+
+*2024-08-22 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191692) · `ta`
+
+நிதியமைச்சர் என்ற வகையில் ஜனாதிபதி மற்றும் தேர்தல் ஆணைக்குழு உறுப்பினர்கள் 2023 இல் உள்ளூராட்சி மன்ற தேர்தலை நடத்தாமல் அடிப்படை உரிமைகளை மீறியுள்ளதாக உயர் நீதிமன்றம் தெரிவித்துள்ளது.
+
+முடிந்தளவு விரைவில் ஒத்திவைக்கப்பட்ட உள்ளூராட்சி மன்றத் தேர்தலை நடத்துமாறும் இன்று வியாழக்கிழமை (22) உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி  ஜனாதிபதி தேர்தல் இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1cec4d84.json)
+
+---
 
 ### 2023 LG Election postponement violated fundamental rights; SC orders immediate polls
 
@@ -961,6 +977,28 @@ Following the incident, the parents of the 3 -year -old girl, who were informed 
 [Data](articles/c2aef66a.json)
 
 [Extended Data](ext_articles/c2aef66a.ext.json)
+
+---
+
+### මංගල තරගයේදී ම පිත්තෙන් වාර්තා තැබූ පන්දු යවන්නා
+
+*2024-08-22 07:07:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cly9d0dx01eo) · `si`
+
+ක්‍රිකට් ක්‍රීඩාව ලෝකයට හඳුන්වා දුන් එංගලන්තයේ ක්‍රිකට් කණ්ඩාමට එරෙහිව සහභාගි වූ සිය මංගල ටෙස්ට් තරගයේදී ම ටෙස්ට් ක්‍රිකට් වාර්තා දෙකක් පිහිටවූ ශ්‍රී ලංකා පිතිකරු මිලාන් රත්නායක ගැන ක්‍රිකට් ලෝකයේ ම අවධානය යොමුව තිබේ.
+
+ප්‍රබල එංගලන්ත පන්දු යවන්නන්ගේ අභියෝගය හමුවේ මිලාන් රත්නායක පළපුරුදු පිතිකරුවෙකු ලෙස ශ්‍රී ලංකා ඉනිම ලකුණු 200 සීමාව ඉක්මවා ගෙන යාමට කටයුතු කළේ, තරගය නැරඹීමට පැමිණි එංගලන්ත ප්‍රේක්ෂකයින්ගේ ද ආචාරය හිමි කර ගනිමිනි.
+
+සිය මංගල ටෙස්ට් තරගයේදී ම වාර්තා දෙකක් බිඳ හෙළූ මිලාන් රත්නායක යනු කවුද?
+
+මිලාන් රත්නායක සිය ටෙස්ට් හිස් වැසූම ලබා ගත්තේ හිටපු ප්‍රවීණ ක්‍රිකට් ක්‍රීඩකයෙකු වන කුමාර් සංගක්කාරගේ දෑතිනි.
+
+රත්නායක මුදියන්සේලාගේ මිලාන් ප්‍රියන්ත රත්නායක උපත ලැබුවේ, 1996 වසරේ අගෝස්තු මස 01 වන දා කුරුණෑගලදී ය.
+
+පාසල් අවදියේ සිට ක්‍රිකට් ක්‍රීඩාවට යොමුවූ මිලාන් දකුණතින් වේග පන්දු යවන්නෙකු ද වන අතර ඔහු පන්දුව මනා පාලනයකින් යුතුව දෝලනය කිරීමට ද හැකි අයෙකු ලෙස ද ප්‍රකට ය.
+
+...
+
+[Data](articles/6ad23db7.json)
 
 ---
 
@@ -2193,53 +2231,5 @@ It is also worth noting that former President and Namal's father Mahinda Rajapak
 [Data](articles/9457b064.json)
 
 [Extended Data](ext_articles/9457b064.ext.json)
-
----
-
-### The child who died of doctor's negligence in Vavuniya
-
-*2024-08-21 21:35:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வவுனியாவில்-வைத்தியரின்-அலட்சியத்தினால்-இறந்த-குழந்தை/72-342589) · `ta`
-
-In Vavuniya, a child died allegedly due to a hospital's negligence. The father filed a complaint at the police station, accusing the hospital of mishandling his wife's treatment and his newborn's care. The incident involved medication mix-ups, delayed responses, and a lack of proper attention, leading to the tragic loss of their child.
-
-🟩
-
-A complaint has been lodged at the Vavuniya Police Station by the father of the child that his child was born and died due to negligence of a Vavuniya hospital.
-
-I was admitted to the Vavuniya Hospital on the 17th of last month for his wife.. The next day, his medicines were given to his paneer.
-
-My wife, who could not bear this, told a nurse there. At the time, a doctor on duty used the phone and said that it was not a problem without taking care of it. Then they gave the wife the painful medicine and told him to sleep.
-
-A medical officer who arrived at the hospital the next day had spoken to the doctor on duty that he may have taken the baby.. Then again at 5 pm, my wife took my wife to the surgery hall.
-
-He did not come out even though it was several hours. In the meantime, my wife has been transferred to the 5th hostel, saying that the 7th hotel was not operating.
-
-...
-
-[Data](articles/ecd78400.json)
-
-[Extended Data](ext_articles/ecd78400.ext.json)
-
----
-
-### Complaints of the Presidential election
-
-*2024-08-21 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200189) · `si`
-
-Over 700 complaints have been filed about the presidential election, including 717 in the last 24 hours, mostly citing election law violations.
-
-🟩
-
-The number of complaints received regarding the presidential election has exceeded the 700 threshold.
-
-The Elections Commission states that there are 717 complaints that have been reported since 51 complaints received during the past 24 hours.
-
-The Commission also said that all complaints reported on the day yesterday (20) also said that election laws violations.
-
-◼️
-
-[Data](articles/428da0cf.json)
-
-[Extended Data](ext_articles/428da0cf.ext.json)
 
 ---

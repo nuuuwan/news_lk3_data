@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 15:36:58**
+As of **2024-08-22 15:55:55**
 
 ## Newspaper Stats
 
-*Scraped **42,092** Articles*
+*Scraped **42,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,45 +12,105 @@ dbsjeyarajcom | 354
 newsfirstlk | 363
 bbccomsinhala | 389
 colombotelegraphcom | 403
-islandlk | 2,439
+islandlk | 2,441
 economynextcom | 2,547
 dailyftlk | 2,723
 adalk | 3,878
 dailymirrorlk | 4,733
 adaderanalk | 4,929
 tamilmirrorlk | 5,464
-virakesarilk | 6,693
-adaderanasinhalalk | 7,177
+virakesarilk | 6,695
+adaderanasinhalalk | 7,179
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,090 (100.0%) of 42,092 articles have been extended.
+42,092 (100.0%) of 42,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### අපරාධ සඳහා සහාය දුන් බවට සැකපිට 20කට වැඩි පිරිසක්  අත්අඩංගුවට
+### சட்டத்தை புறக்கணிக்கும் அரசாங்கம் திறமையற்றது மாத்திரமல்ல அது  ஆபத்தானது- உள்ளுராட்சி தேர்தல்கள் குறித்த நீதிமன்ற தீர்ப்பின் பின்னர் சஜித்
+
+*2024-08-22 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191716) · `ta`
+
+சட்டத்தை நிலைநாட்ட முடியாத அரசாங்கத்தினால் ஒருதேசத்தை கட்டியெழுப்ப முடியாது என எதிர்கட்சி தலைவரும் ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளருமான சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+உள்ளுராட்சி மன்ற தேர்தல்கள் தொடர்பிலான நீதிமன்ற தீர்ப்பின் பின்னர் சமூக ஊடகத்தில் பகிர்ந்துகொண்டுள்ள பதிவில்  அவர் இதனை தெரிவித்துள்ளார்.
+
+பொலிஸ்மா அதிபர் நியமனம்,விஎவ்எஸ் ஆகியவற்றிற்கு எதிரான உயர்நீதிமன்றத்தின் தீர்ப்புகள் , உள்ளுராட்சி தேர்தலை நடத்தாமலிருப்பதன் மூலம் அடிப்படை உரிமைகளை மீறியுள்ளது என்ற தீர்ப்பு ஆகியன, உயர்நீதிமன்றத்தின் வெளிப்படையான அப்பட்டமான எச்சரிக்கைகள்.
+
+சட்டத்தை நிலைநாட்ட முடியாத அரசாங்கத்தினால் ஒருதேசத்தை கட்டியெழுப்ப முடியாது.இது நமது ஸ்திரதன்மையை உறுதி செய்யும் கட்டமைப்பேயே சிதைக்கின்றது.
+
+இந்த சட்டமி;ன்மை எங்களின் பொருளாதாரம்,சமூகம் எங்களின் எதிர்காலம் ஆகியவற்றிற்கு பாதிப்பை ஏற்படுத்துவதற்கு முன்னர் நாங்கள் செயற்படவேண்டும்.
+
+◼️
+
+[Data](articles/ec2412b5.json)
+
+---
+
+### කෙහෙළිය ඇතුළු 4ක් තවදුරටත් රිමාන්ඩ්
+
+*2024-08-22 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200206) · `si`
+
+හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් සිව් දෙනෙක් එළැඹෙන 29 වනදා තෙක් අද (22) යළි රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+
+ඒ, ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් එන්නත් මාත්‍රා මිලදී ගැනීමේ නඩුව අද මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදීය.
+
+◼️
+
+[Data](articles/f37f1523.json)
+
+---
+
+### මහ කන්නයේ වගා කෙරූ ගොවීන්ට පොහොර සහනාධාරයක්
+
+*2024-08-22 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200205) · `si`
+
+කුඹුරු ඉඩම්වල වගා කරනු ලබන වී සහ වෙනත් භෝග සඳහා පොහොර සහනාධාරයක් ලබා දීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+ඒ අනුව උපරිම හෙක්ටයාර දෙකක් සඳහා හෙක්ටයාරයකට රුපියල් 15,000 බැගින් මූල්‍ය සහනාධාරයක් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව මගින් ලබා දීමට කැබිනට් අනුමැතිය හිමිව ඇත.
+
+එමෙන්ම 2024/2025 මහ කන්නය සඳහා රජයේ පොහොර සමාගම වන ස්ටේට් ෆර්ටිලයිසර් සමාගම සහ පුද්ගලික අංශය මගින් පොහොර ආනයනය කර ගොවීන් වෙත තරඟකාරී මිලකට අලෙවි කිරීමටද අනුමැතිය ලැබී ඇත.
+
+මේ තුළින් රටෙහි ආහාර සුරක්ෂිතතාව තහවුරු කිරීමට සහ භෝග ඵලදායිතාව ඉහළ නැංවීමට රජය අපේක්ෂා කර තිබේ.
+
+◼️
+
+[Data](articles/e311c804.json)
+
+---
+
+### More than 20 arrested for suspicion of crime
 
 *2024-08-22 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200204) · `si`
 
-විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා ඊයේ (21) සිදු කළ මෙහෙයුම්වලදී සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Yesterday, 20 special police teams arrested more than 40 individuals suspected of being part of two crime gangs. The arrests included a 51-year-old criminal group found with narcotics in Ja-Canal and another individual in Negombo with a small amount of ice. Further, 21 suspects were apprehended during interrogations, bringing the total number of arrests related to organized crime to 3,373 since March 19, 2024. Investigations continue to secure detention orders.
 
-පොලීසිය සඳහන් කළේ ඔවුන්ගෙන් සිදු කළ ප්‍රශ්න කිරීම්වලදී තවත් සැකකරුවන් 21 දෙනෙකු අත්අඩංගුවට ගත් බවය.
+🟩
 
-බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් ජා ඇල ප්‍රදේශයේ දී සිදු කළ වැටලීමකදී මත්ද්‍රව්‍ය ග්‍රෑම් 05යි මිලිග්‍රෑම් 200ක් සමග 51 හැවිරිදි අපරාධ කල්ලියකට සම්බන්ධ පුද්ගලයෙකු ප්‍රථමයෙන් අත්අඩංගුවට ගෙන තිබුණි.
+Two specialized crime gangs have been arrested in the operations carried out by 20 Special police teams yesterday (21).
 
-එමෙන්ම මීගමුව පොලිස් වසමේ සිදු කළ වැටලීමකදී ද අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 07යි මිලිග්‍රෑම් 220ක් සමග 33 හැවිරිදි සංවිධානාත්මක අපරාධ කල්ලි කණ්ඩායමකට සම්බන්ධ පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇත.
+Police said 21 other suspects were arrested in their interrogation.
 
-ඔවුන්ගෙන් සිදුකළ දීර්ඝ ප්‍රශ්න කිරීම්වලදී සැකකරුවන් 21ක් අත්අඩංගුවට ගෙන ඇති අතර පොලීසිය සැක කරන්නේ මෙලෙස අත්අඩංගුවට ගෙන ඇති පිරිස අපරාධ කල්ලිවලට විවිධ අපරාධ සිදුකිරීම සඳහා සහාය වූ පුද්ගලයන් බවට ය.
+The officers of the Northern Province North Criminal Division were arrested for a 51-year-old criminal group with five grams of narcotics in Ja-Canal.
 
-2024 මාර්තු මස 19 වනදා සිට ඊයේ (21) දින දක්වා සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 3,373 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+A man has been arrested in the Negombo area's collapse and seized by a 33 milligrams of ice narcotics and 220 milligrams.
 
-...
+In the long interrogation from them, 21 suspects have been arrested and the suspects are suspicious of the suspects to commit crimes for crimes.
+
+3,373 members have been arrested for organized crime criminal criminal crime until the 19th of March 2024, police said.
+
+Further investigations are conducting further investigations to obtain detention orders.
+
+◼️
 
 [Data](articles/64cb3166.json)
+
+[Extended Data](ext_articles/64cb3166.ext.json)
 
 ---
 
@@ -103,6 +163,22 @@ But after people confirm their identity, they can receive their voting cards fro
 [Data](articles/886ae117.json)
 
 [Extended Data](ext_articles/886ae117.ext.json)
+
+---
+
+### இலங்கை இராணுவம் புதிதாக காணிகளை கைவசப்படுத்துவதை நிறுத்தவேண்டும் - நிலங்களை விடுவிக்கவேண்டும் - ஐநா
+
+*2024-08-22 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191712) · `ta`
+
+இலங்கை இராணுவம் தன்வசம் வைத்திருக்கும் காணிகளை விடுவிப்பதுடன் புதிதாக காணிகளை கைவசப்படுத்;துதலை நிறுத்தவேண்டும் என என ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் அலுவலகம் வேண்டுகோள் விடுத்துள்ளது.
+
+இலங்கையின் மனித உரிமை ஐக்கிய நாடுகளின் மனித உரிமை ஆணையாளரின் முழுமையான அறிக்கையிலேயே  இந்த வேண்டுகோள் இடம்பெற்;றுள்ளது.
+
+இலங்கைஇராணுவம் தன்வம் வைத்திருக்கும் காணிகளை விடுவித்தல்,வடக்குகிழக்கில் புதிதாக காணிகளை கைவசப்படுத்தலை நிறுத்துதல் , பயங்கரவாத தடுப்பு சட்டத்தின் கீழ் நீண்டகாலமாக தடுத்து வைக்கப்பட்டிருக்கும் அனைவரைம் விடுதல செய்தல், பாதிக்கப்பட்டவர்களின் சார்பில் நினைவேந்தல் முயற்சிகளில் ஈடுபடுவதையும் குற்றச்செயல்களில் இருந்து நீக்கி, அவற்றுக்கு ஆதரவளித்தல் போன்ற நம்பிக்கையை கட்டியெழுப்பும் வழிமுறைகளை நடைமுறைப்படுத்துவதன் மூலம் நிலைமாற்றுக்கால நீதிக்கான சூழலை உருவாக்கவேண்டும்.
+
+◼️
+
+[Data](articles/48881b95.json)
 
 ---
 
@@ -240,19 +316,25 @@ The channel debuted with several videos, including a teaser trailer, a fun quiz 
 
 ---
 
-### හර්ෂිතා සමරවික්‍රමට කැරිබියන් ප්‍රිමියර් ලීග දොරටු ඇරෙයි
+### Caribbean Premier's league opens
 
 *2024-08-22 14:03:32* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂිතා-සමරවික්‍රමට-කැරිබියන්-ප්‍රිමියර්-ලීග-දොරටු-ඇරෙයි/11-411503) · `si`
 
-2024 කාන්තා කැරිබියන් ප්‍රිමියර් ලීග් තරගාවලියේ ට්‍රින්බැගෝ නයිට් රයිඩර්ස් කණ්ඩායමට ක්‍රීඩා කිරිමේ අවස්තාව ශ්‍රී ලංකා ඉදිරපෙළ පිතිකාරිණි හර්ෂිතා සමරවික්‍රමට හිමිව තිබේ. ඒ එම කණ්ඩායම නියෝජනය කරන මෙග් ලැනින් ආබාධයකට ලක්විම හේතුවෙනි.
+Awesha Samarawickrama, a top Sri Lankan batter, joins the Tribu Knight Riders in the 2024 Women's Caribbean Premier League. Known for her impressive performance, scoring 1463 runs in 65 T20 matches, she becomes the second Sri Lankan player to represent the league overseas.
 
-වමත් පිතිකරිනියක් වන සමරවික්‍රම ශ්‍රි ලංකා නායිකා චමරි අතපත්තුට පසුව එතෙර ලීගයකට සහභාගි වූ දෙවැනි ශ්‍රී ලාංකික ක්‍රිඩිකාව ලෙස වාර්තා අතරට එක්වෙයි.
+🟩
 
-මැත කාලයේදී කාන්තා ක්‍රිකට් පිටිය තුළ හර්ෂිතා ඉහළ රිද්මයකින් පසුවන අතර ඇය  විස්සයි20 තරග 65කදී ලකුණු 1463ක් ලබාගෙන ඇත්තේ 99.72ක ප්‍රහාරාත්මක වේගයක් රදවා ගනිමිනි.
+Sri Lanka Awesha Samarawide has been owned by the Tribu Knight Riders team at the 2024 Women's Caribbean Premier League.It is due to the disorder of the group that represents the group.
+
+Samarawarawickrama, a length baten, is partnering with the second Sri Lankan playground at a League Overseas League after Atapattu.
+
+Hersita was from the women's cricket ground at the women's cricket field and she had scored 1463 runs in 65 T20.
 
 ◼️
 
 [Data](articles/1dacca4a.json)
+
+[Extended Data](ext_articles/1dacca4a.ext.json)
 
 ---
 
@@ -2181,83 +2263,5 @@ This pioneering invention by C2S.lk has allowed Sri Lanka to convert 38 Constant
 [Data](articles/5e82ac48.json)
 
 [Extended Data](ext_articles/5e82ac48.ext.json)
-
----
-
-### Prime Lands Residencies’ ‘The Grand Ward Place’ website shines with dual wins at 14th BestWeb.lk 2024 competition
-
-*2024-08-22 01:07:01* · [`dailyftlk`](https://www.ft.lk/business/Prime-Lands-Residencies-The-Grand-Ward-Place-website-shines-with-dual-wins-at-14th-BestWeb-lk-2024-competition/34-765827) · `en`
-
-Prime Lands Residencies shines with dual awards at the 14th BestWeb.lk 2024, celebrating excellence in digital innovation
-
-Prime Lands Residencies PLC, has once again demonstrated excellence as a digital innovator clinching two prestigious awards for ‘The Grand Ward Place’ www.thegrand.com.lk website at the 14th BestWeb.lk 2024 Competition, organised by the LK Domain Registry, held recently.
-
-The website of the ultra-luxurious condominium secured the Gold Award for ‘Best Mobile User Experience Corporate Website’ and the Silver Award for ‘Best Corporate Website’ reinforcing the company’s ability to deliver an exceptional online experience for their customers across all platforms.
-
-The accolades were presented to Officials of Prime Lands Residencies PLC at a gala event held on 14 August at the Cinnamon Grand Hotel, where leading digital innovators and visionaries gathered to celebrate technological excellence.
-
-...
-
-[Data](articles/a3f65f52.json)
-
-[Extended Data](ext_articles/a3f65f52.ext.json)
-
----
-
-### Sri Lanka – Singapore Business Council holds 27th AGM
-
-*2024-08-22 01:05:15* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Singapore-Business-Council-holds-27th-AGM/34-765826) · `en`
-
-The 27th Annual General Meeting of the Sri Lanka – Singapore Business Council (SLSBC) of The Ceylon Chamber of Commerce was held recently at the Hilton Colombo Residence.
-
-Shiluka Goonewardene was re-elected as President for the 2024-2025 period, continuing his leadership for another term. The Vice Presidents re-elected for the year include Tilak Gunawardana of MAC Holdings Ltd., Nirupa Peiris of Overseas Realty (Ceylon) PLC, and Indhra Kaushal Rajapaksa of Kalhari Enterprises.
-
-The Council also welcomed the following companies to its Committee for 2024/2025: Air Global Ltd., Brown & Company PLC, CIC Holdings PLC, Hemas Hospitals Ltd., Just in Time Holdings Ltd., Spillburg Holdings Ltd., and Vaughan Chemicals Ltd. Prajeeth Balasubramaniam will serve as the Immediate Past President.
-
-...
-
-[Data](articles/53d450c6.json)
-
-[Extended Data](ext_articles/53d450c6.ext.json)
-
----
-
-### Samsung Sri Lanka offers 20-year warranty on refrigerators and washing machines
-
-*2024-08-22 01:00:23* · [`dailyftlk`](https://www.ft.lk/business/Samsung-Sri-Lanka-offers-20-year-warranty-on-refrigerators-and-washing-machines/34-765825) · `en`
-
-Samsung Sri Lanka, a premier name in consumer electronics, proudly continues its pioneering initiative: offering a 20-year warranty on Digital Inverter Motors in washing machines and Digital Inverter Compressors in refrigerators.
-
-This extraordinary commitment underscores Samsung’s dedication to delivering durable, high-quality appliances while championing a sustainable lifestyle.
-
-In a market where sustainability and longevity are crucial, Samsung Sri Lanka sets itself apart by providing this extensive warranty on its Digital Inverter technology. This initiative not only ensures customer peace of mind but also reduces the need for frequent appliance replacements, thereby minimising e-waste and promoting environmental sustainability. This warranty underscores the brand’s focus on innovation and consumer trust, promising extended durability and reliable performance.
-
-...
-
-[Data](articles/7fb28642.json)
-
-[Extended Data](ext_articles/7fb28642.ext.json)
-
----
-
-### Model two -node competition is stupid
-
-*2024-08-22 00:42:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-முனை-போட்டி-முட்டாள்தனமானது/175-342603) · `ta`
-
-Dalada Attukorala criticizes two-party competition, citing it as unwise and self-serving, especially when leaders contest elections separately despite being from the same party. He mentions internal conflicts leading to party splits and expresses disappointment over the lack of unity, emphasizing the importance of national interests over personal ambitions.
-
-🟩
-
-It is a foolish act for two people who join the same party and compete on two ends.Attempts to combine Ranil and Sajith were not beneficial. Therefore, because I cannot act according to mental evidence, MP. Attorney -at -Law Dalada Attukorala has announced that the resignation of the United People's Power
-
-Parliament convened on Wednesday (21) chaired by Speaker Mahinda Yapa Abeywardena. He resigned after addressing a special statement.
-
-After the demise of my brother Gamini Athukara, I came to this parliament in 2004. My brother has made many dedication to the United National Party. In any case the party does not decide to leave the party. I also worked for this party. However, on various reasons, the party split with the 2020 general election due to internal conflicts within the party. The party was protected from dividing several times before the party was split.
-
-...
-
-[Data](articles/18b0d252.json)
-
-[Extended Data](ext_articles/18b0d252.ext.json)
 
 ---

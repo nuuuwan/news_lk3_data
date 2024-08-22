@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 21:57:14**
+As of **2024-08-22 22:11:35**
 
 ## Newspaper Stats
 
-*Scraped **42,134** Articles*
+*Scraped **42,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,547
 dailyftlk | 2,723
 adalk | 3,884
 dailymirrorlk | 4,733
-adaderanalk | 4,937
+adaderanalk | 4,938
 tamilmirrorlk | 5,469
 virakesarilk | 6,699
 adaderanasinhalalk | 7,191
@@ -26,29 +26,55 @@ adaderanasinhalalk | 7,191
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,133 (100.0%) of 42,134 articles have been extended.
+42,134 (100.0%) of 42,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### පුංචි ඡන්දය ගැන ශ්‍රේෂ්ඨාධිකරණය දුන් තීන්දුවේ වැඩි විස්තර මෙන්න
+### Family living in makeshift hut atop tree with newborn triplets receive new home
+
+*2024-08-22 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101432/family-living-in-makeshift-hut-atop-tree-with-newborn-triplets-receive-new-home) · `en`
+
+A family which had been living in a makeshift hut atop a tree in Habarana with their newborn triplets were today (22) gifted a new home, build with the assistance of generous donors, just three months after Ada Derana reported on the plight of the couple who were lacking a proper home for their children.
+
+This was made possible through the initiative of the Chief Incumbent of the Sandagiri Maha Seya in Hanthana, Ven. Gangasiripura Dhammaloka Thero and with the generous donations from benefactors living in Sri Lanka and abroad.
+
+Ven. Dhammaloka Thero, Chief Operating Officer/Executive Director of Derana Media Network, Mr. Madhawa Madawala, and Derana staff had participated in the ceremony today to officially handover the newly-built home to the family from Puwakpitiya, Habarana.
+
+The family had been living in dire conditions without basic amenities while the father of the newborn triplets had even sustained injuries after falling from the hut.
+
+...
+
+[Data](articles/0c53fda7.json)
+
+---
+
+### Here is more in the Supreme Court decision on the little election
 
 *2024-08-22 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200218) · `si`
 
-2023 වසරේ මාර්තු මස 09 වනදා නියමිත පරිදි පළාත් පාලන ඡන්දය නොපැවැත්වීමෙන් එවක මැතිවරණ කොමිසමේ සාමාජිකයින් හා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇති බව ශ්‍රේෂ්ඨාධිකරණය අද (22) තීන්දු කළේය.
+The Supreme Court ruled that the President and members of the Elections and Finance Commission violated basic human rights by postponing local elections scheduled for March 9, 2023, due to financial constraints amid an economic crisis. The court ordered immediate elections, criticizing the commission for failing to uphold constitutional rights and the finance minister for not consulting cabinet on election funding.
 
-ඒ අනුව හැකි ඉක්මනින් පළාත් පාලන ඡන්ද විමසීම පැවැත්වීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය මැතිවරණ කොමිසම වෙත නියම කළේය.
+🟩
 
-පළාත් පාලන ඡන්ද විමසීම 2023 වසරේ මාර්තු මස 09 වනදා පවත්වන බව ජාතික මැතිවරණ කොමිෂන් සභාව ගැසට් පත්‍රයක් මගින් නිවේදනය කරනු ලැබීය.
+The Supreme Court today decided that the President has violated the basic human rights as the Members of the Elections and Finance Commission on March 9, 2023.
 
-එහෙත් එවක පැවති ආර්ථික අර්බුදකාරී තත්ත්වය හමුවේ පනවා තිබූ මූල්‍ය රෙගුලාසි සහ නියමයන් ප්‍රකාරව ඡන්දය සඳහා ප්‍රමාණවත් මුදල් වෙන්කිරීමේ දුෂ්කරතාවක් පවතින බව අදාළ ආයතන සහ මුදල් අමාත්‍යංශය දැනුම්දීමත් සමග ඡන්ද විමසීම අප්‍රේල් මස 25 වන දින දක්වා කල් දැමුණි.
+Accordingly, the Supreme Court ordered the Elections Commission to take place as soon as possible.
 
-කෙසේවෙතත් ඡන්දය දින නියමයක් නොමැතිව කල් ගිය අතර, ඊට එරෙහිව සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ පැෆ්රල් ආයතනය ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සම් ගොනු කළේය.
+The National Elections Commission was announced that the Local Government Election will be held on March 9, 2023, a gazette sheet.
+
+But the election was postponed until the 25th of April that the Finance Ministry and the Ministry of Finance and Finance have the difficulties of the financial regulations and the financial regulations imposed in the current economic crisis.
+
+The vote was timeless, and the electoral power, national proportion, the CPA and PAFFREL filed fundamental rights petitions in the Supreme Court.
+
+Accordingly, Chief Justice Jayantha Jayasuriya, Vijayantha Jayasuriya, Vijayantha Jayasuriya, Mrs. Murdu Fernando and Gamini Amarasekera and Yasantha Kodagoda expressed its verdict.
 
 ...
 
 [Data](articles/74f23cd6.json)
+
+[Extended Data](ext_articles/74f23cd6.ext.json)
 
 ---
 
@@ -2335,25 +2361,5 @@ The Pact for the Future is expected to serve as a comprehensive framework to adv
 [Data](articles/a28bfd22.json)
 
 [Extended Data](ext_articles/a28bfd22.ext.json)
-
----
-
-### Biden, in call with Netanyahu, stresses urgency of Gaza ceasefire
-
-*2024-08-22 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101409/biden-in-call-with-netanyahu-stresses-urgency-of-gaza-ceasefire) · `en`
-
-U.S. President Joe Biden, in a phone call with Israeli Prime Minister Benjamin Netanyahu on Wednesday, stressed the urgent need to conclude a Gaza ceasefire-for-hostages deal and pointed to upcoming Cairo talks as crucial, the White House said.
-
-Their call followed U.S. Secretary of State Antony Blinken’s whirlwind trip to the Middle East that ended on Tuesday without an agreement between Israel and Hamas militants on a truce in the Palestinian enclave.
-
-Negotiators who have struggled for months to conclude a ceasefire deal plan to meet in the coming days in Cairo.
-
-“The president stressed the urgency of bringing the ceasefire and hostage release deal to closure and discussed upcoming talks in Cairo to remove any remaining obstacles,” a White House statement about the call said.
-
-...
-
-[Data](articles/6840868a.json)
-
-[Extended Data](ext_articles/6840868a.ext.json)
 
 ---

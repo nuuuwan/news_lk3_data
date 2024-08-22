@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 09:07:51**
+As of **2024-08-22 09:21:18**
 
 ## Newspaper Stats
 
-*Scraped **42,023** Articles*
+*Scraped **42,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ colombotelegraphcom | 403
 islandlk | 2,439
 economynextcom | 2,536
 dailyftlk | 2,723
-adalk | 3,869
+adalk | 3,870
 dailymirrorlk | 4,733
-adaderanalk | 4,913
+adaderanalk | 4,914
 tamilmirrorlk | 5,448
 virakesarilk | 6,686
-adaderanasinhalalk | 7,168
+adaderanasinhalalk | 7,169
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,018 (100.0%) of 42,023 articles have been extended.
+42,023 (100.0%) of 42,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### Sri Lanka to host national event in preparation for UN Summit of the Future
+
+*2024-08-22 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101410/sri-lanka-to-host-national-event-in-preparation-for-un-summit-of-the-future) · `en`
+
+The Presidential Secretariat, the Ministry of Foreign Affairs and the United Nations Office in Sri Lanka will host a National Event on 22 August 2024 at the Presidential Secretariat, in preparation for Sri Lanka’s participation at the Summit of the Future convened by the United Nations from 22-23 September 2024 in New York.
+
+The national event aims to highlight Sri Lanka’s priorities and contributions towards the objectives of the Summit of the Future and the proposed Pact for the Future, which will be adopted as the Outcome Document of the Summit. The Pact for the Future is expected to serve as a comprehensive framework to advance international cooperation and address pressing global issues, including extreme poverty, climate change, digital governance, peace and security, and sustainable development.
+
+The national event in Sri Lanka is an integral part of these global efforts, focusing on showcasing the country’s proactive role at multilateral fora, in addressing these challenges.
+
+...
+
+[Data](articles/a28bfd22.json)
+
+---
 
 ### Biden, in call with Netanyahu, stresses urgency of Gaza ceasefire
 
@@ -48,6 +64,8 @@ Negotiators who have struggled for months to conclude a ceasefire deal plan to m
 
 [Data](articles/6840868a.json)
 
+[Extended Data](ext_articles/6840868a.ext.json)
+
 ---
 
 ### Sri Lanka bonds decline as debt deal runs into election calendar
@@ -64,6 +82,8 @@ Sri Lanka struck a preliminary deal with private investors in July to restructur
 
 [Data](articles/b6c6bd26.json)
 
+[Extended Data](ext_articles/b6c6bd26.ext.json)
+
 ---
 
 ### SLPP MP Karunadasa Kodithuwakku pledges support for Sajith
@@ -75,6 +95,24 @@ Sri Lanka Podujana Peramuna (SLPP) MP Karunadasa Kodithuwakku yesterday declared
 ◼️
 
 [Data](articles/89bca952.json)
+
+[Extended Data](ext_articles/89bca952.ext.json)
+
+---
+
+### ඉදිකිරීම් ක්ෂේත්‍රයේ ගැටලුවලට විසදුම්
+
+*2024-08-22 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200195) · `si`
+
+ඉදිකිරීම් ක්ෂේත්‍රයේ වෘත්තීයවේදීන්ගේ පවතින ගැටලු විසඳීම සඳහා නව නීති හඳුන්වාදීමට පියවර ගන්නා බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වාදෙන්නේ ඒ සඳහා අවශ්‍ය අණපනත් මේ වන විටත් සකස් කර අවසන් බවය.
+
+දේශයේ අනාගතය ගොඩනැංවීම යන තේමාව යටතේ පැවති සංවර්ධන හා ඉදිකිරීම් ක්ෂේත්‍රයේ වෘත්තීයවේදීන්ගේ හමුවේදී ඉදිරිපත් වු පැනයකට පිළිතුරු ලබාදෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/9ee23bf6.json)
 
 ---
 
@@ -444,23 +482,71 @@ This is not a small amount. Similarly, some media also acts for each candidate. 
 
 ---
 
-### දශක හතරක ජනපති සටනේ මං සලකුණු
+### My markers in the fight for four decades
 
 *2024-08-22 02:00:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3ej1y059gno) · `si`
 
-විසිවන ශතවර්ෂයේ පටන් පැවැත්වෙන මැතිවරණ ශ්‍රී ලංකාවේ ප්‍රජාතන්ත්‍රවාදී පාලන ක්‍රියාවලියේ කශේරුකාවයි. 1977 දෙවන ජනරජ ආණ්ඩුක්‍රම ව්‍යවස්ථාව යටතේ ආරම්භ වූ විධායක ජනාධිපති ධූරය සඳහා පළමු වරට ජනාධිපතිවරණයක් පැවැත්වූයේ 1982 වසරේදීයි.
+Given the comprehensive overview of Sri Lanka's presidential elections, it's clear that each election has been marked by unique challenges, including political instability, violence, and issues related to voter turnout, especially in regions affected by conflict. The 2023 presidential election faces its own set of challenges, including the aftermath of the COVID-19 pandemic, economic instability, and ongoing social issues.
 
-එම වසරේ පටන් ඇරඹි ජනාධිපතිවරණ බොහෝමයක් ශ්‍රී ලංකාව තීරණාත්මක තත්වයන්ට මුහුණ දෙමින් සිටියදී පැවැත්වූ ඒවා වේ.
 
-ජනතාවගේ පරමාධිපත්‍ය බලය අභ්‍යාස කිරීම සඳහා කලින් කලට පැවැත්වූ මෙම ජනාධිපතිවරණවල දී, ප්‍රජාතන්ත්‍රවාදය යන සාධකය විවිධාකාරයෙන් උස් පහත්වීම්වලට ලක්ව තිබේ.
 
-1815 දී බ්‍රිතාන්‍ය පාලනයට මුළුමනින් ම නතු වූ ශ්‍රී ලංකාවේ පාලන කටයුතු සිදුකරගෙන යාම සඳහා වන පළමු ආණ්ඩුක්‍රම ප්‍රතිසංස්කරණය ගෙන එන්නේ කෝල්බෲක් ප්‍රතිසංස්කරණය ලෙසයි.
+To address these challenges effectively, the new President must prioritize several key areas:
 
-දශක ගණනාවක් පැවති එම පාලන ක්‍රමය අවසන් වන්නේ ව්‍යවස්ථාදායක සභාවේ නියෝජිතයන් ප්‍රමාණය වැඩි කරන ලෙස පැමිණි ඉල්ලීම් සහ නිල නොලත් මන්ත්‍රීවරුන් කිහිපදෙනෙකු සීමිත ඡන්දයකින් තෝරා පත් කරගන්නා ලෙස පැමිණි ඉල්ලීම් නිසායි.
+
+
+1. **Economic Recovery**: Focus on stabilizing the economy, addressing inflation, and ensuring financial stability for all citizens. This includes implementing policies that support small businesses, agriculture, and job creation.
+
+
+
+2. **Reconciliation and Unity**: Given the historical context of ethnic and religious tensions, the new President should champion initiatives aimed at national reconciliation, healing wounds, and promoting unity among all communities. This could involve truth and reconciliation commissions, educational reforms, and policies that ensure equal rights and opportunities for all.
+
+
+
+3. **Good Governance and Anti-Corruption Measures**: Strengthening institutions, improving transparency in government operations, and implementing robust anti-corruption measures are crucial. This includes reforming the judiciary, enhancing fiscal responsibility, and ensuring accountability across all levels of government.
+
+
+
+4. **Addressing Social Inequalities**: Work towards reducing socio-economic disparities, ensuring access to quality education, healthcare, and basic services for all segments of the population. This involves investing in social welfare programs and infrastructure development in underprivileged areas.
+
+
+
+5. **Promoting Democracy and Human Rights**: Uphold the principles of freedom of expression, assembly, and the rule of law. Engage in dialogue with opposition parties, civil society organizations, and international partners to strengthen democratic institutions and practices.
+
+
+
+6. **Environmental Sustainability**: Address environmental concerns, including climate change adaptation and mitigation efforts. Implement policies that promote sustainable development, protect biodiversity, and ensure the well-being of future generations.
+
+
+
+7. **International Relations and Diplomacy**: Strengthen diplomatic relations with other countries and international organizations. Seek partnerships for trade, investment, and cooperation in areas like technology, health, and security.
+
+
+
+8. **Security and Law Enforcement**: Ensure the safety and security of all citizens, particularly in regions previously affected by conflict. Work towards demilitarization and civilian control of the security apparatus, while maintaining the ability to respond effectively to threats.
+
+
+
+By focusing on these areas, the new President can address the multifaceted challenges facing Sri Lanka and pave the way for a more prosperous, peaceful, and united nation.
+
+🟩
+
+Elections from the 20th century are vertebrates in the democratic administration of Sri Lanka. In 1982, a presidential election was held for the first time for the Executive Presidency of the Second Republic of 1977.
+
+Many presidential elections since that year were held while Sri Lanka was facing critical conditions.
+
+In these previous presidential presidential elections, in time to exercise the sovereignty of the people, the factor in democracy has been democratic.
+
+The first constitutional reforms of the first constitution to take control of Sri Lanka in 1815 was brought to the reconstruction of the first constitutional reforms.
+
+The decades of decades end because of the requests that the demands and unofficial MPs who have come to increase the number of representatives of the Legislative Council.
+
+The Secretary of the Colonial Trusts in charge of the demands was given four unofficial members under the reform of Cruv-McCulam constitution under the reform of Cashen McCulam Constitution.
 
 ...
 
 [Data](articles/663d651d.json)
+
+[Extended Data](ext_articles/663d651d.ext.json)
 
 ---
 
@@ -1710,6 +1796,24 @@ The injured have been admitted to the Badulla General Hospital and further inves
 
 ---
 
+### තවත් විශේෂ පෙත්සම් කිහිපයක තීරණය අද
+
+*2024-08-21 18:58:59* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-විශේෂ-පෙත්සම්-කිහිපයක-තීරණය-අද/11-411493) · `si`
+
+පළාත් පාලන මැතිවරණය පැවැත්වීම  කල් දැමීමට එරෙහිව ගොනු කොට තිබූ පෙත්සම් වල තීන්දුව අදදින (22) ප්‍රකාශයට පත් කිරීමට නියමිතය.
+
+අගවිනිසුරු ජයන්ත ජයසූරිය ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන විජිත් මළල්ගොඩ,  ගාමිණී අමරසේකර, මුර්දු ප්‍රනාන්දු සහ යසන්ත කෝදාගොඩ  යන මහත්ම මහත්මීන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම් විභාගයට ගැණිණ.
+
+පළාත් පාලන මැතිවරණය පැවැත්වීම කල් දැමීමට එරෙහිව සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය විසින් ගොනු කර තිබූ පෙත්සම්වල  වගඋත්තරකරුවන් වශයෙන් මැතිවරණ කොමිසම එහි සාමාජිකයන් ඇතුළු පිරිසක් නම් කර ඇත.
+
+පළාත් පාලන මැතිවරණ නියමිත දින නොපැවැත්වීිමෙන් වගඋත්තරකරුවන් සර්වජන ඡන්ද බලය සම්බන්ධයෙන් ජනතාවට ඇති අයිතිය උල්ලංඝනය කර ඇතැයි සඳහන් කරමින් පෙත්සම පවරා ඇති පෙත්සම්කරුවෝ පළාත් පාලන මැතිවරණය පැවැත්වීමට වගඋත්තරකරුවන්ට නියම කරන්නැයි ඉල්ලා සිටිති.
+
+◼️
+
+[Data](articles/044993e0.json)
+
+---
+
 ### More about STF IP and Constable with heroin
 
 *2024-08-21 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200185) · `si`
@@ -2080,6 +2184,8 @@ A visibly emotional Athukoarala expressed deep regret over the division of the U
 
 [Data](articles/43c8d77b.json)
 
+[Extended Data](ext_articles/43c8d77b.ext.json)
+
 ---
 
 ### Committee member MPs are named to consider two bills
@@ -2169,77 +2275,5 @@ The Colombo Port City is a dollarized special economic zone which will be free o
 [Data](articles/9b10ea66.json)
 
 [Extended Data](ext_articles/9b10ea66.ext.json)
-
----
-
-### Sri Lanka stocks close down, limited activity
-
-*2024-08-21 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-limited-activity-177628/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.11 percent, or 12.37 points, at 11,482; while the more liquid S&P SL20 Index closed up 0.08 percent, or 2.63 points, at 3,302.
-
-“Market ended a mixed bag today,” Softlogic Stockbrokers said. “There was more negative contributions to the ASPI than positive.”
-
-“There was very limited activity; it was another lackluster day.”
-
-There were two crossings recorded in the day; Melstacorp Plc (down at 81.70) and Pan Asia Banking Corporation Plc (up at 20.00).
-
-There was net foreign inflow of 580,955 recorded in the day.
-
-Top foreign buying was seen on Chevron Lubricants Lanka Plc (up at 124.00), and TeeJay Lanka Plc, (up at 40.70).
-
-Most active volumes, retail-driven, were seen on Sampath Bank Plc (up at 77.90).
-
-...
-
-[Data](articles/764ec0b0.json)
-
-[Extended Data](ext_articles/764ec0b0.ext.json)
-
----
-
-### The number of dengue patients crossed 35,000
-
-*2024-08-21 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191651) · `ta`
-
-Dengue cases exceed 35,000 nationwide, with the majority in Colombo. Health officials stress cleanliness and mosquito control to curb the spread.
-
-🟩
-
-The National Dengue Control Division has said that the number of dengue patients in the country has exceeded 35,000.
-
-Accordingly, 35,375 dengue patients were reported till the 20th of this month.Most of them are reported in the Colombo district alone.
-
-In the Western Province, 14,448 people have been reported and 2,630 dengue patients have been reported this month.
-
-Health officials have urged the people to maintain cleanliness in the neighborhood and eliminate mosquitoes to prevent dengue.
-
-◼️
-
-[Data](articles/82de575c.json)
-
-[Extended Data](ext_articles/82de575c.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 300.20/60, bond yields down
-
-*2024-08-21 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-20-60-bond-yields-down-177635/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 300.20/60 to the US dollar Wednesday, from 299.60/300.00 Tuesday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 11.00/15 percent, down from 11.05/20 percent.
-
-A bond maturing on 15.06.2029 closed at 12.85/95 percent, down from 12.90/13.00 percent.
-
-A bond maturing on 01.10.2032 closed at 13.20/25 percent, up 13.10/25 percent. (Colombo/Aug21/2024)
-
-◼️
-
-[Data](articles/a857f88a.json)
-
-[Extended Data](ext_articles/a857f88a.ext.json)
 
 ---

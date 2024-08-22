@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 01:06:31**
+As of **2024-08-23 01:21:48**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,149 (100.0%) of 42,150 articles have been extended.
+42,150 (100.0%) of 42,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### ஜனாதிபதி வேட்பாளர் மரணம்
+### The death of the presidential candidate
 
 *2024-08-23 00:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-மரணம்/175-342660) · `ta`
 
-இம்முறை ஜனாதிபதி தேர்தலில் சுயேட்சை வேட்பாளராக போட்டியிட்ட அய்ட்ரூஸ் முகமது இலியாஸ் (வயது 78)  காலமானார்.
+Ayrerus Mohammed Ilias, a 78-year-old independent presidential candidate and former MP from Sri Lanka's Jaffna District, died after two days of hospitalization in Puttalam.
 
-சுகவீனமுற்றிருந்த அவர் 2 நாட்களாக புத்தளம் ஆதார  வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் நேற்று (22) காலமானார்.
+🟩
 
-அவர் ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் யாழ்ப்பாண மாவட்ட முன்னாள் நாடாளுமன்ற உறுப்பினர் என்பது குறிப்பிடத்தக்கது. (a)
+Ayrerus Mohammed Ilias (age 78), who contested as an independent candidate in the presidential election, passed away.
+
+He was sick and passed away yesterday (22) after receiving treatment at the Puttalam Resource Hospital for 2 days.
+
+He is a former Member of Parliament of the Jaffna District of the Sri Lanka Muslim Congress. (A)
 
 ◼️
 
 [Data](articles/df17e689.json)
+
+[Extended Data](ext_articles/df17e689.ext.json)
 
 ---
 

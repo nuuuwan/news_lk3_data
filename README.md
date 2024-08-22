@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 14:55:36**
+As of **2024-08-22 15:06:33**
 
 ## Newspaper Stats
 
-*Scraped **42,087** Articles*
+*Scraped **42,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,547
 dailyftlk | 2,723
 adalk | 3,876
 dailymirrorlk | 4,733
-adaderanalk | 4,928
-tamilmirrorlk | 5,463
+adaderanalk | 4,929
+tamilmirrorlk | 5,464
 virakesarilk | 6,693
 adaderanasinhalalk | 7,176
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 7,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,077 (100.0%) of 42,087 articles have been extended.
+42,087 (100.0%) of 42,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### செப்டெம்பர் 8 ஆம் திகதி ஆரம்பம்
+
+*2024-08-22 14:50:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டெம்பர்-8-ஆம்-திகதி-ஆரம்பம்/175-342637) · `ta`
+
+2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கான உத்தியோகபூர்வ வாக்குச் சீட்டுகளை விநியோகிக்கும் விசேட தினமாக செப்டம்பர் 8 ஆம் திகதியை (ஞாயிற்றுக்கிழமை) தபால் திணைக்களம் அறிவித்துள்ளது.
+
+செப்டெம்பர் 8ஆம் திகதி அரசாங்க விடுமுறை நாளாக இருந்தாலும் உத்தியோகபூர்வ வாக்குச் சீட்டு விநியோகம் காலை 8.00 மணி முதல் மாலை 6.00 மணி வரை மேற்கொள்ளப்படும் என எதிர்பார்க்கப்படுவதாக பிரதி தபால் மா அதிபர் (பதில்) டி.ஏ.ராஜித கே.ரணசிங்க ஊடகங்களுக்குத் தெரிவித்தார்.
+
+உத்தியோகபூர்வ வாக்குச் சீட்டுகளைப் பெறுவதற்காக அறிவிக்கப்பட்ட திகதியில் மக்கள் தங்கள் வீடுகளில் இருப்பார்கள் என்று நாங்கள் நம்புகிறோம்," என்று அவர் மேலும் கூறினார்.
+
+அதன்படி, வாக்குச் சீட்டுகளை விநியோகிக்க செப்டம்பர் 14-ஆம் திகதி இறுதி நாளாக அறிவிக்கப்பட்டுள்ளது.
+
+இறுதி திகதியை தேர்தல் ஆணைக்குழு அறிவித்தது. அதன்படி, செப்டம்பர் 14ஆம் திகதிக்குப் பின், அதிகாரப்பூர்வ தேர்தல் அட்டைகளை வீடு வீடாக விநியோகம் செய்வது நிறுத்தப்படும்.
+
+...
+
+[Data](articles/886ae117.json)
+
+---
+
+### Dr. Nandalal Weerasinghe earns ‘A’ grade in Global Finance’s Central Banker Report Cards 2024
+
+*2024-08-22 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101423/dr-nandalal-weerasinghe-earns-a-grade-in-global-finances-central-banker-reportcards2024) · `en`
+
+The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has been awarded a prestigious “A” grade in Global Finance’s 2024 Central Banker Report Cards.
+
+This top-tier recognition places Dr. Weerasinghe among the elite central bank governors worldwide, acknowledging his exceptional leadership and strategic acumen in steering Sri Lanka’s economy through turbulent times.
+
+“The “A” grade is a testament to Dr. Weerasinghe’s outstanding performance in critical areas such as inflation management, economic growth, currency stability, and interest rate control. His effective policies and decisive actions have been pivotal in maintaining economic stability during a period marked by significant global and local challenges.”
+
+...
+
+[Data](articles/5bb9b0c1.json)
+
+---
 
 ### Shine 50 Awards Night Celebrates Sri Lanka’s Impactful Young Leaders
 
@@ -45,6 +81,8 @@ An initiative launched by Neon and Echelon in partnership with USAID, Shine 50 c
 ...
 
 [Data](articles/e6aa5974.json)
+
+[Extended Data](ext_articles/e6aa5974.ext.json)
 
 ---
 
@@ -61,6 +99,8 @@ The database aims to improve coordination, response time and overall effectivene
 ◼️
 
 [Data](articles/8bbfbfe6.json)
+
+[Extended Data](ext_articles/8bbfbfe6.ext.json)
 
 ---
 
@@ -144,19 +184,25 @@ The channel debuted with several videos, including a teaser trailer, a fun quiz 
 
 ---
 
-### දෙමෝදර සංචාරකයන්ගෙන් පිරි යයි
+### Demodara goes out of tourists
 
 *2024-08-22 13:52:12* · [`adalk`](https://www.ada.lk/breaking_news/දෙමෝදර-සංචාරකයන්ගෙන්-පිරි-යයි/11-411502) · `si`
 
-උඩරට දුම්රිය මාර්ගයේ පිහිටි දෙමෝදර  ආරුක්කු නමයේ පැරණි දුම්රිය පාලම නැරඹීම සඳහා  විශාල දෙස් විදෙස් සංචාරකයන් පිරිසක් මේ දිනවල පැමිණෙමින් සිටිති.
+The Kandyan Railway Bridge, built in 1913, attracts both local and foreign tourists due to its impressive architecture and historical significance. Its unique design, featuring an 80-foot height, 300-foot length, and 25-foot width, makes it a top tourist destination during school holidays.
 
-විදෙස් සංචාරකයන් විශාල පිරිසක් දිවයිනට පැමිණීමත් හා පාසල් නිවාඩුවත් හේතුවෙන් මෙසේ විශාල සංචාරකයන් පිරිසක් දිනයේ සෑම වේලාවකම  ආරුක්කු නමයේ පාලම නැරඹීමට පැමිණෙමින් සිටින  බව ආරුක්කු නමයේ පාලම අසල ප්‍රදේශයේ පදිංචි  පිරිස් පවසති.
+🟩
 
-1913 වසරේ වැඩ ආරම්භ කොට 1921 වසරේදී ඉඳි කිරීම්  අවසන් කරන ලද අඩි 80ක උසින් හා අඩි 300ක දිගකින් මෙන්ම අඩි 25ක පළලකින් සමන්විත ආරුක්කු නමයේ පාලමේ විෂ්මිත වාස්තුවිද්‍යාත්මක දක්ෂතාවය සහ ඒ අවට කඳුකරයේ ඇති හරිතකරණය හේතුවෙන් මෙම ප්‍රදේශය සංචාරක ව්‍යාපාරයේ ප්‍රමුඛතම ස්ථානයක් බවට මේ වනවිට පත්ව තිබේ.
+A large number of local and foreign tourists are coming to visit the old Railway Bridge in the Kandyan Railway Bridge.
+
+A large number of foreign tourists are traveling to the island and the school holidays, people residing in the arch-ningent area called the Bridge of the Arch.
+
+In 1913, the construction of 80 feet high and a 300-foot-length of the Archkal name in the architectural name, which is located in the architectural name and the 25-foot-width of the Archkkky name, is currently the leading place in tourism.
 
 ◼️
 
 [Data](articles/e8a0048e.json)
+
+[Extended Data](ext_articles/e8a0048e.ext.json)
 
 ---
 
@@ -208,21 +254,31 @@ Accordingly, the England team will be behind 214 more than Sri Lanka's first inn
 
 ---
 
-### பஸ்ஸை விட்டு ஜோடியாக ஓடிய டயர்கள்
+### Tires that ran away from the bus
 
 *2024-08-22 13:29:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்ஸை-விட்டு-ஜோடியாக-ஓடிய-டயர்கள்/76-342635) · `ta`
 
-இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ்ஸொன்றின் பின்பக்க ஜோடி டயர்கள், பஸ்ஸை விட்டுவிட்டு 100 அடி தூரத்துக்கு உருண்டோடி புரண்டுகொண்டதுடன், டயருக்கு முன்பாக பின்பக்க டயர்கள் இன்றி நொண்டிய​டித்துக்​கொண்டு ஓடிய பஸ், சுமார் 50 அடி தூரத்தில் நின்றுக்கொண்ட சம்பவம் பதுளையில் இடம்பெற்றுள்ளது.
+In Badulla, a Sri Lanka Transport Board bus experienced a unique incident where its rear tires detached and rolled 100 feet away while the bus itself moved forward about 50 feet without any injuries to the over 100 passengers onboard. This unusual event occurred as the bus was traveling from Springwelli to Badulla, potentially avoiding serious damage or injury due to quick reactions and the location of the incident.
 
-பதுளை ஸ்பிரிங்வலி வீதியில் ஸ்பிரிங்வேலியிலிருந்து பதுளை நோக்கிச் வியாழக்கிழமை (22) பயணித்து கொண்டிருந்த இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பதுளை டிப்போவுக்குச் சொந்தமான பஸ் வண்டியொன்று முதலில் அச்சில் பின்பக்க டயர் ஜோடி கலந்து விபத்துக்குள்ளானது.
+🟩
 
-டயர்கள் கழன்றதன் பின்னர் பஸ் சுமார் 50 அடி முன்பாக ஓடி நடுரோட்டில் நிறுத்தப்பட்டது. கழன்ற டயர் ஜோடி 100 அடி தூரம் ஓடிசென்று நின்றுள்ளது.
+The rear pair of a bus belonging to the Sri Lanka Transport Board (SLTB) tires, leaving the bus and rolling 100 feet away, and the bus, which was running out of tires in front of the tire, was standing in Badulla about 50 feet.
 
-இந்த விபத்தால்,  இவ்வழியான போக்குவரத்து கடுமையாக பாதிக்கப்பட்டிருந்தது. விபத்து இடம்பெற்றபோது, அந்த பஸ்ஸில், 100க்கு மேற்பட்ட பயணிகள் இருந்தனர். அவர்களுக்கு எவ்விதமான பாதிப்புகளும் ஏற்படவில்லை.
+A bus belonging to the Badulla depot, which owned the Sri Lanka Transport Board, was traveling from Springwelli to Badulla on Springwali Road, Badulla, on Thursday (22).
 
-...
+The bus ran about 50 feet in front of the tires and stopped in the middle of the road. The tire pair run 100 feet away.
+
+The accident was severely affected by this accident. At the time of the accident, the bus had more than 100 passengers. They were not affected.
+
+Most of the passengers went to work and some were patients who were going to the Badulla Teaching Hospital for treatment.
+
+If the bus left the road, the passengers and the house below the street would have been damaged.
+
+◼️
 
 [Data](articles/f9065463.json)
+
+[Extended Data](ext_articles/f9065463.ext.json)
 
 ---
 
@@ -264,6 +320,8 @@ Bids were invited for the awarding of the contract under the local competitive b
 
 [Data](articles/d9603e1b.json)
 
+[Extended Data](ext_articles/d9603e1b.ext.json)
+
 ---
 
 ### Govt. to introduce ‘AI-related student societies’ in schools
@@ -299,6 +357,8 @@ The election commission had originally scheduled the local government polls for 
 ◼️
 
 [Data](articles/fd4f24cb.json)
+
+[Extended Data](ext_articles/fd4f24cb.ext.json)
 
 ---
 
@@ -359,6 +419,8 @@ It is not clear how the subsidy will be funded. (Colombo/Aug22/2024)
 ◼️
 
 [Data](articles/c7b97ce3.json)
+
+[Extended Data](ext_articles/c7b97ce3.ext.json)
 
 ---
 
@@ -450,19 +512,25 @@ The decision was given by Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, M
 
 ---
 
-### ஆ​​டையின்றி தோசை சுட்டதால் வழக்கு
+### The case is due to the shooting of the dosa
 
 *2024-08-22 11:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆ-டையின்றி-தோசை-சுட்டதால்-வழக்கு/175-342628) · `ta`
 
-மேலாடையின்றி தோசை சுட்டு கொண்டு இருந்ததாகக் கூறி கொழும்பு நகரில் அமைந்துள்ள பிரபல உணவுகமொன்றுக்கு எதிராக பொதுச் சுகாதார பரிசோதகரால்  புதன்கிழமை (21) அன்று கொழும்பு நீதவான் நீதிமன்றில் 02 வழக்கு தாக்கல் செய்யப்பட்டுள்ளது .
+A public health inspector filed a case against a popular diet in Colombo, alleging it led to the death of someone from eating dosa. Additionally, six shops in Rajagiriya were charged under various offenses. The case was filed at the Colombo Chief Magistrate's Court by Inspector A.L.M. Chandrasena.
 
-அத்துடன் ராஜகிரிய மற்றும் அதன் சுற்றுவட்டாரப் பகுதிகளிலும் பல குற்றச்சாட்டுகளின் கீழ் 06 கடைகளுக்கு எதிராக வழக்கு பதிவு செய்யப்பட்டுள்ளது.
+🟩
 
-பொது சுகாதார பரிசோதகர் ஏ. எல். எம். சந்திரசேன கொழும்பு பிரதான நீதவான் நீதிமன்றத்தில் குறித்த வழக்கு தாக்கல் செய்திருந்தார்.
+The Public Health Inspector on Wednesday (21st) filed a case against a popular diet in Colombo, alleging that Dosai was shot dead.
+
+In addition, Rajagiriya and its surrounding areas have filed a case against six shops under several charges.
+
+Public Health Inspector A. L. M.. Chandrasena had filed a case at the Colombo Chief Magistrate's Court.
 
 ◼️
 
 [Data](articles/27a5e724.json)
+
+[Extended Data](ext_articles/27a5e724.ext.json)
 
 ---
 
@@ -882,23 +950,29 @@ Commissioner Badrani Jayawardena told the Daily Mirror that any candidate or pol
 
 ---
 
-### தமிழக வெற்றிக் கழகத்தின் கொடி அறிமுகம்
+### Introduction of the Flag of the Tamil Nadu Victory Association
 
 *2024-08-22 10:13:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-வெற்றிக்-கழகத்தின்-கொடி-அறிமுகம்/175-342618) · `ta`
 
-தமிழக வெற்றிக் கழகத்தின் கொடியை, அக்கட்சியின் தலைவரும், நடிகருமான விஜய், சென்னை பனையூரில் உள்ள தலைமை அலுவலகத்தில் வியாழக்கிழமை (22)  அறிமுகம் செய்தார்.
+Actor Vijay unveiled the Tamil Nadu Victory Council's flag, featuring a surrogate flower between two war elephants on a red and yellow background, symbolizing the party's policies and future plans. This move comes ahead of the 2026 assembly elections, where Vijay aims to lead the party. The event, held at the party's headquarters in Panayoor, Chennai, also saw the release of a song detailing the party's objectives. Leaders like Seeman and GK Vasan congratulated Vijay on his initiative.
 
-கட்சி கொடியில் சிவப்பு, மஞ்சள் நிற கொடியில் இரண்டு போர் யானைகளுக்கு நடுவே வாகை மலர் கொண்டு வடிவமைக்கப்பட்டுள்ளதோடு, கட்சியின் கொள்கைகள், எதிர்கால திட்டங்கள் அடங்கிய பாடலும் வௌியிடப்பட்டுள்ளது.
+🟩
 
-தமிழக வெற்றிக் கழகம் கட்சியை துவக்கியுள்ள விஜய், 2026 சட்டசபை தேர்தலில் களமிறங்க உள்ளார். அதற்கு முன், கட்சியின் பெயர் மற்றும் கொடியை, மக்களிடம் கொண்டு சேர்ப்பதற்கான நடவடிக்கைகளை துவக்கி உள்ளார்.
+Vijay, the leader and actor of the party, introduced the flag of the Tamil Nadu Victory Council on Thursday (22) at the headquarters in Panayoor, Chennai.
 
-அதன் ஒரு பகுதியாக, இன்று பொதுமக்களுக்கும், தொண்டர்களுக்கும் கட்சி கொடி அறிமுகம் செய்யப்பட்டது. பனையூரில் அமைந்துள்ள கட்சி அலுவலகத்தில், சற்று முன் கொடியேற்றி வைத்த விஜய், கட்சியின் கொள்கைகள், எதிர்கால திட்டங்கள் அடங்கிய பாடலை வெளியிட்டார்.
+The party flag is designed with a surrogate flower between two war elephants in the red and yellow flag, and a song containing the party's policies and future plans.
 
-இதற்கமைய, நடிகர் விஜய்க்கு நாம் தமிழர் ஒருங்கிணைப்பாளர் சீமான்,  தமிழ் மாநில காங்கிரஸ்  தலைவர் ஜி.கே.வாசன் வாழ்த்து தெரிவித்தனர்.
+Vijay, who inaugurated the Tamil Nadu Victory Corporation, is in the 2026 assembly elections. Prior to that, he had initiated measures to bring the party's name and flag to the people.
+
+As part of that, the party flag was introduced to the public and volunteers today. At the party office located in Panayoor, Vijay, who flagged a little earlier, released a song containing party policies and future plans.
+
+Accordingly, Tamil Nadu Coordinator Seeman and Tamil Nadu Congress leader GK Vasan congratulated actor Vijay.
 
 ◼️
 
 [Data](articles/c9415ae8.json)
+
+[Extended Data](ext_articles/c9415ae8.ext.json)
 
 ---
 
@@ -1004,23 +1078,31 @@ We will protect language and culture, we will only do what we can do, and we wil
 
 ---
 
-### ”வடக்கு, கிழக்கு  இணைக்கப்படாது”
+### “North and East will not be connected”
 
 *2024-08-22 10:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-இணைக்கப்படாது/175-342616) · `ta`
 
-சவால்களுக்கு தாம் ஒருபோதும் பயப்படுவதில்லை என்றும் சவால்களை தாம் விரும்புவதாகவும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+Namal Rajapaksa, a Sri Lanka PA presidential candidate, emphasizes his readiness to tackle challenges, inspired by his father. He vows to revive the agrarian policies of 2005 and 2015, including farmer fertilizer subsidies. Rajapaksa assures that the Northern and Eastern provinces won't merge, nor will provincial councils gain police and land powers. He pledges to safeguard language and culture without deceiving the Northern populace with false promises.
 
-அநுராதபுரத்தில் இடம்பெற்ற ஜனாதிபதித் தேர்தல் பிரசாரக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றிய அவர், தாம் கொள்கைகளின் அடிப்படையில் அரசியலில் ஈடுபட்டு வருவதாகவும், செயற்திட்டத்துடன் முன்னோக்கிச் செல்லத் தயார் எனவும் தெரிவித்தார்.
+🟩
 
-"நாங்கள் சவால்களுக்கு பயப்படுவதில்லை. நான் சவால்களை விரும்புகிறேன். அதைத்தான் நான் என் தந்தையிடம் கற்றுக்கொண்டேன். நான் யாரையும் வெறுக்கவில்லை. அதனால், எங்கள் மீது சேறு பூசுவது பயனற்றது," என்று அவர் கூறினார்.
+Namal Rajapaksa, the presidential candidate of the Sri Lanka PA, said he would never be afraid of the challenges and he wanted to challenge.
 
-2005 மற்றும் 2015 ஆம் ஆண்டுகளில் நடைமுறையில் இருந்த விவசாயக் கொள்கையை நடைமுறைப்படுத்துவேன் என்று கூறிய ராஜபக்ச, விவசாயிகளுக்கு உர மானியம் வழங்குவதாகவும் கூறினார்.
+Speaking at a presidential election campaign meeting in Anuradhapura, he said he was involved in politics based on policies and was ready to go forward with the project.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசாங்கம் மாகாண சபைகளுக்கு பொலிஸ் மற்றும் காணி அதிகாரங்களை வழங்காது எனவும் வடக்கு மற்றும் கிழக்கு மாகாணங்கள் இணைக்கப்பட மாட்டாது எனவும் அவர் வலியுறுத்தியுள்ளார்.
+“We are not afraid of challenges. I like the challenges. That's what I learned from my father. I don't hate anyone. So it is useless to apply mud on us, ”he said.
 
-...
+Rajapakse said he would implement the agrarian policy that was in effect in 2005 and 2015 and said that the farmers were providing fertilizer subsidy.
+
+He stressed that the Sri Lankan PA government will not grant police and land powers to provincial councils and that the Northern and Eastern Provinces will not be merged.
+
+We will protect language and culture, we will only do what we can do, and we will not deceive the people of the Northern Province by making false promises.
+
+◼️
 
 [Data](articles/977f0003.json)
+
+[Extended Data](ext_articles/977f0003.ext.json)
 
 ---
 
@@ -2165,51 +2247,5 @@ The launch event on 15 August brought together stakeholders, entrepreneurs, and 
 [Data](articles/5f1a7631.json)
 
 [Extended Data](ext_articles/5f1a7631.ext.json)
-
----
-
-### Half a century of team captain Tanjaya and debutant Milan made Sri Lanka in the best position
-
-*2024-08-21 23:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191669) · `ta`
-
-In the first Test cricket match at Manchester and Old Trafford Stadium, Sri Lanka batted first, scoring 236 runs in their first innings. Team captain Tanajaya de Silva and debutant Milan Ratnayake contributed with half-centuries, sharing an 8th-wicket partnership that revived Sri Lanka's innings after a slow start. Milan Ratnayake notably scored 72 runs on his debut, setting a record for the most runs in a debut Test match. Despite early struggles, Sri Lanka's decision to bat first was vindicated as Tanajaya de Silva and Milan Ratnayake's partnership ensured they reached a competitive total. England ended the day without losing a wicket, scoring 22 runs in their first innings.
-
-🟩
-
-Sri Lanka, who decided to bat first in the first Test cricket match at Mensterster and Old Traford Stadium on Wednesday (21), scored 236 runs in the first innings.
-
-Team captain Tananjaya de Silva and debutant Milan Ratnayake have scored half -centuries and their two -wickets in the 8th wicket.
-
-Milan Ratnayake set the record for the highest number of runs in the debut Test match by scoring 72 runs.. This is the highest number of Milan in a first -class cricket match.
-
-Sri Lanka's decision to bat first in this match was considered wise. But Sri Lanka had only 6 runs off the first 33 balls, which faced great difficulty in getting runs.
-
-When the total number was 6 runs, Timut Karunaratne (2) Nishan Madushka (4) and Angelo Mathews (0) took their wickets.
-
-Subsequently, Kusal Mendis (24), Dinesh Chandimal (17), Kamindu Mendis (12) and Prabhat Jayasuriya (10) lost the game in a steady interval.
-
-...
-
-[Data](articles/da1c5961.json)
-
-[Extended Data](ext_articles/da1c5961.ext.json)
-
----
-
-### India leads world in ChatGPT usage ahead of US, UK
-
-*2024-08-21 23:51:05* · [`dailyftlk`](https://www.ft.lk/business/India-leads-world-in-ChatGPT-usage-ahead-of-US-UK/34-765821) · `en`
-
-Since its 2022 release, ChatGPT has attracted significant interest, with some people showing more enthusiasm than others. According to Stocklytics.com, India leads in ChatGPT usage, with 45% of the population using the chatbot.
-
-The site’s financial analyst, Edith Reads said: “India’s augmented use of ChatGPT can be credited to the high number of IT jobs in the country, with many of its workers relying on the chatbot to enhance their productivity and solve their questions.”
-
-Morocco has an impressive 38% adoption rate after India, and the UAE ranks third, with 34% using the chatbot. Argentina, Brazil, and Indonesia all trail the UAE with a 32% adoption rate. South Africa then follows with 31%. One similar trait across all these countries is that they have a larger population of younger people, hinting that the chatbot is more relevant and appealing to the younger tech-savvy generation.
-
-...
-
-[Data](articles/870656bc.json)
-
-[Extended Data](ext_articles/870656bc.ext.json)
 
 ---

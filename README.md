@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 16:21:37**
+As of **2024-08-22 16:36:46**
 
 ## Newspaper Stats
 
-*Scraped **42,103** Articles*
+*Scraped **42,105** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 354
 newsfirstlk | 363
-bbccomsinhala | 389
+bbccomsinhala | 390
 colombotelegraphcom | 403
 islandlk | 2,441
 economynextcom | 2,547
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,931
 tamilmirrorlk | 5,465
 virakesarilk | 6,695
-adaderanasinhalalk | 7,181
+adaderanasinhalalk | 7,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,100 (100.0%) of 42,103 articles have been extended.
+42,103 (100.0%) of 42,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### බදු සහ ගාස්තු හැරුණුවිට ආදායම් මූලාශ්‍රයක් රජයට නැහැ - දිලිත්
+
+*2024-08-22 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200209) · `si`
+
+ටෙලිකොම් ආයතනය සතු කොටස් විකිණීමට රජය දරණ උත්සාහය වරදක් බව සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+ටෙලිකොම් වෘත්තිය සමිති නියෝජිතයින් පිරිසක් සමග ඊයේ (21) පැවති සාකච්ඡාවකදී ඔහු මේ බව සඳහන් කළේය.
+
+ශ්‍රී ලංකා ටෙලිකොම් ආයතනයේ ඉංජිනේරු සංගමයේ පිරිසක් ඊයේ පස්වරුවේ සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා ඇතුළු නියෝජිතයින් හමුවිය.
+
+ඒ, ජනාධිපතිවරණය අතරතුර ටෙලිකොම් ආයතනය විකිණීමට රජය දරණ උත්සාහය පරාජය කිරීමට මැදිහත් වන ලෙස ඉල්ලමිනි.
+
+"ඒවා මොකටද විකුණන්නේ... රාජ්‍ය ව්‍යවසායකත්ව මනසක් තියෙන අය. සිංගප්පූරු රජයට ව්‍යවසායකත්ව මනසක් තිබෙන නිසා වැඩියෙන්ම ලාභ ලබන ව්‍යාපාර ආණ්ඩුව කරන්නේ. ටෙලිකොම් එකෙන් ආණ්ඩුවට සල්ලි හොයන්න පුළුවන්. අදටත් රජයේ ආදායම් අඩුවීමට එක හේතුවක් තමයි බදු සහ ගාස්තු හැරුණු කොට ආදායම් ලබන මූලාශ්‍රයක් රජයට නැහැ. තිබෙන මූලාශ්‍ර විනාශ කරගෙන.. ඉතුරු ටික විකුණන්න හදනවා. බදු කියන්නේ යටින් වැටෙන බිංදු. ලාභ කියන්නේ ඒකට නෙමෙයි."
+
+...
+
+[Data](articles/1eb6ea90.json)
+
+---
 
 ### MJP leader Dilith Jayaweera opposes govt’s move to sell SLT shares
 
@@ -48,27 +68,41 @@ Speaking during the discussion, entrepreneur Dilith Jayaweera questioned the log
 
 [Data](articles/b4e12105.json)
 
+[Extended Data](ext_articles/b4e12105.ext.json)
+
 ---
 
-### කිසිවෙක් වසර 41කින් නොකළ දස්කමක් කළ මිලාන්
+### Milan who did not in 41 years
 
 *2024-08-22 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200208) · `si`
 
-එංගලන්තයට එරෙහිව මැන්චෙස්ටර්හිදී ඊයේ (21) ආරම්භ වූ පළමු ටෙස්ට් ක්‍රිකට් තරගයේදී ලෝක ක්‍රිකට් පිටියේ පිතිකරුවෙකු වසර 41කින් අලුත් නොකළ සුවිශේෂී ලෝක වාර්තාවක් අලුත් කිරීමට ශ්‍රී ලංකා ක්‍රීඩක මිලාන් රත්නායක සමත් විය.
+In the first Test match against England, Milan Ratnayake made history for Sri Lanka, scoring 135 runs off 135 balls with two sixes and six fours. He shared a crucial partnership of 63 runs with Dhananjaya Silva, contributing significantly to Sri Lanka's total of 176/4. This performance marked Milan as the 166th player to score a century in Test cricket, following in the footsteps of Indian legend Sunil Gavaskar, who achieved this feat in 1983.
 
-සිය මංගල ටෙස්ට් තරගය සඳහා පන්දු යවන්නෙකු ලෙසින් ශ්‍රී ලංකා කණ්ඩායමේ ඉඩක් වෙන්කරගත් මිලාන්, මෙම තරගයේදී අංක 09 පිතිකරු ලෙසින් පන්දුවට පහරදීමට පැමිණ වටිනා ලකුණු 72ක් රැස් කළේය.
+🟩
 
-කිසිදු කලබලයක් නොමැතිව ඉනිම ගොඩනැගූ මිලාන්, ඒ වෙනුවෙන් පන්දු 135කට මුහුණ දුන්නේය. ඔහුගේ ඉනිමට හයේ පහර 02ක් හා හතරේ පහර 06ක් ඇතුළත් විය.
+Sri Lanka Milan Ratnayake was able to renew a unique world report in the first Test match against England yesterday (Test series)
 
-මිලාන් මෙහිදී නායක ධනංජය සිල්වා සමගින් 08වැනි කඩුල්ලට ලකුණු 63ක් සබඳතාවක් පැවැත් වූ අතර, ඉන් ලකුණු 30කටම ඔහු දායක විය.
+Milan, who has allocated a bowler to his Mangala Test, and joined the bat prince.
 
-එමෙන්ම ශ්‍රී ලංකා ලකුණු පුවරුවේ කඩුලු 08ක් ලකුණු 176ක් තුළ බිඳවැටි තිබියදී විශ්ව ප්‍රනාන්දු සමගින් එක්වූ මිලාන්  ලකුණු පුවරුව 226ක් දක්වා ඉහළට රැගෙන ආවේය.
+Milan who built innings without any upset faced 135 balls. His innings included two sixes and six four fours.
 
-එහිදී ඔහු විශ්ව සමගින් 09වැනි කඩුල්ලට ලකුණු 50ක සබඳතාවක් පැවැත් වූ අතර, ඉන් ලකුණු 42කටම ඔහු දායක විය.
+Milan, captain Dhananjaya Silva, 63 runs with the 8th wicket with the 8th wicket with the 8rd.
 
-...
+The Sri Lanka Score 4 wickets in 176 runs in 176 runs with universal Fernando to up to 226.
+
+He had a 50-day wicket with the 9th wicket with the universities, and 42 runs.
+
+The innings of Milan, who had won the 166th player to win the Test, was the 166th player to win the Test.
+
+Earlier, Indian players Bulwader was held in 1983 and scored 71 runs in their Mangala Test.
+
+The right and ethnic bowler had not scored 72 runs in the first and 72 runs before he was innings in the top two half centuries.
+
+◼️
 
 [Data](articles/8e07ead6.json)
+
+[Extended Data](ext_articles/8e07ead6.ext.json)
 
 ---
 
@@ -222,23 +256,29 @@ Further investigations are conducting further investigations to obtain detention
 
 ---
 
-### AI மாணவர் சங்கங்களுக்கு அனுமதி
+### Allow AI Student Associations
 
 *2024-08-22 15:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-மாணவர்-சங்கங்களுக்கு-அனுமதி/175-342638) · `ta`
 
-100 பாடசாலைகளில் முன்னோடித் திட்டமாக செயற்கை நுண்ணறிவு தொடர்பான மாணவர் சங்கங்களை நடைமுறைப்படுத்தும் திட்டத்திற்கு அரசாங்கம் இன்று அனுமதி வழங்கியுள்ளதாக அமைச்சரவைப் பேச்சாளரும் அமைச்சருமான பந்துல குணவர்தன தெரிவித்தார்.
+The Sri Lankan government has approved the establishment of artificial intelligence (AI) student unions in 100 schools, starting with grades 6 to 9. This initiative, proposed jointly by the President as the Minister of Technology and Education, aims to prepare students for future global trends and boost economic growth through AI education. The plan is to gradually extend this program to more schools nationwide.
 
-தரம் 6 முதல் 9 வரையான மாணவர்களின் பங்களிப்புடன் இந்த செயற்றிட்டம் ஆரம்பிக்கப்படவுள்ளதாக அவர் ஊடகங்களுக்கு தெரிவித்தார்.
+🟩
 
-இதன்படி, இத்திட்டத்தின் பெறுபேறுகளின் அடிப்படையில் எதிர்வரும் ஆண்டுகளில் ஏனைய பாடசாலைகளுக்கும் இத்திட்டத்தை விரிவுபடுத்துவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+Cabinet spokesman and minister Bandula Gunawardena said that the government has granted permission to implement student unions on artificial intelligence as a pioneer program in 100 schools.
 
-இந்த முன்மொழிவு தொழில்நுட்ப அமைச்சர் மற்றும் கல்வி அமைச்சர் என்ற வகையில் ஜனாதிபதியினால் கூட்டு முன்மொழிவாக முன்வைக்கப்பட்டது.
+He told the media that the project would be launched with the participation of students from grade 6 to 9.
 
-"எதிர்கால உலகளாவிய போக்குகளை எதிர்கொள்ளக்கூடிய பிரஜைகளை உருவாக்கவும், பொருளாதார வளர்ச்சிக்கு அவர்களின் பங்களிப்பை திறம்பட பெறுவதற்கும் செயற்கை நுண்ணறிவு தொடர்பான ஆய்வுகளில் ஈடுபட மாணவர்களுக்கு வாய்ப்பளிப்பது பொருத்தமானது அமைச்சர் கூறினார்.
+Accordingly, it has been decided to expand the scheme to other schools in the coming years in the coming years.
+
+The proposal was put forward as a joint proposal by the President as the Minister of Technology and Education.
+
+“It is appropriate for students to engage in artificial intelligence studies to create citizens who are facing future global tendencies and to achieve their contribution to economic growth effectively.
 
 ◼️
 
 [Data](articles/04feeafa.json)
+
+[Extended Data](ext_articles/04feeafa.ext.json)
 
 ---
 
@@ -1508,6 +1548,28 @@ It is said that Ukrainian attacks on the Russian mametics will be increased.
 
 ---
 
+### ශ්‍රී ලංකාවේ ආණ්ඩු ශ්‍රේෂ්ඨාධිකරණයේ නියෝගවලට පයින් ගැසූ අවස්ථා 6ක්
+
+*2024-08-22 09:32:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clygrl4xx70o) · `si`
+
+2023 වසරේ මාර්තු 9 වැනිදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම නොපැවැත්වීම තුළින් මුදල් අමාත්‍යවරයා  ලෙස ජනාධිපතිවරයා සහ  මැතිවරණ කොමිසමේ සාමාජිකයින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝණය කර ඇතැයි  ශ්‍රේෂ්ඨාධිකරණය අද (අගෝස්තු 22 වැනිදා) තීන්දු කළේය.
+
+ඒ අනුව අදාළ ඡන්ද විමසීම නොපමාව පැවැත්වීමට පියවර ගන්නා ලෙසත් ශ්‍රේෂ්ඨාධිකරණය විසින්  මැතිවරණ කොමිසමට නියෝගයක් කරනු ලැබීය.
+
+කෙසේ වෙතත් එම නියෝගය පිළිගනිමින් ආණ්ඩුව පළාත් පාලන ඡන්ද විමසීම පවත්වන්නේ ද? ඒ පිළිබඳ ව ආණ්ඩුව මෙතෙක් අදහස් දැක්වීමක් කර නොමැත.
+
+මේ අතර වත්මන් පොලිස්පති දේශබන්දු තෙන්නකෝන් එම ධූරයේ කටයුතු කිරීම වළක්වාලමින් පසුගිය දා ශ්‍රේෂ්ඨාධිකරණය විසින් දෙන ලද නියෝගය පිළිගත නොහැකි බව ආණ්ඩුව නියෝජනය කරමින් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන පසුගිය දා පාර්ලිමේන්තුවේදී ප්‍රකාශ කර තිබිණි.
+
+ශ්‍රේෂ්ඨාධිකරණය විසින් දෙන ලද නියෝග ක්‍රියාත්මක කළ නොහැකි බවට ආණ්ඩුව ප්‍රකාශ කළ ප්‍රථම අවස්ථාව මෙය නොවේ. එවැනි අවස්ථා 6ක් මෙරට ඉතිහාසයෙන් හමුවෙයි.
+
+1. බ්‍රිගේඩියර් පැරී ලියනගේ මේජර් ජෙනරල් ධූරයට උසස් කරන ලෙස දුන් නියෝගය
+
+...
+
+[Data](articles/e5bed005.json)
+
+---
+
 ### Divers recover 5 bodies from wrecked superyacht off Sicily; 1 still missing
 
 *2024-08-22 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101411/divers-recover-5-bodies-from-wrecked-superyacht-off-sicily-1-still-missing) · `en`
@@ -2255,39 +2317,5 @@ The High Commissioner distributed solar lanterns to some of the beneficiaries of
 [Data](articles/434b3283.json)
 
 [Extended Data](ext_articles/434b3283.ext.json)
-
----
-
-### Sri Lanka secures $ 8 b export revenue, signs $ 800 m investment deals in 1H of 2024: State Minister
-
-*2024-08-22 01:32:46* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-secures-8-b-export-revenue-signs-800-m-investment-deals-in-1H-of-2024-State-Minister/34-765832) · `en`
-
-Investment Promotion State Minister Dilum Amunugama announced that Sri Lanka has secured an export income of $ 9 billion in the first six months of 2024, whilst noting that investment agreements totalling around $ 800 million were signed during the same period.
-
-He made these remarks at a press briefing titled “Two Years of Progress and Advancements” held at the Presidential Media Centre (PMC) yesterday.
-
-Amunugama said the Board of Investment of Sri Lanka currently facilitates 15 investment zones, with 1,575 companies operating within them, providing employment to over 500,000 people. Under the Government’s new investment program, seven additional investment zones are planned for areas including Mankulam, Paranthan, Kankasanthurai, Trincomalee, Iranawila, Hambantota and Bingiriya.
-
-...
-
-[Data](articles/3877d6d1.json)
-
-[Extended Data](ext_articles/3877d6d1.ext.json)
-
----
-
-### CEB’s Rs. 93 b profit used to settle power project debts: Minister
-
-*2024-08-22 01:31:29* · [`dailyftlk`](https://www.ft.lk/business/CEB-s-Rs-93-b-profit-used-to-settle-power-project-debts-Minister/34-765831) · `en`
-
-Power and Energy Minister Kanchana Wijesekera yesterday announced that the CEB’s net profit of Rs. 93 billion registered by June was utilised to settle payments of various power project debts.
-
-“The net profit was utilised to pay the outstanding amounts to renewable energy developers, thermal power plants, coal procurement, local suppliers, dues to major projects, rooftop solar, and short-term banking facilities,” he shared via a post on ‘X’.
-
-...
-
-[Data](articles/fd402530.json)
-
-[Extended Data](ext_articles/fd402530.ext.json)
 
 ---

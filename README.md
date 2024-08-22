@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 21:37:02**
+As of **2024-08-22 21:57:14**
 
 ## Newspaper Stats
 
-*Scraped **42,133** Articles*
+*Scraped **42,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,937
 tamilmirrorlk | 5,469
 virakesarilk | 6,699
-adaderanasinhalalk | 7,190
+adaderanasinhalalk | 7,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,133 (100.0%) of 42,133 articles have been extended.
+42,133 (100.0%) of 42,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### පුංචි ඡන්දය ගැන ශ්‍රේෂ්ඨාධිකරණය දුන් තීන්දුවේ වැඩි විස්තර මෙන්න
+
+*2024-08-22 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200218) · `si`
+
+2023 වසරේ මාර්තු මස 09 වනදා නියමිත පරිදි පළාත් පාලන ඡන්දය නොපැවැත්වීමෙන් එවක මැතිවරණ කොමිසමේ සාමාජිකයින් හා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇති බව ශ්‍රේෂ්ඨාධිකරණය අද (22) තීන්දු කළේය.
+
+ඒ අනුව හැකි ඉක්මනින් පළාත් පාලන ඡන්ද විමසීම පැවැත්වීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය මැතිවරණ කොමිසම වෙත නියම කළේය.
+
+පළාත් පාලන ඡන්ද විමසීම 2023 වසරේ මාර්තු මස 09 වනදා පවත්වන බව ජාතික මැතිවරණ කොමිෂන් සභාව ගැසට් පත්‍රයක් මගින් නිවේදනය කරනු ලැබීය.
+
+එහෙත් එවක පැවති ආර්ථික අර්බුදකාරී තත්ත්වය හමුවේ පනවා තිබූ මූල්‍ය රෙගුලාසි සහ නියමයන් ප්‍රකාරව ඡන්දය සඳහා ප්‍රමාණවත් මුදල් වෙන්කිරීමේ දුෂ්කරතාවක් පවතින බව අදාළ ආයතන සහ මුදල් අමාත්‍යංශය දැනුම්දීමත් සමග ඡන්ද විමසීම අප්‍රේල් මස 25 වන දින දක්වා කල් දැමුණි.
+
+කෙසේවෙතත් ඡන්දය දින නියමයක් නොමැතිව කල් ගිය අතර, ඊට එරෙහිව සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ පැෆ්රල් ආයතනය ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සම් ගොනු කළේය.
+
+...
+
+[Data](articles/74f23cd6.json)
+
+---
 
 ### Pudekko oil who tits SLS and sent human consumption
 
@@ -2335,31 +2355,5 @@ Negotiators who have struggled for months to conclude a ceasefire deal plan to m
 [Data](articles/6840868a.json)
 
 [Extended Data](ext_articles/6840868a.ext.json)
-
----
-
-### Sri Lanka state sugar firms drowned in unsold ethanol
-
-*2024-08-22 08:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-sugar-firms-drowned-in-unsold-ethanol-177692/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state sugar firms are stuck with a large stock of unsold ethanol as legal alcohol demand plunged, following an economic crisis and tax hikes, State Minister for Investment Promotion Dilum Amunugama said.
-
-State-run Lanka Sugar operates Sevenagala and Pelwatte companies. Ethanol is made as a by product of sugar from molasses.
-
-The two firm now had 1.3 million litres of unsold alcohol, he said.
-
-Discussions with legal alcohol companies showed that some have suffered sales falls as much as 70 percent at times, he said.
-
-There were two other sugar firms, Ethimale and Gal-Oya which were producing ethanol.
-
-Minister Amunugama said following discussions with the Department of Excise an a verbal agreement was reached to issue ethanol purchase license dividing the demand equally among the four companies to keep stocks moving.
-
-In Sri Lanka sugar and ethanol is protected by import taxes and domestic production is price competitive.
-
-...
-
-[Data](articles/61a8a623.json)
-
-[Extended Data](ext_articles/61a8a623.ext.json)
 
 ---

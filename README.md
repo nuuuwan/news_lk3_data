@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 10:55:17**
+As of **2024-08-22 11:07:23**
 
 ## Newspaper Stats
 
-*Scraped **42,037** Articles*
+*Scraped **42,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 2,536
 dailyftlk | 2,723
 adalk | 3,871
 dailymirrorlk | 4,733
-adaderanalk | 4,917
+adaderanalk | 4,918
 tamilmirrorlk | 5,452
 virakesarilk | 6,686
-adaderanasinhalalk | 7,172
+adaderanasinhalalk | 7,173
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,034 (100.0%) of 42,037 articles have been extended.
+42,037 (100.0%) of 42,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### නිල ඡන්ද පත්‍රිකා බෙදීම සැප්තැම්බර් 3 සිට
+
+*2024-08-22 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200200) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා අදාළ නිල ඡන්ද දැන්වීම් පත්‍රකා බෙදා හැරීමේ කටයුතු සැප්තැම්බර් 3 වනදා ආරම්භ කරන බව නියෝජ්‍ය තැපැල්පති  රාජිත රණසිංහ මහතා පවසයි.
+
+ඒ මහතා පැවසුවේ එම කටයුතු සඳහා විශේෂිත දිනය ලෙස සැප්තැම්බර් මස 08 වනදා නම් කර ඇති බවයි.
+
+රජයේ නිවාඩු දිනයක් වන ඉරිදා දිනයේ පෙරවරු 08 සිට පස්වරු 06 දක්වා මෙම බෙදාහැරීම සිදු කරන බව ඒ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/63c0dd1a.json)
+
+---
 
 ### "Don't touch Colombo without permission"
 
@@ -78,23 +94,29 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 ---
 
-### විරෝධතාකරුවන්ට එරෙහිව අධිකරණ නියෝගයක්
+### Court order against protesters
 
 *2024-08-22 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200199) · `si`
 
-සම සෞඛ්‍ය විද්‍යා උපාධිධාරී එකමුතුව සහ අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බලමණ්ඩලය විසින් අද (22) පැවැත්වීමට නියමිත විරෝධතාවක් සම්බන්ධයෙන් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය නියෝගයක් නිකුත් කර තිබේ.
+A court order was issued by the Maligakanda Magistrate against a protest planned by the Department of Health Sciences and the Inter University Students Federation, following a request from the Maradana police. The order aims to prevent obstruction of traffic and public disturbance during the event.
 
-මරදාන පොලීසියේ ස්ථානාධිපති කළ ඉල්ලීමක් අනුව එම නියෝගය නිකුත් කර තිබුණි.
+🟩
 
-එම විරෝධතාවය සම සෞඛ්‍ය විද්‍යා උපාධිධාරී එකමුතුව සහ අන්තර් විශ්ව විද්‍යාල ශිෂ්‍ය බලමණ්ඩලය මගින් සංවිධානය කිරීමට නියමිත බව පොලීසිය පවසයි.
+The Maligakanda Magistrate has issued a court order on a protest to be held today (22) by the Department of Health Sciences and the Inter University Students Federation.
 
-සෞඛ්‍ය අමාත්‍යංශය අවට මාර්ගවල ගමනාගමනය අවහිර වන පරිදි වාහන වලට සහ මහජනතාවට බාධාකාරී වන ලෙසට එම විරෝධතාවය පැවැත්වීමට කටයුතු කරන බවට ලැබුණු බුද්ධි තොරතුරක් මත මාළිගාකන්ද අධිකරණයෙන් කළ ඉල්ලීමකට ප්‍රතිචාර ලෙස එම අධිකරණ නියෝගය නිකුත්කර තිබේ.
+The order had been issued in accordance with a request made by the Maradana police OIC.
 
-ඒ අනුව අද දින පෙරවරු 10 සිට රාත්‍රී 9 දක්වා සෞඛ්‍ය අමාත්‍යංශය අවට ඒකරාශී වී අවට ඇති මහා මාර්ගය, පදික වේදිකා භාවිත කළ නොහැකි ලෙස අවහිර කරමින් සිදුකරන උද්ඝෝෂණ සහ සෞඛ්‍ය අමාත්‍යංශය ට ඇතුළු වීම වළක්වාලමින් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් තහනම් නියෝගයක් නිකුත්කර ඇත.
+The protest is to be organized by the Department of Allied Health Sciences and the Inter University Students Federation.
+
+The court order has issued the court order to respond to vehicles and the public to obstruct the protest to prevent traffic on traffic to prevent traffic to prevent traffic on traffic.
+
+Accordingly, the Maligakanda Magistrate's Court has issued a prohibition to prevent the development of the road and the health of the Ministry of Health today to 9 pm today.
 
 ◼️
 
 [Data](articles/927609b2.json)
+
+[Extended Data](ext_articles/927609b2.ext.json)
 
 ---
 
@@ -126,6 +148,22 @@ We will protect language and culture, we will only do what we can do, and we wil
 
 ---
 
+### Court order issued over protests planned by student unions in Colombo
+
+*2024-08-22 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101412/court-order-issued-over-protests-planned-by-student-unions-in-colombo) · `en`
+
+The Maligakanda Magistrate’s Court has issued an order preventing Allied Health Sciences Students’ Union and the Inter-University Students’ Federation (IUSF) from holding protest marches, entering the Health Ministry, and inconveniencing the public in the area from 10.00 a.m. to 9.00 p.m. today (22).
+
+This order has been issued following a request made by Maradana Police, based on intelligence received by police that the planned protest will cause inconvenience to the public and disrupt traffic movement along roads near the Health Ministry in Colombo, the Police Media Division said.
+
+Accordingly, the Convenor of the Allied Health Sciences Students’ Union Tharushan Herath, Convenor of the IUSF Madhushan Chandrajith and others have been prohibited from gathering near the Ministry of Health, entering the Health Ministry premises and holding protest marches in a way that inconvenience the public from 10.00 a.m. to 9.00 p.m. today, as per the court order, police said.
+
+◼️
+
+[Data](articles/811ce024.json)
+
+---
+
 ### Court order issued over protests by Allied Health Sciences Graduates, IUSF
 
 *2024-08-22 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101412/court-order-issued-over-protests-by-allied-health-sciences-graduates-iusf) · `en`
@@ -135,6 +173,8 @@ The Maligakanda Magistrate’s Court has issued an order preventing Allied Healt
 ◼️
 
 [Data](articles/89091410.json)
+
+[Extended Data](ext_articles/89091410.ext.json)
 
 ---
 
@@ -170,21 +210,27 @@ The Commission to Investigate Bribery or Corruption (CIABOC) has announced that 
 
 ---
 
-### රුසියානු අගනුවරට ඩ්‍රෝන ප්‍රහාරයක්
+### Drone attack on the Russian capital
 
 *2024-08-22 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200198) · `si`
 
-රුසියාවේ මොස්කව් අගනුවරට යුක්‍රේනය විසින් දරුණු ඩ්‍රෝන ප්‍රහාරයක් එල්ලකර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Ukraine reportedly launched a significant drone attack on Moscow, with about 11 drones shot down. This marks one of the most severe assaults on the Russian capital since the conflict started in February 2022, with warnings of further escalation.
 
-ඉන් ඩ්‍රෝන 11ක් පමණ රුසියානු ප්‍රහාර හමුවේ විනාශ වී ඇති බව සඳහන් ය.
+🟩
 
-රුසියානු බලධාරීන් පවසන්නේ 2022 පෙබරවාරි මාසයේදී දෙරට අතර ගැටුම් ආරම්භ වීමෙන් අනතුරුව රුසියානු අගනුවරට එල්ල කළ දරුණුතම ඩ්‍රෝන ප්‍රහාරය මෙය බවයි.
+International media reports that Ukraine has launched a severe drone attack on Moscow capital in Russia.
 
-රුසියානු මර්මස්ථාන වෙත එල්ලවන යුක්‍රේන ප්‍රහාරවල වැඩිවීමක් දක්නට ලැබෙන බවද සඳහන් වෙයි.
+About 11 Drones have been destroyed in the face of Russian attacks.
+
+The Russian authorities say that this is the worst of the worst of the brutal attack on the Russian capital after the conflict began in February 2022.
+
+It is said that Ukrainian attacks on the Russian mametics will be increased.
 
 ◼️
 
 [Data](articles/6aaaa036.json)
+
+[Extended Data](ext_articles/6aaaa036.ext.json)
 
 ---
 
@@ -2219,51 +2265,5 @@ The film crew has released a photo of the actors Ganesh Saravanan and Dasarathi,
 [Data](articles/9ca2369c.json)
 
 [Extended Data](ext_articles/9ca2369c.ext.json)
-
----
-
-### US commends Sri Lanka’s commitment to 70% renewable energy by 2030
-
-*2024-08-21 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101402/us-commends-sri-lankas-commitment-to-70-renewable-energy-by-2030) · `en`
-
-The United States has commended Sri Lanka’s commitment to 70% renewable energy by 2030 and its proactive role in global climate initiatives.
-
-U.S. Acting Assistant Secretary for Oceans and International Environmental and Scientific Affairs Jennifer Littlejohn, who is currently on an official visit to Sri Lanka, accompanied by US Ambassador to Sri Lanka Julie Chung, had held separate meetings with Sri Lanka’s Foreign Minister Ali Sabry and Presidential Advisor on Climate Change Ruwan Wijewardene on Wednesday (21).
-
-“We commended Sri Lanka’s commitment to 70% renewable energy by 2030 and its proactive role in global climate initiatives,” US Ambassador Julie Chung said, in a post on ‘X’ (formerly Twitter).
-
-She stated that they discussed ongoing U.S. support, including the work of the U.S. Agency for International Development (USAID) on power sector reforms and potential collaborations with the Smithsonian Institution to protect Sri Lanka’s unique natural resources.
-
-...
-
-[Data](articles/b17ba415.json)
-
-[Extended Data](ext_articles/b17ba415.ext.json)
-
----
-
-### The Department of Liquor has not paid tax arrears 7.9 billion - Champika Ranawaka
-
-*2024-08-21 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191614) · `ta`
-
-Champika Ranawaka criticized the Department of Liquor for not collecting 7.9 billion rupees in taxes from major liquor companies, despite raising 1680 billion rupees with other departments in the first half of the year. He suggested freezing bank accounts of defaulters and issuing tax IDs to over 17 million eligible individuals. The department responded, blaming the Finance Ministry for not approving permit suspensions for non-tax paying companies.
-
-🟩
-
-The Department of Home Affairs, the Department of Liquor and the Customs Department has raised 1680 billion rupees in the first six months of the year.
-
-Patali Champika Ranawaka, chairman of the Parliamentary Systems Committee, said that the Liquor Department has not charged the 7.9 billion rupee tax from the main liquor companies.
-
-He was speaking to the House during the session on Wednesday (21) in Parliament.
-
-We have put forward many ideas to earn state income. Three state agencies, the Department of Internal Revenue, the Department of Liquor and the Customs Department, have earned 1680.4 billion rupees within the last six months.
-
-978 billion rupees was lost due to the tax exemption in 2022. It has been advised to freeze 900 bank accounts of those who do not pay.. In addition, we recommended to take appropriate measures to provide taxpayer identification number (tin number) over 17 million people over the age of 18.
-
-...
-
-[Data](articles/22f582b8.json)
-
-[Extended Data](ext_articles/22f582b8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 19:36:47**
+As of **2024-08-22 19:55:38**
 
 ## Newspaper Stats
 
-*Scraped **42,125** Articles*
+*Scraped **42,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,547
 dailyftlk | 2,723
 adalk | 3,881
 dailymirrorlk | 4,733
-adaderanalk | 4,936
+adaderanalk | 4,937
 tamilmirrorlk | 5,469
 virakesarilk | 6,697
 adaderanasinhalalk | 7,188
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,124 (100.0%) of 42,125 articles have been extended.
+42,125 (100.0%) of 42,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### India’s Ather Energy to enter Sri Lankan market next quarter
+
+*2024-08-22 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101431/indias-ather-energy-to-enter-sri-lankan-market-next-quarter) · `en`
+
+Bengaluru-based Ather Energy on Thursday said that it plans to expand into Sri Lanka in the coming quarter, days after it secured funding from NIIF at a unicorn valuation.
+
+The expansion will be the company’s second international launch after it entered Nepal last year.
+
+Ather will set up an experience centre through a partnership with Evolution Auto Pvt Ltd, a joint venture between Sensex Capital Partners, Atman Group and Sri Lanka-based Sino Lanka Private Ltd, the company mentioned in a press release.
+
+Evolution Auto will serve as the company’s national distributor and will manage Ather Energy’s sales and service operations in Sri Lanka.
+
+Additionally, Ather will also focus on establishing a network of fast-charging infrastructure across the country to facilitate EV adoption.
+
+...
+
+[Data](articles/8424ff59.json)
+
+---
 
 ### If Ranil wins, who is the next Prime Minister?
 
@@ -226,21 +246,27 @@ Former Health Minister Keheliya Rambukwella was arrested on February 2 on charge
 
 ---
 
-### ஜனாதிபதித் தேர்தலில் போட்டியிடுவதை மீள்பரிசீலிப்பாரா சஜித் ? - மனுஷ நாணயக்கார
+### Will Sajith recover the presidential election?- Manu Nanayakkara
 
 *2024-08-22 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/191726) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றியின் பின் ஐக்கிய மக்கள் சக்தியின் பாரளுமன்ற உறுப்பினர்கள் எம்முடன்  இணைவார்கள். எனவே சஜித் பிரேமதாச  தேர்தலில் போட்டியிடுவதை மீள்பரிசீலிப்பாரா என்பது எமக்குத் தெரியவில்லை. அதற்குள் பாரளுமன்ற உறுப்பினர்களுடன் கட்சியின் ஏனைய  உறுப்பினர்களும் வெளியேறி விடுவார்கள் என  தொழில்  மற்றும் வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான ஜனாதிபதியின் ஆலோசகர் மனுஷ நாணயக்கார தெரிவித்தார்.
+Manu Nanayakkara suggests uncertainty over Sajith Premadasa's chances in the upcoming presidential election due to potential shifts in support from the United People's Power to President Ranil Wickremesinghe. Despite this, grassroots support for UNP members remains strong, focusing on leadership qualities rather than political maneuvering. The current administration continues to operate under President Wickremesinghe's guidance, including labor and foreign employment policies.
 
-வியாழக்கிழமை (22) இராஜாங்க அமைச்சர் வடிவேல் சுரேஷின் பதவியேற்பு நிகழ்வின் கலந்து கொண்ட போது  இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-பாராளுமன்றத்தில் தலதா அத்துகோரள ஆற்றிய உரையானது சமகி ஐக்கிய மக்கள் சக்தியின் அடிமட்ட உறுப்பினர்கள் மத்தியில்  எதிரொலிக்கும் அத்துடன் ஐக்கிய தேசியக் கட்சியின்  தலைவரைச் சுற்றி திரளுவதற்கு அவர்களைத் தூண்டும்.
+Members of the United People's Power will join us after the victory of President Ranil Wickremesinghe. So we do not know whether Sajith will reclaim the Premadasa election. The President's Advisor for Industry and Foreign Employment, Manusha Nanayakkara said that the other members of the party would leave with parliamentarians.
 
-ஐக்கிய மக்கள் சக்தியின் கிராம மட்ட உறுப்பினர்கள் அடிப்படையில் ஐக்கிய தேசியக் கட்சியின் அங்கத்தவர்கள். ஆகவே தமது தலைவர் நாட்டைக் கட்டியெழுப்பும் நோக்கில் திட்டமிட்டு செயற்படுகின்றதால், தங்களது  ஆதரவை அவருக்கு வழங்க மக்கள்  தயாராக உள்ளனர்.
+He further stated that he was speaking at the swearing -in ceremony of the Minister of State Vadivel Suresh on Thursday (22).
+
+The speech delivered by the Dalada Attukorala in Parliament will be echoed among the grassroots level members of the United People's Power and provoked them around the leader of the United National Party.
+
+UNP members are based on village level members of the United People's Power. Therefore, people are ready to give their support to him as their leader is planning to build the country.
 
 ...
 
 [Data](articles/8f5b7e38.json)
+
+[Extended Data](ext_articles/8f5b7e38.ext.json)
 
 ---
 
@@ -2297,35 +2323,5 @@ Following the incident, the parents of the 3 -year -old girl, who were informed 
 [Data](articles/c2aef66a.json)
 
 [Extended Data](ext_articles/c2aef66a.ext.json)
-
----
-
-### Bowler recorded in the stick in the wedding match
-
-*2024-08-22 07:07:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cly9d0dx01eo) · `si`
-
-Milan Ratnayake, a Sri Lankan cricketer, made headlines during a test match against England, scoring 72 runs and achieving a half-century. Born on August 1, 1996, he's known for his fast bowling skills and has represented several teams including the SLAF cricket team and Kurunegala Sports Club. His impressive performance in the match, where he broke a 41-year-old record held by Indian player Bishan Bedi against Pakistan, showcases his talent and potential.
-
-🟩
-
-The Sri Lankan batsman of Sri Lankan batsman is the focus of Sri Lankan batsman Milan Ratnayake, who was in the Mangala Ratnayake, who participated in the world to the world.
-
-As a result of the challenge of powerful England bowlers, Milan Ratnayake has been able to exceed the 200zers of the Sri Lankan spectators.
-
-Who is Milan Ratnayake, who broke out two reports in his Mangala Test match?
-
-Milan Ratnayake took his test empty with a former veteran cricketer, Kumar Sangakkara.
-
-Rathnayaka Mudiyansekara's Milantha Ratnayake was born on 1 August 1996.
-
-The school is a fast bowler and is known as a man who is well controlled from the school.
-
-The batsmen are popularly known as a bowler who threatens the ball with the advantage of 6 feet.
-
-...
-
-[Data](articles/6ad23db7.json)
-
-[Extended Data](ext_articles/6ad23db7.ext.json)
 
 ---

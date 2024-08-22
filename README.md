@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 10:36:41**
+As of **2024-08-22 10:55:17**
 
 ## Newspaper Stats
 
-*Scraped **42,034** Articles*
+*Scraped **42,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,72 +17,124 @@ economynextcom | 2,536
 dailyftlk | 2,723
 adalk | 3,871
 dailymirrorlk | 4,733
-adaderanalk | 4,916
+adaderanalk | 4,917
 tamilmirrorlk | 5,452
 virakesarilk | 6,686
-adaderanasinhalalk | 7,170
+adaderanasinhalalk | 7,172
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,030 (100.0%) of 42,034 articles have been extended.
+42,034 (100.0%) of 42,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### ”அனுமதியின்றி கொழும்பைத் தொட வேண்டாம்”
+### "Don't touch Colombo without permission"
 
 *2024-08-22 10:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமதியின்றி-கொழும்பைத்-தொட-வேண்டாம்/175-342620) · `ta`
 
-தமது அனுமதியின்றி அல்லது உரிய கட்டணத்தைச் செலுத்தாமல் தேர்தல் பிரசாரத்திற்காக நகர வீதிகள் அல்லது பொது இடங்களை அலங்கரிக்கும் எந்தவொரு வேட்பாளர் அல்லது அரசியல் கட்சியினருக்கும் எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என கொழும்பு மாநகர சபை (CMC) நேற்று (21) எச்சரித்துள்ளது.
+Colombo Municipal Council warns candidates and political parties about unauthorized decorations during elections, threatening legal action. Over 80 parties received reminders about regulations for city decor. Permission must be sought; otherwise, materials will be removed, and legal consequences will ensue.
 
-ஒன்பதாவது ஜனாதிபதித் தேர்தல் ஜூலை 26ஆம் திகதி அறிவிக்கப்பட்டவுடன், இலங்கை தேர்தல் ஆணைக்குழுவிலிருந்து அங்கீகரிக்கப்பட்ட 80க்கும் மேற்பட்ட அரசியல் கட்சிகளுக்கு பிரச்சாரப் பொருட்களால் தலைநகரை அலங்கரிக்கும் போது தேர்தல் சட்டத்தின் விதிமுறைகளை கடைப்பிடிக்குமாறு நினைவூட்டி கடிதம் அனுப்பியதாக மாநகர சபையின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+🟩
 
-நகரை அலங்கரிக்க விரும்பும் எந்தவொரு வேட்பாளரோ அல்லது அரசியல் கட்சியினரோ அவர்களிடமிருந்து தேவையான அனுமதியைப் பெற வேண்டும் அல்லது அத்தகைய பிரச்சாரப் பொருட்கள் உடனடியாக அமுலுக்கு வரும் வகையில் அகற்றப்பட்டு சட்ட நடவடிக்கை எடுக்கப்படும் என்று ஆணையாளர் பத்ராணி ஜயவர்தன டெய்லி மிரருக்கு தெரிவித்தார்.
+The Colombo Municipal Council (CMC) yesterday (21) warned that legal action would be taken against any candidate or political parties who decorate city roads or public places for election campaign without paying their permission or payments.
+
+A senior official of the Municipal Council said that after the ninth presidential election was announced on July 26, more than 80 political parties approved from the Sri Lanka Election Commission had sent a letter of commemoration to the rules of the election when decorating the capital.
+
+Commissioner Badrani Jayawardena told the Daily Mirror that any candidate or political parties who wish to decorate the city should obtain the necessary permission from them or that such propaganda materials will be removed immediately and legal action will be taken.
 
 ...
 
 [Data](articles/2c8e1dc4.json)
 
+[Extended Data](ext_articles/2c8e1dc4.ext.json)
+
 ---
 
-### மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யும்
+### The rain or thunderstorm
 
 *2024-08-22 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையோ-அல்லது-இடியுடன்-கூடிய-மழையோ-பெய்யும்/175-342617) · `ta`
 
-மேல், சப்ரகமுவ, தென் மற்றும் வடமேல் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Occasional rain or thunderstorms expected in Western, Sabaragamuwa, Southern, North Western Provinces, Kandy, and Nuwara Eliya districts. Rainfall or thundershowers likely in Eastern and Uva provinces in the evening or night. Heavy rainfall possible in Central Highlands' western areas, North, North Central, North Western Provinces, and Hambantota district, reaching speeds of 30-40 km/h. Thundershowers may briefly affect other regions. Public urged to prepare for potential lightning strikes.
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போதுமணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில்ஓரளவு பலத்தகாற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+It is possible to occasionally rain or thunderstorms in the Western, Sabaragamuwa, Southern and North Western Provinces and Kandy and Nuwara Eliya districts.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+In the Eastern and Uva provinces, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+There is a possibility that a large number of rainfall is likely to blow up to 30-40 km / h in the western areas of the Central Highlands, North, North Central and North Western Provinces and Hambantota district.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/41e696d1.json)
 
+[Extended Data](ext_articles/41e696d1.ext.json)
+
 ---
 
-### ”வடக்கு கிழக்கு மாகாணங்கள் இணைக்கப்பட மாட்டாது”
+### විරෝධතාකරුවන්ට එරෙහිව අධිකරණ නියෝගයක්
+
+*2024-08-22 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200199) · `si`
+
+සම සෞඛ්‍ය විද්‍යා උපාධිධාරී එකමුතුව සහ අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බලමණ්ඩලය විසින් අද (22) පැවැත්වීමට නියමිත විරෝධතාවක් සම්බන්ධයෙන් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය නියෝගයක් නිකුත් කර තිබේ.
+
+මරදාන පොලීසියේ ස්ථානාධිපති කළ ඉල්ලීමක් අනුව එම නියෝගය නිකුත් කර තිබුණි.
+
+එම විරෝධතාවය සම සෞඛ්‍ය විද්‍යා උපාධිධාරී එකමුතුව සහ අන්තර් විශ්ව විද්‍යාල ශිෂ්‍ය බලමණ්ඩලය මගින් සංවිධානය කිරීමට නියමිත බව පොලීසිය පවසයි.
+
+සෞඛ්‍ය අමාත්‍යංශය අවට මාර්ගවල ගමනාගමනය අවහිර වන පරිදි වාහන වලට සහ මහජනතාවට බාධාකාරී වන ලෙසට එම විරෝධතාවය පැවැත්වීමට කටයුතු කරන බවට ලැබුණු බුද්ධි තොරතුරක් මත මාළිගාකන්ද අධිකරණයෙන් කළ ඉල්ලීමකට ප්‍රතිචාර ලෙස එම අධිකරණ නියෝගය නිකුත්කර තිබේ.
+
+ඒ අනුව අද දින පෙරවරු 10 සිට රාත්‍රී 9 දක්වා සෞඛ්‍ය අමාත්‍යංශය අවට ඒකරාශී වී අවට ඇති මහා මාර්ගය, පදික වේදිකා භාවිත කළ නොහැකි ලෙස අවහිර කරමින් සිදුකරන උද්ඝෝෂණ සහ සෞඛ්‍ය අමාත්‍යංශය ට ඇතුළු වීම වළක්වාලමින් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් තහනම් නියෝගයක් නිකුත්කර ඇත.
+
+◼️
+
+[Data](articles/927609b2.json)
+
+---
+
+### "The North and Eastern Provinces will not be merged"
 
 *2024-08-22 10:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-மாகாணங்கள்-இணைக்கப்பட-மாட்டாது/175-342616) · `ta`
 
-சவால்களுக்கு தாம் ஒருபோதும் பயப்படுவதில்லை என்றும் சவால்களை தாம் விரும்புவதாகவும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+Namal Rajapaksa, a Sri Lanka PA presidential candidate, emphasizes his readiness to tackle challenges, inspired by his father. He vows to revive the agrarian policies of 2005 and 2015, including farmer fertilizer subsidies. Rajapaksa assures that under his leadership, the Sri Lankan PA government will not merge the Northern and Eastern Provinces nor delegate police and land powers to provincial councils. He commits to preserving language and culture without deceiving the Northern Province populace with false promises.
 
-அநுராதபுரத்தில் இடம்பெற்ற ஜனாதிபதித் தேர்தல் பிரசாரக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றிய அவர், தாம் கொள்கைகளின் அடிப்படையில் அரசியலில் ஈடுபட்டு வருவதாகவும், செயற்திட்டத்துடன் முன்னோக்கிச் செல்லத் தயார் எனவும் தெரிவித்தார்.
+🟩
 
-"நாங்கள் சவால்களுக்கு பயப்படுவதில்லை. நான் சவால்களை விரும்புகிறேன். அதைத்தான் நான் என் தந்தையிடம் கற்றுக்கொண்டேன். நான் யாரையும் வெறுக்கவில்லை. அதனால், எங்கள் மீது சேறு பூசுவது பயனற்றது," என்று அவர் கூறினார்.
+Namal Rajapaksa, the presidential candidate of the Sri Lanka PA, said he would never be afraid of the challenges and he would like to challenge.
 
-2005 மற்றும் 2015 ஆம் ஆண்டுகளில் நடைமுறையில் இருந்த விவசாயக் கொள்கையை நடைமுறைப்படுத்துவேன் என்று கூறிய ராஜபக்ச, விவசாயிகளுக்கு உர மானியம் வழங்குவதாகவும் கூறினார்.
+Speaking at a presidential election campaign meeting in Anuradhapura, he said he was involved in politics based on policies and was ready to go forward with the project.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசாங்கம் மாகாண சபைகளுக்கு பொலிஸ் மற்றும் காணி அதிகாரங்களை வழங்காது எனவும் வடக்கு மற்றும் கிழக்கு மாகாணங்கள் இணைக்கப்பட மாட்டாது எனவும் அவர் வலியுறுத்தியுள்ளார்.
+“We are not afraid of challenges. I like the challenges. That's what I learned from my father. I don't hate anyone. So it is useless to apply mud on us, ”he said.
 
-...
+Rajapakse said he would implement the agrarian policy that was in effect in 2005 and 2015 and said that the farmers were providing fertilizer subsidy.
+
+He stressed that the Sri Lankan PA government will not grant police and land powers to provincial councils and that the Northern and Eastern Provinces will not be merged.
+
+We will protect language and culture, we will only do what we can do, and we will not deceive the people of the Northern Province by making false promises.
+
+◼️
 
 [Data](articles/26547943.json)
+
+[Extended Data](ext_articles/26547943.ext.json)
+
+---
+
+### Court order issued over protests by Allied Health Sciences Graduates, IUSF
+
+*2024-08-22 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101412/court-order-issued-over-protests-by-allied-health-sciences-graduates-iusf) · `en`
+
+The Maligakanda Magistrate’s Court has issued an order preventing Allied Health Sciences Graduates’ Union and the Inter-University Students’ Federation (IUSF) from holding protest marches, entering the Health Ministry, and inconveniencing the public in the area from 10.00 a.m. to 9.00 p.m. today (22).
+
+◼️
+
+[Data](articles/89091410.json)
 
 ---
 
@@ -95,6 +147,8 @@ The Maligakanda Magistrate’s Court has issued an order preventing health secto
 ◼️
 
 [Data](articles/eeeb532f.json)
+
+[Extended Data](ext_articles/eeeb532f.ext.json)
 
 ---
 
@@ -113,6 +167,24 @@ The Commission to Investigate Bribery or Corruption (CIABOC) has announced that 
 [Data](articles/aaf00ccb.json)
 
 [Extended Data](ext_articles/aaf00ccb.ext.json)
+
+---
+
+### රුසියානු අගනුවරට ඩ්‍රෝන ප්‍රහාරයක්
+
+*2024-08-22 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200198) · `si`
+
+රුසියාවේ මොස්කව් අගනුවරට යුක්‍රේනය විසින් දරුණු ඩ්‍රෝන ප්‍රහාරයක් එල්ලකර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඉන් ඩ්‍රෝන 11ක් පමණ රුසියානු ප්‍රහාර හමුවේ විනාශ වී ඇති බව සඳහන් ය.
+
+රුසියානු බලධාරීන් පවසන්නේ 2022 පෙබරවාරි මාසයේදී දෙරට අතර ගැටුම් ආරම්භ වීමෙන් අනතුරුව රුසියානු අගනුවරට එල්ල කළ දරුණුතම ඩ්‍රෝන ප්‍රහාරය මෙය බවයි.
+
+රුසියානු මර්මස්ථාන වෙත එල්ලවන යුක්‍රේන ප්‍රහාරවල වැඩිවීමක් දක්නට ලැබෙන බවද සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/6aaaa036.json)
 
 ---
 
@@ -2193,71 +2265,5 @@ We have put forward many ideas to earn state income. Three state agencies, the D
 [Data](articles/22f582b8.json)
 
 [Extended Data](ext_articles/22f582b8.ext.json)
-
----
-
-### What is the reason for the cancellation of Rishad's funds and allocating a new fund for Musharraf
-
-*2024-08-21 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191610) · `ta`
-
-Rishad Bathiudeen had his allocated funds canceled due to allegations of misuse during elections, with a new Rs. 300 million fund allocated to a ruling party MP. This move sparked controversy, with calls for the Election Commission to intervene against potential illegal use of state funds for electoral purposes.
-
-🟩
-
-Rishad Bathiudeen has canceled the funds allocated to Rishad Bathiudeen in the multi -pronged funds, with a new allocation of Rs. 300 million to the ruling party MP MP. Opposition Leader Sajith Premadasa said the Election Commission should take action on this during the election.
-
-It is an illegal crime to take advantage of state funds when an election is held. The diversified fund, which was allocated to MP Rishad Bathiudeen, has made the diversity of funds because he has decided to work with us in the opposition.
-
-At the same time, the parliamentary Musharraf, which has decided to support the state side, has been allocated for a new 300 million rupee development.. But they are using the money for the election.
-
-This action is completely illegal. So we urge the Election Commission to take action to stop this illegal action.
-
-◼️
-
-[Data](articles/0ec8287a.json)
-
-[Extended Data](ext_articles/0ec8287a.ext.json)
-
----
-
-### Will  Rajitha Senaratne’s Crossover  Trigger More Defections of MPs From SJB to Ranil’s Side?
-
-*2024-08-21 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84559) · `en`
-
-Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha  Senaratne is the latest among well-known politicians to throw in their lot with incumbent president Ranil Wickremesinghe. The Samagi Jana Balawegaya(SJB) MP for Kalutara district met with the president at the Gangaramaya temple in Colombo on 13 August and signed a memorandum of understanding (MOU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for  21 September 2024.Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
-
-Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports,  Senaratne  had stated  this motivated  him into  supporting  Wickremesinghe’s candidacy.
-
-...
-
-[Data](articles/09d4eecc.json)
-
-[Extended Data](ext_articles/09d4eecc.ext.json)
-
----
-
-### Sri Lanka stumbles in the first Test
-
-*2024-08-21 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191661) · `ta`
-
-In the first ICC World Test Championship match against England, Sri Lanka struggled, losing 5 wickets and 80 runs on the first day after deciding to bat first. Key players like Dimuth Karunaratna, Nishan Madushka, Angelo Mathews, Gusal Mendis, and Dinesh Chandimal fell early. The break saw team captain Tanjaya de Silva and Kamindu Mendis yet to bat. England bowlers Chris Woakes, Shoeb Malik, and Mark Wood claimed two wickets each.
-
-🟩
-
-The Sri Lankan team has stumbled up in the first match of the ICC World Test Championships, which began on Wednesday (21) at the Mensterster and Old Traffic Stadium against England.
-
-Sri Lanka, who decided to bat first in the match, lost 5 wickets during the first day of the day and 80 runs.
-
-Dimuth Karunardana (2), Nishan Madushka (4), Angelo Mathews (0), Gusal Mendis (24) and Dinesh Chandimal (17) were unnecessarily lost.
-
-During the break, Sri Lanka's last batsmen, team captain Tanjaya de Silva (24) and Kamindu Mendis (5) were not playing.
-
-Chris Vox in bowling took 2 wickets for 17 runs, Shoeb Bashir took one wicket for 7 runs and Mark Wood took one wicket for 13 runs.
-
-◼️
-
-[Data](articles/eb162b17.json)
-
-[Extended Data](ext_articles/eb162b17.ext.json)
 
 ---

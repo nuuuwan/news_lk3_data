@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 12:55:22**
+As of **2024-08-22 13:06:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,064 (100.0%) of 42,065 articles have been extended.
+42,065 (100.0%) of 42,065 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -308,21 +308,29 @@ The Head of the State expressed these remarks while responding to questions rais
 
 ---
 
-### බදු නොගෙවූ අයගේ බැංකු ගිණුම්  900ක් අත්හිටුවීමට කටයුතු කළා
+### Steps were taken to suspend 900 bank accounts of non-taxes
 
 *2024-08-22 11:17:52* · [`adalk`](https://www.ada.lk/breaking_news/බදු-නොගෙවූ-අයගේ-බැංකු-ගිණුම්--900ක්-අත්හිටුවීමට-කටයුතු-කළා/11-411499) · `si`
 
-ක්‍රම සහ විධි පිළිබඳ කාරක සභාවේ නිර්දේශයකට අනුව බදු නොගෙවූ පුද්ගලයන්ගේ බැංකු ගිණුම් 900ක් පමණ දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් මේ වන විට අත්හිටුවා ඇති බව එම කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා පැවසීය.
+In response to tax evasion, the Inland Revenue Department suspended approximately 900 bank accounts. This action followed the recovery of Rs. 1.2 billion in fines by the Customs Department for illegal gold imports. The Chairman highlighted the loss of Rs. 978 billion in taxes due to relief measures and emphasized the need for stricter enforcement to recover owed taxes.
 
-ක්‍රම සහ විධි පිළිබඳ කාරක සභාවේ තෙවන වාර්තාව ඊයේ (21දා) පාර්ලිමේන්තුවට ඉදිරිපත් කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එමෙන්ම මෙරටට රත්‍රන් ගෙන්වීමේදී ව්‍යාපාර්කයන් 06දෙනෙකුගෙන් දඩ මුදල් ලෙස රුපියල් බිලියන 1.2ක් රේගු දෙපාර්තමේන්තුව විසින් අය කරගෙන ඇති බවද සභාපතිවරයා සඳහන් කළේය.
+The Chairman of the Committee, the Chairman of the Committee, said that about 900 bank accounts of the Inland Revenue Department had been suspended by the Inland Revenue Department.
 
-එහිදී වැඩිදුරටත් ක්‍රම සහ විධි පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+He was speaking at the third report of the Committee on Methods and Method to parliament yesterday (21).
+
+The Customs Department has recovered Rs. 1.2 billion as a fine of six projecters to import gold.
+
+The Chairman of the Committee and the Chairman of the Committee Patali Champika Ranawaka said:
+
+"We consider targets on public revenue within the first six months. 978 billion rupees in last year was lost due to tax relief. More than Rs.. Accordingly, according to our order, the Inland Revenue Department has issued about 900 orders of the suspension of Rs. 900.
 
 ...
 
 [Data](articles/11b13a7f.json)
+
+[Extended Data](ext_articles/11b13a7f.ext.json)
 
 ---
 

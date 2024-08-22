@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 09:56:07**
+As of **2024-08-22 10:08:16**
 
 ## Newspaper Stats
 
-*Scraped **42,028** Articles*
+*Scraped **42,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 403
 islandlk | 2,439
 economynextcom | 2,536
 dailyftlk | 2,723
-adalk | 3,870
+adalk | 3,871
 dailymirrorlk | 4,733
 adaderanalk | 4,915
-tamilmirrorlk | 5,448
+tamilmirrorlk | 5,449
 virakesarilk | 6,686
 adaderanasinhalalk | 7,170
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 7,170
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,026 (100.0%) of 42,028 articles have been extended.
+42,028 (100.0%) of 42,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### சொத்து விபரங்களை  இணையத்தளத்தில் பார்வையிடலாம்
+
+*2024-08-22 09:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்து-விபரங்களை-இணையத்தளத்தில்-பார்வையிடலாம்/175-342615) · `ta`
+
+இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிப்பதற்கான ஆணைக்குழு (CIABOC) ஜனாதிபதி வேட்பாளர்களின் சொத்துப் பிரகடனங்களை இப்போது அதன் உத்தியோகபூர்வ இணையத்தளத்தில் பொதுமக்கள் பார்வையிட முடியும் என அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/aaf00ccb.json)
+
+---
 
 ### Divers recover 5 bodies from wrecked superyacht off Sicily; 1 still missing
 
@@ -46,21 +58,29 @@ The discovery made clear the operation to search the hull on the seabed 50 meter
 
 [Data](articles/26ef85e8.json)
 
+[Extended Data](ext_articles/26ef85e8.ext.json)
+
 ---
 
-### මහින්දගේ විශ්වාසය
+### Mahinda's trust
 
 *2024-08-22 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200197) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් වෙන්ව කටයුතු කරන පාර්ශ්වයන් ට ඉදිරියේ දී යළි පක්ෂය වෙත පැමිණීමට සිදුවනු ඇති බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+Mahinda Rajapaksa, former president of Sri Lanka, announced his party's return to the Sri Lanka General Front. He criticized individuals supporting other parties over theirs during the inaugural rally at the Salgadu Stadium, Anuradhapura.
 
-ඔහු පෙන්වා දෙන්නේ ඇතැම් පුද්ගලයින් පටු දේශපාලන වාසි තකා සිය පක්ෂයට සහාය නොදක්වා වෙනත් පක්ෂයකට සහාය දැක්වීමට කටයුතු කරමින් සිටින බවය.
+🟩
 
-අනුරාධපුර සල්ගාදු ක්‍රීඩාංගණයේ පැවති ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ සමාරම්භක රැලිය අමතමින් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මෙම අදහස් පළ කළේය.
+Former President Mahinda Rajapaksa says that the party will return to the party in the Sri Lanka General Front.
+
+He points out that some people are working to support another party without supporting their party.
+
+Former President Mahinda Rajapaksa addressing the inauguration rally at the Sri Lanka General Front held at the Salgadu Stadium, Anuradhapura.
 
 ◼️
 
 [Data](articles/1b8e92f1.json)
+
+[Extended Data](ext_articles/1b8e92f1.ext.json)
 
 ---
 
@@ -1724,6 +1744,24 @@ In addition, Cabinet approval has been given to provide a fertilizer subsidy for
 
 ---
 
+### උද්ධමනය ඉහළට
+
+*2024-08-21 19:41:01* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-411496) · `si`
+
+මෙරට උද්ධමනය ඉහළ ගොස් තිබේ. මෙරට ආහාර කාණ්ඩයේ උද්ධමනය නැවත වරක් ඉහළ ගොස් තිබේ. එනමුත් ආහාර නොවන කාණ්ඩයේ උද්ධමනය අඩු වී තිබේ.
+
+ඒ අනුව 2024ජුනි මාසයේදී 2.4% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය2024ජූලි මාසය සඳහා 2.5%ක් දක්වා වැඩි වී ඇත.
+
+ඒ අනුව2024ජුනි මාසයේදී 1.9% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය2024ජූලි මාසයේදී 2.9%ක් දක්වා ඉහළ ගොස් තිබේ.
+
+එමෙන්ම2024 ජුනි මාසයේදී 2.7%ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය2024ජූලි මාසයේදී 2.2%ක් දක්වා අඩු වී ඇත.
+
+◼️
+
+[Data](articles/ca4551b8.json)
+
+---
+
 ### Free Visa Access to 35 countries
 
 *2024-08-21 19:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-நாடுகளுக்கு-இலவச-விசா-அணுகல்/175-342586) · `ta`
@@ -2231,53 +2269,5 @@ A visibly emotional Athukoarala expressed deep regret over the division of the U
 [Data](articles/43c8d77b.json)
 
 [Extended Data](ext_articles/43c8d77b.ext.json)
-
----
-
-### Committee member MPs are named to consider two bills
-
-*2024-08-21 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200183) · `si`
-
-Eight MPs have been appointed to review two bills: the Provincial Council Elections Bill and the Parliamentary Elections Amendment Bill, following parliamentary standing orders. The committee includes legal professionals like Dr. Susil Premajayantha, Prasanna Ranatunga, and others, tasked with amendments to both election laws.
-
-🟩
-
-The Committee Member MPs have been named to address the Provincial Council Elections Bill and the Parliamentary Elections Amendment Bill.
-
-According to the Standing Orders of Parliament, "Provincial Council Elections (Amendment)" According to the Standing Orders of Parliament, eight parliamentarians have been named by the Legislative Standing Committee.
-
-A lawyer (Dr.) Susil Premajayantha, Prasanna Ranatunga, Chamara Sampath Dasanayake, Attorneys Chandima Weerakkody, Mano Ganeshan, Iran Wickramaratne and Jagath Kumara Sumnestyrachchi.
-
-According to the Standing Orders of Parliament, "Parliamentary Elections (Amendment)" in the Standing Orders (Amendment) "has been named by the Legislative Standing Committee as Additional Member Midens as Additional Member Midens.
-
-Attorney at Law Pavithradeviarachchi, Kanchana Wijesara, Pipaina Bandara Tennakoon, King Bandara Tennakara, Anuradha Jayaratne, Attorney Chandima Weerakkody, Mano Ganeshan and Iran Wickramaratne.
-
-◼️
-
-[Data](articles/60d5e84b.json)
-
-[Extended Data](ext_articles/60d5e84b.ext.json)
-
----
-
-### Landslide in China's Leoning
-
-*2024-08-21 17:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவின்-லியோனிங்கில்-நிலச்சரிவு/50-342579) · `ta`
-
-Heavy rains in China's Liaoning province triggered floods and landslides, stranding over 300 people and cutting off communication. Rescue efforts are underway, including helicopter missions, to aid the affected rural areas.
-
-🟩
-
-Heavy rains have caused floods and landslides in the rural areas of Liaoning, the northeastern province of China.
-
-Chinese media reports that more than 300 people are trapped and communications have been cut off.
-
-Rescuers have rushed throughout the province to assist the affected areas, as helicopters are under rescue operations.
-
-◼️
-
-[Data](articles/1f81cc2a.json)
-
-[Extended Data](ext_articles/1f81cc2a.ext.json)
 
 ---

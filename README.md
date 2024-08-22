@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 22:11:35**
+As of **2024-08-22 22:23:08**
 
 ## Newspaper Stats
 
-*Scraped **42,135** Articles*
+*Scraped **42,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,938
 tamilmirrorlk | 5,469
 virakesarilk | 6,699
-adaderanasinhalalk | 7,191
+adaderanasinhalalk | 7,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,134 (100.0%) of 42,135 articles have been extended.
+42,135 (100.0%) of 42,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### බෙන්තර ගඟේ අනතුරක් - දෙදෙනෙකු අතුරුදන්
+
+*2024-08-22 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200219) · `si`
+
+බෙන්තර ගඟේ සංචාරක බෝට්ටු දෙකක් මුහුණට මුහුණ ගැටී සිදුවූ අනතුරකින් පුද්ගලයන් දෙදෙනෙකු අතුරුදන්වී තිබේ.
+
+අද (22) පස්වරුවේ මෙලෙස අනතුරට ලක්වී ඇත්තේ අලුත්ගම ප්‍රදේශයේ සංචාරක හෝටලයක සේවය නිමවා පිරිසක් රැගෙන යාත්‍රා කළ බෝට්ටුවක් සහ බෙන්තර පොලිස් බලප්‍රදේශයේ පිහිටි සංචාරක බෝට්ටුවකි.
+
+අනතුරින් අතුරුදන්ව ඇත්තේ බෙන්තර සංචාරක හෝටලයකින් පැමිණි දෙදෙනෙක් බව වාර්තා වෙයි.
+
+මේ වන විට අතුරුදන්වී සිටින පුද්ගලයන් සොයා විමර්ශන පවත්වන අතර සිද්ධිය පිළිබඳව නාවික හමුදාව ද දැනුවත් කර තිබේ.
+
+◼️
+
+[Data](articles/ba2afb59.json)
+
+---
 
 ### Family living in makeshift hut atop tree with newborn triplets receive new home
 
@@ -47,6 +65,8 @@ The family had been living in dire conditions without basic amenities while the 
 ...
 
 [Data](articles/0c53fda7.json)
+
+[Extended Data](ext_articles/0c53fda7.ext.json)
 
 ---
 
@@ -2343,23 +2363,5 @@ Former President Mahinda Rajapaksa addressing the inauguration rally at the Sri 
 [Data](articles/1b8e92f1.json)
 
 [Extended Data](ext_articles/1b8e92f1.ext.json)
-
----
-
-### Sri Lanka to host national event in preparation for UN Summit of the Future
-
-*2024-08-22 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101410/sri-lanka-to-host-national-event-in-preparation-for-un-summit-of-the-future) · `en`
-
-The Presidential Secretariat, the Ministry of Foreign Affairs and the United Nations Office in Sri Lanka will host a National Event today (22) at the Presidential Secretariat, in preparation for Sri Lanka’s participation at the Summit of the Future convened by the United Nations from 22-23 September 2024 in New York.
-
-The national event aims to highlight Sri Lanka’s priorities and contributions towards the objectives of the Summit of the Future and the proposed Pact for the Future, which will be adopted as the Outcome Document of the Summit, the Foreign Ministry said in a statement.
-
-The Pact for the Future is expected to serve as a comprehensive framework to advance international cooperation and address pressing global issues, including extreme poverty, climate change, digital governance, peace and security, and sustainable development.
-
-...
-
-[Data](articles/a28bfd22.json)
-
-[Extended Data](ext_articles/a28bfd22.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 02:06:51**
+As of **2024-08-23 02:21:50**
 
 ## Newspaper Stats
 
-*Scraped **42,150** Articles*
+*Scraped **42,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,110 @@ adalk | 3,884
 dailymirrorlk | 4,733
 adaderanalk | 4,939
 tamilmirrorlk | 5,471
-virakesarilk | 6,702
+virakesarilk | 6,705
 adaderanasinhalalk | 7,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,150 (100.0%) of 42,150 articles have been extended.
+42,153 (100.0%) of 42,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### JVP. If the regime was overcome, Sri Lanka would have become a underworld - Duminda Dissanayake
+
+*2024-08-23 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/191744) · `ta`
+
+Duminda Dissanayake warns that if the regime had been overthrown, Sri Lanka could've descended into chaos. He advocates for national unity and support for Ranil Wickremesinghe, emphasizing the importance of overcoming political divides for the country's progress.
+
+🟩
+
+People believe that everyone will unite to build the country. The political party is not required to win every day. JVP. If the regime was overcome, Sri Lanka would have become a underworld. Parliamentarian Duminda Dissanayake has called for a joint support for the country to redeem the country, regardless of the election.
+
+He further stated at a press conference held at Bambalapatti on Thursday (22).
+
+Some say that 134 MPs voted and elected Ranil Wickremesinghe as president.. In fact, if he was not elected president on that day, there would have been a situation like Bangladesh.
+
+Former JVP parliamentarian Lal called for the last two years that he would take over the magnetic parliament and pass the laws he needed for himself.. If he had given up on that day, Sri Lanka would have been left without the rule and the rulers like Bangladesh.
+
+...
+
+[Data](articles/5e63a484.json)
+
+[Extended Data](ext_articles/5e63a484.ext.json)
+
+---
+
+### VFS Visa System issue: Violation of court order is serious - MA Sumanthiran
+
+*2024-08-23 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191743) · `ta`
+
+The Supreme Court found the President guilty of violating citizens' rights post-local elections. MPs from the TNA criticized the government's new visa system, calling it a financial scam and a deliberate disregard of a High Court injunction. They vowed to address these issues, highlighting the need for accountability and adherence to legal orders.
+
+🟩
+
+The Supreme Court has ruled that the President has violated the fundamental rights of the people after the local government elections.
+
+VFS. Minister and State officials deliberately violate the verdict on the issue. Sri Lanka Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said, "We will create an environment for that."
+
+MPs MA Sumanthiran, Rauf Hakeem and Patali Champika Ranawaka held a media briefing in Colombo on Thursday (22).
+
+The government's decision to change the existing visa distribution system and introduce the new system has been a massive financial fraud. The government has been able to make a committee of funding.
+
+The High Court has issued an interim injunction to the new visa system in accordance with these petitions. The High Court had categorically advised that the new system implemented and re -implemented the old system.
+
+...
+
+[Data](articles/ae8534d7.json)
+
+[Extended Data](ext_articles/ae8534d7.ext.json)
+
+---
+
+### Jaffna District Organizer of the United People's Power
+
+*2024-08-23 01:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191742) · `ta`
+
+Victor Stanley, a United People's Power Organizer, supports President Ranil Wickremesinghe for the presidency, citing his leadership during crises and promise to rebuild the country. Stanley criticizes Sajith Premadasa for not taking responsibility during tough times. The statement emphasizes Wickremesinghe's efforts to normalize the country after past challenges and urges voters not to revert to previous failures.
+
+🟩
+
+The United People's Power Organizer Victor Stanley, who announced his support to the current President Ranil Wickremesinghe, who is contesting as an independent candidate in the upcoming presidential election, said this when he met the President at the political office on Wednesday (21), Colombo.
+
+At the time, President Ranil Wickremesinghe's Jaffna District Christian Religious Affairs Coordinator was appointed as Victor Stanley.
+
+Sajith Premadasa, who is demanding the leadership of the country today, said that the country and the people were not in charge of the country and that no one who was silent when the people were in a state of severe crisis were inappropriate for the leadership of the country.
+
+He said that the current President Ranil Wickremesinghe, who was a member of Parliament, accepted the challenge to build the country and that the president's victory in the upcoming presidential election would be the victory of the entire country.
+
+...
+
+[Data](articles/0eb46f1a.json)
+
+[Extended Data](ext_articles/0eb46f1a.ext.json)
+
+---
+
+### Presidential Candidate Dr. Etirus Illiyas has passed away
+
+*2024-08-23 01:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191739) · `ta`
+
+Dr. Eidurus Illiyas, a former MP and presidential candidate, unexpectedly passed away on Thursday, 22nd.
+
+🟩
+
+The presidential candidate and former MP, Dr. Eidurus Illiyas, passed away on Thursday 22nd.
+
+◼️
+
+[Data](articles/a8a7654a.json)
+
+[Extended Data](ext_articles/a8a7654a.ext.json)
+
+---
 
 ### The death of the presidential candidate
 
@@ -143,24 +235,6 @@ He said that he was unable to understand the bizarre film of life and that he wa
 [Data](articles/693094e6.json)
 
 [Extended Data](ext_articles/693094e6.ext.json)
-
----
-
-### Presidential Candidate Dr. Etirus Illiyas has passed away
-
-*2024-08-22 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/191739) · `ta`
-
-Dr. Eidurus Illiyas, a former MP and presidential candidate, unexpectedly passed away on Thursday, 22nd.
-
-🟩
-
-The presidential candidate and former MP, Dr. Eidurus Illiyas, passed away on Thursday 22nd.
-
-◼️
-
-[Data](articles/a8a7654a.json)
-
-[Extended Data](ext_articles/a8a7654a.ext.json)
 
 ---
 
@@ -2313,75 +2387,5 @@ In equities, Colombo’s All Share Price Index opened 7.67 points higher at 11,4
 [Data](articles/67526e6c.json)
 
 [Extended Data](ext_articles/67526e6c.ext.json)
-
----
-
-### “Don't touch without permission”
-
-*2024-08-22 10:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமதியின்றி-தொட-வேண்டாம்/175-342620) · `ta`
-
-The Colombo Municipal Council warns candidates and political parties about unauthorized decorations on city roads for election campaigns, threatening legal action. Over 80 political parties were reminded of election rules post the announcement of the ninth presidential election. Any unapproved decorations will be removed, and violators may face legal consequences.
-
-🟩
-
-The Colombo Municipal Council (CMC) yesterday (21) warned that legal action would be taken against any candidate or political parties who decorate city roads or public places for election campaign without paying their permission or payments.
-
-A senior official of the Municipal Council said that after the ninth presidential election was announced on July 26, more than 80 political parties approved from the Sri Lanka Election Commission had sent a letter of commemoration of the rules of the election when decorating the capital.
-
-Commissioner Badrani Jayawardena told the Daily Mirror that any candidate or political parties who wish to decorate the city should obtain the necessary permission from them or that such propaganda materials will be removed immediately and legal action will be taken.
-
-...
-
-[Data](articles/05ddca4e.json)
-
-[Extended Data](ext_articles/05ddca4e.ext.json)
-
----
-
-### "Don't touch Colombo without permission"
-
-*2024-08-22 10:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமதியின்றி-கொழும்பைத்-தொட-வேண்டாம்/175-342620) · `ta`
-
-Colombo Municipal Council warns candidates and political parties about unauthorized decorations during elections, threatening legal action. Over 80 parties received reminders about regulations for city decor. Permission must be sought; otherwise, materials will be removed, and legal consequences will ensue.
-
-🟩
-
-The Colombo Municipal Council (CMC) yesterday (21) warned that legal action would be taken against any candidate or political parties who decorate city roads or public places for election campaign without paying their permission or payments.
-
-A senior official of the Municipal Council said that after the ninth presidential election was announced on July 26, more than 80 political parties approved from the Sri Lanka Election Commission had sent a letter of commemoration to the rules of the election when decorating the capital.
-
-Commissioner Badrani Jayawardena told the Daily Mirror that any candidate or political parties who wish to decorate the city should obtain the necessary permission from them or that such propaganda materials will be removed immediately and legal action will be taken.
-
-...
-
-[Data](articles/2c8e1dc4.json)
-
-[Extended Data](ext_articles/2c8e1dc4.ext.json)
-
----
-
-### Introduction of the Flag of the Tamil Nadu Victory Association
-
-*2024-08-22 10:13:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-வெற்றிக்-கழகத்தின்-கொடி-அறிமுகம்/175-342618) · `ta`
-
-Actor Vijay unveiled the Tamil Nadu Victory Council's flag, featuring a surrogate flower between two war elephants on a red and yellow background, symbolizing the party's policies and future plans. This move comes ahead of the 2026 assembly elections, where Vijay aims to lead the party. The event, held at the party's headquarters in Panayoor, Chennai, also saw the release of a song detailing the party's objectives. Leaders like Seeman and GK Vasan congratulated Vijay on his initiative.
-
-🟩
-
-Vijay, the leader and actor of the party, introduced the flag of the Tamil Nadu Victory Council on Thursday (22) at the headquarters in Panayoor, Chennai.
-
-The party flag is designed with a surrogate flower between two war elephants in the red and yellow flag, and a song containing the party's policies and future plans.
-
-Vijay, who inaugurated the Tamil Nadu Victory Corporation, is in the 2026 assembly elections. Prior to that, he had initiated measures to bring the party's name and flag to the people.
-
-As part of that, the party flag was introduced to the public and volunteers today. At the party office located in Panayoor, Vijay, who flagged a little earlier, released a song containing party policies and future plans.
-
-Accordingly, Tamil Nadu Coordinator Seeman and Tamil Nadu Congress leader GK Vasan congratulated actor Vijay.
-
-◼️
-
-[Data](articles/c9415ae8.json)
-
-[Extended Data](ext_articles/c9415ae8.ext.json)
 
 ---

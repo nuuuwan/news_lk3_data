@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 05:21:36**
+As of **2024-08-22 05:39:55**
 
 ## Newspaper Stats
 
-*Scraped **41,997** Articles*
+*Scraped **41,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,722
 adalk | 3,868
 dailymirrorlk | 4,733
 adaderanalk | 4,910
-tamilmirrorlk | 5,443
+tamilmirrorlk | 5,444
 virakesarilk | 6,686
 adaderanasinhalalk | 7,167
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,997 (100.0%) of 41,997 articles have been extended.
+41,997 (100.0%) of 41,998 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,6 +79,18 @@ President Gotabhaya Rajapakse has deceived the people of the country and the Cat
 [Data](articles/daebebd1.json)
 
 [Extended Data](ext_articles/daebebd1.ext.json)
+
+---
+
+### 35 நாடுகளுக்கு இலங்கை வர இலவச விசா
+
+*2024-08-22 02:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-நாடுகளுக்கு-இலங்கை-வர-இலவச-விசா/175-342611) · `ta`
+
+இங்கிலாந்து, அமெரிக்கா, கனடா, ஜெர்மனி, அவுஸ்திரேலியா, சவூதி அரேபியா, சீனா, இந்தியா, ரஷ்யா, தென் கொரியா மற்றும் ஜப்பான் உள்ளிட்ட 35 நாடுகளின் பிரஜைகளுக்கு 2024 ஆம் ஆண்டு ஒக்டோபர் 01 ஆம் திகதி முதல் 06 மாதங்களுக்கு இலங்கைக்கு விசா இன்றி அனுமதி வழங்க அமைச்சரவை தீர்மானித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/e1c4afcb.json)
 
 ---
 
@@ -2309,31 +2321,5 @@ As Mukesh activated a new SIM card on his cell phone, it was revealed that he wa
 [Data](articles/b43f3628.json)
 
 [Extended Data](ext_articles/b43f3628.ext.json)
-
----
-
-### Court of court regarding the petition for Keheliya
-
-*2024-08-21 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200176) · `si`
-
-Keheliya Rambukwella, former Health Minister, faces charges over substandard antibodies. A petition filed by the Maligakanda Magistrate's Court seeks his release from remand. The case was heard by Colombo High Court Judge Sujeewa Nissanka, who directed the respondents to file objections by September 12. Deputy Solicitor General Lakhaji Giriahagama represented the respondents.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella, who was arrested on suspicion of substandard antibodies, and the Petition filed by the Maligakanda Magistrate's Court in remand to the respondents to respond to the respondents today.
-
-When the petition was taken up before Colombo High Court Judge Sujeewa Nissanka, the judge was ordered that the petition would decide notice to hear the petition.
-
-Deputy Solicitor General Lakhaji Giriahagama, who appeared for the respondents, who appeared for the respondents, said to file protests for the petition.
-
-The judge ordered to take action to file the protests on September 12.
-
-The Maligakanda Magistrate's directive to the law was filed against the law, who was arrested on suspicion of prices and the injection of antibodies.
-
-◼️
-
-[Data](articles/6b097636.json)
-
-[Extended Data](ext_articles/6b097636.ext.json)
 
 ---

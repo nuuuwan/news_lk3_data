@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 21:21:14**
+As of **2024-08-22 21:37:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,132 (100.0%) of 42,133 articles have been extended.
+42,133 (100.0%) of 42,133 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,25 +64,31 @@ Accordingly, steps have been taken to seal this place by the Consumer Affairs Au
 
 ---
 
-### தெற்கு அதிவேக வீதியில் பயணித்த கார் ஒன்று பாதுகாப்பு வேலியிலும் சொகுசு தனியார் பஸ்ஸிலும் மோதி விபத்து
+### A car traveling on Southern Expressway crashed into a security fence and luxury private buses
 
 *2024-08-22 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191737) · `ta`
 
-மாத்தறையில் இருந்து கொழும்பு நோக்கி வந்த கார் வீதியின் நடுவில் உள்ள பாதுகாப்பு வேலியில் மோதியதுடன் மொனராகலையில் இருந்து கொழும்பு நோக்கி பயணித்த சொகுசு தனியார் பஸ்ஸிலும் மோதி விபத்துக்குள்ளாகியுள்ளது.
+A car crash on the Southern Expressway involved a vehicle from Matara to Colombo hitting a security fence and a private bus from Moneragala to Colombo. Additionally, a car carrying a Hambantota hospital doctor and two children collided on the southern highway near the Battegama Highway entrance. Two brothers and their mother, aged 16 and 21, were injured; the older brother was driving. Quick actions by passing drivers aided in rescuing the victims.
 
-ஹம்பாந்தோட்டை பொது வைத்தியசாலையின் விசேட வைத்தியர் ஒருவரின் மனைவி மற்றும் இரண்டு பிள்ளைகள் பயணித்த கார் தெற்கு அதிவேக வீதியில் விபத்துக்குள்ளாகியுள்ளது.
+🟩
 
-பத்தேகம அதிவேக வீதி நுழைவாயிலுக்கு அருகில் கிமீ 80. 9 தூண் அருகில் இந்த விபத்து இடம்பெற்று உள்ளது.
+The car from Matara to Colombo crashed into a security fence in the middle of the road and crashed into a private bus traveling from Moneragala to Colombo.
 
-இவ்விபத்தில் 16 மற்றும் 21 வயதுடைய இரு மகன்களும் அவர்களது தாயும் காயமடைந்துள்ளனர்.
+A car traveling by a special doctor at the Hambantota General Hospital and two children crashed on the southern high -speed road.
 
-விபத்தின் போது 21 வயது மகனே காரை செலுத்தி வந்ததாக பொலிஸார் தெரிவிக்கின்றனர்.
+Km 80 near the entrance to the Battegama Highway. The accident occurred near the 9 pillar.
 
-அந்த வழியாக சென்ற சாரதிகள் காரில் சிக்கியவர்களை மீட்டு வைத்தியசாலையில் அனுமதிக்க துரித நடவடிக்கை எடுத்திருந்தனர்.
+Two sons and their mother, aged 16 and 21, were injured in the incident.
+
+Police say the 21 -year -old son was driving the car during the accident.
+
+Drivers who passed through the car took swift action to rescue the victims.
 
 ◼️
 
 [Data](articles/547c0030.json)
+
+[Extended Data](ext_articles/547c0030.ext.json)
 
 ---
 

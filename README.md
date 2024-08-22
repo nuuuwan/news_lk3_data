@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 22:37:01**
+As of **2024-08-22 22:55:20**
 
 ## Newspaper Stats
 
-*Scraped **42,136** Articles*
+*Scraped **42,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 2,547
 dailyftlk | 2,723
 adalk | 3,884
 dailymirrorlk | 4,733
-adaderanalk | 4,938
+adaderanalk | 4,939
 tamilmirrorlk | 5,469
 virakesarilk | 6,699
-adaderanasinhalalk | 7,192
+adaderanasinhalalk | 7,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,136 (100.0%) of 42,136 articles have been extended.
+42,136 (100.0%) of 42,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### පිළිගත් තැපැල් ඡන්ද අයදුම්පත් සංඛ්‍යාව - වැඩිම කුරුණෑගල
+
+*2024-08-22 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200221) · `si`
+
+2024 සැප්තැම්බර් 21 පැවැත්වීමට නියමිත ජනාධිපතිවරණයට අදාළ පිළිගත් තැපැල් ඡන්ද අයදුම්පත් පිළිබඳ විස්තර මැතිවරණ කොමිෂන් සභාව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව තැපැල් ඡන්දය ප්‍රකාශ කිරීම සඳහා පුද්ගලයින් 712,319 දෙනෙකු සුදුසුකම් ලබා ඇත.
+
+◼️
+
+[Data](articles/80a6ada5.json)
+
+---
+
+### මම කනගාටු වෙන්නේ නැහැ - ජනපති
+
+*2024-08-22 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200220) · `si`
+
+ආර්ථික අර්බුදය විසඳනු වෙනුවට පළාත් පාලන ඡන්දය පැවැත්වූයේ නම් සිදුවන්නේ කුමක්දැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රශ්න කරයි.
+
+මහරගම තරුණ සේවා සභා ශ්‍රවණාගාරයේදී අද (22) පැවැත්වූ නව ජනතා පෙරමුණේ ජාතික මහා සම්මේලනට එක්වෙමින් ජනාධිපතිවරයා මේ බව පැවසීය.
+
+"පොලිම් තිබුණා හැමතැනම. ගෑස් පෝලිම ඉවරවෙනකොට පෙට්‍රල් පෝලිම පටන් ගන්නවා. පෙට්‍රල් පෝලිම ඉවරවෙනකොට බෙහෙත් පෝලිම පටන් ගන්නවා."
+
+"මෙහෙම පෝලිම් තිබුණේ. ඔබ සියලු දෙනාම අමාරුවෙන් ජීවත්වුණේ. අලුතෙන් කියන්න වුවමනා නැහැ. මම දන්නවා ඒ වින්ද දුක."
+
+"දැන් අවුරුදු දෙකක් ඇවිල්ලා අර්ථිකය ස්ථාවර කරලා තිබෙනවා. අපි පෝලිම් නැති කරලා තියෙනවා. ආදායම් වැඩි කරලා තියෙනවා. සමහර භාණ්ඩවල මිල අඩුවෙලා තියෙනවා. මේ ඔක්කොම තියෙනවා."
+
+"ඒත් තවමත් බරක් මේ රටේ ජනතාවට තියෙනවා. නැහැ කියන්නේ නැහැ. ඒකත් අපි ඊළඟ අවුරුදු දෙකේ විතර නැති කරනවා."
+
+"මේ ඔක්කොම අමතක කරලා මම ප්‍රාදේශීය සභා, නගර සභා ඡන්දය තිබ්බා නම් මොකක්ද වෙන්නේ. එච්චරයි මන් අහන්නේ. ඔබතුමන්ලා තීරණය කරන්න."
+
+මගේ කිසිම කනගාටුවක් නැහැ මේක කල්දාපු එක ගැන. ජනතාවට ජීවත්වීමේ අයිතියට මම ගරු කළා. ඡන්ද අයිතියටත් මම ගරු කළා.
+
+◼️
+
+[Data](articles/7e3e9a45.json)
+
+---
+
+### If time was spent conducting LG polls, country’s economy might not recover – President
+
+*2024-08-22 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101433/if-time-was-spent-conducting-lg-polls-countrys-economy-might-not-recover-president-) · `en`
+
+President Ranil Wickremesinghe today acknowledged that postponing the Local Government elections is a violation of citizens’ basic rights. However, he stated that he does not regret this decision, as the time was dedicated to ensuring the people’s right to live and maintaining their safety.
+
+The President made these remarks while addressing the National Conference of the New People’s Front (NPF) at the Youth Service Council Auditorium in Maharagama this afternoon (22).
+
+Emphasizing his respect for both the right to vote and the right to live, the President also noted that every hour was crucial in the effort to stabilize the country’s economy.
+
+Wickremesinghe stressed that had he devoted that time to conducting the Local Government elections, achieving economic stability would not have been possible.
+
+He highlighted that people cannot maintain their day to day lives without essentials such as gas, medicine, food, and fuel.
+
+...
+
+[Data](articles/8106dd19.json)
+
+---
 
 ### A accident in Bentara River - Two disappeared
 
@@ -2301,73 +2361,5 @@ It is said that Ukrainian attacks on the Russian mametics will be increased.
 [Data](articles/6aaaa036.json)
 
 [Extended Data](ext_articles/6aaaa036.ext.json)
-
----
-
-### Six chances of Sri Lankan government kicking on orders of the Supreme Court
-
-*2024-08-22 09:32:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clygrl4xx70o) · `si`
-
-The Supreme Court has ordered the Sri Lankan government to hold local elections, but the government hasn't responded. This follows six historical instances where the government ignored Supreme Court orders, including promotions, judicial decisions, and financial matters. These cases highlight tensions between the judiciary and executive branches, affecting basic human rights and governance issues.
-
-🟩
-
-The Supreme Court today (Augksha 22), the President and the Elections Commission members have violated basic human rights as the Minister of Finance.
-
-Accordingly, the Supreme Court ordered the Election Commission to ensure the election.
-
-However, does the government hold the local government election by accepting the order?The government has not commented on this.
-
-Meanwhile, Prime Minister Dinesh Gunawardena recently stated in parliament that the defense of Sri Lanka Tennakoon prevented the post of Prime Minister.
-
-This is not the first time the government stated that the Supreme Court orders cannot be implemented. Six such occasions meet in history
-
-1. Brigadier's order to be promoted to Pary Liyanage to the Position
-
-...
-
-[Data](articles/e5bed005.json)
-
-[Extended Data](ext_articles/e5bed005.ext.json)
-
----
-
-### Divers recover 5 bodies from wrecked superyacht off Sicily; 1 still missing
-
-*2024-08-22 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101411/divers-recover-5-bodies-from-wrecked-superyacht-off-sicily-1-still-missing) · `en`
-
-Divers searching the wreck of a superyacht that sank off Sicily found the bodies of five passengers Wednesday, leaving one still missing as questions intensified about why the vessel sank so quickly when a nearby sailboat remained largely unscathed.
-
-Rescue crews brought four body bags ashore at Porticello. Salvatore Cocina, head of the Sicily civil protection agency, said a fifth body had been located. Divers on-scene said they would try to recover it on Thursday while continuing the search for the sixth.
-
-The discovery made clear the operation to search the hull on the seabed 50 meters (164 feet) underwater had quickly turned into a recovery one, not a rescue, given the amount of time that had passed and with no signs of life over three days of searching.
-
-...
-
-[Data](articles/26ef85e8.json)
-
-[Extended Data](ext_articles/26ef85e8.ext.json)
-
----
-
-### Mahinda's trust
-
-*2024-08-22 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200197) · `si`
-
-Mahinda Rajapaksa, former president of Sri Lanka, announced his party's return to the Sri Lanka General Front. He criticized individuals supporting other parties over theirs during the inaugural rally at the Salgadu Stadium, Anuradhapura.
-
-🟩
-
-Former President Mahinda Rajapaksa says that the party will return to the party in the Sri Lanka General Front.
-
-He points out that some people are working to support another party without supporting their party.
-
-Former President Mahinda Rajapaksa addressing the inauguration rally at the Sri Lanka General Front held at the Salgadu Stadium, Anuradhapura.
-
-◼️
-
-[Data](articles/1b8e92f1.json)
-
-[Extended Data](ext_articles/1b8e92f1.ext.json)
 
 ---

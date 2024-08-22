@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 22:55:20**
+As of **2024-08-22 23:06:58**
 
 ## Newspaper Stats
 
@@ -26,49 +26,59 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,136 (100.0%) of 42,139 articles have been extended.
+42,139 (100.0%) of 42,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### පිළිගත් තැපැල් ඡන්ද අයදුම්පත් සංඛ්‍යාව - වැඩිම කුරුණෑගල
+### Number of reputed postal voting applications - Highest Colombo
 
 *2024-08-22 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200221) · `si`
 
-2024 සැප්තැම්බර් 21 පැවැත්වීමට නියමිත ජනාධිපතිවරණයට අදාළ පිළිගත් තැපැල් ඡන්ද අයදුම්පත් පිළිබඳ විස්තර මැතිවරණ කොමිෂන් සභාව විසින් නිකුත් කර තිබේ.
+In the upcoming presidential election on September 21, 2024, 712,319 individuals are eligible for postal voting, marking the highest number of such applications received in Colombo.
 
-ඒ අනුව තැපැල් ඡන්දය ප්‍රකාශ කිරීම සඳහා පුද්ගලයින් 712,319 දෙනෙකු සුදුසුකම් ලබා ඇත.
+🟩
+
+The Elections Commission has issued details regarding the reputed postal voting applications regarding the presidential election on September 21, 2024.
+
+Accordingly, 712,319 persons have been eligible to post voting.
 
 ◼️
 
 [Data](articles/80a6ada5.json)
 
+[Extended Data](ext_articles/80a6ada5.ext.json)
+
 ---
 
-### මම කනගාටු වෙන්නේ නැහැ - ජනපති
+### I don't regret - President
 
 *2024-08-22 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200220) · `si`
 
-ආර්ථික අර්බුදය විසඳනු වෙනුවට පළාත් පාලන ඡන්දය පැවැත්වූයේ නම් සිදුවන්නේ කුමක්දැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රශ්න කරයි.
+President Ranil Wickremesinghe addressed concerns over the economic crisis, questioning the impact of holding local government votes instead of focusing on economic recovery. He acknowledged the hardships faced by the people due to price hikes and shortages but expressed optimism about progress made despite challenges. He emphasized his commitment to serving the people without regret, inviting them to make informed decisions during future elections.
 
-මහරගම තරුණ සේවා සභා ශ්‍රවණාගාරයේදී අද (22) පැවැත්වූ නව ජනතා පෙරමුණේ ජාතික මහා සම්මේලනට එක්වෙමින් ජනාධිපතිවරයා මේ බව පැවසීය.
+🟩
 
-"පොලිම් තිබුණා හැමතැනම. ගෑස් පෝලිම ඉවරවෙනකොට පෙට්‍රල් පෝලිම පටන් ගන්නවා. පෙට්‍රල් පෝලිම ඉවරවෙනකොට බෙහෙත් පෝලිම පටන් ගන්නවා."
+President Ranil Wickremesinghe has questioned what will happen if the local government vote was held instead of resolving the economic crisis.
 
-"මෙහෙම පෝලිම් තිබුණේ. ඔබ සියලු දෙනාම අමාරුවෙන් ජීවත්වුණේ. අලුතෙන් කියන්න වුවමනා නැහැ. මම දන්නවා ඒ වින්ද දුක."
+The President was speaking at the National Water Federation of the New People's Front held at the Youth Services Council Auditorium in Maharagama today (22).
 
-"දැන් අවුරුදු දෙකක් ඇවිල්ලා අර්ථිකය ස්ථාවර කරලා තිබෙනවා. අපි පෝලිම් නැති කරලා තියෙනවා. ආදායම් වැඩි කරලා තියෙනවා. සමහර භාණ්ඩවල මිල අඩුවෙලා තියෙනවා. මේ ඔක්කොම තියෙනවා."
+"There were" Prices everywhere. The gas queue is running out the queue of petrol. The petrol queue is running out of charge. "
 
-"ඒත් තවමත් බරක් මේ රටේ ජනතාවට තියෙනවා. නැහැ කියන්නේ නැහැ. ඒකත් අපි ඊළඟ අවුරුදු දෙකේ විතර නැති කරනවා."
+"It was queued. All of you lived hard. No need to say new. I know that sadness. "
 
-"මේ ඔක්කොම අමතක කරලා මම ප්‍රාදේශීය සභා, නගර සභා ඡන්දය තිබ්බා නම් මොකක්ද වෙන්නේ. එච්චරයි මන් අහන්නේ. ඔබතුමන්ලා තීරණය කරන්න."
+"It has now been stood by the economy for two years. We have lost queues. Revenue has been increased. The prices of some items have been reduced. There's all. "
 
-මගේ කිසිම කනගාටුවක් නැහැ මේක කල්දාපු එක ගැන. ජනතාවට ජීවත්වීමේ අයිතියට මම ගරු කළා. ඡන්ද අයිතියටත් මම ගරු කළා.
+"But the people of this country still have a burden. No, no. That too will we lose the next two years. "
 
-◼️
+"If I had all these pradeshiya sabha and towns, what if I had the vote for Pradeshiya Sabhas and Urban Councils?. That's all I hear. Make you decide. "
+
+...
 
 [Data](articles/7e3e9a45.json)
+
+[Extended Data](ext_articles/7e3e9a45.ext.json)
 
 ---
 
@@ -89,6 +99,8 @@ He highlighted that people cannot maintain their day to day lives without essent
 ...
 
 [Data](articles/8106dd19.json)
+
+[Extended Data](ext_articles/8106dd19.ext.json)
 
 ---
 

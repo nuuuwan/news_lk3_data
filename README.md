@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 08:26:13**
+As of **2024-08-22 08:37:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,168
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,017 (100.0%) of 42,018 articles have been extended.
+42,018 (100.0%) of 42,018 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1488,21 +1488,27 @@ The opportunity comes for a period of six months from October 1, 2024.
 
 ---
 
-### පිල් මාරු කළොත් මන්ත්‍රීධුරය අහෝසියට නීති ගේනවා
+### If the pillars are transferred, the seat brings abolished legislation
 
 *2024-08-21 19:53:25* · [`adalk`](https://www.ada.lk/breaking_news/පිල්-මාරු-කළොත්-මන්ත්‍රීධුරය-අහෝසියට-නීති-ගේනවා/11-411498) · `si`
 
-ජාතික ජනබලවේගයේ ආණ්ඩුවක් යටතේ පිල් මාරු කිරීමේ දේශපාලනය අවසන් කරන බවත්, පක්ෂ මාරු කළොත් මන්ත්‍රී ධුරය අහෝසි වන ආකාරයට නීති ගෙන එන බවත් ජාතික ජනබලවේගයේ පාර්ලිමේන්තු මන්ත්‍රීනි හරිනි අමරසූරිය මෙනවිය පැවසුවාය.
+Narinini Amarasuriya discussed the transfer of power dynamics in Sri Lanka, emphasizing the importance of national unity and good governance. She criticized opposition tactics and highlighted the need for a strong leadership to rebuild the country. She mentioned the defeat of the Sri Lankan president and urged support for a new constitution aimed at national development, not personal gains.
 
-ජාතික ජනබලවේගය ආණ්ඩුවක් විසින් ගෙන ඒමට නියමිත නව ව්‍යවස්ථාව සකස් කර ඇති බව ද ඇය ප්‍රකාශ කළාය. ප්‍රතිවාදීන්ට කිරීමට ඇත්තේ ජාතික ජනබලවේගයට එරෙහිව මඩ ගැසීම පමණක් යැයි ද ඇය කවාය. සැප්තැම්බර් 21 වැනිදා මෙරට ජනාධිපතිවරයා ලෙස නිසැකවම පත් වන්නේ අනුර කුමාර දිසානායක සහෝදරයා බවත්, ජනතාව එම තීන්දුව ගෙන අවසන් බවත් ඇය සඳහන් කළාය.
+🟩
 
-මන්ත්‍රීවරිය මේ බව සඳහන් කළේ අද (21දා) ගම්පොළ පැවති රැළිය අමතමිනි. එහිදී වැඩිදුරටත් අදහස් දැක්වූ අමරසූරිය මන්ත්‍රීවරිය මෙසේ පැවසුවාය.
+Narinini Amarasuriya said that the politics of transfer of pills under a government of the national popularity is to bring the rules to be transferred to the party.
 
-“අනුරට කෝටියක් හොයන මේ ගමනට එකතු වෙලා ඉන්න ඔබ සියලු දෙනාටම ස්තුතියි. රටම තීරණයක් අරන් තියෙනවා මේ රටේ නායකයා විදියට අපේ අනුර සහෝදරයා, ජනාධිපති සහෝදරයා බවට පත් කරන්න ඔබේ ඡන්දය ලබාදෙන්න.
+She also stated that the new constitution was prepared by a government to bring a national popularity.. She has only to mud against the national popularity to do the opponents. She said that the President of the Sri Lankan president was defeated as the president of the country on September 21st, she said that Comrade Anura Dissanayake and the people were over.
+
+Member of Parliament addressing the rally held in Gampola today (21). Speaking further Amarasuriya said:
+
+"Thank you all to get together to find out a core. The country has made a decision as the leader of this country as the leader of this country to make your voting into the president.
 
 ...
 
 [Data](articles/fbf40a69.json)
+
+[Extended Data](ext_articles/fbf40a69.ext.json)
 
 ---
 

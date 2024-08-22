@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 22:23:08**
+As of **2024-08-22 22:37:01**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,135 (100.0%) of 42,136 articles have been extended.
+42,136 (100.0%) of 42,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### බෙන්තර ගඟේ අනතුරක් - දෙදෙනෙකු අතුරුදන්
+### A accident in Bentara River - Two disappeared
 
 *2024-08-22 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200219) · `si`
 
-බෙන්තර ගඟේ සංචාරක බෝට්ටු දෙකක් මුහුණට මුහුණ ගැටී සිදුවූ අනතුරකින් පුද්ගලයන් දෙදෙනෙකු අතුරුදන්වී තිබේ.
+In a tragic accident involving two tourist boats in Sri Lanka's Bentara River, two individuals have gone missing. The incident took place this afternoon near Aluthgama and the Baranormal Police area. Authorities, including the Navy, have been notified.
 
-අද (22) පස්වරුවේ මෙලෙස අනතුරට ලක්වී ඇත්තේ අලුත්ගම ප්‍රදේශයේ සංචාරක හෝටලයක සේවය නිමවා පිරිසක් රැගෙන යාත්‍රා කළ බෝට්ටුවක් සහ බෙන්තර පොලිස් බලප්‍රදේශයේ පිහිටි සංචාරක බෝට්ටුවකි.
+🟩
 
-අනතුරින් අතුරුදන්ව ඇත්තේ බෙන්තර සංචාරක හෝටලයකින් පැමිණි දෙදෙනෙක් බව වාර්තා වෙයි.
+Two persons have disappeared in an accident that two tourist boats in the Bentara River.
 
-මේ වන විට අතුරුදන්වී සිටින පුද්ගලයන් සොයා විමර්ශන පවත්වන අතර සිද්ධිය පිළිබඳව නාවික හමුදාව ද දැනුවත් කර තිබේ.
+The accident occurred this afternoon a tour boat in the Aluthgama area and a tourist boat in the Baranormal Police area.
+
+Two persons who were disappeared in the accident.
+
+The Navy has also informed the incident regarding the disappearances.
 
 ◼️
 
 [Data](articles/ba2afb59.json)
+
+[Extended Data](ext_articles/ba2afb59.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 16:10:07**
+As of **2024-08-22 16:21:37**
 
 ## Newspaper Stats
 
-*Scraped **42,100** Articles*
+*Scraped **42,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,84 @@ economynextcom | 2,547
 dailyftlk | 2,723
 adalk | 3,878
 dailymirrorlk | 4,733
-adaderanalk | 4,930
-tamilmirrorlk | 5,464
+adaderanalk | 4,931
+tamilmirrorlk | 5,465
 virakesarilk | 6,695
-adaderanasinhalalk | 7,180
+adaderanasinhalalk | 7,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,097 (100.0%) of 42,100 articles have been extended.
+42,100 (100.0%) of 42,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### එම්පොක්ස් ගැන සෞඛ්‍ය අමාත්‍යාංශයෙන් නිවේදනයක්
+### MJP leader Dilith Jayaweera opposes govt’s move to sell SLT shares
+
+*2024-08-22 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101425/mjp-leader-dilith-jayaweera-opposes-govts-move-to-sell-slt-shares) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera has voiced his strong disapproval to the government’s plan to sell shares of Sri Lanka Telecom (SLT), calling it a ‘significant mistake’.
+
+The Mawbima Janatha Party (MJP) leader made these remarks during a discussion held with representatives of the Sri Lanka Telecom trade unions on Wednesday (21).
+
+A group of representatives of the Sri Lanka Telecom Engineers’ Association met with Mr. Jayaweera to express their concerns about the proposed sale of SLT, urging him intervene against the government’s attempt to privatize the state-owned enterprise. The union representatives also handed over a letter outlining their objections regarding the matter.
+
+Speaking during the discussion, entrepreneur Dilith Jayaweera questioned the logic behind selling profitable state-owned enterprises, emphasizing the potential for the government to manage and regulate sectors like telecommunication for financial benefit.
+
+...
+
+[Data](articles/b4e12105.json)
+
+---
+
+### කිසිවෙක් වසර 41කින් නොකළ දස්කමක් කළ මිලාන්
+
+*2024-08-22 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200208) · `si`
+
+එංගලන්තයට එරෙහිව මැන්චෙස්ටර්හිදී ඊයේ (21) ආරම්භ වූ පළමු ටෙස්ට් ක්‍රිකට් තරගයේදී ලෝක ක්‍රිකට් පිටියේ පිතිකරුවෙකු වසර 41කින් අලුත් නොකළ සුවිශේෂී ලෝක වාර්තාවක් අලුත් කිරීමට ශ්‍රී ලංකා ක්‍රීඩක මිලාන් රත්නායක සමත් විය.
+
+සිය මංගල ටෙස්ට් තරගය සඳහා පන්දු යවන්නෙකු ලෙසින් ශ්‍රී ලංකා කණ්ඩායමේ ඉඩක් වෙන්කරගත් මිලාන්, මෙම තරගයේදී අංක 09 පිතිකරු ලෙසින් පන්දුවට පහරදීමට පැමිණ වටිනා ලකුණු 72ක් රැස් කළේය.
+
+කිසිදු කලබලයක් නොමැතිව ඉනිම ගොඩනැගූ මිලාන්, ඒ වෙනුවෙන් පන්දු 135කට මුහුණ දුන්නේය. ඔහුගේ ඉනිමට හයේ පහර 02ක් හා හතරේ පහර 06ක් ඇතුළත් විය.
+
+මිලාන් මෙහිදී නායක ධනංජය සිල්වා සමගින් 08වැනි කඩුල්ලට ලකුණු 63ක් සබඳතාවක් පැවැත් වූ අතර, ඉන් ලකුණු 30කටම ඔහු දායක විය.
+
+එමෙන්ම ශ්‍රී ලංකා ලකුණු පුවරුවේ කඩුලු 08ක් ලකුණු 176ක් තුළ බිඳවැටි තිබියදී විශ්ව ප්‍රනාන්දු සමගින් එක්වූ මිලාන්  ලකුණු පුවරුව 226ක් දක්වා ඉහළට රැගෙන ආවේය.
+
+එහිදී ඔහු විශ්ව සමගින් 09වැනි කඩුල්ලට ලකුණු 50ක සබඳතාවක් පැවැත් වූ අතර, ඉන් ලකුණු 42කටම ඔහු දායක විය.
+
+...
+
+[Data](articles/8e07ead6.json)
+
+---
+
+### Ministry of Health announced on MPC3
 
 *2024-08-22 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200207) · `si`
 
-ගුවන්තොටුපොළ මගින් මෙරටට ඇතුළු විය හැකි එම්පොක්ස් හෙවත් මන්කිපොක්ස් රෝගීන් හඳුනා ගැනීම සඳහා දිවයිනම ආවරණය වන පරිදි ආවේක්ශණ පද්ධතිය වඩා හොඳින් ශක්තිමත් කර ඇති බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+The Ministry of Health has bolstered its systems to detect Mizpex, a disease entering via airports. Dr. Palitha Mahipi Maheepala assures treatment facilities for infected patients, with the Colombo Medical Research Institute equipped to identify cases. The health sector is prepared to respond to this disease, which has caused over 500 deaths in Africa.
 
-නිවේදනයක් නිකුත් කරමින් සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසන්නේ රෝගීන් වාර්තා වුවහොත් ඔවුන් වෙන් කර ප්‍රතිකාර කිරීම සඳහා පහසුකම් කොළඹ බෝවන රෝග විද්‍යායතනය තුළ ස්ථාපිත කර ඇති බවය.
+🟩
 
-තවද කොළඹ වෛද්‍ය පර්යේෂණ ආයතනය සතුව මන්කි පොක්ස් රෝගීන් හඳුනාගැනීමේ රසායනාගාර පහසුකම් ද පවතින බව ඔහු පවසයි.
+The Ministry of Health states that the development system is well strengthened to identify Mizpex, which can enter the country by airport.
 
-මෙම රෝගයට වඩා හොඳින් සූදානම් වීම සහ ප්‍රතිචාර දැක්වීම සඳහා අවශ්‍ය මග පෙන්වීම සෞඛ්‍ය සේවා ආයතන සඳහා ලබා දී ඇති බවත් මේ සම්බන්ධව උපදෙස් ඇතුළත් චක්‍ර ලේඛයක් ද ඔවුන් වෙත ලබා දීමට කටයුතු කර ඇති බවත් සෞඛ්‍ය ලේකම්වරයා නිකුත් කළ එම නිවේදනයේ සඳහන් කර තිබේ.
+Dr. Palitha Mahipi Maheepala, Secretary to the Ministry of Health, says that if patients have been established in the infectious disease, the facilities to treat them.
 
-රෝගය මේ වනවිට අපිකානු අප්‍රිකානු කළාපීය රටවල වේගයෙන් පැතිර ගොස් ඇති අතර මින් 500කට අධික පිරිසක් ද මියගොස් තිබේ.
+He also said that the Colombo Medical Research Institute has laboratory facilities to identify Maki Pox patients.
+
+The Health Secretary (Health Secretary) has stated that the need to prepare and respond to this disease has been given to health care and the health secretary.
+
+The disease has already spread in the African African African regional countries, and more than 500 have died.
 
 ◼️
 
 [Data](articles/cdf154ad.json)
+
+[Extended Data](ext_articles/cdf154ad.ext.json)
 
 ---
 
@@ -71,6 +117,8 @@ Export earnings from Apparel & Textile increased by 3.8 % y-o-y to USD  443.74 
 ...
 
 [Data](articles/63236462.json)
+
+[Extended Data](ext_articles/63236462.ext.json)
 
 ---
 
@@ -171,6 +219,26 @@ Further investigations are conducting further investigations to obtain detention
 [Data](articles/64cb3166.json)
 
 [Extended Data](ext_articles/64cb3166.ext.json)
+
+---
+
+### AI மாணவர் சங்கங்களுக்கு அனுமதி
+
+*2024-08-22 15:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-மாணவர்-சங்கங்களுக்கு-அனுமதி/175-342638) · `ta`
+
+100 பாடசாலைகளில் முன்னோடித் திட்டமாக செயற்கை நுண்ணறிவு தொடர்பான மாணவர் சங்கங்களை நடைமுறைப்படுத்தும் திட்டத்திற்கு அரசாங்கம் இன்று அனுமதி வழங்கியுள்ளதாக அமைச்சரவைப் பேச்சாளரும் அமைச்சருமான பந்துல குணவர்தன தெரிவித்தார்.
+
+தரம் 6 முதல் 9 வரையான மாணவர்களின் பங்களிப்புடன் இந்த செயற்றிட்டம் ஆரம்பிக்கப்படவுள்ளதாக அவர் ஊடகங்களுக்கு தெரிவித்தார்.
+
+இதன்படி, இத்திட்டத்தின் பெறுபேறுகளின் அடிப்படையில் எதிர்வரும் ஆண்டுகளில் ஏனைய பாடசாலைகளுக்கும் இத்திட்டத்தை விரிவுபடுத்துவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+இந்த முன்மொழிவு தொழில்நுட்ப அமைச்சர் மற்றும் கல்வி அமைச்சர் என்ற வகையில் ஜனாதிபதியினால் கூட்டு முன்மொழிவாக முன்வைக்கப்பட்டது.
+
+"எதிர்கால உலகளாவிய போக்குகளை எதிர்கொள்ளக்கூடிய பிரஜைகளை உருவாக்கவும், பொருளாதார வளர்ச்சிக்கு அவர்களின் பங்களிப்பை திறம்பட பெறுவதற்கும் செயற்கை நுண்ணறிவு தொடர்பான ஆய்வுகளில் ஈடுபட மாணவர்களுக்கு வாய்ப்பளிப்பது பொருத்தமானது அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/04feeafa.json)
 
 ---
 
@@ -2221,69 +2289,5 @@ Power and Energy Minister Kanchana Wijesekera yesterday announced that the CEB�
 [Data](articles/fd402530.json)
 
 [Extended Data](ext_articles/fd402530.ext.json)
-
----
-
-### Will the relief continue if Parate is abandoned?
-
-*2024-08-22 01:30:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பராட்டே-கைவிடப்பட்டால்-நிவாரணங்கள்-தொடருமா/175-342605) · `ta`
-
-Despite abandoning the Parate Bill, the government assures continued relief for small and medium manufacturers and tourists. Opposition Leader Sajith Premadasa questions the sustainability of this aid and calls for transparency on the government's plans, including asset amounts and long-term actions for affected parties. He urges the government to focus on developing a national policy for these sectors, highlighting the need for financial support and debt restructuring to acknowledge their significant contributions over the past four years.
-
-🟩
-
-Opposition Leader Sajith Premadasa questioned whether the Barade Bill was abandoned, but the relief provided by the government would continue.
-
-He questioned the special claim on Wednesday (21) in Parliament.
-
-Although the Paratete Bill has been abandoned due to pressure on the victims of small and medium manufacturers and tourists in the Paratete Bill, the government should know if the relief provided by the government will continue.
-
-It is also necessary to know the amount of assets in this industry.
-
-Similarly, steps should be taken to bring about changes in the Bill of the Bill. If not, you should also know the long and short -term action of the government on the victims.
-
-Is the government focusing on the preparation of a national policy plan on small and medium manufacturers?The government's contribution to improve entrepreneurs or innovations in this country should be aware of the contribution.
-
-...
-
-[Data](articles/05a5f7d0.json)
-
-[Extended Data](ext_articles/05a5f7d0.ext.json)
-
----
-
-### SAB Campus of CA Sri Lanka signs MOU with AATSL for BSc. in Applied Accounting Degree exemptions
-
-*2024-08-22 01:29:22* · [`dailyftlk`](https://www.ft.lk/business/SAB-Campus-of-CA-Sri-Lanka-signs-MOU-with-AATSL-for-BSc-in-Applied-Accounting-Degree-exemptions/34-765830) · `en`
-
-The SAB Campus of The Chartered Institute of Sri Lanka (CA Sri Lanka) and the Association of Accounting Technicians Sri Lanka (AATSL) recently embarked on a new path in accounting by signing a Memorandum of Understanding (MoU) aimed at advancing and collaborating professional education. The MOU grants exemptions for members of AATSL by way of lateral entry to the BSc. in Applied Accounting (General) Degree Program.
-
-The primary objective of this collaboration is to enhance the qualification process for students aiming to obtain an accounting degree from CA Sri Lanka. By providing these exemptions, the MoU opens up new avenues for AATSL members to pursue a globally recognised degree that is approved by the Ministry of Education and recognised by the University Grants Commission. This partnership not only reinforces the commitment of both institutions to academic excellence but also ensures that students have access to a world-class education that meets international standards.
-
-...
-
-[Data](articles/21e4dbff.json)
-
-[Extended Data](ext_articles/21e4dbff.ext.json)
-
----
-
-### ‘Sri Lanka Trade Fair Dubai 2024’ in November
-
-*2024-08-22 01:27:45* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Trade-Fair-Dubai-2024-in-November/34-765829) · `en`
-
-Importers from the UAE, Oman, and Saudi Arabia participated in the grand launching ceremony and gala dinner of the ‘Sri Lanka Trade Fair Dubai 2024’
-
-The highly anticipated ‘Sri Lanka Trade Fair Dubai 2024’ (www.srilankatradefair.org), a platform designed to foster business growth and international trade between Sri Lanka and the Gulf region, is set to take place on 2 and 3 November.
-
-The event has garnered the full backing of the Sri Lankan Embassy in the UAE, the Consulate General of Sri Lanka in Dubai, and chambers of commerce across the UAE and other Gulf countries.
-
-The ‘Sri Lanka Trade Fair Dubai 2024’ will showcase the best of Sri Lankan products, services, and innovations, providing a critical platform for Sri Lankan businesses to connect with well over 15,000 buyers, investors, and partners from across the Gulf region and beyond.
-
-...
-
-[Data](articles/d7980854.json)
-
-[Extended Data](ext_articles/d7980854.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 17:06:42**
+As of **2024-08-22 17:21:26**
 
 ## Newspaper Stats
 
-*Scraped **42,108** Articles*
+*Scraped **42,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,547
 dailyftlk | 2,723
 adalk | 3,879
 dailymirrorlk | 4,733
-adaderanalk | 4,931
-tamilmirrorlk | 5,465
+adaderanalk | 4,934
+tamilmirrorlk | 5,466
 virakesarilk | 6,695
 adaderanasinhalalk | 7,184
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 7,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,106 (100.0%) of 42,108 articles have been extended.
+42,108 (100.0%) of 42,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### හර්ෂිතාට කොදෙව් දේශයෙන් කැඳවීමක්
+### Calling Hershath from West Indies
 
 *2024-08-22 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200211) · `si`
 
-බ.ඉ. කොදෙව් දූපත් කේන්ද්‍ර කරගනිමින් පැවැත්වෙන කැරිබියන් ප්‍රිමියර් ලීග් (CPL) කාන්තා ක්‍රිකට් තරගාවලියේ Trinbago Knight Riders කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කිරීම සඳහා ශ්‍රී ලංකා ඉදිරිපෙළ පිතිකාරිණියක වන හර්ෂිතා සමරවික්‍රම කැඳවා තිබේ.
+B.I. Hersha Samarawickrama, a standout Sri Lankan cricketer, has been selected for the West Indies' TribolGo Knight Riders in the Caribbean Premier League (CPL). She becomes the first Sri Lankan woman to play in a foreign league after Chamari Atapattu. Known for her performances in the Sri Lanka women's cricket team, including scoring 105 runs in an ODI match against Ireland, Hersha is set to make history in the CPL.
 
-මෙවර කාන්තා CPL තරගාවලිය ඊයේ (21) ආරම්භ වූ අතර, එහි Trinbago වෙනුවෙන් තෝරාගෙන සිටි ඔස්ට්‍රේලියානු ක්‍රීඩිකා  Meg Lanning ආබාධයකට ලක්වීම හේතුවෙන් හර්ෂිතාට මෙම අවස්ථාව හිමි වූවාය.
+🟩
 
-ඒ අනුව චමරි අතපත්තුගෙන් පසු විදෙස් ක්‍රිකට් ලීගයක් ක්‍රීඩා කරන පළමු ශ්‍රී ලංකා ක්‍රීඩිකාව ඇය වනු ඇත.
+B.I. Hersha Samarawickrama, a batsman of the Caribbean Premier League (CPL) centered on West Indies are centered on the TribolGo knight riders (CPL) team has been called.
 
-වත්මන් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ කැපී පෙනෙන ක්‍රීඩිකාවක බවට පත්වී සිටින හර්ෂිතා, නිමාවූ අයර්ලන්තයට එරෙහි එක්දින මෙන්ම විස්සයි 20 තරගාවලියේදී ද විශිෂ්ට දස්කම් දැක්වීය.
+This year, the women's CPL tournament commenced yesterday (21), and Hershae sat for this occasion.
 
-ඉන් ඇය එක්දින තරගාවලියේ දෙවැනි තරගයේදී ලකුණු 105ක් රැස්කළ අතර, එය චමරි අතපත්තුගෙන් පසු මෙරට පිතිකාරිණියක එක්දින තරගයකදී රැස්කළ තෙවැනි ශතකය ලෙසින් වාර්තා අතරටද එක්විය.
+Accordingly, she will be the first Sri Lankan player to play a foreign league outside Chamari Atapattu.
 
-එමෙන්ම ඇය එක්දින තරගාවලියේ පළමු තරග දෙකෙහිම අර්ධ ශතක රැස්කළාය.
+Hersha, who has become a striking at least player of the Sri Lanka women's cricket team, also excelled in the ODI and Twenty20 tournament against the end of the Ireland.
+
+She scored 105 runs in the second match of the ODI series.
+
+She also scored half centuries in both the first matches of the ODI.
+
+She also contributed greatly to Sri Lankan women as the Asian Champions Asian Champions, and 69 runs for Sri Lanka in the final.
+
+The innings was a special reason for the innings of the innings and a greater conversation.
 
 ...
 
 [Data](articles/96a37131.json)
+
+[Extended Data](ext_articles/96a37131.ext.json)
 
 ---
 
@@ -69,6 +79,64 @@ The Chairman of the Public Service, the Chairman of the Public Service, the Chai
 [Data](articles/b7df07a9.json)
 
 [Extended Data](ext_articles/b7df07a9.ext.json)
+
+---
+
+### Cabinet approves basic salary increase for public servants from 2025
+
+*2024-08-22 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/101428/cabinet-approves-basic-salary-increase-for-public-servants-from-2025) · `en`
+
+The Chairman of the expert committee on public service salary disparities, Mr. Udaya Seneviratna, announced that the Cabinet has approved a basic salary increase for all public servants from January 2025.
+
+He stated that the salary increase ranges from 24% for lower grades and 24% to 50%+ for higher positions, based on qualifications, experience, and current roles, the President’s Media Division (PMD) reported.
+
+Due to current inflation and economic conditions, Mr. Seneviratna announced that the Cabinet has approved increasing the cost of living allowance to Rs. 25,000 for all public servants starting January 2025.
+
+Last week, the Cabinet of Ministers granted approval for the proposed salary revisions across all sectors of the public service.
+
+An expert committee, chaired by former Presidential Secretary Udaya Seneviratne, was previously appointed to prepare a report with recommendations for implementing these proposals in the 2025 budget.
+
+...
+
+[Data](articles/3398ea6a.json)
+
+---
+
+### ‘We gain nothing by misleading Tamil people in the North’ - Namal
+
+*2024-08-22 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101427/we-gain-nothing-by-misleading-tamil-people-in-the-north-namal) · `en`
+
+The Presidential Candidate of Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa asserts that police and land powers will not be devolved to the Provincial Councils under his governance.
+
+Addressing his maiden rally in Anuradhapura, Rajapaksa stated that he believes their government was toppled by a conspiracy and that however, they did not let the state collapse.
+
+“We handed over the government to President Ranil Wickremesinghe because it was necessary to protect the state”, Rajapaksa said.
+
+“Although there were policies that the SLPP could not agree with, we still offered our support. We engage in politics with principles. We are a political camp that protects our values. Therefore, let’s move forward with a plan”, he added.
+
+Speaking further, the SLPP presidential candidate said: “We are committed to respecting all religions in this Buddhist country. We will not devolve land and police powers to provincial councils. We gain nothing by misleading our Tamil people in the North.”
+
+...
+
+[Data](articles/bea2e577.json)
+
+---
+
+### “ 21ஆம் திகதி எமது வெற்றியை உறுதி செய்வோம்”
+
+*2024-08-22 16:19:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21ஆம்-திகதி-எமது-வெற்றியை-உறுதி-செய்வோம்/175-342640) · `ta`
+
+தேர்தலில் சிலர் முன்கூட்டியே வெற்றி பெற்றாலும், ரணில் விக்கிரமசிங்ஹ சந்தேகத்திற்கு இடமின்றி செப்டம்பர் 21 ஆம் திகதி வெற்றியீட்டுவார் என தொழில்  மற்றும் வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான ஜனாதிபதியின் ஆலோசகர் மனுஷ நாணயக்கார, வியாழக்கிழமை (22) இடம்பெற்ற வடிவேல் சுரேஷின் பதவியேற்பு நிகழ்வின் போது  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் தலதா அத்துகோரள ஆற்றிய உரையானது சமகி ஜன பலவேகய வின் அடிமட்ட உறுப்பினர்கள் மத்தியில்  எதிரொலிக்கும் அத்துடன் ஐக்கிய தேசியக் கட்சியின்  தலைவரைச் சுற்றி திரளுவதற்கு அவர்களைத் தூண்டும் என அமைச்சர் தெரிவித்தார்.
+
+“ஐக்கிய மக்கள் சக்தியின் கிராம மட்ட உறுப்பினர்கள் அடிப்படையில் ஐக்கிய தேசியக் கட்சியின் அங்கத்தவர்கள். ஆகவே தமது தலைவர் நாட்டைக் கட்டியெழுப்பும் நோக்கில் திட்டமிட்டு செயற்ப்படுகின்றதால், தங்களது  ஆதரவை அவருக்கு வழங்க மக்கள்  தயாராக உள்ளனர்.
+
+தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் என்ற வகையில் ஜனாதிபதி, தேவையான அறிவுறுத்தல்களையும் வழிகாட்டுதல்களையும் தொழில் அமைச்சுக்கு  வழங்கிவருகிறார் . எனவே, திட்டமிட்டபடி அமைச்சின் அனைத்து பணிகளும்  தொடரும்.
+
+...
+
+[Data](articles/c47323da.json)
 
 ---
 
@@ -95,6 +163,26 @@ During the presidential election, Telecom demanded to intervene to defeat the go
 [Data](articles/1eb6ea90.json)
 
 [Extended Data](ext_articles/1eb6ea90.ext.json)
+
+---
+
+### Ex-Health Minister Keheliya and 3 others further remanded
+
+*2024-08-22 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101426/ex-health-minister-keheliya-and-3-others-further-remanded) · `en`
+
+Former Health Minister Keheliya Rambukwella and 03 other suspects, implicated in the alleged importation of substandard human immunoglobulin vials, have been further remanded until August 29.
+
+The order was issued after the defendants were produced before the Maligakanda Magistrate’s Court today (22).
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
+
+Accordingly, the former Minister of Health is currently in remand custody in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+...
+
+[Data](articles/58fb989f.json)
 
 ---
 
@@ -328,21 +416,31 @@ The proposal was put forward as a joint proposal by the President as the Ministe
 
 ---
 
-### ශ්‍රී ලන්කන් 45 වැනි උපන්දිනයට කළ දේ
+### What the SriLankan Paper was made to the 45th birthday
 
 *2024-08-22 15:05:19* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-45-වැනි-උපන්දිනයට-කළ-දේ/11-411505) · `si`
 
-ශ්‍රී ලන්කන් ගුවන් සේවය ස්ථාපිත කර එළඹෙන සැප්තැම්බර් මස 01 දිනට වසර 45 ක් සපිරීම නිමිත්තෙන් කුඩා සාමනේර භික්ෂූන් වහන්සේලා 60 දෙනෙකු කටුනායක ගුවන් තොටුපොළ වෙත කැදවා එහි වැදගත් ස්ථාන දැක බලා ගැනීමට මෙන්ම ශ්‍රී ලන්කන් ගුවන් යානයක් වෙත රැගෙන ගොස් එහි අත්දැකීම් විද ගැනීමට ද අවස්ථාව 08/22 දින උදා කර දී තිබුණි.
+To celebrate its 45th anniversary, SriLankan Airlines invited a group of monks from the ancient Wadduwa temple to experience various aspects of aviation, including visiting the Katunayake airport, shopping malls, customs premises, immigration department, and aircraft. This unique event aimed to highlight the importance of tourism and aviation to Sri Lanka's economy, showcasing the country's rich cultural heritage alongside modern developments.
 
-මේ සදහා ශ්‍රී ලන්කන් ගුවන් සේවය , සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගම මෙන්ම ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරිය ද අනුග්‍රහය දක්වා තිබුණි.
+🟩
 
-ජාතියේ අනාගත භික්ෂු පරපුර මෙම සාමනේර භික්ෂූන් වහන්සේලා ගෙන් ආරම්භ වන හෙයින් උන්වහන්සේලාට රටේ ප්‍රධාන  ආර්ථික මර්මස්ථානයක් වන කටුනායක ජාත්‍යන්තර ගුවන් තොටුපොළ දැන හදුනා ගැනීමට අවස්ථාව ලබා දීම ඉතා වටිනා කර්තව්‍යයක් බව ශ්‍රී ලන්කන් ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශයේ ප්‍රධානී දීපාල් පෙරේරා මහතා පැවසීය.
+SriLankan Airlines will be called to the Katunayake airport and take their experiences to Sri Lankan plane as well as to mark the Sri Lankan Airlines on September 1st.Had given the days.
 
-මෙම වැඩසටහන සදහා වාද්දුව , දෙල්දූව පුරාණ විහාරස්ථානයේ වැඩවාසය කරන වයස අවුරුදු 05 - 20 ත් අතර පසුවන සාමනේර භික්ෂූන් වහන්සේලා 60 නමක් පැමිණ සහභාගී වී සිටියහ .
+SriLankan Airlines, Airport and Aviation Ltd and the Civil Aviation Authority (CA) was sponsored.
+
+The head of the SriLankanaka Communication Division, SriLankanaka Communication Division, the SriLankanayake Institute of Corporate Communications, said that it is a valuable task that these novices begin to identify the main economic center of land of the country.
+
+The program was a 60-year-old monks who work in the ancient temple of Wadduwa, Deldu ancient temple and attended.
+
+The monks had access to the Katunayake airport processing shopping mall, the Customs Premises, the Department of Immigration and Sri Lankan Aircraft and all functions.
+
+It is noteworthy that a person is unable to obtain a flight passenger in a flight.
 
 ...
 
 [Data](articles/d1fda079.json)
+
+[Extended Data](ext_articles/d1fda079.ext.json)
 
 ---
 
@@ -2189,147 +2287,5 @@ Gotabhaya Rajapaksa and Sajith Premadasa voted for Sajith Premadasa when the Tam
 [Data](articles/2dd227d0.json)
 
 [Extended Data](ext_articles/2dd227d0.ext.json)
-
----
-
-### Look at the dreamer
-
-*2024-08-22 02:28:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனவு-காண்பவர்-அவதானிக்கவும்/175-342607) · `ta`
-
-In countries with Chinese-funded development projects, like Sri Lanka and Bangladesh, internal conflicts and riots have arisen. The National Freedom Front leader highlighted that understanding these issues is crucial for aspiring presidents. In Bangladesh, student protests against a quota system escalated into violence, leading to the resignation of Prime Minister Sheikh Hasina. Similar tensions are observed in Sri Lanka due to China's investment in the Colombo Port. These examples illustrate how Chinese development zones can fuel internal disputes.
-
-🟩
-
-International contradictions are created in countries where a Zone of China is implemented by a Path Development Project. Such conflicts and riots were created in Sri Lanka and Bangladesh.The National Freedom Front leader and Independent Opposition MP Wimal Weerasanshans said that all those who dreamed of being president needed to understand this fact.
-
-Speaking at the debate on the Law Law Law Regulations on Wednesday (21) in Parliament, he said.
-
-China has fully invested to the Colombo Port Development City. Therefore, Sri Lanka has not been affected by the port Urban Development Program.
-
-There are many similarities between the riots in Bangladesh and the struggle in Sri Lanka by 2022. Students engaged in a struggle against the quota system that has been implemented in Bangladesh. After the court amended the quota system, he was involved in violence to resign Prime Minister Sheikh Hasina.
-
-...
-
-[Data](articles/3eb92e11.json)
-
-[Extended Data](ext_articles/3eb92e11.ext.json)
-
----
-
-### Model gambling, black money playing ”
-
-*2024-08-22 02:13:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூதாட்ட-கறுப்புப்-பணம்-விளையாடுகின்றது/175-342606) · `ta`
-
-Roshan Ranasinghe, an independent presidential candidate, criticized the use of black money, drug money, and gambling funds in the upcoming election, questioning its fairness. He highlighted discrepancies such as limited candidate encouragement despite numerous nominations and vastly differing campaign spending limits between local and presidential elections. Ranasinghe urged for a fair election process and warned against the potential societal corruption and economic instability these practices could lead to.
-
-🟩
-
-Independent presidential candidate Roshan Ranasinghe said that black money, money, drug money and gambling money are heavily used in the presidential election.
-
-He said this while addressing a special statement in Parliament on Wednesday (21).
-
-Is the presidential election independent but is justice?Questions arising. Elections Commission first implement injustice. A separate place has been allocated to bring their assistants for some candidates.
-
-When 39 candidates file nominations, only 4 candidates are encouraged.
-
-Can this be done?Meanwhile, it has been announced that a voter can spend 20 rupees in the local government election. But the presidential election has announced that a candidate can spend 109 rupees. That is, 18,500 lakhs of rupees.
-
-This is not a small amount. Similarly, some media also acts for each candidate. 39 people should be given equal rights. But not that happens like that. Meanwhile, February is also being treated unjustly. The company calls only 6 people for debate.
-
-...
-
-[Data](articles/8822d2a2.json)
-
-[Extended Data](ext_articles/8822d2a2.ext.json)
-
----
-
-### My markers in the fight for four decades
-
-*2024-08-22 02:00:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3ej1y059gno) · `si`
-
-Given the comprehensive overview of Sri Lanka's presidential elections, it's clear that each election has been marked by unique challenges, including political instability, violence, and issues related to voter turnout, especially in regions affected by conflict. The 2023 presidential election faces its own set of challenges, including the aftermath of the COVID-19 pandemic, economic instability, and ongoing social issues.
-
-
-
-To address these challenges effectively, the new President must prioritize several key areas:
-
-
-
-1. **Economic Recovery**: Focus on stabilizing the economy, addressing inflation, and ensuring financial stability for all citizens. This includes implementing policies that support small businesses, agriculture, and job creation.
-
-
-
-2. **Reconciliation and Unity**: Given the historical context of ethnic and religious tensions, the new President should champion initiatives aimed at national reconciliation, healing wounds, and promoting unity among all communities. This could involve truth and reconciliation commissions, educational reforms, and policies that ensure equal rights and opportunities for all.
-
-
-
-3. **Good Governance and Anti-Corruption Measures**: Strengthening institutions, improving transparency in government operations, and implementing robust anti-corruption measures are crucial. This includes reforming the judiciary, enhancing fiscal responsibility, and ensuring accountability across all levels of government.
-
-
-
-4. **Addressing Social Inequalities**: Work towards reducing socio-economic disparities, ensuring access to quality education, healthcare, and basic services for all segments of the population. This involves investing in social welfare programs and infrastructure development in underprivileged areas.
-
-
-
-5. **Promoting Democracy and Human Rights**: Uphold the principles of freedom of expression, assembly, and the rule of law. Engage in dialogue with opposition parties, civil society organizations, and international partners to strengthen democratic institutions and practices.
-
-
-
-6. **Environmental Sustainability**: Address environmental concerns, including climate change adaptation and mitigation efforts. Implement policies that promote sustainable development, protect biodiversity, and ensure the well-being of future generations.
-
-
-
-7. **International Relations and Diplomacy**: Strengthen diplomatic relations with other countries and international organizations. Seek partnerships for trade, investment, and cooperation in areas like technology, health, and security.
-
-
-
-8. **Security and Law Enforcement**: Ensure the safety and security of all citizens, particularly in regions previously affected by conflict. Work towards demilitarization and civilian control of the security apparatus, while maintaining the ability to respond effectively to threats.
-
-
-
-By focusing on these areas, the new President can address the multifaceted challenges facing Sri Lanka and pave the way for a more prosperous, peaceful, and united nation.
-
-🟩
-
-Elections from the 20th century are vertebrates in the democratic administration of Sri Lanka. In 1982, a presidential election was held for the first time for the Executive Presidency of the Second Republic of 1977.
-
-Many presidential elections since that year were held while Sri Lanka was facing critical conditions.
-
-In these previous presidential presidential elections, in time to exercise the sovereignty of the people, the factor in democracy has been democratic.
-
-The first constitutional reforms of the first constitution to take control of Sri Lanka in 1815 was brought to the reconstruction of the first constitutional reforms.
-
-The decades of decades end because of the requests that the demands and unofficial MPs who have come to increase the number of representatives of the Legislative Council.
-
-The Secretary of the Colonial Trusts in charge of the demands was given four unofficial members under the reform of Cruv-McCulam constitution under the reform of Cashen McCulam Constitution.
-
-...
-
-[Data](articles/663d651d.json)
-
-[Extended Data](ext_articles/663d651d.ext.json)
-
----
-
-### President cannot avoid defeat by recruiting MPs from other parties: Mujibur
-
-*2024-08-22 01:42:17* · [`dailyftlk`](https://www.ft.lk/news/President-cannot-avoid-defeat-by-recruiting-MPs-from-other-parties-Mujibur/56-765836) · `en`
-
-Claims numerous conspiracies are ongoing against SJB leader Sajith Premadasa to ensure his defeatSays Thalatha Athukorala’s resignation speech hints at who she plans to align with going forward
-
-Opines Athukorala’s decision to resign from MP post was incorrect
-
-Samagi Jana Balawegaya (SJB) MP Mujibur Rahuman stated yesterday that President Ranil Wickremesinghe’s defeat in the upcoming Presidential election cannot be avoided by recruiting MPs from other parties.
-
-Addressing a press conference in Colombo, he also noted that numerous conspiracies are ongoing against SJB leader Sajith Premadasa to ensure his defeat at the elections.
-
-Commenting on SJB MP Thalatha Athukorala’s sudden decision to step down from her Parliamentary post, Marikkar noted that she mentioned in her resignation speech her intention to continue in politics. “It hints at who she plans to align with moving forward,” he said.
-
-...
-
-[Data](articles/b833d9ef.json)
-
-[Extended Data](ext_articles/b833d9ef.ext.json)
 
 ---

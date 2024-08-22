@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 20:37:03**
+As of **2024-08-22 20:56:31**
 
 ## Newspaper Stats
 
-*Scraped **42,131** Articles*
+*Scraped **42,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 4,937
 tamilmirrorlk | 5,469
 virakesarilk | 6,698
-adaderanasinhalalk | 7,189
+adaderanasinhalalk | 7,190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,131 (100.0%) of 42,131 articles have been extended.
+42,131 (100.0%) of 42,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### SLS ගසා මිනිස් පරිභෝජනයට යැවූ පුන්නක්කු තෙල්
+
+*2024-08-22 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200217) · `si`
+
+සුපිරිසිදු පොල්තෙල් බව පවසමින් පුන්නක්කු මගින් මිනිස් පරිභෝජනයට නුසුදුසු පොල්තෙල් නිපදවන නිෂ්පාදනාගාරයක් නීතියේ රැහැනට හසුකර ගැනීමට අද (22) හැකිවිය.
+
+මිනිස් පරිභෝජනයට සුදුසු ප්‍රමිතියක නොමැති පොල්තෙල් සකසා වෙළෙඳපොළට නිකුත් කරන මාලබේ කහන්තොට ප්‍රදේශයේ ස්ථානයක් සම්බන්ධයෙන් මාලබේ පොලීසියට තොරතුරක් ලැබී තිබුණි.
+
+පොලීසිය සිදුකළ දැනුම්දීමකට අනුව පාරිභෝගික සේවා අධිකාරියේ කොළඹ දිස්ත්‍රික් වැටලීම් ඒකකය විසින් අද එම ස්ථානය වටලනු ලැබුවේ අද දෙරණ උකුස්සා ද සමගිනි.
+
+එහි යනවිටත් අදාළ ස්ථානයේ කෑන් තුළ බහා පොල්තෙල් තොගයක් අලෙවි කිරීම සඳහා සූදානම් කර තිබෙනු දක්නට ලැබුණි.
+
+ඇසුරුම් කරන ලද පොල්තෙල් බෝතල්වල SLS සහතිකය ඇති බවට සඳහන් ලේබල් අලවා ඇති ආකාරය දක්නට ලැබුණද මෙහිදී අනාවරණය වූයේ එය ව්‍යාජ එකක් බවය.
+
+එමෙන්ම සුපිරිසිදු පොල්තෙල් බව පවසමින් වෙළඳපොළට නිකුත් කරන මෙම පොල්තෙල් සඳහා විදේශයකින් ගෙන්වන තවත් තෙල් වර්ගයක් එක් කරන බවද මෙහිදී හෙළිවුණි.
+
+තවදුරටත් සිදුකළ විමර්ශනයේදී අනාවරණ වූයේ මිනිස් පරිභෝජනයට කිසිසේත්ම නුසුදුසු පුන්නක්කු තෙල්ද මෙයට මිශ්‍රකර වෙළෙඳපොළට නිකුත් කරන බවය.
+
+...
+
+[Data](articles/6302357e.json)
+
+---
 
 ### After presidential election, the General Elections, Provincial Councils and Local Elections
 
@@ -122,7 +146,7 @@ The Chief Incumbent of the Hanthana Sandiri A de Viharaya is the Lord, Ven.
 
 *2024-08-22 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101431/indias-ather-energy-to-enter-sri-lankan-market-next-quarter) · `en`
 
-Bengaluru-based Ather Energy on Thursday said that it plans to expand into Sri Lanka in the coming quarter, days after it secured funding from NIIF at a unicorn valuation.
+Ather Energy, an electric vehicle manufacturer based in India, on Thursday said that it plans to expand into Sri Lanka in the coming quarter, days after it secured funding from NIIF at a unicorn valuation.
 
 The expansion will be the company’s second international launch after it entered Nepal last year.
 
@@ -2319,19 +2343,5 @@ Sri Lanka struck a preliminary deal with private investors in July to restructur
 [Data](articles/b6c6bd26.json)
 
 [Extended Data](ext_articles/b6c6bd26.ext.json)
-
----
-
-### SLPP MP Karunadasa Kodithuwakku pledges support for Sajith
-
-*2024-08-22 08:12:09* · [`dailyftlk`](https://www.ft.lk/news/SLPP-MP-Karunadasa-Kodithuwakku-pledges-support-for-Sajith/56-765848) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) MP Karunadasa Kodithuwakku yesterday declared support for the Opposition and Samagi Jana Balawegaya (SJB) leader Sajith Premadasa in the upcoming Presidential Election. Following his decision, MP Kodithuwakku crossed over to the Opposition side in Parliament yesterday.
-
-◼️
-
-[Data](articles/89bca952.json)
-
-[Extended Data](ext_articles/89bca952.ext.json)
 
 ---

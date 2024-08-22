@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 09:36:58**
+As of **2024-08-22 09:56:07**
 
 ## Newspaper Stats
 
-*Scraped **42,026** Articles*
+*Scraped **42,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,62 @@ economynextcom | 2,536
 dailyftlk | 2,723
 adalk | 3,870
 dailymirrorlk | 4,733
-adaderanalk | 4,914
+adaderanalk | 4,915
 tamilmirrorlk | 5,448
 virakesarilk | 6,686
-adaderanasinhalalk | 7,169
+adaderanasinhalalk | 7,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,026 (100.0%) of 42,026 articles have been extended.
+42,026 (100.0%) of 42,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
+### Divers recover 5 bodies from wrecked superyacht off Sicily; 1 still missing
+
+*2024-08-22 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101411/divers-recover-5-bodies-from-wrecked-superyacht-off-sicily-1-still-missing) · `en`
+
+Divers searching the wreck of a superyacht that sank off Sicily found the bodies of five passengers Wednesday, leaving one still missing as questions intensified about why the vessel sank so quickly when a nearby sailboat remained largely unscathed.
+
+Rescue crews brought four body bags ashore at Porticello. Salvatore Cocina, head of the Sicily civil protection agency, said a fifth body had been located. Divers on-scene said they would try to recover it on Thursday while continuing the search for the sixth.
+
+The discovery made clear the operation to search the hull on the seabed 50 meters (164 feet) underwater had quickly turned into a recovery one, not a rescue, given the amount of time that had passed and with no signs of life over three days of searching.
+
+...
+
+[Data](articles/26ef85e8.json)
+
+---
+
+### මහින්දගේ විශ්වාසය
+
+*2024-08-22 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200197) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් වෙන්ව කටයුතු කරන පාර්ශ්වයන් ට ඉදිරියේ දී යළි පක්ෂය වෙත පැමිණීමට සිදුවනු ඇති බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ ඇතැම් පුද්ගලයින් පටු දේශපාලන වාසි තකා සිය පක්ෂයට සහාය නොදක්වා වෙනත් පක්ෂයකට සහාය දැක්වීමට කටයුතු කරමින් සිටින බවය.
+
+අනුරාධපුර සල්ගාදු ක්‍රීඩාංගණයේ පැවති ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ සමාරම්භක රැලිය අමතමින් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මෙම අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/1b8e92f1.json)
+
+---
+
 ### Sri Lanka to host national event in preparation for UN Summit of the Future
 
 *2024-08-22 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101410/sri-lanka-to-host-national-event-in-preparation-for-un-summit-of-the-future) · `en`
 
-The Presidential Secretariat, the Ministry of Foreign Affairs and the United Nations Office in Sri Lanka will host a National Event on 22 August 2024 at the Presidential Secretariat, in preparation for Sri Lanka’s participation at the Summit of the Future convened by the United Nations from 22-23 September 2024 in New York.
+The Presidential Secretariat, the Ministry of Foreign Affairs and the United Nations Office in Sri Lanka will host a National Event today (22) at the Presidential Secretariat, in preparation for Sri Lanka’s participation at the Summit of the Future convened by the United Nations from 22-23 September 2024 in New York.
 
-The national event aims to highlight Sri Lanka’s priorities and contributions towards the objectives of the Summit of the Future and the proposed Pact for the Future, which will be adopted as the Outcome Document of the Summit. The Pact for the Future is expected to serve as a comprehensive framework to advance international cooperation and address pressing global issues, including extreme poverty, climate change, digital governance, peace and security, and sustainable development.
+The national event aims to highlight Sri Lanka’s priorities and contributions towards the objectives of the Summit of the Future and the proposed Pact for the Future, which will be adopted as the Outcome Document of the Summit, the Foreign Ministry said in a statement.
 
-The national event in Sri Lanka is an integral part of these global efforts, focusing on showcasing the country’s proactive role at multilateral fora, in addressing these challenges.
+The Pact for the Future is expected to serve as a comprehensive framework to advance international cooperation and address pressing global issues, including extreme poverty, climate change, digital governance, peace and security, and sustainable development.
 
 ...
 
@@ -2247,47 +2279,5 @@ Rescuers have rushed throughout the province to assist the affected areas, as he
 [Data](articles/1f81cc2a.json)
 
 [Extended Data](ext_articles/1f81cc2a.ext.json)
-
----
-
-### Sri Lanka to finalize 10 mining investments under new regulation: State Minister
-
-*2024-08-21 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-finalize-10-mining-investments-under-new-regulation-state-minister-177639/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in the process of finalizing 10 mining companies which have been looking to invest in the island nation’s mining for a long time amid change in the mining regulation, State Investment Minister Dilum Amunugama said.
-
-The Cabinet in August 2023 approved several proposals by President Ranil Wickremesinghe aimed at promoting foreign and local investment in the country’s mineral industry to boost revenues in a sector which has been long dragged by corruption.
-
-The cabinet proposal has changed the earlier mandatory requirement of value addition from the first day of the business.
-
-Instead, the government considers separation of minerals from the deposits as the initial value addition and the licensee could export the minerals either for 24 months or a maximum 30 percent of the grids. The licensee then could put up a value addition plant.
-
-...
-
-[Data](articles/7fe2ce3c.json)
-
-[Extended Data](ext_articles/7fe2ce3c.ext.json)
-
----
-
-### Sri Lanka lenders, Bank of China eye Port City for offshore banking
-
-*2024-08-21 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-lenders-bank-of-china-eye-port-city-for-offshore-banking-177626/) · `en`
-
-ECONOMYNEXT – Nine Sri Lanka banks have applied to, and Bank of China has expressed interest in, setting up branches within the special economic zone, Chief Operating Officer of the Colombo Port City Economic Commission Revan Wikramasuriya said.
-
-Sri Lanka recently gazetted regulations governing banks within the Port City. The banks will be regulated by Sri Lanka’s central bank, Wikramasuriya told reporters in Colombo.
-
-Commercial Bank of Ceylon, HNB, Sampath, NDB, NTB, Union Bank, DFCC, Bank of Ceylon and People’s Bank have applied to set up branches.
-
-The banks will provide services to offshore customers and businesses operating within the Colombo Port City.
-
-The Colombo Port City is a dollarized special economic zone which will be free of central bank liquidity tools and therefore free of currency crises. (Colombo/August21/2024)
-
-◼️
-
-[Data](articles/9b10ea66.json)
-
-[Extended Data](ext_articles/9b10ea66.ext.json)
 
 ---

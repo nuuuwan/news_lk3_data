@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 03:21:26**
+As of **2024-08-23 03:36:48**
 
 ## Newspaper Stats
 
-*Scraped **42,157** Articles*
+*Scraped **42,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 3,884
 dailymirrorlk | 4,733
 adaderanalk | 4,939
 tamilmirrorlk | 5,471
-virakesarilk | 6,709
+virakesarilk | 6,710
 adaderanasinhalalk | 7,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,157 (100.0%) of 42,157 articles have been extended.
+42,157 (100.0%) of 42,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### ரணில் விக்ரமசிங்க ஜனாதிபதி தேர்தலை பிற்போட்டு நாட்டு மக்களின்  அடிப்படை உரிமையே  மீறி இருக்கிறார் - சஜித் பிரேமதாச
+
+*2024-08-23 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191749) · `ta`
+
+ரணில் விக்ரமசிங்க எனும் பதில் ஜனாதிபதி தேர்தலை பிற்போட்டு நாட்டு மக்களின் அடிப்படை உரிமையே  மீறி இருக்கிறார்.  உயர் நீதிமன்றமே தீர்ப்பு வழங்கியிருக்கிறது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார.
+
+ஜனாதிபதி உள்ளிட்ட அரசாங்கம் நமது சுய இலாபத்திற்காக வங்கரோத்து அடைந்த  நாட்டில் தேசிய வளங்களையும் சொத்துக்களையும் முறையற்ற விதத்தில் பயன்படுத்துகின்றனர்.
+
+சிரமப்படுகின்ற மக்களுக்கு வழங்க வேண்டியவைகளை  புறக்கணித்து மக்களுக்கு விரோதமான முறையில் அரச நிர்வாகம் ஒன்றை தற்போது முன்னெடுக்கின்றனர்.
+
+நான் என்கின்ற மமதையுடன் ஆட்சி யுகம் ஒன்றை ஏற்படுத்தி தனது அதிகாரத்தை பாதுகாத்துக் கொள்வதற்காக அதிகபட்ச தந்திரங்களை பயன்படுத்தி,
+
+அரசியல் யாப்பு விதிமுறைகளை மீறி, நிறைவேற்று அதிகாரத்தை  தான்தோன்றித்தனமாக பாவித்து  அவர்களுடைய அரசியல் ஆயுட்காலத்தை  நீடித்துக் கொள்வதற்காக முயற்சிகளை மேற்கொள்கின்ற இந்த இருண்ட யுகத்தை  தோல்வி அடையச் செய்து, பொது மக்களுக்கான யுகத்தை நோக்கி செல்வதற்கு  ஒன்றிணையுமாறு எதிர்க்கட்சித் தலைவர்  அழைப்பு விடுத்தார்.
+
+...
+
+[Data](articles/01031cea.json)
+
+---
 
 ### Complete support - Sreedharan
 
@@ -2381,21 +2401,5 @@ Rajapaksa made these remarks while addressing the inaugural presidential electio
 [Data](articles/63ac9d6c.json)
 
 [Extended Data](ext_articles/63ac9d6c.ext.json)
-
----
-
-### Presidential Election: Polling cards distribution to begin on Sept. 3
-
-*2024-08-22 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101413/presidential-election-polling-cards-distribution-to-begin-on-sept-3) · `en`
-
-The distribution of official polling cards for the 2024 Presidential Election will commence on September 03, according to the Deputy Postmaster General.
-
-Meanwhile, September 08 (Sunday) has been designated as a special day for polling card distribution, he said.
-
-◼️
-
-[Data](articles/57673542.json)
-
-[Extended Data](ext_articles/57673542.ext.json)
 
 ---

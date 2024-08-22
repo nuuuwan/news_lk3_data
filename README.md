@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 14:09:03**
+As of **2024-08-22 14:21:16**
 
 ## Newspaper Stats
 
-*Scraped **42,073** Articles*
+*Scraped **42,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,542
 dailyftlk | 2,723
 adalk | 3,875
 dailymirrorlk | 4,733
-adaderanalk | 4,926
+adaderanalk | 4,927
 tamilmirrorlk | 5,459
 virakesarilk | 6,691
 adaderanasinhalalk | 7,176
@@ -26,45 +26,73 @@ adaderanasinhalalk | 7,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,070 (100.0%) of 42,073 articles have been extended.
+42,073 (100.0%) of 42,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### තණමල්විල නිහඬ විරෝධය
+### 10 million in a day! Cristiano Ronaldo breaks YouTube record with lightning-fast subscriber milestone
+
+*2024-08-22 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101421/10-million-in-a-day-cristiano-ronaldo-breaks-youtube-record-with-lightning-fast-subscriber-milestone) · `en`
+
+Football superstar Cristiano Ronaldo has once again demonstrated his immense global influence, this time in the digital realm. The 39-year-old Portuguese icon, known for his exceptional achievements on the pitch, has now broken new ground by setting a YouTube record for the fastest channel to reach 10 million subscribers.
+
+Ronaldo launched his YouTube channel, UR Cristiano, on Wednesday, August 21, instantly captivating millions of fans worldwide.
+
+The channel debuted with several videos, including a teaser trailer, a fun quiz game with his partner Georgina Rodriguez, and a clip of Ronaldo meeting his wax figure at Madame Tussauds.
+
+...
+
+[Data](articles/a5f753a9.json)
+
+---
+
+### Silent protest of Tanamalwila
 
 *2024-08-22 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200203) · `si`
 
-තණමල්විල ප්‍රදේශයේ පාසලක ඉගෙනුම ලබන පාසල් සිසුවියක් සමූහ දූෂණයට ලක් කිරීමේ සිද්ධියට සම්බන්ධ සැකකාර පාසල් සිසුන් 17 සහ ඊට අධාර අනුබල දුන් කාන්තාව අද (22) වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට යළි ඉදිරිපත් කිරීමට නියමිතය.
+A silent protest occurred outside the Wellawaya Magistrate's Court regarding a case involving a woman from Thanamalwila. The protest turned violent when a man attacked a journalist, leading to threats against him and verbal abuse from both protesters and police.
 
-මේ අතර වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණය ඉදිරිපිට දැරියට සාධාරණයක් ඉල්ලා නිහඬ විරෝධතාවයක් පැවැත්වුණි.
+🟩
 
-කෙසේ වෙතත්, ඊට ආසන්නයේ කලහකාරීව හැසිරුණු පුද්ගලයෙකු එම විරෝධය වාර්තාකරණය සඳහා පැමිණි මාධ්‍යවේදියෙකුට පහරදීමට උත්සාහ කර තිබුණි.
+The woman who responded to a schoolgirl in the Thanamalwila area of ​​a schoolgirl in the Thanamalwila area is to be returned to the Wellawaya Magistrate's Court today.
 
-පසුව එම පුද්ගලයා එම ස්ථානයේ සිටි විරෝධතාකරුවන්ට ද තර්ජනය කර ඇති අතර පොලිස් නිලධාරීන් මැදිහත්ව එම පුද්ගලයා ව එම ස්ථානයෙන් ඉවත් කළ බව අද දෙරණ වාර්තාකරු පැවසීය.
+Meanwhile, a silent protest was held in front of the Wellawaya Magistrate's Court.
+
+However, a person who was agingly engaged in an immediate question had tried to attack a journalist who had come to report.
+
+The man was later threatened by protesters and police officers were abused by the Ada Derana reporter, Ada Derana reporter said.
 
 ◼️
 
 [Data](articles/0557fe36.json)
 
+[Extended Data](ext_articles/0557fe36.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා - එංගලන්ත පළමු ටෙස්ට් ක්‍රිකට් තරගයේ දෙවන දිනය අද
+### Day 2 of Sri Lanka - England first Test match today
 
 *2024-08-22 13:41:42* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---එංගලන්ත-පළමු-ටෙස්ට්-ක්‍රිකට්-තරගයේ-දෙවන-දිනය-අද/9-411501) · `si`
 
-ශ්‍රී ලංකා - එංගලන්ත පළමු එක්දින ක්‍රිකට් තරගයේ දෙවන දිනය සඳහා වන තරගය අද පැවැත්වේ.
+On Day 2 of the Sri Lanka-England first ODI match, England, after being bowled out for 4 runs in 4 overs yesterday, faces a significant challenge as Sri Lanka scored 236 runs in 74 overs. England needs to surpass Sri Lanka's total by 214 runs to win.
 
-පළමු දිනය සඳහා තරගය නතර කරන විට පන්දුවට පහර දෙමින් සිටි එංගලන්ත කණ්ඩායම පන්දුවාර 4ක් අවසානයේ කිසිවෙකු නොදෙවි ලකුණු 22ක් ලබා සිටියහ.
+🟩
 
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම  සිය පළමු ඉනිම සඳහා පන්දුවාර 74ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 236ක් රැස් කළහ.
+The second day of the Sri Lanka-England's first ODI match will be held today.
 
-ඒ අනුව එංගලන්ත කණ්ඩායම මේ වන විට ශ්‍රී ලංකා පළමු ඉනිමට වඩා තවත් ලකුණු 214ක් පිටුපසින් පසුවන්නේය.
+England, who was batting for the first day, England was elected at four runs in four overs.
+
+Batting first, Sri Lanka scored 236 runs for the loss of 74 overs.
+
+Accordingly, the England team will be behind 214 more than Sri Lanka's first innings.
 
 ◼️
 
 [Data](articles/7d9f4f83.json)
+
+[Extended Data](ext_articles/7d9f4f83.ext.json)
 
 ---
 
@@ -168,19 +196,25 @@ The relevant FR petitions were filed against the postponement of the 2023 Local 
 
 ---
 
-### වැල්ලවාය ළමා නිවාසයක ළමයින් හතරක් අතුරුදන්
+### Four children in Wellawaya go missing
 
 *2024-08-22 12:00:39* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවාය-ළමා-නිවාසයක-ළමයින්-හතරක්-අතුරුදන්/11-411500) · `si`
 
-වැල්ලවාය පොලිස් වසමේ ඇල්ලපාර ප්‍රදේශයේ පිහිටි ළමා නිවාසයකින් ළමයින් හතරදෙනෙකු අතුරුදහන්වී ඇතැයි වැල්ලවාය පොලීසිය පවසයි.
+In Wellawaya, four children aged 16 and 14 vanished from a children's home. Initial probes show they left unknowingly.
 
-අවුරුදු 16,14 වියෙහි පසුවන පිරිමි ළමුන් දෙදෙනෙකු සහ 15 හැවිරිදි වියෙහි පසුවන පිරිමි ළමුන් දෙදෙනෙකු මෙලෙස අතුරුදන්වී ඇත.
+🟩
 
-මෙම ළමයින් සිව්දෙනා ළමා නිවාසයට නොදන්වා පිටවගොස් ඇති බව මූලික පරීක්ෂණ වලදී අනාවරණයවී තිබේ.
+Four children have disappeared from a childhood house in Ellapara in the Wellawaya Police Division, Wellawaya Police.
+
+Two boys and two boys in the year 16,14 have disappeared.
+
+Preliminary investigations have revealed that the four children had left the children's home without knowing the children's home.
 
 ◼️
 
 [Data](articles/e6e2e0d3.json)
+
+[Extended Data](ext_articles/e6e2e0d3.ext.json)
 
 ---
 
@@ -2203,21 +2237,5 @@ The much anticipated Presidential election next month has created seismic activi
 [Data](articles/a0bd8ac7.json)
 
 [Extended Data](ext_articles/a0bd8ac7.ext.json)
-
----
-
-### Political remnants and success for NPP
-
-*2024-08-21 22:35:37* · [`dailyftlk`](https://www.ft.lk/columns/Political-remnants-and-success-for-NPP/4-765810) · `en`
-
-Under the NPP government after 21 September 2024, law and order will undoubtedly be relevant and applicable to all, from the president of Sri Lanka to the ordinary people or grassroots. In other words, if the law is violated, due punishment by the law will be ruled. The above will be a massive change in the right direction so people can sense and feel it is becoming part and parcel of life
-
-The country’s people are currently grappling with severe economic problems or challenges, including the escalating cost of living and the repercussions of IMF programs aimed at economic recovery. However, the NPP is committed to addressing these issues, offering hope and optimism for a better future. Indeed, the escalating cost of living is the foremost burning issue for all low- and middle-income households. Given the above, the country witnessed an array of strikes by trade unions, and the Government addressed and resolved the workers’ concerns using tear gas and water cannons
-
-...
-
-[Data](articles/fec6aba6.json)
-
-[Extended Data](ext_articles/fec6aba6.ext.json)
 
 ---

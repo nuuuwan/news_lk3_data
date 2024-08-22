@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 03:36:48**
+As of **2024-08-23 03:55:31**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,157 (100.0%) of 42,158 articles have been extended.
+42,158 (100.0%) of 42,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### ரணில் விக்ரமசிங்க ஜனாதிபதி தேர்தலை பிற்போட்டு நாட்டு மக்களின்  அடிப்படை உரிமையே  மீறி இருக்கிறார் - சஜித் பிரேமதாச
+### Ranil Wickremesinghe has lost the presidential election after the fundamental rights of the people - Sajith Premadasa
 
 *2024-08-23 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191749) · `ta`
 
-ரணில் விக்ரமசிங்க எனும் பதில் ஜனாதிபதி தேர்தலை பிற்போட்டு நாட்டு மக்களின் அடிப்படை உரிமையே  மீறி இருக்கிறார்.  உயர் நீதிமன்றமே தீர்ப்பு வழங்கியிருக்கிறது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார.
+Sajith Premadasa criticizes Ranil Wickremesinghe for violating citizens' rights and misusing national resources. He calls for unity against a regime that ignores constitutional norms and prioritizes personal gain over public welfare. Premadasa emphasizes the importance of standing with the people against corruption and promises a democratic future focused on enhancing the quality of life for all.
 
-ஜனாதிபதி உள்ளிட்ட அரசாங்கம் நமது சுய இலாபத்திற்காக வங்கரோத்து அடைந்த  நாட்டில் தேசிய வளங்களையும் சொத்துக்களையும் முறையற்ற விதத்தில் பயன்படுத்துகின்றனர்.
+🟩
 
-சிரமப்படுகின்ற மக்களுக்கு வழங்க வேண்டியவைகளை  புறக்கணித்து மக்களுக்கு விரோதமான முறையில் அரச நிர்வாகம் ஒன்றை தற்போது முன்னெடுக்கின்றனர்.
+Ranil Wickremesinghe's response to the presidential election has violated the fundamental rights of the people.Opposition leader Sajith Premadasa has said that the Supreme Court has ruled.
 
-நான் என்கின்ற மமதையுடன் ஆட்சி யுகம் ஒன்றை ஏற்படுத்தி தனது அதிகாரத்தை பாதுகாத்துக் கொள்வதற்காக அதிகபட்ச தந்திரங்களை பயன்படுத்தி,
+The government, including the president, is improperly using national resources and assets in a country that has been banned for our self -profit.
 
-அரசியல் யாப்பு விதிமுறைகளை மீறி, நிறைவேற்று அதிகாரத்தை  தான்தோன்றித்தனமாக பாவித்து  அவர்களுடைய அரசியல் ஆயுட்காலத்தை  நீடித்துக் கொள்வதற்காக முயற்சிகளை மேற்கொள்கின்ற இந்த இருண்ட யுகத்தை  தோல்வி அடையச் செய்து, பொது மக்களுக்கான யுகத்தை நோக்கி செல்வதற்கு  ஒன்றிணையுமாறு எதிர்க்கட்சித் தலைவர்  அழைப்பு விடுத்தார்.
+The state administration is currently carrying out a protest against the people, ignoring what is supposed to be given to the people.
+
+Using the maximum tricks to establish a regime with the Mamata I am, to protect his power,
+
+The Opposition Leader has called for the failure of this dark age, which is trying to prolong their political life span, in violation of the rules of the constitution and goes towards the era of the public.
+
+The heads of this politics are changing. There is a political culture that loses its self -esteem for money, for the sake of money, for concessions, gifts and wine stories.
 
 ...
 
 [Data](articles/01031cea.json)
+
+[Extended Data](ext_articles/01031cea.ext.json)
 
 ---
 

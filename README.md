@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 11:07:23**
+As of **2024-08-22 11:21:13**
 
 ## Newspaper Stats
 
-*Scraped **42,039** Articles*
+*Scraped **42,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,536
 dailyftlk | 2,723
 adalk | 3,871
 dailymirrorlk | 4,733
-adaderanalk | 4,918
+adaderanalk | 4,919
 tamilmirrorlk | 5,452
 virakesarilk | 6,686
 adaderanasinhalalk | 7,173
@@ -26,25 +26,45 @@ adaderanasinhalalk | 7,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,037 (100.0%) of 42,039 articles have been extended.
+42,039 (100.0%) of 42,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### නිල ඡන්ද පත්‍රිකා බෙදීම සැප්තැම්බර් 3 සිට
+### Presidential Election: Polling cards distribution to begin on Sept. 3
+
+*2024-08-22 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101413/presidential-election-polling-cards-distribution-to-begin-on-sept-3) · `en`
+
+The distribution of official polling cards for the 2024 Presidential Election will commence on September 03, according to the Deputy Postmaster General.
+
+Meanwhile, September 08 (Sunday) has been designated as a special day for polling card distribution, he said.
+
+◼️
+
+[Data](articles/57673542.json)
+
+---
+
+### Distribution of official ballot papers from September 3
 
 *2024-08-22 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200200) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා අදාළ නිල ඡන්ද දැන්වීම් පත්‍රකා බෙදා හැරීමේ කටයුතු සැප්තැම්බර් 3 වනදා ආරම්භ කරන බව නියෝජ්‍ය තැපැල්පති  රාජිත රණසිංහ මහතා පවසයි.
+On September 3, Deputy Post Master General Rajitha Ranasinghe announced the start of official ballot paper distribution for the Presidential election. This special event, marked on September 8, a public holiday, will take place from 8 am to 6 pm.
 
-ඒ මහතා පැවසුවේ එම කටයුතු සඳහා විශේෂිත දිනය ලෙස සැප්තැම්බර් මස 08 වනදා නම් කර ඇති බවයි.
+🟩
 
-රජයේ නිවාඩු දිනයක් වන ඉරිදා දිනයේ පෙරවරු 08 සිට පස්වරු 06 දක්වා මෙම බෙදාහැරීම සිදු කරන බව ඒ මහතා පැවසීය.
+Deputy Post Master General Rajitha Ranasinghe says that the distribution of the official vote vote for the Presidential election will commence on September 3.
+
+He said that the special date was designated on September 08 as a special date.
+
+The distribution will be distributed from 08th to 6 pm, a public holiday.
 
 ◼️
 
 [Data](articles/63c0dd1a.json)
+
+[Extended Data](ext_articles/63c0dd1a.ext.json)
 
 ---
 
@@ -161,6 +181,8 @@ Accordingly, the Convenor of the Allied Health Sciences Students’ Union Tharus
 ◼️
 
 [Data](articles/811ce024.json)
+
+[Extended Data](ext_articles/811ce024.ext.json)
 
 ---
 
@@ -2241,29 +2263,5 @@ I thank the political parties, including Prime Minister Dinesh Gunawardena, who 
 [Data](articles/c724bec7.json)
 
 [Extended Data](ext_articles/c724bec7.ext.json)
-
----
-
-### 'Diligence' will be released by new posters
-
-*2024-08-21 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/191631) · `ta`
-
-"New poster for 'Diligence' features Ganesh Saravanan and Dasarathi. Starring Ajith Kumar, Arjun, Trisha, Regina, Arav, Nikhil Nair, directed by Mahir Thirumeni, music by Anirudh, shot in Hyderabad. Fans excited about the duo's appearance."
-
-🟩
-
-The film crew has released a photo of the actors Ganesh Saravanan and Dasarati, who are starring in the film 'Vida' starring Ajith Kumar.
-
-Ajith Kumar, Arjun, Trisha, Regina, Arav, Nikhil Nair, Ganesh Saravanan, Dasarathi, directed by director, actor and background voice artist Mahir Thirumeni.. Anirudh composes the film, which is being recorded by Om Prakash. The film is being produced as an exercise enterter and produced by producer Subhashkaran on behalf of Leica Productions.
-
-The shooting of the film, which is being held in Hyderabad, has been completed. The role of the actors who played the role in the film, with only a few more days of shooting.. The film crew has been releasing a series of photos.
-
-The film crew has released a photo of the actors Ganesh Saravanan and Dasarathi, who played the lead role in the film.As usual, the appearance of these two actors has been attracted to fans as usual.
-
-...
-
-[Data](articles/9ca2369c.json)
-
-[Extended Data](ext_articles/9ca2369c.ext.json)
 
 ---

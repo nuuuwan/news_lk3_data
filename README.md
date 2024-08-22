@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 10:08:16**
+As of **2024-08-22 10:21:31**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 7,170
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,028 (100.0%) of 42,030 articles have been extended.
+42,030 (100.0%) of 42,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### சொத்து விபரங்களை  இணையத்தளத்தில் பார்வையிடலாம்
+### You can view property details on the website
 
 *2024-08-22 09:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்து-விபரங்களை-இணையத்தளத்தில்-பார்வையிடலாம்/175-342615) · `ta`
 
-இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிப்பதற்கான ஆணைக்குழு (CIABOC) ஜனாதிபதி வேட்பாளர்களின் சொத்துப் பிரகடனங்களை இப்போது அதன் உத்தியோகபூர்வ இணையத்தளத்தில் பொதுமக்கள் பார்வையிட முடியும் என அறிவித்துள்ளது.
+The CIABOC allows the public to view presidential nomination details on its official website.
+
+🟩
+
+The Commission to Investigate Bribery or Corruption (CIABOC) has announced that the public can visit the presidential nominations on its official website.
 
 ◼️
 
 [Data](articles/aaf00ccb.json)
+
+[Extended Data](ext_articles/aaf00ccb.ext.json)
 
 ---
 
@@ -1744,21 +1750,27 @@ In addition, Cabinet approval has been given to provide a fertilizer subsidy for
 
 ---
 
-### උද්ධමනය ඉහළට
+### Inflation up
 
 *2024-08-21 19:41:01* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-411496) · `si`
 
-මෙරට උද්ධමනය ඉහළ ගොස් තිබේ. මෙරට ආහාර කාණ්ඩයේ උද්ධමනය නැවත වරක් ඉහළ ගොස් තිබේ. එනමුත් ආහාර නොවන කාණ්ඩයේ උද්ධමනය අඩු වී තිබේ.
+Sri Lanka's inflation rose slightly in July 2024, with food prices increasing from 2.7% to 2.9%, while non-food inflation decreased from 2.2% to 2.1%.
 
-ඒ අනුව 2024ජුනි මාසයේදී 2.4% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය2024ජූලි මාසය සඳහා 2.5%ක් දක්වා වැඩි වී ඇත.
+🟩
 
-ඒ අනුව2024ජුනි මාසයේදී 1.9% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය2024ජූලි මාසයේදී 2.9%ක් දක්වා ඉහළ ගොස් තිබේ.
+Inflation in Sri Lanka has increased. Inflation in food category of food category has once again increased. But the non-food category inflation has diminished.
 
-එමෙන්ම2024 ජුනි මාසයේදී 2.7%ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය2024ජූලි මාසයේදී 2.2%ක් දක්වා අඩු වී ඇත.
+In June 2024, Sri Lanka's inflation was 2.5% for July 2024 for July 2024.
+
+Accordingly, in June 2024, the point in the food category of food recorded increased to 2.9% in July 2024.
+
+In June 2024, the no-2.7% of food was up to 2.2% in July 2024.
 
 ◼️
 
 [Data](articles/ca4551b8.json)
+
+[Extended Data](ext_articles/ca4551b8.ext.json)
 
 ---
 

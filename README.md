@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 06:25:36**
+As of **2024-08-22 07:03:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,997 (100.0%) of 42,009 articles have been extended.
+41,998 (100.0%) of 42,009 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,15 +82,21 @@ President Gotabhaya Rajapakse has deceived the people of the country and the Cat
 
 ---
 
-### 35 நாடுகளுக்கு இலங்கை வர இலவச விசா
+### Free visa to come to Sri Lanka for 35 countries
 
 *2024-08-22 02:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-நாடுகளுக்கு-இலங்கை-வர-இலவச-விசா/175-342611) · `ta`
 
-இங்கிலாந்து, அமெரிக்கா, கனடா, ஜெர்மனி, அவுஸ்திரேலியா, சவூதி அரேபியா, சீனா, இந்தியா, ரஷ்யா, தென் கொரியா மற்றும் ஜப்பான் உள்ளிட்ட 35 நாடுகளின் பிரஜைகளுக்கு 2024 ஆம் ஆண்டு ஒக்டோபர் 01 ஆம் திகதி முதல் 06 மாதங்களுக்கு இலங்கைக்கு விசா இன்றி அனுமதி வழங்க அமைச்சரவை தீர்மானித்துள்ளது. (a)
+Sri Lanka will offer free visas to citizens of 35 countries, including major ones like the UK, US, Canada, and Germany, starting October 1, 2024, for a duration of three months.
+
+🟩
+
+The Cabinet has decided to grant a visa to Sri Lanka for three months from October 01, 2024, to the citizens of 35 countries including the UK, the United States, the Canada, Germany, Australia, Saudi Arabia, China, India, Russia, South Korea and Japan.. (A)
 
 ◼️
 
 [Data](articles/e1c4afcb.json)
+
+[Extended Data](ext_articles/e1c4afcb.ext.json)
 
 ---
 

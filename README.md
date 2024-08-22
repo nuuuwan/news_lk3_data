@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 10:21:31**
+As of **2024-08-22 10:36:41**
 
 ## Newspaper Stats
 
-*Scraped **42,030** Articles*
+*Scraped **42,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,536
 dailyftlk | 2,723
 adalk | 3,871
 dailymirrorlk | 4,733
-adaderanalk | 4,915
-tamilmirrorlk | 5,449
+adaderanalk | 4,916
+tamilmirrorlk | 5,452
 virakesarilk | 6,686
 adaderanasinhalalk | 7,170
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 7,170
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,030 (100.0%) of 42,030 articles have been extended.
+42,030 (100.0%) of 42,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### ”அனுமதியின்றி கொழும்பைத் தொட வேண்டாம்”
+
+*2024-08-22 10:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமதியின்றி-கொழும்பைத்-தொட-வேண்டாம்/175-342620) · `ta`
+
+தமது அனுமதியின்றி அல்லது உரிய கட்டணத்தைச் செலுத்தாமல் தேர்தல் பிரசாரத்திற்காக நகர வீதிகள் அல்லது பொது இடங்களை அலங்கரிக்கும் எந்தவொரு வேட்பாளர் அல்லது அரசியல் கட்சியினருக்கும் எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என கொழும்பு மாநகர சபை (CMC) நேற்று (21) எச்சரித்துள்ளது.
+
+ஒன்பதாவது ஜனாதிபதித் தேர்தல் ஜூலை 26ஆம் திகதி அறிவிக்கப்பட்டவுடன், இலங்கை தேர்தல் ஆணைக்குழுவிலிருந்து அங்கீகரிக்கப்பட்ட 80க்கும் மேற்பட்ட அரசியல் கட்சிகளுக்கு பிரச்சாரப் பொருட்களால் தலைநகரை அலங்கரிக்கும் போது தேர்தல் சட்டத்தின் விதிமுறைகளை கடைப்பிடிக்குமாறு நினைவூட்டி கடிதம் அனுப்பியதாக மாநகர சபையின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+நகரை அலங்கரிக்க விரும்பும் எந்தவொரு வேட்பாளரோ அல்லது அரசியல் கட்சியினரோ அவர்களிடமிருந்து தேவையான அனுமதியைப் பெற வேண்டும் அல்லது அத்தகைய பிரச்சாரப் பொருட்கள் உடனடியாக அமுலுக்கு வரும் வகையில் அகற்றப்பட்டு சட்ட நடவடிக்கை எடுக்கப்படும் என்று ஆணையாளர் பத்ராணி ஜயவர்தன டெய்லி மிரருக்கு தெரிவித்தார்.
+
+...
+
+[Data](articles/2c8e1dc4.json)
+
+---
+
+### மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யும்
+
+*2024-08-22 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையோ-அல்லது-இடியுடன்-கூடிய-மழையோ-பெய்யும்/175-342617) · `ta`
+
+மேல், சப்ரகமுவ, தென் மற்றும் வடமேல் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போதுமணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில்ஓரளவு பலத்தகாற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/41e696d1.json)
+
+---
+
+### ”வடக்கு கிழக்கு மாகாணங்கள் இணைக்கப்பட மாட்டாது”
+
+*2024-08-22 10:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-மாகாணங்கள்-இணைக்கப்பட-மாட்டாது/175-342616) · `ta`
+
+சவால்களுக்கு தாம் ஒருபோதும் பயப்படுவதில்லை என்றும் சவால்களை தாம் விரும்புவதாகவும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+அநுராதபுரத்தில் இடம்பெற்ற ஜனாதிபதித் தேர்தல் பிரசாரக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றிய அவர், தாம் கொள்கைகளின் அடிப்படையில் அரசியலில் ஈடுபட்டு வருவதாகவும், செயற்திட்டத்துடன் முன்னோக்கிச் செல்லத் தயார் எனவும் தெரிவித்தார்.
+
+"நாங்கள் சவால்களுக்கு பயப்படுவதில்லை. நான் சவால்களை விரும்புகிறேன். அதைத்தான் நான் என் தந்தையிடம் கற்றுக்கொண்டேன். நான் யாரையும் வெறுக்கவில்லை. அதனால், எங்கள் மீது சேறு பூசுவது பயனற்றது," என்று அவர் கூறினார்.
+
+2005 மற்றும் 2015 ஆம் ஆண்டுகளில் நடைமுறையில் இருந்த விவசாயக் கொள்கையை நடைமுறைப்படுத்துவேன் என்று கூறிய ராஜபக்ச, விவசாயிகளுக்கு உர மானியம் வழங்குவதாகவும் கூறினார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசாங்கம் மாகாண சபைகளுக்கு பொலிஸ் மற்றும் காணி அதிகாரங்களை வழங்காது எனவும் வடக்கு மற்றும் கிழக்கு மாகாணங்கள் இணைக்கப்பட மாட்டாது எனவும் அவர் வலியுறுத்தியுள்ளார்.
+
+...
+
+[Data](articles/26547943.json)
+
+---
+
+### Court order issued over protests planned by health trade unions, IUSF
+
+*2024-08-22 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101412/court-order-issued-over-protests-planned-by-health-trade-unions-iusf) · `en`
+
+The Maligakanda Magistrate’s Court has issued an order preventing health sector trade unions and the Inter-University Students’ Federation (IUSF) from holding protest marches, entering the Health Ministry, and inconveniencing the public in the area from 10.00 a.m. to 9.00 p.m. today (22).
+
+◼️
+
+[Data](articles/eeeb532f.json)
+
+---
 
 ### You can view property details on the website
 
@@ -2193,93 +2259,5 @@ Chris Vox in bowling took 2 wickets for 17 runs, Shoeb Bashir took one wicket fo
 [Data](articles/eb162b17.json)
 
 [Extended Data](ext_articles/eb162b17.ext.json)
-
----
-
-### Haris met Sajith
-
-*2024-08-21 18:07:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-சந்தித்தார்-ஹரீஸ்/175-342581) · `ta`
-
-Haris met Sajith Premadasa, Opposition Leader and Presidential candidate, along with Rauf Hakeem, a former Sri Lanka Muslim Congress leader and minister. They discussed current political situations, focusing on the needs of the Eastern Province's people. Rauf Hakeem highlighted concerns affecting the Muslim community.
-
-🟩
-
-Attorney -at -Law Rauf Hakeem, former Sri Lanka Muslim Congress leader and former minister, lawyer HMMM. At the invitation of Opposition Leader and Presidential candidate Sajith Premadasa to Haris, the two met Sajith Premadasa on Wednesday (21) and discussed contemporary political circumstances.
-
-Digamadulla District Parliamentarian and former Minister of State for Attorney HMM on the issues, demands, demands of the people of the Eastern Province. Haris had illustrated the opposition leader and presidential candidate Sajith Premadasa.
-
-It is also noteworthy that the Sri Lanka Muslim Congress leader and former minister Rauf Hakeem had emphasized many issues on the Muslim community.
-
-◼️
-
-[Data](articles/7d2441f6.json)
-
-[Extended Data](ext_articles/7d2441f6.ext.json)
-
----
-
-### Pilgrimage's pilgrimage ends with tragedy
-
-*2024-08-21 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200184) · `si`
-
-A tragic accident occurred when a bus carrying Pakistani pilgrims returning from Iraq rolled over in Iran, killing several and injuring more. The incident was attributed to the bus's faulty braking system.
-
-🟩
-
-A bus carrying Pakistani pilgrims have been killed in Iran.
-
-Four others were injured in the accident and 7 of them are critical of the situation.
-
-The bus was rolled after traveling to Iraq from the province of Pakistan from the province of Pakistan.
-
-The bus bathing system has caused the accident, foreign media said.
-
-◼️
-
-[Data](articles/ef0fe4a5.json)
-
-[Extended Data](ext_articles/ef0fe4a5.ext.json)
-
----
-
-### When lunch Sri Lanka is a difficult time
-
-*2024-08-21 18:01:15* · [`adalk`](https://www.ada.lk/sports/දිවා-ආහාරය-වන-විට-ලංකාව-අසීරු-අඩියක/9-411490) · `si`
-
-In the first Test against England, Sri Lanka faced challenges during lunch. Winning the toss, they chose to bat but lost three key wickets. Dhananjaya scored 28 runs, while Mendis remained unbeaten. England's Chris Vox claimed two wickets.
-
-🟩
-
-The Sri Lankan team won the toss and attacking the first Test match with the host England.
-
-Dhananjaya also, 28 runs and Kimindu Mendis, remain in unseid grounds.
-
-Total scorer was a significant point in Sri Lanka's three wickets. Chris Vox took two wickets for England.
-
-◼️
-
-[Data](articles/c66b3324.json)
-
-[Extended Data](ext_articles/c66b3324.ext.json)
-
----
-
-### SJB Ratnapura District MP Thalatha Athukorale Announces her Resignation from Parliament;Delivers Scathing Attack on Sajith Premadasa questioning his  leadership qualities and suitability to lead the country at this critical time. Asks if Premadasa is attempting to act out Part II of Gotabaya Rajapaksa fiasco
-
-*2024-08-21 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84576) · `en`
-
-Samagi Jana Balawegaya (SJB) Ratnapura District MP Thalatha Athukorala yesterday announced her resignation from Parliament delivering a scathing critique of party’s Presidential hopeful Sajith Premadasa before stepping down.
-
-During a special address in Parliament, Thalatha Athukorala, who entered Parliament in 2004 after the untimely passing of her brother, United National Party (UNP) stalwart Gamini Athukorala, questioned Sajith Premadasa’s leadership qualities and his suitability to lead the country at this critical time.
-
-She also underscored the importance of honesty and patience in politics, stating her belief that this was not the right time for Sajith Premadasa to pursue the Presidency of Sri Lanka.
-
-A visibly emotional Athukoarala expressed deep regret over the division of the UNP and the recent failure of the UNP and the SJB to unite ahead of the Presidential election.
-
-...
-
-[Data](articles/43c8d77b.json)
-
-[Extended Data](ext_articles/43c8d77b.ext.json)
 
 ---

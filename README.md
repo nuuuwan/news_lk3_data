@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 13:21:19**
+As of **2024-08-22 13:37:00**
 
 ## Newspaper Stats
 
-*Scraped **42,067** Articles*
+*Scraped **42,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,542
 dailyftlk | 2,723
 adalk | 3,873
 dailymirrorlk | 4,733
-adaderanalk | 4,923
+adaderanalk | 4,925
 tamilmirrorlk | 5,459
 virakesarilk | 6,691
 adaderanasinhalalk | 7,175
@@ -26,25 +26,65 @@ adaderanasinhalalk | 7,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,065 (100.0%) of 42,067 articles have been extended.
+42,067 (100.0%) of 42,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### உள்ளூராட்சி மன்ற தேர்தலை முடிந்தளவு விரைவில் நடத்துமாறும் உயர் நீதிமன்றம் உத்தரவு !
+### Govt. to introduce ‘AI-related student societies’ in schools
+
+*2024-08-22 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101419/govt-to-introduce-ai-related-student-societies-in-schools-) · `en`
+
+The Cabinet of Ministers has granted approval to initiate a pilot programme as an initiative to launch “Artificial Intelligence related Student Societies” in 100 schools.
+
+Issuing a statement in this regard, the Department of Government Information (DGI) said that it is planned to implement this initiative with the participation of students from grades 6 to 9 and that plans are underway to expand this programme to other schools in the upcoming years based on the results of the pilot project.
+
+The programme’s goal is to provide an opportunity for the students to engage in studies relevant to artificial intelligence to achieve the objectives of creating citizens who can face future global trends and obtain their contribute to economic development effectively, it added.
+
+◼️
+
+[Data](articles/5508c576.json)
+
+---
+
+### Helicopter of Iran’s late President Raisi crashed due to weather conditions, Fars says
+
+*2024-08-22 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101418/helicopter-of-irans-late-president-raisi-crashed-due-to-weather-conditions-fars-says) · `en`
+
+The helicopter crash in which Iran’s late President Ebrahim Raisi was killed in May was caused by weather conditions and the aircraft’s inability to handle the weight it was carrying, Iran’s semi-official news agency reported on Wednesday (Aug 21), citing a security source informed of the final investigation results.
+
+The communications centre of the Armed Forces General Staff, responsible for publishing information on the crash investigation, said the report was “completely false”, state media reported.
+
+A preliminary report by Iran’s military had said in May that no evidence of foul play or an attack had been found during the investigation.
+
+“The investigation in the case of Ayatollah Raisi’s helicopter crash have been completed ... there is complete certainty that what happened was an accident,” the security source, who was not named, told Fars.
+
+...
+
+[Data](articles/a524c13e.json)
+
+---
+
+### High Court order to hold local government elections as soon as possible!
 
 *2024-08-22 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191692) · `ta`
 
-நிதியமைச்சர் என்ற வகையில் ஜனாதிபதி மற்றும் தேர்தல் ஆணைக்குழு உறுப்பினர்கள் 2023 இல் உள்ளூராட்சி மன்ற தேர்தலை நடத்தாமல் அடிப்படை உரிமைகளை மீறியுள்ளதாக உயர் நீதிமன்றம் தெரிவித்துள்ளது.
+The High Court has ordered immediate local government elections, criticizing the President, Finance Minister, and Election Commission for violating fundamental rights by not holding them in 2023. The court also canceled previous delays, setting a deadline before the scheduled presidential vote on September 21st.
 
-முடிந்தளவு விரைவில் ஒத்திவைக்கப்பட்ட உள்ளூராட்சி மன்றத் தேர்தலை நடத்துமாறும் இன்று வியாழக்கிழமை (22) உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+🟩
 
-எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி  ஜனாதிபதி தேர்தல் இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது.
+As a finance minister, the President and the Election Commission members have violated fundamental rights in 2023 without holding local government elections.
+
+The High Court on Thursday (22) ordered the postponement of the postponement of the postponement as soon as possible.
+
+The presidential election is scheduled for September 21st.
 
 ◼️
 
 [Data](articles/1cec4d84.json)
+
+[Extended Data](ext_articles/1cec4d84.ext.json)
 
 ---
 
@@ -980,25 +1020,33 @@ Following the incident, the parents of the 3 -year -old girl, who were informed 
 
 ---
 
-### මංගල තරගයේදී ම පිත්තෙන් වාර්තා තැබූ පන්දු යවන්නා
+### Bowler recorded in the stick in the wedding match
 
 *2024-08-22 07:07:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cly9d0dx01eo) · `si`
 
-ක්‍රිකට් ක්‍රීඩාව ලෝකයට හඳුන්වා දුන් එංගලන්තයේ ක්‍රිකට් කණ්ඩාමට එරෙහිව සහභාගි වූ සිය මංගල ටෙස්ට් තරගයේදී ම ටෙස්ට් ක්‍රිකට් වාර්තා දෙකක් පිහිටවූ ශ්‍රී ලංකා පිතිකරු මිලාන් රත්නායක ගැන ක්‍රිකට් ලෝකයේ ම අවධානය යොමුව තිබේ.
+Milan Ratnayake, a Sri Lankan cricketer, made headlines during a test match against England, scoring 72 runs and achieving a half-century. Born on August 1, 1996, he's known for his fast bowling skills and has represented several teams including the SLAF cricket team and Kurunegala Sports Club. His impressive performance in the match, where he broke a 41-year-old record held by Indian player Bishan Bedi against Pakistan, showcases his talent and potential.
 
-ප්‍රබල එංගලන්ත පන්දු යවන්නන්ගේ අභියෝගය හමුවේ මිලාන් රත්නායක පළපුරුදු පිතිකරුවෙකු ලෙස ශ්‍රී ලංකා ඉනිම ලකුණු 200 සීමාව ඉක්මවා ගෙන යාමට කටයුතු කළේ, තරගය නැරඹීමට පැමිණි එංගලන්ත ප්‍රේක්ෂකයින්ගේ ද ආචාරය හිමි කර ගනිමිනි.
+🟩
 
-සිය මංගල ටෙස්ට් තරගයේදී ම වාර්තා දෙකක් බිඳ හෙළූ මිලාන් රත්නායක යනු කවුද?
+The Sri Lankan batsman of Sri Lankan batsman is the focus of Sri Lankan batsman Milan Ratnayake, who was in the Mangala Ratnayake, who participated in the world to the world.
 
-මිලාන් රත්නායක සිය ටෙස්ට් හිස් වැසූම ලබා ගත්තේ හිටපු ප්‍රවීණ ක්‍රිකට් ක්‍රීඩකයෙකු වන කුමාර් සංගක්කාරගේ දෑතිනි.
+As a result of the challenge of powerful England bowlers, Milan Ratnayake has been able to exceed the 200zers of the Sri Lankan spectators.
 
-රත්නායක මුදියන්සේලාගේ මිලාන් ප්‍රියන්ත රත්නායක උපත ලැබුවේ, 1996 වසරේ අගෝස්තු මස 01 වන දා කුරුණෑගලදී ය.
+Who is Milan Ratnayake, who broke out two reports in his Mangala Test match?
 
-පාසල් අවදියේ සිට ක්‍රිකට් ක්‍රීඩාවට යොමුවූ මිලාන් දකුණතින් වේග පන්දු යවන්නෙකු ද වන අතර ඔහු පන්දුව මනා පාලනයකින් යුතුව දෝලනය කිරීමට ද හැකි අයෙකු ලෙස ද ප්‍රකට ය.
+Milan Ratnayake took his test empty with a former veteran cricketer, Kumar Sangakkara.
+
+Rathnayaka Mudiyansekara's Milantha Ratnayake was born on 1 August 1996.
+
+The school is a fast bowler and is known as a man who is well controlled from the school.
+
+The batsmen are popularly known as a bowler who threatens the ball with the advantage of 6 feet.
 
 ...
 
 [Data](articles/6ad23db7.json)
+
+[Extended Data](ext_articles/6ad23db7.ext.json)
 
 ---
 
@@ -2189,47 +2237,5 @@ We handed over the country that was economically advanced in 2015. Gotabhaya Raj
 [Data](articles/bc3474fc.json)
 
 [Extended Data](ext_articles/bc3474fc.ext.json)
-
----
-
-### Half-century from Milan in Mangala Test Competition
-
-*2024-08-21 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200190) · `si`
-
-In the historic first Test match between England and Sri Lanka at Manchester's Old Trafford, Milan Ratnayake made headlines with his debut half-century. Opening the innings, he scored 66 runs off just 52 balls, including 6 fours and 4 sixes, marking a promising start for the Sri Lankan team in the series.
-
-🟩
-
-The first Test match between England and the England team began this morning at the Manchester, Old Traford.
-
-Milan Ratnayake, who joined their wedding Test series, recorded his first half century.
-
-Milan who reported the first 6 beat in the innings, Milan received 6 hits and 4 hits for his half century.
-
-◼️
-
-[Data](articles/80510633.json)
-
-[Extended Data](ext_articles/80510633.ext.json)
-
----
-
-### SLPP's campaign meeting in Anuradhapura
-
-*2024-08-21 21:41:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுராதபுரத்தில்-SLPP-யின்-பிரசாரக்-கூட்டம்/175-342590) · `ta`
-
-In Anuradhapura, SLPP hosted a campaign meeting for Namal Rajapaksa, the PA's presidential candidate, with his father, former President Mahinda Rajapaksa, in attendance.
-
-🟩
-
-The election campaign meeting was held today in Anuradhapura, supporting the Sri Lankan PA's presidential candidate Namal Rajapaksa.
-
-It is also worth noting that former President and Namal's father Mahinda Rajapaksa attended the meeting.. Remble
-
-◼️
-
-[Data](articles/9457b064.json)
-
-[Extended Data](ext_articles/9457b064.ext.json)
 
 ---

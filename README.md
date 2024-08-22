@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 11:21:13**
+As of **2024-08-22 11:36:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,039 (100.0%) of 42,040 articles have been extended.
+42,040 (100.0%) of 42,040 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Meanwhile, September 08 (Sunday) has been designated as a special day for pollin
 ◼️
 
 [Data](articles/57673542.json)
+
+[Extended Data](ext_articles/57673542.ext.json)
 
 ---
 

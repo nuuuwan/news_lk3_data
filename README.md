@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 11:36:51**
+As of **2024-08-22 11:56:46**
 
 ## Newspaper Stats
 
-*Scraped **42,040** Articles*
+*Scraped **42,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,92 @@ newsfirstlk | 363
 bbccomsinhala | 388
 colombotelegraphcom | 403
 islandlk | 2,439
-economynextcom | 2,536
+economynextcom | 2,542
 dailyftlk | 2,723
-adalk | 3,871
+adalk | 3,872
 dailymirrorlk | 4,733
 adaderanalk | 4,919
-tamilmirrorlk | 5,452
-virakesarilk | 6,686
+tamilmirrorlk | 5,456
+virakesarilk | 6,690
 adaderanasinhalalk | 7,173
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,040 (100.0%) of 42,040 articles have been extended.
+42,040 (100.0%) of 42,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### ஜனாதிபதி தேர்தல்: செப்டெம்பர் 3ம் திகதி முதல் வாக்காளர் அட்டைகள் விநியோகம்
+
+*2024-08-22 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191685) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான உத்தியோகபூர்வ வாக்காளர் அட்டைகள் விநியோகம் செப்டெம்பர் 03 ஆம் திகதி ஆரம்பிக்கப்படும் என பிரதி தபால் மா அதிபர் தெரிவித்துள்ளார்.
+
+இதேவேளை, வாக்காளர் அட்டைகள் விநியோகிப்பதற்கான விசேட தினமாக செப்டம்பர் 08 (ஞாயிற்றுக்கிழமை) குறிப்பிடப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d5e3de19.json)
+
+---
+
+### மீனவர்களுக்கு விளக்கமறியல் நீடிப்பு
+
+*2024-08-22 11:28:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மீனவர்களுக்கு-விளக்கமறியல்-நீடிப்பு/71-342624) · `ta`
+
+இலங்கைக் கடற்பரப்புக்குள் எல்லை மீறி மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட 35 இந்திய மீனவர்களையும் அடுத்த மாதம் 04 ஆம் திகதி வரை விளக்கயறியலில் வைக்குமாறு புத்தளம் மாவட்ட நீதிமன்றம் புதன்கிழமை (21) உத்தரவிட்டுள்ளது.
+
+இந்தியா தமிழகம் பகுதியிலிருந்து நான்கு  படகுகளில் மீன்பிடித் தொழிலுக்காக வருகை தந்த மீனவர்களே இவ்வாறு கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+குறித்த இந்திய மீனவர்கள் 35 பேரும் எல்லை தாண்டி புத்தளம் - கற்பிட்டி வடக்கு குதிரமலை கடற்பகுதியில் மீன்பிடியில். ஈடுபட்டுக் கொண்டிருந்த போது வியாழக்கிழமை (08) ஆம் திகதி கடற்படையிரால் கைது செய்யப்பட்டனர்.
+
+இவ்வாறு கைது செய்யப்பட்ட 35 மீனவர்களும் மேலதிக சட்ட நடவடிக்கைகளுக்காக கற்பிட்டி பிரதேச கடற்தொழில் நீரியல் வளத்துறை திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்ட பின்னர் அவர்கள் கடந்த 09 ஆம் திகதி புத்தளம் மாவட்ட நீதிமன்றில் ஆஜர்படுத்தப்பட்டனர்.
+
+இதன்போது 35 இந்திய மீனவர்களையும்  (21)ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு புத்தளம் மாவட்ட மேலதிக நீதிவான் டி.எல்.ஏ.என். விமலரத்ன உத்தரவிட்டிருந்தார்.
+
+...
+
+[Data](articles/ea6bb553.json)
+
+---
+
+### எஸ். பி நாவின்ன ரணிலுக்கு ஆதரவு
+
+*2024-08-22 11:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-பி-நாவின்ன-ரணிலுக்கு-ஆதரவு/175-342623) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவே இந்த நாட்டின் எதிர்காலத்தை கையகப்படுத்துவதற்கு மிகவும் பொருத்தமானவர் என தெரிவித்த முன்னாள் அமைச்சர் எஸ். பி நாவின்ன ரணிலுக்கு ஆதரவளிக்க முன்வந்துள்ளார்.
+
+நாட்டில் ஏற்பட்டுள்ள நெருக்கடிக்கு பின்னர் கடந்த இரண்டு வருடங்களில் ஜனாதிபதி ரணில் விக்ரமசிங்க நாட்டுக்காக ஆற்றிய பணிகளை அனைத்து பிரஜைகளும் மறந்துவிடக் கூடாது எனவும் அவர் தெரிவித்தார்.
+
+மேலும் 4 ஆண்டுகளுக்குப் பிறகு மீண்டும் அரசியலுக்கு வந்தது , நாட்டின் எதிர்காலத்தை மேம்படுத்தும் வகையில் ரணில் விக்கிரமசிங்கவின் வெற்றியை உறுதிப்படுத்துவதற்காக என தெரிவித்தார் .
+
+◼️
+
+[Data](articles/36216974.json)
+
+---
+
+### 5ஆம் ஆண்டு மாணவர்களுக்கு ஆபாசபடங்களை காண்பித்த பாடசாலை அதிபர் கைது ; ஏறாவூரில் சம்பவம்
+
+*2024-08-22 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191676) · `ta`
+
+தரம் 5 ஆம் ஆண்டில் கல்வி கற்றுவரும் மாணவர்களுக்கு கையடக்க தொலைபேசியில் ஆபாசபடங்களை காட்டி வந்த 57 வயதுடைய பாடசாலை அதிபர் ஒருவரை நேற்று புதன்கிழமை (21) இரவு கைது செய்துள்ளதாக ஏறாவூர் பொலிஸார் தெரிவித்தனர்.
+
+மட்டக்களப்பு ஏறாவூர் பொலிஸ் பிரிவிலுள்ள ஆரம்ப பாடசாலை ஒன்றில் தரம் 5ம் ஆண்டில் 3 ஆண் மாணவர்களும், 3 பெண் மாணவர்களுமாக 6 பேர் கல்விகற்று வருகின்றனர்.
+
+குறித்த மாணவர்கள் 5 ஆம் ஆண்டு புலமைபரிசில் பரீட்சைக்கு தோற்றவுள்ள நிலையில் அந்த மாணவர்களுக்கு பாடசாலை முடிவுற்ற பின்னர் மேலதிகமாக மாலையில் அதிபர் கற்பித்து வந்துள்ளார்.
+
+இதன்போது அதிபர் மாணவர்களுக்கு தனது கையடக்க தொலைபேசியில் இருந்து ஆபாச படங்களை காட்டிவந்துள்ளார்.  இந்நிலையில், ஒரு மாணவி மாலை நேர வகுப்பிற்கு போகமுடியாது என பெற்றோரிடம் தெரிவித்த நிலையில் அதற்கான காரணத்தை கேட்டபோது மாணவி அதிபரின் இந்த ஈனச் செயல் தொடர்பாக தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/c5e04e37.json)
+
+---
 
 ### Presidential Election: Polling cards distribution to begin on Sept. 3
 
@@ -70,6 +138,90 @@ The distribution will be distributed from 08th to 6 pm, a public holiday.
 
 ---
 
+### Sri Lanka to establish Trincomalee logistic hub; aims up to $1.5 bn investment
+
+*2024-08-22 10:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-establish-trincomalee-logistic-hub-aims-up-to-1-5-bn-investment-177663/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in the process of establishing its most attractive logistic hub targeting heavy industries with an aim to attract up to 1.5 billion dollars investment, State Minister of Investment Promotion Dilum Amunugama said.
+
+The 600-acre investment zone in Trincomalee’s Kappalthurai will connect sea, air, and railway cargo freights, and it will be the second such hub after the Hambantota investment zone near a Chinese-built port.
+
+“Kappalthurai is being developed as a new zone in 600 acres connecting to the port,” Amunugama told reporters in Colombo on Thursday (21).
+
+“It will be a logistics hub and it will be only for heavy industries. That will be an industrial park. We are thinking that this will be the most attractive zone where we can have sea, air, and rail cargo transportation from Trincomalee.”
+
+Last year, Sri Lanka’s President Ranil Wickremesinghe and Indian Prime Minister Narendra Modi discussed developing an energy hub in the Trincomalee District.
+
+...
+
+[Data](articles/9f8e1f48.json)
+
+---
+
+### பொஸ்னியாவில் பாடசாலையில் துப்பாக்கி சூடு ; 3 பேர் பலி
+
+*2024-08-22 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191680) · `ta`
+
+பொஸ்னியா நாட்டின் மேற்கே சன்ஸ்கி மோஸ்ட் நகரில் உள்ள பாடசாலை ஒன்றில் பணியாளர் ஒருவர் புதன்கிழமை (21) துப்பாக்கி சூடு நடத்தியதில் பாடசாலை அதிபர், செயலாளர் மற்றும் ஓய்வு பெற்ற ஆங்கில ஆசிரியை உயிரிழந்தனர்.
+
+துப்பாக்கி சூட்டை நடத்திய நபர் தன்னை தானே சுட்டுக் கொண்டுள்ளார். நெஞ்சில் காயம் பட்ட அவரை மீட்டு சிகிச்சைக்கு கொண்டு சென்றுள்ளனர்.
+
+பாடசாலையில் கோடை விடுமுறை விடப்பட்டுள்ளது. இதனால், மாணவர்கள் யாரும் பாடசாலைக்கு வரவில்லை. எனினும், பரீட்சை எழுதுவதற்காக சில மாணவர்கள் வந்துள்ளனர்.
+
+இந்த சம்பவத்தில் பாடசாலை மாணவர்கள் யாருக்கும் காயம் ஏற்படவில்லை என பொலிஸ் திணைக்கள பணிப்பாளர் அமெல் கோஜ்லிகா தெரிவித்துள்ளார்.
+
+இதுபற்றி மேயர் பரீஸ் ஹசன்பெகோவிச் கூறும்போது, இந்த சம்பவம் நடந்ததற்கான காரணம் பற்றி அறியும் முயற்சியை மேற்கொண்டு வருகிறோம். இதுபற்றி கூறுவதற்கோ அல்லது இதனை நியாயப்படுத்துவதற்கோ எதுவும் இல்லை என செய்தியாளர்கள் சந்திப்பில் பேசும்போது கூறியுள்ளார்.
+
+அந்த பள்ளியிலுள்ள பணியாளர்கள் சிலர் கூறும்போது, ஒரு தூய்மை பணியாளராக உகாலிக், அவருடைய பணியில் மகிழ்ச்சியற்றவராக காணப்பட்டார் என தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/23283ec2.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 300.90/301.30 to US dollar
+
+*2024-08-22 10:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-300-90-301-30-to-us-dollar-177698/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.90/301.30 to the US dollar on Thursday, dealers said. Bond yields were stable, they said, and stocks opened up 0.07 percent.
+
+The rupee closed at 300.20/60 to the greenback on Wednesday.
+
+In the secondary market, bonds were broadly stable, dealers said. Of the actively quoted bonds;
+
+A bond maturing on 15.12.2026 was quoted stable at 11.00/15 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.89/12.00 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.50/60 percent, down from 12.70/80 percent.
+
+A bond maturing on 15.06.2029 was quoted stable at 12.85/95 percent.
+
+In equities, Colombo’s All Share Price Index opened 7.67 points higher at 11,489, while the S&P SL20 of more liquid stocks opened up at 0.07 percent or 2.45 points to 3,305.
+
+◼️
+
+[Data](articles/67526e6c.json)
+
+---
+
+### ”அனுமதியின்றி  தொட வேண்டாம்”
+
+*2024-08-22 10:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமதியின்றி-தொட-வேண்டாம்/175-342620) · `ta`
+
+தமது அனுமதியின்றி அல்லது உரிய கட்டணத்தைச் செலுத்தாமல் தேர்தல் பிரசாரத்திற்காக நகர வீதிகள் அல்லது பொது இடங்களை அலங்கரிக்கும் எந்தவொரு வேட்பாளர் அல்லது அரசியல் கட்சியினருக்கும் எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என கொழும்பு மாநகர சபை (CMC) நேற்று (21) எச்சரித்துள்ளது.
+
+ஒன்பதாவது ஜனாதிபதித் தேர்தல் ஜூலை 26ஆம் திகதி அறிவிக்கப்பட்டவுடன், இலங்கை தேர்தல் ஆணைக்குழுவிலிருந்து அங்கீகரிக்கப்பட்ட 80க்கும் மேற்பட்ட அரசியல் கட்சிகளுக்கு பிரச்சாரப் பொருட்களால் தலைநகரை அலங்கரிக்கும் போது தேர்தல் சட்டத்தின் விதிமுறைகளை கடைப்பிடிக்குமாறு நினைவூட்டி கடிதம் அனுப்பியதாக மாநகர சபையின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+நகரை அலங்கரிக்க விரும்பும் எந்தவொரு வேட்பாளரோ அல்லது அரசியல் கட்சியினரோ அவர்களிடமிருந்து தேவையான அனுமதியைப் பெற வேண்டும் அல்லது அத்தகைய பிரச்சாரப் பொருட்கள் உடனடியாக அமுலுக்கு வரும் வகையில் அகற்றப்பட்டு சட்ட நடவடிக்கை எடுக்கப்படும் என்று ஆணையாளர் பத்ராணி ஜயவர்தன டெய்லி மிரருக்கு தெரிவித்தார்.
+
+...
+
+[Data](articles/05ddca4e.json)
+
+---
+
 ### "Don't touch Colombo without permission"
 
 *2024-08-22 10:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமதியின்றி-கொழும்பைத்-தொட-வேண்டாம்/175-342620) · `ta`
@@ -89,6 +241,24 @@ Commissioner Badrani Jayawardena told the Daily Mirror that any candidate or pol
 [Data](articles/2c8e1dc4.json)
 
 [Extended Data](ext_articles/2c8e1dc4.ext.json)
+
+---
+
+### இடியுடன் கூடிய மழை பெய்யும்
+
+*2024-08-22 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-342617) · `ta`
+
+மேல், சப்ரகமுவ, தென் மற்றும் வடமேல் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போதுமணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில்ஓரளவு பலத்தகாற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/28bdac3d.json)
 
 ---
 
@@ -234,6 +404,26 @@ The Commission to Investigate Bribery or Corruption (CIABOC) has announced that 
 
 ---
 
+### இந்தியாவில் மருந்து தொழிற்சாலையில் தீ விபத்து ; 17 பேர் பலி
+
+*2024-08-22 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/191677) · `ta`
+
+இந்தியாவில் ஆந்திர பிரதேசம் மாநிலத்தில் அனகாபள்ளி மாவட்டத்தில் அச்சுதாபுரம் பகுதியில் உள்ள மருந்து தொழிற்சாலை ஒன்றில்  இடம்பெற்ற தீ விபத்தில் 17 பேர் உயிரிழந்துள்ளனர்.
+
+குறித்த மருந்து தொழிற்சாலையில் நேற்று புதன்கிழமை (22) 200-க்கும் மேற்பட்ட தொழிலாளர்கள் வேலை செய்துள்ளனர். மதிய உணவு நேரத்தின்போது மருந்து தொழிற்சாலையில் உள்ள ரியாக்டர் வெடித்து விபத்துக்குள்ளாகியுள்ளது.
+
+இதன்போது,  அருகில் உள்ள பொருட்கள் அனைத்தும் தீப்பிடித்து எரிந்துள்ளன. இந்த தீ விபத்தில் சிக்கி 17 பேர் உயிரிழந்துள்ளனர்.
+
+மேலும், விபத்தில் படுகாயம் அடைந்த 20-க்கும் மேற்பட்டோருக்கு வைத்தியசாலைகளில் தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது.
+
+ஆந்திர பிரதேச முதலமைச்சர் சந்திரபாபு நாயுடு இதுபற்றிய உயர்மட்ட விசாரணைக்கு உத்தரவிட்டு உள்ளார். சம்பவத்தில் உயிரிழந்த மற்றும் காயமடைந்த நபர்களின் குடும்பத்தினரை அவர் இன்று சந்திப்பார் என எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/9a89cf1a.json)
+
+---
+
 ### Drone attack on the Russian capital
 
 *2024-08-22 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200198) · `si`
@@ -333,6 +523,30 @@ Negotiators who have struggled for months to conclude a ceasefire deal plan to m
 [Data](articles/6840868a.json)
 
 [Extended Data](ext_articles/6840868a.ext.json)
+
+---
+
+### Sri Lanka state sugar firms drowned in unsold ethanol
+
+*2024-08-22 08:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-sugar-firms-drowned-in-unsold-ethanol-177692/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state sugar firms are stuck with a large stock of unsold ethanol as legal alcohol demand plunged, following an economic crisis and tax hikes, State Minister for Investment Promotion Dilum Amunugama said.
+
+State-run Lanka Sugar operates Sevenagala and Pelwatte companies. Ethanol is made as a by product of sugar from molasses.
+
+The two firm now had 1.3 million litres of unsold alcohol, he said.
+
+Discussions with legal alcohol companies showed that some have suffered sales falls as much as 70 percent at times, he said.
+
+There were two other sugar firms, Ethimale and Gal-Oya which were producing ethanol.
+
+Minister Amunugama said following discussions with the Department of Excise an a verbal agreement was reached to issue ethanol purchase license dividing the demand equally among the four companies to keep stocks moving.
+
+In Sri Lanka sugar and ethanol is protected by import taxes and domestic production is price competitive.
+
+...
+
+[Data](articles/61a8a623.json)
 
 ---
 
@@ -491,6 +705,50 @@ The Department of Meteorology has informed the people to take steps to take nece
 [Data](articles/7cdcec94.json)
 
 [Extended Data](ext_articles/7cdcec94.ext.json)
+
+---
+
+### Sri Lanka to give visa free entry to tourists from 35 countries
+
+*2024-08-22 05:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-visa-free-entry-to-tourists-from-35-countries-177667/) · `en`
+
+ECONOMYNEXT – Sri Lanka will give ‘visa free’ entry to 35 countries, Foreign Minister Ali Sabry said in a twitter.com post.
+
+Sri Lanka is trying to boost tourists as the country recovers from a currency crisis.
+
+The cabinet has approved the scheme to be effective from October 01, Sri Lanka’s Daily Mirror newspaper quoted former Tourism Minister Harin Fernando as saying.
+
+The following countries will be eligible for visa free entry.
+
+◼️
+
+[Data](articles/371af97f.json)
+
+---
+
+### The Ambassador of Vietnam to Sri Lanka presents credentials
+
+*2024-08-22 05:50:00* · [`economynextcom`](https://economynext.com/the-ambassador-of-vietnam-to-sri-lanka-presents-credentials-177680/) · `en`
+
+ECONOMYNEXT – Trinh Thi Tam as Ambassador to Sri Lanka from the Socialist Republic of Vietnam has presented credentials to President Ranil Wickremesinghe, the Foreign Ministry said.
+
+◼️
+
+[Data](articles/b736840f.json)
+
+---
+
+### Ambassador of Myanmar presents credentials to Sri Lanka
+
+*2024-08-22 05:48:00* · [`economynextcom`](https://economynext.com/ambassador-of-myanmar-presents-credentials-to-sri-lanka-177673/) · `en`
+
+ECONOMYNEXT – Marlar Than Htaik, ambassador to Sri Lanka from the Union of Myanmar presented credentials to President Ranil Wickremesinghe, the Foreign Ministry said.
+
+She presented credentials to President Wickremesinghe on August 21. (Colombo/Aug22/2024)
+
+◼️
+
+[Data](articles/be8db45e.json)
 
 ---
 
@@ -1935,335 +2193,5 @@ Member of Parliament addressing the rally held in Gampola today (21). Speaking f
 [Data](articles/fbf40a69.json)
 
 [Extended Data](ext_articles/fbf40a69.ext.json)
-
----
-
-### Fuel and tea growers have been a fertilizer subsidy to fuel and tea growers
-
-*2024-08-21 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200186) · `si`
-
-The government approved subsidies for both fuel and tea growers, aiding their industries significantly.
-
-🟩
-
-Cabinet approval has been given to grant a subsidy of Rs.
-
-In addition, Cabinet approval has been given to provide a fertilizer subsidy for tea growers.
-
-◼️
-
-[Data](articles/0c29c9b3.json)
-
-[Extended Data](ext_articles/0c29c9b3.ext.json)
-
----
-
-### Inflation up
-
-*2024-08-21 19:41:01* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-411496) · `si`
-
-Sri Lanka's inflation rose slightly in July 2024, with food prices increasing from 2.7% to 2.9%, while non-food inflation decreased from 2.2% to 2.1%.
-
-🟩
-
-Inflation in Sri Lanka has increased. Inflation in food category of food category has once again increased. But the non-food category inflation has diminished.
-
-In June 2024, Sri Lanka's inflation was 2.5% for July 2024 for July 2024.
-
-Accordingly, in June 2024, the point in the food category of food recorded increased to 2.9% in July 2024.
-
-In June 2024, the no-2.7% of food was up to 2.2% in July 2024.
-
-◼️
-
-[Data](articles/ca4551b8.json)
-
-[Extended Data](ext_articles/ca4551b8.ext.json)
-
----
-
-### Free Visa Access to 35 countries
-
-*2024-08-21 19:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-நாடுகளுக்கு-இலவச-விசா-அணுகல்/175-342586) · `ta`
-
-Sri Lanka will allow visa-free entry to tourists from 35 countries starting October 1, 2024, as announced by Tourism Minister Harin Fernando.
-
-🟩
-
-Tourism Ministry Advisor Harin Fernando said that the Cabinet has decided to visit Sri Lanka without a visa on October 1, 2024.
-
-◼️
-
-[Data](articles/3ee6bb14.json)
-
-[Extended Data](ext_articles/3ee6bb14.ext.json)
-
----
-
-### Embryo
-
-*2024-08-21 19:33:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவின்-இடத்திற்கு-கரு-பரணவிதான/175-342585) · `ta`
-
-Dalada Athukorala's resignation from United People's Power as MP creates a vacancy in Ratnapura district, likely to be filled by the party's list.
-
-🟩
-
-United People's Power Member of Parliament, Dalada Athukorala's resignation, will fill the vacuum in the Ratnapura district next to the party's list.
-
-◼️
-
-[Data](articles/e83fa4ab.json)
-
-[Extended Data](ext_articles/e83fa4ab.ext.json)
-
----
-
-### Four people 'work including a doctor to die by blood banned
-
-*2024-08-21 19:24:40* · [`adalk`](https://www.ada.lk/breaking_news/රුධිරය-වහනය-වීමෙන්-කාන්තාවක්-මිය-යාමට-වෛද්‍යවරයෙකු-ඇතුලු-සිව්-දෙනෙකුගේ-වැඩ-තහනම්/11-411495) · `si`
-
-The Ministry of Health suspended four doctors, including a female graduate, from Mannar Hospital following the death of a patient. The deceased, a 27-year-old woman named Murraj Seddja, was transferred there for further treatment but passed away shortly after. Her mother reported the incident as a case of negligence due to lack of blood supply. Authorities, including the Northern Province Director and the Ministry of Health Services, launched an investigation. Two nurses and a family health worker were suspended pending further inquiries. International human rights groups have called for a thorough investigation and punishment of those responsible.
-
-🟩
-
-The Ministry of Health has suspended four of the doctors including a graduate woman in Mannar Hospital.
-
-The woman had returned home after Murraj Seddja, a 27 year old graduate woman, who was in Mannar.
-
-She had been transferred to the Mannar General Hospital for further treatment, while she had been transferred to the Mannar Hospital for further treatment.
-
-However, the mother of the dead woman had told the death of the dead to be considered a normal blood vehicle by the respective ward.
-
-However, the woman had died for a few hours later and died on July 28 hours after her mother filed a petition to all authorities.
-
-The Director of the Northern Province and the Ministry of Health Services have commenced the investigation and the Mannar Hospital in the Mannar Hospital in the Mannar Hospital, the manager of the Mannar Hospital, had taken steps to suspend the services of two nurses and a family health.
-
-...
-
-[Data](articles/a38e1988.json)
-
-[Extended Data](ext_articles/a38e1988.ext.json)
-
----
-
-### Go to visit the Kandy Perahera and left the city of 20 tonnes
-
-*2024-08-21 19:19:30* · [`adalk`](https://www.ada.lk/breaking_news/නුවර-පෙරහර-බලන්න-ගිහින්-ටොන්-20ක-කුණු-නුවර-දාලා-ඇවිත්/11-411494) · `si`
-
-Kandy Perahera's waste management initiative has removed over 200 tonnes of waste, including elephant feed, without any environmental impact. This marks a significant improvement from past processions.
-
-🟩
-
-The popular waste management of the Kandy Municipal Council has expressed his concern for the environment.
-
-Head of the Department Namal Dissanayake emphasized that the use of the use of the deepecies during the Esala Perahera.
-
-More than 200 tons of waste, including elephants of Perahera, has already been removed and the removal of the same waste is already removed.
-
-He emphasized that the elephants have not eaten by elephants in between. He added that this situation was not reported during the previous procession.
-
-◼️
-
-[Data](articles/473723f1.json)
-
-[Extended Data](ext_articles/473723f1.ext.json)
-
----
-
-### A lorry crashed into a road in BadullaTrio
-
-*2024-08-21 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191664) · `ta`
-
-In Badulla, a lorry crash on the southern road resulted in three injuries. The victims, from Kandakettiya 21, were taken to the Badulla General Hospital. The driver lost control due to speeding, and police are investigating.
-
-🟩
-
-Three persons have been injured when a lorry crashed into a road in Ventasi Vatu area on the southern road of Badulla.
-
-The trio who were traveling in the lorry in the crash were from Kandakettiya 21, police said.
-
-The Badulla Headquarters Police Department said that the driver was unable to control the speed of the lorry.
-
-The injured have been admitted to the Badulla General Hospital and further investigations are being carried out by the Badulla headquarters police, police said.
-
-◼️
-
-[Data](articles/3f01309a.json)
-
-[Extended Data](ext_articles/3f01309a.ext.json)
-
----
-
-### Several more special petitions
-
-*2024-08-21 18:58:59* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-විශේෂ-පෙත්සම්-කිහිපයක-තීරණය-අද/11-411493) · `si`
-
-Today's verdict on postponing local government elections will be released. Chief Justice Jayantha Jayasuriya was questioned by Supreme Court justices regarding several petitions filed by the National Folk Forces and others against the Elections Commission. Petitioners argue that recommendations were not adequately communicated to voters, impacting the local government election process.
-
-🟩
-
-The verdict filed against postponing the local government elections will be published today (22).
-
-Chief Justice Jayantha Jayasuriya was examined by Supreme Court Justice, Gamini Amarasekera, Mrs. Gamini Amarasekera, Mrs. Murdu Fernando and Yasantha Kodagoda.
-
-The Elections Commission has been named as respondents in the petitions filed by the National Folk Forces, the National Folk Force and the National Governance Policy.
-
-The petitioners who have filed the local government elections have been vested in the local government election, claiming that the recommendations have not been violated to the people of the national voting.
-
-◼️
-
-[Data](articles/044993e0.json)
-
-[Extended Data](ext_articles/044993e0.ext.json)
-
----
-
-### More about STF IP and Constable with heroin
-
-*2024-08-21 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200185) · `si`
-
-A police inspector and a constable from the University of Moratuwa were arrested by the Colombo Crimes Division for possessing a significant amount of heroin valued at over Rs. 2 billion. The inspector was caught driving a van containing 1 kilogram of heroin and an electronic scale, while the constable was also implicated in the case. These arrests are part of ongoing efforts to combat organized crime, with the suspects facing charges related to drug trafficking.
-
-🟩
-
-Police Inspector who was arrested by the officers of the Colombo Crimes Division and the stock of heroin stock of heroin was Rs. 2 billion.
-
-They found 1 kilograms of heroin and 53 grams.
-
-The Colombo Crimes Division has launched special operations to suppress organized crimes in parallel with the operation.
-
-A van that was parked in a car park in a private shole in Miriswatta, Piliyandala.
-
-The driver of the van had been lodged there and found 1 kilograms of heroin and a electronic scales in the adjoining the side of the seat.
-
-The suspect is a police constable attached to the University of Moratuwa.
-
-The suspect, which has acted as the driver of the van is an Inspector of Police Inspector at the University of Moratuwa.
-
-Accordingly, the Colombo Crimes Division has arrested the suspects under the acquisition of heroin racket and the suspects were charged with allegations.
-
-Drugs were found at the Maldrolent Drug Trafficker in Kahathuduwa on June 9.
-
-...
-
-[Data](articles/069eaf73.json)
-
-[Extended Data](ext_articles/069eaf73.ext.json)
-
----
-
-### $ 9 billion export earnings in the first six months
-
-*2024-08-21 18:52:46* · [`adalk`](https://www.ada.lk/breaking_news/පළමු-මාස-06-තුළ-ඩොලර්-බිලියන-09ක-අපනයන-ආදායමක්/11-411492) · `si`
-
-Sri Lanka achieved $9 billion in export earnings and secured $800 million in investments over six months. The government plans to expand investment zones and amend economic laws to boost trade.
-
-🟩
-
-Investment Promotion State Minister Dilum Amunugama said that export earnings of US $ nine billion in the past six months.
-
-The public minister also pointed out that Sri Lanka has contracted US $ 800 million in the last six months.
-
-Investment Promotion State Minister Dilum Amunugama, Hon.
-
-"The Board of Investment of Sri Lanka facilitates fifteen investment zones and 1575 companies are operating in these investment zones.. More than five lakhs are performed in this. Plans to establish seven new investment zones under the current government's investment program.
-
-...
-
-[Data](articles/8e7b26c0.json)
-
-[Extended Data](ext_articles/8e7b26c0.ext.json)
-
----
-
-### According to the Human Development Index, Sri Lanka is ranked 78th in 193 countries
-
-*2024-08-21 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191652) · `ta`
-
-Sri Lanka, despite facing severe economic crises including high inflation, currency devaluation, and food insecurity, maintains a high human development index ranking (78th out of 193 countries) as per the 2023 Human Development Index. It transitioned from a high-middle-income country in 2019 to a low-middle-income country in 2020 due to economic challenges.
-
-🟩
-
-According to an annual report published by the International Red Cross and Czech Societies Federation, Sri Lanka is ranked 78th in the list of 193 countries with a human development set by 0.782.
-
-In 2019, Sri Lanka reached the highest and middle -income country, but in 2020, it was a low -middle income country.. However, according to the Human Development Index for 2023, Sri Lanka ranks 78th in 193 countries. This means that Sri Lanka has high human development.
-
-“Sri Lanka faced the impact of a serious economic crisis, including high inflation, rupee value decline, food security, fuel and essential products. The crisis has further intensified following the failure of the damage policy implemented and the domestic agricultural production has fallen by significant amount, ”the International Red Cross and Red Cross Societies Federation said.
-
-...
-
-[Data](articles/20c739a9.json)
-
-[Extended Data](ext_articles/20c739a9.ext.json)
-
----
-
-### Minister of Vadiwil and Ali Saureer
-
-*2024-08-21 18:48:43* · [`adalk`](https://www.ada.lk/breaking_news/වඩිවේල්ට-හා-අලී-සහීර්ට-අමාත්‍යධුර/11-411491) · `si`
-
-Vadivel Suresh and Ali Sahar Mollana were appointed ministers, with Suresh taking on labor issues and Mollana focusing on non-cabinet development projects. Both have supported President Ranil Wickremesinghe.
-
-🟩
-
-Members of Parliament, Vadivel Suresh, was given ministerial portfolio and Ali Sahar Mollana. Member Ali Sarare Moulana has been awarded a non-cabinet cabinet development projects who had been supporting President Ranil Wickremesinghe from the Sri Lanka Muslim Congress.
-
-MP Vadiwell Suresh has been appointed as the State Minister of Labor to support Ranil Wickremesinghe from unity.
-
-◼️
-
-[Data](articles/3c865e6d.json)
-
-[Extended Data](ext_articles/3c865e6d.ext.json)
-
----
-
-### Vasantha first participated in the campaign of the People's Movement in Jaffna
-
-*2024-08-21 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/191648) · `ta`
-
-Vasantha Mullait participated in the People's Movement campaign in Jaffna, where leaflets were distributed explaining the policies of the People's Struggle Front. The event saw participation from various democratic civil societies and parties, with Nuwan Bopaghe Umbrella running as the presidential candidate under the banner of the People's Struggle.
-
-🟩
-
-The campaign of the People's Struggle was held in Jaffna on Wednesday (21) with the participation of the Vasantha Mullait.
-
-Leaflets were distributed this morning to explain the policies of the People's Struggle Front at the Central Bus Stand in Jaffna.
-
-Democratic civil society, including the leading Socialist Party, the New Democratic Maxisa Leninisa Party, the Socialist People's Forum, and the Democratic Civil community have joined the electoral politics.
-
-It is noteworthy that the Nuwan Bopaghe Umbrella is contesting as the presidential candidate of the People's Struggle.
-
-◼️
-
-[Data](articles/6e1e0bdd.json)
-
-[Extended Data](ext_articles/6e1e0bdd.ext.json)
-
----
-
-### I am opposed to the current government's actions that act to eliminate the country - the MP of the PA. Flaod
-
-*2024-08-21 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191633) · `ta`
-
-The PA MP opposes the government's actions, which he believes aim to dismantle the country. He supports presidential candidate Sajith Premadasa and criticizes the current government's stance. The MP, elected with over 115,000 votes in 2022, urges the government to resist the "decisive moment" in the country's political and social structure. He expresses gratitude towards political parties, including PM Dinesh Gunawardena, for their cooperation.
-
-🟩
-
-PA has decided to go to the opposition to support the presidential candidate Sajith Premadasa in the current decisive position.
-
-He was speaking at a special statement during a session held in Parliament on Wednesday (21).
-
-In the general election of 2022, I contested the PA in the PA and elected to Parliament with 1 lakh 15 thousand votes.
-
-The country is currently opposed to the decisive moment in political and social structure. This government should impose an unconditional opposition against the country.
-
-I thank the political parties, including Prime Minister Dinesh Gunawardena, who has cooperated with my political activities so far. I have made this decision for the country.
-
-◼️
-
-[Data](articles/c724bec7.json)
-
-[Extended Data](ext_articles/c724bec7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 15:55:55**
+As of **2024-08-22 16:10:07**
 
 ## Newspaper Stats
 
-*Scraped **42,098** Articles*
+*Scraped **42,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,70 +17,130 @@ economynextcom | 2,547
 dailyftlk | 2,723
 adalk | 3,878
 dailymirrorlk | 4,733
-adaderanalk | 4,929
+adaderanalk | 4,930
 tamilmirrorlk | 5,464
 virakesarilk | 6,695
-adaderanasinhalalk | 7,179
+adaderanasinhalalk | 7,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,092 (100.0%) of 42,098 articles have been extended.
+42,097 (100.0%) of 42,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### சட்டத்தை புறக்கணிக்கும் அரசாங்கம் திறமையற்றது மாத்திரமல்ல அது  ஆபத்தானது- உள்ளுராட்சி தேர்தல்கள் குறித்த நீதிமன்ற தீர்ப்பின் பின்னர் சஜித்
+### එම්පොක්ස් ගැන සෞඛ්‍ය අමාත්‍යාංශයෙන් නිවේදනයක්
+
+*2024-08-22 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200207) · `si`
+
+ගුවන්තොටුපොළ මගින් මෙරටට ඇතුළු විය හැකි එම්පොක්ස් හෙවත් මන්කිපොක්ස් රෝගීන් හඳුනා ගැනීම සඳහා දිවයිනම ආවරණය වන පරිදි ආවේක්ශණ පද්ධතිය වඩා හොඳින් ශක්තිමත් කර ඇති බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසන්නේ රෝගීන් වාර්තා වුවහොත් ඔවුන් වෙන් කර ප්‍රතිකාර කිරීම සඳහා පහසුකම් කොළඹ බෝවන රෝග විද්‍යායතනය තුළ ස්ථාපිත කර ඇති බවය.
+
+තවද කොළඹ වෛද්‍ය පර්යේෂණ ආයතනය සතුව මන්කි පොක්ස් රෝගීන් හඳුනාගැනීමේ රසායනාගාර පහසුකම් ද පවතින බව ඔහු පවසයි.
+
+මෙම රෝගයට වඩා හොඳින් සූදානම් වීම සහ ප්‍රතිචාර දැක්වීම සඳහා අවශ්‍ය මග පෙන්වීම සෞඛ්‍ය සේවා ආයතන සඳහා ලබා දී ඇති බවත් මේ සම්බන්ධව උපදෙස් ඇතුළත් චක්‍ර ලේඛයක් ද ඔවුන් වෙත ලබා දීමට කටයුතු කර ඇති බවත් සෞඛ්‍ය ලේකම්වරයා නිකුත් කළ එම නිවේදනයේ සඳහන් කර තිබේ.
+
+රෝගය මේ වනවිට අපිකානු අප්‍රිකානු කළාපීය රටවල වේගයෙන් පැතිර ගොස් ඇති අතර මින් 500කට අධික පිරිසක් ද මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/cdf154ad.json)
+
+---
+
+### Sri Lanka’s merchandise exports surge in July 2024
+
+*2024-08-22 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101424/sri-lankas-merchandise-exports-surge-in-july-2024) · `en`
+
+The merchandise export performance in July 2024 has amounted to USD 1,087.6 million, recording an increase of 6.58% compared to July 2023, according to the latest report from the Export Development Board (EDB).
+
+This was mainly due to the increase in earnings from export of Apparel & Textiles, Tea, Coconut based products, Spices & Concentrates and Seafood, according to the EDB.
+
+Furthermore, export performance in July 2024 increased by 0.98% compared to June 2024.
+
+The estimated value of services exports for the month of July 2024 was USD 293.26 Million, increasing 16.44 % over the corresponding period of 2023.
+
+Consequently, total exports for July 2024, including both merchandise and services, were recorded at US$ 1,380.84 million, increasing 8.53% over the corresponding period of 2023.
+
+Export earnings from Apparel & Textile increased by 3.8 % y-o-y to USD  443.74 Mn in July 2024 compared to July 2023.
+
+...
+
+[Data](articles/63236462.json)
+
+---
+
+### The government that boycottss the law is not only inefficient, but it is dangerous- Sajith after a court ruling on local elections
 
 *2024-08-22 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191716) · `ta`
 
-சட்டத்தை நிலைநாட்ட முடியாத அரசாங்கத்தினால் ஒருதேசத்தை கட்டியெழுப்ப முடியாது என எதிர்கட்சி தலைவரும் ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளருமான சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Sajith Premadasa criticizes the government for its inefficiency and danger, highlighting issues like the appointment of the Inspector General of Police and the Supreme Court's rulings on local elections and the VVS. He emphasizes the need for action to prevent legislative impacts on the economy and future stability.
 
-உள்ளுராட்சி மன்ற தேர்தல்கள் தொடர்பிலான நீதிமன்ற தீர்ப்பின் பின்னர் சமூக ஊடகத்தில் பகிர்ந்துகொண்டுள்ள பதிவில்  அவர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-பொலிஸ்மா அதிபர் நியமனம்,விஎவ்எஸ் ஆகியவற்றிற்கு எதிரான உயர்நீதிமன்றத்தின் தீர்ப்புகள் , உள்ளுராட்சி தேர்தலை நடத்தாமலிருப்பதன் மூலம் அடிப்படை உரிமைகளை மீறியுள்ளது என்ற தீர்ப்பு ஆகியன, உயர்நீதிமன்றத்தின் வெளிப்படையான அப்பட்டமான எச்சரிக்கைகள்.
+Opposition leader and United People's Power Presidential candidate Sajith Premadasa says that the government cannot build a law.
 
-சட்டத்தை நிலைநாட்ட முடியாத அரசாங்கத்தினால் ஒருதேசத்தை கட்டியெழுப்ப முடியாது.இது நமது ஸ்திரதன்மையை உறுதி செய்யும் கட்டமைப்பேயே சிதைக்கின்றது.
+He said this in a post shared on social media after a court ruling on local government elections.
 
-இந்த சட்டமி;ன்மை எங்களின் பொருளாதாரம்,சமூகம் எங்களின் எதிர்காலம் ஆகியவற்றிற்கு பாதிப்பை ஏற்படுத்துவதற்கு முன்னர் நாங்கள் செயற்படவேண்டும்.
+The appointment of the Inspector General of Police, the Supreme Court's ruling against the VVS, and the verdict of violating the fundamental rights by not holding the local government elections are the obvious blunt warnings of the Supreme Court.
+
+The government cannot build a law, which cannot be upheld. This is the structure that confirms our stability.
+
+We must act before this legislation affects our economy and the future of our future.
 
 ◼️
 
 [Data](articles/ec2412b5.json)
 
+[Extended Data](ext_articles/ec2412b5.ext.json)
+
 ---
 
-### කෙහෙළිය ඇතුළු 4ක් තවදුරටත් රිමාන්ඩ්
+### Keheliya and 4 others remanded
 
 *2024-08-22 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200206) · `si`
 
-හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් සිව් දෙනෙක් එළැඹෙන 29 වනදා තෙක් අද (22) යළි රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+Former Health Minister Keheliya Rambukwella and four others were remanded on charges related to the purchase of substandard Human Immunulin injections at the Maligakanda Magistrate's Court.
 
-ඒ, ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් එන්නත් මාත්‍රා මිලදී ගැනීමේ නඩුව අද මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදීය.
+🟩
+
+Former Minister of Health Minister Keheliya Rambukwella and four suspects were remanded today (22).
+
+The purchase of the substandard Human Immunulin injection was called at the Maligakanda Magistrate's Court today.
 
 ◼️
 
 [Data](articles/f37f1523.json)
 
+[Extended Data](ext_articles/f37f1523.ext.json)
+
 ---
 
-### මහ කන්නයේ වගා කෙරූ ගොවීන්ට පොහොර සහනාධාරයක්
+### Fertilizer subsidy for farmers cultivated in the Maha season
 
 *2024-08-22 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200205) · `si`
 
-කුඹුරු ඉඩම්වල වගා කරනු ලබන වී සහ වෙනත් භෝග සඳහා පොහොර සහනාධාරයක් ලබා දීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The Cabinet approved a fertilizer subsidy for paddy and other crops in paddy fields, offering up to Rs 15,000 per hectare. This move aims to boost crop productivity and ensure food security through support from both the State Fertilizer Company and the private sector.
 
-ඒ අනුව උපරිම හෙක්ටයාර දෙකක් සඳහා හෙක්ටයාරයකට රුපියල් 15,000 බැගින් මූල්‍ය සහනාධාරයක් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව මගින් ලබා දීමට කැබිනට් අනුමැතිය හිමිව ඇත.
+🟩
 
-එමෙන්ම 2024/2025 මහ කන්නය සඳහා රජයේ පොහොර සමාගම වන ස්ටේට් ෆර්ටිලයිසර් සමාගම සහ පුද්ගලික අංශය මගින් පොහොර ආනයනය කර ගොවීන් වෙත තරඟකාරී මිලකට අලෙවි කිරීමටද අනුමැතිය ලැබී ඇත.
+Cabinet approval has been given to provide a fertilizer subsidy for paddy and other crops grown in paddy lands.
 
-මේ තුළින් රටෙහි ආහාර සුරක්ෂිතතාව තහවුරු කිරීමට සහ භෝග ඵලදායිතාව ඉහළ නැංවීමට රජය අපේක්ෂා කර තිබේ.
+Cabinet approval has been given to provide financial subsidy for a maximum of Rs 15,000 each for a maximum number of hectares.
+
+Also, the government's fertilizer company, State Fertilizer Company and the private season, approval has been approved by the Government Fertilizer Company and the private sector.
+
+It has expected the government to ensure food security in the country and enhance the productivity of crops.
 
 ◼️
 
 [Data](articles/e311c804.json)
+
+[Extended Data](ext_articles/e311c804.ext.json)
 
 ---
 
@@ -166,19 +226,25 @@ But after people confirm their identity, they can receive their voting cards fro
 
 ---
 
-### இலங்கை இராணுவம் புதிதாக காணிகளை கைவசப்படுத்துவதை நிறுத்தவேண்டும் - நிலங்களை விடுவிக்கவேண்டும் - ஐநா
+### The Sri Lankan army should stop the landing of new lands - the land of the land - the UN
 
 *2024-08-22 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191712) · `ta`
 
-இலங்கை இராணுவம் தன்வசம் வைத்திருக்கும் காணிகளை விடுவிப்பதுடன் புதிதாக காணிகளை கைவசப்படுத்;துதலை நிறுத்தவேண்டும் என என ஐக்கிய நாடுகள் மனித உரிமை ஆணையாளர் அலுவலகம் வேண்டுகோள் விடுத்துள்ளது.
+The UN Human Rights Commissioner's office has urged the Sri Lankan army to halt land acquisitions and release detainees held under the Prevention of Terrorism Act. The request comes from a comprehensive report highlighting the need for the military to address human rights concerns, including the return of occupied lands in the North and engagement with victim compensation efforts.
 
-இலங்கையின் மனித உரிமை ஐக்கிய நாடுகளின் மனித உரிமை ஆணையாளரின் முழுமையான அறிக்கையிலேயே  இந்த வேண்டுகோள் இடம்பெற்;றுள்ளது.
+🟩
 
-இலங்கைஇராணுவம் தன்வம் வைத்திருக்கும் காணிகளை விடுவித்தல்,வடக்குகிழக்கில் புதிதாக காணிகளை கைவசப்படுத்தலை நிறுத்துதல் , பயங்கரவாத தடுப்பு சட்டத்தின் கீழ் நீண்டகாலமாக தடுத்து வைக்கப்பட்டிருக்கும் அனைவரைம் விடுதல செய்தல், பாதிக்கப்பட்டவர்களின் சார்பில் நினைவேந்தல் முயற்சிகளில் ஈடுபடுவதையும் குற்றச்செயல்களில் இருந்து நீக்கி, அவற்றுக்கு ஆதரவளித்தல் போன்ற நம்பிக்கையை கட்டியெழுப்பும் வழிமுறைகளை நடைமுறைப்படுத்துவதன் மூலம் நிலைமாற்றுக்கால நீதிக்கான சூழலை உருவாக்கவேண்டும்.
+The United Nations Human Rights Commissioner's Office has requested that the Sri Lankan army be free of land and the new lands should be stopped.
+
+The request was made in a full report of the United Nations Human Rights Commissioner of Human Rights in Sri Lanka.
+
+The Sri Lankan military should create a situation where the Sri Lankan army has its own land, the abolition of new lands in the North, the long -term detained of all those who have been detained under the Prevention of Terrorism Act, and engaging in the efforts of the victims, and the implementation of confidence in the implementation of confidence.
 
 ◼️
 
 [Data](articles/48881b95.json)
+
+[Extended Data](ext_articles/48881b95.ext.json)
 
 ---
 
@@ -2219,49 +2285,5 @@ The ‘Sri Lanka Trade Fair Dubai 2024’ will showcase the best of Sri Lankan p
 [Data](articles/d7980854.json)
 
 [Extended Data](ext_articles/d7980854.ext.json)
-
----
-
-### Orphaned politicians spread lies
-
-*2024-08-22 01:21:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநாதை-அரசியல்வாதிகள்-பொய்களை-பரப்புகின்றனர்/175-342604) · `ta`
-
-Anura Kumara Dissanayake, a Presidential candidate, emphasizes unity across religions and cultures, criticizing extremist actions within minority communities. He highlights the need for national solidarity against violence and division, asserting his party's commitment to preserving freedom and cultural rights for all.
-
-🟩
-
-Anura Kumara Dissanayake, the Presidential candidate of the power, said that the national power is a political movement that acknowledges the preservation of the freedom of all religions and all cultural rights.
-
-President of the National People's Power, Anura Kumara Dissanayake All Ceylon Jamiyyathul Ulama Organization. Rishwi, Ashsek Argam Nura Aamith and Dr. AA Ahmed Ashwar met at the headquarters of the All Ceylon Jamiyyathul Ulama Council at Jayantha Weerasekara Mawatha on Wednesday (21).
-
-Anurakumara Dissanayake, who discussed the political situation in the country with the Muftimars and the administrative Moulavimars, also received the goodwill of winning the upcoming presidential election.
-
-They are distorting a thing I mentioned in Parliament.Member of Parliament Rauf Hakeem has publicly spoken about this. This is the main task of politically stable groups
-
-...
-
-[Data](articles/044d1b5f.json)
-
-[Extended Data](ext_articles/044d1b5f.ext.json)
-
----
-
-### C2S.lk and Rohan De Lanerolle dominate Commonwealth Business Excellence Awards
-
-*2024-08-22 01:09:37* · [`dailyftlk`](https://www.ft.lk/business/C2S-lk-and-Rohan-De-Lanerolle-dominate-Commonwealth-Business-Excellence-Awards/34-765828) · `en`
-
-Sri Lanka’s commitment to sustainability and innovation was celebrated at the Commonwealth Business Excellence Awards held on 17 August at the Emperor’s Palace in Johannesburg, South Africa.
-
-C2S.lk, a trailblazer in sustainable practices, was honoured with the ‘Sustainable Business Award of the Year’ and the ‘Business Transformation Award’, marking a significant achievement for the company.
-
-In an extraordinary display of individual excellence, C2S.lk Chairman and Inventor Rohan De Lanerolle swept three major awards: ‘Sustainable Innovator of the Year’, ‘Engineering Innovator of the Year’, and ‘Male Innovator of the Year’. His visionary leadership and relentless pursuit of innovation have set a new benchmark in the global business arena.
-
-This pioneering invention by C2S.lk has allowed Sri Lanka to convert 38 Constanta machines, including those used by India’s top tea brands, Taj Mahal by Unilever India and Tata Tea by
-
-...
-
-[Data](articles/5e82ac48.json)
-
-[Extended Data](ext_articles/5e82ac48.ext.json)
 
 ---

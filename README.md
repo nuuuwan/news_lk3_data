@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 20:21:29**
+As of **2024-08-22 20:37:03**
 
 ## Newspaper Stats
 
@@ -26,73 +26,95 @@ adaderanasinhalalk | 7,189
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,127 (100.0%) of 42,131 articles have been extended.
+42,131 (100.0%) of 42,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### මහ මැතිවරණයත්, පළාත් සභා හා පළාත් පාලන මැතිවරණත් ජනපතිවරණයෙන් පසුව
+### After presidential election, the General Elections, Provincial Councils and Local Elections
 
 *2024-08-22 19:46:18* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයත්--පළාත්-සභා-හා-පළාත්-පාලන-මැතිවරණත්-ජනපතිවරණයෙන්-පසුව/11-411509) · `si`
 
-පළාත් පාලන මැතිවරණය පැවැත්වීමට කාලය වැය කළා නම් රටේ ආර්ථිකය ගොඩගැනීමට හැකි වන්නේ නැහැ
+Following the presidential election, concerns arose about the impact of subsequent General Elections, Provincial Councils, and Local Elections on the country's economy. The President, Ranil Wickremesinghe, addressed these worries, stating his commitment to stabilizing the economy despite challenges like gas shortages, medicine, food, and fuel crises. He emphasized the importance of holding elections but also highlighted the need for economic stability, suggesting that if time were spent solely on economic recovery, the current state of the economy might have improved significantly.
 
-ආර්ථිකය නැවත සාමාන්‍ය තත්ත්වයට පත් වෙන්න කියා නඩු නොදැම්මේ ඇයි?
+🟩
 
-ජනාධිපතිවරණයෙන් පසු මහ මැතිවරණයත්, පසුව පළාත් සභා හා පළාත් පාලන මැතිවරණත් පවත්වනවා
+If the local government elections was spent, the economy of the country would not be able to recover
 
-පළාත් පාලන මැතිවරණය කල් දැමීම ජනතාවගේ මූලික අයිතිවාසිකම් කඩකිරීමක් බව පෙන්වා දුන්නද, ජනතාවගේ ජිවත්වීමේ අයිතිය සුරක්ෂිත කිරීම වෙනුවෙන් එම කාලය කැප කිරීම නිසා එම මැතිවරණ පැවැත්වීමට නොහැකි වීම පිළිබඳ තමා කණගාටු නොවන බවත්, ජනතාවගේ ඡන්ද අයිතියට මෙන්ම ජීවත්වීමේ අයිතියටද තමා ගරු කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Why did the economy not prosecuted back to normal?
 
-රටේ ආර්ථිකය ස්ථාවර මට්ටමකට ගෙන ඒමේ වැඩපිළිවෙළේදී සෑම පැයකටම වටිනාකමක් හිමි වූ බව පෙන්වා දුන් ජනාධිපතිවරයා පළාත් පාලන මැතිවරණය පැවැත්වීම වෙනුවෙන් එම කාලය වැය කළා නම් අද රටේ ආර්ථිකය ස්ථාවර මට්ටමකට ගෙන ඒමට
+The general election will be held after the presidential election and the Provincial Councils and Local Elections
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ අද (22) පස්වරුවේ මහරගම තරුණ සේවා සභා ශ්‍රවණාගාරයේ පැවති නව ජනතා පෙරමුණ පක්ෂයේ ජාතික සම්මේලනය අමතමිනි.
+President Ranil Wickremesinghe said that he was not worried that the proclaimers of the local government election was a violation of the rights of the people and that he would not be able to hold the elections and the right to the votes of the people..
+
+The President has said that if the President had spent every hour in the program of bringing the country's economy to a stable level, the President had spent the economy of the country to a standing level today
+
+The President was addressing the National Front of the New People's Front held at the Youth Services Council Auditorium this afternoon.
 
 ...
 
 [Data](articles/5a8cd716.json)
 
+[Extended Data](ext_articles/5a8cd716.ext.json)
+
 ---
 
-### ஜனாதிபதி ரணில் விக்கிரமசிங்க சுயேட்சை வேட்பாளரல்ல : தலதா அதுகோரலவுக்கு அருவருப்பு கிடையாதா ? - பொதுஜன பெரமுன
+### President Ranil Wickremesinghe is not an independent candidate: Isn't Dalada Athukorala not disgusting?- PA
 
 *2024-08-22 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191736) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க சுயேட்சை வேட்பாளரல்ல, அவர் ஐக்கிய தேசியக் கட்சியின் சார்பில் போட்டியிடுகிறார் என்பதை பாராளுமன்ற உறுப்பினர் தலதா அதுகோரலவின் கூற்றின் ஊடாக விளங்கிக் கொள்ள முடிகிறது.
+In a political twist, President Ranil Wickremesinghe is confirmed to be contesting under the United National Party banner, not as an independent candidate. This revelation comes amidst accusations of corruption against Nimal Siripaladi Silva and Prasanna Ranatunga by PA's Sagara Kariyawasam. The PA's first election campaign meeting saw no attendance from Anuradhapura district representatives, highlighting public sentiment against rejoining those perceived as betraying nationalism. Despite initial claims, Athukorala's resignation confirms Wickremesinghe's alignment with UNP, drawing criticism from both sides over allegations of corruption and betrayal.
 
-நிமல் சிறிபாலடி சில்வா, பிரசன்ன ரணதுங்க ஆகியோரை ஊழல்வாதிகள் என்று விமர்சித்த தலதா அதுகோரல அந்த அணியின் பக்கம் செல்லவுள்ளமை அருவருப்பானது என பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+🟩
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுன காரியாலயத்தில் புதன்கிழமை (21) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+Through the claim of MP Talada Athukorala, it is possible to understand that President Ranil Wickremesinghe is not an independent candidate and is contesting on behalf of the United National Party.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் முதலாவது தேர்தல் பிரச்சாரக் கூட்டத்தை புதன்கிழமை (21) அநுராதபுரம் நகரில் நடத்தினோம். இந்த கூட்டத்தில் அநுராதபுர மாவட்ட மக்கள் பிரதிநிதிகள் எவரும் கலந்துக் கொள்ளவில்லை.இருப்பினும் அநுராதபுர மாவட்ட மக்கள் பெருமளவில் கலந்துக் கொண்டார்கள்.
+The general secretary of the PA, Sagara Kariyawasam, said that it was disgusting that Nimal Siripaladi Silva and Prasanna Ranatunga were corrupt.
+
+He made this statement during a media briefing held at the Sri Lanka PA on Wednesday (21).
+
+We held the first election campaign meeting of the Sri Lanka PA. None of the people's representatives of the Anuradhapura district were present at the meeting.
+
+The people of the Anuradhapura district pressed the party not to re -join those who betrayed nationalism. Whoever leaves us is confirmed that people are with us.
 
 ...
 
 [Data](articles/8521aeed.json)
 
+[Extended Data](ext_articles/8521aeed.ext.json)
+
 ---
 
-### ගසේ පැලක රාත්‍රිය ගතකළ තුන් නිවුන් දරුවන්ට හන්තාන හිමි මූලිකත්වයෙන් අලුත් නිවසක්
+### Hanthana is a new house in the patronage of twin children who spent the night in the tree
 
 *2024-08-22 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200216) · `si`
 
-හරිහමන් නිවහනක් නොමැති නිසා තම අලුත උපන් තුන් නිවුන් දරුවන් සමග ගසක් මත ඉදිකළ පැලක රාත්‍රිය ගත කළ මව්පිය යුවළකට අද (22) නව නිවසක් පරිත්‍යාග කෙරුණි.
+A new house named Hanthana was constructed for a family with twin newborns, thanks to donations facilitated by Ada Derana. The initiative aimed to ensure the twins received proper care, as their initial living conditions were unsafe. The project involved local and international donors, led by the Chief Incumbent of the Hanthana Sandiri A de Viharaya. Despite challenges like lack of basic amenities, the community came together to support the family, highlighting the importance of collective effort in addressing societal needs.
 
-අද දෙරණ වාර්තාකරණයේ ප්‍රතිඵලයක් ලෙස හන්තාන සඳගිරි සෑ හිමියන්ගේ මූලිකත්වයෙන් පරිත්‍යාගශීලීන්ගේ ද දායකත්වය ඇතිව එම නිවස ඉදිකිරීමට හැකිවී තිබුණි.
+🟩
 
-එම අවස්ථාවට හන්තාන සඳගිරි සෑ හිමියන් සමග දෙරණ මාධ්‍ය ජාලයේ ප්‍රධාන මෙහෙයුම් නිලධාරී / විධායක අධ්‍යක්ෂ මාධව මඩවල මහතා ඇතුළු දෙරණ කාර්යයමණ්ඩලයත් එක්වුණි.
+None of the night-built nights with his newborn twins, a mother had been donated to a mother-held couple.
 
-කටු මැටිපැලක් කිරි සුවඳින් පිරවූ හබරණ පුවක්පිටිය තුන් නිවුන් දරුවන් පිළිබඳ පුවත අද දෙරණ වාර්තා කළේ ඉකුත් මැයි 15 වනදාය.
+As a result of Ada Derana reporting, Donations and Donations were also able to construct the house with contributions.
 
-එහි සංවේදී කරුණ වූයේ තවත් දියණියක්ද සිටින මේ මව්පිය යුවළට අලුත උපන් තුන් නිවුන් දරුවන් හට නිසි රැකවරණය සැලසීමට සුදුසු නිවහනක් නොමැතිවීම ය.
+The Derana Media Network of Derana Media Network has joined the Derana Media Network of Derana Media Network along with Hanthana Sandirigui Awakers.
 
-ඝන කැලෑවකින් වටවුණු පැල්පතට ආරක්ෂාවක් නොමැති නිසා රැය පහන් කරන්නට පුංචි පැටවුන් රැගෙන මාපිය යුවළ ගොඩවන්නේ ගසක් මත තැනූ පැළකටය.
+Ada Derana recorded news of Twins of Habarana Puwakpitiya, who filled with a thorn a fragrant of milk.
 
-අද දෙරණ මෙම පුවත වාර්තා කර පැය 24ක් ගතවීමටත් පෙර මේ පුංචි පවුලට හිසට සෙවණක් ඉදිකර දීමට බුද්ධ පුත්‍රයණ්වහන්සේ නමක් මුල් පියවර තැබීය.
+The sensitive issue was another daughter, which is a good home for the newborn twins to provide proper care to the newborn twins to take care of newborn.
+
+Since the hut, surrounded by a thick jungle is not protected, and the parent pays a young chicks to take a plant on a tree.
+
+Before the report of Ada Derana, the father of the Buddha was initially launched to construct a shadow to the little family.
+
+The Chief Incumbent of the Hanthana Sandiri A de Viharaya is the Lord, Ven.
 
 ...
 
 [Data](articles/81a1d372.json)
+
+[Extended Data](ext_articles/81a1d372.ext.json)
 
 ---
 

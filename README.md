@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 15:21:42**
+As of **2024-08-22 15:36:58**
 
 ## Newspaper Stats
 
-*Scraped **42,090** Articles*
+*Scraped **42,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,66 @@ colombotelegraphcom | 403
 islandlk | 2,439
 economynextcom | 2,547
 dailyftlk | 2,723
-adalk | 3,877
+adalk | 3,878
 dailymirrorlk | 4,733
 adaderanalk | 4,929
 tamilmirrorlk | 5,464
 virakesarilk | 6,693
-adaderanasinhalalk | 7,176
+adaderanasinhalalk | 7,177
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,089 (100.0%) of 42,090 articles have been extended.
+42,090 (100.0%) of 42,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### ජනපති හා මැතිවරණ කොමිෂම මූලික අයිතිවාසිකම් උල්ලංගණය කළ බවට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කරයි
+### අපරාධ සඳහා සහාය දුන් බවට සැකපිට 20කට වැඩි පිරිසක්  අත්අඩංගුවට
+
+*2024-08-22 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200204) · `si`
+
+විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා ඊයේ (21) සිදු කළ මෙහෙයුම්වලදී සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ ඔවුන්ගෙන් සිදු කළ ප්‍රශ්න කිරීම්වලදී තවත් සැකකරුවන් 21 දෙනෙකු අත්අඩංගුවට ගත් බවය.
+
+බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් ජා ඇල ප්‍රදේශයේ දී සිදු කළ වැටලීමකදී මත්ද්‍රව්‍ය ග්‍රෑම් 05යි මිලිග්‍රෑම් 200ක් සමග 51 හැවිරිදි අපරාධ කල්ලියකට සම්බන්ධ පුද්ගලයෙකු ප්‍රථමයෙන් අත්අඩංගුවට ගෙන තිබුණි.
+
+එමෙන්ම මීගමුව පොලිස් වසමේ සිදු කළ වැටලීමකදී ද අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 07යි මිලිග්‍රෑම් 220ක් සමග 33 හැවිරිදි සංවිධානාත්මක අපරාධ කල්ලි කණ්ඩායමකට සම්බන්ධ පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇත.
+
+ඔවුන්ගෙන් සිදුකළ දීර්ඝ ප්‍රශ්න කිරීම්වලදී සැකකරුවන් 21ක් අත්අඩංගුවට ගෙන ඇති අතර පොලීසිය සැක කරන්නේ මෙලෙස අත්අඩංගුවට ගෙන ඇති පිරිස අපරාධ කල්ලිවලට විවිධ අපරාධ සිදුකිරීම සඳහා සහාය වූ පුද්ගලයන් බවට ය.
+
+2024 මාර්තු මස 19 වනදා සිට ඊයේ (21) දින දක්වා සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 3,373 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+...
+
+[Data](articles/64cb3166.json)
+
+---
+
+### The Supreme Court rules that the President and the electoral Commission violates fundamental rights
 
 *2024-08-22 14:57:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-මැතිවරණ-කොමිෂම-මූලික-අයිතිවාසිකම්-උල්ලංගණය-කළ-බවට-ශ්‍රේෂ්ඨාධිකරණය-තීන්දු-කරයි/11-411504) · `si`
 
-පළාත් පාලන ඡන්ද විමසීම නිසි පරිදි නොපැවැත්වීම තුළින් මැතිවරණ කොමිසමේ සාමාජිකයින් හා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+The Supreme Court found the President and officials of the Electoral and Finance Commissions guilty of violating fundamental rights, ordering immediate elections based on petitions from UN forces, the National People's Society, and PAFFREL.
 
-ඒ සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ පැෆ්රල් ආයතනය විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සම්වල තීන්දුව දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝග නිකුත් කළේය.
+🟩
 
-ඒ අනුව හැකි ඉක්මනින් පළාත් පාලන ඡන්ද විමසීම පැවැත්වීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය මැතිවරණ කොමිසමට නියම කර තිබේ.
+The Supreme Court ruled that the President has violated the basic human rights as members of the Elections Commission and the Finance Commission of the Elections Commission and the Minister of Elections.
 
-අගවිනිසුරු ජයන්ත ජයසූරිය, විජිත් මලල්ගොඩ, මුර්දු ප්‍රනාන්දු, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන මහත්ම මහත්මීන්ගෙන් සමන්විත පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසු
+The Supreme Court issued the orders by the Supreme Court's decision on the fundamental rights petitions filed by the United Nations Forces, National People's Society and PAFFREL.
+
+Accordingly, the Supreme Court has ordered the Election Commission to take place as soon as possible.
+
+Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, Murdu Fernando, Gamini Amarasekera and Yasantha Kodagoda.
 
 ◼️
 
 [Data](articles/e678b65d.json)
+
+[Extended Data](ext_articles/e678b65d.ext.json)
 
 ---
 
@@ -209,6 +237,22 @@ The channel debuted with several videos, including a teaser trailer, a fun quiz 
 [Data](articles/a5f753a9.json)
 
 [Extended Data](ext_articles/a5f753a9.ext.json)
+
+---
+
+### හර්ෂිතා සමරවික්‍රමට කැරිබියන් ප්‍රිමියර් ලීග දොරටු ඇරෙයි
+
+*2024-08-22 14:03:32* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂිතා-සමරවික්‍රමට-කැරිබියන්-ප්‍රිමියර්-ලීග-දොරටු-ඇරෙයි/11-411503) · `si`
+
+2024 කාන්තා කැරිබියන් ප්‍රිමියර් ලීග් තරගාවලියේ ට්‍රින්බැගෝ නයිට් රයිඩර්ස් කණ්ඩායමට ක්‍රීඩා කිරිමේ අවස්තාව ශ්‍රී ලංකා ඉදිරපෙළ පිතිකාරිණි හර්ෂිතා සමරවික්‍රමට හිමිව තිබේ. ඒ එම කණ්ඩායම නියෝජනය කරන මෙග් ලැනින් ආබාධයකට ලක්විම හේතුවෙනි.
+
+වමත් පිතිකරිනියක් වන සමරවික්‍රම ශ්‍රි ලංකා නායිකා චමරි අතපත්තුට පසුව එතෙර ලීගයකට සහභාගි වූ දෙවැනි ශ්‍රී ලාංකික ක්‍රිඩිකාව ලෙස වාර්තා අතරට එක්වෙයි.
+
+මැත කාලයේදී කාන්තා ක්‍රිකට් පිටිය තුළ හර්ෂිතා ඉහළ රිද්මයකින් පසුවන අතර ඇය  විස්සයි20 තරග 65කදී ලකුණු 1463ක් ලබාගෙන ඇත්තේ 99.72ක ප්‍රහාරාත්මක වේගයක් රදවා ගනිමිනි.
+
+◼️
+
+[Data](articles/1dacca4a.json)
 
 ---
 
@@ -2215,47 +2259,5 @@ After the demise of my brother Gamini Athukara, I came to this parliament in 200
 [Data](articles/18b0d252.json)
 
 [Extended Data](ext_articles/18b0d252.ext.json)
-
----
-
-### 2024-08-21 (Wednesday)
-
-### Sri Lankan scientist appointed to prestigious UK Parliamentary advisory group
-
-*2024-08-21 23:58:23* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-scientist-appointed-to-prestigious-UK-Parliamentary-advisory-group/56-765824) · `en`
-
-The UK Parliament has announced the appointments of the prestigious Thematic Research Leads, a new Parliamentary role of the Economic and Social Research Council (ESRC) of UK.
-
-According to the evidence these prestigious and influential roles have made a positive impact. In 2024, Parliament partnered with UK Research and Innovation (UKRI) to expand Parliament’s network of Thematic Research Leads across a wider range of academic disciplines and policy areas. Dr Varuna De Silva, a Sri Lankan attached to the Loughborough Universityhas been appointed as the Thematic Lead for AI and Digital Sector.
-
-Quoted from: www.parliament.uk: “Based on the concept of Chief Scientific Advisers, Thematic Research Leads bring their impartial expertise, extensive policy knowledge and strong network of research connections to a variety of teams in and out of Parliament. They work for three days each week in Parliament, while continuing their role in their own academic institution.”
-
-...
-
-[Data](articles/6e4229ab.json)
-
-[Extended Data](ext_articles/6e4229ab.ext.json)
-
----
-
-### Fintech Forum, Sri Lanka debuts
-
-*2024-08-21 23:55:35* · [`dailyftlk`](https://www.ft.lk/business/Fintech-Forum-Sri-Lanka-debuts/34-765823) · `en`
-
-Seated (from left): Hatton National Bank Chief Operating Officer Sanjay Wijemanne, Paymaster Solutions Founder and CEO Ransika De Silva, LankaPay CEO Channa
-
-de Silva, LOLC Finance Chairman Conrad Dias, and Dialog Finance Director/CEO Nazeem Mohamed. Standing (from left): Pay Media Founder Kanishka Weeramunda,
-
-Bhasha Lanka Founder and CEO Dhanika Perera, Commercial Bank of Ceylon CIO Sumudu Gunawardhana, and Bank of Ceylon Products and Banking Department DGM
-
-Initiative to pave way for Sri Lanka to be a centre of excellence for Fintech
-
-In a strategic move to position Sri Lanka as a regional centre of excellence for financial technology (Fintech), a national body – Fintech Forum, Sri Lanka – was established recently and registered as an association.
-
-...
-
-[Data](articles/78a064e7.json)
-
-[Extended Data](ext_articles/78a064e7.ext.json)
 
 ---

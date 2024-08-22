@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 07:31:39**
+As of **2024-08-22 07:53:03**
 
 ## Newspaper Stats
 
-*Scraped **42,011** Articles*
+*Scraped **42,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 387
 colombotelegraphcom | 403
-islandlk | 2,437
+islandlk | 2,439
 economynextcom | 2,536
 dailyftlk | 2,722
 adalk | 3,868
 dailymirrorlk | 4,733
-adaderanalk | 4,910
-tamilmirrorlk | 5,445
+adaderanalk | 4,911
+tamilmirrorlk | 5,448
 virakesarilk | 6,686
 adaderanasinhalalk | 7,168
 
@@ -26,29 +26,95 @@ adaderanasinhalalk | 7,168
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,005 (100.0%) of 42,011 articles have been extended.
+42,009 (100.0%) of 42,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### කාලගුණයේ වෙනසක්
+### அதிவேகத்தில் அதிசொகுசு கார் விபத்து
+
+*2024-08-22 07:26:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/அதிவேகத்தில்-அதிசொகுசு-கார்-விபத்து/93-342613) · `ta`
+
+விசேட வைத்தியர் ஒருவரின் மனைவி மற்றும் இரண்டு பிள்ளைகளை ஏற்றிச் சென்ற அதிசொகுசு காரொன்று தெற்கு அதிவேக நெடுஞ்சாலையில் விபத்துக்கு உள்ளானது.
+
+ஹம்பாந்தோட்டை பொது வைத்தியசாலையில் விசேட வைத்தியர் ஒருவருக்கு சொந்தமான அதிசொகுசு காரே இவ்வாறு விபத்துக்கு உள்ளானது.
+
+பத்தேகம அதிவேக நெடுஞ்சாலையின் நுழைவாயிலுக்கு அருகில் 80 ஆவது கிலோமீற்றர் மைல் கல்லுக்கு அருகில் விபத்துக்குள்ளாகியுள்ளதாக நெடுஞ்சாலை போக்குவரத்து பொலிஸார் தெரிவித்தனர்.
+
+காயமடைந்தவர்களில் 16-21 வயதுடைய இரண்டு மகன்களும் மனைவியும் அடங்குவதாக வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+விபத்தின் போது 21 வயது மகன் காரை ஓட்டி வந்ததாக மருத்துவமனை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+மாத்தறையிலிருந்து கொழும்பு நோக்கி வந்த கார் மொனராகலையில் இருந்து கொழும்பு நோக்கிச் சென்ற சொகுசு தனியார் பேருந்தின் வலது பக்க உடற்பகுதியில் பாதுகாப்பு வேலிக்கு நடுவில் விபத்துக்கு உள்ளாகி மோதியதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/246a84fb.json)
+
+---
+
+### Showery conditions expected to reduce from today
+
+*2024-08-22 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101407/showery-conditions-expected-to-reduce-from-today) · `en`
+
+The Department of Meteorology says that the prevailing showery conditions over the island are expected to reduce from today (August 22).
+
+Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers will occur at a few places in Eastern and Uva Provinces during the evening or night, it said.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
+
+The general public is requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/c25402ad.json)
+
+---
+
+### இருபாலாருக்கும் படம் காட்டிய அதிபர் கைது
+
+*2024-08-22 07:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருபாலாருக்கும்-படம்-காட்டிய-அதிபர்-கைது/175-342612) · `ta`
+
+தரம் 5 இல் கல்வி கற்கும் மாணவிகள் மற்றும் மாணவர்களுக்கு, தன்னுடைய கையடக்க தொலைபேசியின் ஊடாக ஆபாச படங்களை காண்பித்த பாடசாலை அதிபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+மட்டக்களப்பு, ஏறாவூர் பொலிஸ் பிரிவிலுள்ள பாடசாலையைச் சேர்ந்த 57 வயதுடைய பாடசாலை அதிபர் ஒருவரை  புதன்கிழமை (21) இரவு கைது செய்துள்ளதாக ஏறாவூர் பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பொலிஸ் பிரிவிலுள்ள ஆரம்ப பாடசாலை ஒன்றில் தரம் 5ம் ஆண்டில் 3 சிறுமிகள் 3 சிறுவர்கள் உட்பட 6 பேர் கல்வி கற்று வருகின்றனர். இந்த நிலையில்; குறித்த மாணவர்கள் 5ம் ஆண்டு புலமைப்பரிசில் பரீட்சைக்கு தோற்றவுள்ள நிலையில் அந்த மாணவர்களுக்கு பாடசாலை முடிவுற்ற பின்னர் மேலதிகமாக மாலையில் அதிபர் கற்பித்து வந்துள்ளார்
+
+இதன் போது குறித்த அதிபர் மாணவர்களுக்கு தனது கையடக்க தொலைபேசியில் இருந்து ஆபாச படங்களை காட்டி வந்துள்ள நிலையில் ஒரு மாணவி மாலை நேர வகுப்புக்கு போக முடியாது என பெற்றோரிடம் தெரிவித்த நிலையில் அதற்கான காரணத்தை கேட்ட போது சிறுமி அதிபரின் இந்த ஈனச் செயல் தொடர்பாக தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/c2aef66a.json)
+
+---
+
+### A change in the weather
 
 *2024-08-22 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200193) · `si`
 
-පවතින වැසි තත්ත්වයේ අඩුවීමක් අද (22) දිනයේ සිට බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect showers and thunderstorms across various regions including Western, Sabaragamuwa, North Western provinces, Kandy, Nuwara Eliya, Galle, Matara, East, and Uva provinces. Strong winds possible in central hills, North, North Central, and Northwestern provinces, and Hambantota district. Take precautions against heavy rains, strong winds, and landslides.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇතිවේ.
+🟩
 
-නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+The Meteorology Department says that a decrease in the prevailing rainy industry will be expected today (22).
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+There are several closes in the Western, Sabaragamuwa and North Western provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+Showers or thundershowers will occur at several places in the East and Uva provinces.
+
+West in the central hills and in the North, North, North, North-central and Northwestern provinces and in the Hambantota district.. (30-40) can cause strong winds.
+
+The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
 
 ◼️
 
 [Data](articles/7cdcec94.json)
+
+[Extended Data](ext_articles/7cdcec94.ext.json)
 
 ---
 
@@ -168,6 +234,22 @@ The new investment zones are scheduled to be around Mankulam, Paranthan, Kankesa
 
 ---
 
+### ’எந்த வேட்பாளருக்கும் ஆதரவில்லை’
+
+*2024-08-22 02:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்த-வேட்பாளருக்கும்-ஆதரவில்லை/175-342610) · `ta`
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும் எந்த வேட்பாளருக்கும் தமது அங்கீகாரத்தை வழங்கப்போவதில்லை என்று இலங்கை கத்தோலிக்க திருச்சபை அறிவித்துள்ளது.
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களைச் சந்தித்துள்ள போதிலும் எந்த வேட்பாளருக்கும் ஆதரவை வெளியிடப்போவதில்லை என்றும் கத்தோலிக்க திருச்சபை தெரிவித்துள்ளது.
+
+நாங்கள் எவருக்கும் அங்கீகாரத்தை வழங்கமாட்டோம் என்று கொழும்பு பேராயரின் பேச்சாளர் சிறில் காமினி பெர்னாண்டோ தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/4efd5fe0.json)
+
+---
+
 ### Three newly appointed Ambassadors and two high -rankings handed over the president's credentials to the President
 
 *2024-08-22 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191670) · `ta`
@@ -196,17 +278,23 @@ Minister of Foreign Affairs and Minister of Justice, Justice, Prison Affairs and
 
 ---
 
-### இன்று முதல் எரிபொருள், உரத்திற்கு மானியம்
+### The first fuel, subsidy for fertilizer
 
 *2024-08-22 02:37:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-எரிபொருள்-உரத்திற்கு-மானியம்/175-342609) · `ta`
 
-இன்று முதல் அமுலாகும் வகையில் கடற்றொழிலாளர்களுக்கு டீசல் மற்றும் மண்ணெண்ணெய் லீற்றருக்கு 25 ரூபா மானியம் வழங்க அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The government has approved subsidies: 25 rupees per liter for diesel and kerosene for fishermen, and a 4,000 rupee subsidy for fertilizers for the tea department.
 
-இதேவேளை, தேயிலை துறையினருக்கு 4,000 ரூபா உர மானியம் வழங்கவும் அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+🟩
+
+The Cabinet has approved a subsidy of 25 rupees per liter of diesel and kerosene for fishermen from today.
+
+Meanwhile, the Cabinet has approved the tea department's 4,000 rupee fertilizer subsidy.
 
 ◼️
 
 [Data](articles/08182dbb.json)
+
+[Extended Data](ext_articles/08182dbb.ext.json)
 
 ---
 
@@ -761,6 +849,36 @@ The Glenrock earns spotlight in National Geographic Traveller (UK) for its eco-l
 [Data](articles/28d75d87.json)
 
 [Extended Data](ext_articles/28d75d87.ext.json)
+
+---
+
+### ‘SL yet to come out of crisis; increasing dollar revenue should be a priority’
+
+*2024-08-21 23:37:00* · [`islandlk`](http://island.lk/sl-yet-to-come-out-of-crisis-increasing-dollar-revenue-should-be-a-priority/) · `en`
+
+The Sri Lankan economy is now showing some stability after 2022 but it is yet to come out of that crisis. This could be done by increasing dollar revenue and by targeting four major sectors, a top economist attached to an independent policy think tank said.
+
+‘Stability is not a good place to stay in for long for any country but it is time to move out and increase the country’s revenue by curtailing borrowings, Chief Executive Officer, Advocata Institute, Dhananath Fernando said.
+
+Addressing Rotary Club Colombo South members at a recent function held at NH Collection, Colombo, Fernando said; ‘Since we are yet come out of this crisis, the country’s economic growth and stability should come from four main channels/sectors, namely, exports, foreign remittances, tourism and Foreign Direct Investment (FDI).
+
+...
+
+[Data](articles/ae6e8c4f.json)
+
+---
+
+### Union Assurance breaks new ground with industry-first Digital Loyalty Rewards Programme
+
+*2024-08-21 23:36:00* · [`islandlk`](http://island.lk/union-assurance-breaks-new-ground-with-industry-first-digital-loyalty-rewards-programme/) · `en`
+
+Union Assurance introduces another groundbreaking initiative in the Sri Lankan Life Insurance industry with the launch of the Clicklife App’s Digital Loyalty Rewards Programme. This innovative programme, the first-of-its-kind in the market, aligns perfectly with the Company’s purpose of supporting all Sri Lankans to enrich their well-being, by championing innovative platforms that elevate their quality of life while being financially protected every step of the way.
+
+Union Assurance’s new Digital Loyalty Rewards Programme offers all customers an opportunity to earn rewards worth millions through the Clicklife App. The programme is seamlessly integrated into the Clicklife App, allowing customers to accumulate digital rewards and redeem them at a vast network of over 100+ merchants, ranging from supermarkets and pharmacies to restaurants and apparel outlets.
+
+...
+
+[Data](articles/9626bf22.json)
 
 ---
 
@@ -2153,143 +2271,5 @@ According to the decision, the decision taken by the reconciliation was legitima
 [Data](articles/942f2fa8.json)
 
 [Extended Data](ext_articles/942f2fa8.ext.json)
-
----
-
-### Vadivel Suresh and Ali Zahir Moulana given ministerial posts
-
-*2024-08-21 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101399/vadivel-suresh-and-ali-zahir-moulana-given-ministerial-posts) · `en`
-
-Badulla District MP Vadivel Suresh has been appointed as the State Minister of Labour.
-
-Meanwhile, MP Ali Zahir Moulana has been appointed as the Non Cabinet Minister of Development Projects.
-
-They were sworn in before President Ranil Wickremesinghe today (21).
-
-Vadivel Suresh had been elected to the parliament in the 2020 general election from the Samagi Jana Balawegaya (SJB) representing the Badulla District.
-
-However, he was removed from his position as the SJB’s Passara Organiser in November last year in the wake of the parliamentarian voting in favour of the 2024 Budget during the second reading.
-
-On December 6, 2023, Suresh was appointed as Advisor to President Ranil Wickremesinghe on the full integration of up-country Tamils into Sri Lankan society.
-
-Meanwhile, Ali Zahir Moulana of the Sri Lanka Muslim Congress (SLMC) had been sworn in as a Member of Parliament on October 17, to fill the seat left vacant following the removal of former minister Naseer Ahamed.
-
-...
-
-[Data](articles/7ba80d75.json)
-
-[Extended Data](ext_articles/7ba80d75.ext.json)
-
----
-
-### Vadivel Suresh appointed State Minister of Labour
-
-*2024-08-21 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101399/vadivel-suresh-appointed-state-minister-of-labour) · `en`
-
-Badulla District MP Vadivel Suresh has been appointed as the State Minister of Labour.
-
-He was sworn in before President Ranil Wickremesinghe, a short while ago.
-
-◼️
-
-[Data](articles/9e8a9957.json)
-
-[Extended Data](ext_articles/9e8a9957.ext.json)
-
----
-
-### Vadivel Suresh is sworn in as diplomatic minister
-
-*2024-08-21 16:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சராக-வடிவேல்-சுரேஷ்-பதவியேற்பு/175-342573) · `ta`
-
-Vadivel Suresh, an MP, has been appointed as the Minister of Industry, with President Ranil presiding over his swearing-in ceremony.
-
-🟩
-
-Vadivel Suresh MP was sworn in as the Minister of Industry and President Ranil.
-
-◼️
-
-[Data](articles/55424e63.json)
-
-[Extended Data](ext_articles/55424e63.ext.json)
-
----
-
-### 39 invited for 39 candidate debate
-
-*2024-08-21 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200179) · `si`
-
-39 candidates have been invited for a debate scheduled for September 7, organized by the March 12 Movement. The event will unfold in stages, ensuring all candidates' interests are considered. Interested parties should contact the organizing committee via email or phone for further details.
-
-🟩
-
-The March 12 Business states that the presidential candidate debate will be held on 7th September.
-
-The March 12 movement has been implemented to implement this debate in several stages, considering the interest of other candidates.
-
-The operating committee of the March 12 movement will open to these debate series openly and will be informed to refer to the email address before 12 months.
-
-The operating committee of the March 12 movement says that more information can be obtained from the following telephone number.
-
-◼️
-
-[Data](articles/3873ee28.json)
-
-[Extended Data](ext_articles/3873ee28.ext.json)
-
----
-
-### Link with shredded hands by surgery in Jaffna
-
-*2024-08-21 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191638) · `ta`
-
-A youth underwent a lengthy surgery at Jaffna Hospital, returning home afterward. The operation was performed by medical experts, including doctors and nurses, under the direction of Dr. Satyamurthy.
-
-🟩
-
-Director of Jaffna Teaching Hospital. Satyamurthy said in his social network.
-
-A youth was admitted to Jaffna Hospital last month.
-
-In this case, the young man has returned home after a long hour of surgery.
-
-Medical experts, doctors, nurses and officers who have successfully carried out a particular surgery
-
-◼️
-
-[Data](articles/0cd56655.json)
-
-[Extended Data](ext_articles/0cd56655.ext.json)
-
----
-
-### Amazon forest about burning;Brazilian people who breathe
-
-*2024-08-21 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191630) · `ta`
-
-In Brazil, the Amazon forest fires are causing severe air pollution, especially in Porto Velho, Rondonia, affecting residents' health. The PM 2.5 levels exceed WHO guidelines by 11 times, increasing risks of lung diseases and other health issues. Illegal agricultural practices contribute to the wildfires, with over 42,000 recorded since January, a significant increase from previous years.
-
-🟩
-
-Due to a fire in the Amazon forest area in Brazil, Porto Wellho, the state of Rondonia, has been so dense smoke.
-
-In this case, Dayan Mysore, a 30 -year -old teacher in the city near the border of Bolivia, where 460,000 people live, said, "We are having trouble breathing."
-
-In Porto Welho, on Tuesday (20), PM 2.5, the concentration of pimples, called PM 2.5, increased to 56.5 micrograms in a cubic meter of air.
-
-The World Health Organization has increased 11 times more than the maximum guidelines of the captures.
-
-Breathing these pushing has been found to increase the risk of lung cancer, heart disease, stroke, diabetes and other health problems.
-
-The IQair, which monitors the air quality, said that 246.4 micrograms were dangerous per cubic meter on the 14th.
-
-The Rondonia state government has begun a complaint to complain about it that the wildfire is spreading as agriculture is illegally setting fire to the use of land.
-
-...
-
-[Data](articles/04d55251.json)
-
-[Extended Data](ext_articles/04d55251.ext.json)
 
 ---

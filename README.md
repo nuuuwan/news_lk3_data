@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 00:21:42**
+As of **2024-08-23 00:36:49**
 
 ## Newspaper Stats
 
@@ -26,33 +26,45 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,148 (100.0%) of 42,149 articles have been extended.
+42,149 (100.0%) of 42,149 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### ரூட், புறூக், ஸ்மித் ஆகியோர் துடுப்பாட்டத்தில் பிரகாசிப்பு; இலங்கையைவிட 23 ஓட்டங்கள் முன்னிலையில் இங்கிலாந்து
+### Root, Uhuke and Smith shine in the batting;England in front of Sri Lanka 23 runs
 
 *2024-08-22 23:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191741) · `ta`
 
-இலங்கைக்கு எதிராக மென்ச்செஸ்டர் எமிரேட்ஸ் ஓல்ட் ட்ரபோர்ட் விளையாட்டரங்கில் நடைபெற்றுவரும் ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் தொடரின் முதலாவது போட்டியின் இரண்டாம் நாளான இன்றைய ஆட்ட நேர முடிவின்போது இங்கிலாந்து அதன் முதல் இன்னிங்ஸில் 6 விக்கெட்களை இழந்து 259 ஓட்டங்களைப் பெற்றுள்ளது.
+England leads Sri Lanka by 23 runs after scoring 259/6 in the first innings of the ICC World Test Championship match at Manchester. Key contributions came from Joe Root, Haseeb Hameed, and Jos Buttler, each scoring half-centuries. Sri Lanka was bowled out for 236. The day's play began late due to rain, with Ben Stokes contributing 67 runs alongside Dawid Malan and Ollie Pope. Fernando and Prabath Jayasuriya were the standout bowlers for Sri Lanka, taking 5 wickets between them.
 
-இதற்கு அமைய முதல் இன்னிங்ஸில் 4 விக்கெட்கள் மீதம் இருக்க 23 ஓட்டங்களால் இங்கிலாந்து முன்னிலையில் இருக்கிறது.
+🟩
 
-இலங்கை அதன் முதன் இன்னிங்ஸில் சகல விக்கெட்களையும் இழந்து 236 ஓட்டங்களைப் பெற்றது.
+England have scored 259 runs for the loss of 6 wickets in the first innings of today's match, the second day of the ICC World Test Championships at the Menster Emirates Old Traford Stadium against Sri Lanka.
 
-இலங்கையைப் போன்றே இங்கிலாந்து துடுப்பாட்டத்திலும் மத்திய வரிசையில் ஹெரி புறூக், ஜெமி ஸ்மித் ஆகியோர் அரைச் சதங்கள் குவித்து தமது அணியை பலப்படுத்தினர்.
+In the first innings, England are in the lead by 23 runs to remain 4 wickets.
 
-இன்று காலை பெய்த மழை காரணமாக இரண்டாம் நாள் ஆட்டம் பிற்பகல் 1.15 மணிக்கே ஆரம்பமானது.
+Sri Lanka lost all the wickets in its first innings and scored 236 runs.
 
-பென் டக்கெட் (18), டான் லோரன்ஸ் (30), ஒல்லி போப் (6) ஆகிய மூவரும் களம் விட்டகல இங்கிலாந்தின் மொத்த எண்ணிக்கை 67 ஓட்டங்களாக இருந்தது.
+Like Sri Lanka, Heri Purak and Jemi Smith have made half -centuries and strengthened their team.
 
-எனினும் ஜோ ரூட், ஹெரி புறூக் ஆகிய இருவரும் 4ஆவது விக்கெட்டில் 58 ஓட்டங்களைப் பகிர்ந்து இங்கிலாந்துக்கு உற்சாகத்தைக் கொடுத்தனர்.
+The second day's game started at 1.15 pm due to rain this morning.
 
-...
+The total number of UK in Vittagala was 67 runs - Ben Tacket (18), Don Lawrence (30) and Ollie Pope (6).
+
+However, Joe Root and Heri Pouke shared 58 runs in the 4th wicket and made England excited.
+
+Hari Pouke, who shared 62 more runs with Jemi Smith, was bowled out for 56 runs.
+
+Jemith Smith and Chris Vox then shared 52 runs in the 6th wicket.
+
+Fernando, who bowled, took 3 wickets for 68 runs and Prabhat Jayasuriya took 2 wickets for 58 runs.
+
+◼️
 
 [Data](articles/abb4c1ef.json)
+
+[Extended Data](ext_articles/abb4c1ef.ext.json)
 
 ---
 

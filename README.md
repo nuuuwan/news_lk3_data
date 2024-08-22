@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 17:57:42**
+As of **2024-08-22 18:17:02**
 
 ## Newspaper Stats
 
-*Scraped **42,117** Articles*
+*Scraped **42,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,86 @@ economynextcom | 2,547
 dailyftlk | 2,723
 adalk | 3,880
 dailymirrorlk | 4,733
-adaderanalk | 4,934
+adaderanalk | 4,935
 tamilmirrorlk | 5,468
-virakesarilk | 6,695
+virakesarilk | 6,696
 adaderanasinhalalk | 7,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,114 (100.0%) of 42,117 articles have been extended.
+42,117 (100.0%) of 42,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### නිවිතිගල සලිත කළ මරණ දෙක
+### Man takes his own life after murdering wife and injuring son
+
+*2024-08-22 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101429/man-takes-his-own-life-after-murdering-wife-and-injuring-son) · `en`
+
+A person has reportedly murdered his wife and caused injuries to his 18-year-old son after attacking them with a sharp weapon, before taking his own life inside their house in the Nivithigala area.
+
+Police said that the suspect’s 38-year-old wife and son, who both sustained critical injuries in the incident, were admitted to Ratnapura Hospital, however the wife had succumbed to her injuries upon admission to the hospital.
+
+Later, during a search of their house, police have found the body of the 48-year-old suspect, who had committed suicide by hanging himself inside the house.
+
+The suspect, who was residing in the same house in the Dela area of Nivithigala, has been living with his wife, son and 8-year-old daughter, according to police.
+
+However, the police suspect that the attack had been carried out over a family dispute.
+
+If you or someone you know is in crisis and needs help, resources are available for immediate support:
+
+◼️
+
+[Data](articles/eab1710f.json)
+
+---
+
+### The two deaths perceived in Nivitigala
 
 *2024-08-22 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200213) · `si`
 
-සැමියා විසින් බිරිඳට සහ පුත්‍රයාට තියුණු ආයුධයකින් සිදුකළ පහරදීමක් හේතුවෙන් බරපතළ තුවාල ලැබූ බිරිඳ මියගොස් තිබේ.
+In Nivitigala, a man was killed in a family dispute, allegedly by his wife and young son. The incident occurred on Kalawana Road, and the wife claimed she was also severely injured in an accident, hospitalized in Ratnapura. The bodies were discovered during a police inspection.
 
-පවුල් ආරවුලක් හේතුවෙන් මෙම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+🟩
 
-සැකකාර ස්වාමිපුරුෂයා, බිරිඳ (38), 18 හැවිරිදි පුත්‍රයා සහ අවුරුදු 08ක දියණිය නිවිතිගල පොලිස් වසමේ කලවාන පාර, දෑල ප්‍රදේශයේ නිවසක ජීවත්වී ඇති අතර ඊයේ (21) රාත්‍රියේ ඇතිවූ පවුල් ආරවුලක් හේතුවෙන් මෙම සිද්ධිය ඇතිවී තිබේ.
+The husband was killed due to a suspicious assault caused by her husband and son with a sharp weapon.
 
-සිද්ධියෙන් බරපතළ තුවාල ලැබූ බිරිඳ සහ පුත්‍රයා රත්නපුර රෝහලට ඇතුළත් කිරීමෙන් අනතුරව බිරිඳ මියගොස් තිබූ බව පොලීසිය තවදුරටත් පැවසීය.
+The murder had been carried out due to a family dispute.
 
-අනතුරුව පොලීසිය විසින් නිවස පරීක්ෂා කිරීමේදී 48 හැවිරිදි සැකකාර සැමියා ද නිවස තුළ සියදිවි නසාගෙන සිටියදී සිරුර හමුවී ඇත.
+The suspect is the woman, wife, and the eight-year-old son, and the eight-year-old son, and the eight-year-old son of the Kalawana Road, Kalawana Road, the incident occurred yesterday (21).
+
+The wife has said that the wife had died in the accident that he was seriously injured and admitted to the Ratnapura hospital.
+
+The body was then found in the house while the police were inspected by the house.
 
 ◼️
 
 [Data](articles/6f60e5f5.json)
 
+[Extended Data](ext_articles/6f60e5f5.ext.json)
+
 ---
 
-### கெஹெலியவின் விளக்கமறியல் நீடிப்பு
+### Kehelia
 
 *2024-08-22 17:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலியவின்-விளக்கமறியல்-நீடிப்பு/175-342642) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்ல உள்ளிட்ட நான்கு சந்தேகநபர்களின் விளக்கமறியலை எதிர்வரும் 29ஆம் திகதி வரை நீடிக்க மாளிகாகந்த நீதிமன்ற நீதவான் வியாழக்கிழமை (22) அன்று உத்தரவிட்டுள்ளார் .
+A court has extended the detention of four suspects, including ex-Health Minister Keheliya Rambukwella, charged with buying substandard medical injections, until March 29.
 
-தரமற்ற ஹியூமன் இமியுனோக்ளோபியுலின் ஊசி மருந்துகளை கொள்வனவு செய்த குற்றச்சாட்டில் முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல கடந்த பெப்ரவரி 02 ஆம் திகதி கைது செய்யப்பட்டு மறுநாள் மாளிகாகந்த நீதவான் நீதிமன்றத்தால் சந்தேக நபரை விளக்கமறியலில் வைக்கப்பட்டமை குறிப்பிடத்தக்கது .
+🟩
+
+The court on Thursday (22) has ordered the presentation of four suspects, including former Health Minister Keheliya Rambukwella, to extend the presentation until the 29th.
+
+Former Health Minister Keheliya Rambukwella was arrested on February 2 on charges of purchasing the substandard Human Imyunoglobulin injections and was detained by the Magistrate's Court on February 02.
 
 ◼️
 
 [Data](articles/178fa4ce.json)
+
+[Extended Data](ext_articles/178fa4ce.ext.json)
 
 ---
 
@@ -146,21 +180,27 @@ The innings was a special reason for the innings of the innings and a greater co
 
 ---
 
-### ඩිජිටල් දුම්රිය ප්‍රවේශ පත්‍රයක් අද සිට
+### A digital railway ticket from today
 
 *2024-08-22 16:39:31* · [`adalk`](https://www.ada.lk/breaking_news/ඩිජිටල්-දුම්රිය-ප්‍රවේශ-පත්‍රයක්-අද-සිට/11-411506) · `si`
 
-ඩිජිටල් දුම්රිය ප්‍රවේශ පත්‍රයක් අද (22) සිට හඳුන්වාදීමට දුම්රිය දෙපාර්තමේන්තුව කටයුතු කර තිබෙනවා.
+Today, the Railways Department launched a digital railway ticket system. Tickets can be bought online at www.preadsha.lk, where a QR code is generated. After payment, tickets are sent via SMS or email. This QR code must be shown at the train or station for travel.
 
-දුම්රිය දෙපාර්තමේන්තුවේ www.pravesha.lk වෙබ් අඩවිය හරහා මිලදී ගැනීමේ හැකියාව ඇති මෙ​ම නව ටිකට්ප​තට QR කේතයක් ඇතුලත්කොට ඇත.
+🟩
 
-අදාළ වෙබ් අඩවියට ඔබගේ ගමන් විස්තර ඇතුළත් කර ටිකට් පත සඳහා මුදල් ගෙවු පසු SMS හෝ Email පණිවුඩයක් හරහා අදාළ ටිකට් පත ලබා ගැනීමට හැකියාව ලැබෙනු ඇත.
+The Railways Department has been introduced to introduce a digital railway ticket today.
 
-තමන්ට අදාල ටිකට් පතේ QR කේතය දුම්රියේදී හෝ දුම්රිය ස්ථානයේදී පරීක්ෂකවරයාට පෙන්වීමට හැකිබව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+There is a QR code that can be purchased through www.preadsha.lk website www.preadsha.lk.
+
+You will enable the relevant website to get the relevant ticket via SMS or EMAIL message once you pay for the ticket.
+
+The Railway Department says that the QR code from the train or the railway station at the railway station, says the Railway Department.
 
 ◼️
 
 [Data](articles/d20f718e.json)
+
+[Extended Data](ext_articles/d20f718e.ext.json)
 
 ---
 
@@ -273,6 +313,26 @@ During the presidential election, Telecom demanded to intervene to defeat the go
 [Data](articles/1eb6ea90.json)
 
 [Extended Data](ext_articles/1eb6ea90.ext.json)
+
+---
+
+### மன்னாரில் இளம் குடும்ப பெண் உயிரிழந்த சம்பவம் ; வைத்தியர் பணியிடை நீக்கம்
+
+*2024-08-22 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191722) · `ta`
+
+மன்னார் மாவட்ட பொது வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட நிலையில்  உயிரிழந்த   இளம் குடும்ப பெண் ஒருவரின் மரணத்துடன் தொடர்புடையதாக கூறப்படும் வைத்தியர் பணியிடை நீக்கம்  செய்யப் பட்டுள்ளதாக மன்னார் மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளர் வைத்தியர் அஸாத் எம் ஹனீபா தெரிவித்தார்.
+
+அண்மையில் குழந்தையைப் பிரசவித்த 27 வயதான பெண் அதிக குருதி போக்கு காரணமாக கடந்த மாதம் 28 ஆம் திகதி மன்னார் பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்தார்.
+
+எவ்வாறாயினும் அந்தச் சந்தர்ப்பத்தில் அங்கிருந்த வைத்தியர் அவருக்கு உரிய முறையில் சிகிச்சை அளிக்கவில்லை என்றும் வைத்தியர்களின் அசமந்த போக்கு காரணமாக அவர் உயிரிழந்ததாகவும் குற்றஞ்சாட்டப்படுகிறது.
+
+இந்நிலையில் குறித்த சம்பவம் தொடர்பான விசாரணைகளுக்கு அமைய ஏலவே நான்கு பேர் பணியிடை நீக்கம் செய்யப்பட்டுள்ளனர்.
+
+இரண்டு தாதியர்களுக்கும் இரண்டு குடும்ப நல சுகாதார உத்தியோகத்தர் களுக்கு இவ்வாறு பணியிடை நீக்கம் வழங்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f2292e4e.json)
 
 ---
 
@@ -2239,45 +2299,5 @@ President Gotabhaya Rajapakse has deceived the people of the country and the Cat
 [Data](articles/daebebd1.json)
 
 [Extended Data](ext_articles/daebebd1.ext.json)
-
----
-
-### Free visa to come to Sri Lanka for 35 countries
-
-*2024-08-22 02:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-நாடுகளுக்கு-இலங்கை-வர-இலவச-விசா/175-342611) · `ta`
-
-Sri Lanka will offer free visas to citizens of 35 countries, including major ones like the UK, US, Canada, and Germany, starting October 1, 2024, for a duration of three months.
-
-🟩
-
-The Cabinet has decided to grant a visa to Sri Lanka for three months from October 01, 2024, to the citizens of 35 countries including the UK, the United States, the Canada, Germany, Australia, Saudi Arabia, China, India, Russia, South Korea and Japan.. (A)
-
-◼️
-
-[Data](articles/e1c4afcb.json)
-
-[Extended Data](ext_articles/e1c4afcb.ext.json)
-
----
-
-### Conflict between two groups in Lunagal;Two people at the hospital
-
-*2024-08-22 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191672) · `ta`
-
-In Lunugala, a clash erupted between two groups from Kurunegala and Badulla over an auction for a stone gutter. Two individuals were hospitalized and are receiving treatment. The Lunugala police are investigating the incident.
-
-🟩
-
-Lunugala police said that two persons have been admitted to the Lunugala Hospital in a clash between two groups that came to auction the Lunugala Kalu Gall.
-
-Police said that the two groups in Kurunegala and Badulla were trying to get a bidding of a stone gutter in the city of Lunugala.
-
-The two injured have been admitted to the Lunugala Hospital and are being treated and further investigations are being carried out by the Lunugala police.
-
-◼️
-
-[Data](articles/b7113e34.json)
-
-[Extended Data](ext_articles/b7113e34.ext.json)
 
 ---

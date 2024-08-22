@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 03:07:48**
+As of **2024-08-23 03:21:26**
 
 ## Newspaper Stats
 
@@ -26,83 +26,119 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,153 (100.0%) of 42,157 articles have been extended.
+42,157 (100.0%) of 42,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### தமிழ் பொதுவேட்பாளர் பா.அரியநேத்திரனுக்கு பூரண ஆதரவு - சிறீதரன்
+### Complete support - Sreedharan
 
 *2024-08-23 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191748) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமிழ் பொது வேட்பாளர் பா.அரியநேத்திரனுக்கு பூரண ஆதரவை வழங்குவதாக நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் உறுதியளித்துள்ளார்.
+Parliamentarian Sivagnanam Sreedharan pledged full support to Tamil general candidate PA Ariyanethran for the upcoming presidential election during a meeting in Jaffna. Sreedharan emphasized representing the people's choice and highlighted the importance of conveying a message to the Tamil community. Ariyanethran noted Sreedharan's recommendation of the conch symbol.
 
-தமிழரசு கட்சியின் நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரனுக்கும் தமிழ் பொது வேட்பாளர் பா.அரியநேந்திரனுக்கும் இடையில் விசேட சந்திப்பொன்று யாழ்ப்பாணத்தில் வியாழக்கிழமை (22) இடம்பெற்றுள்ளது.
+🟩
 
-இதன்போது, சிறீதரனால் தமிழ் பொது வேட்பாளர் அரியநேந்திரன் பொன்னாடை போர்த்தி, மலர்மாலை அணிவித்து வரவேற்கப்பட்டுள்ளார்.
+Parliamentarian Sivagnanam Sreedharan has promised to give full support to Tamil general candidate PA Ariyanethran in the upcoming presidential election.
 
-இதனை தொடர்ந்து, சந்திப்புக்கு பின்னர் இருவரும் கூட்டாக ஊடகங்களுக்கு கருத்து தெரிவித்த போதே தமிழ் பொது வேட்பாளருக்கான ஆதரவு தெரிவிக்கப்பட்டுள்ளது.
+A special meeting was held in Jaffna on Thursday (22).
 
-மக்களால் தேர்ந்தெடுக்கப்பட்ட மக்களின் பிரதிநிதியாக எனது ஆதரவு அரியநேத்திரனுக்கு அளிக்கப்படும். தமிழ் மக்கள் காத்திரமான ஒரு செய்தியை எதிர்வரும் ஜனாதிபதித் தேர்தலில் வழங்க வேண்டும்" என சிறீதரன் தெரிவித்துள்ளார்.
+Sridharan has been welcomed by Tamil general candidate Ariyanendran Ponnadi Ponnadi and greeted with a flower.
 
-...
+Following this, the two have been supported by the Tamil general candidate when the two jointly commented to the media.
+
+My support will be given as the representative of the people elected by the people. Sreedharan said, "The Tamil people should be given a message in the upcoming presidential election."
+
+Whatever the decision of the Sri Lanka Tamil National Party, my support will be given to Ariyanathan. The Tamil people will decide how far the party is going to push us from the people.
+
+At the same time, Ariyanethran commented that Sreedharan was the one who recommended the conch symbol.
+
+◼️
 
 [Data](articles/22d12224.json)
 
+[Extended Data](ext_articles/22d12224.ext.json)
+
 ---
 
-### உலகளாவிய நிதியின் மத்திய வங்கியாளர் அறிக்கையில் 'ஏ' முதன்மைத்தரத்தைப் பெற்றார் ஆளுநர் நந்தலால் வீரசிங்க
+### Governor Nandalal Weerasinghe has received the 'A' chief in the Central Banking Report of the Global Fund
 
 *2024-08-23 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191747) · `ta`
 
-இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்கவுக்கு உலகளாவிய நிதியின் 2024 ஆம் ஆண்டுக்கான மத்திய வங்கியாளர் அறிக்கையில் 'ஏ' எனும் முதன்மைத்தரம் வழங்கப்பட்டுள்ளது.
+Dr. Nandalal Weerasinghe, Governor of Sri Lanka's Central Bank, has been recognized as a top performer in the Global Fund's Central Banking Report for 2024. This accolade highlights his leadership in navigating the country through its economic crisis, emphasizing his contributions to controlling inflation, fostering economic growth, and stabilizing the rupee's value. The Global Fund, established in 1994, annually honors central bankers worldwide for their efforts in maintaining economic stability.
 
-இது பொருளாதார நெருக்கடிக்கு முகங்கொடுத்திருந்த நாட்டை மீட்டெடுத்து, முன்னேற்றப்பாதையில் கொண்டுசெல்வதற்கு ஆளுநர் நந்தலால் வீரசிங்க வழங்கிய தலைமைத்துவம் மற்றும் அவரது நுட்பமிகு திறன்களுக்கான பெருமைமிகு அங்கீகாரமாக அமைந்திருப்பதாக மத்திய வங்கி தெரிவித்துள்ளது.
+🟩
 
-அதுமாத்திரமன்றி பணவீக்கத்தைக் கட்டுப்படுத்தல், பொருளாதார வளர்ச்சி, ரூபாவின் பெறுமதியைத் தளம்பலற்ற நிலையில் பேணல் மற்றும் வட்டிவீதக் கட்டுப்பாடு ஆகிய முக்கிய பிரிவுகளில் ஆளுநரால் எட்டப்பட்ட அடைவுகளையும் இது காண்பிப்பதாக மத்திய வங்கி சுட்டிக்காட்டியுள்ளது.
+The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has been given a leading role in the Central Banking Report of the Global Fund for 2024.
 
-உலகநாடுகளின் மத்திய வங்கி ஆளுநர்களின் செயற்திறன்மிக்க நடவடிக்கைகளையும், பொருளாதார ஸ்திரத்தன்மையைப் பேணுவதில் அவர்கள் கொண்டிருக்கும் அர்ப்பணிப்புடன்கூடிய கடப்பாட்டையும் கௌரவிக்கும் நோக்கில் உலகளாவிய நிதியினால் கடந்த 1994 ஆம் ஆண்டு முதல் வருடாந்தம் இத்தகைய தரப்படுத்தல் வழங்கப்பட்டுவருகின்றமை குறிப்பிடத்தக்கது.
+The Central Bank said it was a proud recognition of the leadership and his subtle skills provided by Governor Nandalal Weerasinghe to restore the country that was facing the economic crisis and to take the progress.
+
+The Central Bank has pointed out that it is also reached by the Governor in the main categories of maintaining inflation, economic growth, the value of the rupee, maintaining the value of the rupee.
+
+It is noteworthy that the global fund has been providing such benchmarks annually since 1994 to honor the execution of the central bank governors of the world and the dedicated obligation to maintain the economic stability.
 
 ◼️
 
 [Data](articles/91b2b7b4.json)
 
+[Extended Data](ext_articles/91b2b7b4.ext.json)
+
 ---
 
-### அலி சாஹிர் மௌலானாவுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை ; பதிலளிப்பதற்கு ஒருவார காலவகாசம் - ரவூப் ஹக்கீம்
+### Disciplinary action against Ali Sahir Maulana;One week to reply - Rauf Hakeem
 
 *2024-08-23 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191746) · `ta`
 
-பாராளுமன்ற உறுப்பினர் அலி சாஹிர் மௌலானாவுக்கு எதிராக ஒழுக்காற்று நடவடிக்கைகளை முன்னெடுத்துள்ளோம். ஒருவார காலத்துக்குள் அவர் பதிலளிக்க வேண்டும் என ஸ்ரீ லங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம் தெரிவித்தார்.
+Rauf Hakeem announced disciplinary action against MP Ali Zahir Maulana, giving him one week to respond. Maulana, a member of the Sri Lanka Muslim Congress, faces potential removal from his position as Deputy Leader due to undisclosed reasons. He has acknowledged his mistakes and will submit a truth report to the party leadership, who will then decide his future within the party.
 
-கொழும்பில் வியாழக்கிழமை (22) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பாராளுமன்ற உறுப்பினர் எம்.எம். ஹரிஸை கட்சியின் பிரதித் தலைவர் பதவியில் இருந்து இடைநிறுத்தியதன் பின்னர்  என்னை சந்திப்பதற்கு அவர் அனுமதி கோரியிருந்தார்.நான் அதற்கு அனுமதியளிக்கவில்லை. தேர்தல் மேடைகளில் ஏறி பிரச்சாரம் செய்ய வேண்டும்,  பிரச்சார நடவடிக்கைகளில் ஈடுபடுவதாக மக்களுக்கு பகிரங்கமாக தெளிவுப்படுத்த வேண்டும் என்பதை கட்சி அறிவுறுத்தியிருந்தது.
+We have carried out disciplinary action against MP Ali Zahir Maulana. Sri Lanka Muslim Congress President Rauf Hakeem said he should respond within a week.
 
-அவரது குறைப்பாட்டை அவர் பகிரங்கமாக ஏற்றுக்கொண்டு  சத்தியக்கடதாசி ஒன்றை சமர்ப்பித்துள்ளார்.  கட்சியின் உச்ச பீடத்துக்கு சத்தியகடதாசியை சமர்ப்பித்து அவரது நியாய காரணிகளும் கேட்கப்படும்.கட்சியின் உச்ச பீடமே தீர்மானத்தை எடுக்கும்.
+He was responding to questions raised by journalists during a media briefing held in Colombo on Thursday (22).
 
-...
+Member of Parliament. He sought permission to meet Haris after suspending the post of Deputy Leader of the party.. The party advised that the people should publicly clarify the campaign and make public campaigns.
+
+He has publicly accepted his shortcomings and submitted a truth.His legitimate factors will be asked to submit the Satyagadasi to the party's peak.
+
+He has confirmed that the party is acting in accordance with. Therefore, the party's peak will decide whether or not to remove the ban imposed on him.
+
+We have carried out disciplinary action against MP Ali Zahir Maulana. We have been given a week's time to respond. He said the next step would be based on his response.
+
+◼️
 
 [Data](articles/4ae6be5c.json)
 
+[Extended Data](ext_articles/4ae6be5c.ext.json)
+
 ---
 
-### நாம் குறிப்பிடும் வேட்பாளருக்கே எம் மக்கள் வாக்களிப்பார்கள் - எம்.ஏ.சுமந்திரன் உறுதி
+### M people will vote for the candidate we refer to - MA Sumanthiran confirms
 
 *2024-08-23 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191745) · `ta`
 
-தமிழ் பொது வேட்பாளரை நாங்கள் ஆதரிக்கவில்லை. அவருக்கு எதிராக ஒழுக்காற்று நடவடிக்கையை முன்னெடுத்துள்ளோம். நாம் குறிப்பிடும் வேட்பாளருக்கே எம்மக்கள் வாக்களிப்பார்கள் என இலங்கை தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+MA Sumanthiran, a Sri Lanka Tamil National Alliance (TNA) parliamentarian, confirmed that they will vote for a specific candidate but did not disclose who. The TNA has not yet decided on supporting any presidential candidate, stating they will announce their decision a week before the election. They emphasized that the Tamil community will participate in the election, contrary to previous boycotts. Additionally, the TNA has taken disciplinary action against the Tamil Public Advance, indicating a lack of cooperation.
 
-கொழும்பில் வியாழக்கிழமை (22) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதித் தேர்தலில் தமிழ் தேசியக் கூட்டமைப்பு யாருக்கு ஆதரவளிக்கும் என்பதை இதுவரை தீர்மானிக்கவில்லை. அவசரப்பட வேண்டிய தேவை கிடையாது. வாக்கெடுப்பு இடம் பெறுவதற்கு ஒருவாரத்துக்கு முன்னர் எமது தீர்மானத்தை அறிவிப்போம்.
+We do not support the Tamil general candidate. We have carried out disciplinary action against him. Sri Lanka Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that we will vote for the candidate we mention.
 
-ஜனாதிபதித் தேர்தலை புறக்கணிக்குமாறு ஒரு தரப்பினர் குறிப்பிடுவதை தமிழ் மக்கள் ஏற்க போவதில்லை. இவர்கள் ஒவ்வொரு தேர்தல்களின் போதும் தேர்தலை பகிஷ்கரிக்குமாறு குறிப்பிட்டுக் கொள்வார்கள். ஆனால் மக்கள் தேர்தலை புறக்கணிக்கவில்லை. இம்முறையும் தேர்தலை புறக்கணிக்க போவதில்லை.
+He was responding to questions raised by journalists during a media briefing held in Colombo on Thursday (22).
 
-...
+The TNA has not yet decided on who will support the presidential election. There is no need to rush. We will announce our resolution a week before the referendum.
+
+The Tamil people are not going to accept the fact that a party has to boycott the presidential election. They will mention the boycott of the election in every election. But people do not ignore the election. This time it is not going to boycott the election.
+
+We are not cooperating with the Tamil Public Advance. He has carried out disciplinary action against him.
+
+In the last elections, we have announced our position in the last moment.. So this time, we will vote for the candidate we refer to.
+
+◼️
 
 [Data](articles/01477249.json)
+
+[Extended Data](ext_articles/01477249.ext.json)
 
 ---
 

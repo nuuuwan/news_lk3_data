@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 13:56:22**
+As of **2024-08-22 14:09:03**
 
 ## Newspaper Stats
 
-*Scraped **42,070** Articles*
+*Scraped **42,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ colombotelegraphcom | 403
 islandlk | 2,439
 economynextcom | 2,542
 dailyftlk | 2,723
-adalk | 3,873
+adalk | 3,875
 dailymirrorlk | 4,733
 adaderanalk | 4,926
 tamilmirrorlk | 5,459
 virakesarilk | 6,691
-adaderanasinhalalk | 7,175
+adaderanasinhalalk | 7,176
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,069 (100.0%) of 42,070 articles have been extended.
+42,070 (100.0%) of 42,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### තණමල්විල නිහඬ විරෝධය
+
+*2024-08-22 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200203) · `si`
+
+තණමල්විල ප්‍රදේශයේ පාසලක ඉගෙනුම ලබන පාසල් සිසුවියක් සමූහ දූෂණයට ලක් කිරීමේ සිද්ධියට සම්බන්ධ සැකකාර පාසල් සිසුන් 17 සහ ඊට අධාර අනුබල දුන් කාන්තාව අද (22) වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට යළි ඉදිරිපත් කිරීමට නියමිතය.
+
+මේ අතර වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණය ඉදිරිපිට දැරියට සාධාරණයක් ඉල්ලා නිහඬ විරෝධතාවයක් පැවැත්වුණි.
+
+කෙසේ වෙතත්, ඊට ආසන්නයේ කලහකාරීව හැසිරුණු පුද්ගලයෙකු එම විරෝධය වාර්තාකරණය සඳහා පැමිණි මාධ්‍යවේදියෙකුට පහරදීමට උත්සාහ කර තිබුණි.
+
+පසුව එම පුද්ගලයා එම ස්ථානයේ සිටි විරෝධතාකරුවන්ට ද තර්ජනය කර ඇති අතර පොලිස් නිලධාරීන් මැදිහත්ව එම පුද්ගලයා ව එම ස්ථානයෙන් ඉවත් කළ බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/0557fe36.json)
+
+---
+
+### ශ්‍රී ලංකා - එංගලන්ත පළමු ටෙස්ට් ක්‍රිකට් තරගයේ දෙවන දිනය අද
+
+*2024-08-22 13:41:42* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---එංගලන්ත-පළමු-ටෙස්ට්-ක්‍රිකට්-තරගයේ-දෙවන-දිනය-අද/9-411501) · `si`
+
+ශ්‍රී ලංකා - එංගලන්ත පළමු එක්දින ක්‍රිකට් තරගයේ දෙවන දිනය සඳහා වන තරගය අද පැවැත්වේ.
+
+පළමු දිනය සඳහා තරගය නතර කරන විට පන්දුවට පහර දෙමින් සිටි එංගලන්ත කණ්ඩායම පන්දුවාර 4ක් අවසානයේ කිසිවෙකු නොදෙවි ලකුණු 22ක් ලබා සිටියහ.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම  සිය පළමු ඉනිම සඳහා පන්දුවාර 74ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 236ක් රැස් කළහ.
+
+ඒ අනුව එංගලන්ත කණ්ඩායම මේ වන විට ශ්‍රී ලංකා පළමු ඉනිමට වඩා තවත් ලකුණු 214ක් පිටුපසින් පසුවන්නේය.
+
+◼️
+
+[Data](articles/7d9f4f83.json)
+
+---
 
 ### Sajith reiterates plans to amend IMF agreement after winning presidential poll
 
@@ -47,6 +83,8 @@ Commenting further, Premadasa stated that a mere 3.1% economic growth by 2029, w
 ...
 
 [Data](articles/0ba92d8e.json)
+
+[Extended Data](ext_articles/0ba92d8e.ext.json)
 
 ---
 
@@ -114,7 +152,7 @@ The presidential election is scheduled for September 21st.
 
 *2024-08-22 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101417/2023-lg-election-postponement-violated-fundamental-rights-sc-orders-immediate-polls) · `en`
 
-The Supreme Court of Sri Lanka has ruled that the President, as the Minister of Finance, and the members of the Election Commission have violated the fundamental rights of the poeple through the postponement of the 2023 Local Government Elections.
+The Supreme Court of Sri Lanka has ruled that the President, as the Minister of Finance, and then members of the Election Commission have violated the fundamental rights of the poeple through the postponement of the 2023 Local Government Elections.
 
 Accordingly, the court has ordered the Election Commission to take measures to hold the Local Government Elections as immediately as possible.
 
@@ -127,6 +165,22 @@ The relevant FR petitions were filed against the postponement of the 2023 Local 
 [Data](articles/3a113d4d.json)
 
 [Extended Data](ext_articles/3a113d4d.ext.json)
+
+---
+
+### වැල්ලවාය ළමා නිවාසයක ළමයින් හතරක් අතුරුදන්
+
+*2024-08-22 12:00:39* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවාය-ළමා-නිවාසයක-ළමයින්-හතරක්-අතුරුදන්/11-411500) · `si`
+
+වැල්ලවාය පොලිස් වසමේ ඇල්ලපාර ප්‍රදේශයේ පිහිටි ළමා නිවාසයකින් ළමයින් හතරදෙනෙකු අතුරුදහන්වී ඇතැයි වැල්ලවාය පොලීසිය පවසයි.
+
+අවුරුදු 16,14 වියෙහි පසුවන පිරිමි ළමුන් දෙදෙනෙකු සහ 15 හැවිරිදි වියෙහි පසුවන පිරිමි ළමුන් දෙදෙනෙකු මෙලෙස අතුරුදන්වී ඇත.
+
+මෙම ළමයින් සිව්දෙනා ළමා නිවාසයට නොදන්වා පිටවගොස් ඇති බව මූලික පරීක්ෂණ වලදී අනාවරණයවී තිබේ.
+
+◼️
+
+[Data](articles/e6e2e0d3.json)
 
 ---
 
@@ -372,13 +426,15 @@ Further investigations are being carried out by the women's children.
 
 *2024-08-22 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101415/president-assures-new-legislations-to-address-construction-sector-issues) · `en`
 
-President Ranil Wickremesinghe says that measures will be taken to introduce new legislations to resolve the issues faced by professionals in the country’s construction sector.
+President Ranil Wickremesinghe cautioned that renegotiating with the International Monetary Fund (IMF), as suggested by some presidential candidates, could lead to the loss of economic gains and trigger another collapse of Sri Lanka’s economy.
 
-However, Wickremesinghe further pointed out that the necessary bills for this purpose have already been drafted.
+The President made these remarks yesterday (21) during a meeting with professionals from the development and construction sectors at the Water’s Edge Hotel in Battaramulla.
 
-The Head of the State expressed these remarks while responding to questions raised by professionals of the development and construction sector, during the Development and Construction Sector Professional Forum, themed “Constructing the Nation’s Tomorrow,” held on Wednesday (21).
+The event, organized under the theme “Constructing the Nation’s Tomorrow,” featured a keynote address by Prof. Sirimal Abeyratne.
 
-◼️
+In his speech, President Wickremesinghe stressed the necessity of a stable economy for national progress. He emphasized that the government has already secured all possible concessions by reaching agreements with the IMF, the Asian Development Bank, the World Bank, the Exim Bank of China, and 17 other countries, making further government intervention unnecessary.
+
+...
 
 [Data](articles/4561c418.json)
 
@@ -2163,77 +2219,5 @@ The country’s people are currently grappling with severe economic problems or 
 [Data](articles/fec6aba6.json)
 
 [Extended Data](ext_articles/fec6aba6.ext.json)
-
----
-
-### Election outcomes, best teams: Strategic advantages of political alliances
-
-*2024-08-21 22:22:19* · [`dailyftlk`](https://www.ft.lk/columns/Election-outcomes-best-teams-Strategic-advantages-of-political-alliances/4-765809) · `en`
-
-There were three surprises in Sri Lankan politics in the last week.
-
-The unprecedentedly massive turnout for Sajith Premadasa in Kurunegala, August 16th which was evidence of a quantum leap after his formation of a broad Alliance on August 8th.
-
-The entry into the Alliance campaigning for a Sajith presidency, of Champika Ranawaka, foremost ideologue and figure of the BJP-type Right, together with his compact but proficient group of followers (Karunatne Paranavithana being especially noteworthy).
-
-The rock-star emergence of Namal Rajapaksa, starting outside the Election Commission on August 15th. The SLPP-SLFP ‘barons’ who defected en masse to Ranil, re-formed the UPFA, and entering through a virtual doorway paraded as on a catwalk at a ‘Sri Lanka Can’ signing on August 16th, should be afraid, very afraid. The renegades have no one who generates that type of enthusiasm among their voters. Namal’s vote fractures Ranil’s SLPP-SLFP political prop.
-
-...
-
-[Data](articles/affc5429.json)
-
-[Extended Data](ext_articles/affc5429.ext.json)
-
----
-
-### Preservation and liabilities of presidential candidates are published
-
-*2024-08-21 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200192) · `si`
-
-Presidential candidates' asset and liability disclosures have been made public by the Commission to Investigate Allegations of Bribery or Corruption, which will publish them on its official website.
-
-🟩
-
-Copies of their assets and liabilities given by the presidenneys have been released to the public.
-
-The Commission to Investigate Allegations of Bribery or Corruption The Commission is notified to publish them through his official website.
-
-◼️
-
-[Data](articles/6482711e.json)
-
-[Extended Data](ext_articles/6482711e.ext.json)
-
----
-
-### Sri Lanka first innings limited to 236 runs
-
-*2024-08-21 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200191) · `si`
-
-In the first Test match at Manchester's Old Trafford, Sri Lanka, led by Dhananjaya de Silva, chose to bat first after winning the toss but were bowled out for 236 runs. De Silva contributed significantly with 84 runs off 135 balls, while Kilan Ratnayake added 72 runs. Milan Ratnayake, making his debut, scored his first half-century, including six fours and four sixes.
-
-🟩
-
-The first Test match between England and the England team began this morning at the Manchester, Old Traford.
-
-Sri Lanka Leader Dhanghanjaya de Silva won the toss and decided to bat first.
-
-Accordingly, the Sri Lankan team bowled out for 236 runs.
-
-Sri Lanka's first text was failed to be attacked in the first innings to bat.
-
-Dhananjaya de Silva, who played a great innings, lifted Sri Lankan innings in 84 balls.
-
-Kilan Ratnayake, who joined their Mangala Test series, provided with 72 runs in 135 balls.
-
-Milan Ratnayake, who joined his Mangala Test series, scored his first half century balls.
-
-Milan who reported the first 6 beat in the innings, Milan received 6 hits and 4 hits for his half century.
-
-◼️
-
-[Data](articles/45f761a6.json)
-
-[Extended Data](ext_articles/45f761a6.ext.json)
 
 ---

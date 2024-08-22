@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 07:53:03**
+As of **2024-08-22 08:16:21**
 
 ## Newspaper Stats
 
-*Scraped **42,017** Articles*
+*Scraped **42,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 403
 islandlk | 2,439
 economynextcom | 2,536
 dailyftlk | 2,722
-adalk | 3,868
+adalk | 3,869
 dailymirrorlk | 4,733
 adaderanalk | 4,911
 tamilmirrorlk | 5,448
@@ -26,31 +26,39 @@ adaderanasinhalalk | 7,168
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,009 (100.0%) of 42,017 articles have been extended.
+42,017 (100.0%) of 42,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### அதிவேகத்தில் அதிசொகுசு கார் விபத்து
+### Car accident at high speed
 
 *2024-08-22 07:26:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/அதிவேகத்தில்-அதிசொகுசு-கார்-விபத்து/93-342613) · `ta`
 
-விசேட வைத்தியர் ஒருவரின் மனைவி மற்றும் இரண்டு பிள்ளைகளை ஏற்றிச் சென்ற அதிசொகுசு காரொன்று தெற்கு அதிவேக நெடுஞ்சாலையில் விபத்துக்கு உள்ளானது.
+A high-speed crash occurred on the southern highway involving a car carrying a special doctor's family, including his wife and two children, ages 16-21. The accident happened near the 80th kilometer mark, close to the Baddegama highway entrance. The 21-year-old son was driving when the car collided with another vehicle, causing injuries. All involved were rushed to Karapitiya Hospital.
 
-ஹம்பாந்தோட்டை பொது வைத்தியசாலையில் விசேட வைத்தியர் ஒருவருக்கு சொந்தமான அதிசொகுசு காரே இவ்வாறு விபத்துக்கு உள்ளானது.
+🟩
 
-பத்தேகம அதிவேக நெடுஞ்சாலையின் நுழைவாயிலுக்கு அருகில் 80 ஆவது கிலோமீற்றர் மைல் கல்லுக்கு அருகில் விபத்துக்குள்ளாகியுள்ளதாக நெடுஞ்சாலை போக்குவரத்து பொலிஸார் தெரிவித்தனர்.
+A miraculous car carrying a special doctor's wife and two children crashed on the southern highway.
 
-காயமடைந்தவர்களில் 16-21 வயதுடைய இரண்டு மகன்களும் மனைவியும் அடங்குவதாக வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+A special doctor owned by a special doctor at the Hambantota General Hospital, the accident occurred.
 
-விபத்தின் போது 21 வயது மகன் காரை ஓட்டி வந்ததாக மருத்துவமனை வட்டாரங்கள் தெரிவிக்கின்றன.
+Highway traffic police said that the 80th kilometer mile near the entrance of the Baddegama highway has been crashed.
 
-மாத்தறையிலிருந்து கொழும்பு நோக்கி வந்த கார் மொனராகலையில் இருந்து கொழும்பு நோக்கிச் சென்ற சொகுசு தனியார் பேருந்தின் வலது பக்க உடற்பகுதியில் பாதுகாப்பு வேலிக்கு நடுவில் விபத்துக்கு உள்ளாகி மோதியதாக பொலிஸார் தெரிவித்தனர்.
+Hospital sources said that the injured included two sons and spouses aged 16-21.
 
-...
+Hospital sources said that the 21 -year -old son was driving the car during the accident.
+
+The luxury of a private bus from Monarakalai to Colombo from Matara to Colombo crashed into the right side of a private bus in the middle of a security fence, police said.
+
+At the same time, the drivers of the vehicles traveling on the street were taken to Karapitiya Hospital before the accident occurred.
+
+◼️
 
 [Data](articles/246a84fb.json)
+
+[Extended Data](ext_articles/246a84fb.ext.json)
 
 ---
 
@@ -72,23 +80,33 @@ The general public is requested to take adequate precautions to minimize damages
 
 [Data](articles/c25402ad.json)
 
+[Extended Data](ext_articles/c25402ad.ext.json)
+
 ---
 
-### இருபாலாருக்கும் படம் காட்டிய அதிபர் கைது
+### Chancellor arrested for showing the film
 
 *2024-08-22 07:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருபாலாருக்கும்-படம்-காட்டிய-அதிபர்-கைது/175-342612) · `ta`
 
-தரம் 5 இல் கல்வி கற்கும் மாணவிகள் மற்றும் மாணவர்களுக்கு, தன்னுடைய கையடக்க தொலைபேசியின் ஊடாக ஆபாச படங்களை காண்பித்த பாடசாலை அதிபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A school principal was arrested for allegedly showing pornographic images to Grade 5 students during evening classes. The incident came to light when a parent learned about it from their child. The principal, aged 57, faces charges and will be produced in court. Further inquiries are ongoing.
 
-மட்டக்களப்பு, ஏறாவூர் பொலிஸ் பிரிவிலுள்ள பாடசாலையைச் சேர்ந்த 57 வயதுடைய பாடசாலை அதிபர் ஒருவரை  புதன்கிழமை (21) இரவு கைது செய்துள்ளதாக ஏறாவூர் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-குறித்த பொலிஸ் பிரிவிலுள்ள ஆரம்ப பாடசாலை ஒன்றில் தரம் 5ம் ஆண்டில் 3 சிறுமிகள் 3 சிறுவர்கள் உட்பட 6 பேர் கல்வி கற்று வருகின்றனர். இந்த நிலையில்; குறித்த மாணவர்கள் 5ம் ஆண்டு புலமைப்பரிசில் பரீட்சைக்கு தோற்றவுள்ள நிலையில் அந்த மாணவர்களுக்கு பாடசாலை முடிவுற்ற பின்னர் மேலதிகமாக மாலையில் அதிபர் கற்பித்து வந்துள்ளார்
+A school principal has been arrested for showing pornographic images through his mobile phone for students and students in Grade 5.
 
-இதன் போது குறித்த அதிபர் மாணவர்களுக்கு தனது கையடக்க தொலைபேசியில் இருந்து ஆபாச படங்களை காட்டி வந்துள்ள நிலையில் ஒரு மாணவி மாலை நேர வகுப்புக்கு போக முடியாது என பெற்றோரிடம் தெரிவித்த நிலையில் அதற்கான காரணத்தை கேட்ட போது சிறுமி அதிபரின் இந்த ஈனச் செயல் தொடர்பாக தெரிவித்துள்ளார்.
+Eravur police said that a 57 -year -old school principal from a school in the Eravur police division in Batticaloa has been arrested on Wednesday night.
+
+Six people, including 3 girls, are educated in the Grade 5 Grade 5 in the police division.. In this case;The Chancellor has been taught in the evening after school after school ended the students who appear for the 5th scholarship examination.
+
+When the Chancellor asked the students, the girl told his parents that a student could not go to the evening class as the principal had shown pornographic pictures from her mobile phone.
+
+Following the incident, the parents of the 3 -year -old girl, who were informed of the 119th police emergency number, registered a vote from the 3 students and the 57 -year -old Chancellor arrested the Chancellor.
 
 ...
 
 [Data](articles/c2aef66a.json)
+
+[Extended Data](ext_articles/c2aef66a.ext.json)
 
 ---
 
@@ -234,19 +252,25 @@ The new investment zones are scheduled to be around Mankulam, Paranthan, Kankesa
 
 ---
 
-### ’எந்த வேட்பாளருக்கும் ஆதரவில்லை’
+### No candidate supports any candidate
 
 *2024-08-22 02:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்த-வேட்பாளருக்கும்-ஆதரவில்லை/175-342610) · `ta`
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் எந்த வேட்பாளருக்கும் தமது அங்கீகாரத்தை வழங்கப்போவதில்லை என்று இலங்கை கத்தோலிக்க திருச்சபை அறிவித்துள்ளது.
+The Catholic Church of Sri Lanka will not endorse any candidate in the upcoming presidential election, despite meeting with them. Archbishop Cyril Gamini Fernando stated they won't recognize any contender.
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களைச் சந்தித்துள்ள போதிலும் எந்த வேட்பாளருக்கும் ஆதரவை வெளியிடப்போவதில்லை என்றும் கத்தோலிக்க திருச்சபை தெரிவித்துள்ளது.
+🟩
 
-நாங்கள் எவருக்கும் அங்கீகாரத்தை வழங்கமாட்டோம் என்று கொழும்பு பேராயரின் பேச்சாளர் சிறில் காமினி பெர்னாண்டோ தெரிவித்துள்ளார். (a)
+The Catholic Church of Sri Lanka has announced that it will not give his recognition to any candidate contesting the presidential election.
+
+The Catholic Church has said that although he has met with candidates contesting the presidential election, no candidate will release support.
+
+Colombo Archbishop spokesman Cyril Gamini Fernando said we would not give any recognition to anyone. (A)
 
 ◼️
 
 [Data](articles/4efd5fe0.json)
+
+[Extended Data](ext_articles/4efd5fe0.ext.json)
 
 ---
 
@@ -866,6 +890,8 @@ Addressing Rotary Club Colombo South members at a recent function held at NH Col
 
 [Data](articles/ae6e8c4f.json)
 
+[Extended Data](ext_articles/ae6e8c4f.ext.json)
+
 ---
 
 ### Union Assurance breaks new ground with industry-first Digital Loyalty Rewards Programme
@@ -879,6 +905,8 @@ Union Assurance’s new Digital Loyalty Rewards Programme offers all customers a
 ...
 
 [Data](articles/9626bf22.json)
+
+[Extended Data](ext_articles/9626bf22.ext.json)
 
 ---
 
@@ -1457,6 +1485,24 @@ The opportunity comes for a period of six months from October 1, 2024.
 [Data](articles/f186c146.json)
 
 [Extended Data](ext_articles/f186c146.ext.json)
+
+---
+
+### පිල් මාරු කළොත් මන්ත්‍රීධුරය අහෝසියට නීති ගේනවා
+
+*2024-08-21 19:53:25* · [`adalk`](https://www.ada.lk/breaking_news/පිල්-මාරු-කළොත්-මන්ත්‍රීධුරය-අහෝසියට-නීති-ගේනවා/11-411498) · `si`
+
+ජාතික ජනබලවේගයේ ආණ්ඩුවක් යටතේ පිල් මාරු කිරීමේ දේශපාලනය අවසන් කරන බවත්, පක්ෂ මාරු කළොත් මන්ත්‍රී ධුරය අහෝසි වන ආකාරයට නීති ගෙන එන බවත් ජාතික ජනබලවේගයේ පාර්ලිමේන්තු මන්ත්‍රීනි හරිනි අමරසූරිය මෙනවිය පැවසුවාය.
+
+ජාතික ජනබලවේගය ආණ්ඩුවක් විසින් ගෙන ඒමට නියමිත නව ව්‍යවස්ථාව සකස් කර ඇති බව ද ඇය ප්‍රකාශ කළාය. ප්‍රතිවාදීන්ට කිරීමට ඇත්තේ ජාතික ජනබලවේගයට එරෙහිව මඩ ගැසීම පමණක් යැයි ද ඇය කවාය. සැප්තැම්බර් 21 වැනිදා මෙරට ජනාධිපතිවරයා ලෙස නිසැකවම පත් වන්නේ අනුර කුමාර දිසානායක සහෝදරයා බවත්, ජනතාව එම තීන්දුව ගෙන අවසන් බවත් ඇය සඳහන් කළාය.
+
+මන්ත්‍රීවරිය මේ බව සඳහන් කළේ අද (21දා) ගම්පොළ පැවති රැළිය අමතමිනි. එහිදී වැඩිදුරටත් අදහස් දැක්වූ අමරසූරිය මන්ත්‍රීවරිය මෙසේ පැවසුවාය.
+
+“අනුරට කෝටියක් හොයන මේ ගමනට එකතු වෙලා ඉන්න ඔබ සියලු දෙනාටම ස්තුතියි. රටම තීරණයක් අරන් තියෙනවා මේ රටේ නායකයා විදියට අපේ අනුර සහෝදරයා, ජනාධිපති සහෝදරයා බවට පත් කරන්න ඔබේ ඡන්දය ලබාදෙන්න.
+
+...
+
+[Data](articles/fbf40a69.json)
 
 ---
 
@@ -2235,41 +2281,5 @@ Inflation in health subground of 1.7% in June is high to 4.0% increase.
 [Data](articles/97ca3970.json)
 
 [Extended Data](ext_articles/97ca3970.ext.json)
-
----
-
-### Minister posts at Vadiwel Suresh and Sahair Malluta
-
-*2024-08-21 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200180) · `si`
-
-Vadivel Suresh and Ali Sahar Mollana were appointed ministers by President Ranil Wickremesinghe. Suresh, who represents the Badulla District and is the Chief Secretary of the Ceylon National Estate Workers Union, became the State Minister of Labor. Mollana, a member of the Sri Lanka Muslim Congress, was named the Minister of Cabinet after being sworn in as an MP following a Supreme Court ruling.
-
-🟩
-
-Members of Parliament, Vadival Suresh, was given the ministerial portfolio and Ali Sahar Mollana.
-
-Ali Sarahr Mollana has been awarded the Minister of Cabinet.
-
-Vadivel Suresh has been appointed as the State Minister of Labor.
-
-The Presidential Media Unit said that the two of them obtained the appointments from President Ranil Wickremesinghe.
-
-Vadivel Suresh entered Parliament representing the Badulla District representing the Badulla District.
-
-He was the highest number of preferential votes for the Badulla District for the Badulla District in the 2020 general election.
-
-He recently said he would support President Ranil Wickremesinghe.
-
-Mr. Suresh also serves as the Chief Secretary of the Ceylon National Estate Workers Union.
-
-Manusha Nanayakkara, Minister of Labor, lost his parliamentary seat on August 9 due to a Supreme Court decision.
-
-According to the decision, the decision taken by the reconciliation was legitimated to deprive the party membership of Manusha Nanayakkara and Harin Fernando.
-
-...
-
-[Data](articles/942f2fa8.json)
-
-[Extended Data](ext_articles/942f2fa8.ext.json)
 
 ---

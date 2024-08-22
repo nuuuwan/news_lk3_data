@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 17:37:12**
+As of **2024-08-22 17:57:42**
 
 ## Newspaper Stats
 
-*Scraped **42,114** Articles*
+*Scraped **42,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,102 @@ colombotelegraphcom | 403
 islandlk | 2,441
 economynextcom | 2,547
 dailyftlk | 2,723
-adalk | 3,879
+adalk | 3,880
 dailymirrorlk | 4,733
 adaderanalk | 4,934
-tamilmirrorlk | 5,467
+tamilmirrorlk | 5,468
 virakesarilk | 6,695
-adaderanasinhalalk | 7,185
+adaderanasinhalalk | 7,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,112 (100.0%) of 42,114 articles have been extended.
+42,114 (100.0%) of 42,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### “சம்பளத்தை அதிகரிக்க அமைச்சரவை அனுமதி  ”
+### නිවිතිගල සලිත කළ මරණ දෙක
+
+*2024-08-22 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200213) · `si`
+
+සැමියා විසින් බිරිඳට සහ පුත්‍රයාට තියුණු ආයුධයකින් සිදුකළ පහරදීමක් හේතුවෙන් බරපතළ තුවාල ලැබූ බිරිඳ මියගොස් තිබේ.
+
+පවුල් ආරවුලක් හේතුවෙන් මෙම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+සැකකාර ස්වාමිපුරුෂයා, බිරිඳ (38), 18 හැවිරිදි පුත්‍රයා සහ අවුරුදු 08ක දියණිය නිවිතිගල පොලිස් වසමේ කලවාන පාර, දෑල ප්‍රදේශයේ නිවසක ජීවත්වී ඇති අතර ඊයේ (21) රාත්‍රියේ ඇතිවූ පවුල් ආරවුලක් හේතුවෙන් මෙම සිද්ධිය ඇතිවී තිබේ.
+
+සිද්ධියෙන් බරපතළ තුවාල ලැබූ බිරිඳ සහ පුත්‍රයා රත්නපුර රෝහලට ඇතුළත් කිරීමෙන් අනතුරව බිරිඳ මියගොස් තිබූ බව පොලීසිය තවදුරටත් පැවසීය.
+
+අනතුරුව පොලීසිය විසින් නිවස පරීක්ෂා කිරීමේදී 48 හැවිරිදි සැකකාර සැමියා ද නිවස තුළ සියදිවි නසාගෙන සිටියදී සිරුර හමුවී ඇත.
+
+◼️
+
+[Data](articles/6f60e5f5.json)
+
+---
+
+### கெஹெலியவின் விளக்கமறியல் நீடிப்பு
+
+*2024-08-22 17:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலியவின்-விளக்கமறியல்-நீடிப்பு/175-342642) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்ல உள்ளிட்ட நான்கு சந்தேகநபர்களின் விளக்கமறியலை எதிர்வரும் 29ஆம் திகதி வரை நீடிக்க மாளிகாகந்த நீதிமன்ற நீதவான் வியாழக்கிழமை (22) அன்று உத்தரவிட்டுள்ளார் .
+
+தரமற்ற ஹியூமன் இமியுனோக்ளோபியுலின் ஊசி மருந்துகளை கொள்வனவு செய்த குற்றச்சாட்டில் முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல கடந்த பெப்ரவரி 02 ஆம் திகதி கைது செய்யப்பட்டு மறுநாள் மாளிகாகந்த நீதவான் நீதிமன்றத்தால் சந்தேக நபரை விளக்கமறியலில் வைக்கப்பட்டமை குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/178fa4ce.json)
+
+---
+
+### “Cabinet permit to increase salary”
 
 *2024-08-22 17:20:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-அதிகரிக்க-அமைச்சரவை-அனுமதி/175-342641) · `ta`
 
-2025 ஆம் ஆண்டு ஜனவரி மாதம் முதல் அனைத்து அரச ஊழியர்களுக்குமான சம்பளத்தை அதிகரிக்க அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அரச சேவையில் உள்ள சம்பள முரண்பாடுகளை தீர்க்க நியமிக்கப்பட்ட நிபுணர் குழுவின் தலைவர் உதய செனவிரத்ன தெரிவித்தார்.
+The Cabinet has approved a salary hike for public servants starting January 2025, with increases ranging from 24% to 50% based on qualifications, experience, and seniority.
 
-கல்வித் தகைமை, அனுபவம், பொறுப்பு ஆகியவற்றை அடிப்படையாகக் கொண்டு, கடைநிலை ஊழியர்களுக்கு 24 வீதமும், உயர்நிலை அதிகாரிகளுக்கு 24 முதல் 50 வீதத்திற்கு மேல் வரையான சம்பள அதிகரிப்பு வழங்க அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அவர் மேலும் தெரிவித்தார்
+🟩
+
+Udaya Seneviratne, Chairman of the Expert Panel, said that the Cabinet has given permission to increase the salary for all public servants from January 2025.
+
+Based on education qualifications, experience and responsibility, the Cabinet has granted permission to provide 24 % of the staff and to the top officials from 24 to 50 percent.
 
 ◼️
 
 [Data](articles/a1c9caef.json)
 
+[Extended Data](ext_articles/a1c9caef.ext.json)
+
 ---
 
-### රියදුරු බලපත් අවලංගු කිරීම ගැන දෙපාර්තමේන්තුවෙන් නිවේදනයක්
+### The department announces about the cancellation of driving licenses
 
 *2024-08-22 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200212) · `si`
 
-රියදුරන් විසින් 2009ට පෙර ලබා ගන්නා ලද රියදුරු බලපත්‍ර ඉදිරි මාස තුන ඇතුළත අවලංගු කිරීමට මෝටර් රථ දෙපාර්තමේන්තුව කටයුතු කිරීමට සූදානම් කරමින් සිටින බවට පළවන ප්‍රවෘත්තිය සම්බන්ධව එම දෙපාර්තමේන්තුව විසින් කරුණු පැහැදිලි කර තිබේ.
+The Department of Motor Traffic announced the suspension of driving licenses, with preparations underway for a new digital system aimed at improving road safety. The system will revoke licenses upon accumulating 24 penalty points. This initiative follows the tragic statistic of seven daily fatalities on the roads, aiming to enforce discipline and reduce accidents.
 
-ඒ අනුව එම දෙපාර්තමේන්තුවේ කොමසාරිස් ජනරාල් නිශාන්ත අනුරුද්ධ විරසිංහ මහතා පවසන්නේ එවැනි රියදුරු බලපත් අවලංගු කිරීමක් පිළිබඳ ප්‍රතිපත්තිමය තීරණයක් මෝටර් රථ දෙපාර්තමේන්තුව හෝ රජය විසින් මෙතෙක් ගෙන නොමැති බවය.
+🟩
 
-කෙසේ නමුත් ප්‍රවාහන අමාත්‍යාංශය සමග සාකච්ඡා කර මාර්ග ආරක්ෂාව සම්බන්ධයෙන් මතුව ඇති තත්ත්වය සලකා බලා රියදුරු බලපත්‍රයට අසාදු ලකුණු ලබාදීමේ ක්‍රමවේදයක් ක්‍රියාවට නැංවීම සඳහා කටයුතු මේ වනවිට ආරම්භ කර ඇති බව ඔහු පවසයි.
+The Department has explained the news that the driver was prepared to be prepared in the next three months.
 
-ඒ අනුව ඉදිරි මාස තුන ඇතුළත මෙම නව ක්‍රමවේදය ක්‍රියාත්මක කිරීමට අදාළ මූලික කටයුතු මේ වනවිට නිර්මාණය වෙමින් පවතින බව අද (22) පැවති මාධ්‍ය හමුවේදී ඔහු පැවසීය.
+Accordingly, the Commissioner General of the Department Nishantha Anuruddha Anuruddha Wijerasinghe says that the Department of Motor Traffic or the Government has not yet been taken by the Department of Motor Traffic or the Government.
+
+However, he said that arrangements have been started to implement a procedure for the driver's license and implement a synap of the driver's license.
+
+According to a press conference held today (22), he said that the preliminary arrangements to implement this new system within the next three months.
+
+According to the new system of traffic, the digital system for the punishment given by the traffic offense after a driver was conducted by traffic offense, the digital system was prepared at the same time.
+
+He says that the blazed score system will be the loss of the driver license after reaching 24 points.
 
 ...
 
 [Data](articles/29aa91e6.json)
+
+[Extended Data](ext_articles/29aa91e6.ext.json)
 
 ---
 
@@ -93,6 +143,24 @@ The innings was a special reason for the innings of the innings and a greater co
 [Data](articles/96a37131.json)
 
 [Extended Data](ext_articles/96a37131.ext.json)
+
+---
+
+### ඩිජිටල් දුම්රිය ප්‍රවේශ පත්‍රයක් අද සිට
+
+*2024-08-22 16:39:31* · [`adalk`](https://www.ada.lk/breaking_news/ඩිජිටල්-දුම්රිය-ප්‍රවේශ-පත්‍රයක්-අද-සිට/11-411506) · `si`
+
+ඩිජිටල් දුම්රිය ප්‍රවේශ පත්‍රයක් අද (22) සිට හඳුන්වාදීමට දුම්රිය දෙපාර්තමේන්තුව කටයුතු කර තිබෙනවා.
+
+දුම්රිය දෙපාර්තමේන්තුවේ www.pravesha.lk වෙබ් අඩවිය හරහා මිලදී ගැනීමේ හැකියාව ඇති මෙ​ම නව ටිකට්ප​තට QR කේතයක් ඇතුලත්කොට ඇත.
+
+අදාළ වෙබ් අඩවියට ඔබගේ ගමන් විස්තර ඇතුළත් කර ටිකට් පත සඳහා මුදල් ගෙවු පසු SMS හෝ Email පණිවුඩයක් හරහා අදාළ ටිකට් පත ලබා ගැනීමට හැකියාව ලැබෙනු ඇත.
+
+තමන්ට අදාල ටිකට් පතේ QR කේතය දුම්රියේදී හෝ දුම්රිය ස්ථානයේදී පරීක්ෂකවරයාට පෙන්වීමට හැකිබව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/d20f718e.json)
 
 ---
 
@@ -2211,81 +2279,5 @@ The two injured have been admitted to the Lunugala Hospital and are being treate
 [Data](articles/b7113e34.json)
 
 [Extended Data](ext_articles/b7113e34.ext.json)
-
----
-
-### In the first six months of 2024, US $ 9 billion has earned $ 9 billion
-
-*2024-08-22 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/191671) · `ta`
-
-In the first half of 2024, Sri Lanka achieved $9 billion in exports and secured $800 million in investments. The government plans to enhance 15 investment zones, aiming to create seven new ones, including around Mankulam, Paranthan, and Trincomalee. These efforts are expected to attract $1 billion in investment contracts. Additionally, the Kankesanthurai zone may become a Canada-Sri Lanka Investment Zone, and amendments to the Economic Transfer Act are underway. The government is also focusing on promoting exports through various schemes and expects to finalize 35 investment projects soon.
-
-🟩
-
-The Minister of Investment Development, Dilum Amunugama, said that in the last six months of this year, nine (9) billion exports have been earned.
-
-The Minister of State also pointed out that in the last six months, Sri Lanka has been making agreements on investments worth about US $ 800 million.
-
-Investment Promotion Minister Til Amunugama made this statement at a press conference held at the Presidential Media Center on Wednesday (21) titled 'Two Years Progress and Future'.
-
-“The Sri Lanka Investment Board will provide facilities for fifteen investment zones and are currently carrying out operations in those investment zones.. Over 500,000 people work. It is planned to establish seven new investment zones under the current government's new investment plan.
-
-The new investment zones are scheduled to be around Mankulam, Paranthan, Kankesanthurai, Trincomalee, Iranavila, Hambantota and Pingiriya areas.. Investment contracts worth $ 1 billion this year are expected.
-
-...
-
-[Data](articles/b966bbbc.json)
-
-[Extended Data](ext_articles/b966bbbc.ext.json)
-
----
-
-### No candidate supports any candidate
-
-*2024-08-22 02:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்த-வேட்பாளருக்கும்-ஆதரவில்லை/175-342610) · `ta`
-
-The Catholic Church of Sri Lanka will not endorse any candidate in the upcoming presidential election, despite meeting with them. Archbishop Cyril Gamini Fernando stated they won't recognize any contender.
-
-🟩
-
-The Catholic Church of Sri Lanka has announced that it will not give his recognition to any candidate contesting the presidential election.
-
-The Catholic Church has said that although he has met with candidates contesting the presidential election, no candidate will release support.
-
-Colombo Archbishop spokesman Cyril Gamini Fernando said we would not give any recognition to anyone. (A)
-
-◼️
-
-[Data](articles/4efd5fe0.json)
-
-[Extended Data](ext_articles/4efd5fe0.ext.json)
-
----
-
-### Three newly appointed Ambassadors and two high -rankings handed over the president's credentials to the President
-
-*2024-08-22 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191670) · `ta`
-
-Newly appointed Ambassadors from Vietnam, Myanmar, and a High Commissioner from Zimbabwe presented their credentials to Sri Lanka's President Ranil Wickremesinghe. Also present were the Ministers of Foreign Affairs and Justice, along with the President's Secretary, during a ceremony at the President's House in Colombo.
-
-🟩
-
-Three newly appointed Ambassadors and two high -ranking Ambassadors to Sri Lanka handed over their credentials to President Ranil Wickremesinghe at the President's House in Colombo on Wednesday (21).
-
-2. Trin The Tom (Trinh Thi Tam) - Ambassador - Vietnam Socialist Republic
-
-3. Malar Than Htaik - Ambassador - Myanmar
-
-4. Percy Patson Chanda - High Commissioner - Zimbabwe
-
-President Ranil Wickremesinghe, who accepted the credentials, also engaged in a speech with new ambassadors and high -rankings.
-
-Minister of Foreign Affairs and Minister of Justice, Justice, Prison Affairs and Political Reforms Ali Sabri and President's Secretary Saman Ekanayake were also present.
-
-◼️
-
-[Data](articles/9c075e8d.json)
-
-[Extended Data](ext_articles/9c075e8d.ext.json)
 
 ---

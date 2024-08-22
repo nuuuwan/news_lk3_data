@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 19:06:53**
+As of **2024-08-22 19:21:51**
 
 ## Newspaper Stats
 
-*Scraped **42,123** Articles*
+*Scraped **42,124** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,723
 adalk | 3,881
 dailymirrorlk | 4,733
 adaderanalk | 4,936
-tamilmirrorlk | 5,468
+tamilmirrorlk | 5,469
 virakesarilk | 6,696
 adaderanasinhalalk | 7,188
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,123 (100.0%) of 42,123 articles have been extended.
+42,123 (100.0%) of 42,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### ரணில் வெற்றி பெற்றால் அடுத்த பிரதமர் யார்?
+
+*2024-08-22 18:48:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-வெற்றி-பெற்றால்-அடுத்த-பிரதமர்-யார்/175-342644) · `ta`
+
+இந்த ஆண்டு நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் தற்போதைய ஜனாதிபதி ரணில் வெற்றி பெற்றால், தற்போதைய பிரதமர் தினேஷ் குணவர்தனவே தொடர்ந்தும் பிரதமராக பதவி வகிப்பார் என ஐக்கிய தேசியக் கட்சியின் தலைவர் வஜிர அபேவர்தன தெரிவித்துள்ளார்.
+
+“1982 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் மறைந்த ஜனாதிபதி ஜே.ஆர்.ஜெயவர்தன வெற்றிபெற்ற போது மறைந்த ரணசிங்க பிரேமதாச பிரதமராக இருந்தார், மேலும் பிரேமதாச பிரதமராகத் தொடர்ந்தார்.
+
+“1999ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க வெற்றிபெற்ற போது மறைந்த ரத்னசிறி விக்கிரமநாயக்க பிரதமராக இருந்தார்.
+
+“1999 இல் திருமதி குமாரதுங்க தனது இரண்டாவது அமைச்சரவையை அமைத்த பின்னரும் விக்கிரமநாயக்க பிரதமராகத் தொடர்ந்தார்.
+
+"எனவே, ஜனாதிபதி தேர்தலில் தற்போதைய ஜனாதிபதி வெற்றி பெற்றால் பிரதமர் பதவியை வகிக்கும் நபர் அதே பதவியில் தொடர்வது வழமையாகும்" என ஊடகவியலாளர் ஒருவர் எழுப்பிய கேள்விக்கு பதிலளித்த அபேவர்தன கூறினார்.
+
+◼️
+
+[Data](articles/089ef98d.json)
+
+---
 
 ### British tech billionaire Mike Lynch’s body retrieved from sunken yacht in Sicily
 
@@ -2309,25 +2329,5 @@ The Department of Meteorology has informed the people to take steps to take nece
 [Data](articles/7cdcec94.json)
 
 [Extended Data](ext_articles/7cdcec94.ext.json)
-
----
-
-### Sri Lanka to give visa free entry to tourists from 35 countries
-
-*2024-08-22 05:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-visa-free-entry-to-tourists-from-35-countries-177667/) · `en`
-
-ECONOMYNEXT – Sri Lanka will give ‘visa free’ entry to 35 countries, Foreign Minister Ali Sabry said in a twitter.com post.
-
-Sri Lanka is trying to boost tourists as the country recovers from a currency crisis.
-
-The cabinet has approved the scheme to be effective from October 01, Sri Lanka’s Daily Mirror newspaper quoted former Tourism Minister Harin Fernando as saying.
-
-The following countries will be eligible for visa free entry.
-
-◼️
-
-[Data](articles/371af97f.json)
-
-[Extended Data](ext_articles/371af97f.ext.json)
 
 ---

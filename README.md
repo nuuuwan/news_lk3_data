@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 23:21:34**
+As of **2024-08-22 23:36:56**
 
 ## Newspaper Stats
 
-*Scraped **42,139** Articles*
+*Scraped **42,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailyftlk | 2,723
 adalk | 3,884
 dailymirrorlk | 4,733
 adaderanalk | 4,939
-tamilmirrorlk | 5,469
-virakesarilk | 6,699
+tamilmirrorlk | 5,470
+virakesarilk | 6,701
 adaderanasinhalalk | 7,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,139 (100.0%) of 42,139 articles have been extended.
+42,139 (100.0%) of 42,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
+
+### ஷக்கீல், ரிஸ்வான் அபார சதங்கள் குவிக்க, பாகிஸ்தான் பலமான நிலையை அடைந்தது
+
+*2024-08-22 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191740) · `ta`
+
+பங்களாதேஷுக்கு எதிராக ராவல்பிண்டி விளையாட்டரங்கில் நடைபெற்றுவரும் ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் தொடரின் முதலாவது போட்டியில் சவூத் ஷக்கீல், மொஹமத் ரிஸ்வான் ஆகியோர் 5ஆவது விக்கெட்டில் பகிர்ந்த 240 ஓட்டங்களின் உதவியுடன் பாகிஸ்தான் கணிசமான மொத்த எண்ணிக்கையைப் பெற்று பலமான நிலையை அடைந்தது.
+
+போட்டியின் இரண்டாம் நாளான இன்று காலை தனது முதலாவது இன்னிங்ஸை 4 விக்கெட் இழப்புக்கு 154 ஓட்டங்களிலிருந்து தொடர்ந்த பாகிஸ்தான், 6 விக்கெட்களை இழந்து 448 ஓட்டங்களைப் பெற்றிருந்தபோது தனது முதல் இன்னிங்ஸை நிறுத்திக்கொண்டது.
+
+சவூத் ஷக்கீல், மொஹமத் ரிஸ்வான் ஆகிய இருவரும் மிகத் திறமையாகத் துடுப்பெடுத்தாடி  அபார  சதங்கள் குவித்தனர்.
+
+அவர்களில் பொறுமையுடன் துடுப்பெடுத்தாடிய சவூத் ஷக்கீல் 261 பந்துகளை எதிர்கொண்டு 9 பவுண்டறிகள் அடங்கலாக 141 ஓட்டங்களைப் பெற்றார். 11ஆவது டெஸ்ட் போட்டியில் விளையாடும் ஷக்கீல் குவித்த 3ஆவது சதம் இதுவாகும்.
+
+...
+
+[Data](articles/96570fa0.json)
+
+---
+
+### பல்கலைக்கழக மாணவனின் தவறான முடிவு
+
+*2024-08-22 23:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மாணவனின்-தவறான-முடிவு/175-342659) · `ta`
+
+பேராதனை பல்கலைக்கழகத்தில் தொழில்நுட்பம் கற்கும் வயம்ப பல்கலைக்கழகத்தின் நான்காம் வருட மாணவர் கண்டி ரியகமவில் உள்ள விடுதி ஒன்றில் சடலமாக மீட்கப்பட்டுள்ளார்.
+
+இந்த மாணவர் மூன்று நாட்களாக தூக்கிட்டு தற்கொலை முயற்சியில் ஈடுபட்டுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது. இது தொடர்பில் மடிக்கணினியில் குறிப்பையும் வைத்துள்ளதாக தெரிவருகின்றது.
+
+கம்பஹா ஹப்புகொட பிரதேசத்தைச் சேர்ந்த 24 வயதுடைய குறித்த மாணவன் மேலும் மூன்று மாணவர்களுடன் குறித்த விடுதியில் தங்கியிருந்தமை விசாரணைகளில் தெரியவந்துள்ளது.
+
+வாழ்க்கை என்ற வினோதமான திரைப்படத்தை தன்னால் புரிந்து கொள்ள முடியவில்லை என்றும், சமூகத்தை புரிந்து கொள்ள முடியாமல் மிகுந்த ஏமாற்றம் அடைந்திருப்பதாகவும் அவர் விட்டுச்சென்ற குறிப்பில் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/693094e6.json)
+
+---
+
+### ஜனாதிபதி வேட்பாளர் டொக்டர் ஐதுரூஸ் இல்லியாஸ் காலமானார்
+
+*2024-08-22 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/191739) · `ta`
+
+ஜனாதிபதி வேட்பாளரும் முன்னாள் எம்பியுமான வைத்தியர் ஐதுரூஸ் இல்லியாஸ் 22ஆம் திகதி வியாழக்கிழமை காலமானார்.
+
+◼️
+
+[Data](articles/a8a7654a.json)
+
+---
 
 ### Number of reputed postal voting applications - Highest Colombo
 
@@ -2305,73 +2353,5 @@ The Maligakanda Magistrate’s Court has issued an order preventing health secto
 [Data](articles/eeeb532f.json)
 
 [Extended Data](ext_articles/eeeb532f.ext.json)
-
----
-
-### You can view property details on the website
-
-*2024-08-22 09:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்து-விபரங்களை-இணையத்தளத்தில்-பார்வையிடலாம்/175-342615) · `ta`
-
-The CIABOC allows the public to view presidential nomination details on its official website.
-
-🟩
-
-The Commission to Investigate Bribery or Corruption (CIABOC) has announced that the public can visit the presidential nominations on its official website.
-
-◼️
-
-[Data](articles/aaf00ccb.json)
-
-[Extended Data](ext_articles/aaf00ccb.ext.json)
-
----
-
-### Fire at a pharmaceutical factory in India;17 killed
-
-*2024-08-22 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/191677) · `ta`
-
-A tragic fire at a pharmaceutical factory in Achuthapuram, Andhra Pradesh, India, resulted in 17 deaths and over 20 injuries among the 200+ workers present. The explosion occurred during lunchtime, causing extensive damage. Andhra Pradesh's Chief Minister, Chandrababu Naidu, has initiated a high-level investigation and plans to visit the affected families.
-
-🟩
-
-At least 17 people were killed in a fire at a drug factory in Achuthapuram area in Achuthapuram area of ​​Andhra Pradesh, Andhra Pradesh, India.
-
-More than 200 workers worked at the pharmaceutical factory on Wednesday (22). The reactor at the pharmaceutical factory exploded during lunchtime.
-
-In the meantime, all the nearby items are burnt. At least 17 people were killed in the fire.
-
-In addition, more than 20 people who were injured in the accident are being treated in hospitals.
-
-Andhra Pradesh Chief Minister Chandrababu Naidu has ordered a high -level inquiry. He is expected to meet the families of the dead and injured in the incident today.
-
-◼️
-
-[Data](articles/9a89cf1a.json)
-
-[Extended Data](ext_articles/9a89cf1a.ext.json)
-
----
-
-### Drone attack on the Russian capital
-
-*2024-08-22 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200198) · `si`
-
-Ukraine reportedly launched a significant drone attack on Moscow, with about 11 drones shot down. This marks one of the most severe assaults on the Russian capital since the conflict started in February 2022, with warnings of further escalation.
-
-🟩
-
-International media reports that Ukraine has launched a severe drone attack on Moscow capital in Russia.
-
-About 11 Drones have been destroyed in the face of Russian attacks.
-
-The Russian authorities say that this is the worst of the worst of the brutal attack on the Russian capital after the conflict began in February 2022.
-
-It is said that Ukrainian attacks on the Russian mametics will be increased.
-
-◼️
-
-[Data](articles/6aaaa036.json)
-
-[Extended Data](ext_articles/6aaaa036.ext.json)
 
 ---

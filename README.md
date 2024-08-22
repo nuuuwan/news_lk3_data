@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 12:22:02**
+As of **2024-08-22 12:37:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,059 (100.0%) of 42,064 articles have been extended.
+42,064 (100.0%) of 42,064 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,81 +36,113 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-08-22 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101417/2023-lg-election-postponement-violated-fundamental-rights-sc-orders-immediate-polls) · `en`
 
-The Supreme Court of Sri Lanka has ruled that the President, as the Minister of Finance, and the members of the Election Commission have violated the fundamental rights of voters through the postponement of the 2023 Local Government Elections.
+The Supreme Court of Sri Lanka has ruled that the President, as the Minister of Finance, and the members of the Election Commission have violated the fundamental rights of the poeple through the postponement of the 2023 Local Government Elections.
 
-Accordingly, the court has ordered the Election Commission to take measures to hold the Local Government Elections immediately.
+Accordingly, the court has ordered the Election Commission to take measures to hold the Local Government Elections as immediately as possible.
 
-◼️
+The Supreme Court issued this verdict today (22) after concluding the hearing of the Fundamental Rights (FR) petitions filed against the postponement of the 2023 Local Government elections.
+
+The relevant FR petitions were filed against the postponement of the 2023 Local Government elections, which was initially scheduled to be held on March 09, 2023.
+
+...
 
 [Data](articles/3a113d4d.json)
 
+[Extended Data](ext_articles/3a113d4d.ext.json)
+
 ---
 
-### மனுக்கள் மீது இன்று தீர்ப்பு
+### Judgment today on petitions
 
 *2024-08-22 12:00:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுக்கள்-மீது-இன்று-தீர்ப்பு/175-342629) · `ta`
 
-உள்ளூராட்சி சபைத் தேர்தல் ஒத்திவைக்கப்பட்டமைக்கு எதிராக தாக்கல் செய்யப்பட்ட மனுக்களின் தீர்ப்பு வியாழக்கிழமை (22) அறிவிக்கப்படவுள்ளது.
+The verdict on petitions challenging the postponement of local government elections will be announced on Thursday. The case was heard by top judges including Chief Justice Jayantha Jayasuriya. The Election Commission is named as defendant in the petition filed by United People's Power and National People's Power Policy Center.
 
-பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, உயர் நீதிமன்ற நீதிபதிகளான விஜித் மலல்கொட, காமினி அமரசேகர, முர்து பெர்னாண்டோ மற்றும் யசந்த கோதாகொட ஆகியோர் அடங்கிய அமர்வு முன்னிலையில் இந்த மனு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+🟩
 
-உள்ளூராட்சி மன்றத் தேர்தலை ஒத்திவைத்ததற்கு எதிராக ஐக்கிய மக்கள் சக்தி, மற்றும் தேசிய மக்கள் சக்தி மாற்றுக் கொள்கை மையம் ஆகிய அமைப்புகள் தாக்கல் செய்த மனுவில், தேர்தல் ஆணையம் அதன் உறுப்பினர்கள் குழுவை பிரதிவாதிகளாக பெயரிட்டுள்ளமை குறிப்பிடத்தக்கது.
+The verdict of petitions filed against the postponement of the local government elections will be announced on Thursday (22).
+
+The petition was taken up in the presence of Chief Justice Jayantha Jayasuriya, High Court judges Vijith Malkoda, Gamini Amarasekera, Murdu Fernando and Yasantha Gothagoda.
+
+In a petition filed by the United People's Power and the National People's Power Policy Center against the postponement of the local government elections, the Election Commission has named its members as defendants.
 
 ◼️
 
 [Data](articles/b7a03306.json)
 
+[Extended Data](ext_articles/b7a03306.ext.json)
+
 ---
 
-### හැකි ඉක්මනින් පළාත් පාලන ඡන්ද විමසීම පවත්වන්නැයි ශ්‍රේෂ්ඨාධිකරණයෙන් නියෝගයක්
+### Supreme Court order to hold local government polls as soon as possible
 
 *2024-08-22 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200202) · `si`
 
-ඉකුත් වසරේ මාර්තු මස 09 වනදා නියම කළ පරිදි පළාත් පාලන ඡන්ද විමසීම නොපැවැත්වීම තුළින් එවක මැතිවරණ කොමිසමේ සාමාජිකයින් හා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+The Supreme Court has ordered immediate local government elections due to violations of basic human rights by the President, the Elections Commission, and the Minister of Finance. The court, led by Chief Justice Jayantha Jayasuriya, upheld the fundamental rights of citizens, as argued by the National Folk Forces, CPA, and PAFFREL.
 
-ඒ අනුව හැකි ඉක්මනින් පළාත් පාලන ඡන්ද විමසීම පැවැත්වීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය මැතිවරණ කොමිසමට නියම කර තිබේ.
+🟩
 
-පළාත් පාලන ඡන්ද විමසීම නොපැවැත්වීම තුළින් ජනතාවගේ මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ පැෆ්රල් ආයතනය විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සම්වල තීන්දුව දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝග නිකුත් කළේය.
+The Supreme Court ruled that the President has violated the basic human rights as members of the Elections Commission and the Elections Commission of Elections as the Members of the Elections and Finance by the Elections Commission and the Minister of Finance.
 
-අගවිනිසුරු ජයන්ත ජයසූරිය, විජිත් මලල්ගොඩ, මුර්දු ප්‍රනාන්දු, ගාමිණී අමරසේකර සහ යසන්ත කෝදාගොඩ යන මහත්ම මහත්මීන්ගෙන් සමන්විත පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම තීන්දුව ලබා දුනි.
+Accordingly, the Supreme Court has ordered the Election Commission to take place as soon as possible.
+
+The Supreme Court issued the orders by the Supreme Court by the decision of the fundamental rights of the National Folk Forces, the CPA and PAFFREL, asking for a decision that the basic human rights of the people has violated the basic human rights of the people.
+
+The decision was given by Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, Murdu Fernando and Gamini Amarasekera and Yasantha Kodagoda.
 
 ◼️
 
 [Data](articles/884684f0.json)
 
+[Extended Data](ext_articles/884684f0.ext.json)
+
 ---
 
-### சட்டை இல்லாமல் தோசை சுட்டதால் வழக்கு
+### Case because the dosa shot without a shirt
 
 *2024-08-22 11:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டை-இல்லாமல்-தோசை-சுட்டதால்-வழக்கு/175-342628) · `ta`
 
-மேலாடையின்றி தோசை சுட்டு கொண்டு இருந்ததாகக் கூறி கொழும்பு நகரில் அமைந்துள்ள பிரபல உணவுகமொன்றுக்கு எதிராக பொதுச் சுகாதார பரிசோதகரால்  புதன்கிழமை (21) அன்று கொழும்பு நீதவான் நீதிமன்றில் 02 வழக்கு தாக்கல் செய்யப்பட்டுள்ளது .
+A public health inspector filed a case against a diet center in Colombo for allegedly operating without proper authorization. Additionally, six shops in Rajagiriya were charged under various offenses. The cases were filed at the Colombo Chief Magistrate's Court.
 
-அத்துடன் ராஜகிரிய மற்றும் அதன் சுற்றுவட்டாரப் பகுதிகளிலும் பல குற்றச்சாட்டுகளின் கீழ் 06 கடைகளுக்கு எதிராக வழக்கு பதிவு செய்யப்பட்டுள்ளது.
+🟩
 
-பொது சுகாதார பரிசோதகர் ஏ. எல். எம். சந்திரசேன கொழும்பு பிரதான நீதவான் நீதிமன்றத்தில் குறித்த வழக்கு தாக்கல் செய்திருந்தார்.
+The Public Health Inspector on Wednesday (21st) filed a case against a popular diet in Colombo for allegedly shooting Dosa.
+
+In addition, Rajagiriya and its surrounding areas have filed a case against six shops under several charges.
+
+Public Health Inspector A. L. M.. Chandrasena had filed a case at the Colombo Chief Magistrate's Court.
 
 ◼️
 
 [Data](articles/7bfb5262.json)
 
+[Extended Data](ext_articles/7bfb5262.ext.json)
+
 ---
 
-### 6 மாதங்களில் 9 பில்லியன்  டொலர் ஏற்றுமதி வருமானம்
+### Export income of $ 9 billion in 6 months
 
 *2024-08-22 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாதங்களில்-9-பில்லியன்-டொலர்-ஏற்றுமதி-வருமானம்/175-342627) · `ta`
 
-இந்த வருடத்தின் கடந்த ஆறு மாதங்களில் ஒன்பது (9) பில்லியன் அமெரிக்க டொலர் ஏற்றுமதி வருமானம் கிடைத்துள்ளதாக முதலீட்டு மேம்பாட்டு இராஜாங்க அமைச்சர் திலும் அமுனுகம தெரிவித்தார்.
+In the past six months, Sri Lanka has achieved $9 billion in exports and secured $800 million in investments. The government plans to enhance economic growth through new investment zones, upgrading existing ones, and promoting e-commerce for exports. Additionally, efforts are underway to implement the "One Village One Product" scheme and attract more foreign investments, particularly in the Port City project and Pelwatta Srine Company.
 
-அத்துடன், கடந்த ஆறு மாதங்களில் இலங்கை சுமார் 800 மில்லியன் அமெரிக்க டொலர் பெறுமதியான முதலீடுகளுக்கான உடன்படிக்கைகளை ஏற்படுத்திக்கொண்டிருப்பதாகவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டினார்.
+🟩
 
-‘இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்’ என்ற தலைப்பில் நேற்று புதன்கிழமை (21) ஜனாதிபதி ஊடக மையத்தில் நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்ட முதலீட்டு ஊக்குவிப்பு இராஜாங்க அமைச்சர் திலும் அமுனுகம இவ்வாறு குறிப்பிட்டார்.
+The Minister of Investment Development, Dilum Amunugama, said that in the last six months of this year, nine (9) billion exports have been earned.
 
-“இலங்கை முதலீட்டுச் சபை பதினைந்து முதலீட்டு வலயங்களுக்கான வசதிகளை வழங்குவதுடன் அந்த முதலீட்டு வலயங்களில் தற்போது 1575 நிறுவனங்கள் செயற்பாட்டுப் பணிகளை முன்னெடுத்து வருகின்றன. இதில் 500,000 இற்கும் மேற்பட்டோர் பணிபுரிகின்றனர். தற்போதைய அரசாங்கத்தின் புதிய முதலீட்டுத் திட்டத்தின் கீழ் ஏழு புதிய முதலீட்டு வலயங்களை நிறுவத் திட்டமிடப்பட்டுள்ளது.
+The Minister of State also pointed out that in the last six months, Sri Lanka has been making agreements on investments worth about US $ 800 million.
+
+Investment Promotion Minister Til Amunugama made this statement at a press conference held at the Presidential Media Center on Wednesday (21st).
+
+“The Sri Lanka Investment Council will provide facilities for fifteen investment zones and are currently carrying out 1575 companies in those investment zones.. Over 500,000 people work. It is planned to establish seven new investment zones under the current government's new investment plan.
+
+The new investment zones are scheduled to be around Mankulam, Paranthan, Kankesanthurai, Trincomalee, Iraniwila, Hambantota and Pingiriya areas.. Investment contracts worth $ 1 billion this year are expected.
 
 ...
 
 [Data](articles/90d1e5fd.json)
+
+[Extended Data](ext_articles/90d1e5fd.ext.json)
 
 ---
 

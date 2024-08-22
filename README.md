@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 16:36:46**
+As of **2024-08-22 16:53:49**
 
 ## Newspaper Stats
 
-*Scraped **42,105** Articles*
+*Scraped **42,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,53 @@ dailymirrorlk | 4,733
 adaderanalk | 4,931
 tamilmirrorlk | 5,465
 virakesarilk | 6,695
-adaderanasinhalalk | 7,182
+adaderanasinhalalk | 7,183
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,103 (100.0%) of 42,105 articles have been extended.
+42,105 (100.0%) of 42,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### බදු සහ ගාස්තු හැරුණුවිට ආදායම් මූලාශ්‍රයක් රජයට නැහැ - දිලිත්
+### රාජ්‍ය සේවයේ මූලික වැටුප වැඩි වෙන්නේ මෙහෙමයි
+
+*2024-08-22 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200210) · `si`
+
+සියලුම රාජ්‍ය සේවකයින්ගේ මූලික වැටුප 2025 ජනවාරි මස සිට ඉහළ දැමීමට කැබිනට් අනුමැතිය හිමිවී ඇති බව රාජ්‍ය සේවයේ වැටුප් විෂමතා පිළිබඳ විශේෂඥ කමිටුවේ සභාපති උදය සෙනෙවිරත්න මහතා ප්‍රකාශ කළේ ය.
+
+◼️
+
+[Data](articles/b7df07a9.json)
+
+---
+
+### Government has no income sources - other than taxes and fees - Dilith
 
 *2024-08-22 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200209) · `si`
 
-ටෙලිකොම් ආයතනය සතු කොටස් විකිණීමට රජය දරණ උත්සාහය වරදක් බව සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera criticized the Sri Lankan government's plan to sell parts of the Telecom sector, highlighting its reliance on taxes and fees as income sources. He argued that this approach neglects potential revenue streams from state-owned enterprises like Telecom. This stance was shared during a meeting with Telecom Trade Union representatives, where concerns about the government's financial strategies were discussed.
 
-ටෙලිකොම් වෘත්තිය සමිති නියෝජිතයින් පිරිසක් සමග ඊයේ (21) පැවති සාකච්ඡාවකදී ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-ශ්‍රී ලංකා ටෙලිකොම් ආයතනයේ ඉංජිනේරු සංගමයේ පිරිසක් ඊයේ පස්වරුවේ සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා ඇතුළු නියෝජිතයින් හමුවිය.
+Dilith Jayaweera says that the Government owned by the government to sell the parts of Telecom is a mistake.
 
-ඒ, ජනාධිපතිවරණය අතරතුර ටෙලිකොම් ආයතනය විකිණීමට රජය දරණ උත්සාහය පරාජය කිරීමට මැදිහත් වන ලෙස ඉල්ලමිනි.
+He was speaking at a meeting with a group of Telecom Trade Union representatives yesterday.
 
-"ඒවා මොකටද විකුණන්නේ... රාජ්‍ය ව්‍යවසායකත්ව මනසක් තියෙන අය. සිංගප්පූරු රජයට ව්‍යවසායකත්ව මනසක් තිබෙන නිසා වැඩියෙන්ම ලාභ ලබන ව්‍යාපාර ආණ්ඩුව කරන්නේ. ටෙලිකොම් එකෙන් ආණ්ඩුවට සල්ලි හොයන්න පුළුවන්. අදටත් රජයේ ආදායම් අඩුවීමට එක හේතුවක් තමයි බදු සහ ගාස්තු හැරුණු කොට ආදායම් ලබන මූලාශ්‍රයක් රජයට නැහැ. තිබෙන මූලාශ්‍ර විනාශ කරගෙන.. ඉතුරු ටික විකුණන්න හදනවා. බදු කියන්නේ යටින් වැටෙන බිංදු. ලාභ කියන්නේ ඒකට නෙමෙයි."
+Sri Lanka Telecom Engineer's Engineering Association met with the representatives including Dilith Jayaweera, Dilith Jayaweera.
+
+During the presidential election, Telecom demanded to intervene to defeat the government's efforts to sell.
+
+"Why are they selling?. Those with state entrepreneurship mind. The Government of Singapore has an enticident mind because the business government is doing the most. The government can find money from telecom. The government does not have a source of revenues that will be excluding taxes and fees. The sources have been destroyed.. They're trying to sell. Tax is the underlying drops. Profit is not that. "
 
 ...
 
 [Data](articles/1eb6ea90.json)
+
+[Extended Data](ext_articles/1eb6ea90.ext.json)
 
 ---
 
@@ -1548,25 +1566,31 @@ It is said that Ukrainian attacks on the Russian mametics will be increased.
 
 ---
 
-### ශ්‍රී ලංකාවේ ආණ්ඩු ශ්‍රේෂ්ඨාධිකරණයේ නියෝගවලට පයින් ගැසූ අවස්ථා 6ක්
+### Six chances of Sri Lankan government kicking on orders of the Supreme Court
 
 *2024-08-22 09:32:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clygrl4xx70o) · `si`
 
-2023 වසරේ මාර්තු 9 වැනිදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම නොපැවැත්වීම තුළින් මුදල් අමාත්‍යවරයා  ලෙස ජනාධිපතිවරයා සහ  මැතිවරණ කොමිසමේ සාමාජිකයින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝණය කර ඇතැයි  ශ්‍රේෂ්ඨාධිකරණය අද (අගෝස්තු 22 වැනිදා) තීන්දු කළේය.
+The Supreme Court has ordered the Sri Lankan government to hold local elections, but the government hasn't responded. This follows six historical instances where the government ignored Supreme Court orders, including promotions, judicial decisions, and financial matters. These cases highlight tensions between the judiciary and executive branches, affecting basic human rights and governance issues.
 
-ඒ අනුව අදාළ ඡන්ද විමසීම නොපමාව පැවැත්වීමට පියවර ගන්නා ලෙසත් ශ්‍රේෂ්ඨාධිකරණය විසින්  මැතිවරණ කොමිසමට නියෝගයක් කරනු ලැබීය.
+🟩
 
-කෙසේ වෙතත් එම නියෝගය පිළිගනිමින් ආණ්ඩුව පළාත් පාලන ඡන්ද විමසීම පවත්වන්නේ ද? ඒ පිළිබඳ ව ආණ්ඩුව මෙතෙක් අදහස් දැක්වීමක් කර නොමැත.
+The Supreme Court today (Augksha 22), the President and the Elections Commission members have violated basic human rights as the Minister of Finance.
 
-මේ අතර වත්මන් පොලිස්පති දේශබන්දු තෙන්නකෝන් එම ධූරයේ කටයුතු කිරීම වළක්වාලමින් පසුගිය දා ශ්‍රේෂ්ඨාධිකරණය විසින් දෙන ලද නියෝගය පිළිගත නොහැකි බව ආණ්ඩුව නියෝජනය කරමින් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන පසුගිය දා පාර්ලිමේන්තුවේදී ප්‍රකාශ කර තිබිණි.
+Accordingly, the Supreme Court ordered the Election Commission to ensure the election.
 
-ශ්‍රේෂ්ඨාධිකරණය විසින් දෙන ලද නියෝග ක්‍රියාත්මක කළ නොහැකි බවට ආණ්ඩුව ප්‍රකාශ කළ ප්‍රථම අවස්ථාව මෙය නොවේ. එවැනි අවස්ථා 6ක් මෙරට ඉතිහාසයෙන් හමුවෙයි.
+However, does the government hold the local government election by accepting the order?The government has not commented on this.
 
-1. බ්‍රිගේඩියර් පැරී ලියනගේ මේජර් ජෙනරල් ධූරයට උසස් කරන ලෙස දුන් නියෝගය
+Meanwhile, Prime Minister Dinesh Gunawardena recently stated in parliament that the defense of Sri Lanka Tennakoon prevented the post of Prime Minister.
+
+This is not the first time the government stated that the Supreme Court orders cannot be implemented. Six such occasions meet in history
+
+1. Brigadier's order to be promoted to Pary Liyanage to the Position
 
 ...
 
 [Data](articles/e5bed005.json)
+
+[Extended Data](ext_articles/e5bed005.ext.json)
 
 ---
 
@@ -2297,25 +2321,5 @@ An alumnus of Aloysius College, Ratnapura, he holds a Bachelor of Arts Degree fr
 [Data](articles/74ab5691.json)
 
 [Extended Data](ext_articles/74ab5691.ext.json)
-
----
-
-### Indian High Commissioner extends multi-sectoral assistance to Central, Sabaragamuwa, Uva and North Western Provinces
-
-*2024-08-22 01:35:57* · [`dailyftlk`](https://www.ft.lk/news/Indian-High-Commissioner-extends-multi-sectoral-assistance-to-Central-Sabaragamuwa-Uva-and-North-Western-Provinces/56-765833) · `en`
-
-The High Commissioner of India to Sri Lanka Santosh Jha on Tuesday visited Mahatma Gandhi International Centre (MGIC), Matale.
-
-The High Commissioner inaugurated an Indian Gallery at the Centre. The gallery houses rich informative resources on cultural, historical, social, political, economic and other aspects of India.
-
-Notably, the MGIC was constructed under Indian grant assistance in 2015.
-
-The High Commissioner distributed solar lanterns to some of the beneficiaries of Phase III of Indian Housing Project (IHP), and notebooks and school bags to students of plantation schools. The distribution will now continue and for the solar lanterns, cover all the 4,000 beneficiary households of the Phase III of the IHP, and for the notebooks and school bags, 10,000 beneficiary students from the plantation regions.
-
-...
-
-[Data](articles/434b3283.json)
-
-[Extended Data](ext_articles/434b3283.ext.json)
 
 ---

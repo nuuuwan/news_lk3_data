@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 04:55:31**
+As of **2024-08-23 05:06:33**
 
 ## Newspaper Stats
 
-*Scraped **42,163** Articles*
+*Scraped **42,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 390
 colombotelegraphcom | 403
 islandlk | 2,441
 economynextcom | 2,553
-dailyftlk | 2,728
+dailyftlk | 2,739
 adalk | 3,884
 dailymirrorlk | 4,733
 adaderanalk | 4,939
@@ -26,11 +26,193 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,163 (100.0%) of 42,163 articles have been extended.
+42,163 (100.0%) of 42,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### Career woman vs motherhood: Can you really have it all?
+
+*2024-08-23 04:31:36* · [`dailyftlk`](https://www.ft.lk/business/Career-woman-vs-motherhood-Can-you-really-have-it-all/34-765882) · `en`
+
+Fast-moving industry requires up skilling of working women after career break
+
+Workplaces with updated policies that reflect voices of employees is a must
+
+It is difficult to achieve perfect balance, but having it all is possible for mothers with high career aspirations, it only requires effort, prioritisation, a support network, and the right workplace with the equitable policies, said some mom-leaders recently.
+
+This discussion on the impact of motherhood on women’s careers took place at the Mom Leaders Conference 2024 organised by Parenthood Global, a social-networking and knowledge-sharing platform for parents. Industry experts and mothers in top positions spoke on their inspiring experiences, highlighting the struggles of working mothers and the need for systemic change within the workplace.
+
+...
+
+[Data](articles/3effd95b.json)
+
+---
+
+### Malaysia and Sri Lanka forge strategic partnership to empower women entrepreneurs
+
+*2024-08-23 04:29:17* · [`dailyftlk`](https://www.ft.lk/business/Malaysia-and-Sri-Lanka-forge-strategic-partnership-to-empower-women-entrepreneurs/34-765881) · `en`
+
+The recently concluded “Women Entrepreneurship & Networking” event in Colombo, marked a pivotal moment in advancing support for women entrepreneurs in both Malaysia and Sri Lanka. Organised by Apex Endeavour Sdn. Bhd. in partnership with the Sri Lanka Malaysia Business Council (SLMBC), the event underscored the growing commitment to gender equality and economic empowerment in the region.
+
+In Sri Lanka, where women make up approximately 52% of the population, significant challenges remain in achieving gender parity within the entrepreneurial sector. Currently, women represent only 27% of the workforce, with even fewer in leadership roles. Events like this are vital in addressing these disparities by offering women a platform to connect, collaborate, and succeed in the business arena.
+
+...
+
+[Data](articles/fafca2c0.json)
+
+---
+
+### Empowering women business owners in Sri Lanka
+
+*2024-08-23 04:27:42* · [`dailyftlk`](https://www.ft.lk/business/Empowering-women-business-owners-in-Sri-Lanka/34-765880) · `en`
+
+WEConnect International and US Embassy host key events to advance gender inclusive supply chains
+
+WEConnect International, with support from the US Embassy, recently hosted a Supplier Development Masterclass and the Supplier Diversity and Inclusion Roundtable in Colombo.
+
+These events aim to empower and connect women-owned businesses with key industry leaders and potential buyers, fostering economic growth and promoting gender inclusivity within value chains.
+
+US Ambassador Julie Chung joined over 40 Sri Lankan women business owners as they participated in the Supplier Development Masterclass, an advanced training program featuring in-depth lessons on business strategy, marketing, technology, negotiation, and sales. The class culminates in a pitch session where participants presented their businesses to a panel of buyers, providing valuable feedback and potentially opening doors to new business opportunities.
+
+...
+
+[Data](articles/0678c1d8.json)
+
+---
+
+### UNFPA brings key stakeholders together to shape future of Sri Lanka
+
+*2024-08-23 04:12:39* · [`dailyftlk`](https://www.ft.lk/news/UNFPA-brings-key-stakeholders-together-to-shape-future-of-Sri-Lanka/56-765872) · `en`
+
+‘Shaping the Future: A Policy Dialogue on Population Dynamics in Sri Lanka’ by UNFPA Sri Lanka in partnership with the Ministry of Finance, Economic Stabilisation and National Policies was held last week at BMICH in Colombo.
+
+The policy dialogue brought together key stakeholders including policymakers and subject experts to discuss Sri Lanka’s changing population dynamics in terms of aging, low fertility, and migration. Ahead of the United Nations global ‘Summit of the Future’ set for September 2024, it is imperative that Sri Lanka prepares to address its pressing population issues, as all United Nations member states come together to recalibrate the journey towards achieving the 2030 Agenda for Sustainable Development Goals.
+
+...
+
+[Data](articles/c1612679.json)
+
+---
+
+### TMH Group Chairman appointed as IPC Sri Lanka Territory Commander, recognised for global humanitarian efforts
+
+*2024-08-23 04:11:22* · [`dailyftlk`](https://www.ft.lk/news/TMH-Group-Chairman-appointed-as-IPC-Sri-Lanka-Territory-Commander-recognised-for-global-humanitarian-efforts/56-765871) · `en`
+
+TMH Group of Companies Chairman and Chairman of several other prominent business entities Dr. Tharmalingam Tharesanan, was recently appointed as Lieutenant Colonel and Territory Commander of the International Police Commission (IPC) for Sri Lanka.
+
+The official oath-taking ceremony took place in Manila, Philippines, where he was recognised for his contributions to the IPC Global Command and his extensive humanitarian efforts. The event was attended by IPC Supreme Commander General Robert Bizon, of the, along with other distinguished officials from the Diplomatic Affairs Staff. The IPC is an inter-governmental organisation established under international law through treaties involving seven nations: the United States, the Philippines, Australia, Thailand, Vietnam, New Zealand, and South Korea. It operates as an agency of the International Court of Justice (ICJ) and the International Criminal Court (ICC) with global jurisdiction as a paramilitary organisation.
+
+...
+
+[Data](articles/ac3e3c11.json)
+
+---
+
+### Australia-Sri Lanka relationship heads into new terrain
+
+*2024-08-23 04:10:23* · [`dailyftlk`](https://www.ft.lk/news/Australia-Sri-Lanka-relationship-heads-into-new-terrain/56-765870) · `en`
+
+From left: Sri Lanka Navy Director General Operations Rear Admiral Nishantha Periris, SLCG Director-General Rear Admiral Pujitha Vithana, Operation Sovereign Borders Commander Joint Agency Task Force Rear Admiral Brett Sonter, Australian High Commissioner to Sri Lanka Paul Stephens
+
+The Australian Border Force marks another momentous occasion by generously gifting
+
+Sri Lanka Coast Guard (SLCG) three All-terrain Vehicles (ATVs) at a special ceremony in Colombo.
+
+The small, motorised, off-highway vehicles are generally used on rough ground and will complement SLCG’s existing land coastal patrol activities.
+
+Test driving the ATVs during his official visit to the Australian Border Force headquarters earlier this year, SLCG Director General Rear Admiral Pujitha Vithana said the ATVs are geared to enhance onshore patrol capabilities.
+
+...
+
+[Data](articles/1bf34006.json)
+
+---
+
+### 100th birth anniversary of Justice E.A.D. Atukorale on Sunday
+
+*2024-08-23 04:09:00* · [`dailyftlk`](https://www.ft.lk/news/100th-birth-anniversary-of-Justice-E-A-D-Atukorale-on-Sunday/56-765869) · `en`
+
+Religious observances will be held to mark the 100th birth anniversary of late legal luminary Ebetota Atuoralage Dharmasena Atukorale, well known as E.A.D. Atukorale who hailed from Batugedera Ratnapura, on 25 August 2024.
+
+A product of Ananda College, the late Justice Atukorale excelled in his studies and sports. He entered the Ceylon Law College and was called to the Bar in 1949. He served in the chambers of Queen’s Council and practiced in the civil courts in many parts of the country as an advocate for over two decades.
+
+Justice Atuorale was appointed to the Court of Appeal on 7 September 1978 and was elevated to the position of President of the Court of Appeal on 3 December 1982.
+
+...
+
+[Data](articles/9e85791b.json)
+
+---
+
+### Sri Lanka’s newest airline Air Ceilao promises to revolutionise air travel
+
+*2024-08-23 03:55:29* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-newest-airline-Air-Ceilao-promises-to-revolutionise-air-travel/34-765868) · `en`
+
+To fly to Middle East and Asia Pacific initially and expand to long-haul destinations across Europe and Australia in second phase
+
+A thrilling new chapter in Sri Lanka’s aviation story will unfold with the imminent launch of Air Ceilao, the nation’s newest international airline.
+
+With an ambition to revolutionise the local industry, Air Ceilao said yesterday it is ready to take off harnessing Sri Lanka’s strategic position as a regional aviation hub and reshape how the world views air travel.
+
+This bold newcomer will not be just another airline; and aims to become a pioneering force that blends the elegance of full-service airlines with the affordability of low-cost carriers that caters to both the discerning traveller and the budget-conscious flyer. With Air Ceilao, air travel will no longer be a choice between luxury and value — it will be an experience that offers both that truly understands and caters to customers’ every need.
+
+...
+
+[Data](articles/53e4eb1c.json)
+
+---
+
+### Cabinet approves extension of CHEC Port City Colombo project implementation period
+
+*2024-08-23 03:54:15* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-extension-of-CHEC-Port-City-Colombo-project-implementation-period/34-765867) · `en`
+
+The Cabinet of Ministers approved extending the project implementation period for CHEC Port City Colombo Ltd., a significant development initiative under the Strategic Development Project Act No. 14 of 2008.
+
+The extension moves the project deadline from 7 September 2024 to 30 June 2027. The decision was made during the Cabinet meeting held on 5 August 2024 and was subsequently formalised through an order published in the Extraordinary Gazette No. 2396/60, dated 9 August 2024.
+
+The order provides the project with applicable exemptions under the Strategic Development Act, which is aimed at promoting and facilitating strategic investments in Sri Lanka.
+
+The proposal to extend the project period was presented by President Ranil Wickremesinghe, who also serves as the Investment Promotion Minister.
+
+◼️
+
+[Data](articles/68dc6d27.json)
+
+---
+
+### Six new companies to operate tourist counters at BIA
+
+*2024-08-23 03:53:59* · [`dailyftlk`](https://www.ft.lk/business/Six-new-companies-to-operate-tourist-counters-at-BIA/34-765866) · `en`
+
+The Cabinet of Ministers on Wednesday approved the awarding of contracts for the operation of six tourist service counters at the Bandaranaike International Airport (BIA) in Katunayake, for three years.
+
+Speaking at the weekly post-Cabinet meeting media briefing Cabinet Spokesman and Minister Bandula Gunawardena said the move follows a competitive bidding process initiated by Airport and Aviation Services (Sri Lanka) Ltd.
+
+The selected companies include: Airport Tourist Drivers Association, Ayubowan Tours and Travels Ltd., Avawia Tours Ltd., Lanka Travel Agent Association, Casons Travels Ltd., and JNW Lanka Tours.
+
+...
+
+[Data](articles/9f6724f7.json)
+
+---
+
+### Asian Paints Causeway Unveils ‘ColourNext-2024’ in Colombo
+
+*2024-08-23 03:53:43* · [`dailyftlk`](https://www.ft.lk/business/Asian-Paints-Causeway-Unveils-ColourNext-2024-in-Colombo/34-765865) · `en`
+
+Asian Paints Causeway Head – Marketing and Activations Anuradha Edirisinghe, Sri Lanka Institute of Architects President Architect Rohana Bandara Herath, Asian Paints International Regional Head Sireesh Rao and Principal Specialist – Colour Marketing Mariesha Rego Dsouza
+
+One of Sri Lanka’s largest paint manufacturers, Asian Paints Causeway, recently launched ‘ColourNext-2024’ at a grand event held in Colombo.
+
+‘ColourNext’ is a comprehensive, annual forecast of design directions in colours, materials, textures, and finishes, compiled by Asian Paints in collaboration with experts from various creative disciplines, including architecture, art, interiors, fashion, sociology, media, and FMCG. ‘ColourNext’ is celebrated as South Asia’s premier and unique intelligence in colour and material forecasting.
+
+...
+
+[Data](articles/b4e8a0db.json)
+
+---
 
 ### 100 aspiring young entrepreneurs’ experience transformative upskilling at SPARK 2024 competition
 
@@ -181,6 +363,24 @@ At the same time, Ariyanethran commented that Sreedharan was the one who recomme
 [Data](articles/22d12224.json)
 
 [Extended Data](ext_articles/22d12224.ext.json)
+
+---
+
+### Presidential Candidate Dr. Etirus Illiyas has passed away
+
+*2024-08-23 02:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191739) · `ta`
+
+Dr. Eidurus Illiyas, a former MP and presidential candidate, unexpectedly passed away on Thursday, 22nd.
+
+🟩
+
+The presidential candidate and former MP, Dr. Eidurus Illiyas, passed away on Thursday 22nd.
+
+◼️
+
+[Data](articles/a8a7654a.json)
+
+[Extended Data](ext_articles/a8a7654a.ext.json)
 
 ---
 
@@ -335,24 +535,6 @@ He said that the current President Ranil Wickremesinghe, who was a member of Par
 [Data](articles/0eb46f1a.json)
 
 [Extended Data](ext_articles/0eb46f1a.ext.json)
-
----
-
-### Presidential Candidate Dr. Etirus Illiyas has passed away
-
-*2024-08-23 01:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191739) · `ta`
-
-Dr. Eidurus Illiyas, a former MP and presidential candidate, unexpectedly passed away on Thursday, 22nd.
-
-🟩
-
-The presidential candidate and former MP, Dr. Eidurus Illiyas, passed away on Thursday 22nd.
-
-◼️
-
-[Data](articles/a8a7654a.json)
-
-[Extended Data](ext_articles/a8a7654a.ext.json)
 
 ---
 
@@ -2137,255 +2319,5 @@ It is not clear how the subsidy will be funded. (Colombo/Aug22/2024)
 [Data](articles/c7b97ce3.json)
 
 [Extended Data](ext_articles/c7b97ce3.ext.json)
-
----
-
-### 2023 LG Election postponement violated fundamental rights; SC orders immediate polls
-
-*2024-08-22 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101417/2023-lg-election-postponement-violated-fundamental-rights-sc-orders-immediate-polls) · `en`
-
-The Supreme Court of Sri Lanka has ruled that the President, as the Minister of Finance, and then members of the Election Commission have violated the fundamental rights of the poeple through the postponement of the 2023 Local Government Elections.
-
-Accordingly, the court has ordered the Election Commission to take measures to hold the Local Government Elections as immediately as possible.
-
-The Supreme Court issued this verdict today (22) after concluding the hearing of the Fundamental Rights (FR) petitions filed against the postponement of the 2023 Local Government elections.
-
-The relevant FR petitions were filed against the postponement of the 2023 Local Government elections, which was initially scheduled to be held on March 09, 2023.
-
-...
-
-[Data](articles/3a113d4d.json)
-
-[Extended Data](ext_articles/3a113d4d.ext.json)
-
----
-
-### Four children in Wellawaya go missing
-
-*2024-08-22 12:00:39* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවාය-ළමා-නිවාසයක-ළමයින්-හතරක්-අතුරුදන්/11-411500) · `si`
-
-In Wellawaya, four children aged 16 and 14 vanished from a children's home. Initial probes show they left unknowingly.
-
-🟩
-
-Four children have disappeared from a childhood house in Ellapara in the Wellawaya Police Division, Wellawaya Police.
-
-Two boys and two boys in the year 16,14 have disappeared.
-
-Preliminary investigations have revealed that the four children had left the children's home without knowing the children's home.
-
-◼️
-
-[Data](articles/e6e2e0d3.json)
-
-[Extended Data](ext_articles/e6e2e0d3.ext.json)
-
----
-
-### Judgment today on petitions
-
-*2024-08-22 12:00:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுக்கள்-மீது-இன்று-தீர்ப்பு/175-342629) · `ta`
-
-The verdict on petitions challenging the postponement of local government elections will be announced on Thursday. The case was heard by top judges including Chief Justice Jayantha Jayasuriya. The Election Commission is named as defendant in the petition filed by United People's Power and National People's Power Policy Center.
-
-🟩
-
-The verdict of petitions filed against the postponement of the local government elections will be announced on Thursday (22).
-
-The petition was taken up in the presence of Chief Justice Jayantha Jayasuriya, High Court judges Vijith Malkoda, Gamini Amarasekera, Murdu Fernando and Yasantha Gothagoda.
-
-In a petition filed by the United People's Power and the National People's Power Policy Center against the postponement of the local government elections, the Election Commission has named its members as defendants.
-
-◼️
-
-[Data](articles/b7a03306.json)
-
-[Extended Data](ext_articles/b7a03306.ext.json)
-
----
-
-### Supreme Court order to hold local government polls as soon as possible
-
-*2024-08-22 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200202) · `si`
-
-The Supreme Court has ordered immediate local government elections due to violations of basic human rights by the President, the Elections Commission, and the Minister of Finance. The court, led by Chief Justice Jayantha Jayasuriya, upheld the fundamental rights of citizens, as argued by the National Folk Forces, CPA, and PAFFREL.
-
-🟩
-
-The Supreme Court ruled that the President has violated the basic human rights as members of the Elections Commission and the Elections Commission of Elections as the Members of the Elections and Finance by the Elections Commission and the Minister of Finance.
-
-Accordingly, the Supreme Court has ordered the Election Commission to take place as soon as possible.
-
-The Supreme Court issued the orders by the Supreme Court by the decision of the fundamental rights of the National Folk Forces, the CPA and PAFFREL, asking for a decision that the basic human rights of the people has violated the basic human rights of the people.
-
-The decision was given by Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, Murdu Fernando and Gamini Amarasekera and Yasantha Kodagoda.
-
-◼️
-
-[Data](articles/884684f0.json)
-
-[Extended Data](ext_articles/884684f0.ext.json)
-
----
-
-### The case is due to the shooting of the dosa
-
-*2024-08-22 11:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆ-டையின்றி-தோசை-சுட்டதால்-வழக்கு/175-342628) · `ta`
-
-A public health inspector filed a case against a popular diet in Colombo, alleging it led to the death of someone from eating dosa. Additionally, six shops in Rajagiriya were charged under various offenses. The case was filed at the Colombo Chief Magistrate's Court by Inspector A.L.M. Chandrasena.
-
-🟩
-
-The Public Health Inspector on Wednesday (21st) filed a case against a popular diet in Colombo, alleging that Dosai was shot dead.
-
-In addition, Rajagiriya and its surrounding areas have filed a case against six shops under several charges.
-
-Public Health Inspector A. L. M.. Chandrasena had filed a case at the Colombo Chief Magistrate's Court.
-
-◼️
-
-[Data](articles/27a5e724.json)
-
-[Extended Data](ext_articles/27a5e724.ext.json)
-
----
-
-### Case because the dosa shot without a shirt
-
-*2024-08-22 11:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டை-இல்லாமல்-தோசை-சுட்டதால்-வழக்கு/175-342628) · `ta`
-
-A public health inspector filed a case against a diet center in Colombo for allegedly operating without proper authorization. Additionally, six shops in Rajagiriya were charged under various offenses. The cases were filed at the Colombo Chief Magistrate's Court.
-
-🟩
-
-The Public Health Inspector on Wednesday (21st) filed a case against a popular diet in Colombo for allegedly shooting Dosa.
-
-In addition, Rajagiriya and its surrounding areas have filed a case against six shops under several charges.
-
-Public Health Inspector A. L. M.. Chandrasena had filed a case at the Colombo Chief Magistrate's Court.
-
-◼️
-
-[Data](articles/7bfb5262.json)
-
-[Extended Data](ext_articles/7bfb5262.ext.json)
-
----
-
-### Export income of $ 9 billion in 6 months
-
-*2024-08-22 11:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாதங்களில்-9-பில்லியன்-டொலர்-ஏற்றுமதி-வருமானம்/175-342627) · `ta`
-
-In the past six months, Sri Lanka has achieved $9 billion in exports and secured $800 million in investments. The government plans to enhance economic growth through new investment zones, upgrading existing ones, and promoting e-commerce for exports. Additionally, efforts are underway to implement the "One Village One Product" scheme and attract more foreign investments, particularly in the Port City project and Pelwatta Srine Company.
-
-🟩
-
-The Minister of Investment Development, Dilum Amunugama, said that in the last six months of this year, nine (9) billion exports have been earned.
-
-The Minister of State also pointed out that in the last six months, Sri Lanka has been making agreements on investments worth about US $ 800 million.
-
-Investment Promotion Minister Til Amunugama made this statement at a press conference held at the Presidential Media Center on Wednesday (21st).
-
-“The Sri Lanka Investment Council will provide facilities for fifteen investment zones and are currently carrying out 1575 companies in those investment zones.. Over 500,000 people work. It is planned to establish seven new investment zones under the current government's new investment plan.
-
-The new investment zones are scheduled to be around Mankulam, Paranthan, Kankesanthurai, Trincomalee, Iraniwila, Hambantota and Pingiriya areas.. Investment contracts worth $ 1 billion this year are expected.
-
-...
-
-[Data](articles/90d1e5fd.json)
-
-[Extended Data](ext_articles/90d1e5fd.ext.json)
-
----
-
-### The reason for the President's helicopter collapses
-
-*2024-08-22 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200201) · `si`
-
-The President's helicopter crashed due to poor weather and mechanical issues, leading to loss of control. It occurred near the Azerbaijan border, with no evidence of attack. Preliminary investigations suggest it was not targeted externally.
-
-🟩
-
-The helicopter, which was traveling with the late Ibrahim, the helicopter, has been reported to the government.
-
-It states that the aircraft was bad weather and the failure of the aircraft and could not control its weight.
-
-The President had died on the spot in the accident.
-
-Authorities say that in the preliminary investigations into the accident had not been attacked or other external investigations.
-
-It was revealed that the plane crashes into a mountainous region near the Azerbaijan border.
-
-◼️
-
-[Data](articles/e3fb2781.json)
-
-[Extended Data](ext_articles/e3fb2781.ext.json)
-
----
-
-### Presidential Election: Distribution of voter cards from September 3
-
-*2024-08-22 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191685) · `ta`
-
-Voter card distribution starts Sept 3; special focus on Sept 8th.
-
-🟩
-
-The Deputy Post Office said that the distribution of official voter cards for the upcoming presidential election will begin on September 3.
-
-Meanwhile, he said that September 08 (Sunday) was a special day for the distribution of voter cards.
-
-◼️
-
-[Data](articles/d5e3de19.json)
-
-[Extended Data](ext_articles/d5e3de19.ext.json)
-
----
-
-### Assets and liabilities statements of presidential candidates released for public access
-
-*2024-08-22 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101416/assets-and-liabilities-statements-of-presidential-candidates-released-for-public-access) · `en`
-
-The copies of the statements of assets and liabilities provided by the candidates who are contesting the 2024 Presidential Election have been released for public access.
-
-Accordingly, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) informs that the general public can access the relevant statements on the official website of the commission.
-
-All the presidential candidates have handed over the copies of their statements of assets and liabilities to the Election Commission along with their nominations, as per the Article 89 of the Anti-Corruption Act of Sri Lanka.
-
-◼️
-
-[Data](articles/05425084.json)
-
-[Extended Data](ext_articles/05425084.ext.json)
-
----
-
-### Extension of Explanation for fishermen
-
-*2024-08-22 11:28:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மீனவர்களுக்கு-விளக்கமறியல்-நீடிப்பு/71-342624) · `ta`
-
-The Puttalam District Court ordered 35 Indian fishermen arrested for fishing in Sri Lankan waters to remain in custody until the 21st. They were among 57 fishermen detained by the Sri Lankan Navy for crossing borders.
-
-🟩
-
-The Puttalam District Court on Wednesday (21) ordered that 35 Indian fishermen arrested on charges of fishing within the Sri Lankan waters be placed on Wednesday (21).
-
-The fishermen who visited four boats from India Tamil Nadu have been arrested and kept in detail.
-
-35 Indian fishermen crossed the border. The Navy was arrested on Thursday (08) while engaged.
-
-The 35 fishermen who were arrested were handed over to the Puttalam District Court on the 9th after the Kalpitiya Divisional Fisheries and Aquatic Resources Department were handed over to the Department of Aquatic Resources for further legal action.
-
-Puttalam District Additional Justice DLAN should be kept in remand until the 21st of this month.. Wimalaratne had ordered.
-
-The Puttalam District Court has ordered that the 35 Indian fishermen, who are the suspects, continue to be interrogated for further investigations.
-
-...
-
-[Data](articles/ea6bb553.json)
-
-[Extended Data](ext_articles/ea6bb553.ext.json)
 
 ---

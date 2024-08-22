@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 03:55:31**
+As of **2024-08-23 04:09:17**
 
 ## Newspaper Stats
 
-*Scraped **42,158** Articles*
+*Scraped **42,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 390
 colombotelegraphcom | 403
 islandlk | 2,441
 economynextcom | 2,553
-dailyftlk | 2,723
+dailyftlk | 2,728
 adalk | 3,884
 dailymirrorlk | 4,733
 adaderanalk | 4,939
@@ -26,11 +26,95 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,158 (100.0%) of 42,158 articles have been extended.
+42,158 (100.0%) of 42,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### 100 aspiring young entrepreneurs’ experience transformative upskilling at SPARK 2024 competition
+
+*2024-08-23 03:51:42* · [`dailyftlk`](https://www.ft.lk/business/100-aspiring-young-entrepreneurs-experience-transformative-upskilling-at-SPARK-2024-competition/34-765864) · `en`
+
+The 2024 edition of the SPARK Skilled Youth Entrepreneurship Competition has concluded its first round with 100 youth competitors undergoing an advanced training in business foundation skills and business plan development.
+
+SPARK is an annual skills focused launch-pad  for Sri Lanka’s next generation of business leaders, transforming their approach to entrepreneurship with a combination  of practical skills and real-world business acumen, in ‘school’ and ‘open’ categories.
+
+...
+
+[Data](articles/fab84c37.json)
+
+---
+
+### CIABOC files indictments against Cabraal and others over Greek T-bill scam
+
+*2024-08-23 03:51:06* · [`dailyftlk`](https://www.ft.lk/news/CIABOC-files-indictments-against-Cabraal-and-others-over-Greek-T-bill-scam/56-765863) · `en`
+
+Cabraal and four others stand accused of causing Rs. 1.8 b in losses to SL Govt. through T-bill purchases from Greece in 2012
+
+Case was previously thrown out and respondents released due to a technical error made by CIABOC
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) filed indictments against Former Central Bank Governor Ajith Nivard Cabraal and four others before the Colombo High Court yesterday, in connection with the alleged 2012 Greek Treasury bill Scam.
+
+Cabraal and the other accused are charged with causing Rs. 1.843 billion in losses to the Sri Lankan Government by knowingly purchasing Treasury bills from Greece during a severe economic crisis which allegedly led to significant financial losses for Sri Lanka.  The CIABOC had launched an investigation following a complaint by former MP Sujeewa Senasinghe, with claims that the Sri Lankan Government suffered a loss of Rs. 1,843,267,595 due to these transactions.
+
+...
+
+[Data](articles/9e3ab253.json)
+
+---
+
+### Speaker Mahinda Yapa Abeywardana leads Parliamentary delegation to Maldives
+
+*2024-08-23 03:50:00* · [`dailyftlk`](https://www.ft.lk/news/Speaker-Mahinda-Yapa-Abeywardana-leads-Parliamentary-delegation-to-Maldives/56-765862) · `en`
+
+Speaker of Parliament Mahinda Yapa Abeywardana, led a Parliamentary delegation to the Republic of Maldives from 11 to 14 August.
+
+The official visit was made at the invitation extended by Speaker of the People’s Majlis Abdul Raheem Abdulla, aimed at strengthening the long-standing relationship between the two countries.
+
+During the visit, Abeywardana paid a courtesy call on Republic of Maldives President Dr. Mohamed Muizzu. The President warmly welcomed the Speaker and his delegation, noting the deep-rooted friendly relations between the Maldives and Sri Lanka. The discussions centered on the President’s hopes for a peaceful Presidential election in Sri Lanka, with positive outcomes that would further contribute to the nation’s development and prosperity.
+
+...
+
+[Data](articles/ad4b757d.json)
+
+---
+
+### Sri Lanka to introduce AI education in 100 schools as pilot project
+
+*2024-08-23 03:48:54* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-to-introduce-AI-education-in-100-schools-as-pilot-project/56-765861) · `en`
+
+The Government announced a ground-breaking initiative to introduce artificial intelligence (AI) education in schools as part of its broader efforts to prepare students for future global trends and enhance their contribution to economic development.
+
+The Cabinet of Ministers on Wednesday approved launching ‘Artificial Intelligence Related Student Societies’ in 100 selected schools across the country.
+
+“This pilot project is expected to roll out in selected schools, beginning with students from grades 6 to 9 to provide them with the opportunity to engage in studies relevant to AI,” Cabinet Spokesman and Minister Bandula Gunawardena said yesterday.
+
+Speaking at the post-Cabinet meeting media briefing he noted that the initiative will be step towards equipping the next generation with the skills necessary to navigate and thrive in an increasingly technology-driven world.
+
+...
+
+[Data](articles/f3d0c54e.json)
+
+---
+
+### SJB Jaffna District Organiser pledges support to President
+
+*2024-08-23 03:47:50* · [`dailyftlk`](https://www.ft.lk/news/SJB-Jaffna-District-Organiser-pledges-support-to-President/56-765860) · `en`
+
+SJB Jaffna District Organiser Victor Stanley yesterday pledged support to President Ranil Wickremesinghe at the next month’s election.
+
+Stanley stated that Sajith Premadasa, who is currently seeking the country’s leadership, did not step forward to accept responsibility for the country and its people during the time of crisis. Those who remained silent while the people were under severe pressure are unfit for the leadership of the country, he added.
+
+Stanley highlighted that the current President Wickremesinghe, who served in Parliament as a single MP, took on the challenge of rebuilding the country. The victory of President Wickremesinghe in the upcoming Presidential election will be a victory for the entire nation.
+
+Following the pledging of support, Stanley was appointed as the Jaffna District Coordinator for Christian Affairs to President Wickremesinghe.
+
+◼️
+
+[Data](articles/e7635e8e.json)
+
+---
 
 ### Ranil Wickremesinghe has lost the presidential election after the fundamental rights of the people - Sajith Premadasa
 
@@ -2293,121 +2377,5 @@ The Puttalam District Court has ordered that the 35 Indian fishermen, who are th
 [Data](articles/ea6bb553.json)
 
 [Extended Data](ext_articles/ea6bb553.ext.json)
-
----
-
-### S.. B. Navina Ranil Support
-
-*2024-08-22 11:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-பி-நாவின்ன-ரணிலுக்கு-ஆதரவு/175-342623) · `ta`
-
-B. Navinna supports Ranil Wickremesinghe as a suitable leader for Sri Lanka's future, highlighting his contributions during the crisis. He emphasizes remembering Wickremesinghe's efforts over the past two years and acknowledges his return to politics to enhance the nation's prospects.
-
-🟩
-
-President Ranil Wickremesinghe is one of the most appropriate to acquire the future of the country.. B Navinna has come forward to support Ranil.
-
-He also said that all citizens should not forget the tasks performed for President Ranil Wickremesinghe in the last two years after the crisis in the country.
-
-Four years later, he came into politics again and said that Ranil Wickremesinghe's success was to improve the future of the country.
-
-◼️
-
-[Data](articles/36216974.json)
-
-[Extended Data](ext_articles/36216974.ext.json)
-
----
-
-### A school principal arrested for showing pornography for 5th year students;The incident in Eravur
-
-*2024-08-22 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191676) · `ta`
-
-In Eravur, a 57-year-old school principal was arrested for allegedly showing pornography to 5th-grade students during evening classes. The incident involved six male students and three female students preparing for their scholarship exam. Parents learned of the incident and contacted the police, leading to the principal's arrest. Further actions, including legal proceedings, are pending as investigations continue.
-
-🟩
-
-Eravur police said that a 57 -year -old school principal was arrested on Wednesday night (21) night.
-
-Six men and 3 female students are educated at an elementary school in the Eravur police division in Batticaloa.
-
-The Chancellor has been taught in the evening after the school has ended in the evening, with the students who will appear for the 5th scholarship examination.
-
-The Chancellor has shown pornographic images from his mobile phone to the students.In this case, the student told her that a student could not go to class in the evening and asked the reason why the student was asked about this act.
-
-Following the incident last night, the parents of the 119th police emergency number of the police registered a vote from the 3 students who were affected by the victims and arrested the 57 -year -old Chancellor.
-
-The police said that the arrested Chancellor had taken steps to produce the court after the hearing.
-
-Further investigations are being carried out by the women's children.
-
-◼️
-
-[Data](articles/c5e04e37.json)
-
-[Extended Data](ext_articles/c5e04e37.ext.json)
-
----
-
-### President assures new legislations to address construction sector issues
-
-*2024-08-22 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101415/president-assures-new-legislations-to-address-construction-sector-issues) · `en`
-
-President Ranil Wickremesinghe cautioned that renegotiating with the International Monetary Fund (IMF), as suggested by some presidential candidates, could lead to the loss of economic gains and trigger another collapse of Sri Lanka’s economy.
-
-The President made these remarks yesterday (21) during a meeting with professionals from the development and construction sectors at the Water’s Edge Hotel in Battaramulla.
-
-The event, organized under the theme “Constructing the Nation’s Tomorrow,” featured a keynote address by Prof. Sirimal Abeyratne.
-
-In his speech, President Wickremesinghe stressed the necessity of a stable economy for national progress. He emphasized that the government has already secured all possible concessions by reaching agreements with the IMF, the Asian Development Bank, the World Bank, the Exim Bank of China, and 17 other countries, making further government intervention unnecessary.
-
-...
-
-[Data](articles/4561c418.json)
-
-[Extended Data](ext_articles/4561c418.ext.json)
-
----
-
-### Steps were taken to suspend 900 bank accounts of non-taxes
-
-*2024-08-22 11:17:52* · [`adalk`](https://www.ada.lk/breaking_news/බදු-නොගෙවූ-අයගේ-බැංකු-ගිණුම්--900ක්-අත්හිටුවීමට-කටයුතු-කළා/11-411499) · `si`
-
-In response to tax evasion, the Inland Revenue Department suspended approximately 900 bank accounts. This action followed the recovery of Rs. 1.2 billion in fines by the Customs Department for illegal gold imports. The Chairman highlighted the loss of Rs. 978 billion in taxes due to relief measures and emphasized the need for stricter enforcement to recover owed taxes.
-
-🟩
-
-The Chairman of the Committee, the Chairman of the Committee, said that about 900 bank accounts of the Inland Revenue Department had been suspended by the Inland Revenue Department.
-
-He was speaking at the third report of the Committee on Methods and Method to parliament yesterday (21).
-
-The Customs Department has recovered Rs. 1.2 billion as a fine of six projecters to import gold.
-
-The Chairman of the Committee and the Chairman of the Committee Patali Champika Ranawaka said:
-
-"We consider targets on public revenue within the first six months. 978 billion rupees in last year was lost due to tax relief. More than Rs.. Accordingly, according to our order, the Inland Revenue Department has issued about 900 orders of the suspension of Rs. 900.
-
-...
-
-[Data](articles/11b13a7f.json)
-
-[Extended Data](ext_articles/11b13a7f.ext.json)
-
----
-
-### SLPP defectors will soon have to rejoin party - Mahinda Rajapaksa
-
-*2024-08-22 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101414/-slpp-defectors-will-soon-have-to-rejoin-party-mahinda-rajapaksa) · `en`
-
-Former President Mahinda Rajapaksa says that the members of the Sri Lanka Podujana Peramuna (SLPP) who are now working separately, will have to come back to the party in the near future.
-
-He claimed that certain individuals are working to support other parties during the election without supporting their own party, “for narrow political gains”.
-
-Rajapaksa made these remarks while addressing the inaugural presidential election rally of the SLPP which was held in Anuradhapura.
-
-◼️
-
-[Data](articles/63ac9d6c.json)
-
-[Extended Data](ext_articles/63ac9d6c.ext.json)
 
 ---

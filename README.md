@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 12:37:00**
+As of **2024-08-22 12:55:22**
 
 ## Newspaper Stats
 
-*Scraped **42,064** Articles*
+*Scraped **42,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 403
 islandlk | 2,439
 economynextcom | 2,542
 dailyftlk | 2,723
-adalk | 3,872
+adalk | 3,873
 dailymirrorlk | 4,733
 adaderanalk | 4,923
 tamilmirrorlk | 5,459
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,064 (100.0%) of 42,064 articles have been extended.
+42,064 (100.0%) of 42,065 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -305,6 +305,24 @@ The Head of the State expressed these remarks while responding to questions rais
 [Data](articles/4561c418.json)
 
 [Extended Data](ext_articles/4561c418.ext.json)
+
+---
+
+### බදු නොගෙවූ අයගේ බැංකු ගිණුම්  900ක් අත්හිටුවීමට කටයුතු කළා
+
+*2024-08-22 11:17:52* · [`adalk`](https://www.ada.lk/breaking_news/බදු-නොගෙවූ-අයගේ-බැංකු-ගිණුම්--900ක්-අත්හිටුවීමට-කටයුතු-කළා/11-411499) · `si`
+
+ක්‍රම සහ විධි පිළිබඳ කාරක සභාවේ නිර්දේශයකට අනුව බදු නොගෙවූ පුද්ගලයන්ගේ බැංකු ගිණුම් 900ක් පමණ දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් මේ වන විට අත්හිටුවා ඇති බව එම කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා පැවසීය.
+
+ක්‍රම සහ විධි පිළිබඳ කාරක සභාවේ තෙවන වාර්තාව ඊයේ (21දා) පාර්ලිමේන්තුවට ඉදිරිපත් කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එමෙන්ම මෙරටට රත්‍රන් ගෙන්වීමේදී ව්‍යාපාර්කයන් 06දෙනෙකුගෙන් දඩ මුදල් ලෙස රුපියල් බිලියන 1.2ක් රේගු දෙපාර්තමේන්තුව විසින් අය කරගෙන ඇති බවද සභාපතිවරයා සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් ක්‍රම සහ විධි පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+...
+
+[Data](articles/11b13a7f.json)
 
 ---
 
@@ -2215,37 +2233,5 @@ The Commission also said that all complaints reported on the day yesterday (20) 
 [Data](articles/428da0cf.json)
 
 [Extended Data](ext_articles/428da0cf.ext.json)
-
----
-
-### Yuvati sacrifice for treasure:
-
-*2024-08-21 21:24:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதையலுக்காக-யுவதி-பலியெடுப்பு-அலைபேசியை-அடுத்து-அள்ளினர்/76-342588) · `ta`
-
-A nurse from the Akkaraipattana Mandi Divisional Hospital, Sivalingam Darshini, was discovered buried in the Chinapitiya estate, Nuwara Eliya district. Missing for six months, her relatives reported her disappearance to the police, who expedited their search upon learning she underwent surgery recently. A suspect, also a hospital worker, was arrested and found with a cellphone linked to the case. Investigations suggest the victim was murdered for her phone, which led to the discovery of her body. The suspect, accused of kidnapping the treasurer, was ordered by the court to be held under police protection pending further inquiries.
-
-🟩
-
-The body of a woman who was murdered and buried in the Chinapitiya estate in the Konapitiya estate, which belongs to the Mandaranuwara police division of the Nuwara Eliya district, has been excavated today (21).
-
-Sivalingam Darshini (age 36) of the Muloya estate of Hewahata, who was dug up, has been identified as the body.
-
-The woman who was dug up in the incident has been working as a nurse at the Akkaraipattana Mandi Divisional Hospital.
-
-Relatives have lodged a complaint at Akkaraipattana and Mandaranuwara police station that the nurse was missing for the last six months.
-
-Police are conducting investigations into the missing woman.
-
-At the same time, the woman who missed the incident has operated two days ago. As a source of this, police accelerated the search operation.
-
-The suspect arrested in the incident has found a hand telephone.
-
-It is also noteworthy that the suspect was also working at the Mandasi Divisional Hospital with the missing woman.
-
-...
-
-[Data](articles/cc6294f7.json)
-
-[Extended Data](ext_articles/cc6294f7.ext.json)
 
 ---

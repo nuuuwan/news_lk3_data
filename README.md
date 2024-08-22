@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 11:56:46**
+As of **2024-08-22 12:10:21**
 
 ## Newspaper Stats
 
-*Scraped **42,055** Articles*
+*Scraped **42,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,86 +17,186 @@ economynextcom | 2,542
 dailyftlk | 2,723
 adalk | 3,872
 dailymirrorlk | 4,733
-adaderanalk | 4,919
+adaderanalk | 4,922
 tamilmirrorlk | 5,456
 virakesarilk | 6,690
-adaderanasinhalalk | 7,173
+adaderanasinhalalk | 7,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,040 (100.0%) of 42,055 articles have been extended.
+42,052 (100.0%) of 42,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-22 (Thursday)
 
-### ஜனாதிபதி தேர்தல்: செப்டெம்பர் 3ம் திகதி முதல் வாக்காளர் அட்டைகள் விநியோகம்
+### ඉරාන ජනපති ගේ හෙලිකොප්ටරය කඩා වැටීමට හේතුව හෙළිවෙයි
+
+*2024-08-22 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200201) · `si`
+
+අභාවප්‍රාප්ත ඉරාන ජනාධිපති ඉබ්‍රහිම් රයිසි ගමන්ගත් හෙලිකොප්ටර් යානය කඩන් වැටීමට හේතුව එරට රජයට සම්බන්ධ පුවත් ඒජන්සියක් සඳහන් කර තිබේ.
+
+එහි දැක්වෙන්නේ එම යානය අයහපත් කාලගුණය සහ යානය ට එහි බර පාලනය කිරීමට නොහැකිවීම හේතුවෙන් එය අනතුරට පත්වූ බවයි.
+
+පසුගිය මැයි මාසයේ සිදුවූ එම අනතුරින් ඉරාන ජනපතිවරයා එම ස්ථානයේදීම මියගොස් තිබුණි.
+
+එම අනතුර සම්බන්ධයෙන් සිදුකළ මූලික පරීක්ෂණ වලදී යානයට ප්‍රහාරයක් එල්ල වූ බවක් හෝ වෙනත් බාහිර අකටයුත්තක් හෝ සිදුවූ බවක් හෙළි නොවූ බව බලධාරීන් පවසයි.
+
+එම යානය අසර්බයිජාන් දේශසීමාව ආසන්නයේ කඳුකර ප්‍රදේශයකට කඩා වැටෙන විට එහි නියමිත ප්‍රමාණයට වඩා පුද්ගලයින් දෙදෙනෙක් ගමන්කර තිබූ බව අනාවරණය විය.
+
+◼️
+
+[Data](articles/e3fb2781.json)
+
+---
+
+### Presidential Election: Distribution of voter cards from September 3
 
 *2024-08-22 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191685) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான உத்தியோகபூர்வ வாக்காளர் அட்டைகள் விநியோகம் செப்டெம்பர் 03 ஆம் திகதி ஆரம்பிக்கப்படும் என பிரதி தபால் மா அதிபர் தெரிவித்துள்ளார்.
+Voter card distribution starts Sept 3; special focus on Sept 8th.
 
-இதேவேளை, வாக்காளர் அட்டைகள் விநியோகிப்பதற்கான விசேட தினமாக செப்டம்பர் 08 (ஞாயிற்றுக்கிழமை) குறிப்பிடப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார்.
+🟩
+
+The Deputy Post Office said that the distribution of official voter cards for the upcoming presidential election will begin on September 3.
+
+Meanwhile, he said that September 08 (Sunday) was a special day for the distribution of voter cards.
 
 ◼️
 
 [Data](articles/d5e3de19.json)
 
+[Extended Data](ext_articles/d5e3de19.ext.json)
+
 ---
 
-### மீனவர்களுக்கு விளக்கமறியல் நீடிப்பு
+### Assets and liabilities statements of presidential candidates released for public access
+
+*2024-08-22 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101416/assets-and-liabilities-statements-of-presidential-candidates-released-for-public-access) · `en`
+
+The copies of the statements of assets and liabilities provided by the candidates who are contesting the 2024 Presidential Election have been released for public access.
+
+Accordingly, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) informs that the general public can access the relevant statements on the official website of the commission.
+
+All the presidential candidates have handed over the copies of their statements of assets and liabilities to the Election Commission along with their nominations, as per the Article 89 of the Anti-Corruption Act of Sri Lanka.
+
+◼️
+
+[Data](articles/05425084.json)
+
+---
+
+### Extension of Explanation for fishermen
 
 *2024-08-22 11:28:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மீனவர்களுக்கு-விளக்கமறியல்-நீடிப்பு/71-342624) · `ta`
 
-இலங்கைக் கடற்பரப்புக்குள் எல்லை மீறி மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட 35 இந்திய மீனவர்களையும் அடுத்த மாதம் 04 ஆம் திகதி வரை விளக்கயறியலில் வைக்குமாறு புத்தளம் மாவட்ட நீதிமன்றம் புதன்கிழமை (21) உத்தரவிட்டுள்ளது.
+The Puttalam District Court ordered 35 Indian fishermen arrested for fishing in Sri Lankan waters to remain in custody until the 21st. They were among 57 fishermen detained by the Sri Lankan Navy for crossing borders.
 
-இந்தியா தமிழகம் பகுதியிலிருந்து நான்கு  படகுகளில் மீன்பிடித் தொழிலுக்காக வருகை தந்த மீனவர்களே இவ்வாறு கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+🟩
 
-குறித்த இந்திய மீனவர்கள் 35 பேரும் எல்லை தாண்டி புத்தளம் - கற்பிட்டி வடக்கு குதிரமலை கடற்பகுதியில் மீன்பிடியில். ஈடுபட்டுக் கொண்டிருந்த போது வியாழக்கிழமை (08) ஆம் திகதி கடற்படையிரால் கைது செய்யப்பட்டனர்.
+The Puttalam District Court on Wednesday (21) ordered that 35 Indian fishermen arrested on charges of fishing within the Sri Lankan waters be placed on Wednesday (21).
 
-இவ்வாறு கைது செய்யப்பட்ட 35 மீனவர்களும் மேலதிக சட்ட நடவடிக்கைகளுக்காக கற்பிட்டி பிரதேச கடற்தொழில் நீரியல் வளத்துறை திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்ட பின்னர் அவர்கள் கடந்த 09 ஆம் திகதி புத்தளம் மாவட்ட நீதிமன்றில் ஆஜர்படுத்தப்பட்டனர்.
+The fishermen who visited four boats from India Tamil Nadu have been arrested and kept in detail.
 
-இதன்போது 35 இந்திய மீனவர்களையும்  (21)ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு புத்தளம் மாவட்ட மேலதிக நீதிவான் டி.எல்.ஏ.என். விமலரத்ன உத்தரவிட்டிருந்தார்.
+35 Indian fishermen crossed the border. The Navy was arrested on Thursday (08) while engaged.
+
+The 35 fishermen who were arrested were handed over to the Puttalam District Court on the 9th after the Kalpitiya Divisional Fisheries and Aquatic Resources Department were handed over to the Department of Aquatic Resources for further legal action.
+
+Puttalam District Additional Justice DLAN should be kept in remand until the 21st of this month.. Wimalaratne had ordered.
+
+The Puttalam District Court has ordered that the 35 Indian fishermen, who are the suspects, continue to be interrogated for further investigations.
 
 ...
 
 [Data](articles/ea6bb553.json)
 
+[Extended Data](ext_articles/ea6bb553.ext.json)
+
 ---
 
-### எஸ். பி நாவின்ன ரணிலுக்கு ஆதரவு
+### S.. B. Navina Ranil Support
 
 *2024-08-22 11:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-பி-நாவின்ன-ரணிலுக்கு-ஆதரவு/175-342623) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவே இந்த நாட்டின் எதிர்காலத்தை கையகப்படுத்துவதற்கு மிகவும் பொருத்தமானவர் என தெரிவித்த முன்னாள் அமைச்சர் எஸ். பி நாவின்ன ரணிலுக்கு ஆதரவளிக்க முன்வந்துள்ளார்.
+B. Navinna supports Ranil Wickremesinghe as a suitable leader for Sri Lanka's future, highlighting his contributions during the crisis. He emphasizes remembering Wickremesinghe's efforts over the past two years and acknowledges his return to politics to enhance the nation's prospects.
 
-நாட்டில் ஏற்பட்டுள்ள நெருக்கடிக்கு பின்னர் கடந்த இரண்டு வருடங்களில் ஜனாதிபதி ரணில் விக்ரமசிங்க நாட்டுக்காக ஆற்றிய பணிகளை அனைத்து பிரஜைகளும் மறந்துவிடக் கூடாது எனவும் அவர் தெரிவித்தார்.
+🟩
 
-மேலும் 4 ஆண்டுகளுக்குப் பிறகு மீண்டும் அரசியலுக்கு வந்தது , நாட்டின் எதிர்காலத்தை மேம்படுத்தும் வகையில் ரணில் விக்கிரமசிங்கவின் வெற்றியை உறுதிப்படுத்துவதற்காக என தெரிவித்தார் .
+President Ranil Wickremesinghe is one of the most appropriate to acquire the future of the country.. B Navinna has come forward to support Ranil.
+
+He also said that all citizens should not forget the tasks performed for President Ranil Wickremesinghe in the last two years after the crisis in the country.
+
+Four years later, he came into politics again and said that Ranil Wickremesinghe's success was to improve the future of the country.
 
 ◼️
 
 [Data](articles/36216974.json)
 
+[Extended Data](ext_articles/36216974.ext.json)
+
 ---
 
-### 5ஆம் ஆண்டு மாணவர்களுக்கு ஆபாசபடங்களை காண்பித்த பாடசாலை அதிபர் கைது ; ஏறாவூரில் சம்பவம்
+### A school principal arrested for showing pornography for 5th year students;The incident in Eravur
 
 *2024-08-22 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191676) · `ta`
 
-தரம் 5 ஆம் ஆண்டில் கல்வி கற்றுவரும் மாணவர்களுக்கு கையடக்க தொலைபேசியில் ஆபாசபடங்களை காட்டி வந்த 57 வயதுடைய பாடசாலை அதிபர் ஒருவரை நேற்று புதன்கிழமை (21) இரவு கைது செய்துள்ளதாக ஏறாவூர் பொலிஸார் தெரிவித்தனர்.
+In Eravur, a 57-year-old school principal was arrested for allegedly showing pornography to 5th-grade students during evening classes. The incident involved six male students and three female students preparing for their scholarship exam. Parents learned of the incident and contacted the police, leading to the principal's arrest. Further actions, including legal proceedings, are pending as investigations continue.
 
-மட்டக்களப்பு ஏறாவூர் பொலிஸ் பிரிவிலுள்ள ஆரம்ப பாடசாலை ஒன்றில் தரம் 5ம் ஆண்டில் 3 ஆண் மாணவர்களும், 3 பெண் மாணவர்களுமாக 6 பேர் கல்விகற்று வருகின்றனர்.
+🟩
 
-குறித்த மாணவர்கள் 5 ஆம் ஆண்டு புலமைபரிசில் பரீட்சைக்கு தோற்றவுள்ள நிலையில் அந்த மாணவர்களுக்கு பாடசாலை முடிவுற்ற பின்னர் மேலதிகமாக மாலையில் அதிபர் கற்பித்து வந்துள்ளார்.
+Eravur police said that a 57 -year -old school principal was arrested on Wednesday night (21) night.
 
-இதன்போது அதிபர் மாணவர்களுக்கு தனது கையடக்க தொலைபேசியில் இருந்து ஆபாச படங்களை காட்டிவந்துள்ளார்.  இந்நிலையில், ஒரு மாணவி மாலை நேர வகுப்பிற்கு போகமுடியாது என பெற்றோரிடம் தெரிவித்த நிலையில் அதற்கான காரணத்தை கேட்டபோது மாணவி அதிபரின் இந்த ஈனச் செயல் தொடர்பாக தெரிவித்துள்ளார்.
+Six men and 3 female students are educated at an elementary school in the Eravur police division in Batticaloa.
 
-...
+The Chancellor has been taught in the evening after the school has ended in the evening, with the students who will appear for the 5th scholarship examination.
+
+The Chancellor has shown pornographic images from his mobile phone to the students.In this case, the student told her that a student could not go to class in the evening and asked the reason why the student was asked about this act.
+
+Following the incident last night, the parents of the 119th police emergency number of the police registered a vote from the 3 students who were affected by the victims and arrested the 57 -year -old Chancellor.
+
+The police said that the arrested Chancellor had taken steps to produce the court after the hearing.
+
+Further investigations are being carried out by the women's children.
+
+◼️
 
 [Data](articles/c5e04e37.json)
+
+[Extended Data](ext_articles/c5e04e37.ext.json)
+
+---
+
+### President assures new legislations to address construction sector issues
+
+*2024-08-22 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101415/president-assures-new-legislations-to-address-construction-sector-issues) · `en`
+
+President Ranil Wickremesinghe says that measures will be taken to introduce new legislations to resolve the issues faced by professionals in the country’s construction sector.
+
+However, Wickremesinghe further pointed out that the necessary bills for this purpose have already been drafted.
+
+The Head of the State expressed these remarks while responding to questions raised by professionals of the development and construction sector, during the Development and Construction Sector Professional Forum, themed “Constructing the Nation’s Tomorrow,” held on Wednesday (21).
+
+◼️
+
+[Data](articles/4561c418.json)
+
+---
+
+### SLPP defectors will soon have to rejoin party - Mahinda Rajapaksa
+
+*2024-08-22 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101414/-slpp-defectors-will-soon-have-to-rejoin-party-mahinda-rajapaksa) · `en`
+
+Former President Mahinda Rajapaksa says that the members of the Sri Lanka Podujana Peramuna (SLPP) who are now working separately, will have to come back to the party in the near future.
+
+He claimed that certain individuals are working to support other parties during the election without supporting their own party, “for narrow political gains”.
+
+Rajapaksa made these remarks while addressing the inaugural presidential election rally of the SLPP which was held in Anuradhapura.
+
+◼️
+
+[Data](articles/63ac9d6c.json)
 
 ---
 
@@ -156,27 +256,35 @@ Last year, Sri Lanka’s President Ranil Wickremesinghe and Indian Prime Ministe
 
 [Data](articles/9f8e1f48.json)
 
+[Extended Data](ext_articles/9f8e1f48.ext.json)
+
 ---
 
-### பொஸ்னியாவில் பாடசாலையில் துப்பாக்கி சூடு ; 3 பேர் பலி
+### Firing at school in Bosnia;3 killed
 
 *2024-08-22 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191680) · `ta`
 
-பொஸ்னியா நாட்டின் மேற்கே சன்ஸ்கி மோஸ்ட் நகரில் உள்ள பாடசாலை ஒன்றில் பணியாளர் ஒருவர் புதன்கிழமை (21) துப்பாக்கி சூடு நடத்தியதில் பாடசாலை அதிபர், செயலாளர் மற்றும் ஓய்வு பெற்ற ஆங்கில ஆசிரியை உயிரிழந்தனர்.
+In Bosnia, a school shooting resulted in three deaths: a principal, secretary, and retired English teacher. The shooter, who also self-inflicted injuries, was treated. No students were harmed as it occurred during summer break, but some were present for exams. Authorities are investigating the motive behind the incident.
 
-துப்பாக்கி சூட்டை நடத்திய நபர் தன்னை தானே சுட்டுக் கொண்டுள்ளார். நெஞ்சில் காயம் பட்ட அவரை மீட்டு சிகிச்சைக்கு கொண்டு சென்றுள்ளனர்.
+🟩
 
-பாடசாலையில் கோடை விடுமுறை விடப்பட்டுள்ளது. இதனால், மாணவர்கள் யாரும் பாடசாலைக்கு வரவில்லை. எனினும், பரீட்சை எழுதுவதற்காக சில மாணவர்கள் வந்துள்ளனர்.
+A school principal, secretary and retired English teacher died on Wednesday (21) at a school in Sanski Most in Bosnia.
 
-இந்த சம்பவத்தில் பாடசாலை மாணவர்கள் யாருக்கும் காயம் ஏற்படவில்லை என பொலிஸ் திணைக்கள பணிப்பாளர் அமெல் கோஜ்லிகா தெரிவித்துள்ளார்.
+The person who carried out the shooting shot himself. He was taken to treatment and was taken to treatment.
 
-இதுபற்றி மேயர் பரீஸ் ஹசன்பெகோவிச் கூறும்போது, இந்த சம்பவம் நடந்ததற்கான காரணம் பற்றி அறியும் முயற்சியை மேற்கொண்டு வருகிறோம். இதுபற்றி கூறுவதற்கோ அல்லது இதனை நியாயப்படுத்துவதற்கோ எதுவும் இல்லை என செய்தியாளர்கள் சந்திப்பில் பேசும்போது கூறியுள்ளார்.
+Summer holidays in school. Thus, none of the students came to school. However, some students have come to write the exam.
 
-அந்த பள்ளியிலுள்ள பணியாளர்கள் சிலர் கூறும்போது, ஒரு தூய்மை பணியாளராக உகாலிக், அவருடைய பணியில் மகிழ்ச்சியற்றவராக காணப்பட்டார் என தெரிவித்துள்ளனர்.
+Police Department Director Amel Kojlika said that schoolchildren were not injured in the incident.
+
+When Mayor Paris Hasanbekovic said, "We are trying to know the cause of the incident.". Speaking at a press conference, there is nothing to say or justify this.
+
+Some of the staff at the school said that Ugalic was a cleanest worker and said he was unhappy with his work.
 
 ◼️
 
 [Data](articles/23283ec2.json)
+
+[Extended Data](ext_articles/23283ec2.ext.json)
 
 ---
 
@@ -204,21 +312,29 @@ In equities, Colombo’s All Share Price Index opened 7.67 points higher at 11,4
 
 [Data](articles/67526e6c.json)
 
+[Extended Data](ext_articles/67526e6c.ext.json)
+
 ---
 
-### ”அனுமதியின்றி  தொட வேண்டாம்”
+### “Don't touch without permission”
 
 *2024-08-22 10:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமதியின்றி-தொட-வேண்டாம்/175-342620) · `ta`
 
-தமது அனுமதியின்றி அல்லது உரிய கட்டணத்தைச் செலுத்தாமல் தேர்தல் பிரசாரத்திற்காக நகர வீதிகள் அல்லது பொது இடங்களை அலங்கரிக்கும் எந்தவொரு வேட்பாளர் அல்லது அரசியல் கட்சியினருக்கும் எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என கொழும்பு மாநகர சபை (CMC) நேற்று (21) எச்சரித்துள்ளது.
+The Colombo Municipal Council warns candidates and political parties about unauthorized decorations on city roads for election campaigns, threatening legal action. Over 80 political parties were reminded of election rules post the announcement of the ninth presidential election. Any unapproved decorations will be removed, and violators may face legal consequences.
 
-ஒன்பதாவது ஜனாதிபதித் தேர்தல் ஜூலை 26ஆம் திகதி அறிவிக்கப்பட்டவுடன், இலங்கை தேர்தல் ஆணைக்குழுவிலிருந்து அங்கீகரிக்கப்பட்ட 80க்கும் மேற்பட்ட அரசியல் கட்சிகளுக்கு பிரச்சாரப் பொருட்களால் தலைநகரை அலங்கரிக்கும் போது தேர்தல் சட்டத்தின் விதிமுறைகளை கடைப்பிடிக்குமாறு நினைவூட்டி கடிதம் அனுப்பியதாக மாநகர சபையின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+🟩
 
-நகரை அலங்கரிக்க விரும்பும் எந்தவொரு வேட்பாளரோ அல்லது அரசியல் கட்சியினரோ அவர்களிடமிருந்து தேவையான அனுமதியைப் பெற வேண்டும் அல்லது அத்தகைய பிரச்சாரப் பொருட்கள் உடனடியாக அமுலுக்கு வரும் வகையில் அகற்றப்பட்டு சட்ட நடவடிக்கை எடுக்கப்படும் என்று ஆணையாளர் பத்ராணி ஜயவர்தன டெய்லி மிரருக்கு தெரிவித்தார்.
+The Colombo Municipal Council (CMC) yesterday (21) warned that legal action would be taken against any candidate or political parties who decorate city roads or public places for election campaign without paying their permission or payments.
+
+A senior official of the Municipal Council said that after the ninth presidential election was announced on July 26, more than 80 political parties approved from the Sri Lanka Election Commission had sent a letter of commemoration of the rules of the election when decorating the capital.
+
+Commissioner Badrani Jayawardena told the Daily Mirror that any candidate or political parties who wish to decorate the city should obtain the necessary permission from them or that such propaganda materials will be removed immediately and legal action will be taken.
 
 ...
 
 [Data](articles/05ddca4e.json)
+
+[Extended Data](ext_articles/05ddca4e.ext.json)
 
 ---
 
@@ -244,21 +360,27 @@ Commissioner Badrani Jayawardena told the Daily Mirror that any candidate or pol
 
 ---
 
-### இடியுடன் கூடிய மழை பெய்யும்
+### Thunderstorm
 
 *2024-08-22 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-342617) · `ta`
 
-மேல், சப்ரகமுவ, தென் மற்றும் வடமேல் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Occasional rains or thunderstorms expected in Western, Sabaragamuwa, Southern, North Western Provinces, Kandy, and Nuwara Eliya districts. Rainfall or thundershowers likely in Eastern and Uva provinces in the evening or night. Heavy rainfall possible in western areas of Central Highlands, North, North Central, and North Western Provinces, and Hambantota district, with winds up to 30-40 km/h. Thundershowers may affect upcoming areas; public advised to take precautions against lightning.
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போதுமணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில்ஓரளவு பலத்தகாற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+It is possible to occasionally rain or thunderstorms in the Western, Sabaragamuwa, Southern and North Western Provinces and Kandy and Nuwara Eliya districts.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+In the Eastern and Uva provinces, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+There is a possibility that a large number of rainfall is likely to blow up to 30-40 km / h in the western areas of the Central Highlands, North, North Central and North Western Provinces and Hambantota district.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/28bdac3d.json)
+
+[Extended Data](ext_articles/28bdac3d.ext.json)
 
 ---
 
@@ -404,23 +526,29 @@ The Commission to Investigate Bribery or Corruption (CIABOC) has announced that 
 
 ---
 
-### இந்தியாவில் மருந்து தொழிற்சாலையில் தீ விபத்து ; 17 பேர் பலி
+### Fire at a pharmaceutical factory in India;17 killed
 
 *2024-08-22 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/191677) · `ta`
 
-இந்தியாவில் ஆந்திர பிரதேசம் மாநிலத்தில் அனகாபள்ளி மாவட்டத்தில் அச்சுதாபுரம் பகுதியில் உள்ள மருந்து தொழிற்சாலை ஒன்றில்  இடம்பெற்ற தீ விபத்தில் 17 பேர் உயிரிழந்துள்ளனர்.
+A tragic fire at a pharmaceutical factory in Achuthapuram, Andhra Pradesh, India, resulted in 17 deaths and over 20 injuries among the 200+ workers present. The explosion occurred during lunchtime, causing extensive damage. Andhra Pradesh's Chief Minister, Chandrababu Naidu, has initiated a high-level investigation and plans to visit the affected families.
 
-குறித்த மருந்து தொழிற்சாலையில் நேற்று புதன்கிழமை (22) 200-க்கும் மேற்பட்ட தொழிலாளர்கள் வேலை செய்துள்ளனர். மதிய உணவு நேரத்தின்போது மருந்து தொழிற்சாலையில் உள்ள ரியாக்டர் வெடித்து விபத்துக்குள்ளாகியுள்ளது.
+🟩
 
-இதன்போது,  அருகில் உள்ள பொருட்கள் அனைத்தும் தீப்பிடித்து எரிந்துள்ளன. இந்த தீ விபத்தில் சிக்கி 17 பேர் உயிரிழந்துள்ளனர்.
+At least 17 people were killed in a fire at a drug factory in Achuthapuram area in Achuthapuram area of ​​Andhra Pradesh, Andhra Pradesh, India.
 
-மேலும், விபத்தில் படுகாயம் அடைந்த 20-க்கும் மேற்பட்டோருக்கு வைத்தியசாலைகளில் தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது.
+More than 200 workers worked at the pharmaceutical factory on Wednesday (22). The reactor at the pharmaceutical factory exploded during lunchtime.
 
-ஆந்திர பிரதேச முதலமைச்சர் சந்திரபாபு நாயுடு இதுபற்றிய உயர்மட்ட விசாரணைக்கு உத்தரவிட்டு உள்ளார். சம்பவத்தில் உயிரிழந்த மற்றும் காயமடைந்த நபர்களின் குடும்பத்தினரை அவர் இன்று சந்திப்பார் என எதிர்பார்க்கப்படுகிறது.
+In the meantime, all the nearby items are burnt. At least 17 people were killed in the fire.
+
+In addition, more than 20 people who were injured in the accident are being treated in hospitals.
+
+Andhra Pradesh Chief Minister Chandrababu Naidu has ordered a high -level inquiry. He is expected to meet the families of the dead and injured in the incident today.
 
 ◼️
 
 [Data](articles/9a89cf1a.json)
+
+[Extended Data](ext_articles/9a89cf1a.ext.json)
 
 ---
 
@@ -547,6 +675,8 @@ In Sri Lanka sugar and ethanol is protected by import taxes and domestic product
 ...
 
 [Data](articles/61a8a623.json)
+
+[Extended Data](ext_articles/61a8a623.ext.json)
 
 ---
 
@@ -723,6 +853,8 @@ The following countries will be eligible for visa free entry.
 ◼️
 
 [Data](articles/371af97f.json)
+
+[Extended Data](ext_articles/371af97f.ext.json)
 
 ---
 
@@ -2099,99 +2231,5 @@ Both subsidies will come into effect from tomorrow (22 August).
 [Data](articles/9af08faf.json)
 
 [Extended Data](ext_articles/9af08faf.ext.json)
-
----
-
-### A gang arrested for hiding the pythons
-
-*2024-08-21 20:07:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைப்பாம்புகளை-மறைத்து-வைத்திருந்த-கும்பல்-கைது/175-342587) · `ta`
-
-Wattala police arrested four foreign pythons and two individuals for smuggling them into Sri Lanka, hidden in boxes. The pythons, possibly from a lake in the country's dry zone, were discovered during a raid and could fetch 300,000 rupees each. They plan to transfer the snakes to the Dehiwala Zoo and charge the suspects in court.
-
-🟩
-
-Wattala police have arrested four foreign pythons that illegally brought to Sri Lanka.
-
-Police said Sri Lanka's swamp crocodile was found during the raid.
-
-Wattala police have arrested two shop owners and staff in connection with the incident as animals were hidden on the floor of a box in Wattala.
-
-Police suspect that these animals may have been brought to Sri Lanka by hiding in travel packages.
-
-The marshland is suspected of being caught from a lake located in the dry area of ​​Sri Lanka and has been found to be ready for sale for 300,000 rupees.
-
-The police have taken steps to send these animals to the Dehiwala Zoo.
-
-The suspects arrested in connection with the incident are to be produced before the Wattala Magistrate's Court
-
-◼️
-
-[Data](articles/67b2ccef.json)
-
-[Extended Data](ext_articles/67b2ccef.ext.json)
-
----
-
-### Sri Lanka approves visa-free facility for citizens of 35 countries
-
-*2024-08-21 20:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101403/sri-lanka-approves-visa-free-facility-for-citizens-of-35-countries-) · `en`
-
-The Cabinet of Ministers has decided to allow visa-free entry to Sri Lanka for citizens of 35 countries, including the United Kingdom (UK), United States (US), Canada, Germany, Australia, Saudi Arabia, China, India, Russia, South Korea, and Japan.
-
-This new visa-free policy will be in effect from October 01, 2024, and will remain in effect for a period of six months.
-
-List of countries to be offered visa-free access to Sri Lanka:
-
-◼️
-
-[Data](articles/764b1bb6.json)
-
-[Extended Data](ext_articles/764b1bb6.ext.json)
-
----
-
-### Cabinet approval for citizens of 35 countries
-
-*2024-08-21 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200187) · `si`
-
-The cabinet has approved a six-month visa-free entry for citizens of 35 countries, including the UK, Canada, Australia, China, India, Russia, South Korea, and Japan, starting October 1, 2024.
-
-🟩
-
-Cabinet has approved the entry for the citizens of 35 countries.
-
-It contains 35 countries including the United Kingdom, Canada, Australia, Australia, Australia, Australia, China, India, Russia, Russia, Russia, Russia, Russia, South Korea and Japan.
-
-The opportunity comes for a period of six months from October 1, 2024.
-
-◼️
-
-[Data](articles/f186c146.json)
-
-[Extended Data](ext_articles/f186c146.ext.json)
-
----
-
-### If the pillars are transferred, the seat brings abolished legislation
-
-*2024-08-21 19:53:25* · [`adalk`](https://www.ada.lk/breaking_news/පිල්-මාරු-කළොත්-මන්ත්‍රීධුරය-අහෝසියට-නීති-ගේනවා/11-411498) · `si`
-
-Narinini Amarasuriya discussed the transfer of power dynamics in Sri Lanka, emphasizing the importance of national unity and good governance. She criticized opposition tactics and highlighted the need for a strong leadership to rebuild the country. She mentioned the defeat of the Sri Lankan president and urged support for a new constitution aimed at national development, not personal gains.
-
-🟩
-
-Narinini Amarasuriya said that the politics of transfer of pills under a government of the national popularity is to bring the rules to be transferred to the party.
-
-She also stated that the new constitution was prepared by a government to bring a national popularity.. She has only to mud against the national popularity to do the opponents. She said that the President of the Sri Lankan president was defeated as the president of the country on September 21st, she said that Comrade Anura Dissanayake and the people were over.
-
-Member of Parliament addressing the rally held in Gampola today (21). Speaking further Amarasuriya said:
-
-"Thank you all to get together to find out a core. The country has made a decision as the leader of this country as the leader of this country to make your voting into the president.
-
-...
-
-[Data](articles/fbf40a69.json)
-
-[Extended Data](ext_articles/fbf40a69.ext.json)
 
 ---

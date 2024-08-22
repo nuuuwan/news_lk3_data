@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-22 06:03:54**
+As of **2024-08-22 06:25:36**
 
 ## Newspaper Stats
 
-*Scraped **41,998** Articles*
+*Scraped **42,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 353
 newsfirstlk | 363
 bbccomsinhala | 387
 colombotelegraphcom | 403
-islandlk | 2,426
+islandlk | 2,437
 economynextcom | 2,536
 dailyftlk | 2,722
 adalk | 3,868
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,997 (100.0%) of 41,998 articles have been extended.
+41,997 (100.0%) of 42,009 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -670,6 +670,70 @@ Shades IT Solutions Founder and CEO Shana Karan participated as the Guest Speake
 
 ---
 
+### The Glenrock earns spotlight in National Geographic Traveller (UK) for its eco-luxury offering
+
+*2024-08-21 23:39:00* · [`islandlk`](http://island.lk/the-glenrock-earns-spotlight-in-national-geographic-traveller-uk-for-its-eco-luxury-offering/) · `en`
+
+The Glenrock, a luxurious hideaway nature resort located in the serene mountain village of Belihuloya, has been featured in the September issue of the prestigious National Geographic Traveller (UK). This recognition marks a significant milestone for the property, often celebrated for its unique blend of luxury and sustainability, nestled within the breathtaking landscapes of Sri Lanka.
+
+The feature is a significant achievement for The Glenrock, as it places the resort among the select few that meet the publication’s high standards for luxury, natural beauty, and sustainability. National Geographic Traveller (UK) is one of the leading travel magazines in the UK, with a global reputation that has been established over 135 years. The inclusion of The Glenrock in this magazine not only underscores a commitment to providing an eco-luxury experience but also enhances the property’s visibility to discerning travelers around the world.
+
+...
+
+[Data](articles/77e9cace.json)
+
+---
+
+### People’s Bank hands over newly built home to underprivileged family in Padaviya
+
+*2024-08-21 23:39:00* · [`islandlk`](http://island.lk/peoples-bank-hands-over-newly-built-home-to-underprivileged-family-in-padaviya/) · `en`
+
+People’s Bank officially handed over a newly-built home to a low income family in Padaviya, Weli Oya as part of its ‘Mahajana Mehewara’ social responsibility programme.
+
+Funded by the People’s Bank Buddhist Society, together with staff members of the Anuradhapura Regional Head Office and branches in the region, Sri Lanka Army’s 9th Battalion of the Gajaba Regiment provided the construction manpower for the home.
+
+The event was attended by People’s Chief Executive Officer/General Manager Clive Fonseka, Sri Lanka Army 9th Battalion of the Gajaba Regiment Second-in-Command Sujith Karunanayake, Deputy General Manager-Banking Support Services Nipunika Wijayaratne, Head of Marketing Nalaka Wijayawardana, Deputy General Manager-Channel Management Naleen Pathiranage, Anuradhapura Regional Manager Asitha Danawalawithana, Assistant Regional Managers, Padaviya Branch Manager, Buddhist Society members as well as a large number of the bank’s staff members participated in the programme.
+
+...
+
+[Data](articles/7c940d09.json)
+
+---
+
+### Virtusa recognized as Enterprise Innovator in HFS Horizons: Healthcare Provider (HCP) 2024 Report
+
+*2024-08-21 23:38:00* · [`islandlk`](http://island.lk/virtusa-recognized-as-enterprise-innovator-in-hfs-horizons-healthcare-provider-hcp-2024-report/) · `en`
+
+Company highlighted for its ability to support HCPs on their enterprise transformation journey
+
+Virtusa Corporation, a global provider of digital strategy, digital engineering, and information technology (IT) services, has been recognized as an Enterprise Innovator by leading global research and analysis firm HFS Research in its HFS Horizons: HCP Service Providers, 2024 report.
+
+Virtusa is recognized as a Horizon 2 – Enterprise Innovator in the report, highlighting its commitment to improving provider onboarding timelines and experience and reducing operational costs. Virtusa is one of 36 healthcare service providers assessed in the report for its role in the global care delivery industry. The report specifically commends Virtusa for its ability to address the full value chain including patient intake, diagnosis, care, and provider services.
+
+The Glenrock earns spotlight in National Geographic Traveller (UK) for its eco-luxury offering
+
+...
+
+[Data](articles/28d75d87.json)
+
+---
+
+### CSE indices send mixed signals; ASPI down, S and P SL 20 up
+
+*2024-08-21 23:35:00* · [`islandlk`](http://island.lk/cse-indices-send-mixed-signals-aspi-down-s-and-p-sl-20-up/) · `en`
+
+JKH said it had completed delisting of its Global Depositary Receipts Program from the Luxembourg Stock Exchange.
+
+“The process of termination and delisting of the GDR Program from the Luxembourg Stock Exchange has been completed, a CSE filing said.
+
+Amid those developments both indices indicated mixed reactions. All Share Price Index went down by 6.73 points while S and P SL20 rose by 6.05 points. Turnover stood at Rs 547 million with two crossings. Those crossings were reported in Melstacope, which crossed 600,000 shares to the tune of Rs 49.2 million and its shares traded at Rs 82 and Pan Asia Bank 1.5 million shares crossed to the tune of Rs 30 million; its shares traded at Rs 20.
+
+...
+
+[Data](articles/63257cd0.json)
+
+---
+
 ### SL-Korea Business Council forum sheds insights to future scenarios and challenges
 
 *2024-08-21 23:32:59* · [`dailyftlk`](https://www.ft.lk/opinion/SL-Korea-Business-Council-forum-sheds-insights-to-futurescenarios-and-challenges/14-765814) · `en`
@@ -685,6 +749,76 @@ The discussion and insights shared included economic forecast, business impact, 
 [Data](articles/b36a41ca.json)
 
 [Extended Data](ext_articles/b36a41ca.ext.json)
+
+---
+
+### Final installment of Cucumber Magic
+
+*2024-08-21 23:23:00* · [`islandlk`](http://island.lk/final-installment-of-cucumber-magic/) · `en`
+
+Hi! Yes, this is the final installment where Cucumber is concerned.
+
+I’ve had some very good feedbacks from readers saying that my Cucumber beauty tips have done them good.
+
+You will need 02 tablespoons cucumber juice and 1/2 cup avocado pulp
+
+Mix them well and then apply the paste on your face and leave it on for 15 to 20 minutes.
+
+(This cucumber face pack will soften your skin and reduce blemishes)
+
+You will need 1/2 cucumber, 1/2 apple and 01 tablespoon oats.
+
+Chop the cucumber and apple and mash them and then mix in the oats and blend into a smooth paste.
+
+Apply the paste on your face and neck. Wash off with warm water after 20 minutes.
+
+(If you have sensitive skin, this cucumber face pack will soothe your skin and rejuvenate it)
+
+Apply on the face and let it sit for at least 15 minutes and then rinse with water.
+
+to it. Mix it thoroughly. You can also blend both the ingredients.
+
+Apply this evenly on the face and neck, let it dry for about 20 minutes and then rinse with lukewarm water.
+
+...
+
+[Data](articles/82860f5d.json)
+
+---
+
+### Sri Lanka achieves $9 billion in export income Income in First Half of 2024 – State Minister for Investment Promotion, Dilum Amunugama
+
+*2024-08-21 23:13:00* · [`islandlk`](http://island.lk/sri-lanka-achieves-9-billion-in-export-income-income-in-first-half-of-2024-state-minister-for-investment-promotion-dilum-amunugama/) · `en`
+
+State Minister for Investment Promotion, Dilum Amunugama, announced that Sri Lanka has secured an export income of USD 9 billion in the first six months of this year.
+
+He also highlighted that investment agreements totaling approximately USD 800 million have been signed during the same period.
+
+The State Minister shared this information at a press briefing titled “Two Years of Progress and Advancements” held at the Presidential Media Centre (PMC), today (21).
+
+The Board of Investment of Sri Lanka currently facilitates 15 investment zones, with 1,575 companies operating within them, providing employment to over 500,000 people. Under the government’s new investment program, seven additional investment zones are planned for areas including Mankulam, Paranthan, Kankasanthurai, Trincomalee, Iranawila, Hambantota, and Bingiriya.
+
+...
+
+[Data](articles/99e90bf8.json)
+
+---
+
+### Divisions and polarisation in our society
+
+*2024-08-21 23:12:00* · [`islandlk`](http://island.lk/divisions-and-polarisation-in-our-society/) · `en`
+
+Humans are not united as a species. Divisions based on geography, ethnicity, coloir, religion, opinions and other attributes present everywhere dominate the social and political dynamics of the world.
+
+Nobody knows why this happens: a naïve explanation is that birds of the same feather flock together. A person feels more comfortable when he or she associates with people who look similar and think alike. Intolerances of differences leads to social segregation.
+
+Human communities also polarise. Polarisation is the widening separation of a society into two physically unseparated opposing camps based on some identity or belief. The colour, the language spoken and the religion, the political ideology are examples of the former and latter.
+
+Polarisation differs from division. Unlike in division, the polarised parties oppose or confront each other. However, division can be triggered to ensue polarization.
+
+...
+
+[Data](articles/5890684f.json)
 
 ---
 
@@ -2161,165 +2295,5 @@ Sri Lanka were also able to win the two-match Test tournament.
 [Data](articles/73359cce.json)
 
 [Extended Data](ext_articles/73359cce.ext.json)
-
----
-
-### Sri Lanka sells Rs120bn in treasury bills
-
-*2024-08-21 14:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs120bn-in-treasury-bills-177604/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 3-month and 6-month treasury bill yields were up at Wednesday’s auction while the 12-month was down, with all offered 120 billion bills sold, data from the debt office showed.
-
-The 3-month yield was up 3 basis points to 9.42 percent, with 55 billion rupees offered and 76.1 billion rupees of bills sold.
-
-The 6-month yield was up 12 basis points to 9.80 percent, with 35 billion offered and 43.1 billion rupees of bills sold.
-
-The 12-month bills fell 2 basis points to 10.01 percent, with 30 billion offered and 740 million rupees of bills sold. (Colombo/Aug21/2024)
-
-◼️
-
-[Data](articles/18a2763a.json)
-
-[Extended Data](ext_articles/18a2763a.ext.json)
-
----
-
-### The world hero 'Kamal Haasan's praise'
-
-*2024-08-21 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/191625) · `ta`
-
-"Kamal Haasan, known as 'World Man,' praises 'Kottukali,' highlighting its realistic storytelling and appreciating director Vinod Raj and producer Sivakarthikeyan."
-
-🟩
-
-'World Man' Kamal Haasan praises the film 'Kottukali', which is the leading role of the Tamil screen world's leading star Suri - Anna Ben.. He has also given a credentials in appreciation of the film.
-
-Director P.. S.. Suri, Anna Ben and many others have starred in the film 'Kottukkali' directed by Vinod Raj. B.. Ganesh Siva has compiled the film, which has been recorded by Sakthivel.The film, which is based on realistic life, has produced the film on behalf of SK Productions and produced Sivakarthikeyan.
-
-The film is released on the 23rd of the film House.. As the peak of this, the 'World Man' Kamal Haasan, who is hailed as the 'Narakamatum Encyclopedia' of Tamil cinema, has been praised by the film and has given a credential.
-
-In it, he said, “The Kottukkali film crew is telling a wonderful rational story in the world of cinema. Mr.. Thank you to Sivakarthikeyan. ”
-
-...
-
-[Data](articles/d431ee62.json)
-
-[Extended Data](ext_articles/d431ee62.ext.json)
-
----
-
-### Foreign plans and a group of people arrested
-
-*2024-08-21 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200177) · `si`
-
-Wattala Police arrested four foreigners hiding reptiles in their luggage, suspected to be worth up to $30,000 each. The animals were discovered during a raid and will be sent to the Dehiwala Zoo for examination. The suspects face charges and will appear in court.
-
-🟩
-
-Four foreign scales were taken into custody by the Wattala Police today (21).
-
-Police said the raid was also found in Sri Lanka.
-
-These animals were hidden in the upper floor in Wattala and two employees and two employees have been arrested by the Wattala Police.
-
-Two male pimens and two females have been taken into custody by the police.
-
-Police suspect that the animals have been brought hidden in luggage through aircraft.
-
-The knock crocodile suspects that one of these animals were preparing for three lakhs to three lakhs.
-
-Police have taken steps to direct these animals to the Dehiwala Zoo and obtain a report on them.
-
-The suspects are to be produced before the Wattala Magistrate's Court.
-
-◼️
-
-[Data](articles/a0767e12.json)
-
-[Extended Data](ext_articles/a0767e12.ext.json)
-
----
-
-### Protest over sexual assault of school girls in India’s Maharashtra turns chaotic
-
-*2024-08-21 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101397/protest-over-sexual-assault-of-school-girls-in-indias-maharashtra-turns-chaotic) · `en`
-
-Amid nationwide protests in India over the brutal rape and murder of a Kolkata doctor, two young female students from a school in Maharashtra’s Badlapur were allegedly sexually assaulted, leading to widespread public outrage.
-
-The situation escalated on Tuesday when protesters, angry over the alleged police inaction, blocked train services at the Badlapur railway station, prompting the police to resort to lathicharge to disperse the crowd.
-
-The protest was ignited after news of the alleged sexual abuse spread, with hundreds of people gathering to demand swift action against the accused and justice for the victims.
-
-In response to the growing unrest, the Maharashtra government announced the formation of a Special Investigation Team (SIT) to probe the incident.
-
-State Cabinet Minister Girish Mahajan, who attempted to pacify the protesters, assured them of strict action against those responsible, stating, “The accused person will face the most severe punishment.”
-
-...
-
-[Data](articles/13014672.json)
-
-[Extended Data](ext_articles/13014672.ext.json)
-
----
-
-### Sri Lanka’s John Keells delists GDR from Luxembourg Stock Exchange
-
-*2024-08-21 14:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-john-keells-delists-gdr-from-luxembourg-stock-exchange-177599/) · `en`
-
-ECONOMYNEXT – Sri Lanka conglomerate John Keells Holdings Plc said it had completed the delisting of its Global Depositary Receipts Program from the Luxembourg Stock Exchange.
-
-“The process of termination and delisting of the GDR Program from the Luxembourg Stock Exchange has been completed,” the company said in a Colombo stock exchange filing.
-
-John Keells announced on November 16, 2023 that it would terminate the captioned GDR Program, due to the relatively low number of GDR in issue and given “that they are not a significant contributor to facilitating trading in Company securities.”
-
-Global depositary shares are issued in international markets to access investors in capital markets outside a company’s home country. They are traded and pay dividends in US dollars. (Colombo/Aug21/2024)
-
-◼️
-
-[Data](articles/a7ba861f.json)
-
-[Extended Data](ext_articles/a7ba861f.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-21 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191622) · `ta`
-
-The US dollar's buying rate was 295.2072 rupees and selling rate was 304.4523 rupees as per the Central Bank's update on August 21.
-
-🟩
-
-The US dollar purchasing price was 295.2072 rupees and the sales price were 304.4523 rupees based on a currency exchange rate released by the Central Bank on Wednesday (August 21).
-
-◼️
-
-[Data](articles/f166ec83.json)
-
-[Extended Data](ext_articles/f166ec83.ext.json)
-
----
-
-### Husband
-
-*2024-08-21 14:11:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியின்-தொல்லையால்-வீட்டைவிட்டு-ஓடிய-கணவர்/175-342569) · `ta`
-
-Mukesh, a software engineer from Bangalore, left home due to marital issues, leading to a police search. Found in Noida, he revealed his wife's controlling behavior forced him out. Despite opposition, police plan psychiatric counseling for both.
-
-🟩
-
-When eating at home will fight even if you shed a push down. Has been completely snatched my freedom. I left the house because he couldn't live in peace if with him. Reach me even if you want me in jail. But don't join him. ”
-
-Mukesh, 28, belongs to White Field in Bangalore. He is a software engineer working at the International Information Technology Institute. He went out of the house on the 4th and did not return back. Shocked, his wife lodged a complaint at the White Field police station that her husband was missing.
-
-Specialist police started an investigation into the abduction of Mukesh. Police tried to find his location through Mukesh's cell phone number. But, his cell phone number was switched off.
-
-As Mukesh activated a new SIM card on his cell phone, it was revealed that he was in Noida. The police then went to Noida to catch him. Mukesh, who came out after watching the movie at the business premises there, surrounded the police.
-
-...
-
-[Data](articles/b43f3628.json)
-
-[Extended Data](ext_articles/b43f3628.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 00:37:12**
+As of **2024-08-24 00:53:30**
 
 ## Newspaper Stats
 
-*Scraped **42,305** Articles*
+*Scraped **42,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 391
 colombotelegraphcom | 404
 islandlk | 2,451
 economynextcom | 2,566
-dailyftlk | 2,742
+dailyftlk | 2,754
 adalk | 3,899
 dailymirrorlk | 4,733
 adaderanalk | 4,962
@@ -26,11 +26,199 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,305 (100.0%) of 42,305 articles have been extended.
+42,305 (100.0%) of 42,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### SL hosts Central Asia Forum 2024: Prioritising connectivity and economic engagement
+
+*2024-08-23 23:54:47* · [`dailyftlk`](https://www.ft.lk/business/SL-hosts-Central-Asia-Forum-2024-Prioritising-connectivity-and-economic-engagement/34-765934) · `en`
+
+The Central Asia Forum 2024 organised by the Ministry of Foreign Affairs of Sri Lanka, together with the Geopolitical Cartographer held at the Granbell Hotel in Colombo on 21 August, explored the potential for future cooperation between Sri Lanka and Central Asia, a region with increasing geopolitical and geo-economic significance.
+
+Sri Lanka’s engagements with countries in the Central Asian region has achieved considerable progress in recent times with the conclusion of Foreign Office consultations with Kazakhstan, Kyrgyzstan and Turkmenistan and the decision to establish reciprocal resident diplomatic missions in Astana, Kazakhstan and Colombo.
+
+The Forum explored emerging opportunities for Sri Lanka in the Central Asia region with a specific focus on economic diplomacy. The outcomes of the discussion are expected to enrich future engagements with the region.
+
+...
+
+[Data](articles/60c40865.json)
+
+---
+
+### Profood Propack & Agbiz 2024 kicks off
+
+*2024-08-23 23:53:34* · [`dailyftlk`](https://www.ft.lk/business/Profood-Propack-Agbiz-2024-kicks-off/34-765933) · `en`
+
+The most eagerly awaited food industry exhibition, the Profood Propack, Agbiz and Knowledge Hub 2024 Exhibition organised by the Sri Lanka Food Processors Association (SLFPA) together with Lanka Exhibition and Conference Services (LECS), kicked off yesterday at the Sirimavo Bandaranaike Exhibition and Convention Centre, Colombo.
+
+The event was endorsed and supported by the Industries Ministry, the National Agribusiness Council, and the Institute of Food Science and Technology Sri Lanka.
+
+This is the 21st edition of the exhibition and the three-day event will conclude on 25 August.
+
+SLFPA’s commitment to promoting the advancement of the food industry and driving economic growth in Sri Lanka through this exhibition has been well known over the years. The event acts as a catalyst in bringing together food industry leaders, various stakeholders and decision-makers from agri-based companies, food processing industries, packaging, and all service providers to the food industry.
+
+...
+
+[Data](articles/069d10bc.json)
+
+---
+
+### Korean investor explores opportunities in solar energy, agriculture in SL
+
+*2024-08-23 23:52:39* · [`dailyftlk`](https://www.ft.lk/business/Korean-investor-explores-opportunities-in-solar-energy-agriculture-in-SL/34-765932) · `en`
+
+A leading entrepreneur from the People’s Republic of South Korea, Tong-Jo Mun met with Prime Minister Dinesh Gunawardena at the Temple Trees in Colombo on Thursday and expressed willingness to invest in the energy and agriculture sectors.
+
+The Prime Minister’s Media Office said Mun said the entrepreneurs attached to the International Interchange Development Association, of which he is President, would like to invest in several solar energy projects as well as in the cultivation of fruits in Sri Lanka for export to Korea and other countries. The Prime Minister said that Sri Lanka welcomes investments in these sectors and explained that the Government plans to increase the share of alternative energy sources to cut down dependence on crude oil.
+
+They also discussed possible investments in the fisheries, health, and construction sectors, especially the introduction of new technologies to upgrade production in these sectors.
+
+...
+
+[Data](articles/51bd1591.json)
+
+---
+
+### UNPRPD funds disability inclusion initiative in Sri Lanka
+
+*2024-08-23 23:51:13* · [`dailyftlk`](https://www.ft.lk/news/UNPRPD-funds-disability-inclusion-initiative-in-Sri-Lanka/56-765931) · `en`
+
+UNPRPD Inception phase to reach 30 stakeholders Participants at the training
+
+Sri Lanka ratified the United Nations Convention on Rights of Persons with Disability (CRPD) in 2016 and was invited to implement the UNPRPD Fund Inception Phase, in 2023.
+
+...
+
+[Data](articles/69a73691.json)
+
+---
+
+### Co-operative movement’s future discussed under President Wickremesinghe’s patronage
+
+*2024-08-23 23:49:36* · [`dailyftlk`](https://www.ft.lk/news/Co-operative-movement-s-future-discussed-under-President-Wickremesinghe-s-patronage/56-765930) · `en`
+
+A special meeting to discuss the future direction of the co-operative movement in Sri Lanka was recently convened by the Sri Lanka National Co-Operative Board under the patronage of President Ranil Wickremesinghe.
+
+Held at the Sri Lanka Exhibition and Convention Centre (SLECC), the event saw participation from prominent figures including Sanasa Movement Founder Dr. P.A. Kiriwandeniya, who represented Sanasa alongside other officials.
+
+Among the other attendees were Trade, Commerce and Food Safety Minister Nalin Fernando, Mass Media State Minister Shantha Bandara, Chief of Presidential Staff Sagala Ratnayake, and several other Ministers. Additionally, the event drew a significant number of participants from the cooperative and related sectors, including A.D. Sarath Weerasiri, who represented the Sri Lanka National Co-Operative Board.
+
+...
+
+[Data](articles/dc957baa.json)
+
+---
+
+### India inaugurates RO water plant at Sinhapada, Sigiriya Rock Fortress
+
+*2024-08-23 23:48:57* · [`dailyftlk`](https://www.ft.lk/news/India-inaugurates-RO-water-plant-at-Sinhapada-Sigiriya-Rock-Fortress/56-765929) · `en`
+
+On 21 August, Indian High Commissioner to Sri Lanka Santosh Jha inaugurated a RO water plant at Sinhapada of the UNESCO World Heritage Site, the Sigiriya Rock Fortress.
+
+The Central Cultural Fund Director General, Central Province Deputy Chief Secretary, and representatives of the Department of Trade, Commerce and Tourism, Central Province, were among the Government officials who attended the inauguration.
+
+The RO water plant has been handed over to the Central Cultural Fund, Department of Cultural Affairs, Ministry of Buddhasasana, Religious and Cultural Affairs. The Government of India has already borne the expenditure for the maintenance of the facility for the next five years.
+
+The RO water plant will benefit the thousands of visitors to Sigiriya from across the globe. The assistance extended reaffirms India’s ongoing commitment to Sri Lanka’s growth and progress across sectors.
+
+◼️
+
+[Data](articles/a5d53ec6.json)
+
+---
+
+### Sri Lanka participates in 8th Global Botanic Gardens Congress in Singapore
+
+*2024-08-23 23:48:19* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-participates-in-8th-Global-Botanic-Gardens-Congressin-Singapore/56-765928) · `en`
+
+The 8th Global Botanic Gardens Congress was held at the Suntec Convention Centre in Singapore from 6 to 8 August under the theme “Botanic Gardens – People and Plants for a Sustainable Future.”
+
+Around 900 delegates representing 75 countries, including botanic garden officials, Governmental and non-Governmental representatives, researchers, postgraduate students, and journalists participated in the event. The Singapore Botanic Gardens, in collaboration with Botanic Gardens International, organised the conference. This is the first time the Congress was held in the Southeast Asia region.
+
+...
+
+[Data](articles/9620badf.json)
+
+---
+
+### “75 years of the Geneva Conventions: Global and Sri Lankan Perspectives”
+
+*2024-08-23 23:47:33* · [`dailyftlk`](https://www.ft.lk/news/75-years-of-the-Geneva-Conventions-Global-and-Sri-Lankan-Perspectives/56-765927) · `en`
+
+The Ministry of Foreign Affairs, Sri Lanka, the Embassy of Switzerland to Sri Lanka and the Maldives and the International Committee of the Red Cross (ICRC) commemorated the 75th anniversary of the Geneva Conventions in an event themed “75 years of the Geneva Conventions: Global and Sri Lankan Perspectives” on 14 August at the BMICH in Colombo.
+
+The event included a panel discussion under the title “Preserving our shared humanity: IHL as a national and international political priority”. Further, on the initiative of the National Committee for implementation of IHL in Sri Lanka under the Foreign Ministry, the Geneva Conventions have been translated into Sinhala and Tamil and copies of the translations were handed over by the ICRC. The translations together with the inclusion of IHL in universities, military curricula and training for the judiciary, will ensure its wide dissemination to those called upon to implement IHL, as well as the general public.
+
+...
+
+[Data](articles/eabe50b4.json)
+
+---
+
+### The long weekend is over for legislators and electors alike
+
+*2024-08-23 23:30:19* · [`dailyftlk`](https://www.ft.lk/columns/The-long-weekend-is-over-for-legislators-and-electors-alike/4-765919) · `en`
+
+Is it bearable, this oppression by reactionary elites who have captured the state, for the sake of ostensible stability in the short term... even if exploring the alternatives – and there is a raft of these – means facing and overcoming the ‘fear psychosis’ (or false propaganda) of the much-dreaded return to vistas of austerity? Or do we owe those who were arguably the worst off – some of my readers may be in the same boat or at the bottom of the same pool – under a cabal that brought a country to its knees and a nation to bankruptcy?
+
+Over the ‘long weekend’ a few days ago, an immersive editorialist – like a few other ordinary folks in Sri Lanka lucky enough to be able to savour it – was pleased to be tasked to enjoy some down time on an out-of-town getaway.
+
+...
+
+[Data](articles/5dbd5338.json)
+
+---
+
+### Will the old order accept AKD victory?
+
+*2024-08-23 23:27:57* · [`dailyftlk`](https://www.ft.lk/columns/Will-the-old-order-accept-AKD-victory/4-765918) · `en`
+
+NPP’s system-change and economic reforms minus a few populist promises ensure a modestly achievable target for a country caught in poly-crisis in comparison to the undeliverable and dreamy paradise guaranteed by its opponents. But the question is whether the guardians of the old order would allow NPP to cross the line. There are also foreign powers with vested interests observing closely local developments
+
+...
+
+[Data](articles/b8998bcd.json)
+
+---
+
+### Measuring, preventing, and responding to non-economic loss caused by climate change
+
+*2024-08-23 23:25:29* · [`dailyftlk`](https://www.ft.lk/columns/Measuring-preventing-and-responding-to-non-economic-loss-caused-by-climate-change/4-765917) · `en`
+
+There is a broad range of climate-induced losses that are difficult to restore, reverse, or quantify
+
+Climate-induced loss and damage refers to the impacts of climate change that exceed the practical or theoretical limits of adaptation. It is increasingly recognised as an important challenge for countries across the world and seen by many as the third pillar of the Paris Agreement in addition to mitigation (the reduction of greenhouse gas emissions) and adaptation.
+
+While economic losses and damages—such as destruction of property, assets, infrastructure, or the loss of agricultural production—can potentially be repaired and compensation payments might enable affected communities to rebuild and recover, there is a broad range of losses that are difficult to restore, cannot be reversed, or not easily quantifiable in financial terms. These “non-economic” losses can affect individuals, communities, or the natural environment, and result from a variety of climatic events and processes.
+
+...
+
+[Data](articles/1aa25120.json)
+
+---
+
+### Hubris and nemesis
+
+*2024-08-23 23:23:23* · [`dailyftlk`](https://www.ft.lk/columns/Hubris-and-nemesis/4-765916) · `en`
+
+The Supreme Court has ruled that both, the Election Commission and the President, in his capacity as the Minister of Finance, were responsible for violating voters’ rights by postponing the local government elections.
+
+A top official of the Elections Commission on hearing the top Court’s ruling claimed that the Courts’ pronouncement strengthened the Election Commission.
+
+The Daily Mirror reported President Ranil Wickremesinghe’s response with calculated brevity. “While acknowledging that postponing the Local Government elections is a violation of the citizens’ basic rights, President Ranil Wickremesinghe said he does not regret this decision.
+
+The President said he was not remorseful as the time was dedicated to ensuring the people’s right to live and in maintaining their safety.”
+
+“The President made these remarks while addressing the National Conference of the New People’s Front (NPF) at the National Youth Services Council auditorium in Maharagama.
+
+...
+
+[Data](articles/b65436af.json)
+
+---
 
 ### Club Spring Murder - Another man arrested
 
@@ -2089,285 +2277,5 @@ In equities, Colombo’s All Share Price Index opened 6.23 points lower at 11,45
 [Data](articles/0dd465b8.json)
 
 [Extended Data](ext_articles/0dd465b8.ext.json)
-
----
-
-### Not surprisingly, this decision is not surprising - Mahinda Deshapriya
-
-*2024-08-23 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200231) · `si`
-
-Mahinda Deshapriya, Chairman of the National Committee of the National Institute, supports local government bodies' victories against judicial misconceptions. He anticipates post-presidential election actions, emphasizing the Supreme Court's delayed but just decisions affecting public rights.
-
-🟩
-
-The Chairman of the National Committee of National Institute is a victory for local government bodies that the judiciary is a misconception that the judiciary is a misconception.
-
-He said he believes he will be held after the presidential election, Mr. Mahinda Deshapriya said.
-
-"It is not surprising that the Supreme Court has decided that the Supreme Court has decided that the rights of the people will be violated or delayed due to the death of the people.. I see justice,. But late. Accordingly, as soon as the presidential election is finished, the Commission will take place this year. "
-
-◼️
-
-[Data](articles/88900239.json)
-
-[Extended Data](ext_articles/88900239.ext.json)
-
----
-
-### The government cannot accept the provision of subsidies to the people - February
-
-*2024-08-23 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191754) · `ta`
-
-The Pepral Organization argues against government subsidies ahead of the presidential election, citing potential misuse for vote-seeking. The Executive Director suggests subsidies could be considered post-election to address economic issues.
-
-🟩
-
-The Pepral Organization has said that the government cannot accept subsidies for the people as the presidential election has been announced.
-
-Rohana Hettiarachchi, Executive Director of the February, said that the issue has been announced to the Election Commission.
-
-Minister of State for Finance Ranjith Siyambalapitiya said that such concessions were not given to the people in order to get votes.
-
-The Executive Director of the February said that if it is necessary to provide subsidies to solve the economic problems of the people, they can be provided after the presidential election.
-
-◼️
-
-[Data](articles/087c6aa7.json)
-
-[Extended Data](ext_articles/087c6aa7.ext.json)
-
----
-
-### Peliyagoda, Kelaniya and Kadavatha areas threatened to threaten
-
-*2024-08-23 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191753) · `ta`
-
-A 27-year-old suspect from Rajagiriya is arrested for thefts including three-wheelers and jewelry across Peliyagoda, Kelaniya, Kadavatha, Borella, and Mirihana. Investigations by the Western Province Southern Criminal Investigation Division reveal the suspect used sharp weapons during the crimes.
-
-🟩
-
-Police have arrested a suspect for stealing assets including three -wheelers and jewelery for allegedly threatening sharp weapons.
-
-The arrested suspect is 27 -year -old from Rajagiriya Obeeskegarapura.
-
-Investigations have revealed that the suspect had robbed three -wheelers, mobile phones and gold jewelery in Peliyagoda, Kelaniya, Kadavatha, Borella and Mirihana.
-
-Investigations into the incident are being carried out by the Western Province Southern Criminal Investigation Division.
-
-◼️
-
-[Data](articles/2f5132b2.json)
-
-[Extended Data](ext_articles/2f5132b2.ext.json)
-
----
-
-### Indian defense minister suddenly in the United States
-
-*2024-08-23 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200230) · `si`
-
-Rajnath Singh visits the U.S., aiming to enhance the strategic partnership between India and America. He'll meet with the U.S. defense secretary and national defense advisor, focusing on expanding cooperation.
-
-🟩
-
-Rajnath Singh has come to the United States for the final stages of India and America.
-
-In his visit, Rajnath is also scheduled to meet bilateral discussions with US defense secretary and the United States National Defense Advisor.
-
-The Indian Defense Ministry states that this tour is expected to expand the Indo-American Strategic Partnership Partnership.
-
-◼️
-
-[Data](articles/ceae2868.json)
-
-[Extended Data](ext_articles/ceae2868.ext.json)
-
----
-
-### Gold prices hover near record high
-
-*2024-08-23 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101439/gold-prices-hover-near-record-high) · `en`
-
-A gold rush is here. The precious metal hit an all time high this week.
-
-The spot price for gold closed Tuesday above $2,514, according to data from FactSet. That’s the highest closing price recorded for the commodity to date. Here’s what you need to know.
-
-The spot price of gold closed Tuesday at just over $2,514 per Troy ounce — the standard for measuring precious metals, which is equivalent to 31 grams. That would make a gold bar or brick weighing 400 Troy ounces worth more than $1 million today.
-
-This week’s record high means that the price of gold has climbed hundreds of dollars per Troy ounce over the last year. Tuesday’s price is up nearly $620 from this time in 2023.
-
-Interest in buying gold often comes at times of uncertainty — with potential concerns around inflation and the strength of the U.S. dollar, for example, causing some to look for alternative places to park their money. Gold also saw a surge in the early days of the COVID-19 pandemic.
-
-...
-
-[Data](articles/177c0c12.json)
-
-[Extended Data](ext_articles/177c0c12.ext.json)
-
----
-
-### The Company imitates the Government Digital Strategic program
-
-*2024-08-23 09:09:24* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාව-රජයේ-ඩිජිටල්-උපායමාර්ගික-වැඩපිළිවෙළ-අනුකරණය-කරලලු/11-411516) · `si`
-
-Minister Kanaka Herath announced at a meeting that India has adopted Sri Lanka's National Ceylon Tigerfish Strategic Program and its reconciliation strategy, mirroring the Government Digital Strategic program. He highlighted this as a positive step towards aligning with the President's vision.
-
-🟩
-
-The National Ceylon Tigitional Strategic Program Immediated and the reconciliation strategy has been imitated in India, "said Minister of Technology Kanaka Herath.
-
-He was speaking at the Meeting of Information on the Waters Edge Hotel.
-
-He also said that the country is a good sign to follow the President's vision.
-
-◼️
-
-[Data](articles/cdc7de84.json)
-
-[Extended Data](ext_articles/cdc7de84.ext.json)
-
----
-
-### India helps rescue Sri Lankan fishermen from distressed fishing trawler
-
-*2024-08-23 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101438/india-helps-rescue-sri-lankan-fishermen-from-distressed-fishing-trawler-) · `en`
-
-The Maritime Rescue Coordination Centre (MRCC) Colombo at Navy Headquarters, in collaboration with MRCC Chennai, has coordinated the successful rescue of four fishermen from a distressed Sri Lankan fishing trawler.
-
-The fishermen, stranded approximately 447 nautical miles off Point Pedro on Sri Lanka’s east coast, were rescued by an Indian fishing trawler directed by MRCC Chennai, the navy said.
-
-The local fishing trawler was reported to have left the Point Pedro Fisheries Harbour with 04 fishermen on 07 July 2024 for a fishing voyage. Meanwhile, the Department of Fisheries and Aquatic Resources has alerted MRCC Colombo established at the Navy Headquarters to assist the crew members onboard as their fishing trawler was in distress.
-
-In response, MRCC Colombo sought assistance from MRCC Chennai to rescue the stranded fishing trawler, according to Sri Lanka Navy.
-
-...
-
-[Data](articles/1e5ccfbd.json)
-
-[Extended Data](ext_articles/1e5ccfbd.ext.json)
-
----
-
-### State Minister defends pre-poll subsidies as election watchdog voices concern
-
-*2024-08-23 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101437/state-minister-defends-pre-poll-subsidies-as-election-watchdog-voices-concern) · `en`
-
-The People’s Action for Free and Fair Elections (PAFFREL) has expressed concerns over the government’s decisions to provide subsidies for the general public following the announcement of the presidential election.
-
-Executive Director of PAFFREL Rohana Hettiarachchi stated that such actions are “unacceptable” during the pre-election period, and that the Election Commission has been formally notified of the issue.
-
-In response, Minister of State for Finance, Ranjith Siambalapitiya, clarified that the concessions are not intended to secure votes. He emphasized that the subsidies were introduced to address economic challenges faced by the public.
-
-However, Hettiarachchi pointed out that, if essential, such measures should be implemented after the election to ensure fairness in the electoral process.
-
-◼️
-
-[Data](articles/7da3cfd7.json)
-
-[Extended Data](ext_articles/7da3cfd7.ext.json)
-
----
-
-### Two missing two boats in Bentara River
-
-*2024-08-23 08:38:04* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තර-ගඟේ-බෝට්ටු-දෙකක්-ගැටී-දෙදෙනෙක්-අතුරුදන්/11-411514) · `si`
-
-In an accident involving two tourist boats in Sri Lanka, two individuals went missing. The incident occurred near the Bentara River when one boat from a hotel in Aluthgama collided with another near Baratagama. The victims' identities remain unknown as they were found in the Benthara area. The police, supported by the navy, are investigating the cause of the accident near Bangawa, with further inquiries ongoing from Aluthgama and Bentara Police Stations.
-
-🟩
-
-Two persons have been disappeared in an accident that two bandage tourists boats were confronted with two tourist boats.
-
-A tourist boat in a tourist hotel in Aluthgama has collided with a tourist boat in the Baratagama and the Bharama Police.
-
-The victim was found in the boat from a tourist hotel in Benthara area and the identity had not been identified.
-
-Police say that the accident had occurred in front of the Bangawa area near Bangalawa area near the Bungalow.
-
-The Navy has informed the disappearance of the disappearance with the support of the hotel boats and the hotel.
-
-Police are conducting further investigations from Aluthgama and Bentara Police Stations.
-
-◼️
-
-[Data](articles/4e6c728e.json)
-
-[Extended Data](ext_articles/4e6c728e.ext.json)
-
----
-
-### Retired Major's home is found in life bullets
-
-*2024-08-23 08:31:12* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමක-මේජර්ගේ-නිවසින්-ජීව-උණ්ඩ-සොයා-ගනියි/11-411513) · `si`
-
-A retired Army Major's home was discovered to contain a significant stash of live ammunition during a police raid. The investigation revealed 125 bullets, believed to be part of a larger cache. Although the Major was not present at the time of the search, authorities suspect he may have been involved in storing the ammunition. SSP Lucky Randeniya is leading the inquiry.
-
-🟩
-
-The murder investigation unit says that a large number of live bullets hidden hidden from the House of Army Major.
-
-The police seized 125 of the 25 decimal production livelihoods of the 25 decimal number of 22 in the house.
-
-According to information received about a person with firearms and bullet bullets, Matugama could have found the stock of live bullets in a loud army Major of the House.
-
-Police say that the pensioners Army Major was not at home at the time of the police officers.
-
-The Director of the Assistant Criminal Investigation Division (SSP Lucky Randeniya) is conducting investigations.
-
-◼️
-
-[Data](articles/07e939ef.json)
-
-[Extended Data](ext_articles/07e939ef.ext.json)
-
----
-
-### Presidential election questions about giving relief
-
-*2024-08-23 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200229) · `si`
-
-PAFFREL warns against government accepting public subsidies post-election, citing potential misuse for vote acquisition. However, its director suggests relief measures could be implemented if needed to address economic issues during the campaign period.
-
-🟩
-
-The PAFFREL organization says that when the government has been announced, the government cannot accept subsidies to the public.
-
-The Executive Director of the Executive Director Rohana Hettiarachchi said that the Election Commission had informed the election.
-
-Meanwhile, government minister Ranjith Siyambalapitiya said the people have not provided these concessions with the aim of obtaining votes.
-
-However, the Executive Director of PAFFREL Rohana Hettiarachchi said that if it was necessary to handle the economic problems of the people, it was possible to take relief to the presidential election.
-
-◼️
-
-[Data](articles/67d6c32b.json)
-
-[Extended Data](ext_articles/67d6c32b.ext.json)
-
----
-
-### Suspect arrested for looting three-wheelers - mobile phones and gold items
-
-*2024-08-23 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200228) · `si`
-
-A 27-year-old man from Rajagiriya, suspected of looting three-wheelers and stealing mobile phones and gold items, was arrested by the Welikada Police. The arrest came after he was found with weapons during a property search. Investigations link him to robberies in several areas including Peliyagoda, Kelaniya, Kadawatha, Borella, and Mirihana. Some stolen goods were recovered, and further inquiries are being conducted by the Western Province South Crimes Division.
-
-🟩
-
-Police have arrested a suspended property boiling suspect and other wheeler weapons in the pretext of rental travel.
-
-The suspect was arrested at the Welikada police division of the Welikada Police Division and is a 27 year old resident of the Obeysekarapura area in Rajagiriya.
-
-Investigations have revealed that the suspect had launched three-wheelers, mobile phones, bore, Borella and Mirihana areas Peliyagoda, Kelaniya, Kadawatha, Borella and Mirihana.
-
-Police said that part of the robbery had been recovered.
-
-Western Province South Crimes Division is conducting further investigations.
-
-◼️
-
-[Data](articles/39477d75.json)
-
-[Extended Data](ext_articles/39477d75.ext.json)
 
 ---

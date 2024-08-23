@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 22:10:32**
+As of **2024-08-23 22:21:35**
 
 ## Newspaper Stats
 
-*Scraped **42,300** Articles*
+*Scraped **42,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailyftlk | 2,742
 adalk | 3,899
 dailymirrorlk | 4,733
 adaderanalk | 4,961
-tamilmirrorlk | 5,488
+tamilmirrorlk | 5,489
 virakesarilk | 6,723
-adaderanasinhalalk | 7,225
+adaderanasinhalalk | 7,227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,299 (100.0%) of 42,300 articles have been extended.
+42,300 (100.0%) of 42,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### ஜனாதிபதி வேட்பாளர்களின் மாத வருமானம் வெளியானது
+
+*2024-08-23 22:00:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களின்-மாத-வருமானம்-வெளியானது/175-342694) · `ta`
+
+இதில் அதிக மாத வருமானம் பெரும் வேட்பாளராக திலித் ஜயவீரவும், குறைந்த மாத வருமானம் கொண்ட வேட்பாளராக ரணில் விக்கிரமசிங்கவும் அறிவிக்கப்பட்டுள்ளனர்.
+
+இலஞ்சம், ஊழல் மற்றும் சொத்துக்களை புலனாய்வு செய்வதற்கான ஆணைக்குழு வெளியிட்டுள்ள தகவலுக்கமைய இந்த தகவல் வெளியாகி உள்ளது.
+
+இரண்டாவது அதிகூடிய மாதாந்த வருமானம் சட்டத்தரணி விஜேதாச ராஜபக்ஷ எனவும் அவரது மாத வருமானம் 13 இலட்சத்து 45 ஆயிரம் ரூபாய் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்கள் வேட்புமனுத் தாக்கல் செய்யும் போது தேர்தல் ஆணைக்குழுவிடம் தமது சொத்துக்கள் மற்றும் கடன்களை சமர்ப்பிக்க வேண்டிய முதல் சந்தர்ப்பம் இதுவாகும். R
+
+◼️
+
+[Data](articles/0f2907aa.json)
+
+---
+
+### මාස 5කදී පොලීසිය කළ මෙහෙයුමෙන් කොටුවූ පිරිස 3000 ඉක්මවයි
+
+*2024-08-23 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200261) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා ගතවූ මාස 05 තුළ සිදුකළ මෙහෙයුම්වලින් පුද්ගලයින් 3,400 ඉක්මවූ පිරිසක් අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+දිවයිනම ආවරණය වන පරිදි පසුගිය මාර්තු මස 19 වනදා සිට විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා මෙම වැටලීම් සිදුකර තිබුණි.
+
+ඒ අනුව සංවිධානාත්මක අපරාධ සිදුකිරීම සඳහා සෘජුව සහාය දැක්වීම, අපරාධ සැලසුම් කිරීම සහ ඊට ආධාර අනුබල ලබාදීම යනාදිය සම්බන්ධයෙන් සැකකරුවන් සහ සැකකාරියන් 3,411 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+ඊයේ (22) දිනයේ ද සැකකරුවන් 38 දෙනෙකු කොළඹ අපරාධ කොට්ඨාශය සහ බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාශය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+මෙම සැකකරුවන් සම්බන්ධයෙන් රැඳවුම් නියෝග ලබාගෙන වැඩිදුර විමර්ශන සිදුකරන බව පොලිස් මූලස්ථානය පවසයි.
+
+◼️
+
+[Data](articles/1fc3b4bb.json)
+
+---
+
+### මෝදි යුක්‍රේනයේ නිල සංචාරයක
+
+*2024-08-23 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200260) · `si`
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි නිල සංචාරයක් සඳහා යුක්‍රේනයට පැමිණ තිබේ.
+
+ඒ නිල සංචාරයක් සඳහා යුක්‍රේනයට පැමිණි පළමු ඉන්දීය අග්‍රාමාත්‍යවරයා බවට පත්﻿වෙමිනි.
+
+පෝලන්තයේ නිල සංචාරය අවසන් කරමින් මෙලෙස යුක්‍රේනයට පැමිණි ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි අද යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කි සමග ද්වී පාර්ශ්වික සාකච්ඡා පැවැත්වීමට නියමිතය.
+
+රුසියානු යුක්‍රේන යුද ගැටුම් සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා ඉන්දීය අග්‍රාමාත්‍යවරයා මීට සති 06කට පෙර රුසියාවේ ද සංචාරයක නිරත වුණි.
+
+◼️
+
+[Data](articles/4b1ad49e.json)
+
+---
 
 ### Sri Lanka starts issuance of train tickets online
 
@@ -49,6 +105,8 @@ Speaking about the initiative, the Ssecretary of the Ministry of Transport and H
 ◼️
 
 [Data](articles/a99ae7fb.json)
+
+[Extended Data](ext_articles/a99ae7fb.ext.json)
 
 ---
 
@@ -2291,93 +2349,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/ebc3d296.json)
 
 [Extended Data](ext_articles/ebc3d296.ext.json)
-
----
-
-### England in front of 23 runs
-
-*2024-08-23 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200227) · `si`
-
-In the first Test between Sri Lanka and England, England scored 259 runs losing 6 wickets in their first innings, leading by 23 runs over Sri Lanka's 236 runs. Jemi Smith ended the day not out, and Dominic Sibley made 4 runs. The match was halted on the first day due to rain, interrupting play after lunch. Asitha Fernando and Prabath Jayasuriya were notable performers for Sri Lanka, taking crucial wickets.
-
-🟩
-
-The first innings were the first innings of the first Test between Sri Lanka and England, England scored 259 runs for the loss of 6 wickets.
-
-Accordingly, they are 23 runs ahead of Sri Lanka's first innings.
-
-Jemi Smith was remained in the wicket by completing the day and the trees Atkinson scored four runs.
-
-England were unbeaten on 22nd while the match was stopped for the first day of the match.
-
-However, the race was interrupted by the contest yesterday morning, resulting in the event of a lunch.
-
-Asitha Fernando won Ben Dakkets (18 marks), while the match began in England, and the acting leader Ollie.
-
-Universal Fernando also attacked her wicket hunt and took the stabilized opening batsman Dan Laurens' wicket.
-
-Accordingly, Sri Lanka was able to turn all three batsmen in 67 runs.
-
-However, Joe Root and Harry Brout and Harry Brouc had a 58 runs to 125 innings to 125 innings.
-
-It was unique to Sri Lanka's innings to 42 runs.
-
-...
-
-[Data](articles/93893738.json)
-
-[Extended Data](ext_articles/93893738.ext.json)
-
----
-
-### Presidential candidate into the livestock
-
-*2024-08-23 07:26:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අපේක්ෂකයෙක්-ජිවිතක්ෂයට/11-411511) · `si`
-
-Doctor Ilias, a seasoned politician and former presidential candidate, passed away at age 80. Known for his work with refugees during the war, he contested for presidency in 2010, 2015, and 2019. His family is mourning his loss.
-
-🟩
-
-The relatives of the family have died on the 22nd evening while receiving treatment as an independent candidate to contest the Presidential Evidence.
-
-80 But Beurus Mohamed Ilias was a doctor and was a politician who was known by Doctor Ilias.
-
-He was living in Puttalam to Puttalam to Puttalam to Puttalam with the Muslims who were chased by the LTTE due to the war.
-
-Illiaas, who is accustomed to politics from the 1980s, came to the Presidential Eldhajiant Cylinco.
-
-He was contesting to the North Western Provincial Council in 1988, he had come to Puttalam from Puttalam to Puttalam to Puttalam from Puttalam to Puttalam with nearly 3300 refugees.
-
-He had handed over nominations for the fourth time when he had come to presidents in 2010,2015,2019.
-
-The father of three children is 80 as a doctor in the profession.
-
-Family relatives say they have not been confused yet on his funeral.
-
-◼️
-
-[Data](articles/2d2315e5.json)
-
-[Extended Data](ext_articles/2d2315e5.ext.json)
-
----
-
-### Gazette issued on revised water tariffs
-
-*2024-08-23 06:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101435/gazette-issued-on-revised-water-tariffs) · `en`
-
-The Gazette notification related to the revision of water tariffs has been issued by the Ministry of Water Supply and Estate Infrastructure Development.
-
-Accordingly, the new water tariffs are to be implemented effective from August 21, 2024.
-
-On August 13, the Cabinet of Ministers granted approval for the National Water Supply and Drainage Board (NWSDB) to reduce the water tariffs based on the tariff formula.
-
-Accordingly, the water tariff of domestic users has been reduced by 7%, government hospitals by 4.5%, schools and religious places of worship by 6.3%.
-
-◼️
-
-[Data](articles/9db151f4.json)
-
-[Extended Data](ext_articles/9db151f4.ext.json)
 
 ---

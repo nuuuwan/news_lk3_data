@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 16:53:57**
+As of **2024-08-23 17:06:35**
 
 ## Newspaper Stats
 
-*Scraped **42,265** Articles*
+*Scraped **42,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 4,956
 tamilmirrorlk | 5,488
 virakesarilk | 6,717
-adaderanasinhalalk | 7,212
+adaderanasinhalalk | 7,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,262 (100.0%) of 42,265 articles have been extended.
+42,265 (100.0%) of 42,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### මැතිවරණ පැමිණිලි තවදුරටත් ඉහළට
+
+*2024-08-23 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200245) · `si`
+
+ජනාධිපතිවරණයට අදාළව ලැබී ඇති පැමිණිලි සංඛ්‍යාව තවදුරටත් ඉහළ යමින් තිබේ.
+
+එම කොමිෂන් සභාව පෙන්වා දෙන්නේ ගතවූ පැය 24ක කාලය තුළ පමණක් මැතිවරණ පැමිණිලි 65ක් වාර්තා වී ඇති බවත් එය මැතිවරණ නීති උල්ලංඝනය කිරීම් බවයි.
+
+තවද පසුගිය ජූලි 31 වැනිදා සිට ඊයේ (22) දක්වා ගතවූ කාලය තුළ මැතිවරණ පැමිණිලි 836ක් වාර්තා වී වූ බවද මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+◼️
+
+[Data](articles/f7736261.json)
+
+---
 
 ### Digital election system can be tested in upcoming LG polls – President
 
@@ -49,6 +65,8 @@ The meeting, themed “Coding the Nation’s Future,” featured a notable welco
 ...
 
 [Data](articles/11de9e3a.json)
+
+[Extended Data](ext_articles/11de9e3a.ext.json)
 
 ---
 
@@ -105,6 +123,8 @@ Thalatha Athukorala, who was elected to the Parliament representing the Samagi J
 ...
 
 [Data](articles/bace42a2.json)
+
+[Extended Data](ext_articles/bace42a2.ext.json)
 
 ---
 
@@ -2225,33 +2245,5 @@ We have carried out disciplinary action against MP Ali Zahir Maulana. We have be
 [Data](articles/4ae6be5c.json)
 
 [Extended Data](ext_articles/4ae6be5c.ext.json)
-
----
-
-### M people will vote for the candidate we refer to - MA Sumanthiran confirms
-
-*2024-08-23 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191745) · `ta`
-
-MA Sumanthiran, a Sri Lanka Tamil National Alliance (TNA) parliamentarian, confirmed that they will vote for a specific candidate but did not disclose who. The TNA has not yet decided on supporting any presidential candidate, stating they will announce their decision a week before the election. They emphasized that the Tamil community will participate in the election, contrary to previous boycotts. Additionally, the TNA has taken disciplinary action against the Tamil Public Advance, indicating a lack of cooperation.
-
-🟩
-
-We do not support the Tamil general candidate. We have carried out disciplinary action against him. Sri Lanka Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that we will vote for the candidate we mention.
-
-He was responding to questions raised by journalists during a media briefing held in Colombo on Thursday (22).
-
-The TNA has not yet decided on who will support the presidential election. There is no need to rush. We will announce our resolution a week before the referendum.
-
-The Tamil people are not going to accept the fact that a party has to boycott the presidential election. They will mention the boycott of the election in every election. But people do not ignore the election. This time it is not going to boycott the election.
-
-We are not cooperating with the Tamil Public Advance. He has carried out disciplinary action against him.
-
-In the last elections, we have announced our position in the last moment.. So this time, we will vote for the candidate we refer to.
-
-◼️
-
-[Data](articles/01477249.json)
-
-[Extended Data](ext_articles/01477249.ext.json)
 
 ---

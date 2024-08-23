@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 06:04:05**
+As of **2024-08-23 07:03:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,176 (100.0%) of 42,184 articles have been extended.
+42,182 (100.0%) of 42,184 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -378,6 +378,8 @@ Patients with an early or moderate stage of osteoarthritis tend to seek relief t
 
 [Data](articles/9d9f3558.json)
 
+[Extended Data](ext_articles/9d9f3558.ext.json)
+
 ---
 
 ### HUTCH 2X offers savings of up to 60% on home broadband and mobile data bills
@@ -393,6 +395,8 @@ HUTCH 2X combines exceptional value together with high-quality data experience. 
 ...
 
 [Data](articles/d5e437c0.json)
+
+[Extended Data](ext_articles/d5e437c0.ext.json)
 
 ---
 
@@ -410,6 +414,8 @@ Test driving the ATVs during his official visit to the Australian Border Force h
 
 [Data](articles/50f65e3b.json)
 
+[Extended Data](ext_articles/50f65e3b.ext.json)
+
 ---
 
 ### Maliban legacy continues with A.G. Kumudika Fernando as new chairperson
@@ -421,6 +427,8 @@ The Maliban Group – a household name in Sri Lanka with a 70-year heritage in q
 ...
 
 [Data](articles/e69cbc94.json)
+
+[Extended Data](ext_articles/e69cbc94.ext.json)
 
 ---
 
@@ -435,6 +443,8 @@ Consequently, both indices moved downwards. The All Share Price Index went down 
 ...
 
 [Data](articles/5643be41.json)
+
+[Extended Data](ext_articles/5643be41.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 11:07:38**
+As of **2024-08-23 11:21:31**
 
 ## Newspaper Stats
 
-*Scraped **42,216** Articles*
+*Scraped **42,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,553
 dailyftlk | 2,742
 adalk | 3,888
 dailymirrorlk | 4,733
-adaderanalk | 4,945
-tamilmirrorlk | 5,476
+adaderanalk | 4,947
+tamilmirrorlk | 5,477
 virakesarilk | 6,712
 adaderanasinhalalk | 7,204
 
@@ -26,51 +26,115 @@ adaderanasinhalalk | 7,204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,212 (100.0%) of 42,216 articles have been extended.
+42,216 (100.0%) of 42,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### පාපැදියේ ගැටී යතුරුපැදිකරුට දිවි අහිමි වෙයි
+### அங்கஜன் , துஷ்மந்த ரணிலுக்கு ஆதரவு
+
+*2024-08-23 11:00:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்கஜன்-துஷ்மந்த-ரணிலுக்கு-ஆதரவு/175-342669) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் சிரேஷ்ட உப தலைவர் பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் மற்றும் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் முன்னாள் பதில் பொதுச் செயலாளர் சாரதி  துஷ்மந்த ஆகியோர்  எதிர்வரும் ஜனாதிபதி தேர்தலில் சுயேட்சையாகப் போட்டியிடும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தங்களது ஆதரவினை வழங்கினர் .
+
+சற்று முன்னர் ஃப்ளாவர் வீதியில் அமைந்துள்ளது தேர்தல் காரியாலயத்தில் ஜனாதிபதி  ரணில் விக்கிரமசிங்கவைச் சந்தித்த ஸ்ரீலங்கா சுதந்திரக் கட்சியின் இரு தலைவர்களும் ஒன்றிணைந்து ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவை வெற்றிபெறச் செய்யவுள்ளனர் .
+
+...
+
+[Data](articles/8e59e108.json)
+
+---
+
+### Motorcy falls off to death
 
 *2024-08-23 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200233) · `si`
 
-යතුරුපැදියක් සහ පාපැදියක් එකිනෙක ගැටීමෙන් සිදුවූ අනතුරකින් තරුණයෙක් මියගොස් තවත් තිදෙනෙකුට බරපතළ තුවලා සිදුවී තිබේ.
+In a tragic accident in the Pelwatta area, a 23-year-old motorcyclist and a cyclist died, while another cyclist was seriously injured. The incident involved four individuals and occurred near the Buttala Police station. The victims were taken to local hospitals for treatment.
 
-වැල්ලවාය මොනරාගල ප්‍රධාන මාර්ගයේ බුත්තල පොලිස් බලප්‍රදේශයට අයත් පැල්වත්ත ප්‍රදේශයේදී අනතුර සිදුවී ඇත.
+🟩
 
-අනතුරෙන් මියගොස් ඇත්තේ යතුරුපැදියේ ගමන් ගත් වයස අවුරුදු 23ක තරුණයෙකි.
+A young man and a bicycle were killed and three others have been killed in a crash.
 
-මෙම අනතුර සිදුවන අවස්ථාවේ යතුරුපැදියේ මෙන්ම පාපැදියේද දෙදෙනෙකු සිට තිබේ.
+The accident occurred in the Pelwatta area belonging to the Buttala Police area on the Wellawaya Moneragala.
 
-තුවාලකරුවන් බුත්තල ප්‍රාදේශීය රෝහලට ඇතුළත් කෙරුණු අතර අසාද්‍ය තත්ත්වයෙන් පසුවූ පාපැදියේ ගමන් කළ දෙදෙනා වැඩිදුර ප්‍රතිකාර සඳහා මොනරාගල දිස්ත්‍රික් මහ රෝහලට මාරු කෙරුණි.
+The deceased has been identified as a 23 year old youth from the motorcycle.
+
+The motorcycle and two civilians were present at the time of the accident.
+
+The injured were admitted to the Buttala Regional Hospital while the two trajected cyclists were transferred to the Kandy General Hospital for further treatment.
 
 ◼️
 
 [Data](articles/fda1d93b.json)
 
+[Extended Data](ext_articles/fda1d93b.ext.json)
+
 ---
 
-### තවත් මන්ත්‍රීවරුන් දෙදෙනෙක් රනිල්ට
+### LG polls expected soon after Presidential Election – Mahinda Deshapriya
+
+*2024-08-23 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101442/lg-polls-expected-soon-after-presidential-election-mahinda-deshapriya) · `en`
+
+Mahinda Deshapriya, Chairman of the National Delimitation Committee for Local Government institutions, hailed the Supreme Court’s decision regarding the postponement of 2023 Local Government Elections as a victory for the people.
+
+Speaking to the media in Anuradhapura, Deshapriya emphasized that delaying the election was wrong, and the court’s acknowledgment of this fact is an important step toward justice.
+
+Furthermore, Deshapriya said he believes that the Local Government Election will be held after the 2024 presidential election.
+
+He also noted, “This decision is not surprising, as the Supreme Court has consistently ruled that postponing or failing to hold elections violates the rights of the people. I see this as justice finally being served, albeit delayed.”
+
+“Accordingly, we believe that the election commission will act to hold this election this year as soon as the presidential election is over”, he added.
+
+◼️
+
+[Data](articles/0d68f509.json)
+
+---
+
+### Two SLFP MPs decide to support President Ranil in presidential poll
+
+*2024-08-23 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101441/two-slfp-mps-decide-to-support-president-ranil-in-presidential-poll) · `en`
+
+Sri Lanka Freedom Party (SLFP) MPs Sarathi Dushmantha and Angajan Ramanathan have expressed their support for incumbent President Ranil Wickremesinghe in the upcoming Presidential Election.
+
+MPs Dushmantha and Ramanathan represented the SLFP’s faction led by former President Maithripala Sirisena.
+
+Kegalle District MP Duahmantha Mithrapala and Jaffna District MP Angajan Ramanathan met President Wickremesinghe at his political office on Flower Road, Colombo this morning and have pledged their support for his victory in the upcoming presidential election.
+
+Ramanathan is the SLFP’s former Senior Vice Chairman while Mithrapala is the former Acting General Secretary of the SLFP (Maithripala faction).
+
+◼️
+
+[Data](articles/0955303e.json)
+
+---
+
+### Two other MPs to Ranil
 
 *2024-08-23 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200232) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන සාරතී දුෂ්මන්ත මහතා සහ අංගජන් රාමනාදන් මහතා ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කර තිබේ.
+MPs Sarahi Lammantha and Angan Ramanathan support Ranil Wickremesinghe for president. Lammantha, newly appointed acting secretary, and Ramanathan represent SLFP Maithree. Wickremesinghe's office in Colombo's Flower Road is also mentioned.
 
-ඔවුන් දෙදෙනා ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රී පාර්ශ්වය නියෝජනය කළ මන්ත්‍රීවරයන් දෙදෙනෙකි.
+🟩
 
-සාරතී දුෂ්මන්ත මහතා පසුගියදා ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන ලේකම් ලෙස පත් කෙරුණි.
+Members of Parliament Sarahi Lammantha and Angan Ramanathan have supported President Ranil Wickremesinghe in the next presidential election.
 
-ඒ ශ්‍රීලනිපයේ මහලේකම් ධුරයේ කටයුතු කළ දයාසිරි ජයසේකර මහතාට එම තනතුර අහිමිවීමත් සමගය.
+The two were two MPs who represented the Sri Lanka Freedom Party (SLFP) Maithree.
 
-සාරතී දුෂ්මන්ත කෑගල්ල දිස්ත්‍රික්කය නියෝජනය කරන මන්ත්‍රීවරයෙකු වන අතර අංගජන් රාමනාදන් මහතා යාපනය නියෝජනය කරයි.
+Mr. Sarahy Dreamantha was appointed acting secretary recently.
 
-කොළඹ මල් පාරේ පිහිටි ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලයේදී ජනාධිපතිවරයා හමුවී ඇති ඔවුන් දෙදෙනා සිය සහාය ලබාදෙන බව දැනුම්දී තිබේ.
+Dayasiri Jayasekera who was the Secretary General of SLFP General Secretary to recover the position.
+
+Sarahy Ramamantha Kegalle District represents Jaffna district.
+
+The President has also been found in the political office of President Ranil Wickremesinghe on Flower Road, Colombo.
 
 ◼️
 
 [Data](articles/4819fbe6.json)
+
+[Extended Data](ext_articles/4819fbe6.ext.json)
 
 ---
 
@@ -1172,6 +1236,8 @@ In a bold move to face the chellenges posed by escalating climate crisis, Sri La
 
 [Data](articles/0667d371.json)
 
+[Extended Data](ext_articles/0667d371.ext.json)
+
 ---
 
 ### Multitude of contenders and symbols; SL population; an academic let down
@@ -1183,6 +1249,8 @@ As always, Sri Lanka lives up to its descriptive slogan ‘A land like no other�
 ...
 
 [Data](articles/522a1f11.json)
+
+[Extended Data](ext_articles/522a1f11.ext.json)
 
 ---
 
@@ -2225,69 +2293,5 @@ The innings was a special reason for the innings of the innings and a greater co
 [Data](articles/96a37131.json)
 
 [Extended Data](ext_articles/96a37131.ext.json)
-
----
-
-### A digital railway ticket from today
-
-*2024-08-22 16:39:31* · [`adalk`](https://www.ada.lk/breaking_news/ඩිජිටල්-දුම්රිය-ප්‍රවේශ-පත්‍රයක්-අද-සිට/11-411506) · `si`
-
-Today, the Railways Department launched a digital railway ticket system. Tickets can be bought online at www.preadsha.lk, where a QR code is generated. After payment, tickets are sent via SMS or email. This QR code must be shown at the train or station for travel.
-
-🟩
-
-The Railways Department has been introduced to introduce a digital railway ticket today.
-
-There is a QR code that can be purchased through www.preadsha.lk website www.preadsha.lk.
-
-You will enable the relevant website to get the relevant ticket via SMS or EMAIL message once you pay for the ticket.
-
-The Railway Department says that the QR code from the train or the railway station at the railway station, says the Railway Department.
-
-◼️
-
-[Data](articles/d20f718e.json)
-
-[Extended Data](ext_articles/d20f718e.ext.json)
-
----
-
-### This will increase the basic salary of the Public Service
-
-*2024-08-22 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200210) · `si`
-
-Udaya Seneviratne, Chairman of the Public Service Expert Committees Specialist Committee, announced an increase in the basic salary for public servants.
-
-🟩
-
-The Chairman of the Public Service, the Chairman of the Public Service, the Chairman of the Public Service Expert Committees Specialist Committee Chairman Udaya Seneviratne said.
-
-◼️
-
-[Data](articles/b7df07a9.json)
-
-[Extended Data](ext_articles/b7df07a9.ext.json)
-
----
-
-### Cabinet approves basic salary increase for public servants from 2025
-
-*2024-08-22 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/101428/cabinet-approves-basic-salary-increase-for-public-servants-from-2025) · `en`
-
-The Chairman of the expert committee on public service salary disparities, Mr. Udaya Seneviratna, announced that the Cabinet has approved a basic salary increase for all public servants from January 2025.
-
-He stated that the salary increase ranges from 24% for lower grades and 24% to 50%+ for higher positions, based on qualifications, experience, and current roles, the President’s Media Division (PMD) reported.
-
-Due to current inflation and economic conditions, Mr. Seneviratna announced that the Cabinet has approved increasing the cost of living allowance to Rs. 25,000 for all public servants starting January 2025.
-
-Last week, the Cabinet of Ministers granted approval for the proposed salary revisions across all sectors of the public service.
-
-An expert committee, chaired by former Presidential Secretary Udaya Seneviratne, was previously appointed to prepare a report with recommendations for implementing these proposals in the 2025 budget.
-
-...
-
-[Data](articles/3398ea6a.json)
-
-[Extended Data](ext_articles/3398ea6a.ext.json)
 
 ---

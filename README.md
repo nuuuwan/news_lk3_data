@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 08:16:18**
+As of **2024-08-23 08:26:11**
 
 ## Newspaper Stats
 
-*Scraped **42,197** Articles*
+*Scraped **42,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,41 +14,65 @@ bbccomsinhala | 390
 colombotelegraphcom | 404
 islandlk | 2,449
 economynextcom | 2,553
-dailyftlk | 2,741
+dailyftlk | 2,742
 adalk | 3,886
 dailymirrorlk | 4,733
 adaderanalk | 4,942
-tamilmirrorlk | 5,473
+tamilmirrorlk | 5,474
 virakesarilk | 6,710
-adaderanasinhalalk | 7,199
+adaderanasinhalalk | 7,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,194 (100.0%) of 42,197 articles have been extended.
+42,197 (100.0%) of 42,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### ත්‍රීරෝද රථ - ජංගම දුරකථන සහ රන් භාණ්ඩ කොල්ලකන සැකකරු අත්අඩංගුවට
+### ජනපතිවරණය මැද ජනතාවට සහන දීම ගැන ප්‍රශ්න කරයි
+
+*2024-08-23 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200229) · `si`
+
+ජනාධිපතිවරණය ප්‍රකාශයට පත්කර ඇති අවස්ථාවක රජය විසින් ජනතාව වෙත සහනාධාර ලබාදීම පිළිගත නොහැකි බව පැෆ්රල් සංවිධානය පවසයි.
+
+එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පැවසුවේ ඒ සම්බන්ධයෙන් මැතිවරණ කොමිසම දැනුම්වත් කිරීමට කටයුතු කර ඇති බවය.
+
+මේ අතර  මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසුවේ ඡන්ද ලබාගැනීමේ අරමුණින් ජනතාවට මෙම සහන ලබාදී නොමැති බවය.
+
+කෙසේ වෙතත් ජනතාවගේ ආර්ථික ගැටලු විසඳීම සඳහා සහනාධාර ලබාදීමට අවශ්‍යව තිබුණේ නම් එය ජනාධිපතිවරණයෙන් පසු සිදු කිරීමට හැකි බව පැෆ්රල් සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පැවසීය.
+
+◼️
+
+[Data](articles/67d6c32b.json)
+
+---
+
+### Suspect arrested for looting three-wheelers - mobile phones and gold items
 
 *2024-08-23 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200228) · `si`
 
-කුලී ගමන් යන මුවාවෙන් ත්‍රීරෝද රථවලට නැඟ අතරමගදී තියුණු ආයුධ පෙන්වා ත්‍රීරෝද රථ ඇතුළු දේපොළ කොල්ලන සැකකරුවෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A 27-year-old man from Rajagiriya, suspected of looting three-wheelers and stealing mobile phones and gold items, was arrested by the Welikada Police. The arrest came after he was found with weapons during a property search. Investigations link him to robberies in several areas including Peliyagoda, Kelaniya, Kadawatha, Borella, and Mirihana. Some stolen goods were recovered, and further inquiries are being conducted by the Western Province South Crimes Division.
 
-වැලිකඩ පොලිස් වසමේ අරුණෝදය මාවතේදී සැකකරු අත්අඩංගුවට ගෙන ඇති අතර ඔහු 27 හැවිරිදි රාජගිරිය ඔබේසේකරපුර ප්‍රදේශයේ පදිංචිකරුවෙකි.
+🟩
 
-අදාළ සැකකරු පෑලියගොඩ, කැලණිය, කඩවත, බොරැල්ල සහ මිරිහාන යන ප්‍රදේශවලදී ත්‍රීරෝද රථ, ජංගම දුරකථන, රන් භාණ්ඩ ආදිය කොල්ලකා ඇති බව විමර්ශනවලදී හෙළිවී ඇත.
+Police have arrested a suspended property boiling suspect and other wheeler weapons in the pretext of rental travel.
 
-පොලීසිය සඳහන් කළේ එසේ කොල්ලකන ලද දේපොළවලින් කොටසක් මේ වනවිට සොයාගෙන ඇති බවය.
+The suspect was arrested at the Welikada police division of the Welikada Police Division and is a 27 year old resident of the Obeysekarapura area in Rajagiriya.
 
-බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසය සිද්ධිය පිළිබඳ වැඩිදුර විමර්ශන සිදුකරයි.
+Investigations have revealed that the suspect had launched three-wheelers, mobile phones, bore, Borella and Mirihana areas Peliyagoda, Kelaniya, Kadawatha, Borella and Mirihana.
+
+Police said that part of the robbery had been recovered.
+
+Western Province South Crimes Division is conducting further investigations.
 
 ◼️
 
 [Data](articles/39477d75.json)
+
+[Extended Data](ext_articles/39477d75.ext.json)
 
 ---
 
@@ -67,6 +91,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/ebc3d296.json)
+
+[Extended Data](ext_articles/ebc3d296.ext.json)
 
 ---
 
@@ -106,27 +132,35 @@ It was unique to Sri Lanka's innings to 42 runs.
 
 ---
 
-### ජනාධිපති අපේක්ෂකයෙක් ජිවිතක්ෂයට
+### Presidential candidate into the livestock
 
 *2024-08-23 07:26:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අපේක්ෂකයෙක්-ජිවිතක්ෂයට/11-411511) · `si`
 
-මෙවර ජනාධිපතිවර්ණයට තරග වැදිම සදහා ස්වාධින අපේක්ෂකයකු ලෙස ඉදිරිපත් වී සිටි අයිදුරුස් මොහොමඩ් ඉල්යාස් මහතා පුත්තලම මූලික  රෝහලේ  ප්‍රතිකාර ලබමින් සිටියදී 22 දින සවස මරණයට පත්ව ඇති බව පවුලේ ඥාතින් පවසයි.
+Doctor Ilias, a seasoned politician and former presidential candidate, passed away at age 80. Known for his work with refugees during the war, he contested for presidency in 2010, 2015, and 2019. His family is mourning his loss.
 
-80 වියැත් අයිදුරුස් මොහොමඩ් ඉල්යාස් මහතා වෛද්‍යවරයකු වන අතර ඔහු ඩෝක්ටර් ඉල්යාස් නමින් ප්‍රසිද්ධ සිටි දේශපාලඥයකු විය.
+🟩
 
-ඔහු යුද්ධය හේතුවෙන් එල්.ටී.ටී.ඊ සංවිධානය මගින් පලවා හැරි මුස්ලිම් ජනයා සමග  යාපනයෙ සිට පුත්තලමට පැමින පුත්තලමේ පදිංචි වුවෙකී.
+The relatives of the family have died on the 22nd evening while receiving treatment as an independent candidate to contest the Presidential Evidence.
 
-1980 දශකයෙ සිට දේශපාලනයට අවතිර්ණ වී ඇති ඉල්යාස් මහතා මෙවර ජනාධිපතිවර්ණයට ඉදිරිපත්ව සිටියෙ  ඉන්ජක්ෂන් සිලින්ජරය ලකුණිනි.
+80 But Beurus Mohamed Ilias was a doctor and was a politician who was known by Doctor Ilias.
 
-1988 වයඹ පළාත් සභාවට තරග කරමින් පළාත් සභා මන්ත්‍රිධුරයක් හිමිකර ගත් ඔහු 1994 වසරේදී පුත්තලමේ සිට පුත්තලමට පැමිනි සරණාගත ජන්ද 3300 කට ආසන්න සංඛ්‍යාවක් ලබා ගනිමින් පාර්ලිමේන්තුව නියෝජනයට වරම් ලබා ගෙන තිබුනී.
+He was living in Puttalam to Puttalam to Puttalam to Puttalam with the Muslims who were chased by the LTTE due to the war.
 
-2010,2015,2019 යන කාලවල දී ජනාධිපතිවර්ණ වලට ඉදිරිපත්වු ඔහු මෙවර සිව්වන වතාවට ජනාධිපතිවර්ණය සදහා නාම යෝජනා බාර දී තිබුනී.
+Illiaas, who is accustomed to politics from the 1980s, came to the Presidential Eldhajiant Cylinco.
 
-දරුවන් තිදෙනෙකුගේ පියකු වන ඉල්ලයාස් මහතා වෘත්තියෙන් වෛද්‍යවරයෙකී.මිය යන විට 80 වියේ ඔහු පසුවෙති.
+He was contesting to the North Western Provincial Council in 1988, he had come to Puttalam from Puttalam to Puttalam to Puttalam from Puttalam to Puttalam with nearly 3300 refugees.
 
-...
+He had handed over nominations for the fourth time when he had come to presidents in 2010,2015,2019.
+
+The father of three children is 80 as a doctor in the profession.
+
+Family relatives say they have not been confused yet on his funeral.
+
+◼️
 
 [Data](articles/2d2315e5.json)
+
+[Extended Data](ext_articles/2d2315e5.ext.json)
 
 ---
 
@@ -233,6 +267,20 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/f65b9398.json)
 
 [Extended Data](ext_articles/f65b9398.ext.json)
+
+---
+
+### Ranil-Sajith divide causes splits in Muslim political parties
+
+*2024-08-23 05:22:34* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-Sajith-divide-causes-splits-in-Muslim-political-parties/4-765897) · `en`
+
+Nominations have closed for the long awaited 2024 Presidential election. 39 candidates are in the fray. It is widely acknowledged by the press and public that the chief presidential contenders are incumbent President Ranil Wickremesinghe, leader of the opposition Sajith Premadasa and JVP/NPP leader Anura Kumara Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith Jayaweera.
+
+However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier numerical minorities assumes crucial importance.
+
+...
+
+[Data](articles/a323e8b9.json)
 
 ---
 
@@ -879,6 +927,22 @@ He said that the current President Ranil Wickremesinghe, who was a member of Par
 [Data](articles/0eb46f1a.json)
 
 [Extended Data](ext_articles/0eb46f1a.ext.json)
+
+---
+
+### பணவீக்கம் அதிகரிப்பு
+
+*2024-08-23 00:50:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணவீக்கம்-அதிகரிப்பு/175-342663) · `ta`
+
+தேசிய நுகர்வோர் விலை சுட்டெண் அடிப்படையிலான முதன்மை பணவீக்கம் கடந்த ஜூலை மாதத்தில் அதிகரிப்பைப் பதிவு செய்துள்ளது.
+
+தொகை மதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் வெளியிட்டுள்ள புதுப்பிக்கப்பட்ட அறிக்கையில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+இதற்கமைய, கடந்த ஜூன் மாதத்தில் 2.4 சதவீதமாகக் காணப்பட்ட தேசிய நுகர்வோர் விலைச் சுட்டெண் அடிப்படையிலான முதன்மை பணவீக்கம் ஜூலை மாதத்தில் 2.5 சதவீதமாக அதிகரிப்பைப் பதிவு செய்துள்ளது. (a)
+
+◼️
+
+[Data](articles/5474183a.json)
 
 ---
 
@@ -2265,75 +2329,5 @@ It is noteworthy that a person is unable to obtain a flight passenger in a fligh
 [Data](articles/d1fda079.json)
 
 [Extended Data](ext_articles/d1fda079.ext.json)
-
----
-
-### Sri Lankans believe economy, inflation most pressing national issues: survey
-
-*2024-08-22 14:59:00* · [`economynextcom`](https://economynext.com/sri-lankans-believe-economy-inflation-most-pressing-national-issues-survey-177766/) · `en`
-
-ECONOMYNEXT — Sri Lankans overwhelmingly cite the economy and inflation as their biggest concerns going
-
-into the September presidential election, an independent poll has shown.
-
-The Institute for Health Policy (IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS) polling during April to July 2024 showed, however, concerns about unemployment have been rising since the start of the year, whilst the numbers of Sri Lankans citing corruption and drugs as top national problems have been declining.
-
-...
-
-[Data](articles/ffb312da.json)
-
-[Extended Data](ext_articles/ffb312da.ext.json)
-
----
-
-### The Supreme Court rules that the President and the electoral Commission violates fundamental rights
-
-*2024-08-22 14:57:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-මැතිවරණ-කොමිෂම-මූලික-අයිතිවාසිකම්-උල්ලංගණය-කළ-බවට-ශ්‍රේෂ්ඨාධිකරණය-තීන්දු-කරයි/11-411504) · `si`
-
-The Supreme Court found the President and officials of the Electoral and Finance Commissions guilty of violating fundamental rights, ordering immediate elections based on petitions from UN forces, the National People's Society, and PAFFREL.
-
-🟩
-
-The Supreme Court ruled that the President has violated the basic human rights as members of the Elections Commission and the Finance Commission of the Elections Commission and the Minister of Elections.
-
-The Supreme Court issued the orders by the Supreme Court's decision on the fundamental rights petitions filed by the United Nations Forces, National People's Society and PAFFREL.
-
-Accordingly, the Supreme Court has ordered the Election Commission to take place as soon as possible.
-
-Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, Murdu Fernando, Gamini Amarasekera and Yasantha Kodagoda.
-
-◼️
-
-[Data](articles/e678b65d.json)
-
-[Extended Data](ext_articles/e678b65d.ext.json)
-
----
-
-### Beginning on September 8th
-
-*2024-08-22 14:50:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டெம்பர்-8-ஆம்-திகதி-ஆரம்பம்/175-342637) · `ta`
-
-Starting September 8th, the Postal Department will distribute official ballots for the 2024 presidential election until September 14th. Deputy Chief Minister DA Rajitha K Ranasinghe mentioned that the distribution hours are from 8:00 am to 6:00 pm. After September 14th, no more ballots will be supplied, but voters can still obtain them upon confirming their identity at their local post office during the election period.
-
-🟩
-
-The Postal Department has announced the special day of distributing official ballot for the 2024 presidential election.
-
-The Deputy Chief Minister (Reply) DA Rajitha K Ranasinghe told the media that the official ballot distribution of the official ballot is expected to be carried out from 8.00 am to 6.00 pm.
-
-We hope that people will be in their homes on the date of announced to receive official ballot, ”he added.
-
-Accordingly, the last day of September 14 has been announced to distribute ballot.
-
-The Election Commission announced the final date. Accordingly, after September 14, the supply of official election cards will be stopped.
-
-But after people confirm their identity, they can receive their voting cards from the nearby post office at the time of the election.
-
-◼️
-
-[Data](articles/886ae117.json)
-
-[Extended Data](ext_articles/886ae117.ext.json)
 
 ---

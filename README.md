@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 13:06:58**
+As of **2024-08-23 13:21:23**
 
 ## Newspaper Stats
 
-*Scraped **42,233** Articles*
+*Scraped **42,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,556
 dailyftlk | 2,742
 adalk | 3,891
 dailymirrorlk | 4,733
-adaderanalk | 4,948
-tamilmirrorlk | 5,480
+adaderanalk | 4,949
+tamilmirrorlk | 5,483
 virakesarilk | 6,715
 adaderanasinhalalk | 7,205
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 7,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,233 (100.0%) of 42,233 articles have been extended.
+42,233 (100.0%) of 42,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### President’s Fund provides lifeline for Sri Lankan athletes’ World Junior Championship hopes after Ada Derana report
+
+*2024-08-23 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101445/presidents-fund-provides-lifeline-for-sri-lankan-athletes-world-junior-championship-hopes-after-ada-derana-report) · `en`
+
+The President’s Fund has stepped up to provide necessary financial assistance to twelve Sri Lankan athletes, who were on the verge of missing the 2024 World Junior Athletics Championship in Lima, Peru due to a lack of financial support. This intervention came after Ada Derana revealed the athletes’ predicament.
+
+The 2024 World Junior Athletics Championship, scheduled to take place from August 27 to 31, is an important platform for young athletes to demonstrate their abilities on the global stage.  However, despite their qualification, the Sri Lankan athletes faced the possibility of being left behind as the authorities of the Sports Ministry had refused to provide necessary provisions, including air tickets.
+
+Against this backdrop, the Sri Lanka Athletics Association had taken steps to obtain the necessary visas for the athletes after travelling to India since the athletes have successfully met the required performance standards.
+
+...
+
+[Data](articles/4b2e6c76.json)
+
+---
+
+### ஷேக் ஹசீனாவின் பாஸ்போர்ட்   இரத்து
+
+*2024-08-23 12:27:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனாவின்-பாஸ்போர்ட்-இரத்து/50-342680) · `ta`
+
+பங்களாதேஷ் முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் பாஸ்போர்ட்டை இரத்து செய்வதாக பங்களாதேஷ் இடைக்கால அரசு அதிரடியாக அறிவித்துள்ளது பரபரப்பை ஏற்படுத்தியுள்ளது.
+
+பங்களாதேசில் மாணவர்கள் இட ஒதுக்கீடு உத்தரவை எதிர்த்து செய்த போராட்டம் வன்முறையாக மாறிய நிலையில் பிரதமர் பதவியை இராஜினாமா செய்த ஷேக் ஹசீனா நாட்டை விட்டு வெளியேறி இந்தியாவில் தஞ்சம் அடைந்தார். அவர் விரைவில் இங்கிலாந்துக்கு செல்ல இருப்பதாக கூறப்படுகிறது.
+
+இந்த நிலையில் பங்களாதேசில் முகமது யூனுஸ் தலைமையிலான இடைக்கால அரசு, ஷேக் ஹசீனாவின் அனைத்து நாடுகளின் பாஸ்போர்ட்களை இரத்து செய்து அதிரடி நடவடிக்கை எடுத்துள்ளது.
+
+அதுமட்டுமின்றி முன்னாள் எம்பிக்கள் அனைவரது பாஸ்போர்ட் இரத்து செய்யப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது. இதனால் இந்தியாவில் இருக்கும் பங்களாதேஷ் முன்னாள் பிரதமர் ஷேக் ஹசீனா வேறு நாட்டிற்கு செல்ல முடியாத நிலை ஏற்பட்டுள்ளது.S
+
+◼️
+
+[Data](articles/6e06cbac.json)
+
+---
+
+### தலதாவின் முடிச்சால் தடுமாற்றம்
+
+*2024-08-23 12:17:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவின்-முடிச்சால்-தடுமாற்றம்/175-342675) · `ta`
+
+இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர் திருமதி தலதா அத்துகோரள பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்வதாக பாராளுமன்றத்தில் அறிவித்துள்ள போதிலும் அது தொடர்பான உத்தியோகபூர்வ கடிதம் இன்னும் சபாநாயகருக்கு அனுப்பி வைக்கப்படவில்லை.
+
+இதனால் வெற்றிடமான பதவிக்கு தனது எம்.பி.யில் இருந்து ஒரு எம்.பி.யை நியமிப்பது சிக்கலாக மாறியுள்ளதாக பாராளுமன்ற பொதுச் செயலாளர் கூறுகிறார்.
+
+இந்நிலையில், வெற்றிடமாக உள்ள எம்.பி பதவி குறித்து குறித்து, தேர்தல்கள் ஆணைக்குழுவுக்கு அறிவிக்க முடியவில்லை என அறியமுடிகின்றது.
+
+கடந்த பொதுத் தேர்தலின் ஐக்கிய மக்கள் சக்தியின் இரத்தினபுரி மாவட்ட விருப்புப் பட்டியலின் படி முன்னாள் எம்.பியான தலதா அத்துகோரளவுக்கு அடுத்தபடியாக கருணாரத்ன பரணவிதான   உள்ளார் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ddd361c4.json)
+
+---
 
 ### Drug distribution to invite plantation workers
 
@@ -51,6 +103,22 @@ He also urged the police and the concerned authorities to take immediate action 
 [Data](articles/97d160c4.json)
 
 [Extended Data](ext_articles/97d160c4.ext.json)
+
+---
+
+### கவர்ந்து இழுக்க ‘கள்’ விநியோகம்
+
+*2024-08-23 12:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கவர்ந்து-இழுக்க-கள்-விநியோகம்/175-342672) · `ta`
+
+ஜனாதிபதி  தேர்தல் பேரணிகளில் மக்கள் கவர்ந்து இழுப்பதற்காக,  போத்தல்களில் அடைக்கப்பட்ட தரம் குறைந்த ’கள்’ இலவசமாக வழங்கப்படுவதாக  முறைப்பாடுகள் பல கிடைக்கப்பெற்றுள்ளது என ஜனநாயக மறுசீரமைப்பு மற்றும் தேர்தல் கற்கைகள் நிறுவகத்தின் நிறைவேற்றுப் பணிப்பாளர் மஞ்சுள கஜநாயக்க தெரிவித்துள்ளார்.
+
+தோட்டத் தொழிலாளர்களுக்கு இவ்வாறு தரமற்ற ’கள்’ வழங்கப்படுவதால், அவர்கள் வேலைக்குச் செல்வதில் இடையூறு ஏற்படுவதுடன், அவர்களின் வினைத்திறனும் குறைந்துள்ளதாக தோட்ட முகாமையாளர்கள் மற்றும் தோட்ட நிர்வாக அதிகாரிகள் முறைப்பாடு செய்வதாக அவர் கூறியுள்ளார் .
+
+மேலும் , ’கள்’ விநியோகத்தில் ஏற்படும் தேர்தல் சட்ட மீறல்களை தடுக்க பொலிஸார் மற்றும் சம்பந்தப்பட்ட அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் எனவும் அவர் வலியுறுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/b03a3b35.json)
 
 ---
 
@@ -2203,107 +2271,5 @@ The people of the Anuradhapura district pressed the party not to re -join those 
 [Data](articles/8521aeed.json)
 
 [Extended Data](ext_articles/8521aeed.ext.json)
-
----
-
-### Hanthana is a new house in the patronage of twin children who spent the night in the tree
-
-*2024-08-22 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200216) · `si`
-
-A new house named Hanthana was constructed for a family with twin newborns, thanks to donations facilitated by Ada Derana. The initiative aimed to ensure the twins received proper care, as their initial living conditions were unsafe. The project involved local and international donors, led by the Chief Incumbent of the Hanthana Sandiri A de Viharaya. Despite challenges like lack of basic amenities, the community came together to support the family, highlighting the importance of collective effort in addressing societal needs.
-
-🟩
-
-None of the night-built nights with his newborn twins, a mother had been donated to a mother-held couple.
-
-As a result of Ada Derana reporting, Donations and Donations were also able to construct the house with contributions.
-
-The Derana Media Network of Derana Media Network has joined the Derana Media Network of Derana Media Network along with Hanthana Sandirigui Awakers.
-
-Ada Derana recorded news of Twins of Habarana Puwakpitiya, who filled with a thorn a fragrant of milk.
-
-The sensitive issue was another daughter, which is a good home for the newborn twins to provide proper care to the newborn twins to take care of newborn.
-
-Since the hut, surrounded by a thick jungle is not protected, and the parent pays a young chicks to take a plant on a tree.
-
-Before the report of Ada Derana, the father of the Buddha was initially launched to construct a shadow to the little family.
-
-The Chief Incumbent of the Hanthana Sandiri A de Viharaya is the Lord, Ven.
-
-...
-
-[Data](articles/81a1d372.json)
-
-[Extended Data](ext_articles/81a1d372.ext.json)
-
----
-
-### India’s Ather Energy to enter Sri Lankan market next quarter
-
-*2024-08-22 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101431/indias-ather-energy-to-enter-sri-lankan-market-next-quarter) · `en`
-
-Ather Energy, an electric vehicle manufacturer based in India, on Thursday said that it plans to expand into Sri Lanka in the coming quarter, days after it secured funding from NIIF at a unicorn valuation.
-
-The expansion will be the company’s second international launch after it entered Nepal last year.
-
-Ather will set up an experience centre through a partnership with Evolution Auto Pvt Ltd, a joint venture between Sensei Capital Partners, Atman Group and Sri Lanka-based Sino Lanka Private Ltd, the company mentioned in a press release.
-
-Evolution Auto will serve as the company’s national distributor and will manage Ather Energy’s sales and service operations in Sri Lanka.
-
-Additionally, Ather will also focus on establishing a network of fast-charging infrastructure across the country to facilitate EV adoption.
-
-...
-
-[Data](articles/8424ff59.json)
-
-[Extended Data](ext_articles/8424ff59.ext.json)
-
----
-
-### If Ranil wins, who is the next Prime Minister?
-
-*2024-08-22 18:48:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-வெற்றி-பெற்றால்-அடுத்த-பிரதமர்-யார்/175-342644) · `ta`
-
-If Ranil wins the presidential election, Dinesh Gunawardena will likely remain as the Prime Minister, following historical precedents where the PM continued under new presidents.
-
-🟩
-
-United National Party (UNP) leader Vajira Abeywardena has said that if Ranil wins the presidential election this year, the current Prime Minister Dinesh Gunawardena will continue to serve as prime minister.
-
-“When the late President JR Jayawardene won the 1982 presidential election, the late Ranasinghe Premadasa was Prime Minister and Premadasa continued to be Prime Minister.
-
-“When Chandrika Bandaranaike Kumaratunga won the 1999 presidential election, the late Ratnasiri Wickramanayake was the Prime Minister.
-
-“Even after Mrs. Kumaratunga formed her second cabinet in 1999, Wickramanayake continued to become Prime Minister.
-
-Responding to a question raised by a journalist, "If the present president wins the presidential election, it is customary for the person who holds the post of Prime Minister."
-
-◼️
-
-[Data](articles/089ef98d.json)
-
-[Extended Data](ext_articles/089ef98d.ext.json)
-
----
-
-### Each public servant from January 2024 up 24 percent to 50 percent
-
-*2024-08-22 18:31:29* · [`adalk`](https://www.ada.lk/breaking_news/2024-ජනවාරි-සිට-සෑම-රාජ්‍ය-සේවකයෙකුගේම-මූලික-වැටුප-සියයට-24-සිට-50-කින්-ඉහළට/11-411508) · `si`
-
-From January 2024, public servants' salaries will increase by 24% to 50%, depending on their position and performance. The Specialist Committee aims to address salary disparities, enhancing the base pay for all employees, with higher increases for those with more qualifications and experience.
-
-🟩
-
-Cabinet approval has been approved by the basic salary of every public servant from 24 percent to 50 percent since January next year.
-
-The Chairman of the Specialist Committee appointed to remove the salary anomalies of the public servants said that the basic salary of the basement of the country will be increased by 24 percent.
-
-The basic salary of high-employees will be increased from 24 percent to 50 percent, where their qualifications, experience and work is due to be considered.
-
-◼️
-
-[Data](articles/fa2e31a1.json)
-
-[Extended Data](ext_articles/fa2e31a1.ext.json)
 
 ---

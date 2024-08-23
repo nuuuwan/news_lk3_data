@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 19:06:47**
+As of **2024-08-23 19:21:17**
 
 ## Newspaper Stats
 
-*Scraped **42,289** Articles*
+*Scraped **42,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 404
 islandlk | 2,451
 economynextcom | 2,566
 dailyftlk | 2,742
-adalk | 3,897
+adalk | 3,898
 dailymirrorlk | 4,733
-adaderanalk | 4,958
+adaderanalk | 4,959
 tamilmirrorlk | 5,488
 virakesarilk | 6,723
 adaderanasinhalalk | 7,219
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,219
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,288 (100.0%) of 42,289 articles have been extended.
+42,288 (100.0%) of 42,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### No decision made to cancel un-updated driving licenses – Transport Ministry
+
+*2024-08-23 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101455/no-decision-made-to-cancel-un-updated-driving-licenses-transport-ministry) · `en`
+
+The Secretary to the Ministry of Transport and Highways, Eng. Ranjith Rubasinghe, clarified that reports claiming a decision has been made to cancel all un-updated driving licenses are entirely false and that no such decision has been taken.
+
+He also revealed that a new system will be introduced to update the information of nearly 02 million driving license holders who have not yet updated their licenses. The entire update processes are expected to be completed by the end of this year.
+
+Secretary to the Ministry of Transport and Highways, Ranjith Rubasinghe, shared these remarks during a press conference held today (23) at the Presidential Media Centre, under the theme ‘Collective Path to a Stable Country’.
+
+Rubasinghe also noted that since the issuance of the first driving license in Sri Lanka in the 1960s, approximately 12.3 million driving licenses have been issued.
+
+The Secretary to the Ministry of Transport and Highways further explained:
+
+...
+
+[Data](articles/b05f4286.json)
+
+---
 
 ### ලක්ෂ 22ක දුම්වැටි තොගයක් කටුනායකදී අල්ලයි
 
@@ -333,6 +353,22 @@ From Northern, North Central and Northwestern provinces, in the North Central an
 [Data](articles/473391d1.json)
 
 [Extended Data](ext_articles/473391d1.ext.json)
+
+---
+
+### හෙට වැස්ස අඩුවෙයි
+
+*2024-08-23 16:52:57* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැස්ස-අඩුවෙයි/11-411523) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රක්ක වලත් සිහින් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යාදෙපාර්ථමේන්තුව පවසයි.
+
+ඒසේම ඌව පළාතේ අම්පාර සහ මඩකලපුව දිස්ත්‍රක්ක වලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
+
+උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, ම්බන්තොට දිස්ත්‍රික්කයෙත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක වැඩිදුරටත් දන්වා සිටියි.( I J )
+
+◼️
+
+[Data](articles/e02046e6.json)
 
 ---
 
@@ -1700,7 +1736,7 @@ A bond maturing on 15.12.2026 was quoted stable at 11.00/15 percent.
 
 A bond maturing on 01.07.2028 was quoted stable at 12.45/60 percent.
 
-A bond maturing on 15.06.2029 was quoted at 12.80/55 percent.
+A bond maturing on 15.06.2029 was quoted at 12.80/95 percent.
 
 A bond maturing on 15.05.2030 was quoted at 12.95/13.05 percent, from 12.85/13.05 percent.
 
@@ -2116,8 +2152,6 @@ On August 13, the Cabinet of Ministers granted approval for the National Water S
 
 Accordingly, the water tariff of domestic users has been reduced by 7%, government hospitals by 4.5%, schools and religious places of worship by 6.3%.
 
-Gazette on Revised Water Tariffs (English) by Adaderana Online on Scribd
-
 ◼️
 
 [Data](articles/9db151f4.json)
@@ -2293,41 +2327,5 @@ In Sri Lanka, where women make up approximately 52% of the population, significa
 [Data](articles/fafca2c0.json)
 
 [Extended Data](ext_articles/fafca2c0.ext.json)
-
----
-
-### Empowering women business owners in Sri Lanka
-
-*2024-08-23 04:27:42* · [`dailyftlk`](https://www.ft.lk/business/Empowering-women-business-owners-in-Sri-Lanka/34-765880) · `en`
-
-WEConnect International and US Embassy host key events to advance gender inclusive supply chains
-
-WEConnect International, with support from the US Embassy, recently hosted a Supplier Development Masterclass and the Supplier Diversity and Inclusion Roundtable in Colombo.
-
-These events aim to empower and connect women-owned businesses with key industry leaders and potential buyers, fostering economic growth and promoting gender inclusivity within value chains.
-
-US Ambassador Julie Chung joined over 40 Sri Lankan women business owners as they participated in the Supplier Development Masterclass, an advanced training program featuring in-depth lessons on business strategy, marketing, technology, negotiation, and sales. The class culminates in a pitch session where participants presented their businesses to a panel of buyers, providing valuable feedback and potentially opening doors to new business opportunities.
-
-...
-
-[Data](articles/0678c1d8.json)
-
-[Extended Data](ext_articles/0678c1d8.ext.json)
-
----
-
-### UNFPA brings key stakeholders together to shape future of Sri Lanka
-
-*2024-08-23 04:12:39* · [`dailyftlk`](https://www.ft.lk/news/UNFPA-brings-key-stakeholders-together-to-shape-future-of-Sri-Lanka/56-765872) · `en`
-
-‘Shaping the Future: A Policy Dialogue on Population Dynamics in Sri Lanka’ by UNFPA Sri Lanka in partnership with the Ministry of Finance, Economic Stabilisation and National Policies was held last week at BMICH in Colombo.
-
-The policy dialogue brought together key stakeholders including policymakers and subject experts to discuss Sri Lanka’s changing population dynamics in terms of aging, low fertility, and migration. Ahead of the United Nations global ‘Summit of the Future’ set for September 2024, it is imperative that Sri Lanka prepares to address its pressing population issues, as all United Nations member states come together to recalibrate the journey towards achieving the 2030 Agenda for Sustainable Development Goals.
-
-...
-
-[Data](articles/c1612679.json)
-
-[Extended Data](ext_articles/c1612679.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 15:55:38**
+As of **2024-08-23 16:08:51**
 
 ## Newspaper Stats
 
-*Scraped **42,254** Articles*
+*Scraped **42,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,78 @@ economynextcom | 2,560
 dailyftlk | 2,742
 adalk | 3,893
 dailymirrorlk | 4,733
-adaderanalk | 4,951
+adaderanalk | 4,952
 tamilmirrorlk | 5,487
 virakesarilk | 6,716
-adaderanasinhalalk | 7,209
+adaderanasinhalalk | 7,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,253 (100.0%) of 42,254 articles have been extended.
+42,254 (100.0%) of 42,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### போர்க்களத்தில் தீர்க்க முடியாது: பிரதமர் மோடி உக்ரேனில் தெரிவிப்பு
+### Online Safety Act: SC concludes hearing petitions against amendment bill
+
+*2024-08-23 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101448/online-safety-act-sc-concludes-hearing-petitions-against-amendment-bill) · `en`
+
+The Supreme Court has concluded the hearing of petitions filed challenging the constitutionality of the amended draft bill related to the “Online Safety Act” which was tabled in the Parliament by the government.
+
+Accordingly, the Supreme Court announced that the confidential verdict of the court pertaining to the petitions will be communicated to the Speaker of the Parliament.
+
+The relevant petitions filed by a group including the former Commissioner of the Human Rights Commission of Sri Lanka (HRCSL) Ambika Satkunanathan, were taken up before a three-member Supreme Court bench comprising Justices A.H.M.D. Nawaz, Shiran Gunaratne and Achala Wengappuli today (23).
+
+During the hearing of the petitions, the lawyers of the petitioning party stated before the court that the amended draft bill does not clearly define the ‘prohibited statements’ and that related penalties have not been determined.
+
+...
+
+[Data](articles/57ba4f2a.json)
+
+---
+
+### Can't resolve on the battlefield: Prime Minister Modi notification in Ukraine
 
 *2024-08-23 15:33:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போர்க்களத்தில்-தீர்க்க-முடியாது-பிரதமர்-மோடி-உக்ரேனில்-தெரிவிப்பு/175-342691) · `ta`
 
-வரலாற்றுச் சிறப்புமிக்க பயணமாக போரால் பாதிக்கப்பட்டுள்ள உக்ரைன் தலைநகர் கீவ்-க்கு பிரதமர் நரேந்திர மோடி சென்றடைந்தார்.
+Prime Minister Narendra Modi visited Ukraine, invited by President Vladimir Zelensky, aiming to mediate peace talks between Russia and Ukraine. Modi emphasized diplomacy over warfare, offering India's support for resolving conflicts peacefully. His trip marks the first visit by an Indian Prime Minister to Ukraine, highlighting India's commitment to global peace efforts.
 
-உக்ரைன் ஜனாதிபதி  விலாடிமிர் ஜெலென்ஸ்கியின் அழைப்பின் பேரில் பிரதமர் நரேந்திர மோடி உக்ரைன் சென்றுள்ளார். தலைநகர் கீவ்-ல் ஜெலன்ஸ்கியைச் சந்தித்து அவர் பேச்சுவார்த்தை நடத்த இருக்கிறார். இந்த சந்திப்பின்போது ரஷ்யா - உக்ரைன் இடையேயான போரை முடிவுக்குக் கொண்டுவருவது குறித்து பிரதமர் மோடி முக்கிய பேச்சுவார்த்தை நடத்த உள்ளார்.
+🟩
 
-முன்னதாக  (ஆக. 22) போலந்தில் செய்தியாளர்களிடம் பேசிய பிரதமர் நரேந்திர மோடி, “உக்ரைன் மற்றும் மேற்கு ஆசியாவில் நடந்து வரும் மோதல்கள் நம் அனைவருக்கும் ஆழ்ந்த கவலை அளிக்கும் விஷயமாகும். போர்க்களத்தில் எந்தப் பிரச்சினையையும் தீர்க்க முடியாது என்பது இந்தியாவின் உறுதியான நம்பிக்கை.
+Prime Minister Narendra Modi has traveled to Kiev, the capital of Ukraine, who has been affected by the historic journey.
+
+Prime Minister Narendra Modi visits Ukrainian at the invitation of Ukrainian President Viladimir Jelensky. He is about to meet with Jensky in the capital, Kiev. Prime Minister Modi will hold a key talks on the end of the war between Russia and Ukraine during the meeting.
+
+Earlier (to become). 22) Speaking to reporters in Poland, Prime Minister Narendra Modi said, “The ongoing conflict in Ukraine and West Asia is a matter of concern for all of us. India's firm belief is that no problem can be solved on the battlefield.
+
+In any crisis, the loss of the life loss of innocent people has become the biggest challenge for humanity as a whole. We support negotiations and diplomatic activities to restore peace and consistency. For this, India is ready to provide all possible support with its allies. ”
 
 ...
 
 [Data](articles/6afe51ac.json)
+
+[Extended Data](ext_articles/6afe51ac.ext.json)
+
+---
+
+### බස් - ත්‍රිවිල් අනතුරින් සිව්දෙනෙක් රෝහලට
+
+*2024-08-23 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200241) · `si`
+
+මාතර - කතරගම මාර්ගයේ තංගල්ල උණාකුරුව ප්‍රදේශයේ දී බස් රථයක් සහ ත්‍රිරෝද රථයක් එකිනෙක ගැටී අනතුරක් සිදුව තිබේ.
+
+අනතුරට ලක්වූ බස් රථය අම්පාර, වඩිනාගල ප්‍රදේශයේ සිට පෙර පාසල් ළමුන් හා දෙමාපියන් රැගෙන දකුණු පළාතේ විනෝද චාරිකාවක් සඳහා පැමිණෙමින් සිටිය දී මෙම සිදුවීමට මුහුණ දී තිබේ.
+
+බස්රථය ත්‍රිරෝද රථයේ ගැටීමෙන් ත්‍රිරෝද රථයේ ගමන්ගත් මව, පියා, පුතා සහ එහි රියදුරු තුවාල ලබා රෝහල්ගත කර ඇත.
+
+බරපතළ තත්ත්වයෙන් සිටි මව වැඩිදුර ප්‍රතිකාර සඳහා මාතර රෝහල වෙත මාරුකර යවා තිබේ.
+
+◼️
+
+[Data](articles/448e27ce.json)
 
 ---
 
@@ -2197,51 +2241,5 @@ Accordingly, the National Consumer Price Index -based primary inflation, which w
 [Data](articles/5474183a.json)
 
 [Extended Data](ext_articles/5474183a.ext.json)
-
----
-
-### Extension of landslide risk warning
-
-*2024-08-23 00:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாய-எச்சரிக்கை-நீடிப்பு/175-342662) · `ta`
-
-Landslide warnings issued for Ratnapura, Kegalle, Kalutara, and Galle districts due to increased hazard risk. Inclement weather causing river levels to rise, including Kaluganga, Jinkangai, and Nilwala Ganges.
-
-🟩
-
-The National Building Research Institute has announced that the landslide hazard has been extended to 4 districts.
-
-Accordingly, the Ratnapura, Kegalle, Kalutara and Galle districts have been warned.
-
-The Irrigation Department said the rivers are also increasing due to the inclement weather.
-
-The water level of Kaluganga, Jinkangai and Nilwala Ganges is increasing. (A)
-
-◼️
-
-[Data](articles/d5f3c2bd.json)
-
-[Extended Data](ext_articles/d5f3c2bd.ext.json)
-
----
-
-### The weather will continue with the rain
-
-*2024-08-23 00:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையுடனான-வானிலை-தொடரும்/175-342661) · `ta`
-
-The Department of Meteorology predicts continued rainfall across several regions, including the Western, Sabaragamuwa, North Western provinces, and specific districts like Eastern, Uva, Polonnaruwa, and Mullaitivu. Wind speeds of 30 to 40 km/h are anticipated in the western part of the Central Highlands.
-
-🟩
-
-The Department of Meteorology has said that the rainy weather will continue in the Western, Sabaragamuwa and North Western provinces.
-
-Rainfall is expected in the Eastern and Uva provinces and the Polonnaruwa and Mullaitivu districts.
-
-In the western collapse of the Central Highlands, winds are likely to blow at speeds of 30 to 40 kilometers per hour, the department said.. (A)
-
-◼️
-
-[Data](articles/579e6ed5.json)
-
-[Extended Data](ext_articles/579e6ed5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 03:36:53**
+As of **2024-08-24 03:55:31**
 
 ## Newspaper Stats
 
-*Scraped **42,334** Articles*
+*Scraped **42,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,899
 dailymirrorlk | 4,733
 adaderanalk | 4,962
 tamilmirrorlk | 5,491
-virakesarilk | 6,734
+virakesarilk | 6,737
 adaderanasinhalalk | 7,227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,334 (100.0%) of 42,334 articles have been extended.
+42,334 (100.0%) of 42,337 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,54 @@ Ratnayake has said that they will take steps to provide a report on all activiti
 [Data](articles/e1d47de1.json)
 
 [Extended Data](ext_articles/e1d47de1.ext.json)
+
+---
+
+### கேகாலை மாவட்டம்,  தெரணியகல தேர்தல் தொகுதிக்கான ஐக்கிய மக்கள் கூட்டணியின் புதிய அமைப்பாளராக எம்.பரணிதரன் நியமனம்
+
+*2024-08-24 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191840) · `ta`
+
+கேகாலை மாவட்டம், தெரணியகல தேர்தல் தொகுதிக்கான ஐக்கிய மக்கள் கூட்டணியின் புதிய அமைப்பாளராக எம்.பரணிதரன் வெள்ளிக்கிழமை (23) நியமிக்கப்பட்டார்.
+
+புதிய தொகுதி அமைப்பாளருக்கான நியமனக் கடிதம் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அவர்கள் வெள்ளிக்கிழமை (23) வழங்கி வைத்தார்.
+
+◼️
+
+[Data](articles/fdd52d40.json)
+
+---
+
+### இரத்தினபுரி மாவட்டம், பலங்கொட தேர்தல் தொகுதிக்கான ஐக்கிய மக்கள் கூட்டணியின் புதிய அமைப்பாளராக எம்.சந்திரகுமார் நியமனம்
+
+*2024-08-24 01:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191839) · `ta`
+
+இரத்தினபுரி மாவட்டம், பலங்கொட தேர்தல் தொகுதிக்கான ஐக்கிய மக்கள் கூட்டணியின் புதிய அமைப்பாளராக எம்.சந்திரகுமார் வெள்ளிக்கிழமை (23) நியமிக்கப்பட்டார்.
+
+புதிய தொகுதி அமைப்பாளருக்கான நியமனக் கடிதம் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அவர்கள் வெள்ளிக்கிழமை (23) வழங்கி வைத்தார்.
+
+◼️
+
+[Data](articles/304f950c.json)
+
+---
+
+### தமது இடத்தை பாதுகாத்துக் கொள்வதற்காக இனிப்பு பண்ட அரசியலை மேற்கொண்டு, அரச உத்தியோகத்தர்களை ஏமாற்றுகின்றனர் -  சஜித் பிரேமதாச
+
+*2024-08-24 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191838) · `ta`
+
+தமது இடத்தை பாதுகாத்துக் கொள்வதற்காக இனிப்பு பண்ட அரசியலை மேற்கொண்டு, அரச உத்தியோகத்தர்களை ஏமாற்றுவதாக  எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+இதுவரை நாட்டில் அரைவாசிக்கும் மேற்பட்டோர் ஏழ்மையினாலும்  வறுமையினாலும் பிடிக்கப்பட்டிருப்பதால் அழுத்தங்களுக்கும் அசௌகரியங்களுக்கும்  உள்ளாகி இருக்கின்றார்கள்.
+
+மொத்த நாட்டு மக்களையும் வறுமையில் இருந்து  மீட்டெடுக்கும் மனிதாபிமான செயற்பாட்டிற்கு  ஐக்கிய மக்கள் சக்தி பிரவேசித்திருக்கிறது.
+
+இதுவரை காலமும் அரச உத்தியோகத்தர்களை நாட்டுக்கு   நஷ்டமானவர்களாகவும் சுமையானவர்களாகவும் இந்த அரசாங்கம் கருதி வந்தாலும், தற்பொழுது இந்த அரசாங்கத்திற்கு அரச உத்தியோகத்தர்கள்  முக்கியமானவர்களாக மாறி இருக்கிறார்கள். இதற்குக் காரணம் சந்தர்ப்பவாதமே ஆகும்.
+
+அரச சேவையால் நாட்டுக்கு நட்டம் ஏற்படுவதாக குறிப்பிட்ட இவர்கள், பொய்யான வாக்குறுதிகளை வழங்கி வேலை திட்டங்களை முன்னெடுக்கின்றனர். ஐக்கிய மக்கள் சக்தி பொய் வாக்குறுதிகளை வழங்காது.
+
+...
+
+[Data](articles/30b51054.json)
 
 ---
 
@@ -2231,81 +2279,5 @@ The complaint further stated that the two students were sexually abused inside a
 [Data](articles/e5c62d65.json)
 
 [Extended Data](ext_articles/e5c62d65.ext.json)
-
----
-
-### 11 killed in police vehicle attack
-
-*2024-08-23 11:53:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பொலிஸ்-வாகன-தாக்குதலில்-11-பேர்-பலி/50-342671) · `ta`
-
-In Pakistan, Punjab, terrorists launched an attack on two police vehicles near Rahim Khan, killing 11 officers and injuring 7 others. The assailants used rockets and kidnapped some police personnel before fleeing. The incident highlights the ongoing security challenges in the region, with authorities including Punjab Chief Minister Mariam Nawaz vowing to take decisive action against the perpetrators.
-
-🟩
-
-Terrorists hit a police vehicle in Pakistan Punjab, 11 killed. 7 people were seriously injured.
-
-Two police vehicles were trapped on the road at Rahim Khan, 400 km from Lahore in Pakistan.. A gang, who had gone through the area, attacked the police vehicle with rockets.
-
-In the attack, 11 policemen died tragically on the spot. Also, 7 people were seriously injured.
-
-Some of the injured are worried that the number of casualties is likely to increase. After the attack, the gang fled. The escaped gang took some of the police as hostages. The details of whether the attackers belong to the robbers or any terrorist organization.
-
-There are numerous terrorist organizations operating in Pakistan. It is customary for the police to occasionally attacks the army and as hostages. Punjab Chief Minister Mariam Nawaz has ordered the fullest action to recover the hostages.
-
-◼️
-
-[Data](articles/45f19d8b.json)
-
-[Extended Data](ext_articles/45f19d8b.ext.json)
-
----
-
-### Angered with her mother seriously sexually abused a minor girl who went to a boyfriend's home
-
-*2024-08-23 11:53:17* · [`adalk`](https://www.ada.lk/breaking_news/මව-සමඟ-අමනාප-වී-පෙම්වතාගේ-නිවසට-ගිය-බාල-වයස්කාර-දැරියකට-බරපතළ-ලිංගික-අපයෝජන-කරල/11-411520) · `si`
-
-A mother and her son are under arrest for allegedly sexually abusing a minor girl. The incident came to light during a police investigation triggered by a complaint. The victim, a 15-year-old, had argued with her mother and left home, leading to the discovery of the abuse. Both the suspect and his mother will face charges in court, with ongoing investigations by child protection officers.
-
-🟩
-
-The mother of the suspect who supported his mother had been arrested for his mother and a 15-year-old girl who had been seriously sexually abused for a 15-year-old girl.
-
-The residents of the Rajanganaya Police division have been a residential son and a mother. The victim girl was with his mother in a village in Anuradhapura and had left the house after a heated argument with mother, police said.
-
-According to police, the abuse was revealed when the mother had an investigation into the police complaint and went to Rajanganaya and marching the girl.
-
-The suspect and the suspect were to be produced before the Anuradhapura Magistrate's Court.
-
-Anuradhapura headquarters police OIC of Anuradhapura Police Station, Chief Inspector R. M.Officers of the Children's Bureau are conducting further investigations on the instructions of Jayaweera.
-
-◼️
-
-[Data](articles/0e12869d.json)
-
-[Extended Data](ext_articles/0e12869d.ext.json)
-
----
-
-### Sri Lanka awards 2.1mn barrel crude contracts to Vitol Asia
-
-*2024-08-23 11:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-2-1mn-barrel-crude-contract-to-vitol-asia-177859/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to purchase 3 shipments of Murban type of crude oil from November 15, 2024 to April 14, 2025 to Vitol Asia (Singapore) Pte Ltd, a government statement said.
-
-The 2,100,000 barrels +/- 5%, will be obtained on the basis of payment in 30 days through a Letter of Credit issued by the Bank of Ceylon.
-
-Bids were called by the State-owned Ceylon Petroleum Corporation from registered suppliers for the long term contract, and 5 bids were received.
-
-The bid submitted by Vitol Asia (Pvt) Ltd in Singapore was recommended as the responsive bid by the cabinet-appointed special standing procurement committee.
-
-Murban is a light crude that can be processed by a refinery owned by CPC.
-
-Bids were also called by the CPC from registered suppliers for the procurement of 3 shipments of Murban crude oil (2,100,000 Barrels +/- 5%) under the procedure of issuance from the 100% stored tanks (100% Ex. Storage Modality) from November 15 to April 14, 2025.
-
-...
-
-[Data](articles/205cbb72.json)
-
-[Extended Data](ext_articles/205cbb72.ext.json)
 
 ---

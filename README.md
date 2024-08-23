@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 15:36:57**
+As of **2024-08-23 15:55:38**
 
 ## Newspaper Stats
 
-*Scraped **42,253** Articles*
+*Scraped **42,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,742
 adalk | 3,893
 dailymirrorlk | 4,733
 adaderanalk | 4,951
-tamilmirrorlk | 5,486
+tamilmirrorlk | 5,487
 virakesarilk | 6,716
 adaderanasinhalalk | 7,209
 
@@ -26,31 +26,53 @@ adaderanasinhalalk | 7,209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,251 (100.0%) of 42,253 articles have been extended.
+42,253 (100.0%) of 42,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### பஸ் ஆற்றில் கவிழ்ந்ததில்  14 பேர் பலி
+### போர்க்களத்தில் தீர்க்க முடியாது: பிரதமர் மோடி உக்ரேனில் தெரிவிப்பு
+
+*2024-08-23 15:33:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போர்க்களத்தில்-தீர்க்க-முடியாது-பிரதமர்-மோடி-உக்ரேனில்-தெரிவிப்பு/175-342691) · `ta`
+
+வரலாற்றுச் சிறப்புமிக்க பயணமாக போரால் பாதிக்கப்பட்டுள்ள உக்ரைன் தலைநகர் கீவ்-க்கு பிரதமர் நரேந்திர மோடி சென்றடைந்தார்.
+
+உக்ரைன் ஜனாதிபதி  விலாடிமிர் ஜெலென்ஸ்கியின் அழைப்பின் பேரில் பிரதமர் நரேந்திர மோடி உக்ரைன் சென்றுள்ளார். தலைநகர் கீவ்-ல் ஜெலன்ஸ்கியைச் சந்தித்து அவர் பேச்சுவார்த்தை நடத்த இருக்கிறார். இந்த சந்திப்பின்போது ரஷ்யா - உக்ரைன் இடையேயான போரை முடிவுக்குக் கொண்டுவருவது குறித்து பிரதமர் மோடி முக்கிய பேச்சுவார்த்தை நடத்த உள்ளார்.
+
+முன்னதாக  (ஆக. 22) போலந்தில் செய்தியாளர்களிடம் பேசிய பிரதமர் நரேந்திர மோடி, “உக்ரைன் மற்றும் மேற்கு ஆசியாவில் நடந்து வரும் மோதல்கள் நம் அனைவருக்கும் ஆழ்ந்த கவலை அளிக்கும் விஷயமாகும். போர்க்களத்தில் எந்தப் பிரச்சினையையும் தீர்க்க முடியாது என்பது இந்தியாவின் உறுதியான நம்பிக்கை.
+
+...
+
+[Data](articles/6afe51ac.json)
+
+---
+
+### 14 people killed in bus
 
 *2024-08-23 14:59:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-ஆற்றில்-கவிழ்ந்ததில்-14-பேர்-பலி/50-342688) · `ta`
 
-நேபாளத்தில் இந்திய சுற்றுலாப் பயணிகள் சென்ற பஸ் ஆற்றில் கவிழ்ந்து விபத்துக்குள்ளானதில், 14 பேர் பலியாகினர்.
+A tragic bus crash in Nepal resulted in 14 deaths and injured many more. The accident occurred when the bus veered off the road near the Marsyangdi River, leading to a swift rescue operation. Despite efforts, 16 passengers were saved from drowning, while another 14 were found dead. This incident follows a pattern of fatal accidents in July linked to climate change and natural disasters, with 62 fatalities reported so far.
 
-நேபாளத்தில் பொக்காராவில் இருந்து கத்மண்டு நோக்கி 40 இந்தியர்கள் பஸ்சில் சென்று கொண்டிருந்தனர். தனா ஹூன் மாவட்டத்தில் உள்ள மார்ஸ்யாங்டி ஆற்றின் அருகேயுள்ள பாதையில் சென்றபோது பஸ் சாரதியின் கட்டுப்பாட்டை இழந்து விபத்துக்குள்ளானது.
+🟩
 
-பயணிகள் தண்ணீரில் மூழ்கிய நிலையில், மீட்புப்பணிகளை உள்ளூர் மாவட்ட நிர்வாகம் முடுக்கி விட்டுள்ளது. உள்ளூர் நீச்சல் வீரர்கள் உதவியுடன் ஆற்றில் விழுந்த 16 பேர் மீட்கப்பட்டனர்.
+In Nepal, 14 people were killed when a bus crashed into a bus on a river.
 
-மேலும் 14 பேர் உயிரிழந்த நிலையில் சடலங்களாக மீட்கப்பட்டனர். மற்றவர்களை தேடும் பணி தொடர்ந்து நடந்து வருகிறது.
+40 Indians were traveling by bus from Bokara in Nepal to Katmandu. The bus driver lost control and crashed into the road near the Marsyangdi River in Tana Hoon district.
 
-நெடுஞ்சாலையில், பஸ் வந்து கொண்டிருந்த போது திடீரென நிலச்சரிவு ஏற்பட்டுள்ளது. இதனால், பஸ் மீது பாறைகள், மண் கொட்ட, சாலையில் இருந்து பஸ் அப்படியே ஆற்றில் விழுந்துள்ளது.
+Local district administration has accelerated rescue operations as passengers are submerged in water. 16 people who fell into the river with the help of local swimmers were rescued.
 
-காலநிலை மாற்றம், இயற்கை சீற்றத்தால் ஏற்பட்ட இதுபோன்ற விபத்துகளினால் கடந்த ஜூலை மாதம் வரை 62 பேர் பலியாகி உள்ளனர் என்பது குறிப்பிடத்தக்கது.S
+Another 14 people were rescued as bodies. The search for others is ongoing.
+
+On the highway, a sudden landslide occurred when the bus was arriving. As a result, rocks on the bus, mud, and the bus from the road has fallen into the river.
+
+It is worth noting that 62 people have been killed in July last July due to such accidents caused by climate change and natural disaster.
 
 ◼️
 
 [Data](articles/6bccc63f.json)
+
+[Extended Data](ext_articles/6bccc63f.ext.json)
 
 ---
 
@@ -84,17 +106,25 @@ The politics we make is different. Wishful change, you may contribute to the cha
 
 ---
 
-### வாக்குரிமையை பயன்படுத்துவோம்: சர்வதேச இந்து மத பீடம்
+### We will use voting rights: International Hindu Faculty
 
 *2024-08-23 14:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குரிமையை-பயன்படுத்துவோம்-சர்வதேச-இந்து-மத-பீடம்/175-342686) · `ta`
 
-வாக்குரிமை மக்களின் அடிப்படை உரிமை -பலமாக பயன்படுத்த வேண்டும் என சர்வதேச இந்து மத பீடம் தெரிவித்துள்ளது.எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கு மக்களாகிய நாங்கள் எமது வாக்குரிமையைப் பயன்படுத்தி நமது உரிமையை பெற்றுக்கொள்ளும் பலமான வாக்குச்சீட்டாக பயன்படுத்த வேண்டும் என சர்வதேச இந்து மத பீடம் தெரிவித்துள்ளது.
+The International Hindu Faculty urges voters, especially Tamils affected by decades of conflict, to exercise their voting rights strategically to elect leaders committed to safeguarding their fundamental rights. Past neglect of voting has led to current challenges; thus, wise and careful participation in elections is crucial for achieving democratic goals and securing rights.
 
-இலங்கை நாட்டின் ஒவ்வொரு குடிமகனினதும் அடிப்படை உரிமை வாக்களிப்பு உரிமை ஆகும். இந்த வாக்கு உரிமை தான் ஜனநாயக ரீதியானது. இந்த ஜனநாயக ரீதியாகவே எமது அடிப்படை உரிமைகளை வென்றெடுக்க வேண்டும். குறிப்பாக தமிழ் மக்கள் முப்பது வருட காலத்தில் ஆயுத போராட்டத்தில் போர் சூழலில் அகப்பட்டு பலவிதமான இன்னல்களுக்கு உள்ளாகினார்கள். இந்த நிலைமையை கருத்தில் கொண்டு வாக்குரிமையை சரியாக பயன்படுத்த வேண்டும் என்ற உணர்வு மேலோங்கி நிற்க வேண்டும்.
+🟩
+
+The International Hindu Faculty has said that the people of the opposition to the presidential election should use our voting rights as a strong ballot to obtain our rights.
+
+The fundamental right of every citizen of Sri Lanka is the right to vote. This is the right to be democratic. This democratically must win our fundamental rights. The Tamil people, in particular, have been caught in the war environment in the armed struggle for thirty years. Considering this situation, the feeling of proper use of voting rights must be prevailed.
+
+The silver mountain is that the Tamil people have faced its effect because they did not use voting rights in the past. Let people not forget that this is one of the struggles to obtain our fundamental rights through that vote, using our vote to be a democratic struggle or a democratic leader.
 
 ...
 
 [Data](articles/2b83c43e.json)
+
+[Extended Data](ext_articles/2b83c43e.ext.json)
 
 ---
 
@@ -2213,19 +2243,5 @@ In the western collapse of the Central Highlands, winds are likely to blow at sp
 [Data](articles/579e6ed5.json)
 
 [Extended Data](ext_articles/579e6ed5.ext.json)
-
----
-
-### Kamala: The Name Behind The Changing Face Of America
-
-*2024-08-23 00:44:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kamala-the-name-behind-the-changing-face-of-america/) · `en`
-
-Nomination of Kamala Harris, whether viewed as the first Black woman or the first Asian woman for the presidency in the United States, represents a historic moment in American politics. After Obama, her nomination marks one of the most consequential events in the nation’s political landscape. If she is elected, it will be a monumental step forward in the ongoing and often arduous journey toward a more perfect union. This moment invites the world to admire America for her growing inclusiveness, while America herself may look inward, reflecting on how far she has come and how unimaginable this journey once seemed.
-
-...
-
-[Data](articles/5630a3ea.json)
-
-[Extended Data](ext_articles/5630a3ea.ext.json)
 
 ---

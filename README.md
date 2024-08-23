@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 08:55:51**
+As of **2024-08-23 09:07:39**
 
 ## Newspaper Stats
 
-*Scraped **42,201** Articles*
+*Scraped **42,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 404
 islandlk | 2,449
 economynextcom | 2,553
 dailyftlk | 2,742
-adalk | 3,886
+adalk | 3,887
 dailymirrorlk | 4,733
-adaderanalk | 4,942
-tamilmirrorlk | 5,474
+adaderanalk | 4,944
+tamilmirrorlk | 5,475
 virakesarilk | 6,710
 adaderanasinhalalk | 7,200
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 7,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,199 (100.0%) of 42,201 articles have been extended.
+42,201 (100.0%) of 42,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### India helps rescue Sri Lankan fishermen from distressed fishing trawler
+
+*2024-08-23 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101438/india-helps-rescue-sri-lankan-fishermen-from-distressed-fishing-trawler-) · `en`
+
+The Maritime Rescue Coordination Centre (MRCC) Colombo at Navy Headquarters, in collaboration with MRCC Chennai, has coordinated the successful rescue of four fishermen from a distressed Sri Lankan fishing trawler.
+
+The fishermen, stranded approximately 447 nautical miles off Point Pedro on Sri Lanka’s east coast, were rescued by an Indian fishing trawler directed by MRCC Chennai, the navy said.
+
+The local fishing trawler was reported to have left the Point Pedro Fisheries Harbour with 04 fishermen on 07 July 2024 for a fishing voyage. Meanwhile, the Department of Fisheries and Aquatic Resources has alerted MRCC Colombo established at the Navy Headquarters to assist the crew members onboard as their fishing trawler was in distress.
+
+In response, MRCC Colombo sought assistance from MRCC Chennai to rescue the stranded fishing trawler, according to Sri Lanka Navy.
+
+...
+
+[Data](articles/1e5ccfbd.json)
+
+---
+
+### State Minister defends pre-poll subsidies as election watchdog voices concern
+
+*2024-08-23 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101437/state-minister-defends-pre-poll-subsidies-as-election-watchdog-voices-concern) · `en`
+
+The People’s Action for Free and Fair Elections (PAFFREL) has expressed concerns over the government’s decisions to provide subsidies for the general public following the announcement of the presidential election.
+
+Executive Director of PAFFREL Rohana Hettiarachchi stated that such actions are “unacceptable” during the pre-election period, and that the Election Commission has been formally notified of the issue.
+
+In response, Minister of State for Finance, Ranjith Siambalapitiya, clarified that the concessions are not intended to secure votes. He emphasized that the subsidies were introduced to address economic challenges faced by the public.
+
+However, Hettiarachchi pointed out that, if essential, such measures should be implemented after the election to ensure fairness in the electoral process.
+
+◼️
+
+[Data](articles/7da3cfd7.json)
+
+---
 
 ### Presidential election questions about giving relief
 
@@ -79,6 +115,22 @@ Western Province South Crimes Division is conducting further investigations.
 [Data](articles/39477d75.json)
 
 [Extended Data](ext_articles/39477d75.ext.json)
+
+---
+
+### එංගලන්ත පිතිකරුවන්ගෙන් ප්‍රහාරාත්මක ඉනිම්
+
+*2024-08-23 07:51:50* · [`adalk`](https://www.ada.lk/sports/එංගලන්ත-පිතිකරුවන්ගෙන්-ප්‍රහාරාත්මක-ඉනිම්/9-411512) · `si`
+
+එංගලන්ත කණ්ඩායම හා ශ්‍රී ලංකාව අතර එංගලන්තයේ පැවැත්වෙන පළමු ටෙස්ට් තරගයේ දෙවැනි දිනය නිමාවට පත්වන විට එංගලන්ත කණ්ඩායම කඩුලු හයක් දැවි ලකුණු 259ක් රැස්කරගෙන සිටියි.
+
+ඒ අනුව තවත් කඩුලු 4ක් අතැතිව ඔවුන් ශ්‍රී ලංකා පළමු ඉනිමට වඩා ලකුණු 23ක් ඉදිරියෙන් පසුවෙයි. පිළිතුරු ඉනිම ක්‍රිඩා කළ එංගලන්ත කණ්ඩායමේ මුල් පිතිකරුවන් 6 දෙනාම තම ප්‍රහාරාත්මක වේගය සියයට 70ට වඩා ඉහළින් තබා ගැනීමට කටුයුතු කර තිබුණු අතර ඔවුන්ගේ පන්දුවාරයකට ලකුණු රැස් කිරිමේ වේගය 4.24ක් තරම් ඉහළ අගයක පැවැතුණි.
+
+එංගලන්තය වෙනුවෙන් නොදැවි පිටියේ රැදි සිටින කඩුලු රකින ක්‍රීඩක ස්මිත් ලකුනු 72ක් හා එයිට්කින්සන් ලකුනු 4ක් රැස්කරගෙන සිටියි. ලංකාව වෙනුවෙන් අසිත ප්‍රනාන්දු කඩුලු 3ක් දවා ගැනීමට සමත්විය.
+
+◼️
+
+[Data](articles/e4576048.json)
 
 ---
 
@@ -736,29 +788,33 @@ The heads of this politics are changing. There is a political culture that loses
 
 ---
 
-### රනිල් ස්වාධීන අපේක්ෂකයෙකු වූයේ ඇයි? එය ඔහුට වාසි ද? අවාසි ද?
+### Why was Ranil an independent candidate?Is that advantage of him?Disadvantages?
 
 *2024-08-23 02:43:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cql3e0yx7lyo) · `si`
 
-රනිල් ස්වාධීන අපේක්ෂකයෙකු වූයේ ඇයි? එය ඔහුට වාසි ද? අවාසි ද?
+Ranil Wickremesinghe chose to run as an independent candidate due to the weakening of traditional political parties in Sri Lanka, aiming to break away from the dominance of large parties. This move was seen by some as a strategic decision to avoid the disadvantages associated with being tied to a failing party. However, critics argue that running as an independent may not offer significant advantages, especially considering the lack of strong backing from any major political group.
 
-ශ්‍රී ලංකාවේ දේශපාලනය වර්තමානයේ දැඩි විපර්යාසයකට ලක්ව ඇති බව බොහෝ දේශපාලන විශ්ලේෂකයින්ගේ අදහස වී තිබේ.
+🟩
 
-රටේ මුල් බැසගෙන තිබුණු දැවැන්ත පක්ෂවල ආධිපත්‍යය බිඳ වැටෙමින්, පක්ෂ මුල් කර ගත් දේශපාලනය මේ වන විට අහෝසි වෙමින් පවතින බව ඔවුහු පෙන්වා දෙති.
+Why was Ranil an independent candidate?Is that advantage of him?Disadvantages?
 
-ඒ වෙනුවට, ස්වාධීන අපේක්ෂකයින් හෝ පක්ෂ කිහිපයක එකතුවක් නියෝජනය කරන අපේක්ෂකයින් මෙවර ජනාධිපතිවරණයේදී දක්නට ලැබේ.
+Many political analysts have expressed their view that Sri Lanka's politics has been subjected to severe change.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ වසර 40කට අධික කාලයක් නියෝජනය කළ අලියා ලකුණ අතහැර මෙවර තරග කරන්නේ, ස්වාධීන අපේක්ෂකයෙකු ලෙස ය.
+They point out that the politics of the party is currently being abolished, collapsing the domination of the country's rooting massive parties.
 
-ඔහු, ශ්‍රී ලංකාවේ පැරණිතම දැවැන්ත දේශපාලන පක්ෂයක් වන එක්සත් ජාතික පක්ෂයෙන් තරග නොකර ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වූයේ, ඇයි? එය ඔහුට වාසි ද? අවාසි ද?
+Instead, candidates representing a combination of independent candidates or several parties are found at the presidential election.
 
-ස්වාධීන අපේක්ෂකයෙකු ලෙස පෙනී සිටිය ද, රනිල් වික්‍රමසිංහ සැබවින් ම ස්වාධීන අපේක්ෂකයෙකු නොවන බව දේශපාලන විශ්ලේෂකයෙකු වන ආචාර්ය දයාන් ජයතිලක පවසයි.
+President Ranil Wickremesinghe will contest the elephant mark that represented over 40 years as an independent candidate.
 
-"රනිල් ඇත්තට ම ස්වාධීන අපේක්ෂකයෙක් නෙවෙයි. එතුමා වටේ ඉන්නවා දේශපාලන පක්ෂ රැසක්. හැබැයි ඒ සියලු පක්ෂ ජනතාවගෙන් ප්‍රතික්ෂේප වුණ දුර්වල පක්ෂ."
+Why did he contest as an independent candidate, which is the oldest massive political party in Sri Lanka, to compete in the UNP, who is the UNP?Is that advantage of him?Disadvantages?
+
+A political analyst says that Ranil Wickremesinghe is independent of as an independent candidate, says Dr. Dayan Jayatilleke.
 
 ...
 
 [Data](articles/18735f5b.json)
+
+[Extended Data](ext_articles/18735f5b.ext.json)
 
 ---
 
@@ -964,19 +1020,43 @@ He said that the current President Ranil Wickremesinghe, who was a member of Par
 
 ---
 
-### பணவீக்கம் அதிகரிப்பு
+### பொருளாதாரத்துக்காக ஏன் வழக்கு தொடரவில்லை?
+
+*2024-08-23 01:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்துக்காக-ஏன்-வழக்கு-தொடரவில்லை/175-342665) · `ta`
+
+உள்ளூராட்சி மன்றத் தேர்தலை பிற்போடுவது மக்களின் அடிப்படை உரிமை மீறல் என சுட்டிக்காட்டிய போதிலும், மக்களின் வாழ்வுரிமையைப் பாதுகாப்பதற்காக அந்தத் தேர்தலை நடத்த முடியாமல் போனதற்கு வருந்தவில்லை என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+நாட்டின் பொருளாதாரத்தை ஸ்திரப்படுத்தும் வேலைத்திட்டத்தில் ஒவ்வொரு மணித்தியாலமும் பெறுமதி வாய்ந்தது என சுட்டிக்காட்டிய ஜனாதிபதி, உள்ளூராட்சி மன்ற தேர்தலை நடத்துவதற்கு அந்த நேரத்தை செலவிட்டிருந்தால் நாட்டின் பொருளாதாரத்தை மீட்டிருக்க முடியாது போயிருக்கும் எனவும் தெரிவித்தார்.
+
+மஹரகம இளைஞர் சேவை மன்றக் கேட்போர் கூடத்தில் நேற்று (22) பிற்பகல் நடைபெற்ற புதிய மக்கள் முன்னணியின் தேசிய மாநாட்டில் உரையாற்றும்போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+உணவு, மருந்து, எரிவாயு, எரிபொருள் இன்றி மக்களின் அன்றாட வாழ்க்கையைத் தொடர முடியாது என சுட்டிக்காட்டிய ஜனாதிபதி, கடந்த இரண்டு வருடங்களில் மக்களின் அடிப்படை உரிமைகளைப் பாதுகாக்கத் தன்னை அர்ப்பணித்துள்ளதாகவும் கூறினார்.
+
+...
+
+[Data](articles/6e9984fc.json)
+
+---
+
+### Increase in inflation
 
 *2024-08-23 00:50:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணவீக்கம்-அதிகரிப்பு/175-342663) · `ta`
 
-தேசிய நுகர்வோர் விலை சுட்டெண் அடிப்படையிலான முதன்மை பணவீக்கம் கடந்த ஜூலை மாதத்தில் அதிகரிப்பைப் பதிவு செய்துள்ளது.
+Inflation rose slightly from 2.4% to 2.5% in July, according to the latest report by the Department of Value and Statistics.
 
-தொகை மதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் வெளியிட்டுள்ள புதுப்பிக்கப்பட்ட அறிக்கையில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இதற்கமைய, கடந்த ஜூன் மாதத்தில் 2.4 சதவீதமாகக் காணப்பட்ட தேசிய நுகர்வோர் விலைச் சுட்டெண் அடிப்படையிலான முதன்மை பணவீக்கம் ஜூலை மாதத்தில் 2.5 சதவீதமாக அதிகரிப்பைப் பதிவு செய்துள்ளது. (a)
+The National Consumer Price Index -based primary inflation recorded an increase in July.
+
+This was stated in a renewed report issued by the Department of Value and Statistics.
+
+Accordingly, the National Consumer Price Index -based primary inflation, which was 2.4 per cent in June, recorded an increase of 2.5 per cent in July.. (A)
 
 ◼️
 
 [Data](articles/5474183a.json)
+
+[Extended Data](ext_articles/5474183a.ext.json)
 
 ---
 
@@ -2237,103 +2317,5 @@ The purchase of the substandard Human Immunulin injection was called at the Mali
 [Data](articles/f37f1523.json)
 
 [Extended Data](ext_articles/f37f1523.ext.json)
-
----
-
-### Fertilizer subsidy for farmers cultivated in the Maha season
-
-*2024-08-22 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200205) · `si`
-
-The Cabinet approved a fertilizer subsidy for paddy and other crops in paddy fields, offering up to Rs 15,000 per hectare. This move aims to boost crop productivity and ensure food security through support from both the State Fertilizer Company and the private sector.
-
-🟩
-
-Cabinet approval has been given to provide a fertilizer subsidy for paddy and other crops grown in paddy lands.
-
-Cabinet approval has been given to provide financial subsidy for a maximum of Rs 15,000 each for a maximum number of hectares.
-
-Also, the government's fertilizer company, State Fertilizer Company and the private season, approval has been approved by the Government Fertilizer Company and the private sector.
-
-It has expected the government to ensure food security in the country and enhance the productivity of crops.
-
-◼️
-
-[Data](articles/e311c804.json)
-
-[Extended Data](ext_articles/e311c804.ext.json)
-
----
-
-### More than 20 arrested for suspicion of crime
-
-*2024-08-22 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200204) · `si`
-
-Yesterday, 20 special police teams arrested more than 40 individuals suspected of being part of two crime gangs. The arrests included a 51-year-old criminal group found with narcotics in Ja-Canal and another individual in Negombo with a small amount of ice. Further, 21 suspects were apprehended during interrogations, bringing the total number of arrests related to organized crime to 3,373 since March 19, 2024. Investigations continue to secure detention orders.
-
-🟩
-
-Two specialized crime gangs have been arrested in the operations carried out by 20 Special police teams yesterday (21).
-
-Police said 21 other suspects were arrested in their interrogation.
-
-The officers of the Northern Province North Criminal Division were arrested for a 51-year-old criminal group with five grams of narcotics in Ja-Canal.
-
-A man has been arrested in the Negombo area's collapse and seized by a 33 milligrams of ice narcotics and 220 milligrams.
-
-In the long interrogation from them, 21 suspects have been arrested and the suspects are suspicious of the suspects to commit crimes for crimes.
-
-3,373 members have been arrested for organized crime criminal criminal crime until the 19th of March 2024, police said.
-
-Further investigations are conducting further investigations to obtain detention orders.
-
-◼️
-
-[Data](articles/64cb3166.json)
-
-[Extended Data](ext_articles/64cb3166.ext.json)
-
----
-
-### Sri Lanka opposition: govt, immigration officials violating SC order on visa deal
-
-*2024-08-22 15:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-govt-immigration-officials-violating-sc-order-on-visa-deal-177799/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Public Security Ministry and officials in charge of immigration are violating the country’s Supreme Court order on a visa deal involving IVS-GBS and VFS Global, key opposition legislators said.
-
-Sri Lanka’s Supreme Court on August 2 suspended the contract given to private consortium IVS-GBS and VFS Global to deal with visa issuance in an interim order after 8 Fundamental Rights (FR) cases were filed against giving the deal without a competitive tender.
-
-Though the court ordered the earlier system operated by state-owned Mobitel be restored until hearing of the case is completed, the Department of Immigration and Emigration has yet to restore the system.
-
-...
-
-[Data](articles/6c08861e.json)
-
-[Extended Data](ext_articles/6c08861e.ext.json)
-
----
-
-### Allow AI Student Associations
-
-*2024-08-22 15:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-மாணவர்-சங்கங்களுக்கு-அனுமதி/175-342638) · `ta`
-
-The Sri Lankan government has approved the establishment of artificial intelligence (AI) student unions in 100 schools, starting with grades 6 to 9. This initiative, proposed jointly by the President as the Minister of Technology and Education, aims to prepare students for future global trends and boost economic growth through AI education. The plan is to gradually extend this program to more schools nationwide.
-
-🟩
-
-Cabinet spokesman and minister Bandula Gunawardena said that the government has granted permission to implement student unions on artificial intelligence as a pioneer program in 100 schools.
-
-He told the media that the project would be launched with the participation of students from grade 6 to 9.
-
-Accordingly, it has been decided to expand the scheme to other schools in the coming years in the coming years.
-
-The proposal was put forward as a joint proposal by the President as the Minister of Technology and Education.
-
-“It is appropriate for students to engage in artificial intelligence studies to create citizens who are facing future global tendencies and to achieve their contribution to economic growth effectively.
-
-◼️
-
-[Data](articles/04feeafa.json)
-
-[Extended Data](ext_articles/04feeafa.ext.json)
 
 ---

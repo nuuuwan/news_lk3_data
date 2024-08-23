@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 23:07:26**
+As of **2024-08-23 23:21:37**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,303 (100.0%) of 42,305 articles have been extended.
+42,305 (100.0%) of 42,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### கிளப் வசந்த கொலை - மேலும் ஒருவர் கைது
+### Club Spring Murder - Another man arrested
 
 *2024-08-23 22:47:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-மேலும்-ஒருவர்-கைது/175-342695) · `ta`
 
-கிளப் வசந்த கொலை செய்யப்பட்ட சம்பவத்தில் துப்பாக்கிச் சூடு நடத்தியவர்களில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+Two men, including a 31-year-old named Ajith Rohana and a 29-year-old actor Varuna Indika Silva, have been arrested in connection with the Club Spring murder. Ajith was nabbed in the Gautana area, while Varuna was caught for renting a house in Athurugiriya. Authorities also discovered a T-56 rifle, 120 bullets, and 9mm pistol ammunition during their investigation.
 
-தெஹிவளை பொலிஸ் பிரிவிற்குட்பட்ட கௌடான பிரதேசத்தில் வைத்து 31 வயதான பட்டி ஆரம்பகே அஜித் ரோஹன என்பவர் இன்று (23) கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-அத்துடன், அத்துருகிரிய பிரதேசத்தில் வீடு ஒன்றை வாடகைக்கு எடுத்து, துப்பாக்கிச் சூடு நடத்தியவர்களைப் பேருந்தில் கதிர்காமத்திற்கு அழைத்துச் சென்ற 29 வயதான நடிகர் வருண இந்திக்க சில்வாவும் கைது செய்யப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகின்றது.
+One of the shooters has been arrested in connection with the murder of the club spring.
 
-இதனுடன், T-56 ரகத் துப்பாக்கி,120 தோட்டாக்கள் மற்றும் 9mm பிஸ்டல் தோட்டாக்கள் என்பன கண்டுபிடிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகின்றது. R
+Ajith Rohana, 31, has been arrested today (23) in the Gautana area of ​​the Dehiwala Police Division.
+
+It is also reported that 29 -year -old actor Varuna Indika Silva has been arrested for renting a house in the Athurugiriya area and taken to Kadirgama on a bus.
+
+In addition, T-56 rifle, 120 bullets and 9mm pistol bullets have been found. Remble
 
 ◼️
 
 [Data](articles/cd8ea46d.json)
+
+[Extended Data](ext_articles/cd8ea46d.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ The department emphasized that legitimate Inland Revenue Officers will only visi
 ◼️
 
 [Data](articles/df4b3d4d.json)
+
+[Extended Data](ext_articles/df4b3d4d.ext.json)
 
 ---
 

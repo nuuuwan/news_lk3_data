@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 10:08:50**
+As of **2024-08-23 10:21:33**
 
 ## Newspaper Stats
 
-*Scraped **42,208** Articles*
+*Scraped **42,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 4,945
 tamilmirrorlk | 5,475
 virakesarilk | 6,710
-adaderanasinhalalk | 7,201
+adaderanasinhalalk | 7,202
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,207 (100.0%) of 42,208 articles have been extended.
+42,208 (100.0%) of 42,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### මේ තීන්දුව ලැබීම පුදුමයට කරුණක් නෙමෙයි - මහින්ද දේශප්‍රිය
+
+*2024-08-23 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200231) · `si`
+
+මැතිවරණයක් කල්දැමීම වැරදි ක්‍රියාවක් බවට අධිකරණය පිළිගැනීම ජනතාව ලද ජයග්‍රහණයක් බව පළාත් පාලන ආයතන සඳහා වූ කොට්ඨාස සීමා නිර්ණය කිරීමේ ජාතික කමිටුවේ සභාපති මහින්ද දේශප්‍රිය මහතා පවසයි.
+
+ඒ අනුව ජනාධිපතිවරණයෙන් පසුව පළාත් සභා මැතිවරණය පවත්වනු ඇතැයි තමා විශ්වාස කරන බවත් මහින්ද දේශප්‍රිය මහතා පැවසීය.
+
+"ඕනම ඡන්ද විමසීමක් නොපැවැත්වීමෙන් හෝ කල්දැමීමෙන් ජනතාවගේ අයිතිවාසිකම් කඩ වන බව මීට පෙර කිහිප සැරයක්ම ශ්‍රේෂ්ඨාධිකරණය තීන්දු කරලා තියෙද්දී මේ තීන්දුව ලැබීම පුදුමයට කරුණක් නෙමෙයි. ඒක මම දකින්නේ යුක්තිය ලැබිලා තිබෙනවා... නමුත් ප්‍රමාද වෙලා. ඒ අනුව ජනාධිපතිවරණය අවසන් වූ වහාම මේ වසරේදීම මෙම ඡන්ද විමසීම පැවැත්වීමට කොමිෂන් සභාව ක්‍රියා කරයි කියලා අපි විශ්වාස කරනවා."
+
+◼️
+
+[Data](articles/88900239.json)
+
+---
 
 ### Indian defense minister suddenly in the United States
 
@@ -116,23 +132,29 @@ However, Hettiarachchi pointed out that, if essential, such measures should be i
 
 ---
 
-### විශ්‍රාමක මේජර්ගේ නිවසින් ජීව උණ්ඩ සොයා ගනියි
+### Retired Major's home is found in life bullets
 
 *2024-08-23 08:31:12* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමක-මේජර්ගේ-නිවසින්-ජීව-උණ්ඩ-සොයා-ගනියි/11-411513) · `si`
 
-විශ්‍රාමික යුද හමුදා මේජර්වරයෙකුගේ මතුගම තඹරැටිය නිවසේ සඟවා තිබූ ජීව උණ්ඩ තොගයක් පොලිස් භාරයට ගත් බව මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය කියයි.
+A retired Army Major's home was discovered to contain a significant stash of live ammunition during a police raid. The investigation revealed 125 bullets, believed to be part of a larger cache. Although the Major was not present at the time of the search, authorities suspect he may have been involved in storing the ammunition. SSP Lucky Randeniya is leading the inquiry.
 
-එම නිවසේ තිබී විදේශීය රටක නිෂ්පාදිත දශම 22 වර්ගයේ ජීවඋණ්ඩ 125 ක් 9 එම් එම් වර්ගයේ ජීව උණ්ඩ 125 ක් පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-ගිණි අවි හා ජීව උන්ඩ  ළඟ තබාගෙන සිටින පුද්ගලයකු පිළිබඳ ලද තොරතුරකට අනුව මතුගම තඹරැටිය කොමිටියාවත්ත විශ්‍රාමික යුද හමුදා මේජර්වරයාගේ නිවස පරීක්ෂාව කිරීමේදී  නිවසේ අල්මාරියක් තුළ සඟවා තිබූ මෙම ජීව උණ්ඩ තොගය සොයාගැනීමට හැකිවූ බව පොලිසිය කියයි.
+The murder investigation unit says that a large number of live bullets hidden hidden from the House of Army Major.
 
-පොලිස් නිලධාරීන් එම නිවස වටලන අවස්ථාවේදී විශ්‍රාමික යුද හමුදා මේජර්වරයා නිවසේ සිට නැතැයි පොලිසිය කියයි.
+The police seized 125 of the 25 decimal production livelihoods of the 25 decimal number of 22 in the house.
 
-මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශයේ  අධ්‍යක්ෂක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි ලකී රන්දෙණිය මහතාගේ උපදෙස් මත පරීක්ෂණ පවත්වයි.
+According to information received about a person with firearms and bullet bullets, Matugama could have found the stock of live bullets in a loud army Major of the House.
+
+Police say that the pensioners Army Major was not at home at the time of the police officers.
+
+The Director of the Assistant Criminal Investigation Division (SSP Lucky Randeniya) is conducting investigations.
 
 ◼️
 
 [Data](articles/07e939ef.json)
+
+[Extended Data](ext_articles/07e939ef.ext.json)
 
 ---
 
@@ -2301,31 +2323,5 @@ The right and ethnic bowler had not scored 72 runs in the first and 72 runs befo
 [Data](articles/8e07ead6.json)
 
 [Extended Data](ext_articles/8e07ead6.ext.json)
-
----
-
-### Ministry of Health announced on MPC3
-
-*2024-08-22 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200207) · `si`
-
-The Ministry of Health has bolstered its systems to detect Mizpex, a disease entering via airports. Dr. Palitha Mahipi Maheepala assures treatment facilities for infected patients, with the Colombo Medical Research Institute equipped to identify cases. The health sector is prepared to respond to this disease, which has caused over 500 deaths in Africa.
-
-🟩
-
-The Ministry of Health states that the development system is well strengthened to identify Mizpex, which can enter the country by airport.
-
-Dr. Palitha Mahipi Maheepala, Secretary to the Ministry of Health, says that if patients have been established in the infectious disease, the facilities to treat them.
-
-He also said that the Colombo Medical Research Institute has laboratory facilities to identify Maki Pox patients.
-
-The Health Secretary (Health Secretary) has stated that the need to prepare and respond to this disease has been given to health care and the health secretary.
-
-The disease has already spread in the African African African regional countries, and more than 500 have died.
-
-◼️
-
-[Data](articles/cdf154ad.json)
-
-[Extended Data](ext_articles/cdf154ad.ext.json)
 
 ---

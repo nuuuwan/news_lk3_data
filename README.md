@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 16:21:29**
+As of **2024-08-23 16:37:01**
 
 ## Newspaper Stats
 
-*Scraped **42,258** Articles*
+*Scraped **42,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ colombotelegraphcom | 404
 islandlk | 2,451
 economynextcom | 2,560
 dailyftlk | 2,742
-adalk | 3,893
+adalk | 3,894
 dailymirrorlk | 4,733
 adaderanalk | 4,954
 tamilmirrorlk | 5,487
-virakesarilk | 6,716
-adaderanasinhalalk | 7,210
+virakesarilk | 6,717
+adaderanasinhalalk | 7,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,256 (100.0%) of 42,258 articles have been extended.
+42,258 (100.0%) of 42,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### பதுளை கந்தகெட்டிய நாரங்கல வீதி புனரமைப்பு
+
+*2024-08-23 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191800) · `ta`
+
+பதுளை கந்தகெட்டிய நாரங்கல ஸ்ரீ கதிர்வேலாயுத சுவாமி ஆலயத்திலிருந்து ஒரு கிலோமீற்றர் தூர லெஜர்வத்த வீதியை புனரமைப்பு செய்வதற்காக கல்வி இராஜாங்க அமைச்சர் அருணாச்சலம் அரவிந்தகுமாரின் நிதியொதுக்கீட்டின் ஊடாக  ரூபா 15  மில்லியன்   (1½  கோடி) நிதி ஒதுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5d9bf7ed.json)
+
+---
+
+### තලතාගේ මන්ත්‍රී ධුරය හිස් වූ බව මැතිවරණ කොමිසමට දන්වයි
+
+*2024-08-23 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200243) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ධුරයක් පුරප්පාඩු වී ඇති බව පාර්ලිමේන්තු මහලේකම් විසින් මැතිවරණ කොමිසමට දැනුම් දී තිබේ.
+
+ඒ රත්නපුර දිස්ත්‍රික් සමගි ජන බලවේගය නියෝජනය කෙරූ පාර්ලිමේන්තු මන්ත්‍රී තලතා අතුකෝරල මහත්මිය පසුගියදා ඉල්ලා අස්වීමත් සමගය.
+
+◼️
+
+[Data](articles/a136e288.json)
+
+---
+
+### ශ්‍රී ලංකා - නවසීලන්ත පළමු ටෙස්ට් තරගය අතරමැද ඡන්දේ දාන්න නිවාඩුවක්
+
+*2024-08-23 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200242) · `si`
+
+නවසීලන්ත ක්‍රිකට් පිල ටෙස්ට් තරග දෙකකින් සමන්විත තරග සංචාරයක් සඳහා එළැඹෙන සැප්තැම්බර් මාසයේ දී මෙරටට පැමිණීමට නියමිතය.
+
+එහිදී පළමු ටෙස්ට් තරගය සැප්තැම්බර් 18 වනදා සිට 21 වනදා දක්වා පැවැත්වීමට නියමිත අතර දෙවන ටෙස්ට් තරගය සැප්තැම්බර් 26 වනදා සිට 30 වන දා දක්වා පැවැත්වෙන බව ශ්‍රී ලංකා ක්‍රිකට් නිවේදනය කර සිටී.
+
+මෙම තරගාවලියේ ඇති විශේෂත්වය නම් පළමු ටෙස්ට් තරගය සඳහා විවේක දිනයක් නිවේදනය කර තිබීමයි.
+
+එහිදී සැප්තැම්බර් 21, ජනාධිපතිවරණ ඡන්ද විමසීම පැවැත්වෙන දිනය, පළමු ටෙස්ට් තරගය සඳහා විවේක දිනයක් ලෙසින් නම් කර ඇත.
+
+තරග දෙකකින් යුතු මෙම ටෙස්ට් තරග මාලාව ICC ලෝක ටෙස්ට් ශූරතා 2023 - 2025 තරග සමයට අදාළව පැවැත්වෙන්නකි.
+
+වාර්තා වන අන්දමට ශ්‍රී ලංකා පිල මෙලෙස අතරමැද විවේක දිනයක් සහිත ටෙස්ට් ක්‍රිකට් තරගයකට සහභාගී වන්නේ 2001 වසරෙන් පසුවය.
+
+මෙම ටෙස්ට් තරඟ දෙකම ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනයේ දී පැවැත්වෙනු ඇත.
+
+◼️
+
+[Data](articles/4cd5fe3b.json)
+
+---
 
 ### United Petroleum launches operations in Sri Lanka
 
@@ -49,6 +99,8 @@ The agreement was signed by Secretary to the Ministry of Power and Energy Dr. Su
 ...
 
 [Data](articles/93e489b0.json)
+
+[Extended Data](ext_articles/93e489b0.ext.json)
 
 ---
 
@@ -695,6 +747,22 @@ At the same time, they have been told that they met the President at the politic
 [Data](articles/f8015d12.json)
 
 [Extended Data](ext_articles/f8015d12.ext.json)
+
+---
+
+### පළාත් පාලන මැතිවරණය ඩිජිටල් ක්‍රමයට අත්හදා බැලිය හැකියි
+
+*2024-08-23 11:26:51* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-ඩිජිටල්-ක්‍රමයට-අත්හදා-බැලිය-හැකියි/11-411518) · `si`
+
+මැතිවරණ ක්‍රමය ඩිජිටල්කරණ කිරීම සඳහා හිටපු අගවිනිසුරු ප්‍රියසාද් ඩෙප් මහතා යටතේ පත් කළ කොමිසමේ වාර්තාවේ නිර්දේශ අනුව කටයුතු කිරීමට බලාපොරොත්තු වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මහතා පැවසීය.
+
+ඒ අනුව ඉදිරියේ පැවැත්වෙන පළාත් පාලන මැතිවරණය සඳහා ඩිජිටල් මැතිවරණ ක්‍රමය අත්හදා බැලීමට හැකි බවත් ඔහු සඳහන් කළේය.
+
+කොළඹදි පැවැති තොරතුරු තාක්ෂණ වෘත්තීයවේදීන්ගේ හමුවේදී යොමු කරන ලද ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+
+◼️
+
+[Data](articles/746e9bb6.json)
 
 ---
 
@@ -2153,103 +2221,5 @@ As always, Sri Lanka lives up to its descriptive slogan ‘A land like no other�
 [Data](articles/522a1f11.json)
 
 [Extended Data](ext_articles/522a1f11.ext.json)
-
----
-
-### JVP. If the regime was overcome, Sri Lanka would have become a underworld - Duminda Dissanayake
-
-*2024-08-23 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/191744) · `ta`
-
-Duminda Dissanayake warns that if the regime had been overthrown, Sri Lanka could've descended into chaos. He advocates for national unity and support for Ranil Wickremesinghe, emphasizing the importance of overcoming political divides for the country's progress.
-
-🟩
-
-People believe that everyone will unite to build the country. The political party is not required to win every day. JVP. If the regime was overcome, Sri Lanka would have become a underworld. Parliamentarian Duminda Dissanayake has called for a joint support for the country to redeem the country, regardless of the election.
-
-He further stated at a press conference held at Bambalapatti on Thursday (22).
-
-Some say that 134 MPs voted and elected Ranil Wickremesinghe as president.. In fact, if he was not elected president on that day, there would have been a situation like Bangladesh.
-
-Former JVP parliamentarian Lal called for the last two years that he would take over the magnetic parliament and pass the laws he needed for himself.. If he had given up on that day, Sri Lanka would have been left without the rule and the rulers like Bangladesh.
-
-...
-
-[Data](articles/5e63a484.json)
-
-[Extended Data](ext_articles/5e63a484.ext.json)
-
----
-
-### VFS Visa System issue: Violation of court order is serious - MA Sumanthiran
-
-*2024-08-23 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191743) · `ta`
-
-The Supreme Court found the President guilty of violating citizens' rights post-local elections. MPs from the TNA criticized the government's new visa system, calling it a financial scam and a deliberate disregard of a High Court injunction. They vowed to address these issues, highlighting the need for accountability and adherence to legal orders.
-
-🟩
-
-The Supreme Court has ruled that the President has violated the fundamental rights of the people after the local government elections.
-
-VFS. Minister and State officials deliberately violate the verdict on the issue. Sri Lanka Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said, "We will create an environment for that."
-
-MPs MA Sumanthiran, Rauf Hakeem and Patali Champika Ranawaka held a media briefing in Colombo on Thursday (22).
-
-The government's decision to change the existing visa distribution system and introduce the new system has been a massive financial fraud. The government has been able to make a committee of funding.
-
-The High Court has issued an interim injunction to the new visa system in accordance with these petitions. The High Court had categorically advised that the new system implemented and re -implemented the old system.
-
-...
-
-[Data](articles/ae8534d7.json)
-
-[Extended Data](ext_articles/ae8534d7.ext.json)
-
----
-
-### Jaffna District Organizer of the United People's Power
-
-*2024-08-23 01:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191742) · `ta`
-
-Victor Stanley, a United People's Power Organizer, supports President Ranil Wickremesinghe for the presidency, citing his leadership during crises and promise to rebuild the country. Stanley criticizes Sajith Premadasa for not taking responsibility during tough times. The statement emphasizes Wickremesinghe's efforts to normalize the country after past challenges and urges voters not to revert to previous failures.
-
-🟩
-
-The United People's Power Organizer Victor Stanley, who announced his support to the current President Ranil Wickremesinghe, who is contesting as an independent candidate in the upcoming presidential election, said this when he met the President at the political office on Wednesday (21), Colombo.
-
-At the time, President Ranil Wickremesinghe's Jaffna District Christian Religious Affairs Coordinator was appointed as Victor Stanley.
-
-Sajith Premadasa, who is demanding the leadership of the country today, said that the country and the people were not in charge of the country and that no one who was silent when the people were in a state of severe crisis were inappropriate for the leadership of the country.
-
-He said that the current President Ranil Wickremesinghe, who was a member of Parliament, accepted the challenge to build the country and that the president's victory in the upcoming presidential election would be the victory of the entire country.
-
-...
-
-[Data](articles/0eb46f1a.json)
-
-[Extended Data](ext_articles/0eb46f1a.ext.json)
-
----
-
-### Why not sue for the economy?
-
-*2024-08-23 01:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்துக்காக-ஏன்-வழக்கு-தொடரவில்லை/175-342665) · `ta`
-
-President Wickremesinghe justified postponing local gov't elections due to economic stabilization efforts, emphasizing the importance of ensuring basic needs like food, medicine, and fuel over electoral processes. He committed to holding general and provincial council elections post-presidential polls, allocating funds accordingly.
-
-🟩
-
-President Ranil Wickremesinghe has said that although the postponement of the local government elections is a violation of the fundamental rights of the people, he did not regret the election to protect the lives of the people.
-
-The President pointed out that every hour is valued in the program of stabilizing the country's economy, the president said that if the time had been spent on holding the local government elections, the country's economy would not have been restored.
-
-The President made this statement while addressing the National Conference of the New People's Front held at the Maharagama Youth Service Council auditorium yesterday afternoon.
-
-Pointing out that people cannot continue their daily lives without food, medicine, gas and fuel, the president said that in the last two years, he has dedicated himself to protect the basic rights of the people.
-
-...
-
-[Data](articles/6e9984fc.json)
-
-[Extended Data](ext_articles/6e9984fc.ext.json)
 
 ---

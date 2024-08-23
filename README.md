@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 18:28:39**
+As of **2024-08-23 18:39:16**
 
 ## Newspaper Stats
 
-*Scraped **42,287** Articles*
+*Scraped **42,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ dailymirrorlk | 4,733
 adaderanalk | 4,958
 tamilmirrorlk | 5,488
 virakesarilk | 6,723
-adaderanasinhalalk | 7,217
+adaderanasinhalalk | 7,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,286 (100.0%) of 42,287 articles have been extended.
+42,287 (100.0%) of 42,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### ஜனாதிபதி தேர்தலில் முஸ்லிம் அரசியல் தலைவர்களை நம்பாமல் யாரை ஆதரிப்பது என்பதை முஸ்லிம் சமூகம் சிந்தித்து தீர்மானிக்க வேண்டும் - பைஸர் முஸ்தபா
+### The Muslim community should consider and decide who to support Muslim political leaders in the presidential election -Faizer Mustafa
 
 *2024-08-23 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191825) · `ta`
 
-ஜனாதிபதி தேர்தலில் முஸ்லிம் அரசியல் தலைவர்கள் யார் பக்கம் இருந்தாலும் முஸ்லிம் சமூகம் சிந்தித்து தீர்மானம் எடுக்க வேண்டும். அதேபோன்று முஸ்லிம் சமூகத்தை பழிகொடுத்து முஸ்லிம் தலைவர்கள் எந்த வேட்பாளருக்கும் ஆதரவு வழங்க முற்படக்கூடாது என முன்னாள் அமைச்சர் பைஸல் முஸ்தபா தெரிவித்தார்.
+Faizer Mustafa urges the Muslim community to thoughtfully choose their support in the presidential election, cautioning against blind loyalty to Muslim leaders. He criticizes the dual stance of Muslim party leaders supporting both Ranil Wickremesinghe and Sajith Premadasa, suggesting this divides the community. Mustafa emphasizes the importance of the community making informed decisions based on national interests rather than following political leaders' endorsements blindly.
 
-கொழும்பில் வெள்ளிக்கிழமை (23) அவரது கட்சி காரியாலயத்தில் இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் ஸ்ரீலங்கா சுதந்திர கட்சி ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க தீர்மானித்திருக்கிறது. கட்சியின் தீர்மானத்துடனே நானும் இருக்கிறேன். என்றாலும் முஸ்லிம் கட்சிகளின் தலைவர்கள் சஜித் பிரேமதாசவுடன் இருந்தாலும் அவர்களின் பாராளுமன்ற உறுப்பினர்கள் ரணில் விக்ரமசிங்கவுடன் இருக்கின்றனர். இது முஸ்லிம் அரசியல் கட்சிகளின் தலைவர்களின் இரட்டை நிலைப்பாட்டைக்கொண்ட கொள்கையாகும்.
+The Muslim community should consider and make a decision in the presidential election. Former minister Faisal Mustafa said that Muslim leaders should not support any candidate by blaming the Muslim community.
 
-முஸ்லிம் கட்சிகளின் தலைவர்கள் ஒரு பக்கம் இருந்துகொண்டு அவர்களின் ஏனைய உறுப்பினர்களை ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க அந்த தலைவர்கள்தான் அனுப்பியிருக்க வேண்டும்.
+He was speaking at a press conference held at his party office on Friday (23) in Colombo.
+
+Sri Lanka Freedom Party (SLFP) has decided to support President Ranil Wickremesinghe in the upcoming presidential election. I am with the party's decision. However, the leaders of the Muslim parties are with Sajith Premadasa, but their MPs are with Ranil Wickremesinghe. This is a double -standing policy of the leaders of the Muslim political parties.
+
+The leaders of the Muslim parties must have sent the other members to support Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/cb8d5ee2.json)
+
+[Extended Data](ext_articles/cb8d5ee2.ext.json)
+
+---
+
+### ශකීබ් අල් හසන්ට මනුෂ්‍ය ඝාතන චෝදනාවක්
+
+*2024-08-23 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200251) · `si`
+
+බංග්ලාදේශ අවාමි ලීගයේ හිටපු මන්ත්‍රීවරයෙකු මෙන්ම බංග්ලාදේශ ක්‍රිකට් ක්‍රීඩක ශකීබ් අල් හසන්ට මනුෂ්‍ය ඝාතන චෝදනා එල්ල වී තිබේ.
+
+බංග්ලාදේශ රජයට එරෙහිව අගෝස්තු 7 වැනිදා පැවති විරෝධතාව අතරතුර රූබල් ඉස්ලාම් නම් තරුණයෙකු වෙඩි තබා ඝාතනය කිරීම එම චෝදනාවයි.
+
+එම තරුණයා ඝාතනය කළැයි චෝදනා එල්ලවන පුද්ගල ලැයිස්තුවේ ශකීබ්ගේ නම ද ඇතුළත් ය.
+
+◼️
+
+[Data](articles/9a495cd2.json)
 
 ---
 
@@ -2299,27 +2321,5 @@ The official oath-taking ceremony took place in Manila, Philippines, where he wa
 [Data](articles/ac3e3c11.json)
 
 [Extended Data](ext_articles/ac3e3c11.ext.json)
-
----
-
-### Australia-Sri Lanka relationship heads into new terrain
-
-*2024-08-23 04:10:23* · [`dailyftlk`](https://www.ft.lk/news/Australia-Sri-Lanka-relationship-heads-into-new-terrain/56-765870) · `en`
-
-From left: Sri Lanka Navy Director General Operations Rear Admiral Nishantha Periris, SLCG Director-General Rear Admiral Pujitha Vithana, Operation Sovereign Borders Commander Joint Agency Task Force Rear Admiral Brett Sonter, Australian High Commissioner to Sri Lanka Paul Stephens
-
-The Australian Border Force marks another momentous occasion by generously gifting
-
-Sri Lanka Coast Guard (SLCG) three All-terrain Vehicles (ATVs) at a special ceremony in Colombo.
-
-The small, motorised, off-highway vehicles are generally used on rough ground and will complement SLCG’s existing land coastal patrol activities.
-
-Test driving the ATVs during his official visit to the Australian Border Force headquarters earlier this year, SLCG Director General Rear Admiral Pujitha Vithana said the ATVs are geared to enhance onshore patrol capabilities.
-
-...
-
-[Data](articles/1bf34006.json)
-
-[Extended Data](ext_articles/1bf34006.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 17:06:35**
+As of **2024-08-23 17:21:25**
 
 ## Newspaper Stats
 
-*Scraped **42,266** Articles*
+*Scraped **42,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,116 @@ economynextcom | 2,560
 dailyftlk | 2,742
 adalk | 3,894
 dailymirrorlk | 4,733
-adaderanalk | 4,956
+adaderanalk | 4,957
 tamilmirrorlk | 5,488
-virakesarilk | 6,717
+virakesarilk | 6,720
 adaderanasinhalalk | 7,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,265 (100.0%) of 42,266 articles have been extended.
+42,266 (100.0%) of 42,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### මැතිවරණ පැමිණිලි තවදුරටත් ඉහළට
+### சன் பிக்சர்ஸ் நிறுவனத்துடன் மீண்டும் இணையும் தனுஷ்
+
+*2024-08-23 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/191806) · `ta`
+
+தனுஷ் நடித்து, இயக்கிய அவரது ஐம்பதாவது திரைப்படமான 'ராயன்' வெளியாகி வசூல் ரீதியாகவும், விமர்சன ரீதியாகவும் பாரிய வெற்றியை பெற்றது.  இந்திய மதிப்பில் 150 கோடி ரூபாய்க்கு மேல் வசூலித்து சாதனையும் படைத்தது.‌
+
+இதனால் மகிழ்ச்சி அடைந்த ராயன் படத்தை தயாரித்த தயாரிப்பு நிறுவனமான சன் பிக்சர்ஸ், மீண்டும் தனுசுடன் இணைந்திருக்கிறது.  இதற்கான அறிவிப்பு வெளியாகி இருக்கிறது.
+
+தமிழ் திரையுலகின் முன்னணி தயாரிப்பு நிறுவனமான சன் பிக்சர்ஸ் - தனது தயாரிப்பில் உருவாகும் திரைப்படங்கள் வசூல் ரீதியாக மிகப் பிரம்மாண்டமான வெற்றியைப் பெற்றால் அப்படத்தை உருவாக்கிய இயக்குநருக்கும், அதில் நடித்த நடிகருக்கும் அவர்களே எதிர்பாராத அளவில் பிரம்மாண்டமான பரிசுகளை வழங்கி அசத்துவது வழக்கம்.
+
+அந்த வகையில் சன் பிக்சர்ஸ் தயாரிப்பில் அண்மையில் வெளியான 'ராயன்' திரைப்படம் பிரம்மாண்டமான வெற்றியை பெற்றது.
+
+...
+
+[Data](articles/b48533e4.json)
+
+---
+
+### India’s Modi meets Zelensky on historic Ukraine visit, pushes for end to war
+
+*2024-08-23 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101453/indias-modi-meets-zelensky-on-historic-ukraine-visit-pushes-for-end-to-war) · `en`
+
+Indian Prime Minister Narendra Modi met Ukraine’s leader Volodymyr Zelensky on a historic visit to Kyiv on Friday, where he is pushing for a solution to end more than two years of war with Russia.
+
+Modi embraced Zelensky – who looked visibly emotional – at the Mariinsky palace in Kyiv, in the first ever visit by an Indian premier to Ukraine.
+
+The Indian leader is casting himself as a possible peacemaker between Moscow and Kyiv.
+
+But his visit comes at a dramatic moment in the two-and-a-half year war, with a diplomatic settlement appearing more elusive than ever.
+
+Kyiv’s forces are mounting a major incursion into Russia’s Kursk region while Moscow’s army is advancing in eastern Ukraine, claiming to have seized a swathe of towns and villages in recent weeks.
+
+“No problem can be resolved on a battlefield,” Modi said in Poland on Wednesday before heading to Ukraine.
+
+India, he said, supports “dialogue and diplomacy for restoration of peace and stability as soon as possible”.
+
+...
+
+[Data](articles/c60224d2.json)
+
+---
+
+### Election complaints further increased
 
 *2024-08-23 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200245) · `si`
 
-ජනාධිපතිවරණයට අදාළව ලැබී ඇති පැමිණිලි සංඛ්‍යාව තවදුරටත් ඉහළ යමින් තිබේ.
+The number of election-related complaints has risen significantly, with 65 new ones reported in the last 24 hours, bringing the total to 836 since July 31st. The Commission highlights violations of election laws.
 
-එම කොමිෂන් සභාව පෙන්වා දෙන්නේ ගතවූ පැය 24ක කාලය තුළ පමණක් මැතිවරණ පැමිණිලි 65ක් වාර්තා වී ඇති බවත් එය මැතිවරණ නීති උල්ලංඝනය කිරීම් බවයි.
+🟩
 
-තවද පසුගිය ජූලි 31 වැනිදා සිට ඊයේ (22) දක්වා ගතවූ කාලය තුළ මැතිවරණ පැමිණිලි 836ක් වාර්තා වී වූ බවද මැතිවරණ කොමිෂන් සභාව පවසයි.
+The number of complaints received regarding the presidential election is further proposed.
+
+The Commission pointed out that 65 election related complaints have been reported during the last 24 hours and that it violates election laws.
+
+836 election complaints have been reported from July 31st (July 22).
 
 ◼️
 
 [Data](articles/f7736261.json)
+
+[Extended Data](ext_articles/f7736261.ext.json)
+
+---
+
+### முச்சக்கரவண்டியுடன் பஸ் மோதி விபத்து - நால்வர் படுகாயம்
+
+*2024-08-23 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191781) · `ta`
+
+மாத்தளை - கதிர்காமம் வீதியில் தங்காலை உனாகுருவ பிரதேசத்தில் பஸ் ஒன்றும் முச்சக்கரவண்டியொன்றும் மோதி விபத்துக்குள்ளானதில் நான்கு பேர் படுகாயங்களுக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த விபத்தின் போது, முச்சக்கரவண்டியின் சாரதியும் பின்புறத்தில் அமர்ந்திருந்த தாயும் தந்தையும் மகனுமே காயமடைந்துள்ளனர்.
+
+மேலும், அம்பாறையில் இருந்து சுற்றுலாப் பயணம் சென்ற பஸ் வண்டியில் மோதியே விபத்து ஏற்பட்டுள்ளதாகவும் பஸ் சாரதி கைது செய்யப்பட்டுள்ளதாகவும்  பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/658bf37d.json)
+
+---
+
+### வெற்றி நடிக்கும் 'ஆலன்' படத்தின் புதிய பாடல் வெளியீடு
+
+*2024-08-23 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191804) · `ta`
+
+தமிழ் திரையுலகில் வளர்ந்து வரும் நம்பிக்கை தரும் நட்சத்திரங்களில் ஒருவரான நடிகர் வெற்றி கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'ஆலன்' எனும் திரைப்படத்தில் இடம் பெற்ற 'ஏன் அணைந்தாய்..' எனத் தொடங்கும் மூன்றாவது பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் ஆர்.சிவா இயக்கத்தில் உருவாகி இருக்கும் 'ஆலன்' எனும் திரைப்படத்தில் வெற்றி, மதுரா, அனு சித்தாரா, கருணாகரன், விவேக் பிரசன்னா, 'அருவி' மதன் குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+விந்தன் ஸ்டாலின் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு மனோஜ் கிருஷ்ணா இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை 3 எஸ் பிக்சர்ஸ் நிறுவனம் சார்பில் இயக்குநர் ஆர். சிவா தயாரித்திருக்கிறார்.
+
+இந்தத் திரைப்படத்தில் இடம்பெற்ற இரண்டு பாடல்களும், பாடலுக்கான வீடியோவும் வெளியாகி பெரும் வரவேற்பை பெற்றது. இந்நிலையில் இந்த திரைப்படத்தில் இடம்பெற்ற 'ஏன் அணைந்தாய்..' எனத் தொடங்கும் மூன்றாவது பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/47e7e72c.json)
 
 ---
 
@@ -2145,105 +2227,5 @@ A political analyst says that Ranil Wickremesinghe is independent of as an indep
 [Data](articles/18735f5b.json)
 
 [Extended Data](ext_articles/18735f5b.ext.json)
-
----
-
-### Complete support - Sreedharan
-
-*2024-08-23 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191748) · `ta`
-
-Parliamentarian Sivagnanam Sreedharan pledged full support to Tamil general candidate PA Ariyanethran for the upcoming presidential election during a meeting in Jaffna. Sreedharan emphasized representing the people's choice and highlighted the importance of conveying a message to the Tamil community. Ariyanethran noted Sreedharan's recommendation of the conch symbol.
-
-🟩
-
-Parliamentarian Sivagnanam Sreedharan has promised to give full support to Tamil general candidate PA Ariyanethran in the upcoming presidential election.
-
-A special meeting was held in Jaffna on Thursday (22).
-
-Sridharan has been welcomed by Tamil general candidate Ariyanendran Ponnadi Ponnadi and greeted with a flower.
-
-Following this, the two have been supported by the Tamil general candidate when the two jointly commented to the media.
-
-My support will be given as the representative of the people elected by the people. Sreedharan said, "The Tamil people should be given a message in the upcoming presidential election."
-
-Whatever the decision of the Sri Lanka Tamil National Party, my support will be given to Ariyanathan. The Tamil people will decide how far the party is going to push us from the people.
-
-At the same time, Ariyanethran commented that Sreedharan was the one who recommended the conch symbol.
-
-◼️
-
-[Data](articles/22d12224.json)
-
-[Extended Data](ext_articles/22d12224.ext.json)
-
----
-
-### Presidential Candidate Dr. Etirus Illiyas has passed away
-
-*2024-08-23 02:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191739) · `ta`
-
-Dr. Eidurus Illiyas, a former MP and presidential candidate, unexpectedly passed away on Thursday, 22nd.
-
-🟩
-
-The presidential candidate and former MP, Dr. Eidurus Illiyas, passed away on Thursday 22nd.
-
-◼️
-
-[Data](articles/a8a7654a.json)
-
-[Extended Data](ext_articles/a8a7654a.ext.json)
-
----
-
-### Governor Nandalal Weerasinghe has received the 'A' chief in the Central Banking Report of the Global Fund
-
-*2024-08-23 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191747) · `ta`
-
-Dr. Nandalal Weerasinghe, Governor of Sri Lanka's Central Bank, has been recognized as a top performer in the Global Fund's Central Banking Report for 2024. This accolade highlights his leadership in navigating the country through its economic crisis, emphasizing his contributions to controlling inflation, fostering economic growth, and stabilizing the rupee's value. The Global Fund, established in 1994, annually honors central bankers worldwide for their efforts in maintaining economic stability.
-
-🟩
-
-The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has been given a leading role in the Central Banking Report of the Global Fund for 2024.
-
-The Central Bank said it was a proud recognition of the leadership and his subtle skills provided by Governor Nandalal Weerasinghe to restore the country that was facing the economic crisis and to take the progress.
-
-The Central Bank has pointed out that it is also reached by the Governor in the main categories of maintaining inflation, economic growth, the value of the rupee, maintaining the value of the rupee.
-
-It is noteworthy that the global fund has been providing such benchmarks annually since 1994 to honor the execution of the central bank governors of the world and the dedicated obligation to maintain the economic stability.
-
-◼️
-
-[Data](articles/91b2b7b4.json)
-
-[Extended Data](ext_articles/91b2b7b4.ext.json)
-
----
-
-### Disciplinary action against Ali Sahir Maulana;One week to reply - Rauf Hakeem
-
-*2024-08-23 02:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191746) · `ta`
-
-Rauf Hakeem announced disciplinary action against MP Ali Zahir Maulana, giving him one week to respond. Maulana, a member of the Sri Lanka Muslim Congress, faces potential removal from his position as Deputy Leader due to undisclosed reasons. He has acknowledged his mistakes and will submit a truth report to the party leadership, who will then decide his future within the party.
-
-🟩
-
-We have carried out disciplinary action against MP Ali Zahir Maulana. Sri Lanka Muslim Congress President Rauf Hakeem said he should respond within a week.
-
-He was responding to questions raised by journalists during a media briefing held in Colombo on Thursday (22).
-
-Member of Parliament. He sought permission to meet Haris after suspending the post of Deputy Leader of the party.. The party advised that the people should publicly clarify the campaign and make public campaigns.
-
-He has publicly accepted his shortcomings and submitted a truth.His legitimate factors will be asked to submit the Satyagadasi to the party's peak.
-
-He has confirmed that the party is acting in accordance with. Therefore, the party's peak will decide whether or not to remove the ban imposed on him.
-
-We have carried out disciplinary action against MP Ali Zahir Maulana. We have been given a week's time to respond. He said the next step would be based on his response.
-
-◼️
-
-[Data](articles/4ae6be5c.json)
-
-[Extended Data](ext_articles/4ae6be5c.ext.json)
 
 ---

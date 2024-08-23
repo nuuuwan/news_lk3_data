@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 18:39:16**
+As of **2024-08-23 18:56:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,287 (100.0%) of 42,288 articles have been extended.
+42,288 (100.0%) of 42,288 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,19 +56,25 @@ The leaders of the Muslim parties must have sent the other members to support Ra
 
 ---
 
-### ශකීබ් අල් හසන්ට මනුෂ්‍ය ඝාතන චෝදනාවක්
+### Shakeb Al Hashan allegations of murder
 
 *2024-08-23 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200251) · `si`
 
-බංග්ලාදේශ අවාමි ලීගයේ හිටපු මන්ත්‍රීවරයෙකු මෙන්ම බංග්ලාදේශ ක්‍රිකට් ක්‍රීඩක ශකීබ් අල් හසන්ට මනුෂ්‍ය ඝාතන චෝදනා එල්ල වී තිබේ.
+Shakeb Al Hashan, a former Bangladeshi cricketer, faces murder charges for allegedly shooting and killing a protester, Rubel Islam, during anti-government demonstrations. His name is included in the list of suspects accused of murdering the youth.
 
-බංග්ලාදේශ රජයට එරෙහිව අගෝස්තු 7 වැනිදා පැවති විරෝධතාව අතරතුර රූබල් ඉස්ලාම් නම් තරුණයෙකු වෙඩි තබා ඝාතනය කිරීම එම චෝදනාවයි.
+🟩
 
-එම තරුණයා ඝාතනය කළැයි චෝදනා එල්ලවන පුද්ගල ලැයිස්තුවේ ශකීබ්ගේ නම ද ඇතුළත් ය.
+Like a former member of the Bangladeshi League, as well as Bangladesh cricketer cricketer, has been charged with murder.
+
+The allegation was to shoot and kill a young man of Rubble Islam during the protest held against the Government of Bangladesh.
+
+Shakuckie's name also includes the alleged person's list of murdering the youth.
 
 ◼️
 
 [Data](articles/9a495cd2.json)
+
+[Extended Data](ext_articles/9a495cd2.ext.json)
 
 ---
 

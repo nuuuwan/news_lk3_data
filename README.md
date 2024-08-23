@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 01:21:51**
+As of **2024-08-24 01:37:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,315 (100.0%) of 42,328 articles have been extended.
+42,318 (100.0%) of 42,328 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,41 +60,61 @@ A large number of people from the Sinhala, Tamil and Muslims participated in the
 
 ---
 
-### இங்கிலாந்துடனான டெஸ்டில் இக்கட்டான நிலையில் இலங்கை; 4 விக்கெட்கள் மீதமிருக்க 82 ஓட்டங்களால் மாத்திரம் முன்னிலை
+### Sri Lanka in a predicament in Test with England;Only 4 wickets remaining by 82 runs
 
 *2024-08-24 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191836) · `ta`
 
-மென்ச்செஸ்டர், எமிரேட்ஸ் ஓல்ட் ட்ரபோர்ட் விளையாட்டரங்கில் நடைபெற்றுவரும் இங்கிலாந்துக்கு எதிரான 3 போட்டிகள் கொண்ட ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் தொடரின் முதலாவது போட்டியில் இக்கட்டான நிலையை இலங்கை எதிர்கொண்டுள்ளது.
+Sri Lanka faces a challenging position in the first ICC World Test Championship match against England, trailing by 82 runs with four wickets left. Despite efforts from players like Nishan Madushka, Kusal Mendis, and Angelo Mathews, injuries and controversial LBW decisions have hindered progress. England, led by Jemima Smith's maiden century, holds a strong position after scoring 358 runs in their first innings.
 
-இந்த டெஸ்ட் போட்டியின் முதல் இன்னிங்ஸ் நிறைவில் 132 ஓட்டங்களால் பின்னிலையில் இருந்த இலங்கை மூன்றாம் நாளான இன்றைய தினம் ஆட்ட நேர முடிவில் அதன் இரண்டாவது  இன்னிங்ஸில் 6 விக்கெட்களை இழந்து 204 ஓட்டங்களைப் பெற்று தடுமாறிக்கொண்டிருந்தது.
+🟩
 
-மேலும் 4 விக்கெட்கள் மீதம் இருக்கும் நிலையில் 82 ஓட்டங்களால்  மாத்திரம்  இலங்கை முன்னிலையில் இருக்கிறது. போட்டியில் மேலும் 2 நாட்கள் மீதம் இருப்பதால் அதிசயம் நிகழ்ந்தாலன்றி இலங்கையினால் தோல்வியைத் தவிர்க்க முடியாமல் போகும்.
+Sri Lanka is facing embarrassment in the first match of the three -match ICC World Test Championships against England at the Emirates Old Traford Stadium.
 
-இரண்டாவது இன்னிங்ஸில் நிஷான் மதுஷ்க, குசல் மெண்டிஸ் ஆகிய இருவரும் ஓட்டம் பெறாமல் ஆட்டம் இழந்தனர். (1 - 2 விக்.)
+In the first innings of the Test match, Sri Lanka, with 132 runs, was the third day of the match, losing 6 wickets in its second innings at the end of the match and scoring 204 runs.
 
-முன்னாள் அணித் தலைவர்களான திமுத் கருணாரட்னவும் ஏஞ்சலோ மெத்யூஸும் 3ஆவது விக்கெட்டில் 51 ஓட்டங்களைப் பகிர்ந்து வீழ்ச்சியை சீர் செய்தனர்.
+Sri Lanka is only 82 runs with 4 wickets remaining. Sri Lanka's failure will inevitably unless the miracle happens because the competition remains for another 2 more days.
+
+In the second innings, Nishan Madushka and Kusal Mendis lost the game without running. (1 - 2 wig.)
+
+Former team leaders Timuth Karunaratne and Angelo Mathews shared 51 runs in the 3rd wicket.
+
+Following this, Dinesh Chandimal was injured when the total number was 74 runs.. 149 km / h speed ball at Mark Wood. Dinesh Sandimal hit his right finger and he had to retire with 12 runs.
+
+Constantly Tanjaya de Silva got 11 runs. (95 - 4 wig.)
 
 ...
 
 [Data](articles/0bb5c156.json)
 
+[Extended Data](ext_articles/0bb5c156.ext.json)
+
 ---
 
-### புதுப்பிக்கப்படாத சாரதி அனுமதிப் பத்திரங்களை இரத்து செய்ய எந்தவொரு முடிவும் எடுக்கப்படவில்லை - ரஞ்சித் ரூபசிங்க
+### No decision has been taken to cancel the renewed driver's licenses - Ranjith Rupasinghe
 
 *2024-08-24 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/191835) · `ta`
 
-புதுப்பிக்கப்படாத அனைத்து  சாரதி அனுமதிப் பத்திரங்களையும் இரத்து செய்ய முடிவு செய்யப்பட்டுள்ளதாக வெளியான செய்திகள் முற்றிலும் தவறானவை என்றும், அவ்வாறு எந்தவொரு முடிவும் எடுக்கப்படவில்லை என்றும் போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் பொறியியலாளர் ரஞ்சித் ரூபசிங்க தெரிவித்தார்.
+Ranjith Rupasinghe, Secretary of the Ministry of Transport and Highways, clarified that there's no plan to cancel renewed driver's licenses. He announced a new system for updating 2 million unrenewed licenses by year-end, with no need for new medical checks or visits to the department. The transport sector is being digitized, and a new driving license system, including an e-license, will be introduced by mid-2025. Temporary licenses issued due to card shortages will be replaced within two months, and all should receive new licenses by the end of the year. Digital railway tickets are now available online, with more digital services planned for the near future.
 
-இதுவரை புதுப்பிக்கப்படாத சுமார் 2 மில்லியன் சாரதி அனுமதிப் பத்திரங்கள் தொடர்பான  தகவல்களை புதுப்பிப்பதற்காக புதிய முறையொன்று அறிமுகப்படுத்தப்படவுள்ளதாகவும், அதற்கான அனைத்துப் பணிகளும் இந்த ஆண்டு இறுதிக்குள்  நிறைவு செய்யப்படும் எனவும் அவர் மேலும் தெரிவித்தார்.
+🟩
 
-வெள்ளிக்கிழமை (23) ஜனாதிபதி ஊடக மையத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் பொறியியலாளர் ரஞ்சித் ரூபசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+Ranjith Rubasinghe, Secretary of the Ministry of Transport and Highways, said that the reports that the decision to cancel all the renewed driver's licenses was completely false and no decision was taken.
 
-1960 களில் இந்நாட்டின் முதல் சாரதி அனுமதிப் பத்திரம் வழங்கப்பட்டதிலிருந்து, சுமார் 12.3 மில்லியன் சாரதி அனுமதிப் பத்திரங்கள் வழங்கப்பட்டுள்ளதாகவும் ரஞ்சித் ரூபசிங்க குறிப்பிட்டார்.
+He added that a new system will be introduced to update about 2 million driver's licenses that have not yet been renewed and all the work will be completed by the end of this year.
+
+Secretary of the Ministry of Transport and Highways, Ranjith Rupasinghe, who attended a media briefing held at the Presidential Media Center on Friday (23).
+
+Ranjith Rupasinghe said that since the country's first driver's license was issued in the 1960s, about 12.3 million driver's licenses were issued.
+
+Ranjith Rupasinghe, Secretary of the Ministry of Transport and Highways
+
+The first driver's license was issued in this country in 60 years. Thereafter, about 12.3 million driver's licenses have been issued.
 
 ...
 
 [Data](articles/310b9afc.json)
+
+[Extended Data](ext_articles/310b9afc.ext.json)
 
 ---
 
@@ -267,6 +287,8 @@ NPP’s system-change and economic reforms minus a few populist promises ensure 
 ...
 
 [Data](articles/b8998bcd.json)
+
+[Extended Data](ext_articles/b8998bcd.ext.json)
 
 ---
 

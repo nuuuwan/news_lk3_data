@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 22:21:35**
+As of **2024-08-23 22:37:06**
 
 ## Newspaper Stats
 
@@ -26,65 +26,83 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,300 (100.0%) of 42,303 articles have been extended.
+42,303 (100.0%) of 42,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### ஜனாதிபதி வேட்பாளர்களின் மாத வருமானம் வெளியானது
+### The monthly income of the presidential candidates has been released
 
 *2024-08-23 22:00:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களின்-மாத-வருமானம்-வெளியானது/175-342694) · `ta`
 
-இதில் அதிக மாத வருமானம் பெரும் வேட்பாளராக திலித் ஜயவீரவும், குறைந்த மாத வருமானம் கொண்ட வேட்பாளராக ரணில் விக்கிரமசிங்கவும் அறிவிக்கப்பட்டுள்ளனர்.
+Dilith Jayaweera tops with the highest monthly income among presidential candidates, followed by Wijedasa Rajapakse. Ranil Wickremesinghe has the lowest income. This data comes from the Commission to Investigate Bribery, Corruption and Assets, marking the first time candidates have disclosed their assets and loans to the Election Commission.
 
-இலஞ்சம், ஊழல் மற்றும் சொத்துக்களை புலனாய்வு செய்வதற்கான ஆணைக்குழு வெளியிட்டுள்ள தகவலுக்கமைய இந்த தகவல் வெளியாகி உள்ளது.
+🟩
 
-இரண்டாவது அதிகூடிய மாதாந்த வருமானம் சட்டத்தரணி விஜேதாச ராஜபக்ஷ எனவும் அவரது மாத வருமானம் 13 இலட்சத்து 45 ஆயிரம் ரூபாய் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+Dilith Jayaweera has been announced as the highest monthly income candidate and Ranil Wickremesinghe as the lowest monthly income candidate.
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்கள் வேட்புமனுத் தாக்கல் செய்யும் போது தேர்தல் ஆணைக்குழுவிடம் தமது சொத்துக்கள் மற்றும் கடன்களை சமர்ப்பிக்க வேண்டிய முதல் சந்தர்ப்பம் இதுவாகும். R
+This information has been revealed according to information issued by the Commission to Investigate Bribery, Corruption and Assets.
+
+The second highest monthly income is said to be Attorney -at -Law Wijedasa Rajapakse and his monthly income is 13 lakhs 45 thousand rupees.
+
+This is the first opportunity to submit their assets and loans to the Election Commission when candidates contesting the presidential election. Remble
 
 ◼️
 
 [Data](articles/0f2907aa.json)
 
+[Extended Data](ext_articles/0f2907aa.ext.json)
+
 ---
 
-### මාස 5කදී පොලීසිය කළ මෙහෙයුමෙන් කොටුවූ පිරිස 3000 ඉක්මවයි
+### Over 3,000 persons arrested in 5 months
 
 *2024-08-23 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200261) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා ගතවූ මාස 05 තුළ සිදුකළ මෙහෙයුම්වලින් පුද්ගලයින් 3,400 ඉක්මවූ පිරිසක් අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+In the past five months, over 3,400 individuals have been arrested in connection with organized crimes across the island. The arrests, part of extensive raids starting on March 19, involve suspects linked to crime planning. Investigations are ongoing.
 
-දිවයිනම ආවරණය වන පරිදි පසුගිය මාර්තු මස 19 වනදා සිට විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා මෙම වැටලීම් සිදුකර තිබුණි.
+🟩
 
-ඒ අනුව සංවිධානාත්මක අපරාධ සිදුකිරීම සඳහා සෘජුව සහාය දැක්වීම, අපරාධ සැලසුම් කිරීම සහ ඊට ආධාර අනුබල ලබාදීම යනාදිය සම්බන්ධයෙන් සැකකරුවන් සහ සැකකාරියන් 3,411 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+Police have arrested a group of more than 3,400 people from the five months of the last five months of the past five months.
 
-ඊයේ (22) දිනයේ ද සැකකරුවන් 38 දෙනෙකු කොළඹ අපරාධ කොට්ඨාශය සහ බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාශය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+The raids were carried out on March 19, covering the island on March 19.
 
-මෙම සැකකරුවන් සම්බන්ධයෙන් රැඳවුම් නියෝග ලබාගෙන වැඩිදුර විමර්ශන සිදුකරන බව පොලිස් මූලස්ථානය පවසයි.
+According to the police, 3,41,000 suspects and suspects have been arrested in connection with the crime planning and assistance to organizational crimes.
+
+The Colombo Crimes Division and the Western Province Societies were arrested by the Colombo Crimes Division yesterday (22).
+
+Police Headquarters say that the investigations are underway and investigations are underway.
 
 ◼️
 
 [Data](articles/1fc3b4bb.json)
 
+[Extended Data](ext_articles/1fc3b4bb.ext.json)
+
 ---
 
-### මෝදි යුක්‍රේනයේ නිල සංචාරයක
+### Modi on an official visit to Ukraine
 
 *2024-08-23 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200260) · `si`
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි නිල සංචාරයක් සඳහා යුක්‍රේනයට පැමිණ තිබේ.
+Narendra Modi, India's PM, made history by becoming the first Indian leader to visit Ukraine. His trip includes discussions with Ukraine's President Vlodimir Selencesky, focusing on resolving ongoing conflict issues.
 
-ඒ නිල සංචාරයක් සඳහා යුක්‍රේනයට පැමිණි පළමු ඉන්දීය අග්‍රාමාත්‍යවරයා බවට පත්﻿වෙමිනි.
+🟩
 
-පෝලන්තයේ නිල සංචාරය අවසන් කරමින් මෙලෙස යුක්‍රේනයට පැමිණි ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි අද යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කි සමග ද්වී පාර්ශ්වික සාකච්ඡා පැවැත්වීමට නියමිතය.
+Indian Prime Minister Narendra Modi has arrived in Ukraine for an official visit.
 
-රුසියානු යුක්‍රේන යුද ගැටුම් සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා ඉන්දීය අග්‍රාමාත්‍යවරයා මීට සති 06කට පෙර රුසියාවේ ද සංචාරයක නිරත වුණි.
+It became the first Indian Prime Minister who arrived in Ukraine for a visit.
+
+Indian Prime Minister Narendra Modi is scheduled to hold bilateral talks with Ukraine President Vlodimir Selencesky.
+
+The Indian Prime Minister visited Russian Ukraine to discuss war conflicts six weeks ago.
 
 ◼️
 
 [Data](articles/4b1ad49e.json)
+
+[Extended Data](ext_articles/4b1ad49e.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 08:26:11**
+As of **2024-08-23 08:36:53**
 
 ## Newspaper Stats
 
@@ -1470,7 +1470,7 @@ Ather Energy, an electric vehicle manufacturer based in India, on Thursday said 
 
 The expansion will be the company’s second international launch after it entered Nepal last year.
 
-Ather will set up an experience centre through a partnership with Evolution Auto Pvt Ltd, a joint venture between Sensex Capital Partners, Atman Group and Sri Lanka-based Sino Lanka Private Ltd, the company mentioned in a press release.
+Ather will set up an experience centre through a partnership with Evolution Auto Pvt Ltd, a joint venture between Sensei Capital Partners, Atman Group and Sri Lanka-based Sino Lanka Private Ltd, the company mentioned in a press release.
 
 Evolution Auto will serve as the company’s national distributor and will manage Ather Energy’s sales and service operations in Sri Lanka.
 

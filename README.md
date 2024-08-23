@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 05:21:37**
+As of **2024-08-23 05:39:22**
 
 ## Newspaper Stats
 
-*Scraped **42,174** Articles*
+*Scraped **42,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 390
 colombotelegraphcom | 403
 islandlk | 2,441
 economynextcom | 2,553
-dailyftlk | 2,739
+dailyftlk | 2,741
 adalk | 3,884
 dailymirrorlk | 4,733
 adaderanalk | 4,939
@@ -26,11 +26,41 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,166 (100.0%) of 42,174 articles have been extended.
+42,174 (100.0%) of 42,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### Make your vote count
+
+*2024-08-23 05:16:44* · [`dailyftlk`](https://www.ft.lk/columns/Make-your-vote-count/4-765896) · `en`
+
+In a true democracy, the selection of candidates and the election process should involve the entire population equally. Unfortunately, our current election rules allow only a select few to become candidates without requiring any public endorsement, such as a stepwise regional election process within the party. Our system favours existing politicians and makes it virtually impossible to register a political party to address specific issues. It is a significant obstacle to a fair and inclusive democratic process. Despite the wishes expressed by the ordinary people during ‘Aragalaya 2022,’ we are left with mostly the same 225 candidates to choose from once again, a situation that should concern us all.
+
+...
+
+[Data](articles/6aa03193.json)
+
+---
+
+### Civil Society appeal for abolition of Executive Presidency
+
+*2024-08-23 05:13:49* · [`dailyftlk`](https://www.ft.lk/opinion/Civil-Society-appeal-for-abolition-of-Executive-Presidency/14-765895) · `en`
+
+The experience of 46 years of the operation of the 1978 Constitution shows that the executive
+
+presidential system has not delivered on any of the aims for which it was introduced
+
+We the undersigned call upon all candidates contesting the forthcoming 2024 Presidential election to firmly and publicly commit to the abolition of the executive presidential system within the first year of the next Parliament.
+
+The experience of 46 years of the operation of the 1978 Constitution shows that the executive presidential system has not delivered on any of the aims for which it was introduced: accelerated and sustained economic growth and development; communal harmony; and political stability. Executive presidentialism has only had a negligible impact on development. It has worsened rather than improved peace and stability, by accelerating ethnic conflict and making our political system prone to frequent crises.
+
+...
+
+[Data](articles/9ef756e9.json)
+
+---
 
 ### Career woman vs motherhood: Can you really have it all?
 
@@ -100,6 +130,8 @@ The policy dialogue brought together key stakeholders including policymakers and
 
 [Data](articles/c1612679.json)
 
+[Extended Data](ext_articles/c1612679.ext.json)
+
 ---
 
 ### TMH Group Chairman appointed as IPC Sri Lanka Territory Commander, recognised for global humanitarian efforts
@@ -113,6 +145,8 @@ The official oath-taking ceremony took place in Manila, Philippines, where he wa
 ...
 
 [Data](articles/ac3e3c11.json)
+
+[Extended Data](ext_articles/ac3e3c11.ext.json)
 
 ---
 
@@ -134,6 +168,8 @@ Test driving the ATVs during his official visit to the Australian Border Force h
 
 [Data](articles/1bf34006.json)
 
+[Extended Data](ext_articles/1bf34006.ext.json)
+
 ---
 
 ### 100th birth anniversary of Justice E.A.D. Atukorale on Sunday
@@ -149,6 +185,8 @@ Justice Atuorale was appointed to the Court of Appeal on 7 September 1978 and wa
 ...
 
 [Data](articles/9e85791b.json)
+
+[Extended Data](ext_articles/9e85791b.ext.json)
 
 ---
 
@@ -168,6 +206,8 @@ This bold newcomer will not be just another airline; and aims to become a pionee
 
 [Data](articles/53e4eb1c.json)
 
+[Extended Data](ext_articles/53e4eb1c.ext.json)
+
 ---
 
 ### Cabinet approves extension of CHEC Port City Colombo project implementation period
@@ -186,6 +226,8 @@ The proposal to extend the project period was presented by President Ranil Wickr
 
 [Data](articles/68dc6d27.json)
 
+[Extended Data](ext_articles/68dc6d27.ext.json)
+
 ---
 
 ### Six new companies to operate tourist counters at BIA
@@ -202,6 +244,8 @@ The selected companies include: Airport Tourist Drivers Association, Ayubowan To
 
 [Data](articles/9f6724f7.json)
 
+[Extended Data](ext_articles/9f6724f7.ext.json)
+
 ---
 
 ### Asian Paints Causeway Unveils ‘ColourNext-2024’ in Colombo
@@ -217,6 +261,8 @@ One of Sri Lanka’s largest paint manufacturers, Asian Paints Causeway, recentl
 ...
 
 [Data](articles/b4e8a0db.json)
+
+[Extended Data](ext_articles/b4e8a0db.ext.json)
 
 ---
 
@@ -2283,47 +2329,5 @@ A preliminary report by Iran’s military had said in May that no evidence of fo
 [Data](articles/a524c13e.json)
 
 [Extended Data](ext_articles/a524c13e.ext.json)
-
----
-
-### High Court order to hold local government elections as soon as possible!
-
-*2024-08-22 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191692) · `ta`
-
-The High Court has ordered immediate local government elections, criticizing the President, Finance Minister, and Election Commission for violating fundamental rights by not holding them in 2023. The court also canceled previous delays, setting a deadline before the scheduled presidential vote on September 21st.
-
-🟩
-
-As a finance minister, the President and the Election Commission members have violated fundamental rights in 2023 without holding local government elections.
-
-The High Court on Thursday (22) ordered the postponement of the postponement of the postponement as soon as possible.
-
-The presidential election is scheduled for September 21st.
-
-◼️
-
-[Data](articles/1cec4d84.json)
-
-[Extended Data](ext_articles/1cec4d84.ext.json)
-
----
-
-### Sri Lanka announces fertilizer subsidies for tea and rice farmers ahead of polls
-
-*2024-08-22 12:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-announces-fertilizer-subsidies-for-tea-and-rice-farmers-ahead-of-polls-177713/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Fertilizer Company will give upto a 30,000 rupee fertilizer subsidy to small rice farmers for the current Maha season, Cabinet spokesman Bandula Gunawardana said.
-
-The subsidy will be given at the rate of 15,000 rupees per hectare, for 2 hectares at max.
-
-The cost of the subsidy was not in the cabinet paper he said.
-
-It is not clear how the subsidy will be funded. (Colombo/Aug22/2024)
-
-◼️
-
-[Data](articles/c7b97ce3.json)
-
-[Extended Data](ext_articles/c7b97ce3.ext.json)
 
 ---

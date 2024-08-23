@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 11:36:58**
+As of **2024-08-23 11:56:45**
 
 ## Newspaper Stats
 
-*Scraped **42,221** Articles*
+*Scraped **42,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 4,948
 tamilmirrorlk | 5,478
 virakesarilk | 6,712
-adaderanasinhalalk | 7,204
+adaderanasinhalalk | 7,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,219 (100.0%) of 42,221 articles have been extended.
+42,221 (100.0%) of 42,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### කාෂ්මීරය ඉන්දියාවට වඩාත් සමීප කරමින් ඉදිකළ දුම්රිය පාලම
+
+*2024-08-23 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200234) · `si`
+
+ජම්මු සහ කාශ්මීරයේ රියාසි දිස්ත්‍රික්කයේ බක්කල් සහ කවුරි කලාප යා කරමින් මෙම දුම්රිය පාලම ඉදිකර තිබෙන අතර, මෙය චෙනාබ් දුම්රිය පාලම ලෙස නම්කර ඇත.
+
+ඉන්දීය බලධාරීන්ට අනුව මෙය ඉදිකර ඇත්තේ ඉන්දියානු පාලනය යටතේ පවතින කාෂ්මීර ප්‍රාන්තය ඉන්දියාවට වඩාත් සමීප කිරීමේ අරමුණින් ය.
+
+චෙනාබ් ගංගාවට ඉහළින් දිවෙන මෙම පාලම මතින් මේ වනවිට දුම්රියක්ද ධාවනය කර අත්හදා බැලීමට ඉන්දීය බලධාරීන් කටයුතු කර තිබේ.
+
+හිමාල කඳුවැටිය අතරින් ඉදිකර තිබෙන මෙම විස්මිත පාලම ලොව වැඩිම උසකින් පිහිටුවා ඇති ආරක්කු පාලම ද වෙයි.
+
+තනි ආරුක්කුවක් ආකාරයෙන් නිර්මාණය කර ඇති චෙනාබ් දුම්රිය පාලම මීටර් 1,315 ක දිගකින් යුක්ත වන අතර, එහි උස මීටර් 359කි.
+
+මෙම දුම්රිය පාලම නිම කිරීමට අවුරුදු 20ක පමණ කාලයක් ගත වී තිබෙන අතර, ඒ සඳහා ඉන්දීය රජය ඩොලර් මිලියන 168 වියදමක් දරා ඇත.
+
+ජම්මු හී දරුණු කාලගුණික තත්ත්වයන් දක්නට ලැබෙන ප්‍රදේශයක් වුවත්, ඒ ඕනෑම කාලගුණික තත්ත්වයකට ඔරොත්තු දෙන ලෙසින් මෙම පාලම ඉදිකර ඇත.
+
+...
+
+[Data](articles/25ae84c3.json)
+
+---
 
 ### Kiribati’s pro-China govt bars foreign officials from visiting until 2025, citing elections
 
@@ -48,21 +72,29 @@ Kiribati is threatened by rising sea levels and does not command the resource we
 
 [Data](articles/3365123f.json)
 
+[Extended Data](ext_articles/3365123f.ext.json)
+
 ---
 
-### சிறுவன் பாலியல் வன்கொடுமை ; இளைஞனுக்கு வலை
+### The boy's sexual harassment;Web to young man
 
 *2024-08-23 11:06:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவன்-பாலியல்-வன்கொடுமை-இளைஞனுக்கு-வலை/76-342670) · `ta`
 
-ஹிகுருகடுவ பொலிஸ் பிரிவிற்குட்பட்ட லுனுகல பிரதேசத்தை சேர்ந்த 7 வயதுடைய சிறுவனை பாலியல் வன்கொடுமைக்கு உட்படுத்திய குற்றச்சாட்டில் இளைஞன் ஒருவனை கைது செய்வதற்கான விசாரணைகளை பொலிஸாரால் முன்னெடுக்கப்பட்டுள்ளது .
+A youth is under investigation for allegedly raping a 7-year-old boy in Sri Lanka's Lunugala area. The suspect, an assistant to a worker at a nearby house, is accused of repeated sexual abuse. The victim's father filed a complaint, leading to the suspect's arrest and the boy's hospitalization for a medical exam.
 
-பாதிக்கப்பட்ட சிறுவனின் வீட்டிற்கு அருகில் உள்ள வீடொன்றில் வேலை செய்த கொத்தனாரின் உதவியாளராக வந்த சந்தேக நபர் பல தடவைகள் சிறுவனை பாலியல் வன்கொடுமை செய்துள்ளதாக சிறுவனின் தந்தை வியாழக்கிழமை (22)அன்று பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார்.
+🟩
 
-அதற்கமைய பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளதுடன் பாதிக்கப்பட்ட சிறுவன் வைத்திய பரிசோதனைக்காக பசறை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Police are investigating the arrest of a youth on charges of raping a 7 -year -old boy from Lunugala area belonging to the Hikurukaduwa police division.
+
+The boy's father lodged a complaint at the police station on Thursday (22) that the suspect, who had been assistant to the kotanar, who was working in a house near the victim's house, had repeatedly sexually abused the boy.
+
+Accordingly, the police have started investigations and the victim has been admitted to the hospital for medical examination.
 
 ◼️
 
 [Data](articles/d7e03ed3.json)
+
+[Extended Data](ext_articles/d7e03ed3.ext.json)
 
 ---
 
@@ -2253,29 +2285,5 @@ Based on education qualifications, experience and responsibility, the Cabinet ha
 [Data](articles/a1c9caef.json)
 
 [Extended Data](ext_articles/a1c9caef.ext.json)
-
----
-
-### Sri Lanka stocks close down, foreign buying interest picks up
-
-*2024-08-22 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-foreign-buying-interest-picks-up-177813/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.21 percent, or 24.19 points, at 11,458; while the more liquid S&P SL20 Index closed down 0.43 percent, or 14.30 points, at 3,288.
-
-There was net foreign inflow of 15.5 million recorded in the day.
-
-Top foreign buying was seen on Dialog Axiata Plc (flat at 9.00), Melstacorp Plc (up at 81.90), Tess Agro Plc (flat at 1.00), and John Keells Holdings Plc (down at 181.00 rupees).
-
-Foreign selling was seen on Commercial Bank of Ceylon Plc non-voting (flat at 75.00), Ceylon Cold Stores plc (dowb at 56.10), Associated Motor Finance Company Plc (up at 24.70), and Talawakelle Tea Estates Plc (down at 120.00).
-
-There were five crossings recorded in the day; Commercial Bank, Dialog, Kelani Tyres Plc (up at 79.20), Hatton National Bank Plc (down at 183.00), and JKH.
-
-...
-
-[Data](articles/8dff7bbf.json)
-
-[Extended Data](ext_articles/8dff7bbf.ext.json)
 
 ---

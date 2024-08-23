@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 21:08:17**
+As of **2024-08-23 21:21:33**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,295 (100.0%) of 42,296 articles have been extended.
+42,296 (100.0%) of 42,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### දිනේෂ් චන්දිමාල් ව රෝහලට ගෙනයයි
+### Dinesh Chandimal was taken to the hospital
 
 *2024-08-23 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200256) · `si`
 
-මාක් වුඩ් එවන ලද පන්දුවක් මාපට ඇඟිල්ලේ වැදීම නිසා පිටියෙන් ඉවත් වූ දිනේෂ් චන්දිමාල් ව රෝහලට ගෙන ගොස් ඇතැයි වාර්තා වෙයි.
+Dinesh Chandimal was hospitalized after being hit by a ball from Mark Wood during the third day of the first Test match between Sri Lanka and England. Sri Lanka scored 236 runs in their first innings, while England made 358.
 
-ශ්‍රී ලංකාව සහ එංගලන්තය අතර පැවැත්වෙන පළමු ටෙස්ට් තරගයේ තුන්වැනි දිනය අදයි.
+🟩
 
-මෙම ටෙස්ට් තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 236ක් රැස්කළ අතර ඊට පිළිතුරු ලෙස එංගලන්තය සිය පළමු ඉනිම සඳහා ලකුණු 358ක් රැස්කළේය.
+Dinesh Chandimal, who left the ground, has been taken to the hospital due to a ball of Mark Wood.
+
+Today is the third day of the first Test match between Sri Lanka and England.
+
+Batting first Sri Lanka scored 236 runs while England scored 358 runs for the first innings.
 
 ◼️
 
 [Data](articles/8ffe6dfb.json)
+
+[Extended Data](ext_articles/8ffe6dfb.ext.json)
 
 ---
 

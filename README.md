@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 14:36:42**
+As of **2024-08-23 14:55:40**
 
 ## Newspaper Stats
 
-*Scraped **42,242** Articles*
+*Scraped **42,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,132 @@ economynextcom | 2,556
 dailyftlk | 2,742
 adalk | 3,892
 dailymirrorlk | 4,733
-adaderanalk | 4,949
+adaderanalk | 4,951
 tamilmirrorlk | 5,484
 virakesarilk | 6,716
-adaderanasinhalalk | 7,207
+adaderanasinhalalk | 7,208
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,239 (100.0%) of 42,242 articles have been extended.
+42,242 (100.0%) of 42,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### Mpox ආසාදිතයෙක් තායිලන්තයෙන් හමුවෙයි
+### දැරියකට පහරදුන් සිද්ධියකට ගුරුවරියන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-08-23 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200239) · `si`
+
+මිනිමැරීමට තැත් කිරීම හා බරපතළ ලෙස පහරදීම යන චෝදනා යටතේ ගුරුවරියන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+වෙන්නප්පුව පොලීසිය මගින් එම ප්‍රදේශයේ පාසලක ගුරුවරියන් දෙදෙනෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+සැකකාර ගුරුවරියන් මාරවිල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව සැප්තැම්බර් මස  02වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+එම ගුරුවරියන්ගෙන් පහරකෑමට ලක්වී ඇත්තේ එම පාසලේ ඉගෙනුම ලබන 15 හැවිරිදි දැරියක් වන අතර, ඇය මේ වනවිට කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් පසුවෙයි.
+
+එම දැරියට යම්කිසි සිදුවීමක් සම්බන්ධයෙන් එක් ගුරුවරියක් බරපතළ ලෙස පළමුව පහරදී ඇති අතර, පසුව අනෙක් ගුරුවරිය අව්වේ දණගස්වා කොස්සකින් පහරදී ඇති බව සඳහන් ය.
+
+එහිදී අදාළ දැරිය ක්ලාන්ත වී ඇති අතර, පසුව ඇයව ඔසවාගෙනවිත් මේසයක් මත අතහැරීමේදී ඇයගේ හිස එහි වැදී ඇති බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/e9ab6c02.json)
+
+---
+
+### Thailand confirms first Asian case of new Mpox strain
+
+*2024-08-23 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101447/thailand-confirms-first-asian-case-of-new-mpox-strain) · `en`
+
+Thailand has announced its first confirmed case of a new, potentially deadlier strain of Mpox - the first in Asia, and second outside of Africa.
+
+According to Thailand’s Department of Disease Control, the infected 66-year-old European man arrived in Bangkok from an unnamed African country on 14 August.
+
+He began displaying symptoms the next day, and immediately went to hospital. It has since been confirmed he had contracted Mpox, and in particular the strain known as Clade 1b.
+
+At least 450 people have died from Mpox in an outbreak centred in the Democratic Repulic of Congo which started last year.
+
+It has since spread to a number of nearby countries - including Burundi, Kenya, Rwanda and Uganda, all of which were previously unaffected by Mpox.
+
+Now a more worrying strain of Mpox called Clade 1b has been identified in the east of the DRC, which is being spread along the border and into neighbouring countries.
+
+...
+
+[Data](articles/35fd71f5.json)
+
+---
+
+### Sri Lanka to host New Zealand for Test series during presidential poll
+
+*2024-08-23 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101446/sri-lanka-to-host-new-zealand-for-test-series-during-presidential-poll) · `en`
+
+The New Zealand Men’s National Team will tour Sri Lanka during September 2024 to play a two-match Test series against the Sri Lanka Men’s National Team, Sri Lanka Cricket (SLC) announced today.
+
+The Test matches are a part of the ICC World Test Championship Cycle of 2023 – 2025, according to the SLC.
+
+The Test series, which is scheduled to be played at the Galle International Cricket Stadium, will kick off on 18 September.
+
+The first match of the two-match series will take place from September 18 to 23, while the second match is set to be played from September 26 to 30.
+
+Meanwhile, September 21 has been named as a rest day for the 1st Test match owing to the Presidential Election in Sri Lanka, the SLC pointed out.
+
+New Zealand’s last tour of Sri Lanka was in August 2019, when they drew a two-match Test series with the hosts.
+
+Next month’s presidential election is the country’s first poll since it declared a sovereign default in 2022 during an unprecedented economic crisis.
+
+...
+
+[Data](articles/18e65b5d.json)
+
+---
+
+### A MPO is found in Thailand
 
 *2024-08-23 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200238) · `si`
 
-ඒ එම ප්‍රභේදය ආසාදනය වූ පුද්ගලයෙක් ව ආසියාතික රටකින් හමුවූ පළමු අවස්ථාව ලෙස සැලකෙයි.
+A MPO (Multiple Personality Disorder) case has been identified in Thailand, marking the first documented instance of this condition being discovered in an Asian country.
+
+🟩
+
+The gentle is considered the first time that the genre was found in an Asian country.
 
 ◼️
 
 [Data](articles/9cd04c3e.json)
 
+[Extended Data](ext_articles/9cd04c3e.ext.json)
+
 ---
 
-### විදුහල්පතිවරයෙක් අත්අඩංගුවට
+### Principal arrested
 
 *2024-08-23 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200237) · `si`
 
-කතරගම, ගෝතමීපුර ප්‍රදේශයේ පාසලක විදුහල්පතිවරයෙකුව කතරගම පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+In Kataragama, a school principal was arrested for allegedly sexually assaulting three boys. The accusations followed a student's claim against a class teacher, which two other students corroborated. Despite parental support, the principal faces charges based on the complaints lodged by the police.
 
-ඒ, එම පාසලේ පිරිමි ළමුන් තිදෙනෙකුව අපයෝජනය කිරීමේ සිද්ධියක් සම්බන්ධයෙනි.
+🟩
 
-අදාළ විදුහල්පතිවරයා විසින් තමන්ට ලිංගික අඩත්තේට්ටම් සිදුකළ බව පවසමින් එහි සිසුවකු සිය පංති භාර ගුරුවරයාව දැනුවත් කර ඇත.
+Kataragama Police have arrested a principal of a school in the Gothapura area in Kataragama.
 
-අනතුරුව තවත් පිරිමි ළමුන් දෙදෙනෙකු ද එවැනිම වූ අතවරයන්ට තමන්ද ලක්වූ බවට පවසා තිබේ.
+It is in connection with a incident of abuse of three boys in the school.
 
-ඒ අනුව ඒ පිළිබඳව පොලීසියට සිදුකළ පැමිණිල්ලකට අනුව විදුහල්පතිවරයා අත්අඩංගුවට ගෙන ඇත.
+A student has made a teacher in charge of his classes, claiming that he had done sexual stating.
 
-කෙසේවෙතත් එම පාසලේ දරුවන්ගේ මව්පියන් චෝදනා කරන්නේ මෙම සිදුවීම යටගැසීම සඳහා ඇතැම් කණ්ඩායම් ක්‍රියාකරන බවය.
+Thereafter, two boys have also been told that they were also the same assembly to the same restored.
+
+Accordingly, the Principal has been arrested following a complaint lodged by the police.
+
+However, the parents' parents accused the children of the school allegations that certain groups are acting to be understood.
 
 ◼️
 
 [Data](articles/5905ea46.json)
+
+[Extended Data](ext_articles/5905ea46.ext.json)
 
 ---
 
@@ -292,23 +372,29 @@ There are numerous terrorist organizations operating in Pakistan. It is customar
 
 ---
 
-### මව සමඟ අමනාප වී පෙම්වතාගේ නිවසට ගිය බාල වයස්කාර දැරියකට බරපතළ ලිංගික අපයෝජන කරල
+### Angered with her mother seriously sexually abused a minor girl who went to a boyfriend's home
 
 *2024-08-23 11:53:17* · [`adalk`](https://www.ada.lk/breaking_news/මව-සමඟ-අමනාප-වී-පෙම්වතාගේ-නිවසට-ගිය-බාල-වයස්කාර-දැරියකට-බරපතළ-ලිංගික-අපයෝජන-කරල/11-411520) · `si`
 
-තම මව සමඟ විරසක වී පෙම්වතාගේ නිවසට ගිය 15 හැවිරිදි බාල වයස්කාර දැරියක් හට බරපතල ලිංගික අපයෝජනයක් කල එම පෙම්වතා සහ ඒ සඳහා ආධාර අනුබල දුන් සැකකරුගේ මව අත්අඩංගුවට ගත් බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+A mother and her son are under arrest for allegedly sexually abusing a minor girl. The incident came to light during a police investigation triggered by a complaint. The victim, a 15-year-old, had argued with her mother and left home, leading to the discovery of the abuse. Both the suspect and his mother will face charges in court, with ongoing investigations by child protection officers.
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ රාජාංගනය පොලිස් වසමේ  පදිංචි පුතෙකු සහ  මවක්ය. වින්දිත දැරිය අනුරාධපුර පොලිස් වසමේ ගමක තම මව සමගින් සිටියදී, මව සමග ඇති කරගත් බහින්බස්වීමකින් අනතුරුව එම මවට නොදන්වා නිවසින් පිටව ගොස් පෙම්වතාගේ නිවසට ගොස් ඇති බව පොලිසිය කියයි.
+🟩
 
-එම මව පොලිසියට කල පැමිණිල්ලකට අනුව විමර්ශනයක් සිදු කර රාජාංගනය ප්‍රදේශයට ගොස් දැරිය තම භාරයට ගෙන ප්‍රකාශ සටහන් කර ගැනීමේදී  මෙම අපයෝජනය සිද්ධිය අනාවරණය වූ බව පොලිසිය කියයි.
+The mother of the suspect who supported his mother had been arrested for his mother and a 15-year-old girl who had been seriously sexually abused for a 15-year-old girl.
 
-අත්අඩංගුවට ගත් සැකකරු සහ සැකකාරිය  අනුරාධපුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව සිටියහ.
+The residents of the Rajanganaya Police division have been a residential son and a mother. The victim girl was with his mother in a village in Anuradhapura and had left the house after a heated argument with mother, police said.
 
-මෙම සිද්ධිය සම්බන්ධයෙන් අනුරාධපුර  මූලස්ථාන පොලිසියේ ස්ථානාධිපති, ප්‍රධාන පොලිස් පරීක්ෂක ආර්. එම්.  ජයවීර මහතාගේ උපදෙස් මත ළමා කාන්තා කාර්යාංශයේ නිලධාරීහු  පිරිසක් වැඩි දුර විමර්ශන සිදු කරති.
+According to police, the abuse was revealed when the mother had an investigation into the police complaint and went to Rajanganaya and marching the girl.
+
+The suspect and the suspect were to be produced before the Anuradhapura Magistrate's Court.
+
+Anuradhapura headquarters police OIC of Anuradhapura Police Station, Chief Inspector R. M.Officers of the Children's Bureau are conducting further investigations on the instructions of Jayaweera.
 
 ◼️
 
 [Data](articles/0e12869d.json)
+
+[Extended Data](ext_articles/0e12869d.ext.json)
 
 ---
 
@@ -2177,75 +2263,5 @@ The Navy has also informed the incident regarding the disappearances.
 [Data](articles/ba2afb59.json)
 
 [Extended Data](ext_articles/ba2afb59.ext.json)
-
----
-
-### Family living in makeshift hut atop tree with newborn triplets receive new home
-
-*2024-08-22 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101432/family-living-in-makeshift-hut-atop-tree-with-newborn-triplets-receive-new-home) · `en`
-
-A family which had been living in a makeshift hut atop a tree in Habarana with their newborn triplets were today (22) gifted a new home, built with the assistance of generous donors, just three months after Ada Derana reported on the plight of the couple who were lacking a proper home for their children.
-
-This was made possible through the initiative of the Chief Incumbent of the Sandagiri Maha Seya in Hanthana, Ven. Gangasiripura Dhammaloka Thero and with the generous donations from benefactors living in Sri Lanka and abroad.
-
-Ven. Dhammaloka Thero, Chief Operating Officer/Executive Director of Derana Media Network, Mr. Madhawa Madawala, and Derana staff had participated in the ceremony today to officially handover the newly-built home to the family from Puwakpitiya, Habarana.
-
-The family had been living in dire conditions without basic amenities while the father of the newborn triplets had even sustained injuries after falling from the hut.
-
-...
-
-[Data](articles/0c53fda7.json)
-
-[Extended Data](ext_articles/0c53fda7.ext.json)
-
----
-
-### Here is more in the Supreme Court decision on the little election
-
-*2024-08-22 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200218) · `si`
-
-The Supreme Court ruled that the President and members of the Elections and Finance Commission violated basic human rights by postponing local elections scheduled for March 9, 2023, due to financial constraints amid an economic crisis. The court ordered immediate elections, criticizing the commission for failing to uphold constitutional rights and the finance minister for not consulting cabinet on election funding.
-
-🟩
-
-The Supreme Court today decided that the President has violated the basic human rights as the Members of the Elections and Finance Commission on March 9, 2023.
-
-Accordingly, the Supreme Court ordered the Elections Commission to take place as soon as possible.
-
-The National Elections Commission was announced that the Local Government Election will be held on March 9, 2023, a gazette sheet.
-
-But the election was postponed until the 25th of April that the Finance Ministry and the Ministry of Finance and Finance have the difficulties of the financial regulations and the financial regulations imposed in the current economic crisis.
-
-The vote was timeless, and the electoral power, national proportion, the CPA and PAFFREL filed fundamental rights petitions in the Supreme Court.
-
-Accordingly, Chief Justice Jayantha Jayasuriya, Vijayantha Jayasuriya, Vijayantha Jayasuriya, Mrs. Murdu Fernando and Gamini Amarasekera and Yasantha Kodagoda expressed its verdict.
-
-...
-
-[Data](articles/74f23cd6.json)
-
-[Extended Data](ext_articles/74f23cd6.ext.json)
-
----
-
-### United Petroleum launches services in Sri Lanka
-
-*2024-08-22 20:40:00* · [`economynextcom`](https://economynext.com/united-petroleum-launches-services-in-sri-lanka-177827/) · `en`
-
-ECONOMYNEXT – United Petroleum of Australia was launched in Sri Lanka on Thursday (22), Minister of Power and Energy Kanchana Wijesekera said.
-
-“They will commence retail fuel operations in September with 150 dealer owned and operated fuel stations,” Wijesekera said on X (twitter).
-
-United Petroleum becomes the fourth retail operator to enter the Sri Lankan market after LIOC, Sinopec, RM Parks-Shell.
-
-The company signed an agreement with the Ministry of Power and Energy earlier this year to enter petroleum retail operations in the island.
-
-Sri Lanka last year awarded retail fuel licenses to three foreign firms – China’s Sinopec, United Petroleum Australia and US-based RM Parks to reduce the state-owned Ceylon Petroleum Corporation’s (CPC) pressure on finding foreign currency for the country’s whole fuel import.
-
-...
-
-[Data](articles/78ecb510.json)
-
-[Extended Data](ext_articles/78ecb510.ext.json)
 
 ---

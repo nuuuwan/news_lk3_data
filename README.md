@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 03:21:35**
+As of **2024-08-24 03:36:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,333 (100.0%) of 42,334 articles have been extended.
+42,334 (100.0%) of 42,334 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -643,6 +643,8 @@ The killer virus narrative has been tried for many decades. With AIDS, Mad cow, 
 ...
 
 [Data](articles/00e23526.json)
+
+[Extended Data](ext_articles/00e23526.ext.json)
 
 ---
 

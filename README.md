@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 11:21:31**
+As of **2024-08-23 11:36:58**
 
 ## Newspaper Stats
 
-*Scraped **42,219** Articles*
+*Scraped **42,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,553
 dailyftlk | 2,742
 adalk | 3,888
 dailymirrorlk | 4,733
-adaderanalk | 4,947
-tamilmirrorlk | 5,477
+adaderanalk | 4,948
+tamilmirrorlk | 5,478
 virakesarilk | 6,712
 adaderanasinhalalk | 7,204
 
@@ -26,23 +26,63 @@ adaderanasinhalalk | 7,204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,216 (100.0%) of 42,219 articles have been extended.
+42,219 (100.0%) of 42,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### அங்கஜன் , துஷ்மந்த ரணிலுக்கு ஆதரவு
+### Kiribati’s pro-China govt bars foreign officials from visiting until 2025, citing elections
+
+*2024-08-23 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101443/kiribatis-pro-china-govt-bars-foreign-officials-from-visiting-until-2025-citing-elections) · `en`
+
+The government of Kiribati is suspending all diplomatic visits to the tiny Pacific Island nation until next year and has cancelled some already planned, because it is in the midst of an election process that could run for several more months, an official said Thursday.
+
+The official in Kiribati’s foreign ministry told The Associated Press that a message announcing the pause in diplomatic trips was sent earlier this week to countries that have diplomatic relations with Kiribati — a low-lying atoll of 120,000 people.
+
+It follows escalating friction between Kiribati and Western nations — particularly Australia, a major aid donor — over the country’s deepening ties with China.
+
+Kiribati is threatened by rising sea levels and does not command the resource wealth or tourism branding of some other Pacific islands. But its proximity to Hawaii and location in a huge ocean expanse have bolstered its strategic importance and provoked an influence skirmish between Western powers and China.
+
+...
+
+[Data](articles/3365123f.json)
+
+---
+
+### சிறுவன் பாலியல் வன்கொடுமை ; இளைஞனுக்கு வலை
+
+*2024-08-23 11:06:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவன்-பாலியல்-வன்கொடுமை-இளைஞனுக்கு-வலை/76-342670) · `ta`
+
+ஹிகுருகடுவ பொலிஸ் பிரிவிற்குட்பட்ட லுனுகல பிரதேசத்தை சேர்ந்த 7 வயதுடைய சிறுவனை பாலியல் வன்கொடுமைக்கு உட்படுத்திய குற்றச்சாட்டில் இளைஞன் ஒருவனை கைது செய்வதற்கான விசாரணைகளை பொலிஸாரால் முன்னெடுக்கப்பட்டுள்ளது .
+
+பாதிக்கப்பட்ட சிறுவனின் வீட்டிற்கு அருகில் உள்ள வீடொன்றில் வேலை செய்த கொத்தனாரின் உதவியாளராக வந்த சந்தேக நபர் பல தடவைகள் சிறுவனை பாலியல் வன்கொடுமை செய்துள்ளதாக சிறுவனின் தந்தை வியாழக்கிழமை (22)அன்று பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார்.
+
+அதற்கமைய பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளதுடன் பாதிக்கப்பட்ட சிறுவன் வைத்திய பரிசோதனைக்காக பசறை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/d7e03ed3.json)
+
+---
+
+### Anganjan, Dushmantha Ranil support
 
 *2024-08-23 11:00:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்கஜன்-துஷ்மந்த-ரணிலுக்கு-ஆதரவு/175-342669) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் சிரேஷ்ட உப தலைவர் பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் மற்றும் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் முன்னாள் பதில் பொதுச் செயலாளர் சாரதி  துஷ்மந்த ஆகியோர்  எதிர்வரும் ஜனாதிபதி தேர்தலில் சுயேட்சையாகப் போட்டியிடும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தங்களது ஆதரவினை வழங்கினர் .
+Anganjan Ramanathan, SLFP Senior Vice President and MP, along with former party general secretary Sarathi Dushmantha, endorse President Ranil Wickremesinghe for the upcoming presidential election. Both leaders, meeting Wickremesinghe at the Election Office, aim to secure his victory. Ramanathan, having served in the Northern Provincial Council and Parliament since 2015, now holds the position of Senior Vice President within the SLFP. Dushmantha Mithrapala, previously the party's General Secretary, was first elected to Parliament in 2015 from the Kegalle district.
 
-சற்று முன்னர் ஃப்ளாவர் வீதியில் அமைந்துள்ளது தேர்தல் காரியாலயத்தில் ஜனாதிபதி  ரணில் விக்கிரமசிங்கவைச் சந்தித்த ஸ்ரீலங்கா சுதந்திரக் கட்சியின் இரு தலைவர்களும் ஒன்றிணைந்து ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவை வெற்றிபெறச் செய்யவுள்ளனர் .
+🟩
+
+Senior Vice President of the Sri Lanka Freedom Party (SLFP) Member of Parliament Anganan Ramanathan and former SLFP general secretary Sarathi Dushmantha gave their support to President Ranil Wickremesinghe, who is contesting independently in the upcoming presidential election.
+
+The two leaders of the Sri Lanka Freedom Party (SLFP), which met with President Ranil Wickremesinghe at the Election Office at the Election Office, will unite and win Ranil Wickremesinghe in the presidential election.
 
 ...
 
 [Data](articles/8e59e108.json)
+
+[Extended Data](ext_articles/8e59e108.ext.json)
 
 ---
 
@@ -90,6 +130,8 @@ He also noted, “This decision is not surprising, as the Supreme Court has cons
 
 [Data](articles/0d68f509.json)
 
+[Extended Data](ext_articles/0d68f509.ext.json)
+
 ---
 
 ### Two SLFP MPs decide to support President Ranil in presidential poll
@@ -107,6 +149,8 @@ Ramanathan is the SLFP’s former Senior Vice Chairman while Mithrapala is the f
 ◼️
 
 [Data](articles/0955303e.json)
+
+[Extended Data](ext_articles/0955303e.ext.json)
 
 ---
 
@@ -2233,65 +2277,5 @@ There were five crossings recorded in the day; Commercial Bank, Dialog, Kelani T
 [Data](articles/8dff7bbf.json)
 
 [Extended Data](ext_articles/8dff7bbf.ext.json)
-
----
-
-### The department announces about the cancellation of driving licenses
-
-*2024-08-22 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200212) · `si`
-
-The Department of Motor Traffic announced the suspension of driving licenses, with preparations underway for a new digital system aimed at improving road safety. The system will revoke licenses upon accumulating 24 penalty points. This initiative follows the tragic statistic of seven daily fatalities on the roads, aiming to enforce discipline and reduce accidents.
-
-🟩
-
-The Department has explained the news that the driver was prepared to be prepared in the next three months.
-
-Accordingly, the Commissioner General of the Department Nishantha Anuruddha Anuruddha Wijerasinghe says that the Department of Motor Traffic or the Government has not yet been taken by the Department of Motor Traffic or the Government.
-
-However, he said that arrangements have been started to implement a procedure for the driver's license and implement a synap of the driver's license.
-
-According to a press conference held today (22), he said that the preliminary arrangements to implement this new system within the next three months.
-
-According to the new system of traffic, the digital system for the punishment given by the traffic offense after a driver was conducted by traffic offense, the digital system was prepared at the same time.
-
-He says that the blazed score system will be the loss of the driver license after reaching 24 points.
-
-...
-
-[Data](articles/29aa91e6.json)
-
-[Extended Data](ext_articles/29aa91e6.ext.json)
-
----
-
-### Calling Hershath from West Indies
-
-*2024-08-22 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200211) · `si`
-
-B.I. Hersha Samarawickrama, a standout Sri Lankan cricketer, has been selected for the West Indies' TribolGo Knight Riders in the Caribbean Premier League (CPL). She becomes the first Sri Lankan woman to play in a foreign league after Chamari Atapattu. Known for her performances in the Sri Lanka women's cricket team, including scoring 105 runs in an ODI match against Ireland, Hersha is set to make history in the CPL.
-
-🟩
-
-B.I. Hersha Samarawickrama, a batsman of the Caribbean Premier League (CPL) centered on West Indies are centered on the TribolGo knight riders (CPL) team has been called.
-
-This year, the women's CPL tournament commenced yesterday (21), and Hershae sat for this occasion.
-
-Accordingly, she will be the first Sri Lankan player to play a foreign league outside Chamari Atapattu.
-
-Hersha, who has become a striking at least player of the Sri Lanka women's cricket team, also excelled in the ODI and Twenty20 tournament against the end of the Ireland.
-
-She scored 105 runs in the second match of the ODI series.
-
-She also scored half centuries in both the first matches of the ODI.
-
-She also contributed greatly to Sri Lankan women as the Asian Champions Asian Champions, and 69 runs for Sri Lanka in the final.
-
-The innings was a special reason for the innings of the innings and a greater conversation.
-
-...
-
-[Data](articles/96a37131.json)
-
-[Extended Data](ext_articles/96a37131.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 14:21:37**
+As of **2024-08-23 14:36:42**
 
 ## Newspaper Stats
 
-*Scraped **42,239** Articles*
+*Scraped **42,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ colombotelegraphcom | 404
 islandlk | 2,451
 economynextcom | 2,556
 dailyftlk | 2,742
-adalk | 3,891
+adalk | 3,892
 dailymirrorlk | 4,733
 adaderanalk | 4,949
 tamilmirrorlk | 5,484
 virakesarilk | 6,716
-adaderanasinhalalk | 7,205
+adaderanasinhalalk | 7,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,239 (100.0%) of 42,239 articles have been extended.
+42,239 (100.0%) of 42,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### Mpox ආසාදිතයෙක් තායිලන්තයෙන් හමුවෙයි
+
+*2024-08-23 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200238) · `si`
+
+ඒ එම ප්‍රභේදය ආසාදනය වූ පුද්ගලයෙක් ව ආසියාතික රටකින් හමුවූ පළමු අවස්ථාව ලෙස සැලකෙයි.
+
+◼️
+
+[Data](articles/9cd04c3e.json)
+
+---
+
+### විදුහල්පතිවරයෙක් අත්අඩංගුවට
+
+*2024-08-23 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200237) · `si`
+
+කතරගම, ගෝතමීපුර ප්‍රදේශයේ පාසලක විදුහල්පතිවරයෙකුව කතරගම පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ, එම පාසලේ පිරිමි ළමුන් තිදෙනෙකුව අපයෝජනය කිරීමේ සිද්ධියක් සම්බන්ධයෙනි.
+
+අදාළ විදුහල්පතිවරයා විසින් තමන්ට ලිංගික අඩත්තේට්ටම් සිදුකළ බව පවසමින් එහි සිසුවකු සිය පංති භාර ගුරුවරයාව දැනුවත් කර ඇත.
+
+අනතුරුව තවත් පිරිමි ළමුන් දෙදෙනෙකු ද එවැනිම වූ අතවරයන්ට තමන්ද ලක්වූ බවට පවසා තිබේ.
+
+ඒ අනුව ඒ පිළිබඳව පොලීසියට සිදුකළ පැමිණිල්ලකට අනුව විදුහල්පතිවරයා අත්අඩංගුවට ගෙන ඇත.
+
+කෙසේවෙතත් එම පාසලේ දරුවන්ගේ මව්පියන් චෝදනා කරන්නේ මෙම සිදුවීම යටගැසීම සඳහා ඇතැම් කණ්ඩායම් ක්‍රියාකරන බවය.
+
+◼️
+
+[Data](articles/5905ea46.json)
+
+---
 
 ### President’s Fund provides lifeline for Sri Lankan athletes’ World Junior Championship hopes after Ada Derana report
 
@@ -255,6 +289,26 @@ There are numerous terrorist organizations operating in Pakistan. It is customar
 [Data](articles/45f19d8b.json)
 
 [Extended Data](ext_articles/45f19d8b.ext.json)
+
+---
+
+### මව සමඟ අමනාප වී පෙම්වතාගේ නිවසට ගිය බාල වයස්කාර දැරියකට බරපතළ ලිංගික අපයෝජන කරල
+
+*2024-08-23 11:53:17* · [`adalk`](https://www.ada.lk/breaking_news/මව-සමඟ-අමනාප-වී-පෙම්වතාගේ-නිවසට-ගිය-බාල-වයස්කාර-දැරියකට-බරපතළ-ලිංගික-අපයෝජන-කරල/11-411520) · `si`
+
+තම මව සමඟ විරසක වී පෙම්වතාගේ නිවසට ගිය 15 හැවිරිදි බාල වයස්කාර දැරියක් හට බරපතල ලිංගික අපයෝජනයක් කල එම පෙම්වතා සහ ඒ සඳහා ආධාර අනුබල දුන් සැකකරුගේ මව අත්අඩංගුවට ගත් බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+
+මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ රාජාංගනය පොලිස් වසමේ  පදිංචි පුතෙකු සහ  මවක්ය. වින්දිත දැරිය අනුරාධපුර පොලිස් වසමේ ගමක තම මව සමගින් සිටියදී, මව සමග ඇති කරගත් බහින්බස්වීමකින් අනතුරුව එම මවට නොදන්වා නිවසින් පිටව ගොස් පෙම්වතාගේ නිවසට ගොස් ඇති බව පොලිසිය කියයි.
+
+එම මව පොලිසියට කල පැමිණිල්ලකට අනුව විමර්ශනයක් සිදු කර රාජාංගනය ප්‍රදේශයට ගොස් දැරිය තම භාරයට ගෙන ප්‍රකාශ සටහන් කර ගැනීමේදී  මෙම අපයෝජනය සිද්ධිය අනාවරණය වූ බව පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් සැකකරු සහ සැකකාරිය  අනුරාධපුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව සිටියහ.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් අනුරාධපුර  මූලස්ථාන පොලිසියේ ස්ථානාධිපති, ප්‍රධාන පොලිස් පරීක්ෂක ආර්. එම්.  ජයවීර මහතාගේ උපදෙස් මත ළමා කාන්තා කාර්යාංශයේ නිලධාරීහු  පිරිසක් වැඩි දුර විමර්ශන සිදු කරති.
+
+◼️
+
+[Data](articles/0e12869d.json)
 
 ---
 
@@ -2193,95 +2247,5 @@ Sri Lanka last year awarded retail fuel licenses to three foreign firms – Chin
 [Data](articles/78ecb510.json)
 
 [Extended Data](ext_articles/78ecb510.ext.json)
-
----
-
-### Pudekko oil who tits SLS and sent human consumption
-
-*2024-08-22 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200217) · `si`
-
-Today, authorities raided a facility producing coconut oil for human consumption after receiving reports about its quality. The Colombo District Raid Unit of the Consumer Affairs Authority discovered that the oil, labeled as containing SLS certificates, was actually counterfeit. Additionally, other types of oil were found being sold under false pretenses. This investigation led to the decision to seal the facility, highlighting concerns over consumer safety and product authenticity.
-
-🟩
-
-A manufacturement of coconut oil that produces suitable coconut oil to consume human consumption is made today (22).
-
-The Malabe Police received information on a place where the coconut oil was created and released to the market.
-
-The Colombo District Raid Unit of the Consumer Affairs Authority has been raided by the Colombo District Raid Unit of the Consumer Affairs Authority today.
-
-The coconut oil stock of coconut oil was found in the caning of the place.
-
-Although the labels claimed that the SLS certificate is available in bottles of coconut oil bottles, it was revealed that it was fake.
-
-It was revealed that another type of oil imported to the market is being released to the market by claiming that the market is released.
-
-Investigation further revealed that the pitcher is inappropriate for human consumption to the mixed market.
-
-Accordingly, steps have been taken to seal this place by the Consumer Affairs Authority.
-
-...
-
-[Data](articles/6302357e.json)
-
-[Extended Data](ext_articles/6302357e.ext.json)
-
----
-
-### A car traveling on Southern Expressway crashed into a security fence and luxury private buses
-
-*2024-08-22 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191737) · `ta`
-
-A car crash on the Southern Expressway involved a vehicle from Matara to Colombo hitting a security fence and a private bus from Moneragala to Colombo. Additionally, a car carrying a Hambantota hospital doctor and two children collided on the southern highway near the Battegama Highway entrance. Two brothers and their mother, aged 16 and 21, were injured; the older brother was driving. Quick actions by passing drivers aided in rescuing the victims.
-
-🟩
-
-The car from Matara to Colombo crashed into a security fence in the middle of the road and crashed into a private bus traveling from Moneragala to Colombo.
-
-A car traveling by a special doctor at the Hambantota General Hospital and two children crashed on the southern high -speed road.
-
-Km 80 near the entrance to the Battegama Highway. The accident occurred near the 9 pillar.
-
-Two sons and their mother, aged 16 and 21, were injured in the incident.
-
-Police say the 21 -year -old son was driving the car during the accident.
-
-Drivers who passed through the car took swift action to rescue the victims.
-
-◼️
-
-[Data](articles/547c0030.json)
-
-[Extended Data](ext_articles/547c0030.ext.json)
-
----
-
-### Interest in foreigners to learn the leading stars in Sri Lanka
-
-*2024-08-22 19:55:40* · [`adalk`](https://www.ada.lk/business/ලංකාවේ-ප්‍රමුඛතම-තරු-7-හෝටල්-දැනගැනීමට-විදේශිකයින්-තුළ-දැඩි-උනන්දුවක්/7-411510) · `si`
-
-Foreign tourists are eagerly anticipating the opening of the Aviyantha Hotel Group's 7th star hotel project in Kandy, Sri Lanka. The project, located at the Kandy Galle City Center, promises a vibrant atmosphere and is expected to attract visitors from various countries including Italy, Spain, England, Germany, and France. The hotel group aims to offer a unique hospitality experience, marking it as the first 7-star hotel in Sri Lanka, set to open in 2025 under the leadership of Dr. Thisara Hewawala.
-
-🟩
-
-Foreign tourists have been intense in foreign tourists to learn about Aviyana Hotel Group, the leading 7th star hotel project in Sri Lanka.
-
-Avananana 7 star hotel project was held in Kandy at the Kandy Galle City Center, where many foreign tourists had come to the Hotel Project.
-
-The Aviantewewa Hotel Group, which is backing a vigor environment in Kandy, Mandudiya, Kandy, is being built, is a fresh look at the 7 star hotel project in Sri Lanka.
-
-It is also reported that the foreign tourists have said that the exploitation of these Avanananantelawa Hotels is definitely arriving at next year.
-
-The tourist arrivals to the Kandy, Italy, Spain, Spain, England, including Germany, France, Italy, Spain, England had come to Kandy City Center.
-
-Aviation Hotel Group, the first 7 star hotel project in Sri Lanka, is to be opened next year (2025).
-
-The Chairman and CEO Dr. Thisara Hewawala President and CEO Dr. Thisara Hewawala President Dr. Thisara Hewawala President and CEO Dr. Thisara Hewawala said.
-
-◼️
-
-[Data](articles/38b81ef9.json)
-
-[Extended Data](ext_articles/38b81ef9.ext.json)
 
 ---

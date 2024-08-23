@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 07:51:45**
+As of **2024-08-23 08:16:18**
 
 ## Newspaper Stats
 
-*Scraped **42,194** Articles*
+*Scraped **42,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,118 @@ colombotelegraphcom | 404
 islandlk | 2,449
 economynextcom | 2,553
 dailyftlk | 2,741
-adalk | 3,885
+adalk | 3,886
 dailymirrorlk | 4,733
-adaderanalk | 4,941
+adaderanalk | 4,942
 tamilmirrorlk | 5,473
 virakesarilk | 6,710
-adaderanasinhalalk | 7,198
+adaderanasinhalalk | 7,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,187 (100.0%) of 42,194 articles have been extended.
+42,194 (100.0%) of 42,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### එංගලන්තය ලකුණු 23ක් ඉදිරියෙන්
+### ත්‍රීරෝද රථ - ජංගම දුරකථන සහ රන් භාණ්ඩ කොල්ලකන සැකකරු අත්අඩංගුවට
+
+*2024-08-23 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200228) · `si`
+
+කුලී ගමන් යන මුවාවෙන් ත්‍රීරෝද රථවලට නැඟ අතරමගදී තියුණු ආයුධ පෙන්වා ත්‍රීරෝද රථ ඇතුළු දේපොළ කොල්ලන සැකකරුවෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+වැලිකඩ පොලිස් වසමේ අරුණෝදය මාවතේදී සැකකරු අත්අඩංගුවට ගෙන ඇති අතර ඔහු 27 හැවිරිදි රාජගිරිය ඔබේසේකරපුර ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අදාළ සැකකරු පෑලියගොඩ, කැලණිය, කඩවත, බොරැල්ල සහ මිරිහාන යන ප්‍රදේශවලදී ත්‍රීරෝද රථ, ජංගම දුරකථන, රන් භාණ්ඩ ආදිය කොල්ලකා ඇති බව විමර්ශනවලදී හෙළිවී ඇත.
+
+පොලීසිය සඳහන් කළේ එසේ කොල්ලකන ලද දේපොළවලින් කොටසක් මේ වනවිට සොයාගෙන ඇති බවය.
+
+බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසය සිද්ධිය පිළිබඳ වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/39477d75.json)
+
+---
+
+### Several spells of light showers expected in parts of the island
+
+*2024-08-23 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101436/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of light showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers will occur at a few places in Eastern and Uva Provinces and in Polonnaruwa district during the evening or night, it said.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ebc3d296.json)
+
+---
+
+### England in front of 23 runs
 
 *2024-08-23 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200227) · `si`
 
-ශ්‍රී ලංකාව හා එංගලන්තය අතර මැන්චෙස්ටර් හිදී පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ දෙවෙනි දිනය වූ ඊයේ (22) වර්ෂාව හේතුවෙන් නියමිත වේලාවට පෙර තරගය නතර කරන විට පළමු ඉනිම ක්‍රීඩාකරමින් සිටි එංගලන්ත කණ්ඩායම කඩුලු 06ක් දැවී ලකුණු 259ක් රැස්කරගෙන සිටියේය.
+In the first Test between Sri Lanka and England, England scored 259 runs losing 6 wickets in their first innings, leading by 23 runs over Sri Lanka's 236 runs. Jemi Smith ended the day not out, and Dominic Sibley made 4 runs. The match was halted on the first day due to rain, interrupting play after lunch. Asitha Fernando and Prabath Jayasuriya were notable performers for Sri Lanka, taking crucial wickets.
 
-ඒ අනුව ඔවුන් ශ්‍රී ලංකා පළමු ඉනිමට වඩා ලකුණු 23ක් ඉදිරියෙන් සිටී.
+🟩
 
-දිනය නිමා වනවිට කඩුල්ලේ රැඳී සිටි ජෙමී ස්මිත් ලකුණු 72ක් හා ගස් ඇට්කින්සන් ලකුණු 04ක් රැස්කරගෙන සිටියේය.
+The first innings were the first innings of the first Test between Sri Lanka and England, England scored 259 runs for the loss of 6 wickets.
 
-තරගයේ පළමු දිනය වූ පෙරේදා දිනට තරගය නතර කරන විට එංගලන්ත කණ්ඩායම කිසිවෙකුත් නොදැවී ලකුණු 22ක් රැස්කරගෙන සිටියේය.
+Accordingly, they are 23 runs ahead of Sri Lanka's first innings.
 
-කෙසේ නමුත් එංගලන්ත වේලාවෙන් ඊයේ උදෑසන තරගයට වර්ෂාවෙන් බාධා එල්ල වූ අතර, ඒ හේතුවෙන් තරගය ආරම්භ කිරීමට සිදු වූයේ දිවා ආහාරයද පසුවීමෙන් අනතුරවය.
+Jemi Smith was remained in the wicket by completing the day and the trees Atkinson scored four runs.
 
-තරගය ආරම්භ වී එංගලන්ත ඉනිමට ලකුණු 08ක් පමණක් එක්වද්දී, බෙන් ඩකට් (ලකුණු 18) දවාගැනීමට අසිත ප්‍රනාන්දු සමත් වූ අතර, ඉන් නොනැවතුණු ඔහු මුළු ලකුණු 40ක් වෙද්දී වැඩබලන නායක ඔලී පොප්ගේ (ලකුණු 06) කඩුල්ලද දවාගත්තේය.
+England were unbeaten on 22nd while the match was stopped for the first day of the match.
 
-මෙහිදී විශ්ව ප්‍රනාන්දු ද සිය කඩුලු දඩයම අරඹමින් පිටියේ ස්ථාවර වෙමින් සිටි ආරම්භක පිතිකරු ඩෑන් ලෝරන්ස්ගේ කඩුල්ලද දවාගත්තේය.
+However, the race was interrupted by the contest yesterday morning, resulting in the event of a lunch.
+
+Asitha Fernando won Ben Dakkets (18 marks), while the match began in England, and the acting leader Ollie.
+
+Universal Fernando also attacked her wicket hunt and took the stabilized opening batsman Dan Laurens' wicket.
+
+Accordingly, Sri Lanka was able to turn all three batsmen in 67 runs.
+
+However, Joe Root and Harry Brout and Harry Brouc had a 58 runs to 125 innings to 125 innings.
+
+It was unique to Sri Lanka's innings to 42 runs.
 
 ...
 
 [Data](articles/93893738.json)
+
+[Extended Data](ext_articles/93893738.ext.json)
+
+---
+
+### ජනාධිපති අපේක්ෂකයෙක් ජිවිතක්ෂයට
+
+*2024-08-23 07:26:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අපේක්ෂකයෙක්-ජිවිතක්ෂයට/11-411511) · `si`
+
+මෙවර ජනාධිපතිවර්ණයට තරග වැදිම සදහා ස්වාධින අපේක්ෂකයකු ලෙස ඉදිරිපත් වී සිටි අයිදුරුස් මොහොමඩ් ඉල්යාස් මහතා පුත්තලම මූලික  රෝහලේ  ප්‍රතිකාර ලබමින් සිටියදී 22 දින සවස මරණයට පත්ව ඇති බව පවුලේ ඥාතින් පවසයි.
+
+80 වියැත් අයිදුරුස් මොහොමඩ් ඉල්යාස් මහතා වෛද්‍යවරයකු වන අතර ඔහු ඩෝක්ටර් ඉල්යාස් නමින් ප්‍රසිද්ධ සිටි දේශපාලඥයකු විය.
+
+ඔහු යුද්ධය හේතුවෙන් එල්.ටී.ටී.ඊ සංවිධානය මගින් පලවා හැරි මුස්ලිම් ජනයා සමග  යාපනයෙ සිට පුත්තලමට පැමින පුත්තලමේ පදිංචි වුවෙකී.
+
+1980 දශකයෙ සිට දේශපාලනයට අවතිර්ණ වී ඇති ඉල්යාස් මහතා මෙවර ජනාධිපතිවර්ණයට ඉදිරිපත්ව සිටියෙ  ඉන්ජක්ෂන් සිලින්ජරය ලකුණිනි.
+
+1988 වයඹ පළාත් සභාවට තරග කරමින් පළාත් සභා මන්ත්‍රිධුරයක් හිමිකර ගත් ඔහු 1994 වසරේදී පුත්තලමේ සිට පුත්තලමට පැමිනි සරණාගත ජන්ද 3300 කට ආසන්න සංඛ්‍යාවක් ලබා ගනිමින් පාර්ලිමේන්තුව නියෝජනයට වරම් ලබා ගෙන තිබුනී.
+
+2010,2015,2019 යන කාලවල දී ජනාධිපතිවර්ණ වලට ඉදිරිපත්වු ඔහු මෙවර සිව්වන වතාවට ජනාධිපතිවර්ණය සදහා නාම යෝජනා බාර දී තිබුනී.
+
+දරුවන් තිදෙනෙකුගේ පියකු වන ඉල්ලයාස් මහතා වෘත්තියෙන් වෛද්‍යවරයෙකී.මිය යන විට 80 වියේ ඔහු පසුවෙති.
+
+...
+
+[Data](articles/2d2315e5.json)
 
 ---
 
@@ -71,6 +145,8 @@ Accordingly, the water tariff of domestic users has been reduced by 7%, governme
 ◼️
 
 [Data](articles/9db151f4.json)
+
+[Extended Data](ext_articles/9db151f4.ext.json)
 
 ---
 
@@ -107,6 +183,8 @@ Ilyas had submitted nominations on August 15 to contest the upcoming presidentia
 ◼️
 
 [Data](articles/46ab8910.json)
+
+[Extended Data](ext_articles/46ab8910.ext.json)
 
 ---
 
@@ -804,37 +882,49 @@ He said that the current President Ranil Wickremesinghe, who was a member of Par
 
 ---
 
-### மண்சரிவு அபாய எச்சரிக்கை நீடிப்பு
+### Extension of landslide risk warning
 
 *2024-08-23 00:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாய-எச்சரிக்கை-நீடிப்பு/175-342662) · `ta`
 
-4 மாவட்டங்களுக்கு விடுக்கப்பட்ட மண்சரிவு அபாய முன்னெச்சரிக்கை நீடிக்கப்பட்டுள்ளதாகத் தேசிய கட்டட ஆராய்ச்சி நிறுவகம் அறிவித்துள்ளது.
+Landslide warnings issued for Ratnapura, Kegalle, Kalutara, and Galle districts due to increased hazard risk. Inclement weather causing river levels to rise, including Kaluganga, Jinkangai, and Nilwala Ganges.
 
-இதன்படி, இரத்தினபுரி, கேகாலை, களுத்துறை மற்றும் காலி மாவட்டங்களுக்கே இவ்வாறு மண்சரிவு அபாய முன்னெச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-அத்துடன், நிலவும் சீரற்ற காலநிலையினால் ஆறுகளின் நீர்மட்டமும் அதிகரித்து வருவதாக நீர்பாசனத்திணைக்களம் தெரிவித்துள்ளது.
+The National Building Research Institute has announced that the landslide hazard has been extended to 4 districts.
 
-களுகங்கை, ஜின்கங்கை மற்றும் நில்வளா கங்கைகளின் நீர்மட்டம் அதிகரித்து வருவதாகக் குறிப்பிடப்பட்டுள்ளது. (a)
+Accordingly, the Ratnapura, Kegalle, Kalutara and Galle districts have been warned.
+
+The Irrigation Department said the rivers are also increasing due to the inclement weather.
+
+The water level of Kaluganga, Jinkangai and Nilwala Ganges is increasing. (A)
 
 ◼️
 
 [Data](articles/d5f3c2bd.json)
 
+[Extended Data](ext_articles/d5f3c2bd.ext.json)
+
 ---
 
-### மழையுடனான வானிலை தொடரும்
+### The weather will continue with the rain
 
 *2024-08-23 00:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையுடனான-வானிலை-தொடரும்/175-342661) · `ta`
 
-மேல், சபரகமுவ மற்றும் வடமேல் மாகாணங்களில்  மழையுடனான வானிலை தொடரும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology predicts continued rainfall across several regions, including the Western, Sabaragamuwa, North Western provinces, and specific districts like Eastern, Uva, Polonnaruwa, and Mullaitivu. Wind speeds of 30 to 40 km/h are anticipated in the western part of the Central Highlands.
 
-அத்துடன், கிழக்கு, மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை மற்றும் முல்லைத்தீவு மாவட்டங்களிலும் மழை பெய்யக்கூடும்.
+🟩
 
-மத்திய மலைநாட்டின் மேற்குச் சரிவு பகுதிகளில் மணித்தியாலத்துக்கு 30 முதல் 40 கிலோமீற்றர் வேகத்தில் காற்று வீசக்கூடும் என அந்த திணைக்களம் தெரிவித்துள்ளது. (a)
+The Department of Meteorology has said that the rainy weather will continue in the Western, Sabaragamuwa and North Western provinces.
+
+Rainfall is expected in the Eastern and Uva provinces and the Polonnaruwa and Mullaitivu districts.
+
+In the western collapse of the Central Highlands, winds are likely to blow at speeds of 30 to 40 kilometers per hour, the department said.. (A)
 
 ◼️
 
 [Data](articles/579e6ed5.json)
+
+[Extended Data](ext_articles/579e6ed5.ext.json)
 
 ---
 
@@ -847,6 +937,8 @@ Nomination of Kamala Harris, whether viewed as the first Black woman or the firs
 ...
 
 [Data](articles/5630a3ea.json)
+
+[Extended Data](ext_articles/5630a3ea.ext.json)
 
 ---
 
@@ -1190,23 +1282,33 @@ Drivers who passed through the car took swift action to rescue the victims.
 
 ---
 
-### ලංකාවේ ප්‍රමුඛතම තරු 7 හෝටල් දැනගැනීමට විදේශිකයින් තුළ දැඩි උනන්දුවක්
+### Interest in foreigners to learn the leading stars in Sri Lanka
 
 *2024-08-22 19:55:40* · [`adalk`](https://www.ada.lk/business/ලංකාවේ-ප්‍රමුඛතම-තරු-7-හෝටල්-දැනගැනීමට-විදේශිකයින්-තුළ-දැඩි-උනන්දුවක්/7-411510) · `si`
 
-ශ්‍රී ලංකාවේ ප්‍රමුඛතම තරු 7 හෝටල් ව්‍යාපෘතිය වන අවියානා හෝටල් සමූහය (Aviyana Private Chalets) පිළිබඳව තොරතුරු දැනගැනීමට විදේශ සංචාරකයින් තුළ දැඩි උනන්දුවක් පවතින බව වාර්තා වේ.
+Foreign tourists are eagerly anticipating the opening of the Aviyantha Hotel Group's 7th star hotel project in Kandy, Sri Lanka. The project, located at the Kandy Galle City Center, promises a vibrant atmosphere and is expected to attract visitors from various countries including Italy, Spain, England, Germany, and France. The hotel group aims to offer a unique hospitality experience, marking it as the first 7-star hotel in Sri Lanka, set to open in 2025 under the leadership of Dr. Thisara Hewawala.
 
-අවියානා තරු 7 හෝටල් ව්‍යාපෘතිය පිළිබඳ විශේෂ ප්‍රවර්ධන වැඩසටහනක් මහනුවර Kandy City Center හිදී පසුගිය දිනවල පැවති අතර එහිදී විදේශීය සංචාරකයින් රැසක් පැමිණ මෙම හෝටල් ව්‍යාපෘතිය පිළිබඳ තොරතුරු විමසා තිබේ.
+🟩
 
-මහනුවර,  තෙල්දෙනිය,  උඩිස්පත්තුව  ප්‍රදේශයේ  අති  රමණීය පරිසරයක් පසුබිම් කරගෙන ඉදි කෙරෙන මෙම අවියානා හෝටල් සමූහය මෙරට තරු 7 පළමු හෝටල් ව්‍යාපෘතිය වශයෙන් තමන්ට නැවුම් අපූරු අත්දැකීමක් වන බව විදේශීය සංචාරකයින් රැසක්ම එහිදී ප්‍රකාශ කිරීම විශේෂත්වයකි.
+Foreign tourists have been intense in foreign tourists to learn about Aviyana Hotel Group, the leading 7th star hotel project in Sri Lanka.
 
-ලබන වසරේදී (2025) දී මෙම අවියානා හෝටල් සමූහය විවෘත කළ පසුව එහි තවාතැන් ගැනීමට අනිවාර්යෙන්ම පැමිණෙන බවද එම විදේශීය සංචාරකයින් ප්‍රකාශකොට ඇති බව ද වාර්තා වේ.
+Avananana 7 star hotel project was held in Kandy at the Kandy Galle City Center, where many foreign tourists had come to the Hotel Project.
 
-ජර්මනිය, නෙදර්ලන්තය, ඩෙන්මාර්කය, ඕස්ට්‍රේලියාව, ප්‍රංශය, ඉතාලිය, ස්පාඤ්ඤය, එංගලන්තය ඇතුළු රටවල් රැසක සංචාරකයින් Kandy City Center වෙත පැමිණ අවියානා හෝටල් සමූහය සම්බන්ධයෙන් තොරතුරු විමසා ඇති බව දැනගැනීමට ඇත.
+The Aviantewewa Hotel Group, which is backing a vigor environment in Kandy, Mandudiya, Kandy, is being built, is a fresh look at the 7 star hotel project in Sri Lanka.
 
-...
+It is also reported that the foreign tourists have said that the exploitation of these Avanananantelawa Hotels is definitely arriving at next year.
+
+The tourist arrivals to the Kandy, Italy, Spain, Spain, England, including Germany, France, Italy, Spain, England had come to Kandy City Center.
+
+Aviation Hotel Group, the first 7 star hotel project in Sri Lanka, is to be opened next year (2025).
+
+The Chairman and CEO Dr. Thisara Hewawala President and CEO Dr. Thisara Hewawala President Dr. Thisara Hewawala President and CEO Dr. Thisara Hewawala said.
+
+◼️
 
 [Data](articles/38b81ef9.json)
+
+[Extended Data](ext_articles/38b81ef9.ext.json)
 
 ---
 
@@ -2233,63 +2335,5 @@ But after people confirm their identity, they can receive their voting cards fro
 [Data](articles/886ae117.json)
 
 [Extended Data](ext_articles/886ae117.ext.json)
-
----
-
-### The Sri Lankan army should stop the landing of new lands - the land of the land - the UN
-
-*2024-08-22 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191712) · `ta`
-
-The UN Human Rights Commissioner's office has urged the Sri Lankan army to halt land acquisitions and release detainees held under the Prevention of Terrorism Act. The request comes from a comprehensive report highlighting the need for the military to address human rights concerns, including the return of occupied lands in the North and engagement with victim compensation efforts.
-
-🟩
-
-The United Nations Human Rights Commissioner's Office has requested that the Sri Lankan army be free of land and the new lands should be stopped.
-
-The request was made in a full report of the United Nations Human Rights Commissioner of Human Rights in Sri Lanka.
-
-The Sri Lankan military should create a situation where the Sri Lankan army has its own land, the abolition of new lands in the North, the long -term detained of all those who have been detained under the Prevention of Terrorism Act, and engaging in the efforts of the victims, and the implementation of confidence in the implementation of confidence.
-
-◼️
-
-[Data](articles/48881b95.json)
-
-[Extended Data](ext_articles/48881b95.ext.json)
-
----
-
-### Dr. Nandalal Weerasinghe earns ‘A’ grade in Global Finance’s Central Banker Report Cards 2024
-
-*2024-08-22 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101423/dr-nandalal-weerasinghe-earns-a-grade-in-global-finances-central-banker-reportcards2024) · `en`
-
-The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has been awarded a prestigious “A” grade in Global Finance’s 2024 Central Banker Report Cards.
-
-This top-tier recognition places Dr. Weerasinghe among the elite central bank governors worldwide, acknowledging his exceptional leadership and strategic acumen in steering Sri Lanka’s economy through turbulent times.
-
-“The “A” grade is a testament to Dr. Weerasinghe’s outstanding performance in critical areas such as inflation management, economic growth, currency stability, and interest rate control. His effective policies and decisive actions have been pivotal in maintaining economic stability during a period marked by significant global and local challenges.”
-
-...
-
-[Data](articles/5bb9b0c1.json)
-
-[Extended Data](ext_articles/5bb9b0c1.ext.json)
-
----
-
-### Shine 50 Awards Night Celebrates Sri Lanka’s Impactful Young Leaders
-
-*2024-08-22 14:18:00* · [`economynextcom`](https://economynext.com/shine-50-awards-night-celebrates-sri-lankas-impactful-young-leaders-177731/) · `en`
-
-Neon and Echelon Media recently hosted the Shine 50 Awards and Networking Evening at the Oak Room Ballroom, Cinnamon Grand, celebrating 50 young women making remarkable contributions across Sri Lanka.
-
-The event, attended by U.S. Ambassador to Sri Lanka Julie J. Chung, honoured women aged 18 to 35 who are driving change in diverse fields such as entrepreneurship, environmental advocacy, the arts, science, and technology.
-
-An initiative launched by Neon and Echelon in partnership with USAID, Shine 50 celebrates young women redefining leadership and innovation in their respective sectors. These bold, brilliant, and unstoppable women captivated the evening with their stories, serving as a poignant reflection that Sri Lanka’s future will be shaped not by its past but by new voices, perspectives, and leadership exuded by the Shine 50 inductees.
-
-...
-
-[Data](articles/e6aa5974.json)
-
-[Extended Data](ext_articles/e6aa5974.ext.json)
 
 ---

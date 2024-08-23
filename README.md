@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 01:06:41**
+As of **2024-08-24 01:21:51**
 
 ## Newspaper Stats
 
@@ -26,25 +26,37 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,314 (100.0%) of 42,328 articles have been extended.
+42,315 (100.0%) of 42,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### மக்கள் படும் துன்பத்தை கண்டும் சஜித், அனுர மக்களுக்கு அனுதாபம் காட்டவில்லை -  ஜனாதிபதி
+### Sajith does not sympathize with the people of Anura, overlooking the suffering of the people -President
 
 *2024-08-24 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191837) · `ta`
 
-அன்று மக்கள் படும் துன்பங்களைக் கண்டு இரக்கமில்லாமல் தப்பியோடி, ஒளிந்த சஜித் பிரேமதாசவும் அநுர திஸாநாயக்கவும் நாட்டை முன்னோக்கி கொண்டு செல்வதற்கு தகுதியானவர்களா என்பதை இந்நாட்டு மக்கள் தீர்மானிக்க வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+It seems like you've shared a detailed narrative involving various political figures and events, primarily focusing on economic policies, leadership changes, and community support in the context of Sri Lanka. Your text touches upon themes of leadership, economic recovery, social justice, and the importance of unity and support for future progress.
 
-2022 ஆம் ஆண்டு ஜூலை மாதம் அரசாங்கத்தைப் பொறுப்பேற்றவுடன் விவசாயிகளுக்கு உரம் வழங்குவதே தாம் செய்த முதல் காரியம் என்பதை நினைவுகூர்ந்த ஜனாதிபதி, அந்த 04 போகங்களையும் வெற்றியடையச் செய்ததன் மூலம் நாட்டில் நெல் உற்பத்தியை அதிகரித்து வயல்களையும் சமையலறைகளையும் நிரப்பியதாக குறிப்பிட்டார்.
 
-மட்டக்களப்பு ஏறாவூர் அஹமட் பரீட் விளையாட்டரங்கில் வியாழக்கிழமை (23) பிற்பகல் நடைபெற்ற “இயலும் ஸ்ரீலங்கா” வெற்றிப் பேரணியில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+Given the complexity and specificity of the content, how can I assist you further? Are you looking for analysis, synthesis of information, or perhaps guidance on how to address specific points within this narrative? Please provide more details on how I can assist you with this information.
+
+🟩
+
+President Ranil Wickremesinghe said that the people of this country should decide whether the people of Sajith Premadasa and Anura Dissanayake are eligible to take the country forward.
+
+Recalling that the first thing he had done was to fertilize the farmers after taking over the government in July 2022, the president said that the success of the country was a success and filling the fields and kitchens in the country.
+
+President Ranil Wickremesinghe made this statement while addressing the "Ceylon Sri Lanka" victory rally held at the Eravur Ahmed Pareed Stadium in Batticaloa on Thursday afternoon.
+
+A large number of people from the Sinhala, Tamil and Muslims participated in the meeting to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election. People greeted the President who attended the meeting.
 
 ...
 
 [Data](articles/e7905bcc.json)
+
+[Extended Data](ext_articles/e7905bcc.ext.json)
 
 ---
 

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 03:06:59**
+As of **2024-08-24 03:21:35**
 
 ## Newspaper Stats
 
-*Scraped **42,333** Articles*
+*Scraped **42,334** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 354
 newsfirstlk | 363
 bbccomsinhala | 391
-colombotelegraphcom | 404
+colombotelegraphcom | 405
 islandlk | 2,451
 economynextcom | 2,566
 dailyftlk | 2,758
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,333 (100.0%) of 42,333 articles have been extended.
+42,333 (100.0%) of 42,334 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -631,6 +631,18 @@ Already, if such fraudsters have been caught, the Department has also been repor
 [Data](articles/355e2820.json)
 
 [Extended Data](ext_articles/355e2820.ext.json)
+
+---
+
+### WHO Totalitarianism – The Ideology Of Lies
+
+*2024-08-23 21:27:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/who-totalitarianism-the-ideology-of-lies/) · `en`
+
+The killer virus narrative has been tried for many decades. With AIDS, Mad cow, Swine Flu, Bird Flu, Ebola, Zika, Monkey Pox, Corona and now with Mpox. But it was only by 2019, with Covid that all the actors and collaborators, like building blocks, were in the right places and the integrity of every public institution and media station had been forsaken.
+
+...
+
+[Data](articles/00e23526.json)
 
 ---
 
@@ -2293,27 +2305,5 @@ Bids were also called by the CPC from registered suppliers for the procurement o
 [Data](articles/205cbb72.json)
 
 [Extended Data](ext_articles/205cbb72.ext.json)
-
----
-
-### Sri Lanka awards crude oil contract to Vitol Asia (Singapore) Pte Ltd
-
-*2024-08-23 11:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-crude-oil-contract-to-vitol-asia-singapore-pte-ltd-177859/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to purchase 3 shipments of Murban type of crude oil from November 15, 2024 to April 14, 2025 to Vitol Asia (Singapore) Pte Ltd, a government statement said.
-
-The 2,100,000 barrels +/- 5%, will be obtained on the basis of payment in 30 days through a Letter of Credit issued by the Bank of Ceylon.
-
-Bids were called by the State-owned Ceylon Petroleum Corporation from registered suppliers for the long term contract, and 5 bids were received.
-
-The bid submitted by Vitol Asia (Pvt) Ltd in Singapore was recommended as the responsive bid by the cabinet-appointed special standing procurement committee.
-
-Murban is lighter (less dense) than Brent crude oil. (Colombo/Aug23/2024)
-
-◼️
-
-[Data](articles/226d1303.json)
-
-[Extended Data](ext_articles/226d1303.ext.json)
 
 ---

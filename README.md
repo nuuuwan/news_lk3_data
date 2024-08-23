@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 09:56:12**
+As of **2024-08-23 10:08:50**
 
 ## Newspaper Stats
 
-*Scraped **42,207** Articles*
+*Scraped **42,208** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 404
 islandlk | 2,449
 economynextcom | 2,553
 dailyftlk | 2,742
-adalk | 3,887
+adalk | 3,888
 dailymirrorlk | 4,733
 adaderanalk | 4,945
 tamilmirrorlk | 5,475
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,205 (100.0%) of 42,207 articles have been extended.
+42,207 (100.0%) of 42,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### ඉන්දීය ආරක්ෂක ඇමති හදිසියේම අමෙරිකාවට
+### Indian defense minister suddenly in the United States
 
 *2024-08-23 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200230) · `si`
 
-ඉන්දියාව සහ අමෙරිකාව අතර ඉහළ පෙළේ ආරක්ෂක ගිවිසුම් කිහිපයක්ම අවසන් අදියරේ ඇති බැවින් ඊට අදාළ කටයුතු වෙනුවෙන් රාජ්නාත් සිං අමෙරිකාවට පැමිණ ඇති බව විදෙස් මාධ්‍ය පවසයි.
+Rajnath Singh visits the U.S., aiming to enhance the strategic partnership between India and America. He'll meet with the U.S. defense secretary and national defense advisor, focusing on expanding cooperation.
 
-සිය සංචාරයේදී රාජ්නාත් සිං අමෙරිකානු ආරක්ෂක ලේකම් සහ අමෙරිකාවේ ජාතික ආරක්ෂක උපදේශක හමුවී ද්විපාර්ශ්වික සාකච්ඡා සිදු කිරීමට ද නියමිතය.
+🟩
 
-ඉන්දීය ආරක්ෂක අමාත්‍යංශය පවසන්නේ මෙම සංචාරයේදී ඉන්දු - අමෙරිකා ගෝලීය උපායමාර්ගික හවුල්කාරිත්වය තවදුරටත් පුළුල් කිරීමට අපේක්ෂා කරන බවය.
+Rajnath Singh has come to the United States for the final stages of India and America.
+
+In his visit, Rajnath is also scheduled to meet bilateral discussions with US defense secretary and the United States National Defense Advisor.
+
+The Indian Defense Ministry states that this tour is expected to expand the Indo-American Strategic Partnership Partnership.
 
 ◼️
 
 [Data](articles/ceae2868.json)
+
+[Extended Data](ext_articles/ceae2868.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Interest in buying gold often comes at times of uncertainty — with potential c
 ...
 
 [Data](articles/177c0c12.json)
+
+[Extended Data](ext_articles/177c0c12.ext.json)
 
 ---
 
@@ -105,6 +113,26 @@ However, Hettiarachchi pointed out that, if essential, such measures should be i
 [Data](articles/7da3cfd7.json)
 
 [Extended Data](ext_articles/7da3cfd7.ext.json)
+
+---
+
+### විශ්‍රාමක මේජර්ගේ නිවසින් ජීව උණ්ඩ සොයා ගනියි
+
+*2024-08-23 08:31:12* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමක-මේජර්ගේ-නිවසින්-ජීව-උණ්ඩ-සොයා-ගනියි/11-411513) · `si`
+
+විශ්‍රාමික යුද හමුදා මේජර්වරයෙකුගේ මතුගම තඹරැටිය නිවසේ සඟවා තිබූ ජීව උණ්ඩ තොගයක් පොලිස් භාරයට ගත් බව මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය කියයි.
+
+එම නිවසේ තිබී විදේශීය රටක නිෂ්පාදිත දශම 22 වර්ගයේ ජීවඋණ්ඩ 125 ක් 9 එම් එම් වර්ගයේ ජීව උණ්ඩ 125 ක් පොලිස් භාරයට ගෙන ඇත.
+
+ගිණි අවි හා ජීව උන්ඩ  ළඟ තබාගෙන සිටින පුද්ගලයකු පිළිබඳ ලද තොරතුරකට අනුව මතුගම තඹරැටිය කොමිටියාවත්ත විශ්‍රාමික යුද හමුදා මේජර්වරයාගේ නිවස පරීක්ෂාව කිරීමේදී  නිවසේ අල්මාරියක් තුළ සඟවා තිබූ මෙම ජීව උණ්ඩ තොගය සොයාගැනීමට හැකිවූ බව පොලිසිය කියයි.
+
+පොලිස් නිලධාරීන් එම නිවස වටලන අවස්ථාවේදී විශ්‍රාමික යුද හමුදා මේජර්වරයා නිවසේ සිට නැතැයි පොලිසිය කියයි.
+
+මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශයේ  අධ්‍යක්ෂක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි ලකී රන්දෙණිය මහතාගේ උපදෙස් මත පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/07e939ef.json)
 
 ---
 
@@ -2299,29 +2327,5 @@ The disease has already spread in the African African African regional countries
 [Data](articles/cdf154ad.json)
 
 [Extended Data](ext_articles/cdf154ad.ext.json)
-
----
-
-### Sri Lanka’s merchandise exports surge in July 2024
-
-*2024-08-22 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101424/sri-lankas-merchandise-exports-surge-in-july-2024) · `en`
-
-The merchandise export performance in July 2024 has amounted to USD 1,087.6 million, recording an increase of 6.58% compared to July 2023, according to the latest report from the Export Development Board (EDB).
-
-This was mainly due to the increase in earnings from export of Apparel & Textiles, Tea, Coconut based products, Spices & Concentrates and Seafood, according to the EDB.
-
-Furthermore, export performance in July 2024 increased by 0.98% compared to June 2024.
-
-The estimated value of services exports for the month of July 2024 was USD 293.26 Million, increasing 16.44 % over the corresponding period of 2023.
-
-Consequently, total exports for July 2024, including both merchandise and services, were recorded at US$ 1,380.84 million, increasing 8.53% over the corresponding period of 2023.
-
-Export earnings from Apparel & Textile increased by 3.8 % y-o-y to USD  443.74 Mn in July 2024 compared to July 2023.
-
-...
-
-[Data](articles/63236462.json)
-
-[Extended Data](ext_articles/63236462.ext.json)
 
 ---

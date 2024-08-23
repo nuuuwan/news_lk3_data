@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 05:39:22**
+As of **2024-08-23 06:04:05**
 
 ## Newspaper Stats
 
-*Scraped **42,176** Articles*
+*Scraped **42,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 354
 newsfirstlk | 363
 bbccomsinhala | 390
 colombotelegraphcom | 403
-islandlk | 2,441
+islandlk | 2,449
 economynextcom | 2,553
 dailyftlk | 2,741
 adalk | 3,884
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,174 (100.0%) of 42,176 articles have been extended.
+42,176 (100.0%) of 42,184 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ In a true democracy, the selection of candidates and the election process should
 ...
 
 [Data](articles/6aa03193.json)
+
+[Extended Data](ext_articles/6aa03193.ext.json)
 
 ---
 
@@ -59,6 +61,8 @@ The experience of 46 years of the operation of the 1978 Constitution shows that 
 ...
 
 [Data](articles/9ef756e9.json)
+
+[Extended Data](ext_articles/9ef756e9.ext.json)
 
 ---
 
@@ -357,6 +361,80 @@ Following the pledging of support, Stanley was appointed as the Jaffna District 
 [Data](articles/e7635e8e.json)
 
 [Extended Data](ext_articles/e7635e8e.ext.json)
+
+---
+
+### MIOT International, India, offers revolutionary solution for severe knee pain
+
+*2024-08-23 03:41:00* · [`islandlk`](http://island.lk/miot-international-india-offers-revolutionary-solution-for-severe-knee-pain/) · `en`
+
+MIOT International, Chennai, India – a 1000 bedded multidisciplinary quaternary care hospital, has introduced its latest revolutionary procedure, Genicular Artery Embolization, a minimally invasive, pinhole procedure that reduces knee inflammation and provides pain relief to patients with severe knee osteoarthritis.
+
+Beyond the age of 40 years, the gradual wear and tear of the knee joints leads to progressive loss of articular cartilage, the tissue that provides cushioning between the bones in the knee joint, known as knee osteoarthritis. The friction due to rubbing of the knee bones causes severe pain, swelling and stiffness, affecting everyday activities like sitting, standing, walking, bending and climbing stairs.
+
+Patients with an early or moderate stage of osteoarthritis tend to seek relief through conventional treatments like lubricants and medication; however, they realize that these treatments have undesirable side effects and also affect their kidney.
+
+...
+
+[Data](articles/9d9f3558.json)
+
+---
+
+### HUTCH 2X offers savings of up to 60% on home broadband and mobile data bills
+
+*2024-08-23 03:40:00* · [`islandlk`](http://island.lk/hutch-2x-offers-savings-of-up-to-60-on-home-broadband-and-mobile-data-bills/) · `en`
+
+For the first time in Sri Lanka, HUTCH 2X unveils an innovative 2-in-1 package that integrates Home Broadband and Mobile Data into a single, convenient plan. This groundbreaking solution sets a new standard by eliminating the need for a separate home broadband connection and an investment for a router to achieve affordable internet.
+
+With HUTCH 2X, subscribers can effortlessly use their smartphones as a broadband solution, providing Wi-Fi through a hotspot at home and mobile data on the go. This approach not only simplifies connectivity but also offers generous data allowances, making it the ideal choice for seamless, reliable internet access both at home or away.
+
+HUTCH 2X combines exceptional value together with high-quality data experience. Plans start at just Rs. 1,099/- for 50GB and range to Rs. 4,999/- for an unlimited internet plan inclusive of all taxes.
+
+...
+
+[Data](articles/d5e437c0.json)
+
+---
+
+### Australia-Sri Lanka relationship heads into new terrain
+
+*2024-08-23 03:31:00* · [`islandlk`](http://island.lk/australia-sri-lanka-relationship-heads-into-new-terrain/) · `en`
+
+The Australian Border Force marks another momentous occasion by generously gifting Sri Lanka Coast Guard (SLCG) three All-terrain Vehicles (ATVs) at a special ceremony in Colombo.The small, motorised, off-highway vehicles are generally used on rough ground and will complement SLCG’s existing land coastal patrol activities.
+
+Test driving the ATVs during his official visit to the Australian Border Force headquarters earlier this year, Director-General of SLCG, Rear Admiral Pujitha Vithana said the ATVs are geared to enhance onshore patrol capabilities.
+
+“Like Australia, we bear similar civil maritime security threats and are committed to working together to combat maritime crime. The three ATVs are a welcome gift that will enhance our ability to do so. We are so grateful for the opportunity to receive them,” Rear Admiral Vithana said.
+
+...
+
+[Data](articles/50f65e3b.json)
+
+---
+
+### Maliban legacy continues with A.G. Kumudika Fernando as new chairperson
+
+*2024-08-23 03:31:00* · [`islandlk`](http://island.lk/maliban-legacy-continues-with-a-g-kumudika-fernando-as-new-chairperson/) · `en`
+
+The Maliban Group – a household name in Sri Lanka with a 70-year heritage in quality and taste – has announced a significant leadership transition, with A.G. Kumudika Fernando being appointed as Chairperson of the Group, with effect from the 15th of August 2024. This appointment follows the recent passing of A.G. Ratnapala Samaraweera, the previously-serving Chairman of the Maliban Group, who is also Ms Fernando’s father. Samaraweera was the son of the late AG Hinni Appuhamy, the legendary Founder of Maliban, and upheld the long-standing Maliban Family tradition of quality, excellence, and innovation.
+
+...
+
+[Data](articles/e69cbc94.json)
+
+---
+
+### CSE indices dip as selling pressure comes in the wake of political uncertainties
+
+*2024-08-23 03:23:00* · [`islandlk`](http://island.lk/cse-indices-dip-as-selling-pressure-comes-in-the-wake-of-political-uncertainties/) · `en`
+
+Although initially there was nothing particularly noteworthy in CSE trading yesterday, later selling pressure built up in the bourse due to lingering uncertainties on the political front, market analysts said.
+
+Consequently, both indices moved downwards. The All Share Price Index went down by 24.2 points while S and P SL20 declined by 16.2 points. Turnover stood at R 798 million with five crossings. Those five crossings were reported in Commercial Bank, where 2.06 million shares crossed to the tune of Rs 197.5 million; its shares traded at Rs 96, Dialog 5 million shares crossed for Rs 45 million; its shares traded at Rs 9, Kelani Tyres 500,000 shares crossed to the tune of Rs 39 million, its shares sold at Rs 78, HNB 150,000 shares crossed for Rs 27.45 million; its shares fetched Rs 183 and JKH 150,000 shares crossed to the tune of Rs 27.3 million; its shares traded at Rs 183 and JKH 150,000 shares crossed for Rs 27.3 million; its shares traded at Rs 182.
+
+...
+
+[Data](articles/5643be41.json)
 
 ---
 
@@ -2229,105 +2307,5 @@ If the bus left the road, the passengers and the house below the street would ha
 [Data](articles/f9065463.json)
 
 [Extended Data](ext_articles/f9065463.ext.json)
-
----
-
-### Sajith reiterates plans to amend IMF agreement after winning presidential poll
-
-*2024-08-22 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101420/sajith-reiterates-plans-to-amend-imf-agreement-after-winning-presidential-poll) · `en`
-
-The presidential candidate of the ‘Samagi Jana Sandhanaya’, opposition leader Sajith Premadasa reiterated his stance of amending Sri Lanka’s agreement with the International Monetary Fund (IMF) following his election to the Office of the President, citing that the existing agreement does not focus on economic growth.
-
-Addressing the National Visionary Summit in Colombo, organized by the National Council of Professionals, the Opposition Leader expressed his view that a government should not only focus on debt sustainability, adding that attention is also needed to be paid to other areas including trade.
-
-Commenting further, Premadasa stated that a mere 3.1% economic growth by 2029, which is agreed by the IMF and the Sri Lankan Government is insufficient, highlighting that debt sustainability cannot be the sole focus.
-
-“We must align our economy towards growth, not just growth, but tradable growth. It is a must to ensure that we achieve shared prosperity”, he added.
-
-...
-
-[Data](articles/0ba92d8e.json)
-
-[Extended Data](ext_articles/0ba92d8e.ext.json)
-
----
-
-### Sri Lanka’s Maga Engineering given contract for World Bank-funded Kandy project
-
-*2024-08-22 13:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-maga-engineering-given-contract-for-world-bank-funded-kandy-project-177722/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to improve access roads to the Kandy Multimodal Transport Terminal Development Project (KMTTDP) to Maga Engineering (Pvt) Limited, Minister of Transport and Highways Bandula Gunawardana said.
-
-“The World Bank is funding the greater Kandy city development project Visal Mahanuwara through a 30 billion rupee (koti thun dahasa) loan, which will reduce congestion in the city of Kandy,” Gunawardana told reporters on Thursday (22).
-
-“The access roads to this terminal have to be rehabilitated and improved.”
-
-Bids were invited for the awarding of the contract under the local competitive bidding procedure, he said, and 10 bids were received.
-
-“Based on the recommendations of the Standing Procurement Committee, the Cabinet approved the proposal to award the relevant contract to Maga Engineering (Pvt) Limited.” (Colombo/Aug22/2024)
-
-◼️
-
-[Data](articles/d9603e1b.json)
-
-[Extended Data](ext_articles/d9603e1b.ext.json)
-
----
-
-### Govt. to introduce ‘AI-related student societies’ in schools
-
-*2024-08-22 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101419/govt-to-introduce-ai-related-student-societies-in-schools-) · `en`
-
-The Cabinet of Ministers has granted approval to initiate a pilot programme as an initiative to launch “Artificial Intelligence related Student Societies” in 100 schools.
-
-Issuing a statement in this regard, the Department of Government Information (DGI) said that it is planned to implement this initiative with the participation of students from grades 6 to 9 and that plans are underway to expand this programme to other schools in the upcoming years based on the results of the pilot project.
-
-The programme’s goal is to provide an opportunity for the students to engage in studies relevant to artificial intelligence to achieve the objectives of creating citizens who can face future global trends and obtain their contribute to economic development effectively, it added.
-
-◼️
-
-[Data](articles/5508c576.json)
-
-[Extended Data](ext_articles/5508c576.ext.json)
-
----
-
-### Sri Lanka’s top court orders election commission to hold local govt polls
-
-*2024-08-22 12:52:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-court-orders-election-commission-to-hold-local-govt-polls-177723/) · `en`
-
-ECONOMYNEXT — The fundamental rights of voters have been violated through the postponement of the 2023 local government elections, the Supreme Court has said, ordering the election commission to hold the postponed election immediately.
-
-Media reports said the apex court had ruled that the Minister of Finance and members of the election commission have violated the voters’ fundamental rights in delaying the election.
-
-The verdict was issued upon hearing petitions  filed by several parties including the main opposition Samagi Jana Balawegaya (SJB), the leftist National Peoples’ Power (NPP) and the People’s Action for Free & Fair Elections (PAFFREL).
-
-The election commission had originally scheduled the local government polls for March 9, 2023, but postponed them to April 25, 2023. The elections were not held, however, citing a lack of funds due to the country’s ongoing recovery from the worst financial crisis in decades. (Colombo/Aug22/2024)
-
-◼️
-
-[Data](articles/fd4f24cb.json)
-
-[Extended Data](ext_articles/fd4f24cb.ext.json)
-
----
-
-### Helicopter of Iran’s late President Raisi crashed due to weather conditions, Fars says
-
-*2024-08-22 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101418/helicopter-of-irans-late-president-raisi-crashed-due-to-weather-conditions-fars-says) · `en`
-
-The helicopter crash in which Iran’s late President Ebrahim Raisi was killed in May was caused by weather conditions and the aircraft’s inability to handle the weight it was carrying, Iran’s semi-official news agency reported on Wednesday (Aug 21), citing a security source informed of the final investigation results.
-
-The communications centre of the Armed Forces General Staff, responsible for publishing information on the crash investigation, said the report was “completely false”, state media reported.
-
-A preliminary report by Iran’s military had said in May that no evidence of foul play or an attack had been found during the investigation.
-
-“The investigation in the case of Ayatollah Raisi’s helicopter crash have been completed ... there is complete certainty that what happened was an accident,” the security source, who was not named, told Fars.
-
-...
-
-[Data](articles/a524c13e.json)
-
-[Extended Data](ext_articles/a524c13e.ext.json)
 
 ---

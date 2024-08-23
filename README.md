@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 12:10:16**
+As of **2024-08-23 12:21:26**
 
 ## Newspaper Stats
 
-*Scraped **42,225** Articles*
+*Scraped **42,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ colombotelegraphcom | 404
 islandlk | 2,451
 economynextcom | 2,556
 dailyftlk | 2,742
-adalk | 3,888
+adalk | 3,891
 dailymirrorlk | 4,733
 adaderanalk | 4,948
-tamilmirrorlk | 5,478
-virakesarilk | 6,712
+tamilmirrorlk | 5,480
+virakesarilk | 6,715
 adaderanasinhalalk | 7,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,222 (100.0%) of 42,225 articles have been extended.
+42,225 (100.0%) of 42,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### தோட்ட தொழிலாளர்களை அழைக்க போதைப்பொருள்  விநியோகம்
+
+*2024-08-23 12:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்ட-தொழிலாளர்களை-அழைக்க-போதைப்பொருள்-விநியோகம்/175-342672) · `ta`
+
+ஜனாதிபதி வேட்பாளர்களுக்காக நடத்தப்படும் தேர்தல் பேரணிகளில் தோட்ட மக்கள் பங்கேற்பதற்காக போத்தல்களில் அடைக்கப்பட்ட தரம் குறைந்த போதைப்பொருளான கல்லு வழங்கப்படுவதாக பல முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளது என ஜனநாயக மறுசீரமைப்பு மற்றும் தேர்தல் கற்கைகள் நிறுவகத்தின் நிறைவேற்றுப் பணிப்பாளர் மஞ்சுள கஜநாயக்க தெரிவித்துள்ளார்.
+
+தோட்டத் தொழிலாளர்களுக்கு இவ்வாறு தரமற்ற போதைப்பொருள் வழங்கப்படுவதால், அவர்கள் வேலைக்குச் செல்வதில் இடையூறு ஏற்படுவதுடன், அவர்களின் வினைத்திறனும் குறைந்துள்ளதாக தோட்ட முகாமையாளர்கள் மற்றும் தோட்ட நிர்வாக அதிகாரிகள் முறைப்பாடு செய்வதாக அவர் கூறியுள்ளார் .
+
+மேலும் , தரமற்ற போதைப்பொருள் விநியோகத்தில் ஏற்படும் தேர்தல் சட்ட மீறல்களை தடுக்க பொலிஸார் மற்றும் சம்பந்தப்பட்ட அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் எனவும் அவர் வலியுறுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/97d160c4.json)
+
+---
+
+### இன்றைய நாணயமாற்று விகிதம்
+
+*2024-08-23 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/191771) · `ta`
+
+இன்று வெள்ளிக்கிழமை  (ஆகஸ்ட் 23) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 296.5514 ரூபா ஆகவும் விற்பனை விலை 305.8076 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4105468b.json)
+
+---
+
+### இரு மாணவர்களை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய பாடசாலை அதிபர் கைது
+
+*2024-08-23 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191756) · `ta`
+
+கதிர்காமம் பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் உள்ள பாடசாலையொன்றில் கல்வி கற்கும் இரண்டு மாணவர்களை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தியதாக கூறப்படும் பாடசாலை அதிபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக கதிர்காமம் பொலிஸார் தெரிவித்தனர்.
+
+கதிர்காமம் பொலிஸாருக்கு நேற்று வியாழக்கிழமை (22) கிடைத்த முறைப்பாட்டின் அடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணையில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+08 மற்றும் 09 ஆம் வகுப்புகளில் கல்வி கற்கும் இரண்டு மாணவர்களே பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்டுள்ளனர்.
+
+சந்தேக நபரான அதிபர் கடந்த 2021 ஆம் ஆண்டில் ஒரு மாணவனையும் ,2023 ஆம் ஆண்டில் மற்றைய மாணவனையும் பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தியுள்ளதாக இந்த முறைப்பாட்டில் குறிப்பிடப்பட்டுள்ளது.
+
+இந்த இரு மாணவர்களும் விளையாட்டு செயற்பாடுகளுக்காக பாடசாலைக்கு சென்றிருந்த போது உணவு உண்பதற்கு ஒதுக்கி வைக்கப்பட்டுள்ள அறையொன்றிற்குள் வைத்து இவ்வாறு பாலியல் துஷ்பிரயோகம் செய்யப்பட்டுள்ளதாக இந்த முறைப்பாட்டில் மேலும் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e5c62d65.json)
+
+---
+
+### பொலிஸ் வாகன தாக்குதலில்  11 பேர் பலி
+
+*2024-08-23 11:53:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பொலிஸ்-வாகன-தாக்குதலில்-11-பேர்-பலி/50-342671) · `ta`
+
+பாகிஸ்தான் பஞ்சாப் மாகாணத்தில் பொலிஸ் வாகனம் மீது பயங்கரவாதிகள் ரொக்கெட்டுகளால் தாக்கியதில், 11 பேர் உயிரிழந்தனர். 7 பேர் பலத்த காயமுற்றனர்.
+
+பாகிஸ்தானில் லாகூரிலிருந்து 400 கிலோ மீட்டர் தொலைவில் உள்ள ரஹீம் கான் என்ற இடத்தில் இரண்டு பொலிஸ் வாகனங்கள் சேறும், சகதியுமான சாலையில் சிக்கி கொண்டன. அப்போது அந்த பகுதி வழியாக பயங்கர ஆயுதங்களுடன் சென்ற ஒரு கும்பல், பொலிஸ் வாகனம் மீது ரொக்கெட்டுகளால் தாக்குதல் நடத்தினர்.
+
+இந்த தாக்குதலில், 11 பொலிஸார் சம்பவ இடத்திலேயே பரிதாபமாக உயிரிழந்தனர். மேலும், 7 பேர் பலத்த காயமுற்றனர்.
+
+காயமடைந்தவர்களில் சிலரது நிலைமை கவலைக்கிடமாக உள்ளதால் பலி எண்ணிக்கை அதிகரிக்கலாம் என அஞ்சப்படுகிறது. தாக்குதலுக்கு பிறகு, அந்த கும்பல் தப்பியோடினர். தப்பிய கும்பல், பொலிஸாரில் சிலரை பிணைக்கைதிகளாகவும் பிடித்து சென்றனர். தாக்குதல் நடத்தியவர்கள் கொள்ளையர்களா, ஏதேனும் பயங்கரவாத அமைப்பை சேர்ந்தவர்களா என்ற விவரம் வெளியாகவில்லை.
+
+...
+
+[Data](articles/45f19d8b.json)
+
+---
 
 ### Sri Lanka awards crude oil contract to Vitol Asia (Singapore) Pte Ltd
 
@@ -49,6 +115,8 @@ Murban is lighter (less dense) than Brent crude oil. (Colombo/Aug23/2024)
 ◼️
 
 [Data](articles/226d1303.json)
+
+[Extended Data](ext_articles/226d1303.ext.json)
 
 ---
 
@@ -214,6 +282,22 @@ Ramanathan is the SLFP’s former Senior Vice Chairman while Mithrapala is the f
 
 ---
 
+### யாழில் காய்ச்சல் காரணமாக ஒரு வயதுக் குழந்தை பரிதாபமாக உயரிழப்பு!
+
+*2024-08-23 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191758) · `ta`
+
+குறித்த குழந்தைக்கு காய்ச்சல் ஏற்பட்டுள் நிலையில் 21ஆம் திகதி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் குழந்தை சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளது.
+
+இருப்பினும் சிகிச்சை பலனின்றி குழந்தை 21ஆம் திகதி இரவு 11 மணியளவில் உயிரிழந்துள்ளது.
+
+குழந்தையின் சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டுள்ளதோடு, காய்ச்சல் காரணமாக மரணம் சம்பவித்துள்ளதாக உடற்கூற்று பரிசோதனைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/d337b987.json)
+
+---
+
 ### Two other MPs to Ranil
 
 *2024-08-23 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200232) · `si`
@@ -264,6 +348,22 @@ In terms of the price formula, the National Water Supply and Drainage Board has 
 
 ---
 
+### සංවේදී වූ තලතා පසුපසින් පැමිණි මන්ත්‍රීවරු දෙදෙනා කවුද
+
+*2024-08-23 10:15:47* · [`adalk`](https://www.ada.lk/opinion/සංවේදී-වූ-තලතා-පසුපසින්-පැමිණි-මන්ත්‍රීවරු-දෙදෙනා-කවුද/2-411517) · `si`
+
+ජනාධිපතිවරණ සටනට අදාළව ප්‍රසිද්ධියේ මෙන්ම අප්‍රසිද්ධියේත් බොහෝ සිද්ධි පසුගිය සතියේදී සිදුවූයේ දේශපාලන පිටිය තව තවත් උණුසුම් කරමිනි. මෙම සතිය පාර්ලිමේන්තු සතියක් වුවද, රැස්වීම් පැවැත්වුණේ  එක් දිනයක පමණි. එම දිනය වූයේ පසුගිය 21වැනිදා බදාදාය. ජනාධිපතිවරණයට හරියටම මාසයක් තිබියදී පැවැත්වුණු පාර්ලිමේන්තු රැස්වීම් දිනය බොහෝ උණුසුම් වූයේ කරුණු කිහිපයක් හේතුවෙනි .
+
+බොහෝ දෙනකුගේ අවධානය එදින දිනාගන්නා ලද්දේ සමගි ජනබලවේගයේ රත්නපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී තලතා අතුකෝරළයි. පැය 1/2 කට ආසන්න වේලාවක් ඇය කළ කතාව ආණ්ඩුව පක්ෂයේත්, විරුද්ධ පක්ෂයේත් බොහෝ දෙනෙකු අසා සිටියේ දැඩි අවධානයකිනි. මෙම කතාව සිදුකිරීමේ අවස්ථා කිහිපයේදීම තලතා දැඩි ලෙස හැඟුම්බර වූවාය.
+
+ඇය එහිදී තමාගේ වැඩිමහලු සහෝදරයා වන ගාමිණී අතුකෝරාළ ගැන වගේම ජේ.ආර්, ප්‍රේමදාස, ලලිත්, ගාමිණී ඇතුළු එක්සත් ජාතික පක්ෂයේ පැරණි සාමාජිකයන් ගැනද මතකය ආවර්ජනය කරමින් තලතා එක්සත් ජාතික පක්ෂයේ ඉතිහාසය, වර්තමානය සහ අනාගතය සම්බන්ධයෙන්ද විවරණයක් ඉදිරිපත් කළාය.
+
+...
+
+[Data](articles/952b624e.json)
+
+---
+
 ### Sri Lanka cannabis investment plan gets interest from 30 investors
 
 *2024-08-23 10:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-cannabis-investment-plan-gets-interest-from-30-investors-177844/) · `en`
@@ -287,6 +387,8 @@ The projects will be located within the Mirigama and Kandy Stage II zones.
 ...
 
 [Data](articles/0b0dedc5.json)
+
+[Extended Data](ext_articles/0b0dedc5.ext.json)
 
 ---
 
@@ -313,6 +415,8 @@ In equities, Colombo’s All Share Price Index opened 6.23 points lower at 11,45
 ◼️
 
 [Data](articles/0dd465b8.json)
+
+[Extended Data](ext_articles/0dd465b8.ext.json)
 
 ---
 
@@ -430,6 +534,22 @@ Interest in buying gold often comes at times of uncertainty — with potential c
 
 ---
 
+### මාලිමාව රජයේ ඩිජිටල් උපායමාර්ගික වැඩපිළිවෙළ අනුකරණය කරලලු
+
+*2024-08-23 09:09:24* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාව-රජයේ-ඩිජිටල්-උපායමාර්ගික-වැඩපිළිවෙළ-අනුකරණය-කරලලු/11-411516) · `si`
+
+ජාතික ජනබලවේගය රජයේ ඩිජිටල් උපායමාර්ගික වැඩපිළිවෙළ අනුකරණය කර ඇති බවත්, සමගි ජනබලවේගය ඉන්දියාවේ "ස්ටැක්" උපායමාර්ගය අනුකරණය කර ඇති බවත් තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පැවසීය.
+
+වෝටර්ස් එජ් හෝටලයේ පැවැති තොරතුරු තාක්ෂණවේදීන්ගේ හමුව අමතමින් ඔහු මේ බව පැවැසීය.
+
+එසේම අනෙකුත් පක්ෂ ඒ ආකාරයට ජනාධිපතිවරයාගේ දැක්ම අනුගමනය කිරීම රටට සුභ ලකුණක් වන බවත් ඔහු වැඩිදුරටත් පැවැසිය.
+
+◼️
+
+[Data](articles/cdc7de84.json)
+
+---
+
 ### India helps rescue Sri Lankan fishermen from distressed fishing trawler
 
 *2024-08-23 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101438/india-helps-rescue-sri-lankan-fishermen-from-distressed-fishing-trawler-) · `en`
@@ -467,6 +587,28 @@ However, Hettiarachchi pointed out that, if essential, such measures should be i
 [Data](articles/7da3cfd7.json)
 
 [Extended Data](ext_articles/7da3cfd7.ext.json)
+
+---
+
+### බෙන්තර ගඟේ බෝට්ටු දෙකක් ගැටී දෙදෙනෙක් අතුරුදන්
+
+*2024-08-23 08:38:04* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තර-ගඟේ-බෝට්ටු-දෙකක්-ගැටී-දෙදෙනෙක්-අතුරුදන්/11-411514) · `si`
+
+බෙන්තර ගගේ සංචාරක  බෝට්ටු දෙකක් මුහුනට මුහුණ ගැටී සිදුවූ අනතුරකින් පුද්ගලයන් දෙදෙනකු අතුරුදන්ව ඇති බව අලුත්ගම පොලිසිය පවසයි .
+
+අලුත්ගම ප්‍රදේශයේ සංචාරක හෝටලයක සේවය නිමවා පිරිසක් රැගෙන ගමන්කල බෝට්ටුවක් සහ බෙන්තර පොලිස් බළප්‍රදේශයේ පිහිටි සංචාරක බෝට්ටුවක් මෙලෙස මුහුණට මුහුණ ගැටී ඇති බව උසස් පොලිස් නිළධාරියෙක් කීය.
+
+මෙසේ අතුරුදන්ව ඇත්තේ බෙන්තර ප්‍රදේශයේ සංචාරක හෝටලයකින් පැමිණි බෝට්ටුවේ දෙදෙනකු බවට දැනගන්නට ලැබී ඇති බවත් රාත්‍රි නිසා අනන්‍යතාවය හදුනාගෙන නොමැති බවත්  පොලිසිය කීය.
+
+බෙන්තර අගමැති බංගලාව ආසන්නයේ පිහිටි  සංචාරක හෝටලයක් ඉදිරිපිට අනතුර සිදුව ඇති බවට තොරතුරු ලැබී ඇතැයිද පොලිසිය පවසයි .
+
+හෝටලයේ බෝට්ටු සහ අවට පිහිටි ජල ක්‍රීඩා සංගම්වල බෝට්ටු ආධාරයෙන් අතුරුදන් දෙදෙනා සොයා මේ වනවිට විමර්ශන සිදුකරන බවත් නාවික හමුදාව දැනුවත් කර ඇති බවත් උසස් පොලිස් නිළධාරියෙක් කීය.
+
+අලුත්ගම සහ බෙන්තර පොලිස් ස්ථාන වෙතින් පරීක්ෂණ සිදුකරමින් පවතින බව පොලිසිය සදහන් කරයි.
+
+◼️
+
+[Data](articles/4e6c728e.json)
 
 ---
 
@@ -2113,191 +2255,5 @@ The basic salary of high-employees will be increased from 24 percent to 50 perce
 [Data](articles/fa2e31a1.json)
 
 [Extended Data](ext_articles/fa2e31a1.ext.json)
-
----
-
-### British tech billionaire Mike Lynch’s body retrieved from sunken yacht in Sicily
-
-*2024-08-22 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101430/british-tech-billionaire-mike-lynchs-body-retrieved-from-sunken-yacht-in-sicily) · `en`
-
-The body of British tech magnate Mike Lynch was retrieved on Thursday from the wreck of his family yacht that sank earlier this week off the coast of Sicily during a violent storm, a source close to the rescue operation said.
-
-Lynch’s 18-year-old daughter Hannah is still unaccounted for, the source said. The bodies of the other four people who vanished when the boat went down were recovered from the yacht on Wednesday.
-
-The British-flagged Bayesian, a 56-metre-long (184-ft) superyacht carrying 22 passengers and crew, was anchored off the port of Porticello, near Palermo, when it disappeared beneath the waves in a matter of minutes after the bad weather struck.
-
-Lynch, 59, was one of the UK’s best-known tech entrepreneurs and had invited friends to join him on the yacht to celebrate his recent acquittal in a major U.S. fraud trial.
-
-His body was brought ashore in a blue body bag and driven in an ambulance to a nearby hospital morgue.
-
-...
-
-[Data](articles/add028c0.json)
-
-[Extended Data](ext_articles/add028c0.ext.json)
-
----
-
-### A Notification of Floods
-
-*2024-08-22 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200215) · `si`
-
-Flood warnings remain active despite reduced rainfall. Irrigation Engineer Sakura reports ongoing flood risks from the Black, Gin, and Nilwala rivers. Flooding in Kalutara's small rivers persists, caution advised for road users. Water levels in Gin River and lower areas are monitored closely; similar vigilance needed for lowlands.
-
-🟩
-
-The decrease in the rainy decrease in a few days, the risk situation has still said that the risk situation is still there.
-
-Irrigation Engineer (Hydrology and Disaster Management Division) by conducting update of the country's latest status. W. A. Mrs. Sakura, Diltota said that the floods of black, Gin and Nilwala River.
-
-"The flooding of the black, Gin and Nilwala river, and the distloral risk of the black river, which have been throughout several days. However, it is no longer expected to be no significant rainfall today. However, there will be floods in the next day and in the next day. The situation will gradually gradually with the current rainless weather conditions.
-
-...
-
-[Data](articles/ccb90c8b.json)
-
-[Extended Data](ext_articles/ccb90c8b.ext.json)
-
----
-
-### A car collides the safety fence on the highway
-
-*2024-08-22 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200214) · `si`
-
-A car crash on the highway involved a family en route to Hambantota General Hospital, injuring two sons and their mother. The incident occurred near Baddegama, 80km from the nearest access point. A luxury bus heading towards Colombo from Moneragala also collided with the car. All injured parties were rushed to the hospital.
-
-🟩
-
-The wife and two children who were experiencing a specialist of the Hambantota General Hospital were in danger of the Southern Expressway.
-
-That is 80 km of the nearest access to the Baddegama highway. 9 is near the post.
-
-Two sons and their mother were injured in the accident.
-
-The 21-year-old son has been driven by the police at the time of the accident.
-
-The car in Matara to Colombo was also hit by a luxury private bus traveling from Moneragala to Colombo with the collision of the road.
-
-The injured were the victims of the trapped men and hospitalized to hospital.
-
-◼️
-
-[Data](articles/63e6c2db.json)
-
-[Extended Data](ext_articles/63e6c2db.ext.json)
-
----
-
-### Man takes his own life after murdering wife and injuring son
-
-*2024-08-22 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101429/man-takes-his-own-life-after-murdering-wife-and-injuring-son) · `en`
-
-A person has reportedly murdered his wife and caused injuries to his 18-year-old son after attacking them with a sharp weapon, before taking his own life inside their house in the Nivithigala area.
-
-Police said that the suspect’s 38-year-old wife and son, who both sustained critical injuries in the incident, were admitted to Ratnapura Hospital, however the wife had succumbed to her injuries upon admission to the hospital.
-
-Later, during a search of their house, police have found the body of the 48-year-old suspect, who had committed suicide by hanging himself inside the house.
-
-The suspect, who was residing in the same house in the Dela area of Nivithigala, has been living with his wife, son and 8-year-old daughter, according to police.
-
-However, the police suspect that the attack had been carried out over a family dispute.
-
-If you or someone you know is in crisis and needs help, resources are available for immediate support:
-
-◼️
-
-[Data](articles/eab1710f.json)
-
-[Extended Data](ext_articles/eab1710f.ext.json)
-
----
-
-### The two deaths perceived in Nivitigala
-
-*2024-08-22 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200213) · `si`
-
-In Nivitigala, a man was killed in a family dispute, allegedly by his wife and young son. The incident occurred on Kalawana Road, and the wife claimed she was also severely injured in an accident, hospitalized in Ratnapura. The bodies were discovered during a police inspection.
-
-🟩
-
-The husband was killed due to a suspicious assault caused by her husband and son with a sharp weapon.
-
-The murder had been carried out due to a family dispute.
-
-The suspect is the woman, wife, and the eight-year-old son, and the eight-year-old son, and the eight-year-old son of the Kalawana Road, Kalawana Road, the incident occurred yesterday (21).
-
-The wife has said that the wife had died in the accident that he was seriously injured and admitted to the Ratnapura hospital.
-
-The body was then found in the house while the police were inspected by the house.
-
-◼️
-
-[Data](articles/6f60e5f5.json)
-
-[Extended Data](ext_articles/6f60e5f5.ext.json)
-
----
-
-### Another US war ship to the port
-
-*2024-08-22 17:35:11* · [`adalk`](https://www.ada.lk/picture_story/තවත්-ඇමෙරිකා-යුද-නැවක්-කොළඹ-වරායට/10-411507) · `si`
-
-The USS Stockdale, an Arleigh Burke-class destroyer, docked at the Port of Colombo on August 22, commanded by Lauren Johnson. It will depart on August 23, 2024, after fulfilling supply and service needs. This marks the third US naval vessel to arrive in Colombo since the same day.
-
-🟩
-
-The US Navy, US Navy, arrived at the Port of Colombo today (August 22
-
-Arleigh Burke - Clas Destroyer, which arrived at the Colombo port, is 155.3 meters in length and the Commander Lauren Johnson is the Commanding Officer of the Ship.
-
-Further, following the supplies and service requirements, the 'USS Stockdale' is due to leave the island on 23 August 2024.
-
-The US Navy, US Navy, arrived at the Port of Colombo today (August 22
-
-Accordingly, three ships in the US have arrived at the Port of Colombo since the end of this day.
-
-◼️
-
-[Data](articles/bea964d6.json)
-
-[Extended Data](ext_articles/bea964d6.ext.json)
-
----
-
-### Sri Lanka Cabinet approves public sector wage hike ahead of polls
-
-*2024-08-22 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-public-sector-wage-hike-ahead-of-polls-177823/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers approved a public sector salary hike in line with an expert panel recommendation for all public servants from January 2025, President Ranil Wickremesinghe’s office said.
-
-The move, however, comes a month ahead of the presidential poll in which President Wickremesinghe is contesting under an independent coalition.
-
-Wickremsinghe, after a series of protests by public sector employees demanding wage hike early this year, appointed a nine-member specialist committee in June headed by former presidential secretary Udaya Seneviratne to address salary anomalies in the government service.
-
-...
-
-[Data](articles/9c80b1b2.json)
-
-[Extended Data](ext_articles/9c80b1b2.ext.json)
-
----
-
-### Kehelia
-
-*2024-08-22 17:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலியவின்-விளக்கமறியல்-நீடிப்பு/175-342642) · `ta`
-
-A court has extended the detention of four suspects, including ex-Health Minister Keheliya Rambukwella, charged with buying substandard medical injections, until March 29.
-
-🟩
-
-The court on Thursday (22) has ordered the presentation of four suspects, including former Health Minister Keheliya Rambukwella, to extend the presentation until the 29th.
-
-Former Health Minister Keheliya Rambukwella was arrested on February 2 on charges of purchasing the substandard Human Imyunoglobulin injections and was detained by the Magistrate's Court on February 02.
-
-◼️
-
-[Data](articles/178fa4ce.json)
-
-[Extended Data](ext_articles/178fa4ce.ext.json)
 
 ---

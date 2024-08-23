@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 02:06:33**
+As of **2024-08-24 02:21:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,328 (100.0%) of 42,333 articles have been extended.
+42,333 (100.0%) of 42,333 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Sri Lanka Freedom Party (SLFP) General Secretary and MP Dayasiri Jayasekara has 
 
 [Data](articles/34cefcb1.json)
 
+[Extended Data](ext_articles/34cefcb1.ext.json)
+
 ---
 
 ### President says he respects people’s voting rights and right to live
@@ -69,6 +71,8 @@ The President also noted that every hour was crucial in the effort to stabilise 
 ...
 
 [Data](articles/6e8e6c69.json)
+
+[Extended Data](ext_articles/6e8e6c69.ext.json)
 
 ---
 
@@ -90,6 +94,8 @@ In Parliament on Wednesday, Hakeem criticised the decision to cremate all COVID-
 
 [Data](articles/c49afd53.json)
 
+[Extended Data](ext_articles/c49afd53.ext.json)
+
 ---
 
 ### NPP fires off three LoDs to Tissa, Rauff and ABC over defamatory statements
@@ -108,21 +114,29 @@ The Letter of Demand noted that Hakeem had claimed Dissanayake said in Parliamen
 
 [Data](articles/71e33e3b.json)
 
+[Extended Data](ext_articles/71e33e3b.ext.json)
+
 ---
 
-### 12 நாடுகளின் பிரதிநிதிகளுக்கு அழைப்பு
+### Call to representatives of 12 countries
 
 *2024-08-24 01:38:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-நாடுகளின்-பிரதிநிதிகளுக்கு-அழைப்பு/175-342698) · `ta`
 
-ஜனாதிபதித் தேர்தல் கண்காணிப்பு நடவடிக்கைகளுக்காக 12 நாடுகளின் பிரதிநிதிகளுக்கு அழைப்பு விடுக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Elections Commission has invited representatives from 12 countries, including India, Nepal, Bangladesh, Pakistan, and the Maldives, for presidential election monitoring. RMAL, the commission's chairman, announced plans to compile a comprehensive report on all election-related activities.
 
-இந்தியா, நேபாளம், பங்களாதேஷ், பாகிஸ்தான், மாலைதீவு உள்ளிட்ட நாடுகளுக்கு இவ்வாறு அழைப்பு விடுக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க குறிப்பிட்டுள்ளார்.
+🟩
 
-அவர்கள் ஜனாதிபதித் தேர்தல் வாக்களிப்பு உள்ளிட்ட சகல செயற்பாடுகளையும் அவதானித்து அறிக்கையொன்றை வழங்க நடவடிக்கை எடுக்கவுள்ளதாக ரத்நாயக்க தெரிவித்துள்ளார். (a)
+The Elections Commission said that representatives of 12 countries have been invited for presidential election monitoring.
+
+RMAL, Chairman of the Elections Commission, has called for countries including India, Nepal, Bangladesh, Pakistan and the Maldives.. Ratnayake mentioned.
+
+Ratnayake has said that they will take steps to provide a report on all activities, including the presidential election voting.. (A)
 
 ◼️
 
 [Data](articles/e1d47de1.json)
+
+[Extended Data](ext_articles/e1d47de1.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 13:36:59**
+As of **2024-08-23 13:56:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,237 (100.0%) of 42,239 articles have been extended.
+42,239 (100.0%) of 42,239 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,27 @@ Against this backdrop, the Sri Lanka Athletics Association had taken steps to ob
 
 ---
 
-### மாணவியை தாக்கிய ஆசிரியர்கள் கைது
+### Teachers arrested for attacking student
 
 *2024-08-23 12:57:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவியை-தாக்கிய-ஆசிரியர்கள்-கைது/175-342684) · `ta`
 
-வென்னப்புவ பகுதியிலுள்ள முன்னணி பாடசாலை ஒன்றின் 10ஆம் தரத்தில் கல்வி பயிலும் மாணவி ஒருவரை கடுமையாகத் தாக்கிய குற்றச்சாட்டில் இரண்டு ஆசிரியர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Two teachers were arrested for severely assaulting a 10th-grade student in Wennappuwa. The student has been hospitalized for 13 days. Investigations led to the arrests, with one teacher accused of beating another and both involved in the attack on the student.
 
-குறித்த மாணவியை ஒரு ஆசிரியர் கடுமையாகத் தாக்கியுள்ளதுடன் மற்றைய ஆசிரியர் தும்புத்தடியால் தாக்கியதுடன் வெயிலில் முழந்தாளிடச் செய்துள்ளமை விசாரணைகளில் தெரியவந்துள்ளது.
+🟩
 
-குறித்த மாணவி கடந்த 13 நாட்களாகக் கொழும்பு தேசிய வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வருகிறார்.
+Two teachers have been arrested on charges of severely assaulting a student in grade 10 of a leading school in the Wennappuwa area.
 
-சம்பவம் தொடர்பில் காவல்துறையினர் முன்னெடுத்த உரிய விசாரணையின் பிரகாரம் குறித்த ஆசிரியர்கள் இருவரும் கைது செய்யப்பட்டுள்ளனர். R
+Investigations have revealed that a teacher has been severely beaten by a teacher and the other teacher has been attacked by Thumbuttadi.
+
+The student has been receiving treatment at the Emergency Department of the Colombo National Hospital for the past 13 days.
+
+Two teachers have been arrested in connection with the appropriate investigation by the police regarding the incident. Remble
 
 ◼️
 
 [Data](articles/99eea7e0.json)
+
+[Extended Data](ext_articles/99eea7e0.ext.json)
 
 ---
 
@@ -116,19 +122,25 @@ It is noteworthy that Karunaratne Paranavidhana is the next MP Dalada Athukorala
 
 ---
 
-### ரணில் விக்கிரமசிங்க தலைமையில் ஐக்கிய தேசிய கட்சியின் விசேட சம்மேளனம்
+### UNP Special Federation headed by Ranil Wickremesinghe
 
 *2024-08-23 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191761) · `ta`
 
-ஐக்கிய தேசிய கட்சியின் விசேட சம்மேளனம் ஐக்கிய தேசிய கட்சியின் தலைவரும் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க தலைமையில் ஞாயிற்றுக்கிழமை (25)  இடம்பெறவுள்ளது.
+The UNP Special Federation, led by Ranil Wickremesinghe, will convene on Sunday at Sirikotha, aiming to allow the United National Party to skip the upcoming presidential election, with Wickremesinghe running independently.
 
-கட்சியின் தலைமையகமான சிறிகொத்தவில் பிற்பகல் 2 மணிக்கு ஏற்பாடு செய்துள்ள இம்மாநாட்டுக்கு கட்சி அங்கத்தவர்கள், ஆதரவாளர்கள் என ஆயிரக்கணக்கானவர்கள் கலந்துகொள்ள இருக்கின்றனர்.
+🟩
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் ஐக்கிய தேசிய கட்சி போட்டியிடாமல், கட்சியின் தலைவர் ரணில் விக்ரமசிங்க சுயாதீன வேட்பாளராக போட்டியிட முன்வந்திருக்கும் பிரேரணையை இதன் போது அனுமதித்துக்கொள்ளும் நோக்கிலேயே இந்த விசேட சம்மேளனத்தை நடத்துவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+The UNP Special Federation will be held on Sunday (25) under the leadership of Ranil Wickremesinghe, President and President of the United National Party.
+
+Thousands of party members and supporters will be attending the conference, which is organized at 2 pm at the party headquarters, Sirikotha.
+
+It has been decided to hold the Special Federation with the aim of allowing the United National Party (UNP) not contesting the upcoming presidential election and the party leader Ranil Wickremesinghe will contest as an independent candidate.
 
 ◼️
 
 [Data](articles/f4a97b8d.json)
+
+[Extended Data](ext_articles/f4a97b8d.ext.json)
 
 ---
 

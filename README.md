@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 15:06:33**
+As of **2024-08-23 15:21:26**
 
 ## Newspaper Stats
 
-*Scraped **42,246** Articles*
+*Scraped **42,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 404
 islandlk | 2,451
-economynextcom | 2,556
+economynextcom | 2,560
 dailyftlk | 2,742
-adalk | 3,892
+adalk | 3,893
 dailymirrorlk | 4,733
 adaderanalk | 4,951
 tamilmirrorlk | 5,484
@@ -26,33 +26,39 @@ adaderanasinhalalk | 7,209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,245 (100.0%) of 42,246 articles have been extended.
+42,246 (100.0%) of 42,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### උපකාරක පන්ති ගුරුවරුන්ට දිලිත් පෙන්වූ මඟ
+### Dilith also showed Dilith for tuition teachers
 
 *2024-08-23 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200240) · `si`
 
-ජනතාව වෙනසක් බලාපෙරොත්තු වුවත්, ජනාධිපතිවරණයට ඉදිරිපත්ව සිටින ප්‍රධාන පෙළේ අපේක්ෂකයින් කිසිවෙකුගෙන්වත් එවැන්නක් බලාපොරොත්තු විය නොහැකි බව සර්වජන ජනාධිපතිධුර අපේක්ෂක, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Entrepreneurial candidate Dilitha Jayaweera expresses confidence in the stability of Sri Lanka's presidential election, emphasizing support for private tuition teachers and fostering an entrepreneurial spirit among the youth.
 
-පෞද්ගලික උපකාරක පංති ගුරුවරුන් ඊයේ (22) හමුවූ අවස්ථාවේදී ව්‍යවසායක දිලිත් ජයවීර මහතා මේ බව ප්‍රකාශ කළේය.
+🟩
 
-"නිදහස් අධ්‍යාපනය සාම්ප්‍රදායික තැනක හිරවෙනවාට වඩා, නිදහසේ අධ්‍යාපනය ලබාගැනීමට අවකාශය නිර්මාණය කර ගැනීමට නිදහස් අධ්‍යාපනයෙන් බිහිවුණු ඔබ කරන්නා වූ කර්තව්‍ය ගැන අපට ලොකු විශ්වාසයක් තිබෙනවා.
+The security personnel candidate, entrepreneral Dilita Jayaweera says that the masses are not expected of any change in the presidential election.
 
-අපි විශ්වාසකරන ව්‍යවසායකත්ව රාජ්‍යයකින් බිහිවන ලංකාව තුළ පෞද්ගලික ගුරුවන්ට තම ව්‍යවසායකත්වය පවත්වාගෙන යාමට හැකි සුරක්ෂිත පරිසරයක් නිර්මාණය කිරීම අපේ වගකීමක්.
+The private supporting class teachers met yesterday (22), Mr. Dilith Jayaweera said this.
 
-මේ නිර්මාණශීලි ශ්‍රී ලංකාවේ ව්‍යවසායකත්වය මුදුන්පත් කරවා ගැනීමට වෙරදරණ මේ තාරුණ්‍යයට පරිසරය සකසාදීමේ වගකීමක් අපට තිබෙනවා.
+"We have faith in the task that you have made free education to educate free education, rather than stuck in a traditional place.
 
-සමහරු අරගලයටත් ගියා. 225ම එපා කිව්වා. අලුත් දෙයක් ඕන කිව්වා. සිස්ටම් එක චේන්ජ් කරන්න ඕන කිව්වා.
+It is our responsibility to create a secure environment for private teachers that are believed in an entrepreneurship state.
 
-අපි කරන දේශපාලනය වෙනස්. වෙනසක් ප්‍රාර්ථනා කළානම්, ඒ පැතූ වෙනස නිර්මාණය කර ගැනීමට ඔබට දායක විය හැකියි. ඒක මේ රට වෙනුවෙන් කරන පිනක්."
+We have a responsibility to sustain the environment for the youth of this youth to achieve entrepreneurship in Sri Lanka.
+
+Some went to struggle. 225 said no. Said something new wanted. Sistum told you to change.
+
+The politics we make is different. Wishful change, you may contribute to the change of that change. It is a pue that is done for this country. "
 
 ◼️
 
 [Data](articles/4486534f.json)
+
+[Extended Data](ext_articles/4486534f.ext.json)
 
 ---
 
@@ -180,6 +186,38 @@ However, the parents' parents accused the children of the school allegations tha
 
 ---
 
+### Sri Lanka EC allows 712,319 postal votes, highest from Kurunegala
+
+*2024-08-23 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-allows-712319-postal-votes-highest-from-kurunegala-177893/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Elections Commission said 712,319 persons were eligible to cast postal votes in the upcoming presidential polls in September.
+
+The highest number of 76,977 or 10.8 percent were from Kurunegala.
+
+Kandy was the next highest at 55,795, followed by Gampaha at 52,486.
+
+◼️
+
+[Data](articles/bdaa0d07.json)
+
+---
+
+### Sri Lanka would continue to stand for rights of Palestinian people: Premier
+
+*2024-08-23 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-would-continue-to-stand-for-rights-of-palestinian-people-premier-177890/) · `en`
+
+ECONOMYNEXT – Sri Lanka will continue to stand for the rights of the Palestinian people, Prime Minister Dinesh Gunawardena told Palestinian Ambassador Zuhair M H Zaid.
+
+Ambassador Zaid paid a farewell call on Gunawardena on Thursday (22).
+
+He briefed the Prime Minister about the current situation in Palestine and the Prime Minister stated that “Sri Lanka would continue to stand for the rights of the Palestinian people,” his media division said. (Colombo/Aug23/2024)
+
+◼️
+
+[Data](articles/aed89d3e.json)
+
+---
+
 ### President’s Fund provides lifeline for Sri Lankan athletes’ World Junior Championship hopes after Ada Derana report
 
 *2024-08-23 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101445/presidents-fund-provides-lifeline-for-sri-lankan-athletes-world-junior-championship-hopes-after-ada-derana-report) · `en`
@@ -243,6 +281,24 @@ It has also been reported that the passport of all former MPs has been canceled.
 [Data](articles/6e06cbac.json)
 
 [Extended Data](ext_articles/6e06cbac.ext.json)
+
+---
+
+### To re-democratize Sri Lanka, abolish executive presidency: activists
+
+*2024-08-23 12:27:00* · [`economynextcom`](https://economynext.com/to-re-democratize-sri-lanka-abolish-executive-presidency-activists-177870/) · `en`
+
+ECONOMYNEXT – A group of lawyers, academics, and civil rights activists have called for the abolition of the executive presidency, saying it has failed to deliver the aims for which it was introduced over four decades ago.
+
+The presidency was introduced in 1978 for accelerated and sustained economic growth and development; communal harmony; and political stability, the group of professionals and 8 civil society organizations said.
+
+“It has worsened rather than improved peace and stability, by accelerating ethnic conflict and making our political system prone to frequent crises,” the statement said.
+
+“The executive presidential system produces these undesirable outcomes because, through its lack of accountability and responsiveness, it allows authoritarianism, corruption, and incompetence to trump the common good of Sri Lanka and Sri Lankans.
+
+...
+
+[Data](articles/4cbf0677.json)
 
 ---
 
@@ -432,6 +488,28 @@ Anuradhapura headquarters police OIC of Anuradhapura Police Station, Chief Inspe
 
 ---
 
+### Sri Lanka awards 2.1mn barrel crude contracts to Vitol Asia
+
+*2024-08-23 11:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-2-1mn-barrel-crude-contract-to-vitol-asia-177859/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to purchase 3 shipments of Murban type of crude oil from November 15, 2024 to April 14, 2025 to Vitol Asia (Singapore) Pte Ltd, a government statement said.
+
+The 2,100,000 barrels +/- 5%, will be obtained on the basis of payment in 30 days through a Letter of Credit issued by the Bank of Ceylon.
+
+Bids were called by the State-owned Ceylon Petroleum Corporation from registered suppliers for the long term contract, and 5 bids were received.
+
+The bid submitted by Vitol Asia (Pvt) Ltd in Singapore was recommended as the responsive bid by the cabinet-appointed special standing procurement committee.
+
+Murban is a light crude that can be processed by a refinery owned by CPC.
+
+Bids were also called by the CPC from registered suppliers for the procurement of 3 shipments of Murban crude oil (2,100,000 Barrels +/- 5%) under the procedure of issuance from the 100% stored tanks (100% Ex. Storage Modality) from November 15 to April 14, 2025.
+
+...
+
+[Data](articles/205cbb72.json)
+
+---
+
 ### Sri Lanka awards crude oil contract to Vitol Asia (Singapore) Pte Ltd
 
 *2024-08-23 11:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-crude-oil-contract-to-vitol-asia-singapore-pte-ltd-177859/) · `en`
@@ -451,6 +529,20 @@ Murban is lighter (less dense) than Brent crude oil. (Colombo/Aug23/2024)
 [Data](articles/226d1303.json)
 
 [Extended Data](ext_articles/226d1303.ext.json)
+
+---
+
+### නිදහස් පක්ෂ මන්ත්‍රීවරු දෙදෙනෙක් ජනපතිගේ සහායට
+
+*2024-08-23 11:40:22* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂ-මන්ත්‍රීවරු-දෙදෙනෙක්-ජනපතිගේ-සහායට/11-411519) · `si`
+
+ශ්‍රි ලංකා නිදහස් පක්ෂයේ යාපනය දිස්ත්‍රික් මන්ත්‍රි අංගජන් රාමනාදන් හා කෑගල්ල දිස්ත්‍රික් මන්ත්‍රී දුෂ්මන්ත මිත්‍රපාල යන මහත්වරුන් ඉදිරි ජනපතිවරණයේදි ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්විමට තීරණය කර තිබේ.
+
+අද පෙරවරුවේදි ඔවුන් මෙසේ ජනපතිවරයාට සහාය දක්වන බවට පවසා ඇත්තේ කොළඹ මල්පාරේ පිහිටි ජනපති රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලයේදි ජනපතිවරයා හමුවූ අවස්ථාවේදීය.
+
+◼️
+
+[Data](articles/f8015d12.json)
 
 ---
 
@@ -2147,131 +2239,5 @@ Fernando, who bowled, took 3 wickets for 68 runs and Prabhat Jayasuriya took 2 w
 [Data](articles/abb4c1ef.json)
 
 [Extended Data](ext_articles/abb4c1ef.ext.json)
-
----
-
-### Pakistan reached a strong position to accumulate centuries
-
-*2024-08-22 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191740) · `ta`
-
-In the ICC World Test Championship opener at Rawalpindi, Pakistan amassed 448/4 in their first innings, led by centuries from Saud Shakeel (141) and Mohammad Rizwan (171). Shakeel's knock included 9 fours, marking his third Test century, while Rizwan's effort, off 239 balls with 11 fours and 3 sixes, was his third Test ton and highest individual score in Tests. The partnership between Rizwan and Aga Salman (44 runs) and Rizwan and Shaheen Shah Afridi (50 runs) highlighted Pakistan's batting strength. Bangladesh ended the day at 27/0, with Hasan Mahmud and Shoriful Islam taking two wickets each for Pakistan.
-
-🟩
-
-In the first match of the ICC World Test Championships at Rawalpindi Stadium against Bangladesh, Pakistan achieved a significant total number with the help of 240 runs in the 5th wicket.
-
-On the second day of the match, Pakistan stopped their first innings for 448 runs for the loss of 154 runs for the loss of 154 runs for the loss of 4 wickets.
-
-Saudi Shakiel and Mohammed Rizwan both played very effectively and scored great centuries.
-
-Saudi Shakheel, who was patiently bowled out, scored 141 runs, including 9 pounds.. This is the 3rd century in the 11th Test.
-
-Mohammed Rizwan, who was initially relaxed and later, faced 239 balls, and did not play with 171 runs, including 11 pounds and 3 sixes.
-
-It was his 3rd Test century and his 171 runs were recorded as his unique Test innings.
-
-Rizwan shared 44 runs with Aga Salman in the 6th wicket after Shakel lost the match and shared 50 runs with Shaheen Shah Abridi in the 7th wicket.
-
-...
-
-[Data](articles/96570fa0.json)
-
-[Extended Data](ext_articles/96570fa0.ext.json)
-
----
-
-### The wrong decision of the university student
-
-*2024-08-22 23:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மாணவனின்-தவறான-முடிவு/175-342659) · `ta`
-
-A fourth-year student from the University of Wayamba at Peradeniya University was found dead in his hostel room in Riyagama, Kandy, after hanging himself. Investigations suggest he had been struggling with life's complexities and felt let down by society. A 24-year-old roommate from Gampaha mentioned the deceased's distress but couldn't comprehend his state of mind.
-
-🟩
-
-The fourth year student of the University of Wayamba University at Peradeniya University has been found dead at a hostel in Riyagama Kandy.
-
-Investigations have revealed that the student was hanged for three days and attempted suicide. It is also known that the laptop is on this regard.
-
-Investigations have revealed that a 24 -year -old student from Gampaha Hapugoda was staying at the hotel with three more students.
-
-He said that he was unable to understand the bizarre film of life and that he was very disappointed that the community was very disappointed.. Remble
-
-◼️
-
-[Data](articles/693094e6.json)
-
-[Extended Data](ext_articles/693094e6.ext.json)
-
----
-
-### Number of reputed postal voting applications - Highest Colombo
-
-*2024-08-22 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200221) · `si`
-
-In the upcoming presidential election on September 21, 2024, 712,319 individuals are eligible for postal voting, marking the highest number of such applications received in Colombo.
-
-🟩
-
-The Elections Commission has issued details regarding the reputed postal voting applications regarding the presidential election on September 21, 2024.
-
-Accordingly, 712,319 persons have been eligible to post voting.
-
-◼️
-
-[Data](articles/80a6ada5.json)
-
-[Extended Data](ext_articles/80a6ada5.ext.json)
-
----
-
-### I don't regret - President
-
-*2024-08-22 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200220) · `si`
-
-President Ranil Wickremesinghe addressed concerns over the economic crisis, questioning the impact of holding local government votes instead of focusing on economic recovery. He acknowledged the hardships faced by the people due to price hikes and shortages but expressed optimism about progress made despite challenges. He emphasized his commitment to serving the people without regret, inviting them to make informed decisions during future elections.
-
-🟩
-
-President Ranil Wickremesinghe has questioned what will happen if the local government vote was held instead of resolving the economic crisis.
-
-The President was speaking at the National Water Federation of the New People's Front held at the Youth Services Council Auditorium in Maharagama today (22).
-
-"There were" Prices everywhere. The gas queue is running out the queue of petrol. The petrol queue is running out of charge. "
-
-"It was queued. All of you lived hard. No need to say new. I know that sadness. "
-
-"It has now been stood by the economy for two years. We have lost queues. Revenue has been increased. The prices of some items have been reduced. There's all. "
-
-"But the people of this country still have a burden. No, no. That too will we lose the next two years. "
-
-"If I had all these pradeshiya sabha and towns, what if I had the vote for Pradeshiya Sabhas and Urban Councils?. That's all I hear. Make you decide. "
-
-...
-
-[Data](articles/7e3e9a45.json)
-
-[Extended Data](ext_articles/7e3e9a45.ext.json)
-
----
-
-### If time was spent conducting LG polls, country’s economy might not recover – President
-
-*2024-08-22 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101433/if-time-was-spent-conducting-lg-polls-countrys-economy-might-not-recover-president-) · `en`
-
-President Ranil Wickremesinghe today acknowledged that postponing the Local Government elections is a violation of citizens’ basic rights. However, he stated that he does not regret this decision, as the time was dedicated to ensuring the people’s right to live and maintaining their safety.
-
-The President made these remarks while addressing the National Conference of the New People’s Front (NPF) at the Youth Service Council Auditorium in Maharagama this afternoon (22).
-
-Emphasizing his respect for both the right to vote and the right to live, the President also noted that every hour was crucial in the effort to stabilize the country’s economy.
-
-Wickremesinghe stressed that had he devoted that time to conducting the Local Government elections, achieving economic stability would not have been possible.
-
-He highlighted that people cannot maintain their day to day lives without essentials such as gas, medicine, food, and fuel.
-
-...
-
-[Data](articles/8106dd19.json)
-
-[Extended Data](ext_articles/8106dd19.ext.json)
 
 ---

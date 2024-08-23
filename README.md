@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 19:21:17**
+As of **2024-08-23 19:37:02**
 
 ## Newspaper Stats
 
-*Scraped **42,291** Articles*
+*Scraped **42,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 404
 islandlk | 2,451
 economynextcom | 2,566
 dailyftlk | 2,742
-adalk | 3,898
+adalk | 3,899
 dailymirrorlk | 4,733
 adaderanalk | 4,959
 tamilmirrorlk | 5,488
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,219
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,288 (100.0%) of 42,291 articles have been extended.
+42,291 (100.0%) of 42,292 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,31 @@ The Secretary to the Ministry of Transport and Highways further explained:
 
 [Data](articles/b05f4286.json)
 
+[Extended Data](ext_articles/b05f4286.ext.json)
+
 ---
 
-### ලක්ෂ 22ක දුම්වැටි තොගයක් කටුනායකදී අල්ලයි
+### 2 lakh cigarettes arrested in Katunayake
 
 *2024-08-23 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200252) · `si`
 
-නීතිවිරෝධීව රුපියල් ලක්ෂ 22ක් වටිනා විදේශීය දුම්වැටි තොගයක් මෙරටට රැගෙන ආ පුද්ගලයෙකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපළේදී අත්අඩංගුවට ගෙන තිබේ.
+Customs officials at Katunayake International Airport arrested a 44-year-old businessman from Abu Dhabi, attempting to smuggle 21,600 foreign cigarettes worth Rs. The suspect, from Pannipitiya, was caught trying to leave the airport with the contraband cigarettes concealed to avoid detection.
 
-සැකකරු දුම්වැටි තොගය හරිත මාවත ඔස්සේ කටුනායක ගුවන් තොටුපොළෙන් පිට කරගෙන යාමට උත්සහ කිරීමේ දී රේගු නිළධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-අබුඩාබි නුවර සිට සැකකරු ගුවන්තොටුපළ වෙත පැමිණ ඇති අතර ඔහු පන්නිපිටිය ප්‍රදේශයේ පදිංචි 44 හැවිරිදි ව්‍යාපාරිකයෙකි.
+Arrested at the Katunayake International Airport where a large number of foreign cigarettes were illegally worth Rs.
 
-සැකකරු සතුව තිබී විදෙස් දුම්වැටි 21,600 ක් රේගුභාරයට ගෙන ඇති අතර එම දුම්වැටි තොගය රාජසන්තක කිරීමට පියවර ගෙන තිබේ.
+Customs officials have arrested the suspect trying to leave the Katunayake airport along the Katunayake airport.
+
+From Abu Dhabi has arrived at the suspect to the airport from the Pannipitiya area, a 44-year-old businessman.
+
+A total of 21,600 foreign cigarettes have been taken into custogrity and the stock of cigarettes had taken steps to confuse the cigarettes.
 
 ◼️
 
 [Data](articles/9fb92b63.json)
+
+[Extended Data](ext_articles/9fb92b63.ext.json)
 
 ---
 
@@ -165,6 +173,18 @@ A few months ago, the state service was ineffective and the number of state offi
 [Data](articles/5a0fb313.json)
 
 [Extended Data](ext_articles/5a0fb313.ext.json)
+
+---
+
+### පාර්ලිමේන්තු අසුනක් හිස්ව ඇති බව මැකොට දන්වයි
+
+*2024-08-23 17:34:18* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-අසුනක්-හිස්ව-ඇති-බව-මැකොට-දන්වයි/11-411524) · `si`
+
+රත්නපුර මැතිවරණ කොට්ඨාශයේ පාර්ලිමේන්තු මන්ත්‍රී තලතා අතුකෝරල මහත්මිය 2024 අගෝස්තු  මස 21 වැනි දින සිට බල පැවැත්වෙන පරිදි පාර්ලිමේන්තු අසුනෙන් ඉල්ලා අස්වීම හේතුවෙන් නව වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක පුරප්පාඩුවක් ඇති වී තිබෙන බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණදීර මහත්මිය  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා තිබේ.  1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම් දීම සිදුකර ඇත
+
+◼️
+
+[Data](articles/5c22e3c3.json)
 
 ---
 
@@ -356,19 +376,25 @@ From Northern, North Central and Northwestern provinces, in the North Central an
 
 ---
 
-### හෙට වැස්ස අඩුවෙයි
+### Tomorrow is falling tomorrow
 
 *2024-08-23 16:52:57* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැස්ස-අඩුවෙයි/11-411523) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රක්ක වලත් සිහින් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යාදෙපාර්ථමේන්තුව පවසයි.
+Meteorological warnings have been issued for heavy showers and thunderstorms across several regions including Kandy, Nuwara Eliya, Western, Sabaragamuwa, Southern, Northwestern, and parts of Ampara and Batticaloa districts. Strong winds are also expected in the Northern, North Central, and Northwestern provinces.
 
-ඒසේම ඌව පළාතේ අම්පාර සහ මඩකලපුව දිස්ත්‍රක්ක වලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
+🟩
 
-උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, ම්බන්තොට දිස්ත්‍රික්කයෙත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක වැඩිදුරටත් දන්වා සිටියි.( I J )
+The Meteorological Carduwarantuwa says that the Kandy and Nuwara Eliya districts will occur in the Western, Sabaragamuwa, Southern and Northwestern provinces.
+
+Showers or thundershowers will occur at several places in Ampara and Batticaloa District, Ampara and Batticaloa District, or even night.
+
+From Northern, North Central and Northwestern provinces, in the North Central and Northwestern provinces.. (30-40), there is a stake in strong winds. (I J)
 
 ◼️
 
 [Data](articles/e02046e6.json)
+
+[Extended Data](ext_articles/e02046e6.ext.json)
 
 ---
 
@@ -2311,21 +2337,5 @@ This discussion on the impact of motherhood on women’s careers took place at t
 [Data](articles/3effd95b.json)
 
 [Extended Data](ext_articles/3effd95b.ext.json)
-
----
-
-### Malaysia and Sri Lanka forge strategic partnership to empower women entrepreneurs
-
-*2024-08-23 04:29:17* · [`dailyftlk`](https://www.ft.lk/business/Malaysia-and-Sri-Lanka-forge-strategic-partnership-to-empower-women-entrepreneurs/34-765881) · `en`
-
-The recently concluded “Women Entrepreneurship & Networking” event in Colombo, marked a pivotal moment in advancing support for women entrepreneurs in both Malaysia and Sri Lanka. Organised by Apex Endeavour Sdn. Bhd. in partnership with the Sri Lanka Malaysia Business Council (SLMBC), the event underscored the growing commitment to gender equality and economic empowerment in the region.
-
-In Sri Lanka, where women make up approximately 52% of the population, significant challenges remain in achieving gender parity within the entrepreneurial sector. Currently, women represent only 27% of the workforce, with even fewer in leadership roles. Events like this are vital in addressing these disparities by offering women a platform to connect, collaborate, and succeed in the business arena.
-
-...
-
-[Data](articles/fafca2c0.json)
-
-[Extended Data](ext_articles/fafca2c0.ext.json)
 
 ---

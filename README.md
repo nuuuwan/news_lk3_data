@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 10:21:33**
+As of **2024-08-23 10:36:50**
 
 ## Newspaper Stats
 
-*Scraped **42,209** Articles*
+*Scraped **42,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,74 @@ adalk | 3,888
 dailymirrorlk | 4,733
 adaderanalk | 4,945
 tamilmirrorlk | 5,475
-virakesarilk | 6,710
+virakesarilk | 6,712
 adaderanasinhalalk | 7,202
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,208 (100.0%) of 42,209 articles have been extended.
+42,209 (100.0%) of 42,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### මේ තීන්දුව ලැබීම පුදුමයට කරුණක් නෙමෙයි - මහින්ද දේශප්‍රිය
+### Not surprisingly, this decision is not surprising - Mahinda Deshapriya
 
 *2024-08-23 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200231) · `si`
 
-මැතිවරණයක් කල්දැමීම වැරදි ක්‍රියාවක් බවට අධිකරණය පිළිගැනීම ජනතාව ලද ජයග්‍රහණයක් බව පළාත් පාලන ආයතන සඳහා වූ කොට්ඨාස සීමා නිර්ණය කිරීමේ ජාතික කමිටුවේ සභාපති මහින්ද දේශප්‍රිය මහතා පවසයි.
+Mahinda Deshapriya, Chairman of the National Committee of the National Institute, supports local government bodies' victories against judicial misconceptions. He anticipates post-presidential election actions, emphasizing the Supreme Court's delayed but just decisions affecting public rights.
 
-ඒ අනුව ජනාධිපතිවරණයෙන් පසුව පළාත් සභා මැතිවරණය පවත්වනු ඇතැයි තමා විශ්වාස කරන බවත් මහින්ද දේශප්‍රිය මහතා පැවසීය.
+🟩
 
-"ඕනම ඡන්ද විමසීමක් නොපැවැත්වීමෙන් හෝ කල්දැමීමෙන් ජනතාවගේ අයිතිවාසිකම් කඩ වන බව මීට පෙර කිහිප සැරයක්ම ශ්‍රේෂ්ඨාධිකරණය තීන්දු කරලා තියෙද්දී මේ තීන්දුව ලැබීම පුදුමයට කරුණක් නෙමෙයි. ඒක මම දකින්නේ යුක්තිය ලැබිලා තිබෙනවා... නමුත් ප්‍රමාද වෙලා. ඒ අනුව ජනාධිපතිවරණය අවසන් වූ වහාම මේ වසරේදීම මෙම ඡන්ද විමසීම පැවැත්වීමට කොමිෂන් සභාව ක්‍රියා කරයි කියලා අපි විශ්වාස කරනවා."
+The Chairman of the National Committee of National Institute is a victory for local government bodies that the judiciary is a misconception that the judiciary is a misconception.
+
+He said he believes he will be held after the presidential election, Mr. Mahinda Deshapriya said.
+
+"It is not surprising that the Supreme Court has decided that the Supreme Court has decided that the rights of the people will be violated or delayed due to the death of the people.. I see justice,. But late. Accordingly, as soon as the presidential election is finished, the Commission will take place this year. "
 
 ◼️
 
 [Data](articles/88900239.json)
+
+[Extended Data](ext_articles/88900239.ext.json)
+
+---
+
+### அரசாங்கம் மக்களுக்கு மானியங்கள் வழங்குவதை ஏற்றுக்கொள்ள முடியாது - பெப்ரல்
+
+*2024-08-23 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191754) · `ta`
+
+ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டுள்ள நிலையில் அரசாங்கம் மக்களுக்கு மானியங்கள் வழங்குவதை ஏற்றுக்கொள்ள முடியாது என பெப்ரல்  அமைப்பு தெரிவித்துள்ளது.
+
+இந்த விடயம்  தொடர்பில் தேர்தல்கள் ஆணைக்குழுவிற்கு அறிவிக்கப்பட்டுள்ளதாக பெப்ரல் அமைப்பின்  நிறைவேற்றுப் பணிப்பாளரான ரோஹண ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+
+அத்தோடு, வாக்குகளை பெற்றுக்கொள்ளும் நோக்கில் இவ்வாறான  சலுகைகள் மக்களுக்கு வழங்கப்படவில்லை என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்துள்ளார்.
+
+மேலும், மக்களின் பொருளாதார பிரச்சினைகளை தீர்க்க மானியங்கள் வழங்குவது அவசியமானால் ஜனாதிபதி தேர்தலின் பின்னர் அவற்றை வழங்க முடியும் என பெப்ரல் அமைப்பின்  நிறைவேற்றுப் பணிப்பாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/087c6aa7.json)
+
+---
+
+### பேலியகொட, களனி, கடவத்தை பகுதிகளில் கூரிய ஆயுதங்களைக் காட்டி அச்சுறுத்தி கொள்ளையடித்தவர் கைது !
+
+*2024-08-23 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191753) · `ta`
+
+கூரிய ஆயுதங்களை காட்டி அச்சுறுத்தி வாடகைக்கு செல்வதாக கூறி முச்சக்கர வண்டிகள், ஆபரணங்கள் உள்ளிட்ட சொத்துக்களை திருடிய சந்தேகநபர் ஒருவரை பொலிஸார் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் இராஜகிரிய ஒபேசேகரபுர  பகுதியைச் சேர்ந்த 27 வயதுடையவராவார்.
+
+குறித்த சந்தேக நபர் பேலியகொட, களனி, கடவத்தை, பொரள்ளை மற்றும் மிரிஹான ஆகிய பகுதிகளில் முச்சக்கர வண்டிகள் , கையடக்கத் தொலைபேசிகள், தங்க ஆபரணங்கள் போன்றவற்றை கொள்ளையடித்துள்ளதாக விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+மேலும், இந்த சம்பவம் தொடர்பான விசாரணைகளை மேல் மாகாண தெற்கு குற்றப்புலனாய்வு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/2f5132b2.json)
 
 ---
 
@@ -2269,59 +2311,5 @@ The arrest came hot on the heels of pressure from civil society activists and he
 [Data](articles/58fb989f.json)
 
 [Extended Data](ext_articles/58fb989f.ext.json)
-
----
-
-### MJP leader Dilith Jayaweera opposes govt’s move to sell SLT shares
-
-*2024-08-22 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101425/mjp-leader-dilith-jayaweera-opposes-govts-move-to-sell-slt-shares) · `en`
-
-The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera has voiced his strong disapproval to the government’s plan to sell shares of Sri Lanka Telecom (SLT), calling it a ‘significant mistake’.
-
-The Mawbima Janatha Party (MJP) leader made these remarks during a discussion held with representatives of the Sri Lanka Telecom trade unions on Wednesday (21).
-
-A group of representatives of the Sri Lanka Telecom Engineers’ Association met with Mr. Jayaweera to express their concerns about the proposed sale of SLT, urging him intervene against the government’s attempt to privatize the state-owned enterprise. The union representatives also handed over a letter outlining their objections regarding the matter.
-
-Speaking during the discussion, entrepreneur Dilith Jayaweera questioned the logic behind selling profitable state-owned enterprises, emphasizing the potential for the government to manage and regulate sectors like telecommunication for financial benefit.
-
-...
-
-[Data](articles/b4e12105.json)
-
-[Extended Data](ext_articles/b4e12105.ext.json)
-
----
-
-### Milan who did not in 41 years
-
-*2024-08-22 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200208) · `si`
-
-In the first Test match against England, Milan Ratnayake made history for Sri Lanka, scoring 135 runs off 135 balls with two sixes and six fours. He shared a crucial partnership of 63 runs with Dhananjaya Silva, contributing significantly to Sri Lanka's total of 176/4. This performance marked Milan as the 166th player to score a century in Test cricket, following in the footsteps of Indian legend Sunil Gavaskar, who achieved this feat in 1983.
-
-🟩
-
-Sri Lanka Milan Ratnayake was able to renew a unique world report in the first Test match against England yesterday (Test series)
-
-Milan, who has allocated a bowler to his Mangala Test, and joined the bat prince.
-
-Milan who built innings without any upset faced 135 balls. His innings included two sixes and six four fours.
-
-Milan, captain Dhananjaya Silva, 63 runs with the 8th wicket with the 8th wicket with the 8rd.
-
-The Sri Lanka Score 4 wickets in 176 runs in 176 runs with universal Fernando to up to 226.
-
-He had a 50-day wicket with the 9th wicket with the universities, and 42 runs.
-
-The innings of Milan, who had won the 166th player to win the Test, was the 166th player to win the Test.
-
-Earlier, Indian players Bulwader was held in 1983 and scored 71 runs in their Mangala Test.
-
-The right and ethnic bowler had not scored 72 runs in the first and 72 runs before he was innings in the top two half centuries.
-
-◼️
-
-[Data](articles/8e07ead6.json)
-
-[Extended Data](ext_articles/8e07ead6.ext.json)
 
 ---

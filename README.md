@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 16:08:51**
+As of **2024-08-23 16:21:29**
 
 ## Newspaper Stats
 
-*Scraped **42,256** Articles*
+*Scraped **42,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,560
 dailyftlk | 2,742
 adalk | 3,893
 dailymirrorlk | 4,733
-adaderanalk | 4,952
+adaderanalk | 4,954
 tamilmirrorlk | 5,487
 virakesarilk | 6,716
 adaderanasinhalalk | 7,210
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,254 (100.0%) of 42,256 articles have been extended.
+42,256 (100.0%) of 42,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### United Petroleum launches operations in Sri Lanka
+
+*2024-08-23 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101449/united-petroleum-launches-operations-in-sri-lanka) · `en`
+
+Australia’s United Petroleum, the latest foreign firm to enter the fuel retail market, was officially launched in Sri Lanka on Thursday (22).
+
+Minister of Power and Energy Kanchana Wijesekara said that accordingly, they will commence retail fuel operations in September 2024 with 150 dealer-owned and operated fuel stations.
+
+Accordingly, United Petroleum of Australia has become the fourth retail operator to enter the Sri Lankan fuel market after Lanka IOC, Sinopec and RM Parks-Shell.
+
+On 22 February, United Petroleum of Australia signed an agreement with Sri Lanka’s Ministry of Power and Energy to supply petroleum products into the local market.
+
+The agreement was signed by Secretary to the Ministry of Power and Energy Dr. Sulakshana Jayawardena on behalf of the Government of Sri Lanka, and Eddie Hirsch, on behalf of United Petroleum Australia, in his capacity as the owner of the company
+
+...
+
+[Data](articles/93e489b0.json)
+
+---
 
 ### Online Safety Act: SC concludes hearing petitions against amendment bill
 
@@ -47,6 +67,8 @@ During the hearing of the petitions, the lawyers of the petitioning party stated
 ...
 
 [Data](articles/57ba4f2a.json)
+
+[Extended Data](ext_articles/57ba4f2a.ext.json)
 
 ---
 
@@ -74,21 +96,27 @@ In any crisis, the loss of the life loss of innocent people has become the bigge
 
 ---
 
-### බස් - ත්‍රිවිල් අනතුරින් සිව්දෙනෙක් රෝහලට
+### Four arrested in three hospital
 
 *2024-08-23 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200241) · `si`
 
-මාතර - කතරගම මාර්ගයේ තංගල්ල උණාකුරුව ප්‍රදේශයේ දී බස් රථයක් සහ ත්‍රිරෝද රථයක් එකිනෙක ගැටී අනතුරක් සිදුව තිබේ.
+In Tangalle, a bus crash involving a three-wheeler occurred on the Matara-Kataragama road, injuring preschoolers and parents from Ampara's Vadinagala area. The victims were rushed to hospitals, with one mother moved to Matara Hospital for more care. Four arrests have been made.
 
-අනතුරට ලක්වූ බස් රථය අම්පාර, වඩිනාගල ප්‍රදේශයේ සිට පෙර පාසල් ළමුන් හා දෙමාපියන් රැගෙන දකුණු පළාතේ විනෝද චාරිකාවක් සඳහා පැමිණෙමින් සිටිය දී මෙම සිදුවීමට මුහුණ දී තිබේ.
+🟩
 
-බස්රථය ත්‍රිරෝද රථයේ ගැටීමෙන් ත්‍රිරෝද රථයේ ගමන්ගත් මව, පියා, පුතා සහ එහි රියදුරු තුවාල ලබා රෝහල්ගත කර ඇත.
+A bus and three-wheeler collided in the Tangalle Urumaya road on the Matara-Kataragama road.
 
-බරපතළ තත්ත්වයෙන් සිටි මව වැඩිදුර ප්‍රතිකාර සඳහා මාතර රෝහල වෙත මාරුකර යවා තිබේ.
+The bus was facing pre-school children and parents from the Vadinagala area, Ampara.
+
+The bus was admitted to the three-wheeler and was admitted to the three-wheeler.
+
+The mother has been transferred to the Matara Hospital for further treatment.
 
 ◼️
 
 [Data](articles/448e27ce.json)
+
+[Extended Data](ext_articles/448e27ce.ext.json)
 
 ---
 
@@ -228,7 +256,9 @@ Now a more worrying strain of Mpox called Clade 1b has been identified in the ea
 
 *2024-08-23 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101446/sri-lanka-to-host-new-zealand-for-test-series-during-presidential-poll) · `en`
 
-The New Zealand Men’s National Team will tour Sri Lanka during September 2024 to play a two-match Test series against the Sri Lanka Men’s National Team, Sri Lanka Cricket (SLC) announced today.
+Sri Lanka will host New Zealand for a two-match Test series during next month’s presidential election, Sri Lanka Cricket (SLC) announced today.
+
+The first Test will begin on September 18 at Galle, but there will be a rest day on September 21 when the voting is set to take place, the board said.
 
 The Test matches are a part of the ICC World Test Championship Cycle of 2023 – 2025, according to the SLC.
 
@@ -239,8 +269,6 @@ The first match of the two-match series will take place from September 18 to 23,
 Meanwhile, September 21 has been named as a rest day for the 1st Test match owing to the Presidential Election in Sri Lanka, the SLC pointed out.
 
 New Zealand’s last tour of Sri Lanka was in August 2019, when they drew a two-match Test series with the hosts.
-
-Next month’s presidential election is the country’s first poll since it declared a sovereign default in 2022 during an unprecedented economic crisis.
 
 ...
 
@@ -816,15 +844,17 @@ He also noted, “This decision is not surprising, as the Supreme Court has cons
 
 *2024-08-23 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101441/two-slfp-mps-decide-to-support-president-ranil-in-presidential-poll) · `en`
 
-Sri Lanka Freedom Party (SLFP) MPs Sarathi Dushmantha and Angajan Ramanathan have expressed their support for incumbent President Ranil Wickremesinghe in the upcoming Presidential Election.
+Sri Lanka Freedom Party (SLFP) MPs Sarathi Dushmantha Mithrapala and Angajan Ramanathan have expressed their support for incumbent President Ranil Wickremesinghe in the upcoming Presidential Election.
 
-MPs Dushmantha and Ramanathan represented the SLFP’s faction led by former President Maithripala Sirisena.
+MPs Dushmantha and Ramanathan were previously part of the SLFP’s faction led by former President Maithripala Sirisena.
 
-Kegalle District MP Duahmantha Mithrapala and Jaffna District MP Angajan Ramanathan met President Wickremesinghe at his political office on Flower Road, Colombo this morning and have pledged their support for his victory in the upcoming presidential election.
+Kegalle District MP Dushmantha Mithrapala and Jaffna District MP Angajan Ramanathan met President Wickremesinghe at his political office on Flower Road, Colombo this morning (23) and have pledged their support for his victory in the upcoming presidential election.
 
-Ramanathan is the SLFP’s former Senior Vice Chairman while Mithrapala is the former Acting General Secretary of the SLFP (Maithripala faction).
+Ramanathan is the SLFP’s Senior Vice Chairman while Mithrapala is the former Acting General Secretary of the SLFP (Maithripala faction).
 
-◼️
+Later, addressing a special press briefing, they emphasized that the country needs a leader capable of delivering practical solutions to the ongoing economic crisis.
+
+...
 
 [Data](articles/0955303e.json)
 
@@ -1383,6 +1413,8 @@ Accordingly, the new water tariffs are to be implemented effective from August 2
 On August 13, the Cabinet of Ministers granted approval for the National Water Supply and Drainage Board (NWSDB) to reduce the water tariffs based on the tariff formula.
 
 Accordingly, the water tariff of domestic users has been reduced by 7%, government hospitals by 4.5%, schools and religious places of worship by 6.3%.
+
+Gazette on Revised Water Tariffs (English) by Adaderana Online on Scribd
 
 ◼️
 
@@ -2219,27 +2251,5 @@ Pointing out that people cannot continue their daily lives without food, medicin
 [Data](articles/6e9984fc.json)
 
 [Extended Data](ext_articles/6e9984fc.ext.json)
-
----
-
-### Increase in inflation
-
-*2024-08-23 00:50:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணவீக்கம்-அதிகரிப்பு/175-342663) · `ta`
-
-Inflation rose slightly from 2.4% to 2.5% in July, according to the latest report by the Department of Value and Statistics.
-
-🟩
-
-The National Consumer Price Index -based primary inflation recorded an increase in July.
-
-This was stated in a renewed report issued by the Department of Value and Statistics.
-
-Accordingly, the National Consumer Price Index -based primary inflation, which was 2.4 per cent in June, recorded an increase of 2.5 per cent in July.. (A)
-
-◼️
-
-[Data](articles/5474183a.json)
-
-[Extended Data](ext_articles/5474183a.ext.json)
 
 ---

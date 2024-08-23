@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 22:55:19**
+As of **2024-08-23 23:07:26**
 
 ## Newspaper Stats
 
-*Scraped **42,303** Articles*
+*Scraped **42,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,566
 dailyftlk | 2,742
 adalk | 3,899
 dailymirrorlk | 4,733
-adaderanalk | 4,961
-tamilmirrorlk | 5,489
+adaderanalk | 4,962
+tamilmirrorlk | 5,490
 virakesarilk | 6,723
 adaderanasinhalalk | 7,227
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,303 (100.0%) of 42,303 articles have been extended.
+42,303 (100.0%) of 42,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### கிளப் வசந்த கொலை - மேலும் ஒருவர் கைது
+
+*2024-08-23 22:47:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-மேலும்-ஒருவர்-கைது/175-342695) · `ta`
+
+கிளப் வசந்த கொலை செய்யப்பட்ட சம்பவத்தில் துப்பாக்கிச் சூடு நடத்தியவர்களில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+தெஹிவளை பொலிஸ் பிரிவிற்குட்பட்ட கௌடான பிரதேசத்தில் வைத்து 31 வயதான பட்டி ஆரம்பகே அஜித் ரோஹன என்பவர் இன்று (23) கைது செய்யப்பட்டுள்ளார்.
+
+அத்துடன், அத்துருகிரிய பிரதேசத்தில் வீடு ஒன்றை வாடகைக்கு எடுத்து, துப்பாக்கிச் சூடு நடத்தியவர்களைப் பேருந்தில் கதிர்காமத்திற்கு அழைத்துச் சென்ற 29 வயதான நடிகர் வருண இந்திக்க சில்வாவும் கைது செய்யப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகின்றது.
+
+இதனுடன், T-56 ரகத் துப்பாக்கி,120 தோட்டாக்கள் மற்றும் 9mm பிஸ்டல் தோட்டாக்கள் என்பன கண்டுபிடிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/cd8ea46d.json)
+
+---
+
+### Inland Revenue Department warns public of ‘fake tax collectors’
+
+*2024-08-23 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101458/inland-revenue-department-warns-public-of-fake-tax-collectors) · `en`
+
+The Inland Revenue Department (IRD) has issued a warning to the public regarding a surge in fraudulent activities involving individuals impersonating tax officials.
+
+These scams have been reported in various regions, including Colombo, Panadura, Negombo, Wennappuwa, and Minuwangoda, it said in a statement.
+
+The department emphasized that legitimate Inland Revenue Officers will only visit to advise taxpayers to make payments directly into designated bank accounts at the Bank of Ceylon or People’s Bank under the name of the Commissioner General of Inland Revenue and that they will never collect cash or cheques in person.
+
+“If you encounter anyone claiming to be a tax official and requesting cash or checks, please do not comply and instead, report the incident to the nearest police station immediately,” the IRD said, adding that the public’s cooperation is crucial in apprehending such fraudsters.
+
+◼️
+
+[Data](articles/df4b3d4d.json)
+
+---
 
 ### The monthly income of the presidential candidates has been released
 
@@ -2325,47 +2361,5 @@ Western Province South Crimes Division is conducting further investigations.
 [Data](articles/39477d75.json)
 
 [Extended Data](ext_articles/39477d75.ext.json)
-
----
-
-### Attachment of England batsmen
-
-*2024-08-23 07:51:50* · [`adalk`](https://www.ada.lk/sports/එංගලන්ත-පිතිකරුවන්ගෙන්-ප්‍රහාරාත්මක-ඉනිම්/9-411512) · `si`
-
-On the second day of the first Test match against Sri Lanka, England made 259 runs losing 6 wickets. Sri Lanka leads by 23 runs. England's top six batsmen scored at a rate exceeding 70%, with an average scoring rate of over 4.24 per over. Players Smith and Oitkinson contributed significantly, alongside Asapitha Fernando who took 3 wickets.
-
-🟩
-
-England, the second day of the first Test match between England and Sri Lanka, England scored 259 runs for six wickets.
-
-Accordingly, hundreds of more wickets and Sri Lanka are ahead of 23 runs. In reply, the six first batsmen of England played their offensive speed over 70 percent, and the speed of score of their overs was highly higher than 4.24.
-
-There are 72 players' player smiths and 4 Oitkinson litttes. Asapitha Fernando took 3 wickets.
-
-◼️
-
-[Data](articles/e4576048.json)
-
-[Extended Data](ext_articles/e4576048.ext.json)
-
----
-
-### Several spells of light showers expected in parts of the island
-
-*2024-08-23 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101436/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of light showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers will occur at a few places in Eastern and Uva Provinces and in Polonnaruwa district during the evening or night, it said.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Hambantota district.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ebc3d296.json)
-
-[Extended Data](ext_articles/ebc3d296.ext.json)
 
 ---

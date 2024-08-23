@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 17:37:06**
+As of **2024-08-23 17:57:45**
 
 ## Newspaper Stats
 
-*Scraped **42,274** Articles*
+*Scraped **42,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,100 @@ colombotelegraphcom | 404
 islandlk | 2,451
 economynextcom | 2,560
 dailyftlk | 2,742
-adalk | 3,896
+adalk | 3,897
 dailymirrorlk | 4,733
-adaderanalk | 4,957
+adaderanalk | 4,958
 tamilmirrorlk | 5,488
 virakesarilk | 6,721
-adaderanasinhalalk | 7,214
+adaderanasinhalalk | 7,216
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,270 (100.0%) of 42,274 articles have been extended.
+42,274 (100.0%) of 42,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### හෂීෂ් කිලෝ 30ක් රේගු භාරයට
+### මුල් ඉනිමේ වැඩි වාසි එංගලන්තයට
+
+*2024-08-23 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200248) · `si`
+
+ශ්‍රී ලංකාව සහ එංගලන්තය අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ පළමු ඉනිම ක්‍රීඩා කළ එංගලන්ත ක්‍රිකට් පිල සියලුදෙනා දැවී ලකුණු 358ක් ලබා ගත්තේය.
+
+එහිදී විශිෂ්ට ඉනිමක් ක්‍රීඩා කළ එංලන්ත පිලේ කඩුලු රකින ක්‍රීඩක ජැමී ස්මිත් ශතකයක් වාර්තා කළ අතර ලකුණු 111කට ඔහුව දවාගැනීමට දඟපන්දු යවන ක්‍රීඩක ප්‍රභාත් ජයසූරිය සමත්විය.
+
+මීට අමතරව හැරී බෘෘක් ලකුණු 56ක් සහ ජෝ රූට් ලකුණු 42ක් ලබාගත්හ.
+
+පන්දු යැවීමේ දී අසිත ප්‍රනාන්දු කඩුලු 4ක්, ප්‍රභාත් ජයසූරිය කඩුලු 3ක්, විශ්ව ප්‍රනාන්දු කඩුලු 2ක් හා මිලාන් රත්නායක කඩුලු 1 බැගින් දවාගත්හ.
+
+කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහර දුන් ශ්‍රී ලංකා පිල පළමු ඉනිමේ දී සියලුදෙනා දැවී ලබා ගැනීමට සමත්වූයේ ලකුණු 236ක් පමණි.
+
+ඒ අනුව ශ්‍රී ලංකා පිලට සිය දෙවන ඉනිම ඇරඹීමට සිදුව ඇත්තේ එංගලන්ත පිලට වඩා ලකුණු 122ක් පසුපසින් සිටිමිනි.
+
+ශ්‍රී ලංකා පිල වෙනුවෙන් පළමු ඉනිම සඳහා නායක ධනංජය ද සිල්වා ලකුණු 74ක් සහ සිය මංගල ටෙස්ට් තරගයට එක් වූ තුන්ඉරියව් ක්‍රීඩක මිලාන් රත්නායක ලකුණු 72ක් ලබා ගැනීමට සමත්විය.
+
+◼️
+
+[Data](articles/8b9e5c61.json)
+
+---
+
+### දකුණු අප්‍රිකාව ට යන ශ්‍රී ලංකා ඒ කණ්ඩායම්
+
+*2024-08-23 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200247) · `si`
+
+ශ්‍රී ලංකා 'ඒ' ක්‍රිකට් කණ්ඩායම ඉදිරියේදී සිදුකිරීමට නියමිත දකුණු අප්‍රිකානු තරග සංචාරය සඳහා තෝරාගත් සංචිත අද (23) පස්වරුවේ ප්‍රකාශයට පත් කෙරිණි.
+
+මෙම සංචාරයට එක්දින තරග 3ක් සහ සිව්දින තරග 2ක් ඇතුළත් වනු ඇති අතර, එම කණ්ඩායම් දෙකෙහිම කණ්ඩායම් නායකයා ලෙස පසිඳු සූරියබණ්ඩාර නම් කර ඇත.
+
+ශ්‍රී ලංකා සංචිතය එළඹෙන 27වැනිදා දකුණු අප්‍රිකාව බලා පිටත්වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/aace49cc.json)
+
+---
+
+### 30 kg of Hashish worth Rs. 212 mln sent from Italy seized
+
+*2024-08-23 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101454/30-kg-of-hashish-worth-rs-212-mln-sent-from-italy-seized) · `en`
+
+Customs officials have seized 30 kg of Hashish, estimated to be worth around Rs. 212 million, concealed in a gift parcel sent from Italy to Sri Lanka, through a clearing company in Colombo.
+
+One person has been arrested and handed over to the Police Narcotics Bureau (PNB), along with the haul of narcotics, for further investigations, Sri Lanka Customs spokesman said.
+
+Additional Director General of Customs Seevali Arukgoda stated that the seized consignment of Hashish had been sent to an address in the Mathugama area and that the street value of the drugs is estimated to be around Rs. 212 million.
+
+◼️
+
+[Data](articles/7366febb.json)
+
+---
+
+### Customs subordinate 30 kg of Hasheash
 
 *2024-08-23 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200246) · `si`
 
-ඉතාලියේ සිට කොළඹ පිහිටි භාණ්ඩ නිශ්කාශන ආයතනයක් හරහා එවන ලද තෑගි පාර්සලයක තිබී හෂීෂ් වර්ගයේ මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 30ක් රේගු භාරයට ගෙන තිබේ.
+Customs intercepted 30kg of hashish worth Rs. 212 million shipped from Italy via a parcel service. The seizure was part of a raid conducted by the Customs Revenue Monitoring unit, with the drugs and a suspect now under investigation by the Police Narcotics Division. The parcel was addressed to the Matugama area.
 
-රේගු මාධ්‍ය ප්‍රකාශක, අතිරේක අධ්‍යක්ෂ ජනරාල්, සීවලී අරුක්ගොඩ මහතා සඳහන් කළේ එම මත්ද්‍රව්‍ය තොගයේ විටිනාකම රුපියල් මිලියන 212ක් වන බවය.
+🟩
 
-රේගු ආදායම් අධීක්ෂණ ඒකකය විසින් අදාළ වැටලීම සිදුකර ඇති අතර, අත්අඩංගුවට ගන්නා ලද මත්ද්‍රව්‍ය තොගය හා එක් සැකකරුවෙකු වැඩිදුර විමර්ශනය සඳහා පොලිස් මත්ද්‍රව්‍ය නාශක අංශය වෙත භාර දී තිබේ.
+Customs seized 30 kilograms of Hashish, which was sent through a parcel sent through a product clearance agency from Italy.
 
-එම පාර්සලය එවා ඇත්තේ මතුගම ප්‍රදේශයේ ලිපිනයකට බව ද රේගු මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+Customs Media Spokesperson, Additional Director General, General Director General, Savi Arukgoda said that the drug was Rs. 212 million.
+
+The raid was carried out by the Customs Revenue Monitoring and the drug and one suspect has been handed over to the Police Narcotics Division for further investigation.
+
+The Customs Media Spokesperson stated that the parcel has been sent to the address of the Matugama area.
 
 ◼️
 
 [Data](articles/39346604.json)
+
+[Extended Data](ext_articles/39346604.ext.json)
 
 ---
 
@@ -78,19 +140,25 @@ The filmmakers have said that the success of 'Rayan' is not the only reason for 
 
 ---
 
-### හෙට බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් තවත් දිස්ත්‍රක්ක කිහිපයකත් වැස්ස අඩුවෙයි
+### Several district also falls in Western, Sabaragamuwa, Southern and North Western provinces
 
 *2024-08-23 16:52:57* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-බස්නාහිර--සබරගමුව--දකුණු-සහ-වයඹ-පළාත්වලත්-තවත්-දිස්ත්‍රක්ක-කිහිපයකත්-වැස්ස-අඩුවෙයි/11-411523) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රක්ක වලත් සිහින් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යාදෙපාර්ථමේන්තුව පවසයි.
+The Meteorological Department warns of showers or thundershowers across various regions including Kandy, Nuwara Eliya, and parts of Ampara and Batticaloa. Strong winds are expected in the Northern, North Central, and Northwestern provinces.
 
-ඒසේම ඌව පළාතේ අම්පාර සහ මඩකලපුව දිස්ත්‍රක්ක වලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
+🟩
 
-උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, ම්බන්තොට දිස්ත්‍රික්කයෙත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක වැඩිදුරටත් දන්වා සිටියි.( I J )
+The Meteorological Carduwarantuwa says that the Kandy and Nuwara Eliya districts will occur in the Western, Sabaragamuwa, Southern and Northwestern provinces.
+
+Showers or thundershowers will occur at several places in Ampara and Batticaloa District, Ampara and Batticaloa District, or even night.
+
+From Northern, North Central and Northwestern provinces, in the North Central and Northwestern provinces.. (30-40), there is a stake in strong winds. (I J)
 
 ◼️
 
 [Data](articles/473391d1.json)
+
+[Extended Data](ext_articles/473391d1.ext.json)
 
 ---
 
@@ -120,23 +188,33 @@ India, he said, supports “dialogue and diplomacy for restoration of peace and 
 
 ---
 
-### சுமந்திரன், சாணக்கியன், சிவஞானம் போன்ற சிலரே பொது வேட்பாளரை எதிர்க்கின்றனர் - சுரேஸ் பிரேமச்சந்திரன்
+### Sumanthiran, Chanakyan and Sivagnanam are opposed to the common candidate - Suresh Premachandran
 
 *2024-08-23 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191796) · `ta`
 
-சுமந்திரன், சாணக்கியன், சிவஞானம் போன்ற சிலரே பொது வேட்பாளரை எதிர்க்கின்றனர் என முன்னாள் நாடாளுமன்ற உறுப்பினர் சுரேஸ் பிரேமச்சந்திரன் தெரிவித்தார்.
+Sumanthiran, Chanakyan, and Sivagnanam oppose the common candidate, Suresh Premachandran, despite his campaign launch in Kilinochchi. The majority of the TNA supports the common candidate, except for these individuals who voice concerns over the Sri Lankan government's development policies. They argue that supporting the candidate could undermine Tamil nationalism. Meanwhile, Tamil National Parties and Civil Organizations back the candidate, emphasizing the need for a solution to the Tamil people's issues.
 
-கிளிநொச்சியில் பொது வேட்பாளருக்கு ஆதரவாக பிரச்சாரத்தை ஆரம்பித்து வைத்து ஊடகங்களுக்கு கருத்துத் தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-சுமந்திரன், சாணக்கியன், சிவஞானம் போன்ற ஒரு சிலரைத் தவிர கட்சியின் ஏனைய மேல் மட்டங்களும் சரி, ஏனைய கட்சியின் கீழ் மட்ட தொண்டர்களும் சரி பொது வேட்பாளர் வெற்றி பெற வேண்டும் என்பதில் உறுதியாக இருக்கிறார்கள்.
+Former parliamentarian Suresh Premachandran said that some people like Sumanthiran, Chanakyan and Sivagnanam oppose the common candidate.
 
-அது மாத்திரமல்ல, அவர்கள் களத்தில் இறங்கி பணிபுரிவதற்கும் தயாராக இருக்கின்றார்கள். யாழ்ப்பாணத்தில் தமிழரசுக்கட்சியினுடைய இளைஞர் அணியைச் சேர்ந்த பலரை சந்தித்து நான் பேசியிருக்கின்றேன்.
+He was speaking to the media while launching a campaign in support of the common candidate in Kilinochchi.
 
-இதனை முன்னெடுக்க வேண்டும் என்பதில் உறுதியாக இருக்கின்றார்கள். கிளிநொச்சியைச் சேர்ந்த சிறிதரனும் பொது வேட்பாளரை வாழ்த்தியிருக்கிறார். ஏற்கனவே அதற்கான கூட்டங்களும் - கிளிநொச்சியில் கூடப்பட்டிருக்கிறது.
+Other than a few people like Sumanthiran, Chanakyan and Sivagnanam, the party's top levels and other volunteers under the other party are sure to win the common candidate.
+
+Not only that, they are ready to get down on the field. In Jaffna, I have spoken to many members of the Tamil party's youth team.
+
+They are sure to carry out this. Sridharan from Kilinochchi has congratulated the common candidate. Already, meetings - have been gathered in Kilinochchi.
+
+Senathirajah, who is also the leader, has welcomed this. Therefore, the majority of the TNA have welcomed this.
+
+Some people oppose their own reasons. In particular, Chanakyan has said that the Sri Lankan government has given him the development of the government.
 
 ...
 
 [Data](articles/fca6eaa3.json)
+
+[Extended Data](ext_articles/fca6eaa3.ext.json)
 
 ---
 
@@ -407,6 +485,26 @@ The mother has been transferred to the Matara Hospital for further treatment.
 [Data](articles/448e27ce.json)
 
 [Extended Data](ext_articles/448e27ce.ext.json)
+
+---
+
+### කොරියාවේ ප්‍රමුඛ ආයෝජකයෙක් ලංකාවේ ආයෝජනයට සූදානම්
+
+*2024-08-23 15:06:10* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-ප්‍රමුඛ-ආයෝජකයෙක්-ලංකාවේ-ආයෝජනයට-සූදානම්/11-411522) · `si`
+
+ශ්‍රී ලංකාවේ සූර්ය බලශක්ති සහ කෘෂිකාර්මික ව්‍යාපෘති සඳහා කොරියාව ආයෝජනය කිරීමේ අපේක්ෂාවෙන් පසුවෙයි.
+
+දකුණු කොරියානු මහජන සමූහාණ්ඩුවේ ප්‍රමුඛ පෙළේ ව්‍යවසායකයෙකු වන යොං-ජෝ මුන් හා   අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අතර හමුවක් (22) අරලියගහ මන්දිරයේ දී සිදු විය.
+
+මෙරට බලශක්ති සහ කෘෂිකර්ම ක්ෂේත්‍රයේ ආයෝජනය කිරීමට කැමැත්ත පළ කළ යොං-ජෝ මුන් මහතා ප්‍රකාශ කළේ තමන් සභාපතිත්වය දරන ජාත්‍යන්තර අන්තර් හුවමාරු සංවර්ධන සංගමයට අනුබද්ධ ව්‍යවසායකයන් සූර්ය බලශක්ති ව්‍යාපෘති කිහිපයකට මෙන්ම ශ්‍රී ලංකාවේ පලතුරු වගාව සඳහා ද ආයෝජනය කිරීමට කැමැත්තෙන් පසුවන බවයි.
+
+ශ්‍රී ලංකාවේ පලතුරු වගාව සඳහා ආයෝජනය කිරීමේ කැමැත්තෙන් පසුවන්නන් කොරියාව ඇතුළු වෙනත් රටවලට මෙරට පලතුරු අපනයනය කිරීමේ අදහසින් පසුවන බවද හෙතෙම පැවසීය.
+
+මෙම ක්ෂේත්‍රවල ආයෝජන කිරීමේ යෝජනා ශ්‍රී ලංකාව පිළිගන්නා බව පැවසූ අග්‍රාමාත්‍යවරයා විකල්ප බලශක්ති ප්‍රභවයන්වලට යොමු වෙමින් බොරතෙල් මත යැපීම අවම කිරීම සඳහා රජය සැලසුම් කර ඇතැයි පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/ee45ae9e.json)
 
 ---
 
@@ -692,21 +790,27 @@ Two teachers have been arrested in connection with the appropriate investigation
 
 ---
 
-### පාසල් සිසුන් අපයෝජනය කළ විදුහල්පතිට එරෙහිව පැමිණිල්ලක්
+### Complaint against Principal who abused school children
 
 *2024-08-23 12:48:26* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්-අපයෝජනය-කළ-විදුහල්පතිට-එරෙහිව-පැමිණිල්ලක්/11-411521) · `si`
 
-පාසල් සිසුන් දෙදෙනෙකුට බරපතල ලිංගික අපයෝජනයක් සිදුකළ විදුහල්පතිවරයෙකු පිළිබඳ ඊයේ (22)කතරගම පොලීසියට පැමිණිල්ලක් ඉදිරිපත් වී ඇති බව කතරගම පොලීසිය පවසයි.
+A principal in Kataragama has been accused of sexually abusing two students aged 8 and 9 since 2023. The victims reported the abuse during sports activities. The 49-year-old principal, a married man, was arrested by the Kataragama Police, who continue investigating the case.
 
-විදුහලේ 8 සහ 9වසර වල  ඉගෙනුම ලබන මෙම සිසුන් ක්‍රීඩා කටයුතු වලට පාසැලට පැමිණී විට ආහාර ගැනිමට වෙන්කර ඇති කාමරය තුලදී ලිංගික අපයෝජනය සිදුකර ඇති බව පොලිසිය පවසයි.
+🟩
 
-එක් සිසුවෙකුට 2021 වසරේ සිටත් අනෙක් සිසුවාට 2023 වසරේ සිටත් මෙම විදුහල්පතිවරයා විසින් ලිංගික අපයෝජනයසිදු කළ බවට ඔවුන් පැමිණිලි කර ඇති අතර කතරගම පොලීසිය විසින් විදුහල්පතිවරයා අත්තඩංගුවට ගෙන ඇත.
+Kataragama Police have lodged a complaint with a principal who was seriously sexually abusing two schoolchildren.
 
-අත් අඩංගුවට ගත් විදුහල්පතිවරයා 49 හැවිරිදි විවාහක පුද්ගලයෙකු බවත් සිද්ධිය සම්බන්ධ වැඩිදුර විමර්ශන කතරගම පොලීසිය විසින් සිදුකරන බවත් කතරගම පොලීසිය පවසයි.
+The students studying in 8 and 9 of the school have come to sports and have been sexually abused in the room.
+
+One student has complained that the Principal has been arrested by the Principal since 2023. The Principal has been arrested by Kataragama Police since 2023.
+
+The arrested Principal is a 49-year-old married man and the Kataragama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1ebcc275.json)
+
+[Extended Data](ext_articles/1ebcc275.ext.json)
 
 ---
 
@@ -2163,79 +2267,5 @@ Speaking at the post-Cabinet meeting media briefing he noted that the initiative
 [Data](articles/f3d0c54e.json)
 
 [Extended Data](ext_articles/f3d0c54e.ext.json)
-
----
-
-### SJB Jaffna District Organiser pledges support to President
-
-*2024-08-23 03:47:50* · [`dailyftlk`](https://www.ft.lk/news/SJB-Jaffna-District-Organiser-pledges-support-to-President/56-765860) · `en`
-
-SJB Jaffna District Organiser Victor Stanley yesterday pledged support to President Ranil Wickremesinghe at the next month’s election.
-
-Stanley stated that Sajith Premadasa, who is currently seeking the country’s leadership, did not step forward to accept responsibility for the country and its people during the time of crisis. Those who remained silent while the people were under severe pressure are unfit for the leadership of the country, he added.
-
-Stanley highlighted that the current President Wickremesinghe, who served in Parliament as a single MP, took on the challenge of rebuilding the country. The victory of President Wickremesinghe in the upcoming Presidential election will be a victory for the entire nation.
-
-Following the pledging of support, Stanley was appointed as the Jaffna District Coordinator for Christian Affairs to President Wickremesinghe.
-
-◼️
-
-[Data](articles/e7635e8e.json)
-
-[Extended Data](ext_articles/e7635e8e.ext.json)
-
----
-
-### MIOT International, India, offers revolutionary solution for severe knee pain
-
-*2024-08-23 03:41:00* · [`islandlk`](http://island.lk/miot-international-india-offers-revolutionary-solution-for-severe-knee-pain/) · `en`
-
-MIOT International, Chennai, India – a 1000 bedded multidisciplinary quaternary care hospital, has introduced its latest revolutionary procedure, Genicular Artery Embolization, a minimally invasive, pinhole procedure that reduces knee inflammation and provides pain relief to patients with severe knee osteoarthritis.
-
-Beyond the age of 40 years, the gradual wear and tear of the knee joints leads to progressive loss of articular cartilage, the tissue that provides cushioning between the bones in the knee joint, known as knee osteoarthritis. The friction due to rubbing of the knee bones causes severe pain, swelling and stiffness, affecting everyday activities like sitting, standing, walking, bending and climbing stairs.
-
-Patients with an early or moderate stage of osteoarthritis tend to seek relief through conventional treatments like lubricants and medication; however, they realize that these treatments have undesirable side effects and also affect their kidney.
-
-...
-
-[Data](articles/9d9f3558.json)
-
-[Extended Data](ext_articles/9d9f3558.ext.json)
-
----
-
-### HUTCH 2X offers savings of up to 60% on home broadband and mobile data bills
-
-*2024-08-23 03:40:00* · [`islandlk`](http://island.lk/hutch-2x-offers-savings-of-up-to-60-on-home-broadband-and-mobile-data-bills/) · `en`
-
-For the first time in Sri Lanka, HUTCH 2X unveils an innovative 2-in-1 package that integrates Home Broadband and Mobile Data into a single, convenient plan. This groundbreaking solution sets a new standard by eliminating the need for a separate home broadband connection and an investment for a router to achieve affordable internet.
-
-With HUTCH 2X, subscribers can effortlessly use their smartphones as a broadband solution, providing Wi-Fi through a hotspot at home and mobile data on the go. This approach not only simplifies connectivity but also offers generous data allowances, making it the ideal choice for seamless, reliable internet access both at home or away.
-
-HUTCH 2X combines exceptional value together with high-quality data experience. Plans start at just Rs. 1,099/- for 50GB and range to Rs. 4,999/- for an unlimited internet plan inclusive of all taxes.
-
-...
-
-[Data](articles/d5e437c0.json)
-
-[Extended Data](ext_articles/d5e437c0.ext.json)
-
----
-
-### Australia-Sri Lanka relationship heads into new terrain
-
-*2024-08-23 03:31:00* · [`islandlk`](http://island.lk/australia-sri-lanka-relationship-heads-into-new-terrain/) · `en`
-
-The Australian Border Force marks another momentous occasion by generously gifting Sri Lanka Coast Guard (SLCG) three All-terrain Vehicles (ATVs) at a special ceremony in Colombo.The small, motorised, off-highway vehicles are generally used on rough ground and will complement SLCG’s existing land coastal patrol activities.
-
-Test driving the ATVs during his official visit to the Australian Border Force headquarters earlier this year, Director-General of SLCG, Rear Admiral Pujitha Vithana said the ATVs are geared to enhance onshore patrol capabilities.
-
-“Like Australia, we bear similar civil maritime security threats and are committed to working together to combat maritime crime. The three ATVs are a welcome gift that will enhance our ability to do so. We are so grateful for the opportunity to receive them,” Rear Admiral Vithana said.
-
-...
-
-[Data](articles/50f65e3b.json)
-
-[Extended Data](ext_articles/50f65e3b.ext.json)
 
 ---

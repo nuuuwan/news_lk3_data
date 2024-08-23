@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 17:21:25**
+As of **2024-08-23 17:37:06**
 
 ## Newspaper Stats
 
-*Scraped **42,270** Articles*
+*Scraped **42,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,82 @@ colombotelegraphcom | 404
 islandlk | 2,451
 economynextcom | 2,560
 dailyftlk | 2,742
-adalk | 3,894
+adalk | 3,896
 dailymirrorlk | 4,733
 adaderanalk | 4,957
 tamilmirrorlk | 5,488
-virakesarilk | 6,720
-adaderanasinhalalk | 7,213
+virakesarilk | 6,721
+adaderanasinhalalk | 7,214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,266 (100.0%) of 42,270 articles have been extended.
+42,270 (100.0%) of 42,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### சன் பிக்சர்ஸ் நிறுவனத்துடன் மீண்டும் இணையும் தனுஷ்
+### හෂීෂ් කිලෝ 30ක් රේගු භාරයට
+
+*2024-08-23 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200246) · `si`
+
+ඉතාලියේ සිට කොළඹ පිහිටි භාණ්ඩ නිශ්කාශන ආයතනයක් හරහා එවන ලද තෑගි පාර්සලයක තිබී හෂීෂ් වර්ගයේ මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 30ක් රේගු භාරයට ගෙන තිබේ.
+
+රේගු මාධ්‍ය ප්‍රකාශක, අතිරේක අධ්‍යක්ෂ ජනරාල්, සීවලී අරුක්ගොඩ මහතා සඳහන් කළේ එම මත්ද්‍රව්‍ය තොගයේ විටිනාකම රුපියල් මිලියන 212ක් වන බවය.
+
+රේගු ආදායම් අධීක්ෂණ ඒකකය විසින් අදාළ වැටලීම සිදුකර ඇති අතර, අත්අඩංගුවට ගන්නා ලද මත්ද්‍රව්‍ය තොගය හා එක් සැකකරුවෙකු වැඩිදුර විමර්ශනය සඳහා පොලිස් මත්ද්‍රව්‍ය නාශක අංශය වෙත භාර දී තිබේ.
+
+එම පාර්සලය එවා ඇත්තේ මතුගම ප්‍රදේශයේ ලිපිනයකට බව ද රේගු මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/39346604.json)
+
+---
+
+### Dhanush reunites with Sun Pictures
 
 *2024-08-23 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/191806) · `ta`
 
-தனுஷ் நடித்து, இயக்கிய அவரது ஐம்பதாவது திரைப்படமான 'ராயன்' வெளியாகி வசூல் ரீதியாகவும், விமர்சன ரீதியாகவும் பாரிய வெற்றியை பெற்றது.  இந்திய மதிப்பில் 150 கோடி ரூபாய்க்கு மேல் வசூலித்து சாதனையும் படைத்தது.‌
+Dhanush, after the success of his 50th film 'Rayan', reunites with Sun Pictures, the leading Tamil film production company. Their collaboration marks a significant milestone, with 'Rayan' grossing 150 crores and receiving critical acclaim. This reunion also highlights the success of their previous venture, 'Trichyitambalam', which won a National Award. The partnership between Dhanush, as both star and director, and Sun Pictures, promises exciting future projects.
 
-இதனால் மகிழ்ச்சி அடைந்த ராயன் படத்தை தயாரித்த தயாரிப்பு நிறுவனமான சன் பிக்சர்ஸ், மீண்டும் தனுசுடன் இணைந்திருக்கிறது.  இதற்கான அறிவிப்பு வெளியாகி இருக்கிறது.
+🟩
 
-தமிழ் திரையுலகின் முன்னணி தயாரிப்பு நிறுவனமான சன் பிக்சர்ஸ் - தனது தயாரிப்பில் உருவாகும் திரைப்படங்கள் வசூல் ரீதியாக மிகப் பிரம்மாண்டமான வெற்றியைப் பெற்றால் அப்படத்தை உருவாக்கிய இயக்குநருக்கும், அதில் நடித்த நடிகருக்கும் அவர்களே எதிர்பாராத அளவில் பிரம்மாண்டமான பரிசுகளை வழங்கி அசத்துவது வழக்கம்.
+Dhanush starring and directed by his fiftieth film 'Rayan' was a huge success.150 crores of Indian value
 
-அந்த வகையில் சன் பிக்சர்ஸ் தயாரிப்பில் அண்மையில் வெளியான 'ராயன்' திரைப்படம் பிரம்மாண்டமான வெற்றியை பெற்றது.
+Sun Pictures, the producer of the Rayan film, is reunited with Sagittarius.The announcement has been made.
 
-...
+Sun Pictures, the leading production company of the Tamil film industry - is a great success if the films are making a huge success, and the actor who produced the film and the actor who starred in the film is an unexpected gift.
+
+The recently released film 'Rayan', produced by Sun Pictures, was a huge success.
+
+The director of the film, Dr. Maran-Sun Pictures, has made two contracts to play the lead role in the film, which is being produced by Sun Pictures.. Sagittarius and his fans are excited.
+
+The filmmakers have said that the success of 'Rayan' is not the only reason for Sun Pictures to reunite with Sagittarius, and that the National Award for the film 'Trichyitambalam', which was already released in their alliance, is one of the reasons.
+
+◼️
 
 [Data](articles/b48533e4.json)
+
+[Extended Data](ext_articles/b48533e4.ext.json)
+
+---
+
+### හෙට බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් තවත් දිස්ත්‍රක්ක කිහිපයකත් වැස්ස අඩුවෙයි
+
+*2024-08-23 16:52:57* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-බස්නාහිර--සබරගමුව--දකුණු-සහ-වයඹ-පළාත්වලත්-තවත්-දිස්ත්‍රක්ක-කිහිපයකත්-වැස්ස-අඩුවෙයි/11-411523) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රක්ක වලත් සිහින් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යාදෙපාර්ථමේන්තුව පවසයි.
+
+ඒසේම ඌව පළාතේ අම්පාර සහ මඩකලපුව දිස්ත්‍රක්ක වලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
+
+උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, ම්බන්තොට දිස්ත්‍රික්කයෙත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක වැඩිදුරටත් දන්වා සිටියි.( I J )
+
+◼️
+
+[Data](articles/473391d1.json)
 
 ---
 
@@ -72,6 +116,28 @@ India, he said, supports “dialogue and diplomacy for restoration of peace and 
 
 [Data](articles/c60224d2.json)
 
+[Extended Data](ext_articles/c60224d2.ext.json)
+
+---
+
+### சுமந்திரன், சாணக்கியன், சிவஞானம் போன்ற சிலரே பொது வேட்பாளரை எதிர்க்கின்றனர் - சுரேஸ் பிரேமச்சந்திரன்
+
+*2024-08-23 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191796) · `ta`
+
+சுமந்திரன், சாணக்கியன், சிவஞானம் போன்ற சிலரே பொது வேட்பாளரை எதிர்க்கின்றனர் என முன்னாள் நாடாளுமன்ற உறுப்பினர் சுரேஸ் பிரேமச்சந்திரன் தெரிவித்தார்.
+
+கிளிநொச்சியில் பொது வேட்பாளருக்கு ஆதரவாக பிரச்சாரத்தை ஆரம்பித்து வைத்து ஊடகங்களுக்கு கருத்துத் தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+சுமந்திரன், சாணக்கியன், சிவஞானம் போன்ற ஒரு சிலரைத் தவிர கட்சியின் ஏனைய மேல் மட்டங்களும் சரி, ஏனைய கட்சியின் கீழ் மட்ட தொண்டர்களும் சரி பொது வேட்பாளர் வெற்றி பெற வேண்டும் என்பதில் உறுதியாக இருக்கிறார்கள்.
+
+அது மாத்திரமல்ல, அவர்கள் களத்தில் இறங்கி பணிபுரிவதற்கும் தயாராக இருக்கின்றார்கள். யாழ்ப்பாணத்தில் தமிழரசுக்கட்சியினுடைய இளைஞர் அணியைச் சேர்ந்த பலரை சந்தித்து நான் பேசியிருக்கின்றேன்.
+
+இதனை முன்னெடுக்க வேண்டும் என்பதில் உறுதியாக இருக்கின்றார்கள். கிளிநொச்சியைச் சேர்ந்த சிறிதரனும் பொது வேட்பாளரை வாழ்த்தியிருக்கிறார். ஏற்கனவே அதற்கான கூட்டங்களும் - கிளிநொச்சியில் கூடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/fca6eaa3.json)
+
 ---
 
 ### Election complaints further increased
@@ -96,37 +162,51 @@ The Commission pointed out that 65 election related complaints have been reporte
 
 ---
 
-### முச்சக்கரவண்டியுடன் பஸ் மோதி விபத்து - நால்வர் படுகாயம்
+### Bus collision with three -wheeler
 
 *2024-08-23 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191781) · `ta`
 
-மாத்தளை - கதிர்காமம் வீதியில் தங்காலை உனாகுருவ பிரதேசத்தில் பஸ் ஒன்றும் முச்சக்கரவண்டியொன்றும் மோதி விபத்துக்குள்ளானதில் நான்கு பேர் படுகாயங்களுக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A bus crash with a three-wheeler in Unakuru injured four, including the three-wheeler driver and a mother-son duo. The bus driver, en route from Ampara, was arrested.
 
-இந்த விபத்தின் போது, முச்சக்கரவண்டியின் சாரதியும் பின்புறத்தில் அமர்ந்திருந்த தாயும் தந்தையும் மகனுமே காயமடைந்துள்ளனர்.
+🟩
 
-மேலும், அம்பாறையில் இருந்து சுற்றுலாப் பயணம் சென்ற பஸ் வண்டியில் மோதியே விபத்து ஏற்பட்டுள்ளதாகவும் பஸ் சாரதி கைது செய்யப்பட்டுள்ளதாகவும்  பொலிஸார் தெரிவித்துள்ளனர்.
+Four people were injured when a bus and a three -wheeler crashed into the Unakuru area on the Matale - Kadirgamam road, police said.
+
+During the accident, the driver of the three -wheeler and the mother, the mother, and the son, were injured.
+
+In addition, the bus driver has been arrested in a bus traveling from Ampara and the bus driver has been arrested.
 
 ◼️
 
 [Data](articles/658bf37d.json)
 
+[Extended Data](ext_articles/658bf37d.ext.json)
+
 ---
 
-### வெற்றி நடிக்கும் 'ஆலன்' படத்தின் புதிய பாடல் வெளியீடு
+### The new song release of 'Alan' will be released
 
 *2024-08-23 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191804) · `ta`
 
-தமிழ் திரையுலகில் வளர்ந்து வரும் நம்பிக்கை தரும் நட்சத்திரங்களில் ஒருவரான நடிகர் வெற்றி கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'ஆலன்' எனும் திரைப்படத்தில் இடம் பெற்ற 'ஏன் அணைந்தாய்..' எனத் தொடங்கும் மூன்றாவது பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+"Alan," a rising star in the Tamil film industry, releases his third song titled "Why." Directed by RC Siva and featuring a cast including Mathura, Anu Siddara, and Karunakaran, the song is composed by Manoj Krishna and sung by Karthik Netha and Shan Roldan. Known for its emotional lyrics and Shawn Roldan's captivating voice, it marks another milestone in Alan's career.
 
-இயக்குநர் ஆர்.சிவா இயக்கத்தில் உருவாகி இருக்கும் 'ஆலன்' எனும் திரைப்படத்தில் வெற்றி, மதுரா, அனு சித்தாரா, கருணாகரன், விவேக் பிரசன்னா, 'அருவி' மதன் குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-விந்தன் ஸ்டாலின் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு மனோஜ் கிருஷ்ணா இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை 3 எஸ் பிக்சர்ஸ் நிறுவனம் சார்பில் இயக்குநர் ஆர். சிவா தயாரித்திருக்கிறார்.
+One of the most confident stars growing in the Tamil film industry, the third song and the lyrical video for the song, 'why' Alan, 'Alan', which plays the lead role as the hero of the actor's success, has been released.
 
-இந்தத் திரைப்படத்தில் இடம்பெற்ற இரண்டு பாடல்களும், பாடலுக்கான வீடியோவும் வெளியாகி பெரும் வரவேற்பை பெற்றது. இந்நிலையில் இந்த திரைப்படத்தில் இடம்பெற்ற 'ஏன் அணைந்தாய்..' எனத் தொடங்கும் மூன்றாவது பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+Directed by director RC Siva, 'Alan', Mathura, Anu Siddara, Karunakaran, Vivek Prasanna, 'Aruvi' Madan Kumar and many others.
 
-...
+Manoj Krishna has composed the film, which has been recorded by Vindan Stalin. The film was on behalf of 3S Pictures Company. Siva has produced.
+
+Two songs and a video of the song were released. In this case, the third song, which starts with the film 'Why Mindai ..', has been released.
+
+The song is sung by songwriter Karthik Netha, background singer and composer Shan Roldan.Shawn Rolden's enchanting voice has been very popular with fans as the song has been released with the emotional lyrics of love.
+
+◼️
 
 [Data](articles/47e7e72c.json)
+
+[Extended Data](ext_articles/47e7e72c.ext.json)
 
 ---
 
@@ -609,6 +689,24 @@ Two teachers have been arrested in connection with the appropriate investigation
 [Data](articles/99eea7e0.json)
 
 [Extended Data](ext_articles/99eea7e0.ext.json)
+
+---
+
+### පාසල් සිසුන් අපයෝජනය කළ විදුහල්පතිට එරෙහිව පැමිණිල්ලක්
+
+*2024-08-23 12:48:26* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්-අපයෝජනය-කළ-විදුහල්පතිට-එරෙහිව-පැමිණිල්ලක්/11-411521) · `si`
+
+පාසල් සිසුන් දෙදෙනෙකුට බරපතල ලිංගික අපයෝජනයක් සිදුකළ විදුහල්පතිවරයෙකු පිළිබඳ ඊයේ (22)කතරගම පොලීසියට පැමිණිල්ලක් ඉදිරිපත් වී ඇති බව කතරගම පොලීසිය පවසයි.
+
+විදුහලේ 8 සහ 9වසර වල  ඉගෙනුම ලබන මෙම සිසුන් ක්‍රීඩා කටයුතු වලට පාසැලට පැමිණී විට ආහාර ගැනිමට වෙන්කර ඇති කාමරය තුලදී ලිංගික අපයෝජනය සිදුකර ඇති බව පොලිසිය පවසයි.
+
+එක් සිසුවෙකුට 2021 වසරේ සිටත් අනෙක් සිසුවාට 2023 වසරේ සිටත් මෙම විදුහල්පතිවරයා විසින් ලිංගික අපයෝජනයසිදු කළ බවට ඔවුන් පැමිණිලි කර ඇති අතර කතරගම පොලීසිය විසින් විදුහල්පතිවරයා අත්තඩංගුවට ගෙන ඇත.
+
+අත් අඩංගුවට ගත් විදුහල්පතිවරයා 49 හැවිරිදි විවාහක පුද්ගලයෙකු බවත් සිද්ධිය සම්බන්ධ වැඩිදුර විමර්ශන කතරගම පොලීසිය විසින් සිදුකරන බවත් කතරගම පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/1ebcc275.json)
 
 ---
 
@@ -2139,93 +2237,5 @@ Test driving the ATVs during his official visit to the Australian Border Force h
 [Data](articles/50f65e3b.json)
 
 [Extended Data](ext_articles/50f65e3b.ext.json)
-
----
-
-### Maliban legacy continues with A.G. Kumudika Fernando as new chairperson
-
-*2024-08-23 03:31:00* · [`islandlk`](http://island.lk/maliban-legacy-continues-with-a-g-kumudika-fernando-as-new-chairperson/) · `en`
-
-The Maliban Group – a household name in Sri Lanka with a 70-year heritage in quality and taste – has announced a significant leadership transition, with A.G. Kumudika Fernando being appointed as Chairperson of the Group, with effect from the 15th of August 2024. This appointment follows the recent passing of A.G. Ratnapala Samaraweera, the previously-serving Chairman of the Maliban Group, who is also Ms Fernando’s father. Samaraweera was the son of the late AG Hinni Appuhamy, the legendary Founder of Maliban, and upheld the long-standing Maliban Family tradition of quality, excellence, and innovation.
-
-...
-
-[Data](articles/e69cbc94.json)
-
-[Extended Data](ext_articles/e69cbc94.ext.json)
-
----
-
-### CSE indices dip as selling pressure comes in the wake of political uncertainties
-
-*2024-08-23 03:23:00* · [`islandlk`](http://island.lk/cse-indices-dip-as-selling-pressure-comes-in-the-wake-of-political-uncertainties/) · `en`
-
-Although initially there was nothing particularly noteworthy in CSE trading yesterday, later selling pressure built up in the bourse due to lingering uncertainties on the political front, market analysts said.
-
-Consequently, both indices moved downwards. The All Share Price Index went down by 24.2 points while S and P SL20 declined by 16.2 points. Turnover stood at R 798 million with five crossings. Those five crossings were reported in Commercial Bank, where 2.06 million shares crossed to the tune of Rs 197.5 million; its shares traded at Rs 96, Dialog 5 million shares crossed for Rs 45 million; its shares traded at Rs 9, Kelani Tyres 500,000 shares crossed to the tune of Rs 39 million, its shares sold at Rs 78, HNB 150,000 shares crossed for Rs 27.45 million; its shares fetched Rs 183 and JKH 150,000 shares crossed to the tune of Rs 27.3 million; its shares traded at Rs 183 and JKH 150,000 shares crossed for Rs 27.3 million; its shares traded at Rs 182.
-
-...
-
-[Data](articles/5643be41.json)
-
-[Extended Data](ext_articles/5643be41.ext.json)
-
----
-
-### Ranil Wickremesinghe has lost the presidential election after the fundamental rights of the people - Sajith Premadasa
-
-*2024-08-23 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191749) · `ta`
-
-Sajith Premadasa criticizes Ranil Wickremesinghe for violating citizens' rights and misusing national resources. He calls for unity against a regime that ignores constitutional norms and prioritizes personal gain over public welfare. Premadasa emphasizes the importance of standing with the people against corruption and promises a democratic future focused on enhancing the quality of life for all.
-
-🟩
-
-Ranil Wickremesinghe's response to the presidential election has violated the fundamental rights of the people.Opposition leader Sajith Premadasa has said that the Supreme Court has ruled.
-
-The government, including the president, is improperly using national resources and assets in a country that has been banned for our self -profit.
-
-The state administration is currently carrying out a protest against the people, ignoring what is supposed to be given to the people.
-
-Using the maximum tricks to establish a regime with the Mamata I am, to protect his power,
-
-The Opposition Leader has called for the failure of this dark age, which is trying to prolong their political life span, in violation of the rules of the constitution and goes towards the era of the public.
-
-The heads of this politics are changing. There is a political culture that loses its self -esteem for money, for the sake of money, for concessions, gifts and wine stories.
-
-...
-
-[Data](articles/01031cea.json)
-
-[Extended Data](ext_articles/01031cea.ext.json)
-
----
-
-### Why was Ranil an independent candidate?Is that advantage of him?Disadvantages?
-
-*2024-08-23 02:43:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cql3e0yx7lyo) · `si`
-
-Ranil Wickremesinghe chose to run as an independent candidate due to the weakening of traditional political parties in Sri Lanka, aiming to break away from the dominance of large parties. This move was seen by some as a strategic decision to avoid the disadvantages associated with being tied to a failing party. However, critics argue that running as an independent may not offer significant advantages, especially considering the lack of strong backing from any major political group.
-
-🟩
-
-Why was Ranil an independent candidate?Is that advantage of him?Disadvantages?
-
-Many political analysts have expressed their view that Sri Lanka's politics has been subjected to severe change.
-
-They point out that the politics of the party is currently being abolished, collapsing the domination of the country's rooting massive parties.
-
-Instead, candidates representing a combination of independent candidates or several parties are found at the presidential election.
-
-President Ranil Wickremesinghe will contest the elephant mark that represented over 40 years as an independent candidate.
-
-Why did he contest as an independent candidate, which is the oldest massive political party in Sri Lanka, to compete in the UNP, who is the UNP?Is that advantage of him?Disadvantages?
-
-A political analyst says that Ranil Wickremesinghe is independent of as an independent candidate, says Dr. Dayan Jayatilleke.
-
-...
-
-[Data](articles/18735f5b.json)
-
-[Extended Data](ext_articles/18735f5b.ext.json)
 
 ---

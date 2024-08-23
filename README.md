@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 15:21:26**
+As of **2024-08-23 15:36:57**
 
 ## Newspaper Stats
 
-*Scraped **42,251** Articles*
+*Scraped **42,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,742
 adalk | 3,893
 dailymirrorlk | 4,733
 adaderanalk | 4,951
-tamilmirrorlk | 5,484
+tamilmirrorlk | 5,486
 virakesarilk | 6,716
 adaderanasinhalalk | 7,209
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,246 (100.0%) of 42,251 articles have been extended.
+42,251 (100.0%) of 42,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### பஸ் ஆற்றில் கவிழ்ந்ததில்  14 பேர் பலி
+
+*2024-08-23 14:59:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-ஆற்றில்-கவிழ்ந்ததில்-14-பேர்-பலி/50-342688) · `ta`
+
+நேபாளத்தில் இந்திய சுற்றுலாப் பயணிகள் சென்ற பஸ் ஆற்றில் கவிழ்ந்து விபத்துக்குள்ளானதில், 14 பேர் பலியாகினர்.
+
+நேபாளத்தில் பொக்காராவில் இருந்து கத்மண்டு நோக்கி 40 இந்தியர்கள் பஸ்சில் சென்று கொண்டிருந்தனர். தனா ஹூன் மாவட்டத்தில் உள்ள மார்ஸ்யாங்டி ஆற்றின் அருகேயுள்ள பாதையில் சென்றபோது பஸ் சாரதியின் கட்டுப்பாட்டை இழந்து விபத்துக்குள்ளானது.
+
+பயணிகள் தண்ணீரில் மூழ்கிய நிலையில், மீட்புப்பணிகளை உள்ளூர் மாவட்ட நிர்வாகம் முடுக்கி விட்டுள்ளது. உள்ளூர் நீச்சல் வீரர்கள் உதவியுடன் ஆற்றில் விழுந்த 16 பேர் மீட்கப்பட்டனர்.
+
+மேலும் 14 பேர் உயிரிழந்த நிலையில் சடலங்களாக மீட்கப்பட்டனர். மற்றவர்களை தேடும் பணி தொடர்ந்து நடந்து வருகிறது.
+
+நெடுஞ்சாலையில், பஸ் வந்து கொண்டிருந்த போது திடீரென நிலச்சரிவு ஏற்பட்டுள்ளது. இதனால், பஸ் மீது பாறைகள், மண் கொட்ட, சாலையில் இருந்து பஸ் அப்படியே ஆற்றில் விழுந்துள்ளது.
+
+காலநிலை மாற்றம், இயற்கை சீற்றத்தால் ஏற்பட்ட இதுபோன்ற விபத்துகளினால் கடந்த ஜூலை மாதம் வரை 62 பேர் பலியாகி உள்ளனர் என்பது குறிப்பிடத்தக்கது.S
+
+◼️
+
+[Data](articles/6bccc63f.json)
+
+---
 
 ### Dilith also showed Dilith for tuition teachers
 
@@ -59,6 +81,20 @@ The politics we make is different. Wishful change, you may contribute to the cha
 [Data](articles/4486534f.json)
 
 [Extended Data](ext_articles/4486534f.ext.json)
+
+---
+
+### வாக்குரிமையை பயன்படுத்துவோம்: சர்வதேச இந்து மத பீடம்
+
+*2024-08-23 14:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குரிமையை-பயன்படுத்துவோம்-சர்வதேச-இந்து-மத-பீடம்/175-342686) · `ta`
+
+வாக்குரிமை மக்களின் அடிப்படை உரிமை -பலமாக பயன்படுத்த வேண்டும் என சர்வதேச இந்து மத பீடம் தெரிவித்துள்ளது.எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கு மக்களாகிய நாங்கள் எமது வாக்குரிமையைப் பயன்படுத்தி நமது உரிமையை பெற்றுக்கொள்ளும் பலமான வாக்குச்சீட்டாக பயன்படுத்த வேண்டும் என சர்வதேச இந்து மத பீடம் தெரிவித்துள்ளது.
+
+இலங்கை நாட்டின் ஒவ்வொரு குடிமகனினதும் அடிப்படை உரிமை வாக்களிப்பு உரிமை ஆகும். இந்த வாக்கு உரிமை தான் ஜனநாயக ரீதியானது. இந்த ஜனநாயக ரீதியாகவே எமது அடிப்படை உரிமைகளை வென்றெடுக்க வேண்டும். குறிப்பாக தமிழ் மக்கள் முப்பது வருட காலத்தில் ஆயுத போராட்டத்தில் போர் சூழலில் அகப்பட்டு பலவிதமான இன்னல்களுக்கு உள்ளாகினார்கள். இந்த நிலைமையை கருத்தில் கொண்டு வாக்குரிமையை சரியாக பயன்படுத்த வேண்டும் என்ற உணர்வு மேலோங்கி நிற்க வேண்டும்.
+
+...
+
+[Data](articles/2b83c43e.json)
 
 ---
 
@@ -200,9 +236,11 @@ Kandy was the next highest at 55,795, followed by Gampaha at 52,486.
 
 [Data](articles/bdaa0d07.json)
 
+[Extended Data](ext_articles/bdaa0d07.ext.json)
+
 ---
 
-### Sri Lanka would continue to stand for rights of Palestinian people: Premier
+### Sri Lanka will continue to stand for rights of Palestinian people: Premier
 
 *2024-08-23 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-would-continue-to-stand-for-rights-of-palestinian-people-premier-177890/) · `en`
 
@@ -215,6 +253,8 @@ He briefed the Prime Minister about the current situation in Palestine and the P
 ◼️
 
 [Data](articles/aed89d3e.json)
+
+[Extended Data](ext_articles/aed89d3e.ext.json)
 
 ---
 
@@ -299,6 +339,8 @@ The presidency was introduced in 1978 for accelerated and sustained economic gro
 ...
 
 [Data](articles/4cbf0677.json)
+
+[Extended Data](ext_articles/4cbf0677.ext.json)
 
 ---
 
@@ -508,6 +550,8 @@ Bids were also called by the CPC from registered suppliers for the procurement o
 
 [Data](articles/205cbb72.json)
 
+[Extended Data](ext_articles/205cbb72.ext.json)
+
 ---
 
 ### Sri Lanka awards crude oil contract to Vitol Asia (Singapore) Pte Ltd
@@ -532,17 +576,23 @@ Murban is lighter (less dense) than Brent crude oil. (Colombo/Aug23/2024)
 
 ---
 
-### නිදහස් පක්ෂ මන්ත්‍රීවරු දෙදෙනෙක් ජනපතිගේ සහායට
+### Two Independent MPs help
 
 *2024-08-23 11:40:22* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂ-මන්ත්‍රීවරු-දෙදෙනෙක්-ජනපතිගේ-සහායට/11-411519) · `si`
 
-ශ්‍රි ලංකා නිදහස් පක්ෂයේ යාපනය දිස්ත්‍රික් මන්ත්‍රි අංගජන් රාමනාදන් හා කෑගල්ල දිස්ත්‍රික් මන්ත්‍රී දුෂ්මන්ත මිත්‍රපාල යන මහත්වරුන් ඉදිරි ජනපතිවරණයේදි ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්විමට තීරණය කර තිබේ.
+Harin Renathan and Kegalle District Diyashantha Mithrapala, independent MPs, will back Ranil Wickremesinghe in Sri Lanka's upcoming presidential election. They met him at his political office in Colombo, indicating their support for his candidacy.
 
-අද පෙරවරුවේදි ඔවුන් මෙසේ ජනපතිවරයාට සහාය දක්වන බවට පවසා ඇත්තේ කොළඹ මල්පාරේ පිහිටි ජනපති රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලයේදි ජනපතිවරයා හමුවූ අවස්ථාවේදීය.
+🟩
+
+Sri Lanka Freedom Party (SLFP) MP Harin Renathan and Kegalle District Diyashantha Mithrapala have decided to support Ranil Wickremesinghe in the next presidential election.
+
+At the same time, they have been told that they met the President at the political office of Ranil Wickremesinghe's political office at Manipal Ranil Wickremesinghe, President of Colombo.
 
 ◼️
 
 [Data](articles/f8015d12.json)
+
+[Extended Data](ext_articles/f8015d12.ext.json)
 
 ---
 
@@ -1358,9 +1408,9 @@ The public requests the public to take steps to reduce the damages caused by tem
 
 *2024-08-23 05:22:34* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-Sajith-divide-causes-splits-in-Muslim-political-parties/4-765897) · `en`
 
-Nominations have closed for the long awaited 2024 Presidential election. 39 candidates are in the fray. It is widely acknowledged by the press and public that the chief presidential contenders are incumbent President Ranil Wickremesinghe, leader of the opposition Sajith Premadasa and JVP/NPP leader Anura Kumara Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith Jayaweera.
+While the SLMC and ACMC are caught up in the Ranil-Sajith divide, realities on ground indicate that a sizeable number of Muslims will support the JVP/NPP leader Anura Kumara Dissanayake at the elections. It appears that even as the Muslim party leaders are losing their hold over their MPs, the Muslim parties themselves are beginning to lose their grip on their voters
 
-However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier numerical minorities assumes crucial importance.
+Nominations have closed for the long awaited 2024 Presidential election. 39 candidates are in the fray. It is widely acknowledged by the press and public that the chief presidential contenders are incumbent President Ranil Wickremesinghe, leader of the opposition Sajith Premadasa and JVP/NPP leader Anura Kumara Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith Jayaweera.
 
 ...
 
@@ -1388,9 +1438,7 @@ In a true democracy, the selection of candidates and the election process should
 
 *2024-08-23 05:13:49* · [`dailyftlk`](https://www.ft.lk/opinion/Civil-Society-appeal-for-abolition-of-Executive-Presidency/14-765895) · `en`
 
-The experience of 46 years of the operation of the 1978 Constitution shows that the executive
-
-presidential system has not delivered on any of the aims for which it was introduced
+The experience of 46 years of the operation of the 1978 Constitution shows that the executive presidential system has not delivered on any of the aims for which it was introduced
 
 We the undersigned call upon all candidates contesting the forthcoming 2024 Presidential election to firmly and publicly commit to the abolition of the executive presidential system within the first year of the next Parliament.
 
@@ -2179,65 +2227,5 @@ Nomination of Kamala Harris, whether viewed as the first Black woman or the firs
 [Data](articles/5630a3ea.json)
 
 [Extended Data](ext_articles/5630a3ea.ext.json)
-
----
-
-### The death of the presidential candidate
-
-*2024-08-23 00:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-மரணம்/175-342660) · `ta`
-
-Ayrerus Mohammed Ilias, a 78-year-old independent presidential candidate and former MP from Sri Lanka's Jaffna District, died after two days of hospitalization in Puttalam.
-
-🟩
-
-Ayrerus Mohammed Ilias (age 78), who contested as an independent candidate in the presidential election, passed away.
-
-He was sick and passed away yesterday (22) after receiving treatment at the Puttalam Resource Hospital for 2 days.
-
-He is a former Member of Parliament of the Jaffna District of the Sri Lanka Muslim Congress. (A)
-
-◼️
-
-[Data](articles/df17e689.json)
-
-[Extended Data](ext_articles/df17e689.ext.json)
-
----
-
-### 2024-08-22 (Thursday)
-
-### Root, Uhuke and Smith shine in the batting;England in front of Sri Lanka 23 runs
-
-*2024-08-22 23:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191741) · `ta`
-
-England leads Sri Lanka by 23 runs after scoring 259/6 in the first innings of the ICC World Test Championship match at Manchester. Key contributions came from Joe Root, Haseeb Hameed, and Jos Buttler, each scoring half-centuries. Sri Lanka was bowled out for 236. The day's play began late due to rain, with Ben Stokes contributing 67 runs alongside Dawid Malan and Ollie Pope. Fernando and Prabath Jayasuriya were the standout bowlers for Sri Lanka, taking 5 wickets between them.
-
-🟩
-
-England have scored 259 runs for the loss of 6 wickets in the first innings of today's match, the second day of the ICC World Test Championships at the Menster Emirates Old Traford Stadium against Sri Lanka.
-
-In the first innings, England are in the lead by 23 runs to remain 4 wickets.
-
-Sri Lanka lost all the wickets in its first innings and scored 236 runs.
-
-Like Sri Lanka, Heri Purak and Jemi Smith have made half -centuries and strengthened their team.
-
-The second day's game started at 1.15 pm due to rain this morning.
-
-The total number of UK in Vittagala was 67 runs - Ben Tacket (18), Don Lawrence (30) and Ollie Pope (6).
-
-However, Joe Root and Heri Pouke shared 58 runs in the 4th wicket and made England excited.
-
-Hari Pouke, who shared 62 more runs with Jemi Smith, was bowled out for 56 runs.
-
-Jemith Smith and Chris Vox then shared 52 runs in the 6th wicket.
-
-Fernando, who bowled, took 3 wickets for 68 runs and Prabhat Jayasuriya took 2 wickets for 58 runs.
-
-◼️
-
-[Data](articles/abb4c1ef.json)
-
-[Extended Data](ext_articles/abb4c1ef.ext.json)
 
 ---

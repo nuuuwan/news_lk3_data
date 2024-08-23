@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 07:03:09**
+As of **2024-08-23 07:30:41**
 
 ## Newspaper Stats
 
-*Scraped **42,184** Articles*
+*Scraped **42,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,65 @@ dailymirrorlk | 4,733
 adaderanalk | 4,939
 tamilmirrorlk | 5,471
 virakesarilk | 6,710
-adaderanasinhalalk | 7,194
+adaderanasinhalalk | 7,197
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,182 (100.0%) of 42,184 articles have been extended.
+42,184 (100.0%) of 42,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### ජල ගාස්තු සංශෝධන ගැසට් පත්‍රය නිකුත් කරයි
+
+*2024-08-23 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200226) · `si`
+
+ඒ අනුව අගෝස්තු මස 21 වනදා සිට මෙම නව ජල ගාස්තු සංශෝධනය ක්‍රියාත්මක වන බව ජලසම්පාදන හා ජලාපවාහන මණ්ඩලය පවසයි.
+
+◼️
+
+[Data](articles/e456e01b.json)
+
+---
+
+### ජනාධිපති ධුර අපේක්ෂක ඉල්යාස් අභාවප්‍රාප්ත වෙයි
+
+*2024-08-23 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200225) · `si`
+
+ජනාධිපතිවරණය සඳහා නාමයෝජනා ලබාදුන් අපේක්ෂකයෙකු වන අයිදුරුස් මුහම්මද් ඉල්යාස් මහතා අභාවප්‍රාප්ත වී තිබේ.
+
+ස්වාධීන අපේක්ෂකයෙකු ලෙස ඔහු මෙවර ජනාධිපතිවරණය සඳහා ඉදිරිපත් වී තිබුණි.
+
+හදිසියේ ඇතිවූ රෝගී තත්ත්වයක් හේතුවෙන් පුත්තලම මූලික රෝහලේ ප්‍රතිකාර ලැබු ඉල්යාස් මහතා මියයන විට 78 වන වියේ පසු විය.
+
+චන්ද්‍රිකා බණ්ඩාරණායක කුමාරතුංග රජය සමයේ යාපනය දිස්ත්‍රික්කය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රිවරයෙකු ලෙසද ඒ මහතා කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/d8ad8344.json)
+
+---
+
+### අදත් වැසි
+
+*2024-08-23 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200224) · `si`
+
+අද (23) දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව දිස්ත්‍රික්කයේත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30ත් 40ත් අතර තරමක තද සුළං ද ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/f65b9398.json)
+
+---
 
 ### Make your vote count
 
@@ -2241,81 +2289,5 @@ In 1913, the construction of 80 feet high and a 300-foot-length of the Archkal n
 [Data](articles/e8a0048e.json)
 
 [Extended Data](ext_articles/e8a0048e.ext.json)
-
----
-
-### Silent protest of Tanamalwila
-
-*2024-08-22 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200203) · `si`
-
-A silent protest occurred outside the Wellawaya Magistrate's Court regarding a case involving a woman from Thanamalwila. The protest turned violent when a man attacked a journalist, leading to threats against him and verbal abuse from both protesters and police.
-
-🟩
-
-The woman who responded to a schoolgirl in the Thanamalwila area of ​​a schoolgirl in the Thanamalwila area is to be returned to the Wellawaya Magistrate's Court today.
-
-Meanwhile, a silent protest was held in front of the Wellawaya Magistrate's Court.
-
-However, a person who was agingly engaged in an immediate question had tried to attack a journalist who had come to report.
-
-The man was later threatened by protesters and police officers were abused by the Ada Derana reporter, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/0557fe36.json)
-
-[Extended Data](ext_articles/0557fe36.ext.json)
-
----
-
-### Day 2 of Sri Lanka - England first Test match today
-
-*2024-08-22 13:41:42* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---එංගලන්ත-පළමු-ටෙස්ට්-ක්‍රිකට්-තරගයේ-දෙවන-දිනය-අද/9-411501) · `si`
-
-On Day 2 of the Sri Lanka-England first ODI match, England, after being bowled out for 4 runs in 4 overs yesterday, faces a significant challenge as Sri Lanka scored 236 runs in 74 overs. England needs to surpass Sri Lanka's total by 214 runs to win.
-
-🟩
-
-The second day of the Sri Lanka-England's first ODI match will be held today.
-
-England, who was batting for the first day, England was elected at four runs in four overs.
-
-Batting first, Sri Lanka scored 236 runs for the loss of 74 overs.
-
-Accordingly, the England team will be behind 214 more than Sri Lanka's first innings.
-
-◼️
-
-[Data](articles/7d9f4f83.json)
-
-[Extended Data](ext_articles/7d9f4f83.ext.json)
-
----
-
-### Tires that ran away from the bus
-
-*2024-08-22 13:29:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்ஸை-விட்டு-ஜோடியாக-ஓடிய-டயர்கள்/76-342635) · `ta`
-
-In Badulla, a Sri Lanka Transport Board bus experienced a unique incident where its rear tires detached and rolled 100 feet away while the bus itself moved forward about 50 feet without any injuries to the over 100 passengers onboard. This unusual event occurred as the bus was traveling from Springwelli to Badulla, potentially avoiding serious damage or injury due to quick reactions and the location of the incident.
-
-🟩
-
-The rear pair of a bus belonging to the Sri Lanka Transport Board (SLTB) tires, leaving the bus and rolling 100 feet away, and the bus, which was running out of tires in front of the tire, was standing in Badulla about 50 feet.
-
-A bus belonging to the Badulla depot, which owned the Sri Lanka Transport Board, was traveling from Springwelli to Badulla on Springwali Road, Badulla, on Thursday (22).
-
-The bus ran about 50 feet in front of the tires and stopped in the middle of the road. The tire pair run 100 feet away.
-
-The accident was severely affected by this accident. At the time of the accident, the bus had more than 100 passengers. They were not affected.
-
-Most of the passengers went to work and some were patients who were going to the Badulla Teaching Hospital for treatment.
-
-If the bus left the road, the passengers and the house below the street would have been damaged.
-
-◼️
-
-[Data](articles/f9065463.json)
-
-[Extended Data](ext_articles/f9065463.ext.json)
 
 ---

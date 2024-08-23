@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 20:21:29**
+As of **2024-08-23 20:37:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,221
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,294 (100.0%) of 42,295 articles have been extended.
+42,295 (100.0%) of 42,295 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,29 @@ Meanwhile, a T-56 assault rifle and ammunition were also seized during the opera
 
 ---
 
-### ක්ලබ් වසන්ත ඝාතනයේ වෙඩික්කරුවෙක් කොටුවෙයි
+### Shop a shooter in Club spring murder
 
 *2024-08-23 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200255) · `si`
 
-ක්ලබ් වසන්ත ඝාතනනයේ එක් වෙඩික්කරුවෙකු ත්‍රස්ත විමර්ශන කොට්ඨාසය මඟින් අද (23) අත්අඩංගුවට ගෙන තිබේ.
+A 31-year-old suspect, Ajith Rohana from Kalpitiya, was arrested by Sri Lanka's Terrorism Investigation Division for a murder at Club Spring. A second suspect, a 29-year-old man picked up from a bus, was also detained. The arrests were led by Senior Superintendent Prasanna Alwis under DIG Rohana Premaratne. Authorities found a T-56 rifle, 120 rounds, and 9mm pistol bullets with the suspects.
 
-31 හැවිරිදි පැටී අරඹගේ අජිත් රෝහණ නමැත්තා එලෙස අත්අඩංගුවට පත්ව ඇත්තේ දෙහිවල කවුඩාන ප්‍රදේශයේ දීය.
+🟩
 
-එමෙන්ම අතුරුගිරිය ප්‍රදේශයෙන් නිවසක් කුලියට ගත් සහ වෙඩික්කරුවන්  බස්‍ රථයෙන් කතරගම දක්වා රැගෙන ගිය පුද්ගලයා වන වයස අවුරුදු 29ක් වූ තාරුකාර වරුණ ඉන්දිකද සිල්වා නමැති සැකකරුවෙක් ද අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+One shodoor in Club Wasantha murder was arrested by the Terrorism Investigation Division this morning.
 
-ත්‍රස්ත විමර්ශන කොට්ඨාසය භාර නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතාගේ මෙහෙයවීම මත එහි ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ප්‍රසන්න අල්විස් මහතා ප්‍රමුඛ කණ්ඩායමක් මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
+The 31-year-old Kalpitiya, Ajith Rohana has been arrested in the Dehiwala Kiddena area.
 
-සැකකරුවන් සමග ටී-56 ගිනිඅවියක්, උණ්ඩ 120ක් හා මිලිමීටර් 9 පිස්තෝල උණ්ඩ තොගයක් සොයාගෙන ඇති බව පැවසේ.
+It is also reported that a suspect, who was the 29-year-old man who was hired from the bus from the bus, was also taken into custody.
+
+The arrest was made by Senior Superintendent of Police Prasanna Alwis on the direction of DIG Rohana Premaratne in charge of the Terrorist Investigation Division.
+
+It is said that a T-56 firearm with suspects have been recovered from 120 ammunition and 9 mm pistol bullets.
 
 ◼️
 
 [Data](articles/7aa5ee64.json)
+
+[Extended Data](ext_articles/7aa5ee64.ext.json)
 
 ---
 

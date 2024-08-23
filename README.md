@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 09:07:39**
+As of **2024-08-23 09:21:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,201 (100.0%) of 42,205 articles have been extended.
+42,205 (100.0%) of 42,205 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ In response, MRCC Colombo sought assistance from MRCC Chennai to rescue the stra
 
 [Data](articles/1e5ccfbd.json)
 
+[Extended Data](ext_articles/1e5ccfbd.ext.json)
+
 ---
 
 ### State Minister defends pre-poll subsidies as election watchdog voices concern
@@ -65,6 +67,8 @@ However, Hettiarachchi pointed out that, if essential, such measures should be i
 ◼️
 
 [Data](articles/7da3cfd7.json)
+
+[Extended Data](ext_articles/7da3cfd7.ext.json)
 
 ---
 
@@ -118,19 +122,25 @@ Western Province South Crimes Division is conducting further investigations.
 
 ---
 
-### එංගලන්ත පිතිකරුවන්ගෙන් ප්‍රහාරාත්මක ඉනිම්
+### Attachment of England batsmen
 
 *2024-08-23 07:51:50* · [`adalk`](https://www.ada.lk/sports/එංගලන්ත-පිතිකරුවන්ගෙන්-ප්‍රහාරාත්මක-ඉනිම්/9-411512) · `si`
 
-එංගලන්ත කණ්ඩායම හා ශ්‍රී ලංකාව අතර එංගලන්තයේ පැවැත්වෙන පළමු ටෙස්ට් තරගයේ දෙවැනි දිනය නිමාවට පත්වන විට එංගලන්ත කණ්ඩායම කඩුලු හයක් දැවි ලකුණු 259ක් රැස්කරගෙන සිටියි.
+On the second day of the first Test match against Sri Lanka, England made 259 runs losing 6 wickets. Sri Lanka leads by 23 runs. England's top six batsmen scored at a rate exceeding 70%, with an average scoring rate of over 4.24 per over. Players Smith and Oitkinson contributed significantly, alongside Asapitha Fernando who took 3 wickets.
 
-ඒ අනුව තවත් කඩුලු 4ක් අතැතිව ඔවුන් ශ්‍රී ලංකා පළමු ඉනිමට වඩා ලකුණු 23ක් ඉදිරියෙන් පසුවෙයි. පිළිතුරු ඉනිම ක්‍රිඩා කළ එංගලන්ත කණ්ඩායමේ මුල් පිතිකරුවන් 6 දෙනාම තම ප්‍රහාරාත්මක වේගය සියයට 70ට වඩා ඉහළින් තබා ගැනීමට කටුයුතු කර තිබුණු අතර ඔවුන්ගේ පන්දුවාරයකට ලකුණු රැස් කිරිමේ වේගය 4.24ක් තරම් ඉහළ අගයක පැවැතුණි.
+🟩
 
-එංගලන්තය වෙනුවෙන් නොදැවි පිටියේ රැදි සිටින කඩුලු රකින ක්‍රීඩක ස්මිත් ලකුනු 72ක් හා එයිට්කින්සන් ලකුනු 4ක් රැස්කරගෙන සිටියි. ලංකාව වෙනුවෙන් අසිත ප්‍රනාන්දු කඩුලු 3ක් දවා ගැනීමට සමත්විය.
+England, the second day of the first Test match between England and Sri Lanka, England scored 259 runs for six wickets.
+
+Accordingly, hundreds of more wickets and Sri Lanka are ahead of 23 runs. In reply, the six first batsmen of England played their offensive speed over 70 percent, and the speed of score of their overs was highly higher than 4.24.
+
+There are 72 players' player smiths and 4 Oitkinson litttes. Asapitha Fernando took 3 wickets.
 
 ◼️
 
 [Data](articles/e4576048.json)
+
+[Extended Data](ext_articles/e4576048.ext.json)
 
 ---
 
@@ -1020,21 +1030,27 @@ He said that the current President Ranil Wickremesinghe, who was a member of Par
 
 ---
 
-### பொருளாதாரத்துக்காக ஏன் வழக்கு தொடரவில்லை?
+### Why not sue for the economy?
 
 *2024-08-23 01:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்துக்காக-ஏன்-வழக்கு-தொடரவில்லை/175-342665) · `ta`
 
-உள்ளூராட்சி மன்றத் தேர்தலை பிற்போடுவது மக்களின் அடிப்படை உரிமை மீறல் என சுட்டிக்காட்டிய போதிலும், மக்களின் வாழ்வுரிமையைப் பாதுகாப்பதற்காக அந்தத் தேர்தலை நடத்த முடியாமல் போனதற்கு வருந்தவில்லை என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Wickremesinghe justified postponing local gov't elections due to economic stabilization efforts, emphasizing the importance of ensuring basic needs like food, medicine, and fuel over electoral processes. He committed to holding general and provincial council elections post-presidential polls, allocating funds accordingly.
 
-நாட்டின் பொருளாதாரத்தை ஸ்திரப்படுத்தும் வேலைத்திட்டத்தில் ஒவ்வொரு மணித்தியாலமும் பெறுமதி வாய்ந்தது என சுட்டிக்காட்டிய ஜனாதிபதி, உள்ளூராட்சி மன்ற தேர்தலை நடத்துவதற்கு அந்த நேரத்தை செலவிட்டிருந்தால் நாட்டின் பொருளாதாரத்தை மீட்டிருக்க முடியாது போயிருக்கும் எனவும் தெரிவித்தார்.
+🟩
 
-மஹரகம இளைஞர் சேவை மன்றக் கேட்போர் கூடத்தில் நேற்று (22) பிற்பகல் நடைபெற்ற புதிய மக்கள் முன்னணியின் தேசிய மாநாட்டில் உரையாற்றும்போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe has said that although the postponement of the local government elections is a violation of the fundamental rights of the people, he did not regret the election to protect the lives of the people.
 
-உணவு, மருந்து, எரிவாயு, எரிபொருள் இன்றி மக்களின் அன்றாட வாழ்க்கையைத் தொடர முடியாது என சுட்டிக்காட்டிய ஜனாதிபதி, கடந்த இரண்டு வருடங்களில் மக்களின் அடிப்படை உரிமைகளைப் பாதுகாக்கத் தன்னை அர்ப்பணித்துள்ளதாகவும் கூறினார்.
+The President pointed out that every hour is valued in the program of stabilizing the country's economy, the president said that if the time had been spent on holding the local government elections, the country's economy would not have been restored.
+
+The President made this statement while addressing the National Conference of the New People's Front held at the Maharagama Youth Service Council auditorium yesterday afternoon.
+
+Pointing out that people cannot continue their daily lives without food, medicine, gas and fuel, the president said that in the last two years, he has dedicated himself to protect the basic rights of the people.
 
 ...
 
 [Data](articles/6e9984fc.json)
+
+[Extended Data](ext_articles/6e9984fc.ext.json)
 
 ---
 

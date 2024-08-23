@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 19:56:09**
+As of **2024-08-23 20:08:48**
 
 ## Newspaper Stats
 
-*Scraped **42,292** Articles*
+*Scraped **42,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 2,566
 dailyftlk | 2,742
 adalk | 3,899
 dailymirrorlk | 4,733
-adaderanalk | 4,959
+adaderanalk | 4,960
 tamilmirrorlk | 5,488
 virakesarilk | 6,723
-adaderanasinhalalk | 7,219
+adaderanasinhalalk | 7,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,292 (100.0%) of 42,292 articles have been extended.
+42,292 (100.0%) of 42,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### Suspected gunman in ‘Club Wasantha’ murder arrested in Dehiwala
+
+*2024-08-23 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101456/suspected-gunman-in-club-wasantha-murder-arrested-in-dehiwala) · `en`
+
+The Terrorism Investigation Division (TID) has arrested one of the suspected gunmen involved in the recent killing of two persons including ‘Club Wasantha’ in the Athurugiriya area.
+
+The suspects has reportedly been by the TID in the Dehiwala area.
+
+Meanwhile, a T-56 assault rifle and ammunition were also seized during the operation, said Sri Lanka Police.
+
+◼️
+
+[Data](articles/3a66fcfc.json)
+
+---
+
+### දුම්රිය ප්‍රවේශපත්‍රය ඩිජිටල් වෙයි
+
+*2024-08-23 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200254) · `si`
+
+මෙරට ප්‍රථම වරට දුම්රිය මගීන්ට අන්තර්ජාලය ඔස්සේ ප්‍රවේශපත් නිකුත් කිරීමට www.pravesha.lk ලෙස නව වෙබ් අඩවියක් හඳුන්වාදීමට රජය කටයුතු කර තිබේ.
+
+මේ සම්බන්ධව අදහස් දක්වමින් ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් ඉංජිනේරු රංජිත් රූබසිංහ පවසන්නේ කෙටි දුර ගමන් ගන්නා දුම්රිය මගීන්ට සිය ජංගම දුරකථනය භාවිතයෙන් අන්තර්ජාලය ඔස්සේ ප්‍රවේශපත්‍ර මේ තුළින් මිලදී ගත හැකි බවය.
+
+මෙහි පළමු අදියරේදී වාර ප්‍රවේශපත්‍ර හිමියන් ඇතුළත් නොවන නමුත් ඉදිරියේදී වාර ප්‍රවේශපත්‍ර හිමියන් සඳහාද නව ක්‍රමය ක්‍රියාත්මක කිරීමට බලාපොරොත්තු වන බවත් ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/b256ed6c.json)
+
+---
 
 ### No decision made to cancel un-updated driving licenses – Transport Ministry
 
@@ -2305,43 +2337,5 @@ In a true democracy, the selection of candidates and the election process should
 [Data](articles/6aa03193.json)
 
 [Extended Data](ext_articles/6aa03193.ext.json)
-
----
-
-### Civil Society appeal for abolition of Executive Presidency
-
-*2024-08-23 05:13:49* · [`dailyftlk`](https://www.ft.lk/opinion/Civil-Society-appeal-for-abolition-of-Executive-Presidency/14-765895) · `en`
-
-The experience of 46 years of the operation of the 1978 Constitution shows that the executive presidential system has not delivered on any of the aims for which it was introduced
-
-We the undersigned call upon all candidates contesting the forthcoming 2024 Presidential election to firmly and publicly commit to the abolition of the executive presidential system within the first year of the next Parliament.
-
-The experience of 46 years of the operation of the 1978 Constitution shows that the executive presidential system has not delivered on any of the aims for which it was introduced: accelerated and sustained economic growth and development; communal harmony; and political stability. Executive presidentialism has only had a negligible impact on development. It has worsened rather than improved peace and stability, by accelerating ethnic conflict and making our political system prone to frequent crises.
-
-...
-
-[Data](articles/9ef756e9.json)
-
-[Extended Data](ext_articles/9ef756e9.ext.json)
-
----
-
-### Career woman vs motherhood: Can you really have it all?
-
-*2024-08-23 04:31:36* · [`dailyftlk`](https://www.ft.lk/business/Career-woman-vs-motherhood-Can-you-really-have-it-all/34-765882) · `en`
-
-Fast-moving industry requires up skilling of working women after career break
-
-Workplaces with updated policies that reflect voices of employees is a must
-
-It is difficult to achieve perfect balance, but having it all is possible for mothers with high career aspirations, it only requires effort, prioritisation, a support network, and the right workplace with the equitable policies, said some mom-leaders recently.
-
-This discussion on the impact of motherhood on women’s careers took place at the Mom Leaders Conference 2024 organised by Parenthood Global, a social-networking and knowledge-sharing platform for parents. Industry experts and mothers in top positions spoke on their inspiring experiences, highlighting the struggles of working mothers and the need for systemic change within the workplace.
-
-...
-
-[Data](articles/3effd95b.json)
-
-[Extended Data](ext_articles/3effd95b.ext.json)
 
 ---

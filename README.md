@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 01:37:08**
+As of **2024-08-24 01:55:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,318 (100.0%) of 42,328 articles have been extended.
+42,324 (100.0%) of 42,328 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -306,6 +306,8 @@ While economic losses and damages—such as destruction of property, assets, inf
 
 [Data](articles/1aa25120.json)
 
+[Extended Data](ext_articles/1aa25120.ext.json)
+
 ---
 
 ### Hubris and nemesis
@@ -326,25 +328,33 @@ The President said he was not remorseful as the time was dedicated to ensuring t
 
 [Data](articles/b65436af.json)
 
+[Extended Data](ext_articles/b65436af.ext.json)
+
 ---
 
-### கிளப் வசந்த படுகொலை : பிரதான துப்பாக்கிதாரி கைது
+### Club Vasantha Massacre: Main gunman arrested
 
 *2024-08-23 23:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191834) · `ta`
 
-கிளப் வசந்த படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் துப்பாக்கிச் சூடு நடத்தியவர்களில் பிரதான துப்பாக்கிதாரி ஒருவர் பயங்கரவாத புலனாய்வுப் பிரிவினரால் வெள்ளிக்கிழமை (23) கைது செய்யப்பட்டுள்ளார்.
+Main gunmen involved in the Club Vasantha massacre have been arrested. Ajith Rohana, 31, and Daruna Varuna Silva, 29, were apprehended along with others. A cache of weapons including a T-56 rifle, 120 bullets, and 9mm pistol bullets were seized. The arrests were made under the leadership of Senior Police Superintendent Prasanna Alwis, directed by Deputy Inspector General Rohan Premaratne of the Terrorist Investigation Division.
 
-31 வயதான அஜித் ரோஹன என்பவரே தெஹிவளை கௌடான பிரதேசத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-அத்துடன், அத்துருகிரிய பிரதேசத்தில் இருந்து வீடொன்றை வாடகைக்கு எடுத்து துப்பாக்கிச் சூடு நடத்தியவர்களை பஸ்ஸில் கதிர்காமத்திற்கு அழைத்துச் சென்ற நபரான 29 வயதுடைய தருகர வருண இந்திக்கட சில்வா என்ற சந்தேக நபரும் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+A main gunman has been arrested by the terrorist intelligence unit on Friday (23) in connection with the murder of the club spring.
 
-பயங்கரவாத விசாரணைப் பிரிவிற்குப் பொறுப்பான பிரதிப் பொலிஸ் மா அதிபர் ரொஹான் பிரேமரத்னவின் பணிப்புரையின் கீழ் அதன் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் பிரசன்ன அல்விஸ் தலைமையிலான குழுவினர் கைது செய்துள்ளனர்.
+31 -year -old Ajith Rohana has been arrested in Gautana, Dehiwala.
 
-சந்தேகநபர்களிடம் இருந்து டி-56 துப்பாக்கி, 120 தோட்டாக்கள் மற்றும் 9 மி.மீ பிஸ்டல் தோட்டாக்கள் கைப்பற்றப்பட்டமை குறிப்பிடத்தக்கது.
+It is also reported that the 29 -year -old Daruna Varuna Silva, a 29 -year -old man, was arrested by a man who had rented a house from the Athurugiriya area and took them to Kadirgama on the bus.
+
+A team led by Senior Police Superintendent Prasanna Alwis has been arrested under the direction of Deputy Inspector General of Police Rohan Premaratne, who is in charge of the Terrorist Investigation Division.
+
+It is noteworthy that the T-56 rifle, 120 bullets and 9 mm pistol bullets were seized from the suspects.
 
 ◼️
 
 [Data](articles/f44c1c8b.json)
+
+[Extended Data](ext_articles/f44c1c8b.ext.json)
 
 ---
 
@@ -588,55 +598,77 @@ Batting first Sri Lanka scored 236 runs while England scored 358 runs for the fi
 
 ---
 
-### எனக்கு ஆதரவு வழங்குங்கள் :கலந்துரையாட வருமாறு தமிழ் பொதுக்கட்டமைப்பினருக்கு ஜனாதிபதி அழைப்பு
+### Give me support: President invitation to Tamil General Public Advisory
 
 *2024-08-23 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191810) · `ta`
 
-இம்முறை ஜனாதிபதித்தேர்தலில் தனக்கு ஆதரவு வழங்குமாறும், அதனை முன்னிறுத்தி தமிழ் சமூகத்தின் எதிர்பார்ப்புக்கள் என்னவென்பது பற்றிக் கலந்துரையாடுவதற்கு வருமாறும் தமிழ் பொதுக்கட்டமைப்பினருக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க மீண்டும் அழைப்புவிடுத்திருக்கிறார்.
+President Ranil Wickremesinghe seeks Tamil community support for his presidential bid, promising economic stability and development for all citizens. The Tamil National Alliance names P. Ariyanethran as their general candidate for the upcoming election. Despite initial lack of participation from the Tamil public in negotiations, key figures from the Tamil community engage with President Wickremesinghe, expressing hopes for dialogue on community expectations.
 
-அத்தோடு தமது கூட்டணி தமிழ் மக்களுக்கு மாத்திரமன்றி இந்நாட்டின் சகல பிரஜைகளுக்கும் நன்மையளிப்பதாக அமையும் எனவும் அவர் நம்பிக்கை வெளியிட்டிருக்கிறார்.
+🟩
 
-நாட்டின் ஒன்பதாவது ஜனாதிபதித்தேர்தல் எதிர்வரும் செப்டெம்பர் மாதம் 23 ஆம் திகதி நடைபெறவுள்ள நிலையில், தமிழ்த்தேசிய அரசியல் கட்சிகள் மற்றும் சிவில் சமூகப்பிரதிநிதிகள் இணைந்து உருவாக்கிய தமிழ் பொதுக்கட்டமைப்பினால் இலங்கைத் தமிழரசுக்கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் பா.அரியநேத்திரன் பொதுவேட்பாளராகக் களமிறக்கப்பட்டுள்ளார்.
+President Ranil Wickremesinghe has called on the Tamil General Assembly to support him in the presidential election and to discuss the expectations of the Tamil community.
 
-இம்முறை தேர்தலில் சுயேட்சை வேட்பாளராகக் களமிறங்கியிருக்கும் ஜனாதிபதி ரணில் விக்ரமசிங்க ஏற்கனவே தமிழ் பொதுக்கட்டமைப்பினரைப் பேச்சுவார்த்தைக்கு அழைத்திருந்த போதிலும், அவர்கள் அப்பேச்சுவார்த்தையில் கலந்துகொண்டிருக்கவில்லை.
+He also expressed his hope that his alliance would benefit all the citizens of the country.
+
+As the country's ninth presidential election is scheduled to be held on September 23, former Sri Lankan Tamil National Alliance (TNA) parliamentarian P. Ariyanethran has been named general candidate by the Tamil National Alliance (TNA) co -created by Tamil National Political Parties and Civil Social Finances.
+
+President Ranil Wickremesinghe, who is the Independent candidate in this election, has already called on the Tamil public for talks, but they have not participated in the negotiation.
 
 ...
 
 [Data](articles/32c6f48a.json)
 
+[Extended Data](ext_articles/32c6f48a.ext.json)
+
 ---
 
-### சாலா - விமர்சனம்
+### Sala - Review
 
 *2024-08-23 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191812) · `ta`
 
-நடிகர்கள் : தீரன், ரேஷ்மா வெங்கடேஷ், சார்லஸ் வினோத், ஸ்ரீ நாத், அருள்தாஸ், சம்பத் ராம், யோகி ராம் மற்றும் பலர்.
+"Sala," directed by Prabhu Solomon, is the first film from Manipal, focusing on the impact of alcoholism. It tells the story of rival gangs, led by Arul Das and Charles Vinod, over control of a liquor bar. An orphan boy saves Arul Das from an attack and later becomes his protector. Meanwhile, Punitha, a private school teacher, fights against liquor stores, facing opposition from alcohol lovers. The film aims to highlight the dangers of alcohol addiction and the need for its regulation, presented in an entertaining manner. Despite its engaging plot and performances, especially from newcomer actors, it lacks depth in certain areas but succeeds in sparking thought and discussion on the issue.
 
-இயக்குநர் பிரபு சாலமனிடம் சினிமாவை கற்ற அவரது உதவியாளரான எஸ். டி. மணிப்பால் இயக்கத்தில் உருவாகி இருக்கும் முதல் திரைப்படம் 'சாலா'. தலைப்புக் குறித்த விவாதம் ரசிகர்களிடத்தில் இருந்தாலும் இந்த திரைப்படம் மதுவை குறித்த விழிப்புணர்வை பொழுதுபோக்கு அம்சங்களுடன் விவரிக்கிறது என்பதால் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதனை முதலில் காண்போம்.
+🟩
 
-குணா (அருள்தாஸ்) வட சென்னையில் மதுபானக் கூடங்களை குத்தகைக்கு எடுத்து நடத்துபவர். குறிப்பிட்ட மதுபானக் கூடத்தை ஏலம் எடுப்பதில் அருள்தாஸ் கும்பலுக்கும் அவருடைய எதிரியான தங்கதுரை ( சார்லஸ் வினோத்) கும்பலுக்கும் இடையே கைகலப்பும், வன்முறையும் ஏற்படுகிறது. இதனால் அரசாங்கம் அந்த மதுபான கூட்டத்திற்கு சீல் வைக்கிறது.
+Actors: Theeran, Reshma Venkatesh, Charles Vinod, Sri Nath, Arul Das, Sampath Ram, Yogi Ram and others.
+
+Director Prabhu Solomon learned cinema. D. 'Sala' is the first film to be produced by Manipal. Even though the debate on the topic is among fans, is the film attracted all the fans because the film describes the awareness of alcohol with entertainment?Or not?Let us first see.
+
+Guna (Aruldas). The auction of a specific liquor bar is caused by the Arul Das gang and his enemy, the Thangadurai (Charles Vinod) gang.. The government thus seals the liquor crowd.
+
+In the meantime, a boy who is an orphaned there saves Aruldas (Tiran) Aruldas, who is there at that moment, to attack Aruldas his enemy gang due to a competition in a bidder. The boy is the hero of the story.When he grows up, he is safe for Arul Das.
 
 ...
 
 [Data](articles/1520f85c.json)
 
+[Extended Data](ext_articles/1520f85c.ext.json)
+
 ---
 
-### போகுமிடம் வெகு தூரமில்லை - விமர்சனம்
+### Going is not too far - Review
 
 *2024-08-23 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191814) · `ta`
 
-நடிகர்கள் : விமல், கருணாஸ், மேரி ரிக்கெட்ஸ், 'ஆடுகளம்' நரேன், பவன், மனோஜ் குமார், தீபா ஷங்கர், சார்லஸ் வினோத் மற்றும் பலர்.
+"Review: A poignant tale featuring Wimal as Driver Kumar, tasked with transporting a corpse from Chennai to Tirunelveli amidst personal challenges. The story explores themes of family conflict, compassion, and resilience through its characters, including Mary Rickets as Kalaiyazhaki and Karunas as street artist Nalina Murthy. Despite its emotional depth and engaging screenplay, the narrative falters in its second half, lacking closure for Nalina Murthy's character and failing to fully capitalize on its initial plot twists."
 
-பிண கூறாய்வு செய்யப்பட்ட சடலங்களை வைத்திய சாலையிலிருந்து ஏற்றிக்கொண்டு, இறந்தவர்களின் வீட்டிற்கு எடுத்துச் சென்று ஒப்படைக்கும் அமரர் ஊர்தி வாகனத்தை இயக்கும் சாரதியான குமார் ( விமல்) - தன் மனைவி கலையழகி ( மேரி ரிக்கெட்ஸ்)யை பிரசவத்திற்காக தனியார் வைத்திய சாலையில் அனுமதித்திருக்கிறார்.
+🟩
 
-அங்கு பிரசவம் பார்ப்பதற்காக இந்திய மதிப்பில் முப்பதாயிரத்தை கட்டணமாக செலுத்த வேண்டும் என வைத்தியசாலை நிர்வாகம் நிர்பந்திக்கிறது. இதற்காக குமார் சென்னையிலிருந்து திருநெல்வேலிக்கு பிண கூறாய்வு செய்யப்பட்ட சடலத்தை தன்னுடைய வாகனத்தில் எடுத்து செல்கிறார். 'உனது வாகனம் பயணத்தில் தடையை ஏற்படுத்தும்.
+Actors: Wimal, Karunas, Mary Rickets, 'Aadulam' Narain, Pawan, Manoj Kumar, Deepa Shankar, Charles Vinod and many others.
 
-இதனை ஏன் பயன்படுத்துகிறாய்?' என வைத்தியசாலை ஊழியர் கேட்க அதற்கு குமார் 'சரியாக ஒப்படைத்து விடுகிறேன்' என்று வாக்குறுதி அளித்து விட்டு சடலத்தை ஏற்றிக்கொண்டு சென்னையிலிருந்து திருநெல்வேலிக்கு புறப்படுகிறார்.
+Driver Kumar (Wimal), who operates the carriage of the corpse, has been loaded from the hospital and handed over to the house of the deceased, Kumar (Wimal) - has allowed his wife Kalaiyazhaki (Mary Rickets) to the private hospital for delivery.
+
+The hospital administration is forced to pay thirty thousand fees in Indian value for delivery there.. For this, Kumar takes the corpse from Chennai to Tirunelveli in his vehicle. 'Your vehicle will make a barrier on the journey.
+
+Why do you use it? 'Asked by a hospital employee, Kumar promises to 'hand over it properly' and leaves the corpse and leaves to Tirunelveli from Chennai.
+
+The two heirs of the two are the official wife and an unofficial wife of the deceased.. Thus the two sides are gathering their support for their relatives.
 
 ...
 
 [Data](articles/c692ecf6.json)
+
+[Extended Data](ext_articles/c692ecf6.ext.json)
 
 ---
 

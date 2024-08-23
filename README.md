@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 19:37:02**
+As of **2024-08-23 19:56:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,219
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,291 (100.0%) of 42,292 articles have been extended.
+42,292 (100.0%) of 42,292 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -176,15 +176,21 @@ A few months ago, the state service was ineffective and the number of state offi
 
 ---
 
-### පාර්ලිමේන්තු අසුනක් හිස්ව ඇති බව මැකොට දන්වයි
+### Maccapa Agends
 
 *2024-08-23 17:34:18* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-අසුනක්-හිස්ව-ඇති-බව-මැකොට-දන්වයි/11-411524) · `si`
 
-රත්නපුර මැතිවරණ කොට්ඨාශයේ පාර්ලිමේන්තු මන්ත්‍රී තලතා අතුකෝරල මහත්මිය 2024 අගෝස්තු  මස 21 වැනි දින සිට බල පැවැත්වෙන පරිදි පාර්ලිමේන්තු අසුනෙන් ඉල්ලා අස්වීම හේතුවෙන් නව වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක පුරප්පාඩුවක් ඇති වී තිබෙන බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණදීර මහත්මිය  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා තිබේ.  1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම් දීම සිදුකර ඇත
+Kushani Rohanaya, the Secretary General of Parliament, has been notified about the upcoming parliamentary elections due to the resignation of the Parliamentary Senara, effective from August 2024. This announcement aligns with Section 64(1) of the Parliament Election Act, No. 1 of 1981.
+
+🟩
+
+The Secretary General of Parliament Kushani Rohanaya has been informed by the Secretary General of Parliament, a member of the Elections for the Selection of Parliament as a result of the resignation of the Parliamentary Senera from August 2024.This was made in terms of Section 64 (1) of the Parliament Election Act, No. 1 of 1981.
 
 ◼️
 
 [Data](articles/5c22e3c3.json)
+
+[Extended Data](ext_articles/5c22e3c3.ext.json)
 
 ---
 

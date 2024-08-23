@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 21:56:29**
+As of **2024-08-23 22:10:32**
 
 ## Newspaper Stats
 
-*Scraped **42,299** Articles*
+*Scraped **42,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,566
 dailyftlk | 2,742
 adalk | 3,899
 dailymirrorlk | 4,733
-adaderanalk | 4,960
+adaderanalk | 4,961
 tamilmirrorlk | 5,488
 virakesarilk | 6,723
 adaderanasinhalalk | 7,225
@@ -26,69 +26,107 @@ adaderanasinhalalk | 7,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,296 (100.0%) of 42,299 articles have been extended.
+42,299 (100.0%) of 42,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### ව්‍යාපාරිකයන් රවටා හිඟ බදු මුදල් එකතු කරන පිරිසක් ගැන දැනුම්දීමක්
+### Sri Lanka starts issuance of train tickets online
+
+*2024-08-23 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101457/sri-lanka-starts-issuance-of-train-tickets-online) · `en`
+
+For the first time in Sri Lanka, the government has introduced an online platform (www.pravesha.lk) for railway passengers to purchase tickets.
+
+This new system now allows passengers traveling even short distances to buy train tickets using their mobile phones.
+
+Speaking about the initiative, the Ssecretary of the Ministry of Transport and Highways, Eng. Ranjith Rubasinghe, stated the issuance of train tickets online has been effective since yesterday (22).
+
+“Passengers can now purchase digital train tickets through the website www.pravesha.lk eliminating the need to wait in queue. Tickets will still be available at counters for those who prefer to purchase them in person.”
+
+“We plan to introduce this online system for season tickets before the end of this year. Additionally, new methods for train seat reservations and goods transportation will be rolled out over the next three months,” he said.
+
+◼️
+
+[Data](articles/a99ae7fb.json)
+
+---
+
+### Notice of a group of businessmen who deceive departments deficit taxes
 
 *2024-08-23 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200259) · `si`
 
-දේශීය ආදායම් දෙපාර්තමේන්තු නිලධාරීන් ලෙස පෙනී සිටිමින් වංචනික පිරිසක් මුදල් එක් රැස් කරමින් සිටින බවට වාර්තා වී තිබේ.
+A group of impostors posing as Inland Revenue Officers in Colombo, Panaduwa, Negombo, Wennappuwa, Minuwangoda are defrauding taxpayers. The real Department warns against giving money to these scammers, promising only to collect taxes directly from citizens. Anyone caught will be prosecuted.
 
-දේශීය ආදායම් දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් පවසන්නේ කොළඹ, පානදුර, මීගමුව, වෙන්නප්පුව, මිනුවන්ගොඩ ආදී ප්‍රදේශවල ව්‍යාපාරික ස්ථාන වෙත ගොස් අයවිය යුතු බදු සඳහා වූ මුදල් මෙලෙස පුද්ගල කණ්ඩායමක් විසින් එක් රැස් කරන බවට පැමිණිලි ලැබී ඇති බවය.
+🟩
 
-බදු වර්ගවලට අදාළ බදු මුදල් රැස් කිරීමේදි දේශීය ආදායම් නිලධාරීන් විසින් බදු ගෙවන්නන් වෙත ගොස් දේශීය අදායම් කොමසාරිස් ජනරාල් නමින් පවත්වාගෙන යන බැංකු ගිණුම් වලට පමණක් බදු මුදල් තැන්පත් කිරීමට උපදෙස් දෙන බව එම දෙපාර්තමේන්තුව පවසයි.
+It is reported that a fraudulent group of fraudulers are presenting as the Inland Revenue Officers.
 
-මේ හැර වෙනත් කිසිදු අවස්ථාවක මුදල් හෝ චෙක්පත් එකතු කිරීමක් සිදු නොවන බවද එම නිවේදනයේ සඳහන්ව ඇත.
+The Inland Revenue Department issues complaint that the money for taxes should be collected by a group of people in Colombo, Panaduwa, Negombo, Wennappuwa, Minuwangoda.
 
-මේ හේතුවෙන් වංචනික පුද්ගලයන් වෙත මුදල් ලබා නොදන ලෙස හා ඔවුන් නීතියේ රැහැනට හසු කර දෙන ලෙස එම දෙපාර්තමේන්තුව මහජනතාවගෙන් ඉල්ලීමක් කර තිබේ.
+The Department of Inland Revenue Officers will be instructed to deposit taxes to the taxpayers when raising taxes related to taxes.
 
-තවද දැනටමත් එවැනි වංචනිකයන්ට හසුවී ඇත්නම් අදාළ පොලිස් ස්ථාන වෙත පැමිණිලි කරන ලෙසත් එම දෙපාර්තමේන්තුව අදාළ නිවේදනය මගින් දැනුම් දී ඇත.
+In the announcement, other than this, there is no money or check collection.
+
+As a result, the Department has requested the public to not give money to fraudulent persons and capturing them in law.
+
+Already, if such fraudsters have been caught, the Department has also been reported to the relevant police stations.
 
 ◼️
 
 [Data](articles/355e2820.json)
 
+[Extended Data](ext_articles/355e2820.ext.json)
+
 ---
 
-### මගී ප්‍රවාහන අධිකාරි නිලධාරියෙක් අල්ලස් දැලේ
+### A passenger transport officer arrested
 
 *2024-08-23 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200258) · `si`
 
-රුපියල් 60,000ක මුදලක් අල්ලස් ලෙස ලබා ගැනීමේ චෝදනා මත සබරගමුව මාර්ගස්ත මගී ප්‍රවාහන අධිකාරියේ නිලධාරියෙකු අල්ලස් කොමිසම මඟින් අත්අඩංගුවට ගෙන තිබේ.
+A Sabaragamuwa passenger transport officer was arrested by the Bribery Commission for accepting Rs. 60,000. The arrest followed a complaint from Pinnawala. The officer was remanded until September 05 after being produced in court.
 
-පින්නවල ප්‍රදේශයේ පුද්ගලයෙකු විසින් සිදුකරන ලද පැමිණිල්ලකට අනුව අදාළ නිලධාරියා අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+🟩
 
-පැමිණිලිකරුට අයත් බස් රථය ධාවනය කිරීමට ලබා දී ඇති වේලාවන් සංශෝධනය කර දීමට අදාළ නිර්දේශ ලබා දීම වෙනුවෙන් එම නිලධාරියා රුපියල් 60,000ක මුදලක් ලබා ගෙන ඇති බව අල්ලස් කොමිසම සඳහන් කළේය.
+A passenger passenger officer of the Sabaragamuwa Advertisement has been arrested by the Bribery Commission on charges of accepting Rs. 60,000.
 
-අත්අඩංගුවට ගත් සැකකරු බලංගොඩ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ලබන සැප්තැම්බර් 05 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+The relevant officer had been arrested following a complaint made by a person by a person in the Pinnawala area.
+
+The official said that the officer had obtained Rs.
+
+The suspect was produced before the Balangoda Magistrate's Court and remanded until September 05.
 
 ◼️
 
 [Data](articles/6ed966f2.json)
 
+[Extended Data](ext_articles/6ed966f2.ext.json)
+
 ---
 
-### විනය කමිටුව හමුවට ගිය දික්වැල්ල වරද පිළිගනියි?
+### Dickwella wins the disciplinary committee to visit the disciplinary committee?
 
 *2024-08-23 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200257) · `si`
 
-තහනම් උත්තේජක ලබා ගත් බවට චෝදනා එල්ල වූ ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක නිරෝෂන් දික්වැල්ල අද (23) ක්‍රීඩා විනය කමිටුව හමුවේ පෙනී සිටියේය.
+Niroshan Dickwella, a cricketer from SLC, faced the Sports Disciplinary Committee over allegations of cocaine use, resulting in his ban from Sri Lanka Cricket.
 
-දික්වැල්ල මෙහිදී පැය එකහමාරකට අධික කාලයක් එම කමිටුව හමුවේ ප්‍රකාශ ලබා දී තිබේ.
+🟩
 
-තමා කොකේන් භාවිත කළ බව ක්‍රීඩා විනය කමිටුව හමුවේ නිරෝෂන් දික්වැල්ල පිළිගෙන ඇතැයි වාර්තා වෙයි
+SLC Niroshan Dickwella appeared before the Sports Disciplinary Committee today.
 
-නිමා වූ ලංකා ප්‍රිමියර් ලිග් ක්‍රිකට් තරගාවලියේදී තහනම් උත්තේජක ලබාගත් බවට චෝදනා එල්ල වූ ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක නිරෝෂන් දික්වැල්ලට ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් මේ වන විට සියලු ආකාරයේ ක්‍රිකට් තහනමක් පනවා ඇත.
+Dikwella has been given to the committee for more than one hour and a half.
 
-තහනම් උත්තේජක චෝදනා එල්ල වූ දික්වැල්ල ක්‍රීඩා විද්‍යායතනයේදී  ක්‍රීඩා විනය කමිටුව හමුවේ අද පෙනී සිටියේ පස්වරු 2.30ට පමණය.
+It is reported that Niroshan Dickwella has been admitted to the Sports Disciplinary Committee that he used cocaine
+
+SLC Niroshan Dickwella has banned Sri Lanka Cricket Niroshan Dickwella.
+
+The Sports Disciplinary Committee appeared to the Sports Disciplinary Committee at Dikwella, Dickwella, Dikwella, Dickwella, Dickwella.
 
 ◼️
 
 [Data](articles/e18d25f2.json)
+
+[Extended Data](ext_articles/e18d25f2.ext.json)
 
 ---
 
@@ -2341,23 +2379,5 @@ Accordingly, the water tariff of domestic users has been reduced by 7%, governme
 [Data](articles/9db151f4.json)
 
 [Extended Data](ext_articles/9db151f4.ext.json)
-
----
-
-### Water charges release amendment gazette
-
-*2024-08-23 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200226) · `si`
-
-New water charges take effect August 21 as per gazette amendment.
-
-🟩
-
-Accordingly, the new water charges will be implemented on August 21.
-
-◼️
-
-[Data](articles/e456e01b.json)
-
-[Extended Data](ext_articles/e456e01b.ext.json)
 
 ---

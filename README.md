@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 20:08:48**
+As of **2024-08-23 20:21:29**
 
 ## Newspaper Stats
 
-*Scraped **42,294** Articles*
+*Scraped **42,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 4,960
 tamilmirrorlk | 5,488
 virakesarilk | 6,723
-adaderanasinhalalk | 7,220
+adaderanasinhalalk | 7,221
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,292 (100.0%) of 42,294 articles have been extended.
+42,294 (100.0%) of 42,295 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,7 +38,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Terrorism Investigation Division (TID) has arrested one of the suspected gunmen involved in the recent killing of two persons including ‘Club Wasantha’ in the Athurugiriya area.
 
-The suspects has reportedly been by the TID in the Dehiwala area.
+The suspect has reportedly been by the TID in the Dehiwala area.
 
 Meanwhile, a T-56 assault rifle and ammunition were also seized during the operation, said Sri Lanka Police.
 
@@ -46,21 +46,49 @@ Meanwhile, a T-56 assault rifle and ammunition were also seized during the opera
 
 [Data](articles/3a66fcfc.json)
 
+[Extended Data](ext_articles/3a66fcfc.ext.json)
+
 ---
 
-### දුම්රිය ප්‍රවේශපත්‍රය ඩිජිටල් වෙයි
+### ක්ලබ් වසන්ත ඝාතනයේ වෙඩික්කරුවෙක් කොටුවෙයි
+
+*2024-08-23 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200255) · `si`
+
+ක්ලබ් වසන්ත ඝාතනනයේ එක් වෙඩික්කරුවෙකු ත්‍රස්ත විමර්ශන කොට්ඨාසය මඟින් අද (23) අත්අඩංගුවට ගෙන තිබේ.
+
+31 හැවිරිදි පැටී අරඹගේ අජිත් රෝහණ නමැත්තා එලෙස අත්අඩංගුවට පත්ව ඇත්තේ දෙහිවල කවුඩාන ප්‍රදේශයේ දීය.
+
+එමෙන්ම අතුරුගිරිය ප්‍රදේශයෙන් නිවසක් කුලියට ගත් සහ වෙඩික්කරුවන්  බස්‍ රථයෙන් කතරගම දක්වා රැගෙන ගිය පුද්ගලයා වන වයස අවුරුදු 29ක් වූ තාරුකාර වරුණ ඉන්දිකද සිල්වා නමැති සැකකරුවෙක් ද අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+
+ත්‍රස්ත විමර්ශන කොට්ඨාසය භාර නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතාගේ මෙහෙයවීම මත එහි ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ප්‍රසන්න අල්විස් මහතා ප්‍රමුඛ කණ්ඩායමක් මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
+
+සැකකරුවන් සමග ටී-56 ගිනිඅවියක්, උණ්ඩ 120ක් හා මිලිමීටර් 9 පිස්තෝල උණ්ඩ තොගයක් සොයාගෙන ඇති බව පැවසේ.
+
+◼️
+
+[Data](articles/7aa5ee64.json)
+
+---
+
+### The train ticket is digital
 
 *2024-08-23 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200254) · `si`
 
-මෙරට ප්‍රථම වරට දුම්රිය මගීන්ට අන්තර්ජාලය ඔස්සේ ප්‍රවේශපත් නිකුත් කිරීමට www.pravesha.lk ලෙස නව වෙබ් අඩවියක් හඳුන්වාදීමට රජය කටයුතු කර තිබේ.
+Sri Lanka introduces its first online train ticketing system, allowing short-distance passengers to buy tickets via mobile. The initial phase excludes time-based tickets, but future implementations are anticipated.
 
-මේ සම්බන්ධව අදහස් දක්වමින් ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් ඉංජිනේරු රංජිත් රූබසිංහ පවසන්නේ කෙටි දුර ගමන් ගන්නා දුම්රිය මගීන්ට සිය ජංගම දුරකථනය භාවිතයෙන් අන්තර්ජාලය ඔස්සේ ප්‍රවේශපත්‍ර මේ තුළින් මිලදී ගත හැකි බවය.
+🟩
 
-මෙහි පළමු අදියරේදී වාර ප්‍රවේශපත්‍ර හිමියන් ඇතුළත් නොවන නමුත් ඉදිරියේදී වාර ප්‍රවේශපත්‍ර හිමියන් සඳහාද නව ක්‍රමය ක්‍රියාත්මක කිරීමට බලාපොරොත්තු වන බවත් ඔහු පැවසීය.
+The government has introduced a new website to issue a new website to issue tickets online for the first time in Sri Lanka.
+
+Secretary to the Ministry of Transport and Highways (Ministry of Transport and Highways) Ranjith Rubasinghe says that the short distance train passengers can be purchased online using their mobile phone.
+
+The first phase are not included in the first phase of the times ticket, but the new system is expected to be implemented in the future.
 
 ◼️
 
 [Data](articles/b256ed6c.json)
+
+[Extended Data](ext_articles/b256ed6c.ext.json)
 
 ---
 
@@ -2323,19 +2351,5 @@ Nominations have closed for the long awaited 2024 Presidential election. 39 cand
 [Data](articles/a323e8b9.json)
 
 [Extended Data](ext_articles/a323e8b9.ext.json)
-
----
-
-### Make your vote count
-
-*2024-08-23 05:16:44* · [`dailyftlk`](https://www.ft.lk/columns/Make-your-vote-count/4-765896) · `en`
-
-In a true democracy, the selection of candidates and the election process should involve the entire population equally. Unfortunately, our current election rules allow only a select few to become candidates without requiring any public endorsement, such as a stepwise regional election process within the party. Our system favours existing politicians and makes it virtually impossible to register a political party to address specific issues. It is a significant obstacle to a fair and inclusive democratic process. Despite the wishes expressed by the ordinary people during ‘Aragalaya 2022,’ we are left with mostly the same 225 candidates to choose from once again, a situation that should concern us all.
-
-...
-
-[Data](articles/6aa03193.json)
-
-[Extended Data](ext_articles/6aa03193.ext.json)
 
 ---

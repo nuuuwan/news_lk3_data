@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 10:36:50**
+As of **2024-08-23 10:55:17**
 
 ## Newspaper Stats
 
-*Scraped **42,211** Articles*
+*Scraped **42,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,742
 adalk | 3,888
 dailymirrorlk | 4,733
 adaderanalk | 4,945
-tamilmirrorlk | 5,475
+tamilmirrorlk | 5,476
 virakesarilk | 6,712
 adaderanasinhalalk | 7,202
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,202
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,209 (100.0%) of 42,211 articles have been extended.
+42,212 (100.0%) of 42,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### Gazette relating to water payment correction
+
+*2024-08-23 10:28:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-கட்டண-திருத்தம்-தொடர்பான-வர்த்தமானி/175-342667) · `ta`
+
+The Gazette on Water Chamber Correction, effective from August 21, introduces a new water tariff system. It includes benefits for Samurdhi users, plantation apartments, government schools, aided schools, charities, and hospitals. The National Water Supply and Drainage Board has reduced home consumers' water tariffs by 7%, 4.5% for government hospitals, and 6.3% for idols and places of worship.
+
+🟩
+
+The Water Supply and Drainage Board said that the Gazette on the Water Chamber Correction has been released from August 21.
+
+Under this new water tariff amendment, the home of the Samurdhi users and the plantation apartments, the government schools, the government aided schools and the government -approved charities and the government hospitals will be included.
+
+In terms of the price formula, the National Water Supply and Drainage Board has approved the reduction of home consumers' drinking water tariffs by 7 per cent, 4.5 per cent in government hospitals and 6.3 per cent for idols and places of worship.R
+
+◼️
+
+[Data](articles/e87f9ac3.json)
+
+[Extended Data](ext_articles/e87f9ac3.ext.json)
+
+---
 
 ### Not surprisingly, this decision is not surprising - Mahinda Deshapriya
 
@@ -54,39 +76,51 @@ He said he believes he will be held after the presidential election, Mr. Mahinda
 
 ---
 
-### அரசாங்கம் மக்களுக்கு மானியங்கள் வழங்குவதை ஏற்றுக்கொள்ள முடியாது - பெப்ரல்
+### The government cannot accept the provision of subsidies to the people - February
 
 *2024-08-23 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191754) · `ta`
 
-ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டுள்ள நிலையில் அரசாங்கம் மக்களுக்கு மானியங்கள் வழங்குவதை ஏற்றுக்கொள்ள முடியாது என பெப்ரல்  அமைப்பு தெரிவித்துள்ளது.
+The Pepral Organization argues against government subsidies ahead of the presidential election, citing potential misuse for vote-seeking. The Executive Director suggests subsidies could be considered post-election to address economic issues.
 
-இந்த விடயம்  தொடர்பில் தேர்தல்கள் ஆணைக்குழுவிற்கு அறிவிக்கப்பட்டுள்ளதாக பெப்ரல் அமைப்பின்  நிறைவேற்றுப் பணிப்பாளரான ரோஹண ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+🟩
 
-அத்தோடு, வாக்குகளை பெற்றுக்கொள்ளும் நோக்கில் இவ்வாறான  சலுகைகள் மக்களுக்கு வழங்கப்படவில்லை என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்துள்ளார்.
+The Pepral Organization has said that the government cannot accept subsidies for the people as the presidential election has been announced.
 
-மேலும், மக்களின் பொருளாதார பிரச்சினைகளை தீர்க்க மானியங்கள் வழங்குவது அவசியமானால் ஜனாதிபதி தேர்தலின் பின்னர் அவற்றை வழங்க முடியும் என பெப்ரல் அமைப்பின்  நிறைவேற்றுப் பணிப்பாளர் தெரிவித்துள்ளார்.
+Rohana Hettiarachchi, Executive Director of the February, said that the issue has been announced to the Election Commission.
+
+Minister of State for Finance Ranjith Siyambalapitiya said that such concessions were not given to the people in order to get votes.
+
+The Executive Director of the February said that if it is necessary to provide subsidies to solve the economic problems of the people, they can be provided after the presidential election.
 
 ◼️
 
 [Data](articles/087c6aa7.json)
 
+[Extended Data](ext_articles/087c6aa7.ext.json)
+
 ---
 
-### பேலியகொட, களனி, கடவத்தை பகுதிகளில் கூரிய ஆயுதங்களைக் காட்டி அச்சுறுத்தி கொள்ளையடித்தவர் கைது !
+### Peliyagoda, Kelaniya and Kadavatha areas threatened to threaten
 
 *2024-08-23 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191753) · `ta`
 
-கூரிய ஆயுதங்களை காட்டி அச்சுறுத்தி வாடகைக்கு செல்வதாக கூறி முச்சக்கர வண்டிகள், ஆபரணங்கள் உள்ளிட்ட சொத்துக்களை திருடிய சந்தேகநபர் ஒருவரை பொலிஸார் கைது செய்துள்ளனர்.
+A 27-year-old suspect from Rajagiriya is arrested for thefts including three-wheelers and jewelry across Peliyagoda, Kelaniya, Kadavatha, Borella, and Mirihana. Investigations by the Western Province Southern Criminal Investigation Division reveal the suspect used sharp weapons during the crimes.
 
-கைது செய்யப்பட்ட சந்தேக நபர் இராஜகிரிய ஒபேசேகரபுர  பகுதியைச் சேர்ந்த 27 வயதுடையவராவார்.
+🟩
 
-குறித்த சந்தேக நபர் பேலியகொட, களனி, கடவத்தை, பொரள்ளை மற்றும் மிரிஹான ஆகிய பகுதிகளில் முச்சக்கர வண்டிகள் , கையடக்கத் தொலைபேசிகள், தங்க ஆபரணங்கள் போன்றவற்றை கொள்ளையடித்துள்ளதாக விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+Police have arrested a suspect for stealing assets including three -wheelers and jewelery for allegedly threatening sharp weapons.
 
-மேலும், இந்த சம்பவம் தொடர்பான விசாரணைகளை மேல் மாகாண தெற்கு குற்றப்புலனாய்வு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+The arrested suspect is 27 -year -old from Rajagiriya Obeeskegarapura.
+
+Investigations have revealed that the suspect had robbed three -wheelers, mobile phones and gold jewelery in Peliyagoda, Kelaniya, Kadavatha, Borella and Mirihana.
+
+Investigations into the incident are being carried out by the Western Province Southern Criminal Investigation Division.
 
 ◼️
 
 [Data](articles/2f5132b2.json)
+
+[Extended Data](ext_articles/2f5132b2.ext.json)
 
 ---
 
@@ -2289,27 +2323,5 @@ The Director of the Mannar District General Hospital, Dr. Azad M Haneefa, said t
 [Data](articles/f2292e4e.json)
 
 [Extended Data](ext_articles/f2292e4e.ext.json)
-
----
-
-### Ex-Health Minister Keheliya and 3 others further remanded
-
-*2024-08-22 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101426/ex-health-minister-keheliya-and-3-others-further-remanded) · `en`
-
-Former Health Minister Keheliya Rambukwella and 03 other suspects, implicated in the alleged importation of substandard human immunoglobulin vials, have been further remanded until August 29.
-
-The order was issued after the defendants were produced before the Maligakanda Magistrate’s Court today (22).
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
-
-Accordingly, the former Minister of Health is currently in remand custody in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-...
-
-[Data](articles/58fb989f.json)
-
-[Extended Data](ext_articles/58fb989f.ext.json)
 
 ---

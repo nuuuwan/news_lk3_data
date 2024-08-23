@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 20:56:06**
+As of **2024-08-23 21:08:17**
 
 ## Newspaper Stats
 
-*Scraped **42,295** Articles*
+*Scraped **42,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 4,960
 tamilmirrorlk | 5,488
 virakesarilk | 6,723
-adaderanasinhalalk | 7,221
+adaderanasinhalalk | 7,222
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,295 (100.0%) of 42,295 articles have been extended.
+42,295 (100.0%) of 42,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
+### දිනේෂ් චන්දිමාල් ව රෝහලට ගෙනයයි
+
+*2024-08-23 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200256) · `si`
+
+මාක් වුඩ් එවන ලද පන්දුවක් මාපට ඇඟිල්ලේ වැදීම නිසා පිටියෙන් ඉවත් වූ දිනේෂ් චන්දිමාල් ව රෝහලට ගෙන ගොස් ඇතැයි වාර්තා වෙයි.
+
+ශ්‍රී ලංකාව සහ එංගලන්තය අතර පැවැත්වෙන පළමු ටෙස්ට් තරගයේ තුන්වැනි දිනය අදයි.
+
+මෙම ටෙස්ට් තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 236ක් රැස්කළ අතර ඊට පිළිතුරු ලෙස එංගලන්තය සිය පළමු ඉනිම සඳහා ලකුණු 358ක් රැස්කළේය.
+
+◼️
+
+[Data](articles/8ffe6dfb.json)
+
+---
+
 ### Suspected gunman in ‘Club Wasantha’ murder arrested in Dehiwala
 
 *2024-08-23 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101456/suspected-gunman-in-club-wasantha-murder-arrested-in-dehiwala) · `en`
 
-The Terrorism Investigation Division (TID) has arrested one of the suspected gunmen involved in the recent killing of two persons including ‘Club Wasantha’ in the Athurugiriya area.
+The Terrorism Investigation Division (TID) has arrested one of the suspected gunmen involved in the recent killing of two persons including businessman Surendra Wasantha Perera’ also known as’Club Wasantha’, in the Athurugiriya area.
 
-The suspect has reportedly been by the TID in the Dehiwala area.
+The suspect, identified as 31-year-old Patty Arambage Ajith Rohana, was apprehended by the TID in the Kawdana area of Dehiwala.
 
-Meanwhile, a T-56 assault rifle and ammunition were also seized during the operation, said Sri Lanka Police.
+During the operation, a T-56 assault rifle, 120 rounds of ammunition, and a stock of 9mm pistol bullets were also seized, according to Police.
 
-◼️
+Additionally, another suspect, 29-year-old Tharukara Varuna Indika de Silva, who had aided and abetted by renting a house in Athurugiriya and transporting the shooters to Kataragama in a bus, was also arrested.
+
+The arrests were made by a team led by a Senior Superintendent of Police (SSP), under the direction of the Deputy Inspector General (DIG) of Police Rohan Premaratne, who is in charge of the TID.
+
+...
 
 [Data](articles/3a66fcfc.json)
 
@@ -2341,21 +2361,5 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/f65b9398.json)
 
 [Extended Data](ext_articles/f65b9398.ext.json)
-
----
-
-### Ranil-Sajith divide causes splits in Muslim political parties
-
-*2024-08-23 05:22:34* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-Sajith-divide-causes-splits-in-Muslim-political-parties/4-765897) · `en`
-
-While the SLMC and ACMC are caught up in the Ranil-Sajith divide, realities on ground indicate that a sizeable number of Muslims will support the JVP/NPP leader Anura Kumara Dissanayake at the elections. It appears that even as the Muslim party leaders are losing their hold over their MPs, the Muslim parties themselves are beginning to lose their grip on their voters
-
-Nominations have closed for the long awaited 2024 Presidential election. 39 candidates are in the fray. It is widely acknowledged by the press and public that the chief presidential contenders are incumbent President Ranil Wickremesinghe, leader of the opposition Sajith Premadasa and JVP/NPP leader Anura Kumara Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith Jayaweera.
-
-...
-
-[Data](articles/a323e8b9.json)
-
-[Extended Data](ext_articles/a323e8b9.ext.json)
 
 ---

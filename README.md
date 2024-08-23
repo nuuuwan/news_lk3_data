@@ -1,82 +1,160 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 07:30:41**
+As of **2024-08-23 07:51:45**
 
 ## Newspaper Stats
 
-*Scraped **42,187** Articles*
+*Scraped **42,194** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 354
 newsfirstlk | 363
 bbccomsinhala | 390
-colombotelegraphcom | 403
+colombotelegraphcom | 404
 islandlk | 2,449
 economynextcom | 2,553
 dailyftlk | 2,741
-adalk | 3,884
+adalk | 3,885
 dailymirrorlk | 4,733
-adaderanalk | 4,939
-tamilmirrorlk | 5,471
+adaderanalk | 4,941
+tamilmirrorlk | 5,473
 virakesarilk | 6,710
-adaderanasinhalalk | 7,197
+adaderanasinhalalk | 7,198
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,184 (100.0%) of 42,187 articles have been extended.
+42,187 (100.0%) of 42,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### ජල ගාස්තු සංශෝධන ගැසට් පත්‍රය නිකුත් කරයි
+### එංගලන්තය ලකුණු 23ක් ඉදිරියෙන්
+
+*2024-08-23 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200227) · `si`
+
+ශ්‍රී ලංකාව හා එංගලන්තය අතර මැන්චෙස්ටර් හිදී පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ දෙවෙනි දිනය වූ ඊයේ (22) වර්ෂාව හේතුවෙන් නියමිත වේලාවට පෙර තරගය නතර කරන විට පළමු ඉනිම ක්‍රීඩාකරමින් සිටි එංගලන්ත කණ්ඩායම කඩුලු 06ක් දැවී ලකුණු 259ක් රැස්කරගෙන සිටියේය.
+
+ඒ අනුව ඔවුන් ශ්‍රී ලංකා පළමු ඉනිමට වඩා ලකුණු 23ක් ඉදිරියෙන් සිටී.
+
+දිනය නිමා වනවිට කඩුල්ලේ රැඳී සිටි ජෙමී ස්මිත් ලකුණු 72ක් හා ගස් ඇට්කින්සන් ලකුණු 04ක් රැස්කරගෙන සිටියේය.
+
+තරගයේ පළමු දිනය වූ පෙරේදා දිනට තරගය නතර කරන විට එංගලන්ත කණ්ඩායම කිසිවෙකුත් නොදැවී ලකුණු 22ක් රැස්කරගෙන සිටියේය.
+
+කෙසේ නමුත් එංගලන්ත වේලාවෙන් ඊයේ උදෑසන තරගයට වර්ෂාවෙන් බාධා එල්ල වූ අතර, ඒ හේතුවෙන් තරගය ආරම්භ කිරීමට සිදු වූයේ දිවා ආහාරයද පසුවීමෙන් අනතුරවය.
+
+තරගය ආරම්භ වී එංගලන්ත ඉනිමට ලකුණු 08ක් පමණක් එක්වද්දී, බෙන් ඩකට් (ලකුණු 18) දවාගැනීමට අසිත ප්‍රනාන්දු සමත් වූ අතර, ඉන් නොනැවතුණු ඔහු මුළු ලකුණු 40ක් වෙද්දී වැඩබලන නායක ඔලී පොප්ගේ (ලකුණු 06) කඩුල්ලද දවාගත්තේය.
+
+මෙහිදී විශ්ව ප්‍රනාන්දු ද සිය කඩුලු දඩයම අරඹමින් පිටියේ ස්ථාවර වෙමින් සිටි ආරම්භක පිතිකරු ඩෑන් ලෝරන්ස්ගේ කඩුල්ලද දවාගත්තේය.
+
+...
+
+[Data](articles/93893738.json)
+
+---
+
+### Gazette issued on revised water tariffs
+
+*2024-08-23 06:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101435/gazette-issued-on-revised-water-tariffs) · `en`
+
+The Gazette notification related to the revision of water tariffs has been issued by the Ministry of Water Supply and Estate Infrastructure Development.
+
+Accordingly, the new water tariffs are to be implemented effective from August 21, 2024.
+
+On August 13, the Cabinet of Ministers granted approval for the National Water Supply and Drainage Board (NWSDB) to reduce the water tariffs based on the tariff formula.
+
+Accordingly, the water tariff of domestic users has been reduced by 7%, government hospitals by 4.5%, schools and religious places of worship by 6.3%.
+
+◼️
+
+[Data](articles/9db151f4.json)
+
+---
+
+### Water charges release amendment gazette
 
 *2024-08-23 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200226) · `si`
 
-ඒ අනුව අගෝස්තු මස 21 වනදා සිට මෙම නව ජල ගාස්තු සංශෝධනය ක්‍රියාත්මක වන බව ජලසම්පාදන හා ජලාපවාහන මණ්ඩලය පවසයි.
+New water charges take effect August 21 as per gazette amendment.
+
+🟩
+
+Accordingly, the new water charges will be implemented on August 21.
 
 ◼️
 
 [Data](articles/e456e01b.json)
 
+[Extended Data](ext_articles/e456e01b.ext.json)
+
 ---
 
-### ජනාධිපති ධුර අපේක්ෂක ඉල්යාස් අභාවප්‍රාප්ත වෙයි
+### Presidential candidate Mohammed Ilyas passes away
+
+*2024-08-23 06:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101434/presidential-candidate-mohammed-ilyas-passes-away) · `en`
+
+A. Mohammed Ilyas, who was contesting the 2024 Presidential Election as an independent candidate, has passed away at the age of 78.
+
+He had reportedly passed away while receiving treatment at the Puttalam Hospital last night (22), following a sudden illness.
+
+He had previously served as a Member of Parliament during the government of former President Chandrika Bandaranaike Kumaratunga.
+
+Ilyas had submitted nominations on August 15 to contest the upcoming presidential election and was reportedly contesting the presidential poll for the fourth time after also being a candidate in 2010, 2015 and 2019.
+
+◼️
+
+[Data](articles/46ab8910.json)
+
+---
+
+### The presidency candidate Ilias passes away
 
 *2024-08-23 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200225) · `si`
 
-ජනාධිපතිවරණය සඳහා නාමයෝජනා ලබාදුන් අපේක්ෂකයෙකු වන අයිදුරුස් මුහම්මද් ඉල්යාස් මහතා අභාවප්‍රාප්ත වී තිබේ.
+Ilias, an independent presidential candidate and former MP, passed away from a sudden illness diagnosed at Puttalam Base Hospital.
 
-ස්වාධීන අපේක්ෂකයෙකු ලෙස ඔහු මෙවර ජනාධිපතිවරණය සඳහා ඉදිරිපත් වී තිබුණි.
+🟩
 
-හදිසියේ ඇතිවූ රෝගී තත්ත්වයක් හේතුවෙන් පුත්තලම මූලික රෝහලේ ප්‍රතිකාර ලැබු ඉල්යාස් මහතා මියයන විට 78 වන වියේ පසු විය.
+The candidate who was nominated for the presidential election has passed away.
 
-චන්ද්‍රිකා බණ්ඩාරණායක කුමාරතුංග රජය සමයේ යාපනය දිස්ත්‍රික්කය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රිවරයෙකු ලෙසද ඒ මහතා කටයුතු කර තිබුණි.
+He had come forward for the presidential election as an independent candidate.
+
+Illias was diagnosed at Puttalam Base Hospital due to a sudden illness.
+
+He was also a Member of Parliament representing Chandrika Bandaranaike Kumaratunga.
 
 ◼️
 
 [Data](articles/d8ad8344.json)
 
+[Extended Data](ext_articles/d8ad8344.ext.json)
+
 ---
 
-### අදත් වැසි
+### Showers today
 
 *2024-08-23 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200224) · `si`
 
-අද (23) දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today, expect showers and possible thundershowers across various regions including the Western, Sabaragamuwa, Northwestern, Eastern, Uva, Central Hills, Northern, North-Central, Northwestern provinces, and the Hambantota district. Strong winds of 30-40 km/h may occur, prompting caution against potential damage from wind and lightning.
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව දිස්ත්‍රික්කයේත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30ත් 40ත් අතර තරමක තද සුළං ද ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology also says that several thin closed will occur in the Western, Sabaragamuwa and Northwestern provinces today (23).
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Showers or thundershowers will occur at several places in the Eastern and Uva provinces and evening in the Polonnaruwa District and even night.
+
+West in the central hills and in the North, North, North, North-central and Northwestern provinces and in the Hambantota district.. Strong winds can also cause strong winds, between 30 and 40.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/f65b9398.json)
+
+[Extended Data](ext_articles/f65b9398.ext.json)
 
 ---
 
@@ -726,6 +804,52 @@ He said that the current President Ranil Wickremesinghe, who was a member of Par
 
 ---
 
+### மண்சரிவு அபாய எச்சரிக்கை நீடிப்பு
+
+*2024-08-23 00:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாய-எச்சரிக்கை-நீடிப்பு/175-342662) · `ta`
+
+4 மாவட்டங்களுக்கு விடுக்கப்பட்ட மண்சரிவு அபாய முன்னெச்சரிக்கை நீடிக்கப்பட்டுள்ளதாகத் தேசிய கட்டட ஆராய்ச்சி நிறுவகம் அறிவித்துள்ளது.
+
+இதன்படி, இரத்தினபுரி, கேகாலை, களுத்துறை மற்றும் காலி மாவட்டங்களுக்கே இவ்வாறு மண்சரிவு அபாய முன்னெச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+அத்துடன், நிலவும் சீரற்ற காலநிலையினால் ஆறுகளின் நீர்மட்டமும் அதிகரித்து வருவதாக நீர்பாசனத்திணைக்களம் தெரிவித்துள்ளது.
+
+களுகங்கை, ஜின்கங்கை மற்றும் நில்வளா கங்கைகளின் நீர்மட்டம் அதிகரித்து வருவதாகக் குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/d5f3c2bd.json)
+
+---
+
+### மழையுடனான வானிலை தொடரும்
+
+*2024-08-23 00:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையுடனான-வானிலை-தொடரும்/175-342661) · `ta`
+
+மேல், சபரகமுவ மற்றும் வடமேல் மாகாணங்களில்  மழையுடனான வானிலை தொடரும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அத்துடன், கிழக்கு, மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை மற்றும் முல்லைத்தீவு மாவட்டங்களிலும் மழை பெய்யக்கூடும்.
+
+மத்திய மலைநாட்டின் மேற்குச் சரிவு பகுதிகளில் மணித்தியாலத்துக்கு 30 முதல் 40 கிலோமீற்றர் வேகத்தில் காற்று வீசக்கூடும் என அந்த திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/579e6ed5.json)
+
+---
+
+### Kamala: The Name Behind The Changing Face Of America
+
+*2024-08-23 00:44:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kamala-the-name-behind-the-changing-face-of-america/) · `en`
+
+Nomination of Kamala Harris, whether viewed as the first Black woman or the first Asian woman for the presidency in the United States, represents a historic moment in American politics. After Obama, her nomination marks one of the most consequential events in the nation’s political landscape. If she is elected, it will be a monumental step forward in the ongoing and often arduous journey toward a more perfect union. This moment invites the world to admire America for her growing inclusiveness, while America herself may look inward, reflecting on how far she has come and how unimaginable this journey once seemed.
+
+...
+
+[Data](articles/5630a3ea.json)
+
+---
+
 ### The death of the presidential candidate
 
 *2024-08-23 00:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-மரணம்/175-342660) · `ta`
@@ -1063,6 +1187,26 @@ Drivers who passed through the car took swift action to rescue the victims.
 [Data](articles/547c0030.json)
 
 [Extended Data](ext_articles/547c0030.ext.json)
+
+---
+
+### ලංකාවේ ප්‍රමුඛතම තරු 7 හෝටල් දැනගැනීමට විදේශිකයින් තුළ දැඩි උනන්දුවක්
+
+*2024-08-22 19:55:40* · [`adalk`](https://www.ada.lk/business/ලංකාවේ-ප්‍රමුඛතම-තරු-7-හෝටල්-දැනගැනීමට-විදේශිකයින්-තුළ-දැඩි-උනන්දුවක්/7-411510) · `si`
+
+ශ්‍රී ලංකාවේ ප්‍රමුඛතම තරු 7 හෝටල් ව්‍යාපෘතිය වන අවියානා හෝටල් සමූහය (Aviyana Private Chalets) පිළිබඳව තොරතුරු දැනගැනීමට විදේශ සංචාරකයින් තුළ දැඩි උනන්දුවක් පවතින බව වාර්තා වේ.
+
+අවියානා තරු 7 හෝටල් ව්‍යාපෘතිය පිළිබඳ විශේෂ ප්‍රවර්ධන වැඩසටහනක් මහනුවර Kandy City Center හිදී පසුගිය දිනවල පැවති අතර එහිදී විදේශීය සංචාරකයින් රැසක් පැමිණ මෙම හෝටල් ව්‍යාපෘතිය පිළිබඳ තොරතුරු විමසා තිබේ.
+
+මහනුවර,  තෙල්දෙනිය,  උඩිස්පත්තුව  ප්‍රදේශයේ  අති  රමණීය පරිසරයක් පසුබිම් කරගෙන ඉදි කෙරෙන මෙම අවියානා හෝටල් සමූහය මෙරට තරු 7 පළමු හෝටල් ව්‍යාපෘතිය වශයෙන් තමන්ට නැවුම් අපූරු අත්දැකීමක් වන බව විදේශීය සංචාරකයින් රැසක්ම එහිදී ප්‍රකාශ කිරීම විශේෂත්වයකි.
+
+ලබන වසරේදී (2025) දී මෙම අවියානා හෝටල් සමූහය විවෘත කළ පසුව එහි තවාතැන් ගැනීමට අනිවාර්යෙන්ම පැමිණෙන බවද එම විදේශීය සංචාරකයින් ප්‍රකාශකොට ඇති බව ද වාර්තා වේ.
+
+ජර්මනිය, නෙදර්ලන්තය, ඩෙන්මාර්කය, ඕස්ට්‍රේලියාව, ප්‍රංශය, ඉතාලිය, ස්පාඤ්ඤය, එංගලන්තය ඇතුළු රටවල් රැසක සංචාරකයින් Kandy City Center වෙත පැමිණ අවියානා හෝටල් සමූහය සම්බන්ධයෙන් තොරතුරු විමසා ඇති බව දැනගැනීමට ඇත.
+
+...
+
+[Data](articles/38b81ef9.json)
 
 ---
 
@@ -2147,147 +2291,5 @@ An initiative launched by Neon and Echelon in partnership with USAID, Shine 50 c
 [Data](articles/e6aa5974.json)
 
 [Extended Data](ext_articles/e6aa5974.ext.json)
-
----
-
-### Japan, UNFPA Sri Lanka gift computers to Ministry of Women and Child Affairs
-
-*2024-08-22 14:17:00* · [`economynextcom`](https://economynext.com/japan-unfpa-sri-lanka-gift-computers-to-ministry-of-women-and-child-affairs-177741/) · `en`
-
-ECONOMYNEXT – Supported by Japan, UNFPA Sri Lanka has handed over 278 computers to the Ministry of Women and Child Affairs to strengthen services provided for survivors of gender-based violence (GBV) in the country.
-
-“These computers will enable Women Development Officers, Counselling Assistants & Child Rights Promotion Officers at Women Development Units across the country, to regularly update the upcoming GBV referral services database that will enable timely and effective support for survivors of GBV,” United Nations Population Fund Sri Lanka Representative Kunle Adeniyi said on X (twitter).
-
-The database aims to improve coordination, response time and overall effectiveness of GBV interventions across Sri Lanka, he said. (Colombo/Aug22/2024)
-
-◼️
-
-[Data](articles/8bbfbfe6.json)
-
-[Extended Data](ext_articles/8bbfbfe6.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-22 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191707) · `ta`
-
-On August 22, the US dollar bought 295.7249 rupees and sold for 305.0419 rupees.
-
-🟩
-
-The US dollar purchasing price was 295.7249 rupees and the sales price were Rs 305.0419 on Friday (August 22).
-
-◼️
-
-[Data](articles/caac7be3.json)
-
-[Extended Data](ext_articles/caac7be3.ext.json)
-
----
-
-### Sri Lanka's new president should take steps to promote the distribution of political power and accountability - the UN Human Rights Commissioner's Office
-
-*2024-08-22 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191705) · `ta`
-
-The UN Human Rights Commissioner's Office urges Sri Lanka's new president to implement political and institutional reforms to enhance power distribution, accountability, and reconciliation. This call comes after the elections, emphasizing the need to address conflict roots, bolster democracy, and ensure justice for all Sri Lankans, aligning with the aspirations of those who protested in 2022.
-
-🟩
-
-The United Nations Human Rights Commissioner's Office has requested that the new president of Sri Lanka be the basic political and institutional reforms necessary to distribute political power and promote accountability and reconciliation.
-
-The request was made in full report of the United Nations Human Rights Commissioner on Sri Lanka's Human Rights Council.
-
-Following the elections, the newly elected president must carry out the national aim of carrying out all the people of Sri Lanka.
-
-In addition, the basic political and institutional reforms are necessary to take care of the root causes of conflicts, to strengthen democracy, to distribute political power and to improve accountability and reconciliation.
-
-With the Sri Lankan presidential election and parliamentary elections, Sri Lanka has the opportunity to re -dedicate itself to the transfigured justice, which has been represented by the widespread parties representing all the Sri Lankans who protested in 2022.
-
-◼️
-
-[Data](articles/0f599f53.json)
-
-[Extended Data](ext_articles/0f599f53.ext.json)
-
----
-
-### Sri Lanka needs transformational changes for accountability and reconciliation - UN report
-
-*2024-08-22 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101422/sri-lanka-needs-transformational-changes-for-accountability-and-reconciliation-un-report) · `en`
-
-A UN Human Rights Office report issued today (22) identified renewed threats to fundamental freedoms in Sri Lanka, evidenced by new or proposed regressive laws, erosion of democratic checks and balances, ongoing threats and intimidation against civil society and journalists, and recurrence of serious human rights violations of the past.
-
-“As the country approaches presidential and parliamentary elections, it has an opportunity to recommit to the transformational changes demanded by a broad cross-section of Sri Lankans, including accountability and reconciliation,” UN Human Rights Chief Volker Türk said.
-
-The report points to several laws and bills introduced by the Government since 2023, giving security forces broad powers and significantly expanding pre-existing restrictions on freedoms of expression, opinion and association. “This trend is particularly concerning as the country is in an important pre-election period,” the High Commissioner said.
-
-...
-
-[Data](articles/b7ce34af.json)
-
-[Extended Data](ext_articles/b7ce34af.ext.json)
-
----
-
-### 10 million in a day! Cristiano Ronaldo breaks YouTube record with lightning-fast subscriber milestone
-
-*2024-08-22 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101421/10-million-in-a-day-cristiano-ronaldo-breaks-youtube-record-with-lightning-fast-subscriber-milestone) · `en`
-
-Football superstar Cristiano Ronaldo has once again demonstrated his immense global influence, this time in the digital realm. The 39-year-old Portuguese icon, known for his exceptional achievements on the pitch, has now broken new ground by setting a YouTube record for the fastest channel to reach 10 million subscribers.
-
-Ronaldo launched his YouTube channel, UR Cristiano, on Wednesday, August 21, instantly captivating millions of fans worldwide.
-
-The channel debuted with several videos, including a teaser trailer, a fun quiz game with his partner Georgina Rodriguez, and a clip of Ronaldo meeting his wax figure at Madame Tussauds.
-
-...
-
-[Data](articles/a5f753a9.json)
-
-[Extended Data](ext_articles/a5f753a9.ext.json)
-
----
-
-### Caribbean Premier's league opens
-
-*2024-08-22 14:03:32* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂිතා-සමරවික්‍රමට-කැරිබියන්-ප්‍රිමියර්-ලීග-දොරටු-ඇරෙයි/11-411503) · `si`
-
-Awesha Samarawickrama, a top Sri Lankan batter, joins the Tribu Knight Riders in the 2024 Women's Caribbean Premier League. Known for her impressive performance, scoring 1463 runs in 65 T20 matches, she becomes the second Sri Lankan player to represent the league overseas.
-
-🟩
-
-Sri Lanka Awesha Samarawide has been owned by the Tribu Knight Riders team at the 2024 Women's Caribbean Premier League.It is due to the disorder of the group that represents the group.
-
-Samarawarawickrama, a length baten, is partnering with the second Sri Lankan playground at a League Overseas League after Atapattu.
-
-Hersita was from the women's cricket ground at the women's cricket field and she had scored 1463 runs in 65 T20.
-
-◼️
-
-[Data](articles/1dacca4a.json)
-
-[Extended Data](ext_articles/1dacca4a.ext.json)
-
----
-
-### Demodara goes out of tourists
-
-*2024-08-22 13:52:12* · [`adalk`](https://www.ada.lk/breaking_news/දෙමෝදර-සංචාරකයන්ගෙන්-පිරි-යයි/11-411502) · `si`
-
-The Kandyan Railway Bridge, built in 1913, attracts both local and foreign tourists due to its impressive architecture and historical significance. Its unique design, featuring an 80-foot height, 300-foot length, and 25-foot width, makes it a top tourist destination during school holidays.
-
-🟩
-
-A large number of local and foreign tourists are coming to visit the old Railway Bridge in the Kandyan Railway Bridge.
-
-A large number of foreign tourists are traveling to the island and the school holidays, people residing in the arch-ningent area called the Bridge of the Arch.
-
-In 1913, the construction of 80 feet high and a 300-foot-length of the Archkal name in the architectural name, which is located in the architectural name and the 25-foot-width of the Archkkky name, is currently the leading place in tourism.
-
-◼️
-
-[Data](articles/e8a0048e.json)
-
-[Extended Data](ext_articles/e8a0048e.ext.json)
 
 ---

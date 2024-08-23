@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 11:56:45**
+As of **2024-08-23 12:10:16**
 
 ## Newspaper Stats
 
-*Scraped **42,222** Articles*
+*Scraped **42,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 404
 islandlk | 2,451
-economynextcom | 2,553
+economynextcom | 2,556
 dailyftlk | 2,742
 adalk | 3,888
 dailymirrorlk | 4,733
@@ -26,33 +26,61 @@ adaderanasinhalalk | 7,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,221 (100.0%) of 42,222 articles have been extended.
+42,222 (100.0%) of 42,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### කාෂ්මීරය ඉන්දියාවට වඩාත් සමීප කරමින් ඉදිකළ දුම්රිය පාලම
+### Sri Lanka awards crude oil contract to Vitol Asia (Singapore) Pte Ltd
+
+*2024-08-23 11:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-crude-oil-contract-to-vitol-asia-singapore-pte-ltd-177859/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to purchase 3 shipments of Murban type of crude oil from November 15, 2024 to April 14, 2025 to Vitol Asia (Singapore) Pte Ltd, a government statement said.
+
+The 2,100,000 barrels +/- 5%, will be obtained on the basis of payment in 30 days through a Letter of Credit issued by the Bank of Ceylon.
+
+Bids were called by the State-owned Ceylon Petroleum Corporation from registered suppliers for the long term contract, and 5 bids were received.
+
+The bid submitted by Vitol Asia (Pvt) Ltd in Singapore was recommended as the responsive bid by the cabinet-appointed special standing procurement committee.
+
+Murban is lighter (less dense) than Brent crude oil. (Colombo/Aug23/2024)
+
+◼️
+
+[Data](articles/226d1303.json)
+
+---
+
+### The Railway Bridge built more close to India
 
 *2024-08-23 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200234) · `si`
 
-ජම්මු සහ කාශ්මීරයේ රියාසි දිස්ත්‍රික්කයේ බක්කල් සහ කවුරි කලාප යා කරමින් මෙම දුම්රිය පාලම ඉදිකර තිබෙන අතර, මෙය චෙනාබ් දුම්රිය පාලම ලෙස නම්කර ඇත.
+The Chenab Railway Bridge, located in Jammu & Kashmir's Riyawas district, is a marvel of engineering, standing at 1,315 meters long and 359 meters high. Built over the Chenab River amidst challenging Himalayan terrain, it took 20 years and $168 million to complete. Despite harsh weather conditions and potential hazards like landslides and floods, this single-arch bridge stands as a testament to Indian engineering prowess, overcoming significant obstacles to become one of the highest railway bridges in the world.
 
-ඉන්දීය බලධාරීන්ට අනුව මෙය ඉදිකර ඇත්තේ ඉන්දියානු පාලනය යටතේ පවතින කාෂ්මීර ප්‍රාන්තය ඉන්දියාවට වඩාත් සමීප කිරීමේ අරමුණින් ය.
+🟩
 
-චෙනාබ් ගංගාවට ඉහළින් දිවෙන මෙම පාලම මතින් මේ වනවිට දුම්රියක්ද ධාවනය කර අත්හදා බැලීමට ඉන්දීය බලධාරීන් කටයුතු කර තිබේ.
+The Railway Bridge has been built in the Riyawas district of the Riyawas district of Jamm and Kashmir and this train bridge has been named as the Chenatab Railway Bridge.
 
-හිමාල කඳුවැටිය අතරින් ඉදිකර තිබෙන මෙම විස්මිත පාලම ලොව වැඩිම උසකින් පිහිටුවා ඇති ආරක්කු පාලම ද වෙයි.
+According to Indian authorities, this has been constructed in the Indian administration, the Kashmiri Prefecture under Indian control.
 
-තනි ආරුක්කුවක් ආකාරයෙන් නිර්මාණය කර ඇති චෙනාබ් දුම්රිය පාලම මීටර් 1,315 ක දිගකින් යුක්ත වන අතර, එහි උස මීටර් 359කි.
+Indian authorities have operated and experimenting with the chern bridge that runs over the cherob river.
 
-මෙම දුම්රිය පාලම නිම කිරීමට අවුරුදු 20ක පමණ කාලයක් ගත වී තිබෙන අතර, ඒ සඳහා ඉන්දීය රජය ඩොලර් මිලියන 168 වියදමක් දරා ඇත.
+Among the Himalayas Mountains is also the world's most hearer bridge in the world.
 
-ජම්මු හී දරුණු කාලගුණික තත්ත්වයන් දක්නට ලැබෙන ප්‍රදේශයක් වුවත්, ඒ ඕනෑම කාලගුණික තත්ත්වයකට ඔරොත්තු දෙන ලෙසින් මෙම පාලම ඉදිකර ඇත.
+The Chenab Railway Bridge, designed in a single arch, is 1,315 meters long and its height is 359 meters.
+
+The government has spent 20 years to complete the railway bridge, and the government has spent $ 168 million.
+
+The bridge has been constructed, even though the weather conditions appear in Jammu.
+
+It is also noteworthy that this can be constructed to face any obstacles, such as landslides, snowfall, floods and trees.
 
 ...
 
 [Data](articles/25ae84c3.json)
+
+[Extended Data](ext_articles/25ae84c3.ext.json)
 
 ---
 
@@ -233,6 +261,58 @@ In terms of the price formula, the National Water Supply and Drainage Board has 
 [Data](articles/e87f9ac3.json)
 
 [Extended Data](ext_articles/e87f9ac3.ext.json)
+
+---
+
+### Sri Lanka cannabis investment plan gets interest from 30 investors
+
+*2024-08-23 10:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-cannabis-investment-plan-gets-interest-from-30-investors-177844/) · `en`
+
+ECONOMYNEXT – A plan to cultivate and make and export value added products from cannabis has drawn 30 investors, State Minister for Investment Promotion, Dilum Amunugama said.
+
+Sri Lanka has made a set of regulations for cannabis cultivation.
+
+“We have got about 30 applications and they are being processed by a committee,” Minister Amunugama said.
+
+” No one has come to the growing stage yet. But land allocation is being done.”
+
+The committee is made up of officials that include representative of the Department of Ayurveda and the Board of Investment.
+
+Canabidiol, (CBD or cannabis oil), is one of the primary products of the industry which is used in medicinal and other applications.
+
+“CBD extraction or oil extraction will be the minimum value addition. If they want to go beyond that for whatever the final product is that, they can also do that, within the dedicated zones.
+
+The projects will be located within the Mirigama and Kandy Stage II zones.
+
+...
+
+[Data](articles/0b0dedc5.json)
+
+---
+
+### Sri Lanka rupee opens at 300.90/301.10 to US dollar
+
+*2024-08-23 10:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-300-90-301-10-to-us-dollar-177855/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.90/301.10 to the US dollar on Friday, dealers said. Bond yields were steady, they said, and stocks opened down 0.05 percent.
+
+The rupee closed at 300.80/301.30 to the greenback on Thursday.
+
+In the secondary market, bonds were stable, dealers said. Of the actively quoted bonds;
+
+A bond maturing on 15.12.2026 was quoted stable at 11.00/15 percent.
+
+A bond maturing on 01.07.2028 was quoted stable at 12.45/60 percent.
+
+A bond maturing on 15.06.2029 was quoted at 12.80/55 percent.
+
+A bond maturing on 15.05.2030 was quoted at 12.95/13.05 percent, from 12.85/13.05 percent.
+
+In equities, Colombo’s All Share Price Index opened 6.23 points lower at 11,451, while the S&P SL20 of more liquid stocks opened down at 0.11 percent or 3.52 points to 3,292.
+
+◼️
+
+[Data](articles/0dd465b8.json)
 
 ---
 
@@ -2219,71 +2299,5 @@ Former Health Minister Keheliya Rambukwella was arrested on February 2 on charge
 [Data](articles/178fa4ce.json)
 
 [Extended Data](ext_articles/178fa4ce.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 300.80/301.30, bond yields down
-
-*2024-08-22 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-80-301-30-bond-yields-down-177817/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 300.80/301.30 to the US dollar Thursday, from 300.20/60 Wednesday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed stable at 11.00/15 percent.
-
-A bond maturing on 15.12.2027 closed at 11.80/95 percent, down from 11.89/12.00 percent.
-
-A bond maturing on 01.07.2028 closed at 12.45/60 percent, down from 12.50/60 percent.
-
-A bond maturing on 15.05.2030 closed at 12.85/13.05 percent. (Colombo/Aug22/2024)
-
-◼️
-
-[Data](articles/17bef60b.json)
-
-[Extended Data](ext_articles/17bef60b.ext.json)
-
----
-
-### Will Sajith recover the presidential election?- Manu Nanayakkara
-
-*2024-08-22 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/191726) · `ta`
-
-Manu Nanayakkara suggests uncertainty over Sajith Premadasa's chances in the upcoming presidential election due to potential shifts in support from the United People's Power to President Ranil Wickremesinghe. Despite this, grassroots support for UNP members remains strong, focusing on leadership qualities rather than political maneuvering. The current administration continues to operate under President Wickremesinghe's guidance, including labor and foreign employment policies.
-
-🟩
-
-Members of the United People's Power will join us after the victory of President Ranil Wickremesinghe. So we do not know whether Sajith will reclaim the Premadasa election. The President's Advisor for Industry and Foreign Employment, Manusha Nanayakkara said that the other members of the party would leave with parliamentarians.
-
-He further stated that he was speaking at the swearing -in ceremony of the Minister of State Vadivel Suresh on Thursday (22).
-
-The speech delivered by the Dalada Attukorala in Parliament will be echoed among the grassroots level members of the United People's Power and provoked them around the leader of the United National Party.
-
-UNP members are based on village level members of the United People's Power. Therefore, people are ready to give their support to him as their leader is planning to build the country.
-
-...
-
-[Data](articles/8f5b7e38.json)
-
-[Extended Data](ext_articles/8f5b7e38.ext.json)
-
----
-
-### “Cabinet permit to increase salary”
-
-*2024-08-22 17:20:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-அதிகரிக்க-அமைச்சரவை-அனுமதி/175-342641) · `ta`
-
-The Cabinet has approved a salary hike for public servants starting January 2025, with increases ranging from 24% to 50% based on qualifications, experience, and seniority.
-
-🟩
-
-Udaya Seneviratne, Chairman of the Expert Panel, said that the Cabinet has given permission to increase the salary for all public servants from January 2025.
-
-Based on education qualifications, experience and responsibility, the Cabinet has granted permission to provide 24 % of the staff and to the top officials from 24 to 50 percent.
-
-◼️
-
-[Data](articles/a1c9caef.json)
-
-[Extended Data](ext_articles/a1c9caef.ext.json)
 
 ---

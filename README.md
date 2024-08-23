@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 16:37:01**
+As of **2024-08-23 16:53:57**
 
 ## Newspaper Stats
 
-*Scraped **42,262** Articles*
+*Scraped **42,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,560
 dailyftlk | 2,742
 adalk | 3,894
 dailymirrorlk | 4,733
-adaderanalk | 4,954
-tamilmirrorlk | 5,487
+adaderanalk | 4,956
+tamilmirrorlk | 5,488
 virakesarilk | 6,717
 adaderanasinhalalk | 7,212
 
@@ -26,59 +26,115 @@ adaderanasinhalalk | 7,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,258 (100.0%) of 42,262 articles have been extended.
+42,262 (100.0%) of 42,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### பதுளை கந்தகெட்டிய நாரங்கல வீதி புனரமைப்பு
+### Digital election system can be tested in upcoming LG polls – President
+
+*2024-08-23 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101451/digital-election-system-can-be-tested-in-upcoming-lg-polls-president) · `en`
+
+President Ranil Wickremesinghe expressed his intention to implement recommendations from the commission report led by former Chief Justice Priyasad Depp on digitizing Sri Lanka’s election system.
+
+Speaking at an IT professionals’ meeting yesterday (22) at Waters Edge Hotel in Battaramulla, the President indicated that the new digital election system might be piloted in the upcoming local government elections.
+
+Responding to a question raised on the possibility to digitize the electoral system, he said, “It should be done. We have received the report with recommendations from the committee chaired by former Chief Justice Priyasad Depp, and we intend to follow those recommendations.”
+
+“We can introduce the digital election system at the national level by first conducting an experiment during the local government elections,” he said.
+
+The meeting, themed “Coding the Nation’s Future,” featured a notable welcome by a robot named “Pepper,” developed using Artificial Intelligence (AI).
+
+...
+
+[Data](articles/11de9e3a.json)
+
+---
+
+### Badulla Kandakettiya Narangala Road Reconstruction
 
 *2024-08-23 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191800) · `ta`
 
-பதுளை கந்தகெட்டிய நாரங்கல ஸ்ரீ கதிர்வேலாயுத சுவாமி ஆலயத்திலிருந்து ஒரு கிலோமீற்றர் தூர லெஜர்வத்த வீதியை புனரமைப்பு செய்வதற்காக கல்வி இராஜாங்க அமைச்சர் அருணாச்சலம் அரவிந்தகுமாரின் நிதியொதுக்கீட்டின் ஊடாக  ரூபா 15  மில்லியன்   (1½  கோடி) நிதி ஒதுக்கப்பட்டுள்ளது.
+The Badulla Kandakettiya Narangala Road Reconstruction project involves significant financial investment, details of which were not provided.
+
+🟩
+
+Rs.
 
 ◼️
 
 [Data](articles/5d9bf7ed.json)
 
+[Extended Data](ext_articles/5d9bf7ed.ext.json)
+
 ---
 
-### තලතාගේ මන්ත්‍රී ධුරය හිස් වූ බව මැතිවරණ කොමිසමට දන්වයි
+### Telitha's seat is emptied to the Election Commission that he was empty
 
 *2024-08-23 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200243) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ධුරයක් පුරප්පාඩු වී ඇති බව පාර්ලිමේන්තු මහලේකම් විසින් මැතිවරණ කොමිසමට දැනුම් දී තිබේ.
+The Secretary General of Parliament notified the Election Commission about a parliamentary seat vacancy due to the resignation of MP Thalatha Athukorala from the Ratnapura District Unity Force.
 
-ඒ රත්නපුර දිස්ත්‍රික් සමගි ජන බලවේගය නියෝජනය කෙරූ පාර්ලිමේන්තු මන්ත්‍රී තලතා අතුකෝරල මහත්මිය පසුගියදා ඉල්ලා අස්වීමත් සමගය.
+🟩
+
+The Secretary General of Parliament has informed the Election Commission that a parliamentary seat is vacant.
+
+It is with the resignation of MP Thalatha Athukorala, who represented the Ratnapura District Unity Force.
 
 ◼️
 
 [Data](articles/a136e288.json)
 
+[Extended Data](ext_articles/a136e288.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා - නවසීලන්ත පළමු ටෙස්ට් තරගය අතරමැද ඡන්දේ දාන්න නිවාඩුවක්
+### Election Commission informed of vacant MP seat in Parliament
+
+*2024-08-23 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101450/election-commission-informed-of-vacant-mp-seat-in-parliament) · `en`
+
+The Parliament has informed the Election Commission that a vacancy has been created in the House following the resignation of Thalatha Athukorala as a Member of Parliament.
+
+Accordingly, Secretary General of the Parliament Kushani Rohanadeera has communicated to the Chairman of the Election Commission in writing that the Member of Parliament representing the Ratnapura Constituency, Thalatha Athukorala has tendered her letter of resignation as a Member of Parliament with effect from the 21 August 2024 and thus a vacancy has been created following the resignation.
+
+This has been informed in terms of the Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Parliamentary Communications Department said.
+
+Thalatha Athukorala, who was elected to the Parliament representing the Samagi Jana Balawegaya (SJB) in the 2020 general election, informed parliament on Wednesday (21) that she will be resigning from her position as a Member of Parliament.
+
+...
+
+[Data](articles/bace42a2.json)
+
+---
+
+### Sri Lanka - New Zealand's first Test match on holiday
 
 *2024-08-23 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200242) · `si`
 
-නවසීලන්ත ක්‍රිකට් පිල ටෙස්ට් තරග දෙකකින් සමන්විත තරග සංචාරයක් සඳහා එළැඹෙන සැප්තැම්බර් මාසයේ දී මෙරටට පැමිණීමට නියමිතය.
+New Zealand will tour Sri Lanka in September for two Test matches, part of the ICC World Test Championships 2023-2025. The first Test, from September 18 to 21, includes a rest day on the 21st, coinciding with Sri Lanka's presidential election. Both matches will take place at the Galle International Cricket Stadium.
 
-එහිදී පළමු ටෙස්ට් තරගය සැප්තැම්බර් 18 වනදා සිට 21 වනදා දක්වා පැවැත්වීමට නියමිත අතර දෙවන ටෙස්ට් තරගය සැප්තැම්බර් 26 වනදා සිට 30 වන දා දක්වා පැවැත්වෙන බව ශ්‍රී ලංකා ක්‍රිකට් නිවේදනය කර සිටී.
+🟩
 
-මෙම තරගාවලියේ ඇති විශේෂත්වය නම් පළමු ටෙස්ට් තරගය සඳහා විවේක දිනයක් නිවේදනය කර තිබීමයි.
+New Zealand team will come to Sri Lanka in September for a tour of two Tests.
 
-එහිදී සැප්තැම්බර් 21, ජනාධිපතිවරණ ඡන්ද විමසීම පැවැත්වෙන දිනය, පළමු ටෙස්ට් තරගය සඳහා විවේක දිනයක් ලෙසින් නම් කර ඇත.
+The first Test match will be held from September 18 to 21st and the second Test will be held from September 26 to 30.
 
-තරග දෙකකින් යුතු මෙම ටෙස්ට් තරග මාලාව ICC ලෝක ටෙස්ට් ශූරතා 2023 - 2025 තරග සමයට අදාළව පැවැත්වෙන්නකි.
+The specialty of the tournament is announced a rest day for the first Test.
 
-වාර්තා වන අන්දමට ශ්‍රී ලංකා පිල මෙලෙස අතරමැද විවේක දිනයක් සහිත ටෙස්ට් ක්‍රිකට් තරගයකට සහභාගී වන්නේ 2001 වසරෙන් පසුවය.
+The date on September 21, the date of presidential election has been named as a rest day for the first Test.
 
-මෙම ටෙස්ට් තරඟ දෙකම ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනයේ දී පැවැත්වෙනු ඇත.
+The two matches will be held in connection with the ICC World Test Championships 2023 - 2025.
+
+According to reports, Sri Lanka participated in a Test cricket match with a rest day.
+
+Both Tests will be held at Galle International Cricket Stadium.
 
 ◼️
 
 [Data](articles/4cd5fe3b.json)
+
+[Extended Data](ext_articles/4cd5fe3b.ext.json)
 
 ---
 
@@ -750,19 +806,25 @@ At the same time, they have been told that they met the President at the politic
 
 ---
 
-### පළාත් පාලන මැතිවරණය ඩිජිටල් ක්‍රමයට අත්හදා බැලිය හැකියි
+### Digital system can be tested
 
 *2024-08-23 11:26:51* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-ඩිජිටල්-ක්‍රමයට-අත්හදා-බැලිය-හැකියි/11-411518) · `si`
 
-මැතිවරණ ක්‍රමය ඩිජිටල්කරණ කිරීම සඳහා හිටපු අගවිනිසුරු ප්‍රියසාද් ඩෙප් මහතා යටතේ පත් කළ කොමිසමේ වාර්තාවේ නිර්දේශ අනුව කටයුතු කිරීමට බලාපොරොත්තු වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මහතා පැවසීය.
+President Ranil Wickremesinghe announced that the digital electoral system, overseen by former Chief Justice Priyasha Dep, will be tested during local government elections. This decision came in response to inquiries from IT professionals in Colombo.
 
-ඒ අනුව ඉදිරියේ පැවැත්වෙන පළාත් පාලන මැතිවරණය සඳහා ඩිජිටල් මැතිවරණ ක්‍රමය අත්හදා බැලීමට හැකි බවත් ඔහු සඳහන් කළේය.
+🟩
 
-කොළඹදි පැවැති තොරතුරු තාක්ෂණ වෘත්තීයවේදීන්ගේ හමුවේදී යොමු කරන ලද ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+President Ranil Wickremesinghe said that President Ranil Wickremesinghe said that the report of the Commission (CJ) under the purview of former Chief Justice Priyasha Dep for the digitization of the electoral system.
+
+Accordingly, the digital electoral system could be tested for the local government elections.
+
+He was responding to a question referred to a question referred to a question referred to at Colombo, IT Professionals.
 
 ◼️
 
 [Data](articles/746e9bb6.json)
+
+[Extended Data](ext_articles/746e9bb6.ext.json)
 
 ---
 
@@ -2191,35 +2253,5 @@ In the last elections, we have announced our position in the last moment.. So th
 [Data](articles/01477249.json)
 
 [Extended Data](ext_articles/01477249.ext.json)
-
----
-
-### From Global Warming to Global Boiling?
-
-*2024-08-23 02:14:00* · [`islandlk`](http://island.lk/from-global-warming-to-global-boiling/) · `en`
-
-… Sri Lanka’s Comprehensive Approach to Climate Action: New Policies and Initiatives Set the Stage for a Sustainable Future
-
-In a bold move to face the chellenges posed by escalating climate crisis, Sri Lanka is unveiling a multi-faceted strategy to bolster its climate resilience and sustainability efforts. The country is embracing a “no-regret” approach, emphasising the importance of informed decision-making, global collaboration, and systematic implementation in its climate policies, a renowned climate scientist said.
-
-...
-
-[Data](articles/0667d371.json)
-
-[Extended Data](ext_articles/0667d371.ext.json)
-
----
-
-### Multitude of contenders and symbols; SL population; an academic let down
-
-*2024-08-23 02:05:00* · [`islandlk`](http://island.lk/multitude-of-contenders-and-symbols-sl-population-an-academic-let-down/) · `en`
-
-As always, Sri Lanka lives up to its descriptive slogan ‘A land like no other’ in the run up to presidential polls. In this instance Cass implies its derogatory connotation. Thirty nine hopefuls have paid their deposits to run the race and so a plethora of neutral looking symbols have been selected from material goods like a torch to a pen and animals from eagle and bat to a hippo – or is it a rhinoceros with one horn? We had the much admired and loved Green Elephant, now almost defunct; the Blue Hand – also gone; the fairly new telephone and bell. The authority that determines these symbols has gone to a store and retrieved a gas cylinder!
-
-...
-
-[Data](articles/522a1f11.json)
-
-[Extended Data](ext_articles/522a1f11.ext.json)
 
 ---

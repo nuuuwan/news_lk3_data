@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 18:16:42**
+As of **2024-08-23 18:28:39**
 
 ## Newspaper Stats
 
-*Scraped **42,286** Articles*
+*Scraped **42,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,54 +19,86 @@ adalk | 3,897
 dailymirrorlk | 4,733
 adaderanalk | 4,958
 tamilmirrorlk | 5,488
-virakesarilk | 6,722
+virakesarilk | 6,723
 adaderanasinhalalk | 7,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,278 (100.0%) of 42,286 articles have been extended.
+42,286 (100.0%) of 42,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### ප්‍රධාන මාර්ග දෙකක රිය ධාවනය සීමා වෙයි
+### ஜனாதிபதி தேர்தலில் முஸ்லிம் அரசியல் தலைவர்களை நம்பாமல் யாரை ஆதரிப்பது என்பதை முஸ்லிம் சமூகம் சிந்தித்து தீர்மானிக்க வேண்டும் - பைஸர் முஸ்தபா
+
+*2024-08-23 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191825) · `ta`
+
+ஜனாதிபதி தேர்தலில் முஸ்லிம் அரசியல் தலைவர்கள் யார் பக்கம் இருந்தாலும் முஸ்லிம் சமூகம் சிந்தித்து தீர்மானம் எடுக்க வேண்டும். அதேபோன்று முஸ்லிம் சமூகத்தை பழிகொடுத்து முஸ்லிம் தலைவர்கள் எந்த வேட்பாளருக்கும் ஆதரவு வழங்க முற்படக்கூடாது என முன்னாள் அமைச்சர் பைஸல் முஸ்தபா தெரிவித்தார்.
+
+கொழும்பில் வெள்ளிக்கிழமை (23) அவரது கட்சி காரியாலயத்தில் இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் ஸ்ரீலங்கா சுதந்திர கட்சி ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க தீர்மானித்திருக்கிறது. கட்சியின் தீர்மானத்துடனே நானும் இருக்கிறேன். என்றாலும் முஸ்லிம் கட்சிகளின் தலைவர்கள் சஜித் பிரேமதாசவுடன் இருந்தாலும் அவர்களின் பாராளுமன்ற உறுப்பினர்கள் ரணில் விக்ரமசிங்கவுடன் இருக்கின்றனர். இது முஸ்லிம் அரசியல் கட்சிகளின் தலைவர்களின் இரட்டை நிலைப்பாட்டைக்கொண்ட கொள்கையாகும்.
+
+முஸ்லிம் கட்சிகளின் தலைவர்கள் ஒரு பக்கம் இருந்துகொண்டு அவர்களின் ஏனைய உறுப்பினர்களை ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க அந்த தலைவர்கள்தான் அனுப்பியிருக்க வேண்டும்.
+
+...
+
+[Data](articles/cb8d5ee2.json)
+
+---
+
+### The driver of two main roads is limited
 
 *2024-08-23 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200250) · `si`
 
-ප්‍රධාන මාර්ග දෙකක රථ වාහන ධාවනය සීමා කිරීම් සම්බන්ධව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය නිවේදනයක් නිකුත් කර තිබේ.
+Due to the Esala Perahera in Ambalangoda and the Maha Perahera in Navagamuwa, road restrictions will be in place. Drivers are advised to use alternative routes.
 
-ඒ අනුව හෙට (24) දින අම්බලන්ගොඩ ඓතිහාසික මෝදර දේවාලයේ ඇසළ මහා පෙරහැර වීථි සංචාරය කිරීමට නියමිතව ඇති බැවින් එදින දහවල් 1 සිට රාත්‍රි 8 දක්වා වූ කාලය තුළ රථ වාහන ධාවනය සීමා කිරීමට පොලීසිය කටයුතු කර තිබේ.
+🟩
 
-මේ හේතුවෙන් එම මාර්ගය භාවිත කරන රියදුරන් ඒ සඳහා විකල්ප මාර්ග භාවිත කරන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලීමක් කර ඇත.
+Police Media Spokesman's Office has issued a statement regarding the restrictions on two main road.
 
-මේ අතර නවගමුව පුරාණ ශ්‍රී පත්තිනි දේවාලයේ මහා පෙරහැර හේතුවෙන්  අවිස්සාවේල්ල කොළඹ 143 පරණ පාරේ රථ වාහන ධාවනය ද සීමා කර තිබේ.
+Accordingly, the Esala Perahera of the Modara Devalaya, Ambalangoda is due to visit the Ambalangoda the historical Perahera of the Ambalangoda tomorrow (24).
 
-ඒ අනුව හෙට (24) දා රාත්‍රී 8 සිට අළුයම 2 දක්වාද 25 දින උදෑසන 8 සිට දහවල් 1 දක්වා ද එම මාර්ගය රිය ධාවනය සඳහා සීමා කර තිබේ.
+As a result, the drivers using the road have requested the public to use alternative routes.
 
-මේ හේතුවෙන් එම මාර්ගය භාවිත කරන රියදුරන්ටද එදින විකල්ප මාර්ග පොලීසිය විසින් හඳුන්වා දී ඇති අතර එම මාර්ග භාවිත කරන මෙන් පොලීසිය ඉල්ලීමක් කර තිබේ.
+Meanwhile, Avissawella has been restricted due to the Maha Perahera of Navagamuwa Pattini Devalaya.
+
+Accordingly, the road has been restricted to drive from 8 am to 1 am to 2 am tomorrow (24).
+
+As a result, the drivers used that road have also been introduced by the police and requested the police to use the roads.
 
 ◼️
 
 [Data](articles/9ec77b7d.json)
 
+[Extended Data](ext_articles/9ec77b7d.ext.json)
+
 ---
 
-### அரச உத்தியோகத்தர்களின் சம்பளத்தை நாமும் 24 சதவீதத்தால் அதிகரிப்போம் - சஜித் பிரேமதாச
+### We will increase the salary of state officials by 24 percent - Sajith Premadasa
 
 *2024-08-23 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191821) · `ta`
 
-அரச உத்தியோகத்தர்கள் நாட்டுக்கு சுமை என்று இதுவரைக் காலமும் கூறி வந்த அரசாங்கம் தற்போது அவர்கள் மீது கரிசணை காட்டுகின்றது. இது முற்று முழுதாக சந்தர்ப்பவாதமாகும். நாமும் அரச உத்தியோகத்தர்களின் சம்பளத்தை 24 சதவீதத்தால் அதிகரிப்போம் என எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa announced a 24% salary hike for state officials, criticizing the government for previously viewing them as burdens. He promised transparency and an exclusive committee for salary revisions, effective from January 2025, aiming to improve public officials' living standards and reduce taxes.
 
-கேகாலை மாவட்டம், வரகாப்பொல தொகுதியில் வெள்ளிக்கிழமை (23) இடம்பெற்ற பிரசாரக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-அரச உத்தியோகத்தர்களை நாட்டுக்கு சுமையாகவே இதுவரை காலமும் உள்ள அரசாங்கங்கள் பார்த்து வந்தன. ஆனால் இப்போதுதான் இந்த அரசாங்கத்துக்கு அரச உத்தியோகத்தர்கள் முக்கியத்துவமானவர்களாகியுள்ளனர். இது சந்தர்ப்பவாதமாகும். தமது பதவிகளை தக்க வைத்துக் கொள்வதற்காக அரச உத்தியோகத்தர்களை ஏமாற்றுவதற்கு தற்போதைய அரசாங்கம் செயற்பட்டு வருகிறது.
+The government, which has so far claimed that state officials are burden to the country. This is a completely opportunism. Opposition leader Sajith Premadasa said that we too will increase the salary of state officials by 24 percent.
+
+He was speaking at a campaign meeting held on Friday (23) in the Varakapola constituency in Kegalle district.
+
+Government officials have seen state officials as a burden to the country. But now the state officials are important to this government. This is opportunism. The current government is working to deceive state officials to retain their positions.
+
+A few months ago, the state service was ineffective and the number of state officials would be reduced and they were burden to the country. But today the same people are making fake promises. We will not make fake promises to do so. Let us do everything that says.
 
 ...
 
 [Data](articles/5a0fb313.json)
+
+[Extended Data](ext_articles/5a0fb313.ext.json)
 
 ---
 
@@ -85,6 +117,8 @@ The Prime Minister and Mun also discussed possible investments in fisheries, hea
 ◼️
 
 [Data](articles/d4360598.json)
+
+[Extended Data](ext_articles/d4360598.ext.json)
 
 ---
 
@@ -177,6 +211,8 @@ A bond maturing on 15.05.2032 closed at 13.00/25 percent. (Colombo/Aug23/2024)
 ◼️
 
 [Data](articles/b0a9a338.json)
+
+[Extended Data](ext_articles/b0a9a338.ext.json)
 
 ---
 
@@ -480,6 +516,8 @@ There was net foreign inflow of 41 million was recorded. (Colombo/Aug23/2024)
 
 [Data](articles/ed31ab2a.json)
 
+[Extended Data](ext_articles/ed31ab2a.ext.json)
+
 ---
 
 ### Sri Lanka - New Zealand's first Test match on holiday
@@ -726,6 +764,8 @@ The debate will be moderated by Chairman of the Ceylon Chamber Duminda Hulangamu
 
 [Data](articles/ec7b2636.json)
 
+[Extended Data](ext_articles/ec7b2636.ext.json)
+
 ---
 
 ### Two teachers arrested for assaulting girl
@@ -901,6 +941,8 @@ He briefed the Prime Minister about the current situation in Palestine and the P
 ◼️
 
 [Data](articles/f4c01ac0.json)
+
+[Extended Data](ext_articles/f4c01ac0.ext.json)
 
 ---
 
@@ -1265,6 +1307,8 @@ Bids were also called by the CPC from registered suppliers for the procurement o
 ...
 
 [Data](articles/641fe592.json)
+
+[Extended Data](ext_articles/641fe592.ext.json)
 
 ---
 
@@ -2277,23 +2321,5 @@ Test driving the ATVs during his official visit to the Australian Border Force h
 [Data](articles/1bf34006.json)
 
 [Extended Data](ext_articles/1bf34006.ext.json)
-
----
-
-### 100th birth anniversary of Justice E.A.D. Atukorale on Sunday
-
-*2024-08-23 04:09:00* · [`dailyftlk`](https://www.ft.lk/news/100th-birth-anniversary-of-Justice-E-A-D-Atukorale-on-Sunday/56-765869) · `en`
-
-Religious observances will be held to mark the 100th birth anniversary of late legal luminary Ebetota Atuoralage Dharmasena Atukorale, well known as E.A.D. Atukorale who hailed from Batugedera Ratnapura, on 25 August 2024.
-
-A product of Ananda College, the late Justice Atukorale excelled in his studies and sports. He entered the Ceylon Law College and was called to the Bar in 1949. He served in the chambers of Queen’s Council and practiced in the civil courts in many parts of the country as an advocate for over two decades.
-
-Justice Atuorale was appointed to the Court of Appeal on 7 September 1978 and was elevated to the position of President of the Court of Appeal on 3 December 1982.
-
-...
-
-[Data](articles/9e85791b.json)
-
-[Extended Data](ext_articles/9e85791b.ext.json)
 
 ---

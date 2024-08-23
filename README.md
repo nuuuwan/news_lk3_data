@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 18:56:04**
+As of **2024-08-23 19:06:47**
 
 ## Newspaper Stats
 
-*Scraped **42,288** Articles*
+*Scraped **42,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,958
 tamilmirrorlk | 5,488
 virakesarilk | 6,723
-adaderanasinhalalk | 7,218
+adaderanasinhalalk | 7,219
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,288 (100.0%) of 42,288 articles have been extended.
+42,288 (100.0%) of 42,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### ලක්ෂ 22ක දුම්වැටි තොගයක් කටුනායකදී අල්ලයි
+
+*2024-08-23 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200252) · `si`
+
+නීතිවිරෝධීව රුපියල් ලක්ෂ 22ක් වටිනා විදේශීය දුම්වැටි තොගයක් මෙරටට රැගෙන ආ පුද්ගලයෙකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපළේදී අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු දුම්වැටි තොගය හරිත මාවත ඔස්සේ කටුනායක ගුවන් තොටුපොළෙන් පිට කරගෙන යාමට උත්සහ කිරීමේ දී රේගු නිළධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+
+අබුඩාබි නුවර සිට සැකකරු ගුවන්තොටුපළ වෙත පැමිණ ඇති අතර ඔහු පන්නිපිටිය ප්‍රදේශයේ පදිංචි 44 හැවිරිදි ව්‍යාපාරිකයෙකි.
+
+සැකකරු සතුව තිබී විදෙස් දුම්වැටි 21,600 ක් රේගුභාරයට ගෙන ඇති අතර එම දුම්වැටි තොගය රාජසන්තක කිරීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/9fb92b63.json)
+
+---
 
 ### The Muslim community should consider and decide who to support Muslim political leaders in the presidential election -Faizer Mustafa
 
@@ -2311,21 +2329,5 @@ The policy dialogue brought together key stakeholders including policymakers and
 [Data](articles/c1612679.json)
 
 [Extended Data](ext_articles/c1612679.ext.json)
-
----
-
-### TMH Group Chairman appointed as IPC Sri Lanka Territory Commander, recognised for global humanitarian efforts
-
-*2024-08-23 04:11:22* · [`dailyftlk`](https://www.ft.lk/news/TMH-Group-Chairman-appointed-as-IPC-Sri-Lanka-Territory-Commander-recognised-for-global-humanitarian-efforts/56-765871) · `en`
-
-TMH Group of Companies Chairman and Chairman of several other prominent business entities Dr. Tharmalingam Tharesanan, was recently appointed as Lieutenant Colonel and Territory Commander of the International Police Commission (IPC) for Sri Lanka.
-
-The official oath-taking ceremony took place in Manila, Philippines, where he was recognised for his contributions to the IPC Global Command and his extensive humanitarian efforts. The event was attended by IPC Supreme Commander General Robert Bizon, of the, along with other distinguished officials from the Diplomatic Affairs Staff. The IPC is an inter-governmental organisation established under international law through treaties involving seven nations: the United States, the Philippines, Australia, Thailand, Vietnam, New Zealand, and South Korea. It operates as an agency of the International Court of Justice (ICJ) and the International Criminal Court (ICC) with global jurisdiction as a paramilitary organisation.
-
-...
-
-[Data](articles/ac3e3c11.json)
-
-[Extended Data](ext_articles/ac3e3c11.ext.json)
 
 ---

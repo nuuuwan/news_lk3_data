@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 12:36:43**
+As of **2024-08-23 12:55:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,231 (100.0%) of 42,233 articles have been extended.
+42,233 (100.0%) of 42,233 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -572,19 +572,25 @@ Interest in buying gold often comes at times of uncertainty — with potential c
 
 ---
 
-### මාලිමාව රජයේ ඩිජිටල් උපායමාර්ගික වැඩපිළිවෙළ අනුකරණය කරලලු
+### The Company imitates the Government Digital Strategic program
 
 *2024-08-23 09:09:24* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාව-රජයේ-ඩිජිටල්-උපායමාර්ගික-වැඩපිළිවෙළ-අනුකරණය-කරලලු/11-411516) · `si`
 
-ජාතික ජනබලවේගය රජයේ ඩිජිටල් උපායමාර්ගික වැඩපිළිවෙළ අනුකරණය කර ඇති බවත්, සමගි ජනබලවේගය ඉන්දියාවේ "ස්ටැක්" උපායමාර්ගය අනුකරණය කර ඇති බවත් තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පැවසීය.
+Minister Kanaka Herath announced at a meeting that India has adopted Sri Lanka's National Ceylon Tigerfish Strategic Program and its reconciliation strategy, mirroring the Government Digital Strategic program. He highlighted this as a positive step towards aligning with the President's vision.
 
-වෝටර්ස් එජ් හෝටලයේ පැවැති තොරතුරු තාක්ෂණවේදීන්ගේ හමුව අමතමින් ඔහු මේ බව පැවැසීය.
+🟩
 
-එසේම අනෙකුත් පක්ෂ ඒ ආකාරයට ජනාධිපතිවරයාගේ දැක්ම අනුගමනය කිරීම රටට සුභ ලකුණක් වන බවත් ඔහු වැඩිදුරටත් පැවැසිය.
+The National Ceylon Tigitional Strategic Program Immediated and the reconciliation strategy has been imitated in India, "said Minister of Technology Kanaka Herath.
+
+He was speaking at the Meeting of Information on the Waters Edge Hotel.
+
+He also said that the country is a good sign to follow the President's vision.
 
 ◼️
 
 [Data](articles/cdc7de84.json)
+
+[Extended Data](ext_articles/cdc7de84.ext.json)
 
 ---
 
@@ -628,25 +634,31 @@ However, Hettiarachchi pointed out that, if essential, such measures should be i
 
 ---
 
-### බෙන්තර ගඟේ බෝට්ටු දෙකක් ගැටී දෙදෙනෙක් අතුරුදන්
+### Two missing two boats in Bentara River
 
 *2024-08-23 08:38:04* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තර-ගඟේ-බෝට්ටු-දෙකක්-ගැටී-දෙදෙනෙක්-අතුරුදන්/11-411514) · `si`
 
-බෙන්තර ගගේ සංචාරක  බෝට්ටු දෙකක් මුහුනට මුහුණ ගැටී සිදුවූ අනතුරකින් පුද්ගලයන් දෙදෙනකු අතුරුදන්ව ඇති බව අලුත්ගම පොලිසිය පවසයි .
+In an accident involving two tourist boats in Sri Lanka, two individuals went missing. The incident occurred near the Bentara River when one boat from a hotel in Aluthgama collided with another near Baratagama. The victims' identities remain unknown as they were found in the Benthara area. The police, supported by the navy, are investigating the cause of the accident near Bangawa, with further inquiries ongoing from Aluthgama and Bentara Police Stations.
 
-අලුත්ගම ප්‍රදේශයේ සංචාරක හෝටලයක සේවය නිමවා පිරිසක් රැගෙන ගමන්කල බෝට්ටුවක් සහ බෙන්තර පොලිස් බළප්‍රදේශයේ පිහිටි සංචාරක බෝට්ටුවක් මෙලෙස මුහුණට මුහුණ ගැටී ඇති බව උසස් පොලිස් නිළධාරියෙක් කීය.
+🟩
 
-මෙසේ අතුරුදන්ව ඇත්තේ බෙන්තර ප්‍රදේශයේ සංචාරක හෝටලයකින් පැමිණි බෝට්ටුවේ දෙදෙනකු බවට දැනගන්නට ලැබී ඇති බවත් රාත්‍රි නිසා අනන්‍යතාවය හදුනාගෙන නොමැති බවත්  පොලිසිය කීය.
+Two persons have been disappeared in an accident that two bandage tourists boats were confronted with two tourist boats.
 
-බෙන්තර අගමැති බංගලාව ආසන්නයේ පිහිටි  සංචාරක හෝටලයක් ඉදිරිපිට අනතුර සිදුව ඇති බවට තොරතුරු ලැබී ඇතැයිද පොලිසිය පවසයි .
+A tourist boat in a tourist hotel in Aluthgama has collided with a tourist boat in the Baratagama and the Bharama Police.
 
-හෝටලයේ බෝට්ටු සහ අවට පිහිටි ජල ක්‍රීඩා සංගම්වල බෝට්ටු ආධාරයෙන් අතුරුදන් දෙදෙනා සොයා මේ වනවිට විමර්ශන සිදුකරන බවත් නාවික හමුදාව දැනුවත් කර ඇති බවත් උසස් පොලිස් නිළධාරියෙක් කීය.
+The victim was found in the boat from a tourist hotel in Benthara area and the identity had not been identified.
 
-අලුත්ගම සහ බෙන්තර පොලිස් ස්ථාන වෙතින් පරීක්ෂණ සිදුකරමින් පවතින බව පොලිසිය සදහන් කරයි.
+Police say that the accident had occurred in front of the Bangawa area near Bangalawa area near the Bungalow.
+
+The Navy has informed the disappearance of the disappearance with the support of the hotel boats and the hotel.
+
+Police are conducting further investigations from Aluthgama and Bentara Police Stations.
 
 ◼️
 
 [Data](articles/4e6c728e.json)
+
+[Extended Data](ext_articles/4e6c728e.ext.json)
 
 ---
 

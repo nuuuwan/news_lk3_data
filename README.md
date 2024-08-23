@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 08:36:53**
+As of **2024-08-23 08:55:51**
 
 ## Newspaper Stats
 
-*Scraped **42,200** Articles*
+*Scraped **42,201** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 354
 newsfirstlk | 363
-bbccomsinhala | 390
+bbccomsinhala | 391
 colombotelegraphcom | 404
 islandlk | 2,449
 economynextcom | 2,553
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,197 (100.0%) of 42,200 articles have been extended.
+42,199 (100.0%) of 42,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### ජනපතිවරණය මැද ජනතාවට සහන දීම ගැන ප්‍රශ්න කරයි
+### Presidential election questions about giving relief
 
 *2024-08-23 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200229) · `si`
 
-ජනාධිපතිවරණය ප්‍රකාශයට පත්කර ඇති අවස්ථාවක රජය විසින් ජනතාව වෙත සහනාධාර ලබාදීම පිළිගත නොහැකි බව පැෆ්රල් සංවිධානය පවසයි.
+PAFFREL warns against government accepting public subsidies post-election, citing potential misuse for vote acquisition. However, its director suggests relief measures could be implemented if needed to address economic issues during the campaign period.
 
-එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පැවසුවේ ඒ සම්බන්ධයෙන් මැතිවරණ කොමිසම දැනුම්වත් කිරීමට කටයුතු කර ඇති බවය.
+🟩
 
-මේ අතර  මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසුවේ ඡන්ද ලබාගැනීමේ අරමුණින් ජනතාවට මෙම සහන ලබාදී නොමැති බවය.
+The PAFFREL organization says that when the government has been announced, the government cannot accept subsidies to the public.
 
-කෙසේ වෙතත් ජනතාවගේ ආර්ථික ගැටලු විසඳීම සඳහා සහනාධාර ලබාදීමට අවශ්‍යව තිබුණේ නම් එය ජනාධිපතිවරණයෙන් පසු සිදු කිරීමට හැකි බව පැෆ්රල් සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පැවසීය.
+The Executive Director of the Executive Director Rohana Hettiarachchi said that the Election Commission had informed the election.
+
+Meanwhile, government minister Ranjith Siyambalapitiya said the people have not provided these concessions with the aim of obtaining votes.
+
+However, the Executive Director of PAFFREL Rohana Hettiarachchi said that if it was necessary to handle the economic problems of the people, it was possible to take relief to the presidential election.
 
 ◼️
 
 [Data](articles/67d6c32b.json)
+
+[Extended Data](ext_articles/67d6c32b.ext.json)
 
 ---
 
@@ -281,6 +287,8 @@ However the icing on the winning candidate’s cake would be the minority vote. 
 ...
 
 [Data](articles/a323e8b9.json)
+
+[Extended Data](ext_articles/a323e8b9.ext.json)
 
 ---
 
@@ -725,6 +733,32 @@ The heads of this politics are changing. There is a political culture that loses
 [Data](articles/01031cea.json)
 
 [Extended Data](ext_articles/01031cea.ext.json)
+
+---
+
+### රනිල් ස්වාධීන අපේක්ෂකයෙකු වූයේ ඇයි? එය ඔහුට වාසි ද? අවාසි ද?
+
+*2024-08-23 02:43:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cql3e0yx7lyo) · `si`
+
+රනිල් ස්වාධීන අපේක්ෂකයෙකු වූයේ ඇයි? එය ඔහුට වාසි ද? අවාසි ද?
+
+ශ්‍රී ලංකාවේ දේශපාලනය වර්තමානයේ දැඩි විපර්යාසයකට ලක්ව ඇති බව බොහෝ දේශපාලන විශ්ලේෂකයින්ගේ අදහස වී තිබේ.
+
+රටේ මුල් බැසගෙන තිබුණු දැවැන්ත පක්ෂවල ආධිපත්‍යය බිඳ වැටෙමින්, පක්ෂ මුල් කර ගත් දේශපාලනය මේ වන විට අහෝසි වෙමින් පවතින බව ඔවුහු පෙන්වා දෙති.
+
+ඒ වෙනුවට, ස්වාධීන අපේක්ෂකයින් හෝ පක්ෂ කිහිපයක එකතුවක් නියෝජනය කරන අපේක්ෂකයින් මෙවර ජනාධිපතිවරණයේදී දක්නට ලැබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ වසර 40කට අධික කාලයක් නියෝජනය කළ අලියා ලකුණ අතහැර මෙවර තරග කරන්නේ, ස්වාධීන අපේක්ෂකයෙකු ලෙස ය.
+
+ඔහු, ශ්‍රී ලංකාවේ පැරණිතම දැවැන්ත දේශපාලන පක්ෂයක් වන එක්සත් ජාතික පක්ෂයෙන් තරග නොකර ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වූයේ, ඇයි? එය ඔහුට වාසි ද? අවාසි ද?
+
+ස්වාධීන අපේක්ෂකයෙකු ලෙස පෙනී සිටිය ද, රනිල් වික්‍රමසිංහ සැබවින් ම ස්වාධීන අපේක්ෂකයෙකු නොවන බව දේශපාලන විශ්ලේෂකයෙකු වන ආචාර්ය දයාන් ජයතිලක පවසයි.
+
+"රනිල් ඇත්තට ම ස්වාධීන අපේක්ෂකයෙක් නෙවෙයි. එතුමා වටේ ඉන්නවා දේශපාලන පක්ෂ රැසක්. හැබැයි ඒ සියලු පක්ෂ ජනතාවගෙන් ප්‍රතික්ෂේප වුණ දුර්වල පක්ෂ."
+
+...
+
+[Data](articles/18735f5b.json)
 
 ---
 
@@ -2301,33 +2335,5 @@ The proposal was put forward as a joint proposal by the President as the Ministe
 [Data](articles/04feeafa.json)
 
 [Extended Data](ext_articles/04feeafa.ext.json)
-
----
-
-### What the SriLankan Paper was made to the 45th birthday
-
-*2024-08-22 15:05:19* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-45-වැනි-උපන්දිනයට-කළ-දේ/11-411505) · `si`
-
-To celebrate its 45th anniversary, SriLankan Airlines invited a group of monks from the ancient Wadduwa temple to experience various aspects of aviation, including visiting the Katunayake airport, shopping malls, customs premises, immigration department, and aircraft. This unique event aimed to highlight the importance of tourism and aviation to Sri Lanka's economy, showcasing the country's rich cultural heritage alongside modern developments.
-
-🟩
-
-SriLankan Airlines will be called to the Katunayake airport and take their experiences to Sri Lankan plane as well as to mark the Sri Lankan Airlines on September 1st.Had given the days.
-
-SriLankan Airlines, Airport and Aviation Ltd and the Civil Aviation Authority (CA) was sponsored.
-
-The head of the SriLankanaka Communication Division, SriLankanaka Communication Division, the SriLankanayake Institute of Corporate Communications, said that it is a valuable task that these novices begin to identify the main economic center of land of the country.
-
-The program was a 60-year-old monks who work in the ancient temple of Wadduwa, Deldu ancient temple and attended.
-
-The monks had access to the Katunayake airport processing shopping mall, the Customs Premises, the Department of Immigration and Sri Lankan Aircraft and all functions.
-
-It is noteworthy that a person is unable to obtain a flight passenger in a flight.
-
-...
-
-[Data](articles/d1fda079.json)
-
-[Extended Data](ext_articles/d1fda079.ext.json)
 
 ---

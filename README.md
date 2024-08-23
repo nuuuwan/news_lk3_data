@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 01:55:48**
+As of **2024-08-24 02:06:33**
 
 ## Newspaper Stats
 
-*Scraped **42,328** Articles*
+*Scraped **42,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 391
 colombotelegraphcom | 404
 islandlk | 2,451
 economynextcom | 2,566
-dailyftlk | 2,754
+dailyftlk | 2,758
 adalk | 3,899
 dailymirrorlk | 4,733
 adaderanalk | 4,962
-tamilmirrorlk | 5,490
+tamilmirrorlk | 5,491
 virakesarilk | 6,734
 adaderanasinhalalk | 7,227
 
@@ -26,11 +26,105 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,324 (100.0%) of 42,328 articles have been extended.
+42,328 (100.0%) of 42,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### Dayasiri disappointed as SLFP stalwarts Angajan and Dushmantha switch allegiance to Ranil
+
+*2024-08-24 01:51:38* · [`dailyftlk`](https://www.ft.lk/news/Dayasiri-disappointed-as-SLFP-stalwarts-Angajan-and-Dushmantha-switch-allegiance-to-Ranil/56-765950) · `en`
+
+Dayasiri Jayasekara expresses belief both Angajan Ramanathan and Dushmantha Mithrapala have been offered various benefits in return for their support
+
+Dushmantha Mithrapala says decision was taken after careful consideration on current situation
+
+Says President Ranil Wickremesinghe is best leader to guide SL at this juncture
+
+Angajan Ramanthana says Wickremesinghe pledge to resolve issues faced by people in Jaffna
+
+Sri Lanka Freedom Party (SLFP) General Secretary and MP Dayasiri Jayasekara has expressed his deep disappointment and dismay over the decision of party Senior Vice President Angajan Ramanathan and former Acting General Secretary Sarathi Dushmantha Mithrapala to support President Ranil Wickremesinghe in the upcoming Presidential Election.
+
+...
+
+[Data](articles/34cefcb1.json)
+
+---
+
+### President says he respects people’s voting rights and right to live
+
+*2024-08-24 01:48:39* · [`dailyftlk`](https://www.ft.lk/news/President-says-he-respects-people-s-voting-rights-and-right-to-live/56-765949) · `en`
+
+Opines if time was spent on conducting LG Polls, country’s economy might not recover
+
+Assures General Elections to follow Presidential Election, with Provincial Council and Local Government Elections scheduled afterwards
+
+Asks activists why not pursue legal action to restore economic stability?
+
+President Ranil Wickremesinghe on Thursday acknowledged that postponing the Local Government elections is a violation of citizens’ basic rights but he does not regret this decision, as the time was dedicated to ensuring the people’s right to live and maintaining their safety. He emphasised his respect for both the right to vote and the right to live.
+
+The President also noted that every hour was crucial in the effort to stabilise the country’s economy. He explained that had he devoted that time to conducting the Local Government elections, achieving economic stability would not have been possible.
+
+...
+
+[Data](articles/6e8e6c69.json)
+
+---
+
+### Hakeem opposes new Chief Epidemiologist appointment over role in COVID-19 cremation policy
+
+*2024-08-24 01:47:42* · [`dailyftlk`](https://www.ft.lk/news/Hakeem-opposes-new-Chief-Epidemiologist-appointment-over-role-in-COVID-19-cremation-policy/56-765948) · `en`
+
+SJB MP Rauff Hakeem has urged Health Minister Dr. Ramesh Pathirana to not appoint Dr. Hasitha A. Tissera as Chief Epidemiologist
+
+Points out Tissera was part of expert committee that recommended mandatory cremations of all COVID-19 victims
+
+Says despite Govt. apology, forced cremations caused significant distress to Muslims in SL
+
+Samagi Jana Balawegaya (SJB) MP Rauff Hakeem has urged Health Minister Dr. Ramesh Pathirana not to appoint Senior Medical Epidemiologist Dr. Hasitha A. Tissera as Chief Epidemiologist, citing Tissera’s role in the expert committee that recommended the mandatory cremation of all COVID-19 victims.
+
+In Parliament on Wednesday, Hakeem criticised the decision to cremate all COVID-19 victims, arguing that it was not based on scientific evidence and had caused significant distress to the Muslim community in Sri Lanka.
+
+...
+
+[Data](articles/c49afd53.json)
+
+---
+
+### NPP fires off three LoDs to Tissa, Rauff and ABC over defamatory statements
+
+*2024-08-24 01:46:54* · [`dailyftlk`](https://www.ft.lk/news/NPP-fires-off-three-LoDs-to-Tissa-Rauff-and-ABC-over-defamatory-statements/56-765947) · `en`
+
+The National People’s Power (NPP) party issued a Letter of Demand (LoD) to Samagi Jana Balawegaya (SJB) MP Rauff Hakeem yesterday, alleging that a recent statement by Hakeem purposely distorted remarks made by NPP leader Anura Kumara Dissanayake.
+
+The Letter of Demand requested that Hakeem, who is also the leader of the Sri Lanka Muslim Congress (SLMC), pay Rs. 2 billion to Dissanayake for the comments made or face legal action.
+
+The offending remarks by Hakeem were reportedly made during a political meeting held in Kattankudy on 19 August. The NPP Presidential candidate has accused Hakeem of distorting, fabricating, and deliberately misrepresenting a comment originally made by him in 2019, and of repeating it in Tamil at the political meeting.
+
+The Letter of Demand noted that Hakeem had claimed Dissanayake said in Parliament that “terrorism is growing in the womb of every Muslim mother.”
+
+...
+
+[Data](articles/71e33e3b.json)
+
+---
+
+### 12 நாடுகளின் பிரதிநிதிகளுக்கு அழைப்பு
+
+*2024-08-24 01:38:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-நாடுகளின்-பிரதிநிதிகளுக்கு-அழைப்பு/175-342698) · `ta`
+
+ஜனாதிபதித் தேர்தல் கண்காணிப்பு நடவடிக்கைகளுக்காக 12 நாடுகளின் பிரதிநிதிகளுக்கு அழைப்பு விடுக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இந்தியா, நேபாளம், பங்களாதேஷ், பாகிஸ்தான், மாலைதீவு உள்ளிட்ட நாடுகளுக்கு இவ்வாறு அழைப்பு விடுக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க குறிப்பிட்டுள்ளார்.
+
+அவர்கள் ஜனாதிபதித் தேர்தல் வாக்களிப்பு உள்ளிட்ட சகல செயற்பாடுகளையும் அவதானித்து அறிக்கையொன்றை வழங்க நடவடிக்கை எடுக்கவுள்ளதாக ரத்நாயக்க தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/e1d47de1.json)
+
+---
 
 ### Sajith does not sympathize with the people of Anura, overlooking the suffering of the people -President
 
@@ -672,19 +766,29 @@ The two heirs of the two are the official wife and an unofficial wife of the dec
 
 ---
 
-### வாழை - விமர்சனம்
+### Banana - Review
 
 *2024-08-23 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191816) · `ta`
 
-தயாரிப்பு : நவ்வி ஸ்டுடியோஸ் & ஃபார்மர்ஸ் மாஸ்டர் பிளான் புரொடக்ஷன் & டிஸ்னி பிளஸ் ஹாட்ஸ்டார்
+"Banana," directed by Mari Selvaraj, features a heartwarming tale set in a rural backdrop, focusing on the lives of villagers like Janaki and her children, Rahul and Vembu. Despite facing hardships, the family's resilience shines through, especially Rahul's determination to pursue his passion for dance under the guidance of his teacher, Nikila Wimal. The film, while making some commercial concessions, effectively portrays the struggles and joys of rural life, with standout performances by the cast and impactful music.
 
-நடிகர்கள்: பொன் வேல், ராகுல், கலையரசன், நிகிலா விமல், திவ்யா துரைசாமி, ஜானகி மற்றும் பலர்.
+🟩
 
-'பரியேறும் பெருமாள்', 'கர்ணன்', 'மாமன்னன்' ஆகிய திரைப்படங்களை இயக்கியதன் மூலம் ரசிகர்களிடத்தில் தனித்த கவனத்தை ஈர்த்தவர் இயக்குநர் மாரி செல்வராஜ். தமிழ் திரையுலகில் இயக்குநர் பா. ரஞ்சித் முன்னெடுத்திருக்கும் ஒடுக்கப்பட்டவர்களுக்கான படைப்பு உலகில் தளபதியாக திகழும் மாரி செல்வராஜ் இயக்கத்தில் உருவாகி இருக்கும் 'வாழை' எனும் திரைப்படம் - அவருடைய சொந்த வாழ்க்கையில் நடைபெற்ற உண்மைச் சம்பவங்களை தழுவி தயாரானதாக அவரே அறிவித்திருந்தார். இந்நிலையில் இந்தத் திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதனை தொடர்ந்து காண்போம்.
+Product: Navi Studios & Farmers Master Plan Production & Disney Plus Hotstar
+
+Actors: Bon Vale, Rahul, Kalaiyarasan, Nikila Wimal, Divya Duraisamy, Janaki and many others.
+
+Director Mari Selvaraj, who has attracted a unique attention to the fans by directing 'Periyarum Perumal', 'Karna' and 'Mamannan'.. Director Ba in Tamil film industry. He has announced that he is ready to embrace the real events in his own life - the film 'Banana', directed by Mari Selvaraj, the commander of the creative world of Ranjith.. In this case, did the film impress all the fans?Or not?We will continue to see.
+
+Janaki works in a small village near Srivaikundam area in Thoothukudi district. He lost her husband and two heirs, Vembu (Divya Duraisamy) Sivanandan (Pon Vale).
+
+Janaki and Divya Duraisamy travel with the servants to carry a banana daily. Rahul does not want to carry a banana tar. However, due to the family environment and the love of the mother, he carrys a banana bar during the holidays.
 
 ...
 
 [Data](articles/318f292a.json)
+
+[Extended Data](ext_articles/318f292a.ext.json)
 
 ---
 
@@ -758,19 +862,25 @@ The first phase are not included in the first phase of the times ticket, but the
 
 ---
 
-### தலதா அத்துகோரவலவின் பாராளுமன்ற ஆசனம் வெற்றிடமாகியுள்ளது; தேர்தல்கள் ஆணைக்குழுவுக்கு பாராளுமன்ற செயலாளர் அறிவிப்பு
+### The parliamentary seat of Dalada Athukorawala is vacant;Parliamentary Secretary notice to the Elections Commission
 
 *2024-08-23 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191829) · `ta`
 
-தலதா அதுகோரல பாராளுமன்ற உறுப்பினர் பதவியிலிருந்து இராஜினாமா செய்ததை அடுத்து பாராளுமன்ற உறுப்பினர் பதவியில் வெற்றிடம் ஏற்பட்டிருப்பதாக பாராளுமன்ற செயலாளர் தேர்தல்கள் ஆணைக்குழுவுக்கு அறிவித்துள்ளார்.
+Dalada Athukorala's parliamentary seat is now vacant due to his resignation. The Parliamentary Secretary notified the Elections Commission about this under Section 64(1) of the Parliamentary Elections Act.
 
-இரத்தினபுரி தேர்தல் மாவட்ட பாராளுமன்ற உறுப்பினர் தலதா அதுகோரல 2024 ஓகஸ்ட் 21ஆம் திகதி முதல் நடைமுறைக்கு வரும் வகையில் பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்துள்ளதால் ஒன்பதாவது பாராளுமன்றத்தில் உறுப்பினர் ஒருவருக்கான வெற்றிடம் ஏற்பட்டிருப்பதாக பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தேர்தல்கள் ஆணைக்குழுவின் தலைவருக்கு எழுத்துமூலம் அறிவித்துள்ளார்.
+🟩
 
-1981ஆம் ஆண்டின் 1ஆம் இலக்க பாராளுமன்றத் தேர்தல்கள் சட்டத்தின் 64(1) ஆம் பிரிவின் பிரகாரம் இந்த அறிவித்தல் விடுக்கப்பட்டுள்ளது.
+The Parliamentary Secretary has informed the Elections Commission that there has been a vacuum in the post of Member of Parliament following the resignation of the Dalada Athukorala parliamentarian.
+
+The Secretary General of Parliament Kushani Rohanadheera has informed the Chairman of the Elections Commission of the Ninth Parliament that the Ninth Parliament has had a vacuum as the Ratnapura Election District Member of Parliament Talatha Athukorala has resigned from the post of Parliament on August 21, 2024.
+
+The announcement was made in accordance with Section 64 (1) of the Parliamentary Elections Act No. 1 of 1981.
 
 ◼️
 
 [Data](articles/3a71191a.json)
+
+[Extended Data](ext_articles/3a71191a.ext.json)
 
 ---
 
@@ -1146,19 +1256,29 @@ From Northern, North Central and Northwestern provinces, in the North Central an
 
 ---
 
-### போலியான செலவின தகவல்களை சமர்ப்பிக்கும் வேட்பாளர்களின் குடியுரிமை இரத்தாகும் - தேர்தல்கள் ஆணைக்குழு
+### Candidates who submit fake spending information are the citizenship blood - Elections Commission
 
 *2024-08-23 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191790) · `ta`
 
-ஜனாதிபதித் தேர்தல் வாக்கெடுப்பு முடிவடைந்து 21 நாட்களுக்குள் தேர்தல் செலவினங்கள் தொடர்பான உறுதிப்படுத்தப்பட்ட தகவல்களை வழங்காத மற்றும் போலியான தகவல்களை முன்வைக்கும் வேட்பாளர்களின் குடியுரிமை மூன்று ஆண்டுகளுக்கு இரத்து செய்யப்படும். தேர்தல் செலவினங்கள் ஒழுங்குப்படுத்தல் சட்டத்துக்கமைய அனைத்து வேட்பாளர்களும் செயற்பட வேண்டும் என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+Candidates submitting false election expense reports face losing their citizenship for three years. This penalty applies if they fail to provide accurate information within 21 days post-election. The Election Commission emphasizes adherence to the Election Expenditure Act, highlighting the importance of transparency in election financing.
 
-அரசாங்க தகவல் திணைக்களத்தில் வெள்ளிக்கிழமை (23) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-தேர்தல் பிரச்சார செலவினங்கள் தொடர்பான சட்டம் 1946 ஆம் ஆண்டு அறிமுகப்படுத்தப்பட்டது.தேர்தல் சட்டத்துக்கு அமைய செயற்படாதவர்களின் பதவி நிலைகளும் நீதிமன்றத்தின் தீர்ப்பின் ஊடாக இரத்துச் செய்யப்பட்ட வரலாற்று பதிவுகளும் காணப்படுகின்றன.
+The citizenship of candidates will be canceled for three years for not providing confirmed information on election expenses and fake information within 21 days after the presidential election referendum ends. Elections Commissioner Saman Sri Ratnayake said that all candidates should act in accordance with the Election Expenditure Act.
+
+He was speaking at a media briefing held at the Government Information Department on Friday (23).
+
+The Act was introduced in 1946 by the Election Campaign Expenditure Act.
+
+Once the voting system is introduced in the electoral structure. The voters also look at the election, considering what they would get.
+
+Social contract between politicians and voters after the intensification of financial exchange during the election period weakened. The business situation has originated. It is worrying that the relationship between the candidate and the voter has been transformed into a relationship between the businessman and the consumer.
 
 ...
 
 [Data](articles/372fd0f4.json)
+
+[Extended Data](ext_articles/372fd0f4.ext.json)
 
 ---
 
@@ -1240,19 +1360,27 @@ The Commission pointed out that 65 election related complaints have been reporte
 
 ---
 
-### ஐக்கிய தேசியக் கட்சியை பிளவுபடுத்த முன்னின்று செயற்பட்ட தலதா தற்போது முதலைக் கண்ணீர் வடிக்கிறார் - முஜிபுர்
+### Dalada, who is leading the United National Party, is now shedding crocodile tears - Mujibur
 
 *2024-08-23 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191785) · `ta`
 
-ஐக்கிய தேசிய கட்சியை பிளவுபடுத்தி சஜித் பிரேமதாச தலைமையில் கட்சி அமைக்க பிரதானமாக செயற்பட்ட தலதா அத்துகோரள தற்போது கட்சி பிளவுபட்டுள்ளதை ஏற்றுக்கொள்ள முடியாது என முதலைக்கண்ணீர் வடிக்கிறார். இறுதி நேரத்தில் கட்சியை விட்டு செல்வதன் மூலம்  அவர் சஜித் பிரேமதாசவுக்கு முதுகில் குத்தியுள்ளார் என முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+Dalada Athukorala, a key figure in the United National Party (UNP), recently resigned from her parliamentary position, criticizing the party's division and leadership issues. She accuses the party of hypocrisy, citing its current state as unacceptable and contrasting it with her past support for Sajith Premadasa. Athukorala's departure highlights internal conflicts within the UNP, with allegations of alliances with controversial figures and accusations of fraud against members. This situation raises questions about the party's integrity and future direction.
 
-ஐக்கிய தேசிய கட்சியின் இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள பாராளுமன்றத்தில் விசேட உரையொன்றை ஆற்றிவிட்டு பாராளுமன்ற உறுப்பினர் பதவியை விட்டுச்சென்றமை தொடர்பில் குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஐக்கிய தேசிய கட்சிக்குள் தலைமை பதவி தொடர்பில் பிரச்சினை வந்தபோது, சஜித் பிரேமதாசவுக்கு தலைமை பதவி வழங்கவேண்டும் என்ற நிலைப்பாட்டில் உறுதியாக இருந்தவர்களில் தலதாவும் ஒருவர். ஐக்கிய தேசிய கட்சியில் சஜித் பிரேமதாசவுக்கு தலைமை பதவி கிடைக்காத நிலையில் கட்சியில் இருந்து வெளியேறி, சஜித் பிரேமதாச தலைமையில்  புதிய கட்சி ஒன்றை உருவாக்கவும் அவர் முன்னிருந்து செயற்பட்டார். அதனால் பாராளுமன்றத்தில் அவர் தெரிவித்த கருத்து பொய் என்பதை அவரின் மனசாட்சி சொல்லும்.
+Dalada Athukorala, who has been the main party headed by Sajith Premadasa, is now unacceptable that the party is divided and crocodile tears.. Mujibur Rahman said he had stabbed Sajith Premadasa by leaving the party in the last time.
+
+The United National Party (UNP) Ratnapura District Parliamentarian Dalada Athukorala made a special speech in Parliament and left the post of Member of Parliament.
+
+Dalada was one of those who was determined to give Sajith Premadasa the leadership of the leadership when the issue was on the issue within the UNP.. He left the party as Sajith Premadasa did not get a leadership in the United National Party and formed a new party headed by Sajith Premadasa. So his conscience in Parliament will be false.
+
+It is new to say that the UNP is divided and that the leaders are now unacceptable to contest the two fronts. Ranil Wickremesinghe has joined hands with racists and thieves for his presidential dream, the United National Party's policy and symbol.
 
 ...
 
 [Data](articles/0525014a.json)
+
+[Extended Data](ext_articles/0525014a.ext.json)
 
 ---
 
@@ -2173,123 +2301,5 @@ Murban is lighter (less dense) than Brent crude oil. (Colombo/Aug23/2024)
 [Data](articles/226d1303.json)
 
 [Extended Data](ext_articles/226d1303.ext.json)
-
----
-
-### Sri Lanka awards 2.1mn barrel crude contracts to Vitol Asia
-
-*2024-08-23 11:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-2-1mn-barrel-crude-contracts-to-vitol-asia-177859/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to purchase 3 shipments of Murban type of crude oil from November 15, 2024 to April 14, 2025 to Vitol Asia (Singapore) Pte Ltd, a government statement said.
-
-The 2,100,000 barrels +/- 5%, will be obtained on the basis of payment in 30 days through a Letter of Credit issued by the Bank of Ceylon.
-
-Bids were called by the State-owned Ceylon Petroleum Corporation from registered suppliers for the long term contract, and 5 bids were received.
-
-The bid submitted by Vitol Asia (Pvt) Ltd in Singapore was recommended as the responsive bid by the cabinet-appointed special standing procurement committee.
-
-Murban is a light crude that can be processed by a refinery owned by CPC.
-
-Bids were also called by the CPC from registered suppliers for the procurement of 3 shipments of Murban crude oil (2,100,000 Barrels +/- 5%) under the procedure of issuance from the 100% stored tanks (100% Ex. Storage Modality) from November 15 to April 14, 2025.
-
-...
-
-[Data](articles/641fe592.json)
-
-[Extended Data](ext_articles/641fe592.ext.json)
-
----
-
-### Two Independent MPs help
-
-*2024-08-23 11:40:22* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂ-මන්ත්‍රීවරු-දෙදෙනෙක්-ජනපතිගේ-සහායට/11-411519) · `si`
-
-Harin Renathan and Kegalle District Diyashantha Mithrapala, independent MPs, will back Ranil Wickremesinghe in Sri Lanka's upcoming presidential election. They met him at his political office in Colombo, indicating their support for his candidacy.
-
-🟩
-
-Sri Lanka Freedom Party (SLFP) MP Harin Renathan and Kegalle District Diyashantha Mithrapala have decided to support Ranil Wickremesinghe in the next presidential election.
-
-At the same time, they have been told that they met the President at the political office of Ranil Wickremesinghe's political office at Manipal Ranil Wickremesinghe, President of Colombo.
-
-◼️
-
-[Data](articles/f8015d12.json)
-
-[Extended Data](ext_articles/f8015d12.ext.json)
-
----
-
-### Digital system can be tested
-
-*2024-08-23 11:26:51* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-ඩිජිටල්-ක්‍රමයට-අත්හදා-බැලිය-හැකියි/11-411518) · `si`
-
-President Ranil Wickremesinghe announced that the digital electoral system, overseen by former Chief Justice Priyasha Dep, will be tested during local government elections. This decision came in response to inquiries from IT professionals in Colombo.
-
-🟩
-
-President Ranil Wickremesinghe said that President Ranil Wickremesinghe said that the report of the Commission (CJ) under the purview of former Chief Justice Priyasha Dep for the digitization of the electoral system.
-
-Accordingly, the digital electoral system could be tested for the local government elections.
-
-He was responding to a question referred to a question referred to a question referred to at Colombo, IT Professionals.
-
-◼️
-
-[Data](articles/746e9bb6.json)
-
-[Extended Data](ext_articles/746e9bb6.ext.json)
-
----
-
-### The Railway Bridge built more close to India
-
-*2024-08-23 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200234) · `si`
-
-The Chenab Railway Bridge, located in Jammu & Kashmir's Riyawas district, is a marvel of engineering, standing at 1,315 meters long and 359 meters high. Built over the Chenab River amidst challenging Himalayan terrain, it took 20 years and $168 million to complete. Despite harsh weather conditions and potential hazards like landslides and floods, this single-arch bridge stands as a testament to Indian engineering prowess, overcoming significant obstacles to become one of the highest railway bridges in the world.
-
-🟩
-
-The Railway Bridge has been built in the Riyawas district of the Riyawas district of Jamm and Kashmir and this train bridge has been named as the Chenatab Railway Bridge.
-
-According to Indian authorities, this has been constructed in the Indian administration, the Kashmiri Prefecture under Indian control.
-
-Indian authorities have operated and experimenting with the chern bridge that runs over the cherob river.
-
-Among the Himalayas Mountains is also the world's most hearer bridge in the world.
-
-The Chenab Railway Bridge, designed in a single arch, is 1,315 meters long and its height is 359 meters.
-
-The government has spent 20 years to complete the railway bridge, and the government has spent $ 168 million.
-
-The bridge has been constructed, even though the weather conditions appear in Jammu.
-
-It is also noteworthy that this can be constructed to face any obstacles, such as landslides, snowfall, floods and trees.
-
-...
-
-[Data](articles/25ae84c3.json)
-
-[Extended Data](ext_articles/25ae84c3.ext.json)
-
----
-
-### Kiribati’s pro-China govt bars foreign officials from visiting until 2025, citing elections
-
-*2024-08-23 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101443/kiribatis-pro-china-govt-bars-foreign-officials-from-visiting-until-2025-citing-elections) · `en`
-
-The government of Kiribati is suspending all diplomatic visits to the tiny Pacific Island nation until next year and has cancelled some already planned, because it is in the midst of an election process that could run for several more months, an official said Thursday.
-
-The official in Kiribati’s foreign ministry told The Associated Press that a message announcing the pause in diplomatic trips was sent earlier this week to countries that have diplomatic relations with Kiribati — a low-lying atoll of 120,000 people.
-
-It follows escalating friction between Kiribati and Western nations — particularly Australia, a major aid donor — over the country’s deepening ties with China.
-
-Kiribati is threatened by rising sea levels and does not command the resource wealth or tourism branding of some other Pacific islands. But its proximity to Hawaii and location in a huge ocean expanse have bolstered its strategic importance and provoked an influence skirmish between Western powers and China.
-
-...
-
-[Data](articles/3365123f.json)
-
-[Extended Data](ext_articles/3365123f.ext.json)
 
 ---

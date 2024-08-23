@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 03:55:31**
+As of **2024-08-24 04:07:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,334 (100.0%) of 42,337 articles have been extended.
+42,337 (100.0%) of 42,337 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -140,51 +140,71 @@ Ratnayake has said that they will take steps to provide a report on all activiti
 
 ---
 
-### கேகாலை மாவட்டம்,  தெரணியகல தேர்தல் தொகுதிக்கான ஐக்கிய மக்கள் கூட்டணியின் புதிய அமைப்பாளராக எம்.பரணிதரன் நியமனம்
+### M Paranitharan appointed as the new organizer of the United People's Alliance for the Kegalle District
 
 *2024-08-24 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191840) · `ta`
 
-கேகாலை மாவட்டம், தெரணியகல தேர்தல் தொகுதிக்கான ஐக்கிய மக்கள் கூட்டணியின் புதிய அமைப்பாளராக எம்.பரணிதரன் வெள்ளிக்கிழமை (23) நியமிக்கப்பட்டார்.
+M. Paranitharan has been named the new organizer for the United People's Alliance in the Kegalle District's Teraniyagala election. This appointment was made by Opposition Leader Sajith Premadasa on Friday (23).
 
-புதிய தொகுதி அமைப்பாளருக்கான நியமனக் கடிதம் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அவர்கள் வெள்ளிக்கிழமை (23) வழங்கி வைத்தார்.
+🟩
+
+M. Paranidharan was appointed as the new organizer of the United People's Alliance for the Teraniyagala election in Kegalle district on Friday (23).
+
+Opposition Leader Sajith Premadasa issued a letter of appointment to the new constituency organizer on Friday (23).
 
 ◼️
 
 [Data](articles/fdd52d40.json)
 
+[Extended Data](ext_articles/fdd52d40.ext.json)
+
 ---
 
-### இரத்தினபுரி மாவட்டம், பலங்கொட தேர்தல் தொகுதிக்கான ஐக்கிய மக்கள் கூட்டணியின் புதிய அமைப்பாளராக எம்.சந்திரகுமார் நியமனம்
+### M Chandrakumar appointed the new organizer of the United People's Alliance
 
 *2024-08-24 01:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191839) · `ta`
 
-இரத்தினபுரி மாவட்டம், பலங்கொட தேர்தல் தொகுதிக்கான ஐக்கிய மக்கள் கூட்டணியின் புதிய அமைப்பாளராக எம்.சந்திரகுமார் வெள்ளிக்கிழமை (23) நியமிக்கப்பட்டார்.
+M Chandrakumar is now the organizer of the United People's Alliance for the Balangoda electorate in Ratnapura district, appointed by Opposition Leader Sajith Premadasa on Friday (23).
 
-புதிய தொகுதி அமைப்பாளருக்கான நியமனக் கடிதம் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அவர்கள் வெள்ளிக்கிழமை (23) வழங்கி வைத்தார்.
+🟩
+
+M Chandrakumar was appointed as the new organizer of the United People's Alliance for the Balangoda electorate in Ratnapura district on Friday (23).
+
+Opposition Leader Sajith Premadasa issued a letter of appointment to the new constituency organizer on Friday (23).
 
 ◼️
 
 [Data](articles/304f950c.json)
 
+[Extended Data](ext_articles/304f950c.ext.json)
+
 ---
 
-### தமது இடத்தை பாதுகாத்துக் கொள்வதற்காக இனிப்பு பண்ட அரசியலை மேற்கொண்டு, அரச உத்தியோகத்தர்களை ஏமாற்றுகின்றனர் -  சஜித் பிரேமதாச
+### Sweet politics to protect their place and deceive state officials - Sajith Premadasa
 
 *2024-08-24 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191838) · `ta`
 
-தமது இடத்தை பாதுகாத்துக் கொள்வதற்காக இனிப்பு பண்ட அரசியலை மேற்கொண்டு, அரச உத்தியோகத்தர்களை ஏமாற்றுவதாக  எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Sajith Premadasa, the Opposition Leader, criticizes the government for its handling of poverty and state officials, promising real changes like salary increases for public servants, tax reductions, and modernization efforts. He addresses a rally, emphasizing genuine plans over false promises, and warns against attempts to create a secular society by pressuring religious rights.
 
-இதுவரை நாட்டில் அரைவாசிக்கும் மேற்பட்டோர் ஏழ்மையினாலும்  வறுமையினாலும் பிடிக்கப்பட்டிருப்பதால் அழுத்தங்களுக்கும் அசௌகரியங்களுக்கும்  உள்ளாகி இருக்கின்றார்கள்.
+🟩
 
-மொத்த நாட்டு மக்களையும் வறுமையில் இருந்து  மீட்டெடுக்கும் மனிதாபிமான செயற்பாட்டிற்கு  ஐக்கிய மக்கள் சக்தி பிரவேசித்திருக்கிறது.
+The Opposition Leader said that he would deceive the state officials to take up a sweet politics to protect their place.
 
-இதுவரை காலமும் அரச உத்தியோகத்தர்களை நாட்டுக்கு   நஷ்டமானவர்களாகவும் சுமையானவர்களாகவும் இந்த அரசாங்கம் கருதி வந்தாலும், தற்பொழுது இந்த அரசாங்கத்திற்கு அரச உத்தியோகத்தர்கள்  முக்கியமானவர்களாக மாறி இருக்கிறார்கள். இதற்குக் காரணம் சந்தர்ப்பவாதமே ஆகும்.
+So far, more than half the country has been captured by poverty and poverty, under pressure and discomfort.
 
-அரச சேவையால் நாட்டுக்கு நட்டம் ஏற்படுவதாக குறிப்பிட்ட இவர்கள், பொய்யான வாக்குறுதிகளை வழங்கி வேலை திட்டங்களை முன்னெடுக்கின்றனர். ஐக்கிய மக்கள் சக்தி பொய் வாக்குறுதிகளை வழங்காது.
+The United People's Power has entered the humanitarian operation to restore the entire population from poverty.
+
+Although this government has considered state officials as a loser and dilemma, state officials are now important to this government.. The reason for this is opportunism.
+
+Those who have said that public service is a loss to the country. The United People's Power does not make false promises.
+
+Doing the word.The Opposition Leader said that the United People's Power Age will be implemented with the right plans instead of false promises.
 
 ...
 
 [Data](articles/30b51054.json)
+
+[Extended Data](ext_articles/30b51054.ext.json)
 
 ---
 

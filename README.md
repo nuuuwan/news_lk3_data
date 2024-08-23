@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 17:57:45**
+As of **2024-08-23 18:16:42**
 
 ## Newspaper Stats
 
-*Scraped **42,278** Articles*
+*Scraped **42,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,62 +13,130 @@ newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 404
 islandlk | 2,451
-economynextcom | 2,560
+economynextcom | 2,566
 dailyftlk | 2,742
 adalk | 3,897
 dailymirrorlk | 4,733
 adaderanalk | 4,958
 tamilmirrorlk | 5,488
-virakesarilk | 6,721
-adaderanasinhalalk | 7,216
+virakesarilk | 6,722
+adaderanasinhalalk | 7,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,274 (100.0%) of 42,278 articles have been extended.
+42,278 (100.0%) of 42,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
 
-### මුල් ඉනිමේ වැඩි වාසි එංගලන්තයට
+### ප්‍රධාන මාර්ග දෙකක රිය ධාවනය සීමා වෙයි
+
+*2024-08-23 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200250) · `si`
+
+ප්‍රධාන මාර්ග දෙකක රථ වාහන ධාවනය සීමා කිරීම් සම්බන්ධව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව හෙට (24) දින අම්බලන්ගොඩ ඓතිහාසික මෝදර දේවාලයේ ඇසළ මහා පෙරහැර වීථි සංචාරය කිරීමට නියමිතව ඇති බැවින් එදින දහවල් 1 සිට රාත්‍රි 8 දක්වා වූ කාලය තුළ රථ වාහන ධාවනය සීමා කිරීමට පොලීසිය කටයුතු කර තිබේ.
+
+මේ හේතුවෙන් එම මාර්ගය භාවිත කරන රියදුරන් ඒ සඳහා විකල්ප මාර්ග භාවිත කරන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලීමක් කර ඇත.
+
+මේ අතර නවගමුව පුරාණ ශ්‍රී පත්තිනි දේවාලයේ මහා පෙරහැර හේතුවෙන්  අවිස්සාවේල්ල කොළඹ 143 පරණ පාරේ රථ වාහන ධාවනය ද සීමා කර තිබේ.
+
+ඒ අනුව හෙට (24) දා රාත්‍රී 8 සිට අළුයම 2 දක්වාද 25 දින උදෑසන 8 සිට දහවල් 1 දක්වා ද එම මාර්ගය රිය ධාවනය සඳහා සීමා කර තිබේ.
+
+මේ හේතුවෙන් එම මාර්ගය භාවිත කරන රියදුරන්ටද එදින විකල්ප මාර්ග පොලීසිය විසින් හඳුන්වා දී ඇති අතර එම මාර්ග භාවිත කරන මෙන් පොලීසිය ඉල්ලීමක් කර තිබේ.
+
+◼️
+
+[Data](articles/9ec77b7d.json)
+
+---
+
+### அரச உத்தியோகத்தர்களின் சம்பளத்தை நாமும் 24 சதவீதத்தால் அதிகரிப்போம் - சஜித் பிரேமதாச
+
+*2024-08-23 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191821) · `ta`
+
+அரச உத்தியோகத்தர்கள் நாட்டுக்கு சுமை என்று இதுவரைக் காலமும் கூறி வந்த அரசாங்கம் தற்போது அவர்கள் மீது கரிசணை காட்டுகின்றது. இது முற்று முழுதாக சந்தர்ப்பவாதமாகும். நாமும் அரச உத்தியோகத்தர்களின் சம்பளத்தை 24 சதவீதத்தால் அதிகரிப்போம் என எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+கேகாலை மாவட்டம், வரகாப்பொல தொகுதியில் வெள்ளிக்கிழமை (23) இடம்பெற்ற பிரசாரக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+அரச உத்தியோகத்தர்களை நாட்டுக்கு சுமையாகவே இதுவரை காலமும் உள்ள அரசாங்கங்கள் பார்த்து வந்தன. ஆனால் இப்போதுதான் இந்த அரசாங்கத்துக்கு அரச உத்தியோகத்தர்கள் முக்கியத்துவமானவர்களாகியுள்ளனர். இது சந்தர்ப்பவாதமாகும். தமது பதவிகளை தக்க வைத்துக் கொள்வதற்காக அரச உத்தியோகத்தர்களை ஏமாற்றுவதற்கு தற்போதைய அரசாங்கம் செயற்பட்டு வருகிறது.
+
+...
+
+[Data](articles/5a0fb313.json)
+
+---
+
+### Korea keen to invest in Sri Lanka solar energy, agriculture projects: PMO
+
+*2024-08-23 17:30:00* · [`economynextcom`](https://economynext.com/korea-keen-to-invest-in-sri-lanka-solar-energy-agriculture-projects-pmo-177938/) · `en`
+
+ECONOMYNEXT – Korean business is willing to invest in Sri Lanka’s energy and agriculture sectors, a visiting business person has said.
+
+Entrepreneur from the People’s Republic of South Korea, Tong-Jo Mun expressed “willingness to invest in energy and agriculture sectors,” when he met with Prime Minister Dinesh Gunawardena at Temple Trees in Colombo on Thursday (22) the premier’s media division said.
+
+Entrepreneurs attached to the International Interchange Development Association, of which Mun is President, would like to invest in several solar energy projects as well as for cultivation of fruits in Sri Lanka for export to Korea and other countries, Mun was quoted as saying.
+
+The Prime Minister and Mun also discussed possible investments in fisheries, health, and construction sectors, especially new technology to upgrade production in these sectors. (Colombo/Aug23/2024)
+
+◼️
+
+[Data](articles/d4360598.json)
+
+---
+
+### Most of the benefits of early innings to England
 
 *2024-08-23 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200248) · `si`
 
-ශ්‍රී ලංකාව සහ එංගලන්තය අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ පළමු ඉනිම ක්‍රීඩා කළ එංගලන්ත ක්‍රිකට් පිල සියලුදෙනා දැවී ලකුණු 358ක් ලබා ගත්තේය.
+In the first Test match against Sri Lanka, England's first innings was marked by innovative play, including a century from an undisclosed player (likely Joe Root, known for centuries) and significant contributions from Bracey (56 runs) and Root (42 runs). Asitha Fernando led Sri Lanka's bowling with four wickets, while Dhananjaya de Silva top-scored in Sri Lanka's reply with 74 runs.
 
-එහිදී විශිෂ්ට ඉනිමක් ක්‍රීඩා කළ එංලන්ත පිලේ කඩුලු රකින ක්‍රීඩක ජැමී ස්මිත් ශතකයක් වාර්තා කළ අතර ලකුණු 111කට ඔහුව දවාගැනීමට දඟපන්දු යවන ක්‍රීඩක ප්‍රභාත් ජයසූරිය සමත්විය.
+🟩
 
-මීට අමතරව හැරී බෘෘක් ලකුණු 56ක් සහ ජෝ රූට් ලකුණු 42ක් ලබාගත්හ.
+The first innings of the first Test match between Sri Lanka and England and the England scored 358 runs.
 
-පන්දු යැවීමේ දී අසිත ප්‍රනාන්දු කඩුලු 4ක්, ප්‍රභාත් ජයසූරිය කඩුලු 3ක්, විශ්ව ප්‍රනාන්දු කඩුලු 2ක් හා මිලාන් රත්නායක කඩුලු 1 බැගින් දවාගත්හ.
+An innovated innings playing a great innings playing a century in a century a century to score 111 runs.
 
-කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහර දුන් ශ්‍රී ලංකා පිල පළමු ඉනිමේ දී සියලුදෙනා දැවී ලබා ගැනීමට සමත්වූයේ ලකුණු 236ක් පමණි.
+In addition, Bruk scored 56 runs and Joe Root scored 42 runs.
 
-ඒ අනුව ශ්‍රී ලංකා පිලට සිය දෙවන ඉනිම ඇරඹීමට සිදුව ඇත්තේ එංගලන්ත පිලට වඩා ලකුණු 122ක් පසුපසින් සිටිමිනි.
+Asapha Fernando took 4 wickets and 3 wickets and 2 wickets each and 2 wickets each.
 
-ශ්‍රී ලංකා පිල වෙනුවෙන් පළමු ඉනිම සඳහා නායක ධනංජය ද සිල්වා ලකුණු 74ක් සහ සිය මංගල ටෙස්ට් තරගයට එක් වූ තුන්ඉරියව් ක්‍රීඩක මිලාන් රත්නායක ලකුණු 72ක් ලබා ගැනීමට සමත්විය.
+Sri Lanka won the toss and elected to bat first in their first innings.
+
+Accordingly, the Sri Lankan team had begun his second innings with 122 run over the England team.
+
+Leader Dhananjaya De Silva scored 74 runs for the first innings on behalf of Sri Lanka's first innings.
 
 ◼️
 
 [Data](articles/8b9e5c61.json)
 
+[Extended Data](ext_articles/8b9e5c61.ext.json)
+
 ---
 
-### දකුණු අප්‍රිකාව ට යන ශ්‍රී ලංකා ඒ කණ්ඩායම්
+### Sri Lanka's teams traveling to South Africa
 
 *2024-08-23 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200247) · `si`
 
-ශ්‍රී ලංකා 'ඒ' ක්‍රිකට් කණ්ඩායම ඉදිරියේදී සිදුකිරීමට නියමිත දකුණු අප්‍රිකානු තරග සංචාරය සඳහා තෝරාගත් සංචිත අද (23) පස්වරුවේ ප්‍රකාශයට පත් කෙරිණි.
+Sri Lanka's cricket team, including reserves, announced for South Africa tour, featuring three ODIs and two T20s. Squad departs on 27th.
 
-මෙම සංචාරයට එක්දින තරග 3ක් සහ සිව්දින තරග 2ක් ඇතුළත් වනු ඇති අතර, එම කණ්ඩායම් දෙකෙහිම කණ්ඩායම් නායකයා ලෙස පසිඳු සූරියබණ්ඩාර නම් කර ඇත.
+🟩
 
-ශ්‍රී ලංකා සංචිතය එළඹෙන 27වැනිදා දකුණු අප්‍රිකාව බලා පිටත්වීමට නියමිතව තිබේ.
+The reserves selected for South Africa tournament to visit the Sri Lanka 'A' cricket tour was announced today (23).
+
+The tour will include three ODIs and two fourth matches, including the team leader in both groups.
+
+Sri Lanka squad is due to leave for South Africa on the 27th.
 
 ◼️
 
 [Data](articles/aace49cc.json)
+
+[Extended Data](ext_articles/aace49cc.ext.json)
 
 ---
 
@@ -85,6 +153,30 @@ Additional Director General of Customs Seevali Arukgoda stated that the seized c
 ◼️
 
 [Data](articles/7366febb.json)
+
+[Extended Data](ext_articles/7366febb.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 299.70/300.00, bond yields down
+
+*2024-08-23 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-299-70-300-00-bond-yields-down-177945/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 299.70/300.00 to the US dollar Friday, from 300.80/301.30 Thursday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed stable at 11.00/15 percent.
+
+A bond maturing on 01.07.2028 closed at 12.40/50 percent, down from 12.45/60 percent.
+
+A bond maturing on 15.06.2029 closed at 12.65/75 percent, down from 12.85/95 percent.
+
+A bond maturing on 15.05.2030 closed at 12.80/13.00 percent, down from 12.85/13.05 percent.
+
+A bond maturing on 15.05.2032 closed at 13.00/25 percent. (Colombo/Aug23/2024)
+
+◼️
+
+[Data](articles/b0a9a338.json)
 
 ---
 
@@ -368,6 +460,28 @@ Thalatha Athukorala, who was elected to the Parliament representing the Samagi J
 
 ---
 
+### Sri Lanka stocks close down, selling pressure seen
+
+*2024-08-23 16:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-selling-pressure-seen-177919/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
+
+The broader All Share Index closed down 0.84 percent, or 96.39 points, at 11,361; while the more liquid S&P SL20 Index closed down 1.05 percent, or 34.44 points, at 3,254.
+
+“This was mainly because of selling,” Softlogic Stockbrokers said. “Funds and individuals are taking cash off until some clarity is seen in the upcoming elections.”
+
+There were six crossings recorded; Access Engineering Plc (down at 21.50), Malwatte Valley Plantation Plc (flat at 63.00), Kelani Tyres Plc (up at 79.90), Ambeon Holdings Plc (down at 37.90), National Development Bank Plc (down at 69.00), and Hayleys Plc (down at 94.00).
+
+Top gainers were Alpha Fire Services Plc (up at 7.20), Colombo City Holdings Plc (up at 49.00), Sarvodaya Development Finance Plc (up at 13.20), and PMF Finance Plc (up at 4.90 rupees).
+
+There was net foreign inflow of 41 million was recorded. (Colombo/Aug23/2024)
+
+◼️
+
+[Data](articles/ed31ab2a.json)
+
+---
+
 ### Sri Lanka - New Zealand's first Test match on holiday
 
 *2024-08-23 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200242) · `si`
@@ -488,23 +602,27 @@ The mother has been transferred to the Matara Hospital for further treatment.
 
 ---
 
-### කොරියාවේ ප්‍රමුඛ ආයෝජකයෙක් ලංකාවේ ආයෝජනයට සූදානම්
+### One of the leading investor in Korea ready to invest in Sri Lanka
 
 *2024-08-23 15:06:10* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-ප්‍රමුඛ-ආයෝජකයෙක්-ලංකාවේ-ආයෝජනයට-සූදානම්/11-411522) · `si`
 
-ශ්‍රී ලංකාවේ සූර්ය බලශක්ති සහ කෘෂිකාර්මික ව්‍යාපෘති සඳහා කොරියාව ආයෝජනය කිරීමේ අපේක්ෂාවෙන් පසුවෙයි.
+A leading Korean investor is set to invest in Sri Lanka, focusing on solar energy and agriculture. The entrepreneur expressed interest in funding several solar projects and enhancing Sri Lanka's fruit cultivation, aiming to export fruits to Korea and other nations. This move aligns with Sri Lanka's strategy to diversify its energy sources and boost sectors like fisheries, health, and construction through foreign investments.
 
-දකුණු කොරියානු මහජන සමූහාණ්ඩුවේ ප්‍රමුඛ පෙළේ ව්‍යවසායකයෙකු වන යොං-ජෝ මුන් හා   අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අතර හමුවක් (22) අරලියගහ මන්දිරයේ දී සිදු විය.
+🟩
 
-මෙරට බලශක්ති සහ කෘෂිකර්ම ක්ෂේත්‍රයේ ආයෝජනය කිරීමට කැමැත්ත පළ කළ යොං-ජෝ මුන් මහතා ප්‍රකාශ කළේ තමන් සභාපතිත්වය දරන ජාත්‍යන්තර අන්තර් හුවමාරු සංවර්ධන සංගමයට අනුබද්ධ ව්‍යවසායකයන් සූර්ය බලශක්ති ව්‍යාපෘති කිහිපයකට මෙන්ම ශ්‍රී ලංකාවේ පලතුරු වගාව සඳහා ද ආයෝජනය කිරීමට කැමැත්තෙන් පසුවන බවයි.
+Sri Lanka's solar energy and agricultural projects are expected to invest in Korea.
 
-ශ්‍රී ලංකාවේ පලතුරු වගාව සඳහා ආයෝජනය කිරීමේ කැමැත්තෙන් පසුවන්නන් කොරියාව ඇතුළු වෙනත් රටවලට මෙරට පලතුරු අපනයනය කිරීමේ අදහසින් පසුවන බවද හෙතෙම පැවසීය.
+A meeting between the leading entrepreneur in the South Korean People's Republic of China, a leading entrepreneur of the South Korea was a leading entrepreneur.
 
-මෙම ක්ෂේත්‍රවල ආයෝජන කිරීමේ යෝජනා ශ්‍රී ලංකාව පිළිගන්නා බව පැවසූ අග්‍රාමාත්‍යවරයා විකල්ප බලශක්ති ප්‍රභවයන්වලට යොමු වෙමින් බොරතෙල් මත යැපීම අවම කිරීම සඳහා රජය සැලසුම් කර ඇතැයි පෙන්වා දුන්නේය.
+Jong-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo) said he was willing to invest in several solar energy projects as well as Sri Lanka's fruit cultivation as well as Sri Lanka's fruit cultivation.
+
+The willingness to invest in fruit cultivation in Sri Lanka are intending to export the fruit of Korea and other countries to export the fruit in Sri Lanka, including Korea and other countries.
 
 ...
 
 [Data](articles/ee45ae9e.json)
+
+[Extended Data](ext_articles/ee45ae9e.ext.json)
 
 ---
 
@@ -585,6 +703,28 @@ The silver mountain is that the Tamil people have faced its effect because they 
 [Data](articles/2b83c43e.json)
 
 [Extended Data](ext_articles/2b83c43e.ext.json)
+
+---
+
+### Sri Lanka chamber hosts policy czar debate ahead of Presidential polls
+
+*2024-08-23 14:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-hosts-policy-czar-debate-ahead-of-presidential-polls-177904/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Chamber of Commerce said a debate among policy experts nominated by key presidential candidates will be held on August 29, at the BMICH at 0900 am.
+
+State Minister Shehan Semasinghe will represent President Ranil Wickremesinghe, Harsha De Silva Sajith Premadasa, Harshana Suriyapperuma Anura Kumara Dissanayake, and Ranjith Bandara Namal Rajapakse.
+
+The debate will be moderated by Chairman of the Ceylon Chamber Duminda Hulangamuwa and Board Member Kasturi Chellaraja.
+
+“This debate comes at a crucial time when the nation faces unparalleled economic challenges, and the need for a stable and sustainable economy has never been more urgent,” the Ceylon Chamber said.
+
+“There is a growing call for clarity on the candidates’ economic strategies across the country, from business leaders and professionals to academics and civil society.
+
+“Voters seek to understand not only who they are casting their votes for, but also the policies and plans they are endorsing.”
+
+...
+
+[Data](articles/ec7b2636.json)
 
 ---
 
@@ -745,6 +885,22 @@ He briefed the Prime Minister about the current situation in Palestine and the P
 [Data](articles/aed89d3e.json)
 
 [Extended Data](ext_articles/aed89d3e.ext.json)
+
+---
+
+### Sri Lanka will continue to stand for rights of Palestinian people: Premier
+
+*2024-08-23 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-continue-to-stand-for-rights-of-palestinian-people-premier-177890/) · `en`
+
+ECONOMYNEXT – Sri Lanka will continue to stand for the rights of the Palestinian people, Prime Minister Dinesh Gunawardena told Palestinian Ambassador Zuhair M H Zaid.
+
+Ambassador Zaid paid a farewell call on Gunawardena on Thursday (22).
+
+He briefed the Prime Minister about the current situation in Palestine and the Prime Minister stated that “Sri Lanka would continue to stand for the rights of the Palestinian people,” his media division said. (Colombo/Aug23/2024)
+
+◼️
+
+[Data](articles/f4c01ac0.json)
 
 ---
 
@@ -1087,6 +1243,28 @@ Murban is lighter (less dense) than Brent crude oil. (Colombo/Aug23/2024)
 [Data](articles/226d1303.json)
 
 [Extended Data](ext_articles/226d1303.ext.json)
+
+---
+
+### Sri Lanka awards 2.1mn barrel crude contracts to Vitol Asia
+
+*2024-08-23 11:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-2-1mn-barrel-crude-contracts-to-vitol-asia-177859/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to purchase 3 shipments of Murban type of crude oil from November 15, 2024 to April 14, 2025 to Vitol Asia (Singapore) Pte Ltd, a government statement said.
+
+The 2,100,000 barrels +/- 5%, will be obtained on the basis of payment in 30 days through a Letter of Credit issued by the Bank of Ceylon.
+
+Bids were called by the State-owned Ceylon Petroleum Corporation from registered suppliers for the long term contract, and 5 bids were received.
+
+The bid submitted by Vitol Asia (Pvt) Ltd in Singapore was recommended as the responsive bid by the cabinet-appointed special standing procurement committee.
+
+Murban is a light crude that can be processed by a refinery owned by CPC.
+
+Bids were also called by the CPC from registered suppliers for the procurement of 3 shipments of Murban crude oil (2,100,000 Barrels +/- 5%) under the procedure of issuance from the 100% stored tanks (100% Ex. Storage Modality) from November 15 to April 14, 2025.
+
+...
+
+[Data](articles/641fe592.json)
 
 ---
 
@@ -2117,155 +2295,5 @@ Justice Atuorale was appointed to the Court of Appeal on 7 September 1978 and wa
 [Data](articles/9e85791b.json)
 
 [Extended Data](ext_articles/9e85791b.ext.json)
-
----
-
-### Sri Lanka’s newest airline Air Ceilao promises to revolutionise air travel
-
-*2024-08-23 03:55:29* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-newest-airline-Air-Ceilao-promises-to-revolutionise-air-travel/34-765868) · `en`
-
-To fly to Middle East and Asia Pacific initially and expand to long-haul destinations across Europe and Australia in second phase
-
-A thrilling new chapter in Sri Lanka’s aviation story will unfold with the imminent launch of Air Ceilao, the nation’s newest international airline.
-
-With an ambition to revolutionise the local industry, Air Ceilao said yesterday it is ready to take off harnessing Sri Lanka’s strategic position as a regional aviation hub and reshape how the world views air travel.
-
-This bold newcomer will not be just another airline; and aims to become a pioneering force that blends the elegance of full-service airlines with the affordability of low-cost carriers that caters to both the discerning traveller and the budget-conscious flyer. With Air Ceilao, air travel will no longer be a choice between luxury and value — it will be an experience that offers both that truly understands and caters to customers’ every need.
-
-...
-
-[Data](articles/53e4eb1c.json)
-
-[Extended Data](ext_articles/53e4eb1c.ext.json)
-
----
-
-### Cabinet approves extension of CHEC Port City Colombo project implementation period
-
-*2024-08-23 03:54:15* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-extension-of-CHEC-Port-City-Colombo-project-implementation-period/34-765867) · `en`
-
-The Cabinet of Ministers approved extending the project implementation period for CHEC Port City Colombo Ltd., a significant development initiative under the Strategic Development Project Act No. 14 of 2008.
-
-The extension moves the project deadline from 7 September 2024 to 30 June 2027. The decision was made during the Cabinet meeting held on 5 August 2024 and was subsequently formalised through an order published in the Extraordinary Gazette No. 2396/60, dated 9 August 2024.
-
-The order provides the project with applicable exemptions under the Strategic Development Act, which is aimed at promoting and facilitating strategic investments in Sri Lanka.
-
-The proposal to extend the project period was presented by President Ranil Wickremesinghe, who also serves as the Investment Promotion Minister.
-
-◼️
-
-[Data](articles/68dc6d27.json)
-
-[Extended Data](ext_articles/68dc6d27.ext.json)
-
----
-
-### Six new companies to operate tourist counters at BIA
-
-*2024-08-23 03:53:59* · [`dailyftlk`](https://www.ft.lk/business/Six-new-companies-to-operate-tourist-counters-at-BIA/34-765866) · `en`
-
-The Cabinet of Ministers on Wednesday approved the awarding of contracts for the operation of six tourist service counters at the Bandaranaike International Airport (BIA) in Katunayake, for three years.
-
-Speaking at the weekly post-Cabinet meeting media briefing Cabinet Spokesman and Minister Bandula Gunawardena said the move follows a competitive bidding process initiated by Airport and Aviation Services (Sri Lanka) Ltd.
-
-The selected companies include: Airport Tourist Drivers Association, Ayubowan Tours and Travels Ltd., Avawia Tours Ltd., Lanka Travel Agent Association, Casons Travels Ltd., and JNW Lanka Tours.
-
-...
-
-[Data](articles/9f6724f7.json)
-
-[Extended Data](ext_articles/9f6724f7.ext.json)
-
----
-
-### Asian Paints Causeway Unveils ‘ColourNext-2024’ in Colombo
-
-*2024-08-23 03:53:43* · [`dailyftlk`](https://www.ft.lk/business/Asian-Paints-Causeway-Unveils-ColourNext-2024-in-Colombo/34-765865) · `en`
-
-Asian Paints Causeway Head – Marketing and Activations Anuradha Edirisinghe, Sri Lanka Institute of Architects President Architect Rohana Bandara Herath, Asian Paints International Regional Head Sireesh Rao and Principal Specialist – Colour Marketing Mariesha Rego Dsouza
-
-One of Sri Lanka’s largest paint manufacturers, Asian Paints Causeway, recently launched ‘ColourNext-2024’ at a grand event held in Colombo.
-
-‘ColourNext’ is a comprehensive, annual forecast of design directions in colours, materials, textures, and finishes, compiled by Asian Paints in collaboration with experts from various creative disciplines, including architecture, art, interiors, fashion, sociology, media, and FMCG. ‘ColourNext’ is celebrated as South Asia’s premier and unique intelligence in colour and material forecasting.
-
-...
-
-[Data](articles/b4e8a0db.json)
-
-[Extended Data](ext_articles/b4e8a0db.ext.json)
-
----
-
-### 100 aspiring young entrepreneurs’ experience transformative upskilling at SPARK 2024 competition
-
-*2024-08-23 03:51:42* · [`dailyftlk`](https://www.ft.lk/business/100-aspiring-young-entrepreneurs-experience-transformative-upskilling-at-SPARK-2024-competition/34-765864) · `en`
-
-The 2024 edition of the SPARK Skilled Youth Entrepreneurship Competition has concluded its first round with 100 youth competitors undergoing an advanced training in business foundation skills and business plan development.
-
-SPARK is an annual skills focused launch-pad  for Sri Lanka’s next generation of business leaders, transforming their approach to entrepreneurship with a combination  of practical skills and real-world business acumen, in ‘school’ and ‘open’ categories.
-
-...
-
-[Data](articles/fab84c37.json)
-
-[Extended Data](ext_articles/fab84c37.ext.json)
-
----
-
-### CIABOC files indictments against Cabraal and others over Greek T-bill scam
-
-*2024-08-23 03:51:06* · [`dailyftlk`](https://www.ft.lk/news/CIABOC-files-indictments-against-Cabraal-and-others-over-Greek-T-bill-scam/56-765863) · `en`
-
-Cabraal and four others stand accused of causing Rs. 1.8 b in losses to SL Govt. through T-bill purchases from Greece in 2012
-
-Case was previously thrown out and respondents released due to a technical error made by CIABOC
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) filed indictments against Former Central Bank Governor Ajith Nivard Cabraal and four others before the Colombo High Court yesterday, in connection with the alleged 2012 Greek Treasury bill Scam.
-
-Cabraal and the other accused are charged with causing Rs. 1.843 billion in losses to the Sri Lankan Government by knowingly purchasing Treasury bills from Greece during a severe economic crisis which allegedly led to significant financial losses for Sri Lanka.  The CIABOC had launched an investigation following a complaint by former MP Sujeewa Senasinghe, with claims that the Sri Lankan Government suffered a loss of Rs. 1,843,267,595 due to these transactions.
-
-...
-
-[Data](articles/9e3ab253.json)
-
-[Extended Data](ext_articles/9e3ab253.ext.json)
-
----
-
-### Speaker Mahinda Yapa Abeywardana leads Parliamentary delegation to Maldives
-
-*2024-08-23 03:50:00* · [`dailyftlk`](https://www.ft.lk/news/Speaker-Mahinda-Yapa-Abeywardana-leads-Parliamentary-delegation-to-Maldives/56-765862) · `en`
-
-Speaker of Parliament Mahinda Yapa Abeywardana, led a Parliamentary delegation to the Republic of Maldives from 11 to 14 August.
-
-The official visit was made at the invitation extended by Speaker of the People’s Majlis Abdul Raheem Abdulla, aimed at strengthening the long-standing relationship between the two countries.
-
-During the visit, Abeywardana paid a courtesy call on Republic of Maldives President Dr. Mohamed Muizzu. The President warmly welcomed the Speaker and his delegation, noting the deep-rooted friendly relations between the Maldives and Sri Lanka. The discussions centered on the President’s hopes for a peaceful Presidential election in Sri Lanka, with positive outcomes that would further contribute to the nation’s development and prosperity.
-
-...
-
-[Data](articles/ad4b757d.json)
-
-[Extended Data](ext_articles/ad4b757d.ext.json)
-
----
-
-### Sri Lanka to introduce AI education in 100 schools as pilot project
-
-*2024-08-23 03:48:54* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-to-introduce-AI-education-in-100-schools-as-pilot-project/56-765861) · `en`
-
-The Government announced a ground-breaking initiative to introduce artificial intelligence (AI) education in schools as part of its broader efforts to prepare students for future global trends and enhance their contribution to economic development.
-
-The Cabinet of Ministers on Wednesday approved launching ‘Artificial Intelligence Related Student Societies’ in 100 selected schools across the country.
-
-“This pilot project is expected to roll out in selected schools, beginning with students from grades 6 to 9 to provide them with the opportunity to engage in studies relevant to AI,” Cabinet Spokesman and Minister Bandula Gunawardena said yesterday.
-
-Speaking at the post-Cabinet meeting media briefing he noted that the initiative will be step towards equipping the next generation with the skills necessary to navigate and thrive in an increasingly technology-driven world.
-
-...
-
-[Data](articles/f3d0c54e.json)
-
-[Extended Data](ext_articles/f3d0c54e.ext.json)
 
 ---

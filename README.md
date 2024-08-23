@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 13:21:23**
+As of **2024-08-23 13:36:59**
 
 ## Newspaper Stats
 
-*Scraped **42,237** Articles*
+*Scraped **42,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ dailyftlk | 2,742
 adalk | 3,891
 dailymirrorlk | 4,733
 adaderanalk | 4,949
-tamilmirrorlk | 5,483
-virakesarilk | 6,715
+tamilmirrorlk | 5,484
+virakesarilk | 6,716
 adaderanasinhalalk | 7,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,233 (100.0%) of 42,237 articles have been extended.
+42,237 (100.0%) of 42,239 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,41 +46,89 @@ Against this backdrop, the Sri Lanka Athletics Association had taken steps to ob
 
 [Data](articles/4b2e6c76.json)
 
+[Extended Data](ext_articles/4b2e6c76.ext.json)
+
 ---
 
-### ஷேக் ஹசீனாவின் பாஸ்போர்ட்   இரத்து
+### மாணவியை தாக்கிய ஆசிரியர்கள் கைது
+
+*2024-08-23 12:57:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவியை-தாக்கிய-ஆசிரியர்கள்-கைது/175-342684) · `ta`
+
+வென்னப்புவ பகுதியிலுள்ள முன்னணி பாடசாலை ஒன்றின் 10ஆம் தரத்தில் கல்வி பயிலும் மாணவி ஒருவரை கடுமையாகத் தாக்கிய குற்றச்சாட்டில் இரண்டு ஆசிரியர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+குறித்த மாணவியை ஒரு ஆசிரியர் கடுமையாகத் தாக்கியுள்ளதுடன் மற்றைய ஆசிரியர் தும்புத்தடியால் தாக்கியதுடன் வெயிலில் முழந்தாளிடச் செய்துள்ளமை விசாரணைகளில் தெரியவந்துள்ளது.
+
+குறித்த மாணவி கடந்த 13 நாட்களாகக் கொழும்பு தேசிய வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வருகிறார்.
+
+சம்பவம் தொடர்பில் காவல்துறையினர் முன்னெடுத்த உரிய விசாரணையின் பிரகாரம் குறித்த ஆசிரியர்கள் இருவரும் கைது செய்யப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/99eea7e0.json)
+
+---
+
+### Sheikh Hasina's Passport cancels
 
 *2024-08-23 12:27:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனாவின்-பாஸ்போர்ட்-இரத்து/50-342680) · `ta`
 
-பங்களாதேஷ் முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் பாஸ்போர்ட்டை இரத்து செய்வதாக பங்களாதேஷ் இடைக்கால அரசு அதிரடியாக அறிவித்துள்ளது பரபரப்பை ஏற்படுத்தியுள்ளது.
+Bangladesh's interim government plans to cancel Sheikh Hasina's passport, preventing her from leaving the country. This decision comes after she resigned and fled to India, with plans to move to the UK. The government, led by Mohammed Yunus, is also cancelling passports for all former MPs, effectively restricting their international travel.
 
-பங்களாதேசில் மாணவர்கள் இட ஒதுக்கீடு உத்தரவை எதிர்த்து செய்த போராட்டம் வன்முறையாக மாறிய நிலையில் பிரதமர் பதவியை இராஜினாமா செய்த ஷேக் ஹசீனா நாட்டை விட்டு வெளியேறி இந்தியாவில் தஞ்சம் அடைந்தார். அவர் விரைவில் இங்கிலாந்துக்கு செல்ல இருப்பதாக கூறப்படுகிறது.
+🟩
 
-இந்த நிலையில் பங்களாதேசில் முகமது யூனுஸ் தலைமையிலான இடைக்கால அரசு, ஷேக் ஹசீனாவின் அனைத்து நாடுகளின் பாஸ்போர்ட்களை இரத்து செய்து அதிரடி நடவடிக்கை எடுத்துள்ளது.
+The interim government of Bangladesh has stirred up that the government has announced that he will cancel the passport of former Bangladesh Prime Minister Sheikh Hasina.
 
-அதுமட்டுமின்றி முன்னாள் எம்பிக்கள் அனைவரது பாஸ்போர்ட் இரத்து செய்யப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது. இதனால் இந்தியாவில் இருக்கும் பங்களாதேஷ் முன்னாள் பிரதமர் ஷேக் ஹசீனா வேறு நாட்டிற்கு செல்ல முடியாத நிலை ஏற்பட்டுள்ளது.S
+Sheikh Hasina left the country and sought refuge in India after resigning as Prime Minister. He is reportedly going to the UK soon.
+
+The interim government, led by Mohammed Yunus in Bangladesh, has taken action to cancel the passports of all countries of Sheikh Hasina.
+
+It has also been reported that the passport of all former MPs has been canceled. Former Prime Minister of Bangladesh in India, Sheikh Hasina, is unable to move to another country.
 
 ◼️
 
 [Data](articles/6e06cbac.json)
 
+[Extended Data](ext_articles/6e06cbac.ext.json)
+
 ---
 
-### தலதாவின் முடிச்சால் தடுமாற்றம்
+### Stumble
 
 *2024-08-23 12:17:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவின்-முடிச்சால்-தடுமாற்றம்/175-342675) · `ta`
 
-இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர் திருமதி தலதா அத்துகோரள பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்வதாக பாராளுமன்றத்தில் அறிவித்துள்ள போதிலும் அது தொடர்பான உத்தியோகபூர்வ கடிதம் இன்னும் சபாநாயகருக்கு அனுப்பி வைக்கப்படவில்லை.
+Mrs. Dalada Athukorala announced her resignation from Parliament but hasn't officially notified the Speaker. This delay prevents the Election Commission from declaring the MP vacancy, affecting the appointment process. The next potential MP, Karunaratne Paranavidhana, was identified by the United People's Power party in the last general election.
 
-இதனால் வெற்றிடமான பதவிக்கு தனது எம்.பி.யில் இருந்து ஒரு எம்.பி.யை நியமிப்பது சிக்கலாக மாறியுள்ளதாக பாராளுமன்ற பொதுச் செயலாளர் கூறுகிறார்.
+🟩
 
-இந்நிலையில், வெற்றிடமாக உள்ள எம்.பி பதவி குறித்து குறித்து, தேர்தல்கள் ஆணைக்குழுவுக்கு அறிவிக்க முடியவில்லை என அறியமுடிகின்றது.
+Although the Ratnapura district parliamentarian Mrs. Dalada Athukorala has announced in Parliament that he will resign from the post of Parliament, the official letter regarding it has not yet been sent to the Speaker.
 
-கடந்த பொதுத் தேர்தலின் ஐக்கிய மக்கள் சக்தியின் இரத்தினபுரி மாவட்ட விருப்புப் பட்டியலின் படி முன்னாள் எம்.பியான தலதா அத்துகோரளவுக்கு அடுத்தபடியாக கருணாரத்ன பரணவிதான   உள்ளார் என்பது குறிப்பிடத்தக்கது.
+The appointment of a MP from his MP for a vacuum has become a problem, says the general secretary of parliament.
+
+In this case, the Election Commission has not been able to announce the vacancy of the vacant MP.
+
+It is noteworthy that Karunaratne Paranavidhana is the next MP Dalada Athukoralavam, according to the United People's Power of the United People's Power in the last general election.
 
 ◼️
 
 [Data](articles/ddd361c4.json)
+
+[Extended Data](ext_articles/ddd361c4.ext.json)
+
+---
+
+### ரணில் விக்கிரமசிங்க தலைமையில் ஐக்கிய தேசிய கட்சியின் விசேட சம்மேளனம்
+
+*2024-08-23 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191761) · `ta`
+
+ஐக்கிய தேசிய கட்சியின் விசேட சம்மேளனம் ஐக்கிய தேசிய கட்சியின் தலைவரும் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க தலைமையில் ஞாயிற்றுக்கிழமை (25)  இடம்பெறவுள்ளது.
+
+கட்சியின் தலைமையகமான சிறிகொத்தவில் பிற்பகல் 2 மணிக்கு ஏற்பாடு செய்துள்ள இம்மாநாட்டுக்கு கட்சி அங்கத்தவர்கள், ஆதரவாளர்கள் என ஆயிரக்கணக்கானவர்கள் கலந்துகொள்ள இருக்கின்றனர்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் ஐக்கிய தேசிய கட்சி போட்டியிடாமல், கட்சியின் தலைவர் ரணில் விக்ரமசிங்க சுயாதீன வேட்பாளராக போட்டியிட முன்வந்திருக்கும் பிரேரணையை இதன் போது அனுமதித்துக்கொள்ளும் நோக்கிலேயே இந்த விசேட சம்மேளனத்தை நடத்துவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f4a97b8d.json)
 
 ---
 
@@ -106,19 +154,25 @@ He also urged the police and the concerned authorities to take immediate action 
 
 ---
 
-### கவர்ந்து இழுக்க ‘கள்’ விநியோகம்
+### Time distribution
 
 *2024-08-23 12:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கவர்ந்து-இழுக்க-கள்-விநியோகம்/175-342672) · `ta`
 
-ஜனாதிபதி  தேர்தல் பேரணிகளில் மக்கள் கவர்ந்து இழுப்பதற்காக,  போத்தல்களில் அடைக்கப்பட்ட தரம் குறைந்த ’கள்’ இலவசமாக வழங்கப்படுவதாக  முறைப்பாடுகள் பல கிடைக்கப்பெற்றுள்ளது என ஜனநாயக மறுசீரமைப்பு மற்றும் தேர்தல் கற்கைகள் நிறுவகத்தின் நிறைவேற்றுப் பணிப்பாளர் மஞ்சுள கஜநாயக்க தெரிவித்துள்ளார்.
+Manjula Gajanayake, head of the Democratic Reforms and Election Studies Institute, highlighted issues with free phone distributions disrupting plantation work due to non-standard telecommunication devices. He called for swift police intervention to prevent election law breaches related to these distributions.
 
-தோட்டத் தொழிலாளர்களுக்கு இவ்வாறு தரமற்ற ’கள்’ வழங்கப்படுவதால், அவர்கள் வேலைக்குச் செல்வதில் இடையூறு ஏற்படுவதுடன், அவர்களின் வினைத்திறனும் குறைந்துள்ளதாக தோட்ட முகாமையாளர்கள் மற்றும் தோட்ட நிர்வாக அதிகாரிகள் முறைப்பாடு செய்வதாக அவர் கூறியுள்ளார் .
+🟩
 
-மேலும் , ’கள்’ விநியோகத்தில் ஏற்படும் தேர்தல் சட்ட மீறல்களை தடுக்க பொலிஸார் மற்றும் சம்பந்தப்பட்ட அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் எனவும் அவர் வலியுறுத்தியுள்ளார்.
+The Executive Director of the Democratic Reforms and Election Studies Institute, Manjula Gajanayake, said that there have been complaints that there are many complaints that have been issued free of charge in the bottles of bottles.
+
+Plantation managers and plantation management officials have complained that the plantation workers are being given such non -standard telecommunications, causing them to disrupt their work and their effectiveness has been reduced.
+
+He also urged the police and the concerned authorities to take immediate action to prevent election law violations in the distribution of telephone.
 
 ◼️
 
 [Data](articles/b03a3b35.json)
+
+[Extended Data](ext_articles/b03a3b35.ext.json)
 
 ---
 
@@ -2217,59 +2271,5 @@ The Chairman and CEO Dr. Thisara Hewawala President and CEO Dr. Thisara Hewawala
 [Data](articles/38b81ef9.json)
 
 [Extended Data](ext_articles/38b81ef9.ext.json)
-
----
-
-### After presidential election, the General Elections, Provincial Councils and Local Elections
-
-*2024-08-22 19:46:18* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයත්--පළාත්-සභා-හා-පළාත්-පාලන-මැතිවරණත්-ජනපතිවරණයෙන්-පසුව/11-411509) · `si`
-
-Following the presidential election, concerns arose about the impact of subsequent General Elections, Provincial Councils, and Local Elections on the country's economy. The President, Ranil Wickremesinghe, addressed these worries, stating his commitment to stabilizing the economy despite challenges like gas shortages, medicine, food, and fuel crises. He emphasized the importance of holding elections but also highlighted the need for economic stability, suggesting that if time were spent solely on economic recovery, the current state of the economy might have improved significantly.
-
-🟩
-
-If the local government elections was spent, the economy of the country would not be able to recover
-
-Why did the economy not prosecuted back to normal?
-
-The general election will be held after the presidential election and the Provincial Councils and Local Elections
-
-President Ranil Wickremesinghe said that he was not worried that the proclaimers of the local government election was a violation of the rights of the people and that he would not be able to hold the elections and the right to the votes of the people..
-
-The President has said that if the President had spent every hour in the program of bringing the country's economy to a stable level, the President had spent the economy of the country to a standing level today
-
-The President was addressing the National Front of the New People's Front held at the Youth Services Council Auditorium this afternoon.
-
-...
-
-[Data](articles/5a8cd716.json)
-
-[Extended Data](ext_articles/5a8cd716.ext.json)
-
----
-
-### President Ranil Wickremesinghe is not an independent candidate: Isn't Dalada Athukorala not disgusting?- PA
-
-*2024-08-22 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191736) · `ta`
-
-In a political twist, President Ranil Wickremesinghe is confirmed to be contesting under the United National Party banner, not as an independent candidate. This revelation comes amidst accusations of corruption against Nimal Siripaladi Silva and Prasanna Ranatunga by PA's Sagara Kariyawasam. The PA's first election campaign meeting saw no attendance from Anuradhapura district representatives, highlighting public sentiment against rejoining those perceived as betraying nationalism. Despite initial claims, Athukorala's resignation confirms Wickremesinghe's alignment with UNP, drawing criticism from both sides over allegations of corruption and betrayal.
-
-🟩
-
-Through the claim of MP Talada Athukorala, it is possible to understand that President Ranil Wickremesinghe is not an independent candidate and is contesting on behalf of the United National Party.
-
-The general secretary of the PA, Sagara Kariyawasam, said that it was disgusting that Nimal Siripaladi Silva and Prasanna Ranatunga were corrupt.
-
-He made this statement during a media briefing held at the Sri Lanka PA on Wednesday (21).
-
-We held the first election campaign meeting of the Sri Lanka PA. None of the people's representatives of the Anuradhapura district were present at the meeting.
-
-The people of the Anuradhapura district pressed the party not to re -join those who betrayed nationalism. Whoever leaves us is confirmed that people are with us.
-
-...
-
-[Data](articles/8521aeed.json)
-
-[Extended Data](ext_articles/8521aeed.ext.json)
 
 ---

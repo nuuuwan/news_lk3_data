@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 09:37:15**
+As of **2024-08-23 09:56:12**
 
 ## Newspaper Stats
 
-*Scraped **42,205** Articles*
+*Scraped **42,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 2,553
 dailyftlk | 2,742
 adalk | 3,887
 dailymirrorlk | 4,733
-adaderanalk | 4,944
+adaderanalk | 4,945
 tamilmirrorlk | 5,475
 virakesarilk | 6,710
-adaderanasinhalalk | 7,200
+adaderanasinhalalk | 7,201
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,205 (100.0%) of 42,205 articles have been extended.
+42,205 (100.0%) of 42,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### ඉන්දීය ආරක්ෂක ඇමති හදිසියේම අමෙරිකාවට
+
+*2024-08-23 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200230) · `si`
+
+ඉන්දියාව සහ අමෙරිකාව අතර ඉහළ පෙළේ ආරක්ෂක ගිවිසුම් කිහිපයක්ම අවසන් අදියරේ ඇති බැවින් ඊට අදාළ කටයුතු වෙනුවෙන් රාජ්නාත් සිං අමෙරිකාවට පැමිණ ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+සිය සංචාරයේදී රාජ්නාත් සිං අමෙරිකානු ආරක්ෂක ලේකම් සහ අමෙරිකාවේ ජාතික ආරක්ෂක උපදේශක හමුවී ද්විපාර්ශ්වික සාකච්ඡා සිදු කිරීමට ද නියමිතය.
+
+ඉන්දීය ආරක්ෂක අමාත්‍යංශය පවසන්නේ මෙම සංචාරයේදී ඉන්දු - අමෙරිකා ගෝලීය උපායමාර්ගික හවුල්කාරිත්වය තවදුරටත් පුළුල් කිරීමට අපේක්ෂා කරන බවය.
+
+◼️
+
+[Data](articles/ceae2868.json)
+
+---
+
+### Gold prices hover near record high
+
+*2024-08-23 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101439/gold-prices-hover-near-record-high) · `en`
+
+A gold rush is here. The precious metal hit an all time high this week.
+
+The spot price for gold closed Tuesday above $2,514, according to data from FactSet. That’s the highest closing price recorded for the commodity to date. Here’s what you need to know.
+
+The spot price of gold closed Tuesday at just over $2,514 per Troy ounce — the standard for measuring precious metals, which is equivalent to 31 grams. That would make a gold bar or brick weighing 400 Troy ounces worth more than $1 million today.
+
+This week’s record high means that the price of gold has climbed hundreds of dollars per Troy ounce over the last year. Tuesday’s price is up nearly $620 from this time in 2023.
+
+Interest in buying gold often comes at times of uncertainty — with potential concerns around inflation and the strength of the U.S. dollar, for example, causing some to look for alternative places to park their money. Gold also saw a surge in the early days of the COVID-19 pandemic.
+
+...
+
+[Data](articles/177c0c12.json)
+
+---
 
 ### India helps rescue Sri Lankan fishermen from distressed fishing trawler
 
@@ -2287,51 +2323,5 @@ Export earnings from Apparel & Textile increased by 3.8 % y-o-y to USD  443.74 
 [Data](articles/63236462.json)
 
 [Extended Data](ext_articles/63236462.ext.json)
-
----
-
-### The government that boycottss the law is not only inefficient, but it is dangerous- Sajith after a court ruling on local elections
-
-*2024-08-22 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191716) · `ta`
-
-Sajith Premadasa criticizes the government for its inefficiency and danger, highlighting issues like the appointment of the Inspector General of Police and the Supreme Court's rulings on local elections and the VVS. He emphasizes the need for action to prevent legislative impacts on the economy and future stability.
-
-🟩
-
-Opposition leader and United People's Power Presidential candidate Sajith Premadasa says that the government cannot build a law.
-
-He said this in a post shared on social media after a court ruling on local government elections.
-
-The appointment of the Inspector General of Police, the Supreme Court's ruling against the VVS, and the verdict of violating the fundamental rights by not holding the local government elections are the obvious blunt warnings of the Supreme Court.
-
-The government cannot build a law, which cannot be upheld. This is the structure that confirms our stability.
-
-We must act before this legislation affects our economy and the future of our future.
-
-◼️
-
-[Data](articles/ec2412b5.json)
-
-[Extended Data](ext_articles/ec2412b5.ext.json)
-
----
-
-### Keheliya and 4 others remanded
-
-*2024-08-22 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200206) · `si`
-
-Former Health Minister Keheliya Rambukwella and four others were remanded on charges related to the purchase of substandard Human Immunulin injections at the Maligakanda Magistrate's Court.
-
-🟩
-
-Former Minister of Health Minister Keheliya Rambukwella and four suspects were remanded today (22).
-
-The purchase of the substandard Human Immunulin injection was called at the Maligakanda Magistrate's Court today.
-
-◼️
-
-[Data](articles/f37f1523.json)
-
-[Extended Data](ext_articles/f37f1523.ext.json)
 
 ---

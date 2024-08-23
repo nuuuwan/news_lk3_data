@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-23 10:55:17**
+As of **2024-08-23 11:07:38**
 
 ## Newspaper Stats
 
-*Scraped **42,212** Articles*
+*Scraped **42,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 354
 newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 404
-islandlk | 2,449
+islandlk | 2,451
 economynextcom | 2,553
 dailyftlk | 2,742
 adalk | 3,888
@@ -20,17 +20,59 @@ dailymirrorlk | 4,733
 adaderanalk | 4,945
 tamilmirrorlk | 5,476
 virakesarilk | 6,712
-adaderanasinhalalk | 7,202
+adaderanasinhalalk | 7,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,212 (100.0%) of 42,212 articles have been extended.
+42,212 (100.0%) of 42,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-23 (Friday)
+
+### පාපැදියේ ගැටී යතුරුපැදිකරුට දිවි අහිමි වෙයි
+
+*2024-08-23 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200233) · `si`
+
+යතුරුපැදියක් සහ පාපැදියක් එකිනෙක ගැටීමෙන් සිදුවූ අනතුරකින් තරුණයෙක් මියගොස් තවත් තිදෙනෙකුට බරපතළ තුවලා සිදුවී තිබේ.
+
+වැල්ලවාය මොනරාගල ප්‍රධාන මාර්ගයේ බුත්තල පොලිස් බලප්‍රදේශයට අයත් පැල්වත්ත ප්‍රදේශයේදී අනතුර සිදුවී ඇත.
+
+අනතුරෙන් මියගොස් ඇත්තේ යතුරුපැදියේ ගමන් ගත් වයස අවුරුදු 23ක තරුණයෙකි.
+
+මෙම අනතුර සිදුවන අවස්ථාවේ යතුරුපැදියේ මෙන්ම පාපැදියේද දෙදෙනෙකු සිට තිබේ.
+
+තුවාලකරුවන් බුත්තල ප්‍රාදේශීය රෝහලට ඇතුළත් කෙරුණු අතර අසාද්‍ය තත්ත්වයෙන් පසුවූ පාපැදියේ ගමන් කළ දෙදෙනා වැඩිදුර ප්‍රතිකාර සඳහා මොනරාගල දිස්ත්‍රික් මහ රෝහලට මාරු කෙරුණි.
+
+◼️
+
+[Data](articles/fda1d93b.json)
+
+---
+
+### තවත් මන්ත්‍රීවරුන් දෙදෙනෙක් රනිල්ට
+
+*2024-08-23 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200232) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන සාරතී දුෂ්මන්ත මහතා සහ අංගජන් රාමනාදන් මහතා ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කර තිබේ.
+
+ඔවුන් දෙදෙනා ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රී පාර්ශ්වය නියෝජනය කළ මන්ත්‍රීවරයන් දෙදෙනෙකි.
+
+සාරතී දුෂ්මන්ත මහතා පසුගියදා ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන ලේකම් ලෙස පත් කෙරුණි.
+
+ඒ ශ්‍රීලනිපයේ මහලේකම් ධුරයේ කටයුතු කළ දයාසිරි ජයසේකර මහතාට එම තනතුර අහිමිවීමත් සමගය.
+
+සාරතී දුෂ්මන්ත කෑගල්ල දිස්ත්‍රික්කය නියෝජනය කරන මන්ත්‍රීවරයෙකු වන අතර අංගජන් රාමනාදන් මහතා යාපනය නියෝජනය කරයි.
+
+කොළඹ මල් පාරේ පිහිටි ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලයේදී ජනාධිපතිවරයා හමුවී ඇති ඔවුන් දෙදෙනා සිය සහාය ලබාදෙන බව දැනුම්දී තිබේ.
+
+◼️
+
+[Data](articles/4819fbe6.json)
+
+---
 
 ### Gazette relating to water payment correction
 
@@ -1115,6 +1157,32 @@ In the last elections, we have announced our position in the last moment.. So th
 [Data](articles/01477249.json)
 
 [Extended Data](ext_articles/01477249.ext.json)
+
+---
+
+### From Global Warming to Global Boiling?
+
+*2024-08-23 02:14:00* · [`islandlk`](http://island.lk/from-global-warming-to-global-boiling/) · `en`
+
+… Sri Lanka’s Comprehensive Approach to Climate Action: New Policies and Initiatives Set the Stage for a Sustainable Future
+
+In a bold move to face the chellenges posed by escalating climate crisis, Sri Lanka is unveiling a multi-faceted strategy to bolster its climate resilience and sustainability efforts. The country is embracing a “no-regret” approach, emphasising the importance of informed decision-making, global collaboration, and systematic implementation in its climate policies, a renowned climate scientist said.
+
+...
+
+[Data](articles/0667d371.json)
+
+---
+
+### Multitude of contenders and symbols; SL population; an academic let down
+
+*2024-08-23 02:05:00* · [`islandlk`](http://island.lk/multitude-of-contenders-and-symbols-sl-population-an-academic-let-down/) · `en`
+
+As always, Sri Lanka lives up to its descriptive slogan ‘A land like no other’ in the run up to presidential polls. In this instance Cass implies its derogatory connotation. Thirty nine hopefuls have paid their deposits to run the race and so a plethora of neutral looking symbols have been selected from material goods like a torch to a pen and animals from eagle and bat to a hippo – or is it a rhinoceros with one horn? We had the much admired and loved Green Elephant, now almost defunct; the Blue Hand – also gone; the fairly new telephone and bell. The authority that determines these symbols has gone to a store and retrieved a gas cylinder!
+
+...
+
+[Data](articles/522a1f11.json)
 
 ---
 
@@ -2221,107 +2289,5 @@ An expert committee, chaired by former Presidential Secretary Udaya Seneviratne,
 [Data](articles/3398ea6a.json)
 
 [Extended Data](ext_articles/3398ea6a.ext.json)
-
----
-
-### ‘We gain nothing by misleading Tamil people in the North’ - Namal
-
-*2024-08-22 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101427/we-gain-nothing-by-misleading-tamil-people-in-the-north-namal) · `en`
-
-The Presidential Candidate of Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa asserts that police and land powers will not be devolved to the Provincial Councils under his governance.
-
-Addressing his maiden rally in Anuradhapura, Rajapaksa stated that he believes their government was toppled by a conspiracy and that however, they did not let the state collapse.
-
-“We handed over the government to President Ranil Wickremesinghe because it was necessary to protect the state”, Rajapaksa said.
-
-“Although there were policies that the SLPP could not agree with, we still offered our support. We engage in politics with principles. We are a political camp that protects our values. Therefore, let’s move forward with a plan”, he added.
-
-Speaking further, the SLPP presidential candidate said: “We are committed to respecting all religions in this Buddhist country. We will not devolve land and police powers to provincial councils. We gain nothing by misleading our Tamil people in the North.”
-
-...
-
-[Data](articles/bea2e577.json)
-
-[Extended Data](ext_articles/bea2e577.ext.json)
-
----
-
-### "We will ensure our success on the 21st"
-
-*2024-08-22 16:19:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21ஆம்-திகதி-எமது-வெற்றியை-உறுதி-செய்வோம்/175-342640) · `ta`
-
-Manusha Nanayakkara, advising at a swearing-in ceremony, expressed confidence in Ranil Wickremesinghe's election victory, citing strong grassroots support from UNP members. She highlighted the readiness of villagers to back Wickremesinghe due to his leadership and plans for national development. Despite challenges, including skepticism towards Sajith Premadasa's candidacy, the focus remains on electing a leader committed to progress. The assurance was made for success in the upcoming elections on the 21st, with implications for parliamentary membership and party unity.
-
-🟩
-
-President's adviser to industry and foreign employment, Manusha Nanayakkara, said at the swearing -in ceremony on Thursday (22), that Ranil Wickremesinghe will undoubtedly win the election even though some people win the election.
-
-The speech delivered by the Dalada Attukorala in Parliament will be echoed among the grassroots level members of the Samaki Jana Balavayaka and that they will be provoking them around the leader of the United National Party.
-
-“UNP members are based on village level members of the United People's Power. Therefore, the people are ready to give their support for him as their leader is planning to build the country.
-
-As Minister of Labor and Foreign Employment, the President gives the necessary instructions and guidelines to the Ministry of Labor. Therefore, all the tasks of the Ministry will continue as planned.
-
-...
-
-[Data](articles/c47323da.json)
-
-[Extended Data](ext_articles/c47323da.ext.json)
-
----
-
-### Government has no income sources - other than taxes and fees - Dilith
-
-*2024-08-22 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200209) · `si`
-
-Dilith Jayaweera criticized the Sri Lankan government's plan to sell parts of the Telecom sector, highlighting its reliance on taxes and fees as income sources. He argued that this approach neglects potential revenue streams from state-owned enterprises like Telecom. This stance was shared during a meeting with Telecom Trade Union representatives, where concerns about the government's financial strategies were discussed.
-
-🟩
-
-Dilith Jayaweera says that the Government owned by the government to sell the parts of Telecom is a mistake.
-
-He was speaking at a meeting with a group of Telecom Trade Union representatives yesterday.
-
-Sri Lanka Telecom Engineer's Engineering Association met with the representatives including Dilith Jayaweera, Dilith Jayaweera.
-
-During the presidential election, Telecom demanded to intervene to defeat the government's efforts to sell.
-
-"Why are they selling?. Those with state entrepreneurship mind. The Government of Singapore has an enticident mind because the business government is doing the most. The government can find money from telecom. The government does not have a source of revenues that will be excluding taxes and fees. The sources have been destroyed.. They're trying to sell. Tax is the underlying drops. Profit is not that. "
-
-...
-
-[Data](articles/1eb6ea90.json)
-
-[Extended Data](ext_articles/1eb6ea90.ext.json)
-
----
-
-### The death of a young family woman in Mannar;Removal
-
-*2024-08-22 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191722) · `ta`
-
-In Mannar, a young mother died from excessive bleeding after childbirth, leading to the dismissal of four staff members, including two doctors and two family welfare officers, over allegations of inadequate treatment. The hospital director confirmed the dismissals and stated that further actions would be taken against one of the dismissed doctors despite him being on leave.
-
-🟩
-
-The Director of the Mannar District General Hospital, Dr. Azad M Haneefa, said that the doctor who was allegedly involved in the death of a young woman who died after being admitted to the Mannar District General Hospital has been sacked.
-
-A 27 -year -old woman who recently delivered a baby died after being admitted to the Mannar General Hospital last month due to high blood flow.
-
-However, it is alleged that the doctor did not treat him properly and that he died of doctors' unhappiness.
-
-Four people have been sacked in connection with the incident.
-
-The two nurses have been sacked for two family welfare officers.
-
-The Director General of the Northern Provincial Health Services Services said that steps have been taken to remove a workplace for a doctor in connection with the incident.
-
-The Director of the Mannar District General Hospital, Dr. Azad M Haneefa, said that he received a letter on Wednesday (21) on the removal of the workplace for the doctor.
-
-...
-
-[Data](articles/f2292e4e.json)
-
-[Extended Data](ext_articles/f2292e4e.ext.json)
 
 ---

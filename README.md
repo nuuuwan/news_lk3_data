@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 18:27:27**
+As of **2024-08-24 18:38:46**
 
 ## Newspaper Stats
 
-*Scraped **42,397** Articles*
+*Scraped **42,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,758
 adalk | 3,904
 dailymirrorlk | 4,733
 adaderanalk | 4,974
-tamilmirrorlk | 5,503
+tamilmirrorlk | 5,504
 virakesarilk | 6,737
 adaderanasinhalalk | 7,247
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,397 (100.0%) of 42,397 articles have been extended.
+42,397 (100.0%) of 42,398 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,20 @@ The authorities have also taken steps to direct over 50,000 people to safe locat
 [Data](articles/8bce159e.json)
 
 [Extended Data](ext_articles/8bce159e.ext.json)
+
+---
+
+### அதிகரிக்கும் நோயாளர்களின் எண்ணிக்கை
+
+*2024-08-24 16:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகரிக்கும்-நோயாளர்களின்-எண்ணிக்கை/175-342707) · `ta`
+
+நிலவும் சீரற்ற காலநிலை காரணமாக டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரித்து வருவதாகத் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+மேல் மாகாணம் மற்றும் கண்டி மாவட்டத்திலேயே அதிகளவான நோயாளர்கள் பதிவாகியுள்ளதாகத் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/cf2b3649.json)
 
 ---
 
@@ -2223,29 +2237,5 @@ The Secretary to the Ministry of Transport and Highways further explained:
 [Data](articles/b05f4286.json)
 
 [Extended Data](ext_articles/b05f4286.ext.json)
-
----
-
-### 2 lakh cigarettes arrested in Katunayake
-
-*2024-08-23 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200252) · `si`
-
-Customs officials at Katunayake International Airport arrested a 44-year-old businessman from Abu Dhabi, attempting to smuggle 21,600 foreign cigarettes worth Rs. The suspect, from Pannipitiya, was caught trying to leave the airport with the contraband cigarettes concealed to avoid detection.
-
-🟩
-
-Arrested at the Katunayake International Airport where a large number of foreign cigarettes were illegally worth Rs.
-
-Customs officials have arrested the suspect trying to leave the Katunayake airport along the Katunayake airport.
-
-From Abu Dhabi has arrived at the suspect to the airport from the Pannipitiya area, a 44-year-old businessman.
-
-A total of 21,600 foreign cigarettes have been taken into custogrity and the stock of cigarettes had taken steps to confuse the cigarettes.
-
-◼️
-
-[Data](articles/9fb92b63.json)
-
-[Extended Data](ext_articles/9fb92b63.ext.json)
 
 ---

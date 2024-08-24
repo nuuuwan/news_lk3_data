@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 13:56:11**
+As of **2024-08-24 14:07:43**
 
 ## Newspaper Stats
 
-*Scraped **42,368** Articles*
+*Scraped **42,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,74 @@ colombotelegraphcom | 405
 islandlk | 2,451
 economynextcom | 2,568
 dailyftlk | 2,758
-adalk | 3,902
+adalk | 3,903
 dailymirrorlk | 4,733
 adaderanalk | 4,969
 tamilmirrorlk | 5,501
 virakesarilk | 6,737
-adaderanasinhalalk | 7,235
+adaderanasinhalalk | 7,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,367 (100.0%) of 42,368 articles have been extended.
+42,368 (100.0%) of 42,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### ශිකර් ධවාන් ක්‍රිකට් පිටියෙන් සමුගනියි
+### ක්ලබ් වසන්තට වෙඩිතැබූ වෙඩික්කරුගේ පැටිකිරිය හෙළිවෙයි
+
+*2024-08-24 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200270) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකු වෙඩිතබා ඝාතනය කළ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකාර වෙඩික්කරුවකු හා ඔහුට ආධාර අනුබල දුන් දෙදෙනා ගැන තවත් තොරතුරු හෙළිවී තිබේ.
+
+දෙහිවල කවුඩාන ප්‍රදේශයේදී ඔවුන් තිදෙනාව අත්අඩංගුවට ගෙන ඇති අතර සැකකරුවන් රඳවාගෙන ප්‍රශ්න කරන බව පොලීසිය පැවසීය.
+
+ක්ලබ් වසන්ත ඝාතනය කළ ස්ථානයේ තිබී සොයාගත් KPI ලෙස සඳහන් උණ්ඩවලට සමාන KPI ලෙස සඳහන් කළ ජීව උණ්ඩ 12ක් සැකකරුවන් සතුව තිබී සොයාගත් බවද පොලීසිය පැවසීය.
+
+මෙම ඝාතන සිද්ධියට සම්බන්ධ සැකකරුවන් කිහිපදෙනෙකුම මීට පෙර ද අත්අඩංගුවට ගෙන තිබුණි.
+
+අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් තුළදී සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත නමැත්තා ඇතුළු පුද්ගලයින් දෙදෙනෙක් වෙඩි තබා ඝාතනය කෙරුණේ පසුගිය ජූලි මස 8වනදාය.
+
+ඝාතන සිද්ධියෙන් පසු වෙඩික්කරුවන් දෙදෙනා හා ඝාතනය මෙරට සිට මෙහෙය වූ පුද්ගලයන් දෙදෙනා අත්අඩංගුවට ගැනීමට පොලීසියට නොහැකිවූ අතර ඔවුන් අත්අඩංගුවට ගැනීමට පොලීසිය මහජන සහාය ද ඉල්ලා තිබුණි.
+
+...
+
+[Data](articles/1465352e.json)
+
+---
+
+### Shaikhr Dhawan retires from cricket
 
 *2024-08-24 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200269) · `si`
 
-වසර 14ක කාලයක් පුරා ඉන්දීය ක්‍රිකට් කණ්ඩායම වෙනුවෙන් සුවිශේෂී දායකත්වයක් ලබාදුන් ආරම්භක පිතිකරු ශිකර් ධවාන් සමස්ත ක්‍රීඩා පිටියෙන්ම සමුගන්නා බව අද (24) නිවේදනය කළේය.
+Shikhar Dhawan retires from cricket after 17 years, scoring 6,793 runs in Tests, 1,759 in T20s, and 2,315 in IPL.
 
-ටෙස්ට්, එක්දින මෙන්ම විස්සයි20 තරග රටා ත්‍රිත්වයේම කැපීපෙනෙන පිතිකරුවෙකු වන, මේ වනවිට 38වන වියේ පසුවන ධවාන්, ජාත්‍යන්තර ලකුණු දස දහසකට (10,867) වඩා රැස්කර ඇත. ඊට ශතක 24ක් හා අර්ධ ශතක 55ක් අන්තර්ගත වෙයි.
+🟩
 
-2010 වසර්දී ඔස්ට්‍රේලියාවට එරෙහිව එක්දින වරම් හිමිකරගත් ධවාන්, සමුගන්නා විට ඉනිම් 164කදී ලකුණු 6,793ක් රැස්කරගෙන සිටියේය. ඔහුගේ එක්දින දක්ෂතා අතර ශතක 17ක් හා අර්ධ ශතක 39කි.
+The opener Xikar Dhawan announced the retirement of the Indian Cricket Team today (24).
 
-එමෙන්ම 2011 වසරේදී බ.ඉ. කොදෙව්වන්ට එරෙහිව ජාත්‍යන්තර විස්සයි20 පිටියට අවතීර්ණ වූ හෙතෙම අර්ධ ශතක 11ක් සමගින් ලකුණු 1,759ක් රැස්කරගෙන සිටියේය.
+The 38-year-old Duaan, a 38-year-old batsman, is now 38 years old, is an outstanding batsman of Test, ODIs and T20s.. It contains 24 centuries and 55 half centuries.
 
-ක්‍රිකට් ක්‍රීඩාවේ වඩාත් ගෞරවාන්තිම ආකෘතිය වන ටෙස්ට් ක්‍රිකට් ක්‍රීඩාවේද කැපී පෙනෙන්නෙකු වූ ධවාන් 2013 වසරේදී ඔස්ට්‍රේලියාවට එරෙහිව සිය මංගල ටෙස්ට් තරගය ක්‍රීඩා කළේය.
+Sudaham, who was presented to Australia in 2010, Dhavan, who had left her retirement, had scored 6,793 runs in 164 Irram. There are 17 centuries and 39 half centuries.
 
-ඉන්දියාව වෙනුවෙන් ටෙස්ට් වරම් දිනාගත් 277වැනි ක්‍රීඩකයා වූ ධවාන් එම තරගයේදීම පන්දු 174කට පමණක් මුහුණ දෙමින් ලකුණු 187ක් රැස්කිරීමට සමත් විය.
+And the year 2011, BC.. He entered the International T20 and the West Indies, he was scored with 1,759 with 11 half centuries.
+
+The most respected model of cricket, Duvan, a prominent model of Test cricket, played his wedding Test against Australia in 2013.
+
+The 277th player who won the Test for India, Duaan scored 187 runs in the match.
+
+Accordingly, he was the 13th player of the Wedding Test for India and the 97th player in the world.
+
+Dhavan, claimed by retirement and five half centuries, was assembled with 2,315 runs.
 
 ...
 
 [Data](articles/cec204dd.json)
+
+[Extended Data](ext_articles/cec204dd.ext.json)
 
 ---
 
@@ -113,6 +145,20 @@ Meanwhile, a total of 17 dengue-related deaths have been reported so far in 2024
 [Data](articles/463f0480.json)
 
 [Extended Data](ext_articles/463f0480.ext.json)
+
+---
+
+### එජාප විධායක සභා රැස්වීම හෙට
+
+*2024-08-24 12:32:40* · [`adalk`](https://www.ada.lk/breaking_news/එජාප-විධායක-සභා-රැස්වීම-හෙට/11-411528) · `si`
+
+එක්සත් ජාතික පක්ෂයේ විධායක සභා රැස්වීමක් හෙට (25දා) පැවැත්වීමට නියමිතව තිබේ.
+
+මෙම රැස්වීම හෙට පස්වරු 02ට පිටකෝට්ටේ සිරිකොත පක්ෂ මූලස්ථානයේ පැවැත්වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/7eb2f9cd.json)
 
 ---
 
@@ -2239,45 +2285,5 @@ Rs.
 [Data](articles/5d9bf7ed.json)
 
 [Extended Data](ext_articles/5d9bf7ed.ext.json)
-
----
-
-### Telitha's seat is emptied to the Election Commission that he was empty
-
-*2024-08-23 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200243) · `si`
-
-The Secretary General of Parliament notified the Election Commission about a parliamentary seat vacancy due to the resignation of MP Thalatha Athukorala from the Ratnapura District Unity Force.
-
-🟩
-
-The Secretary General of Parliament has informed the Election Commission that a parliamentary seat is vacant.
-
-It is with the resignation of MP Thalatha Athukorala, who represented the Ratnapura District Unity Force.
-
-◼️
-
-[Data](articles/a136e288.json)
-
-[Extended Data](ext_articles/a136e288.ext.json)
-
----
-
-### Election Commission informed of vacant MP seat in Parliament
-
-*2024-08-23 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101450/election-commission-informed-of-vacant-mp-seat-in-parliament) · `en`
-
-The Parliament has informed the Election Commission that a vacancy has been created in the House following the resignation of Thalatha Athukorala as a Member of Parliament.
-
-Accordingly, Secretary General of the Parliament Kushani Rohanadeera has communicated to the Chairman of the Election Commission in writing that the Member of Parliament representing the Ratnapura Constituency, Thalatha Athukorala has tendered her letter of resignation as a Member of Parliament with effect from the 21 August 2024 and thus a vacancy has been created following the resignation.
-
-This has been informed in terms of the Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Parliamentary Communications Department said.
-
-Thalatha Athukorala, who was elected to the Parliament representing the Samagi Jana Balawegaya (SJB) in the 2020 general election, informed parliament on Wednesday (21) that she will be resigning from her position as a Member of Parliament.
-
-...
-
-[Data](articles/bace42a2.json)
-
-[Extended Data](ext_articles/bace42a2.ext.json)
 
 ---

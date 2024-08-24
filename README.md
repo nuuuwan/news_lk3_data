@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 08:15:55**
+As of **2024-08-24 08:26:00**
 
 ## Newspaper Stats
 
@@ -26,39 +26,55 @@ adaderanasinhalalk | 7,230
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,343 (100.0%) of 42,344 articles have been extended.
+42,344 (100.0%) of 42,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### ශ්‍රී ලංකාව ලකුණු 82ක් ඉදිරියෙන්
+### Sri Lanka scored 82 runs
 
 *2024-08-24 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200264) · `si`
 
-ශ්‍රී ලංකාව හා එංගලන්තය අතර මැන්චෙස්ටර්හිදී පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ තෙවැනි දිනට ඊයේ (24) තරගය නතර කරන විට සිය දෙවැනි ඉනිම ක්‍රීඩාකරමින් සිටි ශ්‍රී ලංකා කණ්ඩායම කඩුලු 06ක් බිඳවැටී ලකුණු 204ක් රැස්කරගෙන සිටියේය.
+Sri Lanka leads England by 82 runs after 204 wickets. Kamindu Mendis scored 56, Dinesh Chandimal 20. Mark Wood injured by Chandimal's ball. Angelo Mathews top-scored with 65.
 
-ඒ අනුව ඔවුන් එංගලන්ත පළමු ඉනිමට වඩා ලකුණු 82ක් ඉදිරියෙන් සිටියි.
+🟩
 
-කඩුල්ලේ රැඳී සිටින කමිඳු මෙන්ඩිස් ලකුණු 56ක් හා දිනේෂ් චන්දිමාල් ලකුණු 20ක් රැස්කරගෙන සිටිති.
+Sri Lanka were playing their second innings at the third day of the first Test match between Sri Lanka and England and scored 204 wickets.
 
-ඔවුන් දෙදෙනා ශ්‍රී ලංකා ඉනිමේ ඉතිරිව සිටින අවසන් නම්දැරූ පිතිකරුවන් දෙපළයි.
+Accordingly, they are 82 runs ahead of England.
 
-ඒ හේතුවෙන් ශ්‍රී ලංකා ඉනිම විශාල ලකුණු පුවරුවක් දක්වා ගොඩනැගීමේ සම්පූර්ණ වගකීම ඔවුන් සතුව ඇත.
+The Kamindu Mendis who remains in the wicket scored 56 runs and Dinesh Chandimal scored 20 runs.
 
-කෙසේ නමුත් චන්දිමාල් පන්දුවට පහරදෙමින් සිටින්නේ පන්දුවක් ඇඟිල්ලේ වැදීම හේතුවෙන් පිටියෙන්ද ඉවත්ව ගොස් නැවත පැමිණි පිතිකරුවෙකු ලෙසිනි.
+They two of the final batsmen remaining in the Sri Lankan innings.
 
-මාක් වුඩ් එවන ලද පැ.කි.මී. 150කට ආසන්න වේගයෙන් පැමිණි පන්දුවක් වැදීමෙන් චන්දිමාල්ගේ දකුණු අතෙහි මාපට ඇඟිල්ල ආබාධයකට ලක් වූ අතර, ඒ හේතුවෙන් ඔහුව රෝහලකට ගෙනගොස් ස්කෑන් පරික්ෂාවක්ද කළ බව වාර්තා විය.
+As a result, they have the full responsibility to build Sri Lankan innings to a large large scorer.
+
+However, Chandimal is attacking a ball, along with a ball, and returned as a back.
+
+Mark Wood sent to. The thumbs of the right hand was caused by a chandimal for nearly 150 times, resulting in a scan was taken to a hospital.
+
+Angelo Mathews scored 65 runs in the second innings, with a successful innings.
+
+He scored 27 runs while any other batsman could not play more than 11 runs.
+
+Leader Dhananjaya De Silva was limited to 11 runs and Milan Ratnayake scored only a record half-century in the first innings.
 
 ...
 
 [Data](articles/d72230f0.json)
+
+[Extended Data](ext_articles/d72230f0.ext.json)
 
 ---
 
 ### Knives in Germany
 
 *2024-08-24 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200263) · `si`
+
+Germany: Three die in knife attack during 630th anniversary celebration. Suspect flees scene.
+
+🟩
 
 Three have died of a knife in the city of Shlingen, Germany.
 

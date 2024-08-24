@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 09:56:01**
+As of **2024-08-24 10:08:20**
 
 ## Newspaper Stats
 
-*Scraped **42,351** Articles*
+*Scraped **42,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,566
 dailyftlk | 2,758
 adalk | 3,899
 dailymirrorlk | 4,733
-adaderanalk | 4,964
-tamilmirrorlk | 5,498
+adaderanalk | 4,965
+tamilmirrorlk | 5,499
 virakesarilk | 6,737
 adaderanasinhalalk | 7,232
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 7,232
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,351 (100.0%) of 42,351 articles have been extended.
+42,351 (100.0%) of 42,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### சாரதி மாரடைப்பால் மரணம் - பல வாகனங்களுக்கு சேதம்
+
+*2024-08-24 09:48:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-மாரடைப்பால்-மரணம்-பல-வாகனங்களுக்கு-சேதம்/175-342702) · `ta`
+
+கொட்டாவ - மாட்டாகொட வீதியில், வான் சாரதி ஒருவருக்கு திடீரென மாரடைப்பு ஏற்பட்டதால் அவர் செலுத்திய வான் பல வாகனங்களுடன் மோதி பாரிய விபத்து ஏற்பட்டுள்ளது.
+
+பன்னிபிட்டிய பிரதேசத்தைச் சேர்ந்த 66 வயதுடைய சாரதியே இதில் மாரடைப்பு ஏற்பட்டு உயிரிழந்துள்ளார்.
+
+இவர் தனது அன்றாட வேலைகளை முடித்துக் கொண்டு மாட்டாகொடைக்கு திரும்பிக் கொண்டிருந்த போது திடீரென மாரடைப்பு ஏற்பட்டுள்ளது.
+
+விபத்தில் வாகனங்களுக்கு சேதம் ஏற்பட்டாலும், ஏனைய சாரதிகள் காயமின்றி தப்பியுள்ளனர். பிலியந்தலை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/bc753c80.json)
+
+---
+
+### EC urges voters not to be misled by various election surveys
+
+*2024-08-24 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101461/ec-urges-voters-not-to-be-misled-by-various-election-surveys) · `en`
+
+The Election Commission has urged voters not to be influenced or misled by the surveys conducted by various parties regarding the upcoming presidential election.
+
+The Commissioner General of Elections, Saman Sri Ratnayake, emphasized that voters should not feel compelled to change their opinions based on these surveys.
+
+◼️
+
+[Data](articles/302759c6.json)
+
+---
 
 ### A revelation of presidential election surveys
 
@@ -2275,51 +2307,5 @@ New Zealand’s last tour of Sri Lanka was in August 2019, when they drew a two-
 [Data](articles/18e65b5d.json)
 
 [Extended Data](ext_articles/18e65b5d.ext.json)
-
----
-
-### A MPO is found in Thailand
-
-*2024-08-23 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200238) · `si`
-
-A MPO (Multiple Personality Disorder) case has been identified in Thailand, marking the first documented instance of this condition being discovered in an Asian country.
-
-🟩
-
-The gentle is considered the first time that the genre was found in an Asian country.
-
-◼️
-
-[Data](articles/9cd04c3e.json)
-
-[Extended Data](ext_articles/9cd04c3e.ext.json)
-
----
-
-### Principal arrested
-
-*2024-08-23 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200237) · `si`
-
-In Kataragama, a school principal was arrested for allegedly sexually assaulting three boys. The accusations followed a student's claim against a class teacher, which two other students corroborated. Despite parental support, the principal faces charges based on the complaints lodged by the police.
-
-🟩
-
-Kataragama Police have arrested a principal of a school in the Gothapura area in Kataragama.
-
-It is in connection with a incident of abuse of three boys in the school.
-
-A student has made a teacher in charge of his classes, claiming that he had done sexual stating.
-
-Thereafter, two boys have also been told that they were also the same assembly to the same restored.
-
-Accordingly, the Principal has been arrested following a complaint lodged by the police.
-
-However, the parents' parents accused the children of the school allegations that certain groups are acting to be understood.
-
-◼️
-
-[Data](articles/5905ea46.json)
-
-[Extended Data](ext_articles/5905ea46.ext.json)
 
 ---

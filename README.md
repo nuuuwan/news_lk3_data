@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 17:37:04**
+As of **2024-08-24 17:57:25**
 
 ## Newspaper Stats
 
-*Scraped **42,393** Articles*
+*Scraped **42,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,568
 dailyftlk | 2,758
 adalk | 3,904
 dailymirrorlk | 4,733
-adaderanalk | 4,973
+adaderanalk | 4,974
 tamilmirrorlk | 5,503
 virakesarilk | 6,737
-adaderanasinhalalk | 7,244
+adaderanasinhalalk | 7,246
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,393 (100.0%) of 42,393 articles have been extended.
+42,393 (100.0%) of 42,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### අවදානම් ඖෂධ 156ක් ඉන්දියාව තහනම් කරයි
+
+*2024-08-24 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200281) · `si`
+
+ඉන්දියාවේ භාවිත කරන ලද ඖෂධ 156ක් තහනම් කිරීමට එරට රජය තීරණය කර තිබේ.
+
+ඒ අනුව උණ ට, සෙම්ප්‍රතිශ්‍යාව ට සහ ප්‍රතිජීවක ලෙස භාවිත කරන ලද ඖෂධ වර්ග කිහිපයක් මෙලෙස තහනමට ලක්වී ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+එම ඖෂධ භාවිත කිරීම තුළින් මිනිසාට අවධානමක් ඇති විය හැකි බවට හඳුනාගැනීමෙන් අනතුරුව ඒවා තහනම් කිරීමට පියවර ගෙන ඇත.
+
+එරට ඖෂධ තාක්ෂණික උපදේශක මණ්ඩලයේ නිර්දේශ මත පදනම්ව, මධ්‍යම රජය විසින් අදාළ ඖෂධ නිෂ්පාදනය කිරීම, විකිණීම සහ බෙදාහැරීම මෙලෙස තහනම් කර ඇති බව වාර්තා වී ඇත.
+
+◼️
+
+[Data](articles/115eef2c.json)
+
+---
+
+### India bans 156 medicines including antibiotics, painkillers, multivitamins
+
+*2024-08-24 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101470/india-bans-156-medicines-including-antibiotics-painkillers-multivitamins) · `en`
+
+In a significant move aimed at safeguarding public health, the Indian government has banned 156 fixed-dose combination (FDC) drugs, including a variety of antibiotics, painkillers, multivitamins, and medications for treating fever and hypertension.
+
+This decision marks the largest crackdown on FDCs since 2016, when 344 such drugs were prohibited. The Union Ministry of Health and Family Welfare issued a gazette notification on Thursday, officially prohibiting the manufacture, sale, and distribution of the banned FDCs.
+
+The ban was based on the recommendations of an expert panel that reviewed a total of 324 FDCs.
+
+The banned FDCs include popular combinations such as mefenamic acid and paracetamol injections, commonly used for pain relief and fever, and omeprazole magnesium with dicyclomine HCl, used to treat abdominal pain.
+
+...
+
+[Data](articles/fa4477dd.json)
+
+---
+
+### චීනයට තවත් ආපදාවක්
+
+*2024-08-24 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200280) · `si`
+
+චීනයට බලපා ඇති අයහපත් කාලගුණික තත්ත්වයෙන් පුද්ගලයින් 11 දෙනෙකු ජීවිතක්ෂයට පත්වී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඊසාන දිග චීනයේ Liaoning පළාතට ගතවූ දින කිහිපය තුළ බලපා තිබු අධික වර්ෂාපතනයත් සමග එම ආපදා තත්ත්වය වාර්තා වී තිබුණි.
+
+ගංවතුර අවදානම හේතුවෙන් එම ප්‍රාන්තයේ පුද්ගලයින් 50,000කට අධික පිරිසක් ආරක්ෂිත ස්ථාන කරා යොමු කිරීමට ද බලධාරීන් කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/8bce159e.json)
+
+---
 
 ### Modi reveals at Ukraine
 
@@ -2179,79 +2231,5 @@ The leaders of the Muslim parties must have sent the other members to support Ra
 [Data](articles/cb8d5ee2.json)
 
 [Extended Data](ext_articles/cb8d5ee2.ext.json)
-
----
-
-### Shakeb Al Hashan allegations of murder
-
-*2024-08-23 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200251) · `si`
-
-Shakeb Al Hashan, a former Bangladeshi cricketer, faces murder charges for allegedly shooting and killing a protester, Rubel Islam, during anti-government demonstrations. His name is included in the list of suspects accused of murdering the youth.
-
-🟩
-
-Like a former member of the Bangladeshi League, as well as Bangladesh cricketer cricketer, has been charged with murder.
-
-The allegation was to shoot and kill a young man of Rubble Islam during the protest held against the Government of Bangladesh.
-
-Shakuckie's name also includes the alleged person's list of murdering the youth.
-
-◼️
-
-[Data](articles/9a495cd2.json)
-
-[Extended Data](ext_articles/9a495cd2.ext.json)
-
----
-
-### The driver of two main roads is limited
-
-*2024-08-23 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200250) · `si`
-
-Due to the Esala Perahera in Ambalangoda and the Maha Perahera in Navagamuwa, road restrictions will be in place. Drivers are advised to use alternative routes.
-
-🟩
-
-Police Media Spokesman's Office has issued a statement regarding the restrictions on two main road.
-
-Accordingly, the Esala Perahera of the Modara Devalaya, Ambalangoda is due to visit the Ambalangoda the historical Perahera of the Ambalangoda tomorrow (24).
-
-As a result, the drivers using the road have requested the public to use alternative routes.
-
-Meanwhile, Avissawella has been restricted due to the Maha Perahera of Navagamuwa Pattini Devalaya.
-
-Accordingly, the road has been restricted to drive from 8 am to 1 am to 2 am tomorrow (24).
-
-As a result, the drivers used that road have also been introduced by the police and requested the police to use the roads.
-
-◼️
-
-[Data](articles/9ec77b7d.json)
-
-[Extended Data](ext_articles/9ec77b7d.ext.json)
-
----
-
-### We will increase the salary of state officials by 24 percent - Sajith Premadasa
-
-*2024-08-23 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191821) · `ta`
-
-Opposition leader Sajith Premadasa announced a 24% salary hike for state officials, criticizing the government for previously viewing them as burdens. He promised transparency and an exclusive committee for salary revisions, effective from January 2025, aiming to improve public officials' living standards and reduce taxes.
-
-🟩
-
-The government, which has so far claimed that state officials are burden to the country. This is a completely opportunism. Opposition leader Sajith Premadasa said that we too will increase the salary of state officials by 24 percent.
-
-He was speaking at a campaign meeting held on Friday (23) in the Varakapola constituency in Kegalle district.
-
-Government officials have seen state officials as a burden to the country. But now the state officials are important to this government. This is opportunism. The current government is working to deceive state officials to retain their positions.
-
-A few months ago, the state service was ineffective and the number of state officials would be reduced and they were burden to the country. But today the same people are making fake promises. We will not make fake promises to do so. Let us do everything that says.
-
-...
-
-[Data](articles/5a0fb313.json)
-
-[Extended Data](ext_articles/5a0fb313.ext.json)
 
 ---

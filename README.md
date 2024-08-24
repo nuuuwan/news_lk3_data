@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 11:21:23**
+As of **2024-08-24 11:36:57**
 
 ## Newspaper Stats
 
-*Scraped **42,358** Articles*
+*Scraped **42,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,566
 dailyftlk | 2,758
 adalk | 3,901
 dailymirrorlk | 4,733
-adaderanalk | 4,965
+adaderanalk | 4,966
 tamilmirrorlk | 5,500
 virakesarilk | 6,737
 adaderanasinhalalk | 7,234
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,358 (100.0%) of 42,358 articles have been extended.
+42,358 (100.0%) of 42,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### ‘Mitra Shakti’ exercise has strengthened India-Sri Lanka counter-terrorism partnership: Indian Army
+
+*2024-08-24 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101462/mitra-shakti-exercise-has-strengthened-india-sri-lanka-counter-terrorism-partnership-indian-army) · `en`
+
+The Indian Army on Friday said that the Joint Military Exercise ‘Mitra Shakti’ has helped both Indian and Sri Lankan forces to strengthen their strategic partnership in counter-terrorism efforts by providing a platform for sharing best practices and refining tactical approaches.
+
+“The Indian Army and the Sri Lanka Army have demonstrated unparalleled expertise in successful counter-terrorism operations, a testament to their extensive experience and proficiency in managing complex security challenges. Through their participation in the Joint Exercise Mitra Shakti, both armies have leveraged their respective knowledge and strategies to enhance mutual understanding and operational effectiveness,” Indian Army said in a statement.
+
+...
+
+[Data](articles/325fd5c3.json)
+
+---
 
 ### Niroshan Dickwella acknowledged the use of cocaine
 
@@ -2289,35 +2303,5 @@ It is worth noting that 62 people have been killed in July last July due to such
 [Data](articles/6bccc63f.json)
 
 [Extended Data](ext_articles/6bccc63f.ext.json)
-
----
-
-### Dilith also showed Dilith for tuition teachers
-
-*2024-08-23 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200240) · `si`
-
-Entrepreneurial candidate Dilitha Jayaweera expresses confidence in the stability of Sri Lanka's presidential election, emphasizing support for private tuition teachers and fostering an entrepreneurial spirit among the youth.
-
-🟩
-
-The security personnel candidate, entrepreneral Dilita Jayaweera says that the masses are not expected of any change in the presidential election.
-
-The private supporting class teachers met yesterday (22), Mr. Dilith Jayaweera said this.
-
-"We have faith in the task that you have made free education to educate free education, rather than stuck in a traditional place.
-
-It is our responsibility to create a secure environment for private teachers that are believed in an entrepreneurship state.
-
-We have a responsibility to sustain the environment for the youth of this youth to achieve entrepreneurship in Sri Lanka.
-
-Some went to struggle. 225 said no. Said something new wanted. Sistum told you to change.
-
-The politics we make is different. Wishful change, you may contribute to the change of that change. It is a pue that is done for this country. "
-
-◼️
-
-[Data](articles/4486534f.json)
-
-[Extended Data](ext_articles/4486534f.ext.json)
 
 ---

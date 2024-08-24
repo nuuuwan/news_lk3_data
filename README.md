@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 09:36:54**
+As of **2024-08-24 09:56:01**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 7,232
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,350 (100.0%) of 42,351 articles have been extended.
+42,351 (100.0%) of 42,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### ජනාධිපතිවරණ සමීක්ෂණ ගැන හෙළිදරව්වක්
+### A revelation of presidential election surveys
 
 *2024-08-24 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200266) · `si`
 
-ජනාධිපතිවරණය සම්බන්ධයෙන් විවිධ පර්ශව විසින් සිදුකරන සමීක්ෂණ පිළිබඳව නොමග නොයන ලෙස මැතිවරණ කොමිසම ඡන්ද දායකයින්ගෙන් ඉල්ලීමක් කළේය.
+Presidential election surveys: Election Commission warns against misleading results. Commissioner General Saman Sri Ratnayake states surveys do not necessitate changing voting decisions.
 
-මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා සඳහන් කර සිටියේ සමීක්ෂණ මත පදනම්ව තමන්ගේ මතය වෙනස් කිරීමේ අවශ්‍යතාවක් නොමැති බවයි.
+🟩
+
+The Election Commission requested voters not to mislead the presidential election.
+
+Elections Commissioner General Saman Sri Ratnayake said there was no need to change its views based on surveys.
 
 ◼️
 
 [Data](articles/6048968f.json)
+
+[Extended Data](ext_articles/6048968f.ext.json)
 
 ---
 

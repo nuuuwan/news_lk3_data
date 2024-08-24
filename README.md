@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 05:21:22**
+As of **2024-08-24 05:39:18**
 
 ## Newspaper Stats
 
-*Scraped **42,337** Articles*
+*Scraped **42,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,758
 adalk | 3,899
 dailymirrorlk | 4,733
 adaderanalk | 4,962
-tamilmirrorlk | 5,491
+tamilmirrorlk | 5,492
 virakesarilk | 6,737
 adaderanasinhalalk | 7,227
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,337 (100.0%) of 42,337 articles have been extended.
+42,337 (100.0%) of 42,338 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,22 @@ Ratnayake has said that they will take steps to provide a report on all activiti
 [Data](articles/e1d47de1.json)
 
 [Extended Data](ext_articles/e1d47de1.ext.json)
+
+---
+
+### இன்று  இடியுடன் கூடிய மழை
+
+*2024-08-24 01:29:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-342696) · `ta`
+
+நாட்டின் பெரும்பாலான பகுதிகளில் இன்று பிற்பகல் 1 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழைவீழ்ச்சி பதிவாகக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதன்படி மேல், சபரகமுவ, மத்திய மற்றும் கிழக்கு மாகாணங்களின் சில இடங்களில் 75 மில்லி மீற்றர் அளவில் மழை பெய்யக்கூடும் என அந்தத் திணைக்களம் தெரிவித்துள்ளது.
+
+அத்துடன் வடக்கு, வடமத்திய மற்றும் கிழக்கு மாகாணங்களில் அவ்வப்போது மழை பெய்யக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/2e333e76.json)
 
 ---
 
@@ -2273,31 +2289,5 @@ The US dollar purchasing price was 296.5514 rupees and the sales price were 305.
 [Data](articles/4105468b.json)
 
 [Extended Data](ext_articles/4105468b.ext.json)
-
----
-
-### School Principal arrested for sexually abusing two students
-
-*2024-08-23 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191756) · `ta`
-
-A school principal was arrested for sexually abusing two students, aged 13 and 14, in Kadirgamam. The abuse occurred in a designated feeding room during sports events in 2021 and 2023.
-
-🟩
-
-Kadirgamam police said that a school principal has been arrested for allegedly sexually abusing two students in a school in the Kadirgamam police division.
-
-The suspect has been arrested in connection with a complaint received by the Kadirgamam police on Thursday (22).
-
-Two students who are educated in grades 08 and 09 have been sexually abused.
-
-The complaint stated that the suspect had sexually abused a student in 2021 and the other student in 2023.
-
-The complaint further stated that the two students were sexually abused inside a room set aside for feeding when they went to school for sports activities.
-
-◼️
-
-[Data](articles/e5c62d65.json)
-
-[Extended Data](ext_articles/e5c62d65.ext.json)
 
 ---

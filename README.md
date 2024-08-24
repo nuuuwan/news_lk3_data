@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 08:36:45**
+As of **2024-08-24 08:55:59**
 
 ## Newspaper Stats
 
-*Scraped **42,346** Articles*
+*Scraped **42,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,566
 dailyftlk | 2,758
 adalk | 3,899
 dailymirrorlk | 4,733
-adaderanalk | 4,962
+adaderanalk | 4,963
 tamilmirrorlk | 5,496
 virakesarilk | 6,737
 adaderanasinhalalk | 7,231
@@ -26,23 +26,47 @@ adaderanasinhalalk | 7,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,344 (100.0%) of 42,346 articles have been extended.
+42,346 (100.0%) of 42,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### අගෝස්තු මාසයේ ඩෙංගු රෝගීන් 2400ක්
+### Several spells of light showers expected in parts of the island
+
+*2024-08-24 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101459/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several  spells of light showers will occur in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Eastern and Uva Provinces during the evening or night.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and North-western provinces and in Hambantota district, it added.
+
+Thus the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/3f579589.json)
+
+---
+
+### 2400 dengue patients in August
 
 *2024-08-24 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200265) · `si`
 
-අගෝස්තු මාසයේ ගත වූ කාලසීමාව තුළ 2400කට අධික ඩෙංගු රොගීන් පිරිසක් වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය පැවසීය.
+Over 2400 dengue cases in August, mostly in Western Province and Kandy District.
 
-ජාතික ඩෙංගු මර්දන ඒකකයේ ප්‍රජා විශේෂඥ වෛද්‍ය අනෝමා දීප්ති මහත්මිය පවසා සිටියේ, වැඩිම රෝගීන් සංඛ්‍යාවක් බස්නාහිර පළාතෙන් සහ මහනුවර දිස්ත්‍රික්කයෙන් වාර්තා වන බවයි.
+🟩
+
+The National Dengue Control Unit said more than 2400 dengue patients were reported during the period last year.
+
+Ms. Dr. Anoma Deepthi, Community Specialist of the National Dengue Control Unit said that the highest number of cases were reported from the Western Province and the Kandy District.
 
 ◼️
 
 [Data](articles/18caf298.json)
+
+[Extended Data](ext_articles/18caf298.ext.json)
 
 ---
 
@@ -256,19 +280,25 @@ Ratnayake has said that they will take steps to provide a report on all activiti
 
 ---
 
-### ’சஜித், அனுர மக்களுக்கு அனுதாபம் காட்டவில்லை’
+### Sajith does not sympathize with Anura people
 
 *2024-08-24 01:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-அனுர-மக்களுக்கு-அனுதாபம்-காட்டவில்லை/175-342697) · `ta`
 
-அன்று மக்கள் படும் துன்பங்களைக் கண்டு இரக்கமில்லாமல் தப்பியோடி, ஒளிந்த சஜித் பிரேமதாசவும் அநுர திஸாநாயக்கவும் நாட்டை முன்னோக்கி கொண்டு செல்வதற்கு தகுதியானவர்களா என்பதை இந்நாட்டு மக்கள் தீர்மானிக்க வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe says public decides eligibility of Sajith Premadasa and Anura Dissanayake to lead country forward.
 
-மட்டக்களப்பு ஏறாவூர் அஹமட் பரீட் விளையாட்டரங்கில் நேற்று  (23) பிற்பகல் நடைபெற்ற 'இயலும் ஸ்ரீலங்கா'வெற்றிப் பேரணியில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+🟩
 
-இது தொடர்பில் அவர் மேலும் தெரிவிக்கையில்,  2022 ஆம் ஆண்டு ஜூலை மாதம் அரசாங்கத்தைப் பொறுப்பேற்றவுடன் விவசாயிகளுக்கு உரம் வழங்குவதே தாம் செய்த முதல் காரியம் என்பதை நினைவுகூர்ந்த ஜனாதிபதி, அந்த 04 போகங்களையும் வெற்றியடையச் செய்ததன் மூலம் நாட்டில் நெல் உற்பத்தியை அதிகரித்து வயல்களையும் சமையலறைகளையும் நிரப்பியதாக குறிப்பிட்டார். (a)
+President Ranil Wickremesinghe said that the people of this country should decide whether the people of Sajith Premadasa and Anura Dissanayake are eligible to take the country forward.
+
+President Ranil Wickremesinghe made this statement while addressing the 'Ceylon Sri Lanka' rally held at the Eravur Ahmed Pareed Stadium in Batticaloa yesterday afternoon.
+
+He added that he was the first thing he had done to fertilize the farmers after taking over the government in July 2022, and said that the country was increasing the production of paddy and kitchens by increasing the success of the four.. (A)
 
 ◼️
 
 [Data](articles/7c5f0bdf.json)
+
+[Extended Data](ext_articles/7c5f0bdf.ext.json)
 
 ---
 
@@ -2273,29 +2303,5 @@ Against this backdrop, the Sri Lanka Athletics Association had taken steps to ob
 [Data](articles/4b2e6c76.json)
 
 [Extended Data](ext_articles/4b2e6c76.ext.json)
-
----
-
-### Teachers arrested for attacking student
-
-*2024-08-23 12:57:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவியை-தாக்கிய-ஆசிரியர்கள்-கைது/175-342684) · `ta`
-
-Two teachers were arrested for severely assaulting a 10th-grade student in Wennappuwa. The student has been hospitalized for 13 days. Investigations led to the arrests, with one teacher accused of beating another and both involved in the attack on the student.
-
-🟩
-
-Two teachers have been arrested on charges of severely assaulting a student in grade 10 of a leading school in the Wennappuwa area.
-
-Investigations have revealed that a teacher has been severely beaten by a teacher and the other teacher has been attacked by Thumbuttadi.
-
-The student has been receiving treatment at the Emergency Department of the Colombo National Hospital for the past 13 days.
-
-Two teachers have been arrested in connection with the appropriate investigation by the police regarding the incident. Remble
-
-◼️
-
-[Data](articles/99eea7e0.json)
-
-[Extended Data](ext_articles/99eea7e0.ext.json)
 
 ---

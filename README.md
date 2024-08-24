@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 09:07:07**
+As of **2024-08-24 09:21:35**
 
 ## Newspaper Stats
 
-*Scraped **42,347** Articles*
+*Scraped **42,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,566
 dailyftlk | 2,758
 adalk | 3,899
 dailymirrorlk | 4,733
-adaderanalk | 4,963
-tamilmirrorlk | 5,496
+adaderanalk | 4,964
+tamilmirrorlk | 5,498
 virakesarilk | 6,737
 adaderanasinhalalk | 7,231
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 7,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,347 (100.0%) of 42,347 articles have been extended.
+42,347 (100.0%) of 42,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### சிறுவனை கடித்தும், அடித்தும் சித்திரவதை செய்த  சிறிய தாய்
+
+*2024-08-24 08:54:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-கடித்தும்-அடித்தும்-சித்திரவதை-செய்த-சிறிய-தாய்/76-342701) · `ta`
+
+லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட வளஹா தோட்டத்தில் வசிக்கும் 10 வயது சிறுவன் ஒருவன் தனது சிறிய தாயாரினால் கடந்த சில தினங்களாக கொடூர சித்திரவதைக்குட்படுத்திய சம்பவம் தொடர்பில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+குறித்த சிறுவன் அடிக்கப்பட்டு கடிக்கப்பட்டு பல வகையான சித்திரவதைகளை ஏற்படுத்தி உள்ளதாகவும் அதனை விசாரித்து அறிந்த பாடசாலை சமூகம் லிந்துலை பொலிஸ் இணையத்தில் முறைப்பாடு செய்துள்ளனர்.
+
+சித்திரவதைக்கு உள்ளான சிறுவன் லிந்துலை  பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைகளுக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு நேற்றைய தினம் அனுப்பப்பட்டுள்ளார்.
+
+அதே சமயம்  நேற்றைய தினம் சம்பவத்துடன் தொடர்புடைய சிறிய தாயார் பொலிஸாரினால் வரவழைக்கப்பட்டு விசாரணைகளுக்கு உட்படுத்தினர். விசாரணைகளை தொடர்ந்து குறித்த பெண் கைது செய்யப்பட்டு இன்றைய தினம் நுவரெலியா மாவட்ட நீதவால் முன்னிலையில் ஆஜர் படுத்த நடவடிக்கை எடுத்துள்ளதாக லிந்துலை பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார்.
+
+...
+
+[Data](articles/16b36fc7.json)
+
+---
+
+### Three dead, several wounded in knife attack at German festival
+
+*2024-08-24 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101460/three-dead-several-wounded-in-knife-attack-at-german-festival) · `en`
+
+An attacker with a knife killed three people and seriously wounded at least five late Friday at a festival in the western German city of Solingen, authorities said.
+
+Witnesses alerted police shortly after 9:30 p.m. to an unknown attacker having wounded several people indiscriminately with a knife on a central square, the Fronhof. Police said the perpetrator was on the run, and they had only very little information on the man so far.
+
+They said they believe the stabbings were carried out by a lone attacker.
+
+One of the festival organizers, Philipp Müller, appeared on stage and asked festivalgoers to “go calmly; please keep your eyes open, because unfortunately the perpetrator hasn’t been caught.”
+
+At least one helicopter was seen in the air, while many police and emergency vehicles with flashing blue lights were on the road and several streets were closed off.
+
+...
+
+[Data](articles/185036e0.json)
+
+---
 
 ### Several spells of light showers expected in parts of the island
 
@@ -49,6 +87,20 @@ Thus the general public is kindly requested to take adequate precautions to mini
 [Data](articles/3f579589.json)
 
 [Extended Data](ext_articles/3f579589.ext.json)
+
+---
+
+### 11 இந்திய மீனவர்கள் கைது
+
+*2024-08-24 08:31:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-இந்திய-மீனவர்கள்-கைது/175-342700) · `ta`
+
+இலங்கை கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் 11 இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+வடக்கு கடற்பரப்பில் வைத்து குறித்த மீனவர்கள் கைது செய்யப்பட்டுள்ளதாகக் கடற்படைத் தகவல்கள் தெரிவிக்கின்றன. R
+
+◼️
+
+[Data](articles/6f3e13d4.json)
 
 ---
 
@@ -2251,59 +2303,5 @@ Kandy was the next highest at 55,795, followed by Gampaha at 52,486.
 [Data](articles/bdaa0d07.json)
 
 [Extended Data](ext_articles/bdaa0d07.ext.json)
-
----
-
-### Sri Lanka will continue to stand for rights of Palestinian people: Premier
-
-*2024-08-23 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-would-continue-to-stand-for-rights-of-palestinian-people-premier-177890/) · `en`
-
-ECONOMYNEXT – Sri Lanka will continue to stand for the rights of the Palestinian people, Prime Minister Dinesh Gunawardena told Palestinian Ambassador Zuhair M H Zaid.
-
-Ambassador Zaid paid a farewell call on Gunawardena on Thursday (22).
-
-He briefed the Prime Minister about the current situation in Palestine and the Prime Minister stated that “Sri Lanka would continue to stand for the rights of the Palestinian people,” his media division said. (Colombo/Aug23/2024)
-
-◼️
-
-[Data](articles/aed89d3e.json)
-
-[Extended Data](ext_articles/aed89d3e.ext.json)
-
----
-
-### Sri Lanka will continue to stand for rights of Palestinian people: Premier
-
-*2024-08-23 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-continue-to-stand-for-rights-of-palestinian-people-premier-177890/) · `en`
-
-ECONOMYNEXT – Sri Lanka will continue to stand for the rights of the Palestinian people, Prime Minister Dinesh Gunawardena told Palestinian Ambassador Zuhair M H Zaid.
-
-Ambassador Zaid paid a farewell call on Gunawardena on Thursday (22).
-
-He briefed the Prime Minister about the current situation in Palestine and the Prime Minister stated that “Sri Lanka would continue to stand for the rights of the Palestinian people,” his media division said. (Colombo/Aug23/2024)
-
-◼️
-
-[Data](articles/f4c01ac0.json)
-
-[Extended Data](ext_articles/f4c01ac0.ext.json)
-
----
-
-### President’s Fund provides lifeline for Sri Lankan athletes’ World Junior Championship hopes after Ada Derana report
-
-*2024-08-23 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101445/presidents-fund-provides-lifeline-for-sri-lankan-athletes-world-junior-championship-hopes-after-ada-derana-report) · `en`
-
-The President’s Fund has stepped up to provide necessary financial assistance to twelve Sri Lankan athletes, who were on the verge of missing the 2024 World Junior Athletics Championship in Lima, Peru due to a lack of financial support. This intervention came after Ada Derana revealed the athletes’ predicament.
-
-The 2024 World Junior Athletics Championship, scheduled to take place from August 27 to 31, is an important platform for young athletes to demonstrate their abilities on the global stage.  However, despite their qualification, the Sri Lankan athletes faced the possibility of being left behind as the authorities of the Sports Ministry had refused to provide necessary provisions, including air tickets.
-
-Against this backdrop, the Sri Lanka Athletics Association had taken steps to obtain the necessary visas for the athletes after travelling to India since the athletes have successfully met the required performance standards.
-
-...
-
-[Data](articles/4b2e6c76.json)
-
-[Extended Data](ext_articles/4b2e6c76.ext.json)
 
 ---

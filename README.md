@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 21:56:04**
+As of **2024-08-24 22:09:47**
 
 ## Newspaper Stats
 
-*Scraped **42,407** Articles*
+*Scraped **42,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,568
 dailyftlk | 2,758
 adalk | 3,906
 dailymirrorlk | 4,733
-adaderanalk | 4,975
-tamilmirrorlk | 5,504
+adaderanalk | 4,976
+tamilmirrorlk | 5,505
 virakesarilk | 6,737
 adaderanasinhalalk | 7,253
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 7,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,407 (100.0%) of 42,407 articles have been extended.
+42,407 (100.0%) of 42,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### Korea to invest in solar energy and agriculture projects in Sri Lanka
+
+*2024-08-24 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101472/korea-to-invest-in-solar-energy-and-agriculture-projects-in-sri-lanka) · `en`
+
+Prime Minister Dinesh Gunawardena has expressed the government’s readiness to attract foreign investments and its plans to increase the share of alternative energy sources to cut down the dependence on crude oil.
+
+He conveyed this, in a meeting with a leading entrepreneur from the People’s Republic of South Korea, Tong-Jo Mun at the Temple Trees in Colombo held recently.
+
+Tong-Jo Mun stated that the International Interchange Development Associations (IIDA) are willing to invest in several solar energy projects as well as in the cultivation of fruits in Sri Lanka for export to Korea and other countries.
+
+Meanwhile, the Prime Minister and Mun also discussed possible investments in fisheries, health, and construction sectors, especially new technology to upgrade production in these sectors.
+
+◼️
+
+[Data](articles/f6037a6d.json)
+
+---
+
+### சிறுமியை துஷ்பிரயோகப்படுத்த முயன்ற சிறுவன்
+
+*2024-08-24 21:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமியை-துஷ்பிரயோகப்படுத்த-முயன்ற-சிறுவன்/76-342708) · `ta`
+
+11 வயதுடைய சிறுமியை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்த முயற்சித்த 14 வயதுடைய சிறுவன் பிடிபட்டு சிறுவர் சீர்திருத்த பள்ளியில் அனுமதிக்கப்பட்டுள்ளார்.
+
+இச் சம்பவம் நேற்று முன்தினம் மஸ்கெலியா பொலிஸ் பிரிவில் இடம் பெற்று உள்ளது.
+
+பெரிய தந்தையின் மகளை (11 வயது) அவரது இல்லத்தில் வைத்து பலாத்காரம் செய்ய முயன்ற போது பெரிய தந்தை திடீர் என வீட்டிற்கு வந்ததால் சிறுமி காப்பாற்றப்பட்டு டிக்கோயா கிளங்கன் ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+பெரிய தந்தை கொடுத்த புகாரின் பேரில் சந்தேகநபரான 14 வயதுடைய சிறுவன் கைது செய்யப்பட்டு நேற்று ஹட்டன் நீதிமன்றத்தில் ஆஜர் படுத்தப்பட்ட போது நீதவான் சந்தேக நபரை எதிர் வரும் 4 ம் திகதி வரை சிறுவர் சீர்திருத்த பள்ளியில் சேர்க்க உத்தரவிட்டுள்ளார்.
+
+இது தொடர்பாக தொடர்ந்து பொலிஸார் விசாரணை மேற்கொண்டு வருகின்றனர். பாதிக்கப்பட்ட சிறுமியின் தாய் தலைநகரில் பணி புரிந்து வருகிறார் எனவும் தந்தை அன்றாட தொழிலுக்கு வெளியே சென்று தற்செயலாக வீட்டிற்கு வந்ததால் சிறுமி காப்பாற்றப்பட்டுள்ளமை தெரிவந்துள்ளது. R
+
+◼️
+
+[Data](articles/c8eab20b.json)
+
+---
 
 ### Discussion on local government polls
 
@@ -2195,51 +2233,5 @@ However the icing on the winning candidate’s cake would be the minority vote. 
 [Data](articles/bd766ef7.json)
 
 [Extended Data](ext_articles/bd766ef7.ext.json)
-
----
-
-### Dinesh Chandimal was taken to the hospital
-
-*2024-08-23 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200256) · `si`
-
-Dinesh Chandimal was hospitalized after being hit by a ball from Mark Wood during the third day of the first Test match between Sri Lanka and England. Sri Lanka scored 236 runs in their first innings, while England made 358.
-
-🟩
-
-Dinesh Chandimal, who left the ground, has been taken to the hospital due to a ball of Mark Wood.
-
-Today is the third day of the first Test match between Sri Lanka and England.
-
-Batting first Sri Lanka scored 236 runs while England scored 358 runs for the first innings.
-
-◼️
-
-[Data](articles/8ffe6dfb.json)
-
-[Extended Data](ext_articles/8ffe6dfb.ext.json)
-
----
-
-### Give me support: President invitation to Tamil General Public Advisory
-
-*2024-08-23 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191810) · `ta`
-
-President Ranil Wickremesinghe seeks Tamil community support for his presidential bid, promising economic stability and development for all citizens. The Tamil National Alliance names P. Ariyanethran as their general candidate for the upcoming election. Despite initial lack of participation from the Tamil public in negotiations, key figures from the Tamil community engage with President Wickremesinghe, expressing hopes for dialogue on community expectations.
-
-🟩
-
-President Ranil Wickremesinghe has called on the Tamil General Assembly to support him in the presidential election and to discuss the expectations of the Tamil community.
-
-He also expressed his hope that his alliance would benefit all the citizens of the country.
-
-As the country's ninth presidential election is scheduled to be held on September 23, former Sri Lankan Tamil National Alliance (TNA) parliamentarian P. Ariyanethran has been named general candidate by the Tamil National Alliance (TNA) co -created by Tamil National Political Parties and Civil Social Finances.
-
-President Ranil Wickremesinghe, who is the Independent candidate in this election, has already called on the Tamil public for talks, but they have not participated in the negotiation.
-
-...
-
-[Data](articles/32c6f48a.json)
-
-[Extended Data](ext_articles/32c6f48a.ext.json)
 
 ---

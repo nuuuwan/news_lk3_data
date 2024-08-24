@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 15:55:19**
+As of **2024-08-24 16:07:49**
 
 ## Newspaper Stats
 
-*Scraped **42,387** Articles*
+*Scraped **42,389** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,47 +18,89 @@ dailyftlk | 2,758
 adalk | 3,904
 dailymirrorlk | 4,733
 adaderanalk | 4,971
-tamilmirrorlk | 5,502
+tamilmirrorlk | 5,503
 virakesarilk | 6,737
-adaderanasinhalalk | 7,241
+adaderanasinhalalk | 7,242
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,384 (100.0%) of 42,387 articles have been extended.
+42,387 (100.0%) of 42,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### රුක්මන් සේනානායක අභාවප්‍රාප්ත වෙයි
+### අනුර හදන ආණ්ඩුව ගැන කරුණු කියයි
+
+*2024-08-24 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200277) · `si`
+
+පොදු ජනයාගේ හා පාලකයාගේ අරමුණු සමපාත වන ආණ්ඩුවක් ගොඩනගන බව ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+මාතර රාහුල විද්‍යාලයේ ආදි සිසුන් පිරිසක් විසින් සංවිධානය කරනු ලැබු හමුවක් ඊයේ (23) පස්වරුවේ මාතරදී පැවැත්වුණේ, ජාතික ජන බලවේගයේ ජානාධිපති ධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙනි.
+
+"ඔබ මා කෙරෙහි තබන විශ්වාසය හානි වෙන්න දෙන්නේ නැහැ. හැම වෙලාවෙම ජනතාවගේ අරමුණ යහපත් ආණ්ඩුවක් ගොඩනැගීම. නමුත් පාලකයාගේ අරමුණ වෙනයි. ජනතාවගේ හා පාලකයාගේ අරමුණ දෙකක්. ජනතාවගේ හා පාලකයාගේ අරමුණ සමපාතවන ආණ්ඩුවක් අපි හදමු. රට ගැන ඔබ හා සමාන හැඟීමක් මට තිබෙනවා."
+
+◼️
+
+[Data](articles/c6f9ea6c.json)
+
+---
+
+### ருக்மன் சேனாநாயக்க காலமானார்
+
+*2024-08-24 15:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருக்மன்-சேனாநாயக்க-காலமானார்/175-342706) · `ta`
+
+இலங்கையின் முதல் பிரதமர் டி.எஸ்.சேனாநாயக்கவின் பேரனும், ஐக்கிய தேசியக் கட்சியின் முக்கியஸ்தரும் முன்னாள் அமைச்சரவை அமைச்சருமான ருக்மன் சேனாநாயக்க தனது 76ஆவது வயதில் இன்று காலமானதாக குடும்பத் தகவல்கள் தெரிவிக்கின்றன.
+
+தனது மாமா, முன்னாள் பிரதமர் டட்லி சேனாநாயக்கவின் திடீர் மரணத்தைத் தொடர்ந்து அவர் தனது அரசியல் பயணத்தை ஆரம்பித்தபோது, ​​சிறுவயதிலிருந்தே அவருக்கு அரசியல் மீதான ஆர்வம் ஏற்பட்டது
+
+◼️
+
+[Data](articles/b2597ba1.json)
+
+---
+
+### Rukman Senanayake passes away
 
 *2024-08-24 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200276) · `si`
 
-ශ්‍රී ලංකාවේ ප්‍රථම අග්‍රාමාත්‍ය ඩී. එස් සේනානායකගේ මහතාගේ මුණුපුරා වන රුක්මන් සේනානායක මහතා අභාවප්‍රාප්ත වී තිබේ.
+Rukman Senanayake, Sri Lanka's first PM, dies. Grandson of S. Senanayake. Former Cabinet member & UNP deputy leader.
 
-රුක්මන් සේනානායක මහතා එක්සත් ජාතික පක්ෂයේ ප්‍රබලයෙකු මෙන්ම හිටපු කැබිනට් අමාත්‍යවරයෙකු ද වෙයි.
+🟩
 
-කලක්  එක්සත් ජාතික පක්ෂයේ නියෝජ්‍ය නායකයා ලෙස ද කටයුතු කළේ රුක්මන් සේනානායක මහතා ය.
+Sri Lanka's first Prime Minister D. Mr. Rukman Senanayake, the grandson of S. Senanayake, has passed away.
+
+Rukman Senanayake is a UNP, a former Cabinet and former Cabinet.
+
+Rukman Senanayake was also present as the deputy leader of the UNP.
 
 ◼️
 
 [Data](articles/054a299c.json)
 
+[Extended Data](ext_articles/054a299c.ext.json)
+
 ---
 
-### අපහාස කරන්න කාටවත් ඉඩක් නැහැ - සජිත්
+### No one can insult - Sajith
 
 *2024-08-24 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200275) · `si`
 
-බෙදුණු සහ කඩාවැටුණු රට ගොඩනැගීමේ හැකියාව තමා සහ තම කණ්ඩායම සතු බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa: "No one can insult our nation or religion. We're building this country together."
 
-"මේ රටේ මුස්ලිම් ප්‍රජාව වෙනුවෙන් එළියට බැස්සේ අපි. මම එකක් කියන්නම්... මේ රටේ කිසිම පුද්ගලයෙකුට, ජාතියකට, ආගමකට අපහාස කරන්න ඉඩ දෙන්නේ නැහැ. මේ රට අපි හැමෝගෙම රට. මමත් මගේ කණ්ඩායමත් මේ රට ගොඩනැගීමේ වගකීම භාර ගන්නවා. ඔබව අපි හදවතින්ම රකිනවා."
+🟩
+
+Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, Sagith Premadasa, the president of the prospect of building the split and collapse country.
+
+"Out of the Muslim community of this country. I'll tell you one ... No person in this country will allow nation, religion to insult. This country is all of us. I and my team take responsibility for building this country. We're keeping you up. "
 
 ◼️
 
 [Data](articles/aa139e2d.json)
+
+[Extended Data](ext_articles/aa139e2d.ext.json)
 
 ---
 
@@ -234,17 +276,23 @@ He is a former Army soldier and has been attached to the 14th Lions Regiment.
 
 ---
 
-### තෙවන පාසල් වාරය ආරම්භ කරන දිනය මෙන්න
+### Here is the date of starting the third school term
 
 *2024-08-24 13:30:18* · [`adalk`](https://www.ada.lk/breaking_news/තෙවන-පාසල්-වාරය-ආරම්භ-කරන-දිනය-මෙන්න/11-411529) · `si`
 
-රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ පාසල් සඳහා තෙවන පාසල් වාරය එළැඹන සඳුදා (26දා) ආරම්භ වන බව අධ්‍යාපන අමාත්‍යාංශය පැවසීය.
+Sinhala Tamil schools third term starts Monday 26th after second term ends
 
-දෙවන පාසල් වාරය පසුගිය 16 වැනි සිකුරාදා අවසන් වූ අතර, ඒ අනුව සඳුදා දිනයේ සිට තෙවන පාසල් වාරය ආරම්භ වීමට නියමිතව ඇත.
+🟩
+
+The third term for Sinhala and Tamil schools in government schools and government approved private schools will commence on Monday (26).
+
+The second school term ended on Friday last Friday, and the third term from Monday is scheduled to begin.
 
 ◼️
 
 [Data](articles/cce60af2.json)
+
+[Extended Data](ext_articles/cce60af2.ext.json)
 
 ---
 
@@ -2195,47 +2243,5 @@ Sri Lanka squad is due to leave for South Africa on the 27th.
 [Data](articles/aace49cc.json)
 
 [Extended Data](ext_articles/aace49cc.ext.json)
-
----
-
-### 30 kg of Hashish worth Rs. 212 mln sent from Italy seized
-
-*2024-08-23 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101454/30-kg-of-hashish-worth-rs-212-mln-sent-from-italy-seized) · `en`
-
-Customs officials have seized 30 kg of Hashish, estimated to be worth around Rs. 212 million, concealed in a gift parcel sent from Italy to Sri Lanka, through a clearing company in Colombo.
-
-One person has been arrested and handed over to the Police Narcotics Bureau (PNB), along with the haul of narcotics, for further investigations, Sri Lanka Customs spokesman said.
-
-Additional Director General of Customs Seevali Arukgoda stated that the seized consignment of Hashish had been sent to an address in the Mathugama area and that the street value of the drugs is estimated to be around Rs. 212 million.
-
-◼️
-
-[Data](articles/7366febb.json)
-
-[Extended Data](ext_articles/7366febb.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 299.70/300.00, bond yields down
-
-*2024-08-23 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-299-70-300-00-bond-yields-down-177945/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 299.70/300.00 to the US dollar Friday, from 300.80/301.30 Thursday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed stable at 11.00/15 percent.
-
-A bond maturing on 01.07.2028 closed at 12.40/50 percent, down from 12.45/60 percent.
-
-A bond maturing on 15.06.2029 closed at 12.65/75 percent, down from 12.85/95 percent.
-
-A bond maturing on 15.05.2030 closed at 12.80/13.00 percent, down from 12.85/13.05 percent.
-
-A bond maturing on 15.05.2032 closed at 13.00/25 percent. (Colombo/Aug23/2024)
-
-◼️
-
-[Data](articles/b0a9a338.json)
-
-[Extended Data](ext_articles/b0a9a338.ext.json)
 
 ---

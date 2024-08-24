@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 00:09:01**
+As of **2024-08-25 00:21:41**
 
 ## Newspaper Stats
 
-*Scraped **42,415** Articles*
+*Scraped **42,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 2,758
 adalk | 3,906
 dailymirrorlk | 4,733
 adaderanalk | 4,977
-tamilmirrorlk | 5,507
+tamilmirrorlk | 5,509
 virakesarilk | 6,737
-adaderanasinhalalk | 7,254
+adaderanasinhalalk | 7,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,413 (100.0%) of 42,415 articles have been extended.
+42,413 (100.0%) of 42,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### පළමු ටෙස්ට් තරගයේ ජය එංගලන්තයට
+
+*2024-08-24 23:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200290) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සමග පැවැත්වෙන පළමු ටෙස්ට් තරගය කඩුලු 05කින් ජය ගැනීමට එංගලන්ත කණ්ඩායම සමත් විය.
+
+ඒ තරගයේ ජයග්‍රාහණය සඳහා ඔවුන්ට හිමිවු ලකුණු 205ක ඉලක්කය කඩුලු 05ක් පමණක් දැවී පසුකරයාමට සමත් වීමත් සමගය.
+
+ශ්‍රී ලංකා කණ්ඩායම දෙවන ඉනිම සඳහා අද සියලුදෙනා දැවී රැස් කළ ලකුණු සංඛ්‍යාව 326කි.
+
+අද දිනය අරම්භ කරන විට ශ්‍රී ලංකා පිල දෙවන ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 204ක් ලබා සිටියේය.
+
+අද දිනයේදී එංගලන්ත පන්දුයවන්නන්ට මැනවින් පහරදුන් චන්දිමාල් සහ කමිඳු ශ්‍රී ලංකා දෙවන ඉනිමට නව ජීවයක් එක් කළේ  පළමු භාගයේදි කිසිදු කඩුල්ලක් ලබා නොදමිනි.
+
+ඔවුන් 8 වැනි කඩුල්ලට ශතක සබඳතාවක් ගොඩනගමින් ශ්‍රී ලංකා ඉනිම සවමිත් කළේය.
+
+චන්දිමාල් සිය ටෙස්ට් ක්‍රිකට් දිවියේ 27 වැනි අර්ධ ශතකය අද වාර්තා කළ අතර  සුපිරි ඉනිමක් ක්‍රීඩා කළ කමි﻿ඳු මෙන්ඩිස්  සිය ටෙස්ට් ක්‍රිකට් දිවියේ 3වැනි ශතකය ලබාගත්තේ වාර්තාවක් ද තබමිනි.
+
+ඒ රසල් ආර්නල්ඩ්ගෙන් පසු ඕල්ඩ් ට්‍රැෆඩ් පිටියේ දී ටෙස්ට් ශතකයක් ලබාගත් දෙවන ශ්‍රී ලාංකික පිතිකරුවා ලෙසය.
+
+කමිඳු ලකුණු 113ක් සහ චන්දිමාල් ලකුණු 79ක් රැස් කිරීමට සමත්විය.
+
+...
+
+[Data](articles/6c2a3153.json)
+
+---
+
+### ’கொடுப்பனவை அதிகரிக்க நடவடிக்கை’
+
+*2024-08-24 23:54:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொடுப்பனவை-அதிகரிக்க-நடவடிக்கை/175-342725) · `ta`
+
+அரச ஊழியர்களின் வாழ்க்கைச் செலவுக்கேற்ப சம்பளம் வழங்குவது தொடர்பாக ஆராய்வதற்கு பூரண  அதிகாரத்துடன் கூடிய ஆனைக்குழு ஒன்று  நிறுவப்படும். அரச ஊழியர்களின் சம்பளத்தை 24 வீதம் அதிகரிப்பதோடு அரச ஊழியர்களுக்கான வரியை குறைக்கவும்  நடவடிக்கை மேற்கொள்ளப்படும் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+சிரேஷ்ட பிரஜைகளின் சேமிப்பு கணக்குகளுக்கு இதற்கு முன்பு வழங்கப்பட்டதை போன்று 15 வீத வட்டியை  சேமிப்பு வட்டி வீதமாக வழங்குவதற்கு  நடவடிக்கை எடுக்கப்படும். 15 வீத வட்டியுடன் கூடிய  இலட்சக்கணக்கான  ஓய்வூதியதாரர்களின் உரிமை இன்று  பறிக்கப்பட்டுள்ளது. ஓய்வூதியதாரர்கள்  ஏமாற்றப்பட்டாலும் தாம் அவர்களை  ஏமாற்றப் போவதில்லை. 2016 ஆம் ஆண்டுக்கு முன்பு ஓய்வு பெற்ற  அனைவருக்கும் அக்ரஹார காப்புறுதித் திட்டத்தை முன்னெடுப்போம் என்று கட்சித் தலைவர்  தெரிவித்தார்.
+
+...
+
+[Data](articles/81ffe35e.json)
+
+---
+
+### ஆசானிடம் ஆசி பெற்றார் ஜனாதிபதி
+
+*2024-08-24 23:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசானிடம்-ஆசி-பெற்றார்-ஜனாதிபதி/175-342724) · `ta`
+
+மாணவர் பருவத்தில் கொழும்பு ரோயல் கல்லூரியில் தனக்கு கற்பித்த ஆசிரியர் சிவலிங்கத்திடம் ஜனாதிபதி ரணில் விக்கிரமசிங்க இன்று ஆசிபெற்றார். (a)
+
+◼️
+
+[Data](articles/ca85450b.json)
+
+---
 
 ### INS Mumbai to dock in Colombo for three-day visit, strengthening Indo-Lanka naval ties
 
@@ -2173,79 +2227,5 @@ This is the first opportunity to submit their assets and loans to the Election C
 [Data](articles/0f2907aa.json)
 
 [Extended Data](ext_articles/0f2907aa.ext.json)
-
----
-
-### The monthly income of candidates
-
-*2024-08-23 22:00:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வேட்பாளர்களின்-மாத-வருமானம்/150-342694) · `ta`
-
-Highest: Dilith Jayaweera (monthly income not specified). Lowest: Ranil Wickremesinghe. Second highest: Wijedasa Rajapakse (Rs 13,45,000).
-
-🟩
-
-Dilith Jayaweera has been announced as the highest monthly income candidate and Ranil Wickremesinghe as the lowest monthly income candidate.
-
-This information has been revealed according to information issued by the Commission to Investigate Bribery, Corruption and Assets.
-
-The second highest monthly income is said to be Attorney -at -Law Wijedasa Rajapakse and his monthly income is 13 lakhs 45 thousand rupees.
-
-This is the first opportunity to submit their assets and loans to the Election Commission when candidates contesting the presidential election. Remble
-
-◼️
-
-[Data](articles/fffe24aa.json)
-
-[Extended Data](ext_articles/fffe24aa.ext.json)
-
----
-
-### Over 3,000 persons arrested in 5 months
-
-*2024-08-23 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200261) · `si`
-
-In the past five months, over 3,400 individuals have been arrested in connection with organized crimes across the island. The arrests, part of extensive raids starting on March 19, involve suspects linked to crime planning. Investigations are ongoing.
-
-🟩
-
-Police have arrested a group of more than 3,400 people from the five months of the last five months of the past five months.
-
-The raids were carried out on March 19, covering the island on March 19.
-
-According to the police, 3,41,000 suspects and suspects have been arrested in connection with the crime planning and assistance to organizational crimes.
-
-The Colombo Crimes Division and the Western Province Societies were arrested by the Colombo Crimes Division yesterday (22).
-
-Police Headquarters say that the investigations are underway and investigations are underway.
-
-◼️
-
-[Data](articles/1fc3b4bb.json)
-
-[Extended Data](ext_articles/1fc3b4bb.ext.json)
-
----
-
-### Modi on an official visit to Ukraine
-
-*2024-08-23 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200260) · `si`
-
-Narendra Modi, India's PM, made history by becoming the first Indian leader to visit Ukraine. His trip includes discussions with Ukraine's President Vlodimir Selencesky, focusing on resolving ongoing conflict issues.
-
-🟩
-
-Indian Prime Minister Narendra Modi has arrived in Ukraine for an official visit.
-
-It became the first Indian Prime Minister who arrived in Ukraine for a visit.
-
-Indian Prime Minister Narendra Modi is scheduled to hold bilateral talks with Ukraine President Vlodimir Selencesky.
-
-The Indian Prime Minister visited Russian Ukraine to discuss war conflicts six weeks ago.
-
-◼️
-
-[Data](articles/4b1ad49e.json)
-
-[Extended Data](ext_articles/4b1ad49e.ext.json)
 
 ---

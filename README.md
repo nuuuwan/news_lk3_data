@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 20:21:32**
+As of **2024-08-24 20:36:46**
 
 ## Newspaper Stats
 
-*Scraped **42,403** Articles*
+*Scraped **42,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 4,975
 tamilmirrorlk | 5,504
 virakesarilk | 6,737
-adaderanasinhalalk | 7,251
+adaderanasinhalalk | 7,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,403 (100.0%) of 42,403 articles have been extended.
+42,403 (100.0%) of 42,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### සැකකාර වෙඩික්කරු ඇතුළු තිදෙනා රඳවාගෙන ප්‍රශ්න කරයි
+
+*2024-08-24 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200287) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් ඊයේ (23) අත්අඩංගුවට ගත් සැකකරුවන් තිදෙනා රඳවාගෙන ප්‍රශ්න කිරීමට පියවර ගෙන ඇත.
+
+ත්‍රස්ත මර්දන කොට්ඨාසය භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ප්‍රසන්න අල්විස් මහතාගේ උපදෙස් මත සැකකරුවන් තිදෙනා සඳහා ලබාගත් පැය 72ක රැඳවුම් නියෝග මත ඔවුන් රඳවාගෙන ප්‍රශ්න කිරීම් සිදුකරයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ එක් වෙඩික්කරුවෙක් සහ වෙඩික්කරුවන්ට ආධාර අනුබල දුන් දෙදෙනෙකි.
+
+මේ අතර වෙඩිවැදීමෙන් තුවාල ලැබූ "ක්ලබ් වසන්තගේ" බිරිඳ දකුණු කොළඹ ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිට මීට සතියකට පමණ පෙර රෝහලෙන් පිටව ගිය බව රෝහල් ආරංචි මාර්ග පවසයි.
+
+අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් තුළදී සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් "ක්ලබ් වසන්ත" ඇතුළු පුද්ගලයින් දෙදෙනෙක් වෙඩි තබා ඝාතනය කෙරුණේ ජූලි මස 8වනදාය.
+
+ඝාතනයට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා මෙහෙයුම් ක්‍රියාත්මක වූ අතර සිද්ධියට සම්බන්ධ සැකකරුවන් කිහිපදෙනෙකුම මීට පෙර අත්අඩංගුවට ගැණුනි.
+
+◼️
+
+[Data](articles/b8a51295.json)
+
+---
 
 ### India and Sri Lanka conclude regional military exercise ‘Mitra Shakti’
 
@@ -2217,27 +2239,5 @@ Janaki and Divya Duraisamy travel with the servants to carry a banana daily. Rah
 [Data](articles/318f292a.json)
 
 [Extended Data](ext_articles/318f292a.ext.json)
-
----
-
-### Suspected gunman in ‘Club Wasantha’ murder arrested in Dehiwala
-
-*2024-08-23 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101456/suspected-gunman-in-club-wasantha-murder-arrested-in-dehiwala) · `en`
-
-The Terrorism Investigation Division (TID) has arrested one of the suspected gunmen involved in the recent killing of two persons including businessman Surendra Wasantha Perera’ also known as’Club Wasantha’, in the Athurugiriya area.
-
-The suspect, identified as 31-year-old Patty Arambage Ajith Rohana, was apprehended by the TID in the Kawdana area of Dehiwala.
-
-During the operation, a T-56 assault rifle, 120 rounds of ammunition, and a stock of 9mm pistol bullets were also seized, according to Police.
-
-Additionally, another suspect, 29-year-old Tharukara Varuna Indika de Silva, who had aided and abetted by renting a house in Athurugiriya and transporting the shooters to Kataragama in a bus, was also arrested.
-
-The arrests were made by a team led by a Senior Superintendent of Police (SSP), under the direction of the Deputy Inspector General (DIG) of Police Rohan Premaratne, who is in charge of the TID.
-
-...
-
-[Data](articles/3a66fcfc.json)
-
-[Extended Data](ext_articles/3a66fcfc.ext.json)
 
 ---

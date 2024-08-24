@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 07:03:08**
+As of **2024-08-24 07:29:07**
 
 ## Newspaper Stats
 
-*Scraped **42,340** Articles*
+*Scraped **42,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,962
 tamilmirrorlk | 5,494
 virakesarilk | 6,737
-adaderanasinhalalk | 7,227
+adaderanasinhalalk | 7,228
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,340 (100.0%) of 42,340 articles have been extended.
+42,340 (100.0%) of 42,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### ප්‍රදේශ කිහිපයකට අද වැසි
+
+*2024-08-24 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200262) · `si`
+
+අද (24) දිනයේ බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+එමෙන්ම උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/68294fca.json)
+
+---
 
 ### Dayasiri disappointed as SLFP stalwarts Angajan and Dushmantha switch allegiance to Ranil
 
@@ -2279,27 +2297,5 @@ It has been decided to hold the Special Federation with the aim of allowing the 
 [Data](articles/f4a97b8d.json)
 
 [Extended Data](ext_articles/f4a97b8d.ext.json)
-
----
-
-### Drug distribution to invite plantation workers
-
-*2024-08-23 12:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்ட-தொழிலாளர்களை-அழைக்க-போதைப்பொருள்-விநியோகம்/175-342672) · `ta`
-
-Manjula Gajanayake, head of the Democratic Reforms and Election Studies Institute, highlighted issues with low-quality drugs distributed to plantation workers participating in election rallies. Plantation managers reported disruptions due to these substandard drugs, affecting productivity. Gajanayake called for swift action from police and relevant authorities to halt such violations.
-
-🟩
-
-The Executive Director of the Democratic Reforms and Election Studies Institute, Manjula Gajanayake, said that there have been many complaints that the plantation people have been given low quality drugs for the participation of the plantation people in the election rallies for the presidential candidates.
-
-He said that plantation managers and plantation management officials complained that the plantation workers are being supplied with non -standard drugs, causing them to disrupt their work and decrease their effectiveness.
-
-He also urged the police and the concerned authorities to take immediate action to prevent election law violations in non -standard drug distribution.
-
-◼️
-
-[Data](articles/97d160c4.json)
-
-[Extended Data](ext_articles/97d160c4.ext.json)
 
 ---

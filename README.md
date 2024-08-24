@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 16:21:32**
+As of **2024-08-24 16:37:08**
 
 ## Newspaper Stats
 
-*Scraped **42,389** Articles*
+*Scraped **42,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 2,568
 dailyftlk | 2,758
 adalk | 3,904
 dailymirrorlk | 4,733
-adaderanalk | 4,971
+adaderanalk | 4,973
 tamilmirrorlk | 5,503
 virakesarilk | 6,737
-adaderanasinhalalk | 7,242
+adaderanasinhalalk | 7,243
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,389 (100.0%) of 42,389 articles have been extended.
+42,389 (100.0%) of 42,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### Sri Lanka signs education cooperation agreement with Vietnam
+
+*2024-08-24 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101469/sri-lanka-signs-education-cooperation-agreement-with-vietnam) · `en`
+
+The Deputy Minister of Education and Training of Vietnam Prof. Nguyen Van Phuc, along with the Ambassador of Sri Lanka to Vietnam, Dr. A. Saj U. Mendis has signed the Education Cooperation Agreement between the two countries for the period of 2024 to 2026.
+
+The Agreement was initially signed in 1999 and was periodically extended as it served as a predominant framework focused on advancement of collaboration in the sphere of education and training, mostly for Sri Lankan students, researchers and academics, amongst others. The Agreement was inked at the Ministry of Education and Training in Hanoi, Vietnam, the Embassy of Sri Lanka in Vietnam said in a statement.
+
+The Agreement is all-encompassing since it facilitates exchange of information relating to the development and innovation, cooperation between universities and academic institutions between the two countries, exchanges of academics, collaborative research and scholarships for students on long-term basis.
+
+...
+
+[Data](articles/314d9032.json)
+
+---
+
+### වංචා දූෂණ අවම කරන හැටි නාමල් පෙන්වයි
+
+*2024-08-24 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200278) · `si`
+
+පිල් මාරුවීම් සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් මින් ඉදිරියට අවස්ථාවක් නොමැති බව ඒම පක්ෂයේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+
+සමාජ මාධ්‍ය ඔස්සේ ප්‍රශ්න යොමු කිරීමට අවස්ථාව ලබාදෙමින් තරුණ සංවිධාන කිහිපයක් සමග එක්වී ඊයේ (23) සංවිධාන කර තිබූ සාකච්ඡාවකට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+"සියල්ල තාක්ෂණයට සම්බන්ධ කිරීමෙන් සහ මිනිසාගේ සම්බන්ධතාවය අවම කිරීම තුළ වංචා හා දූෂණ අවම කරන්න පුළුවන්. වසර 3ක් ඇතුළත අපිට ඒක කරන්න පුළුවන්. අද ආර්ථිකයේ බොහෝ ගනුදෙනු සිදු වන්නේ බැංකු පද්ධතියෙන් එළියේ. අපේ ආණ්ඩුවකින් ඒවා බැංකු පද්ධතිය තුළට ගන්නවා."
+
+◼️
+
+[Data](articles/497bb865.json)
+
+---
 
 ### The government is about the government
 
@@ -51,6 +83,20 @@ A meeting organized by a group of Old Boys of Rahula College in Matara yesterday
 [Data](articles/c6f9ea6c.json)
 
 [Extended Data](ext_articles/c6f9ea6c.ext.json)
+
+---
+
+### D.S. Senanayake’s grandson UNP stalwart Rukman Senanayake passes away
+
+*2024-08-24 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101468/ds-senanayakes-grandson-unp-stalwart-rukman-senanayake-passes-away) · `en`
+
+The grandson of Sri Lanka’s first Prime Minister D.S. Senanayake and United National Party (UNP) stalwart, Rukman Senanayake, has passed away today (24), family sources confirmed.
+
+Rukman Senanayake had served as Cabinet Minister of Environment and Natural Resources from 2002 to 2004 and as a Member of Parliament for Kegalle District. He was a Vice Leader of the United National Party.
+
+◼️
+
+[Data](articles/776ee05e.json)
 
 ---
 
@@ -2183,77 +2229,5 @@ The Secretary General of Parliament Kushani Rohanaya has been informed by the Se
 [Data](articles/5c22e3c3.json)
 
 [Extended Data](ext_articles/5c22e3c3.ext.json)
-
----
-
-### Korea keen to invest in Sri Lanka solar energy, agriculture projects: PMO
-
-*2024-08-23 17:30:00* · [`economynextcom`](https://economynext.com/korea-keen-to-invest-in-sri-lanka-solar-energy-agriculture-projects-pmo-177938/) · `en`
-
-ECONOMYNEXT – Korean business is willing to invest in Sri Lanka’s energy and agriculture sectors, a visiting business person has said.
-
-Entrepreneur from the People’s Republic of South Korea, Tong-Jo Mun expressed “willingness to invest in energy and agriculture sectors,” when he met with Prime Minister Dinesh Gunawardena at Temple Trees in Colombo on Thursday (22) the premier’s media division said.
-
-Entrepreneurs attached to the International Interchange Development Association, of which Mun is President, would like to invest in several solar energy projects as well as for cultivation of fruits in Sri Lanka for export to Korea and other countries, Mun was quoted as saying.
-
-The Prime Minister and Mun also discussed possible investments in fisheries, health, and construction sectors, especially new technology to upgrade production in these sectors. (Colombo/Aug23/2024)
-
-◼️
-
-[Data](articles/d4360598.json)
-
-[Extended Data](ext_articles/d4360598.ext.json)
-
----
-
-### Most of the benefits of early innings to England
-
-*2024-08-23 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200248) · `si`
-
-In the first Test match against Sri Lanka, England's first innings was marked by innovative play, including a century from an undisclosed player (likely Joe Root, known for centuries) and significant contributions from Bracey (56 runs) and Root (42 runs). Asitha Fernando led Sri Lanka's bowling with four wickets, while Dhananjaya de Silva top-scored in Sri Lanka's reply with 74 runs.
-
-🟩
-
-The first innings of the first Test match between Sri Lanka and England and the England scored 358 runs.
-
-An innovated innings playing a great innings playing a century in a century a century to score 111 runs.
-
-In addition, Bruk scored 56 runs and Joe Root scored 42 runs.
-
-Asapha Fernando took 4 wickets and 3 wickets and 2 wickets each and 2 wickets each.
-
-Sri Lanka won the toss and elected to bat first in their first innings.
-
-Accordingly, the Sri Lankan team had begun his second innings with 122 run over the England team.
-
-Leader Dhananjaya De Silva scored 74 runs for the first innings on behalf of Sri Lanka's first innings.
-
-◼️
-
-[Data](articles/8b9e5c61.json)
-
-[Extended Data](ext_articles/8b9e5c61.ext.json)
-
----
-
-### Sri Lanka's teams traveling to South Africa
-
-*2024-08-23 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200247) · `si`
-
-Sri Lanka's cricket team, including reserves, announced for South Africa tour, featuring three ODIs and two T20s. Squad departs on 27th.
-
-🟩
-
-The reserves selected for South Africa tournament to visit the Sri Lanka 'A' cricket tour was announced today (23).
-
-The tour will include three ODIs and two fourth matches, including the team leader in both groups.
-
-Sri Lanka squad is due to leave for South Africa on the 27th.
-
-◼️
-
-[Data](articles/aace49cc.json)
-
-[Extended Data](ext_articles/aace49cc.ext.json)
 
 ---

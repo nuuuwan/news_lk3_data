@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 09:21:35**
+As of **2024-08-24 09:36:54**
 
 ## Newspaper Stats
 
-*Scraped **42,350** Articles*
+*Scraped **42,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ dailymirrorlk | 4,733
 adaderanalk | 4,964
 tamilmirrorlk | 5,498
 virakesarilk | 6,737
-adaderanasinhalalk | 7,231
+adaderanasinhalalk | 7,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,347 (100.0%) of 42,350 articles have been extended.
+42,350 (100.0%) of 42,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### சிறுவனை கடித்தும், அடித்தும் சித்திரவதை செய்த  சிறிய தாய்
+### ජනාධිපතිවරණ සමීක්ෂණ ගැන හෙළිදරව්වක්
+
+*2024-08-24 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200266) · `si`
+
+ජනාධිපතිවරණය සම්බන්ධයෙන් විවිධ පර්ශව විසින් සිදුකරන සමීක්ෂණ පිළිබඳව නොමග නොයන ලෙස මැතිවරණ කොමිසම ඡන්ද දායකයින්ගෙන් ඉල්ලීමක් කළේය.
+
+මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා සඳහන් කර සිටියේ සමීක්ෂණ මත පදනම්ව තමන්ගේ මතය වෙනස් කිරීමේ අවශ්‍යතාවක් නොමැති බවයි.
+
+◼️
+
+[Data](articles/6048968f.json)
+
+---
+
+### The little mother who bite and beaten the boy
 
 *2024-08-24 08:54:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-கடித்தும்-அடித்தும்-சித்திரவதை-செய்த-சிறிய-தாய்/76-342701) · `ta`
 
-லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட வளஹா தோட்டத்தில் வசிக்கும் 10 வயது சிறுவன் ஒருவன் தனது சிறிய தாயாரினால் கடந்த சில தினங்களாக கொடூர சித்திரவதைக்குட்படுத்திய சம்பவம் தொடர்பில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+Little mother beats boy, police investigate. Pregnant woman arrested. Boy hospitalized.
 
-குறித்த சிறுவன் அடிக்கப்பட்டு கடிக்கப்பட்டு பல வகையான சித்திரவதைகளை ஏற்படுத்தி உள்ளதாகவும் அதனை விசாரித்து அறிந்த பாடசாலை சமூகம் லிந்துலை பொலிஸ் இணையத்தில் முறைப்பாடு செய்துள்ளனர்.
+🟩
 
-சித்திரவதைக்கு உள்ளான சிறுவன் லிந்துலை  பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைகளுக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு நேற்றைய தினம் அனுப்பப்பட்டுள்ளார்.
+A 10 -year -old boy living in the Valaha estate belonging to the Lindulai Police Division has begun investigations into the brutal torture of his little mother for the past few days.
 
-அதே சமயம்  நேற்றைய தினம் சம்பவத்துடன் தொடர்புடைய சிறிய தாயார் பொலிஸாரினால் வரவழைக்கப்பட்டு விசாரணைகளுக்கு உட்படுத்தினர். விசாரணைகளை தொடர்ந்து குறித்த பெண் கைது செய்யப்பட்டு இன்றைய தினம் நுவரெலியா மாவட்ட நீதவால் முன்னிலையில் ஆஜர் படுத்த நடவடிக்கை எடுத்துள்ளதாக லிந்துலை பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார்.
+The school community has lodged a complaint with the Lindula police website, knowing that the boy had been beaten and bitten.
 
-...
+The torture boy was admitted to the Lindula Divisional Hospital and sent to the Nuwara Eliya District Hospital for further treatment yesterday.
+
+At the same time, the little mother in connection with the incident yesterday was summoned by the police and subjected to investigations. Following the investigation, the woman has been arrested and produced before the Nuwara Eliya District Magistrate today.
+
+The little mother of the arrested boy is not only a child's mother but also pregnant mother. Investigations have revealed that the mother of a brutal torture boy was working in Colombo and had left the boy's little mother for security.R
+
+◼️
 
 [Data](articles/16b36fc7.json)
+
+[Extended Data](ext_articles/16b36fc7.ext.json)
 
 ---
 
@@ -67,6 +89,8 @@ At least one helicopter was seen in the air, while many police and emergency veh
 ...
 
 [Data](articles/185036e0.json)
+
+[Extended Data](ext_articles/185036e0.ext.json)
 
 ---
 
@@ -90,17 +114,23 @@ Thus the general public is kindly requested to take adequate precautions to mini
 
 ---
 
-### 11 இந்திய மீனவர்கள் கைது
+### 11 Indian fishermen arrested
 
 *2024-08-24 08:31:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-இந்திய-மீனவர்கள்-கைது/175-342700) · `ta`
 
-இலங்கை கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் 11 இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Indian fishermen arrested for fishing in Sri Lanka waters.
 
-வடக்கு கடற்பரப்பில் வைத்து குறித்த மீனவர்கள் கைது செய்யப்பட்டுள்ளதாகக் கடற்படைத் தகவல்கள் தெரிவிக்கின்றன. R
+🟩
+
+Eleven Indian fishermen have been arrested on charges of fishing in the Sri Lankan waters.
+
+Navy sources say fishermen have been arrested in the northern seas. Remble
 
 ◼️
 
 [Data](articles/6f3e13d4.json)
+
+[Extended Data](ext_articles/6f3e13d4.ext.json)
 
 ---
 
@@ -2285,23 +2315,5 @@ However, the parents' parents accused the children of the school allegations tha
 [Data](articles/5905ea46.json)
 
 [Extended Data](ext_articles/5905ea46.ext.json)
-
----
-
-### Sri Lanka EC allows 712,319 postal votes, highest from Kurunegala
-
-*2024-08-23 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-allows-712319-postal-votes-highest-from-kurunegala-177893/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Elections Commission said 712,319 persons were eligible to cast postal votes in the upcoming presidential polls in September.
-
-The highest number of 76,977 or 10.8 percent were from Kurunegala.
-
-Kandy was the next highest at 55,795, followed by Gampaha at 52,486.
-
-◼️
-
-[Data](articles/bdaa0d07.json)
-
-[Extended Data](ext_articles/bdaa0d07.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 08:26:00**
+As of **2024-08-24 08:36:45**
 
 ## Newspaper Stats
 
-*Scraped **42,344** Articles*
+*Scraped **42,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,33 @@ dailyftlk | 2,758
 adalk | 3,899
 dailymirrorlk | 4,733
 adaderanalk | 4,962
-tamilmirrorlk | 5,495
+tamilmirrorlk | 5,496
 virakesarilk | 6,737
-adaderanasinhalalk | 7,230
+adaderanasinhalalk | 7,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,344 (100.0%) of 42,344 articles have been extended.
+42,344 (100.0%) of 42,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### අගෝස්තු මාසයේ ඩෙංගු රෝගීන් 2400ක්
+
+*2024-08-24 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200265) · `si`
+
+අගෝස්තු මාසයේ ගත වූ කාලසීමාව තුළ 2400කට අධික ඩෙංගු රොගීන් පිරිසක් වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය පැවසීය.
+
+ජාතික ඩෙංගු මර්දන ඒකකයේ ප්‍රජා විශේෂඥ වෛද්‍ය අනෝමා දීප්ති මහත්මිය පවසා සිටියේ, වැඩිම රෝගීන් සංඛ්‍යාවක් බස්නාහිර පළාතෙන් සහ මහනුවර දිස්ත්‍රික්කයෙන් වාර්තා වන බවයි.
+
+◼️
+
+[Data](articles/18caf298.json)
+
+---
 
 ### Sri Lanka scored 82 runs
 
@@ -239,6 +253,22 @@ Ratnayake has said that they will take steps to provide a report on all activiti
 [Data](articles/e1d47de1.json)
 
 [Extended Data](ext_articles/e1d47de1.ext.json)
+
+---
+
+### ’சஜித், அனுர மக்களுக்கு அனுதாபம் காட்டவில்லை’
+
+*2024-08-24 01:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-அனுர-மக்களுக்கு-அனுதாபம்-காட்டவில்லை/175-342697) · `ta`
+
+அன்று மக்கள் படும் துன்பங்களைக் கண்டு இரக்கமில்லாமல் தப்பியோடி, ஒளிந்த சஜித் பிரேமதாசவும் அநுர திஸாநாயக்கவும் நாட்டை முன்னோக்கி கொண்டு செல்வதற்கு தகுதியானவர்களா என்பதை இந்நாட்டு மக்கள் தீர்மானிக்க வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+மட்டக்களப்பு ஏறாவூர் அஹமட் பரீட் விளையாட்டரங்கில் நேற்று  (23) பிற்பகல் நடைபெற்ற 'இயலும் ஸ்ரீலங்கா'வெற்றிப் பேரணியில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+இது தொடர்பில் அவர் மேலும் தெரிவிக்கையில்,  2022 ஆம் ஆண்டு ஜூலை மாதம் அரசாங்கத்தைப் பொறுப்பேற்றவுடன் விவசாயிகளுக்கு உரம் வழங்குவதே தாம் செய்த முதல் காரியம் என்பதை நினைவுகூர்ந்த ஜனாதிபதி, அந்த 04 போகங்களையும் வெற்றியடையச் செய்ததன் மூலம் நாட்டில் நெல் உற்பத்தியை அதிகரித்து வயல்களையும் சமையலறைகளையும் நிரப்பியதாக குறிப்பிட்டார். (a)
+
+◼️
+
+[Data](articles/7c5f0bdf.json)
 
 ---
 
@@ -2267,53 +2297,5 @@ Two teachers have been arrested in connection with the appropriate investigation
 [Data](articles/99eea7e0.json)
 
 [Extended Data](ext_articles/99eea7e0.ext.json)
-
----
-
-### Complaint against Principal who abused school children
-
-*2024-08-23 12:48:26* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්-අපයෝජනය-කළ-විදුහල්පතිට-එරෙහිව-පැමිණිල්ලක්/11-411521) · `si`
-
-A principal in Kataragama has been accused of sexually abusing two students aged 8 and 9 since 2023. The victims reported the abuse during sports activities. The 49-year-old principal, a married man, was arrested by the Kataragama Police, who continue investigating the case.
-
-🟩
-
-Kataragama Police have lodged a complaint with a principal who was seriously sexually abusing two schoolchildren.
-
-The students studying in 8 and 9 of the school have come to sports and have been sexually abused in the room.
-
-One student has complained that the Principal has been arrested by the Principal since 2023. The Principal has been arrested by Kataragama Police since 2023.
-
-The arrested Principal is a 49-year-old married man and the Kataragama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/1ebcc275.json)
-
-[Extended Data](ext_articles/1ebcc275.ext.json)
-
----
-
-### Sheikh Hasina's Passport cancels
-
-*2024-08-23 12:27:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனாவின்-பாஸ்போர்ட்-இரத்து/50-342680) · `ta`
-
-Bangladesh's interim government plans to cancel Sheikh Hasina's passport, preventing her from leaving the country. This decision comes after she resigned and fled to India, with plans to move to the UK. The government, led by Mohammed Yunus, is also cancelling passports for all former MPs, effectively restricting their international travel.
-
-🟩
-
-The interim government of Bangladesh has stirred up that the government has announced that he will cancel the passport of former Bangladesh Prime Minister Sheikh Hasina.
-
-Sheikh Hasina left the country and sought refuge in India after resigning as Prime Minister. He is reportedly going to the UK soon.
-
-The interim government, led by Mohammed Yunus in Bangladesh, has taken action to cancel the passports of all countries of Sheikh Hasina.
-
-It has also been reported that the passport of all former MPs has been canceled. Former Prime Minister of Bangladesh in India, Sheikh Hasina, is unable to move to another country.
-
-◼️
-
-[Data](articles/6e06cbac.json)
-
-[Extended Data](ext_articles/6e06cbac.ext.json)
 
 ---

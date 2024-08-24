@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 11:36:57**
+As of **2024-08-24 11:56:39**
 
 ## Newspaper Stats
 
-*Scraped **42,359** Articles*
+*Scraped **42,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 405
 islandlk | 2,451
-economynextcom | 2,566
+economynextcom | 2,567
 dailyftlk | 2,758
 adalk | 3,901
 dailymirrorlk | 4,733
 adaderanalk | 4,966
-tamilmirrorlk | 5,500
+tamilmirrorlk | 5,501
 virakesarilk | 6,737
 adaderanasinhalalk | 7,234
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,358 (100.0%) of 42,359 articles have been extended.
+42,359 (100.0%) of 42,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### பொது மக்களுக்கு முக்கிய எச்சரிக்கை
+
+*2024-08-24 11:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-முக்கிய-எச்சரிக்கை/175-342704) · `ta`
+
+தனிநபர்கள் சிலர் தங்களை அதிகாரிகளாக அடையாளம் காட்டி சட்டவிரோதமான முறையில் வர்த்தக நிறுவனங்களில் பணம் வசூலிப்பதாக வெளியான தகவலை அடுத்து உள்நாட்டு இறைவரி திணைக்களம் பொதுமக்களுக்கு எச்சரிக்கை விடுத்துள்ளது.
+
+கொழும்பு, பாணந்துறை, நீர்கொழும்பு, வென்னப்புவ, மினுவாங்கொடை உள்ளிட்ட பிரதேசங்களில் இந்த சம்பவங்கள் பதிவாகியுள்ளதாக உள்நாட்டு இறைவரி திணைக்களம் தெரிவித்துள்ளது.
+
+உள்நாட்டு இறைவரி ஆணையாளர் நாயகத்தின் பெயரிலான வங்கிக் கணக்குகளில் வைப்புத்தொகை மூலம் மட்டுமே வரி செலுத்துதல்களை மேற்கொள்ள வேண்டும் என தெளிவுபடுத்தியுள்ளது.
+
+எந்தவொரு பணமும் அல்லது காசோலைகளும் தங்கள் அதிகாரிகளால் நேரடியாக வசூலிக்கப்படுவதில்லை என்றும் அதிகாரிகள் போல வரும் நபர்களிடம் பணத்தை ஒப்படைக்க வேண்டாம் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும், இதுபோன்ற சம்பவங்கள் நடந்தால் பொலிஸாருக்கு தகவல் தெரிவிக்குமாறும் பொதுமக்கள் அறிவுறுத்தப்பட்டுள்ளனர்.  R
+
+◼️
+
+[Data](articles/92ca047e.json)
+
+---
 
 ### ‘Mitra Shakti’ exercise has strengthened India-Sri Lanka counter-terrorism partnership: Indian Army
 
@@ -43,6 +63,8 @@ The Indian Army on Friday said that the Joint Military Exercise ‘Mitra Shakti�
 ...
 
 [Data](articles/325fd5c3.json)
+
+[Extended Data](ext_articles/325fd5c3.ext.json)
 
 ---
 
@@ -349,6 +371,28 @@ Leader Dhananjaya De Silva was limited to 11 runs and Milan Ratnayake scored onl
 [Data](articles/d72230f0.json)
 
 [Extended Data](ext_articles/d72230f0.ext.json)
+
+---
+
+### Sri Lanka delays Hilton building sale until after the elections
+
+*2024-08-24 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-delays-hilton-building-sale-until-after-the-elections-177956/) · `en`
+
+ECONOMYNEXT – Sri Lanka has halted the sale of Hotel Developers (Lanka) Ltd, a state-run. company that owns the building housing Colombo Hilton, until elections are completed, the Finance Ministry said.
+
+The Finance Ministry statement said several social and mainstream media reports relating to the sale of Hilton hotel are not correct.
+
+A claim that the Government Chief Valuer has released a valuation in July 2024, which was lower than a 124 million dollars assessed in August 2024 was false, the statement said.
+
+“Furthermore, it should be noted that the divestiture of Hotel Developers (Lanka) Ltd will not be finalized until the Presidential election is completed,” the statement said.
+
+Several investors expressed initial interest in the building but only one party made a final bid.
+
+Analysts familiar with asset sales say valuation usually come in a range and they are sometimes not made public as bidders will then submit valuations at the or close to the floor price.
+
+...
+
+[Data](articles/fd777dc3.json)
 
 ---
 
@@ -2251,57 +2295,5 @@ The mother has been transferred to the Matara Hospital for further treatment.
 [Data](articles/448e27ce.json)
 
 [Extended Data](ext_articles/448e27ce.ext.json)
-
----
-
-### One of the leading investor in Korea ready to invest in Sri Lanka
-
-*2024-08-23 15:06:10* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-ප්‍රමුඛ-ආයෝජකයෙක්-ලංකාවේ-ආයෝජනයට-සූදානම්/11-411522) · `si`
-
-A leading Korean investor is set to invest in Sri Lanka, focusing on solar energy and agriculture. The entrepreneur expressed interest in funding several solar projects and enhancing Sri Lanka's fruit cultivation, aiming to export fruits to Korea and other nations. This move aligns with Sri Lanka's strategy to diversify its energy sources and boost sectors like fisheries, health, and construction through foreign investments.
-
-🟩
-
-Sri Lanka's solar energy and agricultural projects are expected to invest in Korea.
-
-A meeting between the leading entrepreneur in the South Korean People's Republic of China, a leading entrepreneur of the South Korea was a leading entrepreneur.
-
-Jong-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo-Jo) said he was willing to invest in several solar energy projects as well as Sri Lanka's fruit cultivation as well as Sri Lanka's fruit cultivation.
-
-The willingness to invest in fruit cultivation in Sri Lanka are intending to export the fruit of Korea and other countries to export the fruit in Sri Lanka, including Korea and other countries.
-
-...
-
-[Data](articles/ee45ae9e.json)
-
-[Extended Data](ext_articles/ee45ae9e.ext.json)
-
----
-
-### 14 people killed in bus
-
-*2024-08-23 14:59:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-ஆற்றில்-கவிழ்ந்ததில்-14-பேர்-பலி/50-342688) · `ta`
-
-A tragic bus crash in Nepal resulted in 14 deaths and injured many more. The accident occurred when the bus veered off the road near the Marsyangdi River, leading to a swift rescue operation. Despite efforts, 16 passengers were saved from drowning, while another 14 were found dead. This incident follows a pattern of fatal accidents in July linked to climate change and natural disasters, with 62 fatalities reported so far.
-
-🟩
-
-In Nepal, 14 people were killed when a bus crashed into a bus on a river.
-
-40 Indians were traveling by bus from Bokara in Nepal to Katmandu. The bus driver lost control and crashed into the road near the Marsyangdi River in Tana Hoon district.
-
-Local district administration has accelerated rescue operations as passengers are submerged in water. 16 people who fell into the river with the help of local swimmers were rescued.
-
-Another 14 people were rescued as bodies. The search for others is ongoing.
-
-On the highway, a sudden landslide occurred when the bus was arriving. As a result, rocks on the bus, mud, and the bus from the road has fallen into the river.
-
-It is worth noting that 62 people have been killed in July last July due to such accidents caused by climate change and natural disaster.
-
-◼️
-
-[Data](articles/6bccc63f.json)
-
-[Extended Data](ext_articles/6bccc63f.ext.json)
 
 ---

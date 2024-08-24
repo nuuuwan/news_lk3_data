@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 17:57:25**
+As of **2024-08-24 18:15:46**
 
 ## Newspaper Stats
 
-*Scraped **42,396** Articles*
+*Scraped **42,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,59 @@ dailymirrorlk | 4,733
 adaderanalk | 4,974
 tamilmirrorlk | 5,503
 virakesarilk | 6,737
-adaderanasinhalalk | 7,246
+adaderanasinhalalk | 7,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,393 (100.0%) of 42,396 articles have been extended.
+42,396 (100.0%) of 42,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### අවදානම් ඖෂධ 156ක් ඉන්දියාව තහනම් කරයි
+### කමිඳුගෙන් ශතකයක්
+
+*2024-08-24 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200282) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන ටෙස්ට් ක්‍රිකට් තරගයේ අද (24) සිව්වන දිනය යි.
+
+මැන්චෙස්ටර්හිදී පැවැත්වෙන එම තරගයේදී කමිඳු මෙන්ඩිස් සිය 03වන ටෙස්ට් ශතකය වාර්තා කිරීමට සමත් විය.
+
+තරගයේ සිය දෙවනි ඉනිම සඳහා පන්දුවට පහර දෙමින් සිටින ශ්‍රී ලංකා කණ්ඩායම මීට සුළු වේලාවකට පෙර කඩුලු 06ක් දැවී ලබා සිටි ලකුණු සංඛ්‍යාව 290කි.
+
+තරගයේ කාසියේ වාසිය දිනා ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පළමු ඉනිම සඳහා ලකුණු 236ක් රැස්කළේය.
+
+එංගලන්ත කණ්ඩායම සිය පළමු ඉනිම සඳහා සියලුදෙනා දැවී ලකුණු 358ක් ලබා ගත්තේය.
+
+◼️
+
+[Data](articles/5f7a0927.json)
+
+---
+
+### India bans 156 risk drugs
 
 *2024-08-24 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200281) · `si`
 
-ඉන්දියාවේ භාවිත කරන ලද ඖෂධ 156ක් තහනම් කිරීමට එරට රජය තීරණය කර තිබේ.
+Sri Lanka bans 156 drugs from India due to health risks.
 
-ඒ අනුව උණ ට, සෙම්ප්‍රතිශ්‍යාව ට සහ ප්‍රතිජීවක ලෙස භාවිත කරන ලද ඖෂධ වර්ග කිහිපයක් මෙලෙස තහනමට ලක්වී ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+🟩
 
-එම ඖෂධ භාවිත කිරීම තුළින් මිනිසාට අවධානමක් ඇති විය හැකි බවට හඳුනාගැනීමෙන් අනතුරුව ඒවා තහනම් කිරීමට පියවර ගෙන ඇත.
+The Government of Sri Lanka has decided to ban 156 drugs used in India.
 
-එරට ඖෂධ තාක්ෂණික උපදේශක මණ්ඩලයේ නිර්දේශ මත පදනම්ව, මධ්‍යම රජය විසින් අදාළ ඖෂධ නිෂ්පාදනය කිරීම, විකිණීම සහ බෙදාහැරීම මෙලෙස තහනම් කර ඇති බව වාර්තා වී ඇත.
+According to Indian media reports, several types of drugs and antibiotics have been banned at the fever, the common cold and antibiotics.
+
+The use of these drugs has taken measures to prohibit humans after they can risk.
+
+The central government has been reportedly banned by the central government, depending on the recommendations of the Drug Technology Advisory Board.
 
 ◼️
 
 [Data](articles/115eef2c.json)
+
+[Extended Data](ext_articles/115eef2c.ext.json)
 
 ---
 
@@ -66,21 +92,29 @@ The banned FDCs include popular combinations such as mefenamic acid and paraceta
 
 [Data](articles/fa4477dd.json)
 
+[Extended Data](ext_articles/fa4477dd.ext.json)
+
 ---
 
-### චීනයට තවත් ආපදාවක්
+### Another disaster to China
 
 *2024-08-24 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200280) · `si`
 
-චීනයට බලපා ඇති අයහපත් කාලගුණික තත්ත්වයෙන් පුද්ගලයින් 11 දෙනෙකු ජීවිතක්ෂයට පත්වී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+China floods: 11 dead, 50k displaced, heavy rain hits northeast.
 
-ඊසාන දිග චීනයේ Liaoning පළාතට ගතවූ දින කිහිපය තුළ බලපා තිබු අධික වර්ෂාපතනයත් සමග එම ආපදා තත්ත්වය වාර්තා වී තිබුණි.
+🟩
 
-ගංවතුර අවදානම හේතුවෙන් එම ප්‍රාන්තයේ පුද්ගලයින් 50,000කට අධික පිරිසක් ආරක්ෂිත ස්ථාන කරා යොමු කිරීමට ද බලධාරීන් කටයුතු කර තිබේ.
+Foreign media reports that 11 people have been killed in bad weather conditions affected by China.
+
+The disaster was reported with heavy rainfall in the northeast China.
+
+The authorities have also taken steps to direct over 50,000 people to safe locations due to flood risk.
 
 ◼️
 
 [Data](articles/8bce159e.json)
+
+[Extended Data](ext_articles/8bce159e.ext.json)
 
 ---
 
@@ -2207,29 +2241,5 @@ A total of 21,600 foreign cigarettes have been taken into custogrity and the sto
 [Data](articles/9fb92b63.json)
 
 [Extended Data](ext_articles/9fb92b63.ext.json)
-
----
-
-### The Muslim community should consider and decide who to support Muslim political leaders in the presidential election -Faizer Mustafa
-
-*2024-08-23 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191825) · `ta`
-
-Faizer Mustafa urges the Muslim community to thoughtfully choose their support in the presidential election, cautioning against blind loyalty to Muslim leaders. He criticizes the dual stance of Muslim party leaders supporting both Ranil Wickremesinghe and Sajith Premadasa, suggesting this divides the community. Mustafa emphasizes the importance of the community making informed decisions based on national interests rather than following political leaders' endorsements blindly.
-
-🟩
-
-The Muslim community should consider and make a decision in the presidential election. Former minister Faisal Mustafa said that Muslim leaders should not support any candidate by blaming the Muslim community.
-
-He was speaking at a press conference held at his party office on Friday (23) in Colombo.
-
-Sri Lanka Freedom Party (SLFP) has decided to support President Ranil Wickremesinghe in the upcoming presidential election. I am with the party's decision. However, the leaders of the Muslim parties are with Sajith Premadasa, but their MPs are with Ranil Wickremesinghe. This is a double -standing policy of the leaders of the Muslim political parties.
-
-The leaders of the Muslim parties must have sent the other members to support Ranil Wickremesinghe.
-
-...
-
-[Data](articles/cb8d5ee2.json)
-
-[Extended Data](ext_articles/cb8d5ee2.ext.json)
 
 ---

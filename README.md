@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 12:21:17**
+As of **2024-08-24 12:36:52**
 
 ## Newspaper Stats
 
-*Scraped **42,362** Articles*
+*Scraped **42,363** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 354
+dbsjeyarajcom | 355
 newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 405
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,361 (100.0%) of 42,362 articles have been extended.
+42,362 (100.0%) of 42,363 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Export earnings from tea, which made up 12 percent of merchandise exports, incre
 ...
 
 [Data](articles/0bc3afd1.json)
+
+[Extended Data](ext_articles/0bc3afd1.ext.json)
 
 ---
 
@@ -1292,6 +1294,20 @@ The Sports Disciplinary Committee appeared to the Sports Disciplinary Committee 
 
 ---
 
+### Muslim Political Parties Get Divided with Leaders Backing Sajith and Some MPs Supporting Ranil.
+
+*2024-08-23 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84580) · `en`
+
+Nominations have closed for the long awaited 2024 presidential election. 39 candidates are in the fray.It is widely acknowledged  by the press and public that the chief presidential  contenders  are  incumbent president Ranil Wickremesinghe,leader of the opposition  Sajith Premadasa and JVP/NPP leader Anura Kumara  Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith  Jayaweera.
+
+However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier  numerical minorities  assumes crucial importance.
+
+...
+
+[Data](articles/bd766ef7.json)
+
+---
+
 ### Dinesh Chandimal was taken to the hospital
 
 *2024-08-23 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200256) · `si`
@@ -2275,29 +2291,5 @@ During the hearing of the petitions, the lawyers of the petitioning party stated
 [Data](articles/57ba4f2a.json)
 
 [Extended Data](ext_articles/57ba4f2a.ext.json)
-
----
-
-### Can't resolve on the battlefield: Prime Minister Modi notification in Ukraine
-
-*2024-08-23 15:33:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போர்க்களத்தில்-தீர்க்க-முடியாது-பிரதமர்-மோடி-உக்ரேனில்-தெரிவிப்பு/175-342691) · `ta`
-
-Prime Minister Narendra Modi visited Ukraine, invited by President Vladimir Zelensky, aiming to mediate peace talks between Russia and Ukraine. Modi emphasized diplomacy over warfare, offering India's support for resolving conflicts peacefully. His trip marks the first visit by an Indian Prime Minister to Ukraine, highlighting India's commitment to global peace efforts.
-
-🟩
-
-Prime Minister Narendra Modi has traveled to Kiev, the capital of Ukraine, who has been affected by the historic journey.
-
-Prime Minister Narendra Modi visits Ukrainian at the invitation of Ukrainian President Viladimir Jelensky. He is about to meet with Jensky in the capital, Kiev. Prime Minister Modi will hold a key talks on the end of the war between Russia and Ukraine during the meeting.
-
-Earlier (to become). 22) Speaking to reporters in Poland, Prime Minister Narendra Modi said, “The ongoing conflict in Ukraine and West Asia is a matter of concern for all of us. India's firm belief is that no problem can be solved on the battlefield.
-
-In any crisis, the loss of the life loss of innocent people has become the biggest challenge for humanity as a whole. We support negotiations and diplomatic activities to restore peace and consistency. For this, India is ready to provide all possible support with its allies. ”
-
-...
-
-[Data](articles/6afe51ac.json)
-
-[Extended Data](ext_articles/6afe51ac.ext.json)
 
 ---

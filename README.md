@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 12:09:45**
+As of **2024-08-24 12:21:17**
 
 ## Newspaper Stats
 
-*Scraped **42,361** Articles*
+*Scraped **42,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 405
 islandlk | 2,451
-economynextcom | 2,567
+economynextcom | 2,568
 dailyftlk | 2,758
 adalk | 3,901
 dailymirrorlk | 4,733
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,361 (100.0%) of 42,361 articles have been extended.
+42,361 (100.0%) of 42,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### Sri Lanka goods exports up 6.58-pct in July, services up 16.44-pct
+
+*2024-08-24 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-goods-exports-up-6-58-pct-in-july-services-up-16-44-pct-177915/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s merchandise exports rose 6.58 percent from a year ago to 1,087.6 million US dollars in July, with apparel exports up 3.8 percent, with a pick up in exports to the US, official data showed.
+
+In January to July good exports went up 4.94 percent to 7,231.94 million dollars compared to the same period in 2023, the Export Development Board said.
+
+Services exports for July 2024 were up 16.44 percent to 293.26 million, over the corresponding period of 2023.
+
+Total exports for July 2024, including both merchandise and services, were 1,380.84 million dollars, increasing 8.53 percent over the same period of 2023.
+
+Export earnings from tea, which made up 12 percent of merchandise exports, increased by 8.25 percent y-o-y to 124.7 million dollars in July 2024 compared to July 2023.
+
+...
+
+[Data](articles/0bc3afd1.json)
+
+---
 
 ### The main warning to the public
 
@@ -2279,29 +2299,5 @@ In any crisis, the loss of the life loss of innocent people has become the bigge
 [Data](articles/6afe51ac.json)
 
 [Extended Data](ext_articles/6afe51ac.ext.json)
-
----
-
-### Four arrested in three hospital
-
-*2024-08-23 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200241) · `si`
-
-In Tangalle, a bus crash involving a three-wheeler occurred on the Matara-Kataragama road, injuring preschoolers and parents from Ampara's Vadinagala area. The victims were rushed to hospitals, with one mother moved to Matara Hospital for more care. Four arrests have been made.
-
-🟩
-
-A bus and three-wheeler collided in the Tangalle Urumaya road on the Matara-Kataragama road.
-
-The bus was facing pre-school children and parents from the Vadinagala area, Ampara.
-
-The bus was admitted to the three-wheeler and was admitted to the three-wheeler.
-
-The mother has been transferred to the Matara Hospital for further treatment.
-
-◼️
-
-[Data](articles/448e27ce.json)
-
-[Extended Data](ext_articles/448e27ce.ext.json)
 
 ---

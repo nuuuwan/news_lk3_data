@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 12:36:52**
+As of **2024-08-24 12:53:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,362 (100.0%) of 42,363 articles have been extended.
+42,363 (100.0%) of 42,363 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1305,6 +1305,8 @@ However the icing on the winning candidate’s cake would be the minority vote. 
 ...
 
 [Data](articles/bd766ef7.json)
+
+[Extended Data](ext_articles/bd766ef7.ext.json)
 
 ---
 

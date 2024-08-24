@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 10:55:32**
+As of **2024-08-24 11:07:56**
 
 ## Newspaper Stats
 
-*Scraped **42,354** Articles*
+*Scraped **42,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ colombotelegraphcom | 405
 islandlk | 2,451
 economynextcom | 2,566
 dailyftlk | 2,758
-adalk | 3,899
+adalk | 3,901
 dailymirrorlk | 4,733
 adaderanalk | 4,965
-tamilmirrorlk | 5,499
+tamilmirrorlk | 5,500
 virakesarilk | 6,737
-adaderanasinhalalk | 7,233
+adaderanasinhalalk | 7,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,354 (100.0%) of 42,354 articles have been extended.
+42,354 (100.0%) of 42,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### கொக்கைன் பயன்படுத்தியதை ஒப்புக் கொண்டார் நிரோஷன் டிக்வெல்ல
+
+*2024-08-24 10:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்கைன்-பயன்படுத்தியதை-ஒப்புக்-கொண்டார்-நிரோஷன்-டிக்வெல்ல/175-342703) · `ta`
+
+இலங்கை கிரிக்கெட் அணியின் வீரர் நிரோஷன் டிக்வெல்ல கொக்கைன் போதைப் பொருள் பயன்படுத்தியதை ஒப்புக் கொண்டுள்ளார்.
+
+தாம் கொக்கைன் போதைப் பொருளை பயன்படுத்தியமையை இந்த விசாரணைகளின் போது அவர் ஒப்புக் கொண்டுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+
+இந்த நிலையில் அவருக்கு எதிராக விதிக்கப்படவுள்ள தண்டனை தொடர்பில் எதிர்வரும் காலங்களில் அறிவிக்கப்படவுள்ளது.
+
+இந்தமுறை இடம்பெற்ற லங்கா ப்ரீமியர் லீக் கிரிக்கெட் தொடரின் போது இலங்கை ஊக்கமருந்து பயன்பாட்டுக்கு எதிரான முகவரகத்தினால் மேற்கொள்ளப்பட்ட பரிசோதனையின் போது நிரோஷன் டிக்வெல்ல ஊக்க மருந்தைப் பயன்படுத்தியமை உறுதி செய்யப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/13292c36.json)
+
+---
+
+### මනුෂ්‍ය ඝාතනයකට අනුබල දුන් අයෙක් අත්අඩංගුවට
+
+*2024-08-24 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200268) · `si`
+
+හික්කඩුව පොලිස් වසමේ සංචාරක හෝටලයක් අසලදී යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් පුද්ගලයෙකු ට ටී-56 ගිනි අවියකින් වෙඩි තැබීමට උත්සාහ කිරීම සම්බන්ධයෙන් සැකකරුවෙක් අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකරු දොඩන්දූව ප්‍රදේශයේ පදිංචි අවුරුදු 32ක පුද්ගලයෙකු වන අතර, ඔහු මෙම මස 14 වනදා සිදු වූ අදාළ වෙඩිතැබීමේ අපරාධයට ආධාර අනුබල දුන්  සැකකරුවෙකු බව විමර්ශන සිදුකරන හික්කඩුව පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/f14f72fe.json)
+
+---
+
+### ශ්‍රී ලංකා - එංගලන්ත පළමු ටෙස්ට් ක්‍රිකට් තරගයේ  සිව්වන දිනය අද
+
+*2024-08-24 10:36:24* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---එංගලන්ත-පළමු-ටෙස්ට්-ක්‍රිකට්-තරගයේ--සිව්වන-දිනය-අද/9-411526) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ සිව්වන දිනය  සඳහා වන තරගය අද(24දා) පස්වරු 3.30ට ආරම්භ වීමට නියමිතව ඇත.
+
+තෙවැනි දිනය සඳහා තරගය නතර කරන විට පන්දුවට පහරදෙමින් සිටි ශ්‍රී ලංකා කණ්ඩායම සිය දෙවන ඉනිම සඳහා පන්දුවාර 60ක් අවසානයේ කඩුලු 06ක් දැවී ලකුණු 204ක් රැස් කරගෙන සිටියහ.
+
+මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 236ක් රැස් කළ අතර, ඊට පිළිතුරු ඉනිම එංගලන්ත කණ්ඩායම සිය පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 358ක් රැස් කිරීමට සමත් විය.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම මේ වන විට එංගලන්ත පළමු ඉනිමට වඩා ලකුණු 82ක් ඉදිරියෙන් පසුවන්නේය.
+
+◼️
+
+[Data](articles/5040b7a9.json)
+
+---
 
 ### The fatal journey that ignored medical advice
 
@@ -1330,6 +1380,24 @@ The first phase are not included in the first phase of the times ticket, but the
 
 ---
 
+### ජීවිතයෙන් වසර 65 ක් බුදු දහමට කැපකල ’’වොෂින්ටන් ලොකු හාමුදුරුවෝ’’
+
+*2024-08-23 19:03:59* · [`adalk`](https://www.ada.lk/breaking_news/ජීවිතයෙන්-වසර-65-ක්-බුදු-දහමට-කැපකල-’’වොෂින්ටන්-ලොකු-හාමුදුරුවෝ’’/11-411525) · `si`
+
+ජීවිතයෙන් වසර 65 ක් බුදු දහමට කැපකල මහරගම ධම්මසිරි "වොෂින්ටන් ලොකු හාමුදුරුවෝ"
+
+(වොෂින්ටන් විහාරාධිපති ,උතුරු ඇමෙරිකාවේ ප්‍රධාන සංඝනායක මහරගම ධම්මසිරි නාහිමිගේ 75 වන ජන්ම දිනය  නිමිත්තෙනි)
+
+2024 අගෝ: 25 වන දින ධම්මසිරි නාහිමිගේ ජන්ම දින සැමරුම ගිහි පැවිදි විශාල පිරිසකගේ ආශීර්වාදයෙන් ගෙටර්ස්බර්ග් භාවනා මධ්‍යස්ථානයේදී පැවැත්වේ.  ඇමෙරිකාව හා රටවල කිහිපයක නාහිමිවරු වොෂින්ටන් ඩී සී, මේරිලන්ඩ්,  වර්ජිනියා ඇතුළු ජනතාව ද එක්වීමට නියමිතය. ඇමෙරිකාවේ සෙනෙට් හා කොංග්‍රස් මණ්ඩල නියෝජිතයන්, මේරිලන්ඩ් ආණ්ඩුකාර කාර්යාලය හා ශ්‍රී ලංකා තානාපති කාර්යාලය ද  පුණ්‍යෝත්සවයට එක්වේ.
+
+මඩිහේ මහනාහිමි විසින් එකතුකල මුදලක් හා එවකට අගමැති ඩඩ්ලි සේනානායක ආණ්ඩුවේ පරිත්‍යාග තුළින් ඇමෙරිකාවේ පළමු ථේරවාදී  පංසල ලෙස වොෂින්ටන් විහාරය 1967 දී ආරම්භවී තිබේ. පංසලට අදාළ ව්‍යවස්ථාව තුළ ඇමෙරිකාවේ ශ්‍රී ලංකා තානාපති දායක සභාවේ ප්‍රධාන අනුශාසක ලෙස නිළ බලයෙන් පත්වේ.
+
+...
+
+[Data](articles/d5648904.json)
+
+---
+
 ### The parliamentary seat of Dalada Athukorawala is vacant;Parliamentary Secretary notice to the Elections Commission
 
 *2024-08-23 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191829) · `ta`
@@ -2225,103 +2293,5 @@ The politics we make is different. Wishful change, you may contribute to the cha
 [Data](articles/4486534f.json)
 
 [Extended Data](ext_articles/4486534f.ext.json)
-
----
-
-### We will use voting rights: International Hindu Faculty
-
-*2024-08-23 14:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குரிமையை-பயன்படுத்துவோம்-சர்வதேச-இந்து-மத-பீடம்/175-342686) · `ta`
-
-The International Hindu Faculty urges voters, especially Tamils affected by decades of conflict, to exercise their voting rights strategically to elect leaders committed to safeguarding their fundamental rights. Past neglect of voting has led to current challenges; thus, wise and careful participation in elections is crucial for achieving democratic goals and securing rights.
-
-🟩
-
-The International Hindu Faculty has said that the people of the opposition to the presidential election should use our voting rights as a strong ballot to obtain our rights.
-
-The fundamental right of every citizen of Sri Lanka is the right to vote. This is the right to be democratic. This democratically must win our fundamental rights. The Tamil people, in particular, have been caught in the war environment in the armed struggle for thirty years. Considering this situation, the feeling of proper use of voting rights must be prevailed.
-
-The silver mountain is that the Tamil people have faced its effect because they did not use voting rights in the past. Let people not forget that this is one of the struggles to obtain our fundamental rights through that vote, using our vote to be a democratic struggle or a democratic leader.
-
-...
-
-[Data](articles/2b83c43e.json)
-
-[Extended Data](ext_articles/2b83c43e.ext.json)
-
----
-
-### Sri Lanka chamber hosts policy czar debate ahead of Presidential polls
-
-*2024-08-23 14:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-hosts-policy-czar-debate-ahead-of-presidential-polls-177904/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Chamber of Commerce said a debate among policy experts nominated by key presidential candidates will be held on August 29, at the BMICH at 0900 am.
-
-State Minister Shehan Semasinghe will represent President Ranil Wickremesinghe, Harsha De Silva Sajith Premadasa, Harshana Suriyapperuma Anura Kumara Dissanayake, and Ranjith Bandara Namal Rajapakse.
-
-The debate will be moderated by Chairman of the Ceylon Chamber Duminda Hulangamuwa and Board Member Kasturi Chellaraja.
-
-“This debate comes at a crucial time when the nation faces unparalleled economic challenges, and the need for a stable and sustainable economy has never been more urgent,” the Ceylon Chamber said.
-
-“There is a growing call for clarity on the candidates’ economic strategies across the country, from business leaders and professionals to academics and civil society.
-
-“Voters seek to understand not only who they are casting their votes for, but also the policies and plans they are endorsing.”
-
-...
-
-[Data](articles/ec7b2636.json)
-
-[Extended Data](ext_articles/ec7b2636.ext.json)
-
----
-
-### Two teachers arrested for assaulting girl
-
-*2024-08-23 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200239) · `si`
-
-Two teachers were arrested for allegedly attempting to murder and seriously assault a 15-year-old girl at a school in Wennappuwa. The incident occurred when the girl initially attacked one teacher, leading to retaliation. She was found unconscious and later abandoned at a hospital, where she remains in critical condition. The suspects were remanded until September 2.
-
-🟩
-
-Two teachers have been arrested under the accusations of attempted murder and serious attack.
-
-The Wennappuwa police have arrested two teachers in a school in the area.
-
-The suspects were produced before the Marawila Magistrate's Court and remanded until September 2.
-
-The school was a 15 year old girl who was assaulted from the school, and she is currently receiving treatment at the ICU of the Colombo National Hospital.
-
-The girl had first attacked one teacher in the event, and then the teacher kneel in the sun and attacked a brossie.
-
-The girl was fainted and later she was later abandoned on a table and left her head.
-
-◼️
-
-[Data](articles/e9ab6c02.json)
-
-[Extended Data](ext_articles/e9ab6c02.ext.json)
-
----
-
-### Thailand confirms first Asian case of new Mpox strain
-
-*2024-08-23 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101447/thailand-confirms-first-asian-case-of-new-mpox-strain) · `en`
-
-Thailand has announced its first confirmed case of a new, potentially deadlier strain of Mpox - the first in Asia, and second outside of Africa.
-
-According to Thailand’s Department of Disease Control, the infected 66-year-old European man arrived in Bangkok from an unnamed African country on 14 August.
-
-He began displaying symptoms the next day, and immediately went to hospital. It has since been confirmed he had contracted Mpox, and in particular the strain known as Clade 1b.
-
-At least 450 people have died from Mpox in an outbreak centred in the Democratic Repulic of Congo which started last year.
-
-It has since spread to a number of nearby countries - including Burundi, Kenya, Rwanda and Uganda, all of which were previously unaffected by Mpox.
-
-Now a more worrying strain of Mpox called Clade 1b has been identified in the east of the DRC, which is being spread along the border and into neighbouring countries.
-
-...
-
-[Data](articles/35fd71f5.json)
-
-[Extended Data](ext_articles/35fd71f5.ext.json)
 
 ---

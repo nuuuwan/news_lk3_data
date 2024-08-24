@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 15:06:26**
+As of **2024-08-24 15:21:30**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,372 (100.0%) of 42,382 articles have been extended.
+42,381 (100.0%) of 42,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### ඔත්තු බැලූ 8කට තායිවානය දඬුවම් කරයි
+### Taiwan punished for eight ends
 
 *2024-08-24 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200273) · `si`
 
-තායිවාන මහාධිකරණයක් විසින් තායිවාන හමුදා නිලධාරීන් 08 දෙනෙකුට සිරදඬුවම් නියම කර තිබේ.
+Taiwanese military personnel sentenced 8-13 years for alleged Chinese espionage.
 
-අමෙරිකානු මාධ්‍ය වාර්තා පෙන්වා දෙන්නේ මූල්‍යමය වාසි ලබාගැනීම සඳහා චීනය වෙනුවෙන් ඔත්තු බැලීමේ චෝදනා මත එම සිරදඬුවම් ලබාදී ඇති බවය.
+🟩
 
-සිරදඬුවම් මාස 18 සිට අවුරුදු 13 දක්වා පරාසයක පවතින අතර, එය වසර ගණනාවකට පසු තායිවානයේ විභාගවූ චීනය වෙනුවෙන් ඔත්තු බැලීමට අදාළ විශාලතම නඩුව බවද පැවසෙයි.
+A Taiwana High Court has been sentenced to eight Taiwanese military personnel.
+
+The American media reports indicate that the imprisonment was given on allegations of spying on behalf of China to take financial gain.
+
+The prison is between 18 months to 13 years, and it is said to spy for China for many years.
 
 ◼️
 
 [Data](articles/383f4ab0.json)
+
+[Extended Data](ext_articles/383f4ab0.ext.json)
 
 ---
 
@@ -70,17 +76,23 @@ The Presidential Election is scheduled to be held on September 21.
 
 ---
 
-### ஏமாற வேண்டாம் - வாக்காளர்களிடம் வேண்டுகோள்
+### Do not cheat - request to voters
 
 *2024-08-24 14:08:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏமாற-வேண்டாம்-வாக்காளர்களிடம்-வேண்டுகோள்/175-342705) · `ta`
 
-ஜனாதிபதித் தேர்தல் தொடர்பில் பல்வேறு தரப்பினர் மேற்கொண்டுள்ள கருத்துக்கணிப்புகளை நம்பி ஏமாற வேண்டாம் என தேர்தல்கள் ஆணைக்குழு, வாக்காளர்களிடம் கோரிக்கை விடுத்துள்ளது.
+Elections Commission warns against relying on polls for presidential election decision.
 
-கருத்துக்கணிப்புகளின் அடிப்படையில் தமது கருத்தை மாற்ற வேண்டிய அவசியமில்லை என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார்.R
+🟩
+
+The Elections Commission has called on voters not to rely on polls on the presidential election.
+
+Elections Commissioner Saman Sri Ratnayake said that there is no need to change their opinion on the basis of polls.
 
 ◼️
 
 [Data](articles/7340e7ec.json)
+
+[Extended Data](ext_articles/7340e7ec.ext.json)
 
 ---
 
@@ -752,6 +764,8 @@ Sri Lanka is an island surrounded by many water bodies which has resulted in hid
 
 [Data](articles/0fcc4e0a.json)
 
+[Extended Data](ext_articles/0fcc4e0a.ext.json)
+
 ---
 
 ### Dayasiri disappointed as SLFP stalwarts Angajan and Dushmantha switch allegiance to Ranil
@@ -920,6 +934,8 @@ As with previous events, the elders will once again witness the splendour of the
 
 [Data](articles/7b087e48.json)
 
+[Extended Data](ext_articles/7b087e48.ext.json)
+
 ---
 
 ### World’s first plantations company chairman to receive ‘Climate Neutral Citizen’ certification
@@ -934,6 +950,8 @@ His efforts in this regard have been duly recognised by the certification body �
 
 [Data](articles/099a1582.json)
 
+[Extended Data](ext_articles/099a1582.ext.json)
+
 ---
 
 ### Granting of salary hikes for public servants has destabilizing impact on bourse
@@ -945,6 +963,8 @@ The stock market yesterday started off in a rather volatile manner due to certai
 ...
 
 [Data](articles/10eca89b.json)
+
+[Extended Data](ext_articles/10eca89b.ext.json)
 
 ---
 

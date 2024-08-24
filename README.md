@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 20:36:46**
+As of **2024-08-24 20:55:33**
 
 ## Newspaper Stats
 
-*Scraped **42,404** Articles*
+*Scraped **42,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 405
 islandlk | 2,459
 economynextcom | 2,568
 dailyftlk | 2,758
-adalk | 3,904
+adalk | 3,906
 dailymirrorlk | 4,733
 adaderanalk | 4,975
 tamilmirrorlk | 5,504
@@ -26,31 +26,55 @@ adaderanasinhalalk | 7,252
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,403 (100.0%) of 42,404 articles have been extended.
+42,404 (100.0%) of 42,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### සැකකාර වෙඩික්කරු ඇතුළු තිදෙනා රඳවාගෙන ප්‍රශ්න කරයි
+### දුම්රිය දෙපාර්තමේන්තුව ලාභ උපයන ආයතනයක් කිරිමට ජනාධිපතිවරණයෙන් පසු කමිටුවක්
+
+*2024-08-24 20:14:32* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-දෙපාර්තමේන්තුව-ලාභ-උපයන-ආයතනයක්-කිරිමට-ජනාධිපතිවරණයෙන්-පසු-කමිටුවක්/11-411532) · `si`
+
+පුද්ගලික බස් රථ හිමියන්ගේ සංගමය ඇතුළු ප්‍රවාහන සංගම් 10ක් මෙවර ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කිරීම වෙනුවෙන් එක් වෙයි.
+
+පුද්ගලික බස් රථ හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා ඇතුළු සංගම් ප්‍රධානින් හා නියෝජිතයන්  කොළඹ මල් පාරේ පිහිටි ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලයේ දී ඊයේ (23) ජනාධිපතිවරයා හමු වී ඉදිරි ජනාධිපතිවරණයේ දී ජනාධිපතිවරයා වෙත සිය පුර්ණ සහාය පළ කරන බව ප්‍රකාශ කළහ.
+
+නැවත ඉන්ධන පෝලිම් තමන්ට අවශ්‍ය නොවන බව මෙහිදී පෙන්වා දුන් ප්‍රවාහන සංගම් නියෝජිත පිරිස ඉන්ධන හිඟය හමුවේ තම ප්‍රවාහන කටයුතු පවත්වාගත නොහැකිව මුහුණදුන් අසීරුතා අමතක නොමැති බවද සඳහන් කළහ.
+
+රටේ කඩා වැටි තිබු ආර්ථිකය ගොඩගැනීමට වසර දෙකක් වැනි කෙටි කාලයක් තුළ ජනාධිපතිවරයා ක්‍රියාත්මක කළ වැඩපිළිවෙළ අගය කළ ප්‍රවාහන සංගම් නියෝජිතයන් රට ඉදිරියට ගෙන යමින් ජනතාවට ජිවත්විය හැකි පරිසරයක් ගොඩනඟා දිය හැකි එකම නායකයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බවද පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/fc94c4cd.json)
+
+---
+
+### The suspects are detained and interrogated
 
 *2024-08-24 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200287) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් ඊයේ (23) අත්අඩංගුවට ගත් සැකකරුවන් තිදෙනා රඳවාගෙන ප්‍රශ්න කිරීමට පියවර ගෙන ඇත.
+Suspects detained, interrogated over murder case.
 
-ත්‍රස්ත මර්දන කොට්ඨාසය භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ප්‍රසන්න අල්විස් මහතාගේ උපදෙස් මත සැකකරුවන් තිදෙනා සඳහා ලබාගත් පැය 72ක රැඳවුම් නියෝග මත ඔවුන් රඳවාගෙන ප්‍රශ්න කිරීම් සිදුකරයි.
+🟩
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ එක් වෙඩික්කරුවෙක් සහ වෙඩික්කරුවන්ට ආධාර අනුබල දුන් දෙදෙනෙකි.
+Suresrandra Wasantha Perera has detained the three suspects in detail yesterday (23).
 
-මේ අතර වෙඩිවැදීමෙන් තුවාල ලැබූ "ක්ලබ් වසන්තගේ" බිරිඳ දකුණු කොළඹ ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිට මීට සතියකට පමණ පෙර රෝහලෙන් පිටව ගිය බව රෝහල් ආරංචි මාර්ග පවසයි.
+They are detained and interrogated on the two-hour detention orders obtained for the three suspects on the instructions of Senior Superintendent of Police Prasanna Alwis.
 
-අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් තුළදී සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් "ක්ලබ් වසන්ත" ඇතුළු පුද්ගලයින් දෙදෙනෙක් වෙඩි තබා ඝාතනය කෙරුණේ ජූලි මස 8වනදාය.
+The arrested were two persons who support one shotter and shosters.
 
-ඝාතනයට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා මෙහෙයුම් ක්‍රියාත්මක වූ අතර සිද්ධියට සම්බන්ධ සැකකරුවන් කිහිපදෙනෙකුම මීට පෙර අත්අඩංගුවට ගැණුනි.
+According to hospital sources, the wife of Club Wasantha's wife was receiving treatment at the Colombo Teaching Hospital after receiving treatment at the Colombo Teaching Hospital.
+
+Sadhra Divantha Perera, Order Wasantha Perera, was shot dead in Athurugiriya and killed July 8.
+
+The operations were operated to arrest the suspects involved in the murder and several suspects were arrested earlier.
 
 ◼️
 
 [Data](articles/b8a51295.json)
+
+[Extended Data](ext_articles/b8a51295.ext.json)
 
 ---
 
@@ -429,6 +453,20 @@ Rukman Senanayake was also present as the deputy leader of the UNP.
 [Data](articles/054a299c.json)
 
 [Extended Data](ext_articles/054a299c.ext.json)
+
+---
+
+### මැතිවරණ වේදිකා තුළ පෙන්වන සමීක්ෂණ වාර්තා විශ්වාස නොකරන්න
+
+*2024-08-24 15:22:21* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-වේදිකා-තුළ-පෙන්වන-සමීක්ෂණ-වාර්තා-විශ්වාස-නොකරන්න/11-411530) · `si`
+
+විවිධ පක්ෂ විසින් මැතිවරණ වේදිකා වල ඉදිරිපත් කරනු ලබන සමීක්ෂණ වාර්තා පිළිබඳ ජනතාව විශ්වාසය නොතැබිය යුතු බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පැසීය.
+
+අපි ජනතාවගෙන් ඉල්ලනවා කිසිදු සමීක්ෂණ වාර්තාවක් ගැන විශ්වාසය තබන්න අවශ්‍ය නෑ. නියම සමීක්ෂණය තියෙන්නේ මැතිවරණය පැවැත්වෙන සැප්තැම්බර් 21 වැනිදාය.
+
+◼️
+
+[Data](articles/65df71ef.json)
 
 ---
 
@@ -2187,57 +2225,5 @@ In the meantime, a boy who is an orphaned there saves Aruldas (Tiran) Aruldas, w
 [Data](articles/1520f85c.json)
 
 [Extended Data](ext_articles/1520f85c.ext.json)
-
----
-
-### Going is not too far - Review
-
-*2024-08-23 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191814) · `ta`
-
-"Review: A poignant tale featuring Wimal as Driver Kumar, tasked with transporting a corpse from Chennai to Tirunelveli amidst personal challenges. The story explores themes of family conflict, compassion, and resilience through its characters, including Mary Rickets as Kalaiyazhaki and Karunas as street artist Nalina Murthy. Despite its emotional depth and engaging screenplay, the narrative falters in its second half, lacking closure for Nalina Murthy's character and failing to fully capitalize on its initial plot twists."
-
-🟩
-
-Actors: Wimal, Karunas, Mary Rickets, 'Aadulam' Narain, Pawan, Manoj Kumar, Deepa Shankar, Charles Vinod and many others.
-
-Driver Kumar (Wimal), who operates the carriage of the corpse, has been loaded from the hospital and handed over to the house of the deceased, Kumar (Wimal) - has allowed his wife Kalaiyazhaki (Mary Rickets) to the private hospital for delivery.
-
-The hospital administration is forced to pay thirty thousand fees in Indian value for delivery there.. For this, Kumar takes the corpse from Chennai to Tirunelveli in his vehicle. 'Your vehicle will make a barrier on the journey.
-
-Why do you use it? 'Asked by a hospital employee, Kumar promises to 'hand over it properly' and leaves the corpse and leaves to Tirunelveli from Chennai.
-
-The two heirs of the two are the official wife and an unofficial wife of the deceased.. Thus the two sides are gathering their support for their relatives.
-
-...
-
-[Data](articles/c692ecf6.json)
-
-[Extended Data](ext_articles/c692ecf6.ext.json)
-
----
-
-### Banana - Review
-
-*2024-08-23 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191816) · `ta`
-
-"Banana," directed by Mari Selvaraj, features a heartwarming tale set in a rural backdrop, focusing on the lives of villagers like Janaki and her children, Rahul and Vembu. Despite facing hardships, the family's resilience shines through, especially Rahul's determination to pursue his passion for dance under the guidance of his teacher, Nikila Wimal. The film, while making some commercial concessions, effectively portrays the struggles and joys of rural life, with standout performances by the cast and impactful music.
-
-🟩
-
-Product: Navi Studios & Farmers Master Plan Production & Disney Plus Hotstar
-
-Actors: Bon Vale, Rahul, Kalaiyarasan, Nikila Wimal, Divya Duraisamy, Janaki and many others.
-
-Director Mari Selvaraj, who has attracted a unique attention to the fans by directing 'Periyarum Perumal', 'Karna' and 'Mamannan'.. Director Ba in Tamil film industry. He has announced that he is ready to embrace the real events in his own life - the film 'Banana', directed by Mari Selvaraj, the commander of the creative world of Ranjith.. In this case, did the film impress all the fans?Or not?We will continue to see.
-
-Janaki works in a small village near Srivaikundam area in Thoothukudi district. He lost her husband and two heirs, Vembu (Divya Duraisamy) Sivanandan (Pon Vale).
-
-Janaki and Divya Duraisamy travel with the servants to carry a banana daily. Rahul does not want to carry a banana tar. However, due to the family environment and the love of the mother, he carrys a banana bar during the holidays.
-
-...
-
-[Data](articles/318f292a.json)
-
-[Extended Data](ext_articles/318f292a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 22:37:47**
+As of **2024-08-24 22:55:05**
 
 ## Newspaper Stats
 
-*Scraped **42,412** Articles*
+*Scraped **42,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,568
 dailyftlk | 2,758
 adalk | 3,906
 dailymirrorlk | 4,733
-adaderanalk | 4,976
+adaderanalk | 4,977
 tamilmirrorlk | 5,507
 virakesarilk | 6,737
 adaderanasinhalalk | 7,254
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,412 (100.0%) of 42,412 articles have been extended.
+42,412 (100.0%) of 42,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### INS Mumbai to dock in Colombo for three-day visit, strengthening Indo-Lanka naval ties
+
+*2024-08-24 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101473/ins-mumbai-to-dock-in-colombo-for-three-day-visit-strengthening-indo-lanka-naval-ties) · `en`
+
+Indian Navy’s frontline warship INS Mumbai will arrive in Colombo on 26 August 2024 on a three-day visit, the Indian High Commission in Colombo said in a statement.
+
+The ship is set to be received in a ceremonial manner by the Sri Lanka Navy.
+
+INS Mumbai is the third of the Delhi class destroyers, indigenously built and commissioned into the Indian Navy on 22 January 2001. The Ship was built at Mazagon Dock Limited in her namesake city Mumbai, according to the Indian High Commission.
+
+The ship completed its mid-life upgrade and joined Eastern Naval Command in Visakhapatnam on 08 December 2023. This is INS Mumbai’s first visit to any port in Sri Lanka and will be the eighth port call by Indian Ships this year. INS Kabra, Karanj, Kamorta and Shalki visited this year in addition to Indian Coast Guard ships Samarth, Abhinav and Sachet, it added.
+
+...
+
+[Data](articles/81db60d3.json)
+
+---
 
 ### 40 The driver of his life after saving life
 
@@ -2239,19 +2257,5 @@ Already, if such fraudsters have been caught, the Department has also been repor
 [Data](articles/355e2820.json)
 
 [Extended Data](ext_articles/355e2820.ext.json)
-
----
-
-### WHO Totalitarianism – The Ideology Of Lies
-
-*2024-08-23 21:27:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/who-totalitarianism-the-ideology-of-lies/) · `en`
-
-The killer virus narrative has been tried for many decades. With AIDS, Mad cow, Swine Flu, Bird Flu, Ebola, Zika, Monkey Pox, Corona and now with Mpox. But it was only by 2019, with Covid that all the actors and collaborators, like building blocks, were in the right places and the integrity of every public institution and media station had been forsaken.
-
-...
-
-[Data](articles/00e23526.json)
-
-[Extended Data](ext_articles/00e23526.ext.json)
 
 ---

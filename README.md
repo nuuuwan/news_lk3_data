@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 07:29:07**
+As of **2024-08-24 07:51:01**
 
 ## Newspaper Stats
 
-*Scraped **42,341** Articles*
+*Scraped **42,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,71 @@ dailyftlk | 2,758
 adalk | 3,899
 dailymirrorlk | 4,733
 adaderanalk | 4,962
-tamilmirrorlk | 5,494
+tamilmirrorlk | 5,495
 virakesarilk | 6,737
-adaderanasinhalalk | 7,228
+adaderanasinhalalk | 7,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,340 (100.0%) of 42,341 articles have been extended.
+42,341 (100.0%) of 42,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### ප්‍රදේශ කිහිපයකට අද වැසි
+### ජර්මනියේ පිහි ඇනුමක්
+
+*2024-08-24 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200263) · `si`
+
+ජර්මනියේ සොලින්ජන් නම් නගරයේ උත්සවයක් අතරතුර සිදුකළ පිහි ඇනුමකින් තිදෙනෙක් මියගොස් ඇති බව වාර්තා වෙයි.
+
+ජාත්‍යන්තර මාධ්‍ය පවසන්නේ පිහි ඇනුම සිදුකළ පුද්ගලයා ප්‍රදේශයෙන් පළාගොස් ඇති බවයි.
+
+එම නගරය ස්ථාපනය කර වසර 630ක් පිරීම නිමිත්තෙන් පැවති උත්සවය අතරතුර එම ප්‍රහාරය එල්ලකර තිබුණි.
+
+◼️
+
+[Data](articles/cc2631a4.json)
+
+---
+
+### 212 மில்லியன் ரூபாய் பெறுமதியான போதைப்பொருள் பறிமுதல்
+
+*2024-08-24 07:04:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/212-மில்லியன்-ரூபாய்-பெறுமதியான-போதைப்பொருள்-பறிமுதல்/175-342699) · `ta`
+
+இத்தாலியிலிருந்து நாட்டுக்கு அனுப்பப்பட்ட 212 மில்லியன் ரூபாய் பெறுமதியான அஸிஸ் ரக போதைப்பொருள் சுங்கத் திணைக்களத்தினரால் பறிமுதல் செய்யப்பட்டுள்ளது.
+
+கொழும்பிலுள்ள பொதி சேவைகள் நிறுவனமொன்றுக்கு அனுப்பப்பட்டிருந்த பொதி ஒன்றிலிருந்தே குறித்த போதைப்பொருள் மீட்கப்பட்டுள்ளதாக சுங்கத் திணைக்களத்தின் பேச்சாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/11aabd11.json)
+
+---
+
+### Showers in several areas
 
 *2024-08-24 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200262) · `si`
 
-අද (24) දිනයේ බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Weather alert: Showers/thunderstorms forecasted for Western, Sabaragamuwa, Southern, North-Wayamba districts today. East, Uva provinces also expected showers. Hambantota, North-central, Northwestern provinces may experience strong winds and lightning. Public advised to take precautions.
 
-නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+🟩
 
-එමෙන්ම උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology says that there will occur several times in the Western, Sabaragamuwa, Southern and North-Wayamba districts today (24).
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Showers or thundershowers will occur at several places in the East and Uva provinces.
+
+Also, in the Hambantota, North-central and Northwestern provinces, from time to time in Hambantota district.. The Met Department forecasts that there are about courageous winds.
+
+The public requests the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/68294fca.json)
+
+[Extended Data](ext_articles/68294fca.ext.json)
 
 ---
 
@@ -2251,51 +2287,5 @@ The presidency was introduced in 1978 for accelerated and sustained economic gro
 [Data](articles/4cbf0677.json)
 
 [Extended Data](ext_articles/4cbf0677.ext.json)
-
----
-
-### Stumble
-
-*2024-08-23 12:17:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவின்-முடிச்சால்-தடுமாற்றம்/175-342675) · `ta`
-
-Mrs. Dalada Athukorala announced her resignation from Parliament but hasn't officially notified the Speaker. This delay prevents the Election Commission from declaring the MP vacancy, affecting the appointment process. The next potential MP, Karunaratne Paranavidhana, was identified by the United People's Power party in the last general election.
-
-🟩
-
-Although the Ratnapura district parliamentarian Mrs. Dalada Athukorala has announced in Parliament that he will resign from the post of Parliament, the official letter regarding it has not yet been sent to the Speaker.
-
-The appointment of a MP from his MP for a vacuum has become a problem, says the general secretary of parliament.
-
-In this case, the Election Commission has not been able to announce the vacancy of the vacant MP.
-
-It is noteworthy that Karunaratne Paranavidhana is the next MP Dalada Athukoralavam, according to the United People's Power of the United People's Power in the last general election.
-
-◼️
-
-[Data](articles/ddd361c4.json)
-
-[Extended Data](ext_articles/ddd361c4.ext.json)
-
----
-
-### UNP Special Federation headed by Ranil Wickremesinghe
-
-*2024-08-23 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191761) · `ta`
-
-The UNP Special Federation, led by Ranil Wickremesinghe, will convene on Sunday at Sirikotha, aiming to allow the United National Party to skip the upcoming presidential election, with Wickremesinghe running independently.
-
-🟩
-
-The UNP Special Federation will be held on Sunday (25) under the leadership of Ranil Wickremesinghe, President and President of the United National Party.
-
-Thousands of party members and supporters will be attending the conference, which is organized at 2 pm at the party headquarters, Sirikotha.
-
-It has been decided to hold the Special Federation with the aim of allowing the United National Party (UNP) not contesting the upcoming presidential election and the party leader Ranil Wickremesinghe will contest as an independent candidate.
-
-◼️
-
-[Data](articles/f4a97b8d.json)
-
-[Extended Data](ext_articles/f4a97b8d.ext.json)
 
 ---

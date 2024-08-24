@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 14:36:53**
+As of **2024-08-24 14:55:49**
 
 ## Newspaper Stats
 
-*Scraped **42,372** Articles*
+*Scraped **42,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 4,970
 tamilmirrorlk | 5,501
 virakesarilk | 6,737
-adaderanasinhalalk | 7,237
+adaderanasinhalalk | 7,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,371 (100.0%) of 42,372 articles have been extended.
+42,372 (100.0%) of 42,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### ඔත්තු බැලූ 8කට තායිවානය දඬුවම් කරයි
+
+*2024-08-24 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200273) · `si`
+
+තායිවාන මහාධිකරණයක් විසින් තායිවාන හමුදා නිලධාරීන් 08 දෙනෙකුට සිරදඬුවම් නියම කර තිබේ.
+
+අමෙරිකානු මාධ්‍ය වාර්තා පෙන්වා දෙන්නේ මූල්‍යමය වාසි ලබාගැනීම සඳහා චීනය වෙනුවෙන් ඔත්තු බැලීමේ චෝදනා මත එම සිරදඬුවම් ලබාදී ඇති බවය.
+
+සිරදඬුවම් මාස 18 සිට අවුරුදු 13 දක්වා පරාසයක පවතින අතර, එය වසර ගණනාවකට පසු තායිවානයේ විභාගවූ චීනය වෙනුවෙන් ඔත්තු බැලීමට අදාළ විශාලතම නඩුව බවද පැවසෙයි.
+
+◼️
+
+[Data](articles/383f4ab0.json)
+
+---
 
 ### Election-related complaints nears 1,000
 
@@ -49,6 +65,8 @@ The Presidential Election is scheduled to be held on September 21.
 ◼️
 
 [Data](articles/3804166b.json)
+
+[Extended Data](ext_articles/3804166b.ext.json)
 
 ---
 
@@ -2285,31 +2303,5 @@ In addition, the bus driver has been arrested in a bus traveling from Ampara and
 [Data](articles/658bf37d.json)
 
 [Extended Data](ext_articles/658bf37d.ext.json)
-
----
-
-### The new song release of 'Alan' will be released
-
-*2024-08-23 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191804) · `ta`
-
-"Alan," a rising star in the Tamil film industry, releases his third song titled "Why." Directed by RC Siva and featuring a cast including Mathura, Anu Siddara, and Karunakaran, the song is composed by Manoj Krishna and sung by Karthik Netha and Shan Roldan. Known for its emotional lyrics and Shawn Roldan's captivating voice, it marks another milestone in Alan's career.
-
-🟩
-
-One of the most confident stars growing in the Tamil film industry, the third song and the lyrical video for the song, 'why' Alan, 'Alan', which plays the lead role as the hero of the actor's success, has been released.
-
-Directed by director RC Siva, 'Alan', Mathura, Anu Siddara, Karunakaran, Vivek Prasanna, 'Aruvi' Madan Kumar and many others.
-
-Manoj Krishna has composed the film, which has been recorded by Vindan Stalin. The film was on behalf of 3S Pictures Company. Siva has produced.
-
-Two songs and a video of the song were released. In this case, the third song, which starts with the film 'Why Mindai ..', has been released.
-
-The song is sung by songwriter Karthik Netha, background singer and composer Shan Roldan.Shawn Rolden's enchanting voice has been very popular with fans as the song has been released with the emotional lyrics of love.
-
-◼️
-
-[Data](articles/47e7e72c.json)
-
-[Extended Data](ext_articles/47e7e72c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 12:53:59**
+As of **2024-08-24 13:06:39**
 
 ## Newspaper Stats
 
-*Scraped **42,363** Articles*
+*Scraped **42,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 405
 islandlk | 2,451
 economynextcom | 2,568
 dailyftlk | 2,758
-adalk | 3,901
+adalk | 3,902
 dailymirrorlk | 4,733
-adaderanalk | 4,966
+adaderanalk | 4,969
 tamilmirrorlk | 5,501
 virakesarilk | 6,737
 adaderanasinhalalk | 7,234
@@ -26,11 +26,67 @@ adaderanasinhalalk | 7,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,363 (100.0%) of 42,363 articles have been extended.
+42,363 (100.0%) of 42,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### Fourteen dead after Indian bus falls into river in Nepal
+
+*2024-08-24 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101465/fourteen-dead-after-indian-bus-falls-into-river-in-nepal) · `en`
+
+At least 14 people have died after a bus carrying passengers from India fell into a river in Nepal, officials have said.
+
+There were around 40 people on the bus, which was travelling to Nepal’s capital Kathmandu from Pokhara, according to reports.
+
+Rescue operations are underway at the accident site on the bank of the Marsyangdi river in Tanahun district.
+
+The cause of the accident and the identities of the victims have not been confirmed yet.
+
+“The bus bearing number plate UP FT 7623 plunged into the river and is lying on the bank of the river,” news agency ANI quoted Deepkumar Raya, a senior police official from Tanahun, as saying. The vehicle is registered in the northern Indian state of Uttar Pradesh.
+
+Deputy Chief Minister Devendra Fadnavis of the western state of Maharashtra said that some of the victims were from the state.
+
+...
+
+[Data](articles/29f1f49a.json)
+
+---
+
+### 11 Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-08-24 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101464/11-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+Sri Lanka Navy has apprehended 11 Indian fishermen together with an Indian trawler for illegally poaching in Sri Lankan waters off Point Pedro, Jaffna.
+
+The apprehension has been carried out during a regular patrol conducted by the navy in the northern waters on Friday (23).
+
+The seized trawler together with 11 Indian fishermen have been brought to the Kankesanthurai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, according to Sri Lanka Navy.
+
+With this recent apprehension, the Navy has seized a total of 45 Indian trawlers and 333 Indian fishermen poaching in Sri Lankan waters in 2024, and subsequently handed them over to authorities for legal proceedings, the navy added.
+
+◼️
+
+[Data](articles/99fa0f9d.json)
+
+---
+
+### Over 2,400 Dengue cases reported so far in August 2024
+
+*2024-08-24 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101463/over-2400-dengue-cases-reported-so-far-in-august-2024) · `en`
+
+Over 2,400 cases of dengue infections have been recorded so far in the month of August, the National Dengue Control Unit (NDCU) reported.
+
+Community Specialist Doctor of NDCU Anoma Deepthi said that the highest number of cases were recorded in the Western Province and the Kandy District.
+
+Meanwhile, a total of 17 dengue-related deaths have been reported so far in 2024, according to the NDCU.
+
+◼️
+
+[Data](articles/463f0480.json)
+
+---
 
 ### Sri Lanka goods exports up 6.58-pct in July, services up 16.44-pct
 
@@ -117,6 +173,20 @@ It is noteworthy that Niroshan Dickwella was used to use the drug during the Sri
 [Data](articles/13292c36.json)
 
 [Extended Data](ext_articles/13292c36.ext.json)
+
+---
+
+### පාර්ලිමේන්තුවේ මන්ත්‍රී ධුරයක පුරප්පාඩුවක් - මහලේකම්වරිය මැතිවරණ කොමිසම දැනුවත් කරයි
+
+*2024-08-24 10:50:21* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-මන්ත්‍රී-ධුරයක-පුරප්පාඩුවක්---මහලේකම්වරිය-මැතිවරණ-කොමිසම-දැනුවත්-කරයි/11-411527) · `si`
+
+රත්නපුර මැතිවරණ කොට්ඨාශයේ පාර්ලිමේන්තු මන්ත්‍රී  තලතා අතුකෝරල මහත්මිය 2024 අගෝස්තු  මස 21 වැනි දින සිට බල පැවැත්වෙන පරිදි පාර්ලිමේන්තු අසුනෙන් ඉල්ලා අස්වීම හේතුවෙන් නව වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක පුරප්පාඩුවක් ඇති වී තිබෙන බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණදීර මහත්මිය  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා තිබේ.
+
+1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම් දීම සිදුකර ඇත
+
+◼️
+
+[Data](articles/3d8c4a5a.json)
 
 ---
 
@@ -1294,7 +1364,7 @@ The Sports Disciplinary Committee appeared to the Sports Disciplinary Committee 
 
 ---
 
-### Muslim Political Parties Get Divided with Leaders Backing Sajith and Some MPs Supporting Ranil.
+### 2024 Presidential Election Divides Muslim  Political Parties  with Leaders Backing Sajith and Some MPs Supporting Ranil.
 
 *2024-08-23 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84580) · `en`
 
@@ -2197,101 +2267,5 @@ It is worth noting that the national list of former MP Harin Fernando is vacant.
 [Data](articles/fd6fde5b.json)
 
 [Extended Data](ext_articles/fd6fde5b.ext.json)
-
----
-
-### Sri Lanka stocks close down, selling pressure seen
-
-*2024-08-23 16:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-selling-pressure-seen-177919/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
-
-The broader All Share Index closed down 0.84 percent, or 96.39 points, at 11,361; while the more liquid S&P SL20 Index closed down 1.05 percent, or 34.44 points, at 3,254.
-
-“This was mainly because of selling,” Softlogic Stockbrokers said. “Funds and individuals are taking cash off until some clarity is seen in the upcoming elections.”
-
-There were six crossings recorded; Access Engineering Plc (down at 21.50), Malwatte Valley Plantation Plc (flat at 63.00), Kelani Tyres Plc (up at 79.90), Ambeon Holdings Plc (down at 37.90), National Development Bank Plc (down at 69.00), and Hayleys Plc (down at 94.00).
-
-Top gainers were Alpha Fire Services Plc (up at 7.20), Colombo City Holdings Plc (up at 49.00), Sarvodaya Development Finance Plc (up at 13.20), and PMF Finance Plc (up at 4.90 rupees).
-
-There was net foreign inflow of 41 million was recorded. (Colombo/Aug23/2024)
-
-◼️
-
-[Data](articles/ed31ab2a.json)
-
-[Extended Data](ext_articles/ed31ab2a.ext.json)
-
----
-
-### Sri Lanka - New Zealand's first Test match on holiday
-
-*2024-08-23 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200242) · `si`
-
-New Zealand will tour Sri Lanka in September for two Test matches, part of the ICC World Test Championships 2023-2025. The first Test, from September 18 to 21, includes a rest day on the 21st, coinciding with Sri Lanka's presidential election. Both matches will take place at the Galle International Cricket Stadium.
-
-🟩
-
-New Zealand team will come to Sri Lanka in September for a tour of two Tests.
-
-The first Test match will be held from September 18 to 21st and the second Test will be held from September 26 to 30.
-
-The specialty of the tournament is announced a rest day for the first Test.
-
-The date on September 21, the date of presidential election has been named as a rest day for the first Test.
-
-The two matches will be held in connection with the ICC World Test Championships 2023 - 2025.
-
-According to reports, Sri Lanka participated in a Test cricket match with a rest day.
-
-Both Tests will be held at Galle International Cricket Stadium.
-
-◼️
-
-[Data](articles/4cd5fe3b.json)
-
-[Extended Data](ext_articles/4cd5fe3b.ext.json)
-
----
-
-### United Petroleum launches operations in Sri Lanka
-
-*2024-08-23 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101449/united-petroleum-launches-operations-in-sri-lanka) · `en`
-
-Australia’s United Petroleum, the latest foreign firm to enter the fuel retail market, was officially launched in Sri Lanka on Thursday (22).
-
-Minister of Power and Energy Kanchana Wijesekara said that accordingly, they will commence retail fuel operations in September 2024 with 150 dealer-owned and operated fuel stations.
-
-Accordingly, United Petroleum of Australia has become the fourth retail operator to enter the Sri Lankan fuel market after Lanka IOC, Sinopec and RM Parks-Shell.
-
-On 22 February, United Petroleum of Australia signed an agreement with Sri Lanka’s Ministry of Power and Energy to supply petroleum products into the local market.
-
-The agreement was signed by Secretary to the Ministry of Power and Energy Dr. Sulakshana Jayawardena on behalf of the Government of Sri Lanka, and Eddie Hirsch, on behalf of United Petroleum Australia, in his capacity as the owner of the company
-
-...
-
-[Data](articles/93e489b0.json)
-
-[Extended Data](ext_articles/93e489b0.ext.json)
-
----
-
-### Online Safety Act: SC concludes hearing petitions against amendment bill
-
-*2024-08-23 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101448/online-safety-act-sc-concludes-hearing-petitions-against-amendment-bill) · `en`
-
-The Supreme Court has concluded the hearing of petitions filed challenging the constitutionality of the amended draft bill related to the “Online Safety Act” which was tabled in the Parliament by the government.
-
-Accordingly, the Supreme Court announced that the confidential verdict of the court pertaining to the petitions will be communicated to the Speaker of the Parliament.
-
-The relevant petitions filed by a group including the former Commissioner of the Human Rights Commission of Sri Lanka (HRCSL) Ambika Satkunanathan, were taken up before a three-member Supreme Court bench comprising Justices A.H.M.D. Nawaz, Shiran Gunaratne and Achala Wengappuli today (23).
-
-During the hearing of the petitions, the lawyers of the petitioning party stated before the court that the amended draft bill does not clearly define the ‘prohibited statements’ and that related penalties have not been determined.
-
-...
-
-[Data](articles/57ba4f2a.json)
-
-[Extended Data](ext_articles/57ba4f2a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 14:55:49**
+As of **2024-08-24 15:06:26**
 
 ## Newspaper Stats
 
-*Scraped **42,373** Articles*
+*Scraped **42,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ dbsjeyarajcom | 355
 newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 405
-islandlk | 2,451
+islandlk | 2,459
 economynextcom | 2,568
 dailyftlk | 2,758
 adalk | 3,903
 dailymirrorlk | 4,733
 adaderanalk | 4,970
-tamilmirrorlk | 5,501
+tamilmirrorlk | 5,502
 virakesarilk | 6,737
 adaderanasinhalalk | 7,238
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,372 (100.0%) of 42,373 articles have been extended.
+42,372 (100.0%) of 42,382 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,20 @@ The Presidential Election is scheduled to be held on September 21.
 [Data](articles/3804166b.json)
 
 [Extended Data](ext_articles/3804166b.ext.json)
+
+---
+
+### ஏமாற வேண்டாம் - வாக்காளர்களிடம் வேண்டுகோள்
+
+*2024-08-24 14:08:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏமாற-வேண்டாம்-வாக்காளர்களிடம்-வேண்டுகோள்/175-342705) · `ta`
+
+ஜனாதிபதித் தேர்தல் தொடர்பில் பல்வேறு தரப்பினர் மேற்கொண்டுள்ள கருத்துக்கணிப்புகளை நம்பி ஏமாற வேண்டாம் என தேர்தல்கள் ஆணைக்குழு, வாக்காளர்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+கருத்துக்கணிப்புகளின் அடிப்படையில் தமது கருத்தை மாற்ற வேண்டிய அவசியமில்லை என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார்.R
+
+◼️
+
+[Data](articles/7340e7ec.json)
 
 ---
 
@@ -726,6 +740,20 @@ The public requests the public to take necessary steps to reduce temporary stron
 
 ---
 
+### AIA Insurance promotes national water safety awareness in Sri Lanka, aligned with AIA One Billion initiative
+
+*2024-08-24 02:42:00* · [`islandlk`](http://island.lk/aia-insurance-promotes-national-water-safety-awareness-in-sri-lanka-aligned-with-aia-one-billion-initiative/) · `en`
+
+AIA Insurance is proud to announce the launch of the AIA Water Safety Pledge, an initiative that aligns with the AIA One Billion mission, aimed at helping one billion people live healthier, longer, and better lives by 2030.
+
+Sri Lanka is an island surrounded by many water bodies which has resulted in hidden dangers. On average, 755 people drown each year and drowning is one of the top three causes of accidental deaths in Sri Lanka. And even more worryingly it is the leading cause of accidental deaths amongst children. That is why AIA introduced the Water Safety Pledge which aims to educate people on the importance of water safety and encourages them to take the pledge, emphasizing the value of their lives and the impact on their loved ones. They urge individuals to be mindful of their safety in and around water, because they could be someone’s father, son or breadwinner.
+
+...
+
+[Data](articles/0fcc4e0a.json)
+
+---
+
 ### Dayasiri disappointed as SLFP stalwarts Angajan and Dushmantha switch allegiance to Ranil
 
 *2024-08-24 01:51:38* · [`dailyftlk`](https://www.ft.lk/news/Dayasiri-disappointed-as-SLFP-stalwarts-Angajan-and-Dushmantha-switch-allegiance-to-Ranil/56-765950) · `en`
@@ -875,6 +903,48 @@ The Department of Meteorology said in a statement that it would occur from time 
 [Data](articles/2e333e76.json)
 
 [Extended Data](ext_articles/2e333e76.ext.json)
+
+---
+
+### Serendib Flour Mills’ ‘Uththama Dalada’ project continues nourishing hearts of elders
+
+*2024-08-24 01:27:00* · [`islandlk`](http://island.lk/serendib-flour-mills-uththama-dalada-project-continues-nourishing-hearts-of-elders/) · `en`
+
+Serendib Flour Mills, staying true to its commitment of ‘Nourishing the Nation’, is proud to announce the continuation of the ‘Uththama Dalada’ project for the third consecutive year, bringing joy to the elderly.
+
+This year, the initiative will host over 100 elders from four selected homes: two in Kegalle and two in Katugasthota (Kandy). These special guests will embark on an unforgettable journey to visit the Dalada Maligawa, where they will have the opportunity to pay homage and seek blessings.
+
+As with previous events, the elders will once again witness the splendour of the Esala Perahera from a purpose-built enclosure. They will enjoy comfortable front-row seating arrangements, complete with food and refreshments, enhancing their experience of this magnificent cultural spectacle. Serendib Mills will also provide transportation for the elders with a doctor and a medical team on standby to ensure their safety and well-being.
+
+...
+
+[Data](articles/7b087e48.json)
+
+---
+
+### World’s first plantations company chairman to receive ‘Climate Neutral Citizen’ certification
+
+*2024-08-24 01:26:00* · [`islandlk`](http://island.lk/worlds-first-plantations-company-chairman-to-receive-climate-neutral-citizen-certification/) · `en`
+
+The universally acclaimed ‘Control Union,’ with its branch overlooking activities in Sri Lanka and Myanmar has bestowed the rare honour of the ‘Climate Neutral Citizen’ certification on Dr. Pradeep Uluwaduge, Chairman of Browns Plantations, coming under the purview of the LOLC group of companies. His contributions to environmental preservation, ecological sustainability and catalysing activity to minimise the adverse effects on the Ozone layer, have stimulated enthusiasm with successful implementation of such programmes with tangible benefits being harnessed.
+
+His efforts in this regard have been duly recognised by the certification body – ‘Control Union Inspection’ in selecting him as the first Chairman of plantation companies to receive the individual ‘Climate Neutral Citizen’ award and certificate.
+
+...
+
+[Data](articles/099a1582.json)
+
+---
+
+### Granting of salary hikes for public servants has destabilizing impact on bourse
+
+*2024-08-24 01:22:00* · [`islandlk`](http://island.lk/granting-of-salary-hikes-for-public-servants-has-destabilizing-impact-on-bourse/) · `en`
+
+The stock market yesterday started off in a rather volatile manner due to certain government decisions, such as the granting of salary increases for government servants, thus, creating some worries for investors.Amid those developments both indices moved downwards. The All Share Price Index went down by 101.97 points, while S and P SL20 declined by 36.61 points.
+
+...
+
+[Data](articles/10eca89b.json)
 
 ---
 
@@ -2179,129 +2249,5 @@ Social contract between politicians and voters after the intensification of fina
 [Data](articles/372fd0f4.json)
 
 [Extended Data](ext_articles/372fd0f4.ext.json)
-
----
-
-### India’s Modi meets Zelensky on historic Ukraine visit, pushes for end to war
-
-*2024-08-23 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101453/indias-modi-meets-zelensky-on-historic-ukraine-visit-pushes-for-end-to-war) · `en`
-
-Indian Prime Minister Narendra Modi met Ukraine’s leader Volodymyr Zelensky on a historic visit to Kyiv on Friday, where he is pushing for a solution to end more than two years of war with Russia.
-
-Modi embraced Zelensky – who looked visibly emotional – at the Mariinsky palace in Kyiv, in the first ever visit by an Indian premier to Ukraine.
-
-The Indian leader is casting himself as a possible peacemaker between Moscow and Kyiv.
-
-But his visit comes at a dramatic moment in the two-and-a-half year war, with a diplomatic settlement appearing more elusive than ever.
-
-Kyiv’s forces are mounting a major incursion into Russia’s Kursk region while Moscow’s army is advancing in eastern Ukraine, claiming to have seized a swathe of towns and villages in recent weeks.
-
-“No problem can be resolved on a battlefield,” Modi said in Poland on Wednesday before heading to Ukraine.
-
-India, he said, supports “dialogue and diplomacy for restoration of peace and stability as soon as possible”.
-
-...
-
-[Data](articles/c60224d2.json)
-
-[Extended Data](ext_articles/c60224d2.ext.json)
-
----
-
-### Sumanthiran, Chanakyan and Sivagnanam are opposed to the common candidate - Suresh Premachandran
-
-*2024-08-23 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191796) · `ta`
-
-Sumanthiran, Chanakyan, and Sivagnanam oppose the common candidate, Suresh Premachandran, despite his campaign launch in Kilinochchi. The majority of the TNA supports the common candidate, except for these individuals who voice concerns over the Sri Lankan government's development policies. They argue that supporting the candidate could undermine Tamil nationalism. Meanwhile, Tamil National Parties and Civil Organizations back the candidate, emphasizing the need for a solution to the Tamil people's issues.
-
-🟩
-
-Former parliamentarian Suresh Premachandran said that some people like Sumanthiran, Chanakyan and Sivagnanam oppose the common candidate.
-
-He was speaking to the media while launching a campaign in support of the common candidate in Kilinochchi.
-
-Other than a few people like Sumanthiran, Chanakyan and Sivagnanam, the party's top levels and other volunteers under the other party are sure to win the common candidate.
-
-Not only that, they are ready to get down on the field. In Jaffna, I have spoken to many members of the Tamil party's youth team.
-
-They are sure to carry out this. Sridharan from Kilinochchi has congratulated the common candidate. Already, meetings - have been gathered in Kilinochchi.
-
-Senathirajah, who is also the leader, has welcomed this. Therefore, the majority of the TNA have welcomed this.
-
-Some people oppose their own reasons. In particular, Chanakyan has said that the Sri Lankan government has given him the development of the government.
-
-...
-
-[Data](articles/fca6eaa3.json)
-
-[Extended Data](ext_articles/fca6eaa3.ext.json)
-
----
-
-### Election complaints further increased
-
-*2024-08-23 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200245) · `si`
-
-The number of election-related complaints has risen significantly, with 65 new ones reported in the last 24 hours, bringing the total to 836 since July 31st. The Commission highlights violations of election laws.
-
-🟩
-
-The number of complaints received regarding the presidential election is further proposed.
-
-The Commission pointed out that 65 election related complaints have been reported during the last 24 hours and that it violates election laws.
-
-836 election complaints have been reported from July 31st (July 22).
-
-◼️
-
-[Data](articles/f7736261.json)
-
-[Extended Data](ext_articles/f7736261.ext.json)
-
----
-
-### Dalada, who is leading the United National Party, is now shedding crocodile tears - Mujibur
-
-*2024-08-23 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191785) · `ta`
-
-Dalada Athukorala, a key figure in the United National Party (UNP), recently resigned from her parliamentary position, criticizing the party's division and leadership issues. She accuses the party of hypocrisy, citing its current state as unacceptable and contrasting it with her past support for Sajith Premadasa. Athukorala's departure highlights internal conflicts within the UNP, with allegations of alliances with controversial figures and accusations of fraud against members. This situation raises questions about the party's integrity and future direction.
-
-🟩
-
-Dalada Athukorala, who has been the main party headed by Sajith Premadasa, is now unacceptable that the party is divided and crocodile tears.. Mujibur Rahman said he had stabbed Sajith Premadasa by leaving the party in the last time.
-
-The United National Party (UNP) Ratnapura District Parliamentarian Dalada Athukorala made a special speech in Parliament and left the post of Member of Parliament.
-
-Dalada was one of those who was determined to give Sajith Premadasa the leadership of the leadership when the issue was on the issue within the UNP.. He left the party as Sajith Premadasa did not get a leadership in the United National Party and formed a new party headed by Sajith Premadasa. So his conscience in Parliament will be false.
-
-It is new to say that the UNP is divided and that the leaders are now unacceptable to contest the two fronts. Ranil Wickremesinghe has joined hands with racists and thieves for his presidential dream, the United National Party's policy and symbol.
-
-...
-
-[Data](articles/0525014a.json)
-
-[Extended Data](ext_articles/0525014a.ext.json)
-
----
-
-### Bus collision with three -wheeler
-
-*2024-08-23 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191781) · `ta`
-
-A bus crash with a three-wheeler in Unakuru injured four, including the three-wheeler driver and a mother-son duo. The bus driver, en route from Ampara, was arrested.
-
-🟩
-
-Four people were injured when a bus and a three -wheeler crashed into the Unakuru area on the Matale - Kadirgamam road, police said.
-
-During the accident, the driver of the three -wheeler and the mother, the mother, and the son, were injured.
-
-In addition, the bus driver has been arrested in a bus traveling from Ampara and the bus driver has been arrested.
-
-◼️
-
-[Data](articles/658bf37d.json)
-
-[Extended Data](ext_articles/658bf37d.ext.json)
 
 ---

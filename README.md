@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 11:56:39**
+As of **2024-08-24 12:09:45**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,359 (100.0%) of 42,361 articles have been extended.
+42,361 (100.0%) of 42,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### பொது மக்களுக்கு முக்கிய எச்சரிக்கை
+### The main warning to the public
 
 *2024-08-24 11:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-முக்கிய-எச்சரிக்கை/175-342704) · `ta`
 
-தனிநபர்கள் சிலர் தங்களை அதிகாரிகளாக அடையாளம் காட்டி சட்டவிரோதமான முறையில் வர்த்தக நிறுவனங்களில் பணம் வசூலிப்பதாக வெளியான தகவலை அடுத்து உள்நாட்டு இறைவரி திணைக்களம் பொதுமக்களுக்கு எச்சரிக்கை விடுத்துள்ளது.
+Warning: Fake tax collectors impersonating officials in Colombo, Panadura, Negombo, Wennappuwa & Minuwangoda. Report incidents to police. Pay taxes only through bank accounts named after Commissioner of Internal Revenue.
 
-கொழும்பு, பாணந்துறை, நீர்கொழும்பு, வென்னப்புவ, மினுவாங்கொடை உள்ளிட்ட பிரதேசங்களில் இந்த சம்பவங்கள் பதிவாகியுள்ளதாக உள்நாட்டு இறைவரி திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-உள்நாட்டு இறைவரி ஆணையாளர் நாயகத்தின் பெயரிலான வங்கிக் கணக்குகளில் வைப்புத்தொகை மூலம் மட்டுமே வரி செலுத்துதல்களை மேற்கொள்ள வேண்டும் என தெளிவுபடுத்தியுள்ளது.
+The Department of Home Affairs has issued a warning to the public following reports that some individuals identify themselves as officers and illegally collect money in businesses.
 
-எந்தவொரு பணமும் அல்லது காசோலைகளும் தங்கள் அதிகாரிகளால் நேரடியாக வசூலிக்கப்படுவதில்லை என்றும் அதிகாரிகள் போல வரும் நபர்களிடம் பணத்தை ஒப்படைக்க வேண்டாம் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+The Department of Internal Affairs said that these incidents have been reported in areas including Colombo, Panadura, Negombo, Wennappuwa and Minuwangoda.
 
-மேலும், இதுபோன்ற சம்பவங்கள் நடந்தால் பொலிஸாருக்கு தகவல் தெரிவிக்குமாறும் பொதுமக்கள் அறிவுறுத்தப்பட்டுள்ளனர்.  R
+It has made it clear that the taxpayer should be made only through deposits in bank accounts named after the Commissioner of Internal Revenue.
+
+It has been reported that no money or checks are being charged directly by their authorities and not handing over the money to those who come to the authorities.
+
+In addition, the public has been advised to inform the police if such incidents occur.R
 
 ◼️
 
 [Data](articles/92ca047e.json)
+
+[Extended Data](ext_articles/92ca047e.ext.json)
 
 ---
 
@@ -393,6 +399,8 @@ Analysts familiar with asset sales say valuation usually come in a range and the
 ...
 
 [Data](articles/fd777dc3.json)
+
+[Extended Data](ext_articles/fd777dc3.ext.json)
 
 ---
 

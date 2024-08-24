@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 14:21:23**
+As of **2024-08-24 14:36:53**
 
 ## Newspaper Stats
 
-*Scraped **42,371** Articles*
+*Scraped **42,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,568
 dailyftlk | 2,758
 adalk | 3,903
 dailymirrorlk | 4,733
-adaderanalk | 4,969
+adaderanalk | 4,970
 tamilmirrorlk | 5,501
 virakesarilk | 6,737
 adaderanasinhalalk | 7,237
@@ -26,31 +26,57 @@ adaderanasinhalalk | 7,237
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,370 (100.0%) of 42,371 articles have been extended.
+42,371 (100.0%) of 42,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### අද සිට ගෙදරට පායන තරුව
+### Election-related complaints nears 1,000
+
+*2024-08-24 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101466/election-related-complaints-nears-1000) · `en`
+
+The complaints received by the Election Commission of Sri Lanka related to the upcoming presidential election have further increased.
+
+The Election Commission says that 65 more complaints have been received within the past 24 hours, pertaining to the 2024 Presidential Election.
+
+Accordingly, a total of 901 election complaints have been reported between July 31 and August 23, the Election Commission said.
+
+This includes 427 complaints received by the national election-related complaints management centre and 474 complaints received by the district centres, according to the Election Commission.
+
+The Presidential Election is scheduled to be held on September 21.
+
+◼️
+
+[Data](articles/3804166b.json)
+
+---
+
+### Home Star to Home From Today
 
 *2024-08-24 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200272) · `si`
 
-සර්වජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ජය තහවුරු කිරීම උදෙසා රට පුරා ගම් 2,000ක් ආවරණය කිරීමේ අරමුණෙන් සංවිධාන කෙරුණු 'ගෙදරට පායන තරුව' මැතිවරණ ප්‍රචාරණ ව්‍යාපාරය අද (24) ආරම්භ කෙරුණි.
+Dilith Jayaweera presidential campaign covers 2000 villages, focuses on grassroots support rather than expensive advertising.
 
-මෙම අවස්ථාවට එක්වූ ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසා සිටියේ, විශාල වශයෙන් මුදල් වැයකරමින් ජනරැලි පවත්වනවා වෙනුවට ගමට ගොස් ජනතාව හමුවීම මෙහි අරමුණ බවය.
+🟩
 
-මෙම අවස්ථාවට සර්වජන බලයේ විධායක කමිටු සාමාජික අනුරාධා යහම්පත් මහත්මිය ඇතුළු පිරිසක් එක්විය.
+The election campaign to be organized to cover up 2,000 villages throughout the country to ensure the victory of the presidency of the presidentest Entrepreneurship Dilith Jayaweera.
 
-මෙහිදී අදහස් දැක්වූ සර්වජන බලය, ජනාධිපති ධුර අපේක්ෂක - ව්‍යවසායක දිලිත් ජයවීර මහතා,
+The presidential sector entrepreneur entrepreneur, Dilith Jayaweera, said, he went to meet the people to go to the village instead of spending a large amount of money.
 
-"අද අපි මේ ආරම්භ කළේ 'ගෙදරට පායන තරුව' අද සිට දිවයින පුරා සෑම නිවසකට අත්පත්‍රිකා, අපේ ප්‍රතිපත්ති ඇතුළත් උපාය මාර්ගික වැඩපිළිවෙල ලබාදීමට කටයුතු කරනවා."
+The executive committee member of the Alrangege Executive Committee was joined in the event.
 
-අපේ 'ගෙදරට පායන තරුව' වැඩපිළිවෙලේ පරමාර්ථය තමයි විශාල මුදල් වියදම්කර රැස්වීම් පවත්වනවාට වඩා, මිනිස්සුත් එක්ක එකතුවෙලා ගමට ගිහිල්ලා ඇත්තටම ගමේ මිනිස්සුත් එක්ක සංවාදයක් ආරම්භ කර සහෝදරත්වයේ දේශපාලනය ක්‍රියාත්මක කිරීම".
+Surgeon power, presidential candidate - Entrepreneurship Dilith Jayaweera,
+
+"Today we have taken this to the 'home to house' star from today to give every home throughout the country."
+
+The goal of our "householder star" is the goal of the program rather than holding big money, starting with people and implement the politics of the village.
 
 ◼️
 
 [Data](articles/afa77213.json)
+
+[Extended Data](ext_articles/afa77213.ext.json)
 
 ---
 
@@ -2285,27 +2311,5 @@ The song is sung by songwriter Karthik Netha, background singer and composer Sha
 [Data](articles/47e7e72c.json)
 
 [Extended Data](ext_articles/47e7e72c.ext.json)
-
----
-
-### Digital election system can be tested in upcoming LG polls – President
-
-*2024-08-23 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101451/digital-election-system-can-be-tested-in-upcoming-lg-polls-president) · `en`
-
-President Ranil Wickremesinghe expressed his intention to implement recommendations from the commission report led by former Chief Justice Priyasad Depp on digitizing Sri Lanka’s election system.
-
-Speaking at an IT professionals’ meeting yesterday (22) at Waters Edge Hotel in Battaramulla, the President indicated that the new digital election system might be piloted in the upcoming local government elections.
-
-Responding to a question raised on the possibility to digitize the electoral system, he said, “It should be done. We have received the report with recommendations from the committee chaired by former Chief Justice Priyasad Depp, and we intend to follow those recommendations.”
-
-“We can introduce the digital election system at the national level by first conducting an experiment during the local government elections,” he said.
-
-The meeting, themed “Coding the Nation’s Future,” featured a notable welcome by a robot named “Pepper,” developed using Artificial Intelligence (AI).
-
-...
-
-[Data](articles/11de9e3a.json)
-
-[Extended Data](ext_articles/11de9e3a.ext.json)
 
 ---

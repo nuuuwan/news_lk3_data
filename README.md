@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 10:08:20**
+As of **2024-08-24 10:21:34**
 
 ## Newspaper Stats
 
-*Scraped **42,353** Articles*
+*Scraped **42,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,65 @@ dailymirrorlk | 4,733
 adaderanalk | 4,965
 tamilmirrorlk | 5,499
 virakesarilk | 6,737
-adaderanasinhalalk | 7,232
+adaderanasinhalalk | 7,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,351 (100.0%) of 42,353 articles have been extended.
+42,353 (100.0%) of 42,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### சாரதி மாரடைப்பால் மரணம் - பல வாகனங்களுக்கு சேதம்
+### වෛද්‍ය උපදෙස් නොතකා ගිය මාරක ගමන
+
+*2024-08-24 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200267) · `si`
+
+අම්පාර සිට කොළඹ බලා ධාවනය වූ ලංගම බස් රථයක් ඉඟිනියාගල පොලිස් බල ප්‍රදේශයේ දේවාලහිඳ ප්‍රදේශයේදී අනතුරට ලක්විය.
+
+ඒ රියදුරුට ඇතිවූ හෘදයාබාධයක් නිසා බස් රථය පාරෙන් ඉවතට ගොස් ගසක ගැටීමෙනි.
+
+පසුව මඟීන් කඩිනමින් රියදුරු ඉඟිනියාගල රෝහලට ඇතුළත් කර ඇති අතර, ඒ වනවිටත් රියදුරු මියගොස් සිටි බව පොලීසිය පවසයි.
+
+ඊයේ (23) රාත්‍රි 7.00 ට පමණ අම්පාර ඩිපෝවෙන් කොළඹ  බලා  එම බස් රථය පිටත්වී තිබේ.
+
+රියදුරුට ඇතිවූ යම් අසනිප තත්වයක් නිසා ඔහු බස් රථය ඉඟිනියාගල මහා විදුහල අසල නවත්වා එම ස්ථානයේ පෞද්ගලික ප්‍රතිකාර මධ්‍යස්ථානයක් වෙත ගොස් ප්‍රතිකාර ගෙන නැවත කොළඹ බලා පිටත්ව තිබේ.
+
+ඔහුගේ අසනීප තත්ත්වය බැරෑරුම් බැවින් මෙම ගමන නොයන ලෙසට වෛද්‍යවරයා උපදෙස් දී ඇතත්, වෙනත් රියදුරෙක් නැති බව පවසමින් ඔහු කොළඹ බලා බස් රථය ධාවනය කර ඇත.
+
+කෙසේ වෙතත් වෛද්‍යවරයා හමුවී සැතපුම් 10 යන්නට පෙර බස් රථයේ රියදුරා නැවත අසනීප වී බස් රථය මාර්ගයෙන් ඉවතට ධාවනය වී තිබුණි.
+
+අනතුර සිදුවන අවස්ථාවේ බස් රථයේ මඟීන් 40ක් පමණ සිටි ඇති වුවත්, එක් මඟියෙක් පමණක් සුළු තුවාල ලබා තිබේ.
+
+...
+
+[Data](articles/1c402950.json)
+
+---
+
+### Driver's death - damage to many vehicles
 
 *2024-08-24 09:48:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-மாரடைப்பால்-மரணம்-பல-வாகனங்களுக்கு-சேதம்/175-342702) · `ta`
 
-கொட்டாவ - மாட்டாகொட வீதியில், வான் சாரதி ஒருவருக்கு திடீரென மாரடைப்பு ஏற்பட்டதால் அவர் செலுத்திய வான் பல வாகனங்களுடன் மோதி பாரிய விபத்து ஏற்பட்டுள்ளது.
+Van driver dies of heart attack causing multi-vehicle accident on Kottawa-Matagoda road. Piliyandala police investigating.
 
-பன்னிபிட்டிய பிரதேசத்தைச் சேர்ந்த 66 வயதுடைய சாரதியே இதில் மாரடைப்பு ஏற்பட்டு உயிரிழந்துள்ளார்.
+🟩
 
-இவர் தனது அன்றாட வேலைகளை முடித்துக் கொண்டு மாட்டாகொடைக்கு திரும்பிக் கொண்டிருந்த போது திடீரென மாரடைப்பு ஏற்பட்டுள்ளது.
+On the Kottawa -Matagoda road, a van driver had a sudden heart attack and had a massive accident with several vehicles.
 
-விபத்தில் வாகனங்களுக்கு சேதம் ஏற்பட்டாலும், ஏனைய சாரதிகள் காயமின்றி தப்பியுள்ளனர். பிலியந்தலை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+A 66 -year -old driver from Pannipitiya has died of a heart attack.
+
+He had a sudden heart attack while he was returning to Muttagoda.
+
+Despite the damage to vehicles in the accident, other drivers escaped unharmed. Piliyandala police are conducting further investigations. Remble
 
 ◼️
 
 [Data](articles/bc753c80.json)
+
+[Extended Data](ext_articles/bc753c80.ext.json)
 
 ---
 
@@ -61,6 +93,8 @@ The Commissioner General of Elections, Saman Sri Ratnayake, emphasized that vote
 ◼️
 
 [Data](articles/302759c6.json)
+
+[Extended Data](ext_articles/302759c6.ext.json)
 
 ---
 
@@ -2281,31 +2315,5 @@ Now a more worrying strain of Mpox called Clade 1b has been identified in the ea
 [Data](articles/35fd71f5.json)
 
 [Extended Data](ext_articles/35fd71f5.ext.json)
-
----
-
-### Sri Lanka to host New Zealand for Test series during presidential poll
-
-*2024-08-23 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101446/sri-lanka-to-host-new-zealand-for-test-series-during-presidential-poll) · `en`
-
-Sri Lanka will host New Zealand for a two-match Test series during next month’s presidential election, Sri Lanka Cricket (SLC) announced today.
-
-The first Test will begin on September 18 at Galle, but there will be a rest day on September 21 when the voting is set to take place, the board said.
-
-The Test matches are a part of the ICC World Test Championship Cycle of 2023 – 2025, according to the SLC.
-
-The Test series, which is scheduled to be played at the Galle International Cricket Stadium, will kick off on 18 September.
-
-The first match of the two-match series will take place from September 18 to 23, while the second match is set to be played from September 26 to 30.
-
-Meanwhile, September 21 has been named as a rest day for the 1st Test match owing to the Presidential Election in Sri Lanka, the SLC pointed out.
-
-New Zealand’s last tour of Sri Lanka was in August 2019, when they drew a two-match Test series with the hosts.
-
-...
-
-[Data](articles/18e65b5d.json)
-
-[Extended Data](ext_articles/18e65b5d.ext.json)
 
 ---

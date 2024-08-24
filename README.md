@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 15:21:30**
+As of **2024-08-24 15:36:39**
 
 ## Newspaper Stats
 
-*Scraped **42,382** Articles*
+*Scraped **42,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 2,568
 dailyftlk | 2,758
 adalk | 3,903
 dailymirrorlk | 4,733
-adaderanalk | 4,970
+adaderanalk | 4,971
 tamilmirrorlk | 5,502
 virakesarilk | 6,737
-adaderanasinhalalk | 7,238
+adaderanasinhalalk | 7,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,381 (100.0%) of 42,382 articles have been extended.
+42,382 (100.0%) of 42,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### ආර්ථික අර්බුදය මැද මං කළ දේ වැරදි ද ?  - රනිල්
+
+*2024-08-24 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200274) · `si`
+
+ආර්ථික අර්බුදය හමුවේ ආහාර, ඖෂධ සපයාගත නොහැකිව දුක්විඳි ජනතාවගේ එම අවශ්‍යතා සපුරාලීම වරදක් නම් තමා එම වරද භාරගැනීමට සූදානම් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+පොතුවිල් හිදී පැවති 'පුළුවන් ශ්‍රී ලංකා' ජනරැලිය අමතමින් ඔහු මෙම අදහස් පළ කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ''පුළුවන් ශ්‍රී ලංකා'' සංකල්පය බලගැන්වීමේ අරමුණින් සංවිධාන කෙරුණු තවත් ජන රැලියක් ඊයේ (23) පස්වරුවේ අම්පාර පොතුවිල් ජලාල්දීන් ක්‍රීඩාංගණයේදී මෙලෙස පැවැත්වුණි.
+
+ජන රැලියට එක්වූ ජනාධිපතිවරයාට එහිදී පැමිණ සිටි පිරිසෙන් හිමි වූණේ උණුසුම් පිළිගැනීමකි.
+
+ආණ්ඩුව නියෝජනය කරන අමාත්‍යවරුන් ඇතුළු පාර්ලිමේන්තු මන්ත්‍රීවරු පිරිසක් ද ඊට එක්විය.
+
+"සජිත් කියනවා මං හොරු එක්ක වැඩ කළා ලු. මං ලෝභ වෙලා මේ තනතුර ගත්තා ලු. එයාට උප්පත්තියෙන් හිමි තනතුර මං ගත්තා ලු. එයා හැමදාම කතා කරනවා දුප්පත් මිනිස්සු ගැන. ඉතින් ඒ දුක තේරුණේ නැද්ද?."
+
+◼️
+
+[Data](articles/4a1cdcbd.json)
+
+---
+
+### Tamil Nadu CM writes to Jaishankar again as SL Navy arrests 11 Indian fishermen
+
+*2024-08-24 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101467/tamil-nadu-cm-writes-to-jaishankar-again-as-sl-navy-arrests-11-indian-fishermen) · `en`
+
+The Sri Lankan Navy has arrested 11 Indian fishermen from Tamil Nadu for alleged maritime violation, and Chief Minister MK Stalin flagged the matter with the Centre on Saturday, seeking immediate steps for their release.
+
+In a letter to External Affairs Minister S Jaishankar, Mr Stalin said, “I am writing to you with grave concern regarding yet another incident of apprehension of fishermen from Tamil Nadu.” The fishermen were apprehended while fishing southeast of Kodiakarai in Nagapattinam district, he said.
+
+“I have repeatedly highlighted that such incidents are occurring at an alarming frequency. In 2024 alone, 324 fishermen and 44 boats were apprehended by the Sri Lankan Navy. The fishing community in Tamil Nadu continues to face immense hardships due to the recurrent arrests, which severely affect their means of subsistence,” he said.
+
+...
+
+[Data](articles/bd7e2a8e.json)
+
+---
 
 ### Taiwan punished for eight ends
 
@@ -2221,53 +2259,5 @@ From Northern, North Central and Northwestern provinces, in the North Central an
 [Data](articles/473391d1.json)
 
 [Extended Data](ext_articles/473391d1.ext.json)
-
----
-
-### Tomorrow is falling tomorrow
-
-*2024-08-23 16:52:57* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැස්ස-අඩුවෙයි/11-411523) · `si`
-
-Meteorological warnings have been issued for heavy showers and thunderstorms across several regions including Kandy, Nuwara Eliya, Western, Sabaragamuwa, Southern, Northwestern, and parts of Ampara and Batticaloa districts. Strong winds are also expected in the Northern, North Central, and Northwestern provinces.
-
-🟩
-
-The Meteorological Carduwarantuwa says that the Kandy and Nuwara Eliya districts will occur in the Western, Sabaragamuwa, Southern and Northwestern provinces.
-
-Showers or thundershowers will occur at several places in Ampara and Batticaloa District, Ampara and Batticaloa District, or even night.
-
-From Northern, North Central and Northwestern provinces, in the North Central and Northwestern provinces.. (30-40), there is a stake in strong winds. (I J)
-
-◼️
-
-[Data](articles/e02046e6.json)
-
-[Extended Data](ext_articles/e02046e6.ext.json)
-
----
-
-### Candidates who submit fake spending information are the citizenship blood - Elections Commission
-
-*2024-08-23 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191790) · `ta`
-
-Candidates submitting false election expense reports face losing their citizenship for three years. This penalty applies if they fail to provide accurate information within 21 days post-election. The Election Commission emphasizes adherence to the Election Expenditure Act, highlighting the importance of transparency in election financing.
-
-🟩
-
-The citizenship of candidates will be canceled for three years for not providing confirmed information on election expenses and fake information within 21 days after the presidential election referendum ends. Elections Commissioner Saman Sri Ratnayake said that all candidates should act in accordance with the Election Expenditure Act.
-
-He was speaking at a media briefing held at the Government Information Department on Friday (23).
-
-The Act was introduced in 1946 by the Election Campaign Expenditure Act.
-
-Once the voting system is introduced in the electoral structure. The voters also look at the election, considering what they would get.
-
-Social contract between politicians and voters after the intensification of financial exchange during the election period weakened. The business situation has originated. It is worrying that the relationship between the candidate and the voter has been transformed into a relationship between the businessman and the consumer.
-
-...
-
-[Data](articles/372fd0f4.json)
-
-[Extended Data](ext_articles/372fd0f4.ext.json)
 
 ---

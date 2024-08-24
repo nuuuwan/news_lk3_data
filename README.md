@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 15:36:39**
+As of **2024-08-24 15:55:19**
 
 ## Newspaper Stats
 
-*Scraped **42,384** Articles*
+*Scraped **42,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,78 @@ colombotelegraphcom | 405
 islandlk | 2,459
 economynextcom | 2,568
 dailyftlk | 2,758
-adalk | 3,903
+adalk | 3,904
 dailymirrorlk | 4,733
 adaderanalk | 4,971
 tamilmirrorlk | 5,502
 virakesarilk | 6,737
-adaderanasinhalalk | 7,239
+adaderanasinhalalk | 7,241
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,382 (100.0%) of 42,384 articles have been extended.
+42,384 (100.0%) of 42,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### ආර්ථික අර්බුදය මැද මං කළ දේ වැරදි ද ?  - රනිල්
+### රුක්මන් සේනානායක අභාවප්‍රාප්ත වෙයි
+
+*2024-08-24 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200276) · `si`
+
+ශ්‍රී ලංකාවේ ප්‍රථම අග්‍රාමාත්‍ය ඩී. එස් සේනානායකගේ මහතාගේ මුණුපුරා වන රුක්මන් සේනානායක මහතා අභාවප්‍රාප්ත වී තිබේ.
+
+රුක්මන් සේනානායක මහතා එක්සත් ජාතික පක්ෂයේ ප්‍රබලයෙකු මෙන්ම හිටපු කැබිනට් අමාත්‍යවරයෙකු ද වෙයි.
+
+කලක්  එක්සත් ජාතික පක්ෂයේ නියෝජ්‍ය නායකයා ලෙස ද කටයුතු කළේ රුක්මන් සේනානායක මහතා ය.
+
+◼️
+
+[Data](articles/054a299c.json)
+
+---
+
+### අපහාස කරන්න කාටවත් ඉඩක් නැහැ - සජිත්
+
+*2024-08-24 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200275) · `si`
+
+බෙදුණු සහ කඩාවැටුණු රට ගොඩනැගීමේ හැකියාව තමා සහ තම කණ්ඩායම සතු බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+"මේ රටේ මුස්ලිම් ප්‍රජාව වෙනුවෙන් එළියට බැස්සේ අපි. මම එකක් කියන්නම්... මේ රටේ කිසිම පුද්ගලයෙකුට, ජාතියකට, ආගමකට අපහාස කරන්න ඉඩ දෙන්නේ නැහැ. මේ රට අපි හැමෝගෙම රට. මමත් මගේ කණ්ඩායමත් මේ රට ගොඩනැගීමේ වගකීම භාර ගන්නවා. ඔබව අපි හදවතින්ම රකිනවා."
+
+◼️
+
+[Data](articles/aa139e2d.json)
+
+---
+
+### What is wrong with what I did in the economic crisis?- Ranil
 
 *2024-08-24 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200274) · `si`
 
-ආර්ථික අර්බුදය හමුවේ ආහාර, ඖෂධ සපයාගත නොහැකිව දුක්විඳි ජනතාවගේ එම අවශ්‍යතා සපුරාලීම වරදක් නම් තමා එම වරද භාරගැනීමට සූදානම් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Ranil Wickremesinghe accepts responsibility for economic crisis mistakes, including providing food and pharmacies.
 
-පොතුවිල් හිදී පැවති 'පුළුවන් ශ්‍රී ලංකා' ජනරැලිය අමතමින් ඔහු මෙම අදහස් පළ කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ''පුළුවන් ශ්‍රී ලංකා'' සංකල්පය බලගැන්වීමේ අරමුණින් සංවිධාන කෙරුණු තවත් ජන රැලියක් ඊයේ (23) පස්වරුවේ අම්පාර පොතුවිල් ජලාල්දීන් ක්‍රීඩාංගණයේදී මෙලෙස පැවැත්වුණි.
+President Ranil Wickremesinghe says he is ready to accept the same mistake if it is wrong to provide food and pharmacies in the face of the economic crisis.
 
-ජන රැලියට එක්වූ ජනාධිපතිවරයාට එහිදී පැමිණ සිටි පිරිසෙන් හිමි වූණේ උණුසුම් පිළිගැනීමකි.
+He was speaking at the 'Sri Lanka' ammunition in Pottuvil.
 
-ආණ්ඩුව නියෝජනය කරන අමාත්‍යවරුන් ඇතුළු පාර්ලිමේන්තු මන්ත්‍රීවරු පිරිසක් ද ඊට එක්විය.
+President Ranil Wickremesinghe's 'Can Wealthy Sri Lanka' was held at the Pottuvil Pottinyan Stadium yesterday (23) afternoon.
 
-"සජිත් කියනවා මං හොරු එක්ක වැඩ කළා ලු. මං ලෝභ වෙලා මේ තනතුර ගත්තා ලු. එයාට උප්පත්තියෙන් හිමි තනතුර මං ගත්තා ලු. එයා හැමදාම කතා කරනවා දුප්පත් මිනිස්සු ගැන. ඉතින් ඒ දුක තේරුණේ නැද්ද?."
+The President who joined the rally was a warm welcome.
+
+Members of the government and a group of MPs participated in the event.
+
+"Sajith says I worked with soro. I have taken this post in love. I took the position of the birth. He's always talking about poor people. So didn't you understand that sadness?. "
 
 ◼️
 
 [Data](articles/4a1cdcbd.json)
+
+[Extended Data](ext_articles/4a1cdcbd.ext.json)
 
 ---
 
@@ -67,6 +103,8 @@ In a letter to External Affairs Minister S Jaishankar, Mr Stalin said, “I am w
 ...
 
 [Data](articles/bd7e2a8e.json)
+
+[Extended Data](ext_articles/bd7e2a8e.ext.json)
 
 ---
 
@@ -193,6 +231,20 @@ He is a former Army soldier and has been attached to the 14th Lions Regiment.
 [Data](articles/1465352e.json)
 
 [Extended Data](ext_articles/1465352e.ext.json)
+
+---
+
+### තෙවන පාසල් වාරය ආරම්භ කරන දිනය මෙන්න
+
+*2024-08-24 13:30:18* · [`adalk`](https://www.ada.lk/breaking_news/තෙවන-පාසල්-වාරය-ආරම්භ-කරන-දිනය-මෙන්න/11-411529) · `si`
+
+රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ පාසල් සඳහා තෙවන පාසල් වාරය එළැඹන සඳුදා (26දා) ආරම්භ වන බව අධ්‍යාපන අමාත්‍යාංශය පැවසීය.
+
+දෙවන පාසල් වාරය පසුගිය 16 වැනි සිකුරාදා අවසන් වූ අතර, ඒ අනුව සඳුදා දිනයේ සිට තෙවන පාසල් වාරය ආරම්භ වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/cce60af2.json)
 
 ---
 
@@ -2185,79 +2237,5 @@ A bond maturing on 15.05.2032 closed at 13.00/25 percent. (Colombo/Aug23/2024)
 [Data](articles/b0a9a338.json)
 
 [Extended Data](ext_articles/b0a9a338.ext.json)
-
----
-
-### Customs subordinate 30 kg of Hasheash
-
-*2024-08-23 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200246) · `si`
-
-Customs intercepted 30kg of hashish worth Rs. 212 million shipped from Italy via a parcel service. The seizure was part of a raid conducted by the Customs Revenue Monitoring unit, with the drugs and a suspect now under investigation by the Police Narcotics Division. The parcel was addressed to the Matugama area.
-
-🟩
-
-Customs seized 30 kilograms of Hashish, which was sent through a parcel sent through a product clearance agency from Italy.
-
-Customs Media Spokesperson, Additional Director General, General Director General, Savi Arukgoda said that the drug was Rs. 212 million.
-
-The raid was carried out by the Customs Revenue Monitoring and the drug and one suspect has been handed over to the Police Narcotics Division for further investigation.
-
-The Customs Media Spokesperson stated that the parcel has been sent to the address of the Matugama area.
-
-◼️
-
-[Data](articles/39346604.json)
-
-[Extended Data](ext_articles/39346604.ext.json)
-
----
-
-### Dhanush reunites with Sun Pictures
-
-*2024-08-23 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/191806) · `ta`
-
-Dhanush, after the success of his 50th film 'Rayan', reunites with Sun Pictures, the leading Tamil film production company. Their collaboration marks a significant milestone, with 'Rayan' grossing 150 crores and receiving critical acclaim. This reunion also highlights the success of their previous venture, 'Trichyitambalam', which won a National Award. The partnership between Dhanush, as both star and director, and Sun Pictures, promises exciting future projects.
-
-🟩
-
-Dhanush starring and directed by his fiftieth film 'Rayan' was a huge success.150 crores of Indian value
-
-Sun Pictures, the producer of the Rayan film, is reunited with Sagittarius.The announcement has been made.
-
-Sun Pictures, the leading production company of the Tamil film industry - is a great success if the films are making a huge success, and the actor who produced the film and the actor who starred in the film is an unexpected gift.
-
-The recently released film 'Rayan', produced by Sun Pictures, was a huge success.
-
-The director of the film, Dr. Maran-Sun Pictures, has made two contracts to play the lead role in the film, which is being produced by Sun Pictures.. Sagittarius and his fans are excited.
-
-The filmmakers have said that the success of 'Rayan' is not the only reason for Sun Pictures to reunite with Sagittarius, and that the National Award for the film 'Trichyitambalam', which was already released in their alliance, is one of the reasons.
-
-◼️
-
-[Data](articles/b48533e4.json)
-
-[Extended Data](ext_articles/b48533e4.ext.json)
-
----
-
-### Several district also falls in Western, Sabaragamuwa, Southern and North Western provinces
-
-*2024-08-23 16:52:57* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-බස්නාහිර--සබරගමුව--දකුණු-සහ-වයඹ-පළාත්වලත්-තවත්-දිස්ත්‍රක්ක-කිහිපයකත්-වැස්ස-අඩුවෙයි/11-411523) · `si`
-
-The Meteorological Department warns of showers or thundershowers across various regions including Kandy, Nuwara Eliya, and parts of Ampara and Batticaloa. Strong winds are expected in the Northern, North Central, and Northwestern provinces.
-
-🟩
-
-The Meteorological Carduwarantuwa says that the Kandy and Nuwara Eliya districts will occur in the Western, Sabaragamuwa, Southern and Northwestern provinces.
-
-Showers or thundershowers will occur at several places in Ampara and Batticaloa District, Ampara and Batticaloa District, or even night.
-
-From Northern, North Central and Northwestern provinces, in the North Central and Northwestern provinces.. (30-40), there is a stake in strong winds. (I J)
-
-◼️
-
-[Data](articles/473391d1.json)
-
-[Extended Data](ext_articles/473391d1.ext.json)
 
 ---

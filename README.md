@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 16:07:49**
+As of **2024-08-24 16:21:32**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 7,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,387 (100.0%) of 42,389 articles have been extended.
+42,389 (100.0%) of 42,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### අනුර හදන ආණ්ඩුව ගැන කරුණු කියයි
+### The government is about the government
 
 *2024-08-24 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200277) · `si`
 
-පොදු ජනයාගේ හා පාලකයාගේ අරමුණු සමපාත වන ආණ්ඩුවක් ගොඩනගන බව ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake discusses government roles, public trust, and balancing people's goals with rulers' objectives at Rahula College meeting.
 
-මාතර රාහුල විද්‍යාලයේ ආදි සිසුන් පිරිසක් විසින් සංවිධානය කරනු ලැබු හමුවක් ඊයේ (23) පස්වරුවේ මාතරදී පැවැත්වුණේ, ජාතික ජන බලවේගයේ ජානාධිපති ධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙනි.
+🟩
 
-"ඔබ මා කෙරෙහි තබන විශ්වාසය හානි වෙන්න දෙන්නේ නැහැ. හැම වෙලාවෙම ජනතාවගේ අරමුණ යහපත් ආණ්ඩුවක් ගොඩනැගීම. නමුත් පාලකයාගේ අරමුණ වෙනයි. ජනතාවගේ හා පාලකයාගේ අරමුණ දෙකක්. ජනතාවගේ හා පාලකයාගේ අරමුණ සමපාතවන ආණ්ඩුවක් අපි හදමු. රට ගැන ඔබ හා සමාන හැඟීමක් මට තිබෙනවා."
+The presidency of the National Institute of National Power and Ruler are building a governments of the public and the ruler, says Anura Kumara Dissanayake.
+
+A meeting organized by a group of Old Boys of Rahula College in Matara yesterday (23) was held in Matara yesterday (23) afternoon.
+
+"The confidence you put on me will not be damaged. The purpose of the people is always building a good government. But the ruler's goal is. Two goals of the people and the ruler. Let's build a government that coincides the governance of the people and the ruler. I have a sense of as you. "
 
 ◼️
 
 [Data](articles/c6f9ea6c.json)
 
+[Extended Data](ext_articles/c6f9ea6c.ext.json)
+
 ---
 
-### ருக்மன் சேனாநாயக்க காலமானார்
+### Rukman Senanayake has passed away
 
 *2024-08-24 15:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருக்மன்-சேனாநாயக்க-காலமானார்/175-342706) · `ta`
 
-இலங்கையின் முதல் பிரதமர் டி.எஸ்.சேனாநாயக்கவின் பேரனும், ஐக்கிய தேசியக் கட்சியின் முக்கியஸ்தரும் முன்னாள் அமைச்சரவை அமைச்சருமான ருக்மன் சேனாநாயக்க தனது 76ஆவது வயதில் இன்று காலமானதாக குடும்பத் தகவல்கள் தெரிவிக்கின்றன.
+Rukman Senanayake, 76, grandson of Sri Lanka's first Prime Minister DS Senanayake, passes away.
 
-தனது மாமா, முன்னாள் பிரதமர் டட்லி சேனாநாயக்கவின் திடீர் மரணத்தைத் தொடர்ந்து அவர் தனது அரசியல் பயணத்தை ஆரம்பித்தபோது, ​​சிறுவயதிலிருந்தே அவருக்கு அரசியல் மீதான ஆர்வம் ஏற்பட்டது
+🟩
+
+Family sources say that Rukman Senanayake, the grandson of Sri Lanka's first Prime Minister DS Senanayake and former Cabinet Minister and former Cabinet Minister, passed away today at the age of 76.
+
+When he began his political journey following the sudden death of his uncle, Dudley Senanayake, he became interested in politics from an early age.
 
 ◼️
 
 [Data](articles/b2597ba1.json)
+
+[Extended Data](ext_articles/b2597ba1.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 22:55:05**
+As of **2024-08-24 23:06:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,412 (100.0%) of 42,413 articles have been extended.
+42,413 (100.0%) of 42,413 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The ship completed its mid-life upgrade and joined Eastern Naval Command in Visa
 ...
 
 [Data](articles/81db60d3.json)
+
+[Extended Data](ext_articles/81db60d3.ext.json)
 
 ---
 

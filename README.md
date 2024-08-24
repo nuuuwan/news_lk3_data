@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 21:21:31**
+As of **2024-08-24 21:36:49**
 
 ## Newspaper Stats
 
-*Scraped **42,406** Articles*
+*Scraped **42,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,975
 tamilmirrorlk | 5,504
 virakesarilk | 6,737
-adaderanasinhalalk | 7,252
+adaderanasinhalalk | 7,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,406 (100.0%) of 42,406 articles have been extended.
+42,406 (100.0%) of 42,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### පළාත් පාලන මැතිවරණය සම්බන්ධව සාකච්ඡාවක්
+
+*2024-08-24 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200288) · `si`
+
+පළාත් පාලන මැතිවරණය සම්බන්ධයෙන් විශේෂ සාකච්ඡාවක් එළැඹෙන සතියේ දී පැවැත්වීමට නියමිත බව මැතිවරණ කොමිසම පවසයි.
+
+එහි සභාපති ආර්.එම්.ඒ.එල් රත්නායක පවසන්නේ එම මැතිවරණය සඳහා අවශ්‍ය මුදල් මේ වන විට කොමිසම සතුව නැති බවය.
+
+ඔහු පවසන්නේ එම මැතිවරණය සඳහා සිදුකරන ලද මූලික වියදම් හැර අනෙකුත් සියලු ඉතිරි මුදල් මහා භාණ්ඩාගාරය වෙත ප්‍රතිපූර්ණය කර ඇති බවය.
+
+තවද පළාත් පාලන මැතිවරණය සඳහා නාමයෝජනා ලබා දුන් ඇතැම් අපේක්ෂකයින් මේ වනවිට රට අත්හැර ගොස් ඇති බව වාර්තා වී ඇතැයිද ඔහු පවසයි.
+
+ඒ අනුව පළාත් පාලන ආයතන ඡන්ද විමසීම සම්බන්ධයෙන් ද විශේෂ සාකච්ඡාවක් ලබන සතියේ දී පැවැත්විමට නියමිත බව ඔහු පැවසුවේය.
+
+◼️
+
+[Data](articles/7c6a5cb0.json)
+
+---
 
 ### Committee after presidential election to make a profit making agency
 
@@ -2215,29 +2235,5 @@ President Ranil Wickremesinghe, who is the Independent candidate in this electio
 [Data](articles/32c6f48a.json)
 
 [Extended Data](ext_articles/32c6f48a.ext.json)
-
----
-
-### Sala - Review
-
-*2024-08-23 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191812) · `ta`
-
-"Sala," directed by Prabhu Solomon, is the first film from Manipal, focusing on the impact of alcoholism. It tells the story of rival gangs, led by Arul Das and Charles Vinod, over control of a liquor bar. An orphan boy saves Arul Das from an attack and later becomes his protector. Meanwhile, Punitha, a private school teacher, fights against liquor stores, facing opposition from alcohol lovers. The film aims to highlight the dangers of alcohol addiction and the need for its regulation, presented in an entertaining manner. Despite its engaging plot and performances, especially from newcomer actors, it lacks depth in certain areas but succeeds in sparking thought and discussion on the issue.
-
-🟩
-
-Actors: Theeran, Reshma Venkatesh, Charles Vinod, Sri Nath, Arul Das, Sampath Ram, Yogi Ram and others.
-
-Director Prabhu Solomon learned cinema. D. 'Sala' is the first film to be produced by Manipal. Even though the debate on the topic is among fans, is the film attracted all the fans because the film describes the awareness of alcohol with entertainment?Or not?Let us first see.
-
-Guna (Aruldas). The auction of a specific liquor bar is caused by the Arul Das gang and his enemy, the Thangadurai (Charles Vinod) gang.. The government thus seals the liquor crowd.
-
-In the meantime, a boy who is an orphaned there saves Aruldas (Tiran) Aruldas, who is there at that moment, to attack Aruldas his enemy gang due to a competition in a bidder. The boy is the hero of the story.When he grows up, he is safe for Arul Das.
-
-...
-
-[Data](articles/1520f85c.json)
-
-[Extended Data](ext_articles/1520f85c.ext.json)
 
 ---

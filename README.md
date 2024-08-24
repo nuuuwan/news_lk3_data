@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 16:37:08**
+As of **2024-08-24 16:53:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,389 (100.0%) of 42,392 articles have been extended.
+42,392 (100.0%) of 42,392 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ The Agreement is all-encompassing since it facilitates exchange of information r
 
 [Data](articles/314d9032.json)
 
+[Extended Data](ext_articles/314d9032.ext.json)
+
 ---
 
-### වංචා දූෂණ අවම කරන හැටි නාමල් පෙන්වයි
+### Namal shows how to minimize corruption
 
 *2024-08-24 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200278) · `si`
 
-පිල් මාරුවීම් සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් මින් ඉදිරියට අවස්ථාවක් නොමැති බව ඒම පක්ෂයේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa proposes tech solutions to reduce corruption within 3 years, focusing on banking system transactions.
 
-සමාජ මාධ්‍ය ඔස්සේ ප්‍රශ්න යොමු කිරීමට අවස්ථාව ලබාදෙමින් තරුණ සංවිධාන කිහිපයක් සමග එක්වී ඊයේ (23) සංවිධාන කර තිබූ සාකච්ඡාවකට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-"සියල්ල තාක්ෂණයට සම්බන්ධ කිරීමෙන් සහ මිනිසාගේ සම්බන්ධතාවය අවම කිරීම තුළ වංචා හා දූෂණ අවම කරන්න පුළුවන්. වසර 3ක් ඇතුළත අපිට ඒක කරන්න පුළුවන්. අද ආර්ථිකයේ බොහෝ ගනුදෙනු සිදු වන්නේ බැංකු පද්ධතියෙන් එළියේ. අපේ ආණ්ඩුවකින් ඒවා බැංකු පද්ධතිය තුළට ගන්නවා."
+The presidential candidate named Namal Rajapaksa says that the Sri Lanka Crown Front has no opportunity for the transfers.
+
+He was speaking at a discussion with several youth organizations by providing questions through social media and yesterday (23).
+
+"All I can join technology and minimizes fraud and corruption in minimizing man's relationship. We can do that within 3 years. Most transactions in today's economy are in the banking system. They take them into the banking system by our government. "
 
 ◼️
 
 [Data](articles/497bb865.json)
+
+[Extended Data](ext_articles/497bb865.ext.json)
 
 ---
 
@@ -97,6 +105,8 @@ Rukman Senanayake had served as Cabinet Minister of Environment and Natural Reso
 ◼️
 
 [Data](articles/776ee05e.json)
+
+[Extended Data](ext_articles/776ee05e.ext.json)
 
 ---
 

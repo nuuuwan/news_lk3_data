@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 21:36:49**
+As of **2024-08-24 21:56:04**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,406 (100.0%) of 42,407 articles have been extended.
+42,407 (100.0%) of 42,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### පළාත් පාලන මැතිවරණය සම්බන්ධව සාකච්ඡාවක්
+### Discussion on local government polls
 
 *2024-08-24 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200288) · `si`
 
-පළාත් පාලන මැතිවරණය සම්බන්ධයෙන් විශේෂ සාකච්ඡාවක් එළැඹෙන සතියේ දී පැවැත්වීමට නියමිත බව මැතිවරණ කොමිසම පවසයි.
+Local government poll discussion: Elections Commission lacks funds; Chairman claims money sent to Treasury; candidates who didn't nominate have left country; special discussion scheduled next week.
 
-එහි සභාපති ආර්.එම්.ඒ.එල් රත්නායක පවසන්නේ එම මැතිවරණය සඳහා අවශ්‍ය මුදල් මේ වන විට කොමිසම සතුව නැති බවය.
+🟩
 
-ඔහු පවසන්නේ එම මැතිවරණය සඳහා සිදුකරන ලද මූලික වියදම් හැර අනෙකුත් සියලු ඉතිරි මුදල් මහා භාණ්ඩාගාරය වෙත ප්‍රතිපූර්ණය කර ඇති බවය.
+The Elections Commission says that a special discussion is scheduled to hold a special discussion on the local government election.
 
-තවද පළාත් පාලන මැතිවරණය සඳහා නාමයෝජනා ලබා දුන් ඇතැම් අපේක්ෂකයින් මේ වනවිට රට අත්හැර ගොස් ඇති බව වාර්තා වී ඇතැයිද ඔහු පවසයි.
+Chairman of the top RMAL Ratnayake says that the Commission has no money for the election.
 
-ඒ අනුව පළාත් පාලන ආයතන ඡන්ද විමසීම සම්බන්ධයෙන් ද විශේෂ සාකච්ඡාවක් ලබන සතියේ දී පැවැත්විමට නියමිත බව ඔහු පැවසුවේය.
+He says that all the money has been rejected to the Treasury except the basic expenses made for the election.
+
+He added that some candidates who gave no nominations for the local government elections have been reported to have left the country.
+
+Accordingly, a special discussion is scheduled to be held on next week of the Local Government Elections.
 
 ◼️
 
 [Data](articles/7c6a5cb0.json)
+
+[Extended Data](ext_articles/7c6a5cb0.ext.json)
 
 ---
 

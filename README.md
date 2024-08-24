@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 00:21:41**
+As of **2024-08-25 00:36:57**
 
 ## Newspaper Stats
 
@@ -26,63 +26,87 @@ adaderanasinhalalk | 7,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,413 (100.0%) of 42,418 articles have been extended.
+42,418 (100.0%) of 42,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### පළමු ටෙස්ට් තරගයේ ජය එංගලන්තයට
+### First Test to contest England
 
 *2024-08-24 23:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200290) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සමග පැවැත්වෙන පළමු ටෙස්ට් තරගය කඩුලු 05කින් ජය ගැනීමට එංගලන්ත කණ්ඩායම සමත් විය.
+England wins first Test vs Sri Lanka by 5 wickets. Sri Lanka scores 326/2 in second innings. Chandimal hits 27th Test fifty.
 
-ඒ තරගයේ ජයග්‍රාහණය සඳහා ඔවුන්ට හිමිවු ලකුණු 205ක ඉලක්කය කඩුලු 05ක් පමණක් දැවී පසුකරයාමට සමත් වීමත් සමගය.
+🟩
 
-ශ්‍රී ලංකා කණ්ඩායම දෙවන ඉනිම සඳහා අද සියලුදෙනා දැවී රැස් කළ ලකුණු සංඛ්‍යාව 326කි.
+England won the first Test against the Tourism Sri Lanka by five wickets.
 
-අද දිනය අරම්භ කරන විට ශ්‍රී ලංකා පිල දෙවන ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 204ක් ලබා සිටියේය.
+They were passing back to the loss of 20 wickets for the winning achieving 205 runs.
 
-අද දිනයේදී එංගලන්ත පන්දුයවන්නන්ට මැනවින් පහරදුන් චන්දිමාල් සහ කමිඳු ශ්‍රී ලංකා දෙවන ඉනිමට නව ජීවයක් එක් කළේ  පළමු භාගයේදි කිසිදු කඩුල්ලක් ලබා නොදමිනි.
+Sri Lanka scored 326 runs for the loss of the second in their second innings.
 
-ඔවුන් 8 වැනි කඩුල්ලට ශතක සබඳතාවක් ගොඩනගමින් ශ්‍රී ලංකා ඉනිම සවමිත් කළේය.
+As the date of today, Sri Lanka scored 204 runs for the loss of 6 wickets for the second innings.
 
-චන්දිමාල් සිය ටෙස්ට් ක්‍රිකට් දිවියේ 27 වැනි අර්ධ ශතකය අද වාර්තා කළ අතර  සුපිරි ඉනිමක් ක්‍රීඩා කළ කමි﻿ඳු මෙන්ඩිස්  සිය ටෙස්ට් ක්‍රිකට් දිවියේ 3වැනි ශතකය ලබාගත්තේ වාර්තාවක් ද තබමිනි.
+Chandimal and Kaminduni Sri Lanka's second innings were assigned to the Second Innings of Sri Lanka, who was assaulted by England bowlers today.
 
-ඒ රසල් ආර්නල්ඩ්ගෙන් පසු ඕල්ඩ් ට්‍රැෆඩ් පිටියේ දී ටෙස්ට් ශතකයක් ලබාගත් දෙවන ශ්‍රී ලාංකික පිතිකරුවා ලෙසය.
+They have built a centuries to the 8th wicket.
 
-කමිඳු ලකුණු 113ක් සහ චන්දිමාල් ලකුණු 79ක් රැස් කිරීමට සමත්විය.
+Chandimal reported 27th half-century in Test cricket
 
-...
+After that Russell Arnald, the second Sri Lankan batsman who obtained a Test century at the Old Traford Ground was the second Sri Lankan batsman.
+
+113 runs and Chandimal scored 79 runs.
+
+Sri Lanka's team scored 326 runs for the second innings, according to the target of 205.
+
+Sri Lanka won the bowlers to take up 70 runs for 70 runs in the England team scored 70 runs.
+
+◼️
 
 [Data](articles/6c2a3153.json)
 
+[Extended Data](ext_articles/6c2a3153.ext.json)
+
 ---
 
-### ’கொடுப்பனவை அதிகரிக்க நடவடிக்கை’
+### Action to increase the exchange allowance
 
 *2024-08-24 23:54:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொடுப்பனவை-அதிகரிக்க-நடவடிக்கை/175-342725) · `ta`
 
-அரச ஊழியர்களின் வாழ்க்கைச் செலவுக்கேற்ப சம்பளம் வழங்குவது தொடர்பாக ஆராய்வதற்கு பூரண  அதிகாரத்துடன் கூடிய ஆனைக்குழு ஒன்று  நிறுவப்படும். அரச ஊழியர்களின் சம்பளத்தை 24 வீதம் அதிகரிப்பதோடு அரச ஊழியர்களுக்கான வரியை குறைக்கவும்  நடவடிக்கை மேற்கொள்ளப்படும் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Increase salaries 24%, reduce tax on public servants, 15% interest rate for senior citizens, Agrahara Insurance Scheme, increase allowance from 3000 to 5000 rupees, One Rank One Pay program for soldiers, solve pay contradictions in education sector.
 
-சிரேஷ்ட பிரஜைகளின் சேமிப்பு கணக்குகளுக்கு இதற்கு முன்பு வழங்கப்பட்டதை போன்று 15 வீத வட்டியை  சேமிப்பு வட்டி வீதமாக வழங்குவதற்கு  நடவடிக்கை எடுக்கப்படும். 15 வீத வட்டியுடன் கூடிய  இலட்சக்கணக்கான  ஓய்வூதியதாரர்களின் உரிமை இன்று  பறிக்கப்பட்டுள்ளது. ஓய்வூதியதாரர்கள்  ஏமாற்றப்பட்டாலும் தாம் அவர்களை  ஏமாற்றப் போவதில்லை. 2016 ஆம் ஆண்டுக்கு முன்பு ஓய்வு பெற்ற  அனைவருக்கும் அக்ரஹார காப்புறுதித் திட்டத்தை முன்னெடுப்போம் என்று கட்சித் தலைவர்  தெரிவித்தார்.
+🟩
+
+A committee with full power will be established to investigate salaries of public servants. Opposition leader Sajith Premadasa said that steps will be taken to increase the salaries of public servants by 24 percent and reduce the tax on public servants.
+
+Steps will be taken to provide 15 percent interest rate as a savings interest rate for senior citizens' savings accounts. The right of millions of pensioners with 15 percent interest. Even if the pensioners are cheated they are not going to deceive them. The party leader said that all those who retired before 2016 will launch the Agrahara Insurance Scheme.
+
+Gotabhaya Rajapaksa made this offer for retirees from 2016 - 2019. We will give it back.In order to maintain the privileges of retirees at the highest standard. Opposition Leader Sajith Premadasa said that steps will be taken to increase the allowance of 3000 rupees for senior citizens to 5000 rupees.
 
 ...
 
 [Data](articles/81ffe35e.json)
 
+[Extended Data](ext_articles/81ffe35e.ext.json)
+
 ---
 
-### ஆசானிடம் ஆசி பெற்றார் ஜனாதிபதி
+### Blessed with Asan
 
 *2024-08-24 23:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசானிடம்-ஆசி-பெற்றார்-ஜனாதிபதி/175-342724) · `ta`
 
-மாணவர் பருவத்தில் கொழும்பு ரோயல் கல்லூரியில் தனக்கு கற்பித்த ஆசிரியர் சிவலிங்கத்திடம் ஜனாதிபதி ரணில் விக்கிரமசிங்க இன்று ஆசிபெற்றார். (a)
+President Wickremesinghe blesses teacher Sivalingam at Royal College Colombo
+
+🟩
+
+President Ranil Wickremesinghe today blessed Sivalingam, a teacher who taught him at Royal College, Colombo during his student years. (A)
 
 ◼️
 
 [Data](articles/ca85450b.json)
+
+[Extended Data](ext_articles/ca85450b.ext.json)
 
 ---
 
@@ -396,6 +420,8 @@ Minister of Foreign Affairs Ali Sabry convened a briefing on current development
 
 [Data](articles/a59f404f.json)
 
+[Extended Data](ext_articles/a59f404f.ext.json)
+
 ---
 
 ### Bradby shields - first phase of Phase first phase to Tripath College
@@ -509,6 +535,8 @@ Farmers received an agriculture kit containing essential items such as a drip ir
 ...
 
 [Data](articles/c97ebf30.json)
+
+[Extended Data](ext_articles/c97ebf30.ext.json)
 
 ---
 

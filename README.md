@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 19:37:01**
+As of **2024-08-24 19:55:08**
 
 ## Newspaper Stats
 
-*Scraped **42,400** Articles*
+*Scraped **42,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 2,568
 dailyftlk | 2,758
 adalk | 3,904
 dailymirrorlk | 4,733
-adaderanalk | 4,974
+adaderanalk | 4,975
 tamilmirrorlk | 5,504
 virakesarilk | 6,737
-adaderanasinhalalk | 7,249
+adaderanasinhalalk | 7,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,400 (100.0%) of 42,400 articles have been extended.
+42,400 (100.0%) of 42,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### India and Sri Lanka conclude regional military exercise ‘Mitra Shakti’
+
+*2024-08-24 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101471/india-and-sri-lanka-conclude-regional-military-exercise-mitra-shakti) · `en`
+
+The 10th edition of the annual bilateral exercise ‘Mitra Shakti’ between the militaries of India and Sri Lanka, aimed to enhance their interoperability and mutual understanding, has concluded, the Indian High Commission said on Saturday.
+
+The two-week-long exercises were held from August 12 at the Army Training School at Maduru Oya in Sri Lanka.
+
+The exercise aims to enhance interoperability and mutual understanding between the armed forces and provides an opportunity to deepen further the close defence relationship based on professional respect, personal bonding and extensive training interaction, the high commission said.
+
+The exercise helps in building proficiency in tackling transnational terrorism, conducting joint tactical operations and building combat skills, the statement said.
+
+...
+
+[Data](articles/a642dfee.json)
+
+---
+
+### එංගලන්තයට ලකුණු 205ක ඉලක්කයක්
+
+*2024-08-24 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200286) · `si`
+
+ශ්‍රී ලංකාව සහ එංගලන්තය අතර පැවැත්වෙන පළමු ටෙස්ට් තරගයේ සිව් වැනි දිනය අදයි.
+
+ශ්‍රී ලංකා කණ්ඩායම සිය දෙවන ඉනිම සඳහා අද සියලුදෙනා දැවී ලකුණු 326ක් රැස් කළ අතර ඒ අනුව එංගලන්තයට ජයග්‍රහණය සඳහා හිමි වූ ඉලක්කය ලකුණු 205කි.
+
+අද (24) තරගය ආරම්භ කරන විට ශ්‍රී ලංකා පිල සිය දෙවන ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 204ක් ලබා සිටියේය.
+
+අද දිනයේදී එංගලන්ත පන්දුයවන්නන්ට මැනවින් පහරදුන් චන්දිමාල් සහ කමිඳු ශ්‍රී ලංකා දෙවන ඉනිමට නව ජීවයක් එක් කළේ පළමු භාගයේදි කිසිදු කඩුල්ලක් ලබා නොදෙමිනි.
+
+චන්දිමාල් සිය ටෙස්ට් ක්‍රිකට් දිවියේ 27 වැනි අර්ධ ශතකය අද වාර්තා කළ අතර  සුපිරි ඉනිමක් ක්‍රීඩා කළ කමි﻿ඳු මෙන්ඩිස්  සිය ටෙස්ට් ක්‍රිකට් දිවියේ 3වැනි ශතකය ලබාගත්තේ වාර්තාවක් ද තබමිනි.
+
+ඒ රසල් ආර්නල්ඩ්ගෙන් පසු ඕල්ඩ් ට්‍රැෆඩ් පිටියේ දී ටෙස්ට් ශතකයක් ලබාගත් දෙවන ශ්‍රී ලාංකික පිතිකරුවා ලෙසය.
+
+තරගයේ කාසියේ වාසිය දිනා ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පළමු ඉනිම සඳහා ලකුණු 236ක් රැස්කළේය.
+
+එංගලන්ත කණ්ඩායම සිය පළමු ඉනිම සඳහා සියලුදෙනා දැවී ලකුණු 358ක් ලබා ගත්තේය.
+
+◼️
+
+[Data](articles/82052bb1.json)
+
+---
+
+### බේරේ වැවේ පුද්ගල මළසිරුරක්
+
+*2024-08-24 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200285) · `si`
+
+මියගොස් ඇති පුද්ගලයා ගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/c7c596ee.json)
+
+---
 
 ### Bradby shields - first phase of Phase first phase to Tripath College
 
@@ -2169,79 +2225,5 @@ The arrests were made by a team led by a Senior Superintendent of Police (SSP), 
 [Data](articles/3a66fcfc.json)
 
 [Extended Data](ext_articles/3a66fcfc.ext.json)
-
----
-
-### Shop a shooter in Club spring murder
-
-*2024-08-23 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200255) · `si`
-
-A 31-year-old suspect, Ajith Rohana from Kalpitiya, was arrested by Sri Lanka's Terrorism Investigation Division for a murder at Club Spring. A second suspect, a 29-year-old man picked up from a bus, was also detained. The arrests were led by Senior Superintendent Prasanna Alwis under DIG Rohana Premaratne. Authorities found a T-56 rifle, 120 rounds, and 9mm pistol bullets with the suspects.
-
-🟩
-
-One shodoor in Club Wasantha murder was arrested by the Terrorism Investigation Division this morning.
-
-The 31-year-old Kalpitiya, Ajith Rohana has been arrested in the Dehiwala Kiddena area.
-
-It is also reported that a suspect, who was the 29-year-old man who was hired from the bus from the bus, was also taken into custody.
-
-The arrest was made by Senior Superintendent of Police Prasanna Alwis on the direction of DIG Rohana Premaratne in charge of the Terrorist Investigation Division.
-
-It is said that a T-56 firearm with suspects have been recovered from 120 ammunition and 9 mm pistol bullets.
-
-◼️
-
-[Data](articles/7aa5ee64.json)
-
-[Extended Data](ext_articles/7aa5ee64.ext.json)
-
----
-
-### The train ticket is digital
-
-*2024-08-23 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200254) · `si`
-
-Sri Lanka introduces its first online train ticketing system, allowing short-distance passengers to buy tickets via mobile. The initial phase excludes time-based tickets, but future implementations are anticipated.
-
-🟩
-
-The government has introduced a new website to issue a new website to issue tickets online for the first time in Sri Lanka.
-
-Secretary to the Ministry of Transport and Highways (Ministry of Transport and Highways) Ranjith Rubasinghe says that the short distance train passengers can be purchased online using their mobile phone.
-
-The first phase are not included in the first phase of the times ticket, but the new system is expected to be implemented in the future.
-
-◼️
-
-[Data](articles/b256ed6c.json)
-
-[Extended Data](ext_articles/b256ed6c.ext.json)
-
----
-
-### Washington Big Suraoduru "Dedicated 65 Years of Life
-
-*2024-08-23 19:03:59* · [`adalk`](https://www.ada.lk/breaking_news/ජීවිතයෙන්-වසර-65-ක්-බුදු-දහමට-කැපකල-’’වොෂින්ටන්-ලොකු-හාමුදුරුවෝ’’/11-411525) · `si`
-
-Washington Buddhist temple 65 years dedication summary
-
-🟩
-
-Damasiri Big Suravo, Dedicated to Buddhism for 65 years of life
-
-(Washington's Chief Incumbent, North America Chief Sanganayake, Maharagama, Maharagama, Maharagama, Maharagama.
-
-2024 August: 25th will be held on the blessing of Dhammaksiri Nahami Damage Day celebration on 25th.  ඇමෙරිකාව හා රටවල කිහිපයක නාහිමිවරු වොෂින්ටන් ඩී සී, මේරිලන්ඩ්,  වර්ජිනියා ඇතුළු ජනතාව ද එක්වීමට නියමිතය. ඇමෙරිකාවේ සෙනෙට් හා කොංග්‍රස් මණ්ඩල නියෝජිතයන්, මේරිලන්ඩ් ආණ්ඩුකාර කාර්යාලය හා ශ්‍රී ලංකා තානාපති කාර්යාලය ද  පුණ්‍යෝත්සවයට එක්වේ.
-
-The Washington Viharaya began in 1967 as the donations of the Massee Mahanayaka. In the constitution of the Constitution, the Sri Lankan Diplomatic Council of the United States of America is officially.
-
-Dhammadesiri was an emergency as a student of the Paramilology after school education as Gunadadasa Profile in Maharagama.. After higher education, Advanced Lecturer in Dharmayatha, Maharagama, said the Lecturer of the Dhamma and Teachers' Training College, Maharagama.
-
-...
-
-[Data](articles/d5648904.json)
-
-[Extended Data](ext_articles/d5648904.ext.json)
 
 ---

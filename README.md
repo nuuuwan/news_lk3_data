@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 13:06:39**
+As of **2024-08-24 13:21:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,363 (100.0%) of 42,367 articles have been extended.
+42,367 (100.0%) of 42,367 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Deputy Chief Minister Devendra Fadnavis of the western state of Maharashtra said
 
 [Data](articles/29f1f49a.json)
 
+[Extended Data](ext_articles/29f1f49a.ext.json)
+
 ---
 
 ### 11 Indian fishermen arrested for poaching in Sri Lankan waters
@@ -70,6 +72,8 @@ With this recent apprehension, the Navy has seized a total of 45 Indian trawlers
 
 [Data](articles/99fa0f9d.json)
 
+[Extended Data](ext_articles/99fa0f9d.ext.json)
+
 ---
 
 ### Over 2,400 Dengue cases reported so far in August 2024
@@ -85,6 +89,8 @@ Meanwhile, a total of 17 dengue-related deaths have been reported so far in 2024
 ◼️
 
 [Data](articles/463f0480.json)
+
+[Extended Data](ext_articles/463f0480.ext.json)
 
 ---
 
@@ -176,17 +182,23 @@ It is noteworthy that Niroshan Dickwella was used to use the drug during the Sri
 
 ---
 
-### පාර්ලිමේන්තුවේ මන්ත්‍රී ධුරයක පුරප්පාඩුවක් - මහලේකම්වරිය මැතිවරණ කොමිසම දැනුවත් කරයි
+### Secretary General of Parliament informs the election commission
 
 *2024-08-24 10:50:21* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-මන්ත්‍රී-ධුරයක-පුරප්පාඩුවක්---මහලේකම්වරිය-මැතිවරණ-කොමිසම-දැනුවත්-කරයි/11-411527) · `si`
 
-රත්නපුර මැතිවරණ කොට්ඨාශයේ පාර්ලිමේන්තු මන්ත්‍රී  තලතා අතුකෝරල මහත්මිය 2024 අගෝස්තු  මස 21 වැනි දින සිට බල පැවැත්වෙන පරිදි පාර්ලිමේන්තු අසුනෙන් ඉල්ලා අස්වීම හේතුවෙන් නව වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක පුරප්පාඩුවක් ඇති වී තිබෙන බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණදීර මහත්මිය  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා තිබේ.
+Parliament Secretary General informed election commission about resignation of parliamentary member due to Section 64(1) of Parliament Election Act No. 1 of 1981 for August 2024 selection process.
 
-1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම් දීම සිදුකර ඇත
+🟩
+
+The Secretary General of Parliament Kushani Rohanaya has been informed by the Secretary General of Parliament, a member of the Elections for the Selection of Parliament as a result of the resignation of the Parliamentary Senera from August 2024.
+
+This was made in terms of Section 64 (1) of the Parliament Election Act, No. 1 of 1981.
 
 ◼️
 
 [Data](articles/3d8c4a5a.json)
+
+[Extended Data](ext_articles/3d8c4a5a.ext.json)
 
 ---
 

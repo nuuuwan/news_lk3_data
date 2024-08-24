@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 18:55:36**
+As of **2024-08-24 19:06:31**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 7,249
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,398 (100.0%) of 42,400 articles have been extended.
+42,400 (100.0%) of 42,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### බ්‍රැඩ්බි පළිහ - පළමු අදියරේ ජය ත්‍රිත්ව විද්‍යාලයට
+### Bradby shields - first phase of Phase first phase to Tripath College
 
 *2024-08-24 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200284) · `si`
 
-78 වන බ්‍රැඩ්බි පළිහ වෙනුවෙන් පැවැති තරගාවලියේ පළමු අදියර ජයගැනීමට මහනුවර ත්‍රිත්ව විද්‍යාලය සමත් විය.
+Bradby Shield: Tripath College wins first phase; Trinity College Kandy triumphs in 78th tournament; Royal College Colombo defeats Colombo 17-16.
 
-ඒ, කොළඹ රාජකීය විද්‍යාලය ලකුණු 17-16ක් ලෙස පරාජයට පත් කරමිනි.
+🟩
+
+Kandy Trinity College, Kandy won the first stage of the tournament held for the 78th Bradby ship.
+
+Royal College, Colombo, defeated Colombo as 17-16.
 
 ◼️
 
 [Data](articles/3839615c.json)
 
+[Extended Data](ext_articles/3839615c.ext.json)
+
 ---
 
-### මැතිවරණ පැමිණිලි තවත් ඉහළ යයි
+### Election complaints go up
 
 *2024-08-24 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200283) · `si`
 
-ජනාධිපතිවරණයට අදාළ ව මැතිවරණ කොමිෂන් සභාව වෙත ලැබී ඇති පැමිණිලි සංඛ්‍යාව 900 ඉක්මවා ගොස් තිබේ.
+Election complaints surge: 901 received July 31-August 23, 65 in last 24 hours. Highest at District Election Complaint Management Center.
 
-ඒ අනුව, පසුගිය ජූලි මස 31 වනදා සිට ඊයේ (23) දිනය දක්වා ලැබි ඇති මුළු මැතිවරණ පැමිණිලි සංඛ්‍යාව 901කි.
+🟩
 
-ඊයේ පස්වරු 4.30න් අවසන් වු ගෙවුණු පැය 24ක කාලය තුළ පමණක් මැතිවරණ පැමිණිලි 65ක් වාර්ථා වී ඇත.
+The number of complaints received by the Elections Commission in the presidential election have exceeded 900.
 
-මින් වැඩිම ප්‍රමාණයක් දිස්ත්‍රික් මැතිවරණ පැමිණිලි කළමණාකරණ මධ්‍යස්ථානය වෙත ලැබි ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+Accordingly, 901 election complaints have been received from July 31 to July yesterday (23).
+
+There were 65 election related complaints only during the past 24 hours ended at 4.30 pm.
+
+The highest number of these has been received to the District Election Complaint Management Center.
 
 ◼️
 
 [Data](articles/7353afe6.json)
+
+[Extended Data](ext_articles/7353afe6.ext.json)
 
 ---
 

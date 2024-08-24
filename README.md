@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 18:15:46**
+As of **2024-08-24 18:27:27**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,396 (100.0%) of 42,397 articles have been extended.
+42,397 (100.0%) of 42,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
 
-### කමිඳුගෙන් ශතකයක්
+### Century from Komun
 
 *2024-08-24 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200282) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන ටෙස්ට් ක්‍රිකට් තරගයේ අද (24) සිව්වන දිනය යි.
+Sri Lanka vs England cricket match summary: Komindu Mendis scores century, Sri Lanka loses 6 wickets for 290 runs in second innings after England's 358 runs first innings.
 
-මැන්චෙස්ටර්හිදී පැවැත්වෙන එම තරගයේදී කමිඳු මෙන්ඩිස් සිය 03වන ටෙස්ට් ශතකය වාර්තා කිරීමට සමත් විය.
+🟩
 
-තරගයේ සිය දෙවනි ඉනිම සඳහා පන්දුවට පහර දෙමින් සිටින ශ්‍රී ලංකා කණ්ඩායම මීට සුළු වේලාවකට පෙර කඩුලු 06ක් දැවී ලබා සිටි ලකුණු සංඛ්‍යාව 290කි.
+The fourth day of the Tourism Sri Lanka team between the England and the England team today (24).
 
-තරගයේ කාසියේ වාසිය දිනා ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පළමු ඉනිම සඳහා ලකුණු 236ක් රැස්කළේය.
+Komindu Mendis won the 3rd Test century in the match.
 
-එංගලන්ත කණ්ඩායම සිය පළමු ඉනිම සඳහා සියලුදෙනා දැවී ලකුණු 358ක් ලබා ගත්තේය.
+Batting 20 runs for the loss of the match for the second innings in the match, 290 runs for the loss of 6 wickets.
+
+Batting first Sri Lanka scored 236 runs for the first innings.
+
+England scored 358 runs for their first innings.
 
 ◼️
 
 [Data](articles/5f7a0927.json)
+
+[Extended Data](ext_articles/5f7a0927.ext.json)
 
 ---
 

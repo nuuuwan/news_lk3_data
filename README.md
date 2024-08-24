@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 23:56:18**
+As of **2024-08-25 00:09:01**
 
 ## Newspaper Stats
 
-*Scraped **42,413** Articles*
+*Scraped **42,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 405
 islandlk | 2,459
-economynextcom | 2,568
+economynextcom | 2,570
 dailyftlk | 2,758
 adalk | 3,906
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,413 (100.0%) of 42,413 articles have been extended.
+42,413 (100.0%) of 42,415 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -326,6 +326,24 @@ The identity of the deceased has not yet been established, police said.
 
 ---
 
+### Sri Lanka updates diplomats on current developments
+
+*2024-08-24 18:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-updates-diplomats-on-current-developments-177972/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Foreign Minister Ali Sabry, who is now also the Justice Minister has updated Colombo-based diplomats on the efforts towards reconciliation, domestic mechanism, legal reforms.
+
+Central Bank Governor Nandalal Weerasinghe has also update them on the economic developments.
+
+Foreign Minister provides an update on current developments in Sri Lanka to Colombo-based Diplomatic Corps
+
+Minister of Foreign Affairs Ali Sabry convened a briefing on current developments in Sri Lanka for the Colombo-based diplomatic corps on Friday, 23 August 2024 at the Ministry of Foreign Affairs. During the briefing, Minister Sabry emphasized several significant achievements across various fronts during the past year, including advancements in economic recovery, legal reforms and the strengthening of domestic institutions and mechanisms focused on reconciliation.
+
+...
+
+[Data](articles/a59f404f.json)
+
+---
+
 ### Bradby shields - first phase of Phase first phase to Tripath College
 
 *2024-08-24 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200284) · `si`
@@ -417,6 +435,26 @@ The central government has been reportedly banned by the central government, dep
 [Data](articles/115eef2c.json)
 
 [Extended Data](ext_articles/115eef2c.ext.json)
+
+---
+
+### Food and Agriculture Organization programme in Sri Lanka leads to bumper crops
+
+*2024-08-24 17:31:00* · [`economynextcom`](https://economynext.com/food-and-agriculture-organization-programme-in-sri-lanka-leads-to-bumper-crops-177967/) · `en`
+
+ECONOMYNEXT – A Good Agricultural Practices (GAP) programme implemented by the Food and Agriculture Organization of the United Nations (FAO) is helping farmers modernize cultivation leading to bumper crops and higher incomes in Sri Lanka.
+
+645 farmers across three districts were trained under the programme, and provided with equipment and technical packages to modernize their farming practices and increase their yields and profits, the FAO said.
+
+The GAP programme started as a response to the pressing food security challenges amidst Sri Lanka’s economic crisis, supporting vegetable farmers to commercialize their products.
+
+The programme is funded by the United Nations Sri Lanka Sustainable Development Goal (SDG) Fund.
+
+Farmers received an agriculture kit containing essential items such as a drip irrigation system, plastic mulch and insect-proof netting.
+
+...
+
+[Data](articles/c97ebf30.json)
 
 ---
 
@@ -2209,55 +2247,5 @@ The Indian Prime Minister visited Russian Ukraine to discuss war conflicts six w
 [Data](articles/4b1ad49e.json)
 
 [Extended Data](ext_articles/4b1ad49e.ext.json)
-
----
-
-### Sri Lanka starts issuance of train tickets online
-
-*2024-08-23 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101457/sri-lanka-starts-issuance-of-train-tickets-online) · `en`
-
-For the first time in Sri Lanka, the government has introduced an online platform (www.pravesha.lk) for railway passengers to purchase tickets.
-
-This new system now allows passengers traveling even short distances to buy train tickets using their mobile phones.
-
-Speaking about the initiative, the Ssecretary of the Ministry of Transport and Highways, Eng. Ranjith Rubasinghe, stated the issuance of train tickets online has been effective since yesterday (22).
-
-“Passengers can now purchase digital train tickets through the website www.pravesha.lk eliminating the need to wait in queue. Tickets will still be available at counters for those who prefer to purchase them in person.”
-
-“We plan to introduce this online system for season tickets before the end of this year. Additionally, new methods for train seat reservations and goods transportation will be rolled out over the next three months,” he said.
-
-◼️
-
-[Data](articles/a99ae7fb.json)
-
-[Extended Data](ext_articles/a99ae7fb.ext.json)
-
----
-
-### Notice of a group of businessmen who deceive departments deficit taxes
-
-*2024-08-23 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200259) · `si`
-
-A group of impostors posing as Inland Revenue Officers in Colombo, Panaduwa, Negombo, Wennappuwa, Minuwangoda are defrauding taxpayers. The real Department warns against giving money to these scammers, promising only to collect taxes directly from citizens. Anyone caught will be prosecuted.
-
-🟩
-
-It is reported that a fraudulent group of fraudulers are presenting as the Inland Revenue Officers.
-
-The Inland Revenue Department issues complaint that the money for taxes should be collected by a group of people in Colombo, Panaduwa, Negombo, Wennappuwa, Minuwangoda.
-
-The Department of Inland Revenue Officers will be instructed to deposit taxes to the taxpayers when raising taxes related to taxes.
-
-In the announcement, other than this, there is no money or check collection.
-
-As a result, the Department has requested the public to not give money to fraudulent persons and capturing them in law.
-
-Already, if such fraudsters have been caught, the Department has also been reported to the relevant police stations.
-
-◼️
-
-[Data](articles/355e2820.json)
-
-[Extended Data](ext_articles/355e2820.ext.json)
 
 ---

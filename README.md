@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 18:38:46**
+As of **2024-08-24 18:55:36**
 
 ## Newspaper Stats
 
-*Scraped **42,398** Articles*
+*Scraped **42,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 4,974
 tamilmirrorlk | 5,504
 virakesarilk | 6,737
-adaderanasinhalalk | 7,247
+adaderanasinhalalk | 7,249
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,397 (100.0%) of 42,398 articles have been extended.
+42,398 (100.0%) of 42,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### බ්‍රැඩ්බි පළිහ - පළමු අදියරේ ජය ත්‍රිත්ව විද්‍යාලයට
+
+*2024-08-24 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200284) · `si`
+
+78 වන බ්‍රැඩ්බි පළිහ වෙනුවෙන් පැවැති තරගාවලියේ පළමු අදියර ජයගැනීමට මහනුවර ත්‍රිත්ව විද්‍යාලය සමත් විය.
+
+ඒ, කොළඹ රාජකීය විද්‍යාලය ලකුණු 17-16ක් ලෙස පරාජයට පත් කරමිනි.
+
+◼️
+
+[Data](articles/3839615c.json)
+
+---
+
+### මැතිවරණ පැමිණිලි තවත් ඉහළ යයි
+
+*2024-08-24 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200283) · `si`
+
+ජනාධිපතිවරණයට අදාළ ව මැතිවරණ කොමිෂන් සභාව වෙත ලැබී ඇති පැමිණිලි සංඛ්‍යාව 900 ඉක්මවා ගොස් තිබේ.
+
+ඒ අනුව, පසුගිය ජූලි මස 31 වනදා සිට ඊයේ (23) දිනය දක්වා ලැබි ඇති මුළු මැතිවරණ පැමිණිලි සංඛ්‍යාව 901කි.
+
+ඊයේ පස්වරු 4.30න් අවසන් වු ගෙවුණු පැය 24ක කාලය තුළ පමණක් මැතිවරණ පැමිණිලි 65ක් වාර්ථා වී ඇත.
+
+මින් වැඩිම ප්‍රමාණයක් දිස්ත්‍රික් මැතිවරණ පැමිණිලි කළමණාකරණ මධ්‍යස්ථානය වෙත ලැබි ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+◼️
+
+[Data](articles/7353afe6.json)
+
+---
 
 ### Century from Komun
 
@@ -124,17 +156,23 @@ The authorities have also taken steps to direct over 50,000 people to safe locat
 
 ---
 
-### அதிகரிக்கும் நோயாளர்களின் எண்ணிக்கை
+### The number of patients who increase
 
 *2024-08-24 16:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகரிக்கும்-நோயாளர்களின்-எண்ணிக்கை/175-342707) · `ta`
 
-நிலவும் சீரற்ற காலநிலை காரணமாக டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரித்து வருவதாகத் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+Dengue cases surge due to bad weather, mainly in Western Province and Kandy District.
 
-மேல் மாகாணம் மற்றும் கண்டி மாவட்டத்திலேயே அதிகளவான நோயாளர்கள் பதிவாகியுள்ளதாகத் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது. R
+🟩
+
+The National Dengue Control Unit said the number of dengue patients is increasing due to the inclement weather.
+
+The National Dengue Control Division has reported that the highest number of patients have been reported in the Western Province and Kandy District. Remble
 
 ◼️
 
 [Data](articles/cf2b3649.json)
+
+[Extended Data](ext_articles/cf2b3649.ext.json)
 
 ---
 
@@ -2193,49 +2231,5 @@ Dhammadesiri was an emergency as a student of the Paramilology after school educ
 [Data](articles/d5648904.json)
 
 [Extended Data](ext_articles/d5648904.ext.json)
-
----
-
-### The parliamentary seat of Dalada Athukorawala is vacant;Parliamentary Secretary notice to the Elections Commission
-
-*2024-08-23 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191829) · `ta`
-
-Dalada Athukorala's parliamentary seat is now vacant due to his resignation. The Parliamentary Secretary notified the Elections Commission about this under Section 64(1) of the Parliamentary Elections Act.
-
-🟩
-
-The Parliamentary Secretary has informed the Elections Commission that there has been a vacuum in the post of Member of Parliament following the resignation of the Dalada Athukorala parliamentarian.
-
-The Secretary General of Parliament Kushani Rohanadheera has informed the Chairman of the Elections Commission of the Ninth Parliament that the Ninth Parliament has had a vacuum as the Ratnapura Election District Member of Parliament Talatha Athukorala has resigned from the post of Parliament on August 21, 2024.
-
-The announcement was made in accordance with Section 64 (1) of the Parliamentary Elections Act No. 1 of 1981.
-
-◼️
-
-[Data](articles/3a71191a.json)
-
-[Extended Data](ext_articles/3a71191a.ext.json)
-
----
-
-### No decision made to cancel un-updated driving licenses – Transport Ministry
-
-*2024-08-23 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101455/no-decision-made-to-cancel-un-updated-driving-licenses-transport-ministry) · `en`
-
-The Secretary to the Ministry of Transport and Highways, Eng. Ranjith Rubasinghe, clarified that reports claiming a decision has been made to cancel all un-updated driving licenses are entirely false and that no such decision has been taken.
-
-He also revealed that a new system will be introduced to update the information of nearly 02 million driving license holders who have not yet updated their licenses. The entire update processes are expected to be completed by the end of this year.
-
-Secretary to the Ministry of Transport and Highways, Ranjith Rubasinghe, shared these remarks during a press conference held today (23) at the Presidential Media Centre, under the theme ‘Collective Path to a Stable Country’.
-
-Rubasinghe also noted that since the issuance of the first driving license in Sri Lanka in the 1960s, approximately 12.3 million driving licenses have been issued.
-
-The Secretary to the Ministry of Transport and Highways further explained:
-
-...
-
-[Data](articles/b05f4286.json)
-
-[Extended Data](ext_articles/b05f4286.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-24 13:37:00**
+As of **2024-08-24 13:56:11**
 
 ## Newspaper Stats
 
-*Scraped **42,367** Articles*
+*Scraped **42,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 4,969
 tamilmirrorlk | 5,501
 virakesarilk | 6,737
-adaderanasinhalalk | 7,234
+adaderanasinhalalk | 7,235
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,367 (100.0%) of 42,367 articles have been extended.
+42,367 (100.0%) of 42,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-24 (Saturday)
+
+### ශිකර් ධවාන් ක්‍රිකට් පිටියෙන් සමුගනියි
+
+*2024-08-24 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200269) · `si`
+
+වසර 14ක කාලයක් පුරා ඉන්දීය ක්‍රිකට් කණ්ඩායම වෙනුවෙන් සුවිශේෂී දායකත්වයක් ලබාදුන් ආරම්භක පිතිකරු ශිකර් ධවාන් සමස්ත ක්‍රීඩා පිටියෙන්ම සමුගන්නා බව අද (24) නිවේදනය කළේය.
+
+ටෙස්ට්, එක්දින මෙන්ම විස්සයි20 තරග රටා ත්‍රිත්වයේම කැපීපෙනෙන පිතිකරුවෙකු වන, මේ වනවිට 38වන වියේ පසුවන ධවාන්, ජාත්‍යන්තර ලකුණු දස දහසකට (10,867) වඩා රැස්කර ඇත. ඊට ශතක 24ක් හා අර්ධ ශතක 55ක් අන්තර්ගත වෙයි.
+
+2010 වසර්දී ඔස්ට්‍රේලියාවට එරෙහිව එක්දින වරම් හිමිකරගත් ධවාන්, සමුගන්නා විට ඉනිම් 164කදී ලකුණු 6,793ක් රැස්කරගෙන සිටියේය. ඔහුගේ එක්දින දක්ෂතා අතර ශතක 17ක් හා අර්ධ ශතක 39කි.
+
+එමෙන්ම 2011 වසරේදී බ.ඉ. කොදෙව්වන්ට එරෙහිව ජාත්‍යන්තර විස්සයි20 පිටියට අවතීර්ණ වූ හෙතෙම අර්ධ ශතක 11ක් සමගින් ලකුණු 1,759ක් රැස්කරගෙන සිටියේය.
+
+ක්‍රිකට් ක්‍රීඩාවේ වඩාත් ගෞරවාන්තිම ආකෘතිය වන ටෙස්ට් ක්‍රිකට් ක්‍රීඩාවේද කැපී පෙනෙන්නෙකු වූ ධවාන් 2013 වසරේදී ඔස්ට්‍රේලියාවට එරෙහිව සිය මංගල ටෙස්ට් තරගය ක්‍රීඩා කළේය.
+
+ඉන්දියාව වෙනුවෙන් ටෙස්ට් වරම් දිනාගත් 277වැනි ක්‍රීඩකයා වූ ධවාන් එම තරගයේදීම පන්දු 174කට පමණක් මුහුණ දෙමින් ලකුණු 187ක් රැස්කිරීමට සමත් විය.
+
+...
+
+[Data](articles/cec204dd.json)
+
+---
 
 ### Fourteen dead after Indian bus falls into river in Nepal
 
@@ -2257,27 +2279,5 @@ Thalatha Athukorala, who was elected to the Parliament representing the Samagi J
 [Data](articles/bace42a2.json)
 
 [Extended Data](ext_articles/bace42a2.ext.json)
-
----
-
-### Velukumar Action Challenge to Mano
-
-*2024-08-23 16:06:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோவுக்கு-வேலுகுமார்-அதிரடி-சவால்/175-342692) · `ta`
-
-Sri Lanka politics Velukumar challenges Mano Ganesan Tamil Progressive Alliance United People's Power national list MP positions
-
-🟩
-
-Kandy District Parliamentarian Velu Kumar has sent a media statement to challenge Mano Ganesan, the leader of the Tamil Progressive Alliance and Member of Parliament.. The report further stated.
-
-The National List MP has not been given as per the promise of the Tamil Progressive Alliance in the last general election. Thus the people who voted for the Tamil Progressive Alliance were very disappointed. Another opportunity to address it has joined hands with the United People's Power and the Tamil Progressive Alliance. Will Sajith give the Tamil people a vacant national list for the Tamil people in Ratnapura?Can Mano get just?
-
-It is worth noting that the national list of former MP Harin Fernando is vacant. Can you get that MP post?Velukumar MP asked.
-
-...
-
-[Data](articles/fd6fde5b.json)
-
-[Extended Data](ext_articles/fd6fde5b.ext.json)
 
 ---

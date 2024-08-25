@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 21:06:30**
+As of **2024-08-25 21:21:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,547 (100.0%) of 42,548 articles have been extended.
+42,548 (100.0%) of 42,548 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,17 +80,23 @@ He added that the farmer's prices will be able to buy agrochemicals at a cost of
 
 ---
 
-### பாடசாலை ஆரம்பம் குறித்து விசேட செய்தி
+### Special news on the beginning of school
 
 *2024-08-25 20:04:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆரம்பம்-குறித்து-விசேட-செய்தி/175-342758) · `ta`
 
-அரச பாடசாலைகள் மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மூன்றாம் தவணைக்கான பாடசாலையின் முதல் கட்டம் நாளை (26) ஆரம்பமாகும் எனக் கல்வி அமைச்சு அறிவித்துள்ளது.
+School reopening delayed due to rain. Health measures mandatory.
 
-இந்நிலையில், மழையுடனான காலநிலை காரணமாகப் பல நோய்கள் பரவும் அபாயம் உள்ளதாகச் சுகாதாரத் துறையினர் தெரிவித்துள்ளதுடன் விடுமுறை முடிந்து பாடசாலைக்கு செல்லும் மாணவர்களுக்கு தேவையான சுகாதார நடைமுறைகள் கடைப்பிடிப்பது அவசியம் என சுகாதாரப்பிரிவின் பெற்றோர்களுக்கு அறிவித்தல் விடுத்துள்ளனர். R
+🟩
+
+The Ministry of Education has announced that the first phase of the school for the third term of state schools and state -approved private schools will begin tomorrow (26).
+
+In this case, the health department has said that the health department has said that there is a risk of spreading due to the rainy weather and that students who go to school are required to adopt the necessary health procedures for schools after the holidays.. Remble
 
 ◼️
 
 [Data](articles/40599d63.json)
+
+[Extended Data](ext_articles/40599d63.ext.json)
 
 ---
 

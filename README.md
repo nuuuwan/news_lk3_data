@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 19:21:47**
+As of **2024-08-25 19:36:57**
 
 ## Newspaper Stats
 
-*Scraped **42,530** Articles*
+*Scraped **42,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,571
 dailyftlk | 2,758
 adalk | 3,920
 dailymirrorlk | 4,733
-adaderanalk | 4,994
+adaderanalk | 4,995
 tamilmirrorlk | 5,534
 virakesarilk | 6,749
 adaderanasinhalalk | 7,280
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,530 (100.0%) of 42,530 articles have been extended.
+42,530 (100.0%) of 42,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### UN mission is concerned by Afghanistan’s morality law
+
+*2024-08-25 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101494/un-mission-is-concerned-by-afghanistans-morality-law) · `en`
+
+The UN mission in Afghanistan said on Sunday it was “concerned” about a morality law recently ratified by the Taliban authorities, criticising in particular restrictions on women.
+
+The Taliban authorities on Wednesday announced the codification of a law with 35 articles detailing wide-ranging behaviour and lifestyle restrictions based on their strict interpretation of Islamic law.
+
+The law sets out graduated punishments for non-compliance — from verbal warnings to threats, fines and detentions of varying lengths — imposed by the morality police under the Ministry for the Propagation of Virtue and the Prevention of Vice.
+
+“It is a distressing vision for Afghanistan’s future, where moral inspectors have discretionary powers to threaten and detain anyone based on broad and sometimes vague lists of infractions,” said Roza Otunbayeva, head of the UN Assistance Mission in Afghanistan (Unama).
+
+...
+
+[Data](articles/38ac5248.json)
+
+---
 
 ### The prices of electricity, fuel and food have been completed
 
@@ -2291,21 +2309,5 @@ Sir Ponnambalam Ramanathan had held the office of Solicitor-General under Britis
 [Data](articles/7bcbd4e1.json)
 
 [Extended Data](ext_articles/7bcbd4e1.ext.json)
-
----
-
-### Meetings with Gandhi and Nehru;Message from Ramgarh to Ceylon
-
-*2024-08-25 01:33:00* · [`islandlk`](http://island.lk/meetings-with-gandhi-and-nehrumessage-from-ramgarh-to-ceylon/) · `en`
-
-The Ramgarh Session of the Indian National Congress, the last Session before Freedom was held in March 1940, in a small village, in Bihar Province, “sanctified by the touch of the feet of Gautama, the Buddha”, said the Reception Committee Chairman, Rajendra Prasad, later President of Free India. I attended the Session as a delegate of the Ceylon National Congress and recorded my impressions then.
-
-The little village of Ramgarh is today famous throughout the world. For here gathered the men and women of the new India with her beauty and her chivalry, intent on freeing their motherland from foreign rule. It was a pretty countryside that we passed through on our way, for over a hundred miles to the west of Calcutta. Ramgarh itself is very similar to Diyatalawa, undulating valleys, large plains and mountain streams abounding.
-
-...
-
-[Data](articles/c71a7059.json)
-
-[Extended Data](ext_articles/c71a7059.ext.json)
 
 ---

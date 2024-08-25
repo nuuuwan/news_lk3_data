@@ -1,64 +1,148 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 11:21:16**
+As of **2024-08-25 11:37:01**
 
 ## Newspaper Stats
 
-*Scraped **42,464** Articles*
+*Scraped **42,470** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 356
+dbsjeyarajcom | 357
 newsfirstlk | 363
 bbccomsinhala | 392
 colombotelegraphcom | 405
 islandlk | 2,473
 economynextcom | 2,570
 dailyftlk | 2,758
-adalk | 3,909
+adalk | 3,910
 dailymirrorlk | 4,733
-adaderanalk | 4,982
-tamilmirrorlk | 5,521
-virakesarilk | 6,739
+adaderanalk | 4,983
+tamilmirrorlk | 5,522
+virakesarilk | 6,741
 adaderanasinhalalk | 7,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,462 (100.0%) of 42,464 articles have been extended.
+42,464 (100.0%) of 42,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### විදුලිසැර වැදී දරුවෙක් මරුට
+### சாரதி அனுமதிப் பத்திரங்கள் ரத்து செய்யப்படாது
+
+*2024-08-25 11:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிப்-பத்திரங்கள்-ரத்து-செய்யப்படாது/175-342739) · `ta`
+
+புதுப்பிக்கப்படாத அனைத்து சாரதி அனுமதிப் பத்திரங்களையும் இரத்து செய்ய முடிவு செய்யப்பட்டுள்ளதாக வெளியான செய்திகள் முற்றிலும் தவறானவை என்றும், அவ்வாறு எந்தவொரு முடிவும் எடுக்கப்படவில்லை என்றும் போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் பொறியியலாளர் ரஞ்சித் ரூபசிங்க தெரிவித்தார்.
+
+இதுவரை புதுப்பிக்கப்படாத சுமார் 2 மில்லியன் சாரதி அனுமதிப் பத்திரங்கள் தொடர்பான தகவல்களை புதுப்பிப்பதற்காக புதிய முறையொன்று அறிமுகப்படுத்தப்படவுள்ளதாகவும், அதற்கான அனைத்துப் பணிகளும் இந்த ஆண்டு இறுதிக்குள் நிறைவு செய்யப்படும் எனவும் அவர் மேலும் தெரிவித்தார்.
+
+கடந்த வெள்ளிக்கிழமை (23) ஜனாதிபதி ஊடக மையத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் பொறியியலாளர் ரஞ்சித் ரூபசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+1960 களில் இந்நாட்டின் முதல் சாரதி அனுமதிப் பத்திரம் வழங்கப்பட்டதிலிருந்து, சுமார் 12.3 மில்லியன் சாரதி அனுமதிப் பத்திரங்கள் வழங்கப்பட்டுள்ளதாகவும் ரஞ்சித் ரூபசிங்க இதன்போது குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/2223e64f.json)
+
+---
+
+### A child dies after electrosing
 
 *2024-08-25 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200298) · `si`
 
-එලෙස මියගොස් ඇත්තේ ගලෙන්බිඳුණුවැව ජාතික පාසලේ ඉගෙනුම ලැබූ උල්පත්ගම වැලෑනේගම ප්‍රදේශයේ පදිංචි වයස අවුරුදු 15ක පාසල් සිසුවෙකි.
+Child dies electrocution Galenbindunuwewa National School water pump malfunction investigation underway
 
-නිවසේ පිටුපස වතුර කරාමයකින් දිය නාමින් සිටියදී ඒ අසල තිබෙන ජල මෝටරයේ වයරයක් ගැලවී ඇවිත් සිසුවාගේ සිරුරේ ස්පර්ශවීමෙන් සිසුවාට විදුලි සැර වැදී ඇති බව අනාවරණය වී ඇත.
+🟩
+
+The deceased is a 15 year old schoolgirl resident in the Galenbindunuwewa National School.
+
+It has been revealed that a watered water motor was flowing in the back of the house with water in the back of the house.
 
 ◼️
 
 [Data](articles/622735cf.json)
 
+[Extended Data](ext_articles/622735cf.ext.json)
+
 ---
 
-### ”மக்களுக்கு குறுஞ்செய்தி அனுப்புவோம்”
+### Namal on the ‘conspiracy’ to topple previous govt and decision taken to prevent country’s collapse
 
-*2024-08-25 10:56:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-குறுஞ்செய்தி-அனுப்புவோம்/175-342738) · `ta`
+*2024-08-25 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101480/namal-on-the-conspiracy-to-topple-previous-govt-and-decision-taken-to-prevent-countrys-collapse-) · `en`
 
-தேசிய மக்கள் சக்தி (NPP) அரசாங்கம் வெளிப்படையான முறையில் நியாயமான வரியை வசூலிக்கும், மேலும் ஒவ்வொரு வரி செலுத்துபவருக்கும் செலுத்தப்படும் வரிகள் மற்றும் அது எவ்வாறு பயன்படுத்தப்படுகிறது என்பது குறித்து குறுஞ்செய்தி மூலம் ஒவ்வொரு ஆண்டும் தெரிவிக்கப்படும். , என NPP தலைவர் அனுரகுமார திஸாநாயக்க நேற்று (24) தெரிவித்தார்.
+Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Johnston Fernando claims that the SLPP has the ‘young leader’ which was demanded by the ‘Aragalaya’ protest movement.
 
-அரசாங்கத்தை பொறுப்பேற்ற இரண்டு அல்லது மூன்று வருடங்களுக்குள் இந்த முறை அறிமுகப்படுத்தப்படும் என பலாங்கொடையில் நடைபெற்ற பேரணியில் கலந்து கொண்டு உரையாற்றிய போது அவர் கூறினார்.
+Speaking at a public rally held in Divulapitiya to support the SLPP’s presidential candidate, MP Fernando stated that during the ‘Aragalaya’ protest movement, the activists demanded a leader who represents the youth and that the SLPP has now given them the opportunity to elect Namal Rajapaksa, who will become the country’s youngest leader.
 
-"இரண்டு அல்லது மூன்று ஆண்டுகளுக்குப் பிறகு, ஒவ்வொரு ஆண்டும் வரி செலுத்துவோரின் கைபேசிக்கு குறுஞ்செய்தி அனுப்புவோம், அவர் செலுத்திய வரியின் அளவு மற்றும் வரிப் பணம் எவ்வாறு பயன்படுத்தப்பட்டது என்பது பற்றிய புதுப்பிப்பை அவர்களுக்கு வழங்குவோம். கல்வி, சுகாதார வீதி மேம்பாடு போன்றவற்றில், வரி செலுத்துவோர், தாங்கள் செலுத்தும் வரிப்பணம் எவ்வாறு செலவிடப்படுகிறது என்பதை அறிந்து கொள்வார்கள்,'' என்றார்.
+Commenting further, he said: “Our candidate is not the same person who has been in the past. Over the years, Namal Rajapaksa has matured to become a more responsible person.”
+
+Meanwhile, SLPP MP Thissa Kuttiarachchi, who spoke during the rally, mentioned that since certain people claim that former President Mahinda Rajapaksa cannot govern the country as he is old, they nominated a 38-year-old as their presidential candidate.
 
 ...
 
+[Data](articles/4f56bfcd.json)
+
+---
+
+### இஸ்ரேலில் அவசரநிலை பிரகடனம் - தென் லெபனான் மீது தாக்குதல்
+
+*2024-08-25 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/191911) · `ta`
+
+ஹெஸ்புல்லா அமைப்பு தாக்குதலை மேற்கொள்வதற்கு திட்டமிட்டிருந்தமை தெரியவந்துள்ளதை தொடர்ந்து லெபனானில் உள்ள ஹெஸ்புல்லா அமைப்பின் இலக்குகள் மீது முன்கூட்டிய தாக்குதலை மேற்கொண்டதாக இஸ்ரேல் தெரிவித்துள்ளது.
+
+இஸ்ரேல் மீது தாக்குதலை மேற்கொள்வதற்கு ஹெஸ்புல்லா அமைப்பு தயாராக உள்ளதை நாங்கள் அவதானித்தோம் அதனால் எங்கள் பொதுமக்களிற்கு ஆபத்து ஏற்படும் நிலை காணப்பட்டது என தெரிவித்துள்ள இஸ்ரேல் தென் லெபனானில் உள்ள ஹெஸ்புல்லா இலக்குகள் மீது தனது விமானங்கள் தாக்குதல்களை மேற்கொள்கின்றன என குறிப்பிட்டுள்ளது.
+
+இதேவேளை இஸ்ரேலில் அடுத்த 48 மணித்தியாலத்திற்கு அவசர நிலைமை பிரகடனம் செய்யப்பட்டுள்ளதாக அந்த நாட்டின் பாதுகாப்பு அமைச்சர் யோவ் கலன்ட் அறிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2bd2ed60.json)
+
+---
+
+### "We will send SMS to the people"
+
+*2024-08-25 10:56:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-குறுஞ்செய்தி-அனுப்புவோம்/175-342738) · `ta`
+
+NPP government plans SMS updates on tax payments and usage within 2-3 years.
+
+🟩
+
+The National People's Power (NPP) government will openly charge a fair tax, and the tax paid to each taxpayer and how it is used every year.. NPP leader Anurakumara Dissanayake said yesterday (24).
+
+Speaking at a rally in Balangoda, he said that this system will be introduced within two or three years in charge of the government.
+
+"Two or three years later, we send a text message to the taxpayer's mobile phone each year. We will give them an update of the amount of tax he paid and how the tax money was used. In education and health road development, taxpayers will learn how to spend the tax money they pay. ”
+
+Dissanayake said that people and traders want to pay taxes and they do not want the tax loot.
+
+“When paying the line, people have to get its benefits. We will collect a fair tax, ”he said.
+
+◼️
+
 [Data](articles/2cef8a50.json)
+
+[Extended Data](ext_articles/2cef8a50.ext.json)
+
+---
+
+### இஸ்ரேல் மீதான பாரிய தாக்குதல் ஆரம்பம் - ஹெஸ்புல்லா
+
+*2024-08-25 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191909) · `ta`
+
+இஸ்ரேல் மீது பாரிய தாக்குதலை ஆரம்பித்துள்ள தாக தெரிவித்துள்ள ஹெஸ்புல்லா அமைப்பு 350 ரொக்கட்களை இஸ்ரேலை நோக்கி செலுத்தியுள்ளதாக தெரிவித்துள்ளது.
+
+இஸ்ரேலின் 11 இலக்குகளை இலக்குவைத்துள்ளதாக தெரிவித்துள்ள ஹெஸ்புல்லா அமைப்பு பாரிய தாக்குதலை ஆரம்பித்துள்ளோம் ஆளில்லா விமானங்களையும் கட்டுசா ரொக்கட்களையும் பயன்படுத்துவதாகவும் தெரிவித்துள்ளது.
+
+இது இஸ்ரேலின் தளங்கள் முகாம்களை இலக்குவைக்கும் தாக்குதல் என ஹெஸ்புல்லா அமைப்பு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/ad70b14a.json)
 
 ---
 
@@ -423,6 +507,20 @@ Deputy Post Master General Rajitha Ranasinghe added that if a person wants to ge
 [Data](articles/29546656.json)
 
 [Extended Data](ext_articles/29546656.ext.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතනයේ ප්‍රධාන වෙඩික්කරු අල්ලයි
+
+*2024-08-25 08:23:34* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-ප්‍රධාන-වෙඩික්කරු-අල්ලයි/11-411534) · `si`
+
+පසුගිය මස අතුරුගිරිය ප්‍රදේශයේ ටැටූ ප්‍රදර්ශණාගාරයක් විවෘත කල දිනයේ එහිදී විවෘත   කිරීමට පැමිණ සිටි ක්ලබ් වසන්ත නැමැති අය ඇතුලු පිරිසක් ඝාතනය කර පලාගොස් සැගව සිටි ප්‍රධාන වෙඩික්කරු සහ ඔහුට උදව්කල හා නවාතැන් පහසුකම්  සලසන ලද පුද්ගලයා ඇතුලු තිදෙනකු ඉකුත් (23) දින රාත්‍රිය කව්ඩාන පල්ලියදොර නවාතැන් පලක සිටියදී කොළඹ අපරාධ කොට්‌ඨාසය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලීසිය පැවසීය .
+
+අත්අඩංගුවට පත් වෙඩික්කරු වයස (31) ක්ද වන අරඹගේ අජිත් රෝහන නමැත්තකු වන අතර, ඔහුට ඝාතනයෙන් පසු කතරගම ප්‍රාදේශයට පලායාමට බස්රථ ලබාදී උපකාර කල (29) හැවිරිදි වන වරුණ ඉන්දික සිල්වා යන අය සහ මොවුන්ට මෙම නිවසේ නවාතැන් පහසුකම් සැපයූ  ඉක්බාල් මොහමඩ් ඉම්රාන් යන කවුඩාන පෙරේරා පෙදෙස කුලී පදනමට සිටින අයෙකුද වන බවට හදුනාගන ඇතැයිද හෙලිවී ඇත .
+
+...
+
+[Data](articles/2679e7ad.json)
 
 ---
 
@@ -907,6 +1005,22 @@ Samagi Jana Balawegaya (SJB) Ratnapura District MP Thalatha Atukorale, who resig
 [Data](articles/98e1a99f.json)
 
 [Extended Data](ext_articles/98e1a99f.ext.json)
+
+---
+
+### Sajith and Anura Promise to Abolish the Executive Pesidency if they come to Powe; Reality is that people are not going to trust politicians who make such promises again.
+
+*2024-08-25 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84590) · `en`
+
+There was a period when the abolition of the executive presidential system was a key issue at Presidential Elections. However, such a situation cannot be expected to arise again.
+
+The politicians who promised to abolish the executive presidency have not only failed to do so after winning the election and assuming office as president, but have also taken action to increase their powers. Therefore, the reality is that people are not going to trust politicians who make such promises again.
+
+However, now that the Presidential Election campaigns are heating up, talks of the abolition of the executive presidency have resumed. Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa and National People’s Power (NPP) Leader Anura Kumara Dissanayake have promised on election platforms last week that if they win the Presidential Election and come to power, they will abolish the presidential system and bring back the parliamentary system.
+
+...
+
+[Data](articles/5e57e2b0.json)
 
 ---
 
@@ -2113,143 +2227,5 @@ This was made in terms of Section 64 (1) of the Parliament Election Act, No. 1 o
 [Data](articles/3d8c4a5a.json)
 
 [Extended Data](ext_articles/3d8c4a5a.ext.json)
-
----
-
-### Man arrested
-
-*2024-08-24 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200268) · `si`
-
-Arrest made in Hikkaduwa police division. Suspect linked to T-56 rifle shooting incident.
-
-🟩
-
-Two persons from two persons from Hikkaduwa Police Division was arrested by two people from a T-56 rifle.
-
-The suspect is a 32-year-old resident of Dodanduwa, a suspect who supported the shooting crime that has been supported this month.
-
-◼️
-
-[Data](articles/f14f72fe.json)
-
-[Extended Data](ext_articles/f14f72fe.ext.json)
-
----
-
-### Sri Lanka and England first Test match today
-
-*2024-08-24 10:36:24* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---එංගලන්ත-පළමු-ටෙස්ට්-ක්‍රිකට්-තරගයේ--සිව්වන-දිනය-අද/9-411526) · `si`
-
-Sri Lanka vs England Test match summary: Sri Lanka leads by 82 runs after scoring 236/1 in first innings.
-
-🟩
-
-The fourth day of the first Test match between the Sri Lanka Tourism and the England, the fourth day will commence today (24).
-
-The Sri Lankan team was assaulted when the match was stopped for the third day, the Sri Lankan team scored 204 runs for the loss of 6 wickets for the loss of 60 overs.
-
-Batting first Sri Lanka scored 236 runs for the first innings, in reply, England scored 358 runs in their first innings.
-
-Accordingly, the Sri Lankan team is now 82 runs more than England.
-
-◼️
-
-[Data](articles/5040b7a9.json)
-
-[Extended Data](ext_articles/5040b7a9.ext.json)
-
----
-
-### The fatal journey that ignored medical advice
-
-*2024-08-24 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200267) · `si`
-
-SLTB bus crash Engkin driver heart attack ignored medical advice fatal journey
-
-🟩
-
-A SLTB bus traveling from Ampara to Colombo was crashed in the temples area in Engkin.
-
-The bus goes out of the road because of a heart attack on the driver, and the bus goes off the road.
-
-The driver has been admitted to the Inginiyagala hospital and the driver was later killed.
-
-The bus was leveled from the depot in Colombo at 7.00 pm yesterday.
-
-Due to some dissatisfaction with the driver, he stopped the bus and returned to Colombo to Colombo.
-
-Although his illness is serious, the doctor has instructed the doctor not to go on this journey, but he has opened the bus to Colombo, claiming that there is no other driver.
-
-However, before the doctor met 10 miles, the driver of the bus had been sick and the bus had run away.
-
-At the time of the accident, there were about 40 passengers at the bus, but one passenger has been severely injured.
-
-The bus driver is a 49 year old Manjula Prasanna.
-
-◼️
-
-[Data](articles/1c402950.json)
-
-[Extended Data](ext_articles/1c402950.ext.json)
-
----
-
-### Driver's death - damage to many vehicles
-
-*2024-08-24 09:48:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-மாரடைப்பால்-மரணம்-பல-வாகனங்களுக்கு-சேதம்/175-342702) · `ta`
-
-Van driver dies of heart attack causing multi-vehicle accident on Kottawa-Matagoda road. Piliyandala police investigating.
-
-🟩
-
-On the Kottawa -Matagoda road, a van driver had a sudden heart attack and had a massive accident with several vehicles.
-
-A 66 -year -old driver from Pannipitiya has died of a heart attack.
-
-He had a sudden heart attack while he was returning to Muttagoda.
-
-Despite the damage to vehicles in the accident, other drivers escaped unharmed. Piliyandala police are conducting further investigations. Remble
-
-◼️
-
-[Data](articles/bc753c80.json)
-
-[Extended Data](ext_articles/bc753c80.ext.json)
-
----
-
-### EC urges voters not to be misled by various election surveys
-
-*2024-08-24 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101461/ec-urges-voters-not-to-be-misled-by-various-election-surveys) · `en`
-
-The Election Commission has urged voters not to be influenced or misled by the surveys conducted by various parties regarding the upcoming presidential election.
-
-The Commissioner General of Elections, Saman Sri Ratnayake, emphasized that voters should not feel compelled to change their opinions based on these surveys.
-
-◼️
-
-[Data](articles/302759c6.json)
-
-[Extended Data](ext_articles/302759c6.ext.json)
-
----
-
-### A revelation of presidential election surveys
-
-*2024-08-24 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200266) · `si`
-
-Presidential election surveys: Election Commission warns against misleading results. Commissioner General Saman Sri Ratnayake states surveys do not necessitate changing voting decisions.
-
-🟩
-
-The Election Commission requested voters not to mislead the presidential election.
-
-Elections Commissioner General Saman Sri Ratnayake said there was no need to change its views based on surveys.
-
-◼️
-
-[Data](articles/6048968f.json)
-
-[Extended Data](ext_articles/6048968f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 00:09:02**
+As of **2024-08-26 00:21:32**
 
 ## Newspaper Stats
 
-*Scraped **42,560** Articles*
+*Scraped **42,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 392
 colombotelegraphcom | 406
 islandlk | 2,473
-economynextcom | 2,571
+economynextcom | 2,572
 dailyftlk | 2,758
 adalk | 3,924
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,560 (100.0%) of 42,560 articles have been extended.
+42,560 (100.0%) of 42,561 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -231,6 +231,22 @@ He further said that steps will be taken to improve the economy and that the opp
 [Data](articles/776c9a3c.json)
 
 [Extended Data](ext_articles/776c9a3c.ext.json)
+
+---
+
+### Sri Lanka election could return a winner without 50-pct
+
+*2024-08-25 21:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-election-could-return-a-winner-without-50-pct-177989/) · `en`
+
+ECONOMYNEXT – With three serious contenders in Sri Lanka’s 2024 Presidential election, there is a strong possibility that no candidate will cross the 50 percent mark to win outright, but the country could still have a new president.
+
+Since the presidential system was introduced in line with the 1978 Constitution, every presidential election has produced a winner who secured more than 50 percent of the valid votes, thus avoiding the need to count second and third preferences.
+
+Article 94 of the Constitution outlines the process for selecting a winner should no candidate cross the halfway mark. If necessary, candidates may have to resort to their calculators to determine how many votes they need to secure victory.
+
+...
+
+[Data](articles/2d7009f4.json)
 
 ---
 
@@ -2303,31 +2319,5 @@ During the meeting, the President also provided an update on the economy and the
 [Data](articles/3a48beef.json)
 
 [Extended Data](ext_articles/3a48beef.ext.json)
-
----
-
-### Arrests of the founder of Telegram
-
-*2024-08-25 09:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டெலிகிராம்-நிறுவனர்-கைது/50-342732) · `ta`
-
-Telegram founder Paul Durov arrested in Paris on charges including money laundering, drug trafficking, and sexual abuse. No official statement released yet.
-
-🟩
-
-Paul Durov, founder of the Telegram Social Network, has been arrested in Paris.
-
-Telegram is known as Facebook and Twitter on social networks. The processor based on Dubai was founded by Pawal Durov of Russia. He is a dual citizenship from France and the United Arab Emirates.
-
-France has issued an arrest warrant due to complaints such as money laundering, drug trafficking, pornography, and sexually abusing records.
-
-In this case, the authorities have arrested Paul Duro at the Borgat airport near Paris while traveling from Azerbaijan to a separate flight.. But no official announcement has been made on his arrest details.
-
-Earlier, Russia and Ukraine were accused of telecommunication to publish false news about the unofficial, two countries' conflict and political activities.
-
-◼️
-
-[Data](articles/193b6e1a.json)
-
-[Extended Data](ext_articles/193b6e1a.ext.json)
 
 ---

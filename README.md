@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 11:08:15**
+As of **2024-08-25 11:21:16**
 
 ## Newspaper Stats
 
-*Scraped **42,462** Articles*
+*Scraped **42,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,51 +18,93 @@ dailyftlk | 2,758
 adalk | 3,909
 dailymirrorlk | 4,733
 adaderanalk | 4,982
-tamilmirrorlk | 5,520
+tamilmirrorlk | 5,521
 virakesarilk | 6,739
-adaderanasinhalalk | 7,262
+adaderanasinhalalk | 7,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,459 (100.0%) of 42,462 articles have been extended.
+42,462 (100.0%) of 42,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### தேர்தல் கருத்துக் கணிப்புகள் குறித்து எச்சரிக்கை
+### විදුලිසැර වැදී දරුවෙක් මරුට
+
+*2024-08-25 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200298) · `si`
+
+එලෙස මියගොස් ඇත්තේ ගලෙන්බිඳුණුවැව ජාතික පාසලේ ඉගෙනුම ලැබූ උල්පත්ගම වැලෑනේගම ප්‍රදේශයේ පදිංචි වයස අවුරුදු 15ක පාසල් සිසුවෙකි.
+
+නිවසේ පිටුපස වතුර කරාමයකින් දිය නාමින් සිටියදී ඒ අසල තිබෙන ජල මෝටරයේ වයරයක් ගැලවී ඇවිත් සිසුවාගේ සිරුරේ ස්පර්ශවීමෙන් සිසුවාට විදුලි සැර වැදී ඇති බව අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/622735cf.json)
+
+---
+
+### ”மக்களுக்கு குறுஞ்செய்தி அனுப்புவோம்”
+
+*2024-08-25 10:56:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-குறுஞ்செய்தி-அனுப்புவோம்/175-342738) · `ta`
+
+தேசிய மக்கள் சக்தி (NPP) அரசாங்கம் வெளிப்படையான முறையில் நியாயமான வரியை வசூலிக்கும், மேலும் ஒவ்வொரு வரி செலுத்துபவருக்கும் செலுத்தப்படும் வரிகள் மற்றும் அது எவ்வாறு பயன்படுத்தப்படுகிறது என்பது குறித்து குறுஞ்செய்தி மூலம் ஒவ்வொரு ஆண்டும் தெரிவிக்கப்படும். , என NPP தலைவர் அனுரகுமார திஸாநாயக்க நேற்று (24) தெரிவித்தார்.
+
+அரசாங்கத்தை பொறுப்பேற்ற இரண்டு அல்லது மூன்று வருடங்களுக்குள் இந்த முறை அறிமுகப்படுத்தப்படும் என பலாங்கொடையில் நடைபெற்ற பேரணியில் கலந்து கொண்டு உரையாற்றிய போது அவர் கூறினார்.
+
+"இரண்டு அல்லது மூன்று ஆண்டுகளுக்குப் பிறகு, ஒவ்வொரு ஆண்டும் வரி செலுத்துவோரின் கைபேசிக்கு குறுஞ்செய்தி அனுப்புவோம், அவர் செலுத்திய வரியின் அளவு மற்றும் வரிப் பணம் எவ்வாறு பயன்படுத்தப்பட்டது என்பது பற்றிய புதுப்பிப்பை அவர்களுக்கு வழங்குவோம். கல்வி, சுகாதார வீதி மேம்பாடு போன்றவற்றில், வரி செலுத்துவோர், தாங்கள் செலுத்தும் வரிப்பணம் எவ்வாறு செலவிடப்படுகிறது என்பதை அறிந்து கொள்வார்கள்,'' என்றார்.
+
+...
+
+[Data](articles/2cef8a50.json)
+
+---
+
+### Warning on election polls
 
 *2024-08-25 10:43:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-கருத்துக்-கணிப்புகள்-குறித்து-எச்சரிக்கை/175-342737) · `ta`
 
-ஜனாதிபதி தேர்தலுக்கு முன்னதாக பல்வேறு கட்சிகளால் நடத்தப்பட்டு வரும் கருத்துக்கணிப்புகளால் வாக்காளர்கள் பாதிக்கப்படக்கூடாது என தேர்தல் ஆணைக்குழு எச்சரித்துள்ளது.
+Election Commission warns against party-run polls influencing voter choices. Fake polls spread on social media misusing international organization names. Voters advised to seek reliable sources before making election decisions.
 
-இந்த கணக்கெடுப்புகளின் அடிப்படையில் வாக்காளர்கள் தங்கள் கருத்துக்களை மாற்ற வேண்டிய கட்டாயம் ஏற்படக்கூடாது என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க வலியுறுத்தினார்.
+🟩
 
-மேலும், ஐ.நா மற்றும் ஐரோப்பிய ஒன்றியம் போன்ற சர்வதேச அமைப்புகளின் பெயரைப் பயன்படுத்தி பொய்யாகக் நடாத்தப்படும் பல போலியான கருத்துக்கணிப்புகள் சமூக ஊடகங்களில் பரவி வருவதாகத் தெரிவிக்கப்பட்டுள்ளது.
+The Election Commission has warned that voters should not be affected by polls run by various parties ahead of the presidential election.
 
-வாக்காளர்கள் தங்கள் தேர்தல் முடிவுகளை எடுக்கும்போது நம்பகமான தகவல்களை நம்பும்படி கேட்டுக் கொள்ளப்படுகிறார்கள்.
+Elections Commissioner Saman Sri Ratnayake stressed that voters should not be forced to change their views on the basis of these survey.
+
+In addition, a number of fake polls have been spreading on social media using the name of international organizations such as the UN and the European Union.
+
+Voters are asked to rely on reliable information when they make their election decisions.
 
 ◼️
 
 [Data](articles/b9f08950.json)
 
+[Extended Data](ext_articles/b9f08950.ext.json)
+
 ---
 
-### ජනාධිපති සහ රදගුරු හැරල්ඩ් ඇන්තනි හිමි අතර හමුවක්
+### Harold Anthony ownership between President and Bishop
 
 *2024-08-25 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200297) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කතෝලික රදගුරු සම්මේලනයේ සභාපති රදගුරු හැරල්ඩ් ඇන්තනි පෙරේරා හිමි ඇතුළු රදගුරු සංගමයේ පියතුමන් පිරිසක් හමුව තිබේ.
+Ranil Wickremesinghe meets Harold Anthony Perera, discusses Easter reforms, economic plans, and cost of living issues.
 
-එහිදී රට තුළ ක්‍රියාත්මක අධ්‍යාපන ප්‍රතිසංස්කරණ, පාස්කු ඉරිදා ත්‍රස්ත ප්‍රහාරය පිළිබඳ විමර්ශන, පාරිසරික සහ ආගමික කටයුතු පිළිබඳව සාකච්ඡා කළ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+🟩
 
-රටේ ආර්ථිකය සහ ජනතාවගේ ජීවන වියදම් අභියෝගවලට මුහුණ දීම සඳහා රජය ක්‍රියාත්මක කරන සැලසුම් පිළිබඳව ජනාධිපතිවරයා විසින් මෙහිදී පියතුමන්ලා දැනුවත් කර තිබේ.
+President Ranil Wickremesinghe has met with a father of the Bishop Association including Harold Anthony Perera, Chairman of the Catholic Bishop.
+
+The Presidential Media Unit said that the Easter reforms implemented in the country have discussed inquiries, environmental and religious affairs of the terrorist attack on Easter.
+
+The President has informed the Father on the plans implemented by the government to ensure the economy of the country and the cost of living challenges of the people.
 
 ◼️
 
 [Data](articles/ec657cdf.json)
+
+[Extended Data](ext_articles/ec657cdf.ext.json)
 
 ---
 
@@ -863,6 +905,8 @@ Samagi Jana Balawegaya (SJB) Ratnapura District MP Thalatha Atukorale, who resig
 ...
 
 [Data](articles/98e1a99f.json)
+
+[Extended Data](ext_articles/98e1a99f.ext.json)
 
 ---
 
@@ -2207,57 +2251,5 @@ Elections Commissioner General Saman Sri Ratnayake said there was no need to cha
 [Data](articles/6048968f.json)
 
 [Extended Data](ext_articles/6048968f.ext.json)
-
----
-
-### The little mother who bit the boy
-
-*2024-08-24 08:54:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-கடித்த-சிறிய-தாய்/76-342701) · `ta`
-
-Boy tortured by mother; police investigate; mother arrested; case ongoing.
-
-🟩
-
-A 10 -year -old boy living in the Valaha estate in the Lindulai Police Division has begun investigations into the brutal torture of his little mother for the past few days.
-
-The school community has lodged a complaint with the Lindula police website that the boy has been beaten and bitten and has caused many torture.
-
-The torture boy was admitted to the Lindula Divisional Hospital and sent to the Nuwara Eliya District Hospital for further treatment yesterday.
-
-At the same time, the little mother in connection with the incident yesterday was summoned by the police and subjected to investigations. Following the investigation, the woman has been arrested and produced before the Nuwara Eliya District Magistrate today.
-
-The little mother of the arrested boy is not only a child's mother but also pregnant mother. Investigations have revealed that the mother of a brutal torture boy was working in Colombo and had left the boy's little mother for security.R
-
-◼️
-
-[Data](articles/01834cec.json)
-
-[Extended Data](ext_articles/01834cec.ext.json)
-
----
-
-### The little mother who bite and beaten the boy
-
-*2024-08-24 08:54:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-கடித்தும்-அடித்தும்-சித்திரவதை-செய்த-சிறிய-தாய்/76-342701) · `ta`
-
-Little mother beats boy, police investigate. Pregnant woman arrested. Boy hospitalized.
-
-🟩
-
-A 10 -year -old boy living in the Valaha estate belonging to the Lindulai Police Division has begun investigations into the brutal torture of his little mother for the past few days.
-
-The school community has lodged a complaint with the Lindula police website, knowing that the boy had been beaten and bitten.
-
-The torture boy was admitted to the Lindula Divisional Hospital and sent to the Nuwara Eliya District Hospital for further treatment yesterday.
-
-At the same time, the little mother in connection with the incident yesterday was summoned by the police and subjected to investigations. Following the investigation, the woman has been arrested and produced before the Nuwara Eliya District Magistrate today.
-
-The little mother of the arrested boy is not only a child's mother but also pregnant mother. Investigations have revealed that the mother of a brutal torture boy was working in Colombo and had left the boy's little mother for security.R
-
-◼️
-
-[Data](articles/16b36fc7.json)
-
-[Extended Data](ext_articles/16b36fc7.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 15:36:56**
+As of **2024-08-25 15:55:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,271
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,498 (100.0%) of 42,502 articles have been extended.
+42,502 (100.0%) of 42,502 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,53 +50,75 @@ The arrest follows an incident on August 20, in which the suspect is accused of 
 
 [Data](articles/6a5c0b49.json)
 
+[Extended Data](ext_articles/6a5c0b49.ext.json)
+
 ---
 
-### இருவரின் விஞ்ஞாபனங்கள் இந்த வாரம் வெளியிடப்படும்
+### The manifesto of the two will be released this week
 
 *2024-08-25 15:13:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரின்-விஞ்ஞாபனங்கள்-இந்த-வாரம்-வெளியிடப்படும்/175-342752) · `ta`
 
-இரண்டு ஜனாதிபதி வேட்பாளர்கள் இந்த வாரம் தமது தேர்தல் விஞ்ஞாபனங்களை வெளியிட உள்ளனர்.
+Presidential candidates release manifestos this week: Anura Kumara Dissanayake leads, Sajith Premadasa follows.
 
-தேசிய மக்கள் சக்தியின் (NPP) தலைவரும் ஜனாதிபதி வேட்பாளருமான பாராளுமன்ற உறுப்பினர் அனுரகுமார திஸாநாயக்க தனது தேர்தல் விஞ்ஞாபனத்தை முதன் முதலாக கொழும்பில் இன்று நாளை திங்கட்கிழமை வெளியிடவுள்ளார்.
+🟩
 
-காலை 10.00 மணிக்கு தலவத்துகொட மொனார்க் இம்பீரியல் ஹோட்டலில் நடைபெறும் வைபவத்தின் போது தேர்தல் விஞ்ஞாபனம் வெளியிடப்படும் என NPP பேச்சாளர் ஒருவர் தெரிவித்தார்.
+Two presidential candidates are due to release their election manifesto this week.
 
-இதேவேளை, எதிர்க்கட்சித் தலைவரும், ஜனாதிபதி வேட்பாளருமான சஜித் பிரேமதாச தனது தேர்தல் விஞ்ஞாபனத்தை புதன்கிழமை (ஒகஸ்ட் 28) வெளியிடவுள்ளார்.
+Parliamentarian Anura Kumara Dissanayake, the president of the National People's Power (NPP) and the presidential candidate, will be the first to release his election manifesto in Colombo tomorrow.
 
-தேர்தல் விஞ்ஞாபனம் கொழும்பில் வெளியிடப்படும் என்றும், ஆனால் நேரம் மற்றும் இடம் விரைவில் அறிவிக்கப்படும் என்றும் ஐக்கிய மக்கள் சக்தியின் தேர்தல் நடவடிக்கைகளின் தலைவர் சுஜீவ சேனசிங்க தெரிவித்தார்.
+A NPP spokesman said that the election manifesto will be released during the ceremony at the Monark Imperial Hotel at Talawatugoda at 10.00 am.
+
+Meanwhile, opposition leader and presidential candidate Sajith Premadasa will release his election manifesto on Wednesday (August 28).
+
+Sujeewa Senasinghe, president of the United People's Power, said that the election manifesto would be released in Colombo, but the time and place would be announced soon.
+
+MP. Senasinghe added that Premadasa's election manifesto has been created within the social market economic system, focusing on various sectors, including education, agriculture, digitalization, health, entrepreneurship and cooperative organizations.
 
 ...
 
 [Data](articles/5f53340f.json)
 
+[Extended Data](ext_articles/5f53340f.ext.json)
+
 ---
 
-### රනිල් සහභාගී වන එජාප සමුළුව
+### Ranil attends UNP convention
 
 *2024-08-25 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200308) · `si`
 
-එක්සත් ජාතික පක්යේ විශේෂ සමුළුව අද (25) සිරිකොත පක්ෂ මූලස්ථානයේදී පැවැත්වෙයි.
+Ranil attends UNP convention at Sirikotha today. United National Party special conference at party headquarters.
+
+🟩
+
+United National Park Special Conference will be held at Sirikotha today (25) at the party headquarters.
 
 ◼️
 
 [Data](articles/aeca946a.json)
 
+[Extended Data](ext_articles/aeca946a.ext.json)
+
 ---
 
-### பஸ் கவிழ்ந்ததில்  22 பேர் உயிரிழப்பு
+### 22 deaths
 
 *2024-08-25 15:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-கவிழ்ந்ததில்-22-பேர்-உயிரிழப்பு/50-342751) · `ta`
 
-பாகிஸ்தானில் கஹூடாவில் இருந்து ராவல்பிண்டிக்கு சென்ற பஸ் பள்ளத்தில் கவிழ்ந்து விபத்துக்குள்ளானதில், 22 பேர் உயிரிழந்தனர்; 15 பேர் பலத்த காயமுற்றனர்.
+Bus crash kills 22, injures 15 in Pakistan
 
-பாகிஸ்தானில், பஞ்சாப் மாகாணத்தில் 35 பேர் கஹ_டாவில் இருந்து ராவல்பிண்டிக்கு பஸ்சில் சென்று கொண்டு இருந்தனர். பஸ் பானா பாலம் அருகே சென்று கொண்டிருந்த போது சாரதியின் கட்டுப்பாட்டை இழந்து பள்ளத்தில் கவிழந்து விபத்துக்குள்ளானது.
+🟩
 
-இதில் 20 பேர் சம்பவ இடத்திலேயே உயிரிழந்தனர். 15 பேர் பலத்த காயம் அடைந்தனர். அவர்களில் இருவர், மருத்துவமனையில் சிகிச்சை பலனின்றி இறந்தனர்.S
+22 people were killed when a bus crashed into a bus from Kahuda in Pakistan to Rawalpindi;15 people were seriously injured.
+
+In Pakistan, 35 people in Punjab were traveling from Kaha_Da to Rawalpindi by bus. The driver of the bus lost control of the driver and crashed into the ditch.
+
+Of these, 20 died on the spot. 15 people were seriously injured. Two of them died in hospital without treatment.
 
 ◼️
 
 [Data](articles/8a283636.json)
+
+[Extended Data](ext_articles/8a283636.ext.json)
 
 ---
 

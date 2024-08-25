@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 08:18:01**
+As of **2024-08-25 08:55:48**
 
 ## Newspaper Stats
 
-*Scraped **42,437** Articles*
+*Scraped **42,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,51 @@ dbsjeyarajcom | 355
 newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 405
-islandlk | 2,472
+islandlk | 2,473
 economynextcom | 2,570
 dailyftlk | 2,758
 adalk | 3,906
 dailymirrorlk | 4,733
 adaderanalk | 4,979
-tamilmirrorlk | 5,510
+tamilmirrorlk | 5,512
 virakesarilk | 6,737
-adaderanasinhalalk | 7,258
+adaderanasinhalalk | 7,259
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,434 (100.0%) of 42,437 articles have been extended.
+42,438 (100.0%) of 42,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### Woman murder
+
+*2024-08-25 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200294) · `si`
+
+Horana woman murdered sharp instrument personal dispute two brothers arrested
+
+🟩
+
+In Horana, a woman has been attacked with a sharp instrument and killed.
+
+The murder was in progress of the murder yesterday (24).
+
+The deceased has been identified as a 36 year old resident of the Bevantanena.
+
+Police said that the murder had been carried out by the police and his brother due to a personal dispute with a person who had a personal dispute with a person who had a resident of the country.
+
+Two brothers and brothers have been arrested by the police, who were in the aged 40 and 44 years of the murder.
+
+◼️
+
+[Data](articles/b1b51f9f.json)
+
+[Extended Data](ext_articles/b1b51f9f.ext.json)
+
+---
 
 ### Fuel train derails at Maradana railway station
 
@@ -43,6 +69,36 @@ The derailment has reportedly caused damages to the railway platform at the stat
 ◼️
 
 [Data](articles/4a1dc01b.json)
+
+[Extended Data](ext_articles/4a1dc01b.ext.json)
+
+---
+
+### ’மீனவர்களை விடுவிக்க நடவடிக்கை வேண்டும்’
+
+*2024-08-25 08:00:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களை-விடுவிக்க-நடவடிக்கை-வேண்டும்/175-342727) · `ta`
+
+இலங்கை கடல் எல்லைக்குள் அத்துமீறிய குற்றச்சாட்டில் கைதான தமிழகத்தைச் சேர்ந்த 11 இந்திய மீனவர்களை விடுவிக்க உடனடி நடவடிக்கை எடுக்குமாறு தமிழக முதல்வர் மு.க.ஸ்டாலின் இந்திய மத்திய அரசாங்கத்திடம் கோரியுள்ளார்.
+
+இது தொடர்பான கோரிக்கை அடங்கிய கடிதத்தை இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கருக்கு, தமிழக முதல்வர் மு.க.ஸ்டாலின் அனுப்பியுள்ளார் என இந்திய ஊடகங்கள் தெரிவிக்கின்றன.  (a)
+
+◼️
+
+[Data](articles/4f6bb0d3.json)
+
+---
+
+### 35,727 டெங்கு நோயாளர்கள் பதிவு
+
+*2024-08-25 07:40:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-727-டெங்கு-நோயாளர்கள்-பதிவு/175-342726) · `ta`
+
+நாட்டில் நிலவும் மழையுடனான காலநிலை காரணமாக டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரித்து வருவதாகத் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 17 பேர் டெங்கு நோயினால் பலியாகியுள்ளதாகத் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/4b88c144.json)
 
 ---
 
@@ -317,6 +373,8 @@ Gune lived in an old house with a tiled roof and a cemented floor. I told him we
 ...
 
 [Data](articles/98c45426.json)
+
+[Extended Data](ext_articles/98c45426.ext.json)
 
 ---
 
@@ -2116,6 +2174,8 @@ Dr. Hall, speaking exclusively to The Island Financial Review highlighted the ev
 
 [Data](articles/bd7a0a5a.json)
 
+[Extended Data](ext_articles/bd7a0a5a.ext.json)
+
 ---
 
 ### World’s first plantations company chairman to receive ‘Climate Neutral Citizen’ certification
@@ -2145,73 +2205,5 @@ The stock market yesterday started off in a rather volatile manner due to certai
 [Data](articles/10eca89b.json)
 
 [Extended Data](ext_articles/10eca89b.ext.json)
-
----
-
-### M Paranitharan appointed as the new organizer of the United People's Alliance for the Kegalle District
-
-*2024-08-24 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191840) · `ta`
-
-M. Paranitharan has been named the new organizer for the United People's Alliance in the Kegalle District's Teraniyagala election. This appointment was made by Opposition Leader Sajith Premadasa on Friday (23).
-
-🟩
-
-M. Paranidharan was appointed as the new organizer of the United People's Alliance for the Teraniyagala election in Kegalle district on Friday (23).
-
-Opposition Leader Sajith Premadasa issued a letter of appointment to the new constituency organizer on Friday (23).
-
-◼️
-
-[Data](articles/fdd52d40.json)
-
-[Extended Data](ext_articles/fdd52d40.ext.json)
-
----
-
-### M Chandrakumar appointed the new organizer of the United People's Alliance
-
-*2024-08-24 01:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191839) · `ta`
-
-M Chandrakumar is now the organizer of the United People's Alliance for the Balangoda electorate in Ratnapura district, appointed by Opposition Leader Sajith Premadasa on Friday (23).
-
-🟩
-
-M Chandrakumar was appointed as the new organizer of the United People's Alliance for the Balangoda electorate in Ratnapura district on Friday (23).
-
-Opposition Leader Sajith Premadasa issued a letter of appointment to the new constituency organizer on Friday (23).
-
-◼️
-
-[Data](articles/304f950c.json)
-
-[Extended Data](ext_articles/304f950c.ext.json)
-
----
-
-### Sweet politics to protect their place and deceive state officials - Sajith Premadasa
-
-*2024-08-24 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191838) · `ta`
-
-Sajith Premadasa, the Opposition Leader, criticizes the government for its handling of poverty and state officials, promising real changes like salary increases for public servants, tax reductions, and modernization efforts. He addresses a rally, emphasizing genuine plans over false promises, and warns against attempts to create a secular society by pressuring religious rights.
-
-🟩
-
-The Opposition Leader said that he would deceive the state officials to take up a sweet politics to protect their place.
-
-So far, more than half the country has been captured by poverty and poverty, under pressure and discomfort.
-
-The United People's Power has entered the humanitarian operation to restore the entire population from poverty.
-
-Although this government has considered state officials as a loser and dilemma, state officials are now important to this government.. The reason for this is opportunism.
-
-Those who have said that public service is a loss to the country. The United People's Power does not make false promises.
-
-Doing the word.The Opposition Leader said that the United People's Power Age will be implemented with the right plans instead of false promises.
-
-...
-
-[Data](articles/30b51054.json)
-
-[Extended Data](ext_articles/30b51054.ext.json)
 
 ---

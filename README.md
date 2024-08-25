@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 10:36:59**
+As of **2024-08-25 10:55:43**
 
 ## Newspaper Stats
 
-*Scraped **42,456** Articles*
+*Scraped **42,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 2,758
 adalk | 3,909
 dailymirrorlk | 4,733
 adaderanalk | 4,982
-tamilmirrorlk | 5,517
-virakesarilk | 6,738
+tamilmirrorlk | 5,519
+virakesarilk | 6,739
 adaderanasinhalalk | 7,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,456 (100.0%) of 42,456 articles have been extended.
+42,456 (100.0%) of 42,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### ஆயர்களை சந்தித்தார் ரணில்
+
+*2024-08-25 10:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயர்களை-சந்தித்தார்-ரணில்/175-342735) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க, கத்தோலிக்க ஆயர்கள் பேரவையின் தலைவர் அருட்தந்தை ஹெரோல்ட் அந்தோனி பெரேரா, பொதுச் செயலாளர் டொன் அன்டன் ஜெயக்கொடி, கொழும்பு உதவி ஆயர் மற்றும் கத்தோலிக்க ஆயர் பேரவையின் பாதிரியார்களைச் சந்தித்து நாட்டில் தற்போது நடைபெற்று வரும் கல்வி சீர்திருத்தங்கள், ஈஸ்டர் ஞாயிறு பயங்கரவாத தாக்குதல் விசாரணைகள், சுற்றுச்சூழல் மற்றும் மத விடயங்கள் குறித்து கலந்துரையாடினார்.
+
+அத்தோடு  நாட்டின் பொருளாதாரம் மற்றும் மக்களின் வாழ்க்கைச் செலவு சவால்களுக்கு ஈடுகொடுப்தற்கான அரசாங்கத்தின் திட்டங்கள் குறித்தும் பாதிரியார்களுக்கு விளக்கமளித்தார்.
+
+◼️
+
+[Data](articles/e8ea9a54.json)
+
+---
+
+### இஸ்ரேலில்  அவசர நிலை பிரகடனம்
+
+*2024-08-25 10:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலில்-அவசர-நிலை-பிரகடனம்/50-342734) · `ta`
+
+ஹமாஸ் தலைவர் படுகொலைக்கு பதிலடி கொடுக்கும் வகையில், ஹிஸ்புல்லா தாக்குதல் நடத்தி வருவதால், அடுத்து 48 மணி நேரத்திற்கு அவசர நிலையை இஸ்ரேல் அறிவித்துள்ளது.
+
+மேற்காசிய நாடான இஸ்ரேல், பலஸ்தீனியர்கள் வசிக்கும் காசா மீது கடந்தாண்டு அக்டோபரில் இராணுவ தாக்குதல் துவக்கியது. அதை எதிர்த்து, காசாவை தங்கள் கட்டுப்பாட்டில் வைத்துள்ள ‛ஹமாஸ்' அமைப்பினர் போரிட்டு வருகின்றனர்.
+
+பலஸ்தீன மக்களுக்கும், ஹமாஸ் அமைப்புக்கும் ஆதரவாக, அண்டை நாடான லெபனானில் இருக்கும் ஈரான் ஆதரவு ஹிஸ்புல்லா அமைப்பு இஸ்ரேல் மீது தாக்குதல் நடத்தி வருகிறது.
+
+இந்நிலையில், ஹமாஸ் தலைவர் ஈரானில் கொல்லப்பட்டார். இதற்கு இஸ்ரேல் தான் காரணம் என குற்றம் சாட்டப்படுகிறது. ஹமாஸ் தலைவர் படுகொலைக்கு பதிலடி கொடுக்கும் வகையில், வடக்கு இஸ்ரேல் மீது நேற்று நள்ளிரவு முதல் ஹில்புல்லா படையினர், 70 ரொக்கெட் ஏவுகணைகளை வீசி தாக்குதல் நடத்தினர். குறிப்பாக, இஸ்ரேல் இராணுவ வீரர்கள் தங்கியிருக்கும் குடியிருப்புகள் மீது இந்த தாக்குதல் நடத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/2fb59fb9.json)
+
+---
+
+### 'நன்றி மறவது நன்றன்று ' ரிஷாட்டுக்கு பாடம் கூறிய தலதா
+
+*2024-08-25 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191899) · `ta`
+
+அவ்விடத்திற்கு வந்த ரிஷாட் பதியுதீன் 'நீங்கள் ஏன்? இவ்வாறானதொரு தீர்மானத்தை எடுத்தீர்கள்’ என்று கேள்வியெழுப்பினார்.
+
+'எனது நீண்ட உரையில் அதற்கான காரணத்தை தெளிவாக குறிப்பிட்டுள்ளேன். ஆனால் நான் உங்களுக்கு ஒரு விடயத்தை நினைவூட்ட விரும்புகின்றேன். நீங்களும் உங்கள் மனைவியும் ஆபத்தில் இருந்தபோது உங்களை பாதுகாத்தது யார் என்பதை நினைவில் கொள்ளுங்கள்' என ரிஷாட் பதியூதீனுக்கு மறுமொழியளித்த தலதா அத்துக்கோரல அங்கிருந்து வெளியேறினார்.
+
+◼️
+
+[Data](articles/a74748a2.json)
+
+---
 
 ### German police arrest suspect in stabbing rampage
 
@@ -2209,85 +2255,5 @@ Navy sources say fishermen have been arrested in the northern seas. Remble
 [Data](articles/6f3e13d4.json)
 
 [Extended Data](ext_articles/6f3e13d4.ext.json)
-
----
-
-### 2400 dengue patients in August
-
-*2024-08-24 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200265) · `si`
-
-Over 2400 dengue cases in August, mostly in Western Province and Kandy District.
-
-🟩
-
-The National Dengue Control Unit said more than 2400 dengue patients were reported during the period last year.
-
-Ms. Dr. Anoma Deepthi, Community Specialist of the National Dengue Control Unit said that the highest number of cases were reported from the Western Province and the Kandy District.
-
-◼️
-
-[Data](articles/18caf298.json)
-
-[Extended Data](ext_articles/18caf298.ext.json)
-
----
-
-### Sri Lanka scored 82 runs
-
-*2024-08-24 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200264) · `si`
-
-Sri Lanka leads England by 82 runs after 204 wickets. Kamindu Mendis scored 56, Dinesh Chandimal 20. Mark Wood injured by Chandimal's ball. Angelo Mathews top-scored with 65.
-
-🟩
-
-Sri Lanka were playing their second innings at the third day of the first Test match between Sri Lanka and England and scored 204 wickets.
-
-Accordingly, they are 82 runs ahead of England.
-
-The Kamindu Mendis who remains in the wicket scored 56 runs and Dinesh Chandimal scored 20 runs.
-
-They two of the final batsmen remaining in the Sri Lankan innings.
-
-As a result, they have the full responsibility to build Sri Lankan innings to a large large scorer.
-
-However, Chandimal is attacking a ball, along with a ball, and returned as a back.
-
-Mark Wood sent to. The thumbs of the right hand was caused by a chandimal for nearly 150 times, resulting in a scan was taken to a hospital.
-
-Angelo Mathews scored 65 runs in the second innings, with a successful innings.
-
-He scored 27 runs while any other batsman could not play more than 11 runs.
-
-Leader Dhananjaya De Silva was limited to 11 runs and Milan Ratnayake scored only a record half-century in the first innings.
-
-...
-
-[Data](articles/d72230f0.json)
-
-[Extended Data](ext_articles/d72230f0.ext.json)
-
----
-
-### Sri Lanka delays Hilton building sale until after the elections
-
-*2024-08-24 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-delays-hilton-building-sale-until-after-the-elections-177956/) · `en`
-
-ECONOMYNEXT – Sri Lanka has halted the sale of Hotel Developers (Lanka) Ltd, a state-run. company that owns the building housing Colombo Hilton, until elections are completed, the Finance Ministry said.
-
-The Finance Ministry statement said several social and mainstream media reports relating to the sale of Hilton hotel are not correct.
-
-A claim that the Government Chief Valuer has released a valuation in July 2024, which was lower than a 124 million dollars assessed in August 2024 was false, the statement said.
-
-“Furthermore, it should be noted that the divestiture of Hotel Developers (Lanka) Ltd will not be finalized until the Presidential election is completed,” the statement said.
-
-Several investors expressed initial interest in the building but only one party made a final bid.
-
-Analysts familiar with asset sales say valuation usually come in a range and they are sometimes not made public as bidders will then submit valuations at the or close to the floor price.
-
-...
-
-[Data](articles/fd777dc3.json)
-
-[Extended Data](ext_articles/fd777dc3.ext.json)
 
 ---

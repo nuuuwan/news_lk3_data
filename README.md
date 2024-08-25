@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 20:06:28**
+As of **2024-08-25 20:21:37**
 
 ## Newspaper Stats
 
-*Scraped **42,531** Articles*
+*Scraped **42,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ colombotelegraphcom | 405
 islandlk | 2,473
 economynextcom | 2,571
 dailyftlk | 2,758
-adalk | 3,920
+adalk | 3,921
 dailymirrorlk | 4,733
 adaderanalk | 4,995
 tamilmirrorlk | 5,534
-virakesarilk | 6,749
-adaderanasinhalalk | 7,280
+virakesarilk | 6,760
+adaderanasinhalalk | 7,281
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,531 (100.0%) of 42,531 articles have been extended.
+42,531 (100.0%) of 42,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### ණයවීම මිස ණය ගෙවීම ගැන සැලැස්මක් සෙසු අපේක්ෂකයන්ට නැති බව දිලිත් කියයි
+
+*2024-08-25 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200319) · `si`
+
+ජනාධිපතිවරණයට ඉදිරිපත්වී ඇති සෙසු අපේක්ෂකයින්ට ණය ගෙවීමට අවැසි ආදායම උත්පාදනයට කිසිදු උපායමාර්ගික සැලැස්මක් නොමැති බව සර්වජන අපේක්ෂක, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+ඔහු මේ බව පැවසුවේ අනුරාධපුරයේ අද (25) පැවැති ජන රැලිය අමතමිනි.
+
+සර්වජන බලයේ ජනාධිපති ධුර අපේක්ෂක, ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ජය තහවුරු කිරීම සඳහා පවත්වන ජන රැලි මාලාවේ තවත් අදියරක් අද පස්වරුවේ පැවැත්වුණේ අනුරාධපුර කඩපනහ පරිශ්‍රයේදීය.
+
+ඒ සඳහා සර්වජන බලයේ විධායක කමිටු සාමාජිකයින් ඇතුළු පිරිසක් සහභාගී විය.
+
+"දූෂණය තවත්වන්න හැමෝම කතා කරනවා දූෂණ කරමින්. මම දැක්කා ජනපති අපේක්ෂකයින්ගේ මාසික ආදායම. මට දුක හිතුනා එයාලා මාසෙකට ලක්ෂයෙන් දෙකෙන් ජීවත් වෙන්නේ. ඔයාලටත් ජීවත් වෙන්න බැරි ගානෙන් එයාලා ජීවත් වෙනවා. එයාලා කළු ආර්ථිකයේ කොටස්කරුවෝ. එක තඹ සත පහක් බදු වශයෙන් එයාලා ගෙවලා නෑ."
+
+◼️
+
+[Data](articles/037364a9.json)
+
+---
+
+### ரணிலின் அரசியல் ஆயுட்காலம் ஜனாதிபதி தேர்தலுடன் நிறைவடையும் தேசியத்துக்காக அனைவரும் எம்முடன் கைகோர்க்க வேண்டும்
+
+*2024-08-25 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191966) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அரசியல் ஆயுட்காலம் செப்டெம்பர் 21 ஆம் திகதியுடன் நிறைவடையும். தேசியத்தை கருத்திற் கொள்பவர்கள் எம்முடன் கைகோர்க்க வேண்டும். பிரதான வேட்பாளர்கள் என்று குறிப்பிட்டுக் கொள்பவர்களுடன் பகிரங்க விவாதத்துக்கு நாங்கள் தயார் என தேசிய சுதந்திர முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச தெரிவித்தார்.
+
+அநுராதபுரம். நகரில் ஞாயிற்றுக்கிழமை (25) இடம்பெற்ற சர்வஜன சக்தியின் தேர்தல் பிரச்சாரக் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ராஜபக்ஷர்கள் நாட்டுக்கு எதிராக செயற்படும் போது அதற்கு எதிர்ப்பு தெரிவித்து நாட்டுக்காக அரசாங்கத்தில் இருந்து வெளியேறி எதிர்க்கட்சியாக செயற்பட்டோம். எமக்கும் சுயநல நோக்கங்களை முன்னிலைப்படுத்தி செயற்பட முடியும்.ஆனால் ஒருபோதும் நாங்கள் அவ்வாறு செயற்படவில்லை.
+
+2019 ஆம் ஆண்டு மக்கள் வழங்கிய ஆணையை பலவீனப்படுத்தக் கூடாது என்பதற்காகவே 7 அரசியல் கட்சிகளை ஒன்றிணைத்து சர்வஜன சக்தி என்ற புதிய அரசியல் பரிணாமத்தை தோற்றுவித்துள்ளோம்.
+
+...
+
+[Data](articles/b661bd3f.json)
+
+---
+
+### சஜித், அனுரவுக்கு சவால் விடுத்த ஜனாதிபதி ரணில் விக்ரமசிங்க
+
+*2024-08-25 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191961) · `ta`
+
+மக்களுக்கு பொய் சொல்வதை  நிறுத்திவிட்டு, சர்வதேச நாணய நிதியத்துடன் இணையவழி முறையில் பகிரங்க கலந்துரையாடல் ஒன்றுக்கு வருமாறு, சஜித் பிரேமதாச மற்றும் அனுரகுமார திஸாநாயக்க ஆகியோருக்கு சவால் விடுகிறேன்.
+
+இதன் மூலம் அவர்கள் மேடைகளில் சொல்லும் விடயங்களின் உண்மைத் தன்மைமையை முழு நாட்டு மக்களும் கண்டுகொள்ள முடியும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்
+
+ஐக்கிய தேசிய கட்சி விசேட சம்மேளன கூட்டம் ஞாயிற்றுக்கிழமை (25) கட்சி தலைமையகமான சிறிகொத்தவில் இடம்பெற்றது.
+
+நாடு வீழ்ச்சியடைந்திருந்தபோது யாரும் முன்வராத காரணத்தினாலே நான் முன்வந்தேன். இலங்கை இல்லாமல் போனால் ஐக்கிய தேசிய கட்சியும் இல்லாமல்போகிறது. ஐக்கிய தேசிய கட்சியை நிர்மாணித்த டீ.எஸ். சேனாநாயக்க எமக்கு கற்றுத்தந்த விடயங்களின் அடிப்படையிலேயே நான் நாடு இல்லாமல்போகும் நிலையில் நாட்டை பாதுகாத்து கட்சியை பாதுகாக்க முன்வந்தேன். இந்த விடயங்கள் எம்மில் இருந்து சென்றவர்களுக்கு தெரியாது. அவர்களுக்கு கட்சியின் வரலாறு தெரியாது.
+
+...
+
+[Data](articles/ad79ecf5.json)
+
+---
 
 ### UN mission is concerned by Afghanistan’s morality law
 
@@ -52,6 +108,90 @@ The law sets out graduated punishments for non-compliance — from verbal warnin
 
 ---
 
+### கோவணத்தை அவிழ்த்து   தலைப்பாகை கட்டுதல்
+
+*2024-08-25 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/191953) · `ta`
+
+நமது கொள்கை என்பது நமது சமூகத்திற்கு, நாட்டுக்கு பொருத்தமான வேட்பாளருக்கு வாக்களிப்பதாக இருக்க வேண்டும். யார் ஜனாதிபதியாக வரக் கூடும் என்ற அடிப்படையில் வெற்றிபெறுபவரின் அணியில் நாமும் இருக்க வேண்டும் என்று எண்ணி வாக்களிக்கும் மனநிலைக்குள் மக்களை முஸ்லிம் கட்சிகள் தள்ளிவிடக் கூடாது.
+
+◼️
+
+[Data](articles/69c6c05b.json)
+
+---
+
+### நாமலின் பிள்ளையார் சுழி
+
+*2024-08-25 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191951) · `ta`
+
+பொதுஜன பெரமுன வழக்கமான பலத்துடன் இருந்திருந்தால் வழக்கம்போலவே,  சல்காது மைதானத்தில் முதல் பேரணி நடத்தப்பட்டிருக்கும். 2015 இல் மஹிந்த ராஜபக்ஷவும், 2019இல் கோட்டாபய ராஜபக்ஷவும், சல்காது மைதானத்தில் தான் பாரிய கூட்டங்களை நடத்தியிருந்தனர்.
+
+◼️
+
+[Data](articles/755cec17.json)
+
+---
+
+### அடுத்த கட்டத்துக்கு நகரும் பொறுப்புக்கூறல்
+
+*2024-08-25 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191949) · `ta`
+
+குற்றம்சாட்டப்பட்ட அதிகாரிகள் அரசாங்க பதவிகளில் இருந்து நீக்கப்பட வேண்டும் என்றும், நிலைமாறு கால நீதி பொறிமுறைகளில் இருந்து வெளியேற்றப்பட வேண்டும் என்றும்,  அவர்களுக்கு எதிராக சட்ட நடவடிக்கைகள் மற்றும் விசாரணைகள் முன்னெடுக்கப்பட வேண்டும் என்றும், ஐ.நா மனித உரிமைகள் ஆணையாளர் பணியகம் வலியுறுத்தியிருக்கிறது.
+
+◼️
+
+[Data](articles/0897fef6.json)
+
+---
+
+### தப்பிப் பிழைப்பாரா தாய்லாந்தின் புதிய பிரதமர்?
+
+*2024-08-25 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191950) · `ta`
+
+தாய்லாந்து அரசியலைப் புரிந்துகொள்வது மிகவும் சிரமமானது. அரச குடும்பத்தின் அங்கீகாரம் இன்றி அந்த நாட்டில் எதுவும் நிகழ்ந்துவிடாது. தவிர, இராணுவத்தின் மறைமுகக் கரம் அங்கிங்கெனாதபடி நீக்கமற நிறைந்துள்ளது.
+
+◼️
+
+[Data](articles/b2692e3e.json)
+
+---
+
+### இந்தப் பாதை எங்கே செல்லும்?
+
+*2024-08-25 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191946) · `ta`
+
+பாராளுமன்ற உறுப்பினர் அலிசாஹிர் மௌலானா தாம் ரணிலுக்கு ஆதரவு வழங்கவுள்ளதாக அறிவித்தார். பாராளுமன்ற உறுப்பினர் ஹரீஸ் சஜித்தின் பிரச்சார மேடைகளை தவிர்த்து வந்தார். எந்த வேளையிலும் ஹரீஸ் கட்சியின் தீர்மானத்திற்கு மாற்றமாக ரணிலுக்கு ஆதரவு வழங்கலாமென்ற சந்தேகத்தை ரவூப் ஹக்கீமுக்கு ஏற்படுத்தியது. இதனால், ஹரீஸை தற்காலிகமாக கட்சியிலிருந்து நீக்கியுள்ளதாகவும், ஒரு வாரத்திற்குள் தமது நிலைப்பாட்டை அறிவிக்க வேண்டுமென்றும் ஹரீஸிற்கு காலக்கெடு விதிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/aedb831d.json)
+
+---
+
+### அய­லு­றவில் சுய­நலம் - பொய்க்கும் நம்­பிக்கை :  இந்­திய – பங்­க­ளாதேஷ் நாடு­க­ளுக்கு இடை­யி­லான உறவின் யதார்த்தம்
+
+*2024-08-25 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191939) · `ta`
+
+இந்­தி­யா­விற்கும் ஹசீ­னா­விற்கும் இடை­யி­லான உறவு ஆழ­மா­னது. பங்­க­ளா­தேஷின் ஸ்தாபகத் தலை­வ­ரான ஷேக்  முஜிபுர் ரஹ்மான் 1975இல் இரா­ணுவ சதிப்­பு­ரட்­சியில் கொல்­லப்­பட்­டதை அடுத்து, ஹசீ­னாவும் அவ­ரது சகோ­த­ரியும் இந்­தி­யாவில் தஞ்சம் புகுந்­தனர். பின்னர், ஹசீனா பங்­க­ளாதேஷ் திரும்பி ஜன­நா­யக போராட்டம் நடத்­தினார். அதனைத் தொடர்ந்து, 1996 தொடக்கம் 2001ஆம் ஆண்டு பிர­த­ம­ராக கட­மை­யாற்­றினார். மீண்டும் 2009ஆம் ஆண்டு பிர­த­ம­ராகும் வாய்ப்பு ஹசீ­னா­விற்கு கிடைத்­தது
+
+◼️
+
+[Data](articles/4646c8eb.json)
+
+---
+
+### ராஜபக்ஷ பாணியில் ரணில்
+
+*2024-08-25 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191937) · `ta`
+
+ரணில் விக்­கி­ர­ம­சிங்க ஜனா­தி­ப­தி­யாக இருந்த கால­கட்­டத்தில் பொரு­ளா­தார முன்­னேற்­றங்­களை வெளிக்­காட்­டு­வ­தற்கு நட­வ­டிக்­கை­களை எடுத்­தி­ருக்­கிறார். டொலர் மதிப்பு குறைந்­தது, பொருட்­களின் விலைகள் குறைந்­தது,  சம்­பள அதி­க­ரிப்பு, போன்ற சாதா­ரண மக்­களின் பொரு­ளா­தார கரி­ச­னை­களை தீர்த்து வைப்­பதில் அக்­கறை காட்­டி­யி­ருக்­கிறார்.
+
+◼️
+
+[Data](articles/83b3cdda.json)
+
+---
+
 ### The prices of electricity, fuel and food have been completed
 
 *2024-08-25 18:24:51* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබිල--ඉන්ධන-හා-ආහාර-මිල-අඩු-කිරීමට-සැලසුම්-කර-අවසන්/11-411547) · `si`
@@ -69,6 +209,18 @@ He was speaking at the National Women's Convention in the National Women's Conve
 [Data](articles/564cc86a.json)
 
 [Extended Data](ext_articles/564cc86a.ext.json)
+
+---
+
+### தமிழ் அரசின் போலி முகம்
+
+*2024-08-25 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191927) · `ta`
+
+பிர­தான சிங்­கள வேட்­பா­ளர்­க­ளுடன் தொடர்ந்து பேச்­சுக்­களை நடத்­து­வது என்றும், அவர்­களின் தேர்தல் விஞ்­ஞா­பனம்  வெளி­யி­டப்­பட்ட பின்னர் தீர்­மானம் ஒன்றை எடுப்­பது என்றும் முடி­வெ­டுக்­கப்­பட்­டி­ருக்­கி­றது. இந்த கூட்­டத்தில் பேசப்­பட்ட விட­யங்­களும் சரி, எடுக்­கப்­பட்ட முடி­வு­களும் சரி,-  தமிழ் அரசு கட்சி பொது வேட்­பா­ளரை நோக்கி நகர்­வ­தற்­கான சாத்­தி­யத்தைக் கொண்­டி­ருக்­க­வில்லை என்­ப­தையே புலப்­ப­டுத்­து­கி­றது.
+
+◼️
+
+[Data](articles/a594579a.json)
 
 ---
 
@@ -172,6 +324,22 @@ He said that the responsibility of monitoring all the election activities, inclu
 
 ---
 
+### தமிழ் மக்களுக்கு காலம் இட்ட கட்டளையே பொது வேட்பாளர் - ஐங்கரநேசன்
+
+*2024-08-25 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191930) · `ta`
+
+முள்ளிவாய்க்கால் யுத்தத்தின் முடிவு வரைக்கும் தமிழ்த் தேசிய உணர்வோடு தேசமாகத் திரண்டிருந்த தமிழ் மக்கள் யுத்தத்தின் பின்னர் சிதறடிக்கப்பட்டார்கள். அரசின் திட்டமிட்ட நிகழ்ச்சி நிரலில் பிரதேசம், சாதியம், சமயமாக தமிழ்த் தேசியம் துண்டாடப்பட்டு வருகிறது. இவற்றால் அரசியல் ரீதியாகத் தமிழினம் மிகவும் பலவீனமாகத் பின்தள்ளப்பட்டுள்ளது என தமிழ்த் தேசிய பசுமை இயக்கத்தின் தலைவர் பொ. ஐங்கரநேசன் தெரிவித்தார்.
+
+இதனைக் கருத்திற்கொண்டே  தமிழ் மக்களைத் தேசமாக மீண்டும் திரளச் செய்து அரசியல் அபிலாசைகளை ஒரே குரலில் வெளிப்படுத்தும் நோக்குடன் ஜனாதிபதித் தேர்தலில் தமிழ்  பொதுவேட்பாளர் நிறுத்தப்பட்டுள்ளார். இந்த முடிவு காலம் இட்ட கட்டளை என்றும் அவர்   சுட்டிக்காட்டியுள்ளார்.
+
+ஜனாதிபதித் தேர்தலில் தமிழ்ப் பொதுவேட்பாளராக போட்டியிடும் பா. அரியநேத்திரனுக்கும் கூட்டுறவு அமைப்புகளின் பிரதானிகளுக்கும் இடையிலான கலந்துரையாடல் நேற்று சனிக்கிழமை (24) நல்லூர் திவ்ய ஜீவன மண்டபத்தில் நடைபெற்றது. இதற்குத் தலைமை வகித்து உரையாற்றியபோதே பொ. ஐங்கரநேசன் இவ்வாறு சுட்டிக்காட்டியுள்ளார்.
+
+...
+
+[Data](articles/9447d115.json)
+
+---
+
 ### Two public health inspectors killed
 
 *2024-08-25 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200317) · `si`
@@ -193,6 +361,26 @@ The deaths on the body will be held tomorrow (26) and the Iththapana Police are 
 [Data](articles/c7296cf2.json)
 
 [Extended Data](ext_articles/c7296cf2.ext.json)
+
+---
+
+### සමස්ථ ඡන්ද ප්‍රතිශතයෙන් සියයට 40ක් පමණ සෘජුවම ජනාධිපති රනිල්ට
+
+*2024-08-25 17:45:52* · [`adalk`](https://www.ada.lk/breaking_news/සමස්ථ-ඡන්ද-ප්‍රතිශතයෙන්-සියයට-40ක්-පමණ-සෘජුවම-ජනාධිපති-රනිල්ට/11-411545) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී රටේ සමස්ථ ඡන්ද ප්‍රතිශතයෙන් සියයට 40ක් පමණ සෘජුවම ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් ප්‍රකාශවන බවත් ඉතිරි සියයට 60ක ඡන්ද ප්‍රතිශතය විපක්ෂයේ අපේක්ෂකයන් වෙනුවෙන් ප්‍රකාශවන බවත් ආණ්ඩු පක්ෂය ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා සඳහන් කරයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හැරුණුවිට මෙවර ජනාධිපතිවරණයට අපේක්ෂකයන් 37 දෙනෙකු ඉදිරිපත්වන බව කී අමාත්‍යවරයා විපක්ෂයට වෙන්වන සියයට 60ක ඡන්ද ප්‍රතිශතය විපක්ෂයේ සියලුම අපේක්ෂකයන් අතර බෙදීයනු ඇති බවයි.
+
+විපක්ෂයේ සියලුම  අපේක්ෂකයන් අතර සියයට 60ක ඡන්ද ප්‍රතිශතයක් බෙදීයනවිට ඔවුන්ට සියයට 20ට වඩා වැඩි ඡන්ද ප්‍රතිශතයක් ලබාගත නොහැකිවනු ඇතැයිද අමාත්‍යවරයා මෙහිදී අවධාරණය කළේය.
+
+ඒ අනුව ප්‍රතිවාදී කිසිඳු අපේක්ෂකයකුට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබාගන්නා ඡන්ද ප්‍රතිශතය අසලට ඒමට නොහැකිවනු ඇතැයිද අමාත්‍යවරයා විශ්වාසය පළ කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය වෙනුවෙන්  සිකුරාදා (23) බදුල්ල ප්‍රාදේශයේ පැවති ජනහමුවකට එක්වෙමින් අමාත්‍යවරයා මේ බව සදහන් කළේය.
+
+◼️
+
+[Data](articles/d338effc.json)
 
 ---
 
@@ -2043,273 +2231,5 @@ Indian Foreign Minister S.. Indian media reports that Tamil Nadu Chief Minister 
 [Data](articles/4f6bb0d3.json)
 
 [Extended Data](ext_articles/4f6bb0d3.ext.json)
-
----
-
-### 35,727 dengue patients registered
-
-*2024-08-25 07:40:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-727-டெங்கு-நோயாளர்கள்-பதிவு/175-342726) · `ta`
-
-Dengue cases surge: 35,727 patients registered, 17 deaths reported. Rainy season blamed for increase.
-
-🟩
-
-The National Dengue Control Unit said the number of dengue patients is increasing due to the prevailing rainy weather in the country.
-
-According to the National Dengue Control Division, 17 people have died of dengue during this year.. (A)
-
-◼️
-
-[Data](articles/4b88c144.json)
-
-[Extended Data](ext_articles/4b88c144.ext.json)
-
----
-
-### Train deletes in Maradana
-
-*2024-08-25 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200293) · `si`
-
-Maradana train derailment: Fuel train severely damaged at station.
-
-🟩
-
-A train derailed at Maradana Railway Station this morning (25).
-
-A fuel train has been derailed and has been severely damaged by the train platform.
-
-◼️
-
-[Data](articles/c788d5ed.json)
-
-[Extended Data](ext_articles/c788d5ed.ext.json)
-
----
-
-### Fatal accidents that have been killed
-
-*2024-08-25 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200292) · `si`
-
-Three fatal accidents reported in Sri Lanka over 24 hours: two three-wheelers and one motorcycle crash. Three deaths and one injury recorded. Investigations ongoing.
-
-🟩
-
-In several areas of several areas during the past 24 hours, three others were killed.
-
-The accidents occurred yesterday (24), the accidents had occurred, Nochchiyagama and Habarana Police Divisions.
-
-A three-wheeler in the Jaffna-Kankesanthurai road, a three-wheeler was unable to control the road.
-
-A small boy who was traveling with the mother of the three-wheeler was injured and admitted to the Tipppela Hospital.
-
-The deceased has been identified as a small boy who was residing in the Puttalam area in the Puttalam area.
-
-Meanwhile, the motorcyclist has died in a motorcycle on the Nezagallutuwa area on the Nochchiyagama-Culture road.
-
-The deceased has been identified as a 32 year old resident of Ambagahawewa, Ambagahawewa.
-
-Meanwhile, a man has fled a unidentified vehicle in the Moragaswewa area on the Polonnaruwa-Habarana road.
-
-Habarana Police are conducting further investigations to arrest the suspect and the vehicle.
-
-◼️
-
-[Data](articles/b43d41a6.json)
-
-[Extended Data](ext_articles/b43d41a6.ext.json)
-
----
-
-### Several spells of light showers expected in parts of the island
-
-*2024-08-25 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101474/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorological Department says that several spells of showers will occur in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts today (25).
-
-Meanwhile, showers or thundershowers may occur at several places in Eastern and Uva Provinces during the evening or night, the Met. Department added.
-
-Fairly strong winds about 30-40 kmph can be expected at times over Northern, North-central and North-western provinces and in Hambantota and Trincomalee districts, according to the department.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/d3b343c7.json)
-
-[Extended Data](ext_articles/d3b343c7.ext.json)
-
----
-
-### Weather today
-
-*2024-08-25 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200291) · `si`
-
-Weather forecast: closures in Western, Sabaragamuwa, Southern, North-Western provinces. Thundershowers in East, Uva provinces. Strong winds 30-40 mph. Thunderstorm precautions advised.
-
-🟩
-
-The Department of Meteorology says that several closure will occur in the Western, Sabaragamuwa, Southern and North-Western provinces.
-
-Thundershowers will develop at several places in the East and Uva provinces during the evening or night.
-
-From time to time in the Northern, North Central and Northwestern districts, Hambantota and Trincomalee Districts. Strong winds are about 30-40 times.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/7554adc9.json)
-
-[Extended Data](ext_articles/7554adc9.ext.json)
-
----
-
-### 'Milk Poya' between Gin River and Bentara River
-
-*2024-08-25 03:39:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2e5e033nxo) · `si`
-
-Sri Lanka's Milk Poya celebration combines religious and cultural traditions. It takes place on Esala Poya Day, celebrating the Hindu-Sinhalese New Year. Villagers prepare traditional foods, perform rituals, and participate in cultural events. The festival honors Pattini, Kataragama, and other deities.
-
-🟩
-
-Not only does each religious and communities, but also the unique customs of each region of Sri Lanka.
-
-Milk Poya is such a celebration that celebrates only a part of the Esala Poya.
-
-It is simply called a cultural feast beyond customs.
-
-According to information on this special pop, which celebrates one part of the Southern Province, we were traveling to Ahangla.
-
-We knew that these customs were carried out annually on the Esala Poya Day in Ahungalla, Balapitiya.
-
-The event, known as 'Milk Poya' is the Sinhala-Hindu New Year and the people living in the area.
-
-When you reach our destination, we were able to see the lips outside the householes and home housewives in the home household.
-
-Well food prepared by coconut corners, sugar or jaggery, drying, and nuts. It is an indelible food in milk that is held in many areas.
-
-The householders cooked for us for the evening of the evening Poya customs to the evening.
-
-...
-
-[Data](articles/34825f2d.json)
-
-[Extended Data](ext_articles/34825f2d.ext.json)
-
----
-
-### SLT-MOBITEL reports moderate growth in 1H 2024
-
-*2024-08-25 02:08:00* · [`islandlk`](http://island.lk/slt-mobitel-reports-moderate-growth-in-1h-2024/) · `en`
-
-SLT-MOBITEL, the National ICT Solutions Provider, reported moderate revenue growth in the first half of 2024, demonstrating resilience and adaptability in a challenging market. The Group’s revenue reached Rs. 53.5 billion, a 1.6% increase compared to the same period in 2023, while gross profit rose by 4% to Rs. 20.9 billion, with an improved gross profit margin of 39%. Despite market challenges such as customer churn and reduced demand for new connections, SLT-MOBITEL’s EBITDA increased by 17.1% to Rs. 18.0 billion, and operating profit surged by 54.5% to Rs. 3.6 billion. The Group also benefited from a 19.5% reduction in finance costs, contributing to a narrower net loss of Rs. 323 million compared to Rs. 1,159 million in 1H 2023.
-
-...
-
-[Data](articles/08a0dd33.json)
-
-[Extended Data](ext_articles/08a0dd33.ext.json)
-
----
-
-### Megakem Engineering expands with new showrooms
-
-*2024-08-25 02:05:00* · [`islandlk`](http://island.lk/megakem-engineering-expands-with-new-showrooms/) · `en`
-
-Megakem Engineering Private Limited has expanded their business by opening two new showrooms under the “MEGAKEM” brand. The new showroom in Gampaha and the rebranded showroom in Rajagiriya are significant milestones in the company’s growth strategy. In addition, Megakem has introduced its newly rebranded waterproofing solution, MEGAKEM MEGALASTIC SUPER 540. Lauded for its superior quality and performance, this product is endorsed with the tagline, “Most Recommended Waterproofing Product by Engineers,” setting new industry benchmarks. The grand opening events were graced by Ashoka Siriwardena, Group Chairman, alongside the Board of Directors, management team, employees, and esteemed distributors. These milestones underscore Megakem Engineering’s unwavering commitment to innovation, quality, and customer satisfaction.
-
-Hayleys PLC retains credit rating of AAA(lka) by Fitch Ratings showcasing financial strength and resilience
-
-...
-
-[Data](articles/47e1edd5.json)
-
-[Extended Data](ext_articles/47e1edd5.ext.json)
-
----
-
-### CEAT Kelani Holdings supports schoolchildren in Monaragala with essential supplies
-
-*2024-08-25 02:03:00* · [`islandlk`](http://island.lk/ceat-kelani-holdings-supports-schoolchildren-in-monaragala-with-essential-supplies/) · `en`
-
-School children from a rubber farming community in Sri Lanka’s Monaragala District have recently benefited from a social responsibility initiative by CEAT Kelani Holdings, a major domestic consumer of the country’s natural rubber. The company provided 120 students from the Vidyartha Maha Vidyalaya in Nakkala with school bags, shoes, and exercise books, continuing its support for key stakeholder groups.
-
-CEAT Kelani Holdings, which produces half of Sri Lanka’s pneumatic tyres, sources all its natural rubber from local producers who support around 10,000 cultivating families. Earlier this year, the company also distributed school supplies to students at schools in Matugama, Kuruwita, and Elpitiya.
-
-...
-
-[Data](articles/1795cf11.json)
-
-[Extended Data](ext_articles/1795cf11.ext.json)
-
----
-
-### Nurturing Tomorrow’s Leaders: COYLE Launches the Young Lankan’s Program
-
-*2024-08-25 01:52:00* · [`islandlk`](http://island.lk/nurturing-tomorrows-leaders-coyle-launches-the-young-lankans-program/) · `en`
-
-The Chamber of Young Lankan Entrepreneurs (COYLE) last week announced the launch of its latest initiative, the Young Lankan’s program.
-
-“This youth development project is designed to foster entrepreneurship among the next generation, empowering young minds across Sri Lanka to become the driving force behind the nation’s economic growth. As the world rapidly evolves, COYLE recognizes the need to invest in the youth of today to secure a prosperous future for tomorrow,” a COYLE news release said.
-
-...
-
-[Data](articles/34e3cab4.json)
-
-[Extended Data](ext_articles/34e3cab4.ext.json)
-
----
-
-### John Keells CG Auto opens BYD showroom & service center: Launches Plug-in Hybrid BYD SEALION 6 DM – i
-
-*2024-08-25 01:51:00* · [`islandlk`](http://island.lk/john-keells-cg-auto-opens-byd-showroom-service-center-launches-plug-in-hybrid-byd-sealion-6-dm-i/) · `en`
-
-John Keells CG Auto, the authorized distributor for BYD passenger vehicles in Sri Lanka, proudly opened the doors of the BYD showroom and the service center in Colombo with the launch of the Plug-in Hybrid BYD SEALION 6 DM – I, a JKH news release said.
-
-The grand opening ceremony, held at the showroom situated at 447, Union Place, Colombo 02, was attended by prominent dignitaries including BYD Auto Industry Co. Ltd, General Manager of Asia – Pacific Auto Sales Division, Liu Xueliang, Chairperson of the John Keells Group, Krishan Balendra and CG Corp Global Managing Director Nirvana Kumar Chaudhary.
-
-...
-
-[Data](articles/2edfecaa.json)
-
-[Extended Data](ext_articles/2edfecaa.ext.json)
-
----
-
-### Hayleys PLC retains credit rating of AAA(lka) by Fitch Ratings showcasing financial strength and resilience
-
-*2024-08-25 01:49:00* · [`islandlk`](http://island.lk/hayleys-plc-retains-credit-rating-of-aaalka-by-fitch-ratings-showcasing-financial-strength-and-resilience/) · `en`
-
-Hayleys PLC retained its national long-term rating of ‘AAA(lka)’ by Fitch Ratings, attesting to the Group’s strong financial stability and resilient earnings profile. The outlook on the rating is stable, a news release from the company said.
-
-The rating is upheld by the Group’s extensive operating scale, diversification across business verticals and geographies and globally leading market positions in several key businesses, which have enabled the Group to generate sustainable operating cash flows despite temporary headwinds.
-
-The Group also delivered an impressive performance over the first quarter of the financial year ending 31st March 2025, recording Revenue and Profit-Before-Tax growth of 17% and 150% respectively.
-
-Consolidated Revenue amounted to Rs.113.61 bn during the quarter with growth driven by the Consumer & Retail (+52%), Transportation & Logistics (+25%), Projects & Engineering (+125%) and Construction Materials (+47%) sectors, the release added.
-
-...
-
-[Data](articles/8a9aaeb0.json)
-
-[Extended Data](ext_articles/8a9aaeb0.ext.json)
-
----
-
-### Men of note from the minorities
-
-*2024-08-25 01:36:00* · [`islandlk`](http://island.lk/men-of-note-from-the-minorities/) · `en`
-
-I was born at the very end of the nineteenth century and in my eightieth year I can look back on the careers of some of the prominent minority leaders about whom I shall say something in this article.
-
-The names that come to mind include the brothers Ponnambalam Ramanathan and Ponnambalam Arunachalam and their kinsmen, Dr. Ananda Coomaraswamy and Sir Muttu Coomaraswamy. They came from the same highly educated and successful families of Jaffna.
-
-Sir Ponnambalam Ramanathan had held the office of Solicitor-General under British rule and often acted as Attorney-General, a post reserved for officers recruited from abroad. He was a polished speaker, though in his old age he was inclined to be somewhat long-winded.
-
-...
-
-[Data](articles/7bcbd4e1.json)
-
-[Extended Data](ext_articles/7bcbd4e1.ext.json)
 
 ---

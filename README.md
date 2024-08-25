@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 14:08:00**
+As of **2024-08-25 14:21:33**
 
 ## Newspaper Stats
 
-*Scraped **42,495** Articles*
+*Scraped **42,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,80 @@ economynextcom | 2,571
 dailyftlk | 2,758
 adalk | 3,914
 dailymirrorlk | 4,733
-adaderanalk | 4,988
+adaderanalk | 4,989
 tamilmirrorlk | 5,527
 virakesarilk | 6,744
-adaderanasinhalalk | 7,269
+adaderanasinhalalk | 7,270
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,493 (100.0%) of 42,495 articles have been extended.
+42,495 (100.0%) of 42,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### ඡන්ද කාඩ්පත් බෙදාහැරීම ගැන දැනුම්දීමක්
+### සියලු බදු තොරතුරු හෙට හෙළි කෙරේ
+
+*2024-08-25 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200306) · `si`
+
+බදු පිළිබඳ සියලු තොරතුරු හෙට (26) දිනයේදී හෙළිදරව් කිරීමට කටයුතු කරන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+අමාත්‍යවරයා පවසන්නේ මෙම වකවානුව තුළ හිඟ බදු අය කරගනිමින් රාජ්‍ය ආදායම වැඩිකර ගැනීමට කටයුතු කළ බවය.
+
+හිඟ බදු අය කරගැනීම සඳහා බැංකු ගිණුම් 900ක් පමණ මේ වනවිට නවත්වා ඇති අතර එම හිඟ බදු මුදල් අය කරගැනීමට පියවර ගනිමින් සිටින බවද රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+ඒ අනුව සඳුදා (26) දිනයේදී බදු පිළිබඳ සියලු තොරතුරු මාධ්‍ය වෙත හෙළි කිරීමට කටයුතු කරන බවත් රාජ්‍ය අමාත්‍යවරයා තවදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/0e3cf106.json)
+
+---
+
+### 2024 Presidential Election: Notice issued on ballot papers for postal voting
+
+*2024-08-25 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101487/2024-presidential-election-notice-issued-on-ballot-papers-for-postal-voting-) · `en`
+
+The Postal Department will tomorrow (26) receive the reserved packet containing the registered postal vote ballot papers to be sent to the postal voters of the 2024 presidential election.
+
+Meanwhile, distribution of official polling cards for the forthcoming Presidential Election will commence on September 03, while September 08 (Sunday) has been designated as a special day for polling card distribution.
+
+In the meantime, Deputy Postmaster General Rajitha Ranasinghe announced this morning (25) that the leave of all employees of the Department of Posts have been cancelled with immediate effect until the conclusion of the 2024 Presidential Election.
+
+The decision was made to ensure that all election-related responsibilities are adequately managed, he said.
+
+However, any postal worker requiring leave for essential reasons would have to obtain permission from the Deputy Postmaster General in charge of their province, he added.
+
+...
+
+[Data](articles/2ddc336e.json)
+
+---
+
+### Notice on the distribution of polling cards
 
 *2024-08-25 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200305) · `si`
 
-2024 සැප්තැම්බර් 21 පැවැත්වීමට නියමිත ජනාධිපතිවරණයේ තැපැල් ඡන්දදායකයින් සඳහා යැවෙන ලියාපදිංචි තැපැල් ඡන්ද පත්‍රිකා අඩංගු රක්ෂිත පැකැට්ටුව භාර ගැනීමේ කටයුතු හෙට (26) දිනයේ සිදුකිරීමට සැලසුම් කර තිබේ.
+Presidential election postal ballots distributed Sept 3. Postal workers on leave until election ends. Holidays approved only for illness or special occasions.
 
-එමෙන්ම ඡන්ද කාඩ්පත් බෙදාහැරීමේ කටයුතු සැප්තැම්බර් 03 වනදා ඇරඹෙන අතර සැප්තැම්බර් 08 විශේෂ දිනයක් සේ සලකා එම බෙදාහැරීම් කටයුතු සිදු කෙරෙනු ඇත.
+🟩
 
-මෙම කටයුතු හේතුවෙන් ජනාධිපතිවරණය අවසන් වනතුරු තැපැල් දෙපාර්තමේන්තුවේ සියලුම සේවකයින්ගේ නිවාඩු වහාම ක්‍රියාත්මක වනපරිදි අවලංගු කෙරෙන බව නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා සඳහන් කළේය.
+The presidential election papers sent to the postal ballot packets of the presidential election is scheduled to be held tomorrow (26).
 
-එහිදී අසනීප තත්ත්වයක් හෝ විශේෂ අවස්ථාවක් සඳහා පමණක් පළාත් නියෝජ්‍ය තැපැල්පතිවරයාගේ අනුමැතිය යටතේ නිවාඩු ලබා ගත හැකි බව නියෝජ්‍ය තැපැල්පතිවරයා පැවසීය.
+The distribution of the ballot cards begins on September 3 while the distribution will be taken as a special day.
+
+According to the end of the post of Postal Department, all the employees of the Postal Department will be canceled immediately until the presidential election will be canceled.
+
+The Deputy Postrent said that holidays can be obtained under the approval of the provincial deployment alone for an illness or special occasion.
 
 ◼️
 
 [Data](articles/2a33310b.json)
+
+[Extended Data](ext_articles/2a33310b.ext.json)
 
 ---
 
@@ -464,21 +508,27 @@ Addressing a public rally held in Balangoda, the NPP leader also explained how t
 
 ---
 
-### ලෝක සාම සම්මානය ලංකාවේ සිසුවියකට
+### Student award for a Sri Lankan student
 
 *2024-08-25 11:15:21* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-සාම-සම්මානය-ලංකාවේ-සිසුවියකට/11-411538) · `si`
 
-ජපානයේ හිරෝෂිමා ආයතනය මගින්  ළමයින් සදහා වන සාම සමුළුවේ දී ලෝක සාමය වෙනුවෙන් පැවති කථික තරගයේ දී එයට සහභාගී වූ ලොව අනෙකුත් රටවල් පරදා , ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ  කවීෂි යශෝධරා දිවානන්ද සිසුවිය පැවැත්වු කතාවට ලෝක සාම සම්මානය ( World Peaceful Award ) දිනා ගෙන 08/24 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය .
+Sri Lankan student wins Student Award at Hiroshima speech convention. Represents Sri Lanka at World Peace Summit. Flies to Hong Kong on Cathay Pacific. Parents attend Bandaranaike International Airport.
 
-ඇය වේයන්ගොඩ බණ්ඩාරනායක මධ්‍ය විද්‍යාලයේ 10 ශ්‍රේණියේ  ඉගෙනුම ලබන සිසුවියකි. මෙම සමුළුව ජපානයේ ටෝකියෝ නුවර ඉකුත් 08/20 දින පවත්වා තිබූ අතර එහිදී ඇය ලෝක සාම නියෝජිතවරියක ලෙස ද පත් කර තිබුණි.
+🟩
 
-ඇය 08/24 දින රාත්‍රී  11.35 ට හොංකොං සිට කැතේ ෆැසිපික් ගුවන් සේවයේ සී.එක්ස්.- 611 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියාය.
+Hiroshima's speech convention in the Sahanashiya, who participated in the Kidhihi, who participated in the Kidhi and the Sri Lanka, won the World Peaceful Award, who participated in the talks for the children's Peace Summit in the Peace Summit.The night came to the Katunayake airport.
 
-ඇය පිළිගැනීම සදහා ඇයගේ දෙමාපියන් , ඇයගේ පාසැලේ ගුරු භවතුන් පිරිසක් ද කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තය වෙත පැමිණ සිටියහ.
+She is a Grade 10 student of the Bandaranaike Midnayake College Veyangoda. The conference was held on the 8/20 of Japan, where she was also appointed as a World Peace Representative.
+
+She at Hong Kong to 11.24 pm on Hong Kong from Hong Kong to the Cathay Faccik Airlines.
+
+Her parents, her parents were present at the Bandaranaike International Airport.
 
 ◼️
 
 [Data](articles/4603ee67.json)
+
+[Extended Data](ext_articles/4603ee67.ext.json)
 
 ---
 
@@ -2207,55 +2257,5 @@ The National Dengue Control Division has reported that the highest number of pat
 [Data](articles/cf2b3649.json)
 
 [Extended Data](ext_articles/cf2b3649.ext.json)
-
----
-
-### Modi reveals at Ukraine
-
-*2024-08-24 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200279) · `si`
-
-Narendra Modi visits Ukraine, discusses Russian conflict, invites President to India for strategic partnership.
-
-🟩
-
-Indian Prime Minister Narendra Modiyya, Russian - Ukrainian war, the children of Ukrainian war and watch the Mahatma Gandhi, the capital city of Kiev Gandhi, the capital city of Kayvey.
-
-Modi's visit is considered by India after the independence of the Soviet Union of Soviet Union in 1991
-
-Foreign media has held bilateral discussions between Prime Minister Modi and President Selenski.
-
-Russian - Ukrainian conflicts have been the leading conflict in the discussions between leaders.
-
-Prime Minister Modernian President insist in Prime Minister Modernian President to hold a diplomatic discussion with Russian President Putin.
-
-It emphasizes that conflicts cannot be resolved at the war.
-
-Indian Prime Minister Narendra Modi has invited the President of Ukrainian President Selenceki to visit India.
-
-Comment on the meeting, Selenceky said that Selenceky said that the two countries should develop strategic partnership between the two countries.
-
-...
-
-[Data](articles/97e0ec42.json)
-
-[Extended Data](ext_articles/97e0ec42.ext.json)
-
----
-
-### Sri Lanka signs education cooperation agreement with Vietnam
-
-*2024-08-24 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101469/sri-lanka-signs-education-cooperation-agreement-with-vietnam) · `en`
-
-The Deputy Minister of Education and Training of Vietnam Prof. Nguyen Van Phuc, along with the Ambassador of Sri Lanka to Vietnam, Dr. A. Saj U. Mendis has signed the Education Cooperation Agreement between the two countries for the period of 2024 to 2026.
-
-The Agreement was initially signed in 1999 and was periodically extended as it served as a predominant framework focused on advancement of collaboration in the sphere of education and training, mostly for Sri Lankan students, researchers and academics, amongst others. The Agreement was inked at the Ministry of Education and Training in Hanoi, Vietnam, the Embassy of Sri Lanka in Vietnam said in a statement.
-
-The Agreement is all-encompassing since it facilitates exchange of information relating to the development and innovation, cooperation between universities and academic institutions between the two countries, exchanges of academics, collaborative research and scholarships for students on long-term basis.
-
-...
-
-[Data](articles/314d9032.json)
-
-[Extended Data](ext_articles/314d9032.ext.json)
 
 ---

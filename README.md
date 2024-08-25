@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 09:56:19**
+As of **2024-08-25 10:09:23**
 
 ## Newspaper Stats
 
-*Scraped **42,447** Articles*
+*Scraped **42,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,170 @@ colombotelegraphcom | 405
 islandlk | 2,473
 economynextcom | 2,570
 dailyftlk | 2,758
-adalk | 3,908
+adalk | 3,909
 dailymirrorlk | 4,733
-adaderanalk | 4,980
-tamilmirrorlk | 5,513
-virakesarilk | 6,737
+adaderanalk | 4,982
+tamilmirrorlk | 5,516
+virakesarilk | 6,738
 adaderanasinhalalk | 7,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,446 (100.0%) of 42,447 articles have been extended.
+42,447 (100.0%) of 42,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### ජර්මනියේ ත්‍රිත්ව ඝාතන සිද්ධියේ ප්‍රධාන සැකකරු හසුවෙයි
+### German police arrest suspect in stabbing rampage
+
+*2024-08-25 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101477/german-police-arrest-suspect-in-stabbing-rampage) · `en`
+
+A man suspected of a stabbing rampage in the western German town of Solingen has been taken into police custody, a state official told German television on Saturday, some 24 hours after the attack that killed three people.
+
+North Rhine-Westphalia’s interior minister Herbert Reul told the ARD broadcaster that he was “a bit relieved” after authorities spent the day following a “hot lead” that lead to the arrest.
+
+The Islamic State group earlier claimed responsibility for Friday’s knife attack that also wounded eight people.
+
+Police spent the day conducting a manhunt, making two arrests that were likely not the perpetrator, Reul said.
+
+“The real suspect is the one that we’ve arrested just now,” he said. The individual is being questioned and evidence was seized, he said.
+
+Reul said the man was affiliated with a home for refugees that had been searched earlier in the day.
+
+...
+
+[Data](articles/16466af5.json)
+
+---
+
+### President Ranil meets with Catholic Bishops’ Conference for wide-ranging talks
+
+*2024-08-25 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101478/president-ranil-meets-with-catholic-bishops-conference-for-wide-ranging-talks) · `en`
+
+President Ranil Wickremesinghe has met with President of the Catholic Bishops’ Conference, Bishop Harold Anthony Perera and other members of the conference to discuss various critical issues.
+
+The President’s Media Division (PMD) reported that the discussion focused on topics including education reforms, the investigation into the Easter Sunday terror attacks, environmental concerns, and matters related to the Catholic Church.
+
+During the meeting, the President also provided an update on the economy and the government’s plans to tackle the challenges related to the cost of living.
+
+◼️
+
+[Data](articles/3a48beef.json)
+
+---
+
+### டெலிகிராம் நிறுவனர் கைது
+
+*2024-08-25 09:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டெலிகிராம்-நிறுவனர்-கைது/50-342732) · `ta`
+
+‘டெலிகிராம்’ சமூக வலைதளத்தின் நிறுவனர் பாவல் துரோவ், பாரிசில் அதிரடியாக கைது செய்யப்பட்டுள்ளார்.
+
+சமூக வலைதளங்களில் பேஸ்புக், டுவிட்டர் போன்று முக்கிய செயலியாக அறியப்படுவது டெலிகிராம். துபாயை அடிப்படையாக கொண்டு இயங்கி வரும் இந்த செயலியை ரஷ்ய நாட்டைச் சேர்ந்த பாவல் துரோவ் என்பவர் நிறுவினார். இவர், பிரான்ஸ், ஐக்கிய அரபு எமிரேட்ஸ் ஆகிய நாடுகளின் இரட்டை குடியுரிமையை பெற்றவர்.
+
+டெலிகிராம் ஆப்பை மேம்படுத்தாமல் பணமோசடி, போதை பொருள் கடத்தல் போன்ற குற்றச்செயல்கள், ஆபாச மற்றும் பாலுணர்வைத் தூண்டும் வகையில் பதிவுகள் வெளியிட உடந்தையாக இருந்தது போன்ற புகார்களினால் பிரான்ஸ் கைது வாரண்ட் பிறப்பித்து இருந்தது.
+
+இந்நிலையில், அஸர்பைஜானில் இருந்து தனி விமானம் மூலம் செல்லும் போது பாரிஸ் அருகே உள்ள பொர்காட் விமான நிலையத்தில் வைத்து பாவல் துரோவை அதிகாரிகள் அதிரடியாக கைது செய்துள்ளனர். ஆனால் அவரது கைது விவரம் குறித்து பிரான்ஸ் தரப்பில் எவ்வித அதிகாரப்பூர்வ அறிவிப்பும் இதுவரை வெளியிடப்படவில்லை.
+
+...
+
+[Data](articles/193b6e1a.json)
+
+---
+
+### மன்னார் இளம் தாய் சிந்துஜாவின் கணவரும் திடீர் மரணம்
+
+*2024-08-25 09:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-இளம்-தாய்-சிந்துஜாவின்-கணவரும்-திடீர்-மரணம்/72-342731) · `ta`
+
+மன்னார் வைத்தியசாலையில் அண்மையில் உயிரிழந்த இளம் தாய் சிந்துஜாவின் கணவர் எஸ் .சுதன் (26 வயது) அவரது சொந்த ஊரான வவுனியா பனிக்கர் புளியங்குளத்தில் நேற்று இரவு தவறான முடிவெடுத்து மரணமடைந்துள்ளார்.
+
+மன்னார் வைத்தியசாலையில் அண்மையில் இளம் தாய் ஒருவர் குழந்தை பெற்ற நிலையில் சில நாட்களின் பின்னர் அதிக இரத்த போக்கால் மீண்டும் மன்னார் வைத்தியசாலைக்கு சென்ற போது அங்கு வைத்தியசாலை ஊழியர்களால் கவனிக்கப்படாத நிலையில் உயிரிழந்ததாக  தெரிவிக்கப்பட்டு பெரும் சர்ச்சை ஏற்பட்டு இருந்தது.
+
+இந்நிலையில் அவருடைய கணவர் தனது சொந்த ஊரான வவுனியா பனிக்கர் புளியங்குளத்தில் வசித்து வந்திருந்தார்.
+
+இந்த நிலையில் நேற்றைய தினம் இரவு தவறான முடிவெடுத்து உயிரை மாய்த்த நிலையில் வவுனியா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில் அவர் உயிரிழந்ததாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/9892a58c.json)
+
+---
+
+### அஞ்சல் பணியாளர்களின் விடுமுறை உடன் அமுலாகும் வகையில் இரத்து
+
+*2024-08-25 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191902) · `ta`
+
+ஜனாதிபதித் தேர்தல் நிறைவடையும் வரையில் சகல அஞ்சல் பணியாளர்களின் விடுமுறைகளும் உடன் அமுலாகும் வகையில் இரத்துச் செய்யப்பட்டுள்ளதாக பிரதி அஞ்சல் மா அதிபர் ராஜித ரணசிங்க அறிவித்துள்ளார்.
+
+ஜனாதிபதி தேர்தல் தொடர்பான செயற்பாடுகளை கருத்திற்கொண்டு அவர்களின் விடுமுறையை இரத்து செய்ய தீர்மானிக்கப்பட்டுள்ளதாக பிரதி அஞ்சல்மா அதிபர் தெரிவித்துள்ளார்.
+
+மேலும், அத்தியாவசிய காரணங்களுக்காக விடுமுறை எடுக்க வேண்டுமாயின் மாகாணத்திற்குப் பொறுப்பான பிரதி அஞ்சல்மா மா அதிபரின் அனுமதியைப் பெற்றுக்கொள்ள வேண்டுமென பிரதி அஞ்சல்மா அதிபர் ராஜித ரணசிங்க தெரிவித்துள்ளார்
+
+◼️
+
+[Data](articles/b2e9dd39.json)
+
+---
+
+### The main suspect in the Trinity murder in Germany is caught
 
 *2024-08-25 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200296) · `si`
 
-ජර්මනියේ සොලින්ජන් නගරයේ සිදුවූ ත්‍රිත්ව ඝාතනයට සම්බන්ධ ප්‍රධාන සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+Germany: Main suspect in Trinity murder case arrested after attack kills three, injures four.
 
-ජර්මනියේ සොලින්ගන් නගරයේ ඊයේ (24) තියුණු ආයුධයකින් ඇන පහරදීමෙන් පුද්ගලයින් තිදෙනෙකු මිය ගොස් තවත් සිව් දෙනෙකු බරපතල තුවාල ලැබීය.
+🟩
 
-විදෙස් මාධ්‍ය පැවසුවේ සොලින්ගන් නගරයේ 650 වැනි සංවත්සරය සැමරීම සඳහා සංවිධානය කර තිබූ උත්සවයකට පැමිණි නාඳුනන පුද්ගලයෙකු විසින් මෙම ප්‍රහාරය එල්ල කර තිබූ බවය.
+The main suspect in connection with the Trini murder in Sudhjan, Germany, has been arrested.
 
-අපරාධකරු විසින් එහි සංගීත සංදර්ශනයක් පැවැත්වෙන ස්ථානයක සිටි පුද්ගලයින්ට මෙම ප්‍රහාර එල්ල කිරීමෙන් අනතුරුව පලාගොස් තිබුණා.
+Three people were killed and four were seriously injured when he was assaulted by a sharp weapon in Syohlingan, Germany yesterday.
 
-එරට ආරක්ෂක අංශ සිදුකළ විමර්ශනයේදී ඝාතනයට සම්බන්ධ ප්‍රධාන සැකකරු සහ තවත් පුද්ගලයින් දෙදෙනෙකු මේ අනුව අත්අඩංගුවට ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Foreign media said that the attack was carried out by an unidentified person who had come to a ceremony organized to celebrate the 650th anniversary of Zeltan.
+
+After the criminal had fled the attack on the people who were in a musical show.
+
+Foreign media reports that the main suspect, the main suspect and two other persons involved in the murder were arrested on the investigation of the security forces.
 
 ◼️
 
 [Data](articles/217beee5.json)
+
+[Extended Data](ext_articles/217beee5.ext.json)
+
+---
+
+### தடம் புரண்டது ரயில் - நடைமேடைகள் சேதம்
+
+*2024-08-25 09:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடம்-புரண்டது-ரயில்-நடைமேடைகள்-சேதம்/175-342729) · `ta`
+
+காலியிலிருந்து மருதானை நோக்கி பயணித்த எரிபொருள் போக்குவரத்து ரயில் இன்று (25) அதிகாலை மருதானை ரயில் நிலையத்தில் தடம் புரண்டதால் மருதானை ரயில் நிலையத்தின் மூன்றாவது மற்றும் நான்காவது நடைமேடைகள் சேதமடைந்துள்ளதாக ரயில்வே பிரதி பொது முகாமையாளர் என்.ஜே.இடிபோலகே தெரிவித்தார்.
+
+மேலும், தடம் புரண்ட ரயிலை அகற்றும் வரை போக்குவரத்து நடவடிக்கைகள் தடைப்படும் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/da81c259.json)
+
+---
+
+### පළමු ටෙස්ට් තරගයේ ජය එංගලන්තයට
+
+*2024-08-25 08:47:06* · [`adalk`](https://www.ada.lk/sports/පළමු-ටෙස්ට්-තරගයේ-ජය-එංගලන්තයට/9-411536) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම කඩුලු 5කින් පරාජයට පත්කරමින් දෙරට අතර පැවැති පළමු ටෙස්ට් තරගයෙන් කඩුලු පහක ජයක් වාර්තා කිරිමට සත්කාරක එංගලන්ත කණ්ඩායම සමත්විය.
+
+ශ්‍රි ලංකා කණ්ඩායමේ එල්ල වූ ලකුණු 205ක ජයග්‍රාහි ඉලක්කය කඩුලු 5ක් පමණක් වැය කර පසුකර යාමට එංගලන්තය සමත්විය.
+
+තරගයේ මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 236ක් රැස් කළ අතර පිළිතුරු ඉනිම ක්‍රිඩා කළ ක්‍රිඩා කළ එංගලන්ත කණ්ඩායම ලකුණු 358ක් රැස් කළේය. නැවතත් ලකුණු 132ක් පසුපසින් සිටිමින් සිය දෙවැනි ඉනිම ආරම්භ කළ ශ්‍රි ලංකා කණ්ඩායම ලකුණු 326ක් රැස් කළේය.
+
+විශිෂ්ඨ ඉනිමක් ක්‍රිඩා කළ කමිඳු මෙන්ඩිස් මෙම ඉනිමේදී ශ්‍රී ලංකාව වෙනුවෙන් ලකුණු 113ක් රැස් කළේය. ඒ අනුව කමිඳු සිය ටෙස්ට් දිවිය තුළ මේ දක්වා ක්‍රීඩා කළ ඇති ටෙස්ට් තරග හතරේදි ශතක 3ක් වාර්තා කිරිමට සමත්ව තිබේ.
+
+හේ අනුව එංගලන්තයට තරගයේ ජයග්‍රහණ වෙනුවෙන් ලකුණු 205ක ඉලක්කයක් හිමිවිය. තරගයේ වීරයා ලෙස එංගලන්තයේ ජැමි ස්මිත් සම්මාන ලැබිය.
+
+◼️
+
+[Data](articles/e0a626aa.json)
 
 ---
 
@@ -2107,153 +2237,5 @@ A spokesman for the Customs Department said that the drug has been recovered fro
 [Data](articles/11aabd11.json)
 
 [Extended Data](ext_articles/11aabd11.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-08-24 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200262) · `si`
-
-Weather alert: Showers/thunderstorms forecasted for Western, Sabaragamuwa, Southern, North-Wayamba districts today. East, Uva provinces also expected showers. Hambantota, North-central, Northwestern provinces may experience strong winds and lightning. Public advised to take precautions.
-
-🟩
-
-The Department of Meteorology says that there will occur several times in the Western, Sabaragamuwa, Southern and North-Wayamba districts today (24).
-
-Showers or thundershowers will occur at several places in the East and Uva provinces.
-
-Also, in the Hambantota, North-central and Northwestern provinces, from time to time in Hambantota district.. The Met Department forecasts that there are about courageous winds.
-
-The public requests the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/68294fca.json)
-
-[Extended Data](ext_articles/68294fca.ext.json)
-
----
-
-### AIA Insurance promotes national water safety awareness in Sri Lanka, aligned with AIA One Billion initiative
-
-*2024-08-24 02:42:00* · [`islandlk`](http://island.lk/aia-insurance-promotes-national-water-safety-awareness-in-sri-lanka-aligned-with-aia-one-billion-initiative/) · `en`
-
-AIA Insurance is proud to announce the launch of the AIA Water Safety Pledge, an initiative that aligns with the AIA One Billion mission, aimed at helping one billion people live healthier, longer, and better lives by 2030.
-
-Sri Lanka is an island surrounded by many water bodies which has resulted in hidden dangers. On average, 755 people drown each year and drowning is one of the top three causes of accidental deaths in Sri Lanka. And even more worryingly it is the leading cause of accidental deaths amongst children. That is why AIA introduced the Water Safety Pledge which aims to educate people on the importance of water safety and encourages them to take the pledge, emphasizing the value of their lives and the impact on their loved ones. They urge individuals to be mindful of their safety in and around water, because they could be someone’s father, son or breadwinner.
-
-...
-
-[Data](articles/0fcc4e0a.json)
-
-[Extended Data](ext_articles/0fcc4e0a.ext.json)
-
----
-
-### Dayasiri disappointed as SLFP stalwarts Angajan and Dushmantha switch allegiance to Ranil
-
-*2024-08-24 01:51:38* · [`dailyftlk`](https://www.ft.lk/news/Dayasiri-disappointed-as-SLFP-stalwarts-Angajan-and-Dushmantha-switch-allegiance-to-Ranil/56-765950) · `en`
-
-Dayasiri Jayasekara expresses belief both Angajan Ramanathan and Dushmantha Mithrapala have been offered various benefits in return for their support
-
-Dushmantha Mithrapala says decision was taken after careful consideration on current situation
-
-Says President Ranil Wickremesinghe is best leader to guide SL at this juncture
-
-Angajan Ramanthana says Wickremesinghe pledge to resolve issues faced by people in Jaffna
-
-Sri Lanka Freedom Party (SLFP) General Secretary and MP Dayasiri Jayasekara has expressed his deep disappointment and dismay over the decision of party Senior Vice President Angajan Ramanathan and former Acting General Secretary Sarathi Dushmantha Mithrapala to support President Ranil Wickremesinghe in the upcoming Presidential Election.
-
-...
-
-[Data](articles/34cefcb1.json)
-
-[Extended Data](ext_articles/34cefcb1.ext.json)
-
----
-
-### President says he respects people’s voting rights and right to live
-
-*2024-08-24 01:48:39* · [`dailyftlk`](https://www.ft.lk/news/President-says-he-respects-people-s-voting-rights-and-right-to-live/56-765949) · `en`
-
-Opines if time was spent on conducting LG Polls, country’s economy might not recover
-
-Assures General Elections to follow Presidential Election, with Provincial Council and Local Government Elections scheduled afterwards
-
-Asks activists why not pursue legal action to restore economic stability?
-
-President Ranil Wickremesinghe on Thursday acknowledged that postponing the Local Government elections is a violation of citizens’ basic rights but he does not regret this decision, as the time was dedicated to ensuring the people’s right to live and maintaining their safety. He emphasised his respect for both the right to vote and the right to live.
-
-The President also noted that every hour was crucial in the effort to stabilise the country’s economy. He explained that had he devoted that time to conducting the Local Government elections, achieving economic stability would not have been possible.
-
-...
-
-[Data](articles/6e8e6c69.json)
-
-[Extended Data](ext_articles/6e8e6c69.ext.json)
-
----
-
-### Hakeem opposes new Chief Epidemiologist appointment over role in COVID-19 cremation policy
-
-*2024-08-24 01:47:42* · [`dailyftlk`](https://www.ft.lk/news/Hakeem-opposes-new-Chief-Epidemiologist-appointment-over-role-in-COVID-19-cremation-policy/56-765948) · `en`
-
-SJB MP Rauff Hakeem has urged Health Minister Dr. Ramesh Pathirana to not appoint Dr. Hasitha A. Tissera as Chief Epidemiologist
-
-Points out Tissera was part of expert committee that recommended mandatory cremations of all COVID-19 victims
-
-Says despite Govt. apology, forced cremations caused significant distress to Muslims in SL
-
-Samagi Jana Balawegaya (SJB) MP Rauff Hakeem has urged Health Minister Dr. Ramesh Pathirana not to appoint Senior Medical Epidemiologist Dr. Hasitha A. Tissera as Chief Epidemiologist, citing Tissera’s role in the expert committee that recommended the mandatory cremation of all COVID-19 victims.
-
-In Parliament on Wednesday, Hakeem criticised the decision to cremate all COVID-19 victims, arguing that it was not based on scientific evidence and had caused significant distress to the Muslim community in Sri Lanka.
-
-...
-
-[Data](articles/c49afd53.json)
-
-[Extended Data](ext_articles/c49afd53.ext.json)
-
----
-
-### NPP fires off three LoDs to Tissa, Rauff and ABC over defamatory statements
-
-*2024-08-24 01:46:54* · [`dailyftlk`](https://www.ft.lk/news/NPP-fires-off-three-LoDs-to-Tissa-Rauff-and-ABC-over-defamatory-statements/56-765947) · `en`
-
-The National People’s Power (NPP) party issued a Letter of Demand (LoD) to Samagi Jana Balawegaya (SJB) MP Rauff Hakeem yesterday, alleging that a recent statement by Hakeem purposely distorted remarks made by NPP leader Anura Kumara Dissanayake.
-
-The Letter of Demand requested that Hakeem, who is also the leader of the Sri Lanka Muslim Congress (SLMC), pay Rs. 2 billion to Dissanayake for the comments made or face legal action.
-
-The offending remarks by Hakeem were reportedly made during a political meeting held in Kattankudy on 19 August. The NPP Presidential candidate has accused Hakeem of distorting, fabricating, and deliberately misrepresenting a comment originally made by him in 2019, and of repeating it in Tamil at the political meeting.
-
-The Letter of Demand noted that Hakeem had claimed Dissanayake said in Parliament that “terrorism is growing in the womb of every Muslim mother.”
-
-...
-
-[Data](articles/71e33e3b.json)
-
-[Extended Data](ext_articles/71e33e3b.ext.json)
-
----
-
-### Call to representatives of 12 countries
-
-*2024-08-24 01:38:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-நாடுகளின்-பிரதிநிதிகளுக்கு-அழைப்பு/175-342698) · `ta`
-
-The Elections Commission has invited representatives from 12 countries, including India, Nepal, Bangladesh, Pakistan, and the Maldives, for presidential election monitoring. RMAL, the commission's chairman, announced plans to compile a comprehensive report on all election-related activities.
-
-🟩
-
-The Elections Commission said that representatives of 12 countries have been invited for presidential election monitoring.
-
-RMAL, Chairman of the Elections Commission, has called for countries including India, Nepal, Bangladesh, Pakistan and the Maldives.. Ratnayake mentioned.
-
-Ratnayake has said that they will take steps to provide a report on all activities, including the presidential election voting.. (A)
-
-◼️
-
-[Data](articles/e1d47de1.json)
-
-[Extended Data](ext_articles/e1d47de1.ext.json)
 
 ---

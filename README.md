@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 07:23:01**
+As of **2024-08-25 07:55:13**
 
 ## Newspaper Stats
 
-*Scraped **42,427** Articles*
+*Scraped **42,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 355
 newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 405
-islandlk | 2,464
+islandlk | 2,472
 economynextcom | 2,570
 dailyftlk | 2,758
 adalk | 3,906
@@ -20,41 +20,63 @@ dailymirrorlk | 4,733
 adaderanalk | 4,978
 tamilmirrorlk | 5,510
 virakesarilk | 6,737
-adaderanasinhalalk | 7,257
+adaderanasinhalalk | 7,258
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,425 (100.0%) of 42,427 articles have been extended.
+42,427 (100.0%) of 42,436 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### ජීවිත බිලිගත් මාරක අනතුරු
+### මරදානේදී දුම්රියක් පීලි පනියි
+
+*2024-08-25 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200293) · `si`
+
+මරදාන දුම්රිය ස්ථානයේදී අද (25) උදෑසන දුම්රියක් පීලි පැනීමකට ලක්ව තිබේ.
+
+ඉන්ධන දුම්රියක් මෙලෙස පීලි පැනීමකට ලක්ව ඇති අතර මේ හේතුවෙන් දුම්රිය වේදිකාවට ද දැඩි හානි සිදුව තිබේ.
+
+◼️
+
+[Data](articles/c788d5ed.json)
+
+---
+
+### Fatal accidents that have been killed
 
 *2024-08-25 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200292) · `si`
 
-ගෙවී ගිය පැය 24ක කාලය තුළදී ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු කිහිපයකින් කුඩා දරුවෙකු ඇතුළු තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Three fatal accidents reported in Sri Lanka over 24 hours: two three-wheelers and one motorcycle crash. Three deaths and one injury recorded. Investigations ongoing.
 
-ඊයේ (24) එම අනතුරු සිදුව තිබුණේ, වුන්නාකම්, නොච්චියාගම සහ හබරණ යන පොලිස් වසම්වලින්ය.
+🟩
 
-යාපනය - කන්කසන්තුරේ මාර්ගයේ වුන්නාකම් ප්‍රදේශයේදී ත්‍රිරෝද රථයක් රියදුරට පාලනය කර ගත නොහැකිව මාර්ගයේ පරෙළී ගොස් අනතුරක් සිදුව තිබුණි.
+In several areas of several areas during the past 24 hours, three others were killed.
 
-එම අනතුරින් ත්‍රිරෝද රථයේ පසුපස අසුනේ මව සමග ගමන්කළ කුඩා පිරිමි දරුවෙකු තුවාල ලබා තෙලිප්පලේ රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇත.
+The accidents occurred yesterday (24), the accidents had occurred, Nochchiyagama and Habarana Police Divisions.
 
-එලෙස මියගොස් ඇත්තේ, දන්ගස්වැව, පුත්තලම ප්‍රදේශයේ පදිංචිව සිටි අවුරුදු 02යි මාස 06ක් වූ කුඩා පිරිමි දරුවෙකි.
+A three-wheeler in the Jaffna-Kankesanthurai road, a three-wheeler was unable to control the road.
 
-මේ අතර නොච්චියාගම - කුකුල්කටුව මාර්ගයේ නෙළුගොල්ලෑව ප්‍රදේශයේදී යතුරුපැදියක් මාර්ගයේ පෙරළී ගොස් සිදුවූ අනතුරකින් යතුරුපැදිකරු මියගොස් තිබේ.
+A small boy who was traveling with the mother of the three-wheeler was injured and admitted to the Tipppela Hospital.
 
-එලෙස මියගොස් ඇත්තේ, අඹගහවැව, නොච්චියාම ප්‍රදේශයේ පදිංචිව සිටි 32 හැවිරිදි  පුද්ගලයෙකි.
+The deceased has been identified as a small boy who was residing in the Puttalam area in the Puttalam area.
 
-මේ අතර පොළොන්නරුව - හබරණ මාර්ගයේ මොරගස්වැව ප්‍රදේශයේදී නාඳුනන වාහනයකින් පුද්ගලයෙකු හප්පා පළා ගොස් ඇත.
+Meanwhile, the motorcyclist has died in a motorcycle on the Nezagallutuwa area on the Nochchiyagama-Culture road.
 
-...
+The deceased has been identified as a 32 year old resident of Ambagahawewa, Ambagahawewa.
+
+Meanwhile, a man has fled a unidentified vehicle in the Moragaswewa area on the Polonnaruwa-Habarana road.
+
+Habarana Police are conducting further investigations to arrest the suspect and the vehicle.
+
+◼️
 
 [Data](articles/b43d41a6.json)
+
+[Extended Data](ext_articles/b43d41a6.ext.json)
 
 ---
 
@@ -73,6 +95,8 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/d3b343c7.json)
+
+[Extended Data](ext_articles/d3b343c7.ext.json)
 
 ---
 
@@ -97,6 +121,92 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/7554adc9.json)
 
 [Extended Data](ext_articles/7554adc9.ext.json)
+
+---
+
+### SLT-MOBITEL reports moderate growth in 1H 2024
+
+*2024-08-25 02:08:00* · [`islandlk`](http://island.lk/slt-mobitel-reports-moderate-growth-in-1h-2024/) · `en`
+
+SLT-MOBITEL, the National ICT Solutions Provider, reported moderate revenue growth in the first half of 2024, demonstrating resilience and adaptability in a challenging market. The Group’s revenue reached Rs. 53.5 billion, a 1.6% increase compared to the same period in 2023, while gross profit rose by 4% to Rs. 20.9 billion, with an improved gross profit margin of 39%. Despite market challenges such as customer churn and reduced demand for new connections, SLT-MOBITEL’s EBITDA increased by 17.1% to Rs. 18.0 billion, and operating profit surged by 54.5% to Rs. 3.6 billion. The Group also benefited from a 19.5% reduction in finance costs, contributing to a narrower net loss of Rs. 323 million compared to Rs. 1,159 million in 1H 2023.
+
+...
+
+[Data](articles/08a0dd33.json)
+
+---
+
+### Megakem Engineering expands with new showrooms
+
+*2024-08-25 02:05:00* · [`islandlk`](http://island.lk/megakem-engineering-expands-with-new-showrooms/) · `en`
+
+Megakem Engineering Private Limited has expanded their business by opening two new showrooms under the “MEGAKEM” brand. The new showroom in Gampaha and the rebranded showroom in Rajagiriya are significant milestones in the company’s growth strategy. In addition, Megakem has introduced its newly rebranded waterproofing solution, MEGAKEM MEGALASTIC SUPER 540. Lauded for its superior quality and performance, this product is endorsed with the tagline, “Most Recommended Waterproofing Product by Engineers,” setting new industry benchmarks. The grand opening events were graced by Ashoka Siriwardena, Group Chairman, alongside the Board of Directors, management team, employees, and esteemed distributors. These milestones underscore Megakem Engineering’s unwavering commitment to innovation, quality, and customer satisfaction.
+
+Hayleys PLC retains credit rating of AAA(lka) by Fitch Ratings showcasing financial strength and resilience
+
+...
+
+[Data](articles/47e1edd5.json)
+
+---
+
+### CEAT Kelani Holdings supports schoolchildren in Monaragala with essential supplies
+
+*2024-08-25 02:03:00* · [`islandlk`](http://island.lk/ceat-kelani-holdings-supports-schoolchildren-in-monaragala-with-essential-supplies/) · `en`
+
+School children from a rubber farming community in Sri Lanka’s Monaragala District have recently benefited from a social responsibility initiative by CEAT Kelani Holdings, a major domestic consumer of the country’s natural rubber. The company provided 120 students from the Vidyartha Maha Vidyalaya in Nakkala with school bags, shoes, and exercise books, continuing its support for key stakeholder groups.
+
+CEAT Kelani Holdings, which produces half of Sri Lanka’s pneumatic tyres, sources all its natural rubber from local producers who support around 10,000 cultivating families. Earlier this year, the company also distributed school supplies to students at schools in Matugama, Kuruwita, and Elpitiya.
+
+...
+
+[Data](articles/1795cf11.json)
+
+---
+
+### Nurturing Tomorrow’s Leaders: COYLE Launches the Young Lankan’s Program
+
+*2024-08-25 01:52:00* · [`islandlk`](http://island.lk/nurturing-tomorrows-leaders-coyle-launches-the-young-lankans-program/) · `en`
+
+The Chamber of Young Lankan Entrepreneurs (COYLE) last week announced the launch of its latest initiative, the Young Lankan’s program.
+
+“This youth development project is designed to foster entrepreneurship among the next generation, empowering young minds across Sri Lanka to become the driving force behind the nation’s economic growth. As the world rapidly evolves, COYLE recognizes the need to invest in the youth of today to secure a prosperous future for tomorrow,” a COYLE news release said.
+
+...
+
+[Data](articles/34e3cab4.json)
+
+---
+
+### John Keells CG Auto opens BYD showroom & service center: Launches Plug-in Hybrid BYD SEALION 6 DM – i
+
+*2024-08-25 01:51:00* · [`islandlk`](http://island.lk/john-keells-cg-auto-opens-byd-showroom-service-center-launches-plug-in-hybrid-byd-sealion-6-dm-i/) · `en`
+
+John Keells CG Auto, the authorized distributor for BYD passenger vehicles in Sri Lanka, proudly opened the doors of the BYD showroom and the service center in Colombo with the launch of the Plug-in Hybrid BYD SEALION 6 DM – I, a JKH news release said.
+
+The grand opening ceremony, held at the showroom situated at 447, Union Place, Colombo 02, was attended by prominent dignitaries including BYD Auto Industry Co. Ltd, General Manager of Asia – Pacific Auto Sales Division, Liu Xueliang, Chairperson of the John Keells Group, Krishan Balendra and CG Corp Global Managing Director Nirvana Kumar Chaudhary.
+
+...
+
+[Data](articles/2edfecaa.json)
+
+---
+
+### Hayleys PLC retains credit rating of AAA(lka) by Fitch Ratings showcasing financial strength and resilience
+
+*2024-08-25 01:49:00* · [`islandlk`](http://island.lk/hayleys-plc-retains-credit-rating-of-aaalka-by-fitch-ratings-showcasing-financial-strength-and-resilience/) · `en`
+
+Hayleys PLC retained its national long-term rating of ‘AAA(lka)’ by Fitch Ratings, attesting to the Group’s strong financial stability and resilient earnings profile. The outlook on the rating is stable, a news release from the company said.
+
+The rating is upheld by the Group’s extensive operating scale, diversification across business verticals and geographies and globally leading market positions in several key businesses, which have enabled the Group to generate sustainable operating cash flows despite temporary headwinds.
+
+The Group also delivered an impressive performance over the first quarter of the financial year ending 31st March 2025, recording Revenue and Profit-Before-Tax growth of 17% and 150% respectively.
+
+Consolidated Revenue amounted to Rs.113.61 bn during the quarter with growth driven by the Consumer & Retail (+52%), Transportation & Logistics (+25%), Projects & Engineering (+125%) and Construction Materials (+47%) sectors, the release added.
+
+...
+
+[Data](articles/8a9aaeb0.json)
 
 ---
 
@@ -161,6 +271,20 @@ Sri Lankans will be voting in September, and they will be voting for the first t
 [Data](articles/7df47edc.json)
 
 [Extended Data](ext_articles/7df47edc.ext.json)
+
+---
+
+### Virgins and Bullies in Rural Sri Lanka
+
+*2024-08-25 00:52:00* · [`islandlk`](http://island.lk/virgins-and-bullies-in-rural-sri-lanka/) · `en`
+
+In 1974, I wandered in the Veyangoda area with Georg (adviser) and Piyasiri (research assistant) to find a suitable village to study what socioeconomic and political factors influenced people to get together for public benefit. On the third day, at a tea kiosk, we met Guneratne (Gune), a farmer, who invited us to his house at Naiwela.
+
+Gune lived in an old house with a tiled roof and a cemented floor. I told him we were looking for a village to study the cooperative behaviour of people and a place to stay for a few months. He proposed we study Naiwela and stay at his house. He worried about Georg, saying, “Suddas (white people) can’t live in a village because they need creature comforts.”
+
+...
+
+[Data](articles/98c45426.json)
 
 ---
 
@@ -1944,6 +2068,24 @@ As with previous events, the elders will once again witness the splendour of the
 
 ---
 
+### Global tea convention positions tea as a versatile lifestyle choice
+
+*2024-08-24 01:27:00* · [`islandlk`](http://island.lk/global-tea-convention-positions-tea-as-a-versatile-lifestyle-choice/) · `en`
+
+The Colombo International Tea Convention recently brought together a global audience in Colombo to explore the future of the tea industry. A primary focus of the forum was the need to position tea as a versatile lifestyle choice.
+
+Dr. Sharon Hall, Chief Executive of the UK Tea & Infusions Association (UKTIA), provided exclusive insights into the event’s success, the challenges facing the industry, and the emerging trends that are shaping the future of tea.
+
+The convention proved to be a resounding success, with participants from across the globe converging to discuss the future of tea, which the world body on the subject stressed.
+
+Dr. Hall, speaking exclusively to The Island Financial Review highlighted the event’s theme, ‘Tea, A Lifestyle & A Livelihood,’ as central to its success. This theme emphasized the need to position tea as a versatile lifestyle choice and to enhance its value proposition among tea drinkers.
+
+...
+
+[Data](articles/bd7a0a5a.json)
+
+---
+
 ### World’s first plantations company chairman to receive ‘Climate Neutral Citizen’ certification
 
 *2024-08-24 01:26:00* · [`islandlk`](http://island.lk/worlds-first-plantations-company-chairman-to-receive-climate-neutral-citizen-certification/) · `en`
@@ -2067,191 +2209,5 @@ A large number of people from the Sinhala, Tamil and Muslims participated in the
 [Data](articles/e7905bcc.json)
 
 [Extended Data](ext_articles/e7905bcc.ext.json)
-
----
-
-### Sri Lanka in a predicament in Test with England;Only 4 wickets remaining by 82 runs
-
-*2024-08-24 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191836) · `ta`
-
-Sri Lanka faces a challenging position in the first ICC World Test Championship match against England, trailing by 82 runs with four wickets left. Despite efforts from players like Nishan Madushka, Kusal Mendis, and Angelo Mathews, injuries and controversial LBW decisions have hindered progress. England, led by Jemima Smith's maiden century, holds a strong position after scoring 358 runs in their first innings.
-
-🟩
-
-Sri Lanka is facing embarrassment in the first match of the three -match ICC World Test Championships against England at the Emirates Old Traford Stadium.
-
-In the first innings of the Test match, Sri Lanka, with 132 runs, was the third day of the match, losing 6 wickets in its second innings at the end of the match and scoring 204 runs.
-
-Sri Lanka is only 82 runs with 4 wickets remaining. Sri Lanka's failure will inevitably unless the miracle happens because the competition remains for another 2 more days.
-
-In the second innings, Nishan Madushka and Kusal Mendis lost the game without running. (1 - 2 wig.)
-
-Former team leaders Timuth Karunaratne and Angelo Mathews shared 51 runs in the 3rd wicket.
-
-Following this, Dinesh Chandimal was injured when the total number was 74 runs.. 149 km / h speed ball at Mark Wood. Dinesh Sandimal hit his right finger and he had to retire with 12 runs.
-
-Constantly Tanjaya de Silva got 11 runs. (95 - 4 wig.)
-
-...
-
-[Data](articles/0bb5c156.json)
-
-[Extended Data](ext_articles/0bb5c156.ext.json)
-
----
-
-### No decision has been taken to cancel the renewed driver's licenses - Ranjith Rupasinghe
-
-*2024-08-24 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/191835) · `ta`
-
-Ranjith Rupasinghe, Secretary of the Ministry of Transport and Highways, clarified that there's no plan to cancel renewed driver's licenses. He announced a new system for updating 2 million unrenewed licenses by year-end, with no need for new medical checks or visits to the department. The transport sector is being digitized, and a new driving license system, including an e-license, will be introduced by mid-2025. Temporary licenses issued due to card shortages will be replaced within two months, and all should receive new licenses by the end of the year. Digital railway tickets are now available online, with more digital services planned for the near future.
-
-🟩
-
-Ranjith Rubasinghe, Secretary of the Ministry of Transport and Highways, said that the reports that the decision to cancel all the renewed driver's licenses was completely false and no decision was taken.
-
-He added that a new system will be introduced to update about 2 million driver's licenses that have not yet been renewed and all the work will be completed by the end of this year.
-
-Secretary of the Ministry of Transport and Highways, Ranjith Rupasinghe, who attended a media briefing held at the Presidential Media Center on Friday (23).
-
-Ranjith Rupasinghe said that since the country's first driver's license was issued in the 1960s, about 12.3 million driver's licenses were issued.
-
-Ranjith Rupasinghe, Secretary of the Ministry of Transport and Highways
-
-The first driver's license was issued in this country in 60 years. Thereafter, about 12.3 million driver's licenses have been issued.
-
-...
-
-[Data](articles/310b9afc.json)
-
-[Extended Data](ext_articles/310b9afc.ext.json)
-
----
-
-### 2024-08-23 (Friday)
-
-### SL hosts Central Asia Forum 2024: Prioritising connectivity and economic engagement
-
-*2024-08-23 23:54:47* · [`dailyftlk`](https://www.ft.lk/business/SL-hosts-Central-Asia-Forum-2024-Prioritising-connectivity-and-economic-engagement/34-765934) · `en`
-
-The Central Asia Forum 2024 organised by the Ministry of Foreign Affairs of Sri Lanka, together with the Geopolitical Cartographer held at the Granbell Hotel in Colombo on 21 August, explored the potential for future cooperation between Sri Lanka and Central Asia, a region with increasing geopolitical and geo-economic significance.
-
-Sri Lanka’s engagements with countries in the Central Asian region has achieved considerable progress in recent times with the conclusion of Foreign Office consultations with Kazakhstan, Kyrgyzstan and Turkmenistan and the decision to establish reciprocal resident diplomatic missions in Astana, Kazakhstan and Colombo.
-
-The Forum explored emerging opportunities for Sri Lanka in the Central Asia region with a specific focus on economic diplomacy. The outcomes of the discussion are expected to enrich future engagements with the region.
-
-...
-
-[Data](articles/60c40865.json)
-
-[Extended Data](ext_articles/60c40865.ext.json)
-
----
-
-### Profood Propack & Agbiz 2024 kicks off
-
-*2024-08-23 23:53:34* · [`dailyftlk`](https://www.ft.lk/business/Profood-Propack-Agbiz-2024-kicks-off/34-765933) · `en`
-
-The most eagerly awaited food industry exhibition, the Profood Propack, Agbiz and Knowledge Hub 2024 Exhibition organised by the Sri Lanka Food Processors Association (SLFPA) together with Lanka Exhibition and Conference Services (LECS), kicked off yesterday at the Sirimavo Bandaranaike Exhibition and Convention Centre, Colombo.
-
-The event was endorsed and supported by the Industries Ministry, the National Agribusiness Council, and the Institute of Food Science and Technology Sri Lanka.
-
-This is the 21st edition of the exhibition and the three-day event will conclude on 25 August.
-
-SLFPA’s commitment to promoting the advancement of the food industry and driving economic growth in Sri Lanka through this exhibition has been well known over the years. The event acts as a catalyst in bringing together food industry leaders, various stakeholders and decision-makers from agri-based companies, food processing industries, packaging, and all service providers to the food industry.
-
-...
-
-[Data](articles/069d10bc.json)
-
-[Extended Data](ext_articles/069d10bc.ext.json)
-
----
-
-### Korean investor explores opportunities in solar energy, agriculture in SL
-
-*2024-08-23 23:52:39* · [`dailyftlk`](https://www.ft.lk/business/Korean-investor-explores-opportunities-in-solar-energy-agriculture-in-SL/34-765932) · `en`
-
-A leading entrepreneur from the People’s Republic of South Korea, Tong-Jo Mun met with Prime Minister Dinesh Gunawardena at the Temple Trees in Colombo on Thursday and expressed willingness to invest in the energy and agriculture sectors.
-
-The Prime Minister’s Media Office said Mun said the entrepreneurs attached to the International Interchange Development Association, of which he is President, would like to invest in several solar energy projects as well as in the cultivation of fruits in Sri Lanka for export to Korea and other countries. The Prime Minister said that Sri Lanka welcomes investments in these sectors and explained that the Government plans to increase the share of alternative energy sources to cut down dependence on crude oil.
-
-They also discussed possible investments in the fisheries, health, and construction sectors, especially the introduction of new technologies to upgrade production in these sectors.
-
-...
-
-[Data](articles/51bd1591.json)
-
-[Extended Data](ext_articles/51bd1591.ext.json)
-
----
-
-### UNPRPD funds disability inclusion initiative in Sri Lanka
-
-*2024-08-23 23:51:13* · [`dailyftlk`](https://www.ft.lk/news/UNPRPD-funds-disability-inclusion-initiative-in-Sri-Lanka/56-765931) · `en`
-
-UNPRPD Inception phase to reach 30 stakeholders Participants at the training
-
-Sri Lanka ratified the United Nations Convention on Rights of Persons with Disability (CRPD) in 2016 and was invited to implement the UNPRPD Fund Inception Phase, in 2023.
-
-...
-
-[Data](articles/69a73691.json)
-
-[Extended Data](ext_articles/69a73691.ext.json)
-
----
-
-### Co-operative movement’s future discussed under President Wickremesinghe’s patronage
-
-*2024-08-23 23:49:36* · [`dailyftlk`](https://www.ft.lk/news/Co-operative-movement-s-future-discussed-under-President-Wickremesinghe-s-patronage/56-765930) · `en`
-
-A special meeting to discuss the future direction of the co-operative movement in Sri Lanka was recently convened by the Sri Lanka National Co-Operative Board under the patronage of President Ranil Wickremesinghe.
-
-Held at the Sri Lanka Exhibition and Convention Centre (SLECC), the event saw participation from prominent figures including Sanasa Movement Founder Dr. P.A. Kiriwandeniya, who represented Sanasa alongside other officials.
-
-Among the other attendees were Trade, Commerce and Food Safety Minister Nalin Fernando, Mass Media State Minister Shantha Bandara, Chief of Presidential Staff Sagala Ratnayake, and several other Ministers. Additionally, the event drew a significant number of participants from the cooperative and related sectors, including A.D. Sarath Weerasiri, who represented the Sri Lanka National Co-Operative Board.
-
-...
-
-[Data](articles/dc957baa.json)
-
-[Extended Data](ext_articles/dc957baa.ext.json)
-
----
-
-### India inaugurates RO water plant at Sinhapada, Sigiriya Rock Fortress
-
-*2024-08-23 23:48:57* · [`dailyftlk`](https://www.ft.lk/news/India-inaugurates-RO-water-plant-at-Sinhapada-Sigiriya-Rock-Fortress/56-765929) · `en`
-
-On 21 August, Indian High Commissioner to Sri Lanka Santosh Jha inaugurated a RO water plant at Sinhapada of the UNESCO World Heritage Site, the Sigiriya Rock Fortress.
-
-The Central Cultural Fund Director General, Central Province Deputy Chief Secretary, and representatives of the Department of Trade, Commerce and Tourism, Central Province, were among the Government officials who attended the inauguration.
-
-The RO water plant has been handed over to the Central Cultural Fund, Department of Cultural Affairs, Ministry of Buddhasasana, Religious and Cultural Affairs. The Government of India has already borne the expenditure for the maintenance of the facility for the next five years.
-
-The RO water plant will benefit the thousands of visitors to Sigiriya from across the globe. The assistance extended reaffirms India’s ongoing commitment to Sri Lanka’s growth and progress across sectors.
-
-◼️
-
-[Data](articles/a5d53ec6.json)
-
-[Extended Data](ext_articles/a5d53ec6.ext.json)
-
----
-
-### Sri Lanka participates in 8th Global Botanic Gardens Congress in Singapore
-
-*2024-08-23 23:48:19* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-participates-in-8th-Global-Botanic-Gardens-Congressin-Singapore/56-765928) · `en`
-
-The 8th Global Botanic Gardens Congress was held at the Suntec Convention Centre in Singapore from 6 to 8 August under the theme “Botanic Gardens – People and Plants for a Sustainable Future.”
-
-Around 900 delegates representing 75 countries, including botanic garden officials, Governmental and non-Governmental representatives, researchers, postgraduate students, and journalists participated in the event. The Singapore Botanic Gardens, in collaboration with Botanic Gardens International, organised the conference. This is the first time the Congress was held in the Southeast Asia region.
-
-...
-
-[Data](articles/9620badf.json)
-
-[Extended Data](ext_articles/9620badf.ext.json)
 
 ---

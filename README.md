@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 22:09:12**
+As of **2024-08-25 22:21:38**
 
 ## Newspaper Stats
 
-*Scraped **42,552** Articles*
+*Scraped **42,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,571
 dailyftlk | 2,758
 adalk | 3,923
 dailymirrorlk | 4,733
-adaderanalk | 4,995
+adaderanalk | 4,996
 tamilmirrorlk | 5,535
 virakesarilk | 6,760
 adaderanasinhalalk | 7,285
@@ -26,27 +26,49 @@ adaderanasinhalalk | 7,285
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,551 (100.0%) of 42,552 articles have been extended.
+42,552 (100.0%) of 42,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### මහින්ද නතර කරපු තැනින් පටන් ගන්න නාමල්
+### Energy Minister challenges NPP, SJB to debate on fuel taxes and alleged corruption
+
+*2024-08-25 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101495/energy-minister-challenges-npp-sjb-to-debate-on-fuel-taxes-and-alleged-corruption) · `en`
+
+Minister and Power and Energy Kanchana Wijesekara invited the National People’s Power (NPP) and the Samagi Jana Balawegaya (SJB) to a debate on their energy polices, the government’s energy policy and allegations of corruption in the energy sector.
+
+In a post on ‘X’ (formerly Twitter), Wijesekara pointed out NPP’s presidential candidate Anura Kumara Dissanayake’s recent statement that he will reduce the fuel prices by removing the Rs 50 per liter tax on fuel which was imposed in 2022, to recover the debt taken over by the Treasury.
+
+The Energy Minister, who highlighted that Dissanayake had said the debt has been recovered by now and the said tax could be removed, expressed his displeasure stating, “I’m not sure how they come up with these numbers and claims to mislead the public and the voters.”
+
+...
+
+[Data](articles/5e3ff8a4.json)
+
+---
+
+### Namal starts with the stopped by Mahinda
 
 *2024-08-25 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200323) · `si`
 
-තම පාලනයක් යටතේ අසීමිත බදු ප්‍රතිපත්තිය වෙනුවට සාමාන්‍ය ජනතාවට දැරිය හැකි බදු ප්‍රතිපත්තියක් හඳුන්වාදෙන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa rallies in Yakkala, promises affordable taxes and restarting development.
 
-ඔහු මෙම අදහස් පළ කළේ ගම්පහ යක්කල ප්‍රදේශයේ පැවති ජන රැලියකට එක්වෙමිනි.
+🟩
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධූර අපේක්ෂක නාමල් රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් තවත් ජන රැලියක් ඊයේ (24) පස්වරුවේ යක්කල නගරයේදී පැවැත්විය.
+Namal Rajapaksa, president of the Sri Lanka Civil Aryn, says that under its control, the presidency of the Sri Lanka General Press is introduced to the general public.
 
-"IMF සතුටු කරනවා වගේම ගමේ ජනතාවත් සතුටින් තැබිය යුතුයි. අපි ඒ වගකීම තේරුම් ගත් දේශපාලන බලවේගයක්. මිනිස්සුන්ට දැරිය හැකි බදු ප්‍රතිපත්තියක් අනුගමනය කළ යුතුයි. මේ රටේ නැවතුණු සංවර්ධනය අපි යළි ආරම්භ කරනවා. එදා මහින්ද රාජපක්ෂ ජනාධිපතිතුමා නතර කළ තැන සිට අපි ඉදිරියට අරගෙන යන්නම්"
+He was speaking at a rally held in Yakkala, Gampaha.
+
+Another rally was held at Yakkala yesterday under the patronage of Presidential Request of the Sri Lanka General Front.
+
+"IMF pleases the IMF and the people of the village should be happy. A political force we understand that responsibility. People should follow a affordable tax policy. We restart the development of this country. We'll take President Mahinda Rajapaksa from where President has stopped
 
 ◼️
 
 [Data](articles/b47b8935.json)
+
+[Extended Data](ext_articles/b47b8935.ext.json)
 
 ---
 
@@ -2283,25 +2305,5 @@ Head, England won a target of 205 for the competition. England Jami Smind has be
 [Data](articles/e0a626aa.json)
 
 [Extended Data](ext_articles/e0a626aa.ext.json)
-
----
-
-### Postal workers’ leave cancelled until Presidential Election ends
-
-*2024-08-25 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101476/postal-workers-leave-cancelled-until-presidential-election-ends) · `en`
-
-Deputy Postmaster General Rajitha Ranasinghe has announced that leave of all employees of the Postal Department has been cancelled with immediate effect until the conclusion of the 2024 Presidential Election.
-
-The decision was made to ensure that all election-related responsibilities are adequately managed, he said.
-
-Any postal worker requiring leave for essential reasons would have to obtain permission from the Deputy Postmaster General in charge of their province, he added.
-
-The Presidential Election is scheduled to be held on September 21.
-
-◼️
-
-[Data](articles/dc665f59.json)
-
-[Extended Data](ext_articles/dc665f59.ext.json)
 
 ---

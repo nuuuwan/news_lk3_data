@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 00:21:32**
+As of **2024-08-26 00:37:34**
 
 ## Newspaper Stats
 
-*Scraped **42,561** Articles*
+*Scraped **42,562** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 392
-colombotelegraphcom | 406
+colombotelegraphcom | 407
 islandlk | 2,473
 economynextcom | 2,572
 dailyftlk | 2,758
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,560 (100.0%) of 42,561 articles have been extended.
+42,561 (100.0%) of 42,562 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -248,6 +248,8 @@ Article 94 of the Constitution outlines the process for selecting a winner shoul
 
 [Data](articles/2d7009f4.json)
 
+[Extended Data](ext_articles/2d7009f4.ext.json)
+
 ---
 
 ### There is no possibility to change the agreement with the IMF;If that happens, the country's economy will fall again - the president
@@ -463,6 +465,20 @@ The law sets out graduated punishments for non-compliance — from verbal warnin
 [Data](articles/38ac5248.json)
 
 [Extended Data](ext_articles/38ac5248.ext.json)
+
+---
+
+### Why Most Current Political Leaders Are Unsuitable For The Presidency
+
+*2024-08-25 18:43:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-most-current-political-leaders-are-unsuitable-for-the-presidency/) · `en`
+
+Sri Lanka has reached a crossroads where it could save for future generations as a prosperous country or become a permanently underdeveloped nation like some debt-ridden African nations. Voters can and must change direction, but they must be educated based on facts. With the declaration of the elections in September 2024, political leaders are playing games to leap forward deceptively, misleading and disregarding voters.
+
+The current political landscape in Sri Lanka is fraught with issues that render the existing politicians unsuitable for the presidency. How can people trust members of parliament who become politicians purely to make money, sell their duty-free car permits, and abuse power? Honesty, integrity, transparency, and following the election promises are essential. None of the current leaders can pass this est. Here are ten more reasons why the current political leaders (and presidential nominees) are unsuitable for running the country.
+
+...
+
+[Data](articles/fd894f9d.json)
 
 ---
 
@@ -2301,23 +2317,5 @@ Reul said the man was affiliated with a home for refugees that had been searched
 [Data](articles/16466af5.json)
 
 [Extended Data](ext_articles/16466af5.ext.json)
-
----
-
-### President Ranil meets with Catholic Bishops’ Conference for wide-ranging talks
-
-*2024-08-25 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101478/president-ranil-meets-with-catholic-bishops-conference-for-wide-ranging-talks) · `en`
-
-President Ranil Wickremesinghe has met with President of the Catholic Bishops’ Conference, Bishop Harold Anthony Perera and other members of the conference to discuss various critical issues.
-
-The President’s Media Division (PMD) reported that the discussion focused on topics including education reforms, the investigation into the Easter Sunday terror attacks, environmental concerns, and matters related to the Catholic Church.
-
-During the meeting, the President also provided an update on the economy and the government’s plans to tackle the challenges related to the cost of living.
-
-◼️
-
-[Data](articles/3a48beef.json)
-
-[Extended Data](ext_articles/3a48beef.ext.json)
 
 ---

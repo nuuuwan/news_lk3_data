@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 07:55:13**
+As of **2024-08-25 08:18:01**
 
 ## Newspaper Stats
 
-*Scraped **42,436** Articles*
+*Scraped **42,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,570
 dailyftlk | 2,758
 adalk | 3,906
 dailymirrorlk | 4,733
-adaderanalk | 4,978
+adaderanalk | 4,979
 tamilmirrorlk | 5,510
 virakesarilk | 6,737
 adaderanasinhalalk | 7,258
@@ -26,23 +26,43 @@ adaderanasinhalalk | 7,258
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,427 (100.0%) of 42,436 articles have been extended.
+42,434 (100.0%) of 42,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### මරදානේදී දුම්රියක් පීලි පනියි
+### Fuel train derails at Maradana railway station
+
+*2024-08-25 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101475/fuel-train-derails-at-maradana-railway-station) · `en`
+
+A fuel train has derailed at the Maradana railway station this morning (25).
+
+The derailment has reportedly caused damages to the railway platform at the station.
+
+◼️
+
+[Data](articles/4a1dc01b.json)
+
+---
+
+### Train deletes in Maradana
 
 *2024-08-25 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200293) · `si`
 
-මරදාන දුම්රිය ස්ථානයේදී අද (25) උදෑසන දුම්රියක් පීලි පැනීමකට ලක්ව තිබේ.
+Maradana train derailment: Fuel train severely damaged at station.
 
-ඉන්ධන දුම්රියක් මෙලෙස පීලි පැනීමකට ලක්ව ඇති අතර මේ හේතුවෙන් දුම්රිය වේදිකාවට ද දැඩි හානි සිදුව තිබේ.
+🟩
+
+A train derailed at Maradana Railway Station this morning (25).
+
+A fuel train has been derailed and has been severely damaged by the train platform.
 
 ◼️
 
 [Data](articles/c788d5ed.json)
+
+[Extended Data](ext_articles/c788d5ed.ext.json)
 
 ---
 
@@ -134,6 +154,8 @@ SLT-MOBITEL, the National ICT Solutions Provider, reported moderate revenue grow
 
 [Data](articles/08a0dd33.json)
 
+[Extended Data](ext_articles/08a0dd33.ext.json)
+
 ---
 
 ### Megakem Engineering expands with new showrooms
@@ -147,6 +169,8 @@ Hayleys PLC retains credit rating of AAA(lka) by Fitch Ratings showcasing financ
 ...
 
 [Data](articles/47e1edd5.json)
+
+[Extended Data](ext_articles/47e1edd5.ext.json)
 
 ---
 
@@ -162,6 +186,8 @@ CEAT Kelani Holdings, which produces half of Sri Lanka’s pneumatic tyres, sour
 
 [Data](articles/1795cf11.json)
 
+[Extended Data](ext_articles/1795cf11.ext.json)
+
 ---
 
 ### Nurturing Tomorrow’s Leaders: COYLE Launches the Young Lankan’s Program
@@ -176,6 +202,8 @@ The Chamber of Young Lankan Entrepreneurs (COYLE) last week announced the launch
 
 [Data](articles/34e3cab4.json)
 
+[Extended Data](ext_articles/34e3cab4.ext.json)
+
 ---
 
 ### John Keells CG Auto opens BYD showroom & service center: Launches Plug-in Hybrid BYD SEALION 6 DM – i
@@ -189,6 +217,8 @@ The grand opening ceremony, held at the showroom situated at 447, Union Place, C
 ...
 
 [Data](articles/2edfecaa.json)
+
+[Extended Data](ext_articles/2edfecaa.ext.json)
 
 ---
 
@@ -207,6 +237,8 @@ Consolidated Revenue amounted to Rs.113.61 bn during the quarter with growth dri
 ...
 
 [Data](articles/8a9aaeb0.json)
+
+[Extended Data](ext_articles/8a9aaeb0.ext.json)
 
 ---
 
@@ -2181,33 +2213,5 @@ Doing the word.The Opposition Leader said that the United People's Power Age wil
 [Data](articles/30b51054.json)
 
 [Extended Data](ext_articles/30b51054.ext.json)
-
----
-
-### Sajith does not sympathize with the people of Anura, overlooking the suffering of the people -President
-
-*2024-08-24 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191837) · `ta`
-
-It seems like you've shared a detailed narrative involving various political figures and events, primarily focusing on economic policies, leadership changes, and community support in the context of Sri Lanka. Your text touches upon themes of leadership, economic recovery, social justice, and the importance of unity and support for future progress.
-
-
-
-Given the complexity and specificity of the content, how can I assist you further? Are you looking for analysis, synthesis of information, or perhaps guidance on how to address specific points within this narrative? Please provide more details on how I can assist you with this information.
-
-🟩
-
-President Ranil Wickremesinghe said that the people of this country should decide whether the people of Sajith Premadasa and Anura Dissanayake are eligible to take the country forward.
-
-Recalling that the first thing he had done was to fertilize the farmers after taking over the government in July 2022, the president said that the success of the country was a success and filling the fields and kitchens in the country.
-
-President Ranil Wickremesinghe made this statement while addressing the "Ceylon Sri Lanka" victory rally held at the Eravur Ahmed Pareed Stadium in Batticaloa on Thursday afternoon.
-
-A large number of people from the Sinhala, Tamil and Muslims participated in the meeting to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election. People greeted the President who attended the meeting.
-
-...
-
-[Data](articles/e7905bcc.json)
-
-[Extended Data](ext_articles/e7905bcc.ext.json)
 
 ---

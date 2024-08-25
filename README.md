@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 02:07:39**
+As of **2024-08-26 02:21:35**
 
 ## Newspaper Stats
 
-*Scraped **42,570** Articles*
+*Scraped **42,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 392
 colombotelegraphcom | 407
 islandlk | 2,473
 economynextcom | 2,572
-dailyftlk | 2,766
+dailyftlk | 2,767
 adalk | 3,924
 dailymirrorlk | 4,733
 adaderanalk | 4,997
@@ -26,11 +26,37 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,570 (100.0%) of 42,570 articles have been extended.
+42,570 (100.0%) of 42,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### SLIMFA forum explores media’s evolving role in elections amid digital revolution
+
+*2024-08-26 01:48:41* · [`dailyftlk`](https://www.ft.lk/opinion/SLIMFA-forum-explores-media-s-evolving-role-in-elections-amid-digital-revolution/14-765962) · `en`
+
+India Today Group Editorial Director (Publishing) and India Today magazine Editor Raj Chengappa
+
+In journalism, the moment you think you’ve made it, you’re finished. Continuous learning and evolving with the times is essential
+
+– India Today Group Editorial Director (Publishing) and India Today magazine Editor Raj Chengappa
+
+For the first time in Sri Lanka’s history, we’re enforcing a campaign finance ceiling, marking a pivotal step towards greater transparency in our electoral process
+
+Investigative journalist, senior editor, trainer, researcher, and rights advocate Dilrukshi Handunnetti
+
+In the digital era, while information spreads faster than ever, the responsibility to fact-check that information is crucial
+
+International award-winning investigative journalist, senior editor, trainer, researcher, and rights advocate Dilrukshi Handunnetti
+
+Serial entrepreneur, former corporate senior executive, columnist, and public speaker Saliya Weerakoon
+
+...
+
+[Data](articles/45b57133.json)
+
+---
 
 ### Govt. provides update on current developments to Colombo-based diplomatic corps
 
@@ -2253,27 +2279,5 @@ Meanwhile, SLPP MP Thissa Kuttiarachchi, who spoke during the rally, mentioned t
 [Data](articles/4f56bfcd.json)
 
 [Extended Data](ext_articles/4f56bfcd.ext.json)
-
----
-
-### Emergency Declaration in Israel - Attack on South Lebanon
-
-*2024-08-25 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/191911) · `ta`
-
-Israel declares emergency after Hezbollah attack on Lebanon targets. Defense Minister Yo Galant announces 48-hour state of emergency.
-
-🟩
-
-Israel has reported that the Hesbullah organization has launched an attack on the Hesbullah organization's targets in Lebanon following the fact that the Hesbullah organization was planning to launch an offensive.
-
-We have observed that the Hesbullah organization is ready to attack Israel and that its planes are carrying out attacks on the Hesbullah targets in South Lebanon.
-
-Meanwhile, the country's defense minister, Yo Galant, has announced that an emergency situation has been declared for the next 48 hours in Israel.
-
-◼️
-
-[Data](articles/2bd2ed60.json)
-
-[Extended Data](ext_articles/2bd2ed60.ext.json)
 
 ---

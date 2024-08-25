@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 12:21:39**
+As of **2024-08-25 12:36:46**
 
 ## Newspaper Stats
 
-*Scraped **42,480** Articles*
+*Scraped **42,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 405
 islandlk | 2,473
 economynextcom | 2,571
 dailyftlk | 2,758
-adalk | 3,911
+adalk | 3,912
 dailymirrorlk | 4,733
-adaderanalk | 4,985
+adaderanalk | 4,988
 tamilmirrorlk | 5,523
 virakesarilk | 6,742
 adaderanasinhalalk | 7,266
@@ -26,23 +26,79 @@ adaderanasinhalalk | 7,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,478 (100.0%) of 42,480 articles have been extended.
+42,480 (100.0%) of 42,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### ඊශ්‍රායලය හදිසි තත්ත්වයක් ප්‍රකාශයට පත් කරයි
+### Israel declares 48-hour emergency as Hezbollah announces “large-scale” attacks
+
+*2024-08-25 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101486/israel-declares-48-hour-emergency-as-hezbollah-announces-large-scale-attacks) · `en`
+
+Defence Minister Yoav Gallant announced a 48-hour nationwide state of emergency from 06:00 am (0300 GMT) Sunday after the Israeli military launched what it called pre-emptive strikes in Lebanon.
+
+“The declaration on the state of emergency enables the IDF (Israeli military) to issue instructions to the citizens of Israel, including limiting gatherings and closing sites where it may be relevant,” Gallant said, in a statement issued by his office.
+
+Lebanon-based Hezbollah announced on Sunday large-scale rocket and drone launches towards Israel in an “initial response” to a top commander’s killing, after Israel’s military said it was carrying out a series of pre-emptive strikes against the group.
+
+...
+
+[Data](articles/f9c88bcd.json)
+
+---
+
+### 10 transport associations including LPBOA back President Ranil for re-election
+
+*2024-08-25 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101485/10-transport-associations-including-lpboa-back-president-ranil-for-re-election) · `en`
+
+Ten major transport associations, including the Lanka Private Bus Owners Association (LPBOA), have pledged their support to President Ranil Wickremesinghe for the upcoming presidential election.
+
+This announcement was made during a meeting held on Saturday (23) evening at President’s campaign office in Flower Road, Colombo 07, where President Wickremesinghe was joined by Gemunu Wijeratne, Chairman of the LPBOA, and other association heads and representatives.
+
+The transport sector representatives emphasized their desire to avoid a recurrence of fuel shortages, which had previously hampered their ability to operate effectively. They highlighted the hardships experienced due to fuel scarcity and expressed their appreciation for President Wickremesinghe’s efforts in stabilizing the economy over the past two years.
+
+...
+
+[Data](articles/f18b0e99.json)
+
+---
+
+### Israel declares urgency
 
 *2024-08-25 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200301) · `si`
 
-ඊශ්‍රායලය පැය 48 ක රටපුරා හදිසි තත්වයක් ප්‍රකාශයට පත් කර තිබේ.
+Israel declares state of emergency due to Hezbollah attack on Lebanon.
 
-ඒ ලෙබනනය පදනම් කරගනිමින් හිස්බුල්ලා සංවිධානය ඊශ්‍රායලයට මහා පරිමාණ ප්‍රහාරයක් ප්‍රකාශ කර ඇති බැවිණි.
+🟩
+
+Israel has published a state of emergency throughout the 48 hour country.
+
+The Hezbollah was bowed by a large scale attack on Israel based on that lebanon.
 
 ◼️
 
 [Data](articles/13c5d150.json)
+
+[Extended Data](ext_articles/13c5d150.ext.json)
+
+---
+
+### කටුනායකින් ඇල්ලූ විශාලම දුම්වැටි තොගයක්
+
+*2024-08-25 11:52:25* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකින්-ඇල්ලූ-විශාලම-දුම්වැටි-තොගයක්/11-411542) · `si`
+
+නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට රැගෙන විත්, කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යාමට තැත් කළ රුපියල් එක් කෝටි තිස් අට ලක්ෂ හැට දහසක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි කාටුන් 462 ක තොගයක් සමග ගුවන් යානා දෙකක පැමිණි  ගුවන් මගීන් සිව් දෙනෙකු ද  ගුවන් තොටුපොළ රේගු නිලධාරීන් පිරිසක් විසින් 08/23 දින පස්වරුවේ අත් අඩංගුවට ගෙන තිබේ.
+
+මෙම අත් අඩංගුවට ගැනීම කටුනායක ගුවන් තොටුපොළ රේගු ඉතිහාසයේ විශාලතම දුම්වැටි වැටලීම් වලින් එකක් බව ගුවන් තොටුපොළ රේගු නිලධාරීවරයෙකු පැවසීය.
+
+මෙයින් 08/23 දින පස්වරු 03.20 ට අබුඩාබි නුවර සිට ඉටිහාඩ් ගුවන් සේවයේ ඊ.වයි.- 390 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි ගුවන් මගීන් තිදෙනකු ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබුණි .
+
+ඔවුන් අතර  ඇඹිලිපිටිය ප්‍රදේශයේ පදිංචි 34 හැවිරිදි සහ 23 හැවිරිදි ගුවන් මගීන් දෙදෙනෙකු සහ 40 හැවිරිදි අවිස්සාවේල්ල ප්‍රදේශයේ පදිංචි ගුවන් මගියෙකු වශයෙන් ගුවන් මගීන් තිදෙනෙකි.
+
+...
+
+[Data](articles/97f2d8b8.json)
 
 ---
 
@@ -91,6 +147,24 @@ The criminal had fled the attack on the people who were in a musical show site.
 [Data](articles/07076909.json)
 
 [Extended Data](ext_articles/07076909.ext.json)
+
+---
+
+### Sajith promises salary hikes, pension boosts and tax cuts; explains funding plan
+
+*2024-08-25 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101484/sajith-promises-salary-hikes-pension-boosts-and-tax-cuts-explains-funding-plan) · `en`
+
+Samagi Jana Balawegaya’s (SJB) Presidential candidate and Leader of the Opposition, Sajith Premadasa assures to implement a series of programmes to develop the country and enhance the livelihoods of the people by cutting down unnecessary expenses of the government.
+
+Addressing a election rally held in Digana, Premadasa highlighted that a new act will be introduced to strengthen the retired community of the country.
+
+“Yesterday, I pledged to establish a commission with full powers to grant a salary to public sector employees that can accommodate their standard of living. Additionally, the basic salary of state workers would be raised by 24%. We will also increase the monthly living expense allowances which currently stand at Rs 17,800 to Rs 25,000”, he said.
+
+Speaking further, the SJB leader said: “The limit for tax exemption will be maintained as it is. At the moment, 6% to 36% of public sector workers pay taxes. We expect to bring that figure down to a threshold of 1% to 24%.”
+
+...
+
+[Data](articles/c4195ecd.json)
 
 ---
 
@@ -1188,6 +1262,8 @@ In fact, this decision should come as no surprise.  There was little choice but 
 
 [Data](articles/c92aaf9e.json)
 
+[Extended Data](ext_articles/c92aaf9e.ext.json)
+
 ---
 
 ### Virgins and Bullies in Rural Sri Lanka
@@ -2137,107 +2213,5 @@ The Presidential Election is scheduled to be held on September 21.
 [Data](articles/3804166b.json)
 
 [Extended Data](ext_articles/3804166b.ext.json)
-
----
-
-### Do not cheat - request to voters
-
-*2024-08-24 14:08:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏமாற-வேண்டாம்-வாக்காளர்களிடம்-வேண்டுகோள்/175-342705) · `ta`
-
-Elections Commission warns against relying on polls for presidential election decision.
-
-🟩
-
-The Elections Commission has called on voters not to rely on polls on the presidential election.
-
-Elections Commissioner Saman Sri Ratnayake said that there is no need to change their opinion on the basis of polls.
-
-◼️
-
-[Data](articles/7340e7ec.json)
-
-[Extended Data](ext_articles/7340e7ec.ext.json)
-
----
-
-### Home Star to Home From Today
-
-*2024-08-24 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200272) · `si`
-
-Dilith Jayaweera presidential campaign covers 2000 villages, focuses on grassroots support rather than expensive advertising.
-
-🟩
-
-The election campaign to be organized to cover up 2,000 villages throughout the country to ensure the victory of the presidency of the presidentest Entrepreneurship Dilith Jayaweera.
-
-The presidential sector entrepreneur entrepreneur, Dilith Jayaweera, said, he went to meet the people to go to the village instead of spending a large amount of money.
-
-The executive committee member of the Alrangege Executive Committee was joined in the event.
-
-Surgeon power, presidential candidate - Entrepreneurship Dilith Jayaweera,
-
-"Today we have taken this to the 'home to house' star from today to give every home throughout the country."
-
-The goal of our "householder star" is the goal of the program rather than holding big money, starting with people and implement the politics of the village.
-
-◼️
-
-[Data](articles/afa77213.json)
-
-[Extended Data](ext_articles/afa77213.ext.json)
-
----
-
-### Club spring's problem reveals
-
-*2024-08-24 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200270) · `si`
-
-Arrests made in Club Wasantha murder case. Suspects include former Army soldier Ajith Rohana and two others. Weapons seized include T-56 rifle, shotguns, pistols. Interrogation ongoing.
-
-🟩
-
-Another information about the suspect shooter and two persons who supported him for Surendra Wasantha Perera, or Two persons who supported the shot.
-
-The three suspects were arrested in the Kawdana area, police said.
-
-The suspects were found in the suspects as a KPI equal to KPI as a KPI as found in Club Wasantha murder.
-
-Several suspects involved in the murder had been arrested earlier.
-
-Two persons, including Surendra Wasantha Perera, was shot dead in Athurugiriya area.
-
-The police could not arrest the two shooters and the assassination after the assassination of the two shooters and the murder.
-
-Three persons involved in the murder were arrested in a special operation conducted by the Criminal Inspector General of Inquiry in charge of the Criminal Inspector General of Investigation Hospital.
-
-Police said that Ajith Rohana alias Ajith Rohana alias Ajith Rohana alias the shooter who had come to assassinate Club Wasantha.
-
-He is a former Army soldier and has been attached to the 14th Lions Regiment.
-
-...
-
-[Data](articles/1465352e.json)
-
-[Extended Data](ext_articles/1465352e.ext.json)
-
----
-
-### Here is the date of starting the third school term
-
-*2024-08-24 13:30:18* · [`adalk`](https://www.ada.lk/breaking_news/තෙවන-පාසල්-වාරය-ආරම්භ-කරන-දිනය-මෙන්න/11-411529) · `si`
-
-Sinhala Tamil schools third term starts Monday 26th after second term ends
-
-🟩
-
-The third term for Sinhala and Tamil schools in government schools and government approved private schools will commence on Monday (26).
-
-The second school term ended on Friday last Friday, and the third term from Monday is scheduled to begin.
-
-◼️
-
-[Data](articles/cce60af2.json)
-
-[Extended Data](ext_articles/cce60af2.ext.json)
 
 ---

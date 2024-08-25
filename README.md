@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 08:18:01**
+As of **2024-08-25 08:36:43**
 
 ## Newspaper Stats
 
-*Scraped **42,437** Articles*
+*Scraped **42,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,979
 tamilmirrorlk | 5,510
 virakesarilk | 6,737
-adaderanasinhalalk | 7,258
+adaderanasinhalalk | 7,259
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,434 (100.0%) of 42,437 articles have been extended.
+42,434 (100.0%) of 42,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### කාන්තාවක් ඝාතනය වෙයි
+
+*2024-08-25 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200294) · `si`
+
+හොරණ, සිරිල්ටන්වත්ත ප්‍රදේශයේදී කාන්තාවකට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+ඊයේ (24) සවස් කාලයේදී මෙම ඝාතනය සිදුව ඇත්තේ පුද්ගලික ආරවුලක් දුරදිගයාමෙන් බව පොලීසිය පවසයි.
+
+මියගොස් ඇත්තේ, සිරිල්ටන්වත්ත, මීවනපලාන ප්‍රදේශයේ පදිංචිව සිටි 36 හැවිරිදි කාන්තාවකි.
+
+මරණකාරිය හා නිවස ආසන්නයේ පදිංචිව සිටි පුද්ගලයෙකු සමග පැවති පුද්ගලික ආරවුලක් දුරදිග යාම හේතුවෙන් එම පුද්ගලයා හා ඔහුගේ සහෝදරයා විසින් මෙම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+ඝාතනය සිදුකළ අවුරුදු 40 හා 44 යන වයස්වල පසුවන කනන්විල ප්‍රදේශයේ පදිංචි එකම පවුලේ සහෝදරයින් දෙදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/b1b51f9f.json)
+
+---
 
 ### Fuel train derails at Maradana railway station
 
@@ -2185,33 +2205,5 @@ Opposition Leader Sajith Premadasa issued a letter of appointment to the new con
 [Data](articles/304f950c.json)
 
 [Extended Data](ext_articles/304f950c.ext.json)
-
----
-
-### Sweet politics to protect their place and deceive state officials - Sajith Premadasa
-
-*2024-08-24 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191838) · `ta`
-
-Sajith Premadasa, the Opposition Leader, criticizes the government for its handling of poverty and state officials, promising real changes like salary increases for public servants, tax reductions, and modernization efforts. He addresses a rally, emphasizing genuine plans over false promises, and warns against attempts to create a secular society by pressuring religious rights.
-
-🟩
-
-The Opposition Leader said that he would deceive the state officials to take up a sweet politics to protect their place.
-
-So far, more than half the country has been captured by poverty and poverty, under pressure and discomfort.
-
-The United People's Power has entered the humanitarian operation to restore the entire population from poverty.
-
-Although this government has considered state officials as a loser and dilemma, state officials are now important to this government.. The reason for this is opportunism.
-
-Those who have said that public service is a loss to the country. The United People's Power does not make false promises.
-
-Doing the word.The Opposition Leader said that the United People's Power Age will be implemented with the right plans instead of false promises.
-
-...
-
-[Data](articles/30b51054.json)
-
-[Extended Data](ext_articles/30b51054.ext.json)
 
 ---

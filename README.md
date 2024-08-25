@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 17:21:50**
+As of **2024-08-25 17:37:07**
 
 ## Newspaper Stats
 
-*Scraped **42,512** Articles*
+*Scraped **42,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 2,571
 dailyftlk | 2,758
 adalk | 3,916
 dailymirrorlk | 4,733
-adaderanalk | 4,992
+adaderanalk | 4,993
 tamilmirrorlk | 5,530
-virakesarilk | 6,745
+virakesarilk | 6,747
 adaderanasinhalalk | 7,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,512 (100.0%) of 42,512 articles have been extended.
+42,512 (100.0%) of 42,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### மக்­களே தீர்ப்­பா­ளர்கள்
+
+*2024-08-25 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191904) · `ta`
+
+போட்­டி­யிட வாய்ப்பு கொடுக்­காத போது அல்­லது குறித்த கட்­சியில் வெற்றி வாய்ப்பு பிர­கா­ச­மாக இல்­லாத போது அல்­லது குறித்த கட்­சியில் முக்­கிய பத­வி­களை அடையக் கூடிய வாய்ப்­புகள் குறை­வாக இருக்கும் போது,  யாரேனும் வேட்­பா­ளர்கள் பிறி­தொரு அணியை தெரிவு செய்­வது வழக்கம்.
+
+◼️
+
+[Data](articles/d2d3d49c.json)
+
+---
+
+### அரசியல் தீர்வின் முக்கியத்துவமும்  பொறுப்புக்கூறலின்  அவசியமும்
+
+*2024-08-25 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191947) · `ta`
+
+இனப்பிரச்சினைக்கான தீர்வு தொடர்பில்  ஜனாதிபதி ரணில் விக்கிரமசிங்க   எதிர்க்கட்சித் தலைவர்   சஜித் பிரேமதாச , தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திசாநாயக்க,  சிறிலங்கா பொதுஜன பெரமுனவின் வேட்பாளர் நாமல் ராஜபக் ஷ,  உட்பட  39  ஜனாதிபதி வேட்பாளர்களும்   தமது நிலைப்பாட்டினை   தெரிவிக்கவேண்டும்.  அண்மையில்  யாழ்ப்பாணத்துக்கு விஜயம் செய்திருந்த ஜனாதிபதி  ரணில் விக்கிரமசிங்க  இலங்கை தமிழரசுக்கட்சியின்   தலைவர்  மாவை சேனாதிராஜாவை  சந்தித்து கலந்துரையாடியிருந்தார்.
+
+◼️
+
+[Data](articles/5c37b5af.json)
+
+---
+
+### Israel and Hezbollah trade heavy fire before pulling back, jolting a region braced for war
+
+*2024-08-25 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101491/israel-and-hezbollah-trade-heavy-fire-before-pulling-back-jolting-a-region-braced-for-war) · `en`
+
+Israel launched a wave of airstrikes across southern Lebanon early Sunday in what it said was a preemptive strike on Hezbollah. The militant group responded that it had launched hundreds of rockets and drones to avenge the killing of one of its top commanders last month.
+
+The heavy exchange of fire does not appear to have ignited a long-feared war, but the situation remains tense. Meanwhile, Egypt on Sunday is hosting high-level talks aimed at brokering a cease-fire in the 10-month-old Israel-Hamas war in Gaza, which diplomats hope will tamp down regional tensions.
+
+The Israeli military said it struck because Hezbollah was planning to launch a heavy barrage of rockets and missiles toward Israel. Soon after, Hezbollah announced it had launched an attack on Israeli military positions as an initial response to the killing of Fouad Shukur, one of its founding members, in an Israeli airstrike in Beirut last month.
+
+...
+
+[Data](articles/35f5842c.json)
+
+---
 
 ### SAVES Entrepreneurship Entrepreneurship Dilith Raw Rally Live
 
@@ -2203,77 +2243,5 @@ The Siddhi of a student who was arrested was a five -month pregnant woman withou
 [Data](articles/4a566b50.json)
 
 [Extended Data](ext_articles/4a566b50.ext.json)
-
----
-
-### Korea to invest in solar energy and agriculture projects in Sri Lanka
-
-*2024-08-24 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101472/korea-to-invest-in-solar-energy-and-agriculture-projects-in-sri-lanka) · `en`
-
-Prime Minister Dinesh Gunawardena has expressed the government’s readiness to attract foreign investments and its plans to increase the share of alternative energy sources to cut down the dependence on crude oil.
-
-He conveyed this, in a meeting with a leading entrepreneur from the People’s Republic of South Korea, Tong-Jo Mun at the Temple Trees in Colombo held recently.
-
-Tong-Jo Mun stated that the International Interchange Development Associations (IIDA) are willing to invest in several solar energy projects as well as in the cultivation of fruits in Sri Lanka for export to Korea and other countries.
-
-Meanwhile, the Prime Minister and Mun also discussed possible investments in fisheries, health, and construction sectors, especially new technology to upgrade production in these sectors.
-
-◼️
-
-[Data](articles/f6037a6d.json)
-
-[Extended Data](ext_articles/f6037a6d.ext.json)
-
----
-
-### The boy who tried to abuse the little girl
-
-*2024-08-24 21:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமியை-துஷ்பிரயோகப்படுத்த-முயன்ற-சிறுவன்/76-342708) · `ta`
-
-14-year-old boy arrested for attempting to sexually abuse 11-year-old girl in Maskeliya. Incident reported to police. Victim hospitalized. Investigation ongoing.
-
-🟩
-
-A 14 -year -old boy who tried to sexually abuse a 11 -year -old girl has been admitted to the Child Reform School.
-
-The incident took place yesterday in the Maskeliya Police Division.
-
-The girl has been rescued and admitted to the Dikoya Klangan Base Hospital as the big father suddenly came home when she tried to rape the daughter of a large father (11 years old).
-
-The 14 -year -old boy, who was arrested on a complaint lodged by the big father, was arrested and produced before the Hatton court yesterday.
-
-Police are continuing to investigate the matter. The victim's mother is working in the capital city and the girl has been rescued as the father went out of his daily business and accidentally returned home.. Remble
-
-◼️
-
-[Data](articles/c8eab20b.json)
-
-[Extended Data](ext_articles/c8eab20b.ext.json)
-
----
-
-### Discussion on local government polls
-
-*2024-08-24 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200288) · `si`
-
-Local government poll discussion: Elections Commission lacks funds; Chairman claims money sent to Treasury; candidates who didn't nominate have left country; special discussion scheduled next week.
-
-🟩
-
-The Elections Commission says that a special discussion is scheduled to hold a special discussion on the local government election.
-
-Chairman of the top RMAL Ratnayake says that the Commission has no money for the election.
-
-He says that all the money has been rejected to the Treasury except the basic expenses made for the election.
-
-He added that some candidates who gave no nominations for the local government elections have been reported to have left the country.
-
-Accordingly, a special discussion is scheduled to be held on next week of the Local Government Elections.
-
-◼️
-
-[Data](articles/7c6a5cb0.json)
-
-[Extended Data](ext_articles/7c6a5cb0.ext.json)
 
 ---

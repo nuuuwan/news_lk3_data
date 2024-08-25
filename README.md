@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 15:06:26**
+As of **2024-08-25 15:21:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,270
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,497 (100.0%) of 42,498 articles have been extended.
+42,498 (100.0%) of 42,498 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -516,23 +516,33 @@ Addressing a public rally held in Balangoda, the NPP leader also explained how t
 
 ---
 
-### උසස්පෙළ සිසුවිය මවට ලිපියක් ලියා නිදි ඇඳේම මියගිහින්
+### Advanced Level Girl Deaths in Writing a Letter of Lies
 
 *2024-08-25 11:21:14* · [`adalk`](https://www.ada.lk/breaking_news/උසස්පෙළ-සිසුවිය-මවට-ලිපියක්-ලියා-නිදි-ඇඳේම-මියගිහින්/11-411539) · `si`
 
-මොනරාගල පොලිස් වසමට අයත් වැඳිකුඹුර අම්පිටිය පදිංචි උසස්පෙළ හදාරන පාසල් සිසුවියක් ඉකුත් (24) වෙනිදා මවට ලිපියක් ලියා නිදි ඇඳේම  මියගොස් ඇතැයි මොනරාගල පොලීසිය පවසයි.
+Schoolgirl dies in letter writing incident. Economic hardships led to learning issues. Post-mortem conducted. Further investigation ongoing.
 
-මෙලෙස මියගොස් ඇත්තේ මොනරාගල වැඳිකුඹුර විද්‍යාලෝක අංශයෙන් උසස්පෙළ හදාරන වීරසිංහ කංකානම්ලාගේ මෝක්ෂා සෙව්වන්දි (18) නැමති සිසුවියකි.
+🟩
 
-ඇයගේ පියා මීට වසර හතරකට පමණ ඉහතදී වනඅලියෙකු පහරදීමෙන් මියගොස් ඇත.
+A schoolgirl studying in Ampitiya Police Station has died in a letter to sleep on the past (24).
 
-මව,මල්ලි සහ ඇය නිවසේ පදිංචිව සිටින අතර ඉකුත් (24) වෙනිදා උදෑසන මව උක්ගස් කැපීම සඳහා නිවසෙන් පිටවගොස් ඇති අතර මල්ලිද උපකාරක පන්තියකට ගොස් තිබේ.
+The deceased has been identified as the Advanced Valley Virini Vidikalaka, Weerasinghe Kankankan Kananamkala's Makmanana Sewade (18).
 
-පස්වරු තුනට පමණ මල්ලි පැමිණ බලන විටදී ඇය නිදිඇදේ මියගොස් සිටිනු දැක ඇත.ඇය විසින් ලියන ලද ලිපියේ “අම්මා අපි නිසා දුක් විඳිනවා.ඒ ගැන මට කනගාටුයි”කියා සඳහන්කර ඇත.
+Her father was killed in assaulting a wildlife about four years ago.
 
-...
+The mother, brother and her reside in the house and the mother had left the house to cut their nuts and went to a tuition class.
+
+When she visited the afternoon, she was sleeping at the age of three overs. "My mother is saddened by us."
+
+Investigations have revealed that she had problems even to learn due to economic hardship. HNR Medical Officer of HNR Yapa said at the Moneragala district hospital with the post mortem examination of her death.
+
+The body of the body has been sent to the Medical Testing Company for further investigations.Acting Headquarters Police Inspector Janaka Ratnasiri is conducting investigations.
+
+◼️
 
 [Data](articles/7508781f.json)
+
+[Extended Data](ext_articles/7508781f.ext.json)
 
 ---
 

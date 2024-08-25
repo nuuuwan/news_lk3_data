@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 05:39:52**
+As of **2024-08-25 06:42:14**
 
 ## Newspaper Stats
 
-*Scraped **42,423** Articles*
+*Scraped **42,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ dailyftlk | 2,758
 adalk | 3,906
 dailymirrorlk | 4,733
 adaderanalk | 4,977
-tamilmirrorlk | 5,509
+tamilmirrorlk | 5,510
 virakesarilk | 6,737
-adaderanasinhalalk | 7,255
+adaderanasinhalalk | 7,256
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,418 (100.0%) of 42,423 articles have been extended.
+42,423 (100.0%) of 42,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### අද කාලගුණය
+
+*2024-08-25 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200291) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (25) දිනයේ වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/7554adc9.json)
+
+---
 
 ### Men of note from the minorities
 
@@ -46,6 +64,8 @@ Sir Ponnambalam Ramanathan had held the office of Solicitor-General under Britis
 
 [Data](articles/7bcbd4e1.json)
 
+[Extended Data](ext_articles/7bcbd4e1.ext.json)
+
 ---
 
 ### Meetings with Gandhi and Nehru;Message from Ramgarh to Ceylon
@@ -59,6 +79,8 @@ The little village of Ramgarh is today famous throughout the world. For here gat
 ...
 
 [Data](articles/c71a7059.json)
+
+[Extended Data](ext_articles/c71a7059.ext.json)
 
 ---
 
@@ -74,6 +96,8 @@ The Ambani wedding was an exceptional example of this tradition, elevated to unp
 
 [Data](articles/e9824b93.json)
 
+[Extended Data](ext_articles/e9824b93.ext.json)
+
 ---
 
 ### Elections in Sri Lanka: A Preliminary Audit
@@ -85,6 +109,8 @@ Sri Lankans will be voting in September, and they will be voting for the first t
 ...
 
 [Data](articles/7df47edc.json)
+
+[Extended Data](ext_articles/7df47edc.ext.json)
 
 ---
 
@@ -101,6 +127,8 @@ The powers attached to the executive presidency have been misused even by those 
 ...
 
 [Data](articles/c248e79a.json)
+
+[Extended Data](ext_articles/c248e79a.ext.json)
 
 ---
 
@@ -1420,6 +1448,24 @@ Elections Commissioner General Saman Sri Ratnayake said there was no need to cha
 
 ---
 
+### சிறுவனை கடித்த  சிறிய தாய்
+
+*2024-08-24 08:54:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-கடித்த-சிறிய-தாய்/76-342701) · `ta`
+
+லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட வளஹா தோட்டத்தில் வசிக்கும் 10 வயது சிறுவன் ஒருவன் தனது சிறிய தாயாரினால் கடந்த சில தினங்களாக கொடூர சித்திரவதைக்குட்படுத்திய சம்பவம் தொடர்பில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+குறித்த சிறுவன் அடிக்கப்பட்டு கடிக்கப்பட்டு பல வகையான சித்திரவதைகளை ஏற்படுத்தி உள்ளதாகவும் அதனை விசாரித்து அறிந்த பாடசாலை சமூகம் லிந்துலை பொலிஸ் இணையத்தில் முறைப்பாடு செய்துள்ளனர்.
+
+சித்திரவதைக்கு உள்ளான சிறுவன் லிந்துலை  பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைகளுக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு நேற்றைய தினம் அனுப்பப்பட்டுள்ளார்.
+
+அதே சமயம்  நேற்றைய தினம் சம்பவத்துடன் தொடர்புடைய சிறிய தாயார் பொலிஸாரினால் வரவழைக்கப்பட்டு விசாரணைகளுக்கு உட்படுத்தினர். விசாரணைகளை தொடர்ந்து குறித்த பெண் கைது செய்யப்பட்டு இன்றைய தினம் நுவரெலியா மாவட்ட நீதவால் முன்னிலையில் ஆஜர் படுத்த நடவடிக்கை எடுத்துள்ளதாக லிந்துலை பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார்.
+
+...
+
+[Data](articles/01834cec.json)
+
+---
+
 ### The little mother who bite and beaten the boy
 
 *2024-08-24 08:54:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-கடித்தும்-அடித்தும்-சித்திரவதை-செய்த-சிறிய-தாய்/76-342701) · `ta`
@@ -2181,37 +2227,5 @@ Over the ‘long weekend’ a few days ago, an immersive editorialist – like a
 [Data](articles/5dbd5338.json)
 
 [Extended Data](ext_articles/5dbd5338.ext.json)
-
----
-
-### Will the old order accept AKD victory?
-
-*2024-08-23 23:27:57* · [`dailyftlk`](https://www.ft.lk/columns/Will-the-old-order-accept-AKD-victory/4-765918) · `en`
-
-NPP’s system-change and economic reforms minus a few populist promises ensure a modestly achievable target for a country caught in poly-crisis in comparison to the undeliverable and dreamy paradise guaranteed by its opponents. But the question is whether the guardians of the old order would allow NPP to cross the line. There are also foreign powers with vested interests observing closely local developments
-
-...
-
-[Data](articles/b8998bcd.json)
-
-[Extended Data](ext_articles/b8998bcd.ext.json)
-
----
-
-### Measuring, preventing, and responding to non-economic loss caused by climate change
-
-*2024-08-23 23:25:29* · [`dailyftlk`](https://www.ft.lk/columns/Measuring-preventing-and-responding-to-non-economic-loss-caused-by-climate-change/4-765917) · `en`
-
-There is a broad range of climate-induced losses that are difficult to restore, reverse, or quantify
-
-Climate-induced loss and damage refers to the impacts of climate change that exceed the practical or theoretical limits of adaptation. It is increasingly recognised as an important challenge for countries across the world and seen by many as the third pillar of the Paris Agreement in addition to mitigation (the reduction of greenhouse gas emissions) and adaptation.
-
-While economic losses and damages—such as destruction of property, assets, infrastructure, or the loss of agricultural production—can potentially be repaired and compensation payments might enable affected communities to rebuild and recover, there is a broad range of losses that are difficult to restore, cannot be reversed, or not easily quantifiable in financial terms. These “non-economic” losses can affect individuals, communities, or the natural environment, and result from a variety of climatic events and processes.
-
-...
-
-[Data](articles/1aa25120.json)
-
-[Extended Data](ext_articles/1aa25120.ext.json)
 
 ---

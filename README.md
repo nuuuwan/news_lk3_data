@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 06:07:09**
+As of **2024-08-25 05:39:52**
 
 ## Newspaper Stats
 
-*Scraped **42,424** Articles*
+*Scraped **42,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,758
 adalk | 3,906
 dailymirrorlk | 4,733
 adaderanalk | 4,977
-tamilmirrorlk | 5,510
+tamilmirrorlk | 5,509
 virakesarilk | 6,737
 adaderanasinhalalk | 7,255
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,418 (100.0%) of 42,424 articles have been extended.
+42,418 (100.0%) of 42,423 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1420,24 +1420,6 @@ Elections Commissioner General Saman Sri Ratnayake said there was no need to cha
 
 ---
 
-### சிறுவனை கடித்த  சிறிய தாய்
-
-*2024-08-24 08:54:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-கடித்த-சிறிய-தாய்/76-342701) · `ta`
-
-லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட வளஹா தோட்டத்தில் வசிக்கும் 10 வயது சிறுவன் ஒருவன் தனது சிறிய தாயாரினால் கடந்த சில தினங்களாக கொடூர சித்திரவதைக்குட்படுத்திய சம்பவம் தொடர்பில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
-
-குறித்த சிறுவன் அடிக்கப்பட்டு கடிக்கப்பட்டு பல வகையான சித்திரவதைகளை ஏற்படுத்தி உள்ளதாகவும் அதனை விசாரித்து அறிந்த பாடசாலை சமூகம் லிந்துலை பொலிஸ் இணையத்தில் முறைப்பாடு செய்துள்ளனர்.
-
-சித்திரவதைக்கு உள்ளான சிறுவன் லிந்துலை  பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைகளுக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு நேற்றைய தினம் அனுப்பப்பட்டுள்ளார்.
-
-அதே சமயம்  நேற்றைய தினம் சம்பவத்துடன் தொடர்புடைய சிறிய தாயார் பொலிஸாரினால் வரவழைக்கப்பட்டு விசாரணைகளுக்கு உட்படுத்தினர். விசாரணைகளை தொடர்ந்து குறித்த பெண் கைது செய்யப்பட்டு இன்றைய தினம் நுவரெலியா மாவட்ட நீதவால் முன்னிலையில் ஆஜர் படுத்த நடவடிக்கை எடுத்துள்ளதாக லிந்துலை பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார்.
-
-...
-
-[Data](articles/01834cec.json)
-
----
-
 ### The little mother who bite and beaten the boy
 
 *2024-08-24 08:54:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-கடித்தும்-அடித்தும்-சித்திரவதை-செய்த-சிறிய-தாய்/76-342701) · `ta`
@@ -2213,5 +2195,23 @@ NPP’s system-change and economic reforms minus a few populist promises ensure 
 [Data](articles/b8998bcd.json)
 
 [Extended Data](ext_articles/b8998bcd.ext.json)
+
+---
+
+### Measuring, preventing, and responding to non-economic loss caused by climate change
+
+*2024-08-23 23:25:29* · [`dailyftlk`](https://www.ft.lk/columns/Measuring-preventing-and-responding-to-non-economic-loss-caused-by-climate-change/4-765917) · `en`
+
+There is a broad range of climate-induced losses that are difficult to restore, reverse, or quantify
+
+Climate-induced loss and damage refers to the impacts of climate change that exceed the practical or theoretical limits of adaptation. It is increasingly recognised as an important challenge for countries across the world and seen by many as the third pillar of the Paris Agreement in addition to mitigation (the reduction of greenhouse gas emissions) and adaptation.
+
+While economic losses and damages—such as destruction of property, assets, infrastructure, or the loss of agricultural production—can potentially be repaired and compensation payments might enable affected communities to rebuild and recover, there is a broad range of losses that are difficult to restore, cannot be reversed, or not easily quantifiable in financial terms. These “non-economic” losses can affect individuals, communities, or the natural environment, and result from a variety of climatic events and processes.
+
+...
+
+[Data](articles/1aa25120.json)
+
+[Extended Data](ext_articles/1aa25120.ext.json)
 
 ---

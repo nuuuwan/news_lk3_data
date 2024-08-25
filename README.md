@@ -1,36 +1,58 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 21:36:54**
+As of **2024-08-25 21:56:17**
 
 ## Newspaper Stats
 
-*Scraped **42,548** Articles*
+*Scraped **42,551** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 392
-colombotelegraphcom | 405
+colombotelegraphcom | 406
 islandlk | 2,473
 economynextcom | 2,571
 dailyftlk | 2,758
-adalk | 3,922
+adalk | 3,923
 dailymirrorlk | 4,733
 adaderanalk | 4,995
 tamilmirrorlk | 5,535
 virakesarilk | 6,760
-adaderanasinhalalk | 7,283
+adaderanasinhalalk | 7,284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,548 (100.0%) of 42,548 articles have been extended.
+42,548 (100.0%) of 42,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### ඇඟේ ගා ගන්නේ නැතුව සුද්ද කරන්නම් - අනුර
+
+*2024-08-25 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200322) · `si`
+
+සියලුදෙනා නීතිය ඉදිරියේ සමාන කොට සලකන රජයක් සහ නීති පද්ධතියක් ස්ථාපිත කරන බව ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+එම පක්ෂය කොළඹදී සංවිධානය කළ කාන්තා රැලිය අමතමින් ඔහු මේ බව පැවසීය.
+
+"ගැහැනු බලය එක මිටකට හෙට වෙනුවෙන්" මැයෙන් ජාතික ජන බලවේගය සංවිධාන කළ කාන්තා රැලිය කොළඹදී අද (25) පැවැත්විය.
+
+ඒ පක්ෂ නායක ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙනි.
+
+එහිදි ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසුවේ පියවරෙන් පියවර ආර්ථිකය පොහොසත් කිරීම සඳහා කටයුතු කරන බවත් එතෙක් ආර්ථික අපහසුතා තිබෙන පීඩිත පවුල් සඳහා රුපියල් 10,000ක සහ 15,000 බැගින් මුදල් මාසිකව ලබාදෙන බවත්ය.
+
+"අපි ආරම්භයේ සිටම සුද්ද කරන්නම්. ඇඟේ ගා ගන්නේ නැතුව... මතක තියාගන්න. බිය වෙන්න ඕනේ නීතියට."
+
+◼️
+
+[Data](articles/776c9a3c.json)
+
+---
 
 ### Don't fall on the night pit - President
 
@@ -211,6 +233,22 @@ Our policy is to vote for our community and the nation's appropriate candidate. 
 [Data](articles/69c6c05b.json)
 
 [Extended Data](ext_articles/69c6c05b.ext.json)
+
+---
+
+### රිෂාඩ්ගේ පක්ෂයත් දෙකට කැඩෙයි
+
+*2024-08-25 18:35:42* · [`adalk`](https://www.ada.lk/breaking_news/රිෂාඩ්ගේ-පක්ෂයත්-දෙකට-කැඩෙයි/11-411548) · `si`
+
+සමස්ත ලංකා මහජන කොංග්‍රසය මෙවර ජනාධිපතිවරණයේදී විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමට තීරණය කළත්, තමන් එම තීරණයට එකඟ නැතැයි එම කොංග්‍රසයේ ජාතික සංවිධායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී මොහොමඩ් අබ්දුල්ලා මහරුප් මහතා පැවසීය.
+
+තමන්ගේ මෙම තීරණය පක්ෂ නායක පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බද්යුදීන් මහතාට දැනුම් දුන් බවත් මෙම තීරණය අලුත් දෙයක් නොවන බවත් තම පක්ෂයේ උත්තරීතර මණ්ඩලය සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමට තීරණය කිරීමට පෙර මෙම දැනුම් දීම සිදුකර තිබූ බවත් ජාතික සංවිධායකවරයා කීවේය.
+
+“මගේ ආධාරකරුවන් සියයට අනූපහක් මාස හයක් තිස්සේ කියනවා. ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දෙන්න ඕන කියලා. එහෙම තියෙද්දි මම කොහොමද සජිත් ප්‍රේමදාස මහතාට සහාය දෙන්නේ. අනික් එක අපි බලන්න ඕන ආර්ථික අර්බුදයට ලක්වෙලා තිබුණු වෙලාවේ තෙල් පෝලිම් සහ ගෑස් පෝලිම් යුගය නැති කරලා රට ගොඩ ගත්තේ කවුද කියලා. ඒ අර්බුදයට අපි ආයි යනවද කියන එක අපි බලන්න ඕන. සජිත්ට සහාය පළ කරලා සජිත් බලයට ආවොත් නැවත වෙන්නේ රට ආර්ථික වශයෙන් අරාජික වෙන එක විතරයි” යැයි ජාතික සංවිධායකවරයා තවදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/48adc4aa.json)
 
 ---
 
@@ -921,6 +959,22 @@ The Tamil people must be aware of many independent candidates to scatter the vot
 [Data](articles/a8757e91.json)
 
 [Extended Data](ext_articles/a8757e91.ext.json)
+
+---
+
+### The IMF & Election Propaganda
+
+*2024-08-25 15:33:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-imf-election-propaganda/) · `en`
+
+During the ongoing debates, conversations and media shows, there is a strong focus on the IMF assistance we have obtained in the recent past. Some Political leaders and their spokesmen canvassing support for their candidacies, are repeatedly stating that the IMF agreements we have already concluded will be revisited by them if they come to power and revised according to their wishes.
+
+In such a context it has become necessary for an independent review of these aspirations which unfortunately appear to gain ground and causing mind boggling confusions among the gullible public.
+
+This is not the first occasion of our country getting IMF assistance. According to the known history last IMF assistance was the 17th in line with several other facilities granted before between 1966 and 2016  extending as follows. Four arrangements from 1965-70;  Four arrangements between 1970-80 ; 2 from 1980 to 1990; and –  In six occasions between 1990- to 2016.
+
+...
+
+[Data](articles/7b19f833.json)
 
 ---
 
@@ -2241,79 +2295,5 @@ Tanamalwila Acting OIC Nishantha Gamage said that after the death inspection of 
 [Data](articles/15fcc068.json)
 
 [Extended Data](ext_articles/15fcc068.ext.json)
-
----
-
-### Postal workers' leave canceled
-
-*2024-08-25 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200295) · `si`
-
-Postal workers' leave canceled due to presidential election. Essential reasons require approval from Deputy Post Master General.
-
-🟩
-
-All postal employees have been canceled on the immediate effect.
-
-Rajitha Ranasinghe said that the leave of postal employees had been canceled until the presidential election was held.
-
-Rajitha Ranasinghe said he had decided to cancel their leave based on the presidential election.
-
-Deputy Post Master General Rajitha Ranasinghe added that if a person wants to get off on an essential reason, the post mail has to be obtained.
-
-◼️
-
-[Data](articles/29546656.json)
-
-[Extended Data](ext_articles/29546656.ext.json)
-
----
-
-### Club Wasantha murder was arrested
-
-*2024-08-25 08:23:34* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-ප්‍රධාන-වෙඩික්කරු-අල්ලයි/11-411534) · `si`
-
-Club Wasantha murder suspects arrested in Athurugiriya. Ajith Rohana, 31, arrested along with two others. Suspects linked to monk Mohamed Imran. Police investigation ongoing.
-
-🟩
-
-Three persons who were signing and the man who had come to the opening of a Tatubagiriya showroom in Athurgiriya area were opened to the date of opening of a Tatubagiriya showroom in the Athurugiriya area.The Criminal Division has been arrested by the police.
-
-Ajith Rohana, who was arrested (31), was a man of the age of 31, and after the assassination, I කෙවේ monk Mohamed Imran Silra Place the area after his assassination.It is revealed that they are also a rented.
-
-The shooter and the supporter person has come across Imran on the 20th. Imran has given this house as a business location of the Mannar area about three months ago, about three months ago. The house was empty with the business, stopping the business. Accordingly, the two killers have been provided with temporary accommodation and 20. ODIs have arrived.
-
-The police said that the police said that the Criminal Division has been arrested by the Criminal Division.
-
-...
-
-[Data](articles/2679e7ad.json)
-
-[Extended Data](ext_articles/2679e7ad.ext.json)
-
----
-
-### Woman murder
-
-*2024-08-25 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200294) · `si`
-
-Horana woman murdered sharp instrument personal dispute two brothers arrested
-
-🟩
-
-In Horana, a woman has been attacked with a sharp instrument and killed.
-
-The murder was in progress of the murder yesterday (24).
-
-The deceased has been identified as a 36 year old resident of the Bevantanena.
-
-Police said that the murder had been carried out by the police and his brother due to a personal dispute with a person who had a personal dispute with a person who had a resident of the country.
-
-Two brothers and brothers have been arrested by the police, who were in the aged 40 and 44 years of the murder.
-
-◼️
-
-[Data](articles/b1b51f9f.json)
-
-[Extended Data](ext_articles/b1b51f9f.ext.json)
 
 ---

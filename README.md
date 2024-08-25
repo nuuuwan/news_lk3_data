@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 18:15:51**
+As of **2024-08-25 18:27:05**
 
 ## Newspaper Stats
 
-*Scraped **42,520** Articles*
+*Scraped **42,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ colombotelegraphcom | 405
 islandlk | 2,473
 economynextcom | 2,571
 dailyftlk | 2,758
-adalk | 3,917
+adalk | 3,918
 dailymirrorlk | 4,733
-adaderanalk | 4,993
+adaderanalk | 4,994
 tamilmirrorlk | 5,530
 virakesarilk | 6,749
-adaderanasinhalalk | 7,278
+adaderanasinhalalk | 7,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,520 (100.0%) of 42,520 articles have been extended.
+42,520 (100.0%) of 42,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### Telegram CEO ප්‍රංශයේදී අත්අඩංගුවට
+
+*2024-08-25 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200318) · `si`
+
+ලොව ජනප්‍රිය සමාජ මාධ්‍යයක් වන Telegram සමාගමේ ප්‍රධාන විධායක නිලධාරී පවෙල් ඩුරොව් ප්‍රංශ පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+පැරීසියට උතුරින් පිහිටි ගුවන් තොටුපොළකට ඔහුගේ පෞද්ගලික ජෙට් යානය ගොඩබැස්සවීමත් සමඟ මෙම අත්අඩංගුවට ගැනීම සිදුවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+Telegram යෙදවුමට අදාළ වැරදි කිහිපයක් සම්බන්ධයෙන් ප්‍රංශය විසින් ගෙන තිබූ වරෙන්තුවට අනුව ප්‍රකෝටිපති ව්‍යාපාරිකයෙකු වන 39 හැවිරිදි ඩුරොව් මෙලෙස අත්අඩංගුවට පත්විය.
+
+රුසියාවේ උපත ලැබූවෙකු වන ඩුරෝව් මේ වනවිට එක්සත් අරාබි එමීර් රාජ්‍යයේ ජීවත් වන අතර, ඔහුට ප්‍රංශයේ මෙන්ම එක්සත් අරාබි එමීර් රාජ්‍යයේද පුරවැසිභාවය හිමිය.
+
+Facebook, YouTube, WhatsApp, Instagram, TikTok සහ Wechat වලට පසුව Telegram ලොව ප්‍රධානම සමාජ මාධ්‍ය යෙදවුම   ලෙස සැලකෙයි.
+
+Telegram යෙදවුම රුසියාව, යුක්‍රේනය මෙන්ම පැරණි සෝවියට් සංගමයේ ප්‍රාන්තවල වඩාත් ජනප්‍රිය යෙදවුමකි.
+
+◼️
+
+[Data](articles/f2eb0eb1.json)
+
+---
+
+### Rail transport of solid waste begins for first time
+
+*2024-08-25 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101493/rail-transport-of-solid-waste-begins-for-first-time) · `en`
+
+The transportation of solid waste by train commenced today (25), for the first time in the country’s history.
+
+The waste, collected from the Wanawasala Garbage Exchange Center, was transported to the Aruvakkadu landfill project in Puttalam by train.
+
+A total of 20 large containers were loaded onto train number 756, which completed the journey to Puttalam before the waste was transferred to the Aruvakkadu landfill.
+
+Despite the initiative, some residents have reportedly expressed opposition to this move. A small group of protesters gathered near Noor Nagar railway station yesterday (24) and again this afternoon, voicing their concerns about the transportation of waste through their area, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/b8e16aae.json)
+
+---
+
+### මහජන සෞඛ්‍ය පරීක්ෂකවරුන් දෙදෙනෙක් මරුට
+
+*2024-08-25 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200317) · `si`
+
+කළුතර අවිත්තාව, ඉහළකන්ද ප්‍රදේශයේ ඇතාවැටුණුවල යන ස්ථානයේ දිය නාමින් සිටි පිරිසකගෙන් දෙදෙනෙකු දියේ ගිලි මියගොස් තිබේ.
+
+මොරටුව ප්‍රදේශයේ ඩෙංගු මර්ධන සහයකයින් පිරිසක් සහ මහජන සෞඛ්‍ය පරීක්ෂකවරුන් සිව්දෙනෙකු අද (25) පෙරවරුවේ මෙම දියවලෙහි දිය නෑමට ගොස් ඇත.
+
+මෙලෙස දියේ ගිලි මියගොස් ඇත්තේ මොරටුව සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට අනුයුක්තව සේවය කළ එස්. ගෞතම් සහ එගොඩ උයන සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට අනුයුක්තව සේවය එස්. හර්ෂනාත් යන මහජන සෞඛ්‍ය පරීක්ෂකවරුන් දෙදෙනාය.
+
+දේහයන් පිළිබඳ හදිසි මරණ පරීක්ෂණ හෙට (26) දිනයේදී පැවැත්වීමට නියමිත අතර ඉත්තෑපාන පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/c7296cf2.json)
+
+---
 
 ### Violence against British Muslims under Israel's sponsors
 
@@ -795,6 +853,20 @@ The Hezbollah was bowed by a large scale attack on Israel based on that lebanon.
 [Data](articles/13c5d150.json)
 
 [Extended Data](ext_articles/13c5d150.ext.json)
+
+---
+
+### සබරගමුවේ කෝටි ගණනක  වාහන දිරාපත් වෙයි
+
+*2024-08-25 12:00:23* · [`adalk`](https://www.ada.lk/breaking_news/සබරගමුවේ-කෝටි-ගණනක--වාහන-දිරාපත්-වෙයි/11-411543) · `si`
+
+සබරගමුව  පළාත්  සභාව පිටුපස භුමියේ වසරකට අධික කාලයක් තිස්සේ වෙන්දේසි කිරිමට නියමිත රුපියල් ලක්ෂ ගණනාවක් වටිනා වාහන රැසක් අව්වට වේලෙමින් වැස්සට තෙමෙමින් දිරා පත්වෙන බව පළත් සභාවේ සේවකයින් පවසති.
+
+පළාත් සභාව සතු ආයතන වලට අයත් මෙම වාහන තව දුරටත් දිරා පත්විමට නොදි වෙන්දේසි කිරිමට හෝ අළුත් වැඩියා කර ආයතන වල ප්‍රයෝජනයට ගැනිමට අදාල බලධාරින් කඩිනම් පියව ගත යුතුව ඇති බවද සබරගමුව පළාත් සභාවේ සේවකයින්  පවසති
+
+◼️
+
+[Data](articles/aa58886d.json)
 
 ---
 
@@ -2159,101 +2231,5 @@ The powers attached to the executive presidency have been misused even by those 
 [Data](articles/c248e79a.json)
 
 [Extended Data](ext_articles/c248e79a.ext.json)
-
----
-
-### “The current president has proven his abilities. He single handedly brought the situation of the country under control. I know not everyone is happy, and we have some way to go, but we can get there together” -Thalatha Atukorale.
-
-*2024-08-25 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84585) · `en`
-
-Samagi Jana Balawegaya (SJB) Ratnapura District MP Thalatha Atukorale, who resigned from her seat in parliament on Wednesday, said she is yet undecided on supporting any of the presidential candidates, but she could no longer remain in the SJB given the manner in which the party is being run.
-
-“There are many reasons why I chose to quit, but I don’t want to say much as we are in the middle of an election campaign. From the beginning, I had the feeling that the leader (SJB leader Sajith Premadasa) was not listening to whatever we told him, and we were not appreciated. There is also no proper plan for the party. In addition to that, there were some issues involving my district,” Ms. Atukorale told the Sunday Times.
-
-...
-
-[Data](articles/98e1a99f.json)
-
-[Extended Data](ext_articles/98e1a99f.ext.json)
-
----
-
-### Sajith and Anura Promise to Abolish the Executive Pesidency if they come to Powe; Reality is that people are not going to trust politicians who make such promises again.
-
-*2024-08-25 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84590) · `en`
-
-There was a period when the abolition of the executive presidential system was a key issue at Presidential Elections. However, such a situation cannot be expected to arise again.
-
-The politicians who promised to abolish the executive presidency have not only failed to do so after winning the election and assuming office as president, but have also taken action to increase their powers. Therefore, the reality is that people are not going to trust politicians who make such promises again.
-
-However, now that the Presidential Election campaigns are heating up, talks of the abolition of the executive presidency have resumed. Samagi Jana Balawegaya (SJB) Leader Sajith Premadasa and National People’s Power (NPP) Leader Anura Kumara Dissanayake have promised on election platforms last week that if they win the Presidential Election and come to power, they will abolish the presidential system and bring back the parliamentary system.
-
-...
-
-[Data](articles/5e57e2b0.json)
-
-[Extended Data](ext_articles/5e57e2b0.ext.json)
-
----
-
-### 2024-08-24 (Saturday)
-
-### First Test to contest England
-
-*2024-08-24 23:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200290) · `si`
-
-England wins first Test vs Sri Lanka by 5 wickets. Sri Lanka scores 326/2 in second innings. Chandimal hits 27th Test fifty.
-
-🟩
-
-England won the first Test against the Tourism Sri Lanka by five wickets.
-
-They were passing back to the loss of 20 wickets for the winning achieving 205 runs.
-
-Sri Lanka scored 326 runs for the loss of the second in their second innings.
-
-As the date of today, Sri Lanka scored 204 runs for the loss of 6 wickets for the second innings.
-
-Chandimal and Kaminduni Sri Lanka's second innings were assigned to the Second Innings of Sri Lanka, who was assaulted by England bowlers today.
-
-They have built a centuries to the 8th wicket.
-
-Chandimal reported 27th half-century in Test cricket
-
-After that Russell Arnald, the second Sri Lankan batsman who obtained a Test century at the Old Traford Ground was the second Sri Lankan batsman.
-
-113 runs and Chandimal scored 79 runs.
-
-Sri Lanka's team scored 326 runs for the second innings, according to the target of 205.
-
-Sri Lanka won the bowlers to take up 70 runs for 70 runs in the England team scored 70 runs.
-
-◼️
-
-[Data](articles/6c2a3153.json)
-
-[Extended Data](ext_articles/6c2a3153.ext.json)
-
----
-
-### Action to increase the exchange allowance
-
-*2024-08-24 23:54:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொடுப்பனவை-அதிகரிக்க-நடவடிக்கை/175-342725) · `ta`
-
-Increase salaries 24%, reduce tax on public servants, 15% interest rate for senior citizens, Agrahara Insurance Scheme, increase allowance from 3000 to 5000 rupees, One Rank One Pay program for soldiers, solve pay contradictions in education sector.
-
-🟩
-
-A committee with full power will be established to investigate salaries of public servants. Opposition leader Sajith Premadasa said that steps will be taken to increase the salaries of public servants by 24 percent and reduce the tax on public servants.
-
-Steps will be taken to provide 15 percent interest rate as a savings interest rate for senior citizens' savings accounts. The right of millions of pensioners with 15 percent interest. Even if the pensioners are cheated they are not going to deceive them. The party leader said that all those who retired before 2016 will launch the Agrahara Insurance Scheme.
-
-Gotabhaya Rajapaksa made this offer for retirees from 2016 - 2019. We will give it back.In order to maintain the privileges of retirees at the highest standard. Opposition Leader Sajith Premadasa said that steps will be taken to increase the allowance of 3000 rupees for senior citizens to 5000 rupees.
-
-...
-
-[Data](articles/81ffe35e.json)
-
-[Extended Data](ext_articles/81ffe35e.ext.json)
 
 ---

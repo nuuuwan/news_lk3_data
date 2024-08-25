@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 16:08:18**
+As of **2024-08-25 16:21:30**
 
 ## Newspaper Stats
 
-*Scraped **42,507** Articles*
+*Scraped **42,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ colombotelegraphcom | 405
 islandlk | 2,473
 economynextcom | 2,571
 dailyftlk | 2,758
-adalk | 3,915
+adalk | 3,916
 dailymirrorlk | 4,733
 adaderanalk | 4,991
 tamilmirrorlk | 5,530
 virakesarilk | 6,745
-adaderanasinhalalk | 7,273
+adaderanasinhalalk | 7,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,502 (100.0%) of 42,507 articles have been extended.
+42,507 (100.0%) of 42,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### රට හැර යන පාකිස්තානුවන් ගැන හෙළිදරව්වක්
+
+*2024-08-25 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200312) · `si`
+
+පසුගිය වසර 17 තුළ වඩා හොඳ අවස්ථා සොයමින් පාකිස්තානුවන්  මිලියන 10ක් පමණ රට හැර ගොස් ඇති විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කරන්නේ සංක්‍රමණ රැල්ලේ උච්චතම අවස්ථාව 2015දී සිදුවී ඇති බවය.
+
+එම වසරේදී පුද්ගලයන් 900,000 කට වැඩි පිරිසක් රැකියා සොයා පාකිස්තානයෙන් පිටව ගොස් ඇතැයි සඳහන් ය.
+
+2022 සහ 2023 වසරවලදී සංක්‍රමණිකයන් සංඛ්‍යාව 800,000 දක්වා ඉහළ ගොස් ඇති බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/d5c21ff0.json)
+
+---
+
+### බංග්ලාදේශයට ඓතිහාසික ටෙස්ට් ජයක්
+
+*2024-08-25 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200311) · `si`
+
+සත්කාරක පාකිස්තානු කණ්ඩායම පරාජය කර තරග 2කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලියේ පළමු තරගයෙන් කඩුලු 10ක විශිෂ්ට ජයක් ලැබීමට බංග්ලාදේශ කණ්ඩායම අද (25) සමත් විය.
+
+මෙහිදී පාකිස්තානයෙන් හිමිවූ ලකුණු 30ක පහසු ඉලක්කය බංග්ලාදේශ ආරම්භක පිතිකරු යුගළ විසින්ම හඹා ගියහ.
+
+මෙය බංග්ලාදේශ ක්‍රිකට් ඉතිහාසයේ ඔවුන් පාකිස්තානු කණ්ඩායමක් ටෙස්ට් තරගයකදී පරාජය කර පළමු හා එකම අවස්ථාව ලෙසින් වාර්තා අතරට එක්විය.
+
+රාවල්පිණ්ඩි හිදී පැවති මෙම තරගයේ පළමුව පන්දුවට පහරදුන් පාකිස්තානය සිය පළමු ඉනිමට කඩුලු 06ක් දැවී ලකුණු 448ක් රැස්කර ඉනිම අත්හිටුවීය.
+
+කෙසේ නමුත් ඊට පිළිතුරු ලෙසින් බංග්ලාදේශය තම පළමු ඉනිමට සියලු දෙනා දැවී ලකුණු 565ක් රැස්කළේය.
+
+එහිදී අතිවිශිෂ්ට ඉනිමක් ගොඩනැගූ මුෂ්ෆිකර් රහීම් ලකුණු 191ක් රැස්කිරීමට සමත් විය.
+
+ඒ හේතුවෙන් පාකිස්තානයට ලකුණු 117ක් පසුපසින් සිටිමින් සිය දෙවැනි ඉනිම ඇරඹීමට සිදු විය.
+
+නමුත් පාකිස්තානු දෙවැනි ඉනිම ලකුණු 146කට සීමා වූ අතර,  ඒ වනවිට ඔවුන් බංග්ලාදේශ දෙවැනි ඉනිමට වඩා ඉදිරියෙන් සිටියේ ලකුණු 29ක් පමණි.
+
+...
+
+[Data](articles/12a1e7f7.json)
+
+---
 
 ### Mother and two sons reported missing while bathing in Deduru Oya
 
@@ -44,61 +88,81 @@ Police said that the body of the 9-year-old son was recovered while the other so
 
 [Data](articles/119e05fc.json)
 
+[Extended Data](ext_articles/119e05fc.ext.json)
+
 ---
 
-### මවක් සහ දරුවන් දෙදෙනෙක් දැදුරු ඔයේ ගිලෙයි
+### A mother and two children drowning
 
 *2024-08-25 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200310) · `si`
 
-දැදුරු ඔයේ දියනෑමට ගිය එකම පවුලේ මවක් සහ දරුවන් දෙදෙනෙකු සැඩ පහරට ගසාගෙන ගොස් තිබේ.
+Mother, 2 children drown in river. Police investigate.
 
-අද (25) දහවල් මොවුන් බෝගමුව ප්‍රදේශයෙන් දැදුරු ඔයේ දිය නෑමට ගොස් ඇති අතර එහිදී දිය පහරට හසුවී ගසාගෙන ගොස් ඇති බව පොලීසිය පැවසීය.
+🟩
 
-මෙම අනතුරට මුහුණදී ඇත්තේ 36 හැවිරිදි මව සහ ඇයගේ 9 හැවිරිදි සහ 5 හැවිරිදි පිරිමි දරුවන් දෙදෙනා ය.
+A mother and two children have been hit by the same family who went to the daughter of Deduru Oya.
 
-සැඩ පහරට හසුව අතුරුදන්වූ 09 හැවිරිදි දරුවාගේ මළසිරුර සොයා ගෙන ඇති අතර මව සහ අනෙක් දරුවා සොයා මෙහෙයුම් ක්‍රියාත්මක ය.
+Deduru Oya was bathing from the Bogamuwa area this afternoon and the police said.
+
+The accident is the 36-year-old mother and her 9 9-year-old boy and 5-year-old boy.
+
+The body of the nine-year-old boy disappeared to the storm was found and the mother and the other child recovered.
 
 ◼️
 
 [Data](articles/5abd4a3b.json)
 
+[Extended Data](ext_articles/5abd4a3b.ext.json)
+
 ---
 
-### நாட்டின் 76 வருடகால சாபக்கேட்டுக்கு முடிவு கட்டுவோம்
+### We will end the country's 76 -year curse
 
 *2024-08-25 15:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-76-வருடகால-சாபக்கேட்டுக்கு-முடிவு-கட்டுவோம்/175-342754) · `ta`
 
-இலங்கை நாட்டின் 76 வருட காலமாக நாட்டைப் பீடித்துள்ள பிரபுக்களின்  ஆட்சிக்கு  முடிவு கட்ட தமிழ் மக்கள் அணிதிரள வேண்டும் என தேசிய மக்கள் சக்தியின் யாழ் மாவட்ட அமைப்பாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான இராமலிங்கம் சந்திரசேகரன் தெரிவித்தார்.
+Tamil politician Ramalingam calls for unity against 76-year ruling party, supports Anura Kumara for presidency.
 
-யாழ். திருநெல்வேலி பகுதியில் தேசிய மக்கள் சக்தியின் தேர்தல் பிரச்சார அலுவலகத்தை ஞாயிற்றுக்கிமை (25)  திறந்து வைத்து ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-அவர் மேலும் தெரிவிக்கையில், நாட்டில் வாழுகின்ற தமிழ் சிங்கள முஸ்லிம் மக்களிடம் பல ஆண்டுகளாக ஏக்கம் இருக்கிறது நாட்டை காப்பாற்ற சிறந்த தலைவர் வேண்டும்.
+Ramalingam Chandrasekaran, a former parliamentarian of the National People's Power and former Member of Parliament, said that the Tamil people should mobilize the country to end the rule of the nation who has been hacked to the country for 76 years.
 
-எழுபது வருடகாலமாக நாட்டை ஆட்சி செய்தவர்கள்  பல்வேறு வழிகளிலும் நாட்டை சூறையாடியுள்ள நாட்டை மீட்பதற்கு திருடியவர்கால் முடியவில்லை.
+Yall. He was speaking to the media in the opening of the election campaign office of the National People's Power in Tirunelveli.
 
-மீண்டும் தாய் நாட்டை திருடுவதற்கு  பலர் ஜனாதிபதி தேர்தலில் போட்டியிடுகின்ற நிலையில் அதனை மக்கள் தமது வாக்குப் பலத்தால் முறியடிக்க வேண்டும்.
+He added that the Tamil Sinhalese Muslim people living in the country have a nostalgia for many years to save the country.
 
-மக்களின் வாக்குகளை சிதறடிப்பதற்காக பல சுயேட்சை வேட்பாளர்கள் ஜனாதிபதி தேர்தலில் களமிறக்கப்பட்டுள்ள நிலையில் தமிழ் மக்கள் விழிப்பாக இருக்க வேண்டும்.
+Those who have ruled the country for seventy years have not been able to steal the country that has looted the country in various ways.
+
+When many are contesting the presidential election to steal the motherland again, people must defeat it with their voting strength.
+
+The Tamil people must be aware of many independent candidates to scatter the votes of the people.
 
 ...
 
 [Data](articles/6c1facc5.json)
 
+[Extended Data](ext_articles/6c1facc5.ext.json)
+
 ---
 
-### ගෙන්වීමට සැරසෙන ඖෂධ 47ක් ගැන චෝදනාවක්
+### 47 drugs preceding importance
 
 *2024-08-25 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200309) · `si`
 
-ඖෂධ 47ක් ඉන්දියානු ඒකාධිකාරය යටතේ මෙරටට ගෙන්වීම සඳහා සෞඛ්‍ය අමාත්‍යවරයා, අමාත්‍ය මණ්ඩල පත්‍රිකාවක් ඉදිරිපත් කර ඇති බව සෞඛ්‍ය වෘත්තීයවේදීන්ගේ විද්වත් සංගමය පවසයි.
+47 drugs under Indian monopoly presented by Health Cabinet Industry Association. Minister urged to explain how to improve healthcare services for Sri Lankan citizens. Imports of registered drugs from India highlighted.
 
-එම සංගමයේ සභාපති රවී කුමුදේශ් මහතා පැවසුවේ, මෙමගින් මෙරට සෞඛ්‍ය සේවාවට සහ පුරවැසියන්ට වාසි සහගත වන්නේ කෙසේද යන්න ඇමතිවරයා විසින් පැහැදිලි කළ යුතු බවය.
+🟩
 
-ඉන්දියාවෙන් ලියාපදිංචි නොවූ ඖෂධ ගෙන්වීම හරහා නැවත වරක්   ඖෂධවල ප්‍රමිතිය සහ තත්ත්වය බාල කිරීමක් සිදුවිය හැකි බවද රවී කුමුදේශ් මහතා පෙන්වා දෙයි.
+The Health Cabinet Industry (Health) Association has presented 47 drugs under the Indian monopoly.
+
+The President of the Association Ravi Kudmith said that this should be explained by the minister how to advance the health service and citizens of Sri Lanka.
+
+Ravi Kudithee pointed out that once again imports such as registered with India.
 
 ◼️
 
 [Data](articles/30e66ea1.json)
+
+[Extended Data](ext_articles/30e66ea1.ext.json)
 
 ---
 
@@ -238,21 +302,31 @@ However, any postal worker requiring leave for essential reasons would have to o
 
 ---
 
-### பிச்சை வாங்கவேண்டிய அவசியம் எமக்கில்லை; கட்சி கட்டுப்பாட்டை மறந்தால் நான் பிரம்பெடுக்க வேண்டிவரும் - ரவூப் ஹக்கீம்
+### There is no need to begged;If I forget party control, I will have to be caught - Rauf Hakeem
 
 *2024-08-25 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191923) · `ta`
 
-சஜித் பிரமதாசவை ஜனாதிபதியாக வெற்றிபெற வைக்க வேண்டும் என்று முஸ்லிம் காங்கிரஸ் தீர்மானம் எடுத்த பிறகு அதில் ஒழிந்து விளையாடுவதற்கு யாருக்கும் இடம் கிடையாது என்று ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப் ஹக்கீம் தெரிவித்தார்.
+Rauf Hakeem warns against forgetting party control, threatens disciplinary action for those who undermine party decisions.
 
-நாங்கள் சமூகம் சார்ந்த பல காரணங்களை முன்வைத்து சஜித் பிரமதாசவை ஆதரிக்கின்றோம். ஸ்ரீ லங்கா முஸ்லிம் காங்கிரஸ் ஒரு பலமான கட்சியாகும். அதற்கு கட்டுப்படாதவர்களை நாங்கள் தூக்கி எறிவதற்கு தயங்க மாட்டோம்.
+🟩
 
-மேலும், பாராளுமன்ற உறுப்பினர் ஹரீஸ் தொடர்பாக ஊடகவியலாளர் கேட்ட கேள்விக்கு ரவூப் ஹக்கீம் மேலும் தெரிவிக்கையில்,
+Sri Lanka Muslim Congress leader Rauf Hakeem said that after the Muslim Congress decided to win Sajith Pramadasa as president, there would be no one to play in it.
 
-கட்சியின் தீர்மானத்துக்கு மாற்றமாக நடப்பவர்கள் மீது நான் மிகவும் இறுக்கமாக இருப்பேன். எனது அன்பு, பாசத்துக்கு ஒரு அளவு உள்ளது. அளவு மீறி கட்சி கட்டுப்பாட்டை மறந்தால் நான் கடுமையாக பிரம்பை எடுக்க வேண்டிவரும்.
+We support Sajith Pramadasa with many reasons for the community. Sri Lanka Muslim Congress is a strong party. We will not hesitate to throw those who are not obliged.
+
+Also, Rauf Hakeem further stated that a journalist asked about MP Haris.
+
+I will be very tight on those who walk to replace the party's resolution. My love and affection have a quantity. If I forget party control over the size, I will have to take the cane hard.
+
+Member of Parliament Haris has given a reason for the delay in the truth. It was only by submitting it to the Supreme Faculty that we thought of his suspension. He is guaranteed to engage in party activities. Let me tell you too tight. I am not ready to be afraid of anyone anymore.
+
+The next step is how the party leadership will give the recognition of their politics in this election.
 
 ...
 
 [Data](articles/f7972afb.json)
+
+[Extended Data](ext_articles/f7972afb.ext.json)
 
 ---
 
@@ -645,6 +719,24 @@ The deceased is a 36-year-old resident of the Siriltonwatta area of the Meewanap
 [Data](articles/14fa751a.json)
 
 [Extended Data](ext_articles/14fa751a.ext.json)
+
+---
+
+### රට පවුල් කිහිපයක බූදලයක් වෙලා
+
+*2024-08-25 11:30:45* · [`adalk`](https://www.ada.lk/breaking_news/රට-පවුල්-කිහිපයක-බූදලයක්-වෙලා/11-411540) · `si`
+
+2024 ජනාධිපතිවරණය නිමිත්තෙන් ජාතික ජන බලවේගය සංවිධානයකළ පොහොසත් රටක් ලස්සන දිවියක් උදාකරන නව පුනරුද මඟට රට හරවන ජනරැළිය ඉකුත් (24) වෙනිදා වැල්ලවාය ප්‍රධාන බස් නැවතුම්පොළ අසලදී පැවැත්විණි.
+
+ජාතික ජන බලවේගයේ මොනරාගල දිස්ත්‍රික් සංවිධායක හිටපු පළාත් සභා මන්ත්‍රී ආර්.එම් ජයවර්ධන මහතා විසින් මෙම රැළිය සංවිධානයකර තිබිණි.
+
+මෙහිදී අදහස් දැක්වූ ජාතික ජනබලවේගයේ නායක පා.ම ජනාධිපතිධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතා, හරිහමන් ආහාර වේලක් නැති.ලෙඩට බෙහෙතක් නැති.නිසි අධ්‍යාපනයක් ලබාගැනීමට නොහැකි දුප්පත්කමින් පිරි අපේ රට පොහොසත් රටක් කිරීමට ජාතික ජන බලවේගයේ රජයක් යටතේ අනිවාර්යයෙන්ම කටයුතු කරනවා.
+
+මේවන විට ශ්‍රීලාංකීය බහුතර ජනතාව දුප්පත්කමින් වෙලී සිටිනවා. ගෙලබැඳි රන්මාලය මඟුල් මුද්ද පවා උකසට තබලා. එපමණක් නොවෙයි පුංචි දරුවාගේ පංචායුධයද තිබෙන්නේ බැංකුවක හෝ උකස් මධ්‍යස්ථානයකයි. නමුත් රටේ පාලකයින් සුරසැප විඳිනවා. මෙම ක්‍රමය වෙනස්කළ යුතුයි.
+
+...
+
+[Data](articles/5ac7da0c.json)
 
 ---
 
@@ -2177,85 +2269,5 @@ The driving license issued by the first driving license in the country has been 
 [Data](articles/425af80e.json)
 
 [Extended Data](ext_articles/425af80e.ext.json)
-
----
-
-### The suspects are detained and interrogated
-
-*2024-08-24 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200287) · `si`
-
-Suspects detained, interrogated over murder case.
-
-🟩
-
-Suresrandra Wasantha Perera has detained the three suspects in detail yesterday (23).
-
-They are detained and interrogated on the two-hour detention orders obtained for the three suspects on the instructions of Senior Superintendent of Police Prasanna Alwis.
-
-The arrested were two persons who support one shotter and shosters.
-
-According to hospital sources, the wife of Club Wasantha's wife was receiving treatment at the Colombo Teaching Hospital after receiving treatment at the Colombo Teaching Hospital.
-
-Sadhra Divantha Perera, Order Wasantha Perera, was shot dead in Athurugiriya and killed July 8.
-
-The operations were operated to arrest the suspects involved in the murder and several suspects were arrested earlier.
-
-◼️
-
-[Data](articles/b8a51295.json)
-
-[Extended Data](ext_articles/b8a51295.ext.json)
-
----
-
-### India and Sri Lanka conclude regional military exercise ‘Mitra Shakti’
-
-*2024-08-24 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101471/india-and-sri-lanka-conclude-regional-military-exercise-mitra-shakti) · `en`
-
-The 10th edition of the annual bilateral exercise ‘Mitra Shakti’ between the militaries of India and Sri Lanka, aimed to enhance their interoperability and mutual understanding, has concluded, the Indian High Commission said on Saturday.
-
-The two-week-long exercises were held from August 12 at the Army Training School at Maduru Oya in Sri Lanka.
-
-The exercise aims to enhance interoperability and mutual understanding between the armed forces and provides an opportunity to deepen further the close defence relationship based on professional respect, personal bonding and extensive training interaction, the high commission said.
-
-The exercise helps in building proficiency in tackling transnational terrorism, conducting joint tactical operations and building combat skills, the statement said.
-
-...
-
-[Data](articles/a642dfee.json)
-
-[Extended Data](ext_articles/a642dfee.ext.json)
-
----
-
-### A target of 205 runs to England
-
-*2024-08-24 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200286) · `si`
-
-Sri Lanka vs England: SL 326/6 (204/6) in 2nd innings; Target 205. Chandimal scores 50, Russell Arnold gets his 2nd Test century.
-
-🟩
-
-Today is the 4th day of the first Test match between Sri Lanka and England.
-
-Sri Lanka scored 326 runs in their second innings, according to the target of 205 runs.
-
-Sri Lanka scored 204 runs for the loss of 6 wickets for their second innings.
-
-Chandimal and Kamindunici Sri Lanka's second innings have been added to the second innings of Sri Lanka, who was assaulted by England bowlers today.
-
-Chandimal reported 27th half-century in Test cricket
-
-After that Russell Arnald, the second Sri Lankan batsman who obtained a Test century at the Old Traford Ground was the second Sri Lankan batsman.
-
-Batting first Sri Lanka scored 236 runs for the first innings.
-
-England scored 358 runs for their first innings.
-
-◼️
-
-[Data](articles/82052bb1.json)
-
-[Extended Data](ext_articles/82052bb1.ext.json)
 
 ---

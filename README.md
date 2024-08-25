@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 14:21:33**
+As of **2024-08-25 14:36:56**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,270
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,495 (100.0%) of 42,497 articles have been extended.
+42,497 (100.0%) of 42,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### සියලු බදු තොරතුරු හෙට හෙළි කෙරේ
+### All tax information revealed tomorrow
 
 *2024-08-25 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200306) · `si`
 
-බදු පිළිබඳ සියලු තොරතුරු හෙට (26) දිනයේදී හෙළිදරව් කිරීමට කටයුතු කරන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+Tax information reveal tomorrow: 900 bank accounts frozen, deficit increase, arrears charges announced.
 
-අමාත්‍යවරයා පවසන්නේ මෙම වකවානුව තුළ හිඟ බදු අය කරගනිමින් රාජ්‍ය ආදායම වැඩිකර ගැනීමට කටයුතු කළ බවය.
+🟩
 
-හිඟ බදු අය කරගැනීම සඳහා බැංකු ගිණුම් 900ක් පමණ මේ වනවිට නවත්වා ඇති අතර එම හිඟ බදු මුදල් අය කරගැනීමට පියවර ගනිමින් සිටින බවද රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+State Minister Ranjith Siyambalapitiya says that all information on tax will be revealed tomorrow (26).
 
-ඒ අනුව සඳුදා (26) දිනයේදී බදු පිළිබඳ සියලු තොරතුරු මාධ්‍ය වෙත හෙළි කිරීමට කටයුතු කරන බවත් රාජ්‍ය අමාත්‍යවරයා තවදුරටත් පැවසීය.
+The Minister says that the deficit has been increased to increase the government revenue with taxes.
+
+Around 900 bank accounts have been stopped to recover the deficit and steps will be taken to charge the arrears.
+
+Accordingly, all information about tax on Monday (26) will be revealed to the media.
 
 ◼️
 
 [Data](articles/0e3cf106.json)
+
+[Extended Data](ext_articles/0e3cf106.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ However, any postal worker requiring leave for essential reasons would have to o
 ...
 
 [Data](articles/2ddc336e.json)
+
+[Extended Data](ext_articles/2ddc336e.ext.json)
 
 ---
 

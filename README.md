@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 15:21:27**
+As of **2024-08-25 15:36:56**
 
 ## Newspaper Stats
 
-*Scraped **42,498** Articles*
+*Scraped **42,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 2,571
 dailyftlk | 2,758
 adalk | 3,915
 dailymirrorlk | 4,733
-adaderanalk | 4,989
-tamilmirrorlk | 5,527
+adaderanalk | 4,990
+tamilmirrorlk | 5,529
 virakesarilk | 6,744
-adaderanasinhalalk | 7,270
+adaderanasinhalalk | 7,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,498 (100.0%) of 42,498 articles have been extended.
+42,498 (100.0%) of 42,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### Ex-Special Forces soldier arrested with ‘Ice’ drugs, ammo in Minuwangoda
+
+*2024-08-25 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101488/ex-special-forces-soldier-arrested-with-ice-drugs-ammo-in-minuwangoda) · `en`
+
+The Police Special Task Force (STF) has apprehended a former soldier of the Sri Lanka Army’s Special Forces Regiment (SF), listed as a deserter, while in the possession of ‘Ice’ (Crystal Methamphetamine) drugs and ammunition during a special operation in the Yakatuwa area of Minuwangoda.
+
+The suspect, who has been identified as a 34-year-old resident of Katupotha, was arrested by the Organized Crime Prevention Unit of the Police STF.
+
+At the time of his arrest, the suspect was in possession of 8 grams of ‘Ice’ drugs, 5 pieces of army uniform clothing and 6 rounds of 9mm ammunition, police said.
+
+Police revealed that the arrested suspect is an army deserter.
+
+The arrest follows an incident on August 20, in which the suspect is accused of assaulting a Police STF officer and damaging a vehicle after a road accident involving the officer and his jeep in the Katupotha area. The arrested individual has been identified as the main suspect in the case, according to police.
+
+...
+
+[Data](articles/6a5c0b49.json)
+
+---
+
+### இருவரின் விஞ்ஞாபனங்கள் இந்த வாரம் வெளியிடப்படும்
+
+*2024-08-25 15:13:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரின்-விஞ்ஞாபனங்கள்-இந்த-வாரம்-வெளியிடப்படும்/175-342752) · `ta`
+
+இரண்டு ஜனாதிபதி வேட்பாளர்கள் இந்த வாரம் தமது தேர்தல் விஞ்ஞாபனங்களை வெளியிட உள்ளனர்.
+
+தேசிய மக்கள் சக்தியின் (NPP) தலைவரும் ஜனாதிபதி வேட்பாளருமான பாராளுமன்ற உறுப்பினர் அனுரகுமார திஸாநாயக்க தனது தேர்தல் விஞ்ஞாபனத்தை முதன் முதலாக கொழும்பில் இன்று நாளை திங்கட்கிழமை வெளியிடவுள்ளார்.
+
+காலை 10.00 மணிக்கு தலவத்துகொட மொனார்க் இம்பீரியல் ஹோட்டலில் நடைபெறும் வைபவத்தின் போது தேர்தல் விஞ்ஞாபனம் வெளியிடப்படும் என NPP பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+இதேவேளை, எதிர்க்கட்சித் தலைவரும், ஜனாதிபதி வேட்பாளருமான சஜித் பிரேமதாச தனது தேர்தல் விஞ்ஞாபனத்தை புதன்கிழமை (ஒகஸ்ட் 28) வெளியிடவுள்ளார்.
+
+தேர்தல் விஞ்ஞாபனம் கொழும்பில் வெளியிடப்படும் என்றும், ஆனால் நேரம் மற்றும் இடம் விரைவில் அறிவிக்கப்படும் என்றும் ஐக்கிய மக்கள் சக்தியின் தேர்தல் நடவடிக்கைகளின் தலைவர் சுஜீவ சேனசிங்க தெரிவித்தார்.
+
+...
+
+[Data](articles/5f53340f.json)
+
+---
+
+### රනිල් සහභාගී වන එජාප සමුළුව
+
+*2024-08-25 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200308) · `si`
+
+එක්සත් ජාතික පක්යේ විශේෂ සමුළුව අද (25) සිරිකොත පක්ෂ මූලස්ථානයේදී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/aeca946a.json)
+
+---
+
+### பஸ் கவிழ்ந்ததில்  22 பேர் உயிரிழப்பு
+
+*2024-08-25 15:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-கவிழ்ந்ததில்-22-பேர்-உயிரிழப்பு/50-342751) · `ta`
+
+பாகிஸ்தானில் கஹூடாவில் இருந்து ராவல்பிண்டிக்கு சென்ற பஸ் பள்ளத்தில் கவிழ்ந்து விபத்துக்குள்ளானதில், 22 பேர் உயிரிழந்தனர்; 15 பேர் பலத்த காயமுற்றனர்.
+
+பாகிஸ்தானில், பஞ்சாப் மாகாணத்தில் 35 பேர் கஹ_டாவில் இருந்து ராவல்பிண்டிக்கு பஸ்சில் சென்று கொண்டு இருந்தனர். பஸ் பானா பாலம் அருகே சென்று கொண்டிருந்த போது சாரதியின் கட்டுப்பாட்டை இழந்து பள்ளத்தில் கவிழந்து விபத்துக்குள்ளானது.
+
+இதில் 20 பேர் சம்பவ இடத்திலேயே உயிரிழந்தனர். 15 பேர் பலத்த காயம் அடைந்தனர். அவர்களில் இருவர், மருத்துவமனையில் சிகிச்சை பலனின்றி இறந்தனர்.S
+
+◼️
+
+[Data](articles/8a283636.json)
+
+---
 
 ### All tax information revealed tomorrow
 
@@ -2187,93 +2255,5 @@ England scored 358 runs for their first innings.
 [Data](articles/5f7a0927.json)
 
 [Extended Data](ext_articles/5f7a0927.ext.json)
-
----
-
-### India bans 156 risk drugs
-
-*2024-08-24 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200281) · `si`
-
-Sri Lanka bans 156 drugs from India due to health risks.
-
-🟩
-
-The Government of Sri Lanka has decided to ban 156 drugs used in India.
-
-According to Indian media reports, several types of drugs and antibiotics have been banned at the fever, the common cold and antibiotics.
-
-The use of these drugs has taken measures to prohibit humans after they can risk.
-
-The central government has been reportedly banned by the central government, depending on the recommendations of the Drug Technology Advisory Board.
-
-◼️
-
-[Data](articles/115eef2c.json)
-
-[Extended Data](ext_articles/115eef2c.ext.json)
-
----
-
-### Food and Agriculture Organization programme in Sri Lanka leads to bumper crops
-
-*2024-08-24 17:31:00* · [`economynextcom`](https://economynext.com/food-and-agriculture-organization-programme-in-sri-lanka-leads-to-bumper-crops-177967/) · `en`
-
-ECONOMYNEXT – A Good Agricultural Practices (GAP) programme implemented by the Food and Agriculture Organization of the United Nations (FAO) is helping farmers modernize cultivation leading to bumper crops and higher incomes in Sri Lanka.
-
-645 farmers across three districts were trained under the programme, and provided with equipment and technical packages to modernize their farming practices and increase their yields and profits, the FAO said.
-
-The GAP programme started as a response to the pressing food security challenges amidst Sri Lanka’s economic crisis, supporting vegetable farmers to commercialize their products.
-
-The programme is funded by the United Nations Sri Lanka Sustainable Development Goal (SDG) Fund.
-
-Farmers received an agriculture kit containing essential items such as a drip irrigation system, plastic mulch and insect-proof netting.
-
-...
-
-[Data](articles/c97ebf30.json)
-
-[Extended Data](ext_articles/c97ebf30.ext.json)
-
----
-
-### India bans 156 medicines including antibiotics, painkillers, multivitamins
-
-*2024-08-24 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101470/india-bans-156-medicines-including-antibiotics-painkillers-multivitamins) · `en`
-
-In a significant move aimed at safeguarding public health, the Indian government has banned 156 fixed-dose combination (FDC) drugs, including a variety of antibiotics, painkillers, multivitamins, and medications for treating fever and hypertension.
-
-This decision marks the largest crackdown on FDCs since 2016, when 344 such drugs were prohibited. The Union Ministry of Health and Family Welfare issued a gazette notification on Thursday, officially prohibiting the manufacture, sale, and distribution of the banned FDCs.
-
-The ban was based on the recommendations of an expert panel that reviewed a total of 324 FDCs.
-
-The banned FDCs include popular combinations such as mefenamic acid and paracetamol injections, commonly used for pain relief and fever, and omeprazole magnesium with dicyclomine HCl, used to treat abdominal pain.
-
-...
-
-[Data](articles/fa4477dd.json)
-
-[Extended Data](ext_articles/fa4477dd.ext.json)
-
----
-
-### Another disaster to China
-
-*2024-08-24 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200280) · `si`
-
-China floods: 11 dead, 50k displaced, heavy rain hits northeast.
-
-🟩
-
-Foreign media reports that 11 people have been killed in bad weather conditions affected by China.
-
-The disaster was reported with heavy rainfall in the northeast China.
-
-The authorities have also taken steps to direct over 50,000 people to safe locations due to flood risk.
-
-◼️
-
-[Data](articles/8bce159e.json)
-
-[Extended Data](ext_articles/8bce159e.ext.json)
 
 ---

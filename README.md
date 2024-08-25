@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 13:56:06**
+As of **2024-08-25 14:08:00**
 
 ## Newspaper Stats
 
-*Scraped **42,493** Articles*
+*Scraped **42,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ colombotelegraphcom | 405
 islandlk | 2,473
 economynextcom | 2,571
 dailyftlk | 2,758
-adalk | 3,913
+adalk | 3,914
 dailymirrorlk | 4,733
 adaderanalk | 4,988
 tamilmirrorlk | 5,527
 virakesarilk | 6,744
-adaderanasinhalalk | 7,268
+adaderanasinhalalk | 7,269
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,493 (100.0%) of 42,493 articles have been extended.
+42,493 (100.0%) of 42,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### ඡන්ද කාඩ්පත් බෙදාහැරීම ගැන දැනුම්දීමක්
+
+*2024-08-25 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200305) · `si`
+
+2024 සැප්තැම්බර් 21 පැවැත්වීමට නියමිත ජනාධිපතිවරණයේ තැපැල් ඡන්දදායකයින් සඳහා යැවෙන ලියාපදිංචි තැපැල් ඡන්ද පත්‍රිකා අඩංගු රක්ෂිත පැකැට්ටුව භාර ගැනීමේ කටයුතු හෙට (26) දිනයේ සිදුකිරීමට සැලසුම් කර තිබේ.
+
+එමෙන්ම ඡන්ද කාඩ්පත් බෙදාහැරීමේ කටයුතු සැප්තැම්බර් 03 වනදා ඇරඹෙන අතර සැප්තැම්බර් 08 විශේෂ දිනයක් සේ සලකා එම බෙදාහැරීම් කටයුතු සිදු කෙරෙනු ඇත.
+
+මෙම කටයුතු හේතුවෙන් ජනාධිපතිවරණය අවසන් වනතුරු තැපැල් දෙපාර්තමේන්තුවේ සියලුම සේවකයින්ගේ නිවාඩු වහාම ක්‍රියාත්මක වනපරිදි අවලංගු කෙරෙන බව නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා සඳහන් කළේය.
+
+එහිදී අසනීප තත්ත්වයක් හෝ විශේෂ අවස්ථාවක් සඳහා පමණක් පළාත් නියෝජ්‍ය තැපැල්පතිවරයාගේ අනුමැතිය යටතේ නිවාඩු ලබා ගත හැකි බව නියෝජ්‍ය තැපැල්පතිවරයා පැවසීය.
+
+◼️
+
+[Data](articles/2a33310b.json)
+
+---
 
 ### One of the special forces arrested with drugs
 
@@ -443,6 +461,24 @@ Addressing a public rally held in Balangoda, the NPP leader also explained how t
 [Data](articles/daf0a571.json)
 
 [Extended Data](ext_articles/daf0a571.ext.json)
+
+---
+
+### ලෝක සාම සම්මානය ලංකාවේ සිසුවියකට
+
+*2024-08-25 11:15:21* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-සාම-සම්මානය-ලංකාවේ-සිසුවියකට/11-411538) · `si`
+
+ජපානයේ හිරෝෂිමා ආයතනය මගින්  ළමයින් සදහා වන සාම සමුළුවේ දී ලෝක සාමය වෙනුවෙන් පැවති කථික තරගයේ දී එයට සහභාගී වූ ලොව අනෙකුත් රටවල් පරදා , ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ  කවීෂි යශෝධරා දිවානන්ද සිසුවිය පැවැත්වු කතාවට ලෝක සාම සම්මානය ( World Peaceful Award ) දිනා ගෙන 08/24 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය .
+
+ඇය වේයන්ගොඩ බණ්ඩාරනායක මධ්‍ය විද්‍යාලයේ 10 ශ්‍රේණියේ  ඉගෙනුම ලබන සිසුවියකි. මෙම සමුළුව ජපානයේ ටෝකියෝ නුවර ඉකුත් 08/20 දින පවත්වා තිබූ අතර එහිදී ඇය ලෝක සාම නියෝජිතවරියක ලෙස ද පත් කර තිබුණි.
+
+ඇය 08/24 දින රාත්‍රී  11.35 ට හොංකොං සිට කැතේ ෆැසිපික් ගුවන් සේවයේ සී.එක්ස්.- 611 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියාය.
+
+ඇය පිළිගැනීම සදහා ඇයගේ දෙමාපියන් , ඇයගේ පාසැලේ ගුරු භවතුන් පිරිසක් ද කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තය වෙත පැමිණ සිටියහ.
+
+◼️
+
+[Data](articles/4603ee67.json)
 
 ---
 
@@ -2221,49 +2257,5 @@ The Agreement is all-encompassing since it facilitates exchange of information r
 [Data](articles/314d9032.json)
 
 [Extended Data](ext_articles/314d9032.ext.json)
-
----
-
-### Namal shows how to minimize corruption
-
-*2024-08-24 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200278) · `si`
-
-Namal Rajapaksa proposes tech solutions to reduce corruption within 3 years, focusing on banking system transactions.
-
-🟩
-
-The presidential candidate named Namal Rajapaksa says that the Sri Lanka Crown Front has no opportunity for the transfers.
-
-He was speaking at a discussion with several youth organizations by providing questions through social media and yesterday (23).
-
-"All I can join technology and minimizes fraud and corruption in minimizing man's relationship. We can do that within 3 years. Most transactions in today's economy are in the banking system. They take them into the banking system by our government. "
-
-◼️
-
-[Data](articles/497bb865.json)
-
-[Extended Data](ext_articles/497bb865.ext.json)
-
----
-
-### The government is about the government
-
-*2024-08-24 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200277) · `si`
-
-Anura Kumara Dissanayake discusses government roles, public trust, and balancing people's goals with rulers' objectives at Rahula College meeting.
-
-🟩
-
-The presidency of the National Institute of National Power and Ruler are building a governments of the public and the ruler, says Anura Kumara Dissanayake.
-
-A meeting organized by a group of Old Boys of Rahula College in Matara yesterday (23) was held in Matara yesterday (23) afternoon.
-
-"The confidence you put on me will not be damaged. The purpose of the people is always building a good government. But the ruler's goal is. Two goals of the people and the ruler. Let's build a government that coincides the governance of the people and the ruler. I have a sense of as you. "
-
-◼️
-
-[Data](articles/c6f9ea6c.json)
-
-[Extended Data](ext_articles/c6f9ea6c.ext.json)
 
 ---

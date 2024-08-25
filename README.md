@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 09:37:04**
+As of **2024-08-25 09:56:19**
 
 ## Newspaper Stats
 
-*Scraped **42,446** Articles*
+*Scraped **42,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,980
 tamilmirrorlk | 5,513
 virakesarilk | 6,737
-adaderanasinhalalk | 7,260
+adaderanasinhalalk | 7,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,445 (100.0%) of 42,446 articles have been extended.
+42,446 (100.0%) of 42,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### ජර්මනියේ ත්‍රිත්ව ඝාතන සිද්ධියේ ප්‍රධාන සැකකරු හසුවෙයි
+
+*2024-08-25 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200296) · `si`
+
+ජර්මනියේ සොලින්ජන් නගරයේ සිදුවූ ත්‍රිත්ව ඝාතනයට සම්බන්ධ ප්‍රධාන සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+ජර්මනියේ සොලින්ගන් නගරයේ ඊයේ (24) තියුණු ආයුධයකින් ඇන පහරදීමෙන් පුද්ගලයින් තිදෙනෙකු මිය ගොස් තවත් සිව් දෙනෙකු බරපතල තුවාල ලැබීය.
+
+විදෙස් මාධ්‍ය පැවසුවේ සොලින්ගන් නගරයේ 650 වැනි සංවත්සරය සැමරීම සඳහා සංවිධානය කර තිබූ උත්සවයකට පැමිණි නාඳුනන පුද්ගලයෙකු විසින් මෙම ප්‍රහාරය එල්ල කර තිබූ බවය.
+
+අපරාධකරු විසින් එහි සංගීත සංදර්ශනයක් පැවැත්වෙන ස්ථානයක සිටි පුද්ගලයින්ට මෙම ප්‍රහාර එල්ල කිරීමෙන් අනතුරුව පලාගොස් තිබුණා.
+
+එරට ආරක්ෂක අංශ සිදුකළ විමර්ශනයේදී ඝාතනයට සම්බන්ධ ප්‍රධාන සැකකරු සහ තවත් පුද්ගලයින් දෙදෙනෙකු මේ අනුව අත්අඩංගුවට ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/217beee5.json)
+
+---
 
 ### Postal workers’ leave cancelled until Presidential Election ends
 
@@ -102,23 +122,31 @@ Two brothers and brothers have been arrested by the police, who were in the aged
 
 ---
 
-### සැබෑ ලෙසම ජනතාව ගැන සිතුවා නම් එදා රටේ වගකීම භාරගත යුතුව තිබුණා
+### If the people were true, the country had to be taken responsibility then
 
 *2024-08-25 08:15:59* · [`adalk`](https://www.ada.lk/breaking_news/සැබෑ-ලෙසම-ජනතාව-ගැන-සිතුවා-නම්-එදා-රටේ-වගකීම-භාරගත-යුතුව-තිබුණා/11-411533) · `si`
 
-කිසිවෙකු භාර ගැනීමට අකමැති වු රට භාර ගත් තමා ජනතාවගේ ජිවත් වීමේ අයිතිය සුරැකීම වෙනුවෙන් කැප වෙද්දි, මැතිවරණ ඉල්ලමින් අධිකරණයට ගිය පිරිසගේ පරමාර්ථය ජනතාව පීඩාවෙන් මුදා ගැනීම නොව තම බලය තහවුරු කර ගැනීම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe addresses Dambulla rally, emphasizes economic stability, takes responsibility for country's issues, urges voters to exercise their right in upcoming presidential election.
 
-තමා එදා මැතිවරණ පැවැත්වීමට මුදල් වැය කළානම් අද රටේ ආර්ථිකය ස්ථාවර මට්ටමකට ගෙන ඒමට නොහැකි වන බව පෙන්වා දුන් ජනාධිපතිවරයා ජනතාවගේ ජිවත්වීමේ අයිතිය සුරැකීම මුලික අයිතිවාසිකම් කඩකිරීමක් ලෙස සලකනවා නම් තමන් ඊට මුහුණදිමට සුදානම් බවද අවධාරණය කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ දඹුල්ල බස්නැවතුම්පොළ භූමියේදි  පැවති “පුළුවන් ශ්‍රී ලංකා” දඹුල්ල විජයග්‍රාහී ජන රැලිය අමතමිනි.
+President Ranil Wickremesinghe said that the object of the people who went to court was to rescue the people to protect the people of the people, asking the people to survive the rights of the people, he said.
 
-දඹුල්ල ප්‍රදේශයේ අතිවිශාල ජනතාවක් මෙම ජන රැලියට එක්ව සිටි අතර එහිදි ඔවුහු ජනාධිපතිවරයාව මහත් හරසරින් පිළිගත්හ.
+The President pointed out that if he was conducting money, the president of the country would not be a stable level of people, he stressed that if the country's living rights is preferred to be violated, he is ready to cope.
 
-මෙහිදී අදහස් දැක්වු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ 2022 ජුලි මාසයේ දී තමා මේ රටේ වගකීම භාරගත්තේ ජනතාව වෙනුවෙන් බවත්, රටේ එදා පැවති ගැටළුකාරී තත්ත්වය අවසන් කර ආර්ථික ස්ථාවරත්වයක් ඇති
+President Ranil Wickremesinghe said this was addressing the Sri Lanka Dambulla Victory Rally in the Dambulla bus station.
+
+A large number of people in Dambulla was partnered with the rally and they welcomed the president.
+
+Speaking at the meeting, President Ranil Wickremesinghe added that he took responsibility in this country in July 2022 and had the economic stability of the country and end the problem of the country.
+
+Arrangements were made to serve as an independent candidate today and that they were also for the people.
 
 ...
 
 [Data](articles/f059483e.json)
+
+[Extended Data](ext_articles/f059483e.ext.json)
 
 ---
 
@@ -2227,27 +2255,5 @@ Ratnayake has said that they will take steps to provide a report on all activiti
 [Data](articles/e1d47de1.json)
 
 [Extended Data](ext_articles/e1d47de1.ext.json)
-
----
-
-### Sajith does not sympathize with Anura people
-
-*2024-08-24 01:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-அனுர-மக்களுக்கு-அனுதாபம்-காட்டவில்லை/175-342697) · `ta`
-
-President Ranil Wickremesinghe says public decides eligibility of Sajith Premadasa and Anura Dissanayake to lead country forward.
-
-🟩
-
-President Ranil Wickremesinghe said that the people of this country should decide whether the people of Sajith Premadasa and Anura Dissanayake are eligible to take the country forward.
-
-President Ranil Wickremesinghe made this statement while addressing the 'Ceylon Sri Lanka' rally held at the Eravur Ahmed Pareed Stadium in Batticaloa yesterday afternoon.
-
-He added that he was the first thing he had done to fertilize the farmers after taking over the government in July 2022, and said that the country was increasing the production of paddy and kitchens by increasing the success of the four.. (A)
-
-◼️
-
-[Data](articles/7c5f0bdf.json)
-
-[Extended Data](ext_articles/7c5f0bdf.ext.json)
 
 ---

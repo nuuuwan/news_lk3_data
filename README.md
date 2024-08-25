@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 05:21:18**
+As of **2024-08-25 05:39:52**
 
 ## Newspaper Stats
 
-*Scraped **42,418** Articles*
+*Scraped **42,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 355
 newsfirstlk | 363
 bbccomsinhala | 391
 colombotelegraphcom | 405
-islandlk | 2,459
+islandlk | 2,464
 economynextcom | 2,570
 dailyftlk | 2,758
 adalk | 3,906
@@ -26,9 +26,83 @@ adaderanasinhalalk | 7,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,418 (100.0%) of 42,418 articles have been extended.
+42,418 (100.0%) of 42,423 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-25 (Sunday)
+
+### Men of note from the minorities
+
+*2024-08-25 01:36:00* · [`islandlk`](http://island.lk/men-of-note-from-the-minorities/) · `en`
+
+I was born at the very end of the nineteenth century and in my eightieth year I can look back on the careers of some of the prominent minority leaders about whom I shall say something in this article.
+
+The names that come to mind include the brothers Ponnambalam Ramanathan and Ponnambalam Arunachalam and their kinsmen, Dr. Ananda Coomaraswamy and Sir Muttu Coomaraswamy. They came from the same highly educated and successful families of Jaffna.
+
+Sir Ponnambalam Ramanathan had held the office of Solicitor-General under British rule and often acted as Attorney-General, a post reserved for officers recruited from abroad. He was a polished speaker, though in his old age he was inclined to be somewhat long-winded.
+
+...
+
+[Data](articles/7bcbd4e1.json)
+
+---
+
+### Meetings with Gandhi and Nehru;Message from Ramgarh to Ceylon
+
+*2024-08-25 01:33:00* · [`islandlk`](http://island.lk/meetings-with-gandhi-and-nehrumessage-from-ramgarh-to-ceylon/) · `en`
+
+The Ramgarh Session of the Indian National Congress, the last Session before Freedom was held in March 1940, in a small village, in Bihar Province, “sanctified by the touch of the feet of Gautama, the Buddha”, said the Reception Committee Chairman, Rajendra Prasad, later President of Free India. I attended the Session as a delegate of the Ceylon National Congress and recorded my impressions then.
+
+The little village of Ramgarh is today famous throughout the world. For here gathered the men and women of the new India with her beauty and her chivalry, intent on freeing their motherland from foreign rule. It was a pretty countryside that we passed through on our way, for over a hundred miles to the west of Calcutta. Ramgarh itself is very similar to Diyatalawa, undulating valleys, large plains and mountain streams abounding.
+
+...
+
+[Data](articles/c71a7059.json)
+
+---
+
+### The Ambani’s and India: A Fairytale Wedding as a Diplomatic Stage
+
+*2024-08-25 01:24:00* · [`islandlk`](http://island.lk/the-ambanis-and-india-a-fairytale-wedding-as-a-diplomatic-stage/) · `en`
+
+Indian weddings are renown for their grandeur and extravagance, extending far beyond the union of two individuals. They are elaborate affairs that engage entire families and communities, often becoming the talk of the town. From the meticulous selection of auspicious dates to the inevitable family dynamics, these celebrations are a whirlwind of emotions and preparations.
+
+The Ambani wedding was an exceptional example of this tradition, elevated to unprecedented heights. Spanning an astonishing seven months, it was a fairy tale-like spectacle characterized by opulence and grandeur. At its heart, however, was the solemn exchange of vows to be with each other for “Saat Janam” between Anant Ambani and Radhika Merchant, a testament to their enduring love.
+
+...
+
+[Data](articles/e9824b93.json)
+
+---
+
+### Elections in Sri Lanka: A Preliminary Audit
+
+*2024-08-25 01:17:00* · [`islandlk`](http://island.lk/elections-in-sri-lanka-a-preliminary-audit/) · `en`
+
+Sri Lankans will be voting in September, and they will be voting for the first time since 2020 or 2019 if you consider presidential elections. The economy, more specifically economic recovery, will figure as a top concern. People will be voting for candidates based on their perceptions of how well this government has done and how well they think the Opposition will do if they are given the chance. As of now, economic reforms have polarised opinion. One poll indicates that less than 10 percent – eight, to be exact – believe Sri Lanka is headed the right way. That leaves a staggering 92 percent who disagree or are unsure.
+
+...
+
+[Data](articles/7df47edc.json)
+
+---
+
+### What the majority want from a new government
+
+*2024-08-25 00:45:00* · [`islandlk`](http://island.lk/what-the-majority-want-from-a-new-government/) · `en`
+
+Now that the presidential election is round the corner and would be followed by a general election, the majority of law-abiding, patriotic, selfless and non-partisan people would want many changes in the system to bring this country back to where it was in the early nineteen fifties.
+
+The first thing many are clamoring for is to abolish the executive presidency. This office has been a bane rather than a boon to this country and its people. It has only helped to enrich some who achieved this position. As we can remember, there were many previous occupants of this office who promised abolish it if they were elected, but reneged on their promise.
+
+The powers attached to the executive presidency have been misused even by those with a good educational background and we have seen how the prerogative of the presidential pardon had been utilized to pardon murderers, drug dealers, child rapists, etc.
+
+...
+
+[Data](articles/c248e79a.json)
+
+---
 
 ### 2024-08-24 (Saturday)
 
@@ -2139,121 +2213,5 @@ While economic losses and damages—such as destruction of property, assets, inf
 [Data](articles/1aa25120.json)
 
 [Extended Data](ext_articles/1aa25120.ext.json)
-
----
-
-### Hubris and nemesis
-
-*2024-08-23 23:23:23* · [`dailyftlk`](https://www.ft.lk/columns/Hubris-and-nemesis/4-765916) · `en`
-
-The Supreme Court has ruled that both, the Election Commission and the President, in his capacity as the Minister of Finance, were responsible for violating voters’ rights by postponing the local government elections.
-
-A top official of the Elections Commission on hearing the top Court’s ruling claimed that the Courts’ pronouncement strengthened the Election Commission.
-
-The Daily Mirror reported President Ranil Wickremesinghe’s response with calculated brevity. “While acknowledging that postponing the Local Government elections is a violation of the citizens’ basic rights, President Ranil Wickremesinghe said he does not regret this decision.
-
-The President said he was not remorseful as the time was dedicated to ensuring the people’s right to live and in maintaining their safety.”
-
-“The President made these remarks while addressing the National Conference of the New People’s Front (NPF) at the National Youth Services Council auditorium in Maharagama.
-
-...
-
-[Data](articles/b65436af.json)
-
-[Extended Data](ext_articles/b65436af.ext.json)
-
----
-
-### Club Vasantha Massacre: Main gunman arrested
-
-*2024-08-23 23:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191834) · `ta`
-
-Main gunmen involved in the Club Vasantha massacre have been arrested. Ajith Rohana, 31, and Daruna Varuna Silva, 29, were apprehended along with others. A cache of weapons including a T-56 rifle, 120 bullets, and 9mm pistol bullets were seized. The arrests were made under the leadership of Senior Police Superintendent Prasanna Alwis, directed by Deputy Inspector General Rohan Premaratne of the Terrorist Investigation Division.
-
-🟩
-
-A main gunman has been arrested by the terrorist intelligence unit on Friday (23) in connection with the murder of the club spring.
-
-31 -year -old Ajith Rohana has been arrested in Gautana, Dehiwala.
-
-It is also reported that the 29 -year -old Daruna Varuna Silva, a 29 -year -old man, was arrested by a man who had rented a house from the Athurugiriya area and took them to Kadirgama on the bus.
-
-A team led by Senior Police Superintendent Prasanna Alwis has been arrested under the direction of Deputy Inspector General of Police Rohan Premaratne, who is in charge of the Terrorist Investigation Division.
-
-It is noteworthy that the T-56 rifle, 120 bullets and 9 mm pistol bullets were seized from the suspects.
-
-◼️
-
-[Data](articles/f44c1c8b.json)
-
-[Extended Data](ext_articles/f44c1c8b.ext.json)
-
----
-
-### Club Spring Murder - Another man arrested
-
-*2024-08-23 22:47:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-மேலும்-ஒருவர்-கைது/175-342695) · `ta`
-
-Two men, including a 31-year-old named Ajith Rohana and a 29-year-old actor Varuna Indika Silva, have been arrested in connection with the Club Spring murder. Ajith was nabbed in the Gautana area, while Varuna was caught for renting a house in Athurugiriya. Authorities also discovered a T-56 rifle, 120 bullets, and 9mm pistol ammunition during their investigation.
-
-🟩
-
-One of the shooters has been arrested in connection with the murder of the club spring.
-
-Ajith Rohana, 31, has been arrested today (23) in the Gautana area of ​​the Dehiwala Police Division.
-
-It is also reported that 29 -year -old actor Varuna Indika Silva has been arrested for renting a house in the Athurugiriya area and taken to Kadirgama on a bus.
-
-In addition, T-56 rifle, 120 bullets and 9mm pistol bullets have been found. Remble
-
-◼️
-
-[Data](articles/cd8ea46d.json)
-
-[Extended Data](ext_articles/cd8ea46d.ext.json)
-
----
-
-### Inland Revenue Department warns public of ‘fake tax collectors’
-
-*2024-08-23 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101458/inland-revenue-department-warns-public-of-fake-tax-collectors) · `en`
-
-The Inland Revenue Department (IRD) has issued a warning to the public regarding a surge in fraudulent activities involving individuals impersonating tax officials.
-
-These scams have been reported in various regions, including Colombo, Panadura, Negombo, Wennappuwa, and Minuwangoda, it said in a statement.
-
-The department emphasized that legitimate Inland Revenue Officers will only visit to advise taxpayers to make payments directly into designated bank accounts at the Bank of Ceylon or People’s Bank under the name of the Commissioner General of Inland Revenue and that they will never collect cash or cheques in person.
-
-“If you encounter anyone claiming to be a tax official and requesting cash or checks, please do not comply and instead, report the incident to the nearest police station immediately,” the IRD said, adding that the public’s cooperation is crucial in apprehending such fraudsters.
-
-◼️
-
-[Data](articles/df4b3d4d.json)
-
-[Extended Data](ext_articles/df4b3d4d.ext.json)
-
----
-
-### The monthly income of the presidential candidates has been released
-
-*2024-08-23 22:00:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களின்-மாத-வருமானம்-வெளியானது/175-342694) · `ta`
-
-Dilith Jayaweera tops with the highest monthly income among presidential candidates, followed by Wijedasa Rajapakse. Ranil Wickremesinghe has the lowest income. This data comes from the Commission to Investigate Bribery, Corruption and Assets, marking the first time candidates have disclosed their assets and loans to the Election Commission.
-
-🟩
-
-Dilith Jayaweera has been announced as the highest monthly income candidate and Ranil Wickremesinghe as the lowest monthly income candidate.
-
-This information has been revealed according to information issued by the Commission to Investigate Bribery, Corruption and Assets.
-
-The second highest monthly income is said to be Attorney -at -Law Wijedasa Rajapakse and his monthly income is 13 lakhs 45 thousand rupees.
-
-This is the first opportunity to submit their assets and loans to the Election Commission when candidates contesting the presidential election. Remble
-
-◼️
-
-[Data](articles/0f2907aa.json)
-
-[Extended Data](ext_articles/0f2907aa.ext.json)
 
 ---

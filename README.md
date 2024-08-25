@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 01:36:52**
+As of **2024-08-26 01:56:11**
 
 ## Newspaper Stats
 
-*Scraped **42,569** Articles*
+*Scraped **42,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 392
 colombotelegraphcom | 407
 islandlk | 2,473
 economynextcom | 2,572
-dailyftlk | 2,765
+dailyftlk | 2,766
 adalk | 3,924
 dailymirrorlk | 4,733
 adaderanalk | 4,997
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,566 (100.0%) of 42,569 articles have been extended.
+42,569 (100.0%) of 42,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### Govt. provides update on current developments to Colombo-based diplomatic corps
+
+*2024-08-26 01:24:33* · [`dailyftlk`](https://www.ft.lk/news/Govt-provides-update-on-current-developments-to-Colombo-based-diplomatic-corps/56-765960) · `en`
+
+Foreign Affairs Minister Ali Sabry convened a briefing on current developments in Sri Lanka for the Colombo-based diplomatic corps on Friday, 23 August at the Ministry of Foreign Affairs.
+
+During the briefing, Minister Sabry emphasised several significant achievements across various fronts during the past year, including advancements in economic recovery, legal reforms, and the strengthening of domestic institutions and mechanisms focused on reconciliation.
+
+...
+
+[Data](articles/17d412e3.json)
+
+---
 
 ### President meets with Catholic Bishops’ Conference
 
@@ -48,6 +62,8 @@ The meeting was also attended by several other members of the Sri Lanka Catholic
 
 [Data](articles/07b74303.json)
 
+[Extended Data](ext_articles/07b74303.ext.json)
+
 ---
 
 ### Gemunu’s Private Bus Owners’ Association to ride with Ranil
@@ -63,6 +79,8 @@ The transport sector representatives emphasised their desire to avoid a recurren
 ...
 
 [Data](articles/bf35f802.json)
+
+[Extended Data](ext_articles/bf35f802.ext.json)
 
 ---
 
@@ -83,6 +101,8 @@ A highlight of the visit was a high-profile meeting with Pakistan’s Commerce, 
 ...
 
 [Data](articles/2687dfca.json)
+
+[Extended Data](ext_articles/2687dfca.ext.json)
 
 ---
 
@@ -2253,33 +2273,5 @@ Meanwhile, the country's defense minister, Yo Galant, has announced that an emer
 [Data](articles/2bd2ed60.json)
 
 [Extended Data](ext_articles/2bd2ed60.ext.json)
-
----
-
-### Sanjiva's bomb in Colombo stadium
-
-*2024-08-25 10:59:02* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-ක්‍රිඩාංගණයක්-ළඟිින්-ගනේමුල්ල-සංජීවගේ-බෝම්බයක්-සොයා/11-411537) · `si`
-
-Colombo stadium grenade found, suspect arrested in Dubai.
-
-🟩
-
-The Colombo Crimes Division has found a grenade of a foreign hand grenade who manufactured in a foreign country manufactured by Ganelawa captain Ganemulla, Ganemulla, who has been depressed under the Prevention of Terrorism Act.
-
-Police said that the root tree was found in the root of the root with the root of the Mattakuliya Stadium, Mattakanda Stadium
-
-Kamatkuliya Sumith of Matthakkuliya, Colombo 15, a man who fled the country in Mathikkuliya Police Division was shot dead in the Matthakkuliya Police Division on 29th August 2022.. De. Chatkola Perera allegedly releases red warrant by the International Police on the occasion and the police were arrested by the police in Dubai in Dubai
-
-Thereafter, a team of special officers of the Criminal Investigation Department went to Dubai on July 12, questioned by the Criminal Member of the Criminal.
-
-According to information revealed that the grenade was given to the Mattakkuliya Stadium
-
-While Chathuranga, or criminal gang member in Dubai
-
-...
-
-[Data](articles/1387db1b.json)
-
-[Extended Data](ext_articles/1387db1b.ext.json)
 
 ---

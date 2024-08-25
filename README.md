@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 01:21:20**
+As of **2024-08-26 01:36:52**
 
 ## Newspaper Stats
 
-*Scraped **42,566** Articles*
+*Scraped **42,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 392
 colombotelegraphcom | 407
 islandlk | 2,473
 economynextcom | 2,572
-dailyftlk | 2,762
+dailyftlk | 2,765
 adalk | 3,924
 dailymirrorlk | 4,733
 adaderanalk | 4,997
@@ -26,9 +26,65 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,565 (100.0%) of 42,566 articles have been extended.
+42,566 (100.0%) of 42,569 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-26 (Monday)
+
+### President meets with Catholic Bishops’ Conference
+
+*2024-08-26 01:21:50* · [`dailyftlk`](https://www.ft.lk/news/President-meets-with-Catholic-Bishops-Conference/56-765959) · `en`
+
+President Ranil Wickremesinghe last week met with the Bishop of Kurunegala and Catholic Bishops’ Conference President Most Rev. Dr. Harold Anthony Perera, along with the Secretary General and Auxiliary Bishop of Colombo Most Rev. Dr. Don Anthony Jayakody.
+
+During the discussion, they addressed key issues, including education reforms, the progress of the Easter Sunday investigation, environmental concerns, and matters related to the Catholic Church.
+
+President Wickremesinghe also provided an update on the current state of the economy and outlined the Government’s upcoming measures to tackle challenges related to the cost of living.
+
+The meeting was also attended by several other members of the Sri Lanka Catholic Bishops’ Conference.
+
+◼️
+
+[Data](articles/07b74303.json)
+
+---
+
+### Gemunu’s Private Bus Owners’ Association to ride with Ranil
+
+*2024-08-26 01:21:17* · [`dailyftlk`](https://www.ft.lk/news/Gemunu-s-Private-Bus-Owners-Association-to-ride-with-Ranil/56-765958) · `en`
+
+In a show of unified support, 10 major transport associations, including the Private Bus Owners Association, have pledged their backing to President Ranil Wickremesinghe for the upcoming Presidential election.
+
+This announcement was made during a meeting held on Friday at the President’s campaign office at Flower Road, Colombo 7, where President Wickremesinghe was joined by Private Bus Owners’ Association Chairman Gemunu Wijeratne and other association heads and representatives.
+
+The transport sector representatives emphasised their desire to avoid a recurrence of fuel shortages, which had previously hampered their ability to operate effectively. They highlighted the hardships experienced due to fuel scarcity and expressed their appreciation for President Wickremesinghe’s efforts in stabilising the economy over the past two years.
+
+...
+
+[Data](articles/bf35f802.json)
+
+---
+
+### Lankan business delegation visits FoodAgro 2024 in Karachi
+
+*2024-08-26 01:10:01* · [`dailyftlk`](https://www.ft.lk/business/Lankan-business-delegation-visits-FoodAgro-2024-in-Karachi/34-765957) · `en`
+
+A 22-member Sri Lankan business delegation, organised by the Trade Development Authority of Pakistan (TDAP) and the Pakistan High Commission in Colombo, attended FoodAgro 2024 in Karachi.
+
+The Consulate General of Sri Lanka in Karachi facilitated the visit.
+
+The delegation comprised prominent Sri Lankan business leaders, officials from the Department of Animal Protection and Health, Pakistan High Commission in Colombo Trade Development Officer Asela Rangana, and Sri Lanka-Pakistan Business Council President Indhra Kaushal Rajapaksa.
+
+During the visit, the group toured the expo, engaging with potential business partners and exploring various collaborative opportunities.
+
+A highlight of the visit was a high-profile meeting with Pakistan’s Commerce, Industry and Production Federal Minister Rana Tanveer Hussain, joined by TDAP Executive Director Zubair Motiwala. The discussions were focused on elevating bilateral business relations to new heights.
+
+...
+
+[Data](articles/2687dfca.json)
+
+---
 
 ### 2024-08-25 (Sunday)
 
@@ -63,6 +119,8 @@ A country interested in creating a creative economy should put all the four esse
 ...
 
 [Data](articles/67540d45.json)
+
+[Extended Data](ext_articles/67540d45.ext.json)
 
 ---
 
@@ -2223,77 +2281,5 @@ While Chathuranga, or criminal gang member in Dubai
 [Data](articles/1387db1b.json)
 
 [Extended Data](ext_articles/1387db1b.ext.json)
-
----
-
-### "We will send SMS to the people"
-
-*2024-08-25 10:56:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-குறுஞ்செய்தி-அனுப்புவோம்/175-342738) · `ta`
-
-NPP government plans SMS updates on tax payments and usage within 2-3 years.
-
-🟩
-
-The National People's Power (NPP) government will openly charge a fair tax, and the tax paid to each taxpayer and how it is used every year.. NPP leader Anurakumara Dissanayake said yesterday (24).
-
-Speaking at a rally in Balangoda, he said that this system will be introduced within two or three years in charge of the government.
-
-"Two or three years later, we send a text message to the taxpayer's mobile phone each year. We will give them an update of the amount of tax he paid and how the tax money was used. In education and health road development, taxpayers will learn how to spend the tax money they pay. ”
-
-Dissanayake said that people and traders want to pay taxes and they do not want the tax loot.
-
-“When paying the line, people have to get its benefits. We will collect a fair tax, ”he said.
-
-◼️
-
-[Data](articles/2cef8a50.json)
-
-[Extended Data](ext_articles/2cef8a50.ext.json)
-
----
-
-### Massive attack on Israel - Hesbullah
-
-*2024-08-25 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191909) · `ta`
-
-Hesbullah attacks Israel, claims payment. Targets 11 objectives.
-
-🟩
-
-The Hesbullah organization, which has launched a massive attack on Israel, has said that it has paid 350 cash to Israel.
-
-The Hesbullah organization, which has targeted Israel's 11 goals, has launched a massive attack.
-
-The Hesbullah Organization said it was an attack on Israel's sites.
-
-◼️
-
-[Data](articles/ad70b14a.json)
-
-[Extended Data](ext_articles/ad70b14a.ext.json)
-
----
-
-### Warning on election polls
-
-*2024-08-25 10:43:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-கருத்துக்-கணிப்புகள்-குறித்து-எச்சரிக்கை/175-342737) · `ta`
-
-Election Commission warns against party-run polls influencing voter choices. Fake polls spread on social media misusing international organization names. Voters advised to seek reliable sources before making election decisions.
-
-🟩
-
-The Election Commission has warned that voters should not be affected by polls run by various parties ahead of the presidential election.
-
-Elections Commissioner Saman Sri Ratnayake stressed that voters should not be forced to change their views on the basis of these survey.
-
-In addition, a number of fake polls have been spreading on social media using the name of international organizations such as the UN and the European Union.
-
-Voters are asked to rely on reliable information when they make their election decisions.
-
-◼️
-
-[Data](articles/b9f08950.json)
-
-[Extended Data](ext_articles/b9f08950.ext.json)
 
 ---

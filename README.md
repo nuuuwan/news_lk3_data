@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 00:37:34**
+As of **2024-08-26 00:53:43**
 
 ## Newspaper Stats
 
-*Scraped **42,562** Articles*
+*Scraped **42,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 392
 colombotelegraphcom | 407
 islandlk | 2,473
 economynextcom | 2,572
-dailyftlk | 2,758
+dailyftlk | 2,760
 adalk | 3,924
 dailymirrorlk | 4,733
 adaderanalk | 4,997
@@ -26,11 +26,39 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,561 (100.0%) of 42,562 articles have been extended.
+42,562 (100.0%) of 42,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### Game-changing role of a digital economy strategy in Sri Lanka’s 2024 Presidential election
+
+*2024-08-25 23:10:49* · [`dailyftlk`](https://www.ft.lk/columns/Game-changing-role-of-a-digital-economy-strategy-in-Sri-Lanka-s-2024-Presidential-election/4-765953) · `en`
+
+A comprehensive digital economy strategy could encompass initiatives aimed at enhancing digital infrastructure, fostering innovation, and supporting startups
+
+As Sri Lanka approaches the 2024 Presidential election, the digital economy is poised to be a critical issue that could sway voters and shape the country’s future. A clear and well-communicated digital economy strategy offers the promise of economic revitalisation, youth engagement, digital inclusion, better governance, and foreign investment. Candidates who prioritise this issue will likely find themselves resonating with a wide range of voters, from young entrepreneurs to rural residents seeking better opportunities
+
+...
+
+[Data](articles/d984f525.json)
+
+---
+
+### Beyond red tape: How digitalisation can save Sri Lanka’s economy
+
+*2024-08-25 23:06:00* · [`dailyftlk`](https://www.ft.lk/opinion/Beyond-red-tape-How-digitalisation-can-save-Sri-Lanka-s-economy/14-765952) · `en`
+
+In the high-stakes world of trade and logistics, corruption at Sri Lanka’s customs, IRD, ports, and airports is not just an inconvenience—it’s a crisis that’s crippling the nation’s export sector. Outdated, manual systems have become breeding grounds for corruption, where bribery and inefficiency rule, bleeding exporters dry and stifling economic growth. The country stands at a critical juncture, where the only viable path forward is the digitalisation of customs and trade operations.
+
+These antiquated, paper-based customs processes are no match for the demands of the modern global economy, where speed, accuracy, and transparency are paramount. Instead, they are plagued by errors, deliberate delays, and a lack of accountability, allowing corrupt practices to thrive unchecked. As global trade standards become stricter, the need for transparent, secure, and efficient customs operations has never been more urgent.
+
+...
+
+[Data](articles/c35ffa16.json)
+
+---
 
 ### Ariyanendran gets 50 % vote -Sivasakthi Anandan
 
@@ -479,6 +507,8 @@ The current political landscape in Sri Lanka is fraught with issues that render 
 ...
 
 [Data](articles/fd894f9d.json)
+
+[Extended Data](ext_articles/fd894f9d.ext.json)
 
 ---
 
@@ -2269,53 +2299,5 @@ He also explained to the priests about the government's plans for the economy of
 [Data](articles/e8ea9a54.json)
 
 [Extended Data](ext_articles/e8ea9a54.ext.json)
-
----
-
-### Emergency Declaration in Israel
-
-*2024-08-25 10:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலில்-அவசர-நிலை-பிரகடனம்/50-342734) · `ta`
-
-Israel declares state of emergency after Hezbollah attacks in response to Hamas leader's assassination.
-
-🟩
-
-Israel has announced a state of emergency for the next 48 hours as Hizbullah attacks in response to the Hamas leader's assassination.
-
-The Western country, Israel, launched a military attack on Gaza, where Palestinians reside. Against this, the 'Hamas' organization, which has controlled Gaza, is fighting.
-
-In support of the Palestinian people and Hamas, the Iran -backed Hizbullah organization in neighboring Lebanon is attacking Israel.
-
-In this case, Hamas leader was killed in Iran. Israel is blamed for this. In retaliation for the Hamas leader's assassination, the Hilbullah soldiers threw 70 rocket missiles from midnight yesterday to Northern Israel. In particular, the attack has been carried out on apartments where Israeli soldiers are staying.
-
-...
-
-[Data](articles/2fb59fb9.json)
-
-[Extended Data](ext_articles/2fb59fb9.ext.json)
-
----
-
-### German police arrest suspect in stabbing rampage
-
-*2024-08-25 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101477/german-police-arrest-suspect-in-stabbing-rampage) · `en`
-
-A man suspected of a stabbing rampage in the western German town of Solingen has been taken into police custody, a state official told German television on Saturday, some 24 hours after the attack that killed three people.
-
-North Rhine-Westphalia’s interior minister Herbert Reul told the ARD broadcaster that he was “a bit relieved” after authorities spent the day following a “hot lead” that lead to the arrest.
-
-The Islamic State group earlier claimed responsibility for Friday’s knife attack that also wounded eight people.
-
-Police spent the day conducting a manhunt, making two arrests that were likely not the perpetrator, Reul said.
-
-“The real suspect is the one that we’ve arrested just now,” he said. The individual is being questioned and evidence was seized, he said.
-
-Reul said the man was affiliated with a home for refugees that had been searched earlier in the day.
-
-...
-
-[Data](articles/16466af5.json)
-
-[Extended Data](ext_articles/16466af5.ext.json)
 
 ---

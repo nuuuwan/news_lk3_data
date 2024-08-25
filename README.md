@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 09:21:37**
+As of **2024-08-25 09:37:04**
 
 ## Newspaper Stats
 
-*Scraped **42,445** Articles*
+*Scraped **42,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 405
 islandlk | 2,473
 economynextcom | 2,570
 dailyftlk | 2,758
-adalk | 3,907
+adalk | 3,908
 dailymirrorlk | 4,733
 adaderanalk | 4,980
 tamilmirrorlk | 5,513
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,260
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,445 (100.0%) of 42,445 articles have been extended.
+42,445 (100.0%) of 42,446 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,11 +36,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-08-25 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101476/postal-workers-leave-cancelled-until-presidential-election-ends) · `en`
 
-Deputy Postmaster General Rajitha Ranasinghe has announced that all leave of Postal Department employees has been canceled with immediate effect until the conclusion of the 2024 Presidential Election.
+Deputy Postmaster General Rajitha Ranasinghe has announced that leave of all employees of the Postal Department has been cancelled with immediate effect until the conclusion of the 2024 Presidential Election.
 
 The decision was made to ensure that all election-related responsibilities are adequately managed, he said.
 
 Any postal worker requiring leave for essential reasons would have to obtain permission from the Deputy Postmaster General in charge of their province, he added.
+
+The Presidential Election is scheduled to be held on September 21.
 
 ◼️
 
@@ -100,6 +102,26 @@ Two brothers and brothers have been arrested by the police, who were in the aged
 
 ---
 
+### සැබෑ ලෙසම ජනතාව ගැන සිතුවා නම් එදා රටේ වගකීම භාරගත යුතුව තිබුණා
+
+*2024-08-25 08:15:59* · [`adalk`](https://www.ada.lk/breaking_news/සැබෑ-ලෙසම-ජනතාව-ගැන-සිතුවා-නම්-එදා-රටේ-වගකීම-භාරගත-යුතුව-තිබුණා/11-411533) · `si`
+
+කිසිවෙකු භාර ගැනීමට අකමැති වු රට භාර ගත් තමා ජනතාවගේ ජිවත් වීමේ අයිතිය සුරැකීම වෙනුවෙන් කැප වෙද්දි, මැතිවරණ ඉල්ලමින් අධිකරණයට ගිය පිරිසගේ පරමාර්ථය ජනතාව පීඩාවෙන් මුදා ගැනීම නොව තම බලය තහවුරු කර ගැනීම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+තමා එදා මැතිවරණ පැවැත්වීමට මුදල් වැය කළානම් අද රටේ ආර්ථිකය ස්ථාවර මට්ටමකට ගෙන ඒමට නොහැකි වන බව පෙන්වා දුන් ජනාධිපතිවරයා ජනතාවගේ ජිවත්වීමේ අයිතිය සුරැකීම මුලික අයිතිවාසිකම් කඩකිරීමක් ලෙස සලකනවා නම් තමන් ඊට මුහුණදිමට සුදානම් බවද අවධාරණය කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ දඹුල්ල බස්නැවතුම්පොළ භූමියේදි  පැවති “පුළුවන් ශ්‍රී ලංකා” දඹුල්ල විජයග්‍රාහී ජන රැලිය අමතමිනි.
+
+දඹුල්ල ප්‍රදේශයේ අතිවිශාල ජනතාවක් මෙම ජන රැලියට එක්ව සිටි අතර එහිදි ඔවුහු ජනාධිපතිවරයාව මහත් හරසරින් පිළිගත්හ.
+
+මෙහිදී අදහස් දැක්වු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ 2022 ජුලි මාසයේ දී තමා මේ රටේ වගකීම භාරගත්තේ ජනතාව වෙනුවෙන් බවත්, රටේ එදා පැවති ගැටළුකාරී තත්ත්වය අවසන් කර ආර්ථික ස්ථාවරත්වයක් ඇති
+
+...
+
+[Data](articles/f059483e.json)
+
+---
+
 ### It takes 3 years to build the economy
 
 *2024-08-25 08:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தைக்-கட்டியெழுப்ப-3-வருடங்கள்-தேவை/175-342728) · `ta`
@@ -132,7 +154,11 @@ So do not hand over the country to anyone else.He said we could resolve all the 
 
 A fuel train has derailed at the Maradana railway station this morning (25).
 
-The derailment has reportedly caused damages to the railway platform at the station.
+The derailment has reportedly caused serious damage to the railway platform at the station.
+
+Meanwhile, the derailment has also blocked platforms 01, 02, and 03 at the station.
+
+As a result, all trains departing from Maradana railway station and Colombo Fort are expected to experience delays, according to the Railway Department.
 
 ◼️
 
@@ -2223,27 +2249,5 @@ He added that he was the first thing he had done to fertilize the farmers after 
 [Data](articles/7c5f0bdf.json)
 
 [Extended Data](ext_articles/7c5f0bdf.ext.json)
-
----
-
-### Thunderstorms today
-
-*2024-08-24 01:29:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-342696) · `ta`
-
-Forecast: Thunderstorms after 1pm, 75mm rainfall expected in Sabaragamuwa, Central & Eastern Provinces.
-
-🟩
-
-The Department of Meteorology has forecast rain or thunderstorms after 1 pm this afternoon.
-
-According to the department, 75 millimeters of rainfall is expected in some parts of the Sabaragamuwa, Central and Eastern Provinces.
-
-The Department of Meteorology said in a statement that it would occur from time to time in the Northern, North Central and Eastern Provinces.. (A)
-
-◼️
-
-[Data](articles/2e333e76.json)
-
-[Extended Data](ext_articles/2e333e76.ext.json)
 
 ---

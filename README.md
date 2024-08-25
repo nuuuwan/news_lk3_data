@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 18:55:40**
+As of **2024-08-25 19:06:29**
 
 ## Newspaper Stats
 
-*Scraped **42,526** Articles*
+*Scraped **42,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 405
 islandlk | 2,473
 economynextcom | 2,571
 dailyftlk | 2,758
-adalk | 3,919
+adalk | 3,920
 dailymirrorlk | 4,733
 adaderanalk | 4,994
-tamilmirrorlk | 5,531
+tamilmirrorlk | 5,534
 virakesarilk | 6,749
 adaderanasinhalalk | 7,280
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,526 (100.0%) of 42,526 articles have been extended.
+42,526 (100.0%) of 42,530 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -126,6 +126,26 @@ He said that the responsibility of monitoring all the election activities, inclu
 
 ---
 
+### 12 நாடுகளின் பிரதிநிதிகளுக்கு  அழைப்பு
+
+*2024-08-25 17:58:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-நாடுகளின்-பிரதிநிதிகளுக்கு-அழைப்பு/175-342756) · `ta`
+
+2024ஆம் ஆண்டு நடைபெறவுள்ள ஜனாதிபதித் தேர்தலை கண்காணிக்க 12 நாடுகளின் பிரதிநிதிகளுக்கு அழைப்பு விடுக்கப்பட்டுள்ளதாக தேசிய தேர்தல் ஆணைக்குழு அறிவித்துள்ளது.
+
+இந்த பிரதிநிதிகளில் இந்தியா, நேபாளம், பங்களாதேஷ், பாகிஸ்தான் மற்றும் மாலைதீவு ஆகிய நாடுகளைச் சேர்ந்தவர்களும் உள்ளடங்குவதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+
+பொதுநலவாய நாடுகளின் தேர்தல் கண்காணிப்பாளர்கள் மற்றும் ஆசிய தேர்தல் கண்காணிப்பு வலையமைப்பின் பிரதிநிதிகளும் தேர்தலை அவதானிப்பதற்காக வருகை தரவுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+
+ஐரோப்பிய ஒன்றியத்தின் (EU) தேர்தல் கண்காணிப்பாளர்கள் ஏற்கனவே இலங்கை வந்துள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் தெரிவித்தார்.
+
+வாக்களிப்பு நடவடிக்கைகள் உட்பட அனைத்து தேர்தல் நடவடிக்கைகளையும் கண்காணிக்கும் பொறுப்பு சர்வதேச கண்காணிப்பாளர்களுக்கு வழங்கப்பட்டுள்ளதாகவும், வாக்குப்பதிவு முடிவடைந்த பின்னர் விரிவான அறிக்கையை அவர்கள் வழங்குவார்கள் எனவும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/f64ed2f7.json)
+
+---
+
 ### Two public health inspectors killed
 
 *2024-08-25 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200317) · `si`
@@ -165,6 +185,24 @@ In fact, the Joint conspiracy of the British -Zionist Jewish forces in Parliamen
 [Data](articles/82b63bb2.json)
 
 [Extended Data](ext_articles/82b63bb2.ext.json)
+
+---
+
+### ඇතා වැටුණු වලේ දිය නෑමට ගිය මහජන සෞඛ්‍ය පරීක්ෂකවරු දෙදෙනෙක් දියේ ගිලී මරුට
+
+*2024-08-25 17:30:10* · [`adalk`](https://www.ada.lk/breaking_news/ඇතා-වැටුණු-වලේ-දිය-නෑමට-ගිය-මහජන-සෞඛ්‍ය-පරීක්ෂකවරු-දෙදෙනෙක්-දියේ-ගිලී-මරුට/11-411544) · `si`
+
+ඉත්තෑපාන  ඉහල කන්ද යගිරල ඇතා වැටුණු වලේ විනෝදයට දිය නෑමට ගිය මහජන සෞඛ්‍ය පරීක්ෂකවරු දෙදෙනෙක් දියේ ගිලී මිය ගොස් ඇතැයි ඉත්තෑපාන  පොලිසිය කියයි
+
+මෙලෙස මියගොස් ඇත්තේ  මොරටුව සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට අනුයුක්තව සේවය කරන මඩකලපුව කලවංචිකුඩි ප්‍රදේශයේ පදිංචි එස් ගෞතම් (26) හා  එගොඩ උයන සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට අනුයුක්තව සේවය කරන  යාපනය අච්චුවේලී පදිංචිව සිටි එස් හර්ෂණන් (28) යන දෙදෙනායි
+
+ඊයේ (25) දහවල්  පස්දෙනකුගෙන් පිරිසක් දිය නෑම සඳහා පැමිණ ඇති අතර මියගිය දෙදෙනා දෙදෙනෙකු දියේ ගිලීමත් සමගම පිරිස ඔවුන් දෙදෙනාව ත්‍රීරෝද රථයක නන්වාගෙන ඇල්පිටිය රෝහල වෙත යන විටත් මියගොස් තිබූ බව පොලිසිය සඳහන් කරයි
+
+මියගිය ස මහජන සෞඛ්‍ය පරීක්ෂකවරුන් දෙදෙනාට අමතරව මොරටුව සෞඛ්‍ය කාර්යාලයට අනුයුක්ත තවත් මහජන සෞඛ්‍ය පරීක්ෂකවරුන් දෙදෙනෙක් සහ සෞඛ්‍ය කාර්ය සහයකයෙක් සඳහා මෙම ගමන පැමිණ ඇති බවට තොරතුරු අනාවරණය වී යැයි පොලිසිය වැඩිදුරටත් සඳහන් කරයි
+
+◼️
+
+[Data](articles/beba3acf.json)
 
 ---
 
@@ -460,6 +498,28 @@ The Tamil people must be aware of many independent candidates to scatter the vot
 
 ---
 
+### “சாபக்கேட்டுக்கு முடிவு கட்டுவோம்”
+
+*2024-08-25 15:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாபக்கேட்டுக்கு-முடிவு-கட்டுவோம்/175-342754) · `ta`
+
+இலங்கை நாட்டின் 76 வருட காலமாக நாட்டைப் பீடித்துள்ள பிரபுக்களின்  ஆட்சிக்கு  முடிவு கட்ட தமிழ் மக்கள் அணிதிரள வேண்டும் என தேசிய மக்கள் சக்தியின் யாழ் மாவட்ட அமைப்பாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான இராமலிங்கம் சந்திரசேகரன் தெரிவித்தார்.
+
+யாழ். திருநெல்வேலி பகுதியில் தேசிய மக்கள் சக்தியின் தேர்தல் பிரச்சார அலுவலகத்தை ஞாயிற்றுக்கிமை (25)  திறந்து வைத்து ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் அவர் இவ்வாறு தெரிவித்தார்.
+
+அவர் மேலும் தெரிவிக்கையில், நாட்டில் வாழுகின்ற தமிழ் சிங்கள முஸ்லிம் மக்களிடம் பல ஆண்டுகளாக ஏக்கம் இருக்கிறது நாட்டை காப்பாற்ற சிறந்த தலைவர் வேண்டும்.
+
+எழுபது வருடகாலமாக நாட்டை ஆட்சி செய்தவர்கள்  பல்வேறு வழிகளிலும் நாட்டை சூறையாடியுள்ள நாட்டை மீட்பதற்கு திருடியவர்கால் முடியவில்லை.
+
+மீண்டும் தாய் நாட்டை திருடுவதற்கு  பலர் ஜனாதிபதி தேர்தலில் போட்டியிடுகின்ற நிலையில் அதனை மக்கள் தமது வாக்குப் பலத்தால் முறியடிக்க வேண்டும்.
+
+மக்களின் வாக்குகளை சிதறடிப்பதற்காக பல சுயேட்சை வேட்பாளர்கள் ஜனாதிபதி தேர்தலில் களமிறக்கப்பட்டுள்ள நிலையில் தமிழ் மக்கள் விழிப்பாக இருக்க வேண்டும்.
+
+...
+
+[Data](articles/a8757e91.json)
+
+---
+
 ### 47 drugs preceding importance
 
 *2024-08-25 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200309) · `si`
@@ -529,6 +589,26 @@ MP. Senasinghe added that Premadasa's election manifesto has been created within
 [Data](articles/5f53340f.json)
 
 [Extended Data](ext_articles/5f53340f.ext.json)
+
+---
+
+### விஞ்ஞாபனங்கள் இந்த வாரம் வெளியிடப்படும்
+
+*2024-08-25 15:13:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஞ்ஞாபனங்கள்-இந்த-வாரம்-வெளியிடப்படும்/175-342752) · `ta`
+
+இரண்டு ஜனாதிபதி வேட்பாளர்கள் இந்த வாரம் தமது தேர்தல் விஞ்ஞாபனங்களை வெளியிட உள்ளனர்.
+
+தேசிய மக்கள் சக்தியின் (NPP) தலைவரும் ஜனாதிபதி வேட்பாளருமான பாராளுமன்ற உறுப்பினர் அனுரகுமார திஸாநாயக்க தனது தேர்தல் விஞ்ஞாபனத்தை  கொழும்பில்  திங்கட்கிழமை (26) வெளியிடவுள்ளார்.
+
+தலவத்துகொட மொனார்க் இம்பீரியல் ஹோட்டலில் நடைபெறும் வைபவத்தின்காலை 10  மணிக்கு  போது தேர்தல் விஞ்ஞாபனம் வெளியிடப்படும் என தேசிய மக்கள் சக்தியின் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+இதேவேளை, எதிர்க்கட்சித் தலைவரும், ஜனாதிபதி வேட்பாளருமான சஜித் பிரேமதாச தனது தேர்தல் விஞ்ஞாபனத்தை புதன்கிழமை (ஒகஸ்ட் 28) வெளியிடவுள்ளார்.
+
+தேர்தல் விஞ்ஞாபனம் கொழும்பில் வெளியிடப்படும் என்றும், ஆனால் நேரம் மற்றும் இடம் விரைவில் அறிவிக்கப்படும் என்றும் ஐக்கிய மக்கள் சக்தியின் தேர்தல் நடவடிக்கைகளின் தலைவர் சுஜீவ சேனசிங்க தெரிவித்தார்.
+
+...
+
+[Data](articles/adc49d5c.json)
 
 ---
 
@@ -2201,67 +2281,5 @@ The little village of Ramgarh is today famous throughout the world. For here gat
 [Data](articles/c71a7059.json)
 
 [Extended Data](ext_articles/c71a7059.ext.json)
-
----
-
-### The Ambani’s and India: A Fairytale Wedding as a Diplomatic Stage
-
-*2024-08-25 01:24:00* · [`islandlk`](http://island.lk/the-ambanis-and-india-a-fairytale-wedding-as-a-diplomatic-stage/) · `en`
-
-Indian weddings are renown for their grandeur and extravagance, extending far beyond the union of two individuals. They are elaborate affairs that engage entire families and communities, often becoming the talk of the town. From the meticulous selection of auspicious dates to the inevitable family dynamics, these celebrations are a whirlwind of emotions and preparations.
-
-The Ambani wedding was an exceptional example of this tradition, elevated to unprecedented heights. Spanning an astonishing seven months, it was a fairy tale-like spectacle characterized by opulence and grandeur. At its heart, however, was the solemn exchange of vows to be with each other for “Saat Janam” between Anant Ambani and Radhika Merchant, a testament to their enduring love.
-
-...
-
-[Data](articles/e9824b93.json)
-
-[Extended Data](ext_articles/e9824b93.ext.json)
-
----
-
-### Elections in Sri Lanka: A Preliminary Audit
-
-*2024-08-25 01:17:00* · [`islandlk`](http://island.lk/elections-in-sri-lanka-a-preliminary-audit/) · `en`
-
-Sri Lankans will be voting in September, and they will be voting for the first time since 2020 or 2019 if you consider presidential elections. The economy, more specifically economic recovery, will figure as a top concern. People will be voting for candidates based on their perceptions of how well this government has done and how well they think the Opposition will do if they are given the chance. As of now, economic reforms have polarised opinion. One poll indicates that less than 10 percent – eight, to be exact – believe Sri Lanka is headed the right way. That leaves a staggering 92 percent who disagree or are unsure.
-
-...
-
-[Data](articles/7df47edc.json)
-
-[Extended Data](ext_articles/7df47edc.ext.json)
-
----
-
-### 2024 Presidential Election Divides Muslim  Political Parties  with Leaders Backing Sajith and Some MPs Supporting Ranil.
-
-*2024-08-25 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84580) · `en`
-
-Nominations have closed for the long awaited 2024 presidential election. 39 candidates are in the fray.It is widely acknowledged  by the press and public that the chief presidential  contenders  are  incumbent president Ranil Wickremesinghe,leader of the opposition  Sajith Premadasa and JVP/NPP leader Anura Kumara  Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith  Jayaweera.
-
-However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier  numerical minorities  assumes crucial importance.
-
-...
-
-[Data](articles/bd766ef7.json)
-
-[Extended Data](ext_articles/bd766ef7.ext.json)
-
----
-
-### Supreme Court ruling that President Ranil Wickremesinghe’s defiant action in postponing Local Government polls in 2023  had violated the fundamental right to equality and the right to vote of citizens,should come as no surprise
-
-*2024-08-25 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84595) · `en`
-
-Sri Lanka’s Supreme Court ruling this week that President Ranil Wickremesinghe’s defiant action in postponing Local Government polls in 2023, citing a purported lack of funds in the wake of the country’s bankruptcy, had violated the fundamental right to equality and the right to vote of citizens, raises several interesting issues.
-
-In fact, this decision should come as no surprise.  There was little choice but to hold as the Bench did, relying on several precedents which have firmly established the predominant principle that, exercising the right of franchise is an inviolable right of citizens, it is a collective as well as an individual right. The Court found the President (also as Minister of Finance) responsible along with the luckless Elections Commission.
-
-...
-
-[Data](articles/c92aaf9e.json)
-
-[Extended Data](ext_articles/c92aaf9e.ext.json)
 
 ---

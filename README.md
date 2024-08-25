@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 06:42:14**
+As of **2024-08-25 07:23:01**
 
 ## Newspaper Stats
 
-*Scraped **42,425** Articles*
+*Scraped **42,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,86 @@ economynextcom | 2,570
 dailyftlk | 2,758
 adalk | 3,906
 dailymirrorlk | 4,733
-adaderanalk | 4,977
+adaderanalk | 4,978
 tamilmirrorlk | 5,510
 virakesarilk | 6,737
-adaderanasinhalalk | 7,256
+adaderanasinhalalk | 7,257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,423 (100.0%) of 42,425 articles have been extended.
+42,425 (100.0%) of 42,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### අද කාලගුණය
+### ජීවිත බිලිගත් මාරක අනතුරු
+
+*2024-08-25 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200292) · `si`
+
+ගෙවී ගිය පැය 24ක කාලය තුළදී ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු කිහිපයකින් කුඩා දරුවෙකු ඇතුළු තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (24) එම අනතුරු සිදුව තිබුණේ, වුන්නාකම්, නොච්චියාගම සහ හබරණ යන පොලිස් වසම්වලින්ය.
+
+යාපනය - කන්කසන්තුරේ මාර්ගයේ වුන්නාකම් ප්‍රදේශයේදී ත්‍රිරෝද රථයක් රියදුරට පාලනය කර ගත නොහැකිව මාර්ගයේ පරෙළී ගොස් අනතුරක් සිදුව තිබුණි.
+
+එම අනතුරින් ත්‍රිරෝද රථයේ පසුපස අසුනේ මව සමග ගමන්කළ කුඩා පිරිමි දරුවෙකු තුවාල ලබා තෙලිප්පලේ රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇත.
+
+එලෙස මියගොස් ඇත්තේ, දන්ගස්වැව, පුත්තලම ප්‍රදේශයේ පදිංචිව සිටි අවුරුදු 02යි මාස 06ක් වූ කුඩා පිරිමි දරුවෙකි.
+
+මේ අතර නොච්චියාගම - කුකුල්කටුව මාර්ගයේ නෙළුගොල්ලෑව ප්‍රදේශයේදී යතුරුපැදියක් මාර්ගයේ පෙරළී ගොස් සිදුවූ අනතුරකින් යතුරුපැදිකරු මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, අඹගහවැව, නොච්චියාම ප්‍රදේශයේ පදිංචිව සිටි 32 හැවිරිදි  පුද්ගලයෙකි.
+
+මේ අතර පොළොන්නරුව - හබරණ මාර්ගයේ මොරගස්වැව ප්‍රදේශයේදී නාඳුනන වාහනයකින් පුද්ගලයෙකු හප්පා පළා ගොස් ඇත.
+
+...
+
+[Data](articles/b43d41a6.json)
+
+---
+
+### Several spells of light showers expected in parts of the island
+
+*2024-08-25 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101474/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorological Department says that several spells of showers will occur in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts today (25).
+
+Meanwhile, showers or thundershowers may occur at several places in Eastern and Uva Provinces during the evening or night, the Met. Department added.
+
+Fairly strong winds about 30-40 kmph can be expected at times over Northern, North-central and North-western provinces and in Hambantota and Trincomalee districts, according to the department.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/d3b343c7.json)
+
+---
+
+### Weather today
 
 *2024-08-25 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200291) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (25) දිනයේ වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Weather forecast: closures in Western, Sabaragamuwa, Southern, North-Western provinces. Thundershowers in East, Uva provinces. Strong winds 30-40 mph. Thunderstorm precautions advised.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවේ.
+The Department of Meteorology says that several closure will occur in the Western, Sabaragamuwa, Southern and North-Western provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Thundershowers will develop at several places in the East and Uva provinces during the evening or night.
+
+From time to time in the Northern, North Central and Northwestern districts, Hambantota and Trincomalee Districts. Strong winds are about 30-40 times.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/7554adc9.json)
+
+[Extended Data](ext_articles/7554adc9.ext.json)
 
 ---
 
@@ -1448,21 +1498,29 @@ Elections Commissioner General Saman Sri Ratnayake said there was no need to cha
 
 ---
 
-### சிறுவனை கடித்த  சிறிய தாய்
+### The little mother who bit the boy
 
 *2024-08-24 08:54:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-கடித்த-சிறிய-தாய்/76-342701) · `ta`
 
-லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட வளஹா தோட்டத்தில் வசிக்கும் 10 வயது சிறுவன் ஒருவன் தனது சிறிய தாயாரினால் கடந்த சில தினங்களாக கொடூர சித்திரவதைக்குட்படுத்திய சம்பவம் தொடர்பில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+Boy tortured by mother; police investigate; mother arrested; case ongoing.
 
-குறித்த சிறுவன் அடிக்கப்பட்டு கடிக்கப்பட்டு பல வகையான சித்திரவதைகளை ஏற்படுத்தி உள்ளதாகவும் அதனை விசாரித்து அறிந்த பாடசாலை சமூகம் லிந்துலை பொலிஸ் இணையத்தில் முறைப்பாடு செய்துள்ளனர்.
+🟩
 
-சித்திரவதைக்கு உள்ளான சிறுவன் லிந்துலை  பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைகளுக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு நேற்றைய தினம் அனுப்பப்பட்டுள்ளார்.
+A 10 -year -old boy living in the Valaha estate in the Lindulai Police Division has begun investigations into the brutal torture of his little mother for the past few days.
 
-அதே சமயம்  நேற்றைய தினம் சம்பவத்துடன் தொடர்புடைய சிறிய தாயார் பொலிஸாரினால் வரவழைக்கப்பட்டு விசாரணைகளுக்கு உட்படுத்தினர். விசாரணைகளை தொடர்ந்து குறித்த பெண் கைது செய்யப்பட்டு இன்றைய தினம் நுவரெலியா மாவட்ட நீதவால் முன்னிலையில் ஆஜர் படுத்த நடவடிக்கை எடுத்துள்ளதாக லிந்துலை பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார்.
+The school community has lodged a complaint with the Lindula police website that the boy has been beaten and bitten and has caused many torture.
 
-...
+The torture boy was admitted to the Lindula Divisional Hospital and sent to the Nuwara Eliya District Hospital for further treatment yesterday.
+
+At the same time, the little mother in connection with the incident yesterday was summoned by the police and subjected to investigations. Following the investigation, the woman has been arrested and produced before the Nuwara Eliya District Magistrate today.
+
+The little mother of the arrested boy is not only a child's mother but also pregnant mother. Investigations have revealed that the mother of a brutal torture boy was working in Colombo and had left the boy's little mother for security.R
+
+◼️
 
 [Data](articles/01834cec.json)
+
+[Extended Data](ext_articles/01834cec.ext.json)
 
 ---
 
@@ -2195,37 +2253,5 @@ Around 900 delegates representing 75 countries, including botanic garden officia
 [Data](articles/9620badf.json)
 
 [Extended Data](ext_articles/9620badf.ext.json)
-
----
-
-### “75 years of the Geneva Conventions: Global and Sri Lankan Perspectives”
-
-*2024-08-23 23:47:33* · [`dailyftlk`](https://www.ft.lk/news/75-years-of-the-Geneva-Conventions-Global-and-Sri-Lankan-Perspectives/56-765927) · `en`
-
-The Ministry of Foreign Affairs, Sri Lanka, the Embassy of Switzerland to Sri Lanka and the Maldives and the International Committee of the Red Cross (ICRC) commemorated the 75th anniversary of the Geneva Conventions in an event themed “75 years of the Geneva Conventions: Global and Sri Lankan Perspectives” on 14 August at the BMICH in Colombo.
-
-The event included a panel discussion under the title “Preserving our shared humanity: IHL as a national and international political priority”. Further, on the initiative of the National Committee for implementation of IHL in Sri Lanka under the Foreign Ministry, the Geneva Conventions have been translated into Sinhala and Tamil and copies of the translations were handed over by the ICRC. The translations together with the inclusion of IHL in universities, military curricula and training for the judiciary, will ensure its wide dissemination to those called upon to implement IHL, as well as the general public.
-
-...
-
-[Data](articles/eabe50b4.json)
-
-[Extended Data](ext_articles/eabe50b4.ext.json)
-
----
-
-### The long weekend is over for legislators and electors alike
-
-*2024-08-23 23:30:19* · [`dailyftlk`](https://www.ft.lk/columns/The-long-weekend-is-over-for-legislators-and-electors-alike/4-765919) · `en`
-
-Is it bearable, this oppression by reactionary elites who have captured the state, for the sake of ostensible stability in the short term... even if exploring the alternatives – and there is a raft of these – means facing and overcoming the ‘fear psychosis’ (or false propaganda) of the much-dreaded return to vistas of austerity? Or do we owe those who were arguably the worst off – some of my readers may be in the same boat or at the bottom of the same pool – under a cabal that brought a country to its knees and a nation to bankruptcy?
-
-Over the ‘long weekend’ a few days ago, an immersive editorialist – like a few other ordinary folks in Sri Lanka lucky enough to be able to savour it – was pleased to be tasked to enjoy some down time on an out-of-town getaway.
-
-...
-
-[Data](articles/5dbd5338.json)
-
-[Extended Data](ext_articles/5dbd5338.ext.json)
 
 ---

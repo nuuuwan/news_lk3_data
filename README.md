@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 00:53:43**
+As of **2024-08-26 01:06:46**
 
 ## Newspaper Stats
 
-*Scraped **42,564** Articles*
+*Scraped **42,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 392
 colombotelegraphcom | 407
 islandlk | 2,473
 economynextcom | 2,572
-dailyftlk | 2,760
+dailyftlk | 2,761
 adalk | 3,924
 dailymirrorlk | 4,733
 adaderanalk | 4,997
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,562 (100.0%) of 42,564 articles have been extended.
+42,564 (100.0%) of 42,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### Transitioning from takaran-sheet giveaways
+
+*2024-08-25 23:36:23* · [`dailyftlk`](https://www.ft.lk/columns/Transitioning-from-takaran-sheet-giveaways/4-765956) · `en`
+
+As long as the people keep asking for giveaways as against conditions for life improvement, the takaran era will not end – Pic by Shehan Gunasekara
+
+It is because of this increased literacy that people are asking politicians making promises to also state how the money will be found. The politician who some time back promised to zero out VAT, has now retreated to saying that VAT will be removed for educational and healthcare services (leaving aside the fact that most of these services are already exempt from VAT). Even then, he is being challenged to explain how the shortfall is going to be covered
+
+“We all know what to do, but we don’t know how to get re-elected once we have done it” ― Jean-Claude Juncker, Prime Minister of Luxembourg 1995-2013
+
+Handing out roofing sheets used to be a thing in Sri Lankan elections. It was thought that giving tangible things to people would motivate them to vote for the giver. Now we use the term metaphorically, hopefully.
+
+...
+
+[Data](articles/f1ba5d1a.json)
+
+---
 
 ### Game-changing role of a digital economy strategy in Sri Lanka’s 2024 Presidential election
 
@@ -43,6 +61,8 @@ As Sri Lanka approaches the 2024 Presidential election, the digital economy is p
 ...
 
 [Data](articles/d984f525.json)
+
+[Extended Data](ext_articles/d984f525.ext.json)
 
 ---
 
@@ -57,6 +77,8 @@ These antiquated, paper-based customs processes are no match for the demands of 
 ...
 
 [Data](articles/c35ffa16.json)
+
+[Extended Data](ext_articles/c35ffa16.ext.json)
 
 ---
 
@@ -2279,25 +2301,5 @@ The President has informed the Father on the plans implemented by the government
 [Data](articles/ec657cdf.json)
 
 [Extended Data](ext_articles/ec657cdf.ext.json)
-
----
-
-### Ranil met the bishops
-
-*2024-08-25 10:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயர்களை-சந்தித்தார்-ரணில்/175-342735) · `ta`
-
-Ranil Wickremesinghe meets Catholic Bishops: discusses education reform, Easter attacks, economic plans, cost of living.
-
-🟩
-
-President Ranil Wickremesinghe, President of the Catholic Bishops Council, Blessed Herold Anthony Perera, General Secretary Don Anton Jayakody, met with the priests of the Colombo Assistant Bishop and Catholic Bishop, and discussed the ongoing educational reforms, Easter Sunday terrorist attacks, Easter Sunday terrorist attacks.
-
-He also explained to the priests about the government's plans for the economy of the country and the cost of living of the people.
-
-◼️
-
-[Data](articles/e8ea9a54.json)
-
-[Extended Data](ext_articles/e8ea9a54.ext.json)
 
 ---

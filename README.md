@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 11:37:01**
+As of **2024-08-25 11:56:35**
 
 ## Newspaper Stats
 
-*Scraped **42,470** Articles*
+*Scraped **42,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,102 @@ newsfirstlk | 363
 bbccomsinhala | 392
 colombotelegraphcom | 405
 islandlk | 2,473
-economynextcom | 2,570
+economynextcom | 2,571
 dailyftlk | 2,758
-adalk | 3,910
+adalk | 3,911
 dailymirrorlk | 4,733
-adaderanalk | 4,983
-tamilmirrorlk | 5,522
+adaderanalk | 4,985
+tamilmirrorlk | 5,523
 virakesarilk | 6,741
-adaderanasinhalalk | 7,263
+adaderanasinhalalk | 7,264
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,464 (100.0%) of 42,470 articles have been extended.
+42,470 (100.0%) of 42,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### சாரதி அனுமதிப் பத்திரங்கள் ரத்து செய்யப்படாது
+### Woman attacked to death over personal dispute in Horana
+
+*2024-08-25 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101483/woman-attacked-to-death-over-personal-dispute-in-horana) · `en`
+
+A woman has reportedly been attacked to death with a sharp weapon in the Siriltonwatta area of Horana.
+
+Police stated that the murder has allegedly been carried out by a neighbor and his brother over a personal dispute last evening (24).
+
+Two brothers from the same family, aged 40 and 44, who are residents of Kananwila, have been arrested by the police in connection with the incident.
+
+The deceased is a 36-year-old resident of the Siriltonwatta area of the Meewanapalana area, police said.
+
+◼️
+
+[Data](articles/14fa751a.json)
+
+---
+
+### මිනිසා වඳවී යෑමේ අවදානමක් විද්‍යාඥයින් හෙළිකරයි
+
+*2024-08-25 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200299) · `si`
+
+මිනිසාගේ ලිංගිකත්වය නිර්ණය කරන Y වර්ණදේහය ගෙවුණු වසර මිලියන ගණනක් තුළ වෙනස්කම්වලට භාජනවී ඇතැයි පර්යේෂණයකින් අනාවරණ වී තිබේ.
+
+අමෙරිකාවේ ජාතික විද්‍යා ඇකඩමියේ පර්යේෂණ වාර්තාව මගින් අනාවරණය වී ඇත්තේ පසුගිය වසර මිලියන 166 තුළ Y වර්ණදේහයට එහි ජානවලින් වැඩි ප්‍රමාණයක් අහිමිවී ඇති බවය.
+
+ඒ අනුව වසර මිලියන 4.5ක් තුළදී Y වර්ණදේහය සම්පූර්ණයෙන්ම නැතිවී යාමේ සම්භාවිතාවක් පවතින බව විද්‍යාඥයින් මත පළකරයි.
+
+ඒ අනුව මානවයාගේ නව ලිංගික ජානයක් පරිණාමය නොවුවහොත් වසර මිලියන ගණනක් තුළ මිනිසා වඳවී යාමේ අවදානමක් පවතින බව විද්‍යාඥ මතයයි.
+
+◼️
+
+[Data](articles/709ebd07.json)
+
+---
+
+### ‘NPP attempts to build a rich country’: Anura Kumara explains how
+
+*2024-08-25 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101482/npp-attempts-to-build-a-rich-country-anura-kumara-explains-how) · `en`
+
+Presidential candidate of the National People’s Power (NPP) Anura Kumara Dissanayake states that the NPP is attempting to build a rich country.
+
+Addressing a public rally held in Balangoda, the NPP leader also explained how the country will be developed under an NPP government.
+
+“The country has collapsed completely. But, we guarantee that we will start to develop this country step by step after the 21st of September”, Dissanayake said.
+
+“How do we do that? First of all, the nexus between the politician and the citizen should be strengthened.  Firstly we will inspire a political reformation to earn the trust of the voters who didn’t vote in our favour. We will set that example.”
+
+“For a long time, we were governed by governments that were built upon families, relations and friends. However, under an NPP-led government, we will only give positions to those who are qualified for the job. We will not consider political connections or family relationships”, he added.
+
+...
+
+[Data](articles/daf0a571.json)
+
+---
+
+### Driver's licenses will not be canceled
 
 *2024-08-25 11:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிப்-பத்திரங்கள்-ரத்து-செய்யப்படாது/175-342739) · `ta`
 
-புதுப்பிக்கப்படாத அனைத்து சாரதி அனுமதிப் பத்திரங்களையும் இரத்து செய்ய முடிவு செய்யப்பட்டுள்ளதாக வெளியான செய்திகள் முற்றிலும் தவறானவை என்றும், அவ்வாறு எந்தவொரு முடிவும் எடுக்கப்படவில்லை என்றும் போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் பொறியியலாளர் ரஞ்சித் ரூபசிங்க தெரிவித்தார்.
+No driver's licenses canceled. New system for updating 2 million unrenewed licenses by end of year. 12.3 million issued since 1960s.
 
-இதுவரை புதுப்பிக்கப்படாத சுமார் 2 மில்லியன் சாரதி அனுமதிப் பத்திரங்கள் தொடர்பான தகவல்களை புதுப்பிப்பதற்காக புதிய முறையொன்று அறிமுகப்படுத்தப்படவுள்ளதாகவும், அதற்கான அனைத்துப் பணிகளும் இந்த ஆண்டு இறுதிக்குள் நிறைவு செய்யப்படும் எனவும் அவர் மேலும் தெரிவித்தார்.
+🟩
 
-கடந்த வெள்ளிக்கிழமை (23) ஜனாதிபதி ஊடக மையத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் பொறியியலாளர் ரஞ்சித் ரூபசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+Ranjith Rubasinghe, Secretary of the Ministry of Transport and Highways, said that the reports that the decision to cancel all the renewed driver's licenses was completely false and no decision was taken.
 
-1960 களில் இந்நாட்டின் முதல் சாரதி அனுமதிப் பத்திரம் வழங்கப்பட்டதிலிருந்து, சுமார் 12.3 மில்லியன் சாரதி அனுமதிப் பத்திரங்கள் வழங்கப்பட்டுள்ளதாகவும் ரஞ்சித் ரூபசிங்க இதன்போது குறிப்பிட்டார்.
+He added that a new system will be introduced to update about 2 million driver's licenses that have not yet been renewed and all the work will be completed by the end of this year.
+
+Secretary of the Ministry of Transport and Highways Ranjith Rupasinghe, who attended a media briefing held at the Presidential Media Center last Friday (23).
+
+Ranjith Rupasinghe said that since the country's first driver's license was issued in the 1960s, about 12.3 million driver's licenses were issued.
 
 ◼️
 
 [Data](articles/2223e64f.json)
+
+[Extended Data](ext_articles/2223e64f.ext.json)
 
 ---
 
@@ -86,21 +148,29 @@ Meanwhile, SLPP MP Thissa Kuttiarachchi, who spoke during the rally, mentioned t
 
 [Data](articles/4f56bfcd.json)
 
+[Extended Data](ext_articles/4f56bfcd.ext.json)
+
 ---
 
-### இஸ்ரேலில் அவசரநிலை பிரகடனம் - தென் லெபனான் மீது தாக்குதல்
+### Emergency Declaration in Israel - Attack on South Lebanon
 
 *2024-08-25 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/191911) · `ta`
 
-ஹெஸ்புல்லா அமைப்பு தாக்குதலை மேற்கொள்வதற்கு திட்டமிட்டிருந்தமை தெரியவந்துள்ளதை தொடர்ந்து லெபனானில் உள்ள ஹெஸ்புல்லா அமைப்பின் இலக்குகள் மீது முன்கூட்டிய தாக்குதலை மேற்கொண்டதாக இஸ்ரேல் தெரிவித்துள்ளது.
+Israel declares emergency after Hezbollah attack on Lebanon targets. Defense Minister Yo Galant announces 48-hour state of emergency.
 
-இஸ்ரேல் மீது தாக்குதலை மேற்கொள்வதற்கு ஹெஸ்புல்லா அமைப்பு தயாராக உள்ளதை நாங்கள் அவதானித்தோம் அதனால் எங்கள் பொதுமக்களிற்கு ஆபத்து ஏற்படும் நிலை காணப்பட்டது என தெரிவித்துள்ள இஸ்ரேல் தென் லெபனானில் உள்ள ஹெஸ்புல்லா இலக்குகள் மீது தனது விமானங்கள் தாக்குதல்களை மேற்கொள்கின்றன என குறிப்பிட்டுள்ளது.
+🟩
 
-இதேவேளை இஸ்ரேலில் அடுத்த 48 மணித்தியாலத்திற்கு அவசர நிலைமை பிரகடனம் செய்யப்பட்டுள்ளதாக அந்த நாட்டின் பாதுகாப்பு அமைச்சர் யோவ் கலன்ட் அறிவித்துள்ளார்.
+Israel has reported that the Hesbullah organization has launched an attack on the Hesbullah organization's targets in Lebanon following the fact that the Hesbullah organization was planning to launch an offensive.
+
+We have observed that the Hesbullah organization is ready to attack Israel and that its planes are carrying out attacks on the Hesbullah targets in South Lebanon.
+
+Meanwhile, the country's defense minister, Yo Galant, has announced that an emergency situation has been declared for the next 48 hours in Israel.
 
 ◼️
 
 [Data](articles/2bd2ed60.json)
+
+[Extended Data](ext_articles/2bd2ed60.ext.json)
 
 ---
 
@@ -130,19 +200,25 @@ Dissanayake said that people and traders want to pay taxes and they do not want 
 
 ---
 
-### இஸ்ரேல் மீதான பாரிய தாக்குதல் ஆரம்பம் - ஹெஸ்புல்லா
+### Massive attack on Israel - Hesbullah
 
 *2024-08-25 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191909) · `ta`
 
-இஸ்ரேல் மீது பாரிய தாக்குதலை ஆரம்பித்துள்ள தாக தெரிவித்துள்ள ஹெஸ்புல்லா அமைப்பு 350 ரொக்கட்களை இஸ்ரேலை நோக்கி செலுத்தியுள்ளதாக தெரிவித்துள்ளது.
+Hesbullah attacks Israel, claims payment. Targets 11 objectives.
 
-இஸ்ரேலின் 11 இலக்குகளை இலக்குவைத்துள்ளதாக தெரிவித்துள்ள ஹெஸ்புல்லா அமைப்பு பாரிய தாக்குதலை ஆரம்பித்துள்ளோம் ஆளில்லா விமானங்களையும் கட்டுசா ரொக்கட்களையும் பயன்படுத்துவதாகவும் தெரிவித்துள்ளது.
+🟩
 
-இது இஸ்ரேலின் தளங்கள் முகாம்களை இலக்குவைக்கும் தாக்குதல் என ஹெஸ்புல்லா அமைப்பு தெரிவித்துள்ளது.
+The Hesbullah organization, which has launched a massive attack on Israel, has said that it has paid 350 cash to Israel.
+
+The Hesbullah organization, which has targeted Israel's 11 goals, has launched a massive attack.
+
+The Hesbullah Organization said it was an attack on Israel's sites.
 
 ◼️
 
 [Data](articles/ad70b14a.json)
+
+[Extended Data](ext_articles/ad70b14a.ext.json)
 
 ---
 
@@ -440,6 +516,24 @@ Also, the Railway Department said that transportation will be blocked until the 
 
 ---
 
+### Sri Lanka loan demand up in second quarter
+
+*2024-08-25 09:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-loan-demand-up-in-second-quarter-177980/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s demand for loans from banks had continued to increase in the second quarter of 2024, backed by lower interest rates and exchange rate stability, a central bank survey showed.
+
+Loan demand had increased in retail, corporate and small and medium enterprise sector, while demand from state enterprises had reduced.
+
+“Reduced interest rates, economic growth, improvements in the business environment, relatively stable exchange rates and expansions in economic activities mainly attributed to the observed increase in demand,” the central bank said.
+
+“In 2024 Q3, the expected increase in demand will primarily be driven by anticipated further reductions in interest rates, policy consistency, expectations on continued growth in economy, stabilization of foreign exchange rates, and recovery in key economic sectors,” the statement said.
+
+...
+
+[Data](articles/0f65358f.json)
+
+---
+
 ### First Test to contest England
 
 *2024-08-25 08:47:06* · [`adalk`](https://www.ada.lk/sports/පළමු-ටෙස්ට්-තරගයේ-ජය-එංගලන්තයට/9-411536) · `si`
@@ -486,6 +580,24 @@ The Presidential Election is scheduled to be held on September 21.
 
 ---
 
+### මහජන ආධාර ගන්න ආපු පස්දරු පියා තැපැල් කාර්යාලය ඉදිරිපිටදි ජිවිතක්ෂයට
+
+*2024-08-25 08:30:47* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-ආධාර-ගන්න-ආපු-පස්දරු-පියා-තැපැල්-කාර්යාලය-ඉදිරිපිටදි-ජිවිතක්ෂයට/11-411535) · `si`
+
+තණමල්විල තැපැල් කාර්යාලයට ඉකුත් (22) වෙනිදා මහජන ආධාර මුදල් ලබාගැනීමට පැමිණි පස්දරු පියෙකු තැපැල් කාර්යාල ඉදිරිපිටදී මියගොස් ඇතැයි තණමල්විල පොලීසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ තණමල්විල ගාමිණීපුර පදිංචි ආර්.ඒ සිරිසේන (81) නැමති අයෙකි.
+
+හෙතෙම මහජන ආධාර (වැඩිහිටි දීමනා) ලබාගැනීමට තණමල්විල තැපැල් කාර්යාලයට එදින උදෑසන පැමිණ ඇති අතර එකවරම තැපැල් කාර්යාල ඉදිරිපිට වාඩිවී සිටියදී මියගොස් ඇත.
+
+මියගිය අයගේ මෘතදේහය හදිසි මරණ පරීක්ෂණයෙන් අනතුරුව ඥාතීන්ට භාරදුන් බව තණමල්විල වැඩබලන පොලිස් ස්ථානාධිපති නිශාන්ත ගමගේ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/15fcc068.json)
+
+---
+
 ### Postal workers' leave canceled
 
 *2024-08-25 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200295) · `si`
@@ -510,17 +622,27 @@ Deputy Post Master General Rajitha Ranasinghe added that if a person wants to ge
 
 ---
 
-### ක්ලබ් වසන්ත ඝාතනයේ ප්‍රධාන වෙඩික්කරු අල්ලයි
+### Club Wasantha murder was arrested
 
 *2024-08-25 08:23:34* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-ප්‍රධාන-වෙඩික්කරු-අල්ලයි/11-411534) · `si`
 
-පසුගිය මස අතුරුගිරිය ප්‍රදේශයේ ටැටූ ප්‍රදර්ශණාගාරයක් විවෘත කල දිනයේ එහිදී විවෘත   කිරීමට පැමිණ සිටි ක්ලබ් වසන්ත නැමැති අය ඇතුලු පිරිසක් ඝාතනය කර පලාගොස් සැගව සිටි ප්‍රධාන වෙඩික්කරු සහ ඔහුට උදව්කල හා නවාතැන් පහසුකම්  සලසන ලද පුද්ගලයා ඇතුලු තිදෙනකු ඉකුත් (23) දින රාත්‍රිය කව්ඩාන පල්ලියදොර නවාතැන් පලක සිටියදී කොළඹ අපරාධ කොට්‌ඨාසය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලීසිය පැවසීය .
+Club Wasantha murder suspects arrested in Athurugiriya. Ajith Rohana, 31, arrested along with two others. Suspects linked to monk Mohamed Imran. Police investigation ongoing.
 
-අත්අඩංගුවට පත් වෙඩික්කරු වයස (31) ක්ද වන අරඹගේ අජිත් රෝහන නමැත්තකු වන අතර, ඔහුට ඝාතනයෙන් පසු කතරගම ප්‍රාදේශයට පලායාමට බස්රථ ලබාදී උපකාර කල (29) හැවිරිදි වන වරුණ ඉන්දික සිල්වා යන අය සහ මොවුන්ට මෙම නිවසේ නවාතැන් පහසුකම් සැපයූ  ඉක්බාල් මොහමඩ් ඉම්රාන් යන කවුඩාන පෙරේරා පෙදෙස කුලී පදනමට සිටින අයෙකුද වන බවට හදුනාගන ඇතැයිද හෙලිවී ඇත .
+🟩
+
+Three persons who were signing and the man who had come to the opening of a Tatubagiriya showroom in Athurgiriya area were opened to the date of opening of a Tatubagiriya showroom in the Athurugiriya area.The Criminal Division has been arrested by the police.
+
+Ajith Rohana, who was arrested (31), was a man of the age of 31, and after the assassination, I කෙවේ monk Mohamed Imran Silra Place the area after his assassination.It is revealed that they are also a rented.
+
+The shooter and the supporter person has come across Imran on the 20th. Imran has given this house as a business location of the Mannar area about three months ago, about three months ago. The house was empty with the business, stopping the business. Accordingly, the two killers have been provided with temporary accommodation and 20. ODIs have arrived.
+
+The police said that the police said that the Criminal Division has been arrested by the Criminal Division.
 
 ...
 
 [Data](articles/2679e7ad.json)
+
+[Extended Data](ext_articles/2679e7ad.ext.json)
 
 ---
 
@@ -1021,6 +1143,8 @@ However, now that the Presidential Election campaigns are heating up, talks of t
 ...
 
 [Data](articles/5e57e2b0.json)
+
+[Extended Data](ext_articles/5e57e2b0.ext.json)
 
 ---
 
@@ -2119,113 +2243,5 @@ The meeting will be held at the party headquarters in Pitakotte at the party hea
 [Data](articles/7eb2f9cd.json)
 
 [Extended Data](ext_articles/7eb2f9cd.ext.json)
-
----
-
-### Sri Lanka goods exports up 6.58-pct in July, services up 16.44-pct
-
-*2024-08-24 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-goods-exports-up-6-58-pct-in-july-services-up-16-44-pct-177915/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s merchandise exports rose 6.58 percent from a year ago to 1,087.6 million US dollars in July, with apparel exports up 3.8 percent, with a pick up in exports to the US, official data showed.
-
-In January to July good exports went up 4.94 percent to 7,231.94 million dollars compared to the same period in 2023, the Export Development Board said.
-
-Services exports for July 2024 were up 16.44 percent to 293.26 million, over the corresponding period of 2023.
-
-Total exports for July 2024, including both merchandise and services, were 1,380.84 million dollars, increasing 8.53 percent over the same period of 2023.
-
-Export earnings from tea, which made up 12 percent of merchandise exports, increased by 8.25 percent y-o-y to 124.7 million dollars in July 2024 compared to July 2023.
-
-...
-
-[Data](articles/0bc3afd1.json)
-
-[Extended Data](ext_articles/0bc3afd1.ext.json)
-
----
-
-### The main warning to the public
-
-*2024-08-24 11:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-முக்கிய-எச்சரிக்கை/175-342704) · `ta`
-
-Warning: Fake tax collectors impersonating officials in Colombo, Panadura, Negombo, Wennappuwa & Minuwangoda. Report incidents to police. Pay taxes only through bank accounts named after Commissioner of Internal Revenue.
-
-🟩
-
-The Department of Home Affairs has issued a warning to the public following reports that some individuals identify themselves as officers and illegally collect money in businesses.
-
-The Department of Internal Affairs said that these incidents have been reported in areas including Colombo, Panadura, Negombo, Wennappuwa and Minuwangoda.
-
-It has made it clear that the taxpayer should be made only through deposits in bank accounts named after the Commissioner of Internal Revenue.
-
-It has been reported that no money or checks are being charged directly by their authorities and not handing over the money to those who come to the authorities.
-
-In addition, the public has been advised to inform the police if such incidents occur.R
-
-◼️
-
-[Data](articles/92ca047e.json)
-
-[Extended Data](ext_articles/92ca047e.ext.json)
-
----
-
-### ‘Mitra Shakti’ exercise has strengthened India-Sri Lanka counter-terrorism partnership: Indian Army
-
-*2024-08-24 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101462/mitra-shakti-exercise-has-strengthened-india-sri-lanka-counter-terrorism-partnership-indian-army) · `en`
-
-The Indian Army on Friday said that the Joint Military Exercise ‘Mitra Shakti’ has helped both Indian and Sri Lankan forces to strengthen their strategic partnership in counter-terrorism efforts by providing a platform for sharing best practices and refining tactical approaches.
-
-“The Indian Army and the Sri Lanka Army have demonstrated unparalleled expertise in successful counter-terrorism operations, a testament to their extensive experience and proficiency in managing complex security challenges. Through their participation in the Joint Exercise Mitra Shakti, both armies have leveraged their respective knowledge and strategies to enhance mutual understanding and operational effectiveness,” Indian Army said in a statement.
-
-...
-
-[Data](articles/325fd5c3.json)
-
-[Extended Data](ext_articles/325fd5c3.ext.json)
-
----
-
-### Niroshan Dickwella acknowledged the use of cocaine
-
-*2024-08-24 10:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்கைன்-பயன்படுத்தியதை-ஒப்புக்-கொண்டார்-நிரோஷன்-டிக்வெல்ல/175-342703) · `ta`
-
-Niroshan Dickwella admits cocaine use during Sri Lanka Premier League Cricket Series. Sentence pending.
-
-🟩
-
-Sri Lankan cricketer Niroshan Dickwella has admitted the use of cocaine drugs.
-
-It is reported that he has admitted during these investigations that he used the cocaine drug.
-
-In this case, the sentence against him will be announced in the coming years.
-
-It is noteworthy that Niroshan Dickwella was used to use the drug during the Sri Lanka Premier League Cricket Series during this time of the Sri Lanka Premier League Cricket Series.. Remble
-
-◼️
-
-[Data](articles/13292c36.json)
-
-[Extended Data](ext_articles/13292c36.ext.json)
-
----
-
-### Secretary General of Parliament informs the election commission
-
-*2024-08-24 10:50:21* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-මන්ත්‍රී-ධුරයක-පුරප්පාඩුවක්---මහලේකම්වරිය-මැතිවරණ-කොමිසම-දැනුවත්-කරයි/11-411527) · `si`
-
-Parliament Secretary General informed election commission about resignation of parliamentary member due to Section 64(1) of Parliament Election Act No. 1 of 1981 for August 2024 selection process.
-
-🟩
-
-The Secretary General of Parliament Kushani Rohanaya has been informed by the Secretary General of Parliament, a member of the Elections for the Selection of Parliament as a result of the resignation of the Parliamentary Senera from August 2024.
-
-This was made in terms of Section 64 (1) of the Parliament Election Act, No. 1 of 1981.
-
-◼️
-
-[Data](articles/3d8c4a5a.json)
-
-[Extended Data](ext_articles/3d8c4a5a.ext.json)
 
 ---

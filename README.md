@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 08:55:48**
+As of **2024-08-25 09:07:30**
 
 ## Newspaper Stats
 
-*Scraped **42,441** Articles*
+*Scraped **42,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ colombotelegraphcom | 405
 islandlk | 2,473
 economynextcom | 2,570
 dailyftlk | 2,758
-adalk | 3,906
+adalk | 3,907
 dailymirrorlk | 4,733
-adaderanalk | 4,979
-tamilmirrorlk | 5,512
+adaderanalk | 4,980
+tamilmirrorlk | 5,513
 virakesarilk | 6,737
-adaderanasinhalalk | 7,259
+adaderanasinhalalk | 7,260
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,438 (100.0%) of 42,441 articles have been extended.
+42,441 (100.0%) of 42,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### Postal workers’ leave cancelled until Presidential Election ends
+
+*2024-08-25 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101476/postal-workers-leave-cancelled-until-presidential-election-ends) · `en`
+
+Deputy Postmaster General Rajitha Ranasinghe has announced that all leave of Postal Department employees has been canceled with immediate effect until the conclusion of the 2024 Presidential Election.
+
+The decision was made to ensure that all election-related responsibilities are adequately managed, he said.
+
+Any postal worker requiring leave for essential reasons would have to obtain permission from the Deputy Postmaster General in charge of their province, he added.
+
+◼️
+
+[Data](articles/dc665f59.json)
+
+---
+
+### තැපැල් සේවකයින්ගේ නිවාඩු අවලංගු කෙරේ
+
+*2024-08-25 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200295) · `si`
+
+වහාම ක්‍රියාත්මක වන පරිදි සියලුම තැපැල් සේවකයින්ගේ නිවාඩු අවලංගු කර තිබේ.
+
+නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා පැවසුවේ ජනාධිපතිවරණය පැවැත්වෙන දිනය තෙක් තැපැල් සේවකයින්ගේ නිවාඩු මෙලෙස අවලංගු කර ඇති බවය.
+
+ජනාධිපතිවරණයට අදාළ කටයුතු මූලික කර ගනිමින් ඔවුන්ගේ නිවාඩු අවලංගු කිරීමට තීරණය කළ බව රාජිත රණසිංහ මහතා පැවසීය.
+
+කිසියම් අයෙකුට අත්‍යාවශ්‍ය හේතුවක් මත නිවාඩු ලබැගැනීමට අවශ්‍ය වුවහොත් පළාත් භාර නියෝජ්‍ය තැපැල්පතිගේ අවසරය ලබා ගැනීමට සිදුවන බව ද නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/29546656.json)
+
+---
 
 ### Woman murder
 
@@ -58,6 +92,26 @@ Two brothers and brothers have been arrested by the police, who were in the aged
 
 ---
 
+### ’பொருளாதாரத்தைக் கட்டியெழுப்ப 3 வருடங்கள் தேவை’
+
+*2024-08-25 08:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தைக்-கட்டியெழுப்ப-3-வருடங்கள்-தேவை/175-342728) · `ta`
+
+நாட்டின் பொருளாதாரத்தைக் கட்டியெழுப்புவதற்கு இன்னும் 3 வருடங்கள் தேவைப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+தம்புள்ளை பகுதியில் நேற்று இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இதனைக் குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஜே.வி.பியினர் ஆட்சிக்கு வந்தால் சர்வதேச நாணய நிதியத்துடனான ஒப்பந்தம் மற்றும் வரிகளை இல்லாமல் செய்வதாகக் கூறுகின்றனர்.
+
+எனக்கும் வரிகளை இல்லாமல் செய்வதற்கு விருப்பம் உள்ளது. எனினும் அவ்வாறு செய்தால் நாம் 2022 ஆம் ஆண்டின் ஜூன் மாதத்துக்கே மீண்டும் சென்றுவிடுவோம்.
+
+எனவே வேறு எவரிடமும் நாட்டை கையளிக்க வேண்டாம், அவ்வாறு செய்வதால் நாடு மீண்டும் நெருக்கடிக்கு உள்ளாகும்.  நாம் இருப்பதைப் பாதுகாத்து இன்னும் 3 வருடங்களில் அனைத்து பிரச்சினைகளுக்கும் தீர்வுகண்டு முன்னோக்கிச் செல்ல முடியும் என்றார். (a)
+
+◼️
+
+[Data](articles/759a795c.json)
+
+---
+
 ### Fuel train derails at Maradana railway station
 
 *2024-08-25 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101475/fuel-train-derails-at-maradana-railway-station) · `en`
@@ -74,31 +128,43 @@ The derailment has reportedly caused damages to the railway platform at the stat
 
 ---
 
-### ’மீனவர்களை விடுவிக்க நடவடிக்கை வேண்டும்’
+### Steps need to be released to release fishermen
 
 *2024-08-25 08:00:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களை-விடுவிக்க-நடவடிக்கை-வேண்டும்/175-342727) · `ta`
 
-இலங்கை கடல் எல்லைக்குள் அத்துமீறிய குற்றச்சாட்டில் கைதான தமிழகத்தைச் சேர்ந்த 11 இந்திய மீனவர்களை விடுவிக்க உடனடி நடவடிக்கை எடுக்குமாறு தமிழக முதல்வர் மு.க.ஸ்டாலின் இந்திய மத்திய அரசாங்கத்திடம் கோரியுள்ளார்.
+Tamil Nadu CM MK Stalin urges India to free 11 fishermen detained by Sri Lanka.
 
-இது தொடர்பான கோரிக்கை அடங்கிய கடிதத்தை இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கருக்கு, தமிழக முதல்வர் மு.க.ஸ்டாலின் அனுப்பியுள்ளார் என இந்திய ஊடகங்கள் தெரிவிக்கின்றன.  (a)
+🟩
+
+Tamil Nadu Chief Minister MK Stalin has called on the Indian central government to take immediate steps to release 11 Indian fishermen from Tamil Nadu on charges of violating the Sri Lankan waters.
+
+Indian Foreign Minister S.. Indian media reports that Tamil Nadu Chief Minister MK Stalin has sent Jaishankar.(a)
 
 ◼️
 
 [Data](articles/4f6bb0d3.json)
 
+[Extended Data](ext_articles/4f6bb0d3.ext.json)
+
 ---
 
-### 35,727 டெங்கு நோயாளர்கள் பதிவு
+### 35,727 dengue patients registered
 
 *2024-08-25 07:40:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-727-டெங்கு-நோயாளர்கள்-பதிவு/175-342726) · `ta`
 
-நாட்டில் நிலவும் மழையுடனான காலநிலை காரணமாக டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரித்து வருவதாகத் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+Dengue cases surge: 35,727 patients registered, 17 deaths reported. Rainy season blamed for increase.
 
-இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 17 பேர் டெங்கு நோயினால் பலியாகியுள்ளதாகத் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது. (a)
+🟩
+
+The National Dengue Control Unit said the number of dengue patients is increasing due to the prevailing rainy weather in the country.
+
+According to the National Dengue Control Division, 17 people have died of dengue during this year.. (A)
 
 ◼️
 
 [Data](articles/4b88c144.json)
+
+[Extended Data](ext_articles/4b88c144.ext.json)
 
 ---
 
@@ -669,6 +735,26 @@ Lanka Private Bus Owners Association, Inter-Provincial Bus Owners Association, O
 [Data](articles/fc94c4cd.json)
 
 [Extended Data](ext_articles/fc94c4cd.ext.json)
+
+---
+
+### යාවත්කාලීන නොකළ රියදුරු බලපත්‍ර අවලංගු කිරීමට තීරණයක් ගෙන නැහැ
+
+*2024-08-24 20:03:34* · [`adalk`](https://www.ada.lk/breaking_news/යාවත්කාලීන-නොකළ-රියදුරු-බලපත්‍ර-අවලංගු-කිරීමට-තීරණයක්-ගෙන-නැහැ/11-411531) · `si`
+
+යාවත්කාලීන නොකළ මිලියන 2කට ආසන්න රියදුරු බලපත්‍ර හිමියන්ගේ තොරතුරු යාවත්කාලීන කිරීමට නව ක්‍රමවේදයක් හඳුන්වා දෙනවා.
+
+2025 වසරේ පළමු මාස හය තුළ ඊ- රියදුරු බලපත්‍රය හඳුන්වා දෙනවා- ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් ඉංජිනේරු රංජිත් රූබසිංහ.
+
+යාවත්කාලීන නොකළ සියලු රියදුරු බලපත්‍ර අවලංගු කිරීමට තීරණය කළ බවට පළවන ප්‍රචාර මුළුමණින්ම අසත්‍යය බවත් එවැනි කිසිදු තීරණයක් ගෙන නොමැති බවත් ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් ඉංජිනේරු රංජිත් රූබසිංහ මහතා අවධාරණය කර සිටියි.
+
+මෙතෙක් යාවත්කාලීන නොවූ මිලියන 2කට ආසන්න රියදුරු බලපත්‍ර හිමියන්ගේ තොරතුරු යාවත්කාලීන කිරීම සඳහා නව ක්‍රමවේදයක් හදුන්වා දෙන අතර එම සියලු කටයුතු මෙම වසර අවසන් වීමට පෙර සිදු කිරීමට කටයුතු කරන බවද ඒ මහතා සඳහන් කළේය.
+
+ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් ඉංජිනේරු රංජිත් රූබසිංහ මහතා මෙම අදහස් පළ කළේ, ’ස්ථාවර රටකට – සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේදී අද (23) පැවැති මාධ්‍ය සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/425af80e.json)
 
 ---
 
@@ -2137,73 +2223,5 @@ The Department of Meteorology said in a statement that it would occur from time 
 [Data](articles/2e333e76.json)
 
 [Extended Data](ext_articles/2e333e76.ext.json)
-
----
-
-### Serendib Flour Mills’ ‘Uththama Dalada’ project continues nourishing hearts of elders
-
-*2024-08-24 01:27:00* · [`islandlk`](http://island.lk/serendib-flour-mills-uththama-dalada-project-continues-nourishing-hearts-of-elders/) · `en`
-
-Serendib Flour Mills, staying true to its commitment of ‘Nourishing the Nation’, is proud to announce the continuation of the ‘Uththama Dalada’ project for the third consecutive year, bringing joy to the elderly.
-
-This year, the initiative will host over 100 elders from four selected homes: two in Kegalle and two in Katugasthota (Kandy). These special guests will embark on an unforgettable journey to visit the Dalada Maligawa, where they will have the opportunity to pay homage and seek blessings.
-
-As with previous events, the elders will once again witness the splendour of the Esala Perahera from a purpose-built enclosure. They will enjoy comfortable front-row seating arrangements, complete with food and refreshments, enhancing their experience of this magnificent cultural spectacle. Serendib Mills will also provide transportation for the elders with a doctor and a medical team on standby to ensure their safety and well-being.
-
-...
-
-[Data](articles/7b087e48.json)
-
-[Extended Data](ext_articles/7b087e48.ext.json)
-
----
-
-### Global tea convention positions tea as a versatile lifestyle choice
-
-*2024-08-24 01:27:00* · [`islandlk`](http://island.lk/global-tea-convention-positions-tea-as-a-versatile-lifestyle-choice/) · `en`
-
-The Colombo International Tea Convention recently brought together a global audience in Colombo to explore the future of the tea industry. A primary focus of the forum was the need to position tea as a versatile lifestyle choice.
-
-Dr. Sharon Hall, Chief Executive of the UK Tea & Infusions Association (UKTIA), provided exclusive insights into the event’s success, the challenges facing the industry, and the emerging trends that are shaping the future of tea.
-
-The convention proved to be a resounding success, with participants from across the globe converging to discuss the future of tea, which the world body on the subject stressed.
-
-Dr. Hall, speaking exclusively to The Island Financial Review highlighted the event’s theme, ‘Tea, A Lifestyle & A Livelihood,’ as central to its success. This theme emphasized the need to position tea as a versatile lifestyle choice and to enhance its value proposition among tea drinkers.
-
-...
-
-[Data](articles/bd7a0a5a.json)
-
-[Extended Data](ext_articles/bd7a0a5a.ext.json)
-
----
-
-### World’s first plantations company chairman to receive ‘Climate Neutral Citizen’ certification
-
-*2024-08-24 01:26:00* · [`islandlk`](http://island.lk/worlds-first-plantations-company-chairman-to-receive-climate-neutral-citizen-certification/) · `en`
-
-The universally acclaimed ‘Control Union,’ with its branch overlooking activities in Sri Lanka and Myanmar has bestowed the rare honour of the ‘Climate Neutral Citizen’ certification on Dr. Pradeep Uluwaduge, Chairman of Browns Plantations, coming under the purview of the LOLC group of companies. His contributions to environmental preservation, ecological sustainability and catalysing activity to minimise the adverse effects on the Ozone layer, have stimulated enthusiasm with successful implementation of such programmes with tangible benefits being harnessed.
-
-His efforts in this regard have been duly recognised by the certification body – ‘Control Union Inspection’ in selecting him as the first Chairman of plantation companies to receive the individual ‘Climate Neutral Citizen’ award and certificate.
-
-...
-
-[Data](articles/099a1582.json)
-
-[Extended Data](ext_articles/099a1582.ext.json)
-
----
-
-### Granting of salary hikes for public servants has destabilizing impact on bourse
-
-*2024-08-24 01:22:00* · [`islandlk`](http://island.lk/granting-of-salary-hikes-for-public-servants-has-destabilizing-impact-on-bourse/) · `en`
-
-The stock market yesterday started off in a rather volatile manner due to certain government decisions, such as the granting of salary increases for government servants, thus, creating some worries for investors.Amid those developments both indices moved downwards. The All Share Price Index went down by 101.97 points, while S and P SL20 declined by 36.61 points.
-
-...
-
-[Data](articles/10eca89b.json)
-
-[Extended Data](ext_articles/10eca89b.ext.json)
 
 ---

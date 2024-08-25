@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 22:21:38**
+As of **2024-08-25 22:36:44**
 
 ## Newspaper Stats
 
-*Scraped **42,553** Articles*
+*Scraped **42,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 406
 islandlk | 2,473
 economynextcom | 2,571
 dailyftlk | 2,758
-adalk | 3,923
+adalk | 3,924
 dailymirrorlk | 4,733
 adaderanalk | 4,996
 tamilmirrorlk | 5,535
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,285
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,552 (100.0%) of 42,553 articles have been extended.
+42,553 (100.0%) of 42,554 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The Energy Minister, who highlighted that Dissanayake had said the debt has been
 ...
 
 [Data](articles/5e3ff8a4.json)
+
+[Extended Data](ext_articles/5e3ff8a4.ext.json)
 
 ---
 
@@ -217,6 +219,22 @@ President Ranil Wickremesinghe's political life expectancy will end on the 21st 
 [Data](articles/b661bd3f.json)
 
 [Extended Data](ext_articles/b661bd3f.ext.json)
+
+---
+
+### සජිත්ට හා අනුරට ජනපතිගෙන් විවෘත අභියෝගයක්
+
+*2024-08-25 19:34:53* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ට-හා-අනුරට-ජනපතිගෙන්-විවෘත-අභියෝගයක්/11-411550) · `si`
+
+තවදුරටත් ජනතාවට බොරු නොකර ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ මාර්ගගත ක්‍රමවේදය ඔස්සේ විවෘත සාකච්ඡාවකට පැමිණෙන ලෙස තමා සජිත් ප්‍රේමදාස මහතා සහ අනුර කුමාර දිසානායක මහතා වෙත අභියෝග කරන බවත්, එවිට ඔවුන් අද වේදිකාවල පවසන දේ සත්‍ය අසත්‍යතාව සමස්ත රටේම ජනතාවට දැකබලා ගැනීමට හැකිවන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ ඇතිකරගෙන තිබෙන ගිවිසුම වෙනස් කිරීමට කිසිදු හැකියාවක් නොමැති බව පෙන්වා දුන් ජනාධිපතිවරයා එසේ වුවහොත් රටේ  ආර්ථිකය නැවත කඩා වැටෙන බවත් බඩු මිල අඩු කරන බවට සහ බදු අඩුකරන බවට සිය ප්‍රතිපත්ති ප්‍රකාශයන් මඟින් ජනතාව රවටමින් සජිත් ප්‍රේමදාස සහ අනුර කුමාර දිසානායක රටට කිරීමට යන විනාශය වහා නතර කළ යුතු බවත් අවධාරණය කළේය.
+
+බඩු මිල අඩු කිරීමට සහ බදු අඩු කිරීමට තමාද කැමති නමුත් ඒ සඳහා හැකියාව ඇත්තේ රුපියල ශක්තිමත් කරමින් ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ ඇතිකරගත් එකඟතාවලට අනුව කටයුතු කිරීමෙන් පමණක් බව පෙන්වා දුන් ජනාධිපතිවරයා ඒ හැර වෙනත් විකල්පයක් තිබේනම් එය වහාම ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ පැවැත්වෙන
+
+...
+
+[Data](articles/171c5294.json)
 
 ---
 
@@ -2279,31 +2297,5 @@ Loan demand had increased in retail, corporate and small and medium enterprise s
 [Data](articles/0f65358f.json)
 
 [Extended Data](ext_articles/0f65358f.ext.json)
-
----
-
-### First Test to contest England
-
-*2024-08-25 08:47:06* · [`adalk`](https://www.ada.lk/sports/පළමු-ටෙස්ට්-තරගයේ-ජය-එංගලන්තයට/9-411536) · `si`
-
-England wins first Test vs Sri Lanka by 5 wickets. England scores 358/9d, Sri Lanka 236 & 326/10. Kumindu Mendis tops scoring with 113. Head named Man of the Match.
-
-🟩
-
-The Host England won the first Test match between the two countries by defeating the two wickets in 5 wickets.
-
-England passed away with the loss of 205 runs in the Sri Lankan team.
-
-Sri Lanka scored 236 runs in the match and the reply was scored 358 runs in the reply. Sri Lanka scored 326 runs in their second innings, following 132 runs.
-
-Kumindu Mendis, a great innings, scored 113 runs for Sri Lanka in this innings. Accordingly, Kamin has recorded three centuries in the four Test matches that have been played up to date.
-
-Head, England won a target of 205 for the competition. England Jami Smind has been adjudged the man of the match.
-
-◼️
-
-[Data](articles/e0a626aa.json)
-
-[Extended Data](ext_articles/e0a626aa.ext.json)
 
 ---

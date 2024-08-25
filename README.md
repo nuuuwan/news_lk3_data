@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 04:08:02**
+As of **2024-08-26 04:21:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,571 (100.0%) of 42,573 articles have been extended.
+42,573 (100.0%) of 42,573 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The Summit will produce a ‘Pact for the Future’, an inter-governmentally neg
 
 [Data](articles/884328d6.json)
 
+[Extended Data](ext_articles/884328d6.ext.json)
+
 ---
 
 ### Bilateral exercise Mitra Shakti-X between India and Sri Lanka concludes
@@ -63,6 +65,8 @@ The exercise helps in building proficiency in tackling transnational terrorism, 
 ...
 
 [Data](articles/91fd2f1d.json)
+
+[Extended Data](ext_articles/91fd2f1d.ext.json)
 
 ---
 

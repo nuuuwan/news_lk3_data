@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 16:36:54**
+As of **2024-08-25 16:54:52**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 7,276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,510 (100.0%) of 42,512 articles have been extended.
+42,512 (100.0%) of 42,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත්ගේ අනුරාධපුර ජන රැලිය සජීවීව මෙතැනින්
+### SAVES Entrepreneurship Entrepreneurship Dilith Raw Rally Live
 
 *2024-08-25 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200313) · `si`
 
-සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ අනුරාධපුර ජන රැලිය මේ වනවිට ආරම්භ කර තිබේ.
+Dilith Jayaweera launches entrepreneurship rally for aspiring global candidates.
+
+🟩
+
+The rally rally was commenced by Dilith Jayaweera, the universal candidate entrepreneurs.
 
 ◼️
 
 [Data](articles/e18e422a.json)
+
+[Extended Data](ext_articles/e18e422a.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ Meanwhile, he said that accordingly, all information regarding the taxes will be
 ◼️
 
 [Data](articles/f381b283.json)
+
+[Extended Data](ext_articles/f381b283.ext.json)
 
 ---
 

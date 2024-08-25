@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 12:09:39**
+As of **2024-08-25 12:21:39**
 
 ## Newspaper Stats
 
-*Scraped **42,478** Articles*
+*Scraped **42,480** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 357
+dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 392
 colombotelegraphcom | 405
@@ -20,51 +20,77 @@ dailymirrorlk | 4,733
 adaderanalk | 4,985
 tamilmirrorlk | 5,523
 virakesarilk | 6,742
-adaderanasinhalalk | 7,265
+adaderanasinhalalk | 7,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,476 (100.0%) of 42,478 articles have been extended.
+42,478 (100.0%) of 42,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### அனுராதபுரத்தில் மின்சாரம் தாக்கி மாணவன் உயிரிழப்பு
+### ඊශ්‍රායලය හදිසි තත්ත්වයක් ප්‍රකාශයට පත් කරයි
+
+*2024-08-25 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200301) · `si`
+
+ඊශ්‍රායලය පැය 48 ක රටපුරා හදිසි තත්වයක් ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ ලෙබනනය පදනම් කරගනිමින් හිස්බුල්ලා සංවිධානය ඊශ්‍රායලයට මහා පරිමාණ ප්‍රහාරයක් ප්‍රකාශ කර ඇති බැවිණි.
+
+◼️
+
+[Data](articles/13c5d150.json)
+
+---
+
+### A student killed in electricity in Anuradhapura
 
 *2024-08-25 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/191913) · `ta`
 
-உயிரிழந்த மாணவர் கலென்பிந்துனுவெவ பகுதியைச் சேர்ந்த 15 வயதுடையவர் எனவும் அப்பகுதியில் அமைந்துள்ள பாடசாலையொன்றில் கல்வி கற்பவர் என்றும் கூறப்படுகிறது.
+Student electrocuted while taking bath in Anuradhapura, 15-year-old educator from Kilepindunuwewa.
 
-தனது வீட்டின் பின்புறம் உள்ள குளியல் அறையில் குளித்துக்கொண்டிருந்தபோது, தண்ணீர் எடுப்பதற்காக மின் மோட்டார் இயக்கப்பட்டுள்ளது.
+🟩
 
-மின் மோட்டாரில் பொருத்தப்பட்டிருந்த கம்பியில் அவரது ஆடைகள்  வைக்கப்பட்டிருந்த நிலையில், குளித்துவிட்டு ஆடைகளை எடுக்க முற்பட்டபோது மின்கம்பி அறுந்து உடலில் சுற்றியதில் மின்சாரம் தாக்கி மாணவர் உயிரிழந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+The deceased student is said to be a 15 -year -old from Kilepindunuwewa and is an educator in a school located in the area.
+
+While bathing in the bathroom at the back of his house, the electric motor is operated for water.
+
+The student was killed when his clothes were placed on a wire mounted on an electric motor, the student was killed when he was struck by a wiring when she tried to take a bath and take a clothes.
 
 ◼️
 
 [Data](articles/f1f72dd9.json)
 
+[Extended Data](ext_articles/f1f72dd9.ext.json)
+
 ---
 
-### ජර්මනියේදී සිදුකළ ප්‍රහාරය ISIS භාරගනී
+### ISIS accepts the attack in Germany
 
 *2024-08-25 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200300) · `si`
 
-ජර්මනියේ සෝලින්ගන් නගරයේ සැමරුමක් අතරතුර සිදුවූ පිහිඇනුමේ වගකීම ISIS සංවිධානය භාරගෙන තිබේ.
+ISIS claims responsibility for Germany attack targeting Christians. Two arrested, three killed, four injured.
 
-ISIS සංවිධානයේ අමාක් ප්‍රවෘත්ති වෙබ් අඩවියේ නිවේදනයක් පළ කරමින් ඔවුන් පවසා ඇත්තේ පලස්තීනය ඇතුළු ලොව පුරා පීඩාවට පත්වී සිටින මුස්ලිම් ප්‍රජාව වෙනුවෙන් පළිගැනීමේ අරමුණින් කිතුණුවන් ඉලක්ක කළ ප්‍රහාරකයා IS සංවිධානයේ සෙබළෙකු වන බවය.
+🟩
 
-පිහිඇනුමට සම්බන්ධ 15 හැවිරිදි තරුණයෙකු ද ඇතුළුව දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර තවත් පුද්ගලයෙකු පිහිඇනුම සිදුකළේ තමන් බව පවසමින් පොලීසියට භාරවී ඇතැයි සඳහන්ය.
+The ISIS organization has been responsible for the kwedry of the Sonlingan City of Germany.
 
-ඊයේ (24) මෙම ප්‍රහාරයෙන් පුද්ගලයින් තිදෙනෙකු මිය ගොස් තවත් සිව් දෙනෙකු බරපතල තුවාල ලැබීය.
+They have announced an announcement on the ISIS at the News Website and the attacker targeting Christians to take revenge on the Muslim community, including Palestine, is a soldier soldier.
 
-එහිදී අපරාධකරු විසින් එහි සංගීත සංදර්ශනයක් පැවැත්වෙන ස්ථානයක සිටි පුද්ගලයින්ට මෙම ප්‍රහාර එල්ල කිරීමෙන් අනතුරුව පලාගොස් තිබුණි.
+Two persons have been arrested, including a 15-year-old youth about the knives and has surrendered to the police saying he was a man.
+
+Three people died yesterday and four were seriously injured.
+
+The criminal had fled the attack on the people who were in a musical show site.
 
 ◼️
 
 [Data](articles/07076909.json)
+
+[Extended Data](ext_articles/07076909.ext.json)
 
 ---
 
@@ -1134,6 +1160,36 @@ Sri Lankans will be voting in September, and they will be voting for the first t
 
 ---
 
+### 2024 Presidential Election Divides Muslim  Political Parties  with Leaders Backing Sajith and Some MPs Supporting Ranil.
+
+*2024-08-25 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84580) · `en`
+
+Nominations have closed for the long awaited 2024 presidential election. 39 candidates are in the fray.It is widely acknowledged  by the press and public that the chief presidential  contenders  are  incumbent president Ranil Wickremesinghe,leader of the opposition  Sajith Premadasa and JVP/NPP leader Anura Kumara  Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith  Jayaweera.
+
+However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier  numerical minorities  assumes crucial importance.
+
+...
+
+[Data](articles/bd766ef7.json)
+
+[Extended Data](ext_articles/bd766ef7.ext.json)
+
+---
+
+### Supreme Court ruling that President Ranil Wickremesinghe’s defiant action in postponing Local Government polls in 2023  had violated the fundamental right to equality and the right to vote of citizens,should come as no surprise
+
+*2024-08-25 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84595) · `en`
+
+Sri Lanka’s Supreme Court ruling this week that President Ranil Wickremesinghe’s defiant action in postponing Local Government polls in 2023, citing a purported lack of funds in the wake of the country’s bankruptcy, had violated the fundamental right to equality and the right to vote of citizens, raises several interesting issues.
+
+In fact, this decision should come as no surprise.  There was little choice but to hold as the Bench did, relying on several precedents which have firmly established the predominant principle that, exercising the right of franchise is an inviolable right of citizens, it is a collective as well as an individual right. The Court found the President (also as Minister of Finance) responsible along with the luckless Elections Commission.
+
+...
+
+[Data](articles/c92aaf9e.json)
+
+---
+
 ### Virgins and Bullies in Rural Sri Lanka
 
 *2024-08-25 00:52:00* · [`islandlk`](http://island.lk/virgins-and-bullies-in-rural-sri-lanka/) · `en`
@@ -2183,81 +2239,5 @@ The second school term ended on Friday last Friday, and the third term from Mond
 [Data](articles/cce60af2.json)
 
 [Extended Data](ext_articles/cce60af2.ext.json)
-
----
-
-### Shaikhr Dhawan retires from cricket
-
-*2024-08-24 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200269) · `si`
-
-Shikhar Dhawan retires from cricket after 17 years, scoring 6,793 runs in Tests, 1,759 in T20s, and 2,315 in IPL.
-
-🟩
-
-The opener Xikar Dhawan announced the retirement of the Indian Cricket Team today (24).
-
-The 38-year-old Duaan, a 38-year-old batsman, is now 38 years old, is an outstanding batsman of Test, ODIs and T20s.. It contains 24 centuries and 55 half centuries.
-
-Sudaham, who was presented to Australia in 2010, Dhavan, who had left her retirement, had scored 6,793 runs in 164 Irram. There are 17 centuries and 39 half centuries.
-
-And the year 2011, BC.. He entered the International T20 and the West Indies, he was scored with 1,759 with 11 half centuries.
-
-The most respected model of cricket, Duvan, a prominent model of Test cricket, played his wedding Test against Australia in 2013.
-
-The 277th player who won the Test for India, Duaan scored 187 runs in the match.
-
-Accordingly, he was the 13th player of the Wedding Test for India and the 97th player in the world.
-
-Dhavan, claimed by retirement and five half centuries, was assembled with 2,315 runs.
-
-...
-
-[Data](articles/cec204dd.json)
-
-[Extended Data](ext_articles/cec204dd.ext.json)
-
----
-
-### Fourteen dead after Indian bus falls into river in Nepal
-
-*2024-08-24 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101465/fourteen-dead-after-indian-bus-falls-into-river-in-nepal) · `en`
-
-At least 14 people have died after a bus carrying passengers from India fell into a river in Nepal, officials have said.
-
-There were around 40 people on the bus, which was travelling to Nepal’s capital Kathmandu from Pokhara, according to reports.
-
-Rescue operations are underway at the accident site on the bank of the Marsyangdi river in Tanahun district.
-
-The cause of the accident and the identities of the victims have not been confirmed yet.
-
-“The bus bearing number plate UP FT 7623 plunged into the river and is lying on the bank of the river,” news agency ANI quoted Deepkumar Raya, a senior police official from Tanahun, as saying. The vehicle is registered in the northern Indian state of Uttar Pradesh.
-
-Deputy Chief Minister Devendra Fadnavis of the western state of Maharashtra said that some of the victims were from the state.
-
-...
-
-[Data](articles/29f1f49a.json)
-
-[Extended Data](ext_articles/29f1f49a.ext.json)
-
----
-
-### 11 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-08-24 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101464/11-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-Sri Lanka Navy has apprehended 11 Indian fishermen together with an Indian trawler for illegally poaching in Sri Lankan waters off Point Pedro, Jaffna.
-
-The apprehension has been carried out during a regular patrol conducted by the navy in the northern waters on Friday (23).
-
-The seized trawler together with 11 Indian fishermen have been brought to the Kankesanthurai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, according to Sri Lanka Navy.
-
-With this recent apprehension, the Navy has seized a total of 45 Indian trawlers and 333 Indian fishermen poaching in Sri Lankan waters in 2024, and subsequently handed them over to authorities for legal proceedings, the navy added.
-
-◼️
-
-[Data](articles/99fa0f9d.json)
-
-[Extended Data](ext_articles/99fa0f9d.ext.json)
 
 ---

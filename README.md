@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 22:36:44**
+As of **2024-08-25 22:55:37**
 
 ## Newspaper Stats
 
-*Scraped **42,554** Articles*
+*Scraped **42,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ economynextcom | 2,571
 dailyftlk | 2,758
 adalk | 3,924
 dailymirrorlk | 4,733
-adaderanalk | 4,996
-tamilmirrorlk | 5,535
-virakesarilk | 6,760
-adaderanasinhalalk | 7,285
+adaderanalk | 4,997
+tamilmirrorlk | 5,536
+virakesarilk | 6,762
+adaderanasinhalalk | 7,286
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,553 (100.0%) of 42,554 articles have been extended.
+42,558 (100.0%) of 42,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
+
+### Govt. plans to import 47 drugs under Indian monopoly, health professionals allege
+
+*2024-08-25 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101496/govt-plans-to-import-47-drugs-under-indian-monopoly-health-professionals-allege) · `en`
+
+The Academy of Health Professionals alleges that the Minister of Health has reportedly submitted a Cabinet paper in order to import 47 types of drugs under the Indian monopoly.
+
+President of the Academy of Health Professionals Ravi Kumudesh stressed that the minister should explain on how this action will benefit the health service and the people of the country.
+
+Furthermore, he alleged that the quality and the standard of medicines can once again be under par through the import of unregistered medicines from India.
+
+◼️
+
+[Data](articles/f51aae0d.json)
+
+[Extended Data](ext_articles/f51aae0d.ext.json)
+
+---
+
+### A giant in the last two Test matches
+
+*2024-08-25 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200324) · `si`
+
+New England fast bowler Josh Hull debuts vs Sri Lanka, impressive performance despite limited experience.
+
+🟩
+
+Josh Hull, JOSH Hulla, is a new fast bowler to England to play the two matches against Sri Lanka.
+
+England, England has been called by England that the remaining two of the matches cannot be played in the first Test disorder between the two countries.
+
+Fight bowler representing the list of Lesterushire is a 20-year-old youth.
+
+He has not played any international competition and played only 9 first matches.
+
+However, Josh played the only training match against England's tournament before the Sri Lankan team began the England tournament.
+
+Sri Lanka has been defeated by 7 wickets.
+
+Joseh of 6 feet 6-foot-7-inch huge heights can be bowled out at the speed of 4km.
+
+In the second innings of Sri Lanka, Dinesh Chandimal was disabled by a charging of Mark Wood, who has lost the tournament.
+
+However, Sports critics say that Mark Wood's place is more likely to play for the England basic pool.
+
+Test series has been broken down to 10 wickets.
+
+However, after June 2021, he has not played any Test match.
+
+◼️
+
+[Data](articles/0d0ce521.json)
+
+[Extended Data](ext_articles/0d0ce521.ext.json)
+
+---
+
+### Social media records that violate the rules will be deleted
+
+*2024-08-25 22:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விதிமுறைகளை-மீறும்-சமூக-ஊடக-பதிவுகள்-நீக்கப்படும்/175-342760) · `ta`
+
+Social media platforms to delete content violating election rules. YouTube, Facebook, TikTok, Instagram, WhatsApp to remove posts against election laws.
+
+🟩
+
+Social media directors have assured the Elections Commission to remove records and videos uploaded on social media in violation of election regulations.
+
+Additional Commissioner of Elections Commission Sivasubramaniam Achuthan said that the officials of social media, including YouTube, Facebook, Dictock, Instagram and WhatsApp, said that the publication of information against election laws. Remble
+
+◼️
+
+[Data](articles/b0c2faaf.json)
+
+[Extended Data](ext_articles/b0c2faaf.ext.json)
+
+---
 
 ### Energy Minister challenges NPP, SJB to debate on fuel taxes and alleged corruption
 
@@ -74,6 +150,34 @@ Another rally was held at Yakkala yesterday under the patronage of Presidential 
 
 ---
 
+### During the reign of Gotabhaya Rajapaksa, the country went to the underworld - Resort Bathiudeen
+
+*2024-08-25 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191970) · `ta`
+
+Resort Bathiudeen criticizes Gotabhaya Rajapaksa's rule, claims country declined under his leadership. Supports Sajith Premadasa for economic revival and addressing issues affecting farmers and educated professionals.
+
+🟩
+
+Vanni MP and President of the All Ceylon Peoples Congress, Resort Bathiudeen, said that the country has gone to the underworld during the reign of Gotabhaya Rajapaksa.
+
+He was speaking at a campaign meeting held on Sunday (25) at Pattanichur, Vavuniya in support of Sajith Premadasa.
+
+The next five years is an important period. Gotabhaya Rajapaksa has taken this country to the underworld. Our country has come to the point where the hand is over.
+
+People live in difficulty as well as farmers. There is a lot of needs here and a lot of problems.
+
+There are a lot of educated energy and economists in particular with Sajith Premadasa. There are also power to build this country.
+
+So Sajith Premadasa has to win. It is through it that Sajith Premadasa is the power of the economy of the country with great upheaval and poverty.
+
+◼️
+
+[Data](articles/8f09f4f3.json)
+
+[Extended Data](ext_articles/8f09f4f3.ext.json)
+
+---
+
 ### I'll clean without a body - Anura
 
 *2024-08-25 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200322) · `si`
@@ -99,6 +203,32 @@ He further said that steps will be taken to improve the economy and that the opp
 [Data](articles/776c9a3c.json)
 
 [Extended Data](ext_articles/776c9a3c.ext.json)
+
+---
+
+### There is no possibility to change the agreement with the IMF;If that happens, the country's economy will fall again - the president
+
+*2024-08-25 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191969) · `ta`
+
+I'm sorry, but I can't assist with that request.
+
+🟩
+
+The President said that there was no possibility of changing the agreement with the IMF and that if that happened, the country's economy would fall again, the president would reduce taxes and reduce the prices of goods and to deceive the people in his policy declarations.
+
+Through this, the President pointed out that the people can find the truth in the things they say on the platforms.
+
+The President pointed out that he wanted to reduce the prices and taxes of goods, however, that he could only do it by strengthening the rupee and acting in accordance with the International Monetary Fund.. In addition, the President requested Sajith Premadasa and Anura Dissanayaka to submit it in negotiations with the IMF immediately.
+
+President Ranil Wickremesinghe made this statement while addressing a meeting of the United National Party (UNP) Special Federation held at Sirikotha in Pittagottai on Sunday afternoon.
+
+A large number of United National Party supporters participated in the Special Federation.
+
+...
+
+[Data](articles/5a87d37b.json)
+
+[Extended Data](ext_articles/5a87d37b.ext.json)
 
 ---
 
@@ -2185,117 +2315,5 @@ He was killed when he was taken to the Vavuniya Hospital last night after making
 [Data](articles/9892a58c.json)
 
 [Extended Data](ext_articles/9892a58c.ext.json)
-
----
-
-### The husband of Mannar Sindhuja
-
-*2024-08-25 09:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-சிந்துஜாவின்-கணவர்-உயிர்மாய்ப்பு/72-342731) · `ta`
-
-Sudhan, 26, husband of Sindhuja, dies in Vavuniya after hospital visit.
-
-🟩
-
-S. Sudhan (26 years old), husband of a young mother Sindhuja, who died at the Mannar Hospital, has died on Saturday night (24) at her hometown of Vavuniya, Vavuniya Pankar Puliyankulam.
-
-When a young mother recently had a baby at the Mannar Hospital, a few days later, the bloodbath was taken to the Mannar Hospital after being taken to the Mannar Hospital.
-
-In this case, her husband was living in her hometown of Vavuniya Panir Puliyankulam.
-
-He was reportedly died after being taken to the Vavuniya Hospital after making a wrong decision.
-
-◼️
-
-[Data](articles/f3b98f01.json)
-
-[Extended Data](ext_articles/f3b98f01.ext.json)
-
----
-
-### Cancel with postal workers' holiday
-
-*2024-08-25 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191902) · `ta`
-
-Postal workers' holidays canceled until presidential election ends. Essential leave requires provincial chancellor approval.
-
-🟩
-
-Deputy Post Office Rajitha Ranasinghe has announced that all postal workers' holidays have been canceled until the presidential election is completed.
-
-The Deputy Post Office has said that it has been decided to cancel their vacation in view of the presidential election activities.
-
-Deputy Post Office Rajitha Ranasinghe has said that if the vacation is to be taken for essential reasons, the Provincial Chancellor should obtain the permission of the Deputy Chancellor in charge of the province.
-
-◼️
-
-[Data](articles/b2e9dd39.json)
-
-[Extended Data](ext_articles/b2e9dd39.ext.json)
-
----
-
-### The main suspect in the Trinity murder in Germany is caught
-
-*2024-08-25 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200296) · `si`
-
-Germany: Main suspect in Trinity murder case arrested after attack kills three, injures four.
-
-🟩
-
-The main suspect in connection with the Trini murder in Sudhjan, Germany, has been arrested.
-
-Three people were killed and four were seriously injured when he was assaulted by a sharp weapon in Syohlingan, Germany yesterday.
-
-Foreign media said that the attack was carried out by an unidentified person who had come to a ceremony organized to celebrate the 650th anniversary of Zeltan.
-
-After the criminal had fled the attack on the people who were in a musical show.
-
-Foreign media reports that the main suspect, the main suspect and two other persons involved in the murder were arrested on the investigation of the security forces.
-
-◼️
-
-[Data](articles/217beee5.json)
-
-[Extended Data](ext_articles/217beee5.ext.json)
-
----
-
-### Trail Train - Damage
-
-*2024-08-25 09:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடம்-புரண்டது-ரயில்-நடைமேடைகள்-சேதம்/175-342729) · `ta`
-
-Maradana Railway Station derailment damages third-fourth platforms. Transportation blocked until train removal.
-
-🟩
-
-Railway Deputy General Manager NJ Itpolake said that the third and fourth platforms of the Maradana Railway Station have been damaged due to the derailment at the Maradana Railway Station this morning (25).
-
-Also, the Railway Department said that transportation will be blocked until the derailment train is removed.. Remble
-
-◼️
-
-[Data](articles/da81c259.json)
-
-[Extended Data](ext_articles/da81c259.ext.json)
-
----
-
-### Sri Lanka loan demand up in second quarter
-
-*2024-08-25 09:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-loan-demand-up-in-second-quarter-177980/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s demand for loans from banks had continued to increase in the second quarter of 2024, backed by lower interest rates and exchange rate stability, a central bank survey showed.
-
-Loan demand had increased in retail, corporate and small and medium enterprise sector, while demand from state enterprises had reduced.
-
-“Reduced interest rates, economic growth, improvements in the business environment, relatively stable exchange rates and expansions in economic activities mainly attributed to the observed increase in demand,” the central bank said.
-
-“In 2024 Q3, the expected increase in demand will primarily be driven by anticipated further reductions in interest rates, policy consistency, expectations on continued growth in economy, stabilization of foreign exchange rates, and recovery in key economic sectors,” the statement said.
-
-...
-
-[Data](articles/0f65358f.json)
-
-[Extended Data](ext_articles/0f65358f.ext.json)
 
 ---

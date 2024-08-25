@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 03:55:39**
+As of **2024-08-26 04:08:02**
 
 ## Newspaper Stats
 
-*Scraped **42,571** Articles*
+*Scraped **42,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 392
 colombotelegraphcom | 407
 islandlk | 2,473
 economynextcom | 2,572
-dailyftlk | 2,767
+dailyftlk | 2,769
 adalk | 3,924
 dailymirrorlk | 4,733
 adaderanalk | 4,997
@@ -26,11 +26,45 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,571 (100.0%) of 42,571 articles have been extended.
+42,571 (100.0%) of 42,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### Sri Lanka defines priorities for next month’s UN ‘Summit of the Future’ in NY
+
+*2024-08-26 03:50:50* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-defines-priorities-for-next-month-s-UN-Summit-of-the-Future-in-NY/56-765983) · `en`
+
+The Presidential Secretariat and the Foreign Affairs Ministry, in collaboration with the United Nations in Sri Lanka, co-hosted a national event for Sri Lanka to articulate its contributions to the ‘Summit of the Future’ which will be held from 22-23 September in New York.
+
+The ‘Summit of the Future’, proposed by the UN Secretary-General in his ‘Our Common Agenda’ report, is a landmark initiative to renew and strengthen multilateralism to better address current and emerging global challenges.
+
+The Summit will produce a ‘Pact for the Future’, an inter-governmentally negotiated and action-oriented agreement that will guide global efforts in sustainable development, peace and security, science and digital cooperation, youth and future generations, and transforming global governance.
+
+...
+
+[Data](articles/884328d6.json)
+
+---
+
+### Bilateral exercise Mitra Shakti-X between India and Sri Lanka concludes
+
+*2024-08-26 03:49:09* · [`dailyftlk`](https://www.ft.lk/news/Bilateral-exercise-Mitra-Shakti-X-between-India-and-Sri-Lanka-concludes/56-765982) · `en`
+
+The 10th edition of the annual bilateral exercise, Mitra Shakti, was conducted at the Army Training School, Maduru Oya from 12-25 August.
+
+The exercise is an annual event held in India and Sri Lanka alternatively. The Indian contingent arrived from Jodhpur to the Mattala Rajapaksa International Airport on 12 August by Indian Air Force IL-76 and left on 25 August post exercise.
+
+The exercise aims at enhancing interoperability and mutual understanding between both armed forces and provides an opportunity to further deepen the close defence relationship based on professional respect, personal bonding, and extensive training interaction.
+
+The exercise helps in building proficiency in tackling transnational terrorism, the conduct of joint tactical operations, and building combat skills. It also provides an ideal platform for the sharing of each other’s experiences and learning from best practices being followed.
+
+...
+
+[Data](articles/91fd2f1d.json)
+
+---
 
 ### SLIMFA forum explores media’s evolving role in elections amid digital revolution
 
@@ -2241,45 +2275,5 @@ Ranjith Rupasinghe said that since the country's first driver's license was issu
 [Data](articles/2223e64f.json)
 
 [Extended Data](ext_articles/2223e64f.ext.json)
-
----
-
-### A child dies after electrosing
-
-*2024-08-25 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200298) · `si`
-
-Child dies electrocution Galenbindunuwewa National School water pump malfunction investigation underway
-
-🟩
-
-The deceased is a 15 year old schoolgirl resident in the Galenbindunuwewa National School.
-
-It has been revealed that a watered water motor was flowing in the back of the house with water in the back of the house.
-
-◼️
-
-[Data](articles/622735cf.json)
-
-[Extended Data](ext_articles/622735cf.ext.json)
-
----
-
-### Namal on the ‘conspiracy’ to topple previous govt and decision taken to prevent country’s collapse
-
-*2024-08-25 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101480/namal-on-the-conspiracy-to-topple-previous-govt-and-decision-taken-to-prevent-countrys-collapse-) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Johnston Fernando claims that the SLPP has the ‘young leader’ which was demanded by the ‘Aragalaya’ protest movement.
-
-Speaking at a public rally held in Divulapitiya to support the SLPP’s presidential candidate, MP Fernando stated that during the ‘Aragalaya’ protest movement, the activists demanded a leader who represents the youth and that the SLPP has now given them the opportunity to elect Namal Rajapaksa, who will become the country’s youngest leader.
-
-Commenting further, he said: “Our candidate is not the same person who has been in the past. Over the years, Namal Rajapaksa has matured to become a more responsible person.”
-
-Meanwhile, SLPP MP Thissa Kuttiarachchi, who spoke during the rally, mentioned that since certain people claim that former President Mahinda Rajapaksa cannot govern the country as he is old, they nominated a 38-year-old as their presidential candidate.
-
-...
-
-[Data](articles/4f56bfcd.json)
-
-[Extended Data](ext_articles/4f56bfcd.ext.json)
 
 ---

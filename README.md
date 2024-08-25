@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 16:21:30**
+As of **2024-08-25 16:36:54**
 
 ## Newspaper Stats
 
-*Scraped **42,510** Articles*
+*Scraped **42,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,62 +17,106 @@ economynextcom | 2,571
 dailyftlk | 2,758
 adalk | 3,916
 dailymirrorlk | 4,733
-adaderanalk | 4,991
+adaderanalk | 4,992
 tamilmirrorlk | 5,530
 virakesarilk | 6,745
-adaderanasinhalalk | 7,275
+adaderanasinhalalk | 7,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,507 (100.0%) of 42,510 articles have been extended.
+42,510 (100.0%) of 42,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### රට හැර යන පාකිස්තානුවන් ගැන හෙළිදරව්වක්
+### සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත්ගේ අනුරාධපුර ජන රැලිය සජීවීව මෙතැනින්
+
+*2024-08-25 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200313) · `si`
+
+සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ අනුරාධපුර ජන රැලිය මේ වනවිට ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/e18e422a.json)
+
+---
+
+### Finance State Minister to reveal full tax information tomorrow
+
+*2024-08-25 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101490/finance-state-minister-to-reveal-full-tax-information-tomorrow) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya says that all information pertaining to the taxes will be disclosed tomorrow (26).
+
+Siyambalapitiya highlighted that during this period, efforts have been made to increase the state revenue through collecting of tax arrears.
+
+The State Minister also pointed out that around 900 bank accounts have been frozen for the collection of tax arrears, and steps are being taken to recover the relevant funds.
+
+Meanwhile, he said that accordingly, all information regarding the taxes will be disclosed to the media on Monday (26).
+
+◼️
+
+[Data](articles/f381b283.json)
+
+---
+
+### A revelation of Pakistants who leave the country
 
 *2024-08-25 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200312) · `si`
 
-පසුගිය වසර 17 තුළ වඩා හොඳ අවස්ථා සොයමින් පාකිස්තානුවන්  මිලියන 10ක් පමණ රට හැර ගොස් ඇති විදෙස් මාධ්‍ය වාර්තා කරයි.
+Pakistani migration surge: 10m+ since 2004, peak 2015 (900k), 2022-23 (800k).
 
-විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කරන්නේ සංක්‍රමණ රැල්ලේ උච්චතම අවස්ථාව 2015දී සිදුවී ඇති බවය.
+🟩
 
-එම වසරේදී පුද්ගලයන් 900,000 කට වැඩි පිරිසක් රැකියා සොයා පාකිස්තානයෙන් පිටව ගොස් ඇතැයි සඳහන් ය.
+About 10 million Pakistani reports, searching for more opportunities for the last 17 years, reports foreign media reports.
 
-2022 සහ 2023 වසරවලදී සංක්‍රමණිකයන් සංඛ්‍යාව 800,000 දක්වා ඉහළ ගොස් ඇති බවද වාර්තා වෙයි.
+Foreign media further states that the climax of the migration wave has occurred in 2015.
+
+More than 900,000 people left the Pakistan in search of employment of employment that year.
+
+The number of migrants have increased to 800,000 in 2022 and 2023.
 
 ◼️
 
 [Data](articles/d5c21ff0.json)
 
+[Extended Data](ext_articles/d5c21ff0.ext.json)
+
 ---
 
-### බංග්ලාදේශයට ඓතිහාසික ටෙස්ට් ජයක්
+### Bangladesh is a historic Test
 
 *2024-08-25 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200311) · `si`
 
-සත්කාරක පාකිස්තානු කණ්ඩායම පරාජය කර තරග 2කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලියේ පළමු තරගයෙන් කඩුලු 10ක විශිෂ්ට ජයක් ලැබීමට බංග්ලාදේශ කණ්ඩායම අද (25) සමත් විය.
+Bangladesh wins historic Test vs Pakistan, Mushfiqur Rahim scores 191 runs.
 
-මෙහිදී පාකිස්තානයෙන් හිමිවූ ලකුණු 30ක පහසු ඉලක්කය බංග්ලාදේශ ආරම්භක පිතිකරු යුගළ විසින්ම හඹා ගියහ.
+🟩
 
-මෙය බංග්ලාදේශ ක්‍රිකට් ඉතිහාසයේ ඔවුන් පාකිස්තානු කණ්ඩායමක් ටෙස්ට් තරගයකදී පරාජය කර පළමු හා එකම අවස්ථාව ලෙසින් වාර්තා අතරට එක්විය.
+Bangladesh won the 2 wickets in the first match of the two match Test series in the first match of the two match Test series.
 
-රාවල්පිණ්ඩි හිදී පැවති මෙම තරගයේ පළමුව පන්දුවට පහරදුන් පාකිස්තානය සිය පළමු ඉනිමට කඩුලු 06ක් දැවී ලකුණු 448ක් රැස්කර ඉනිම අත්හිටුවීය.
+The Bangladesh opener was chased by Pakistan's 30 runs.
 
-කෙසේ නමුත් ඊට පිළිතුරු ලෙසින් බංග්ලාදේශය තම පළමු ඉනිමට සියලු දෙනා දැවී ලකුණු 565ක් රැස්කළේය.
+In the history of Bangladesh cricket, they defeated a Pakistan group in a Test match and were the first.
 
-එහිදී අතිවිශිෂ්ට ඉනිමක් ගොඩනැගූ මුෂ්ෆිකර් රහීම් ලකුණු 191ක් රැස්කිරීමට සමත් විය.
+Pakistan scored 448 runs for the loss of 6 wickets in their first innings to bat first.
 
-ඒ හේතුවෙන් පාකිස්තානයට ලකුණු 117ක් පසුපසින් සිටිමින් සිය දෙවැනි ඉනිම ඇරඹීමට සිදු විය.
+In response, however, Bangladesh scored 565 runs for the loss of everyone in their first innings.
 
-නමුත් පාකිස්තානු දෙවැනි ඉනිම ලකුණු 146කට සීමා වූ අතර,  ඒ වනවිට ඔවුන් බංග්ලාදේශ දෙවැනි ඉනිමට වඩා ඉදිරියෙන් සිටියේ ලකුණු 29ක් පමණි.
+Mushficker rahi, which built an abnormal innings, scored 191 runs.
+
+As a result, Pakistan had to take 117 runs in their second innings.
+
+However, Pakistan's second innings were limited to 146 runs, at that time the Bangladesh was only 29 runs ahead of the second innings.
+
+In the history of Pakistani Test cricket history, Bangladesh, was 13 Tests between the two countries in the history of Pakistan Test cricket.
 
 ...
 
 [Data](articles/12a1e7f7.json)
+
+[Extended Data](ext_articles/12a1e7f7.ext.json)
 
 ---
 
@@ -722,21 +766,29 @@ The deceased is a 36-year-old resident of the Siriltonwatta area of the Meewanap
 
 ---
 
-### රට පවුල් කිහිපයක බූදලයක් වෙලා
+### The country has become an property of several families
 
 *2024-08-25 11:30:45* · [`adalk`](https://www.ada.lk/breaking_news/රට-පවුල්-කිහිපයක-බූදලයක්-වෙලා/11-411540) · `si`
 
-2024 ජනාධිපතිවරණය නිමිත්තෙන් ජාතික ජන බලවේගය සංවිධානයකළ පොහොසත් රටක් ලස්සන දිවියක් උදාකරන නව පුනරුද මඟට රට හරවන ජනරැළිය ඉකුත් (24) වෙනිදා වැල්ලවාය ප්‍රධාන බස් නැවතුම්පොළ අසලදී පැවැත්විණි.
+Sri Lanka's economy struggles under family rule, poverty affects majority, agricultural potential untapped, natural resources mismanaged, political corruption prevalent, urgent reform needed.
 
-ජාතික ජන බලවේගයේ මොනරාගල දිස්ත්‍රික් සංවිධායක හිටපු පළාත් සභා මන්ත්‍රී ආර්.එම් ජයවර්ධන මහතා විසින් මෙම රැළිය සංවිධානයකර තිබිණි.
+🟩
 
-මෙහිදී අදහස් දැක්වූ ජාතික ජනබලවේගයේ නායක පා.ම ජනාධිපතිධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතා, හරිහමන් ආහාර වේලක් නැති.ලෙඩට බෙහෙතක් නැති.නිසි අධ්‍යාපනයක් ලබාගැනීමට නොහැකි දුප්පත්කමින් පිරි අපේ රට පොහොසත් රටක් කිරීමට ජාතික ජන බලවේගයේ රජයක් යටතේ අනිවාර්යයෙන්ම කටයුතු කරනවා.
+The 2324 richest country organized the national folk elephant was held at the Wellawaya main bus stand on Wellawaya.
 
-මේවන විට ශ්‍රීලාංකීය බහුතර ජනතාව දුප්පත්කමින් වෙලී සිටිනවා. ගෙලබැඳි රන්මාලය මඟුල් මුද්ද පවා උකසට තබලා. එපමණක් නොවෙයි පුංචි දරුවාගේ පංචායුධයද තිබෙන්නේ බැංකුවක හෝ උකස් මධ්‍යස්ථානයකයි. නමුත් රටේ පාලකයින් සුරසැප විඳිනවා. මෙම ක්‍රමය වෙනස්කළ යුතුයි.
+The rally was organized by the former Provincial Councilor RM Jayawardena of the National Power Department.
+
+The Leader of the National People's Republic Anura Kumara Dissanayake is definitely without a rich country with a rich country who cannot acquire the poorest country.
+
+The SriLankan majority people are in poverty. The Galmand Ranmal has even tached the ring. Moreover, the small child is in a bank or mortgage center. But the rulers of the country sufferer. This system should be changed.
+
+The method of rich rulers who are poor, should be changed immediately. It can be done in the future presidential election. All the people will be assembled and demanding the national government for the national government .It is a country full of resources. Gems are common in the Okkampitiya, Alahera and Ratnapura areas.
 
 ...
 
 [Data](articles/5ac7da0c.json)
+
+[Extended Data](ext_articles/5ac7da0c.ext.json)
 
 ---
 
@@ -2215,59 +2267,5 @@ Accordingly, a special discussion is scheduled to be held on next week of the Lo
 [Data](articles/7c6a5cb0.json)
 
 [Extended Data](ext_articles/7c6a5cb0.ext.json)
-
----
-
-### Committee after presidential election to make a profit making agency
-
-*2024-08-24 20:14:32* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-දෙපාර්තමේන්තුව-ලාභ-උපයන-ආයතනයක්-කිරිමට-ජනාධිපතිවරණයෙන්-පසු-කමිටුවක්/11-411532) · `si`
-
-Private bus owners support Ranil Wickremesinghe post-election. Committee formed to address fuel queues and sector development.
-
-🟩
-
-Troops of private bus owners association and 10 carriers participate in the victory of President Ranil Wickremesinghe in this year's presidential election.
-
-Chairman of the Private Bus Owners Association Mr. Gemunu Wijeratne and delegates said yesterday (23) at the political office of President Ranil Wickremesinghe on the Flower Presidential Election.
-
-The transport association delegation pointed out that the fuel queue is not necessary, he said.
-
-He pointed out that President Ranil Wickremesinghe was the only leader who valueded the president's program in the country to build the country within two years.
-
-Lanka Private Bus Owners Association, Inter-Provincial Bus Owners Association, Organizing Transport Association, All Island Bus Transport Association, All Island Bus Transport Association, All Island Bus Association.The President and representatives of the Associations of the National Taxi Three Wheeler Professionals were associated with the President.
-
-...
-
-[Data](articles/fc94c4cd.json)
-
-[Extended Data](ext_articles/fc94c4cd.ext.json)
-
----
-
-### Have not taken a decision to cancel the unnamed driver license
-
-*2024-08-24 20:03:34* · [`adalk`](https://www.ada.lk/breaking_news/යාවත්කාලීන-නොකළ-රියදුරු-බලපත්‍ර-අවලංගු-කිරීමට-තීරණයක්-ගෙන-නැහැ/11-411531) · `si`
-
-No decision to cancel driver licenses. Update process for 2 million holders. New e-license system planned. No cancellation of existing licenses. Digitalization of transport sector underway.
-
-🟩
-
-Nearly 2 million driver driving license holders are introduced to update information.
-
-In the first six months of 2025, the E-driver's license is introduced - Engkk the Secretary to the Ministry of Transport and Highways Engineering engaged in engineering Ranjith Rubasinghe.
-
-The first propaganda that the unqualified driving license has decided to cancel the licenses is that no such decision has been taken by the Secretary to the Ministry of Transport and Highways.
-
-He said that a new methodology is introduced to update the information of nearly 2 million driving license holders 'information about nearly 2 million driving license holders' information.
-
-The Secretary to the Ministry of Transport and Highways, Ranjith Rubasinghe made these comments participating at a stable country to a stable country.
-
-The driving license issued by the first driving license in the country has been issued since the 1960s, Mr. Ranjith Rubasinghe said.
-
-...
-
-[Data](articles/425af80e.json)
-
-[Extended Data](ext_articles/425af80e.ext.json)
 
 ---

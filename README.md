@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 20:55:41**
+As of **2024-08-25 21:06:30**
 
 ## Newspaper Stats
 
-*Scraped **42,547** Articles*
+*Scraped **42,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,758
 adalk | 3,922
 dailymirrorlk | 4,733
 adaderanalk | 4,995
-tamilmirrorlk | 5,534
+tamilmirrorlk | 5,535
 virakesarilk | 6,760
 adaderanasinhalalk | 7,283
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,547 (100.0%) of 42,547 articles have been extended.
+42,547 (100.0%) of 42,548 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,20 @@ He added that the farmer's prices will be able to buy agrochemicals at a cost of
 [Data](articles/d5d3ce6a.json)
 
 [Extended Data](ext_articles/d5d3ce6a.ext.json)
+
+---
+
+### பாடசாலை ஆரம்பம் குறித்து விசேட செய்தி
+
+*2024-08-25 20:04:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆரம்பம்-குறித்து-விசேட-செய்தி/175-342758) · `ta`
+
+அரச பாடசாலைகள் மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளின் மூன்றாம் தவணைக்கான பாடசாலையின் முதல் கட்டம் நாளை (26) ஆரம்பமாகும் எனக் கல்வி அமைச்சு அறிவித்துள்ளது.
+
+இந்நிலையில், மழையுடனான காலநிலை காரணமாகப் பல நோய்கள் பரவும் அபாயம் உள்ளதாகச் சுகாதாரத் துறையினர் தெரிவித்துள்ளதுடன் விடுமுறை முடிந்து பாடசாலைக்கு செல்லும் மாணவர்களுக்கு தேவையான சுகாதார நடைமுறைகள் கடைப்பிடிப்பது அவசியம் என சுகாதாரப்பிரிவின் பெற்றோர்களுக்கு அறிவித்தல் விடுத்துள்ளனர். R
+
+◼️
+
+[Data](articles/40599d63.json)
 
 ---
 
@@ -2295,33 +2309,5 @@ Two brothers and brothers have been arrested by the police, who were in the aged
 [Data](articles/b1b51f9f.json)
 
 [Extended Data](ext_articles/b1b51f9f.ext.json)
-
----
-
-### If the people were true, the country had to be taken responsibility then
-
-*2024-08-25 08:15:59* · [`adalk`](https://www.ada.lk/breaking_news/සැබෑ-ලෙසම-ජනතාව-ගැන-සිතුවා-නම්-එදා-රටේ-වගකීම-භාරගත-යුතුව-තිබුණා/11-411533) · `si`
-
-President Ranil Wickremesinghe addresses Dambulla rally, emphasizes economic stability, takes responsibility for country's issues, urges voters to exercise their right in upcoming presidential election.
-
-🟩
-
-President Ranil Wickremesinghe said that the object of the people who went to court was to rescue the people to protect the people of the people, asking the people to survive the rights of the people, he said.
-
-The President pointed out that if he was conducting money, the president of the country would not be a stable level of people, he stressed that if the country's living rights is preferred to be violated, he is ready to cope.
-
-President Ranil Wickremesinghe said this was addressing the Sri Lanka Dambulla Victory Rally in the Dambulla bus station.
-
-A large number of people in Dambulla was partnered with the rally and they welcomed the president.
-
-Speaking at the meeting, President Ranil Wickremesinghe added that he took responsibility in this country in July 2022 and had the economic stability of the country and end the problem of the country.
-
-Arrangements were made to serve as an independent candidate today and that they were also for the people.
-
-...
-
-[Data](articles/f059483e.json)
-
-[Extended Data](ext_articles/f059483e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 01:06:46**
+As of **2024-08-26 01:21:20**
 
 ## Newspaper Stats
 
-*Scraped **42,565** Articles*
+*Scraped **42,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 392
 colombotelegraphcom | 407
 islandlk | 2,473
 economynextcom | 2,572
-dailyftlk | 2,761
+dailyftlk | 2,762
 adalk | 3,924
 dailymirrorlk | 4,733
 adaderanalk | 4,997
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,564 (100.0%) of 42,565 articles have been extended.
+42,565 (100.0%) of 42,566 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,22 @@ Handing out roofing sheets used to be a thing in Sri Lankan elections. It was th
 ...
 
 [Data](articles/f1ba5d1a.json)
+
+[Extended Data](ext_articles/f1ba5d1a.ext.json)
+
+---
+
+### Presidential hopefuls should give top priority to make Sri Lanka a creative nation – Part III
+
+*2024-08-25 23:25:23* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-hopefuls-should-give-top-priority-to-make-Sri-Lanka-a-creative-nation-Part-III/4-765954) · `en`
+
+New research by Sri Lanka’s universities and research institutions should cover research in all the three major sectors of the economy, agriculture, industry and services – Pic by Shehan Gunasekara
+
+A country interested in creating a creative economy should put all the four essential ground conditions in place if it is to succeed in its attempt. First, knowledge must be created by its universities and research institutions. Then, such knowledge should be made available to prospective entrepreneurs for use in commercially viable productions known as innovation. Once the initial entrepreneurs become successful, that knowledge, both invention and innovation, should be disseminated or diffused across the economy to facilitate others to imitate the original inventors and innovators
+
+...
+
+[Data](articles/67540d45.json)
 
 ---
 
@@ -2279,27 +2295,5 @@ Voters are asked to rely on reliable information when they make their election d
 [Data](articles/b9f08950.json)
 
 [Extended Data](ext_articles/b9f08950.ext.json)
-
----
-
-### Harold Anthony ownership between President and Bishop
-
-*2024-08-25 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200297) · `si`
-
-Ranil Wickremesinghe meets Harold Anthony Perera, discusses Easter reforms, economic plans, and cost of living issues.
-
-🟩
-
-President Ranil Wickremesinghe has met with a father of the Bishop Association including Harold Anthony Perera, Chairman of the Catholic Bishop.
-
-The Presidential Media Unit said that the Easter reforms implemented in the country have discussed inquiries, environmental and religious affairs of the terrorist attack on Easter.
-
-The President has informed the Father on the plans implemented by the government to ensure the economy of the country and the cost of living challenges of the people.
-
-◼️
-
-[Data](articles/ec657cdf.json)
-
-[Extended Data](ext_articles/ec657cdf.ext.json)
 
 ---

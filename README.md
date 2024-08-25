@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-25 10:55:43**
+As of **2024-08-25 11:08:15**
 
 ## Newspaper Stats
 
-*Scraped **42,459** Articles*
+*Scraped **42,462** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 355
+dbsjeyarajcom | 356
 newsfirstlk | 363
 bbccomsinhala | 392
 colombotelegraphcom | 405
@@ -18,63 +18,115 @@ dailyftlk | 2,758
 adalk | 3,909
 dailymirrorlk | 4,733
 adaderanalk | 4,982
-tamilmirrorlk | 5,519
+tamilmirrorlk | 5,520
 virakesarilk | 6,739
-adaderanasinhalalk | 7,261
+adaderanasinhalalk | 7,262
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,456 (100.0%) of 42,459 articles have been extended.
+42,459 (100.0%) of 42,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-25 (Sunday)
 
-### ஆயர்களை சந்தித்தார் ரணில்
+### தேர்தல் கருத்துக் கணிப்புகள் குறித்து எச்சரிக்கை
+
+*2024-08-25 10:43:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-கருத்துக்-கணிப்புகள்-குறித்து-எச்சரிக்கை/175-342737) · `ta`
+
+ஜனாதிபதி தேர்தலுக்கு முன்னதாக பல்வேறு கட்சிகளால் நடத்தப்பட்டு வரும் கருத்துக்கணிப்புகளால் வாக்காளர்கள் பாதிக்கப்படக்கூடாது என தேர்தல் ஆணைக்குழு எச்சரித்துள்ளது.
+
+இந்த கணக்கெடுப்புகளின் அடிப்படையில் வாக்காளர்கள் தங்கள் கருத்துக்களை மாற்ற வேண்டிய கட்டாயம் ஏற்படக்கூடாது என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க வலியுறுத்தினார்.
+
+மேலும், ஐ.நா மற்றும் ஐரோப்பிய ஒன்றியம் போன்ற சர்வதேச அமைப்புகளின் பெயரைப் பயன்படுத்தி பொய்யாகக் நடாத்தப்படும் பல போலியான கருத்துக்கணிப்புகள் சமூக ஊடகங்களில் பரவி வருவதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+வாக்காளர்கள் தங்கள் தேர்தல் முடிவுகளை எடுக்கும்போது நம்பகமான தகவல்களை நம்பும்படி கேட்டுக் கொள்ளப்படுகிறார்கள்.
+
+◼️
+
+[Data](articles/b9f08950.json)
+
+---
+
+### ජනාධිපති සහ රදගුරු හැරල්ඩ් ඇන්තනි හිමි අතර හමුවක්
+
+*2024-08-25 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200297) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කතෝලික රදගුරු සම්මේලනයේ සභාපති රදගුරු හැරල්ඩ් ඇන්තනි පෙරේරා හිමි ඇතුළු රදගුරු සංගමයේ පියතුමන් පිරිසක් හමුව තිබේ.
+
+එහිදී රට තුළ ක්‍රියාත්මක අධ්‍යාපන ප්‍රතිසංස්කරණ, පාස්කු ඉරිදා ත්‍රස්ත ප්‍රහාරය පිළිබඳ විමර්ශන, පාරිසරික සහ ආගමික කටයුතු පිළිබඳව සාකච්ඡා කළ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+රටේ ආර්ථිකය සහ ජනතාවගේ ජීවන වියදම් අභියෝගවලට මුහුණ දීම සඳහා රජය ක්‍රියාත්මක කරන සැලසුම් පිළිබඳව ජනාධිපතිවරයා විසින් මෙහිදී පියතුමන්ලා දැනුවත් කර තිබේ.
+
+◼️
+
+[Data](articles/ec657cdf.json)
+
+---
+
+### Ranil met the bishops
 
 *2024-08-25 10:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயர்களை-சந்தித்தார்-ரணில்/175-342735) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க, கத்தோலிக்க ஆயர்கள் பேரவையின் தலைவர் அருட்தந்தை ஹெரோல்ட் அந்தோனி பெரேரா, பொதுச் செயலாளர் டொன் அன்டன் ஜெயக்கொடி, கொழும்பு உதவி ஆயர் மற்றும் கத்தோலிக்க ஆயர் பேரவையின் பாதிரியார்களைச் சந்தித்து நாட்டில் தற்போது நடைபெற்று வரும் கல்வி சீர்திருத்தங்கள், ஈஸ்டர் ஞாயிறு பயங்கரவாத தாக்குதல் விசாரணைகள், சுற்றுச்சூழல் மற்றும் மத விடயங்கள் குறித்து கலந்துரையாடினார்.
+Ranil Wickremesinghe meets Catholic Bishops: discusses education reform, Easter attacks, economic plans, cost of living.
 
-அத்தோடு  நாட்டின் பொருளாதாரம் மற்றும் மக்களின் வாழ்க்கைச் செலவு சவால்களுக்கு ஈடுகொடுப்தற்கான அரசாங்கத்தின் திட்டங்கள் குறித்தும் பாதிரியார்களுக்கு விளக்கமளித்தார்.
+🟩
+
+President Ranil Wickremesinghe, President of the Catholic Bishops Council, Blessed Herold Anthony Perera, General Secretary Don Anton Jayakody, met with the priests of the Colombo Assistant Bishop and Catholic Bishop, and discussed the ongoing educational reforms, Easter Sunday terrorist attacks, Easter Sunday terrorist attacks.
+
+He also explained to the priests about the government's plans for the economy of the country and the cost of living of the people.
 
 ◼️
 
 [Data](articles/e8ea9a54.json)
 
+[Extended Data](ext_articles/e8ea9a54.ext.json)
+
 ---
 
-### இஸ்ரேலில்  அவசர நிலை பிரகடனம்
+### Emergency Declaration in Israel
 
 *2024-08-25 10:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலில்-அவசர-நிலை-பிரகடனம்/50-342734) · `ta`
 
-ஹமாஸ் தலைவர் படுகொலைக்கு பதிலடி கொடுக்கும் வகையில், ஹிஸ்புல்லா தாக்குதல் நடத்தி வருவதால், அடுத்து 48 மணி நேரத்திற்கு அவசர நிலையை இஸ்ரேல் அறிவித்துள்ளது.
+Israel declares state of emergency after Hezbollah attacks in response to Hamas leader's assassination.
 
-மேற்காசிய நாடான இஸ்ரேல், பலஸ்தீனியர்கள் வசிக்கும் காசா மீது கடந்தாண்டு அக்டோபரில் இராணுவ தாக்குதல் துவக்கியது. அதை எதிர்த்து, காசாவை தங்கள் கட்டுப்பாட்டில் வைத்துள்ள ‛ஹமாஸ்' அமைப்பினர் போரிட்டு வருகின்றனர்.
+🟩
 
-பலஸ்தீன மக்களுக்கும், ஹமாஸ் அமைப்புக்கும் ஆதரவாக, அண்டை நாடான லெபனானில் இருக்கும் ஈரான் ஆதரவு ஹிஸ்புல்லா அமைப்பு இஸ்ரேல் மீது தாக்குதல் நடத்தி வருகிறது.
+Israel has announced a state of emergency for the next 48 hours as Hizbullah attacks in response to the Hamas leader's assassination.
 
-இந்நிலையில், ஹமாஸ் தலைவர் ஈரானில் கொல்லப்பட்டார். இதற்கு இஸ்ரேல் தான் காரணம் என குற்றம் சாட்டப்படுகிறது. ஹமாஸ் தலைவர் படுகொலைக்கு பதிலடி கொடுக்கும் வகையில், வடக்கு இஸ்ரேல் மீது நேற்று நள்ளிரவு முதல் ஹில்புல்லா படையினர், 70 ரொக்கெட் ஏவுகணைகளை வீசி தாக்குதல் நடத்தினர். குறிப்பாக, இஸ்ரேல் இராணுவ வீரர்கள் தங்கியிருக்கும் குடியிருப்புகள் மீது இந்த தாக்குதல் நடத்தப்பட்டுள்ளது.
+The Western country, Israel, launched a military attack on Gaza, where Palestinians reside. Against this, the 'Hamas' organization, which has controlled Gaza, is fighting.
+
+In support of the Palestinian people and Hamas, the Iran -backed Hizbullah organization in neighboring Lebanon is attacking Israel.
+
+In this case, Hamas leader was killed in Iran. Israel is blamed for this. In retaliation for the Hamas leader's assassination, the Hilbullah soldiers threw 70 rocket missiles from midnight yesterday to Northern Israel. In particular, the attack has been carried out on apartments where Israeli soldiers are staying.
 
 ...
 
 [Data](articles/2fb59fb9.json)
 
+[Extended Data](ext_articles/2fb59fb9.ext.json)
+
 ---
 
-### 'நன்றி மறவது நன்றன்று ' ரிஷாட்டுக்கு பாடம் கூறிய தலதா
+### 'Thank you Thank you'
 
 *2024-08-25 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191899) · `ta`
 
-அவ்விடத்திற்கு வந்த ரிஷாட் பதியுதீன் 'நீங்கள் ஏன்? இவ்வாறானதொரு தீர்மானத்தை எடுத்தீர்கள்’ என்று கேள்வியெழுப்பினார்.
+Rishad Bathiudeen warns of danger to himself and his wife after making a decision.
 
-'எனது நீண்ட உரையில் அதற்கான காரணத்தை தெளிவாக குறிப்பிட்டுள்ளேன். ஆனால் நான் உங்களுக்கு ஒரு விடயத்தை நினைவூட்ட விரும்புகின்றேன். நீங்களும் உங்கள் மனைவியும் ஆபத்தில் இருந்தபோது உங்களை பாதுகாத்தது யார் என்பதை நினைவில் கொள்ளுங்கள்' என ரிஷாட் பதியூதீனுக்கு மறுமொழியளித்த தலதா அத்துக்கோரல அங்கிருந்து வெளியேறினார்.
+🟩
+
+Rishad Bathiudeen, who came to the place, said, 'Why are you?He questioned that you made such a decision.
+
+'I have clearly mentioned the reason for it in my long speech. But I want to remind you of a subject. Remember who you and your wife are in danger, ”Rishad responded to Rishad Bathiudeen.
 
 ◼️
 
 [Data](articles/a74748a2.json)
+
+[Extended Data](ext_articles/a74748a2.ext.json)
 
 ---
 
@@ -797,6 +849,20 @@ The powers attached to the executive presidency have been misused even by those 
 [Data](articles/c248e79a.json)
 
 [Extended Data](ext_articles/c248e79a.ext.json)
+
+---
+
+### “The current president has proven his abilities. He single handedly brought the situation of the country under control. I know not everyone is happy, and we have some way to go, but we can get there together” -Thalatha Atukorale.
+
+*2024-08-25 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84585) · `en`
+
+Samagi Jana Balawegaya (SJB) Ratnapura District MP Thalatha Atukorale, who resigned from her seat in parliament on Wednesday, said she is yet undecided on supporting any of the presidential candidates, but she could no longer remain in the SJB given the manner in which the party is being run.
+
+“There are many reasons why I chose to quit, but I don’t want to say much as we are in the middle of an election campaign. From the beginning, I had the feeling that the leader (SJB leader Sajith Premadasa) was not listening to whatever we told him, and we were not appreciated. There is also no proper plan for the party. In addition to that, there were some issues involving my district,” Ms. Atukorale told the Sunday Times.
+
+...
+
+[Data](articles/98e1a99f.json)
 
 ---
 
@@ -2193,67 +2259,5 @@ The little mother of the arrested boy is not only a child's mother but also preg
 [Data](articles/16b36fc7.json)
 
 [Extended Data](ext_articles/16b36fc7.ext.json)
-
----
-
-### Three dead, several wounded in knife attack at German festival
-
-*2024-08-24 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101460/three-dead-several-wounded-in-knife-attack-at-german-festival) · `en`
-
-An attacker with a knife killed three people and seriously wounded at least five late Friday at a festival in the western German city of Solingen, authorities said.
-
-Witnesses alerted police shortly after 9:30 p.m. to an unknown attacker having wounded several people indiscriminately with a knife on a central square, the Fronhof. Police said the perpetrator was on the run, and they had only very little information on the man so far.
-
-They said they believe the stabbings were carried out by a lone attacker.
-
-One of the festival organizers, Philipp Müller, appeared on stage and asked festivalgoers to “go calmly; please keep your eyes open, because unfortunately the perpetrator hasn’t been caught.”
-
-At least one helicopter was seen in the air, while many police and emergency vehicles with flashing blue lights were on the road and several streets were closed off.
-
-...
-
-[Data](articles/185036e0.json)
-
-[Extended Data](ext_articles/185036e0.ext.json)
-
----
-
-### Several spells of light showers expected in parts of the island
-
-*2024-08-24 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101459/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several  spells of light showers will occur in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at a few places in Eastern and Uva Provinces during the evening or night.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and North-western provinces and in Hambantota district, it added.
-
-Thus the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/3f579589.json)
-
-[Extended Data](ext_articles/3f579589.ext.json)
-
----
-
-### 11 Indian fishermen arrested
-
-*2024-08-24 08:31:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-இந்திய-மீனவர்கள்-கைது/175-342700) · `ta`
-
-Indian fishermen arrested for fishing in Sri Lanka waters.
-
-🟩
-
-Eleven Indian fishermen have been arrested on charges of fishing in the Sri Lankan waters.
-
-Navy sources say fishermen have been arrested in the northern seas. Remble
-
-◼️
-
-[Data](articles/6f3e13d4.json)
-
-[Extended Data](ext_articles/6f3e13d4.ext.json)
 
 ---

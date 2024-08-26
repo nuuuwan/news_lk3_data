@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 02:55:24**
+As of **2024-08-27 03:06:51**
 
 ## Newspaper Stats
 
-*Scraped **42,751** Articles*
+*Scraped **42,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 395
 colombotelegraphcom | 409
 islandlk | 2,489
 economynextcom | 2,584
-dailyftlk | 2,778
+dailyftlk | 2,779
 adalk | 3,945
 dailymirrorlk | 4,733
 adaderanalk | 5,026
-tamilmirrorlk | 5,565
+tamilmirrorlk | 5,566
 virakesarilk | 6,787
 adaderanasinhalalk | 7,319
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,745 (100.0%) of 42,751 articles have been extended.
+42,751 (100.0%) of 42,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### AKD says Presidential manifesto, strong response to disinformation
+
+*2024-08-27 02:37:37* · [`dailyftlk`](https://www.ft.lk/news/AKD-says-Presidential-manifesto-strong-response-to-disinformation/56-766023) · `en`
+
+Says while rivals choose to spread false or distorted information NPP chose to respond with a strong manifesto
+
+Claims manifesto was developed through extensive discussions with stakeholders across 39 sectors over past two years
+
+Expresses NPP’s willingness to accept responsibility for revitalising the collapsed State
+
+Emphasises primary goal of program is to ensure a prosperous country and a beautiful life for all
+
+National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake officially unveiled the NPP’s Presidential election manifesto titled “A Prosperous Nation, A Beautiful Life” in Sri JayawardenepuraKotte yesterday.
+
+Addressing the gathering of NPP Executive Council members, professionals, academics, artists, and others, Dissanayake highlighted that the manifesto is the party’s response to disinformation disseminated by its political rivals.
+
+...
+
+[Data](articles/a7a8254f.json)
+
+---
 
 ### Cardinal defends judiciary amid Govt. criticism
 
@@ -47,6 +69,8 @@ Urges all parties to refrain from undermining the judiciary and protect it inste
 ...
 
 [Data](articles/bdf48b24.json)
+
+[Extended Data](ext_articles/bdf48b24.ext.json)
 
 ---
 
@@ -68,6 +92,8 @@ Industry experts, including World Bank Senior Digital Development Specialist Sid
 
 [Data](articles/27531a26.json)
 
+[Extended Data](ext_articles/27531a26.ext.json)
+
 ---
 
 ### Janaka Ratnayake pledges to reduce fuel prices
@@ -88,6 +114,8 @@ He highlighted his commitment to stabilising the prices of 20 essential items an
 
 [Data](articles/ae124425.json)
 
+[Extended Data](ext_articles/ae124425.ext.json)
+
 ---
 
 ### Australia’s United Petroleum top officials meet President to discuss expansion plans
@@ -106,6 +134,8 @@ Starting from 28 August, United Petroleum will begin operations with 150 filling
 
 [Data](articles/bb2d3bc3.json)
 
+[Extended Data](ext_articles/bb2d3bc3.ext.json)
+
 ---
 
 ### Sri Lanka’s Creative Green Map debuts on Saturday
@@ -120,6 +150,8 @@ The project is a co-creation of the EUNIC Cluster in Sri Lanka and Good Life X, 
 
 [Data](articles/d33a761e.json)
 
+[Extended Data](ext_articles/d33a761e.ext.json)
+
 ---
 
 ### Sri Lanka-Malaysia Business Council marks 30 years of excellence in bilateral relations
@@ -131,6 +163,24 @@ From left: Immediate past President Spillburg Holdings Managing Director M.H.K. 
 ...
 
 [Data](articles/964a06d1.json)
+
+[Extended Data](ext_articles/964a06d1.ext.json)
+
+---
+
+### ’உயரமாயின் காவலாளி குட்டையாயின் தொழிலாளி’
+
+*2024-08-27 01:14:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயரமாயின்-காவலாளி-குட்டையாயின்-தொழிலாளி/175-342834) · `ta`
+
+உயரம் என்றால் காவலாளி குட்டை என்றால் தொழிலாளி என்ற கொள்கைகளை என்ற கொள்கையைக் கொண்ட எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிடம் நாட்டை ஒப்படைத்தால் நாட்டின் எதிர்காலம் மற்றும் குழந்தைகளின் எதிர்காலம் குறித்து எதுவும் பேச முடியாது என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+இந்த தருணத்தில் நாட்டின் எதிர்காலத்தை ஒப்படைக்கக்கூடிய ஒரே தலைவர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவே என அமைச்சர் வலியுறுத்தியுள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றிக்காக கம்பஹா மாவட்டம் திவுலப்பிட்டி தொகுதியின் தேர்தல் செயற்பாட்டுக் காரியாலயத்தை திறந்து வைக்கும் நிகழ்வில் ஞாயிற்றுக்கிழமை (25) கலந்து கொண்ட போதே அமைச்சர் இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/f1bf6502.json)
 
 ---
 
@@ -2603,61 +2653,5 @@ A survey of last year's survey revealed that the Australians have done 281 hours
 [Data](articles/2d47fe13.json)
 
 [Extended Data](ext_articles/2d47fe13.ext.json)
-
----
-
-### Foreign lounches demand to control the import
-
-*2024-08-26 12:59:01* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ලොකු-ලූණු-ගෙන්විම-පාලනය-කරන්නැයි-ඉල්ලයි/11-411561) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Local farmers face challenges controlling salt harvesting and onion imports. Foreign launches demand control over imports. Farmers struggle to sell locally-grown produce due to competition from cheaper imports.
-
-🟩
-
-Dambulla Specialized Economic Center Chairmanship, if not controlled the local salt harvesting of the local large salt, is not difficult to control foreign countries.. Siriwardena said.
-
-If the importation of the local big onion is not able to reduce the importation of imports to big onions imported from foreign countries, he added.
-
-The local big onions grown in the Dambulla Wewalawewa area nearly three days ago.
-
-Despite such a situation, the farmers say that the local lands will not be paid for local world because they have a market of Rs. 120 and 230.
-
-SA Danapala, a large local largest locally grown cultivar in Galewela, said that he was more than twenty-five acres of small salt to the local big onions.He pointed out that it should be controlled by taxes for big salt and that tax concessions should be imposed on these days.
-
-He added that the cost of producing a kilogram of onions due to larger salt to cultivate large salt, he said.
-
-The sum was enough to protect the consumer and the farmer.
-
-...
-
-[Data](articles/6286b028.json)
-
-[Extended Data](ext_articles/6286b028.ext.json)
-
----
-
-### Sri Lanka Customs arrears of Rs57.7bn from state agencies
-
-*2024-08-26 12:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-arrears-of-rs57-7bn-from-state-agencies-178055/) · `en`
-
-ECONOMYNEXT – Out of 58.6 billion rupees of uncollected revenues of Sri Lanka Customs, 57.7 billion rupees related to state agencies, Chief Financial Officer M A Muthukude said.
-
-The arrears came due to various facilities given to state agencies to clear goods at in past year, he told reporters in Colombo.
-
-Out of 38 parties that from whom uncollected taxes were due, 37 were state agencies.
-
-The state agencies were given various accommodations to release goods and the money was now owned to various ministries.
-
-Even for the state agencies to pay the taxes, the Treasury will probably have to make an allocation to the relevant ministry to pay the customs charge and the likelihood of the Treasury getting any net revenue was low, Muthukuke said.  (Colombo/Aug26/2024)
-
-◼️
-
-[Data](articles/0d744157.json)
-
-[Extended Data](ext_articles/0d744157.ext.json)
 
 ---

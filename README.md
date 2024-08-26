@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 15:56:06**
+As of **2024-08-26 16:09:52**
 
 ## Newspaper Stats
 
-*Scraped **42,672** Articles*
+*Scraped **42,674** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,935
 dailymirrorlk | 4,733
-adaderanalk | 5,016
-tamilmirrorlk | 5,552
+adaderanalk | 5,017
+tamilmirrorlk | 5,553
 virakesarilk | 6,771
 adaderanasinhalalk | 7,309
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 7,309
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,669 (100.0%) of 42,672 articles have been extended.
+42,672 (100.0%) of 42,674 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### நீராட சென்றவர் மாயம்
+
+*2024-08-26 15:52:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீராட-சென்றவர்-மாயம்/175-342802) · `ta`
+
+மாரவில சிலுவை தேவாலயத்திற்கு அருகிலுள்ள கடலில் இளைஞர்கள் குழுவுடன் நீராடச் சென்ற 19 வயதுடைய இளைஞர் ஒருவர் அலையில் அடித்துச் செல்லப்பட்டு காணாமல் போயுள்ளதாக மாரவில பொலிஸார் தெரிவித்துள்ளனர்.
+
+இலேப்புகமுவ, வெலிபன்னாகஹமுல்ல, கந்தேவத்த பகுதியைச் சேர்ந்த தருண் சந்தீப திஸாநாயக்க என்ற 19 வயதுடைய இளைஞனே காணாமல்  போயுள்ளார்.
+
+குளியாபிட்டிய பிரதேசத்தில் உள்ள தனியார் நிறுவனமொன்றில் பாடநெறியை முடித்துவிட்டு நண்பர்கள் குழுவுடன் கடலில் நீராடச் சென்ற போதே அவர் காணாமல் போயுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/27058669.json)
+
+---
+
+### Two passengers arrested with smuggled goods worth Rs. 40 million at BIA
+
+*2024-08-26 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101519/two-passengers-arrested-with-smuggled-goods-worth-rs-40-million-at-bia) · `en`
+
+Two passengers who arrived from India and were in possession of goods, valued at around Rs. 40 million, which were illegally smuggled into the country have been arrested at the Bandaranaike International Airport (BIA) in Katunayake this morning (26).
+
+A team of officers from the Criminal Investigation Department (CID) at the airport has seized these goods which included foreign liquor, various types of cigarettes, creams, vehicle spare parts, and surgical scissors.
+
+The arrested suspects are residents of the Grandpass area and the illegally smuggled goods along with the two arrestees have been handed over to the Sri Lanka Customs for further investigation.
+
+◼️
+
+[Data](articles/e2e527ad.json)
+
+---
 
 ### ‘Those who violate election laws cannot be trusted to govern the country’ - Catholic Bishops’ Conference
 
@@ -48,41 +80,63 @@ Thus, the Catholic Bishops’ Conference in Sri Lanka calls on all registered vo
 
 [Data](articles/0c034dfb.json)
 
+[Extended Data](ext_articles/0c034dfb.ext.json)
+
 ---
 
-### ඉන්දීය යුද නෞකාවක් කොළඹට
+### Indian war vessel to Colombo
 
 *2024-08-26 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200350) · `si`
 
-ඉන්දීය නාවික හමුදාවට අයත් ‘INS Mumbai’ යුද නෞකාව නිල සංචාරයක් සඳහා අද (26) පෙරවරුවේ කොළඹ වරායට සේන්දු විය.
+Here's a summary of 200 characters:
 
-වේගවත් යුද නෞකාවක් (Destroyer වර්ගයට අයත්)  වන මෙය දිගින් මීටර් 163කි. එමෙන්ම කාර්යය මණ්ඩලය 410 දෙනෙකුගෙන් සමන්විත වේ.
 
-මෙම යුද නෞකාව මෙරට රැඳී සිටින කාලසීමාව තුළ එහි කාර්යය මණ්ඩලය මෙරට ප්‍රධාන ස්ථාන කිහිපයක සංචාරය කිරීමටද නියමිතය.
 
-ඊට අමතරව බටහිර නාවික විධාන මුහුදු තීරයේදී ශ්‍රී ලංකා නාවික හමුදා නෞකාවක් සමඟ පුහුණු අභ්‍යාසයක්ද පවත්වා මේ මස 29 වැනිදා දිවයිනෙන් පිටත්ව යන බව ශ්‍රී ලංකා නාවික හමුදාව සඳහන් කරයි.
+Indian Navy INS Mumbai arrives in Colombo for official visit. 163m long, 410 crew members. To visit major sites during stay. Sri Lanka Navy conducting training exercise on 29th.
+
+🟩
+
+The Indian Navy's Ins Mumbai's Troops arrived at the Port of Colombo this morning for an official visit this morning.
+
+It is 163 meters long in length. The crew consists of 410.
+
+The war is to visit several major sites in the country during the period of the country.
+
+The Sri Lanka Navy states that the Sri Lanka Navy has been leaving a training exercise on the 29th of this month at the Western naval ship.
 
 ◼️
 
 [Data](articles/c40c3ce9.json)
 
+[Extended Data](ext_articles/c40c3ce9.ext.json)
+
 ---
 
-### අනුරගේ පෝස්ටර් ඇලවූ දෙදෙනෙක්ට අධිකරණයෙන් දඩ
+### Two persons slipped from the courts of Anura's posters
 
 *2024-08-26 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200349) · `si`
 
-ජාතික ජන බලවේගයේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ පෝස්ටර් ඇලවීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන වරද පිළිගත් පුද්ගලයින් දෙදෙනෙකුට කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින්  රුපියල් 1500/- බැගින් දඩ නියම කළේය.
+Here's a summary of the text in 200 characters:
 
-කුරුඳුවත්ත පොලීසිය මඟින් අත්අඩංගුවට ගත් මෙම සැකකරුවන් දෙදෙනා අද (26) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා හමුවට පමුණුවනු ලැබීය.
 
-පොලීසිය සඳහන් කළේ, මෙම සැකකරුවන් දෙදෙනා ජනාධිපතිවරණ නීතිරීති උල්ලංඝනය කරමින් තම පොලිස් වසම තුළ අනුර කුමාර දිසානායක මහතාගේ පෝස්ටර් අලවමින් සිටියදී අත්අඩංගුවට ගත් බවය.
 
-අදාළ චෝදනාවලට සැකකරුවන් වරද පිළිගැනීමෙන් අනතුරුව ඔවුන්ට මහෙස්ත්‍රාත්වරයා විසින් දඩ නියම කරනු ලැබීය.
+Two persons arrested for illegal posters in Colombo. Fined by Magistrate after being caught by police. Incident occurred on 26th day.
+
+🟩
+
+The Colombo Magistrate's Court fined Rs.
+
+The two suspects were arrested by the Cinnamon Gamage Police today (26).
+
+Police said that the two suspects were arrested while parking the posters of the police three police divisions.
+
+After receiving the wrongdoing, the suspects were fined by the Magistrate.
 
 ◼️
 
 [Data](articles/434c8b09.json)
+
+[Extended Data](ext_articles/434c8b09.ext.json)
 
 ---
 
@@ -2369,37 +2423,5 @@ Handing out roofing sheets used to be a thing in Sri Lankan elections. It was th
 [Data](articles/f1ba5d1a.json)
 
 [Extended Data](ext_articles/f1ba5d1a.ext.json)
-
----
-
-### Presidential hopefuls should give top priority to make Sri Lanka a creative nation – Part III
-
-*2024-08-25 23:25:23* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-hopefuls-should-give-top-priority-to-make-Sri-Lanka-a-creative-nation-Part-III/4-765954) · `en`
-
-New research by Sri Lanka’s universities and research institutions should cover research in all the three major sectors of the economy, agriculture, industry and services – Pic by Shehan Gunasekara
-
-A country interested in creating a creative economy should put all the four essential ground conditions in place if it is to succeed in its attempt. First, knowledge must be created by its universities and research institutions. Then, such knowledge should be made available to prospective entrepreneurs for use in commercially viable productions known as innovation. Once the initial entrepreneurs become successful, that knowledge, both invention and innovation, should be disseminated or diffused across the economy to facilitate others to imitate the original inventors and innovators
-
-...
-
-[Data](articles/67540d45.json)
-
-[Extended Data](ext_articles/67540d45.ext.json)
-
----
-
-### Game-changing role of a digital economy strategy in Sri Lanka’s 2024 Presidential election
-
-*2024-08-25 23:10:49* · [`dailyftlk`](https://www.ft.lk/columns/Game-changing-role-of-a-digital-economy-strategy-in-Sri-Lanka-s-2024-Presidential-election/4-765953) · `en`
-
-A comprehensive digital economy strategy could encompass initiatives aimed at enhancing digital infrastructure, fostering innovation, and supporting startups
-
-As Sri Lanka approaches the 2024 Presidential election, the digital economy is poised to be a critical issue that could sway voters and shape the country’s future. A clear and well-communicated digital economy strategy offers the promise of economic revitalisation, youth engagement, digital inclusion, better governance, and foreign investment. Candidates who prioritise this issue will likely find themselves resonating with a wide range of voters, from young entrepreneurs to rural residents seeking better opportunities
-
-...
-
-[Data](articles/d984f525.json)
-
-[Extended Data](ext_articles/d984f525.ext.json)
 
 ---

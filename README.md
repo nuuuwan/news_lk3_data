@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 21:10:49**
+As of **2024-08-26 21:37:15**
 
 ## Newspaper Stats
 
-*Scraped **42,712** Articles*
+*Scraped **42,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ colombotelegraphcom | 409
 islandlk | 2,489
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,942
+adalk | 3,943
 dailymirrorlk | 4,733
 adaderanalk | 5,024
 tamilmirrorlk | 5,560
 virakesarilk | 6,781
-adaderanasinhalalk | 7,314
+adaderanasinhalalk | 7,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,712 (100.0%) of 42,712 articles have been extended.
+42,714 (100.0%) of 42,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### Rs. 20,000 per month for a poor family - Sajith
+
+*2024-08-26 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200356) · `si`
+
+Sajith Premadasa proposes Rs. 20,000 monthly stipend for poor families to combat poverty within 24 months.
+
+🟩
+
+Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, Samajith Premadasa, said.
+
+Speaking further the opposition leader of the Opposition Leader Sajith Premadasa,
+
+"I'd like a special announcement. Hundreds of thousands of people in this country are poorest. We will bring a good life for the poor and relief to the poor people who live in the rich people who live a living.. A poor family will be given Rs. 20,000 per month. A program to eliminate poverty within 24 months. Poverty should be lost through consumption, investment, balance, production and exports. No one wants to stay in poverty. A people who want to live in our country. These concessions are based on the woman. Strengthens Kantale Sugar Factory. Let the Sembila beat it for the advancement of the area!
+
+◼️
+
+[Data](articles/5aa16ca3.json)
+
+[Extended Data](ext_articles/5aa16ca3.ext.json)
+
+---
 
 ### The campaign meeting that disappointed Fonseka
 
@@ -453,6 +475,30 @@ The Commanding Officers of the trio of Chinese People’s Liberation Army Navy w
 [Data](articles/cc8e31cb.json)
 
 [Extended Data](ext_articles/cc8e31cb.ext.json)
+
+---
+
+### Colombo wrote an Indian war ship
+
+*2024-08-26 17:32:03* · [`adalk`](https://www.ada.lk/uncategorized/ඉන්දීය-යුද-නැවක්-කොළඹ-වරයාට/1-411569) · `si`
+
+Indian Navy destroyer INS Mumbai visits Colombo port for official tour. Ship measures 163 meters long, commanded by Captain Sandeep Kumar. Scheduled to visit several areas, conduct training exercises with Sri Lanka Navy. Leaves August 29, 2024.
+
+🟩
+
+The Indian Navy's Ins Mumbai arrivals arrived at the Port of Colombo on an official visit.
+
+The Destroyer of the Destroyer, which arrived at the Colombo port, consists of one hundred sixty-three meters (410) and shipping (410). Commander of the ship, Captain Sandeep Kumar (Captain Sandeep Kumar) and Commander of the Western Naval Command Rear Admiral Chinthaka Kumarasinghe was held at the commander (August 26, 204).
+
+The 'Ins Mumbai' war drive is to visit several areas on the time of staying in the country, and the ship's shipping is scheduled to visit Sri Lanka Navy personnel on operational operation.
+
+The 'Ins Member ship' (PASS MUMBBAI) is due to leave the island on August 29, 2024 after the Sri Lanka Navy ship with a training exercise in the Western naval ship.
+
+◼️
+
+[Data](articles/00c982d0.json)
+
+[Extended Data](ext_articles/00c982d0.ext.json)
 
 ---
 
@@ -2577,51 +2623,5 @@ As a Sri Lankan, I assumed the presidency to defend the country. Is it wrong?I f
 [Data](articles/0f160b35.json)
 
 [Extended Data](ext_articles/0f160b35.ext.json)
-
----
-
-### 2024 Presidential Election: Postal Dept. to receive postal vote ballot papers today
-
-*2024-08-26 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101500/2024-presidential-election-postal-dept-to-receive-postal-vote-ballot-papers-today) · `en`
-
-The Postal Department will today (26) receive the reserved packet containing the registered postal vote ballot papers to be distributed to the postal voters of the 2024 presidential election.
-
-Meanwhile, distribution of official polling cards for the forthcoming Presidential Election will commence on September 03, while September 08 (Sunday) has been designated as a special day for polling card distribution.
-
-In the meantime, Deputy Postmaster General Rajitha Ranasinghe had announced yesterday (25) that the leave of all employees of the Department of Posts have been cancelled with immediate effect until the conclusion of the 2024 Presidential Election.
-
-The decision was made to ensure that all election-related responsibilities are adequately managed, he said.
-
-However, any postal worker requiring leave for essential reasons would have to obtain permission from the Deputy Postmaster General in charge of their province, he added.
-
-...
-
-[Data](articles/759c19f4.json)
-
-[Extended Data](ext_articles/759c19f4.ext.json)
-
----
-
-### Yall. Police officer assaulting public
-
-*2024-08-26 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191975) · `ta`
-
-Police officer sacked for assaulting civilian while on duty at liquor bar. Officer attempted bribery and attack on public. Victim filed complaint, officer arrested and released on bail.
-
-🟩
-
-A police officer who was on duty at a liquor bar has been sacked after he assaulted a civilian.
-
-A police officer of Kayts was on duty in the area on Saturday night (24) night.. In the meantime, he tried to bribe the public who went by the road and attacked him.
-
-The victim had lodged a complaint at the Kayts police station. The police officer was arrested by the Kayts police and produced in court.
-
-In this case, the police officer had given permission to go to two bail of one million rupees each. It is also noteworthy that he has been fired.
-
-◼️
-
-[Data](articles/5e4ab919.json)
-
-[Extended Data](ext_articles/5e4ab919.ext.json)
 
 ---

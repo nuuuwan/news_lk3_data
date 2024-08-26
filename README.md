@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 16:54:34**
+As of **2024-08-26 17:06:57**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,311
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,681 (100.0%) of 42,684 articles have been extended.
+42,684 (100.0%) of 42,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### කොරියාවේ ධීවර රැකියා සඳහා ශ්‍රී ලංකික කාන්තාවන්ට අවස්ථාව
+### Sri Lankan women for Sri Lankan women for Korea fishing jobs
 
 *2024-08-26 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200352) · `si`
 
-දකුණු කොරියාවේ ධිවර අංශයේ රැකියා සඳහා ලංකාවේ කාන්තාවන්ටත් මේවන විට අවස්ථාව හිමිව තිබේ.
+Sri Lankan women employed in South Korea's Fisheries Division through MoUs between SL, SK, and UM governments.
 
-නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කළේ, ඊයේ (25) දිනයේ දී ධීවර අංශයේ රැකියා අවස්ථාව හිමිවූ 120 දෙනෙකුගෙන් සමන්විත කණ්ඩායමක් කොරියාව බලා පිටත්ව ගිය බවය.
+🟩
 
-එම පිරිසට කාන්තාවන් තිදෙනෙකු ද ඇතුළත්ව ඇති අතර, දකුණු කොරියානු රජය හා ශ්‍රී ලංකා රජය අතර ඇති කරගත් අවබෝධතා ගිවිසුමට අනුව මෙම රැකියා අවස්ථාව ශ්‍රී ලංකාවට ලැබී ඇත.
+Women in Sri Lanka are now available for employment in the Fisheries Division in South Korea.
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය මෙම වැඩසටහන ක්‍රියාත්මක කරයි.
+The Sri Lanka Foreign Employment Bureau has left for Korea yesterday (25).
+
+They have included three women, according to the MoUs with the UM, the South Korean government and the Government of Sri Lanka.
+
+The Sri Lanka Bureau of Foreign Employment has implemented this program.
 
 ◼️
 
 [Data](articles/567847b0.json)
+
+[Extended Data](ext_articles/567847b0.ext.json)
 
 ---
 
@@ -91,6 +97,8 @@ Following an invitation by the Election Commission of Sri Lanka, the European Un
 ...
 
 [Data](articles/44da00a5.json)
+
+[Extended Data](ext_articles/44da00a5.ext.json)
 
 ---
 
@@ -143,6 +151,8 @@ Police said they made 90 arrests on Sunday, including 10 people who were detaine
 ◼️
 
 [Data](articles/e8277d32.json)
+
+[Extended Data](ext_articles/e8277d32.ext.json)
 
 ---
 

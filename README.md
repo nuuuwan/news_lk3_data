@@ -1,48 +1,140 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 12:22:02**
+As of **2024-08-26 12:37:10**
 
 ## Newspaper Stats
 
-*Scraped **42,637** Articles*
+*Scraped **42,643** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 358
 newsfirstlk | 363
-bbccomsinhala | 393
+bbccomsinhala | 394
 colombotelegraphcom | 407
 islandlk | 2,483
 economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,930
 dailymirrorlk | 4,733
-adaderanalk | 5,010
+adaderanalk | 5,012
 tamilmirrorlk | 5,550
-virakesarilk | 6,766
-adaderanasinhalalk | 7,300
+virakesarilk | 6,768
+adaderanasinhalalk | 7,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,634 (100.0%) of 42,637 articles have been extended.
+42,637 (100.0%) of 42,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### පාකිස්තානයේ ප්‍රබල ත්‍රස්ත ප්‍රහාරයක්
+### Australian employees now have the right to ignore work emails, calls after hours
+
+*2024-08-26 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101513/australian-employees-now-have-the-right-to-ignore-work-emails-calls-after-hours) · `en`
+
+Australian employees can now ignore work emails and calls thanks to a new “right to disconnect” law designed to curb those and other intrusions into personal lives.
+
+The new rule, which came into force on Monday, means employees, in most cases, cannot be punished for refusing to read or respond to contacts from their employers outside work hours.
+
+Supporters say the law gives workers the confidence to stand up against the steady invasion of their personal lives by work emails, texts and calls, a trend that has accelerated since the COVID-19 pandemic scrambled the division between home and work.
+
+“Before we had digital technology there was no encroachment, people would go home at the end of a shift and there would be no contact until they returned the following day,” said John Hopkins, an associate professor at Swinburne University of Technology.
+
+“Now, globally it’s the norm to have emails, SMS, phone calls outside those hours, even when on holiday.”
+
+...
+
+[Data](articles/15bd97ce.json)
+
+---
+
+### දියේ ගිලී අතුරුදන් වූ මවගේ සහ පුතුගේ සිරුරු හමුවෙයි
+
+*2024-08-26 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200342) · `si`
+
+දැදුරු ඔයේ දියනෑමට ගොස් ගිලි අතුරුදන් වූ මවගේ සහ බාල පුතුගේ සිරුරු හමුවී තිබේ.
+
+ඊයේ (25) දහවල් කාලයේ දී බෝගමුව ප්‍රදේශයෙන් දැදුරු ඔයේ දිය නෑමට ගිය එකම පවුලේ මවක් සහ දරුවන් දෙදෙනෙකු දියේ ගිලී අතුරුදන් විය.
+
+ඊයේ සවස් කාලය වන විට ඉන් එක් දරුවෙකුගේ සිරුර සොයාගෙන තිබු අතර මව සහ අනෙක් දරුවා සොයා මෙහෙයුම් ක්‍රියාත්මක විය.
+
+පොලීසිය පැවසුවේ අද අලුයම් කාලයේ දී දියේ ගිලී අතුරුදන්ව සිටි මව සහ අනෙක් දරුවා ගේ සිරුරු සොයාගෙන ඇති බවයි.
+
+මෙලෙස මියගොස් ඇත්තේ පේරගහවත්ත ප්‍රදේශයේ පදිංචි ව සිටි 36 හැවිරිදි මවක් සහ ඇගේ 9 හැවිරිදි සහ 5 හැවිරිදි පිරිමි දරුවන් දෙදෙනාය.
+
+◼️
+
+[Data](articles/f4d36bc6.json)
+
+---
+
+### Gunmen kill 23 passengers taken from vehicles in an attack in southwest Pakistan
+
+*2024-08-26 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101511/gunmen-kill-23-passengers-taken-from-vehicles-in-an-attack-in-southwest-pakistan) · `en`
+
+Gunmen fatally shot 23 passengers after identifying them and taking them from buses, vehicles and trucks in one of the deadliest attacks in restive southwestern Pakistan, police and officials said Monday.
+
+The killings occurred overnight in Musakhail, a district in Baluchistan province, senior police official Ayub Achakzai said. The attackers burned at least 10 vehicles before fleeing the scene.
+
+President Asif Ali Zardari and Interior Minister Mohsin Naqvi in separate statements called the attack “barbaric” and vowed that those who were behind it would not escape justice.
+
+The attack came hours after the outlawed Baluch Liberation Army separatist group warned people to stay away from the highways, but there was no immediate claim of responsibility.
+
+The separatists in Baluchistan have often killed workers and others from the country’s eastern Punjab region as part of a campaign to force them to leave the province, which for years has experienced a low-level insurgency.
+
+...
+
+[Data](articles/b645b5ea.json)
+
+---
+
+### ஐஸ்லாந்தில் பனிப்பாறை இடிந்து வீழ்ந்து ஒருவர் பலி ; இருவர்  மாயம்
+
+*2024-08-26 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191994) · `ta`
+
+தென்கிழக்கு ஐஸ்லாந்தில் பனிப்பாறை சரிந்து வீழ்ந்ததில் சுற்றுலா சென்றவர்களில் ஒருவர் உயிரிழந்துள்ளதுடன் இருவர் காணாமல் போயுள்ள நிலையில் மற்றுமொருவர் காயமடைந்துள்ளார்.
+
+தென்கிழக்கு ஐஸ்லாந்திலுள்ள ப்ரீடாமெர்குர்ஜோகுல் பனிப்பாறை பகுதிக்கு ஞாயிற்றுக்கிழமை (25)  சுற்றுலா வழிகாட்டியுடன் 25 பேர் கொண்ட குழுவினர்  சென்றுள்ளனர்.
+
+ஐரோப்பாவின் மிகப் பெரிய தேசிய பூங்காக்களில் ஒன்றான சுமார் 5,460 சதுர மைல் பரப்பளவில் பரந்து விரிந்துள்ள வட்னஜோகுல் தேசிய பூங்காவின் ஒரு பகுதியாக இந்த பனிப்பாறை உள்ளது.
+
+அவர்கள் பனிப்பாறையில் உள்ள பனி குகைகள் மற்றும் பள்ளத்தாக்குகளை ஆராய்ந்து கொண்டிருந்த போது பனிப்பாறை சரிந்து வீழ்ந்துள்ளது.
+
+பனிப்பாறை சரிந்து வீழ்ந்ததில் 4 பேர் பாதிக்கப்பட்டுள்ளதோடு,  அவர்களில் இருவர் மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+அவர்களில் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதோடு, மற்றுமொருவர் ஐஸ்லாந்தின் தேசிய பல்கலைக்கழக வைத்தியசாலையான லேண்ட்ஸ்பிடலின்னுக்கு விமானத்தில் கொண்டு செல்லப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/6d30213e.json)
+
+---
+
+### Pakistan's powerful terrorist attack
 
 *2024-08-26 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200341) · `si`
 
-නිරිතදිග පාකිස්තානයේ මගී බස්රථ ඉලක්ක කර එල්ලකළ ත්‍රස්ත ප්‍රහාරයකින් විශාල පිරිසක් මියගොස් ඇති බව වාර්තා වෙයි.
+Here's a summary of the text in 200 characters:
 
-එරට අභ්‍යන්තර කටයුතු පිළිබඳ අමාත්‍යවරයා එම ප්‍රහාරය සම්බන්ධයෙන් තොරතුරු අනාවරණය කර තිබුණි.
+
+
+Pakistan: Terrorist attack in southwest kills many terrorists. Minister reveals details about the attack.
+
+🟩
+
+A large number of terrorists were killed in a terrorist attack targeting the southwestern Pakistan.
+
+The Minister of Internal Affairs had revealed information about the attack.
 
 ◼️
 
 [Data](articles/f15427fd.json)
+
+[Extended Data](ext_articles/f15427fd.ext.json)
 
 ---
 
@@ -63,6 +155,8 @@ With a total investment of Rs. 2,400 million, this subsidy program is fully fund
 ◼️
 
 [Data](articles/e8130401.json)
+
+[Extended Data](ext_articles/e8130401.ext.json)
 
 ---
 
@@ -105,6 +199,26 @@ Meanwhile, the announcement related to the accepting of nominations has been pub
 ◼️
 
 [Data](articles/c76f9b3a.json)
+
+[Extended Data](ext_articles/c76f9b3a.ext.json)
+
+---
+
+### இஸ்ரேல் மீதான தாக்குதல் எதிர்பார்த்தளவு வெற்றியளிக்காவிட்டால்  மீண்டும் தாக்குவோம் - ஹெஸ்புல்லா அமைப்பின் தலைவர்
+
+*2024-08-26 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191996) · `ta`
+
+இஸ்ரேல் மீது நாங்கள் மேற்கொண்ட தாக்குதல் எதிர்பார்த்த அளவிற்கு வெற்றியளிக்கவில்லை என்றால் மீண்டுமொரு முறை தாக்குதலை மேற்கொள்வோம் என ஹெஸ்புல்லா அமைப்பின் தலைவர்
+
+தாக்குதலினால் ஏற்பட்டுள்ள சேதங்கள் பாதிப்புகள் குறித்து மதிப்பீடுகளை மேற்கொள்வோம்,எதிர்பார்த்த சேதங்கள் பாதிப்புகள் ஏற்படவில்லை என்றால் மீண்டுமொரு முறை தாக்குதலை மேற்கொள்வோம் என ஹசன் நசரல்லா தெரிவித்துள்ளார்.
+
+எங்கள்  அமைப்பின் இராணுவநடவடிக்கை திட்டமிட்டபடி துல்லியமாக முன்னெடுக்கப்பட்டுள்ளது என தெரிவித்துள்ள அவர் இஸ்ரேலிற்குள் 110 கிலோமீற்றர் உள்ளே உள்ள இஸ்ரேலின் புலனாய்வு பிரிவினரின்  உட்கட்டமைப்புகளை இலக்குவைத்தோம் என  அவர் குறிப்பிட்டுள்ளார்.
+
+எங்கள் சிரேஸ்ட தளபதியை இஸ்ரேல் கொலை செய்தமைக்கு பழிவாங்குவதற்காக பொதுமக்கள் வாழும் பகுதிகளை இலக்குவைக்க நாங்கள் விரும்பவில்லை. என தெரிவித்துள்ள ஹெஸ்புல்லா அமைப்பின் தலைவர் இஸ்ரேலின் உட்கட்டமைப்பை இலக்குவைக்க விரும்பவில்லை எனவும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c0d3ad88.json)
 
 ---
 
@@ -1124,6 +1238,30 @@ The Department of Meteorology has informed the people to take steps to take nece
 
 ---
 
+### රනිල්, සජිත්, අනුර සහ නාමල් ගැන ඔබ මෙම තොරතුරු දැන සිටියා ද?
+
+*2024-08-26 06:14:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cr7r0m9ykjgo) · `si`
+
+රනිල්, සජිත්, අනුර සහ නාමල් ගැන ඔබ මෙම තොරතුරු දැන සිටියා ද?
+
+ශ්‍රී ලංකාවේ තීරණාත්මක ම මැතිවරණය - මෙරට 9 වන විධායක ජනාධිපතිවරයා තෝරා පත් කර ගැනීම වෙනුවෙන් පැවැත්වෙන ඡන්ද විමසීම සඳහා තවත් ඇත්තේ කෙටි කාලයකි.
+
+අගෝස්තු 14 වන බදාදා මධ්‍යහන 12:00ට ජනාධිපතිවරණ අපේක්ෂක ඇප තැන්පත් කිරීම අවසන් වුණු අතර මැතිවරණ කොමිෂන් සභාව නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ, අගෝස්තු 14 වන දා වන විට අපේක්ෂකයින් 40 දෙනෙකුගෙන් ඇප මුදල් ලැබී තිබුණු බව ය.
+
+කෙසේ වෙතත්, අගෝස්තු 15 බ්‍රහස්පතින්දා නාම යෝජනා භාර දී තිබුණේ, ඒ අතරින් අපේක්ෂකයින් 39 දෙනෙකු පමණි.
+
+ඔවුන් අතරින් එක් අපේක්ෂකයෙකු අගෝස්තු 22 වන දා රාත්‍රියේ ජීවිතක්ෂයට පත් වූ අතර, ඒත් සමග අපේක්ෂකයින් ගණන 38ක් දක්වා පහළ ගියේ ය.
+
+මැතිවරණ කොමිෂන් සභාවට අනුව, එම අපේක්ෂකයින් අතර භික්ෂූන් වහන්සේලා දෙනමක් ද සිටිති. කිසිදු කාන්තාවක මෙවර ජනාධිපතිවරණය සඳහා ඉදිරිපත් වී නොමැත.
+
+මේ, 2024 ජනාධිපතිවරණයේ කැපී පෙනෙන අපේක්ෂකයින් සිව් දෙනෙකුගේ තොරතුරු පිළිබඳව සිදු කෙරෙන විමසා බැලීමකි.
+
+...
+
+[Data](articles/b04a6189.json)
+
+---
+
 ### Rain in the Eastern and Uva provinces
 
 *2024-08-26 06:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கு-ஊவா-மாகாணங்களில்-மழை/175-342762) · `ta`
@@ -2129,115 +2267,5 @@ As usual, the first rally would have been held at the Salkadu Ground if the PA h
 [Data](articles/755cec17.json)
 
 [Extended Data](ext_articles/755cec17.ext.json)
-
----
-
-### The responsibility of moving to the next stage
-
-*2024-08-25 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191949) · `ta`
-
-UN Human Rights Commissioner urges removal of accused officers from government positions, calls for evacuation of transitional justice processes and legal proceedings.
-
-🟩
-
-The UN Human Rights Commissioner has urged the accused officers to be removed from government positions, the evacuation of transitional justice and legal proceedings and investigations should be carried out against them.
-
-◼️
-
-[Data](articles/0897fef6.json)
-
-[Extended Data](ext_articles/0897fef6.ext.json)
-
----
-
-### Is Thailand's new Prime Minister to survive?
-
-*2024-08-25 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191950) · `ta`
-
-Thailand's new PM survival uncertain due to royal influence and military control. Complex politics hinder clear predictions.
-
-🟩
-
-It is very difficult to understand the politics of Thailand. Nothing happens in that country without the recognition of the royal family. Besides, the military's indirect hand is full of removal.
-
-◼️
-
-[Data](articles/b2692e3e.json)
-
-[Extended Data](ext_articles/b2692e3e.ext.json)
-
----
-
-### Where does this route go?
-
-*2024-08-25 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191946) · `ta`
-
-Parliamentarian Alisahir Maulana supports Tam Ranil. Haris Sajith avoids propaganda platforms. Rauf Hakeem suspects Haris party support for Ranil. Haris suspended over party decision.
-
-🟩
-
-Parliamentarian Alisahir Maulana has announced that he will support Tam Ranil. Parliamentarian Haris Sajith avoids propaganda platforms. Rauf Hakeem has raised the suspicion that Ranil will be supported by the Haris party's decision at any time. As a result, Haris has been suspended to temporarily remove Haris from the party and declare his position within a week.
-
-◼️
-
-[Data](articles/aedb831d.json)
-
-[Extended Data](ext_articles/aedb831d.ext.json)
-
----
-
-### Selfishness in Foreign Self -Lying: The reality of the relationship between India and Bangladesh
-
-*2024-08-25 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191939) · `ta`
-
-India-Bangladesh relations: Hasina's journey from refugee to PM
-
-🟩
-
-The relationship between India and Hasina is deep. Hasina and her sister sought refuge in India after Sheikh Mujibur Rahman, the founder of Bangladesh, was killed in a military coup in 1975. Later, Hasina returned Bangladesh and fought the democratic struggle. Subsequently, he served as Prime Minister from 1996 to 2001. Hasina had the opportunity to become prime minister again in 2009
-
-◼️
-
-[Data](articles/4646c8eb.json)
-
-[Extended Data](ext_articles/4646c8eb.ext.json)
-
----
-
-### Ranil in Rajapaksa style
-
-*2024-08-25 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191937) · `ta`
-
-Ranil Wickremesinghe's presidency focuses on economic growth, addressing common issues like currency value, commodity prices, and wage increases.
-
-🟩
-
-Ranil Wickremesinghe has taken steps to showcase economic improvements during his tenure as president. He is concerned about solving the economic concerns of ordinary people, such as the dollar value, the cost of commodity, and the increase in salary.
-
-◼️
-
-[Data](articles/83b3cdda.json)
-
-[Extended Data](ext_articles/83b3cdda.ext.json)
-
----
-
-### The prices of electricity, fuel and food have been completed
-
-*2024-08-25 18:24:51* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබිල--ඉන්ධන-හා-ආහාර-මිල-අඩු-කිරීමට-සැලසුම්-කර-අවසන්/11-411547) · `si`
-
-UNP leader Anura Kumara Dissanayake proposes reducing electricity, fuel, and food prices. Plans include lowering electricity bills by a third and providing economic relief through programs.
-
-🟩
-
-Leader of the UNP leader Anura Kumara Dissanayake said that plans to reduce the prices of electricity, fuel and food and a government of the national popularity will be reduced by the government's presidency.. Dissanayake said the electricity bill could be reduced by a third. He further said that a program to provide relief to the people to build the economy to build its benefits to the public.
-
-He was speaking at the National Women's Convention in the National Women's Convention in Colombo yesterday (25th). Speaking more
-
-...
-
-[Data](articles/564cc86a.json)
-
-[Extended Data](ext_articles/564cc86a.ext.json)
 
 ---

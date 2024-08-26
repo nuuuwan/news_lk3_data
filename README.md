@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 05:21:32**
+As of **2024-08-26 05:40:01**
 
 ## Newspaper Stats
 
-*Scraped **42,573** Articles*
+*Scraped **42,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 392
 colombotelegraphcom | 407
-islandlk | 2,473
+islandlk | 2,475
 economynextcom | 2,572
 dailyftlk | 2,769
 adalk | 3,924
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,573 (100.0%) of 42,573 articles have been extended.
+42,573 (100.0%) of 42,575 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,34 @@ The exercise helps in building proficiency in tackling transnational terrorism, 
 [Data](articles/91fd2f1d.json)
 
 [Extended Data](ext_articles/91fd2f1d.ext.json)
+
+---
+
+### Ericsson signs MoU with two partners to enhance occupational safety standards
+
+*2024-08-26 03:37:00* · [`islandlk`](http://island.lk/ericsson-signs-mou-with-two-partners-to-enhance-occupational-safety-standards/) · `en`
+
+Ericsson, a global leader in telecommunications technology and services, recently signed a Memorandum of Understanding (MoU) with the National Institute of Occupational Safety and Health (NIOSH) Sri Lanka and Industrial Safety (Pvt) Ltd. This strategic partnership aims to elevate occupational safety standards and foster a safer working environment across Sri Lanka.
+
+This collaboration underscores Ericsson’s commitment to leveraging its technological expertise to support and enhance occupational safety measures in Sri Lanka.
+
+Amitabh Pandey, Managing Director & President – Ericsson Sri Lanka & Maldives said, “We are delighted to collaborate with NIOSH and Industrial Safety (Pvt) Ltd to enhance occupational safety standards in Sri Lanka. This MoU represents a significant step towards creating safer work environments through the integration of advanced technology and comprehensive training programs.”
+
+...
+
+[Data](articles/51985ea2.json)
+
+---
+
+### Assetline Finance Limited opens its 57th Branch, in Wellawatte
+
+*2024-08-26 03:34:00* · [`islandlk`](http://island.lk/assetline-finance-limited-opens-its-57th-branch-in-wellawatte/) · `en`
+
+Assetline Finance Limited (AFL), a fully owned subsidiary of David Pieris Holdings marked yet another milestone by opening its 57th branch in the Wellawatte. Located at No. 250, Galle Road, Colombo 06, the new branch joins the existing AFL branches in Avissawella, Battaramulla, Borella, Maligawatte, Piliyandala and Nugegoda, becoming the seventh branch opened to serve customers within the Colombo District.
+
+...
+
+[Data](articles/16e9a6c5.json)
 
 ---
 
@@ -2235,49 +2263,5 @@ Her parents, her parents were present at the Bandaranaike International Airport.
 [Data](articles/4603ee67.json)
 
 [Extended Data](ext_articles/4603ee67.ext.json)
-
----
-
-### 'Thank you Thank you'
-
-*2024-08-25 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191899) · `ta`
-
-Rishad Bathiudeen warns of danger to himself and his wife after making a decision.
-
-🟩
-
-Rishad Bathiudeen, who came to the place, said, 'Why are you?He questioned that you made such a decision.
-
-'I have clearly mentioned the reason for it in my long speech. But I want to remind you of a subject. Remember who you and your wife are in danger, ”Rishad responded to Rishad Bathiudeen.
-
-◼️
-
-[Data](articles/a74748a2.json)
-
-[Extended Data](ext_articles/a74748a2.ext.json)
-
----
-
-### Driver's licenses will not be canceled
-
-*2024-08-25 11:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிப்-பத்திரங்கள்-ரத்து-செய்யப்படாது/175-342739) · `ta`
-
-No driver's licenses canceled. New system for updating 2 million unrenewed licenses by end of year. 12.3 million issued since 1960s.
-
-🟩
-
-Ranjith Rubasinghe, Secretary of the Ministry of Transport and Highways, said that the reports that the decision to cancel all the renewed driver's licenses was completely false and no decision was taken.
-
-He added that a new system will be introduced to update about 2 million driver's licenses that have not yet been renewed and all the work will be completed by the end of this year.
-
-Secretary of the Ministry of Transport and Highways Ranjith Rupasinghe, who attended a media briefing held at the Presidential Media Center last Friday (23).
-
-Ranjith Rupasinghe said that since the country's first driver's license was issued in the 1960s, about 12.3 million driver's licenses were issued.
-
-◼️
-
-[Data](articles/2223e64f.json)
-
-[Extended Data](ext_articles/2223e64f.ext.json)
 
 ---

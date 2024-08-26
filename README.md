@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 05:40:01**
+As of **2024-08-26 06:05:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,573 (100.0%) of 42,575 articles have been extended.
+42,575 (100.0%) of 42,575 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,6 +84,8 @@ Amitabh Pandey, Managing Director & President – Ericsson Sri Lanka & Maldives 
 
 [Data](articles/51985ea2.json)
 
+[Extended Data](ext_articles/51985ea2.ext.json)
+
 ---
 
 ### Assetline Finance Limited opens its 57th Branch, in Wellawatte
@@ -95,6 +97,8 @@ Assetline Finance Limited (AFL), a fully owned subsidiary of David Pieris Holdin
 ...
 
 [Data](articles/16e9a6c5.json)
+
+[Extended Data](ext_articles/16e9a6c5.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 17:06:57**
+As of **2024-08-26 17:21:30**
 
 ## Newspaper Stats
 
-*Scraped **42,684** Articles*
+*Scraped **42,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,126 @@ colombotelegraphcom | 409
 islandlk | 2,488
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,936
+adalk | 3,938
 dailymirrorlk | 4,733
-adaderanalk | 5,019
-tamilmirrorlk | 5,553
-virakesarilk | 6,776
+adaderanalk | 5,020
+tamilmirrorlk | 5,554
+virakesarilk | 6,779
 adaderanasinhalalk | 7,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,684 (100.0%) of 42,684 articles have been extended.
+42,684 (100.0%) of 42,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### யாழில் விபத்தில் சிக்கி சமுர்த்தி உத்தியோகஸ்தர் உயிரிழப்பு
+
+*2024-08-26 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/192052) · `ta`
+
+யாழ்ப்பாணத்தில் இடம்பெற்ற விபத்தில் சமுர்த்தி உத்தியோகஸ்தர் ஒருவர் இன்று திங்கட்கிழமை (26)அதிகாலை உயிரிழந்துள்ளார்.
+
+தனது மகனை தனியார் வகுப்பில் இருந்து மோட்டார் சைக்கிளில் அழைத்து வந்த வேளை, பிறவுண் வீதியில் நேற்றிரவு 8.45 மணியளவில் முச்சக்கர வண்டி மோதி விபத்துக்குள்ளானதில் படுகாயமடைந்துள்ளனர்.
+
+படுகாயமடைந்தவரை அங்கிருந்தவர்கள் மீட்டு சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலையில் அனுமதித்த நிலையில், சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/560ac007.json)
+
+---
+
+### ජනමාධ්‍ය නිදහස හා අදහස් ප්‍රකාශ කිරීමේ නිදහස අපි පාලනය කරන්නේ නැහැ - සමන් ශ්‍රී රත්නායක
+
+*2024-08-26 16:49:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනමාධ්‍ය-නිදහස-හා-අදහස්-ප්‍රකාශ-කිරීමේ-නිදහස-අපි-පාලනය-කරන්නේ-නැහැ---සමන්-ශ්‍රී-රත්නායක/11-411567) · `si`
+
+තමන්ට ලැබී තිබෙන නිදහස පාවිච්චි කළ යුත්තේ අනෙක් පාර්ශවයට බාධාවක් හෝ හානියක් නොවන පරිදි බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසනවා.
+
+සමාජ මාධ්‍ය හරහා සිදුවන මත විමසුම් හා සමීක්ෂණ වාර්තා තහනම් කරන බවට පළවන වාර්තා සම්බන්ධයෙන් අදහස් දක්මින් ඔහු සඳහන් කළේ මැතිවරණ කොමිෂන් සභාව කටයුතු කරන්නේ මැතිවරණ පනතට අදාළ නීති රීතී සමඟ පමණක් බවයි. රූපවාහිනී වැඩසටහනක් හා එක්වෙමින් අද දින (26) මේ බව වැඩි දුරටත් ඔහු සඳහන් කර සිටියි. ( I J)
+
+◼️
+
+[Data](articles/d65f50b9.json)
+
+---
+
+### Sripura murder: Police seek public assistance to trace suspect
+
+*2024-08-26 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101522/sripura-murder-police-seek-public-assistance-to-trace-suspect) · `en`
+
+Sri Lanka Police said it is seeking public assistance in tracking down a suspect connected to the recent shooting and killing of an individual in Gemunupura, Sripura.
+
+The shooting had been carried out using a T56 assault rifle by two gunmen who had arrived on a motorcycle on August 16, 2024.
+
+Police have also released photographs and details of the suspect in question.
+
+Accordingly, the public is requested to provide any information regarding the relevant suspect through the following contact numbers:
+
+Details and the photographs of the suspect are mentioned below:
+
+◼️
+
+[Data](articles/22084f2e.json)
+
+---
+
+### உங்களுக்கு தெரியுமா?
+
+*2024-08-26 16:40:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உங்களுக்கு-தெரியுமா/175-342804) · `ta`
+
+திருகோணமலை, ஸ்ரீபுர பொலிஸ் பிரிவிற்குட்பட்ட கம்மம்பில கிராமத்தில் பிள்ளையார் கோயில் சந்தி பகுதிக்கு கடந்த 16 ஆம் திகதி மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர் வயல் காவலில் ஈடுபட்டிருந்த நபரொருவர் மீது துப்பாக்கி பி​ரயோகம் மேற்கொண்டு தப்பிச் சென்ற சம்பவத்துடன் தொடர்புடைய சந்தேக நபரொருவரை கைது செய்வதற்கு பொலிஸார் பொது மக்களிடம் உதவி கோரியுள்ளனர்.
+
+இந்நிலையில், இந்த கொலை சம்பவத்துடன் தொடர்புடைய சந்தேக நபரொருவர் பிரதேசத்தை விட்டு தப்பிச் சென்று தலைமறைவாக இருப்பதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அதன்படி, சந்தேக நபர் தொடர்பில் ஏதேனும் தகவல்கள் கிடைத்தால் ஸ்ரீபுர பொலிஸ் நிலையத்தின் 071 859 1181 அல்லது 025 225 5062 என்ற தொலைபேசி இலக்கங்களுக்குத் தொடர்பு கொண்டு தகவல் தெரிவிக்குமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
+
+மேலும், சந்தேக நபராக அடையாளப்படுத்தப்பட்டிருக்கும் நபரின் பெயர் ; கந்தே லேகம்லாகே கயான் சுகததாச எனவும், முகவரி ; இலக்கம் 87, சமருகம, அவிசாவளை எனவும், தேசிய அடையாள அட்டை இலக்கம் ; - 850220751V , 198502200751 எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/b20416da.json)
+
+---
+
+### இந்தியா உட்பட பிராந்திய நாடுகளின் பாதுகாப்பிற்கு அச்சுறுத்தலை ஏறபடுத்துவதற்கு இலங்கையை பயன்படுத்த அனுமதிக்க மாட்டோம் -  தேர்தல் விஞ்ஞாபனத்தில் தேசிய மக்கள் சக்தி
+
+*2024-08-26 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/192047) · `ta`
+
+இந்தியா உட்பட பிராந்திய நாடுகளின் பாதுகாப்பிற்கு அச்சுறுத்தலை ஏற்படுத்துவதற்கு இலங்கையை தளமாக பயன்படுத்த அனுமதிக்கமாட்டோம் என தனது தேர்தல் விஞ்ஞாபனத்தில் தேசிய மக்கள் சக்தி தெரிவித்துள்ளது
+
+◼️
+
+[Data](articles/14eb22d4.json)
+
+---
+
+### இந்திய போர்க்கப்பலை தொடர்ந்து கொழும்புத் துறைமுகத்திற்கு வந்துள்ள 3 சீன போர்க் கப்பல்கள் !
+
+*2024-08-26 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/192044) · `ta`
+
+சீன இராணுவ கடற்படைக்குச் சொந்தமான 3 போர் கப்பல்கள்  இன்று திங்கட்கிழமை (26) கொழும்பு துறைமுகத்தை வந்தடைந்துள்ளன.
+
+"HE FEI", "WUZHISHAN" மற்றும் "QILIANSHAN" ஆகிய 3 போர் கப்பல்களை  கடற்படை மரபுகளுக்கு அமைவாக இலங்கை கடற்படையினர் வரவேற்றனர்.
+
+"HE FEI" 144.50 மீட்டர் நீளமுள்ள போர் கப்பலாகும். கேப்டன் சென் ஜுன்ஃபெங்கின் தலைமையில் 267 பணியாளர்களை கொண்டுள்ளது.
+
+"WUZHISHAN"  210 மீட்டர் நீளமுள்ள போர் கப்பலாகும். கேப்டன் ஃபீ ஜாங்கால் தலைமையில் 872 பணியாளர்களை கொண்டுள்ளது.
+
+"QILIANSHAN" 210 மீட்டர் நீளமுள்ள போர் கப்பலாகும். கேப்டன் சியோங் பிங்ஹோன் தலைமையில் 334 பணியாளர்களை கொண்டுள்ளது.
+
+சீன இராணுவ கடற்படைக்குச் சொந்தமான முப்படை போர்க்கப்பல்களின் கட்டளை தளபதிகள் இன்றையதினம் மேற்கு கடற்படை கட்டளைத் தலைமையகத்தில் மேற்கு கடற்படை தளபதி ரியர் அட்மிரல் சிந்தக குமாரசிங்கவை சந்திக்க உள்ளனர்.
+
+இரு கடற்படையினருக்கும் இடையிலான நட்புறவை வலுப்படுத்தும் வகையில், இலங்கை கடற்படையினரால் ஏற்பாடு செய்யப்பட்டுள்ள தொடர் நிகழ்ச்சிகளில் இந்தக் கப்பல்களின் பணியாளர்கள் பங்கேற்க உள்ளனர்.
+
+...
+
+[Data](articles/56e1d819.json)
+
+---
 
 ### Sri Lankan women for Sri Lankan women for Korea fishing jobs
 
@@ -276,6 +380,24 @@ The Sri Lanka Navy states that the Sri Lanka Navy has been leaving a training ex
 
 ---
 
+### Men of note from the minorities
+
+*2024-08-26 15:26:00* · [`islandlk`](http://island.lk/men-of-note-from-the-minorities/) · `en`
+
+I was born at the very end of the nineteenth century and in my eightieth year I can look back on the careers of some of the prominent minority leaders about whom I shall say something in this article.
+
+The names that come to mind include the brothers Ponnambalam Ramanathan and Ponnambalam Arunachalam and their kinsmen, Dr. Ananda Coomaraswamy and Sir Muttu Coomaraswamy. They came from the same highly educated and successful families of Jaffna.
+
+Sir Ponnambalam Ramanathan had held the office of Solicitor-General under British rule and often acted as Attorney-General, a post reserved for officers recruited from abroad. He was a polished speaker, though in his old age he was inclined to be somewhat long-winded.
+
+...
+
+[Data](articles/7bcbd4e1.json)
+
+[Extended Data](ext_articles/7bcbd4e1.ext.json)
+
+---
+
 ### Struggle demanding the immediate relocation of the Chancellor in Mannar
 
 *2024-08-26 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/192030) · `ta`
@@ -368,6 +490,22 @@ Also, joint activities such as games, yoga and coastal cleansing work are to be 
 
 ---
 
+### Meetings with Gandhi and Nehru;Message from Ramgarh to Ceylon
+
+*2024-08-26 14:58:00* · [`islandlk`](http://island.lk/meetings-with-gandhi-and-nehrumessage-from-ramgarh-to-ceylon/) · `en`
+
+The Ramgarh Session of the Indian National Congress, the last Session before Freedom was held in March 1940, in a small village, in Bihar Province, “sanctified by the touch of the feet of Gautama, the Buddha”, said the Reception Committee Chairman, Rajendra Prasad, later President of Free India. I attended the Session as a delegate of the Ceylon National Congress and recorded my impressions then.
+
+The little village of Ramgarh is today famous throughout the world. For here gathered the men and women of the new India with her beauty and her chivalry, intent on freeing their motherland from foreign rule. It was a pretty countryside that we passed through on our way, for over a hundred miles to the west of Calcutta. Ramgarh itself is very similar to Diyatalawa, undulating valleys, large plains and mountain streams abounding.
+
+...
+
+[Data](articles/c71a7059.json)
+
+[Extended Data](ext_articles/c71a7059.ext.json)
+
+---
+
 ### 4 crores in the airport
 
 *2024-08-26 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200348) · `si`
@@ -389,6 +527,20 @@ The two residents of the Grandpass area in Colombo have been handed over to the 
 [Data](articles/ca31e461.json)
 
 [Extended Data](ext_articles/ca31e461.ext.json)
+
+---
+
+### Elections in Sri Lanka: A Preliminary Audit
+
+*2024-08-26 14:52:00* · [`islandlk`](http://island.lk/elections-in-sri-lanka-a-preliminary-audit/) · `en`
+
+Sri Lankans will be voting in September, and they will be voting for the first time since 2020 or 2019 if you consider presidential elections. The economy, more specifically economic recovery, will figure as a top concern. People will be voting for candidates based on their perceptions of how well this government has done and how well they think the Opposition will do if they are given the chance. As of now, economic reforms have polarised opinion. One poll indicates that less than 10 percent – eight, to be exact – believe Sri Lanka is headed the right way. That leaves a staggering 92 percent who disagree or are unsure.
+
+...
+
+[Data](articles/7df47edc.json)
+
+[Extended Data](ext_articles/7df47edc.ext.json)
 
 ---
 
@@ -519,6 +671,52 @@ The recent Supreme Court decision to unseat two opposition MPs who had defected 
 [Data](articles/bfda1401.json)
 
 [Extended Data](ext_articles/bfda1401.ext.json)
+
+---
+
+### SUNSHINE TEA Private Limited
+
+*2024-08-26 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191420) · `ta`
+
+Sunshine Tea Private Limited, established in 1967 and rebranded in 1987, is a key player in Sri Lanka's tea industry, focusing on export. The company, employing over 300 staff, including 100 women, operates in both export and import sectors, generating annual sales exceeding $25 million. Its products, including ZESTA, Watawala, and Gordon Frazer teas, are exported to countries like Iran, Iraq, the US, Canada, Italy, Australia, and China. Sunshine Tea emphasizes quality, sustainability, and social responsibility, holding certifications like ISO 9001, FSSC 2000, and Fair Trade.
+
+🟩
+
+Sunshine Tea Private Limited is one of the most important companies in tea production and export in Sri Lanka.Tea exports are the main feature of the company in Kelaniya.
+
+Recently, a field tournament to the media about the company's activities and its workshop was recently organized.
+
+In the meantime, its Chief Executive Officer Sanjeeva Saranabala explained the company's functions.
+
+According to the company's introduction, the company was launched in 1967 and then renewed in the name of SKS Exports in 1987 and was later renamed as SUNSHINE Tea Private Limited.
+
+Sunshine Tea Private Limited's Thai Company Sansin Holdings PLC can also be found in the website of Sansine Holdings PLC at https: //www.shinetea.lk.
+
+In addition, the company has more than 300 employees and said that there are 25 female workers and 75 male workers in the factory.They work in two categories as export and import. He said the company's annual sales were more than $ 25 million.
+
+...
+
+[Data](articles/d762ff0a.json)
+
+[Extended Data](ext_articles/d762ff0a.ext.json)
+
+---
+
+### What the majority want from a new government
+
+*2024-08-26 14:37:00* · [`islandlk`](http://island.lk/what-the-majority-want-from-a-new-government/) · `en`
+
+Now that the presidential election is round the corner and would be followed by a general election, the majority of law-abiding, patriotic, selfless and non-partisan people would want many changes in the system to bring this country back to where it was in the early nineteen fifties.
+
+The first thing many are clamoring for is to abolish the executive presidency. This office has been a bane rather than a boon to this country and its people. It has only helped to enrich some who achieved this position. As we can remember, there were many previous occupants of this office who promised abolish it if they were elected, but reneged on their promise.
+
+The powers attached to the executive presidency have been misused even by those with a good educational background and we have seen how the prerogative of the presidential pardon had been utilized to pardon murderers, drug dealers, child rapists, etc.
+
+...
+
+[Data](articles/c248e79a.json)
+
+[Extended Data](ext_articles/c248e79a.ext.json)
 
 ---
 
@@ -753,6 +951,24 @@ A survey of last year's survey revealed that the Australians have done 281 hours
 [Data](articles/2d47fe13.json)
 
 [Extended Data](ext_articles/2d47fe13.ext.json)
+
+---
+
+### පුද්ගලික සරසවි සිසුවෙකුගේ පහරදිමෙන් භෞත චිකිත්සක ජීවිතක්ෂයට
+
+*2024-08-26 12:47:03* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලික-සරසවි-සිසුවෙකුගේ-පහරදිමෙන්-භෞත-චිකිත්සක-ජීවිතක්ෂයට/11-411560) · `si`
+
+පුද්ගලික සරසවියක ජාල ඉංජිනේරු පාඨමාලාවක් හදාරන  (නෙට්වර්ක් ඉන්ජිනියර්) 19 හැවිරිදි  සිසුවෙකු  හා  44 හැවිරිදි  භෞත චිකිත්සකවරයෙකු අතර නවාතැන්පොළකදී ඇතිවූ බහින්බස්වීමකින් අනතුරුව ඇලුමිනියම් ජෝගුවකින් හිසට පහර දීමෙන් භෞත චිකිත්සක වරයා  ඊයේ රාත්‍රියේදී මියගොස් ඇතැයි මරදාන පොලිසිය කියයි.
+
+මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 44 ක් වන සන්තාර් නමැති පුද්ගලයෙකි .ඔහු පදිංචි ප්‍රදේශයක් නිශ්චිතව අනාවරණය නොවන බව පොලිසිය කියයි. පහරදීම සම්බන්ධයෙන්  වැලිමඩ ප්‍රදේශයේ පදිංචි සැකකාර සිසුවා පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇත
+
+මියගිය පුද්ගලයා සහ සැකකරු මරදාන දේවානම් පියතිස්ස මාවතේ තෙමහල් ගොඩනැගිල්ලක පවත්වාගෙන යන නවාතැන්පොළක පහත මහලේ තවත් පුද්ගලයන් දෙදෙනකු සමග නවාතැන් ගෙන සිට ඇති  බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+සැකකාර සිසුවා ඊයේ (25) රාත්‍රී විදුලි බල්බය දල්වාගෙන පාඩම් කටයුතුවල නිරතව සිට ඇති අතර බල්බය නිවා දමන ලෙස  මියගිය පුද්ගලයා  සිසුවාට පවසා ඇති අතර ඒ සම්බන්ධයෙන් දෙදෙනා අතර බහින්බස්වීමක් සිදුවී ඇතැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/a39a78de.json)
 
 ---
 
@@ -2183,329 +2399,5 @@ The victims have been reported to be PHIs from Moratuwa and Ekoda MOH offices.
 [Data](articles/34b60ffa.json)
 
 [Extended Data](ext_articles/34b60ffa.ext.json)
-
----
-
-### Ranil calls for direct debate
-
-*2024-08-26 06:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேரடி-விவாதத்திற்கு-அழைக்கிறார்-ரணில்/175-342763) · `ta`
-
-President Ranil Wickremesinghe summons rivals Sajith Premadasa and Anura Kumara Dissanayake with IMF officials to discuss amendments to Sri Lanka Sign Plan.
-
-🟩
-
-President Ranil Wickremesinghe has summoned his rival candidates Sajith Premadasa and Anura Kumara Dissanayake with the IMF officials.
-
-He said they should look at how they would respond to amendments to the Sri Lanka Sign Plan.
-
-“National People's Power (NPP) and United People's Power (SJB) have said that they are amendment to the agreement signed with the IMF. Let us see how they are reflecting a direct debate with the IMF and reflecting on amendments, ”President Wickremesinghe told the United National Party (UNP) conference.
-
-◼️
-
-[Data](articles/4b4ed1ba.json)
-
-[Extended Data](ext_articles/4b4ed1ba.ext.json)
-
----
-
-### Sri Lanka budget deficit down 52-pct in June, taxes up 42-pct
-
-*2024-08-26 06:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-52-pct-in-june-taxes-up-42-pct-177991/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s budget deficit plunged 52 percent to 515.7 billion rupees in the six months to June 2024 while revenues went up 42 percent to 1,860.6 billion rupees, interim budget data shows.
-
-Tax revenues were up 43 percent to 1,709.3 billion rupees, with non-tax revenues up 30 percent to 151.3 billion rupees.
-
-Current spending was down absolutely by 5 percent to 2,218.4 billion rupees, held by good monetary policy of the central bank which kept the exchange rate stable and allowed interest rates to come down.
-
-The current account of the budget (total revenues less current spending) was down to 357.8 billion rupees in the 2024 half year, from 1,010 billion rupees last year.
-
-There are however looming state worker wage hikes which will push current spending up, unless the public sector, bloated by unemployed graduates, is reduced by attrition over time, to levels that the citizens can afford.
-
-...
-
-[Data](articles/aded45da.json)
-
-[Extended Data](ext_articles/aded45da.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-08-26 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200326) · `si`
-
-Several provinces experience showers; Badulla, Ampara, Batticaloa see thundershowers; Northern, North Central, Hambantota, Trincomalee face occasional storms; strong winds possible.
-
-🟩
-
-The Department of Meteorology says that several thin saves will occur in the Western, Sabaragamuwa, Southern and Northwestern provinces.
-
-Showers or thundershowers will occur at several places in Badulla, Ampara and Batticaloa districts.
-
-From time to time in the Northern, North Central and Northwestern districts, Hambantota and Trincomalee Districts. (30-40) can cause strong winds.
-
-The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
-
-◼️
-
-[Data](articles/9411c01c.json)
-
-[Extended Data](ext_articles/9411c01c.ext.json)
-
----
-
-### Did you know about Ranil, Sajith, Anura, and Namal?
-
-*2024-08-26 06:14:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cr7r0m9ykjgo) · `si`
-
-Here's a summary of the key points about Sajith Premadasa, Anura Kumara Dissanayake, and Namal Rajapaksa:
-
-
-
-### Sajith Premadasa
-
-
-
-- Current opposition leader of the Sri Lanka Parliament
-
-- Represents the Unity Force
-
-- Son of former President Ranasinghe Premadasa
-
-- Entered politics in 1994 after his father's death
-
-- Previously served as Deputy Minister of Health and Minister of Construction and Cultural Affairs
-
-- Contested the 2020 general election as the presidential candidate of the New Democratic Front
-
-- Involved in controversies related to the "cinnamon pole case" and allegations of Islamic devotions
-
-- Built the "Everlasting Pooja Kumar Sangakkara Vama"
-
-
-
-### Anura Kumara Dissanayake
-
-
-
-- Current leader of the Janatha Vimukthi Peramuna (JVP)
-
-- Born in 1968 in Galewela, Dewahewa
-
-- Educated at Thambuththegama Central College and University of Kelaniya
-
-- Joined the Socialist Students Union in 1987
-
-- Appointed as the national organizer of the Socialist Students Union in 1997
-
-- Elected as the leader of the JVP in 2014
-
-- Contributed to the creation of the probation government of President Chandrika Kumaratunga in 2001
-
-- Apologized for the killings of the JVP in the late 1980s
-
-- Disclosed by party-opposition politicians, government officials, and businessmen in 2022
-
-- Accused of investing money on foreign islands
-
-- Called the "red baby elephant" due to his close relationship with Ranil Wickremesinghe
-
-
-
-### Namal Rajapaksa
-
-
-
-- Eldest son of former President Mahinda Rajapaksa
-
-- Contesting the presidential election this year
-
-- Graduated from City University London and qualified as a lawyer
-
-- Elected to Hambantota District Member of Parliament in 2010
-
-- Represented Parliament as a member of the United People's Freedom Alliance and Sri Lanka General Front
-
-- Served as the Minister of Youth and Sports and Minister of Tamil and Enterprise Development
-
-- Arrested and remanded in connection with an incident called "hellbox"
-
-- Accused of involvement in the assassination of rugby players in 2015
-
-- Interviewed by BBC Sinhala in 2015 regarding the Rajapaksa family's involvement in politics
-
-🟩
-
-Did you know about Ranil, Sajith, Anura, and Namal?
-
-The decisive elections in Sri Lanka is a short time for the election to elect the 9th Executive President of Sri Lanka.
-
-Matend on Wednesday, August 14, was completed by the Presidential Candidate Candidate.
-
-However, there were only 39 candidates on Thursday, August 15.
-
-One of them, one candidate was killed on the night on August 22, but the number of candidates fell to 38.
-
-According to the Elections Commission, there are two monks among the candidates. No woman has offered for the presidential election.
-
-This is an investigation into the information of four significant candidates of the Presidential election.
-
-Sri Lanka 8th Executive President in Sri Lanka and UNP Leader Ranil Wickremesinghe contested as an independent candidate.
-
-Why was Ranil an independent candidate?Is that advantage of him?Disadvantages?
-
-...
-
-[Data](articles/b04a6189.json)
-
-[Extended Data](ext_articles/b04a6189.ext.json)
-
----
-
-### Rain in the Eastern and Uva provinces
-
-*2024-08-26 06:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கு-ஊவா-மாகாணங்களில்-மழை/175-342762) · `ta`
-
-Eastern & Uva provinces: Rain/thunderstorms forecasted. Upper, Sabaragamuwa, Northern, Kandy, Nuwara Eliya districts affected. Winds 40km/h in North, North Central, North Western Provinces, Hambantota district.
-
-🟩
-
-The Department of Meteorology has predicted rain or thunderstorms in the Eastern and Uva provinces today.
-
-Rainfall is expected in the upper, Sabaragamuwa, Northern Provinces, Kandy and Nuwara Eliya districts.
-
-At the same time, the Department of Meteorology has predicted that winds may blow at speeds of 40 km / h in the North, North Central and North Western Provinces and Hambantota district.. (A)
-
-◼️
-
-[Data](articles/24b11ed6.json)
-
-[Extended Data](ext_articles/24b11ed6.ext.json)
-
----
-
-### Film director Sugathapala Senarath has passed away
-
-*2024-08-26 06:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைப்பட-இயக்குனர்-சுகதபால-செனரத்-காலமானார்/175-342761) · `ta`
-
-Sugathapala Senarath passes away at 89. Born Nov 10, 1935. Introduced many artists to film industry.
-
-🟩
-
-His family reports that he passed away at the age of 89.
-
-He was born in Akuressa on November 10, 1935. Sugathapala Senarath Yapa has introduced many artists to the industry. (A)
-
-◼️
-
-[Data](articles/ca207dd7.json)
-
-[Extended Data](ext_articles/ca207dd7.ext.json)
-
----
-
-### GIZ, Coca-Cola, Nestlé, Unilever and local authorities come together to tackle plastic pollution
-
-*2024-08-26 03:56:00* · [`islandlk`](http://island.lk/giz-coca-cola-nestle-unilever-and-local-authorities-come-together-to-tackle-plastic-pollution/) · `en`
-
-In light of the solid waste management challenges faced, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH and three of Sri Lanka’s largest Fast Moving Consumer Goods (FMCG) companies – Coca-Cola Sri Lanka Beverages Ltd. along with The Coca-Cola Foundation, Nestlé, and Unilever, have come together to launch a sustainable plastic waste management project, with the ambition of tackling plastic pollution and leveraging the untapped potential of plastic waste. This Public-Private Partnership (PPP) named ‘Waste to Value’ aims to strengthen infrastructure on collection, segregation, recycling and upcycling of plastic waste, whilst driving a behavioural change towards a circular economy by creating awareness on the value of responsibly disposed waste to livelihoods and the environment.
-
-...
-
-[Data](articles/df2cfa5d.json)
-
-[Extended Data](ext_articles/df2cfa5d.ext.json)
-
----
-
-### Sri Lanka defines priorities for next month’s UN ‘Summit of the Future’ in NY
-
-*2024-08-26 03:50:50* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-defines-priorities-for-next-month-s-UN-Summit-of-the-Future-in-NY/56-765983) · `en`
-
-The Presidential Secretariat and the Foreign Affairs Ministry, in collaboration with the United Nations in Sri Lanka, co-hosted a national event for Sri Lanka to articulate its contributions to the ‘Summit of the Future’ which will be held from 22-23 September in New York.
-
-The ‘Summit of the Future’, proposed by the UN Secretary-General in his ‘Our Common Agenda’ report, is a landmark initiative to renew and strengthen multilateralism to better address current and emerging global challenges.
-
-The Summit will produce a ‘Pact for the Future’, an inter-governmentally negotiated and action-oriented agreement that will guide global efforts in sustainable development, peace and security, science and digital cooperation, youth and future generations, and transforming global governance.
-
-...
-
-[Data](articles/884328d6.json)
-
-[Extended Data](ext_articles/884328d6.ext.json)
-
----
-
-### Bilateral exercise Mitra Shakti-X between India and Sri Lanka concludes
-
-*2024-08-26 03:49:09* · [`dailyftlk`](https://www.ft.lk/news/Bilateral-exercise-Mitra-Shakti-X-between-India-and-Sri-Lanka-concludes/56-765982) · `en`
-
-The 10th edition of the annual bilateral exercise, Mitra Shakti, was conducted at the Army Training School, Maduru Oya from 12-25 August.
-
-The exercise is an annual event held in India and Sri Lanka alternatively. The Indian contingent arrived from Jodhpur to the Mattala Rajapaksa International Airport on 12 August by Indian Air Force IL-76 and left on 25 August post exercise.
-
-The exercise aims at enhancing interoperability and mutual understanding between both armed forces and provides an opportunity to further deepen the close defence relationship based on professional respect, personal bonding, and extensive training interaction.
-
-The exercise helps in building proficiency in tackling transnational terrorism, the conduct of joint tactical operations, and building combat skills. It also provides an ideal platform for the sharing of each other’s experiences and learning from best practices being followed.
-
-...
-
-[Data](articles/91fd2f1d.json)
-
-[Extended Data](ext_articles/91fd2f1d.ext.json)
-
----
-
-### HNB Assurance recognised as outstanding mom-inclusive workplace
-
-*2024-08-26 03:41:00* · [`islandlk`](http://island.lk/hnb-assurance-recognised-as-outstanding-mom-inclusive-workplace/) · `en`
-
-HNB Assurance PLC was recognised as one of the most outstanding mom-inclusive workplaces, solidifying its efforts towards promoting inclusivity and equality in the insurance industry. This recognition was announced at the inaugural Mom Leaders Conference, organized by Parenthood Global.
-
-In addition to the company’s recognition, five exceptional mom leaders from HNB Assurance were acknowledged at the conference, for their remarkable contributions both within the organization and in their personal lives as dedicated mothers.
-
-...
-
-[Data](articles/0f297fdf.json)
-
-[Extended Data](ext_articles/0f297fdf.ext.json)
-
----
-
-### Air Ceilao: Sri Lanka’s new Airline to start operations soon
-
-*2024-08-26 03:39:00* · [`islandlk`](http://island.lk/air-ceilao-sri-lankas-new-airline-to-start-operations-soon/) · `en`
-
-Air Ceilao, Sri Lanka’s newest airline, prepares for its launch with plans to transform air travel. The carrier initially targets key destinations in the Middle East and Asia-Pacific, with future expansion to long-haul routes across Europe and Australia.
-
-The airline is currently working with Sri Lanka’s Civil Aviation Authority to secure regulatory approvals and complete the necessary preparations.
-
-Air Ceilao plans to operate a mixed fleet of narrow- and wide-bodied aircraft to serve its initial routes.
-
-As the second privately owned international airline in Sri Lanka, Air Ceilao aims to offer a customer-centric travel experience, balancing low-cost and luxury options. This approach could potentially disrupt the existing market dynamics and provide more choices for travelers.
-
-...
-
-[Data](articles/dffb48a2.json)
-
-[Extended Data](ext_articles/dffb48a2.ext.json)
-
----
-
-### Ericsson signs MoU with two partners to enhance occupational safety standards
-
-*2024-08-26 03:37:00* · [`islandlk`](http://island.lk/ericsson-signs-mou-with-two-partners-to-enhance-occupational-safety-standards/) · `en`
-
-Ericsson, a global leader in telecommunications technology and services, recently signed a Memorandum of Understanding (MoU) with the National Institute of Occupational Safety and Health (NIOSH) Sri Lanka and Industrial Safety (Pvt) Ltd. This strategic partnership aims to elevate occupational safety standards and foster a safer working environment across Sri Lanka.
-
-This collaboration underscores Ericsson’s commitment to leveraging its technological expertise to support and enhance occupational safety measures in Sri Lanka.
-
-Amitabh Pandey, Managing Director & President – Ericsson Sri Lanka & Maldives said, “We are delighted to collaborate with NIOSH and Industrial Safety (Pvt) Ltd to enhance occupational safety standards in Sri Lanka. This MoU represents a significant step towards creating safer work environments through the integration of advanced technology and comprehensive training programs.”
-
-...
-
-[Data](articles/51985ea2.json)
-
-[Extended Data](ext_articles/51985ea2.ext.json)
 
 ---

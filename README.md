@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 17:21:30**
+As of **2024-08-26 17:37:15**
 
 ## Newspaper Stats
 
-*Scraped **42,691** Articles*
+*Scraped **42,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 394
 colombotelegraphcom | 409
-islandlk | 2,488
+islandlk | 2,489
 economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,938
@@ -20,45 +20,79 @@ dailymirrorlk | 4,733
 adaderanalk | 5,020
 tamilmirrorlk | 5,554
 virakesarilk | 6,779
-adaderanasinhalalk | 7,311
+adaderanasinhalalk | 7,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,684 (100.0%) of 42,691 articles have been extended.
+42,691 (100.0%) of 42,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### யாழில் விபத்தில் சிக்கி சமுர்த்தி உத்தியோகஸ்தர் உயிரிழப்பு
+### චීන යුද නැව් 03ක් කොළඹට
+
+*2024-08-26 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200353) · `si`
+
+මහජන චීන විමුක්ති හමුදාවේ යුද නෞකා තුනක් නිල සංචාරයක් සඳහා කොළඹ වරායට පැමිණ තිබේ.
+
+අද (26) උදෑසන එලෙස පැමිණ ඇත්තේ,  “HE FEI”, “WUZHISHAN” සහ “QILIANSHAN” යන යුද නෞකා ත්‍රිත්වය බව නාවික හමුදාව පවසයි.
+
+මෙලෙස කොළඹ වරායට සේන්දු වූ Destroyer වර්ගයට අයත් “HE FEI” යුද නෞකාව, දිගින් මීටර් 144.50 හා නැවේ කාර්යය මණ්ඩලය 267ක ගෙන් සමන්විතය.
+
+Landing Platform Dock වර්ගයට අයත් “WUZHISHAN” යුද නෞකාව දිගින් මීටර් 210 හා නැවේ කාර්යය මණ්ඩලය 872ක ගෙන් සමන්විතය.
+
+Landing Platform Dock වර්ගයට අයත් “QILIANSHAN” යුද නෞකාව දිගින් මීටර් 210 හා නැවේ කාර්යය මණ්ඩලය 334 ක ගෙන් සමන්විත වෙයි.
+
+එම නෞකා පුහුණු අභ්‍යාසයකින් අනතුරුව, නිල සංචාරය අවසන් කරමින්  අගෝස්තු මස 29 වැනිදා දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/38f10338.json)
+
+---
+
+### Samurdhi officer dies in accident in Jaffna
 
 *2024-08-26 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/192052) · `ta`
 
-யாழ்ப்பாணத்தில் இடம்பெற்ற விபத்தில் சமுர்த்தி உத்தியோகஸ்தர் ஒருவர் இன்று திங்கட்கிழமை (26)அதிகாலை உயிரிழந்துள்ளார்.
+Samurdhi officer killed in Jaffna crash.
 
-தனது மகனை தனியார் வகுப்பில் இருந்து மோட்டார் சைக்கிளில் அழைத்து வந்த வேளை, பிறவுண் வீதியில் நேற்றிரவு 8.45 மணியளவில் முச்சக்கர வண்டி மோதி விபத்துக்குள்ளானதில் படுகாயமடைந்துள்ளனர்.
+🟩
 
-படுகாயமடைந்தவரை அங்கிருந்தவர்கள் மீட்டு சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலையில் அனுமதித்த நிலையில், சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+A Samurdhi officer died in an accident in Jaffna this morning (26).
+
+While he was brought from a private class on a motorbike, he was injured when a three -wheeler crashed into a motorcycle at 8.45 pm last night.
+
+The victims were admitted to the Jaffna Bodhana Hospital for treatment and died without treatment.
 
 ◼️
 
 [Data](articles/560ac007.json)
 
+[Extended Data](ext_articles/560ac007.ext.json)
+
 ---
 
-### ජනමාධ්‍ය නිදහස හා අදහස් ප්‍රකාශ කිරීමේ නිදහස අපි පාලනය කරන්නේ නැහැ - සමන් ශ්‍රී රත්නායක
+### We do not control media freedom and freedom of expression - Saman Sri Ratnayake
 
 *2024-08-26 16:49:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනමාධ්‍ය-නිදහස-හා-අදහස්-ප්‍රකාශ-කිරීමේ-නිදහස-අපි-පාලනය-කරන්නේ-නැහැ---සමන්-ශ්‍රී-රත්නායක/11-411567) · `si`
 
-තමන්ට ලැබී තිබෙන නිදහස පාවිච්චි කළ යුත්තේ අනෙක් පාර්ශවයට බාධාවක් හෝ හානියක් නොවන පරිදි බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසනවා.
+Saman Sri Ratnayake denies controlling media freedom and expression. Claims Elections Commission not banned from social media or surveys.
 
-සමාජ මාධ්‍ය හරහා සිදුවන මත විමසුම් හා සමීක්ෂණ වාර්තා තහනම් කරන බවට පළවන වාර්තා සම්බන්ධයෙන් අදහස් දක්මින් ඔහු සඳහන් කළේ මැතිවරණ කොමිෂන් සභාව කටයුතු කරන්නේ මැතිවරණ පනතට අදාළ නීති රීතී සමඟ පමණක් බවයි. රූපවාහිනී වැඩසටහනක් හා එක්වෙමින් අද දින (26) මේ බව වැඩි දුරටත් ඔහු සඳහන් කර සිටියි. ( I J)
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake says that the freedom they have had not been interrupted or harming the other party.
+
+Speaking to reports that the Elections Commission was banned by Social Media and Survey Reports.. He said this today (26) today, he said this today (26).. (I J)
 
 ◼️
 
 [Data](articles/d65f50b9.json)
+
+[Extended Data](ext_articles/d65f50b9.ext.json)
 
 ---
 
@@ -80,59 +114,83 @@ Details and the photographs of the suspect are mentioned below:
 
 [Data](articles/22084f2e.json)
 
+[Extended Data](ext_articles/22084f2e.ext.json)
+
 ---
 
-### உங்களுக்கு தெரியுமா?
+### Do you know?
 
 *2024-08-26 16:40:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உங்களுக்கு-தெரியுமா/175-342804) · `ta`
 
-திருகோணமலை, ஸ்ரீபுர பொலிஸ் பிரிவிற்குட்பட்ட கம்மம்பில கிராமத்தில் பிள்ளையார் கோயில் சந்தி பகுதிக்கு கடந்த 16 ஆம் திகதி மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர் வயல் காவலில் ஈடுபட்டிருந்த நபரொருவர் மீது துப்பாக்கி பி​ரயோகம் மேற்கொண்டு தப்பிச் சென்ற சம்பவத்துடன் தொடர்புடைய சந்தேக நபரொருவரை கைது செய்வதற்கு பொலிஸார் பொது மக்களிடம் உதவி கோரியுள்ளனர்.
+Here's a summary of the text in 200 characters:
 
-இந்நிலையில், இந்த கொலை சம்பவத்துடன் தொடர்புடைய சந்தேக நபரொருவர் பிரதேசத்தை விட்டு தப்பிச் சென்று தலைமறைவாக இருப்பதாக தெரிவிக்கப்பட்டுள்ளது.
 
-அதன்படி, சந்தேக நபர் தொடர்பில் ஏதேனும் தகவல்கள் கிடைத்தால் ஸ்ரீபுர பொலிஸ் நிலையத்தின் 071 859 1181 அல்லது 025 225 5062 என்ற தொலைபேசி இலக்கங்களுக்குத் தொடர்பு கொண்டு தகவல் தெரிவிக்குமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
 
-மேலும், சந்தேக நபராக அடையாளப்படுத்தப்பட்டிருக்கும் நபரின் பெயர் ; கந்தே லேகம்லாகே கயான் சுகததாச எனவும், முகவரி ; இலக்கம் 87, சமருகம, அவிசாவளை எனவும், தேசிய அடையாள அட்டை இலக்கம் ; - 850220751V , 198502200751 எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+Police seek public help identifying suspect in motorcycle theft and murder case. Suspect named Kande Legamlake/Kayan Sugathadasa, last seen in Avissawella. Contact Sripura Police Station at 071 859 1181 or 025 225 5062 for information.
+
+🟩
+
+Police have asked the public to arrest a suspect in connection with the escape of a man who was involved in a man who was involved in a motorcycle detention on a motorbike on the 16th of last month.
+
+In this case, a suspect in connection with the murder is reported to have fled the area and is in hiding.
+
+Accordingly, if any information on the suspect is available, the police have asked the Sripura Police Station 071 859 1181 or 025 225 5062.
+
+Also, the name of the person who is identified as a suspect;Kande Legamlake is also known as Kayan Sugathadasa and address;No. 87, Samurugama, Avissawella, National Identity Card number;- 850220751V, 198502200751, police said.
 
 ◼️
 
 [Data](articles/b20416da.json)
 
+[Extended Data](ext_articles/b20416da.ext.json)
+
 ---
 
-### இந்தியா உட்பட பிராந்திய நாடுகளின் பாதுகாப்பிற்கு அச்சுறுத்தலை ஏறபடுத்துவதற்கு இலங்கையை பயன்படுத்த அனுமதிக்க மாட்டோம் -  தேர்தல் விஞ்ஞாபனத்தில் தேசிய மக்கள் சக்தி
+### Sri Lanka will not be allowed to use Sri Lanka to threaten the security of regional countries, including India - the national people's power in the election manifesto
 
 *2024-08-26 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/192047) · `ta`
 
-இந்தியா உட்பட பிராந்திய நாடுகளின் பாதுகாப்பிற்கு அச்சுறுத்தலை ஏற்படுத்துவதற்கு இலங்கையை தளமாக பயன்படுத்த அனுமதிக்கமாட்டோம் என தனது தேர்தல் விஞ்ஞாபனத்தில் தேசிய மக்கள் சக்தி தெரிவித்துள்ளது
+National People's Power manifesto: Sri Lanka won't use bases to threaten regional security, including India.
+
+🟩
+
+In its election manifesto, the National People's Power said that Sri Lanka will not be allowed to use the base to threaten the security of regional countries, including India.
 
 ◼️
 
 [Data](articles/14eb22d4.json)
 
+[Extended Data](ext_articles/14eb22d4.ext.json)
+
 ---
 
-### இந்திய போர்க்கப்பலை தொடர்ந்து கொழும்புத் துறைமுகத்திற்கு வந்துள்ள 3 சீன போர்க் கப்பல்கள் !
+### 3 Chinese warships arrived at the port of Colombo following the Indian warship
 
 *2024-08-26 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/192044) · `ta`
 
-சீன இராணுவ கடற்படைக்குச் சொந்தமான 3 போர் கப்பல்கள்  இன்று திங்கட்கிழமை (26) கொழும்பு துறைமுகத்தை வந்தடைந்துள்ளன.
+Chinese warships arrive in Colombo, meet Sri Lankan navy. Three ships visit tourist sites, participate in joint training exercises.
 
-"HE FEI", "WUZHISHAN" மற்றும் "QILIANSHAN" ஆகிய 3 போர் கப்பல்களை  கடற்படை மரபுகளுக்கு அமைவாக இலங்கை கடற்படையினர் வரவேற்றனர்.
+🟩
 
-"HE FEI" 144.50 மீட்டர் நீளமுள்ள போர் கப்பலாகும். கேப்டன் சென் ஜுன்ஃபெங்கின் தலைமையில் 267 பணியாளர்களை கொண்டுள்ளது.
+Three Chinese fleet -owned warships arrived at the Port of Colombo on Monday (26).
 
-"WUZHISHAN"  210 மீட்டர் நீளமுள்ள போர் கப்பலாகும். கேப்டன் ஃபீ ஜாங்கால் தலைமையில் 872 பணியாளர்களை கொண்டுள்ளது.
+The Sri Lankan navy welcomed the three warships of "He Fei", "Wuzhishan" and "Qilianshan".
 
-"QILIANSHAN" 210 மீட்டர் நீளமுள்ள போர் கப்பலாகும். கேப்டன் சியோங் பிங்ஹோன் தலைமையில் 334 பணியாளர்களை கொண்டுள்ளது.
+"He Fei" is a 144.50 meter long warship. It features 267 employees under the leadership of Captain Sen Junfank.
 
-சீன இராணுவ கடற்படைக்குச் சொந்தமான முப்படை போர்க்கப்பல்களின் கட்டளை தளபதிகள் இன்றையதினம் மேற்கு கடற்படை கட்டளைத் தலைமையகத்தில் மேற்கு கடற்படை தளபதி ரியர் அட்மிரல் சிந்தக குமாரசிங்கவை சந்திக்க உள்ளனர்.
+"Wuzhishan" is a 210 -meter -long warship. It features 872 employees headed by Captain Fe Jangal.
 
-இரு கடற்படையினருக்கும் இடையிலான நட்புறவை வலுப்படுத்தும் வகையில், இலங்கை கடற்படையினரால் ஏற்பாடு செய்யப்பட்டுள்ள தொடர் நிகழ்ச்சிகளில் இந்தக் கப்பல்களின் பணியாளர்கள் பங்கேற்க உள்ளனர்.
+"Qilianshan" is a 210 -meter -long warship. It features 334 employees under the leadership of Captain Xion Binghon.
+
+Commanders of the Chinese Army Naval Corps belonging to the Chinese Army Navy are to meet the Western Navy Commander Rear Admiral Chinthaka Kumarasinghe today at the West Navy Command Headquarters.
+
+Staff of the ships will be participating in a series of events organized by the Sri Lankan navy to strengthen the friendship between the two navy.
 
 ...
 
 [Data](articles/56e1d819.json)
+
+[Extended Data](ext_articles/56e1d819.ext.json)
 
 ---
 
@@ -453,6 +511,18 @@ After receiving the wrongdoing, the suspects were fined by the Magistrate.
 [Data](articles/434c8b09.json)
 
 [Extended Data](ext_articles/434c8b09.ext.json)
+
+---
+
+### The Democratic National Convention 2024 – “Hope is making a comeback”
+
+*2024-08-26 15:08:00* · [`islandlk`](http://island.lk/the-democratic-national-convention-2024-hope-is-making-a-comeback/) · `en`
+
+The most crucial week for the Democrats in the current election season ended last week, with a resounding triumph for the Democratic Party at its Convention in Chicago. The next few days will indicate how much the events of last week would impact the ongoing surge of support the Harris/Walz ticket has enjoyed since President Biden made the selfless decision of patriotism by not seeking re-election two weeks ago. This was a decision which upended the projections of most of the polls, which were then projecting Trump cruising to victory in November.
+
+...
+
+[Data](articles/de70eb22.json)
 
 ---
 
@@ -954,21 +1024,35 @@ A survey of last year's survey revealed that the Australians have done 281 hours
 
 ---
 
-### පුද්ගලික සරසවි සිසුවෙකුගේ පහරදිමෙන් භෞත චිකිත්සක ජීවිතක්ෂයට
+### Physiotherapy kills a private university student
 
 *2024-08-26 12:47:03* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලික-සරසවි-සිසුවෙකුගේ-පහරදිමෙන්-භෞත-චිකිත්සක-ජීවිතක්ෂයට/11-411560) · `si`
 
-පුද්ගලික සරසවියක ජාල ඉංජිනේරු පාඨමාලාවක් හදාරන  (නෙට්වර්ක් ඉන්ජිනියර්) 19 හැවිරිදි  සිසුවෙකු  හා  44 හැවිරිදි  භෞත චිකිත්සකවරයෙකු අතර නවාතැන්පොළකදී ඇතිවූ බහින්බස්වීමකින් අනතුරුව ඇලුමිනියම් ජෝගුවකින් හිසට පහර දීමෙන් භෞත චිකිත්සක වරයා  ඊයේ රාත්‍රියේදී මියගොස් ඇතැයි මරදාන පොලිසිය කියයි.
+Here's a summary of the article in 200 characters:
 
-මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 44 ක් වන සන්තාර් නමැති පුද්ගලයෙකි .ඔහු පදිංචි ප්‍රදේශයක් නිශ්චිතව අනාවරණය නොවන බව පොලිසිය කියයි. පහරදීම සම්බන්ධයෙන්  වැලිමඩ ප්‍රදේශයේ පදිංචි සැකකාර සිසුවා පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇත
 
-මියගිය පුද්ගලයා සහ සැකකරු මරදාන දේවානම් පියතිස්ස මාවතේ තෙමහල් ගොඩනැගිල්ලක පවත්වාගෙන යන නවාතැන්පොළක පහත මහලේ තවත් පුද්ගලයන් දෙදෙනකු සමග නවාතැන් ගෙන සිට ඇති  බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
 
-සැකකාර සිසුවා ඊයේ (25) රාත්‍රී විදුලි බල්බය දල්වාගෙන පාඩම් කටයුතුවල නිරතව සිට ඇති අතර බල්බය නිවා දමන ලෙස  මියගිය පුද්ගලයා  සිසුවාට පවසා ඇති අතර ඒ සම්බන්ධයෙන් දෙදෙනා අතර බහින්බස්වීමක් සිදුවී ඇතැයි පොලිසිය කියයි.
+Physiotherapy student killed by 44-year-old practitioner in Welimada. Suspect arrested. Victim found in three-story building. Police investigation ongoing.
 
-...
+🟩
+
+The Physiotherapist, a 19-year-old student of a private university (Network Inigid) and a stalls of a 44-year-old physiotherapy, the Physiotherapist said yesterday that Physiotherapist had died last night.
+
+The victim was a 44 year old Sarar.. The suspect student of Welimada has been arrested by police regarding the attack
+
+Police investigations have revealed that the dead had been accommodated with two other people on a three storied building in a three-storied building at Devanam Piyatissa Mawarana, Maradayanona Devanam Piyatissa.
+
+The suspect had been lifted and studying the bulb yesterday (25) and the bulb has said that the bulb has said that the bulb has said.
+
+The suspect was seriously injured and the suspect had been seriously injured and the two persons who were in the room were hospitalized after being hospitalized by a aluminum mug.
+
+Inspector of Maradana Police Chief Inspector Ishahahant Kumara's instructions
+
+◼️
 
 [Data](articles/a39a78de.json)
+
+[Extended Data](ext_articles/a39a78de.ext.json)
 
 ---
 
@@ -2353,51 +2437,5 @@ Gajanayake said the distribution of liquor during the election campaign was seve
 [Data](articles/c42c4124.json)
 
 [Extended Data](ext_articles/c42c4124.ext.json)
-
----
-
-### Exchange IMF. Can't change the agreement
-
-*2024-08-26 06:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-உடன்படிக்கையை-மாற்றமுடியாது/175-342765) · `ta`
-
-President Ranil Wickremesinghe stated IMF agreement cannot be changed, economic collapse risk. He proposed reducing taxes and prices but emphasized strengthening currency and adhering to IMF terms. The President urged Sajith Premadasa and Anura Dissanayake to negotiate with IMF immediately.
-
-🟩
-
-The president said that there was no possibility of changing the agreement with the IMF and that if that happened, the country's economy would fall again, the president would reduce taxes and reduce the prices of goods and that Sajith Premadasa and Anurakumara Dissanayake were trying to deceive the country and destroy the country.
-
-Through this, the President pointed out that the people can find the truth in the platforms they say on the platforms.
-
-The President pointed out that he wanted to reduce the prices and taxes of goods, however, that he could only do it by strengthening the rupee and acting in accordance with the International Monetary Fund.. In addition, the President requested Sajith Premadasa and Anura Dissanayaka to submit it in negotiations with the IMF immediately.
-
-President Ranil Wickremesinghe made this statement while addressing a meeting of the United National Party (UNP) Special Federation held at the party headquarters in Pittagottai yesterday afternoon (25). (A)
-
-◼️
-
-[Data](articles/447c93e8.json)
-
-[Extended Data](ext_articles/447c93e8.ext.json)
-
----
-
-### PHIs kills two people drowning
-
-*2024-08-26 06:43:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PHIகள்-இருவர்-நீரில்-மூழ்கி-பலி/175-342764) · `ta`
-
-Two public health inspectors drown while bathing in Sri Lanka.
-
-🟩
-
-Two public health inspectors who bathed in the Yakirala Ettavadunu area yesterday (25) have been drowned, police said.
-
-They also said that the two had suffered the accident while bathing in the Ettvetunnu Wavi along with four PHIs.
-
-The victims have been reported to be PHIs from Moratuwa and Ekoda MOH offices.
-
-◼️
-
-[Data](articles/34b60ffa.json)
-
-[Extended Data](ext_articles/34b60ffa.ext.json)
 
 ---

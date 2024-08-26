@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 22:10:41**
+As of **2024-08-26 22:37:05**
 
 ## Newspaper Stats
 
-*Scraped **42,718** Articles*
+*Scraped **42,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,68 +13,150 @@ newsfirstlk | 363
 bbccomsinhala | 395
 colombotelegraphcom | 409
 islandlk | 2,489
-economynextcom | 2,575
+economynextcom | 2,584
 dailyftlk | 2,769
-adalk | 3,943
+adalk | 3,945
 dailymirrorlk | 4,733
-adaderanalk | 5,025
-tamilmirrorlk | 5,560
+adaderanalk | 5,026
+tamilmirrorlk | 5,561
 virakesarilk | 6,781
-adaderanasinhalalk | 7,318
+adaderanasinhalalk | 7,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,714 (100.0%) of 42,718 articles have been extended.
+42,725 (100.0%) of 42,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### නාමල්ගෙන් සෑම මැතිවරණ කොට්ඨාසයකටම කර්මාන්තයක්
+### மற்றுமொரு SLPP எம்.பி ரணிலுடன் இணைந்தார்
+
+*2024-08-26 22:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-SLPP-எம்-பி-ரணிலுடன்-இணைந்தார்/175-342827) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு தனது ஆதரவை வழங்குவதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினர் விமலவீர திஸாநாயக்க தெரிவித்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை கொழும்பு பிளவர் வீதியில் உள்ள அவரது அரசியல் காரியாலயத்தில் சந்தித்து அவருக்கு ஆதரவு வழங்குவதாக விமலவீர உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/9590b969.json)
+
+---
+
+### රිස්වාන්ට පන්දුවෙන් දමාගැසූ ශකීබ්ට වැඩ වරදියි
+
+*2024-08-26 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200360) · `si`
+
+බංග්ලාදේශය හා පාකිස්තානය අතර රාවල්පිණ්ඩිහිදී අවසන් වූ පළමු ටෙස්ට් ක්‍රිකට් තරගයේ පාකිස්තානු දෙවැනි ඉනිමේ පන්දුවට පහරදෙමින් සිටි මොහොමඩ් රිස්වාන් දෙසට පන්දුව දමාගැසීම හේතුවෙන් බංග්ලාදේශ ක්‍රීඩක ශකීබ් අල් හසන්ට දඩ පැනවීමට අයි.සී.සී.ය පියවර ගෙන ඇත.
+
+මෙය තම චර්යාධර්ම සංග්‍රහයේ පළමු මට්ටමේ වරදක් බව පෙන්වාදෙන  ICCය, ශකීබ්ගේ තරග ගාස්තුවෙන් 10%ක දඩයක් පනවා ඇත.
+
+එහිදී ශකීබ් පන්දු යැවීම ආරම්භ කරන විටත් රිස්වාන් පන්දුවට පහරදීමට සූදානම් වී නොසිටි අතර, ඊට උරණ වූ ඔහු ක්ෂණිකව තම අතෙහි තිබූ පන්දුව කඩුලු රකිමින් සිටි ලිටන් දාස් වෙතට යොමු කළේය.
+
+මේ අතර මෙම තරගයේදී කණ්ඩායම් දෙකම අඩු පන්දුවාර වේගයක් පවත්වා ගැනීම හේතුවෙන්  කණ්ඩායම් දෙකටම ICCය විසින් දඬුවම් පනවා ඇත.
+
+මෙම තරගාවලිය 2023-25 ටෙස්ට් ලෝක ශූරතාව යටතේ පැවැති හෙයින් ඔවුන්ගේ ප්‍රසාද ලකුණු වලින්ද අඩු කිරීමට ICCය කටයුතු යොදා ඇත.
+
+පාකිස්තානය නියමිත කාලය අවසන් වද්දී පන්දුවාර 06ක් අඩුවෙන් යොමුකර ඇති අතර, ඒ හේතුවෙන් ලකුණු 06ක්ද, බංග්ලාදේශය පන්දුවාර 03ක් අඩුවෙන් යොමුකර ඇකි හෙයින් ලකුණු 03ක්ද අඩුකර ඇත.
+
+...
+
+[Data](articles/12074c4f.json)
+
+---
+
+### Inland Revenue, Customs, and Excise tax arrears are under Rs. 90 billion - Commissioner General
+
+*2024-08-26 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101528/inland-revenue-customs-and-excise-tax-arrears-are-under-rs-90-billion-commissioner-general) · `en`
+
+Commissioner General of the Excise Department M.J. Gunasiri has dismissed claims of significant arrears in three major government revenue sources namely the Inland Revenue Department, Sri Lanka Customs, and the Excise Department as myths.
+
+Speaking at the press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC), today (26), he clarified that the outstanding tax amount for these three institutions totals only Rs.90 billion. He also noted that it is typical for any country to have 3%-5% of its total tax revenue in outstanding taxes.
+
+Commissioner General Gunasiri further highlighted that these three institutions achieved record revenue in 2023, surpassing Rs.3 trillion. Additionally, after 25 years, they succeeded in creating a surplus in the primary account.
+
+Addressing the media personnel, Commissioner General of Excise further explained;
+
+...
+
+[Data](articles/bc791a14.json)
+
+[Extended Data](ext_articles/bc791a14.ext.json)
+
+---
+
+### Namal is an industry in every electorate
 
 *2024-08-26 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200359) · `si`
 
-තම රජයක් යටතේ සමෘද්ධි ව්‍යාපාරය සවිමත් කිරීමට පියවර ගන්නා බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතා පැවසීය.
+Here's a summary of the text in 200 characters:
 
-දොඩම්ගස්ලන්ද ප්‍රදේශයේ අද (26) පැවති රැස්වීමකට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
 
-"සමෘද්ධි ව්‍යාපාරය තුළ තමයි මේ රටේ ග්‍රාමීය ආර්ථිකය වගේම අහිංස දෙමාපියන්ව දුප්පත්කමින් එළියට ගන්න පුළුවන් වැඩපිළිවෙල තියෙන්නේ. පැහැදිලිවම මම හදන ආණ්ඩුවක් තුළ සමෘද්ධි ව්‍යාපාරය ශක්තිමත් කිරීමේ වැඩපිළිවෙල ක්‍රියාත්මක කරනවා. අපි සමෘද්ධිලාභියාව ව්‍යවසායකයෙක් බවට පත්කරනවා. සමෘද්ධි පවුලේ දරුවට දේශීය විදේශීය රැකියා වෙළඳපොළට යන්න පුළුවන් අවකාශය හඳනවා. අපි ආයෝජකයෝ ගමට ගේනවා. රැකියා උත්පාදනය කරන්න අවශ්‍ය පරිසරය අපි නිර්මාණය කරනවා. අපි හදන ආණ්ඩුවක් තුළ සෑම මැතිවරණ කොට්ඨාසයකටම කර්මාන්තයක්, කර්මාන්තයකට ආයෝජනය කරන්න පුළුවන් අවකාශය නිර්මාණය කරනවා".
+
+Sri Lanka presidential candidate Namal Rajapaksa promises to boost Samurdhi program, creating entrepreneurs and jobs in rural areas through investments and industries in each electorate.
+
+🟩
+
+Presidential candidate on the Sri Lanka General Arose Namal Rajapaksa said that steps will be taken to strengthen the Samurdhi business under a government.
+
+He was speaking at a meeting held in Dodamgaslanda today (26).
+
+"The Samurdhi business is the program that can get rural economy and the inheritated parents in this country.. Clearly, the program is being implemented to strengthen the Samurdhi campaign in a government that is making.. We make Samurdhiya recipients a entrepreneur. The Samurdhi family child can go to the local overseas job market. We're investors bring to the village. We create the environment where we need to generate jobs. In a government we create, every electorate is created to invest in an industry and industry. "
 
 ◼️
 
 [Data](articles/744eb3a1.json)
 
+[Extended Data](ext_articles/744eb3a1.ext.json)
+
 ---
 
-### රාජ්‍ය සේවයට දිලිත් කරන්න යන වෙනස
+### Diming of the Public Service
 
 *2024-08-26 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200358) · `si`
 
-සර්වජන බලය රජයක් යටතේ ව්‍යවසායකත්ව මනසකින් යුත් රාජ්‍ය සේවකයෙකු බිහිකිරීම හරහා මෙරට රාජ්‍ය සේවය කාර්යක්ෂම කරන බව සර්වජන ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera proposes entrepreneurship-driven public service model. He criticizes current system, suggesting bonuses based on performance rather than just years served. Aims to attract skilled professionals like military and doctors to civil service.
 
-අනුරාධපුරයේ පැවති ව්‍යවසායක හමුවකට එක්වෙමින් ඔහු මෙම අදහස් පළ කළේය.
+🟩
+
+The presidential presidential candidate entrepreneur, Dilith Jayaweera says that the Rajapaksas will commit an efficient public service through a government that is the production of an entrepreneurship public servant under a government.
+
+He was speaking at a entrepreneurist meeting in Anuradhapura.
 
 ...
 
 [Data](articles/5c8f71eb.json)
 
+[Extended Data](ext_articles/5c8f71eb.ext.json)
+
 ---
 
-### පාස්පෝට් සඳහා අයදුම්කරන අයට විශේෂ දැනුම්දීමක්
+### Special notice to those who apply for passport
 
 *2024-08-26 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200357) · `si`
 
-හිස් විදෙස් ගමන් බලපත්‍රවල හිඟයක් ඇති බැවින් අත්‍යවශ්‍ය හේතුවක් ඇත්නම් පමණක් විදේශ ගමන් බලපත්‍ර සඳහා අයදුම්කරන ලෙස ආගමන හා විගමන දෙපාර්තමේන්තුව අයදුම්කරුවන්ගෙන් ඉල්ලා සිටී.
+Here's a summary of the text in 200 characters:
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අලුතින් නිකුත්කළ හැකි විදෙස් ගමන් බලපත්‍ර සීමිත බැවින් එම ඉල්ලීම කරන බවයි.
 
-නව විද්‍යුත් විදේශ ගමන් බලපත්‍රය නුදුරේදීම හඳුන්වා දීමට පියවර ගන්නා බවත් ඊට අදාළ ටෙන්ඩර් කැඳවා ඇති බවත් ආගමන හා විගමන පාලක ජනරාල්වරයා වැඩිදුරටත් දන්වා සිටී.
+
+Department of Immigration & Emigration: Apply for passport only if foreign passport slots available. New electronic passports soon. Limited newly issued foreign passports.
+
+🟩
+
+The Department of Immigration and Emigration calls for applicants to apply for a passport only if there is an empty foreign passports.
+
+The department states that the request is made as newly issued foreign passports are limited.
+
+The Controller General of Immigration and Emigration has also said that the new electronic passport will be introduced soon.
 
 ◼️
 
 [Data](articles/257566c3.json)
+
+[Extended Data](ext_articles/257566c3.ext.json)
 
 ---
 
@@ -91,6 +173,8 @@ The announcement also mentioned that new electronic passports (E-Passports) are 
 ◼️
 
 [Data](articles/a84c323a.json)
+
+[Extended Data](ext_articles/a84c323a.ext.json)
 
 ---
 
@@ -354,6 +438,28 @@ The moment we have evolved here today, as a political movement, is the most syst
 
 ---
 
+### Sri Lanka’s NPP plans to raise tax-free threshold to Rs 200K monthly income
+
+*2024-08-26 19:06:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-plans-to-raise-tax-free-threshold-to-rs-200k-monthly-income-178110/) · `en`
+
+ECONOMYNEXT — The leftist National People’s Power (NPP) has proposed that Sri Lanka’s income tax-free threshold be increased to 2.4 million rupees a year from the current 1.2 million and to “equitably” amend tax rates and tax brackets.
+
+The NPP’s election manifesto released on Monday August 26 has also proposed that the tax base be widened according to taxation fundamentals.
+
+Increasing the tax-free threshold to include people who earn up to 200,000 rupees a month will likely exclude many people from the tax base, however.
+
+NPP leader and presidential candidate Anura Kumara Dissanayake first proposed this increase in January 2023. He also said at the time that an NPP government would cap progressive taxation at a maximum of 24 percent.
+
+Treasury Secretary Mahinda Siriwardana said on August 18 2024 that Sri Lanka’s planned relief to personal income tax payers could cost 0.08 percent of gross domestic product in lost revenues and would be compensated by additional tax measures.
+
+...
+
+[Data](articles/6ccd4037.json)
+
+[Extended Data](ext_articles/6ccd4037.ext.json)
+
+---
+
 ### 25 ministries of Anura's government - no
 
 *2024-08-26 19:04:45* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගේ-රජයක-අමාත්‍යාංශ-25යි---රාජ්‍ය-අමාත්‍යධුර-නෑ/11-411574) · `si`
@@ -500,6 +606,36 @@ Significantly, his comments have been made in response to the recent reports of 
 
 ---
 
+### ලක්ෂ 400 භාණ්ඩ තොගයක් කටුනායකින් පන්නන්න බැරිවෙයි
+
+*2024-08-26 18:05:39* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-400-භාණ්ඩ-තොගයක්-කටුනායකින්-පන්නන්න-බැරිවෙයි/11-411571) · `si`
+
+රුපියල් කෝටි හතරක් පමණ වටිනා භාණ්ඩ තොගයක් නීතිවිරෝධී ලෙස  සහ නිසි අවසරයකින් තොරව මෙරටට රැගෙන විත් , තීරු බදු නොගෙවා  කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යාමට තැත් කළ ගුවන් මගීන් දෙදෙනෙකු ද සමග ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් 08/26 දින අත් අඩංගුවට ගෙන තිබේ.
+
+මෙම ගුවන් මගීන් දෙදෙනා කොළඹ , ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ පදිංචි 57 හැවිරිදි කාන්තාවක සහ 55 හැවිරිදි පිරිමි පුද්ගලයෙකි . මොවුන් දෙදෙනා ඥාතීත්වයෙන් අක්කා සහ මල්ලී වන අතර ඔවුන් ව්‍යාපාරිකයන්ගේ අවශ්‍යතා මත විදේශයන් වෙත ගොස් භාණ්ඩ ගෙනැවිත් දීමේ ව්‍යාපාරයක නිරත වී සිටින්නන් වේ.
+
+මොවුන් දෙදෙනා 08/26 දින උදෑසන 06.51 ට ඉන්දියාවේ චෙන්නායි සිට ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 273 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+ඔවුන් ව්‍යාපාරිකයන් සදහා කටුනායක ගුවන් තොටුපොළ තුළ  වෙන් කර ඇති "රක්ත මාවත " ඔස්සේ ගුවන් තොටුපොළෙන් පිට වී යමින් සිටියදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් මෙම අත් අඩංගුවට ගැනීම සිදු කර තිබේ.
+
+...
+
+[Data](articles/570abc94.json)
+
+---
+
+### සජිත් සහ අනුර සත්‍ය නිදි කරමින්, බොරුව වපුරමින් සිටිනවා
+
+*2024-08-26 17:54:02* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-සහ-අනුර-සත්‍ය-නිදි-කරමින්--බොරුව-වපුරමින්-සිටිනවා/11-411570) · `si`
+
+දීර්ඝ කාලයක් පුරා ශ්‍රී ලංකා නිදහස් පක්ෂය නියෝජනය කරමින් ප්‍රබල ක්‍රියාකාරින් ලෙස කටයුතු කළ පිරිසක් මෙවර ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කිරීමට එක් වෙති.
+
+...
+
+[Data](articles/94fbf2de.json)
+
+---
+
 ### Employment opportunities for Sri Lankan women in South Korea’s fisheries sector
 
 *2024-08-26 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101524/employment-opportunities-for-sri-lankan-women-in-south-koreas-fisheries-sector) · `en`
@@ -517,6 +653,30 @@ The program is being implemented by the Sri Lanka Bureau of Foreign Employment (
 [Data](articles/ef2c1c39.json)
 
 [Extended Data](ext_articles/ef2c1c39.ext.json)
+
+---
+
+### Three Chinese warships arrive in Colombo
+
+*2024-08-26 17:38:00* · [`economynextcom`](https://economynext.com/three-chinese-warships-arrive-in-colombo-178094/) · `en`
+
+ECONOMYNEXT – Three Chinese warships; He Fei, Wuzhishan and Qilianshan arrived at Sri Lanka’s Colombo port on a formal visit on Monday (26).
+
+This follows the docking of Indian warship ‘Mumbai’ which is on a three-day visit to Sri Lanka during which it will engage in a Passage Exercise with a Sri Lanka Navy vessel.
+
+Last week, three US warships docked at the port for replenishment; the USS Spruance, USS O’kane, and the USS Stockdale.
+
+The He Fei is a 144.50-meter-long destroyer, crewed by 267 personnel under the command of Captain Chen Junfeng.
+
+The Wuzhishan is a 210-meter-long Landing Platform Dock, manned by 872 crew members and commanded by Captain Fei Zhang.
+
+The Qilianshan is a 210-meter-long Landing Platform Dock, with 334 crew members under the command of Captain Xiong Binghon.
+
+...
+
+[Data](articles/41b5d9ec.json)
+
+[Extended Data](ext_articles/41b5d9ec.ext.json)
 
 ---
 
@@ -561,6 +721,26 @@ The 'Ins Member ship' (PASS MUMBBAI) is due to leave the island on August 29, 20
 [Data](articles/00c982d0.json)
 
 [Extended Data](ext_articles/00c982d0.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 300.80/301.20, bond yields steady
+
+*2024-08-26 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-80-301-20-bond-yields-steady-178088/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 300.80/301.20 to the US dollar on Monday, from 299.70/300.00 on Friday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 11.00/15 percent.
+
+A bond maturing on 01.07.2028 closed at 12.55/65 percent, up from 12.40/50 percent.
+
+A bond maturing on 15.06.2029 closed at 12.65/80 percent, up from 12.65/75 percent.
+
+◼️
+
+[Data](articles/c30ddab5.json)
+
+[Extended Data](ext_articles/c30ddab5.ext.json)
 
 ---
 
@@ -679,6 +859,28 @@ The Kanagarayakulam police who went to the place of the complaint were arrested 
 [Data](articles/b62de380.json)
 
 [Extended Data](ext_articles/b62de380.ext.json)
+
+---
+
+### Sri Lanka to miss excise revenue target as high prices reduces legal arrack sales
+
+*2024-08-26 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-miss-excise-revenue-target-as-high-prices-reduces-legal-arrack-sales-178077/) · `en`
+
+ECONOMYNEXT – Sri Lanka is likely to miss the 2024 target on the excise tax as production has reduced compared to the last year with the liquor prices having risen amid increase in illicit liquor manufacturing, a top Excise Department official said.
+
+Sri Lanka government has set a target of 232 billion rupees for 2024; a 29.6 percent jump compared to last year’s 179 billion rupees.
+
+The Excise Department has already collected 132.7 billion rupees in taxes up to August 22, compared to 106.5 billion rupees in the same period last year.
+
+However, the Excise Department believes it can reach only 215 billion rupees in the full year.
+
+M.J. Gunasiri, Commissioner General of Excise said the liquor production fell 22 percent to 35 million liters last year compared to 45 million in 2022.
+
+...
+
+[Data](articles/00594acd.json)
+
+[Extended Data](ext_articles/00594acd.ext.json)
 
 ---
 
@@ -843,6 +1045,30 @@ The Sri Lanka Bureau of Foreign Employment has implemented this program.
 [Data](articles/567847b0.json)
 
 [Extended Data](ext_articles/567847b0.ext.json)
+
+---
+
+### Sri Lanka stocks close down, trading muted
+
+*2024-08-26 16:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-trading-muted-178070/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 1.43 percent, or 162.08 points, at 11,199; while the more liquid S&P SL20 Index closed down 2.00 percent, or 64.94 points, at 3,189.
+
+Foreign buying was seen in Melstacorp Plc (down at 80.10), John Keells Holdings Plc (down at 177.50), Resus Energy Plc ( down at 22.30) and People’s leasing and Finance Plc (down at 11.80).
+
+Foreign selling was seen in John Keells Hotels Plc (down at 15.30), Vallibel Power Erathna Plc (flat at 8.70), Vidullanka Plc (down at 13.00), and Ceylon Cold Stores (down at 53.60).
+
+There were two crossings; Hayleys Plc (down at 93.10) and Melstacorp.
+
+Top turnover generators were Hayleys, Melstacorp, Dialog Axiata Plc (flat at 8.90), and Sampath Bank Plc (down at 75.00). (Colombo/Aug26/2024)
+
+◼️
+
+[Data](articles/81c8c65b.json)
+
+[Extended Data](ext_articles/81c8c65b.ext.json)
 
 ---
 
@@ -1260,6 +1486,28 @@ As the main candidates crisscross the country, rallying support and addressing t
 
 ---
 
+### Sri Lanka’s NPP manifesto reveals IMF renegotiation proposals
+
+*2024-08-26 14:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-manifesto-reveals-imf-renegotiation-proposals-178061/) · `en`
+
+ECONOMYNEXT — The leftist National People’s Power (NPP) in its election manifesto has revealed its approach to re-negotiations with the International Monetary Fund (IMF) if the party wins Sri Lanka’s upcoming presidential election.
+
+The proposals made by the NPP with regard to IMF negotiations are as follows:
+
+1. Discussing again with the IMF the inclusion and implementation of a stronger and more correct programme to salvage people who have been subject to poverty and vulnerability
+
+2. Re-evaulate revenue-based fiscal consolidation proposals made by the IMF and present proposals for efficient tax administration and state expenditure management
+
+3. Preparing an alternative debt sustainability analysis (DSA) to be used in debt evaluations as needed aimed at maintaining debt sustainability and maintaining interest rates at affordable levels
+
+...
+
+[Data](articles/c3512725.json)
+
+[Extended Data](ext_articles/c3512725.ext.json)
+
+---
+
 ### Full description of the policy statement of the National Folk Force
 
 *2024-08-26 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200347) · `si`
@@ -1518,6 +1766,26 @@ We were in the cabinet that day. President Gotabhaya Rajapaksa had Gotabhaya Raj
 
 ---
 
+### IMF cannot speak for bilateral, multilateral partners: Sri Lanka president
+
+*2024-08-26 13:40:00* · [`economynextcom`](https://economynext.com/imf-cannot-speak-for-bilateral-multilateral-partners-sri-lanka-president-178056/) · `en`
+
+ECONOMYNEXT — The International Monetary Fund (IMF) cannot speak for the 20 countries and multilateral agencies that Sri Lanka has entered into agreements with, so there is no point approaching the IMF for renegotiation, President Ranil Wickremesinghe said.
+
+“We have now come to some stability. We have entered agreements with 18 countries, the World Bank and the Asian Development Bank (ADB). The first approval was given to the IMF. It didn’t end there. We then had to talk to China and other countries. We have to work according to this,” Wickremesinghe said speaking at an event in Colombo on Sunday August 25.
+
+Wickremesinghe said Sri Lanka has to raise 5 trillion rupees in revenue in 2025.
+
+“If you promise to reduce taxes and give this or that free in your election campaigns, this agreement is broken,” he said.
+
+“You have to find money elsewhere. If you reduce value added tax (VAT), you have to raise income tax,” he added.
+
+...
+
+[Data](articles/035ceaf8.json)
+
+---
+
 ### Sri Lanka promotes Ramayana Trail in Malaysia eyeing tourism growth
 
 *2024-08-26 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101514/sri-lanka-promotes-ramayana-trail-in-malaysia-eyeing-tourism-growth) · `en`
@@ -1597,6 +1865,26 @@ With the assurance, the OIC of a police inspector is appointed OIC of the OIC an
 [Data](articles/ab7748db.json)
 
 [Extended Data](ext_articles/ab7748db.ext.json)
+
+---
+
+### Sri Lanka’s income tax agency’s 2024 collection exceeds targets so far
+
+*2024-08-26 13:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-income-tax-agencys-2024-collection-exceeds-targets-so-far-178058/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s income tax agency has exceeded its monthly targets so far in 2024 and is expected to achieve the full-year target comfortably, a top official said.
+
+President Ranil Wickremesinghe’s government has set an ambitious tax revenue target of 2,024 billion rupee for the Inland Revenue Department for this year, 30 percent higher than last year’s total collection of 1,550 billion rupees.
+
+The IRD has collected 1,224 billion rupees, 60 percent of the 2024 target, as of August 22, the provisional IRD data showed.
+
+“We have exceeded the target in the first half,” B.K. Saman Shantha, Deputy Commissioner General​ in charge of Tax Policy, International Affairs and Legal at the  IRD told reporters at a media briefing in Colombo.
+
+“The first six month target is 40 percent of the full-year target and the rest of the 60 percent is collected from the second half of the year due to seasonal patterns,” he explained.
+
+...
+
+[Data](articles/32f91fb1.json)
 
 ---
 
@@ -1759,6 +2047,26 @@ The sum was enough to protect the consumer and the farmer.
 [Data](articles/6286b028.json)
 
 [Extended Data](ext_articles/6286b028.ext.json)
+
+---
+
+### Sri Lanka Customs arrears of Rs57.7bn from state agencies
+
+*2024-08-26 12:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-arrears-of-rs57-7bn-from-state-agencies-178055/) · `en`
+
+ECONOMYNEXT – Out of 58.6 billion rupees of uncollected revenues of Sri Lanka Customs, 57.7 billion rupees related to state agencies, Chief Financial Officer M A Muthukude said.
+
+The arrears came due to various facilities given to state agencies to clear goods at in past year, he told reporters in Colombo.
+
+Out of 38 parties that from whom uncollected taxes were due, 37 were state agencies.
+
+The state agencies were given various accommodations to release goods and the money was now owned to various ministries.
+
+Even for the state agencies to pay the taxes, the Treasury will probably have to make an allocation to the relevant ministry to pay the customs charge and the likelihood of the Treasury getting any net revenue was low, Muthukuke said.  (Colombo/Aug26/2024)
+
+◼️
+
+[Data](articles/0d744157.json)
 
 ---
 
@@ -2267,329 +2575,5 @@ Accordingly, the deposit money launch for the election will be named after Monda
 [Data](articles/3c915bfc.json)
 
 [Extended Data](ext_articles/3c915bfc.ext.json)
-
----
-
-### Sri Lanka wins Bigaward Tournament
-
-*2024-08-26 11:07:37* · [`adalk`](https://www.ada.lk/breaking_news/කායවර්ධන-ජාත්‍යන්තර-තරගාවලියකින්-ලංකාවට-තවත්-ජයක්/11-411558) · `si`
-
-Sri Lanka wins Big Award Tournament. Harsh D Peiris takes top prize in Diamond Cup-Lebanon bodybuilding competition.
-
-🟩
-
-Sri Lankan bodybuilding organized by the Diamond Cup - Lebanon (I.F.B.), Sri Lankan bodybuilding organized by Sri Lanka in the Diamond Cup - Lebanon (LEBANON).175 (FIT MODEL)
-
-The first place in the event, arrived at the Katunayake Airport on the morning of 173 (MENS PHYSIQUE Election.
-
-The cup and certificates were provided instead of awarding gold and silver medals for the first and second places.
-
-The International Bodybuilding Championship was held from 500 athletes from 500 countries from 500 countries from the world from 08/23 to 08/22.
-
-Harsh D Peiris, a resident of Moratuwa, is one of the children and a large number of students are being performed in the field of coordief.
-
-Hirsz Berware Champion at 04.55 am on 4.55 am on Dubai to SriLankan Airlines - 226 at the Katunayake airport.
-
-His wife, small daughter, his mother, his mother, his father, his mother, and his mother, father, and the Katunayaka Airport were also present at the Bandaranaike International Airport.
-
-◼️
-
-[Data](articles/ebd37157.json)
-
-[Extended Data](ext_articles/ebd37157.ext.json)
-
----
-
-### The release of the National People's Power in the Theme "prosperous country - beautiful life"
-
-*2024-08-26 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191989) · `ta`
-
-National People's Power releases election manifesto focusing on a prosperous country and beautiful life. It proposes an alternative to the executive presidency and aims to create a new constitution benefiting all citizens.
-
-🟩
-
-The National People's Power election manifesto was published in Colombo today by the party's president and presidential candidate, Anura Kumara Dissanayake.
-
-The leader of the National People's Power Anura Kumara Dissanayake presented the election manifesto to religious leaders.
-
-The United People's Power election manifesto includes plans to implement an alternative system instead of the executive presidency.
-
-The election manifesto also states that a new constitution will be created in favor of all people.
-
-◼️
-
-[Data](articles/41e268da.json)
-
-[Extended Data](ext_articles/41e268da.ext.json)
-
----
-
-### Sri Lanka seeks stronger ties with Central Asian countries
-
-*2024-08-26 10:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-stronger-ties-with-central-asian-countries-178032/) · `en`
-
-ECONOMYNEXT – Sri Lanka is exploring opportunities in the Central Asia region with a focus on economic diplomacy, its Ministry of Foreign Affairs said.
-
-The ministry, together with the Geopolitical Cartographer, hosted the Central Asia Forum 2024 last week which explored “the potential for future cooperation between Sri Lanka and Central Asia, a region with increasing geopolitical and geo-economic significance” it said in a statement.
-
-“The success story of Sri Lanka’s pioneering investment by LOLC in Central Asia, in the financial services sector, provided useful insights into entering the Central Asian market and building a competitive business in a hitherto unexplored region,” the ministry said.
-
-Sri Lankan conglomerate LOLC Holdings operates in Tajikistan, Kazakhstan, and Kyrgyzstan.
-
-...
-
-[Data](articles/15334beb.json)
-
-[Extended Data](ext_articles/15334beb.ext.json)
-
----
-
-### The secret of the world's oldest man
-
-*2024-08-26 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200339) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Juan Twenty Perines, world's oldest man according to Guinness, passed away last April. Tiniswood, living in an English adult home, claims no secret. Born August 26, 1912, in Liverpool, England. He was very active in youth, walking daily.
-
-🟩
-
-According to Guinness, Juan Twenty Perines, as the oldest person in the world, passed away last April.
-
-Tiniswood, who lives in an adult home in the Southporter, England, says that he does not know a secret.
-
-On August 26, 1912, he was born in Liverpool, England.
-
-He says he was very active at his young age and walked every day.
-
-◼️
-
-[Data](articles/bfc8e179.json)
-
-[Extended Data](ext_articles/bfc8e179.ext.json)
-
----
-
-### Anura Kumara unveils election manifesto
-
-*2024-08-26 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101507/anura-kumara-unveils-election-manifesto) · `en`
-
-The National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake has unveiled his election manifesto in Colombo, a short while ago.
-
-The event of unveiling the NPP’s election manifesto, titled “A Thriving Nation, A Beautiful Life”, was joined by several dignitaries including the Leader of the NPP, Presidential Candidate Anura Kumara Dissanayake, members of the party and several religious leaders.
-
-Addressing the event, NPP Parliamentarian Harini Amarasuriya stated that although several parties present their manifestos, they act completely against them following their election to the offices.
-
-Furthermore, she said that the NPP is presenting the social contract of their party with the people of the country through the manifesto, and that they will carry out the ruling of the country as per the relevant contract only.
-
-◼️
-
-[Data](articles/f0bdf7f5.json)
-
-[Extended Data](ext_articles/f0bdf7f5.ext.json)
-
----
-
-### ‘None of other presidential candidates have paid taxes on their income’ – Dilith Jayaweera
-
-*2024-08-26 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101506/none-of-other-presidential-candidates-have-paid-taxes-on-their-income-dilith-jayaweera) · `en`
-
-The Presidential Candidate of the Saravajana Balaya Alliance, Entrepreneur Dilith Jayaweera invites candidates running for the office of the presidency to debate on his strategic roadmap for the nation.
-
-Addressing a public rally held in Anuradhapura, Jayaweera said that all of the candidates have failed to present a plan to explain how they are going to repay the debt they have taken on.
-
-Speaking at the rally, the Saravajana Balaya Presidential Candidate said: “we have presented a proper strategic plan. For the first time in Sri Lanka, we have explained when and how we are going to implement that. We have also mentioned how we are going to source the necessary funds for that.”
-
-“We would like to ask the people who borrowed huge amounts of money how they are going to repay them by 2028”, he questioned.
-
-...
-
-[Data](articles/c0980a94.json)
-
-[Extended Data](ext_articles/c0980a94.ext.json)
-
----
-
-### North Korea’s Kim Jong Un oversees tests of ‘suicide drones’
-
-*2024-08-26 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101505/north-koreas-kim-jong-un-oversees-tests-of-suicide-drones) · `en`
-
-North Korean leader Kim Jong Un watched as new “suicide drones” took off and destroyed test targets including a mock tank, and urged researchers to develop artificial intelligence for the unmanned vehicles, state media reported on Monday.
-
-Kim visited the Drone Institute of North Korea’s Academy of Defence Sciences on Saturday and viewed a successful test of drones correctly identifying and destroying designated targets after flying along different preset routes, state news agency KCNA said.
-
-Kim called for the production of more suicide drones to be used in tactical infantry and special operation units, such as underwater suicide attack drones, as well as strategic reconnaissance and multi-purpose attack drones, KCNA said.
-
-Also known as loitering munitions, such weapons been widely used in the war in Ukraine as well as in the Middle East.
-
-...
-
-[Data](articles/87716e3f.json)
-
-[Extended Data](ext_articles/87716e3f.ext.json)
-
----
-
-### Tea fertilizer subsidy
-
-*2024-08-26 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200338) · `si`
-
-Sri Lanka tea fertilizer subsidy: State Fertilizer Company reduces prices by Rs. 4000 per bag. Total cost: Rs. 2.4 billion. Funded by Sri Lanka Tea Board.
-
-🟩
-
-The fertilizer subsidy program for tea cultivation has been implemented.
-
-The Ministry of Agriculture and Plantation Industries have taken steps to reduce the prices of five fertilizers produced by the State Fertilizer Company.
-
-Accordingly, the price of a fertilizer bag of the tea has been reduced by Rs. 4,000.
-
-The price of 5 types of fertilizer has been reduced by 5 types of fertilizers used for tea cultivation.
-
-The total cost of the provision of this fertilizer subsidy is Rs. 2400 million.
-
-The Ministry of Agriculture states that steps have been taken to provide the tea growers without obtaining the money from the government.
-
-Minister Mahinda Amaraweera says that the total amount has been provided with the funds of the Sri Lanka Tea Board.
-
-◼️
-
-[Data](articles/39a84195.json)
-
-[Extended Data](ext_articles/39a84195.ext.json)
-
----
-
-### Nearly 1,000 election-related complaints received thus far - EC
-
-*2024-08-26 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101503/nearly-1000-election-related-complaints-received-thus-far-ec) · `en`
-
-The complaints received by the Election Commission of Sri Lanka related to the upcoming presidential election have further increased.
-
-The Election Commission says nearly 1,000 complaints have been received so far, pertaining to the 2024 Presidential Election.
-
-Accordingly, a total of 925 election complaints have been reported between July 31 and August 26, the commission said.
-
-Out of these, 901 are related to election law violations, one act of violence and 23 other complaints.
-
-However, the Election Commission emphasized that receiving nearly 1,000 complaints in less than a month is a very concerning situation.
-
-Meanwhile, the election monitoring organizations say that there is a rise in complaints related to the misuse of state property in connection with the Presidential Election.
-
-...
-
-[Data](articles/f4614b1f.json)
-
-[Extended Data](ext_articles/f4614b1f.ext.json)
-
----
-
-### Launching the policy statement of the national propagation
-
-*2024-08-26 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200337) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-National Propagation Policy launched. Presidential Statement from National Foundation initiated.
-
-🟩
-
-The Presidential Statement of the National Fundation has begun.
-
-◼️
-
-[Data](articles/8d27345b.json)
-
-[Extended Data](ext_articles/8d27345b.ext.json)
-
----
-
-### Murder of a person
-
-*2024-08-26 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200336) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Murder occurred in Devanampiyatissa Mawatha, Maradana. Dispute led to assault. 19-year-old suspect arrested.
-
-🟩
-
-The murder was carried out in the Devanampiyatissa Mawatha in Maradana during the night.
-
-The thug has taken place with an assault due to a dispute between two.
-
-A 19 year old resident of the crime has been arrested.
-
-◼️
-
-[Data](articles/35ec8fbe.json)
-
-[Extended Data](ext_articles/35ec8fbe.ext.json)
-
----
-
-### Veteran film director Sugathapala Senarath Yapa passes away
-
-*2024-08-26 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101502/veteran-film-director-sugathapala-senarath-yapa-passes-away) · `en`
-
-Veteran film director Sugathapala Senarath Yapa has passed away at the age of 89.
-
-He was highly regarded for his contributions as the creative director behind numerous award-winning films, including “Hanthane Kathawa,” “Pembara Madhu,” and “Induta Mal Mitak”.
-
-◼️
-
-[Data](articles/77aa363a.json)
-
-[Extended Data](ext_articles/77aa363a.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 299.75/300.50 to US dollar
-
-*2024-08-26 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-299-75-300-50-to-us-dollar-178026/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 299.75/300.50 to the US dollar on Monday, dealers said. Bond yields were down, they said, and stocks opened down 0.02 percent.
-
-The rupee closed at 299.70/300.00 to the greenback on Friday.
-
-In the secondary market, bonds were down, dealers said. Of the actively traded bonds;
-
-A bond maturing on 01.07.2028 was quoted at 12.45/55 percent, down from 12.45/60 percent.
-
-A bond maturing on 15.06.2029 was quoted at 12.70/80 percent, down from 12.80/95 percent.
-
-In equities, Colombo’s All Share Price Index opened 2.15 points lower at 11,363, while the S&P SL20 of more liquid stocks opened down at 0.18 percent or 5.90 points to 3,248.
-
-◼️
-
-[Data](articles/e42c6dff.json)
-
-[Extended Data](ext_articles/e42c6dff.ext.json)
-
----
-
-### Israel and Hezbollah in major missile exchange as escalation fears grow
-
-*2024-08-26 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101501/israel-and-hezbollah-in-major-missile-exchange-as-escalation-fears-grow) · `en`
-
-Hezbollah launched hundreds of rockets and drones at Israel early on Sunday, as Israel’s military said it struck Lebanon with around 100 jets to thwart a larger attack, in one of the biggest clashes in more than 10 months of border warfare.
-
-Missiles were visible curling up through the dawn sky, dark vapour trails behind them, as an air raid siren sounded in Israel and a distant blast lit the horizon, while smoke rose over houses in Khiam in southern Lebanon.
-
-On Sunday evening, sirens sounded in Rishon Letsiyon, central Israel, the Israeli Defense Forces (IDF) said, and added that one projectile had been identified crossing from the southern Gaza Strip and falling in an open area. The armed wing of Hamas said it had fired an “M90” rocket at Tel Aviv.
-
-Any major spillover in the fighting, which began in parallel with the war in Gaza, risks morphing into a regional conflagration drawing in Hezbollah’s backer Iran and Israel’s main ally the United States.
-
-...
-
-[Data](articles/1bb9f9bf.json)
-
-[Extended Data](ext_articles/1bb9f9bf.ext.json)
 
 ---

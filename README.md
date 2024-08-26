@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 10:21:46**
+As of **2024-08-26 10:36:47**
 
 ## Newspaper Stats
 
-*Scraped **42,612** Articles*
+*Scraped **42,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,55 @@ dailyftlk | 2,769
 adalk | 3,927
 dailymirrorlk | 4,733
 adaderanalk | 5,003
-tamilmirrorlk | 5,546
+tamilmirrorlk | 5,547
 virakesarilk | 6,763
-adaderanasinhalalk | 7,295
+adaderanasinhalalk | 7,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,610 (100.0%) of 42,612 articles have been extended.
+42,612 (100.0%) of 42,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### පුද්ගල ඝාතනයක්
+### ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීම
+
+*2024-08-26 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200337) · `si`
+
+ජාතික ජන බලවේගයේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීම මේ වනවිට ආරම්භ වී තිබේ.
+
+◼️
+
+[Data](articles/8d27345b.json)
+
+---
+
+### Murder of a person
 
 *2024-08-26 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200336) · `si`
 
-ඊයේ (25) රාත්‍රී කාලයේ දී  මරදාන පොලිස් වසමේ දේවානම්පියතිස්ස මාවත ප්‍රදේශයේ දී මෙම ඝාතනය සිදුකර ඇත.
+Here's a summary of the text in 200 characters:
 
-දෙදෙනෙකු අතර ඇති වූ ආරවුලක් හේතුවෙන්  සිදුකළ පහරදීමකින් මෙම ඝානය සිදුව ඇති බව පොලීසිය පවසයි.
 
-අපරාධය සම්බන්ධයෙන් අවුරුදු 19ක් වන පදිංචි තරුණයෙකු අත්අඩංගුවට ගෙන ඇත.
+
+Murder occurred in Devanampiyatissa Mawatha, Maradana. Dispute led to assault. 19-year-old suspect arrested.
+
+🟩
+
+The murder was carried out in the Devanampiyatissa Mawatha in Maradana during the night.
+
+The thug has taken place with an assault due to a dispute between two.
+
+A 19 year old resident of the crime has been arrested.
 
 ◼️
 
 [Data](articles/35ec8fbe.json)
+
+[Extended Data](ext_articles/35ec8fbe.ext.json)
 
 ---
 
@@ -101,6 +123,20 @@ He has joined the designer director of the Hanthana talk, lovely muster and Indu
 [Data](articles/db753a27.json)
 
 [Extended Data](ext_articles/db753a27.ext.json)
+
+---
+
+### பாடசாலைகள் மீண்டும் ஆரம்பம்
+
+*2024-08-26 09:20:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகள்-மீண்டும்-ஆரம்பம்/175-342779) · `ta`
+
+அரச பாடசாலைகள் மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகள் மூன்றாம் தவணைக்காக இன்று திறக்கப்படுகின்றதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+இரண்டாம் தவணை  கடந்த வெள்ளிக்கிழமை 16 ஆம் திகதி நிறைவடைந்ததாகவும், அதன்படி மூன்றாம் தவணையின் முதல் கட்டம் இன்று முதல் நவம்பர் 22 ஆம் திகதி வரை நடைபெறவுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/362e815d.json)
 
 ---
 
@@ -204,27 +240,33 @@ President Ranil Wickremesinghe noted that while he wishes to reduce the prices o
 
 ---
 
-### දිනෙන් දින ඉහළ යන පැමිණිලි 1,000 ට ආසන්නයි
+### Nearly 1,000 complaints on day day
 
 *2024-08-26 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200331) · `si`
 
-ජනාධිපතිවරණයට අදාළව ලැබෙන පැමිණිලි සංඛ්‍යාව දිනෙන් දින ඉහළ යමින් පවතින බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+Election complaints surge: 925 filed on July 31, mostly about electoral rules and violence. PAFFREL reports 250 complaints. Situation deemed serious by Elections Commission.
 
-ඒ අනුව මැතිවරණයට අදාළව පැමිණිලි දහසකට ආසන්න සංඛ්‍යාවක් ලැබී ඇති බව එම කොමිෂන් සභාව සඳහන් කළේය.
+🟩
 
-පසුගිය ජුලි මස 31වනදා සිට මේ දක්වා කාලය තුළ ලැබී ඇති සමස්ථ පැමිණිලි සංඛ්‍යාව 925ක් බව ද මැතිවරණ කොමිසම නිවේදනය කර තිබේ.
+The number of complaints pertaining to the presidential election is increasing day by day.
 
-ඉන් පැමිණිලි 901ක් මැතිවරණ නීතිරීති උල්ලාංඝණය කිරීම් සම්බන්ධයෙන් වන අතර ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධයෙන් එක් පැමිණිල්ලක් සහ වෙනත් පැමිණිලි 23ක් ද ලැබී ඇති බව සඳහන් වේ.
+According to the Commission, nearly a thousand complaints have been received by the election.
 
-කෙසේවෙතත් මාසයකටත් වඩා අඩු කාලයක් තුළ පැමිණිලි දහසකට ආසන්න සංඛ්‍යාවක් ලැබීම අතිශය බරපතළ තත්ත්වයක් බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Elections Commission has announced that 925 complaints have been received during the 31st of July.
 
-මේ අතර මැතිවරණ නිරීක්ෂණ සංවිධාන පෙන්වා දෙන්නේ ජනාධිපතිවරණයට අදාළව රාජ්‍ය දේපළ අවභාවිතය සම්බන්ධයෙන් ලැබෙන පැමිණිලි සංඛ්‍යාව ඉහළ යමින් පවතින බව වාර්තා වේ.
+901 complaints are regarding the inevitable regulations of electoral regulations and one complaint and 23 other complaints have been received regarding violence.
 
-ජනාධිපතිවරණයට අදාළ ව පැෆරල් සංවිධානයට මේ වන විට පැමිණිලි 250කට ආසන්න සංඛ්‍යාවක් ලැබී ඇති බව සඳහන් කරන එම සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පැවසුවේ ඉදිරියේ දී මෙම තත්ත්වය තවදුරටත් ඉහළ යා හැකි බවය.
+However, the Elections Commission states that nearly a month has been a serious situation in less than a month.
+
+Meanwhile, the number of complaints received regarding the misuse of state property regarding the Presidential election regarding the Presidential election has been increased.
+
+The organization's Executive Director of the organization Rohana Hettiarachchi said that PAFFREL has received nearly 250 complaints regarding the presidential election.
 
 ◼️
 
 [Data](articles/6e3415f8.json)
+
+[Extended Data](ext_articles/6e3415f8.ext.json)
 
 ---
 
@@ -2155,61 +2197,5 @@ The body of the nine-year-old boy disappeared to the storm was found and the mot
 [Data](articles/5abd4a3b.json)
 
 [Extended Data](ext_articles/5abd4a3b.ext.json)
-
----
-
-### We will end the country's 76 -year curse
-
-*2024-08-25 15:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-76-வருடகால-சாபக்கேட்டுக்கு-முடிவு-கட்டுவோம்/175-342754) · `ta`
-
-Tamil politician Ramalingam calls for unity against 76-year ruling party, supports Anura Kumara for presidency.
-
-🟩
-
-Ramalingam Chandrasekaran, a former parliamentarian of the National People's Power and former Member of Parliament, said that the Tamil people should mobilize the country to end the rule of the nation who has been hacked to the country for 76 years.
-
-Yall. He was speaking to the media in the opening of the election campaign office of the National People's Power in Tirunelveli.
-
-He added that the Tamil Sinhalese Muslim people living in the country have a nostalgia for many years to save the country.
-
-Those who have ruled the country for seventy years have not been able to steal the country that has looted the country in various ways.
-
-When many are contesting the presidential election to steal the motherland again, people must defeat it with their voting strength.
-
-The Tamil people must be aware of many independent candidates to scatter the votes of the people.
-
-...
-
-[Data](articles/6c1facc5.json)
-
-[Extended Data](ext_articles/6c1facc5.ext.json)
-
----
-
-### "Let us end the curse"
-
-*2024-08-25 15:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாபக்கேட்டுக்கு-முடிவு-கட்டுவோம்/175-342754) · `ta`
-
-Tamil politician Ramalingam Chandrasekaran calls for ending Sri Lanka's 76-year rule, supporting Anura Kumara for presidency.
-
-🟩
-
-Ramalingam Chandrasekaran, a former parliamentarian of the National People's Power and former Member of Parliament, said that the Tamil people should mobilize the country to end the rule of the nation who has been hacked to the country for 76 years.
-
-Yall. He was speaking to the media in the opening of the election campaign office of the National People's Power in Tirunelveli.
-
-He added that the Tamil Sinhalese Muslim people living in the country have a nostalgia for many years to save the country.
-
-Those who have ruled the country for seventy years have not been able to steal the country that has looted the country in various ways.
-
-When many are contesting the presidential election to steal the motherland again, people must defeat it with their voting strength.
-
-The Tamil people must be aware of many independent candidates to scatter the votes of the people.
-
-...
-
-[Data](articles/a8757e91.json)
-
-[Extended Data](ext_articles/a8757e91.ext.json)
 
 ---

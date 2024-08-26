@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 13:56:46**
+As of **2024-08-26 14:09:51**
 
 ## Newspaper Stats
 
-*Scraped **42,651** Articles*
+*Scraped **42,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 408
 islandlk | 2,483
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,930
+adalk | 3,931
 dailymirrorlk | 4,733
-adaderanalk | 5,012
+adaderanalk | 5,013
 tamilmirrorlk | 5,552
 virakesarilk | 6,771
 adaderanasinhalalk | 7,303
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,303
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,651 (100.0%) of 42,651 articles have been extended.
+42,651 (100.0%) of 42,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### Sri Lanka promotes Ramayana Trail in Malaysia eyeing tourism growth
+
+*2024-08-26 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101514/sri-lanka-promotes-ramayana-trail-in-malaysia-eyeing-tourism-growth) · `en`
+
+The High Commission of Sri Lanka in Kuala Lumpur has hosted a fruitful engagement with the Malaysian Indian Tour & Travel Association (MITTA), in order to explore avenues for promoting the Ramayana Trail tourism in Malaysia.
+
+MITTA, which encompasses over 200 Indian-Malaysian travel and tour agencies, plays a pivotal role in advancing outbound and inbound tourism, with a particular focus on Tamil-speaking travelers, the Sri Lankan High Commission in Kuala Lumpur said in a statement.
+
+Accordingly, the High Commissioner of Sri Lanka Air Chief Marshal (Rtd.) Sumangala Dias met with MITTA representatives and built upon discussions previously initiated with the Kuala Lumpur Selangor Indian Chamber of Commerce and Industry (KLSICCI) in July 2024, the statement mentioned.
+
+...
+
+[Data](articles/01736d8a.json)
+
+---
 
 ### Israeli-Hezbollah intensifies
 
@@ -1169,6 +1185,26 @@ However, US Secretary of State Antony Bleinc is ready to go to Israel for a disc
 [Data](articles/1ba2d34e.json)
 
 [Extended Data](ext_articles/1ba2d34e.ext.json)
+
+---
+
+### දියේ ගිලි හත් දෙනෙක් මරුට
+
+*2024-08-26 07:59:48* · [`adalk`](https://www.ada.lk/breaking_news/දියේ-ගිලි-හත්-දෙනෙක්-මරුට/11-411556) · `si`
+
+දිවයිනේ ස්ථාන හතරකදී ඊයේ සිදුවූ දිය අනතුරු හතරකින් පුද්ගලයන් හත් දෙනෙක් මියගොස් ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+
+මේ අනුව දැදුරු ඔයේ දිය නෑමට ගිය මවක හා ඇගේ දරුවන් දෙදෙනා ඊයේ දිනයේදී දියේ ගිලී මියගොස් තිබුණි.
+
+ඉත්තෑපානයේදි අලියා වැටුණු වලේ දිය නෑමට ගිය මහජන පරික්ෂකවරුන් දෙදෙනෙකුද දියේ ගිලී මිය ගොස් තිබුණි.
+
+කල්පිටියේදි ධිවර රැකියාවක නිරතව සිටි පුද්ගලයෙක්ද ධිවර රැකියාවේ නිරතව සිටියදී මුහුදේදි දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබුණි.
+
+මාරවිල කුරුස පල්ලිය අසලේදි මුහුදේදී දිය නාමින් සිටි තරුණයෙක් දියේ ගිලි අතුරුදන්ව තිබේ.
+
+◼️
+
+[Data](articles/1e7fb6a3.json)
 
 ---
 
@@ -2385,57 +2421,5 @@ Drainage Board Director of the Drainage Board, to report the progress of the inv
 [Data](articles/5979996a.json)
 
 [Extended Data](ext_articles/5979996a.ext.json)
-
----
-
-### Ranil's political life expectancy will end with the presidential election for all to join hands with us
-
-*2024-08-25 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191966) · `ta`
-
-Ranil Wickremesinghe's political career ends September 21. Nationalist parties unite under Sarvana Shakti. Economic policies debated.
-
-🟩
-
-President Ranil Wickremesinghe's political lifespan will end on September 21st. Those who consider nationalism must join hands with us. Wimal Weerawansa, the leader of the National Freedom Front and Member of Parliament, said that we are ready for public debate with those who refer to as the main candidates.
-
-Anuradhapura. He was speaking at the election campaign meeting of the universal power in the city on Sunday (25).
-
-When the Rajapaksas were acting against the country, we left the government for the country and acted as an opposition party. We can work on selfish purposes. But we have never done so.
-
-In order not to weaken the decree issued by the people in 2019, we have united the 7 political parties and created a new political evolution called the Sarvana Shakti.
-
-President Ranil Wickremesinghe's political life expectancy will end on the 21st of this month and the political future of those who have gone to support him has been questioned.
-
-...
-
-[Data](articles/b661bd3f.json)
-
-[Extended Data](ext_articles/b661bd3f.ext.json)
-
----
-
-### We will surely give the bundle of fertilizer fertilizer at Rs
-
-*2024-08-25 19:47:51* · [`adalk`](https://www.ada.lk/breaking_news/කි-ග්‍රෑ-50ක-පොහොර-මිටිය-අපි-අනිවාර්යෙන්-රු-5000ට-දෙනවා/11-411551) · `si`
-
-Sajith Premadasa promises affordable fertilizer, loan forgiveness, and subsidies for farmers.
-
-🟩
-
-Opposition candidate opposition candidate Sajith Premadasa said that the farmers of the peasant fertilizer would be given Rs.
-
-He was speaking at a meeting held at Polonnaruwa yesterday (25) at a meeting held yesterday.
-
-The Opposition Leader Sajith Premadasa said so.
-
-"Our friendly farmers would like to tell the farmers, 50 kilograms of fertilizer and 50 kilograms of fertilizer. Also, we will also take advantage of agricultural and oil fertilizer and provide agrochemicals to the price of using these prices.
-
-In distributing fertilizer, we all know the Kaluragam racketeers. As such, we are acting in transparently, without corruption, corruption, corruption, and higher price increases.
-
-...
-
-[Data](articles/4cc43a3b.json)
-
-[Extended Data](ext_articles/4cc43a3b.ext.json)
 
 ---

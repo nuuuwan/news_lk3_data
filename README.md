@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 15:21:45**
+As of **2024-08-26 15:37:12**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,307
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,662 (100.0%) of 42,669 articles have been extended.
+42,665 (100.0%) of 42,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### ගුවන්තොටුපොළෙන් හමුවූ රු කෝටි 4ක හොර බඩු
+### 4 crores in the airport
 
 *2024-08-26 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200348) · `si`
 
-ඉන්දියාවේ සිට අද (26) උදෑසන මෙරට ට පැමිණි පුද්ගලයින් දෙදෙනෙකු නීතිවිරෝධී ලෙස මෙරටට ගෙන ආ රුපියල් කෝටි 4ක් පමණ වටිනාකමකින් යුත් භාණ්ඩ සමග අත්අඩංගුවට ගෙන තිබේ.
+Sri Lanka: Two arrested at airport with contraband, including foreign equipment, tobacco, cosmetics, car parts, and medical supplies. Handover to Customs for investigation.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ගුවන්තොටුපොළෙ නිලධාරීන් කණ්ඩායමක් විසින් ඔවුන් දෙදෙනා සහ නීතිවිරෝධී ලෙස මෙරටට ගෙන ආ භාණ්ඩ සිය භාරයට ගෙන තිබුණි.
+🟩
 
-ගෙන ආ භාණ්ඩ අතර විදේශීය මත් පැන්, විවිධ වර්ගයේ දුම්වැටි, ක්‍රීම් වර්ග, වාහන අමතර කොටස් සහ ශල්‍යකර්ම සඳහා භාවිත කරන කතුරු තිබූ බව සඳහන් ය.
+Two persons who had been in Sri Lanka have been illegal to Sri Lanka today (26).
 
-කොළඹ ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ පදිංචි කරුවන් වන එම දෙදෙනා සහ නීතිවිරෝධීව රැගෙන ආ භාණ්ඩ වැඩිදුර පරීක්ෂණ සඳහා ශ්‍රී ලංකා රේගුවට භාරදී තිබේ.
+The Criminal Investigation Department Airport officers were taken into custody by the airports of the airports and illegally.
+
+Among the items that were brought were foreign equipment, a variety of smoking, cream, auto-parts and surgery.
+
+The two residents of the Grandpass area in Colombo have been handed over to the Customs for further investigations.
 
 ◼️
 
 [Data](articles/ca31e461.json)
+
+[Extended Data](ext_articles/ca31e461.ext.json)
 
 ---
 
@@ -130,6 +136,8 @@ When Wesak day approached that May, the situation was better. but much more had 
 
 [Data](articles/1e52d1fa.json)
 
+[Extended Data](ext_articles/1e52d1fa.ext.json)
+
 ---
 
 ### Crude oil prices up
@@ -173,6 +181,8 @@ The recent Supreme Court decision to unseat two opposition MPs who had defected 
 ...
 
 [Data](articles/bfda1401.json)
+
+[Extended Data](ext_articles/bfda1401.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 04:21:54**
+As of **2024-08-27 04:37:46**
 
 ## Newspaper Stats
 
-*Scraped **42,756** Articles*
+*Scraped **42,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,779
 adalk | 3,945
 dailymirrorlk | 4,733
 adaderanalk | 5,026
-tamilmirrorlk | 5,568
+tamilmirrorlk | 5,569
 virakesarilk | 6,788
 adaderanasinhalalk | 7,319
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,756 (100.0%) of 42,756 articles have been extended.
+42,756 (100.0%) of 42,757 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -193,6 +193,22 @@ He also said that these three companies have earned the highest income in histor
 [Data](articles/b2235860.json)
 
 [Extended Data](ext_articles/b2235860.ext.json)
+
+---
+
+### ’24 மாதங்களில் வறுமை ஒழிப்பு’
+
+*2024-08-27 01:37:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மாதங்களில்-வறுமை-ஒழிப்பு/175-342838) · `ta`
+
+பெண்களுக்கு முதலிடம் கொடுத்து மாதாந்தம் 20000 ரூபாய் வழங்கி, 24 மாதங்களில் வறுமையை ஒழிக்கும் புதிய வேலைத்திட்டம் முன்னெடுக்கப்படும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+நாட்டை வங்குரோத்து அடைய செய்த  தற்போதைய அரசாங்கத்தில் உள்ள  தலைவர்களின் விவேகமற்ற,  அக்கறையில்லாத கொள்கைகளினால்  இலட்சக்கணக்கானோர் வறுமைக்கு உள்ளாகி இருக்கின்றார்கள். அவர்கள்  வறுமையில் சிக்கி எல்லையற்ற அளவில்  அசாதாரண நிலைக்கு தள்ளப்பட்டு இருக்கின்றனர் என்றார்.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் தலைமையில் கந்தளாய், சேருவில நகரில் திங்கட்கிழமை (26) முற்பகல் நடைபெற்ற ஜனாதிபதி தேர்தல் பிரசாரக் கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/0f234933.json)
 
 ---
 
@@ -2623,31 +2639,5 @@ The IRD has collected 1,224 billion rupees, 60 percent of the 2024 target, as of
 [Data](articles/32f91fb1.json)
 
 [Extended Data](ext_articles/32f91fb1.ext.json)
-
----
-
-### Education in old age;Elderly grandmother at the age of 97
-
-*2024-08-26 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/192017) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-97-year-old Leelavathi Dharmaratne graduates Buddhist studies University of Kelaniya. Defies age barrier, says "Age is not an obstacle to education." Record-breaking achievement in Sri Lanka.
-
-🟩
-
-A 97 -year -old grandmother in Sri Lanka has earned a record of a record.
-
-Leelavathi Dharmaratne, a grandmother, graduated from Buddhist studies at the 143rd graduation ceremony of the University of Kelaniya on the 21st.
-
-After his graduation, he said to the media, "Age is not an obstacle to education."
-
-◼️
-
-[Data](articles/8b279641.json)
-
-[Extended Data](ext_articles/8b279641.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 10:09:51**
+As of **2024-08-26 10:21:46**
 
 ## Newspaper Stats
 
-*Scraped **42,610** Articles*
+*Scraped **42,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 5,003
 tamilmirrorlk | 5,546
 virakesarilk | 6,763
-adaderanasinhalalk | 7,293
+adaderanasinhalalk | 7,295
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,607 (100.0%) of 42,610 articles have been extended.
+42,610 (100.0%) of 42,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### පුද්ගල ඝාතනයක්
+
+*2024-08-26 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200336) · `si`
+
+ඊයේ (25) රාත්‍රී කාලයේ දී  මරදාන පොලිස් වසමේ දේවානම්පියතිස්ස මාවත ප්‍රදේශයේ දී මෙම ඝාතනය සිදුකර ඇත.
+
+දෙදෙනෙකු අතර ඇති වූ ආරවුලක් හේතුවෙන්  සිදුකළ පහරදීමකින් මෙම ඝානය සිදුව ඇති බව පොලීසිය පවසයි.
+
+අපරාධය සම්බන්ධයෙන් අවුරුදු 19ක් වන පදිංචි තරුණයෙකු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/35ec8fbe.json)
+
+---
 
 ### Veteran film director Sugathapala Senarath Yapa passes away
 
@@ -43,6 +59,8 @@ He was highly regarded for his contributions as the creative director behind num
 ◼️
 
 [Data](articles/77aa363a.json)
+
+[Extended Data](ext_articles/77aa363a.ext.json)
 
 ---
 
@@ -183,6 +201,30 @@ President Ranil Wickremesinghe noted that while he wishes to reduce the prices o
 [Data](articles/07cd44f0.json)
 
 [Extended Data](ext_articles/07cd44f0.ext.json)
+
+---
+
+### දිනෙන් දින ඉහළ යන පැමිණිලි 1,000 ට ආසන්නයි
+
+*2024-08-26 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200331) · `si`
+
+ජනාධිපතිවරණයට අදාළව ලැබෙන පැමිණිලි සංඛ්‍යාව දිනෙන් දින ඉහළ යමින් පවතින බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+ඒ අනුව මැතිවරණයට අදාළව පැමිණිලි දහසකට ආසන්න සංඛ්‍යාවක් ලැබී ඇති බව එම කොමිෂන් සභාව සඳහන් කළේය.
+
+පසුගිය ජුලි මස 31වනදා සිට මේ දක්වා කාලය තුළ ලැබී ඇති සමස්ථ පැමිණිලි සංඛ්‍යාව 925ක් බව ද මැතිවරණ කොමිසම නිවේදනය කර තිබේ.
+
+ඉන් පැමිණිලි 901ක් මැතිවරණ නීතිරීති උල්ලාංඝණය කිරීම් සම්බන්ධයෙන් වන අතර ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධයෙන් එක් පැමිණිල්ලක් සහ වෙනත් පැමිණිලි 23ක් ද ලැබී ඇති බව සඳහන් වේ.
+
+කෙසේවෙතත් මාසයකටත් වඩා අඩු කාලයක් තුළ පැමිණිලි දහසකට ආසන්න සංඛ්‍යාවක් ලැබීම අතිශය බරපතළ තත්ත්වයක් බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+මේ අතර මැතිවරණ නිරීක්ෂණ සංවිධාන පෙන්වා දෙන්නේ ජනාධිපතිවරණයට අදාළව රාජ්‍ය දේපළ අවභාවිතය සම්බන්ධයෙන් ලැබෙන පැමිණිලි සංඛ්‍යාව ඉහළ යමින් පවතින බව වාර්තා වේ.
+
+ජනාධිපතිවරණයට අදාළ ව පැෆරල් සංවිධානයට මේ වන විට පැමිණිලි 250කට ආසන්න සංඛ්‍යාවක් ලැබී ඇති බව සඳහන් කරන එම සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පැවසුවේ ඉදිරියේ දී මෙම තත්ත්වය තවදුරටත් ඉහළ යා හැකි බවය.
+
+◼️
+
+[Data](articles/6e3415f8.json)
 
 ---
 
@@ -1340,19 +1382,25 @@ President Ranil Wickremesinghe addressing the UNP Special Conference at the part
 
 ---
 
-### ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය අද
+### Policy Statement of the National Folk Force today
 
 *2024-08-25 19:08:58* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගයේ-ප්‍රතිපත්ති-ප්‍රකාශය-අද/11-411549) · `si`
 
-ජාතික ජනබලවේගයේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය අද (26දා) එළිදැක්වීමට නියමිතය. මොනාක් ඉම්පීරියල් හෝටලයේදී එම ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීමට නියමිතව ඇත.
+National Folk Force policy statement released today at Monarch Imperial Hotel covering economy, health, education, culture, science, and research.
 
-සෑම ක්ෂේත්‍රයක්ම ආවරණය වන පරිදි මෙම ප්‍රතිපත්ති ප්‍රකාශය සකස් කර ඇති අතර, එහිදී මෙරට ආර්ථිකය ගොඩනැගීම වෙනුවෙන් වැඩි ඉඩක් වෙන් කර ඇති බව වාර්තා වේ.
+🟩
 
-ආර්ථික, සෞඛ්‍ය, අධ්‍යාපන, විදේශ, කලා හා සංස්කෘතික, විද්‍යා හා තාක්ෂණ, පර්යේෂණ හා සංවර්ධන යන ප්‍රධාන අංශ සහ තවත් අංශ ඇතුළත් කරමින් මෙම ප්‍රතිපත්ති ප්‍රකාශය සකස් කර ඇත.
+The declaration of the Presidential Policy Policy Policy is due today (26). The policy statement is due to be released at the Monarch Imperial Hotel.
+
+The policy statement is covered with every field, it is reported that more likely to be developed in the country's economy.
+
+The policy statement has been prepared by entering the major aspects of economic, health, education, and cultural, science and technology, research and development.
 
 ◼️
 
 [Data](articles/1e7a6a1c.json)
+
+[Extended Data](ext_articles/1e7a6a1c.ext.json)
 
 ---
 
@@ -2163,45 +2211,5 @@ The Tamil people must be aware of many independent candidates to scatter the vot
 [Data](articles/a8757e91.json)
 
 [Extended Data](ext_articles/a8757e91.ext.json)
-
----
-
-### The IMF & Election Propaganda
-
-*2024-08-25 15:33:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-imf-election-propaganda/) · `en`
-
-During the ongoing debates, conversations and media shows, there is a strong focus on the IMF assistance we have obtained in the recent past. Some Political leaders and their spokesmen canvassing support for their candidacies, are repeatedly stating that the IMF agreements we have already concluded will be revisited by them if they come to power and revised according to their wishes.
-
-In such a context it has become necessary for an independent review of these aspirations which unfortunately appear to gain ground and causing mind boggling confusions among the gullible public.
-
-This is not the first occasion of our country getting IMF assistance. According to the known history last IMF assistance was the 17th in line with several other facilities granted before between 1966 and 2016  extending as follows. Four arrangements from 1965-70;  Four arrangements between 1970-80 ; 2 from 1980 to 1990; and –  In six occasions between 1990- to 2016.
-
-...
-
-[Data](articles/7b19f833.json)
-
-[Extended Data](ext_articles/7b19f833.ext.json)
-
----
-
-### 47 drugs preceding importance
-
-*2024-08-25 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200309) · `si`
-
-47 drugs under Indian monopoly presented by Health Cabinet Industry Association. Minister urged to explain how to improve healthcare services for Sri Lankan citizens. Imports of registered drugs from India highlighted.
-
-🟩
-
-The Health Cabinet Industry (Health) Association has presented 47 drugs under the Indian monopoly.
-
-The President of the Association Ravi Kudmith said that this should be explained by the minister how to advance the health service and citizens of Sri Lanka.
-
-Ravi Kudithee pointed out that once again imports such as registered with India.
-
-◼️
-
-[Data](articles/30e66ea1.json)
-
-[Extended Data](ext_articles/30e66ea1.ext.json)
 
 ---

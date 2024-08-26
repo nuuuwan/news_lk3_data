@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 21:21:41**
+As of **2024-08-26 21:10:49**
 
 ## Newspaper Stats
 
-*Scraped **42,714** Articles*
+*Scraped **42,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,22 @@ colombotelegraphcom | 409
 islandlk | 2,489
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,943
+adalk | 3,942
 dailymirrorlk | 4,733
 adaderanalk | 5,024
 tamilmirrorlk | 5,560
 virakesarilk | 6,781
-adaderanasinhalalk | 7,315
+adaderanasinhalalk | 7,314
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,712 (100.0%) of 42,714 articles have been extended.
+42,712 (100.0%) of 42,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
-
-### දුප්පත් පවුලකට මසකට රු.20,000ක් - සජිත්
-
-*2024-08-26 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200356) · `si`
-
-වසර දෙකක් තුළ දිළිඳුකම තුරන්කිරීමේ අරමුණින් දිළිඳු පවුලකට මසකට රුපියල් විසි දහසක මුදලක් ලබාදීමට පියවර ගන්නා බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති ධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා,
-
-"මම කැමතියි විශේෂ නිවේදනයක් කරන්න. මේ රටේ ලක්ෂ ගණනක ජනයා දුප්පත්කමින් මිරිකිලා. අපි ජීවත් වීමේ මාර්ගයක් නැති දුෂ්කර ජීවිතයක් ගතකරන දුප්පත් ජනතාව වෙනුවෙන් ජනසවිය, අස්වැසුමෙහි එන හොඳ ගුණාංග ගෙන අඩුපාඩු ඉවත් කර දුප්පත්කම තුරන් කිරීමේ වැඩසටහනක් ක්‍රියාත්මක කරනවා. දුප්පත් පවුලකට මසකට රු.20,000ක් දෙනවා. මාස 24ක් තුළ දුප්පත්කම තුරන් කරන වැඩසටහනක් ක්‍රියාත්මක කරනවා. පරිභෝජනය, ආයෝජනය,ඉතිරිය, නිෂ්පාදනය සහ අපනයනයට මේ ක්ෂේත්‍ර 5 ඔස්සේ දුප්පත්කම නැතිවිය යුතුයි. කවුරුත් කැමති නැහැ දුප්පත්කමේ රැඳීසිටින්නට. අපේ රටේ කිසිවෙකුට අත නොපා ජීවත්වීමට කැමති ජනතාවක්. කාන්තාව මුල්කරගෙන මේ සහන ලබාදෙනවා. කන්තලේ සීනි කම්හල ශක්තිමත් කරනවා. ප්‍රදේශයේ දියුණුව උදෙසා එය සිදුකරනවා සේරුවිල ජනතාවට ජයවේවා!"
-
-◼️
-
-[Data](articles/5aa16ca3.json)
-
----
 
 ### The campaign meeting that disappointed Fonseka
 
@@ -469,22 +453,6 @@ The Commanding Officers of the trio of Chinese People’s Liberation Army Navy w
 [Data](articles/cc8e31cb.json)
 
 [Extended Data](ext_articles/cc8e31cb.ext.json)
-
----
-
-### ඉන්දීය යුද නැවක් කොළඹ වරයාට
-
-*2024-08-26 17:32:03* · [`adalk`](https://www.ada.lk/uncategorized/ඉන්දීය-යුද-නැවක්-කොළඹ-වරයාට/1-411569) · `si`
-
-ඉන්දීය නාවික හමුදාවට අයත් ‘INS Mumbai’ යුද නෞකාව නිල සංචාරයක් සඳහා අද දින (2024 අගෝස්තු 26) උදෑසන කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
-
-මෙලෙස කොළඹ වරායට සේන්දු වූ Destroyer වර්ගයට අයත් ‘INS Mumbai’ නෞකාව, දිගින් මීටර් එකසිය හැට තුනක් (163) හා නැව් මුළුව හාරසිය දහ දෙනෙකුගෙන් (410) සමන්විත වේ. නෞකාවේ අණදෙන නිලධාරී, ‍කපිතාන් සන්දීප් කුමාර් (Captain Sandeep Kumar) සහ බටහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් චින්තක කුමාරසිංහ අතර නිල හමුවක් අද දින (2024 අගෝස්තු 26) එම විධාන මූලස්ථානයේදී සිදුකෙරිණි.
-
-එමෙන්ම, ‘INS Mumbai’ යුද නෞකාව මෙරට රැඳී සිටින කාලසීමාව තුල එහි නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමට නියමිතව ඇති අතර, නෞකාවේ මෙහෙයුම් ක්‍රියාකාරිත්වය පිළිබඳව ශ්‍රී ලංකා නාවික හමුදා පුද්ගලයන් දැනුවත් කිරීමේ වැඩමුළුවක් නෞකාව තුළදී පැවැත්වීමටද නියමිතව ඇත.
-
-...
-
-[Data](articles/00c982d0.json)
 
 ---
 
@@ -2609,5 +2577,51 @@ As a Sri Lankan, I assumed the presidency to defend the country. Is it wrong?I f
 [Data](articles/0f160b35.json)
 
 [Extended Data](ext_articles/0f160b35.ext.json)
+
+---
+
+### 2024 Presidential Election: Postal Dept. to receive postal vote ballot papers today
+
+*2024-08-26 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101500/2024-presidential-election-postal-dept-to-receive-postal-vote-ballot-papers-today) · `en`
+
+The Postal Department will today (26) receive the reserved packet containing the registered postal vote ballot papers to be distributed to the postal voters of the 2024 presidential election.
+
+Meanwhile, distribution of official polling cards for the forthcoming Presidential Election will commence on September 03, while September 08 (Sunday) has been designated as a special day for polling card distribution.
+
+In the meantime, Deputy Postmaster General Rajitha Ranasinghe had announced yesterday (25) that the leave of all employees of the Department of Posts have been cancelled with immediate effect until the conclusion of the 2024 Presidential Election.
+
+The decision was made to ensure that all election-related responsibilities are adequately managed, he said.
+
+However, any postal worker requiring leave for essential reasons would have to obtain permission from the Deputy Postmaster General in charge of their province, he added.
+
+...
+
+[Data](articles/759c19f4.json)
+
+[Extended Data](ext_articles/759c19f4.ext.json)
+
+---
+
+### Yall. Police officer assaulting public
+
+*2024-08-26 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191975) · `ta`
+
+Police officer sacked for assaulting civilian while on duty at liquor bar. Officer attempted bribery and attack on public. Victim filed complaint, officer arrested and released on bail.
+
+🟩
+
+A police officer who was on duty at a liquor bar has been sacked after he assaulted a civilian.
+
+A police officer of Kayts was on duty in the area on Saturday night (24) night.. In the meantime, he tried to bribe the public who went by the road and attacked him.
+
+The victim had lodged a complaint at the Kayts police station. The police officer was arrested by the Kayts police and produced in court.
+
+In this case, the police officer had given permission to go to two bail of one million rupees each. It is also noteworthy that he has been fired.
+
+◼️
+
+[Data](articles/5e4ab919.json)
+
+[Extended Data](ext_articles/5e4ab919.ext.json)
 
 ---

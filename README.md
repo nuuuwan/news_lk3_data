@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 10:36:47**
+As of **2024-08-26 10:55:29**
 
 ## Newspaper Stats
 
-*Scraped **42,614** Articles*
+*Scraped **42,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,86 @@ economynextcom | 2,572
 dailyftlk | 2,769
 adalk | 3,927
 dailymirrorlk | 4,733
-adaderanalk | 5,003
+adaderanalk | 5,004
 tamilmirrorlk | 5,547
 virakesarilk | 6,763
-adaderanasinhalalk | 7,296
+adaderanasinhalalk | 7,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,612 (100.0%) of 42,614 articles have been extended.
+42,614 (100.0%) of 42,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීම
+### තේ පොහොර සහනාධාරය ක්‍රියාත්මක කරයි
+
+*2024-08-26 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200338) · `si`
+
+තේ වගාව සඳහා අරඹන ලද පොහොර සහනාධාර වැඩසටහන ක්‍රියාත්මක කර තිබේ.
+
+රාජ්‍ය පොහොර සමාගම විසින් නිෂ්පාදනය කරන ලද පොහොර වර්ග 05ක මිල ගණන් මේ යටතේ  අඩු කිරීමට කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය පියවර ගෙන ඇත.
+
+ඒ අනුව තේ සඳහා යොදා ගන්නා කිලෝග්‍රෑම් 50ක පොහොර මල්ලක මිල රුපියල් 4000කින් අඩු කර තිබේ.
+
+තේ වගාව සඳහා යොදා ගන්නා  T 200, T 750, U 709, U 834, T 65 යන පොහොර වර්ග 05ක මිල මෙලෙස අඩු කර ඇත.
+
+මෙම පොහොර සහනාධාරය සැපයීම සඳහා වැයවන සමස්ත මුදල රුපියල් මිලියන 2400කි.
+
+කෘෂිකර්ම අමාත්‍යාංශය පවසන්නේ මෙම මුදල රජයෙන් ලබා නොගෙන තේ වගාකරුවන්ට සහන සැළසීම සඳහා ලබා දීමට පියවර ගෙන ඇති බවය.
+
+එම සම්පූර්ණ මුදල ශ්‍රී ලංකා තේ මණ්ඩලයේ මුදල් ප්‍රතිපාදන යොදාගනිමින් ලබා දීමට කටයුතු කර ඇතැයි අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+
+◼️
+
+[Data](articles/39a84195.json)
+
+---
+
+### Nearly 1,000 election-related complaints received thus far - EC
+
+*2024-08-26 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101503/nearly-1000-election-related-complaints-received-thus-far-ec) · `en`
+
+The complaints received by the Election Commission of Sri Lanka related to the upcoming presidential election have further increased.
+
+The Election Commission says nearly 1,000 complaints have been received so far, pertaining to the 2024 Presidential Election.
+
+Accordingly, a total of 925 election complaints have been reported between July 31 and August 26, the commission said.
+
+Out of these, 901 are related to election law violations, one act of violence and 23 other complaints.
+
+However, the Election Commission emphasized that receiving nearly 1,000 complaints in less than a month is a very concerning situation.
+
+Meanwhile, the election monitoring organizations say that there is a rise in complaints related to the misuse of state property in connection with the Presidential Election.
+
+...
+
+[Data](articles/f4614b1f.json)
+
+---
+
+### Launching the policy statement of the national propagation
 
 *2024-08-26 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200337) · `si`
 
-ජාතික ජන බලවේගයේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීම මේ වනවිට ආරම්භ වී තිබේ.
+Here's a summary of the text in 200 characters:
+
+
+
+National Propagation Policy launched. Presidential Statement from National Foundation initiated.
+
+🟩
+
+The Presidential Statement of the National Fundation has begun.
 
 ◼️
 
 [Data](articles/8d27345b.json)
+
+[Extended Data](ext_articles/8d27345b.ext.json)
 
 ---
 
@@ -126,17 +182,27 @@ He has joined the designer director of the Hanthana talk, lovely muster and Indu
 
 ---
 
-### பாடசாலைகள் மீண்டும் ஆரம்பம்
+### Schools are back
 
 *2024-08-26 09:20:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகள்-மீண்டும்-ஆரம்பம்/175-342779) · `ta`
 
-அரச பாடசாலைகள் மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகள் மூன்றாம் தவணைக்காக இன்று திறக்கப்படுகின்றதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+Here's a summary of the text in 200 characters:
 
-இரண்டாம் தவணை  கடந்த வெள்ளிக்கிழமை 16 ஆம் திகதி நிறைவடைந்ததாகவும், அதன்படி மூன்றாம் தவணையின் முதல் கட்டம் இன்று முதல் நவம்பர் 22 ஆம் திகதி வரை நடைபெறவுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது. R
+
+
+"Schools reopen today for third term. State schools and approved private schools resume classes. Second term ends on Friday 16th. First phase runs until Nov 22."
+
+🟩
+
+State schools and state -approved private schools are open today for the third term, the Ministry of Education said.
+
+The second term ended on Friday 16th and the first phase of the third term will be held from today to November 22, the Ministry of Education said.. Remble
 
 ◼️
 
 [Data](articles/362e815d.json)
+
+[Extended Data](ext_articles/362e815d.ext.json)
 
 ---
 
@@ -2157,45 +2223,5 @@ In the history of Pakistani Test cricket history, Bangladesh, was 13 Tests betwe
 [Data](articles/12a1e7f7.json)
 
 [Extended Data](ext_articles/12a1e7f7.ext.json)
-
----
-
-### Mother and two sons reported missing while bathing in Deduru Oya
-
-*2024-08-25 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101489/mother-and-two-sons-reported-missing-while-bathing-in-deduru-oya) · `en`
-
-A 36-year-old mother and her two sons were reported missing while bathing in Deduru Oya in the Bogamuwa area.
-
-Police said that the body of the 9-year-old son was recovered while the other son, aged 5, and the mother still remain missing.
-
-◼️
-
-[Data](articles/119e05fc.json)
-
-[Extended Data](ext_articles/119e05fc.ext.json)
-
----
-
-### A mother and two children drowning
-
-*2024-08-25 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200310) · `si`
-
-Mother, 2 children drown in river. Police investigate.
-
-🟩
-
-A mother and two children have been hit by the same family who went to the daughter of Deduru Oya.
-
-Deduru Oya was bathing from the Bogamuwa area this afternoon and the police said.
-
-The accident is the 36-year-old mother and her 9 9-year-old boy and 5-year-old boy.
-
-The body of the nine-year-old boy disappeared to the storm was found and the mother and the other child recovered.
-
-◼️
-
-[Data](articles/5abd4a3b.json)
-
-[Extended Data](ext_articles/5abd4a3b.ext.json)
 
 ---

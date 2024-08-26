@@ -1,36 +1,102 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 08:38:04**
+As of **2024-08-26 08:56:27**
 
 ## Newspaper Stats
 
-*Scraped **42,593** Articles*
+*Scraped **42,600** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 358
 newsfirstlk | 363
-bbccomsinhala | 392
+bbccomsinhala | 393
 colombotelegraphcom | 407
 islandlk | 2,481
 economynextcom | 2,572
 dailyftlk | 2,769
-adalk | 3,924
+adalk | 3,926
 dailymirrorlk | 4,733
-adaderanalk | 4,997
-tamilmirrorlk | 5,544
+adaderanalk | 4,999
+tamilmirrorlk | 5,545
 virakesarilk | 6,763
-adaderanasinhalalk | 7,290
+adaderanasinhalalk | 7,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,593 (100.0%) of 42,593 articles have been extended.
+42,593 (100.0%) of 42,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### Third school term begins today
+
+*2024-08-26 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101498/third-school-term-begins-today) · `en`
+
+The Ministry of Education has announced that the third school term for government and government-approved schools will commence today (26).
+
+According to the Ministry, the first phase of the third term will run from today until November 22nd.
+
+◼️
+
+[Data](articles/ca8e2dbf.json)
+
+---
+
+### 925 முறைப்பாடுகள் பதிவு
+
+*2024-08-26 08:24:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/925-முறைப்பாடுகள்-பதிவு/175-342769) · `ta`
+
+ஜனாதிபதித் தேர்தல் தொடர்பாகக் கிடைக்கப்பெற்ற முறைப்பாடுகளின் எண்ணிக்கை 925 ஆக அதிகரித்துள்ளதாகத் தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+கடந்த ஜூலை மாதம் 31 ஆம் திகதி முதல் இதுவரையான காலப்பகுதியிலேயே இந்த முறைப்பாடுகள் பதிவு செய்யப்பட்டுள்ளதாக அந்த ஆணைக்குழு தெரிவித்துள்ளது.
+
+இதன்படி தேர்தல் சட்டத்தை மீறியமை தொடர்பில் 901 முறைப்பாடுகளும் வன்முறை தொடர்பில் ஒரு முறைப்பாடும் பதிவு செய்யப்பட்டுள்ளது.  (a)
+
+◼️
+
+[Data](articles/f8cd94f9.json)
+
+---
+
+### Several spells of light showers expected in parts of the island
+
+*2024-08-26 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101497/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of light showers will occur in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Badulla, Ampara and Batticaloa districts during the evening or night, it said.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and North-western provinces and in Hambantota and Trincomalee districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/5ad94524.json)
+
+---
+
+### අමෙරිකාවේ උත්සාහය අසාර්ථකයි
+
+*2024-08-26 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200330) · `si`
+
+ගාසා හී පවතින යුද ගැටුම් සම්බන්ධයෙන් අමෙරිකාව ගෙන ආ සටන් විරාම කොන්දේසි හමාස් සංවිධානය විසින් ප්‍රතික්ෂේප කර තිබේ.
+
+මේ සම්බන්ධයෙන් කටාර් හි දින දෙකක සාකච්ඡා වටයක් පත්වා තිබු අතර එහිදී එදිරිපත් වු යෝජනා හමාස් සංවිධානය මෙලෙස ප්‍රතික්ෂේප කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+මාස 10කට අධික කාලයක් පවතින යුද්ධමය තත්ත්වය පාලනය කිරීමේ අමෙරිකාව ප්‍රමුඛ රටවල් කිහිපයක් මෙම සාකච්ඡා සඳහා එක්ව ඇති බව සඳහන් වේ.
+
+කෙසේවෙතත් අමෙරිකානු රාජ්‍ය ලේකම් ඇන්ටනි බ්ලින්කන් ඉදිරි සති අන්තයේ දී නැවත වරක් සාකච්ඡාවක් සඳහා ඊශ්‍රායලයට යෑමට සුදානම් බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/1ba2d34e.json)
+
+---
 
 ### Decision on postal ballot papers
 
@@ -103,6 +169,20 @@ The young man had been waves in the sea with several other people, while one of 
 [Data](articles/5fb33c0a.json)
 
 [Extended Data](ext_articles/5fb33c0a.ext.json)
+
+---
+
+### අද වැස්ස අඩු කාලගුණයක්
+
+*2024-08-26 07:24:07* · [`adalk`](https://www.ada.lk/breaking_news/අද-වැස්ස-අඩු-කාලගුණයක්/11-411555) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු හා වයඹ පළාත්වලත් මහනුවර හා නුවරඑළිය දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+බදුල්ල, අම්පාර හා මඩකළපුව දිස්ත්‍රික්කවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදි ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි  බවද එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
+
+◼️
+
+[Data](articles/c5f7adf1.json)
 
 ---
 
@@ -463,6 +543,26 @@ Followed by the seminar, a two-day workshop will be conducted to provide practic
 [Data](articles/a700cc35.json)
 
 [Extended Data](ext_articles/a700cc35.ext.json)
+
+---
+
+### 'මම නැගිට්ටේ මේ මයිනහමෙන්. මයිනහම නැත්තං කිසි දෙයක් කර ගන්න බෑ.'
+
+*2024-08-26 02:22:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c39krpg92keo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''ඉස්සර මයින හමක් ගෙදරක හයි කරලා තිබුනොත් මිනිස්සුන්ගේ මතයක් තිබ්බා අඩු කුලේ කියලා.''
+
+'මම නැගිට්ටේ මේ මයිනහමෙන්. මයිනහම නැත්තං කිසි දෙයක් කර ගන්න බෑ.'
+
+'මයිනහම' ශ්‍රී ලංකාවේ සම්ප්‍රදායික කම්මල් කර්මාන්තය හා බැඳුණු වචනයකි. වර්තමාන පරපුර සම්ප්‍රදායික කම්මල් කර්මාන්තයෙන් ඉවත් වුව ද අනාගත පරපුර වෙනුවෙන් එම තාක්ෂණය සහ දැනුම රැක ගැනීමට වෙහෙසෙන අයෙකු මාතලේ, රත්තොට ඇහැළගස්තැන්න ගම්ම්නයෙන් අපට හමු විය.
+
+''මේ කම්මල් කර්මාන්තය ආවේ අපේ සීයාගෙන්. ඉස්සර මයින හමක් ගෙදරක හයි කරලා තිබුණොත් මිනිස්සුන්ගේ මතයක් තිබ්බා අඩු කුලේ කියලා. මම නැගිට්ටේ මේ මයිනහමෙන්. ඒ නිසා ඒක පුරාවස්තුවක් වගේ තියාගෙන ඉන්නවා.'' යනුවෙන් ජී. ජී අබේරත්න BBC සිංහල සේවයට පැවසුවේ ය.
+
+ඔහු කම්මල් කර්මාන්තය සහ ඊට යොදා ගන්නා උපකරණ ගැන පාසල් දරුවන් දැනුවත් කිරීම සිදු කරයි.
+
+◼️
+
+[Data](articles/7e6fff4f.json)
 
 ---
 
@@ -1003,6 +1103,26 @@ President Ranil Wickremesinghe's political life expectancy will end on the 21st 
 [Data](articles/b661bd3f.json)
 
 [Extended Data](ext_articles/b661bd3f.ext.json)
+
+---
+
+### කි.ග්‍රෑ.50ක පොහොර මිටිය අපි අනිවාර්යෙන් රු.5000ට දෙනවා
+
+*2024-08-25 19:47:51* · [`adalk`](https://www.ada.lk/breaking_news/කි-ග්‍රෑ-50ක-පොහොර-මිටිය-අපි-අනිවාර්යෙන්-රු-5000ට-දෙනවා/11-411551) · `si`
+
+සිය රජයක් යටගේ ගොවි ජනතාවට ගුණාත්මක කිලෝග්‍රෑම් 50ක පොහොර මිටිය රුපියල් 5000කට අනිවාර්යෙන් ලබා දෙන බව සමගි ජන සන්ධානයේ ජනාධිපතිවරණ අපේක්ෂක විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+පොළොන්නරුවේ ඊයේ (25දා) පැවති ජනහමුවකදී ගොවි ජනතාව අමතමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+“අපේ හිතවත් ගොවි ජනතාවට කියන්න කැමතියි, ගුණාත්මකභාවයෙන් ඉහළ පොහොර කිලෝග්‍රෑම් 50 මිටිය අපි රුපියල් 5,000ට ගොවි ජනතාවට ලබා දෙන්නට අනිවාර්යෙන්ම කටයුතු කරනවා. ඒ වගේම කෘෂිරසායන, තෙල් පොහොර මිල නියාමනයකට ලක් කරලා කළුකඩ වෙළඳුන්ගෙන් මේ මිල වැඩි වීමේ ක්‍රමවේදය මුදාගෙන දරාගත හැකි මිලකට ඔබට කෘෂිරසායන ලබා දෙන්නත් අපි කටයුතු කරනවා.
+
+පොහොර බෙදා දීමේදී අපි හැමෝම දන්නවා කළුකඩ ජාවාරම්කරුවන් මේක ග්‍රහණයට ලක්කරගෙන හමාරයි. ඒ නිසා ගොවිජන සේවා මධ්‍යස්ථාන කේන්ද්‍ර කරගෙන දූෂණයෙන්, වංචාවෙන්, ඉහළ මිල වැඩි කිරීම්වලින් තොරව මේ වැඩ කටයුතු විනිවිදභාවයෙන් යුක්තව ක්‍රියාත්මක කරන්න අපි කටයුතු කරනවා.
+
+...
+
+[Data](articles/4cc43a3b.json)
 
 ---
 
@@ -2071,179 +2191,5 @@ The next step is how the party leadership will give the recognition of their pol
 [Data](articles/f7972afb.json)
 
 [Extended Data](ext_articles/f7972afb.ext.json)
-
----
-
-### Notice on the distribution of polling cards
-
-*2024-08-25 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200305) · `si`
-
-Presidential election postal ballots distributed Sept 3. Postal workers on leave until election ends. Holidays approved only for illness or special occasions.
-
-🟩
-
-The presidential election papers sent to the postal ballot packets of the presidential election is scheduled to be held tomorrow (26).
-
-The distribution of the ballot cards begins on September 3 while the distribution will be taken as a special day.
-
-According to the end of the post of Postal Department, all the employees of the Postal Department will be canceled immediately until the presidential election will be canceled.
-
-The Deputy Postrent said that holidays can be obtained under the approval of the provincial deployment alone for an illness or special occasion.
-
-◼️
-
-[Data](articles/2a33310b.json)
-
-[Extended Data](ext_articles/2a33310b.ext.json)
-
----
-
-### One of the special forces arrested with drugs
-
-*2024-08-25 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200303) · `si`
-
-STF arrests soldier with drugs; 5 ice narcotics seized; 3 others remanded for assault.
-
-🟩
-
-The STF has been arrested by the STF with a soldier from the Army Special Forces.
-
-The suspect was arrested by the officers of the STF organized crime repression unit of the Police Special Task Force.
-
-He was the main suspect in the attack and injuring the officer at the Katupotha area on the 20th, police said.
-
-At the time of his arrest, five ice narcotics were found in his possession and 5 milligrams of officers and six millimeters.
-
-Police have also arrested three other suspects involved in the assault and were produced before the Narammala Magistrate's Court and remanded until the 26th.
-
-◼️
-
-[Data](articles/7d2ed587.json)
-
-[Extended Data](ext_articles/7d2ed587.ext.json)
-
----
-
-### Is there a plan to continue if Ranil wins?Will Parliament be dissolved?- What does Prime Minister Dinesh say?
-
-*2024-08-25 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191918) · `ta`
-
-Ranil Wickremesinghe wins presidency, Parliament dissolution planned: PM Dinesh Gunawardena. Economic recovery strategy outlined. Debt management strategies discussed.
-
-🟩
-
-Prime Minister Dinesh Gunawardena has said that if Ranil Wickremesinghe wins the presidential election, Parliament will be dissolved
-
-Question - Do you have a politically clear plan to continue if Ranil Wickremesinghe is elected as President?
-
-Answer - Yes the President has clearly put forward his plans to Parliament and the country. He mentioned the economic plan to continue.
-
-He has put forward the structure that we should recover from the crisis and create a stable economy.
-
-The influence of some of the International Monetary Fund is high. They say we will not accept it. Some say something less.
-
-But as a whole, we have decided to consult with the International Organizations - International Monetary Fund, the World Bank, the Asian Development Bank, the Financial Countries and the Paris Club members.
-
-Question - Does this mean that we are still in a bankruptcy?
-
-...
-
-[Data](articles/8745fd3b.json)
-
-[Extended Data](ext_articles/8745fd3b.ext.json)
-
----
-
-### The husband commits suicide after childbirth
-
-*2024-08-25 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200302) · `si`
-
-Husband commits suicide after childbirth; woman accuses doctors' negligence; Ministry investigates; three medical staff suspended.
-
-🟩
-
-The woman's husband has committed suicide by an allergic reached by a child after childhood hospital.
-
-A 27-year-old resident of the Vavuniya - Awaken - Mahalkulam area has committed suicide by food yesterday (24), police said.
-
-Her husband and family relatives accused the woman died due to the negligence of the doctors.
-
-The Ministry of Health had conducted an investigation into the incident, accordingly, a doctor, two nurses and two family health careers were suspended.
-
-The father of the child had committed suicide last night at the death of his wife and the newborn child.
-
-◼️
-
-[Data](articles/ebe37fbb.json)
-
-[Extended Data](ext_articles/ebe37fbb.ext.json)
-
----
-
-### Emergency Declaration for 48 hours
-
-*2024-08-25 12:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/48-மணி-நேரத்திற்கு-அவசரநிலைப்-பிரகடனம்/50-342745) · `ta`
-
-Israel declares 48-hour emergency due to rising tensions with Lebanon. If cabinet doesn't extend, it remains valid for 2 days.
-
-🟩
-
-The Times of Israel reported that Israel had announced an emergency for the next 48 hours amid increasing tensions with Lebanon.
-
-It is further stated that if the Emergency is not extended by the Cabinet Ministers, it will be valid for 48 hours.
-
-◼️
-
-[Data](articles/5960a4b4.json)
-
-[Extended Data](ext_articles/5960a4b4.ext.json)
-
----
-
-### Emergency Declaration for the next 48 hours
-
-*2024-08-25 12:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அடுத்த-48-மணி-நேரத்திற்கு-அவசரநிலைப்-பிரகடனம்/50-342745) · `ta`
-
-Israel declares 48-hour emergency due to rising tensions with Lebanon. If cabinet doesn't extend, it remains valid for 48 hours.
-
-🟩
-
-The Times of Israel reported that Israel had announced an emergency for the next 48 hours amid increasing tensions with Lebanon.
-
-It is further stated that if the Emergency is not extended by the Cabinet Ministers, it will be valid for 48 hours.
-
-◼️
-
-[Data](articles/b6217b89.json)
-
-[Extended Data](ext_articles/b6217b89.ext.json)
-
----
-
-### Postpartum Pause of the postal staff
-
-*2024-08-25 12:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-ஊழியர்களின்-விடுமுறை-இடைநிறுத்தம்/175-342744) · `ta`
-
-Postpartum pause: Postal staff vacation suspended for 2024 presidential election. Voting dates: Sep 4-6 (military/public servants), Sep 5-6 (postal). Highest date: Sep 11-12.
-
-🟩
-
-The Deputy Inspector General today announced that the vacation of all postal staff has been suspended for the immediate implementation of the 2024 presidential election.
-
-Accordingly, the holidays of all postal workers have been suspended until the presidential election is over.
-
-A total of 712,321 candidates are eligible to vote by post on September 21.
-
-Postal voting for the upcoming presidential election will be released on September 04, 05 and 6 and postal votes will be released on August 26.
-
-Meanwhile, on the 11th and 12th of September, the highest date for those who cannot vote by post has been reserved.
-
-Postal voting for military and public servants will be held on September 05 and 6 and postal voting for District Secretaries, Election Offices and Police Employees will be held on September 4.
-
-◼️
-
-[Data](articles/8d704411.json)
-
-[Extended Data](ext_articles/8d704411.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 14:55:51**
+As of **2024-08-26 15:06:45**
 
 ## Newspaper Stats
 
-*Scraped **42,658** Articles*
+*Scraped **42,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,113 @@ dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 394
 colombotelegraphcom | 409
-islandlk | 2,483
+islandlk | 2,486
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,932
+adalk | 3,934
 dailymirrorlk | 4,733
 adaderanalk | 5,015
 tamilmirrorlk | 5,552
 virakesarilk | 6,771
-adaderanasinhalalk | 7,304
+adaderanasinhalalk | 7,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,654 (100.0%) of 42,658 articles have been extended.
+42,658 (100.0%) of 42,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### Thalatha’s departure and shifting allegiances
+
+*2024-08-26 14:50:00* · [`islandlk`](http://island.lk/thalathas-departure-and-shifting-allegiances/) · `en`
+
+Last Wednesday’s parliamentary session was anything but routine. For one whole day, the House became a stage for unprecedented drama with MPs huddled in small, anxious groups, their faces reflecting uncertainty. The political climate is charged with the upcoming Presidential election looming large on the horizon. Many MPs spoke of invitations they have received from the various presidential candidates’ camps. Some have decided on what they will do, while others are still weighing the pros and cons.
+
+As the main candidates crisscross the country, rallying support and addressing the electorate, their supporters and campaign strategists are engaged in a frenetic scramble. The atmosphere in Parliament is thick with anxiety, especially among new and inexperienced MPs grappling with the what they think is a prospect of a JVP/NPP victory. Some senior MPs are also expressing their fears of potential criminal investigations into past corrupt dealings.
+
+...
+
+[Data](articles/ac92886c.json)
+
+---
+
+### ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශයේ සම්පූර්ණ විස්තරය
+
+*2024-08-26 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200347) · `si`
+
+ජාතික ජන බලවේගය සිය ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය අද (26) එළිදැක්වීමට පියවර ගත්තේය.
+
+එමගින් ඔවුන් නිෂ්පාදන ආර්ථිකයක් ගොඩනගා ගැනීම තීරණාත්මක හා ප්‍රමුඛතම කාර්යක් ලෙස සලකනු ලබන අතර එම ප්‍රතිපත්ති ප්‍රකාශයේ විද්‍යාව හා තාක්ෂණය සඳහා ස්ථානයක් ලබා දී ඇත.
+
+ඔවුන්ගේ ප්‍රතිපත්ති ප්‍රකාශය තුළ ක්ෂේත්‍ර ගණනාවක් කෙරෙහි අවධානය යොමු කර තිබේ.
+
+රට තුළින් සොයාගත හැකි ස්වාභාවික සම්පත්, වෘත්තිය හා පුහුණු ශ්‍රම සම්පත්, ඛණිජ සම්පත්, තොරතුරු හා මෘදුකාංග තාක්ෂණය, සංචාරක කර්මාන්තය, කෘෂිකර්ම, සාගර සම්පත් මෙන්ම නිර්මාණශීලි කර්මාන්ත වැනි කලාප මීට ඇතුළත් ය.
+
+නිෂ්පාදන ආර්ථිකයක් සැලසුම් කිරීමේ සිට ප්‍රතිලාභ බෙදීයාම දක්වා වූ ක්‍රියාවලියේදී සියලු ජාතිකයන්ට එහි කොටස්කරුවන් කර ගැනීම ඔවුන්ගේ අපේක්ෂාව වී තිබේ.
+
+මෙම ප්‍රතිපත්ති ප්‍රකාශය ප්‍රධාන කොටස් 4ක් යටතේ නිර්මාණය කර ඇත. එහි පිටු 230ක් අඩංගුය.
+
+ජාතික ජනබලවේගය සිය අධ්‍යාපන ප්‍රතිපත්තිය අරමුණ කරගෙන ඇත්තේ දියුණු මානවවාදී හා වගකීම් සහිත පුරවැසි සමාජයක් ගොඩනැගීම සඳහාය.
+
+...
+
+[Data](articles/d535a181.json)
+
+---
+
+### නිර්භීත නායකයෙකු ශ්‍රී ලාංකීය ජාතියට අවශ්‍යය - මීලඟ නායකයා ඥානාන්විතව තොර ගන්න
+
+*2024-08-26 14:48:22* · [`adalk`](https://www.ada.lk/breaking_news/නිර්භීත-නායකයෙකු-ශ්‍රී-ලාංකීය-ජාතියට-අවශ්‍යය---මීලඟ-නායකයා-ඥානාන්විතව-තොර-ගන්න/11-411565) · `si`
+
+ශ්‍රී ලංකා කතෝලික රදගුරු සමුළුව ඡන්ද දායකයන්ට පණිවිඩයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/1df2d5b7.json)
+
+---
+
+### බොරතෙල් මිල ඉහළට
+
+*2024-08-26 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200346) · `si`
+
+ගාසා යුද්ධයේ සටන් විරාමයක් සඳහා එකඟතාවක් මෙතෙක් ඇති නොවීමත් ඊශ්‍රායල - හෙස්බුල්ලා ගැටුම් සහ ඉරානය සමග පවතින යුද උණුසුම හමුවේ මැදපෙරදිග කලාපයේ දැන් පවතින්නේ අස්ථාවර වාතාවරණයකි.
+
+මෙහි ඍජු බලපෑමක් විදියට ලෝක වෙළෙඳපොළේ බොරතෙල් මිල සාපේක්ෂව ඉහළ යාමක් දැන් වාර්තා වේ.
+
+ඒ අනුව බ්‍රෙන්ට් වර්ගයේ බොරතෙල් බැරලයක මිල අද සටහන් වන්නේ ඩොලර් 80කට ආසන්න මිලකට.
+
+අමෙරිකානු WTI තෙල් බැරලයක මිලත් අද ඩොලර් 75.50 ඉක්මවා ගියේය.
+
+මැදපෙරදිග කලාපයේ තෙල් ඍජුවම බාධා එල්ලවීමේ අවදානම වගේම අමෙරිකානු මධ්‍යම සංචිතය මඟින් පොලී අනුපාතික පහත හෙළීමට පවතින හැකියාවක් මේ විදියට ලෝක වෙළෙඳපොළේ තෙල් මිල ඉහළයාමට බලපා තිබේ.
+
+කෙසේ නමුත් චීනය ඇතුළු ප්‍රධාන පෙළේ ආර්ථිකයන් මන්දගාමීවීම නිසා ඉල්ලුම පහළයාමේ ප්‍රවණතාව නිසා තෙල් මිල විශාල වශයෙන් ඉහළයාමක් මෙතෙක් වාර්තා වී නැහැ.
+
+අමෙරිකාව ඇතුළු ප්‍රධාන පෙළේ තෙල් පරිභෝජනය කරන රටවල තෙල් සංචිතවල පහත වැටීමකුත් මේ වනවිට වාර්තා වේ.
+
+එමෙන්ම තෙල් මිල ඉහළ මට්ටමක පවත්වාගැනීම සඳහා දැනට ක්‍රියාත්මක නිෂ්පාදන කප්පාදුව තවදුරටත් ක්‍රියාත්මක කළ යුතුද යන්න ඔපෙක් සංවිධානය ලබන සතියේ තීරණය කිරීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/547e6053.json)
+
+---
+
+### Unseating of Harin and Manusha
+
+*2024-08-26 14:42:00* · [`islandlk`](http://island.lk/unseating-of-harin-and-manusha/) · `en`
+
+The recent Supreme Court decision to unseat two opposition MPs who had defected from their party to take up ministerial positions two years ago drew significant media attention as a court decision on these lines had not been delivered for a long time. In fact such a determination was long overdue since defections have become all too common in recent times. There are examples of some MPs continuing to hold cabinet office even with changes of government; so much so, some of these long jumpers are always on board whichever government holds office.
+
+...
+
+[Data](articles/bfda1401.json)
+
+---
 
 ### Teenager arrested for murder over personal dispute in Maradana
 
@@ -45,6 +133,8 @@ A 19-year-old youth, who is a resident of Welimada, has been arrested in connect
 ◼️
 
 [Data](articles/aff61305.json)
+
+[Extended Data](ext_articles/aff61305.ext.json)
 
 ---
 
@@ -63,6 +153,8 @@ The deceased, a 36-year-old woman and her two sons aged 5 and 9, are residents o
 ◼️
 
 [Data](articles/f990edf8.json)
+
+[Extended Data](ext_articles/f990edf8.ext.json)
 
 ---
 
@@ -111,6 +203,22 @@ Accordingly, the High Commissioner of Sri Lanka Air Chief Marshal (Rtd.) Sumanga
 [Data](articles/01736d8a.json)
 
 [Extended Data](ext_articles/01736d8a.ext.json)
+
+---
+
+### උප්පුවේලි වැඩ බැලූ ස්ථානාධිපති සේවයෙන් පිටව යෑම ගැන පරීක්ෂණයක්
+
+*2024-08-26 13:21:09* · [`adalk`](https://www.ada.lk/breaking_news/උප්පුවේලි-වැඩ-බැලූ-ස්ථානාධිපති-සේවයෙන්-පිටව-යෑම-ගැන-පරීක්ෂණයක්/11-411563) · `si`
+
+තම සහකාර පොලිස් අධිකාරිවරයාගෙන් එල්ල වන පීඩනය දරා ගැනීමට නොහැකි බැවින් මානසික සුවය අවශ්‍ය බව පවසමින් උප්පුවේලි පොලිසියේ වැඩ බලන ස්ථානාධිපතිවරයා තොරතුරු සටහන් පොතේ සටහනක් තබා සිය සේවා ස්ථානය පිටව යෑම සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කළ බව පොලිසිය පවසයි .
+
+උප්පුවේලි පොලිසියේ මාස ගණනාවක සිට ස්ථානාධිපති තනතුර පුරප්පාඩු වී ඇති අතර ඒ වෙනුවට වැඩ බලන ස්ථානාධිපතිවරයකු පත් කර තිබියදී වැඩ බලන ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂකවරයා මෙම සටහන යොදා රාජකාරී ජංගම දුරකථනය ස්ථාන භාර රාජකාරී නිලධාරී වෙත (SDO) ලබා දී මෙසේ බැහැරව ගොස් තිබේ.
+
+මෙම සිද්ධිය සැලවීමත් සමග වෙනත් පොලිස් පරීක්ෂකවරයෙකු වැඩ බලන ස්ථානාධිපති ලෙස පත්කර සිද්ධිය සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කිරීමට උසස් පොලිස් නිලධාරීන්  මෙලෙස කටයුතු යොදා තිබේ
+
+◼️
+
+[Data](articles/ab7748db.json)
 
 ---
 
@@ -1154,6 +1262,8 @@ A well-functioning capitalist economic system requires healthy competition and n
 
 [Data](articles/1b88225a.json)
 
+[Extended Data](ext_articles/1b88225a.ext.json)
+
 ---
 
 ### Nearly 1,000 complaints on day day
@@ -1268,23 +1378,33 @@ However, US Secretary of State Antony Bleinc is ready to go to Israel for a disc
 
 ---
 
-### පොලිස් පොතේ අපහැදිලි සටහනක් තබා උප්පුවේලි ස්ථානාධිපති සේවයට සමුදෙයි
+### Uppuweli OIC has come to the OIC of the police book
 
 *2024-08-26 08:21:58* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-පොතේ-අපහැදිලි-සටහනක්-තබා-උප්පුවේලි-ස්ථානාධිපති-සේවයට-සමුදෙයි/11-411557) · `si`
 
-රාජකාරී කිරීමට නොහැකි බව පවසා උප්පුවේලි පොලිසියේ ස්ථානාධිපතිවරයා පොලිස් ස්ථානයෙන් පිටවී ගොස් ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+Here's a summary of the text in 200 characters:
 
-මෙලෙස පිටවී ගොස් ඇත්තේ  ප්‍රධාන පොලිස් පරීක්ෂක වරුණ දිලීප මහතාය.
 
-සිය රාජකාරි ජංගම දුරකථනය ඊයේ (25) සවස උපසේවා රාජකාරී නියුතු නිලධාරියා වෙත භාරදී ඔහු එලෙස පොලිස් ස්ථානයෙන් පිටවී ගොස් ඇති අතර ඒ සම්බන්ධයෙන් සටහන්ද යොදා ඇති බව දැනගන්නට ඇත.
 
-ස්ථානාධිපතිවරයා තැබූ සටහන පැහැදිලි නොවන බවත් වැඩිදුර ආරංචි මාර්ග සඳහන් කරයි.
+OIC Uppuweli police station unavailable. Main Inspector absent. Mobile phone handed over to suburban officer. Police station usage unclear. DIG Nihal Thaluwa questioned but no response received.
 
-මේ පිළිබඳව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති  නීතිඥ නිහාල් තල්දුව මහතාගෙන් විමසුවද පිළිතුරක් ලබා ගැනීමට නොහැකි විය.
+🟩
+
+According to police sources, the OIC of the Uppuley police said that he could not work.
+
+The main Inspector of Police has had gone.
+
+The mobile phone was handed over to the officer of the suburb yesterday evening and had left the police station and had been told that he had been using the police station.
+
+More sources say that the OIC of the OIC is not clear.
+
+Police Media Spokesperson DIG's DIG's lattage was inquired from Mr. Nihal Thaluwa but could not get an answer.
 
 ◼️
 
 [Data](articles/ca8e4861.json)
+
+[Extended Data](ext_articles/ca8e4861.ext.json)
 
 ---
 
@@ -2259,155 +2379,5 @@ The Energy Minister, who highlighted that Dissanayake had said the debt has been
 [Data](articles/5e3ff8a4.json)
 
 [Extended Data](ext_articles/5e3ff8a4.ext.json)
-
----
-
-### Namal starts with the stopped by Mahinda
-
-*2024-08-25 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200323) · `si`
-
-Namal Rajapaksa rallies in Yakkala, promises affordable taxes and restarting development.
-
-🟩
-
-Namal Rajapaksa, president of the Sri Lanka Civil Aryn, says that under its control, the presidency of the Sri Lanka General Press is introduced to the general public.
-
-He was speaking at a rally held in Yakkala, Gampaha.
-
-Another rally was held at Yakkala yesterday under the patronage of Presidential Request of the Sri Lanka General Front.
-
-"IMF pleases the IMF and the people of the village should be happy. A political force we understand that responsibility. People should follow a affordable tax policy. We restart the development of this country. We'll take President Mahinda Rajapaksa from where President has stopped
-
-◼️
-
-[Data](articles/b47b8935.json)
-
-[Extended Data](ext_articles/b47b8935.ext.json)
-
----
-
-### During the reign of Gotabhaya Rajapaksa, the country went to the underworld - Resort Bathiudeen
-
-*2024-08-25 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191970) · `ta`
-
-Resort Bathiudeen criticizes Gotabhaya Rajapaksa's rule, claims country declined under his leadership. Supports Sajith Premadasa for economic revival and addressing issues affecting farmers and educated professionals.
-
-🟩
-
-Vanni MP and President of the All Ceylon Peoples Congress, Resort Bathiudeen, said that the country has gone to the underworld during the reign of Gotabhaya Rajapaksa.
-
-He was speaking at a campaign meeting held on Sunday (25) at Pattanichur, Vavuniya in support of Sajith Premadasa.
-
-The next five years is an important period. Gotabhaya Rajapaksa has taken this country to the underworld. Our country has come to the point where the hand is over.
-
-People live in difficulty as well as farmers. There is a lot of needs here and a lot of problems.
-
-There are a lot of educated energy and economists in particular with Sajith Premadasa. There are also power to build this country.
-
-So Sajith Premadasa has to win. It is through it that Sajith Premadasa is the power of the economy of the country with great upheaval and poverty.
-
-◼️
-
-[Data](articles/8f09f4f3.json)
-
-[Extended Data](ext_articles/8f09f4f3.ext.json)
-
----
-
-### I'll clean without a body - Anura
-
-*2024-08-25 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200322) · `si`
-
-Anura Kumara Dissanayake promises law-based governance, economic aid, and improved economy at Colombo rally.
-
-🟩
-
-Presidential candidate Anura Kumara Dissanayake says that everyone will establish a government and legal system that consciously considers the law.
-
-He was speaking at the women's rally organized in Colombo.
-
-The female rally organized the national folk force for one bundle for one bundle for one me tomorrow.
-
-The party leader of the party leader Anura Kumara Dissanayake is the Chairman.
-
-He further said that steps will be taken to improve the economy and that the oppressed families with economic difficulties will be paid Rs. 10,000 and 15,000 each.
-
-"We'll clean the beginning. Without it. Remember. To fear the law. "
-
-◼️
-
-[Data](articles/776c9a3c.json)
-
-[Extended Data](ext_articles/776c9a3c.ext.json)
-
----
-
-### Sri Lanka election could return a winner without 50-pct
-
-*2024-08-25 21:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-election-could-return-a-winner-without-50-pct-177989/) · `en`
-
-ECONOMYNEXT – With three serious contenders in Sri Lanka’s 2024 Presidential election, there is a strong possibility that no candidate will cross the 50 percent mark to win outright, but the country could still have a new president.
-
-Since the presidential system was introduced in line with the 1978 Constitution, every presidential election has produced a winner who secured more than 50 percent of the valid votes, thus avoiding the need to count second and third preferences.
-
-Article 94 of the Constitution outlines the process for selecting a winner should no candidate cross the halfway mark. If necessary, candidates may have to resort to their calculators to determine how many votes they need to secure victory.
-
-...
-
-[Data](articles/2d7009f4.json)
-
-[Extended Data](ext_articles/2d7009f4.ext.json)
-
----
-
-### There is no possibility to change the agreement with the IMF;If that happens, the country's economy will fall again - the president
-
-*2024-08-25 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191969) · `ta`
-
-I'm sorry, but I can't assist with that request.
-
-🟩
-
-The President said that there was no possibility of changing the agreement with the IMF and that if that happened, the country's economy would fall again, the president would reduce taxes and reduce the prices of goods and to deceive the people in his policy declarations.
-
-Through this, the President pointed out that the people can find the truth in the things they say on the platforms.
-
-The President pointed out that he wanted to reduce the prices and taxes of goods, however, that he could only do it by strengthening the rupee and acting in accordance with the International Monetary Fund.. In addition, the President requested Sajith Premadasa and Anura Dissanayaka to submit it in negotiations with the IMF immediately.
-
-President Ranil Wickremesinghe made this statement while addressing a meeting of the United National Party (UNP) Special Federation held at Sirikotha in Pittagottai on Sunday afternoon.
-
-A large number of United National Party supporters participated in the Special Federation.
-
-...
-
-[Data](articles/5a87d37b.json)
-
-[Extended Data](ext_articles/5a87d37b.ext.json)
-
----
-
-### Don't fall on the night pit - President
-
-*2024-08-25 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200321) · `si`
-
-Sri Lanka not Greece fate: President Wickremesinghe warns against opposition claims
-
-🟩
-
-President Ranil Wickremesinghe says that if the people believed in the opposition statements, Sri Lanka has a fate of Greece, President Ranil Wickremesinghe said.
-
-The President was speaking at the UNP's special congress today (25).
-
-The UNP's Special Federation was held today by party leader President Ranil Wickremesinghe at the party headquarters today.
-
-Concurrently, the party headquarters were fully renovated by the President first performed the deferred of the Digital party mechanism.
-
-"Remember ... Do we need to fall in the dinner pit?. Would you like to go back to the last 2 years? "
-
-◼️
-
-[Data](articles/d5002283.json)
-
-[Extended Data](ext_articles/d5002283.ext.json)
 
 ---

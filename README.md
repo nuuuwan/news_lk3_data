@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 03:21:36**
+As of **2024-08-27 03:37:05**
 
 ## Newspaper Stats
 
-*Scraped **42,754** Articles*
+*Scraped **42,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,779
 adalk | 3,945
 dailymirrorlk | 4,733
 adaderanalk | 5,026
-tamilmirrorlk | 5,566
+tamilmirrorlk | 5,567
 virakesarilk | 6,788
 adaderanasinhalalk | 7,319
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,753 (100.0%) of 42,754 articles have been extended.
+42,754 (100.0%) of 42,755 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -170,21 +170,49 @@ From left: Immediate past President Spillburg Holdings Managing Director M.H.K. 
 
 ---
 
-### அதிகளவில் வரி நிலுவை உள்ளதாக வௌியாகும் செய்திகளில் உண்மையில்லை - இலங்கை சுங்கத் திணைக்களத்தின் நிதி அதிகாரி
+### There is no such thing in the news that there is too much tax arrears - the financial officer of the Sri Lanka Customs Department
 
 *2024-08-27 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/192078) · `ta`
 
-உள்நாட்டு இறைவரித் திணைக்களம், இலங்கை சுங்கத் திணைக்களம், மதுவரித் திணைக்களம் ஆகிய மூன்று பிரதான அரச வருமான மூலங்களில், பாரிய நிலுவைத் தொகை இருப்பதாக வௌியாகும் செய்திகள் உண்மைக்குப் புறம்பானவையாகும் என மதுவரி ஆணையாளர் நாயகம் எம்.ஜே.குணசிறி தெரிவித்தார்.
+Sri Lanka Customs Department tax revenue increase 2023-2024, tax arrears legal actions, new grievance division launched.
 
-இந்த மூன்று நிறுவனங்களிலும் நிலுவையில் உள்ள வரித் தொகை 90 பில்லியன் ரூபாய் மாத்திரமே என சுட்டிக்காட்டிய அவர், உலகில் எந்தவொரு நாட்டின் மொத்த வரி வருமானத்தில் 3% - 5% வரையானது நிலுவையில் உள்ள வரி என்றும் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் இன்று (26) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே, மதுவரி ஆணையாளர் நாயகம் எம்.ஜே.குணசிறி இந்தக் கருத்துக்களை வெளியிட்டார்.
+Madhuvari Commissioner General MJ Gunasiri said that the three major state income sources of the Internal Revenue Department, the Customs Department and the Department of Liquor, are in trouble.
 
-மேலும், இந்த மூன்று நிறுவனங்களும் 2023 ஆம் ஆண்டில் வரலாற்றில் மிக அதிக வருமானமாக, 3 டிரில்லியன் ரூபாயைத் தாண்டி வருமானம் பெற்றுள்ளதுடன், 25 ஆண்டுகளுக்குப் பிறகு, முதன்மைக் கணக்கில் மேலதிகத்தை உருவாக்க முடிந்துள்ளது என்றும் தெரிவித்தார்.
+Pointing out that the tax on the three companies is only Rs 90 billion, he said that the tax is up to 3% - 5% of the total tax revenue of any country in the world.
+
+Madhuvari Commissioner General MJ Gunasiri made these comments at a media briefing held at the Presidential Media Center today (26).
+
+He also said that these three companies have earned the highest income in history by 2023 and have been able to create an overdue in the main account after 25 years.
+
+“All three companies - the Department of Internal Revenue, the Customs Department and the Liquor Department, which earns state income under the Ministry of Finance, charge taxes within the legal framework.. But there are some groups working to spread an illusion that there is too much tax arrears in this country.
 
 ...
 
 [Data](articles/b2235860.json)
+
+[Extended Data](ext_articles/b2235860.ext.json)
+
+---
+
+### கொழும்பு குப்பைகளுக்கு மீண்டும் கடும் எதிர்ப்பு
+
+*2024-08-27 01:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-குப்பைகளுக்கு-மீண்டும்-கடும்-எதிர்ப்பு/175-342835) · `ta`
+
+கொழும்பிலிருந்து குப்பைகளை ரயிலில் புத்தளத்திற்கு கொண்டு வரும் வேலைத்திட்டம் ஞாயிற்றுக்கிழமை (25) முதல் மீண்டும் ஆரம்பிக்கப்பட்டுள்ளதாக தெரிவித்து புத்தளம் நகரில் எதிர்ப்பு ஆர்ப்பாட்டம் இடம்பெற்றது.
+
+இத்திட்டத்தை உடனடியாக கைவிட வேண்டும் என கோரியே புத்தளத்தில் அமைதியான முறையில் இந்த கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+
+புத்தளம் நூர் நகர் ரயில் நிலையத்திற்கு முன்பாக இந்த கவனயீர்ப்பு போராட்டம் சுமார் இரண்டு மணி நேரம் நடத்தப்பட்டது.
+
+இந்த கவனயீர்ப்பு போராட்டத்தில் தூய தேசத்திற்கான கட்சியின் தலைவர் இஷாம் மரிக்கார் உட்பட இளைஞர்கள், சமூக ஆர்வலர்கள் சிலர் கலந்து கொண்டனர்.
+
+பரீட்சார்த்த நடவடிக்கைகளுக்காக கொழும்பிலிருந்து குப்பைகளை ஏற்றிய விசேட ரயில் புத்தளம் அருவக்காடு சேராக்குளி பகுதிக்கு வருகை தரவுள்ளதாக கிளீன் புத்தளம் குழுவுக்கு கிடைத்த தகவலின் அடிப்படையில் இந்த கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டதாக ஏற்பாட்டாளர்கள் தெரிவித்தனர்.
+
+...
+
+[Data](articles/d4ab1ab3.json)
 
 ---
 
@@ -2617,41 +2645,5 @@ It is reported that hezbollah and three members of the Amal supported with them.
 [Data](articles/1bca04c3.json)
 
 [Extended Data](ext_articles/1bca04c3.ext.json)
-
----
-
-### The best team is with me
-
-*2024-08-26 13:08:01* · [`adalk`](https://www.ada.lk/breaking_news/මා-සමඟ-සිටින්නේ-හොඳම-කණ්ඩායමයි/11-411562) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-President Ranil Wickremesinghe addressed lawyers on economic stability. He emphasized accountability, saying he's responsible for catching thieves from the 2015 JVP government. He stated his focus isn't on political positions but on living standards and overcoming economic challenges.
-
-🟩
-
-A group that can challenge that group is in any other party
-
-The fight is not about the president of who the President
-
-This year's voter should be given to the age of looking for the gas cylinder
-
-The JVP failed to take responsibility for thieves under the good government government
-
-Must have a cat of teeth: The cat has a cat: If the cat is tooth or the blank
-
-In the last two years, the smartest team of all parties is one of the two-year-old team to reach the economy of the country and overcome the economic group
-
-The President said that they were familiar with the people who had brought them to politics, but that the fighting is about living, but to leave the era of gas cylinder..
-
-President Ranil Wickremesinghe made this statement at the Taj Samudra Hotel in Colombo yesterday (24) with law professionals.
-
-...
-
-[Data](articles/ba72ea1e.json)
-
-[Extended Data](ext_articles/ba72ea1e.ext.json)
 
 ---

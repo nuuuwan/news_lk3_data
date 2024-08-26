@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 01:22:06**
+As of **2024-08-27 01:37:10**
 
 ## Newspaper Stats
 
-*Scraped **42,741** Articles*
+*Scraped **42,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,34 @@ adalk | 3,945
 dailymirrorlk | 4,733
 adaderanalk | 5,026
 tamilmirrorlk | 5,562
-virakesarilk | 6,786
+virakesarilk | 6,787
 adaderanasinhalalk | 7,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,741 (100.0%) of 42,741 articles have been extended.
+42,741 (100.0%) of 42,742 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-27 (Tuesday)
+
+### அனைத்து பிரஜைகளையும் மனித நேயத்துடன் நியாயமான வகையில் நடத்தும் அரசாங்கமே தேசிய மக்கள் சக்தி - அநுர குமார திசாநாயக்க
+
+*2024-08-27 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192077) · `ta`
+
+தேசிய மக்கள் சக்தியின் அரசாங்கம் என்பது அத்தனை பிரஜைகளையும் நியாயமான வகையில் நடத்துகின்ற அரசாங்கமாகும். மனிதம் நிறைந்த அரசாங்கமாகும் என தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அநுர குமார திசாநாயக்க தெரிவித்தார்.
+
+“வளமான நாடு – அழகான வாழ்க்கை” தேசிய மக்கள் சக்தியின் 2024 ஜனாதிபதித் தேர்தலுக்கான கொள்கைப் பிரகடன வெளியீடு  திங்கட்கிழமை (26)  ஸ்ரீ ஜயவர்தனபுரவிலுள்ள மொனாக் இம்பீரியல் ஹோட்டலில் இடம்பெற்ற போதே தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அநுர குமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+
+குறிப்பாக இன்று இங்கு உருவாகியுள்ள தருணம் நாங்கள் ஒரு அரசியல் இயக்கம் என்ற வகையில் மிகவும் திட்டமிட்ட அடிப்படையில் பல துறைகளில் செயலாற்றி வந்தவிடயமாகும். முதலாவதாக சீரழிந்துள்ள இந்த நாட்டை கட்டியெழுப்புவதற்காக ஒரு சக்தியை நாங்கள் கட்டியெழுப்ப வேண்டும்.
+
+...
+
+[Data](articles/8c41d1f0.json)
+
+---
 
 ### 2024-08-26 (Monday)
 
@@ -2583,27 +2601,5 @@ The Minister of Internal Affairs had revealed information about the attack.
 [Data](articles/f15427fd.json)
 
 [Extended Data](ext_articles/f15427fd.ext.json)
-
----
-
-### Price of tea fertilizer bag reduced by Rs. 4,000 as subsidy program re-implemented
-
-*2024-08-26 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101510/price-of-tea-fertilizer-bag-reduced-by-rs-4000-as-subsidy-program-re-implemented) · `en`
-
-The Ministry of Agriculture and Plantation Industries has re-implemented the fertilizer subsidy program aimed at reducing costs for tea cultivators in Sri Lanka.
-
-As part of this initiative, the Ministry of Agriculture and Plantation Industries has taken steps to reduce the prices of five key fertilizer types produced by the State Fertilizer Company.
-
-Under this program, the cost of a 50kg bag of tea fertilizer has been reduced by Rs. 4,000, offering substantial relief to tea planters across the country.
-
-The fertilizer types subjected to this price reduction include T 200, T 750, U 709, U 834, and T 65.
-
-With a total investment of Rs. 2,400 million, this subsidy program is fully funded by the Sri Lanka Tea Board, ensuring that no government funds are utilized, Minister of Agriculture and Plantation Mahinda Amaraweera said.
-
-◼️
-
-[Data](articles/e8130401.json)
-
-[Extended Data](ext_articles/e8130401.ext.json)
 
 ---

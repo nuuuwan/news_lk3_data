@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 03:06:51**
+As of **2024-08-27 03:21:36**
 
 ## Newspaper Stats
 
-*Scraped **42,753** Articles*
+*Scraped **42,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,945
 dailymirrorlk | 4,733
 adaderanalk | 5,026
 tamilmirrorlk | 5,566
-virakesarilk | 6,787
+virakesarilk | 6,788
 adaderanasinhalalk | 7,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,751 (100.0%) of 42,753 articles have been extended.
+42,753 (100.0%) of 42,754 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Addressing the gathering of NPP Executive Council members, professionals, academ
 ...
 
 [Data](articles/a7a8254f.json)
+
+[Extended Data](ext_articles/a7a8254f.ext.json)
 
 ---
 
@@ -168,19 +170,49 @@ From left: Immediate past President Spillburg Holdings Managing Director M.H.K. 
 
 ---
 
-### ’உயரமாயின் காவலாளி குட்டையாயின் தொழிலாளி’
+### அதிகளவில் வரி நிலுவை உள்ளதாக வௌியாகும் செய்திகளில் உண்மையில்லை - இலங்கை சுங்கத் திணைக்களத்தின் நிதி அதிகாரி
+
+*2024-08-27 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/192078) · `ta`
+
+உள்நாட்டு இறைவரித் திணைக்களம், இலங்கை சுங்கத் திணைக்களம், மதுவரித் திணைக்களம் ஆகிய மூன்று பிரதான அரச வருமான மூலங்களில், பாரிய நிலுவைத் தொகை இருப்பதாக வௌியாகும் செய்திகள் உண்மைக்குப் புறம்பானவையாகும் என மதுவரி ஆணையாளர் நாயகம் எம்.ஜே.குணசிறி தெரிவித்தார்.
+
+இந்த மூன்று நிறுவனங்களிலும் நிலுவையில் உள்ள வரித் தொகை 90 பில்லியன் ரூபாய் மாத்திரமே என சுட்டிக்காட்டிய அவர், உலகில் எந்தவொரு நாட்டின் மொத்த வரி வருமானத்தில் 3% - 5% வரையானது நிலுவையில் உள்ள வரி என்றும் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் இன்று (26) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே, மதுவரி ஆணையாளர் நாயகம் எம்.ஜே.குணசிறி இந்தக் கருத்துக்களை வெளியிட்டார்.
+
+மேலும், இந்த மூன்று நிறுவனங்களும் 2023 ஆம் ஆண்டில் வரலாற்றில் மிக அதிக வருமானமாக, 3 டிரில்லியன் ரூபாயைத் தாண்டி வருமானம் பெற்றுள்ளதுடன், 25 ஆண்டுகளுக்குப் பிறகு, முதன்மைக் கணக்கில் மேலதிகத்தை உருவாக்க முடிந்துள்ளது என்றும் தெரிவித்தார்.
+
+...
+
+[Data](articles/b2235860.json)
+
+---
+
+### The worker's worker
 
 *2024-08-27 01:14:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயரமாயின்-காவலாளி-குட்டையாயின்-தொழிலாளி/175-342834) · `ta`
 
-உயரம் என்றால் காவலாளி குட்டை என்றால் தொழிலாளி என்ற கொள்கைகளை என்ற கொள்கையைக் கொண்ட எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிடம் நாட்டை ஒப்படைத்தால் நாட்டின் எதிர்காலம் மற்றும் குழந்தைகளின் எதிர்காலம் குறித்து எதுவும் பேச முடியாது என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Here's a summary of the text in 200 characters:
 
-இந்த தருணத்தில் நாட்டின் எதிர்காலத்தை ஒப்படைக்கக்கூடிய ஒரே தலைவர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவே என அமைச்சர் வலியுறுத்தியுள்ளார்.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றிக்காக கம்பஹா மாவட்டம் திவுலப்பிட்டி தொகுதியின் தேர்தல் செயற்பாட்டுக் காரியாலயத்தை திறந்து வைக்கும் நிகழ்வில் ஞாயிற்றுக்கிழமை (25) கலந்து கொண்ட போதே அமைச்சர் இதனைத் தெரிவித்தார்.
+
+Sri Lanka's Urban Development Minister Prasanna Ranatunga supports President Ranil Wickremesinghe, saying he's the only leader who can secure the country's future. He criticizes Opposition Leader Sajith Premadasa, claiming he lacks vision and experience.
+
+🟩
+
+Urban Development and Housing Minister Prasanna Ranatunga has said that if he handed over the country to Opposition Leader Sajith Premadasa, the country, the policy of a height is a height, the country's future and the future of the children.
+
+The minister emphasized that President Ranil Wickremesinghe is the only leader who can hand over the future of the country at this moment.
+
+The Minister made this observation on Sunday (25) at the inauguration of the Elections Office of the Divulapitiya constituency of the Gampaha district for the success of President Ranil Wickremesinghe.
+
+“People who love the country always refer to us as native Sri Lankans. When Mahinda failed in 2015, the bud was created with the hope of gathering the five great powers - Buddhist monk, doctor, teacher, farmer and labor. After the start and working with the bud, we won the country's local government elections, presidential election and parliamentary elections.
 
 ...
 
 [Data](articles/f1bf6502.json)
+
+[Extended Data](ext_articles/f1bf6502.ext.json)
 
 ---
 
@@ -2621,37 +2653,5 @@ President Ranil Wickremesinghe made this statement at the Taj Samudra Hotel in C
 [Data](articles/ba72ea1e.json)
 
 [Extended Data](ext_articles/ba72ea1e.ext.json)
-
----
-
-### New law from Australia for employee rights
-
-*2024-08-26 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200343) · `si`
-
-Australia introduces "right to disconnect" law, allowing employees to ignore work emails outside hours. Violations incur fines up to $93,900. Aimed at preventing work-life balance issues amid growing remote work due to COVID-19. About 20 European countries have similar laws.
-
-🟩
-
-The law of 'right to disconnect "has been introduced to operate from today (26).
-
-The new law has the opportunity to allow employees to ignore and not respond to employees after duties.
-
-Foreign media reports that the heads of the heads cannot be punished.
-
-The Australian government has said that the law was introduced to prevent the damage done to the employees to their personal life.
-
-If there is a violation of the new law, a person who is convicted and a conviction will be subject to a fine to $ 93,900.
-
-In addition to Australia, it is reported that about 20 countries in other Europe have been followed earlier.
-
-The Australian government has shown the limitations between the professional and personal lives of people in the center of the growing of digital communication and remotely working in the development of the Covid-19 plague.
-
-A survey of last year's survey revealed that the Australians have done 281 hours an additional 281 hours.
-
-◼️
-
-[Data](articles/2d47fe13.json)
-
-[Extended Data](ext_articles/2d47fe13.ext.json)
 
 ---

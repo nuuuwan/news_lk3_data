@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 06:05:02**
+As of **2024-08-26 06:26:56**
 
 ## Newspaper Stats
 
-*Scraped **42,575** Articles*
+*Scraped **42,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 392
 colombotelegraphcom | 407
-islandlk | 2,475
+islandlk | 2,480
 economynextcom | 2,572
 dailyftlk | 2,769
 adalk | 3,924
 dailymirrorlk | 4,733
 adaderanalk | 4,997
-tamilmirrorlk | 5,536
+tamilmirrorlk | 5,538
 virakesarilk | 6,763
 adaderanasinhalalk | 7,286
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 7,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,575 (100.0%) of 42,575 articles have been extended.
+42,575 (100.0%) of 42,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### கிழக்கு, ஊவா மாகாணங்களில் மழை
+
+*2024-08-26 06:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கு-ஊவா-மாகாணங்களில்-மழை/175-342762) · `ta`
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களில் இன்று மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அத்துடன் மேல், சபரகமுவ, வடக்கு மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் மழை பெய்யக்கூடும்.
+
+அதேநேரம் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் அம்பாந்தோட்டை மாவட்டத்திலும் மணித்தியாலத்துக்கு 40 கிலோ மீற்றர் வேகத்தில் காற்று வீசக் கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. (a)
+
+◼️
+
+[Data](articles/24b11ed6.json)
+
+---
+
+### திரைப்பட இயக்குனர் சுகதபால செனரத் காலமானார்
+
+*2024-08-26 06:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைப்பட-இயக்குனர்-சுகதபால-செனரத்-காலமானார்/175-342761) · `ta`
+
+தனது 89 ஆவது வயதில் அவர் காலமானதாக அவரது குடும்பத் தகவல்கள் தெரிவிக்கின்றன.
+
+1935 ஆம் ஆண்டு நவம்பர் மாதம் 10 ஆம் திகதி அக்குரஸ்ஸவில் அவர் பிறந்தார். சுகதபால செனரத் யாப்பா பல கலைஞர்களைத் திரைத்துறைக்கு அறிமுகப்படுத்தியுள்ளார். (a)
+
+◼️
+
+[Data](articles/ca207dd7.json)
+
+---
+
+### GIZ, Coca-Cola, Nestlé, Unilever and local authorities come together to tackle plastic pollution
+
+*2024-08-26 03:56:00* · [`islandlk`](http://island.lk/giz-coca-cola-nestle-unilever-and-local-authorities-come-together-to-tackle-plastic-pollution/) · `en`
+
+In light of the solid waste management challenges faced, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH and three of Sri Lanka’s largest Fast Moving Consumer Goods (FMCG) companies – Coca-Cola Sri Lanka Beverages Ltd. along with The Coca-Cola Foundation, Nestlé, and Unilever, have come together to launch a sustainable plastic waste management project, with the ambition of tackling plastic pollution and leveraging the untapped potential of plastic waste. This Public-Private Partnership (PPP) named ‘Waste to Value’ aims to strengthen infrastructure on collection, segregation, recycling and upcycling of plastic waste, whilst driving a behavioural change towards a circular economy by creating awareness on the value of responsibly disposed waste to livelihoods and the environment.
+
+...
+
+[Data](articles/df2cfa5d.json)
+
+---
 
 ### Sri Lanka defines priorities for next month’s UN ‘Summit of the Future’ in NY
 
@@ -70,6 +112,38 @@ The exercise helps in building proficiency in tackling transnational terrorism, 
 
 ---
 
+### HNB Assurance recognised as outstanding mom-inclusive workplace
+
+*2024-08-26 03:41:00* · [`islandlk`](http://island.lk/hnb-assurance-recognised-as-outstanding-mom-inclusive-workplace/) · `en`
+
+HNB Assurance PLC was recognised as one of the most outstanding mom-inclusive workplaces, solidifying its efforts towards promoting inclusivity and equality in the insurance industry. This recognition was announced at the inaugural Mom Leaders Conference, organized by Parenthood Global.
+
+In addition to the company’s recognition, five exceptional mom leaders from HNB Assurance were acknowledged at the conference, for their remarkable contributions both within the organization and in their personal lives as dedicated mothers.
+
+...
+
+[Data](articles/0f297fdf.json)
+
+---
+
+### Air Ceilao: Sri Lanka’s new Airline to start operations soon
+
+*2024-08-26 03:39:00* · [`islandlk`](http://island.lk/air-ceilao-sri-lankas-new-airline-to-start-operations-soon/) · `en`
+
+Air Ceilao, Sri Lanka’s newest airline, prepares for its launch with plans to transform air travel. The carrier initially targets key destinations in the Middle East and Asia-Pacific, with future expansion to long-haul routes across Europe and Australia.
+
+The airline is currently working with Sri Lanka’s Civil Aviation Authority to secure regulatory approvals and complete the necessary preparations.
+
+Air Ceilao plans to operate a mixed fleet of narrow- and wide-bodied aircraft to serve its initial routes.
+
+As the second privately owned international airline in Sri Lanka, Air Ceilao aims to offer a customer-centric travel experience, balancing low-cost and luxury options. This approach could potentially disrupt the existing market dynamics and provide more choices for travelers.
+
+...
+
+[Data](articles/dffb48a2.json)
+
+---
+
 ### Ericsson signs MoU with two partners to enhance occupational safety standards
 
 *2024-08-26 03:37:00* · [`islandlk`](http://island.lk/ericsson-signs-mou-with-two-partners-to-enhance-occupational-safety-standards/) · `en`
@@ -99,6 +173,36 @@ Assetline Finance Limited (AFL), a fully owned subsidiary of David Pieris Holdin
 [Data](articles/16e9a6c5.json)
 
 [Extended Data](ext_articles/16e9a6c5.ext.json)
+
+---
+
+### WEConnect International and U.S. Embassy to advance gender inclusive supply chains
+
+*2024-08-26 03:33:00* · [`islandlk`](http://island.lk/weconnect-international-and-u-s-embassy-to-advance-gender-inclusive-supply-chains/) · `en`
+
+WEConnect International, with support from the U.S. Embassy, held a Supplier  Development Masterclass and  the  Supplier  Diversity and Inclusion Roundtable in Colombo.
+
+These events aim to empower and connect  women-owned businesses  with  key  industry   leaders  and potential buyers,   fostering economic growth and promoting gender inclusivity within value chains.
+
+U.S. Ambassador Julie Chung joined more than 40 Sri Lankan women business owners as they participated in the Supplier Development Masterclass, an advanced training program featuring in-depth lessons on business strategy, marketing, technology, negotiation, and sales. The class culminated in a pitch  session where  participants presented their businesses to a panel  of buyers, providing valuable feedback and potentially opening doors to new business opportunities.
+
+...
+
+[Data](articles/7c295e37.json)
+
+---
+
+### Diva empowering women to take control of their economic destinies
+
+*2024-08-26 03:32:00* · [`islandlk`](http://island.lk/diva-empowering-women-to-take-control-of-their-economic-destinies/) · `en`
+
+‘Diva Dathata Diriyak Entrepreneurial Skills Development Programme’, is a transformative collaboration between Diva, the flagship laundry care brand of Hemas Consumer Brands and Women in Management (WIM). In celebration of the World Entrepreneurs Day falling on 21st August, a One Day Seminar of Diva Dathata Diriyak Programme was conducted by Dr. Sulochana Sigera, Chairman of WIM, at the Matale Divisional Secretariat, with the participation of over 100 Women Entrepreneurs in Central Province.
+
+Followed by the seminar, a two-day workshop will be conducted to provide practical experience on entrepreneurial skills to further enhance the experience of women entrepreneurs. This is a part of the of the ongoing, highly successful series of Diva Dathata Diriyak Programme aimed at equipping women with the skills, knowledge, and confidence to thrive in the extremely challenging entrepreneurial world.
+
+...
+
+[Data](articles/a700cc35.json)
 
 ---
 
@@ -2099,173 +2203,5 @@ Speaking further, the SJB leader said: “The limit for tax exemption will be ma
 [Data](articles/c4195ecd.json)
 
 [Extended Data](ext_articles/c4195ecd.ext.json)
-
----
-
-### Woman attacked to death over personal dispute in Horana
-
-*2024-08-25 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101483/woman-attacked-to-death-over-personal-dispute-in-horana) · `en`
-
-A woman has reportedly been attacked to death with a sharp weapon in the Siriltonwatta area of Horana.
-
-Police stated that the murder has allegedly been carried out by a neighbor and his brother over a personal dispute last evening (24).
-
-Two brothers from the same family, aged 40 and 44, who are residents of Kananwila, have been arrested by the police in connection with the incident.
-
-The deceased is a 36-year-old resident of the Siriltonwatta area of the Meewanapalana area, police said.
-
-◼️
-
-[Data](articles/14fa751a.json)
-
-[Extended Data](ext_articles/14fa751a.ext.json)
-
----
-
-### A detaine is lost
-
-*2024-08-25 11:34:47* · [`adalk`](https://www.ada.lk/breaking_news/රැදවියෙක්ට-දිවි-අහිමි-වෙයි/11-411541) · `si`
-
-Detainee dies during arrest; police investigation ongoing.
-
-🟩
-
-The suspect, a suspect in Galle has died on an illness.
-
-Police investigations have revealed that the suspect had died when he was arrested by the Balapitiya court after being taken into custody after being produced by the Balapitiya court.
-
-The report reports that the post mortem was to be held at the Karapitiya Hospital at the Karapitiya Hospital
-
-◼️
-
-[Data](articles/8d4217c9.json)
-
-[Extended Data](ext_articles/8d4217c9.ext.json)
-
----
-
-### The country has become an property of several families
-
-*2024-08-25 11:30:45* · [`adalk`](https://www.ada.lk/breaking_news/රට-පවුල්-කිහිපයක-බූදලයක්-වෙලා/11-411540) · `si`
-
-Sri Lanka's economy struggles under family rule, poverty affects majority, agricultural potential untapped, natural resources mismanaged, political corruption prevalent, urgent reform needed.
-
-🟩
-
-The 2324 richest country organized the national folk elephant was held at the Wellawaya main bus stand on Wellawaya.
-
-The rally was organized by the former Provincial Councilor RM Jayawardena of the National Power Department.
-
-The Leader of the National People's Republic Anura Kumara Dissanayake is definitely without a rich country with a rich country who cannot acquire the poorest country.
-
-The SriLankan majority people are in poverty. The Galmand Ranmal has even tached the ring. Moreover, the small child is in a bank or mortgage center. But the rulers of the country sufferer. This system should be changed.
-
-The method of rich rulers who are poor, should be changed immediately. It can be done in the future presidential election. All the people will be assembled and demanding the national government for the national government .It is a country full of resources. Gems are common in the Okkampitiya, Alahera and Ratnapura areas.
-
-...
-
-[Data](articles/5ac7da0c.json)
-
-[Extended Data](ext_articles/5ac7da0c.ext.json)
-
----
-
-### Scientists reveal a risk of extinction
-
-*2024-08-25 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200299) · `si`
-
-Scientists warn of human extinction due to loss of Y chromosome in 4.5 million years unless new gender evolves.
-
-🟩
-
-Research has revealed that the Y Chromosome is determined in millions of years that determine man's sexuality.
-
-The research report of the United States of America has been revealed that the Y Chromosome has lost most of its nations in the last 166 million years.
-
-Scientists say that the Y chromosome is absolutely lost in 4.5 million years.
-
-According to a scientist, if a new sexual genger of humanity is not evolving, there is a risk of man in millions of years.
-
-◼️
-
-[Data](articles/709ebd07.json)
-
-[Extended Data](ext_articles/709ebd07.ext.json)
-
----
-
-### ‘NPP attempts to build a rich country’: Anura Kumara explains how
-
-*2024-08-25 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101482/npp-attempts-to-build-a-rich-country-anura-kumara-explains-how) · `en`
-
-Presidential candidate of the National People’s Power (NPP) Anura Kumara Dissanayake states that the NPP is attempting to build a rich country.
-
-Addressing a public rally held in Balangoda, the NPP leader also explained how the country will be developed under an NPP government.
-
-“The country has collapsed completely. But, we guarantee that we will start to develop this country step by step after the 21st of September”, Dissanayake said.
-
-“How do we do that? First of all, the nexus between the politician and the citizen should be strengthened.  Firstly we will inspire a political reformation to earn the trust of the voters who didn’t vote in our favour. We will set that example.”
-
-“For a long time, we were governed by governments that were built upon families, relations and friends. However, under an NPP-led government, we will only give positions to those who are qualified for the job. We will not consider political connections or family relationships”, he added.
-
-...
-
-[Data](articles/daf0a571.json)
-
-[Extended Data](ext_articles/daf0a571.ext.json)
-
----
-
-### Advanced Level Girl Deaths in Writing a Letter of Lies
-
-*2024-08-25 11:21:14* · [`adalk`](https://www.ada.lk/breaking_news/උසස්පෙළ-සිසුවිය-මවට-ලිපියක්-ලියා-නිදි-ඇඳේම-මියගිහින්/11-411539) · `si`
-
-Schoolgirl dies in letter writing incident. Economic hardships led to learning issues. Post-mortem conducted. Further investigation ongoing.
-
-🟩
-
-A schoolgirl studying in Ampitiya Police Station has died in a letter to sleep on the past (24).
-
-The deceased has been identified as the Advanced Valley Virini Vidikalaka, Weerasinghe Kankankan Kananamkala's Makmanana Sewade (18).
-
-Her father was killed in assaulting a wildlife about four years ago.
-
-The mother, brother and her reside in the house and the mother had left the house to cut their nuts and went to a tuition class.
-
-When she visited the afternoon, she was sleeping at the age of three overs. "My mother is saddened by us."
-
-Investigations have revealed that she had problems even to learn due to economic hardship. HNR Medical Officer of HNR Yapa said at the Moneragala district hospital with the post mortem examination of her death.
-
-The body of the body has been sent to the Medical Testing Company for further investigations.Acting Headquarters Police Inspector Janaka Ratnasiri is conducting investigations.
-
-◼️
-
-[Data](articles/7508781f.json)
-
-[Extended Data](ext_articles/7508781f.ext.json)
-
----
-
-### Student award for a Sri Lankan student
-
-*2024-08-25 11:15:21* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-සාම-සම්මානය-ලංකාවේ-සිසුවියකට/11-411538) · `si`
-
-Sri Lankan student wins Student Award at Hiroshima speech convention. Represents Sri Lanka at World Peace Summit. Flies to Hong Kong on Cathay Pacific. Parents attend Bandaranaike International Airport.
-
-🟩
-
-Hiroshima's speech convention in the Sahanashiya, who participated in the Kidhihi, who participated in the Kidhi and the Sri Lanka, won the World Peaceful Award, who participated in the talks for the children's Peace Summit in the Peace Summit.The night came to the Katunayake airport.
-
-She is a Grade 10 student of the Bandaranaike Midnayake College Veyangoda. The conference was held on the 8/20 of Japan, where she was also appointed as a World Peace Representative.
-
-She at Hong Kong to 11.24 pm on Hong Kong from Hong Kong to the Cathay Faccik Airlines.
-
-Her parents, her parents were present at the Bandaranaike International Airport.
-
-◼️
-
-[Data](articles/4603ee67.json)
-
-[Extended Data](ext_articles/4603ee67.ext.json)
 
 ---

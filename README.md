@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 14:36:59**
+As of **2024-08-26 14:55:51**
 
 ## Newspaper Stats
 
-*Scraped **42,655** Articles*
+*Scraped **42,658** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 394
-colombotelegraphcom | 408
+colombotelegraphcom | 409
 islandlk | 2,483
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,931
+adalk | 3,932
 dailymirrorlk | 4,733
-adaderanalk | 5,014
+adaderanalk | 5,015
 tamilmirrorlk | 5,552
 virakesarilk | 6,771
 adaderanasinhalalk | 7,304
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,304
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,654 (100.0%) of 42,655 articles have been extended.
+42,654 (100.0%) of 42,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### Teenager arrested for murder over personal dispute in Maradana
+
+*2024-08-26 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101516/teenager-arrested-for-murder-over-personal-dispute-in-maradana) · `en`
+
+An individual has reportedly died following an assault carried out over a personal dispute in the Devanampiyatissa Mawatha area in the Maradana Police Division.
+
+According to police, the attack had stemmed from a dispute between two individuals last night (25).
+
+A 19-year-old youth, who is a resident of Welimada, has been arrested in connection with the crime.
+
+◼️
+
+[Data](articles/aff61305.json)
+
+---
 
 ### Mother and two sons drown in Deduru Oya: all 3 bodies recovered
 
@@ -1126,6 +1142,20 @@ President Ranil Wickremesinghe noted that while he wishes to reduce the prices o
 
 ---
 
+### Inventions, Patents, Companies, IPO’s, Capital Markets & Wealth Of Nations
+
+*2024-08-26 08:53:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/inventions-patents-companies-ipos-capital-markets-wealth-of-nations/) · `en`
+
+Capitalism is the greatest engine of growth known to mankind. The very essence of capitalism is greed for making money via sale of products and services. We humans are wired for greed for making money and building wealth.
+
+A well-functioning capitalist economic system requires healthy competition and never crony capitalism, the likes of which we witness mostly in the developing world like Sri Lanka and many more .laying the foundation for corruptions. Indeed, this crony capitalism exists even in richer democracies where anti-trust laws are weak or non-existent and poorly drafted constitutions and laws enable it.
+
+...
+
+[Data](articles/1b88225a.json)
+
+---
+
 ### Nearly 1,000 complaints on day day
 
 *2024-08-26 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200331) · `si`
@@ -1235,6 +1265,26 @@ However, US Secretary of State Antony Bleinc is ready to go to Israel for a disc
 [Data](articles/1ba2d34e.json)
 
 [Extended Data](ext_articles/1ba2d34e.ext.json)
+
+---
+
+### පොලිස් පොතේ අපහැදිලි සටහනක් තබා උප්පුවේලි ස්ථානාධිපති සේවයට සමුදෙයි
+
+*2024-08-26 08:21:58* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-පොතේ-අපහැදිලි-සටහනක්-තබා-උප්පුවේලි-ස්ථානාධිපති-සේවයට-සමුදෙයි/11-411557) · `si`
+
+රාජකාරී කිරීමට නොහැකි බව පවසා උප්පුවේලි පොලිසියේ ස්ථානාධිපතිවරයා පොලිස් ස්ථානයෙන් පිටවී ගොස් ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+
+මෙලෙස පිටවී ගොස් ඇත්තේ  ප්‍රධාන පොලිස් පරීක්ෂක වරුණ දිලීප මහතාය.
+
+සිය රාජකාරි ජංගම දුරකථනය ඊයේ (25) සවස උපසේවා රාජකාරී නියුතු නිලධාරියා වෙත භාරදී ඔහු එලෙස පොලිස් ස්ථානයෙන් පිටවී ගොස් ඇති අතර ඒ සම්බන්ධයෙන් සටහන්ද යොදා ඇති බව දැනගන්නට ඇත.
+
+ස්ථානාධිපතිවරයා තැබූ සටහන පැහැදිලි නොවන බවත් වැඩිදුර ආරංචි මාර්ග සඳහන් කරයි.
+
+මේ පිළිබඳව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති  නීතිඥ නිහාල් තල්දුව මහතාගෙන් විමසුවද පිළිතුරක් ලබා ගැනීමට නොහැකි විය.
+
+◼️
+
+[Data](articles/ca8e4861.json)
 
 ---
 
@@ -2359,73 +2409,5 @@ Concurrently, the party headquarters were fully renovated by the President first
 [Data](articles/d5002283.json)
 
 [Extended Data](ext_articles/d5002283.ext.json)
-
----
-
-### Sajith promise farmers
-
-*2024-08-25 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200320) · `si`
-
-Sajith Premadasa promises guaranteed farm loans and affordable agrochemicals for farmers.
-
-🟩
-
-The president candidates the presidential candidate, Sajith Premadasa, the presidency, said that the farmer loans will be given full of guaranteed prices for the farmers' paddy.
-
-He was speaking at a rally in Hingurakgoda.
-
-He added that the farmer's prices will be able to buy agrochemicals at a cost of affordability.
-
-◼️
-
-[Data](articles/d5d3ce6a.json)
-
-[Extended Data](ext_articles/d5d3ce6a.ext.json)
-
----
-
-### Special news on the beginning of school
-
-*2024-08-25 20:04:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆரம்பம்-குறித்து-விசேட-செய்தி/175-342758) · `ta`
-
-School reopening delayed due to rain. Health measures mandatory.
-
-🟩
-
-The Ministry of Education has announced that the first phase of the school for the third term of state schools and state -approved private schools will begin tomorrow (26).
-
-In this case, the health department has said that the health department has said that there is a risk of spreading due to the rainy weather and that students who go to school are required to adopt the necessary health procedures for schools after the holidays.. Remble
-
-◼️
-
-[Data](articles/40599d63.json)
-
-[Extended Data](ext_articles/40599d63.ext.json)
-
----
-
-### Dilith says there are no other candidates to the other candidates
-
-*2024-08-25 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200319) · `si`
-
-Dilith criticizes presidential candidates' wealth, lack of strategy, and involvement in black economy.
-
-🟩
-
-The other candidates who have come forward to pay the debt to pay the debt is no strategic plan to generate any strategic plan.
-
-He was speaking at the rally in Anuradhapura today (25).
-
-Another phase of the rally in the reconciliation of the presidential candidate, entrepreneral Dilita Jayaweera, was held at the Anuradhapura shop operation.
-
-For this, the executive committee members of the universal power were present.
-
-"Everyone is talking about to get corruption. I saw the monthly income of the presidential candidates. I was sad, they live in two hundred-million. They live in the things you can't live. They are part of the black economy. They have not paid one piece of copper ten. "
-
-◼️
-
-[Data](articles/037364a9.json)
-
-[Extended Data](ext_articles/037364a9.ext.json)
 
 ---

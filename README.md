@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 22:56:32**
+As of **2024-08-26 23:08:38**
 
 ## Newspaper Stats
 
@@ -94,7 +94,7 @@ The ICC has decided to 30% of the Pakistan's match fee and 15% of the Bangladesh
 
 *2024-08-26 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101528/inland-revenue-customs-and-excise-tax-arrears-are-under-rs-90-billion-commissioner-general) · `en`
 
-Commissioner General of the Excise Department M.J. Gunasiri has dismissed claims of significant arrears in three major government revenue sources namely the Inland Revenue Department, Sri Lanka Customs, and the Excise Department as myths.
+The Commissioner General of the Excise Department M.J. Gunasiri has dismissed claims of significant arrears in three major government revenue sources namely the Inland Revenue Department, Sri Lanka Customs, and the Excise Department as myths.
 
 Speaking at the press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC), today (26), he clarified that the outstanding tax amount for these three institutions totals only Rs.90 billion. He also noted that it is typical for any country to have 3%-5% of its total tax revenue in outstanding taxes.
 
@@ -192,7 +192,11 @@ Issuing a special announcement in this regard, the Controller General has theref
 
 The announcement also mentioned that new electronic passports (E-Passports) are set to be introduced soon, with the tender already awarded to a foreign firm.
 
-◼️
+The Controller General stated that in order to bridge the gap until the E-Passports are launched, the department has arranged for an additional 50,000 standard passports, which are expected to arrive by the end of October.
+
+The statement further noted that statistics from the department indicate that only about 23% of passports issued last year were used for international travel. Considering this, the public is kindly urged to postpone non-essential passport applications until the new stock arrives.
+
+...
 
 [Data](articles/a84c323a.json)
 

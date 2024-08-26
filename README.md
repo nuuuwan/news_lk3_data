@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 09:36:53**
+As of **2024-08-26 09:56:27**
 
 ## Newspaper Stats
 
-*Scraped **42,601** Articles*
+*Scraped **42,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,41 +12,141 @@ dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 393
 colombotelegraphcom | 407
-islandlk | 2,481
+islandlk | 2,483
 economynextcom | 2,572
 dailyftlk | 2,769
 adalk | 3,926
 dailymirrorlk | 4,733
-adaderanalk | 4,999
+adaderanalk | 5,002
 tamilmirrorlk | 5,546
 virakesarilk | 6,763
-adaderanasinhalalk | 7,291
+adaderanasinhalalk | 7,293
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,600 (100.0%) of 42,601 articles have been extended.
+42,601 (100.0%) of 42,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### ’சிலிண்டர் அற்ற யுகம் மீண்டும் வரும்’ ; ஜனாதிபதி
+### Israel and Hezbollah in major missile exchange as escalation fears grow
+
+*2024-08-26 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101501/israel-and-hezbollah-in-major-missile-exchange-as-escalation-fears-grow) · `en`
+
+Hezbollah launched hundreds of rockets and drones at Israel early on Sunday, as Israel’s military said it struck Lebanon with around 100 jets to thwart a larger attack, in one of the biggest clashes in more than 10 months of border warfare.
+
+Missiles were visible curling up through the dawn sky, dark vapour trails behind them, as an air raid siren sounded in Israel and a distant blast lit the horizon, while smoke rose over houses in Khiam in southern Lebanon.
+
+On Sunday evening, sirens sounded in Rishon Letsiyon, central Israel, the Israeli Defense Forces (IDF) said, and added that one projectile had been identified crossing from the southern Gaza Strip and falling in an open area. The armed wing of Hamas said it had fired an “M90” rocket at Tel Aviv.
+
+Any major spillover in the fighting, which began in parallel with the war in Gaza, risks morphing into a regional conflagration drawing in Hezbollah’s backer Iran and Israel’s main ally the United States.
+
+...
+
+[Data](articles/1bb9f9bf.json)
+
+---
+
+### සුගතපාල සෙනරත් යාපා අභාවප්‍රාප්ත වෙයි
+
+*2024-08-26 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200333) · `si`
+
+වර්ෂ 1935 නොවැම්බර් මස 10 වන දින අකුරැස්ස ප්‍රදේශයේ උපත ලද ඒ මහතා මියයන විට 89 වැනි වියෙහි පසුවිය.
+
+හන්තානේ කතාව, පෙම්බර මධු, ඉන්දුට මල්මිටක් ඇතුළු සම්මානනීය ජනප්‍රිය චිත්‍රපටි රැසක නිර්මාණ අධ්‍යක්ෂකවරයා ලෙස ඔහු කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/db753a27.json)
+
+---
+
+### The telephone cylinder is not re -era;President
 
 *2024-08-26 09:13:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்-அற்ற-யுகம்-மீண்டும்-வரும்-ஜனாதிபதி/175-342778) · `ta`
 
-வரிகளை குறைப்பதாகவும் பொருட்களின் விலைகளை குறைப்பதாகவும் தமது கொள்கைப் பிரகடனங்களில் சஜித் பிரேமதாசவும், அனுரகுமார திஸாநாயக்கவும் மக்களை ஏமாற்றி நாட்டை நாசமாக்க முயற்சிப்பதாக ஜனாதிபதி சுட்டிக்காட்டினார்.
+Sri Lanka President Ranil Wickremesinghe addresses UNP meeting, discusses economic recovery, IMF assistance, currency strengthening, and tax policies.
 
-பொருட்களின் விலைகளையும் வரிகளையும் குறைக்க தானும் விரும்புவதாகவும், எனினும், ரூபாயை பலப்படுத்தி, சர்வதேச நாணய நிதியத்துடனான ஒப்பந்தத்தின் பிரகாரம் செயற்படுவதன் மூலம் மாத்திரமே தன்னால் அதனைச் செய்ய முடியும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+🟩
 
-அதனைத் தவிர வேறு மாற்றுவழி இருந்தால் உடனடியாக ஐ.எம்.எப் உடன் நடத்தும் பேச்சுவார்த்தையில் அதனை சமர்ப்பித்து கருத்தரிந்து கொள்ளுமாறு சஜித் பிரேமதாஸவிடமும் அநுர திசானாயக்கவிடமும் ஜனாதிபதி கோரிக்கை விடுத்தார்.
+The President pointed out that Sajith Premadasa and Anurakumara Dissanayake are trying to destroy the country in his policy declarations that the tax is reduced and the prices of goods are reduced.
 
-பிட்டகோட்டையில் அமைந்துள்ள கட்சியின் தலைமையகமான சிறிகொத்தவில் இன்று பிற்பகல் (25) நடைபெற்ற ஐக்கிய தேசியக் கட்சியின் விசேட சம்மேளனக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+The President pointed out that he wanted to reduce the prices and taxes of goods, however, that he could only do it by strengthening the rupee and acting in accordance with the International Monetary Fund.
+
+In addition, the President requested Sajith Premadasa and Anura Dissanayaka to submit it in negotiations with the IMF immediately.
+
+President Ranil Wickremesinghe made this statement while addressing a meeting of the United National Party (UNP) Special Federation at the party headquarters in Pittagottai.
+
+As a Sri Lankan, I assumed the presidency to defend the country. Is it wrong?I found you standing in rows. At that time I saw people in the queue. I have settled the problems. Without doing that, the JVP and the United People's Power are looking for the curse.
 
 ...
 
 [Data](articles/0f160b35.json)
+
+[Extended Data](ext_articles/0f160b35.ext.json)
+
+---
+
+### 2024 Presidential Election: Postal Dept. to receive postal vote ballot papers today
+
+*2024-08-26 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101500/2024-presidential-election-postal-dept-to-receive-postal-vote-ballot-papers-today) · `en`
+
+The Postal Department will today (26) receive the reserved packet containing the registered postal vote ballot papers to be distributed to the postal voters of the 2024 presidential election.
+
+Meanwhile, distribution of official polling cards for the forthcoming Presidential Election will commence on September 03, while September 08 (Sunday) has been designated as a special day for polling card distribution.
+
+In the meantime, Deputy Postmaster General Rajitha Ranasinghe had announced yesterday (25) that the leave of all employees of the Department of Posts have been cancelled with immediate effect until the conclusion of the 2024 Presidential Election.
+
+The decision was made to ensure that all election-related responsibilities are adequately managed, he said.
+
+However, any postal worker requiring leave for essential reasons would have to obtain permission from the Deputy Postmaster General in charge of their province, he added.
+
+...
+
+[Data](articles/759c19f4.json)
+
+---
+
+### මාරක අනතුරු දෙකක්
+
+*2024-08-26 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200332) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක ඊයේ (25) සිදුවූ රිය අනතුරු හේතුවෙන් පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+
+කලවංචිකුඩි පොලිස් වසමේ කලවංචිකුඩි පලුගාමම් මාර්ගයේ පලුගාමම් කෝවිල අසල පාලම මතදී යතුරුපැදියක් පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් කලපුවට පෙරළී තිබේ.
+
+එම අවස්ථාවේදී යතුරුපැදියේ පැදිකරු සමග පසු-පැදිකරුවන් දෙදෙනෙකු ගමන් කර ඇති අතර ඉන් එක් පසු-පැදිකරුවෙකු දියේ ගිලී ජීවිතක්ෂයට පත්ව ඇත.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ අවුරුදු 38ක් වූ පෙරියපෝරතිව් ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මේ අතර පුලස්තිපුර පොලිස් වසමේ කුඹුක්කන් ආරුව මාර්ගයේ කරත්තකඩ හන්දිය දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් ඇළකට පෙරළී තිබේ.
+
+අනතුරින් බරපතළ තුවාල ලැබූ පැදිකරු පොළොන්නරුව රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+
+◼️
+
+[Data](articles/e514d9cc.json)
+
+---
+
+### President challenges Sajith and Anura to an open discussion
+
+*2024-08-26 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101499/president-challenges-sajith-and-anura-to-an-open-discussion) · `en`
+
+President Ranil Wickremesinghe has challenged Sajith Premadasa and Anura Kumara Dissanayake to participate in an open virtual discussion with the International Monetary Fund (IMF).
+
+This will allow the entire nation to assess the truthfulness of their public promises and statements, he said.
+
+The President also highlighted that altering the agreement with the IMF is not feasible. He emphasized that such changes could lead to another economic collapse, with Premadasa and Dissanayake’s “misleading promises” of reduced prices and taxes potentially worsening the country’s situation. He stressed the need to prevent such deceptions.
+
+President Ranil Wickremesinghe noted that while he wishes to reduce the prices of goods and lower taxes, such actions can only be achieved by strengthening the rupee and adhering to the agreements with the IMF.
+
+...
+
+[Data](articles/07cd44f0.json)
 
 ---
 
@@ -2101,119 +2201,5 @@ MP. Senasinghe added that Premadasa's election manifesto has been created within
 [Data](articles/5f53340f.json)
 
 [Extended Data](ext_articles/5f53340f.ext.json)
-
----
-
-### The manifesto will be released this week
-
-*2024-08-25 15:13:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஞ்ஞாபனங்கள்-இந்த-வாரம்-வெளியிடப்படும்/175-342752) · `ta`
-
-Presidential candidates release manifestos this week: NPP's Anura Kumara Dissanayake on Monday, Sajith Premadasa on Wednesday.
-
-🟩
-
-Two presidential candidates are due to release their election manifesto this week.
-
-The President of the National People's Power (NPP) and the presidential candidate, Anura Kumara Dissanayake, will release his election manifesto in Colombo on Monday (26).
-
-A spokesman for the National People's Power said that the election manifesto would be released at 10 am at the Monark Imperial Hotel, Thalawatgoda.
-
-Meanwhile, opposition leader and presidential candidate Sajith Premadasa will release his election manifesto on Wednesday (August 28).
-
-Sujeewa Senasinghe, president of the United People's Power, said that the election manifesto would be released in Colombo, but the time and place would be announced soon.
-
-MP. Senasinghe added that Premadasa's election manifesto has been created within the social market economic system, focusing on various sectors including education, agriculture, digitalization, health, entrepreneurship and cooperative organizations.
-
-...
-
-[Data](articles/adc49d5c.json)
-
-[Extended Data](ext_articles/adc49d5c.ext.json)
-
----
-
-### Ranil attends UNP convention
-
-*2024-08-25 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200308) · `si`
-
-Ranil attends UNP convention at Sirikotha today. United National Party special conference at party headquarters.
-
-🟩
-
-United National Park Special Conference will be held at Sirikotha today (25) at the party headquarters.
-
-◼️
-
-[Data](articles/aeca946a.json)
-
-[Extended Data](ext_articles/aeca946a.ext.json)
-
----
-
-### 22 deaths
-
-*2024-08-25 15:02:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-கவிழ்ந்ததில்-22-பேர்-உயிரிழப்பு/50-342751) · `ta`
-
-Bus crash kills 22, injures 15 in Pakistan
-
-🟩
-
-22 people were killed when a bus crashed into a bus from Kahuda in Pakistan to Rawalpindi;15 people were seriously injured.
-
-In Pakistan, 35 people in Punjab were traveling from Kaha_Da to Rawalpindi by bus. The driver of the bus lost control of the driver and crashed into the ditch.
-
-Of these, 20 died on the spot. 15 people were seriously injured. Two of them died in hospital without treatment.
-
-◼️
-
-[Data](articles/8a283636.json)
-
-[Extended Data](ext_articles/8a283636.ext.json)
-
----
-
-### All tax information revealed tomorrow
-
-*2024-08-25 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200306) · `si`
-
-Tax information reveal tomorrow: 900 bank accounts frozen, deficit increase, arrears charges announced.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that all information on tax will be revealed tomorrow (26).
-
-The Minister says that the deficit has been increased to increase the government revenue with taxes.
-
-Around 900 bank accounts have been stopped to recover the deficit and steps will be taken to charge the arrears.
-
-Accordingly, all information about tax on Monday (26) will be revealed to the media.
-
-◼️
-
-[Data](articles/0e3cf106.json)
-
-[Extended Data](ext_articles/0e3cf106.ext.json)
-
----
-
-### 2024 Presidential Election: Notice issued on ballot papers for postal voting
-
-*2024-08-25 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101487/2024-presidential-election-notice-issued-on-ballot-papers-for-postal-voting-) · `en`
-
-The Postal Department will tomorrow (26) receive the reserved packet containing the registered postal vote ballot papers to be sent to the postal voters of the 2024 presidential election.
-
-Meanwhile, distribution of official polling cards for the forthcoming Presidential Election will commence on September 03, while September 08 (Sunday) has been designated as a special day for polling card distribution.
-
-In the meantime, Deputy Postmaster General Rajitha Ranasinghe announced this morning (25) that the leave of all employees of the Department of Posts have been cancelled with immediate effect until the conclusion of the 2024 Presidential Election.
-
-The decision was made to ensure that all election-related responsibilities are adequately managed, he said.
-
-However, any postal worker requiring leave for essential reasons would have to obtain permission from the Deputy Postmaster General in charge of their province, he added.
-
-...
-
-[Data](articles/2ddc336e.json)
-
-[Extended Data](ext_articles/2ddc336e.ext.json)
 
 ---

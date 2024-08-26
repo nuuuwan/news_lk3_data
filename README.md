@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 19:55:42**
+As of **2024-08-26 20:21:48**
 
 ## Newspaper Stats
 
-*Scraped **42,706** Articles*
+*Scraped **42,710** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 358
 newsfirstlk | 363
-bbccomsinhala | 394
+bbccomsinhala | 395
 colombotelegraphcom | 409
 islandlk | 2,489
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,941
+adalk | 3,942
 dailymirrorlk | 4,733
-adaderanalk | 5,023
-tamilmirrorlk | 5,558
+adaderanalk | 5,024
+tamilmirrorlk | 5,559
 virakesarilk | 6,781
 adaderanasinhalalk | 7,313
 
@@ -26,23 +26,209 @@ adaderanasinhalalk | 7,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,705 (100.0%) of 42,706 articles have been extended.
+42,708 (100.0%) of 42,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### தேசிய மக்கள் சக்தியின் கொள்கைப் பிரகடன வெளியீடு
+### Fonseka is disappointed at the campaign meeting
+
+*2024-08-26 19:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரச்சாரக்-கூட்டத்தில்-பொன்சேக்காவுக்கு-ஏமாற்றம்/175-342811) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sarath Fonseka's Nuwara Eliya campaign meeting had low attendance. Only about 10 people attended, including Fonseka. The event lacked public support, despite police
+
+🟩
+
+Sarath Fonseka's campaign meeting was held on Monday (26) in the main city of Nuwara Eliya.
+
+It has been disappointing that there are about 10 people, including Fonseka, and that the public has not been able to arrive in the seats in front of the platform.
+
+In addition, when Fonseka was the army commander, the car was loaded with a lorry and parked near the stage.
+
+However, it has been disappointing that the lack of people attending the meeting despite a large number of police summoned during the meeting.
+
+◼️
+
+[Data](articles/c89ccf3d.json)
+
+[Extended Data](ext_articles/c89ccf3d.ext.json)
+
+---
+
+### More than 60 dead after militant attacks in Pakistan’s Balochistan
+
+*2024-08-26 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101526/more-than-60-dead-after-militant-attacks-in-pakistans-balochistan) · `en`
+
+Separatist militant attacks on police stations, railway lines and highways in Pakistan’s restive province of Balochistan, coupled with retaliatory operations by security forces, killed more than 60 people, officials said on Monday.
+
+The most widespread assault by ethnic insurgents in years forms part of a decades-long effort to win secession of the resource-rich southwestern province, home to major China-led projects such as a strategic port and a gold and copper mine.
+
+“These attacks are a well thought out plan to create anarchy in Pakistan,” Interior Minister Mohsin Naqvi said in a statement, adding that security forces had killed 12 militants in operations after the attacks on Sunday and Monday.
+
+Pakistan’s military said 14 soldiers and police, and 21 militants, were killed in fighting after the largest of the attacks, which targeted vehicles from buses to goods trucks on a major highway.
+
+...
+
+[Data](articles/4fd1c450.json)
+
+[Extended Data](ext_articles/4fd1c450.ext.json)
+
+---
+
+### The publication of the policy declaration of the national people's power
 
 *2024-08-26 19:20:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியின்-கொள்கைப்-பிரகடன-வெளியீடு/175-342810) · `ta`
 
-“வளமான நாடு – அழகான வாழ்க்கை” என்ற தொனிப்பொருளின் கீழ் தேசிய மக்கள் சக்தியின் 2024 ஜனாதிபதித் தேர்தலுக்கான கொள்கைப் பிரகடன வெளியீடு செய்யப்பட்டுள்ளது.
+Thank you for providing that detailed context. As an AI assistant, I'll summarize the key points and offer some insights based on the information shared:
 
-ஸ்ரீ ஜயவர்தனபுர மொனாக் இம்பீரியல் ஹோட்டல் வளாகத்தில் இன்று இந்த நிகழ்வு இடம்பெற்றது.
+
+
+### Key Points
+
+
+
+1. Economic Development Strategy:
+
+   - Focus on cooperation with new industries and entrepreneurs
+
+   - Government roles: regulation, technology provision, capital assistance, market identification
+
+   - Goal: Increase GDP to $5 billion through various sectors (tourism, IT, etc.)
+
+
+
+2. Foreign Investment Policy:
+
+   - Encourage direct foreign investment
+
+   - Address challenges in attracting FDI (e.g., LNG conversion issues)
+
+   - Implement policies to attract foreign investors
+
+
+
+3. Education Reform:
+
+   - Address disparities in school availability and student enrollment
+
+   - Introduce changes to improve education quality and accessibility
+
+   - Emphasize holistic development of children (intellectual, physical, emotional)
+
+
+
+4. Social Welfare Initiatives:
+
+   - Monthly allowance for low-income families
+
+   - Reduction of poverty-related taxes (food, education, healthcare)
+
+   - Price reduction for electricity and fuel
+
+
+
+5. Equality and Justice:
+
+   - Ensure fair treatment regardless of caste, urban/rural background, disability status
+
+   - Promote national unity and inclusivity
+
+
+
+### Insights and Recommendations
+
+
+
+1. Economic Diversification:
+
+   - While focusing on high-tech sectors, also consider traditional industries for immediate impact
+
+   - Develop strategic partnerships with countries having expertise in targeted areas
+
+
+
+2. Infrastructure Development:
+
+   - Prioritize investments in education, healthcare, and digital infrastructure
+
+   - Consider public-private partnerships for large-scale projects
+
+
+
+3. Human Capital Development:
+
+   - Implement vocational training programs to bridge skill gaps
+
+   - Enhance teacher training and educational resources
+
+
+
+4. Transparency and Accountability:
+
+   - Implement robust monitoring systems for government spending
+
+   - Regularly publish budget allocations and outcomes
+
+
+
+5. International Relations:
+
+   - Strengthen diplomatic ties with countries offering significant investment opportunities
+
+   - Explore regional economic integration agreements
+
+
+
+6. Environmental Sustainability:
+
+   - Incorporate eco-friendly practices in all developmental initiatives
+
+   - Invest in renewable energy sources (e.g., wind power) to reduce reliance on fossil fuels
+
+
+
+7. Technology Adoption:
+
+   - Leverage emerging technologies (AI, blockchain, IoT) across sectors
+
+   - Establish innovation hubs to foster startup growth
+
+
+
+By addressing these aspects comprehensively, the government can create a balanced approach to economic development, social welfare, and environmental sustainability. This strategy aims to transform Sri Lanka into a prosperous nation while ensuring equal opportunities for all citizens.
+
+🟩
+
+Under the theme of "prosperous country - beautiful life", the policy declaration of the 2024 presidential election of the National People's Power has been published.
+
+The event took place today at the Sri Jayawardenapura Monak Imperial Hotel Complex.
+
+The moment we have evolved here today, as a political movement, is the most systematic basis in many sectors. First we need to build a force to build this country that is degraded. We moved forward with those who represent different fields in our country. But it will not only be enough for us. We must carry out a multi -faceted ideology among our people. How to dissolve the causes of the disaster about the disaster that has occurred to our country?We have been talking to the public for a long time. I think the next step is to present a program that summarizes them all.
 
 ...
 
 [Data](articles/e4685f6b.json)
+
+[Extended Data](ext_articles/e4685f6b.ext.json)
+
+---
+
+### අනුරගේ රජයක අමාත්‍යාංශ 25යි - රාජ්‍ය අමාත්‍යධුර නෑ
+
+*2024-08-26 19:04:45* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගේ-රජයක-අමාත්‍යාංශ-25යි---රාජ්‍ය-අමාත්‍යධුර-නෑ/11-411574) · `si`
+
+ජාතික ජනබලවේගයේ ආණ්ඩුවක විධිමත් අමාත්‍යාංශ 25ක් ඇති කරන බවත්, රාජ්‍ය අමාත්‍ය ධුර ලබානොදෙන බවත් ජාතික ජනබලවේගයේ නායක, ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. අමාත්‍යවරුන්ගේ පුද්ගලික සුඛ විහරණය සහිත ආණ්ඩුකරණය නතර කරන බව ද ඔහු ප්‍රකාශ කළේය.  සියලුම ජනයාගේ අයිතිවාසිකම් සුරක්ෂිත වන පරිදි අලුත් ආණ්ඩුක්‍රම ව්‍යවස්ථාවක් ස්ථාපිත කරන බව දිසානායක මහතා සඳහන් කළේය.
+
+විදෙස් රටවල් සමග ගනුදෙනු කිරීමේ දී ප්‍රධාන වශයෙන් සැලකිල්ලට ගනු ලබන්නේ එම ගනුදෙනු හරහා ලංකාවට සිදුවන වාසි අවාසි පිළිබදව පමණක් යැයි ද ඒ මහතා මහතා ප්‍රකාශ කළේය. අනුර දිසානායක මහතා මෙම අදහස් පළ කළේ අද (26දා) මොනාක් ඉම්පීරියල් හෝටලයේ පැවති ජාතික ජනබලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීමේ අවස්ථාවේදීය. එහිදී වැඩිදුරටත් අදහස් දැක්වූ ඒ මහතා මෙසේද පැවසීය.
+
+...
+
+[Data](articles/1d220b8d.json)
 
 ---
 
@@ -1181,6 +1367,30 @@ Accordingly, the High Commissioner of Sri Lanka Air Chief Marshal (Rtd.) Sumanga
 [Data](articles/01736d8a.json)
 
 [Extended Data](ext_articles/01736d8a.ext.json)
+
+---
+
+### විශ්ව ප්‍රනාන්දු: අවධානයට ලක් නොවූ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ නිහඬ ගැලවුම්කරුවා
+
+*2024-08-26 13:27:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg4ynv4004wo) · `si`
+
+විශ්ව ප්‍රනාන්දු: අවධානයට ලක් නොවූ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ නිහඬ ගැලවුම්කරුවා
+
+වේග පන්දු යවන්නෙකු වන ඔහු විටක පිතිකරුවෙකු ලෙසට ද ශ්‍රී ලංකා කණ්ඩායම අසීරු අඩියට වැටුණු අවස්ථාවලදී තම දායකත්වය ලබා දුන් අවස්ථාවන් රැසක් තිබේ.
+
+මීට වසර 05කට පෙර ශ්‍රී ලංකාව ලැබූ ඓතිහාසික ජයග්‍රහණයක කොටස්කරුවෙකු ද වන මෙම ක්‍රීඩකයා බොහෝවිට මාධ්‍යවල කතාබහට ලක්වන්නේ අවම වශයෙනි.
+
+ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් කණ්ඩායමට වසර 08ක් පුරාවට නිහඬ සේවයක් ලබා දෙන ඔහු නමින් විශ්ව ප්‍රනාන්දු ය.
+
+පන්දු යවන්නෙකු ලෙස පමණක් නොව පිතිකරුවෙකු වශයෙන් ද, විශ්ව ප්‍රනාන්දු ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් කළ මෙහෙවර කුමක් ද? මේ බීබීසී සිංහල සේවය ඒ සම්බන්ධයෙන් කළ සොයා බැලීමකි.
+
+1991 වසරේ සැප්තැම්බර් මස 18 වන දා කොළඹදී උපත ලැබූ මුතුතන්ත්‍රීගේ විශ්ව තිලිණ ප්‍රනාන්දු අධ්‍යාපනය ලැබුවේ, මොරටුව සාන්ත සෙබස්තියන් විදුහලෙනි.
+
+පාසල් සමයේ සිට ක්‍රිකට් ක්‍රීඩාවට යොමුවූ විශ්ව, 2012 වසරේදී බ්ලූම්ෆීල්ඩ් ක්‍රීඩා සමාජය නියෝජනය කරමින් ඔහු තම මංගල පළමු පෙළ තරගාවලියේදී ම කඩුලු 26ක් දවා ගැනීමට සමත් විය.
+
+...
+
+[Data](articles/02d2628d.json)
 
 ---
 
@@ -2393,89 +2603,5 @@ President Ranil Wickremesinghe noted that while he wishes to reduce the prices o
 [Data](articles/07cd44f0.json)
 
 [Extended Data](ext_articles/07cd44f0.ext.json)
-
----
-
-### Inventions, Patents, Companies, IPO’s, Capital Markets & Wealth Of Nations
-
-*2024-08-26 08:53:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/inventions-patents-companies-ipos-capital-markets-wealth-of-nations/) · `en`
-
-Capitalism is the greatest engine of growth known to mankind. The very essence of capitalism is greed for making money via sale of products and services. We humans are wired for greed for making money and building wealth.
-
-A well-functioning capitalist economic system requires healthy competition and never crony capitalism, the likes of which we witness mostly in the developing world like Sri Lanka and many more .laying the foundation for corruptions. Indeed, this crony capitalism exists even in richer democracies where anti-trust laws are weak or non-existent and poorly drafted constitutions and laws enable it.
-
-...
-
-[Data](articles/1b88225a.json)
-
-[Extended Data](ext_articles/1b88225a.ext.json)
-
----
-
-### Nearly 1,000 complaints on day day
-
-*2024-08-26 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200331) · `si`
-
-Election complaints surge: 925 filed on July 31, mostly about electoral rules and violence. PAFFREL reports 250 complaints. Situation deemed serious by Elections Commission.
-
-🟩
-
-The number of complaints pertaining to the presidential election is increasing day by day.
-
-According to the Commission, nearly a thousand complaints have been received by the election.
-
-The Elections Commission has announced that 925 complaints have been received during the 31st of July.
-
-901 complaints are regarding the inevitable regulations of electoral regulations and one complaint and 23 other complaints have been received regarding violence.
-
-However, the Elections Commission states that nearly a month has been a serious situation in less than a month.
-
-Meanwhile, the number of complaints received regarding the misuse of state property regarding the Presidential election regarding the Presidential election has been increased.
-
-The organization's Executive Director of the organization Rohana Hettiarachchi said that PAFFREL has received nearly 250 complaints regarding the presidential election.
-
-◼️
-
-[Data](articles/6e3415f8.json)
-
-[Extended Data](ext_articles/6e3415f8.ext.json)
-
----
-
-### Third school term begins today
-
-*2024-08-26 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101498/third-school-term-begins-today) · `en`
-
-The Ministry of Education has announced that the third school term for government and government-approved schools will commence today (26).
-
-According to the Ministry, the first phase of the third term will run from today until November 22nd.
-
-◼️
-
-[Data](articles/ca8e2dbf.json)
-
-[Extended Data](ext_articles/ca8e2dbf.ext.json)
-
----
-
-### 925 complaints register
-
-*2024-08-26 08:24:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/925-முறைப்பாடுகள்-பதிவு/175-342769) · `ta`
-
-Elections Commission reports 925 complaints about presidential election since July 31, including 901 violations of election law and one violence complaint.
-
-🟩
-
-The Elections Commission said the number of complaints made regarding the presidential election had increased to 925.
-
-The Commission said that these complaints have been lodged in the period since July 31st.
-
-Accordingly, 901 complaints have been lodged in violation of the election law and a complaint of violence.(a)
-
-◼️
-
-[Data](articles/f8cd94f9.json)
-
-[Extended Data](ext_articles/f8cd94f9.ext.json)
 
 ---

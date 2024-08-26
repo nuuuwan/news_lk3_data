@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 19:21:36**
+As of **2024-08-26 19:37:00**
 
 ## Newspaper Stats
 
-*Scraped **42,705** Articles*
+*Scraped **42,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,769
 adalk | 3,941
 dailymirrorlk | 4,733
 adaderanalk | 5,023
-tamilmirrorlk | 5,557
+tamilmirrorlk | 5,558
 virakesarilk | 6,781
 adaderanasinhalalk | 7,313
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,705 (100.0%) of 42,705 articles have been extended.
+42,705 (100.0%) of 42,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### தேசிய மக்கள் சக்தியின் கொள்கைப் பிரகடன வெளியீடு
+
+*2024-08-26 19:20:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியின்-கொள்கைப்-பிரகடன-வெளியீடு/175-342810) · `ta`
+
+“வளமான நாடு – அழகான வாழ்க்கை” என்ற தொனிப்பொருளின் கீழ் தேசிய மக்கள் சக்தியின் 2024 ஜனாதிபதித் தேர்தலுக்கான கொள்கைப் பிரகடன வெளியீடு செய்யப்பட்டுள்ளது.
+
+ஸ்ரீ ஜயவர்தனபுர மொனாக் இம்பீரியல் ஹோட்டல் வளாகத்தில் இன்று இந்த நிகழ்வு இடம்பெற்றது.
+
+...
+
+[Data](articles/e4685f6b.json)
+
+---
 
 ### What the national folk force is going to do the repression and drug prevention
 
@@ -2463,25 +2477,5 @@ Accordingly, 901 complaints have been lodged in violation of the election law an
 [Data](articles/f8cd94f9.json)
 
 [Extended Data](ext_articles/f8cd94f9.ext.json)
-
----
-
-### Several spells of light showers expected in parts of the island
-
-*2024-08-26 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101497/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of light showers will occur in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at a few places in Badulla, Ampara and Batticaloa districts during the evening or night, it said.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and North-western provinces and in Hambantota and Trincomalee districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/5ad94524.json)
-
-[Extended Data](ext_articles/5ad94524.ext.json)
 
 ---

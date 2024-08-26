@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 19:08:40**
+As of **2024-08-26 19:21:36**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 7,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,704 (100.0%) of 42,705 articles have been extended.
+42,705 (100.0%) of 42,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### පාතාලය මර්දනයට සහ මත්ද්‍රව්‍ය නිවාරණයට ජාතික ජන බලවේගය කරන්න යන දේ
+### What the national folk force is going to do the repression and drug prevention
 
 *2024-08-26 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200354) · `si`
 
-වර්තමානය වනවිට මත්ද්‍රව්‍ය භාවිතය ශීඝ්‍ර ලෙස ඉහළ යෑම හේතුවෙන් එය සමාජ ව්‍යසනයක් බවට පත්වී ඇති බව ජාතික ජන බලවේගයේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශයේ සඳහන් වෙයි.
+National Folk Force prioritizes drug prevention, equipping officers with modern tools to combat rising drug use and transform Sri Lanka from a regional hub.
 
-2022 වසරේදී මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් පුද්ගලයින් 152,979ක් අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-බන්ධනාගාර ගතකර ඇති පුද්ගලයින්ගෙන් 60% පමණ මත්ද්‍රව්‍ය වැරදිවලට සම්බන්ධ වූවන් ය.
+The Presidential Post Policy Statement of the National Election stated that due to rapid increase in drug use, it has become a social catastrophe.
 
-මේ වනවිට ශ්‍රී ලංකාව කලාපයේ මත්ද්‍රව්‍ය හුවමාරු මධ්‍යස්ථානයක් බවට පත්ව ඇති බවද ඔවුන් පෙන්වා දෙයි.
+In 2022, 152,979 persons were arrested in connection with drugs.
 
-එබැවින් මත්ද්‍රව්‍ය නිවාරණය සඳහා ජාතික ජන බලවේගය ප්‍රමුඛත්වය ලබාදෙන බව සඳහන් ය.
+About 60% of the imprisoned persons are involved in drugs.
 
-මත්ද්‍රව්‍ය රට තුළට පැමිණීම වැලැක්වීම සඳහා නාවික, ගුවන් මාර්ග පරීක්ෂා කිරීමේ පහසුකම් වර්ධනය කිරීම, නවීන උපකරණ ලබාදීම හා නිලධාරීන් පුහුණු කිරීම
+They also point out that Sri Lanka has become a drug exchange center in the region.
+
+Therefore, the national folk force will be given priority to drug prevention.
+
+Improvement of modern equipments and training of officers to prevent drugs in the country
 
 ◼️
 
 [Data](articles/2cf93974.json)
+
+[Extended Data](ext_articles/2cf93974.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 16:36:52**
+As of **2024-08-26 16:54:34**
 
 ## Newspaper Stats
 
-*Scraped **42,681** Articles*
+*Scraped **42,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,132 @@ economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,936
 dailymirrorlk | 4,733
-adaderanalk | 5,017
+adaderanalk | 5,019
 tamilmirrorlk | 5,553
 virakesarilk | 6,776
-adaderanasinhalalk | 7,310
+adaderanasinhalalk | 7,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,676 (100.0%) of 42,681 articles have been extended.
+42,681 (100.0%) of 42,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### நானுஓயா டெஸ்போட்டில் அதிபரை உடனடியாக இடமாற்ற கோரி போராட்டம்
+### කොරියාවේ ධීවර රැකියා සඳහා ශ්‍රී ලංකික කාන්තාවන්ට අවස්ථාව
+
+*2024-08-26 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200352) · `si`
+
+දකුණු කොරියාවේ ධිවර අංශයේ රැකියා සඳහා ලංකාවේ කාන්තාවන්ටත් මේවන විට අවස්ථාව හිමිව තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කළේ, ඊයේ (25) දිනයේ දී ධීවර අංශයේ රැකියා අවස්ථාව හිමිවූ 120 දෙනෙකුගෙන් සමන්විත කණ්ඩායමක් කොරියාව බලා පිටත්ව ගිය බවය.
+
+එම පිරිසට කාන්තාවන් තිදෙනෙකු ද ඇතුළත්ව ඇති අතර, දකුණු කොරියානු රජය හා ශ්‍රී ලංකා රජය අතර ඇති කරගත් අවබෝධතා ගිවිසුමට අනුව මෙම රැකියා අවස්ථාව ශ්‍රී ලංකාවට ලැබී ඇත.
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය මෙම වැඩසටහන ක්‍රියාත්මක කරයි.
+
+◼️
+
+[Data](articles/567847b0.json)
+
+---
+
+### Struggle to demand the immediate relocation of the Chancellor in Nanuoya Despe
 
 *2024-08-26 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/192040) · `ta`
 
-நுவரெலியா கல்வி வலயத்தின் கீழ் இயங்கும் மமா/நு/ டெஸ்போட் தமிழ் மகா வித்தியாலயத்தின் தற்போதைய அதிபரை, உடனடியாக இடமாற்றம் செய்ய வலியுறுத்தி இன்று திங்கட்கிழமை (26) மாணவர்களது பெற்றோர்கள், அபிவிருத்தி சங்க உறுப்பினர்கள் பழைய மாணவர்கள் மற்றும் பிரதேசவாசிகள் ஒன்றிணைந்து அடங்கிய குழுவினர் பாடசாலையின் நுழைவாயிலுக்கு முன் நின்று நமது எதிர்ப்பை வெளிகாட்டினர்.
+Here's a summary of the text in 200 characters:
 
-குறித்த பாடசாலையின் அதிபர் பாடசாலையில் ஆரம்ப பிரிவிற்கு உணவு சமைத்து வரும் பெண்ணிடம் தகாத முறையில் நடந்து கொண்டதாகவும் அவரையே தற்போது திருமணம் முடித்துக் கொண்டதாகவும், பாடசாலையில் கடமையாற்றும் போது மது அருந்துவதாகவும் பாடசாலையில் பல நிதி மோசடிகள் செய்ததாக நிரூபிக்கப்பட்ட குற்றம் சாட்டப்பட்டுள்ளது என பாடசாலைக்கு முன் ஒன்றுகூடினர்.
 
-470 இற்கும் மேற்பட்ட மாணவர்கள் கல்வி கற்கும் இப்பாடசாலையில் மாணவர்களின் பாதுகாப்பு கருதியும் பெண் ஆசிரியைகளுக்கு பாதுகாப்பு வேண்டும் என தெரிவித்து இப் பாடசாலைக்கு பொருத்தமான வேறொரு அதிபரை நியமிக்க வேண்டும் எனவும் தெரிவித்தனர்.
+
+Parents protest school relocation due to alleged financial misconduct and inappropriate behavior. Demand appointment of female teachers for student safety. Over 470 students affected.
+
+🟩
+
+Parents, members of the Development Society and the residents of the area stood in front of the entrance of the school on Monday (26) today (26) demanding the immediate relocation of the Mama/ Nu/ Desesbot Tamil Maha Vidyalaya, which is under the Nuwara Eliya Education Zone.
+
+The principal of the school has been accused of proven to have been accused of making many financial frauds in the school that he was acting inappropriately with a woman who was cooking food for the primary section of the school.
+
+More than 470 students are educated in the school, demanding the safety of the students and the protection of female teachers should be appointed to the school.
+
+The Chancellor said that the school's educational status is low as the Chancellor is currently not performing his administrative duties at the Mama/ Nu/ Desesbot Tamil Maha Vidyalaya, and that there is a continued disagreement between the principal and the teachers of the school.
 
 ...
 
 [Data](articles/3b5c0c05.json)
 
+[Extended Data](ext_articles/3b5c0c05.ext.json)
+
 ---
 
-### 30 ஆம் திகதி யாழில் போராட்டம்
+### Foreign Minister welcomes EU election observation delegation in Colombo
+
+*2024-08-26 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101521/foreign-minister-welcomes-eu-election-observation-delegation-in-colombo) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs Ali Sabry has met with Nacho Sánchez Amor, Member of the European Parliament and the Chief Observer of the EU Election Observation Mission to Sri Lanka 2024, at the Foreign Ministry premises this afternoon (26).
+
+During the event, the Foreign Minister has assured the support of the Government of Sri Lanka to ensure an independent and transparent European Union Election Observation Mission Sri Lanka, throughout the election period.
+
+Following an invitation by the Election Commission of Sri Lanka, the European Union has decided to deploy an Election Observation Mission (EOM) to Sri Lanka to observe the Presidential Election scheduled for 21 September 2024. The EU has a long history of accompanying electoral processes in Sri Lanka and has deployed EOMs on six occasions, the last in 2019, reflecting the EU’s commitment and partnership with the country.
+
+...
+
+[Data](articles/44da00a5.json)
+
+---
+
+### Struggle in Jaffna on the 30th
 
 *2024-08-26 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/192035) · `ta`
 
-வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் சர்வதேச தினமான எதிர்வரும் 30ஆம் திகதி யாழ்ப்பாணத்தில் மாபெரும் போராட்டத்தினை முன்னெடுக்கவுள்ளதாக வடக்கு கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகளின் சங்கத்தினர் அறிவித்துள்ளனர்.
+Here's a summary of the text in 200 characters:
 
-யாழ். ஊடக அமையத்தில் இன்று திங்கட்கிழமை (26) நடைபெற்ற ஊடக சந்திப்பின் போதே போராட்டம் தொடர்பில் அறிவித்துள்ளனர்.
 
-யுத்தம் நிறைவுக்கு வந்த நாட்கள் தொடக்கம் வலிந்து காணாமல் ஆக்கப்பட்ட எமது உறவுகளை தேடி போராடி வருகிறோம்.இது வரையில் எமக்கான நீதி கிடைக்கப்பெறவில்லை.
 
-உள்ளக விசாரணைகளின் ஊடாக நீதி கிடைக்கும் என நாங்கள் நம்பவில்லை எனவே தான் நாம் சர்வதேச விசாரணைகளை கோரி போராட்டங்களை முன்னெடுத்து வருகிறோம்.
+Missing Persons Association announces protest in Jaffna on 30th for International Day of the Disappeared. Demands international investigation instead of internal inquiries. Calls for support from all parties, civil organizations, universities, and associations.
 
-அந்த வகையில் எதிர்வரும் 30ஆம் திகதி வடக்கில் யாழ்ப்பாணத்திலும் கிழக்கில் திருகோணமலையிலும் போராட்டங்களை முன்னெடுக்கவுள்ளோம்.
+🟩
 
-எமது போராட்டத்திற்கு தமது அரசியல் நிலைப்பாடுகளை கடந்து கட்சி பேதங்கள் இன்றி அனைத்து தரப்பினரும் ஆதரவு வழங்க வேண்டும்.
+The association of the missing persons has announced that the North and East will launch a massive struggle in Jaffna on the 30th of this month, the International Day of the Disappeared.
+
+Yall. They announced the protest during a media briefing held at the Media Center today (26).
+
+From the days of the end of the war, we have been fighting for our missing relationships.
+
+We do not believe that justice is available through internal inquiries, which is why we are carrying out protests demanding international investigations.
+
+In that respect, we will carry out protests in Jaffna in the North and in the East in Trincomalee on the 30th.
+
+All parties must support our struggle without their political positions.
+
+The relations of the missing persons have asked the parties, civil organizations, university students and associations to strengthen our struggle and join the struggle and call on our voice to the international community.
 
 ...
 
 [Data](articles/ad320030.json)
+
+[Extended Data](ext_articles/ad320030.ext.json)
+
+---
+
+### UK Notting Hill Carnival chaos leaves 3 people stabbed, 90 arrested, 15 police officers assaulted
+
+*2024-08-26 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101520/uk-notting-hill-carnival-chaos-leaves-3-people-stabbed-90-arrested-15-police-officers-assaulted) · `en`
+
+Three people were stabbed during the first day of the Notting Hill Carnival, Europe’s biggest street festival, with a 32-year-old woman suffering “life-threatening” injuries, London’s Metropolitan Police Service said.
+
+More than 1 million people are expected to attend the carnival, a celebration of Afro-Caribbean culture that takes place every year on the streets of the Notting Hill neighborhood in west London. Some 7,000 police officers have been assigned to the event, which concludes Monday.
+
+Police said they made 90 arrests on Sunday, including 10 people who were detained for assaulting emergency workers, 18 for possession of offensive weapons and four for sexual offenses.
+
+“Hundreds of thousands of people came to Notting Hill Carnival today to enjoy a fantastic celebration,” the Met said in a statement. “Regrettably, a minority came to commit crime and engage in violence.”
+
+◼️
+
+[Data](articles/e8277d32.json)
 
 ---
 
@@ -190,23 +266,33 @@ The Sri Lanka Navy states that the Sri Lanka Navy has been leaving a training ex
 
 ---
 
-### மன்னார், வங்காலையில் அதிபரை உடனடியாக இடமாற்ற கோரி போராட்டம்
+### Struggle demanding the immediate relocation of the Chancellor in Mannar
 
 *2024-08-26 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/192030) · `ta`
 
-மன்னார் வங்காலையிலுள்ள தேசியப் பாடசாலையின் அதிபரை உடனடியாக மாற்றக் கோரி இன்று திங்கட்கிழமை(26) காலை பெற்றோர் மற்றும் பழைய மாணவர்கள் இணைந்து பாடசாலைக்கு முன் கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+Protesters demand Mannar National School principal replacement, citing declining performance and student impact. Parents and alumni join rally, urging authorities to take immediate action.
 
-பிள்ளைகளின் கல்வியை பாழாக்காதே, ஒழுக்கம் இல்லாத உன்னால் எப்படி ஒழுக்கமான சமுதாயத்தை உருவாக்க முடியும்?. ஒரு குடும்பத்திற்காக ஊரை அழிப்பதா? உள்ளிட்ட பல்வேறு வசனங்கள் எழுதப்பட்ட பதாகைகளை ஏந்தியவாறு போராட்டத்தில் ஈடுபட்டனர்.
+🟩
 
-மன்னார் வங்காலை புனித ஆனாள்  தேசியப் பாடசாலை கடந்த பல வருடங்களாக கல்வியிலும், விளையாட்டு நிகழ்வுகளிலும், ஏனைய போட்டிகளிலும் சாதனை நிலை நாட்டி வந்த நிலையில் அண்மைக் காலங்களாக பாடசாலை சகல துறைகளிலும் கீழ் மட்டத்தை அடையும் நிலைக்கு தள்ளப்பட்டுள்ளது.
+Parents and old students joined the school on Monday morning (26) morning demanding the immediate replacement of the Principal of the National School in Mannar.
 
-கடந்த ஒரு வருடங்களுக்கு மேலாக குறித்த பாடசாலையின் கல்வி நடவடிக்கை பாதிக்கப்பட்டதோடு, மாணவர்களின் செயற்பாடுகள் சகல துறைகளிலும் பாதிக்கப்பட்டுள்ளது.
+Do not ruin the education of children, and how can you create a decent society?. Destroy the town for a family?Various subtitles, including the banners, were involved in the struggle.
 
-தற்போது நியமிக்கப்பட்டுள்ள அதிபர் நிர்வாகத் திறன் அற்றவராக உள்ள நிலையில் உடனடியாக அவரை மாற்றி புதிய அதிபரை நியமிக்க கோரிக்கை விடுக்கப்பட்டது.
+The National School of Mannar, Bengal, has been reaching the lower level in all disciplines in recent years as the National School of Mannar has been achieved in education, sports events and other competitions for the past several years.
+
+Over the past one year, the school's educational activities have been affected and the activities of the students have been affected in all fields.
+
+The present -day president was urged to replace him and immediately replace him.
+
+Despite the long -standing request to the relevant authorities, no action has been taken to change the Chancellor.
+
+The protesters said that the protest was carried out by parents and alumni.
 
 ...
 
 [Data](articles/13154b23.json)
+
+[Extended Data](ext_articles/13154b23.ext.json)
 
 ---
 
@@ -238,23 +324,37 @@ After receiving the wrongdoing, the suspects were fined by the Magistrate.
 
 ---
 
-### கொழும்பு துறைமுகத்தை வந்தடைந்தது இந்திய போர்க்கப்பல்
+### Indian warship arrived in Colombo port
 
 *2024-08-26 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/192032) · `ta`
 
-இந்திய கடற்படையின் முன்னரங்க போர்க்கப்பலான ஐ.என்.எஸ். மும்பை மூன்று நாள் விஜயமாக இன்று 26 ஆம் திகதி காலை கொழும்புதுறைமுகத்தை வந்தடைந்துள்ளது.
+Here's a 200-character summary:
 
-இக்கப்பலுக்கு இலங்கை கடற்படையினரால் சம்பிரதாயபூர்வமான வரவேற்பு வழங்கப்பட்டது. இந்தியாவில் தயாரிக்கப்பட்ட டெல்லி ரகத்தைச் சேர்ந்த நாசகாரி கப்பல்களில் மூன்றாவது கப்பல் ஐஎன்எஸ் மும்பை ஆகும்.
 
-மஸ்கன் டொக் லிமிடெட் நிறுவனத்தால் தயாரிக்கப்பட்ட இக்கப்பலுக்கு மும்பை நகரின் பெயரை அடிப்படையாகக் கொண்டு பெயர் சூட்டப்பட்டது.
 
-இக்கப்பல் அதன் தரமுயர்த்தல் பணிகளின் பின்னர் 2023ஆம் ஆண்டு டிசம்பர் 8ஆம் திகதி விசாகபட்டினத்தில் உள்ள கிழக்கு பிராந்திய கடற்படை கட்டளை பிரிவிடம் சேவையில் இணைக்கப்பட்டது.
+Indian warship Mumbai arrives Colombo port. Welcomed formally by Sri Lankan navy. Third Nasakari-class ship built in India. Named after Mumbai city. Added to Eastern Naval Command Dec 8, 2023. Visit aims to share best practices between navies. Joint activities planned including games, yoga, coastal cleanup. Sailors to explore Colombo and Galle sites. Leaves Sri Lanka Aug 29, 2024.
 
-கொழும்பில் ஐஎன்எஸ் மும்பை தரித்து நிற்கும் காலத்தில் இருகடற்படையினரதும் சிறந்த நடைமுறைகளை பகிர்ந்து கொள்ளும் இலக்குடன் இலங்கை கடற்படை அதிகாரிகள் இக்கப்பலுக்கு விஜயம் செய்து அனுபவப் பகிர்வு செயற்பாடுகளில் ஈடுபட உள்ளனர்.
+🟩
+
+The Indian Navy's front warship. Mumbai has arrived at the Colombo port this morning on the 26th of this month.
+
+The ship was a formal welcome by the Sri Lankan navy. Mumbai is the third ship of Nasakari ships from Delhi's manufactured in India.
+
+The ship, manufactured by Muscan Doc Limited, was named after the name of Mumbai.
+
+The ship was added to the Eastern Regional Naval Command Division in Visakhapatnam on 8 December 2023 after its quality upgrading.
+
+Sri Lankan Navy officials will visit the ship with the goal of sharing the best practices of the two men during the period of Mumbai in Colombo.
+
+During the visit of the ship, the Western Navy Regional Commander Rear Admiral WDC Kumarasinghe will meet at the West Naval Regional Headquarters.
+
+Also, joint activities such as games, yoga and coastal cleansing work are to be carried out during the ship's visit to the Sri Lankan navy.
 
 ...
 
 [Data](articles/72c70f70.json)
+
+[Extended Data](ext_articles/72c70f70.ext.json)
 
 ---
 
@@ -554,19 +654,29 @@ With the assurance, the OIC of a police inspector is appointed OIC of the OIC an
 
 ---
 
-### முதுமையிலும் கல்வி ; 97 வயதில் முதுமாணிப்பட்டம் பெற்ற மூதாட்டி
+### Education in old age;Elderly grandmother at the age of 97
 
 *2024-08-26 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/192017) · `ta`
 
-இலங்கையில் 97 வயது மூதாட்டி  ஒருவர் முதுமாணிப் பட்டம்  பெற்று சாதனை படைத்துள்ளார்.
+Here's a summary of 200 characters:
 
-கடந்த 21ஆம் திகதி நடைபெற்ற களனிப் பல்கலைக்கழகத்தின் 143ஆவது பட்டமளிப்பு விழாவில் லீலாவதி தர்மரத்ன என்ற மூதாட்டி பௌத்த கற்கைகளில் முதுமாணிப் பட்டத்தைப் பெற்றுள்ளார்.
 
-இளந்தலைமுறையினருக்கு முன்னுதாரணமாக திகழும் அவர் பட்டம் பெற்ற பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில், “கல்வி கற்பதற்கு வயது ஒரு தடையல்ல”  என தெரிவித்துள்ளார்.
+
+97-year-old Leelavathi Dharmaratne graduates Buddhist studies University of Kelaniya. Defies age barrier, says "Age is not an obstacle to education." Record-breaking achievement in Sri Lanka.
+
+🟩
+
+A 97 -year -old grandmother in Sri Lanka has earned a record of a record.
+
+Leelavathi Dharmaratne, a grandmother, graduated from Buddhist studies at the 143rd graduation ceremony of the University of Kelaniya on the 21st.
+
+After his graduation, he said to the media, "Age is not an obstacle to education."
 
 ◼️
 
 [Data](articles/8b279641.json)
+
+[Extended Data](ext_articles/8b279641.ext.json)
 
 ---
 
@@ -2387,53 +2497,5 @@ Amitabh Pandey, Managing Director & President – Ericsson Sri Lanka & Maldives 
 [Data](articles/51985ea2.json)
 
 [Extended Data](ext_articles/51985ea2.ext.json)
-
----
-
-### Assetline Finance Limited opens its 57th Branch, in Wellawatte
-
-*2024-08-26 03:34:00* · [`islandlk`](http://island.lk/assetline-finance-limited-opens-its-57th-branch-in-wellawatte/) · `en`
-
-Assetline Finance Limited (AFL), a fully owned subsidiary of David Pieris Holdings marked yet another milestone by opening its 57th branch in the Wellawatte. Located at No. 250, Galle Road, Colombo 06, the new branch joins the existing AFL branches in Avissawella, Battaramulla, Borella, Maligawatte, Piliyandala and Nugegoda, becoming the seventh branch opened to serve customers within the Colombo District.
-
-...
-
-[Data](articles/16e9a6c5.json)
-
-[Extended Data](ext_articles/16e9a6c5.ext.json)
-
----
-
-### WEConnect International and U.S. Embassy to advance gender inclusive supply chains
-
-*2024-08-26 03:33:00* · [`islandlk`](http://island.lk/weconnect-international-and-u-s-embassy-to-advance-gender-inclusive-supply-chains/) · `en`
-
-WEConnect International, with support from the U.S. Embassy, held a Supplier  Development Masterclass and  the  Supplier  Diversity and Inclusion Roundtable in Colombo.
-
-These events aim to empower and connect  women-owned businesses  with  key  industry   leaders  and potential buyers,   fostering economic growth and promoting gender inclusivity within value chains.
-
-U.S. Ambassador Julie Chung joined more than 40 Sri Lankan women business owners as they participated in the Supplier Development Masterclass, an advanced training program featuring in-depth lessons on business strategy, marketing, technology, negotiation, and sales. The class culminated in a pitch  session where  participants presented their businesses to a panel  of buyers, providing valuable feedback and potentially opening doors to new business opportunities.
-
-...
-
-[Data](articles/7c295e37.json)
-
-[Extended Data](ext_articles/7c295e37.ext.json)
-
----
-
-### Diva empowering women to take control of their economic destinies
-
-*2024-08-26 03:32:00* · [`islandlk`](http://island.lk/diva-empowering-women-to-take-control-of-their-economic-destinies/) · `en`
-
-‘Diva Dathata Diriyak Entrepreneurial Skills Development Programme’, is a transformative collaboration between Diva, the flagship laundry care brand of Hemas Consumer Brands and Women in Management (WIM). In celebration of the World Entrepreneurs Day falling on 21st August, a One Day Seminar of Diva Dathata Diriyak Programme was conducted by Dr. Sulochana Sigera, Chairman of WIM, at the Matale Divisional Secretariat, with the participation of over 100 Women Entrepreneurs in Central Province.
-
-Followed by the seminar, a two-day workshop will be conducted to provide practical experience on entrepreneurial skills to further enhance the experience of women entrepreneurs. This is a part of the of the ongoing, highly successful series of Diva Dathata Diriyak Programme aimed at equipping women with the skills, knowledge, and confidence to thrive in the extremely challenging entrepreneurial world.
-
-...
-
-[Data](articles/a700cc35.json)
-
-[Extended Data](ext_articles/a700cc35.ext.json)
 
 ---

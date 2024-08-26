@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 03:37:05**
+As of **2024-08-27 03:55:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,754 (100.0%) of 42,755 articles have been extended.
+42,755 (100.0%) of 42,755 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -196,23 +196,33 @@ He also said that these three companies have earned the highest income in histor
 
 ---
 
-### கொழும்பு குப்பைகளுக்கு மீண்டும் கடும் எதிர்ப்பு
+### Again fierce opposition to Colombo debris
 
 *2024-08-27 01:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-குப்பைகளுக்கு-மீண்டும்-கடும்-எதிர்ப்பு/175-342835) · `ta`
 
-கொழும்பிலிருந்து குப்பைகளை ரயிலில் புத்தளத்திற்கு கொண்டு வரும் வேலைத்திட்டம் ஞாயிற்றுக்கிழமை (25) முதல் மீண்டும் ஆரம்பிக்கப்பட்டுள்ளதாக தெரிவித்து புத்தளம் நகரில் எதிர்ப்பு ஆர்ப்பாட்டம் இடம்பெற்றது.
+Protest against Colombo debris in Puttalam. Peaceful march demands immediate stop to garbage transport. Organized by Clean Puttalam Committee.
 
-இத்திட்டத்தை உடனடியாக கைவிட வேண்டும் என கோரியே புத்தளத்தில் அமைதியான முறையில் இந்த கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+🟩
 
-புத்தளம் நூர் நகர் ரயில் நிலையத்திற்கு முன்பாக இந்த கவனயீர்ப்பு போராட்டம் சுமார் இரண்டு மணி நேரம் நடத்தப்பட்டது.
+A protest march from Colombo to Puttalam has been launched in Puttalam from Sunday (25).
 
-இந்த கவனயீர்ப்பு போராட்டத்தில் தூய தேசத்திற்கான கட்சியின் தலைவர் இஷாம் மரிக்கார் உட்பட இளைஞர்கள், சமூக ஆர்வலர்கள் சிலர் கலந்து கொண்டனர்.
+The protest was carried out in a peaceful manner in Puttam demanding the immediate abandonment of the scheme.
 
-பரீட்சார்த்த நடவடிக்கைகளுக்காக கொழும்பிலிருந்து குப்பைகளை ஏற்றிய விசேட ரயில் புத்தளம் அருவக்காடு சேராக்குளி பகுதிக்கு வருகை தரவுள்ளதாக கிளீன் புத்தளம் குழுவுக்கு கிடைத்த தகவலின் அடிப்படையில் இந்த கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டதாக ஏற்பாட்டாளர்கள் தெரிவித்தனர்.
+The protest was held for about two hours in front of the Puttalam Noor Nagar railway station.
 
-...
+Some youth and community activists, including the party leader of the pure nation, Isham Marikar, participated in the protest.
+
+The organizers said that the special train which was loaded with garbage from Colombo for examination was based on information received by the Clean Puttalam Committee.
+
+Clean Puttalam, the historical struggle of the descendants. We are suing this in court. In such an environment, the garbage has been brought to the train without anyone knowing.
+
+We have expressed their opposition to the Puttalam community on behalf of the Clean Puttalam Organization. They called a peaceful struggle.
+
+◼️
 
 [Data](articles/d4ab1ab3.json)
+
+[Extended Data](ext_articles/d4ab1ab3.ext.json)
 
 ---
 

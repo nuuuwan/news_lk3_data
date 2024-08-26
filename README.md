@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 09:56:27**
+As of **2024-08-26 10:09:51**
 
 ## Newspaper Stats
 
-*Scraped **42,608** Articles*
+*Scraped **42,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 407
 islandlk | 2,483
 economynextcom | 2,572
 dailyftlk | 2,769
-adalk | 3,926
+adalk | 3,927
 dailymirrorlk | 4,733
-adaderanalk | 5,002
+adaderanalk | 5,003
 tamilmirrorlk | 5,546
 virakesarilk | 6,763
 adaderanasinhalalk | 7,293
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,293
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,601 (100.0%) of 42,608 articles have been extended.
+42,607 (100.0%) of 42,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### Veteran film director Sugathapala Senarath Yapa passes away
+
+*2024-08-26 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101502/veteran-film-director-sugathapala-senarath-yapa-passes-away) · `en`
+
+Veteran film director Sugathapala Senarath Yapa has passed away at the age of 89.
+
+He was highly regarded for his contributions as the creative director behind numerous award-winning films, including “Hanthane Kathawa,” “Pembara Madhu,” and “Induta Mal Mitak”.
+
+◼️
+
+[Data](articles/77aa363a.json)
+
+---
 
 ### Israel and Hezbollah in major missile exchange as escalation fears grow
 
@@ -48,19 +62,27 @@ Any major spillover in the fighting, which began in parallel with the war in Gaz
 
 [Data](articles/1bb9f9bf.json)
 
+[Extended Data](ext_articles/1bb9f9bf.ext.json)
+
 ---
 
-### සුගතපාල සෙනරත් යාපා අභාවප්‍රාප්ත වෙයි
+### Sugathapala Senarath Yapa passes away
 
 *2024-08-26 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200333) · `si`
 
-වර්ෂ 1935 නොවැම්බර් මස 10 වන දින අකුරැස්ස ප්‍රදේශයේ උපත ලද ඒ මහතා මියයන විට 89 වැනි වියෙහි පසුවිය.
+Sugathapala Senarath Yapa dies at 89. Director of Hanthana Talk, Lovely Muster, and Indus Malmiti.
 
-හන්තානේ කතාව, පෙම්බර මධු, ඉන්දුට මල්මිටක් ඇතුළු සම්මානනීය ජනප්‍රිය චිත්‍රපටි රැසක නිර්මාණ අධ්‍යක්ෂකවරයා ලෙස ඔහු කටයුතු කර තිබේ.
+🟩
+
+Born on November 10, 1935, he was 89 years old at the time of his death.
+
+He has joined the designer director of the Hanthana talk, lovely muster and Indus Malmiti.
 
 ◼️
 
 [Data](articles/db753a27.json)
+
+[Extended Data](ext_articles/db753a27.ext.json)
 
 ---
 
@@ -108,27 +130,39 @@ However, any postal worker requiring leave for essential reasons would have to o
 
 [Data](articles/759c19f4.json)
 
+[Extended Data](ext_articles/759c19f4.ext.json)
+
 ---
 
-### මාරක අනතුරු දෙකක්
+### Two fatal accidents
 
 *2024-08-26 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200332) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක ඊයේ (25) සිදුවූ රිය අනතුරු හේතුවෙන් පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+Here's a summary of the text in 200 characters:
 
-කලවංචිකුඩි පොලිස් වසමේ කලවංචිකුඩි පලුගාමම් මාර්ගයේ පලුගාමම් කෝවිල අසල පාලම මතදී යතුරුපැදියක් පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් කලපුවට පෙරළී තිබේ.
 
-එම අවස්ථාවේදී යතුරුපැදියේ පැදිකරු සමග පසු-පැදිකරුවන් දෙදෙනෙකු ගමන් කර ඇති අතර ඉන් එක් පසු-පැදිකරුවෙකු දියේ ගිලී ජීවිතක්ෂයට පත්ව ඇත.
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ අවුරුදු 38ක් වූ පෙරියපෝරතිව් ප්‍රදේශයේ පදිංචිකරුවෙකි.
+Fatal accidents: two deaths on island roads. Motorbike fell off bridge, two motorcyclists drowned. Another motorcycle crashed, bus severely damaged.
 
-මේ අතර පුලස්තිපුර පොලිස් වසමේ කුඹුක්කන් ආරුව මාර්ගයේ කරත්තකඩ හන්දිය දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් ඇළකට පෙරළී තිබේ.
+🟩
 
-අනතුරින් බරපතළ තුවාල ලැබූ පැදිකරු පොළොන්නරුව රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+Two persons have died due to road accidents in several parts of the island yesterday, police spokesman's office said.
+
+On the bridge near the Palunudam Kovil on the Kalawanchikudi police division, a motorbike has gone out of the bridge.
+
+Two motorcyclists have traveled with the motorcyclist, and another submerged after each of them.
+
+The deceased is a resident of Periyapitiyaarathivu, 38.
+
+Meanwhile, a motorcycle driven towards Karattakadake Junction on the Kumbukkada junction on the Kumbukkada junction on Pulasthiwiti police division has gone up to the copper.
+
+The bus was seriously injured in the accident.
 
 ◼️
 
 [Data](articles/e514d9cc.json)
+
+[Extended Data](ext_articles/e514d9cc.ext.json)
 
 ---
 
@@ -147,6 +181,8 @@ President Ranil Wickremesinghe noted that while he wishes to reduce the prices o
 ...
 
 [Data](articles/07cd44f0.json)
+
+[Extended Data](ext_articles/07cd44f0.ext.json)
 
 ---
 
@@ -1304,6 +1340,22 @@ President Ranil Wickremesinghe addressing the UNP Special Conference at the part
 
 ---
 
+### ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය අද
+
+*2024-08-25 19:08:58* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගයේ-ප්‍රතිපත්ති-ප්‍රකාශය-අද/11-411549) · `si`
+
+ජාතික ජනබලවේගයේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය අද (26දා) එළිදැක්වීමට නියමිතය. මොනාක් ඉම්පීරියල් හෝටලයේදී එම ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීමට නියමිතව ඇත.
+
+සෑම ක්ෂේත්‍රයක්ම ආවරණය වන පරිදි මෙම ප්‍රතිපත්ති ප්‍රකාශය සකස් කර ඇති අතර, එහිදී මෙරට ආර්ථිකය ගොඩනැගීම වෙනුවෙන් වැඩි ඉඩක් වෙන් කර ඇති බව වාර්තා වේ.
+
+ආර්ථික, සෞඛ්‍ය, අධ්‍යාපන, විදේශ, කලා හා සංස්කෘතික, විද්‍යා හා තාක්ෂණ, පර්යේෂණ හා සංවර්ධන යන ප්‍රධාන අංශ සහ තවත් අංශ ඇතුළත් කරමින් මෙම ප්‍රතිපත්ති ප්‍රකාශය සකස් කර ඇත.
+
+◼️
+
+[Data](articles/1e7a6a1c.json)
+
+---
+
 ### President Ranil Wickremesinghe challenged Sajith and Anura
 
 *2024-08-25 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191961) · `ta`
@@ -2151,55 +2203,5 @@ Ravi Kudithee pointed out that once again imports such as registered with India.
 [Data](articles/30e66ea1.json)
 
 [Extended Data](ext_articles/30e66ea1.ext.json)
-
----
-
-### Ex-Special Forces soldier arrested with ‘Ice’ drugs, ammo in Minuwangoda
-
-*2024-08-25 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101488/ex-special-forces-soldier-arrested-with-ice-drugs-ammo-in-minuwangoda) · `en`
-
-The Police Special Task Force (STF) has apprehended a former soldier of the Sri Lanka Army’s Special Forces Regiment (SF), listed as a deserter, while in the possession of ‘Ice’ (Crystal Methamphetamine) drugs and ammunition during a special operation in the Yakatuwa area of Minuwangoda.
-
-The suspect, who has been identified as a 34-year-old resident of Katupotha, was arrested by the Organized Crime Prevention Unit of the Police STF.
-
-At the time of his arrest, the suspect was in possession of 8 grams of ‘Ice’ drugs, 5 pieces of army uniform clothing and 6 rounds of 9mm ammunition, police said.
-
-Police revealed that the arrested suspect is an army deserter.
-
-The arrest follows an incident on August 20, in which the suspect is accused of assaulting a Police STF officer and damaging a vehicle after a road accident involving the officer and his jeep in the Katupotha area. The arrested individual has been identified as the main suspect in the case, according to police.
-
-...
-
-[Data](articles/6a5c0b49.json)
-
-[Extended Data](ext_articles/6a5c0b49.ext.json)
-
----
-
-### The manifesto of the two will be released this week
-
-*2024-08-25 15:13:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரின்-விஞ்ஞாபனங்கள்-இந்த-வாரம்-வெளியிடப்படும்/175-342752) · `ta`
-
-Presidential candidates release manifestos this week: Anura Kumara Dissanayake leads, Sajith Premadasa follows.
-
-🟩
-
-Two presidential candidates are due to release their election manifesto this week.
-
-Parliamentarian Anura Kumara Dissanayake, the president of the National People's Power (NPP) and the presidential candidate, will be the first to release his election manifesto in Colombo tomorrow.
-
-A NPP spokesman said that the election manifesto will be released during the ceremony at the Monark Imperial Hotel at Talawatugoda at 10.00 am.
-
-Meanwhile, opposition leader and presidential candidate Sajith Premadasa will release his election manifesto on Wednesday (August 28).
-
-Sujeewa Senasinghe, president of the United People's Power, said that the election manifesto would be released in Colombo, but the time and place would be announced soon.
-
-MP. Senasinghe added that Premadasa's election manifesto has been created within the social market economic system, focusing on various sectors, including education, agriculture, digitalization, health, entrepreneurship and cooperative organizations.
-
-...
-
-[Data](articles/5f53340f.json)
-
-[Extended Data](ext_articles/5f53340f.ext.json)
 
 ---

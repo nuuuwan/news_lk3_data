@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 18:29:59**
+As of **2024-08-26 18:40:24**
 
 ## Newspaper Stats
 
-*Scraped **42,699** Articles*
+*Scraped **42,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,941
 dailymirrorlk | 4,733
-adaderanalk | 5,021
+adaderanalk | 5,023
 tamilmirrorlk | 5,554
 virakesarilk | 6,781
 adaderanasinhalalk | 7,312
@@ -26,11 +26,49 @@ adaderanasinhalalk | 7,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,697 (100.0%) of 42,699 articles have been extended.
+42,699 (100.0%) of 42,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### Dept. of Posts receives postal ballots for presidential poll
+
+*2024-08-26 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101525/dept-of-posts-receives-postal-ballots-for-presidential-poll) · `en`
+
+The Election Commission today (26) handed over to the Postal Department the reserved packets containing the registered postal ballot papers to be distributed to the postal voters of the 2024 Presidential Election.
+
+Accordingly, a total of 712,319 registered postal ballots have been handed over to the postal department by returning officers at 25 centres across the island.
+
+The postal ballots will be handed over to the certifying officers tomorrow (27) ahead of the postal voting, which is scheduled to take place on September 04, 05 and 06. Meanwhile, September 11 and 12 have been allocated as additional dates for postal voters who were unable to cast their vote on the initial dates.
+
+Meanwhile, the distribution of official polling cards for the 2024 presidential election is scheduled to commence on September 03.
+
+Additionally, September 08 has been designated as a special day for polling card distribution.
+
+...
+
+[Data](articles/104210ab.json)
+
+---
+
+### Employment opportunities for Sri Lankan women in South Korea’s fisheries sector
+
+*2024-08-26 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101524/employment-opportunities-for-sri-lankan-women-in-south-koreas-fisheries-sector) · `en`
+
+Sri Lankan females have also now been provided with the opportunity to seek employment in South Korea’s fisheries sector, according to the SLBFE.
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) announced that 120 individuals including three females departed for South Korea yesterday (25) to take up these employment opportunities in the fisheries sector in that country.
+
+This was made possible through a Memorandum of Understanding (MOU) entered into between the South Korean and Sri Lankan governments.
+
+The program is being implemented by the Sri Lanka Bureau of Foreign Employment (SLBFE).
+
+◼️
+
+[Data](articles/ef2c1c39.json)
+
+---
 
 ### Chinese and Indian warships visit Colombo on same day
 
@@ -52,23 +90,31 @@ The Commanding Officers of the trio of Chinese People’s Liberation Army Navy w
 
 ---
 
-### එස්.අයි. ට පහරදුන් කොස්තාපල්ගේ වැඩ තහනම්
+### SI. Constable's work banned
 
 *2024-08-26 17:18:46* · [`adalk`](https://www.ada.lk/breaking_news/එස්-අයි--ට-පහරදුන්-කොස්තාපල්ගේ-වැඩ-තහනම්/11-411568) · `si`
 
-නිදාගෙන සිටියදී අවදි කෙරුවයි උරන වී  උප පොලිස් පරීක්ෂකවරයෙකුට පහර දුන් පොලිස් කොස්තාපල්වරයෙකු  රාජකාරී වැඩ තහනම් කළ බව ගල්කිස්ස පොලිස් අධිකාරී කාර්යාලය කියයි.
+Constable suspended after assault by colleague during inspection. Alcohol involved. Work ban issued by SSP.
 
-වැඩ තහනමට ලක්කල එම පොලිස් නිලධාරීවරයා මත්පැන් පානය කර සිටි බවට අනාවරණය වී යැයි පොලිසිය සඳහන් කරයි.
+🟩
 
-කොස්තාපල්වරයා ඉකුත් 24 වෙනිදින  පැය 1800 සිට මධ්‍යම රාත්‍රී 1200 දක්වා ගල්කිස්ස පොලිස්  ස්ථානයේ ප්‍රධාන දොරටුවේ ආරක්ෂක රාජකාරී යෙදී සිටියදී රාත්‍රී කාර්යභාර නිලධාරි ලෙස කටයුතු කළ උප පොලිස් පරීක්ෂකවරයෙකු ප්‍රධාන දොරටුවේ රාජකාරී පරීක්ෂා කිරීම සඳහා  ගිය අවස්ථාවේදී කොස්තාපල්වරයා නිදාගෙන සිට ඇත.
+The Mount Superintendent of Police said the police constable assaulted by a police constable who assaulted him was suspended.
 
-එම අවස්ථාවේදී ඒ සම්බන්ධයෙන් රාත්‍රී කාර්යභාර නිලධාරියා කොස්තාපල්වරයාගෙන් විමසීමේදී එකවරම නිලධාරියා විසින් රාත්‍රී කාර්යභාර නිලධාරියාට පහරදී ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+The police said that the police officer was suspended.
 
-පසුව එම සිදුවීම සම්බන්ධයෙන් විමර්ශනය කිරීමේදී කොස්තාපල්වරයා මත්පැන් පානය කර සිටි බවට අනාවරණය වී යැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+The constable was asleep when a sub-inspector of the main entrance was to inspect the main entrance to the main entrance to the main entrance of the Mount Lavinia to 1200 midnight.
 
-...
+According to police sources, the night staff had assaulted the night function at the time.
+
+A high-ranking police officer said that the constable was alcohol when investigating the incident.
+
+According to the SSP Prasanna Brahmanna, the District Superintendent of Police, has banned the work.
+
+◼️
 
 [Data](articles/73a1523e.json)
+
+[Extended Data](ext_articles/73a1523e.ext.json)
 
 ---
 
@@ -1102,27 +1148,39 @@ It is reported that hezbollah and three members of the Amal supported with them.
 
 ---
 
-### මා සමඟ සිටින්නේ හොඳම කණ්ඩායමයි
+### The best team is with me
 
 *2024-08-26 13:08:01* · [`adalk`](https://www.ada.lk/breaking_news/මා-සමඟ-සිටින්නේ-හොඳම-කණ්ඩායමයි/11-411562) · `si`
 
-එම කණ්ඩායමට අභියෝග කළ හැකි කණ්ඩායමක් වෙනත් කිසිඳු පක්ෂයක නැහැ
+Here's a summary of the text in 200 characters:
 
-සටන තිබෙන්නේ ජනාධිපතිවරයා කවුරුන්ද යන්න පිළිබඳව නොව ජනතාව ජීවත් කරවීම පිළිබඳවයි
 
-මෙවර ඡන්දය ලබාදිය යුත්තේ ගෑස් සිලින්ඩර් සොයමින් ගිය යුගයෙන් ඉවත් වීම සඳහායි
 
-යහපාලන ආණ්ඩුව යටතේ හොරු ඇල්ලීමේ වගකීම භාරගත් ජනතා විමුක්ති පෙරමුණ අසාර්ථක වුණා
+President Ranil Wickremesinghe addressed lawyers on economic stability. He emphasized accountability, saying he's responsible for catching thieves from the 2015 JVP government. He stated his focus isn't on political positions but on living standards and overcoming economic challenges.
 
-මීයෝ ඇල්ලීමට නම් දත් තිබෙන බළලෙකු සිටිය යුතුයි :  බළලාට දත් නැත්නම් තමාට බැන වැඳීමෙන් ඵලක් නැහැ
+🟩
 
-එක් පක්ෂයක නොව සියලු පක්ෂවල සිටින දක්ෂම කණ්ඩායම එක් කර ගනිමින් ඉකුත් දෙවසර තුළ රටේ ආර්ථිකය ස්ථාවර මට්ටමකට ගෙන ඒමට තමාට හැකි වූ බවත්, තමන් සමඟ සිටින ආර්ථික කණ්ඩායම අභිබවා යා හැකි කණ්ඩායමක් වෙනත් කිසිඳු පක්ෂයක
+A group that can challenge that group is in any other party
 
-එම පක්ෂවල සිටින ඇතැමුන් තමන් විසින් දේශපාලනයට ගෙන ආ පුද්ගලයන් බැවින් තමන් ඒ බව හොදාකාරව දන්නා බව සඳහන් කළ ජනාධිපතිවරයා, සටන තිබෙන්නේ ජනාධිපතිවරයා කවුරුන්ද යන්න පිළිබඳව නොව, ජනතාව ජීවත් කරවීම පිළිබඳව බවත්, මෙවර ඡන්දය ලබාදිය යුත්තේ ගෑස් සිලින්ඩර් සොයමින් ගිය යුගයෙන් ඉවත් වීම සඳහා බවත් පෙන්වා දුන්නේය.
+The fight is not about the president of who the President
+
+This year's voter should be given to the age of looking for the gas cylinder
+
+The JVP failed to take responsibility for thieves under the good government government
+
+Must have a cat of teeth: The cat has a cat: If the cat is tooth or the blank
+
+In the last two years, the smartest team of all parties is one of the two-year-old team to reach the economy of the country and overcome the economic group
+
+The President said that they were familiar with the people who had brought them to politics, but that the fighting is about living, but to leave the era of gas cylinder..
+
+President Ranil Wickremesinghe made this statement at the Taj Samudra Hotel in Colombo yesterday (24) with law professionals.
 
 ...
 
 [Data](articles/ba72ea1e.json)
+
+[Extended Data](ext_articles/ba72ea1e.ext.json)
 
 ---
 
@@ -2423,53 +2481,5 @@ Due to this, the leave of all the employees of the Postal Department have been a
 [Data](articles/d242dce7.json)
 
 [Extended Data](ext_articles/d242dce7.ext.json)
-
----
-
-### Action to provide50 kg of fertilizer for 5 thousand rupees
-
-*2024-08-26 07:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/50-கிலோ-உரத்தை-5-ஆயிரம்-ரூபாவுக்கு-வழங்க-நடவடிக்கை/175-342768) · `ta`
-
-Sajith Premadasa promises 50kg fertilizer for 5000 rupees, vows to protect farmers, cancels loans for farmers but not wealthy borrowers.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that steps will be taken to provide a 50kg of fertilizer weighing a 50kg of fertilizer weighing at Rs. 5000.
-
-Opposition Leader Sajith Premadasa said this while addressing the United People's Power Winning rally for the 2024 presidential election held in Hingurangoda, Polonnaruwa yesterday (25).As he further stated,
-
-A fair standard for farmers' agricultural products should be paid.Arrangements cannot be accommodated in fraudulently affecting farmers and consumers.I will take steps to provide a high standard price for consumers and paddy.
-
-The wealthy, who have borrowed millions of rupees in state banks without bail, are canceling the loan with all those in power.. However, the government has not been able to cancel the loans of the farmers.
-
-...
-
-[Data](articles/b62cc594.json)
-
-[Extended Data](ext_articles/b62cc594.ext.json)
-
----
-
-### The 50kg of fertilizer is Rs.. Action to provide 5,000
-
-*2024-08-26 07:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/50-கிலோ-உரத்தை-ரூ-5-000-வழங்க-நடவடிக்கை/175-342768) · `ta`
-
-Sajith Premadasa promises 50kg fertilizer at Rs. 5000 for farmers. Opposes fraudulent practices, vows to pay fair prices for agricultural products. Plans to cancel loans for farmers, benefiting those who feed the nation.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that steps will be taken to provide a 50kg of fertilizer weighing a 50kg of fertilizer weighing at Rs. 5000.
-
-Opposition Leader Sajith Premadasa said this while addressing the United People's Power Winning rally for the 2024 presidential election held in Hingurangoda, Polonnaruwa yesterday (25).As he further stated,
-
-A fair standard for farmers' agricultural products should be paid.Arrangements cannot be accommodated in fraudulently affecting farmers and consumers.I will take steps to provide a high standard price for consumers and paddy.
-
-The wealthy, who have borrowed millions of rupees in state banks without bail, are canceling the loan with all those in power.. However, the government has not been able to cancel the loans of the farmers.
-
-...
-
-[Data](articles/bd731ee0.json)
-
-[Extended Data](ext_articles/bd731ee0.ext.json)
 
 ---

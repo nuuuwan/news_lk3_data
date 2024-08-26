@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 01:56:20**
+As of **2024-08-27 02:07:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,742 (100.0%) of 42,744 articles have been extended.
+42,744 (100.0%) of 42,744 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -170,37 +170,57 @@ How to dissolve the causes of the disaster about the disaster that has occurred 
 
 ---
 
-### மாபெரும் கவனயீர்ப்பு போராட்டத்திற்கு அழைப்பு
+### Call for a great focusing struggle
 
 *2024-08-27 00:50:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாபெரும்-கவனயீர்ப்பு-போராட்டத்திற்கு-அழைப்பு/175-342831) · `ta`
 
-காணாமல் ஆக்கப்பட்டோரின் உறவுகள், சர்வதேச வலிந்து காணாமல், ஆக்கப்பட்டோர் தினத்தில் மாபெரும் கவனயீர்ப்பு போராட்டம் ஒன்றை நடத்துவதற்கு அழைப்பு விடுக்கப்பட்டுள்ளது.
+Here's a summary of the text in 200 characters:
 
-இந்த போராட்டம் வலுப்பெற அனைவரும் அணிதிரண்டு ஆதரவு வழங்குமாறு வடமாகாணசபையின் முன்னாள் உறுப்பினர் துரைராசா ரவிகரன் கேட்டுக் கொண்டுள்ளார்.
 
-“சர்வதேச வலிந்து காணாமல், ஆக்கப்பட்டோர் தினம் ஆகஸ்ட் 30 திகதி அனுஷ்டிக்கப்படுகிறது. வேதனைகளுடன், துன்பங்களுடன் பல ஆண்டுகளாக தங்களுடைய உறவுகளைத் தேடிக்கொண்டு இருக்கின்றார்கள்.
 
-இலங்கையை பொறுத்தவரையில் காணாமல் ஆக்கப்பட்டோர் என்ற சொற்பதம் உருவாகக் காரணமானவர்கள் தங்களுடைய துரோகத்தின் வெளிப்பாடாக தமிழ்மக்களை வேதனைப்படுத்திக் கொண்டேயிருக்கின்றார்கள்.
+"Missing and Missing Day" vigil planned Aug 30. Former MP calls for unity against Tamil disappearances. Parents still seeking justice after 15 years. Events in Jaffna and Trincomalee.
 
-சுமார் 15 ஆண்டுகாலமாக இன்னும் இதற்கு ஒரு தீர்வு இல்லை. இறுதிப்போரின் போது ஒப்படைக்கப்பட்டவர்களை காணாது படும் வேதனையில் ஏக்கத்துடன் இருக்கும் பெற்றோர்களில் சிலர் இறந்தும் விட்டார்கள் அதுகொடுமை.
+🟩
 
-...
+The relations of the missing have been invited to hold a massive vigilante struggle on the day of the Missing and Missing Day.
+
+Former Member of the Northern Provincial Council Durairasa Ravikaran has called for the mobilization of the struggle to strengthen the struggle.
+
+“Missing and Missing Day is celebrated on August 30. They have been looking for their relationships for many years with pain and suffering.
+
+As far as Sri Lanka is concerned, those who have been responsible for the fact that the missing persons have been hurting the Tamils ​​as an expression of their treachery.
+
+There is no solution for this yet 15 years. Some of the parents who are longing for the pain of seeing those who were handed over during the finals have died.
+
+In this context, the relations of the missing persons in the North and East will be held on the 30th of this month in Jaffna and in Trincomalee in Trincomalee on the 30th of this month.. I urge everyone to gather and support this struggle. ”
+
+◼️
 
 [Data](articles/5843bf0d.json)
 
+[Extended Data](ext_articles/5843bf0d.ext.json)
+
 ---
 
-### தேசிய மக்கள் சக்தி ஆட்சியில் ’புதிய அரசமைப்பு’
+### New Constitution in National People's Power
 
 *2024-08-27 00:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தி-ஆட்சியில்-புதிய-அரசமைப்பு/175-342830) · `ta`
 
-நிறைவேற்று அதிகார ஜனாதிபதி முறைமையை இல்லாதொழித்தல், புதிய பாராளுமன்ற தேர்தல் முறைமை என்பன உள்ளிட்ட விடயங்கள் புதிய அரசமைப்பு ஊடாக இடம்பெறும். சர்வஜன வாக்கெடுப்புடன் புதிய அரசமைப்பை இயற்றுவதற்குரிய உறுதிமொழியும் தேசிய மக்கள் சக்தியின் ஜனாதிபதி தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிடப்பட்டுள்ளது.
+National People's Power proposes new constitution, abolishes executive presidency, limits ministerial positions, cancels MP perks, promises referendum, focuses on food security, education reform, and ethnic rights.
 
-“வளமான நாடு - அழகான வாழ்க்கை” எனும் தொனிப்பொருளில் தேசிய மக்கள் சக்தியின் தேர்தல் விஞ்ஞாபனம் கட்சியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அநுரகுமார திசாநாயக்காவினால் இன்று திங்கட்கிழமை (26) கொழும்பில் வெளியிட்டு வைக்கப்பட்டது.
+🟩
+
+The abolition of the executive presidential system and the new parliamentary electoral system will take place through the new constitution.. The presidential election manifesto of the National People's Power is also promised to enact a new constitution with a referendum.
+
+The National People's Election Election Walk was released in Colombo today (26) by Anura Kumara Dissanayake, president and presidential candidate of the National People's Power, on the theme "prosperous country - beautiful life".
+
+The manifesto, which has been extensively investigated on each topic, will be eliminated by the pension for MPs, and the free vehicle permit for MPs will be canceled.The allowance paid to MPs to attend the session will be stopped.The number of official homes of the president will be limited to one. It has also been noted that the pension, special payments and privileges provided to former presidents and their lifetime will be eliminated.
 
 ...
 
 [Data](articles/74c936fc.json)
+
+[Extended Data](ext_articles/74c936fc.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 20:37:26**
+As of **2024-08-26 22:10:41**
 
 ## Newspaper Stats
 
-*Scraped **42,712** Articles*
+*Scraped **42,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,132 @@ colombotelegraphcom | 409
 islandlk | 2,489
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,942
+adalk | 3,943
 dailymirrorlk | 4,733
-adaderanalk | 5,024
+adaderanalk | 5,025
 tamilmirrorlk | 5,560
 virakesarilk | 6,781
-adaderanasinhalalk | 7,314
+adaderanasinhalalk | 7,318
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,710 (100.0%) of 42,712 articles have been extended.
+42,714 (100.0%) of 42,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### பொன்சேகாவுக்கு ஏமாற்றத்தை தந்த பிரசார கூட்டம்
+### නාමල්ගෙන් සෑම මැතිවරණ කොට්ඨාසයකටම කර්මාන්තයක්
+
+*2024-08-26 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200359) · `si`
+
+තම රජයක් යටතේ සමෘද්ධි ව්‍යාපාරය සවිමත් කිරීමට පියවර ගන්නා බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතා පැවසීය.
+
+දොඩම්ගස්ලන්ද ප්‍රදේශයේ අද (26) පැවති රැස්වීමකට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+"සමෘද්ධි ව්‍යාපාරය තුළ තමයි මේ රටේ ග්‍රාමීය ආර්ථිකය වගේම අහිංස දෙමාපියන්ව දුප්පත්කමින් එළියට ගන්න පුළුවන් වැඩපිළිවෙල තියෙන්නේ. පැහැදිලිවම මම හදන ආණ්ඩුවක් තුළ සමෘද්ධි ව්‍යාපාරය ශක්තිමත් කිරීමේ වැඩපිළිවෙල ක්‍රියාත්මක කරනවා. අපි සමෘද්ධිලාභියාව ව්‍යවසායකයෙක් බවට පත්කරනවා. සමෘද්ධි පවුලේ දරුවට දේශීය විදේශීය රැකියා වෙළඳපොළට යන්න පුළුවන් අවකාශය හඳනවා. අපි ආයෝජකයෝ ගමට ගේනවා. රැකියා උත්පාදනය කරන්න අවශ්‍ය පරිසරය අපි නිර්මාණය කරනවා. අපි හදන ආණ්ඩුවක් තුළ සෑම මැතිවරණ කොට්ඨාසයකටම කර්මාන්තයක්, කර්මාන්තයකට ආයෝජනය කරන්න පුළුවන් අවකාශය නිර්මාණය කරනවා".
+
+◼️
+
+[Data](articles/744eb3a1.json)
+
+---
+
+### රාජ්‍ය සේවයට දිලිත් කරන්න යන වෙනස
+
+*2024-08-26 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200358) · `si`
+
+සර්වජන බලය රජයක් යටතේ ව්‍යවසායකත්ව මනසකින් යුත් රාජ්‍ය සේවකයෙකු බිහිකිරීම හරහා මෙරට රාජ්‍ය සේවය කාර්යක්ෂම කරන බව සර්වජන ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+අනුරාධපුරයේ පැවති ව්‍යවසායක හමුවකට එක්වෙමින් ඔහු මෙම අදහස් පළ කළේය.
+
+...
+
+[Data](articles/5c8f71eb.json)
+
+---
+
+### පාස්පෝට් සඳහා අයදුම්කරන අයට විශේෂ දැනුම්දීමක්
+
+*2024-08-26 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200357) · `si`
+
+හිස් විදෙස් ගමන් බලපත්‍රවල හිඟයක් ඇති බැවින් අත්‍යවශ්‍ය හේතුවක් ඇත්නම් පමණක් විදේශ ගමන් බලපත්‍ර සඳහා අයදුම්කරන ලෙස ආගමන හා විගමන දෙපාර්තමේන්තුව අයදුම්කරුවන්ගෙන් ඉල්ලා සිටී.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අලුතින් නිකුත්කළ හැකි විදෙස් ගමන් බලපත්‍ර සීමිත බැවින් එම ඉල්ලීම කරන බවයි.
+
+නව විද්‍යුත් විදේශ ගමන් බලපත්‍රය නුදුරේදීම හඳුන්වා දීමට පියවර ගන්නා බවත් ඊට අදාළ ටෙන්ඩර් කැඳවා ඇති බවත් ආගමන හා විගමන පාලක ජනරාල්වරයා වැඩිදුරටත් දන්වා සිටී.
+
+◼️
+
+[Data](articles/257566c3.json)
+
+---
+
+### Passport issuance limited; apply only for urgent needs – Immigration Dept
+
+*2024-08-26 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101527/passport-issuance-limited-apply-only-for-urgent-needs-immigration-dept) · `en`
+
+The Controller General of Immigration and Emigration says that the issuance of passports will be limited due to the limited availability of blank passports.
+
+Issuing a special announcement in this regard, the Controller General has therefore requested applicants to apply for passports only if their needs are urgent.
+
+The announcement also mentioned that new electronic passports (E-Passports) are set to be introduced soon, with the tender already awarded to a foreign firm.
+
+◼️
+
+[Data](articles/a84c323a.json)
+
+---
+
+### Rs. 20,000 per month for a poor family - Sajith
+
+*2024-08-26 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200356) · `si`
+
+Sajith Premadasa proposes Rs. 20,000 monthly stipend for poor families to combat poverty within 24 months.
+
+🟩
+
+Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, Samajith Premadasa, said.
+
+Speaking further the opposition leader of the Opposition Leader Sajith Premadasa,
+
+"I'd like a special announcement. Hundreds of thousands of people in this country are poorest. We will bring a good life for the poor and relief to the poor people who live in the rich people who live a living.. A poor family will be given Rs. 20,000 per month. A program to eliminate poverty within 24 months. Poverty should be lost through consumption, investment, balance, production and exports. No one wants to stay in poverty. A people who want to live in our country. These concessions are based on the woman. Strengthens Kantale Sugar Factory. Let the Sembila beat it for the advancement of the area!
+
+◼️
+
+[Data](articles/5aa16ca3.json)
+
+[Extended Data](ext_articles/5aa16ca3.ext.json)
+
+---
+
+### The campaign meeting that disappointed Fonseka
 
 *2024-08-26 20:15:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-ஏமாற்றத்தை-தந்த-பிரசார-கூட்டம்/175-342812) · `ta`
 
-சரத் பொன்சேகாவின் பிரசார கூட்டம் நுவரெலியா பிரதான நகரில் மணிக்கூட்டுக் கோபுரம் அமைந்துள்ள வாகனத்தரிப்பிடத்தில் இன்று (26) மேடை அமைத்து நடைபெற்றது.
+Here's a summary of the text in 200 characters:
 
-அமைக்கப்பட்ட மேடையில் பொன்சேகா உட்பட சுமார் 10 பேர் இருந்தனர் மேலும் மேடையின் முன் போடப்பட்டிருந்த இருக்கைகளில் எதிர்பார்த்த அளவில் பொது மக்கள் வருகைத்தந்து அமரவில்லை.
 
-அத்துடன் பொன்சேகா இராணுவத் தளபதியாக இருந்த காலத்தில் தாக்குதலுக்கு உள்ளான காரையும் லொறியில் ஏற்றி மேடைக்கு அருகில் நிறுத்தப்பட்டிருந்தது. அதன் காட்சிகள் அடங்கிய புகைப்படங்களும் அங்கு தொங்கவிடப்பட்டிருந்தது.
 
-எனினும் குறித்து கூட்டத்தின் போது ஏராளமான பொலிஸார் வரவழைக்கப்பட்டு தீவிர பாதுகாப்பு நடவடிக்கைகள் எடுக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது . R
+Sarath Fonseka's campaign meeting in Nuwara Eliya had low attendance. Only 10 people attended, including Fonseka. Security was tight with many police present.
+
+🟩
+
+Sarath Fonseka's campaign meeting was held today (26) at a vehicle located in the main city of Nuwara Eliya.
+
+There were about 10 people, including Fonseka, on the set up stage and the public did not visit the seat in front of the platform.
+
+In addition, when Fonseka was a military commander, the car was loaded with a lorry and parked near the stage.. The photos of its scenes were hung.
+
+However, during the meeting, a large number of police were summoned and serious security measures were taken. Remble
 
 ◼️
 
 [Data](articles/bb0d3e32.json)
+
+[Extended Data](ext_articles/bb0d3e32.ext.json)
 
 ---
 
@@ -78,17 +172,27 @@ However, it has been disappointing that the lack of people attending the meeting
 
 ---
 
-### යළි පෝලිම් යුගයක් ගැන ජනපතිගෙන් අනතුරු ඇඟවීම්
+### President warn about queue eating
 
 *2024-08-26 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200355) · `si`
 
-ජනතාව සජිත්ට හෝ අනුරට බලය ලබා දෙන්නේනම් ලබන වසරේ පෙබරවාරි වන විට නැවතත් පෝලිම් යුගයකට සුදානම් වන්නැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Here's a summary of the text in 200 characters:
 
-නිතීඥ වෘත්තියවේදීන්ගේ හමුවක් අමතමින් ජනාධිපතිවරයා ප්‍රකාශ කළේ ඔවුන් පවසන ආකාරයට IMF ගිවිසුම සංශෝධනය කිරීමට ගියහොත් එවන් ඉරණමක් අත්වන බවය.
+
+
+President Ranil Wickremesinghe warns against giving power to Sajith, saying it could lead to revising the IMF agreement. He emphasizes the importance of maintaining good relations with international organizations like the IMF, World Bank, and ADB. The president criticizes the appointment of officials from the JVP to anti-corruption positions, suggesting they lack proper qualifications.
+
+🟩
+
+President Ranil Wickremesinghe says that if the people are given to Sajith or the other next year, President Ranil Wickremesinghe says.
+
+Addressing a meeting of lawyers, the President stated that if such a fate would lead to a revision of the IMF agreement.
 
 ...
 
 [Data](articles/1e24e429.json)
+
+[Extended Data](ext_articles/1e24e429.ext.json)
 
 ---
 
@@ -433,6 +537,30 @@ The Commanding Officers of the trio of Chinese People’s Liberation Army Navy w
 [Data](articles/cc8e31cb.json)
 
 [Extended Data](ext_articles/cc8e31cb.ext.json)
+
+---
+
+### Colombo wrote an Indian war ship
+
+*2024-08-26 17:32:03* · [`adalk`](https://www.ada.lk/uncategorized/ඉන්දීය-යුද-නැවක්-කොළඹ-වරයාට/1-411569) · `si`
+
+Indian Navy destroyer INS Mumbai visits Colombo port for official tour. Ship measures 163 meters long, commanded by Captain Sandeep Kumar. Scheduled to visit several areas, conduct training exercises with Sri Lanka Navy. Leaves August 29, 2024.
+
+🟩
+
+The Indian Navy's Ins Mumbai arrivals arrived at the Port of Colombo on an official visit.
+
+The Destroyer of the Destroyer, which arrived at the Colombo port, consists of one hundred sixty-three meters (410) and shipping (410). Commander of the ship, Captain Sandeep Kumar (Captain Sandeep Kumar) and Commander of the Western Naval Command Rear Admiral Chinthaka Kumarasinghe was held at the commander (August 26, 204).
+
+The 'Ins Mumbai' war drive is to visit several areas on the time of staying in the country, and the ship's shipping is scheduled to visit Sri Lanka Navy personnel on operational operation.
+
+The 'Ins Member ship' (PASS MUMBBAI) is due to leave the island on August 29, 2024 after the Sri Lanka Navy ship with a training exercise in the Western naval ship.
+
+◼️
+
+[Data](articles/00c982d0.json)
+
+[Extended Data](ext_articles/00c982d0.ext.json)
 
 ---
 
@@ -2463,145 +2591,5 @@ Any major spillover in the fighting, which began in parallel with the war in Gaz
 [Data](articles/1bb9f9bf.json)
 
 [Extended Data](ext_articles/1bb9f9bf.ext.json)
-
----
-
-### Sugathapala Senarath Yapa passes away
-
-*2024-08-26 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200333) · `si`
-
-Sugathapala Senarath Yapa dies at 89. Director of Hanthana Talk, Lovely Muster, and Indus Malmiti.
-
-🟩
-
-Born on November 10, 1935, he was 89 years old at the time of his death.
-
-He has joined the designer director of the Hanthana talk, lovely muster and Indus Malmiti.
-
-◼️
-
-[Data](articles/db753a27.json)
-
-[Extended Data](ext_articles/db753a27.ext.json)
-
----
-
-### Third installment educational activities are beginning today
-
-*2024-08-26 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191976) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Third installment of educational activities starts today. All state and approved private schools resume classes on Monday, March 26th. The previous installment concluded on Friday, March 16th."
-
-🟩
-
-All state and state -approved private schools have been launched on Monday (26) for third installment learning.
-
-The second school installment ended last Friday (16).
-
-◼️
-
-[Data](articles/ae8355de.json)
-
-[Extended Data](ext_articles/ae8355de.ext.json)
-
----
-
-### Schools are back
-
-*2024-08-26 09:20:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகள்-மீண்டும்-ஆரம்பம்/175-342779) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Schools reopen today for third term. State schools and approved private schools resume classes. Second term ends on Friday 16th. First phase runs until Nov 22."
-
-🟩
-
-State schools and state -approved private schools are open today for the third term, the Ministry of Education said.
-
-The second term ended on Friday 16th and the first phase of the third term will be held from today to November 22, the Ministry of Education said.. Remble
-
-◼️
-
-[Data](articles/362e815d.json)
-
-[Extended Data](ext_articles/362e815d.ext.json)
-
----
-
-### The telephone cylinder is not re -era;President
-
-*2024-08-26 09:13:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்-அற்ற-யுகம்-மீண்டும்-வரும்-ஜனாதிபதி/175-342778) · `ta`
-
-Sri Lanka President Ranil Wickremesinghe addresses UNP meeting, discusses economic recovery, IMF assistance, currency strengthening, and tax policies.
-
-🟩
-
-The President pointed out that Sajith Premadasa and Anurakumara Dissanayake are trying to destroy the country in his policy declarations that the tax is reduced and the prices of goods are reduced.
-
-The President pointed out that he wanted to reduce the prices and taxes of goods, however, that he could only do it by strengthening the rupee and acting in accordance with the International Monetary Fund.
-
-In addition, the President requested Sajith Premadasa and Anura Dissanayaka to submit it in negotiations with the IMF immediately.
-
-President Ranil Wickremesinghe made this statement while addressing a meeting of the United National Party (UNP) Special Federation at the party headquarters in Pittagottai.
-
-As a Sri Lankan, I assumed the presidency to defend the country. Is it wrong?I found you standing in rows. At that time I saw people in the queue. I have settled the problems. Without doing that, the JVP and the United People's Power are looking for the curse.
-
-...
-
-[Data](articles/0f160b35.json)
-
-[Extended Data](ext_articles/0f160b35.ext.json)
-
----
-
-### 2024 Presidential Election: Postal Dept. to receive postal vote ballot papers today
-
-*2024-08-26 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101500/2024-presidential-election-postal-dept-to-receive-postal-vote-ballot-papers-today) · `en`
-
-The Postal Department will today (26) receive the reserved packet containing the registered postal vote ballot papers to be distributed to the postal voters of the 2024 presidential election.
-
-Meanwhile, distribution of official polling cards for the forthcoming Presidential Election will commence on September 03, while September 08 (Sunday) has been designated as a special day for polling card distribution.
-
-In the meantime, Deputy Postmaster General Rajitha Ranasinghe had announced yesterday (25) that the leave of all employees of the Department of Posts have been cancelled with immediate effect until the conclusion of the 2024 Presidential Election.
-
-The decision was made to ensure that all election-related responsibilities are adequately managed, he said.
-
-However, any postal worker requiring leave for essential reasons would have to obtain permission from the Deputy Postmaster General in charge of their province, he added.
-
-...
-
-[Data](articles/759c19f4.json)
-
-[Extended Data](ext_articles/759c19f4.ext.json)
-
----
-
-### Yall. Police officer assaulting public
-
-*2024-08-26 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191975) · `ta`
-
-Police officer sacked for assaulting civilian while on duty at liquor bar. Officer attempted bribery and attack on public. Victim filed complaint, officer arrested and released on bail.
-
-🟩
-
-A police officer who was on duty at a liquor bar has been sacked after he assaulted a civilian.
-
-A police officer of Kayts was on duty in the area on Saturday night (24) night.. In the meantime, he tried to bribe the public who went by the road and attacked him.
-
-The victim had lodged a complaint at the Kayts police station. The police officer was arrested by the Kayts police and produced in court.
-
-In this case, the police officer had given permission to go to two bail of one million rupees each. It is also noteworthy that he has been fired.
-
-◼️
-
-[Data](articles/5e4ab919.json)
-
-[Extended Data](ext_articles/5e4ab919.ext.json)
 
 ---

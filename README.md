@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 13:06:38**
+As of **2024-08-26 13:21:19**
 
 ## Newspaper Stats
 
-*Scraped **42,645** Articles*
+*Scraped **42,649** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 394
-colombotelegraphcom | 407
+colombotelegraphcom | 408
 islandlk | 2,483
 economynextcom | 2,575
 dailyftlk | 2,769
@@ -19,18 +19,72 @@ adalk | 3,930
 dailymirrorlk | 4,733
 adaderanalk | 5,012
 tamilmirrorlk | 5,552
-virakesarilk | 6,768
+virakesarilk | 6,771
 adaderanasinhalalk | 7,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,645 (100.0%) of 42,645 articles have been extended.
+42,645 (100.0%) of 42,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### யாழில் கணவனால் தீயிட்டு மனைவி வைத்தியசாலையில் அனுமதி
+
+*2024-08-26 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/192010) · `ta`
+
+யாழ்ப்பாணம் - அச்சுவேலி பகுதியில் குடும்ப பிரச்சினை காரணமாக பெண் ஒருவர் தீயிட்டு எரியூட்டப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+இந்த சம்பவம் நேற்று ஞாயிற்றுக்கிழமை (25) இரவு 11 மணியளவில் இடம் பெற்றுள்ளது.
+
+திருமணம் செய்து 10 வருடங்கள் கடந்த நிலையில் குடும்பத்தில் பிரச்சினை அடிக்கடி இடம் பெற்று வருவதாக தெரிவிக்கப்படும் நிலையில், கணவன் மது போதையில் வீட்டுக்கு வந்து மனைவியுடன் தகராறில் ஈடுபட்ட பின்னர் அறை ஒன்றுக்குள் பூட்டி வைத்து தீயினை மூட்டியதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த சம்பவத்தில் இரண்டு பிள்ளைகளின் தாயான 28 வயதான பெண் எரிகாயங்களுக்கு உள்ளானவராவார்.
+
+காயமடைந்த பெண் அச்சுவேலி பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு  மேலதிக சிகிச்சைக்காக யாழ்  போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+இந்த சம்பவத்தில் கணவன் தப்பி சென்றுள்ள நிலையில் சம்பவம் தொடர்பில் அச்சுவேலி பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/8affc09d.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-26 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/192008) · `ta`
+
+இன்று திங்கட்கிழமை (ஆகஸ்ட் 26) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 295.3731 ரூபாவாகவும், விற்பனை விலை 304.6485 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/a7222831.json)
+
+---
+
+### தமிழர்களின் மொழி உரிமையை அரச நிர்வாகத்தின் ஊடாக உறுதிப்படுத்துவோம் - அநுரகுமார
+
+*2024-08-26 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/192005) · `ta`
+
+தமிழர்களின் மொழி உரிமையை அரச நிர்வாகத்தின் ஊடாக உறுதிப்படுத்துவதுடன் அரச நிர்வாகத்தில் தமிழர் ஒருவர் தமிழ் மொழியில் கேள்வி எழுப்பும் போது அவருக்கு தமிழ் மொழியில் பதிலளிப்பதை கட்டாயமாக்குவோம் என தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+“வளமான நாடு - அழகான வாழ்க்கை” எனும் தொனிப்பொருளில் தேசிய மக்கள் சக்தியின் தேர்தல் விஞ்ஞாபனம் கட்சியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அநுரகுமார திசாநாயக்காவினால் இன்று திங்கட்கிழமை (26) கொழும்பில் வெளியிட்டு வைக்கப்பட்டது.
+
+தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திசாநாயக்க தேர்தல் விஞ்ஞாபனத்தை மத தலைவர்களுக்கு வழங்கிய பின்னர் உரையாற்றுகையிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+
+நிறைவேற்று அதிகார ஜனாதிபதி முறைமைக்கு பதிலாக மாற்று முறைமையை செயற்படுத்தும்.  அனைத்து மக்களுக்கும் சார்பான வகையில் புதிய அரசியலமைப்பு உருவாக்கப்படும்.
+
+சட்டத்தின் முன் அனைவரும் சமம் என்ற சட்டவாட்சி கோட்பாட்டை செயல் வடிவில் அமுல்படுத்துவோம்.
+
+...
+
+[Data](articles/359bbdfd.json)
+
+---
 
 ### Australian employees now have the right to ignore work emails, calls after hours
 
@@ -51,6 +105,40 @@ Supporters say the law gives workers the confidence to stand up against the stea
 [Data](articles/15bd97ce.json)
 
 [Extended Data](ext_articles/15bd97ce.ext.json)
+
+---
+
+### One person killed in IcelandLike magic
+
+*2024-08-26 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191994) · `ta`
+
+Here's a summary of the article in 200 characters:
+
+
+
+Tourist dies in Iceland glacier fall; 2 injured. Group of 25 exploring ice caves when iceberg collapses. One killed instantly, others rescued. Search halted until morning.
+
+🟩
+
+One of the tourists died in the fall of a snowfall in southeastern Iceland and two others were injured.
+
+A group of 25 people visited the Breedamarkurgul Glacier area in the southeastern Iceland on Sunday (25).
+
+The iceberg is part of the Vatnajokul National Park, which is one of Europe's largest national parks, spread over an area of ​​about 5,460 square miles.
+
+The iceberg has fallen when they are exploring the ice caves and valleys in the iceberg.
+
+Four people were affected by the collapse of the snow and two of them were rescued, police said.
+
+One of them died on the spot and the other was taken to Landsbital, the National University Hospital of Iceland.
+
+The rescue crews have stopped the search for the missing persons in the Breedamarkurgul Glacier area until the morning.
+
+◼️
+
+[Data](articles/6d30213e.json)
+
+[Extended Data](ext_articles/6d30213e.ext.json)
 
 ---
 
@@ -103,40 +191,6 @@ The separatists in Baluchistan have often killed workers and others from the cou
 [Data](articles/b645b5ea.json)
 
 [Extended Data](ext_articles/b645b5ea.ext.json)
-
----
-
-### One person killed in IcelandLike magic
-
-*2024-08-26 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191994) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-Tourist dies in Iceland glacier fall; 2 injured. Group of 25 exploring ice caves when iceberg collapses. One killed instantly, others rescued. Search halted until morning.
-
-🟩
-
-One of the tourists died in the fall of a snowfall in southeastern Iceland and two others were injured.
-
-A group of 25 people visited the Breedamarkurgul Glacier area in the southeastern Iceland on Sunday (25).
-
-The iceberg is part of the Vatnajokul National Park, which is one of Europe's largest national parks, spread over an area of ​​about 5,460 square miles.
-
-The iceberg has fallen when they are exploring the ice caves and valleys in the iceberg.
-
-Four people were affected by the collapse of the snow and two of them were rescued, police said.
-
-One of them died on the spot and the other was taken to Landsbital, the National University Hospital of Iceland.
-
-The rescue crews have stopped the search for the missing persons in the Breedamarkurgul Glacier area until the morning.
-
-◼️
-
-[Data](articles/6d30213e.json)
-
-[Extended Data](ext_articles/6d30213e.ext.json)
 
 ---
 
@@ -499,6 +553,12 @@ He says he was very active at his young age and walked every day.
 *2024-08-26 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101507/anura-kumara-unveils-election-manifesto) · `en`
 
 The National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake has unveiled his election manifesto in Colombo, a short while ago.
+
+The event of unveiling the NPP’s election manifesto, titled “A Thriving Nation, A Beautiful Life”, was joined by several dignitaries including the Leader of the NPP, Presidential Candidate Anura Kumara Dissanayake, members of the party and several religious leaders.
+
+Addressing the event, NPP Parliamentarian Harini Amarasuriya stated that although several parties present their manifestos, they act completely against them following their election to the offices.
+
+Furthermore, she said that the NPP is presenting the social contract of their party with the people of the country through the manifesto, and that they will carry out the ruling of the country as per the relevant contract only.
 
 ◼️
 
@@ -1129,6 +1189,18 @@ Showers or thundershowers will occur at several places in Badulla, Ampara and Ba
 [Data](articles/c5f7adf1.json)
 
 [Extended Data](ext_articles/c5f7adf1.ext.json)
+
+---
+
+### Presidential Hopefuls Should Give Top Priority To Make Sri Lanka A Creative Nation – Part III
+
+*2024-08-26 07:10:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-hopefuls-should-give-top-priority-to-make-sri-lanka-a-creative-nation-part-iii/) · `en`
+
+In the previous two parts, we emphasised that if Sri Lanka is to deliver prosperity to its people, economic strategies should be designed to ensure economic growth of above 8% annually over the next 25 years. To attain such a high growth, the country needs to go for new technology which should be borrowed from outside in the short to medium term and develop its own technological base in the long run. To attain this goal, Sri Lanka should use ideas as raw materials and those ideas are generated through the development of the human knowledge base.
+
+...
+
+[Data](articles/e0bb177c.json)
 
 ---
 
@@ -2313,83 +2385,5 @@ The policy statement has been prepared by entering the major aspects of economic
 [Data](articles/1e7a6a1c.json)
 
 [Extended Data](ext_articles/1e7a6a1c.ext.json)
-
----
-
-### President Ranil Wickremesinghe challenged Sajith and Anura
-
-*2024-08-25 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191961) · `ta`
-
-President Ranil Wickremesinghe challenges Sajith Premadasa and Anura Dissanayake to discuss IMF terms publicly. Claims UNP saved country, criticizes opposition parties for economic mismanagement.
-
-🟩
-
-I challenge Sajith Premadasa and Anurakumara Dissanayake to stop lying to the people and come to a public discussion with the International Monetary Fund.
-
-President Ranil Wickremesinghe said that the entire country can recognize the reality of the things they say on stage.
-
-The United National Party Special Federation meeting was held on Sunday (25) at the party headquarters, Sirikotha.
-
-I came forward because the country was falling. If Sri Lanka goes without the United National Party. TS that constructed the United National Party. On the basis of what Senanayake taught us, I offered to protect the country and protect the party as I am not in the country.. These things are not known to those who have gone from us. They do not know the history of the party.
-
-...
-
-[Data](articles/ad79ecf5.json)
-
-[Extended Data](ext_articles/ad79ecf5.ext.json)
-
----
-
-### UN mission is concerned by Afghanistan’s morality law
-
-*2024-08-25 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101494/un-mission-is-concerned-by-afghanistans-morality-law) · `en`
-
-The UN mission in Afghanistan said on Sunday it was “concerned” about a morality law recently ratified by the Taliban authorities, criticising in particular restrictions on women.
-
-The Taliban authorities on Wednesday announced the codification of a law with 35 articles detailing wide-ranging behaviour and lifestyle restrictions based on their strict interpretation of Islamic law.
-
-The law sets out graduated punishments for non-compliance — from verbal warnings to threats, fines and detentions of varying lengths — imposed by the morality police under the Ministry for the Propagation of Virtue and the Prevention of Vice.
-
-“It is a distressing vision for Afghanistan’s future, where moral inspectors have discretionary powers to threaten and detain anyone based on broad and sometimes vague lists of infractions,” said Roza Otunbayeva, head of the UN Assistance Mission in Afghanistan (Unama).
-
-...
-
-[Data](articles/38ac5248.json)
-
-[Extended Data](ext_articles/38ac5248.ext.json)
-
----
-
-### Why Most Current Political Leaders Are Unsuitable For The Presidency
-
-*2024-08-25 18:43:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-most-current-political-leaders-are-unsuitable-for-the-presidency/) · `en`
-
-Sri Lanka has reached a crossroads where it could save for future generations as a prosperous country or become a permanently underdeveloped nation like some debt-ridden African nations. Voters can and must change direction, but they must be educated based on facts. With the declaration of the elections in September 2024, political leaders are playing games to leap forward deceptively, misleading and disregarding voters.
-
-The current political landscape in Sri Lanka is fraught with issues that render the existing politicians unsuitable for the presidency. How can people trust members of parliament who become politicians purely to make money, sell their duty-free car permits, and abuse power? Honesty, integrity, transparency, and following the election promises are essential. None of the current leaders can pass this est. Here are ten more reasons why the current political leaders (and presidential nominees) are unsuitable for running the country.
-
-...
-
-[Data](articles/fd894f9d.json)
-
-[Extended Data](ext_articles/fd894f9d.ext.json)
-
----
-
-### Unraveling
-
-*2024-08-25 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/191953) · `ta`
-
-Summarized: Unraveling policy supports community and national candidate choice. Muslim parties shouldn't pressure voters based on potential presidents.
-
-🟩
-
-Our policy is to vote for our community and the nation's appropriate candidate. The Muslim parties should not push the masses into the mindset of voting that we should be in the team's team on the basis of who can be president.
-
-◼️
-
-[Data](articles/69c6c05b.json)
-
-[Extended Data](ext_articles/69c6c05b.ext.json)
 
 ---

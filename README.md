@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 07:53:10**
+As of **2024-08-26 08:16:32**
 
 ## Newspaper Stats
 
-*Scraped **42,588** Articles*
+*Scraped **42,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 2,769
 adalk | 3,924
 dailymirrorlk | 4,733
 adaderanalk | 4,997
-tamilmirrorlk | 5,543
+tamilmirrorlk | 5,544
 virakesarilk | 6,763
-adaderanasinhalalk | 7,286
+adaderanasinhalalk | 7,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,588 (100.0%) of 42,588 articles have been extended.
+42,588 (100.0%) of 42,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### තැපැල් ඡන්ද පත්‍රිකා ගැන ගත් තීරණය
+
+*2024-08-26 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200329) · `si`
+
+ජනාධිපතිවරණයට අදාළ තැපැල් ඡන්ද දායකයින් සඳහා යොමුකරන ලියාපදිංචි තැපැල් ඡන්ද පත්‍රිකා අඩංගු රක්ෂිත පැකැට්ටු භාර ගැනීමේ කටයුතු අද (26) ආරම්භ කරන බව තැපැල් දෙපාර්තමේන්තුව පවසයි.
+
+2024 ජනාධිපතිවරණයට අදාළ නිළ ඡන්ද දැන්වීම් පත්‍රිකා බෙදාහැරීමේ කටයුතු සැප්තැම්බර් මස 03වන දා සිට ආරම්භ කිරීමට නියමිත අතර සැප්තැම්බර් මස 08වනදා නිළ ඡන්ද දැන්වීම් පත්‍රිකා බෙදා හැරීමේ විශේෂ දිනයක් ලෙස ප්‍රකාශයට පත් කර තිබේ.
+
+මේ හේතුවෙන් ජනාධිපතිවරණය අවසන් වනතුරු තැපැල් දෙපාර්තමේන්තුවේ සියලුම සේවකයින්ගේ නිවාඩු වහාම ක්‍රියාත්මක වන පරිදි අවලංගු කිරීමට පියවර ගෙන ඇති බව ද නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d242dce7.json)
+
+---
+
+### ’50 கிலோ உரத்தை 5 ஆயிரம் ரூபாவுக்கு வழங்க நடவடிக்கை’
+
+*2024-08-26 07:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/50-கிலோ-உரத்தை-5-ஆயிரம்-ரூபாவுக்கு-வழங்க-நடவடிக்கை/175-342768) · `ta`
+
+விவசாயிகளுக்கு தேவையான சிறந்த தரத்திலான 50 கிலோ கிராம் எடையுள்ள  உரம் மூடை ஒன்றை 5000 ரூபாவுக்கு  வழங்குவதற்கு நடவடிக்கை எடுக்கப்படும் எனவும் விவசாய இரசாயன மருந்துகள், உரம் என்பனவற்றுக்கு ஒழுங்கு முறையான விலை நிர்ணயத்தை மேற்கொண்டு, இருட்டடிப்புச் செய்கின்ற வர்த்தகர்களின் விலை அதிகரிப்புக்கு இடமளிக்காது, மக்களால் ஏற்றுக்கொள்ள முடியுமான விலைக்கு பொருட்கள் வழங்கப்படும் என்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பொலன்னறுவை, ஹிங்குராங்கொட பகுதியில் நேற்று (25) இடம்பெற்ற 2024 ஜனாதிபதித் தேர்தலுக்கான ஐக்கிய மக்கள் சக்தியின் பதின்நான்காவது மக்கள் வெற்றிப் பேரணி நிகழ்வில் கலந்துக்கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.   அவர் மேலும் தெரிவிக்கையில்,
+
+...
+
+[Data](articles/b62cc594.json)
+
+---
+
+### දියේ ගිලී සැඟව ගිය ජීවිත
+
+*2024-08-26 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200328) · `si`
+
+ගත වූ පැය 24ක කාලය තුළ දියේ ගිලීමෙන් පුද්ගලයන් දෙදෙනෙකු අතුරුදන්ව තිබේ.
+
+ඒ අනුව කල්පිටිය ඉලුප්පනතිව් දූපතේ නැවතී සිට ධීවර රැකියාවේ නියුතුව සිටි පුද්ගලයෙකු දියේ ගිලී අතුරුදන්ව තිබේ.
+
+අතුරුදන්ව ඇත්තේ වයස අවුරුදු 65ක් වූ ජනසවිපුර, කල්පිටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+කල්පිටිය පොලීසිය හා කල්පිටිය නාවික හමුදා කඳවුරේ නිලධාරීන් අතුරුදන් වූ පුද්ගලයා සොයා විමර්ශන පවත්වයි.
+
+මේ අතර මාරවිල පොලිස් වසමේ කුරුස පල්ලිය අසල මුහුදේ දිය නාමින් සිටි තරුණයෙකු රළ පහරට හසුවී දියේ ගිලී අතුරුදන්ව තිබේ.
+
+අදාළ තරුණයා තවත් පුද්ගලයින් කිහිපදෙනෙකු සමග මුහුදේ දිය නාමින් සිටිය දී මෙලෙස රළ පරහට හසුව ඇති අතර ඉන් එක් තරුණයෙකු ප්‍රදේශවාසීන් විසින් බේරාගෙන ඇත.
+
+◼️
+
+[Data](articles/5fb33c0a.json)
+
+---
 
 ### How to spend the tax paid tax
 
@@ -57,6 +109,20 @@ If he learns what happened to the tax he paid, no one will miss the tax payable.
 [Data](articles/15db581c.json)
 
 [Extended Data](ext_articles/15db581c.ext.json)
+
+---
+
+### තෙවන පාසල් වාරය අද සිට
+
+*2024-08-26 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200327) · `si`
+
+රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල් වාරය අද (26) ආරම්භ වන බව අධ්‍යාපන අමාත්‍යාංශය දැනුම් දී තිබේ.
+
+ඒ අනුව තෙවන පාසල් වාරයේ පළමු අදියර අද සිට නොවැම්බර් 22 වනදා දක්වා ක්‍රියාත්මක වන බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ad9edab0.json)
 
 ---
 
@@ -149,6 +215,24 @@ He said they should look at how they would respond to amendments to the Sri Lank
 [Data](articles/4b4ed1ba.json)
 
 [Extended Data](ext_articles/4b4ed1ba.ext.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-08-26 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200326) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බදුල්ල, අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/9411c01c.json)
 
 ---
 
@@ -2127,101 +2211,5 @@ Postal voting for military and public servants will be held on September 05 and 
 [Data](articles/8d704411.json)
 
 [Extended Data](ext_articles/8d704411.ext.json)
-
----
-
-### MUC. The National Campaign Secretary suspended
-
-*2024-08-25 12:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-தேசிய-பிரசார-செயலாளர்-இடைநிறுத்தம்/175-342742) · `ta`
-
-Sri Lanka Muslim Congress suspends member Mubin for supporting President Wickremesinghe.
-
-🟩
-
-ULMN, a member of the Sri Lanka Muslim Congress Party and the party's national policy spread secretary. The party's secretary general Nizam Kariyapper has announced that the Mubin party has been suspended from the membership of the party.
-
-Secretary Nisam Kariyapper said that a letter of explanation for disciplinary action against him has been sent.
-
-Nissam Kariyapar added that Mubin, who was suspended from the party, should be sent to the party within a week on the instructions of President Rauf Hakeem, as he publicly supports President Ranil Wickremesinghe in the presidential election in violation of the decision of our Muslim Congress party.
-
-◼️
-
-[Data](articles/61422a0f.json)
-
-[Extended Data](ext_articles/61422a0f.ext.json)
-
----
-
-### Israel declares 48-hour emergency as Hezbollah announces “large-scale” attacks
-
-*2024-08-25 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101486/israel-declares-48-hour-emergency-as-hezbollah-announces-large-scale-attacks) · `en`
-
-Defence Minister Yoav Gallant announced a 48-hour nationwide state of emergency from 06:00 am (0300 GMT) Sunday after the Israeli military launched what it called pre-emptive strikes in Lebanon.
-
-“The declaration on the state of emergency enables the IDF (Israeli military) to issue instructions to the citizens of Israel, including limiting gatherings and closing sites where it may be relevant,” Gallant said, in a statement issued by his office.
-
-Lebanon-based Hezbollah announced on Sunday large-scale rocket and drone launches towards Israel in an “initial response” to a top commander’s killing, after Israel’s military said it was carrying out a series of pre-emptive strikes against the group.
-
-...
-
-[Data](articles/f9c88bcd.json)
-
-[Extended Data](ext_articles/f9c88bcd.ext.json)
-
----
-
-### Is India the power to decide?
-
-*2024-08-25 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191908) · `ta`
-
-India's influence on global politics grows as ambassador meets parliamentarians, fostering alliances to shape desired political landscape.
-
-🟩
-
-The Indian Ambassador met with the parliamentarians and alliances of the divided parties- it is seen to be aimed at creating a political environment that India wants ...
-
-◼️
-
-[Data](articles/6e45043c.json)
-
-[Extended Data](ext_articles/6e45043c.ext.json)
-
----
-
-### 10 transport associations including LPBOA back President Ranil for re-election
-
-*2024-08-25 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101485/10-transport-associations-including-lpboa-back-president-ranil-for-re-election) · `en`
-
-Ten major transport associations, including the Lanka Private Bus Owners Association (LPBOA), have pledged their support to President Ranil Wickremesinghe for the upcoming presidential election.
-
-This announcement was made during a meeting held on Saturday (23) evening at President’s campaign office in Flower Road, Colombo 07, where President Wickremesinghe was joined by Gemunu Wijeratne, Chairman of the LPBOA, and other association heads and representatives.
-
-The transport sector representatives emphasized their desire to avoid a recurrence of fuel shortages, which had previously hampered their ability to operate effectively. They highlighted the hardships experienced due to fuel scarcity and expressed their appreciation for President Wickremesinghe’s efforts in stabilizing the economy over the past two years.
-
-...
-
-[Data](articles/f18b0e99.json)
-
-[Extended Data](ext_articles/f18b0e99.ext.json)
-
----
-
-### Israel declares urgency
-
-*2024-08-25 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200301) · `si`
-
-Israel declares state of emergency due to Hezbollah attack on Lebanon.
-
-🟩
-
-Israel has published a state of emergency throughout the 48 hour country.
-
-The Hezbollah was bowed by a large scale attack on Israel based on that lebanon.
-
-◼️
-
-[Data](articles/13c5d150.json)
-
-[Extended Data](ext_articles/13c5d150.ext.json)
 
 ---

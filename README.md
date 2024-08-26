@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 11:57:00**
+As of **2024-08-26 12:11:09**
 
 ## Newspaper Stats
 
-*Scraped **42,630** Articles*
+*Scraped **42,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ newsfirstlk | 363
 bbccomsinhala | 393
 colombotelegraphcom | 407
 islandlk | 2,483
-economynextcom | 2,572
+economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,930
 dailymirrorlk | 4,733
 adaderanalk | 5,008
-tamilmirrorlk | 5,549
+tamilmirrorlk | 5,550
 virakesarilk | 6,766
 adaderanasinhalalk | 7,299
 
@@ -26,25 +26,71 @@ adaderanasinhalalk | 7,299
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,626 (100.0%) of 42,630 articles have been extended.
+42,627 (100.0%) of 42,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### சுயேட்சையாக போட்டியிட ரணிலுக்கு ஐ.தே.க அனுமதி
+### பாகிஸ்தானில் தீவிரவாத தாக்குதலில்  23 பேர் உயிரிழப்பு
+
+*2024-08-26 11:48:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-தீவிரவாத-தாக்குதலில்-23-பேர்-உயிரிழப்பு/50-342796) · `ta`
+
+தொழிலாளர்களை ஏற்றிச் சென்ற பேருந்தை வழிமறித்து அதில் இருந்தவர்கள் மீது சரமாரி துப்பாக்கிச்சூடு நடத்தப்பட்டது.
+
+இத்தாக்குதலில் 23 தொழிலாளர்கள் உயிரிழந்த நிலையில் 5 பேர் படுகாயமடைந்து மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.S
+
+◼️
+
+[Data](articles/b55ec04c.json)
+
+---
+
+### UNP permits Ranil to contest independently
 
 *2024-08-26 11:31:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுயேட்சையாக-போட்டியிட-ரணிலுக்கு-ஐ-தே-க-அனுமதி/175-342795) · `ta`
 
-இனியும் மக்களுக்கு பொய் சொல்லிக் கொண்டிருக்காமல் சர்வதேச நாணய நிதியத்துடன் இணைய மூலம் பகிரங்கமான கலந்துரையாடல் ஒன்றுக்கு வருமாறு சஜித் பிரேமதாச மற்றும் அனுரகுமார திஸாநாயக்க ஆகியோருக்கு சவால் விடுப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+This appears to be a political speech or statement from a politician in Sri Lanka, specifically addressing economic challenges and policies under President Ranil Wickremesinghe. The text includes references to:
 
-இதன் ஊடாக, மேடைகளில் அவர்கள் சொல்லும் விடயங்களில் உள்ள உண்மைத் தன்மையை மக்களால் கண்டு கொள்ள முடியும் எனவும் ஜனாதிபதி தெரிவித்தார்.
 
-சர்வதேச நாணய நிதியத்துடனான உடன்படிக்கையை மாற்றுவதற்கான சாத்தியக்கூறுகள் இல்லை எனவும், அவ்வாறு நடந்தால் நாட்டின் பொருளாதாரம் மீண்டும் வீழ்ச்சியடையும் எனவும் தெரிவித்த ஜனாதிபதி, வரிகளை குறைப்பதாகவும் பொருட்களின் விலைகளை குறைப்பதாகவும் தமது கொள்கைப் பிரகடனங்களில் சஜித் பிரேமதாசவும், அனுரகுமார திஸாநாயக்கவும் மக்களை ஏமாற்றி நாட்டை நாசமாக்க முயற்சிப்பதாகவும், இதனைத் தடுத்து நிறுத்த வேண்டும் எனவும்  ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+1. Economic reforms and agreements with international financial institutions like the IMF
+
+2. Tax increases and fee adjustments
+
+3. Opposition criticism of price reductions
+
+4. Efforts to stabilize the currency (rupee)
+
+5. Criticism of past economic decisions
+
+6. References to other political figures like Gotabhaya Rajapakse and Mahinda Rajapakse
+
+7. Mention of upcoming elections and party support
+
+
+
+The speech seems to be defending the current government's economic policies and criticizing opposition claims about reducing taxes and prices. It emphasizes the challenges faced in stabilizing the economy and securing international funding agreements.
+
+
+
+Is there anything specific you'd like me to analyze further about this text?
+
+🟩
+
+President Ranil Wickremesinghe said he would challenge Sajith Premadasa and Anurakumara Dissanayake to come up with an open discussion with the International Monetary Fund without any further lying to the people.
+
+Through this, the President said that the people can find the truth in the stages they say on the platforms.
+
+The president said that there was no possibility of changing the agreement with the IMF and that if that happened, the country's economy would fall again, the president would reduce taxes and reduce the prices of goods and to deceive the people in his policy declarations.
+
+The President pointed out that he wanted to reduce the prices and taxes of goods, however, that he could only do it by strengthening the rupee and acting in accordance with the International Monetary Fund.. In addition, the President requested Sajith Premadasa and Anura Dissanayaka to submit it in negotiations with the IMF immediately.
 
 ...
 
 [Data](articles/a72a0d82.json)
+
+[Extended Data](ext_articles/a72a0d82.ext.json)
 
 ---
 
@@ -153,6 +199,24 @@ The election manifesto also states that a new constitution will be created in fa
 [Data](articles/41e268da.json)
 
 [Extended Data](ext_articles/41e268da.ext.json)
+
+---
+
+### Sri Lanka seeks stronger ties with Central Asian countries
+
+*2024-08-26 10:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-stronger-ties-with-central-asian-countries-178032/) · `en`
+
+ECONOMYNEXT – Sri Lanka is exploring opportunities in the Central Asia region with a focus on economic diplomacy, its Ministry of Foreign Affairs said.
+
+The ministry, together with the Geopolitical Cartographer, hosted the Central Asia Forum 2024 last week which explored “the potential for future cooperation between Sri Lanka and Central Asia, a region with increasing geopolitical and geo-economic significance” it said in a statement.
+
+“The success story of Sri Lanka’s pioneering investment by LOLC in Central Asia, in the financial services sector, provided useful insights into entering the Central Asian market and building a competitive business in a hitherto unexplored region,” the ministry said.
+
+Sri Lankan conglomerate LOLC Holdings operates in Tajikistan, Kazakhstan, and Kyrgyzstan.
+
+...
+
+[Data](articles/15334beb.json)
 
 ---
 
@@ -353,6 +417,28 @@ He was highly regarded for his contributions as the creative director behind num
 [Data](articles/77aa363a.json)
 
 [Extended Data](ext_articles/77aa363a.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 299.75/300.50 to US dollar
+
+*2024-08-26 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-299-75-300-50-to-us-dollar-178026/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 299.75/300.50 to the US dollar on Monday, dealers said. Bond yields were down, they said, and stocks opened down 0.02 percent.
+
+The rupee closed at 299.70/300.00 to the greenback on Friday.
+
+In the secondary market, bonds were down, dealers said. Of the actively traded bonds;
+
+A bond maturing on 01.07.2028 was quoted at 12.45/55 percent, down from 12.45/60 percent.
+
+A bond maturing on 15.06.2029 was quoted at 12.70/80 percent, down from 12.80/95 percent.
+
+In equities, Colombo’s All Share Price Index opened 2.15 points lower at 11,363, while the S&P SL20 of more liquid stocks opened down at 0.18 percent or 5.90 points to 3,248.
+
+◼️
+
+[Data](articles/e42c6dff.json)
 
 ---
 
@@ -911,6 +997,26 @@ He said they should look at how they would respond to amendments to the Sri Lank
 [Data](articles/4b4ed1ba.json)
 
 [Extended Data](ext_articles/4b4ed1ba.ext.json)
+
+---
+
+### Sri Lanka budget deficit down 52-pct in June, taxes up 42-pct
+
+*2024-08-26 06:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-52-pct-in-june-taxes-up-42-pct-177991/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s budget deficit plunged 52 percent to 515.7 billion rupees in the six months to June 2024 while revenues went up 42 percent to 1,860.6 billion rupees, interim budget data shows.
+
+Tax revenues were up 43 percent to 1,709.3 billion rupees, with non-tax revenues up 30 percent to 151.3 billion rupees.
+
+Current spending was down absolutely by 5 percent to 2,218.4 billion rupees, held by good monetary policy of the central bank which kept the exchange rate stable and allowed interest rates to come down.
+
+The current account of the budget (total revenues less current spending) was down to 357.8 billion rupees in the 2024 half year, from 1,010 billion rupees last year.
+
+There are however looming state worker wage hikes which will push current spending up, unless the public sector, bloated by unemployed graduates, is reduced by attrition over time, to levels that the citizens can afford.
+
+...
+
+[Data](articles/aded45da.json)
 
 ---
 
@@ -2109,109 +2215,5 @@ Despite the initiative, some residents have reportedly expressed opposition to t
 [Data](articles/b8e16aae.json)
 
 [Extended Data](ext_articles/b8e16aae.ext.json)
-
----
-
-### Invite 12 representatives to monitor the election
-
-*2024-08-25 17:58:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலைக்-கண்காணிக்க-12-நாட்டு-பிரதிநிதிகளுக்கு-அழைப்பு/175-342756) · `ta`
-
-National Election Commission invites 12 international observers: India, Nepal, Bangladesh, Pakistan, Maldives, Commonwealth Health Inspectors, Asian Election Monitoring Network, EU monitors.
-
-🟩
-
-The National Election Commission has announced that representatives of 12 countries have been invited to monitor the presidential election in 2024.
-
-The Chairman of the Elections Commission, RMAL Ratnayake, said that these representatives include those from India, Nepal, Bangladesh, Pakistan and the Maldives.
-
-He added that the Commonwealth Health Inspectors and representatives of the Asian Election Monitoring Network were visiting the election to observe the election.
-
-The Chairman of the Election Commission said that the EU (EU) election monitors have already come to Sri Lanka.
-
-He said that the responsibility of monitoring all the election activities, including voting measures, has been given to the International Inspector and they will issue a detailed report after the voting is over.
-
-◼️
-
-[Data](articles/e4c952be.json)
-
-[Extended Data](ext_articles/e4c952be.ext.json)
-
----
-
-### Call to representatives of 12 countries
-
-*2024-08-25 17:58:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-நாடுகளின்-பிரதிநிதிகளுக்கு-அழைப்பு/175-342756) · `ta`
-
-National Election Commission invites 12 country reps to monitor 2024 presidential election. Includes India, Nepal, Bangladesh, Pakistan, Maldives. Commonwealth Health Inspectors and Asian Election Monitoring Network also attending. EU monitors already present. International Inspector responsible for overall monitoring and issuing final report.
-
-🟩
-
-The National Election Commission has announced that representatives of 12 countries have been invited to monitor the presidential election in 2024.
-
-The Chairman of the Elections Commission, RMAL Ratnayake, said that these representatives include those from India, Nepal, Bangladesh, Pakistan and the Maldives.
-
-He added that the Commonwealth Health Inspectors and representatives of the Asian Election Monitoring Network were visiting the election to observe the election.
-
-The Chairman of the Election Commission said that the EU (EU) election monitors have already come to Sri Lanka.
-
-He said that the responsibility of monitoring all the election activities, including voting measures, has been given to the International Inspector and they will issue a detailed report after the voting is over.
-
-◼️
-
-[Data](articles/f64ed2f7.json)
-
-[Extended Data](ext_articles/f64ed2f7.ext.json)
-
----
-
-### Basic level experiments of the garbage project
-
-*2024-08-25 17:53:54* · [`adalk`](https://www.ada.lk/breaking_news/ආරුවක්කාලු-කසළ-ව්‍යාපෘතියේ-මූලික-මට්ටමේ-අත්හදා-බැලීම්-සිදුකරයි/11-411546) · `si`
-
-Garbage project summary: Basic level experiments conducted; modern technology used; no environmental impact; urban development ministry involved; aims to solve municipal solid waste disposal issue.
-
-🟩
-
-The first level of garbage landing, garbage and garbage facility were carried out this morning (25), the Director of the Project Director, said that the basic level of garbage and garbage facility were conducted today (25).
-
-The director emphasized that this project is maximum of modern technology.
-
-He added that the archakalu garbage project will not affect the average lives or the environment.
-
-Urban Development and Housing Urban Development and Housing Ministry "Colombo launched in 2017.
-
-The garbage project is implementing the need for a hygiene garbage in order to solve the problem of disposal of municipal solid waste disposal problem.
-
-Accordingly, a daily innion collector will be transported to the Puttalam and 170 miles [170 km] from the end of 1700 miles [170 km] from Kelaniya, Weikawari.
-
-The sanitary casses of the archial center will be excluded next after landfilling center.
-
-◼️
-
-[Data](articles/212341a6.json)
-
-[Extended Data](ext_articles/212341a6.ext.json)
-
----
-
-### General Candidate - Angaranesan
-
-*2024-08-25 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/191930) · `ta`
-
-Tamil nationalism dismantled post-war. General candidate aims to reunite Tamils. Presidential election strategy.
-
-🟩
-
-The Tamil people, who had gathered in the nation with the Tamil nationalist sentiment until the end of the war, were scattered after the war. Tamil nationalism is being dismantled by the state's planned agenda. The leader of the Tamil National Green Movement. Said Aingaranesan.
-
-In view of this, the Tamil general candidate has been deployed in the presidential election with the aim of reuniting the Tamil people as a nation and expressing political aspirations in one voice.He also pointed out that this decision was a command of the period.
-
-Ba, who contested the presidential election as a Tamil general candidate. A discussion between Ariyanethran and the chiefs of the Cooperative Organization was held yesterday (24) at the Divya Jeevan Hall in Nallur. As the speech,. Aingeranesan has pointed out so.
-
-...
-
-[Data](articles/9447d115.json)
-
-[Extended Data](ext_articles/9447d115.ext.json)
 
 ---

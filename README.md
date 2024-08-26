@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 04:37:46**
+As of **2024-08-27 04:55:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,756 (100.0%) of 42,757 articles have been extended.
+42,757 (100.0%) of 42,757 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -196,19 +196,33 @@ He also said that these three companies have earned the highest income in histor
 
 ---
 
-### ’24 மாதங்களில் வறுமை ஒழிப்பு’
+### Poverty Eradication in24 Months
 
 *2024-08-27 01:37:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மாதங்களில்-வறுமை-ஒழிப்பு/175-342838) · `ta`
 
-பெண்களுக்கு முதலிடம் கொடுத்து மாதாந்தம் 20000 ரூபாய் வழங்கி, 24 மாதங்களில் வறுமையை ஒழிக்கும் புதிய வேலைத்திட்டம் முன்னெடுக்கப்படும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-நாட்டை வங்குரோத்து அடைய செய்த  தற்போதைய அரசாங்கத்தில் உள்ள  தலைவர்களின் விவேகமற்ற,  அக்கறையில்லாத கொள்கைகளினால்  இலட்சக்கணக்கானோர் வறுமைக்கு உள்ளாகி இருக்கின்றார்கள். அவர்கள்  வறுமையில் சிக்கி எல்லையற்ற அளவில்  அசாதாரண நிலைக்கு தள்ளப்பட்டு இருக்கின்றனர் என்றார்.
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் தலைமையில் கந்தளாய், சேருவில நகரில் திங்கட்கிழமை (26) முற்பகல் நடைபெற்ற ஜனாதிபதி தேர்தல் பிரசாரக் கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+Sajith Premadasa proposes 24-month poverty eradication plan targeting women. Criticizes current government policies causing widespread poverty. Promises improved support through existing programs like Janasavi and Samurdhi. Aims to make Sri Lanka a self-sufficient society free from poverty.
+
+🟩
+
+Opposition Leader Sajith Premadasa said that a new program to eradicate poverty will be carried out in 24 months by giving women the first place to women.
+
+Hundreds of thousands of people are in poverty due to the unwise and indispensable policies of the leaders in the current government that has become a bankruptcy.. He said they are trapped in poverty and are infinitely abnormal.
+
+He was speaking at the presidential election campaign meeting held at Kandalai, Seruwila, headed by Opposition Leader Sajith Premadasa on Monday (26).
+
+He also said that the best things in the Janasavi, Samurdhi, Aswasuma and Kemidiriya programs for the poor people who cannot get three meals every day without the way of life without the way of life.
+
+. Opposition Leader Sajith Premadasa said that considering issues such as food, non -food requirements, storage, consumption, investment, production, and export, will provide a monthly program of poverty and eradication of poverty in 24 months.
 
 ...
 
 [Data](articles/0f234933.json)
+
+[Extended Data](ext_articles/0f234933.ext.json)
 
 ---
 

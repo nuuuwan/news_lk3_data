@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 09:21:33**
+As of **2024-08-26 09:36:53**
 
 ## Newspaper Stats
 
-*Scraped **42,600** Articles*
+*Scraped **42,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,769
 adalk | 3,926
 dailymirrorlk | 4,733
 adaderanalk | 4,999
-tamilmirrorlk | 5,545
+tamilmirrorlk | 5,546
 virakesarilk | 6,763
 adaderanasinhalalk | 7,291
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,600 (100.0%) of 42,600 articles have been extended.
+42,600 (100.0%) of 42,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### ’சிலிண்டர் அற்ற யுகம் மீண்டும் வரும்’ ; ஜனாதிபதி
+
+*2024-08-26 09:13:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்-அற்ற-யுகம்-மீண்டும்-வரும்-ஜனாதிபதி/175-342778) · `ta`
+
+வரிகளை குறைப்பதாகவும் பொருட்களின் விலைகளை குறைப்பதாகவும் தமது கொள்கைப் பிரகடனங்களில் சஜித் பிரேமதாசவும், அனுரகுமார திஸாநாயக்கவும் மக்களை ஏமாற்றி நாட்டை நாசமாக்க முயற்சிப்பதாக ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+பொருட்களின் விலைகளையும் வரிகளையும் குறைக்க தானும் விரும்புவதாகவும், எனினும், ரூபாயை பலப்படுத்தி, சர்வதேச நாணய நிதியத்துடனான ஒப்பந்தத்தின் பிரகாரம் செயற்படுவதன் மூலம் மாத்திரமே தன்னால் அதனைச் செய்ய முடியும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+அதனைத் தவிர வேறு மாற்றுவழி இருந்தால் உடனடியாக ஐ.எம்.எப் உடன் நடத்தும் பேச்சுவார்த்தையில் அதனை சமர்ப்பித்து கருத்தரிந்து கொள்ளுமாறு சஜித் பிரேமதாஸவிடமும் அநுர திசானாயக்கவிடமும் ஜனாதிபதி கோரிக்கை விடுத்தார்.
+
+பிட்டகோட்டையில் அமைந்துள்ள கட்சியின் தலைமையகமான சிறிகொத்தவில் இன்று பிற்பகல் (25) நடைபெற்ற ஐக்கிய தேசியக் கட்சியின் விசேட சம்மேளனக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/0f160b35.json)
+
+---
 
 ### Third school term begins today
 
@@ -2197,33 +2215,5 @@ However, any postal worker requiring leave for essential reasons would have to o
 [Data](articles/2ddc336e.json)
 
 [Extended Data](ext_articles/2ddc336e.ext.json)
-
----
-
-### There is no need to begged;If I forget party control, I will have to be caught - Rauf Hakeem
-
-*2024-08-25 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191923) · `ta`
-
-Rauf Hakeem warns against forgetting party control, threatens disciplinary action for those who undermine party decisions.
-
-🟩
-
-Sri Lanka Muslim Congress leader Rauf Hakeem said that after the Muslim Congress decided to win Sajith Pramadasa as president, there would be no one to play in it.
-
-We support Sajith Pramadasa with many reasons for the community. Sri Lanka Muslim Congress is a strong party. We will not hesitate to throw those who are not obliged.
-
-Also, Rauf Hakeem further stated that a journalist asked about MP Haris.
-
-I will be very tight on those who walk to replace the party's resolution. My love and affection have a quantity. If I forget party control over the size, I will have to take the cane hard.
-
-Member of Parliament Haris has given a reason for the delay in the truth. It was only by submitting it to the Supreme Faculty that we thought of his suspension. He is guaranteed to engage in party activities. Let me tell you too tight. I am not ready to be afraid of anyone anymore.
-
-The next step is how the party leadership will give the recognition of their politics in this election.
-
-...
-
-[Data](articles/f7972afb.json)
-
-[Extended Data](ext_articles/f7972afb.ext.json)
 
 ---

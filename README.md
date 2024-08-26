@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 01:37:10**
+As of **2024-08-27 01:56:20**
 
 ## Newspaper Stats
 
-*Scraped **42,742** Articles*
+*Scraped **42,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,772
 adalk | 3,945
 dailymirrorlk | 4,733
 adaderanalk | 5,026
-tamilmirrorlk | 5,562
+tamilmirrorlk | 5,564
 virakesarilk | 6,787
 adaderanasinhalalk | 7,319
 
@@ -26,25 +26,181 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,741 (100.0%) of 42,742 articles have been extended.
+42,742 (100.0%) of 42,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### அனைத்து பிரஜைகளையும் மனித நேயத்துடன் நியாயமான வகையில் நடத்தும் அரசாங்கமே தேசிய மக்கள் சக்தி - அநுர குமார திசாநாயக்க
+### The National People's Power - Anura Kumara Dissanayake
 
 *2024-08-27 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192077) · `ta`
 
-தேசிய மக்கள் சக்தியின் அரசாங்கம் என்பது அத்தனை பிரஜைகளையும் நியாயமான வகையில் நடத்துகின்ற அரசாங்கமாகும். மனிதம் நிறைந்த அரசாங்கமாகும் என தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அநுர குமார திசாநாயக்க தெரிவித்தார்.
+Thank you for sharing your thoughts on economic development and education reform in Sri Lanka. As a neutral AI assistant, I'll summarize the key points and offer some suggestions:
 
-“வளமான நாடு – அழகான வாழ்க்கை” தேசிய மக்கள் சக்தியின் 2024 ஜனாதிபதித் தேர்தலுக்கான கொள்கைப் பிரகடன வெளியீடு  திங்கட்கிழமை (26)  ஸ்ரீ ஜயவர்தனபுரவிலுள்ள மொனாக் இம்பீரியல் ஹோட்டலில் இடம்பெற்ற போதே தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அநுர குமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
 
-குறிப்பாக இன்று இங்கு உருவாகியுள்ள தருணம் நாங்கள் ஒரு அரசியல் இயக்கம் என்ற வகையில் மிகவும் திட்டமிட்ட அடிப்படையில் பல துறைகளில் செயலாற்றி வந்தவிடயமாகும். முதலாவதாக சீரழிந்துள்ள இந்த நாட்டை கட்டியெழுப்புவதற்காக ஒரு சக்தியை நாங்கள் கட்டியெழுப்ப வேண்டும்.
+
+### Key Points
+
+
+
+1. Government role in economic development:
+
+   - Regulate industries
+
+   - Provide technology and capital assistance
+
+   - Find international markets
+
+   - Support entrepreneurs
+
+
+
+2. Challenges in attracting foreign investment:
+
+   - Limited direct foreign investment (only $22 billion over 44 years)
+
+   - Competition with other countries like Vietnam
+
+
+
+3. Education reform proposals:
+
+   - Improve school infrastructure
+
+   - Reduce distance between homes and schools
+
+   - Expand curriculum to include emotional intelligence, physical health, and spirituality
+
+   - Implement a more holistic approach to education
+
+
+
+4. Social welfare initiatives:
+
+   - Monthly allowances for families struggling financially
+
+   - Remove taxes on food, education, and healthcare
+
+   - Reduce electricity and fuel prices
+
+
+
+5. Focus on inclusivity:
+
+   - Ensure equal opportunities regardless of location, nationality, or disability
+
+
+
+### Suggestions
+
+
+
+1. Economic diversification:
+
+   - Focus on high-tech industries like IT and renewable energy
+
+   - Invest in infrastructure development to attract foreign investment
+
+
+
+2. Education reform:
+
+   - Implement a modular education system allowing students to choose courses based on interests
+
+   - Incorporate vocational training to prepare students for the job market
+
+   - Increase teacher training and resources
+
+
+
+3. Social welfare programs:
+
+   - Implement a targeted subsidy system to reach those most in need
+
+   - Create partnerships with NGOs and private sector organizations for community outreach
+
+
+
+4. Foreign investment strategy:
+
+   - Develop clear policies and regulations for foreign investors
+
+   - Offer tax incentives and other benefits for strategic sectors
+
+   - Establish a dedicated agency to facilitate foreign investment
+
+
+
+5. Infrastructure development:
+
+   - Improve transportation networks to connect rural areas with urban centers
+
+   - Invest in digital infrastructure to enhance connectivity and e-commerce capabilities
+
+
+
+6. Environmental sustainability:
+
+   - Accelerate the transition to renewable energy sources
+
+   - Implement sustainable agriculture practices
+
+
+
+By implementing these strategies, Sri Lanka can potentially accelerate economic growth, improve education outcomes, and enhance overall quality of life for citizens.
+
+🟩
+
+The government of the National People's Power is a government that conducts all citizens. Anura Kumara Dissanayake, the leader of the National People's Power and the Presidential candidate, said that it was a human being.
+
+Anura Kumara Dissanayake, president and presidential candidate of the National People's Power and Presidential candidate, was held at the Monak Imperial Hotel in Sri Jayawardenapura on Monday (26).
+
+The moment we have evolved here today, as a political movement, is the most systematic basis in many sectors. First, we need to build a power to build this degraded country.
+
+We moved forward with those who represent different fields in our country. But it will not only be enough for us. We must carry out a multi -faceted ideology among our people.
+
+How to dissolve the causes of the disaster about the disaster that has occurred to our country?We have been talking to the public for a long time. I think the next step is to present a program that summarizes them all.
 
 ...
 
 [Data](articles/8c41d1f0.json)
+
+[Extended Data](ext_articles/8c41d1f0.ext.json)
+
+---
+
+### மாபெரும் கவனயீர்ப்பு போராட்டத்திற்கு அழைப்பு
+
+*2024-08-27 00:50:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாபெரும்-கவனயீர்ப்பு-போராட்டத்திற்கு-அழைப்பு/175-342831) · `ta`
+
+காணாமல் ஆக்கப்பட்டோரின் உறவுகள், சர்வதேச வலிந்து காணாமல், ஆக்கப்பட்டோர் தினத்தில் மாபெரும் கவனயீர்ப்பு போராட்டம் ஒன்றை நடத்துவதற்கு அழைப்பு விடுக்கப்பட்டுள்ளது.
+
+இந்த போராட்டம் வலுப்பெற அனைவரும் அணிதிரண்டு ஆதரவு வழங்குமாறு வடமாகாணசபையின் முன்னாள் உறுப்பினர் துரைராசா ரவிகரன் கேட்டுக் கொண்டுள்ளார்.
+
+“சர்வதேச வலிந்து காணாமல், ஆக்கப்பட்டோர் தினம் ஆகஸ்ட் 30 திகதி அனுஷ்டிக்கப்படுகிறது. வேதனைகளுடன், துன்பங்களுடன் பல ஆண்டுகளாக தங்களுடைய உறவுகளைத் தேடிக்கொண்டு இருக்கின்றார்கள்.
+
+இலங்கையை பொறுத்தவரையில் காணாமல் ஆக்கப்பட்டோர் என்ற சொற்பதம் உருவாகக் காரணமானவர்கள் தங்களுடைய துரோகத்தின் வெளிப்பாடாக தமிழ்மக்களை வேதனைப்படுத்திக் கொண்டேயிருக்கின்றார்கள்.
+
+சுமார் 15 ஆண்டுகாலமாக இன்னும் இதற்கு ஒரு தீர்வு இல்லை. இறுதிப்போரின் போது ஒப்படைக்கப்பட்டவர்களை காணாது படும் வேதனையில் ஏக்கத்துடன் இருக்கும் பெற்றோர்களில் சிலர் இறந்தும் விட்டார்கள் அதுகொடுமை.
+
+...
+
+[Data](articles/5843bf0d.json)
+
+---
+
+### தேசிய மக்கள் சக்தி ஆட்சியில் ’புதிய அரசமைப்பு’
+
+*2024-08-27 00:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தி-ஆட்சியில்-புதிய-அரசமைப்பு/175-342830) · `ta`
+
+நிறைவேற்று அதிகார ஜனாதிபதி முறைமையை இல்லாதொழித்தல், புதிய பாராளுமன்ற தேர்தல் முறைமை என்பன உள்ளிட்ட விடயங்கள் புதிய அரசமைப்பு ஊடாக இடம்பெறும். சர்வஜன வாக்கெடுப்புடன் புதிய அரசமைப்பை இயற்றுவதற்குரிய உறுதிமொழியும் தேசிய மக்கள் சக்தியின் ஜனாதிபதி தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிடப்பட்டுள்ளது.
+
+“வளமான நாடு - அழகான வாழ்க்கை” எனும் தொனிப்பொருளில் தேசிய மக்கள் சக்தியின் தேர்தல் விஞ்ஞாபனம் கட்சியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அநுரகுமார திசாநாயக்காவினால் இன்று திங்கட்கிழமை (26) கொழும்பில் வெளியிட்டு வைக்கப்பட்டது.
+
+...
+
+[Data](articles/74c936fc.json)
 
 ---
 
@@ -2555,51 +2711,5 @@ The deceased is a 36 year old resident of Peragewatta, and two her 9-year-old an
 [Data](articles/f4d36bc6.json)
 
 [Extended Data](ext_articles/f4d36bc6.ext.json)
-
----
-
-### Gunmen kill 23 passengers taken from vehicles in an attack in southwest Pakistan
-
-*2024-08-26 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101511/gunmen-kill-23-passengers-taken-from-vehicles-in-an-attack-in-southwest-pakistan) · `en`
-
-Gunmen fatally shot 23 passengers after identifying them and taking them from buses, vehicles and trucks in one of the deadliest attacks in restive southwestern Pakistan, police and officials said Monday.
-
-The killings occurred overnight in Musakhail, a district in Baluchistan province, senior police official Ayub Achakzai said. The attackers burned at least 10 vehicles before fleeing the scene.
-
-President Asif Ali Zardari and Interior Minister Mohsin Naqvi in separate statements called the attack “barbaric” and vowed that those who were behind it would not escape justice.
-
-The attack came hours after the outlawed Baluch Liberation Army separatist group warned people to stay away from the highways, but there was no immediate claim of responsibility.
-
-The separatists in Baluchistan have often killed workers and others from the country’s eastern Punjab region as part of a campaign to force them to leave the province, which for years has experienced a low-level insurgency.
-
-...
-
-[Data](articles/b645b5ea.json)
-
-[Extended Data](ext_articles/b645b5ea.ext.json)
-
----
-
-### Pakistan's powerful terrorist attack
-
-*2024-08-26 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200341) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Pakistan: Terrorist attack in southwest kills many terrorists. Minister reveals details about the attack.
-
-🟩
-
-A large number of terrorists were killed in a terrorist attack targeting the southwestern Pakistan.
-
-The Minister of Internal Affairs had revealed information about the attack.
-
-◼️
-
-[Data](articles/f15427fd.json)
-
-[Extended Data](ext_articles/f15427fd.ext.json)
 
 ---

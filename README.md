@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 17:37:15**
+As of **2024-08-26 17:57:53**
 
 ## Newspaper Stats
 
-*Scraped **42,693** Articles*
+*Scraped **42,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 409
 islandlk | 2,489
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,938
+adalk | 3,939
 dailymirrorlk | 4,733
-adaderanalk | 5,020
+adaderanalk | 5,021
 tamilmirrorlk | 5,554
 virakesarilk | 6,779
 adaderanasinhalalk | 7,312
@@ -26,31 +26,55 @@ adaderanasinhalalk | 7,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,691 (100.0%) of 42,693 articles have been extended.
+42,693 (100.0%) of 42,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### චීන යුද නැව් 03ක් කොළඹට
+### Chinese and Indian warships visit Colombo on same day
+
+*2024-08-26 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101523/chinese-and-indian-warships-visit-colombo-on-same-day) · `en`
+
+Three Chinese People’s Liberation Army Navy warships; “HE FEI”, “WUZHISHAN” and “QILIANSHAN” have arrived at the Colombo Port on a formal visit this morning (Aug 26).
+
+The visiting ships were welcomed by the Sri Lanka Navy in compliance with naval traditions, Sri Lanka Navy said.
+
+The “HE FEI” is a 144.50-meter-long destroyer, crewed by 267 personnel under the command of Captain Chen Junfeng. The “WUZHISHAN” is a 210-meter-long Landing Platform Dock, manned by 872 crew members and commanded by Captain Fei Zhang. Similarly, the “QILIANSHAN” is a 210-meter-long Landing Platform Dock, with 334 crew members under the command of Captain Xiong Binghon, according to Sri Lanka Navy.
+
+The Commanding Officers of the trio of Chinese People’s Liberation Army Navy warships are scheduled to call on the Commander Western Naval Area, Rear Admiral Chinthaka Kumarasinghe at the Western Naval Command Headquarters today.
+
+...
+
+[Data](articles/cc8e31cb.json)
+
+---
+
+### 03 Chinese warships to Colombo
 
 *2024-08-26 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200353) · `si`
 
-මහජන චීන විමුක්ති හමුදාවේ යුද නෞකා තුනක් නිල සංචාරයක් සඳහා කොළඹ වරායට පැමිණ තිබේ.
+Chinese warships arrive in Colombo for training exercises before departing on August 29.
 
-අද (26) උදෑසන එලෙස පැමිණ ඇත්තේ,  “HE FEI”, “WUZHISHAN” සහ “QILIANSHAN” යන යුද නෞකා ත්‍රිත්වය බව නාවික හමුදාව පවසයි.
+🟩
 
-මෙලෙස කොළඹ වරායට සේන්දු වූ Destroyer වර්ගයට අයත් “HE FEI” යුද නෞකාව, දිගින් මීටර් 144.50 හා නැවේ කාර්යය මණ්ඩලය 267ක ගෙන් සමන්විතය.
+Three war ships of the Chinese LOOF and the Videos of the Liberation Army have arrived at the Port of Colombo.
 
-Landing Platform Dock වර්ගයට අයත් “WUZHISHAN” යුද නෞකාව දිගින් මීටර් 210 හා නැවේ කාර්යය මණ්ඩලය 872ක ගෙන් සමන්විතය.
+The navy says that this morning (26) this morning, the Navy said that the "he Fehi" and the "qilianshan".
 
-Landing Platform Dock වර්ගයට අයත් “QILIANSHAN” යුද නෞකාව දිගින් මීටර් 210 හා නැවේ කාර්යය මණ්ඩලය 334 ක ගෙන් සමන්විත වෙයි.
+The "He Fei 'type of" He Fei ", which was built at the Colombo Port, is accompanied by 144.50 meters and the staff of 267 meters.
 
-එම නෞකා පුහුණු අභ්‍යාසයකින් අනතුරුව, නිල සංචාරය අවසන් කරමින්  අගෝස්තු මස 29 වැනිදා දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+The "Worshian 'war vessel belonging to the Landing Platform Dock is comprised of 210 meters and staff of the ship.
+
+The "Qilanshan" consists of the 210m and staff of the ship and the staff of the ship.
+
+After a shipped training exercise, it is scheduled to leave the island on August 29.
 
 ◼️
 
 [Data](articles/38f10338.json)
+
+[Extended Data](ext_articles/38f10338.ext.json)
 
 ---
 
@@ -523,6 +547,8 @@ The most crucial week for the Democrats in the current election season ended las
 ...
 
 [Data](articles/de70eb22.json)
+
+[Extended Data](ext_articles/de70eb22.ext.json)
 
 ---
 
@@ -1021,6 +1047,24 @@ A survey of last year's survey revealed that the Australians have done 281 hours
 [Data](articles/2d47fe13.json)
 
 [Extended Data](ext_articles/2d47fe13.ext.json)
+
+---
+
+### විදෙස් ලොකු ලූණු ගෙන්විම පාලනය කරන්නැයි ඉල්ලයි
+
+*2024-08-26 12:59:01* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ලොකු-ලූණු-ගෙන්විම-පාලනය-කරන්නැයි-ඉල්ලයි/11-411561) · `si`
+
+දේශීය ලොකු ලුණු අස්වැන්න නෙලීම ආරම්භ කර ඇති නිසාවෙන් වහාම විදේශ රටවලින් ගෙන්වන ලොකු ලූනු පාලනය කිරීම සිදු නොකළහොත් මෙම කන්නයේ ද  ලුණු ගොවීන් අසීරුතාවයකට පත්විය හැකි බව දඹුල්ල විශේෂිත ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමයේ සභාපති .සි .එස්. සිරිවර්ධන මහතා පැවසීය.
+
+විදේශීය රටවලින් ගෙන්වන ලොකු ලූණු සඳහා විශේෂ බදු මුදලක් පනවා ආනයනය සීමා කිරීම සිදුකළ යුතු බවත් එසේ  නොවුනහොත් දේශීය ලොකු ලූනු ගොවියාට තමන් වියදම් කළ මුදල හෝ සොයා ගැනීමට නොහැකි වන බවද වෙළඳ සංගමයේ සබාපති වරයා  වැඩිදුරටත් පෙන්වා දෙයි .
+
+දඹුල්ල වැවලවැව ප්රදේශයේ වගා කෙරුණු දේශීය ලොකු ලූණු අස්වනු මීට දින තුනකට පමණ ඉහත සිට  නෙලීම ආරම්භ කොට තිබේ .ලොකු ලුණු  කිලෝ එකක්  දඹුල්ල ආර්ථික මධ්යස්ථානය තුළ අලෙවි වන්නේ රුපියල් 130 සිට රුපියල් 170   දක්වා වූ මිල පරාසයක් තුළ බව ගොවීහු පෙන්වා දෙති.
+
+එවැනි තත්ත්වයක් තිබියදී ඉන්දියාව සහ පාකිස්තානයෙන් ගෙන්වන ලද විදේශීය ලොකු ලූණු කිලෝව රුපියල් එක  120 ත් 230 ත්  දක්වා වූ මිල ගණන් යටතේ අලවි කිරීම සිදුවෙන නිසාවෙන් දේශීය ලොකුළුණු සඳහා සාධාරණ මිලක් නොලැබෙන බව ගොවීන් පවසති.
+
+...
+
+[Data](articles/6286b028.json)
 
 ---
 
@@ -2393,49 +2437,5 @@ If he learns what happened to the tax he paid, no one will miss the tax payable.
 [Data](articles/15db581c.json)
 
 [Extended Data](ext_articles/15db581c.ext.json)
-
----
-
-### Third school term from today
-
-*2024-08-26 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200327) · `si`
-
-Third school term starts today, runs till Nov 22.
-
-🟩
-
-The Ministry of Education has informed the third term of government and government approved private schools will commence today (26).
-
-Accordingly, the first phase of the third term will operate from today to 22 November, the Ministry of Education said.
-
-◼️
-
-[Data](articles/ad9edab0.json)
-
-[Extended Data](ext_articles/ad9edab0.ext.json)
-
----
-
-### S distribution to those who participate in the campaign
-
-*2024-08-26 06:53:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரச்சாரத்தில்-கலந்து-கொள்வோருக்கு-கள்-விநியோகம்/175-342766) · `ta`
-
-Election law violation: Liquor distribution to plantation workers during campaign meetings.
-
-🟩
-
-Election monitors have said that it was a severe violation of the election law that the plantation workers who had attended the political campaign meetings of two presidential candidates recently in the hill country.
-
-Manjula Gajanayake, Executive Director of Democratic Reforms and Election Studies (IRES) said that he had received many complaints from the authorities and the plantation industry that their employees were being given free bottles during the election campaign meetings.
-
-Those who have complained that the distributed liquor is poor and that the plantation workers are healthy.. It was also revealed that there were fewer workers who were working after the brewery.
-
-Gajanayake said the distribution of liquor during the election campaign was severely violated the election law and violated the National Authority Act on tobacco and Alcoholism.
-
-...
-
-[Data](articles/c42c4124.json)
-
-[Extended Data](ext_articles/c42c4124.ext.json)
 
 ---

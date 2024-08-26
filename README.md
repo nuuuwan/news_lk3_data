@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 10:55:29**
+As of **2024-08-26 11:08:09**
 
 ## Newspaper Stats
 
-*Scraped **42,616** Articles*
+*Scraped **42,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 407
 islandlk | 2,483
 economynextcom | 2,572
 dailyftlk | 2,769
-adalk | 3,927
+adalk | 3,928
 dailymirrorlk | 4,733
-adaderanalk | 5,004
+adaderanalk | 5,007
 tamilmirrorlk | 5,547
 virakesarilk | 6,763
 adaderanasinhalalk | 7,297
@@ -26,33 +26,87 @@ adaderanasinhalalk | 7,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,614 (100.0%) of 42,616 articles have been extended.
+42,616 (100.0%) of 42,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### තේ පොහොර සහනාධාරය ක්‍රියාත්මක කරයි
+### Anura Kumara unveils election manifesto
+
+*2024-08-26 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101507/anura-kumara-unveils-election-manifesto) · `en`
+
+The National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake has unveiled his election manifesto in Colombo, a short while ago.
+
+◼️
+
+[Data](articles/f0bdf7f5.json)
+
+---
+
+### ‘None of other presidential candidates have paid taxes on their income’ – Dilith Jayaweera
+
+*2024-08-26 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101506/none-of-other-presidential-candidates-have-paid-taxes-on-their-income-dilith-jayaweera) · `en`
+
+The Presidential Candidate of the Saravajana Balaya Alliance, Entrepreneur Dilith Jayaweera invites candidates running for the office of the presidency to debate on his strategic roadmap for the nation.
+
+Addressing a public rally held in Anuradhapura, Jayaweera said that all of the candidates have failed to present a plan to explain how they are going to repay the debt they have taken on.
+
+Speaking at the rally, the Saravajana Balaya Presidential Candidate said: “we have presented a proper strategic plan. For the first time in Sri Lanka, we have explained when and how we are going to implement that. We have also mentioned how we are going to source the necessary funds for that.”
+
+“We would like to ask the people who borrowed huge amounts of money how they are going to repay them by 2028”, he questioned.
+
+...
+
+[Data](articles/c0980a94.json)
+
+---
+
+### North Korea’s Kim Jong Un oversees tests of ‘suicide drones’
+
+*2024-08-26 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101505/north-koreas-kim-jong-un-oversees-tests-of-suicide-drones) · `en`
+
+North Korean leader Kim Jong Un watched as new “suicide drones” took off and destroyed test targets including a mock tank, and urged researchers to develop artificial intelligence for the unmanned vehicles, state media reported on Monday.
+
+Kim visited the Drone Institute of North Korea’s Academy of Defence Sciences on Saturday and viewed a successful test of drones correctly identifying and destroying designated targets after flying along different preset routes, state news agency KCNA said.
+
+Kim called for the production of more suicide drones to be used in tactical infantry and special operation units, such as underwater suicide attack drones, as well as strategic reconnaissance and multi-purpose attack drones, KCNA said.
+
+Also known as loitering munitions, such weapons been widely used in the war in Ukraine as well as in the Middle East.
+
+...
+
+[Data](articles/87716e3f.json)
+
+---
+
+### Tea fertilizer subsidy
 
 *2024-08-26 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200338) · `si`
 
-තේ වගාව සඳහා අරඹන ලද පොහොර සහනාධාර වැඩසටහන ක්‍රියාත්මක කර තිබේ.
+Sri Lanka tea fertilizer subsidy: State Fertilizer Company reduces prices by Rs. 4000 per bag. Total cost: Rs. 2.4 billion. Funded by Sri Lanka Tea Board.
 
-රාජ්‍ය පොහොර සමාගම විසින් නිෂ්පාදනය කරන ලද පොහොර වර්ග 05ක මිල ගණන් මේ යටතේ  අඩු කිරීමට කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය පියවර ගෙන ඇත.
+🟩
 
-ඒ අනුව තේ සඳහා යොදා ගන්නා කිලෝග්‍රෑම් 50ක පොහොර මල්ලක මිල රුපියල් 4000කින් අඩු කර තිබේ.
+The fertilizer subsidy program for tea cultivation has been implemented.
 
-තේ වගාව සඳහා යොදා ගන්නා  T 200, T 750, U 709, U 834, T 65 යන පොහොර වර්ග 05ක මිල මෙලෙස අඩු කර ඇත.
+The Ministry of Agriculture and Plantation Industries have taken steps to reduce the prices of five fertilizers produced by the State Fertilizer Company.
 
-මෙම පොහොර සහනාධාරය සැපයීම සඳහා වැයවන සමස්ත මුදල රුපියල් මිලියන 2400කි.
+Accordingly, the price of a fertilizer bag of the tea has been reduced by Rs. 4,000.
 
-කෘෂිකර්ම අමාත්‍යාංශය පවසන්නේ මෙම මුදල රජයෙන් ලබා නොගෙන තේ වගාකරුවන්ට සහන සැළසීම සඳහා ලබා දීමට පියවර ගෙන ඇති බවය.
+The price of 5 types of fertilizer has been reduced by 5 types of fertilizers used for tea cultivation.
 
-එම සම්පූර්ණ මුදල ශ්‍රී ලංකා තේ මණ්ඩලයේ මුදල් ප්‍රතිපාදන යොදාගනිමින් ලබා දීමට කටයුතු කර ඇතැයි අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+The total cost of the provision of this fertilizer subsidy is Rs. 2400 million.
+
+The Ministry of Agriculture states that steps have been taken to provide the tea growers without obtaining the money from the government.
+
+Minister Mahinda Amaraweera says that the total amount has been provided with the funds of the Sri Lanka Tea Board.
 
 ◼️
 
 [Data](articles/39a84195.json)
+
+[Extended Data](ext_articles/39a84195.ext.json)
 
 ---
 
@@ -75,6 +129,8 @@ Meanwhile, the election monitoring organizations say that there is a rise in com
 ...
 
 [Data](articles/f4614b1f.json)
+
+[Extended Data](ext_articles/f4614b1f.ext.json)
 
 ---
 
@@ -1412,6 +1468,22 @@ For this, the executive committee members of the universal power were present.
 
 ---
 
+### ජල සම්පාදනයේ රු. කෝටි 51ක ජල මිටර් අතුරුදන්
+
+*2024-08-25 19:54:38* · [`adalk`](https://www.ada.lk/breaking_news/ජල-සම්පාදනයේ-රු--කෝටි-51ක-ජල-මිටර්-අතුරුදන්/11-411552) · `si`
+
+රත්මලාන පිහිටි ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලයට අයත් ගබඩා අංගණයක තිබී රුපියල් කෝටි 51කට අධික වටිනාකමින් යුත් ජල වායු පීඩන මීටර් තොගයක් අස්ථානගත වීමේ සිද්ධියක් සම්බන්ධයෙන් පුළුල් පරීක්ෂණයක් සිදු කරන ලෙස ජලාපවහන මණ්ඩලය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අගෝස්තු 23 වන දින පැමිණි කර ඇත.
+
+ජාතික ජල සම්පාදන සහ ජලපවහන මණ්ඩලයට අයත් රුපියල් පනස් එක් කෝටි තිස්හය ලක්ෂ හතළිස් හතර දහස් පන්සියයක් (513,644,500) වටිනා මෙම ජල වායු මීටර් තොගය අගෝස්තු මස 20 වෙනිදා එම ගබඩා අංගණය විවෘත කර බැලීමේදී අස්ථානගත වී ඇති බව සඳහන් කර ඇත. රත්මලාන පිහිටි ජාතික ජල සම්පාදන සහ ජලපවහන මණ්ඩලයේ වාණිජ අධ්‍යක්ෂ ඩබ්.එස්. කුමාර විසින් කරන ලද පැමිණිල්ලකට අනුව අදාළ විමර්ශනය සිදු කර ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් කරන විමර්ශනයෙන් ප්‍රගතිය වාර්තා කරන ලෙස අධිකරණය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ වාණිජ අපරාධ විමර්ශන අංශය වෙත දැනුම් දී ඇති බව ජලාපවහන මණ්ඩලයේ වාණිජ අධ්‍යක්ෂක ඩබ්.එස්. කුමාර විසින් දන්වා ඇත.
+
+◼️
+
+[Data](articles/5979996a.json)
+
+---
+
 ### Ranil's political life expectancy will end with the presidential election for all to join hands with us
 
 *2024-08-25 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191966) · `ta`
@@ -2127,101 +2199,5 @@ The Israeli military said it struck because Hezbollah was planning to launch a h
 [Data](articles/35f5842c.json)
 
 [Extended Data](ext_articles/35f5842c.ext.json)
-
----
-
-### SAVES Entrepreneurship Entrepreneurship Dilith Raw Rally Live
-
-*2024-08-25 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200313) · `si`
-
-Dilith Jayaweera launches entrepreneurship rally for aspiring global candidates.
-
-🟩
-
-The rally rally was commenced by Dilith Jayaweera, the universal candidate entrepreneurs.
-
-◼️
-
-[Data](articles/e18e422a.json)
-
-[Extended Data](ext_articles/e18e422a.ext.json)
-
----
-
-### Finance State Minister to reveal full tax information tomorrow
-
-*2024-08-25 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101490/finance-state-minister-to-reveal-full-tax-information-tomorrow) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya says that all information pertaining to the taxes will be disclosed tomorrow (26).
-
-Siyambalapitiya highlighted that during this period, efforts have been made to increase the state revenue through collecting of tax arrears.
-
-The State Minister also pointed out that around 900 bank accounts have been frozen for the collection of tax arrears, and steps are being taken to recover the relevant funds.
-
-Meanwhile, he said that accordingly, all information regarding the taxes will be disclosed to the media on Monday (26).
-
-◼️
-
-[Data](articles/f381b283.json)
-
-[Extended Data](ext_articles/f381b283.ext.json)
-
----
-
-### A revelation of Pakistants who leave the country
-
-*2024-08-25 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200312) · `si`
-
-Pakistani migration surge: 10m+ since 2004, peak 2015 (900k), 2022-23 (800k).
-
-🟩
-
-About 10 million Pakistani reports, searching for more opportunities for the last 17 years, reports foreign media reports.
-
-Foreign media further states that the climax of the migration wave has occurred in 2015.
-
-More than 900,000 people left the Pakistan in search of employment of employment that year.
-
-The number of migrants have increased to 800,000 in 2022 and 2023.
-
-◼️
-
-[Data](articles/d5c21ff0.json)
-
-[Extended Data](ext_articles/d5c21ff0.ext.json)
-
----
-
-### Bangladesh is a historic Test
-
-*2024-08-25 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200311) · `si`
-
-Bangladesh wins historic Test vs Pakistan, Mushfiqur Rahim scores 191 runs.
-
-🟩
-
-Bangladesh won the 2 wickets in the first match of the two match Test series in the first match of the two match Test series.
-
-The Bangladesh opener was chased by Pakistan's 30 runs.
-
-In the history of Bangladesh cricket, they defeated a Pakistan group in a Test match and were the first.
-
-Pakistan scored 448 runs for the loss of 6 wickets in their first innings to bat first.
-
-In response, however, Bangladesh scored 565 runs for the loss of everyone in their first innings.
-
-Mushficker rahi, which built an abnormal innings, scored 191 runs.
-
-As a result, Pakistan had to take 117 runs in their second innings.
-
-However, Pakistan's second innings were limited to 146 runs, at that time the Bangladesh was only 29 runs ahead of the second innings.
-
-In the history of Pakistani Test cricket history, Bangladesh, was 13 Tests between the two countries in the history of Pakistan Test cricket.
-
-...
-
-[Data](articles/12a1e7f7.json)
-
-[Extended Data](ext_articles/12a1e7f7.ext.json)
 
 ---

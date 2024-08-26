@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 16:09:52**
+As of **2024-08-26 16:21:40**
 
 ## Newspaper Stats
 
-*Scraped **42,674** Articles*
+*Scraped **42,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,46 @@ colombotelegraphcom | 409
 islandlk | 2,488
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,935
+adalk | 3,936
 dailymirrorlk | 4,733
 adaderanalk | 5,017
 tamilmirrorlk | 5,553
 virakesarilk | 6,771
-adaderanasinhalalk | 7,309
+adaderanasinhalalk | 7,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,672 (100.0%) of 42,674 articles have been extended.
+42,674 (100.0%) of 42,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### நீராட சென்றவர் மாயம்
+### The man who went to the water
 
 *2024-08-26 15:52:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீராட-சென்றவர்-மாயம்/175-342802) · `ta`
 
-மாரவில சிலுவை தேவாலயத்திற்கு அருகிலுள்ள கடலில் இளைஞர்கள் குழுவுடன் நீராடச் சென்ற 19 வயதுடைய இளைஞர் ஒருவர் அலையில் அடித்துச் செல்லப்பட்டு காணாமல் போயுள்ளதாக மாரவில பொலிஸார் தெரிவித்துள்ளனர்.
+Here's a summary of the text in 200 characters:
 
-இலேப்புகமுவ, வெலிபன்னாகஹமுல்ல, கந்தேவத்த பகுதியைச் சேர்ந்த தருண் சந்தீப திஸாநாயக்க என்ற 19 வயதுடைய இளைஞனே காணாமல்  போயுள்ளார்.
 
-குளியாபிட்டிய பிரதேசத்தில் உள்ள தனியார் நிறுவனமொன்றில் பாடநெறியை முடித்துவிட்டு நண்பர்கள் குழுவுடன் கடலில் நீராடச் சென்ற போதே அவர் காணாமல் போயுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+19-year-old Tarun Sandeep Dissanayake drowned while swimming with friends near Marawila Cross Church. He disappeared during a trip after completing a course in Kuliyapitiya.
+
+🟩
+
+A 19 -year -old youth who was drowned with a group of youths in a sea near the Marawila Cross Church has been drowned and disappeared, Marawila police said.
+
+Tarun Sandeep Dissanayake, a 19 -year -old youth from Ilappukamuwa, Welipanagahamulla and Kandewatta area, has disappeared.
+
+He is reported to have disappeared when he went to sea with a group of friends after completing the course at a private company in Kuliyapitiya.
 
 ◼️
 
 [Data](articles/27058669.json)
+
+[Extended Data](ext_articles/27058669.ext.json)
 
 ---
 
@@ -61,6 +71,30 @@ The arrested suspects are residents of the Grandpass area and the illegally smug
 ◼️
 
 [Data](articles/e2e527ad.json)
+
+[Extended Data](ext_articles/e2e527ad.ext.json)
+
+---
+
+### ඝාතන සැකකරුවෙක් හඳුනා ගැනීමට මහජන සහාය පතයි
+
+*2024-08-26 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200351) · `si`
+
+වෙඩිතැබීමේ සිදුවීමක් සම්බන්ධයෙන් සැකකරුවෙකු හඳුනාගැනීම සඳහා පොලීසිය මහජන සහාය ඉල්ලා සිටී.
+
+පසුගිය අගෝස්තු 16 වන දින ශ්‍රී පුර පොලිස් වසමේ ගැමුණුපුර ප්‍රදේශයේ දී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් ටී 56 ගිනිඅවියකින් පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කර තිබුණි.
+
+එම සිදුවීම පිළිබඳ ශ්‍රී පුර පොලීසිය වැඩිදුර විමර්ශන සිදුකර මේ වනවිට සැකකරුවෙකු හඳුනාගෙන ඇත.
+
+ඔහු ප්‍රදේශයෙන් පළාගොස් ඇති අතර, ඉහත ඡායාරූපයේ සිටින සැකකරු පිළිබඳ විස්තරයක් වෙතොත් වහාම පොලීසිය දැනුවත් කරන ලෙස ද ජනතාවගෙන් ඉල්ලා සිටී.
+
+කන්දේ ලේකම්ලාගේ ගයාන් සුගතදාස නැමති අදාළ සැකකරු අංක 87, සමරුගම, අවිස්සාවේල්ල යන ලිපිනයේ පදිංචි ජාතික හැඳුනුම්පත් අංක 850220751V, 198502200751 දරණ අයෙකි.
+
+ශ්‍රී පුර පොලිස් ස්ථානය - 025 225 5062 යන අංකයට දැනුම් දිය හැකිය.
+
+◼️
+
+[Data](articles/2139b374.json)
 
 ---
 
@@ -359,6 +393,26 @@ The Sri Lanka Catholic Bishop Summit requests all registered voters to vote for 
 [Data](articles/139cb1b1.json)
 
 [Extended Data](ext_articles/139cb1b1.ext.json)
+
+---
+
+### ගෝඨා ආණ්ඩුවේ නාමල්ට ඇමතිකම් 05යි  කැබිනට්ටුවේ 5න් 1ක්ම රාජපක්ෂවරු
+
+*2024-08-26 13:46:55* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨා-ආණ්ඩුවේ-නාමල්ට-ඇමතිකම්-05යි--කැබිනට්ටුවේ-5න්-1ක්ම-රාජපක්ෂවරු/11-411564) · `si`
+
+උසනම් සිකියුරිටි මිටිනම් කමිකරු පන්නයේ ප්‍රතිපත්ති ඇති විපක්ෂ නායක සජිත් ප්‍රේමදාසට රට භාරදුන්නොත් රටේ හා දරුවන්ගේ අනාගතය ගැන කතා කරන්න දෙයක් නැතිවෙනවා යැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා සඳහන් කරයි.
+
+අමාත්‍යවරයා අවධාරණය කරන්නෙ මේ මොහොතේ රටේ අනාගතය භාර දිය හැකි එකම නායකයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පමණක් බවයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය වෙනුවෙන් ගම්පහ දිස්ත්‍රික්කයේ දිවුලපිටිය ආසනයේ මැතිවරණ මෙහෙයුම් කාර්යාලය විවෘත කිරීමේ අවස්ථාවට ඊයේ (25) දින එක්වෙමින් අමාත්‍යවරයා මේ බව සදහන් කළේය.එහිදී අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මෙසේද පැවසීය.
+
+“පාර්ලිමේන්තුවේ 2/3 ක බලයක් අපිට තිබුණා. වැඩ ආරම්භ කරනකොටම ඇතිවුණු කොවිඩ් වසංගතයත් එක්ක ආර්ථික අර්බුධයක් ඇති වුණා. ආණ්ඩුවක් හැටියට අපිට පුළුවන්කමක් තිබුණේ නෑ ආර්ථිකය ගොඩගන්න.
+
+එදා කැබිනට්ටුවේ අපි හිටියා. ජනාධිපති ගෝඨාභය රාජපක්ෂ මහත්තයා හිටියා. අගමැති මහින්ද රාජපක්ෂ මහත්තයා හිටියා. මුදල් ඇමති බැසිල් රාජපක්ෂ මහත්තයා හිටියා.
+
+...
+
+[Data](articles/b30b895c.json)
 
 ---
 
@@ -2379,49 +2433,5 @@ The transport sector representatives emphasised their desire to avoid a recurren
 [Data](articles/bf35f802.json)
 
 [Extended Data](ext_articles/bf35f802.ext.json)
-
----
-
-### Lankan business delegation visits FoodAgro 2024 in Karachi
-
-*2024-08-26 01:10:01* · [`dailyftlk`](https://www.ft.lk/business/Lankan-business-delegation-visits-FoodAgro-2024-in-Karachi/34-765957) · `en`
-
-A 22-member Sri Lankan business delegation, organised by the Trade Development Authority of Pakistan (TDAP) and the Pakistan High Commission in Colombo, attended FoodAgro 2024 in Karachi.
-
-The Consulate General of Sri Lanka in Karachi facilitated the visit.
-
-The delegation comprised prominent Sri Lankan business leaders, officials from the Department of Animal Protection and Health, Pakistan High Commission in Colombo Trade Development Officer Asela Rangana, and Sri Lanka-Pakistan Business Council President Indhra Kaushal Rajapaksa.
-
-During the visit, the group toured the expo, engaging with potential business partners and exploring various collaborative opportunities.
-
-A highlight of the visit was a high-profile meeting with Pakistan’s Commerce, Industry and Production Federal Minister Rana Tanveer Hussain, joined by TDAP Executive Director Zubair Motiwala. The discussions were focused on elevating bilateral business relations to new heights.
-
-...
-
-[Data](articles/2687dfca.json)
-
-[Extended Data](ext_articles/2687dfca.ext.json)
-
----
-
-### 2024-08-25 (Sunday)
-
-### Transitioning from takaran-sheet giveaways
-
-*2024-08-25 23:36:23* · [`dailyftlk`](https://www.ft.lk/columns/Transitioning-from-takaran-sheet-giveaways/4-765956) · `en`
-
-As long as the people keep asking for giveaways as against conditions for life improvement, the takaran era will not end – Pic by Shehan Gunasekara
-
-It is because of this increased literacy that people are asking politicians making promises to also state how the money will be found. The politician who some time back promised to zero out VAT, has now retreated to saying that VAT will be removed for educational and healthcare services (leaving aside the fact that most of these services are already exempt from VAT). Even then, he is being challenged to explain how the shortfall is going to be covered
-
-“We all know what to do, but we don’t know how to get re-elected once we have done it” ― Jean-Claude Juncker, Prime Minister of Luxembourg 1995-2013
-
-Handing out roofing sheets used to be a thing in Sri Lankan elections. It was thought that giving tangible things to people would motivate them to vote for the giver. Now we use the term metaphorically, hopefully.
-
-...
-
-[Data](articles/f1ba5d1a.json)
-
-[Extended Data](ext_articles/f1ba5d1a.ext.json)
 
 ---

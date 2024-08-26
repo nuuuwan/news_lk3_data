@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 15:37:12**
+As of **2024-08-26 15:56:06**
 
 ## Newspaper Stats
 
-*Scraped **42,669** Articles*
+*Scraped **42,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,935
 dailymirrorlk | 4,733
-adaderanalk | 5,015
+adaderanalk | 5,016
 tamilmirrorlk | 5,552
 virakesarilk | 6,771
-adaderanasinhalalk | 7,307
+adaderanasinhalalk | 7,309
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,665 (100.0%) of 42,669 articles have been extended.
+42,669 (100.0%) of 42,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### ‘Those who violate election laws cannot be trusted to govern the country’ - Catholic Bishops’ Conference
+
+*2024-08-26 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101517/those-who-violate-election-laws-cannot-be-trusted-to-govern-the-country-catholic-bishops-conference) · `en`
+
+The Catholic Bishops’ Conference in Sri Lanka states that the nation needs a wise and courageous leader to make the long awaited system-change to eradicate corruption and its related ills.
+
+Issuing a statement on Monday (26) pertaining to the 2024 Presidential Election, the Catholic Bishops’ Conference expressed that the presidential election candidates are solicited to desist from deceiving the voter by offering allurements, favours and making false promises, and to check on the organizers and supporters of their campaigns in this regard.
+
+“Those who violate election laws cannot be trusted to govern the country with integrity and justice”, the statement mentioned.
+
+Thus, the Catholic Bishops’ Conference in Sri Lanka calls on all registered voters to cast their vote to elect the leader who would govern the country according to the democratic and moral principles based on the values of the four main religions in the Island, respecting also the cultural ethos of the people.
+
+...
+
+[Data](articles/0c034dfb.json)
+
+---
+
+### ඉන්දීය යුද නෞකාවක් කොළඹට
+
+*2024-08-26 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200350) · `si`
+
+ඉන්දීය නාවික හමුදාවට අයත් ‘INS Mumbai’ යුද නෞකාව නිල සංචාරයක් සඳහා අද (26) පෙරවරුවේ කොළඹ වරායට සේන්දු විය.
+
+වේගවත් යුද නෞකාවක් (Destroyer වර්ගයට අයත්)  වන මෙය දිගින් මීටර් 163කි. එමෙන්ම කාර්යය මණ්ඩලය 410 දෙනෙකුගෙන් සමන්විත වේ.
+
+මෙම යුද නෞකාව මෙරට රැඳී සිටින කාලසීමාව තුළ එහි කාර්යය මණ්ඩලය මෙරට ප්‍රධාන ස්ථාන කිහිපයක සංචාරය කිරීමටද නියමිතය.
+
+ඊට අමතරව බටහිර නාවික විධාන මුහුදු තීරයේදී ශ්‍රී ලංකා නාවික හමුදා නෞකාවක් සමඟ පුහුණු අභ්‍යාසයක්ද පවත්වා මේ මස 29 වැනිදා දිවයිනෙන් පිටත්ව යන බව ශ්‍රී ලංකා නාවික හමුදාව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/c40c3ce9.json)
+
+---
+
+### අනුරගේ පෝස්ටර් ඇලවූ දෙදෙනෙක්ට අධිකරණයෙන් දඩ
+
+*2024-08-26 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200349) · `si`
+
+ජාතික ජන බලවේගයේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ පෝස්ටර් ඇලවීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන වරද පිළිගත් පුද්ගලයින් දෙදෙනෙකුට කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින්  රුපියල් 1500/- බැගින් දඩ නියම කළේය.
+
+කුරුඳුවත්ත පොලීසිය මඟින් අත්අඩංගුවට ගත් මෙම සැකකරුවන් දෙදෙනා අද (26) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා හමුවට පමුණුවනු ලැබීය.
+
+පොලීසිය සඳහන් කළේ, මෙම සැකකරුවන් දෙදෙනා ජනාධිපතිවරණ නීතිරීති උල්ලංඝනය කරමින් තම පොලිස් වසම තුළ අනුර කුමාර දිසානායක මහතාගේ පෝස්ටර් අලවමින් සිටියදී අත්අඩංගුවට ගත් බවය.
+
+අදාළ චෝදනාවලට සැකකරුවන් වරද පිළිගැනීමෙන් අනතුරුව ඔවුන්ට මහෙස්ත්‍රාත්වරයා විසින් දඩ නියම කරනු ලැබීය.
+
+◼️
+
+[Data](articles/434c8b09.json)
+
+---
 
 ### 4 crores in the airport
 
@@ -272,19 +326,29 @@ Accordingly, the High Commissioner of Sri Lanka Air Chief Marshal (Rtd.) Sumanga
 
 ---
 
-### උප්පුවේලි වැඩ බැලූ ස්ථානාධිපති සේවයෙන් පිටව යෑම ගැන පරීක්ෂණයක්
+### Investigation into the OIC of the Uppiestial OIC
 
 *2024-08-26 13:21:09* · [`adalk`](https://www.ada.lk/breaking_news/උප්පුවේලි-වැඩ-බැලූ-ස්ථානාධිපති-සේවයෙන්-පිටව-යෑම-ගැන-පරීක්ෂණයක්/11-411563) · `si`
 
-තම සහකාර පොලිස් අධිකාරිවරයාගෙන් එල්ල වන පීඩනය දරා ගැනීමට නොහැකි බැවින් මානසික සුවය අවශ්‍ය බව පවසමින් උප්පුවේලි පොලිසියේ වැඩ බලන ස්ථානාධිපතිවරයා තොරතුරු සටහන් පොතේ සටහනක් තබා සිය සේවා ස්ථානය පිටව යෑම සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කළ බව පොලිසිය පවසයි .
+Here's a summary of the text in 200 characters:
 
-උප්පුවේලි පොලිසියේ මාස ගණනාවක සිට ස්ථානාධිපති තනතුර පුරප්පාඩු වී ඇති අතර ඒ වෙනුවට වැඩ බලන ස්ථානාධිපතිවරයකු පත් කර තිබියදී වැඩ බලන ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂකවරයා මෙම සටහන යොදා රාජකාරී ජංගම දුරකථනය ස්ථාන භාර රාජකාරී නිලධාරී වෙත (SDO) ලබා දී මෙසේ බැහැරව ගොස් තිබේ.
 
-මෙම සිද්ධිය සැලවීමත් සමග වෙනත් පොලිස් පරීක්ෂකවරයෙකු වැඩ බලන ස්ථානාධිපති ලෙස පත්කර සිද්ධිය සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කිරීමට උසස් පොලිස් නිලධාරීන්  මෙලෙස කටයුතු යොදා තිබේ
+
+Uppiestial OIC investigation: Uppuwelle Police inquiry into Assistant Superintendent's claims. Vacant OIC position filled by Chief Inspector General Inspector. Incident being investigated by newly appointed OIC.
+
+🟩
+
+The Appeuel Police Acting OIC, the Uppuwelle Police, has commenced an inquiry into the information book in the information book, claiming that the pressure of the Assistant Superintendent of Assistant Superintendent.
+
+The post of OIC of the Uppuwalai Police has been vacant, instead of appointment of acting OIC, acting OIC Chief Inspector General Inspector General Inspector (SDO) has been given to the Official Sdo.
+
+With the assurance, the OIC of a police inspector is appointed OIC of the OIC and commences an inquiry into the incident
 
 ◼️
 
 [Data](articles/ab7748db.json)
+
+[Extended Data](ext_articles/ab7748db.ext.json)
 
 ---
 
@@ -830,23 +894,33 @@ Accordingly, the deposit money launch for the election will be named after Monda
 
 ---
 
-### කායවර්ධන ජාත්‍යන්තර තරගාවලියකින් ලංකාවට තවත් ජයක්
+### Sri Lanka wins Bigaward Tournament
 
 *2024-08-26 11:07:37* · [`adalk`](https://www.ada.lk/breaking_news/කායවර්ධන-ජාත්‍යන්තර-තරගාවලියකින්-ලංකාවට-තවත්-ජයක්/11-411558) · `si`
 
-ජාත්‍යන්තර කායවර්ධන සම්මේලනය (International Federation of Body Building ) (I.F.B.B.) විසින් සංවිධානය කර තිබූ ඩයමන්ඩ් කුසලාන - ලෙබනනය (Diamond Cup - Lebanon ) ශූරතා තරගාවලියේ ශ්‍රී ලංකාව නියෝජනය කරමින් එම තරගාවලියට සහභාගී වූ ශ්‍රී ලාංකික කායවර්ධන ක්‍රිඩක හර්ෂ් ඩී පීරිස්  , ඉතිහාසයේ පළමු වතාවට සෙන්ටි මීටර් 175 (Fit Model)
+Sri Lanka wins Big Award Tournament. Harsh D Peiris takes top prize in Diamond Cup-Lebanon bodybuilding competition.
 
-ඉසව්වෙන් ප්‍රථම ස්ථානයත් , සෙන්ටි මීටර් 173 ( Mens Physique ) ඉසව්වෙන් දෙවන ස්ථානයත් දිනා ගෙන 08/26 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+🟩
 
-මෙම ප්‍රථම සහ දෙවන ස්ථාන ජයග්‍රහණය කිරීම වෙනුවෙන් රන් සහ රිදී පදක්කම් ප්‍රදානය කිරීම වෙනුවට කුසලාන සහ සහතික පත්‍ර ලබා දී තිබුණි .
+Sri Lankan bodybuilding organized by the Diamond Cup - Lebanon (I.F.B.), Sri Lankan bodybuilding organized by Sri Lanka in the Diamond Cup - Lebanon (LEBANON).175 (FIT MODEL)
 
-මෙම ජාත්‍යන්තර කායවර්ධන ශූරතා තරගාවලිය ඉකුත් 08/23 සිට 08/24 දින දක්වා ලෝකයේ රටවල් 25 ක ක්‍රීඩක ක්‍රීඩිකාවන් 500 දෙනෙකුගේ පමණ සහභාගීත්වයෙන් ලෙබනනයේ බේරූට් නුවර පවත්වා තිබුණි .
+The first place in the event, arrived at the Katunayake Airport on the morning of 173 (MENS PHYSIQUE Election.
 
-මොරටුව ප්‍රදේශයේ පදිංචි හර්ෂ් ඩී පීරිස් එක් දරු පියෙකු වන අතර ඔහුගේ සිසුන් විශාල පිරිසක් ද මේ වනවිට කායවර්ධන ක්‍රීඩා ක්ෂේත්‍රයේ දස්කම් දක්වමින් සිටිති .
+The cup and certificates were provided instead of awarding gold and silver medals for the first and second places.
 
-...
+The International Bodybuilding Championship was held from 500 athletes from 500 countries from 500 countries from the world from 08/23 to 08/22.
+
+Harsh D Peiris, a resident of Moratuwa, is one of the children and a large number of students are being performed in the field of coordief.
+
+Hirsz Berware Champion at 04.55 am on 4.55 am on Dubai to SriLankan Airlines - 226 at the Katunayake airport.
+
+His wife, small daughter, his mother, his mother, his father, his mother, and his mother, father, and the Katunayaka Airport were also present at the Bandaranaike International Airport.
+
+◼️
 
 [Data](articles/ebd37157.json)
+
+[Extended Data](ext_articles/ebd37157.ext.json)
 
 ---
 
@@ -2327,67 +2401,5 @@ As Sri Lanka approaches the 2024 Presidential election, the digital economy is p
 [Data](articles/d984f525.json)
 
 [Extended Data](ext_articles/d984f525.ext.json)
-
----
-
-### Beyond red tape: How digitalisation can save Sri Lanka’s economy
-
-*2024-08-25 23:06:00* · [`dailyftlk`](https://www.ft.lk/opinion/Beyond-red-tape-How-digitalisation-can-save-Sri-Lanka-s-economy/14-765952) · `en`
-
-In the high-stakes world of trade and logistics, corruption at Sri Lanka’s customs, IRD, ports, and airports is not just an inconvenience—it’s a crisis that’s crippling the nation’s export sector. Outdated, manual systems have become breeding grounds for corruption, where bribery and inefficiency rule, bleeding exporters dry and stifling economic growth. The country stands at a critical juncture, where the only viable path forward is the digitalisation of customs and trade operations.
-
-These antiquated, paper-based customs processes are no match for the demands of the modern global economy, where speed, accuracy, and transparency are paramount. Instead, they are plagued by errors, deliberate delays, and a lack of accountability, allowing corrupt practices to thrive unchecked. As global trade standards become stricter, the need for transparent, secure, and efficient customs operations has never been more urgent.
-
-...
-
-[Data](articles/c35ffa16.json)
-
-[Extended Data](ext_articles/c35ffa16.ext.json)
-
----
-
-### Ariyanendran gets 50 % vote -Sivasakthi Anandan
-
-*2024-08-25 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/191971) · `ta`
-
-Tamil candidate Ariyanendran aims for 50% vote share in North East. Former EPRLF secretary Sivasakthi Anandan expresses hope for increased Tamil voter turnout.
-
-🟩
-
-Former EPRLF secretary Sivasakthi Anandan hopes that Tamil general candidate Ariyanendran will get 50 percent of the 12 lakh votes in the North East.
-
-He was speaking to the media after a discussion held on Sunday (25) between representatives of the Wadi house in Vavuniya and representatives of the Vavuniya civil organization.
-
-For the past eight years, the Tamil people have continued to vote for the South Sri Lanka candidates.
-
-The reconciliation message shown by the Tamil people has not yet solved any presidents in power or a solution to the Tamil people or the basic problem of war -affected people.
-
-Our demand is that all the Tamil -speaking people living in the North and East should support all the people outside the North and East.
-
-There are over 12 lakh Tamil people in the North and East. We have begun the process of getting more than 50 percent of the votes.
-
-...
-
-[Data](articles/fa4cec10.json)
-
-[Extended Data](ext_articles/fa4cec10.ext.json)
-
----
-
-### Govt. plans to import 47 drugs under Indian monopoly, health professionals allege
-
-*2024-08-25 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101496/govt-plans-to-import-47-drugs-under-indian-monopoly-health-professionals-allege) · `en`
-
-The Academy of Health Professionals alleges that the Minister of Health has reportedly submitted a Cabinet paper in order to import 47 types of drugs under the Indian monopoly.
-
-President of the Academy of Health Professionals Ravi Kumudesh stressed that the minister should explain on how this action will benefit the health service and the people of the country.
-
-Furthermore, he alleged that the quality and the standard of medicines can once again be under par through the import of unregistered medicines from India.
-
-◼️
-
-[Data](articles/f51aae0d.json)
-
-[Extended Data](ext_articles/f51aae0d.ext.json)
 
 ---

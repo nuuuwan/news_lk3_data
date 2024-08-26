@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 14:21:49**
+As of **2024-08-26 14:36:59**
 
 ## Newspaper Stats
 
-*Scraped **42,654** Articles*
+*Scraped **42,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,931
 dailymirrorlk | 4,733
-adaderanalk | 5,013
+adaderanalk | 5,014
 tamilmirrorlk | 5,552
 virakesarilk | 6,771
 adaderanasinhalalk | 7,304
@@ -26,31 +26,57 @@ adaderanasinhalalk | 7,304
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,653 (100.0%) of 42,654 articles have been extended.
+42,654 (100.0%) of 42,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### ශ්‍රී ලංකා කතෝලික රදගුරු සමුළුවෙන් ඡන්ද දායකයින්ට පණිවුඩයක්
+### Mother and two sons drown in Deduru Oya: all 3 bodies recovered
+
+*2024-08-26 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101515/mother-and-two-sons-drown-in-deduru-oya-all-3-bodies-recovered) · `en`
+
+The bodies of the mother and her youngest son, who were reported missing along with her eldest son while bathing in Deduru Oya, have been recovered this morning (26).
+
+A 36-year-old mother and her two sons were reported missing and were believed to have drowned while bathing in Deduru Oya in the Bogamuwa area last afternoon (25).
+
+Police said that the body of the 9-year-old son was recovered yesterday and that search and rescue operations had continued, to locate the mother and her 5–year–old son.
+
+The deceased, a 36-year-old woman and her two sons aged 5 and 9, are residents of the Peragahawatta area.
+
+◼️
+
+[Data](articles/f990edf8.json)
+
+---
+
+### SLMC for voters from the Sri Lanka Catholic Bishop
 
 *2024-08-26 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200345) · `si`
 
-එළැඹෙන 2024 ජනාධිපතිවරණය පැවැත්වීමට පෙර ඒ සම්බන්ධයෙන් සිය අදහස දක්වමින් ශ්‍රී ලංකා කතෝලික රදගුරු සමුළුව නිවේදනයක් නිකුත් කර තිබේ.
+Sri Lanka Catholic Bishop Convention: Protects legislative independence, warns against false promises, emphasizes voting for ethical candidates respecting public values.
 
-එහිදී ඡන්ද දායකයින්ගෙන් මෙන්ම ජනාධිපති අපේක්ෂකයින්ගෙන් ද ඉටුවිය යුතු වගකීම් සහ යුතුකම් සම්බන්ධයෙන් කරුණු පැහැදිලි කර ඇත.
+🟩
 
-ව්‍යවස්ථාදායකය, විධායකය සහ අධිකරණය යන ප්‍රජාතන්ත්‍රවාදයේ කුලුනු ත්‍රීත්වයේ ස්වාධීනත්වය ආරක්ෂා කරන නායකයෙකු රටට අවශ්‍ය යන්න සිය දැඩි විශ්වාසය බව එම නිවේදනයෙන් සඳහන් කර ඇත.
+The Sri Lanka Catholic Bishop convention has been issued by the Presidential Election in this regard.
 
-එබැවින් දුෂිත පුද්ගලයින් ආරක්ෂා කරන සහ දූෂිතයින්ට අනුබල දෙන දේශපාලන සංස්කෘතිය වෙනස් කිරීම සඳහා ජනතාව සිය වටිනා ඡන්දය බුද්ධිමත්ව භාවිත කිරීම වැදගත් බව ශ්‍රී ලංකා කතෝලික රදගුරු සමුළුව පෙන්වා දෙයි.
+The voters and presidential candidates have also made the responsibilities and their duties.
 
-බොරු පොරොන්දු ලබා දෙමින් ඡන්ද දායකයින් රවටා ඔවුන් නොමඟ යෑවීමෙන් වළකින ලෙසත්, තම ඡන්ද ව්‍යාපාර සංවිධායකවරුන් සහ ආධාරකරුවන් මේ හා සම්බන්ධයෙන් කරන කියන දේ පිළිබඳව සුපරික්ෂාකාරී වන ලෙසත් ශ්‍රී ලංකා කතෝලික රදගුරු සමුළුව ජනාධිපති අපේක්ෂකයින්ගෙන් ඉල්ලා ඇත.
+The country is confident that the country needs to protect the independence of the legislature, the executive and the judiciary.
 
-එම නිවේදනයෙන් අවධාරණය කර ඇත්තේ එසේ මැතිවරණ නීති උල්ලංඝනය කරන්නන් විසින් අවංකව සහ සාධාරණව රට පාලනය කරනු ඇති බවට විශ්වාස කළ නොහැකි බවයි.
+Therefore, the Sri Lanka Catholic Bishop Summit points out that the people are importing intelligently to use the political culture that protects the political culture of protecting and support powers.
 
-...
+The Sri Lanka Catholic Bishop is requested to protect voters and devour the voters, to avoid false promises.
+
+The announcement emphasized that the election law violators will rule with the honest and reasonable country.
+
+The Sri Lanka Catholic Bishop Summit requests all registered voters to vote for the electoral ethics of the people, respectfully based on the values ​​of the people, respecting the combination of the people.
+
+◼️
 
 [Data](articles/139cb1b1.json)
+
+[Extended Data](ext_articles/139cb1b1.ext.json)
 
 ---
 
@@ -2401,37 +2427,5 @@ For this, the executive committee members of the universal power were present.
 [Data](articles/037364a9.json)
 
 [Extended Data](ext_articles/037364a9.ext.json)
-
----
-
-### Cost of living allowance from a government. Top 25,000
-
-*2024-08-25 19:58:25* · [`adalk`](https://www.ada.lk/breaking_news/සජබේ-ආණ්ඩුවකින්-ජීවන-වියදම්-දීමනාව-රු--25000කින්-ඉහළ-දමනවාලු/11-411553) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka: Government proposes 24% salary hike for state employees, including cost-of-living allowance. Minimum wage set at Rs. 57,500. Aim to ensure salaries exceed Rs. 25,000. Efficiency-based promotion system planned.
-
-🟩
-
-The General Secretary of the JVP MP Ranjith Maddumabandara said that the salary of state employees will be increased by at least 24%, including the cost of living allowance under a reconciliation proposal.
-
-He was speaking at a media briefing held at the Colombo Society of Colombo yesterday (25).
-
-Speaking further MP Ranjith Madduma Bandara said:
-
-"We hope our government is essentially the cost of the government's employee at least Rs. 25,000. We will also increase the minimum salary to Rs. 57,500 with the government's government.
-
-And this will work with government salary increments. Some people in the government have frustrated today. We hope public service to provide a government employee promotion methodology based on efficiency.
-
-We have made clear at least 24% percentage of the cost of living. Increases more. "
-
-◼️
-
-[Data](articles/9b1a32a6.json)
-
-[Extended Data](ext_articles/9b1a32a6.ext.json)
 
 ---

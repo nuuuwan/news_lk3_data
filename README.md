@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 21:37:15**
+As of **2024-08-26 21:56:59**
 
 ## Newspaper Stats
 
-*Scraped **42,714** Articles*
+*Scraped **42,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,943
 dailymirrorlk | 4,733
-adaderanalk | 5,024
+adaderanalk | 5,025
 tamilmirrorlk | 5,560
 virakesarilk | 6,781
 adaderanasinhalalk | 7,315
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,714 (100.0%) of 42,714 articles have been extended.
+42,714 (100.0%) of 42,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### Passport issuance limited; apply only for urgent needs – Immigration Dept
+
+*2024-08-26 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101527/passport-issuance-limited-apply-only-for-urgent-needs-immigration-dept) · `en`
+
+The Controller General of Immigration and Emigration says that the issuance of passports will be limited due to the limited availability of blank passports.
+
+Issuing a special announcement in this regard, the Controller General has therefore requested applicants to apply for passports only if their needs are urgent.
+
+The announcement also mentioned that new electronic passports (E-Passports) are set to be introduced soon, with the tender already awarded to a foreign firm.
+
+◼️
+
+[Data](articles/a84c323a.json)
+
+---
 
 ### Rs. 20,000 per month for a poor family - Sajith
 
@@ -2597,31 +2613,5 @@ The second term ended on Friday 16th and the first phase of the third term will 
 [Data](articles/362e815d.json)
 
 [Extended Data](ext_articles/362e815d.ext.json)
-
----
-
-### The telephone cylinder is not re -era;President
-
-*2024-08-26 09:13:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்-அற்ற-யுகம்-மீண்டும்-வரும்-ஜனாதிபதி/175-342778) · `ta`
-
-Sri Lanka President Ranil Wickremesinghe addresses UNP meeting, discusses economic recovery, IMF assistance, currency strengthening, and tax policies.
-
-🟩
-
-The President pointed out that Sajith Premadasa and Anurakumara Dissanayake are trying to destroy the country in his policy declarations that the tax is reduced and the prices of goods are reduced.
-
-The President pointed out that he wanted to reduce the prices and taxes of goods, however, that he could only do it by strengthening the rupee and acting in accordance with the International Monetary Fund.
-
-In addition, the President requested Sajith Premadasa and Anura Dissanayaka to submit it in negotiations with the IMF immediately.
-
-President Ranil Wickremesinghe made this statement while addressing a meeting of the United National Party (UNP) Special Federation at the party headquarters in Pittagottai.
-
-As a Sri Lankan, I assumed the presidency to defend the country. Is it wrong?I found you standing in rows. At that time I saw people in the queue. I have settled the problems. Without doing that, the JVP and the United People's Power are looking for the curse.
-
-...
-
-[Data](articles/0f160b35.json)
-
-[Extended Data](ext_articles/0f160b35.ext.json)
 
 ---

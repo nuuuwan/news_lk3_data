@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 20:08:02**
+As of **2024-08-26 19:55:42**
 
 ## Newspaper Stats
 
-*Scraped **42,708** Articles*
+*Scraped **42,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,941
 dailymirrorlk | 4,733
-adaderanalk | 5,024
-tamilmirrorlk | 5,559
+adaderanalk | 5,023
+tamilmirrorlk | 5,558
 virakesarilk | 6,781
 adaderanasinhalalk | 7,313
 
@@ -26,149 +26,23 @@ adaderanasinhalalk | 7,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,706 (100.0%) of 42,708 articles have been extended.
+42,705 (100.0%) of 42,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### பிரச்சாரக் கூட்டத்தில் பொன்சேக்காவுக்கு ஏமாற்றம்
-
-*2024-08-26 19:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரச்சாரக்-கூட்டத்தில்-பொன்சேக்காவுக்கு-ஏமாற்றம்/175-342811) · `ta`
-
-ஜனாதிபதி தேர்தலில் களமிறங்கியுள்ள சரத் பொன்சேகாவின் பிரசார கூட்டம் நுவரெலியா பிரதான நகர் பகுதியில்   வாகனத்தரிப்பிடத்தில் திங்கட்கிழமை (26) நடைபெற்றது.
-
-தேர்தல் பிரச்சாரத்திற்காக அமைக்கப்பட்ட மேடையில் பொன்சேகா உட்பட சுமார் 10 பேர் இருந்துள்ளதோடு மேலும் மேடையின் முன் போடப்பட்டிருந்த இருக்கைகளில் எதிர்பார்த்த அளவில் பொது மக்கள் வருகைத்தந்து அமரவில்லை என்பது பெரும் ஏமாற்றத்தை அவருக்கு ஏற்படுத்தியுள்ளது.
-
-அத்துடன் பொன்சேகா இராணுவத் தளபதியாக இருந்த காலத்தில் தாக்குதலுக்கு உள்ளான காரையும் லொறியில் ஏற்றி மேடைக்கு அருகில் நிறுத்தப்பட்டிருந்தது அதன் காட்சிகள் அடங்கிய புகைப்படங்களும் குறித்த இடத்தில் காணப்பட்டது
-
-எனினும் குறித்து கூட்டத்தின் போது ஏராளமான பொலிஸார் வரவழைக்கப்பட்டு தீவிர பாதுகாப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டிருந்தும் மக்கள் வருகை தராதது பெரும் ஏமாற்றத்தை ஏற்படுத்தியுள்ளது.
-
-◼️
-
-[Data](articles/c89ccf3d.json)
-
----
-
-### More than 60 dead after militant attacks in Pakistan’s Balochistan
-
-*2024-08-26 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101526/more-than-60-dead-after-militant-attacks-in-pakistans-balochistan) · `en`
-
-Separatist militant attacks on police stations, railway lines and highways in Pakistan’s restive province of Balochistan, coupled with retaliatory operations by security forces, killed more than 60 people, officials said on Monday.
-
-The most widespread assault by ethnic insurgents in years forms part of a decades-long effort to win secession of the resource-rich southwestern province, home to major China-led projects such as a strategic port and a gold and copper mine.
-
-“These attacks are a well thought out plan to create anarchy in Pakistan,” Interior Minister Mohsin Naqvi said in a statement, adding that security forces had killed 12 militants in operations after the attacks on Sunday and Monday.
-
-Pakistan’s military said 14 soldiers and police, and 21 militants, were killed in fighting after the largest of the attacks, which targeted vehicles from buses to goods trucks on a major highway.
-
-...
-
-[Data](articles/4fd1c450.json)
-
----
-
-### The publication of the policy declaration of the national people's power
+### தேசிய மக்கள் சக்தியின் கொள்கைப் பிரகடன வெளியீடு
 
 *2024-08-26 19:20:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியின்-கொள்கைப்-பிரகடன-வெளியீடு/175-342810) · `ta`
 
-Thank you for sharing this detailed speech. As an AI assistant, I'll summarize the key points and provide some insights:
+“வளமான நாடு – அழகான வாழ்க்கை” என்ற தொனிப்பொருளின் கீழ் தேசிய மக்கள் சக்தியின் 2024 ஜனாதிபதித் தேர்தலுக்கான கொள்கைப் பிரகடன வெளியீடு செய்யப்பட்டுள்ளது.
 
-
-
-### Key Points:
-
-
-
-1. Economic development goals:
-
-   - Aim to increase tourism from 4 million to attract exclusive investors
-
-   - Target IT industry growth from $1.2 billion to $5 billion
-
-   - Boost Merayan Industries economy to $5 billion
-
-
-
-2. Government role:
-
-   - Regulate sectors
-
-   - Provide technology assistance
-
-   - Offer capital support
-
-   - Facilitate market access outside Sri Lanka
-
-
-
-3. Education reform:
-
-   - Address imbalances in school system
-
-   - Implement changes to course structure
-
-   - Focus on holistic education including health, intelligence, courage, and spirituality
-
-
-
-4. Social welfare initiatives:
-
-   - Monthly allowance for families struggling to educate children
-
-   - Remove taxes on food, education, and healthcare sectors
-
-   - Reduce electricity and fuel prices
-
-
-
-5. Government vision:
-
-   - Equal treatment for all citizens regardless of background
-
-   - Focus on economic growth and citizen well-being
-
-
-
-### Insights:
-
-
-
-1. The speech emphasizes the government's active role in driving economic development and social welfare initiatives.
-
-
-
-2. It highlights the need for foreign investment and technological advancements to boost various industries.
-
-
-
-3. Education reform is seen as crucial for the country's future, focusing on holistic development beyond just academic achievements.
-
-
-
-4. Social welfare measures aim to address poverty and inequality, particularly in education and healthcare.
-
-
-
-5. The government aims to create a fair society where everyone has equal opportunities and access to basic necessities.
-
-
-
-This speech outlines a comprehensive vision for Sri Lanka's economic and social development, emphasizing the government's commitment to creating a prosperous nation for all its citizens.
-
-🟩
-
-Under the theme of "prosperous country - beautiful life", the policy declaration of the 2024 presidential election of the National People's Power has been published.
-
-The event took place today at the Sri Jayawardenapura Monak Imperial Hotel Complex.
-
-The moment we have evolved here today, as a political movement, is the most systematic basis in many sectors. First of all we need to build a force to build this country that is degraded. We moved forward with those who represent different fields in our country. But it will not only be enough for us. We must carry out a multi -faceted ideology among our people. How to dissolve the causes of the disaster about the disaster that has occurred to our country?We have been talking to the public for a long time. I think the next step is to present a program that summarizes them all.
+ஸ்ரீ ஜயவர்தனபுர மொனாக் இம்பீரியல் ஹோட்டல் வளாகத்தில் இன்று இந்த நிகழ்வு இடம்பெற்றது.
 
 ...
 
 [Data](articles/e4685f6b.json)
-
-[Extended Data](ext_articles/e4685f6b.ext.json)
 
 ---
 
@@ -2565,5 +2439,43 @@ The organization's Executive Director of the organization Rohana Hettiarachchi s
 [Data](articles/6e3415f8.json)
 
 [Extended Data](ext_articles/6e3415f8.ext.json)
+
+---
+
+### Third school term begins today
+
+*2024-08-26 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101498/third-school-term-begins-today) · `en`
+
+The Ministry of Education has announced that the third school term for government and government-approved schools will commence today (26).
+
+According to the Ministry, the first phase of the third term will run from today until November 22nd.
+
+◼️
+
+[Data](articles/ca8e2dbf.json)
+
+[Extended Data](ext_articles/ca8e2dbf.ext.json)
+
+---
+
+### 925 complaints register
+
+*2024-08-26 08:24:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/925-முறைப்பாடுகள்-பதிவு/175-342769) · `ta`
+
+Elections Commission reports 925 complaints about presidential election since July 31, including 901 violations of election law and one violence complaint.
+
+🟩
+
+The Elections Commission said the number of complaints made regarding the presidential election had increased to 925.
+
+The Commission said that these complaints have been lodged in the period since July 31st.
+
+Accordingly, 901 complaints have been lodged in violation of the election law and a complaint of violence.(a)
+
+◼️
+
+[Data](articles/f8cd94f9.json)
+
+[Extended Data](ext_articles/f8cd94f9.ext.json)
 
 ---

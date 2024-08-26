@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 00:22:04**
+As of **2024-08-27 00:37:09**
 
 ## Newspaper Stats
 
-*Scraped **42,738** Articles*
+*Scraped **42,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 395
 colombotelegraphcom | 409
 islandlk | 2,489
 economynextcom | 2,584
-dailyftlk | 2,769
+dailyftlk | 2,772
 adalk | 3,945
 dailymirrorlk | 4,733
 adaderanalk | 5,026
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,738 (100.0%) of 42,738 articles have been extended.
+42,738 (100.0%) of 42,741 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,50 @@ The Department of Immigration and Emigration has also regretted the public incon
 [Data](articles/e4d0dc64.json)
 
 [Extended Data](ext_articles/e4d0dc64.ext.json)
+
+---
+
+### Recap of economic achievements of President Ranasinghe Premadasa
+
+*2024-08-26 22:39:02* · [`dailyftlk`](https://www.ft.lk/columns/Recap-of-economic-achievements-of-President-Ranasinghe-Premadasa/4-765999) · `en`
+
+I met President Ranasinghe Premadasa on my seventh birthday (25 January 1993) when he came to open our garment factory. I remember President Premadasa wishing me back then. His passing away three months later was one of the greatest losses for this country. The fate of Sri Lanka changed on 1 May 1993 and the UNP lost power just over a year later.
+
+Economic context when President Ranasinghe Premadasa took over as President
+
+...
+
+[Data](articles/157693f6.json)
+
+---
+
+### Uncertainty, stability and the Executive Presidency
+
+*2024-08-26 22:30:18* · [`dailyftlk`](https://www.ft.lk/columns/Uncertainty-stability-and-the-Executive-Presidency/4-765997) · `en`
+
+The total change of a system of government which has stood for 46 years is a very serious matter and anyone proposing to change it should present a convincing argument and show us how the new system will work. We need to remember that going back to the old system may no longer work, as the world and our country has changed around us, and we sit next to a giant economically powerful neighbour. A change of the Executive Presidency also means that the provincial councils will need to change
+
+It is said that the beauty of cricket is in its uncertainty. This could be the reason why we are so preoccupied with politics; we love its uncertainty. We should be thankful, for if it were certain, we would no longer be living in a democracy. While uncertainty in the outcome of an election is democracy, the breakdown of the system of government could become anarchy.
+
+...
+
+[Data](articles/4a4ca03a.json)
+
+---
+
+### Election Commission’s alert ‘not to be misled by polls surveys’ must be taken seriously
+
+*2024-08-26 22:19:34* · [`dailyftlk`](https://www.ft.lk/columns/Election-Commission-s-alert-not-to-be-misled-by-polls-surveys-must-be-taken-seriously/4-765996) · `en`
+
+The Election Commission’s warning is most appropriate and timely – Pic by Shehan Gunasekara
+
+The Election Commission’s alert last Friday, urging Sri Lankan voters ‘not to be influenced or misled’ by surveys on the forthcoming Presidential elections conducted by various entities, must be taken seriously by all Sri Lankan citizens to ensure a genuine Sri Lankan decision at the 21 September elections, uninfluenced by powerful external institutions.
+
+Indeed foreign social media platforms have unduly influenced election results in many Asian countries and gained leverage over these countries, even while pledging to uphold local election laws, the country’s economic interests and national welfare.
+
+...
+
+[Data](articles/c31f63b5.json)
 
 ---
 
@@ -2555,73 +2599,5 @@ With a total investment of Rs. 2,400 million, this subsidy program is fully fund
 [Data](articles/e8130401.json)
 
 [Extended Data](ext_articles/e8130401.ext.json)
-
----
-
-### 23 killed in terrorist attacks in Pakistan
-
-*2024-08-26 11:48:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-தீவிரவாத-தாக்குதலில்-23-பேர்-உயிரிழப்பு/50-342796) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-23 killed in Pakistan terror attack. Bus carrying workers ambushed, 5 injured.
-
-🟩
-
-The bus carrying the workers was shot dead on the occupants.
-
-Five people were injured and hospitalized after 23 workers were killed in the attack.
-
-◼️
-
-[Data](articles/b55ec04c.json)
-
-[Extended Data](ext_articles/b55ec04c.ext.json)
-
----
-
-### 2024 LG Elections: Nominations called for Elpitiya Pradeshiya Sabha
-
-*2024-08-26 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101509/2024-lg-elections-nominations-called-for-elpitiya-pradeshiya-sabha) · `en`
-
-The nominations for the Elpitiya Pradeshiya Sabha in the 2024 Local Government Elections have been called from September 09 to September 12.
-
-The relevant nominations will be accepted at the Galle District Secretariat, according to the Election Commission.
-
-The commission stated that accordingly, the election deposits can be placed from today (26) until 12.00 noon on September 11.
-
-Meanwhile, the announcement related to the accepting of nominations has been published by the Returning Officer in-charge of Elpitiya Pradeshiya Sabha, the election regulatory body said.
-
-◼️
-
-[Data](articles/c76f9b3a.json)
-
-[Extended Data](ext_articles/c76f9b3a.ext.json)
-
----
-
-### If the attack on Israel is not as successful, we will attack again - the leader of the Hesbullah Organization
-
-*2024-08-26 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191996) · `ta`
-
-Hezbollah leader threatens retaliation if Israel attack fails, vows to avoid civilian targets and infrastructure.
-
-🟩
-
-The head of the Hesbullah organization said that if we did not win as much as expected, we would launch an attack on Israel
-
-Hasan Nasaralla said that if the damage caused by the attack, we will be assessed and that if the expected damage is not affected, we will continue to attack once again.
-
-He said that our organization's military action has been carried out as accurately as planned, he said.
-
-We do not want to target public areas for revenge on Israel's murder of our senior commander. Hezbullah said he did not want to target Israel's infrastructure.
-
-◼️
-
-[Data](articles/c0d3ad88.json)
-
-[Extended Data](ext_articles/c0d3ad88.ext.json)
 
 ---

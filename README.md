@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 15:06:45**
+As of **2024-08-26 15:21:45**
 
 ## Newspaper Stats
 
-*Scraped **42,665** Articles*
+*Scraped **42,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,43 @@ dbsjeyarajcom | 358
 newsfirstlk | 363
 bbccomsinhala | 394
 colombotelegraphcom | 409
-islandlk | 2,486
+islandlk | 2,488
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,934
+adalk | 3,935
 dailymirrorlk | 4,733
 adaderanalk | 5,015
 tamilmirrorlk | 5,552
 virakesarilk | 6,771
-adaderanasinhalalk | 7,306
+adaderanasinhalalk | 7,307
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,658 (100.0%) of 42,665 articles have been extended.
+42,662 (100.0%) of 42,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### ගුවන්තොටුපොළෙන් හමුවූ රු කෝටි 4ක හොර බඩු
+
+*2024-08-26 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200348) · `si`
+
+ඉන්දියාවේ සිට අද (26) උදෑසන මෙරට ට පැමිණි පුද්ගලයින් දෙදෙනෙකු නීතිවිරෝධී ලෙස මෙරටට ගෙන ආ රුපියල් කෝටි 4ක් පමණ වටිනාකමකින් යුත් භාණ්ඩ සමග අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ගුවන්තොටුපොළෙ නිලධාරීන් කණ්ඩායමක් විසින් ඔවුන් දෙදෙනා සහ නීතිවිරෝධී ලෙස මෙරටට ගෙන ආ භාණ්ඩ සිය භාරයට ගෙන තිබුණි.
+
+ගෙන ආ භාණ්ඩ අතර විදේශීය මත් පැන්, විවිධ වර්ගයේ දුම්වැටි, ක්‍රීම් වර්ග, වාහන අමතර කොටස් සහ ශල්‍යකර්ම සඳහා භාවිත කරන කතුරු තිබූ බව සඳහන් ය.
+
+කොළඹ ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ පදිංචි කරුවන් වන එම දෙදෙනා සහ නීතිවිරෝධීව රැගෙන ආ භාණ්ඩ වැඩිදුර පරීක්ෂණ සඳහා ශ්‍රී ලංකා රේගුවට භාරදී තිබේ.
+
+◼️
+
+[Data](articles/ca31e461.json)
+
+---
 
 ### Thalatha’s departure and shifting allegiances
 
@@ -44,67 +62,105 @@ As the main candidates crisscross the country, rallying support and addressing t
 
 [Data](articles/ac92886c.json)
 
+[Extended Data](ext_articles/ac92886c.ext.json)
+
 ---
 
-### ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශයේ සම්පූර්ණ විස්තරය
+### Full description of the policy statement of the National Folk Force
 
 *2024-08-26 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200347) · `si`
 
-ජාතික ජන බලවේගය සිය ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය අද (26) එළිදැක්වීමට පියවර ගත්තේය.
+Here's a summary of the policy statement in 200 characters:
 
-එමගින් ඔවුන් නිෂ්පාදන ආර්ථිකයක් ගොඩනගා ගැනීම තීරණාත්මක හා ප්‍රමුඛතම කාර්යක් ලෙස සලකනු ලබන අතර එම ප්‍රතිපත්ති ප්‍රකාශයේ විද්‍යාව හා තාක්ෂණය සඳහා ස්ථානයක් ලබා දී ඇත.
 
-ඔවුන්ගේ ප්‍රතිපත්ති ප්‍රකාශය තුළ ක්ෂේත්‍ර ගණනාවක් කෙරෙහි අවධානය යොමු කර තිබේ.
 
-රට තුළින් සොයාගත හැකි ස්වාභාවික සම්පත්, වෘත්තිය හා පුහුණු ශ්‍රම සම්පත්, ඛණිජ සම්පත්, තොරතුරු හා මෘදුකාංග තාක්ෂණය, සංචාරක කර්මාන්තය, කෘෂිකර්ම, සාගර සම්පත් මෙන්ම නිර්මාණශීලි කර්මාන්ත වැනි කලාප මීට ඇතුළත් ය.
+National Folk Force launches presidential policy statement focusing on building a manufacturing economy. Key areas: natural resources, tourism, agriculture, ocean resources, creative industries. Aims to improve education, healthcare, housing, and cultural preservation. Emphasizes environmental sustainability and media protection.
 
-නිෂ්පාදන ආර්ථිකයක් සැලසුම් කිරීමේ සිට ප්‍රතිලාභ බෙදීයාම දක්වා වූ ක්‍රියාවලියේදී සියලු ජාතිකයන්ට එහි කොටස්කරුවන් කර ගැනීම ඔවුන්ගේ අපේක්ෂාව වී තිබේ.
+🟩
 
-මෙම ප්‍රතිපත්ති ප්‍රකාශය ප්‍රධාන කොටස් 4ක් යටතේ නිර්මාණය කර ඇත. එහි පිටු 230ක් අඩංගුය.
+The National Folk Force was commissioned to launch his presidential policy statement today (26).
 
-ජාතික ජනබලවේගය සිය අධ්‍යාපන ප්‍රතිපත්තිය අරමුණ කරගෙන ඇත්තේ දියුණු මානවවාදී හා වගකීම් සහිත පුරවැසි සමාජයක් ගොඩනැගීම සඳහාය.
+It is considered a decisive and premier task to build a manufacturing economy and has given a place for science and technology of this policy statement.
+
+Their policy statement focuses on a number of fields.
+
+This includes natural resources, professional and training labor resources, professional and training labor resources, professional and training labor resources, professional and training labor resources, mineral resources, mineral resources, tourism, agriculture, ocean resources and creative industries.
+
+The process of planning a manufacturing economy has been the prospect of making it in the process of the benefit distribution.
+
+This policy statement is designed under 4 main parts. It contains 230 pages.
+
+The national popularity has aimed at building a developed humanitarian and warrantic citizenship society.
 
 ...
 
 [Data](articles/d535a181.json)
 
+[Extended Data](ext_articles/d535a181.ext.json)
+
 ---
 
-### නිර්භීත නායකයෙකු ශ්‍රී ලාංකීය ජාතියට අවශ්‍යය - මීලඟ නායකයා ඥානාන්විතව තොර ගන්න
+### The Sri Lankan nation wants a brave leader - the next leader without wisely
 
 *2024-08-26 14:48:22* · [`adalk`](https://www.ada.lk/breaking_news/නිර්භීත-නායකයෙකු-ශ්‍රී-ලාංකීය-ජාතියට-අවශ්‍යය---මීලඟ-නායකයා-ඥානාන්විතව-තොර-ගන්න/11-411565) · `si`
 
-ශ්‍රී ලංකා කතෝලික රදගුරු සමුළුව ඡන්ද දායකයන්ට පණිවිඩයක් නිකුත් කර තිබේ.
+Sri Lanka seeks courageous leader; Catholic Bishop advises voters.
+
+🟩
+
+The Catholic Bishop of Sri Lanka has issued a message to voters.
 
 ◼️
 
 [Data](articles/1df2d5b7.json)
 
+[Extended Data](ext_articles/1df2d5b7.ext.json)
+
 ---
 
-### බොරතෙල් මිල ඉහළට
+### Bringing 1971 insurgency under control and tension between coalition partners
+
+*2024-08-26 14:47:00* · [`islandlk`](http://island.lk/bringing-1971-insurgency-under-control-and-tension-between-coalition-partners/) · `en`
+
+(Excerpted from the autobiography of MDD Pieris, Secretary to the Prime Minister)
+
+When Wesak day approached that May, the situation was better. but much more had to be done. The prime minister decided that she would not forego her practice of going into retreat and observing sil on Wesak day. She told the service chiefs and the IGP, that she was going to observe sil, and that she was not to be disturbed that day unless they considered it absolutely necessary. They told her that they were certain, that it would not be necessary, and that they were happy that she would have a brief period away from the burdens and strains of Prime Ministerial office.
+
+...
+
+[Data](articles/1e52d1fa.json)
+
+---
+
+### Crude oil prices up
 
 *2024-08-26 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200346) · `si`
 
-ගාසා යුද්ධයේ සටන් විරාමයක් සඳහා එකඟතාවක් මෙතෙක් ඇති නොවීමත් ඊශ්‍රායල - හෙස්බුල්ලා ගැටුම් සහ ඉරානය සමග පවතින යුද උණුසුම හමුවේ මැදපෙරදිග කලාපයේ දැන් පවතින්නේ අස්ථාවර වාතාවරණයකි.
+Oil prices surge: Brent at $80, WTI at $75.50. Israel-Iran conflict fuels instability. US Fed rate cut speculation. Slowing global demand offsets geopolitical tensions. OPEC meeting next week to decide fuel pricing strategy.
 
-මෙහි ඍජු බලපෑමක් විදියට ලෝක වෙළෙඳපොළේ බොරතෙල් මිල සාපේක්ෂව ඉහළ යාමක් දැන් වාර්තා වේ.
+🟩
 
-ඒ අනුව බ්‍රෙන්ට් වර්ගයේ බොරතෙල් බැරලයක මිල අද සටහන් වන්නේ ඩොලර් 80කට ආසන්න මිලකට.
+Israeli-Hesbuulla and Hesbullah clashes with the fighting of the war, Israeli-Hesbuulla clashes and Iran are now an instability in the Middle East.
 
-අමෙරිකානු WTI තෙල් බැරලයක මිලත් අද ඩොලර් 75.50 ඉක්මවා ගියේය.
+The prices of crude oil in the world market is now relaxed.
 
-මැදපෙරදිග කලාපයේ තෙල් ඍජුවම බාධා එල්ලවීමේ අවදානම වගේම අමෙරිකානු මධ්‍යම සංචිතය මඟින් පොලී අනුපාතික පහත හෙළීමට පවතින හැකියාවක් මේ විදියට ලෝක වෙළෙඳපොළේ තෙල් මිල ඉහළයාමට බලපා තිබේ.
+Accordingly, the price of a barrel of Brent crude oil is recorded at nearly $ 80.
 
-කෙසේ නමුත් චීනය ඇතුළු ප්‍රධාන පෙළේ ආර්ථිකයන් මන්දගාමීවීම නිසා ඉල්ලුම පහළයාමේ ප්‍රවණතාව නිසා තෙල් මිල විශාල වශයෙන් ඉහළයාමක් මෙතෙක් වාර්තා වී නැහැ.
+The price of an American WTI oil barrel exceeded $ 75.50 today.
 
-අමෙරිකාව ඇතුළු ප්‍රධාන පෙළේ තෙල් පරිභෝජනය කරන රටවල තෙල් සංචිතවල පහත වැටීමකුත් මේ වනවිට වාර්තා වේ.
+The world market has the potential to reduce interest rates from the United States of Americans directly to the rise in the Middle East.
 
-එමෙන්ම තෙල් මිල ඉහළ මට්ටමක පවත්වාගැනීම සඳහා දැනට ක්‍රියාත්මක නිෂ්පාදන කප්පාදුව තවදුරටත් ක්‍රියාත්මක කළ යුතුද යන්න ඔපෙක් සංවිධානය ලබන සතියේ තීරණය කිරීමට නියමිතව තිබේ.
+However, due to the slowdown in demand, however, the prices of oil have not been increased so far due to slowing down demand due to the slowness of China, including China.
+
+It is also reported on the drop of oil reserves in countries that consume high-ranking oil, including USA.
+
+Open next week, OPEC is to be decided next week whether to maintain the price of fuel.
 
 ◼️
 
 [Data](articles/547e6053.json)
+
+[Extended Data](ext_articles/547e6053.ext.json)
 
 ---
 
@@ -761,6 +817,26 @@ Accordingly, the deposit money launch for the election will be named after Monda
 [Data](articles/3c915bfc.json)
 
 [Extended Data](ext_articles/3c915bfc.ext.json)
+
+---
+
+### කායවර්ධන ජාත්‍යන්තර තරගාවලියකින් ලංකාවට තවත් ජයක්
+
+*2024-08-26 11:07:37* · [`adalk`](https://www.ada.lk/breaking_news/කායවර්ධන-ජාත්‍යන්තර-තරගාවලියකින්-ලංකාවට-තවත්-ජයක්/11-411558) · `si`
+
+ජාත්‍යන්තර කායවර්ධන සම්මේලනය (International Federation of Body Building ) (I.F.B.B.) විසින් සංවිධානය කර තිබූ ඩයමන්ඩ් කුසලාන - ලෙබනනය (Diamond Cup - Lebanon ) ශූරතා තරගාවලියේ ශ්‍රී ලංකාව නියෝජනය කරමින් එම තරගාවලියට සහභාගී වූ ශ්‍රී ලාංකික කායවර්ධන ක්‍රිඩක හර්ෂ් ඩී පීරිස්  , ඉතිහාසයේ පළමු වතාවට සෙන්ටි මීටර් 175 (Fit Model)
+
+ඉසව්වෙන් ප්‍රථම ස්ථානයත් , සෙන්ටි මීටර් 173 ( Mens Physique ) ඉසව්වෙන් දෙවන ස්ථානයත් දිනා ගෙන 08/26 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+
+මෙම ප්‍රථම සහ දෙවන ස්ථාන ජයග්‍රහණය කිරීම වෙනුවෙන් රන් සහ රිදී පදක්කම් ප්‍රදානය කිරීම වෙනුවට කුසලාන සහ සහතික පත්‍ර ලබා දී තිබුණි .
+
+මෙම ජාත්‍යන්තර කායවර්ධන ශූරතා තරගාවලිය ඉකුත් 08/23 සිට 08/24 දින දක්වා ලෝකයේ රටවල් 25 ක ක්‍රීඩක ක්‍රීඩිකාවන් 500 දෙනෙකුගේ පමණ සහභාගීත්වයෙන් ලෙබනනයේ බේරූට් නුවර පවත්වා තිබුණි .
+
+මොරටුව ප්‍රදේශයේ පදිංචි හර්ෂ් ඩී පීරිස් එක් දරු පියෙකු වන අතර ඔහුගේ සිසුන් විශාල පිරිසක් ද මේ වනවිට කායවර්ධන ක්‍රීඩා ක්ෂේත්‍රයේ දස්කම් දක්වමින් සිටිති .
+
+...
+
+[Data](articles/ebd37157.json)
 
 ---
 
@@ -2303,81 +2379,5 @@ Furthermore, he alleged that the quality and the standard of medicines can once 
 [Data](articles/f51aae0d.json)
 
 [Extended Data](ext_articles/f51aae0d.ext.json)
-
----
-
-### A giant in the last two Test matches
-
-*2024-08-25 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200324) · `si`
-
-New England fast bowler Josh Hull debuts vs Sri Lanka, impressive performance despite limited experience.
-
-🟩
-
-Josh Hull, JOSH Hulla, is a new fast bowler to England to play the two matches against Sri Lanka.
-
-England, England has been called by England that the remaining two of the matches cannot be played in the first Test disorder between the two countries.
-
-Fight bowler representing the list of Lesterushire is a 20-year-old youth.
-
-He has not played any international competition and played only 9 first matches.
-
-However, Josh played the only training match against England's tournament before the Sri Lankan team began the England tournament.
-
-Sri Lanka has been defeated by 7 wickets.
-
-Joseh of 6 feet 6-foot-7-inch huge heights can be bowled out at the speed of 4km.
-
-In the second innings of Sri Lanka, Dinesh Chandimal was disabled by a charging of Mark Wood, who has lost the tournament.
-
-However, Sports critics say that Mark Wood's place is more likely to play for the England basic pool.
-
-Test series has been broken down to 10 wickets.
-
-However, after June 2021, he has not played any Test match.
-
-◼️
-
-[Data](articles/0d0ce521.json)
-
-[Extended Data](ext_articles/0d0ce521.ext.json)
-
----
-
-### Social media records that violate the rules will be deleted
-
-*2024-08-25 22:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விதிமுறைகளை-மீறும்-சமூக-ஊடக-பதிவுகள்-நீக்கப்படும்/175-342760) · `ta`
-
-Social media platforms to delete content violating election rules. YouTube, Facebook, TikTok, Instagram, WhatsApp to remove posts against election laws.
-
-🟩
-
-Social media directors have assured the Elections Commission to remove records and videos uploaded on social media in violation of election regulations.
-
-Additional Commissioner of Elections Commission Sivasubramaniam Achuthan said that the officials of social media, including YouTube, Facebook, Dictock, Instagram and WhatsApp, said that the publication of information against election laws. Remble
-
-◼️
-
-[Data](articles/b0c2faaf.json)
-
-[Extended Data](ext_articles/b0c2faaf.ext.json)
-
----
-
-### Energy Minister challenges NPP, SJB to debate on fuel taxes and alleged corruption
-
-*2024-08-25 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101495/energy-minister-challenges-npp-sjb-to-debate-on-fuel-taxes-and-alleged-corruption) · `en`
-
-Minister and Power and Energy Kanchana Wijesekara invited the National People’s Power (NPP) and the Samagi Jana Balawegaya (SJB) to a debate on their energy polices, the government’s energy policy and allegations of corruption in the energy sector.
-
-In a post on ‘X’ (formerly Twitter), Wijesekara pointed out NPP’s presidential candidate Anura Kumara Dissanayake’s recent statement that he will reduce the fuel prices by removing the Rs 50 per liter tax on fuel which was imposed in 2022, to recover the debt taken over by the Treasury.
-
-The Energy Minister, who highlighted that Dissanayake had said the debt has been recovered by now and the said tax could be removed, expressed his displeasure stating, “I’m not sure how they come up with these numbers and claims to mislead the public and the voters.”
-
-...
-
-[Data](articles/5e3ff8a4.json)
-
-[Extended Data](ext_articles/5e3ff8a4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 20:21:48**
+As of **2024-08-26 21:21:41**
 
 ## Newspaper Stats
 
-*Scraped **42,710** Articles*
+*Scraped **42,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ colombotelegraphcom | 409
 islandlk | 2,489
 economynextcom | 2,575
 dailyftlk | 2,769
-adalk | 3,942
+adalk | 3,943
 dailymirrorlk | 4,733
 adaderanalk | 5,024
-tamilmirrorlk | 5,559
+tamilmirrorlk | 5,560
 virakesarilk | 6,781
-adaderanasinhalalk | 7,313
+adaderanasinhalalk | 7,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,708 (100.0%) of 42,710 articles have been extended.
+42,712 (100.0%) of 42,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### දුප්පත් පවුලකට මසකට රු.20,000ක් - සජිත්
+
+*2024-08-26 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200356) · `si`
+
+වසර දෙකක් තුළ දිළිඳුකම තුරන්කිරීමේ අරමුණින් දිළිඳු පවුලකට මසකට රුපියල් විසි දහසක මුදලක් ලබාදීමට පියවර ගන්නා බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති ධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා,
+
+"මම කැමතියි විශේෂ නිවේදනයක් කරන්න. මේ රටේ ලක්ෂ ගණනක ජනයා දුප්පත්කමින් මිරිකිලා. අපි ජීවත් වීමේ මාර්ගයක් නැති දුෂ්කර ජීවිතයක් ගතකරන දුප්පත් ජනතාව වෙනුවෙන් ජනසවිය, අස්වැසුමෙහි එන හොඳ ගුණාංග ගෙන අඩුපාඩු ඉවත් කර දුප්පත්කම තුරන් කිරීමේ වැඩසටහනක් ක්‍රියාත්මක කරනවා. දුප්පත් පවුලකට මසකට රු.20,000ක් දෙනවා. මාස 24ක් තුළ දුප්පත්කම තුරන් කරන වැඩසටහනක් ක්‍රියාත්මක කරනවා. පරිභෝජනය, ආයෝජනය,ඉතිරිය, නිෂ්පාදනය සහ අපනයනයට මේ ක්ෂේත්‍ර 5 ඔස්සේ දුප්පත්කම නැතිවිය යුතුයි. කවුරුත් කැමති නැහැ දුප්පත්කමේ රැඳීසිටින්නට. අපේ රටේ කිසිවෙකුට අත නොපා ජීවත්වීමට කැමති ජනතාවක්. කාන්තාව මුල්කරගෙන මේ සහන ලබාදෙනවා. කන්තලේ සීනි කම්හල ශක්තිමත් කරනවා. ප්‍රදේශයේ දියුණුව උදෙසා එය සිදුකරනවා සේරුවිල ජනතාවට ජයවේවා!"
+
+◼️
+
+[Data](articles/5aa16ca3.json)
+
+---
+
+### The campaign meeting that disappointed Fonseka
+
+*2024-08-26 20:15:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-ஏமாற்றத்தை-தந்த-பிரசார-கூட்டம்/175-342812) · `ta`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Sarath Fonseka's campaign meeting in Nuwara Eliya had low attendance. Only 10 people attended, including Fonseka. Security was tight with many police present.
+
+🟩
+
+Sarath Fonseka's campaign meeting was held today (26) at a vehicle located in the main city of Nuwara Eliya.
+
+There were about 10 people, including Fonseka, on the set up stage and the public did not visit the seat in front of the platform.
+
+In addition, when Fonseka was a military commander, the car was loaded with a lorry and parked near the stage.. The photos of its scenes were hung.
+
+However, during the meeting, a large number of police were summoned and serious security measures were taken. Remble
+
+◼️
+
+[Data](articles/bb0d3e32.json)
+
+[Extended Data](ext_articles/bb0d3e32.ext.json)
+
+---
 
 ### Fonseka is disappointed at the campaign meeting
 
@@ -57,6 +101,30 @@ However, it has been disappointing that the lack of people attending the meeting
 [Data](articles/c89ccf3d.json)
 
 [Extended Data](ext_articles/c89ccf3d.ext.json)
+
+---
+
+### President warn about queue eating
+
+*2024-08-26 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200355) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+President Ranil Wickremesinghe warns against giving power to Sajith, saying it could lead to revising the IMF agreement. He emphasizes the importance of maintaining good relations with international organizations like the IMF, World Bank, and ADB. The president criticizes the appointment of officials from the JVP to anti-corruption positions, suggesting they lack proper qualifications.
+
+🟩
+
+President Ranil Wickremesinghe says that if the people are given to Sajith or the other next year, President Ranil Wickremesinghe says.
+
+Addressing a meeting of lawyers, the President stated that if such a fate would lead to a revision of the IMF agreement.
+
+...
+
+[Data](articles/1e24e429.json)
+
+[Extended Data](ext_articles/1e24e429.ext.json)
 
 ---
 
@@ -218,17 +286,23 @@ The moment we have evolved here today, as a political movement, is the most syst
 
 ---
 
-### අනුරගේ රජයක අමාත්‍යාංශ 25යි - රාජ්‍ය අමාත්‍යධුර නෑ
+### 25 ministries of Anura's government - no
 
 *2024-08-26 19:04:45* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගේ-රජයක-අමාත්‍යාංශ-25යි---රාජ්‍ය-අමාත්‍යධුර-නෑ/11-411574) · `si`
 
-ජාතික ජනබලවේගයේ ආණ්ඩුවක විධිමත් අමාත්‍යාංශ 25ක් ඇති කරන බවත්, රාජ්‍ය අමාත්‍ය ධුර ලබානොදෙන බවත් ජාතික ජනබලවේගයේ නායක, ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. අමාත්‍යවරුන්ගේ පුද්ගලික සුඛ විහරණය සහිත ආණ්ඩුකරණය නතර කරන බව ද ඔහු ප්‍රකාශ කළේය.  සියලුම ජනයාගේ අයිතිවාසිකම් සුරක්ෂිත වන පරිදි අලුත් ආණ්ඩුක්‍රම ව්‍යවස්ථාවක් ස්ථාපිත කරන බව දිසානායක මහතා සඳහන් කළේය.
+Anura Kumara Dissanayake proposes 25 ministries without state ministers, emphasizes strong foreign policy, and calls for a new constitution to protect rights.
 
-විදෙස් රටවල් සමග ගනුදෙනු කිරීමේ දී ප්‍රධාන වශයෙන් සැලකිල්ලට ගනු ලබන්නේ එම ගනුදෙනු හරහා ලංකාවට සිදුවන වාසි අවාසි පිළිබදව පමණක් යැයි ද ඒ මහතා මහතා ප්‍රකාශ කළේය. අනුර දිසානායක මහතා මෙම අදහස් පළ කළේ අද (26දා) මොනාක් ඉම්පීරියල් හෝටලයේ පැවති ජාතික ජනබලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීමේ අවස්ථාවේදීය. එහිදී වැඩිදුරටත් අදහස් දැක්වූ ඒ මහතා මෙසේද පැවසීය.
+🟩
+
+President candidate leader Anura Kumara Dissanayake said that there are 25 proper ministries of a government in the national popularity and that there are no state minister.. He also said that the government with privately wise government is stopped.Dissanayake added that the rights of all people will establish a new constitution.
+
+He also said that only the advantages of Sri Lanka is mainly consumed in dealing with foreign countries.. Anura Dissanayake made these comments today (26th) at the event of the release of the policy statement of the national immense hotel in Monuach Imperial Hotel today (26). He further said,
 
 ...
 
 [Data](articles/1d220b8d.json)
+
+[Extended Data](ext_articles/1d220b8d.ext.json)
 
 ---
 
@@ -395,6 +469,22 @@ The Commanding Officers of the trio of Chinese People’s Liberation Army Navy w
 [Data](articles/cc8e31cb.json)
 
 [Extended Data](ext_articles/cc8e31cb.ext.json)
+
+---
+
+### ඉන්දීය යුද නැවක් කොළඹ වරයාට
+
+*2024-08-26 17:32:03* · [`adalk`](https://www.ada.lk/uncategorized/ඉන්දීය-යුද-නැවක්-කොළඹ-වරයාට/1-411569) · `si`
+
+ඉන්දීය නාවික හමුදාවට අයත් ‘INS Mumbai’ යුද නෞකාව නිල සංචාරයක් සඳහා අද දින (2024 අගෝස්තු 26) උදෑසන කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට සේන්දු වූ Destroyer වර්ගයට අයත් ‘INS Mumbai’ නෞකාව, දිගින් මීටර් එකසිය හැට තුනක් (163) හා නැව් මුළුව හාරසිය දහ දෙනෙකුගෙන් (410) සමන්විත වේ. නෞකාවේ අණදෙන නිලධාරී, ‍කපිතාන් සන්දීප් කුමාර් (Captain Sandeep Kumar) සහ බටහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් චින්තක කුමාරසිංහ අතර නිල හමුවක් අද දින (2024 අගෝස්තු 26) එම විධාන මූලස්ථානයේදී සිදුකෙරිණි.
+
+එමෙන්ම, ‘INS Mumbai’ යුද නෞකාව මෙරට රැඳී සිටින කාලසීමාව තුල එහි නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමට නියමිතව ඇති අතර, නෞකාවේ මෙහෙයුම් ක්‍රියාකාරිත්වය පිළිබඳව ශ්‍රී ලංකා නාවික හමුදා පුද්ගලයන් දැනුවත් කිරීමේ වැඩමුළුවක් නෞකාව තුළදී පැවැත්වීමටද නියමිතව ඇත.
+
+...
+
+[Data](articles/00c982d0.json)
 
 ---
 
@@ -1370,27 +1460,41 @@ Accordingly, the High Commissioner of Sri Lanka Air Chief Marshal (Rtd.) Sumanga
 
 ---
 
-### විශ්ව ප්‍රනාන්දු: අවධානයට ලක් නොවූ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ නිහඬ ගැලවුම්කරුවා
+### Universal Fernando: The Silent Savior of the Sri Lankan Cricket Team
 
 *2024-08-26 13:27:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg4ynv4004wo) · `si`
 
-විශ්ව ප්‍රනාන්දු: අවධානයට ලක් නොවූ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ නිහඬ ගැලවුම්කරුවා
+Here's a summary of 200 characters:
 
-වේග පන්දු යවන්නෙකු වන ඔහු විටක පිතිකරුවෙකු ලෙසට ද ශ්‍රී ලංකා කණ්ඩායම අසීරු අඩියට වැටුණු අවස්ථාවලදී තම දායකත්වය ලබා දුන් අවස්ථාවන් රැසක් තිබේ.
 
-මීට වසර 05කට පෙර ශ්‍රී ලංකාව ලැබූ ඓතිහාසික ජයග්‍රහණයක කොටස්කරුවෙකු ද වන මෙම ක්‍රීඩකයා බොහෝවිට මාධ්‍යවල කතාබහට ලක්වන්නේ අවම වශයෙනි.
 
-ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් කණ්ඩායමට වසර 08ක් පුරාවට නිහඬ සේවයක් ලබා දෙන ඔහු නමින් විශ්ව ප්‍රනාන්දු ය.
+Thilina Fernando, born Sept 18, 1991, is a fast bowler for Sri Lanka. He made his Test debut in 2016 vs Australia. Fernando took 12 wickets in South Africa in 2019, including 4/4 in his best performance. He helped Sri Lanka win against South Africa in 2019 and Zimbabwe in 2020. Fernando's brother, Wanadiyadu, plays ODIs and T20s for Sri Lanka.
 
-පන්දු යවන්නෙකු ලෙස පමණක් නොව පිතිකරුවෙකු වශයෙන් ද, විශ්ව ප්‍රනාන්දු ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් කළ මෙහෙවර කුමක් ද? මේ බීබීසී සිංහල සේවය ඒ සම්බන්ධයෙන් කළ සොයා බැලීමකි.
+🟩
 
-1991 වසරේ සැප්තැම්බර් මස 18 වන දා කොළඹදී උපත ලැබූ මුතුතන්ත්‍රීගේ විශ්ව තිලිණ ප්‍රනාන්දු අධ්‍යාපනය ලැබුවේ, මොරටුව සාන්ත සෙබස්තියන් විදුහලෙනි.
+Universal Fernando: The Silent Savior of the Sri Lankan Cricket Team
 
-පාසල් සමයේ සිට ක්‍රිකට් ක්‍රීඩාවට යොමුවූ විශ්ව, 2012 වසරේදී බ්ලූම්ෆීල්ඩ් ක්‍රීඩා සමාජය නියෝජනය කරමින් ඔහු තම මංගල පළමු පෙළ තරගාවලියේදී ම කඩුලු 26ක් දවා ගැනීමට සමත් විය.
+As a fast bowler, he has a batsman and the Sri Lankan team contributed to many situations when the Sri Lankan team fallen difficulty.
+
+The player is often used in the media, a part of Sri Lanka's historical achievement five years ago.
+
+It is universal Fernando in the name of the Sri Lanka Test squad for eight years.
+
+What is the mission not only as a bowler but also for the Sri Lankan team?This BBC is a search for the Sinhala service.
+
+Born in Colombo on September 18, 1991, the universal Thilina Fernando was educated at St. Sebastian's College, Moratuwa.
+
+He represented the Bloomfield Sports Club, representing the Bloomfield Sports Club, representing the Bloomfield sports club in the first year.
+
+Universal Fernando, who was played for 117 in the first class matches, had won 318 wickets in 192.
+
+His best bowling in the first markets is to be taken to alleviate 9 wickets for 88 runs.
 
 ...
 
 [Data](articles/02d2628d.json)
+
+[Extended Data](ext_articles/02d2628d.ext.json)
 
 ---
 
@@ -2505,103 +2609,5 @@ As a Sri Lankan, I assumed the presidency to defend the country. Is it wrong?I f
 [Data](articles/0f160b35.json)
 
 [Extended Data](ext_articles/0f160b35.ext.json)
-
----
-
-### 2024 Presidential Election: Postal Dept. to receive postal vote ballot papers today
-
-*2024-08-26 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101500/2024-presidential-election-postal-dept-to-receive-postal-vote-ballot-papers-today) · `en`
-
-The Postal Department will today (26) receive the reserved packet containing the registered postal vote ballot papers to be distributed to the postal voters of the 2024 presidential election.
-
-Meanwhile, distribution of official polling cards for the forthcoming Presidential Election will commence on September 03, while September 08 (Sunday) has been designated as a special day for polling card distribution.
-
-In the meantime, Deputy Postmaster General Rajitha Ranasinghe had announced yesterday (25) that the leave of all employees of the Department of Posts have been cancelled with immediate effect until the conclusion of the 2024 Presidential Election.
-
-The decision was made to ensure that all election-related responsibilities are adequately managed, he said.
-
-However, any postal worker requiring leave for essential reasons would have to obtain permission from the Deputy Postmaster General in charge of their province, he added.
-
-...
-
-[Data](articles/759c19f4.json)
-
-[Extended Data](ext_articles/759c19f4.ext.json)
-
----
-
-### Yall. Police officer assaulting public
-
-*2024-08-26 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191975) · `ta`
-
-Police officer sacked for assaulting civilian while on duty at liquor bar. Officer attempted bribery and attack on public. Victim filed complaint, officer arrested and released on bail.
-
-🟩
-
-A police officer who was on duty at a liquor bar has been sacked after he assaulted a civilian.
-
-A police officer of Kayts was on duty in the area on Saturday night (24) night.. In the meantime, he tried to bribe the public who went by the road and attacked him.
-
-The victim had lodged a complaint at the Kayts police station. The police officer was arrested by the Kayts police and produced in court.
-
-In this case, the police officer had given permission to go to two bail of one million rupees each. It is also noteworthy that he has been fired.
-
-◼️
-
-[Data](articles/5e4ab919.json)
-
-[Extended Data](ext_articles/5e4ab919.ext.json)
-
----
-
-### Two fatal accidents
-
-*2024-08-26 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200332) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Fatal accidents: two deaths on island roads. Motorbike fell off bridge, two motorcyclists drowned. Another motorcycle crashed, bus severely damaged.
-
-🟩
-
-Two persons have died due to road accidents in several parts of the island yesterday, police spokesman's office said.
-
-On the bridge near the Palunudam Kovil on the Kalawanchikudi police division, a motorbike has gone out of the bridge.
-
-Two motorcyclists have traveled with the motorcyclist, and another submerged after each of them.
-
-The deceased is a resident of Periyapitiyaarathivu, 38.
-
-Meanwhile, a motorcycle driven towards Karattakadake Junction on the Kumbukkada junction on the Kumbukkada junction on Pulasthiwiti police division has gone up to the copper.
-
-The bus was seriously injured in the accident.
-
-◼️
-
-[Data](articles/e514d9cc.json)
-
-[Extended Data](ext_articles/e514d9cc.ext.json)
-
----
-
-### President challenges Sajith and Anura to an open discussion
-
-*2024-08-26 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101499/president-challenges-sajith-and-anura-to-an-open-discussion) · `en`
-
-President Ranil Wickremesinghe has challenged Sajith Premadasa and Anura Kumara Dissanayake to participate in an open virtual discussion with the International Monetary Fund (IMF).
-
-This will allow the entire nation to assess the truthfulness of their public promises and statements, he said.
-
-The President also highlighted that altering the agreement with the IMF is not feasible. He emphasized that such changes could lead to another economic collapse, with Premadasa and Dissanayake’s “misleading promises” of reduced prices and taxes potentially worsening the country’s situation. He stressed the need to prevent such deceptions.
-
-President Ranil Wickremesinghe noted that while he wishes to reduce the prices of goods and lower taxes, such actions can only be achieved by strengthening the rupee and adhering to the agreements with the IMF.
-
-...
-
-[Data](articles/07cd44f0.json)
-
-[Extended Data](ext_articles/07cd44f0.ext.json)
 
 ---

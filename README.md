@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 00:37:09**
+As of **2024-08-27 00:54:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,738 (100.0%) of 42,741 articles have been extended.
+42,740 (100.0%) of 42,741 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,6 +76,8 @@ Economic context when President Ranasinghe Premadasa took over as President
 
 [Data](articles/157693f6.json)
 
+[Extended Data](ext_articles/157693f6.ext.json)
+
 ---
 
 ### Uncertainty, stability and the Executive Presidency
@@ -89,6 +91,8 @@ It is said that the beauty of cricket is in its uncertainty. This could be the r
 ...
 
 [Data](articles/4a4ca03a.json)
+
+[Extended Data](ext_articles/4a4ca03a.ext.json)
 
 ---
 

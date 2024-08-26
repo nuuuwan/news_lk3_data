@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 00:54:10**
+As of **2024-08-27 01:06:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,740 (100.0%) of 42,741 articles have been extended.
+42,741 (100.0%) of 42,741 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -109,6 +109,8 @@ Indeed foreign social media platforms have unduly influenced election results in
 ...
 
 [Data](articles/c31f63b5.json)
+
+[Extended Data](ext_articles/c31f63b5.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 22:37:05**
+As of **2024-08-26 22:56:32**
 
 ## Newspaper Stats
 
@@ -26,45 +26,67 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,725 (100.0%) of 42,732 articles have been extended.
+42,732 (100.0%) of 42,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### மற்றுமொரு SLPP எம்.பி ரணிலுடன் இணைந்தார்
+### Another SLPP MP joined Ranil
 
 *2024-08-26 22:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-SLPP-எம்-பி-ரணிலுடன்-இணைந்தார்/175-342827) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு தனது ஆதரவை வழங்குவதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினர் விமலவீர திஸாநாயக்க தெரிவித்துள்ளார்.
+SLPP MP joins Ranil Wickremesinghe's presidential campaign. Wimalaweera Dissanayake supports Wickremesinghe. Meeting planned at political office in Colombo.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை கொழும்பு பிளவர் வீதியில் உள்ள அவரது அரசியல் காரியாலயத்தில் சந்தித்து அவருக்கு ஆதரவு வழங்குவதாக விமலவீர உறுதியளித்தார்.
+🟩
+
+Sri Lanka PA's Digamadulla District Parliamentarian Wimalaweera Dissanayake has said that Ranil Wickremesinghe will support Ranil Wickremesinghe in the upcoming presidential election.
+
+Wimalaweera promised to meet President Ranil Wickremesinghe at his political office on Blower Road, Colombo.
 
 ◼️
 
 [Data](articles/9590b969.json)
 
+[Extended Data](ext_articles/9590b969.ext.json)
+
 ---
 
-### රිස්වාන්ට පන්දුවෙන් දමාගැසූ ශකීබ්ට වැඩ වරදියි
+### Shakuck, whom Riswan was thrown into batting
 
 *2024-08-26 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200360) · `si`
 
-බංග්ලාදේශය හා පාකිස්තානය අතර රාවල්පිණ්ඩිහිදී අවසන් වූ පළමු ටෙස්ට් ක්‍රිකට් තරගයේ පාකිස්තානු දෙවැනි ඉනිමේ පන්දුවට පහරදෙමින් සිටි මොහොමඩ් රිස්වාන් දෙසට පන්දුව දමාගැසීම හේතුවෙන් බංග්ලාදේශ ක්‍රීඩක ශකීබ් අල් හසන්ට දඩ පැනවීමට අයි.සී.සී.ය පියවර ගෙන ඇත.
+Here's a summary of the text in 200 characters:
 
-මෙය තම චර්යාධර්ම සංග්‍රහයේ පළමු මට්ටමේ වරදක් බව පෙන්වාදෙන  ICCය, ශකීබ්ගේ තරග ගාස්තුවෙන් 10%ක දඩයක් පනවා ඇත.
 
-එහිදී ශකීබ් පන්දු යැවීම ආරම්භ කරන විටත් රිස්වාන් පන්දුවට පහරදීමට සූදානම් වී නොසිටි අතර, ඊට උරණ වූ ඔහු ක්ෂණිකව තම අතෙහි තිබූ පන්දුව කඩුලු රකිමින් සිටි ලිටන් දාස් වෙතට යොමු කළේය.
 
-මේ අතර මෙම තරගයේදී කණ්ඩායම් දෙකම අඩු පන්දුවාර වේගයක් පවත්වා ගැනීම හේතුවෙන්  කණ්ඩායම් දෙකටම ICCය විසින් දඬුවම් පනවා ඇත.
+ICC fines Pakistan 30%, Bangladesh 15% match fees for misconduct during Test match.
 
-මෙම තරගාවලිය 2023-25 ටෙස්ට් ලෝක ශූරතාව යටතේ පැවැති හෙයින් ඔවුන්ගේ ප්‍රසාද ලකුණු වලින්ද අඩු කිරීමට ICCය කටයුතු යොදා ඇත.
+🟩
 
-පාකිස්තානය නියමිත කාලය අවසන් වද්දී පන්දුවාර 06ක් අඩුවෙන් යොමුකර ඇති අතර, ඒ හේතුවෙන් ලකුණු 06ක්ද, බංග්ලාදේශය පන්දුවාර 03ක් අඩුවෙන් යොමුකර ඇකි හෙයින් ලකුණු 03ක්ද අඩුකර ඇත.
+Bangladesh players Shawluffan player Shawlipandi, Bangladesh and Pakistan, was hitting the Pakistan's second Test cricket team, and the ICC measures.
 
-...
+It is a first-level offense of his conduct of the Code of Conduct and a fine of 10% of Shakab's competition fee.
+
+While Shakyab started bowling, Riswan was not ready to bat first, and he was constantly chased to the lobton, who was in his hand.
+
+Meanwhile, both groups have been sentenced to both groups due to both teams in the competition.
+
+The ICC has also taken steps to reduce these tournaments under the 2023-25 ​​Test World Championship.
+
+Since Pakistan ended the time end of the time, 6 runs, 6 runs, Bangladesh has scored three runs.
+
+Pakistan has fallen to this Test World Championship at the Test World Championship with the cutting of the score and down to the 7th.
+
+Before the cutting of these marks, Bangladesh was 5th in this score.
+
+The ICC has decided to 30% of the Pakistan's match fee and 15% of the Bangladesh team.
+
+◼️
 
 [Data](articles/12074c4f.json)
+
+[Extended Data](ext_articles/12074c4f.ext.json)
 
 ---
 
@@ -606,33 +628,55 @@ Significantly, his comments have been made in response to the recent reports of 
 
 ---
 
-### ලක්ෂ 400 භාණ්ඩ තොගයක් කටුනායකින් පන්නන්න බැරිවෙයි
+### 400 lakhs cannot be moved from Katunayake
 
 *2024-08-26 18:05:39* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-400-භාණ්ඩ-තොගයක්-කටුනායකින්-පන්නන්න-බැරිවෙයි/11-411571) · `si`
 
-රුපියල් කෝටි හතරක් පමණ වටිනා භාණ්ඩ තොගයක් නීතිවිරෝධී ලෙස  සහ නිසි අවසරයකින් තොරව මෙරටට රැගෙන විත් , තීරු බදු නොගෙවා  කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යාමට තැත් කළ ගුවන් මගීන් දෙදෙනෙකු ද සමග ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් 08/26 දින අත් අඩංගුවට ගෙන තිබේ.
+Two passengers arrested at Katunayake Airport CID for smuggling items including satellite TVs, squash, knives, and coffee packets.
 
-මෙම ගුවන් මගීන් දෙදෙනා කොළඹ , ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ පදිංචි 57 හැවිරිදි කාන්තාවක සහ 55 හැවිරිදි පිරිමි පුද්ගලයෙකි . මොවුන් දෙදෙනා ඥාතීත්වයෙන් අක්කා සහ මල්ලී වන අතර ඔවුන් ව්‍යාපාරිකයන්ගේ අවශ්‍යතා මත විදේශයන් වෙත ගොස් භාණ්ඩ ගෙනැවිත් දීමේ ව්‍යාපාරයක නිරත වී සිටින්නන් වේ.
+🟩
 
-මොවුන් දෙදෙනා 08/26 දින උදෑසන 06.51 ට ඉන්දියාවේ චෙන්නායි සිට ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 273 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+Airport Criminal Investigations Department (CID) has been arrested by the airport criminal investigations with two passengers who were not paid to Sri Lanka without Rs.
 
-ඔවුන් ව්‍යාපාරිකයන් සදහා කටුනායක ගුවන් තොටුපොළ තුළ  වෙන් කර ඇති "රක්ත මාවත " ඔස්සේ ගුවන් තොටුපොළෙන් පිට වී යමින් සිටියදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් මෙම අත් අඩංගුවට ගැනීම සිදු කර තිබේ.
+The two passengers are a 57 year old woman, 55, 55, a 55 year old resident of Grandpass, Colombo. The two are their sister and his brother with the public and they are engaged in the business of business needs.
+
+The two were from Chennai, India from Chennai, India, India, India, India's flight.
+
+The arrests were carried out by the Criminal Investigations Department (CID) while leaving the airport along the "Rakodaya" airport.
+
+The baggage of the two spices, Chandrika television devices (Satalite television devices), 28 bottles of squash Leader and Benson and Benson and Benson and Benson & Benson and Hedges,
+
+There were 1,100 surgery knives without proper permission without proper permission, 2,220 packets of Indian coffee, nights, nights, nights.
 
 ...
 
 [Data](articles/570abc94.json)
 
+[Extended Data](ext_articles/570abc94.ext.json)
+
 ---
 
-### සජිත් සහ අනුර සත්‍ය නිදි කරමින්, බොරුව වපුරමින් සිටිනවා
+### Sajith and Anura are sowing lies, sleeping
 
 *2024-08-26 17:54:02* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-සහ-අනුර-සත්‍ය-නිදි-කරමින්--බොරුව-වපුරමින්-සිටිනවා/11-411570) · `si`
 
-දීර්ඝ කාලයක් පුරා ශ්‍රී ලංකා නිදහස් පක්ෂය නියෝජනය කරමින් ප්‍රබල ක්‍රියාකාරින් ලෙස කටයුතු කළ පිරිසක් මෙවර ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කිරීමට එක් වෙති.
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka Freedom Party members support President Ranil Wickremesinghe's victory. They claim Sajith Premadasa and Anura Kumara Dissanayake spread false information about the economy. The party believes the public is now realizing the truth.
+
+🟩
+
+A group of people representing the Sri Lanka Freedom Party (SLFP) participated in the victory of President Ranil Wickremesinghe in this year's presidential election.
+
+Former Deputy Minister of Sri Lanka Freedom Organizations of the Kalutara electorate, Kalutara district MP Priyangani Abeyweera, Chief Organizer of the Gampaha electorate, SD. Mr. Bandaranaike's son of Mr. Bandaranaike, Prawne Dias Bandaranaike, Chief Organizer of the Sri Lanka Freedom Party in the Kolonnawa electorate.Organizer Oregon Suramani Sure, Sri Lanka Freedom Organizer of Sri Lanka Freedom Organizer Thilak Waragoda, Laggala Sri Lanka Freedom Organizer Thilak Wakegoda, Gampaha District SLFP organizer Chamila de SilvaPresident Ranil Wickremesinghe's political office at Malrawa, Colombo, said that he was committed to the President's victory this morning.
 
 ...
 
 [Data](articles/94fbf2de.json)
+
+[Extended Data](ext_articles/94fbf2de.ext.json)
 
 ---
 
@@ -1784,6 +1828,8 @@ Wickremesinghe said Sri Lanka has to raise 5 trillion rupees in revenue in 2025.
 
 [Data](articles/035ceaf8.json)
 
+[Extended Data](ext_articles/035ceaf8.ext.json)
+
 ---
 
 ### Sri Lanka promotes Ramayana Trail in Malaysia eyeing tourism growth
@@ -1885,6 +1931,8 @@ The IRD has collected 1,224 billion rupees, 60 percent of the 2024 target, as of
 ...
 
 [Data](articles/32f91fb1.json)
+
+[Extended Data](ext_articles/32f91fb1.ext.json)
 
 ---
 
@@ -2067,6 +2115,8 @@ Even for the state agencies to pay the taxes, the Treasury will probably have to
 ◼️
 
 [Data](articles/0d744157.json)
+
+[Extended Data](ext_articles/0d744157.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 02:36:48**
+As of **2024-08-27 02:55:24**
 
 ## Newspaper Stats
 
-*Scraped **42,745** Articles*
+*Scraped **42,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 395
 colombotelegraphcom | 409
 islandlk | 2,489
 economynextcom | 2,584
-dailyftlk | 2,772
+dailyftlk | 2,778
 adalk | 3,945
 dailymirrorlk | 4,733
 adaderanalk | 5,026
@@ -26,27 +26,141 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,744 (100.0%) of 42,745 articles have been extended.
+42,745 (100.0%) of 42,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### சொத்து விவரங்களை சரிபார்க்க வழி இல்லை
+### Cardinal defends judiciary amid Govt. criticism
+
+*2024-08-27 02:35:38* · [`dailyftlk`](https://www.ft.lk/news/Cardinal-defends-judiciary-amid-Govt-criticism/56-766022) · `en`
+
+Expresses deep concern over Govt.’s harsh criticism of judiciary following rulings that were not in its favour
+
+Emphasises critical importance of judicial independence in a democratic society
+
+Highlights fundamental liberty judges must have to hear and decide cases free from external interference
+
+Urges all parties to refrain from undermining the judiciary and protect it instead
+
+...
+
+[Data](articles/bdf48b24.json)
+
+---
+
+### Digital election trial possible for Provincial Council elections, says President
+
+*2024-08-27 02:32:54* · [`dailyftlk`](https://www.ft.lk/news/Digital-election-trial-possible-for-Provincial-Council-elections-says-President/56-766021) · `en`
+
+Highlights shift towards funding commercially-oriented science and tech policies and research
+
+Four new universities to be established, including a Chennai IIT campus in Galaha
+
+In embracing the digital future of Sri Lanka, President Ranil Wickremesinghe stated that digitisation would soon also be extended to the election system, as proposed by the commission led by former Chief Justice Priyasad Depp.
+
+The discussion took place at an IT Professionals’ Forum, themed ‘Coding the Nation’s Future.’
+
+Industry experts, including World Bank Senior Digital Development Specialist Siddhartha Raja, spoke on the digital future of the country and the industry’s seven-year plan, collaboratively initiated with the World Bank, to contribute $ 15 billion to Sri Lanka’s GDP by 2030.
+
+...
+
+[Data](articles/27531a26.json)
+
+---
+
+### Janaka Ratnayake pledges to reduce fuel prices
+
+*2024-08-27 02:31:00* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-pledges-to-reduce-fuel-prices/56-766020) · `en`
+
+United Lanka Podujana Party Presidential candidate Janaka Ratnayake yesterday announced plans to reduce fuel prices if elected.
+
+Speaking at a campaign event in Homagama, he emphasised that the increase in fuel prices as a significant factor contributing to the rising cost of vegetables and other essential goods.
+
+“Two years ago, I said at the CoPF that the price of a litre of fuel could be reduced by Rs. 200, but within the last six to seven months, the price of fuel has been reduced by only
+
+In his vision for a more efficient Government, Ratnayake proposed the use of trains for transporting goods, which he believes would be more cost-effective.
+
+He highlighted his commitment to stabilising the prices of 20 essential items and offering economic concessions to alleviate the financial burdens faced by many citizens.
+
+...
+
+[Data](articles/ae124425.json)
+
+---
+
+### Australia’s United Petroleum top officials meet President to discuss expansion plans
+
+*2024-08-27 02:27:27* · [`dailyftlk`](https://www.ft.lk/business/Australia-s-United-Petroleum-top-officials-meet-President-to-discuss-expansion-plans/34-766019) · `en`
+
+Australian energy giant, United Petroleum’s senior leadership team, including Co-Founder Avi Silver, Group CFO Nigel Simonsz, Group Procurement Head Brett Crawford and United Petroleum Lanka Director/CEO Dr. Prabath Samarasinghe, met with President Ranil Wickremesinghe yesterday to discuss the company’s operations and future plans in Sri Lanka.
+
+The meeting, which was also attended by BOI Chairman Dinesh Weerakkody, comes as United Petroleum launches its first international retail operations outside Australia.
+
+The Australian energy giant hosted a distributor felicitation event in Colombo last week, signalling its intent to expand its lubricant range and introduce a convenience store concept at its gas stations.
+
+Starting from 28 August, United Petroleum will begin operations with 150 filling stations and plans to establish 50 additional fuel stations, representing an investment of over $ 100 million to bolster its market presence.
+
+◼️
+
+[Data](articles/bb2d3bc3.json)
+
+---
+
+### Sri Lanka’s Creative Green Map debuts on Saturday
+
+*2024-08-27 02:26:12* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-Creative-Green-Map-debuts-on-Saturday/34-766018) · `en`
+
+“The Routes we Take: Sri Lanka’s Creative Green Map” is set to be unveiled to the public at an exhibition scheduled for 31 August and 1 September 2024, at Trace Expert City, Maradana, and will be open to the public for viewing.
+
+The project is a co-creation of the EUNIC Cluster in Sri Lanka and Good Life X, to collectively create a digital map of the circular and creative industries of Sri Lanka in reviving and revealing its potential to South Asia and beyond.  The exhibition will showcase ten creatives from across the country, and will host interactive workshops, live performances and open studio tours of creatives within Colombo for people to visit.
+
+...
+
+[Data](articles/d33a761e.json)
+
+---
+
+### Sri Lanka-Malaysia Business Council marks 30 years of excellence in bilateral relations
+
+*2024-08-27 02:25:48* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Malaysia-Business-Council-marks-30-years-of-excellence-in-bilateral-relations/34-766017) · `en`
+
+From left: Immediate past President Spillburg Holdings Managing Director M.H.K. Mohamed Hameez, Vice President Ganlath Timber and Transport Service Sole Proprietor G.A.D.A. Tissa Ganlath, SLMBC Patron High Commissioner of Malaysia Badli Hisham Adam, President Amana Bank Deputy Head – Orphan Care Mohamed Marshad Barry, Vice President Dialog Axiata Senior Manager – Enterprise Marketing, Sponsorships and Loyalty Kushan Atapattu, Secretary Ceylon Chamber of Commerce Manager Tharushika Senadeera
+
+...
+
+[Data](articles/964a06d1.json)
+
+---
+
+### There is no way to verify property details
 
 *2024-08-27 01:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்து-விவரங்களை-சரிபார்க்க-வழி-இல்லை/175-342833) · `ta`
 
-இம்முறை ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்கள் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்வதற்கான ஆணைக்குழுவிடம் தமது சொத்துக்கள் மற்றும் பொறுப்புகளை அறிவித்துள்ளனர்.
+Here's a summary of the text in 200 characters:
 
-இதனையடுத்து, குறித்த ஆணைக்குழு தனது இணையதளத்தில் அனைத்து ஜனாதிபதி வேட்பாளர்களின் சொத்துக்கள் மற்றும் பொறுப்புகள் பகிரங்கபடுத்தப்பட்டுள்ளன.
 
-எவ்வாறாயினும், குறித்த ஆணைக்குழுவின் உத்தியோகப்பூர்வ இணையதளத்தில் இவ்வாறு வெளியாகியுள்ள வேட்பாளர்கள் மற்றும் ஏனைய அதிகாரிகள் வழங்கிய தகவலின் துல்லியத்தை சரிபார்க்கும் எந்த ஒரு வழிமுறையும் தற்போது இல்லை.
 
-வேட்பாளர்கள் பற்றிய தகவல்களை பகிரங்கமாக வெளியிட வேண்டும் என, பல ஆண்டுகளாக பல்வேறு சிவில் சமூக அமைப்புகள் வலியுறுத்தி வந்த நிலையில், ஊழலுக்கு எதிரான வலுவான நடவடிக்கைகளை அமுல்படுத்துவதற்கு சர்வதேச நாணய நிதியத்துக்கு (IMF) அரசாங்கம் உறுதி அளித்ததை தொடர்ந்து இயற்றப்பட்ட புதிய ஊழல் எதிர்ப்பு சட்டத்திற்கு  அமைய  சொத்துக்கள் மற்றும் பொறுப்புக்களை வெளிப்படுத்த வேண்டியது கட்டாயமானதாக்கப்பட்டது.
+Presidential candidates disclose assets and responsibilities to anti-corruption commission. However, lack of verification process raises concerns about accuracy. Legal requirements exist, but implementation challenges hinder effective monitoring.
+
+🟩
+
+This time the candidates contesting the presidential election have announced their assets and responsibilities to the Commission to investigate bribery or corruption.
+
+Subsequently, the Commission has made public the assets and responsibilities of all the Presidential candidates on its website.
+
+However, there is currently no means of verifying the accuracy of the information provided by the candidates and other officials published on the official website of the Commission.
+
+As various civil society organizations have been urged to publicly publish information on candidates, it has been mandatory for the IMF government to implement strong measures against corruption, it has been mandatory to express assets and responsibilities.
+
+Accordingly, in Article 88 (1) of the Anti -Corruption Act, No. 9 of 2023, it is clearly stated that the assets and responsibilities are to be revealed.
 
 ...
 
 [Data](articles/216ed445.json)
+
+[Extended Data](ext_articles/216ed445.ext.json)
 
 ---
 
@@ -2545,179 +2659,5 @@ Even for the state agencies to pay the taxes, the Treasury will probably have to
 [Data](articles/0d744157.json)
 
 [Extended Data](ext_articles/0d744157.ext.json)
-
----
-
-### Physiotherapy kills a private university student
-
-*2024-08-26 12:47:03* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලික-සරසවි-සිසුවෙකුගේ-පහරදිමෙන්-භෞත-චිකිත්සක-ජීවිතක්ෂයට/11-411560) · `si`
-
-Here's a summary of the article in 200 characters:
-
-
-
-Physiotherapy student killed by 44-year-old practitioner in Welimada. Suspect arrested. Victim found in three-story building. Police investigation ongoing.
-
-🟩
-
-The Physiotherapist, a 19-year-old student of a private university (Network Inigid) and a stalls of a 44-year-old physiotherapy, the Physiotherapist said yesterday that Physiotherapist had died last night.
-
-The victim was a 44 year old Sarar.. The suspect student of Welimada has been arrested by police regarding the attack
-
-Police investigations have revealed that the dead had been accommodated with two other people on a three storied building in a three-storied building at Devanam Piyatissa Mawarana, Maradayanona Devanam Piyatissa.
-
-The suspect had been lifted and studying the bulb yesterday (25) and the bulb has said that the bulb has said that the bulb has said.
-
-The suspect was seriously injured and the suspect had been seriously injured and the two persons who were in the room were hospitalized after being hospitalized by a aluminum mug.
-
-Inspector of Maradana Police Chief Inspector Ishahahant Kumara's instructions
-
-◼️
-
-[Data](articles/a39a78de.json)
-
-[Extended Data](ext_articles/a39a78de.ext.json)
-
----
-
-### Husband set fire to his wife in Jaffna hospital
-
-*2024-08-26 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/192010) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Husband sets fire to wife in Jaffna hospital. Dispute escalates after 10 years of marriage. Wife hospitalized with burns. Husband flees scene. Police investigating incident.
-
-🟩
-
-A woman has been admitted to hospital due to family problems in Jaffna - Achuveli area.
-
-The incident took place at around 11 pm on Sunday (25).
-
-10 years after the marriage, the family was reportedly getting into trouble, while the husband came home and got into a room after a dispute with his wife while intoxicated, police said.
-
-The 28 -year -old woman, the mother of two children in the incident, is undergoing burns.
-
-The injured woman has been admitted to the Achuveli Divisional Hospital and has been admitted to the Jaffna Teaching Hospital for further treatment.
-
-Achuveli police are conducting further investigations into the incident as the husband has fled the incident.
-
-◼️
-
-[Data](articles/8affc09d.json)
-
-[Extended Data](ext_articles/8affc09d.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-26 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/192008) · `ta`
-
-Here's a summary of the currency exchange rate in 200 characters:
-
-
-
-US Dollar: 295.3731 INR (buy), 304.6485 INR (sell) on August 26.
-
-🟩
-
-The US dollar purchasing price was 295.3731 rupees and the sales price were Rs 304.6485 on Monday (August 26).
-
-◼️
-
-[Data](articles/a7222831.json)
-
-[Extended Data](ext_articles/a7222831.ext.json)
-
----
-
-### We will confirm the language rights of Tamils ​​through the State Administration - Anuragumara
-
-*2024-08-26 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/192005) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-National People's Power presidential candidate Anura Kumara Dissanayake promises Tamil language rights through state administration. He vows to end 2015-2019 constitution activities, recognize ethnic group rights, and redistribute economic progress. Plans include food production improvement, tax removal, education restructuring, and reduced water/electricity bills.
-
-🟩
-
-Anurakumara Dissanayake, president and presidential candidate of the National People's Power and Presidential candidate, said that when a Tamil man questioned the language of the Tamils ​​through the state administration, a Tamil man would be forced to respond to the Tamil language.
-
-The National People's Election Elections, the party's president and presidential candidate, was released in Colombo today (26) by the party's president and presidential candidate.
-
-The leader of the National People's Power, Anura Kumara Dissanayake, said this while addressing the election manifesto to religious leaders.
-
-The executive presidency will implement an alternative system instead of the system.A new constitution will be created in favor of all people.
-
-Let us implement the legislative doctrine of all equal before the law.
-
-We will create a new constitution that will end the activities of the new constitution from 2015 to2019 and recognize the rights of all ethnic groups.
-
-...
-
-[Data](articles/359bbdfd.json)
-
-[Extended Data](ext_articles/359bbdfd.ext.json)
-
----
-
-### Australian employees now have the right to ignore work emails, calls after hours
-
-*2024-08-26 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101513/australian-employees-now-have-the-right-to-ignore-work-emails-calls-after-hours) · `en`
-
-Australian employees can now ignore work emails and calls thanks to a new “right to disconnect” law designed to curb those and other intrusions into personal lives.
-
-The new rule, which came into force on Monday, means employees, in most cases, cannot be punished for refusing to read or respond to contacts from their employers outside work hours.
-
-Supporters say the law gives workers the confidence to stand up against the steady invasion of their personal lives by work emails, texts and calls, a trend that has accelerated since the COVID-19 pandemic scrambled the division between home and work.
-
-“Before we had digital technology there was no encroachment, people would go home at the end of a shift and there would be no contact until they returned the following day,” said John Hopkins, an associate professor at Swinburne University of Technology.
-
-“Now, globally it’s the norm to have emails, SMS, phone calls outside those hours, even when on holiday.”
-
-...
-
-[Data](articles/15bd97ce.json)
-
-[Extended Data](ext_articles/15bd97ce.ext.json)
-
----
-
-### One person killed in IcelandLike magic
-
-*2024-08-26 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191994) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-Tourist dies in Iceland glacier fall; 2 injured. Group of 25 exploring ice caves when iceberg collapses. One killed instantly, others rescued. Search halted until morning.
-
-🟩
-
-One of the tourists died in the fall of a snowfall in southeastern Iceland and two others were injured.
-
-A group of 25 people visited the Breedamarkurgul Glacier area in the southeastern Iceland on Sunday (25).
-
-The iceberg is part of the Vatnajokul National Park, which is one of Europe's largest national parks, spread over an area of ​​about 5,460 square miles.
-
-The iceberg has fallen when they are exploring the ice caves and valleys in the iceberg.
-
-Four people were affected by the collapse of the snow and two of them were rescued, police said.
-
-One of them died on the spot and the other was taken to Landsbital, the National University Hospital of Iceland.
-
-The rescue crews have stopped the search for the missing persons in the Breedamarkurgul Glacier area until the morning.
-
-◼️
-
-[Data](articles/6d30213e.json)
-
-[Extended Data](ext_articles/6d30213e.ext.json)
 
 ---

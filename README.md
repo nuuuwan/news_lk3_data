@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 03:55:32**
+As of **2024-08-27 04:08:21**
 
 ## Newspaper Stats
 
-*Scraped **42,755** Articles*
+*Scraped **42,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,779
 adalk | 3,945
 dailymirrorlk | 4,733
 adaderanalk | 5,026
-tamilmirrorlk | 5,567
+tamilmirrorlk | 5,568
 virakesarilk | 6,788
 adaderanasinhalalk | 7,319
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,755 (100.0%) of 42,755 articles have been extended.
+42,755 (100.0%) of 42,756 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -193,6 +193,22 @@ He also said that these three companies have earned the highest income in histor
 [Data](articles/b2235860.json)
 
 [Extended Data](ext_articles/b2235860.ext.json)
+
+---
+
+### ’என்னுடன் சிறந்த குழு’
+
+*2024-08-27 01:20:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னுடன்-சிறந்த-குழு/175-342836) · `ta`
+
+ஒரு கட்சியில் அன்றி அனைத்து கட்சிகளிலும் உள்ள திறமையான அணியை ஒன்றிணைத்து கடந்த இரண்டு வருடங்களில் நாட்டின் பொருளாதாரத்தை ஸ்திரமான நிலைக்கு கொண்டு வர தன்னால் முடிந்ததாகவும், தன்னுடன் இருக்கும் பொருளாதாரக் குழுவை மிஞ்ச வேறு எந்த கட்சியிலும் குழுவொன்று இல்லை  எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அந்தக் கட்சிகளில் இருக்கும் சிலர் தான் அரசியலுக்கு கொண்டு வந்தவர்கள் என்பதால் அது தொடர்பில் தனக்கு நன்றாகத் தெரியும் எனத் தெரிவித்த ஜனாதிபதி,  ஜனாதிபதி யார் என்பது தொடர்பில் அன்றி, மக்களை வாழ வைப்பது தொடர்பிலே போட்டியிருப்பதாகவும், கேஸ் சிலிண்டரை தேடிச் சென்ற யுகத்துக்கு முடிவு கட்டுவதற்கே இம்முறை வாக்களிக்க வேண்டும் எனவும் சுட்டிக்காட்டினார்.
+
+கொழும்பு தாஜ் சமுத்திரா ஹோட்டலில் ஞாயிற்றுக்கிழமை  (25) மாலை நடைபெற்ற சட்ட வல்லுனர்களுடனான சந்திப்பில் கலந்துகொண்டு உரையாற்றும்போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/9e39c616.json)
 
 ---
 
@@ -2621,39 +2637,5 @@ After his graduation, he said to the media, "Age is not an obstacle to education
 [Data](articles/8b279641.json)
 
 [Extended Data](ext_articles/8b279641.ext.json)
-
----
-
-### Israeli-Hezbollah intensifies
-
-*2024-08-26 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200344) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Hezbollah launches 300+ rockets/drones on Israel, claims success. Israel denies prevention. Both sides target each other in Lebanon.
-
-🟩
-
-The Hezbollah leader says that the attack on Israel yesterday (25) was successful.
-
-He said that the Israeli army was in the backdrop that the Israeli army has emphasized that Hezbollah has successfully suppressed.
-
-Hezbollah in Lebanon launched more than 300 rockets and drones attacks on Israel, and they are Russia's product filed.
-
-Hezbollah captain Siad Hassan Naralla said that his organization is still counting to Israel's damage to Israel.
-
-He also said that the attack took place as planned and denied Israeli statements that they were successfully prevented.
-
-In response to Hezbollah, Israel also targeted many places in Lebanon and a video.
-
-It is reported that hezbollah and three members of the Amal supported with them.
-
-◼️
-
-[Data](articles/1bca04c3.json)
-
-[Extended Data](ext_articles/1bca04c3.ext.json)
 
 ---

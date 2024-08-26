@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 12:11:09**
+As of **2024-08-26 12:22:02**
 
 ## Newspaper Stats
 
-*Scraped **42,634** Articles*
+*Scraped **42,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,94 @@ economynextcom | 2,575
 dailyftlk | 2,769
 adalk | 3,930
 dailymirrorlk | 4,733
-adaderanalk | 5,008
+adaderanalk | 5,010
 tamilmirrorlk | 5,550
 virakesarilk | 6,766
-adaderanasinhalalk | 7,299
+adaderanasinhalalk | 7,300
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,627 (100.0%) of 42,634 articles have been extended.
+42,634 (100.0%) of 42,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
 
-### பாகிஸ்தானில் தீவிரவாத தாக்குதலில்  23 பேர் உயிரிழப்பு
+### පාකිස්තානයේ ප්‍රබල ත්‍රස්ත ප්‍රහාරයක්
+
+*2024-08-26 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200341) · `si`
+
+නිරිතදිග පාකිස්තානයේ මගී බස්රථ ඉලක්ක කර එල්ලකළ ත්‍රස්ත ප්‍රහාරයකින් විශාල පිරිසක් මියගොස් ඇති බව වාර්තා වෙයි.
+
+එරට අභ්‍යන්තර කටයුතු පිළිබඳ අමාත්‍යවරයා එම ප්‍රහාරය සම්බන්ධයෙන් තොරතුරු අනාවරණය කර තිබුණි.
+
+◼️
+
+[Data](articles/f15427fd.json)
+
+---
+
+### Price of tea fertilizer bag reduced by Rs. 4,000 as subsidy program re-implemented
+
+*2024-08-26 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101510/price-of-tea-fertilizer-bag-reduced-by-rs-4000-as-subsidy-program-re-implemented) · `en`
+
+The Ministry of Agriculture and Plantation Industries has re-implemented the fertilizer subsidy program aimed at reducing costs for tea cultivators in Sri Lanka.
+
+As part of this initiative, the Ministry of Agriculture and Plantation Industries has taken steps to reduce the prices of five key fertilizer types produced by the State Fertilizer Company.
+
+Under this program, the cost of a 50kg bag of tea fertilizer has been reduced by Rs. 4,000, offering substantial relief to tea planters across the country.
+
+The fertilizer types subjected to this price reduction include T 200, T 750, U 709, U 834, and T 65.
+
+With a total investment of Rs. 2,400 million, this subsidy program is fully funded by the Sri Lanka Tea Board, ensuring that no government funds are utilized, Minister of Agriculture and Plantation Mahinda Amaraweera said.
+
+◼️
+
+[Data](articles/e8130401.json)
+
+---
+
+### 23 killed in terrorist attacks in Pakistan
 
 *2024-08-26 11:48:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-தீவிரவாத-தாக்குதலில்-23-பேர்-உயிரிழப்பு/50-342796) · `ta`
 
-தொழிலாளர்களை ஏற்றிச் சென்ற பேருந்தை வழிமறித்து அதில் இருந்தவர்கள் மீது சரமாரி துப்பாக்கிச்சூடு நடத்தப்பட்டது.
+Here's a summary of the text in 200 characters:
 
-இத்தாக்குதலில் 23 தொழிலாளர்கள் உயிரிழந்த நிலையில் 5 பேர் படுகாயமடைந்து மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.S
+
+
+23 killed in Pakistan terror attack. Bus carrying workers ambushed, 5 injured.
+
+🟩
+
+The bus carrying the workers was shot dead on the occupants.
+
+Five people were injured and hospitalized after 23 workers were killed in the attack.
 
 ◼️
 
 [Data](articles/b55ec04c.json)
+
+[Extended Data](ext_articles/b55ec04c.ext.json)
+
+---
+
+### 2024 LG Elections: Nominations called for Elpitiya Pradeshiya Sabha
+
+*2024-08-26 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101509/2024-lg-elections-nominations-called-for-elpitiya-pradeshiya-sabha) · `en`
+
+The nominations for the Elpitiya Pradeshiya Sabha in the 2024 Local Government Elections have been called from September 09 to September 12.
+
+The relevant nominations will be accepted at the Galle District Secretariat, according to the Election Commission.
+
+The commission stated that accordingly, the election deposits can be placed from today (26) until 12.00 noon on September 11.
+
+Meanwhile, the announcement related to the accepting of nominations has been published by the Returning Officer in-charge of Elpitiya Pradeshiya Sabha, the election regulatory body said.
+
+◼️
+
+[Data](articles/c76f9b3a.json)
 
 ---
 
@@ -94,19 +156,29 @@ The President pointed out that he wanted to reduce the prices and taxes of goods
 
 ---
 
-### ඇල්පිටිය ප්‍රාදේශීය සභාවට නාමයෝජනා කැඳවයි
+### Elpitiya calls for nominations
 
 *2024-08-26 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200340) · `si`
 
-2024 පළාත් පාලන ආයතන ඡන්ද විමසීමට අදාළව ඇල්පිටිය ප්‍රාදේශීය සභාව සඳහා නාමයෝජනා භාරගැනීම සම්බන්ධයෙන් මැතිවරණ කොමිෂන් සභාව නිවේදනයක් නිකුත් කර තිබේ.
+Here's a summary of the text in 200 characters:
 
-ඒ අනුව 2024 පළාත් පාලන ආයතන ඡන්ද විමසීම සඳහා නාමයෝජනා භාරගැනීමේ නිවේදනය අද (26) දින ඇල්පිටිය ප්‍රාදේශීය සභාවේ තේරීම්භාර නිලධාරියා විසින් ප්‍රසිද්ධ කොට ඇත.
 
-ඒ අනුව ඡන්ද විමසීම සඳහා ඇප මුදල් තැන්පත් භාරගැනීම අද සිට සැප්තැම්බර් 11 වන දින මධ්‍යහ්න 12 දක්වා (මෙම කාලය අතරතුර එළැඹෙන 2024 අගෝස්තු 31 හා 2024 සැප්තැම්බර් 1, 7 හා 8 යන සෙනසුරාදා හා ඉරිදා දිනවල දී හැර) නාමයෝජනා භාරගැනීම 2024 සැප්තැම්බර් 9 සිට සැප්තැම්බර් 12 දින මධ්‍යහ්න 12 දක්වා ගාල්ල දිස්ත්‍රික් ලේකම් දිසාපති කාර්යාලයේ දී සිදුකරන බව මැතිවරණ කොමසාරිස් ජනරාල්, සමන් ශ්‍රී රත්නායක මහතා විසින් නිවේදනය කරයි.
+
+Elections Commission announces nomination period for Elpitiya Pradeshiya Sabha. Nominations accepted August 1-8, deposits due September 1-12. Commissioner General Saman Sri Ratnayake oversees process at Galle District Secretariat.
+
+🟩
+
+2024 The Elections Commission has issued an announcement on the acceptance of nominations for the Elpitiya Pradeshiya Sabha in connection with the local government elections.
+
+Accordingly, the nomination list of local authorities for the election of Local Authorities has been published today by the Select Officer of the Elpitiya Pradeshiya Sabha today (26).
+
+Accordingly, the deposits of the deposits for the election today (August 1, 7, 7 and 8th September 1, 7 and 8th September, and Sunday, September 1, 7 and 8th September from September 9 through September 12The Commissioner General of Elections Saman Sri Ratnayake said that the Galle District Secretariat at the District Secretariat of Galle will be held up to 12 days.
 
 ◼️
 
 [Data](articles/b73b1e69.json)
+
+[Extended Data](ext_articles/b73b1e69.ext.json)
 
 ---
 
@@ -123,6 +195,8 @@ Addressing a media briefing, the Investment Promotion State Minister also said t
 ...
 
 [Data](articles/39d110e3.json)
+
+[Extended Data](ext_articles/39d110e3.ext.json)
 
 ---
 
@@ -217,6 +291,8 @@ Sri Lankan conglomerate LOLC Holdings operates in Tajikistan, Kazakhstan, and Ky
 ...
 
 [Data](articles/15334beb.json)
+
+[Extended Data](ext_articles/15334beb.ext.json)
 
 ---
 
@@ -439,6 +515,8 @@ In equities, Colombo’s All Share Price Index opened 2.15 points lower at 11,36
 ◼️
 
 [Data](articles/e42c6dff.json)
+
+[Extended Data](ext_articles/e42c6dff.ext.json)
 
 ---
 
@@ -1017,6 +1095,8 @@ There are however looming state worker wage hikes which will push current spendi
 ...
 
 [Data](articles/aded45da.json)
+
+[Extended Data](ext_articles/aded45da.ext.json)
 
 ---
 
@@ -1780,25 +1860,35 @@ For this, the executive committee members of the universal power were present.
 
 ---
 
-### සජබේ ආණ්ඩුවකින් ජීවන වියදම් දීමනාව රු. 25000කින් ඉහළ දමනවාලු
+### Cost of living allowance from a government. Top 25,000
 
 *2024-08-25 19:58:25* · [`adalk`](https://www.ada.lk/breaking_news/සජබේ-ආණ්ඩුවකින්-ජීවන-වියදම්-දීමනාව-රු--25000කින්-ඉහළ-දමනවාලු/11-411553) · `si`
 
-සමගි ජන බලවේගය ප්‍රමුඛ සමගි ජන සන්ධාන රජයක් යටතේ රාජ්‍ය සේවක වැටුප, ජීවන වියදම් දීමනාව ඇතුළුව අවම වශයෙන් 24%කින් ඉහළ දැමීමට කටයුතු කරන බව සමගි ජන බලවේගයේ මහලේකම් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහතා පැවසීය.
+Here's a summary of the text in 200 characters:
 
-කොළඹ සමගි ජන සන්ධාන කාර්යාලයේ ඊයේ (25දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
 
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහතා මෙලෙස අදහස් දක්වා සිටියේය.
 
-“අපි බලාපොරොත්තු වෙනවා අපේ රජය අනිවාර්යෙන්ම රජයේ සේවකයාගේ ජීවන වියදම අවම වශයෙන් රුපියල් 25,000ක් ලබා දෙන්න. ඒ වගේම අපේ රජය යටතේ රාජ්‍ය සේවයේ දීමනා සමග අවම වැටුප රුපියල් 57,500ක් දක්වා වැඩි කරන්න කටයුතු කරනවා.
+Sri Lanka: Government proposes 24% salary hike for state employees, including cost-of-living allowance. Minimum wage set at Rs. 57,500. Aim to ensure salaries exceed Rs. 25,000. Efficiency-based promotion system planned.
 
-ඒ වගේම මේක රජයේ වැටුප් වර්ධක සමග ගළපන්නත් කටයුතු කරනවා. ඒ වගේම රජයේ සේවයේ සමහර අය අද කලකිරීමට පත්වෙලා තියෙනවා. අපි රාජ්‍ය සේවය බලාපොරොත්තු වෙනවා කාර්යක්ෂමතාවය පදනම් කරගෙන රජයේ සේවකයාගේ උසස්වීමේ ක්‍රමවේදයක් ලබා දීමට.
+🟩
 
-අපි පැහැදිලිව කියලා තියෙනවා  ජීවන වියදම අනුව අවම වශයෙන් 24%ක ප්‍රතිශතයකින් වැඩිවීමක් සිදු කරන්නේ. ඉදිරියේදී තවත් වැඩි වෙයි.”
+The General Secretary of the JVP MP Ranjith Maddumabandara said that the salary of state employees will be increased by at least 24%, including the cost of living allowance under a reconciliation proposal.
+
+He was speaking at a media briefing held at the Colombo Society of Colombo yesterday (25).
+
+Speaking further MP Ranjith Madduma Bandara said:
+
+"We hope our government is essentially the cost of the government's employee at least Rs. 25,000. We will also increase the minimum salary to Rs. 57,500 with the government's government.
+
+And this will work with government salary increments. Some people in the government have frustrated today. We hope public service to provide a government employee promotion methodology based on efficiency.
+
+We have made clear at least 24% percentage of the cost of living. Increases more. "
 
 ◼️
 
 [Data](articles/9b1a32a6.json)
+
+[Extended Data](ext_articles/9b1a32a6.ext.json)
 
 ---
 
@@ -2149,71 +2239,5 @@ He was speaking at the National Women's Convention in the National Women's Conve
 [Data](articles/564cc86a.json)
 
 [Extended Data](ext_articles/564cc86a.ext.json)
-
----
-
-### Fake face
-
-*2024-08-25 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191927) · `ta`
-
-Sinhalese candidates talks continue, Tamil state party unlikely to support common candidate. Election manifesto decision pending.
-
-🟩
-
-It has been decided to continue talks with the main Sinhalese candidates and take a resolution after their election manifesto.. The issues spoken and the decisions taken at this meeting reveal- the Tamil state party is unlikely to move towards the common candidate.
-
-◼️
-
-[Data](articles/a594579a.json)
-
-[Extended Data](ext_articles/a594579a.ext.json)
-
----
-
-### Telegraph arrested in France
-
-*2024-08-25 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200318) · `si`
-
-Telegram CEO Powell Durow arrested in France over warrant.
-
-🟩
-
-Powell Durow, CEO of TeleGRAM, is the world's popular social media, has been arrested by the French police.
-
-The arrests have taken place with the landing of his private jet at a airport in the north of Paris.
-
-According to the France's warrant, Durov, a billionaire businessman, was arrested by the France's warrant.
-
-Durov, born in Russia, is currently living in the United Arab Emirate, and citizenship is the citizenship of France as well as the United Arab Emirates.
-
-Facebook, YouTube, Whatsapp, Instagram, Tiktok and weich, Telegram is considered the world's main social media deployment.
-
-TeleGram application is a most popular app in Russia, Ukraine as well as the old Soviet Union states.
-
-◼️
-
-[Data](articles/f2eb0eb1.json)
-
-[Extended Data](ext_articles/f2eb0eb1.ext.json)
-
----
-
-### Rail transport of solid waste begins for first time
-
-*2024-08-25 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101493/rail-transport-of-solid-waste-begins-for-first-time) · `en`
-
-The transportation of solid waste by train commenced today (25), for the first time in the country’s history.
-
-The waste, collected from the Wanawasala Garbage Exchange Center, was transported to the Aruvakkadu landfill project in Puttalam by train.
-
-A total of 20 large containers were loaded onto train number 756, which completed the journey to Puttalam before the waste was transferred to the Aruvakkadu landfill.
-
-Despite the initiative, some residents have reportedly expressed opposition to this move. A small group of protesters gathered near Noor Nagar railway station yesterday (24) and again this afternoon, voicing their concerns about the transportation of waste through their area, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/b8e16aae.json)
-
-[Extended Data](ext_articles/b8e16aae.ext.json)
 
 ---

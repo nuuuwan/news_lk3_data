@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 11:08:09**
+As of **2024-08-26 11:21:35**
 
 ## Newspaper Stats
 
-*Scraped **42,620** Articles*
+*Scraped **42,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,007
 tamilmirrorlk | 5,547
 virakesarilk | 6,763
-adaderanasinhalalk | 7,297
+adaderanasinhalalk | 7,298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,616 (100.0%) of 42,620 articles have been extended.
+42,620 (100.0%) of 42,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-26 (Monday)
+
+### ලොව වයස්ගතම මිනිසාගේ රහස
+
+*2024-08-26 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200339) · `si`
+
+ගිනස් වාර්තා අනුව ඔහුට එම ස්ථානය හිමිව ඇත්තේ ලොව වයස්ගතම පුද්ගලයා ලෙස සඳහන් වූ ජුවාන් විසෙන්තේ පෙරේස් පසුගිය අප්‍රේල් මාසයේදී අභාවප්‍රාප්ත වූ බැවිනි.
+
+මේ වනවිට එංගලන්තයේ සවුත්පොර්ට් ප්‍රදේශයේ වැඩිහිටි නිවාසයක ජීවත්වන ටිනිස්වුඩ් පවසන්නේ තමා දීර්ඝ කාලයක් ජීවත්වීම ට සුවිශේෂී රහසක් තමා නොදන්නා බවයි.
+
+ඔහු 1912 අගෝස්තු මස 26 වනදා එංගලන්තයේ ලිවර්පූල් ප්‍රදේශයේදී උපත ලැබීය.
+
+ඔහු පවසන්නේ තමා සිය තරුණ වියේදී ඉතා ක්‍රියාශීලී වූ බවත් දෛනිකව වැඩි වේලාවක් ඇවිද්ද බවත් ය.
+
+◼️
+
+[Data](articles/bfc8e179.json)
+
+---
 
 ### Anura Kumara unveils election manifesto
 
@@ -41,6 +59,8 @@ The National People’s Power (NPP) presidential candidate Anura Kumara Dissanay
 ◼️
 
 [Data](articles/f0bdf7f5.json)
+
+[Extended Data](ext_articles/f0bdf7f5.ext.json)
 
 ---
 
@@ -60,6 +80,8 @@ Speaking at the rally, the Saravajana Balaya Presidential Candidate said: “we 
 
 [Data](articles/c0980a94.json)
 
+[Extended Data](ext_articles/c0980a94.ext.json)
+
 ---
 
 ### North Korea’s Kim Jong Un oversees tests of ‘suicide drones’
@@ -77,6 +99,8 @@ Also known as loitering munitions, such weapons been widely used in the war in U
 ...
 
 [Data](articles/87716e3f.json)
+
+[Extended Data](ext_articles/87716e3f.ext.json)
 
 ---
 
@@ -1468,19 +1492,25 @@ For this, the executive committee members of the universal power were present.
 
 ---
 
-### ජල සම්පාදනයේ රු. කෝටි 51ක ජල මිටර් අතුරුදන්
+### Water Supply Rs. 51 million Water Miter disappeared
 
 *2024-08-25 19:54:38* · [`adalk`](https://www.ada.lk/breaking_news/ජල-සම්පාදනයේ-රු--කෝටි-51ක-ජල-මිටර්-අතුරුදන්/11-411552) · `si`
 
-රත්මලාන පිහිටි ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලයට අයත් ගබඩා අංගණයක තිබී රුපියල් කෝටි 51කට අධික වටිනාකමින් යුත් ජල වායු පීඩන මීටර් තොගයක් අස්ථානගත වීමේ සිද්ධියක් සම්බන්ධයෙන් පුළුල් පරීක්ෂණයක් සිදු කරන ලෙස ජලාපවහන මණ්ඩලය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අගෝස්තු 23 වන දින පැමිණි කර ඇත.
+National Water Supply Drainage Board Rathmalana investigation missing Water Meter Rs. 51 million drainage issue update
 
-ජාතික ජල සම්පාදන සහ ජලපවහන මණ්ඩලයට අයත් රුපියල් පනස් එක් කෝටි තිස්හය ලක්ෂ හතළිස් හතර දහස් පන්සියයක් (513,644,500) වටිනා මෙම ජල වායු මීටර් තොගය අගෝස්තු මස 20 වෙනිදා එම ගබඩා අංගණය විවෘත කර බැලීමේදී අස්ථානගත වී ඇති බව සඳහන් කර ඇත. රත්මලාන පිහිටි ජාතික ජල සම්පාදන සහ ජලපවහන මණ්ඩලයේ වාණිජ අධ්‍යක්ෂ ඩබ්.එස්. කුමාර විසින් කරන ලද පැමිණිල්ලකට අනුව අදාළ විමර්ශනය සිදු කර ඇත.
+🟩
 
-සිද්ධිය සම්බන්ධයෙන් කරන විමර්ශනයෙන් ප්‍රගතිය වාර්තා කරන ලෙස අධිකරණය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ වාණිජ අපරාධ විමර්ශන අංශය වෙත දැනුම් දී ඇති බව ජලාපවහන මණ්ඩලයේ වාණිජ අධ්‍යක්ෂක ඩබ්.එස්. කුමාර විසින් දන්වා ඇත.
+The Drainage Board has arrived at the National Water Supply and Drainage Board of Rathmalana, a storage yard belonging to a storage yard belonging to the storage yard of a storage yard of Rs. 23.
+
+The stock of water worth Rs.. Director of National Water Supply and Drainage Board in Ratmalana. The investigation has been conducted according to a complaint made by Kumara.
+
+Drainage Board Director of the Drainage Board, to report the progress of the investigation into the investigation, WS Board of Commerce. Kumara has been informed.
 
 ◼️
 
 [Data](articles/5979996a.json)
+
+[Extended Data](ext_articles/5979996a.ext.json)
 
 ---
 
@@ -2181,23 +2211,5 @@ Sri Lanka: Political solution crucial, accountability essential for 39 president
 [Data](articles/5c37b5af.json)
 
 [Extended Data](ext_articles/5c37b5af.ext.json)
-
----
-
-### Israel and Hezbollah trade heavy fire before pulling back, jolting a region braced for war
-
-*2024-08-25 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101491/israel-and-hezbollah-trade-heavy-fire-before-pulling-back-jolting-a-region-braced-for-war) · `en`
-
-Israel launched a wave of airstrikes across southern Lebanon early Sunday in what it said was a preemptive strike on Hezbollah. The militant group responded that it had launched hundreds of rockets and drones to avenge the killing of one of its top commanders last month.
-
-The heavy exchange of fire does not appear to have ignited a long-feared war, but the situation remains tense. Meanwhile, Egypt on Sunday is hosting high-level talks aimed at brokering a cease-fire in the 10-month-old Israel-Hamas war in Gaza, which diplomats hope will tamp down regional tensions.
-
-The Israeli military said it struck because Hezbollah was planning to launch a heavy barrage of rockets and missiles toward Israel. Soon after, Hezbollah announced it had launched an attack on Israeli military positions as an initial response to the killing of Fouad Shukur, one of its founding members, in an Israeli airstrike in Beirut last month.
-
-...
-
-[Data](articles/35f5842c.json)
-
-[Extended Data](ext_articles/35f5842c.ext.json)
 
 ---

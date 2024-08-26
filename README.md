@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-26 12:37:10**
+As of **2024-08-26 12:55:18**
 
 ## Newspaper Stats
 
-*Scraped **42,643** Articles*
+*Scraped **42,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,769
 adalk | 3,930
 dailymirrorlk | 4,733
 adaderanalk | 5,012
-tamilmirrorlk | 5,550
+tamilmirrorlk | 5,552
 virakesarilk | 6,768
 adaderanasinhalalk | 7,301
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,637 (100.0%) of 42,643 articles have been extended.
+42,643 (100.0%) of 42,645 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,37 @@ Supporters say the law gives workers the confidence to stand up against the stea
 
 [Data](articles/15bd97ce.json)
 
+[Extended Data](ext_articles/15bd97ce.ext.json)
+
 ---
 
-### දියේ ගිලී අතුරුදන් වූ මවගේ සහ පුතුගේ සිරුරු හමුවෙයි
+### Bodies of disappeared mother and son meets
 
 *2024-08-26 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200342) · `si`
 
-දැදුරු ඔයේ දියනෑමට ගොස් ගිලි අතුරුදන් වූ මවගේ සහ බාල පුතුගේ සිරුරු හමුවී තිබේ.
+Here's a summary of the text in 200 characters:
 
-ඊයේ (25) දහවල් කාලයේ දී බෝගමුව ප්‍රදේශයෙන් දැදුරු ඔයේ දිය නෑමට ගිය එකම පවුලේ මවක් සහ දරුවන් දෙදෙනෙකු දියේ ගිලී අතුරුදන් විය.
 
-ඊයේ සවස් කාලය වන විට ඉන් එක් දරුවෙකුගේ සිරුර සොයාගෙන තිබු අතර මව සහ අනෙක් දරුවා සොයා මෙහෙයුම් ක්‍රියාත්මක විය.
 
-පොලීසිය පැවසුවේ අද අලුයම් කාලයේ දී දියේ ගිලී අතුරුදන්ව සිටි මව සහ අනෙක් දරුවා ගේ සිරුරු සොයාගෙන ඇති බවයි.
+Mother and 2 children went missing in Deduru Oya. Bodies of mother and 1 child found. Missing: 36yo woman, 9yo boy, 5yo boy. Police investigation ongoing.
 
-මෙලෙස මියගොස් ඇත්තේ පේරගහවත්ත ප්‍රදේශයේ පදිංචි ව සිටි 36 හැවිරිදි මවක් සහ ඇගේ 9 හැවිරිදි සහ 5 හැවිරිදි පිරිමි දරුවන් දෙදෙනාය.
+🟩
+
+The bodies of the missing mother and the youngest son were found to dress on the Deduru Oya.
+
+At the time of yesterday (25), a mother and two children were disappeared in Bogamuwa to drowned Deduru Oya.
+
+At the evening last evening, one of them was found and operating in search of the mother and the other child.
+
+The police said that the body of the mother and the other child were found in the morning.
+
+The deceased is a 36 year old resident of Peragewatta, and two her 9-year-old and 5-year-old boy.
 
 ◼️
 
 [Data](articles/f4d36bc6.json)
+
+[Extended Data](ext_articles/f4d36bc6.ext.json)
 
 ---
 
@@ -90,27 +102,41 @@ The separatists in Baluchistan have often killed workers and others from the cou
 
 [Data](articles/b645b5ea.json)
 
+[Extended Data](ext_articles/b645b5ea.ext.json)
+
 ---
 
-### ஐஸ்லாந்தில் பனிப்பாறை இடிந்து வீழ்ந்து ஒருவர் பலி ; இருவர்  மாயம்
+### One person killed in IcelandLike magic
 
 *2024-08-26 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191994) · `ta`
 
-தென்கிழக்கு ஐஸ்லாந்தில் பனிப்பாறை சரிந்து வீழ்ந்ததில் சுற்றுலா சென்றவர்களில் ஒருவர் உயிரிழந்துள்ளதுடன் இருவர் காணாமல் போயுள்ள நிலையில் மற்றுமொருவர் காயமடைந்துள்ளார்.
+Here's a summary of the article in 200 characters:
 
-தென்கிழக்கு ஐஸ்லாந்திலுள்ள ப்ரீடாமெர்குர்ஜோகுல் பனிப்பாறை பகுதிக்கு ஞாயிற்றுக்கிழமை (25)  சுற்றுலா வழிகாட்டியுடன் 25 பேர் கொண்ட குழுவினர்  சென்றுள்ளனர்.
 
-ஐரோப்பாவின் மிகப் பெரிய தேசிய பூங்காக்களில் ஒன்றான சுமார் 5,460 சதுர மைல் பரப்பளவில் பரந்து விரிந்துள்ள வட்னஜோகுல் தேசிய பூங்காவின் ஒரு பகுதியாக இந்த பனிப்பாறை உள்ளது.
 
-அவர்கள் பனிப்பாறையில் உள்ள பனி குகைகள் மற்றும் பள்ளத்தாக்குகளை ஆராய்ந்து கொண்டிருந்த போது பனிப்பாறை சரிந்து வீழ்ந்துள்ளது.
+Tourist dies in Iceland glacier fall; 2 injured. Group of 25 exploring ice caves when iceberg collapses. One killed instantly, others rescued. Search halted until morning.
 
-பனிப்பாறை சரிந்து வீழ்ந்ததில் 4 பேர் பாதிக்கப்பட்டுள்ளதோடு,  அவர்களில் இருவர் மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-அவர்களில் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதோடு, மற்றுமொருவர் ஐஸ்லாந்தின் தேசிய பல்கலைக்கழக வைத்தியசாலையான லேண்ட்ஸ்பிடலின்னுக்கு விமானத்தில் கொண்டு செல்லப்பட்டுள்ளார்.
+One of the tourists died in the fall of a snowfall in southeastern Iceland and two others were injured.
 
-...
+A group of 25 people visited the Breedamarkurgul Glacier area in the southeastern Iceland on Sunday (25).
+
+The iceberg is part of the Vatnajokul National Park, which is one of Europe's largest national parks, spread over an area of ​​about 5,460 square miles.
+
+The iceberg has fallen when they are exploring the ice caves and valleys in the iceberg.
+
+Four people were affected by the collapse of the snow and two of them were rescued, police said.
+
+One of them died on the spot and the other was taken to Landsbital, the National University Hospital of Iceland.
+
+The rescue crews have stopped the search for the missing persons in the Breedamarkurgul Glacier area until the morning.
+
+◼️
 
 [Data](articles/6d30213e.json)
+
+[Extended Data](ext_articles/6d30213e.ext.json)
 
 ---
 
@@ -204,21 +230,27 @@ Meanwhile, the announcement related to the accepting of nominations has been pub
 
 ---
 
-### இஸ்ரேல் மீதான தாக்குதல் எதிர்பார்த்தளவு வெற்றியளிக்காவிட்டால்  மீண்டும் தாக்குவோம் - ஹெஸ்புல்லா அமைப்பின் தலைவர்
+### If the attack on Israel is not as successful, we will attack again - the leader of the Hesbullah Organization
 
 *2024-08-26 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191996) · `ta`
 
-இஸ்ரேல் மீது நாங்கள் மேற்கொண்ட தாக்குதல் எதிர்பார்த்த அளவிற்கு வெற்றியளிக்கவில்லை என்றால் மீண்டுமொரு முறை தாக்குதலை மேற்கொள்வோம் என ஹெஸ்புல்லா அமைப்பின் தலைவர்
+Hezbollah leader threatens retaliation if Israel attack fails, vows to avoid civilian targets and infrastructure.
 
-தாக்குதலினால் ஏற்பட்டுள்ள சேதங்கள் பாதிப்புகள் குறித்து மதிப்பீடுகளை மேற்கொள்வோம்,எதிர்பார்த்த சேதங்கள் பாதிப்புகள் ஏற்படவில்லை என்றால் மீண்டுமொரு முறை தாக்குதலை மேற்கொள்வோம் என ஹசன் நசரல்லா தெரிவித்துள்ளார்.
+🟩
 
-எங்கள்  அமைப்பின் இராணுவநடவடிக்கை திட்டமிட்டபடி துல்லியமாக முன்னெடுக்கப்பட்டுள்ளது என தெரிவித்துள்ள அவர் இஸ்ரேலிற்குள் 110 கிலோமீற்றர் உள்ளே உள்ள இஸ்ரேலின் புலனாய்வு பிரிவினரின்  உட்கட்டமைப்புகளை இலக்குவைத்தோம் என  அவர் குறிப்பிட்டுள்ளார்.
+The head of the Hesbullah organization said that if we did not win as much as expected, we would launch an attack on Israel
 
-எங்கள் சிரேஸ்ட தளபதியை இஸ்ரேல் கொலை செய்தமைக்கு பழிவாங்குவதற்காக பொதுமக்கள் வாழும் பகுதிகளை இலக்குவைக்க நாங்கள் விரும்பவில்லை. என தெரிவித்துள்ள ஹெஸ்புல்லா அமைப்பின் தலைவர் இஸ்ரேலின் உட்கட்டமைப்பை இலக்குவைக்க விரும்பவில்லை எனவும் குறிப்பிட்டுள்ளார்.
+Hasan Nasaralla said that if the damage caused by the attack, we will be assessed and that if the expected damage is not affected, we will continue to attack once again.
+
+He said that our organization's military action has been carried out as accurately as planned, he said.
+
+We do not want to target public areas for revenge on Israel's murder of our senior commander. Hezbullah said he did not want to target Israel's infrastructure.
 
 ◼️
 
 [Data](articles/c0d3ad88.json)
+
+[Extended Data](ext_articles/c0d3ad88.ext.json)
 
 ---
 
@@ -363,6 +395,20 @@ Accordingly, the deposit money launch for the election will be named after Monda
 [Data](articles/24e8d50d.json)
 
 [Extended Data](ext_articles/24e8d50d.ext.json)
+
+---
+
+### எல்பிட்டிய பிரதேச சபை நியமனங்கள் கையேற்றல்
+
+*2024-08-26 11:16:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எல்பிட்டிய-பிரதேச-சபை-நியமனங்கள்-கையேற்றல்/150-342794) · `ta`
+
+உள்ளூர் அதிகார சபைகள் தேர்தல்கள் கட்டளைச் சட்டத்தின் (262 ஆம் அத்தியாயமான) 26 ஆம் பிரிவின் கீழ் எல்பிட்டிய பிரதேச சபையின் தவிசாளரையும் உப தவிசாளரையும் அதன் உறுப்பினர்களையும் தெரிவுசெய்வதற்கான தேர்தலுக்கான பெயர் குறித்த நியமனங்களைக் கையேற்கும் அறிவித்தல், எல்பிட்டிய பிரதேச சபையின் தெரிவத்தாட்சி அலுவலரினால் திங்கட்கிழமை (26)  வெளியிடப்பட்டுள்ளது.
+
+அதன்படி, தேர்தலுக்கான வைப்புப் பணம் கையேற்றல் திங்கட்கிழமை (26) ஆம் திகதியிலிருந்து 2024 செப்டம்பர் மாதம் (11) ஆம் திகதி நண்பகல் 12.00 மணி வரையும் (இக்காலத்திற்கு இடைப்பட்ட 2024 ஆகஸ்ட் (31), 2024 செப்டம்பர் (01, 07, 08) ஆகிய சனி, ஞாயிறு தினங்கள் தவிர்ந்த) பெயர் குறித்த நியமனங்களின் கையேற்றல் 2024 செப்டம்பர் (09) ஆம் திகதியிலிருந்து 2024 செப்டம்பர் (12) ஆம் திகதி நண்பகல் 12.00 மணி வரையும் காலி மாவட்ட செயலகத்தில்/ அரசாங்க அதிபர் அலுவலகத்தில் நடைபெறும் எனவும் அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3c915bfc.json)
 
 ---
 
@@ -1004,6 +1050,20 @@ The wealthy, who have borrowed millions of rupees in state banks without bail, a
 
 ---
 
+### ’50 கிலோ உரத்தை ரூ. 5,000 வழங்க நடவடிக்கை’
+
+*2024-08-26 07:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/50-கிலோ-உரத்தை-ரூ-5-000-வழங்க-நடவடிக்கை/175-342768) · `ta`
+
+விவசாயிகளுக்கு தேவையான சிறந்த தரத்திலான 50 கிலோ கிராம் எடையுள்ள  உரம் மூடை ஒன்றை 5000 ரூபாவுக்கு  வழங்குவதற்கு நடவடிக்கை எடுக்கப்படும் எனவும் விவசாய இரசாயன மருந்துகள், உரம் என்பனவற்றுக்கு ஒழுங்கு முறையான விலை நிர்ணயத்தை மேற்கொண்டு, இருட்டடிப்புச் செய்கின்ற வர்த்தகர்களின் விலை அதிகரிப்புக்கு இடமளிக்காது, மக்களால் ஏற்றுக்கொள்ள முடியுமான விலைக்கு பொருட்கள் வழங்கப்படும் என்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பொலன்னறுவை, ஹிங்குராங்கொட பகுதியில் நேற்று (25) இடம்பெற்ற 2024 ஜனாதிபதித் தேர்தலுக்கான ஐக்கிய மக்கள் சக்தியின் பதின்நான்காவது மக்கள் வெற்றிப் பேரணி நிகழ்வில் கலந்துக்கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.   அவர் மேலும் தெரிவிக்கையில்,
+
+...
+
+[Data](articles/bd731ee0.json)
+
+---
+
 ### Drowning lives
 
 *2024-08-26 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200328) · `si`
@@ -1238,27 +1298,111 @@ The Department of Meteorology has informed the people to take steps to take nece
 
 ---
 
-### රනිල්, සජිත්, අනුර සහ නාමල් ගැන ඔබ මෙම තොරතුරු දැන සිටියා ද?
+### Did you know about Ranil, Sajith, Anura, and Namal?
 
 *2024-08-26 06:14:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cr7r0m9ykjgo) · `si`
 
-රනිල්, සජිත්, අනුර සහ නාමල් ගැන ඔබ මෙම තොරතුරු දැන සිටියා ද?
+Here's a summary of the key points about Sajith Premadasa, Anura Kumara Dissanayake, and Namal Rajapaksa:
 
-ශ්‍රී ලංකාවේ තීරණාත්මක ම මැතිවරණය - මෙරට 9 වන විධායක ජනාධිපතිවරයා තෝරා පත් කර ගැනීම වෙනුවෙන් පැවැත්වෙන ඡන්ද විමසීම සඳහා තවත් ඇත්තේ කෙටි කාලයකි.
 
-අගෝස්තු 14 වන බදාදා මධ්‍යහන 12:00ට ජනාධිපතිවරණ අපේක්ෂක ඇප තැන්පත් කිරීම අවසන් වුණු අතර මැතිවරණ කොමිෂන් සභාව නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ, අගෝස්තු 14 වන දා වන විට අපේක්ෂකයින් 40 දෙනෙකුගෙන් ඇප මුදල් ලැබී තිබුණු බව ය.
 
-කෙසේ වෙතත්, අගෝස්තු 15 බ්‍රහස්පතින්දා නාම යෝජනා භාර දී තිබුණේ, ඒ අතරින් අපේක්ෂකයින් 39 දෙනෙකු පමණි.
+### Sajith Premadasa
 
-ඔවුන් අතරින් එක් අපේක්ෂකයෙකු අගෝස්තු 22 වන දා රාත්‍රියේ ජීවිතක්ෂයට පත් වූ අතර, ඒත් සමග අපේක්ෂකයින් ගණන 38ක් දක්වා පහළ ගියේ ය.
 
-මැතිවරණ කොමිෂන් සභාවට අනුව, එම අපේක්ෂකයින් අතර භික්ෂූන් වහන්සේලා දෙනමක් ද සිටිති. කිසිදු කාන්තාවක මෙවර ජනාධිපතිවරණය සඳහා ඉදිරිපත් වී නොමැත.
 
-මේ, 2024 ජනාධිපතිවරණයේ කැපී පෙනෙන අපේක්ෂකයින් සිව් දෙනෙකුගේ තොරතුරු පිළිබඳව සිදු කෙරෙන විමසා බැලීමකි.
+- Current opposition leader of the Sri Lanka Parliament
+
+- Represents the Unity Force
+
+- Son of former President Ranasinghe Premadasa
+
+- Entered politics in 1994 after his father's death
+
+- Previously served as Deputy Minister of Health and Minister of Construction and Cultural Affairs
+
+- Contested the 2020 general election as the presidential candidate of the New Democratic Front
+
+- Involved in controversies related to the "cinnamon pole case" and allegations of Islamic devotions
+
+- Built the "Everlasting Pooja Kumar Sangakkara Vama"
+
+
+
+### Anura Kumara Dissanayake
+
+
+
+- Current leader of the Janatha Vimukthi Peramuna (JVP)
+
+- Born in 1968 in Galewela, Dewahewa
+
+- Educated at Thambuththegama Central College and University of Kelaniya
+
+- Joined the Socialist Students Union in 1987
+
+- Appointed as the national organizer of the Socialist Students Union in 1997
+
+- Elected as the leader of the JVP in 2014
+
+- Contributed to the creation of the probation government of President Chandrika Kumaratunga in 2001
+
+- Apologized for the killings of the JVP in the late 1980s
+
+- Disclosed by party-opposition politicians, government officials, and businessmen in 2022
+
+- Accused of investing money on foreign islands
+
+- Called the "red baby elephant" due to his close relationship with Ranil Wickremesinghe
+
+
+
+### Namal Rajapaksa
+
+
+
+- Eldest son of former President Mahinda Rajapaksa
+
+- Contesting the presidential election this year
+
+- Graduated from City University London and qualified as a lawyer
+
+- Elected to Hambantota District Member of Parliament in 2010
+
+- Represented Parliament as a member of the United People's Freedom Alliance and Sri Lanka General Front
+
+- Served as the Minister of Youth and Sports and Minister of Tamil and Enterprise Development
+
+- Arrested and remanded in connection with an incident called "hellbox"
+
+- Accused of involvement in the assassination of rugby players in 2015
+
+- Interviewed by BBC Sinhala in 2015 regarding the Rajapaksa family's involvement in politics
+
+🟩
+
+Did you know about Ranil, Sajith, Anura, and Namal?
+
+The decisive elections in Sri Lanka is a short time for the election to elect the 9th Executive President of Sri Lanka.
+
+Matend on Wednesday, August 14, was completed by the Presidential Candidate Candidate.
+
+However, there were only 39 candidates on Thursday, August 15.
+
+One of them, one candidate was killed on the night on August 22, but the number of candidates fell to 38.
+
+According to the Elections Commission, there are two monks among the candidates. No woman has offered for the presidential election.
+
+This is an investigation into the information of four significant candidates of the Presidential election.
+
+Sri Lanka 8th Executive President in Sri Lanka and UNP Leader Ranil Wickremesinghe contested as an independent candidate.
+
+Why was Ranil an independent candidate?Is that advantage of him?Disadvantages?
 
 ...
 
 [Data](articles/b04a6189.json)
+
+[Extended Data](ext_articles/b04a6189.ext.json)
 
 ---
 
@@ -2227,45 +2371,5 @@ Our policy is to vote for our community and the nation's appropriate candidate. 
 [Data](articles/69c6c05b.json)
 
 [Extended Data](ext_articles/69c6c05b.ext.json)
-
----
-
-### Rishard's party breaks into two
-
-*2024-08-25 18:35:42* · [`adalk`](https://www.ada.lk/breaking_news/රිෂාඩ්ගේ-පක්ෂයත්-දෙකට-කැඩෙයි/11-411548) · `si`
-
-Sri Lanka political parties split support opposition leader Sajith Premadasa economic recovery
-
-🟩
-
-The All Island General Congress has decided to support the Opposition Leader Sajith Premadasa this time, but the National Organizer of the Congress Mohammed Abdullah Maharup said.
-
-The National Organizer said that the party's supreme body was not new to support Mr. Sajith Premadasa that the party's supreme decision was not new.
-
-"My supporters have been saying for six months. President Ranil Wickremesinghe should support. How do I support Mr. Sajith Premadasa?. The other involve us to see who the oil was healed by eliminating the oil queue and gas queue era when the economic crisis was taken. We want to see if we go back to that crisis. The country is only economically anarchy if Sajith has supported Sajith to power and restore the country economically anarchy.
-
-◼️
-
-[Data](articles/48adc4aa.json)
-
-[Extended Data](ext_articles/48adc4aa.ext.json)
-
----
-
-### Namal's child
-
-*2024-08-25 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191951) · `ta`
-
-Summarized text: Namal's child event planned at Salkadu Ground, similar to previous rallies by Mahinda Rajapaksa and Gotabhaya Rajapaksa.
-
-🟩
-
-As usual, the first rally would have been held at the Salkadu Ground if the PA had been with the usual strength. Mahinda Rajapaksa in 2015 and Gotabhaya Rajapakse in 2019 held massive meetings at the Salkadu Ground.
-
-◼️
-
-[Data](articles/755cec17.json)
-
-[Extended Data](ext_articles/755cec17.ext.json)
 
 ---

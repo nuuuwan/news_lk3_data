@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 08:55:58**
+As of **2024-08-27 09:07:51**
 
 ## Newspaper Stats
 
-*Scraped **42,788** Articles*
+*Scraped **42,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,029
 tamilmirrorlk | 5,575
 virakesarilk | 6,788
-adaderanasinhalalk | 7,327
+adaderanasinhalalk | 7,328
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,785 (100.0%) of 42,788 articles have been extended.
+42,788 (100.0%) of 42,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### ස්විස්ටර්ලන්තයේ සිට මෙරටට ආ පුද්ගලයෙක් අබිරහස් ලෙස මරුට
+
+*2024-08-27 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200370) · `si`
+
+ස්විස්ටර්ලන්තයේ සිට පැමිණි පුද්ගලයෙකුගේ මළ සිරුරක් වව්නියාව, කනගරායන්කුලම, සින්නඅඩම්පන් ප්‍රදේශයේ නිවසක තිබී සොයාගෙන තිබේ.
+
+පොලීසිය පැවසූවේ වව්නියාව, නෙඩුන්කේනි, වෙඩිවෙත්තකල්ලු ප්‍රදේශයේ පදිංචිව සිටි 66 හැවිරිදි සෙල්ලදුරෙයි නිමලනාදන් නමැති පුද්ගලයෙකි.
+
+මියගිය පුද්ගලයා ස්ටිස්ටර්ලන්තයේ පදිංචිව සිට ඇති අතර, ටික කලකට පෙර තමන්ගේ උපන්ගම වන වෙඩිවෙත්තකල්ලු ප්‍රදේශයට පැමිණ ඇති බවද පොලීසිය අනාවරණය කරගෙන ඇත.
+
+වවුනියාව, කනගරායන්කුලම, සින්නඅඩම්පන් ප්‍රදේශයේ කෝවිලක වාර්ෂික උත්සවයකට සහභාගි වීමට 25 වැනිදා පැමිණ ඇති අතර, එහිදි මියගිය පුද්ගලයා, තවත් පුද්ගලයෙකු සමඟ ඥාති නිවසක නවාතැන් ගැනීමට ගොස් ඇති අවස්ථාවේ මියගොස් ඇති බවද පොලීසිය පැවසීය.
+
+කණ්ඩායමක් පැමිණ තමන් හා තම ඥාතියාට පහරදුන් බවත්, එහිදි තම ඥාතියා මියගිය බවත්, මියගිය පුද්ගලයා සමඟ සිටි පුද්ගලයා පොලීසියට පවසා ඇත.
+
+මියගිය පුද්ගලයාගේ මරණය සම්බන්ධයෙන් මහෙස්ත්‍රාත් මරණ පරීක්ෂණ වවුනියාව වැඩබලන මහෙස්ත්‍රාත්වරයා විසින් ඊයේ (26) සවස පැවැත්වු අතර ,මළ සිරුර පශ්චාත් මරණ පරීක්ෂණ වෙනුවෙන් වවුනියාව රෝහල් මෘත ශරීරාගාරයට යොමුකෙරිණ.
+
+...
+
+[Data](articles/5687de87.json)
+
+---
 
 ### At least 30 dead, many missing after dam bursts in eastern Sudan
 
@@ -47,6 +69,8 @@ One first responder said that between 150 and 200 people were missing.
 ...
 
 [Data](articles/b5779c0a.json)
+
+[Extended Data](ext_articles/b5779c0a.ext.json)
 
 ---
 
@@ -66,23 +90,31 @@ He cited potential outcomes such as increased street violence, attacks on religi
 
 [Data](articles/9889f640.json)
 
+[Extended Data](ext_articles/9889f640.ext.json)
+
 ---
 
-### பிஜிலி ரமேஷ் காலமானார்
+### Bijli Ramesh has passed away
 
 *2024-08-27 08:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிஜிலி-ரமேஷ்-காலமானார்/54-342844) · `ta`
 
-யூடியூப் சேனல் மூலமாக பிரபலமாகி அதை தொடர்ந்து சினிமாவில் நடித்து வந்த பிஜிலி ரமேஷ் உடல்நலக் குறைவு காரணமாக செவ்வாய்க்கிழமை (27) காலமானார்.
+Bijli Ramesh, YouTube star turned actor, dies due to illness. Popular for "Frank Show" and acting roles, he struggled with alcoholism before passing away.
 
-யூடியூப் சேனல் ஒன்று நடத்திய பிராங்க் ஷோ மூலமாக மக்கள் மத்தியில் மிகவும் பிரபலமானார் பிஜிலி ரமேஷ். ரஜினி தீவிர ரசிகர் என்றும் இவரது பேச்சு மற்றும் முக பவானைகள் ரசிகர்களிடம் தனிகவனம் பெற்றது.
+🟩
 
-இதை தொடர்ந்து சினிமாவில் நடிக்கவும் இவருக்கு வாய்ப்பு கிடைத்தது. பொன்மகள் வந்தாள், நட்பே துணை, ஆடை, கோமாளி உள்ளிட்ட படங்களில் நடித்து சினிமாவில் தனக்கென இடத்தை தக்கவைத்தார். ஆனால் மதுப்பழக்கம் காரணமாக இவரது உடல்நிலை மோசமடைந்தது.
+Bijili Ramesh, who became popular through YouTube channel and followed in cinema, passed away on Tuesday (27) due to ill health.
 
-நடிகர் பிஜிலி ரமேஷ் உடல்நலக் குறைவு காரணமாக கடந்த சில நாட்களாக மருத்துவமனையில் தீவிர சிகிச்சை பெற்று வந்தார். இந்நிலையல் சிகிச்சை பலனின்றி இன்று காலை உயிரிழந்தார். இவரது இறுதி சடங்கு இன்று மாலை 5 மணிக்கு எம்.ஜி.ஆர் நகரில் உள்ள அவரது இல்லத்தில் நடைபெறும் என தெரிவிக்கப்பட்டுள்ளது.
+Bijli Ramesh became very popular among the people through a Frank Show run by a YouTube channel. Rajini is an avid fan and his speech and facial expressions have been honored with fans.
+
+Following this he had the opportunity to act in cinema. Ponmala Vandalu Vandal, Friendship, Dress and Comedy. But his health deteriorated due to alcoholism.
+
+Actor Bijli Ramesh has been receiving intensive care in the hospital for the past few days due to ill health. He died this morning without treatment. His funeral will be held at his residence in MGR at 5 pm today.
 
 ◼️
 
 [Data](articles/97d716af.json)
+
+[Extended Data](ext_articles/97d716af.ext.json)
 
 ---
 
@@ -2639,25 +2671,5 @@ The number of Sri Pura Police Station can be informed to the number 025 225 5062
 [Data](articles/2139b374.json)
 
 [Extended Data](ext_articles/2139b374.ext.json)
-
----
-
-### ‘Those who violate election laws cannot be trusted to govern the country’ - Catholic Bishops’ Conference
-
-*2024-08-26 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101517/those-who-violate-election-laws-cannot-be-trusted-to-govern-the-country-catholic-bishops-conference) · `en`
-
-The Catholic Bishops’ Conference in Sri Lanka states that the nation needs a wise and courageous leader to make the long awaited system-change to eradicate corruption and its related ills.
-
-Issuing a statement on Monday (26) pertaining to the 2024 Presidential Election, the Catholic Bishops’ Conference expressed that the presidential election candidates are solicited to desist from deceiving the voter by offering allurements, favours and making false promises, and to check on the organizers and supporters of their campaigns in this regard.
-
-“Those who violate election laws cannot be trusted to govern the country with integrity and justice”, the statement mentioned.
-
-Thus, the Catholic Bishops’ Conference in Sri Lanka calls on all registered voters to cast their vote to elect the leader who would govern the country according to the democratic and moral principles based on the values of the four main religions in the Island, respecting also the cultural ethos of the people.
-
-...
-
-[Data](articles/0c034dfb.json)
-
-[Extended Data](ext_articles/0c034dfb.ext.json)
 
 ---

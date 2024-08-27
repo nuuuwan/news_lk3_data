@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 11:21:40**
+As of **2024-08-27 11:37:08**
 
 ## Newspaper Stats
 
-*Scraped **42,814** Articles*
+*Scraped **42,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 396
 colombotelegraphcom | 410
 islandlk | 2,498
-economynextcom | 2,584
+economynextcom | 2,586
 dailyftlk | 2,779
 adalk | 3,949
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,811 (100.0%) of 42,814 articles have been extended.
+42,814 (100.0%) of 42,816 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,39 +52,81 @@ Education Minister Jason Clare acknowledged that higher education was hard-hit d
 
 [Data](articles/46aac25b.json)
 
+[Extended Data](ext_articles/46aac25b.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் சக்தியின் தேர்தல் விஞ்ஞாபனம் நாளை
+### United People's Power Election Manifesto Tomorrow
 
 *2024-08-27 11:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தியின்-தேர்தல்-விஞ்ஞாபனம்-நாளை/175-342855) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி தேர்தல் விஞ்ஞாபனம் நாளை (29) வெளியிடப்பட உள்ளது.
+Here's a summary of the text in 200 characters:
 
-ஐக்கிய மக்கள் சக்தியின் பிரதித் தலைவர் சுஜீவ சேனசிங்க, இது தொடர்பான கொள்கைப் பிரகடனத்தின் அனைத்துத் திட்டங்களும் தற்போது பூர்த்தி செய்யப்பட்டுள்ளதாக தெரிவித்தார்.
 
-இதேவேளை, ஐக்கிய மக்கள் சக்தியின் அரசாங்கத்தில் ஒரே நாட்டில் அதிகபட்ச அதிகாரப் பகிர்வு என்ற கொள்கை அமுல்படுத்தப்படும் என ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச தெரிவித்துள்ளார். R
+
+"United People's Power releases election manifesto tomorrow. Policy declaration complete. Sajith Premadasa promises to implement shared country policy from previous UNP government."
+
+🟩
+
+The United People's Power Presidential Election Manifesto is to be released tomorrow (29).
+
+Sujeewa Senasinghe, Deputy Chairman of the United People's Power, said that all plans of the policy declaration have been completed.
+
+Meanwhile, United People's Power Presidential candidate Sajith Premadasa has said that the policy of sharing in the same country in the UNP government will be implemented in the same country.. Remble
 
 ◼️
 
 [Data](articles/59c16141.json)
 
+[Extended Data](ext_articles/59c16141.ext.json)
+
 ---
 
-### ෆවුසිට අත්හිටවූ සිරදඬුවම් සහ දඩ
+### Fauzi suspended and fine
 
 *2024-08-27 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200379) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය ඒ. එච්. එම් ෆවුසි මහතාට වසර 2ක බරපතළ වැඩ සහිත සිරදඬුවම් නියම කර එය වසර 10ක කාලයකට අත්හිටුවීමට කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (27) නියෝග කළේය.
+Here's a summary of the text in 200 characters:
 
-ඒ. එච්. එම් ෆවුසි මහතා වරද පිළිගැනීමෙන් අනතුරුව ඔහුව එම චෝදනාවට වරදකරු කරමින් අධිකරණය එම නියෝගය ලබාදුන්නේය.
 
-එමෙන්ම විත්තිකරුට ලක්ෂ 4ක දඩයක් ගෙවීමට ද විනිසුරුවරයා නියෝග කර තිබේ.
 
-2010 වසරේ දී ඒ. එච්. එම් ෆවුසි මහතා ආපදා කළමනාකරණ අමාත්‍යවරයා ලෙස කටයුතු කරමින් සිටිය දී එම අමාත්‍යාංශයේ ආපදා කළමනාකරණ කටයුතු සඳහා නෙදර්ලන්තයෙන් හිමිවූ රුපියල් කෝටි 2කට ආසන්න සුඛෝපභෝගි වාහනයක් සිය පෞද්ගලික පරිහරණය සඳහා යොදවා ගැනීම, ඒ සඳහා අමාත්‍යාංශ ලේකම්වරිය ඇතුළු බලධාරීන් පෙළඹවීම හා වාහනයේ නඩත්තු කටයුතු සඳහා රුපියල් ලක්ෂ 10කට ආසන්න මුදල් අමාත්‍යාංශ මුදලින් වැය කිරීම ආදි අධිචෝදනා 4ක් යටතේ නීතිපතිවරයා විසින් පවරා තිබූ නඩුව අද දින කැඳවු අවස්ථාවේ දී ඒ. එච්. එම් ෆවුසි මහතා නීතිඥවරයා මාර්ගයෙන් වරද පිළිගනු ලැබීය.
+Sri Lanka: Former State Minister Fauzi suspended 2 years, fined for corruption. Case involved misuse of funds during tenure as Disaster Management and Health Minister.
+
+🟩
+
+Former State Minister. H. Colombo High Court Judge Navaratne Marasinghe today (27) ordered the suspension of 2 years.
+
+A. H. Mr. M. Fowzie was convicted and convicted the charge by the judiciary.
+
+The judge has also ordered the accused to pay a fine of Rs.
+
+In 2010, the. H. Mr Fowzie was serving as the Minister of Disaster Management and the Secretary to the Ministry of Health for its personal use and the Ministry of Finance for the authority of the Ministry for this purposeWhen the case was taken by the Attorney General today under four indictments in the money, the case was taken up today. H. Mr. M. Fowzie was welcomed by the lawyer.
+
+The judge could not take the same thing as a senior politician, a senior politician who had a 62-year-old experience, would not be taken to accept the guilty and sticking to the early 86-year-old punishment.
+
+A. H. The judge was also ordered to obtain the fingerprints of Mr. M. Fowzie.
+
+◼️
+
+[Data](articles/33b10ed6.json)
+
+[Extended Data](ext_articles/33b10ed6.ext.json)
+
+---
+
+### Favourability ratings of Sri Lanka’s AKD, Ranil improve; Ranil’s surpasses Sajith’s
+
+*2024-08-27 10:59:00* · [`economynextcom`](https://economynext.com/favourability-ratings-of-sri-lankas-akd-ranil-improve-ranils-surpasses-sajiths-178133/) · `en`
+
+ECONOMYNEXT — Sri Lanka leftist leader Anura Kumara Dissanayake and President Ranil Wickrmesinghe saw their net favourability rise, with the latter surpassing opposition leader Sajith Premadasa, according to an independent poll.
+
+The Institute for Health Policy (IHP) in its Sri Lanka Opinion Tracker Survey (SLOTS) for July found that the net favourability rating of Dissanayake rose 29 points from June to reach +3. President Wickremesinghe’s favourability improved 40 points to -24 surpassing Premadasa whose rating changed little, from -42 in June to -44 in July.
+
+IHP said in a statement on Tuesday August 27 that favourability estimates for each month are based on 100–500 interviews conducted during that month and a few weeks before and after to ensure a minimum set of responses. The July 2024 estimates are based on 400 (Premadasa), 378 (Dissanayake), 406 (Wickremesinghe) and 180 (former president Gotabaya Rajapaksa) interviews.
 
 ...
 
-[Data](articles/33b10ed6.json)
+[Data](articles/a5f4bdc4.json)
 
 ---
 
@@ -1043,6 +1085,30 @@ The 66-year-old suspect was arrested and the Habarana Police are conducting furt
 [Data](articles/b4938788.json)
 
 [Extended Data](ext_articles/b4938788.ext.json)
+
+---
+
+### Sri Lanka’s HNB to enter talks to buy Bangladesh unit of Bank Alfalah
+
+*2024-08-27 06:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-to-enter-talks-to-buy-bangladesh-unit-of-bank-alfalah-178122/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s Hatton National Bank said it was given the go ahead by its board to enter talks to and make a non-binding offer to buy the Bangladesh unit of Bank Alfalah.
+
+A further communication will be made once the Board reaches a final decision after due diligence, negotiations and necessary regulatory clearances, HNB said in a stock exchange filing.
+
+Bank Alfalah is a multinational bank, which has a presence in UAE, Bahrain, Pakistan, Afghanistan and Bangladesh, the statement said.
+
+Bank Alfalah is owned and operated by teh Abu Dhabi group according to its website.
+
+It had entered in Bangladesh in 2005 with the acquisition of Shamil Bank of Bahrain.
+
+Bank Alfalah had expanded its branch network to seven from one.
+
+The current network is made up of, Gulshan Branch, Motijheel Islamic Banking Branch, Dhanmondi Branch, Uttara Branch, Mirpur Branch, Chattogram Agrabad Branch and Sylhet Branch. (Colombo/Aug27/20249
+
+◼️
+
+[Data](articles/a97f521c.json)
 
 ---
 
@@ -2649,49 +2715,5 @@ A lifetime of toil and service to his community was cut short on 13 July 1989 wh
 [Data](articles/5eb19c17.json)
 
 [Extended Data](ext_articles/5eb19c17.ext.json)
-
----
-
-### Sajith and Anura are sowing lies, sleeping
-
-*2024-08-26 17:54:02* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-සහ-අනුර-සත්‍ය-නිදි-කරමින්--බොරුව-වපුරමින්-සිටිනවා/11-411570) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka Freedom Party members support President Ranil Wickremesinghe's victory. They claim Sajith Premadasa and Anura Kumara Dissanayake spread false information about the economy. The party believes the public is now realizing the truth.
-
-🟩
-
-A group of people representing the Sri Lanka Freedom Party (SLFP) participated in the victory of President Ranil Wickremesinghe in this year's presidential election.
-
-Former Deputy Minister of Sri Lanka Freedom Organizations of the Kalutara electorate, Kalutara district MP Priyangani Abeyweera, Chief Organizer of the Gampaha electorate, SD. Mr. Bandaranaike's son of Mr. Bandaranaike, Prawne Dias Bandaranaike, Chief Organizer of the Sri Lanka Freedom Party in the Kolonnawa electorate.Organizer Oregon Suramani Sure, Sri Lanka Freedom Organizer of Sri Lanka Freedom Organizer Thilak Waragoda, Laggala Sri Lanka Freedom Organizer Thilak Wakegoda, Gampaha District SLFP organizer Chamila de SilvaPresident Ranil Wickremesinghe's political office at Malrawa, Colombo, said that he was committed to the President's victory this morning.
-
-...
-
-[Data](articles/94fbf2de.json)
-
-[Extended Data](ext_articles/94fbf2de.ext.json)
-
----
-
-### Employment opportunities for Sri Lankan women in South Korea’s fisheries sector
-
-*2024-08-26 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101524/employment-opportunities-for-sri-lankan-women-in-south-koreas-fisheries-sector) · `en`
-
-Sri Lankan females have also now been provided with the opportunity to seek employment in South Korea’s fisheries sector, according to the SLBFE.
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) announced that 120 individuals including three females departed for South Korea yesterday (25) to take up these employment opportunities in the fisheries sector in that country.
-
-This was made possible through a Memorandum of Understanding (MOU) entered into between the South Korean and Sri Lankan governments.
-
-The program is being implemented by the Sri Lanka Bureau of Foreign Employment (SLBFE).
-
-◼️
-
-[Data](articles/ef2c1c39.json)
-
-[Extended Data](ext_articles/ef2c1c39.ext.json)
 
 ---

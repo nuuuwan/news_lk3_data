@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 16:08:57**
+As of **2024-08-27 16:21:34**
 
 ## Newspaper Stats
 
-*Scraped **42,866** Articles*
+*Scraped **42,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,958
+adalk | 3,960
 dailymirrorlk | 4,733
 adaderanalk | 5,043
-tamilmirrorlk | 5,589
+tamilmirrorlk | 5,590
 virakesarilk | 6,808
 adaderanasinhalalk | 7,343
 
@@ -26,29 +26,65 @@ adaderanasinhalalk | 7,343
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,859 (100.0%) of 42,866 articles have been extended.
+42,866 (100.0%) of 42,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### ඇල්පිටිය ප්‍රාදේශීය සභා ඡන්දය ගැන විශේෂ දැනුම්දීමක්
+### 4 முறை மூழ்கிய காதல்: ஐந்தாவது முறை துளிர்ந்தது
+
+*2024-08-27 16:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-முறை-மூழ்கிய-காதல்-ஐந்தாவது-முறை-துளிர்ந்தது/175-342874) · `ta`
+
+காதலுக்கு கண் இல்லை என்பார்கள் ஆனால், கண்களே இல்லை என்பது தற்போது நடைபெற்று கொண்டிருக்கும் சம்பவங்களை பார்க்கும் போது தெட்டத்தெளிவாகிறது.
+
+காதலித்த பெண்ணை திருமணம் செய்து வைக்க கேட்டும், உறவினர்கள் மறுத்ததால், அவர்களை மிரட்டுவதற்காக, அருகில் உள்ள விவசாய கிணற்றில் 4 முறை குதித்து தப்பிய இளைஞர் 5ஆவது முறையாக குதித்தபோது மேலே வர இயலாமல் சிக்கிக்கொண்டார். இந்த சம்பவம்,  இந்தியாவில் சேலம் மாவட்டம் எடப்பாடி அருகே இடம்பெற்றுள்ளது.
+
+பொலிஸாரிடம் உரிமைக்குரல் எழுப்பும் இவர் தான் காதலுக்கு மரியாதை செய்ய போன இடத்தில் மனம் கலங்கி கிணற்றுக்குள் குதித்து வசமாய் சிக்கிக் கொண்ட காதல் வீரன் விஜய்
+
+சேலம் மாவட்டம் மேட்டூர் அருகேயுள்ள குஞ்சாண்டியூர் பகுதியைச் சேர்ந்த முனியப்பன் மகன் விஜய் என்பவர், பாலப்பட்டியை சேர்ந்த கல்லூரி மாணவி ஒருவரை கடந்த இரண்டு வருடங்களாக காதலித்து வந்தார். சம்பவத்தன்று மது போதையில் காதலியின் வீடு தேடிச்சென்ற விஜய், காதலியின் வீட்டாரிடம் தனது காதலியை பெண் கேட்டுள்ளார்.
+
+...
+
+[Data](articles/eb85ff3d.json)
+
+---
+
+### සුසන්තිකාගේ පියා අභාවප්‍රාප්ත වෙයි අවසන් කටයුතු 28 දා
+
+*2024-08-27 15:59:53* · [`adalk`](https://www.ada.lk/breaking_news/සුසන්තිකාගේ-පියා-අභාවප්‍රාප්ත-වෙයි-අවසන්-කටයුතු-28-දා/11-411591) · `si`
+
+පසුගිය 26වැනිදා අභාවප්‍රාප්ත ඔලිම්පික් පදක්කම්ලාභී සුසන්තිකා ජයසිංහගේ පියාණන්ගේ දේහය අල්ගම, උඩුවක සමුපකාරය ඉදිරියේ පිහිටි ඒ මහතාගේ නිවසේ තැන්පත් කර ඇත. මිය යනවිට ඒ මහතා 85 වැනි වියේ පසුවුනා. දේහය පිළිබඳ අවසන් කටයුතු 28 වැනිදා පස්වරු 4ට වරකාපොළ පොදු සුසානභූමියේදී  සිදුකිරීමට නියමිතව ඇත. ( I J )
+
+◼️
+
+[Data](articles/a43a08cd.json)
+
+---
+
+### Special notice on Elpitiya PSC election
 
 *2024-08-27 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200387) · `si`
 
-ඇල්පිටිය ප්‍රාදේශීය සභාවේ ඡන්ද විමසීම සඳහා තැපෑලෙන් ඡන්දය දීමට සුදුසුකම් ලැබූවන්ගේ අයදුම්පත් භාර ගැනීමේ කාලසීමාව 2024.08.26 දින සිට 2024.09.13 දින මධ්‍යම රාත්‍රී 12න් අවසන් වීමට නියමිතය.
+Elpitiya PSC election application deadline: 23.04.2013, 12pm. No extensions. Visit elections.gov.lk for details.
 
-මැතිවරණ කොමිෂන් සභාව නිවේදනයක් නිකුත් කරමින් සඳහන් කරන්නේ එම කාලය කිසිසේත්ම දීර්ඝ නොකරන බවය.
+🟩
 
-තැපැල් ඡන්ද ඉල්ලුම්පත්‍ර සම්පූර්ණ කිරීම සඳහා අවශ්‍ය වන 2024 ඡන්දහිමි නාමලේඛන තොරතුරු මැතිවරණ කොමිෂන් සභාවේ www.elections.gov.lk වෙබ් අඩවියට පිවිසීමෙන් ලබාගත හැකිය.
+Application Form to be appointed to vote by the Elpitiya Pradeshiya Sabha is due to end 12.04.2012 to 12 pm on 23.04.2013.
 
-ඊට අමතරව අවශ්‍ය වන තොරතුරු ලබාගැනීම සඳහා 2024 ඇල්පිටිය ප්‍රාදේශීය සභාවේ ඡන්දහිමි නාමලේඛන පහත සඳහන් ස්ථානවලදී ද ප්‍රදර්ශනය කෙරේ.
+The Elections Commission issues announcement that the time is not extended at all.
 
-ඇල්පිටිය ප්‍රාදේශීය සභා බල ප්‍රදේශයේ සියලුම ග්‍රාම නිලධාරී කාර්යාලවල (එක් එක් ග්‍රාම නිලධාරී කොට්ඨාසයට අයත් නාමලේඛන)
+The Election Commission is available at the Election Commission www.elections.ov.lk.
+
+In addition, the Vote lists of the Elpitiya Pradeshiya Sabha will be displayed following the following places.
+
+Names of all Grama Niladhari Division of each Grama Niladhari Division of Elpitiya Pradeshiya Sabha
 
 ◼️
 
 [Data](articles/7af72399.json)
+
+[Extended Data](ext_articles/7af72399.ext.json)
 
 ---
 
@@ -66,6 +102,8 @@ Commenting regarding the issue, presidential candidate Dilith Jayaweera highligh
 
 [Data](articles/ddffcf3d.json)
 
+[Extended Data](ext_articles/ddffcf3d.ext.json)
+
 ---
 
 ### Sri Lanka to introduce new law in relation to rights of indigenous community
@@ -81,6 +119,8 @@ At that meeting, it had been decided that it was appropriate to further analyze 
 ...
 
 [Data](articles/025040c4.json)
+
+[Extended Data](ext_articles/025040c4.ext.json)
 
 ---
 
@@ -102,6 +142,8 @@ The SLPP’s Presidential Candidate stated that certain leaders think that the �
 
 [Data](articles/5f450547.json)
 
+[Extended Data](ext_articles/5f450547.ext.json)
+
 ---
 
 ### Former Malaysian PM charged with sedition for allegedly mocking former king
@@ -119,6 +161,8 @@ In his speech on Aug. 14, Muhyiddin had questioned why then-King Sultan Abdullah
 ...
 
 [Data](articles/756986b6.json)
+
+[Extended Data](ext_articles/756986b6.ext.json)
 
 ---
 
@@ -496,23 +540,39 @@ Chairman of the Election Commission, RM issued a statement. A. L. Mr. Ratnayake 
 
 ---
 
-### පවුල් පාලනයෙන් රට බේරා ගන්න රනිල්ට ඡන්දය දෙන්න
+### Vote for Ranil to save the country from family control
 
 *2024-08-27 13:32:32* · [`adalk`](https://www.ada.lk/breaking_news/පවුල්-පාලනයෙන්-රට-බේරා-ගන්න-රනිල්ට-ඡන්දය-දෙන්න/11-411588) · `si`
 
-ජනාධිපතිවරණයෙන් සජිත් ප්‍රේමදාස දිනුවොත් රට පාලනය කරන්නෙ ඔහු නොව ඔහුගේ බිරිඳ,නැගණිය ඇතුළු "ප්‍රේමදාස"පවුලේ සමාගම යැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+Here's a 200-character summary:
 
-අමාත්‍යවරයා අවධාරණය කරන්නෙ ශාපලත් පවුල් පාලනයෙන් රට බේරා ගැනීමට නම් මෙවර ජනාධිපතිවරණයේ දී රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් ඡන්දය ප්‍රකාශ කළ යුතු බවයි.
 
-එමෙන්ම රනිල් වික්‍රමසිංහ යනු මෙරට දේශපාලනයේදී බොහෝ දෙනෙකුට මඟ හැරැණු ප්‍රජාතන්ත්‍රවාදී නායකයකු බවද අමාත්‍යවරයා කීය.
 
-මිනුවන්ගොඩ, ප්‍රදේශයේ ඊයේ (26) පැවති ජනාධිපතිවරණ ප්‍රචාරක රැළියකට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+Vote for Ranil Wickremesinghe to avoid family control. Sajith Premadasa's family may dominate if elected. Ranil Wickremesinghe promotes democracy, no family interference.
 
-"පවුල් පාලනය කියන්නේ රටකට සාපයක්.පවුල් පාලනයෙන් කිසිම රටක් දියුණු වෙලා නෑ.පවුල් පාලනය ගැන කතා කරන කොට හැමෝම කතා වෙන්නෙ රාජපක්ෂ පවුල් පාලනය ගැන. හැබැයි ප්‍රේමදාස පවුල් පාලනය ගැන කතා වෙන්නෙ අඩුවෙන්.
+🟩
+
+If Sajith Premadasa goes to the presidential election, Sajith Premadasa goes to control the country, but his wife, and the "Premadasa 'family company, said Urban Development and Housing Minister Prasanna Ranatunga.
+
+The Minister emphasizes that the country should vote for Mr. Ranil Wickremesinghe at the Presidential Election to save the country from cursed families.
+
+Minister Ranil Wickremesinghe is a democratic leader that many skips in the politics of this country.
+
+He was speaking at a presidential propaganda rally held in Minuwangoda yesterday.
+
+"Family rule is a curse to a country.. But Premadasa talks about family rule less.
+
+Minister of Housing Sajith is not the Minister of Housing Minister Sajith during 2015-2015.Dilanjali's work .I lie to you.
+
+Sajith Premadasa and Family Company, if Sajith won the Sagith, Due to Dineship.
+
+Also, when Anura Kumara will go back to the stone age, we feel that he is going to speak to the blood-thirsty ignorant people of the blood.
 
 ...
 
 [Data](articles/23cde4bf.json)
+
+[Extended Data](ext_articles/23cde4bf.ext.json)
 
 ---
 
@@ -790,6 +850,18 @@ Subsequently, the arrested persons have been produced before the Batticaloa Magi
 
 ---
 
+### නාවික හමුදා නව මාණ්ඩලික ප්‍රධානී රියර් අද්මිරාල් කාංචන බානගොඩ
+
+*2024-08-27 12:25:44* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-නව-මාණ්ඩලික-ප්‍රධානී-රියර්-අද්මිරාල්-කාංචන-බානගොඩ/11-411583) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ශ්‍රී ලංකා නාවික හමුදාවේ නව මාණ්ඩලික ප්‍රධානී ලෙස රියර් අද්මිරාල් කාංචන බානගොඩ 2024 අගෝස්තු මස 16 වන දින සිට පත්කෙරුණු අතර, නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා විසින් ඊට අදාළ පත්වීම් ලිපිය රියර් අද්මිරාල් කාංචන බානගොඩ වෙත නිල වශයෙන් 2024 අගෝස්තු මස 26 වන දින නාවික හමුදා මූලස්ථානයේදී ප්‍රදානය කර, සිය සුභපැතුම් පිරිනැමීමට කටයුතු කෙරිණි.
+
+...
+
+[Data](articles/248ad1f3.json)
+
+---
+
 ### How to get a companion to mark the ballot paper?
 
 *2024-08-27 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200381) · `si`
@@ -848,21 +920,31 @@ In response to a court order, former State Minister Diana Kamage was present in 
 
 ---
 
-### කාමරයක් තුළ ගිනි ගනිමින් සිටි කාන්තාවක් බේරා ගනියි
+### Save a woman on fire in a room
 
 *2024-08-27 12:17:56* · [`adalk`](https://www.ada.lk/breaking_news/කාමරයක්-තුළ-ගිනි-ගනිමින්-සිටි-කාන්තාවක්-බේරා-ගනියි/11-411582) · `si`
 
-යපනය අච්චුවේලි ප්‍රදේශයේ නිවසක් ඊයේ (26) රාත්‍රියේ කන්තාවක් පිලිසුම් තුවාල සහිතව රෝහල්ගත කොට ඇතැයි අච්චුවේලි පොලීසිය පැවසීය.
+Here's a summary of the text in 200 characters:
 
-අච්චුවේලි ප්‍රදේශයේ පිහිටි අදල නිවසේ කාමරයක් තුල ගිනිගන්නා බවට අසල්වාසීන් විසින් දැක නිවසට ඇතුල් වී ඇති අතර එහි කාමරයක් තුල බේරාගන්නා ලෙසට කැගැසීමෙන් අදාල කාමරයේ සිටි කාන්තාවක් බේරාගත් අසල්වාසීන් එම කාන්තාව අච්චුවේලි මූලික රෝහලට ඇතුලත් කිරීමෙන් පසුව වැඩිදුර ප්‍රතිකාර සඳහා යාපනය ශික්ෂණ රෝහලට ඇතුලත් කර ඇතැයිද පොලීසිය පැවසීය.
 
-අදාල නිවසේ සැමිය සහ බිරිඳ අතර නිතර පවුල් ආරවුල් සිදුවන බවට අසල්වාසීන් විසින් පොලීසියට පවස ඇති අතර අදාල කන්තාවට ගිනිතබා සැමියා පලා යන්නට ඇතැයි පොලීසිය සැකපල කර සිටියි.
 
-මෙලෙස පිලිසුම් තුවාල ලබා ඇත්තේ අච්චුවේලි ප්‍රදේශයේ පදිංචි බාලක්‍රිෂ්ණන් නිරුතිකා නැමති 27 හැවිරිදි කාන්තාවක් වන අතර අචුචුවේලි පොලීසිය විසින් වැඩිදුර පරික්ෂණ සිදුකරයි.
+Achchuveli Police reported a house fire incident in Panwella last night. A woman was hospitalized with injuries. Neighbors mentioned family disputes between the couple. The incident involved a 27-year-old resident of Atchuveli.
+
+🟩
+
+Achchuveli Police said that a house was hospitalized last night with injuries at the Achchuveli area of ​​the Panwella last night.
+
+The woman, who had been admitted to the Atchuveli, has been admitted to the Achchuvelle Hospital for further treatment.
+
+Neighbors tell the police that family disputes occur between the husband and wife of the house.
+
+The pro-balakridaan Nudina, a 27 year old resident of Atchuveli, is a 27 year old woman in Achchuveli.
 
 ◼️
 
 [Data](articles/ce89c9be.json)
+
+[Extended Data](ext_articles/ce89c9be.ext.json)
 
 ---
 
@@ -2435,61 +2517,5 @@ Did you know about Ranil, Sajith, Anura, and Namal?
 [Data](articles/ef8347e9.json)
 
 [Extended Data](ext_articles/ef8347e9.ext.json)
-
----
-
-### Sri Lanka’s Creative Green Map debuts on Saturday
-
-*2024-08-27 02:26:12* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-Creative-Green-Map-debuts-on-Saturday/34-766018) · `en`
-
-“The Routes we Take: Sri Lanka’s Creative Green Map” is set to be unveiled to the public at an exhibition scheduled for 31 August and 1 September 2024, at Trace Expert City, Maradana, and will be open to the public for viewing.
-
-The project is a co-creation of the EUNIC Cluster in Sri Lanka and Good Life X, to collectively create a digital map of the circular and creative industries of Sri Lanka in reviving and revealing its potential to South Asia and beyond.  The exhibition will showcase ten creatives from across the country, and will host interactive workshops, live performances and open studio tours of creatives within Colombo for people to visit.
-
-...
-
-[Data](articles/d33a761e.json)
-
-[Extended Data](ext_articles/d33a761e.ext.json)
-
----
-
-### Sri Lanka-Malaysia Business Council marks 30 years of excellence in bilateral relations
-
-*2024-08-27 02:25:48* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Malaysia-Business-Council-marks-30-years-of-excellence-in-bilateral-relations/34-766017) · `en`
-
-From left: Immediate past President Spillburg Holdings Managing Director M.H.K. Mohamed Hameez, Vice President Ganlath Timber and Transport Service Sole Proprietor G.A.D.A. Tissa Ganlath, SLMBC Patron High Commissioner of Malaysia Badli Hisham Adam, President Amana Bank Deputy Head – Orphan Care Mohamed Marshad Barry, Vice President Dialog Axiata Senior Manager – Enterprise Marketing, Sponsorships and Loyalty Kushan Atapattu, Secretary Ceylon Chamber of Commerce Manager Tharushika Senadeera
-
-...
-
-[Data](articles/964a06d1.json)
-
-[Extended Data](ext_articles/964a06d1.ext.json)
-
----
-
-### There is no such thing in the news that there is too much tax arrears - the financial officer of the Sri Lanka Customs Department
-
-*2024-08-27 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/192078) · `ta`
-
-Sri Lanka Customs Department tax revenue increase 2023-2024, tax arrears legal actions, new grievance division launched.
-
-🟩
-
-Madhuvari Commissioner General MJ Gunasiri said that the three major state income sources of the Internal Revenue Department, the Customs Department and the Department of Liquor, are in trouble.
-
-Pointing out that the tax on the three companies is only Rs 90 billion, he said that the tax is up to 3% - 5% of the total tax revenue of any country in the world.
-
-Madhuvari Commissioner General MJ Gunasiri made these comments at a media briefing held at the Presidential Media Center today (26).
-
-He also said that these three companies have earned the highest income in history by 2023 and have been able to create an overdue in the main account after 25 years.
-
-“All three companies - the Department of Internal Revenue, the Customs Department and the Liquor Department, which earns state income under the Ministry of Finance, charge taxes within the legal framework.. But there are some groups working to spread an illusion that there is too much tax arrears in this country.
-
-...
-
-[Data](articles/b2235860.json)
-
-[Extended Data](ext_articles/b2235860.ext.json)
 
 ---

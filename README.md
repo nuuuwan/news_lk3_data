@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 17:37:15**
+As of **2024-08-27 17:57:56**
 
 ## Newspaper Stats
 
-*Scraped **42,884** Articles*
+*Scraped **42,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,84 +17,156 @@ economynextcom | 2,586
 dailyftlk | 2,779
 adalk | 3,962
 dailymirrorlk | 4,733
-adaderanalk | 5,045
+adaderanalk | 5,046
 tamilmirrorlk | 5,591
 virakesarilk | 6,813
-adaderanasinhalalk | 7,347
+adaderanasinhalalk | 7,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,877 (100.0%) of 42,884 articles have been extended.
+42,884 (100.0%) of 42,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### හෙට සිට කාලගුණයේ වෙනසක්
+### බහරේනයට ඇතුළු වන විදෙස් ශ්‍රමිකයන්ට ජාත්‍යන්තර බැංකු ගිණුම් විවෘත කරයි
+
+*2024-08-27 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200392) · `si`
+
+බහරේනයේ රැකියා සඳහා, එරට ගුවන්තොටුපොළෙන් ඇතුළු වන සියලුම විදෙස් ශ්‍රමිකයින්ට ජාත්‍යන්තර බැංකු ගිණුමක් (IBAN- International Bank Account Number)ලබාදීමට බහරේනයේ කම්කරු වෙළෙඳපොළ නියාමන අධිකාරිය (LMRA)පියවර ගෙන තිබේ.
+
+මෙය මෙම වසරේ අගෝස්තු මාසයේ සිට ක්‍රියාත්මක කරන බව එරට ශ්‍රී ලංකා තානාපති කාර්යාලය විසින් දැනුම්දෙයි.
+
+විදෙස් ශ්‍රමිකයින්ට මෙම ජාත්‍යන්තර බැංකු ගිණුම් හඳුන්වාදීම මගින් ශ්‍රමිකයා හා සේවා යෝජකයා අතර, ගෙවීම් තහවුරුවක් ලබාගැනීම හා නිවැරදි ගනුදෙනු සිදුකිරීම සහතික කිරීම අපේක්ෂා කරයි.
+
+එසේම ශ්‍රමික අයිතිවාසිකම් ආරක්ෂා කරමින්, ඔවුන්ගේ වැටුප් ගෙවීම් බැංකු මාර්ගයෙන් සිදුකිරීම විධිමත් කිරීමත්, වැටුප් සම්බන්ධයෙන් අධිකරණයේ නඩු පැවරීම අවම කිරීමත් බහරේන් රජය බලාපොරොත්තු වන බව සඳහන් ය.
+
+මේ පිළිබඳව වැඩි විස්තර බහරේනයේ කම්කරු වෙළෙඳපොළ නියාමන අධිකාරියේ (LMRA) වෙබ් අඩවිය වන www.lmra.gov.bh වෙත පිවිසීමෙන් හා 00973-17506055 අංකය ඇමතීම මගින් ලබාගත හැකිය.
+
+...
+
+[Data](articles/5a5d7b25.json)
+
+---
+
+### Tuberculosis on the rise in Kandy: 50 cases reported so far in 2024
+
+*2024-08-27 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101550/tuberculosis-on-the-rise-in-kandy-50-cases-reported-so-far-in-2024) · `en`
+
+The Chief Medical Officer of Kandy, Dr. Pasan Jayasinghe revealed that around 50 tuberculosis (TB) patients have been diagnosed within the Kandy city limits during the period which has elapsed so far this year.
+
+Dr. Jayasinghe also highlighted that the most pressing infectious disease threat in Kandy is not dengue, but tuberculosis.
+
+While dengue cases are typically identified within six days and the treatment can be commenced, tuberculosis presents a much greater challenge, as diagnosis of the disease can take up to six months, according to Dr. Jayasinghe.
+
+Meanwhile, he highlighted that symptoms such as persistent coughing, weakness in body and the loss of appetite is significant in TB patients, but they often go untreated, as many individuals seek short-term remedies for these symptoms instead of undergoing proper screening for TB.
+
+With tuberculosis cases on the rise in Kandy, Dr. Jayasinghe urged the public to be vigilant and prioritize their health.
+
+◼️
+
+[Data](articles/bc0371d3.json)
+
+---
+
+### A change in weather from tomorrow
 
 *2024-08-27 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200391) · `si`
 
-අගෝස්තු මස 28 වනදා සිට සැප්තැම්බර් 06 දක්වා ශ්‍රී ලංකාවට ආසන්න අක්ෂාංශවලට හිරු සෘජුවම ඉහළින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Weather forecast: Sun over Delft Island, showers in Ampara, Batticaloa, Hambantota, Trincomalee. Strong winds expected.
 
-එබැවින් හෙට (28) දහවල් 12:11ට ඩෙල්ෆ් දූපත, පුනරීන්, තද්දුවන්කොඩ්ඩි සහ චුන්ඩික්කුලම් ප්‍රදේශවලට හිරු මුදුන්ව පවතීන බව එම දෙපාර්තමේන්තුව නිවේදනය කරයි.
+🟩
 
-මේ අතර ඉදිරි පැය 36ක කාලය සඳහා බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇති විය හැකි බව එම නිවේදනයේ සඳහන් ය.
+The sun is directly above Sri Lanka from August 28 to September 06, the Met Department said.
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Therefore, tomorrow (28) tomorrow (28), the Department announces that the sun is over to the Delft Island, Pooneryn, Saddakulam areas.
 
-උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින්විට හමන පැ.කි.මී. 30ක 40ක පමණ තරමක තද සුළං ද ඇතිවිය හැකිය.
+Meanwhile, a few thin covers are available in the Western, Sabaragamuwa and Northwestern provinces and in the Galle and Matara districts for the next 36 hours.
 
-ගිගුරුම් සහිත වැසි සමග ඇති වියහැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa Districts in Ampara and Batticaloa Districts.
+
+At times, Hambantota and Trincomalee and Trincomalee districts have been situated in the Northern, North Central and Northwestern districts. Strong winds can also cause about 40 feet of strong winds.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning.
 
 ◼️
 
 [Data](articles/35ad3910.json)
 
+[Extended Data](ext_articles/35ad3910.ext.json)
+
 ---
 
-### மனித உரிமை குற்றச்சாட்டு, யுத்த குற்றச்சாட்டு சுமத்தப்பட்ட  எவரையும் எனது அரசாங்கம் தண்டிக்காது - அனுரகுமார
+### My government will not punish anyone who has been charged with human rights and war charges - Anuragumara
 
 *2024-08-27 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/192147) · `ta`
 
-இலங்கையின் 26 வருடகால உள்நாட்டு யுத்தத்தின்போது யுத்தகுற்றச்சாட்டுகள் மனித உரிமை குற்றச்சாட்டுகளிற்குள்ளாகியுள்ள எவரையும் தனது நிர்வாகம் தண்டிக்க முயலாது என தேசிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் அனுரகுமார திசநாயக்க தெரிவித்துள்ளார்
+Sri Lanka: Government promises no punishment for war crime accusations. National People's Power MP Anuragumara Dissanayake states administration won't prosecute those charged with human rights violations during 26-year civil war.
+
+🟩
+
+National People's Power MP Anuragumara Dissanayake has said that his administration will not punish anyone who has been accused of war crimes during Sri Lanka's 26 -year civil war.
 
 ◼️
 
 [Data](articles/86aeab89.json)
 
+[Extended Data](ext_articles/86aeab89.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தல் புறக்கணிப்பு பிரச்சாரத்திற்கு இடையூறு ஏற்படுத்திய பொலிஸ் பொறுப்பதிகாரிக்கு எதிராக முறைப்பாடு
+### Complaint against the police officer who disrupted the presidential boycott campaign
 
 *2024-08-27 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/192133) · `ta`
 
-ஜனாதிபதித் தேர்தலைப் புறக்கணிக்கக் கோரி மூன்று மாதங்களுக்கு முன்னர் ஆரம்பிக்கப்பட்ட மக்கள் விழிப்புணர்வுப் பிரச்சாரத்திற்கு பொலிஸார் இடையூறு செய்தமை தொடர்பில் தமிழ்த் தேசியக் கட்சியொன்று தேர்தல் ஆணையாளர் மற்றும் இலங்கை மனித உரிமைகள் ஆணைக்குழுவிடம் முறைப்பாடு செய்துள்ளது.
+Here's a summary of 200 characters:
 
-கிழக்கு மாகாணம் அம்பாறை மாவட்டம் திருக்கோவில் பகுதியில் கடந்த ஆகஸ்ட் 24ஆம் திகதி தமிழ்த் தேசிய மக்கள் முன்னணியின் பொதுச் செயலாளர், பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் தலைமையிலான குழுவினர் துண்டுப் பிரசுரம் விநியோகித்துக் கொண்டிருந்த போது வாக்களிக்க வேண்டாம் என்ற கோரிக்கை தடை செய்யப்பட்டுள்ளதாக தெரிவித்து பொலிஸார் தடுத்து நிறுத்தினர்.
 
-தாம் மேற்கொள்ளவிருந்த விழிப்புணர்வுப் பிரசாரத்திற்கு இடையூறு விளைவித்தமை சட்டவிரோதமானது என குற்றம் சுமத்தும் பாராளுமன்ற உறுப்பினர் கஜேந்திரன், திருக்கோவில் பொலிஸ் நிலையத்திற்கு எதிராக சட்ட நடவடிக்கை எடுத்து நீதி வழங்கப்பட வேண்டுமென கோரிக்கை விடுத்துள்ளார்.
+
+Tamil National Party complains police disrupted presidential election boycott campaign. Officer accused of banning awareness activities. Parliamentarian calls for legal action, citing constitutional rights. Campaign aims to pressure Tamil voters to abstain from polls.
+
+🟩
+
+A Tamil National Party has lodged a complaint with the Election Commissioner and the Human Rights Commission regarding the disruption of the public awareness campaign which was launched three months ago demanding the boycott of the presidential election.
+
+On August 24 in the Tirukovil area of ​​the Eastern Province, the Tamil National People's Front General Secretary and Parliamentarian Selvarasa Gajendran, a group of parliamentarian Selvarasa Gajendran, had been banned from voting.
+
+Parliamentarian Gajendran, accusing him of disrupting the awareness campaign, has called for legal action against the police station in Tirukovil.
+
+"Is it stated not to vote? It cannot be distributed. This is prohibited. Demonstrations have been banned, ”the police said in the video.
+
+In the presence of the representative of the Tamil people, the Superintendent of Police in Tirukovil said that the move was contrary to the constitution in Sinhala.
 
 ...
 
 [Data](articles/1747410d.json)
 
+[Extended Data](ext_articles/1747410d.ext.json)
+
 ---
 
-### நுவரெலியாவில் ஏ.டி.எம். இயந்திரம் உடைப்பு
+### ATM in Nuwara Eliya. Engine break
 
 *2024-08-27 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/192131) · `ta`
 
-நுவரெலியா பொலிஸ் பிரிவுக்குட்பட்ட நுவரெலியா பிரதான பஸ் தரிப்பிடத்துக்கு அருகில் அமைந்துள்ள தனியார் வங்கியொன்றின் தானியங்கி பணம் வழங்கும் இயந்திரம் (ATM) நேற்று திங்கட்கிழமை (26) இரவு உடைக்கப்பட்டுள்ளது.
+Nuwara Eliya ATM broken engine garbage basket attack investigation
 
-நேற்றைய தினம் வங்கி திறக்கப்பட்ட சமயத்தில் தானியங்கி பணம் வழங்கும் இயந்திரம் உடைக்கப்பட்டிருந்தமை அவதானிக்கப்பட்டுள்ளது.
+🟩
 
-தானியங்கி பணம் வழங்கும் இயந்திர அறையினுள் காணப்பட்ட இரும்பு குப்பைக் கூடையினால் பணம் வழங்கும் இயந்திரம் மீது தாக்குதல் மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸாரின் ஆரம்ப கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+The ATM (ATM) of a private bank located near the Nuwara Eliya main bus station under the Nuwara Eliya Police Division was broken on Monday night.
+
+It was observed that the automated money -making machine had been broken when the bank opened yesterday.
+
+Preliminary investigations by the police revealed that the iron garbage basket was attacked in the automated money -providing machine.
 
 ◼️
 
 [Data](articles/e2a2fb35.json)
+
+[Extended Data](ext_articles/e2a2fb35.ext.json)
 
 ---
 
@@ -138,23 +210,33 @@ Dissanayake says his administration can be the change people want: a sound econo
 
 ---
 
-### சஜித் வெற்றி பெற்றால் அவரது மனைவி, சகோதரி உள்ளிட்ட "பிரேமதாச" குடும்பம் நாட்டை ஆளும் - பிரசன்ன ரணதுங்க
+### If Sajith wins, the "Premadasa" family, including his wife and sister, rules the country - Prasanna Ranatunga
 
 *2024-08-27 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/192141) · `ta`
 
-ஜனாதிபதித் தேர்தலில் சஜித் பிரேமதாச வெற்றி பெற்றால் நாட்டை ஆளப் போவது அவரல்ல. மாறாக அவரது மனைவி, சகோதரி உள்ளிட்ட "பிரேமதாச" குடும்ப உறுப்பினர்களே என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Here's a summary of the text in 200 characters:
 
-சபிக்கப்பட்ட குடும்ப ஆட்சியில் இருந்து நாட்டைக் காப்பாற்ற வேண்டுமானால் இந்த ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு வாக்களிக்க வேண்டும் என அமைச்சர் வலியுறுத்துகிறார்.
 
-ரணில் விக்கிரமசிங்க இந்த நாட்டின் அரசியலில் பலரால் தவறவிடப்பட்ட ஒரு ஜனநாயகத் தலைவர் என்றும் அமைச்சர் கூறினார்.
 
-மினுவாங்கொடை பிரதேசத்தில் நேற்று திங்கட்கிழமை (26) இடம்பெற்ற ஜனாதிபதி தேர்தல் பிரச்சார கூட்டத்தில் கலந்து கொண்ட அமைச்சர் இதனைக் குறிப்பிட்டுள்ளார்.
+Sajith Premadasa's win may lead to Premadasa family ruling Sri Lanka, claims Prasanna Ranatunga. He urges voters to support Ranil Wickremesinghe to prevent family rule.
 
-குடும்ப ஆட்சி என்பது ஒரு நாட்டுக்கு சாபக்கேடு. குடும்ப ஆட்சியில் எந்த நாடும் வளர்ச்சி அடையவில்லை. குடும்ப ஆட்சி பற்றி பேசும் போது அனைவரும் ராஜபக்ச குடும்ப ஆட்சி பற்றி பேசுகிறார்கள். ஆனால் பிரேமதாச குடும்ப ஆட்சி பற்றி பேசப்படுவது குறைவாகவே உள்ளது.
+🟩
+
+If Sajith Premadasa wins the presidential election, he is not going to rule the country. Instead, Urban Development and Housing Minister Prasanna Ranatunga said that his wife and sister were "Premadasa" family members.
+
+The minister urges Ranil Wickremesinghe to vote in this presidential election if he wants to protect the country from the cursed family rule.
+
+The minister said that Ranil Wickremesinghe was a democratic leader who was missing by many in the politics of this country.
+
+The Minister was speaking at the Presidential Election Campaign Meeting held in Minuwangoda yesterday (26).
+
+Family rule is a curse for a country. No country has grown in family rule. When talking about family rule, everyone talks about family rule. But talking about the Premadasa family rule is less.
 
 ...
 
 [Data](articles/7771893e.json)
+
+[Extended Data](ext_articles/7771893e.ext.json)
 
 ---
 
@@ -216,21 +298,31 @@ Siglier Vice President of the Agreement and Hon.
 
 ---
 
-### “ஜனாஸாக்களை எரித்த வேதனை அலிசப்ரியின் அதிகாரத்தை குளிர்ச்சியாக்கியதா?" - சம்மாந்துறையில் ரிஷாட்!
+### "Did the pain of burning the Janasas cool Alizabri's power?" - Rishad in Samanthurai!
 
 *2024-08-27 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/192135) · `ta`
 
-கொடுங்கோலன் கோட்டாவின் நிழலில் வளர்ந்த கூட்டத்தை பாதுகாக்கும் ரணிலைத் தோற்கடிப்பதற்கு, முஸ்லிம்கள் ஒன்றுபட வேண்டுமென அகில இலங்கை மக்கள் காங்கிரஸ் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-"எதிர்வரும் ஜனாதிபதித் தேர்தலை தென்னிலங்கை உன்னிப்பாக அவதானிக்கிறது. அரசியலை குடும்பச் சொத்தாக்கி, நாட்டின் பொருளாதாரத்தை கபளீகரம் செய்த கும்பலைத் தோற்கடிக்க பெரும்பான்மை மக்கள் என்றோ தயாராகிவிட்டனர். எனவே, சிறுபான்மைச் சமூகங்களும் இவ்விடயத்தில் ஒன்றுபட வேண்டும்.
 
-பேரினவாதிகளின் முகவர்களாக, இங்குள்ள ஒரு சிலர் களமிறக்கப்பட்டுள்ளமை கவலையளிக்கிறது. கிழக்கு மக்கள் ஒன்றுபட்டுவிட்டதாக ஒரு மாயையைக் காட்டி, தென்னிலங்கையை மட்டுமல்ல முழு நாட்டையும் இவர்கள் மீண்டும் ஏமாற்றத் துடிக்கின்றனர்.
 
-பணத்தை வாரியிறைத்து, பஸ்களில் மக்களை கூட்டி வந்து, இவர்கள் காட்டும் மாய வித்தைகள் பலனளிக்காது. ஒருவருக்கு ஐயாயிரம் ரூபா வழங்கப்படுகிறதென்றால், எவ்வளவு பணத்தை இவர்கள் கொள்ளையடித்துள்ளனர் என்பதை கணக்கிட்டுப்பாருங்கள்.
+Sri Lankan politician Rishad Bathiudeen urges Muslim unity to support Ranil Wickremesinghe, criticizes Minister Alisabri for joining forces with "tyrannical" groups, and promotes Sajith Premadasa as a better alternative.
+
+🟩
+
+All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen said that Muslims should unite to defend Ranil, who protected the crowd in the shade of the tyrannical quota.
+
+“The upcoming presidential election is closely observed in the South. The majority of the people are ready to defeat the gang that made politics a family property and the country's economy. Therefore, minority communities must unite in this regard.
+
+As agents of chauvinists, a few people here are worried. The people of the East are united, and they are trying to deceive not only South Sri Lanka but the entire country.
+
+The magic tricks they show do not benefit the money and get people on buses. If one is given five thousand rupees, calculate how much money they have robbed.
 
 ...
 
 [Data](articles/b21e22ce.json)
+
+[Extended Data](ext_articles/b21e22ce.ext.json)
 
 ---
 
@@ -1070,21 +1162,31 @@ The Navy said that the disappeared Indian fishermen have been launched.
 
 ---
 
-### දකුණු පළාත් මාර්ග අධිකාරියේ සභාපති ඉවතට
+### Southern Provincial Road Authority
 
 *2024-08-27 12:49:28* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාත්-මාර්ග-අධිකාරියේ-සභාපති-ඉවතට/11-411584) · `si`
 
-දකුණු පළාත් මාර්ග සංවර්ධන අධිකාරියේ සභාපති හා අධ්‍යක්ෂ මන්ඩල සාමාජික විතානාච්චි දොන් චම්ලි පත්මලාල් මහතා එම ධුරවලින් ඉවත් කරයි.
+Here's a summary of the text in 200 characters:
 
-දකුණු පළාත් ආන්ඩුකාර ලක්ෂ්මන් යාපා අබේවර්ධන මහතා විසින් මෙම ඉවත් කිරීම සිදුකරමින් ඊයේ(26) දිනයෙන්  ගැසට් නිවේදනයක් නිකුත් කර ඇත.
 
-පොදුජන පෙරමුණේ හිටපු දකුණු පළාත් සභා මන්ත්‍රීවරයෙකු වන චම්ලි විතානාච්චි මහතා මෙවර ජනජනාධිපතිවරණයේදී පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතාට සහයෝගය ලබාදෙයි.
 
-එමෙන්ම එලෙස  නාමල් රාජපක්ෂ මහතාට සහයෝගය ලබා දීමට ඉදිරිපත්ව සිටි බස්නාහිර පළාත් හිටපු පොදුජන පෙරමුණු මන්ත්‍රීවරුන් දෙදෙනෙකු වූ  බස්නාහිර පළාත්බද මාර්ග සංවර්ධන අධිකාරියේ සභාපති හා  සාමාජික  උපාලි කොඩිකාර මහතා සහ බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ සභාපති හා  සාමාජික ප්‍රසන්න සංජීව මහතාද එම තනතුරුවලින් ඉවත් කරමින්  බස්නාහිර පළාත් ආන්ඩුකාර රොෂාන් ගුණතිලක මහතා විසින් නොබෝදා ගැසට් නිවේදනයක් නිකුත් කර තිබිණි .
+Southern Provincial Road Authority: Chairmen removed; Gazette notice issued; Former members affected; Western Province officials impacted.
+
+🟩
+
+The Chairman of the Southern Provincial Road Development Authority and the Chairman of the Southern Provincial Road Development Authority and the Chairman of the Southern Provincial Road Development Authority removes from the ruthless.
+
+The removal of the removal was issued yesterday (26) by Governor Lakshman Yapa Abeywardena yesterday.
+
+Former Southern Provincial Councilor Chamley Withanawich, a former Southern PC member of the General Secretary of the General Supreme Court supported Namal Rajapaksa at the General Meeting.
+
+Western Province Prasanna Kodikara, Chairman and Member of the Western Province Road Prasanna Kodikara, the Chairman of the Western Province, Prasanna Kodikara, the Chairman of the Western Province and Member of the Western Province Road Prasanna Kodika was also removed from the posts.Mr. Gunatilleke had issued a gazette notice.
 
 ...
 
 [Data](articles/e3d10571.json)
+
+[Extended Data](ext_articles/e3d10571.ext.json)
 
 ---
 
@@ -2445,53 +2547,5 @@ He added that the demand for crackers could increase further in the next few day
 [Data](articles/5b1733e8.json)
 
 [Extended Data](ext_articles/5b1733e8.ext.json)
-
----
-
-### I launch the policy statement of the animation
-
-*2024-08-27 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200367) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Tomorrow, Samagi Tens UPFA will issue its policy statement regarding the animation."
-
-🟩
-
-Samagi Tens UPFA is scheduled to be issued tomorrow.
-
-◼️
-
-[Data](articles/cfbde7b3.json)
-
-[Extended Data](ext_articles/cfbde7b3.ext.json)
-
----
-
-### This is not true in the news that there is too much outstanding
-
-*2024-08-27 07:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-நிலுவை-உள்ளதாக-வெளியாகும்-செய்திகளில்-உண்மையில்லை/175-342842) · `ta`
-
-Sri Lanka's Internal Revenue, Customs, and Liquor Departments face financial challenges. Total tax revenue stands at Rs 90 billion, below global averages of 3-5%. However, tax collections have shown growth in recent years. The government aims to increase revenue through various measures.
-
-🟩
-
-Madhuvari Commissioner General MJ Gunasiri said that the three major state income sources of the Internal Revenue Department, the Customs Department and the Department of Liquor, are in trouble.
-
-Pointing out that the tax on the three companies is only Rs 90 billion, he said that the total tax revenue of any country in the world is up to 3% - 5%.
-
-Madhuvari Commissioner General MJ Gunasiri made these comments at a media briefing held at the Presidential Media Center yesterday (26).
-
-He also said that these three companies have earned the highest income in history by 2023 and have been able to create an overdue in the main account after 25 years.
-
-“Three companies - the Department of Internal Revenue, the Customs Department and the Department of Liquor, which earns the state income under the Ministry of Finance, charge taxes within the legal framework.. But there are some groups working to spread an illusion that there is too much tax arrears in this country.
-
-...
-
-[Data](articles/92a72101.json)
-
-[Extended Data](ext_articles/92a72101.ext.json)
 
 ---

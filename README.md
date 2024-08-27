@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 15:55:42**
+As of **2024-08-27 16:08:57**
 
 ## Newspaper Stats
 
-*Scraped **42,859** Articles*
+*Scraped **42,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,112 @@ colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,956
+adalk | 3,958
 dailymirrorlk | 4,733
-adaderanalk | 5,039
+adaderanalk | 5,043
 tamilmirrorlk | 5,589
 virakesarilk | 6,808
-adaderanasinhalalk | 7,342
+adaderanasinhalalk | 7,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,857 (100.0%) of 42,859 articles have been extended.
+42,859 (100.0%) of 42,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### ඇල්පිටිය ප්‍රාදේශීය සභා ඡන්දය ගැන විශේෂ දැනුම්දීමක්
+
+*2024-08-27 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200387) · `si`
+
+ඇල්පිටිය ප්‍රාදේශීය සභාවේ ඡන්ද විමසීම සඳහා තැපෑලෙන් ඡන්දය දීමට සුදුසුකම් ලැබූවන්ගේ අයදුම්පත් භාර ගැනීමේ කාලසීමාව 2024.08.26 දින සිට 2024.09.13 දින මධ්‍යම රාත්‍රී 12න් අවසන් වීමට නියමිතය.
+
+මැතිවරණ කොමිෂන් සභාව නිවේදනයක් නිකුත් කරමින් සඳහන් කරන්නේ එම කාලය කිසිසේත්ම දීර්ඝ නොකරන බවය.
+
+තැපැල් ඡන්ද ඉල්ලුම්පත්‍ර සම්පූර්ණ කිරීම සඳහා අවශ්‍ය වන 2024 ඡන්දහිමි නාමලේඛන තොරතුරු මැතිවරණ කොමිෂන් සභාවේ www.elections.gov.lk වෙබ් අඩවියට පිවිසීමෙන් ලබාගත හැකිය.
+
+ඊට අමතරව අවශ්‍ය වන තොරතුරු ලබාගැනීම සඳහා 2024 ඇල්පිටිය ප්‍රාදේශීය සභාවේ ඡන්දහිමි නාමලේඛන පහත සඳහන් ස්ථානවලදී ද ප්‍රදර්ශනය කෙරේ.
+
+ඇල්පිටිය ප්‍රාදේශීය සභා බල ප්‍රදේශයේ සියලුම ග්‍රාම නිලධාරී කාර්යාලවල (එක් එක් ග්‍රාම නිලධාරී කොට්ඨාසයට අයත් නාමලේඛන)
+
+◼️
+
+[Data](articles/7af72399.json)
+
+---
+
+### Dilith Jayaweera’s solution to Sri Lanka’s increasing brain drain
+
+*2024-08-27 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101547/dilith-jayaweeras-solution-to-sri-lankas-increasing-brain-drain) · `en`
+
+The Government Medical Officers’ Association (GMOA) has met with the presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera today (27), in order to discuss the current issues in the health sector.
+
+During the discussion, the representatives of the GMOA pointed out that one of the major issues prevailing in the health sector is the rising brain drain in the country. They emphasized that despite repeated warnings, no effective solutions have been provided by the relevant authorities to address the problem.
+
+Commenting regarding the issue, presidential candidate Dilith Jayaweera highlighted that this is a critical issue concerning Sri Lanka’s human capital and human resources management, adding that the country lacks a comprehensive government strategy for managing human resources.
+
+...
+
+[Data](articles/ddffcf3d.json)
+
+---
+
+### Sri Lanka to introduce new law in relation to rights of indigenous community
+
+*2024-08-27 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101546/sri-lanka-to-introduce-new-law-in-relation-to-rights-of-indigenous-community) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal to instruct the Legal Draftsman to prepare a draft bill based on the improved fundamental draft in relation to introduction of a new law in relation to the rights of Sri Lankan indigenous community.
+
+On May 22, the approval of the Cabinet of Ministers was granted to the joint proposal furnished by the then Minister of Justice, Prison Affairs and Constitutional Reforms and the Minister of Buddha Sasana, Religious and Cultural Affairs in relation to introduction of the new law.
+
+At that meeting, it had been decided that it was appropriate to further analyze the concept paper furnished to prepare the draft bill with the participation of all parties concerned, the Cabinet Spokesman said.
+
+...
+
+[Data](articles/025040c4.json)
+
+---
+
+### SLPP to unveil its election manifesto in Sept. first week
+
+*2024-08-27 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101545/slpp-to-unveil-its-election-manifesto-in-sept-first-week) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) is set to unveil its presidential election manifesto in the first week of September.
+
+SLPP media spokesperson Sanjeeva Edirimanna said that the party is currently in the final phase of preparing the policy statement.
+
+Meanwhile, the Presidential Candidate of Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has emphasized the importance of strengthening the ‘Samurdhi’ programme.
+
+Speaking at a rally in Nawalapitiya, Rajapaksa criticized the negative perception some leaders have about the programme, which he argues has been crucial in alleviating poverty in Sri Lanka.
+
+The SLPP’s Presidential Candidate stated that certain leaders think that the ‘Samurdhi’ movement has failed and that however, it was the same movement that saved the people of this country from poverty.
+
+...
+
+[Data](articles/5f450547.json)
+
+---
+
+### Former Malaysian PM charged with sedition for allegedly mocking former king
+
+*2024-08-27 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101544/former-malaysian-pm-charged-with-sedition-for-allegedly-mocking-former-king) · `en`
+
+Former Malaysian Prime Minister Muhyiddin Yassin was charged Tuesday with sedition over a speech he made that allegedly questioned the integrity of the country’s previous king.
+
+Muhyiddin, who led Malaysia from March 2020 until August 2021, pleaded not guilty in a court in northeast Kelantan state. According to the charge sheet, Muhyiddin made the seditious remarks last month during a by-election campaign in Kelantan.
+
+Nine ethnic Malay state rulers take turns as Malaysia’s king for five-year terms under the country’s rotating monarchy, which began when Malaysia gained independence from Britain in 1957. The monarchy plays a largely ceremonial role, but are revered by the nation’s majority Muslims.
+
+In his speech on Aug. 14, Muhyiddin had questioned why then-King Sultan Abdullah Sultan Ahmad Shah didn’t invite him to be prime minister following a hung Parliament in November 2022. Muhyiddin had claimed he had the backing of majority lawmakers.
+
+...
+
+[Data](articles/756986b6.json)
+
+---
 
 ### Match Picking: Prison for Bacheloria
 
@@ -246,25 +336,35 @@ The issue will be explored in this session. Those resolutions are in the process
 
 ---
 
-### தமிழ் மக்களின் பலத்தை காண்பிப்பதற்கே ஐனாதிபதி தேர்தலில் போட்டியிடுகின்றேன் - பொதுவேட்பாளர் அரியநேத்திரன்
+### I am contesting the presidential election to show the strength of the Tamil people - General candidate Ariyanethran
 
 *2024-08-27 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/192114) · `ta`
 
-தமிழ் மக்களின் ஒற்றுமையை வெளியுலகத்திற்கு காண்பிப்பதற்கே பொதுவேட்பாளராக போட்டியிடுகின்றேன் இன்றும் எமது நிலங்கள் அபகரிக்கப்பட்டுக் கொண்டிருக்கின்ற நிலையில் தான் நாம் இந்த ஐனாதிபதி தேர்தலை சந்திக்கிறோம் என தமிழ் பொது வேட்பாளர் பா.அரியநேத்திரன் தெரிவித்தார் .
+Tamil presidential candidate Ariyanethran contests election to unite Tamil people, not seek presidency. Focuses on Tamil strength and solutions rather than individual promises.
 
-யாழ்ப்பாணம் நல்லூரில் அமைந்துள்ள தியாகி திலீபனின் நினைவிடத்தில் அஞ்சலி செலுத்திய பின் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் அவர் இதனை தெரிவித்தார்.
+🟩
 
-திலீபன் எதற்காக உண்ணாவிரதம் இருந்து தனது உயிரை அர்ப்பணித்தாரோ அத்தகைய தேவை இன்னும் இருந்துகொண்டு இருக்கிறது .எமக்கான தீர்வு கிடைத்தபாடில்லை.
+"We are contesting the unity of the Tamil people to the outside world. We are still meeting this presidential election as our lands are still being taken away," said Tamil general candidate PA Ariyanethran.
 
-அந்த தீர்வை நோக்கிய பயணமாக தமிழ் மக்களின் ஒற்றுமைக்காக ஐனாதிபதி வேட்பாளராக தமிழ்தேசிய  பொதுக்கட்டமைப்பால் பொதுவேட்பாளராக போட்டியிடுகின்றேன்.
+He was speaking to the media after paying tribute to the martyr Dileepan's memorial at Nallur, Jaffna.
 
-ஐனாதிபதியாக வருவதல்ல நோக்கம். இந்த தேர்தல் மூலம் எமக்கான தீர்வை பொற்றுக்கொள்ள தமிழர்களாகிய நாம் ஒற்றுமையாவிருக்கின்றோம் என்பதை காண்பிப்பதற்காக போட்டியிடுகின்றேன்.
+Dileepan dedicated his life from hunger strikes.
 
-எமது மக்கள் நேரகாலத்துடன் பெருவாரியாக சென்று வாக்களிப்பதன் ஊடாக எமது அடுத்த கட்டத்தை நோக்கி பயணிக்க முடியும்.
+I am contesting as a general candidate for the unity of the Tamil people as the presidential candidate for the unity of the Tamil people.
+
+The purpose is not to be president. I am contesting to show that we are united as Tamils ​​to find our solution through this election.
+
+Our people can travel towards our next stage by voting in large numbers.
+
+The election manifesto of a few is currently being released. If you look at them, there is no such thing as a solution to the Tamils.
+
+They say corruption, development, solution within one country, equality.What is equality?This is the equality of this country in this country.
 
 ...
 
 [Data](articles/ee8460e8.json)
+
+[Extended Data](ext_articles/ee8460e8.ext.json)
 
 ---
 
@@ -286,21 +386,31 @@ President Wickremesinghe outlined his objective of achieving a swift economic re
 
 ---
 
-### 8 இந்திய மீனவர்கள் கைது
+### 8 Indian fishermen arrested
 
 *2024-08-27 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/192120) · `ta`
 
-மன்னார் கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட 08 இந்திய மீனவர்களை இலங்கை கடற்படையினர் கைது செய்துள்ளனர்.
+Here's a summary of the article in 200 characters:
 
-வடக்கு கடற்பரப்பில் இலங்கை கடற்படையினர் நேற்று திங்கட்கிழமை (26) மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
 
-கைது செய்யப்பட்ட மீனவர்கள் தலைமன்னார் துறைமுகத்திற்கு அழைத்துவரப்பட்டு மேலதிக விசாரணைகளுக்காக கடற்றொழில் பரிசோதகரிடம் ஒப்படைக்கப்பட்டுள்ளார்கள் என இலங்கை கடற்படை தெரிவித்துள்ளது.
 
-இவ் ஆண்டு இதுவரையான காலத்தில் 46 இந்திய இழுவை படகுகள் கைப்பற்றப்பட்டுள்ளதோடு, 341 இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+8 Indian fishermen arrested by Sri Lanka for fishing in Mannar sea. Brought to Talaimannar port for investigation. Total: 46 boats seized, 341 fishermen arrested so far this year.
+
+🟩
+
+Sri Lankan navy has arrested eight Indian fishermen for allegedly fishing in the Mannar seas.
+
+The Sri Lankan navy was arrested on Monday (26) in the Northern Sea.
+
+The Sri Lankan navy said that the arrested fishermen have been brought to the Talaimannar port and handed over to the Fisheries Inspector for further investigations.
+
+So far this year, 46 Indian drag boats have been seized and 341 Indian fishermen have been arrested.
 
 ◼️
 
 [Data](articles/7a850c80.json)
+
+[Extended Data](ext_articles/7a850c80.ext.json)
 
 ---
 
@@ -383,6 +493,26 @@ Chairman of the Election Commission, RM issued a statement. A. L. Mr. Ratnayake 
 [Data](articles/a83d3d67.json)
 
 [Extended Data](ext_articles/a83d3d67.ext.json)
+
+---
+
+### පවුල් පාලනයෙන් රට බේරා ගන්න රනිල්ට ඡන්දය දෙන්න
+
+*2024-08-27 13:32:32* · [`adalk`](https://www.ada.lk/breaking_news/පවුල්-පාලනයෙන්-රට-බේරා-ගන්න-රනිල්ට-ඡන්දය-දෙන්න/11-411588) · `si`
+
+ජනාධිපතිවරණයෙන් සජිත් ප්‍රේමදාස දිනුවොත් රට පාලනය කරන්නෙ ඔහු නොව ඔහුගේ බිරිඳ,නැගණිය ඇතුළු "ප්‍රේමදාස"පවුලේ සමාගම යැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+අමාත්‍යවරයා අවධාරණය කරන්නෙ ශාපලත් පවුල් පාලනයෙන් රට බේරා ගැනීමට නම් මෙවර ජනාධිපතිවරණයේ දී රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් ඡන්දය ප්‍රකාශ කළ යුතු බවයි.
+
+එමෙන්ම රනිල් වික්‍රමසිංහ යනු මෙරට දේශපාලනයේදී බොහෝ දෙනෙකුට මඟ හැරැණු ප්‍රජාතන්ත්‍රවාදී නායකයකු බවද අමාත්‍යවරයා කීය.
+
+මිනුවන්ගොඩ, ප්‍රදේශයේ ඊයේ (26) පැවති ජනාධිපතිවරණ ප්‍රචාරක රැළියකට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+"පවුල් පාලනය කියන්නේ රටකට සාපයක්.පවුල් පාලනයෙන් කිසිම රටක් දියුණු වෙලා නෑ.පවුල් පාලනය ගැන කතා කරන කොට හැමෝම කතා වෙන්නෙ රාජපක්ෂ පවුල් පාලනය ගැන. හැබැයි ප්‍රේමදාස පවුල් පාලනය ගැන කතා වෙන්නෙ අඩුවෙන්.
+
+...
+
+[Data](articles/23cde4bf.json)
 
 ---
 
@@ -715,6 +845,24 @@ In response to a court order, former State Minister Diana Kamage was present in 
 [Data](articles/2dfff364.json)
 
 [Extended Data](ext_articles/2dfff364.ext.json)
+
+---
+
+### කාමරයක් තුළ ගිනි ගනිමින් සිටි කාන්තාවක් බේරා ගනියි
+
+*2024-08-27 12:17:56* · [`adalk`](https://www.ada.lk/breaking_news/කාමරයක්-තුළ-ගිනි-ගනිමින්-සිටි-කාන්තාවක්-බේරා-ගනියි/11-411582) · `si`
+
+යපනය අච්චුවේලි ප්‍රදේශයේ නිවසක් ඊයේ (26) රාත්‍රියේ කන්තාවක් පිලිසුම් තුවාල සහිතව රෝහල්ගත කොට ඇතැයි අච්චුවේලි පොලීසිය පැවසීය.
+
+අච්චුවේලි ප්‍රදේශයේ පිහිටි අදල නිවසේ කාමරයක් තුල ගිනිගන්නා බවට අසල්වාසීන් විසින් දැක නිවසට ඇතුල් වී ඇති අතර එහි කාමරයක් තුල බේරාගන්නා ලෙසට කැගැසීමෙන් අදාල කාමරයේ සිටි කාන්තාවක් බේරාගත් අසල්වාසීන් එම කාන්තාව අච්චුවේලි මූලික රෝහලට ඇතුලත් කිරීමෙන් පසුව වැඩිදුර ප්‍රතිකාර සඳහා යාපනය ශික්ෂණ රෝහලට ඇතුලත් කර ඇතැයිද පොලීසිය පැවසීය.
+
+අදාල නිවසේ සැමිය සහ බිරිඳ අතර නිතර පවුල් ආරවුල් සිදුවන බවට අසල්වාසීන් විසින් පොලීසියට පවස ඇති අතර අදාල කන්තාවට ගිනිතබා සැමියා පලා යන්නට ඇතැයි පොලීසිය සැකපල කර සිටියි.
+
+මෙලෙස පිලිසුම් තුවාල ලබා ඇත්තේ අච්චුවේලි ප්‍රදේශයේ පදිංචි බාලක්‍රිෂ්ණන් නිරුතිකා නැමති 27 හැවිරිදි කාන්තාවක් වන අතර අචුචුවේලි පොලීසිය විසින් වැඩිදුර පරික්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/ce89c9be.json)
 
 ---
 
@@ -2343,185 +2491,5 @@ He also said that these three companies have earned the highest income in histor
 [Data](articles/b2235860.json)
 
 [Extended Data](ext_articles/b2235860.ext.json)
-
----
-
-### I. The MS manifesto will be released
-
-*2024-08-27 01:40:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-விஞ்ஞாபனம்-வௌ்ளி-வெளிவரும்/175-342839) · `ta`
-
-MS manifesto release date announced: UPFA MP SM speaks at media briefing on 26th.
-
-🟩
-
-United People's Power and United People's Alliance (UPFA) Media Spokesperson and Member of Parliament, SM, will be released on Friday the 29th of this month.. Said Marikar.
-
-He was speaking at a media briefing held at the United People's Alliance headquarters on Monday (26).
-
-◼️
-
-[Data](articles/974ee25b.json)
-
-[Extended Data](ext_articles/974ee25b.ext.json)
-
----
-
-### Poverty Eradication in24 Months
-
-*2024-08-27 01:37:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மாதங்களில்-வறுமை-ஒழிப்பு/175-342838) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sajith Premadasa proposes 24-month poverty eradication plan targeting women. Criticizes current government policies causing widespread poverty. Promises improved support through existing programs like Janasavi and Samurdhi. Aims to make Sri Lanka a self-sufficient society free from poverty.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that a new program to eradicate poverty will be carried out in 24 months by giving women the first place to women.
-
-Hundreds of thousands of people are in poverty due to the unwise and indispensable policies of the leaders in the current government that has become a bankruptcy.. He said they are trapped in poverty and are infinitely abnormal.
-
-He was speaking at the presidential election campaign meeting held at Kandalai, Seruwila, headed by Opposition Leader Sajith Premadasa on Monday (26).
-
-He also said that the best things in the Janasavi, Samurdhi, Aswasuma and Kemidiriya programs for the poor people who cannot get three meals every day without the way of life without the way of life.
-
-. Opposition Leader Sajith Premadasa said that considering issues such as food, non -food requirements, storage, consumption, investment, production, and export, will provide a monthly program of poverty and eradication of poverty in 24 months.
-
-...
-
-[Data](articles/0f234933.json)
-
-[Extended Data](ext_articles/0f234933.ext.json)
-
----
-
-### Ground Realities Need To Change For There To Be Reconciliation
-
-*2024-08-27 01:30:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ground-realities-need-to-change-for-there-to-be-reconciliation/) · `en`
-
-The question of the economy, the economic development path to be followed and who is best suited to lead the country at this time are the most discussed issues at the present time. But another important issue that has contributed to the economic and other problems the country faces and which has proved difficult to resolve will soon intrude on the discussion. At the same time as the election campaign is in full swing, the sessions of the UN Human Rights Council in Geneva are also going to commence soon. The Issue of Sri Lanka’s conformity with the UNHRC resolutions that have been making their regular appearance since 2009 will be taken up at these sessions. Those resolutions are based on the international community’s assessment that successive Sri Lankan governments have not dealt in an acceptable manner with the human rights violations of the past.
-
-...
-
-[Data](articles/b25695a0.json)
-
-[Extended Data](ext_articles/b25695a0.ext.json)
-
----
-
-### The best team with me
-
-*2024-08-27 01:20:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னுடன்-சிறந்த-குழு/175-342836) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-President Ranil Wickremesinghe unites teams across parties, stabilizes economy, criticizes opposition leaders for fleeing responsibilities.
-
-🟩
-
-President Ranil Wickremesinghe said that he was able to unite the talented team in all parties, not in a party, and that he had been able to stabilize the country's economy in the last two years and that there was no committee to be left beyond the economic committee.
-
-The president said that he was well aware of it because some of the parties were brought into politics and pointed out that the president is contesting to make the people live, and that this time to end the era in search of a gas cylinder.
-
-President Ranil Wickremesinghe made this statement while addressing a meeting with legal experts held at the Taj Samudra Hotel in Colombo on Sunday evening.
-
-A large number of lawyers, including senior president's lawyers, president's lawyers and senior lawyers, were present at the meeting organized under the theme "Attorneys of Economic Stability".
-
-...
-
-[Data](articles/9e39c616.json)
-
-[Extended Data](ext_articles/9e39c616.ext.json)
-
----
-
-### Again fierce opposition to Colombo debris
-
-*2024-08-27 01:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-குப்பைகளுக்கு-மீண்டும்-கடும்-எதிர்ப்பு/175-342835) · `ta`
-
-Protest against Colombo debris in Puttalam. Peaceful march demands immediate stop to garbage transport. Organized by Clean Puttalam Committee.
-
-🟩
-
-A protest march from Colombo to Puttalam has been launched in Puttalam from Sunday (25).
-
-The protest was carried out in a peaceful manner in Puttam demanding the immediate abandonment of the scheme.
-
-The protest was held for about two hours in front of the Puttalam Noor Nagar railway station.
-
-Some youth and community activists, including the party leader of the pure nation, Isham Marikar, participated in the protest.
-
-The organizers said that the special train which was loaded with garbage from Colombo for examination was based on information received by the Clean Puttalam Committee.
-
-Clean Puttalam, the historical struggle of the descendants. We are suing this in court. In such an environment, the garbage has been brought to the train without anyone knowing.
-
-We have expressed their opposition to the Puttalam community on behalf of the Clean Puttalam Organization. They called a peaceful struggle.
-
-◼️
-
-[Data](articles/d4ab1ab3.json)
-
-[Extended Data](ext_articles/d4ab1ab3.ext.json)
-
----
-
-### The worker's worker
-
-*2024-08-27 01:14:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயரமாயின்-காவலாளி-குட்டையாயின்-தொழிலாளி/175-342834) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka's Urban Development Minister Prasanna Ranatunga supports President Ranil Wickremesinghe, saying he's the only leader who can secure the country's future. He criticizes Opposition Leader Sajith Premadasa, claiming he lacks vision and experience.
-
-🟩
-
-Urban Development and Housing Minister Prasanna Ranatunga has said that if he handed over the country to Opposition Leader Sajith Premadasa, the country, the policy of a height is a height, the country's future and the future of the children.
-
-The minister emphasized that President Ranil Wickremesinghe is the only leader who can hand over the future of the country at this moment.
-
-The Minister made this observation on Sunday (25) at the inauguration of the Elections Office of the Divulapitiya constituency of the Gampaha district for the success of President Ranil Wickremesinghe.
-
-“People who love the country always refer to us as native Sri Lankans. When Mahinda failed in 2015, the bud was created with the hope of gathering the five great powers - Buddhist monk, doctor, teacher, farmer and labor. After the start and working with the bud, we won the country's local government elections, presidential election and parliamentary elections.
-
-...
-
-[Data](articles/f1bf6502.json)
-
-[Extended Data](ext_articles/f1bf6502.ext.json)
-
----
-
-### There is no way to verify property details
-
-*2024-08-27 01:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்து-விவரங்களை-சரிபார்க்க-வழி-இல்லை/175-342833) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Presidential candidates disclose assets and responsibilities to anti-corruption commission. However, lack of verification process raises concerns about accuracy. Legal requirements exist, but implementation challenges hinder effective monitoring.
-
-🟩
-
-This time the candidates contesting the presidential election have announced their assets and responsibilities to the Commission to investigate bribery or corruption.
-
-Subsequently, the Commission has made public the assets and responsibilities of all the Presidential candidates on its website.
-
-However, there is currently no means of verifying the accuracy of the information provided by the candidates and other officials published on the official website of the Commission.
-
-As various civil society organizations have been urged to publicly publish information on candidates, it has been mandatory for the IMF government to implement strong measures against corruption, it has been mandatory to express assets and responsibilities.
-
-Accordingly, in Article 88 (1) of the Anti -Corruption Act, No. 9 of 2023, it is clearly stated that the assets and responsibilities are to be revealed.
-
-...
-
-[Data](articles/216ed445.json)
-
-[Extended Data](ext_articles/216ed445.ext.json)
 
 ---

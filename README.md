@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 23:56:47**
+As of **2024-08-28 00:10:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,935 (100.0%) of 42,936 articles have been extended.
+42,936 (100.0%) of 42,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -522,19 +522,25 @@ Steps will be taken to build a declined agriculture due to the infection of the 
 
 ---
 
-### හිස් විදෙස් ගමන් බලපත්‍ර සීමා වෙයි
+### Open Foreign Passports
 
 *2024-08-27 19:16:13* · [`adalk`](https://www.ada.lk/breaking_news/හිස්-විදෙස්-ගමන්-බලපත්‍ර-සීමා-වෙයි/11-411596) · `si`
 
-ආගමන විගමන දෙපාර්තමේන්තුව සතුව මේ වන විට හිස් විදේශ ගමන් බලපත්‍ර ප්‍රමාණය සීමිත වීම හේතුවෙන් විදේශ ගමන් බලපත්‍ර නිකුත් කිරීම සීමා කිරීමට සිදුව තිබෙන බව ආගමන විගමන දෙපාර්තමේන්තුව සඳහන් ක‍රයි.
+Sri Lanka passport issuance limited due to diplomatic constraints. New consignment expected October. Last year saw less than 23% foreign distribution.
 
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පවසන්නේ ඇණවුම් කර ඇති නව විදේශ ගමන් බලපත්‍ර තොගය ඔක්තෝබර් මාසයේදී හෝ ඊට පෙර ශ්‍රී ලංකාවට ලබා ගත හැකි වෙනු ඇති බවයි.
+🟩
 
-එසේම පසුගිය වසරේ නිකුත් කළ විදේශ ගමන් බලපත්‍ර අතරින් විදේශ ගත වීම් සිදුකර ඇත්තේ සියයට 23ක් තරම් අඩු ප්‍රමාණයකින් බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+The Department of Immigration and Emigration has to limit the issuance of the issuance of passports due to the limitation of his dignitaries.
+
+In a statement, the department says the new passport consignment will be available in or before Sri Lanka in October.
+
+The Department has also informed the abroad last year with less than 23 percent.
 
 ◼️
 
 [Data](articles/ad18a3c7.json)
+
+[Extended Data](ext_articles/ad18a3c7.ext.json)
 
 ---
 

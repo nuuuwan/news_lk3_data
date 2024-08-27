@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 12:10:52**
+As of **2024-08-27 12:21:58**
 
 ## Newspaper Stats
 
-*Scraped **42,821** Articles*
+*Scraped **42,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,779
 adalk | 3,951
 dailymirrorlk | 4,733
 adaderanalk | 5,034
-tamilmirrorlk | 5,581
+tamilmirrorlk | 5,583
 virakesarilk | 6,795
 adaderanasinhalalk | 7,336
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 7,336
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,819 (100.0%) of 42,821 articles have been extended.
+42,821 (100.0%) of 42,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### ෆවුසිට අත්හිටවූ සිරදඬුවම් - ලක්ෂ 04ක දඩයක් ගෙවීමටත් නියෝග
+### Fauzi suspended to pay a fine of Rs.
 
 *2024-08-27 11:40:27* · [`adalk`](https://www.ada.lk/breaking_news/ෆවුසිට-අත්හිටවූ-සිරදඬුවම්---ලක්ෂ-04ක-දඩයක්-ගෙවීමටත්-නියෝග/11-411580) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ඒ.එච්.එම්.ෆවුසි මහතාට වසර 02ක සිරදඬුවමක් නියම කර එය වසර 10ට අත්හිටුවීමට කොළඹ මහාධිකරණය අද (27දා) නියම කළේය.
+Here's a summary of the text in 200 characters:
 
-එමෙන්ම රුපියල් ලක්ෂ 04ක දඩයක්ද විත්තිකරුට ගෙවීමට නියම කර තිබේ.
 
-2010 වසරේ ආපදා කළමනාකරණ අමාත්‍යවරයා ලෙස කටයුතු කරමින් සිටිය දී එම අමාත්‍යාංශයේ ආපදා කළමනාකරණ කටයුතු සඳහා නෙදර්ලන්තයෙන් හිමිවූ රුපියල් කෝටි 02කට ආසන්න සුඛෝපභෝගි වාහනයක් සිය පෞද්ගලික පරිහරණය සඳහා යොදවා ගැනීම ඇතුළු අධිචෝදනා 04ක් යටතේ නීතිපතිවරයා විසින් පවරා තිබූ නඩුව අද කැඳවූ අවස්ථාවේදී මෙම නියෝගය දෙනු ලැබිණි.
+
+Colombo High Court suspends MP Fauzi for 2 years jail and fine for personal vehicle misuse.
+
+🟩
+
+The Colombo High Court today (27), the Colombo High Court today (27), the Colombo High Court today (27) was appointed to suspend the suspension of 2 years in jail MP.
+
+The accused is also a fine of Rs.
+
+The order was made when the official vehicle was taken up for their personal use of nearly Rs.
 
 ◼️
 
 [Data](articles/4d37889a.json)
+
+[Extended Data](ext_articles/4d37889a.ext.json)
 
 ---
 
@@ -113,6 +123,22 @@ Education Minister Jason Clare acknowledged that higher education was hard-hit d
 [Data](articles/46aac25b.json)
 
 [Extended Data](ext_articles/46aac25b.ext.json)
+
+---
+
+### ஐ.ம.ச இன் தேர்தல் விஞ்ஞாபனம் நாளை
+
+*2024-08-27 11:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-இன்-தேர்தல்-விஞ்ஞாபனம்-நாளை/175-342855) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி தேர்தல் விஞ்ஞாபனம் நாளை (29) வெளியிடப்பட உள்ளது.
+
+ஐக்கிய மக்கள் சக்தியின் பிரதித் தலைவர் சுஜீவ சேனசிங்க, இது தொடர்பான கொள்கைப் பிரகடனத்தின் அனைத்துத் திட்டங்களும் தற்போது பூர்த்தி செய்யப்பட்டுள்ளதாக தெரிவித்தார்.
+
+இதேவேளை, ஐக்கிய மக்கள் சக்தியின் அரசாங்கத்தில் ஒரே நாட்டில் அதிகபட்ச அதிகாரப் பகிர்வு என்ற கொள்கை அமுல்படுத்தப்படும் என ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/414cabd6.json)
 
 ---
 
@@ -208,7 +234,7 @@ As the election date is approaching, he is seen as an important indicator of a c
 
 *2024-08-27 10:59:00* · [`economynextcom`](https://economynext.com/favourability-ratings-of-sri-lankas-akd-ranil-improve-ranils-surpasses-sajiths-178133/) · `en`
 
-ECONOMYNEXT — Sri Lanka leftist leader Anura Kumara Dissanayake and President Ranil Wickrmesinghe saw their net favourability rise, with the latter surpassing opposition leader Sajith Premadasa, according to an independent poll.
+ECONOMYNEXT — Sri Lanka leftist leader Anura Kumara Dissanayake and President Ranil Wickrmesinghe saw their net favourability rating rise in July, with the latter surpassing opposition leader Sajith Premadasa, according to an independent poll.
 
 The Institute for Health Policy (IHP) in its Sri Lanka Opinion Tracker Survey (SLOTS) for July found that the net favourability rating of Dissanayake rose 29 points from June to reach +3. President Wickremesinghe’s favourability improved 40 points to -24 surpassing Premadasa whose rating changed little, from -42 in June to -44 in July.
 
@@ -239,6 +265,22 @@ The Supreme Court judge bench made this statement during the hearing of a fundam
 [Data](articles/507b629a.json)
 
 [Extended Data](ext_articles/507b629a.ext.json)
+
+---
+
+### ரணிலை ஜனாதிபதியாக்க ஒன்றிணைவோம்: பைசால்
+
+*2024-08-27 10:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஜனாதிபதியாக்க-ஒன்றிணைவோம்-பைசால்/175-342853) · `ta`
+
+நாட்டை அபிவிருத்தி செய்து இனங்களுக்கிடையில் நல்லிணக்கத்தை ஏற்படுத்த ரணில் விக்ரமசிங்கவினால் மாத்திரமே முடியும். அதற்கான வேலைத்திட்டங்களும் அவரிடம் இருக்கின்றன. வீழ்ச்சியடைந்திருந்த நாட்டை குறுகிய காலத்தில் ஸ்திர நிலைக்கு கொண்டுவந்த ஜனாதிபதி ரணில் விக்ரமசிங்கவை மீண்டும் ஜனாதிபதியாக தெரிவுசெய்துகொள்ள மக்கள் முன்வர வேண்டும் என  முஸ்லிம் இடது முன்னணியின் பொதுச் செயலாளர்  எம். ஆர். எம். பைசால் தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்துவதற்காக, நீண்டகாலமாக முஸ்லிம் இடதுசாரி முன்னணி பலமாக செயல்பட்டு வருகிறது.
+
+கடந்த காலத்தில் நாட்டில்  ஏற்பட்ட பொருளாதார வீழ்ச்சியை கருத்திற்கொண்டு  இடதுசாரி கொள்கை உடைய மற்றும் ஒட்டுமொத்த  அனைத்து இன மக்களும் ரணில் விக்ரமசிங்க ஜனாதிபதியாக தெரிவாக வேண்டும் என்றே விரும்புகின்றனர். அதற்காக நாங்கள் அர்ப்பணிப்புடன் செயற்பட்டு வருகிறோம்.
+
+...
+
+[Data](articles/280e6800.json)
 
 ---
 
@@ -2298,23 +2340,37 @@ However, it has been disappointing that the lack of people attending the meeting
 
 ---
 
-### දුම්වැටි සහ මද්‍යසාර නිසා  දිනකට පුද්ගලයන් 100ක් මරණයට
+### 100 people die a day due to smoking and alcohol
 
 *2024-08-26 19:55:27* · [`adalk`](https://www.ada.lk/breaking_news/දුම්වැටි-සහ-මද්‍යසාර-නිසා--දිනකට-පුද්ගලයන්-100ක්-මරණයට/11-411577) · `si`
 
-දුම්වැටි සහ මද්‍යසාර භාවිතය නිසා  දිනකට පුද්ගලයන් 100කට ආසන්න ප්‍රමාණයක්  මරණයට පත් වන බව මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය (ADIC) සදහන් කරයි.
+Here's a summary of the text in 200 characters:
 
-මෙරට තුල දෛනිකව සිදුවන මරණවලින් 10න් 8කටම බෝ නොවන රෝග (NCD) හේතුවන අතර එම රෝග ඇති වීමට බලපාන ප්‍රධාන සාධක 4න් 2ක්ම දුම්වැටි සහ මද්‍යසාර භාවිතය හේතු වී ඇති බව සෞඛ්‍ය අමාත්‍යංශය අංශ පෙන්වා  දෙන බවද එම ආයතන පෙන්වා දෙයි.
 
-දුම්වැටි සහ මද්‍යසාර භාවිතය සඳහා මෙරට පුද්ගලයින්  දිනකට රුපියල් කෝටි 121 ක් වියදම් කරණ බවට අනාවරණය වි තිබෙන බවත්  දුම්වැටි සහ මද්‍යසාර භාවිතය රටකට තව දුරටත් ආදායමක් නොවන බවද සදහන් කරයි.
 
-2022 වර්ෂය තුළ සුරාබදු වශයෙන් රුපියල් බිලියන 165 බදු ප්‍රමාණයක් අයකර ගනු ලැබූවත් මද්‍යසාර භාවිතය නිසා එම වසරේ සෞඛ්‍ය සහ ආර්ථික වශයෙන් ඇති වූ පාඩුව රුපියල් බිලියන 237 ක් බවට සංඛ්‍යා ලේඛණ පෙන්වා දෙන බවද සදහන් කරයි.
+Smoking and alcohol cause daily deaths in Sri Lanka. Health Ministry reports NCD-related deaths. Economic, health, social issues arise. Government proposes control measures ahead of presidential election.
 
-මේ නිසා මේවර ජනාධිපතිවරණයට ඉදිරිපත්ව සිටින අපේක්ෂකන්ට මද්‍යසාර, දුම්වැටි පාලනය සහ මත්ද්‍රව්‍ය පාලනය සම්බන්ධයෙන්  යෝජනා 12ක් යොමුකල බව එම ආයතනය පෙන්වා දෙයි.
+🟩
 
-...
+Due to smoking and alcohol, alcohol and the Drugs Medium (AdIC) states that alcohol is killed in a day.
+
+The Health Ministry states that the Ministry of Health states that the use of cigarettes and alcohol (NCD) is due to non-breeding diseases (NCD) of the 10-daily deaths in Sri Lanka.
+
+It is also revealed that the Sri Lankan people spend Rs.
+
+The use of Rs.
+
+Therefore, 12 proposals have been sent to alcohol, cigarettes and drug control to the presidential election.
+
+Due to alcohol and drug abuse has been faced as a country for economic, health and social problems.
+
+The government is also requested on the 21st of the Presidential Elections to be controlled by the government to control these issues.
+
+◼️
 
 [Data](articles/50c3d767.json)
+
+[Extended Data](ext_articles/50c3d767.ext.json)
 
 ---
 
@@ -2667,55 +2723,5 @@ When the suspects were produced before the Colombo Magistrate's Court today, Mag
 [Data](articles/ac7e8665.json)
 
 [Extended Data](ext_articles/ac7e8665.ext.json)
-
----
-
-### Per month from Sajith. 20,000 Payment
-
-*2024-08-26 18:28:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்திடமிருந்து-மாதம்-ரூ-20-000-கொடுப்பனவு/175-342807) · `ta`
-
-Sajith Premadasa proposes Rs. 20,000 monthly payment to eradicate poverty within 24 months using existing programs. Focuses on consumption, investment, storage, production, and export for food and non-food requirements. Targets poor families and women.
-
-🟩
-
-The United People's Power (SJB) presidential candidate Sajith Premadasa says that a new national program will be implemented by a monthly payment of Rs. 20,000 per month to eradicate poverty within 24 months.
-
-The Opposition Leader said the new national program would be implemented using the strength of the existing Janasiya, Samurdhi, Ashemu and Kamitriya.
-
-He added that the new poverty alleviation program will focus on consumption, investment, storage, production and export for food and non -food requirements.
-
-“Hundreds of thousands of people are in poverty in our country by the absurd policies of the current government and the leaders of the country.
-
-The National Poverty Eradication National Scheme will be implemented for the poor people who have no clear income and three times. ”
-
-Sajith Premadasa pointed out that the poverty alleviation program will focus on the benefits of women who run the family.
-
-...
-
-[Data](articles/98c480a3.json)
-
-[Extended Data](ext_articles/98c480a3.ext.json)
-
----
-
-### Dept. of Posts receives postal ballots for presidential poll
-
-*2024-08-26 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101525/dept-of-posts-receives-postal-ballots-for-presidential-poll) · `en`
-
-The Election Commission today (26) handed over to the Postal Department the reserved packets containing the registered postal ballot papers to be distributed to the postal voters of the 2024 Presidential Election.
-
-Accordingly, a total of 712,319 registered postal ballots have been handed over to the postal department by returning officers at 25 centres across the island.
-
-The postal ballots will be handed over to the certifying officers tomorrow (27) ahead of the postal voting, which is scheduled to take place on September 04, 05 and 06. Meanwhile, September 11 and 12 have been allocated as additional dates for postal voters who were unable to cast their vote on the initial dates.
-
-Meanwhile, the distribution of official polling cards for the 2024 presidential election is scheduled to commence on September 03.
-
-Additionally, September 08 has been designated as a special day for polling card distribution.
-
-...
-
-[Data](articles/104210ab.json)
-
-[Extended Data](ext_articles/104210ab.ext.json)
 
 ---

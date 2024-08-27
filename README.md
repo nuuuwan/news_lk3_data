@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 11:57:04**
+As of **2024-08-27 12:10:52**
 
 ## Newspaper Stats
 
-*Scraped **42,819** Articles*
+*Scraped **42,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,949
+adalk | 3,951
 dailymirrorlk | 4,733
 adaderanalk | 5,034
 tamilmirrorlk | 5,581
@@ -26,25 +26,47 @@ adaderanasinhalalk | 7,336
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,816 (100.0%) of 42,819 articles have been extended.
+42,819 (100.0%) of 42,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### කූඨ ලේඛනයක් ඉදිරිපත් කළැයි ඩයනාට අධිචෝදනා භාරදෙයි
+### ෆවුසිට අත්හිටවූ සිරදඬුවම් - ලක්ෂ 04ක දඩයක් ගෙවීමටත් නියෝග
+
+*2024-08-27 11:40:27* · [`adalk`](https://www.ada.lk/breaking_news/ෆවුසිට-අත්හිටවූ-සිරදඬුවම්---ලක්ෂ-04ක-දඩයක්-ගෙවීමටත්-නියෝග/11-411580) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ඒ.එච්.එම්.ෆවුසි මහතාට වසර 02ක සිරදඬුවමක් නියම කර එය වසර 10ට අත්හිටුවීමට කොළඹ මහාධිකරණය අද (27දා) නියම කළේය.
+
+එමෙන්ම රුපියල් ලක්ෂ 04ක දඩයක්ද විත්තිකරුට ගෙවීමට නියම කර තිබේ.
+
+2010 වසරේ ආපදා කළමනාකරණ අමාත්‍යවරයා ලෙස කටයුතු කරමින් සිටිය දී එම අමාත්‍යාංශයේ ආපදා කළමනාකරණ කටයුතු සඳහා නෙදර්ලන්තයෙන් හිමිවූ රුපියල් කෝටි 02කට ආසන්න සුඛෝපභෝගි වාහනයක් සිය පෞද්ගලික පරිහරණය සඳහා යොදවා ගැනීම ඇතුළු අධිචෝදනා 04ක් යටතේ නීතිපතිවරයා විසින් පවරා තිබූ නඩුව අද කැඳවූ අවස්ථාවේදී මෙම නියෝගය දෙනු ලැබිණි.
+
+◼️
+
+[Data](articles/4d37889a.json)
+
+---
+
+### Diana is handing over to Diana, who submitted a cult
 
 *2024-08-27 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200380) · `si`
 
-කූඨ ලේඛනයක් ඉදිරිපත් කර ශ්‍රී ලාංකික විදේශ ගමන් බලපත්‍රයක් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියට කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා පත්‍ර භාරදීම සිදුවුණි.
+State Minister Diana Gamage handed over to Danayana Gamage for passport issue. Case before Colombo High Court Judge Manjula Tilakaratne. Court orders fingerprint collection from defendant.
 
-කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා ඉදිරියේ මෙම චෝදනා භාරදීම සිදුව ඇත.
+🟩
 
-ඉන් අනතුරුව විත්තිකාර ඩයනා ගමගේ මහත්මියගේ ඇඟිලි සලකුණු ලබාගෙන වාර්තාවක් කැඳවන ලෙසත් අධිකරණය නියෝග කර තිබේ.
+Former State Government Minister Diana Gamage was handed over to former State Minister Danayana Gamage regarding the obtaining a Sri Lankan passport to obtain a bug.
+
+These allegations have taken place before Colombo High Court Judge Manjula Tilakaratne.
+
+Thereafter, the court has also ordered that the fingerprints of the defendant Dianey Gamage.
 
 ◼️
 
 [Data](articles/24a10cd6.json)
+
+[Extended Data](ext_articles/24a10cd6.ext.json)
 
 ---
 
@@ -65,6 +87,8 @@ However, Fowzie had pleaded guilty for the charges through his attorney, when th
 ...
 
 [Data](articles/b8534fe9.json)
+
+[Extended Data](ext_articles/b8534fe9.ext.json)
 
 ---
 
@@ -150,21 +174,33 @@ A. H. The judge was also ordered to obtain the fingerprints of Mr. M. Fowzie.
 
 ---
 
-### அனுரகுமார இலகுவாக வெற்றிபெறுவார் -இராஜதந்திர வட்டாரங்களிற்கு இடையிலான தகவல் பரிமாற்றத்தில் தெரிவிப்பு என தகவல்- மறுக்கின்றது இந்திய தூதரகம்
+### Anuragumara will be easily successful
 
 *2024-08-27 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/192097) · `ta`
 
-கொழும்பிலுள்ள தூதரங்களிற்கு இடையிலான தொடர்பாடல்கள்  தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அமோக வெற்றிபெறுவார் என தெரிவித்துள்ளதாக தகவல்கள் வெளியாகியுள்ள அதேவேளை இந்திய தூதரகம் அவ்வாறான தகவல்கள் ஆதாரமற்றவை என நிராகரித்துள்ளது.
+Here's a 200-character summary:
 
-பல வழிமுறைகளை பயன்படுத்தி மேற்கொள்ளப்பட்ட இரகசிய கருத்துக்கணிப்புகள் அனுரகுமாரதிசநாயக்க இலகுவான வெற்றியை பெறுவார் என தெரிவித்துள்ளமை இராஜதந்திர மட்ட தொடர்பாடல்கள் மூலம் தெரியவந்துள்ளதாக சமூக ஊடக தகவலொன்று தெரிவித்துள்ளது.
 
-தேர்தல் இடம்பெறுவதற்கு 30 நாட்களிற்கு முன்னராக மேற்கொள்ளப்பட்ட கருத்துக்கணிப்பின் மூலம் இது தெரியவந்துள்ளதாகவும் அனுரகுமாரவின் அதிகரித்து வரும் ஆதரவை வெளிப்படுத்தும் பல குறிகாட்டிகள் காணப்படுவதாகவும் சமூக ஊடக தகவல் தெரிவித்துள்ளது.
 
-தேசிய மக்கள் சக்தியின் தலைவரின் நிலைமை மாற்றமடைந்துள்ளது அவரே  முன்னணியில்காணப்படுகின்றார்.கருத்துக்கணிப்பு முடிவுகள் அவர் ஏனைய வேட்பாளரை விட முன்னணியில் காணப்படுவதை வெளிப்படுத்தியுள்ளன என இராஜதந்திர வட்டாரங்கள் மத்தியிலான தொடர்பாடல்கள் தெரிவித்துள்ளன என குறிப்பிட்ட சமூக ஊடக தகவல் தெரிவித்துள்ளது.
+Anuragumara likely to win Sri Lanka presidency. Polls indicate growing support. Indian embassy denies claims. Social media shows mixed results. Voter confidence in leadership boosts campaign. United People's Power faces challenges, UNP gains strength. Indian High Commission notes social media spread of election rumors.
+
+🟩
+
+Communications between the embassies in Colombo have reported that the National People's Power's presidential candidate will win, while the Indian embassy has rejected such information.
+
+According to social media reports, diplomatic communications have revealed that the secret polls used by several methods will be a lighter success.
+
+Social media reports that this has been revealed through a poll, which was held 30 days before the election, and that there are many indicators that express the growing support of Anuragumara.
+
+The situation of the leader of the national people's power has changed. He is seen in the Front.
+
+As the election date is approaching, he is seen as an important indicator of a considerable number of presence.. This development reflects the strong voter confidence in the leadership and policies of the Anuragumaratisanayake, contributing to the party's speed in the final stages of the campaign, the social media reports.
 
 ...
 
 [Data](articles/619bd27a.json)
+
+[Extended Data](ext_articles/619bd27a.ext.json)
 
 ---
 
@@ -2262,6 +2298,26 @@ However, it has been disappointing that the lack of people attending the meeting
 
 ---
 
+### දුම්වැටි සහ මද්‍යසාර නිසා  දිනකට පුද්ගලයන් 100ක් මරණයට
+
+*2024-08-26 19:55:27* · [`adalk`](https://www.ada.lk/breaking_news/දුම්වැටි-සහ-මද්‍යසාර-නිසා--දිනකට-පුද්ගලයන්-100ක්-මරණයට/11-411577) · `si`
+
+දුම්වැටි සහ මද්‍යසාර භාවිතය නිසා  දිනකට පුද්ගලයන් 100කට ආසන්න ප්‍රමාණයක්  මරණයට පත් වන බව මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය (ADIC) සදහන් කරයි.
+
+මෙරට තුල දෛනිකව සිදුවන මරණවලින් 10න් 8කටම බෝ නොවන රෝග (NCD) හේතුවන අතර එම රෝග ඇති වීමට බලපාන ප්‍රධාන සාධක 4න් 2ක්ම දුම්වැටි සහ මද්‍යසාර භාවිතය හේතු වී ඇති බව සෞඛ්‍ය අමාත්‍යංශය අංශ පෙන්වා  දෙන බවද එම ආයතන පෙන්වා දෙයි.
+
+දුම්වැටි සහ මද්‍යසාර භාවිතය සඳහා මෙරට පුද්ගලයින්  දිනකට රුපියල් කෝටි 121 ක් වියදම් කරණ බවට අනාවරණය වි තිබෙන බවත්  දුම්වැටි සහ මද්‍යසාර භාවිතය රටකට තව දුරටත් ආදායමක් නොවන බවද සදහන් කරයි.
+
+2022 වර්ෂය තුළ සුරාබදු වශයෙන් රුපියල් බිලියන 165 බදු ප්‍රමාණයක් අයකර ගනු ලැබූවත් මද්‍යසාර භාවිතය නිසා එම වසරේ සෞඛ්‍ය සහ ආර්ථික වශයෙන් ඇති වූ පාඩුව රුපියල් බිලියන 237 ක් බවට සංඛ්‍යා ලේඛණ පෙන්වා දෙන බවද සදහන් කරයි.
+
+මේ නිසා මේවර ජනාධිපතිවරණයට ඉදිරිපත්ව සිටින අපේක්ෂකන්ට මද්‍යසාර, දුම්වැටි පාලනය සහ මත්ද්‍රව්‍ය පාලනය සම්බන්ධයෙන්  යෝජනා 12ක් යොමුකල බව එම ආයතනය පෙන්වා දෙයි.
+
+...
+
+[Data](articles/50c3d767.json)
+
+---
+
 ### President warn about queue eating
 
 *2024-08-26 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200355) · `si`
@@ -2661,47 +2717,5 @@ Additionally, September 08 has been designated as a special day for polling card
 [Data](articles/104210ab.json)
 
 [Extended Data](ext_articles/104210ab.ext.json)
-
----
-
-### Cardinal Show because of criticism of judges
-
-*2024-08-26 18:20:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிபதிகளை-விமர்சித்ததால்-கர்தினால்-காட்டம்/175-342806) · `ta`
-
-Archbishop Malcolm Cardinal Ranjith criticizes government reports attacking judges, emphasizing judiciary independence essential for constitution.
-
-🟩
-
-Ranjith Ranjith has expressed concern over the recent reports made by the government to criticize the judges.
-
-The Archbishop of Colombo, who issued a statement, said that the complete freedom of the judiciary was the source of the constitution and that it was to be guaranteed by the state.
-
-Therefore, it is the duty of all state and other institutions to respect the independence of the judiciary and ensure that it is without any intervention or unnecessary influence.
-
-Malcolm Cardinal Ranjith stressed that the Church is asking all those involved not to attack the last fortress of the people's safety.
-
-Significantly, his comments have been made in response to the recent reports of the government, criticizing the judges who gave them some adverse rulings.
-
-◼️
-
-[Data](articles/8574c050.json)
-
-[Extended Data](ext_articles/8574c050.ext.json)
-
----
-
-### 2024 Presidential Election Divides Muslim  Political Parties  with Leaders Backing Sajith and Some MPs Supporting Ranil.
-
-*2024-08-26 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84580) · `en`
-
-Nominations have closed for the long awaited 2024 presidential election. 39 candidates are in the fray.It is widely acknowledged  by the press and public that the chief presidential  contenders  are  incumbent president Ranil Wickremesinghe,leader of the opposition  Sajith Premadasa and JVP/NPP leader Anura Kumara  Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith  Jayaweera.
-
-However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier  numerical minorities  assumes crucial importance.
-
-...
-
-[Data](articles/bd766ef7.json)
-
-[Extended Data](ext_articles/bd766ef7.ext.json)
 
 ---

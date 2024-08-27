@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 17:06:37**
+As of **2024-08-27 17:22:03**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 7,346
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,872 (100.0%) of 42,877 articles have been extended.
+42,877 (100.0%) of 42,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### தேர்தல் தொடர்பாக நாளை பேச்சு
+### Talk tomorrow regarding the election
 
 *2024-08-27 16:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பாக-நாளை-பேச்சு/175-342877) · `ta`
 
-உள்ளூராட்சி மன்றத் தேர்தலுக்கான வேட்புமனுக்களை இரத்துச் செய்யும் அதிகாரம் தமக்கு இல்லை என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது .
+Elections Commission denies cancelling nominations for local government polls. Will discuss election date on Wednesday.
 
-மேலும் , உள்ளூராட்சி மன்றத் தேர்தலை நடத்துவது தொடர்பில் ஆணைக்குழு புதன்கிழமை (28) அன்று கலந்துரையாடவுள்ளதாக அதன் தவிசாளர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்தார்.
+🟩
+
+The Elections Commission said they do not have the authority to cancel the nominations for the local government elections.
+
+Also, the Commission will discuss the holding of the local government elections on Wednesday (28).. Ratnayake said.
 
 ◼️
 
 [Data](articles/5c491fa2.json)
+
+[Extended Data](ext_articles/5c491fa2.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ Dissanayake says his administration can be the change people want: a sound econo
 ...
 
 [Data](articles/7efcc2f2.json)
+
+[Extended Data](ext_articles/7efcc2f2.ext.json)
 
 ---
 
@@ -88,47 +96,67 @@ Speaking at a rally in Trincomalee, Premadasa outlined his vision for governance
 
 ---
 
-### ජනපතිගේ ප්‍රතිපත්ති ප්‍රකාශය බ්‍රහස්පතින්දා
+### President's policy statement Thursday
 
 *2024-08-27 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200390) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය බ්‍රහස්පතින්දා (29) එළිදක්වන බව වාර්තා වෙයි.
+Here's a summary of the text in 200 characters:
 
-"පුළුවන් ශ්‍රී ලංකා" යන තේමාව මුල්කර ගනිමින් එම ප්‍රතිපත්ති ප්‍රකාශය සකස් කොට තිබේ.
 
-රට බංකොලොත් භාවයෙන් මුදාගෙන ආර්ථික සමෘද්ධිය කරා ගෙන යෑමේ මූලික පියවර තැබීම සහ ක්‍රම ක්‍රමයෙන් රට දියුණු රාජ්‍යයක් කරා රැගෙන යෑමේ සැලසුම් "පුළුවන් ශ්‍රී ලංකා" ප්‍රතිපත්ති ප්‍රකාශයට ඇතුළත් කර ඇති බව සඳහන් ය.
 
-ශ්‍රී ලංකාවේ සියලු ජන කොටස්වලට යහපත් රටක් ගොඩනැගීම "පුළුවන් ශ්‍රී ලංකා" ප්‍රතිපත්ති ප්‍රකාශයේ මූලික අරමුණක් බව රජයේ ජ්‍යෙෂ්ඨ ප්‍රකාශකයෙක් පැවසීය.
+President Ranil Wickremesinghe's policy statement launches Thursday. Focuses on Sri Lanka's future, addressing bankruptcy through initiatives. Aims to unite communities. Scheduled alongside UPFA statement release.
 
-ඉතිහාසයේ දැවැන්තම ආර්ථික අර්බුදයට මුහුණ දුන් ශ්‍රී ලංකාව ක්‍රම ක්‍රමයෙන් යථා තත්ත්වයට ගැනීමෙන් පසු තවත් ඉදිරිගාමී පියවරක් තැබීම වෙනුවෙන් ජනාධිපතිවරයාගේ ප්‍රතිපත්ති ප්‍රකාශය අවධානය යොමු කර තිබෙන බවද ඔහු  කීය.
+🟩
 
-මේ අතර සමගි ජන සන්ධානයේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය ද අනිද්දා (29) නිකුත් කිරීමට නියමිතව තිබේ.
+President Ranil Wickremesinghe's statement of President Ranil Wickremesinghe is launched to launch Thursday (29).
 
-සමගි ජනබලවේගයේ ජ්‍යෙෂ්ඨ උප සභාපති සුජීව සේනසිංහ මහතා පැවසුවේ, අදාළ ප්‍රතිපත්ති ප්‍රකාශයේ සැලසුම් සියල්ල මේ වනවිට අවසන් කර ඇති බවය.
+The policy statement has been prepared based on the theme of Sri Lanka.
+
+The key to the bankruptcy of the country is setting up the initiative and maintaining the "Sri Lanka 'policy statement.
+
+A senior spokesman for a major purpose of building a better country to all communities in Sri Lanka, a senior government spokesman said.
+
+The President's policy statement is focusing on the other ahead of the Sri Lanka Methods of History.
+
+Meanwhile, the procedure statement of the UPFA is scheduled to be released on the other (29).
+
+Siglier Vice President of the Agreement and Hon.
 
 ◼️
 
 [Data](articles/07870611.json)
 
+[Extended Data](ext_articles/07870611.ext.json)
+
 ---
 
-### මහනුවර නගරයෙන් ක්ෂය රෝගීන් 50ක් හමුවෙයි
+### 50 TB patients found in Kandy
 
 *2024-08-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200389) · `si`
 
-මෙම වසරේ ජනවාරි සිට මේ දක්වා මහනුවර නගරයෙන් ක්ෂය රෝගීන් 50ක් හඳුනාගත් බව මහනුවර ප්‍රධාන නාගරික වෛද්‍ය නිලධාරී පසන් ජයසිංහ මහතා පවසයි.
+Here's a summary of the text in 200 characters:
 
-මහනුවර නාගරික සීමාව තුළ ප්‍රධාන බෝ වන රෝග තර්ජනය ඩෙංගු නොව ක්ෂය රෝගය බවද හෙතෙම කියා සිටියේය.
 
-ඩෙංගු රෝගීන් දින 06ක් ඇතුළත හඳුනාගැනීම සහ ප්‍රතිකාර සඳහා යොමු කිරීම සිදු කෙරුණ ද ක්ෂය රෝගීන් මාස 06ක කාලයක් තුළ හඳුනාගත නොහැකි වන බවද මහනුවර ප්‍රධාන නාගරික වෛද්‍ය නිලධාරී පසන් ජයසිංහ මහතා පැවසීය.
 
-නිතර පවතින කැස්ස, සෙම, සිරුරේ අප්‍රාණික භාවය, කෑම අරුචිය ආදී රෝග ලක්ෂණ පවතින පුද්ගලයන් ඒ සඳහා කෙටි කාලීන ප්‍රතිකාර සඳහා යොමුවීම තුළින් ඍජුව ක්ෂය රෝගයට ප්‍රතිකාර නොලැබෙන බවත් රෝගය තවදුරටත් ව්‍යාප්තවීමට ඉඩ ඇති බවත් වෛද්‍ය ජයසිංහ මහතා තවදුරටත් කියා සිටියේය.
+Kandy: 50 TB cases identified Jan-present. Not dengue. Dengue focus shifted after 6 months. TB often misdiagnosed due to cough. Public awareness needed.
 
-දැනට මහනුවර නගරය ආශ්‍රිතව ක්ෂය රෝගී තත්ත්වය බහුලව පවතින බැවින් හැකි තරම් ආරක්ෂිතව සිටීමට වගබලා ගැනීමට ජනතාව දැනුවත්විය යුතු බවද මහනුවර ප්‍රධාන නාගරික වෛද්‍ය නිලධාරී පසන් ජයසිංහ මහතා පැවසීය.
+🟩
+
+The Kandy Urban Medicine Officer Pasada Jayasinghe says that 50 TB patients were identified from January to this year.
+
+He said that the threat of major infectious disease threatening is not the dengue.
+
+The Kandy Chief Urban Medicine Dr. Jayasinghe said that the identification and treatment of dengue patients was identified for six months, he said.
+
+Dr. Jayasinghe further stated that the disease is not treated directly to tuberculosis, which is often disregarded by the prevalence of the frequent cough, the disease.
+
+The masses should be aware of the general condition of the Trincomalee town, as the people should be aware of as possible.
 
 ◼️
 
 [Data](articles/7341b1a0.json)
+
+[Extended Data](ext_articles/7341b1a0.ext.json)
 
 ---
 
@@ -158,19 +186,27 @@ They are said to have called for a girlfriend to marry because they were beaten.
 
 ---
 
-### ජනපතිගේ IMF අභියෝගයට සජබයෙන් ප්‍රතිචාර
+### President's IMF Challenge
 
 *2024-08-27 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200388) · `si`
 
-ඕනෑම අවස්ථාවක ජාත්‍යන්තර මූල්‍ය අරමුදල සමග ඕනෑම ආකාරයේ සාකච්ඡාවකට සමගි ජන බලවේගය සූදානම් බව එම පක්ෂයේ මහ ලේකම් රංජිත් මද්දුම බණ්ඩාර මහතා පවසයි.
+Sri Lanka's President Ranil Wickremesinghe discusses IMF proposals with UNP leader Ranjith Madduma Bandara, emphasizing readiness for video talks.
 
-එහි සඳහන් වන්නේ ජාත්‍යන්තර මූල්‍ය අරමුදලේ, යෝජනා සහ කොන්දෙසි ලෙස රටේ ජනතාව පීඩනයට පත් කරනු ලබන රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාගේ ක්‍රියා පිළිවෙත ජාත්‍යන්තර මූල්‍ය අරමුදලේ සැබෑ අදහස නොවන බවය.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමග එකඟ වී ඇති ගිවිසුම් සහ එයට අදාළ අනෙකුත් කරුණු පිළිබඳව ජාත්‍යන්තර මූල්‍ය අරමුදල සමග විඩියෝ සාකච්ඡාවකට තමන් සූදානම් බව එක්සත් ජාතික පක්ෂ සම්මේලනයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසූ බවත් එම සාකච්ඡාවට සමගි ජන බලවේගය ඇතුළු පාර්ශ්ව වලට සම්බන්ධ වී අදහස් දැක්විය හැකි බව ජනාධිපතිවරයා එහිදී ප්‍රකාශ කර ඇත.
+The General Secretary General of the UNP Ranjith Madduma Bandara says that the reconciliation force is prepared at any type of discussion with the International Monetary Fund at any time.
+
+It states that Ranil Wickremesinghe, which is stressing the people of the country as the International Monetary Fund, proposals and principals, is not the real idea of ​​the International Monetary Fund.
+
+President Ranil Wickremesinghe said that he was ready to discuss a video discussion with the International Monetary Fund and the International Monetary Fund about the International Monetary Fund.Have been stated.
+
+The International Monetary Fund's representatives have been discussed with the International Monetary Fund to be discussed with the International Monetary Fund before the International Monetary Fund has come to Sri Lanka and discussed the party leader Sajith and the party's economic policy committee.Mr. Madduma Bandara has said.
 
 ...
 
 [Data](articles/b5b412ab.json)
+
+[Extended Data](ext_articles/b5b412ab.ext.json)
 
 ---
 

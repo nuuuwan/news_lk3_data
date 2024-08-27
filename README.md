@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 22:37:05**
+As of **2024-08-27 22:55:16**
 
 ## Newspaper Stats
 
-*Scraped **42,924** Articles*
+*Scraped **42,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 2,779
 adalk | 3,971
 dailymirrorlk | 4,733
 adaderanalk | 5,050
-tamilmirrorlk | 5,595
+tamilmirrorlk | 5,596
 virakesarilk | 6,821
-adaderanasinhalalk | 7,355
+adaderanasinhalalk | 7,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,921 (100.0%) of 42,924 articles have been extended.
+42,927 (100.0%) of 42,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### Drug Party by Facebook - 43 arrested
+
+*2024-08-27 22:21:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேஸ்புக்-மூலம்-போதை-பார்ட்டி-43-பேர்-கைது/175-342885) · `ta`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Facebook Drug Party Raid: 43 arrests made in Negombo hotel under 100-day excise program. Ages 19-35, from Tangalle to Horana. Includes students, traders, professionals.
+
+🟩
+
+43 people living in different areas have been arrested in a hotel on the Negombo coast.
+
+The circuit has been raided under the 100 -day program implemented by the Department of Excise.
+
+The arrested persons are between the ages of 19 and 35, including private university students, traders and various professionals.
+
+They have been identified as the residents of Tangalle, Marawila, Kirindiwala, Hikurakoda, Poogoda, Negombo, JL, Digana and Horana areas.. Remble
+
+◼️
+
+[Data](articles/1c6c0934.json)
+
+[Extended Data](ext_articles/1c6c0934.ext.json)
+
+---
+
+### Meron Wijesinghe qualifies to the semi-finals
+
+*2024-08-27 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200401) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan athlete Meron Wijesinghe advances to semi-finals in World Championship Junior Athletics. He secured 10.5% victory in the second round of preliminary events.
+
+🟩
+
+Meron Wijesinghe, who represented the World Championship Championship in the capital of Peru, was eligible for the semi-finals.
+
+He won the second round of the preliminary rock in the participation of last night by 10.5 percent.
+
+13 athletes representing Sri Lanka for the World Championships in the Junior Athletics Championships this year.
+
+◼️
+
+[Data](articles/3a723e29.json)
+
+[Extended Data](ext_articles/3a723e29.ext.json)
+
+---
 
 ### Tamil party calls to boycott presidential poll in North and East - report
 
@@ -47,6 +101,38 @@ Kajendran said they have called for a boycott of the election as no major candid
 ...
 
 [Data](articles/5dc9041a.json)
+
+[Extended Data](ext_articles/5dc9041a.ext.json)
+
+---
+
+### If you try to cut the vil bridge, we all - President
+
+*2024-08-27 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200400) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Sri Lanka President Ranil Wickremesinghe discusses economic recovery, mentions cutting "vil bridge," references political statements, and emphasizes maintaining stability while planning for the future.
+
+🟩
+
+Does the vines lead to the bridge?Or jumping into the river?President Ranil Wickremesinghe says the decisive verdict is owned by the people.
+
+The Mawanella bus stand was held at the bus stand by the Mawanella bus stand this afternoon.
+
+"Everyone suffered all that day. How many hours were in queues?How long was it without gas?Was three-wheeles found fuel together?In that case, I took over the country.. Lose it. "
+
+"The country was able to recover because of the support of all these people. Today we move to economic stability. I haven't come totally there. Should go further. We need to think about the future. "
+
+"So if we go far, we need to go on this gover. We have to go on the road that connected the vil bridge.  එතනින් දැන් අයින් වෙන්න බෑ. They say to cut the vil bridge now. If we cut the vines bridge, we're going to the river.. That's all. "
+
+...
+
+[Data](articles/41c54154.json)
+
+[Extended Data](ext_articles/41c54154.ext.json)
 
 ---
 
@@ -84,19 +170,31 @@ Accordingly, the Kandy High Court judge has been sentenced to 11 million rupees 
 
 ---
 
-### கருத்துக்கணிப்பின் பிரகாரம் ரணிலுக்கும் சஜித்துக்குமே போட்டி; ஜே.வி.பிக்கு மூன்றாம் இடம் என்கிறார் ராஜித்த
+### According to the poll, Ranil and Sajith competition;The JVP says third place
 
 *2024-08-27 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/192169) · `ta`
 
-இடம்பெற இருக்கும் தேர்தலில் இதுவரை உள்ள கருத்துக்கணிப்பில் ரணிலுக்கும் சஜித்துக்குமே பாேட்டி. மக்கள் விடுதலை முன்னணி மூன்றாம் இடத்தில் உள்ளது என பாராளுமன்ற உறுப்பினர் ராஜித்த சேனாரத்ன தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
 
-இடமபெற இருக்கும் ஜனாதிபதி தேர்தலில் இதுவரைக்கும் மேற்கொள்ளப்பட்ட கருத்தக்கணிப்புகளில் ரணில் விக்ரமசிங்கவுக்கும் சஜித் பிரேமதாசவுக்குமே போட்டி இருக்கிறது. மக்கள் விடுதலை முன்னணி என்தான் ஊடக களியாட்டங்களை நடத்தி, மக்களை ஒன்று திரட்டினாலும் மூன்றாவது இடத்திலே இருக்கிறது. மக்கள் விடுதலை முன்னணியின் இவ்வாறான களியாட்ட நிகழ்வுகள் ராேஹன விஜேவீரவின் காலத்திலும் இருந்தது.
+
+Janatha Vimukthi Peramuna (JVP) ranks third in presidential polls between Ranil Wickremesinghe and Sajith Premadasa. JVP's past violence deters voters despite grand rallies. Their vote share remains low at 3%.
+
+🟩
+
+Ranil and Sajithu in the upcoming polls so far. Parliamentarian Rajitha Senaratne said that the Janatha Vimukthi Peramuna (JVP) is third.
+
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (27).
+
+Ranil Wickremesinghe and Sajith Premadasa have a competition in the presidential election so far.. The Janatha Vimukthi Peramuna (JVP) is in the third place, even though the media is gathering and gathering people. Such extravagant events of the Janatha Vimukthi Peramuna (JVP) were during the time of Rahan Wijeweera.
+
+The last time they fill the Galle Prophet, they gathered people to fill the Galle Fort. But they got 3 per cent of the election. So people will not vote for them because people come to their meetings.
 
 ...
 
 [Data](articles/2b37b030.json)
+
+[Extended Data](ext_articles/2b37b030.ext.json)
 
 ---
 
@@ -897,6 +995,8 @@ The government denies responsibility for grave abuses during Sri Lanka’s 1983-
 ...
 
 [Data](articles/4d367816.json)
+
+[Extended Data](ext_articles/4d367816.ext.json)
 
 ---
 
@@ -2401,85 +2501,5 @@ Education Minister Jason Clare acknowledged that higher education was hard-hit d
 [Data](articles/46aac25b.json)
 
 [Extended Data](ext_articles/46aac25b.ext.json)
-
----
-
-### IMF's election manifesto tomorrow
-
-*2024-08-27 11:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-இன்-தேர்தல்-விஞ்ஞாபனம்-நாளை/175-342855) · `ta`
-
-United People's Power releases presidential election manifesto tomorrow. Policy plans complete. Sajith Premadasa promises UNP-style sharing policy.
-
-🟩
-
-The United People's Power Presidential Election Manifesto is to be released tomorrow (29).
-
-Sujeewa Senasinghe, Deputy Chairman of the United People's Power, said that all plans of the policy declaration have been completed.
-
-Meanwhile, United People's Power Presidential candidate Sajith Premadasa has said that the policy of sharing in the same country in the UNP government will be implemented in the same country.. Remble
-
-◼️
-
-[Data](articles/414cabd6.json)
-
-[Extended Data](ext_articles/414cabd6.ext.json)
-
----
-
-### United People's Power Election Manifesto Tomorrow
-
-*2024-08-27 11:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தியின்-தேர்தல்-விஞ்ஞாபனம்-நாளை/175-342855) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"United People's Power releases election manifesto tomorrow. Policy declaration complete. Sajith Premadasa promises to implement shared country policy from previous UNP government."
-
-🟩
-
-The United People's Power Presidential Election Manifesto is to be released tomorrow (29).
-
-Sujeewa Senasinghe, Deputy Chairman of the United People's Power, said that all plans of the policy declaration have been completed.
-
-Meanwhile, United People's Power Presidential candidate Sajith Premadasa has said that the policy of sharing in the same country in the UNP government will be implemented in the same country.. Remble
-
-◼️
-
-[Data](articles/59c16141.json)
-
-[Extended Data](ext_articles/59c16141.ext.json)
-
----
-
-### Fauzi suspended and fine
-
-*2024-08-27 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200379) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka: Former State Minister Fauzi suspended 2 years, fined for corruption. Case involved misuse of funds during tenure as Disaster Management and Health Minister.
-
-🟩
-
-Former State Minister. H. Colombo High Court Judge Navaratne Marasinghe today (27) ordered the suspension of 2 years.
-
-A. H. Mr. M. Fowzie was convicted and convicted the charge by the judiciary.
-
-The judge has also ordered the accused to pay a fine of Rs.
-
-In 2010, the. H. Mr Fowzie was serving as the Minister of Disaster Management and the Secretary to the Ministry of Health for its personal use and the Ministry of Finance for the authority of the Ministry for this purposeWhen the case was taken by the Attorney General today under four indictments in the money, the case was taken up today. H. Mr. M. Fowzie was welcomed by the lawyer.
-
-The judge could not take the same thing as a senior politician, a senior politician who had a 62-year-old experience, would not be taken to accept the guilty and sticking to the early 86-year-old punishment.
-
-A. H. The judge was also ordered to obtain the fingerprints of Mr. M. Fowzie.
-
-◼️
-
-[Data](articles/33b10ed6.json)
-
-[Extended Data](ext_articles/33b10ed6.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 12:21:58**
+As of **2024-08-27 12:36:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,336
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,821 (100.0%) of 42,823 articles have been extended.
+42,823 (100.0%) of 42,823 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -126,19 +126,25 @@ Education Minister Jason Clare acknowledged that higher education was hard-hit d
 
 ---
 
-### ஐ.ம.ச இன் தேர்தல் விஞ்ஞாபனம் நாளை
+### IMF's election manifesto tomorrow
 
 *2024-08-27 11:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-இன்-தேர்தல்-விஞ்ஞாபனம்-நாளை/175-342855) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி தேர்தல் விஞ்ஞாபனம் நாளை (29) வெளியிடப்பட உள்ளது.
+United People's Power releases presidential election manifesto tomorrow. Policy plans complete. Sajith Premadasa promises UNP-style sharing policy.
 
-ஐக்கிய மக்கள் சக்தியின் பிரதித் தலைவர் சுஜீவ சேனசிங்க, இது தொடர்பான கொள்கைப் பிரகடனத்தின் அனைத்துத் திட்டங்களும் தற்போது பூர்த்தி செய்யப்பட்டுள்ளதாக தெரிவித்தார்.
+🟩
 
-இதேவேளை, ஐக்கிய மக்கள் சக்தியின் அரசாங்கத்தில் ஒரே நாட்டில் அதிகபட்ச அதிகாரப் பகிர்வு என்ற கொள்கை அமுல்படுத்தப்படும் என ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச தெரிவித்துள்ளார். R
+The United People's Power Presidential Election Manifesto is to be released tomorrow (29).
+
+Sujeewa Senasinghe, Deputy Chairman of the United People's Power, said that all plans of the policy declaration have been completed.
+
+Meanwhile, United People's Power Presidential candidate Sajith Premadasa has said that the policy of sharing in the same country in the UNP government will be implemented in the same country.. Remble
 
 ◼️
 
 [Data](articles/414cabd6.json)
+
+[Extended Data](ext_articles/414cabd6.ext.json)
 
 ---
 
@@ -268,19 +274,31 @@ The Supreme Court judge bench made this statement during the hearing of a fundam
 
 ---
 
-### ரணிலை ஜனாதிபதியாக்க ஒன்றிணைவோம்: பைசால்
+### Let us unite to make Ranil President: Baisal
 
 *2024-08-27 10:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஜனாதிபதியாக்க-ஒன்றிணைவோம்-பைசால்/175-342853) · `ta`
 
-நாட்டை அபிவிருத்தி செய்து இனங்களுக்கிடையில் நல்லிணக்கத்தை ஏற்படுத்த ரணில் விக்ரமசிங்கவினால் மாத்திரமே முடியும். அதற்கான வேலைத்திட்டங்களும் அவரிடம் இருக்கின்றன. வீழ்ச்சியடைந்திருந்த நாட்டை குறுகிய காலத்தில் ஸ்திர நிலைக்கு கொண்டுவந்த ஜனாதிபதி ரணில் விக்ரமசிங்கவை மீண்டும் ஜனாதிபதியாக தெரிவுசெய்துகொள்ள மக்கள் முன்வர வேண்டும் என  முஸ்லிம் இடது முன்னணியின் பொதுச் செயலாளர்  எம். ஆர். எம். பைசால் தெரிவித்துள்ளார்.
+Here's a summary of the text in 200 characters:
 
-ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்துவதற்காக, நீண்டகாலமாக முஸ்லிம் இடதுசாரி முன்னணி பலமாக செயல்பட்டு வருகிறது.
 
-கடந்த காலத்தில் நாட்டில்  ஏற்பட்ட பொருளாதார வீழ்ச்சியை கருத்திற்கொண்டு  இடதுசாரி கொள்கை உடைய மற்றும் ஒட்டுமொத்த  அனைத்து இன மக்களும் ரணில் விக்ரமசிங்க ஜனாதிபதியாக தெரிவாக வேண்டும் என்றே விரும்புகின்றனர். அதற்காக நாங்கள் அர்ப்பணிப்புடன் செயற்பட்டு வருகிறோம்.
+
+"Unite behind Ranil Wickremesinghe for president. He promotes harmony among ethnic groups and economic development. Muslim Left Front supports him. His leadership stabilized the country during crisis. Continuing his policies ensures economic growth. History shows Muslims thrive under his presidency. Encourage national support for him on election day."
+
+🟩
+
+Ranil Wickremesinghe can only develop the country and create harmony between ethnicities. He also has the programs for it. The General Secretary of the Muslim Left Front, M, said that the people should come forward to elect President Ranil Wickremesinghe as president, who was in a state of disrepair.. R. M.. Said Faisal.
+
+The Muslim Left Front has long been working to ensure the victory of President Ranil Wickremesinghe in the presidential election.
+
+Ranil Wickremesinghe wants to be the President of the Left -wing policy and all the people of the country, considering the economic downturn in the country in the past.. We are dedicated to that.
+
+Ranil Wickremesinghe bravely offered to take the country to take charge of the country when the country collapsed. Similarly, he has shown that he is able to stabilize the country in a short time.
 
 ...
 
 [Data](articles/280e6800.json)
+
+[Extended Data](ext_articles/280e6800.ext.json)
 
 ---
 

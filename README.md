@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 13:37:06**
+As of **2024-08-27 13:56:49**
 
 ## Newspaper Stats
 
-*Scraped **42,834** Articles*
+*Scraped **42,835** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 359
 newsfirstlk | 363
-bbccomsinhala | 396
+bbccomsinhala | 397
 colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,586
@@ -26,25 +26,35 @@ adaderanasinhalalk | 7,340
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,832 (100.0%) of 42,834 articles have been extended.
+42,834 (100.0%) of 42,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### සර්වජන අපේක්ෂක දිලිත්ගෙන් සෞඛ්‍ය කේෂ්ත්‍රයට සුබ පණිවුඩයක්
+### A greetings for the health of the unmangerage candidate
 
 *2024-08-27 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200384) · `si`
 
-සෞඛ්‍ය ක්ෂේත්‍රයේ පැන නැගී ඇති ගැටලු සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය අද (27) සර්වජන ජනාධිපති අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා මුණ ගැසුණි.
+Here's a summary of the text in 200 characters:
 
-සාකච්ඡාවෙන් පසු රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ ලේකම් වෛද්‍ය ප්‍රභාත් සුගතපාල මහතා පැවසුවේ, සෙසු ජනාධිපති අපේක්ෂකයින්ට සාපේක්ෂව දිලිත් ජයවීර මහතා සෞඛ්‍ය ක්ෂේත්‍රයේ ගැටලු ගැන මනා අවබෝධයෙන් පසුවන බවය.
 
-මෙහිදී අදහස් දැක්වු රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ ලේකම්, වෛද්‍ය ප්‍රභාත් සුගතපාල මහතා,
+
+Sri Lanka's health sector faces challenges. Doctors' salaries are low, leading to brain drain. Presidential candidate Dilith Jayaweera proposes investing in healthcare professionals.
+
+🟩
+
+The government's medical officials asserts the 'GDP to educate the problems arising in the health sector, Dilith Jayaweera today (27).
+
+After the discussion, the Secretary of the Government Medical Officers Association Dr. Prabatha Sugathapala said that Mr. Dilith Jayaweera is well aware of the health sector regarding the fellow presidential candidates.
+
+Secretary of the Government Medical Officers Association, Dr. Prabatha Sugathapala,
 
 ...
 
 [Data](articles/80a5ce8c.json)
+
+[Extended Data](ext_articles/80a5ce8c.ext.json)
 
 ---
 
@@ -68,19 +78,25 @@ In addition, the person who accompanies the disabled person should not be a pers
 
 ---
 
-### මහ බැංකු අධිපතිගෙන් අනතුරු ඇඟවීමක්
+### A warning from the central bank governor
 
 *2024-08-27 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200383) · `si`
 
-දැනට ක්‍රියාත්මක ආර්ථික වැඩපිළිවෙළෙහි ප්‍රතිඵල ආපසු හැරවීමක් සිදුවුවහොත් පසුගිය වසර දෙකේදී අප අත්විඳි අන්දමේ ආර්ථික සහ සමාජීය අර්බුදයක් නැවත ඇතිවිය හැකි බව ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+Sri Lanka Central Bank Governor warns economic crisis may return due to lack of financial space to address debt issues.
 
-ශ්‍රී ලංකා වෘත්තීය සංගම් සංවිධානයේ 37 වන වාර්ෂික සමුළුවට එක්වෙමින් ඔහු මේ අදහස් පළ කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදස් දැක්වූ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා,
+Central Bank Governor Dr. Nandalal Weerasinghe says that within the last two years, an economic and social crisis we have experienced in the last two years will be restored in the last two years.
+
+He was speaking at the 37th Annual Summit of the Sri Lanka Institute of Trade Union Organization.
+
+Central Bank Governance Mr. Dr. Nandalal Weerasinghe
 
 ...
 
 [Data](articles/1ae9c93a.json)
+
+[Extended Data](ext_articles/1ae9c93a.ext.json)
 
 ---
 
@@ -1482,6 +1498,28 @@ The current network is made up of, Gulshan Branch, Motijheel Islamic Banking Bra
 
 ---
 
+### දරු උපත් අඩුවීමෙන් ශ්‍රී ලංකාවේ ආර්ථිකයට වෙන්න යන දේ ගැන ඔබ දන්නවා ද?
+
+*2024-08-27 06:19:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c935wgg0vg4o) · `si`
+
+දරු උපත් අඩුවීමෙන් ශ්‍රී ලංකාවේ ආර්ථිකයට වෙන්න යන දේ ගැන ඔබ දන්නවා ද?
+
+ආසන්නතම වසර පහක කාලය තුළ ක්‍රම ක්‍රමයෙන් ශ්‍රී ලංකාවේ දරු උපත් සංඛ්‍යාව පහළ බැස ඇති ආකාරය පැහැදිලිව නිරීක්ෂණය කළ හැකි ය.
+
+උපත් අනුපාතිකය අඩුවීම යනු රටේ ශ්‍රම බලකායට සෘජුව බලපෑමක් ඇති කරන්නකි.
+
+වර්තමාන ශ්‍රම බලකාය ක්‍රම ක්‍රමයෙන් වියපත් වීමත් සමග අලුතෙන් ශ්‍රම බලකායට එක්වන සංඛ්‍යාව පහළ යාම ශ්‍රී ලංකාවේ ආර්ථිකයට බලපෑමක් වනු ඇතැයි මේ වන විටත් අනාවැකි පළවී තිබේ.
+
+ජන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුවේ 2015 - 2018 ශ්‍රමබල සමීක්ෂණ වාර්ෂික වාර්තාවේ දැක්වෙන පරිදි, ශ්‍රම බලකාය යනු වයස අවුරුදු 15 හෝ ඊට වැඩි ආර්ථික වශයෙන් ක්‍රියාශීලී සියලු ම පුද්ගලයන් ය.
+
+ඊට රැකියා කරන පිරිස පමණක් නොව, දැනට රැකියාවක් නොකරන නමුත් රැකියා කළ හැකි සහ රැකියා අපේක්ෂාවෙන් සිටින පිරිස ද ඇතුළත් බව ජන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුවේ දත්තවලින් නිරීක්ෂණය වේ.
+
+...
+
+[Data](articles/7de5ec6c.json)
+
+---
+
 ### Weather today
 
 *2024-08-27 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200361) · `si`
@@ -2571,39 +2609,5 @@ However, it has been disappointing that the lack of people attending the meeting
 [Data](articles/c89ccf3d.json)
 
 [Extended Data](ext_articles/c89ccf3d.ext.json)
-
----
-
-### 100 people die a day due to smoking and alcohol
-
-*2024-08-26 19:55:27* · [`adalk`](https://www.ada.lk/breaking_news/දුම්වැටි-සහ-මද්‍යසාර-නිසා--දිනකට-පුද්ගලයන්-100ක්-මරණයට/11-411577) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Smoking and alcohol cause daily deaths in Sri Lanka. Health Ministry reports NCD-related deaths. Economic, health, social issues arise. Government proposes control measures ahead of presidential election.
-
-🟩
-
-Due to smoking and alcohol, alcohol and the Drugs Medium (AdIC) states that alcohol is killed in a day.
-
-The Health Ministry states that the Ministry of Health states that the use of cigarettes and alcohol (NCD) is due to non-breeding diseases (NCD) of the 10-daily deaths in Sri Lanka.
-
-It is also revealed that the Sri Lankan people spend Rs.
-
-The use of Rs.
-
-Therefore, 12 proposals have been sent to alcohol, cigarettes and drug control to the presidential election.
-
-Due to alcohol and drug abuse has been faced as a country for economic, health and social problems.
-
-The government is also requested on the 21st of the Presidential Elections to be controlled by the government to control these issues.
-
-◼️
-
-[Data](articles/50c3d767.json)
-
-[Extended Data](ext_articles/50c3d767.ext.json)
 
 ---

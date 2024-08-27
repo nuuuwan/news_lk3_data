@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 16:37:01**
+As of **2024-08-27 16:54:48**
 
 ## Newspaper Stats
 
-*Scraped **42,869** Articles*
+*Scraped **42,872** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 359
 newsfirstlk | 363
-bbccomsinhala | 397
+bbccomsinhala | 398
 colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,960
+adalk | 3,961
 dailymirrorlk | 4,733
-adaderanalk | 5,043
+adaderanalk | 5,044
 tamilmirrorlk | 5,590
 virakesarilk | 6,808
 adaderanasinhalalk | 7,343
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,343
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,869 (100.0%) of 42,869 articles have been extended.
+42,869 (100.0%) of 42,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### SJB’s election manifesto to be launched on Thursday
+
+*2024-08-27 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101548/sjbs-election-manifesto-to-be-launched-on-thursday) · `en`
+
+The presidential election manifesto of the Samagi Jana Balawegaya (SJB) is scheduled to be unveiled on Thursday (August 29).
+
+The SJB Senior Vice President, Sujeewa Senasinghe said that the policy statement has now been finalized.
+
+Meanwhile, Samagi Jana Balawegaya’s (SJB) Presidential candidate and Leader of the Opposition, Sajith Premadasa, emphasized that the policy of maximum power devolution within one country will be implemented under an SJB government.
+
+Speaking at a rally in Trincomalee, Premadasa outlined his vision for governance, which includes holding an international donor conference aimed at advancing development in the North and East.
+
+“We will hold an international donor conference that will help develop the Northern and Eastern regions”, said the opposition leader.
+
+“At the same time, especially through the devolution of power within one state and giving the power to the people, we will make the implementation of that devolution of maximum power our policy,” he said.
+
+...
+
+[Data](articles/07ce9285.json)
+
+---
 
 ### 4 times drowning love: fifth time dropped
 
@@ -558,6 +580,20 @@ Chairman of the Election Commission, RM issued a statement. A. L. Mr. Ratnayake 
 
 ---
 
+### මීළඟ ජනපති තෝරන්න ගාල්ලෙන් 903163ක් සුදුසුකම් ලබයි
+
+*2024-08-27 13:36:23* · [`adalk`](https://www.ada.lk/breaking_news/මීළඟ-ජනපති-තෝරන්න-ගාල්ලෙන්-903163ක්-සුදුසුකම්-ලබයි/11-411589) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා මෙවර ගාල්ල දිස්ත්‍රික්කයේ ලියාපදිංචි ඡන්ද දායකයන් සංඛ්‍යාව නව ලක්ෂ තුන්දහස් එකසිය හැට තුනක් (903163 ) ක් වෙයි.
+
+එය 2019 ජනාධිපතිවරණයට වඩා වැඩි ඡන්ද සංඛ්‍යාව හතළිස් හතර දහස් හාරසිය දාහතරක් (44414)බවත් 2019 ජනාධිපතිවරණයේ ලියාපදිංචි ජන්ද සංඛ්‍යාව අටලක්‍ෂ පනස් අට දහස් හත් සිය හතළිස් නවයක් (858749) බවත්   ගාල්ල මැතිවරණ කාර්යාලය පවසයි .මෙහි පිරිමි ඡන්ද හිමියන් 435717 වන අතර එය  ප්‍රතිශතයක්  ලෙස 48.24%කි.කාන්තා ඡන්ද හිමියන් 467446ක්  වන අතර එය ප්‍රතිශතයක් ලෙස  51.76%කි.
+
+...
+
+[Data](articles/bd816979.json)
+
+---
+
 ### Vote for Ranil to save the country from family control
 
 *2024-08-27 13:32:32* · [`adalk`](https://www.ada.lk/breaking_news/පවුල්-පාලනයෙන්-රට-බේරා-ගන්න-රනිල්ට-ඡන්දය-දෙන්න/11-411588) · `si`
@@ -794,7 +830,13 @@ The Navy said that the disappeared Indian fishermen have been launched.
 
 Two Indian fishermen were reported missing, while two others swam safely to Kachchatheevu Island after a boat carrying four Indian fishermen met with an accident in the seas near Kachchatheevu, the Sri Lanka Navy said.
 
-◼️
+Issuing a statement, the Sri Lanka Navy said it has rescued 02 fishermen from an Indian fishing vessel which was in distress in Indian waters, about 08 nautical miles off the Kachchativu Island today (27).
+
+While conducting a foot patrol on Kachchativu Island, naval personnel from the Naval Detachment had encountered a man who had swum to the shore this morning, the navy said.
+
+Sri Lanka Navy said that after inquiring about the whereabouts, he was identified as an Indian national, and that he disclosed that his fishing vessel, carrying four fishermen, had capsized due to rough seas, and he was washed ashore on Kachchativu Island.
+
+...
 
 [Data](articles/89616e2f.json)
 
@@ -1405,6 +1447,28 @@ Ranil Wickremesinghe bravely offered to take the country to take charge of the c
 [Data](articles/495f80e3.json)
 
 [Extended Data](ext_articles/495f80e3.ext.json)
+
+---
+
+### අනාගතයේදී ඉල්ලුම වැඩි රැකියා ක්ෂේත්‍ර 5 තුළ රැකියාවක් කිරීමට ඔබ ඉගෙන ගත යුතු දේ
+
+*2024-08-27 10:45:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c24pr6eyq37o) · `si`
+
+අනාගතයේදී ඉල්ලුම වැඩි රැකියා ක්ෂේත්‍ර 5 තුළ රැකියාවක් කිරීමට ඔබ ඉගෙන ගත යුතු දේ
+
+ලෝකයේ ශ්‍රම වෙළෙඳපොළ අන් කවරදාටත් වඩා වේගයෙන් වෙනස් වෙමින් පවතින අතර වර්තමානයේ පවතින බොහෝ රැකියා ඉක්මනින් නැති වී යන තත්ත්වයක් මතුව තිබේ.
+
+ලෝක ආර්ථික සංසදය විසින් මෑතකදී කරන ලද අධ්‍යයනයකට අනුව එවැනි තත්ත්වයක් සඳහා බලපාන ප්‍රධාන සාධක දෙකකි. නව තාක්ෂණය සහ ස්වයංක්‍රීයකරණය දියුණු වීම සහ හරිත ආර්ථිකය හා තිරසරභාවය කරා ගමන් කිරීම එම සාධක වේ.
+
+මහා පරිමාණ දත්ත, ක්ලවුඩ් පරිගණකකරණය සහ කෘතිම බුද්ධිය වැනි නව තාක්‍ෂණයන්හි වේගවත් දියුණුව ශ්‍රම වෙළෙඳපොළ තුළ කම්පනයක් සහිත වෙනසක් ඇති කරනු ඇතැයි පුරෝකථනය කර ඇත.
+
+එහි පවතින සතුටුදායක පුවත වන්නේ, නව තාක්‍ෂණයනයේ ආගමනය සමස්ත ආර්ථිකයට ම ප්‍රබෝධයක් ලබා දීම ය. ඒ ඔස්සේ ඇතැම් රැකියා අහිමි වී යන අතර තවත් බොහෝ රැකියා නිර්මාණය වේ. සියල්ලට ම වඩා ව්‍යාපාරයකට අඩු සම්පත්වලින් වැඩි ඵලදායීත්වයක් ලබා ගත හැකි විට, එය ස්වභාවිකව ම පුළුල් වේ.
+
+ලෝක ආර්ථික සංසදයේ පර්යේෂකයන් පවසන්නේ, ඉදිරි වසර පහක කාලය තුළ දැනට පවතින සියලු ම වෘත්තීන්ගෙන් හතරෙන් එකක් පමණ වෙනස් වනු ඇති බව ය.
+
+...
+
+[Data](articles/c45c3ddd.json)
 
 ---
 
@@ -2469,83 +2533,5 @@ Industry experts, including World Bank Senior Digital Development Specialist Sid
 [Data](articles/27531a26.json)
 
 [Extended Data](ext_articles/27531a26.ext.json)
-
----
-
-### Janaka Ratnayake pledges to reduce fuel prices
-
-*2024-08-27 02:31:00* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-pledges-to-reduce-fuel-prices/56-766020) · `en`
-
-United Lanka Podujana Party Presidential candidate Janaka Ratnayake yesterday announced plans to reduce fuel prices if elected.
-
-Speaking at a campaign event in Homagama, he emphasised that the increase in fuel prices as a significant factor contributing to the rising cost of vegetables and other essential goods.
-
-“Two years ago, I said at the CoPF that the price of a litre of fuel could be reduced by Rs. 200, but within the last six to seven months, the price of fuel has been reduced by only
-
-In his vision for a more efficient Government, Ratnayake proposed the use of trains for transporting goods, which he believes would be more cost-effective.
-
-He highlighted his commitment to stabilising the prices of 20 essential items and offering economic concessions to alleviate the financial burdens faced by many citizens.
-
-...
-
-[Data](articles/ae124425.json)
-
-[Extended Data](ext_articles/ae124425.ext.json)
-
----
-
-### Australia’s United Petroleum top officials meet President to discuss expansion plans
-
-*2024-08-27 02:27:27* · [`dailyftlk`](https://www.ft.lk/business/Australia-s-United-Petroleum-top-officials-meet-President-to-discuss-expansion-plans/34-766019) · `en`
-
-Australian energy giant, United Petroleum’s senior leadership team, including Co-Founder Avi Silver, Group CFO Nigel Simonsz, Group Procurement Head Brett Crawford and United Petroleum Lanka Director/CEO Dr. Prabath Samarasinghe, met with President Ranil Wickremesinghe yesterday to discuss the company’s operations and future plans in Sri Lanka.
-
-The meeting, which was also attended by BOI Chairman Dinesh Weerakkody, comes as United Petroleum launches its first international retail operations outside Australia.
-
-The Australian energy giant hosted a distributor felicitation event in Colombo last week, signalling its intent to expand its lubricant range and introduce a convenience store concept at its gas stations.
-
-Starting from 28 August, United Petroleum will begin operations with 150 filling stations and plans to establish 50 additional fuel stations, representing an investment of over $ 100 million to bolster its market presence.
-
-◼️
-
-[Data](articles/bb2d3bc3.json)
-
-[Extended Data](ext_articles/bb2d3bc3.ext.json)
-
----
-
-### Let's look back at the results of 8 presidential elections in Sri Lanka
-
-*2024-08-27 02:26:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg4yn52qkx3o) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka switched to presidential system in 1978. 8 presidential elections held from 1982. 9th election scheduled for Sept 21, 2024. Results available district-wise from 1982 to 2019.
-
-🟩
-
-Let's look back at the results of 8 presidential elections in Sri Lanka
-
-Sri Lanka was transferred to an executive presidential system through the new Constitution that was implemented in 1978.
-
-Accordingly, 8 presidential elections have been held in Sri Lanka since 1982.
-
-The 9th presidential election in Sri Lanka will be held on September 21, 2024.
-
-From 1982 to 2019, the results of the presidential elections, which were created by the BBC Sinhala Service, can visit the district level.
-
-To check the details in districts, click on the relevant district.
-
-Universal Fernando: The Silent Savior of the Sri Lankan Cricket Team
-
-Did you know about Ranil, Sajith, Anura, and Namal?
-
-◼️
-
-[Data](articles/ef8347e9.json)
-
-[Extended Data](ext_articles/ef8347e9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 20:21:34**
+As of **2024-08-27 20:37:04**
 
 ## Newspaper Stats
 
-*Scraped **42,909** Articles*
+*Scraped **42,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,047
 tamilmirrorlk | 5,595
 virakesarilk | 6,819
-adaderanasinhalalk | 7,352
+adaderanasinhalalk | 7,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,907 (100.0%) of 42,909 articles have been extended.
+42,910 (100.0%) of 42,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### Leader of the Left Front resigns
+
+*2024-08-27 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200397) · `si`
+
+Niroshan Premaratne resigns from Left Front, citing disagreement over presidential election strategy.
+
+🟩
+
+Former Parliamentarian Niroshan Premaratne has resigned from his party membership and positions.
+
+He said a letter to the Vasudeva Nanayakkara, Party Vasudeva Nanayakkara.
+
+Mr. Niroshan Premaratne points out that his decision to implement his party's decision to implement targets and plans, as discussed in the current political situation.
+
+"I was severely disturbed by the agreement we had for the presidential election later. There is no failure in that regard. I left the Election Committee on the day to take the verdict and other team. "
+
+"Janaka Ratnayake gave me the verdict that took the majority of the executive of the party to offer presidential candidate towards the presidential candidate. That decision was awesome and ninety. I have to find out a suitable ground. "
+
+◼️
+
+[Data](articles/efd6569b.json)
+
+[Extended Data](ext_articles/efd6569b.ext.json)
+
+---
 
 ### Election Commission to meet tomorrow
 
@@ -258,19 +284,27 @@ He expressed these views while attending the 37th Annual Conference of the Organ
 
 ---
 
-### දේශීයව නිෂ්පාදනය කරන ලද Cargo ට්‍රක් රථයක් වෙළඳපොළට
+### A locally produced Cargo truck to market
 
 *2024-08-27 18:42:33* · [`adalk`](https://www.ada.lk/picture_story/දේශීයව-නිෂ්පාදනය-කරන-ලද-Cargo-ට්‍රක්-රථයක්-වෙළඳපොළට/10-411593) · `si`
 
-මෝටර් වාහන කර්මාන්තය සඳහා කර්මාන්ත අමාත්‍යාංශය විසින් හඳුන්වාදුන් සම්මත මෙහෙයුම් පටිපාටිය (SOP) යටතේ දේශීයව නිෂ්පාදනය කරන ලද Cargo ට්‍රක් රථයක් කර්මාන්ත හා සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා වෙත හඳුන්වාදීම ඊයේ සවස (26) කර්මාන්ත අමාත්‍යාංශයේදී සිදුවිණි.
+Sri Lanka launches locally-produced Cargo truck for domestic market.
 
-අපනයන කේන්ද්‍රීය ආර්ථිකයක් කරා යන ගමනේදී ශ්‍රී ලංකාවේ ආර්ථිකය සංවර්ධනය කිරීම සඳහා හඳුනාගෙන ඇති අංශ 7 අතරින් මෝටර් වාහන කර්මාන්තය ප්‍රධාන ස්ථානයක් ගනියි.  එම කර්මාන්ත අංශය දියුණු කිරීමේ අරමුණින් 2021 වසරේදී කර්මාන්ත අමාත්‍යාංශය, පුද්ගලික අංශයේද සහයෝගය ඇතිව මෝටර් වාහන කර්මාන්තය සදහා සම්මත මෙහෙයුම් පටිපාටිය (SOP) හඳුන්වාදීමෙන් පසු එම කර්මාන්ත අංශයයේ ශීඝ්‍ර වර්ධනයක් ඇතිවිය.
+🟩
 
-ශ්‍රී ලංකාව තුළ වාහන නිෂ්පාදනය හා එකලස් කිරීමේ කටයුතු සිදුකරන දේශීය සමාගමක් වන සෙනාරෝ මෝටර් සමාගම විසින් නිෂ්පාදිත මෙම සෙනාරෝ Cargo ට්‍රක් රථය 60% කටත් වඩා  දේශීයව නිෂ්පාදනය කරනු ලබන උපාංග වලින් සමන්විත වේ. විශේෂයෙන්ම චැසිය හා පිටුපස Cargo තට්ටුව සම්පූර්ණයෙන්ම දේශීයව නිෂ්පාදනය කර ඇති අතර මෝටර් වාහන චැසියක් ශ්‍රී ලංකාව තුළ නිෂ්පාදනය කළ පළමු අවස්ථාව මෙය වේ.
+Industry and Health Minister Minister Dr. Ramesh Pathirana was launched in the Ministry of Industry yesterday (26).
+
+The motor vehicle industry takes a key place among the seven areas identified to develop Sri Lanka's economy on the way to an export-centric economy.The Ministry of Industries, the Ministry of Industry, the Ministry of Industry, with the help of the private sector, there was a rapid increase in the industry.
+
+The Zeroro Motor Company, a local company in Sri Lanka, consists of devices that are locally produced locally produced locally produced. This is the first time that the Cargo deck is completely produced in the Chassis and the Cargo Det.
+
+The CAGO truck, which can carry a weight of a liter of petrol, is ideal for agriculture campaigns, which can provide the vehicle to the local market, where local entrepreneurs can buy local entrepreneurs at a reasonable price.He said the management director Joshu Waduge.
 
 ...
 
 [Data](articles/97856467.json)
+
+[Extended Data](ext_articles/97856467.ext.json)
 
 ---
 
@@ -300,23 +334,31 @@ In a statement issued by the Human Rights Watch, which includes its position on 
 
 ---
 
-### යලේ වී මිලදී ගැනීමට පළමු අදියර යටතේ රු.මි. 500ක්
+### Under Phase 1, Mn.. 500
 
 *2024-08-27 18:30:58* · [`adalk`](https://www.ada.lk/breaking_news/යලේ-වී-මිලදී-ගැනීමට-පළමු-අදියර-යටතේ-රු-මි--500ක්/11-411592) · `si`
 
-වී මිල දී ගැනීමේ කටයුතු සඳහා අලෙවි මණ්ඩලයට රුපියල් මිලියන 500ක මුදලක් පළමු අදියර යටතේ ලබා දීමට අමාත්‍ය මණ්ඩලය ඊයේ (26) තීරණය කල බව වී අලෙවි මණ්ඩලයේ සභාපති නීතිඥ බුද්ධික ඉද්දමල්ගොඩ මහතා පවසයි.
+Paddy Marketing Board buys paddy at Rs. 500 million, opens 100 stores, expects Samba sales.
 
-මෙවර යල කන්නයේ වී මිල දී ගැනීම සඳහා රුපියල් මිලියන 2000ක් වී අලෙවි මණ්ඩලයට ලබා දෙන ලෙස කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පසුගිය ජූනි මාසයේ දී මේ සම්බන්ධ අමාත්‍ය මණ්ඩල පත්‍රිකාව ඉදිරිපත් කර ඇත.
+🟩
 
-මේ අනුව අද (27)  සිට වී මිල දී ගැනීමේ කටයුතු ආරම්භ කිරීමට වී අලෙවි මණ්ඩලය තීරණය කර ඇත.
+The Padika Buddhika Iddamalgoda, the Chairman of the Paddy Marketing Board (26) has decided to provide Rs. 500 million to the Marketing Board for paddy.
 
-ඒ සඳහා දැනට වී අස්වනු නෙළා අවසන් කරන ලද දිස්ත්‍රික්කවල පිහිටි වී ගබඩා 32ක් විවෘත කර තැබීමටත්, තවත් ගබඩා 100ක් අවශ්‍ය විටෙක විවෘත කිරීමටත් සූදානම්  කර ඇතැයි වී අලෙවි මණ්ඩලයේ සභාපති නීතිඥ බුද්ධික ඉද්දමල්ගොඩ මහතා පැවසීය.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera has submitted this to the Paddy Marketing Board to purchase Rs.
 
-මේ වනවිට නාඩු වී සඳහා ඉහළ මිලක් වෙළෙඳ පළේ ඇති නිසා පුද්ගලික අංශය විසින් රුපියල් 120ක මුදලකට ඒවා මිල දී ගනු ලබයි. නමුත් රජයේ පාලන මිලට තම වී තොග ගොවි ජනතාව වී අලෙවි මණ්ඩලයට ලබා දීමට පියවර නොගනු ඇතැයි ද විශ්වාස කරන බව සභාපතිවරයා කීය.
+Accordingly, the Paddy Marketing Board has decided to commence the purchase of paddy from today (27).
 
-...
+The Paddy Marketing Board Chairman Buddhika Iddamalgoda, the Chairman of the Paddy Marketing Board, has already been prepared to open and open 100 paddy stores in the district complexes completed.
+
+The private sector is purchased for Rs.. However, it is believed that the paddy stocks of paddy should not be paid to the Paddy Marketing Board to the prices of the government controlled prices.
+
+However, it is ready to buy the Government's at Rs.. Therefore, he said he expects Samba and Kary Samba and Kary sales to the Paddy Marketing Board.
+
+◼️
 
 [Data](articles/80a8d5ed.json)
+
+[Extended Data](ext_articles/80a8d5ed.ext.json)
 
 ---
 
@@ -2503,33 +2545,5 @@ Subsequently, the husband of the 66 -year -old suspect has been arrested and Hab
 [Data](articles/49dd54e5.json)
 
 [Extended Data](ext_articles/49dd54e5.ext.json)
-
----
-
-### Court order to babin the lawyer to the lawyer who insulted the judiciary
-
-*2024-08-27 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200374) · `si`
-
-Supreme Court orders lawyer to apologize for insulting judiciary.
-
-🟩
-
-The Supreme Court yesterday (26) ordered a lawyer from Kakirawa, who was accused of violating the court without the permission of the court.
-
-The complaint lodged with this lawyer yesterday. The three-member judges of the three-member judges with Turai Raja and Kumuduni Wickremasinghe and Janaka de Silva were called before the Supreme Court Bench.
-
-The President's attorneys appeared before the Court and the allegations led by the charges was charged in the Open Court of Attorney General.
-
-Upon inquiry made by a inquiry, the respondent lawyer stated that he was the right of the charges.
-
-The lawyer told the court that a Bar Assignment of the Bar Assignment of the Bar Association of Kekirawa was present and lodged a complaint.
-
-Accordingly, the three-member panel of judges was issued to the examination to be heard on September 24 and issued an order without the permission of the court.
-
-...
-
-[Data](articles/d00d9a39.json)
-
-[Extended Data](ext_articles/d00d9a39.ext.json)
 
 ---

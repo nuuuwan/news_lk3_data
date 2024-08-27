@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 11:37:08**
+As of **2024-08-27 11:57:04**
 
 ## Newspaper Stats
 
-*Scraped **42,816** Articles*
+*Scraped **42,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 2,586
 dailyftlk | 2,779
 adalk | 3,949
 dailymirrorlk | 4,733
-adaderanalk | 5,033
+adaderanalk | 5,034
 tamilmirrorlk | 5,581
-virakesarilk | 6,794
-adaderanasinhalalk | 7,335
+virakesarilk | 6,795
+adaderanasinhalalk | 7,336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,814 (100.0%) of 42,816 articles have been extended.
+42,816 (100.0%) of 42,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### කූඨ ලේඛනයක් ඉදිරිපත් කළැයි ඩයනාට අධිචෝදනා භාරදෙයි
+
+*2024-08-27 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200380) · `si`
+
+කූඨ ලේඛනයක් ඉදිරිපත් කර ශ්‍රී ලාංකික විදේශ ගමන් බලපත්‍රයක් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියට කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා පත්‍ර භාරදීම සිදුවුණි.
+
+කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා ඉදිරියේ මෙම චෝදනා භාරදීම සිදුව ඇත.
+
+ඉන් අනතුරුව විත්තිකාර ඩයනා ගමගේ මහත්මියගේ ඇඟිලි සලකුණු ලබාගෙන වාර්තාවක් කැඳවන ලෙසත් අධිකරණය නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/24a10cd6.json)
+
+---
+
+### Ex-Minister A.H.M. Fowzie given suspended sentence over misuse of ministry vehicle
+
+*2024-08-27 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101536/ex-minister-ahm-fowzie-given-suspended-sentence-over-misuse-of-ministry-vehicle) · `en`
+
+The Colombo High Court has sentenced former Minister A. H. M. Fowzie for two years of rigorous imprisonment and suspended it for 10 years after he pleaded guilty over the charge of misusing a vehicle belonging to the Ministry of Disaster Management.
+
+The court also imposed a fine of Rs.400,000 on the former Minister, when the case was taken up today (27), Ada Derana reporter said.
+
+Former Minister Fowzie was charged over the possession and personal use of a luxury vehicle worth nearly Rs. 20 million received from the Netherlands to the Disaster Management Ministry, while serving as the Minister of Disaster Management in 2010.
+
+Furthermore, he was found guilty of persuading the officials including the Ministry Secretary and spending nearly Rs 1 million from the Finance Ministry’s funds for the maintenance of the vehicle.
+
+However, Fowzie had pleaded guilty for the charges through his attorney, when the case was taken up for hearing today.
+
+...
+
+[Data](articles/b8534fe9.json)
+
+---
 
 ### Australia introduces cap on international students
 
@@ -114,6 +150,24 @@ A. H. The judge was also ordered to obtain the fingerprints of Mr. M. Fowzie.
 
 ---
 
+### அனுரகுமார இலகுவாக வெற்றிபெறுவார் -இராஜதந்திர வட்டாரங்களிற்கு இடையிலான தகவல் பரிமாற்றத்தில் தெரிவிப்பு என தகவல்- மறுக்கின்றது இந்திய தூதரகம்
+
+*2024-08-27 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/192097) · `ta`
+
+கொழும்பிலுள்ள தூதரங்களிற்கு இடையிலான தொடர்பாடல்கள்  தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அமோக வெற்றிபெறுவார் என தெரிவித்துள்ளதாக தகவல்கள் வெளியாகியுள்ள அதேவேளை இந்திய தூதரகம் அவ்வாறான தகவல்கள் ஆதாரமற்றவை என நிராகரித்துள்ளது.
+
+பல வழிமுறைகளை பயன்படுத்தி மேற்கொள்ளப்பட்ட இரகசிய கருத்துக்கணிப்புகள் அனுரகுமாரதிசநாயக்க இலகுவான வெற்றியை பெறுவார் என தெரிவித்துள்ளமை இராஜதந்திர மட்ட தொடர்பாடல்கள் மூலம் தெரியவந்துள்ளதாக சமூக ஊடக தகவலொன்று தெரிவித்துள்ளது.
+
+தேர்தல் இடம்பெறுவதற்கு 30 நாட்களிற்கு முன்னராக மேற்கொள்ளப்பட்ட கருத்துக்கணிப்பின் மூலம் இது தெரியவந்துள்ளதாகவும் அனுரகுமாரவின் அதிகரித்து வரும் ஆதரவை வெளிப்படுத்தும் பல குறிகாட்டிகள் காணப்படுவதாகவும் சமூக ஊடக தகவல் தெரிவித்துள்ளது.
+
+தேசிய மக்கள் சக்தியின் தலைவரின் நிலைமை மாற்றமடைந்துள்ளது அவரே  முன்னணியில்காணப்படுகின்றார்.கருத்துக்கணிப்பு முடிவுகள் அவர் ஏனைய வேட்பாளரை விட முன்னணியில் காணப்படுவதை வெளிப்படுத்தியுள்ளன என இராஜதந்திர வட்டாரங்கள் மத்தியிலான தொடர்பாடல்கள் தெரிவித்துள்ளன என குறிப்பிட்ட சமூக ஊடக தகவல் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/619bd27a.json)
+
+---
+
 ### Favourability ratings of Sri Lanka’s AKD, Ranil improve; Ranil’s surpasses Sajith’s
 
 *2024-08-27 10:59:00* · [`economynextcom`](https://economynext.com/favourability-ratings-of-sri-lankas-akd-ranil-improve-ranils-surpasses-sajiths-178133/) · `en`
@@ -127,6 +181,8 @@ IHP said in a statement on Tuesday August 27 that favourability estimates for ea
 ...
 
 [Data](articles/a5f4bdc4.json)
+
+[Extended Data](ext_articles/a5f4bdc4.ext.json)
 
 ---
 
@@ -1109,6 +1165,8 @@ The current network is made up of, Gulshan Branch, Motijheel Islamic Banking Bra
 ◼️
 
 [Data](articles/a97f521c.json)
+
+[Extended Data](ext_articles/a97f521c.ext.json)
 
 ---
 
@@ -2645,75 +2703,5 @@ However the icing on the winning candidate’s cake would be the minority vote. 
 [Data](articles/bd766ef7.json)
 
 [Extended Data](ext_articles/bd766ef7.ext.json)
-
----
-
-### Three Chinese war ships arrive at Port of Colombo for an official visit
-
-*2024-08-26 18:12:19* · [`adalk`](https://www.ada.lk/picture_story/චීන-යුද-නෞකා-තුනක්-නිල-සංචාරයක්-සඳහා-කොළඹ-වරායට-පැමිණෙයි/10-411572) · `si`
-
-Chinese warships visit Colombo Port for official tour. Three ships: He Fei, Wuzhizan, Qilanshan. Meeting with Sri Lanka Navy officials. Ships to visit local areas before departing on Aug 29, 2024.
-
-🟩
-
-Trending of the Chinese Liberation Army of the People's Liberation Army (CHINEE People's Liberation)Steps were taken to welcome the ships to the navy.
-
-The "He feat" enabled the Colombo Port, "He Fei", which is accompanied by 26.50 meters and 267 meters and 267 meters and 267 meters.
-
-The "Wuzhizan" war vessel contains 872 meters and the shipwreck of the ship, which is located in length of 210m and the shipwreck of the ship.. The "Qilanshan" consists of 334 meters and a shipwreck of the Landing Platform Dock.
-
-A official meeting of the shipping officers and Commander of the Western Naval Command Rear Admiral Chinthaka Headquarters will be held today (August 26, 204) at the West Naval Order of the two countries.The ships of the ships are also scheduled to attend.
-
-Also, the shipping of the ships will visit several areas on the time of the "He Fei" and "qilianshan" in Sri Lanka.It is also scheduled to be held in the vessels.
-
-...
-
-[Data](articles/4e3648ed.json)
-
-[Extended Data](ext_articles/4e3648ed.ext.json)
-
----
-
-### 400 lakhs cannot be moved from Katunayake
-
-*2024-08-26 18:05:39* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-400-භාණ්ඩ-තොගයක්-කටුනායකින්-පන්නන්න-බැරිවෙයි/11-411571) · `si`
-
-Two passengers arrested at Katunayake Airport CID for smuggling items including satellite TVs, squash, knives, and coffee packets.
-
-🟩
-
-Airport Criminal Investigations Department (CID) has been arrested by the airport criminal investigations with two passengers who were not paid to Sri Lanka without Rs.
-
-The two passengers are a 57 year old woman, 55, 55, a 55 year old resident of Grandpass, Colombo. The two are their sister and his brother with the public and they are engaged in the business of business needs.
-
-The two were from Chennai, India from Chennai, India, India, India, India's flight.
-
-The arrests were carried out by the Criminal Investigations Department (CID) while leaving the airport along the "Rakodaya" airport.
-
-The baggage of the two spices, Chandrika television devices (Satalite television devices), 28 bottles of squash Leader and Benson and Benson and Benson and Benson & Benson and Hedges,
-
-There were 1,100 surgery knives without proper permission without proper permission, 2,220 packets of Indian coffee, nights, nights, nights.
-
-...
-
-[Data](articles/570abc94.json)
-
-[Extended Data](ext_articles/570abc94.ext.json)
-
----
-
-### “Anjanenjan” Amirthalingam; The  Firebrand  Youth with a Fearless Heart who  became  a Respected Statesmanlike Tamil Leader
-
-*2024-08-26 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=82541) · `en`
-
-August 26th 2023  is the 97th birth anniversary of well-known Sri Lankan Tamil political leader and one-time leader of the opposition Appapillai Amirthalingam. The ‘enfant terrible ‘of the “Ilankai Thamil Arasuk Katchi”(ITAK) who later metamorphosed into the elder statesman of the Tamil United Liberation Front(TULF) who strode across the Tamil political stage for nearly four decades.
-
-A lifetime of toil and service to his community was cut short on 13 July 1989 when he fell victim to bullets fired by LTTE operatives in Colombo. This column focuses this week on Amirthalingam who was referred to affectionately by his followers as Amir, Amir Annan and Amuthar.
-
-...
-
-[Data](articles/5eb19c17.json)
-
-[Extended Data](ext_articles/5eb19c17.ext.json)
 
 ---

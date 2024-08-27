@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 19:21:26**
+As of **2024-08-27 19:37:12**
 
 ## Newspaper Stats
 
-*Scraped **42,892** Articles*
+*Scraped **42,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,963
+adalk | 3,965
 dailymirrorlk | 4,733
-adaderanalk | 5,046
-tamilmirrorlk | 5,591
+adaderanalk | 5,047
+tamilmirrorlk | 5,592
 virakesarilk | 6,816
 adaderanasinhalalk | 7,350
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 7,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,892 (100.0%) of 42,892 articles have been extended.
+42,892 (100.0%) of 42,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### நேரடி கலந்துரையாடலுக்கு நாம் தயார்
+
+*2024-08-27 19:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேரடி-கலந்துரையாடலுக்கு-நாம்-தயார்/175-342880) · `ta`
+
+சர்வதேச நாணய நிதியத்துடன் நேரடி கலந்துரையாடலுக்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க விடுக்கும் சவாலுக்கு ஐக்கிய மக்கள் சக்தி (SJB) தயாராக இருப்பதாக பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா இன்று தெரிவித்தார்.
+
+எந்த நேரத்திலும் சந்திப்பிற்கு நாங்கள் தயாராக உள்ளோம் என கலாநிதி டி சில்வா டெய்லி மிரருக்கு தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க, SJB தலைவர் சஜித் பிரேமதாச மற்றும் தேசிய மக்கள் சக்தி தலைவர் அனுரகுமார திஸாநாயக்க ஆகியோருக்கு சர்வதேச நாணய நிதியத்துடன் பகிரங்க கலந்துரையாடலுக்கு சவால் விடுத்தார். இது சில நாட்களுக்கு முன் ஊடகங்களில் வெளியாகியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4e1033f1.json)
+
+---
+
+### CBSL governor warns against any deviation from intended fiscal policy trajectory
+
+*2024-08-27 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101551/cbsl-governor-warns-against-any-deviation-from-intended-fiscal-policy-trajectory) · `en`
+
+The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, says any political or social uncertainties or reversals of hard earned achievements that exerts significant pressure on the economic reforms agenda could lead to a deviation from the intended policy trajectory.
+
+He said this could potentially result in adverse and irreversible impacts on the economy and the recurrence of the economic and social crisis that Sri Lanka experience in the past two years.
+
+He expressed these views while attending the 37th Annual Conference of the Organisation of Professional Associations of Sri Lanka held on Monday (26) at the Shangri-La Hotel in 5Colombo, under the theme of “Towards Sri Lanka’s Sustained Economic Growth”.
+
+“As you all know the ongoing reform agenda comprises measures that are expected to augment the resilience and stability of the economy, which is what is needed for the medium-long-term growth”, he said.
+
+...
+
+[Data](articles/1dee0032.json)
+
+---
 
 ### A Chinese military aircraft in Japanese sky
 
@@ -1292,6 +1326,24 @@ Central Bank Governance Mr. Dr. Nandalal Weerasinghe
 
 ---
 
+### ලංසුවට පිටුපා බස් ටිකට් රෝල් මිලට ගැනීමෙන් ලං.ග.මට රු. ලක්ෂ 425 ක පාඩුවක්
+
+*2024-08-27 12:56:10* · [`adalk`](https://www.ada.lk/breaking_news/ලංසුවට-පිටුපා-බස්-ටිකට්-රෝල්-මිලට-ගැනීමෙන්-ලං-ග-මට-රු--ලක්ෂ-425-ක-පාඩුවක්/11-411585) · `si`
+
+ශ්‍රී ලංකා ගමනාගමන මන්ඩලය විසින් බස්  මගී ගාස්තු වෙනුවෙන් ටිකට් පත් නිකුත් කිරීමට ජී.පී.ආර්.එස් ටිකට් යන්ත්‍ර සඳහා යොදා ගැනෙන තාපන (Thermal ) කඩදාසි ටිකට් රෝල් මිලදී ගැනීමේදී  නියමිත ලංසු පටිපාටියෙන් බැහැරව කටයුතු කිරීමෙන් එම මන්ඩලයට  රුපියල් හාර කෝටි විසි අට ලක්ෂ පනස් නව දහස් හතලිහක මූල්‍ය පාඩුවක් සිදුවී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+
+ඉකුත් වසර වෙනුවෙන් ගමනාගමන මන්ඩලයේ විගණන නිරීක්ෂණ සම්බන්ධයෙන්  ජාතික විගණන කාර්යාලය මගින් නිකුත් කළ  නවතම විගණන වාර්තාවක් මගින් මෙම අනාවරණය සිදුකර තිබේ.
+
+මාස තුනක අවශ්‍යතාව වෙනුවෙන්  මෙම  කඩදාසි රෝල් මිලට ගැනීමට ජාතික තරගකාරී ලංසුකරන පටිපාටිය යටතේ සැපයුම්කරුවෙකුගෙන් එක් කඩදාසි රෝලක්  රුපියල්  49.65 කට මිලට ගැනීමට  ප්‍රසම්පාදන තීරණය කර  තිබියදී  එය නොතකා කටයුතු කිරීමෙන් මෙම මූල්‍ය පාඩුව සිදුකර ඇතැයි විගණනයෙන් පෙන්වා දෙයි.
+
+ප්‍රසම්පාදන තීරණය පරිදි ප්‍රාදේශීය කාර්යාල හරහා ටිකට් රෝල්  මිලදී ගෙන බස් ඩිපෝ වෙත බෙදාදෙන ලෙස ප්‍රසම්පාදන කමිටුව මගින් නියම කර තිබේ.
+
+...
+
+[Data](articles/6aae3938.json)
+
+---
+
 ### Boat accident in Kachchativu
 
 *2024-08-27 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200382) · `si`
@@ -2497,75 +2549,5 @@ Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed ov
 [Data](articles/0d157b9a.json)
 
 [Extended Data](ext_articles/0d157b9a.ext.json)
-
----
-
-### A person killed from Switzerland to Sri Lanka
-
-*2024-08-27 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200370) · `si`
-
-Switzerland national found dead in Sri Lanka's Vavuniya. Police investigating murder claim.
-
-🟩
-
-The body of a person from Switzerland has been found in a house in the Sinnadampan area in Vavuniya and Kanagadampan.
-
-The police said the 66-year-old Malagama Nimanathan, a resident of Vavuniya, Nedunkenda, Vedunutati, Vedunutati, Vedunutati.
-
-The victim has been resident in Statter and has reached the shoveling area in a while ago.
-
-The deceased has been identified as the deceased to attend an annual event at the Kovil of Sinnaadampan, Sinnadampan.
-
-The man who was with the deceased has told the police that a group had come and assaulted him and his relatives.
-
-The Vavuniya Acting Magistrate, the Death of the Death was held yesterday (26), and the dead body was directed to the Vavuniya Hospital morgue.
-
-The death is a murder, police said that investigations into the incident are conducting further investigations.
-
-◼️
-
-[Data](articles/5687de87.json)
-
-[Extended Data](ext_articles/5687de87.ext.json)
-
----
-
-### At least 30 dead, many missing after dam bursts in eastern Sudan
-
-*2024-08-27 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101531/at-least-30-dead-many-missing-after-dam-bursts-in-eastern-sudan) · `en`
-
-Surging waters have burst through a dam, wiped out at least 20 villages and left at least 30 people dead but probably many more in eastern Sudan, the United Nations said on Monday, devastating a region already reeling from months of civil war.
-
-Torrential rains caused floods that overwhelmed the Arbaat Dam on Sunday just 40 km (25 miles) north of Port Sudan, the de facto national capital and base for the government, diplomats, aid agencies and hundreds of thousands of displaced people.
-
-“The area is unrecognisable. The electricity and water pipes are destroyed,” Omar Eissa Haroun, head of the water authority for Red Sea state, said in a WhatsApp message to staff.
-
-One first responder said that between 150 and 200 people were missing.
-
-...
-
-[Data](articles/b5779c0a.json)
-
-[Extended Data](ext_articles/b5779c0a.ext.json)
-
----
-
-### SLPP MP and several former LG members pledge support to President Ranil
-
-*2024-08-27 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101530/slpp-mp-and-several-former-lg-members-pledge-support-to-president-ranil) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) MP Wimalaweera Dissanayake has met with President Ranil Wickremesinghe along with several local government representatives and extended their support to President in the upcoming presidential election.
-
-The local government representatives including former Chairman of Uhana Pradesdhiya Sabha Upul Priyantha, former Vice Chairman Jagath Deshapriya, former Chairman of Dehiattakandiya Pradeshiya Sabha Sugath Jathungaarachchi, and former Chairman of Mahaoya Pradeshiya Sabha Indika Nilantha have met with the President at his office on Flower Road, Colombo, last afternoon (26).
-
-SLPP MP for Digamadulla District Wimalaweera Dissanayake warned that if President Ranil Wickremesinghe is not reappointed for the next five years, Sri Lanka could experience severe repercussions akin to those in Bangladesh.
-
-He cited potential outcomes such as increased street violence, attacks on religious sites, court closures, and the dismantling of the constitution.
-
-...
-
-[Data](articles/9889f640.json)
-
-[Extended Data](ext_articles/9889f640.ext.json)
 
 ---

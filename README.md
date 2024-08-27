@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 09:37:26**
+As of **2024-08-27 09:56:43**
 
 ## Newspaper Stats
 
-*Scraped **42,789** Articles*
+*Scraped **42,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 2,584
 dailyftlk | 2,779
 adalk | 3,947
 dailymirrorlk | 4,733
-adaderanalk | 5,029
+adaderanalk | 5,030
 tamilmirrorlk | 5,575
 virakesarilk | 6,788
-adaderanasinhalalk | 7,328
+adaderanasinhalalk | 7,331
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,789 (100.0%) of 42,789 articles have been extended.
+42,789 (100.0%) of 42,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### රියර් අද්මිරාල් කාංචන බානගොඩ නාවික හමුදා මාණ්ඩලික ප්‍රධානී තනතුරට
+
+*2024-08-27 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200373) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාවේ නව මාණ්ඩලික ප්‍රධානී ලෙස රියර් අද්මිරාල් කාංචන බානගොඩ ව පත්කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් 2024 අගෝස්තු මස 16 වනදා සිට ක්‍රියාත්මක වන පරිදි රියර් අද්මිරාල් බානගොඩ ව එම තනතුරට පතිකාර තිබුණි.
+
+නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා විසින් ඊට අදාළ පත්වීම් ලිපිය රියර් අද්මිරාල් කාංචන බානගොඩ වෙත නිල වශයෙන් ඊයේ (26) නාවික හමුදා මූලස්ථානයේදී ප්‍රදානය කළේය.
+
+බණ්ඩාරවෙල ශාන්ත තෝමස් විද්‍යාලයේ දීප්තිමත් ආදි ශිෂ්‍යයෙකු වන රියර් අද්මිරාල් කාංචන බානගොඩ, 1989 වර්ෂයේදී 19 වන ශිෂ්‍යභට බඳවා ගැනීමට අයත් ශිෂ්‍යභට නිලධාරියෙකු වශයෙන් ශ්‍රී ලංකා නාවික හමුදාවේ විධායක අංශයට එක් වී ඇත.
+
+ත්‍රිකුණාමලය නාවික හා සාගරික විද්‍යාපීඨයෙන් මූලික පුහුණුව සාර්ථක ලෙස අවසන් කර, 1991 වර්ෂයේ උප ලුතිනන් වරයෙකු වශයෙන් අධිකාරියට පත් වන ඔහු, සිය උප ලුතිනන් තාක්‍ෂණික පාඨමාලාව 1993 වර්ෂයේදී ත්‍රිකුණාමලය නාවික හා සාගරික විද්‍යා පීඨයේදී සාර්ථකව හදාරා, දියයට මුහුදු සංග්‍රාමික දීර්ඝ පාඨමාලාව ඉන්දීය නාවික නෞකා වෙන්දුර්තිහී දියයට මුහුදු සංග්‍රාමික පුහුණු පාසල වෙතින් 2000 වර්ෂයේදී හදාරා ඇත.
+
+...
+
+[Data](articles/b767fbf4.json)
+
+---
+
+### ශ්‍රේෂ්ඨාධිකරණයෙන් පොලීසියට බරපතළ චෝදනාවක්
+
+*2024-08-27 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200372) · `si`
+
+පොලිස් අත්අඩංගුවට ගනු ලබන පුද්ගලයින් කෲර වධ හිංසනයන්ට ලක්වීම වැළැක්වීම සඳහා අධිකරණය විසින් ලබාදුන් නියෝගවලින් කිසිදු ප්‍රතිඵලයක් අත්වී නොමැති බව ශ්‍රේෂ්ඨාධිකරණය පවසයි.
+
+අදාළ නියෝග ජාතික පොලිස් කොමිසම හෝ පොලිස්පතිවරයා සැලකිල්ලට භාජනය කර නොමැති බව ශ්‍රේෂ්ඨාධිකරණය පෙන්වා දෙයි.
+
+කෲර වධ හිංසන සිද්ධියක් සම්බන්ධයෙන් ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගය සඳහා කැඳවූ අවස්ථාවේදී ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ සභාපති විනිසුරු එස්. තුරෙයි රාජා මහතා විවෘත අධිකරණයේ ප්‍රකාශයක් සිදුකරමින් මේ බව සඳහන් කර තිබේ.
+
+විනිසුරුවරයා කියා සිටියේ, පසුගිය කාලසීමාව තුළ පොලිස් අත්අඩංගුවට පත්වන පුද්ගලයින් වධ හිංසාවලට භාජනය වීම වැළැක්වීම සඳහා විවිධාකාර නියෝග, අවවාද, මාර්ගෝපදේශ අධිකරණය විසින් නිකුත් කර තිබූ බවය.
+
+එහෙත් ඒ පිළිබඳව ජාතික පොලිස් කොමිසම හෝ පොලිස්පතිවරයා සැලකිල්ලක් දක්වා නොමැති අතර කිසිදු වාර්තාවක් හෝ ඉදිරිපත් කර නොමැති බව විනිසුරු තුරෙයි රාජා මහතා පෙන්වා දී  තිබේ.
+
+...
+
+[Data](articles/c116f9d0.json)
+
+---
+
+### Govt to commence paddy purchasing from today; fertilizer subsidy to increase
+
+*2024-08-27 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101532/govt-to-commence-paddy-purchasing-from-today-fertilizer-subsidy-to-increase-) · `en`
+
+The government has decided to increase the fertilizer subsidy provided for paddy farmers.
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that commencing from the next cultivation season, the fertilizer subsidy will be increased from Rs. 15,000 to Rs. 25,000 per hectare.
+
+It is reported that the relevant Cabinet paper was presented to the Cabinet of Ministers yesterday (26) and it has received approval.
+
+Meanwhile, the Paddy Marketing Board (PMB) says that the government has planned to initiate the process of purchasing paddy from today (27).
+
+Its Chairman, Buddhika Iddamalgoda, mentioned that the Treasury has allocated Rs. 500 million for this purpose as the preliminary phase.
+
+According to the chairman, the PMB will purchase Samba paddy at Rs. 115 per kilogram and Keeri Samba at Rs. 130 per kilogram.
+
+◼️
+
+[Data](articles/9edd93a9.json)
+
+---
+
+### අසත්‍ය පුවතක් ගැන සුරාබදු දෙපාර්තමේන්තුවෙන් නිවේදනයක්
+
+*2024-08-27 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200371) · `si`
+
+විශාල හිඟ බදු ප්‍රමාණයක් ඇති බවට ගෙන යන ප්‍රචාර අසත්‍ය බව සුරාබදු කොමසාරිස් ජනරාල් එම්.ජේ ගුණසිරි මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ දේශීය ආදායම් දෙපාර්තමේන්තුව, ශ්‍රී ලංකා රේගු දෙපාර්තමේන්තුව සහ සුරාබදු දෙපාර්තමේන්තුව යන ආයතන තුනේ ම හිඟ බදු ප්‍රමාණය රුපියල් බිලියන 90ක් පමණ වන බවය.
+
+ස්ථාවර රටකට - සැවොම එක මගකට යන මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් සුරාබදු කොමසාරිස් ජනරාල්වරයා මෙම අදහස් පළ කළේය.
+
+එම මාධ්‍ය හමුවේ දී සුරාබදු දෙපාර්තමේන්තුවේ ආදායම් උපයා ගැනීම සම්බන්ධයෙන් එහි කොමසාරිස් ජනරාල් එම්.ජේ ගුණසිරි මහතා පළකළේ මෙවන් අදහසකි.
+
+...
+
+[Data](articles/72cef0c0.json)
+
+---
 
 ### A person killed from Switzerland to Sri Lanka
 
@@ -2587,97 +2667,5 @@ The relations of the missing persons have asked the parties, civil organizations
 [Data](articles/ad320030.json)
 
 [Extended Data](ext_articles/ad320030.ext.json)
-
----
-
-### UK Notting Hill Carnival chaos leaves 3 people stabbed, 90 arrested, 15 police officers assaulted
-
-*2024-08-26 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101520/uk-notting-hill-carnival-chaos-leaves-3-people-stabbed-90-arrested-15-police-officers-assaulted) · `en`
-
-Three people were stabbed during the first day of the Notting Hill Carnival, Europe’s biggest street festival, with a 32-year-old woman suffering “life-threatening” injuries, London’s Metropolitan Police Service said.
-
-More than 1 million people are expected to attend the carnival, a celebration of Afro-Caribbean culture that takes place every year on the streets of the Notting Hill neighborhood in west London. Some 7,000 police officers have been assigned to the event, which concludes Monday.
-
-Police said they made 90 arrests on Sunday, including 10 people who were detained for assaulting emergency workers, 18 for possession of offensive weapons and four for sexual offenses.
-
-“Hundreds of thousands of people came to Notting Hill Carnival today to enjoy a fantastic celebration,” the Met said in a statement. “Regrettably, a minority came to commit crime and engage in violence.”
-
-◼️
-
-[Data](articles/e8277d32.json)
-
-[Extended Data](ext_articles/e8277d32.ext.json)
-
----
-
-### The man who went to the water
-
-*2024-08-26 15:52:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீராட-சென்றவர்-மாயம்/175-342802) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-19-year-old Tarun Sandeep Dissanayake drowned while swimming with friends near Marawila Cross Church. He disappeared during a trip after completing a course in Kuliyapitiya.
-
-🟩
-
-A 19 -year -old youth who was drowned with a group of youths in a sea near the Marawila Cross Church has been drowned and disappeared, Marawila police said.
-
-Tarun Sandeep Dissanayake, a 19 -year -old youth from Ilappukamuwa, Welipanagahamulla and Kandewatta area, has disappeared.
-
-He is reported to have disappeared when he went to sea with a group of friends after completing the course at a private company in Kuliyapitiya.
-
-◼️
-
-[Data](articles/27058669.json)
-
-[Extended Data](ext_articles/27058669.ext.json)
-
----
-
-### Two passengers arrested with smuggled goods worth Rs. 40 million at BIA
-
-*2024-08-26 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101519/two-passengers-arrested-with-smuggled-goods-worth-rs-40-million-at-bia) · `en`
-
-Two passengers who arrived from India and were in possession of goods, valued at around Rs. 40 million, which were illegally smuggled into the country have been arrested at the Bandaranaike International Airport (BIA) in Katunayake this morning (26).
-
-A team of officers from the Criminal Investigation Department (CID) at the airport has seized these goods which included foreign liquor, various types of cigarettes, creams, vehicle spare parts, and surgical scissors.
-
-The arrested suspects are residents of the Grandpass area and the illegally smuggled goods along with the two arrestees have been handed over to the Sri Lanka Customs for further investigation.
-
-◼️
-
-[Data](articles/e2e527ad.json)
-
-[Extended Data](ext_articles/e2e527ad.ext.json)
-
----
-
-### People's assistance seeks to identify a suspect
-
-*2024-08-26 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200351) · `si`
-
-Sri Lanka police seek public help identifying suspects in Gemunupura shooting incident. Suspects fled after killing two men last August. Public urged to report any information to 025 225 5062.
-
-🟩
-
-Police call public assistance to identify a suspicious event.
-
-Two unidentified persons who came in the Gemunupura area in Gemunupura area last August were shot dead by two unidentified persons in Gemunupura.
-
-The Sri Pill Police have conducted further investigations have been identified.
-
-He has fled the area and requests the public to inform the police immediately to inform the police immediately.
-
-The suspect is the National Identity Card No. 850220751V of the At 87, Samaranagama and Avissawella.
-
-The number of Sri Pura Police Station can be informed to the number 025 225 5062.
-
-◼️
-
-[Data](articles/2139b374.json)
-
-[Extended Data](ext_articles/2139b374.ext.json)
 
 ---

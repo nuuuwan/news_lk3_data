@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 06:05:11**
+As of **2024-08-27 06:26:46**
 
 ## Newspaper Stats
 
-*Scraped **42,758** Articles*
+*Scraped **42,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 359
 newsfirstlk | 363
 bbccomsinhala | 395
 colombotelegraphcom | 409
-islandlk | 2,489
+islandlk | 2,498
 economynextcom | 2,584
 dailyftlk | 2,779
 adalk | 3,945
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,758 (100.0%) of 42,758 articles have been extended.
+42,758 (100.0%) of 42,767 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -565,6 +565,80 @@ The Department of Immigration and Emigration has also regretted the public incon
 [Data](articles/e4d0dc64.json)
 
 [Extended Data](ext_articles/e4d0dc64.ext.json)
+
+---
+
+### Unilever Sri Lanka cricket team crowned 2024 champions of Mercantile G Division Tournament
+
+*2024-08-26 22:49:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-cricket-team-crowned-2024-champions-of-mercantile-g-division-tournament/) · `en`
+
+In a thrilling finale, Unilever Sri Lanka emerged as the unbeaten champions of the Mercantile G Division Cricket Tournament, defeating Amazon Trading – English Tea Shop in an entertaining match played on 3rd August at the MCA Grounds. After a grueling league stage and an intense round of knockouts, Unilever’s cricket team showcased exceptional talent, teamwork, and determination to claim the coveted title for the first time.
+
+...
+
+[Data](articles/b032bc58.json)
+
+---
+
+### Ceylinco Cancer Centre acquires latest Siemens CT Simulator to enhance patient care
+
+*2024-08-26 22:49:00* · [`islandlk`](http://island.lk/ceylinco-cancer-centre-acquires-latest-siemens-ct-simulator-to-enhance-patient-care/) · `en`
+
+The Ceylinco Cancer Centre has acquired a state-of-the-art, AI-supported, CT Simulator from Siemens Healthcare GmbH of Germany, significantly enhancing the accuracy of the radiation therapy it offers, as well as the comfort of patients.
+
+A spokesman for the Centre said the acquisition of the CT Simulator entailed an investment of Rs 200 million, and that this is the only CT Simulator in Sri Lanka’s private healthcare sector that is dedicated exclusively for treatment planning, and would not be used for routine diagnostic scanning.
+
+...
+
+[Data](articles/f8514d8b.json)
+
+---
+
+### ‘AIA delivers excellent results in first half of 2024’
+
+*2024-08-26 22:47:00* · [`islandlk`](http://island.lk/aia-delivers-excellent-results-in-first-half-of-2024/) · `en`
+
+The Board of AIA Group Limited (the “Company”) announced the Group’s financial results for the six months ended June 30, 2024. Growth rates are shown on a constant exchange rate basis:
+
+Value of new business (VONB) up 25 per cent to a record high of US$2,455 million
+
+Sales up 17 per cent to US$4,546 million of annualised new premiums (ANP)
+
+New business profitability increased with VONB margin up 3.3 pps to 53.9 per cent
+
+Embedded value (EV) operating profit of US$5,350 million, up 29 per cent per share
+
+Operating ROEV of 16.5 per cent, increased from 12.9 per cent in full year 2023
+
+EV Equity of US$70.9 billion after capital returns to shareholders, up 5 per cent per share over the first half
+
+Operating profit after tax (OPAT) of US$3,386 million, up 10 per cent per share
+
+Operating ROE of 15.3 per cent, up from 13.5 per cent in full year 2023
+
+OPAT per share CAGR target of 9 to 11 per cent from 2023 to 2026
+
+Underlying free surplus generation (UFSG) of US$3,391 million, up 10 per cent per share
+
+...
+
+[Data](articles/7928af67.json)
+
+---
+
+### Browns Plantations voted Most Popular Corporate at Best Web Awards
+
+*2024-08-26 22:46:00* · [`islandlk`](http://island.lk/browns-plantations-voted-most-popular-corporate-at-best-web-awards/) · `en`
+
+Browns Plantations, one of Sri Lanka’s leading plantation companies and largest exporter of tea globally, recently added yet another accolade to its long line of local and international recognitions. The heritage company was awarded Most Popular Corporate Website at the annual BestWeb.LK Awards 2024 held by LK Domain Registry, marking a significant milestone in the entity’s increasing digital presence.
+
+In today’s ever-evolving electronic landscape, the necessity of hosting a website that successfully represents and communicates a company’s identity online, is all the more pivotal. Serving as Sri Lanka’s only web design competition since 2009, BestWeb.LK offers local websites a unique and competitive platform to evaluate their interfaces according to a stringent set of guidelines, while facilitating a space to showcase each one’s brand identity in an innovative way.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/8b2526c2.json)
 
 ---
 
@@ -2338,6 +2412,18 @@ The national popularity has aimed at building a developed humanitarian and warra
 
 ---
 
+### Electing a President: Dazzling Convention in Chicago. No Drama yet in Sri Lanka
+
+*2024-08-26 14:49:00* · [`islandlk`](http://island.lk/electing-a-president-dazzling-convention-in-chicago-no-drama-yet-in-sri-lanka/) · `en`
+
+“Marrying spectacle with seriousness” is the essence of the American genius. Both were in full display at the Democratic Party Convention in Chicago last week. For four days, the Democrats gathered at the United Centre (home to Chicago Bulls where Michael Jordan once dribbled and dazzled with the basketball) in a carnival atmosphere mixing serious politics with artsy entertainment, culminating on Thursday with Kamala Harris accepting the Party’s nomination as its presidential candidate and delivering the biggest speech so far of her suddenly soaring political life. The speech on Thursday was fittingly soaring, well scripted, and was delivered with aplomb, authority and eloquence.
+
+...
+
+[Data](articles/329fde8c.json)
+
+---
+
 ### The Sri Lankan nation wants a brave leader - the next leader without wisely
 
 *2024-08-26 14:48:22* · [`adalk`](https://www.ada.lk/breaking_news/නිර්භීත-නායකයෙකු-ශ්‍රී-ලාංකීය-ජාතියට-අවශ්‍යය---මීලඟ-නායකයා-ඥානාන්විතව-තොර-ගන්න/11-411565) · `si`
@@ -2499,143 +2585,5 @@ The deceased, a 36-year-old woman and her two sons aged 5 and 9, are residents o
 [Data](articles/f990edf8.json)
 
 [Extended Data](ext_articles/f990edf8.ext.json)
-
----
-
-### SLMC for voters from the Sri Lanka Catholic Bishop
-
-*2024-08-26 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200345) · `si`
-
-Sri Lanka Catholic Bishop Convention: Protects legislative independence, warns against false promises, emphasizes voting for ethical candidates respecting public values.
-
-🟩
-
-The Sri Lanka Catholic Bishop convention has been issued by the Presidential Election in this regard.
-
-The voters and presidential candidates have also made the responsibilities and their duties.
-
-The country is confident that the country needs to protect the independence of the legislature, the executive and the judiciary.
-
-Therefore, the Sri Lanka Catholic Bishop Summit points out that the people are importing intelligently to use the political culture that protects the political culture of protecting and support powers.
-
-The Sri Lanka Catholic Bishop is requested to protect voters and devour the voters, to avoid false promises.
-
-The announcement emphasized that the election law violators will rule with the honest and reasonable country.
-
-The Sri Lanka Catholic Bishop Summit requests all registered voters to vote for the electoral ethics of the people, respectfully based on the values ​​of the people, respecting the combination of the people.
-
-◼️
-
-[Data](articles/139cb1b1.json)
-
-[Extended Data](ext_articles/139cb1b1.ext.json)
-
----
-
-### Gota in five ministerial portfolios and 5 of the 5 Ministers of the Cabinet
-
-*2024-08-26 13:46:55* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨා-ආණ්ඩුවේ-නාමල්ට-ඇමතිකම්-05යි--කැබිනට්ටුවේ-5න්-1ක්ම-රාජපක්ෂවරු/11-411564) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's opposition leader Sajith Premadasa criticizes government handling of economy during COVID-19 pandemic. He praises President Ranil Wickremesinghe as capable leader.
-
-🟩
-
-Opposition Leader Sajith Premadasa, the opposition leader Sajith Premadasa, is not going to talk about the future of the country and children if the tip of the tip of the tip of the FAILITY.
-
-The Minister emphasizes that President Ranil Wickremesinghe is the only leader who can hand over the future of the country at the moment.
-
-He was speaking at the opening of the election campaign in the Divulapitiya electorate in the Divulapitiya electorate yesterday (25).
-
-"We had a power of 2/3 of Parliament. When the work started, a global epidemic caused an economic crisis. We could not be able to recover the economy.
-
-We were in the cabinet that day. President Gotabhaya Rajapaksa had Gotabhaya Rajapaksa. Prime Minister Mahinda Rajapaksa had. He had Minister of Finance Minister Basil Rajapaksa.
-
-...
-
-[Data](articles/b30b895c.json)
-
-[Extended Data](ext_articles/b30b895c.ext.json)
-
----
-
-### IMF cannot speak for bilateral, multilateral partners: Sri Lanka president
-
-*2024-08-26 13:40:00* · [`economynextcom`](https://economynext.com/imf-cannot-speak-for-bilateral-multilateral-partners-sri-lanka-president-178056/) · `en`
-
-ECONOMYNEXT — The International Monetary Fund (IMF) cannot speak for the 20 countries and multilateral agencies that Sri Lanka has entered into agreements with, so there is no point approaching the IMF for renegotiation, President Ranil Wickremesinghe said.
-
-“We have now come to some stability. We have entered agreements with 18 countries, the World Bank and the Asian Development Bank (ADB). The first approval was given to the IMF. It didn’t end there. We then had to talk to China and other countries. We have to work according to this,” Wickremesinghe said speaking at an event in Colombo on Sunday August 25.
-
-Wickremesinghe said Sri Lanka has to raise 5 trillion rupees in revenue in 2025.
-
-“If you promise to reduce taxes and give this or that free in your election campaigns, this agreement is broken,” he said.
-
-“You have to find money elsewhere. If you reduce value added tax (VAT), you have to raise income tax,” he added.
-
-...
-
-[Data](articles/035ceaf8.json)
-
-[Extended Data](ext_articles/035ceaf8.ext.json)
-
----
-
-### Sri Lanka promotes Ramayana Trail in Malaysia eyeing tourism growth
-
-*2024-08-26 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101514/sri-lanka-promotes-ramayana-trail-in-malaysia-eyeing-tourism-growth) · `en`
-
-The High Commission of Sri Lanka in Kuala Lumpur has hosted a fruitful engagement with the Malaysian Indian Tour & Travel Association (MITTA), in order to explore avenues for promoting the Ramayana Trail tourism in Malaysia.
-
-MITTA, which encompasses over 200 Indian-Malaysian travel and tour agencies, plays a pivotal role in advancing outbound and inbound tourism, with a particular focus on Tamil-speaking travelers, the Sri Lankan High Commission in Kuala Lumpur said in a statement.
-
-Accordingly, the High Commissioner of Sri Lanka Air Chief Marshal (Rtd.) Sumangala Dias met with MITTA representatives and built upon discussions previously initiated with the Kuala Lumpur Selangor Indian Chamber of Commerce and Industry (KLSICCI) in July 2024, the statement mentioned.
-
-...
-
-[Data](articles/01736d8a.json)
-
-[Extended Data](ext_articles/01736d8a.ext.json)
-
----
-
-### Universal Fernando: The Silent Savior of the Sri Lankan Cricket Team
-
-*2024-08-26 13:27:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg4ynv4004wo) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Thilina Fernando, born Sept 18, 1991, is a fast bowler for Sri Lanka. He made his Test debut in 2016 vs Australia. Fernando took 12 wickets in South Africa in 2019, including 4/4 in his best performance. He helped Sri Lanka win against South Africa in 2019 and Zimbabwe in 2020. Fernando's brother, Wanadiyadu, plays ODIs and T20s for Sri Lanka.
-
-🟩
-
-Universal Fernando: The Silent Savior of the Sri Lankan Cricket Team
-
-As a fast bowler, he has a batsman and the Sri Lankan team contributed to many situations when the Sri Lankan team fallen difficulty.
-
-The player is often used in the media, a part of Sri Lanka's historical achievement five years ago.
-
-It is universal Fernando in the name of the Sri Lanka Test squad for eight years.
-
-What is the mission not only as a bowler but also for the Sri Lankan team?This BBC is a search for the Sinhala service.
-
-Born in Colombo on September 18, 1991, the universal Thilina Fernando was educated at St. Sebastian's College, Moratuwa.
-
-He represented the Bloomfield Sports Club, representing the Bloomfield Sports Club, representing the Bloomfield sports club in the first year.
-
-Universal Fernando, who was played for 117 in the first class matches, had won 318 wickets in 192.
-
-His best bowling in the first markets is to be taken to alleviate 9 wickets for 88 runs.
-
-...
-
-[Data](articles/02d2628d.json)
-
-[Extended Data](ext_articles/02d2628d.ext.json)
 
 ---

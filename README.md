@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 23:06:50**
+As of **2024-08-27 23:21:44**
 
 ## Newspaper Stats
 
-*Scraped **42,927** Articles*
+*Scraped **42,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 398
 colombotelegraphcom | 413
 islandlk | 2,501
-economynextcom | 2,586
+economynextcom | 2,594
 dailyftlk | 2,779
 adalk | 3,971
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,927 (100.0%) of 42,927 articles have been extended.
+42,927 (100.0%) of 42,935 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -716,6 +716,30 @@ However, it is ready to buy the Government's at Rs.. Therefore, he said he expec
 
 ---
 
+### Sri Lanka expects US$1.36bn from IMF, IFIs for 2025 budget, $3.65bn debt relief
+
+*2024-08-27 18:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-us1-36bn-from-imf-ifis-for-2025-budget-3-65bn-debt-relief-178180/) · `en`
+
+ECONOMYNEXT – Sri Lanka is expecting 1,363 million US dollars under an International Monetary Fund program which is also backed by the Asian Development Bank in 2025, Minister Bandula Gunawardana said.
+
+From the International Monetary Fund 663 million dollars is expected, he said at a post cabinet briefing Tuesday. Typically there are two reviews in each year under the program.
+
+Another 400 million dollars is expected from World Bank for the budget in 2025 and 300 million dollars from the Asian Development Bank, he said.
+
+In addition, debt relief of 3,655 million US dollars is expected, he said.
+
+This adds up to fill an external resource gap calculated as 5,018 million US dollars Minister Gunawardana said.
+
+Sri Lanka however is also expected to collect foreign reserves under the IMF deal.
+
+In the Board approved program that runs up to March 2025, about 250 million dollars in foreign reserves have to be collected under a net international reserve target for the first quarter.
+
+...
+
+[Data](articles/9d7ea984.json)
+
+---
+
 ### A Chinese military aircraft in Japanese sky
 
 *2024-08-27 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200394) · `si`
@@ -781,6 +805,26 @@ The Bribery Allegations Investigation Commission (Investigation Commission) stat
 [Data](articles/73152f96.json)
 
 [Extended Data](ext_articles/73152f96.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 300.00/30, bond yields steady
+
+*2024-08-27 17:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-00-30-bond-yields-steady-178168/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 300.00/30 to the US dollar on Tuesday, from 300.80/301.20 on Monday, dealers said, while bond yields closed broadly steady from morning.
+
+A bond maturing on 15.12.2026 closed down at 10.90/11.15 percent, from 11.00/15 percent.
+
+A bond maturing on 01.07.2028 closed at 12.50/55 percent, down from 12.55/65 percent.
+
+A bond maturing on 15.06.2029 closed at 12.70/80 percent, up from 12.65/80 percent.
+
+The Central Bank announced 100,000 million rupees Treasury bills are to be issued through an auction on August 28. (Colombo/Aug27/2024)
+
+◼️
+
+[Data](articles/2c5116ab.json)
 
 ---
 
@@ -861,6 +905,28 @@ With tuberculosis cases on the rise in Kandy, Dr. Jayasinghe urged the public to
 [Data](articles/bc0371d3.json)
 
 [Extended Data](ext_articles/bc0371d3.ext.json)
+
+---
+
+### Sri Lanka stocks close down, turnover remains low
+
+*2024-08-27 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-remains-low-178163/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 0.95 percent, or 106.10 points, at 11,093; while the more liquid S&P SL20 Index closed down 1.26 percent, or 40.15 points, at 3,148.
+
+Top turnover generators were John Keells Holdings Plc (down at 174.50), Ceylon Cold Stores Plc (down at 52.50), Commercial Bank of Ceylon Plc (down at 89.30) and Nations Trust Bank Plc (down at 114.50).
+
+Foreign buying was seen in Ceylon Cold Stores, People’s Leasing and Finance Plc (down at 11.70), Hatton National Bank Plc (down at 173.50) and L B Finance Plc (down at 64.00).
+
+Foreign selling was seen in Browns Investments Plc (up at 5.10), First Capital Holdings Plc (down at 27.30), hSenid Business Solutions Plc (up at 11.00), and Sigiriya Village Hotels Plc (down at 34.00).
+
+Top contributors to the ASPI were Cargills (Ceylon) Plc (up at 383.25), Browns Investments and SMB Finance Plc (up at 0.60).
+
+◼️
+
+[Data](articles/e59f5a3e.json)
 
 ---
 
@@ -959,6 +1025,24 @@ Preliminary investigations by the police revealed that the iron garbage basket w
 [Data](articles/e2a2fb35.json)
 
 [Extended Data](ext_articles/e2a2fb35.ext.json)
+
+---
+
+### Sri Lanka hikes fertilizer subsidy to small paddy farmers ahead of polls
+
+*2024-08-27 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-hikes-fertilizer-subsidy-to-small-paddy-farmers-ahead-of-polls-178160/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved raising a fertilizer subsidy to small paddy farmers to 25,000 rupees an acre from an earlier planned 15,000 rupees, Minister Bandula Gunawardana said.
+
+Agricultural Minister Mahinda Amaraweera had requested that a higher amount be paid to help start the upcoming Maha (main) cultivation season, he said.
+
+The money will be credited directly to bank accounts of farmers, he said.
+
+The cabinet earlier this month decided to pay 15,000 rupees per acre for up to two acres for small paddy farmers for the current cultivation season. (Colombo/Aug27/2024)
+
+◼️
+
+[Data](articles/e518391e.json)
 
 ---
 
@@ -1349,6 +1433,26 @@ The SLPP’s Presidential Candidate stated that certain leaders think that the �
 [Data](articles/5f450547.json)
 
 [Extended Data](ext_articles/5f450547.ext.json)
+
+---
+
+### SJB govt will take measures to alleviate Sri Lanka’s poverty within two years: Sajith
+
+*2024-08-27 15:10:00* · [`economynextcom`](https://economynext.com/sjb-govt-will-take-measures-to-alleviate-sri-lankas-poverty-within-two-years-sajith-178158/) · `en`
+
+ECONOMYNEXT — Sri Lanka opposition leader and presidential candidate Sajith Premadasa has said a government under him will take measures to alleviate poverty within two years.
+
+Speaking at an election rally, Premadasa said a Samagi Jana Balawegaya (SJB) government will introduce a bottom-up programme to provide a monthly allowance of 20,000 rupees over a period of 24 months to families identified as poor.
+
+“There will be a new programme to salvage this country’s poor from poverty within 24 months. I would like to state here that under this bottom-up programme, every poor family will receive 20,000 rupees a month for 24 months, and poor people will be salvaged from poverty within two years,” said Premadasa.
+
+“We will definitely work for the development of you all, to strengthen your livelihood,” he said.
+
+News footage from the SJB rally did not show Premadasa elaborate on how the programme would be funded.
+
+...
+
+[Data](articles/b1c4852e.json)
 
 ---
 
@@ -1884,6 +1988,26 @@ Same Assistant Medicine, Voluntary Guidance Manjula Gunasiri, Voluntary Guide Ma
 
 ---
 
+### Sri Lanka tax agency issues 4.7 mn TIN, opens over 500,000 tax files in 2024
+
+*2024-08-27 13:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-agency-issues-4-7-mn-tin-opens-over-500000-tax-files-in-2024-178156/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Inland Revenue Department (IRD), which is in charge of income tax collection, has issued 4.7 million Taxpayers Identification Numbers (TIN) and seen number of total new tax files more than doubling up to end July this year, a top official said.
+
+Sri Lanka has set an ambitious government revenue target of over 4 trillion rupees for this year, more than a quarter higher than 2023.
+
+The government has made obtaining a TIN for every Sri Lankan who is above 18 years from January 1 this year.
+
+Despite practical difficulties, the IRD said it has opened TIN for 4.7 million people in the first seven months of the year.
+
+“We open TIN in bulk like 10,000 at once. There is a stringent verification process including name and address proofs,” B.K. Saman Shantha, Deputy Commissioner General, ​in charge of Tax Policy, International Affairs and Legal at the  IRD told reporters at a media briefing in Colombo.
+
+...
+
+[Data](articles/10566a73.json)
+
+---
+
 ### The boat toppled;Two Indian fishermen magic
 
 *2024-08-27 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/192117) · `ta`
@@ -1947,6 +2071,24 @@ Accordingly, the Cabinet has approved the proposal submitted by the Minister of 
 [Data](articles/45569dcd.json)
 
 [Extended Data](ext_articles/45569dcd.ext.json)
+
+---
+
+### Sri Lanka cabinet approves borrowing $200mn World Bank
+
+*2024-08-27 13:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-borrowing-200mn-world-bank-178144/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved borrowing 200 million US dollars from the World Bank through a development policy loan, Minister Bandula Gunawardana said.
+
+The loan is linked to reforms under an International Monetary Fund program, Gunawardana said.
+
+The loan is part of 400 million dollar of which the first part is complete, he said.
+
+The cabinet approved signing the loan agreement after a proposal presented by President Ranil Wickremesinghe as Finance Minister. (Colombo/Aug27/2024)
+
+◼️
+
+[Data](articles/b3e5db10.json)
 
 ---
 
@@ -2322,184 +2464,16 @@ Later, the court also ordered to obtain the fingerprints of the defendant Diana 
 
 ---
 
-### Today's currency exchange rate
+### Sri Lanka launches Climate-Smart Agriculture Investment Plan with FAO
 
-*2024-08-27 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/192108) · `ta`
+*2024-08-27 12:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-climate-smart-agriculture-investment-plan-with-fao-178141/) · `en`
 
-US dollar exchange rate: 296.3680 INR buying, 305.6146 selling on August 27.
+ECONOMYNEXT —  Sri Lanka has commenced the formulation of its first Climate-Smart Agriculture (CSA) Investment Plan funded by the Green Climate Fund (GCF) and implemented by the Food and Agriculture Organisation of the United Nations (FAO) in partnership with the Ministry of Environment and Ministry of Agriculture.
 
-🟩
-
-The US dollar purchasing price was 296.3680 rupees and the sales price at Rs 305.6146 on Tuesday (August 27).
-
-◼️
-
-[Data](articles/9bf28854.json)
-
-[Extended Data](ext_articles/9bf28854.ext.json)
-
----
-
-### A significant growth of the people who have the favor of the other and the president
-
-*2024-08-27 12:09:55* · [`adalk`](https://www.ada.lk/breaking_news/අනුරට-හා-ජනපතිට-ඇති-ජනතා-හිතකරත්වයේ-කැපී-පෙනෙන-වර්ධනයක්/11-411581) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Public approval ratings: President +40, Opposition Leader +42, Anura Kumara Dissanayake +3; Sajith Premadasa -42; Ranil Wickremesinghe -24.
-
-🟩
-
-The people's favorable to July, the leader's favorable to July, the leader of the National July, has increased significantly on July on July.
-
-Accordingly, the favor of the people's favorable to him rose 29 runs in June and scored three positive runs.
-
-Meanwhile, there has become another cuttings. President Ranil Wickremesinghe has risen by 40 runs marks and have become 24 to the negative marks.
-
-People's favorable to Sajith Premadasa has risen to 42 Negative marks in July compared to June.
-
-Anura Kumara Dissanayake has become the only party leader with positive people's favorable people.
-
-◼️
-
-[Data](articles/d6800b55.json)
-
-[Extended Data](ext_articles/d6800b55.ext.json)
-
----
-
-### Train crashes
-
-*2024-08-27 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/192098) · `ta`
-
-Train crash kills one in Vaskaduwa, Kalutara North. Collision between two trains on Monday.
-
-🟩
-
-A train collision in the Vaskaduwa area belonging to the Kalutara North Police Division has been killed, police said.
-
-The man was killed when a train collided with a train from Mahavi to Beliatta on Monday (26).
-
-◼️
-
-[Data](articles/4a062127.json)
-
-[Extended Data](ext_articles/4a062127.ext.json)
-
----
-
-### A fierce jail for former minister AHM Bouzi
-
-*2024-08-27 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/192105) · `ta`
-
-Former minister AHM Bouzi sentenced to 10 years imprisonment and fined Rs 4 lakh for misusing jeep for disaster management center.
-
-🟩
-
-The Colombo High Court has ordered the former minister and a Muslim parliamentarian AHM Pouzi for 10 years and a fine of 2 years in prison and a fine of Rs 4 lakh.
-
-The order was issued after the Netherlands government had been convicted of charging a loss of more than 10 lakhs of rupees by using a jeep carriage to the Disaster Management Center for the Disaster Management Center.
-
-◼️
-
-[Data](articles/e7b79289.json)
-
-[Extended Data](ext_articles/e7b79289.ext.json)
-
----
-
-### Fauzi suspended to pay a fine of Rs.
-
-*2024-08-27 11:40:27* · [`adalk`](https://www.ada.lk/breaking_news/ෆවුසිට-අත්හිටවූ-සිරදඬුවම්---ලක්ෂ-04ක-දඩයක්-ගෙවීමටත්-නියෝග/11-411580) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Colombo High Court suspends MP Fauzi for 2 years jail and fine for personal vehicle misuse.
-
-🟩
-
-The Colombo High Court today (27), the Colombo High Court today (27), the Colombo High Court today (27) was appointed to suspend the suspension of 2 years in jail MP.
-
-The accused is also a fine of Rs.
-
-The order was made when the official vehicle was taken up for their personal use of nearly Rs.
-
-◼️
-
-[Data](articles/4d37889a.json)
-
-[Extended Data](ext_articles/4d37889a.ext.json)
-
----
-
-### Diana is handing over to Diana, who submitted a cult
-
-*2024-08-27 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200380) · `si`
-
-State Minister Diana Gamage handed over to Danayana Gamage for passport issue. Case before Colombo High Court Judge Manjula Tilakaratne. Court orders fingerprint collection from defendant.
-
-🟩
-
-Former State Government Minister Diana Gamage was handed over to former State Minister Danayana Gamage regarding the obtaining a Sri Lankan passport to obtain a bug.
-
-These allegations have taken place before Colombo High Court Judge Manjula Tilakaratne.
-
-Thereafter, the court has also ordered that the fingerprints of the defendant Dianey Gamage.
-
-◼️
-
-[Data](articles/24a10cd6.json)
-
-[Extended Data](ext_articles/24a10cd6.ext.json)
-
----
-
-### Ex-Minister A.H.M. Fowzie given suspended sentence over misuse of ministry vehicle
-
-*2024-08-27 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101536/ex-minister-ahm-fowzie-given-suspended-sentence-over-misuse-of-ministry-vehicle) · `en`
-
-The Colombo High Court has sentenced former Minister A. H. M. Fowzie for two years of rigorous imprisonment and suspended it for 10 years after he pleaded guilty over the charge of misusing a vehicle belonging to the Ministry of Disaster Management.
-
-The court also imposed a fine of Rs.400,000 on the former Minister, when the case was taken up today (27), Ada Derana reporter said.
-
-Former Minister Fowzie was charged over the possession and personal use of a luxury vehicle worth nearly Rs. 20 million received from the Netherlands to the Disaster Management Ministry, while serving as the Minister of Disaster Management in 2010.
-
-Furthermore, he was found guilty of persuading the officials including the Ministry Secretary and spending nearly Rs 1 million from the Finance Ministry’s funds for the maintenance of the vehicle.
-
-However, Fowzie had pleaded guilty for the charges through his attorney, when the case was taken up for hearing today.
+The FAO said in a statement on Tuesday August 07 that the initiative aims to develop a comprehensive strategy to safeguard the country’s agricultural sector from the adverse impacts of climate change.
 
 ...
 
-[Data](articles/b8534fe9.json)
-
-[Extended Data](ext_articles/b8534fe9.ext.json)
-
----
-
-### Australia introduces cap on international students
-
-*2024-08-27 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101535/australia-introduces-cap-on-international-students) · `en`
-
-Australia will introduce a cap on the number of new international students it accepts, as it tries to reduce overall migration to pre-pandemic levels.
-
-The nation has one of the biggest international student markets in the world, but the number of new enrolments will be limited to 270,000 for 2025.
-
-Each higher education institution will be given an individual restriction, the government announced on Tuesday, with the biggest cuts to be borne by vocational education and training providers.
-
-The change has angered the tertiary education industry, with some universities calling it “economic vandalism”, but Canberra says it will improve the quality and longevity of the sector.
-
-Australia is host to about 717,500 international students, according to the latest government figures from early 2024.
-
-Education Minister Jason Clare acknowledged that higher education was hard-hit during the pandemic, when Australia sent foreign students home and introduced strict border controls.
-
-...
-
-[Data](articles/46aac25b.json)
-
-[Extended Data](ext_articles/46aac25b.ext.json)
+[Data](articles/e7bcc009.json)
 
 ---

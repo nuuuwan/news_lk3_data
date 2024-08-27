@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 21:21:41**
+As of **2024-08-27 21:37:20**
 
 ## Newspaper Stats
 
-*Scraped **42,916** Articles*
+*Scraped **42,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 410
 islandlk | 2,501
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,969
+adalk | 3,970
 dailymirrorlk | 4,733
 adaderanalk | 5,049
 tamilmirrorlk | 5,595
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,915 (100.0%) of 42,916 articles have been extended.
+42,916 (100.0%) of 42,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Fairly strong winds of about 30-40 kmph can be expected at times over Northern, 
 ...
 
 [Data](articles/498f7767.json)
+
+[Extended Data](ext_articles/498f7767.ext.json)
 
 ---
 
@@ -323,6 +325,24 @@ Steps will be taken to build a declined agriculture due to the infection of the 
 [Data](articles/d5e65c1b.json)
 
 [Extended Data](ext_articles/d5e65c1b.ext.json)
+
+---
+
+### පොහොර සහනාධාරය රු. 25000ක් දක්වා ඉහළට
+
+*2024-08-27 19:09:58* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-රු--25000ක්-දක්වා-ඉහළට/11-411595) · `si`
+
+එළඹෙන මහ කන්නයේදී වැඩි වී අස්වැන්නක් ලබා ගැනීමට හැකි වන පරිදි, සහ වී වගාව සඳහා ගොවීන් දිරිගැන්වීම පිණිස හෙක්ටයාර් එකක් සඳහා ගෙවනු ලබන පොහොර සහනාධාරය රුපියල් 25,000ක් දක්වා වැඩි කිරීමට  කටයුතුකළ බව ජනමාධ්‍ය, ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කළේය.
+
+අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේ අද (27) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේ දී ය.
+
+ගොවින් සඳහා දැනට හෙක්ටයාරයකට රුපියල් 15,000 ක් ගෙවනු ලැබේ. පසුගිය සතියේ ඉදිරිපත් කළ එම යෝජනාව සංශෝධනය කරමින් පොහොර සහනාධාරය  මෙලෙස හෙක්ටයාරයකට රුපියල් 25,000 ක් දක්වා වැඩි කර තිබේ.
+
+2024/25 මහා කන්නය සඳහා ස්ටේට් ෆර්ටිලයිසර් කම්පැනි ලිමිටඩ් මඟින් සහ පුද්ගලික අංශය මඟින් පොහොර ආනයනය කර වී වගාව සහ අනිකුත් වී වගාවන් සඳහා වගා කරන ලද උපරිම හෙක්ටයාරයකට රුපියල් 15,000 බැඟින් මුල්‍ය සහනාධාරයක් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව මඟින් ලබා ලබා දීමට  කටයුතු කරන බව පසුගිය සතියේ කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය සාකච්ඡාවේ දී සඳහන් කළේය.
+
+◼️
+
+[Data](articles/6dea8b89.json)
 
 ---
 
@@ -2509,37 +2529,5 @@ Therefore, to succeed in the competitive labor market, it must be done to develo
 [Data](articles/c45c3ddd.json)
 
 [Extended Data](ext_articles/c45c3ddd.ext.json)
-
----
-
-### 341 fishermen in 8 months
-
-*2024-08-27 10:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-மாதங்களில்-341-மீனவர்கள்-சிறைப்பிடிப்பு/175-342851) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lankan navy arrested 341 Tamil Nadu fishermen since Jan. 8 arrested last week near Mannar coast. Weather conditions prevented fishing for a week. Arrested men may face trial in Mannar court.
-
-🟩
-
-Sri Lankan navy arrested 8 fishermen. Sri Lankan navy has arrested 341 Tamil Nadu fishermen from January to the present.
-
-Rameshwaram fishermen have not gone to sea for the past one week due to the tornadoes blowing in the Gulf of Mannar and the Bagh Strait of Ramanathapuram district.
-
-More than two thousand fishermen went to sea from the Rameshwaram fishing port following the weather condition on Monday (26).
-
-Kingson (40), McCons (37), Raj (43), Inasi Raja (45), Sasi (40), Mariappan (45), Slave (33), Muniyaraj (23)While eight people were fishing, the Sri Lankan navy arrested them for allegedly crossing the border.
-
-The arrested fishermen were taken to the Talaimannar naval camp. It is likely that they will be produced before the Mannar court this afternoon and will be taken to the Vavuniya jail.
-
-Earlier, from January to the present, the Sri Lankan navy has arrested 341 fishermen who captured 46 Tamil Nadu fishermen.
-
-◼️
-
-[Data](articles/f4b4d8ea.json)
-
-[Extended Data](ext_articles/f4b4d8ea.ext.json)
 
 ---

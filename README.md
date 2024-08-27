@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 00:36:54**
+As of **2024-08-28 01:06:44**
 
 ## Newspaper Stats
 
-*Scraped **42,941** Articles*
+*Scraped **42,942** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 359
 newsfirstlk | 363
 bbccomsinhala | 398
-colombotelegraphcom | 413
+colombotelegraphcom | 414
 islandlk | 2,501
 economynextcom | 2,594
 dailyftlk | 2,779
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,941 (100.0%) of 42,941 articles have been extended.
+42,941 (100.0%) of 42,942 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -739,6 +739,22 @@ President Ranil Wickremesinghe, SJB leader Sajith Premadasa and National People'
 [Data](articles/4e1033f1.json)
 
 [Extended Data](ext_articles/4e1033f1.ext.json)
+
+---
+
+### Knowing When To Step Aside: Mark Of True Leadership
+
+*2024-08-27 19:04:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/knowing-when-to-step-aside-mark-of-true-leadership/) · `en`
+
+Presidential aspirant Wickremesinghe’s recent appeal to Sri Lankans to vote for the Gas Cylinder symbol, with the ominous warning that failure to do so will result in long queues for essentials, reflects a troubling mindset.
+
+This statement, which seems to equate the temporary resolution of gas shortages with his qualification to lead the nation, is out of touch and a poor Marcom strategy. It suggests that Wickremesinghe and his advisors believe that merely avoiding crises is enough to secure the presidency, ignoring the deeper, more pressing needs of the country.
+
+Wickremesinghe’s approach is similar to his previous attempts to appeal to the masses with shallow gestures, such as his infamous offer of chewing gum to farmers, a tone-deaf proposal that highlighted his disconnection from the realities of rural life.
+
+...
+
+[Data](articles/de4c8125.json)
 
 ---
 
@@ -2469,29 +2485,5 @@ With this recent apprehension, the Sri Lanka Navy says it has seized a total of 
 [Data](articles/fcd723e3.json)
 
 [Extended Data](ext_articles/fcd723e3.ext.json)
-
----
-
-### 23 arrested in Kattankudi
-
-*2024-08-27 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/192101) · `ta`
-
-23 arrested in Kattankudi police raid. 63-year-old among detainees. Cases heard at Batticaloa Magistrate's Court. Further investigation ongoing.
-
-🟩
-
-Kattankudy Police Station Respondent Officer G.. Said Gajanayake.
-
-They have been arrested during a sudden round of surrounding areas carried out by the police in the areas of Kattankudy police division including Kattankudi, Arayambathi, Pudukkudiyiruppu and Navakkuda.
-
-A 63 -year -old man has been arrested in Karbala area.
-
-Subsequently, the arrested persons have been produced before the Batticaloa Magistrate's Court on Tuesday (27) and the Kattankudy police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/81dfc68e.json)
-
-[Extended Data](ext_articles/81dfc68e.ext.json)
 
 ---

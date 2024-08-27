@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 16:54:48**
+As of **2024-08-27 17:06:37**
 
 ## Newspaper Stats
 
-*Scraped **42,872** Articles*
+*Scraped **42,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 2,586
 dailyftlk | 2,779
 adalk | 3,961
 dailymirrorlk | 4,733
-adaderanalk | 5,044
-tamilmirrorlk | 5,590
+adaderanalk | 5,045
+tamilmirrorlk | 5,591
 virakesarilk | 6,808
-adaderanasinhalalk | 7,343
+adaderanasinhalalk | 7,346
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,869 (100.0%) of 42,872 articles have been extended.
+42,872 (100.0%) of 42,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### தேர்தல் தொடர்பாக நாளை பேச்சு
+
+*2024-08-27 16:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பாக-நாளை-பேச்சு/175-342877) · `ta`
+
+உள்ளூராட்சி மன்றத் தேர்தலுக்கான வேட்புமனுக்களை இரத்துச் செய்யும் அதிகாரம் தமக்கு இல்லை என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது .
+
+மேலும் , உள்ளூராட்சி மன்றத் தேர்தலை நடத்துவது தொடர்பில் ஆணைக்குழு புதன்கிழமை (28) அன்று கலந்துரையாடவுள்ளதாக அதன் தவிசாளர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்தார்.
+
+◼️
+
+[Data](articles/5c491fa2.json)
+
+---
+
+### “We can’t come out from the existing IMF program” – AKD
+
+*2024-08-27 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101549/we-cant-come-out-from-the-existing-imf-program-akd) · `en`
+
+Anura Kumara Dissanayake, leader of National People’s Power alliance and its presidential candidate, says he’s serving those who were part of public protests that ousted then-President Gotabaya Rajapaksa in 2022.
+
+“The people of our country have a great expectation for a change” Dissanayake told The Associated Press. “They wanted a change and we are the agents of that change. All the other candidates are the agents of the old, failed, traditional system.”
+
+Dissanayake says the people’s wishes for a change were not realized because the protesters did not have a plan beyond ousting the president and weren’t equipped to take charge.
+
+Dissanayake says his administration can be the change people want: a sound economy in a corruption-free society.
+
+...
+
+[Data](articles/7efcc2f2.json)
+
+---
 
 ### SJB’s election manifesto to be launched on Thursday
 
@@ -51,6 +83,52 @@ Speaking at a rally in Trincomalee, Premadasa outlined his vision for governance
 ...
 
 [Data](articles/07ce9285.json)
+
+[Extended Data](ext_articles/07ce9285.ext.json)
+
+---
+
+### ජනපතිගේ ප්‍රතිපත්ති ප්‍රකාශය බ්‍රහස්පතින්දා
+
+*2024-08-27 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200390) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය බ්‍රහස්පතින්දා (29) එළිදක්වන බව වාර්තා වෙයි.
+
+"පුළුවන් ශ්‍රී ලංකා" යන තේමාව මුල්කර ගනිමින් එම ප්‍රතිපත්ති ප්‍රකාශය සකස් කොට තිබේ.
+
+රට බංකොලොත් භාවයෙන් මුදාගෙන ආර්ථික සමෘද්ධිය කරා ගෙන යෑමේ මූලික පියවර තැබීම සහ ක්‍රම ක්‍රමයෙන් රට දියුණු රාජ්‍යයක් කරා රැගෙන යෑමේ සැලසුම් "පුළුවන් ශ්‍රී ලංකා" ප්‍රතිපත්ති ප්‍රකාශයට ඇතුළත් කර ඇති බව සඳහන් ය.
+
+ශ්‍රී ලංකාවේ සියලු ජන කොටස්වලට යහපත් රටක් ගොඩනැගීම "පුළුවන් ශ්‍රී ලංකා" ප්‍රතිපත්ති ප්‍රකාශයේ මූලික අරමුණක් බව රජයේ ජ්‍යෙෂ්ඨ ප්‍රකාශකයෙක් පැවසීය.
+
+ඉතිහාසයේ දැවැන්තම ආර්ථික අර්බුදයට මුහුණ දුන් ශ්‍රී ලංකාව ක්‍රම ක්‍රමයෙන් යථා තත්ත්වයට ගැනීමෙන් පසු තවත් ඉදිරිගාමී පියවරක් තැබීම වෙනුවෙන් ජනාධිපතිවරයාගේ ප්‍රතිපත්ති ප්‍රකාශය අවධානය යොමු කර තිබෙන බවද ඔහු  කීය.
+
+මේ අතර සමගි ජන සන්ධානයේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය ද අනිද්දා (29) නිකුත් කිරීමට නියමිතව තිබේ.
+
+සමගි ජනබලවේගයේ ජ්‍යෙෂ්ඨ උප සභාපති සුජීව සේනසිංහ මහතා පැවසුවේ, අදාළ ප්‍රතිපත්ති ප්‍රකාශයේ සැලසුම් සියල්ල මේ වනවිට අවසන් කර ඇති බවය.
+
+◼️
+
+[Data](articles/07870611.json)
+
+---
+
+### මහනුවර නගරයෙන් ක්ෂය රෝගීන් 50ක් හමුවෙයි
+
+*2024-08-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200389) · `si`
+
+මෙම වසරේ ජනවාරි සිට මේ දක්වා මහනුවර නගරයෙන් ක්ෂය රෝගීන් 50ක් හඳුනාගත් බව මහනුවර ප්‍රධාන නාගරික වෛද්‍ය නිලධාරී පසන් ජයසිංහ මහතා පවසයි.
+
+මහනුවර නාගරික සීමාව තුළ ප්‍රධාන බෝ වන රෝග තර්ජනය ඩෙංගු නොව ක්ෂය රෝගය බවද හෙතෙම කියා සිටියේය.
+
+ඩෙංගු රෝගීන් දින 06ක් ඇතුළත හඳුනාගැනීම සහ ප්‍රතිකාර සඳහා යොමු කිරීම සිදු කෙරුණ ද ක්ෂය රෝගීන් මාස 06ක කාලයක් තුළ හඳුනාගත නොහැකි වන බවද මහනුවර ප්‍රධාන නාගරික වෛද්‍ය නිලධාරී පසන් ජයසිංහ මහතා පැවසීය.
+
+නිතර පවතින කැස්ස, සෙම, සිරුරේ අප්‍රාණික භාවය, කෑම අරුචිය ආදී රෝග ලක්ෂණ පවතින පුද්ගලයන් ඒ සඳහා කෙටි කාලීන ප්‍රතිකාර සඳහා යොමුවීම තුළින් ඍජුව ක්ෂය රෝගයට ප්‍රතිකාර නොලැබෙන බවත් රෝගය තවදුරටත් ව්‍යාප්තවීමට ඉඩ ඇති බවත් වෛද්‍ය ජයසිංහ මහතා තවදුරටත් කියා සිටියේය.
+
+දැනට මහනුවර නගරය ආශ්‍රිතව ක්ෂය රෝගී තත්ත්වය බහුලව පවතින බැවින් හැකි තරම් ආරක්ෂිතව සිටීමට වගබලා ගැනීමට ජනතාව දැනුවත්විය යුතු බවද මහනුවර ප්‍රධාන නාගරික වෛද්‍ය නිලධාරී පසන් ජයසිංහ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/7341b1a0.json)
 
 ---
 
@@ -77,6 +155,22 @@ They are said to have called for a girlfriend to marry because they were beaten.
 [Data](articles/eb85ff3d.json)
 
 [Extended Data](ext_articles/eb85ff3d.ext.json)
+
+---
+
+### ජනපතිගේ IMF අභියෝගයට සජබයෙන් ප්‍රතිචාර
+
+*2024-08-27 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200388) · `si`
+
+ඕනෑම අවස්ථාවක ජාත්‍යන්තර මූල්‍ය අරමුදල සමග ඕනෑම ආකාරයේ සාකච්ඡාවකට සමගි ජන බලවේගය සූදානම් බව එම පක්ෂයේ මහ ලේකම් රංජිත් මද්දුම බණ්ඩාර මහතා පවසයි.
+
+එහි සඳහන් වන්නේ ජාත්‍යන්තර මූල්‍ය අරමුදලේ, යෝජනා සහ කොන්දෙසි ලෙස රටේ ජනතාව පීඩනයට පත් කරනු ලබන රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාගේ ක්‍රියා පිළිවෙත ජාත්‍යන්තර මූල්‍ය අරමුදලේ සැබෑ අදහස නොවන බවය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමග එකඟ වී ඇති ගිවිසුම් සහ එයට අදාළ අනෙකුත් කරුණු පිළිබඳව ජාත්‍යන්තර මූල්‍ය අරමුදල සමග විඩියෝ සාකච්ඡාවකට තමන් සූදානම් බව එක්සත් ජාතික පක්ෂ සම්මේලනයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසූ බවත් එම සාකච්ඡාවට සමගි ජන බලවේගය ඇතුළු පාර්ශ්ව වලට සම්බන්ධ වී අදහස් දැක්විය හැකි බව ජනාධිපතිවරයා එහිදී ප්‍රකාශ කර ඇත.
+
+...
+
+[Data](articles/b5b412ab.json)
 
 ---
 
@@ -580,17 +674,29 @@ Chairman of the Election Commission, RM issued a statement. A. L. Mr. Ratnayake 
 
 ---
 
-### මීළඟ ජනපති තෝරන්න ගාල්ලෙන් 903163ක් සුදුසුකම් ලබයි
+### 903163 qualifies from Galle
 
 *2024-08-27 13:36:23* · [`adalk`](https://www.ada.lk/breaking_news/මීළඟ-ජනපති-තෝරන්න-ගාල්ලෙන්-903163ක්-සුදුසුකම්-ලබයි/11-411589) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා මෙවර ගාල්ල දිස්ත්‍රික්කයේ ලියාපදිංචි ඡන්ද දායකයන් සංඛ්‍යාව නව ලක්ෂ තුන්දහස් එකසිය හැට තුනක් (903163 ) ක් වෙයි.
+Here's a summary of the text in 200 characters:
 
-එය 2019 ජනාධිපතිවරණයට වඩා වැඩි ඡන්ද සංඛ්‍යාව හතළිස් හතර දහස් හාරසිය දාහතරක් (44414)බවත් 2019 ජනාධිපතිවරණයේ ලියාපදිංචි ජන්ද සංඛ්‍යාව අටලක්‍ෂ පනස් අට දහස් හත් සිය හතළිස් නවයක් (858749) බවත්   ගාල්ල මැතිවරණ කාර්යාලය පවසයි .මෙහි පිරිමි ඡන්ද හිමියන් 435717 වන අතර එය  ප්‍රතිශතයක්  ලෙස 48.24%කි.කාන්තා ඡන්ද හිමියන් 467446ක්  වන අතර එය ප්‍රතිශතයක් ලෙස  51.76%කි.
 
-...
+
+Galle District voter registration: 858749 total, 41436 eligible in Hiniduma, 105232 in Baddegama. 903163 qualify overall.
+
+🟩
+
+The number of registered voters in the Galle District this year is Rs.
+
+It is the year four thousand four hundred and forty-eight (858749) of the 2019 presidential election.467446 categories of elections is 467446, with 46,446.
+
+Mail Chandu contributes qualified 41436 electoral divisions in the Galle District.. 108129 voters in the Hiniduma electorate and 105232 voters were registered in the Baddegama Electorate.
+
+◼️
 
 [Data](articles/bd816979.json)
+
+[Extended Data](ext_articles/bd816979.ext.json)
 
 ---
 
@@ -1450,25 +1556,49 @@ Ranil Wickremesinghe bravely offered to take the country to take charge of the c
 
 ---
 
-### අනාගතයේදී ඉල්ලුම වැඩි රැකියා ක්ෂේත්‍ර 5 තුළ රැකියාවක් කිරීමට ඔබ ඉගෙන ගත යුතු දේ
+### What you need to learn to work in the 5 most job fields
 
 *2024-08-27 10:45:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c24pr6eyq37o) · `si`
 
-අනාගතයේදී ඉල්ලුම වැඩි රැකියා ක්ෂේත්‍ර 5 තුළ රැකියාවක් කිරීමට ඔබ ඉගෙන ගත යුතු දේ
+Here's a 200-character summary of the key points:
 
-ලෝකයේ ශ්‍රම වෙළෙඳපොළ අන් කවරදාටත් වඩා වේගයෙන් වෙනස් වෙමින් පවතින අතර වර්තමානයේ පවතින බොහෝ රැකියා ඉක්මනින් නැති වී යන තත්ත්වයක් මතුව තිබේ.
 
-ලෝක ආර්ථික සංසදය විසින් මෑතකදී කරන ලද අධ්‍යයනයකට අනුව එවැනි තත්ත්වයක් සඳහා බලපාන ප්‍රධාන සාධක දෙකකි. නව තාක්ෂණය සහ ස්වයංක්‍රීයකරණය දියුණු වීම සහ හරිත ආර්ථිකය හා තිරසරභාවය කරා ගමන් කිරීම එම සාධක වේ.
 
-මහා පරිමාණ දත්ත, ක්ලවුඩ් පරිගණකකරණය සහ කෘතිම බුද්ධිය වැනි නව තාක්‍ෂණයන්හි වේගවත් දියුණුව ශ්‍රම වෙළෙඳපොළ තුළ කම්පනයක් සහිත වෙනසක් ඇති කරනු ඇතැයි පුරෝකථනය කර ඇත.
+1. Rapid technological advancements in AI, automation, and green economy are reshaping the global job market.
 
-එහි පවතින සතුටුදායක පුවත වන්නේ, නව තාක්‍ෂණයනයේ ආගමනය සමස්ත ආර්ථිකයට ම ප්‍රබෝධයක් ලබා දීම ය. ඒ ඔස්සේ ඇතැම් රැකියා අහිමි වී යන අතර තවත් බොහෝ රැකියා නිර්මාණය වේ. සියල්ලට ම වඩා ව්‍යාපාරයකට අඩු සම්පත්වලින් වැඩි ඵලදායීත්වයක් ලබා ගත හැකි විට, එය ස්වභාවිකව ම පුළුල් වේ.
 
-ලෝක ආර්ථික සංසදයේ පර්යේෂකයන් පවසන්නේ, ඉදිරි වසර පහක කාලය තුළ දැනට පවතින සියලු ම වෘත්තීන්ගෙන් හතරෙන් එකක් පමණ වෙනස් වනු ඇති බව ය.
+
+2. Key skills for future success: technology literacy, STEM education, analytical thinking, creativity, communication, and emotional intelligence.
+
+
+
+3. High-demand jobs: AI engineers, data scientists, cybersecurity experts, fintech specialists, green energy professionals, healthcare workers, and skilled tradespeople.
+
+
+
+4. Creative professions like writers, artists, and performers will continue to thrive despite technological changes.
+
+🟩
+
+What you need to learn to work in the 5 most job fields
+
+The labor market in the world is rapidly changing, and most existing jobs have quickly erupted.
+
+According to a recent study by the World Economic Forum, two major factors that affect such a situation. It is those factors that move new technology and automated improvement and to the green economy and suscept.
+
+The fast advancement of new technologies such as large-scale data, cloud computerizing and artificial intelligence, is foretelling in the labor market.
+
+The satisfactory news is that new technologies are refreshing to the entire economy. There is a loss of certain jobs and many more jobs are created. It is naturally expanded when a business can achieve more productivity from less than all.
+
+Researchers of World Economic Forum say that all the present occupations will change in the next five years.
+
+Therefore, to succeed in the competitive labor market, it must be done to develop new skills and educating abilities.
 
 ...
 
 [Data](articles/c45c3ddd.json)
+
+[Extended Data](ext_articles/c45c3ddd.ext.json)
 
 ---
 
@@ -2405,133 +2535,5 @@ The current network is made up of, Gulshan Branch, Motijheel Islamic Banking Bra
 [Data](articles/a97f521c.json)
 
 [Extended Data](ext_articles/a97f521c.ext.json)
-
----
-
-### Do you know what is going to be to the economy of Sri Lanka by decreasing births?
-
-*2024-08-27 06:19:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c935wgg0vg4o) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Decrease in births impacts Sri Lanka's economy by reducing workforce, potentially leading to labor shortages and affecting industries heavily reliant on human resources.
-
-🟩
-
-Do you know what is going to be to the economy of Sri Lanka by decreasing births?
-
-In the closest five years, the number of child births in Sri Lanka is clearly observed.
-
-The decrease in the birth rate is directly impact on the workforce of the country.
-
-With the aging of the present workforce system, the decrease in the number of people joins the new workforce will be affecting Sri Lanka's economy.
-
-The workforce is all the economic force of the agendary 15 years of age or older as shown in the 2018 Department of Census and Statistics.
-
-Data from the Department of Census and Statistics are observed that they are not only the job and employed.
-
-According to the data of the Department of Census and Statistics, the estimated mid-year population of Sri Lanka in 2023 is 22 million. During the nearly four years, the population has shown a small growth, and a slight decline in the population of 2023 compared to 2022.
-
-...
-
-[Data](articles/7de5ec6c.json)
-
-[Extended Data](ext_articles/7de5ec6c.ext.json)
-
----
-
-### Weather today
-
-*2024-08-27 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200361) · `si`
-
-Here's a summary of the weather forecast in 200 characters:
-
-
-
-"Showers in West, Sabaragamuwa, North West, Galle, Matara. Thundershowers in Badulla, Ampara, Batticaloa. Occasional storms in North, North Central, North West, Hambantota, Trincomalee. Thunderstorm warnings issued."
-
-🟩
-
-The Department of Meteorology states that there will be a few showers in the Western, Sabaragamuwa and North Western provinces and in the Galle and Matara districts.
-
-Showers or thundershowers will occur at several places in Badulla, Ampara and Batticaloa districts.
-
-From time to time in the Northern, North Central and Northwestern districts, Hambantota and Trincomalee Districts. The Department of Meteorology announces that there are about 30-40 times.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/c4b65a20.json)
-
-[Extended Data](ext_articles/c4b65a20.ext.json)
-
----
-
-### AKD says Presidential manifesto, strong response to disinformation
-
-*2024-08-27 02:37:37* · [`dailyftlk`](https://www.ft.lk/news/AKD-says-Presidential-manifesto-strong-response-to-disinformation/56-766023) · `en`
-
-Says while rivals choose to spread false or distorted information NPP chose to respond with a strong manifesto
-
-Claims manifesto was developed through extensive discussions with stakeholders across 39 sectors over past two years
-
-Expresses NPP’s willingness to accept responsibility for revitalising the collapsed State
-
-Emphasises primary goal of program is to ensure a prosperous country and a beautiful life for all
-
-National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake officially unveiled the NPP’s Presidential election manifesto titled “A Prosperous Nation, A Beautiful Life” in Sri JayawardenepuraKotte yesterday.
-
-Addressing the gathering of NPP Executive Council members, professionals, academics, artists, and others, Dissanayake highlighted that the manifesto is the party’s response to disinformation disseminated by its political rivals.
-
-...
-
-[Data](articles/a7a8254f.json)
-
-[Extended Data](ext_articles/a7a8254f.ext.json)
-
----
-
-### Cardinal defends judiciary amid Govt. criticism
-
-*2024-08-27 02:35:38* · [`dailyftlk`](https://www.ft.lk/news/Cardinal-defends-judiciary-amid-Govt-criticism/56-766022) · `en`
-
-Expresses deep concern over Govt.’s harsh criticism of judiciary following rulings that were not in its favour
-
-Emphasises critical importance of judicial independence in a democratic society
-
-Highlights fundamental liberty judges must have to hear and decide cases free from external interference
-
-Urges all parties to refrain from undermining the judiciary and protect it instead
-
-...
-
-[Data](articles/bdf48b24.json)
-
-[Extended Data](ext_articles/bdf48b24.ext.json)
-
----
-
-### Digital election trial possible for Provincial Council elections, says President
-
-*2024-08-27 02:32:54* · [`dailyftlk`](https://www.ft.lk/news/Digital-election-trial-possible-for-Provincial-Council-elections-says-President/56-766021) · `en`
-
-Highlights shift towards funding commercially-oriented science and tech policies and research
-
-Four new universities to be established, including a Chennai IIT campus in Galaha
-
-In embracing the digital future of Sri Lanka, President Ranil Wickremesinghe stated that digitisation would soon also be extended to the election system, as proposed by the commission led by former Chief Justice Priyasad Depp.
-
-The discussion took place at an IT Professionals’ Forum, themed ‘Coding the Nation’s Future.’
-
-Industry experts, including World Bank Senior Digital Development Specialist Siddhartha Raja, spoke on the digital future of the country and the industry’s seven-year plan, collaboratively initiated with the World Bank, to contribute $ 15 billion to Sri Lanka’s GDP by 2030.
-
-...
-
-[Data](articles/27531a26.json)
-
-[Extended Data](ext_articles/27531a26.ext.json)
 
 ---

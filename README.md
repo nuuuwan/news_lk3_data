@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 12:55:05**
+As of **2024-08-27 13:06:51**
 
 ## Newspaper Stats
 
-*Scraped **42,827** Articles*
+*Scraped **42,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,951
+adalk | 3,952
 dailymirrorlk | 4,733
-adaderanalk | 5,036
+adaderanalk | 5,037
 tamilmirrorlk | 5,584
 virakesarilk | 6,795
-adaderanasinhalalk | 7,337
+adaderanasinhalalk | 7,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,823 (100.0%) of 42,827 articles have been extended.
+42,827 (100.0%) of 42,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### කච්චතිව් මුහුදේ බෝට්ටු අනතුරක්
+
+*2024-08-27 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200382) · `si`
+
+කච්චතිව් මුහුදු ප්‍රදේශයේ ඉන්දීය ධීවර බෝට්ටුවක් අනතුරකට ලක්වීමෙන් ඉන්දීය ධීවරයින් දෙදෙනෙකු අතුරුදන්ව තිබේ.
+
+ඉන්දීය ධීවරයින් සිව්දෙනෙකු රැගත් බෝට්ටුවක් පෙරළීමෙන් අනතුර සිදුව ඇති බව නාවික හමුදාව සඳහන් කළේය.
+
+එහිදි එම බෝට්ටුවේ සිටි ධීවරයින් දෙදෙනෙකු දියේ ගිලීමෙන් අතුරුදන්ව තිබේ.
+
+අතුරුදන් වූ ඉන්දීය ධීවරයින් සොයා මේ වන විට මෙහෙයුම් ආරම්භ කර ඇති බව නාවික හමුදාව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/5277034c.json)
+
+---
+
+### Two Indian fishermen missing after boat accident near Kachchatheevu
+
+*2024-08-27 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101541/two-indian-fishermen-missing-after-boat-accident-near-kachchatheevu) · `en`
+
+Two Indian fishermen were reported missing, while two others swam safely to Kachchatheevu Island after a boat carrying four Indian fishermen met with an accident in the seas near Kachchatheevu, the Sri Lanka Navy said.
+
+◼️
+
+[Data](articles/89616e2f.json)
+
+---
 
 ### 8 Indian fishermen arrested for poaching in Sri Lankan waters
 
@@ -48,43 +78,65 @@ With this recent apprehension, the Sri Lanka Navy says it has seized a total of 
 
 [Data](articles/fcd723e3.json)
 
+[Extended Data](ext_articles/fcd723e3.ext.json)
+
 ---
 
-### ඡන්ද පත්‍රිකාව සලකුණු කර ගැනීමට සහායකයෙකු ලබා ගන්නේ කෙසේද ?
+### How to get a companion to mark the ballot paper?
 
 *2024-08-27 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200381) · `si`
 
-පූර්ණ හෝ අර්ධ දෘෂ්‍යාබාධිත තත්ත්වකට පත්වූ හෝ යම් ශාරීරික ආබාධයකට (අශක්නුතාවය) පත්වූ ඡන්ද දායකයෙකුට ඡන්දපොළේදී ඡන්ද පත්‍රිකාව සලකුණු කර ගැනීම සඳහා සහායකයෙකු කැටුව යා හැකි වන පරිදි නීති ප්‍රතිපාදන සලසා ඇති බව මැතිවරණ කොමිසම පවසයි.
+Here's a summary of 200 characters:
 
-එහෙත් එම කැටුව යන සහායකයා වයස අවුරුදු 18ට සම්පූර්ණ වූ අයෙකු වියයුතු අතර එසේම ඔහු මෙම ඡන්ද විමසීම සඳහා ඉදිරිපත් නොවන්නෙකු විය යුතුය.
 
-එමෙන්ම එම සහායකයා මෙම ඡන්ද විමසීමේදී යම් අපේක්ෂකයෙකුගේ බලයලත් නියෝජිතයෙකු, ප්‍රාදේශීය නියෝජිතයෙකු හෝ ඡන්දපොළ නියෝජිතයෙක් වශයෙන් කටයුතු නොකරන්නෙක් විය යුතු බව මැතිවරණ කොමිසම නිවේදනය කළේය.
 
-යම් ඡන්ද දායකයෙක් සහායකයෙක් කැටුව යාම සඳහා ජනාධිපතිවරයා තෝරා ගැනීම පිළිබඳ පනතේ පස්වන උපලේඛන මගින් හඳුන්වා දී ඇති යෝග්‍යතා සහතිකයක් අදාළ ඡන්දපොළෙහි නිලධාරීන් ට ඉදිරිපත් කළ යුතුය.
+Elections Commission allows visually impaired voters to bring assistants. Assistant must be an authorized representative, local agent, or polling agent. Fitness certificate from District Office or Grama Niladhari Office required. Application form available online. Medical officer verification needed. Voter must bring National Identity Card or election card.
 
-එම යෝග්‍යතා සහතිකය ලබා ගැනීම සඳහා අවශ්‍ය ඉල්ලුම්පත්‍ර දිස්ත්‍රික් මැතිවරණ කාර්යාලයෙන්, ග්‍රාම නිලධාරී කාර්යාලයෙන් හෝ www.elections.gov.lk වෙබ් අඩවියෙන් ලබාගත හැකිය.
+🟩
 
-...
+The Elections Commission says that a voter charged to a fully or semi-visually impaired voter (an airborne) to mark the ballot in the polls.
+
+However, the accompanying assistant should be a complete person and he should not come forward for this election.
+
+The Elections Commission announced that the assistant should be an authorized representative, a local agent, a local agent, or polling agent.
+
+A fitness certificate has been introduced by the fitness certificate that has been introduced by the fifth schedule of the President's Select Committee to acquire a voter support.
+
+Applications required to obtain that suitability are available at district office, Grama Niladhari Office or www.ELECTIONS.gov.lk
+
+The application has been completed and submitted to the Grama Niladhari and ensure that we need to undertake a government medical officer.
+
+It is necessary to carry the voter and the assistant to take the vote in the National Identity Card or the election.
+
+◼️
 
 [Data](articles/c80cd0f2.json)
 
+[Extended Data](ext_articles/c80cd0f2.ext.json)
+
 ---
 
-### டயனாவுக்கு பிணை
+### Bail to Diane
 
 *2024-08-27 12:19:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாவுக்கு-பிணை/175-342861) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகேவை பிணையில் விடுவிக்க கொழும்பு மேல் நீதிமன்றம் செவ்வாய்க்கிழமை ​(27)உத்தரவிட்டுள்ளது.
+Colombo High Court releases former State Minister Diana Kamage on bail due to lack of proper accusations against her. Bail conditions: two physical bails of Rs 25,000 and Rs 1 million.
 
-இரட்டைக் குடியுரிமை வைத்திருத்தமை தொடர்பான குற்றச்சாட்டுகளை உள்ளடக்கிய சட்டமா அதிபரால் அவருக்கு எதிராக முறையான குற்றச்சாட்டுகள் முன்வைக்கப்பட்டாததைத் தொடர்ந்து குறித்த முடிவு எடுக்கப்பட்டுள்ளது.
+🟩
 
-இதற்கமைய, கொழும்பு மேல் நீதிமன்ற நீதிபதி மஞ்சுள திலகரத்ன, 25,000 ரூபா மற்றும் ஒரு மில்லியன் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளில் பிணை நிபந்தனைகளை விதித்தார்.
+The Colombo High Court on Tuesday (27) ordered the release of former State Minister Diana Kamage on bail.
 
-நீதிமன்ற உத்தரவுக்கு பதிலளிக்கும் வகையில் முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகே தனது சட்டத்தரணியுடன் செவ்வாய்க்கிழமை ​(27) நீதிமன்றத்தில் முன்னிலையாகியிருந்தமை குறிப்பிடத்தக்கது.
+The decision has been taken following the lack of proper accusations by the Attorney General, which includes allegations of dual citizenship.
+
+Accordingly, Colombo High Court Judge Manjula Tilakaratne imposed bail conditions on two physical bail on Rs 25,000 and Rs 1 million.
+
+In response to a court order, former State Minister Diana Kamage was present in court on Tuesday (27).
 
 ◼️
 
 [Data](articles/2dfff364.json)
+
+[Extended Data](ext_articles/2dfff364.ext.json)
 
 ---
 
@@ -101,6 +153,8 @@ Later, the court also ordered to obtain the fingerprints of the defendant Diana 
 ◼️
 
 [Data](articles/0b76941b.json)
+
+[Extended Data](ext_articles/0b76941b.ext.json)
 
 ---
 
@@ -2514,6 +2568,26 @@ The Treasury bill issue and payment will be made on August 30.
 
 ---
 
+### මාලිමාවේ ප්‍රතිපත්තිය දුප්පත් රටක් කටුක ජීවිතයක්
+
+*2024-08-26 19:36:30* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-ප්‍රතිපත්තිය-දුප්පත්-රටක්-කටුක-ජීවිතයක්/11-411575) · `si`
+
+ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය ලෙස එළි දක්වා ඇත්තේ ˝දුප්පත් රටක්  කටුක ජිවිතයක්˝ වෙත ගමන් කරන මාර්ගයක් යැයි මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා ප්‍රකාශ කළේය.
+
+ඔහු මේ බව සදහන් කර සිටියේ කොළඹදී ඊයේ (26දා)  පැවති ‟පුළුවන් ශ්‍රී ලංකා" මාධ්‍ය හමුවට එක්වෙමිනි.
+
+ජනතා විමුක්ති පෙරමුණේ ප්‍රතිපත්ති ප්‍රකාශනය මහපොළොව යථාර්ථයක් නොවන පැතුම් මල්ලක් පමණකැයි එහිදී කී සේමසිංහ මහතා වැඩිදුරටත් අදහස් දක්වමින්  මෙසේද කීය.
+
+“දේශපාලන පක්ෂ රට ඉදිරියට ගෙනියන තමන්ගේ ප්‍රතිපත්ති එළිදක්වමින් ජනතාව බලන් ඉන්නවා. ජනතා විමුක්ති පෙරමුණේ ප්‍රතිපත්ති ප්‍රකාශනය මහපොළොව යථාර්ථයක් නොවන පැතුම් මල්ලක් විතරයි. කියන්න කණගාටුයි. ඒ අය විවිධ ප්‍රතිසංස්කරණ වැඩසටහන් ක්‍රියාත්මක කරන බව කියනවා.
+
+දැනට රනිල් වික්‍රමසිංහ මැතිතුමාගේ රජය ක්‍රියාත්මක නොකළ දෙයක් තියෙනවාද කියලා මම බැලුවා. මේ තරම් කොපි කරලා, අනුන් කරන දෙයක් තමන්ගෙ දෙයක් හැටියට හුවා දක්වන්න තරම් ජනතා විමුක්ති පෙරමුණ බංකොළොත් වුණේ ඇයි කියන්න මම දන්නේ නැහැ. ප්‍රතිසංස්කරණ වැඩපිළිවෙළෙන් අපි දැනට කරගෙන යන සියලු දේ සඳහන් වෙනවා.
+
+...
+
+[Data](articles/fbafba4e.json)
+
+---
+
 ### More than 60 dead after militant attacks in Pakistan’s Balochistan
 
 *2024-08-26 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101526/more-than-60-dead-after-militant-attacks-in-pakistans-balochistan) · `en`
@@ -2531,191 +2605,5 @@ Pakistan’s military said 14 soldiers and police, and 21 militants, were killed
 [Data](articles/4fd1c450.json)
 
 [Extended Data](ext_articles/4fd1c450.ext.json)
-
----
-
-### Decision for the invitation of the Presidential candidates in South Sri Lanka
-
-*2024-08-26 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/192072) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Tamil General Assembly decides to respond uniformly to presidential candidates' invitations in South Sri Lanka. They will discuss and reach consensus before accepting or rejecting any invitations. This decision comes ahead of Sri Lanka's 9th presidential election on September 21.
-
-🟩
-
-It has been decided at the meeting of the Tamil General Assembly on Monday (26) that the Tamil public corporation should make the same decision on the calls from the presidential candidates in South Sri Lanka.
-
-As the country's ninth presidential election is scheduled to be held on September 21, former Sri Lanka Tamil National Alliance (TNA) parliamentarian P. Ariyanethran has been named general candidate by the Tamil National Alliance (TNA) co -created by Tamil National Political Parties and Civil Social Finances.
-
-President Ranil Wickremesinghe, who was the independent candidate in this election, called for the Tamil general public through a letter last weekend.. However, the Tamil public has said that the letter was not available to other parties except the Relo and the Democratic Party.
-
-...
-
-[Data](articles/d91723c9.json)
-
-[Extended Data](ext_articles/d91723c9.ext.json)
-
----
-
-### The publication of the policy declaration of the national people's power
-
-*2024-08-26 19:20:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியின்-கொள்கைப்-பிரகடன-வெளியீடு/175-342810) · `ta`
-
-Thank you for providing that detailed context. As an AI assistant, I'll summarize the key points and offer some insights based on the information shared:
-
-
-
-### Key Points
-
-
-
-1. Economic Development Strategy:
-
-   - Focus on cooperation with new industries and entrepreneurs
-
-   - Government roles: regulation, technology provision, capital assistance, market identification
-
-   - Goal: Increase GDP to $5 billion through various sectors (tourism, IT, etc.)
-
-
-
-2. Foreign Investment Policy:
-
-   - Encourage direct foreign investment
-
-   - Address challenges in attracting FDI (e.g., LNG conversion issues)
-
-   - Implement policies to attract foreign investors
-
-
-
-3. Education Reform:
-
-   - Address disparities in school availability and student enrollment
-
-   - Introduce changes to improve education quality and accessibility
-
-   - Emphasize holistic development of children (intellectual, physical, emotional)
-
-
-
-4. Social Welfare Initiatives:
-
-   - Monthly allowance for low-income families
-
-   - Reduction of poverty-related taxes (food, education, healthcare)
-
-   - Price reduction for electricity and fuel
-
-
-
-5. Equality and Justice:
-
-   - Ensure fair treatment regardless of caste, urban/rural background, disability status
-
-   - Promote national unity and inclusivity
-
-
-
-### Insights and Recommendations
-
-
-
-1. Economic Diversification:
-
-   - While focusing on high-tech sectors, also consider traditional industries for immediate impact
-
-   - Develop strategic partnerships with countries having expertise in targeted areas
-
-
-
-2. Infrastructure Development:
-
-   - Prioritize investments in education, healthcare, and digital infrastructure
-
-   - Consider public-private partnerships for large-scale projects
-
-
-
-3. Human Capital Development:
-
-   - Implement vocational training programs to bridge skill gaps
-
-   - Enhance teacher training and educational resources
-
-
-
-4. Transparency and Accountability:
-
-   - Implement robust monitoring systems for government spending
-
-   - Regularly publish budget allocations and outcomes
-
-
-
-5. International Relations:
-
-   - Strengthen diplomatic ties with countries offering significant investment opportunities
-
-   - Explore regional economic integration agreements
-
-
-
-6. Environmental Sustainability:
-
-   - Incorporate eco-friendly practices in all developmental initiatives
-
-   - Invest in renewable energy sources (e.g., wind power) to reduce reliance on fossil fuels
-
-
-
-7. Technology Adoption:
-
-   - Leverage emerging technologies (AI, blockchain, IoT) across sectors
-
-   - Establish innovation hubs to foster startup growth
-
-
-
-By addressing these aspects comprehensively, the government can create a balanced approach to economic development, social welfare, and environmental sustainability. This strategy aims to transform Sri Lanka into a prosperous nation while ensuring equal opportunities for all citizens.
-
-🟩
-
-Under the theme of "prosperous country - beautiful life", the policy declaration of the 2024 presidential election of the National People's Power has been published.
-
-The event took place today at the Sri Jayawardenapura Monak Imperial Hotel Complex.
-
-The moment we have evolved here today, as a political movement, is the most systematic basis in many sectors. First we need to build a force to build this country that is degraded. We moved forward with those who represent different fields in our country. But it will not only be enough for us. We must carry out a multi -faceted ideology among our people. How to dissolve the causes of the disaster about the disaster that has occurred to our country?We have been talking to the public for a long time. I think the next step is to present a program that summarizes them all.
-
-...
-
-[Data](articles/e4685f6b.json)
-
-[Extended Data](ext_articles/e4685f6b.ext.json)
-
----
-
-### Sri Lanka’s NPP plans to raise tax-free threshold to Rs 200K monthly income
-
-*2024-08-26 19:06:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-plans-to-raise-tax-free-threshold-to-rs-200k-monthly-income-178110/) · `en`
-
-ECONOMYNEXT — The leftist National People’s Power (NPP) has proposed that Sri Lanka’s income tax-free threshold be increased to 2.4 million rupees a year from the current 1.2 million and to “equitably” amend tax rates and tax brackets.
-
-The NPP’s election manifesto released on Monday August 26 has also proposed that the tax base be widened according to taxation fundamentals.
-
-Increasing the tax-free threshold to include people who earn up to 200,000 rupees a month will likely exclude many people from the tax base, however.
-
-NPP leader and presidential candidate Anura Kumara Dissanayake first proposed this increase in January 2023. He also said at the time that an NPP government would cap progressive taxation at a maximum of 24 percent.
-
-Treasury Secretary Mahinda Siriwardana said on August 18 2024 that Sri Lanka’s planned relief to personal income tax payers could cost 0.08 percent of gross domestic product in lost revenues and would be compensated by additional tax measures.
-
-...
-
-[Data](articles/6ccd4037.json)
-
-[Extended Data](ext_articles/6ccd4037.ext.json)
 
 ---

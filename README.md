@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 17:57:56**
+As of **2024-08-27 18:17:29**
 
 ## Newspaper Stats
 
-*Scraped **42,886** Articles*
+*Scraped **42,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,64 @@ colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,962
+adalk | 3,963
 dailymirrorlk | 4,733
 adaderanalk | 5,046
 tamilmirrorlk | 5,591
 virakesarilk | 6,813
-adaderanasinhalalk | 7,348
+adaderanasinhalalk | 7,349
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,884 (100.0%) of 42,886 articles have been extended.
+42,886 (100.0%) of 42,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### බහරේනයට ඇතුළු වන විදෙස් ශ්‍රමිකයන්ට ජාත්‍යන්තර බැංකු ගිණුම් විවෘත කරයි
+### අල්ලස් ගත් ග්‍රාම නිලධාරියාට අත්හිටවූ සිරදඬුවමක්
+
+*2024-08-27 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200393) · `si`
+
+අල්ලස් ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් වරදකරු වූ ග්‍රාම නිලධාරියෙකුට අධිකරණය මගින් අත්හිටවූ සිරදඬුවමක් සහ දඩයක් නියම කර තිබේ.
+
+ඒ විදේශගත වීමකට අදාළව පදිංචි සහතිකයක් නිකුත් කරවා ගැනීම සඳහා රුපියල් 15,000ක මුදලක් අල්ලස් වශයෙන් ඉල්ලා සිටීමේ සිද්ධියක් සම්බන්ධයෙනි.
+
+අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පවසන්නේ අදාළ ග්‍රාම නිලධාරියා ඉන් රුපියල් 10,000ක් භාරගැනීම සම්බන්ධව අත්අඩංගුවට පත්වූ බවය.
+
+◼️
+
+[Data](articles/73152f96.json)
+
+---
+
+### International Bank Accounts opens foreign workers to enter Bahrain
 
 *2024-08-27 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200392) · `si`
 
-බහරේනයේ රැකියා සඳහා, එරට ගුවන්තොටුපොළෙන් ඇතුළු වන සියලුම විදෙස් ශ්‍රමිකයින්ට ජාත්‍යන්තර බැංකු ගිණුමක් (IBAN- International Bank Account Number)ලබාදීමට බහරේනයේ කම්කරු වෙළෙඳපොළ නියාමන අධිකාරිය (LMRA)පියවර ගෙන තිබේ.
+Sri Lankan embassy informs LMRA about international bank accounts for foreign workers entering Bahrain. These accounts aim to facilitate accurate transactions and reduce salary-related issues. Details available on lmra.gov.bh or 00973-17506055.
 
-මෙය මෙම වසරේ අගෝස්තු මාසයේ සිට ක්‍රියාත්මක කරන බව එරට ශ්‍රී ලංකා තානාපති කාර්යාලය විසින් දැනුම්දෙයි.
+🟩
 
-විදෙස් ශ්‍රමිකයින්ට මෙම ජාත්‍යන්තර බැංකු ගිණුම් හඳුන්වාදීම මගින් ශ්‍රමිකයා හා සේවා යෝජකයා අතර, ගෙවීම් තහවුරුවක් ලබාගැනීම හා නිවැරදි ගනුදෙනු සිදුකිරීම සහතික කිරීම අපේක්ෂා කරයි.
+For jobs in Bahrain, all foreign workers who enter the airport in the airport (LMRA) have taken steps to provide an International Bank Account (LMRA).
 
-එසේම ශ්‍රමික අයිතිවාසිකම් ආරක්ෂා කරමින්, ඔවුන්ගේ වැටුප් ගෙවීම් බැංකු මාර්ගයෙන් සිදුකිරීම විධිමත් කිරීමත්, වැටුප් සම්බන්ධයෙන් අධිකරණයේ නඩු පැවරීම අවම කිරීමත් බහරේන් රජය බලාපොරොත්තු වන බව සඳහන් ය.
+The Sri Lankan Embassy in the country will be informed from August this year.
 
-මේ පිළිබඳව වැඩි විස්තර බහරේනයේ කම්කරු වෙළෙඳපොළ නියාමන අධිකාරියේ (LMRA) වෙබ් අඩවිය වන www.lmra.gov.bh වෙත පිවිසීමෙන් හා 00973-17506055 අංකය ඇමතීම මගින් ලබාගත හැකිය.
+The introduction of these international bank accounts between the introduction of these international bank accounts and expects to ensure the accurate transactions.
 
-...
+The Government of Bahrain is expected to reduce their salary payments and reduce the prosecution of salaries on salaries.
+
+Most details are available to the Labor Market Register Authority (LMRA) website, www.lmra.gov.bh and dialing 00973-17506055.
+
+At the airport of foreign workers, the Government of Sri Lanka has provided the opportunity to obtain this international bank accounts at the airport in the airport.
+
+◼️
 
 [Data](articles/5a5d7b25.json)
+
+[Extended Data](ext_articles/5a5d7b25.ext.json)
 
 ---
 
@@ -69,6 +93,8 @@ With tuberculosis cases on the rise in Kandy, Dr. Jayasinghe urged the public to
 ◼️
 
 [Data](articles/bc0371d3.json)
+
+[Extended Data](ext_articles/bc0371d3.ext.json)
 
 ---
 
@@ -903,6 +929,22 @@ Chairman of the Election Commission, RM issued a statement. A. L. Mr. Ratnayake 
 [Data](articles/a83d3d67.json)
 
 [Extended Data](ext_articles/a83d3d67.ext.json)
+
+---
+
+### සීඅයිඩීයේ  පීසීගේ යතුරුපැදිය සීඅයිඩීය ඉදිරිපිට දීම සොරාගෙන
+
+*2024-08-27 13:42:44* · [`adalk`](https://www.ada.lk/breaking_news/සීඅයිඩීයේ--පීසීගේ-යතුරුපැදිය-සීඅයිඩීය-ඉදිරිපිට-දීම-සොරාගෙන/11-411590) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපිට නවතා තිබූ වාණිජ අපරාධ විමර්ශන අංශයේ කොස්තාපල්වරයෙකුට  අයත් රුපියල් 550,000/= ක් පමණ වටිනා යතුරුපැදියක් සොරාගෙන ගොස් ඇතැයි කොටුව පොලිසිය කියයි.
+
+කොස්තාපල්වරයා ඊයේ (26) පෙරවරු 6 ට පමණ  එම යතුරුපැදි යෙන් රාජකාරිය සඳහා පැමින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපිට  නවතා  රාජකාරී සඳහා ගොස් මීගමුව අධිකරණයේ  විභාග වූ නඩුවක් සඳහා පෙනී සිට නැවත වාණිජ අපරාධ විමර්ශන අංශය වෙත පැමිණ සවස 3.10 ට පමණ ලිපියක් බාර දීම සඳහා නීතිපති දෙපාර්තමේන්තුව වෙත යාම සඳහා යතුරුපැදිය නවතා තිබූ ස්ථානය වෙත පැමිණ බලද්දි යතුරුපැදිය එම ස්ථානයේ නොමැති බව දැක ප්‍රධාන දොරටුවේ රාජකාරී නිරතව සිටි නිලධාරීන් දැනුවත් කර නීතිපති දෙපාර්තමේන්තුවට ලිපිය භාරදීම සඳහා ගොස් තිබූ බව පොලිසිය කියයි.
+
+අනතුරුව වාණිජ අපරාධ විමර්ශන අංශය වෙත පැමිණ එහි නිලධාරීන් සමඟ යතුරු පැදිය නවතා තිබූ අවට ස්ථානවල සෝදිසිකර  සොයා ගැනීමට නොහැකි වූ බැවින් යම්කිසි පුද්ගලයෙකු සොරාගෙන ගොස් ඇති බවට සඳහන් කරමින් පැමිණිල්ලක් කළ බව පොලිසිය සඳහන් කරයි.
+
+...
+
+[Data](articles/f6beaa8e.json)
 
 ---
 
@@ -2497,55 +2539,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/a56ea2a2.json)
 
 [Extended Data](ext_articles/a56ea2a2.ext.json)
-
----
-
-### The fertility in the country is these rules - Anura
-
-*2024-08-27 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200368) · `si`
-
-Sri Lanka presidential candidate Anura Kumara Dissanayake aims to transform country into rich state economically, legally, and socially. He criticizes current state of poverty and calls for government reform to achieve this goal.
-
-🟩
-
-The Presidential candidate MP Anura Kumara Dissanayake says that the objective of the national popularity is to make the country a rich state into every way.
-
-He points out that his party has a program to make it an economically and the law and public service into a developed country.
-
-Anura Kumara Dissanayake made these comments while participating in a famil in Malambe.
-
-"We all have a purpose. What should this country be made a rich country?Only economically?No, we are poor and public service by the economy we are poor and law.. And that's the poor and ties between people.. They are poor. That means this country has become a victim of large poverty.
-
-...
-
-[Data](articles/5d154532.json)
-
-[Extended Data](ext_articles/5d154532.ext.json)
-
----
-
-### Increase in question for crackers
-
-*2024-08-27 07:40:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டாசுகளுக்கு-கேள்வி-அதிகரிப்பு/175-342843) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Cracker demand surges for elections. Fireworks manufacturers expect increased sales due to political rallies.
-
-🟩
-
-The President of the All Ceylon Fireworks Manufacturers Association has said that crackers have been questioned for the presidential election.
-
-He added that there is a high demand for the production of large -scale crackers used for election rallies and events.
-
-He added that the demand for crackers could increase further in the next few days after the election.. (A)
-
-◼️
-
-[Data](articles/5b1733e8.json)
-
-[Extended Data](ext_articles/5b1733e8.ext.json)
 
 ---

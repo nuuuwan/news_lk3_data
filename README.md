@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 08:36:52**
+As of **2024-08-27 08:55:58**
 
 ## Newspaper Stats
 
-*Scraped **42,785** Articles*
+*Scraped **42,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,584
 dailyftlk | 2,779
 adalk | 3,947
 dailymirrorlk | 4,733
-adaderanalk | 5,027
-tamilmirrorlk | 5,574
+adaderanalk | 5,029
+tamilmirrorlk | 5,575
 virakesarilk | 6,788
 adaderanasinhalalk | 7,327
 
@@ -26,27 +26,87 @@ adaderanasinhalalk | 7,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,783 (100.0%) of 42,785 articles have been extended.
+42,785 (100.0%) of 42,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### පොහොට්ටුවේ ප්‍රතිපත්ති ප්‍රකාශය සැප්තැම්බර් පළමු සතියේ
+### At least 30 dead, many missing after dam bursts in eastern Sudan
+
+*2024-08-27 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101531/at-least-30-dead-many-missing-after-dam-bursts-in-eastern-sudan) · `en`
+
+Surging waters have burst through a dam, wiped out at least 20 villages and left at least 30 people dead but probably many more in eastern Sudan, the United Nations said on Monday, devastating a region already reeling from months of civil war.
+
+Torrential rains caused floods that overwhelmed the Arbaat Dam on Sunday just 40 km (25 miles) north of Port Sudan, the de facto national capital and base for the government, diplomats, aid agencies and hundreds of thousands of displaced people.
+
+“The area is unrecognisable. The electricity and water pipes are destroyed,” Omar Eissa Haroun, head of the water authority for Red Sea state, said in a WhatsApp message to staff.
+
+One first responder said that between 150 and 200 people were missing.
+
+...
+
+[Data](articles/b5779c0a.json)
+
+---
+
+### SLPP MP and several former LG members pledge support to President Ranil
+
+*2024-08-27 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101530/slpp-mp-and-several-former-lg-members-pledge-support-to-president-ranil) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) MP Wimalaweera Dissanayake has met with President Ranil Wickremesinghe along with several local government representatives and extended their support to President in the upcoming presidential election.
+
+The local government representatives including former Chairman of Uhana Pradesdhiya Sabha Upul Priyantha, former Vice Chairman Jagath Deshapriya, former Chairman of Dehiattakandiya Pradeshiya Sabha Sugath Jathungaarachchi, and former Chairman of Mahaoya Pradeshiya Sabha Indika Nilantha have met with the President at his office on Flower Road, Colombo, last afternoon (26).
+
+SLPP MP for Digamadulla District Wimalaweera Dissanayake warned that if President Ranil Wickremesinghe is not reappointed for the next five years, Sri Lanka could experience severe repercussions akin to those in Bangladesh.
+
+He cited potential outcomes such as increased street violence, attacks on religious sites, court closures, and the dismantling of the constitution.
+
+...
+
+[Data](articles/9889f640.json)
+
+---
+
+### பிஜிலி ரமேஷ் காலமானார்
+
+*2024-08-27 08:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிஜிலி-ரமேஷ்-காலமானார்/54-342844) · `ta`
+
+யூடியூப் சேனல் மூலமாக பிரபலமாகி அதை தொடர்ந்து சினிமாவில் நடித்து வந்த பிஜிலி ரமேஷ் உடல்நலக் குறைவு காரணமாக செவ்வாய்க்கிழமை (27) காலமானார்.
+
+யூடியூப் சேனல் ஒன்று நடத்திய பிராங்க் ஷோ மூலமாக மக்கள் மத்தியில் மிகவும் பிரபலமானார் பிஜிலி ரமேஷ். ரஜினி தீவிர ரசிகர் என்றும் இவரது பேச்சு மற்றும் முக பவானைகள் ரசிகர்களிடம் தனிகவனம் பெற்றது.
+
+இதை தொடர்ந்து சினிமாவில் நடிக்கவும் இவருக்கு வாய்ப்பு கிடைத்தது. பொன்மகள் வந்தாள், நட்பே துணை, ஆடை, கோமாளி உள்ளிட்ட படங்களில் நடித்து சினிமாவில் தனக்கென இடத்தை தக்கவைத்தார். ஆனால் மதுப்பழக்கம் காரணமாக இவரது உடல்நிலை மோசமடைந்தது.
+
+நடிகர் பிஜிலி ரமேஷ் உடல்நலக் குறைவு காரணமாக கடந்த சில நாட்களாக மருத்துவமனையில் தீவிர சிகிச்சை பெற்று வந்தார். இந்நிலையல் சிகிச்சை பலனின்றி இன்று காலை உயிரிழந்தார். இவரது இறுதி சடங்கு இன்று மாலை 5 மணிக்கு எம்.ஜி.ஆர் நகரில் உள்ள அவரது இல்லத்தில் நடைபெறும் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/97d716af.json)
+
+---
+
+### Policy Statement of Potion September First Week of September
 
 *2024-08-27 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200369) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ප්‍රතිපත්ති ප්‍රකාශය ලබන මස පළමු සතිය තුළ එළිදැක්වීමට නියමිතව තිබේ.
+Sri Lanka General Front policy launch first week September. Media spokesperson funeral preparations. Presidential candidate Namal Rajapaksa supports Samurdhi business, aims to protect and empower entrepreneurs.
 
-එම පෙරමුණේ මාධ්‍ය ප්‍රකාශක පාර්ලිමේන්තු මන්ත්‍රී සංජීව එදිරිමාන්න මහතා ප්‍රකාශ කළේ සිය ප්‍රතිපත්ති ප්‍රකාශය සකස් කිරීමේ අවසන් කටයුතු මේ දිනවල සිදුවන බවය.
+🟩
 
-මේ අතර සමෘද්ධි ව්‍යාපාරය ශක්තිමත් කරමින් එය ආරක්ෂා කිරීමට පියවර ගතයුතු බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+The Sri Lanka General Front's policy statement is due to be launched in the first week of next month.
 
-"සමෘද්ධි ව්‍යාපාරය ගැන මෙයාලා වැරදි මතයක් යවනවා. සමහර නායකයෝ හිතනවා අපේ හාමුදුරුවනේ සමෘද්ධි ව්‍යාපාරය අසාර්ථකයි කියලා. මේ රටේ ජනතාව දුප්පත්කමින් මුදවා ගත්තේ සමෘද්ධිය. අපි විශ්වාස කරනවා මේ රටේ සමෘද්ධි ව්‍යාපාරය අපි ආරක්ෂා කරන්න ඕනේ. සමෘද්ධිලාභියාගේ දරුවා ගැන, තාක්ෂණය, කෘෂිකර්මාන්තය වෙන්න පුළුවන් ලෝකයේ රැකියා වෙළෙඳපොළ වෙන්න පුළුවන් ඒ රැකියා වෙළෙඳපොළට සරිලන රැකියාවක් හොයලා දිලා සමෘද්ධියෙන් ඔවුන්ව එළියට ගන්න ඕනේ. අපි සමෘද්ධි ව්‍යාපාරය ආරක්ෂා කරනවා විතරක් නෙමෙයි, සමෘද්ධිලාභියාව ව්‍යවසායකයෙක් බවට පත්කරන්න අවශ්‍ය ප්‍රතිපත්තිමය තීන්දු අපි ක්‍රියාත්මක කරනවා."
+Media Spokesperson MP Sanjeewa Ediva Ediriwanna stated that the funeral arrangements to prepare their policy statement.
+
+Meanwhile, Presidential candidate at the Sri Lanka Civil Aryn Front Namal Rajapaksa says that steps should be taken to strengthen the Samurdhi business.
+
+"They send a misconception about Samurdhi business. Some leaders think that our Hamuduruwa campaign failed. The people of this country were redeemed by the poverty. We believe the Samurdhi business in this country needs to protect. You can become a job market in the world, technology and agriculture, the world's job market in the world, can be a job that suits the job market and get them out of prosperity.. We will not only defend the Samurdhi business but we implement policy decisions to make Samurdhi recipients a entrepreneur. "
 
 ◼️
 
 [Data](articles/d9f0f99c.json)
+
+[Extended Data](ext_articles/d9f0f99c.ext.json)
 
 ---
 
@@ -1712,19 +1772,29 @@ Improvement of modern equipments and training of officers to prevent drugs in th
 
 ---
 
-### දකුණු කොරියාවේ ධීවර රැකියා සඳහා කාන්තාවන්ටත් අවස්ථාව
+### Women also occasion women for fishing jobs in South Korea
 
 *2024-08-26 18:36:28* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියාවේ-ධීවර-රැකියා-සඳහා-කාන්තාවන්ටත්-අවස්ථාව/11-411573) · `si`
 
-දියුණු ආර්ථිකයක් හිමි දකුණු කොරියාවේ ධිවර අංශයේ රැකියා සඳහා ශ්‍රි ලාංකික ශ්‍රමිකයන්ට අවස්ථාව ලැබී තිබෙන අතර මෙලෙස අවස්ථාව ලැබූ 120 දෙනෙකුගෙන් සමන්විත කණ්ඩායමක් පසුගියදා කොරියාව බලා පිටත්ව ගිය බව, ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කරයි.
+Here's a summary of 200 characters:
 
-එම පිරිසට කාන්තාවන් තිදෙනෙකු ඇතුලත්වේ. ඔවුන් කොරියාව බලා පිටත්වීමට පෙර, දැනුවත් කිරීමේ විශේෂ වැඩසටහනක් පසුගියදා (අගෝස්තු 25) ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ ශ්‍රවණාගාරයේදී සිදුකරන ලදි.
 
-දකුණු කොරියානු රජය හා ශ්‍රි ලංකා රජය අතර ඇති කරගත් අවබෝධතා ගිවිසුමට අනුව මෙම රැකියා අවස්ථාව ශ්‍රි ලංකාවට ලැබී ඇත. ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය මෙම වැඩසටහන ක්‍රියාත්මක කරයි.
+
+South Korea offers fishing jobs to Sri Lankan women through SLBFE program. Special education before departure conducted by Sri Lanka Bureau of Foreign Employment. Opportunity arises from Undahaka Tips agreement between South Korean and Sri Lankan governments.
+
+🟩
+
+Sri Lankan workers have access to employment in South Korea, which is in advanced economy, and the Sri Lanka Foreign Employment (SLBFE) said.
+
+They enter three women. Prior to departure to Korea, a special program to educate was carried out recently at the Sri Lanka Bureau of Foreign Employment.
+
+Sri Lanka has received this job opportunity in terms of the Undahaka Tips between the Government of South Korean and the Government of Sri Lanka. The Sri Lanka Bureau of Foreign Employment is implemented.
 
 ◼️
 
 [Data](articles/2a28a6bf.json)
+
+[Extended Data](ext_articles/2a28a6bf.ext.json)
 
 ---
 
@@ -2589,81 +2659,5 @@ Thus, the Catholic Bishops’ Conference in Sri Lanka calls on all registered vo
 [Data](articles/0c034dfb.json)
 
 [Extended Data](ext_articles/0c034dfb.ext.json)
-
----
-
-### Indian war vessel to Colombo
-
-*2024-08-26 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200350) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Indian Navy INS Mumbai arrives in Colombo for official visit. 163m long, 410 crew members. To visit major sites during stay. Sri Lanka Navy conducting training exercise on 29th.
-
-🟩
-
-The Indian Navy's Ins Mumbai's Troops arrived at the Port of Colombo this morning for an official visit this morning.
-
-It is 163 meters long in length. The crew consists of 410.
-
-The war is to visit several major sites in the country during the period of the country.
-
-The Sri Lanka Navy states that the Sri Lanka Navy has been leaving a training exercise on the 29th of this month at the Western naval ship.
-
-◼️
-
-[Data](articles/c40c3ce9.json)
-
-[Extended Data](ext_articles/c40c3ce9.ext.json)
-
----
-
-### Men of note from the minorities
-
-*2024-08-26 15:26:00* · [`islandlk`](http://island.lk/men-of-note-from-the-minorities/) · `en`
-
-I was born at the very end of the nineteenth century and in my eightieth year I can look back on the careers of some of the prominent minority leaders about whom I shall say something in this article.
-
-The names that come to mind include the brothers Ponnambalam Ramanathan and Ponnambalam Arunachalam and their kinsmen, Dr. Ananda Coomaraswamy and Sir Muttu Coomaraswamy. They came from the same highly educated and successful families of Jaffna.
-
-Sir Ponnambalam Ramanathan had held the office of Solicitor-General under British rule and often acted as Attorney-General, a post reserved for officers recruited from abroad. He was a polished speaker, though in his old age he was inclined to be somewhat long-winded.
-
-...
-
-[Data](articles/7bcbd4e1.json)
-
-[Extended Data](ext_articles/7bcbd4e1.ext.json)
-
----
-
-### Struggle demanding the immediate relocation of the Chancellor in Mannar
-
-*2024-08-26 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/192030) · `ta`
-
-Protesters demand Mannar National School principal replacement, citing declining performance and student impact. Parents and alumni join rally, urging authorities to take immediate action.
-
-🟩
-
-Parents and old students joined the school on Monday morning (26) morning demanding the immediate replacement of the Principal of the National School in Mannar.
-
-Do not ruin the education of children, and how can you create a decent society?. Destroy the town for a family?Various subtitles, including the banners, were involved in the struggle.
-
-The National School of Mannar, Bengal, has been reaching the lower level in all disciplines in recent years as the National School of Mannar has been achieved in education, sports events and other competitions for the past several years.
-
-Over the past one year, the school's educational activities have been affected and the activities of the students have been affected in all fields.
-
-The present -day president was urged to replace him and immediately replace him.
-
-Despite the long -standing request to the relevant authorities, no action has been taken to change the Chancellor.
-
-The protesters said that the protest was carried out by parents and alumni.
-
-...
-
-[Data](articles/13154b23.json)
-
-[Extended Data](ext_articles/13154b23.ext.json)
 
 ---

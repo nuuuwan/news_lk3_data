@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 16:21:34**
+As of **2024-08-27 16:37:01**
 
 ## Newspaper Stats
 
@@ -26,39 +26,57 @@ adaderanasinhalalk | 7,343
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,866 (100.0%) of 42,869 articles have been extended.
+42,869 (100.0%) of 42,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### 4 முறை மூழ்கிய காதல்: ஐந்தாவது முறை துளிர்ந்தது
+### 4 times drowning love: fifth time dropped
 
 *2024-08-27 16:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-முறை-மூழ்கிய-காதல்-ஐந்தாவது-முறை-துளிர்ந்தது/175-342874) · `ta`
 
-காதலுக்கு கண் இல்லை என்பார்கள் ஆனால், கண்களே இல்லை என்பது தற்போது நடைபெற்று கொண்டிருக்கும் சம்பவங்களை பார்க்கும் போது தெட்டத்தெளிவாகிறது.
+Young man jumps into well five times for love, rescued by fire department.
 
-காதலித்த பெண்ணை திருமணம் செய்து வைக்க கேட்டும், உறவினர்கள் மறுத்ததால், அவர்களை மிரட்டுவதற்காக, அருகில் உள்ள விவசாய கிணற்றில் 4 முறை குதித்து தப்பிய இளைஞர் 5ஆவது முறையாக குதித்தபோது மேலே வர இயலாமல் சிக்கிக்கொண்டார். இந்த சம்பவம்,  இந்தியாவில் சேலம் மாவட்டம் எடப்பாடி அருகே இடம்பெற்றுள்ளது.
+🟩
 
-பொலிஸாரிடம் உரிமைக்குரல் எழுப்பும் இவர் தான் காதலுக்கு மரியாதை செய்ய போன இடத்தில் மனம் கலங்கி கிணற்றுக்குள் குதித்து வசமாய் சிக்கிக் கொண்ட காதல் வீரன் விஜய்
+There is no eye for love, but it is not the eyes that look at the ongoing events.
 
-சேலம் மாவட்டம் மேட்டூர் அருகேயுள்ள குஞ்சாண்டியூர் பகுதியைச் சேர்ந்த முனியப்பன் மகன் விஜய் என்பவர், பாலப்பட்டியை சேர்ந்த கல்லூரி மாணவி ஒருவரை கடந்த இரண்டு வருடங்களாக காதலித்து வந்தார். சம்பவத்தன்று மது போதையில் காதலியின் வீடு தேடிச்சென்ற விஜய், காதலியின் வீட்டாரிடம் தனது காதலியை பெண் கேட்டுள்ளார்.
+When the relatives refused to marry the beloved woman, the young man who escaped 4 times in a nearby agricultural well was trapped when he jumped upon the 5th time.. The incident took place near Edappadi in Salem district in India.
+
+Vijay, who is a romantic warrior who has jumped into the well where he went to honor his love
+
+Vijay, son of Muniyappan from Kunjandiyoor near Mettur in Salem district, has been in love with a college student from Balapatti for the past two years. Vijay, who was looking for a girlfriend's house while intoxicated on the day of the incident, asked her girlfriend's girlfriend.
+
+They are said to have called for a girlfriend to marry because they were beaten. Angered by his parents, Vijay jumped into a nearby agricultural well claiming that he would die life.. Vijay has climbed up when the girlfriend cried
 
 ...
 
 [Data](articles/eb85ff3d.json)
 
+[Extended Data](ext_articles/eb85ff3d.ext.json)
+
 ---
 
-### සුසන්තිකාගේ පියා අභාවප්‍රාප්ත වෙයි අවසන් කටයුතු 28 දා
+### Susanthika's father passes away on the 28th
 
 *2024-08-27 15:59:53* · [`adalk`](https://www.ada.lk/breaking_news/සුසන්තිකාගේ-පියා-අභාවප්‍රාප්ත-වෙයි-අවසන්-කටයුතු-28-දා/11-411591) · `si`
 
-පසුගිය 26වැනිදා අභාවප්‍රාප්ත ඔලිම්පික් පදක්කම්ලාභී සුසන්තිකා ජයසිංහගේ පියාණන්ගේ දේහය අල්ගම, උඩුවක සමුපකාරය ඉදිරියේ පිහිටි ඒ මහතාගේ නිවසේ තැන්පත් කර ඇත. මිය යනවිට ඒ මහතා 85 වැනි වියේ පසුවුනා. දේහය පිළිබඳ අවසන් කටයුතු 28 වැනිදා පස්වරු 4ට වරකාපොළ පොදු සුසානභූමියේදී  සිදුකිරීමට නියමිතව ඇත. ( I J )
+Here's a summary of the text in 200 characters:
+
+
+
+SUSANTHIKA'S FATHER DIES AT 85. FUNERAL ON 28TH AT 4 PM IN WARAKAPOLA CEMETERY. BODY PLACED IN HOUSE IN ALGAMA AND UDUWA CO-OPERATIVE.
+
+🟩
+
+The remains of the late Olympic Medalist Susanthika Jayasinghe, who was late on the 26th, is placed in his house in front of the co-operative of Algama and Uduwa. He was 85 years old when he died. The funeral will be held on the 28th at 4 pm on Warakapola Common Cemetery. (I J)
 
 ◼️
 
 [Data](articles/a43a08cd.json)
+
+[Extended Data](ext_articles/a43a08cd.ext.json)
 
 ---
 
@@ -850,15 +868,27 @@ Subsequently, the arrested persons have been produced before the Batticaloa Magi
 
 ---
 
-### නාවික හමුදා නව මාණ්ඩලික ප්‍රධානී රියර් අද්මිරාල් කාංචන බානගොඩ
+### Navy Chief of Staff Rear Admiral Kanagoda Banagoda
 
 *2024-08-27 12:25:44* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-නව-මාණ්ඩලික-ප්‍රධානී-රියර්-අද්මිරාල්-කාංචන-බානගොඩ/11-411583) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ශ්‍රී ලංකා නාවික හමුදාවේ නව මාණ්ඩලික ප්‍රධානී ලෙස රියර් අද්මිරාල් කාංචන බානගොඩ 2024 අගෝස්තු මස 16 වන දින සිට පත්කෙරුණු අතර, නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා විසින් ඊට අදාළ පත්වීම් ලිපිය රියර් අද්මිරාල් කාංචන බානගොඩ වෙත නිල වශයෙන් 2024 අගෝස්තු මස 26 වන දින නාවික හමුදා මූලස්ථානයේදී ප්‍රදානය කර, සිය සුභපැතුම් පිරිනැමීමට කටයුතු කෙරිණි.
+Here's a summary of 200 characters:
+
+
+
+Rear Admiral Kanagoda Banagoda appointed Sri Lanka Navy Chief of Staff. Joined Navy in 1989, completed Trincomalee Naval Academy in 1993. Promoted to Rear Admiral in 2022. Completed Commander and Staff College Bangladesh, MBA Human Resources Australia, National Security Strategic Study Course Colombo. Awarded high-service medal for anti-terrorism efforts. Held various positions including commander speed assault ships, Director Marine Training, North Central Naval Command. Married to Mrs. Ausha Banagoda with two children.
+
+🟩
+
+Rear Admiral Kanagoda, Chief of President Ranil Wickremesinghe was appointed as the new office of the Sri Lanka Navy.Steps were taken to grant his congratulations at the Navy Headquarters.
+
+An old boy of St. Thomas' College, Bandarawela, has joined the Sri Lanka Navy Executive Division of the Sri Lanka Navy in 1989 in 1989.. He was successfully completed the Trincomalee Naval and Maritime Academy in the Naval and Maritime Science Course in 1993, sea military operation to the foliage of the Naval and Maritimedium Student in the Faculty of Indian Naval and Maritime Course.The Targon Training School has been acquired by 2000. The Senior Officer who will promote its career with the career of its career has been promoted to the rank of Rear Admiral on May 4, 2022.
 
 ...
 
 [Data](articles/248ad1f3.json)
+
+[Extended Data](ext_articles/248ad1f3.ext.json)
 
 ---
 

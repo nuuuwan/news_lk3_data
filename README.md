@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 20:56:03**
+As of **2024-08-27 21:07:11**
 
 ## Newspaper Stats
 
-*Scraped **42,912** Articles*
+*Scraped **42,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 410
 islandlk | 2,501
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,967
+adalk | 3,969
 dailymirrorlk | 4,733
-adaderanalk | 5,047
+adaderanalk | 5,048
 tamilmirrorlk | 5,595
 virakesarilk | 6,820
 adaderanasinhalalk | 7,354
@@ -26,21 +26,69 @@ adaderanasinhalalk | 7,354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,910 (100.0%) of 42,912 articles have been extended.
+42,912 (100.0%) of 42,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### ජේ ෂා ICC සභාපති පුටුවට
+### Jay Shah elected unopposed as new International Cricket Council chairman
+
+*2024-08-27 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101553/jay-shah-elected-unopposed-as-new-international-cricket-council-chairman) · `en`
+
+Jay Shah, the secretary of the Board of Control for Cricket in India (BCCI), was elected unopposed as the new chairman of the International Cricket Council (ICC) on Tuesday, August 27.
+
+At 35, Shah is set to become the youngest person to lead the global cricket governing body after submitting his nomination on the deadline day. He will succeed Greg Barclay, who chose not to seek a third term after assuming the role in 2020. Shah will officially take over as the ICC chair on December 1, 2024.
+
+Earlier this month, the ICC announced that elections for the chairman position would only be held if more than one candidate was nominated. On Tuesday, it was confirmed that Shah was the sole nominee for the top job.
+
+It remains to be seen who will assume the role of BCCI secretary when Shah vacates the position at the end of November.
+
+...
+
+[Data](articles/dc16075d.json)
+
+---
+
+### J Shah ICC presidents chair
 
 *2024-08-27 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200398) · `si`
 
-ඉන්දීය ක්‍රිකට් පාලක මණඩලයේ වත්මන් ලේකම් ජේ ෂා ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ නව සභාපතිවරයා ලෙස නිතරගයෙන් තේරී පත්වී තිබේ.
+Here's a summary of 200 characters:
+
+
+
+J Shah becomes unopposed Chairman of ICC, succeeding Juha. He was previously Secretary of the Indian Cricket Board.
+
+🟩
+
+The current Secretary of the Indian Cricket Board has been uncontested as the new Chairman of the James Juha International Cricket Council.
 
 ◼️
 
 [Data](articles/a5bd268e.json)
+
+[Extended Data](ext_articles/a5bd268e.ext.json)
+
+---
+
+### නායකත්වය අරන් මාසයයි - නිරෝෂන් ඉල්ලා අස්වෙයි
+
+*2024-08-27 20:24:47* · [`adalk`](https://www.ada.lk/breaking_news/නායකත්වය-අරන්-මාසයයි---නිරෝෂන්-ඉල්ලා-අස්වෙයි/11-411604) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී නිරෝෂන් ප්‍රේමරත්න මහතා ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණේ නායකත්වයෙන් සහ පක්ෂ සාමාජිකත්වයෙන් ඉල්ලා අස්වී තිබේ.
+
+පක්ෂ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී වාසුදේව නානායක්කාර මහතාට ලිපියක් යොමු කරමින් හෙතෙම මේ බව දැනුම් දී ඇත.
+
+වර්තමාන දේශපාලන තත්ත්වය තුළ සාකච්ඡා කළ පරිදි ඉලක්කයන් වෙත ගමන් කිරීම සඳහා කරන ලද සැලසුම් වලට වාසුදේව නානායක්කාර මහතාගේ සමකාලීන ඇතැම් පක්ෂ සාමාජිකයන් අකමැත්ත දැක්වීම සහ පසුගාමී බව මෙම තීරණය ගැනීමට හේතු සාධක වූ බව අදාළ ලිපියේ සඳහන් කර ඇත.
+
+එමෙන්ම ජනාධිපතිවරණය සඳහා ඇති කරගත් එකඟතාව පසුව වෙනස් වීම තමා දැඩි කැළඹීමට පත්වූ බවත්, පක්ෂය විසින් අවසන් තීන්දුවක් ගෙන තිබියදී භාහිර පුද්ගලයෙකු ජනාධිපතිවරණයට ඉදිරිපත් කිරීම සම්බන්ධව සාකච්ඡා හෝ කිරීම නොකළ යුතු බවත් එහි සඳහන් කර තිබේ.
+
+ඒ අනුව පක්ෂ සාමාජිකත්වයෙන් සහ තනතුරැ වලින් බැහැරව සිටීමට තීරණය කළ බව නිරෝෂන් ප්‍රේමරත්න මහතා අදාළ ලිපියේ වැඩිදුරටත් සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/134d1f2d.json)
 
 ---
 
@@ -70,17 +118,23 @@ Mr. Niroshan Premaratne points out that his decision to implement his party's de
 
 ---
 
-### உள்ளூராட்சி மன்றத் தேர்தல் விவகாரம் : தேர்தல் ஆணையம் நாளை கூடுகிறது
+### Local Government election issue: Election Commission meets tomorrow
 
 *2024-08-27 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/192168) · `ta`
 
-உள்ளூராட்சி மன்றத் தேர்தல் குறித்து ஆலோசிப்பதற்காக தேர்தல்கள் ஆணைக்குழு 28ஆம் திகதி புதன்கிழமை கூடவுள்ளது.
+Election Commission meeting Wednesday 28th discusses local government elections. Chairman RMAL Ratnayake says final decision pending Supreme Court ruling.
 
-தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க, உச்சநீதிமன்றம் வழங்கிய தீர்ப்பு குறித்து விவாதித்த பின்னரே உள்ளாட்சி தேர்தல் குறித்து இறுதி முடிவு எடுக்கப்படும் என்றார்.
+🟩
+
+The Elections Commission will meet on Wednesday 28th to discuss the local government elections.
+
+The chairman of the Election Commission, RMAL Ratnayake, said that the final decision on the local elections would be taken only after discussing the verdict of the Supreme Court.
 
 ◼️
 
 [Data](articles/d84da494.json)
+
+[Extended Data](ext_articles/d84da494.ext.json)
 
 ---
 
@@ -307,6 +361,18 @@ He expressed these views while attending the 37th Annual Conference of the Organ
 [Data](articles/1dee0032.json)
 
 [Extended Data](ext_articles/1dee0032.ext.json)
+
+---
+
+### ඡන්දය සලකුණු කිරීමට සහායකයෙක්  රැගෙන යාමට අවස්ථාව ඇති අය
+
+*2024-08-27 18:50:50* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-සලකුණු-කිරීමට-සහායකයෙක්--රැගෙන-යාමට-අවස්ථාව-ඇති-අය/11-411594) · `si`
+
+ඉදිරි ජනපතිවරණයේදී පූර්ණ හෝ අර්ධ දෘෂ්‍යාබාධිත තත්ත්වයකට හෝ යම් ශාරිරික අශක්නුතාවට පත් ඡන්ද හිමියකුට ඡන්ද පොළේ දී ඡන්ද පත්‍රිකාව සලකුණු කිරීම සඳහා සහායකයෙකු කැටුව යාමට මැතිවරණ කොමිෂන් සභාව විසින් නීතිමය ප්‍රතිපාදන සලසා තිබේ.
+
+◼️
+
+[Data](articles/b3abf9a4.json)
 
 ---
 
@@ -2459,73 +2525,5 @@ Subsequently, the injured were admitted to the Minuwangoda Hospital and suffered
 [Data](articles/d2961e28.json)
 
 [Extended Data](ext_articles/d2961e28.ext.json)
-
----
-
-### Foreign students recruited for universities in Australia
-
-*2024-08-27 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200377) · `si`
-
-Australia limits foreign student recruitment 2025, increases domestic rentals, COVID relief measures for migrants.
-
-🟩
-
-The government has taken steps to reduce the number of foreign students recruited to universities for the universities of Australia for 2025.
-
-Accordingly, steps have been taken to limit the number of foreign students recruited to the country next year.
-
-Authorities have increased the number of home rentals in Australia and the reason for the situation is due to the arrival of foreign students.
-
-Especially due to the covid plague, the government acted in to provide various relief to the migrant community in the country.
-
-◼️
-
-[Data](articles/63f85fbe.json)
-
-[Extended Data](ext_articles/63f85fbe.ext.json)
-
----
-
-### Man hit and killed by train
-
-*2024-08-27 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200376) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Person killed by train in Waskaduwa, Kalutara North. Accident happened yesterday afternoon on route from Mahawa to Beliatta.
-
-🟩
-
-A person was killed and killed by a train in Waskaduwa area in Kalutara North police division.
-
-The accident occurred yesterday afternoon by the train traveling from Mahawa to Beliatta.
-
-◼️
-
-[Data](articles/6aa10256.json)
-
-[Extended Data](ext_articles/6aa10256.ext.json)
-
----
-
-### New Chief of Staff of Sri Lanka Navy appointed
-
-*2024-08-27 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101533/new-chief-of-staff-of-sri-lanka-navy-appointed) · `en`
-
-Rear Admiral Kanchana Banagoda has been appointed as the new Chief of Staff of the Sri Lanka Navy.
-
-The President and Commander-in-Chief of the Armed Forces of Sri Lanka Ranil Wickremesinghe, has appointed Rear Admiral Kanchana Banagoda as the Chief of Staff of Sri Lanka Navy with effect from 16th August 2024.
-
-The Commander of the Navy, Vice Admiral Priyantha Perera had formally handed over the letter of appointment in this regard to Rear Admiral Banagoda at the Navy Headquarters yesterday (26) and extended his best wishes, the SLN said.
-
-Rear Admiral Kanchana Banagoda joined the Sri Lanka Navy in 1989 as an Officer Cadet of the 19th intake, in the Executive branch. On successful completion of his basic training from the Naval and Maritime Academy, Trincomalee, he was commissioned as a Sub Lieutenant in 1991.
-
-...
-
-[Data](articles/fb2904aa.json)
-
-[Extended Data](ext_articles/fb2904aa.ext.json)
 
 ---

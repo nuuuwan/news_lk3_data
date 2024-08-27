@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 22:10:25**
+As of **2024-08-27 22:21:37**
 
 ## Newspaper Stats
 
-*Scraped **42,920** Articles*
+*Scraped **42,921** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 359
 newsfirstlk | 363
 bbccomsinhala | 398
-colombotelegraphcom | 411
+colombotelegraphcom | 412
 islandlk | 2,501
 economynextcom | 2,586
 dailyftlk | 2,779
@@ -26,31 +26,43 @@ adaderanasinhalalk | 7,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,918 (100.0%) of 42,920 articles have been extended.
+42,920 (100.0%) of 42,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### ක්‍රිකට් තරග පාවාදීමේ වරද පිළිගත් ඉන්දියානුවාට අත්හිටවූ සිරදඬුවම්
+### Indian suspended sentences who pleaded guilty to betray cricket
 
 *2024-08-27 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200399) · `si`
 
-ක්‍රිකට් තරග පාවාදීමේ වරද පිළිගත් ඉන්දීය ජාතිකයෙකුට අද (27) මහනුවර මහාධිකරණය විසින් අත්හිටවූ සිරදඬුවම් නියම කළේය.
+Here's a summary of the article in 200 characters:
 
-ඒ, 2024 මාර්තු 08 සිට 19 දක්වා පල්ලෙකැලේ ක්‍රිකට් ක්‍රීඩාංගණයේ පැවැති Legend Cricket Trophy - 2024 තරගාවලිය තුළ සිදු කළ තරග පාවාදීමේ සිද්ධියක් සම්බන්ධයෙනි.
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ දූෂණ විරෝධී ඒකකය මගින් ක්‍රීඩාවලට සම්බන්ධ වැරදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය වෙත කරන ලද පැමිණිල්ලකට අනුව මෙම විමර්ශනය ආරම්භ කර තිබුණි.
 
-එම තරගාවලියේදී පන්ජාබ් රෝයල් කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කළ එංගලන්ත ජාතික ක්‍රීඩකයෙකුට සහ නවසීලන්ත ජාතික ක්‍රීඩකයෙකුට තරග පාවාදීමට යෝජනා කර ඇති බවට සිදු කළ විමර්ශනවලදී අනාවරණය විය.
+Indian national pleads guilty to match-fixing in Sri Lanka. Sentenced to 6 years imprisonment and 11 million rupees fine. Case investigated by ICC Anti-Corruption Unit.
 
-ඒ අනුව මෙම සිද්ධියට අදාළව ඉන්දියානු ජාතිකයෙකු චූදිතයා වශයෙන් නම් කර තරග පාවාදීමට අදාළව හා තරග පාවාදීමට යෝජනා කිරීම සම්බන්ධයෙන් නීතිපති දෙපාර්තමේන්තුව විසින් මහනුවර මහාධිකරණයේ අධිචෝදනා ගොනු කෙරුණි.
+🟩
 
-අද දින මෙම නඩුව කැඳවූ අතර ඉන්දියානු ජාතිකයා එම අධිචෝදනා දෙක සඳහාම වරද පිළිගෙන තිබූ බව පොලීසිය පැවසීය.
+An Indian national who pleaded guilty to betray cricket match was imprisoned by the Kandy High Court today.
 
-...
+It was in connection with a betrayal of the first betrayal of the tournament in the Pallekele Cricket Stadium from 08th to March 19-14.
+
+The investigation was initiated following a complaint lodged by the Anti-Corruption Unit of the International Cricket Council.
+
+Investigations have revealed that a England player and a New Zealand player who played the Punjab Royal team and a New Zealand player have been proposed.
+
+Accordingly, the Attorney General's Department has been indicted by the Attorney General's Department on proposing an Indian national in relation to the incident and to support the betrayal of the match.
+
+The case was taken up today and the Indian national had pleaded guilty for both indictments.
+
+Accordingly, the Kandy High Court judge has been sentenced to 11 million rupees at one point and a serious work in six years.
+
+◼️
 
 [Data](articles/0eb41431.json)
+
+[Extended Data](ext_articles/0eb41431.ext.json)
 
 ---
 
@@ -220,19 +232,31 @@ He also said that a final decision will be taken regarding the local government 
 
 ---
 
-### ඩයනාට අධි චෝදනා භාර දෙයි
+### Diana handed over to overlever
 
 *2024-08-27 19:47:10* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-අධි-චෝදනා-භාර-දෙයි/11-411601) · `si`
 
-නිතී විරෝධී ආකාරයෙන් ද්විත්ව පුරවැසිභාවය දැරීම සම්බන්ධයෙන් හිටපු  රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට එරෙහි අධි චෝදනා බාරදුන් කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා කොන්දේසි සහිත ඇප මත ඇය මුදාහැරීමටද නියම කළේය.
+Sri Lanka Colombo High Court Judge Manjula Thilakaratne released on bail conditions related to dual citizenship. Accused Diana handed over to overlever. Bail set at 25000 rupees and 2 lakh rupees. Case adjourned to October 4 for further proceedings.
 
-රුපියල් 25,000/-ක මුදල් හා රුපියල් ලක්ෂ 10 බැඟින් වටිනා ඇපකරුවන් දෙදෙනෙකුගේ ශරීර ඇප මත විත්තිකාරිය මුදා හැරීමට නියම කළ විනිසුරුවරයා විත්තිකාරියගේ ඇගිලි සලකුණු වාර්තාවක් කැඳවීමටද නියම කළේය.
+🟩
 
-2004 ඔක්තෝම්බර් 09 වැනිදාත් 2004 දෙසැම්බර් පළමුවැනිදාත් කාලය තුළ ශ්‍රීලාංකීය පුරවැසියකු නොවන බව දැන දැනම හා සිය නාමය ඩයනා ගමගේ ලෙස නීත්‍යානූකූලව සශෝධන කර නොතිබියදී ඩයනා ගමගේ ලෙස ජාතික හැඳුන්ම්පතක් ලබා ගැනීමට කූඨ ලේඛන ඉදිරිපත් කර පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂක ජනරාල්වරයා ඇතුළු නිළධාරීන් රැවටීම සහ අංක 4685 දරණ උප්පැන්න සහතිකය කූඨ ලෙස සෑදීමට අනුබල දීම ඇතු`ථ චෝදනා යටතේ නීතීපතිවරයා විත්තිකාරියට එරෙහිව චෝදනා නඟා ඇත.
+Colombo High Court Judge Manjula Thilakaratne was also released on the condition of the terms of former State Minister Diyanama Gamage regarding dual citizenship.
+
+The judge to release the accused to release the accused on Rs. 25,000 / - and two lakhs of Rs.
+
+October 09, 2004 was not a Sri Lankan citizen and the name of the officers of the Department of Registration of Persons to obtain National Idice in December 2004, and the Director General of the Department of Registration of PersonsThe Attorney General has accused the defendant under allegedly making the certificate as culture.
+
+According to the court, the defendant appeared in court when the case was called.
+
+President's Counsel Shanaka Ranasinghe appearing on behalf of the defendant was aimed at the courts issued by the courts and asked for bail to his client.
+
+State Counsel Amana Dharmadasa, who appeared for the complaint, was asked to call the presidential check-out records to cease to call the acorist's fingerprint reports.
 
 ...
 
 [Data](articles/4e57cc47.json)
+
+[Extended Data](ext_articles/4e57cc47.ext.json)
 
 ---
 
@@ -873,6 +897,20 @@ Family rule is a curse for a country. No country has grown in family rule. When 
 [Data](articles/7771893e.json)
 
 [Extended Data](ext_articles/7771893e.ext.json)
+
+---
+
+### EPF Receives Rs. 231 Million In Laugfs Gas Share Manipulation Case
+
+*2024-08-27 16:34:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/epf-receives-rs-231-million-in-laugfs-gas-share-manipulation-case/) · `en`
+
+This note begins with an expression of the highest recognition of the professionalism, courage to be different, and for transparent upholding of the rule of law, as pursued by the Securities and Exchange Commission (SEC) in the above connection. It is an example worthy of noting and emulation by other Independent Institutions, Regulatory Authorities, and Independent Law Enforcement Authorities.
+
+As noted in the media publication titled above (copy attached), the action of the SEC in open court duly making a restitution settlement with the Employees Provident Fund (EPF) of the loss made in 2011, due to purported market manipulations regarding the purchasing of shares of Laugfs Gas PLC.
+
+...
+
+[Data](articles/cf6c6aa6.json)
 
 ---
 
@@ -2459,31 +2497,5 @@ The Supreme Court judge bench made this statement during the hearing of a fundam
 [Data](articles/507b629a.json)
 
 [Extended Data](ext_articles/507b629a.ext.json)
-
----
-
-### JVP charges against Rohini
-
-*2024-08-27 10:50:51* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිණිගෙන්-ජවිපෙට-චෝදනාවක්/11-411579) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-JVP leader Rohini Kavitharatha promises election security. Historical violence: 1988 presidential election (681 deaths), 1989 general election (433 deaths). Recent threats against Anura Kumara Dissanayake. Concerns about fairness and safety.
-
-🟩
-
-"The Leader of the JVP will ensure security to the election day," says Matale District Parliamentarian Rohini Kavitharatha, "says Matale District Parliamentarian Rohini Kavitharatha said.Among the Presidential Elections at Laggala, Matale, said Mrs. Kaviratne said,
-
-"The first six people who vote in the 1988 Generality Truth. Finger cuts. Cotted hair.During the 1988 presidential election, the JVP assassinated 681 people from the UNP, SLFP, Communist and People's Parties.The presidential election was killed in the day.The number of state officials who came to election duty were there.
-
-Then, within two days of 1989, the JVP had killed 433 opposite political opinion in two days.The general election was killed in the day 84 people.There were 121 bombs on polling stations.More than 55 incidents occurred in the Matale district only.
-
-...
-
-[Data](articles/009604b7.json)
-
-[Extended Data](ext_articles/009604b7.ext.json)
 
 ---

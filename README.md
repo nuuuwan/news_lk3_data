@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 12:36:52**
+As of **2024-08-27 12:55:05**
 
 ## Newspaper Stats
 
-*Scraped **42,823** Articles*
+*Scraped **42,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 2,586
 dailyftlk | 2,779
 adalk | 3,951
 dailymirrorlk | 4,733
-adaderanalk | 5,034
-tamilmirrorlk | 5,583
+adaderanalk | 5,036
+tamilmirrorlk | 5,584
 virakesarilk | 6,795
-adaderanasinhalalk | 7,336
+adaderanasinhalalk | 7,337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,823 (100.0%) of 42,823 articles have been extended.
+42,823 (100.0%) of 42,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### 8 Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-08-27 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101539/8-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+Sri Lanka Navy has apprehended 08 Indian fishermen along with an Indian fishing trawler for illegally poaching in Sri Lankan waters off Mannar.
+
+The interception has been carried out during a regular patrol conducted by the Sri Lanka Navy in the northern waters on Monday (26).
+
+The seized trawler together with the 08 Indian fishermen have been brought to the Thalaimannar Harbour and they will be handed over to the Thalaimannar Fisheries Inspector for onward legal proceedings, according to Sri Lanka Navy.
+
+With this recent apprehension, the Sri Lanka Navy says it has seized a total of 46 Indian trawlers and arrested 341 Indian fishermen poaching in Sri Lankan waters in 2024, and subsequently handed them over to authorities for legal proceedings.
+
+◼️
+
+[Data](articles/fcd723e3.json)
+
+---
+
+### ඡන්ද පත්‍රිකාව සලකුණු කර ගැනීමට සහායකයෙකු ලබා ගන්නේ කෙසේද ?
+
+*2024-08-27 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200381) · `si`
+
+පූර්ණ හෝ අර්ධ දෘෂ්‍යාබාධිත තත්ත්වකට පත්වූ හෝ යම් ශාරීරික ආබාධයකට (අශක්නුතාවය) පත්වූ ඡන්ද දායකයෙකුට ඡන්දපොළේදී ඡන්ද පත්‍රිකාව සලකුණු කර ගැනීම සඳහා සහායකයෙකු කැටුව යා හැකි වන පරිදි නීති ප්‍රතිපාදන සලසා ඇති බව මැතිවරණ කොමිසම පවසයි.
+
+එහෙත් එම කැටුව යන සහායකයා වයස අවුරුදු 18ට සම්පූර්ණ වූ අයෙකු වියයුතු අතර එසේම ඔහු මෙම ඡන්ද විමසීම සඳහා ඉදිරිපත් නොවන්නෙකු විය යුතුය.
+
+එමෙන්ම එම සහායකයා මෙම ඡන්ද විමසීමේදී යම් අපේක්ෂකයෙකුගේ බලයලත් නියෝජිතයෙකු, ප්‍රාදේශීය නියෝජිතයෙකු හෝ ඡන්දපොළ නියෝජිතයෙක් වශයෙන් කටයුතු නොකරන්නෙක් විය යුතු බව මැතිවරණ කොමිසම නිවේදනය කළේය.
+
+යම් ඡන්ද දායකයෙක් සහායකයෙක් කැටුව යාම සඳහා ජනාධිපතිවරයා තෝරා ගැනීම පිළිබඳ පනතේ පස්වන උපලේඛන මගින් හඳුන්වා දී ඇති යෝග්‍යතා සහතිකයක් අදාළ ඡන්දපොළෙහි නිලධාරීන් ට ඉදිරිපත් කළ යුතුය.
+
+එම යෝග්‍යතා සහතිකය ලබා ගැනීම සඳහා අවශ්‍ය ඉල්ලුම්පත්‍ර දිස්ත්‍රික් මැතිවරණ කාර්යාලයෙන්, ග්‍රාම නිලධාරී කාර්යාලයෙන් හෝ www.elections.gov.lk වෙබ් අඩවියෙන් ලබාගත හැකිය.
+
+...
+
+[Data](articles/c80cd0f2.json)
+
+---
+
+### டயனாவுக்கு பிணை
+
+*2024-08-27 12:19:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயனாவுக்கு-பிணை/175-342861) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகேவை பிணையில் விடுவிக்க கொழும்பு மேல் நீதிமன்றம் செவ்வாய்க்கிழமை ​(27)உத்தரவிட்டுள்ளது.
+
+இரட்டைக் குடியுரிமை வைத்திருத்தமை தொடர்பான குற்றச்சாட்டுகளை உள்ளடக்கிய சட்டமா அதிபரால் அவருக்கு எதிராக முறையான குற்றச்சாட்டுகள் முன்வைக்கப்பட்டாததைத் தொடர்ந்து குறித்த முடிவு எடுக்கப்பட்டுள்ளது.
+
+இதற்கமைய, கொழும்பு மேல் நீதிமன்ற நீதிபதி மஞ்சுள திலகரத்ன, 25,000 ரூபா மற்றும் ஒரு மில்லியன் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளில் பிணை நிபந்தனைகளை விதித்தார்.
+
+நீதிமன்ற உத்தரவுக்கு பதிலளிக்கும் வகையில் முன்னாள் இராஜாங்க அமைச்சர் டயனா கமகே தனது சட்டத்தரணியுடன் செவ்வாய்க்கிழமை ​(27) நீதிமன்றத்தில் முன்னிலையாகியிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2dfff364.json)
+
+---
+
+### Indictments filed against Diana Gamage over alleged passport fraud
+
+*2024-08-27 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101538/indictments-filed-against-diana-gamage-over-alleged-passport-fraud) · `en`
+
+Indictments have been filed against former State Minister Diana Gamage before the Colombo High Court in connection with the alleged acquiring of a Sri Lankan passport using forged documents.
+
+The charges were presented before Colombo High Court Judge Manjula Thilakaratne today (27), Ada Derana reporter said.
+
+Later, the court also ordered to obtain the fingerprints of the defendant Diana Gamage and to submit a report in this regard to the court.
+
+◼️
+
+[Data](articles/0b76941b.json)
+
+---
 
 ### Fauzi suspended to pay a fine of Rs.
 
@@ -2645,101 +2717,5 @@ Treasury Secretary Mahinda Siriwardana said on August 18 2024 that Sri Lanka’s
 [Data](articles/6ccd4037.json)
 
 [Extended Data](ext_articles/6ccd4037.ext.json)
-
----
-
-### 25 ministries of Anura's government - no
-
-*2024-08-26 19:04:45* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගේ-රජයක-අමාත්‍යාංශ-25යි---රාජ්‍ය-අමාත්‍යධුර-නෑ/11-411574) · `si`
-
-Anura Kumara Dissanayake proposes 25 ministries without state ministers, emphasizes strong foreign policy, and calls for a new constitution to protect rights.
-
-🟩
-
-President candidate leader Anura Kumara Dissanayake said that there are 25 proper ministries of a government in the national popularity and that there are no state minister.. He also said that the government with privately wise government is stopped.Dissanayake added that the rights of all people will establish a new constitution.
-
-He also said that only the advantages of Sri Lanka is mainly consumed in dealing with foreign countries.. Anura Dissanayake made these comments today (26th) at the event of the release of the policy statement of the national immense hotel in Monuach Imperial Hotel today (26). He further said,
-
-...
-
-[Data](articles/1d220b8d.json)
-
-[Extended Data](ext_articles/1d220b8d.ext.json)
-
----
-
-### What the national folk force is going to do the repression and drug prevention
-
-*2024-08-26 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200354) · `si`
-
-National Folk Force prioritizes drug prevention, equipping officers with modern tools to combat rising drug use and transform Sri Lanka from a regional hub.
-
-🟩
-
-The Presidential Post Policy Statement of the National Election stated that due to rapid increase in drug use, it has become a social catastrophe.
-
-In 2022, 152,979 persons were arrested in connection with drugs.
-
-About 60% of the imprisoned persons are involved in drugs.
-
-They also point out that Sri Lanka has become a drug exchange center in the region.
-
-Therefore, the national folk force will be given priority to drug prevention.
-
-Improvement of modern equipments and training of officers to prevent drugs in the country
-
-◼️
-
-[Data](articles/2cf93974.json)
-
-[Extended Data](ext_articles/2cf93974.ext.json)
-
----
-
-### Women also occasion women for fishing jobs in South Korea
-
-*2024-08-26 18:36:28* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියාවේ-ධීවර-රැකියා-සඳහා-කාන්තාවන්ටත්-අවස්ථාව/11-411573) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-South Korea offers fishing jobs to Sri Lankan women through SLBFE program. Special education before departure conducted by Sri Lanka Bureau of Foreign Employment. Opportunity arises from Undahaka Tips agreement between South Korean and Sri Lankan governments.
-
-🟩
-
-Sri Lankan workers have access to employment in South Korea, which is in advanced economy, and the Sri Lanka Foreign Employment (SLBFE) said.
-
-They enter three women. Prior to departure to Korea, a special program to educate was carried out recently at the Sri Lanka Bureau of Foreign Employment.
-
-Sri Lanka has received this job opportunity in terms of the Undahaka Tips between the Government of South Korean and the Government of Sri Lanka. The Sri Lanka Bureau of Foreign Employment is implemented.
-
-◼️
-
-[Data](articles/2a28a6bf.json)
-
-[Extended Data](ext_articles/2a28a6bf.ext.json)
-
----
-
-### Fines for two NPP supporters
-
-*2024-08-26 18:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-ஆதரவாளர்கள்-இருவருக்கு-அபராதம்/175-342808) · `ta`
-
-Two NPP supporters fined for illegal campaign posters in Colombo. Magistrate imposed 1500 rupee fines each.
-
-🟩
-
-Two supporters of the party have been fined in support of the National People's Power Leader and Presidential candidate Anurakumara Dissanayake in violation of the election law.
-
-Police said the suspects were arrested while sticking the election campaign posters of the National People's Power Leader in the Colombo Cinnamon area.
-
-When the suspects were produced before the Colombo Magistrate's Court today, Magistrate Thilina Kamage was fined 1500 rupees each.
-
-◼️
-
-[Data](articles/ac7e8665.json)
-
-[Extended Data](ext_articles/ac7e8665.ext.json)
 
 ---

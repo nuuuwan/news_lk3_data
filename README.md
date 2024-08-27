@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 10:37:15**
+As of **2024-08-27 10:55:41**
 
 ## Newspaper Stats
 
-*Scraped **42,805** Articles*
+*Scraped **42,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,57 @@ dailymirrorlk | 4,733
 adaderanalk | 5,031
 tamilmirrorlk | 5,578
 virakesarilk | 6,793
-adaderanasinhalalk | 7,333
+adaderanasinhalalk | 7,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,804 (100.0%) of 42,805 articles have been extended.
+42,805 (100.0%) of 42,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### දුම්රියේ ගැටී පුද්ගලයෙක් මරුට
+### ඔස්ට්‍රේලියාවේ විශ්වවිද්‍යාල සඳහා බඳවා ගන්නා විදේශීය සිසුන් ප්‍රමාණය සීමා කෙරේ
+
+*2024-08-27 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200377) · `si`
+
+2025 වසර සඳහා ඔස්ට්‍රේලියාවේ විශ්වවිද්‍යාල සඳහා බඳවා ගන්නා විදේශීය සිසුන් ප්‍රමාණය තවත් අඩු කිරීමට එරට රජය කටයුතු කර තිබේ.
+
+ඒ අනුව ලබන වසරේදී එරට විශ්වවිද්‍යාල සඳහා බඳවා ගන්නා විදේශීය සිසුන් ගණන 270,000කට සීමා කිරීමට පියවර ගෙන ඇති බව සඳහන් ය.
+
+ඔස්ට්‍රේලියාවේ නිවාස කුලී අගයන් විශාල ලෙස ඉහළ ගොස් ඇති අතර ඊට හේතුවී ඇත්තේ බලාපොරොත්තු නොවූ ආකාරයට විදෙස් සිසුන් එරට ට පැමිණීම බව බලධාරීන් පවසයි.
+
+විශේෂයෙන් කොවිඩ් වසංගතය හේතුවෙන් සංක්‍රමණික ප්‍රජාවට විවිධ සහන දීමට එරට රජය කටයුතු කළේ එරට ව්‍යාපාර ක්ෂේත්‍රයට අවශ්‍ය පුහුණු ශ්‍රමය ලබාගැනීම සඳහා ය.
+
+◼️
+
+[Data](articles/63f85fbe.json)
+
+---
+
+### Man hit and killed by train
 
 *2024-08-27 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200376) · `si`
 
-කළුතර උතුර පොලිස් වසමේ වස්කඩුව ප්‍රදේශයේදී දුම්රියේ ගැටී පුද්ගලයෙකු මියගොස් තිබේ.
+Here's a summary of the text in 200 characters:
 
-ඊයේ (26) දහවල් කාලයේදී එම අනතුර සිදුව තිබුණේ මහව සිට බෙලිඅත්ත බලා ධාවනය වූ දුම්රියේ ගැටීමෙනි.
+
+
+Person killed by train in Waskaduwa, Kalutara North. Accident happened yesterday afternoon on route from Mahawa to Beliatta.
+
+🟩
+
+A person was killed and killed by a train in Waskaduwa area in Kalutara North police division.
+
+The accident occurred yesterday afternoon by the train traveling from Mahawa to Beliatta.
 
 ◼️
 
 [Data](articles/6aa10256.json)
+
+[Extended Data](ext_articles/6aa10256.ext.json)
 
 ---
 
@@ -2675,35 +2703,5 @@ The Chairman of the Elections Commission, RML Ratnayake, said that if the buses 
 [Data](articles/9f025d87.json)
 
 [Extended Data](ext_articles/9f025d87.ext.json)
-
----
-
-### A man from the Swiss country is recovered in the north of Vavuniya
-
-*2024-08-26 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/192058) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Swiss national killed in brawl Sri Lanka Vavuniya police investigation ongoing
-
-🟩
-
-The body of a family member from the Swiss country has been found dead on Monday (26) at a house in Chinnatampan, Vavuniya, Kanagarayankulam police said.
-
-A relative's house in Chinnatampan, Vavuniya is staying on vacation from Swiss.
-
-The man who came from the Swiss country and his cousin in the house had been drinking at night and had become a melee.
-
-In the meantime, he died on the spot when he was hit by an iron rod on the head of a Swiss country.
-
-The Kanagarayakulam police who went to the place of the complaint were arrested in connection with the complaint and said that a 60 -year -old family member has been arrested and further investigations are being carried out.
-
-◼️
-
-[Data](articles/b62de380.json)
-
-[Extended Data](ext_articles/b62de380.ext.json)
 
 ---

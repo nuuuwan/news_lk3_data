@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 02:21:37**
+As of **2024-08-28 02:36:48**
 
 ## Newspaper Stats
 
-*Scraped **42,942** Articles*
+*Scraped **42,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,779
 adalk | 3,972
 dailymirrorlk | 4,733
 adaderanalk | 5,050
-tamilmirrorlk | 5,597
+tamilmirrorlk | 5,598
 virakesarilk | 6,825
 adaderanasinhalalk | 7,357
 
@@ -26,9 +26,27 @@ adaderanasinhalalk | 7,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,942 (100.0%) of 42,942 articles have been extended.
+42,942 (100.0%) of 42,943 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-28 (Wednesday)
+
+### காசா மீது இஸ்ரேல் தீவிர தாக்குதல்
+
+*2024-08-28 02:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-மீது-இஸ்ரேல்-தீவிர-தாக்குதல்/50-342899) · `ta`
+
+காசா மீதான இஸ்ரேலின் தாக்குதலில் நேற்று மாத்திரம் சுமார் 20 பேர் கொல்லப்பட்டுள்ளனர் என தெரிவிக்கப்பட்டுள்ளது.
+
+டெய்ர் எல்-பலா மற்றும் கான் யூனிஸ் ஆகிய பகுதிகளில் மேற்கொள்ளப்பட்ட தாக்குதல்களின் போதே அவர்கள் கொல்லப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+காசா மீதான இஸ்ரேலின் போர் நடவடிக்கையில் இதுவரை சுமார் 40,476 பேர் கொல்லப்பட்டுள்ளனர். 93,647 பேர் காயமடைந்துள்ளனர் என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன. (a)
+
+◼️
+
+[Data](articles/ed97b932.json)
+
+---
 
 ### 2024-08-27 (Tuesday)
 
@@ -2467,25 +2485,5 @@ The use of artificial intelligence in major sectors such as agriculture, health 
 [Data](articles/9163c0ed.json)
 
 [Extended Data](ext_articles/9163c0ed.ext.json)
-
----
-
-### 8 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-08-27 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101539/8-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-Sri Lanka Navy has apprehended 08 Indian fishermen along with an Indian fishing trawler for illegally poaching in Sri Lankan waters off Mannar.
-
-The interception has been carried out during a regular patrol conducted by the Sri Lanka Navy in the northern waters on Monday (26).
-
-The seized trawler together with the 08 Indian fishermen have been brought to the Thalaimannar Harbour and they will be handed over to the Thalaimannar Fisheries Inspector for onward legal proceedings, according to Sri Lanka Navy.
-
-With this recent apprehension, the Sri Lanka Navy says it has seized a total of 46 Indian trawlers and arrested 341 Indian fishermen poaching in Sri Lankan waters in 2024, and subsequently handed them over to authorities for legal proceedings.
-
-◼️
-
-[Data](articles/fcd723e3.json)
-
-[Extended Data](ext_articles/fcd723e3.ext.json)
 
 ---

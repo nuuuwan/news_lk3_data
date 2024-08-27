@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 10:09:58**
+As of **2024-08-27 10:21:33**
 
 ## Newspaper Stats
 
-*Scraped **42,803** Articles*
+*Scraped **42,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,584
 dailyftlk | 2,779
 adalk | 3,948
 dailymirrorlk | 4,733
-adaderanalk | 5,030
+adaderanalk | 5,031
 tamilmirrorlk | 5,578
 virakesarilk | 6,793
 adaderanasinhalalk | 7,332
@@ -26,109 +26,177 @@ adaderanasinhalalk | 7,332
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,793 (100.0%) of 42,803 articles have been extended.
+42,803 (100.0%) of 42,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### முஸ்லிம் சகோதரத்துவ சந்திப்பில் ​அநுர
+### New Chief of Staff of Sri Lanka Navy appointed
+
+*2024-08-27 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101533/new-chief-of-staff-of-sri-lanka-navy-appointed) · `en`
+
+Rear Admiral Kanchana Banagoda has been appointed as the new Chief of Staff of the Sri Lanka Navy.
+
+The President and Commander-in-Chief of the Armed Forces of Sri Lanka Ranil Wickremesinghe, has appointed Rear Admiral Kanchana Banagoda as the Chief of Staff of Sri Lanka Navy with effect from 16th August 2024.
+
+The Commander of the Navy, Vice Admiral Priyantha Perera had formally handed over the letter of appointment in this regard to Rear Admiral Banagoda at the Navy Headquarters yesterday (26) and extended his best wishes, the SLN said.
+
+Rear Admiral Kanchana Banagoda joined the Sri Lanka Navy in 1989 as an Officer Cadet of the 19th intake, in the Executive branch. On successful completion of his basic training from the Naval and Maritime Academy, Trincomalee, he was commissioned as a Sub Lieutenant in 1991.
+
+...
+
+[Data](articles/fb2904aa.json)
+
+---
+
+### Anura at Muslim Brotherhood Meeting
 
 *2024-08-27 09:55:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-சகோதரத்துவ-சந்திப்பில்-அநுர/175-342849) · `ta`
 
-The Taprobane Entertainment இல் இடம்பெற்ற கொழும்பு “முஸ்லிம் சகோதரத்துவ சந்திப்பு” நிகழ்வில் தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க திங்கட்கிழமை (26) கலந்துகொண்டிருந்தார்.
+Anura Kumara Dissanayake attended Muslim Brotherhood meeting in Colombo. Many Muslims participating in 2024 presidential election aim to create prosperous country.
 
-“வளமான நாடு - அழகான வாழ்க்கை” ஐ உருவாக்கிக் கொடுக்கின்ற புதிய மறுமலர்ச்சிப் பாதைக்கு நாட்டை இட்டுச் செல்கின்ற 2024 ஜனாதிபதித் தேர்தலின் பெருவெற்றிக்காக கொழும்பு வாழ் முஸ்லிம் மக்கள் பலர் இணைந்துகொண்டிருந்தமை குறிப்பிடத்தக்கது.
+🟩
+
+National People's Power Leader Anura Kumara Dissanayake was present at the "Muslim Brotherhood Meeting" held at The Taprobane Entertainment on Monday (26).
+
+It is noteworthy that many Muslims living in Colombo have joined the 2024 presidential election, which leads the country to the new revival path that creates a "prosperous country - beautiful life".
 
 ◼️
 
 [Data](articles/6bb90f41.json)
 
+[Extended Data](ext_articles/6bb90f41.ext.json)
+
 ---
 
-### மனைவியை பொல்லால் தாக்கி கொலை - கணவன் கைது
+### Husband arrested
 
 *2024-08-27 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/192083) · `ta`
 
-ஹபரணை, பலுகஸ்வெவ பகுதியில் மனைவியை பொல்லால் தாக்கி கொலை செய்த கணவன் கைது செய்யப்பட்டுள்ளதாக ஹபரணை பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the article in 200 characters:
 
-இதனையடுத்து, 66 வயதுடைய சந்தேக நபரான கணவர் கைது செய்யப்பட்டுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை ஹபரணை பொலிஸார் மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+
+"Husband arrested for alleged assault/murder of 66-year-old wife in Palukaswewa, Habarana. Police investigating further."
+
+🟩
+
+Habarana police said that a husband has been arrested for allegedly assaulting and murdering his wife in Palukaswewa area in Habarana.
+
+Subsequently, the husband of the 66 -year -old suspect has been arrested and Habarana police are conducting further investigations into the incident, police said.
 
 ◼️
 
 [Data](articles/49dd54e5.json)
 
+[Extended Data](ext_articles/49dd54e5.ext.json)
+
 ---
 
-### අධිකරණයට අපහාස කළ නීතිඥවරියට රට ගමන් තහනම් කරමින් අධිකරණ නියෝගයක්
+### Court order to babin the lawyer to the lawyer who insulted the judiciary
 
 *2024-08-27 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200374) · `si`
 
-නීතිඥ වෘත්තීයේ නිරත වීම තහනම් කරමින් ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝගයක් නිකුත් කර තිබියදී එම නියෝගය උල්ලංඝනය කරමින් අදාළ වෘත්තීයේ නිරත විම තුළින් අධිකරණයට අපහාස කළේ යැයි චෝදනා එල්ල වී සිටින කැකිරාව ප්‍රදේශයේ පදිංචි නීතිඥවරියකට අධිකරණයේ අවසරයකින් තොරව විදේශගත වීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය ඊයේ (26) නියෝගයක් නිකුත් කළේය.
+Supreme Court orders lawyer to apologize for insulting judiciary.
 
-මෙම නීතිඥවරියට අදාළ පැමිණිල්ල ඊයේ එස්. තුරෙයි රාජා, කුමුදුනී වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එම අවස්ථාවේදී වග උත්තරකාර නීතිඥවරිය අධිකරණය ඉදිරියේ පෙනී සිටි අතර නීතිපතිවරයා විසින් කෙටුම්පත් කර තිබූ අධිකරණයට අපහාස කිරීමේ චෝදනාවලට අදාළ චෝදනා පත්‍ර ඇයට විවෘත අධිකරණයේ කියවා භාරදුන්නාය.
+The Supreme Court yesterday (26) ordered a lawyer from Kakirawa, who was accused of violating the court without the permission of the court.
 
-පසුව අධිකරණය කළ විමසීමකදී වගඋත්තරකාර නීතිඥවරිය සඳහන් කළේ, තමන් අදාළ චෝදනාවලට නිවැරදිකාරිය බවය.
+The complaint lodged with this lawyer yesterday. The three-member judges of the three-member judges with Turai Raja and Kumuduni Wickremasinghe and Janaka de Silva were called before the Supreme Court Bench.
 
-කැකිරාව නීතිඥ මණ්ඩලයේ නිලධාරියෙක් තමන් හා අමනාපයෙන් පසුවන බවත් තමන්ගෙන් පළිගැනීම සඳහා මෙම පැමිණිල්ල ඉදිරිපත් කර තිබෙන බවත් අදාළ නීතිඥවරිය අධිකරණය හමුවේ පැවසුවාය.
+The President's attorneys appeared before the Court and the allegations led by the charges was charged in the Open Court of Attorney General.
+
+Upon inquiry made by a inquiry, the respondent lawyer stated that he was the right of the charges.
+
+The lawyer told the court that a Bar Assignment of the Bar Assignment of the Bar Association of Kekirawa was present and lodged a complaint.
+
+Accordingly, the three-member panel of judges was issued to the examination to be heard on September 24 and issued an order without the permission of the court.
 
 ...
 
 [Data](articles/d00d9a39.json)
 
+[Extended Data](ext_articles/d00d9a39.ext.json)
+
 ---
 
-### சூடானில் நீர்த்தேக்க அணைக்கட்டு உடைந்ததில் 30 பேர் பலி : 20 கிராமங்கள் பாதிப்பு
+### 30 people killed in reservoir dam in Sudan
 
 *2024-08-27 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/192087) · `ta`
 
-சூடானில் பெய்து வரும் பலத்த மழையினால் நீர்த்தேக்கத்தின் அணைக்கட்டு உடைந்துள்ளதையடுத்து ஏற்பட்ட வெள்ளப்பெருக்கால் 20 கிராமங்கள் பாதிக்கபட்டுள்ளதுடன் 30 பேர் உயிரிழந்துள்ளர்.
+Sudan reservoir dam flood kills 30, affects 20 villages. UN warns more deaths possible. Heavy rains damage infrastructure, 50,000 homes flooded. Similar incidents in Libya and Sudan threaten water supply.
 
-இந்த சம்பவத்தில் மேலும் பலர் உயிரிழந்திருக்கலாம் என  ஐக்கிய நாடுகள் சபை திங்களன்று தெரிவித்துள்ளது.
+🟩
 
-கடந்த ஞாயிற்றுக்கிழமை பெய்த பலத்த மழையால் துறைமுக நகரமான போர்ட் சூடானில் இருந்து வடக்கே 40 கிலோ மீற்றர் (25 மைல்) தொலைவில் உள்ள அர்பாத் நீர்த்தேக்கத்தின் அணைக்கட்டே உடைந்து வெள்ளப்பெருக்கு ஏற்பட்டுள்ளது.
+20 villages have been affected and 30 people have died due to the flooding of the reservoir dam in Sudan.
 
-இதனால், அந்தப் பகுதி அடையாளம் காண முடியாத அளவிற்கு அழிந்துள்ளதோடு மின்சாரம் மற்றும் தண்ணீர் குழாய்கள் சேதமடைந்துள்ளன.
+The United Nations said on Monday that many more people may have died in the incident.
 
-150 முதல் 200 பேர் வரை காணமல் போயுள்ளதுடன் ஏறக்குறைய 50,000 பேரின் வீடுகள் வெள்ளத்தால் பாதிக்கப்பட்டுள்ளன.
+Last Sunday, heavy rains have been flooded by the port city of Port Sudan, a dam of the Arbad reservoir at 40 km (25 miles) north.
 
-இதே போன்ற சம்பவம் கடந்த ஆண்டு செப்டெம்பரில் கிழக்கு லிபிய நகரமான டெர்னாவில் சூறாவளி காற்றுடன் பெய்த மழையினால்  நீர்த்தேக்கத்தின் அணைகள் உடைந்து  ஆயிரக்கணக்கான மக்கள் உயிரிழந்துள்ளனர்.
+As a result, the area is unidentified and the power and water pipes have been damaged.
 
-...
+About 150 to 200 people have disappeared and nearly 50,000 homes have been flooded.
+
+A similar incident in September last year, the Eastern Libyan city of Terna has caused thousands of people to break down the reservoir dams.
+
+The reservoir is the main water resource of Port Sudan, the homeland of the main Red Sea port and the working airport.
+
+The Sudan Environmental Activists Association said in a statement that the city may be threatened by drought in the coming days due to the breakdown of the reservoir.
+
+◼️
 
 [Data](articles/1a5396f9.json)
 
+[Extended Data](ext_articles/1a5396f9.ext.json)
+
 ---
 
-### SLPP-யின் தேர்தல் விஞ்ஞாபனம்
+### SLPP's election manifesto
 
 *2024-08-27 09:43:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLPP-யின்-தேர்தல்-விஞ்ஞாபனம்/175-342847) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேர்தல் விஞ்ஞாபனம் அடுத்த மாதம் முதல் வாரத்தில் வெளியிடப்படவுள்ளது.
+Here's a summary of the text in 200 characters:
 
-கட்சியின் தேர்தல் விஞ்ஞாபனத்தை தயாரிக்கும் இறுதிப் பணிகள் தற்போது இடம்பெற்று வருவதாக தெரிவிக்கப்படுகின்றது. R
+
+
+SLPP election manifesto release imminent. Final preparations underway.
+
+🟩
+
+The election manifesto of the Sri Lanka PA is due to be released in the first week of next month.
+
+It is reported that the final work of preparing the party's election manifesto is currently underway. Remble
 
 ◼️
 
 [Data](articles/c034157e.json)
 
+[Extended Data](ext_articles/c034157e.ext.json)
+
 ---
 
-### அணை உடைந்ததில் 30 பேர் பலி
+### 30 people killed in dam collapse
 
 *2024-08-27 09:42:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அணை-உடைந்ததில்-30-பேர்-பலி/50-342846) · `ta`
 
-கிழக்கு சூடானில் பெரும் வெள்ளப்பெருக்கு காரணமாக அணை உடைந்து விபத்து ஏற்பட்டதில், 30 பேர் பரிதாபமாக உயிரிழந்தனர். மேலும் பலரைக் காணவில்லை என  அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Dam collapse kills 30 in East Sudan; 50,000 displaced. Heavy rains cause Arbad Dam breach, leaving many missing.
 
-கிழக்கு சூடானில் கனமழை காரணமாக அர்பாத் அணை உடைந்து பெருவெள்ளம் ஏற்பட்டது. இந்த வெள்ளத்தில் அடித்துச் செல்லப்பட்டு 30 பேர் உயிரிழந்தனர்.
+🟩
 
-மேலும் பலரை காணவில்லை என்பதோடு சுற்றுவட்டாரத்தில் உள்ள 20 கிராமங்களில் வசிக்கும் மக்கள் பாதிக்கப்பட்டுள்ளனர். இதனால், 50,000 பேர் வீடின்றி தவித்து வருகின்றனர்.
+At least 30 people were killed when a dam crashed due to heavy floods in East Sudan. The media has reported that many more people are missing.
+
+Arbad Dam was broken due to heavy rains in East Sudan. The flood was struck and 30 people died.
+
+Many more people are missing and residents of 20 villages in the surrounding area have been affected. As a result, 50,000 people are homeless.
 
 ◼️
 
 [Data](articles/ae7ea09d.json)
+
+[Extended Data](ext_articles/ae7ea09d.ext.json)
 
 ---
 
@@ -250,59 +318,89 @@ It is such an idea that the Commissioner General of Excising Department has expr
 
 ---
 
-### யாழில் கார் மோதி முதியவர் பரிதாபமாக உயரிழப்பு!
+### Elderly people miserable
 
 *2024-08-27 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/192082) · `ta`
 
-யாழில் கார் மோதி விபத்துக்குள்ளாகிய முதியவர் ஒருவர் நேற்று திங்கட்கிழமை (26) உயிரிழந்துள்ளார்.
+Here's a summary of the text in 200 characters:
 
-இதன்போது அரசடி வீதி, இருபாலை கிழக்கு, இருபாலை பகுதியைச் சேர்ந்த  69 வயதுடையவரே உயிரிழந்துள்ளார்.
 
-குறித்த நபர் யாழ். நகரில் பாதுகாப்பு உத்தியோகத்தராக பணியாற்றி வரும் நிலையில் கடந்த 25ஆம் திகதி இரவுநேர கடமையை முடித்து விட்டு, காலை 8 மணியளவில் வீடு நோக்கி சென்றுகொண்டிருந்த போது விபத்திற்குள்ளாகியுள்ளார்.
 
-விபத்தில் படுகாயமடைந்த நபர் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில், சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+Elderly man dies suddenly in Jaffna. 69-year-old security officer found dead on road. Body sent for autopsy before being returned to family.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது.
+🟩
+
+An elderly man died on Monday (26).
+
+The 69 -year -old from the Rajadi Road, East and Irukkalai area has died.
+
+Jaffna. He was working as a security officer in the city, leaving the night on the night of the night and was on his way home at 8 am.
+
+The injured person has been admitted to the Jaffna Teaching Hospital and has died without treatment.
+
+Sudden Death Investigation Officer Namasivayam Premkumar. The body has been handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/2baa3982.json)
 
+[Extended Data](ext_articles/2baa3982.ext.json)
+
 ---
 
-### களுவாஞ்சிக்குடி நீதிமன்றிற்கு வழக்கிற்காக அழைத்துவரப்பட்ட கைதி தப்பியோட்டம்
+### The prisoner who was brought to the Kaluwanchikudi court
 
 *2024-08-27 08:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/192081) · `ta`
 
-மட்டக்களப்பு களுவாஞ்சிக்குடி நீதிமன்ற வளாகத்தில் மலசலகூடத்திற்கு சென்ற தண்டனை பெற்ற கைதி ஒருவர் தப்பி ஓடிய சம்பவம் திங்கட்கிழமை (26) பகல் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-மட்டக்களப்பு உட்பட பல இடங்களில் கொள்ளையிட்ட சம்பவங்கள் தொடர்பாக கைது செய்யப்பட்டு நீதிமன்ற தண்டணை வழங்கப்பட்டு மட்டக்களப்பு சிறைச்சாலையில் அடைக்கப்பட்ட கிளிநொச்சி இரணைமடு பிரதேசத்தைச் சேர்ந்த 32 வயதுடைய கைதியை சம்பவதினமான நேற்று களுவாஞ்சிக்குடி நீதிவான் நீதிமன்றத்தில் வழக்கு தொடர்பாக சிறைக்காவலர்கள் அழைத்துச் சென்று அங்குள்ள கூண்டில் அடைத்து வைத்தனர்.
 
-இந்த நிலையில் குறித்த கைதி நேற்று பகல் 12 மணியளவில் கூண்டில் இருந்து மலசலம் கழிப்பதற்காக சிறைக்காவலர் அழைத்து சென்று மலசலம் கழிப்பதற்கு விட்டுவிட்டு வெளியில் காவல் இருந்துள்ள நிலையில் கைதி மலசலகூட கூரையை கழற்றி அதனூடாக தப்பி ஓடியுள்ளார்.
+
+Prisoner escapes Kaluwanchikudi court cage during trial. 32-year-old suspect from Kilinochchi faces charges for robberies in Batticaloa. Incident occurred on Monday (26).
+
+🟩
+
+The incident took place on Monday (26) that a prisoner who was convicted at the Kaluwanchikudi court premises in Batticaloa had taken place on Monday (26).
+
+A 32 -year -old prisoner from Kilinochchi, Iranaimadu area, who was arrested in connection with several incidents of robbery in several places, including Batticaloa, was taken to the Kaluwanchikudi Magistrate's Court yesterday.
+
+In this case, the prisoner took off the cage at around 12 noon yesterday and left the prisoner to spend the cage and left the rectum.
 
 ◼️
 
 [Data](articles/f2dea5bf.json)
 
+[Extended Data](ext_articles/f2dea5bf.ext.json)
+
 ---
 
-### வளர்ப்பு நாய் கடிக்கு இலக்கான குடும்பப் பெண் உயிரிழப்பு - யாழில் சம்பவம் !
+### Family girl dies in a foster dog bite
 
 *2024-08-27 08:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/192080) · `ta`
 
-யாழில் குடும்பப் பெண்ணொருவர் வளர்ப்பு நாய் கடிக்கு உள்ளாகிய நிலையில் நேற்று திங்கட்கிழமை (26)  உயிரிழந்துள்ளார்.
+Here's a summary of the article in 200 characters:
 
-காரைக்காட்டு வீதி, வண்ணார் பண்ணை பகுதியைச் சேர்ந்த மகேந்திரம் சாந்தி (வயது 62) என்பவரே உயிரிழந்துள்ளார்.
 
-உயிரிழந்த பெண்ணுக்கு கடந்த ஜூலை மாதம் 24ஆம் திகதி வளர்ப்பு நாய் கையில் கடித்துள்ளது. இந்நிலையில் அவர் ஆகஸ்ட் மாதம் 13ஆம் திகதி சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டார். சிகிச்சையின் பின்னர் வீடு திரும்பியுள்ளார்.
 
-இந்நிலையில் அவருக்கு பக்றீரியா தொற்று ஏற்பட்டதன் காரணமாக, தோல் வியாதி ஏற்பட்டு நேற்று திங்கட்கிழமை அதிகாலை காலை உயிரிழந்துள்ளார்.
+62-year-old woman dies from dog bite infection. Bitten July 24, hospitalized Aug 13. Returned home but succumbed to bacterial infection on Monday. Body handed over to relatives after autopsy.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+🟩
+
+A family woman died on Monday (26) after a family woman was bitten by a dog.
+
+The deceased is Mahendram Shanti (age 62) from Karaikkadu Road, Varnar Farm.
+
+The deceased woman was bitten by a dog on July 24 last year. He was admitted to the Jaffna Teaching Hospital for treatment on August 13. He has returned home after treatment.
+
+He suffered a bacterial infection and died of a skin illness on Monday morning.
+
+Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/0d157b9a.json)
+
+[Extended Data](ext_articles/0d157b9a.ext.json)
 
 ---
 
@@ -376,17 +474,23 @@ He cited potential outcomes such as increased street violence, attacks on religi
 
 ---
 
-### විමලවීරත් රනිල්ට හේත්තුවෙයි
+### Wimalaweerath Ranil Heptic
 
 *2024-08-27 08:14:59* · [`adalk`](https://www.ada.lk/breaking_news/විමලවීරත්-රනිල්ට-හේත්තුවෙයි/11-411578) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ දිගාමඩුල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රි විමලවිර දිසානායක මහතා ඉදිරි ජනපතිවරණයේදි ජනපති අපේක්ෂක වත්මන් ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය ලබාදීමට තීරණය කර තිබේ.
+Dissanayake supports Wickremesinghe for president. Election operations found in Malraraye, Colombo.
 
-ඊයේ පස්වරුවේදි කොළඹ මල්පාරේ පිහිටි ජනපති රනිල් වික්‍රමසිංහ මහතාගේ මැතිවරණ මෙහෙයුම් කාර්ලායේදි ජනපති රනිල් වික්‍රමසිංහ මහතා හමුවී ඉදිරි ජනපතිවරණයේදී ජනපතිවරයාගේ ජයග්‍රහණය වෙනුවෙන් කැපවෙන බව ප්‍රකාශ කර තිබේ.
+🟩
+
+Digamadulla District Digamadulla District MP Digamadulla District MP Digamadulla District Parliamentarian Dissanayake has decided to support Ranil Wickremesinghe in the next presidential election.
+
+President Ranil Wickremesinghe's election operations at Malraraye, Ranil Wickremesinghe, Colombo, has been found to be held in Ranil Wickremesinghe at the next presidential election.
 
 ◼️
 
 [Data](articles/30ad9a17.json)
+
+[Extended Data](ext_articles/30ad9a17.ext.json)
 
 ---
 
@@ -2607,27 +2711,5 @@ M.J. Gunasiri, Commissioner General of Excise said the liquor production fell 22
 [Data](articles/00594acd.json)
 
 [Extended Data](ext_articles/00594acd.ext.json)
-
----
-
-### Samurdhi officer dies in accident in Jaffna
-
-*2024-08-26 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/192052) · `ta`
-
-Samurdhi officer killed in Jaffna crash.
-
-🟩
-
-A Samurdhi officer died in an accident in Jaffna this morning (26).
-
-While he was brought from a private class on a motorbike, he was injured when a three -wheeler crashed into a motorcycle at 8.45 pm last night.
-
-The victims were admitted to the Jaffna Bodhana Hospital for treatment and died without treatment.
-
-◼️
-
-[Data](articles/560ac007.json)
-
-[Extended Data](ext_articles/560ac007.ext.json)
 
 ---

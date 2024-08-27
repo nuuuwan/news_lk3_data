@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 13:22:08**
+As of **2024-08-27 13:37:06**
 
 ## Newspaper Stats
 
-*Scraped **42,832** Articles*
+*Scraped **42,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 5,038
 tamilmirrorlk | 5,584
 virakesarilk | 6,795
-adaderanasinhalalk | 7,338
+adaderanasinhalalk | 7,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,830 (100.0%) of 42,832 articles have been extended.
+42,832 (100.0%) of 42,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### සර්වජන අපේක්ෂක දිලිත්ගෙන් සෞඛ්‍ය කේෂ්ත්‍රයට සුබ පණිවුඩයක්
+
+*2024-08-27 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200384) · `si`
+
+සෞඛ්‍ය ක්ෂේත්‍රයේ පැන නැගී ඇති ගැටලු සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය අද (27) සර්වජන ජනාධිපති අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා මුණ ගැසුණි.
+
+සාකච්ඡාවෙන් පසු රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ ලේකම් වෛද්‍ය ප්‍රභාත් සුගතපාල මහතා පැවසුවේ, සෙසු ජනාධිපති අපේක්ෂකයින්ට සාපේක්ෂව දිලිත් ජයවීර මහතා සෞඛ්‍ය ක්ෂේත්‍රයේ ගැටලු ගැන මනා අවබෝධයෙන් පසුවන බවය.
+
+මෙහිදී අදහස් දැක්වු රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ ලේකම්, වෛද්‍ය ප්‍රභාත් සුගතපාල මහතා,
+
+...
+
+[Data](articles/80a5ce8c.json)
+
+---
 
 ### Assisted voting for the disabled: Election Commission details new provisions
 
@@ -47,6 +63,24 @@ In addition, the person who accompanies the disabled person should not be a pers
 ...
 
 [Data](articles/dad2d2b6.json)
+
+[Extended Data](ext_articles/dad2d2b6.ext.json)
+
+---
+
+### මහ බැංකු අධිපතිගෙන් අනතුරු ඇඟවීමක්
+
+*2024-08-27 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200383) · `si`
+
+දැනට ක්‍රියාත්මක ආර්ථික වැඩපිළිවෙළෙහි ප්‍රතිඵල ආපසු හැරවීමක් සිදුවුවහොත් පසුගිය වසර දෙකේදී අප අත්විඳි අන්දමේ ආර්ථික සහ සමාජීය අර්බුදයක් නැවත ඇතිවිය හැකි බව ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+ශ්‍රී ලංකා වෘත්තීය සංගම් සංවිධානයේ 37 වන වාර්ෂික සමුළුවට එක්වෙමින් ඔහු මේ අදහස් පළ කළේය.
+
+එහිදී වැඩිදුරටත් අදස් දැක්වූ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා,
+
+...
+
+[Data](articles/1ae9c93a.json)
 
 ---
 
@@ -430,17 +464,29 @@ The Supreme Court judge bench made this statement during the hearing of a fundam
 
 ---
 
-### රෝහිණිගෙන් ජවිපෙට චෝදනාවක්
+### JVP charges against Rohini
 
 *2024-08-27 10:50:51* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිණිගෙන්-ජවිපෙට-චෝදනාවක්/11-411579) · `si`
 
-"ජනතා විමුක්ති පෙරමුණේ නායකයා හැම රැස්වීමකට ‘‘මැතිවරණ දිනයේ ත්, මැතිවරණයෙන් පස්සෙත් ආරක්ෂාව තහවුරු කරනවා කියලා‘‘ කියනවා.  ජනතා විමුක්ති පෙරමුණ මැතිවරණ දිනයේ ආරක්ෂාව තහවුරු කරපු හැටි අපි හැමෝටම තවම මතක" යැයි මාතලේ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී රෝහිණී කවිතරත්න පවසයි.  මාතලේ ලග්ගල පැවති ජනාධිපතිවරණ රැස්වීම් අමතමින් කවිරත්න මහත්මිය පැවසූවේ,
+Here's a summary of the text in 200 characters:
 
-"ජවිපෙ 1988 ජනාධි තිවරණයේ දී ඡන්දය දමන පළමු පුද්ගලයින් 6 දෙනා ඝාතනය කරන බව කිව්වා. ඇඟිලි කැපුවා. කොන්ඩේ කැපුවා.  1988 ජනාධිපතිවරණ සමයේ දී එජාප,ශ්‍රිලනිප, කොමියුනිස්ට්, මහජන පක්ෂයේ, නව සමසමාජ පක්ෂවලට අයත්  681 දෙනෙක් ජවිපෙ විසින් ඝාතනය කළා.  ජනාධිපතිවරණය දවසේ  63 දෙනෙකු ඝාතනය කළා.  එ් අතර, මැතිවරණ රාජකාරියට ආපු රාජ්‍ය නිලධාරීන් විශාල ප්‍රමාණයක් හිටියා.
+
+
+JVP leader Rohini Kavitharatha promises election security. Historical violence: 1988 presidential election (681 deaths), 1989 general election (433 deaths). Recent threats against Anura Kumara Dissanayake. Concerns about fairness and safety.
+
+🟩
+
+"The Leader of the JVP will ensure security to the election day," says Matale District Parliamentarian Rohini Kavitharatha, "says Matale District Parliamentarian Rohini Kavitharatha said.Among the Presidential Elections at Laggala, Matale, said Mrs. Kaviratne said,
+
+"The first six people who vote in the 1988 Generality Truth. Finger cuts. Cotted hair.During the 1988 presidential election, the JVP assassinated 681 people from the UNP, SLFP, Communist and People's Parties.The presidential election was killed in the day.The number of state officials who came to election duty were there.
+
+Then, within two days of 1989, the JVP had killed 433 opposite political opinion in two days.The general election was killed in the day 84 people.There were 121 bombs on polling stations.More than 55 incidents occurred in the Matale district only.
 
 ...
 
 [Data](articles/009604b7.json)
+
+[Extended Data](ext_articles/009604b7.ext.json)
 
 ---
 
@@ -2559,55 +2605,5 @@ The government is also requested on the 21st of the Presidential Elections to be
 [Data](articles/50c3d767.json)
 
 [Extended Data](ext_articles/50c3d767.ext.json)
-
----
-
-### President warn about queue eating
-
-*2024-08-26 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200355) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-President Ranil Wickremesinghe warns against giving power to Sajith, saying it could lead to revising the IMF agreement. He emphasizes the importance of maintaining good relations with international organizations like the IMF, World Bank, and ADB. The president criticizes the appointment of officials from the JVP to anti-corruption positions, suggesting they lack proper qualifications.
-
-🟩
-
-President Ranil Wickremesinghe says that if the people are given to Sajith or the other next year, President Ranil Wickremesinghe says.
-
-Addressing a meeting of lawyers, the President stated that if such a fate would lead to a revision of the IMF agreement.
-
-...
-
-[Data](articles/1e24e429.json)
-
-[Extended Data](ext_articles/1e24e429.ext.json)
-
----
-
-### Rs. A Treasury Bill auction worth Rs. 100 million
-
-*2024-08-26 19:42:50* · [`adalk`](https://www.ada.lk/breaking_news/රු--මිලියන-ලක්ෂයක්-වටිනා-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-411576) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Central Bank Sri Lanka auctions Treasury Bills worth Rs. 100 million on Aug 28. Bids open at 9 AM. Payment due Aug 30.
-
-🟩
-
-The Treasury Bill auction is held tomorrow (28), the Central Bank of Sri Lanka (28).
-
-The Treasury bills of Rs. 500,000 worth Rs.
-
-The Treasury bill issue and payment will be made on August 30.
-
-◼️
-
-[Data](articles/851d47ae.json)
-
-[Extended Data](ext_articles/851d47ae.ext.json)
 
 ---

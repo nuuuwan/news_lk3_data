@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 14:21:53**
+As of **2024-08-27 14:37:02**
 
 ## Newspaper Stats
 
-*Scraped **42,846** Articles*
+*Scraped **42,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,586
 dailyftlk | 2,779
 adalk | 3,955
 dailymirrorlk | 4,733
-adaderanalk | 5,038
+adaderanalk | 5,039
 tamilmirrorlk | 5,585
 virakesarilk | 6,802
 adaderanasinhalalk | 7,341
@@ -26,27 +26,53 @@ adaderanasinhalalk | 7,341
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,845 (100.0%) of 42,846 articles have been extended.
+42,846 (100.0%) of 42,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### அதிரடியாக அறிவித்தார் ​வேலுகுமார்
+### People’s responsibility to support govt’s program to rebuild economy - President
+
+*2024-08-27 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101543/peoples-responsibility-to-support-govts-program-to-rebuild-economy-president) · `en`
+
+President Ranil Wickremesinghe emphasized the strength and talent of his team, asserting that they are well-equipped to overcome any challenge facing the country.
+
+Speaking at the 37th Annual Conference of the Organization of Professional Associations of Sri Lanka (OPA) at the Shangri-La Hotel, Colombo this evening (26), the President highlighted the critical role of public support in ensuring the success of the government’s economic recovery program.
+
+President Wickremesinghe outlined his objective of achieving a swift economic recovery for Sri Lanka, noting that substantial progress has been made towards this goal. The President stressed that sustaining this recovery and fostering long-term economic growth require adherence to the agreement with the International Monetary Fund (IMF), describing it as the only viable path to overcoming the crisis. He also acknowledged the significant relief Sri Lanka has received through this agreement.
+
+...
+
+[Data](articles/5ee19e06.json)
+
+---
+
+### Velukumar declared a stunning
 
 *2024-08-27 13:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடியாக-அறிவித்தார்-வேலுகுமார்/175-342862) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்களான வேலுச்சாமி இராதாகிருஷ்ணன்,  எம். உதயகுமார் ஆகியோர் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவு வழங்கவுள்ளமை தொடர்பிலான அறிவிப்பை வெளியிடுவார்கள் என   பாராளுமன்ற உறுப்பினர் வேலுகுமார் தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-கொழும்பில் இன்று(27) ) நடைபெற்ற ஊடக சந்திப்பின் போது இவ்வாறு தெரிவித்தார். அவர்கள் இருவரும்,  எதிர்வரும் செப்டெம்பர் 10ம் திகதி தங்களுடைய ஆதரவை தெரிவிப்பர் என்றார்.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினுடாகவே பெருந்தோட்டத் தொழிலாளர்களுக்கான 1,700 ரூபாய் சம்பளம் சாத்தியமாகி இருப்பதாகவும், எதிர்வரும் செப்டெம்பர் 10ம் திகதி அந்த கொடுப்பனவு பெருந்தோட்டத் தொழிலாளர்களுக்குக் கிடைக்கும் என  பாராளுமன்ற உறுப்பினர் வேலுகுமார் நம்பிக்கை வெளியிட்டார்.
 
-இதன் பின்னர் பாராளுமன்ற உறுப்பினர்களான வேலுச்சாமி இராதாகிருஷ்ணன், எம். உதயகுமார் ஆகியோர்  ரணில் விக்ரமசிங்கவிற்கு ஆதரவு வழங்குவார்கள் என்றார்.
+Sri Lanka: Velukumar supports President Wickremesinghe. Udayakumar to notify support on Sept 10. Hope for Rs 1700 salary for plantation workers.
+
+🟩
+
+Veluchami Radhakrishnan, MPs of the United People's Power. Parliamentarian Velukumar said that Udayakumar will issue a notification on the support of President Ranil Wickremesinghe.
+
+He said this during a media briefing held in Colombo today (27). They said they would extend their support on September 10.
+
+Parliamentarian Velukumar expressed hope that the salary of Rs 1,700 for plantation workers was possible with President Ranil Wickremesinghe and the allowance would be available to plantation workers on September 10.
+
+Subsequently, MPs Veluchami Radhakrishnan, M.. Udayakumar said he would support Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/bb89063d.json)
+
+[Extended Data](ext_articles/bb89063d.ext.json)
 
 ---
 
@@ -2565,43 +2591,5 @@ Wimalaweera promised to meet President Ranil Wickremesinghe at his political off
 [Data](articles/9590b969.json)
 
 [Extended Data](ext_articles/9590b969.ext.json)
-
----
-
-### Shakuck, whom Riswan was thrown into batting
-
-*2024-08-26 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200360) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-ICC fines Pakistan 30%, Bangladesh 15% match fees for misconduct during Test match.
-
-🟩
-
-Bangladesh players Shawluffan player Shawlipandi, Bangladesh and Pakistan, was hitting the Pakistan's second Test cricket team, and the ICC measures.
-
-It is a first-level offense of his conduct of the Code of Conduct and a fine of 10% of Shakab's competition fee.
-
-While Shakyab started bowling, Riswan was not ready to bat first, and he was constantly chased to the lobton, who was in his hand.
-
-Meanwhile, both groups have been sentenced to both groups due to both teams in the competition.
-
-The ICC has also taken steps to reduce these tournaments under the 2023-25 ​​Test World Championship.
-
-Since Pakistan ended the time end of the time, 6 runs, 6 runs, Bangladesh has scored three runs.
-
-Pakistan has fallen to this Test World Championship at the Test World Championship with the cutting of the score and down to the 7th.
-
-Before the cutting of these marks, Bangladesh was 5th in this score.
-
-The ICC has decided to 30% of the Pakistan's match fee and 15% of the Bangladesh team.
-
-◼️
-
-[Data](articles/12074c4f.json)
-
-[Extended Data](ext_articles/12074c4f.ext.json)
 
 ---

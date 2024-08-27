@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 07:03:31**
+As of **2024-08-27 07:32:01**
 
 ## Newspaper Stats
 
-*Scraped **42,767** Articles*
+*Scraped **42,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailyftlk | 2,779
 adalk | 3,945
 dailymirrorlk | 4,733
 adaderanalk | 5,026
-tamilmirrorlk | 5,569
+tamilmirrorlk | 5,570
 virakesarilk | 6,788
-adaderanasinhalalk | 7,319
+adaderanasinhalalk | 7,322
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,758 (100.0%) of 42,767 articles have been extended.
+42,763 (100.0%) of 42,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### රජයේ වී මිලදී ගැනීමේ කටයුතු අද සිට - පොහොර සහනාධාරයත් ඉහළට
+
+*2024-08-27 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200363) · `si`
+
+වී ගොවීන් සඳහා ලබාදෙන පොහොර සහනාධාරය ඉහළ නැංවීමට රජය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/aec0059c.json)
+
+---
+
+### සැමියාගේ බිරිඳට එල්ල වූ මාරාන්තික පොලුපහර
+
+*2024-08-27 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200364) · `si`
+
+පවුල් ආරවුලක් හේතුවෙන් ස්වාමිපුරුෂයා විසින් පොල්ලකින් පහරදී සිය බිරිඳ ඝාතනය කර තිබේ.
+
+ඊයේ (26) සවස් කාලයේදී එම සිදුවීම වාර්තා වී තිබුණේ, හබරණ, පලුගස්වැව ප්‍රදේශයේදීය.
+
+එලෙස මියගොස් ඇත්තේ, එප්පාවල, පලුගස්වැව ප්‍රදේශයේ පදිංචිව සිටි 63 හැවිරිදි කාන්තාවකි.
+
+මියගිය කාන්තාව සහ ඇගේ ස්වාමිපුරුෂයා අතර ඇතිවූ පවුල් ආරවුලක් දුරදිග යාම මත ඝාතනය සිදුකර ඇති බව පොලීසිය දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇත.
+
+ඝාතනය සිදුකළ අවුරුදු 66ක් වන සැකකරු අත්අඩංගුවට ගෙන ඇති අතර හබරණ පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/b4938788.json)
+
+---
+
+### අද කාලගුණය
+
+*2024-08-27 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200361) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (27) දිනයේ වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බදුල්ල, අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/c4b65a20.json)
+
+---
 
 ### AKD says Presidential manifesto, strong response to disinformation
 
@@ -193,6 +243,20 @@ He also said that these three companies have earned the highest income in histor
 [Data](articles/b2235860.json)
 
 [Extended Data](ext_articles/b2235860.ext.json)
+
+---
+
+### ஐ. ம.ச விஞ்ஞாபனம் வௌ்ளி வெளிவரும்
+
+*2024-08-27 01:40:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-விஞ்ஞாபனம்-வௌ்ளி-வெளிவரும்/175-342839) · `ta`
+
+ஐக்கிய மக்கள் சக்தியினதும் ஐக்கிய மக்கள் கூட்டணியினதும் ஜனாதிபதி வேட்பாளர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் தேர்தல் விஞ்ஞாபனம் எதிர்வரும் 29 ஆம் திகதி வெள்ளிக்கிழமை வெளியிடப்படும் என ஐக்கிய மக்கள் சக்தியின் ஊடகப் பேச்சாளரும் பாராளுமன்ற உறுப்பினருமான எஸ்.எம். மரிக்கார் தெரிவித்தார்.
+
+ஐக்கிய மக்கள் கூட்டணி தலைமையகத்தில் திங்கட்கிழமை (26) நடந்த ஊடக சந்திப்பில் கலந்துகொண்டு கருத்துரைத்த போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/974ee25b.json)
 
 ---
 
@@ -578,6 +642,8 @@ In a thrilling finale, Unilever Sri Lanka emerged as the unbeaten champions of t
 
 [Data](articles/b032bc58.json)
 
+[Extended Data](ext_articles/b032bc58.ext.json)
+
 ---
 
 ### Ceylinco Cancer Centre acquires latest Siemens CT Simulator to enhance patient care
@@ -591,6 +657,8 @@ A spokesman for the Centre said the acquisition of the CT Simulator entailed an 
 ...
 
 [Data](articles/f8514d8b.json)
+
+[Extended Data](ext_articles/f8514d8b.ext.json)
 
 ---
 
@@ -624,6 +692,8 @@ Underlying free surplus generation (UFSG) of US$3,391 million, up 10 per cent pe
 
 [Data](articles/7928af67.json)
 
+[Extended Data](ext_articles/7928af67.ext.json)
+
 ---
 
 ### Browns Plantations voted Most Popular Corporate at Best Web Awards
@@ -639,6 +709,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/8b2526c2.json)
+
+[Extended Data](ext_articles/8b2526c2.ext.json)
 
 ---
 
@@ -2422,6 +2494,8 @@ The national popularity has aimed at building a developed humanitarian and warra
 
 [Data](articles/329fde8c.json)
 
+[Extended Data](ext_articles/329fde8c.ext.json)
+
 ---
 
 ### The Sri Lankan nation wants a brave leader - the next leader without wisely
@@ -2501,89 +2575,5 @@ The recent Supreme Court decision to unseat two opposition MPs who had defected 
 [Data](articles/bfda1401.json)
 
 [Extended Data](ext_articles/bfda1401.ext.json)
-
----
-
-### SUNSHINE TEA Private Limited
-
-*2024-08-26 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191420) · `ta`
-
-Sunshine Tea Private Limited, established in 1967 and rebranded in 1987, is a key player in Sri Lanka's tea industry, focusing on export. The company, employing over 300 staff, including 100 women, operates in both export and import sectors, generating annual sales exceeding $25 million. Its products, including ZESTA, Watawala, and Gordon Frazer teas, are exported to countries like Iran, Iraq, the US, Canada, Italy, Australia, and China. Sunshine Tea emphasizes quality, sustainability, and social responsibility, holding certifications like ISO 9001, FSSC 2000, and Fair Trade.
-
-🟩
-
-Sunshine Tea Private Limited is one of the most important companies in tea production and export in Sri Lanka.Tea exports are the main feature of the company in Kelaniya.
-
-Recently, a field tournament to the media about the company's activities and its workshop was recently organized.
-
-In the meantime, its Chief Executive Officer Sanjeeva Saranabala explained the company's functions.
-
-According to the company's introduction, the company was launched in 1967 and then renewed in the name of SKS Exports in 1987 and was later renamed as SUNSHINE Tea Private Limited.
-
-Sunshine Tea Private Limited's Thai Company Sansin Holdings PLC can also be found in the website of Sansine Holdings PLC at https: //www.shinetea.lk.
-
-In addition, the company has more than 300 employees and said that there are 25 female workers and 75 male workers in the factory.They work in two categories as export and import. He said the company's annual sales were more than $ 25 million.
-
-...
-
-[Data](articles/d762ff0a.json)
-
-[Extended Data](ext_articles/d762ff0a.ext.json)
-
----
-
-### What the majority want from a new government
-
-*2024-08-26 14:37:00* · [`islandlk`](http://island.lk/what-the-majority-want-from-a-new-government/) · `en`
-
-Now that the presidential election is round the corner and would be followed by a general election, the majority of law-abiding, patriotic, selfless and non-partisan people would want many changes in the system to bring this country back to where it was in the early nineteen fifties.
-
-The first thing many are clamoring for is to abolish the executive presidency. This office has been a bane rather than a boon to this country and its people. It has only helped to enrich some who achieved this position. As we can remember, there were many previous occupants of this office who promised abolish it if they were elected, but reneged on their promise.
-
-The powers attached to the executive presidency have been misused even by those with a good educational background and we have seen how the prerogative of the presidential pardon had been utilized to pardon murderers, drug dealers, child rapists, etc.
-
-...
-
-[Data](articles/c248e79a.json)
-
-[Extended Data](ext_articles/c248e79a.ext.json)
-
----
-
-### Teenager arrested for murder over personal dispute in Maradana
-
-*2024-08-26 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101516/teenager-arrested-for-murder-over-personal-dispute-in-maradana) · `en`
-
-An individual has reportedly died following an assault carried out over a personal dispute in the Devanampiyatissa Mawatha area in the Maradana Police Division.
-
-According to police, the attack had stemmed from a dispute between two individuals last night (25).
-
-A 19-year-old youth, who is a resident of Welimada, has been arrested in connection with the crime.
-
-◼️
-
-[Data](articles/aff61305.json)
-
-[Extended Data](ext_articles/aff61305.ext.json)
-
----
-
-### Mother and two sons drown in Deduru Oya: all 3 bodies recovered
-
-*2024-08-26 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101515/mother-and-two-sons-drown-in-deduru-oya-all-3-bodies-recovered) · `en`
-
-The bodies of the mother and her youngest son, who were reported missing along with her eldest son while bathing in Deduru Oya, have been recovered this morning (26).
-
-A 36-year-old mother and her two sons were reported missing and were believed to have drowned while bathing in Deduru Oya in the Bogamuwa area last afternoon (25).
-
-Police said that the body of the 9-year-old son was recovered yesterday and that search and rescue operations had continued, to locate the mother and her 5–year–old son.
-
-The deceased, a 36-year-old woman and her two sons aged 5 and 9, are residents of the Peragahawatta area.
-
-◼️
-
-[Data](articles/f990edf8.json)
-
-[Extended Data](ext_articles/f990edf8.ext.json)
 
 ---

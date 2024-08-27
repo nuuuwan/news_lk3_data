@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 13:56:49**
+As of **2024-08-27 14:09:38**
 
 ## Newspaper Stats
 
-*Scraped **42,835** Articles*
+*Scraped **42,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,953
+adalk | 3,955
 dailymirrorlk | 4,733
 adaderanalk | 5,038
 tamilmirrorlk | 5,584
-virakesarilk | 6,795
-adaderanasinhalalk | 7,340
+virakesarilk | 6,802
+adaderanasinhalalk | 7,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,834 (100.0%) of 42,835 articles have been extended.
+42,835 (100.0%) of 42,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### කායික දුබලතා ඇති අයට මැතිවරණ කොමිසමෙන් විශේෂ පහසුකමක්
+
+*2024-08-27 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200385) · `si`
+
+කායික දුබලතාවෙන් යුතු තැනැත්තන් විසින් විශේෂ ප්‍රවාහන පහසුකම් සඳහා ඉල්ලුම් කළ හැකි ක්‍රමවේදය පිළිබඳව මැතිවරණ කොමිෂන් සභාව ඡන්දදායකයින්ව දැනුම්වත් කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමිෂන් සභාවේ සභාපති, ආර්.එම්. ඒ. එල්. රත්නායක මහතා මේ බව සඳහන් කර ඇත.
+
+01. 1981 අංක 15 දරන ජනාධිපතිවරයා තෝරා පත්කර ගැනීම පිළිබඳ පනතේ 82 (4) (ඈ) ඡේදය අනුව, යම් කිසි කායික දුබලතාවයක් නිසා යම් තැනැත්තෙකුට පා ගමනින් හෝ වෙනත් පොදු ප්‍රවාහන සේවාවක් මඟින් ඡන්ද පොළට යාම සහ ඊම කළ නොහැකි නම් ඡන්ද පොළට යාම සහ ඊම සඳහා යම් වාහනයක් මඟින් ප්‍රවාහන පහසුකම් ලබා ගැනීම සඳහා ස්වකීය ඡන්ද විමසීම් ප්‍රදේශයේ තේරීම්භාර නිලධරයා වෙත තමා විසින්ම හෝ එසේ නොමැති නම් තමා වෙනුවෙන් අපේක්ෂකයකු, ඡන්ද නියෝජිතයකු, බලයලත් නියෝජිතයකු, ප්‍රාදේශීය නියෝජිතයකු නොවන වෙනත් අයකු විසින් හෝ ඉල්ලුම් පත්‍රයක් ඉදිරිපත් කළ හැකිය.
+
+...
+
+[Data](articles/a83d3d67.json)
+
+---
+
+### படகு கவிழ்ந்து விபத்து  ;  இரு இந்திய மீனவர்கள் மாயம்
+
+*2024-08-27 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/192117) · `ta`
+
+கச்சத்தீவு அருகில் இந்திய மீன்பிடி படகு ஒன்று விபத்துக்குள்ளானதில் இரண்டு மீனவர்கள் காணாமல் போயுள்ளார்கள்.
+
+◼️
+
+[Data](articles/6fae83bb.json)
+
+---
 
 ### A greetings for the health of the unmangerage candidate
 
@@ -55,6 +83,40 @@ Secretary of the Government Medical Officers Association, Dr. Prabatha Sugathapa
 [Data](articles/80a5ce8c.json)
 
 [Extended Data](ext_articles/80a5ce8c.ext.json)
+
+---
+
+### கிண்ணியா - குறிஞ்சாக்கேணி பாலத்தை புனரமைக்க தனியார் நிறுவனத்திற்கு அமைச்சரவை அனுமதி
+
+*2024-08-27 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/192116) · `ta`
+
+கிண்ணியா - குறிஞ்சாக்கேணி பாலத்தைப் புனரமைப்புச்செய்வதற்கு தனியார் நிறுவனத்திற்கு  ஒப்பந்தத்தை வழங்குவதற்காக போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சர்  பந்துல குணவர்தன சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+அபிவிருத்திக்கான சவூதி நிதியத்தின் அனுசரணையுடன் வீதிக்கட்டமைப்பு அபிவிருத்திக்கருத்திட்டத்தின் கீழ் பதுளை – செங்கலடி வீதி அபிவிருத்திக் கருத்திட்டத்தில் எஞ்சியுள்ள நிதியின் மூலம் கிண்ணியா - குறிஞ்சாக்கேணி வீதியின் குறிஞ்சாக்கேணி பாலத்தைப் புனரமைப்புச்செய்வதற்கான ஒப்பந்தத்தை தனியாக கட்டம் தனியான கடித உறை முறைமையின் கீழ் விலைமுறிகோரப்பட்டது. அதற்காக, 09 விலைமுறிகள் கிடைக்கப் பெற்றன.
+
+அதற்கிணங்க,அமைச்சரவையால் நியமிக்கப்பட்டுள்ள நிரந்தரப் பெறுகைக் குழுவின் விதந் துரைக்கமைய,விபரங்களுடன் கூடிய பதிலளிப்புக்களை வழங்கியுள்ள விலைமனுதாரரான  கன்ஸ்ரக்ஷன் (தனியார்) கம்பனிக்கு குறித்த ஒப்பந்தத்தை வழங்குவதற்காக போக்குவரத்து மற்றும்நெடுஞ்சாலைகள் அமைச்சர் அவர்கள் சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/45569dcd.json)
+
+---
+
+### ලෝක ශිෂ්‍ය භට ක්‍රීඩා තරගාවලියේ දී ශ්‍රී ලංකාවට රන් සහ ලෝකඩ පදක්කම්
+
+*2024-08-27 13:01:11* · [`adalk`](https://www.ada.lk/sports/ලෝක-ශිෂ්‍ය-භට-ක්‍රීඩා-තරගාවලියේ-දී-ශ්‍රී-ලංකාවට-රන්-සහ-ලෝකඩ-පදක්කම්/9-411586) · `si`
+
+04 වන ලෝක ආරක්ෂක සේවා ශිෂ්‍ය භට ක්‍රීඩා තරගාවලියට ශ්‍රී ලංකාවේ ආරක්ෂක සේවා  නියෝජනය කරමින් සහභාගී වූ ශ්‍රී ලංකා යුධ හමුදාවේ ගයනි වාසනා චතුරංගි රන් පදක්කමක් සහ ශ්‍රී ලංකා ගුවන් හමුදාවේ සාවින්දි ජයවීර ලෝකඩ පදක්කම් දෙකක් දිනා ගෙන 08/27 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ.
+
+මෙම තරගාවලිය ජාත්‍යන්තර හමුදා ක්‍රීඩා කවුන්සිලය විසින් 2024 වර්ෂය සදහා වෙනිසියුලාවේ කරකස් නුවර ඉකුත් 08/16 දින සිට 08/24 දින දක්වා රුසියාව , චීනය , වෙනිසියුලාව යන රටවල් ගනනාවක  ශිෂ්‍ය භට නිලධාරීන් 500 ක ගේ පමණ සහභාගීත්වයෙන් පවත්වා තිබුණි .
+
+මෙහිදී ශ්‍රී ලංකා යුධ හමුදා ශිෂ්‍ය භට කෝප්‍රල් නිලධාරිනී ගයනි වාසනා චතුරංගි දුර පැනීමේ ඉසව්වට සහභාගී වී මීටර් 05.24 ක දුර ප්‍රමාණයක් පනිමින් රන් පදක්කම දිනා ගැනීමට සමත් වී සිටියාය .
+
+මීට අමතරව ශ්‍රී ලංකා ගුවන් හමුදාව නියෝජනය කරමින් සහභාගී වූ ශිෂ්‍ය භට නිලධාරිනී සාවින්දි ජයවීර මීටර් 50 නිදහස් ආර සහ මීටර් 100 පසුපස ආර යන පිහිනුම් ඉසව් වලට සහභාගී වී ලෝකඩ පදක්කම් දෙකක් දිනා ගැනීමට සමත් වී සිටියාය .
+
+...
+
+[Data](articles/ff776439.json)
 
 ---
 
@@ -142,6 +204,22 @@ Two Indian fishermen were reported missing, while two others swam safely to Kach
 
 ---
 
+### செயற்கை நுண்ணறிவு தொடர்பாக இலங்கையின் தேசிய மூலோபாயத்திட்டத்தை நடைமுறைப்படுத்த அங்கீகாரம்
+
+*2024-08-27 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/192113) · `ta`
+
+செயற்கை நுண்ணறிவு தொடர்பாக இலங்கையின் தேசிய மூலோபாயத்திட்டத்தை நடைமுறைப்படுத்துவதற்காக தொழிநுட்ப அமைச்சராக ஜனாதிபதி சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+இலங்கை தற்போது தனது டிஜிட்டல் நிலைமாற்றத்திற்கான பயணத்தில் குறிப்பிடத்தக்களவு பெறுபேறுகளை அடைந்திருப்பினும், உலகளாவிய செயற்கை நுண்ணறிவு தொடர்பாகக் குறிப்பிடத்தக்களவு தாக்கத்தை ஏற்படுத்துவதற்கு இயலுமை கிட்டவில்லை.
+
+விவசாயம், சுகாதார சேவைகள் மற்றும் கல்வி போன்ற முக்கிய துறைகளில் செயற்கை நுண்ணறிவைப் பயன்படுத்துவதால் உற்பத்தித்திறனை அதிகரிப்பதற்கும், அரச சேவைகளை மேம்படுத்துவதற்கும் இயலுமை காணப்படுகின்றது. அதன்மூலம், பேண்தகு பொருளாதார விருத்தியை அடைவதற்கும் மற்றும் வறுமையை ஒழிப்பதற்பதற்காக முக்கிய ஒத்துழைப்பு வழங்கப்படுவதுடன், செயற்கை நுண்ணறிவின் பயன்களை சமூகத்தில் நியாயமாகப் பகிர்ந்தளிப்பதற்கும் வாய்ப்புக்கள் கிடைக்கும்.
+
+...
+
+[Data](articles/9163c0ed.json)
+
+---
+
 ### 8 Indian fishermen arrested for poaching in Sri Lankan waters
 
 *2024-08-27 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101539/8-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
@@ -159,6 +237,24 @@ With this recent apprehension, the Sri Lanka Navy says it has seized a total of 
 [Data](articles/fcd723e3.json)
 
 [Extended Data](ext_articles/fcd723e3.ext.json)
+
+---
+
+### காத்தான்குடியில் கசிப்பு, போதைப் பொருளுடன் 23 பேர் கைது !
+
+*2024-08-27 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/192101) · `ta`
+
+மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட பகுதிகளில் 250 லீற்றர் கசிப்புடன் 22 பேரும்,  ஹசீஸ் போதைப் பொருளுடன் ஒருவருமாக 23 பேர் கைது செய்யப்பட்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பதில் பொறுப்பதிகாரி ஜி. கஜநாயக்கா தெரிவித்தார்.
+
+காத்தான்குடி, ஆரையம்பதி, புதுக்குடியிருப்பு, நாவற்குடா உட்பட காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட பிரதேசங்களில் பொலிஸாரினால் மேற்கொள்ளப்பட்ட திடீர் சுற்றி வளைப்பு தேடுதல்களின் போது இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கர்பலா பிரதேசத்தில் வைத்து ஹசீஸ் போதை பொருளுடன் 63 வயது நபர் ஒருவரும்  கைது செய்யப்பட்டுள்ளார்.
+
+இதனையடுத்து, கைது செய்யப்பட்டவர்கள் இன்று செவ்வாய்க்கிழமை (27) மட்டக்களப்பு நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்தப்பட்டுள்ளதாகவும், இந்த சம்பவம் தொடர்பாக காத்தான்குடி பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/81dfc68e.json)
 
 ---
 
@@ -235,6 +331,66 @@ Later, the court also ordered to obtain the fingerprints of the defendant Diana 
 [Data](articles/0b76941b.json)
 
 [Extended Data](ext_articles/0b76941b.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-27 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/192108) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (ஆகஸ்ட் 27) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 296.3680 ரூபாவாகவும் விற்பனை விலை 305.6146 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9bf28854.json)
+
+---
+
+### අනුරට හා ජනපතිට ඇති ජනතා හිතකරත්වයේ කැපී පෙනෙන වර්ධනයක්
+
+*2024-08-27 12:09:55* · [`adalk`](https://www.ada.lk/breaking_news/අනුරට-හා-ජනපතිට-ඇති-ජනතා-හිතකරත්වයේ-කැපී-පෙනෙන-වර්ධනයක්/11-411581) · `si`
+
+සෞඛ්‍ය ප්‍රතිපත්ති ආයතනය මාස් පතා නිකුත් කරන පක්ෂ නායකයන් සඳහා වූ ජනතා හිතකරත්ව සමීක්ෂණයේදී ජුලි මාසයට අදාළව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා වෙත ඇති ජනතා හිතකරත්වය විශාල ප්‍රමාණයකින් ඉහළ ගොස් ඇති බව එම ආයතනය පවසයි.
+
+ඒ අනුව ඔහුට ඇති ජනතා හිතකරත්වය ජුනි මාසයට සාපෙක්ෂව ලකුණු 29කින් ඉහළ ගොස් එය ධන ලකුණු තුනක් බවට පත්ව තිබේ.
+
+මේ අතර එහි තවත් කැපි පෙනන කරුණක් බවට පත්ව ඇත්තේ ස.ජ.බ. නායක සජිත් ප්‍රේමදාස මහතා අභිබවමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ඇති ජනතා හිතකරත්වය ලකුණු ලකුණු 40කින් ඉහළ ගොස් එය සෘන ලකුණු - 24ක් බවට පත්ව තිබිමයි.
+
+සජිත් ප්‍රේමදාස මහතාට ඇති ජනතා හිතකරත්වය ජුනි මාසයට සාපේක්ෂව ජුලි මාසයේදී ලකුණු දෙකකින් ඉහළ ගොස් අය සෘණ ලකුණු 42ක් බවට පත්ව තිබේ.
+
+මේ අනුව ධනාත්මක ජනතා හිතකරත්වයක් ඇති එකම පක්ෂ නායකයා බවට අනුර කුමාර දිසානායක මහතා පත්ව තිබිම කැපී පෙනෙන කරුණකි.
+
+◼️
+
+[Data](articles/d6800b55.json)
+
+---
+
+### ரயில் மோதி ஒருவர் உயிரிழப்பு
+
+*2024-08-27 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/192098) · `ta`
+
+களுத்துறை வடக்கு பொலிஸ் பிரிவுக்குட்பட்ட வஸ்கடுவ பகுதியில் ரயில் மோதி ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+குறித்த  நபர் நேற்று திங்கட்கிழமை (26) மஹவயிலிருந்து பெலியத்த நோக்கி பயணித்த ரயில் மோதியே உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/4a062127.json)
+
+---
+
+### முன்னாள் அமைச்சர் ஏ.எச்.எம்.பௌசிக்கு ஒத்திவைக்கப்பட்ட கடூழியச் சிறை
+
+*2024-08-27 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/192105) · `ta`
+
+முன்னாள் அமைச்சரும் ஜனாதிபதியை ஆதரிக்கும், முஸ்லிம் பாராளுமன்ற உறுப்பினருமான ஏ.எச்.எம்.பௌசிக்கு 10 வருடங்களுக்கு ஒத்திவைக்கப்பட்ட  2 வருட கடூழிய சிறைத்தண்டனையும் 4 இலட்சம் ரூபா அபராதத்தையும் விதித்து கொழும்பு மேல் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+நெதர்லாந்து நாட்டு அரசாங்கம் அனர்த்த முகாமைத்துவ மத்திய நிலையத்துக்கு வழங்கிய  ஜீப் வண்டி ஒன்றை தனது தனிப்பட்ட பாவனைக்கு பயன்படுத்தியதன் மூலம் அரசாங்கத்துக்கு 10 இலட்சம் ரூபாவுக்கும் அதிகமான நட்டத்தை ஏற்படுத்திய குற்றச்சாட்டில் குற்றவாளியாக நிரூப்பிக்கப்பட்டதையடுத்து இந்த உத்தரவு பிறப்பிக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e7b79289.json)
 
 ---
 
@@ -1498,25 +1654,37 @@ The current network is made up of, Gulshan Branch, Motijheel Islamic Banking Bra
 
 ---
 
-### දරු උපත් අඩුවීමෙන් ශ්‍රී ලංකාවේ ආර්ථිකයට වෙන්න යන දේ ගැන ඔබ දන්නවා ද?
+### Do you know what is going to be to the economy of Sri Lanka by decreasing births?
 
 *2024-08-27 06:19:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c935wgg0vg4o) · `si`
 
-දරු උපත් අඩුවීමෙන් ශ්‍රී ලංකාවේ ආර්ථිකයට වෙන්න යන දේ ගැන ඔබ දන්නවා ද?
+Here's a summary of the text in 200 characters:
 
-ආසන්නතම වසර පහක කාලය තුළ ක්‍රම ක්‍රමයෙන් ශ්‍රී ලංකාවේ දරු උපත් සංඛ්‍යාව පහළ බැස ඇති ආකාරය පැහැදිලිව නිරීක්ෂණය කළ හැකි ය.
 
-උපත් අනුපාතිකය අඩුවීම යනු රටේ ශ්‍රම බලකායට සෘජුව බලපෑමක් ඇති කරන්නකි.
 
-වර්තමාන ශ්‍රම බලකාය ක්‍රම ක්‍රමයෙන් වියපත් වීමත් සමග අලුතෙන් ශ්‍රම බලකායට එක්වන සංඛ්‍යාව පහළ යාම ශ්‍රී ලංකාවේ ආර්ථිකයට බලපෑමක් වනු ඇතැයි මේ වන විටත් අනාවැකි පළවී තිබේ.
+Decrease in births impacts Sri Lanka's economy by reducing workforce, potentially leading to labor shortages and affecting industries heavily reliant on human resources.
 
-ජන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුවේ 2015 - 2018 ශ්‍රමබල සමීක්ෂණ වාර්ෂික වාර්තාවේ දැක්වෙන පරිදි, ශ්‍රම බලකාය යනු වයස අවුරුදු 15 හෝ ඊට වැඩි ආර්ථික වශයෙන් ක්‍රියාශීලී සියලු ම පුද්ගලයන් ය.
+🟩
 
-ඊට රැකියා කරන පිරිස පමණක් නොව, දැනට රැකියාවක් නොකරන නමුත් රැකියා කළ හැකි සහ රැකියා අපේක්ෂාවෙන් සිටින පිරිස ද ඇතුළත් බව ජන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුවේ දත්තවලින් නිරීක්ෂණය වේ.
+Do you know what is going to be to the economy of Sri Lanka by decreasing births?
+
+In the closest five years, the number of child births in Sri Lanka is clearly observed.
+
+The decrease in the birth rate is directly impact on the workforce of the country.
+
+With the aging of the present workforce system, the decrease in the number of people joins the new workforce will be affecting Sri Lanka's economy.
+
+The workforce is all the economic force of the agendary 15 years of age or older as shown in the 2018 Department of Census and Statistics.
+
+Data from the Department of Census and Statistics are observed that they are not only the job and employed.
+
+According to the data of the Department of Census and Statistics, the estimated mid-year population of Sri Lanka in 2023 is 22 million. During the nearly four years, the population has shown a small growth, and a slight decline in the population of 2023 compared to 2022.
 
 ...
 
 [Data](articles/7de5ec6c.json)
+
+[Extended Data](ext_articles/7de5ec6c.ext.json)
 
 ---
 
@@ -2361,253 +2529,5 @@ Addressing the media personnel, Commissioner General of Excise further explained
 [Data](articles/bc791a14.json)
 
 [Extended Data](ext_articles/bc791a14.ext.json)
-
----
-
-### Namal is an industry in every electorate
-
-*2024-08-26 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200359) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka presidential candidate Namal Rajapaksa promises to boost Samurdhi program, creating entrepreneurs and jobs in rural areas through investments and industries in each electorate.
-
-🟩
-
-Presidential candidate on the Sri Lanka General Arose Namal Rajapaksa said that steps will be taken to strengthen the Samurdhi business under a government.
-
-He was speaking at a meeting held in Dodamgaslanda today (26).
-
-"The Samurdhi business is the program that can get rural economy and the inheritated parents in this country.. Clearly, the program is being implemented to strengthen the Samurdhi campaign in a government that is making.. We make Samurdhiya recipients a entrepreneur. The Samurdhi family child can go to the local overseas job market. We're investors bring to the village. We create the environment where we need to generate jobs. In a government we create, every electorate is created to invest in an industry and industry. "
-
-◼️
-
-[Data](articles/744eb3a1.json)
-
-[Extended Data](ext_articles/744eb3a1.ext.json)
-
----
-
-### Sarath Fonseka's propaganda crowd in Nuwara Eliya
-
-*2024-08-26 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/192075) · `ta`
-
-Sarath Fonseka rally Nuwara Eliya 10 attendees low turnout heavy police presence
-
-🟩
-
-The former army commander in Nuwara Eliya on Monday (26) and the presidential meeting of Sarath Fonseka, who was in the presidential election, was set up in the vehicle of the bell tower in Nuwara Eliya main city.
-
-There were about 10 people, including Fonseka on the set up platform, and that the public was not expected to come up with the expected people in front of the stage.
-
-In addition, when Fonseka was the army commander, the car was parked in the lorry and parked near the stage.
-
-However, during the meeting, a large number of police were summoned and serious security measures were taken.
-
-◼️
-
-[Data](articles/7d307354.json)
-
-[Extended Data](ext_articles/7d307354.ext.json)
-
----
-
-### Diming of the Public Service
-
-*2024-08-26 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200358) · `si`
-
-Dilith Jayaweera proposes entrepreneurship-driven public service model. He criticizes current system, suggesting bonuses based on performance rather than just years served. Aims to attract skilled professionals like military and doctors to civil service.
-
-🟩
-
-The presidential presidential candidate entrepreneur, Dilith Jayaweera says that the Rajapaksas will commit an efficient public service through a government that is the production of an entrepreneurship public servant under a government.
-
-He was speaking at a entrepreneurist meeting in Anuradhapura.
-
-...
-
-[Data](articles/5c8f71eb.json)
-
-[Extended Data](ext_articles/5c8f71eb.ext.json)
-
----
-
-### Special notice to those who apply for passport
-
-*2024-08-26 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200357) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Department of Immigration & Emigration: Apply for passport only if foreign passport slots available. New electronic passports soon. Limited newly issued foreign passports.
-
-🟩
-
-The Department of Immigration and Emigration calls for applicants to apply for a passport only if there is an empty foreign passports.
-
-The department states that the request is made as newly issued foreign passports are limited.
-
-The Controller General of Immigration and Emigration has also said that the new electronic passport will be introduced soon.
-
-◼️
-
-[Data](articles/257566c3.json)
-
-[Extended Data](ext_articles/257566c3.ext.json)
-
----
-
-### Passport issuance limited; apply only for urgent needs – Immigration Dept
-
-*2024-08-26 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101527/passport-issuance-limited-apply-only-for-urgent-needs-immigration-dept) · `en`
-
-The Controller General of Immigration and Emigration says that the issuance of passports will be limited due to the limited availability of blank passports.
-
-Issuing a special announcement in this regard, the Controller General has therefore requested applicants to apply for passports only if their needs are urgent.
-
-The announcement also mentioned that new electronic passports (E-Passports) are set to be introduced soon, with the tender already awarded to a foreign firm.
-
-The Controller General stated that in order to bridge the gap until the E-Passports are launched, the department has arranged for an additional 50,000 standard passports, which are expected to arrive by the end of October.
-
-The statement further noted that statistics from the department indicate that only about 23% of passports issued last year were used for international travel. Considering this, the public is kindly urged to postpone non-essential passport applications until the new stock arrives.
-
-...
-
-[Data](articles/a84c323a.json)
-
-[Extended Data](ext_articles/a84c323a.ext.json)
-
----
-
-### The Department of Immigration and Emigration on Passport
-
-*2024-08-26 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/192074) · `ta`
-
-Department of Immigration & Emigration requests limited passport applications due to shortage. Only 23% of foreign passports issued in 2023 were used. Reserves expected by October. Apply only for emergencies.
-
-🟩
-
-The Department of Immigration and Emigration has requested the public to apply for the passport only for essential purposes as there is a limited number of empty passports.
-
-The Ministry of Public Safety said that only 23 percent of the foreign passports distributed in 2023 were used.
-
-The announcement further stated that the reserves will be obtained by the end of October.
-
-The Ministry's statement further stated that the public is lovingly asked to apply for a passport for emergencies.
-
-◼️
-
-[Data](articles/242e309e.json)
-
-[Extended Data](ext_articles/242e309e.ext.json)
-
----
-
-### Rs. 20,000 per month for a poor family - Sajith
-
-*2024-08-26 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200356) · `si`
-
-Sajith Premadasa proposes Rs. 20,000 monthly stipend for poor families to combat poverty within 24 months.
-
-🟩
-
-Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, Samajith Premadasa, said.
-
-Speaking further the opposition leader of the Opposition Leader Sajith Premadasa,
-
-"I'd like a special announcement. Hundreds of thousands of people in this country are poorest. We will bring a good life for the poor and relief to the poor people who live in the rich people who live a living.. A poor family will be given Rs. 20,000 per month. A program to eliminate poverty within 24 months. Poverty should be lost through consumption, investment, balance, production and exports. No one wants to stay in poverty. A people who want to live in our country. These concessions are based on the woman. Strengthens Kantale Sugar Factory. Let the Sembila beat it for the advancement of the area!
-
-◼️
-
-[Data](articles/5aa16ca3.json)
-
-[Extended Data](ext_articles/5aa16ca3.ext.json)
-
----
-
-### 8 Sri Lankan alternatives with the goal of achieving Paris 2024
-
-*2024-08-26 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/192073) · `ta`
-
-Sri Lanka aims high at Paris 2024 Paralympics with 8 athletes, including Tokyo 2020 medalists, seeking to bring home medals and pride for the nation.
-
-🟩
-
-Eight alternatives, including the medalist of the Tokyo 2020 Paralympic Games, will participate in the Paris 2024 Paralympic Games with the aim of giving the Sri Lankan mother to the country.
-
-Nuwan Indika Kamage
-
-The Paris 2024 Paralympic Sports Festival will commence on Wednesday 28th and end on September 8.
-
-Tokyo 2020 Paralympic F64 Classification Division won the bronze medal (65.61 meters) and the World Barathu Athletics Championship in Japan this year with the World Record (66.49m) silver medal (66.49 meters).
-
-Samitha Dulan said that he was confident that he could win a medal in Paralempic by winning a silver medal in Gobe, Japan.
-
-“I was delighted to win the bronze medal in Sri Lanka four years ago. Now I am going to participate in Paris Paralympic. For that, I have been training for the past several months. I will make Sri Lanka proud in Paris as he has achieved in the World Maintenance Competition. ”
-
-...
-
-[Data](articles/0036b916.json)
-
-[Extended Data](ext_articles/0036b916.ext.json)
-
----
-
-### The campaign meeting that disappointed Fonseka
-
-*2024-08-26 20:15:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-ஏமாற்றத்தை-தந்த-பிரசார-கூட்டம்/175-342812) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sarath Fonseka's campaign meeting in Nuwara Eliya had low attendance. Only 10 people attended, including Fonseka. Security was tight with many police present.
-
-🟩
-
-Sarath Fonseka's campaign meeting was held today (26) at a vehicle located in the main city of Nuwara Eliya.
-
-There were about 10 people, including Fonseka, on the set up stage and the public did not visit the seat in front of the platform.
-
-In addition, when Fonseka was a military commander, the car was loaded with a lorry and parked near the stage.. The photos of its scenes were hung.
-
-However, during the meeting, a large number of police were summoned and serious security measures were taken. Remble
-
-◼️
-
-[Data](articles/bb0d3e32.json)
-
-[Extended Data](ext_articles/bb0d3e32.ext.json)
-
----
-
-### Fonseka is disappointed at the campaign meeting
-
-*2024-08-26 19:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரச்சாரக்-கூட்டத்தில்-பொன்சேக்காவுக்கு-ஏமாற்றம்/175-342811) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sarath Fonseka's Nuwara Eliya campaign meeting had low attendance. Only about 10 people attended, including Fonseka. The event lacked public support, despite police
-
-🟩
-
-Sarath Fonseka's campaign meeting was held on Monday (26) in the main city of Nuwara Eliya.
-
-It has been disappointing that there are about 10 people, including Fonseka, and that the public has not been able to arrive in the seats in front of the platform.
-
-In addition, when Fonseka was the army commander, the car was loaded with a lorry and parked near the stage.
-
-However, it has been disappointing that the lack of people attending the meeting despite a large number of police summoned during the meeting.
-
-◼️
-
-[Data](articles/c89ccf3d.json)
-
-[Extended Data](ext_articles/c89ccf3d.ext.json)
 
 ---

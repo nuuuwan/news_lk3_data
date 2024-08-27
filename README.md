@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 21:37:20**
+As of **2024-08-27 21:56:34**
 
 ## Newspaper Stats
 
-*Scraped **42,917** Articles*
+*Scraped **42,918** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 359
 newsfirstlk | 363
 bbccomsinhala | 398
-colombotelegraphcom | 410
+colombotelegraphcom | 411
 islandlk | 2,501
 economynextcom | 2,586
 dailyftlk | 2,779
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,916 (100.0%) of 42,917 articles have been extended.
+42,917 (100.0%) of 42,918 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -328,21 +328,27 @@ Steps will be taken to build a declined agriculture due to the infection of the 
 
 ---
 
-### පොහොර සහනාධාරය රු. 25000ක් දක්වා ඉහළට
+### Fertilizer subsidy. Up to 25,000
 
 *2024-08-27 19:09:58* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-රු--25000ක්-දක්වා-ඉහළට/11-411595) · `si`
 
-එළඹෙන මහ කන්නයේදී වැඩි වී අස්වැන්නක් ලබා ගැනීමට හැකි වන පරිදි, සහ වී වගාව සඳහා ගොවීන් දිරිගැන්වීම පිණිස හෙක්ටයාර් එකක් සඳහා ගෙවනු ලබන පොහොර සහනාධාරය රුපියල් 25,000ක් දක්වා වැඩි කිරීමට  කටයුතුකළ බව ජනමාධ්‍ය, ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කළේය.
+Fertilizer subsidy increased from Rs. 15,000 to Rs. 25,000 per hectare for paddy cultivation in Maha season 2024/25.
 
-අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේ අද (27) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේ දී ය.
+🟩
 
-ගොවින් සඳහා දැනට හෙක්ටයාරයකට රුපියල් 15,000 ක් ගෙවනු ලැබේ. පසුගිය සතියේ ඉදිරිපත් කළ එම යෝජනාව සංශෝධනය කරමින් පොහොර සහනාධාරය  මෙලෙස හෙක්ටයාරයකට රුපියල් 25,000 ක් දක්වා වැඩි කර තිබේ.
+The fertilizer subsidy paid to paddy cultivation in the coming Maha season increased to Rs. 25,000.
 
-2024/25 මහා කන්නය සඳහා ස්ටේට් ෆර්ටිලයිසර් කම්පැනි ලිමිටඩ් මඟින් සහ පුද්ගලික අංශය මඟින් පොහොර ආනයනය කර වී වගාව සහ අනිකුත් වී වගාවන් සඳහා වගා කරන ලද උපරිම හෙක්ටයාරයකට රුපියල් 15,000 බැඟින් මුල්‍ය සහනාධාරයක් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව මඟින් ලබා ලබා දීමට  කටයුතු කරන බව පසුගිය සතියේ කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය සාකච්ඡාවේ දී සඳහන් කළේය.
+The Minister was speaking at a press conference to inform the Cabinet decisions held in the Government Information Department today.
+
+The farmers currently pay Rs 15,000 per hectare. The proposal submitted last week has been revised and increased the fertilizer subsidy to Rs. 25,000 per hectare.
+
+2024/25 The Cabinet Decisions made by the Department of Agrarian Development last week that the Agrarian Development Department will be provided with a maximum of Rs.He said in the press conference.
 
 ◼️
 
 [Data](articles/6dea8b89.json)
+
+[Extended Data](ext_articles/6dea8b89.ext.json)
 
 ---
 
@@ -971,6 +977,18 @@ They are said to have called for a girlfriend to marry because they were beaten.
 [Data](articles/eb85ff3d.json)
 
 [Extended Data](ext_articles/eb85ff3d.ext.json)
+
+---
+
+### Which ‘Genius’ Will Be ‘Lucky’ This Time?
+
+*2024-08-27 16:03:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/which-genius-will-be-lucky-this-time/) · `en`
+
+Not so long ago, I received a You-Tube on the 1984 reception accorded to our then President JR Jaeawardene (JR) by the then American President Ronald Reagan in Washington. Accompanying the ‘link’ was an excited comment by the sender, “he speaks better English than the white men!” Highly laudatory, after all Reagan the native English speaker, was referred to as the “great communicator”!
+
+...
+
+[Data](articles/64ac4fe7.json)
 
 ---
 
@@ -2483,51 +2501,5 @@ Ranil Wickremesinghe bravely offered to take the country to take charge of the c
 [Data](articles/495f80e3.json)
 
 [Extended Data](ext_articles/495f80e3.ext.json)
-
----
-
-### What you need to learn to work in the 5 most job fields
-
-*2024-08-27 10:45:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c24pr6eyq37o) · `si`
-
-Here's a 200-character summary of the key points:
-
-
-
-1. Rapid technological advancements in AI, automation, and green economy are reshaping the global job market.
-
-
-
-2. Key skills for future success: technology literacy, STEM education, analytical thinking, creativity, communication, and emotional intelligence.
-
-
-
-3. High-demand jobs: AI engineers, data scientists, cybersecurity experts, fintech specialists, green energy professionals, healthcare workers, and skilled tradespeople.
-
-
-
-4. Creative professions like writers, artists, and performers will continue to thrive despite technological changes.
-
-🟩
-
-What you need to learn to work in the 5 most job fields
-
-The labor market in the world is rapidly changing, and most existing jobs have quickly erupted.
-
-According to a recent study by the World Economic Forum, two major factors that affect such a situation. It is those factors that move new technology and automated improvement and to the green economy and suscept.
-
-The fast advancement of new technologies such as large-scale data, cloud computerizing and artificial intelligence, is foretelling in the labor market.
-
-The satisfactory news is that new technologies are refreshing to the entire economy. There is a loss of certain jobs and many more jobs are created. It is naturally expanded when a business can achieve more productivity from less than all.
-
-Researchers of World Economic Forum say that all the present occupations will change in the next five years.
-
-Therefore, to succeed in the competitive labor market, it must be done to develop new skills and educating abilities.
-
-...
-
-[Data](articles/c45c3ddd.json)
-
-[Extended Data](ext_articles/c45c3ddd.ext.json)
 
 ---

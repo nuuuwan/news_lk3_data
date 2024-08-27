@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 15:21:34**
+As of **2024-08-27 15:37:02**
 
 ## Newspaper Stats
 
-*Scraped **42,851** Articles*
+*Scraped **42,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,107 @@ dailyftlk | 2,779
 adalk | 3,956
 dailymirrorlk | 4,733
 adaderanalk | 5,039
-tamilmirrorlk | 5,588
-virakesarilk | 6,802
-adaderanasinhalalk | 7,341
+tamilmirrorlk | 5,589
+virakesarilk | 6,808
+adaderanasinhalalk | 7,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,851 (100.0%) of 42,851 articles have been extended.
+42,851 (100.0%) of 42,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### மேட்ச் பிக்சிங்: பெச்சலோடியாவுக்கு சிறை
+
+*2024-08-27 15:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மேட்ச்-பிக்சிங்-பெச்சலோடியாவுக்கு-சிறை/44-342868) · `ta`
+
+இந்திய ராயல் பஞ்சாப் அணியின் முகாமையாளராக இருந்தபோது போட்டிகளை காட்டிக்கொடுக்குமாறு  (மேட்ச் பிக்சிங்) இங்கிலாந்து கிரிக்கெட் வீரர் பிலிம்ஸ்டெட் மற்றும் நியூசிலாந்து வீரர் நில் ப்ரூவுக்கு அழுத்தம் கொடுத்ததாக குற்றம் சாட்டப்பட்ட கிரிக்கெட் மேலாளர் பெச்சலோடியா ஆகாஷுக்கு 4 ஆண்டுகள் சிறைத்தண்டனை விதித்து கண்டி மேல் நீதிமன்ற நீதிபதி திருமதி தர்ஷிகா தீர்ப்பளித்தார்.
+
+இந்த வழக்கின் தீர்ப்பு, செவ்வாய்க்கிழமை (27) வழங்கப்பட்டது. மேலும், ஐந்தரை மில்லியன் ரூபாய் என இரண்டு தொடர்புடைய குற்றச்சாட்டுகளுக்கு தலா 11 மில்லியன் ரூபாய் அபராதம் விதித்தார்.
+
+கண்டி, பல்லேகல சர்வதேச கிரிக்கெட் ஸ்டேடியத்தில் நடைபெற்ற "லெஜண்ட் டிராபி 2024" கிரிக்கெட் போட்டியில் பணத்திற்காக வெளிநாட்டு வீரர்களை ஏமாற்றியதாக இரண்டு அதி குற்றச்சாட்டுகளின் கீழ் தாக்கல் செய்யப்பட்டிருந்த இரண்டு வழக்குகளின் விசாரணை தீர்ப்பிலேயே மேற்கண்டவாறு தண்டனை விதிக்கப்பட்டுள்ளது.
+
+2019 ஆம் ஆண்டின் 49 ஆம் இலக்க விளையாட்டு குற்றங்கள் தடுப்புச் சட்டத்தின் கீழ் இந்தக் குற்றச்சாட்டுகளின் கீழ் வழக்கு தாக்கல் செய்யப்பட்டன. வழக்கில்,
+
+...
+
+[Data](articles/cc6b5659.json)
+
+---
+
+### ආදිවාසී ජනතාව වෙනුවෙන් නව නීති
+
+*2024-08-27 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200386) · `si`
+
+ශ්‍රී ලංකාවේ ආදිවාසී ජනතාවගේ අයිතිවාසිකම් සම්බන්ධයෙන් නව නීතියක් හඳුන්වාදීම සඳහා පනත් කෙටුම්පතක් සකස් කිරීම වෙනුවෙන් ඉදිරිපත් කෙරුණු යෝජනාවට කැබිනට් මණ්ඩලයේදී අනුමැතිය හිමිවී තිබේ.
+
+ඒ සම්බන්ධයෙන් 2024.05.22  පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේදී සාකච්ඡා කර තිබූ අතර එහිදී අදාළ සංකල්ප පත්‍රිකාව තවදුරටත් විශ්ලේෂණය කිරීමට යෝග්‍ය බවට තීරණය කර තිබුණි.
+
+ඒ අනුව ඉඩම්, වනජීවි හා වන සංරක්ෂණ, පරිසර සහ මුදල් යන විෂයයන් පැවරී ඇති අමාත්‍යාංශවල නිලධාරීන්, නීතිපති දෙපාර්තමේන්තුවේ නිලධාරීන් සහ නීති කෙටුම්පත් සම්පාදක දෙපාර්තමේන්තුවේ නිලධාරීන් මෙන්ම අදාළ ක්ෂේත්‍රය පිළිබඳව උනන්දුවක් දක්වන පාර්ශ්වකරුවන්ගේ සහභාගීත්වයෙන් සහ අග්‍රාමාත්‍ය ලේකම්ගේ ප්‍රධානත්වයෙන් සාකච්ඡා වට කිහිපයක් පවත්වා එම මූලික කෙටුම්පත තවදුරටත් වැඩිදියුණු කර ඇත.
+
+එම මූලික කෙටුම්පත මත පදනම්ව පනත් කෙටුම්පතක් සකස් කරන ලෙස නීති කෙටුම්පත් සම්පාදකට උපදෙස් දීම වෙනුවෙන් අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යවරයා සහ බුද්ධශාසන, ආගමික සහ සංස්කෘතික කටයුතු අමාත්‍යවරයා ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාවට මෙලෙස කැබිනට් අනුමැතිය හිමිවී තිබේ.
+
+◼️
+
+[Data](articles/4f115247.json)
+
+---
+
+### கடற்படை பிரதம அதிகாரியாக ரியர் அட்மிரல் காஞ்சன பனாகொட நியமனம்
+
+*2024-08-27 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/192127) · `ta`
+
+ரியர் அட்மிரல் காஞ்சன பனாகொட இலங்கை கடற்படையின் புதிய பிரதம அதிகாரியாக முப்படைகளின் தளபதியான ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் நியமிக்கப்பட்டுள்ளார்.
+
+2024 ஆகஸ்ட் 16ஆம் திகதி முதல் அமுலுக்கு வரும் வகையில் அவரது நியமனம் வழங்கப்பட்டுள்ளதாக இலங்கை கடற்படை தெரிவித்துள்ளது.
+
+நேற்று திங்கட்கிழமை (26) கடற்படைத் தளபதி வைஸ் அட்மிரல் பிரியந்த பெரேராவினால் கடற்படை தலைமையகத்தில் அது தொடர்பான நியமனம் உத்தியோகபூர்வமாக வழங்கி வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/feb46553.json)
+
+---
+
+### தனுஷ் இயக்கும் 'நிலவுக்கு என் மேல் என்னடி கோபம்' பட அப்டேட்
+
+*2024-08-27 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/192126) · `ta`
+
+நடிகரான தனுஷ் இயக்குநராகவும் படங்களை இயக்கி வருகிறார். அவரது இயக்கத்தில் வெளியான 'ப பாண்டி', 'ராயன்' ஆகிய இரண்டு படங்களும் வணிக ரீதியாக வெற்றியை பெற்றிருக்கிறது.
+
+இந்நிலையில் இவரது இயக்கத்தில் தயாராகும் மூன்றாவது திரைப்படமான 'நிலவுக்கு என் மேல் என்னடி கோபம்' எனும் படத்தைப் பற்றிய புதிய தகவல்களை படக்குழுவினர் பிரத்யேக புகைப்படத்துடன் அறிவித்துள்ளனர்.
+
+இயக்குநர் தனுஷ் இயக்கத்தில் உருவாகி வரும் 'நிலவுக்கு என் மேல் என்னடி கோபம்' எனும் திரைப்படத்தில் தனுஷின் உறவினரான பவிஷ் கதையின் நாயகனாக அறிமுகமாகிறார்.
+
+இவருடன் அனிகா சுரேந்திரன், பிரியா பிரகாஷ் வாரியர், மேத்யூ தாமஸ், வெங்கடேஷ் மேனன், அன்பு தாசன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். மேலும் முன்னணி நட்சத்திர நடிகையான பிரியங்கா அருள் மோகன் ஒரே ஒரு பாடலுக்கு நடனமாடுகிறார். இதனுடன் படத்தின் இயக்குநரான தனுஷ் சிறப்பு தோற்றத்தில் நடித்திருக்கிறார்.
+
+...
+
+[Data](articles/02ee2bb6.json)
+
+---
+
+### பிரஜின் நடிப்பில் தயாராகும் 'சேவகர்'
+
+*2024-08-27 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/192123) · `ta`
+
+நடிகர் பிரஜின் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'சேவகர்' எனும் திரைப்படம் - அதிரடி அரசியல் திரில்லர் திரைப்படமாக உருவாகி இருக்கிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+அறிமுக இயக்குநர் சந்தோஷ் கோபிநாத் இயக்கத்தில் உருவாகி வரும் 'சேவகர்' எனும் திரைப்படத்தில் பிரஜின், சஹானா, போஸ் வெங்கட், 'ஆடுகளம்' நரேன், மதுரை சரவணன், உடுமலை ராஜேஷ், ஹீமா சங்கர், ரூபா, சுனில், பாலு, ஷாஜி கிருஷ்ணா, சாய் சங்கர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+பிரதீப் நாயர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஆர். டி. மோகன்  இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை சில்வர் மூவிஸ் இன்டர்நேஷனல் நிறுவனம் சார்பில் தயாரிப்பாளர் ராஜன் ஜோசப் தாமஸ் தயாரித்திருக்கிறார்.
+
+இப்படத்தின் படப்பிடிப்பு நிறைவடைந்து தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது. விரைவில் இப்படத்தின் பர்ஸ்ட் லுக் மற்றும் டீசர் வெளியிடப்படும் என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/3db423a1.json)
+
+---
 
 ### Riots in Kolkata: Video
 
@@ -82,6 +170,44 @@ The Mannar Magistrate, who was conducting investigations, ordered the fishermen 
 
 ---
 
+### தமிழர்கள் தேசிய அரசியல் செயன்முறையில் பங்கேற்பதற்கு ஊக்கம் தராத நாட்டு நிலைவரம்
+
+*2024-08-27 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/192111) · `ta`
+
+பொருளாதார நிலைவரம்,  பின்பற்றவேண்டிய பொருளாதார அபிவிருத்திப் பாதை மற்றும் தற்போதைய தருணத்தில் நாட்டுக்கு தலைமை தாங்கி வழிநடத்துவதற்கு பொருத்தமான தலைவர் யார் என்ற விடயங்களே இன்று பெருமளவுக்கு பேசப்படுகின்றன. ஆனால், நாடடின் பொருளாதாரப் பிரச்சினைக்கும் ஏனைய பிரச்சினைகளுக்கும் பங்களிப்புச் செய்ததும் தீர்வு காண்பதற்கு சிக்கலானதாக இருப்பதுமான இன்னொரு முக்கிய பிரச்சினை இந்த பேச்சுக்களுக்குள் விரைவில் ஊடுருவப் போகிறது.
+
+ஜனாதிபதி தேர்தல் பிரசாரங்கள் முழுவீச்சில் முன்னெடுக்கப்படுகின்ற அதேநேரம் ஜெனீவாவில் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் கூட்டத்தொடரும் விரைவில் தொடங்கப்போகிறது. மனித உரிமைகள் பேரவையின் தீர்மானங்களுக்கு இசைவான முறையில் இலங்கை செயற்படுகிறதா இல்லையா என்பது தொடர்பான பிரச்சினை 2009 ஆண்டில் இருந்து கிரமமாக ஆராய்வுக்கு வந்துகொண்டிருக்கிறது.
+
+இந்த கூட்டத்தொடரிலும் அந்த பிரச்சினை ஆராயப்படும். அந்த தீர்மானங்கள் கடந்தகால மனித உரிமை மீறல்களை இலங்கை அரசாங்கங்கள் ஒரு ஏற்புடைய முறையில் கையாளவில்லை என்ற சர்வதேச சமூகத்தின் மதிப்பீட்டின் அடிம்படையில் அமைந்தவை.
+
+...
+
+[Data](articles/54d56d24.json)
+
+---
+
+### தமிழ் மக்களின் பலத்தை காண்பிப்பதற்கே ஐனாதிபதி தேர்தலில் போட்டியிடுகின்றேன் - பொதுவேட்பாளர் அரியநேத்திரன்
+
+*2024-08-27 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/192114) · `ta`
+
+தமிழ் மக்களின் ஒற்றுமையை வெளியுலகத்திற்கு காண்பிப்பதற்கே பொதுவேட்பாளராக போட்டியிடுகின்றேன் இன்றும் எமது நிலங்கள் அபகரிக்கப்பட்டுக் கொண்டிருக்கின்ற நிலையில் தான் நாம் இந்த ஐனாதிபதி தேர்தலை சந்திக்கிறோம் என தமிழ் பொது வேட்பாளர் பா.அரியநேத்திரன் தெரிவித்தார் .
+
+யாழ்ப்பாணம் நல்லூரில் அமைந்துள்ள தியாகி திலீபனின் நினைவிடத்தில் அஞ்சலி செலுத்திய பின் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் அவர் இதனை தெரிவித்தார்.
+
+திலீபன் எதற்காக உண்ணாவிரதம் இருந்து தனது உயிரை அர்ப்பணித்தாரோ அத்தகைய தேவை இன்னும் இருந்துகொண்டு இருக்கிறது .எமக்கான தீர்வு கிடைத்தபாடில்லை.
+
+அந்த தீர்வை நோக்கிய பயணமாக தமிழ் மக்களின் ஒற்றுமைக்காக ஐனாதிபதி வேட்பாளராக தமிழ்தேசிய  பொதுக்கட்டமைப்பால் பொதுவேட்பாளராக போட்டியிடுகின்றேன்.
+
+ஐனாதிபதியாக வருவதல்ல நோக்கம். இந்த தேர்தல் மூலம் எமக்கான தீர்வை பொற்றுக்கொள்ள தமிழர்களாகிய நாம் ஒற்றுமையாவிருக்கின்றோம் என்பதை காண்பிப்பதற்காக போட்டியிடுகின்றேன்.
+
+எமது மக்கள் நேரகாலத்துடன் பெருவாரியாக சென்று வாக்களிப்பதன் ஊடாக எமது அடுத்த கட்டத்தை நோக்கி பயணிக்க முடியும்.
+
+...
+
+[Data](articles/ee8460e8.json)
+
+---
+
 ### People’s responsibility to support govt’s program to rebuild economy - President
 
 *2024-08-27 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101543/peoples-responsibility-to-support-govts-program-to-rebuild-economy-president) · `en`
@@ -97,6 +223,24 @@ President Wickremesinghe outlined his objective of achieving a swift economic re
 [Data](articles/5ee19e06.json)
 
 [Extended Data](ext_articles/5ee19e06.ext.json)
+
+---
+
+### 8 இந்திய மீனவர்கள் கைது
+
+*2024-08-27 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/192120) · `ta`
+
+மன்னார் கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட 08 இந்திய மீனவர்களை இலங்கை கடற்படையினர் கைது செய்துள்ளனர்.
+
+வடக்கு கடற்பரப்பில் இலங்கை கடற்படையினர் நேற்று திங்கட்கிழமை (26) மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட மீனவர்கள் தலைமன்னார் துறைமுகத்திற்கு அழைத்துவரப்பட்டு மேலதிக விசாரணைகளுக்காக கடற்றொழில் பரிசோதகரிடம் ஒப்படைக்கப்பட்டுள்ளார்கள் என இலங்கை கடற்படை தெரிவித்துள்ளது.
+
+இவ் ஆண்டு இதுவரையான காலத்தில் 46 இந்திய இழுவை படகுகள் கைப்பற்றப்பட்டுள்ளதோடு, 341 இந்திய மீனவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/7a850c80.json)
 
 ---
 
@@ -2319,313 +2463,5 @@ Accordingly, in Article 88 (1) of the Anti -Corruption Act, No. 9 of 2023, it is
 [Data](articles/216ed445.json)
 
 [Extended Data](ext_articles/216ed445.ext.json)
-
----
-
-### The National People's Power - Anura Kumara Dissanayake
-
-*2024-08-27 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192077) · `ta`
-
-Thank you for sharing your thoughts on economic development and education reform in Sri Lanka. As a neutral AI assistant, I'll summarize the key points and offer some suggestions:
-
-
-
-### Key Points
-
-
-
-1. Government role in economic development:
-
-   - Regulate industries
-
-   - Provide technology and capital assistance
-
-   - Find international markets
-
-   - Support entrepreneurs
-
-
-
-2. Challenges in attracting foreign investment:
-
-   - Limited direct foreign investment (only $22 billion over 44 years)
-
-   - Competition with other countries like Vietnam
-
-
-
-3. Education reform proposals:
-
-   - Improve school infrastructure
-
-   - Reduce distance between homes and schools
-
-   - Expand curriculum to include emotional intelligence, physical health, and spirituality
-
-   - Implement a more holistic approach to education
-
-
-
-4. Social welfare initiatives:
-
-   - Monthly allowances for families struggling financially
-
-   - Remove taxes on food, education, and healthcare
-
-   - Reduce electricity and fuel prices
-
-
-
-5. Focus on inclusivity:
-
-   - Ensure equal opportunities regardless of location, nationality, or disability
-
-
-
-### Suggestions
-
-
-
-1. Economic diversification:
-
-   - Focus on high-tech industries like IT and renewable energy
-
-   - Invest in infrastructure development to attract foreign investment
-
-
-
-2. Education reform:
-
-   - Implement a modular education system allowing students to choose courses based on interests
-
-   - Incorporate vocational training to prepare students for the job market
-
-   - Increase teacher training and resources
-
-
-
-3. Social welfare programs:
-
-   - Implement a targeted subsidy system to reach those most in need
-
-   - Create partnerships with NGOs and private sector organizations for community outreach
-
-
-
-4. Foreign investment strategy:
-
-   - Develop clear policies and regulations for foreign investors
-
-   - Offer tax incentives and other benefits for strategic sectors
-
-   - Establish a dedicated agency to facilitate foreign investment
-
-
-
-5. Infrastructure development:
-
-   - Improve transportation networks to connect rural areas with urban centers
-
-   - Invest in digital infrastructure to enhance connectivity and e-commerce capabilities
-
-
-
-6. Environmental sustainability:
-
-   - Accelerate the transition to renewable energy sources
-
-   - Implement sustainable agriculture practices
-
-
-
-By implementing these strategies, Sri Lanka can potentially accelerate economic growth, improve education outcomes, and enhance overall quality of life for citizens.
-
-🟩
-
-The government of the National People's Power is a government that conducts all citizens. Anura Kumara Dissanayake, the leader of the National People's Power and the Presidential candidate, said that it was a human being.
-
-Anura Kumara Dissanayake, president and presidential candidate of the National People's Power and Presidential candidate, was held at the Monak Imperial Hotel in Sri Jayawardenapura on Monday (26).
-
-The moment we have evolved here today, as a political movement, is the most systematic basis in many sectors. First, we need to build a power to build this degraded country.
-
-We moved forward with those who represent different fields in our country. But it will not only be enough for us. We must carry out a multi -faceted ideology among our people.
-
-How to dissolve the causes of the disaster about the disaster that has occurred to our country?We have been talking to the public for a long time. I think the next step is to present a program that summarizes them all.
-
-...
-
-[Data](articles/8c41d1f0.json)
-
-[Extended Data](ext_articles/8c41d1f0.ext.json)
-
----
-
-### Call for a great focusing struggle
-
-*2024-08-27 00:50:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாபெரும்-கவனயீர்ப்பு-போராட்டத்திற்கு-அழைப்பு/175-342831) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Missing and Missing Day" vigil planned Aug 30. Former MP calls for unity against Tamil disappearances. Parents still seeking justice after 15 years. Events in Jaffna and Trincomalee.
-
-🟩
-
-The relations of the missing have been invited to hold a massive vigilante struggle on the day of the Missing and Missing Day.
-
-Former Member of the Northern Provincial Council Durairasa Ravikaran has called for the mobilization of the struggle to strengthen the struggle.
-
-“Missing and Missing Day is celebrated on August 30. They have been looking for their relationships for many years with pain and suffering.
-
-As far as Sri Lanka is concerned, those who have been responsible for the fact that the missing persons have been hurting the Tamils ​​as an expression of their treachery.
-
-There is no solution for this yet 15 years. Some of the parents who are longing for the pain of seeing those who were handed over during the finals have died.
-
-In this context, the relations of the missing persons in the North and East will be held on the 30th of this month in Jaffna and in Trincomalee in Trincomalee on the 30th of this month.. I urge everyone to gather and support this struggle. ”
-
-◼️
-
-[Data](articles/5843bf0d.json)
-
-[Extended Data](ext_articles/5843bf0d.ext.json)
-
----
-
-### New Constitution in National People's Power
-
-*2024-08-27 00:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தி-ஆட்சியில்-புதிய-அரசமைப்பு/175-342830) · `ta`
-
-National People's Power proposes new constitution, abolishes executive presidency, limits ministerial positions, cancels MP perks, promises referendum, focuses on food security, education reform, and ethnic rights.
-
-🟩
-
-The abolition of the executive presidential system and the new parliamentary electoral system will take place through the new constitution.. The presidential election manifesto of the National People's Power is also promised to enact a new constitution with a referendum.
-
-The National People's Election Election Walk was released in Colombo today (26) by Anura Kumara Dissanayake, president and presidential candidate of the National People's Power, on the theme "prosperous country - beautiful life".
-
-The manifesto, which has been extensively investigated on each topic, will be eliminated by the pension for MPs, and the free vehicle permit for MPs will be canceled.The allowance paid to MPs to attend the session will be stopped.The number of official homes of the president will be limited to one. It has also been noted that the pension, special payments and privileges provided to former presidents and their lifetime will be eliminated.
-
-...
-
-[Data](articles/74c936fc.json)
-
-[Extended Data](ext_articles/74c936fc.ext.json)
-
----
-
-### 2024-08-26 (Monday)
-
-### Emergency Notification regarding Passport
-
-*2024-08-26 22:49:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-குறித்து-அவசர-அறிவித்தல்/175-342828) · `ta`
-
-Here's a summary of the emergency notification about passports in 200 characters:
-
-
-
-Passport issuance delayed. Department bought 50,000 blank passports. Expected delivery end October. 23% more applications than last year. Public urged to apply urgently. Delayed issue regretted.
-
-🟩
-
-The cost of issuing passports has already been paid by calling an international price to a foreign company.
-
-However, the Department of Immigration and Emigration has announced that the Department of Immigration and Emigration has now purchased 50,000 ordinary blank passports as part of the same order from the same company that ordered the limited stock of empty passports owned by the Department of Immigration and Emigration.. .
-
-This constituency is expected to reach the country by the end of October.
-
-According to the Department of Immigration and Emigration, the number of applicants abroad was 23% of the number of passports issued last year.
-
-Therefore, the Department of Immigration and Emigration is asking the public to apply for a passport for a compulsory reason until the existence of empty passports is available.
-
-The Department of Immigration and Emigration has also regretted the public inconvenience due to the delay in issuing passports.R
-
-◼️
-
-[Data](articles/e4d0dc64.json)
-
-[Extended Data](ext_articles/e4d0dc64.ext.json)
-
----
-
-### Unilever Sri Lanka cricket team crowned 2024 champions of Mercantile G Division Tournament
-
-*2024-08-26 22:49:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-cricket-team-crowned-2024-champions-of-mercantile-g-division-tournament/) · `en`
-
-In a thrilling finale, Unilever Sri Lanka emerged as the unbeaten champions of the Mercantile G Division Cricket Tournament, defeating Amazon Trading – English Tea Shop in an entertaining match played on 3rd August at the MCA Grounds. After a grueling league stage and an intense round of knockouts, Unilever’s cricket team showcased exceptional talent, teamwork, and determination to claim the coveted title for the first time.
-
-...
-
-[Data](articles/b032bc58.json)
-
-[Extended Data](ext_articles/b032bc58.ext.json)
-
----
-
-### Ceylinco Cancer Centre acquires latest Siemens CT Simulator to enhance patient care
-
-*2024-08-26 22:49:00* · [`islandlk`](http://island.lk/ceylinco-cancer-centre-acquires-latest-siemens-ct-simulator-to-enhance-patient-care/) · `en`
-
-The Ceylinco Cancer Centre has acquired a state-of-the-art, AI-supported, CT Simulator from Siemens Healthcare GmbH of Germany, significantly enhancing the accuracy of the radiation therapy it offers, as well as the comfort of patients.
-
-A spokesman for the Centre said the acquisition of the CT Simulator entailed an investment of Rs 200 million, and that this is the only CT Simulator in Sri Lanka’s private healthcare sector that is dedicated exclusively for treatment planning, and would not be used for routine diagnostic scanning.
-
-...
-
-[Data](articles/f8514d8b.json)
-
-[Extended Data](ext_articles/f8514d8b.ext.json)
-
----
-
-### ‘AIA delivers excellent results in first half of 2024’
-
-*2024-08-26 22:47:00* · [`islandlk`](http://island.lk/aia-delivers-excellent-results-in-first-half-of-2024/) · `en`
-
-The Board of AIA Group Limited (the “Company”) announced the Group’s financial results for the six months ended June 30, 2024. Growth rates are shown on a constant exchange rate basis:
-
-Value of new business (VONB) up 25 per cent to a record high of US$2,455 million
-
-Sales up 17 per cent to US$4,546 million of annualised new premiums (ANP)
-
-New business profitability increased with VONB margin up 3.3 pps to 53.9 per cent
-
-Embedded value (EV) operating profit of US$5,350 million, up 29 per cent per share
-
-Operating ROEV of 16.5 per cent, increased from 12.9 per cent in full year 2023
-
-EV Equity of US$70.9 billion after capital returns to shareholders, up 5 per cent per share over the first half
-
-Operating profit after tax (OPAT) of US$3,386 million, up 10 per cent per share
-
-Operating ROE of 15.3 per cent, up from 13.5 per cent in full year 2023
-
-OPAT per share CAGR target of 9 to 11 per cent from 2023 to 2026
-
-Underlying free surplus generation (UFSG) of US$3,391 million, up 10 per cent per share
-
-...
-
-[Data](articles/7928af67.json)
-
-[Extended Data](ext_articles/7928af67.ext.json)
-
----
-
-### Browns Plantations voted Most Popular Corporate at Best Web Awards
-
-*2024-08-26 22:46:00* · [`islandlk`](http://island.lk/browns-plantations-voted-most-popular-corporate-at-best-web-awards/) · `en`
-
-Browns Plantations, one of Sri Lanka’s leading plantation companies and largest exporter of tea globally, recently added yet another accolade to its long line of local and international recognitions. The heritage company was awarded Most Popular Corporate Website at the annual BestWeb.LK Awards 2024 held by LK Domain Registry, marking a significant milestone in the entity’s increasing digital presence.
-
-In today’s ever-evolving electronic landscape, the necessity of hosting a website that successfully represents and communicates a company’s identity online, is all the more pivotal. Serving as Sri Lanka’s only web design competition since 2009, BestWeb.LK offers local websites a unique and competitive platform to evaluate their interfaces according to a stringent set of guidelines, while facilitating a space to showcase each one’s brand identity in an innovative way.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/8b2526c2.json)
-
-[Extended Data](ext_articles/8b2526c2.ext.json)
 
 ---

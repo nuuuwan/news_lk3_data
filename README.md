@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 23:21:44**
+As of **2024-08-27 23:37:35**
 
 ## Newspaper Stats
 
-*Scraped **42,935** Articles*
+*Scraped **42,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 413
 islandlk | 2,501
 economynextcom | 2,594
 dailyftlk | 2,779
-adalk | 3,971
+adalk | 3,972
 dailymirrorlk | 4,733
 adaderanalk | 5,050
 tamilmirrorlk | 5,596
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,927 (100.0%) of 42,935 articles have been extended.
+42,935 (100.0%) of 42,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -522,6 +522,22 @@ Steps will be taken to build a declined agriculture due to the infection of the 
 
 ---
 
+### හිස් විදෙස් ගමන් බලපත්‍ර සීමා වෙයි
+
+*2024-08-27 19:16:13* · [`adalk`](https://www.ada.lk/breaking_news/හිස්-විදෙස්-ගමන්-බලපත්‍ර-සීමා-වෙයි/11-411596) · `si`
+
+ආගමන විගමන දෙපාර්තමේන්තුව සතුව මේ වන විට හිස් විදේශ ගමන් බලපත්‍ර ප්‍රමාණය සීමිත වීම හේතුවෙන් විදේශ ගමන් බලපත්‍ර නිකුත් කිරීම සීමා කිරීමට සිදුව තිබෙන බව ආගමන විගමන දෙපාර්තමේන්තුව සඳහන් ක‍රයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පවසන්නේ ඇණවුම් කර ඇති නව විදේශ ගමන් බලපත්‍ර තොගය ඔක්තෝබර් මාසයේදී හෝ ඊට පෙර ශ්‍රී ලංකාවට ලබා ගත හැකි වෙනු ඇති බවයි.
+
+එසේම පසුගිය වසරේ නිකුත් කළ විදේශ ගමන් බලපත්‍ර අතරින් විදේශ ගත වීම් සිදුකර ඇත්තේ සියයට 23ක් තරම් අඩු ප්‍රමාණයකින් බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+◼️
+
+[Data](articles/ad18a3c7.json)
+
+---
+
 ### Fertilizer subsidy. Up to 25,000
 
 *2024-08-27 19:09:58* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-රු--25000ක්-දක්වා-ඉහළට/11-411595) · `si`
@@ -738,6 +754,8 @@ In the Board approved program that runs up to March 2025, about 250 million doll
 
 [Data](articles/9d7ea984.json)
 
+[Extended Data](ext_articles/9d7ea984.ext.json)
+
 ---
 
 ### A Chinese military aircraft in Japanese sky
@@ -825,6 +843,8 @@ The Central Bank announced 100,000 million rupees Treasury bills are to be issue
 ◼️
 
 [Data](articles/2c5116ab.json)
+
+[Extended Data](ext_articles/2c5116ab.ext.json)
 
 ---
 
@@ -927,6 +947,8 @@ Top contributors to the ASPI were Cargills (Ceylon) Plc (up at 383.25), Browns I
 ◼️
 
 [Data](articles/e59f5a3e.json)
+
+[Extended Data](ext_articles/e59f5a3e.ext.json)
 
 ---
 
@@ -1043,6 +1065,8 @@ The cabinet earlier this month decided to pay 15,000 rupees per acre for up to t
 ◼️
 
 [Data](articles/e518391e.json)
+
+[Extended Data](ext_articles/e518391e.ext.json)
 
 ---
 
@@ -1453,6 +1477,8 @@ News footage from the SJB rally did not show Premadasa elaborate on how the prog
 ...
 
 [Data](articles/b1c4852e.json)
+
+[Extended Data](ext_articles/b1c4852e.ext.json)
 
 ---
 
@@ -2006,6 +2032,8 @@ Despite practical difficulties, the IRD said it has opened TIN for 4.7 million p
 
 [Data](articles/10566a73.json)
 
+[Extended Data](ext_articles/10566a73.ext.json)
+
 ---
 
 ### The boat toppled;Two Indian fishermen magic
@@ -2089,6 +2117,8 @@ The cabinet approved signing the loan agreement after a proposal presented by Pr
 ◼️
 
 [Data](articles/b3e5db10.json)
+
+[Extended Data](ext_articles/b3e5db10.ext.json)
 
 ---
 
@@ -2461,19 +2491,5 @@ Later, the court also ordered to obtain the fingerprints of the defendant Diana 
 [Data](articles/0b76941b.json)
 
 [Extended Data](ext_articles/0b76941b.ext.json)
-
----
-
-### Sri Lanka launches Climate-Smart Agriculture Investment Plan with FAO
-
-*2024-08-27 12:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-climate-smart-agriculture-investment-plan-with-fao-178141/) · `en`
-
-ECONOMYNEXT —  Sri Lanka has commenced the formulation of its first Climate-Smart Agriculture (CSA) Investment Plan funded by the Green Climate Fund (GCF) and implemented by the Food and Agriculture Organisation of the United Nations (FAO) in partnership with the Ministry of Environment and Ministry of Agriculture.
-
-The FAO said in a statement on Tuesday August 07 that the initiative aims to develop a comprehensive strategy to safeguard the country’s agricultural sector from the adverse impacts of climate change.
-
-...
-
-[Data](articles/e7bcc009.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 10:21:33**
+As of **2024-08-27 10:37:15**
 
 ## Newspaper Stats
 
-*Scraped **42,804** Articles*
+*Scraped **42,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ dailymirrorlk | 4,733
 adaderanalk | 5,031
 tamilmirrorlk | 5,578
 virakesarilk | 6,793
-adaderanasinhalalk | 7,332
+adaderanasinhalalk | 7,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,803 (100.0%) of 42,804 articles have been extended.
+42,804 (100.0%) of 42,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### දුම්රියේ ගැටී පුද්ගලයෙක් මරුට
+
+*2024-08-27 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200376) · `si`
+
+කළුතර උතුර පොලිස් වසමේ වස්කඩුව ප්‍රදේශයේදී දුම්රියේ ගැටී පුද්ගලයෙකු මියගොස් තිබේ.
+
+ඊයේ (26) දහවල් කාලයේදී එම අනතුර සිදුව තිබුණේ මහව සිට බෙලිඅත්ත බලා ධාවනය වූ දුම්රියේ ගැටීමෙනි.
+
+◼️
+
+[Data](articles/6aa10256.json)
+
+---
 
 ### New Chief of Staff of Sri Lanka Navy appointed
 
@@ -47,6 +61,8 @@ Rear Admiral Kanchana Banagoda joined the Sri Lanka Navy in 1989 as an Officer C
 ...
 
 [Data](articles/fb2904aa.json)
+
+[Extended Data](ext_articles/fb2904aa.ext.json)
 
 ---
 
@@ -2689,27 +2705,5 @@ The Kanagarayakulam police who went to the place of the complaint were arrested 
 [Data](articles/b62de380.json)
 
 [Extended Data](ext_articles/b62de380.ext.json)
-
----
-
-### Sri Lanka to miss excise revenue target as high prices reduces legal arrack sales
-
-*2024-08-26 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-miss-excise-revenue-target-as-high-prices-reduces-legal-arrack-sales-178077/) · `en`
-
-ECONOMYNEXT – Sri Lanka is likely to miss the 2024 target on the excise tax as production has reduced compared to the last year with the liquor prices having risen amid increase in illicit liquor manufacturing, a top Excise Department official said.
-
-Sri Lanka government has set a target of 232 billion rupees for 2024; a 29.6 percent jump compared to last year’s 179 billion rupees.
-
-The Excise Department has already collected 132.7 billion rupees in taxes up to August 22, compared to 106.5 billion rupees in the same period last year.
-
-However, the Excise Department believes it can reach only 215 billion rupees in the full year.
-
-M.J. Gunasiri, Commissioner General of Excise said the liquor production fell 22 percent to 35 million liters last year compared to 45 million in 2022.
-
-...
-
-[Data](articles/00594acd.json)
-
-[Extended Data](ext_articles/00594acd.ext.json)
 
 ---

@@ -1,36 +1,54 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 22:21:37**
+As of **2024-08-27 22:37:05**
 
 ## Newspaper Stats
 
-*Scraped **42,921** Articles*
+*Scraped **42,924** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 359
 newsfirstlk | 363
 bbccomsinhala | 398
-colombotelegraphcom | 412
+colombotelegraphcom | 413
 islandlk | 2,501
 economynextcom | 2,586
 dailyftlk | 2,779
 adalk | 3,971
 dailymirrorlk | 4,733
-adaderanalk | 5,049
+adaderanalk | 5,050
 tamilmirrorlk | 5,595
-virakesarilk | 6,820
+virakesarilk | 6,821
 adaderanasinhalalk | 7,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,920 (100.0%) of 42,921 articles have been extended.
+42,921 (100.0%) of 42,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### Tamil party calls to boycott presidential poll in North and East - report
+
+*2024-08-27 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101555/tamil-party-calls-to-boycott-presidential-poll-in-north-and-east-report) · `en`
+
+A hardline Tamil nationalist party has launched a campaign to boycott the September 21 presidential election, saying that no major candidate has pledged for the federal set-up for political autonomy for Tamils in the North and East of the country, local election monitoring groups said on Tuesday.
+
+Moreover, Selvaraja Kajendran, the Tamil National People’s Front (TNPF) general secretary, has lodged a complaint against the police for obstructing their leaflets distribution campaign on Saturday in the eastern region of Thirukkovil.
+
+The TNPF has also urged action by the Elections Commission and the Human Rights Commission against the police for obstructing them.
+
+Kajendran said they have called for a boycott of the election as no major candidate has so far pledged to set up a federal set-up for Tamil regions in the north and east to cater to the Tamil demand for political autonomy.
+
+...
+
+[Data](articles/5dc9041a.json)
+
+---
 
 ### Indian suspended sentences who pleaded guilty to betray cricket
 
@@ -63,6 +81,22 @@ Accordingly, the Kandy High Court judge has been sentenced to 11 million rupees 
 [Data](articles/0eb41431.json)
 
 [Extended Data](ext_articles/0eb41431.ext.json)
+
+---
+
+### கருத்துக்கணிப்பின் பிரகாரம் ரணிலுக்கும் சஜித்துக்குமே போட்டி; ஜே.வி.பிக்கு மூன்றாம் இடம் என்கிறார் ராஜித்த
+
+*2024-08-27 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/192169) · `ta`
+
+இடம்பெற இருக்கும் தேர்தலில் இதுவரை உள்ள கருத்துக்கணிப்பில் ரணிலுக்கும் சஜித்துக்குமே பாேட்டி. மக்கள் விடுதலை முன்னணி மூன்றாம் இடத்தில் உள்ளது என பாராளுமன்ற உறுப்பினர் ராஜித்த சேனாரத்ன தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+இடமபெற இருக்கும் ஜனாதிபதி தேர்தலில் இதுவரைக்கும் மேற்கொள்ளப்பட்ட கருத்தக்கணிப்புகளில் ரணில் விக்ரமசிங்கவுக்கும் சஜித் பிரேமதாசவுக்குமே போட்டி இருக்கிறது. மக்கள் விடுதலை முன்னணி என்தான் ஊடக களியாட்டங்களை நடத்தி, மக்களை ஒன்று திரட்டினாலும் மூன்றாவது இடத்திலே இருக்கிறது. மக்கள் விடுதலை முன்னணியின் இவ்வாறான களியாட்ட நிகழ்வுகள் ராேஹன விஜேவீரவின் காலத்திலும் இருந்தது.
+
+...
+
+[Data](articles/2b37b030.json)
 
 ---
 
@@ -850,6 +884,22 @@ Also, the Commission will discuss the holding of the local government elections 
 
 ---
 
+### UN Report Details Sri Lanka’s Dire Rights Situation: UNHRC Should Renew Monitoring, Evidence Collection
+
+*2024-08-27 16:46:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/un-report-details-sri-lankas-dire-rights-situation-unhrc-should-renew-monitoring-evidence-collection/) · `en`
+
+The Sri Lankan government has been trying to persuade international partners of its achievements in reforming the economy and protecting human rights.
+
+However, a new report by the United Nations high commissioner for human rights warns that Sri Lanka is facing renewed threats to fundamental freedoms. It finds that authorities have sought new repressive laws and engaged in intimidation and violence against victims of past abuses, civil society activists, journalists, and government critics.
+
+The government denies responsibility for grave abuses during Sri Lanka’s 1983-2006 civil war. “This entrenched impunity has also manifested itself in the corruption, abuse of power and governance failures that were among the root causes of the country’s recent economic crisis,” the report says.
+
+...
+
+[Data](articles/4d367816.json)
+
+---
+
 ### “We can’t come out from the existing IMF program” – AKD
 
 *2024-08-27 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101549/we-cant-come-out-from-the-existing-imf-program-akd) · `en`
@@ -911,6 +961,8 @@ As noted in the media publication titled above (copy attached), the action of th
 ...
 
 [Data](articles/cf6c6aa6.json)
+
+[Extended Data](ext_articles/cf6c6aa6.ext.json)
 
 ---
 
@@ -2429,73 +2481,5 @@ A. H. The judge was also ordered to obtain the fingerprints of Mr. M. Fowzie.
 [Data](articles/33b10ed6.json)
 
 [Extended Data](ext_articles/33b10ed6.ext.json)
-
----
-
-### Anuragumara will be easily successful
-
-*2024-08-27 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/192097) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Anuragumara likely to win Sri Lanka presidency. Polls indicate growing support. Indian embassy denies claims. Social media shows mixed results. Voter confidence in leadership boosts campaign. United People's Power faces challenges, UNP gains strength. Indian High Commission notes social media spread of election rumors.
-
-🟩
-
-Communications between the embassies in Colombo have reported that the National People's Power's presidential candidate will win, while the Indian embassy has rejected such information.
-
-According to social media reports, diplomatic communications have revealed that the secret polls used by several methods will be a lighter success.
-
-Social media reports that this has been revealed through a poll, which was held 30 days before the election, and that there are many indicators that express the growing support of Anuragumara.
-
-The situation of the leader of the national people's power has changed. He is seen in the Front.
-
-As the election date is approaching, he is seen as an important indicator of a considerable number of presence.. This development reflects the strong voter confidence in the leadership and policies of the Anuragumaratisanayake, contributing to the party's speed in the final stages of the campaign, the social media reports.
-
-...
-
-[Data](articles/619bd27a.json)
-
-[Extended Data](ext_articles/619bd27a.ext.json)
-
----
-
-### Favourability ratings of Sri Lanka’s AKD, Ranil improve; Ranil’s surpasses Sajith’s
-
-*2024-08-27 10:59:00* · [`economynextcom`](https://economynext.com/favourability-ratings-of-sri-lankas-akd-ranil-improve-ranils-surpasses-sajiths-178133/) · `en`
-
-ECONOMYNEXT — Sri Lanka leftist leader Anura Kumara Dissanayake and President Ranil Wickrmesinghe saw their net favourability rating rise in July, with the latter surpassing opposition leader Sajith Premadasa, according to an independent poll.
-
-The Institute for Health Policy (IHP) in its Sri Lanka Opinion Tracker Survey (SLOTS) for July found that the net favourability rating of Dissanayake rose 29 points from June to reach +3. President Wickremesinghe’s favourability improved 40 points to -24 surpassing Premadasa whose rating changed little, from -42 in June to -44 in July.
-
-IHP said in a statement on Tuesday August 27 that favourability estimates for each month are based on 100–500 interviews conducted during that month and a few weeks before and after to ensure a minimum set of responses. The July 2024 estimates are based on 400 (Premadasa), 378 (Dissanayake), 406 (Wickremesinghe) and 180 (former president Gotabaya Rajapaksa) interviews.
-
-...
-
-[Data](articles/a5f4bdc4.json)
-
-[Extended Data](ext_articles/a5f4bdc4.ext.json)
-
----
-
-### Supreme Court slams IGP, Police Commission over ignoring directives on detainees
-
-*2024-08-27 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101534/supreme-court-slams-igp-police-commission-over-ignoring-directives-on-detainees-) · `en`
-
-The Supreme Court has expressed its dissatisfaction with the lack of progress in preventing police brutality, despite the court’s repeated orders aimed at curbing the alleged torture of individuals in police custody.
-
-Making a statement in the open court, the three-member Supreme Court judge bench, chaired by Justice S. Thurairaja, noted that neither the National Police Commission nor the Inspector General of Police (IGP) has taken necessary steps to implement the Supreme Court orders pertaining to the matter.
-
-Justice Thurairaja further pointed out that no reports have been submitted by the aforesaid authorities in response to the court’s directives, which include various orders, warnings, and guidelines designed to prevent the mistreatment of detainees.
-
-The Supreme Court judge bench made this statement during the hearing of a fundamental rights petition filed by two student activists, Ada Derana reporter said.
-
-...
-
-[Data](articles/507b629a.json)
-
-[Extended Data](ext_articles/507b629a.ext.json)
 
 ---

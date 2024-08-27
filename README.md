@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 13:06:51**
+As of **2024-08-27 13:22:08**
 
 ## Newspaper Stats
 
-*Scraped **42,830** Articles*
+*Scraped **42,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,952
+adalk | 3,953
 dailymirrorlk | 4,733
-adaderanalk | 5,037
+adaderanalk | 5,038
 tamilmirrorlk | 5,584
 virakesarilk | 6,795
 adaderanasinhalalk | 7,338
@@ -26,27 +26,55 @@ adaderanasinhalalk | 7,338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,827 (100.0%) of 42,830 articles have been extended.
+42,830 (100.0%) of 42,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### කච්චතිව් මුහුදේ බෝට්ටු අනතුරක්
+### Assisted voting for the disabled: Election Commission details new provisions
+
+*2024-08-27 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101542/assisted-voting-for-the-disabled-election-commission-details-new-provisions) · `en`
+
+The Election Commission of Sri Lanka has issued an announcement regarding the legal provisions for voters with disabilities to be accompanied by a person to assist in marking the ballot paper at the polling station.
+
+Accordingly, the election regulatory body stated that the provisions in Section 38(2) of the Presidential Elections Act No. 15 of 1981 as amended by Elections (Special Provisions) Act, No. 28 of 2011 for a person who is totally or partially visually handicapped or physically disabled can be accompanied by another person to assist in marking the ballot paper at the upcoming elections.
+
+The person who accompanies the disabled person should be more than 18 years of age and not a candidate contesting for that election. Similarly, he should not be as an authorized agent, divisional agent or an election agent of a candidate, the Election Commission said in a statement.
+
+In addition, the person who accompanies the disabled person should not be a person subject to any disability.
+
+...
+
+[Data](articles/dad2d2b6.json)
+
+---
+
+### Boat accident in Kachchativu
 
 *2024-08-27 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200382) · `si`
 
-කච්චතිව් මුහුදු ප්‍රදේශයේ ඉන්දීය ධීවර බෝට්ටුවක් අනතුරකට ලක්වීමෙන් ඉන්දීය ධීවරයින් දෙදෙනෙකු අතුරුදන්ව තිබේ.
+Here's a summary of the text in 200 characters:
 
-ඉන්දීය ධීවරයින් සිව්දෙනෙකු රැගත් බෝට්ටුවක් පෙරළීමෙන් අනතුර සිදුව ඇති බව නාවික හමුදාව සඳහන් කළේය.
 
-එහිදි එම බෝට්ටුවේ සිටි ධීවරයින් දෙදෙනෙකු දියේ ගිලීමෙන් අතුරුදන්ව තිබේ.
 
-අතුරුදන් වූ ඉන්දීය ධීවරයින් සොයා මේ වන විට මෙහෙයුම් ආරම්භ කර ඇති බව නාවික හමුදාව සඳහන් කළේය.
+Indian fishermen missing after boat accident in Kachchativu sea. Two disappeared while four were on board. Navy launched search operation.
+
+🟩
+
+Two Indian fishermen have gone to an Indian fishing boat in Kachchativu sea.
+
+The navy said that the accident had occurred after a boat carrying four Indian fishermen.
+
+Two fishermen in the boat were disappeared.
+
+The Navy said that the disappeared Indian fishermen have been launched.
 
 ◼️
 
 [Data](articles/5277034c.json)
+
+[Extended Data](ext_articles/5277034c.ext.json)
 
 ---
 
@@ -59,6 +87,8 @@ Two Indian fishermen were reported missing, while two others swam safely to Kach
 ◼️
 
 [Data](articles/89616e2f.json)
+
+[Extended Data](ext_articles/89616e2f.ext.json)
 
 ---
 
@@ -397,6 +427,20 @@ The Supreme Court judge bench made this statement during the hearing of a fundam
 [Data](articles/507b629a.json)
 
 [Extended Data](ext_articles/507b629a.ext.json)
+
+---
+
+### රෝහිණිගෙන් ජවිපෙට චෝදනාවක්
+
+*2024-08-27 10:50:51* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිණිගෙන්-ජවිපෙට-චෝදනාවක්/11-411579) · `si`
+
+"ජනතා විමුක්ති පෙරමුණේ නායකයා හැම රැස්වීමකට ‘‘මැතිවරණ දිනයේ ත්, මැතිවරණයෙන් පස්සෙත් ආරක්ෂාව තහවුරු කරනවා කියලා‘‘ කියනවා.  ජනතා විමුක්ති පෙරමුණ මැතිවරණ දිනයේ ආරක්ෂාව තහවුරු කරපු හැටි අපි හැමෝටම තවම මතක" යැයි මාතලේ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී රෝහිණී කවිතරත්න පවසයි.  මාතලේ ලග්ගල පැවති ජනාධිපතිවරණ රැස්වීම් අමතමින් කවිරත්න මහත්මිය පැවසූවේ,
+
+"ජවිපෙ 1988 ජනාධි තිවරණයේ දී ඡන්දය දමන පළමු පුද්ගලයින් 6 දෙනා ඝාතනය කරන බව කිව්වා. ඇඟිලි කැපුවා. කොන්ඩේ කැපුවා.  1988 ජනාධිපතිවරණ සමයේ දී එජාප,ශ්‍රිලනිප, කොමියුනිස්ට්, මහජන පක්ෂයේ, නව සමසමාජ පක්ෂවලට අයත්  681 දෙනෙක් ජවිපෙ විසින් ඝාතනය කළා.  ජනාධිපතිවරණය දවසේ  63 දෙනෙකු ඝාතනය කළා.  එ් අතර, මැතිවරණ රාජකාරියට ආපු රාජ්‍ය නිලධාරීන් විශාල ප්‍රමාණයක් හිටියා.
+
+...
+
+[Data](articles/009604b7.json)
 
 ---
 
@@ -2565,45 +2609,5 @@ The Treasury bill issue and payment will be made on August 30.
 [Data](articles/851d47ae.json)
 
 [Extended Data](ext_articles/851d47ae.ext.json)
-
----
-
-### මාලිමාවේ ප්‍රතිපත්තිය දුප්පත් රටක් කටුක ජීවිතයක්
-
-*2024-08-26 19:36:30* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-ප්‍රතිපත්තිය-දුප්පත්-රටක්-කටුක-ජීවිතයක්/11-411575) · `si`
-
-ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය ලෙස එළි දක්වා ඇත්තේ ˝දුප්පත් රටක්  කටුක ජිවිතයක්˝ වෙත ගමන් කරන මාර්ගයක් යැයි මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා ප්‍රකාශ කළේය.
-
-ඔහු මේ බව සදහන් කර සිටියේ කොළඹදී ඊයේ (26දා)  පැවති ‟පුළුවන් ශ්‍රී ලංකා" මාධ්‍ය හමුවට එක්වෙමිනි.
-
-ජනතා විමුක්ති පෙරමුණේ ප්‍රතිපත්ති ප්‍රකාශනය මහපොළොව යථාර්ථයක් නොවන පැතුම් මල්ලක් පමණකැයි එහිදී කී සේමසිංහ මහතා වැඩිදුරටත් අදහස් දක්වමින්  මෙසේද කීය.
-
-“දේශපාලන පක්ෂ රට ඉදිරියට ගෙනියන තමන්ගේ ප්‍රතිපත්ති එළිදක්වමින් ජනතාව බලන් ඉන්නවා. ජනතා විමුක්ති පෙරමුණේ ප්‍රතිපත්ති ප්‍රකාශනය මහපොළොව යථාර්ථයක් නොවන පැතුම් මල්ලක් විතරයි. කියන්න කණගාටුයි. ඒ අය විවිධ ප්‍රතිසංස්කරණ වැඩසටහන් ක්‍රියාත්මක කරන බව කියනවා.
-
-දැනට රනිල් වික්‍රමසිංහ මැතිතුමාගේ රජය ක්‍රියාත්මක නොකළ දෙයක් තියෙනවාද කියලා මම බැලුවා. මේ තරම් කොපි කරලා, අනුන් කරන දෙයක් තමන්ගෙ දෙයක් හැටියට හුවා දක්වන්න තරම් ජනතා විමුක්ති පෙරමුණ බංකොළොත් වුණේ ඇයි කියන්න මම දන්නේ නැහැ. ප්‍රතිසංස්කරණ වැඩපිළිවෙළෙන් අපි දැනට කරගෙන යන සියලු දේ සඳහන් වෙනවා.
-
-...
-
-[Data](articles/fbafba4e.json)
-
----
-
-### More than 60 dead after militant attacks in Pakistan’s Balochistan
-
-*2024-08-26 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101526/more-than-60-dead-after-militant-attacks-in-pakistans-balochistan) · `en`
-
-Separatist militant attacks on police stations, railway lines and highways in Pakistan’s restive province of Balochistan, coupled with retaliatory operations by security forces, killed more than 60 people, officials said on Monday.
-
-The most widespread assault by ethnic insurgents in years forms part of a decades-long effort to win secession of the resource-rich southwestern province, home to major China-led projects such as a strategic port and a gold and copper mine.
-
-“These attacks are a well thought out plan to create anarchy in Pakistan,” Interior Minister Mohsin Naqvi said in a statement, adding that security forces had killed 12 militants in operations after the attacks on Sunday and Monday.
-
-Pakistan’s military said 14 soldiers and police, and 21 militants, were killed in fighting after the largest of the attacks, which targeted vehicles from buses to goods trucks on a major highway.
-
-...
-
-[Data](articles/4fd1c450.json)
-
-[Extended Data](ext_articles/4fd1c450.ext.json)
 
 ---

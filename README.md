@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 21:07:11**
+As of **2024-08-27 21:21:41**
 
 ## Newspaper Stats
 
-*Scraped **42,915** Articles*
+*Scraped **42,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,586
 dailyftlk | 2,779
 adalk | 3,969
 dailymirrorlk | 4,733
-adaderanalk | 5,048
+adaderanalk | 5,049
 tamilmirrorlk | 5,595
 virakesarilk | 6,820
 adaderanasinhalalk | 7,354
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,912 (100.0%) of 42,915 articles have been extended.
+42,915 (100.0%) of 42,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### Sun directly over parts of Sri Lanka from tomorrow
+
+*2024-08-27 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101554/sun-directly-over-parts-of-sri-lanka-from-tomorrow) · `en`
+
+The Department of Meteorology announced that on the apparent southward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during August 28 to September 06 this year.
+
+The nearest places of Sri Lanka over which the sun is overhead tomorrow (28) are Delft Island, Pooneryn, Thadduvankoddi and Chundikkulam around 12.11 noon, it said.
+
+Meanwhile, several spells of light showers are expected in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts, according to the Met. Department.
+
+Showers or thundershowers may occur at a few places in Uva Province and in Ampara and Batticaloa districts during the evening or night. Mainly fair weather will prevail elsewhere.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and North-western provinces and in Hambantota and Trincomalee Districts, it added.
+
+...
+
+[Data](articles/498f7767.json)
+
+---
 
 ### Jay Shah elected unopposed as new International Cricket Council chairman
 
@@ -47,6 +67,8 @@ It remains to be seen who will assume the role of BCCI secretary when Shah vacat
 ...
 
 [Data](articles/dc16075d.json)
+
+[Extended Data](ext_articles/dc16075d.ext.json)
 
 ---
 
@@ -72,23 +94,33 @@ The current Secretary of the Indian Cricket Board has been uncontested as the ne
 
 ---
 
-### නායකත්වය අරන් මාසයයි - නිරෝෂන් ඉල්ලා අස්වෙයි
+### Niroshan resigns - Niroshan resigns
 
 *2024-08-27 20:24:47* · [`adalk`](https://www.ada.lk/breaking_news/නායකත්වය-අරන්-මාසයයි---නිරෝෂන්-ඉල්ලා-අස්වෙයි/11-411604) · `si`
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී නිරෝෂන් ප්‍රේමරත්න මහතා ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණේ නායකත්වයෙන් සහ පක්ෂ සාමාජිකත්වයෙන් ඉල්ලා අස්වී තිබේ.
+Here's a summary of the text in 200 characters:
 
-පක්ෂ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී වාසුදේව නානායක්කාර මහතාට ලිපියක් යොමු කරමින් හෙතෙම මේ බව දැනුම් දී ඇත.
 
-වර්තමාන දේශපාලන තත්ත්වය තුළ සාකච්ඡා කළ පරිදි ඉලක්කයන් වෙත ගමන් කිරීම සඳහා කරන ලද සැලසුම් වලට වාසුදේව නානායක්කාර මහතාගේ සමකාලීන ඇතැම් පක්ෂ සාමාජිකයන් අකමැත්ත දැක්වීම සහ පසුගාමී බව මෙම තීරණය ගැනීමට හේතු සාධක වූ බව අදාළ ලිපියේ සඳහන් කර ඇත.
 
-එමෙන්ම ජනාධිපතිවරණය සඳහා ඇති කරගත් එකඟතාව පසුව වෙනස් වීම තමා දැඩි කැළඹීමට පත්වූ බවත්, පක්ෂය විසින් අවසන් තීන්දුවක් ගෙන තිබියදී භාහිර පුද්ගලයෙකු ජනාධිපතිවරණයට ඉදිරිපත් කිරීම සම්බන්ධව සාකච්ඡා හෝ කිරීම නොකළ යුතු බවත් එහි සඳහන් කර තිබේ.
+Niroshan Premaratne resigns as leader of Democratic Left Party. Cites current political situation and presidential election as reasons. Decides to leave party membership and position.
 
-ඒ අනුව පක්ෂ සාමාජිකත්වයෙන් සහ තනතුරැ වලින් බැහැරව සිටීමට තීරණය කළ බව නිරෝෂන් ප්‍රේමරත්න මහතා අදාළ ලිපියේ වැඩිදුරටත් සඳහන් කර ඇත.
+🟩
+
+Former Parliamentarian Niroshan Premaratne has resigned from the leadership of the Democratic Left and Party.
+
+Speaking to the party secretary Vasudeva Nanayakkara, he said this.
+
+The letter states that this decision to travel to the goals as discussed in the current political situation, the article said that this decision was due to the preferred decision and backwardness.
+
+It also said that the change was severely disturbed by the concurrence of the presidential election and that the party should not discuss or do not discuss the presence of a person to the presidential election.
+
+Accordingly, he has decided to remain out of the party membership and position.
 
 ◼️
 
 [Data](articles/134d1f2d.json)
+
+[Extended Data](ext_articles/134d1f2d.ext.json)
 
 ---
 
@@ -364,15 +396,25 @@ He expressed these views while attending the 37th Annual Conference of the Organ
 
 ---
 
-### ඡන්දය සලකුණු කිරීමට සහායකයෙක්  රැගෙන යාමට අවස්ථාව ඇති අය
+### Those who have the opportunity to carry a helper to vote
 
 *2024-08-27 18:50:50* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-සලකුණු-කිරීමට-සහායකයෙක්--රැගෙන-යාමට-අවස්ථාව-ඇති-අය/11-411594) · `si`
 
-ඉදිරි ජනපතිවරණයේදී පූර්ණ හෝ අර්ධ දෘෂ්‍යාබාධිත තත්ත්වයකට හෝ යම් ශාරිරික අශක්නුතාවට පත් ඡන්ද හිමියකුට ඡන්ද පොළේ දී ඡන්ද පත්‍රිකාව සලකුණු කිරීම සඳහා සහායකයෙකු කැටුව යාමට මැතිවරණ කොමිෂන් සභාව විසින් නීතිමය ප්‍රතිපාදන සලසා තිබේ.
+Here's a summary of the text in 200 characters:
+
+
+
+Elections Commission allows voters to bring helpers to polls. Legal provisions ensure accurate ballot marking for future presidential elections.
+
+🟩
+
+The Elections Commission has legal legal provisions to mark the ballot to mark the ballot to the voter turnout in the future presidential election.
 
 ◼️
 
 [Data](articles/b3abf9a4.json)
+
+[Extended Data](ext_articles/b3abf9a4.ext.json)
 
 ---
 
@@ -2499,31 +2541,5 @@ Earlier, from January to the present, the Sri Lankan navy has arrested 341 fishe
 [Data](articles/f4b4d8ea.json)
 
 [Extended Data](ext_articles/f4b4d8ea.ext.json)
-
----
-
-### A party member targeted for sword cuts - suspect arrested
-
-*2024-08-27 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/192085) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-United People's Power supporter arrested for assault on National People's Power member in Minuwangoda. Suspect used sword, victim hospitalized with serious injuries. Police investigation ongoing.
-
-🟩
-
-A supporter of the United People's Power has been arrested on suspicion of assaulting and injuring a member of a National People's Power in Minuwangoda.
-
-On the day of the incident, police investigations have revealed that the suspect had gone to the house of the injured and broke into the house with a sword.
-
-Subsequently, the injured were admitted to the Minuwangoda Hospital and suffered a serious injury, police said.
-
-◼️
-
-[Data](articles/d2961e28.json)
-
-[Extended Data](ext_articles/d2961e28.ext.json)
 
 ---

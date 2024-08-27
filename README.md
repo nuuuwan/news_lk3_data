@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 15:06:57**
+As of **2024-08-27 15:21:34**
 
 ## Newspaper Stats
 
-*Scraped **42,850** Articles*
+*Scraped **42,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,779
 adalk | 3,956
 dailymirrorlk | 4,733
 adaderanalk | 5,039
-tamilmirrorlk | 5,587
+tamilmirrorlk | 5,588
 virakesarilk | 6,802
 adaderanasinhalalk | 7,341
 
@@ -26,15 +26,43 @@ adaderanasinhalalk | 7,341
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,850 (100.0%) of 42,850 articles have been extended.
+42,851 (100.0%) of 42,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
+### Riots in Kolkata: Video
+
+*2024-08-27 14:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொல்கத்தாவில்-கலவரம்-காணொளி/175-342867) · `ta`
+
+Kolkata riots: Female doctor murdered, suspect arrested. Students protest demanding justice. Police use tear gas, batons. Four students detained. Rally planned for Wednesday.
+
+🟩
+
+The incident in Kolkata, a female training doctor, was raped and assassinated at the medical complex.. The main culprit has been arrested.
+
+In the meantime, student organizations are engaged in a protest on Tuesday (27) seeking justice for the murder of female doctor. This has caused great stir.#Watch |West Bengal: Police Detain Protestors from howrah Bridge. Big.Thviter.Kama/௦ Bow ௩ Gmmmupi - Team (@Team) August ௨௭, ௨௦௨௪
+
+The tip of the Howrah Bridge and the Chandrakachi railway station used the water bar to disperse the protesters and threw tear gas bombs. In addition, the police threw stones at the police and then the police attacked.
+
+West Bengal Training Doctors Association did not participate in today's rally towards the Secretariat. But, in Kolkata, it was invited to the largest rally on Wednesday (28). It is reported that the rally is to be held from Siambazar to Dharmadala
+
+...
+
+[Data](articles/401383e7.json)
+
+[Extended Data](ext_articles/401383e7.ext.json)
+
+---
+
 ### Extension extending until September 5
 
 *2024-08-27 14:29:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டெம்பர்-5-வரை-விளக்கமறியல்-நீடிப்பு/175-342866) · `ta`
+
+Sri Lanka court extends detention of 8 Tamil Nadu fishermen until September 5.
+
+🟩
 
 The Mannar Court on Tuesday (27) ordered the eight fishermen from Rameswaram in Ramanathapuram district, which was arrested by Talaimannar in the Sri Lankan waters.
 
@@ -2599,21 +2627,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/8b2526c2.json)
 
 [Extended Data](ext_articles/8b2526c2.ext.json)
-
----
-
-### Recap of economic achievements of President Ranasinghe Premadasa
-
-*2024-08-26 22:39:02* · [`dailyftlk`](https://www.ft.lk/columns/Recap-of-economic-achievements-of-President-Ranasinghe-Premadasa/4-765999) · `en`
-
-I met President Ranasinghe Premadasa on my seventh birthday (25 January 1993) when he came to open our garment factory. I remember President Premadasa wishing me back then. His passing away three months later was one of the greatest losses for this country. The fate of Sri Lanka changed on 1 May 1993 and the UNP lost power just over a year later.
-
-Economic context when President Ranasinghe Premadasa took over as President
-
-...
-
-[Data](articles/157693f6.json)
-
-[Extended Data](ext_articles/157693f6.ext.json)
 
 ---

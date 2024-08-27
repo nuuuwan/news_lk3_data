@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 05:21:41**
+As of **2024-08-27 05:39:35**
 
 ## Newspaper Stats
 
-*Scraped **42,757** Articles*
+*Scraped **42,758** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 358
+dbsjeyarajcom | 359
 newsfirstlk | 363
 bbccomsinhala | 395
 colombotelegraphcom | 409
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,757 (100.0%) of 42,757 articles have been extended.
+42,757 (100.0%) of 42,758 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1320,6 +1320,22 @@ Significantly, his comments have been made in response to the recent reports of 
 
 ---
 
+### 2024 Presidential Election Divides Muslim  Political Parties  with Leaders Backing Sajith and Some MPs Supporting Ranil.
+
+*2024-08-26 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84580) · `en`
+
+Nominations have closed for the long awaited 2024 presidential election. 39 candidates are in the fray.It is widely acknowledged  by the press and public that the chief presidential  contenders  are  incumbent president Ranil Wickremesinghe,leader of the opposition  Sajith Premadasa and JVP/NPP leader Anura Kumara  Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith  Jayaweera.
+
+However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier  numerical minorities  assumes crucial importance.
+
+...
+
+[Data](articles/bd766ef7.json)
+
+[Extended Data](ext_articles/bd766ef7.ext.json)
+
+---
+
 ### 400 lakhs cannot be moved from Katunayake
 
 *2024-08-26 18:05:39* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-400-භාණ්ඩ-තොගයක්-කටුනායකින්-පන්නන්න-බැරිවෙයි/11-411571) · `si`
@@ -1345,6 +1361,20 @@ There were 1,100 surgery knives without proper permission without proper permiss
 [Data](articles/570abc94.json)
 
 [Extended Data](ext_articles/570abc94.ext.json)
+
+---
+
+### “Anjanenjan” Amirthalingam; The  Firebrand  Youth with a Fearless Heart who  became  a Respected Statesmanlike Tamil Leader
+
+*2024-08-26 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=82541) · `en`
+
+August 26th 2023  is the 97th birth anniversary of well-known Sri Lankan Tamil political leader and one-time leader of the opposition Appapillai Amirthalingam. The ‘enfant terrible ‘of the “Ilankai Thamil Arasuk Katchi”(ITAK) who later metamorphosed into the elder statesman of the Tamil United Liberation Front(TULF) who strode across the Tamil political stage for nearly four decades.
+
+A lifetime of toil and service to his community was cut short on 13 July 1989 when he fell victim to bullets fired by LTTE operatives in Colombo. This column focuses this week on Amirthalingam who was referred to affectionately by his followers as Amir, Amir Annan and Amuthar.
+
+...
+
+[Data](articles/5eb19c17.json)
 
 ---
 
@@ -2605,53 +2635,5 @@ His best bowling in the first markets is to be taken to alleviate 9 wickets for 
 [Data](articles/02d2628d.json)
 
 [Extended Data](ext_articles/02d2628d.ext.json)
-
----
-
-### Investigation into the OIC of the Uppiestial OIC
-
-*2024-08-26 13:21:09* · [`adalk`](https://www.ada.lk/breaking_news/උප්පුවේලි-වැඩ-බැලූ-ස්ථානාධිපති-සේවයෙන්-පිටව-යෑම-ගැන-පරීක්ෂණයක්/11-411563) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Uppiestial OIC investigation: Uppuwelle Police inquiry into Assistant Superintendent's claims. Vacant OIC position filled by Chief Inspector General Inspector. Incident being investigated by newly appointed OIC.
-
-🟩
-
-The Appeuel Police Acting OIC, the Uppuwelle Police, has commenced an inquiry into the information book in the information book, claiming that the pressure of the Assistant Superintendent of Assistant Superintendent.
-
-The post of OIC of the Uppuwalai Police has been vacant, instead of appointment of acting OIC, acting OIC Chief Inspector General Inspector General Inspector (SDO) has been given to the Official Sdo.
-
-With the assurance, the OIC of a police inspector is appointed OIC of the OIC and commences an inquiry into the incident
-
-◼️
-
-[Data](articles/ab7748db.json)
-
-[Extended Data](ext_articles/ab7748db.ext.json)
-
----
-
-### Sri Lanka’s income tax agency’s 2024 collection exceeds targets so far
-
-*2024-08-26 13:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-income-tax-agencys-2024-collection-exceeds-targets-so-far-178058/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s income tax agency has exceeded its monthly targets so far in 2024 and is expected to achieve the full-year target comfortably, a top official said.
-
-President Ranil Wickremesinghe’s government has set an ambitious tax revenue target of 2,024 billion rupee for the Inland Revenue Department for this year, 30 percent higher than last year’s total collection of 1,550 billion rupees.
-
-The IRD has collected 1,224 billion rupees, 60 percent of the 2024 target, as of August 22, the provisional IRD data showed.
-
-“We have exceeded the target in the first half,” B.K. Saman Shantha, Deputy Commissioner General​ in charge of Tax Policy, International Affairs and Legal at the  IRD told reporters at a media briefing in Colombo.
-
-“The first six month target is 40 percent of the full-year target and the rest of the 60 percent is collected from the second half of the year due to seasonal patterns,” he explained.
-
-...
-
-[Data](articles/32f91fb1.json)
-
-[Extended Data](ext_articles/32f91fb1.ext.json)
 
 ---

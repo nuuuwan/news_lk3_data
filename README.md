@@ -1,160 +1,266 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 07:54:19**
+As of **2024-08-27 08:16:49**
 
 ## Newspaper Stats
 
-*Scraped **42,779** Articles*
+*Scraped **42,783** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 359
 newsfirstlk | 363
-bbccomsinhala | 395
-colombotelegraphcom | 409
+bbccomsinhala | 396
+colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,584
 dailyftlk | 2,779
 adalk | 3,946
 dailymirrorlk | 4,733
-adaderanalk | 5,026
+adaderanalk | 5,027
 tamilmirrorlk | 5,574
 virakesarilk | 6,788
-adaderanasinhalalk | 7,325
+adaderanasinhalalk | 7,326
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,771 (100.0%) of 42,779 articles have been extended.
+42,779 (100.0%) of 42,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### பட்டாசுகளுக்கு கேள்வி அதிகரிப்பு
+### Showers expected in parts of the country
+
+*2024-08-27 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101529/showers-expected-in-parts-of-the-country) · `en`
+
+A few showers may occur in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts, says the Department of Meteorology.
+
+Showers or thundershowers may occur at a few places in Badulla, Ampara and Batticaloa districts during the evening or night. Mainly fair weather prevail elsewhere, it said.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and North-western provinces and in Hambantota and Trincomalee districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/a56ea2a2.json)
+
+---
+
+### සාරවත් රටේ හෙණේ තමා මේ පාලකයෝ - අනුර
+
+*2024-08-27 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200368) · `si`
+
+රට සෑම අතින්ම පොහොසත් රාජ්‍යයක් බවට පත්කිරීම ජාතික ජනබලවේගයේ අරමුණ බව එහි ජනාධිපති ධුර අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ ආර්ථික වශයෙන් මෙන්ම නීතිය, රාජ්‍ය සේවය ඇතුළු සෑම අංශයකින්ම දියුණු රටක් බවට පත්කිරීමට සිය පක්ෂය සතුව වැඩපිළිවෙළක් පවතින බවය.
+
+මාලඹේ ප්‍රදේශයේ පැවති ජනරැලියකට එක්වෙමින් අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේය.
+
+"අපි ඔක්කෝටම අරමුණක් තියෙනවා. මේ රට පොහොසත් රටක් බවට පත්කරන්න ඕනේ මොනවා ගෙන්ද ? ආර්ථිකයෙන් විතරද ? නෑ අපි ආර්ථිකයෙන් දුප්පත්, නීතිය ක්‍රියාත්මක කිරීමේදී එකෙන් අපි දුප්පත්, රාජ්‍ය සේවයෙන්.. එකෙනුත් අපි දුප්පත්, මිනිස්සු අතර බැඳීම්වලින්... ඒවාගෙනුත් අපි දුප්පත්. ඒ කියන්නේ මේ රට විශාල දුප්පත්කම්වල ගොදුරක් බවට පත්වෙලා තිබෙනවා.
+
+...
+
+[Data](articles/5d154532.json)
+
+---
+
+### Increase in question for crackers
 
 *2024-08-27 07:40:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டாசுகளுக்கு-கேள்வி-அதிகரிப்பு/175-342843) · `ta`
 
-ஜனாதிபதித் தேர்தலை முன்னிட்டு பட்டாசுகளுக்கு அதிக கேள்வி ஏற்பட்டுள்ளதாக அகில இலங்கை பட்டாசு உற்பத்தியாளர்கள் சங்கத்தின் தலைவர் தெரிவித்துள்ளார்.
+Here's a summary of the text in 200 characters:
 
-தேர்தல் பேரணிகள் மற்றும் நிகழ்வுகளுக்குப் பயன்படுத்தப்படும் பெரிய அளவிலான பட்டாசுகளின் உற்பத்திக்கு அதிக தேவை உள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
 
-தேர்தல் நிறைவடைந்த பின்னர் வரும் அடுத்த சில நாட்களில் பட்டாசு தேவை மேலும் அதிகரிக்கலாம் என்றும் அவர் குறிப்பிட்டுள்ளார். (a)
+
+Cracker demand surges for elections. Fireworks manufacturers expect increased sales due to political rallies.
+
+🟩
+
+The President of the All Ceylon Fireworks Manufacturers Association has said that crackers have been questioned for the presidential election.
+
+He added that there is a high demand for the production of large -scale crackers used for election rallies and events.
+
+He added that the demand for crackers could increase further in the next few days after the election.. (A)
 
 ◼️
 
 [Data](articles/5b1733e8.json)
 
+[Extended Data](ext_articles/5b1733e8.ext.json)
+
 ---
 
-### සජබයේ ප්‍රතිපත්ති ප්‍රකාශය අනිද්දා එළිදකී
+### I launch the policy statement of the animation
 
 *2024-08-27 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200367) · `si`
 
-සමගි ජන සන්ධානයේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය අනිද්දා (29) දිනයේ නිකුත් කිරීමට නියමිතව තිබේ.
+Here's a summary of the text in 200 characters:
+
+
+
+"Tomorrow, Samagi Tens UPFA will issue its policy statement regarding the animation."
+
+🟩
+
+Samagi Tens UPFA is scheduled to be issued tomorrow.
 
 ◼️
 
 [Data](articles/cfbde7b3.json)
 
+[Extended Data](ext_articles/cfbde7b3.ext.json)
+
 ---
 
-### அதிக நிலுவை உள்ளதாக வெளியாகும் செய்திகளில் உண்மையில்லை
+### This is not true in the news that there is too much outstanding
 
 *2024-08-27 07:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-நிலுவை-உள்ளதாக-வெளியாகும்-செய்திகளில்-உண்மையில்லை/175-342842) · `ta`
 
-உள்நாட்டு இறைவரித் திணைக்களம், இலங்கை சுங்கத் திணைக்களம், மதுவரித் திணைக்களம் ஆகிய மூன்று பிரதான அரச வருமான மூலங்களில், பாரிய நிலுவைத் தொகை இருப்பதாக வௌியாகும் செய்திகள் உண்மைக்குப் புறம்பானவையாகும் என மதுவரி ஆணையாளர் நாயகம் எம்.ஜே.குணசிறி தெரிவித்தார்.
+Sri Lanka's Internal Revenue, Customs, and Liquor Departments face financial challenges. Total tax revenue stands at Rs 90 billion, below global averages of 3-5%. However, tax collections have shown growth in recent years. The government aims to increase revenue through various measures.
 
-இந்த மூன்று நிறுவனங்களிலும் நிலுவையில் உள்ள வரித் தொகை 90 பில்லியன் ரூபாய் மாத்திரமே என சுட்டிக்காட்டிய அவர், உலகில் எந்தவொரு நாட்டின் மொத்த வரி வருமானத்தில் 3% – 5% வரையானது நிலுவையில் உள்ள வரி என்றும் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று (26) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே, மதுவரி ஆணையாளர் நாயகம் எம்.ஜே.குணசிறி இந்தக் கருத்துக்களை வெளியிட்டார்.
+Madhuvari Commissioner General MJ Gunasiri said that the three major state income sources of the Internal Revenue Department, the Customs Department and the Department of Liquor, are in trouble.
 
-மேலும், இந்த மூன்று நிறுவனங்களும் 2023 ஆம் ஆண்டில் வரலாற்றில் மிக அதிக வருமானமாக, 3 டிரில்லியன் ரூபாயைத் தாண்டி வருமானம் பெற்றுள்ளதுடன், 25 ஆண்டுகளுக்குப் பிறகு, முதன்மைக் கணக்கில் மேலதிகத்தை உருவாக்க முடிந்துள்ளது என்றும் தெரிவித்தார்.
+Pointing out that the tax on the three companies is only Rs 90 billion, he said that the total tax revenue of any country in the world is up to 3% - 5%.
+
+Madhuvari Commissioner General MJ Gunasiri made these comments at a media briefing held at the Presidential Media Center yesterday (26).
+
+He also said that these three companies have earned the highest income in history by 2023 and have been able to create an overdue in the main account after 25 years.
+
+“Three companies - the Department of Internal Revenue, the Customs Department and the Department of Liquor, which earns the state income under the Ministry of Finance, charge taxes within the legal framework.. But there are some groups working to spread an illusion that there is too much tax arrears in this country.
 
 ...
 
 [Data](articles/92a72101.json)
 
+[Extended Data](ext_articles/92a72101.ext.json)
+
 ---
 
-### පොහොට්ටුවෙන් ගැලවී රනිල් සොයා ආ අලුත්ම නඩේ
+### Saltly escaped and found Ranil's newest case
 
 *2024-08-27 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200366) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ දිගාමඩුල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී විමලවීර දිසානායක මහතා පළාත් පාලන නියෝජිතයින් රැසක් සමග ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමට එක්ව තිබේ.
+Here's a summary of the text in 200 characters:
 
-කොළඹ මල් පාරේ පිහිටි ජනාධිපතිවරයාගේ දේශපාලන කාර්යාලයේ දී ඊයේ (26)පස්වරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී ඒ සම්බන්ධයෙන් දැනුම් දී ඇති බව වාර්තා වේ.
 
-එහිදී මාධ්‍ය වෙත අදහස් දැක්වූ පාර්ලිමේන්තු මන්ත්‍රී විමලවීර දිසානායක මහතා,
 
-"මේ මොහොතේ කළ හැකි අන් කිසිවක් නෑ. රට ගළවා ගත හැක්කේ රනිල්ට නම් දේශපාලන මතිමතාන්දර නෙමෙයි මේ මොහොතේ වැල්පාළමෙන් රට එතෙර කළ හැක්කේ රනිල්ට නම් අපි සිටිය යුත්තේ ඔහු සමග පමණයි. නාමල්ට තව අවුරුදු 10කින් හරි ජනාධිපති වෙන්න පුළුවන්. හැබැයි රනිල් රට ගත්තේ නැත්නම් රට පීලිපැන්නා. රට ඉවරයි. දේශපාලන පැණි කතා, සාහිත්‍ය කතා ඕන තරම් අපිට වේදිකාවේ අහන්න පුළුවන් වුණත් ප්‍රායෝගිකව මේ මහපොළවේ යථාර්ථය තේරුම් ගත් මිනිසා රනිල් වික්‍රමසිංහ."
+Sri Lanka MP Wimalaweera Dissanayake supports President Ranil Wickremesinghe. Wickremesinghe promotes economic recovery and IMF agreement.
+
+🟩
+
+Digamadulla District MP Digamadulla District MP Digamadulla District Parliamentarian Wimalaweera Dissanayake has joined the support of President Ranil Wickremesinghe with many local government representatives.
+
+It is reported that President Ranil Wickremesinghe has been told by President Ranil Wickremesinghe at the President's Political Office at the President's Political Office.
+
+Meanwhile, MP Wimalaweera Dissanayake speaking to the media,
+
+"There is nothing but anything else able to do at the moment. The country can save the country to Ranil, not to Ranil, if we should be with Ranil to go to Ranil only with him. Namal could be the president in 10 years. But if Ranil took the country, the country poliant. The country is over. Even if we may ask for political talks and literary talks, we understand the reality of this earth, Ranil Wickremesinghe. "
 
 ...
 
 [Data](articles/879a8134.json)
 
+[Extended Data](ext_articles/879a8134.ext.json)
+
 ---
 
-### T20 කාන්තා ලෝක කුසලාන කාලසටහන එළිදක්වයි
+### T20 Women's World Cup schedule unveils
 
 *2024-08-27 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200365) · `si`
 
-එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වීමට නියමිතව තිබෙන විස්සයි 20 කාන්තා ලෝක කුසලානය ක්‍රිකට් තරගාවලියට අදාළ තරග කාලසටහන ICCය විසින් ඊයේ (26) පස්වරුවේ ප්‍රකාශයට පත් කර තිබේ.
+Here's a summary of the text in 200 characters:
 
-ශ්‍රී ලංකාව ඇතුළුව කණ්ඩායම් 10ක සහභාගීත්වයෙන් මෙවර තරගාවලිය පැවැත්වෙන අතර, මෙහි මූලික වටය තරග A හා B ලෙස කාණ්ඩ දෙකකින් සමන්විතය.
 
-එහි A කාණ්ඩයෙන් වත්මන් ශූරයන් වන ඔස්ට්‍රේලියාව, ඉන්දියාව, නවසීලන්තය, පාකිස්තානය හා ශ්‍රී ලංකාව තරග වදී.
 
-B කාණ්ඩයට වත්මන් අනුශූරයන්වන දකුණු අප්‍රිකාව, එංගලන්තය, බටහිර ඉන්දීය කොදෙව්, බංග්ලාදේශය හා ස්කොට්ලන්තය ඇතුළත්ව ඇත.
+ICC announces T20 Women's World Cup schedule UAE 10 teams participate Oct 3 Sri Lanka vs Pakistan first match
 
-තරගාවලිය ඔක්තෝබර් මස 03 වෙනිදා ආරම්භ වන අතර, ශ්‍රී ලංකාව ක්‍රීඩාකරන පළමු තරගය පාකිස්තානය සමඟින් එදින පැවැත්වේ.
+🟩
 
-ශ්‍රී ලංකාව සහ ස්කොට්ලන්තය මෙම තරගාවලියට ඍජුව සුදුසුකම් ලබාගැනීමට නොහැකි වූ කණ්ඩායම් දෙක වන අතර, ඔවුන් මෙම වසර ආරම්භයේදී අබුඩාබිහිදී පැවති මෙම ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලැබීමේ තරගාවලිය ජයගනිමින් එම අවස්ථාව උදාකරගෙන සිටී.
+The ICC has declared the match schedule for the Twenty20 Women's World Cup, which is scheduled to be held in the United Arab Emirates.
 
-කාන්තා විස්සයි 20 ලෝක කුසලානයේ 9 වන අදියර ලෙසින් මෙය බංග්ලාදේශයේ පැවැත්වීමට සැලසුම්කර තිබුණි.
+This year's tournament will be held with the participation of 10 teams, including Sri Lanka.
 
-...
+Cultivate champions, Australia, India, New Zealand, Pakistan and Sri Lanka compete.
+
+South Africa, the current runners-up to category, includes England, West Indies, Bangladesh and Scotland.
+
+The tournament will commence on October 03 and Sri Lanka's first match will be played with Pakistan.
+
+Sri Lanka and Scotland are not directly eligible for this tournament, and they have won the event to be eligible for the World Cup in Abuvenabi.
+
+The 9th stage of the Women T20 World Cup was planned to be held in Bangladesh.
+
+However, in the past few days, the ICC, who had taken away the political anarchy in Bangladesh, removed the Curis and the United Arab Emirates.
+
+◼️
 
 [Data](articles/19262ebd.json)
 
+[Extended Data](ext_articles/19262ebd.ext.json)
+
 ---
 
-### சீரான வானிலை நிலவும்
+### Uniform weather prevails
 
 *2024-08-27 07:20:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரான-வானிலை-நிலவும்/175-342841) · `ta`
 
-இன்று சப்ரகமுவ, மேல் மற்றும் வடமேல்  மாகாணங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை  மாவட்டங்களிலும் சிறிதளவு  மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Here's a summary of the weather forecast in 200 characters:
 
-அம்பாறை, மட்டக்களப்பு மற்றும் ஊவா மாகாணங்களின்  சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகிறது. நாட்டின் ஏனைய பிரதேசங்களில் சீரான வானிலை காணப்படும்.
 
-வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மற்றும் திருகோணமலை மாவட்டங்களிலும் மணித்தியாலத்திற்கு 30 - 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக் கூடும்.
 
-புத்தளம் தொடக்கம் கொழும்பு  ஊடாக காலி வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களில் இடைக்கிடையே  மழை பெய்யக்கூடும்.
+"Rainfall expected in Sabaragamuwa, Western, North Western provinces. Thunderstorms possible in Ampara, Batticaloa, Uva. Heavy winds (30-40km/h) in North, North Central, North Western provinces. Sea areas experience turbulence."
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 30 - 40 கிலோமீற்றர் வேகத்தில் தென்மேற்குத் திசையில் இருந்து காற்று வீசும்.
+🟩
+
+The Department of Meteorology has said that there will be some rainfall in the Sabaragamuwa, Western and North Western provinces, as well as in the Galle and Matara districts.
+
+In some parts of Ampara, Batticaloa and Uva provinces, there is a chance of rain or thundershowers in the evening or night.Uniform weather is available in the rest of the country.
+
+Heavy winds can be frequent at speeds of 30 to 40 km / h in the North, North Central and North Western Provinces as well as Hambantota and Trincomalee districts.
+
+Rainfall is likely to occur in the sea regions beyond the coast of Puttalam to Colombo.
+
+Winds from the southwest at 30 - 40 km / h in the sea regions.
+
+From Trincomalee to Kankesanthurai, Mannar via Puttalam, and in the sea regions from Hambantota to Pottuvil, the winds are frequent at 55 to 60 km / h.
 
 ...
 
 [Data](articles/b7820f3f.json)
 
+[Extended Data](ext_articles/b7820f3f.ext.json)
+
 ---
 
-### தேர்தல்கள் ஆணைக்குழு தலையிட வேண்டும்
+### Elections Commission should intervene
 
 *2024-08-27 07:15:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-ஆணைக்குழு-தலையிட-வேண்டும்/175-342840) · `ta`
 
-அண்மையில் மலையகத்தில் நடைபெற்ற ஜனாதிபதித் தேர்தல் பிரச்சாரக் கூட்டங்களில் செயற்கை கள் போத்தல்கள் வழங்கியமை தொடர்பில் விசாரணை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழுவின் தலையீட்டை சுயாதீன தேர்தல் கண்காணிப்பாளர்கள் மற்றும் பொது சுகாதார பரிசோதகர்கள் கோரியுள்ளனர்.
+Election Commission urged to investigate claims of substandard water bottles and alcohol distribution at presidential campaign events in hill country.
 
-தோட்டத் தொழிலாளர்களுக்கு விநியோகிக்கப்பட்டதாகக் கூறப்படும் கள்ளானது தரத்தில் குறைந்ததாகக் காணப்பட்டதால், இவ்விடயம் தொடர்பில் அவசரமாக ஆராயுமாறு பொதுச் சுகாதாரப் பரிசோதகரிடம் கடந்த வாரம் தேர்தல் கண்காணிப்பாளர்கள் கோரிக்கை விடுத்துள்ளனர்.
+🟩
 
-இதற்கு பதிலளித்த PHI தொழிற்சங்கம், விநியோகிக்கப்படும் கள்ளில் செயற்கையாகவும், மனித ஆரோக்கியத்திற்கு ஆபத்தான இரசாயனங்கள் கலந்திருப்பதாகவும் நம்பத்தகுந்த ஆதாரம் தங்களிடம் இருப்பதாகத் தெரிவித்துள்ளது.
+Independent election monitors and public health inspectors have demanded the intervention of the Election Commission to investigate the issue of artificial bottles at the recent presidential election campaign meetings in the hill country.
 
-PHI தொழிற்சங்கத்தின் தலைவர் உபுல் ரோஹன அவர்கள் ஏற்கனவே இந்த விடயத்தை ஆராய்ந்து வருவதாகவும், பிரச்சார பேரணிகளில் கொடுக்கப்படும் பொருட்களின் சுகாதார அபாயங்கள் குறித்து அரசாங்க பகுப்பாய்வாளரிடம் அறிக்கை கோருவதாகவும் ஊடகங்களுக்கு தெரிவித்தார்.
+Last week, the election monitors have asked the Public Health Inspector to investigate the matter as it is alleged to have been low in quality.
+
+Responding to this, the PHI union said they had a credible evidence that it was artificially distributed in the distribution and that the chemicals were mixed with dangerous chemicals.
+
+The head of the Phi Trade Union, Upul Rohana, has already exploited the matter and told the media that the matter is being reported to the government analyst on the health risks of goods given in propaganda rallies.
+
+He said that the government officials should pay attention to the matter as there are many complaints, including election monitors.
 
 ...
 
 [Data](articles/3efcb37a.json)
+
+[Extended Data](ext_articles/3efcb37a.ext.json)
 
 ---
 
@@ -346,6 +452,32 @@ Starting from 28 August, United Petroleum will begin operations with 150 filling
 
 ---
 
+### ශ්‍රී ලංකාවේ මෙතෙක් පැවති ජනාධිපතිවරණ 8ක ප්‍රතිඵල දෙස නැවත හැරී බලමු
+
+*2024-08-27 02:26:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg4yn52qkx3o) · `si`
+
+ශ්‍රී ලංකාවේ මෙතෙක් පැවති ජනාධිපතිවරණ 8ක ප්‍රතිඵල දෙස නැවත හැරී බලමු
+
+1978 වසරේදී බලාත්මක වූ නව ආණ්ඩුක්‍රම ව්‍යවස්ථාව හරහා ශ්‍රී ලංකාව විධායක ජනාධිපති ක්‍රමවේදයකට මාරු විය.
+
+ඒ අනුව, 1982 වසරේ සිට ශ්‍රී ලංකාව තුළ ජනාධිපතිවරණ ඡන්ද විමසීම් 8ක් පැවත්විණි.
+
+ශ්‍රී ලංකාවේ 9 වන ජනාධිපතිවරණ ඡන්ද විමසීම 2024 සැප්තැම්බර් 21 වන දා පැවැත්වීමට නියමිත ය.
+
+බීබීසී සිංහල සේවය නිර්මාණය කළ මෙම පිටුවෙන් 1982 වසරේ සිට 2019 වසර දක්වා පැවති ජනාධිපතිවරණ ඡන්ද විමසීම්වල ප්‍රතිඵල දිස්ත්‍රික්ක මට්ටමෙන් ඔබට නැරඹිය හැකි ය.
+
+දිස්ත්‍රික්ක වශයෙන් විස්තර පරික්ෂා කිරීමට පහත සිතියමේ අදාළ දිස්ත්‍රික්කය මත ක්ලික් කරන්න.
+
+විශ්ව ප්‍රනාන්දු: අවධානයට ලක් නොවූ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ නිහඬ ගැලවුම්කරුවා
+
+රනිල්, සජිත්, අනුර සහ නාමල් ගැන ඔබ මෙම තොරතුරු දැන සිටියා ද?
+
+◼️
+
+[Data](articles/ef8347e9.json)
+
+---
+
 ### Sri Lanka’s Creative Green Map debuts on Saturday
 
 *2024-08-27 02:26:12* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-Creative-Green-Map-debuts-on-Saturday/34-766018) · `en`
@@ -449,6 +581,18 @@ He also said that the best things in the Janasavi, Samurdhi, Aswasuma and Kemidi
 [Data](articles/0f234933.json)
 
 [Extended Data](ext_articles/0f234933.ext.json)
+
+---
+
+### Ground Realities Need To Change For There To Be Reconciliation
+
+*2024-08-27 01:30:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ground-realities-need-to-change-for-there-to-be-reconciliation/) · `en`
+
+The question of the economy, the economic development path to be followed and who is best suited to lead the country at this time are the most discussed issues at the present time. But another important issue that has contributed to the economic and other problems the country faces and which has proved difficult to resolve will soon intrude on the discussion. At the same time as the election campaign is in full swing, the sessions of the UN Human Rights Council in Geneva are also going to commence soon. The Issue of Sri Lanka’s conformity with the UNHRC resolutions that have been making their regular appearance since 2009 will be taken up at these sessions. Those resolutions are based on the international community’s assessment that successive Sri Lankan governments have not dealt in an acceptable manner with the human rights violations of the past.
+
+...
+
+[Data](articles/b25695a0.json)
 
 ---
 
@@ -1644,19 +1788,29 @@ However the icing on the winning candidate’s cake would be the minority vote. 
 
 ---
 
-### චීන යුද නෞකා තුනක් නිල සංචාරයක් සඳහා කොළඹ වරායට පැමිණෙයි
+### Three Chinese war ships arrive at Port of Colombo for an official visit
 
 *2024-08-26 18:12:19* · [`adalk`](https://www.ada.lk/picture_story/චීන-යුද-නෞකා-තුනක්-නිල-සංචාරයක්-සඳහා-කොළඹ-වරායට-පැමිණෙයි/10-411572) · `si`
 
-මහජන චීන විමුක්ති හමුදාවේ (Chinese People’s Liberation Army Navy)  යුද නෞකාවන් වන “HE FEI”, “WUZHISHAN” සහ “QILIANSHAN” යන යුද නෞකා ත්‍රිත්වය නිල සංචාරයක් සඳහා අද දින (2024 අගෝස්තු 26) උදෑසන කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාවන් නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+Chinese warships visit Colombo Port for official tour. Three ships: He Fei, Wuzhizan, Qilanshan. Meeting with Sri Lanka Navy officials. Ships to visit local areas before departing on Aug 29, 2024.
 
-මෙලෙස කොළඹ වරායට සේන්දු වූ Destroyer වර්ගයට අයත් “HE FEI” යුද නෞකාව, දිගින් මීටර් 144.50 හා නැව් මුළුව 267 ක ගෙන් සමන්විත වන අතර, එම නෞකාවේ අණදෙන නිලධාරී ලෙස ‍කපිතාන්  Chen Junfeng  කටයුතු කරනු ලබයි.
+🟩
 
-Landing Platform Dock වර්ගයට අයත් “WUZHISHAN” යුද නෞකාව දිගින් මීටර් 210 හා නැව් මුළුව 872 ක ගෙන් සමන්විත වන අතර, එම නෞකාවේ අණදෙන නිලධාරී ලෙස ‍කපිතාන් Fei Zhang කටයුතු කරනු ලබයි. Landing Platform Dock වර්ගයට අයත් “QILIANSHAN” යුද නෞකාව දිගින් මීටර් 210 හා නැව් මුළුව 334 ක ගෙන් සමන්විත වන අතර, එම නෞකාවේ අණදෙන නිලධාරී ලෙස ‍කපිතාන් Xiong Binghon කටයුතු කරනු ලබයි.
+Trending of the Chinese Liberation Army of the People's Liberation Army (CHINEE People's Liberation)Steps were taken to welcome the ships to the navy.
+
+The "He feat" enabled the Colombo Port, "He Fei", which is accompanied by 26.50 meters and 267 meters and 267 meters and 267 meters.
+
+The "Wuzhizan" war vessel contains 872 meters and the shipwreck of the ship, which is located in length of 210m and the shipwreck of the ship.. The "Qilanshan" consists of 334 meters and a shipwreck of the Landing Platform Dock.
+
+A official meeting of the shipping officers and Commander of the Western Naval Command Rear Admiral Chinthaka Headquarters will be held today (August 26, 204) at the West Naval Order of the two countries.The ships of the ships are also scheduled to attend.
+
+Also, the shipping of the ships will visit several areas on the time of the "He Fei" and "qilianshan" in Sri Lanka.It is also scheduled to be held in the vessels.
 
 ...
 
 [Data](articles/4e3648ed.json)
+
+[Extended Data](ext_articles/4e3648ed.ext.json)
 
 ---
 
@@ -2499,93 +2653,5 @@ The most crucial week for the Democrats in the current election season ended las
 [Data](articles/de70eb22.json)
 
 [Extended Data](ext_articles/de70eb22.ext.json)
-
----
-
-### Indian warship arrived in Colombo port
-
-*2024-08-26 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/192032) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Indian warship Mumbai arrives Colombo port. Welcomed formally by Sri Lankan navy. Third Nasakari-class ship built in India. Named after Mumbai city. Added to Eastern Naval Command Dec 8, 2023. Visit aims to share best practices between navies. Joint activities planned including games, yoga, coastal cleanup. Sailors to explore Colombo and Galle sites. Leaves Sri Lanka Aug 29, 2024.
-
-🟩
-
-The Indian Navy's front warship. Mumbai has arrived at the Colombo port this morning on the 26th of this month.
-
-The ship was a formal welcome by the Sri Lankan navy. Mumbai is the third ship of Nasakari ships from Delhi's manufactured in India.
-
-The ship, manufactured by Muscan Doc Limited, was named after the name of Mumbai.
-
-The ship was added to the Eastern Regional Naval Command Division in Visakhapatnam on 8 December 2023 after its quality upgrading.
-
-Sri Lankan Navy officials will visit the ship with the goal of sharing the best practices of the two men during the period of Mumbai in Colombo.
-
-During the visit of the ship, the Western Navy Regional Commander Rear Admiral WDC Kumarasinghe will meet at the West Naval Regional Headquarters.
-
-Also, joint activities such as games, yoga and coastal cleansing work are to be carried out during the ship's visit to the Sri Lankan navy.
-
-...
-
-[Data](articles/72c70f70.json)
-
-[Extended Data](ext_articles/72c70f70.ext.json)
-
----
-
-### Meetings with Gandhi and Nehru;Message from Ramgarh to Ceylon
-
-*2024-08-26 14:58:00* · [`islandlk`](http://island.lk/meetings-with-gandhi-and-nehrumessage-from-ramgarh-to-ceylon/) · `en`
-
-The Ramgarh Session of the Indian National Congress, the last Session before Freedom was held in March 1940, in a small village, in Bihar Province, “sanctified by the touch of the feet of Gautama, the Buddha”, said the Reception Committee Chairman, Rajendra Prasad, later President of Free India. I attended the Session as a delegate of the Ceylon National Congress and recorded my impressions then.
-
-The little village of Ramgarh is today famous throughout the world. For here gathered the men and women of the new India with her beauty and her chivalry, intent on freeing their motherland from foreign rule. It was a pretty countryside that we passed through on our way, for over a hundred miles to the west of Calcutta. Ramgarh itself is very similar to Diyatalawa, undulating valleys, large plains and mountain streams abounding.
-
-...
-
-[Data](articles/c71a7059.json)
-
-[Extended Data](ext_articles/c71a7059.ext.json)
-
----
-
-### 4 crores in the airport
-
-*2024-08-26 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200348) · `si`
-
-Sri Lanka: Two arrested at airport with contraband, including foreign equipment, tobacco, cosmetics, car parts, and medical supplies. Handover to Customs for investigation.
-
-🟩
-
-Two persons who had been in Sri Lanka have been illegal to Sri Lanka today (26).
-
-The Criminal Investigation Department Airport officers were taken into custody by the airports of the airports and illegally.
-
-Among the items that were brought were foreign equipment, a variety of smoking, cream, auto-parts and surgery.
-
-The two residents of the Grandpass area in Colombo have been handed over to the Customs for further investigations.
-
-◼️
-
-[Data](articles/ca31e461.json)
-
-[Extended Data](ext_articles/ca31e461.ext.json)
-
----
-
-### Elections in Sri Lanka: A Preliminary Audit
-
-*2024-08-26 14:52:00* · [`islandlk`](http://island.lk/elections-in-sri-lanka-a-preliminary-audit/) · `en`
-
-Sri Lankans will be voting in September, and they will be voting for the first time since 2020 or 2019 if you consider presidential elections. The economy, more specifically economic recovery, will figure as a top concern. People will be voting for candidates based on their perceptions of how well this government has done and how well they think the Opposition will do if they are given the chance. As of now, economic reforms have polarised opinion. One poll indicates that less than 10 percent – eight, to be exact – believe Sri Lanka is headed the right way. That leaves a staggering 92 percent who disagree or are unsure.
-
-...
-
-[Data](articles/7df47edc.json)
-
-[Extended Data](ext_articles/7df47edc.ext.json)
 
 ---

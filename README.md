@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 00:22:14**
+As of **2024-08-28 00:36:54**
 
 ## Newspaper Stats
 
-*Scraped **42,940** Articles*
+*Scraped **42,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,779
 adalk | 3,972
 dailymirrorlk | 4,733
 adaderanalk | 5,050
-tamilmirrorlk | 5,596
+tamilmirrorlk | 5,597
 virakesarilk | 6,825
 adaderanasinhalalk | 7,357
 
@@ -26,73 +26,133 @@ adaderanasinhalalk | 7,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,936 (100.0%) of 42,940 articles have been extended.
+42,941 (100.0%) of 42,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### சுவிஸ் குடும்பத்தார் கொலை - இருவர் கைது
+### Swiss family murder - two arrested
 
 *2024-08-27 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/192173) · `ta`
 
-வவுனியா கனகராயன்குளம் சின்னடம்பன் பிரதேசத்தில் கடந்த இரண்டு நாட்களுக்கு முன்னர் சுவிஸில் இருந்து வருகை தந்த குடும்பஸ்தர் ஒருவர் கொலை செய்யப்பட்ட விவகாரம் தொடர்பில் இருவர் சந்தேகத்தின் பேரில் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of the article in 200 characters:
 
-ஐய்யனார் கோவில் திருவிழாவில் பின்னர் அங்குள்ள வீடொன்றில் சுவிசில் இருந்து வந்தவரும் அவரது உறவினரும் தங்கி இருந்துள்ளனர். இந்நிலையில் இருவரும் இரவு மது போதையில் வீட்டில் தூங்கிய போது வீட்டுக்குள் நுழைந்தவர்களினால் ஒருவர் வீட்டிற்குள் இருந்து இழுத்து வரப்பட்டு வெளியே விடப்பட்டதன் பின்னர் மற்றவர் கொலை செய்யப்பட்டதாக தெரிவிக்கப்படுகின்றது.
 
-இந்நிலையில் குறித்த சம்பவத்துடன் தொடர்புபட்டதாக சந்தேகத்தின் அடிப்படையில் கொலை செய்யப்பட்டவருடன் வீட்டில் தங்கியிருந்தவரும் சுவிஸில் இருந்து அண்மையில் நாட்டிற்கு வருகை தந்து வவுனியா உக்கிளாங்குளத்தில் வசித்து வந்த நபர் ஒருவரும் கனகராயன்குளம் பொலீசாரால் கைது செய்யப்பட்டுள்ளனர்.
 
-இதேவேளை வீட்டில் இருந்த சிசிடிவி கமரா இரசாயன பகுப்பாய்வுக்காக அனுப்பி வைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+"Switzerland family murder: Two suspects arrested in Sri Lanka's Vavuniya district. Victims killed during Ayyanar temple festival. Suspect arrested, CCTV sent for analysis."
+
+🟩
+
+Two suspects have been arrested by police over the murder of a family member from Switzerland two days ago in the Kanagarayankulam Chinnatampan area in Vavuniya.
+
+The Swiss and his cousin were staying in a house there at the Ayyanar temple festival.. It is reported that the two were murdered after the two men who entered the house during the night and were dragged out of the house and left.
+
+A person who was staying at home with suspicion on suspicion of involvement in the incident has been arrested by Kanakarayankulam police.
+
+Meanwhile, steps have been taken to send the CCTV camera at home for chemical analysis.
 
 ◼️
 
 [Data](articles/bfbb276a.json)
 
+[Extended Data](ext_articles/bfbb276a.ext.json)
+
 ---
 
-### உத்தேச உண்மை, நல்லிணக்க ஆணைக்குழு குற்றவாளிகளுக்குத் தண்டனை வழங்குமா? - இடைக்கால செயலகப் பிரதிநிதிகளிடம் கேட்டறிந்தார் அமெரிக்கத்தூதுவர் ஜுலி சங்
+### Jai Shah is the new leader of the ICC
+
+*2024-08-27 23:55:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐ-சி-சியின்-புதிய-தலைவராக-ஜெய்-ஷா-தெரிவு/44-342898) · `ta`
+
+Jai Shah elected ICC Chairman from India replaces outgoing leader.
+
+🟩
+
+Jai Shah, Secretary of the Indian Cricket Board, has been elected as the Chairman of the International Cricket Council (ICC).
+
+Jai Shah, the leader of the International Cricket Council, has been elected as the president of the International Cricket Council as his current term is over, saying that New Zealand's New Zealand leader, New Zealand, will not contest for the third time.
+
+It is noteworthy that Jai Shah was elected president of the International Cricket Council. Remble
+
+◼️
+
+[Data](articles/e8c66630.json)
+
+[Extended Data](ext_articles/e8c66630.ext.json)
+
+---
+
+### Will the proposed fact and the reconciliation commission punish the culprits?- US Ambassador Julie Sung
 
 *2024-08-27 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/192172) · `ta`
+
+US Ambassador Julie Sung met Truth and Reconciliation Mechanism reps. She asked if past violators will be punished via proposed commission. Interim Sec'y explained limited mandate & ongoing efforts. Ambassador questioned timeline for parliamentary approval.
+
+🟩
 
 ...
 
 [Data](articles/18e96d37.json)
 
+[Extended Data](ext_articles/18e96d37.ext.json)
+
 ---
 
-### தேசிய மக்கள் சக்தியின் தேர்தல் அறிக்கை என்பது நடைமுறைக்கு ஒத்து வராத ஒரு ஆவணம் மட்டுமே! - காமினி சேனாநாயக்க
+### The election manifesto of the National People's Power is only a document that does not agree!- Gamini Senanayake
 
 *2024-08-27 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/192171) · `ta`
 
-தேசிய மக்கள் சக்தியின் தேர்தல் விஞ்ஞாபனம் என்பது நடைமுறைக்கு சாத்தியமில்லாத வெறும் ஆவணம் எனவும், அதில் உள்ள கொள்கைகளை செயல்படுத்த அவசியமான நிதி ஒதுக்கீட்டின் அளவு அல்லது அதனை பெறுவதற்கான வழிமுறை குறித்து அவர்களுக்கு எந்த புரிதலும் இல்லை என கொள்கைப் பிரகடனத்தில் இருந்து தெளிவாகிறது எனவும் தேசிய வங்கி ஊழியர் சங்கத்தின் செயலாளர் அசேல பெர்னாண்டோ தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-இந்தக் கொள்கைப் பிரகடனத்தில் கூறப்பட்டுள்ளவாறு வரி குறைக்கப்பட்டால், இழக்கப்படும்  பல பில்லியன் ரூபா அரச வருமானத்தை  ஈடுகட்டுவதற்கான வழிமுறை எதுவும் அதில் குறிப்பிடப்படவில்லை என  சுட்டிக்காட்டிய அவர், கோட்டாபய ராஜபக்ஷ ஆட்சியிலும் இவ்வாறே வற் வரி குறைக்கப்பட்டதாகவும் அவர் தெரிவித்தார்.
 
-கொழும்பு, பிளவர் வீதியிள் உள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அரசியல்அலுவலகத்தில் இன்று (27) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே தேசிய வங்கி ஊழியர் சங்கத்தின் செயலாளர் அசேல பெர்னாண்டோ மேற்கண்டவாறு தெரிவித்தார்.
+
+National People's Power election manifesto criticized impractical policies lack funding details tax reduction impact state revenue Teleicom sale threat national security IMF negotiations economic proposals
+
+🟩
+
+Secretary of the National Bank Employees Union Azale Fernando said that the election manifesto of the National People's Power is a mere document that is practically impossible and that they have no understanding of the amount of funds that are necessary or the necessary funding to implement the policies.
+
+He pointed out that if the tax is reduced, as in the declaration of the policy, there is no way to offset the billions of rupees lost in the state, he said, adding that the tax was reduced in the Gotabhaya Rajapaksa regime.
+
+Secretary of the National Bank Employees Union, Asela Fernando, at a media briefing held at the Political Authority of President Ranil Wickremesinghe in Flower Road, Colombo.
+
+The leader of the National People's Power, which has continued to say that the sale of Teleicom is a threat to national security, said that their dual role is expressed by the fact that it is not a problem to summon an investor to the company.
 
 ...
 
 [Data](articles/a722bb90.json)
 
+[Extended Data](ext_articles/a722bb90.ext.json)
+
 ---
 
-### ஐசிசியின் சுயாதீனத் தலைவராக ஜெய் ஷா போட்டியின்றி தெரிவானார்
+### Jai Shah was elected as ICC's independent leader
 
 *2024-08-27 23:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/192170) · `ta`
 
-சர்வதேச கிரிக்கெட் பேரவையின் (ஐசிசி) அடுத்த சுயாதீனத் தலைவராக இந்தியாவின் ஜெய் ஷா போட்டியின்றி தெரிவானார்.
+Here's a summary of 200 characters:
 
-2019இலிருந்து இந்திய கிரிக்கெட் கட்டுப்பாட்டுச் சபையின் கௌரவ செயலாளராகவும் 2021இலிருந்து ஆசிய கிரிக்கெட் பேரவையின் தலைவராகவும் பதவி வகிக்கும்ஜெய் ஷா, ஐசிசியின் தலைவர் பதவியை டிசம்பர் 1ஆம் திகதி பொறுப்பேற்பார்.
 
-சமகாலத் தலைவர் க்ரெய்க் பாக்லே, மூன்றாவது முறையாக பதவியேற்க முன்வராத நிலையில் அடுத்த தலைவர் பதவிக்கு ஜெய் ஷாவின் பெயர் மாத்திரமே பிரேரிக்கப்பட்டது. இதனை அடுத்து அவர் போட்டியின்றி தெரிவானார்.
 
-தலைவர் பதவிக்கு தெரிவானதை அடுத்து, உலகளாவிய ரீதியில் கிரிக்கெட்டை பரப்பச் செய்வதும் பிரபல்யம் அடையச் செய்வதுமே தனது நோக்கம் என ஜெய் ஷா குறிப்பிட்டார்.
+Jai Shah elected ICC Chairman, succeeds Craig Bagley. Aims to globalize cricket, including LA Olympics 2028. Focuses on balancing formats, promoting technology, and expanding global reach.
 
-குறிப்பாக லொஸ் ஏஞ்சலிஸ் 2028 ஒலிம்பிக் விளையாட்டு விழாவில் கிரிக்கெட்டை இணைப்பதன் மூலம் அதன் வளர்ச்சிக்கு முக்கிய வாய்ப்பு உருவாவதாக அவர் கூறினார்.
+🟩
+
+India's Jai Shah was elected as the next independent leader of the International Cricket Council (ICC).
+
+Jaya Shah, who will be the Honor of the Indian Cricket Control Board from 2019 and the Chairman of the Asian Cricket Council from 2021, will take over the post of Chairman of the ICC on December 1.
+
+Jai Shah's name was proposed only for the next chairman of the contemporary leader, Craig Bagley, for the third time.. He was followed by a contest.
+
+Jai Shah said his intention was to spread cricket worldwide and gain popularity globally.
+
+In particular, Los Angeles, in particular, created a major opportunity for its growth by incorporating cricket at the 2028 Olympic Games.
 
 ...
 
 [Data](articles/789a769a.json)
+
+[Extended Data](ext_articles/789a769a.ext.json)
 
 ---
 
@@ -2433,29 +2493,5 @@ Subsequently, the arrested persons have been produced before the Batticaloa Magi
 [Data](articles/81dfc68e.json)
 
 [Extended Data](ext_articles/81dfc68e.ext.json)
-
----
-
-### Navy Chief of Staff Rear Admiral Kanagoda Banagoda
-
-*2024-08-27 12:25:44* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-නව-මාණ්ඩලික-ප්‍රධානී-රියර්-අද්මිරාල්-කාංචන-බානගොඩ/11-411583) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Rear Admiral Kanagoda Banagoda appointed Sri Lanka Navy Chief of Staff. Joined Navy in 1989, completed Trincomalee Naval Academy in 1993. Promoted to Rear Admiral in 2022. Completed Commander and Staff College Bangladesh, MBA Human Resources Australia, National Security Strategic Study Course Colombo. Awarded high-service medal for anti-terrorism efforts. Held various positions including commander speed assault ships, Director Marine Training, North Central Naval Command. Married to Mrs. Ausha Banagoda with two children.
-
-🟩
-
-Rear Admiral Kanagoda, Chief of President Ranil Wickremesinghe was appointed as the new office of the Sri Lanka Navy.Steps were taken to grant his congratulations at the Navy Headquarters.
-
-An old boy of St. Thomas' College, Bandarawela, has joined the Sri Lanka Navy Executive Division of the Sri Lanka Navy in 1989 in 1989.. He was successfully completed the Trincomalee Naval and Maritime Academy in the Naval and Maritime Science Course in 1993, sea military operation to the foliage of the Naval and Maritimedium Student in the Faculty of Indian Naval and Maritime Course.The Targon Training School has been acquired by 2000. The Senior Officer who will promote its career with the career of its career has been promoted to the rank of Rear Admiral on May 4, 2022.
-
-...
-
-[Data](articles/248ad1f3.json)
-
-[Extended Data](ext_articles/248ad1f3.ext.json)
 
 ---

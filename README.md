@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 21:56:34**
+As of **2024-08-27 22:10:25**
 
 ## Newspaper Stats
 
-*Scraped **42,918** Articles*
+*Scraped **42,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ colombotelegraphcom | 411
 islandlk | 2,501
 economynextcom | 2,586
 dailyftlk | 2,779
-adalk | 3,970
+adalk | 3,971
 dailymirrorlk | 4,733
 adaderanalk | 5,049
 tamilmirrorlk | 5,595
 virakesarilk | 6,820
-adaderanasinhalalk | 7,354
+adaderanasinhalalk | 7,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,917 (100.0%) of 42,918 articles have been extended.
+42,918 (100.0%) of 42,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### ක්‍රිකට් තරග පාවාදීමේ වරද පිළිගත් ඉන්දියානුවාට අත්හිටවූ සිරදඬුවම්
+
+*2024-08-27 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200399) · `si`
+
+ක්‍රිකට් තරග පාවාදීමේ වරද පිළිගත් ඉන්දීය ජාතිකයෙකුට අද (27) මහනුවර මහාධිකරණය විසින් අත්හිටවූ සිරදඬුවම් නියම කළේය.
+
+ඒ, 2024 මාර්තු 08 සිට 19 දක්වා පල්ලෙකැලේ ක්‍රිකට් ක්‍රීඩාංගණයේ පැවැති Legend Cricket Trophy - 2024 තරගාවලිය තුළ සිදු කළ තරග පාවාදීමේ සිද්ධියක් සම්බන්ධයෙනි.
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ දූෂණ විරෝධී ඒකකය මගින් ක්‍රීඩාවලට සම්බන්ධ වැරදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය වෙත කරන ලද පැමිණිල්ලකට අනුව මෙම විමර්ශනය ආරම්භ කර තිබුණි.
+
+එම තරගාවලියේදී පන්ජාබ් රෝයල් කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කළ එංගලන්ත ජාතික ක්‍රීඩකයෙකුට සහ නවසීලන්ත ජාතික ක්‍රීඩකයෙකුට තරග පාවාදීමට යෝජනා කර ඇති බවට සිදු කළ විමර්ශනවලදී අනාවරණය විය.
+
+ඒ අනුව මෙම සිද්ධියට අදාළව ඉන්දියානු ජාතිකයෙකු චූදිතයා වශයෙන් නම් කර තරග පාවාදීමට අදාළව හා තරග පාවාදීමට යෝජනා කිරීම සම්බන්ධයෙන් නීතිපති දෙපාර්තමේන්තුව විසින් මහනුවර මහාධිකරණයේ අධිචෝදනා ගොනු කෙරුණි.
+
+අද දින මෙම නඩුව කැඳවූ අතර ඉන්දියානු ජාතිකයා එම අධිචෝදනා දෙක සඳහාම වරද පිළිගෙන තිබූ බව පොලීසිය පැවසීය.
+
+...
+
+[Data](articles/0eb41431.json)
+
+---
 
 ### Sun directly over parts of Sri Lanka from tomorrow
 
@@ -195,6 +217,22 @@ He also said that a final decision will be taken regarding the local government 
 [Data](articles/3bb24b15.json)
 
 [Extended Data](ext_articles/3bb24b15.ext.json)
+
+---
+
+### ඩයනාට අධි චෝදනා භාර දෙයි
+
+*2024-08-27 19:47:10* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-අධි-චෝදනා-භාර-දෙයි/11-411601) · `si`
+
+නිතී විරෝධී ආකාරයෙන් ද්විත්ව පුරවැසිභාවය දැරීම සම්බන්ධයෙන් හිටපු  රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට එරෙහි අධි චෝදනා බාරදුන් කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා කොන්දේසි සහිත ඇප මත ඇය මුදාහැරීමටද නියම කළේය.
+
+රුපියල් 25,000/-ක මුදල් හා රුපියල් ලක්ෂ 10 බැඟින් වටිනා ඇපකරුවන් දෙදෙනෙකුගේ ශරීර ඇප මත විත්තිකාරිය මුදා හැරීමට නියම කළ විනිසුරුවරයා විත්තිකාරියගේ ඇගිලි සලකුණු වාර්තාවක් කැඳවීමටද නියම කළේය.
+
+2004 ඔක්තෝම්බර් 09 වැනිදාත් 2004 දෙසැම්බර් පළමුවැනිදාත් කාලය තුළ ශ්‍රීලාංකීය පුරවැසියකු නොවන බව දැන දැනම හා සිය නාමය ඩයනා ගමගේ ලෙස නීත්‍යානූකූලව සශෝධන කර නොතිබියදී ඩයනා ගමගේ ලෙස ජාතික හැඳුන්ම්පතක් ලබා ගැනීමට කූඨ ලේඛන ඉදිරිපත් කර පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂක ජනරාල්වරයා ඇතුළු නිළධාරීන් රැවටීම සහ අංක 4685 දරණ උප්පැන්න සහතිකය කූඨ ලෙස සෑදීමට අනුබල දීම ඇතු`ථ චෝදනා යටතේ නීතීපතිවරයා විත්තිකාරියට එරෙහිව චෝදනා නඟා ඇත.
+
+...
+
+[Data](articles/4e57cc47.json)
 
 ---
 
@@ -989,6 +1027,8 @@ Not so long ago, I received a You-Tube on the 1984 reception accorded to our the
 ...
 
 [Data](articles/64ac4fe7.json)
+
+[Extended Data](ext_articles/64ac4fe7.ext.json)
 
 ---
 
@@ -2445,61 +2485,5 @@ Then, within two days of 1989, the JVP had killed 433 opposite political opinion
 [Data](articles/009604b7.json)
 
 [Extended Data](ext_articles/009604b7.ext.json)
-
----
-
-### Let us unite to make Ranil President: Baisal
-
-*2024-08-27 10:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஜனாதிபதியாக்க-ஒன்றிணைவோம்-பைசால்/175-342853) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Unite behind Ranil Wickremesinghe for president. He promotes harmony among ethnic groups and economic development. Muslim Left Front supports him. His leadership stabilized the country during crisis. Continuing his policies ensures economic growth. History shows Muslims thrive under his presidency. Encourage national support for him on election day."
-
-🟩
-
-Ranil Wickremesinghe can only develop the country and create harmony between ethnicities. He also has the programs for it. The General Secretary of the Muslim Left Front, M, said that the people should come forward to elect President Ranil Wickremesinghe as president, who was in a state of disrepair.. R. M.. Said Faisal.
-
-The Muslim Left Front has long been working to ensure the victory of President Ranil Wickremesinghe in the presidential election.
-
-Ranil Wickremesinghe wants to be the President of the Left -wing policy and all the people of the country, considering the economic downturn in the country in the past.. We are dedicated to that.
-
-Ranil Wickremesinghe bravely offered to take the country to take charge of the country when the country collapsed. Similarly, he has shown that he is able to stabilize the country in a short time.
-
-...
-
-[Data](articles/280e6800.json)
-
-[Extended Data](ext_articles/280e6800.ext.json)
-
----
-
-### People should rally to make Ranil President: Baisal
-
-*2024-08-27 10:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஜனாதிபதியாக்க-மக்கள்-திரள-வேண்டும்-பைசால்/175-342853) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Supporters urge re-election of Ranil Wickremesinghe as Sri Lanka's president. They cite his ability to unite ethnic groups and implement economic development plans. The Muslim Left Front endorses him, emphasizing his leadership during times of crisis and potential for stability.
-
-🟩
-
-Ranil Wickremesinghe can only develop the country and create harmony between ethnicities. He also has the programs for it. The General Secretary of the Muslim Left Front MRM Faisal has said that the people should come forward to elect President Ranil Wickremesinghe as president again, who has been in a state of disrepair.
-
-The Muslim Left Front has long been working to ensure the victory of President Ranil Wickremesinghe in the presidential election.
-
-Ranil Wickremesinghe wants to be the President of the Left -wing policy and all the people of the country, considering the economic downturn in the country in the past.. We are dedicated to that.
-
-Ranil Wickremesinghe bravely offered to take the country to take charge of the country when the country collapsed. Similarly, he has shown that he is able to stabilize the country in a short time.
-
-...
-
-[Data](articles/495f80e3.json)
-
-[Extended Data](ext_articles/495f80e3.ext.json)
 
 ---

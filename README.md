@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 10:55:41**
+As of **2024-08-27 11:08:00**
 
 ## Newspaper Stats
 
-*Scraped **42,806** Articles*
+*Scraped **42,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,112 @@ colombotelegraphcom | 410
 islandlk | 2,498
 economynextcom | 2,584
 dailyftlk | 2,779
-adalk | 3,948
+adalk | 3,949
 dailymirrorlk | 4,733
-adaderanalk | 5,031
-tamilmirrorlk | 5,578
-virakesarilk | 6,793
+adaderanalk | 5,032
+tamilmirrorlk | 5,580
+virakesarilk | 6,794
 adaderanasinhalalk | 7,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,805 (100.0%) of 42,806 articles have been extended.
+42,806 (100.0%) of 42,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
 
-### ඔස්ට්‍රේලියාවේ විශ්වවිද්‍යාල සඳහා බඳවා ගන්නා විදේශීය සිසුන් ප්‍රමාණය සීමා කෙරේ
+### Supreme Court slams IGP, Police Commission over ignoring directives on detainees
+
+*2024-08-27 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101534/supreme-court-slams-igp-police-commission-over-ignoring-directives-on-detainees-) · `en`
+
+The Supreme Court has expressed its dissatisfaction with the lack of progress in preventing police brutality, despite the court’s repeated orders aimed at curbing the alleged torture of individuals in police custody.
+
+Making a statement in the open court, the three-member Supreme Court judge bench, chaired by Justice S. Thurairaja, noted that neither the National Police Commission nor the Inspector General of Police (IGP) has taken necessary steps to implement the Supreme Court orders pertaining to the matter.
+
+Justice Thurairaja further pointed out that no reports have been submitted by the aforesaid authorities in response to the court’s directives, which include various orders, warnings, and guidelines designed to prevent the mistreatment of detainees.
+
+The Supreme Court judge bench made this statement during the hearing of a fundamental rights petition filed by two student activists, Ada Derana reporter said.
+
+...
+
+[Data](articles/507b629a.json)
+
+---
+
+### ரணிலை ஜனாதிபதியாக்க மக்கள் திரள வேண்டும் : பைசால்
+
+*2024-08-27 10:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஜனாதிபதியாக்க-மக்கள்-திரள-வேண்டும்-பைசால்/175-342853) · `ta`
+
+நாட்டை அபிவிருத்தி செய்து இனங்களுக்கிடையில் நல்லிணக்கத்தை ஏற்படுத்த ரணில் விக்ரமசிங்கவினால் மாத்திரமே முடியும். அதற்கான வேலைத்திட்டங்களும் அவரிடம் இருக்கின்றன. வீழ்ச்சியடைந்திருந்த நாட்டை குறுகிய காலத்தில் ஸ்திர நிலைக்கு கொண்டுவந்த ஜனாதிபதி ரணில் விக்ரமசிங்கவை மீண்டும் ஜனாதிபதியாக தெரிவுசெய்துகொள்ள மக்கள் முன்வர வேண்டும் என  முஸ்லிம் இடது முன்னணியின் பொதுச் செயலாளர்  எம் ஆர் எம் பைசால் தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்துவதற்காக, நீண்டகாலமாக முஸ்லிம் இடதுசாரி முன்னணி பலமாக செயல்பட்டு வருகிறது.
+
+கடந்த காலத்தில் நாட்டில்  ஏற்பட்ட பொருளாதார வீழ்ச்சியை கருத்திற்கொண்டு  இடதுசாரி கொள்கை உடைய மற்றும் ஒட்டுமொத்த  அனைத்து இன மக்களும் ரணில் விக்ரமசிங்க ஜனாதிபதியாக தெரிவாக வேண்டும் என்றே விரும்புகின்றனர். அதற்காக நாங்கள் அர்ப்பணிப்புடன் செயற்பட்டு வருகிறோம்.
+
+...
+
+[Data](articles/495f80e3.json)
+
+---
+
+### 8 மாதங்களில் 341 மீனவர்கள் சிறைப்பிடிப்பு
+
+*2024-08-27 10:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-மாதங்களில்-341-மீனவர்கள்-சிறைப்பிடிப்பு/175-342851) · `ta`
+
+தமிழக மீனவர்களின் ஒரு விசைப்படகை சிறைப்பிடித்து அதிலிருந்த 8 மீனவர்களை இலங்கை கடற்படையினர் கைது செய்தனர். கடந்த ஜனவரி மாதத்திலிருந்து தற்போது வரை 341 தமிழக மீனவர்களை இலங்கை கடற்படையினர் கைது செய்துள்ளனர்.
+
+ராமநாதபுரம் மாவட்டம் மன்னார் வளைகுடா மற்றும் பாக் ஜலசந்தி கடற்பகுதியில் சூறைக் காற்று வீசியதால் கடந்த ஒரு வார காலமாக ராமேசுவரம் மீனவர்கள் கடலுக்குச் செல்லவில்லை.
+
+இந்நிலையில்  திங்கட்கிழமை(26) வானிலை இயல்பு நிலைக்கு திரும்பிதைத் தொடர்ந்து ராமேசுவரம் மீன்பிடித் துறைமுகத்திலிருந்து சுமார் 450 விசைப்படகுகளில் இரண்டாயிரத்திற்கும் மேற்பட்ட மீனவர்கள் கடலுக்குச் சென்றனர்.
+
+இன்று (செவ்வாய்கிழமை) அதிகாலை மரியசியா என்பவருக்குச் சொந்தமான விசைப்படகில் கிங்சன் (40), மெக்கன்ஸ் (37), ராஜ் (43), இன்னாசி ராஜா (45), சசி (40), மாரியப்பன் (45 ), அடிமை (33), முனியராஜ் ( 23) ஆகிய எட்டு பேர் மீன்பிடித்துக் கொண்டிருந்த போது, எல்லை தாண்டியதாக குற்றஞ்சாட்டி ரோந்தில் இருந்த இலங்கை கடற்படையினர் அவர்களைக் கைது செய்தனர்.
+
+...
+
+[Data](articles/f4b4d8ea.json)
+
+---
+
+### வாள் வெட்டுக்கு இலக்காகிய ஒரு கட்சியின் உறுப்பினர் - சந்தேகநபர் கைது
+
+*2024-08-27 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/192085) · `ta`
+
+மினுவாங்கொடை பகுதியில் தேசிய மக்கள் சக்தியின் உறுப்பினர் ஒருவரை வாளினால் தாக்கி காயப்படுத்திய சம்பவம் தொடர்பில் ஐக்கிய மக்கள் சக்தியின் ஆதரவாளர் ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+சம்பவத்தன்று, சந்தேக நபர் காயமடைந்தவரது வீட்டிற்கு சென்று தகராறில் ஈடுபட்டுள்ள நிலையில் வீட்டிலிருந்த  பூந்தொட்டிகளை உடைத்து வாளினால் தாக்கியுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+இதனையடுத்து, காயமடைந்தவர் மினுவாங்கொடை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள நிலையில் அவரது ஒரு கையில் பலத்த காயம் ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d2961e28.json)
+
+---
+
+### Foreign students recruited for universities in Australia
 
 *2024-08-27 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200377) · `si`
 
-2025 වසර සඳහා ඔස්ට්‍රේලියාවේ විශ්වවිද්‍යාල සඳහා බඳවා ගන්නා විදේශීය සිසුන් ප්‍රමාණය තවත් අඩු කිරීමට එරට රජය කටයුතු කර තිබේ.
+Australia limits foreign student recruitment 2025, increases domestic rentals, COVID relief measures for migrants.
 
-ඒ අනුව ලබන වසරේදී එරට විශ්වවිද්‍යාල සඳහා බඳවා ගන්නා විදේශීය සිසුන් ගණන 270,000කට සීමා කිරීමට පියවර ගෙන ඇති බව සඳහන් ය.
+🟩
 
-ඔස්ට්‍රේලියාවේ නිවාස කුලී අගයන් විශාල ලෙස ඉහළ ගොස් ඇති අතර ඊට හේතුවී ඇත්තේ බලාපොරොත්තු නොවූ ආකාරයට විදෙස් සිසුන් එරට ට පැමිණීම බව බලධාරීන් පවසයි.
+The government has taken steps to reduce the number of foreign students recruited to universities for the universities of Australia for 2025.
 
-විශේෂයෙන් කොවිඩ් වසංගතය හේතුවෙන් සංක්‍රමණික ප්‍රජාවට විවිධ සහන දීමට එරට රජය කටයුතු කළේ එරට ව්‍යාපාර ක්ෂේත්‍රයට අවශ්‍ය පුහුණු ශ්‍රමය ලබාගැනීම සඳහා ය.
+Accordingly, steps have been taken to limit the number of foreign students recruited to the country next year.
+
+Authorities have increased the number of home rentals in Australia and the reason for the situation is due to the arrival of foreign students.
+
+Especially due to the covid plague, the government acted in to provide various relief to the migrant community in the country.
 
 ◼️
 
 [Data](articles/63f85fbe.json)
+
+[Extended Data](ext_articles/63f85fbe.ext.json)
 
 ---
 
@@ -1994,6 +2068,22 @@ Addressing a meeting of lawyers, the President stated that if such a fate would 
 
 ---
 
+### රු. මිලියන ලක්ෂයක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක්
+
+*2024-08-26 19:42:50* · [`adalk`](https://www.ada.lk/breaking_news/රු--මිලියන-ලක්ෂයක්-වටිනා-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-411576) · `si`
+
+රුපියල් මිලියන ලක්ෂයක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් හෙට (28) පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+දින 91 න් කල් පිරෙන රුපියල් මිලියන 50000ක් වටිනා භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 30000 ක භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 20000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව කියයි.
+
+මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම අගෝස්තු 30 දා සිදු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/851d47ae.json)
+
+---
+
 ### More than 60 dead after militant attacks in Pakistan’s Balochistan
 
 *2024-08-26 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101526/more-than-60-dead-after-militant-attacks-in-pakistans-balochistan) · `en`
@@ -2567,141 +2657,5 @@ The 'Ins Member ship' (PASS MUMBBAI) is due to leave the island on August 29, 20
 [Data](articles/00c982d0.json)
 
 [Extended Data](ext_articles/00c982d0.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 300.80/301.20, bond yields steady
-
-*2024-08-26 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-80-301-20-bond-yields-steady-178088/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 300.80/301.20 to the US dollar on Monday, from 299.70/300.00 on Friday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed stable at 11.00/15 percent.
-
-A bond maturing on 01.07.2028 closed at 12.55/65 percent, up from 12.40/50 percent.
-
-A bond maturing on 15.06.2029 closed at 12.65/80 percent, up from 12.65/75 percent.
-
-◼️
-
-[Data](articles/c30ddab5.json)
-
-[Extended Data](ext_articles/c30ddab5.ext.json)
-
----
-
-### SI. Constable's work banned
-
-*2024-08-26 17:18:46* · [`adalk`](https://www.ada.lk/breaking_news/එස්-අයි--ට-පහරදුන්-කොස්තාපල්ගේ-වැඩ-තහනම්/11-411568) · `si`
-
-Constable suspended after assault by colleague during inspection. Alcohol involved. Work ban issued by SSP.
-
-🟩
-
-The Mount Superintendent of Police said the police constable assaulted by a police constable who assaulted him was suspended.
-
-The police said that the police officer was suspended.
-
-The constable was asleep when a sub-inspector of the main entrance was to inspect the main entrance to the main entrance to the main entrance of the Mount Lavinia to 1200 midnight.
-
-According to police sources, the night staff had assaulted the night function at the time.
-
-A high-ranking police officer said that the constable was alcohol when investigating the incident.
-
-According to the SSP Prasanna Brahmanna, the District Superintendent of Police, has banned the work.
-
-◼️
-
-[Data](articles/73a1523e.json)
-
-[Extended Data](ext_articles/73a1523e.ext.json)
-
----
-
-### Investigation into the disappearance of massacres in the Northeast
-
-*2024-08-26 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/192059) · `ta`
-
-National People's Power manifesto promises investigation into Northeast massacres, abolishing oppressive laws, ensuring civil rights, implementing national language policy, and balanced educational programs on world religions.
-
-🟩
-
-The National People's Power has stated in its election manifesto that the disappearance of the massacres in the Northeast will be investigated and upholding justice.
-
-The National People's Power has stated in its election manifesto that we will abolish all the oppressive laws, including the anti -terrorism law, and ensure the freedom of all people.
-
-The National People's Power said that the civil administration would be systematically ensured the civil rights of the people in all parts of the country, including the North East.
-
-The National People's Power said that all citizens will be able to create a national language policy that can provide services in their language.
-
-• In other areas including the North and East held in the past
-
-• implement balanced educational programs on world religions.
-
-• North and East living in addition to Tamil and Muslim people
-
-• ௨௦௨௩. ௧௦. Hatton released by the National People's Power
-
-◼️
-
-[Data](articles/f54663e5.json)
-
-[Extended Data](ext_articles/f54663e5.ext.json)
-
----
-
-### 03 Chinese warships to Colombo
-
-*2024-08-26 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200353) · `si`
-
-Chinese warships arrive in Colombo for training exercises before departing on August 29.
-
-🟩
-
-Three war ships of the Chinese LOOF and the Videos of the Liberation Army have arrived at the Port of Colombo.
-
-The navy says that this morning (26) this morning, the Navy said that the "he Fehi" and the "qilianshan".
-
-The "He Fei 'type of" He Fei ", which was built at the Colombo Port, is accompanied by 144.50 meters and the staff of 267 meters.
-
-The "Worshian 'war vessel belonging to the Landing Platform Dock is comprised of 210 meters and staff of the ship.
-
-The "Qilanshan" consists of the 210m and staff of the ship and the staff of the ship.
-
-After a shipped training exercise, it is scheduled to leave the island on August 29.
-
-◼️
-
-[Data](articles/38f10338.json)
-
-[Extended Data](ext_articles/38f10338.ext.json)
-
----
-
-### Prohibition of using state -owned helicopters: announces presidential candidates!
-
-*2024-08-26 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/192053) · `ta`
-
-Sri Lanka prohibits presidential candidates from using state-owned helicopters for election campaigns. The Elections Commission instructs candidates to pay for helicopter usage. Complaints about misuse of state assets for elections are investigated.
-
-🟩
-
-The presidential candidates are forbidden to use state -owned helicopters to travel to election campaigns.
-
-The Elections Commission has instructed the Presidential candidates to pay for the cost of using state -owned helicopters.
-
-The Elections Commission has instructed the District Elections Officers to investigate the 1,052 complaints received in connection with the use of state property for election activities.
-
-As the presidential election campaign intensifies, the air force -owned helicopters and small aircraft have been banned from using the presidential candidates to attend election campaigns and political meetings.
-
-The Commission has also advised that those who use helicopters for other obligations of non -election campaigns are not harmful to the provision of state helicopters.
-
-The Chairman of the Elections Commission, RML Ratnayake, said that if the buses belonging to the Sri Lanka Transport Board (SLTB) owned by the Sri Lanka Transport Board (SLTB) should be paid for the payment.
-
-...
-
-[Data](articles/9f025d87.json)
-
-[Extended Data](ext_articles/9f025d87.ext.json)
 
 ---

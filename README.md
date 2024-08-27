@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 20:37:04**
+As of **2024-08-27 20:56:03**
 
 ## Newspaper Stats
 
-*Scraped **42,910** Articles*
+*Scraped **42,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 3,967
 dailymirrorlk | 4,733
 adaderanalk | 5,047
 tamilmirrorlk | 5,595
-virakesarilk | 6,819
-adaderanasinhalalk | 7,353
+virakesarilk | 6,820
+adaderanasinhalalk | 7,354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,910 (100.0%) of 42,910 articles have been extended.
+42,910 (100.0%) of 42,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### ජේ ෂා ICC සභාපති පුටුවට
+
+*2024-08-27 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200398) · `si`
+
+ඉන්දීය ක්‍රිකට් පාලක මණඩලයේ වත්මන් ලේකම් ජේ ෂා ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ නව සභාපතිවරයා ලෙස නිතරගයෙන් තේරී පත්වී තිබේ.
+
+◼️
+
+[Data](articles/a5bd268e.json)
+
+---
 
 ### Leader of the Left Front resigns
 
@@ -55,6 +67,20 @@ Mr. Niroshan Premaratne points out that his decision to implement his party's de
 [Data](articles/efd6569b.json)
 
 [Extended Data](ext_articles/efd6569b.ext.json)
+
+---
+
+### உள்ளூராட்சி மன்றத் தேர்தல் விவகாரம் : தேர்தல் ஆணையம் நாளை கூடுகிறது
+
+*2024-08-27 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/192168) · `ta`
+
+உள்ளூராட்சி மன்றத் தேர்தல் குறித்து ஆலோசிப்பதற்காக தேர்தல்கள் ஆணைக்குழு 28ஆம் திகதி புதன்கிழமை கூடவுள்ளது.
+
+தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க, உச்சநீதிமன்றம் வழங்கிய தீர்ப்பு குறித்து விவாதித்த பின்னரே உள்ளாட்சி தேர்தல் குறித்து இறுதி முடிவு எடுக்கப்படும் என்றார்.
+
+◼️
+
+[Data](articles/d84da494.json)
 
 ---
 
@@ -2501,49 +2527,5 @@ Rear Admiral Kanchana Banagoda joined the Sri Lanka Navy in 1989 as an Officer C
 [Data](articles/fb2904aa.json)
 
 [Extended Data](ext_articles/fb2904aa.ext.json)
-
----
-
-### Anura at Muslim Brotherhood Meeting
-
-*2024-08-27 09:55:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-சகோதரத்துவ-சந்திப்பில்-அநுர/175-342849) · `ta`
-
-Anura Kumara Dissanayake attended Muslim Brotherhood meeting in Colombo. Many Muslims participating in 2024 presidential election aim to create prosperous country.
-
-🟩
-
-National People's Power Leader Anura Kumara Dissanayake was present at the "Muslim Brotherhood Meeting" held at The Taprobane Entertainment on Monday (26).
-
-It is noteworthy that many Muslims living in Colombo have joined the 2024 presidential election, which leads the country to the new revival path that creates a "prosperous country - beautiful life".
-
-◼️
-
-[Data](articles/6bb90f41.json)
-
-[Extended Data](ext_articles/6bb90f41.ext.json)
-
----
-
-### Husband arrested
-
-*2024-08-27 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/192083) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-"Husband arrested for alleged assault/murder of 66-year-old wife in Palukaswewa, Habarana. Police investigating further."
-
-🟩
-
-Habarana police said that a husband has been arrested for allegedly assaulting and murdering his wife in Palukaswewa area in Habarana.
-
-Subsequently, the husband of the 66 -year -old suspect has been arrested and Habarana police are conducting further investigations into the incident, police said.
-
-◼️
-
-[Data](articles/49dd54e5.json)
-
-[Extended Data](ext_articles/49dd54e5.ext.json)
 
 ---

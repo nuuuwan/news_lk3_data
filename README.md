@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-27 11:08:00**
+As of **2024-08-27 11:21:40**
 
 ## Newspaper Stats
 
-*Scraped **42,811** Articles*
+*Scraped **42,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 2,584
 dailyftlk | 2,779
 adalk | 3,949
 dailymirrorlk | 4,733
-adaderanalk | 5,032
-tamilmirrorlk | 5,580
+adaderanalk | 5,033
+tamilmirrorlk | 5,581
 virakesarilk | 6,794
-adaderanasinhalalk | 7,334
+adaderanasinhalalk | 7,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,806 (100.0%) of 42,811 articles have been extended.
+42,811 (100.0%) of 42,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-27 (Tuesday)
+
+### Australia introduces cap on international students
+
+*2024-08-27 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101535/australia-introduces-cap-on-international-students) · `en`
+
+Australia will introduce a cap on the number of new international students it accepts, as it tries to reduce overall migration to pre-pandemic levels.
+
+The nation has one of the biggest international student markets in the world, but the number of new enrolments will be limited to 270,000 for 2025.
+
+Each higher education institution will be given an individual restriction, the government announced on Tuesday, with the biggest cuts to be borne by vocational education and training providers.
+
+The change has angered the tertiary education industry, with some universities calling it “economic vandalism”, but Canberra says it will improve the quality and longevity of the sector.
+
+Australia is host to about 717,500 international students, according to the latest government figures from early 2024.
+
+Education Minister Jason Clare acknowledged that higher education was hard-hit during the pandemic, when Australia sent foreign students home and introduced strict border controls.
+
+...
+
+[Data](articles/46aac25b.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தியின் தேர்தல் விஞ்ஞாபனம் நாளை
+
+*2024-08-27 11:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தியின்-தேர்தல்-விஞ்ஞாபனம்-நாளை/175-342855) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி தேர்தல் விஞ்ஞாபனம் நாளை (29) வெளியிடப்பட உள்ளது.
+
+ஐக்கிய மக்கள் சக்தியின் பிரதித் தலைவர் சுஜீவ சேனசிங்க, இது தொடர்பான கொள்கைப் பிரகடனத்தின் அனைத்துத் திட்டங்களும் தற்போது பூர்த்தி செய்யப்பட்டுள்ளதாக தெரிவித்தார்.
+
+இதேவேளை, ஐக்கிய மக்கள் சக்தியின் அரசாங்கத்தில் ஒரே நாட்டில் அதிகபட்ச அதிகாரப் பகிர்வு என்ற கொள்கை அமுல்படுத்தப்படும் என ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/59c16141.json)
+
+---
+
+### ෆවුසිට අත්හිටවූ සිරදඬුවම් සහ දඩ
+
+*2024-08-27 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200379) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ඒ. එච්. එම් ෆවුසි මහතාට වසර 2ක බරපතළ වැඩ සහිත සිරදඬුවම් නියම කර එය වසර 10ක කාලයකට අත්හිටුවීමට කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (27) නියෝග කළේය.
+
+ඒ. එච්. එම් ෆවුසි මහතා වරද පිළිගැනීමෙන් අනතුරුව ඔහුව එම චෝදනාවට වරදකරු කරමින් අධිකරණය එම නියෝගය ලබාදුන්නේය.
+
+එමෙන්ම විත්තිකරුට ලක්ෂ 4ක දඩයක් ගෙවීමට ද විනිසුරුවරයා නියෝග කර තිබේ.
+
+2010 වසරේ දී ඒ. එච්. එම් ෆවුසි මහතා ආපදා කළමනාකරණ අමාත්‍යවරයා ලෙස කටයුතු කරමින් සිටිය දී එම අමාත්‍යාංශයේ ආපදා කළමනාකරණ කටයුතු සඳහා නෙදර්ලන්තයෙන් හිමිවූ රුපියල් කෝටි 2කට ආසන්න සුඛෝපභෝගි වාහනයක් සිය පෞද්ගලික පරිහරණය සඳහා යොදවා ගැනීම, ඒ සඳහා අමාත්‍යාංශ ලේකම්වරිය ඇතුළු බලධාරීන් පෙළඹවීම හා වාහනයේ නඩත්තු කටයුතු සඳහා රුපියල් ලක්ෂ 10කට ආසන්න මුදල් අමාත්‍යාංශ මුදලින් වැය කිරීම ආදි අධිචෝදනා 4ක් යටතේ නීතිපතිවරයා විසින් පවරා තිබූ නඩුව අද දින කැඳවු අවස්ථාවේ දී ඒ. එච්. එම් ෆවුසි මහතා නීතිඥවරයා මාර්ගයෙන් වරද පිළිගනු ලැබීය.
+
+...
+
+[Data](articles/33b10ed6.json)
+
+---
 
 ### Supreme Court slams IGP, Police Commission over ignoring directives on detainees
 
@@ -48,55 +104,93 @@ The Supreme Court judge bench made this statement during the hearing of a fundam
 
 [Data](articles/507b629a.json)
 
+[Extended Data](ext_articles/507b629a.ext.json)
+
 ---
 
-### ரணிலை ஜனாதிபதியாக்க மக்கள் திரள வேண்டும் : பைசால்
+### People should rally to make Ranil President: Baisal
 
 *2024-08-27 10:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஜனாதிபதியாக்க-மக்கள்-திரள-வேண்டும்-பைசால்/175-342853) · `ta`
 
-நாட்டை அபிவிருத்தி செய்து இனங்களுக்கிடையில் நல்லிணக்கத்தை ஏற்படுத்த ரணில் விக்ரமசிங்கவினால் மாத்திரமே முடியும். அதற்கான வேலைத்திட்டங்களும் அவரிடம் இருக்கின்றன. வீழ்ச்சியடைந்திருந்த நாட்டை குறுகிய காலத்தில் ஸ்திர நிலைக்கு கொண்டுவந்த ஜனாதிபதி ரணில் விக்ரமசிங்கவை மீண்டும் ஜனாதிபதியாக தெரிவுசெய்துகொள்ள மக்கள் முன்வர வேண்டும் என  முஸ்லிம் இடது முன்னணியின் பொதுச் செயலாளர்  எம் ஆர் எம் பைசால் தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்துவதற்காக, நீண்டகாலமாக முஸ்லிம் இடதுசாரி முன்னணி பலமாக செயல்பட்டு வருகிறது.
 
-கடந்த காலத்தில் நாட்டில்  ஏற்பட்ட பொருளாதார வீழ்ச்சியை கருத்திற்கொண்டு  இடதுசாரி கொள்கை உடைய மற்றும் ஒட்டுமொத்த  அனைத்து இன மக்களும் ரணில் விக்ரமசிங்க ஜனாதிபதியாக தெரிவாக வேண்டும் என்றே விரும்புகின்றனர். அதற்காக நாங்கள் அர்ப்பணிப்புடன் செயற்பட்டு வருகிறோம்.
+
+Supporters urge re-election of Ranil Wickremesinghe as Sri Lanka's president. They cite his ability to unite ethnic groups and implement economic development plans. The Muslim Left Front endorses him, emphasizing his leadership during times of crisis and potential for stability.
+
+🟩
+
+Ranil Wickremesinghe can only develop the country and create harmony between ethnicities. He also has the programs for it. The General Secretary of the Muslim Left Front MRM Faisal has said that the people should come forward to elect President Ranil Wickremesinghe as president again, who has been in a state of disrepair.
+
+The Muslim Left Front has long been working to ensure the victory of President Ranil Wickremesinghe in the presidential election.
+
+Ranil Wickremesinghe wants to be the President of the Left -wing policy and all the people of the country, considering the economic downturn in the country in the past.. We are dedicated to that.
+
+Ranil Wickremesinghe bravely offered to take the country to take charge of the country when the country collapsed. Similarly, he has shown that he is able to stabilize the country in a short time.
 
 ...
 
 [Data](articles/495f80e3.json)
 
+[Extended Data](ext_articles/495f80e3.ext.json)
+
 ---
 
-### 8 மாதங்களில் 341 மீனவர்கள் சிறைப்பிடிப்பு
+### 341 fishermen in 8 months
 
 *2024-08-27 10:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-மாதங்களில்-341-மீனவர்கள்-சிறைப்பிடிப்பு/175-342851) · `ta`
 
-தமிழக மீனவர்களின் ஒரு விசைப்படகை சிறைப்பிடித்து அதிலிருந்த 8 மீனவர்களை இலங்கை கடற்படையினர் கைது செய்தனர். கடந்த ஜனவரி மாதத்திலிருந்து தற்போது வரை 341 தமிழக மீனவர்களை இலங்கை கடற்படையினர் கைது செய்துள்ளனர்.
+Here's a summary of the text in 200 characters:
 
-ராமநாதபுரம் மாவட்டம் மன்னார் வளைகுடா மற்றும் பாக் ஜலசந்தி கடற்பகுதியில் சூறைக் காற்று வீசியதால் கடந்த ஒரு வார காலமாக ராமேசுவரம் மீனவர்கள் கடலுக்குச் செல்லவில்லை.
 
-இந்நிலையில்  திங்கட்கிழமை(26) வானிலை இயல்பு நிலைக்கு திரும்பிதைத் தொடர்ந்து ராமேசுவரம் மீன்பிடித் துறைமுகத்திலிருந்து சுமார் 450 விசைப்படகுகளில் இரண்டாயிரத்திற்கும் மேற்பட்ட மீனவர்கள் கடலுக்குச் சென்றனர்.
 
-இன்று (செவ்வாய்கிழமை) அதிகாலை மரியசியா என்பவருக்குச் சொந்தமான விசைப்படகில் கிங்சன் (40), மெக்கன்ஸ் (37), ராஜ் (43), இன்னாசி ராஜா (45), சசி (40), மாரியப்பன் (45 ), அடிமை (33), முனியராஜ் ( 23) ஆகிய எட்டு பேர் மீன்பிடித்துக் கொண்டிருந்த போது, எல்லை தாண்டியதாக குற்றஞ்சாட்டி ரோந்தில் இருந்த இலங்கை கடற்படையினர் அவர்களைக் கைது செய்தனர்.
+Sri Lankan navy arrested 341 Tamil Nadu fishermen since Jan. 8 arrested last week near Mannar coast. Weather conditions prevented fishing for a week. Arrested men may face trial in Mannar court.
 
-...
+🟩
+
+Sri Lankan navy arrested 8 fishermen. Sri Lankan navy has arrested 341 Tamil Nadu fishermen from January to the present.
+
+Rameshwaram fishermen have not gone to sea for the past one week due to the tornadoes blowing in the Gulf of Mannar and the Bagh Strait of Ramanathapuram district.
+
+More than two thousand fishermen went to sea from the Rameshwaram fishing port following the weather condition on Monday (26).
+
+Kingson (40), McCons (37), Raj (43), Inasi Raja (45), Sasi (40), Mariappan (45), Slave (33), Muniyaraj (23)While eight people were fishing, the Sri Lankan navy arrested them for allegedly crossing the border.
+
+The arrested fishermen were taken to the Talaimannar naval camp. It is likely that they will be produced before the Mannar court this afternoon and will be taken to the Vavuniya jail.
+
+Earlier, from January to the present, the Sri Lankan navy has arrested 341 fishermen who captured 46 Tamil Nadu fishermen.
+
+◼️
 
 [Data](articles/f4b4d8ea.json)
 
+[Extended Data](ext_articles/f4b4d8ea.ext.json)
+
 ---
 
-### வாள் வெட்டுக்கு இலக்காகிய ஒரு கட்சியின் உறுப்பினர் - சந்தேகநபர் கைது
+### A party member targeted for sword cuts - suspect arrested
 
 *2024-08-27 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/192085) · `ta`
 
-மினுவாங்கொடை பகுதியில் தேசிய மக்கள் சக்தியின் உறுப்பினர் ஒருவரை வாளினால் தாக்கி காயப்படுத்திய சம்பவம் தொடர்பில் ஐக்கிய மக்கள் சக்தியின் ஆதரவாளர் ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Here's a summary of the article in 200 characters:
 
-சம்பவத்தன்று, சந்தேக நபர் காயமடைந்தவரது வீட்டிற்கு சென்று தகராறில் ஈடுபட்டுள்ள நிலையில் வீட்டிலிருந்த  பூந்தொட்டிகளை உடைத்து வாளினால் தாக்கியுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
 
-இதனையடுத்து, காயமடைந்தவர் மினுவாங்கொடை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள நிலையில் அவரது ஒரு கையில் பலத்த காயம் ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+United People's Power supporter arrested for assault on National People's Power member in Minuwangoda. Suspect used sword, victim hospitalized with serious injuries. Police investigation ongoing.
+
+🟩
+
+A supporter of the United People's Power has been arrested on suspicion of assaulting and injuring a member of a National People's Power in Minuwangoda.
+
+On the day of the incident, police investigations have revealed that the suspect had gone to the house of the injured and broke into the house with a sword.
+
+Subsequently, the injured were admitted to the Minuwangoda Hospital and suffered a serious injury, police said.
 
 ◼️
 
 [Data](articles/d2961e28.json)
+
+[Extended Data](ext_articles/d2961e28.ext.json)
 
 ---
 
@@ -2068,19 +2162,29 @@ Addressing a meeting of lawyers, the President stated that if such a fate would 
 
 ---
 
-### රු. මිලියන ලක්ෂයක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක්
+### Rs. A Treasury Bill auction worth Rs. 100 million
 
 *2024-08-26 19:42:50* · [`adalk`](https://www.ada.lk/breaking_news/රු--මිලියන-ලක්ෂයක්-වටිනා-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-411576) · `si`
 
-රුපියල් මිලියන ලක්ෂයක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් හෙට (28) පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+Here's a summary of the text in 200 characters:
 
-දින 91 න් කල් පිරෙන රුපියල් මිලියන 50000ක් වටිනා භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 30000 ක භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 20000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව කියයි.
 
-මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම අගෝස්තු 30 දා සිදු කිරීමට නියමිතය.
+
+Central Bank Sri Lanka auctions Treasury Bills worth Rs. 100 million on Aug 28. Bids open at 9 AM. Payment due Aug 30.
+
+🟩
+
+The Treasury Bill auction is held tomorrow (28), the Central Bank of Sri Lanka (28).
+
+The Treasury bills of Rs. 500,000 worth Rs.
+
+The Treasury bill issue and payment will be made on August 30.
 
 ◼️
 
 [Data](articles/851d47ae.json)
+
+[Extended Data](ext_articles/851d47ae.ext.json)
 
 ---
 
@@ -2589,73 +2693,5 @@ The program is being implemented by the Sri Lanka Bureau of Foreign Employment (
 [Data](articles/ef2c1c39.json)
 
 [Extended Data](ext_articles/ef2c1c39.ext.json)
-
----
-
-### Three Chinese warships arrive in Colombo
-
-*2024-08-26 17:38:00* · [`economynextcom`](https://economynext.com/three-chinese-warships-arrive-in-colombo-178094/) · `en`
-
-ECONOMYNEXT – Three Chinese warships; He Fei, Wuzhishan and Qilianshan arrived at Sri Lanka’s Colombo port on a formal visit on Monday (26).
-
-This follows the docking of Indian warship ‘Mumbai’ which is on a three-day visit to Sri Lanka during which it will engage in a Passage Exercise with a Sri Lanka Navy vessel.
-
-Last week, three US warships docked at the port for replenishment; the USS Spruance, USS O’kane, and the USS Stockdale.
-
-The He Fei is a 144.50-meter-long destroyer, crewed by 267 personnel under the command of Captain Chen Junfeng.
-
-The Wuzhishan is a 210-meter-long Landing Platform Dock, manned by 872 crew members and commanded by Captain Fei Zhang.
-
-The Qilianshan is a 210-meter-long Landing Platform Dock, with 334 crew members under the command of Captain Xiong Binghon.
-
-...
-
-[Data](articles/41b5d9ec.json)
-
-[Extended Data](ext_articles/41b5d9ec.ext.json)
-
----
-
-### Chinese and Indian warships visit Colombo on same day
-
-*2024-08-26 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101523/chinese-and-indian-warships-visit-colombo-on-same-day) · `en`
-
-Three Chinese People’s Liberation Army Navy warships; “HE FEI”, “WUZHISHAN” and “QILIANSHAN” have arrived at the Colombo Port on a formal visit this morning (Aug 26).
-
-The visiting ships were welcomed by the Sri Lanka Navy in compliance with naval traditions, Sri Lanka Navy said.
-
-The “HE FEI” is a 144.50-meter-long destroyer, crewed by 267 personnel under the command of Captain Chen Junfeng. The “WUZHISHAN” is a 210-meter-long Landing Platform Dock, manned by 872 crew members and commanded by Captain Fei Zhang. Similarly, the “QILIANSHAN” is a 210-meter-long Landing Platform Dock, with 334 crew members under the command of Captain Xiong Binghon, according to Sri Lanka Navy.
-
-The Commanding Officers of the trio of Chinese People’s Liberation Army Navy warships are scheduled to call on the Commander Western Naval Area, Rear Admiral Chinthaka Kumarasinghe at the Western Naval Command Headquarters today.
-
-...
-
-[Data](articles/cc8e31cb.json)
-
-[Extended Data](ext_articles/cc8e31cb.ext.json)
-
----
-
-### Colombo wrote an Indian war ship
-
-*2024-08-26 17:32:03* · [`adalk`](https://www.ada.lk/uncategorized/ඉන්දීය-යුද-නැවක්-කොළඹ-වරයාට/1-411569) · `si`
-
-Indian Navy destroyer INS Mumbai visits Colombo port for official tour. Ship measures 163 meters long, commanded by Captain Sandeep Kumar. Scheduled to visit several areas, conduct training exercises with Sri Lanka Navy. Leaves August 29, 2024.
-
-🟩
-
-The Indian Navy's Ins Mumbai arrivals arrived at the Port of Colombo on an official visit.
-
-The Destroyer of the Destroyer, which arrived at the Colombo port, consists of one hundred sixty-three meters (410) and shipping (410). Commander of the ship, Captain Sandeep Kumar (Captain Sandeep Kumar) and Commander of the Western Naval Command Rear Admiral Chinthaka Kumarasinghe was held at the commander (August 26, 204).
-
-The 'Ins Mumbai' war drive is to visit several areas on the time of staying in the country, and the ship's shipping is scheduled to visit Sri Lanka Navy personnel on operational operation.
-
-The 'Ins Member ship' (PASS MUMBBAI) is due to leave the island on August 29, 2024 after the Sri Lanka Navy ship with a training exercise in the Western naval ship.
-
-◼️
-
-[Data](articles/00c982d0.json)
-
-[Extended Data](ext_articles/00c982d0.ext.json)
 
 ---

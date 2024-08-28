@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 18:17:56**
+As of **2024-08-28 18:31:18**
 
 ## Newspaper Stats
 
-*Scraped **43,064** Articles*
+*Scraped **43,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,602
 dailyftlk | 2,795
-adalk | 3,982
+adalk | 3,983
 dailymirrorlk | 4,733
 adaderanalk | 5,066
 tamilmirrorlk | 5,611
 virakesarilk | 6,850
-adaderanasinhalalk | 7,382
+adaderanasinhalalk | 7,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,063 (100.0%) of 43,064 articles have been extended.
+43,064 (100.0%) of 43,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### රවුෆ් හකීම් ට එරෙහිව වාරණ නියෝගයක්
+
+*2024-08-28 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200430) · `si`
+
+ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ පාර්ලිමේන්තු මන්ත්‍රී එස්. අලි සහිර් මවුලානා මහතාගේ පක්ෂ සාමාජිකත්වය නෙරපීම වළක්වාලමින් කොළඹ දිසා අධිකරණය අද (28) ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ නායක සහ මහලේකම් වෙත වාරණ නියෝගයක් නිකුත් කර තිබේ.
+
+අලි සහිර් මවුලානා මහතා විසින් ඉදිරිපත් කළ පැමිණිල්ලක් විභාග කිරීමෙන් අනතුරුව කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා විසින් මෙම වාරණ නියෝගය නිකුත් කළේය.
+
+මෙම වාරණ නියෝගය නිකුත් කර තිබෙන්නේ ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ නායක රවුෆ් හකීම් සහ මහලේකම් නිසාම් කාරියප්පර් යන මහත්වරුන්ට එරෙහිවය.
+
+පැමිණිලිකරු කියා සිටින්නේ ඉදිරි ජනාධිපතිවරණයේදී කුමන අපේක්ෂකයාට සහාය දක්වන්නේද ? යන්න තීන්දු කිරීම සඳහා ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ උත්තරීතර මණ්ඩලය අගෝස්තු මස 04 වනදා රැස්වූ බවය.
+
+එම  උත්තරීතර මණ්ඩල රැස්වීමට තමන් සහභාගි නොවූ බවත් එහිදී පක්ෂය ජනාධිපති අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමට තීරණය කර තිබුණ ද එම තීරණය තමන්ට දැනුම්දී නොතිබූ බව පැමිණිකරු කියයි.
+
+...
+
+[Data](articles/d44dc703.json)
+
+---
 
 ### Govt and IMF reach agreement to amend PAYE tax - President
 
@@ -43,6 +63,8 @@ Speaking at a presidential election rally in Eheliyagoda, he stated that proposa
 ◼️
 
 [Data](articles/97cde714.json)
+
+[Extended Data](ext_articles/97cde714.ext.json)
 
 ---
 
@@ -315,6 +337,22 @@ Member of Parliament arrested for this discussion. Weerasinghe said,
 [Data](articles/00ef8a1b.json)
 
 [Extended Data](ext_articles/00ef8a1b.ext.json)
+
+---
+
+### ධීවරයින් වෙනුවෙන් ඩීසල් හා භූමිතෙල් මිල රු. 25කින් අඩු කරයි
+
+*2024-08-28 16:12:32* · [`adalk`](https://www.ada.lk/breaking_news/ධීවරයින්-වෙනුවෙන්-ඩීසල්-හා-භූමිතෙල්-මිල-රු--25කින්-අඩු-කරයි/11-411609) · `si`
+
+ධීවර ජනතාවට අත්‍යාවශ්‍ය වන ඉන්ධන සඳහා සහනාධාරයක් ලෙස ඩීසල් මිළ රුපියල් 25කින්ද, භූමිතෙල් මිල රුපියල් 25කින්ද අඩු කරමින් ඉන්ධන සහනාධාරයක් ලබාදීම සඳහා අවශ්‍ය චක්‍රලේඛනය පසුගියදා (26) ධීවර දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා විසින් නිකුත් කොට ඇත.
+
+ධීවර ජනතාව දිරිගැන්වීමට සහ ඔවුන්ගේ ජීවනෝපාය ශක්තිමත් කිරීම උදෙසා ඉන්ධන සහනාධාරය ලබා දීම, පසුගිය 23 වන දින සිට ක්‍රියාත්මක කළ අතර ඉකුත් 21 දා පැවති කැබිනට් මණ්ඩල රැස්වීමේදී ධීවර අමාත්‍යවරයා විසින් ඉදිරිපත්කළ, කැබිනට් පත්‍රිකාවට අනුව මෙම තීරණය ගෙන තිබේ.
+
+ධීවර මහා සම්මේලනය මගින් පසුගියදා (09) කොළඹ ප්‍රදර්ශන හා සම්මේන මධ්‍යස්ථානයෙදි පවත්වන ලද ජාතික ධීවර මහා සමුළුවේදී ආර්ථික අර්බුදය හමුවේ ධීවර කර්මාන්තයට ඇති වි ඇති බලපෑම අවම කර ගැනීම සඳහා ධීවරයන් විසින් කරන ලද ඉල්ලීම් වල ප්‍රධාන කරුණක් වූ ධීවර කම්කරුවන් සඳහා ඉන්ධන සහනයක් ලබා දෙන ලෙස සිදුකළ ඉල්ලීමට ප්‍රතිචාර දක්වමින් ඉහත සහනය ලබාදී ඇත.
+
+...
+
+[Data](articles/8ca81bf5.json)
 
 ---
 
@@ -2407,41 +2445,5 @@ He said Wickremesinghe’s manifesto is titled ‘Puluwan Sri Lanka” (Sri Lank
 [Data](articles/6fc9b73c.json)
 
 [Extended Data](ext_articles/6fc9b73c.ext.json)
-
----
-
-### Govt. mandates NIC and Passport numbers for public IT systems
-
-*2024-08-28 05:32:52* · [`dailyftlk`](https://www.ft.lk/news/Govt-mandates-NIC-and-Passport-numbers-for-public-IT-systems/56-766056) · `en`
-
-The Government has directed Heads of key State Departments to update its Information Technology (IT) system to boost efficiency and quality of public services.
-
-The move comes following a Cabinet decision on 5 August, which involves mandatory inclusion of National Identity Card (NIC) numbers, Passport numbers and Company Registration numbers in all relevant Government IT systems.
-
-The Finance, Economic Stabilisation and National Policies Ministry on Monday issued a circular, addressing all Secretaries to Ministers, Chief Secretaries of Provincial Councils, Heads of Departments/District Secretaries, Heads of State Corporations, Statutory Boards, Universities and Higher Education Institutions and Chairpersons of State-owned Enterprises to ensure compliance with the mandatory inclusion of information related to company/business registration number along with NIC and passport numbers with nationality of individuals.
-
-...
-
-[Data](articles/dc487366.json)
-
-[Extended Data](ext_articles/dc487366.ext.json)
-
----
-
-### New law to protect rights of indigenous community
-
-*2024-08-28 05:31:31* · [`dailyftlk`](https://www.ft.lk/news/New-law-to-protect-rights-of-indigenous-community/56-766055) · `en`
-
-The Cabinet of Ministers on Monday approved directing the Legal Draftsman to prepare a draft bill based on the revised fundamental draft for introducing new legislation concerning the rights of Sri Lanka’s indigenous community.
-
-On 22 May, the Cabinet approved the joint proposal furnished by the then Justice, Prison Affairs and Constitutional Reforms Minister and the Buddha Sasana, Religious and Cultural Affairs Minister in relation to introduction of the new law.
-
-“At that meeting, it was decided that it was appropriate to further analyse the concept paper furnished to prepare the draft bill with the participation of all parties concerned,” Buddha Sasana, Religious and Cultural Affairs Minister Vidura Wickramanayaka said at the weekly post-Cabinet meeting media briefing yesterday.
-
-...
-
-[Data](articles/1e0beb3c.json)
-
-[Extended Data](ext_articles/1e0beb3c.ext.json)
 
 ---

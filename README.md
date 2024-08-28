@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 11:37:22**
+As of **2024-08-28 11:57:01**
 
 ## Newspaper Stats
 
-*Scraped **43,007** Articles*
+*Scraped **43,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ newsfirstlk | 363
 bbccomsinhala | 398
 colombotelegraphcom | 415
 islandlk | 2,505
-economynextcom | 2,594
+economynextcom | 2,595
 dailyftlk | 2,795
 adalk | 3,976
 dailymirrorlk | 4,733
-adaderanalk | 5,057
+adaderanalk | 5,058
 tamilmirrorlk | 5,606
 virakesarilk | 6,840
 adaderanasinhalalk | 7,365
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,365
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,006 (100.0%) of 43,007 articles have been extended.
+43,009 (100.0%) of 43,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### Indian national given suspended sentence over match-fixing attempt during Legends Cricket League
+
+*2024-08-28 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101562/-indian-national-given-suspended-sentence-over-match-fixing-attempt-during-legends-cricket-league) · `en`
+
+The Kandy High Court has sentenced an Indian national to two years of rigorous imprisonment, suspended for 10 years, after he pleaded guilty over the charges of match-fixing during the 2024 Legends Cricket League.
+
+Police said that the Attorney General’s Department had filed indictments against the accused over the charges of attempting to fix matches in the 2024 Legends Cricket League played from March 8 to March 19, 2024, at the Pallekele International Cricket Stadium in Kandy.
+
+The investigation had been initiated following a complaint filed by the Special Investigation Unit for Prevention of Sports Related Offenses of the International Cricket Council (ICC).
+
+It has been revealed during the inquiry that the accused had approached an English and a New Zealand player, who were both part of the Punjab Royals team, for match-fixing in an attempt to rig the games.
+
+...
+
+[Data](articles/abfc3fb0.json)
+
+[Extended Data](ext_articles/abfc3fb0.ext.json)
+
+---
 
 ### Daily Conducts - Mahinda Deshapriya alert for voters
 
@@ -326,6 +346,24 @@ The event was globally changes in the event, an official of the Department of Me
 
 ---
 
+### Sri Lanka rupee opens slightly weaker, bonds marginally up
+
+*2024-08-28 09:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-slightly-weaker-bonds-marginally-up-178195/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly weaker at 300.30/80 to the US dollar Wednesday from 300.00/30 to the US dollar a day earlier, dealers said, while bond yields were marginally up.
+
+A bond maturing on 01.07.2028 was quoted at 12.60/70 marginally up from 12.50/55 percent.
+
+A bond maturing on 15.06.2029 was quoted 12.75/90 up from 12.70/80 percent. (Colombo/Aug28/2024)
+
+◼️
+
+[Data](articles/ae605986.json)
+
+[Extended Data](ext_articles/ae605986.ext.json)
+
+---
+
 ### Women entered politics
 
 *2024-08-28 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/192184) · `ta`
@@ -384,19 +422,31 @@ The people were welcomed by President Ranil Wickremesinghe, who attended the mee
 
 ---
 
-### இலங்கையின் வரலாற்றின் புதிய பக்கத்தை எழுதக்கூடிய பெறுமதிமிக்கவர்கள் பெண்கள் - விளையாட்டு வீராங்கனை புஷ்பமாலி ராமநாயக்க
+### Women who write the new page of the history of Sri Lanka - Pushpamali Ramanayake
 
 *2024-08-28 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192182) · `ta`
 
-நான் தேசிய மக்கள் சக்தியுடன் இணைந்துள்ளமையையிட்டு பெருமிதமடைகிறேன். இவ்வளவு பிரமாண்டமான ஒரு மேடையில் ஏறி எமது நாடு வீழ்ந்துள்ள படுகுழியிலிருந்து மீட்டெடுப்பதற்காக ஒரு சில வார்த்தைகளையேனும் கூற கிடைத்ததையிட்டு மகிழ்ச்சியடைகிறேன்.
+Here's a 200-character summary:
 
-எமது நாடு 76 வருடங்களாக சாபக்கேட்டுக்கு இலக்காகியிருக்கிறது. இந்த ஊழல்மிக்க அரசியல்வாதிகளின் ஆதிக்கத்திற்கு முற்றுப்புள்ளி வைக்கவேண்டிய காலம் இப்பொழுது பிறந்திருக்கிறது. அதற்காக கைகோர்த்து செயற்படுவதற்காகவே நாங்கள் இங்கு குழுமியிருக்கிறோம்.  அதற்காக நாங்கள் அநுர குமார திசாநாயக்கவை தோ்ந்தெடுத்திருக்கிறோம்.
 
-இவ்வளவு காலமும் எமது நாட்டுக்கு மன்னர்களே தலைவர்களாக வந்தார்கள். இப்பொழுது முதல் தடவையாக மண்ணில் கால் பதித்த மக்களின் இதயத்துடிப்பினை உணர்ந்த மண்ணின் மைந்தனொருவர் தலைவராகப் போகிறார். செப்டெம்பர் 21 ஆம் திகதி அதற்காக நாங்கள் எங்களை அர்ப்பணிப்போம்.
+
+Sri Lankan woman Pushpamali Ramanayake joins national movement against corrupt politicians. She calls for women's participation in politics, citing their significant voting power. Aims to create new history for Sri Lanka on September 21st.
+
+🟩
+
+I am proud to have joined the national people's power. I am glad that I have got a few words to climb a huge platform and recover our country from the abnormal.
+
+Our country has been targeted for curse for 76 years. The time has now been born to put an end to the domination of these corrupt politicians. We are here to work for it.For that, we have seen Anura Kumara Dissanayake.
+
+The kings came to our country all the time. For the first time now, the soil of the soil is going to be the leader of the heartbeat of the people who have set foot in the soil. We will dedicate ourselves on September 21st.
+
+We are eagerly waiting for it. Women are the most number of voters in Sri Lanka. Women have the most contribution to the family's decision. Keep in mind that only the votes of women can bring great success to the national power.
 
 ...
 
 [Data](articles/e90c66b1.json)
+
+[Extended Data](ext_articles/e90c66b1.ext.json)
 
 ---
 
@@ -2355,47 +2405,5 @@ However, it is ready to buy the Government's at Rs.. Therefore, he said he expec
 [Data](articles/80a8d5ed.json)
 
 [Extended Data](ext_articles/80a8d5ed.ext.json)
-
----
-
-### Sri Lanka expects US$1.36bn from IMF, IFIs for 2025 budget, $3.65bn debt relief
-
-*2024-08-27 18:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-us1-36bn-from-imf-ifis-for-2025-budget-3-65bn-debt-relief-178180/) · `en`
-
-ECONOMYNEXT – Sri Lanka is expecting 1,363 million US dollars under an International Monetary Fund program which is also backed by the Asian Development Bank in 2025, Minister Bandula Gunawardana said.
-
-From the International Monetary Fund 663 million dollars is expected, he said at a post cabinet briefing Tuesday. Typically there are two reviews in each year under the program.
-
-Another 400 million dollars is expected from World Bank for the budget in 2025 and 300 million dollars from the Asian Development Bank, he said.
-
-In addition, debt relief of 3,655 million US dollars is expected, he said.
-
-This adds up to fill an external resource gap calculated as 5,018 million US dollars Minister Gunawardana said.
-
-Sri Lanka however is also expected to collect foreign reserves under the IMF deal.
-
-In the Board approved program that runs up to March 2025, about 250 million dollars in foreign reserves have to be collected under a net international reserve target for the first quarter.
-
-...
-
-[Data](articles/9d7ea984.json)
-
-[Extended Data](ext_articles/9d7ea984.ext.json)
-
----
-
-### 2024 Presidential Election Divides Muslim  Political Parties  with Leaders Backing Sajith and Some MPs Supporting Ranil.
-
-*2024-08-27 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84580) · `en`
-
-Nominations have closed for the long awaited 2024 presidential election. 39 candidates are in the fray.It is widely acknowledged  by the press and public that the chief presidential  contenders  are  incumbent president Ranil Wickremesinghe,leader of the opposition  Sajith Premadasa and JVP/NPP leader Anura Kumara  Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith  Jayaweera.
-
-However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier  numerical minorities  assumes crucial importance.
-
-...
-
-[Data](articles/bd766ef7.json)
-
-[Extended Data](ext_articles/bd766ef7.ext.json)
 
 ---

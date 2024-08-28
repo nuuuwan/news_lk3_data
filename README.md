@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 06:26:46**
+As of **2024-08-28 06:04:59**
 
 ## Newspaper Stats
 
-*Scraped **42,974** Articles*
+*Scraped **42,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,87 +14,23 @@ bbccomsinhala | 398
 colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,594
-dailyftlk | 2,795
+dailyftlk | 2,792
 adalk | 3,972
 dailymirrorlk | 4,733
 adaderanalk | 5,050
-tamilmirrorlk | 5,599
+tamilmirrorlk | 5,598
 virakesarilk | 6,833
-adaderanasinhalalk | 7,358
+adaderanasinhalalk | 7,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,951 (99.9%) of 42,974 articles have been extended.
+42,951 (100.0%) of 42,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
-
-### ප්‍රදේශ කිහිපයකට වැසි
-
-*2024-08-28 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200402) · `si`
-
-උතුරු පළාතේ වැසිවාර කිහිපයක් ඇතිවිය හැකි අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇති විය හැකිය.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
-
-උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
-
-දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස අද (28) වන දින සිට සැප්තැම්බර් 06 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
-
-අද දින දහවල් 12:11ට ඩෙල්ෆ් දූපත, පුනරීන්, තද්දුවන්කොඩ්ඩි සහ චුන්ඩික්කුලම් ප්‍රදේශවලට හිරු මුදුන්ව පවතී.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/156c163a.json)
-
----
-
-### SL envoy in Jordan meets with Zarqa Chamber of Commerce to boost trade, economic cooperation
-
-*2024-08-28 06:03:58* · [`dailyftlk`](https://www.ft.lk/business/SL-envoy-in-Jordan-meets-with-Zarqa-Chamber-of-Commerce-to-boost-trade-economic-cooperation/34-766076) · `en`
-
-Sri Lankan Ambassador to the Hashemite Kingdom of Jordan J.A.D.S. Priyangika Wijegunasekara paid a visit to the Zarqa Chamber of Commerce on 21 August and had a productive discussion to boost trade and economic cooperation between the two countries.
-
-During the discussion, the trade and economic relations between Jordan and Sri Lanka were reviewed to discuss ways to enhance trade, tourism, and investment cooperation between the two countries.
-
-...
-
-[Data](articles/c4adf772.json)
-
----
-
-### Aligning a new political order to economic thinking; low on inequality but high on meritocracy
-
-*2024-08-28 05:55:38* · [`dailyftlk`](https://www.ft.lk/columns/Aligning-a-new-political-order-to-economic-thinking-low-on-inequality-but-high-on-meritocracy/4-766070) · `en`
-
-It is we, the voting citizens of our country, who despite experiencing the vicissitudes of such duplicitous behaviour,
-
-brainlessly and in a zombie-like fashion vote for these chameleons who take us for idiots – Pic by Shehan Gunasekara
-
-Even as “Mondo” Duplantis, the Swedish pole vaulter, was thrilling global viewers with a world record breaking jump of 6.25 metres at the Paris Olympics, 8,500 kilometres away in Colombo, we, in beautiful Sri Lanka, were witnessing incredible performances by several ‘political’ athletes in the jump events of long jump, triple jump, high jump and pole vault. A good number of them were ‘seasoned’ participants and previous medallists notorious for their dexterity in this field.
-
-...
-
-[Data](articles/70517ac8.json)
-
----
-
-### Whom should I vote for this Presidential election?
-
-*2024-08-28 05:50:45* · [`dailyftlk`](https://www.ft.lk/columns/Whom-should-I-vote-for-this-Presidential-election/4-766069) · `en`
-
-This Presidential election 2024 is wholly absent of candidates with a clear program of national development of the most essential services and sectors now in tatters like education, health and public commuting that leaves out the most important reason to vote. The “vote” at a presidential election is meant to elect a person with a clear “world vision” for the country, that requires candidates to spell their own vision in detail.
-
-...
-
-[Data](articles/8e72afa7.json)
-
----
 
 ### ALFT Packaging’s excellence celebrated at Nestlé Lanka’s ‘Connect@Nest’24’
 
@@ -493,24 +429,6 @@ The President then discussed with the Maha Sangam for some time and made it clea
 [Data](articles/a3c0aac8.json)
 
 [Extended Data](ext_articles/a3c0aac8.ext.json)
-
----
-
-### ’முன்னேற்றம் கண்டுள்ளதாக காண்பிக்க முயற்சி’
-
-*2024-08-28 02:19:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேற்றம்-கண்டுள்ளதாக-காண்பிக்க-முயற்சி/175-342900) · `ta`
-
-பொருளாதார சீர்திருத்தங்கள், மனித உரிமைகளை பாதுகாப்பதில் முன்னேற்றம் கண்டுள்ளமை தொடர்பில் சர்வதேச பங்காளிகளுக்கு காண்பிப்பதற்கு இலங்கை அரசாங்கம் முயற்சிப்பதாக மனித உரிமைகள் கண்காணிப்பு அமைப்பு தெரிவித்துள்ளது.
-
-இலங்கையின் அடிப்படை சுதந்திரத்திற்கு மேலும் அச்சுறுத்தல்கள் உள்ளதாக ஐக்கிய நாடுகளின் உயர்ஸ்தானிகரால் வெளியிடப்பட்ட அறிக்கையில் குறிப்பிடப்பட்டுள்ளதாக அந்த அமைப்பு விடுத்துள்ள அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
-
-2022 ஆம் ஆண்டு ஏற்பட்ட பொருளாதார நெருக்கடியினால் இலங்கையில் வறுமை இரண்டு மடங்காக அதிகரித்துள்ளதாக ஐக்கிய நாடுகள் மனித உரிமைகள் ஆணையாளரின் அறிக்கையை மேற்கோள்காட்டி மனித உரிமைகள் கண்காணிப்பு அமைப்பு அறிக்கை வெளியிட்டுள்ளது.
-
-ஐக்கிய நாடுகள் சபையின் புள்ளிவிபரங்களின் பிரகாரம் இலங்கையில் மூன்றில் ஒரு பகுதியினர் உணவு பற்றாக்குறையால் பாதிக்கப்பட்டுள்ளதாக அதில் குறிப்பிடப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/a390ed97.json)
 
 ---
 
@@ -2287,5 +2205,145 @@ Senior Attorney -at -Law Karunathilaka on behalf of the state and President's At
 [Data](articles/cc6b5659.json)
 
 [Extended Data](ext_articles/cc6b5659.ext.json)
+
+---
+
+### New rules for the indigenous people
+
+*2024-08-27 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200386) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Cabinet approves new law for indigenous people. Attorney General's Department involved in drafting. Justice Minister and Cultural Affairs Minister advised on legal aspects.
+
+🟩
+
+The proposal to develop a new law for the introduction of a new law for the introduction of a new law for the introduction of a new law for the introduction of a new law has been approved by the Cabinet.
+
+The Cabinet Meeting held in the Cabinet meeting held at the meeting of the Cabinet at the time of the respective.
+
+Accordingly, the officers of the Attorney General's Department and the Counsel Officers of the Attorney General's Department and the Legal Draftsmen, the Officers of the Attorney General's Department and the participation of the lawyers and the chief of the lawyers' participation in the relevant field and further enhanced the base of the primary draft.Have.
+
+The Minister of Justice and Constitutional Reforms and Constitutional Reforms have been approved by the Minister of Justice and Constitutional Reforms to advise legal drafts and the Cultural Affairs Minister to instruct legal drafts.
+
+◼️
+
+[Data](articles/4f115247.json)
+
+[Extended Data](ext_articles/4f115247.ext.json)
+
+---
+
+### Rear Admiral Kanchana Panagoda
+
+*2024-08-27 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/192127) · `ta`
+
+Here's a summary of Rear Admiral Kanchana Panagoda's appointment as the new Chief Officer of the Sri Lanka Navy in 200 characters:
+
+
+
+Rear Admiral Kanchana Panagoda appointed Chief Officer Sri Lanka Navy by President Ranil Wickremesinghe effective August 16, 2024. Appointment announced by Navy Commander Vice Admiral Priyantha Perera at Naval Headquarters on Monday.
+
+🟩
+
+Rear Admiral Kanchana Panagoda has been appointed as the new Chief Officer of the Sri Lanka Navy by President Ranil Wickremesinghe, the Commander of the Armed Forces.
+
+The Sri Lankan navy said his appointment was made with effect from August 16, 2024.
+
+The appointment was officially issued by Navy Commander Vice Admiral Priyantha Perera on Monday (26) at the Naval Headquarters.
+
+◼️
+
+[Data](articles/feb46553.json)
+
+[Extended Data](ext_articles/feb46553.ext.json)
+
+---
+
+### Dhanush directed 'Moon'
+
+*2024-08-27 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/192126) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Dhanush directs Moon; Pa Pandi, Rayan successful. Third film Mohakku Namku Namkam Namkam announced. Cousin Pavish debuts. Anika Surendran, Priya Prakash Warrior star. Priyanka Arul Mohan dances. Dhanush appears. Music by JV Prakash Kumar. First song release date announced.
+
+🟩
+
+Actor Dhanush is also directed by films. The two films released 'Pa Pandi' and 'Rayan' have been a commercial success.
+
+In this case, the film crew has announced a new information about the third film 'Mohakku Namku Namkam Namkam'.
+
+Dhanush's cousin Pavish makes his debut as the hero of the story of director Dhanush's upcoming film 'Nilakku Namkam Nanadi'.
+
+Anika Surendran, Priya Prakash Warrior, Mathew Thomas, Venkatesh Menon, Anbu Dasan and many others have been playing the role.. Also, leading star actress Priyanka Arul Mohan dances to one song. Dhanush, the director of the film, has acted in a special appearance.
+
+The film, which is being recorded by Lenin Brito, has composed music monster JV Prakash Kumar. Actor Dhanush has produced the film on behalf of Wunderbar Films.
+
+The film crew has been enthusiastically announced that the first song will be released on the thirtyth day of the film as the final work of the film is going on.
+
+...
+
+[Data](articles/02ee2bb6.json)
+
+[Extended Data](ext_articles/02ee2bb6.ext.json)
+
+---
+
+### Prajin starrer 'Sevakar'
+
+*2024-08-27 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/192123) · `ta`
+
+Here's a 200-character summary:
+
+
+
+'Sevakar' starring Prajin: Political thriller directed by Santosh Gopinath. Prajin plays a man fighting injustice. Narain involved in illegal activities. Story revolves around Prajin's experiences. Film nearing completion; teaser release imminent.
+
+🟩
+
+The film crew has said that the film 'Sevakar', which plays the role of actor Prajin's story - has become a political thriller.
+
+Directed by debutant director Santosh Gopinath, Prajin, Sahana, Bose Venkat, 'Akkalam' Narain, Madurai Saravanan, Udumalai Rajesh, Hema Shankar, Rupa, Sunil, Balu, Shaji Krishna, Sai Sankar and many others.
+
+Pradeep Nair has recorded the film. D. Mohan has composed the music. The film was produced by producer Rajan Joseph Thomas on behalf of Silver Movies International.
+
+The shooting of the film is currently being completed and the post -shooting technical work is underway. The film crew has said that the film's Burst Look and Teaser will be released soon.
+
+Following this, the director said, “Prajin, the hero of the story, is playing the role of a man who is against the country where the injustice and the iniquity of the country go.. Narain is engaged in illegal matters.
+
+...
+
+[Data](articles/3db423a1.json)
+
+[Extended Data](ext_articles/3db423a1.ext.json)
+
+---
+
+### Riots in Kolkata: Video
+
+*2024-08-27 14:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொல்கத்தாவில்-கலவரம்-காணொளி/175-342867) · `ta`
+
+Kolkata riots: Female doctor murdered, suspect arrested. Students protest demanding justice. Police use tear gas, batons. Four students detained. Rally planned for Wednesday.
+
+🟩
+
+The incident in Kolkata, a female training doctor, was raped and assassinated at the medical complex.. The main culprit has been arrested.
+
+In the meantime, student organizations are engaged in a protest on Tuesday (27) seeking justice for the murder of female doctor. This has caused great stir.#Watch |West Bengal: Police Detain Protestors from howrah Bridge. Big.Thviter.Kama/௦ Bow ௩ Gmmmupi - Team (@Team) August ௨௭, ௨௦௨௪
+
+The tip of the Howrah Bridge and the Chandrakachi railway station used the water bar to disperse the protesters and threw tear gas bombs. In addition, the police threw stones at the police and then the police attacked.
+
+West Bengal Training Doctors Association did not participate in today's rally towards the Secretariat. But, in Kolkata, it was invited to the largest rally on Wednesday (28). It is reported that the rally is to be held from Siambazar to Dharmadala
+
+...
+
+[Data](articles/401383e7.json)
+
+[Extended Data](ext_articles/401383e7.ext.json)
 
 ---

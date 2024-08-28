@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 17:21:50**
+As of **2024-08-28 17:37:19**
 
 ## Newspaper Stats
 
-*Scraped **43,055** Articles*
+*Scraped **43,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 399
 colombotelegraphcom | 415
 islandlk | 2,505
-economynextcom | 2,595
+economynextcom | 2,602
 dailyftlk | 2,795
 adalk | 3,982
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,052 (100.0%) of 43,055 articles have been extended.
+43,055 (100.0%) of 43,062 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,26 @@ A council spokesperson told the ABC Mr Yogalingham’s claim for refugee status 
 ...
 
 [Data](articles/894e587a.json)
+
+[Extended Data](ext_articles/894e587a.ext.json)
+
+---
+
+### South Korea explores investment opportunities in Sri Lanka; identifies RE, graphite
+
+*2024-08-28 17:00:00* · [`economynextcom`](https://economynext.com/south-korea-explores-investment-opportunities-in-sri-lanka-identifies-re-graphite-178231/) · `en`
+
+ECONOMYNEXT – South Korea has expressed interest in investment opportunities in Sri Lanka’s renewable energy (RE) sector and graphite, which has a strong demand in the East Asian nation.
+
+Kyungjin Song, Country Representative of the Asia Foundation Korea Office at a recent discussion titled “Economic Security in the Indian Ocean Region; Prospects for Collaboration between Sri Lanka and Republic of Korea” in Colombo last week suggested opportunities in renewable energy investments.
+
+She also noted that Sri Lanka’s graphite, an essential raw material for South Korea’s semiconductor, battery, and automobile industries, could be a valuable resource for future cooperation.
+
+The discussion, facilitated by Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI), was aimed at examining the lessons Sri Lanka could learn from Korea’s experience in science and technological innovation.
+
+...
+
+[Data](articles/cf36484d.json)
 
 ---
 
@@ -154,37 +174,53 @@ He is a 30 year old resident of the Iranamadu area in Kilinochchi.
 
 ---
 
-### கச்சதீவில் காப்பாற்றப்பட்ட இந்திய மீனவர்கள் துணை தூதரகத்தில் ஒப்படைப்பு!
+### Indian fishermen rescued in Kachchativu handed over to the Embassy
 
 *2024-08-28 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/192238) · `ta`
 
-கச்சதீவுக்கு அண்மையில் மீன்பிடி நடவடிக்கைகளில் ஈடுபட்டுக் கொண்டிருந்தபோது படகு கவிழ்ந்து விபத்துக்குள்ளான நிலையில் காப்பாற்றப்பட்ட இரண்டு இந்திய மீனவர்களும் இன்று புதன்கிழமை (28)  யாழ்ப்பாணம் இந்திய துணைத் தூதரகத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+Here's a summary of the article in 200 characters:
 
-நான்கு மீனவர்களுடன் மீன்பிடியில் ஈடுபட்டுக் கொண்டிருந்த படகு ஒன்று நேற்று செவ்வாய்க்கிழமை (27)  தண்ணீரில் மூழ்கி விபத்துக்குள்ளானது.
 
-இந்நிலையில் அங்கு ரோந்து பணியில் ஈடுபட்டுக் கொண்டிருந்த கடற்படையினர் இரண்டு மீனவர்களை மீட்டுள்ளதோடு, அத்துடன்   காணாமல் போன மற்ற இரண்டு மீனவர்களையும் தேடும் பணிகளில் ஈடுபட்டு வருகின்றனர்.
 
-இந்நிலையில் அவர்கள் இன்றையதினம் குமுதினி படகு மூலம் குறிகட்டுவானுக்கு கொண்டுவரப்பட்டு, அங்கிருந்து அழைத்துச் செல்லப்பட்டு யாழ்ப்பாண இந்திய துணை தூதரகத்தில் ஒப்படைக்கப்பட்டனர்.
+"Two Indian fishermen rescued after boat crash off Kachchativu. Navy saved two, searching for others. Handed over to Jaffna Indian Embassy. To be sent to India via Palali Airport tomorrow."
 
-அவர்கள் இருவரையும் நாளையதினம் பலாலி விமான நிலையமூடாக இந்தியாவிற்கு அனுப்புவதற்கான நடவடிக்கைகளை யாழ்ப்பாண இந்திய துணை தூதரகம் முன்னெடுத்து வருகிறது.
+🟩
+
+Two Indian fishermen have been handed over to the Indian Embassy in Jaffna on Wednesday (28).
+
+A boat engaged in fishing with four fishermen crashed into a water on Tuesday (27).
+
+In this case, the navy has rescued two fishermen and are searching for the other two missing fishermen.
+
+In this case, they were brought to the indicatan by the Kumudini boat today and were taken away from the Indian Embassy in Jaffna.
+
+The Jaffna Indian Embassy is taking steps to send them both of them to India through the Palali Airport tomorrow.
 
 ◼️
 
 [Data](articles/b1e17af0.json)
 
+[Extended Data](ext_articles/b1e17af0.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலில் போட்டியிட ரணில் தகுதியற்றவர் என அறிவிக்கக் கோரி தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனு உயர் நீதிமன்றத்தால் நிராகரிப்பு
+### Supreme Court rejected the fundamental rights violation filed by the Supreme Court seeking to declare Ranil as ineligible to contest the presidential election
 
 *2024-08-28 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/192237) · `ta`
 
-பதில் பொலிஸ் மா அதிபரை நியமிக்கத் தவறியமை மற்றும் உயர் நீதிமன்றத்திற்கும் மேன்முறையீட்டு நீதிமன்றத்திற்கும் நீதியரசர்களை நியமிக்காமை என்பவற்றின் அடிப்படையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவை ஜனாதிபதி தேர்தலில் போட்டியிட தகுதியற்றவர் என அறிவிக்கக் கோரி தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனுவை, விசாரணைக்கு எடுத்துக்கொள்ள  உயர் நீதிமன்றம் நிராகரித்துள்ளது.
+Supreme Court rejects Ranil Wickremesinghe's eligibility challenge for presidential election due to police chief and judge appointments. Petitioner fined 50,000 rupees for false information. Case violates constitutional article 92.
 
-நீதிமன்ற கட்டணமாக 50,000 ரூபாய் செலுத்துமாறும் மனுதாரருக்கு  உத்தரவிடப்பட்டுள்ளதுடன் மனுதாரர்கள் நீதிமன்றத்திற்கு பொய்யாக தகவல்களை சமர்ப்பித்துள்ளதாகவும், அந்த மனு  அரசியலமைப்பின் 92ஆவது சரத்தை மீறுவதாகவும் இருப்பதாக சட்டமா அதிபர் சார்பில் ஆஜரான மேலதிக சொலிசிட்டர் ஜெனரல் நெரின் புள்ளே  இதன் போது ஆட்சேபனை தெரிவித்தார்.
+🟩
+
+In response, the Supreme Court has rejected the hearing of the fundamental rights violation petition filed by President Ranil Wickremesinghe to contest the presidential election on the basis of failing to appoint the Inspector General of Police and the appointment of judges to the High Court and the Court of Appeal.
+
+The petitioner has been ordered to pay 50,000 rupees as a court fee and the petitioners have submitted false information to the court and that the petition is violating the 92nd Article of the Constitution.
 
 ◼️
 
 [Data](articles/987bf50d.json)
+
+[Extended Data](ext_articles/987bf50d.ext.json)
 
 ---
 
@@ -237,6 +273,40 @@ Member of Parliament arrested for this discussion. Weerasinghe said,
 [Data](articles/00ef8a1b.json)
 
 [Extended Data](ext_articles/00ef8a1b.ext.json)
+
+---
+
+### Sri Lanka’s central bank chief cautions against deviation from reform agenda
+
+*2024-08-28 16:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-chief-cautions-against-deviation-from-reform-agenda-178226/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s economy has returned to normal to a great extent in a short period of time, Central Bank Governor Nandalal Weerasinghe said, noting that restoration of macroeconomic stability was a key driver and warning against a deviation from the ongoing reform agenda.
+
+Speaking at an event on Monday August 26, Weerasinghe said the progress made is not by chance but is the result of coordinated, transparent, and robust measures undertaken by the Central Bank of Sri Lanka (CBSL) and the government, supported by numerous public and private stakeholders  as well as international agencies and lenders and our creditors.
+
+...
+
+[Data](articles/91fbd3b2.json)
+
+---
+
+### Sri Lanka Treasury yields slightly up, more 3-months sold
+
+*2024-08-28 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-yields-slightly-up-more-3-months-sold-178227/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields yield edged up slightly at Wednesday’s auction, with all offered 100 billion rupees of securities sold, data from the state debt office showed.
+
+52.1 billion rupees of 3-month bills were sold at 9.49 percent, up 07 basis points with 50 billion offered.
+
+44.5 billion rupees of 6-month bills were sold at 9.84 percent, up 04 basis points with 30 billion rupees sold.
+
+Only 3.3 billion rupees of 12-month bills were sold at 10.01 percent, unchanged, after offering 20 billion rupees.
+
+Investors preferred the short end due to political uncertainty, market participants said. (Colombo/Aug28/2024)
+
+◼️
+
+[Data](articles/d0af9fd9.json)
 
 ---
 
@@ -552,6 +622,24 @@ The Court has decided to suspend the lawyers of Dharmasiri Karunaratne, who has 
 
 ---
 
+### Opposition NPP manifesto a “wish list”, says Sri Lanka state finance minister
+
+*2024-08-28 14:04:00* · [`economynextcom`](https://economynext.com/opposition-npp-manifesto-a-wish-list-says-sri-lanka-state-finance-minister-178222/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s State Minister of Finance Shehan Semasinghe has called leftist presidential candidate Anura Kumara Dissanayake’s election manifesto a wish list that does not reflect ground reality.
+
+“Sorry to say the the National People’s Power (NPP)’s manifesto is just a wish list. It is a wish list that does not reflect ground reality,” Semasinghe said, speaking at a press conference on Wednesday August 28.
+
+He also claimed that the NPP has copied certain aspects of its reform proposals from President Ranil Wickremesinghe, whose candidacy Semasinghe supports.
+
+“They have proposed certain reform programmes. I checked this to see if there are any reforms that are different to those carried out by President Wickremesinghe. I cannot understand how the JVP became so bankrupt as to copy other people and present someone else’s thing as theirs,” he said.
+
+...
+
+[Data](articles/172d3778.json)
+
+---
+
 ### 1386 families living in danger of landslides
 
 *2024-08-28 14:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாயத்துடன்-வசிக்கும்-1386-குடும்பங்கள்/175-342920) · `ta`
@@ -599,6 +687,22 @@ The suspect and the cell phones have been handed over to the foam police for fur
 [Data](articles/eb5c71c0.json)
 
 [Extended Data](ext_articles/eb5c71c0.ext.json)
+
+---
+
+### Sri Lanka Supreme Court nixes case against Wickremesinghe candidacy
+
+*2024-08-28 13:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-supreme-court-nixes-case-against-wickremesinghe-candidacy-178223/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Supreme Court has rejected a petition that challenged the eligibility of Ranil Wickremesinghe to contest in the upcoming Presidential polls, his media office said.
+
+The petitioners had cited failure to appoint an Acting Inspector General of Police after a court order suspended the incumbent, as well as judges of the Supreme Court and Court of Appeal.
+
+The petitioner was ordered to pay 50,000 rupees a court fees. (Colombo/Aug28/2024)
+
+◼️
+
+[Data](articles/9486ce5b.json)
 
 ---
 
@@ -701,6 +805,26 @@ A top police official said 5,000 police personnel were deployed to quell any vio
 [Data](articles/b9f88e04.json)
 
 [Extended Data](ext_articles/b9f88e04.ext.json)
+
+---
+
+### Sri Lanka’s LTL group starts 220MW gas turbine of LNG capable IPP
+
+*2024-08-28 13:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-ltl-group-starts-220mw-gas-turbine-of-lng-capable-ipp-178219/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has declared open the first phase of a 350 MW liquefied natural gas capable combined cycle plant built by Sri Lanka’s LTL group, his media office said.
+
+The open cycle (gas turbine) section of the plant is 220 MegaWatts according to the LTL website.
+
+The steam turbine which would come into operation later would be 130MW.
+
+Dubbed ‘Sobadhanavi’ the plant would initially run on liquid fuel.
+
+LTL has struck a deal with India’s Petronet LNG to supply LNG from later. (Colombo/Aug28/2024)
+
+◼️
+
+[Data](articles/269acfce.json)
 
 ---
 
@@ -895,6 +1019,28 @@ Accordingly, the of price a 50 kg bag of fertilizer will be reduced from Rs. 9,5
 [Data](articles/80e20592.json)
 
 [Extended Data](ext_articles/80e20592.ext.json)
+
+---
+
+### Sri Lanka government would be owed Rs656bn for CPC debt taken over by end 2024
+
+*2024-08-28 12:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-would-be-owed-rs656bn-for-cpc-debt-taken-over-by-end-2024-178205/) · `en`
+
+ECONOMYNEXT – There will be owed 656 billion rupees of debt taken over by Sri Lanka’s central government to be offset by taxes on fuel by the beginning of 2025, Energy Minister Kanchana Wijesekera said.
+
+The Treasury took over 1,200 billion rupees of debt (3.4 billion US dollars) in 2022 and a 25 rupee tax was imposed on fuel, he said in a twitter.com message.
+
+At the end of it is estimated that 656 billion rupees will remain to be offset by taxes, Wijesekera said.
+
+At this rate it would take another four years (2029) to offset the debt, he said.
+
+Wijesekera was responding to comments made by National Peoples’ Power leader Anura Dissanayake.
+
+The CPC ended up with large volumes of debt partly due to forex shortages coming from flexible inflation targeting (cutting rates with inflationary open market operations claiming that historical 12-month inflation index was below 5-oct) with a peg.
+
+◼️
+
+[Data](articles/0e8141da.json)
 
 ---
 
@@ -2285,179 +2431,5 @@ Central Bank Governor Nandalal Weerasinghe has said that the country's current a
 [Data](articles/c0494b74.json)
 
 [Extended Data](ext_articles/c0494b74.ext.json)
-
----
-
-### Elections of Elpitiya Pradeshiya Sabha: Applications for postal voting will be accepted till September 13 - Elections Commission
-
-*2024-08-28 03:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/192179) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Elpitiya Pradeshiya Sabha elections postal voting application deadline Sept 13. Eligible voters can apply Aug 26 to Sep 9. Applications after deadline won't be accepted. Local authorities, government officials, school staff, transport officers, postal workers, railway staff, civil security force members can vote by post. Applications should be submitted to Galle District Elections Office before Sept 13.
-
-🟩
-
-Those who are eligible to vote for postal Elpitiya Pradeshiya Sabha elections in the Galle District can apply from 26.08.26 to 2024.09.09.09.09.. The Elections Commission has announced that applications available after the date will not be accepted.
-
-During the election, the local authorities are registered as the seat of the Elections and all government officials, employees, school principals, teachers, Sri Lanka Transport Board Officers, Staff, Postal Department Officers and Staff, Railway Department Officers, Staff, StaffMembers of the Civil Security Force involved in security services and
-
-The number of candidates who are likely to go to the polling station due to the candidation or vote or do so, and the information is urged by the selectors of the Elpitiya Pradeshiya Sabha when they submit their applications without delay until the end of the period of submitting voting.
-
-...
-
-[Data](articles/e3ee3edf.json)
-
-[Extended Data](ext_articles/e3ee3edf.ext.json)
-
----
-
-### JR, Ranasinghe Premadasa does not make party politics significant - President Ranil Wickremesinghe
-
-*2024-08-28 03:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/192178) · `ta`
-
-President Ranil Wickremesinghe emphasizes unity over party politics, citing JR Jayewardene and Ranasinghe Premadasa's examples. He aims to stabilize the economy and reduce citizens' burdens through increased income and exports.
-
-🟩
-
-I still follow the policy of JR Jayawardena, who has taught the party to forget the party when it is in crisis. President Ranil Wickremesinghe said that anyone who truly respects him and Ranasinghe Premadasa will not be important to party politics.
-
-Speaking at the election campaign meeting held in Mawanella on Tuesday (27), he said this
-
-My leader JR Jayawardena has taught that when the country is in crisis, forget the party and think for the country. 1971 JVP. The then Opposition Leader said that we should support the government on this occasion to protect the population when the riots took place.
-
-On that occasion, the secretary of our party's youth team and the son of JR Jayawardena were imprisoned. However, he said that the problems can be resolved later and that we will solve the problems in the country.. Similarly in 1983, the JVP. Despite the riots, the then opposition was cooperating with President Ranasinghe Premadasa.
-
-...
-
-[Data](articles/b1f7d4dc.json)
-
-[Extended Data](ext_articles/b1f7d4dc.ext.json)
-
----
-
-### Accident on Mannar
-
-*2024-08-28 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/192177) · `ta`
-
-Motorcycle crash in Mannar: Three injured, hospitalized. Collision occurred on Mannar-Madhavachi main road. Injured taken to Murugan Hospital and Mannar District General Hospital for treatment.
-
-🟩
-
-Three persons have been admitted to the Mannar District General Hospital after a motorcycle crashed into a motorcycle in the Mannar area.
-
-Two motorcycles and a motorcycle collided with a motorcycle collision in the Mannar-Madhavachi main road, Uilangulam area.
-
-It was reported that the injured were immediately taken to the Murugan Hospital and then sent to the Mannar District General Hospital for further treatment.
-
-It is reported that the two men from the Mannar area are from the western part of the Manthai.
-
-◼️
-
-[Data](articles/8c77a9e4.json)
-
-[Extended Data](ext_articles/8c77a9e4.ext.json)
-
----
-
-### Great struggle in Kilinochchi on August 30, the International Day of the Disappeared
-
-*2024-08-28 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/192176) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Massive protest planned in Kilinochchi on Aug 30, International Day of the Disappeared. Rally from Kandaswamy Temple to Depot Junction. Supported by political parties, civil society, universities. Relatives in Jaffna and Trincomalee also protesting.
-
-🟩
-
-The Northeastern Provincial Association of the Disappeared has announced that a massive struggle will be launched in Kilinochchi on August 30, the International Day of the Disappeared.
-
-At 9.30 am on the 30th of this month, the Kandaswamy Temple in Kilinochchi begins in front of the Kandaswamy Temple and the rally will be held to the Depot Junction and will be handed over to the United Nations Human Rights Council.
-
-In the struggle, all political parties, civil society, public organizations, university students and associations have been asked to support all parties.
-
-At the same time, relatives of the missing in Jaffna and Trincomalee on the 30th are to carry out protests.
-
-◼️
-
-[Data](articles/a21ca1a8.json)
-
-[Extended Data](ext_articles/a21ca1a8.ext.json)
-
----
-
-### Member of Parliament Wimalaweera Dissanayake and many other local government representatives support the President
-
-*2024-08-28 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/192175) · `ta`
-
-Sri Lanka politicians support President Ranil Wickremesinghe, warning against unrest and constitutional crisis if he loses.
-
-🟩
-
-If President Ranil Wickremesinghe does not appoint President Ranil Wickremesinghe as the president of this country, the people on the streets have been assaulted on the streets, the courts are closed, the constitutional burning, and that Sri Lanka will become another blood -bodied Bangladesh..
-
-He pointed out that he had decided to exclude his personal positions and committed to the victory of President Ranil Wickremesinghe in this presidential election.
-
-Former Chairman of the Uhanna Pradeshiya Sabha, former Vice President Jagath Deshapriya, former Chairman of the Tehiyakanda Pradeshiya Sabha, Sukat Jadungarachchi and former Chairman of the Mahoya Pradeshiya Sabha, Indika Nilantha, are on the occasion of President Ranil Wickremesinghe's campaign office located on Monday (26th. Meanwhile, the MP Vimalaweera Dissanayake promised that the MP was committed to the president's victory.
-
-...
-
-[Data](articles/fdd4e50f.json)
-
-[Extended Data](ext_articles/fdd4e50f.ext.json)
-
----
-
-### President, Ramanya Peeta Mahanayaka Thera on the discussion with Tamil MPs on the North and East Development
-
-*2024-08-28 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/192174) · `ta`
-
-Sri Lanka President Ramanya Maha Petta Mahanayaka Thera discusses economic recovery, education, land issues, and Northern-Eastern Province development with Tamil MPs during meeting with Ramanya Maha Nikaya monks.
-
-🟩
-
-The President explained the discussions with the Tamil MPs on the North and East Development, the President of Sri Lanka Ramanya Maha Petta Mahanayaka Thera.
-
-President Ranil Wickremesinghe, who visited the headquarters of Sri Lanka Ramanya Maha Nikaya on Tuesday (27), met with the Mahanayaka Thera of Ramanya Maha Nikaya, where he met with Maulaway Vimala Nayaka Thera.
-
-After the president started his election process, thus met Ramanya Maha Nikaya's Maha Nayaka Thera. Vanasiri Thera, Deputy General Secretary Akurella Gunawansa Thera, Deputy General Secretary Van, Vunduwewa Dammangsa Thera, Deputy Justice Secretary Van, Halbanwila Palitha Thera
-
-At this time, the Mahasangam recited the British and expressed their blessings to the president's future tasks.
-
-The President then discussed with the Maha Sangam for some time and made it clear to the Maha Sangha on the country's economic recovery and future plans.
-
-...
-
-[Data](articles/a3c0aac8.json)
-
-[Extended Data](ext_articles/a3c0aac8.ext.json)
-
----
-
-### Trying to show that the model has improved
-
-*2024-08-28 02:19:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேற்றம்-கண்டுள்ளதாக-காண்பிக்க-முயற்சி/175-342900) · `ta`
-
-Sri Lankan government claims economic reform progress and improved human rights. UN reports contradict, stating increased poverty and food shortages. Basic independence threatened.
-
-🟩
-
-The Human Rights Watch Agency says the Sri Lankan government is trying to show international partners on the improvement of economic reforms and human rights.
-
-The statement issued by the United Nations High Commissioner has stated that there are further threats to Sri Lanka's basic independence.
-
-The Human Rights Monitoring Organization has issued a report citing the United Nations Human Rights Commissioner's report that poverty has doubled in Sri Lanka due to the economic crisis of 2022.
-
-According to the United Nations statistics, one -third of Sri Lanka has been affected by food shortages.. (A)
-
-◼️
-
-[Data](articles/a390ed97.json)
-
-[Extended Data](ext_articles/a390ed97.ext.json)
 
 ---

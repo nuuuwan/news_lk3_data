@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 13:21:43**
+As of **2024-08-28 13:37:18**
 
 ## Newspaper Stats
 
-*Scraped **43,019** Articles*
+*Scraped **43,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,595
 dailyftlk | 2,795
-adalk | 3,977
+adalk | 3,978
 dailymirrorlk | 4,733
 adaderanalk | 5,060
-tamilmirrorlk | 5,606
+tamilmirrorlk | 5,608
 virakesarilk | 6,845
-adaderanasinhalalk | 7,367
+adaderanasinhalalk | 7,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,019 (100.0%) of 43,019 articles have been extended.
+43,019 (100.0%) of 43,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### ජනපති සත්කෝරලයේ මහා සංඝ සමුළුව අමතයි
+
+*2024-08-28 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200414) · `si`
+
+දැනට ක්‍රියාත්මක ආර්ථික වැඩපිළිවෙළ අතරමඟ නැවතුණහොත් රට අර්බුදයට යන බවත්, මෙවර ජනාධිපතිවරණය තීන්දු කරන්නේ තම අනාගතය නොව රටේ අනාගතය බවත්  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+කුරුණෑගල පැවති සත්කෝරල මහා සංඝ සමුළුව අමතමින් ජනාධිපතිවරයා ඒ බව ප්‍රකාශ කළේය.
+
+"ජනාධිපති ධුරය භාරගනිද්දිත් සංඝරත්නයේ ආශිර්වාද ලබාගත්තා. එතනින් තමයි වැඩ ආරම්භ කළේ. වෙන කවුරුත් භාරගන්න බැහැ කියපු වෙලාවක මම භාරගත්තේ. 2019 භාරදෙනකොට දළ දේශීය නිෂ්පාදනය අ.ඩො.බි. 89යි. මම ආයෙත් භාරගන්නකොට අ.ඩො.බි. 76යි. අ.ඩො.බිලියන13කින් අඩු වෙලා.
+
+2019දි විදේශ විනිමය සංචිතයේ අ.ඩො.බි.7ක් තිබුණා. ආයෙත් භාරගන්නකොට අ.ඩො. මිලියන 100ක් වත් නැහැ. අපිට තෙල්, පොහොර, බෙහෙත් තිබුණේ නැහැ. 2022 වුණ දේ සමහර අයට අමතක වෙලා. මෙතනින් ඉදිරියට යන්නේ කොහොමද කියලා ජනාධිපතිවරණයේදි තීරණය වෙයි. මේ වැඩපිළිවෙළ ඉදිරියට ගෙනියන්න ඕන නිසා මම ඉදිරිපත් වුණා. ආර්ථික ස්ථාවරභාවය තහවුරු කරන්න ඕන. ජනතාව තවමත් අමාරුවෙන් ඉන්නේ. සමහරු කියනවා බදු අඩු කරනවාලු. ආදායම් අඩු වුණොත් ගිවිසුම් කැඩෙනවා.
+
+...
+
+[Data](articles/0f51fa8b.json)
+
+---
+
+### මාලදිවයින දරුණු ආර්ථික අර්බුදයක
+
+*2024-08-28 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200415) · `si`
+
+මාලදිවයින ඉතිහාසයේ පළමුවරට එරට ඩොලර් සංචිත පහත වැටීම හේතුවෙන් මාලදිවයින දරුණු ආර්ථික අර්බුදයකට මුහුණ දී සිටී.
+
+එරට පවතින පරිභෝජනයට ගතහැකි ඩොලර් සංචිත එක් මාසයක ආනයන කටයුතු වෙනුවෙන් හෝ ප්‍රමාණවත් නොවන බව විදෙස් වාර්තා පෙන්වා දෙයි.
+
+මාලදිවයින ආර්ථිකය මූලිකව සංචාරක කර්මාන්තය, ධීවර කර්මාන්තය සහ මුහුදු මාර්ග ඔස්සේ භාණ්ඩ ප්‍රවාහනය හාරහා කේන්ද්‍රගතව පවතී.
+
+කලකදී ලොව සරලම බදු කේතය සහිත රට ලෙස සැලකුණු මාලදිවයිනේ බදුකරණය මේ වනවිට පවතින්නේ මාලදිවයින දේශීය ආදායම් බදු අධිකාරිය යටතේ ය.
+
+අමතර ඩොලර් සංචිත නොමැති වුවහොත් අයවැය කළමනාකරණය කර ගැනීම රජයට අපහසුවනු ඇතැයි මාලදිවයින මූල්‍ය අධිකාරිය මෙම වසර ආරම්භයේදීම අනතුරු ඇඟවා තිබේ.
+
+කෙසේ වුවද පුරෝකථන නොසලකා හරිමින් කටයුතු කිරීම හේතුවෙන් එරට වත්මන් ජනාධිපති මොහොමඩ් මුයිසුගේ රජය යටතේ මාලදිවයින මේ වනවිට අනපේක්ෂිත ආර්ථික අර්බුදයකට මුහුණ දෙමින් සිටින බව වාර්තා වේ.
+
+ඒ එරට ඉතිහාසයේ පළමුවරට භාවිත කළ හැකි ඩොලර් සංචිත ක්ෂය වෙමින් පැවතීම හේතුවෙනි.
+
+...
+
+[Data](articles/6a4d219d.json)
+
+---
 
 ### Take Passport by police tokens
 
@@ -83,6 +125,26 @@ While firefighting teams managed to bring the fire largely under control by this
 [Data](articles/b142a0e9.json)
 
 [Extended Data](ext_articles/b142a0e9.ext.json)
+
+---
+
+### ஹக்கீம், ரிஷாத் கிழக்கு மண்ணுக்கு வேண்டாம்
+
+*2024-08-28 12:11:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹக்கீம்-ரிஷாத்-கிழக்கு-மண்ணுக்கு-வேண்டாம்/175-342915) · `ta`
+
+ஏமாற்றுத் தலைமைகள் ஹக்கீம், ரிஷாத் கிழக்கு மண்ணுக்கு வேண்டாம் என்ற சுவரொட்டிகள் கிழக்கில் ஒட்டப்பட்டுள்ளமை பரபரப்பை ஏற்படுத்தியுள்ளது.
+
+அம்பாறை மாவட்டத்தின் முஸ்லீம் மக்கள் செறிந்து வாழும் பல்வேறு பகுதிகளில் இவ்வாறான சுவரொட்டிகள் பரவலாக ஒட்டப்பட்டுள்ளன.
+
+ஜனதிபதி தேர்தல் செப்ரெம்பர் 21 ஆம் திகதி நடைபெறவுள்ள நிலையில்   2024 ம் ஆண்டுக்கான ஜனாதிபதி தேர்தல் சூடுபிடித்துள்ளது. ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவு வழங்க அம்பாறை மாவட்டம் மற்றும் கிழக்கு மாகாணங்களில் எதிர்ப்புகள் எழுந்த வண்ணமுள்ளன.
+
+ரவுப் ஹக்கீம் தலைமையிலான ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் மற்றும் ரிஷாத் பதியுதீன் தலைமையிலான அகில இலங்கை மக்கள் காங்கிரஸ் ஆகிய கட்சிகள் தமது ஆதரவினை ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு வழங்கியிருந்தனர்.
+
+மேலும் கிழக்கில்  ஏமாற்றுத் தலைமைகள் ஹக்கீம், ரிஷாத் கிழக்கு மண்ணுக்கு வேண்டாம் என்ற சுவரொட்டிகளும் கிழக்கு மாகாணத்தில் பரவலாக ஓட்டப்பட்டுள்ளது.
+
+...
+
+[Data](articles/97e5a7c0.json)
 
 ---
 
@@ -281,6 +343,18 @@ It is also a special feature that a group of activists, including the organizer 
 [Data](articles/6f197d97.json)
 
 [Extended Data](ext_articles/6f197d97.ext.json)
+
+---
+
+### සොබාදනවි පළමු අදියර ජනපති අතින් විවෘත කෙරේ
+
+*2024-08-28 11:23:41* · [`adalk`](https://www.ada.lk/breaking_news/සොබාදනවි-පළමු-අදියර-ජනපති-අතින්-විවෘත-කෙරේ/11-411605) · `si`
+
+කෙරවල පිටිය ‘ස්බාදනවි’ බලාගාරයේ පළමු අදියට අද(28දා) ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් විවෘත කරනු ලැබිණි.
+
+◼️
+
+[Data](articles/69d00c6e.json)
 
 ---
 
@@ -855,6 +929,26 @@ Those who claim to have reduced the taxes and make more concessions should be sa
 [Data](articles/4a8d35b9.json)
 
 [Extended Data](ext_articles/4a8d35b9.ext.json)
+
+---
+
+### ’வரி குறைப்பு அபாயகரமானது’
+
+*2024-08-28 08:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வரி-குறைப்பு-அபாயகரமானது/150-342905) · `ta`
+
+தற்போது வரி குறைப்பை மேற்கொள்வது மிகவும் அபாயகரமானது என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+மாவனல்லை பகுதியில் நேற்று இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இதனைக் குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+
+சிலர் வரி குறைப்பை மேற்கொள்வதாகப் பிரசாரம் செய்கின்றனர்.  மாற்று வரிகளின்றி நாட்டை எவ்வாறு முன்னோக்கிக் கொண்டு செல்ல முடியும். அவர்கள் பாலத்தை உடைத்துக் கொண்டு பயணிக்குமாறு கூறுகின்றனர். பாலத்தை உடைத்துக் கொண்டு பயணித்தால் அனைவரும் ஆற்றில் விழ நேரிடும்.
+
+தேசிய மக்கள் சக்தியின் விஞ்ஞாபனத்தில் உள்ள திட்டங்களைச் செயற்படுத்தினால் நாட்டுக்கு சுமார் 200 பில்லியன் ரூபா  இல்லாது போகும்.
+
+வரிகளைக் குறைத்து அதிக சலுகைகள் தருவதாகக் கூறுபவர்களுக்கு அடிப்படை கணிதம் கூட தெரியாது என்றே கூற வேண்டும் என்றார். (a)
+
+◼️
+
+[Data](articles/ddb84948.json)
 
 ---
 
@@ -2323,141 +2417,5 @@ It is reported that the election manifesto entitled Pulwan Sri Lanka (Can Sri La
 [Data](articles/9bb7878b.json)
 
 [Extended Data](ext_articles/9bb7878b.ext.json)
-
----
-
-### Indian punished in Sri Lanka and fined in Sri Lanka
-
-*2024-08-27 19:28:22* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-තරග-පාවාදෙන්න-බලපෑම්-කළ-ඉන්දියානුවට-ලංකාවේදී-සිර-දඩුවම්-හා-දඩ/9-411598) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka High Court Judge Wimalasiri sentences Indian national to 10 years imprisonment and hefty fine for pressuring foreign cricketers during a match. This case marks the first conviction under the Sports Fraud Act.
-
-🟩
-
-High Court Judge Wimalasiri, a majority of the Indian Parjar group manager who was imprisoned to the pressure of the cricket match, was also staged a million millionaire fine.
-
-The judge that the judge has filed a serious four-year sentence sentenced to the defendant for 10 years, the judge has been sentenced to a serious jurisdiction in four years.
-
-The Indian Royal Pachulia Akasha, the Manager of the Indians, who had guilty of pressure on foreign players to betray foreign players in the Pallekele International Cricket Stadium, punished.
-
-This is the first time that this is the first time that a person who has been accused of betrayal of match betrayal of the sports fault bill.
-
-In March, 2024, the Attorney General has filed suicide under the Tropics to betray the TRAILLATION TROPPSD and the Blueftest Blueman blue Blitha in March 2024.
-
-The judge sentenced to four years sentenced to death for four years due to the accusations of the accused, due to the guidance of the accused.
-
-...
-
-[Data](articles/00fb8c0f.json)
-
-[Extended Data](ext_articles/00fb8c0f.ext.json)
-
----
-
-### Chamuditha Samarawickream assassination discussion at the CID
-
-*2024-08-27 19:22:17* · [`adalk`](https://www.ada.lk/breaking_news/චමුදිත-සමරවික්‍රම-ඝාතන-සාකච්ඡාව-ගැන-විමර්ශන-සී-අයි-ඩීයට/11-411597) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-CID investigates Chamuditha Samarawickrama assassination claim. Drug dealers linked to Dubai flee. Piliyandala Police involved. CID probes allegations.
-
-🟩
-
-The Investigation Criminal Investigation Department (CID) said that a group of drug dealers who fled to Dubai and hide in the area of ​​veteran journalist Chamuditha Samarawickrema said.
-
-Chamuditha Samarawickrema was lodged by the Piliyandala Police after his complaint was detected by his complaint, the direction of the anti-Corruption Corruption was completed 24 hours after his complaint had been revealed to the piliyila police over 24 hours.The Piliyandala Police had acted in a statement.
-
-Mr. Chamithuditha had said that he had stated that Namaditha had stated that he was ready to provide information on the video to the Sri Lankan security forces.
-
-"The Rajapaksas' fabrics have been the subject of a Sri Lankan friend who had been informed on the phone that he had been informed on the phone that he had been informed on the next 21 night, he had written to him on the phone that he had been informed by the phone.The complaint was mentioned.
-
-...
-
-[Data](articles/68b85604.json)
-
-[Extended Data](ext_articles/68b85604.ext.json)
-
----
-
-### MPs to give 2 firearm
-
-*2024-08-27 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200395) · `si`
-
-Sri Lanka government provides 2 firearms per MP due to increasing violence against legislators.
-
-🟩
-
-Cabinet Spokesperson Minister Bandula Gunawardena says that the government has decided to receive two firearms to parliamentarians.
-
-The firearms will be provided with the loss of the MP.
-
-The Minister was responding to a question raised by a journalist at a press briefing to inform the Cabinet at a press briefing today (27).
-
-"We know the violence in the last struggle and then translated into a serious black stain in history. A Member of Parliament has been tortured and killed by a group of people and 72 members of the legislature will set fire to 12 hours.. After that, the Parliament was fully burned and destroyed a massive conspiracy to anarchy.
-
-26 MPs were killed in this incident worse in Bangladesh.
-
-There is no confidence that that is not like that now. Because violence has continuously increased in the past. As such, the government has made a decision to give two firearms to get two firearms as we lose the post of MP. "
-
-◼️
-
-[Data](articles/10a7b8bf.json)
-
-[Extended Data](ext_articles/10a7b8bf.ext.json)
-
----
-
-### “They have to join both”
-
-*2024-08-27 19:21:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவர்கள்-இருவரும்-இணைய-வேண்டும்/175-342882) · `ta`
-
-Rajitha Senaratne suggests joining forces between Ranil Wickremesinghe, Sajith Premadasa, and Dalada Athukorala. He believes Dalada's proposal is the best solution despite some UNP members' frustration with UPF's growth. Some SJB members may switch parties during the presidential election campaign.
-
-🟩
-
-Parliamentarian Rajitha Senaratne said that President Ranil Wickremesinghe and Sajith Premadasa should be joined by former parliamentarian Dalada Athukorala.
-
-"I tried to convince Premadasa to cooperate with Wickremesinghe and the United National Party, but he was against this move. It must be said that Dalada presented the best idea, ”Senaratne said at a press conference.
-
-The parliamentarian said that even though some members are frustrated by the development of the United People's Power, which is frustrated by the development of the party, they are still reluctant to make Premadasa.
-
-"However, some SJB members are waiting to switch to the party. They will do it when the presidential election campaign is still hot, ”he added.
-
-◼️
-
-[Data](articles/4515c7bc.json)
-
-[Extended Data](ext_articles/4515c7bc.ext.json)
-
----
-
-### Opposition Leader Sajith Premamasa
-
-*2024-08-27 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/192166) · `ta`
-
-Sajith Premadasa announces plans for Amparai: setting up production plants, improving agriculture, distributing fertilizer, implementing IT education, and providing welfare payments to combat poverty.
-
-🟩
-
-Under the United People's Power, the production plants will be set up in all 4 constituencies in Amparai. Opposition leader Sajith Premamasa said steps would be taken to improve the livelihood of the people through them.
-
-He was speaking at the election campaign meeting held on Tuesday (27) in the Alayadivembu area.
-
-We will provide a high -quality fifty kilogram of relationship to 5000 rupees. When providing fertilizer we will distribute them with formal planning without accommodating the black market mafias. We will also take steps to provide liquid fertilizer at reasonable prices.
-
-Steps will be taken to build a declined agriculture due to the infection of the country, the survivor Sunday attacks and the economic crises of the country.. Credit will be waived for the affected farmers.
-
-...
-
-[Data](articles/d5e65c1b.json)
-
-[Extended Data](ext_articles/d5e65c1b.ext.json)
 
 ---

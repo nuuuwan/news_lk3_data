@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 22:10:43**
+As of **2024-08-28 22:23:21**
 
 ## Newspaper Stats
 
-*Scraped **43,096** Articles*
+*Scraped **43,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,607
 dailyftlk | 2,795
 adalk | 3,988
 dailymirrorlk | 4,733
-adaderanalk | 5,070
+adaderanalk | 5,071
 tamilmirrorlk | 5,618
 virakesarilk | 6,852
 adaderanasinhalalk | 7,389
@@ -26,53 +26,91 @@ adaderanasinhalalk | 7,389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,094 (100.0%) of 43,096 articles have been extended.
+43,096 (100.0%) of 43,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### வடக்கிலும் கிழக்கிலும் குரல் கொடுப்பது போல சர்வதேச நாடுகளிலும் எங்களுக்காக குரல் கொடுக்க வேண்டும்  - அ.அமலநாயகி
+### Anura Kumara vows to eradicate drugs and organized crime under NPP govt.
+
+*2024-08-28 22:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101577/anura-kumara-vows-to-eradicate-drugs-and-organized-crime-under-npp-govt) · `en`
+
+National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake vowed to create a government committed to eradicating the influence of drugs and the underworld.
+
+Speaking at a public rally held in Negombo, Dissanayake drew attention to the deep-rooted connection between local politicians and organized crime.
+
+“Drugs and the underworld lie together in our country. There were never organized crime gangs in Sri Lanka in the distant history. Crimes happened, but there were no organized crime gangs. But how are there crimes now? Now they carry out murders while hiding in Dubai. You can conduct drug operations while sitting in jail. These organized crime gangs were created by local politicians,” he said.
+
+Commenting further, Dissanayake promised that a government led by the NPP will take swift and decisive action against these organized criminal networks.
+
+◼️
+
+[Data](articles/dd434abc.json)
+
+---
+
+### Voice of the North and East should be given to us in international countries - A.Amalanayaki
 
 *2024-08-28 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/192236) · `ta`
 
-வடக்கிலும் கிழக்கிலும் குரல் கொடுப்பது போல சர்வதேச நாடுகளிலும் எங்களுக்காக குரல் கொடுக்க வேண்டும் எனவும் கோருகின்றோம் என மட்டக்களப்பு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட சங்கத்தின் தலைவி அ. அமலநாயகி தெரிவித்தார்.
+Tamil candidate contesting election first time. Demands voice for North East in international forums. Seeking UN intervention. Rally planned for International Disappeared Day.
 
-மட்டக்களப்பு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட சங்கத்தின் ஊடக சந்திப்பு இன்று புதன்கிழமை (28) மட்டு.ஊடக அமையத்தில் நடைபெற்றது.
+🟩
 
-குறித்த சங்கத்தின் தலைவி அமலராஜ் அமலநாயகி கலந்து கொண்டு ஊடகங்களுக்கு கருத்து தெரிவிக்கையில்,
+In the North and East, the Voice of the Missed Association of the Batticaloa District. Amalanayagi said.
 
-எதிர்வரும் 30 திகதி சர்வதேச காணாமல் ஆக்கப்பட்டோர் தினம், அதனை முன்னிட்டு திருகோணமலையில் சிவனாலயத்திற் முன்பாக இருந்து பேரணி ஒன்றை ஆரம்பிக்கவுள்ளோம். அதே வேளை வட மாகாணத்திலும் ஒரு பேரணியை மேற்கொள்ளவுள்ளோம்.
+A media briefing of the Missing Association of Batticaloa District was held on Wednesday (28).
 
-சர்வதேச நீதி பொறிமுறையை நாடியே நாங்கள் நீதி கேட்கும் பேரணி ஒன்றினை நடாத்தவுள்ளோம், இந்நிகழ்வில் அனைத்து தரப்பினரையும் அழைப்பு விடுக்கின்றோம்.
+The head of the association, Amalaraj Amalanayaki, told the media
 
-பொறுப்பு கூறும் தன்மை இலங்கை அரசாங்கத்திற்கு இல்லை என்பதால் சர்வதேசத்தை நாம் நாடி நிற்கின்றோம்.
+On the 30th of this month, we will launch a rally in front of the Shivanalai in Trincomalee on the eve of the International Disappeared Day.. At the same time we will hold a rally in the Northern Province.
 
-முறையிட்ட எம்மைத் தான் தேடி தேடி விசாரணை செய்கின்றார்கள். அதனால் தான் ஐக்கிய நாடுகள் சபையை நாம் நாடி நிற்கின்றோம்.
+We will hold a rally for justice as a matter of international justice mechanism and call for all parties at this event.
+
+We seek the international community because the Sri Lankan government has no responsibility.
+
+They are looking for and investigating. That is why we are looking for the United Nations.
+
+The Geneva session will be held next month, with our pains.
+
+Death is not a bird if it happens in front of everyone, but we have to reveal what happened to our relationships.
 
 ...
 
 [Data](articles/7eb8495f.json)
 
+[Extended Data](ext_articles/7eb8495f.ext.json)
+
 ---
 
-### මෙරට දරිද්‍රතාවය දෙගුණ වෙලා - හියුමන් රයිට්ස් වොච්
+### Sri Lankan poverty doubled - Human Rights Watch
 
 *2024-08-28 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200436) · `si`
 
-2022 වසරේ දී ඇතිවු ආර්ථික අර්බුදය හේතුවෙන් මෙරට දරිද්‍රතාව දෙගුණ වී ඇති බව "හියුමන් රයිට්ස් වොච්" සංවිධානය පවසයි.
+Here's a summary of the text in 200 characters:
 
-මේ වන විට ජනගහණයෙන් තුනෙන් එකක් ආහාර අනාරක්ෂිතභාවයෙන් පෙළෙන බව එක්සත් ජාතින්ගේ වාර්තා  පෙන්නුම් කරන බවද එම සංවිධානය පෙන්වා දෙයි.
 
-එම නිවේදනය මගින් ඔවුන් තවදුරටත් සඳහන් කරන්නේ එක්සත් ජාතින්ගේ සංවිධානයේ මහ කොමසාරිස්වරයා විසින් නිකුත් කර ඇති ආසන්නතම වාර්තාවෙන් මෙරට මූලික නිදහසට තවදුරටත් තර්ජන පවතින බවය.
 
-ජාත්‍යන්තර හවුල්කාර පාර්ශ්වවලට ආර්ථික ප්‍රතිසංස්කරණ හා මානව හිමිකම් ආරක්ෂා කිරීමට අදාළව ප්‍රගතියක් අත්කරගෙන ඇති බවට පෙන්වා දීමට ශ්‍රී ලංකා රජය උත්සාහ දරමින් සිටින බවද හියුමන් රයිට්ස් වොච් සංවිධානය පෙන්වා දී තිබේ.
+Sri Lanka's poverty doubled in 2022 according to Human Rights Watch. UN reports indicate one-third of the population faces food insecurity. The government claims progress in economic reforms and human rights protection through international partnerships. However, Human Rights Watch requests an update to the international community regarding ongoing investigations and potential interruptions.
 
-මෙරට මානව හිමිකම් තත්ත්වය විමර්ශනයටත් සාක්ෂි රැස්කිරීමටත් විවිධ ක්‍රම හරහා ඇති වන බාධා කිරීම් විමර්ශනයට ජාත්‍යන්තර ප්‍රජාවගේ මැදිහත්වීම සඳහා දැනට ඇති යෝජනාව යාවත්කාලීන කළ යුතු බව මානව හිමිකම් පිළිබඳ කොමසාරිස්වරයා සිය වාර්තාවෙන් සාමාජික රටවලින් ඉල්ලීමක් ද කර ඇති බව එම සංවිධානය සඳහන් කර ඇත.
+🟩
+
+The economic crisis in the year 2022 has been doubted due to the 'Human Rights Watch'.
+
+According to the United Nations reports, one third of the population is suffering from food insecurity.
+
+The announcement further specifics that the nearest report issued by the United Nations High Commissioner is further threats to the basic freedoms of the country.
+
+The Government of Sri Lanka has shown that the Government of Sri Lanka is trying to show that international partnerships have made progress in the protection of economic reforms and human rights.
+
+The organization has requested that the current resolution should be updated to the international community to investigate the investigation and the interruption of the international community to investigate the investigation and the interruption of the international community.
 
 ...
 
 [Data](articles/03111f9b.json)
+
+[Extended Data](ext_articles/03111f9b.ext.json)
 
 ---
 
@@ -2497,33 +2535,5 @@ The people were welcomed by President Ranil Wickremesinghe, who attended the mee
 [Data](articles/9bb6081b.json)
 
 [Extended Data](ext_articles/9bb6081b.ext.json)
-
----
-
-### Women who write the new page of the history of Sri Lanka - Pushpamali Ramanayake
-
-*2024-08-28 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192182) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan woman Pushpamali Ramanayake joins national movement against corrupt politicians. She calls for women's participation in politics, citing their significant voting power. Aims to create new history for Sri Lanka on September 21st.
-
-🟩
-
-I am proud to have joined the national people's power. I am glad that I have got a few words to climb a huge platform and recover our country from the abnormal.
-
-Our country has been targeted for curse for 76 years. The time has now been born to put an end to the domination of these corrupt politicians. We are here to work for it.For that, we have seen Anura Kumara Dissanayake.
-
-The kings came to our country all the time. For the first time now, the soil of the soil is going to be the leader of the heartbeat of the people who have set foot in the soil. We will dedicate ourselves on September 21st.
-
-We are eagerly waiting for it. Women are the most number of voters in Sri Lanka. Women have the most contribution to the family's decision. Keep in mind that only the votes of women can bring great success to the national power.
-
-...
-
-[Data](articles/e90c66b1.json)
-
-[Extended Data](ext_articles/e90c66b1.ext.json)
 
 ---

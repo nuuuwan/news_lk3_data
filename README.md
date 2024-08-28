@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 08:37:06**
+As of **2024-08-28 08:56:12**
 
 ## Newspaper Stats
 
-*Scraped **42,982** Articles*
+*Scraped **42,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,83 @@ dailyftlk | 2,795
 adalk | 3,973
 dailymirrorlk | 4,733
 adaderanalk | 5,050
-tamilmirrorlk | 5,603
+tamilmirrorlk | 5,604
 virakesarilk | 6,833
-adaderanasinhalalk | 7,361
+adaderanasinhalalk | 7,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,981 (100.0%) of 42,982 articles have been extended.
+42,982 (100.0%) of 42,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### ’வரி குறைப்பு அபாயகரமானது’
+### இந்திய மீனவர்கள் கையளிப்பு
+
+*2024-08-28 08:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-கையளிப்பு/175-342906) · `ta`
+
+கடலில் மூழ்கிய இந்திய மீன்பிடிப் படகில் இருந்து காப்பாற்றப்பட்ட இரண்டு இந்திய மீனவர்களும் நேற்று  இந்தியத் தூதரக அதிகாரிகளிடம் கையளிக்கப்படவுள்ளனர்.
+
+தமிழகத்தின் இராமேஸ்வரத்தில் இருந்து மீன்பிடிக்கப் புறப்பட்ட ரோலர் விசைப்படகில் நான்கு மீனவர்கள் பயணித்தபோது இந்திய எல்லைக்குள் கச்சதீவுக்கு அண்மையாக நேற்று முன்தினம் விசைப்படகு உடைந்து கடலில் மூழ்கியுள்ளது.
+
+அந்தப் படகில் இருந்த நான்கு மீனவர்களில் இரண்டு மீனவர்கள் கச்சதீவை அடைந்தபோது இருவரும் இலங்கைக் கடற்படையினரால் காப்பாற்றப்பட்டு யாழ். நெடுந்தீவுக்கு அழைத்து வரப்பட்டு பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+குறித்த இரண்டு இந்திய மீனவர்களும் நேற்று குறிகட்டுவானுக்கு அழைத்துவரப்பட்டு இறங்குதுறையில் வைத்து யாழில் உள்ள இந்தியத் தூதரக அதிகாரிகளிடம் கையளிக்கப்படவுள்ளனர். (a)
+
+◼️
+
+[Data](articles/50cc53ef.json)
+
+---
+
+### Model tax reduction is dangerous
 
 *2024-08-28 08:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-குறைப்பு-அபாயகரமானது/175-342905) · `ta`
 
-தற்போது வரி குறைப்பை மேற்கொள்வது மிகவும் அபாயகரமானது என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-மாவனல்லை பகுதியில் நேற்று இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இதனைக் குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
 
-சிலர் வரி குறைப்பை மேற்கொள்வதாகப் பிரசாரம் செய்கின்றனர்.  மாற்று வரிகளின்றி நாட்டை எவ்வாறு முன்னோக்கிக் கொண்டு செல்ல முடியும். அவர்கள் பாலத்தை உடைத்துக் கொண்டு பயணிக்குமாறு கூறுகின்றனர். பாலத்தை உடைத்துக் கொண்டு பயணித்தால் அனைவரும் ஆற்றில் விழ நேரிடும்.
 
-தேசிய மக்கள் சக்தியின் விஞ்ஞாபனத்தில் உள்ள திட்டங்களைச் செயற்படுத்தினால் நாட்டுக்கு சுமார் 200 பில்லியன் ரூபா  இல்லாது போகும்.
+President Wickremesinghe warns against tax cuts, saying they're dangerous. He argues reducing taxes without alternatives would harm the economy. Claims tax reducers lack basic math understanding.
 
-வரிகளைக் குறைத்து அதிக சலுகைகள் தருவதாகக் கூறுபவர்களுக்கு அடிப்படை கணிதம் கூட தெரியாது என்றே கூற வேண்டும் என்றார். (a)
+🟩
+
+President Ranil Wickremesinghe said that it is very dangerous to pay taxes.
+
+He was speaking at a public meeting held yesterday in the Mawanella area.. As he further stated,
+
+Some are promoting tax cuts.How can the country be forwarded without alternative taxes. They say to break the bridge and travel. If the bridge breaks and travels, everyone will fall into the river.
+
+If implementing the projects in the manifesto of the National People's Power, the country will not have about 200 billion rupees.
+
+Those who claim to have reduced the taxes and make more concessions should be said that they do not even know the basic mathematics. (A)
 
 ◼️
 
 [Data](articles/4a8d35b9.json)
+
+[Extended Data](ext_articles/4a8d35b9.ext.json)
+
+---
+
+### බිරිඳගේ වියෝවයෙන් දුකින් සිටි අයෙක් ගත් හදිසි තීරණය
+
+*2024-08-28 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200407) · `si`
+
+සිය බිරිඳ මියයාම සම්බන්ධයෙන් සිත් තැවුලෙන් සිටි යාපනය, නාවට්කුලි ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු ඊයේ (27) සියදිවි නසාගෙන ඇති බව පොලීසිය පවසයි.
+
+පොලීසිය පැවසූවේ යාපනය, නාවට්කුලි ප්‍රදේශයේ පදිංචි 72 හැවිරිදි මනුවෙල් සූසෙයිමුත්තු නමැති පුද්ගලයෙකු එලෙස සියදිවි හානිකරගෙන ඇති බවය.
+
+මීට වසරකට පමණ පෙර අදාළ පුද්ගලයාගේ බිරිඳ අසනීප තත්ත්වයෙන් සිට මියගොස් ඇති අතර, බිරිඳ මියයාමෙන් අනතුරුව අදාළ පුද්ගලයා දැඩි සිත්තැවුලෙන් පසුවී ඇති බවද ප්‍රදේශවාසීන් පවසති.
+
+මියගිය පුද්ගලයාගේ මළ සිරුර පශ්චාත් මරණ පරීක්ෂණයන්ගෙන් අනතුරුව ඥාතීන් වෙත භාරදුන් බවද පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/0f5a119f.json)
 
 ---
 
@@ -2343,43 +2389,5 @@ They are said to have called for a girlfriend to marry because they were beaten.
 [Data](articles/eb85ff3d.json)
 
 [Extended Data](ext_articles/eb85ff3d.ext.json)
-
----
-
-### Which ‘Genius’ Will Be ‘Lucky’ This Time?
-
-*2024-08-27 16:03:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/which-genius-will-be-lucky-this-time/) · `en`
-
-Not so long ago, I received a You-Tube on the 1984 reception accorded to our then President JR Jaeawardene (JR) by the then American President Ronald Reagan in Washington. Accompanying the ‘link’ was an excited comment by the sender, “he speaks better English than the white men!” Highly laudatory, after all Reagan the native English speaker, was referred to as the “great communicator”!
-
-...
-
-[Data](articles/64ac4fe7.json)
-
-[Extended Data](ext_articles/64ac4fe7.ext.json)
-
----
-
-### President's IMF Challenge
-
-*2024-08-27 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200388) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe discusses IMF proposals with UNP leader Ranjith Madduma Bandara, emphasizing readiness for video talks.
-
-🟩
-
-The General Secretary General of the UNP Ranjith Madduma Bandara says that the reconciliation force is prepared at any type of discussion with the International Monetary Fund at any time.
-
-It states that Ranil Wickremesinghe, which is stressing the people of the country as the International Monetary Fund, proposals and principals, is not the real idea of ​​the International Monetary Fund.
-
-President Ranil Wickremesinghe said that he was ready to discuss a video discussion with the International Monetary Fund and the International Monetary Fund about the International Monetary Fund.Have been stated.
-
-The International Monetary Fund's representatives have been discussed with the International Monetary Fund to be discussed with the International Monetary Fund before the International Monetary Fund has come to Sri Lanka and discussed the party leader Sajith and the party's economic policy committee.Mr. Madduma Bandara has said.
-
-...
-
-[Data](articles/b5b412ab.json)
-
-[Extended Data](ext_articles/b5b412ab.ext.json)
 
 ---

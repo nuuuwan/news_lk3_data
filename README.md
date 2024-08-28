@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 02:21:55**
+As of **2024-08-29 02:37:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,110 (100.0%) of 43,119 articles have been extended.
+43,116 (100.0%) of 43,119 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake 
 
 [Data](articles/7bb0ff87.json)
 
+[Extended Data](ext_articles/7bb0ff87.ext.json)
+
 ---
 
 ### Bribery allegations filed against AKD
@@ -70,6 +72,8 @@ According to the assets declaration filed with the Bribery Commission, the prope
 
 [Data](articles/17c8590a.json)
 
+[Extended Data](ext_articles/17c8590a.ext.json)
+
 ---
 
 ### Patali challenges President to collect unpaid excise taxes
@@ -89,6 +93,8 @@ Speaking to the media at an event in Colombo on Tuesday, Ranawaka challenged Pre
 ...
 
 [Data](articles/e4309415.json)
+
+[Extended Data](ext_articles/e4309415.ext.json)
 
 ---
 
@@ -112,6 +118,8 @@ The Supreme Court, while dismissing the petition, ordered the petitioner to pay 
 
 [Data](articles/1691a93c.json)
 
+[Extended Data](ext_articles/1691a93c.ext.json)
+
 ---
 
 ### ‘March 12 Movement’ opens Presidential debate for public questions
@@ -128,6 +136,8 @@ Building on the success of the first Presidential candidate public debate held i
 
 [Data](articles/21de7c78.json)
 
+[Extended Data](ext_articles/21de7c78.ext.json)
+
 ---
 
 ### Hayleys Fabric becomes first Sri Lankan company featured in ‘Global Organic Textile Standard’ case study
@@ -141,6 +151,8 @@ This distinction marks Hayleys Fabric as the first and only Sri Lankan company t
 ...
 
 [Data](articles/c6d98f6f.json)
+
+[Extended Data](ext_articles/c6d98f6f.ext.json)
 
 ---
 

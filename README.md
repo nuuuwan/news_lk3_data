@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 04:56:15**
+As of **2024-08-29 05:06:42**
 
 ## Newspaper Stats
 
-*Scraped **43,126** Articles*
+*Scraped **43,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,809
 adalk | 3,988
 dailymirrorlk | 4,733
 adaderanalk | 5,072
-tamilmirrorlk | 5,627
+tamilmirrorlk | 5,628
 virakesarilk | 6,855
 adaderanasinhalalk | 7,391
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,126 (100.0%) of 43,126 articles have been extended.
+43,126 (100.0%) of 43,127 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,24 @@ National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake 
 [Data](articles/7bb0ff87.json)
 
 [Extended Data](ext_articles/7bb0ff87.ext.json)
+
+---
+
+### ’எம்.பிக்களுக்கு நேரடியாக பணம் கிடைக்காது’
+
+*2024-08-29 01:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கு-நேரடியாக-பணம்-கிடைக்காது/175-342953) · `ta`
+
+அபிவிருத்தி பணம் ஜனாதிபதி செயலகத்தால் நேரடியாக மாவட்ட செயலகங்களுக்கு அனுப்பப்படுகின்றதே தவிர எந்த பாராளுமன்ற உறுப்பிருக்கும் நேரடியாக கொடுக்கப்படவில்லை என தமிழ் தேசிய கூட்டமைப்பு தெரிவித்துள்ளது.
+
+தமிழ் தேசிய கூட்டமைப்பின் ஊடகப் பேச்சாளர்  உறுப்பினர் எம்.ஏ. சுமந்திரன் வெளியிட்ட ஊடக அறிக்கையில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+தமிழ் தேசிய கூட்டமைப்பு (இலங்கை தமிழ் அரசுக் கட்சி) பாராளுமன்ற உறுப்பினர்களுக்கு நிதி வழங்கப்பட்டுள்ளதாக பெரியளவிலான பிரச்சாரங்கள் மேற்கொள்ளப்பட்டு வருகின்றன.
+
+இந்நிதியானது குறிப்பிடப்பட்ட பாராளுமன்ற உறுப்பினர்களுக்கு  கொடுக்கப்பட்டது போன்ற தோற்றப்பாடு வேண்டுமென்றே ஏற்படுத்தப்படுகின்றது. பன்முகப்படுத்தப்பட்ட அபிவிருத்தி நிதி, மற்றும் பல்வேறு அபிவிருத்தி நிதிகள் ஜனாதிபதி செயலாகத்தால் இவ்வருடம் ஒதுக்கீடு செய்யப்பட்டிருக்கின்றது. இதற்கு உதவியாக அந்தந்த மாவட்டத்தைச் சேர்ந்த பாராளுமன்ற உறுப்பினர்களால் அபிவிருத்திக்காக முன்மொழிவுகள் கோரப்பட்டிருந்தன.
+
+...
+
+[Data](articles/8e22ee1d.json)
 
 ---
 
@@ -2423,41 +2441,5 @@ There were 7 AD 7 of the Forex Reserve 2019. When it comes to overcome again. No
 [Data](articles/0f51fa8b.json)
 
 [Extended Data](ext_articles/0f51fa8b.ext.json)
-
----
-
-### Maldives in a serious economic crisis
-
-*2024-08-28 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200415) · `si`
-
-Here's a summary of the economic situation in the Maldives in 200 characters:
-
-
-
-Maldives faces severe economic crisis due to falling GDP ($395 million) and low foreign reserves ($43 million). Tourism, fisheries, and sea routes drive economy. Government struggles to manage budget without additional funding. Measures include restricting credit card payments and potential tax increases. Former Finance Minister warns of economic collapse.
-
-🟩
-
-The Maldives are facing a serious economic crisis due to the fall in the history of the Maldives.
-
-Foreign reports indicate that the use of rizable stocks of the existing consumption of the existing consumption is not sufficient for importance.
-
-The Maldives economy is mainly centered on the tourism, fisheries and sea routes.
-
-Taxation of the Maldives, who is considered the country with the simplest tax code in the world, is currently under the local income tax authority.
-
-The Maldives has warned that if the government is difficult to manage the budget if there is no additional dollar pools, the Maldives has warned this year.
-
-However, it is reported that the Maldives are facing an unexpected economic crisis under the government of Mohammed Mischu.
-
-It is due to the first time in history that can be used for the first time in history.
-
-The GDP has fallen to US $ 395 million in the late June last year.
-
-...
-
-[Data](articles/6a4d219d.json)
-
-[Extended Data](ext_articles/6a4d219d.ext.json)
 
 ---

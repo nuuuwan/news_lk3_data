@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 05:39:24**
+As of **2024-08-28 06:04:59**
 
 ## Newspaper Stats
 
-*Scraped **42,951** Articles*
+*Scraped **42,969** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 359
 newsfirstlk | 363
 bbccomsinhala | 398
-colombotelegraphcom | 414
-islandlk | 2,501
+colombotelegraphcom | 415
+islandlk | 2,505
 economynextcom | 2,594
-dailyftlk | 2,779
+dailyftlk | 2,792
 adalk | 3,972
 dailymirrorlk | 4,733
 adaderanalk | 5,050
@@ -26,11 +26,235 @@ adaderanasinhalalk | 7,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,951 (100.0%) of 42,951 articles have been extended.
+42,951 (100.0%) of 42,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### ALFT Packaging’s excellence celebrated at Nestlé Lanka’s ‘Connect@Nest’24’
+
+*2024-08-28 05:44:21* · [`dailyftlk`](https://www.ft.lk/business/ALFT-Packaging-s-excellence-celebrated-at-Nestlé-Lanka-s-Connect-Nest-24/34-766067) · `en`
+
+From left: Nestlé Director – Corporate Affairs and Communications Ruwan Welikala, ALFT Managing Director Chathura Jayatissa, ALFT Chairman Lakshman De Fonseka and Nestlé Managing Director Bernhard Stefan
+
+ALFT Packaging, as a dynamic presence in the flexible packaging industry, has been honoured with a Special Award as ‘Distinguished Business Partnership’ in the Packaging Category by Nestlé Lanka. The prestigious recognition was presented to ALFT at the recent Nestlé Procurement “Connect@Nest’24” Business Partner Felicitation event.
+
+The award acknowledges the long-standing and successful business relationship between ALFT Packaging and Nestlé Lanka, highlighting ALFT’s commitment to excellence and innovation in the Flexible Packaging industry.
+
+...
+
+[Data](articles/eac2e144.json)
+
+---
+
+### Treasury Secretary congratulates Nigel Clarke on proposed IMF role
+
+*2024-08-28 05:42:34* · [`dailyftlk`](https://www.ft.lk/business/Treasury-Secretary-congratulates-Nigel-Clarke-on-proposed-IMF-role/34-766066) · `en`
+
+Treasury Secretary Mahinda Siriwardana yesterday extended his best wishes to Jamaica’s Finance and Public Service Minister Nigel Clarke, following his proposed appointment as Deputy Managing Director of the International Monetary Fund (IMF).
+
+The proposal for Clarke’s appointment was made by IMF Managing Director Kristalina Georgieva and is set to take effect on 31 October 2024. (https://www.imf.org/en/News/Articles/2024/08/25/kristalina-georgieva-proposes-appointment-of-mr-nigel-clarke-as-deputy-managing-director)
+
+Clarke is expected to succeed Antoinette Sayeh, who will be stepping down from her role on 12 September, as previously announced by the IMF.
+
+Treasury Secretary noted that he met Clarke earlier this month and both shared their experiences on macroeconomic reforms.
+
+◼️
+
+[Data](articles/0eed0f5c.json)
+
+---
+
+### Govt. is absolutely committed to free and fair elections: Prime Minister
+
+*2024-08-28 05:41:24* · [`dailyftlk`](https://www.ft.lk/news/Govt-is-absolutely-committed-to-free-and-fair-elections-Prime-Minister/56-766065) · `en`
+
+A group of election observers from the European Union (EU), together with the EU Ambassador have called on Prime Minister Dinesh Gunawardena at the Temple Trees in Colombo on Monday.
+
+EU Election Observer Team Head Jose Ignacio Sanchez Amor thanked the Government for the support extended to the mission to carry out its monitoring mission and said the forthcoming Presidential election will give a new impetus to democracy following the 2022 political and economic crisis.
+
+“This election is important for Sri Lanka to continue making progress on its path of reforms and lasting recovery, in full respect of democratic values,” he said. The Prime Minister expressed the Government’s commitment to free and fair elections and pointed out that the Election Commission is an independent institution and all the decisions pertaining to the elections are taken by the Commission.  “The Government has made the allocation of budgetary requirements and the rest is for the Commission to carry out,” he said.
+
+...
+
+[Data](articles/5fc7bda6.json)
+
+---
+
+### Foreign Minister welcomes EU election observation delegation in Colombo
+
+*2024-08-28 05:40:18* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-welcomes-EU-election-observation-delegation-in-Colombo/56-766064) · `en`
+
+Foreign Affairs Minister Ali Sabry on Monday met with Member of the European Parliament and the Chief Observer of the EU Election Observation Mission to Sri Lanka 2024 Nacho Sánchez Amor at the Foreign Ministry premises.
+
+Taking to ‘X’ Sabry noted that he assured the support of the Government of Sri Lanka to ensure an independent and transparent European Union Election Observation Mission Sri Lanka, throughout the election period.
+
+Following an invitation by the Election Commission of Sri Lanka, the European Union has decided to deploy an Election Observation Mission (EOM) to Sri Lanka to observe the Presidential Election scheduled for 21 September.
+
+The EU has a long history of accompanying electoral processes in Sri Lanka and has deployed EOMs on six occasions, the last in 2019, reflecting the EU’s commitment and partnership with the country.
+
+...
+
+[Data](articles/e8ab0833.json)
+
+---
+
+### Report on gender pay gap presented to Speaker
+
+*2024-08-28 05:38:55* · [`dailyftlk`](https://www.ft.lk/news/Report-on-gender-pay-gap-presented-to-Speaker/56-766063) · `en`
+
+The research report on the gender pay gap was presented to Speaker of the House Mahinda Yapa Abeywardana and Opposition leader Sajith Premadasa, recently by Women Parliamentarians’ Caucus Chairperson Dr. Sudarshini Fernandopulle.
+
+This report was prepared by a group of researchers including the Women and Media Collective under the leadership of the Women Parliamentarians’ Caucus.
+
+Committee on Public Finance (CoPF) Chairman Dr. Harsha de Silva, Women Parliamentarians’ Caucus Co-Deputy Chair Rohini Kumari Wijerathna, MP Eran Wickramaratne were also present at this event.
+
+Addressing the gathering, Speaker Abeywardana stated that it is important to formulate legislation and new policies to change these wage inequalities.
+
+Furthermore, Opposition leader Premadasa stated that provisions should be included in the constitution so that these rights can be upheld.
+
+...
+
+[Data](articles/6406d471.json)
+
+---
+
+### 3,000 Samurdhi employees to be absorbed into Department of Samurdhi Development
+
+*2024-08-28 05:37:57* · [`dailyftlk`](https://www.ft.lk/news/3-000-Samurdhi-employees-to-be-absorbed-into-Department-of-Samurdhi-Development/56-766062) · `en`
+
+The Cabinet of Ministers on Monday approved providing opportunities for around 3,000 employees of the Samurdhi Development Authority to be absorbed into the Department of Samurdhi Development.
+
+Cabinet Spokesman and Minister Bandula Gunawardena yesterday said, the move comes as part of the efforts into integrates these employees into the new structure, following the establishment of the Department of Divineguma Development under the Divineguma Act No. 01 of 2013.
+
+“At the time of the creation of the Department of Divineguma Development, employees of the SamurdhiDevelopment Authority were given the choice to join the new Department with pension benefits, in accordance with the provisions of the Divineguma Act. However, due to various circumstances, around 3,000 employees were unable to revise their preference and make the transition,” he explained during the post-Cabinet meeting media briefing.
+
+...
+
+[Data](articles/01a5c6cb.json)
+
+---
+
+### Public urges to address passport shortage amid growing frustration
+
+*2024-08-28 05:37:26* · [`dailyftlk`](https://www.ft.lk/news/Public-urges-to-address-passport-shortage-amid-growing-frustration/56-766061) · `en`
+
+Public Securities Minister says only ‘first come, first served’ basis in operation from today; suspends prior appointment system
+
+Department of Immigration and Emigration announces passport issuance restricted amid shortage of blank passports
+
+Passport applicants highlight misplaced priorities in Govt. and failure to address national interests
+
+A growing number of citizens yesterday expressed frustration over delays in obtaining passports, urging the Government to take immediate action to address the issue.
+
+This plea follows an announcement by the Public Security Minister Tiran Alles that from today (28), the existing passport application system requires prior appointments being suspended and the Department of Immigration and Emigration announcing that the issuance of passports would be limited due to a shortage of blank passport booklets.
+
+As per the Minister, instead of the existing appointment system, a ‘first come, first served’ approach will be adopted from today.
+
+...
+
+[Data](articles/1f3a9e86.json)
+
+---
+
+### Ex-minister Fowzie sentenced to 2 years, suspended for 10 years
+
+*2024-08-28 05:36:24* · [`dailyftlk`](https://www.ft.lk/news/Ex-minister-Fowzie-sentenced-to-2-years-suspended-for-10-years/56-766060) · `en`
+
+The Colombo High Court yesterday sentenced former Minister A.H.M. Fowzie for two years of rigorous imprisonment and suspended it for 10 years after he pleaded guilty over the charge of misusing a vehicle belonging to the Disaster Management Ministry.
+
+In addition to the prison sentence, the Colombo High Court also imposed a fine of Rs. 400,000 on the former Minister.
+
+Fowzie was accused of misusing a vehicle given by a foreign country to the Disaster Management Centre for private purposes, while he was holding the ministerial portfolio in 2010.
+
+As per the charges, the said luxury vehicle, worth Rs. 20 million, was given to the Disaster Management Centre (DMC) by the Netherlands, while Rs. 1 million from the Ministry’s funds had been utilised for the maintenance of the vehicle.
+
+...
+
+[Data](articles/118f6f24.json)
+
+---
+
+### HRW accuses Govt. of misleading on reforms amid ongoing HR abuses
+
+*2024-08-28 05:35:24* · [`dailyftlk`](https://www.ft.lk/news/HRW-accuses-Govt-of-misleading-on-reforms-amid-ongoing-HR-abuses/56-766059) · `en`
+
+Human Rights Watch (HRW), an international human rights organisation, has accused the Sri Lankan Government of misleading international partners about its achievements in economic reform and human rights protection. HRW’s statement, issued yesterday, cites a recent report by the United Nations High Commissioner for Human Rights that reveals a significant discrepancy between the Government’s claims and the current situation on the ground.
+
+The UN report has warned of renewed threats to fundamental freedoms in Sri Lanka, noting that authorities have introduced repressive laws and engaged in intimidation and violence against victims of past abuses, civil society activists, journalists, and Government critics. It noted that this continues despite the Government’s denial of responsibility for severe human rights violations committed during the 1983-2006 civil war.
+
+...
+
+[Data](articles/11b31937.json)
+
+---
+
+### Sajith to unveil Presidential manifesto tomorrow
+
+*2024-08-28 05:35:10* · [`dailyftlk`](https://www.ft.lk/news/Sajith-to-unveil-Presidential-manifesto-tomorrow/56-766058) · `en`
+
+Samagi Jana Balawegaya (SJB) Spokesperson and MP S.M. Marikkar announced on Monday that the party will release its Presidential manifesto tomorrow (29).
+
+Speaking at a press conference in Colombo, Marikkar highlighted that many past election manifestos have failed to become reality.
+
+In response, he said the SJB presented its economic policy to Parliament two years ago and has updated it twice since then. The latest version of the policy will be unveiled on 29 August, the MP said.
+
+Taking aim at President Ranil Wickremesinghe’s election slogan “Sri Lanka Can,” Marikkar remarked that Wickremesinghe can only burden the people with taxes, hike the prices of goods, raise electricity tariffs by 300%, import substandard medicines, and engage in various types of scams.
+
+...
+
+[Data](articles/d84e7d38.json)
+
+---
+
+### Ranil’s manifesto to be launched tomorrow
+
+*2024-08-28 05:34:05* · [`dailyftlk`](https://www.ft.lk/news/Ranil-s-manifesto-to-be-launched-tomorrow/56-766057) · `en`
+
+The independent Presidential candidate Ranil Wickremesinghe will unveil his Presidential manifesto tomorrow (29).
+
+United National Party (UNP) National Secretary Ravi Karunanayake made this announcement yesterday.
+
+He said Wickremesinghe’s manifesto is titled ‘Puluwan Sri Lanka” (Sri Lanka Can) is based on economic stabilisation.
+
+◼️
+
+[Data](articles/6fc9b73c.json)
+
+---
+
+### Govt. mandates NIC and Passport numbers for public IT systems
+
+*2024-08-28 05:32:52* · [`dailyftlk`](https://www.ft.lk/news/Govt-mandates-NIC-and-Passport-numbers-for-public-IT-systems/56-766056) · `en`
+
+The Government has directed Heads of key State Departments to update its Information Technology (IT) system to boost efficiency and quality of public services.
+
+The move comes following a Cabinet decision on 5 August, which involves mandatory inclusion of National Identity Card (NIC) numbers, Passport numbers and Company Registration numbers in all relevant Government IT systems.
+
+The Finance, Economic Stabilisation and National Policies Ministry on Monday issued a circular, addressing all Secretaries to Ministers, Chief Secretaries of Provincial Councils, Heads of Departments/District Secretaries, Heads of State Corporations, Statutory Boards, Universities and Higher Education Institutions and Chairpersons of State-owned Enterprises to ensure compliance with the mandatory inclusion of information related to company/business registration number along with NIC and passport numbers with nationality of individuals.
+
+...
+
+[Data](articles/dc487366.json)
+
+---
+
+### New law to protect rights of indigenous community
+
+*2024-08-28 05:31:31* · [`dailyftlk`](https://www.ft.lk/news/New-law-to-protect-rights-of-indigenous-community/56-766055) · `en`
+
+The Cabinet of Ministers on Monday approved directing the Legal Draftsman to prepare a draft bill based on the revised fundamental draft for introducing new legislation concerning the rights of Sri Lanka’s indigenous community.
+
+On 22 May, the Cabinet approved the joint proposal furnished by the then Justice, Prison Affairs and Constitutional Reforms Minister and the Buddha Sasana, Religious and Cultural Affairs Minister in relation to introduction of the new law.
+
+“At that meeting, it was decided that it was appropriate to further analyse the concept paper furnished to prepare the draft bill with the participation of all parties concerned,” Buddha Sasana, Religious and Cultural Affairs Minister Vidura Wickramanayaka said at the weekly post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/1e0beb3c.json)
+
+---
 
 ### The suspension of the economic program can lead to a re -crisis - Nandalal Weerasinghe
 
@@ -330,6 +554,18 @@ It is noteworthy that Jai Shah was elected president of the International Cricke
 
 ---
 
+### Presidential Election: Dilemmas Of The Voter
+
+*2024-08-27 23:51:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-election-dilemmas-of-the-voter/) · `en`
+
+A diagram of the number of presidential candidates who contested the elections since 1982 in Sri Lanka would look like a tick mark. Six candidates contested the first election in 1982, and the number went down to three in 1988. Since then, the numbers have been in ascendency. In 2019, 35 candidates were in the field. This time around, a total of 39 candidates are in the fray. Most of them are proxies strategically fielded to divide the votes of one of the leading candidates. Some proxy candidates are in the contest to mobilize resources for their favorite leaders. Although hardly noticed, some of the candidates have contested several elections. For example, Battaramulle Seelaratne Thera, who contested the 2010 election, endorsing Mahinda Rajapaksa, withdrew at the eleventh hour. Sri Lanka Labor Party’s A. S. P. Liyanage and the United Socialist Party’s Siritunga Jayasuriya are among the usual suspects.
+
+...
+
+[Data](articles/5e005603.json)
+
+---
+
 ### The election manifesto of the National People's Power is only a document that does not agree!- Gamini Senanayake
 
 *2024-08-27 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/192171) · `ta`
@@ -385,6 +621,70 @@ In particular, Los Angeles, in particular, created a major opportunity for its g
 [Data](articles/789a769a.json)
 
 [Extended Data](ext_articles/789a769a.ext.json)
+
+---
+
+### WindForce enhances community support with the donation of a rooftop solar system to Apeksha Hospital temple
+
+*2024-08-27 22:53:00* · [`islandlk`](http://island.lk/windforce-enhances-community-support-with-the-donation-of-a-rooftop-solar-system-to-apeksha-hospital-temple/) · `en`
+
+In a meaningful contribution to the well-being of cancer patients and their families, WindForce has donated a 5kW rooftop solar system to the Apeksha Hospital Temple in Maharagama.
+
+This innovative project is expected to significantly lower electricity costs for the hospital’s hostel and ward complex, which provides crucial free Food & Accommodation for patients receiving treatment. By leveraging solar energy, WindForce aims to provide a sustainable energy solution that eases the financial burden on the hospital while promoting environmentally-friendly practices. This CSR initiative is part of WindForce’s Sustainability Framework, specifically under the “Suvadiri” healthcare pillar, which is dedicated to enhancing health and well-being in local communities. Through this project, WindForce demonstrates its strong commitment to social responsibility, making a lasting impact on the lives of those in need.
+
+HNB to make non-binding offer to buy Bangladesh unit of Alfalah Bank
+
+...
+
+[Data](articles/b62cf845.json)
+
+---
+
+### A testament to growth, innovation and resilience
+
+*2024-08-27 22:52:00* · [`islandlk`](http://island.lk/a-testament-to-growth-innovation-and-resilience/) · `en`
+
+In 2004, WNS, a pioneering global Business Process Management (BPM) company, strategically expanded its footprint by establishing its first offshore delivery center outside India in Colombo. Fast forward twenty years, WNS has evolved into an NYSE-listed powerhouse, with over $1.3 billion in annual revenue, 60,000+ employees worldwide, 65 offices across 13 countries, and solid client base of 600+ global companies across 10 industries.
+
+Throughout this remarkable journey, WNS Sri Lanka (SL) has played a vital role, contributing significantly to WNS’ consistent and exponential growth. Today, WNS is a trusted business transformation and services partner to global companies, and WNS SL continues to be an integral part of this success story.
+
+...
+
+[Data](articles/785d1fad.json)
+
+---
+
+### SLIM hosts India-Sri Lanka Economic Partnership Forum
+
+*2024-08-27 22:48:00* · [`islandlk`](http://island.lk/slim-hosts-india-sri-lanka-economic-partnership-forum/) · `en`
+
+The Sri Lanka Institute of Marketing (SLIM) proudly hosted an exclusive event titled “India-Sri Lanka Economic Partnership: Connecting and Transforming Economies,” as part of their ongoing Experience-Sharing Forum (ESF). This event, held on 11th July 2024 at the Kingsbury Colombo, brought together SLIM’s Professional Members and Corporate Invitees for an evening of insightful discussions and networking.
+
+The ESF, a flagship event organised by SLIM, takes place several times a year and features high-profile Speakers who share their success stories and experiences. This particular forum was graced by the presence of the High Commissioner of India to Sri Lanka Santosh Jha, who provided an in-depth analysis of the current Economic ties between the two neighbouring countries and shared his vision for the future.
+
+...
+
+[Data](articles/3c2b5e23.json)
+
+---
+
+### HNB to make non-binding offer to buy Bangladesh unit of Alfalah Bank
+
+*2024-08-27 22:46:00* · [`islandlk`](http://island.lk/hnb-to-make-non-binding-offer-to-buy-bangladesh-unit-of-alfalah-bank/) · `en`
+
+HNB has obtained the go- ahead from its Board to enter into talks and make a non-binding offer to buy the Bangladesh unit of Bank Alfalah.
+
+A further communication will be made once the Board reaches a final decision after due diligence, negotiations and necessary regulatory clearances, CSE sources said.
+
+Bank Alfalah is a multinational bank, which has a presence in UAE, Bahrain, Pakistan, Afghanistan and Bangladesh, the statement said.
+
+Bank Alfalah is owned and operated by the Abu Dhabi Group, according to its sources, and entered Bangladesh in 2005 with the acquisition of Shamil Bank of Bahrain. Bank Alfalah has expanded its presence in a big way.
+
+Amid those developments, the stock market yesterday experienced an extreme downward trend due to speculation that the IMF is going to recommend to impose a capital gains tax for share transactions created by the stock market, market analysts said.
+
+...
+
+[Data](articles/eaa3b8f2.json)
 
 ---
 
@@ -2045,459 +2345,5 @@ West Bengal Training Doctors Association did not participate in today's rally to
 [Data](articles/401383e7.json)
 
 [Extended Data](ext_articles/401383e7.ext.json)
-
----
-
-### Extension extending until September 5
-
-*2024-08-27 14:29:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டெம்பர்-5-வரை-விளக்கமறியல்-நீடிப்பு/175-342866) · `ta`
-
-Sri Lanka court extends detention of 8 Tamil Nadu fishermen until September 5.
-
-🟩
-
-The Mannar Court on Tuesday (27) ordered the eight fishermen from Rameswaram in Ramanathapuram district, which was arrested by Talaimannar in the Sri Lankan waters.
-
-The seawater was arrested by the Marines and handed over to the Talaimannar Navy on Monday night (26) night (26).
-
-The Mannar District Fisheries and Aquatic Resources Department handed over the further action on Tuesday (27) following an investigation into the fishermen of the Talaimannar navy.
-
-Fisheries Department officials appeared before the Mannar Court this evening after further inquiries.
-
-The Mannar Magistrate, who was conducting investigations, ordered the fishermen to be remanded until the 5th of this month.
-
-◼️
-
-[Data](articles/b5707a53.json)
-
-[Extended Data](ext_articles/b5707a53.ext.json)
-
----
-
-### The people of the country should take a political decision in view of national security - Tissa Kuttiyarachchi
-
-*2024-08-27 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/192118) · `ta`
-
-Tissa Kuttiyarachchi criticizes Ranil Wickremesinghe, supports Namal Rajapaksa for national security.
-
-🟩
-
-JR Jayawardene was the massacre of Tamils ​​in 1983. Considering national security, the people of the country must make a political decision this time. Tissa Kuttiyarachchi, a parliamentarian of PA, said that the countrymen will not vote for Ranil, Sajith and Anuragumara.
-
-He was speaking at a speech campaign which was held on Monday evening (26) evening in Nikavaratiya, Kurunegala.
-
-President Ranil Wickremesinghe has gone to the shadow of former President Mahinda Rajapaksa and enriched themselves and now for the country.. People will teach them a good lesson.
-
-We supported all the bills brought by President Ranil Wickremesinghe to resolve the economic crisis. However we do not support the gay bill. And we do not support the anti -country bills.
-
-Ranil Wickremesinghe can be accepted as a support for the end of the sequence of essential commodities, including fuel and gas.. Ranil Wickremesinghe should be held responsible for the emergence of the economic crisis.
-
-...
-
-[Data](articles/2d1d5208.json)
-
-[Extended Data](ext_articles/2d1d5208.ext.json)
-
----
-
-### Tamils ​​to participate in the national political process
-
-*2024-08-27 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/192111) · `ta`
-
-Sri Lanka UNHRC session impact on economy and human rights
-
-🟩
-
-Today, the issue of who is the right leader to lead the country in the current moment, the economic development, the economic development path and the current moment.. But another major issue that contributes to the economic problem of the country and other issues is that it is going to penetrate into these talks.
-
-The United Nations Human Rights Council (UNHRC) session will begin soon in Geneva while presidential election campaigns are being launched. The issue of whether Sri Lanka is working in harmony with the resolutions of the Human Rights Council has been going on since 2009.
-
-The issue will be explored in this session. Those resolutions are in the process of assessment of the international community that Sri Lankan governments have not dealt with past human rights violations.
-
-...
-
-[Data](articles/54d56d24.json)
-
-[Extended Data](ext_articles/54d56d24.ext.json)
-
----
-
-### I am contesting the presidential election to show the strength of the Tamil people - General candidate Ariyanethran
-
-*2024-08-27 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/192114) · `ta`
-
-Tamil presidential candidate Ariyanethran contests election to unite Tamil people, not seek presidency. Focuses on Tamil strength and solutions rather than individual promises.
-
-🟩
-
-"We are contesting the unity of the Tamil people to the outside world. We are still meeting this presidential election as our lands are still being taken away," said Tamil general candidate PA Ariyanethran.
-
-He was speaking to the media after paying tribute to the martyr Dileepan's memorial at Nallur, Jaffna.
-
-Dileepan dedicated his life from hunger strikes.
-
-I am contesting as a general candidate for the unity of the Tamil people as the presidential candidate for the unity of the Tamil people.
-
-The purpose is not to be president. I am contesting to show that we are united as Tamils ​​to find our solution through this election.
-
-Our people can travel towards our next stage by voting in large numbers.
-
-The election manifesto of a few is currently being released. If you look at them, there is no such thing as a solution to the Tamils.
-
-They say corruption, development, solution within one country, equality.What is equality?This is the equality of this country in this country.
-
-...
-
-[Data](articles/ee8460e8.json)
-
-[Extended Data](ext_articles/ee8460e8.ext.json)
-
----
-
-### People’s responsibility to support govt’s program to rebuild economy - President
-
-*2024-08-27 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101543/peoples-responsibility-to-support-govts-program-to-rebuild-economy-president) · `en`
-
-President Ranil Wickremesinghe emphasized the strength and talent of his team, asserting that they are well-equipped to overcome any challenge facing the country.
-
-Speaking at the 37th Annual Conference of the Organization of Professional Associations of Sri Lanka (OPA) at the Shangri-La Hotel, Colombo this evening (26), the President highlighted the critical role of public support in ensuring the success of the government’s economic recovery program.
-
-President Wickremesinghe outlined his objective of achieving a swift economic recovery for Sri Lanka, noting that substantial progress has been made towards this goal. The President stressed that sustaining this recovery and fostering long-term economic growth require adherence to the agreement with the International Monetary Fund (IMF), describing it as the only viable path to overcoming the crisis. He also acknowledged the significant relief Sri Lanka has received through this agreement.
-
-...
-
-[Data](articles/5ee19e06.json)
-
-[Extended Data](ext_articles/5ee19e06.ext.json)
-
----
-
-### 8 Indian fishermen arrested
-
-*2024-08-27 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/192120) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-8 Indian fishermen arrested by Sri Lanka for fishing in Mannar sea. Brought to Talaimannar port for investigation. Total: 46 boats seized, 341 fishermen arrested so far this year.
-
-🟩
-
-Sri Lankan navy has arrested eight Indian fishermen for allegedly fishing in the Mannar seas.
-
-The Sri Lankan navy was arrested on Monday (26) in the Northern Sea.
-
-The Sri Lankan navy said that the arrested fishermen have been brought to the Talaimannar port and handed over to the Fisheries Inspector for further investigations.
-
-So far this year, 46 Indian drag boats have been seized and 341 Indian fishermen have been arrested.
-
-◼️
-
-[Data](articles/7a850c80.json)
-
-[Extended Data](ext_articles/7a850c80.ext.json)
-
----
-
-### Velukumar declared a stunning
-
-*2024-08-27 13:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடியாக-அறிவித்தார்-வேலுகுமார்/175-342862) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka: Velukumar supports President Wickremesinghe. Udayakumar to notify support on Sept 10. Hope for Rs 1700 salary for plantation workers.
-
-🟩
-
-Veluchami Radhakrishnan, MPs of the United People's Power. Parliamentarian Velukumar said that Udayakumar will issue a notification on the support of President Ranil Wickremesinghe.
-
-He said this during a media briefing held in Colombo today (27). They said they would extend their support on September 10.
-
-Parliamentarian Velukumar expressed hope that the salary of Rs 1,700 for plantation workers was possible with President Ranil Wickremesinghe and the allowance would be available to plantation workers on September 10.
-
-Subsequently, MPs Veluchami Radhakrishnan, M.. Udayakumar said he would support Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/bb89063d.json)
-
-[Extended Data](ext_articles/bb89063d.ext.json)
-
----
-
-### Two Boywar: Velukumar Action
-
-*2024-08-27 13:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவர்-பாய்வர்-வேலுகுமார்-அதிரடி/175-342862) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka MP Velukumar supports President Wickremesinghe. Udayakumar to issue notification on support. Salary increase for plantation workers expected September 10.
-
-🟩
-
-Veluchami Radhakrishnan, MPs of the United People's Power. Parliamentarian Velukumar said that Udayakumar will issue a notification on the support of President Ranil Wickremesinghe.
-
-He said this during a media briefing held in Colombo today (27). They said they would extend their support on September 10.
-
-Parliamentarian Velukumar expressed hope that the salary of Rs 1,700 for plantation workers was possible with President Ranil Wickremesinghe and the allowance would be available to plantation workers on September 10.
-
-Subsequently, MPs Veluchami Radhakrishnan, M.. Udayakumar said he would support Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/cca63460.json)
-
-[Extended Data](ext_articles/cca63460.ext.json)
-
----
-
-### Elections Commission for Physical Disability
-
-*2024-08-27 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200385) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Elections Commission provides special transport for disabled voters. Apply at District Elections Office with medical certificate. Certificate valid for 10 years.
-
-🟩
-
-The Elections Commission has informed voters on the procedure that can apply for special transport facilities by individual disabilities.
-
-Chairman of the Election Commission, RM issued a statement. A. L. Mr. Ratnayake has made this statement.
-
-01. According to the passage of the Parliament, No. 15 of 1981, a person would have to go to the polling station, and to go to the polls, if a person could go to the polling station and to the polls, as per the passage of No 15 of 1981 (d).If he or not, a candidate, a candidate, an authorized representative, an authorized representative, a vote representative, or an authorized representative, can be submitted to him to obtain transport facilities.
-
-...
-
-[Data](articles/a83d3d67.json)
-
-[Extended Data](ext_articles/a83d3d67.ext.json)
-
----
-
-### Stealing the motorcycle of PC's motorcycle in the CID
-
-*2024-08-27 13:42:44* · [`adalk`](https://www.ada.lk/breaking_news/සීඅයිඩීයේ--පීසීගේ-යතුරුපැදිය-සීඅයිඩීය-ඉදිරිපිට-දීම-සොරාගෙන/11-411590) · `si`
-
-Motorcycle theft CID Fort Police Rs. 550,000 investigation ongoing
-
-🟩
-
-The Fort Police say that a constable in the Commercial Criminal Investigation Division, parked in front of the Criminal Investigation Division, was stolen around Rs. 550,000 / -.
-
-The constable was stopped in front of the Criminal Investigation Department and returning to the Commerce Investigation Division and returning to the Commerce Investigation Division in front of the CID at around 6 am yesterday.The police said that the motorcycle was not at that place for a motorcycle and had not been able to hand over the corresponding officers to the Attorney General's Department.
-
-The police said that a complaint has been lodged with the stolen of a person as a person had stolen, as a man was stolen in the surrounding locations, which had stolen a motorcycle with its officials.
-
-Acting OIC Chief Inspector General Inspector General Inspector General Inspector General Inspector General Inspector General Inspector Panditha Ratna, Colombo, is conducting further investigations.
-
-◼️
-
-[Data](articles/f6beaa8e.json)
-
-[Extended Data](ext_articles/f6beaa8e.ext.json)
-
----
-
-### 903163 qualifies from Galle
-
-*2024-08-27 13:36:23* · [`adalk`](https://www.ada.lk/breaking_news/මීළඟ-ජනපති-තෝරන්න-ගාල්ලෙන්-903163ක්-සුදුසුකම්-ලබයි/11-411589) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Galle District voter registration: 858749 total, 41436 eligible in Hiniduma, 105232 in Baddegama. 903163 qualify overall.
-
-🟩
-
-The number of registered voters in the Galle District this year is Rs.
-
-It is the year four thousand four hundred and forty-eight (858749) of the 2019 presidential election.467446 categories of elections is 467446, with 46,446.
-
-Mail Chandu contributes qualified 41436 electoral divisions in the Galle District.. 108129 voters in the Hiniduma electorate and 105232 voters were registered in the Baddegama Electorate.
-
-◼️
-
-[Data](articles/bd816979.json)
-
-[Extended Data](ext_articles/bd816979.ext.json)
-
----
-
-### Vote for Ranil to save the country from family control
-
-*2024-08-27 13:32:32* · [`adalk`](https://www.ada.lk/breaking_news/පවුල්-පාලනයෙන්-රට-බේරා-ගන්න-රනිල්ට-ඡන්දය-දෙන්න/11-411588) · `si`
-
-Here's a 200-character summary:
-
-
-
-Vote for Ranil Wickremesinghe to avoid family control. Sajith Premadasa's family may dominate if elected. Ranil Wickremesinghe promotes democracy, no family interference.
-
-🟩
-
-If Sajith Premadasa goes to the presidential election, Sajith Premadasa goes to control the country, but his wife, and the "Premadasa 'family company, said Urban Development and Housing Minister Prasanna Ranatunga.
-
-The Minister emphasizes that the country should vote for Mr. Ranil Wickremesinghe at the Presidential Election to save the country from cursed families.
-
-Minister Ranil Wickremesinghe is a democratic leader that many skips in the politics of this country.
-
-He was speaking at a presidential propaganda rally held in Minuwangoda yesterday.
-
-"Family rule is a curse to a country.. But Premadasa talks about family rule less.
-
-Minister of Housing Sajith is not the Minister of Housing Minister Sajith during 2015-2015.Dilanjali's work .I lie to you.
-
-Sajith Premadasa and Family Company, if Sajith won the Sagith, Due to Dineship.
-
-Also, when Anura Kumara will go back to the stone age, we feel that he is going to speak to the blood-thirsty ignorant people of the blood.
-
-...
-
-[Data](articles/23cde4bf.json)
-
-[Extended Data](ext_articles/23cde4bf.ext.json)
-
----
-
-### Because a tiger was saved
-
-*2024-08-27 13:27:48* · [`adalk`](https://www.ada.lk/breaking_news/මන්දකට-හසුව-සිටි-කොටියෙක්-බේරා-ගැනෙයි/11-411587) · `si`
-
-Tiger freed from 70kg wire entanglement in Sri Lanka. Wildlife officers intervened, anesthetizing the animal. No harm caused to locals. Steps being taken for its rehabilitation.
-
-🟩
-
-Wildlife officials say that steps have been taken to save a tiger who has been burdening about 70 kilos of wire in the Kottiyantota, Seapost area.
-
-Attidiya with the assistance of the Bulathkohupitiya site defense office with Advertiser in charge of the Wildlife Detention Center. A. D. The Tiger was anesthetized by the premises made by Mr. Suhada Jayawardena.
-
-Wildlife Officer K. M. According to the Wildlife officials, the state of mass tiger has been rescued by Sumith Lakshman that he has not caused any harm to the residents of thetale area.
-
-They say steps have been taken to release a suitable vision after the resurrection of the suspect.
-
-Same Assistant Medicine, Voluntary Guidance Manjula Gunasiri, Voluntary Guide Manjula Gunasiri on information provided by the Western Wildlife Zone Office.. D. The site Assistant Madura Assistant Madura, Field Assistants of the Wildlife Officers of the Wildlife Officers and Bulathkohupitiya, were also present on the operation.
-
-◼️
-
-[Data](articles/e890d22b.json)
-
-[Extended Data](ext_articles/e890d22b.ext.json)
-
----
-
-### Sri Lanka tax agency issues 4.7 mn TIN, opens over 500,000 tax files in 2024
-
-*2024-08-27 13:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-agency-issues-4-7-mn-tin-opens-over-500000-tax-files-in-2024-178156/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Inland Revenue Department (IRD), which is in charge of income tax collection, has issued 4.7 million Taxpayers Identification Numbers (TIN) and seen number of total new tax files more than doubling up to end July this year, a top official said.
-
-Sri Lanka has set an ambitious government revenue target of over 4 trillion rupees for this year, more than a quarter higher than 2023.
-
-The government has made obtaining a TIN for every Sri Lankan who is above 18 years from January 1 this year.
-
-Despite practical difficulties, the IRD said it has opened TIN for 4.7 million people in the first seven months of the year.
-
-“We open TIN in bulk like 10,000 at once. There is a stringent verification process including name and address proofs,” B.K. Saman Shantha, Deputy Commissioner General, ​in charge of Tax Policy, International Affairs and Legal at the  IRD told reporters at a media briefing in Colombo.
-
-...
-
-[Data](articles/10566a73.json)
-
-[Extended Data](ext_articles/10566a73.ext.json)
-
----
-
-### The boat toppled;Two Indian fishermen magic
-
-*2024-08-27 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/192117) · `ta`
-
-Indian fishing boat crash: Two fishermen missing near Kachchativu.
-
-🟩
-
-Two fishermen have disappeared after an Indian fishing boat crashed near Kachchativu.
-
-◼️
-
-[Data](articles/6fae83bb.json)
-
-[Extended Data](ext_articles/6fae83bb.ext.json)
-
----
-
-### A greetings for the health of the unmangerage candidate
-
-*2024-08-27 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200384) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka's health sector faces challenges. Doctors' salaries are low, leading to brain drain. Presidential candidate Dilith Jayaweera proposes investing in healthcare professionals.
-
-🟩
-
-The government's medical officials asserts the 'GDP to educate the problems arising in the health sector, Dilith Jayaweera today (27).
-
-After the discussion, the Secretary of the Government Medical Officers Association Dr. Prabatha Sugathapala said that Mr. Dilith Jayaweera is well aware of the health sector regarding the fellow presidential candidates.
-
-Secretary of the Government Medical Officers Association, Dr. Prabatha Sugathapala,
-
-...
-
-[Data](articles/80a5ce8c.json)
-
-[Extended Data](ext_articles/80a5ce8c.ext.json)
-
----
-
-### Cabinet permits a private company to rehabilitate Kinniya - Kurinjakkeni Bridge
-
-*2024-08-27 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/192116) · `ta`
-
-Sri Lanka Cabinet approves private company rehabilitation of Kinniya-Kurinjakkeni Bridge under Badulla-Chengaladi Road Development Project sponsored by Saudi Fund for Development.
-
-🟩
-
-The Cabinet has approved the proposal submitted by Minister of Transport and Highways Bandula Gunawardena to grant an agreement to the private company to rehabilitate the Kinniya -Kurinjakkeni Bridge.
-
-Under the Badulla - Chengaladi Road Development Project, with the sponsor of the Saudi Fund for Development, the contract to reconstruct the Kurinjakkanei Bridge on the Kinniya - Kurinjakkanei road was not separately a separate correspondence system.. For that, 09 expenses were available.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Transport and the Department of Transport to the Conservation (Private) Company, the pricer who has issued a response to the Permanent Committee appointed by the Cabinet.
-
-◼️
-
-[Data](articles/45569dcd.json)
-
-[Extended Data](ext_articles/45569dcd.ext.json)
-
----
-
-### Sri Lanka cabinet approves borrowing $200mn World Bank
-
-*2024-08-27 13:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-borrowing-200mn-world-bank-178144/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved borrowing 200 million US dollars from the World Bank through a development policy loan, Minister Bandula Gunawardana said.
-
-The loan is linked to reforms under an International Monetary Fund program, Gunawardana said.
-
-The loan is part of 400 million dollar of which the first part is complete, he said.
-
-The cabinet approved signing the loan agreement after a proposal presented by President Ranil Wickremesinghe as Finance Minister. (Colombo/Aug27/2024)
-
-◼️
-
-[Data](articles/b3e5db10.json)
-
-[Extended Data](ext_articles/b3e5db10.ext.json)
 
 ---

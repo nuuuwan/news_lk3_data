@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 21:07:43**
+As of **2024-08-28 21:22:08**
 
 ## Newspaper Stats
 
-*Scraped **43,090** Articles*
+*Scraped **43,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,070
 tamilmirrorlk | 5,617
 virakesarilk | 6,851
-adaderanasinhalalk | 7,386
+adaderanasinhalalk | 7,387
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,090 (100.0%) of 43,090 articles have been extended.
+43,090 (100.0%) of 43,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### කුසල් මෙන්ඩිස් ව ටෙස්ට් කණ්ඩායමෙන් ඉවතට
+
+*2024-08-28 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200434) · `si`
+
+ශ්‍රී ලංකාව සහ එංගලන්තය අතර දෙවැනි ටෙස්ට් ක්‍රිකට් තරගය හෙට (29) එංගලන්තයේ ලෝඩ්ස් ක්‍රීඩාංගණයේදී ආරම්භ වෙයි.
+
+එම ටෙස්ට් තරග සඳහා සහභාගී වන ශ්‍රී ලංකා කණ්ඩායම මේ වනවිට නම්කර ඇත.
+
+ඒ අනුව කුසල් මෙන්ඩිස් ට සහ විශ්ව ප්‍රනාන්දු ට ඔවුන්ගේ ස්ථාන අහිමිවී තිබීමයි.
+
+ඔවුන් දෙදෙනා වෙනුවට පැතුම් නිස්සංක ව සහ ලහිරු කුමාර ව කණ්ඩායමට කැඳවා තිබේ.
+
+දිමුත් කරුණාරත්න, නිශාන් මදුෂ්ක, පැතුම් නිස්සංක, ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල්, ධනංජය ද සිල්වා, කමිඳු මෙන්ඩිස්, ප්‍රබාත් ජයසූරිය, අසිත ප්‍රනාන්දු, ලහිරු කුමාර සහ  මිලාන් රත්නායක
+
+ශ්‍රී ලංකා කණ්ඩායම මේ දක්වා ලෝඩ්ස් ක්‍රිකට් පිටියේ ටෙස්ට් තරග 8ක් ක්‍රීඩාකර ඇති අතර ඉන් කිසිදු තරගයක් ජය ගෙන නොමැත.
+
+◼️
+
+[Data](articles/6bac0899.json)
+
+---
 
 ### Namal criticizes unjust taxes, pledges economic revival
 
@@ -2485,35 +2507,5 @@ The two Indian fishermen will be brought to the Indigaratan yesterday and handed
 [Data](articles/50cc53ef.json)
 
 [Extended Data](ext_articles/50cc53ef.ext.json)
-
----
-
-### Model tax reduction is dangerous
-
-*2024-08-28 08:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-குறைப்பு-அபாயகரமானது/175-342905) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Wickremesinghe warns against tax cuts, saying they're dangerous. He argues reducing taxes without alternatives would harm the economy. Claims tax reducers lack basic math understanding.
-
-🟩
-
-President Ranil Wickremesinghe said that it is very dangerous to pay taxes.
-
-He was speaking at a public meeting held yesterday in the Mawanella area.. As he further stated,
-
-Some are promoting tax cuts.How can the country be forwarded without alternative taxes. They say to break the bridge and travel. If the bridge breaks and travels, everyone will fall into the river.
-
-If implementing the projects in the manifesto of the National People's Power, the country will not have about 200 billion rupees.
-
-Those who claim to have reduced the taxes and make more concessions should be said that they do not even know the basic mathematics. (A)
-
-◼️
-
-[Data](articles/4a8d35b9.json)
-
-[Extended Data](ext_articles/4a8d35b9.ext.json)
 
 ---

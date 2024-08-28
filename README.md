@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 11:08:13**
+As of **2024-08-28 11:21:37**
 
 ## Newspaper Stats
 
-*Scraped **42,998** Articles*
+*Scraped **43,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 2,594
 dailyftlk | 2,795
 adalk | 3,976
 dailymirrorlk | 4,733
-adaderanalk | 5,056
+adaderanalk | 5,057
 tamilmirrorlk | 5,606
-virakesarilk | 6,833
-adaderanasinhalalk | 7,364
+virakesarilk | 6,840
+adaderanasinhalalk | 7,365
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,997 (100.0%) of 42,998 articles have been extended.
+42,998 (100.0%) of 43,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### நாளாந்தம் போலிக்கருத்துக்கணிப்புகள் - வாக்காளர்களிற்கு மகிந்த தேசப்பிரிய எச்சரிக்கை
+
+*2024-08-28 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/192201) · `ta`
+
+போலி கருத்துக்கணிப்புகள் குறித்து வாக்காளர்கள் எச்சரிக்கையாகயிருக்கவேண்டும் என முன்னாள் தேர்தல் ஆணையாளர்  மகிந்த தேசப்பிரிய வேண்டுகோள் விடுத்துள்ளார்.
+
+போலியான கருத்துக்கணிப்புகளுக்கும் உண்மையான கருத்துக்கணிப்புகளி;ற்கும் இடையிலான  வித்தியாசத்தை அடையாளம் காண்பது கடினமான விடயம் என தெரிவித்துள்ள அவர் இதன் காரணமாக வாக்காளர்கள் எச்சரிக்கையுடன் இருக்கவேண்டும் என தெரிவி;த்துள்ளார்.
+
+ஐரோப்பிய ஒன்றியத்தால்  மேற்கொள்ளப்பட்டதாகக் கூறப்படும் மற்றும் சமூக ஊடகங்களில் பரவிவரும் கருத்துக்கணிப்புகள் தேர்தல் செயல்முறையை ஒழுங்குபடுத்தும் விதிமுறைகளுக்கு எதிரானவை .
+
+ஐரோப்பிய ஒன்றியம் ஒரு அறிக்கையை வெளியிட்டுஇ அது தேர்தல் கருத்துக்கணிப்புகளை மேற்கொள்ளவில்லைஇ மேலும் பரப்பப்படும் கணிப்புகள் பொய்யானவை என்று கூறியுள்ளது. தேர்தல் ஆணையம் மேலும்இ வாக்களிப்பவர்கள் தவறான தகவல்களைப் பற்றி எச்சரிக்கையாக இருக்கவும்இ தேர்தல் முடிவுகளை எடுக்கும்போது போலி தகவல்கள் மூலம் தவறாக வழிநடத்தப்பட வேண்டாம் என்று கேட்டுக் கொண்டுள்ளது
+
+...
+
+[Data](articles/231ed2cc.json)
+
+---
+
+### කෙරවලපිටිය සොබාධනවි බලාගාරය විවෘත කෙරේ
+
+*2024-08-28 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200411) · `si`
+
+කෙරවලපිටිය “සොබාධනවි” සංයුක්ත චක්‍රීය විදුලි බලාගාරයේ විවෘත චක්‍රීය අදියර, ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් මීට සුළු මොහොතකට පෙර විවෘත කෙරිණි.
+
+එම ශ්‍රී ලංකාවේ බලශක්ති ක්ෂේත්‍රයේ සුවිශේෂී සන්ධිස්ථානයක් සනිටුහන් කරමින්, ප්‍රාථමික ඉන්ධන ප්‍රභවය ලෙස ද්‍රවකෘත ස්වභාවික වායුව (LNG) භාවිතා කරමින් මෙහෙයුම් කටයුතු සිදුකරනු ලබයි.
+
+මෙය ශ්‍රී ලංකාවේ පළමු ස්වභාවික ද්‍රවිකෘත වායු (LNG) විදුලි බලාගාරය වන අතර එහි ධාරිතාවය මෙගාවොට් 350කි.
+
+◼️
+
+[Data](articles/9e8183c8.json)
+
+---
 
 ### President inaugurates open cycle phase of Sri Lanka’s first LNG power plant
 
@@ -43,6 +77,22 @@ The “Sobadhanavi” Combined Cycle Power Plant is the first Sri Lankan power p
 ◼️
 
 [Data](articles/45260c10.json)
+
+[Extended Data](ext_articles/45260c10.ext.json)
+
+---
+
+### President inaugurates Sri Lanka’s first LNG power plant “Sobadhanavi”
+
+*2024-08-28 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101561/president-inaugurates-sri-lankas-first-lng-power-plant-sobadhanavi) · `en`
+
+Marking a significant milestone in Sri Lanka’s energy future, President Ranil Wickremesinghe declared open the open cycle phase of the “Sobadhanavi” 350 MW Combined Cycle Power Plant at Kerawalapitiya, a short while ago, the President’s Media Division (PMD) said.
+
+The “Sobadhanavi” Combined Cycle Power Plant is the first Sri Lankan power plant to be operated on LNG as the primary fuel, according to the PMD.
+
+◼️
+
+[Data](articles/5e22fcaa.json)
 
 ---
 
@@ -114,6 +164,22 @@ He did not elaborate further on the next steps, but said he would also discuss t
 
 ---
 
+### ஒவ்வொரு பக்கமும் தாவிக்கொண்டிருக்கின்ற தவளை அரசியல் முறையை இல்லாதொழிக்க புதிய சட்டத்தைக் கொண்டு வருவோம் - சஜித்
+
+*2024-08-28 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192190) · `ta`
+
+சிலருக்கு பாராளுமன்ற உறுப்புரிமை கிடைக்கப்பெற்றதன் பின்னர் தாய் தந்தையர்  மற்றும் அவர்களின் பிறப்பு என்பன மறந்து போய் விடுகின்றது. சிலர் மக்களின்  வாக்குகளினால் தெரிவு செய்யப்பட்டு  நல்லடக்கமா எரிப்பதா என்கின்ற பிரச்சினையின் போது கோட்டாபய ராஜபக்சவுக்கு கையை உயர்த்தினார்கள்.  முஸ்லிம் மக்களுடைய கலாச்சார மற்றும்  மார்க்க உரிமையை பாதுகாப்பதற்காக தாம் உள்ளிட்ட ஐக்கிய மக்கள் சக்தியினர்  செயற்பட்டதாக எதிர்க்கட்சித் தலைவர்  தெரிவித்தார்.
+
+மதுபானசாலை அனுமதி பத்திரங்களுக்காகவும், வைன் ஸ்டோர்ஸ்களுக்காகவும் மக்கள் கொடுத்த வரங்களை விற்பனை செய்திருக்கின்றார்கள்.  ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் ஒரு பக்கம் இருந்து இன்னொரு பக்கம்  தாவுகின்ற  தவளை அரசியலுக்கு  முற்றுப்புள்ளி வைப்போம்.
+
+தற்பொழுது காணப்படுகின்ற சட்டங்களை மேலும் வலுப்படுத்தி தமக்கான ஆதாயத்திற்காக,  கட்சி மாறுகின்ற அரசியலை நிறுத்துவதற்கு  முற்றுப்புள்ளி வைக்கப்படும்  என  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+...
+
+[Data](articles/19e4fb31.json)
+
+---
+
 ### Arrested son of famous drug dealer
 
 *2024-08-28 09:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-போதைப்பொருள்-வியாபாரியின்-மகன்-கைது/175-342908) · `ta`
@@ -156,6 +222,98 @@ This time, 13 Sri Lankan athletes had qualified for the 2024 World Junior Athlet
 
 ---
 
+### பெண்கள் எல்லாவற்றையும் பொறுத்துக் கொண்டிருப்பது ஒரு வகையிலே கோழைத்தனமாகும் - சமன்மலி குணசிங்க
+
+*2024-08-28 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/192187) · `ta`
+
+அநுர குமார திசாநாயக்கவை ஜனாதிபதி ஆக்குகின்ற, அந்த வெற்றியை பெரு வெற்றியாக மாற்றுகின்ற பெண்களின் பலமே இது. “பெண்களின் சக்தி ஒரே மூச்சுடன் – நாளைய தினத்திற்காக நாடு அநுரவோடு” அதுவே எங்களுடைய தொனிப்பொருள்.
+
+தேசிய மக்கள் சக்தியின் பெண்களாகிய நாங்கள் ஒரே மூச்சுடன் ஒன்றிணைந்து இந்த நாட்டை புதிய மறுமலர்ச்சியை நோக்கி கொண்டு செல்கின்ற பாதையை அந்த வெற்றியை குறிக்கும் முகமாக இந்த இடத்தில் ஒன்றிணைந்துள்ளோம்.
+
+நாங்கள் கடந்த பல வருடங்களாக வறட்சிக்கு தாக்குப்பிடித்துக் கொண்டு இருந்தவர்களாவோம். வறட்சிக்கு முகம் கொடுத்து அன்பான குடும்பத்தை பாதுகாத்துக் கொண்ட துணிச்சல் மிக்க பெண்களே நீங்கள். பெண்கள் எல்லாவற்றையும் பொறுத்துக் கொண்டிருப்பது ஒரு வகையிலே கோழைத்தனமாகும்.
+
+எமது நாட்டின் அரசியல்வாதிகள் பல்வேறு துறைகளில் பெண்களை சிறைப்படுத்தி வைத்திருந்தார்கள். பெண்கள் பலவீனமானவர்கள், அவர்களுக்கு ஒன்றுமே விளங்காது, பெண்களுக்கு அரசியல் தேவையில்லை, பெண்கள் மரக்கட்டைகளாக வாழ்ந்து மடிந்து போகவேண்டுமென நினைத்தார்கள்.
+
+...
+
+[Data](articles/302bccce.json)
+
+---
+
+### அதிகரிக்கும் வெப்பநிலை ; தோல் நோய்கள் ஏற்படலாம் - வைத்திய நிபுணர்கள் எச்சரிக்கை
+
+*2024-08-28 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/192189) · `ta`
+
+நாட்டில் தற்போது அதிகரித்து வரும் வெப்பநிலையினால் தோல் நோய்கள் ஏற்படக்கூடிய வாய்ப்புக்கள் அதிகம் காணப்படுவதாக வைத்திய நிபுணர்கள் தெரிவித்துள்ளனர்.
+
+நமது சருமத்திற்கு நேரடியாக படும் அதிகளவிலான சூரிய ஒளியினால்  தோல் நோய்கள் ஏற்படுவதற்கு வாய்ப்பு உள்ளது.
+
+இது தொடர்பில் கொழும்பு சீமாட்டி சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா  தெரிவித்துள்ளதாவது,
+
+நாடு முழுவதும் அதிகரித்து வரும் வெப்பநிலையினால் குழந்தைகளிடையே தோல் நோய்  பிரச்சினைகள் மிகவும் பொதுவான ஒன்றாக உள்ளது.
+
+எனவே, அதிக சூரிய ஒளி படும் இடங்களில் இருப்பதை தவிர்ப்பதோடு, அதிகளவு தண்ணீர் பருக வேண்டும்.
+
+மேலும், செயற்கையான குளிர் பானங்களை அருந்துவதை தவிர்த்து இயற்கையான தண்ணீர், எலுமிச்சை சாறு, இளநீர் போன்றவற்றை பருக வேண்டும்.
+
+பெற்றோர்கள் தங்கள் பிள்ளைகளை ஒரு நாளைக்கு இரண்டு முறை குளிர்ப்பாட்ட வேண்டும் என தெரிவித்துள்ளார்.
+
+சூரியனின் தெற்கு நோக்கிய நகர்வதால் இன்று (28) முதல் செப்டெம்பர் 06 ம் திகதி வரையில் சூரியன் நாட்டின் பல பிரதேசங்களுக்கு மேலாக உச்சம் கொடுக்கின்றது.
+
+...
+
+[Data](articles/5bab3cdf.json)
+
+---
+
+### பெண்கள் அரசியலில் பிரவேசித்தது எங்களுக்கு மட்டற்ற மகிழ்ச்சி தருகின்ற விடயமாகும் - பேராசிரியர் வசந்தா சுபசிங்க
+
+*2024-08-28 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/192184) · `ta`
+
+பெண்கள் அரசியலில் பிரவேசித்தது எங்களுக்கு மட்டற்ற மகிழ்ச்சி தருகின்ற விடயமாகும். அநுர குமார திசாநாயக்கவின்  வெற்றியை முழு உலகுமே எதிர்பார்த்துக்கொண்டிருக்கிறது. செப்டெம்பர் 21 ஆம் திகதி என்பது அரசியல்வாதிகளால் வீழ்த்தப்பட்ட நாட்டை நிமிர்த்தி வைக்கின்ற தினமாகும்.
+
+அந்த வெற்றிக்கான உங்களின் அர்ப்பணிப்பே இது. எமது நாட்டின் வரலாற்றினை பொன்னெழுத்துக்களால் குறிக்கின்ற யுகத்தை நாங்கள் ஏற்படுத்திக் கொடுப்போம். இயற்கையாகவே இருக்கின்ற பால் நிலை வித்தியாசத்தை தவிர்த்த வேறு எந்த விதமான வித்தியாசமும் ஆண்களுக்கும் பெண்களுக்கும் இடையில் கிடையாது. பெண்கள் என்பதனால் மாத்திரமே நாங்கள்  பல்வேறு பிரச்சினைகளை அனுபவித்து வருகிறோம். வறுமையை அதிகமாக அனுபவிப்பவர்கள் பெண்களே.
+
+...
+
+[Data](articles/2e0eb52a.json)
+
+---
+
+### தேர்தல் விஞ்ஞாபனங்களின் ஊடாக பொய்யான வாக்குறுதிகளை அளிப்பதன் மூலம் அன்றி,  நாட்டின் பொருளாதாரத்தை வலுப்படுத்துவதன் மூலமே மக்களுக்கு நிரந்தரமாக நிவாரணம் வழங்க முடியும் - கண்டியில் ஜனாதிபதி தெரிவிப்பு
+
+*2024-08-28 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/192183) · `ta`
+
+தேர்தல் பிரகடனங்களில் போலி வாக்குறுதிகளை வழங்குவதால் மக்களுக்கு நிவாரணம் வழங்க முடியாதென தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க பொருளாதாரத்தை பலப்படுத்துவதன் மூலம் மட்டுமே அதனை செய்ய முடியுமெனவும் வலியுறுத்தினார்.
+
+நாட்டின் பொருளாதார அபிவிருத்திக்காக ஐந்தாண்டு திட்டமொன்று தன்னிடத்தில் உள்ளதாக சுட்டிக்காட்டிய ஜனாதிபதி, அந்த திட்டத்தை செயற்படுத்தி பொருளாதாரத்தை நிலைப்படுத்துவதோடு உணவுப் பொருட்களின் விலையை குறைத்து மக்களின் வரிச்சுமையை குறைப்பதாகவும் உறுதியளித்தார்.
+
+கண்டி, பூஜாபிடிய, மாரதுகொட மைதானத்தில் நேற்று செவ்வாய்க்கிழமை (27) நடைபெற்ற "இயலும் ஸ்ரீலங்கா" பொதுக்கூட்டத்திலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+
+கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் குணதிலக்க ராஜபக்ஷவினால் ஏற்பாடு செய்யப்பட்டிருந்த இந்தக் கூட்டத்தில் கலந்துகொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு மக்கள் அமோக வரவேற்பளித்தனர்.
+
+...
+
+[Data](articles/9bb6081b.json)
+
+---
+
+### இலங்கையின் வரலாற்றின் புதிய பக்கத்தை எழுதக்கூடிய பெறுமதிமிக்கவர்கள் பெண்கள் - விளையாட்டு வீராங்கனை புஷ்பமாலி ராமநாயக்க
+
+*2024-08-28 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192182) · `ta`
+
+நான் தேசிய மக்கள் சக்தியுடன் இணைந்துள்ளமையையிட்டு பெருமிதமடைகிறேன். இவ்வளவு பிரமாண்டமான ஒரு மேடையில் ஏறி எமது நாடு வீழ்ந்துள்ள படுகுழியிலிருந்து மீட்டெடுப்பதற்காக ஒரு சில வார்த்தைகளையேனும் கூற கிடைத்ததையிட்டு மகிழ்ச்சியடைகிறேன்.
+
+எமது நாடு 76 வருடங்களாக சாபக்கேட்டுக்கு இலக்காகியிருக்கிறது. இந்த ஊழல்மிக்க அரசியல்வாதிகளின் ஆதிக்கத்திற்கு முற்றுப்புள்ளி வைக்கவேண்டிய காலம் இப்பொழுது பிறந்திருக்கிறது. அதற்காக கைகோர்த்து செயற்படுவதற்காகவே நாங்கள் இங்கு குழுமியிருக்கிறோம்.  அதற்காக நாங்கள் அநுர குமார திசாநாயக்கவை தோ்ந்தெடுத்திருக்கிறோம்.
+
+இவ்வளவு காலமும் எமது நாட்டுக்கு மன்னர்களே தலைவர்களாக வந்தார்கள். இப்பொழுது முதல் தடவையாக மண்ணில் கால் பதித்த மக்களின் இதயத்துடிப்பினை உணர்ந்த மண்ணின் மைந்தனொருவர் தலைவராகப் போகிறார். செப்டெம்பர் 21 ஆம் திகதி அதற்காக நாங்கள் எங்களை அர்ப்பணிப்போம்.
+
+...
+
+[Data](articles/e90c66b1.json)
+
+---
+
 ### Notorious drug trafficker Shiran Basik’s son arrested at BIA
 
 *2024-08-28 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101557/notorious-drug-trafficker-shiran-basiks-son-arrested-at-bia-) · `en`
@@ -163,6 +321,16 @@ This time, 13 Sri Lankan athletes had qualified for the 2024 World Junior Athlet
 Nadeen Basik, the son of alleged large-scale drug trafficker Shiran Basik, has been arrested at the Bandaranaike International Airport (BIA) in Katunayake today (28).
 
 The officers of the Police Special Task Force (STF) have arrested the suspect who had returned from Dubai, Ada Derana reporter said.
+
+Nadeen Basik is the main suspect in a hit-and-run case during a raid in Wellawatta where an STF officer was injured on 16 February 2024.
+
+However, he has fled overseas when an overseas travel ban imposed on him over drug trafficking charges, had temporarily been lifted.
+
+He has returned to the island this morning onboard an Emirates flights from Dubai, the police said.
+
+The suspect has been handed over to Wellawatte Police for onward legal action, according to police.
+
+Shiran Basik, the father of Nadeen Basik, is a large-scale drug trafficker who is considered the ‘godfather’ of Sri Lanka’s drug network, and he is currently hiding in Dubai.
 
 ◼️
 
@@ -2130,246 +2298,18 @@ In the Board approved program that runs up to March 2025, about 250 million doll
 
 ---
 
-### A Chinese military aircraft in Japanese sky
+### 2024 Presidential Election Divides Muslim  Political Parties  with Leaders Backing Sajith and Some MPs Supporting Ranil.
 
-*2024-08-27 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200394) · `si`
+*2024-08-27 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84580) · `en`
 
-Chinese military aircraft enters Japanese airspace, Japan claims violation. First alleged incident. Y-9 surveillance aircraft involved. China reportedly deploys fighter jets in response. Intelligence gathering suspected.
+Nominations have closed for the long awaited 2024 presidential election. 39 candidates are in the fray.It is widely acknowledged  by the press and public that the chief presidential  contenders  are  incumbent president Ranil Wickremesinghe,leader of the opposition  Sajith Premadasa and JVP/NPP leader Anura Kumara  Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith  Jayaweera.
 
-🟩
-
-Japan alleges that a Chinese army aircraft violated his flight.
-
-The Japanese media reported that this is the first time a Chinese aircraft has been taken by a Chinese aircraft.
-
-The Defense Ministry said that a Y-9 surveillance aircraft violated the airline.
-
-According to foreign media reports, China's actions in China have been inspired to deploy fighter jets on an urgent basis.
-
-Foreign media reports that the aircraft is a combination of intelligence information.
-
-◼️
-
-[Data](articles/71f27ad5.json)
-
-[Extended Data](ext_articles/71f27ad5.ext.json)
-
----
-
-### True, the reconciliation process must be centered on the affected parties - the South African High Commissioner to Sri Lanka
-
-*2024-08-27 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/192160) · `ta`
-
-South African High Commissioner emphasizes reconciliation process importance, focusing on affected parties, while acknowledging limitations. Event organized by Office of Missing Persons in Sri Lanka discusses progress and challenges in truth and reconciliation efforts.
-
-🟩
-
-The South African High Commissioner to Sri Lanka, Sandyl Edwin Skullk, stressed that the fact that the truth and reconciliation process is necessary to focus on the affected parties, but should be understood that it is not very good in all cases, despite the fact that the reconciliation process is essential.
-
-A special event was organized by the Office of the Missing Person on Tuesday (27) at the Hector Koppekaduwa Training Center in Colombo yesterday (27).
+However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier  numerical minorities  assumes crucial importance.
 
 ...
 
-[Data](articles/87b926ee.json)
+[Data](articles/bd766ef7.json)
 
-[Extended Data](ext_articles/87b926ee.ext.json)
-
----
-
-### Sajith Premadasa does not seem to have the experience or intellectual fortitude to lead the country out of economic trouble. As Thalatha fears,it may be a repetition of Gotabaya,if Sajith  Wins.
-
-*2024-08-27 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84609) · `en`
-
-A rhetorical question: What difference would it have made if Sajith Premadasa delivered the speech Thalatha Athukorala did last week?
-
-First and foremost, the difference would have been between a mature democracy and one driven by petty personal greed; the latter is a hallmark of politics in this part of the world.
-
-Take for instance, France, where political parties of the Centre and Left regularly join ranks to stop the far-right from taking power, notwithstanding the major policy differences between the two sides. Still, the common agenda is to save the fabric of the Fifth Republic.
-
-The latest rapport came after the first round of national polls gave  Marine Le Pen’s National Rally the most votes and projected seats. Not limited to France, tactical voting and alliance between traditional foes is a big winner in much of E
-
-urope, where the newly resurgent far-right is making inroads to power.
-
-...
-
-[Data](articles/72be5f39.json)
-
-[Extended Data](ext_articles/72be5f39.ext.json)
-
----
-
-### Suspended to the Grama Niladhari who took bribe
-
-*2024-08-27 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200393) · `si`
-
-Grama Niladhari suspended for bribery, fined and imprisoned.
-
-🟩
-
-A Grama Niladhari, who is convicted of a bribery, has been suspended by the court in prison and fine.
-
-It is in connection with the bribe of Rs.
-
-The Bribery Allegations Investigation Commission (Investigation Commission) stated that the Grama Niladhari was arrested in connection with accepting Rs. 10,000.
-
-◼️
-
-[Data](articles/73152f96.json)
-
-[Extended Data](ext_articles/73152f96.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 300.00/30, bond yields steady
-
-*2024-08-27 17:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-00-30-bond-yields-steady-178168/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 300.00/30 to the US dollar on Tuesday, from 300.80/301.20 on Monday, dealers said, while bond yields closed broadly steady from morning.
-
-A bond maturing on 15.12.2026 closed down at 10.90/11.15 percent, from 11.00/15 percent.
-
-A bond maturing on 01.07.2028 closed at 12.50/55 percent, down from 12.55/65 percent.
-
-A bond maturing on 15.06.2029 closed at 12.70/80 percent, up from 12.65/80 percent.
-
-The Central Bank announced 100,000 million rupees Treasury bills are to be issued through an auction on August 28. (Colombo/Aug27/2024)
-
-◼️
-
-[Data](articles/2c5116ab.json)
-
-[Extended Data](ext_articles/2c5116ab.ext.json)
-
----
-
-### Explanation for 08 Indian fishermen
-
-*2024-08-27 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/192151) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lankan court orders 8 Indian fishermen arrested for illegal fishing remanded until 5th month after investigation.
-
-🟩
-
-The court (27) has ordered the eight Indian fishermen who were arrested in the Sri Lankan waters for illegally.
-
-The seawater was arrested by the Marines and handed over to the Talaimannar Navy on Monday night (26) night (26) night.
-
-The Talaimannar Navy handed over the fishermen to the Mannar District Fisheries and Aquatic Resources Department for further action on Tuesday (27) following the investigation of the fishermen.
-
-Fisheries Department officials appeared before the Mannar Court on Tuesday evening (27) after further inquiries.
-
-Meanwhile, the Mannar Magistrate, who conducted the investigation, ordered the fishermen to be remanded until the 5th of this month.
-
-◼️
-
-[Data](articles/1efb7da9.json)
-
-[Extended Data](ext_articles/1efb7da9.ext.json)
-
----
-
-### International Bank Accounts opens foreign workers to enter Bahrain
-
-*2024-08-27 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200392) · `si`
-
-Sri Lankan embassy informs LMRA about international bank accounts for foreign workers entering Bahrain. These accounts aim to facilitate accurate transactions and reduce salary-related issues. Details available on lmra.gov.bh or 00973-17506055.
-
-🟩
-
-For jobs in Bahrain, all foreign workers who enter the airport in the airport (LMRA) have taken steps to provide an International Bank Account (LMRA).
-
-The Sri Lankan Embassy in the country will be informed from August this year.
-
-The introduction of these international bank accounts between the introduction of these international bank accounts and expects to ensure the accurate transactions.
-
-The Government of Bahrain is expected to reduce their salary payments and reduce the prosecution of salaries on salaries.
-
-Most details are available to the Labor Market Register Authority (LMRA) website, www.lmra.gov.bh and dialing 00973-17506055.
-
-At the airport of foreign workers, the Government of Sri Lanka has provided the opportunity to obtain this international bank accounts at the airport in the airport.
-
-◼️
-
-[Data](articles/5a5d7b25.json)
-
-[Extended Data](ext_articles/5a5d7b25.ext.json)
-
----
-
-### Tuberculosis on the rise in Kandy: 50 cases reported so far in 2024
-
-*2024-08-27 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101550/tuberculosis-on-the-rise-in-kandy-50-cases-reported-so-far-in-2024) · `en`
-
-The Chief Medical Officer of Kandy, Dr. Pasan Jayasinghe revealed that around 50 tuberculosis (TB) patients have been diagnosed within the Kandy city limits during the period which has elapsed so far this year.
-
-Dr. Jayasinghe also highlighted that the most pressing infectious disease threat in Kandy is not dengue, but tuberculosis.
-
-While dengue cases are typically identified within six days and the treatment can be commenced, tuberculosis presents a much greater challenge, as diagnosis of the disease can take up to six months, according to Dr. Jayasinghe.
-
-Meanwhile, he highlighted that symptoms such as persistent coughing, weakness in body and the loss of appetite is significant in TB patients, but they often go untreated, as many individuals seek short-term remedies for these symptoms instead of undergoing proper screening for TB.
-
-With tuberculosis cases on the rise in Kandy, Dr. Jayasinghe urged the public to be vigilant and prioritize their health.
-
-◼️
-
-[Data](articles/bc0371d3.json)
-
-[Extended Data](ext_articles/bc0371d3.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover remains low
-
-*2024-08-27 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-remains-low-178163/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 0.95 percent, or 106.10 points, at 11,093; while the more liquid S&P SL20 Index closed down 1.26 percent, or 40.15 points, at 3,148.
-
-Top turnover generators were John Keells Holdings Plc (down at 174.50), Ceylon Cold Stores Plc (down at 52.50), Commercial Bank of Ceylon Plc (down at 89.30) and Nations Trust Bank Plc (down at 114.50).
-
-Foreign buying was seen in Ceylon Cold Stores, People’s Leasing and Finance Plc (down at 11.70), Hatton National Bank Plc (down at 173.50) and L B Finance Plc (down at 64.00).
-
-Foreign selling was seen in Browns Investments Plc (up at 5.10), First Capital Holdings Plc (down at 27.30), hSenid Business Solutions Plc (up at 11.00), and Sigiriya Village Hotels Plc (down at 34.00).
-
-Top contributors to the ASPI were Cargills (Ceylon) Plc (up at 383.25), Browns Investments and SMB Finance Plc (up at 0.60).
-
-◼️
-
-[Data](articles/e59f5a3e.json)
-
-[Extended Data](ext_articles/e59f5a3e.ext.json)
-
----
-
-### A change in weather from tomorrow
-
-*2024-08-27 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200391) · `si`
-
-Weather forecast: Sun over Delft Island, showers in Ampara, Batticaloa, Hambantota, Trincomalee. Strong winds expected.
-
-🟩
-
-The sun is directly above Sri Lanka from August 28 to September 06, the Met Department said.
-
-Therefore, tomorrow (28) tomorrow (28), the Department announces that the sun is over to the Delft Island, Pooneryn, Saddakulam areas.
-
-Meanwhile, a few thin covers are available in the Western, Sabaragamuwa and Northwestern provinces and in the Galle and Matara districts for the next 36 hours.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa Districts in Ampara and Batticaloa Districts.
-
-At times, Hambantota and Trincomalee and Trincomalee districts have been situated in the Northern, North Central and Northwestern districts. Strong winds can also cause about 40 feet of strong winds.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning.
-
-◼️
-
-[Data](articles/35ad3910.json)
-
-[Extended Data](ext_articles/35ad3910.ext.json)
+[Extended Data](ext_articles/bd766ef7.ext.json)
 
 ---

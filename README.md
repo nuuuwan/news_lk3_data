@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 11:21:37**
+As of **2024-08-28 11:37:22**
 
 ## Newspaper Stats
 
@@ -26,43 +26,63 @@ adaderanasinhalalk | 7,365
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,998 (100.0%) of 43,007 articles have been extended.
+43,006 (100.0%) of 43,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### நாளாந்தம் போலிக்கருத்துக்கணிப்புகள் - வாக்காளர்களிற்கு மகிந்த தேசப்பிரிய எச்சரிக்கை
+### Daily Conducts - Mahinda Deshapriya alert for voters
 
 *2024-08-28 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/192201) · `ta`
 
-போலி கருத்துக்கணிப்புகள் குறித்து வாக்காளர்கள் எச்சரிக்கையாகயிருக்கவேண்டும் என முன்னாள் தேர்தல் ஆணையாளர்  மகிந்த தேசப்பிரிய வேண்டுகோள் விடுத்துள்ளார்.
+Here's a summary of 200 characters:
 
-போலியான கருத்துக்கணிப்புகளுக்கும் உண்மையான கருத்துக்கணிப்புகளி;ற்கும் இடையிலான  வித்தியாசத்தை அடையாளம் காண்பது கடினமான விடயம் என தெரிவித்துள்ள அவர் இதன் காரணமாக வாக்காளர்கள் எச்சரிக்கையுடன் இருக்கவேண்டும் என தெரிவி;த்துள்ளார்.
 
-ஐரோப்பிய ஒன்றியத்தால்  மேற்கொள்ளப்பட்டதாகக் கூறப்படும் மற்றும் சமூக ஊடகங்களில் பரவிவரும் கருத்துக்கணிப்புகள் தேர்தல் செயல்முறையை ஒழுங்குபடுத்தும் விதிமுறைகளுக்கு எதிரானவை .
 
-ஐரோப்பிய ஒன்றியம் ஒரு அறிக்கையை வெளியிட்டுஇ அது தேர்தல் கருத்துக்கணிப்புகளை மேற்கொள்ளவில்லைஇ மேலும் பரப்பப்படும் கணிப்புகள் பொய்யானவை என்று கூறியுள்ளது. தேர்தல் ஆணையம் மேலும்இ வாக்களிப்பவர்கள் தவறான தகவல்களைப் பற்றி எச்சரிக்கையாக இருக்கவும்இ தேர்தல் முடிவுகளை எடுக்கும்போது போலி தகவல்கள் மூலம் தவறாக வழிநடத்தப்பட வேண்டாம் என்று கேட்டுக் கொண்டுள்ளது
+Former Election Commissioner Mahinda Deshapriya warns voters about fake polls spread through social media. He claims it's hard to tell real from fake polls. The European Union has issued a report denying involvement in election polls. Deshapriya believes these fake polls aim to manipulate public opinion and increase voter bases.
 
-...
+🟩
+
+Former Election Commissioner Mahinda Deshapriya has appealed to the voters to be cautious about fake polls.
+
+He said that it is difficult to identify the difference between fake polls and actual polls and that voters should be cautious.
+
+The allegedly carried out by the EU and spreading on social media are against the regulations that regulate the election process.
+
+The European Union has issued a report and it has not made election polls.. The Election Commission has also been warned about misinformation about misinformation.
+
+"This is a marketing initiative" "they do not publish details of how they choose human beings for these common polls. The purpose of these fake polls is to increase their voter base. When one goes up and another goes down, the votes will increase to them ”
+
+He using false information to mislead voters and creates a risk of promoting confidence in important socio-political matters and hiding the truth "is difficult to distinguish false and real polls.
+
+◼️
 
 [Data](articles/231ed2cc.json)
 
+[Extended Data](ext_articles/231ed2cc.ext.json)
+
 ---
 
-### කෙරවලපිටිය සොබාධනවි බලාගාරය විවෘත කෙරේ
+### Kerawalapitiya conquest
 
 *2024-08-28 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200411) · `si`
 
-කෙරවලපිටිය “සොබාධනවි” සංයුක්ත චක්‍රීය විදුලි බලාගාරයේ විවෘත චක්‍රීය අදියර, ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් මීට සුළු මොහොතකට පෙර විවෘත කෙරිණි.
+President Ranil Wickremesinghe opens Open Cycle Gas Turbine Power Plant at Kerawalapitiya. First LNG-based power plant in Sri Lanka, 350 MW capacity.
 
-එම ශ්‍රී ලංකාවේ බලශක්ති ක්ෂේත්‍රයේ සුවිශේෂී සන්ධිස්ථානයක් සනිටුහන් කරමින්, ප්‍රාථමික ඉන්ධන ප්‍රභවය ලෙස ද්‍රවකෘත ස්වභාවික වායුව (LNG) භාවිතා කරමින් මෙහෙයුම් කටයුතු සිදුකරනු ලබයි.
+🟩
 
-මෙය ශ්‍රී ලංකාවේ පළමු ස්වභාවික ද්‍රවිකෘත වායු (LNG) විදුලි බලාගාරය වන අතර එහි ධාරිතාවය මෙගාවොට් 350කි.
+Open Cyccholic Power Station at Kerawalapitiya "Sangena" is opened a few moments ago by President Ranil Wickremesinghe.
+
+Operations operates using a liquid natural gas (LNG) as a milestone in the energy sector in Sri Lanka.
+
+This is the first natural source power station in Sri Lanka and its capacity is 350 MW.
 
 ◼️
 
 [Data](articles/9e8183c8.json)
+
+[Extended Data](ext_articles/9e8183c8.ext.json)
 
 ---
 
@@ -93,6 +113,8 @@ The “Sobadhanavi” Combined Cycle Power Plant is the first Sri Lankan power p
 ◼️
 
 [Data](articles/5e22fcaa.json)
+
+[Extended Data](ext_articles/5e22fcaa.ext.json)
 
 ---
 
@@ -164,19 +186,31 @@ He did not elaborate further on the next steps, but said he would also discuss t
 
 ---
 
-### ஒவ்வொரு பக்கமும் தாவிக்கொண்டிருக்கின்ற தவளை அரசியல் முறையை இல்லாதொழிக்க புதிய சட்டத்தைக் கொண்டு வருவோம் - சஜித்
+### Let us bring a new law to abolish the frog's political system that is jumping on each side - Sajith
 
 *2024-08-28 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192190) · `ta`
 
-சிலருக்கு பாராளுமன்ற உறுப்புரிமை கிடைக்கப்பெற்றதன் பின்னர் தாய் தந்தையர்  மற்றும் அவர்களின் பிறப்பு என்பன மறந்து போய் விடுகின்றது. சிலர் மக்களின்  வாக்குகளினால் தெரிவு செய்யப்பட்டு  நல்லடக்கமா எரிப்பதா என்கின்ற பிரச்சினையின் போது கோட்டாபய ராஜபக்சவுக்கு கையை உயர்த்தினார்கள்.  முஸ்லிம் மக்களுடைய கலாச்சார மற்றும்  மார்க்க உரிமையை பாதுகாப்பதற்காக தாம் உள்ளிட்ட ஐக்கிய மக்கள் சக்தியினர்  செயற்பட்டதாக எதிர்க்கட்சித் தலைவர்  தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-மதுபானசாலை அனுமதி பத்திரங்களுக்காகவும், வைன் ஸ்டோர்ஸ்களுக்காகவும் மக்கள் கொடுத்த வரங்களை விற்பனை செய்திருக்கின்றார்கள்.  ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் ஒரு பக்கம் இருந்து இன்னொரு பக்கம்  தாவுகின்ற  தவளை அரசியலுக்கு  முற்றுப்புள்ளி வைப்போம்.
 
-தற்பொழுது காணப்படுகின்ற சட்டங்களை மேலும் வலுப்படுத்தி தமக்கான ஆதாயத்திற்காக,  கட்சி மாறுகின்ற அரசியலை நிறுத்துவதற்கு  முற்றுப்புள்ளி வைக்கப்படும்  என  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+Opposition Leader Sajith Premadasa criticizes "frog politics" in United People's Power Government. Promises economic freedom, unity, and poverty alleviation programs. Supports Muslim compensation for Palestinians.
+
+🟩
+
+Some people forget the birth of the mother and their birth after being given parliamentary membership. Some raised their hands to Gotabhaya Rajapaksa during the issue of whether it was chosen by the votes of the people and whether it was good or burned.The Opposition Leader said that the United People's Ministers, including themselves, said they had acted to protect the cultural and religious rights of the Muslim people.
+
+People have sold the gifts given to liquor permits and wine stores.Let us put an end to the frog politics that jumps from one side to the other in the United People's Power Government.
+
+Opposition Leader Sajith Premadasa said that for his benefit, the party will be put to an end to the politics of the party.
+
+The United People's Power Winning rally was held on Wednesday evening with a large crowd of Opposition Leader Sajith Premadasa in Pottuvil, Ampara, headed by Opposition Leader Sajith Premadasa.. The Leader of the Opposition said this while addressing the event.
 
 ...
 
 [Data](articles/19e4fb31.json)
+
+[Extended Data](ext_articles/19e4fb31.ext.json)
 
 ---
 
@@ -222,79 +256,131 @@ This time, 13 Sri Lankan athletes had qualified for the 2024 World Junior Athlet
 
 ---
 
-### பெண்கள் எல்லாவற்றையும் பொறுத்துக் கொண்டிருப்பது ஒரு வகையிலே கோழைத்தனமாகும் - சமன்மலி குணசிங்க
+### Women tolerate everything are cowardly - Samanamali Gunasinghe
 
 *2024-08-28 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/192187) · `ta`
 
-அநுர குமார திசாநாயக்கவை ஜனாதிபதி ஆக்குகின்ற, அந்த வெற்றியை பெரு வெற்றியாக மாற்றுகின்ற பெண்களின் பலமே இது. “பெண்களின் சக்தி ஒரே மூச்சுடன் – நாளைய தினத்திற்காக நாடு அநுரவோடு” அதுவே எங்களுடைய தொனிப்பொருள்.
+Here's a summary of the text in 200 characters:
 
-தேசிய மக்கள் சக்தியின் பெண்களாகிய நாங்கள் ஒரே மூச்சுடன் ஒன்றிணைந்து இந்த நாட்டை புதிய மறுமலர்ச்சியை நோக்கி கொண்டு செல்கின்ற பாதையை அந்த வெற்றியை குறிக்கும் முகமாக இந்த இடத்தில் ஒன்றிணைந்துள்ளோம்.
 
-நாங்கள் கடந்த பல வருடங்களாக வறட்சிக்கு தாக்குப்பிடித்துக் கொண்டு இருந்தவர்களாவோம். வறட்சிக்கு முகம் கொடுத்து அன்பான குடும்பத்தை பாதுகாத்துக் கொண்ட துணிச்சல் மிக்க பெண்களே நீங்கள். பெண்கள் எல்லாவற்றையும் பொறுத்துக் கொண்டிருப்பது ஒரு வகையிலே கோழைத்தனமாகும்.
 
-எமது நாட்டின் அரசியல்வாதிகள் பல்வேறு துறைகளில் பெண்களை சிறைப்படுத்தி வைத்திருந்தார்கள். பெண்கள் பலவீனமானவர்கள், அவர்களுக்கு ஒன்றுமே விளங்காது, பெண்களுக்கு அரசியல் தேவையில்லை, பெண்கள் மரக்கட்டைகளாக வாழ்ந்து மடிந்து போகவேண்டுமென நினைத்தார்கள்.
+Women's strength in politics: overcoming tolerance, defending families, uniting against drought. Empowering women to change the country.
+
+🟩
+
+This is the strength of women who make the President of Anura Kumara Dissanayake and make that victory into a great success. "The power of women with the same breath - the country for the day," that is our theme.
+
+We, the women of the national people's power, have united with the same breath and the path to the new revival of this country.
+
+We have been hitting drought for the past several years. You are the brave women who have defended the drought and protected the beloved family. It is cowardly in a way that women are tolerated.
+
+Our country's politicians kept women in various fields. Women were weak, they did not understand anything, women need not politics, and women thought they had to live as wooden bundles.
+
+When you were thinking of you as a pet, you saw you around. It was at that time that women came to town and knocked on your doors.
 
 ...
 
 [Data](articles/302bccce.json)
 
+[Extended Data](ext_articles/302bccce.ext.json)
+
 ---
 
-### அதிகரிக்கும் வெப்பநிலை ; தோல் நோய்கள் ஏற்படலாம் - வைத்திய நிபுணர்கள் எச்சரிக்கை
+### Increase temperature;Skin diseases can cause - doctors alert
 
 *2024-08-28 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/192189) · `ta`
 
-நாட்டில் தற்போது அதிகரித்து வரும் வெப்பநிலையினால் தோல் நோய்கள் ஏற்படக்கூடிய வாய்ப்புக்கள் அதிகம் காணப்படுவதாக வைத்திய நிபுணர்கள் தெரிவித்துள்ளனர்.
+Here's a summary of the text in 200 characters:
 
-நமது சருமத்திற்கு நேரடியாக படும் அதிகளவிலான சூரிய ஒளியினால்  தோல் நோய்கள் ஏற்படுவதற்கு வாய்ப்பு உள்ளது.
 
-இது தொடர்பில் கொழும்பு சீமாட்டி சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா  தெரிவித்துள்ளதாவது,
 
-நாடு முழுவதும் அதிகரித்து வரும் வெப்பநிலையினால் குழந்தைகளிடையே தோல் நோய்  பிரச்சினைகள் மிகவும் பொதுவான ஒன்றாக உள்ளது.
+"High temperatures increase risk of skin diseases. Experts advise avoiding direct sunlight, staying hydrated with natural fluids, and keeping children cool. Peak sun hours are between 12:11 PM and 3:00 PM daily."
 
-எனவே, அதிக சூரிய ஒளி படும் இடங்களில் இருப்பதை தவிர்ப்பதோடு, அதிகளவு தண்ணீர் பருக வேண்டும்.
+🟩
 
-மேலும், செயற்கையான குளிர் பானங்களை அருந்துவதை தவிர்த்து இயற்கையான தண்ணீர், எலுமிச்சை சாறு, இளநீர் போன்றவற்றை பருக வேண்டும்.
+Medical experts say that the current temperature in the country is more likely to cause skin diseases.
 
-பெற்றோர்கள் தங்கள் பிள்ளைகளை ஒரு நாளைக்கு இரண்டு முறை குளிர்ப்பாட்ட வேண்டும் என தெரிவித்துள்ளார்.
+Excessive sunlight that directly causes our skin is likely to cause skin diseases.
 
-சூரியனின் தெற்கு நோக்கிய நகர்வதால் இன்று (28) முதல் செப்டெம்பர் 06 ம் திகதி வரையில் சூரியன் நாட்டின் பல பிரதேசங்களுக்கு மேலாக உச்சம் கொடுக்கின்றது.
+In this regard, Deepal Perera, a specialist in the Children's Hospital in Colombo, said,
 
-...
+Rising temperatures across the country are one of the most common people in children with skin problems.
+
+Therefore, you should avoid excessive sunlight and drink too much water.
+
+Also, drink natural water, lemon juice and juices, avoiding artificial cold drinks.
+
+Parents should refrigerate their children twice a day.
+
+The Sun is moving towards the south of the Sun, from today (28) to September 6, the sun is overpowering many parts of the country.
+
+Based on this, at around 12.11 pm today, the sun will peak above places like Nedundevu, Poonakari, Tattuvankottai and Sundikulam.
+
+The event was globally changes in the event, an official of the Department of Meteorology said.
+
+◼️
 
 [Data](articles/5bab3cdf.json)
 
+[Extended Data](ext_articles/5bab3cdf.ext.json)
+
 ---
 
-### பெண்கள் அரசியலில் பிரவேசித்தது எங்களுக்கு மட்டற்ற மகிழ்ச்சி தருகின்ற விடயமாகும் - பேராசிரியர் வசந்தா சுபசிங்க
+### Women entered politics
 
 *2024-08-28 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/192184) · `ta`
 
-பெண்கள் அரசியலில் பிரவேசித்தது எங்களுக்கு மட்டற்ற மகிழ்ச்சி தருகின்ற விடயமாகும். அநுர குமார திசாநாயக்கவின்  வெற்றியை முழு உலகுமே எதிர்பார்த்துக்கொண்டிருக்கிறது. செப்டெம்பர் 21 ஆம் திகதி என்பது அரசியல்வாதிகளால் வீழ்த்தப்பட்ட நாட்டை நிமிர்த்தி வைக்கின்ற தினமாகும்.
+Here's a summary of the text in 200 characters:
 
-அந்த வெற்றிக்கான உங்களின் அர்ப்பணிப்பே இது. எமது நாட்டின் வரலாற்றினை பொன்னெழுத்துக்களால் குறிக்கின்ற யுகத்தை நாங்கள் ஏற்படுத்திக் கொடுப்போம். இயற்கையாகவே இருக்கின்ற பால் நிலை வித்தியாசத்தை தவிர்த்த வேறு எந்த விதமான வித்தியாசமும் ஆண்களுக்கும் பெண்களுக்கும் இடையில் கிடையாது. பெண்கள் என்பதனால் மாத்திரமே நாங்கள்  பல்வேறு பிரச்சினைகளை அனுபவித்து வருகிறோம். வறுமையை அதிகமாக அனுபவிப்பவர்கள் பெண்களே.
+
+
+Women in politics: Challenges, opportunities, and rights. Emphasis on female empowerment, economic participation, and protection abroad.
+
+🟩
+
+Women enter politics. The whole world is looking forward to the success of Anura Kumara Dissanayake. September 21 is the day when the politicians were brought down.
+
+This is your commitment to that success. We will create the era of our country's history of golden letters. There is no other difference between men and females except for the difference of milk that is naturally. We are experiencing various problems only because of women. Women are the ones who experience more poverty.
+
+If you take Sri Lankan women, she has to play a huge role in the house, on the field, in the field, at the plant, the workplace. There is a massive activity for women everywhere. This is the representation of those women. 25 % of families are headed by women if they do a survey of Sri Lankan families.
+
+Those mothers and sisters are engaged in economic activities with the attention of families. Therefore, the national people's power has to do a huge task.
 
 ...
 
 [Data](articles/2e0eb52a.json)
 
+[Extended Data](ext_articles/2e0eb52a.ext.json)
+
 ---
 
-### தேர்தல் விஞ்ஞாபனங்களின் ஊடாக பொய்யான வாக்குறுதிகளை அளிப்பதன் மூலம் அன்றி,  நாட்டின் பொருளாதாரத்தை வலுப்படுத்துவதன் மூலமே மக்களுக்கு நிரந்தரமாக நிவாரணம் வழங்க முடியும் - கண்டியில் ஜனாதிபதி தெரிவிப்பு
+### By making false promises through election manifesto, it can provide permanent relief to the people by strengthening the country's economy.
 
 *2024-08-28 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/192183) · `ta`
 
-தேர்தல் பிரகடனங்களில் போலி வாக்குறுதிகளை வழங்குவதால் மக்களுக்கு நிவாரணம் வழங்க முடியாதென தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க பொருளாதாரத்தை பலப்படுத்துவதன் மூலம் மட்டுமே அதனை செய்ய முடியுமெனவும் வலியுறுத்தினார்.
+Here's a summary of the article in 200 characters:
 
-நாட்டின் பொருளாதார அபிவிருத்திக்காக ஐந்தாண்டு திட்டமொன்று தன்னிடத்தில் உள்ளதாக சுட்டிக்காட்டிய ஜனாதிபதி, அந்த திட்டத்தை செயற்படுத்தி பொருளாதாரத்தை நிலைப்படுத்துவதோடு உணவுப் பொருட்களின் விலையை குறைத்து மக்களின் வரிச்சுமையை குறைப்பதாகவும் உறுதியளித்தார்.
 
-கண்டி, பூஜாபிடிய, மாரதுகொட மைதானத்தில் நேற்று செவ்வாய்க்கிழமை (27) நடைபெற்ற "இயலும் ஸ்ரீலங்கா" பொதுக்கூட்டத்திலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
 
-கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் குணதிலக்க ராஜபக்ஷவினால் ஏற்பாடு செய்யப்பட்டிருந்த இந்தக் கூட்டத்தில் கலந்துகொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு மக்கள் அமோக வரவேற்பளித்தனர்.
+President Ranil Wickremesinghe emphasizes economic growth, criticizes opponents' promises, outlines 5-year development plan, and urges voters to support him for another term.
+
+🟩
+
+President Ranil Wickremesinghe stressed that it could only do it by strengthening the economy, saying that the people would not be able to provide relief because of fake promises in the election declarations.
+
+Pointing out that there is a five -year plan for the country's economic development, the President promised to implement the project and establish the economy and reduce the cost of food and reduce the tax burden of the people.
+
+President Ranil Wickremesinghe made this statement at the "Ceylon Sri Lanka" public meeting held at the Marathukoda Ground in Poojapitiya, Kandy on Tuesday (27).
+
+The people were welcomed by President Ranil Wickremesinghe, who attended the meeting organized by Kandy district parliamentarian Gunathilaka Rajapaksa.
+
+'' I accepted the country that reached the bank. Then the array age and fertilizer shortage and the shortage of essential commodities could be seen. But today there is an environment where there is no shortage.
 
 ...
 
 [Data](articles/9bb6081b.json)
+
+[Extended Data](ext_articles/9bb6081b.ext.json)
 
 ---
 

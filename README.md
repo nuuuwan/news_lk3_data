@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 23:37:18**
+As of **2024-08-28 23:56:50**
 
 ## Newspaper Stats
 
-*Scraped **43,099** Articles*
+*Scraped **43,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,607
 dailyftlk | 2,795
 adalk | 3,988
 dailymirrorlk | 4,733
-adaderanalk | 5,071
+adaderanalk | 5,072
 tamilmirrorlk | 5,619
 virakesarilk | 6,852
 adaderanasinhalalk | 7,390
@@ -26,23 +26,49 @@ adaderanasinhalalk | 7,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,098 (100.0%) of 43,099 articles have been extended.
+43,099 (100.0%) of 43,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### தேர்தல் பிரச்சார அலுவலகம் தீக்கிரை
+### Second gunman and driver in ‘Club Wasantha’ murder arrested
+
+*2024-08-28 23:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101578/second-gunman-and-driver-in-club-wasantha-murder-arrested) · `en`
+
+The second gunman and the car driver wanted in connection with the recent killing of two persons including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’, have been arrested by the Panadura Police Divisional Crimes Detective Bureau at Pinwaththa in Panadura.
+
+The arrested suspects are reportedly aged 29 and 32 while they are residents of Nagoda and Ahugalla areas.
+
+Based on the information received by the Panadura SSP that the suspects were staying in the Pinwatta area of Panadura, a team of officers including a Chief Inspector had apprehended the suspects while they were at the Pinwatta bus stop.
+
+According to the police, it has been revealed in the investigation so far that the suspects changed from the car to a van and traveled to Kadawata from there along the Southern Expressway to Matara after carrying out the shooting.
+
+A senior police officer said that the suspects are to be handed over to the Athurigiriya Police for further investigation.
+
+...
+
+[Data](articles/a6b5893c.json)
+
+---
+
+### The election campaign office
 
 *2024-08-28 23:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-பிரச்சார-அலுவலகம்-தீக்கிரை/175-342943) · `ta`
 
-மீரிகம பொகலகம பிரதேசத்தில் உள்ள தேசிய மக்கள் கட்சியின் தேர்தல் பிரச்சார அலுவலகம் இன்று தீக்கிரையாக்கப்பட்டுள்ளதாக பல்லேவெல பொலிஸார் தெரிவித்துள்ளனர்.
+National People's Party election office in Mirigama Bogalagama burned. Police investigating arsonist.
 
-தீ வைத்த நபர் ஏற்கனவே அடையாளம் காணப்பட்டுள்ளதாகவும், அவரை கைது செய்வதற்கான விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் பல்லேவெல பொலிஸார் தெரிவிக்கின்றனர். R
+🟩
+
+The National People's Party's election campaign office in Mirigama Bogalagama area has been set on fire today, Pallewela police said.
+
+Pallewela police say that the fire man has already been identified and investigations are underway to arrest him.. Remble
 
 ◼️
 
 [Data](articles/844ef927.json)
+
+[Extended Data](ext_articles/844ef927.ext.json)
 
 ---
 
@@ -2501,23 +2527,5 @@ The event was globally changes in the event, an official of the Department of Me
 [Data](articles/5bab3cdf.json)
 
 [Extended Data](ext_articles/5bab3cdf.ext.json)
-
----
-
-### Sri Lanka rupee opens slightly weaker, bonds marginally up
-
-*2024-08-28 09:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-slightly-weaker-bonds-marginally-up-178195/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened slightly weaker at 300.30/80 to the US dollar Wednesday from 300.00/30 to the US dollar a day earlier, dealers said, while bond yields were marginally up.
-
-A bond maturing on 01.07.2028 was quoted at 12.60/70 marginally up from 12.50/55 percent.
-
-A bond maturing on 15.06.2029 was quoted 12.75/90 up from 12.70/80 percent. (Colombo/Aug28/2024)
-
-◼️
-
-[Data](articles/ae605986.json)
-
-[Extended Data](ext_articles/ae605986.ext.json)
 
 ---

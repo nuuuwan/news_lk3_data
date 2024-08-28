@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 15:21:34**
+As of **2024-08-28 15:37:23**
 
 ## Newspaper Stats
 
-*Scraped **43,038** Articles*
+*Scraped **43,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,063
 tamilmirrorlk | 5,610
 virakesarilk | 6,846
-adaderanasinhalalk | 7,374
+adaderanasinhalalk | 7,375
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,037 (100.0%) of 43,038 articles have been extended.
+43,038 (100.0%) of 43,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### අම්පාර සුර පුරයක් කරනවා - සජිත්
+
+*2024-08-28 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200421) · `si`
+
+සිය රජයක් යටතේ අම්පාර දිස්ත්‍රික්කය සංවර්ධනයේ සුර පුරයක් බවට පත්කරන බව විපක්ෂ නායක, සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+අඩ්ඩාලච්චේනෙයි හිදී පැවති ජනාධිපතිවරණ ජන රැලියකදී සජිත් ප්‍රේමදාස මහතා මෙම අදහස් පළ කළේය.
+
+විපක්ෂ නායක, සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාගේ ජය තහවුරු කිරීම වෙනුවෙන් පැවැත්වෙන ජන රැලි මාලාවේ තවත් ජන රැලියක් ඊයේ (27) පස්වරුවේ මෙලෙස පැවැත්වුණි.
+
+එහිදී වැඩිරටත් අදහස් දැක්වූ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා,
+
+"ගොවිතැනේ නියැලී සිටින ජනතාවට ගුණාත්මක භාවයෙන් ඉහළ කිලෝ 50 පොහොර මිටිය රුපියල් 5000ට ලබාදෙනවා. ඒ වගේම තෙල් පොහොර දරාගත හැකි මුදලකට ලබාදෙන්න කටයුතු කරනවා. ඔබගේ නිෂ්පාදනයට, වී වලට ස්ථිර සහතික මිලක් ලබාදෙනවා. එක පැත්තකින් ගොවියාට හානි කරන තවත් පැත්තකින් පාරිභෝගිකයාට මහා සාපයක් වුණු මේ හාල් මෝල් මාෆියාවෙන් ගොවියාවත් බේරගෙන පාරිභෝගිකයාවත් බේරගෙන සාධාරණ සූත්‍රයක් හරහා ගොවියාට හොඳ සහතික මිලකුත් ලබාදෙනවා. පාරිභෝගිකයාට දාරගත හැකි මිලකට සහල් මිලදී ගැනීමට අවස්ථාව ලබාදෙනවා."
+
+◼️
+
+[Data](articles/dbf69695.json)
+
+---
 
 ### 3 presidential candidates ‘almost missing’, 24 still off the grid: Election watchdog questions accountability
 
@@ -362,17 +382,27 @@ The GDP has fallen to US $ 395 million in the late June last year.
 
 ---
 
-### අමාත්‍ය අලි සබ්රි සමාව අයදියි
+### Elephant Sabri forgives
 
 *2024-08-28 12:48:48* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍ය-අලි-සබ්රි-සමාව-අයදියි/11-411606) · `si`
 
-විදෙස් ගමන් බලප්‍ර ලබා ගැනීමට පැමිණෙන ජනතාවට සිදු වන අපහසුතාවය පිළිබඳ කණගාටු වන බවත්, රජයක් ලෙස සමාව ඉල්ලා සිටින බවත් විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා පැවසීය.
+Here's a summary of the text in 200 characters:
 
-මම රජයක් විදියට සමාව ඉල්ලනවා. අලුත් පාස්පෝට් එකක් දාන නිසා තමයි මේක වෙලා තියෙන්නේ. අපි පුළුවන් තරම් ඉක්මනින් උත්සහ කරනවා ඒක ගෙන්න ගන්න. ඒ ලොට් එක ලැබෙනවා ඔක්තෝම්බර් 16 වැනිදා. එතකන් තියෙන එකෙන් පාලනය කර ගන්න සිදු වෙනවා. මම එකඟ වෙනවා එතන මීට වඩා කලමනාකරණය කරගෙන කරන්න තිබුණා කියලා. ජනතාවට සිදුවන අපහසුතාවයට විදේශ අමාත්‍යවරයා විදියට සහ රජයේ නියෝජිතයෙක් හැටියට කණගාටුව ප්‍රකාශ කරනවා.
+
+
+Egyptian Foreign Minister Ali Sabri apologizes for passport delays, promising expedited processing. He acknowledges past inefficiencies and vows better management.
+
+🟩
+
+Foreign Minister Ali Sabri said that the people who come to achieve foreign travel, External Aleppo, said, he said.
+
+I apologize as a government. This is because this is a new passport. We're trying to get it as soon as possible. That Lot is on October 16th. You have to control with. I agree that there was more management to do that. Sun as the Foreign Minister and a government representative for the uncomfortable people.
 
 ◼️
 
 [Data](articles/6a6cee38.json)
+
+[Extended Data](ext_articles/6a6cee38.ext.json)
 
 ---
 
@@ -2415,39 +2445,5 @@ The Mawanella bus stand was held at the bus stand by the Mawanella bus stand thi
 [Data](articles/41c54154.json)
 
 [Extended Data](ext_articles/41c54154.ext.json)
-
----
-
-### Indian suspended sentences who pleaded guilty to betray cricket
-
-*2024-08-27 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200399) · `si`
-
-Here's a summary of the article in 200 characters:
-
-
-
-Indian national pleads guilty to match-fixing in Sri Lanka. Sentenced to 6 years imprisonment and 11 million rupees fine. Case investigated by ICC Anti-Corruption Unit.
-
-🟩
-
-An Indian national who pleaded guilty to betray cricket match was imprisoned by the Kandy High Court today.
-
-It was in connection with a betrayal of the first betrayal of the tournament in the Pallekele Cricket Stadium from 08th to March 19-14.
-
-The investigation was initiated following a complaint lodged by the Anti-Corruption Unit of the International Cricket Council.
-
-Investigations have revealed that a England player and a New Zealand player who played the Punjab Royal team and a New Zealand player have been proposed.
-
-Accordingly, the Attorney General's Department has been indicted by the Attorney General's Department on proposing an Indian national in relation to the incident and to support the betrayal of the match.
-
-The case was taken up today and the Indian national had pleaded guilty for both indictments.
-
-Accordingly, the Kandy High Court judge has been sentenced to 11 million rupees at one point and a serious work in six years.
-
-◼️
-
-[Data](articles/0eb41431.json)
-
-[Extended Data](ext_articles/0eb41431.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 15:07:10**
+As of **2024-08-28 15:21:34**
 
 ## Newspaper Stats
 
-*Scraped **43,037** Articles*
+*Scraped **43,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,595
 dailyftlk | 2,795
-adalk | 3,978
+adalk | 3,979
 dailymirrorlk | 4,733
 adaderanalk | 5,063
 tamilmirrorlk | 5,610
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,374
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,035 (100.0%) of 43,037 articles have been extended.
+43,037 (100.0%) of 43,038 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Speaking during Ada Derana’s current affairs programme “Big Focus”, Gajana
 
 [Data](articles/a252f66f.json)
 
+[Extended Data](ext_articles/a252f66f.ext.json)
+
 ---
 
 ### Petition challenging President Ranil’s eligibility to contest prez poll dismissed with costs
@@ -63,6 +65,8 @@ The relevant petition had been filed by a lawyer requesting the court to issue a
 ◼️
 
 [Data](articles/72638f92.json)
+
+[Extended Data](ext_articles/72638f92.ext.json)
 
 ---
 
@@ -355,6 +359,20 @@ The GDP has fallen to US $ 395 million in the late June last year.
 [Data](articles/6a4d219d.json)
 
 [Extended Data](ext_articles/6a4d219d.ext.json)
+
+---
+
+### අමාත්‍ය අලි සබ්රි සමාව අයදියි
+
+*2024-08-28 12:48:48* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍ය-අලි-සබ්රි-සමාව-අයදියි/11-411606) · `si`
+
+විදෙස් ගමන් බලප්‍ර ලබා ගැනීමට පැමිණෙන ජනතාවට සිදු වන අපහසුතාවය පිළිබඳ කණගාටු වන බවත්, රජයක් ලෙස සමාව ඉල්ලා සිටින බවත් විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා පැවසීය.
+
+මම රජයක් විදියට සමාව ඉල්ලනවා. අලුත් පාස්පෝට් එකක් දාන නිසා තමයි මේක වෙලා තියෙන්නේ. අපි පුළුවන් තරම් ඉක්මනින් උත්සහ කරනවා ඒක ගෙන්න ගන්න. ඒ ලොට් එක ලැබෙනවා ඔක්තෝම්බර් 16 වැනිදා. එතකන් තියෙන එකෙන් පාලනය කර ගන්න සිදු වෙනවා. මම එකඟ වෙනවා එතන මීට වඩා කලමනාකරණය කරගෙන කරන්න තිබුණා කියලා. ජනතාවට සිදුවන අපහසුතාවයට විදේශ අමාත්‍යවරයා විදියට සහ රජයේ නියෝජිතයෙක් හැටියට කණගාටුව ප්‍රකාශ කරනවා.
+
+◼️
+
+[Data](articles/6a6cee38.json)
 
 ---
 
@@ -2431,33 +2449,5 @@ Accordingly, the Kandy High Court judge has been sentenced to 11 million rupees 
 [Data](articles/0eb41431.json)
 
 [Extended Data](ext_articles/0eb41431.ext.json)
-
----
-
-### According to the poll, Ranil and Sajith competition;The JVP says third place
-
-*2024-08-27 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/192169) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Janatha Vimukthi Peramuna (JVP) ranks third in presidential polls between Ranil Wickremesinghe and Sajith Premadasa. JVP's past violence deters voters despite grand rallies. Their vote share remains low at 3%.
-
-🟩
-
-Ranil and Sajithu in the upcoming polls so far. Parliamentarian Rajitha Senaratne said that the Janatha Vimukthi Peramuna (JVP) is third.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (27).
-
-Ranil Wickremesinghe and Sajith Premadasa have a competition in the presidential election so far.. The Janatha Vimukthi Peramuna (JVP) is in the third place, even though the media is gathering and gathering people. Such extravagant events of the Janatha Vimukthi Peramuna (JVP) were during the time of Rahan Wijeweera.
-
-The last time they fill the Galle Prophet, they gathered people to fill the Galle Fort. But they got 3 per cent of the election. So people will not vote for them because people come to their meetings.
-
-...
-
-[Data](articles/2b37b030.json)
-
-[Extended Data](ext_articles/2b37b030.ext.json)
 
 ---

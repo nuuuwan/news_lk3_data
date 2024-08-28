@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 05:06:42**
+As of **2024-08-29 05:21:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,126 (100.0%) of 43,127 articles have been extended.
+43,127 (100.0%) of 43,127 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,21 +54,35 @@ National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake 
 
 ---
 
-### ’எம்.பிக்களுக்கு நேரடியாக பணம் கிடைக்காது’
+### Model MPs do not get money directly
 
 *2024-08-29 01:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கு-நேரடியாக-பணம்-கிடைக்காது/175-342953) · `ta`
 
-அபிவிருத்தி பணம் ஜனாதிபதி செயலகத்தால் நேரடியாக மாவட்ட செயலகங்களுக்கு அனுப்பப்படுகின்றதே தவிர எந்த பாராளுமன்ற உறுப்பிருக்கும் நேரடியாக கொடுக்கப்படவில்லை என தமிழ் தேசிய கூட்டமைப்பு தெரிவித்துள்ளது.
+Here's a summary of the text in 200 characters:
 
-தமிழ் தேசிய கூட்டமைப்பின் ஊடகப் பேச்சாளர்  உறுப்பினர் எம்.ஏ. சுமந்திரன் வெளியிட்ட ஊடக அறிக்கையில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
 
-தமிழ் தேசிய கூட்டமைப்பு (இலங்கை தமிழ் அரசுக் கட்சி) பாராளுமன்ற உறுப்பினர்களுக்கு நிதி வழங்கப்பட்டுள்ளதாக பெரியளவிலான பிரச்சாரங்கள் மேற்கொள்ளப்பட்டு வருகின்றன.
 
-இந்நிதியானது குறிப்பிடப்பட்ட பாராளுமன்ற உறுப்பினர்களுக்கு  கொடுக்கப்பட்டது போன்ற தோற்றப்பாடு வேண்டுமென்றே ஏற்படுத்தப்படுகின்றது. பன்முகப்படுத்தப்பட்ட அபிவிருத்தி நிதி, மற்றும் பல்வேறு அபிவிருத்தி நிதிகள் ஜனாதிபதி செயலாகத்தால் இவ்வருடம் ஒதுக்கீடு செய்யப்பட்டிருக்கின்றது. இதற்கு உதவியாக அந்தந்த மாவட்டத்தைச் சேர்ந்த பாராளுமன்ற உறுப்பினர்களால் அபிவிருத்திக்காக முன்மொழிவுகள் கோரப்பட்டிருந்தன.
+TNA claims MPs don't receive direct funding. Money goes to District Secretariats via Presidential Secretariat. Campaign alleges TNA MPs are funded, but allocations are for district development projects, not personal use.
 
-...
+🟩
+
+The Tamil National Alliance (TNA) said that the development money is being sent directly to the District Secretariats by the Presidential Secretariat and no parliamentary member has been given directly.
+
+TNA Media Spoke Member MA. This was stated in a media statement issued by Sumanthiran.
+
+There is a large campaign that the Tamil National Alliance (Tamil National Alliance) MPs have been funded by MPs.
+
+The fund is deliberately made to look like it was given to the mentioned MPs. Diversity Development Fund and various development funds have been allocated this year by the President's actions. To assist in this, proposals were requested by MPs from the respective district for development.
+
+Different amounts have been allocated by the President's action. The district is directly for the development work of the district
+
+Is not given directly to any parliamentary member of the. The report is being published due to false poisoning in recent times.
+
+◼️
 
 [Data](articles/8e22ee1d.json)
+
+[Extended Data](ext_articles/8e22ee1d.ext.json)
 
 ---
 

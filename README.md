@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 23:21:56**
+As of **2024-08-28 23:37:18**
 
 ## Newspaper Stats
 
-*Scraped **43,098** Articles*
+*Scraped **43,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,795
 adalk | 3,988
 dailymirrorlk | 4,733
 adaderanalk | 5,071
-tamilmirrorlk | 5,618
+tamilmirrorlk | 5,619
 virakesarilk | 6,852
 adaderanasinhalalk | 7,390
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,098 (100.0%) of 43,098 articles have been extended.
+43,098 (100.0%) of 43,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### தேர்தல் பிரச்சார அலுவலகம் தீக்கிரை
+
+*2024-08-28 23:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-பிரச்சார-அலுவலகம்-தீக்கிரை/175-342943) · `ta`
+
+மீரிகம பொகலகம பிரதேசத்தில் உள்ள தேசிய மக்கள் கட்சியின் தேர்தல் பிரச்சார அலுவலகம் இன்று தீக்கிரையாக்கப்பட்டுள்ளதாக பல்லேவெல பொலிஸார் தெரிவித்துள்ளனர்.
+
+தீ வைத்த நபர் ஏற்கனவே அடையாளம் காணப்பட்டுள்ளதாகவும், அவரை கைது செய்வதற்கான விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் பல்லேவெல பொலிஸார் தெரிவிக்கின்றனர். R
+
+◼️
+
+[Data](articles/844ef927.json)
+
+---
 
 ### Election?
 
@@ -2505,33 +2519,5 @@ A bond maturing on 15.06.2029 was quoted 12.75/90 up from 12.70/80 percent. (Col
 [Data](articles/ae605986.json)
 
 [Extended Data](ext_articles/ae605986.ext.json)
-
----
-
-### Women entered politics
-
-*2024-08-28 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/192184) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Women in politics: Challenges, opportunities, and rights. Emphasis on female empowerment, economic participation, and protection abroad.
-
-🟩
-
-Women enter politics. The whole world is looking forward to the success of Anura Kumara Dissanayake. September 21 is the day when the politicians were brought down.
-
-This is your commitment to that success. We will create the era of our country's history of golden letters. There is no other difference between men and females except for the difference of milk that is naturally. We are experiencing various problems only because of women. Women are the ones who experience more poverty.
-
-If you take Sri Lankan women, she has to play a huge role in the house, on the field, in the field, at the plant, the workplace. There is a massive activity for women everywhere. This is the representation of those women. 25 % of families are headed by women if they do a survey of Sri Lankan families.
-
-Those mothers and sisters are engaged in economic activities with the attention of families. Therefore, the national people's power has to do a huge task.
-
-...
-
-[Data](articles/2e0eb52a.json)
-
-[Extended Data](ext_articles/2e0eb52a.ext.json)
 
 ---

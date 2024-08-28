@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 00:55:14**
+As of **2024-08-29 01:06:47**
 
 ## Newspaper Stats
 
-*Scraped **43,101** Articles*
+*Scraped **43,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 400
 colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,607
-dailyftlk | 2,795
+dailyftlk | 2,800
 adalk | 3,988
 dailymirrorlk | 4,733
 adaderanalk | 5,072
-tamilmirrorlk | 5,619
+tamilmirrorlk | 5,620
 virakesarilk | 6,852
 adaderanasinhalalk | 7,391
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,101 (100.0%) of 43,101 articles have been extended.
+43,101 (100.0%) of 43,107 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,82 @@ The suspects are to be handed over to the Athurugiriya Police for further invest
 [Data](articles/8bcc88bb.json)
 
 [Extended Data](ext_articles/8bcc88bb.ext.json)
+
+---
+
+### Arbudaya, Aragalaya, Punarudaya
+
+*2024-08-28 23:43:26* · [`dailyftlk`](https://www.ft.lk/columns/Arbudaya-Aragalaya-Punarudaya/4-766108) · `en`
+
+Words that acquire new meaning in the public psyche are the loudest witnesses of unfolding history
+
+“The future has many names: for the weak it means the unattainable; for the fearful, it means the unknown; for the courageous, it means opportunity.”
+
+Victor Hugo the French writer provided this advice to France in the turbulent days of the end of the “ancien régime’ and the birth of the new republic.
+
+Meaningful change occurs when a vision is combined with realism and pragmatism to turn it into something tangible, concrete. Clarity of ideas shape reality.
+
+The NPP presented its party manifesto yesterday (26 August). I watched the finely choreographed presentation on YouTube. I listened to the candidate AKD. This is my take.
+
+...
+
+[Data](articles/90be85c0.json)
+
+---
+
+### Chandra Jayaratne writes to SEC on EPF receiving Rs. 231 m over share transaction
+
+*2024-08-28 23:42:45* · [`dailyftlk`](https://www.ft.lk/opinion/Chandra-Jayaratne-writes-to-SEC-on-EPF-receiving-Rs-231-m-over-share-transaction/14-766107) · `en`
+
+Good governance activist Chandra Jayaratne has written the following letter to SEC Chairman Faizal Salieh over the EPF receiving Rs. 231 million on account of alleged manipulation and loss of value on transaction of shares of LAUGFS Gas PLC, with copies to President, Minister of Finance, Minister of Justice, Minister of Internal Security, IMF Diagnostics Unit, Ceylon Chamber of Commerce, Institute of Chartered Accountants, and Media for Public Knowledge
+
+This note begins with an expression of the highest recognition of the professionalism, courage to be different, and for transparent upholding of the rule of law, as pursued by the Securities and Exchange Commission (SEC) in the above connection. It is an example worthy of noting and emulation by other independent institutions, regulatory authorities, and independent law enforcement authorities.
+
+...
+
+[Data](articles/9e5dcdf0.json)
+
+---
+
+### ISIS ஐ.எஸ்.ஐ.எஸ் குறித்து இன்ஸ்டாகிராமில் பிரசாரம் செய்த இளைஞன்
+
+*2024-08-28 23:41:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-ஐ-எஸ்-ஐ-எஸ்-குறித்து-இன்ஸ்டாகிராமில்-பிரசாரம்-செய்த-இளைஞன்/175-342944) · `ta`
+
+ஐ.எஸ்.ஐ.எஸ் பயங்கரவாத அமைப்பின் போர் நடவடிக்கைகள் தொடர்பான தகவல்களை இன்ஸ்டாகிராம் உள்ளிட்ட சமூக ஊடகங்கள் மூலம் பரப்பியதாக கைது செய்யப்பட்ட இளைஞரை 90 நாட்கள் தடுப்புக்காவலில் வைத்து விசாரிக்க நீதிமன்றம் இன்று (28ம் திகதி) அனுமதி வழங்கியுள்ளது.
+
+இம்மாதம் 22ஆம் திகதி பயங்கரவாத புலனாய்வு பிரிவினரால் சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட இரத்மலானை 05ஆம் லேன் இரத்மலானை பொருபன வீதியை சேர்ந்த இமாட் ஷமாம் என்ற சந்தேக நபரை தடுத்து வைத்து விசாரணை நடத்த கொழும்பு மேலதிக நீதவான் பசன் அமரசிங்க அனுமதியளித்தார்.
+
+குறித்த சந்தேக நபரான ஐ.எஸ். ஐ.எஸ் பயங்கரவாத அமைப்பின் ஆயுதங்கள் தொடர்பான தகவல்கள் அடங்கிய காணொளிகளை எடிட் செய்து தனது இன்ஸ்டாகிராம் கணக்கின் ஊடாக சமூக ஊடகங்களில் வெளியிட்டதாக நீதிமன்றில் தெரிவித்த பயங்கரவாத புலனாய்வு பிரிவின் அதிகாரிகள், இந்த சந்தேக நபரை ஐ.எஸ்.ஐ.எஸ். அந்த அமைப்பின் கொடிகளில் குறிப்பிடப்பட்ட சின்னங்கள் அடங்கிய மோதிரங்கள் அவரிடம் இருப்பதாகவும் தெரிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/1a81ff79.json)
+
+---
+
+### NPP manifesto: Anura’s unwise pledge to abolish the Executive Presidency
+
+*2024-08-28 23:27:14* · [`dailyftlk`](https://www.ft.lk/columns/NPP-manifesto-Anura-s-unwise-pledge-to-abolish-the-Executive-Presidency/4-766105) · `en`
+
+Ex-JVP Politbureau member and Cabinet Minister Chandrasena Wijesinghe joins Sajith
+
+“The executive Presidential system will be abolished, a Parliamentary system of government established, and a President without executive powers appointed.”
+
+‘A New Constitution’, NPP Manifesto ‘A Prosperous Nation, A Beautiful Life,’ p 195.
+
+President Wickremesinghe’s case for being popularly elected for the first time, after two previous attempts, to the office he now holds by parliamentary selection, has 4 pillars:
+
+1. There is no alternative to his economic policies, starting with his agreement with the IMF.
+
+2. His IMF agreement cannot and should not be sought to be renegotiated.
+
+3. There is nothing to be renegotiated as there is nothing amiss with his IMF agreement.
+
+4. His continuity in office is thus the key to stability, which is the key to economic recovery.
+
+...
+
+[Data](articles/e69b4ce9.json)
 
 ---
 
@@ -101,6 +177,34 @@ Pallewela police say that the fire man has already been identified and investiga
 [Data](articles/844ef927.json)
 
 [Extended Data](ext_articles/844ef927.ext.json)
+
+---
+
+### Best business practices from an Islamic standpoint
+
+*2024-08-28 23:11:55* · [`dailyftlk`](https://www.ft.lk/columns/Best-business-practices-from-an-Islamic-standpoint/4-766104) · `en`
+
+Many of the teachings embodied in both the Qur’an and Hadiths are actually followed by  multinationals in spirit - Pic by Shehan Gunasekara
+
+The Prophet Muhammad (peace be upon him) was a very efficient leader. He had excellent XQ (Execution Quotient) i.e. ability to get things done. The secret of his efficiency was his sense of urgency. Once a task was decided he would formulate a plan with relevant parties and execute it as fast as possible. This was evident in his many actions from winning over tribal chiefs to the many campaigns he led to ensure Islam triumphed and a commonwealth based on the brotherhood of man finally emerged. That he was supremely successful in this nobody will deny. We know in our personal life that anything we decide to do later, rarely gets done. One delay leads to another, which is why procrastination is regarded almost as a sin in Islam
+
+...
+
+[Data](articles/096338a8.json)
+
+---
+
+### Public-Private Partnerships: Pathway to sustainable infrastructure development in Sri Lanka
+
+*2024-08-28 22:56:48* · [`dailyftlk`](https://www.ft.lk/columns/Public-Private-Partnerships-Pathway-to-sustainable-infrastructure-development-in-Sri-Lanka/4-766103) · `en`
+
+Given the fiscal constraints faced by the Government of Sri Lanka, PPPs should be a key implementation mechanism for large-scale infrastructure projects
+
+Public Private Partnerships (PPP) are long-term agreements between the public and private sectors to create or operate public assets. The advantages of PPPs extend far beyond mere financial considerations. They bring with them the efficiencies of the private sector in construction and operations, enhancing the speed of development and the quality of infrastructure. One of the key benefits is the ability of PPPs to generate additional resources outside government budgets.
+
+...
+
+[Data](articles/d2b51aee.json)
 
 ---
 
@@ -2373,151 +2477,5 @@ The declines were recorded in every country in the region apart from Sri Lanka, 
 [Data](articles/4fa2132c.json)
 
 [Extended Data](ext_articles/4fa2132c.ext.json)
-
----
-
-### Fire at Neththaduuwa Reserve - Arows destroy
-
-*2024-08-28 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200409) · `si`
-
-Large fire destroys 20+ acres at Neththaduuwa Reserve, fueled by dry conditions and wind.
-
-🟩
-
-A large fire has been caused by a large fire in the Neththaduuwa Reserve and over 20 acres have been completely destroyed.
-
-The fire had erupted at Neththaluwa mountain forest reserve owned by the Wellawaya Divisional Secretariat.
-
-The fire was spreading fast in mountain resurchance throughout the night.
-
-The Neththaduuwa Reserve had taken place from the Natatamaluwa forest reserve due to severe dry weather and windy of the area.
-
-The fire was spread in a self-sufficient ecosystem by a self-sufficient ecosystem today and that the fire was managed by the fire, but still in place.
-
-◼️
-
-[Data](articles/fe83b240.json)
-
-[Extended Data](ext_articles/fe83b240.ext.json)
-
----
-
-### Ukraine’s Zelenskiy to present plan to Biden to end war with Russia
-
-*2024-08-28 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101559/ukraines-zelenskiy-to-present-plan-to-biden-to-end-war-with-russia) · `en`
-
-Ukraine’s Volodymyr Zelenskiy said on Tuesday that the war with Russia would eventually end in dialogue, but that Kyiv had to be in a strong position and that he would present a plan to U.S. President Joe Biden and his two potential successors.
-
-The Ukrainian leader, addressing a news conference, said Kyiv’s three-week-old incursion into Russia’s Kursk region was part of that plan, but that it also comprised other steps on the economic and diplomatic fronts.
-
-“The main point of this plan is to force Russia to end the war. And I want that very much - (that it would be) fair for Ukraine,” he told reporters in Kyiv of the war launched by Russia’s full-scale invasion in February 2022.
-
-He did not elaborate further on the next steps, but said he would also discuss the plan with Democratic Vice President Kamala Harris and probably also with Republican Donald Trump, the two nominees for the U.S. presidential election
-
-...
-
-[Data](articles/938f77db.json)
-
-[Extended Data](ext_articles/938f77db.ext.json)
-
----
-
-### Let us bring a new law to abolish the frog's political system that is jumping on each side - Sajith
-
-*2024-08-28 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192190) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Opposition Leader Sajith Premadasa criticizes "frog politics" in United People's Power Government. Promises economic freedom, unity, and poverty alleviation programs. Supports Muslim compensation for Palestinians.
-
-🟩
-
-Some people forget the birth of the mother and their birth after being given parliamentary membership. Some raised their hands to Gotabhaya Rajapaksa during the issue of whether it was chosen by the votes of the people and whether it was good or burned.The Opposition Leader said that the United People's Ministers, including themselves, said they had acted to protect the cultural and religious rights of the Muslim people.
-
-People have sold the gifts given to liquor permits and wine stores.Let us put an end to the frog politics that jumps from one side to the other in the United People's Power Government.
-
-Opposition Leader Sajith Premadasa said that for his benefit, the party will be put to an end to the politics of the party.
-
-The United People's Power Winning rally was held on Wednesday evening with a large crowd of Opposition Leader Sajith Premadasa in Pottuvil, Ampara, headed by Opposition Leader Sajith Premadasa.. The Leader of the Opposition said this while addressing the event.
-
-...
-
-[Data](articles/19e4fb31.json)
-
-[Extended Data](ext_articles/19e4fb31.ext.json)
-
----
-
-### Arrested son of famous drug dealer
-
-*2024-08-28 09:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-போதைப்பொருள்-வியாபாரியின்-மகன்-கைது/175-342908) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Nadeen Bashik, son of drug dealer Shiran Bashik, arrested at Katunayake airport after returning from Dubai.
-
-🟩
-
-Nadeen Bashik, son of famous drug dealer Shiran Bashik, has been arrested at the Katunayake airport.
-
-He was arrested last night (27) and returned from Dubai.. Remble
-
-◼️
-
-[Data](articles/8af63f0e.json)
-
-[Extended Data](ext_articles/8af63f0e.ext.json)
-
----
-
-### World Junior Athletics Championship: Sri Lanka’s Merone Wijesinghe qualifies for 100m semi-final
-
-*2024-08-28 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101558/world-junior-athletics-championship-sri-lankas-merone-wijesinghe-qualifies-for-100m-semi-final-) · `en`
-
-Sri Lankan junior sprinter Merone Wijesinghe has qualified for the semi-finals in the Men’s 100m event at the World Junior Athletics Championship 2024, being held in Lima, Peru.
-
-The 19-year-old finished second in the Heat 4 of the event last night (28), with a timing of 10.55 seconds. Okon Israel Sunday from Nigeria had placed first with a timing of 10.48 seconds in the same Heat.
-
-This time, 13 Sri Lankan athletes had qualified for the 2024 World Junior Athletics Championship held in Lima, Peru.
-
-◼️
-
-[Data](articles/7602fb46.json)
-
-[Extended Data](ext_articles/7602fb46.ext.json)
-
----
-
-### Women tolerate everything are cowardly - Samanamali Gunasinghe
-
-*2024-08-28 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/192187) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Women's strength in politics: overcoming tolerance, defending families, uniting against drought. Empowering women to change the country.
-
-🟩
-
-This is the strength of women who make the President of Anura Kumara Dissanayake and make that victory into a great success. "The power of women with the same breath - the country for the day," that is our theme.
-
-We, the women of the national people's power, have united with the same breath and the path to the new revival of this country.
-
-We have been hitting drought for the past several years. You are the brave women who have defended the drought and protected the beloved family. It is cowardly in a way that women are tolerated.
-
-Our country's politicians kept women in various fields. Women were weak, they did not understand anything, women need not politics, and women thought they had to live as wooden bundles.
-
-When you were thinking of you as a pet, you saw you around. It was at that time that women came to town and knocked on your doors.
-
-...
-
-[Data](articles/302bccce.json)
-
-[Extended Data](ext_articles/302bccce.ext.json)
 
 ---

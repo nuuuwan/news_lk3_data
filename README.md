@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 12:10:55**
+As of **2024-08-28 12:22:02**
 
 ## Newspaper Stats
 
-*Scraped **43,009** Articles*
+*Scraped **43,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,595
 dailyftlk | 2,795
-adalk | 3,976
+adalk | 3,977
 dailymirrorlk | 4,733
-adaderanalk | 5,058
+adaderanalk | 5,059
 tamilmirrorlk | 5,606
 virakesarilk | 6,840
-adaderanasinhalalk | 7,365
+adaderanasinhalalk | 7,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,009 (100.0%) of 43,009 articles have been extended.
+43,009 (100.0%) of 43,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### Rs. 4,000 fertilizer subsidy for rubber cultivation
+
+*2024-08-28 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101563/rs-4000-fertilizer-subsidy-for-rubber-cultivation) · `en`
+
+The Ministry of Agriculture has decided to grant a fertilizer subsidy of Rs. 4,000 to support rubber cultivation across Sri Lanka, aiming to boost the country’s latex yield, which has seen a significant decline in recent years.
+
+The Agricultural Ministry confirmed that the subsidy will be available starting this week, in response to concerns raised by the Sri Lanka Rubber Research Institute that the rubber cultivation has been hindered due to the lack of fertilizer application over the years, resulting in a drop in annual latex production from 100,000 metric tons to 65,000 metric tons.
+
+To address this issue, Minister of Agriculture and Plantation Industries Mahinda Amaraweera has instructed the ministry officials to introduce a price reduction on a 50 kg bag of fertilizer for rubber cultivation.
+
+Accordingly, the of price a 50 kg bag of fertilizer will be reduced from Rs. 9,500 to Rs. 5,500, according to the ministry.
+
+◼️
+
+[Data](articles/80e20592.json)
+
+---
+
+### රබර් වගාවට පොහොර සහනාධාරයක්
+
+*2024-08-28 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200412) · `si`
+
+රබර් වගාව සඳහා රුපියල් 4,000ක පොහොර සහනාධාරයක් ලබා දීමට කෘෂිකර්ම අමාත්‍යංශය තීරණය කර තිබේ.
+
+ඒ අනුව එම පොහොර සහනාධාරය මෙම සතියේ සිටම ලබා දීමට පියවර ගෙන ඇති බව එම අමාත්‍යංශය පැවසීය.
+
+රබර් වගා කටයුතු සඳහා වසර ගණනාවක් තුළ පොහොර යෙදවීම සිදුකර නොමැති බවට ශ්‍රී ලංකා රබර් පර්යේෂණ ආයතනය විසින් පෙන්වා දී ඇති බව සඳහන්ය.
+
+ඒ හේතුවෙන් වාර්ෂික රබර් කිරි අස්වැන්න මෙට්‍රික් ටොන් ලක්ෂයේ සිට මෙට්‍රික් ටොන් 65,000 දක්වා අඩු වී ඇති බව කෘෂිකර්ම දෙපාර්තමේන්තුව පැවසීය.
+
+ඒ අනුව රබර් වගාව සඳහා යොදන කිලෝ ග්‍රෑම් 50ක පොහොර මල්ලක් රුපියල් 9,500 සිට රුපියල් 5,500ක් දක්වා මිල අඩු කිරීමට පියවර ගන්නා ලෙස කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා උපදෙස් ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/80c77772.json)
+
+---
 
 ### Indian national given suspended sentence over match-fixing attempt during Legends Cricket League
 
@@ -1882,6 +1920,24 @@ The chairman of the Election Commission, RMAL Ratnayake, said that the final dec
 
 ---
 
+### ජනපතිගේ ප්‍රතිපත්ති ප්‍රකාශය හෙට
+
+*2024-08-27 19:57:06* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-ප්‍රතිපත්ති-ප්‍රකාශය-හෙට/11-411603) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජනපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය කොළඹ ටාජ් සමුද්‍රා හෝටලයේ දී බ්‍රහස්පතින්දා (29දා) එළිදැක්වීමට නියමිතය.
+
+"පුළුවන් ශ්‍රී ලංකා " යන දැක්ම මුල් කර ගනිමින් මෙම ප්‍රතිපත්ති ප්‍රකාශය සකස් කර ඇති අතර,රට බංකොලොත් භාවයෙන් මුදවාගෙන ආර්ථික සමෘද්ධිය කරා ගෙන යෑමේ මූලික පියවර තැබීම සහ ක්‍රම ක්‍රමයෙන් රට දියුණු රාජ්‍යයක් කරා රැගෙන යෑමේ සැලසුම් "පුළුවන් ශ්‍රී ලංකා" ප්‍රතිපත්ති ප්‍රකාශයට ඇතුළත් කර තිබේ.
+
+ශ්‍රී ලංකාවේ සියලු ජන කොටස්වලට යහපත් රටක් ගොඩනැගීම "පුළුවන් ශ්‍රී ලංකා" ප්‍රතිපත්ති ප්‍රකාශයේ මූලික අරමුණක් බව රජයේ ජ්‍යෙෂ්ඨ අමාත්‍යවරයෙක් සඳහන් කළේය.
+
+ඉතිහාසයේ දැවැන්තම ආර්ථික අර්බුදයට මුහුණ දුන් ශ්‍රී ලංකාව ක්‍රම ක්‍රමයෙන් යථා තත්ත්වයට ගැනීමෙන් පසු තවත් ඉදිරිගාමී පියවරක් තැබීම වෙනුවෙන් ජනාධිපතිවරයාගේ ප්‍රතිපත්ති ප්‍රකාශය අවධානය යොමු කර තිබෙන බව ද හෙතෙම සඳහන් කළේය.
+
+◼️
+
+[Data](articles/c9cd0210.json)
+
+---
+
 ### A target of 4 million tourists per year
 
 *2024-08-27 19:54:13* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-සංචාරකයන්-මිලියන-4ක-ඉලක්කයක්/11-411602) · `si`
@@ -2327,83 +2383,5 @@ The Elections Commission has legal legal provisions to mark the ballot to mark t
 [Data](articles/b3abf9a4.json)
 
 [Extended Data](ext_articles/b3abf9a4.ext.json)
-
----
-
-### A locally produced Cargo truck to market
-
-*2024-08-27 18:42:33* · [`adalk`](https://www.ada.lk/picture_story/දේශීයව-නිෂ්පාදනය-කරන-ලද-Cargo-ට්‍රක්-රථයක්-වෙළඳපොළට/10-411593) · `si`
-
-Sri Lanka launches locally-produced Cargo truck for domestic market.
-
-🟩
-
-Industry and Health Minister Minister Dr. Ramesh Pathirana was launched in the Ministry of Industry yesterday (26).
-
-The motor vehicle industry takes a key place among the seven areas identified to develop Sri Lanka's economy on the way to an export-centric economy.The Ministry of Industries, the Ministry of Industry, the Ministry of Industry, with the help of the private sector, there was a rapid increase in the industry.
-
-The Zeroro Motor Company, a local company in Sri Lanka, consists of devices that are locally produced locally produced locally produced. This is the first time that the Cargo deck is completely produced in the Chassis and the Cargo Det.
-
-The CAGO truck, which can carry a weight of a liter of petrol, is ideal for agriculture campaigns, which can provide the vehicle to the local market, where local entrepreneurs can buy local entrepreneurs at a reasonable price.He said the management director Joshu Waduge.
-
-...
-
-[Data](articles/97856467.json)
-
-[Extended Data](ext_articles/97856467.ext.json)
-
----
-
-### Renew the decree to monitor Sri Lanka and mobilize evidence - Human Rights Watch
-
-*2024-08-27 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/192163) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-UN Human Rights Council urges renewal of monitoring decree for Sri Lanka. Report highlights economic crisis, poverty, food insecurity, and unfinished democratic reforms.
-
-🟩
-
-The UN Human Rights Council (UNHRC) has urged the members of the UN Human Rights Council to rebuild the UN Human Rights Council (UN Human Rights) Commission on the UN Human Rights Council (UN Human Rights) to rejuvenate the mandate for the process of mobilizing and evidence.
-
-In the wake of the 57th session of the United Nations Human Rights Council on the 9th of September, a detailed report was issued by the United Nations Human Rights High Commissioner Volkar Turku over the country's human rights, including the most impact on Sri Lanka's fundamental rights and independence.
-
-In a statement issued by the Human Rights Watch, which includes its position on the content of the report and the next step to the UN Human Rights Council in the Sri Lankan issue:
-
-...
-
-[Data](articles/44af3d92.json)
-
-[Extended Data](ext_articles/44af3d92.ext.json)
-
----
-
-### Under Phase 1, Mn.. 500
-
-*2024-08-27 18:30:58* · [`adalk`](https://www.ada.lk/breaking_news/යලේ-වී-මිලදී-ගැනීමට-පළමු-අදියර-යටතේ-රු-මි--500ක්/11-411592) · `si`
-
-Paddy Marketing Board buys paddy at Rs. 500 million, opens 100 stores, expects Samba sales.
-
-🟩
-
-The Padika Buddhika Iddamalgoda, the Chairman of the Paddy Marketing Board (26) has decided to provide Rs. 500 million to the Marketing Board for paddy.
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera has submitted this to the Paddy Marketing Board to purchase Rs.
-
-Accordingly, the Paddy Marketing Board has decided to commence the purchase of paddy from today (27).
-
-The Paddy Marketing Board Chairman Buddhika Iddamalgoda, the Chairman of the Paddy Marketing Board, has already been prepared to open and open 100 paddy stores in the district complexes completed.
-
-The private sector is purchased for Rs.. However, it is believed that the paddy stocks of paddy should not be paid to the Paddy Marketing Board to the prices of the government controlled prices.
-
-However, it is ready to buy the Government's at Rs.. Therefore, he said he expects Samba and Kary Samba and Kary sales to the Paddy Marketing Board.
-
-◼️
-
-[Data](articles/80a8d5ed.json)
-
-[Extended Data](ext_articles/80a8d5ed.ext.json)
 
 ---

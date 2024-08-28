@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 16:36:53**
+As of **2024-08-28 16:54:05**
 
 ## Newspaper Stats
 
-*Scraped **43,046** Articles*
+*Scraped **43,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,116 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,595
 dailyftlk | 2,795
-adalk | 3,981
+adalk | 3,982
 dailymirrorlk | 4,733
 adaderanalk | 5,063
 tamilmirrorlk | 5,611
 virakesarilk | 6,848
-adaderanasinhalalk | 7,377
+adaderanasinhalalk | 7,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,045 (100.0%) of 43,046 articles have been extended.
+43,049 (100.0%) of 43,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### වැඩ බලන පොලිස්පතිවරයෙක් පත් කරන්න ලෙස ඉල්ලා ඉදිරිපත් කළ පෙත්සම නිෂ්ප්‍රභා කරයි
+### The roof of the toilet, a inmate escapes
+
+*2024-08-28 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200426) · `si`
+
+Inmate breaks toilet roof during court appearance, causing escape. Detained for 4 years, now facing additional charges.
+
+🟩
+
+The inmate who was brought to the Kaluwakanku Court of court to be produced for a case have broken down part of the toilet roof of the court complex.
+
+The inmate was detained at the Batticaloa Prison on a four-year prison prescribed by the Eravur Court.
+
+After the police had completed one year after the sentence was fulfilled, the inmate was presented to the Kaluchaiki Court yesterday for another case.
+
+He is a 30 year old resident of the Iranamadu area in Kilinochchi.
+
+◼️
+
+[Data](articles/60e19b35.json)
+
+[Extended Data](ext_articles/60e19b35.ext.json)
+
+---
+
+### This will open 5499 this year Korea's job door
+
+*2024-08-28 16:19:16* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදි-5499ට-කොරියා-රැකියා-දොර-ඇරෙයි/11-411610) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+5499 Sri Lankans left South Korea jobs in 8 months. Hundreds more youth went to South Korea for manufacturing jobs under MoU between Sri Lanka Bureau and South Korean HR Development Services. Sri Lankans have been working in South Korea since 2004.
+
+🟩
+
+During the past 8 months of the past eight months, 5,499 Sri Lankans have left the jobs of South Korea.
+
+Meanwhile, hundreds of other youths who have employed employment in the field of manufacturing sector were gone to South Korea yesterday (8/27).
+
+Sri Lankans have employed in South Korea in terms of the Memorandum of Memorandum of Memorandum of the Sri Lanka Bureau and South Korean Human Resources Development Services. According to the MoU, Sri Lankans continued to work in South Korea since 2004 and today is more interested in South Korea.
+
+◼️
+
+[Data](articles/1e766cc7.json)
+
+[Extended Data](ext_articles/1e766cc7.ext.json)
+
+---
+
+### Udith Lokubandara buds arrive at the office
+
+*2024-08-28 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200424) · `si`
+
+Udith Lokubandara SLFP member arrives office private secretary Mahinda Rajapaksa arrested attending Civil Appointment discussion Weerasinghe statement
+
+🟩
+
+Udith Lokubandara, a member of the Sri Lanka Freedom Party (SLFP) had arrived at the Government's Office (28).
+
+Udith Lokubandara worked as a private secretary of former President Mahinda Rajapaksa.
+
+It is reported that he had come to attend a discussion held at the Civil Appointment.
+
+Member of Parliament arrested for this discussion. Weerasinghe said,
+
+"Udith Lokubaraara too. Can come if he comes. But he's coming, when someone goes,. The people of the country are loosed by people to moving around. "
+
+◼️
+
+[Data](articles/00ef8a1b.json)
+
+[Extended Data](ext_articles/00ef8a1b.ext.json)
+
+---
+
+### The petition released to appoint a working IGP
 
 *2024-08-28 15:41:25* · [`adalk`](https://www.ada.lk/breaking_news/වැඩ-බලන-පොලිස්පතිවරයෙක්-පත්-කරන්න-ලෙස-ඉල්ලා-ඉදිරිපත්-කළ-පෙත්සම-නිෂ්ප්‍රභා-කරයි/11-411608) · `si`
 
-වැඩ බලන පොලිස්පතිවරයෙකු පත් කරන ලෙසට ජනාධිපතිවරයාට නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා  නීතීඥවරයෙකු ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම  ශ්‍රේෂ්ඨාධිකරණය අද(28දා) නිෂ්ප්‍රභා කර තිබේ.
+Supreme Court rejects petition for working IGP appointment, orders lawyer to pay Rs. 50,000.
 
-එමෙන්ම අදාළ විත්තිකරුට නඩු ගාස්තුව ලෙස රුපියල්  50,000ක මුදලක් ගෙවන ලෙසද නියෝගන කර ඇත.
+🟩
+
+The Supreme Court today refuted the Fundamental Rights Petition issued by a lawyer to issue an order to appoint a working heapature.
+
+The accused has also been ordered to pay Rs. 50,000 to pay Rs.
 
 ◼️
 
 [Data](articles/9fe27ad1.json)
+
+[Extended Data](ext_articles/9fe27ad1.ext.json)
 
 ---
 
@@ -2032,6 +2114,22 @@ On 22 May, the Cabinet approved the joint proposal furnished by the then Justice
 
 ---
 
+### 2024 Presidential Election Divides Muslim  Political Parties  with Leaders Backing Sajith and Some MPs Supporting Ranil.
+
+*2024-08-28 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84580) · `en`
+
+Nominations have closed for the long awaited 2024 presidential election. 39 candidates are in the fray.It is widely acknowledged  by the press and public that the chief presidential  contenders  are  incumbent president Ranil Wickremesinghe,leader of the opposition  Sajith Premadasa and JVP/NPP leader Anura Kumara  Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith  Jayaweera.
+
+However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier  numerical minorities  assumes crucial importance.
+
+...
+
+[Data](articles/bd766ef7.json)
+
+[Extended Data](ext_articles/bd766ef7.ext.json)
+
+---
+
 ### The suspension of the economic program can lead to a re -crisis - Nandalal Weerasinghe
 
 *2024-08-28 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/192180) · `ta`
@@ -2369,95 +2467,5 @@ It is noteworthy that Jai Shah was elected president of the International Cricke
 [Data](articles/e8c66630.json)
 
 [Extended Data](ext_articles/e8c66630.ext.json)
-
----
-
-### Presidential Election: Dilemmas Of The Voter
-
-*2024-08-27 23:51:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-election-dilemmas-of-the-voter/) · `en`
-
-A diagram of the number of presidential candidates who contested the elections since 1982 in Sri Lanka would look like a tick mark. Six candidates contested the first election in 1982, and the number went down to three in 1988. Since then, the numbers have been in ascendency. In 2019, 35 candidates were in the field. This time around, a total of 39 candidates are in the fray. Most of them are proxies strategically fielded to divide the votes of one of the leading candidates. Some proxy candidates are in the contest to mobilize resources for their favorite leaders. Although hardly noticed, some of the candidates have contested several elections. For example, Battaramulle Seelaratne Thera, who contested the 2010 election, endorsing Mahinda Rajapaksa, withdrew at the eleventh hour. Sri Lanka Labor Party’s A. S. P. Liyanage and the United Socialist Party’s Siritunga Jayasuriya are among the usual suspects.
-
-...
-
-[Data](articles/5e005603.json)
-
-[Extended Data](ext_articles/5e005603.ext.json)
-
----
-
-### The election manifesto of the National People's Power is only a document that does not agree!- Gamini Senanayake
-
-*2024-08-27 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/192171) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-National People's Power election manifesto criticized impractical policies lack funding details tax reduction impact state revenue Teleicom sale threat national security IMF negotiations economic proposals
-
-🟩
-
-Secretary of the National Bank Employees Union Azale Fernando said that the election manifesto of the National People's Power is a mere document that is practically impossible and that they have no understanding of the amount of funds that are necessary or the necessary funding to implement the policies.
-
-He pointed out that if the tax is reduced, as in the declaration of the policy, there is no way to offset the billions of rupees lost in the state, he said, adding that the tax was reduced in the Gotabhaya Rajapaksa regime.
-
-Secretary of the National Bank Employees Union, Asela Fernando, at a media briefing held at the Political Authority of President Ranil Wickremesinghe in Flower Road, Colombo.
-
-The leader of the National People's Power, which has continued to say that the sale of Teleicom is a threat to national security, said that their dual role is expressed by the fact that it is not a problem to summon an investor to the company.
-
-...
-
-[Data](articles/a722bb90.json)
-
-[Extended Data](ext_articles/a722bb90.ext.json)
-
----
-
-### Jai Shah was elected as ICC's independent leader
-
-*2024-08-27 23:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/192170) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jai Shah elected ICC Chairman, succeeds Craig Bagley. Aims to globalize cricket, including LA Olympics 2028. Focuses on balancing formats, promoting technology, and expanding global reach.
-
-🟩
-
-India's Jai Shah was elected as the next independent leader of the International Cricket Council (ICC).
-
-Jaya Shah, who will be the Honor of the Indian Cricket Control Board from 2019 and the Chairman of the Asian Cricket Council from 2021, will take over the post of Chairman of the ICC on December 1.
-
-Jai Shah's name was proposed only for the next chairman of the contemporary leader, Craig Bagley, for the third time.. He was followed by a contest.
-
-Jai Shah said his intention was to spread cricket worldwide and gain popularity globally.
-
-In particular, Los Angeles, in particular, created a major opportunity for its growth by incorporating cricket at the 2028 Olympic Games.
-
-...
-
-[Data](articles/789a769a.json)
-
-[Extended Data](ext_articles/789a769a.ext.json)
-
----
-
-### WindForce enhances community support with the donation of a rooftop solar system to Apeksha Hospital temple
-
-*2024-08-27 22:53:00* · [`islandlk`](http://island.lk/windforce-enhances-community-support-with-the-donation-of-a-rooftop-solar-system-to-apeksha-hospital-temple/) · `en`
-
-In a meaningful contribution to the well-being of cancer patients and their families, WindForce has donated a 5kW rooftop solar system to the Apeksha Hospital Temple in Maharagama.
-
-This innovative project is expected to significantly lower electricity costs for the hospital’s hostel and ward complex, which provides crucial free Food & Accommodation for patients receiving treatment. By leveraging solar energy, WindForce aims to provide a sustainable energy solution that eases the financial burden on the hospital while promoting environmentally-friendly practices. This CSR initiative is part of WindForce’s Sustainability Framework, specifically under the “Suvadiri” healthcare pillar, which is dedicated to enhancing health and well-being in local communities. Through this project, WindForce demonstrates its strong commitment to social responsibility, making a lasting impact on the lives of those in need.
-
-HNB to make non-binding offer to buy Bangladesh unit of Alfalah Bank
-
-...
-
-[Data](articles/b62cf845.json)
-
-[Extended Data](ext_articles/b62cf845.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 09:08:27**
+As of **2024-08-28 09:21:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,984 (100.0%) of 42,988 articles have been extended.
+42,988 (100.0%) of 42,988 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,17 +44,29 @@ The officers of the Police Special Task Force (STF) have arrested the suspect wh
 
 [Data](articles/219e7eee.json)
 
+[Extended Data](ext_articles/219e7eee.ext.json)
+
 ---
 
-### ශිරාන් බාෂික්ගේ පුතා අත්අඩංගුවට
+### Shiran Basik's son arrested
 
 *2024-08-28 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200408) · `si`
 
-ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් වන ශිරාන් බාෂික් නැමැත්තාගේ පුතා වන නදීන් බාෂික් නැමැත්තා කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in 200 characters:
+
+
+
+"Nadeen Bashik, a prominent drug dealer, was arrested at Katunayake Airport. He is the son of Shiran Basik."
+
+🟩
+
+Nadeen Bashik, a strong drug dealer, Shiran Basik, was arrested at the Katunayake Airport.
 
 ◼️
 
 [Data](articles/3b858a88.json)
+
+[Extended Data](ext_articles/3b858a88.ext.json)
 
 ---
 
@@ -75,6 +87,8 @@ The nearest places of Sri Lanka over which the sun is overhead today at about 12
 ...
 
 [Data](articles/09e4cd47.json)
+
+[Extended Data](ext_articles/09e4cd47.ext.json)
 
 ---
 
@@ -1556,19 +1570,31 @@ The judge sentenced to four years sentenced to death for four years due to the a
 
 ---
 
-### චමුදිත සමරවික්‍රම ඝාතන සාකච්ඡාව ගැන විමර්ශන සී.අයි.ඩීයට
+### Chamuditha Samarawickream assassination discussion at the CID
 
 *2024-08-27 19:22:17* · [`adalk`](https://www.ada.lk/breaking_news/චමුදිත-සමරවික්‍රම-ඝාතන-සාකච්ඡාව-ගැන-විමර්ශන-සී-අයි-ඩීයට/11-411597) · `si`
 
-මෙරටින් ඩුබායි රාජ්‍යයට පලා ගොස් සැඟව සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවන් පිරිසක් ප්‍රවීණ මාධ්‍යවේදී චමුදිත සමරවික්‍රම මහතා ඝාතනය කිරීම සඳහා සාකච්ඡා පවත්වා ඇතැයි කියන සිද්ධිය සම්බන්ධයෙන් විමර්ශන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් සිදු කරනු ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දුව මහතා පැවසීය
+Here's a summary of the text in 200 characters:
 
-ඒ සම්බන්ධයෙන් වූ පැමිණිල්ලක් ඉකුත්  23 වෙනිදින  චමුදිත සමරවික්‍රම මහතා විසින් පිළියන්දල පොලිසිය වෙත සිදු කිරීමෙන් අනතුරුව ඔහුගේ පැමිණිල්ලෙන් අනාවරණය කළ පරිදි  ජාවාරම්කරුවන් සිදුකළ සාකච්ඡාව සම්බන්ධයෙන් වීඩියෝවක් නිකුත් කරමින් අනාවරණය කළ දූෂණ විරෝධී බලකායේ මෙහෙයුම් අධ්‍යක්ෂක නාමල් කුමාර මහතාව ඉකුත්  24 වෙනිදින පිළියන්දල පොලිසිය වෙත කැඳවා පැය තුනකට ආසන්න කාලයක් ප්‍රකාශයක් ලබා ගැනීමට පිළියන්දල පොලිසිය මගින් කටයුතු කර තිබිණි.
 
-එලෙස ප්‍රකාශ ලබා ගැනීමට කටයුතු කර තිබුණේ නාමල් කුමාර මහතා එම වීඩියෝ හරහා අවශ්‍ය ඕනෑම මොහොතක ඒ සම්බන්ධයෙන් වූ තොරතුරු මෙරට ආරක්ෂක අංශ වෙත ලබාදීමට තමන් සූදානමින් සිටින බවට  ඔහු ප්‍රකාශ කර ඇති බවට චමුදිත මහතා පැමිණිල්ලේ වැඩිදුරටත් සඳහන් කිරීම පදනම් කරගෙනය.
+
+CID investigates Chamuditha Samarawickrama assassination claim. Drug dealers linked to Dubai flee. Piliyandala Police involved. CID probes allegations.
+
+🟩
+
+The Investigation Criminal Investigation Department (CID) said that a group of drug dealers who fled to Dubai and hide in the area of ​​veteran journalist Chamuditha Samarawickrema said.
+
+Chamuditha Samarawickrema was lodged by the Piliyandala Police after his complaint was detected by his complaint, the direction of the anti-Corruption Corruption was completed 24 hours after his complaint had been revealed to the piliyila police over 24 hours.The Piliyandala Police had acted in a statement.
+
+Mr. Chamithuditha had said that he had stated that Namaditha had stated that he was ready to provide information on the video to the Sri Lankan security forces.
+
+"The Rajapaksas' fabrics have been the subject of a Sri Lankan friend who had been informed on the phone that he had been informed on the phone that he had been informed on the next 21 night, he had written to him on the phone that he had been informed by the phone.The complaint was mentioned.
 
 ...
 
 [Data](articles/68b85604.json)
+
+[Extended Data](ext_articles/68b85604.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 01:06:47**
+As of **2024-08-29 01:21:42**
 
 ## Newspaper Stats
 
-*Scraped **43,107** Articles*
+*Scraped **43,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,988
 dailymirrorlk | 4,733
 adaderanalk | 5,072
 tamilmirrorlk | 5,620
-virakesarilk | 6,852
+virakesarilk | 6,853
 adaderanasinhalalk | 7,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,101 (100.0%) of 43,107 articles have been extended.
+43,105 (100.0%) of 43,108 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,6 +80,8 @@ The NPP presented its party manifesto yesterday (26 August). I watched the finel
 
 [Data](articles/90be85c0.json)
 
+[Extended Data](ext_articles/90be85c0.ext.json)
+
 ---
 
 ### Chandra Jayaratne writes to SEC on EPF receiving Rs. 231 m over share transaction
@@ -94,21 +96,35 @@ This note begins with an expression of the highest recognition of the profession
 
 [Data](articles/9e5dcdf0.json)
 
+[Extended Data](ext_articles/9e5dcdf0.ext.json)
+
 ---
 
-### ISIS ஐ.எஸ்.ஐ.எஸ் குறித்து இன்ஸ்டாகிராமில் பிரசாரம் செய்த இளைஞன்
+### A young man who campaigned on Instagram about ISIS ISIS
 
 *2024-08-28 23:41:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-ஐ-எஸ்-ஐ-எஸ்-குறித்து-இன்ஸ்டாகிராமில்-பிரசாரம்-செய்த-இளைஞன்/175-342944) · `ta`
 
-ஐ.எஸ்.ஐ.எஸ் பயங்கரவாத அமைப்பின் போர் நடவடிக்கைகள் தொடர்பான தகவல்களை இன்ஸ்டாகிராம் உள்ளிட்ட சமூக ஊடகங்கள் மூலம் பரப்பியதாக கைது செய்யப்பட்ட இளைஞரை 90 நாட்கள் தடுப்புக்காவலில் வைத்து விசாரிக்க நீதிமன்றம் இன்று (28ம் திகதி) அனுமதி வழங்கியுள்ளது.
+Here's a summary of the article in 200 characters:
 
-இம்மாதம் 22ஆம் திகதி பயங்கரவாத புலனாய்வு பிரிவினரால் சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட இரத்மலானை 05ஆம் லேன் இரத்மலானை பொருபன வீதியை சேர்ந்த இமாட் ஷமாம் என்ற சந்தேக நபரை தடுத்து வைத்து விசாரணை நடத்த கொழும்பு மேலதிக நீதவான் பசன் அமரசிங்க அனுமதியளித்தார்.
 
-குறித்த சந்தேக நபரான ஐ.எஸ். ஐ.எஸ் பயங்கரவாத அமைப்பின் ஆயுதங்கள் தொடர்பான தகவல்கள் அடங்கிய காணொளிகளை எடிட் செய்து தனது இன்ஸ்டாகிராம் கணக்கின் ஊடாக சமூக ஊடகங்களில் வெளியிட்டதாக நீதிமன்றில் தெரிவித்த பயங்கரவாத புலனாய்வு பிரிவின் அதிகாரிகள், இந்த சந்தேக நபரை ஐ.எஸ்.ஐ.எஸ். அந்த அமைப்பின் கொடிகளில் குறிப்பிடப்பட்ட சின்னங்கள் அடங்கிய மோதிரங்கள் அவரிடம் இருப்பதாகவும் தெரிவிக்கப்பட்டது.
 
-...
+ISIS supporter arrested for promoting terrorism on Instagram. Court grants 90-day detention to investigate. Suspect posted edited ISIS videos and wore symbolic rings.
+
+🟩
+
+The court today granted permission to investigate a 90 -day detention of a youth who was arrested for allegedly spreading information on the war operations of the ISIS terrorist organization through Social media, including Instagram.
+
+Colombo Additional Magistrate Basan Amarasinghe granted permission to investigate Ratmalana, who was arrested by the Terrorist Investigation Unit on the 22nd of this month.
+
+The suspect. The Terrorist Investigation Unit said in court that the Terrorism Intelligence Unit said that the ISIS has edited videos of the weapons of the IS terrorist organization and posted on social media through his Instagram account.. He was also reported to have rings containing symbols mentioned in the flags of the organization.
+
+Officials of the Terrorism Intelligence Unit said that terrorist and terrorist ideas have been promoted due to this suspect's relevant actions and therefore allowed him to investigate the suspect's actions to investigate the actions of the suspect.. Remble
+
+◼️
 
 [Data](articles/1a81ff79.json)
+
+[Extended Data](ext_articles/1a81ff79.ext.json)
 
 ---
 
@@ -135,6 +151,8 @@ President Wickremesinghe’s case for being popularly elected for the first time
 ...
 
 [Data](articles/e69b4ce9.json)
+
+[Extended Data](ext_articles/e69b4ce9.ext.json)
 
 ---
 
@@ -315,6 +333,24 @@ The organization has requested that the current resolution should be updated to 
 [Data](articles/03111f9b.json)
 
 [Extended Data](ext_articles/03111f9b.ext.json)
+
+---
+
+### ஜனாதிபதி ரணில் விக்கிரமசிங்க பொய் சொல்லும் தலைவர் அல்ல - அமைச்சர் பிரசன்ன ரணதுங்க
+
+*2024-08-28 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/192244) · `ta`
+
+நாட்டின் எதிர்கால சந்ததியினருக்கு ஒளிமயமான நாளை உருவாக்க ஜனாதிபதி ரணில் விக்கிரமசிங்க பயணிக்கும் இந்த கடினமான பொருளாதார பாதையில் இன்னும் கொஞ்சம் தூரத்திற்கு செல்ல வேண்டும் என ஆளும் கட்சியின் பிரதம கொறடாவும் நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+இந்தப் பொருளாதாரப் போக்கை மாற்றினால், கடந்த காலத்தை விட அதிக சிரமங்களை நாம் சந்திக்க நேரிடும் என அமைச்சர் வலியுறுத்துகிறார்.
+
+உடுகம்பொல பிரதேசத்தில் நேற்று புதன்கிழமை  (27) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்ட அமைச்சர் பிரசன்ன ரணதுங்க இதனைக் குறிப்பிட்டுள்ளார்.
+
+எமது நாட்டில் தற்போது நடைமுறைப்படுத்தப்பட்டுள்ள கடன் மறுசீரமைப்பு வேலைத்திட்டம் தொடர்பில் சர்வதேச நாணய நிதியத்துடன் பகிரங்க விவாதத்திற்கு வருமாறு எதிர்க்கட்சித் தலைவர் மற்றும்  அனுரகுமார திஸாநாயக்க ஆகியோருக்கு ஜனாதிபதி பகிரங்க அழைப்பு விடுத்தார். இருவருமே கதைப்பதில் வல்லவர்கள். எனவே குதித்து இந்த சவாலை ஏற்றுக்கொள்வார்கள் என்று நாங்கள்  நினைத்தோம்.
+
+...
+
+[Data](articles/beadb55e.json)
 
 ---
 
@@ -2455,27 +2491,5 @@ The “Sobadhanavi” Combined Cycle Power Plant is the first Sri Lankan power p
 [Data](articles/5e22fcaa.json)
 
 [Extended Data](ext_articles/5e22fcaa.ext.json)
-
----
-
-### South Asia air pollution fell in 2022, but remains major killer: report
-
-*2024-08-28 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101560/south-asia-air-pollution-fell-in-2022-but-remains-major-killer-report-) · `en`
-
-A surprise improvement in air quality in South Asia in 2022 drove a decline in global pollution, with favourable weather a likely factor, a new report said Wednesday.
-
-But the region continues to breathe the world’s most-polluted air, with its residents losing more than 3.5 years of life expectancy on average, the annual Air Quality Life Index (AQLI) warned.
-
-And globally, most countries have either no pollution standards or are failing to meet what they have set, subjecting their citizens to air quality that causes a broad range of health problems.
-
-For two decades, air pollution has increased annually in South Asia, but satellite data for 2022 -- the most recent year available -- showed a surprise 18 percent fall.
-
-The declines were recorded in every country in the region apart from Sri Lanka, according to the report, produced by the University of Chicago’s Energy Policy Institute (EPIC).
-
-...
-
-[Data](articles/4fa2132c.json)
-
-[Extended Data](ext_articles/4fa2132c.ext.json)
 
 ---

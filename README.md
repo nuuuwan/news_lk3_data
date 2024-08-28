@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 19:21:47**
+As of **2024-08-28 19:37:17**
 
 ## Newspaper Stats
 
-*Scraped **43,072** Articles*
+*Scraped **43,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 2,602
 dailyftlk | 2,795
 adalk | 3,985
 dailymirrorlk | 4,733
-adaderanalk | 5,068
+adaderanalk | 5,069
 tamilmirrorlk | 5,612
 virakesarilk | 6,850
-adaderanasinhalalk | 7,383
+adaderanasinhalalk | 7,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,072 (100.0%) of 43,072 articles have been extended.
+43,072 (100.0%) of 43,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### තලතා වෙනුවට පරණවිතාන ගේ නම ගැසට් කරයි
+
+*2024-08-28 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200431) · `si`
+
+මේ වනවිට පුරප්පාඩුවී තිබෙන පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා කරුණාරත්න පරණවිතාන මහතාගේ නම මැතිවරණ කොමිෂන් සභාව විසින් ගැසට් කර තිබේ.
+
+ඒ, සමගි ජන බලවේගයේ රත්නපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීනී තලතා අතුකෝරල මහත්මිය ඉල්ලා අස්වීමෙන් පුරප්පාඩු වූ පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා ය.
+
+◼️
+
+[Data](articles/f50eef98.json)
+
+---
+
+### Karu Paranawithana appointed to MP seat vacated by Thalatha Athukorala
+
+*2024-08-28 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101575/karu-paranawithana-appointed-to-mp-seat-vacated-by-thalatha-athukorala) · `en`
+
+The name of Karunarathna Paranawithana of the Samagi Jana Balawegaya (SJB) has been Gazetted by the Election Commission to fill the parliamentary seat which fell vacant by the resignation of Ratnapura District SJB MP Thalatha Athukorala.
+
+Paranawithana had previously served as Deputy Minister of Parliament Reforms and Mass Media and as the Deputy Minister of Skills Development and Vocational Training.
+
+Prior to that he served as Secretary to the Ministry of Mass Media before resigning to contest from the UNP-led alliance the UNFGG in the parliamentary polls in 2015.
+
+The Parliament on Friday (23) informed the Election Commission that a vacancy has been created in the House following the resignation of Thalatha Athukorala as a Member of Parliament.
+
+...
+
+[Data](articles/706cf33b.json)
+
+---
 
 ### Janasas combustion: Select Committee to explore
 
@@ -2457,47 +2489,5 @@ EU Election Observer Team Head Jose Ignacio Sanchez Amor thanked the Government 
 [Data](articles/5fc7bda6.json)
 
 [Extended Data](ext_articles/5fc7bda6.ext.json)
-
----
-
-### Foreign Minister welcomes EU election observation delegation in Colombo
-
-*2024-08-28 05:40:18* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-welcomes-EU-election-observation-delegation-in-Colombo/56-766064) · `en`
-
-Foreign Affairs Minister Ali Sabry on Monday met with Member of the European Parliament and the Chief Observer of the EU Election Observation Mission to Sri Lanka 2024 Nacho Sánchez Amor at the Foreign Ministry premises.
-
-Taking to ‘X’ Sabry noted that he assured the support of the Government of Sri Lanka to ensure an independent and transparent European Union Election Observation Mission Sri Lanka, throughout the election period.
-
-Following an invitation by the Election Commission of Sri Lanka, the European Union has decided to deploy an Election Observation Mission (EOM) to Sri Lanka to observe the Presidential Election scheduled for 21 September.
-
-The EU has a long history of accompanying electoral processes in Sri Lanka and has deployed EOMs on six occasions, the last in 2019, reflecting the EU’s commitment and partnership with the country.
-
-...
-
-[Data](articles/e8ab0833.json)
-
-[Extended Data](ext_articles/e8ab0833.ext.json)
-
----
-
-### Report on gender pay gap presented to Speaker
-
-*2024-08-28 05:38:55* · [`dailyftlk`](https://www.ft.lk/news/Report-on-gender-pay-gap-presented-to-Speaker/56-766063) · `en`
-
-The research report on the gender pay gap was presented to Speaker of the House Mahinda Yapa Abeywardana and Opposition leader Sajith Premadasa, recently by Women Parliamentarians’ Caucus Chairperson Dr. Sudarshini Fernandopulle.
-
-This report was prepared by a group of researchers including the Women and Media Collective under the leadership of the Women Parliamentarians’ Caucus.
-
-Committee on Public Finance (CoPF) Chairman Dr. Harsha de Silva, Women Parliamentarians’ Caucus Co-Deputy Chair Rohini Kumari Wijerathna, MP Eran Wickramaratne were also present at this event.
-
-Addressing the gathering, Speaker Abeywardana stated that it is important to formulate legislation and new policies to change these wage inequalities.
-
-Furthermore, Opposition leader Premadasa stated that provisions should be included in the constitution so that these rights can be upheld.
-
-...
-
-[Data](articles/6406d471.json)
-
-[Extended Data](ext_articles/6406d471.ext.json)
 
 ---

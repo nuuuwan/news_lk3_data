@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 14:09:40**
+As of **2024-08-28 14:21:57**
 
 ## Newspaper Stats
 
-*Scraped **43,030** Articles*
+*Scraped **43,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,101 @@ dailyftlk | 2,795
 adalk | 3,978
 dailymirrorlk | 4,733
 adaderanalk | 5,061
-tamilmirrorlk | 5,609
+tamilmirrorlk | 5,610
 virakesarilk | 6,845
-adaderanasinhalalk | 7,371
+adaderanasinhalalk | 7,373
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,028 (100.0%) of 43,030 articles have been extended.
+43,030 (100.0%) of 43,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### 650 அலைபேசிகளுடன் சந்தேக நபர் கைது!
+### නඩු විභාගය අතරතුර වගඋත්තරකරු  "බුදු අම්මෝ" කියමින් ඇද වැටෙයි
+
+*2024-08-28 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200419) · `si`
+
+අධිකරණයට අපහාසාත්මක වන ආකාරයේ දිවුරුම් ප්‍රකාශයක් ඉදිරිපත් කිරීම සම්බන්ධයෙන් මේ වනවිට රක්ෂිත බන්ධනාගාර ගත කර සිටින නීතිඥභාවය අත්හිටුවා ඇති ධර්මසිරි කරුණාරත්න මහතාට එරෙහිව ගොනුකර තිබෙන පැමිණිල්ල අද (28) විභාගයට ගත් අවස්ථාවේ දී ඒ මහතා ශ්‍රේෂ්ඨාධිකරණය හමුවේ සිහිසුන්ව ඇද වැටුණි.
+
+මෙම පැමිණිල්ල අද මුර්දු ප්‍රනාන්දු, අචල වෙංගප්පුලි සහ අර්ජුන ඔබේසේකර යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවන ලදී.
+
+ඉන් අනතුරුව ඉදිරිපත් වූ කරුණු සලකා බැලූ විනිසුරු මඩුල්ල මෙම පැමිණිල්ල පිළිබඳ විභාගය ඔක්තෝබර් මස 30 වනදා පැවැත්වීමටද දින නියම කළේය.
+
+නඩු විභාගය පැවති අවස්ථාවේදී බන්ධනාගාර නිලධාරීන් විසින් අධිකරණයට ඉදිරිපත් කර තිබූ වගඋත්තරකාර ධර්මසිරි කරුණාරත්න මහතා "බුදු අම්මෝ" යනුවෙන් කෑගසමින් සිහිසුන්ව ඇදවැටීම දක්නට ලැබුණි.
+
+පසුව අධිකරණ ආරක්ෂක නිලධාරීන් සහ බන්ධනාගාර නිලධාරීන් එක්ව රෝද පුටුවකින් ඒ මහතා පිටතට රැගෙන යන ලදී.
+
+...
+
+[Data](articles/dc39b0ee.json)
+
+---
+
+### மண்சரிவு அபாயத்துடன் வசிக்கும் 1386 குடும்பங்கள்
+
+*2024-08-28 14:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாயத்துடன்-வசிக்கும்-1386-குடும்பங்கள்/175-342920) · `ta`
+
+கண்டி மாவட்டத்தில் 1386 குடும்பங்கள் மண்சரிவு அபாயம் உள்ள பகுதிகளில் வசிப்பதாக தேசிய கணக்காய்வு அலுவலகம் வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+கண்டி மாவட்டத்தில் மண்சரிவு அபாயம் உள்ள 20 பிரதேச செயலகப் பிரிவுகளில் 1845 குடும்பங்கள் இனங்காணப்பட்டுள்ளதாகவும், 19 பிரதேச செயலகப் பிரிவுகளில் 231 குடும்பங்கள் மாத்திரமே கடந்த வருடம் டிசெம்பர் மாதம் 31ஆம் திகதி வரை மீள்குடியேற்றப்பட்டுள்ளதாகவும் அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+கண்டி மாவட்ட செயலகத்தின் 2023 வருடாந்த அறிக்கையில் உள்ளடக்கப்பட்டுள்ள கணக்காய்வு அறிக்கையில் இந்த தகவல் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/472b84ae.json)
+
+---
+
+### Suspect arrested with 650 cell phones
 
 *2024-08-28 13:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/650-அலைபேசிகளுடன்-சந்தேக-நபர்-கைது/175-342919) · `ta`
 
-கடற்படை மற்றும் பொலிஸார் இணைந்து நடத்திய தேடுதல் நடவடிக்கையின் விளைவாக, அலைபேசிகளை மோசடியான முறையில் நாட்டுக்குள் கடத்த முயன்ற சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Arrested suspect found with 650 illegal cell phones during joint Navy police operation in Sri Lanka.
 
-புத்தளம் கரம்ப பிரதேசத்தில் உள்ள வீதித்தடையில் வைத்து குறித்த சந்தேக நபர் கைது செய்யப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-சந்தேக நபர் கெப் வாகனத்தில் இருந்து அலைபேசிகளை மாற்றிய போதே கைது செய்யப்பட்டுள்ளார்.
+As a result of the search operation carried out by the Navy and the police, a suspect has been arrested for allegedly defrauding the cell phones into the country.
 
-இந்த சோதனையின் போது, ​​சட்டவிரோதமாக நாட்டிற்கு கொண்டு வரப்பட்டதாக சந்தேகிக்கப்படும் 650 அலைபேசிகளை பொலிஸார் கைப்பற்றியுள்ளனர்.
+It is reported that the suspect has been arrested on a road bar in Karamba area in Puttalam.
 
-சந்தேக நபர்  52 வயதுடைய கெக்கிராவ பகுதியைச் சேர்ந்தவர் என அடையாளம் காணப்பட்டுள்ளார்.
+The suspect has been arrested while replacing cell phones from Keb.
 
-சந்தேகநபர் மற்றும் அலைபேசிகள் என்பன கெப் வண்டியுடன் மேலதிக விசாரணைகளுக்காக நுரைச்சோலை பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளன.
+During the raid, police seized 650 cell phones suspected to have been illegally brought to the country.
+
+The suspect has been identified as a 52 -year -old Kekirawa area.
+
+The suspect and the cell phones have been handed over to the foam police for further investigations with the cab.
 
 ◼️
 
 [Data](articles/eb5c71c0.json)
+
+[Extended Data](ext_articles/eb5c71c0.ext.json)
+
+---
+
+### ජනපති සටනට ආ අපේක්ෂකයින් තිදෙනෙක් ආගිය අතක් නෑ
+
+*2024-08-28 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200418) · `si`
+
+ජනාධිපතිවරණය සඳහා නාමයෝජනා ලබාදුන් අපේක්ෂකයින් තිදෙනෙකු පිළිබඳ කිසිදු තොරතුරක් නොමැති බව ප්‍රජාතාන්ත්‍රීය, ප්‍රතිසංස්කරණ හා මැතිවරණ අධ්‍යයන ආයතනයේ විධායක අධ්‍යක්ෂ මංජුල ගජනායක මහතා පවසයි.
+
+"අද දෙරණ BIG FOCUS" වැඩසටහනට එක් වෙමින් ඔහු ඒ බව සඳහන් කළේය.
+
+මෙවර ජනාධිපතිවරණය සඳහා අපේක්ෂකයින් 39 දෙනෙකු ඉදිරිපත් වූ අතර ඉන් එක් අපේක්ෂකයෙක් පසුගිය දා අභාවප්‍රාප්ත වුණි.
+
+"අභාවප්‍රාප්ත වූ පුද්ගලයා වෙනුවට තවමත් නම් කර නැහැ. ඒ නම් නොකිරීම තුළ මම යම් දුර්වලතාවයක් දකිනවා. සංවිධිතව මේ ක්‍රියාවලියට දායක වුණා නම් අදේශකයක් තිබිය යුතුයි. පෑලෑන් A සහ පෑලෑන් B නැති එකත් යම් ආකාරයකට මම විශ්වාස කරන්න වංකවීමක් ලෙස. මේ 38 දෙනාගෙන් 15 දෙනෙක් පමණයි යටත් පිරිසෙන් අඩුම තරමේ පුද්ගලයින් 10 දෙනෙකු හෝ රැස්කර හමුවක් පවත්වා තිබෙන්නේ.
+
+මම ඉතාම වගකීම් සහගතව මේ ප්‍රකාශය කරන්නේ. පොකට් මිටීන් එකක් කියන්නේ අපි එහෙමවත් හමුවක් සංවිධානය කරලා තියෙන්නේ 15 දෙනෙකු පමණයි. අනෙක් 24දෙනා එක් අයෙකු ජීවිතක්ෂයට පත්වුණා. තව 23 දෙනෙකු ඉතුරුයි. ඒ 23 දෙනාගෙන් 03 දෙනෙකු ආගිය අතක් නැත.
+
+...
+
+[Data](articles/17dc8804.json)
 
 ---
 
@@ -1644,22 +1706,6 @@ On 22 May, the Cabinet approved the joint proposal furnished by the then Justice
 
 ---
 
-### 
-
-*2024-08-28 04:23:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84636) · `en`
-
-National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake officially unveiled the NPP’s Presidential election manifesto titled “A Prosperous Nation, A Beautiful Life” in Sri JayawardenepuraKotte yesterday.
-
-Addressing the gathering of NPP Executive Council members, professionals, academics, artists, and others, Dissanayake highlighted that the manifesto is the party’s response to disinformation disseminated by its political rivals.
-
-Dissanayake recalled that recently, various rival politicians have presented programs to the public, claiming they are NPP’s own. “Even today, others frequently discuss our economic policies and governance plans. However, we often choose not to respond. We avoid engaging in unnecessary discussions and conflicts,” he said.
-
-...
-
-[Data](articles/ac6ec2f7.json)
-
----
-
 ### The suspension of the economic program can lead to a re -crisis - Nandalal Weerasinghe
 
 *2024-08-28 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/192180) · `ta`
@@ -1927,6 +1973,24 @@ US Ambassador Julie Sung met Truth and Reconciliation Mechanism reps. She asked 
 [Data](articles/18e96d37.json)
 
 [Extended Data](ext_articles/18e96d37.ext.json)
+
+---
+
+### National People’s Power  Presidential Candidate Anura Kumara Dissanayake officially Releases  the NPP’s Presidential election manifesto titled “A Prosperous Nation, A Beautiful Life” .
+
+*2024-08-28 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84636) · `en`
+
+National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake officially unveiled the NPP’s Presidential election manifesto titled “A Prosperous Nation, A Beautiful Life” in Sri JayawardenepuraKotte yesterday.
+
+Addressing the gathering of NPP Executive Council members, professionals, academics, artists, and others, Dissanayake highlighted that the manifesto is the party’s response to disinformation disseminated by its political rivals.
+
+Dissanayake recalled that recently, various rival politicians have presented programs to the public, claiming they are NPP’s own. “Even today, others frequently discuss our economic policies and governance plans. However, we often choose not to respond. We avoid engaging in unnecessary discussions and conflicts,” he said.
+
+...
+
+[Data](articles/ac6ec2f7.json)
+
+[Extended Data](ext_articles/ac6ec2f7.ext.json)
 
 ---
 
@@ -2383,79 +2447,5 @@ Accordingly, he has decided to remain out of the party membership and position.
 [Data](articles/134d1f2d.json)
 
 [Extended Data](ext_articles/134d1f2d.ext.json)
-
----
-
-### Leader of the Left Front resigns
-
-*2024-08-27 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200397) · `si`
-
-Niroshan Premaratne resigns from Left Front, citing disagreement over presidential election strategy.
-
-🟩
-
-Former Parliamentarian Niroshan Premaratne has resigned from his party membership and positions.
-
-He said a letter to the Vasudeva Nanayakkara, Party Vasudeva Nanayakkara.
-
-Mr. Niroshan Premaratne points out that his decision to implement his party's decision to implement targets and plans, as discussed in the current political situation.
-
-"I was severely disturbed by the agreement we had for the presidential election later. There is no failure in that regard. I left the Election Committee on the day to take the verdict and other team. "
-
-"Janaka Ratnayake gave me the verdict that took the majority of the executive of the party to offer presidential candidate towards the presidential candidate. That decision was awesome and ninety. I have to find out a suitable ground. "
-
-◼️
-
-[Data](articles/efd6569b.json)
-
-[Extended Data](ext_articles/efd6569b.ext.json)
-
----
-
-### Local Government election issue: Election Commission meets tomorrow
-
-*2024-08-27 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/192168) · `ta`
-
-Election Commission meeting Wednesday 28th discusses local government elections. Chairman RMAL Ratnayake says final decision pending Supreme Court ruling.
-
-🟩
-
-The Elections Commission will meet on Wednesday 28th to discuss the local government elections.
-
-The chairman of the Election Commission, RMAL Ratnayake, said that the final decision on the local elections would be taken only after discussing the verdict of the Supreme Court.
-
-◼️
-
-[Data](articles/d84da494.json)
-
-[Extended Data](ext_articles/d84da494.ext.json)
-
----
-
-### President's policy statement tomorrow
-
-*2024-08-27 19:57:06* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-ප්‍රතිපත්ති-ප්‍රකාශය-හෙට/11-411603) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-President Ranil Wickremesinghe launches policy statement Thursday at Taj Samudra Hotel. Focuses on economic recovery, benefiting all communities in Sri Lanka. Aims to address the country's largest economic crisis.
-
-🟩
-
-President Ranil Wickremesinghe's Presidential Fonseka is to be launched on Thursday (29) at the Taj Samudra Hotel in Colombo.
-
-The policy statement has been prepared based on the Vision, "Can You Rescuse the country in bankruptcy and running the country towards the economic prospoilment and gradually enter the country's policy statement..
-
-A senior senior government Minister said that a key objective of building a good country to all communities in Sri Lanka is a key objective of the Sri Lanka 'Policy Statement.
-
-The President's policy statement has focused on to set up another forward meeting after the largest economic crisis in history.
-
-◼️
-
-[Data](articles/c9cd0210.json)
-
-[Extended Data](ext_articles/c9cd0210.ext.json)
 
 ---

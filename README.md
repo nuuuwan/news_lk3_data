@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 04:08:02**
+As of **2024-08-29 04:21:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,123 (100.0%) of 43,124 articles have been extended.
+43,124 (100.0%) of 43,124 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -140,19 +140,31 @@ Building on the success of the first Presidential candidate public debate held i
 
 ---
 
-### ’திருடர்களின் ஆதரவில்லாமல் பொறுப்புக்களை கையேற்பேன்’
+### I am responsible for the support of the thieves without the support of the thieves
 
 *2024-08-29 01:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருடர்களின்-ஆதரவில்லாமல்-பொறுப்புக்களை-கையேற்பேன்/175-342952) · `ta`
 
-எனக்கு கிடைக்கின்ற மக்கள் வரத்தை என் உயிரை போல் பாதுகாத்து, அதன் கௌரவத்தை பாதுகாத்து இன, மத, குல,  கட்சி பேதமின்றி நாட்டை அபிவிருத்தி அடையச் செய்வேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார். .
+Here's a summary of the text in 200 characters:
 
-ஐக்கிய மக்கள் சக்திக்கும் எனக்கும் திருடர்களுடன் எந்த டீளும் இல்லாத காரணத்தினால், நாட்டின் வளங்களையும் சொத்துக்களையும்  பணத்தையும் திருடிய திருடர்களை  சட்டத்தின் முன் நிறுத்துவோம். எனக்கும் எனது குழுவுக்கும் அதனை எந்த தயக்கமும் இன்றி நிறைவேற்ற முடியும். நான் ஜனாதிபதி பதவிக்கும், பிரதமர் பதவிக்கும், எனது சுய கௌரவத்தையும் மக்களின் பாரம்பரியத்தையும் காட்டிக் கொடுக்கவில்லை. மக்களின் ஆணையுடன்  நாட்டுக்கான எனது பொறுப்பை ஏற்றுக்கொள்வேன் என்றார்.
 
-தற்போதைய ஜனாதிபதி பதில் ஜனாதிபதியாக  பதவியேற்ற உடன் திருடர்களை பாதுகாக்கின்ற வாயிற் காவலாளியாகவும்,    பொலிஸ் மா அதிபராகவும் செயற்படுகின்றார்.  அவ்வாறான ஜனாதிபதி பதவி தனக்குத் தேவையில்லை என்றார்.
+
+Sajith Premadasa opposes corrupt officials, promises to protect national assets, supports farmers, and proposes poverty alleviation programs.
+
+🟩
+
+Opposition Leader Sajith Premadasa said that I will protect the people's gift like my life and protect its dignity and make the country the country without racial, religious, clan and party.. .
+
+Since the United People's Power and I have no tea with the thieves, we will put the thieves who stole the country's resources, property and money in the law. I and my team can accomplish it without any hesitation. I am not betraying my self -esteem and the tradition of the people. With the mandate of the people, I will accept my responsibility for the country.
+
+The current president is acting as the gatekeeper and the Inspector General of Police who protect the thieves with the president.He said he did not need such a presidency.
+
+The 23rd people's victory rally organized by the United People's Power ahead of the 2024 presidential election was held under the patronage of Opposition Leader Sajith Premadasa near the Ampara Bus Stand.. The Leader of the Opposition said this while addressing the event.
 
 ...
 
 [Data](articles/1ab94650.json)
+
+[Extended Data](ext_articles/1ab94650.ext.json)
 
 ---
 

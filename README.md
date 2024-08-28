@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 16:54:05**
+As of **2024-08-28 17:06:45**
 
 ## Newspaper Stats
 
-*Scraped **43,049** Articles*
+*Scraped **43,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 2,595
 dailyftlk | 2,795
 adalk | 3,982
 dailymirrorlk | 4,733
-adaderanalk | 5,063
+adaderanalk | 5,064
 tamilmirrorlk | 5,611
 virakesarilk | 6,848
-adaderanasinhalalk | 7,379
+adaderanasinhalalk | 7,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,049 (100.0%) of 43,049 articles have been extended.
+43,049 (100.0%) of 43,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### ව්‍යාජ විදේශීය මත්පැන් හැදූ ස්කාගාරයක් වටලයි
+
+*2024-08-28 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200428) · `si`
+
+සිංගප්පූරු ජාතිකයකු විසින් මෙරට පුද්ගලයින් දෙදෙනෙකු යොදවා පවත්වාගෙන ගිය නීතිවිරෝධී ව්‍යාජ විදේශීය මත්පැන් ස්කාගාරයක් වටලා තිබේ.
+
+යුද හමුදා බුද්ධි අංශ තොරතුරක් මත බියගම සුරාබදු විශේෂ මෙහෙයුම් ඒකකය විසින් ඊයේ (27) එම වැටලීම සිදුකර තිබේ.
+
+දිගුකලක් තිස්සේ එම නීතිවිරෝධී ව්‍යාජ මත්පැන් නිෂ්පාදන ස්කාගාරය මහර කඩවත ප්‍රදේශයේ නිවසක් තුළ පවත්වාගෙන ගොස් තිබේ.
+
+මෙහිදී එම ස්කාගාරයේ තිබී ව්‍යාජ ලෙස සකසන ලද විදේශීය විස්කි බෝතල් 54ක්, එම බෝතල් සීල් කිරීම සඳහා යොදාගන්නා යන්ත්‍ර 2ක් සහ මත්පැන් නිෂ්පාදනයට යොදා ගන්නා ද්‍රව්‍ය හා උපකරණ තොගයක් ද සොයාගෙන ඇත.
+
+බියගම සුරාබදු විශේෂ මෙහෙයුම් ඒකකය මගින් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/c72ca50b.json)
+
+---
+
+### Illegal foreign liquor distillery raided in Kadawata
+
+*2024-08-28 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101570/illegal-foreign-liquor-distillery-raided-in-kadawata) · `en`
+
+Two individuals have been arrested after an illegal counterfeit foreign liquor distillery operated by a Singaporean national was raided by the Biyagama Excise Special Operations Unit in Kadawata today (28).
+
+The distillery, which had been running for a considerable period in a house in the Mahara area of Kadawata, has been exposed through intelligence received by the Army Intelligence.
+
+Acting on this information, the Biyagama Excise Special Operations Unit has swiftly raided the premises and apprehending the two suspects and confiscated the equipment and materials used in the production of counterfeit alcohol.
+
+During the operation, authorities have seized 54 bottles of counterfeit foreign whiskey, two bottle-sealing machines, and a large quantity of materials and equipment used for producing the fake liquor.
+
+The arrested suspects are currently in custody, and further investigations are being carried out by the Biyagama Excise Special Operations Unit, the police said.
+
+◼️
+
+[Data](articles/41e5fafb.json)
+
+---
+
+### උතුරු බෙංගාල බොක්ක ආශ්‍රිතව අඩුපීඩන තත්ත්වයක් ?
+
+*2024-08-28 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200427) · `si`
+
+උතුරු බෙංගාල බොක්ක ආශ්‍රිතව වායුගෝලයේ අඩුපීඩන තත්ත්වයක් හෙට (29) දිනයේදී වර්ධනයවීමේ හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+එම මුහුදු ප්‍රදේශවල ඉතා තද සුළං (පැ. කි. මී. 70-80) සමග තද වැසි ඇති විය හැකි බවත්, එම මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවත් නිවේදනයේ දැක්වෙයි.
+
+මේ හේතුවෙන් උතුරු බෙංගාල බොක්ක ගැඹුරු මුහුදු ප්‍රදේශයේ බහුදින ධීවර යාත්‍රා හා නාවික යාත්‍රා කටයුතුවල යෙදී සිටින පිරිස් වහාම ගොඩබිම හෝ ආරක්ෂිත ස්ථානයක් වෙත පැමිණිය යුතු බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+අද (29) පස්වරු 3:30ට නිකුත් කර ඇති එම නිවේදනය හෙට (29) පස්වරු 3:30 දක්වා වලංගු වෙයි.
+
+◼️
+
+[Data](articles/e892f310.json)
+
+---
 
 ### The roof of the toilet, a inmate escapes
 
@@ -2397,75 +2455,5 @@ US Ambassador Julie Sung met Truth and Reconciliation Mechanism reps. She asked 
 [Data](articles/18e96d37.json)
 
 [Extended Data](ext_articles/18e96d37.ext.json)
-
----
-
-### National People’s Power  Presidential Candidate Anura Kumara Dissanayake officially Releases  the NPP’s Presidential election manifesto titled “A Prosperous Nation, A Beautiful Life” .
-
-*2024-08-28 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84636) · `en`
-
-National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake officially unveiled the NPP’s Presidential election manifesto titled “A Prosperous Nation, A Beautiful Life” in Sri JayawardenepuraKotte yesterday.
-
-Addressing the gathering of NPP Executive Council members, professionals, academics, artists, and others, Dissanayake highlighted that the manifesto is the party’s response to disinformation disseminated by its political rivals.
-
-Dissanayake recalled that recently, various rival politicians have presented programs to the public, claiming they are NPP’s own. “Even today, others frequently discuss our economic policies and governance plans. However, we often choose not to respond. We avoid engaging in unnecessary discussions and conflicts,” he said.
-
-...
-
-[Data](articles/ac6ec2f7.json)
-
-[Extended Data](ext_articles/ac6ec2f7.ext.json)
-
----
-
-### Swiss family murder - two arrested
-
-*2024-08-28 00:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/192173) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-"Switzerland family murder: Two suspects arrested in Sri Lanka's Vavuniya district. Victims killed during Ayyanar temple festival. Suspect arrested, CCTV sent for analysis."
-
-🟩
-
-Two suspects have been arrested by police over the murder of a family member from Switzerland two days ago in the Kanagarayankulam Chinnatampan area in Vavuniya.
-
-The Swiss and his cousin were staying in a house there at the Ayyanar temple festival.. It is reported that the two were murdered after the two men who entered the house during the night and were dragged out of the house and left.
-
-A person who was staying at home with suspicion on suspicion of involvement in the incident has been arrested by Kanakarayankulam police.
-
-Meanwhile, steps have been taken to send the CCTV camera at home for chemical analysis.
-
-◼️
-
-[Data](articles/bfbb276a.json)
-
-[Extended Data](ext_articles/bfbb276a.ext.json)
-
----
-
-### 2024-08-27 (Tuesday)
-
-### Jai Shah is the new leader of the ICC
-
-*2024-08-27 23:55:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐ-சி-சியின்-புதிய-தலைவராக-ஜெய்-ஷா-தெரிவு/44-342898) · `ta`
-
-Jai Shah elected ICC Chairman from India replaces outgoing leader.
-
-🟩
-
-Jai Shah, Secretary of the Indian Cricket Board, has been elected as the Chairman of the International Cricket Council (ICC).
-
-Jai Shah, the leader of the International Cricket Council, has been elected as the president of the International Cricket Council as his current term is over, saying that New Zealand's New Zealand leader, New Zealand, will not contest for the third time.
-
-It is noteworthy that Jai Shah was elected president of the International Cricket Council. Remble
-
-◼️
-
-[Data](articles/e8c66630.json)
-
-[Extended Data](ext_articles/e8c66630.ext.json)
 
 ---

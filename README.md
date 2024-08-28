@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 10:37:34**
+As of **2024-08-28 10:55:40**
 
 ## Newspaper Stats
 
-*Scraped **42,996** Articles*
+*Scraped **42,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,594
 dailyftlk | 2,795
-adalk | 3,975
+adalk | 3,976
 dailymirrorlk | 4,733
 adaderanalk | 5,055
 tamilmirrorlk | 5,606
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,995 (100.0%) of 42,996 articles have been extended.
+42,996 (100.0%) of 42,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The declines were recorded in every country in the region apart from Sri Lanka, 
 ...
 
 [Data](articles/4fa2132c.json)
+
+[Extended Data](ext_articles/4fa2132c.ext.json)
 
 ---
 
@@ -1562,6 +1564,22 @@ The chairman of the Election Commission, RMAL Ratnayake, said that the final dec
 
 ---
 
+### වසරකට සංචාරකයන් මිලියන 4ක ඉලක්කයක්
+
+*2024-08-27 19:54:13* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-සංචාරකයන්-මිලියන-4ක-ඉලක්කයක්/11-411602) · `si`
+
+වසරකට සංචාරකයින් මිලියන 4ක් මෙරටට ගෙන්වා ගැනීම සදහා ඉලක්කගත වැඩපිළිවෙළක් ක්‍රියාත්මක කරන බවත්, එමගින් ග්‍රාමීය දුප්පත්භාවය තුරන් කිරීම සඳහා සංචාරක කර්මාන්තයෙන් දායකත්වය ලබාගත හැකි බවත් ජාතික ජනබලවේගයේ නායක, එම පක්ෂයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. ඔහු සඳහන් කළේ ඒ සඳහා පළමුවෙන්ම මෙරටට ගුවන්තොටුපළ පුළුල් හා කාර්යක්ෂම කළ යුතු බවයි.
+
+දිසානායක මහතා මෙම අදහස් පළ කළේ මොනාක් ඉම්පීරියල් උත්සව ශාලාවේ පැවති සංචාරක ක්ෂේත්‍රයේ වෘත්තීය සමුළුව අමතමිනි. එහිදී සංචාරක ප්‍රතිපත්තිය එළිදැක්වීම ද සිදු විය.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ දිසානායක මහතා මෙසේද කීය.
+
+“අපි තෝරාගෙන තිබෙන අනෙක් ක්ෂේත්‍රවලට යම් ආරම්භයක්, යම් කාර්ය භාරයක් , යම් කාලයක් තිබෙනවා. නමුත් අපි මේ පත්ව සිටින ආර්ථික වශයෙන් කඩාවැටී තිබෙන අර්බුදය සඳහා ඉක්මන් කෙටි කාලීන විසඳුමක් සොයාගන්නවා නම් අපිට සොයා ගැනීමේ මාවත තිබෙන්නේ සංචාරක කර්මාන්තයෙන්. අපේ රට මුහුණ දීලා තියෙනවා ප්‍රශ්න දෙකකට. එකක් අපි මේ රටට අවශ්‍ය ඩොලර් ටික වාර්ෂිකව උපයන්න සමත් වී නැහැ.
+
+...
+
+[Data](articles/36b752d7.json)
+
+---
+
 ### Election Commission to meet tomorrow
 
 *2024-08-27 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200396) · `si`
@@ -2351,35 +2369,5 @@ National People's Power MP Anuragumara Dissanayake has said that his administrat
 [Data](articles/86aeab89.json)
 
 [Extended Data](ext_articles/86aeab89.ext.json)
-
----
-
-### Complaint against the police officer who disrupted the presidential boycott campaign
-
-*2024-08-27 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/192133) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tamil National Party complains police disrupted presidential election boycott campaign. Officer accused of banning awareness activities. Parliamentarian calls for legal action, citing constitutional rights. Campaign aims to pressure Tamil voters to abstain from polls.
-
-🟩
-
-A Tamil National Party has lodged a complaint with the Election Commissioner and the Human Rights Commission regarding the disruption of the public awareness campaign which was launched three months ago demanding the boycott of the presidential election.
-
-On August 24 in the Tirukovil area of ​​the Eastern Province, the Tamil National People's Front General Secretary and Parliamentarian Selvarasa Gajendran, a group of parliamentarian Selvarasa Gajendran, had been banned from voting.
-
-Parliamentarian Gajendran, accusing him of disrupting the awareness campaign, has called for legal action against the police station in Tirukovil.
-
-"Is it stated not to vote? It cannot be distributed. This is prohibited. Demonstrations have been banned, ”the police said in the video.
-
-In the presence of the representative of the Tamil people, the Superintendent of Police in Tirukovil said that the move was contrary to the constitution in Sinhala.
-
-...
-
-[Data](articles/1747410d.json)
-
-[Extended Data](ext_articles/1747410d.ext.json)
 
 ---

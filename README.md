@@ -1,76 +1,152 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 13:37:18**
+As of **2024-08-28 13:56:51**
 
 ## Newspaper Stats
 
-*Scraped **43,024** Articles*
+*Scraped **43,028** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 360
 newsfirstlk | 363
-bbccomsinhala | 398
+bbccomsinhala | 399
 colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,595
 dailyftlk | 2,795
 adalk | 3,978
 dailymirrorlk | 4,733
-adaderanalk | 5,060
+adaderanalk | 5,061
 tamilmirrorlk | 5,608
 virakesarilk | 6,845
-adaderanasinhalalk | 7,369
+adaderanasinhalalk | 7,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,019 (100.0%) of 43,024 articles have been extended.
+43,024 (100.0%) of 43,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### ජනපති සත්කෝරලයේ මහා සංඝ සමුළුව අමතයි
+### ජනතාව නොපෙළා ආර්ථිකය හදනවා -නාමල්
+
+*2024-08-28 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200417) · `si`
+
+රටේ සාමාන්‍ය ජනතාව නොපෙළා ආර්ථිකය සංවර්ධනය කිරීමේ වගකීම ශ්‍රී ලංකා පොදුජන පෙරමුණ භාරගන්නා බව එම පක්ෂයේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+
+මාවතගම ප්‍රදේශයේ පැවැති ආසන රැස්වීමකට එක්වෙමින් ඔහු මේ බව ප්‍රකාශ කළේය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධූර අපේක්ෂක නාමල් රාජපක්ෂ මහතාගේ ජය තහවුරු කිරීම වෙනුවෙන් සංවිධාන කරන ආසන රැස්වීම් මාලාවේ මාවතගම ආසන රැස්වීම ඊයේ (27) පස්වරුවේ පැවැත්වුණි.
+
+එහිදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධූර අපේක්ෂක නාමල් රාජපක්ෂ මහතා වැඩිදුරටත් සඳහන් කළේ,
+
+...
+
+[Data](articles/27c3e4f4.json)
+
+---
+
+### පාතාලය මඩින්න සැරසෙන අනුර
+
+*2024-08-28 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200416) · `si`
+
+මත්ද්‍රව්‍ය සහ පාතාලය මැඩපවත්වන ආණ්ඩුවක් නිර්මාණය කරන බව ජාතික ජනබලවේගයේ ජනාධිපතිධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජනාධිපතිවරණය ඉලක්ක කර ජාතික ජනබලවේගය පවත්වන ජනරැලි මාලාවේ තවත් ජන රැලියක් ඊයේ (27) දින පස්වරුවේ මීගමුවේදී පැවැත්වූයේ එම පක්ෂයේ ජනාධිපතිධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙනි.
+
+එහි දි ජාතික ජනබලවේගය ජනාධිපතිධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතා සඳහන් කළේ,
+
+" අපේ රටේ කුඩු සහ පාතාලය එකට තියෙන්නේ. ලංකාවේ කවදාවත් ඈත ඉතිහාසයේ සංවිධානාත්මක අපරාධ කල්ලි හිටියේ නැහැ. අපරාධ සිද්ධ වුණා. සංවිධානාත්මක අපරාධ කල්ලි හිටියේ නැහැ. හැබැයි දැන් අපරාධ තියෙන්නේ කොහොමද? දැන් ඩුබායි සිට ඝාතන මෙහෙයවන්න පුළුවන්. හිරේ ඉඳගෙන කුඩු ව්‍යාපාර මෙහෙයවන්න පුළුවන්. ඒ කියන්නේ දැන් අපරාධ කියන්නේ මොකද්ද?  සංවිධානාත්මක අපරාධ. මේ සංවිධානාත්මක අපරාධ කල්ලි වර්ධනය වුණේ ජනපතිවරු අතින්. ප්‍රාදේශීය වශයෙන් දූෂණය කළේ ප්‍රාදේශීය දේශපාලඥයින්. ඒ නිසා මේ කුඩු සහ මේ පාතාලය සහ දේශපාලනය අතර සබඳතාවයක් තියෙනවා. ඒ නිසා මතක තියාගන්න මේ කුඩු සහ පාතාලය මැඩපවත්වන ආණ්ඩුවක් හදමු. ඒ ආණ්ඩුව තමයි ජාතික ජනබලවේග ආණ්ඩුව."
+
+◼️
+
+[Data](articles/049cb343.json)
+
+---
+
+### BJP Bengal strike: Protesters block train tracks, buses in eastern India
+
+*2024-08-28 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101566/bjp-bengal-strike-protesters-block-train-tracks-buses-in-eastern-india) · `en`
+
+Protesters blocked train tracks, stopped buses and shouted slogans in the eastern Indian state of West Bengal on Wednesday, the latest in a series of protests that have rocked the state since the rape and murder of a trainee doctor.
+
+Police fired tear-gas and water cannon to disperse protesters marching towards the state secretariat on Tuesday, prompting Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP), which is in opposition in the state, to call for a 12-hour state-wide strike on Wednesday, to protest against what it said were police atrocities.
+
+Thousands of protesters, most of them BJP workers, blocked roads and railway tracks and forced shops to shut down on Wednesday, while authorities braced for more protests through the day.
+
+A top police official said 5,000 police personnel were deployed to quell any violence across West Bengal.
+
+...
+
+[Data](articles/b9f88e04.json)
+
+---
+
+### Presidential Sangha Sangha Conference on Hokore
 
 *2024-08-28 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200414) · `si`
 
-දැනට ක්‍රියාත්මක ආර්ථික වැඩපිළිවෙළ අතරමඟ නැවතුණහොත් රට අර්බුදයට යන බවත්, මෙවර ජනාධිපතිවරණය තීන්දු කරන්නේ තම අනාගතය නොව රටේ අනාගතය බවත්  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Here's a summary of the text in 200 characters:
 
-කුරුණෑගල පැවති සත්කෝරල මහා සංඝ සමුළුව අමතමින් ජනාධිපතිවරයා ඒ බව ප්‍රකාශ කළේය.
 
-"ජනාධිපති ධුරය භාරගනිද්දිත් සංඝරත්නයේ ආශිර්වාද ලබාගත්තා. එතනින් තමයි වැඩ ආරම්භ කළේ. වෙන කවුරුත් භාරගන්න බැහැ කියපු වෙලාවක මම භාරගත්තේ. 2019 භාරදෙනකොට දළ දේශීය නිෂ්පාදනය අ.ඩො.බි. 89යි. මම ආයෙත් භාරගන්නකොට අ.ඩො.බි. 76යි. අ.ඩො.බිලියන13කින් අඩු වෙලා.
 
-2019දි විදේශ විනිමය සංචිතයේ අ.ඩො.බි.7ක් තිබුණා. ආයෙත් භාරගන්නකොට අ.ඩො. මිලියන 100ක් වත් නැහැ. අපිට තෙල්, පොහොර, බෙහෙත් තිබුණේ නැහැ. 2022 වුණ දේ සමහර අයට අමතක වෙලා. මෙතනින් ඉදිරියට යන්නේ කොහොමද කියලා ජනාධිපතිවරණයේදි තීරණය වෙයි. මේ වැඩපිළිවෙළ ඉදිරියට ගෙනියන්න ඕන නිසා මම ඉදිරිපත් වුණා. ආර්ථික ස්ථාවරභාවය තහවුරු කරන්න ඕන. ජනතාව තවමත් අමාරුවෙන් ඉන්නේ. සමහරු කියනවා බදු අඩු කරනවාලු. ආදායම් අඩු වුණොත් ගිවිසුම් කැඩෙනවා.
+Sri Lanka faces economic crisis, President Wickremesinghe addresses Sangha Sangha Conference. He cites GDP drop from 8.9% to 7.6%, forex reserves decrease from $7 billion to $100 million. Focuses on economic stability, reducing prices, increasing products, and obtaining foreign currency. Emphasizes the need for honesty and not lying about the country's situation.
+
+🟩
+
+President Ranil Wickremesinghe says that the country is going to the crisis, not the future of the presidential election.
+
+Addressing the Sangakorala Maha Sangha Sangha in Kurunegala, the President said.
+
+"When accepting the presidency, the Sangha was blessed. That's where the work started. At a time when everyone else could not accept, I accepted. Gross Domestic Production of 2019 ADB. 89. When I took over again, a lot. 76. There were reduced by 13 million.
+
+There were 7 AD 7 of the Forex Reserve 2019. When it comes to overcome again. Not 100 million. We had oil, fertilizer and medicine. Some have forgotten what happened to 2022. It is determined to be in the presidential election. I wanted to bring this program ahead. Need to establish economic stability. People are still in trouble. Some say tax reduced taxes. If income is reduced, the covenants break.
 
 ...
 
 [Data](articles/0f51fa8b.json)
 
+[Extended Data](ext_articles/0f51fa8b.ext.json)
+
 ---
 
-### මාලදිවයින දරුණු ආර්ථික අර්බුදයක
+### Maldives in a serious economic crisis
 
 *2024-08-28 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200415) · `si`
 
-මාලදිවයින ඉතිහාසයේ පළමුවරට එරට ඩොලර් සංචිත පහත වැටීම හේතුවෙන් මාලදිවයින දරුණු ආර්ථික අර්බුදයකට මුහුණ දී සිටී.
+Here's a summary of the economic situation in the Maldives in 200 characters:
 
-එරට පවතින පරිභෝජනයට ගතහැකි ඩොලර් සංචිත එක් මාසයක ආනයන කටයුතු වෙනුවෙන් හෝ ප්‍රමාණවත් නොවන බව විදෙස් වාර්තා පෙන්වා දෙයි.
 
-මාලදිවයින ආර්ථිකය මූලිකව සංචාරක කර්මාන්තය, ධීවර කර්මාන්තය සහ මුහුදු මාර්ග ඔස්සේ භාණ්ඩ ප්‍රවාහනය හාරහා කේන්ද්‍රගතව පවතී.
 
-කලකදී ලොව සරලම බදු කේතය සහිත රට ලෙස සැලකුණු මාලදිවයිනේ බදුකරණය මේ වනවිට පවතින්නේ මාලදිවයින දේශීය ආදායම් බදු අධිකාරිය යටතේ ය.
+Maldives faces severe economic crisis due to falling GDP ($395 million) and low foreign reserves ($43 million). Tourism, fisheries, and sea routes drive economy. Government struggles to manage budget without additional funding. Measures include restricting credit card payments and potential tax increases. Former Finance Minister warns of economic collapse.
 
-අමතර ඩොලර් සංචිත නොමැති වුවහොත් අයවැය කළමනාකරණය කර ගැනීම රජයට අපහසුවනු ඇතැයි මාලදිවයින මූල්‍ය අධිකාරිය මෙම වසර ආරම්භයේදීම අනතුරු ඇඟවා තිබේ.
+🟩
 
-කෙසේ වුවද පුරෝකථන නොසලකා හරිමින් කටයුතු කිරීම හේතුවෙන් එරට වත්මන් ජනාධිපති මොහොමඩ් මුයිසුගේ රජය යටතේ මාලදිවයින මේ වනවිට අනපේක්ෂිත ආර්ථික අර්බුදයකට මුහුණ දෙමින් සිටින බව වාර්තා වේ.
+The Maldives are facing a serious economic crisis due to the fall in the history of the Maldives.
 
-ඒ එරට ඉතිහාසයේ පළමුවරට භාවිත කළ හැකි ඩොලර් සංචිත ක්ෂය වෙමින් පැවතීම හේතුවෙනි.
+Foreign reports indicate that the use of rizable stocks of the existing consumption of the existing consumption is not sufficient for importance.
+
+The Maldives economy is mainly centered on the tourism, fisheries and sea routes.
+
+Taxation of the Maldives, who is considered the country with the simplest tax code in the world, is currently under the local income tax authority.
+
+The Maldives has warned that if the government is difficult to manage the budget if there is no additional dollar pools, the Maldives has warned this year.
+
+However, it is reported that the Maldives are facing an unexpected economic crisis under the government of Mohammed Mischu.
+
+It is due to the first time in history that can be used for the first time in history.
+
+The GDP has fallen to US $ 395 million in the late June last year.
 
 ...
 
 [Data](articles/6a4d219d.json)
+
+[Extended Data](ext_articles/6a4d219d.ext.json)
 
 ---
 
@@ -128,23 +204,35 @@ While firefighting teams managed to bring the fire largely under control by this
 
 ---
 
-### ஹக்கீம், ரிஷாத் கிழக்கு மண்ணுக்கு வேண்டாம்
+### Hakeem, Rishad don't get to the eastern soil
 
 *2024-08-28 12:11:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹக்கீம்-ரிஷாத்-கிழக்கு-மண்ணுக்கு-வேண்டாம்/175-342915) · `ta`
 
-ஏமாற்றுத் தலைமைகள் ஹக்கீம், ரிஷாத் கிழக்கு மண்ணுக்கு வேண்டாம் என்ற சுவரொட்டிகள் கிழக்கில் ஒட்டப்பட்டுள்ளமை பரபரப்பை ஏற்படுத்தியுள்ளது.
+Here's a summary of 200 characters:
 
-அம்பாறை மாவட்டத்தின் முஸ்லீம் மக்கள் செறிந்து வாழும் பல்வேறு பகுதிகளில் இவ்வாறான சுவரொட்டிகள் பரவலாக ஒட்டப்பட்டுள்ளன.
 
-ஜனதிபதி தேர்தல் செப்ரெம்பர் 21 ஆம் திகதி நடைபெறவுள்ள நிலையில்   2024 ம் ஆண்டுக்கான ஜனாதிபதி தேர்தல் சூடுபிடித்துள்ளது. ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவு வழங்க அம்பாறை மாவட்டம் மற்றும் கிழக்கு மாகாணங்களில் எதிர்ப்புகள் எழுந்த வண்ணமுள்ளன.
 
-ரவுப் ஹக்கீம் தலைமையிலான ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் மற்றும் ரிஷாத் பதியுதீன் தலைமையிலான அகில இலங்கை மக்கள் காங்கிரஸ் ஆகிய கட்சிகள் தமது ஆதரவினை ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு வழங்கியிருந்தனர்.
+Posters of Hakeem and Rishad appear in Ampara district, supporting Sajith Premadasa. Concerns about deception in Muslim political leadership.
 
-மேலும் கிழக்கில்  ஏமாற்றுத் தலைமைகள் ஹக்கீம், ரிஷாத் கிழக்கு மண்ணுக்கு வேண்டாம் என்ற சுவரொட்டிகளும் கிழக்கு மாகாணத்தில் பரவலாக ஓட்டப்பட்டுள்ளது.
+🟩
 
-...
+The posters of deceit leaders Hakeem and Rishad have been pasted in the east.
+
+Such posters are widely pasted in various parts of the Muslim population of the Ampara district.
+
+With the presidential election to be held on September 21, the presidential election for 2024. Opposition in the Ampara district and the Eastern Provinces has arisen in support of the United People's Power Presidential candidate Sajith Premadasa.
+
+The Sri Lanka Muslim Congress led by Rauf Hakeem and the All Ceylon Peoples Congress led by Rishad Bathiudeen have given their support to the United People's Power Presidential candidate Sajith Premadasa.
+
+Also, the posters of the Hakeem and the Rishad East are widely driven in the Eastern Province.
+
+The people of the area have expressed their concern that Muslim political leaderships, Hakeem and Rishad, have been deceiving politics since then.
+
+◼️
 
 [Data](articles/97e5a7c0.json)
+
+[Extended Data](ext_articles/97e5a7c0.ext.json)
 
 ---
 
@@ -346,15 +434,25 @@ It is also a special feature that a group of activists, including the organizer 
 
 ---
 
-### සොබාදනවි පළමු අදියර ජනපති අතින් විවෘත කෙරේ
+### President opens the first phase of nature
 
 *2024-08-28 11:23:41* · [`adalk`](https://www.ada.lk/breaking_news/සොබාදනවි-පළමු-අදියර-ජනපති-අතින්-විවෘත-කෙරේ/11-411605) · `si`
 
-කෙරවල පිටිය ‘ස්බාදනවි’ බලාගාරයේ පළමු අදියට අද(28දා) ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් විවෘත කරනු ලැබිණි.
+Here's a summary of the text in 200 characters:
+
+
+
+"President Ranil Wickremesinghe inaugurated the first phase of the 'Sambarawi power plant'."
+
+🟩
+
+President Ranil Wickremesinghe was opened at the hands of the 'Sambarawi power plant'.
 
 ◼️
 
 [Data](articles/69d00c6e.json)
+
+[Extended Data](ext_articles/69d00c6e.ext.json)
 
 ---
 
@@ -932,23 +1030,33 @@ Those who claim to have reduced the taxes and make more concessions should be sa
 
 ---
 
-### ’வரி குறைப்பு அபாயகரமானது’
+### Model tax reduction is dangerous
 
 *2024-08-28 08:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வரி-குறைப்பு-அபாயகரமானது/150-342905) · `ta`
 
-தற்போது வரி குறைப்பை மேற்கொள்வது மிகவும் அபாயகரமானது என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+Here's a summary of the text in 200 characters:
 
-மாவனல்லை பகுதியில் நேற்று இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இதனைக் குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
 
-சிலர் வரி குறைப்பை மேற்கொள்வதாகப் பிரசாரம் செய்கின்றனர்.  மாற்று வரிகளின்றி நாட்டை எவ்வாறு முன்னோக்கிக் கொண்டு செல்ல முடியும். அவர்கள் பாலத்தை உடைத்துக் கொண்டு பயணிக்குமாறு கூறுகின்றனர். பாலத்தை உடைத்துக் கொண்டு பயணித்தால் அனைவரும் ஆற்றில் விழ நேரிடும்.
 
-தேசிய மக்கள் சக்தியின் விஞ்ஞாபனத்தில் உள்ள திட்டங்களைச் செயற்படுத்தினால் நாட்டுக்கு சுமார் 200 பில்லியன் ரூபா  இல்லாது போகும்.
+President Wickremesinghe warns against tax cuts, saying they're dangerous without alternative revenue sources. He criticizes opponents' math skills, claiming they don't understand basic economics.
 
-வரிகளைக் குறைத்து அதிக சலுகைகள் தருவதாகக் கூறுபவர்களுக்கு அடிப்படை கணிதம் கூட தெரியாது என்றே கூற வேண்டும் என்றார். (a)
+🟩
+
+President Ranil Wickremesinghe said that it is very dangerous to pay taxes.
+
+He was speaking at a public meeting held yesterday in the Mawanella area.. As he further stated,
+
+Some are promoting tax cuts.How can the country be forwarded without alternative taxes. They say to break the bridge and travel. If the bridge breaks and travels, everyone will fall into the river.
+
+If implementing the projects in the manifesto of the National People's Power, the country will not have about 200 billion rupees.
+
+Those who claim to have reduced the taxes and make more concessions should be said that they do not even know the basic mathematics. (A)
 
 ◼️
 
 [Data](articles/ddb84948.json)
+
+[Extended Data](ext_articles/ddb84948.ext.json)
 
 ---
 
@@ -973,6 +1081,26 @@ The body of the deceased has been handed over to the relatives after the post mo
 [Data](articles/0f5a119f.json)
 
 [Extended Data](ext_articles/0f5a119f.ext.json)
+
+---
+
+### ශිෂ්‍ය වීසා: ඔස්ට්‍රේලියාව ගත් අලුත් ම තීන්දුවෙන් ශ්‍රී ලාංකිකයින්ට සිදුවන බලපෑම
+
+*2024-08-28 08:04:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy5wejg3n8o) · `si`
+
+ශිෂ්‍ය වීසා: ඔස්ට්‍රේලියාව ගත් අලුත් ම තීන්දුවෙන් ශ්‍රී ලාංකිකයින්ට සිදුවන බලපෑම
+
+සමස්ත සංක්‍රමණ සංඛ්‍යාව කොරෝනා වසංගත සමයට පෙර පැවති මට්ටමට අඩු කිරීමට අවධානය යොමු කරමින් ඔස්ට්‍රේලියාව එරට අධ්‍යාපන අවස්ථා ලබා දෙන ජාත්‍යන්තර සිසුන් සංඛ්‍යාව සීමා කිරීමට තීරණය කර තිබේ.
+
+ඔස්ට්‍රේලියාව ලෝකයේ විශාලතම ජාත්‍යන්තර ශිෂ්‍ය වෙළෙඳපොළක් වන අතර, 2025 වසරේදී එරට අධ්‍යාපන අවස්ථා ලබා දෙන ජාත්‍යන්තර සිසුන් සංඛ්‍යාව 270,000 දක්වා සීමා කරනු ඇත.
+
+වෘත්තීය අධ්‍යාපනය සහ පුහුණුව ලබා දෙන ආයතනවලට පැනවෙන විශාලතම කප්පාදුව මෙය විය හැකි අතර, සෑම උසස් අධ්‍යාපන ආයතනයකට ම වෙන වෙන ම සීමාවක් පනවනු ඇති බව එරට රජය අඟහරුවාදා නිවේදනය කළේ ය.
+
+අනාගතයේදී ඉල්ලුම වැඩි රැකියා ක්ෂේත්‍ර 5 තුළ රැකියාවක් කිරීමට ඔබ ඉගෙන ගත යුතු දේMasterChef Australia: ඔස්ට්‍රේලියාවේදී හරි හරියට ලංකාවේ කෑම හැදූ මේ ‘සැව්’ කවුද?
+
+...
+
+[Data](articles/b72ba280.json)
 
 ---
 
@@ -2309,113 +2437,5 @@ He also said that a final decision will be taken regarding the local government 
 [Data](articles/3bb24b15.json)
 
 [Extended Data](ext_articles/3bb24b15.ext.json)
-
----
-
-### Diana handed over to overlever
-
-*2024-08-27 19:47:10* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-අධි-චෝදනා-භාර-දෙයි/11-411601) · `si`
-
-Sri Lanka Colombo High Court Judge Manjula Thilakaratne released on bail conditions related to dual citizenship. Accused Diana handed over to overlever. Bail set at 25000 rupees and 2 lakh rupees. Case adjourned to October 4 for further proceedings.
-
-🟩
-
-Colombo High Court Judge Manjula Thilakaratne was also released on the condition of the terms of former State Minister Diyanama Gamage regarding dual citizenship.
-
-The judge to release the accused to release the accused on Rs. 25,000 / - and two lakhs of Rs.
-
-October 09, 2004 was not a Sri Lankan citizen and the name of the officers of the Department of Registration of Persons to obtain National Idice in December 2004, and the Director General of the Department of Registration of PersonsThe Attorney General has accused the defendant under allegedly making the certificate as culture.
-
-According to the court, the defendant appeared in court when the case was called.
-
-President's Counsel Shanaka Ranasinghe appearing on behalf of the defendant was aimed at the courts issued by the courts and asked for bail to his client.
-
-State Counsel Amana Dharmadasa, who appeared for the complaint, was asked to call the presidential check-out records to cease to call the acorist's fingerprint reports.
-
-...
-
-[Data](articles/4e57cc47.json)
-
-[Extended Data](ext_articles/4e57cc47.ext.json)
-
----
-
-### Tuberculosis
-
-*2024-08-27 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/192167) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Tuberculosis cases detected in Kandy since January. Symptoms: coughing, colds, loss of appetite. Patients misidentified as dengue. Awareness needed about local TB situation.
-
-🟩
-
-Pasan Jayasinghe, the chief metropolitan medical officer of Kandy, said that the main infection is not a threat to the Kandy city border.
-
-Since January this year, 50 tuberculosis has been discovered in Kandy.
-
-Kandy Chief Municipal Medical Officer Basan Jayasinghe said that the tuberculosis patients cannot be identified even if dengue patients were identified within six days of treatment.
-
-Dr. Jayasinghe added that people with symptoms such as coughing, colds, loss of appetite, and physical excessive symptoms cannot be treated directly to tuberculosis.
-
-Kandy Chief Municipal Medical Officer Basan Jayasinghe added that people should be aware of the tuberculosis situation around Kandy.
-
-◼️
-
-[Data](articles/6d246bae.json)
-
-[Extended Data](ext_articles/6d246bae.ext.json)
-
----
-
-### President is a special gazetry to summon armed forces
-
-*2024-08-27 19:32:05* · [`adalk`](https://www.ada.lk/breaking_news/සන්නද්ධ-හමුදා-කැඳවමින්-ජනපතිගෙන්-විශේෂ-ගැසට්ටුවක්/11-411599) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-President Ranil Wickremesinghe issues gazette to deploy armed forces for public order maintenance across Sri Lanka's administrative districts.
-
-🟩
-
-President Ranil Wickremesinghe has issued an order by President Ranil Wickremesinghe to maintain public peace in all administrative districts of the country.
-
-The President yesterday issued the gazette notification that included the law of the Sri Lanka Navy and all members of the Sri Lanka Air Force, as operated from yesterday (27).
-
-The armed forces are to maintain public order in the administrative districts and local waterholders.
-
-◼️
-
-[Data](articles/603f4007.json)
-
-[Extended Data](ext_articles/603f4007.ext.json)
-
----
-
-### Ranil's manifesto will be released on Thursday
-
-*2024-08-27 19:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-விஞ்ஞாபனம்-வியாழன்-வெளியிடப்படும்/175-342883) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ranil Wickremesinghe's election manifesto "Pulwan Sri Lanka" to be released Aug 29, 2024. Focuses on economic stability. United National Party National Secretary Ravi Karunanayake announced.
-
-🟩
-
-United National Party National Secretary Ravi Karunanayake today said that the election manifesto of independent presidential candidate Ranil Wickremesinghe will be released on August 29, 2024.
-
-It is reported that the election manifesto entitled Pulwan Sri Lanka (Can Sri Lanka) is based on economic stability.
-
-◼️
-
-[Data](articles/9bb7878b.json)
-
-[Extended Data](ext_articles/9bb7878b.ext.json)
 
 ---

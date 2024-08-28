@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 02:56:07**
+As of **2024-08-29 03:07:02**
 
 ## Newspaper Stats
 
-*Scraped **43,119** Articles*
+*Scraped **43,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,809
 adalk | 3,988
 dailymirrorlk | 4,733
 adaderanalk | 5,072
-tamilmirrorlk | 5,622
+tamilmirrorlk | 5,624
 virakesarilk | 6,853
 adaderanasinhalalk | 7,391
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,119 (100.0%) of 43,119 articles have been extended.
+43,119 (100.0%) of 43,121 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -203,6 +203,42 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, proudly demonstrated 
 [Data](articles/a8b9b794.json)
 
 [Extended Data](ext_articles/a8b9b794.ext.json)
+
+---
+
+### ’இன்னும் கொஞ்சம் தூரத்திற்கு செல்வோம்’
+
+*2024-08-29 01:32:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-கொஞ்சம்-தூரத்திற்கு-செல்வோம்/175-342949) · `ta`
+
+நாட்டின் எதிர்கால சந்ததியினருக்கு ஒளிமயமான நாளை உருவாக்க ஜனாதிபதி ரணில் விக்கிரமசிங்க பயணிக்கும் இந்த கடினமான பொருளாதார பாதையில் இன்னும் கொஞ்சம் தூரத்திற்கு செல்ல வேண்டும் என ஆளும் கட்சியின் பிரதம கொறடாவும் நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+இந்தப் பொருளாதாரப் போக்கை மாற்றினால், கடந்த காலத்தை விட அதிக சிரமங்களை நாம் சந்திக்க நேரிடும் என அமைச்சர் வலியுறுத்துகிறார்.
+
+உடுகம்பொல பிரதேசத்தில் செவ்வாய்க்கிழமை (27) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்ட அமைச்சர் பிரசன்ன ரணதுங்க இதனைக் குறிப்பிட்டுள்ளார்.
+
+எமது நாட்டில் தற்போது நடைமுறைப்படுத்தப்பட்டுள்ள கடன் மறுசீரமைப்பு வேலைத்திட்டம் தொடர்பில் சர்வதேச நாணய நிதியத்துடன் பகிரங்க விவாதத்திற்கு வருமாறு எதிர்க்கட்சித் தலைவர் மற்றும்  அனுரகுமார திஸாநாயக்க ஆகியோருக்கு ஜனாதிபதி பகிரங்க அழைப்பு விடுத்தார். இருவருமே கதைப்பதில் வல்லவர்கள். எனவே குதித்து இந்த சவாலை ஏற்றுக்கொள்வார்கள் என்று நாங்கள்  நினைத்தோம்.
+
+...
+
+[Data](articles/808c1c78.json)
+
+---
+
+### பதில் கடிதத்தில் 6 விடயங்கள்
+
+*2024-08-29 01:22:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-கடிதத்தில்-6-விடயங்கள்/175-342948) · `ta`
+
+நடைபெறவிருக்கும் தேர்தல் தொடர்பான தமிழ்த்தேசிய மக்கள் முன்னணியின் நிலைப்பாடு தொடர்பாக சஜித் பிரேமதாஸ அனுப்பிய கடிதத்திற்கு முன்னணியின் பதில் கடிதம் புதன்கிழமை (28) அனுப்பிவைக்கப்பட்டது.
+
+தமிழ்த் தேசிய மக்கள் முன்னணி பொதுச் செயலாளர் பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரனால் அனுப்பி வைக்கப்பட்டுள்ள பதில் கடிதத்தில் மேலும் தெரிவிக்கப்பட்டுள்ளதாவது,
+
+கடந்த 2024.08.11 திகதியிட்ட கடிதம் மூலம் எமது கட்சியின் தலைவரும் பாராளுமன்ற உறுப்பினருமாகிய  கஜேந்திரகுமார் பொன்னம்பலம் அவர்களுக்கு எழுதிய கடிதம் தொடர்பில் எமது கட்சியின் நிலைப்பாடுகளை தங்களுக்கு தெரிவித்துக் கொள்ளும் நோக்கில் இக்கடிதத்தினை எழுதுகின்றேன்.
+
+கடந்த 2022 ஆம் ஆண்டு கோட்டாபய ராஜபக்ச அரசாங்கத்திற்கு எதிராக நடைபெற்ற மக்கள் போராட்டத்தின் விளைவாக - கடந்த 2022 இல் ஜனாதிபதி வெற்றிடம் ஏற்பட்டபோது பாராளுமன்ற உறுப்பினர்களால் வாக்கெடுப்பு மூலம் ஜனாதிபதியொருவரைத் தெரிவு செய்யும் நடவடிக்கைகள் பாராளுமன்றினால் முன்னெடுக்கப்பட்டிருந்தது, அதன்போது நீங்கள் எமது ஆதரவினைக் கோரி எம்மை அழைத்து சந்திப்பொன்றை மேற்கொண்டிருந்தீர்கள்.
+
+...
+
+[Data](articles/9bce08ec.json)
 
 ---
 
@@ -2413,49 +2449,5 @@ The people of the area have expressed their concern that Muslim political leader
 [Data](articles/97e5a7c0.json)
 
 [Extended Data](ext_articles/97e5a7c0.ext.json)
-
----
-
-### Rs. 4,000 fertilizer subsidy for rubber cultivation
-
-*2024-08-28 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101563/rs-4000-fertilizer-subsidy-for-rubber-cultivation) · `en`
-
-The Ministry of Agriculture has decided to grant a fertilizer subsidy of Rs. 4,000 to support rubber cultivation across Sri Lanka, aiming to boost the country’s latex yield, which has seen a significant decline in recent years.
-
-The Agricultural Ministry confirmed that the subsidy will be available starting this week, in response to concerns raised by the Sri Lanka Rubber Research Institute that the rubber cultivation has been hindered due to the lack of fertilizer application over the years, resulting in a drop in annual latex production from 100,000 metric tons to 65,000 metric tons.
-
-To address this issue, Minister of Agriculture and Plantation Industries Mahinda Amaraweera has instructed the ministry officials to introduce a price reduction on a 50 kg bag of fertilizer for rubber cultivation.
-
-Accordingly, the of price a 50 kg bag of fertilizer will be reduced from Rs. 9,500 to Rs. 5,500, according to the ministry.
-
-◼️
-
-[Data](articles/80e20592.json)
-
-[Extended Data](ext_articles/80e20592.ext.json)
-
----
-
-### Sri Lanka government would be owed Rs656bn for CPC debt taken over by end 2024
-
-*2024-08-28 12:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-would-be-owed-rs656bn-for-cpc-debt-taken-over-by-end-2024-178205/) · `en`
-
-ECONOMYNEXT – There will be owed 656 billion rupees of debt taken over by Sri Lanka’s central government to be offset by taxes on fuel by the beginning of 2025, Energy Minister Kanchana Wijesekera said.
-
-The Treasury took over 1,200 billion rupees of debt (3.4 billion US dollars) in 2022 and a 25 rupee tax was imposed on fuel, he said in a twitter.com message.
-
-At the end of it is estimated that 656 billion rupees will remain to be offset by taxes, Wijesekera said.
-
-At this rate it would take another four years (2029) to offset the debt, he said.
-
-Wijesekera was responding to comments made by National Peoples’ Power leader Anura Dissanayake.
-
-The CPC ended up with large volumes of debt partly due to forex shortages coming from flexible inflation targeting (cutting rates with inflationary open market operations claiming that historical 12-month inflation index was below 5-oct) with a peg.
-
-◼️
-
-[Data](articles/0e8141da.json)
-
-[Extended Data](ext_articles/0e8141da.ext.json)
 
 ---

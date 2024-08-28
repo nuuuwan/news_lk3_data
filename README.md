@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 16:21:42**
+As of **2024-08-28 16:36:53**
 
 ## Newspaper Stats
 
-*Scraped **43,045** Articles*
+*Scraped **43,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,595
 dailyftlk | 2,795
-adalk | 3,980
+adalk | 3,981
 dailymirrorlk | 4,733
 adaderanalk | 5,063
 tamilmirrorlk | 5,611
@@ -26,37 +26,63 @@ adaderanasinhalalk | 7,377
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,041 (100.0%) of 43,045 articles have been extended.
+43,045 (100.0%) of 43,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### සුඩානයේ මරණ ඉහළ ට
+### වැඩ බලන පොලිස්පතිවරයෙක් පත් කරන්න ලෙස ඉල්ලා ඉදිරිපත් කළ පෙත්සම නිෂ්ප්‍රභා කරයි
+
+*2024-08-28 15:41:25* · [`adalk`](https://www.ada.lk/breaking_news/වැඩ-බලන-පොලිස්පතිවරයෙක්-පත්-කරන්න-ලෙස-ඉල්ලා-ඉදිරිපත්-කළ-පෙත්සම-නිෂ්ප්‍රභා-කරයි/11-411608) · `si`
+
+වැඩ බලන පොලිස්පතිවරයෙකු පත් කරන ලෙසට ජනාධිපතිවරයාට නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා  නීතීඥවරයෙකු ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම  ශ්‍රේෂ්ඨාධිකරණය අද(28දා) නිෂ්ප්‍රභා කර තිබේ.
+
+එමෙන්ම අදාළ විත්තිකරුට නඩු ගාස්තුව ලෙස රුපියල්  50,000ක මුදලක් ගෙවන ලෙසද නියෝගන කර ඇත.
+
+◼️
+
+[Data](articles/9fe27ad1.json)
+
+---
+
+### Top of Sudan's deaths
 
 *2024-08-28 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200423) · `si`
 
-සුඩානයට බලපා ඇති අධික වර්ෂාවත් සමග ඇතිවූ ආපදා තත්ත්වය හේතුවෙන් මියගිය පුද්ගලයින් සංඛ්‍යාව 138ක් දක්වා ඉහළ ගොස් තිබේ.
+Sudan floods death toll: 138, 120,000 affected, 12,420 homes destroyed.
 
-පුද්ගලයින් 120,000කට පමණ එමගින් බලපෑම් එල්ලවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-සුඩානයට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් නිවාස 12,420 ක් ද සම්පූර්ණයෙන්ම විනාශ වී ඇති බව වාර්තා වෙයි.
+The number of people who died due to heavy rains have risen to 138.
+
+Foreign media reports that around 120,000 people have been affected.
+
+It is reported that 12,420 houses have been completely destroyed due to adverse weather conditions.
 
 ◼️
 
 [Data](articles/43517cfc.json)
 
+[Extended Data](ext_articles/43517cfc.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-28 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/192232) · `ta`
 
-இன்று புதன்கிழமை  (ஆகஸ்ட் 28) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 295.8172 ரூபாவாகவும் விற்பனை விலை 305.0549 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+US dollar buying 295.8172 rupees, selling 305.0549 rupees on August 28.
+
+🟩
+
+The US dollar purchasing price was 295.8172 rupees and the sales price were Rs 305.0549 on Wednesday (August 28).
 
 ◼️
 
 [Data](articles/8fa5cb11.json)
+
+[Extended Data](ext_articles/8fa5cb11.ext.json)
 
 ---
 
@@ -144,23 +170,33 @@ Presidential candidate Sajith Premadasa speaking to the work
 
 ---
 
-### 650 கையடக்கத்தொலைபேசிகளுடன் நபரொருவர் கைது
+### Man arrested with 650 mobile phones
 
 *2024-08-28 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/192218) · `ta`
 
-கற்பிட்டி பகுதியிலிருந்து புத்தளம் நோக்கிப் பயணித்த கெப் வண்டியை பொலிஸார் மற்றும் கடற்படையினர் இனைந்து நேற்று செவ்வாய்க்கிழமை (28) இரவு கரம்பை சோதனைச் சாவடியில் வைத்து சோதனைக்கு உற்படுத்தப்பட்டபோது  சுமார் 650 கையடக்கத் தொலைப்பேசிகள் கண்டுபிடிக்கப்பட்டுள்ளதுடன் சந்தேகத்தின் பேரில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of the article in 200 characters:
 
-குறித்த கையடக்கத் தொலைப்பேசிகள் இந்தியாவிலிருந்து கடல்மார்க்கமாக அனுமதிப்பத்திரமின்றி கொண்டுவரப்பட்டிருக்கலாமென சந்தேகிப்பதாக பொலிஸார்  தெரிவித்தனர்.
 
-கைது செய்யப்பட்ட சந்தேக நபர் அநுராதபுரம் கெக்கிராவைப் பகுதியைச் சேர்ந்த 52 வயதுடையவரென பொலிஸார் தெரிவித்தனர்.
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபரையும் கைப்பற்றப்பட்ட கையடக்கத் தொலைப்பேசிகள் மறும் கொண்டு செல்ல பயன்படுத்தப்பட்ட கெப் வண்டியையும் நுரைச்சோலைப் பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+A 52-year-old man was arrested at Karambi checkpoint with 650 mobile phones. Police suspect the phones were smuggled from India without permits. The suspect was handed over to the police and produced in court for further investigation.
 
-இதன்போது மேலதிக விசாரணைகளை முன்னெடுத்து வருவதுடன் நீதிமன்றில் ஆஜர்படுத்தப்பட்டுள்ளதாக நுரைச்சோலைப் பொலிஸா தெரிவித்தனர்.
+🟩
+
+About 650 mobile phones were found and one of the suspects was found when police and Navy were arrested at the Karambi checkpoint last Tuesday night (28).
+
+Police said they suspect the mobile phone could have been brought from India without a permit.
+
+Police said the suspect was a 52 -year -old from Kekira, Anuradhapura.
+
+The arrested suspect has been handed over to the foam police, the captivity of the captured mobile phone.
+
+Further investigations are being carried out and the police have said that they have been produced in court.
 
 ◼️
 
 [Data](articles/fd820dce.json)
+
+[Extended Data](ext_articles/fd820dce.ext.json)
 
 ---
 
@@ -182,17 +218,27 @@ Speaking during Ada Derana’s current affairs programme “Big Focus”, Gajana
 
 ---
 
-### විධායක ජනාධිපති ක්‍රමය අහෝසි කරන්නේ කොහොමද ජනාධිපතිලා?
+### How to abolish the executive presidency?
 
 *2024-08-28 14:33:22* · [`adalk`](https://www.ada.lk/breaking_news/විධායක-ජනාධිපති-ක්‍රමය-අහෝසි-කරන්නේ-කොහොමද-ජනාධිපතිලා-/11-411607) · `si`
 
-විධායක ක්‍රමය ජනාධිපතිවරයෙකුට අහෝසි කළ නොහැකි බවත්, එය පාර්ලිමේන්තුව තුළින් සිදු කළ යුතු බවත් ජනාධිපතිවරණ අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රී විජයදාස රාජපක්ෂ මහතා පැවසීය.
+Here's a summary of 200 characters:
 
-විධායක ජනාධිපති ක්‍රමය අහෝසි කරන්නේ කොහොමද ජනාධිපතිලා? ජනාධිපතිට ඡන්දයක්වත් නෑ පාර්ලිමේන්තුවේ. ඒක පාර්ලිමේන්තුව කරන්න ඕනී එකක්. ජනාධිපතිවරයෙක් තේරී පත්වෙලා තමගේ කියන පක්ෂයකින් තුනෙන් දෙකක පාර්ලිමේන්තු මන්ත්‍රී සංඛ්‍යාවක් දිනාගෙන ඒක කරනවා කියනවා නම් ඒකේ තියෙනවා පදනමක්. එහෙම නැතුව
+
+
+To abolish the executive presidency, Parliament must pass legislation removing presidential powers. The president lacks voting rights in Parliament, making legislative action necessary. A two-thirds majority in Parliament would provide the required support for such changes.
+
+🟩
+
+MP Wijayadasa Rajapaksa said that the executive method cannot be abolished and that it should be done through the Parliament, he said.
+
+How to abolish the executive presidency?The president has no vote in Parliament. It should be done by Parliament. If a president has elected a two-thirds parliamentary parliamentary parliamentarians, there is a base. Without that
 
 ◼️
 
 [Data](articles/0fe98d2d.json)
+
+[Extended Data](ext_articles/0fe98d2d.ext.json)
 
 ---
 
@@ -2413,21 +2459,5 @@ HNB to make non-binding offer to buy Bangladesh unit of Alfalah Bank
 [Data](articles/b62cf845.json)
 
 [Extended Data](ext_articles/b62cf845.ext.json)
-
----
-
-### A testament to growth, innovation and resilience
-
-*2024-08-27 22:52:00* · [`islandlk`](http://island.lk/a-testament-to-growth-innovation-and-resilience/) · `en`
-
-In 2004, WNS, a pioneering global Business Process Management (BPM) company, strategically expanded its footprint by establishing its first offshore delivery center outside India in Colombo. Fast forward twenty years, WNS has evolved into an NYSE-listed powerhouse, with over $1.3 billion in annual revenue, 60,000+ employees worldwide, 65 offices across 13 countries, and solid client base of 600+ global companies across 10 industries.
-
-Throughout this remarkable journey, WNS Sri Lanka (SL) has played a vital role, contributing significantly to WNS’ consistent and exponential growth. Today, WNS is a trusted business transformation and services partner to global companies, and WNS SL continues to be an integral part of this success story.
-
-...
-
-[Data](articles/785d1fad.json)
-
-[Extended Data](ext_articles/785d1fad.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 17:37:19**
+As of **2024-08-28 17:58:00**
 
 ## Newspaper Stats
 
-*Scraped **43,062** Articles*
+*Scraped **43,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 5,065
 tamilmirrorlk | 5,611
 virakesarilk | 6,850
-adaderanasinhalalk | 7,381
+adaderanasinhalalk | 7,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,055 (100.0%) of 43,062 articles have been extended.
+43,062 (100.0%) of 43,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### PAYE බද්ද සංශෝධනයට IMF සමඟ එකඟතාවක් - ජනපති
+
+*2024-08-28 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200429) · `si`
+
+උපයන විට ගෙවන බද්ද හෙවත් PAYE බද්ද සංශෝධනය සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ එකඟතාවයකට පැමිණ ඇති බවත්, ඒ පිළිබඳව ඉදිරියේ දී දැනුම් දෙනු ඇති බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මෙවර ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කරලනු වස් අද දින ඇහැලියගොඩ දී පැවති ජන රැලිය අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව පැවසීය.
+
+"තව ප්‍රශ්නයක් තමයි උපයන විට ගෙවන බද්ද. ඒකත් විශාල ප්‍රශ්නයක්. IMF සංවිධානයයි අපියි එකඟ වෙලා තියෙනවා, ඒක සංශෝධනය කරන්න වුවමනායි කියලා. මූලික තීරණය අරගෙන ඉවරයි. අපි එක යෝජනාවක් දාලා තියෙනවා. ඒ අය තව යෝජනාවක් දාලා තියෙනවා. ඉතිං මේ යෝජනා දෙක සාකච්ඡා කරලා අපි එකඟත්වයකට ආවාම ඒ නියම ගාණ අපි මෙතන දැනුම් දෙන්නන්."
+
+◼️
+
+[Data](articles/4501dfc9.json)
+
+---
 
 ### Sri Lankan Tamil asylum seeker dies by self-immolation in Melbourne
 
@@ -71,6 +87,8 @@ The discussion, facilitated by Lakshman Kadirgamar Institute of International Re
 ...
 
 [Data](articles/cf36484d.json)
+
+[Extended Data](ext_articles/cf36484d.ext.json)
 
 ---
 
@@ -288,6 +306,8 @@ Speaking at an event on Monday August 26, Weerasinghe said the progress made is 
 
 [Data](articles/91fbd3b2.json)
 
+[Extended Data](ext_articles/91fbd3b2.ext.json)
+
 ---
 
 ### Sri Lanka Treasury yields slightly up, more 3-months sold
@@ -307,6 +327,8 @@ Investors preferred the short end due to political uncertainty, market participa
 ◼️
 
 [Data](articles/d0af9fd9.json)
+
+[Extended Data](ext_articles/d0af9fd9.ext.json)
 
 ---
 
@@ -638,6 +660,8 @@ He also claimed that the NPP has copied certain aspects of its reform proposals 
 
 [Data](articles/172d3778.json)
 
+[Extended Data](ext_articles/172d3778.ext.json)
+
 ---
 
 ### 1386 families living in danger of landslides
@@ -703,6 +727,8 @@ The petitioner was ordered to pay 50,000 rupees a court fees. (Colombo/Aug28/202
 ◼️
 
 [Data](articles/9486ce5b.json)
+
+[Extended Data](ext_articles/9486ce5b.ext.json)
 
 ---
 
@@ -825,6 +851,8 @@ LTL has struck a deal with India’s Petronet LNG to supply LNG from later. (Col
 ◼️
 
 [Data](articles/269acfce.json)
+
+[Extended Data](ext_articles/269acfce.ext.json)
 
 ---
 
@@ -1041,6 +1069,8 @@ The CPC ended up with large volumes of debt partly due to forex shortages coming
 ◼️
 
 [Data](articles/0e8141da.json)
+
+[Extended Data](ext_articles/0e8141da.ext.json)
 
 ---
 
@@ -2405,31 +2435,5 @@ However the icing on the winning candidate’s cake would be the minority vote. 
 [Data](articles/bd766ef7.json)
 
 [Extended Data](ext_articles/bd766ef7.ext.json)
-
----
-
-### The suspension of the economic program can lead to a re -crisis - Nandalal Weerasinghe
-
-*2024-08-28 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/192180) · `ta`
-
-Sri Lanka's economic program suspension may trigger another crisis, warns Central Bank Governor Nandalal Weerasinghe. He emphasizes the importance of long-term economic reforms for recovery.
-
-🟩
-
-The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has warned that the suspension of the ongoing economic agenda will be re -emerged by the country's economic and social crisis about two years ago.
-
-He warned the 37th Annual Meeting of the Sri Lanka Entrepreneurship Organization in Colombo.
-
-The Governor also pointed out that the current restructuring process, targeting the country's economic recovery, is essential for medium and long -term economic growth.
-
-He also stressed that although short -term renovations are difficult, all parties are dedicated to implementing these long -term renovations.
-
-Central Bank Governor Nandalal Weerasinghe has said that the country's current and future prosperity should be recovered.
-
-◼️
-
-[Data](articles/c0494b74.json)
-
-[Extended Data](ext_articles/c0494b74.ext.json)
 
 ---

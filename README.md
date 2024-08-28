@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 18:56:43**
+As of **2024-08-28 19:07:36**
 
 ## Newspaper Stats
 
-*Scraped **43,070** Articles*
+*Scraped **43,072** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 361
 newsfirstlk | 363
-bbccomsinhala | 399
+bbccomsinhala | 400
 colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,602
@@ -18,7 +18,7 @@ dailyftlk | 2,795
 adalk | 3,985
 dailymirrorlk | 4,733
 adaderanalk | 5,068
-tamilmirrorlk | 5,611
+tamilmirrorlk | 5,612
 virakesarilk | 6,850
 adaderanasinhalalk | 7,383
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,069 (100.0%) of 43,070 articles have been extended.
+43,070 (100.0%) of 43,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### ஜனாஸாக்கள் எரிப்பு: ஆராய தெரிவுக்குழு
+
+*2024-08-28 18:42:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாஸாக்கள்-எரிப்பு-ஆராய-தெரிவுக்குழு/175-342924) · `ta`
+
+கடந்த கொரோனா வைரஸ் பரவலின் போது மரணித்த முஸ்லிம்கள் மற்றும் ஏனைய மதத்தினரின் உடல்களை தகனம் செய்வதற்கு அரசாங்கத்திற்கு பரிந்துரைத்த தரப்பினரின் பொறுப்புக் கூறல் தொடர்பில் ஆராய்வதற்காக ஏனைய கட்சித் தலைவர்களுடன் கலந்தாலோசித்து பாராளுமன்ற தெரிவுக்குழு ஒன்றை நியமிப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அகில இலங்கை ஜம்இய்யதுல் உலமா நிறைவேற்றுக் குழுவுடன் செவ்வாய்க்கிழமை (27) மாலை நடைபெற்ற சந்திப்பில் முன்வைக்கப்பட்ட கோரிக்கைக்கு பதிலளிக்கும் போதே  ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+கொழும்பு மாளிகாவத்தையில் அமைந்துள்ள அகில இலங்கை ஜம்இயத்துல் உலமா தலைமையகத்திற்குச் சென்ற ஜனாதிபதி, அதன் தலைவர் அஷ் - ஷெய்க் எம் . ஐ. எம் . றிஸ்வி மற்றும் நிறைவேற்றுக் குழுஉறுப்பினர்களைச் சந்தித்து கலந்துரையாடினார்.
+
+...
+
+[Data](articles/facd048a.json)
+
+---
 
 ### Naval and fishing communities warned not to venture into sea for 3 days
 
@@ -82,19 +98,25 @@ Sri Lanka Rubber Research Institute has pointed out that there has been no ferti
 
 ---
 
-### උපයන විට ගෙවන බද්ධ ගැන ජනපති ගත්ත තීරණය මෙන්න
+### Here is the decision of the President regarding budgeting
 
 *2024-08-28 17:45:59* · [`adalk`](https://www.ada.lk/breaking_news/උපයන-විට-ගෙවන-බද්ධ-ගැන-ජනපති-ගත්ත-තීරණය-මෙන්න/11-411611) · `si`
 
-උපයන විට ගෙවන බද්ධ සංශෝධනය කිරීමට කටයුතු කරන බවත්, ඒ පිළිබඳව අයි.එම්.එෆ් සංවිධානයේ එකඟත්වය පළවී තිබෙන බවත් ස්වාධීන ජනාධිපතිවරණ අපේක්ෂක ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announces budget revision agreement with IMF during rally in Eheliyagoda.
 
-ඇහැළියගොඩ ප්‍රදේශයේ අද(28දා) පැවති ජන රැළියක් අමතමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-‘උපයන විට ගෙවන බද්ධ, ඒකත් විශාල ප්‍රශ්නයක්. අයි.එම්.එෆ්. සංවිධානයයි අපියි එකඟ වෙලා තියෙනවා ඒක සංශෝධනය කරන්න උවමනයි කියලා. මූලික තීරණය අරන් ඉවරයි. අපි එක යෝජනාවක් දාලා තියෙනවා, ඒ අය තව යෝජනාවක් දාලා තියෙනවා. ඉතින් මේ යෝජනා දෙක සාකච්ඡා කරලා අපි එකඟත්වයකට ආවම ඒ නියම ගාන අපි මෙතන දැනුම් දෙන්නම්. ’
+President Ranil Wickremesinghe said that he would revise the transplantation and the IMF organization has agreed on it.
+
+He was speaking at a rally held in Eheliyagoda this morning.
+
+"Payment when earning is a big problem. IMF. Organization and we have agreed to amend it. Basic decision is over. We've put one suggestion, they have another suggestion. So when we discuss these two suggestions, we will be notified here when we get agreements. "
 
 ◼️
 
 [Data](articles/4ff87416.json)
+
+[Extended Data](ext_articles/4ff87416.ext.json)
 
 ---
 
@@ -1145,6 +1167,24 @@ In response to Ada Derana, the Department of Immigration and Emigration said tha
 [Data](articles/932d08ca.json)
 
 [Extended Data](ext_articles/932d08ca.ext.json)
+
+---
+
+### ක්‍රිකට් මහ පුටුවේ හිඳ ගත් ජේ ෂා කියන්නේ කවුද?
+
+*2024-08-28 12:33:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cze5j88pr50o) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ නව සභාපතිවරයා ලෙස ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයේ (BCCI) වත්මන් ලේකම් ජේ ෂා නිතරගයෙන් තේරී පත්වී තිබේ.
+
+36 හැවිරිදි වියේ පසුවන ජේ ෂා ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ සභාපති ධූරයට පත් වූ ළාබාලතම පුද්ගලයා ලෙස සැලකෙයි. දෙසැම්බර් 01 වන දා සිට ඔහු අදාළ ධූරයේ කටයුතු කිරීමට නියමිතය.
+
+මෙරට ක්‍රීඩා ලෝලීන්ගේ නිරන්තර අවධානයට ලක්වූ නව ICC සභාපතිවරයා කවුද?
+
+Skip Twitter post, 1Twitter අන්තර්ගතයට අවසරදීමට ඔබ එකඟ ද?මෙම ලිපියේ Twitter විසින් සපයන ලද අන්තර්ගතයන් අඩංගු වේ. ඔවුන් කුකීස් සහ වෙනත් තාක්ෂණයන් භාවිතා කරන නිසා, ඒ කිසිවක් පූරණය වීමට පෙර අපි ඔබගේ අවසරය ඉල්ලා සිටිමු. එයට අවසරදීමට පෙර ඔබට Twitter කුකී ප්‍රතිපත්තිය සහ රහස්‍යතා ප්‍රතිපත්තිය කියවීමට අවශ්‍ය විය හැකි ය. මෙම අන්තර්ගතය බැලීමට 'පිළිගෙන ඉදිරියට යන්න' තෝරන්න.Accept and continueඅනතුරු ඇඟවීමයි: බාහිර වෙබ් අඩවිවල අන්තර්ගතය සඳහා BBCය වගකියනු නොලැබේ.End of Twitter post, 1මෙහි අන්තර්ගතය නැතවැඩිදුරටත් Twitter බලන්නබාහිර වෙබ් අඩවිවල අන්තර්ගතයට බීබීසී වගකියනු නොලැබේ.
+
+...
+
+[Data](articles/5e8e5c8b.json)
 
 ---
 
@@ -2435,47 +2475,5 @@ Furthermore, Opposition leader Premadasa stated that provisions should be includ
 [Data](articles/6406d471.json)
 
 [Extended Data](ext_articles/6406d471.ext.json)
-
----
-
-### 3,000 Samurdhi employees to be absorbed into Department of Samurdhi Development
-
-*2024-08-28 05:37:57* · [`dailyftlk`](https://www.ft.lk/news/3-000-Samurdhi-employees-to-be-absorbed-into-Department-of-Samurdhi-Development/56-766062) · `en`
-
-The Cabinet of Ministers on Monday approved providing opportunities for around 3,000 employees of the Samurdhi Development Authority to be absorbed into the Department of Samurdhi Development.
-
-Cabinet Spokesman and Minister Bandula Gunawardena yesterday said, the move comes as part of the efforts into integrates these employees into the new structure, following the establishment of the Department of Divineguma Development under the Divineguma Act No. 01 of 2013.
-
-“At the time of the creation of the Department of Divineguma Development, employees of the SamurdhiDevelopment Authority were given the choice to join the new Department with pension benefits, in accordance with the provisions of the Divineguma Act. However, due to various circumstances, around 3,000 employees were unable to revise their preference and make the transition,” he explained during the post-Cabinet meeting media briefing.
-
-...
-
-[Data](articles/01a5c6cb.json)
-
-[Extended Data](ext_articles/01a5c6cb.ext.json)
-
----
-
-### Public urges to address passport shortage amid growing frustration
-
-*2024-08-28 05:37:26* · [`dailyftlk`](https://www.ft.lk/news/Public-urges-to-address-passport-shortage-amid-growing-frustration/56-766061) · `en`
-
-Public Securities Minister says only ‘first come, first served’ basis in operation from today; suspends prior appointment system
-
-Department of Immigration and Emigration announces passport issuance restricted amid shortage of blank passports
-
-Passport applicants highlight misplaced priorities in Govt. and failure to address national interests
-
-A growing number of citizens yesterday expressed frustration over delays in obtaining passports, urging the Government to take immediate action to address the issue.
-
-This plea follows an announcement by the Public Security Minister Tiran Alles that from today (28), the existing passport application system requires prior appointments being suspended and the Department of Immigration and Emigration announcing that the issuance of passports would be limited due to a shortage of blank passport booklets.
-
-As per the Minister, instead of the existing appointment system, a ‘first come, first served’ approach will be adopted from today.
-
-...
-
-[Data](articles/1f3a9e86.json)
-
-[Extended Data](ext_articles/1f3a9e86.ext.json)
 
 ---

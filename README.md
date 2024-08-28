@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 00:10:13**
+As of **2024-08-29 00:21:43**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,100 (100.0%) of 43,101 articles have been extended.
+43,101 (100.0%) of 43,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### ක්ලබ් වසන්ත ඝාතනයේ දෙවැනි වෙඩික්කරු කොටුවෙයි
+### Club Wasantha murder crowns
 
 *2024-08-28 23:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200438) · `si`
 
-'ක්ලබ් වසන්ත' නොහොත් සුරේන්ද්‍ර වසන්ත පෙරේරා ඝාතන සිද්ධියට සම්බන්ධ දෙවැනි වෙඩික්කරු සහ මෝටර් රථ රියදුරුව අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in 200 characters:
 
-පානදුර පොලීසියේ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් මෙම සැකකරුවන් ව අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
 
-අද දෙරණ වාර්තාකරු පැවසුවේ පානදුර පින්වත්ත ප්‍රදේශයේ දී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බවය.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ගාල්ල නාගොඩ සහ අහුංගල්ල ප්‍රදේශ වල පදිංචිව 29 සහ 32 යන වයස්වල පසුවන පුද්ගලයන් දෙදෙනෙකි.
+"Club Wasantha murder: Two suspects arrested in Panadura. Ages 29-32. Residency Nagoda, Ahungalla. Handed over to Athurugiriya Police for investigation."
 
-සැකකරුවන් වැඩිදුර විමර්ශන සඳහා අතුරුගිරිය පොලීසිය වෙත භාරදීමට නියමිත බව වාර්තා වේ.
+🟩
+
+The second shooter and the car driver of the 'Club Wasantha' or Surestra Wasantha Perera has been arrested.
+
+The suspects have been arrested by the officers of the Panadura Police Criminal Investigation Bureau.
+
+The Ada Derana reporter said the suspects were arrested in Panadura Pingurat area.
+
+The arrested persons were 20 and 32 people who were aged between 29 and 32, a residency in Nagoda and Ahungalla, Galle.
+
+The suspects are to be handed over to the Athurugiriya Police for further investigations.
 
 ◼️
 
 [Data](articles/8bcc88bb.json)
+
+[Extended Data](ext_articles/8bcc88bb.ext.json)
 
 ---
 

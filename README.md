@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 10:21:39**
+As of **2024-08-28 10:37:34**
 
 ## Newspaper Stats
 
-*Scraped **42,995** Articles*
+*Scraped **42,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,594
 dailyftlk | 2,795
 adalk | 3,975
 dailymirrorlk | 4,733
-adaderanalk | 5,054
+adaderanalk | 5,055
 tamilmirrorlk | 5,606
 virakesarilk | 6,833
 adaderanasinhalalk | 7,364
@@ -26,29 +26,55 @@ adaderanasinhalalk | 7,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,992 (100.0%) of 42,995 articles have been extended.
+42,995 (100.0%) of 42,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### නෙත්තමළුව රක්ෂිතයේ ගින්නක් - අක්කර ගණනක් විනාශයි
+### South Asia air pollution fell in 2022, but remains major killer: report
+
+*2024-08-28 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101560/south-asia-air-pollution-fell-in-2022-but-remains-major-killer-report-) · `en`
+
+A surprise improvement in air quality in South Asia in 2022 drove a decline in global pollution, with favourable weather a likely factor, a new report said Wednesday.
+
+But the region continues to breathe the world’s most-polluted air, with its residents losing more than 3.5 years of life expectancy on average, the annual Air Quality Life Index (AQLI) warned.
+
+And globally, most countries have either no pollution standards or are failing to meet what they have set, subjecting their citizens to air quality that causes a broad range of health problems.
+
+For two decades, air pollution has increased annually in South Asia, but satellite data for 2022 -- the most recent year available -- showed a surprise 18 percent fall.
+
+The declines were recorded in every country in the region apart from Sri Lanka, according to the report, produced by the University of Chicago’s Energy Policy Institute (EPIC).
+
+...
+
+[Data](articles/4fa2132c.json)
+
+---
+
+### Fire at Neththaduuwa Reserve - Arows destroy
 
 *2024-08-28 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200409) · `si`
 
-වැල්ලවාය, නෙත්තමළුව රක්ෂිතයේ විශාල ගින්නක් හට ගෙන ඇති අතර ඉන් අක්කර විස්සකට අධික භූමි ප්‍රදේශයක් සම්පූර්ණයෙන් විනාශ වී තිබේ.
+Large fire destroys 20+ acres at Neththaduuwa Reserve, fueled by dry conditions and wind.
 
-වැල්ලවාය ප්‍රාදේශීය ලේකම් කොට්ඨාසයට අයත් නෙත්තමළුව කඳු රක්ෂිතයේ ඊයේ (27) පස්වරුවේ දී මෙම ගින්න හටගෙන තිබුණි.
+🟩
 
-ගින්න ඊයේ රාත්‍රී කාලය පුරාවටම කඳු රක්ෂිතයේ වේගයෙන් පැතිර ගොස් ඇත.
+A large fire has been caused by a large fire in the Neththaduuwa Reserve and over 20 acres have been completely destroyed.
 
-මෙම දිනවල එම ප්‍රදේශයට පවතින දැඩි වියළි කාලගුණය සහ සුළං තත්ත්වය හේතුවෙන් වරින් වර නෙත්තමළුව රක්ෂිතයේ ගිනි ගැනීම් සිදුව ඇති අතර ගින්න පැතිරයෑමට ද එය හේතුවී තිබේ.
+The fire had erupted at Neththaluwa mountain forest reserve owned by the Wellawaya Divisional Secretariat.
 
-හරිත වර්ණයෙන් ස්වයංපෝෂිත සංවේදී පරිසර පද්ධතියක මෙම ගින්න පැතිර ගොස් ඇති අතර අද (28) අලුයම වන විට ගින්න පාලනය කර තිබූ නමුත් තැනින් තැන තවමත් ගිනිගැනීම් දක්නට ලැබෙන බව "අද දෙරණ" වාර්තාකරු සඳහන් කරයි.
+The fire was spreading fast in mountain resurchance throughout the night.
+
+The Neththaduuwa Reserve had taken place from the Natatamaluwa forest reserve due to severe dry weather and windy of the area.
+
+The fire was spread in a self-sufficient ecosystem by a self-sufficient ecosystem today and that the fire was managed by the fire, but still in place.
 
 ◼️
 
 [Data](articles/fe83b240.json)
+
+[Extended Data](ext_articles/fe83b240.ext.json)
 
 ---
 
@@ -68,19 +94,31 @@ He did not elaborate further on the next steps, but said he would also discuss t
 
 [Data](articles/938f77db.json)
 
+[Extended Data](ext_articles/938f77db.ext.json)
+
 ---
 
-### பிரபல போதைப்பொருள் வியாபாரியின் மகன் கைது
+### Arrested son of famous drug dealer
 
 *2024-08-28 09:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-போதைப்பொருள்-வியாபாரியின்-மகன்-கைது/175-342908) · `ta`
 
-பிரபல போதைப்பொருள் வியாபாரியான ஷிரான் பாஷிக்கின் மகன் நதீன் பாஷிக் கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of the text in 200 characters:
 
-இவர் நேற்று (27) இரவு டுபாயில் இருந்து நாடு திரும்பிய நிலையில் கைது செய்யப்பட்டுள்ளார் என தெரிவிக்கப்படுகின்றது.. R
+
+
+Nadeen Bashik, son of drug dealer Shiran Bashik, arrested at Katunayake airport after returning from Dubai.
+
+🟩
+
+Nadeen Bashik, son of famous drug dealer Shiran Bashik, has been arrested at the Katunayake airport.
+
+He was arrested last night (27) and returned from Dubai.. Remble
 
 ◼️
 
 [Data](articles/8af63f0e.json)
+
+[Extended Data](ext_articles/8af63f0e.ext.json)
 
 ---
 
@@ -2343,27 +2381,5 @@ In the presence of the representative of the Tamil people, the Superintendent of
 [Data](articles/1747410d.json)
 
 [Extended Data](ext_articles/1747410d.ext.json)
-
----
-
-### ATM in Nuwara Eliya. Engine break
-
-*2024-08-27 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/192131) · `ta`
-
-Nuwara Eliya ATM broken engine garbage basket attack investigation
-
-🟩
-
-The ATM (ATM) of a private bank located near the Nuwara Eliya main bus station under the Nuwara Eliya Police Division was broken on Monday night.
-
-It was observed that the automated money -making machine had been broken when the bank opened yesterday.
-
-Preliminary investigations by the police revealed that the iron garbage basket was attacked in the automated money -providing machine.
-
-◼️
-
-[Data](articles/e2a2fb35.json)
-
-[Extended Data](ext_articles/e2a2fb35.ext.json)
 
 ---

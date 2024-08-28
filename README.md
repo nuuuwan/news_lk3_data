@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 19:07:36**
+As of **2024-08-28 19:21:47**
 
 ## Newspaper Stats
 
@@ -26,25 +26,37 @@ adaderanasinhalalk | 7,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,070 (100.0%) of 43,072 articles have been extended.
+43,072 (100.0%) of 43,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### ஜனாஸாக்கள் எரிப்பு: ஆராய தெரிவுக்குழு
+### Janasas combustion: Select Committee to explore
 
 *2024-08-28 18:42:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாஸாக்கள்-எரிப்பு-ஆராய-தெரிவுக்குழு/175-342924) · `ta`
 
-கடந்த கொரோனா வைரஸ் பரவலின் போது மரணித்த முஸ்லிம்கள் மற்றும் ஏனைய மதத்தினரின் உடல்களை தகனம் செய்வதற்கு அரசாங்கத்திற்கு பரிந்துரைத்த தரப்பினரின் பொறுப்புக் கூறல் தொடர்பில் ஆராய்வதற்காக ஏனைய கட்சித் தலைவர்களுடன் கலந்தாலோசித்து பாராளுமன்ற தெரிவுக்குழு ஒன்றை நியமிப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-அகில இலங்கை ஜம்இய்யதுல் உலமா நிறைவேற்றுக் குழுவுடன் செவ்வாய்க்கிழமை (27) மாலை நடைபெற்ற சந்திப்பில் முன்வைக்கப்பட்ட கோரிக்கைக்கு பதிலளிக்கும் போதே  ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
 
-கொழும்பு மாளிகாவத்தையில் அமைந்துள்ள அகில இலங்கை ஜம்இயத்துல் உலமா தலைமையகத்திற்குச் சென்ற ஜனாதிபதி, அதன் தலைவர் அஷ் - ஷெய்க் எம் . ஐ. எம் . றிஸ்வி மற்றும் நிறைவேற்றுக் குழுஉறுப்பினர்களைச் சந்தித்து கலந்துரையாடினார்.
+
+Sri Lanka President Ranil Wickremesinghe appoints parliamentary committee to investigate COVID-related deaths. Meets with Islamic scholars to discuss equal treatment of all religions. Maintains stance on Palestine issue. Opens consulate in Jerusalem for Sri Lankans working in Israel.
+
+🟩
+
+President Ranil Wickremesinghe said he would appoint a parliamentary select committee in consultation with other party leaders to investigate the responsibility of the government, which the government had recommended to the bodies of Muslims and other religions who died during the last Corona virus.
+
+The President was responding to a request made by the All Ceylon Jamiyyathul Ulama Executive Committee on Tuesday evening (27).
+
+President, Ash - Sheikh M. I. M.. Rizvi and the Executive Committee met with the members.
+
+General Secretary of the Ulama Council Ash -Sheikh Akram Nooramid, Treasurer Ash -Shek A.. A.. Ahmed Azwar, Vice President Ash - Sheikh H. Omardin, Ash - Sheikh M. J.. Abdul Khalik, Vice President Ash -Shaykh. L. M.. Hashim, Vice President Ash -Shaykh A. L. Members of the Executive Committee, including M.Paleel, met at the meeting. Moulavimar congratulated President Ranil Wickremesinghe's victory in the upcoming presidential election.
 
 ...
 
 [Data](articles/facd048a.json)
+
+[Extended Data](ext_articles/facd048a.ext.json)
 
 ---
 
@@ -1170,21 +1182,33 @@ In response to Ada Derana, the Department of Immigration and Emigration said tha
 
 ---
 
-### ක්‍රිකට් මහ පුටුවේ හිඳ ගත් ජේ ෂා කියන්නේ කවුද?
+### Who is James made in the church in the church?
 
 *2024-08-28 12:33:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cze5j88pr50o) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ නව සභාපතිවරයා ලෙස ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයේ (BCCI) වත්මන් ලේකම් ජේ ෂා නිතරගයෙන් තේරී පත්වී තිබේ.
+Here's a summary of 200 characters:
 
-36 හැවිරිදි වියේ පසුවන ජේ ෂා ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ සභාපති ධූරයට පත් වූ ළාබාලතම පුද්ගලයා ලෙස සැලකෙයි. දෙසැම්බර් 01 වන දා සිට ඔහු අදාළ ධූරයේ කටයුතු කිරීමට නියමිතය.
 
-මෙරට ක්‍රීඩා ලෝලීන්ගේ නිරන්තර අවධානයට ලක්වූ නව ICC සභාපතිවරයා කවුද?
 
-Skip Twitter post, 1Twitter අන්තර්ගතයට අවසරදීමට ඔබ එකඟ ද?මෙම ලිපියේ Twitter විසින් සපයන ලද අන්තර්ගතයන් අඩංගු වේ. ඔවුන් කුකීස් සහ වෙනත් තාක්ෂණයන් භාවිතා කරන නිසා, ඒ කිසිවක් පූරණය වීමට පෙර අපි ඔබගේ අවසරය ඉල්ලා සිටිමු. එයට අවසරදීමට පෙර ඔබට Twitter කුකී ප්‍රතිපත්තිය සහ රහස්‍යතා ප්‍රතිපත්තිය කියවීමට අවශ්‍ය විය හැකි ය. මෙම අන්තර්ගතය බැලීමට 'පිළිගෙන ඉදිරියට යන්න' තෝරන්න.Accept and continueඅනතුරු ඇඟවීමයි: බාහිර වෙබ් අඩවිවල අන්තර්ගතය සඳහා BBCය වගකියනු නොලැබේ.End of Twitter post, 1මෙහි අන්තර්ගතය නැතවැඩිදුරටත් Twitter බලන්නබාහිර වෙබ් අඩවිවල අන්තර්ගතයට බීබීසී වගකියනු නොලැබේ.
+James made in the church refers to a religious figure, likely a priest or minister. The Indian Cricket Board elected Jagjit Singh to the ICC, making him the youngest Chairman at 36. He faces scrutiny from sports enthusiasts.
+
+🟩
+
+The Indian Cricket Board (CC) is elected to the Commonwealth Board of International Cricket Council (ICC).
+
+He is considered the youthful person who was appointed as the Chairman of the JHH International Cricket Council of 36-year-old. He is due to be held on the post of December 01.
+
+Who is the new ICC Chairman who has the constant attention from the sports lolls in the country?
+
+Skip Twitter Post, Do you agree to reach content 1twitter? This article contains the content provided by Twitter. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Twitter cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the external web sites.
+
+JAGITA cothai shaya was born on September 22, 1988. His father is Amit Shah, and mother's name is Sonal Sha.
 
 ...
 
 [Data](articles/5e8e5c8b.json)
+
+[Extended Data](ext_articles/5e8e5c8b.ext.json)
 
 ---
 

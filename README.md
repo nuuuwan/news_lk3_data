@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 14:37:06**
+As of **2024-08-28 14:56:16**
 
 ## Newspaper Stats
 
-*Scraped **43,033** Articles*
+*Scraped **43,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ adalk | 3,978
 dailymirrorlk | 4,733
 adaderanalk | 5,061
 tamilmirrorlk | 5,610
-virakesarilk | 6,845
-adaderanasinhalalk | 7,373
+virakesarilk | 6,846
+adaderanasinhalalk | 7,374
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,033 (100.0%) of 43,033 articles have been extended.
+43,033 (100.0%) of 43,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### වැඩබලන පොලිස්පතිවරයෙකු පත් කරන්නැයි ඉල්ලූ පෙත්සමක් නිෂ්ප්‍රභ කෙරේ
+
+*2024-08-28 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200420) · `si`
+
+වැඩබලන පොලිස්පතිවරයකු පත් කරන ලෙස ජනාධිපතිවරයා වෙත නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා නීතිඥවරයෙකු විසින් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් රුපියල් 50,000ක නඩු ගාස්තුකට යටත්ව නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (28) නියම කළේය.
+
+අදාළ පෙත්සමේ වගඋත්තරකරුවකු වශයෙන් නම්කර සිටින ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ජනාධිපතිවරණය සඳහා ඉදිරිපත්වීමට සුදුසුකම් නොමැති බවට තීන්දුවක් ලබාදෙන ලෙසත් මෙම පෙත්සමෙන් ඉල්ලා තිබුණි.
+
+◼️
+
+[Data](articles/57d537cd.json)
+
+---
+
+### இயற்கை எரிவாயுவை பயன்படுத்தி இயங்கும் இலங்கையின் முதல் மின் உற்பத்தி நிலையத்தின் சுழற்சி கட்டம் ஜனாதிபதியால் திறப்பு
+
+*2024-08-28 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/192221) · `ta`
+
+"சொபாதனவி" ஒருங்கிணைந்த சுழற்சி மின் நிலையத்தின் சுழற்சி கட்டத்தை ஜனாதிபதி ரணில்  விக்ரமசிங்க சற்று முன்னர் திறந்து வைத்தார்.
+
+இலங்கையின் எரிசக்தி துறையில் ஒரு தனித்துவமான மைல்கல்லைக் குறிக்கும் வகையில், திரவ இயற்கை எரிவாயுவை (LNG) முதன்மையாகப் பயன்படுத்தி இயங்கும் இலங்கையின் முதல் மின் உற்பத்தி நிலையமான 350 மெகா வோர்ட் திறன் கொண்ட கெரவலப்பிட்டி "சொபாதனவி" ஒருங்கிணைந்த சுழற்சி
+
+◼️
+
+[Data](articles/99d546cf.json)
+
+---
 
 ### The respondent "Buddha Amu" falls during the trial
 
@@ -2423,57 +2451,5 @@ It remains to be seen who will assume the role of BCCI secretary when Shah vacat
 [Data](articles/dc16075d.json)
 
 [Extended Data](ext_articles/dc16075d.ext.json)
-
----
-
-### J Shah ICC presidents chair
-
-*2024-08-27 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200398) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-J Shah becomes unopposed Chairman of ICC, succeeding Juha. He was previously Secretary of the Indian Cricket Board.
-
-🟩
-
-The current Secretary of the Indian Cricket Board has been uncontested as the new Chairman of the James Juha International Cricket Council.
-
-◼️
-
-[Data](articles/a5bd268e.json)
-
-[Extended Data](ext_articles/a5bd268e.ext.json)
-
----
-
-### Niroshan resigns - Niroshan resigns
-
-*2024-08-27 20:24:47* · [`adalk`](https://www.ada.lk/breaking_news/නායකත්වය-අරන්-මාසයයි---නිරෝෂන්-ඉල්ලා-අස්වෙයි/11-411604) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Niroshan Premaratne resigns as leader of Democratic Left Party. Cites current political situation and presidential election as reasons. Decides to leave party membership and position.
-
-🟩
-
-Former Parliamentarian Niroshan Premaratne has resigned from the leadership of the Democratic Left and Party.
-
-Speaking to the party secretary Vasudeva Nanayakkara, he said this.
-
-The letter states that this decision to travel to the goals as discussed in the current political situation, the article said that this decision was due to the preferred decision and backwardness.
-
-It also said that the change was severely disturbed by the concurrence of the presidential election and that the party should not discuss or do not discuss the presence of a person to the presidential election.
-
-Accordingly, he has decided to remain out of the party membership and position.
-
-◼️
-
-[Data](articles/134d1f2d.json)
-
-[Extended Data](ext_articles/134d1f2d.ext.json)
 
 ---

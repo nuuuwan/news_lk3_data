@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 02:37:06**
+As of **2024-08-29 02:56:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,116 (100.0%) of 43,119 articles have been extended.
+43,119 (100.0%) of 43,119 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -170,6 +170,8 @@ This three-day event is set to welcome over 300 industry experts and representat
 
 [Data](articles/b7cd97e6.json)
 
+[Extended Data](ext_articles/b7cd97e6.ext.json)
+
 ---
 
 ### Banks’ CIO Forum engages key partners ahead of ‘The CIO Confluence 2025’
@@ -184,6 +186,8 @@ The Banks’ Chief Information Officers Forum (BCIOF), the largest premier C-lev
 
 [Data](articles/2e6509d5.json)
 
+[Extended Data](ext_articles/2e6509d5.ext.json)
+
 ---
 
 ### Dialog Future Zone Elevates Sports Fiesta with Futuristic VR Sporting Adventure
@@ -197,6 +201,8 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, proudly demonstrated 
 ...
 
 [Data](articles/a8b9b794.json)
+
+[Extended Data](ext_articles/a8b9b794.ext.json)
 
 ---
 
@@ -1764,6 +1770,38 @@ Additional Solicitor General Nirin Point, who appeared on behalf of the Attorney
 
 ---
 
+### Murder attempt;Arrested in the airport son of a famous drug trader
+
+*2024-08-28 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/192195) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Nadeen Basik, son of drug trader Shiran Basik, arrested at airport returning from Dubai. Seized 19g heroin, phones, laptops, cash, IDs during raid. Fled after attack but caught mid-flight.
+
+🟩
+
+Nadeen Basik, son of famous drug trader Shiran Basik, has been arrested at the airport.
+
+He was arrested at the airport as he returned from Dubai.
+
+During the roundup of Wellawatte on February 16, an officer of the Special Task Force attacked and fled the country.
+
+During the roundabout, 19 grams of heroin, hand phones, laptops, foreign currency, driver's license, Dubai identity card and driver's license were seized.
+
+In addition, documents describing money transactions with the suspect have been found from the apartment.
+
+Nadeen Pasik, who fled abroad, was arrested at the airport on Wednesday (28).
+
+◼️
+
+[Data](articles/b7ab23a3.json)
+
+[Extended Data](ext_articles/b7ab23a3.ext.json)
+
+---
+
 ### Ampara explodes - Sajith
 
 *2024-08-28 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200421) · `si`
@@ -2419,37 +2457,5 @@ The CPC ended up with large volumes of debt partly due to forex shortages coming
 [Data](articles/0e8141da.json)
 
 [Extended Data](ext_articles/0e8141da.ext.json)
-
----
-
-### Murder attempt;Arrested in the airport son of a famous drug trader
-
-*2024-08-28 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/192195) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Nadeen Basik, son of drug trader Shiran Basik, arrested at airport returning from Dubai. Seized 19g heroin, phones, laptops, cash, IDs during raid. Fled after attack but caught mid-flight.
-
-🟩
-
-Nadeen Basik, son of famous drug trader Shiran Basik, has been arrested at the airport.
-
-He was arrested at the airport as he returned from Dubai.
-
-During the roundup of Wellawatte on February 16, an officer of the Special Task Force attacked and fled the country.
-
-During the roundabout, 19 grams of heroin, hand phones, laptops, foreign currency, driver's license, Dubai identity card and driver's license were seized.
-
-In addition, documents describing money transactions with the suspect have been found from the apartment.
-
-Nadeen Pasik, who fled abroad, was arrested at the airport on Wednesday (28).
-
-◼️
-
-[Data](articles/b7ab23a3.json)
-
-[Extended Data](ext_articles/b7ab23a3.ext.json)
 
 ---

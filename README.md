@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 23:56:50**
+As of **2024-08-29 00:10:13**
 
 ## Newspaper Stats
 
-*Scraped **43,100** Articles*
+*Scraped **43,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,072
 tamilmirrorlk | 5,619
 virakesarilk | 6,852
-adaderanasinhalalk | 7,390
+adaderanasinhalalk | 7,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,099 (100.0%) of 43,100 articles have been extended.
+43,100 (100.0%) of 43,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### ක්ලබ් වසන්ත ඝාතනයේ දෙවැනි වෙඩික්කරු කොටුවෙයි
+
+*2024-08-28 23:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200438) · `si`
+
+'ක්ලබ් වසන්ත' නොහොත් සුරේන්ද්‍ර වසන්ත පෙරේරා ඝාතන සිද්ධියට සම්බන්ධ දෙවැනි වෙඩික්කරු සහ මෝටර් රථ රියදුරුව අත්අඩංගුවට ගෙන තිබේ.
+
+පානදුර පොලීසියේ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් මෙම සැකකරුවන් ව අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ පානදුර පින්වත්ත ප්‍රදේශයේ දී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බවය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ගාල්ල නාගොඩ සහ අහුංගල්ල ප්‍රදේශ වල පදිංචිව 29 සහ 32 යන වයස්වල පසුවන පුද්ගලයන් දෙදෙනෙකි.
+
+සැකකරුවන් වැඩිදුර විමර්ශන සඳහා අතුරුගිරිය පොලීසිය වෙත භාරදීමට නියමිත බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/8bcc88bb.json)
+
+---
 
 ### Second gunman and driver in ‘Club Wasantha’ murder arrested
 
@@ -49,6 +69,8 @@ A senior police officer said that the suspects are to be handed over to the Athu
 ...
 
 [Data](articles/a6b5893c.json)
+
+[Extended Data](ext_articles/a6b5893c.ext.json)
 
 ---
 
@@ -2487,45 +2509,5 @@ When you were thinking of you as a pet, you saw you around. It was at that time 
 [Data](articles/302bccce.json)
 
 [Extended Data](ext_articles/302bccce.ext.json)
-
----
-
-### Increase temperature;Skin diseases can cause - doctors alert
-
-*2024-08-28 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/192189) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"High temperatures increase risk of skin diseases. Experts advise avoiding direct sunlight, staying hydrated with natural fluids, and keeping children cool. Peak sun hours are between 12:11 PM and 3:00 PM daily."
-
-🟩
-
-Medical experts say that the current temperature in the country is more likely to cause skin diseases.
-
-Excessive sunlight that directly causes our skin is likely to cause skin diseases.
-
-In this regard, Deepal Perera, a specialist in the Children's Hospital in Colombo, said,
-
-Rising temperatures across the country are one of the most common people in children with skin problems.
-
-Therefore, you should avoid excessive sunlight and drink too much water.
-
-Also, drink natural water, lemon juice and juices, avoiding artificial cold drinks.
-
-Parents should refrigerate their children twice a day.
-
-The Sun is moving towards the south of the Sun, from today (28) to September 6, the sun is overpowering many parts of the country.
-
-Based on this, at around 12.11 pm today, the sun will peak above places like Nedundevu, Poonakari, Tattuvankottai and Sundikulam.
-
-The event was globally changes in the event, an official of the Department of Meteorology said.
-
-◼️
-
-[Data](articles/5bab3cdf.json)
-
-[Extended Data](ext_articles/5bab3cdf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 10:55:40**
+As of **2024-08-28 11:08:13**
 
 ## Newspaper Stats
 
-*Scraped **42,997** Articles*
+*Scraped **42,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,594
 dailyftlk | 2,795
 adalk | 3,976
 dailymirrorlk | 4,733
-adaderanalk | 5,055
+adaderanalk | 5,056
 tamilmirrorlk | 5,606
 virakesarilk | 6,833
 adaderanasinhalalk | 7,364
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,996 (100.0%) of 42,997 articles have been extended.
+42,997 (100.0%) of 42,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### President inaugurates open cycle phase of Sri Lanka’s first LNG power plant
+
+*2024-08-28 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101561/president-inaugurates-open-cycle-phase-of-sri-lankas-first-lng-power-plant) · `en`
+
+Marking a significant milestone in Sri Lanka’s energy future, President Ranil Wickremesinghe declared open the open cycle phase of the “Sobadhanavi” 350 MW Combined Cycle Power Plant at Kerawalapitiya, a short while ago, the President’s Media Division (PMD) said.
+
+The “Sobadhanavi” Combined Cycle Power Plant is the first Sri Lankan power plant to be operated on LNG as the primary fuel, according to the PMD.
+
+◼️
+
+[Data](articles/45260c10.json)
+
+---
 
 ### South Asia air pollution fell in 2022, but remains major killer: report
 
@@ -1564,19 +1578,25 @@ The chairman of the Election Commission, RMAL Ratnayake, said that the final dec
 
 ---
 
-### වසරකට සංචාරකයන් මිලියන 4ක ඉලක්කයක්
+### A target of 4 million tourists per year
 
 *2024-08-27 19:54:13* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-සංචාරකයන්-මිලියන-4ක-ඉලක්කයක්/11-411602) · `si`
 
-වසරකට සංචාරකයින් මිලියන 4ක් මෙරටට ගෙන්වා ගැනීම සදහා ඉලක්කගත වැඩපිළිවෙළක් ක්‍රියාත්මක කරන බවත්, එමගින් ග්‍රාමීය දුප්පත්භාවය තුරන් කිරීම සඳහා සංචාරක කර්මාන්තයෙන් දායකත්වය ලබාගත හැකි බවත් ජාතික ජනබලවේගයේ නායක, එම පක්ෂයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. ඔහු සඳහන් කළේ ඒ සඳහා පළමුවෙන්ම මෙරටට ගුවන්තොටුපළ පුළුල් හා කාර්යක්ෂම කළ යුතු බවයි.
+UNP leader aims for 4 million tourists annually, expands airport capacity and launches tourism policy to boost economy and address urban-rural disparities.
 
-දිසානායක මහතා මෙම අදහස් පළ කළේ මොනාක් ඉම්පීරියල් උත්සව ශාලාවේ පැවති සංචාරක ක්ෂේත්‍රයේ වෘත්තීය සමුළුව අමතමිනි. එහිදී සංචාරක ප්‍රතිපත්තිය එළිදැක්වීම ද සිදු විය.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ දිසානායක මහතා මෙසේද කීය.
+🟩
 
-“අපි තෝරාගෙන තිබෙන අනෙක් ක්ෂේත්‍රවලට යම් ආරම්භයක්, යම් කාර්ය භාරයක් , යම් කාලයක් තිබෙනවා. නමුත් අපි මේ පත්ව සිටින ආර්ථික වශයෙන් කඩාවැටී තිබෙන අර්බුදය සඳහා ඉක්මන් කෙටි කාලීන විසඳුමක් සොයාගන්නවා නම් අපිට සොයා ගැනීමේ මාවත තිබෙන්නේ සංචාරක කර්මාන්තයෙන්. අපේ රට මුහුණ දීලා තියෙනවා ප්‍රශ්න දෙකකට. එකක් අපි මේ රටට අවශ්‍ය ඩොලර් ටික වාර්ෂිකව උපයන්න සමත් වී නැහැ.
+Leader of the UNP, the leader of the party, said that the tourism is the leader of the UNP and to eliminate the tourism industry to bring about 4 million tourists per year.. He said that the airport should be expanded and efficient to the country.
+
+Dissanayake made these comments addressing the trade union trade conference held at Monactorial Celebrate Hall. Dissanayake added that the tourism policy was also launched.
+
+"There is some time, some work, some work, in the other fields we have chosen. But if we find a quick short-term solution to the economy, we find a quick short-term solution to the economy, we find the road to find out. Our country has faced two questions. One has not been able to earn the dollars of this country annually.
 
 ...
 
 [Data](articles/36b752d7.json)
+
+[Extended Data](ext_articles/36b752d7.ext.json)
 
 ---
 
@@ -2351,23 +2371,5 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/35ad3910.json)
 
 [Extended Data](ext_articles/35ad3910.ext.json)
-
----
-
-### My government will not punish anyone who has been charged with human rights and war charges - Anuragumara
-
-*2024-08-27 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/192147) · `ta`
-
-Sri Lanka: Government promises no punishment for war crime accusations. National People's Power MP Anuragumara Dissanayake states administration won't prosecute those charged with human rights violations during 26-year civil war.
-
-🟩
-
-National People's Power MP Anuragumara Dissanayake has said that his administration will not punish anyone who has been accused of war crimes during Sri Lanka's 26 -year civil war.
-
-◼️
-
-[Data](articles/86aeab89.json)
-
-[Extended Data](ext_articles/86aeab89.ext.json)
 
 ---

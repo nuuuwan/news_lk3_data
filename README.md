@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 15:37:23**
+As of **2024-08-28 15:55:48**
 
 ## Newspaper Stats
 
-*Scraped **43,039** Articles*
+*Scraped **43,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,85 @@ dailyftlk | 2,795
 adalk | 3,979
 dailymirrorlk | 4,733
 adaderanalk | 5,063
-tamilmirrorlk | 5,610
+tamilmirrorlk | 5,611
 virakesarilk | 6,846
-adaderanasinhalalk | 7,375
+adaderanasinhalalk | 7,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,038 (100.0%) of 43,039 articles have been extended.
+43,039 (100.0%) of 43,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### අම්පාර සුර පුරයක් කරනවා - සජිත්
+### සුසිල් ජයතුංග ඇප ඉල්ලයි
+
+*2024-08-28 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200422) · `si`
+
+අධිකරණයට අපහාස කිරීමේ චෝදනා මත රක්ෂිත බන්ධනාගාරගත කර සිටින තමන්ට ජීවිත තර්ජන එල්ලවී තිබෙන බැවින් ඇප මත මුදාහරින ලෙසට නීතිඥභවය අත්හිටුවා තිබෙන සුසිල් ජයතුංග මහතා අද (28) ශ්‍රේෂ්ඨාධිකරණය හමුවේ ඉල්ලීමක් කළේය.
+
+මෙම පැමිණිල්ල ගාමිණී අමරසේකර, ඒ .එච් .එම්. ඩී. නවාස් සහ ශිරාන් ගුණරත්න යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවා තිබුණි.
+
+මේ වනවිට නීතිඥභාවය අත්හිටුවා ඇති සුසිල් ජයතුංග මහතා විවෘත අධිකරණයේ ප්‍රකාශයක් කරමින් සඳහන් කළේ,
+
+"ස්වාමිනී මම බන්ධනාගාරයේ සිටින්නේ බයෙන්. බ්ලේඩ් එකකින්  මගේ බෙල්ල කපා හෝ මගේ ජීවිතයට හානි කරන්න පුළුවන්."
+
+එම අවස්ථාවේදී විනිසුරු ගාමිණී අමරසේකර මහතා කරුණු දක්වමින් පවසා ඇත්තේ, "අපෙත් බෙල්ල කපයි ද දන්නේ නෑ" යනුවෙනි.
+
+ඊට පිළිතුරු දුන් ජයතුංග මහතා, "ස්වාමිනී... මම නම් එහෙම කරන්නේ නෑ..." යනුවෙනි.
+
+ඉන්පසුව අදාළ පැමිණිල්ල සැප්තැම්බර් මස 13 වනදා යළි කැඳවන ලෙස නියෝග කෙරුණි.
+
+◼️
+
+[Data](articles/8d564707.json)
+
+---
+
+### ரணிலுக்கெதிரான மனு நிராகரிப்பு
+
+*2024-08-28 15:25:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கெதிரான-மனு-நிராகரிப்பு/175-342921) · `ta`
+
+பதில் பொலிஸ் மா அதிபரை நியமிக்கத் தவறியமை மற்றும் உச்ச நீதிமன்றத்திற்கும் மேன்முறையீட்டு நீதிமன்றத்திற்கும் நீதியரசர்களை நியமிக்காமை என்பவற்றின் அடிப்படையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவை ஜனாதிபதி தேர்தலில் போட்டியிட தகுதியற்றவர் என அறிவிக்கக் கோரி தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனுவை, விசாரணைக்கு எடுத்துக்கொள்ள  உயர் நீதிமன்றம் நிராகரித்துள்ளது.
+
+மனுதாரர்கள் நீதிமன்றத்திற்கு பொய்யாக தகவல்களை   சமர்ப்பித்து உள்ளதாகவும், அந்த மனு அரசியலமைப்பின் 92வது சரத்தை மீறுவதாகவும் இருப்பதாக சட்டமா அதிபர் சார்பில் ஆஜரான மேலதிக சொலிசிட்டர் ஜெனரல் நெரின் புள்ளே  இதன் போது ஆட்சேபனை தெரிவித்தார்.
+
+◼️
+
+[Data](articles/cc05a5c8.json)
+
+---
+
+### Ampara explodes - Sajith
 
 *2024-08-28 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200421) · `si`
 
-සිය රජයක් යටතේ අම්පාර දිස්ත්‍රික්කය සංවර්ධනයේ සුර පුරයක් බවට පත්කරන බව විපක්ෂ නායක, සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Here's a summary of 200 characters:
 
-අඩ්ඩාලච්චේනෙයි හිදී පැවති ජනාධිපතිවරණ ජන රැලියකදී සජිත් ප්‍රේමදාස මහතා මෙම අදහස් පළ කළේය.
 
-විපක්ෂ නායක, සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාගේ ජය තහවුරු කිරීම වෙනුවෙන් පැවැත්වෙන ජන රැලි මාලාවේ තවත් ජන රැලියක් ඊයේ (27) පස්වරුවේ මෙලෙස පැවැත්වුණි.
 
-එහිදී වැඩිරටත් අදහස් දැක්වූ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා,
+Sajith Premadasa rallies in Ampara, promises farmers Rs. 5000, subsidized fertilizers, and stable prices for crops.
 
-"ගොවිතැනේ නියැලී සිටින ජනතාවට ගුණාත්මක භාවයෙන් ඉහළ කිලෝ 50 පොහොර මිටිය රුපියල් 5000ට ලබාදෙනවා. ඒ වගේම තෙල් පොහොර දරාගත හැකි මුදලකට ලබාදෙන්න කටයුතු කරනවා. ඔබගේ නිෂ්පාදනයට, වී වලට ස්ථිර සහතික මිලක් ලබාදෙනවා. එක පැත්තකින් ගොවියාට හානි කරන තවත් පැත්තකින් පාරිභෝගිකයාට මහා සාපයක් වුණු මේ හාල් මෝල් මාෆියාවෙන් ගොවියාවත් බේරගෙන පාරිභෝගිකයාවත් බේරගෙන සාධාරණ සූත්‍රයක් හරහා ගොවියාට හොඳ සහතික මිලකුත් ලබාදෙනවා. පාරිභෝගිකයාට දාරගත හැකි මිලකට සහල් මිලදී ගැනීමට අවස්ථාව ලබාදෙනවා."
+🟩
+
+Opposition Leader Sajith Premadasa, the president of the Opposition of the Leader of the Opposition, the Ampara District is a Suranon of the Ampara district as a source of Ampara.
+
+Sajith Premadasa expressed these views on a presidential election held in the Wendalachchenai.
+
+Another rally was held in the rally in the rally, which will be held to ensure the victory of the president of the Opposition of the Opposition.
+
+Presidential candidate Sajith Premadasa speaking to the work
+
+"The people who are engaged in farming will be given to Rs. 5,000. Also, we will make oil fertilizer to be held. You offer a permanent guaranteed price to your product. On one side, the high-end casualties to the consumer, the high-end casualties to the consumer and offers the farmer and provides a good guarantee price through a fair formula, saving consumers. The customer will be able to buy rice at a priority price. "
 
 ◼️
 
 [Data](articles/dbf69695.json)
+
+[Extended Data](ext_articles/dbf69695.ext.json)
 
 ---
 
@@ -2395,55 +2443,5 @@ He won the second round of the preliminary rock in the participation of last nig
 [Data](articles/3a723e29.json)
 
 [Extended Data](ext_articles/3a723e29.ext.json)
-
----
-
-### Tamil party calls to boycott presidential poll in North and East - report
-
-*2024-08-27 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101555/tamil-party-calls-to-boycott-presidential-poll-in-north-and-east-report) · `en`
-
-A hardline Tamil nationalist party has launched a campaign to boycott the September 21 presidential election, saying that no major candidate has pledged for the federal set-up for political autonomy for Tamils in the North and East of the country, local election monitoring groups said on Tuesday.
-
-Moreover, Selvaraja Kajendran, the Tamil National People’s Front (TNPF) general secretary, has lodged a complaint against the police for obstructing their leaflets distribution campaign on Saturday in the eastern region of Thirukkovil.
-
-The TNPF has also urged action by the Elections Commission and the Human Rights Commission against the police for obstructing them.
-
-Kajendran said they have called for a boycott of the election as no major candidate has so far pledged to set up a federal set-up for Tamil regions in the north and east to cater to the Tamil demand for political autonomy.
-
-...
-
-[Data](articles/5dc9041a.json)
-
-[Extended Data](ext_articles/5dc9041a.ext.json)
-
----
-
-### If you try to cut the vil bridge, we all - President
-
-*2024-08-27 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200400) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka President Ranil Wickremesinghe discusses economic recovery, mentions cutting "vil bridge," references political statements, and emphasizes maintaining stability while planning for the future.
-
-🟩
-
-Does the vines lead to the bridge?Or jumping into the river?President Ranil Wickremesinghe says the decisive verdict is owned by the people.
-
-The Mawanella bus stand was held at the bus stand by the Mawanella bus stand this afternoon.
-
-"Everyone suffered all that day. How many hours were in queues?How long was it without gas?Was three-wheeles found fuel together?In that case, I took over the country.. Lose it. "
-
-"The country was able to recover because of the support of all these people. Today we move to economic stability. I haven't come totally there. Should go further. We need to think about the future. "
-
-"So if we go far, we need to go on this gover. We have to go on the road that connected the vil bridge.  එතනින් දැන් අයින් වෙන්න බෑ. They say to cut the vil bridge now. If we cut the vines bridge, we're going to the river.. That's all. "
-
-...
-
-[Data](articles/41c54154.json)
-
-[Extended Data](ext_articles/41c54154.ext.json)
 
 ---

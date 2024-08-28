@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 20:08:17**
+As of **2024-08-28 20:21:58**
 
 ## Newspaper Stats
 
-*Scraped **43,081** Articles*
+*Scraped **43,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 400
 colombotelegraphcom | 415
 islandlk | 2,505
-economynextcom | 2,602
+economynextcom | 2,607
 dailyftlk | 2,795
 adalk | 3,986
 dailymirrorlk | 4,733
@@ -26,31 +26,57 @@ adaderanasinhalalk | 7,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,078 (100.0%) of 43,081 articles have been extended.
+43,081 (100.0%) of 43,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### මාක් වුඩ් වෙනුවට එංගලන්ත කණ්ඩායම ට කැඳවූ වේගපන්දු යවන්නා
+### Long queue back in Sri Lanka over govt’s failure on passports; Foreign Minister apologizes
+
+*2024-08-28 20:00:00* · [`economynextcom`](https://economynext.com/long-queue-back-in-sri-lanka-over-govts-failure-on-passports-foreign-minister-apologizes-178254/) · `en`
+
+ECONOMYNEXT –Sri Lanka government’s failure in supplying an adequate number of passports has led to a long queue similar to what the island nation saw during the economic crisis in 2022.
+
+Sri Lanka saw long queues for fuel, cooking gas, and medicines when former leader Gotabaya Rajapaksa’s government ran out of foreign currency after the rupee collapsed in 2022 due to wrong economic policies.
+
+However, Rajapaksa’s successor Ranil Wickremesinghe has been widely acclaimed for ending the long queues with International Monetary Fund (IMF)-backed economic reforms.
+
+However, the latest queue outside the Department of Immigration and Emigration comes after the government has gone out of new passport books amid higher demand for the document that people needed to leave the country.
+
+“There is a deficiency. I apologize on behalf of the government. It happened because. We have migrated to a new electronic passport system,” Foreign Minister Ali Sabry told reporters at a media briefing in Colombo.
+
+...
+
+[Data](articles/1ba52681.json)
+
+---
+
+### Fast bowler called to England team instead of Mark Wood
 
 *2024-08-28 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200432) · `si`
 
-ශ්‍රී ලංකාව සහ එංගලන්තය අතර දෙවැනි ටෙස්ට් ක්‍රිකට් තරගය හෙට (29) ලෝඩ්ස් ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වෙයි.
+England replaces Mark Wood with another fast bowler for 2nd Test vs Sri Lanka at Lord's.
 
-එම තරගය සඳහා සහභාගී වන එංගලන්ත කණ්ඩායම මේ වනවිට නම් කර තිබේ.
+🟩
 
-ශ්‍රී ලංකාව සහ එංගලන්තය අතර මැන්චෙස්ටර් හිදී පැවති පළමු ටෙස්ට් තරගය අතරතුරදී මාක් වුඩ් පාදයේ ආබාධයකට ලක්වූ අතර ඒ හේතුවෙන් ඔහුට මෙම තරගාවලියේ ඉතිරි තරග දෙකම අහිමි වෙයි.
+The second Test match between Sri Lanka and England commences at the Lords Cricket Stadium tomorrow (29).
 
-ස්ටෝන් පවසන්නේ වුඩ් සේම වේගයෙන් පන්දු යැවීමට තමා ද උත්සාහ දරන බවයි.
+The England team, which is attending the match, has already been named.
 
-නිතරම ආබාධ වලට ලක්වන වේග පන්දු යවන්නෙක් වන 30 හැවිරිදි ස්ටෝන් මෙතෙක් ක්‍රීඩාකර ඇත්තේ ටෙස්ට් තරග 3ක් පමණි.
+The Mark Wood Foundation was disordered during the first Test match between Sri Lanka and England and he loses both the rest of the tournament.
 
-බෙන් ඩකට්, ඩෑන් ලෝරන්ස්, ඔලී පෝප් (නායක), ජෝ රූට්, හැරී බ්රූක්, ජැමී ස්මිත්, ක්‍රිස් වෝක්ස්, ගස් ඇට්කිංසන්, මැතිව් පෝට්ස්, ඔලී ස්ටෝන්, ෂොයිබ් බෂීර්
+Stone says he is trying to bowl as Wood and fast.
+
+Fast bowler, a fast bowler, is now playing 3 Tests.
+
+Ben Daket, Dan Lawrence, Ollie Pop (Leader), Harry Brook, Mathew Smith, Mathew Ports, Shen, Shoaib Bashir
 
 ◼️
 
 [Data](articles/023dc143.json)
+
+[Extended Data](ext_articles/023dc143.ext.json)
 
 ---
 
@@ -234,19 +260,45 @@ General Secretary of the Ulama Council Ash -Sheikh Akram Nooramid, Treasurer Ash
 
 ---
 
-### නඩු භාණඩ කාමරයේ තිබූ, රු. කෝටි 24ක හෙරොයින් කිලෝ 12ක් අතුරුදන්
+### Sri Lanka Marxists-led NPP’s manifesto “recipe for disaster”: Foreign Minister
+
+*2024-08-28 18:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-marxists-led-npps-manifesto-recipe-for-disaster-foreign-minister-178252/) · `en`
+
+ECONOMYNEXT –Marxists Janatha Vimukthi Peramuna (JVP)-led National People’s Power’s (NPP) economic policies will erode Sri Lanka’s economic recovery and lead to the second economic crisis, Foreign Minister Ali Sabry said.
+
+Sabry, the former Finance Minister who started negotiations with the International Monetary Fund (IMF) in 2022, said the economic policies announced in the NPP’s election manifesto this week lacks clarity on additional funds needed to manage higher spending for the proposals.
+
+The NPP is populour at the grass root level and among the rural voters and many analysts see the possibility of its presidential candidate Anura Kumara Dissanayake winning the September 21 poll.
+
+Some analysts see the move as the end of an elitists-dominated 76-year post-independent politics in Sri Lanka.
+
+...
+
+[Data](articles/10f6f499.json)
+
+---
+
+### In the case of the Trial Room, Rs. 12 kilos of heroin disappeared
 
 *2024-08-28 18:29:50* · [`adalk`](https://www.ada.lk/breaking_news/නඩු-භාණඩ-කාමරයේ-තිබූ--රු--කෝටි-24ක-හෙරොයින්-කිලෝ-12ක්-අතුරුදන්/11-411613) · `si`
 
-කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණ නඩු භාන්ඩ කාමරයේ සුරක්‍ෂිතව තබා තිබු රුපියල් කෝටි 24ක් වටිනා හෙරොයින් කිලෝ 12ක් අතුරුදන් වී ඇති බව හෙළි වී ඇත.
+Heroin disappearance case: Chief Magistrate orders investigation, names suspect Tharindu Yoshitha, directs CID and police to probe.
 
-මහාධිකරණ නඩුවකට ඉදිරිපත් කිරීම සඳහා කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණ නඩු භාන්ඩ කාමරයේ සුරක්‍ෂිතව තබා තිබු මෙම හෙරොයින් තොගය රජයේ රස පරීක්‍ෂවරයාට ඉදිරිපත් කිරීමට බව පවසා රහස් පොලිසස් නිලධාරියකු වශයෙන් පෙනී සිටි පුද්ගලයකු විසින් රැගෙන ගොස් ඇති බව හෙළි වීම නිසා සිද්ධියට සම්බන්ධ සැකකරුවන් වහාම අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා රහස් පොලිසියේ අධක්‍ෂවරයාට අද (28) නියම කළේය.
+🟩
 
-රහස් පොලිසියෙන් යැයි පවසමින් අදළ හෙරොයින් තොගය රැගෙන ගිය බව කියන ‘තරිඳු යෝෂිත’ නමැත්තා කවුද? යන්න හෙළි කර ගැනීම සඳහා වහාම විමර්ශනයක් කිරීමටද ප්‍රධාන මහෙස්ත්‍රාත්වරයා රහස් පොලිස් අධක්‍ෂවරයාට නියම කළේය.
+It has been revealed that the Chief Magistrate's Court Magistrate's Court of Justice had disappeared at Rs.
+
+The revelation that the heroin had been taken to the Government Analysis to submit the heroin in Colombo to be presented to the Government Analysis to submit the heroin in Colombo to be presented to the Government Analysis.Colombo Chief Magistrate Thilina Gamage prescribed the Director of the CID today (28).
+
+Who is the 'Tharindu Yoshitha' who had taken the stock of heroin that heroin was taken by the secret police?The Chief Magistrate also ordered the CPA to investigate the revelation.
+
+After revealing that the heroin, a man named 'Tharindu Yoshitha' was to be sent to the Government Analyst, said that he had previously been taken to the Government Analyst.The Chief Magistrate also funded the Director General of Police to investigate the matter.
 
 ...
 
 [Data](articles/f9a92651.json)
+
+[Extended Data](ext_articles/f9a92651.ext.json)
 
 ---
 
@@ -319,6 +371,64 @@ He was speaking at a rally held in Eheliyagoda this morning.
 [Data](articles/4ff87416.json)
 
 [Extended Data](ext_articles/4ff87416.ext.json)
+
+---
+
+### Sri Lanka, IMF reach agreement on amending PAYE tax: report citing president
+
+*2024-08-28 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-reach-agreement-on-amending-paye-tax-report-citing-president-178240/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s government and the International Monetary Fund (IMF) have reached an agreement to amend the pay-as-you-earn (PAYE) tax, and proposals from both parties are to be considered and the exact amounts will be notified soon, the privately owned Ada Derana network reported.
+
+According to Ada Derana, Wickremesinghe had made this statement at a presidential election rally in Eheliyagoda on Wednesday August 28. (Colombo/Aug28/2024)
+
+◼️
+
+[Data](articles/c7c76886.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 300.60/80, bond yields up
+
+*2024-08-28 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-60-80-bond-yields-up-178245/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 300.60/80 to the US dollar on Wednesday, from 300.00/30 on Tuesday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 11.00/15 percent, up from 10.90/11.15 percent.
+
+A bond maturing on 15.12.2027 closed at 11.80/12.05 percent, up from 11.80/95 percent.
+
+A bond maturing on 01.07.2028 closed at 12.60/70 percent, up from 12.50/55 percent.
+
+A bond maturing on 15.06.2029 closed at 12.75/13.00 percent, up from 12.70/80 percent.
+
+A bond maturing on 01.10.2032 closed at 13.10/40 percent, up from 13.10/25 percent. (Colombo/Aug28/2024)
+
+◼️
+
+[Data](articles/ccadf99c.json)
+
+---
+
+### Sri Lanka stocks close down, ASPI drops below 11,000
+
+*2024-08-28 17:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-aspi-drops-below-11000-178236/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 1.33 percent, or 147.67 points, at 10,945; while the more liquid S&P SL20 Index closed down 1.68 percent, or 52.92 points, at 3,096.
+
+Top turnover generators were Ceylon Tobacco Company Plc (down at 1,206.50), Melstacorp Plc (down at 75.70), Browns Investments Plc (down at 5.00), Commercial Bank of Ceylon Plc (down at 86.60), and John Keells Holdings Plc (down at 173.25)
+
+“The All Share Index dropped below the 11,000 mark today, and it can go down further,” Softlogic Stockbrokers said.
+
+Two crossings took place: Melstacorp and Sierra Cables Plc (flat at 10.30).
+
+Foreign buying was seen in Melstacorp, Commercial Bank, Richard Pieris and Company Plc (down at 19.00), Hayleys Plc (down at 90.00), People’s Leasing and Finance Plc (down at 11.50), and Radiant Gems International Plc (down at 83.40).
+
+...
+
+[Data](articles/9f68c30a.json)
 
 ---
 
@@ -410,21 +520,33 @@ President Ranil Wickremesinghe made this statement addressing the rally in Eheli
 
 ---
 
-### அநுரகுமாரவின் தேர்தல் விஞ்ஞாபனத்தில் ரணிலின் வேலைத்திட்டங்களே உள்ளடக்கம் - அகிலவிராஜ்
+### Ranil's programs in Anuragumara's election manifesto include - Akhilaviraj
 
 *2024-08-28 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/192249) · `ta`
 
-தேசிய மக்கள் சக்தியின் தேர்தல் விஞ்ஞாபனத்தில் ரணில் விக்ரமசிங்கவின் வேலைத்திட்டங்களே காணப்படுகின்றன. ஒருசில சிறிய வித்தியாசத்துடனே அதனை  வெளியிட்டுள்ளனர். அவர்களின் வாக்குறுதிகளை யதார்த்தமாக்குவது சாதாரண வியடமல்ல என ஐக்கிய தேசிய கட்சியின் உப தலைவர் அகிலவிராஜ் காரியவசம் தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் புதன்கிழமை (28) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
 
-தேசிய மக்கள் சக்தி வெளியிட்டுள்ள தேர்தல் விஞ்ஞாபனத்தில் அதிகமான திட்டங்கள் ரணில் விக்ரமசிங்கவின் வேலைத்திட்டங்களாகும். அந்த திட்டங்களில் ஒருசில விடயங்களை ஏற்கனவே ரணில் விக்ரமசிங்க ஆரம்பித்திருக்கிறார்.
 
-என்றாலும் ஒருசில மாற்றங்களை செய்துள்ளனர். அதேநேரம் அவர்களின் ஒருசில வாக்குறுதிகளை இந்த பூமியில் யதார்த்தமாக்குவது தற்போதைக்கு சாத்தியமில்லை.
+Ranil Wickremesinghe's programs in National People's Power manifesto include education initiatives. Some promises may be difficult to fulfill due to financial constraints. Economic solutions are emphasized.
+
+🟩
+
+Ranil Wickremesinghe's programs are found in the election manifesto of the National People's Power. They have released it with a few small differences. UNP Vice President Akhilaviraj Kariyawasam said that it is not uncommon to realize their promises.
+
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Wednesday (28).
+
+Ranil Wickremesinghe's programs are the highest programs in the election manifesto published by the National People's Power. Ranil Wickremesinghe has already begun a few of those projects.
+
+They have made a few changes though. At the same time, it is not possible to realize their some promises on this earth.
+
+In their election manifesto they mention some issues regarding education. It has been reported to set up a school for 3 kg meters. They mentioned the program of the nearest school that I was working as the Minister of Education that day.. There is nothing new on it.
 
 ...
 
 [Data](articles/6e603f00.json)
+
+[Extended Data](ext_articles/6e603f00.ext.json)
 
 ---
 
@@ -2393,141 +2515,5 @@ Among the injured were four boys, six girls and two women and two men were hospi
 [Data](articles/e6fced8e.json)
 
 [Extended Data](ext_articles/e6fced8e.ext.json)
-
----
-
-### “No one can stop our success”
-
-*2024-08-28 07:30:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-வெற்றியை-யாராலும்-தடுக்க-முடியாது/175-342903) · `ta`
-
-Anura Kumara Dissanayake claims NP victory unstoppable, cites civil servant, police, military support.
-
-🟩
-
-National People's Front leader Anura Kumara Dissanayake has said that this time no one can stop the NP's victory, saying that President Ranil Wickremesinghe will take some trick at the last time to prevent the success of the national people's power.
-
-Speaking at a rally in Minuwangoda, he said that the majority of civil servants, police and military personnel would support the National People's Party and that Ranil Wickremesinghe could not engage in any trick.
-
-People suspect that Ranil Wickremesinghe will handle something trick. He could not do any trick. The majority of civil servants support NPP. The majority of police and military officers support us. Retired police and military officers are with us, so no one can prevent us coming to power.
-
-Dissanayake said the NPP government would be formed for the first time to maintain the people and that governments have been created to look after the families and friends of the rulers.
-
-◼️
-
-[Data](articles/49c6010d.json)
-
-[Extended Data](ext_articles/49c6010d.ext.json)
-
----
-
-### Ginger price hike
-
-*2024-08-28 07:24:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஞ்சி-விலை-உயர்வு/175-342902) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ginger prices surge to Rs. 3200, impacting demand. Farmers profit from seed sales, but local supply dwindles due to high costs.
-
-🟩
-
-Ginger's question has declined as ginger prices have risen to Rs. 3200. Merchants pointed out that farmers are rapidly profitable by selling seed ginger, but there is a shortage of ginger or local ginger.
-
-◼️
-
-[Data](articles/9b179c3d.json)
-
-[Extended Data](ext_articles/9b179c3d.ext.json)
-
----
-
-### Indian national who pleaded guilty of cricket matches
-
-*2024-08-28 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200405) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Indian national pleads guilty cricket match fixing Kandy General Pallekele Cricket Tournament International Cricket Council investigation England New Zealand players Punjab Royal team Attorney General's Department conviction
-
-🟩
-
-A Indian national has prescribed a backed by the Kandy General of Kandy.
-
-The police said that the punishment has been sentenced to a betrayal of the tournament in the Pallekele Cricket Tournament at the Pallekele Cricket Stadium.
-
-The investigation was launched following an anti-corruption unit of the International Cricket Council.
-
-Investigations have revealed that the England player and a New Zealand player who played the Punjab Royal team and a New Zealand player have been found.
-
-Accordingly, the Attorney General's Department has been indicted by the Attorney General's Department on the conviction of an Indian national and betraying the match betrayal.
-
-The case was taken up yesterday (27) and the Indian national has pleaded guilty for both indictments.
-
-The Kandy High Court Judge was Rs.
-
-◼️
-
-[Data](articles/9c771de6.json)
-
-[Extended Data](ext_articles/9c771de6.ext.json)
-
----
-
-### The first sun will peak today
-
-*2024-08-28 07:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-சூரியன்-உச்சம்-கொடுக்கும்/175-342901) · `ta`
-
-Here's a summary of the weather forecast in 200 characters:
-
-
-
-"Sun peaks today, rain in Northern Province, thunderstorms in Uva, Ampara, Batticaloa. Heavy winds 30-40km/h in North, North Central, North West provinces. Southwest wind increase 55-60km/h Trincomalee-Kankesanthurai, Mannar-Chilaw, Hambantota-Pottuvil. Lightning warning."
-
-🟩
-
-The Department of Meteorology has predicted that rainfall in the Northern Province is likely to occur in the Northern Province today.
-
-There is a chance of rain or thunderstorms in the evening or night in some parts of the Uva Province, as well as some areas of Ampara and Batticaloa districts.
-
-Heavy winds can be frequent at speeds of 30 to 40 km / h in the North, North Central and North Western Provinces as well as in Hambantota and Trincomalee districts.
-
-Due to the south -west move of the Sun, the sun is at its peak from many parts of the country from today to September 6th.
-
-Rainfall is likely to occur in the sea regions beyond the coast of Mullaitivu to the Kankesanthurai via Puttalam.
-
-Winds from the southwest at 30 - 40 kilometers per hour in the sea regions.
-
-From Trincomalee to Kankesanthurai, Mannar via Chilaw, as well as in the sea regions from Hambantota to Pottuvil, the winds can be increased at 55 to 60 km / h.
-
-...
-
-[Data](articles/8087f4ad.json)
-
-[Extended Data](ext_articles/8087f4ad.ext.json)
-
----
-
-### The sadness of the passport to hear the passport office
-
-*2024-08-28 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200404) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Passport seekers wait late at Battaramulla immigration office.
-
-🟩
-
-The group who had come to obtain foreign passports at the Head Office of the Department of Immigration and Emigration, Battaramulla was present at night.
-
-◼️
-
-[Data](articles/54d4ce1e.json)
-
-[Extended Data](ext_articles/54d4ce1e.ext.json)
 
 ---

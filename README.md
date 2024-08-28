@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 03:21:50**
+As of **2024-08-29 03:36:56**
 
 ## Newspaper Stats
 
-*Scraped **43,121** Articles*
+*Scraped **43,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ dailyftlk | 2,809
 adalk | 3,988
 dailymirrorlk | 4,733
 adaderanalk | 5,072
-tamilmirrorlk | 5,624
-virakesarilk | 6,853
+tamilmirrorlk | 5,625
+virakesarilk | 6,854
 adaderanasinhalalk | 7,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,121 (100.0%) of 43,121 articles have been extended.
+43,123 (100.0%) of 43,123 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -203,6 +203,36 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, proudly demonstrated 
 [Data](articles/a8b9b794.json)
 
 [Extended Data](ext_articles/a8b9b794.ext.json)
+
+---
+
+### Hello hello
+
+*2024-08-29 01:35:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹலோ-தவிர-பேசியவை-பொய்/175-342950) · `ta`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Ceylon People's Congress leader Rishad Bathiudeen supports Sajith Premadasa, criticizes Gotabhaya Rajapakse's policies towards minorities, and praises Harsha de Silva et al. for protecting the economy.
+
+🟩
+
+All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen said that the people of Pottuvil will be with the President who is trying to get more quotas from the president.
+
+Speaking at a meeting held at Pottuvil on Tuesday (27) in support of Sajith Premadasa, he added:
+
+“Pottuvil is proud to have become politicians for the dignity and dignity. Among them are Marhoum Aziz, SSP Majeed and many others.
+
+It is in this history of our party that our party also made one from Pottuvil. The people of Pottuvil voted for him in the respect of the party leadership and the respect of the soil.
+
+Gotabhaya Rajapakse, who was acting in the majority of the dominant supremacist, dismantled the religious beliefs and turned the minority communities into secondary citizens. He burnt the Janasas of Muslims who died in Corona.
+
+...
+
+[Data](articles/63f9677f.json)
+
+[Extended Data](ext_articles/63f9677f.ext.json)
 
 ---
 
@@ -559,6 +589,26 @@ Commenting further, Dissanayake promised that a government led by the NPP will t
 [Data](articles/dd434abc.json)
 
 [Extended Data](ext_articles/dd434abc.ext.json)
+
+---
+
+### Civil Society -The Civil Society -Plan to hand over the document that includes proposals for the national problem solution
+
+*2024-08-28 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/192234) · `ta`
+
+Sri Lanka ethnic problem resolution plan: regional equality, transitional justice, local elections, military presence reduction, missing persons compensation, accountability for human rights violations.
+
+🟩
+
+Religious leaders, civil society and intellectuals have jointly recommended the measures to be carried out to address the national ethnic problem of the country, including the implementation of the equilibrium of equality for all regions and the confirmation of the transitional justice for the hill country of human rights.
+
+In relation to the steps to be taken aimed at resolving the ethnic problem of Sri Lanka. Dr. Madambagama Asaji Mahanayaka Thera,. Kalubahaka Piyaratne Thera, Blessed CG Jayakumar, Methodist Church Bishop Ari Perera, AW Hilmi Ahmad, Dr. Vinya Aryaratne, Professor Fasiah Azmi, SCC Visakha Dharmadasa, SCCJeevasudhan, V. Kamaladas, Niranjan, Dr. Dayani Panagoda, Dr. Jehan Perera, Dr. Bhagyasothi Saravanamuttu, Professor Kalinga Duder Silva, Professor SS SivakumarFor months, widespread discussions and consultations. Based on this, a document has been prepared by the representatives that the solution to the ethnic problem includes proposals.
+
+...
+
+[Data](articles/74fd0a41.json)
+
+[Extended Data](ext_articles/74fd0a41.ext.json)
 
 ---
 
@@ -2415,55 +2465,5 @@ JAGITA cothai shaya was born on September 22, 1988. His father is Amit Shah, and
 [Data](articles/5e8e5c8b.json)
 
 [Extended Data](ext_articles/5e8e5c8b.ext.json)
-
----
-
-### Massive forest fire engulfs over 20 acres of Nettamaluwa reserve
-
-*2024-08-28 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101564/massive-forest-fire-engulfs-over-20-acres-of-nettamaluwa-reserve) · `en`
-
-A major fire has broken out in the Nettamaluwa mountain reserve, located within the Wellawaya Divisional Secretariat Division, rapidly spreading and consuming more than 20 acres of the protected forest area.
-
-The blaze had reportedly started last afternoon (27), and has spread rapidly during the night due to the dry weather and strong winds in the area, intensifying the destruction in one of the reserve’s most sensitive ecosystems.
-
-While firefighting teams managed to bring the fire largely under control by this morning (August 28), Ada Derana reporter said that some areas of the reserve are still experiencing active flames.
-
-◼️
-
-[Data](articles/b142a0e9.json)
-
-[Extended Data](ext_articles/b142a0e9.ext.json)
-
----
-
-### Hakeem, Rishad don't get to the eastern soil
-
-*2024-08-28 12:11:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹக்கீம்-ரிஷாத்-கிழக்கு-மண்ணுக்கு-வேண்டாம்/175-342915) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Posters of Hakeem and Rishad appear in Ampara district, supporting Sajith Premadasa. Concerns about deception in Muslim political leadership.
-
-🟩
-
-The posters of deceit leaders Hakeem and Rishad have been pasted in the east.
-
-Such posters are widely pasted in various parts of the Muslim population of the Ampara district.
-
-With the presidential election to be held on September 21, the presidential election for 2024. Opposition in the Ampara district and the Eastern Provinces has arisen in support of the United People's Power Presidential candidate Sajith Premadasa.
-
-The Sri Lanka Muslim Congress led by Rauf Hakeem and the All Ceylon Peoples Congress led by Rishad Bathiudeen have given their support to the United People's Power Presidential candidate Sajith Premadasa.
-
-Also, the posters of the Hakeem and the Rishad East are widely driven in the Eastern Province.
-
-The people of the area have expressed their concern that Muslim political leaderships, Hakeem and Rishad, have been deceiving politics since then.
-
-◼️
-
-[Data](articles/97e5a7c0.json)
-
-[Extended Data](ext_articles/97e5a7c0.ext.json)
 
 ---

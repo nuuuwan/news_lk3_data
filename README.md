@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 07:32:51**
+As of **2024-08-28 07:58:24**
 
 ## Newspaper Stats
 
-*Scraped **42,975** Articles*
+*Scraped **42,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 2,795
 adalk | 3,972
 dailymirrorlk | 4,733
 adaderanalk | 5,050
-tamilmirrorlk | 5,599
+tamilmirrorlk | 5,602
 virakesarilk | 6,833
-adaderanasinhalalk | 7,359
+adaderanasinhalalk | 7,360
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,964 (100.0%) of 42,975 articles have been extended.
+42,964 (100.0%) of 42,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### ”எமது வெற்றியை யாராலும் தடுக்க முடியாது”
+
+*2024-08-28 07:30:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-வெற்றியை-யாராலும்-தடுக்க-முடியாது/175-342903) · `ta`
+
+தேசிய மக்கள் சக்தியின் வெற்றியைத் தடுக்க ஜனாதிபதி ரணில் விக்ரமசிங்க கடைசி நேரத்தில் ஏதேனும் தந்திரத்தை மேற்கொள்வார் என்ற சந்தேகம் சிலருக்கு இருப்பதாகக் கூறி, இம்முறை NPP வெற்றியை யாராலும் தடுக்க முடியாது என தேசிய மக்கள் முன்னணியின் தலைவர் அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+
+மினுவாங்கொடையில் நடைபெற்ற பேரணியில் கலந்து கொண்டு உரையாற்றிய அவர், பெரும்பான்மையான அரச ஊழியர்கள், பொலிஸார் மற்றும் இராணுவத்தினர் இம்முறை தேசிய மக்கள் கட்சிக்கு ஆதரவளிப்பதாகவும், ரணில் விக்கிரமசிங்க எந்த தந்திரத்திலும் ஈடுபட முடியாது எனவும் தெரிவித்தார்.
+
+ரணில் விக்ரமசிங்க கடைசி நேரத்தில் ஏதாவது தந்திரத்தை கையாளுவார் என்று மக்கள் சந்தேகிக்கின்றனர். அவரால் எந்த தந்திரமும் செய்ய முடியாது. பெரும்பான்மையான அரச ஊழியர்கள் NPP யை ஆதரிக்கின்றனர். பெரும்பான்மையான பொலிஸ் மற்றும் இராணுவ அதிகாரிகளும் எமக்கு ஆதரவளிக்கின்றனர். ஓய்வுபெற்ற பொலிஸார் மற்றும் ராணுவ அதிகாரிகள் எங்களுடன் இருக்கிறார்கள் எனவே, நாம் ஆட்சிக்கு வருவதை யாராலும் தடுக்க முடியாது.
+
+...
+
+[Data](articles/49c6010d.json)
+
+---
+
+### இஞ்சி விலை உயர்வு
+
+*2024-08-28 07:24:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஞ்சி-விலை-உயர்வு/175-342902) · `ta`
+
+சந்தையில் இஞ்சியின் விலை ரூ.3200 ஆக உயர்ந்துள்ளதால் இஞ்சியின் கேள்வி குறைந்துள்ளது. விவசாயிகள் விதை இஞ்சியை விற்பனை செய்வதன் மூலம் விரைவான லாபம் ஈட்டுவதாகவும், ஆனால் மருத்துவ குணம் கொண்ட இஞ்சி அல்லது உள்ளூர் இஞ்சிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளதாகவும் வியாபாரிகள் சுட்டிக்காட்டினர்.
+
+◼️
+
+[Data](articles/9b179c3d.json)
+
+---
+
+### ක්‍රිකට් තරග පවාදීමේ වරද පිළිගත් ඉන්දීය ජාතිකයා
+
+*2024-08-28 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200405) · `si`
+
+ක්‍රිකට් තරග පාවාදීමේ වරද පිළිගත් ඉන්දීය ජාතිකයෙකුට මහනුවර මහාධිකරණය විසින් අත්හිටවූ සිරදඬුවම් නියම කර තිබේ.
+
+පොලීසිය පැවසුවේ 2024 මාර්තු 08 සිට 19 දක්වා පල්ලෙකැලේ ක්‍රිකට් ක්‍රීඩාංගණයේ පැවැති ලෙජන්ඩ් ක්‍රිකට් ශූරතා තරගාවලිය තුළ සිදුකළ තරග පාවාදීමේ සිද්ධියක් සම්බන්ධයෙන් මෙම දඬුවම් නියම කර ඇති බවය.
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ දූෂණ විරෝධී ඒකකය මඟින් ක්‍රීඩාවලට සම්බන්ධ වැරදි වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය වෙත කරන ලද පැමිණිල්ලකට අනුව මෙම විමර්ශනය ආරම්භ කර තිබුණි.
+
+එම තරගාවලියේදී පන්ජාබ් රෝයල් කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කළ එංගලන්ත ජාතික ක්‍රීඩකයෙකුට සහ නවසීලන්ත ජාතික ක්‍රීඩකයෙකුට තරග පාවාදීමට යෝජනා කර ඇති බවට සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇති බව සඳහන්ය.
+
+ඒ අනුව මෙම සිද්ධියට අදාළව ඉන්දියානු ජාතිකයෙකු වරදකරු වශයෙන් නම් කර තරග පාවාදීමට අදාළව හා තරග පාවාදීමට යෝජනා කිරීම සම්බන්ධයෙන් නීතිපති දෙපාර්තමේන්තුව විසින් මහනුවර මහාධිකරණයේ අධිචෝදනා ගොනු කළේය.
+
+අදාළ නඩුව ඊයේ (27) කැඳවූ අතර ඉන්දියානු ජාතිකයා එම අධිචෝදනා දෙක සඳහාම වරද පිළිගත් බව පොලීසිය පැවසුවේය.
+
+...
+
+[Data](articles/9c771de6.json)
+
+---
+
+### இன்று முதல் சூரியன் உச்சம் கொடுக்கும்
+
+*2024-08-28 07:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-சூரியன்-உச்சம்-கொடுக்கும்/175-342901) · `ta`
+
+இன்று வட மாகாணத்தில் இடைக்கிடையே மழை பெய்யக்கூடும் எனவும் சப்ரகமுவ, மேல் மற்றும் வடமேல்  மாகாணங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை  மாவட்டங்களிலும் இடைக்கிடையே சிறிதளவு மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+ஊவா மாகாணத்தின் சில இடங்களிலும் அத்துடன் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களின்  சில இடங்களிலும் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகிறது.
+
+வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மற்றும் திருகோணமலை மாவட்டங்களிலும் மணித்தியாலத்திற்கு 30 - 40 கிலோமீற்றர் வேகத்தில் அடிக்கடி ஓரளவு பலத்த காற்று வீசக் கூடும்.
+
+சூரியனின் தெற்கு நோக்கிய நகர்வின் காரணமாக இன்று முதல் செப்டம்பர் 06 ம் திகதி வரையில் சூரியன் நாட்டின் பல பிரதேசங்களுக்கு மேலாக உச்சம் கொடுக்கின்றது.இதன் அடிப்படையில் இன்று மதியம் சுமார் 12.11 மணியளவில் நெடுந்தீவு, பூநகரி, தட்டுவன்கோட்டை மற்றும் சுண்டிக்குளம் போன்ற இடங்களுக்கு மேலாக சூரியன் உச்சம் கொடுக்கின்றது.
+
+...
+
+[Data](articles/8087f4ad.json)
+
+---
 
 ### පාස්පෝට් කාර්යාලය ළඟ ඇහෙන දුක් ගිනි
 
@@ -38,7 +106,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 බත්තරමුල්ල ආගමන විගමන දෙපාර්තමේන්තු ප්‍රධාන කාර්යාලයට විදෙස් ගමන් බලපත්‍ර ලබාගැනීම සඳහා පැමිණි පිරිස එහි රැඳී සිටිනු ඊයේ (27) රාත්‍රී කාලයේද දක්නට ලැබුණි.
 
-◼️
+ඔවුන් පවසන්නේ මෙම ගැටලුව කඩිනමින් විසඳීම සඳහා බලධාරීන් පියවර ගතයුතු බවය.
+
+"මිනිස්සු මාර විදියට දුක් විඳින්නේ. හැමදේම සල්ලි තමා. කඩෙන් කන්න බොන්න ඕනේ. සල්ලිත් ඉවරයි. අන්තිමට පාස්පෝට් එක ගන්න දවස් තුනක් විතර යනවා. ටෝකන් දෙන කතාවක් කියනවා කොහොම වෙයි ද දන්නේ නෑ. දවස් කීයක් ද? සල්ලිත් ඉවරයි අන්තිමේ දී 20,000කුත් ගන්නවා වන්ඩේ කියලා..."
+
+"මේ පෝලිමේ ඉඳලා යන ගමන්. 300ක් ගන්නවා. ඇතුළට ගිහිනුත් පෝලිමේ ඉන්න ඕනේ. ඇතුළට ගියාම කියනවා රිජෙක්ට් කරනවා කියලා. ඇයි යකෝ කලින් කියන්න බැරිද ? කිසිම දැනුවත් කිරීමක් නෑ. දවස් තුනක් පේම්න්ට් එකේ ඉන්නවා ඇතුළට ගියාම කියනවා ලියුමක් ඕනේ කියලා..."
+
+"අපෙන් නේ මෙයාලා හම්බ කරන්නේ. ෆොරින් කරන්සි ඔක්කෝම අපෙන් නේද එන්නේ. දවස් ගාණක් පෝලිමේ තියලා කන්නත් නෑ. රෙස්ට් රූම් එකක් නෑ. විෂය භාර ඇමති දැනගන්න ඕනේ පාස්පෝට් නැතිවෙන්න යනවා නම් ඒකට විසඳුමක් ගන්න... මේක එහෙම දෙයක් නෙමෙයි නේ."
+
+...
 
 [Data](articles/54d4ce1e.json)
 
@@ -2225,87 +2301,5 @@ Commenting regarding the issue, presidential candidate Dilith Jayaweera highligh
 [Data](articles/ddffcf3d.json)
 
 [Extended Data](ext_articles/ddffcf3d.ext.json)
-
----
-
-### Sri Lanka to introduce new law in relation to rights of indigenous community
-
-*2024-08-27 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101546/sri-lanka-to-introduce-new-law-in-relation-to-rights-of-indigenous-community) · `en`
-
-The Cabinet of Ministers has granted approval to the proposal to instruct the Legal Draftsman to prepare a draft bill based on the improved fundamental draft in relation to introduction of a new law in relation to the rights of Sri Lankan indigenous community.
-
-On May 22, the approval of the Cabinet of Ministers was granted to the joint proposal furnished by the then Minister of Justice, Prison Affairs and Constitutional Reforms and the Minister of Buddha Sasana, Religious and Cultural Affairs in relation to introduction of the new law.
-
-At that meeting, it had been decided that it was appropriate to further analyze the concept paper furnished to prepare the draft bill with the participation of all parties concerned, the Cabinet Spokesman said.
-
-...
-
-[Data](articles/025040c4.json)
-
-[Extended Data](ext_articles/025040c4.ext.json)
-
----
-
-### SLPP to unveil its election manifesto in Sept. first week
-
-*2024-08-27 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101545/slpp-to-unveil-its-election-manifesto-in-sept-first-week) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) is set to unveil its presidential election manifesto in the first week of September.
-
-SLPP media spokesperson Sanjeeva Edirimanna said that the party is currently in the final phase of preparing the policy statement.
-
-Meanwhile, the Presidential Candidate of Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has emphasized the importance of strengthening the ‘Samurdhi’ programme.
-
-Speaking at a rally in Nawalapitiya, Rajapaksa criticized the negative perception some leaders have about the programme, which he argues has been crucial in alleviating poverty in Sri Lanka.
-
-The SLPP’s Presidential Candidate stated that certain leaders think that the ‘Samurdhi’ movement has failed and that however, it was the same movement that saved the people of this country from poverty.
-
-...
-
-[Data](articles/5f450547.json)
-
-[Extended Data](ext_articles/5f450547.ext.json)
-
----
-
-### SJB govt will take measures to alleviate Sri Lanka’s poverty within two years: Sajith
-
-*2024-08-27 15:10:00* · [`economynextcom`](https://economynext.com/sjb-govt-will-take-measures-to-alleviate-sri-lankas-poverty-within-two-years-sajith-178158/) · `en`
-
-ECONOMYNEXT — Sri Lanka opposition leader and presidential candidate Sajith Premadasa has said a government under him will take measures to alleviate poverty within two years.
-
-Speaking at an election rally, Premadasa said a Samagi Jana Balawegaya (SJB) government will introduce a bottom-up programme to provide a monthly allowance of 20,000 rupees over a period of 24 months to families identified as poor.
-
-“There will be a new programme to salvage this country’s poor from poverty within 24 months. I would like to state here that under this bottom-up programme, every poor family will receive 20,000 rupees a month for 24 months, and poor people will be salvaged from poverty within two years,” said Premadasa.
-
-“We will definitely work for the development of you all, to strengthen your livelihood,” he said.
-
-News footage from the SJB rally did not show Premadasa elaborate on how the programme would be funded.
-
-...
-
-[Data](articles/b1c4852e.json)
-
-[Extended Data](ext_articles/b1c4852e.ext.json)
-
----
-
-### Former Malaysian PM charged with sedition for allegedly mocking former king
-
-*2024-08-27 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101544/former-malaysian-pm-charged-with-sedition-for-allegedly-mocking-former-king) · `en`
-
-Former Malaysian Prime Minister Muhyiddin Yassin was charged Tuesday with sedition over a speech he made that allegedly questioned the integrity of the country’s previous king.
-
-Muhyiddin, who led Malaysia from March 2020 until August 2021, pleaded not guilty in a court in northeast Kelantan state. According to the charge sheet, Muhyiddin made the seditious remarks last month during a by-election campaign in Kelantan.
-
-Nine ethnic Malay state rulers take turns as Malaysia’s king for five-year terms under the country’s rotating monarchy, which began when Malaysia gained independence from Britain in 1957. The monarchy plays a largely ceremonial role, but are revered by the nation’s majority Muslims.
-
-In his speech on Aug. 14, Muhyiddin had questioned why then-King Sultan Abdullah Sultan Ahmad Shah didn’t invite him to be prime minister following a hung Parliament in November 2022. Muhyiddin had claimed he had the backing of majority lawmakers.
-
-...
-
-[Data](articles/756986b6.json)
-
-[Extended Data](ext_articles/756986b6.ext.json)
 
 ---

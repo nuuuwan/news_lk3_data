@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 03:55:37**
+As of **2024-08-29 04:08:02**
 
 ## Newspaper Stats
 
-*Scraped **43,123** Articles*
+*Scraped **43,124** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,809
 adalk | 3,988
 dailymirrorlk | 4,733
 adaderanalk | 5,072
-tamilmirrorlk | 5,625
+tamilmirrorlk | 5,626
 virakesarilk | 6,854
 adaderanasinhalalk | 7,391
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,123 (100.0%) of 43,123 articles have been extended.
+43,123 (100.0%) of 43,124 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,22 @@ Building on the success of the first Presidential candidate public debate held i
 [Data](articles/21de7c78.json)
 
 [Extended Data](ext_articles/21de7c78.ext.json)
+
+---
+
+### ’திருடர்களின் ஆதரவில்லாமல் பொறுப்புக்களை கையேற்பேன்’
+
+*2024-08-29 01:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருடர்களின்-ஆதரவில்லாமல்-பொறுப்புக்களை-கையேற்பேன்/175-342952) · `ta`
+
+எனக்கு கிடைக்கின்ற மக்கள் வரத்தை என் உயிரை போல் பாதுகாத்து, அதன் கௌரவத்தை பாதுகாத்து இன, மத, குல,  கட்சி பேதமின்றி நாட்டை அபிவிருத்தி அடையச் செய்வேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார். .
+
+ஐக்கிய மக்கள் சக்திக்கும் எனக்கும் திருடர்களுடன் எந்த டீளும் இல்லாத காரணத்தினால், நாட்டின் வளங்களையும் சொத்துக்களையும்  பணத்தையும் திருடிய திருடர்களை  சட்டத்தின் முன் நிறுத்துவோம். எனக்கும் எனது குழுவுக்கும் அதனை எந்த தயக்கமும் இன்றி நிறைவேற்ற முடியும். நான் ஜனாதிபதி பதவிக்கும், பிரதமர் பதவிக்கும், எனது சுய கௌரவத்தையும் மக்களின் பாரம்பரியத்தையும் காட்டிக் கொடுக்கவில்லை. மக்களின் ஆணையுடன்  நாட்டுக்கான எனது பொறுப்பை ஏற்றுக்கொள்வேன் என்றார்.
+
+தற்போதைய ஜனாதிபதி பதில் ஜனாதிபதியாக  பதவியேற்ற உடன் திருடர்களை பாதுகாக்கின்ற வாயிற் காவலாளியாகவும்,    பொலிஸ் மா அதிபராகவும் செயற்படுகின்றார்.  அவ்வாறான ஜனாதிபதி பதவி தனக்குத் தேவையில்லை என்றார்.
+
+...
+
+[Data](articles/1ab94650.json)
 
 ---
 
@@ -2435,35 +2451,5 @@ In response to Ada Derana, the Department of Immigration and Emigration said tha
 [Data](articles/932d08ca.json)
 
 [Extended Data](ext_articles/932d08ca.ext.json)
-
----
-
-### Who is James made in the church in the church?
-
-*2024-08-28 12:33:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cze5j88pr50o) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-James made in the church refers to a religious figure, likely a priest or minister. The Indian Cricket Board elected Jagjit Singh to the ICC, making him the youngest Chairman at 36. He faces scrutiny from sports enthusiasts.
-
-🟩
-
-The Indian Cricket Board (CC) is elected to the Commonwealth Board of International Cricket Council (ICC).
-
-He is considered the youthful person who was appointed as the Chairman of the JHH International Cricket Council of 36-year-old. He is due to be held on the post of December 01.
-
-Who is the new ICC Chairman who has the constant attention from the sports lolls in the country?
-
-Skip Twitter Post, Do you agree to reach content 1twitter? This article contains the content provided by Twitter. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Twitter cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the external web sites.
-
-JAGITA cothai shaya was born on September 22, 1988. His father is Amit Shah, and mother's name is Sonal Sha.
-
-...
-
-[Data](articles/5e8e5c8b.json)
-
-[Extended Data](ext_articles/5e8e5c8b.ext.json)
 
 ---

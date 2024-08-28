@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 18:31:18**
+As of **2024-08-28 18:40:27**
 
 ## Newspaper Stats
 
-*Scraped **43,066** Articles*
+*Scraped **43,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,602
 dailyftlk | 2,795
-adalk | 3,983
+adalk | 3,984
 dailymirrorlk | 4,733
-adaderanalk | 5,066
+adaderanalk | 5,068
 tamilmirrorlk | 5,611
 virakesarilk | 6,850
 adaderanasinhalalk | 7,383
@@ -26,29 +26,79 @@ adaderanasinhalalk | 7,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,064 (100.0%) of 43,066 articles have been extended.
+43,066 (100.0%) of 43,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### රවුෆ් හකීම් ට එරෙහිව වාරණ නියෝගයක්
+### Naval and fishing communities warned not to venture into sea for 3 days
+
+*2024-08-28 18:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101574/naval-and-fishing-communities-warned-not-to-venture-into-sea-for-3-days) · `en`
+
+The Department of Meteorology has issued an advisory for heavy rain, strong winds and rough seas for multi-day boats in the Northern Bay of Bengal deep sea areas.
+
+Issuing the advisory, the Met. Department said that a low-pressure area is likely to form over Northern Bay of Bengal tomorrow (29).
+
+Very strong winds of 70-80 kmph accompanied with heavy rainfalls and very rough seas are likely over above sea areas, it added.
+
+Naval and fishing communities are advised not to venture into the sea areas bounded by 10N - 17N and 83E – 92E during next 3 days.
+
+Furthermore, the department advises those who are out at aforementioned sea regions are advised to return to coasts or moved safer areas immediately.
+
+Fishing and naval community are requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+◼️
+
+[Data](articles/92568b5d.json)
+
+---
+
+### රබර් පොහොර මිටියක් රු. 4000කින් අඩු කරයි
+
+*2024-08-28 18:21:07* · [`adalk`](https://www.ada.lk/breaking_news/රබර්-පොහොර-මිටියක්-රු--4000කින්-අඩු-කරයි/11-411612) · `si`
+
+මෙරට රබර් වගාවෙන් ලබන අස්වැන්න වැඩි කිරීම සඳහා රබර් වගාකරුවන්ට පොහොර සහනාධාරයක් ලබා දීමට රජය තීරණය කළ බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+
+ඒ අනුව ,  රබර් වගාව සඳහා යොදන කිලෝ ග්‍රෑම් 50ක  පොහොර මල්ලක් රුපියල් 9,500 සිට රුපියල් 5,500ක් දක්වා මිල අඩු කිරීමට පියවර ගන්නා ලෙස කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා රාජ්‍ය පොහොර සමාගමේ සභාපති ආචාර්ය ජගත් පෙරේරා මහතාට උපදෙස් ලබා දී ඇත.
+
+රබර් වගාව සඳහා ලබා දෙන එම පොහොර සහනාධාරය මෙම සතියේ සිටම ලබා දීමට පියවර ගැනේ.
+
+මේ වනවිට වී වගාවට හෙක්ටයාර් එකක් සඳහා රුපියල් 25,000ක් වශයෙන් විශාල පොහොර සහනාධාරයක් ලබා දී ඇත.  ඊට අමතරව තේ, පොල් හා කුරුඳු වගාවන් සඳහා රුපියල් 4000ක පොහොර සහනාධාරය ලබා දිමට රජය පියවර ගෙන ඇත.
+
+මෙරට රබර් වගාවට වසර ගණනාවක් තුළ පොහොර දැමීමක් සිදු කර නැති බවට ශ්‍රී ලංකා රබර් පර්යේෂණ ආයතනය විසින් කළ කරුණු පෙන්වා දී තිබේ. ඒ අනුව වාර්ෂික රබර් කිරි අස්වැන්න මෙට්‍රික් ටොන් ලක්ෂයේ සිට මෙට්‍රික් ටොන් 65,000 දක්වා අවම වී ඇත.
+
+◼️
+
+[Data](articles/07a603dc.json)
+
+---
+
+### Enjoining order against Rauff Hakeem
 
 *2024-08-28 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200430) · `si`
 
-ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ පාර්ලිමේන්තු මන්ත්‍රී එස්. අලි සහිර් මවුලානා මහතාගේ පක්ෂ සාමාජිකත්වය නෙරපීම වළක්වාලමින් කොළඹ දිසා අධිකරණය අද (28) ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ නායක සහ මහලේකම් වෙත වාරණ නියෝගයක් නිකුත් කර තිබේ.
+Colombo District Court issues enjoining order against Rauff Hakeem, SLMC General Secretary over party membership dispute.
 
-අලි සහිර් මවුලානා මහතා විසින් ඉදිරිපත් කළ පැමිණිල්ලක් විභාග කිරීමෙන් අනතුරුව කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා විසින් මෙම වාරණ නියෝගය නිකුත් කළේය.
+🟩
 
-මෙම වාරණ නියෝගය නිකුත් කර තිබෙන්නේ ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ නායක රවුෆ් හකීම් සහ මහලේකම් නිසාම් කාරියප්පර් යන මහත්වරුන්ට එරෙහිවය.
+SLMC Parliamentarian MP. The Colombo District Court today issued an enjoining order to prevent the commission of the party membership of the party members of Ali Samala.
 
-පැමිණිලිකරු කියා සිටින්නේ ඉදිරි ජනාධිපතිවරණයේදී කුමන අපේක්ෂකයාට සහාය දක්වන්නේද ? යන්න තීන්දු කිරීම සඳහා ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ උත්තරීතර මණ්ඩලය අගෝස්තු මස 04 වනදා රැස්වූ බවය.
+The injunction was issued by the Colombo District Judge Sandun Withana after hearing a complaint made by Ali Santi Moulana.
 
-එම  උත්තරීතර මණ්ඩල රැස්වීමට තමන් සහභාගි නොවූ බවත් එහිදී පක්ෂය ජනාධිපති අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමට තීරණය කර තිබුණ ද එම තීරණය තමන්ට දැනුම්දී නොතිබූ බව පැමිණිකරු කියයි.
+The injunction has been issued against Sri Lanka Muslim Congress leader Rauff Hakeem and General Secretary Madam Kirapper.
 
-...
+The complainant claims to what candidate in the next presidential election?The Sri Lanka Muslim Congress's Supreme Council's Supreme Council met on August 4 to decide.
+
+The complaint says the party has not participated in the Supreme Council meeting and that the party had decided to support the presidential candidate Sajith Premadasa, saying that he had not informed the decision.
+
+Despite this, he has stated that the Sri Lanka Muslim Congress is working to deprive its party membership without any reasonable proceedings without any reasonable reason.
+
+◼️
 
 [Data](articles/d44dc703.json)
+
+[Extended Data](ext_articles/d44dc703.ext.json)
 
 ---
 
@@ -65,6 +115,22 @@ Speaking at a presidential election rally in Eheliyagoda, he stated that proposa
 [Data](articles/97cde714.json)
 
 [Extended Data](ext_articles/97cde714.ext.json)
+
+---
+
+### Govt and IMF reach agreement to amend PAYE tax-President
+
+*2024-08-28 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101573/govt-and-imf-reach-agreement-to-amend-paye-tax-president) · `en`
+
+The Sri Lankan Government and the International Monetary Fund (IMF) have reached an agreement to amend the pay-as-you-earn (PAYE) tax, says President Ranil Wickremesinghe.
+
+Speaking at a presidential election rally in Eheliyagoda, he stated that proposals from both parties are to be considered and that the exact amounts will be notified soon.
+
+“Another issue is the pay-as-you-earn (PAYE) tax, which is a significant issue. The IMF and we (the government) have agreed that it needs to be amended. The preliminary decision has been taken. We have made one proposal, and the IMF has put forward another one. So, after discussing these two proposals, when we come to an agreement, we will announce the exact figure,” the President said.
+
+◼️
+
+[Data](articles/e7ff679f.json)
 
 ---
 
@@ -340,19 +406,33 @@ Member of Parliament arrested for this discussion. Weerasinghe said,
 
 ---
 
-### ධීවරයින් වෙනුවෙන් ඩීසල් හා භූමිතෙල් මිල රු. 25කින් අඩු කරයි
+### Diesel and kerosene price for fishermen. Reduces by 25
 
 *2024-08-28 16:12:32* · [`adalk`](https://www.ada.lk/breaking_news/ධීවරයින්-වෙනුවෙන්-ඩීසල්-හා-භූමිතෙල්-මිල-රු--25කින්-අඩු-කරයි/11-411609) · `si`
 
-ධීවර ජනතාවට අත්‍යාවශ්‍ය වන ඉන්ධන සඳහා සහනාධාරයක් ලෙස ඩීසල් මිළ රුපියල් 25කින්ද, භූමිතෙල් මිල රුපියල් 25කින්ද අඩු කරමින් ඉන්ධන සහනාධාරයක් ලබාදීම සඳහා අවශ්‍ය චක්‍රලේඛනය පසුගියදා (26) ධීවර දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා විසින් නිකුත් කොට ඇත.
+Here's a summary of the text in 200 characters:
 
-ධීවර ජනතාව දිරිගැන්වීමට සහ ඔවුන්ගේ ජීවනෝපාය ශක්තිමත් කිරීම උදෙසා ඉන්ධන සහනාධාරය ලබා දීම, පසුගිය 23 වන දින සිට ක්‍රියාත්මක කළ අතර ඉකුත් 21 දා පැවති කැබිනට් මණ්ඩල රැස්වීමේදී ධීවර අමාත්‍යවරයා විසින් ඉදිරිපත්කළ, කැබිනට් පත්‍රිකාවට අනුව මෙම තීරණය ගෙන තිබේ.
 
-ධීවර මහා සම්මේලනය මගින් පසුගියදා (09) කොළඹ ප්‍රදර්ශන හා සම්මේන මධ්‍යස්ථානයෙදි පවත්වන ලද ජාතික ධීවර මහා සමුළුවේදී ආර්ථික අර්බුදය හමුවේ ධීවර කර්මාන්තයට ඇති වි ඇති බලපෑම අවම කර ගැනීම සඳහා ධීවරයන් විසින් කරන ලද ඉල්ලීම් වල ප්‍රධාන කරුණක් වූ ධීවර කම්කරුවන් සඳහා ඉන්ධන සහනයක් ලබා දෙන ලෙස සිදුකළ ඉල්ලීමට ප්‍රතිචාර දක්වමින් ඉහත සහනය ලබාදී ඇත.
+
+Fishermen receive fuel subsidies: 25% off diesel/kerosene prices. Maximum 15L/month kerosene, 9375L diesel. Reimbursement based on vessel capacity. Implemented until June 2024. Calculated at 7.5% for diesel, 12.5% for kerosene.
+
+🟩
+
+The Director of the Fisheries Department has been released as a subsidy for fuel for fuel and Rs.
+
+The fuel subsidy has been implemented since the 23rd of the past 23rd and the Cabinet paper at the Cabinet paper at the Cabinet meeting held on the 21st.
+
+The Fisheries Conference recently provided the fuel relief to provide fuel relief to the fishermen's demands to minimize the impact on the economic crisis held at the Colombo Exhibition and Conference Center.Responding to request the above relief provided.
+
+According to the circular dfar / 2024/001, a liter of kerosene to a maximum of Rs.. 25 is due to be given. A maximum of 15 liters per month for a maximum of 15 liters per month for a maximum of Rs.. 9375 may be decided to reimbursement.
+
+The government has decided to restore the fishing type of fishing type of fishing type of fishing type for the fishermen for the fishing venture, which is purchased for Rs.Have.
 
 ...
 
 [Data](articles/8ca81bf5.json)
+
+[Extended Data](ext_articles/8ca81bf5.ext.json)
 
 ---
 
@@ -2391,59 +2471,5 @@ As per the charges, the said luxury vehicle, worth Rs. 20 million, was given to 
 [Data](articles/118f6f24.json)
 
 [Extended Data](ext_articles/118f6f24.ext.json)
-
----
-
-### HRW accuses Govt. of misleading on reforms amid ongoing HR abuses
-
-*2024-08-28 05:35:24* · [`dailyftlk`](https://www.ft.lk/news/HRW-accuses-Govt-of-misleading-on-reforms-amid-ongoing-HR-abuses/56-766059) · `en`
-
-Human Rights Watch (HRW), an international human rights organisation, has accused the Sri Lankan Government of misleading international partners about its achievements in economic reform and human rights protection. HRW’s statement, issued yesterday, cites a recent report by the United Nations High Commissioner for Human Rights that reveals a significant discrepancy between the Government’s claims and the current situation on the ground.
-
-The UN report has warned of renewed threats to fundamental freedoms in Sri Lanka, noting that authorities have introduced repressive laws and engaged in intimidation and violence against victims of past abuses, civil society activists, journalists, and Government critics. It noted that this continues despite the Government’s denial of responsibility for severe human rights violations committed during the 1983-2006 civil war.
-
-...
-
-[Data](articles/11b31937.json)
-
-[Extended Data](ext_articles/11b31937.ext.json)
-
----
-
-### Sajith to unveil Presidential manifesto tomorrow
-
-*2024-08-28 05:35:10* · [`dailyftlk`](https://www.ft.lk/news/Sajith-to-unveil-Presidential-manifesto-tomorrow/56-766058) · `en`
-
-Samagi Jana Balawegaya (SJB) Spokesperson and MP S.M. Marikkar announced on Monday that the party will release its Presidential manifesto tomorrow (29).
-
-Speaking at a press conference in Colombo, Marikkar highlighted that many past election manifestos have failed to become reality.
-
-In response, he said the SJB presented its economic policy to Parliament two years ago and has updated it twice since then. The latest version of the policy will be unveiled on 29 August, the MP said.
-
-Taking aim at President Ranil Wickremesinghe’s election slogan “Sri Lanka Can,” Marikkar remarked that Wickremesinghe can only burden the people with taxes, hike the prices of goods, raise electricity tariffs by 300%, import substandard medicines, and engage in various types of scams.
-
-...
-
-[Data](articles/d84e7d38.json)
-
-[Extended Data](ext_articles/d84e7d38.ext.json)
-
----
-
-### Ranil’s manifesto to be launched tomorrow
-
-*2024-08-28 05:34:05* · [`dailyftlk`](https://www.ft.lk/news/Ranil-s-manifesto-to-be-launched-tomorrow/56-766057) · `en`
-
-The independent Presidential candidate Ranil Wickremesinghe will unveil his Presidential manifesto tomorrow (29).
-
-United National Party (UNP) National Secretary Ravi Karunanayake made this announcement yesterday.
-
-He said Wickremesinghe’s manifesto is titled ‘Puluwan Sri Lanka” (Sri Lanka Can) is based on economic stabilisation.
-
-◼️
-
-[Data](articles/6fc9b73c.json)
-
-[Extended Data](ext_articles/6fc9b73c.ext.json)
 
 ---

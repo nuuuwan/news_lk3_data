@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 17:58:00**
+As of **2024-08-28 18:17:56**
 
 ## Newspaper Stats
 
-*Scraped **43,063** Articles*
+*Scraped **43,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,602
 dailyftlk | 2,795
 adalk | 3,982
 dailymirrorlk | 4,733
-adaderanalk | 5,065
+adaderanalk | 5,066
 tamilmirrorlk | 5,611
 virakesarilk | 6,850
 adaderanasinhalalk | 7,382
@@ -26,25 +26,49 @@ adaderanasinhalalk | 7,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,062 (100.0%) of 43,063 articles have been extended.
+43,063 (100.0%) of 43,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### PAYE බද්ද සංශෝධනයට IMF සමඟ එකඟතාවක් - ජනපති
+### Govt and IMF reach agreement to amend PAYE tax - President
+
+*2024-08-28 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101573/govt-and-imf-reach-agreement-to-amend-paye-tax-president-) · `en`
+
+The Sri Lankan Government and the International Monetary Fund (IMF) have reached an agreement to amend the pay-as-you-earn (PAYE) tax, says President Ranil Wickremesinghe.
+
+Speaking at a presidential election rally in Eheliyagoda, he stated that proposals from both parties are to be considered and that the exact amounts will be notified soon.
+
+◼️
+
+[Data](articles/97cde714.json)
+
+---
+
+### Agreement with IMF to revise Paye Tax - President
 
 *2024-08-28 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200429) · `si`
 
-උපයන විට ගෙවන බද්ද හෙවත් PAYE බද්ද සංශෝධනය සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ එකඟතාවයකට පැමිණ ඇති බවත්, ඒ පිළිබඳව ඉදිරියේ දී දැනුම් දෙනු ඇති බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Here's a summary of the text in 200 characters:
 
-මෙවර ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කරලනු වස් අද දින ඇහැලියගොඩ දී පැවති ජන රැලිය අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව පැවසීය.
 
-"තව ප්‍රශ්නයක් තමයි උපයන විට ගෙවන බද්ද. ඒකත් විශාල ප්‍රශ්නයක්. IMF සංවිධානයයි අපියි එකඟ වෙලා තියෙනවා, ඒක සංශෝධනය කරන්න වුවමනායි කියලා. මූලික තීරණය අරගෙන ඉවරයි. අපි එක යෝජනාවක් දාලා තියෙනවා. ඒ අය තව යෝජනාවක් දාලා තියෙනවා. ඉතිං මේ යෝජනා දෙක සාකච්ඡා කරලා අපි එකඟත්වයකට ආවාම ඒ නියම ගාණ අපි මෙතන දැනුම් දෙන්නන්."
+
+Sri Lanka President Ranil Wickremesinghe agrees to IMF proposal to revise Paye Tax. He states that an initial decision has been made and both parties have presented suggestions. The President will inform the public about the final agreement in the future.
+
+🟩
+
+President Ranil Wickremesinghe says he will agree with the International Monetary Fund for the amendment of the Paye Levy and will be informed in the future.
+
+President Ranil Wickremesinghe made this statement addressing the rally in Eheliyagoda today to the victory of President Ranil Wickremesinghe in this year.
+
+"Another issue is the tax paid by earn. That's a big problem too. We have agreed to the IMF, that he wants to revise it. The initial decision is over. We have put on one suggestion. They have another suggestion. So when we talk about these two suggestions, we agree to know here. "
 
 ◼️
 
 [Data](articles/4501dfc9.json)
+
+[Extended Data](ext_articles/4501dfc9.ext.json)
 
 ---
 
@@ -2419,21 +2443,5 @@ On 22 May, the Cabinet approved the joint proposal furnished by the then Justice
 [Data](articles/1e0beb3c.json)
 
 [Extended Data](ext_articles/1e0beb3c.ext.json)
-
----
-
-### 2024 Presidential Election Divides Muslim  Political Parties  with Leaders Backing Sajith and Some MPs Supporting Ranil.
-
-*2024-08-28 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84580) · `en`
-
-Nominations have closed for the long awaited 2024 presidential election. 39 candidates are in the fray.It is widely acknowledged  by the press and public that the chief presidential  contenders  are  incumbent president Ranil Wickremesinghe,leader of the opposition  Sajith Premadasa and JVP/NPP leader Anura Kumara  Dissanayake. Two others expected to make a mark are Namal Rajapaksa and Dilith  Jayaweera.
-
-However the icing on the winning candidate’s cake would be the minority vote. In a keenly contested poll that is likely to trifurcate the Sinhala vote in near equal proportion, the minority community vote could very well provide the necessary numbers to clinch victory. In such a situation the voting pattern of the premier  numerical minorities  assumes crucial importance.
-
-...
-
-[Data](articles/bd766ef7.json)
-
-[Extended Data](ext_articles/bd766ef7.ext.json)
 
 ---

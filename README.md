@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 01:21:42**
+As of **2024-08-29 01:37:17**
 
 ## Newspaper Stats
 
-*Scraped **43,108** Articles*
+*Scraped **43,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,800
 adalk | 3,988
 dailymirrorlk | 4,733
 adaderanalk | 5,072
-tamilmirrorlk | 5,620
+tamilmirrorlk | 5,621
 virakesarilk | 6,853
 adaderanasinhalalk | 7,391
 
@@ -26,9 +26,29 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,105 (100.0%) of 43,108 articles have been extended.
+43,106 (100.0%) of 43,109 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-29 (Thursday)
+
+### ’தனிநபர்கள் உரிமை கொண்டாட முடியாது’
+
+*2024-08-29 01:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிநபர்கள்-உரிமை-கொண்டாட-முடியாது/175-342946) · `ta`
+
+கண்டி மாவட்ட தமிழ் பாராளுமன்ற பிரதிநிதித்துவம், நமது கட்சி போராடி பெற்றுக்கொண்ட கண்டி மாவட்ட தமிழ் மக்களுக்கு உரிய கெளரவமாகும். இதை தனிப்பட்ட நபர்கள் எவரும் பறித்து உரிமை கொண்டாட முடியாது என தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் எம்பி அறிவித்துள்ளார்.
+
+அரசியல் வழி பாதையில் நாம் சந்தித்த எத்தனையோ சவால்களில் இது மிகவும் சிறிய ஒரு சம்பவமாகும்.  ஆனால், கண்டி மாவட்ட தமிழர்களின் தேசிய மட்ட, மாகாண மட்ட, உள்ளூராட்சி மட்ட பிரதிநிதித்துவங்கள் என்பன விலை மதிக்க முடியாதவர்கள் அவர்கள், கண்டி மாவட்ட மக்களின் உரிமை கோஷங்கள். இந்த கோஷங்களை நாம் தொடர்ந்து முன் கொண்டு செல்வோம்.
+
+ஜனநாயக மக்கள் முன்னணியின் கண்டி மாவட்ட கட்சி பணியாளர் நியமனங்களை வழங்கியதன் பின்னர் உரையாற்றும் போதே மேற்கண்டவாறு  மனோ கணேசன் அறிவித்துள்ளார்.
+
+இதன்படி, கண்டி மாவட்ட அமைப்பாளர் எம். விக்கினேஸ்வரன், மாவட்ட செயலாளர் குலேந்திரன் கணேசன், மாவட்ட பொருளாளர் எம். கிருஸ்ணகுமார், மாவட்ட செயற்குழு உறுப்பினர் எம். கே. வினோத் ஆகியோர் கட்சி பணியாளர்களாக நியமிக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/9c0fdf05.json)
+
+---
 
 ### 2024-08-28 (Wednesday)
 
@@ -209,6 +229,8 @@ The Prophet Muhammad (peace be upon him) was a very efficient leader. He had exc
 ...
 
 [Data](articles/096338a8.json)
+
+[Extended Data](ext_articles/096338a8.ext.json)
 
 ---
 
@@ -2475,21 +2497,5 @@ The “Sobadhanavi” Combined Cycle Power Plant is the first Sri Lankan power p
 [Data](articles/45260c10.json)
 
 [Extended Data](ext_articles/45260c10.ext.json)
-
----
-
-### President inaugurates Sri Lanka’s first LNG power plant “Sobadhanavi”
-
-*2024-08-28 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101561/president-inaugurates-sri-lankas-first-lng-power-plant-sobadhanavi) · `en`
-
-Marking a significant milestone in Sri Lanka’s energy future, President Ranil Wickremesinghe declared open the open cycle phase of the “Sobadhanavi” 350 MW Combined Cycle Power Plant at Kerawalapitiya, a short while ago, the President’s Media Division (PMD) said.
-
-The “Sobadhanavi” Combined Cycle Power Plant is the first Sri Lankan power plant to be operated on LNG as the primary fuel, according to the PMD.
-
-◼️
-
-[Data](articles/5e22fcaa.json)
-
-[Extended Data](ext_articles/5e22fcaa.ext.json)
 
 ---

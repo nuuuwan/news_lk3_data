@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 12:22:02**
+As of **2024-08-28 12:37:06**
 
 ## Newspaper Stats
 
-*Scraped **43,012** Articles*
+*Scraped **43,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 2,595
 dailyftlk | 2,795
 adalk | 3,977
 dailymirrorlk | 4,733
-adaderanalk | 5,059
+adaderanalk | 5,060
 tamilmirrorlk | 5,606
-virakesarilk | 6,840
+virakesarilk | 6,845
 adaderanasinhalalk | 7,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,009 (100.0%) of 43,012 articles have been extended.
+43,012 (100.0%) of 43,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### Massive forest fire engulfs over 20 acres of Nettamaluwa reserve
+
+*2024-08-28 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101564/massive-forest-fire-engulfs-over-20-acres-of-nettamaluwa-reserve) · `en`
+
+A major fire has broken out in the Nettamaluwa mountain reserve, located within the Wellawaya Divisional Secretariat Division, rapidly spreading and consuming more than 20 acres of the protected forest area.
+
+The blaze had reportedly started last afternoon (27), and has spread rapidly during the night due to the dry weather and strong winds in the area, intensifying the destruction in one of the reserve’s most sensitive ecosystems.
+
+While firefighting teams managed to bring the fire largely under control by this morning (August 28), Ada Derana reporter said that some areas of the reserve are still experiencing active flames.
+
+◼️
+
+[Data](articles/b142a0e9.json)
+
+---
 
 ### Rs. 4,000 fertilizer subsidy for rubber cultivation
 
@@ -48,25 +64,69 @@ Accordingly, the of price a 50 kg bag of fertilizer will be reduced from Rs. 9,5
 
 [Data](articles/80e20592.json)
 
+[Extended Data](ext_articles/80e20592.ext.json)
+
 ---
 
-### රබර් වගාවට පොහොර සහනාධාරයක්
+### கொலை முயற்சி ; பிரபல போதைப்பொருள் வர்த்தகரின் மகன் விமான நிலையத்தில் கைது
+
+*2024-08-28 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/192195) · `ta`
+
+பிரபல போதைப்பொருள் வர்த்தகரான ஷிரான் பாசிக்கின் மகன் நதீன் பாசிக் விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+இவர் துபாயிலிருந்து நாடு திரும்பிய நிலையில் விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+கடந்த பெப்ரவரி மாதம் 16 ஆம் திகதி வெள்ளவத்தையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  விசேட அதிரடிப்படையின் அதிகாரி ஒருவரை தாக்கி விட்டு நாட்டை விட்டு தப்பிச் சென்றுள்ளார்.
+
+சுற்றிவளைப்பின் போது 19 கிராம் ஹெரோயின், கைத் தொலைபேசிகள், மடிக்கணனி, வெளிநாட்டு நாணயத்தாள்கள், சாரதி அனுமதிப் பத்திரம், துபாய் நாட்டு அடையாள அட்டை,  சாரதி அனுமதிப் பத்திரம் ஆகியவை கைப்பற்றப்பட்டுள்ளன.
+
+மேலும், சந்தேக நபர் பல்வேறு நபர்களுடன் மேற்கொண்ட பண பரிவர்த்தனைகளை விவரிக்கும் ஆவணங்கள் அடுக்குமாடி குடியிருப்பில் இருந்து கண்டெடுக்கப்பட்டுள்ளன.
+
+வெளிநாட்டுக்கு  தப்பிச் சென்ற நதீன் பாசிக் நாடு திரும்பிய நிலையில் இன்று புதன்கிழமை (28)  விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b7ab23a3.json)
+
+---
+
+### இஞ்சியின் விலை அதிகரிப்பு
+
+*2024-08-28 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/192192) · `ta`
+
+விவசாயிகள் விதை இஞ்சியை விற்பனை செய்வதன் மூலம் விரைவாக இலாபம் ஈட்டுவதாகவும், ஆனால் மருத்துவ குணம் கொண்ட இஞ்சி அல்லது உள்ளூர் இஞ்சிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளதாகவும் வியாபாரிகள் குறிப்பிடுகின்றனர்.
+
+அத்தோடு, அண்மையில் பெய்த பலத்த மழையினால் பயிர்கள் நாசமடைந்து இஞ்சி தட்டுப்பாடு ஏற்பட்டுள்ளதாக வியாபாரிகள் சுட்டிக்காட்டியுள்ளனர்.
+
+◼️
+
+[Data](articles/29ba8f48.json)
+
+---
+
+### Fertilizer subsidy for rubber cultivation
 
 *2024-08-28 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200412) · `si`
 
-රබර් වගාව සඳහා රුපියල් 4,000ක පොහොර සහනාධාරයක් ලබා දීමට කෘෂිකර්ම අමාත්‍යංශය තීරණය කර තිබේ.
+Sri Lanka Ministry of Agriculture provides Rs 4000 fertilizer subsidy for rubber cultivation starting this week. Rubber Research Institute notes long-term lack of fertilizer use, resulting in reduced annual yield from 65,000 metric tonnes. Minister Amaraweera instructs increase in subsidy from Rs 5500 to Rs 5500.
 
-ඒ අනුව එම පොහොර සහනාධාරය මෙම සතියේ සිටම ලබා දීමට පියවර ගෙන ඇති බව එම අමාත්‍යංශය පැවසීය.
+🟩
 
-රබර් වගා කටයුතු සඳහා වසර ගණනාවක් තුළ පොහොර යෙදවීම සිදුකර නොමැති බවට ශ්‍රී ලංකා රබර් පර්යේෂණ ආයතනය විසින් පෙන්වා දී ඇති බව සඳහන්ය.
+The Ministry of Agriculture has decided to provide a fertilizer subsidy of Rs 4,000 for rubber cultivation.
 
-ඒ හේතුවෙන් වාර්ෂික රබර් කිරි අස්වැන්න මෙට්‍රික් ටොන් ලක්ෂයේ සිට මෙට්‍රික් ටොන් 65,000 දක්වා අඩු වී ඇති බව කෘෂිකර්ම දෙපාර්තමේන්තුව පැවසීය.
+Accordingly, the fertilizer subsidy has taken steps to be delivered from this week.
 
-ඒ අනුව රබර් වගාව සඳහා යොදන කිලෝ ග්‍රෑම් 50ක පොහොර මල්ලක් රුපියල් 9,500 සිට රුපියල් 5,500ක් දක්වා මිල අඩු කිරීමට පියවර ගන්නා ලෙස කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා උපදෙස් ලබා දී තිබේ.
+The Rubber Research Institute of Sri Lanka has pointed out that the use of fertilizer has not been deployed for rubber cultivation for many years.
+
+As a result, the annual rubber yield has reduced to 65,000 metric tonnes from the midst of the metric tonnes.
+
+Minister of Agriculture Mahinda Amaraweera has instructed the Minister of Agriculture and Plantation Industries and Plantation from Rs. 5,500 to Rs. 5,500.
 
 ◼️
 
 [Data](articles/80c77772.json)
+
+[Extended Data](ext_articles/80c77772.ext.json)
 
 ---
 
@@ -87,6 +147,62 @@ It has been revealed during the inquiry that the accused had approached an Engli
 [Data](articles/abfc3fb0.json)
 
 [Extended Data](ext_articles/abfc3fb0.ext.json)
+
+---
+
+### உடையார்கட்டில் ஐஸ் போதைப்பொருளுடன் 6 இளைஞர்கள் கைது!
+
+*2024-08-28 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/192193) · `ta`
+
+முல்லைத்தீவு, உடையார்கட்டு குரவில் பகுதியில் ஐஸ் போதைப்பொருளை பயன்படுத்த தயாராக இருந்த இளைஞர்கள் அறுவரை நேற்று செவ்வாய்க்கிழமை (27) கைது செய்துள்ளதாக புதுக்குடியிருப்பு பொலிஸார் தெரிவித்துள்ளனர்.
+
+புதுக்குடியிருப்பு பொலிஸ் பிரிவிற்குட்பட்ட உடையார்கட்டு குரவில் பகுதியிலுள்ள யாருமற்ற வீடொன்றில் சட்டவிரோத செயற்பாடுகள் இடம்பெற்று வருவதாக புதுக்குடியிருப்பு பொலிஸாருக்கு கிடைத்த தகவலையடுத்து மேற்கொண்ட விசேட தேடுதல் நடவடிக்கையின் போது குறித்த 6 இளைஞர்களும் கைதுசெய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட இளைஞர்களிடமிருந்து 7 தொலைபேசிகளும், 17000 ரூபா பணம் என்பவற்றுடன் சிறு சிறு 7 பொதிகளில் 90 மில்லி கிராம் ஐஸ் போதைப்பொருளும் கைப்பற்றப்பட்டுள்ளன.
+
+உடையார்கட்டு குரவில் பகுதியினை சேர்ந்த நால்வரும், புதுக்குடியிருப்பு பகுதியினை சேர்ந்த இருவரும்  17,18,18,21,23 மற்றும் 24 வயதுடைய இளைஞர்கள் அறுவரை புதுக்குடியிருப்பு பொலிஸார் கைது செய்துள்ளனர்.
+
+...
+
+[Data](articles/9dbdd70a.json)
+
+---
+
+### புதிய இலங்கையைக் கட்டியெழுப்பும் திட்டமும் நோக்கும் ஆகஸ்ட் 29 ஆம் திகதி நாட்டுக்கு முன்வைக்கப்படும் - ஜனாதிபதி
+
+*2024-08-28 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/192198) · `ta`
+
+அனைத்து மக்களுக்கும் சிறந்த வாழ்க்கைத் தரத்தை உருவாக்கும் மற்றும் இளைஞர்களுக்கு பாதுகாப்பான இலங்கையை உருவாக்கும் திட்டங்கள் அதில் உள்ளடங்கியுள்ளது.
+
+அனைத்து மக்களுக்கும் சிறந்த வாழ்க்கைத் தரத்தை உருவாக்கும் தொலைநோக்குப் பார்வைகொண்ட புதிய இலங்கையைக் கட்டியெழுப்பும் திட்டம் உள்ளடக்கிய தனது தேர்தல் விஞ்ஞாபனத்தை ஓகஸ்ட் 29 வியாழக்கிழமை நாட்டுக்கு முன்வைப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+மாவனல்லை பேருந்து நிலையத்திற்கு அருகில் நேற்று செவ்வாய்க்கிழமை (27) பிற்பகல் இடம்பெற்ற 'இயலும் ஸ்ரீலங்கா' வெற்றிப் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+இந்த மக்கள் பேரணியில் மாவனல்லை பிரதேசத்தைச் சேர்ந்த பெருந்திரளான மக்கள் கலந்து கொண்டதுடன், அவர்கள் ஜனாதிபதியை மிகுந்த உற்சாகத்துடன் வரவேற்றனர்.
+
+இதன்போது, தேசிய மக்கள் சக்தியின் மாவனல்லை அளுத்நுவர பிரிவின் அமைப்பாளர் பிரசன்ன இந்திக்க உள்ளிட்ட செயற்பாட்டாளர்கள் குழு  ஜனாதிபதிக்கு தமது ஆதரவை தெரிவிக்க இணைந்து கொண்டமையும் விசேட அம்சமாகும்.
+
+...
+
+[Data](articles/6f197d97.json)
+
+---
+
+### நாட்டில் துன்பப்படும் மக்களின் உரிமைகளை பெற்றுக்கொடுக்க தொடர்ந்தும் அர்ப்பணிப்புடன் செயல்படுவேன் - ஜனாதிபதி
+
+*2024-08-28 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/192200) · `ta`
+
+நாட்டில் துன்பப்படும் மக்களின் உரிமைகளை பெற்றுக்கொடுக்க அரசாங்கம் தொடர்ந்தும் அர்ப்பணிப்புடன் செயற்படும் என்றும் கடந்த 02 வருடங்களாக மக்களின் மீட்சிக்காக ஆரம்பிக்கப்பட்ட வேலைத்திட்டத்தை தொடர்வதற்கே இம்முறை ஜனாதிபதித் தேர்தலில் போட்டியிடுவதாகவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+குருணாகலில் நேற்று செவ்வாய்க்கிழமை (27) நடைபெற்ற சத்கோரள மகா சங்கத்தினர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க தேசத்திற்காகவும் புத்த சாசனத்திற்காகவும் ஆற்றிவரும் அளப்பரிய பணிகளைப் பாராட்டிய மகாசங்கத்தினர், பிரித் பாராயணம் செய்து ஜனாதிபதிக்கு ஆசி வழங்கினர்.
+
+மகா சங்கத்தினரின் ஆசிகளைப் பெற இன்று குருணாகல் பிரதேசத்திற்கு வருகை தந்தேன்.  அத்துடன், மகாசங்கத்தினரின் ஆலோசனைகளைப் பெற்று தேர்தல் பிரச்சாரத்தை ஆரம்பிப்பது எனது நோக்கமாக இருந்தது. மேலும், நாட்டை முன்னோக்கி கொண்டு செல்லும் பயணத்தில், மகா சங்கத்தினரின் ஆலோசனைகளையும் வழிகாட்டல்களையும் நான் தொடர்ந்து எதிர்பார்க்கிறேன்.
+
+...
+
+[Data](articles/4229a875.json)
 
 ---
 
@@ -1920,21 +2036,31 @@ The chairman of the Election Commission, RMAL Ratnayake, said that the final dec
 
 ---
 
-### ජනපතිගේ ප්‍රතිපත්ති ප්‍රකාශය හෙට
+### President's policy statement tomorrow
 
 *2024-08-27 19:57:06* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-ප්‍රතිපත්ති-ප්‍රකාශය-හෙට/11-411603) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජනපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය කොළඹ ටාජ් සමුද්‍රා හෝටලයේ දී බ්‍රහස්පතින්දා (29දා) එළිදැක්වීමට නියමිතය.
+Here's a summary of the text in 200 characters:
 
-"පුළුවන් ශ්‍රී ලංකා " යන දැක්ම මුල් කර ගනිමින් මෙම ප්‍රතිපත්ති ප්‍රකාශය සකස් කර ඇති අතර,රට බංකොලොත් භාවයෙන් මුදවාගෙන ආර්ථික සමෘද්ධිය කරා ගෙන යෑමේ මූලික පියවර තැබීම සහ ක්‍රම ක්‍රමයෙන් රට දියුණු රාජ්‍යයක් කරා රැගෙන යෑමේ සැලසුම් "පුළුවන් ශ්‍රී ලංකා" ප්‍රතිපත්ති ප්‍රකාශයට ඇතුළත් කර තිබේ.
 
-ශ්‍රී ලංකාවේ සියලු ජන කොටස්වලට යහපත් රටක් ගොඩනැගීම "පුළුවන් ශ්‍රී ලංකා" ප්‍රතිපත්ති ප්‍රකාශයේ මූලික අරමුණක් බව රජයේ ජ්‍යෙෂ්ඨ අමාත්‍යවරයෙක් සඳහන් කළේය.
 
-ඉතිහාසයේ දැවැන්තම ආර්ථික අර්බුදයට මුහුණ දුන් ශ්‍රී ලංකාව ක්‍රම ක්‍රමයෙන් යථා තත්ත්වයට ගැනීමෙන් පසු තවත් ඉදිරිගාමී පියවරක් තැබීම වෙනුවෙන් ජනාධිපතිවරයාගේ ප්‍රතිපත්ති ප්‍රකාශය අවධානය යොමු කර තිබෙන බව ද හෙතෙම සඳහන් කළේය.
+President Ranil Wickremesinghe launches policy statement Thursday at Taj Samudra Hotel. Focuses on economic recovery, benefiting all communities in Sri Lanka. Aims to address the country's largest economic crisis.
+
+🟩
+
+President Ranil Wickremesinghe's Presidential Fonseka is to be launched on Thursday (29) at the Taj Samudra Hotel in Colombo.
+
+The policy statement has been prepared based on the Vision, "Can You Rescuse the country in bankruptcy and running the country towards the economic prospoilment and gradually enter the country's policy statement..
+
+A senior senior government Minister said that a key objective of building a good country to all communities in Sri Lanka is a key objective of the Sri Lanka 'Policy Statement.
+
+The President's policy statement has focused on to set up another forward meeting after the largest economic crisis in history.
 
 ◼️
 
 [Data](articles/c9cd0210.json)
+
+[Extended Data](ext_articles/c9cd0210.ext.json)
 
 ---
 
@@ -2249,139 +2375,5 @@ The Department has also informed the abroad last year with less than 23 percent.
 [Data](articles/ad18a3c7.json)
 
 [Extended Data](ext_articles/ad18a3c7.ext.json)
-
----
-
-### Fertilizer subsidy. Up to 25,000
-
-*2024-08-27 19:09:58* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-රු--25000ක්-දක්වා-ඉහළට/11-411595) · `si`
-
-Fertilizer subsidy increased from Rs. 15,000 to Rs. 25,000 per hectare for paddy cultivation in Maha season 2024/25.
-
-🟩
-
-The fertilizer subsidy paid to paddy cultivation in the coming Maha season increased to Rs. 25,000.
-
-The Minister was speaking at a press conference to inform the Cabinet decisions held in the Government Information Department today.
-
-The farmers currently pay Rs 15,000 per hectare. The proposal submitted last week has been revised and increased the fertilizer subsidy to Rs. 25,000 per hectare.
-
-2024/25 The Cabinet Decisions made by the Department of Agrarian Development last week that the Agrarian Development Department will be provided with a maximum of Rs.He said in the press conference.
-
-◼️
-
-[Data](articles/6dea8b89.json)
-
-[Extended Data](ext_articles/6dea8b89.ext.json)
-
----
-
-### O/L Gallery Released
-
-*2024-08-27 19:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பெறுபேறுகள்-வெளியாகும்-காலம்-அறிவிப்பு/175-342881) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka: O/L exam results expected within 2-3 weeks. Minister confirms preparations underway.
-
-🟩
-
-Minister of Education Susil Premajayantha said he would expect to release the GCE Ordinary Level Examination for 2023 in 2 or 3 weeks.
-
-The Minister said that all necessary arrangements are being made to release the results. Remble
-
-◼️
-
-[Data](articles/f3e87816.json)
-
-[Extended Data](ext_articles/f3e87816.ext.json)
-
----
-
-### We are preparing for direct discussion
-
-*2024-08-27 19:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேரடி-கலந்துரையாடலுக்கு-நாம்-தயார்/175-342880) · `ta`
-
-Here's a 200-character summary:
-
-
-
-SJB ready for IMF discussion: Harsha de Silva says party prepared to meet anytime. President Ranil Wickremesinghe, SJB leader Sajith Premadasa, and National People's Power leader Anura Kumara Dissanayake also challenge IMF for public discussion.
-
-🟩
-
-Parliamentarian Harsha de Silva today said that the United People's Power (SJB) is ready for the challenge of President Ranil Wickremesinghe for a direct discussion with the International Monetary Fund.
-
-We are ready for a meeting at any time, ”said Dr. de Silva Daily Mirror.
-
-President Ranil Wickremesinghe, SJB leader Sajith Premadasa and National People's Power Leader Anura Kumara Dissanayake challenged the International Monetary Fund for a public discussion with the International Monetary Fund. It is noteworthy that it was released in the media a few days ago.
-
-◼️
-
-[Data](articles/4e1033f1.json)
-
-[Extended Data](ext_articles/4e1033f1.ext.json)
-
----
-
-### Knowing When To Step Aside: Mark Of True Leadership
-
-*2024-08-27 19:04:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/knowing-when-to-step-aside-mark-of-true-leadership/) · `en`
-
-Presidential aspirant Wickremesinghe’s recent appeal to Sri Lankans to vote for the Gas Cylinder symbol, with the ominous warning that failure to do so will result in long queues for essentials, reflects a troubling mindset.
-
-This statement, which seems to equate the temporary resolution of gas shortages with his qualification to lead the nation, is out of touch and a poor Marcom strategy. It suggests that Wickremesinghe and his advisors believe that merely avoiding crises is enough to secure the presidency, ignoring the deeper, more pressing needs of the country.
-
-Wickremesinghe’s approach is similar to his previous attempts to appeal to the masses with shallow gestures, such as his infamous offer of chewing gum to farmers, a tone-deaf proposal that highlighted his disconnection from the realities of rural life.
-
-...
-
-[Data](articles/de4c8125.json)
-
-[Extended Data](ext_articles/de4c8125.ext.json)
-
----
-
-### CBSL governor warns against any deviation from intended fiscal policy trajectory
-
-*2024-08-27 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101551/cbsl-governor-warns-against-any-deviation-from-intended-fiscal-policy-trajectory) · `en`
-
-The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, says any political or social uncertainties or reversals of hard earned achievements that exerts significant pressure on the economic reforms agenda could lead to a deviation from the intended policy trajectory.
-
-He said this could potentially result in adverse and irreversible impacts on the economy and the recurrence of the economic and social crisis that Sri Lanka experience in the past two years.
-
-He expressed these views while attending the 37th Annual Conference of the Organisation of Professional Associations of Sri Lanka held on Monday (26) at the Shangri-La Hotel in 5Colombo, under the theme of “Towards Sri Lanka’s Sustained Economic Growth”.
-
-“As you all know the ongoing reform agenda comprises measures that are expected to augment the resilience and stability of the economy, which is what is needed for the medium-long-term growth”, he said.
-
-...
-
-[Data](articles/1dee0032.json)
-
-[Extended Data](ext_articles/1dee0032.ext.json)
-
----
-
-### Those who have the opportunity to carry a helper to vote
-
-*2024-08-27 18:50:50* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-සලකුණු-කිරීමට-සහායකයෙක්--රැගෙන-යාමට-අවස්ථාව-ඇති-අය/11-411594) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Elections Commission allows voters to bring helpers to polls. Legal provisions ensure accurate ballot marking for future presidential elections.
-
-🟩
-
-The Elections Commission has legal legal provisions to mark the ballot to mark the ballot to the voter turnout in the future presidential election.
-
-◼️
-
-[Data](articles/b3abf9a4.json)
-
-[Extended Data](ext_articles/b3abf9a4.ext.json)
 
 ---

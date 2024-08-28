@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 13:56:51**
+As of **2024-08-28 14:09:40**
 
 ## Newspaper Stats
 
-*Scraped **43,028** Articles*
+*Scraped **43,030** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 360
+dbsjeyarajcom | 361
 newsfirstlk | 363
 bbccomsinhala | 399
 colombotelegraphcom | 415
@@ -18,7 +18,7 @@ dailyftlk | 2,795
 adalk | 3,978
 dailymirrorlk | 4,733
 adaderanalk | 5,061
-tamilmirrorlk | 5,608
+tamilmirrorlk | 5,609
 virakesarilk | 6,845
 adaderanasinhalalk | 7,371
 
@@ -26,45 +26,83 @@ adaderanasinhalalk | 7,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,024 (100.0%) of 43,028 articles have been extended.
+43,028 (100.0%) of 43,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### ජනතාව නොපෙළා ආර්ථිකය හදනවා -නාමල්
+### 650 அலைபேசிகளுடன் சந்தேக நபர் கைது!
+
+*2024-08-28 13:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/650-அலைபேசிகளுடன்-சந்தேக-நபர்-கைது/175-342919) · `ta`
+
+கடற்படை மற்றும் பொலிஸார் இணைந்து நடத்திய தேடுதல் நடவடிக்கையின் விளைவாக, அலைபேசிகளை மோசடியான முறையில் நாட்டுக்குள் கடத்த முயன்ற சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+புத்தளம் கரம்ப பிரதேசத்தில் உள்ள வீதித்தடையில் வைத்து குறித்த சந்தேக நபர் கைது செய்யப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+
+சந்தேக நபர் கெப் வாகனத்தில் இருந்து அலைபேசிகளை மாற்றிய போதே கைது செய்யப்பட்டுள்ளார்.
+
+இந்த சோதனையின் போது, ​​சட்டவிரோதமாக நாட்டிற்கு கொண்டு வரப்பட்டதாக சந்தேகிக்கப்படும் 650 அலைபேசிகளை பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+சந்தேக நபர்  52 வயதுடைய கெக்கிராவ பகுதியைச் சேர்ந்தவர் என அடையாளம் காணப்பட்டுள்ளார்.
+
+சந்தேகநபர் மற்றும் அலைபேசிகள் என்பன கெப் வண்டியுடன் மேலதிக விசாரணைகளுக்காக நுரைச்சோலை பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/eb5c71c0.json)
+
+---
+
+### People make the economy
 
 *2024-08-28 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200417) · `si`
 
-රටේ සාමාන්‍ය ජනතාව නොපෙළා ආර්ථිකය සංවර්ධනය කිරීමේ වගකීම ශ්‍රී ලංකා පොදුජන පෙරමුණ භාරගන්නා බව එම පක්ෂයේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa: People drive economy, not politicians. He criticized current tax policies as unfair to small businesses. Promises to create a more favorable economic environment for citizens.
 
-මාවතගම ප්‍රදේශයේ පැවැති ආසන රැස්වීමකට එක්වෙමින් ඔහු මේ බව ප්‍රකාශ කළේය.
+🟩
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධූර අපේක්ෂක නාමල් රාජපක්ෂ මහතාගේ ජය තහවුරු කිරීම වෙනුවෙන් සංවිධාන කරන ආසන රැස්වීම් මාලාවේ මාවතගම ආසන රැස්වීම ඊයේ (27) පස්වරුවේ පැවැත්වුණි.
+The presidential candidate named Namal Rajapaksa says that the Sri Lanka Ceremony Front is responsible for the development of the economy of the people of the country.
 
-එහිදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධූර අපේක්ෂක නාමල් රාජපක්ෂ මහතා වැඩිදුරටත් සඳහන් කළේ,
+He was speaking at a seat meeting in Mawathagama.
+
+The Mawathagama electoral meeting was held at the Sri Lanka General Candidate Namal Rajapaksa yesterday (27).
+
+The presidential candidate Namal Rajapaksa said in the Sri Lanka General Front,
 
 ...
 
 [Data](articles/27c3e4f4.json)
 
+[Extended Data](ext_articles/27c3e4f4.ext.json)
+
 ---
 
-### පාතාලය මඩින්න සැරසෙන අනුර
+### Anurasa to climb the underworld
 
 *2024-08-28 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200416) · `si`
 
-මත්ද්‍රව්‍ය සහ පාතාලය මැඩපවත්වන ආණ්ඩුවක් නිර්මාණය කරන බව ජාතික ජනබලවේගයේ ජනාධිපතිධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Here's a summary of the text in 200 characters:
 
-ජනාධිපතිවරණය ඉලක්ක කර ජාතික ජනබලවේගය පවත්වන ජනරැලි මාලාවේ තවත් ජන රැලියක් ඊයේ (27) දින පස්වරුවේ මීගමුවේදී පැවැත්වූයේ එම පක්ෂයේ ජනාධිපතිධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙනි.
 
-එහි දි ජාතික ජනබලවේගය ජනාධිපතිධූර අපේක්ෂක අනුර කුමාර දිසානායක මහතා සඳහන් කළේ,
 
-" අපේ රටේ කුඩු සහ පාතාලය එකට තියෙන්නේ. ලංකාවේ කවදාවත් ඈත ඉතිහාසයේ සංවිධානාත්මක අපරාධ කල්ලි හිටියේ නැහැ. අපරාධ සිද්ධ වුණා. සංවිධානාත්මක අපරාධ කල්ලි හිටියේ නැහැ. හැබැයි දැන් අපරාධ තියෙන්නේ කොහොමද? දැන් ඩුබායි සිට ඝාතන මෙහෙයවන්න පුළුවන්. හිරේ ඉඳගෙන කුඩු ව්‍යාපාර මෙහෙයවන්න පුළුවන්. ඒ කියන්නේ දැන් අපරාධ කියන්නේ මොකද්ද?  සංවිධානාත්මක අපරාධ. මේ සංවිධානාත්මක අපරාධ කල්ලි වර්ධනය වුණේ ජනපතිවරු අතින්. ප්‍රාදේශීය වශයෙන් දූෂණය කළේ ප්‍රාදේශීය දේශපාලඥයින්. ඒ නිසා මේ කුඩු සහ මේ පාතාලය සහ දේශපාලනය අතර සබඳතාවයක් තියෙනවා. ඒ නිසා මතක තියාගන්න මේ කුඩු සහ පාතාලය මැඩපවත්වන ආණ්ඩුවක් හදමු. ඒ ආණ්ඩුව තමයි ජාතික ජනබලවේග ආණ්ඩුව."
+Sri Lanka politician Anura Kumara Dissanayake claims government ties to drugs and organized crime. He argues crimes increased after politicians' involvement in drug trade.
+
+🟩
+
+UNP candidate candidate Anura Kumara Dissanayake says that the government is creating drugs and underworld.
+
+He was held in Negombo yesterday (27), a rally held in Negombo yesterday afternoon yesterday (27), a rally was held in Negombo.
+
+The National Campaign Canditate Anura Kumara Dissanayake said
+
+"Our country's powder and underworld are together. There were never unbelieving criminal gangs in Sri Lanka. Crimes took place. There was no organized crime gangs. But how can you now?Now can lead to killing from Dubai. You can sit in prison and lead powder businesses. What is the crime now?Organized crime. The President made these organized crime gangs. Regional Politicians were raped by local politicians. Therefore, there is a relationship between these powder and politics. So remember that we create a government that is being stood by this heroin and underworld. That government is the government. "
 
 ◼️
 
 [Data](articles/049cb343.json)
+
+[Extended Data](ext_articles/049cb343.ext.json)
 
 ---
 
@@ -83,6 +121,8 @@ A top police official said 5,000 police personnel were deployed to quell any vio
 ...
 
 [Data](articles/b9f88e04.json)
+
+[Extended Data](ext_articles/b9f88e04.ext.json)
 
 ---
 
@@ -1084,23 +1124,35 @@ The body of the deceased has been handed over to the relatives after the post mo
 
 ---
 
-### ශිෂ්‍ය වීසා: ඔස්ට්‍රේලියාව ගත් අලුත් ම තීන්දුවෙන් ශ්‍රී ලාංකිකයින්ට සිදුවන බලපෑම
+### Student Visa: The influence of Sri Lankans with the latest verdict of Australia
 
 *2024-08-28 08:04:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy5wejg3n8o) · `si`
 
-ශිෂ්‍ය වීසා: ඔස්ට්‍රේලියාව ගත් අලුත් ම තීන්දුවෙන් ශ්‍රී ලාංකිකයින්ට සිදුවන බලපෑම
+Here's a 200-character summary:
 
-සමස්ත සංක්‍රමණ සංඛ්‍යාව කොරෝනා වසංගත සමයට පෙර පැවති මට්ටමට අඩු කිරීමට අවධානය යොමු කරමින් ඔස්ට්‍රේලියාව එරට අධ්‍යාපන අවස්ථා ලබා දෙන ජාත්‍යන්තර සිසුන් සංඛ්‍යාව සීමා කිරීමට තීරණය කර තිබේ.
 
-ඔස්ට්‍රේලියාව ලෝකයේ විශාලතම ජාත්‍යන්තර ශිෂ්‍ය වෙළෙඳපොළක් වන අතර, 2025 වසරේදී එරට අධ්‍යාපන අවස්ථා ලබා දෙන ජාත්‍යන්තර සිසුන් සංඛ්‍යාව 270,000 දක්වා සීමා කරනු ඇත.
 
-වෘත්තීය අධ්‍යාපනය සහ පුහුණුව ලබා දෙන ආයතනවලට පැනවෙන විශාලතම කප්පාදුව මෙය විය හැකි අතර, සෑම උසස් අධ්‍යාපන ආයතනයකට ම වෙන වෙන ම සීමාවක් පනවනු ඇති බව එරට රජය අඟහරුවාදා නිවේදනය කළේ ය.
+Australia limits international students to combat COVID-19. Sri Lankan students affected significantly. Universities oppose cuts, citing economic impact. Government aims to improve quality and sustainability in education sector.
 
-අනාගතයේදී ඉල්ලුම වැඩි රැකියා ක්ෂේත්‍ර 5 තුළ රැකියාවක් කිරීමට ඔබ ඉගෙන ගත යුතු දේMasterChef Australia: ඔස්ට්‍රේලියාවේදී හරි හරියට ලංකාවේ කෑම හැදූ මේ ‘සැව්’ කවුද?
+🟩
+
+Student Visa: The influence of Sri Lankans with the latest verdict of Australia
+
+The total number of immigration has decided to limit the number of international students who provide education opportunities to Australia to reduce the Koreana epidemic.
+
+Australia is a largest international student market in the world and will limit the number of international students who provide education opportunities in 2025.
+
+This may be the greatest cutting of vocational education and training institutions that will impose a limit to every higher education institute.
+
+What you need to learn to work in the future in most of the future jobs Masterchef Australia: In Australia, Australia, is the 'Sav' that made in Sri Lanka's food in Sri Lanka
+
+The tertiary of education has been disturbed by this cut, but some universities are called "an economic barbarian", the University of Canberra says that the quality of the temple education is the quality and long-term existence.
 
 ...
 
 [Data](articles/b72ba280.json)
+
+[Extended Data](ext_articles/b72ba280.ext.json)
 
 ---
 
@@ -1589,6 +1641,22 @@ On 22 May, the Cabinet approved the joint proposal furnished by the then Justice
 [Data](articles/1e0beb3c.json)
 
 [Extended Data](ext_articles/1e0beb3c.ext.json)
+
+---
+
+### 
+
+*2024-08-28 04:23:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84636) · `en`
+
+National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake officially unveiled the NPP’s Presidential election manifesto titled “A Prosperous Nation, A Beautiful Life” in Sri JayawardenepuraKotte yesterday.
+
+Addressing the gathering of NPP Executive Council members, professionals, academics, artists, and others, Dissanayake highlighted that the manifesto is the party’s response to disinformation disseminated by its political rivals.
+
+Dissanayake recalled that recently, various rival politicians have presented programs to the public, claiming they are NPP’s own. “Even today, others frequently discuss our economic policies and governance plans. However, we often choose not to respond. We avoid engaging in unnecessary discussions and conflicts,” he said.
+
+...
+
+[Data](articles/ac6ec2f7.json)
 
 ---
 
@@ -2389,53 +2457,5 @@ The President's policy statement has focused on to set up another forward meetin
 [Data](articles/c9cd0210.json)
 
 [Extended Data](ext_articles/c9cd0210.ext.json)
-
----
-
-### A target of 4 million tourists per year
-
-*2024-08-27 19:54:13* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-සංචාරකයන්-මිලියන-4ක-ඉලක්කයක්/11-411602) · `si`
-
-UNP leader aims for 4 million tourists annually, expands airport capacity and launches tourism policy to boost economy and address urban-rural disparities.
-
-🟩
-
-Leader of the UNP, the leader of the party, said that the tourism is the leader of the UNP and to eliminate the tourism industry to bring about 4 million tourists per year.. He said that the airport should be expanded and efficient to the country.
-
-Dissanayake made these comments addressing the trade union trade conference held at Monactorial Celebrate Hall. Dissanayake added that the tourism policy was also launched.
-
-"There is some time, some work, some work, in the other fields we have chosen. But if we find a quick short-term solution to the economy, we find a quick short-term solution to the economy, we find the road to find out. Our country has faced two questions. One has not been able to earn the dollars of this country annually.
-
-...
-
-[Data](articles/36b752d7.json)
-
-[Extended Data](ext_articles/36b752d7.ext.json)
-
----
-
-### Election Commission to meet tomorrow
-
-*2024-08-27 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200396) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Election Commission meeting tomorrow to discuss local government elections. Will address Supreme Court's decision on judiciary. Final decision on local government election expected."
-
-🟩
-
-The Election Commission is scheduled to meet tomorrow (28) to discuss the local government elections.
-
-The Chairman of the Election Commission (Election Commission) has responded to Ada Derana that he is looking to discuss the decision to discuss the judiciary mainly given by the Supreme Court.
-
-He also said that a final decision will be taken regarding the local government election.
-
-◼️
-
-[Data](articles/3bb24b15.json)
-
-[Extended Data](ext_articles/3bb24b15.ext.json)
 
 ---

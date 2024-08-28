@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 20:21:58**
+As of **2024-08-28 20:37:22**
 
 ## Newspaper Stats
 
-*Scraped **43,086** Articles*
+*Scraped **43,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,43 @@ dailyftlk | 2,795
 adalk | 3,986
 dailymirrorlk | 4,733
 adaderanalk | 5,069
-tamilmirrorlk | 5,616
+tamilmirrorlk | 5,617
 virakesarilk | 6,851
-adaderanasinhalalk | 7,385
+adaderanasinhalalk | 7,386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,081 (100.0%) of 43,086 articles have been extended.
+43,086 (100.0%) of 43,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### පාස්පෝට් තදබදය තාවකාලිකව විසඳෙයි
+
+*2024-08-28 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200433) · `si`
+
+විදෙස් ගමන් බලපත්‍ර නිකුත් කිරීමේ ප්‍රමාදය හේතුවෙන් ආගමන හා විගමන දෙපාර්තමේන්තු පරිශ්‍රය අවට දින කිහිපයක් මුළුල්ලේ දිගු පෝලිම් දක්නට ලැබුණි.
+
+දෙපාර්තමේන්තුව සතු හිස් විදෙස් ගමන් බලපත්‍ර සීමිත බැවින් බලපත්‍ර නිකුත් කිරීම සීමාවීමත් සමග මෙම තත්ත්වය නිර්මාණය විය.
+
+කෙසේවෙතත් දිනකට බලපත් 1,000ක් නිකුත් කිරීමට බලධාරීන් අද (28) සිට පියවර ගත්තේය.
+
+ඒ පැමිණෙන පිළිවෙළ අනුව ගමන් බලපත්‍ර 750ක් සහ විදෙස් රටවල සිට ඉල්ලුම් කරන අය සඳහා 250ක් ලෙසය.
+
+නව ඉලෙක්ට්‍රොනික විදේශ ගමන් බලපත්‍රය හඳුන්වාදෙන තෙක් ඔක්තෝබර් මාසය දක්වා මෙම තත්ත්වය පවතිනු ඇති බැවින් අත්‍යවශ්‍යම හේතුවක් මත පමණක් විදේශ ගමන් බලපත්‍ර අයදුම් කරන ලෙස දෙපාර්තමේන්තුව මහජනතාවගෙන් ඉල්ලීමක්ද සිදු කළේය.
+
+මෙවන් පසුබිමක නව විදෙස් ගමන් බලපත්‍ර ලබාගැනීමේ අරමුණෙන් ආගමන විගමන ප්‍රධාන කාර්යාලය අසල රැඳී සිටින පිරිස් ඊයේ (27) රාත්‍රිය ද එම ස්ථානයේම ගත කර තිබුණි.
+
+පසුව පොලීසියේ ද මැදිහත්වීමෙන් මෙලෙස රැඳීසිටින පිරිස් වෙත ටෝකන් අංක ලබාදීමට ඊයේ රාත්‍රියේ පියවර ගෙන තිබුණි.
+
+...
+
+[Data](articles/23a80eb4.json)
+
+---
 
 ### Long queue back in Sri Lanka over govt’s failure on passports; Foreign Minister apologizes
 
@@ -49,6 +73,20 @@ However, the latest queue outside the Department of Immigration and Emigration c
 ...
 
 [Data](articles/1ba52681.json)
+
+[Extended Data](ext_articles/1ba52681.ext.json)
+
+---
+
+### தலதாவின் இடத்திற்கு  கருணாரத்ன பரணவிதான
+
+*2024-08-28 19:57:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவின்-இடத்திற்கு-கருணாரத்ன-பரணவிதான/175-342929) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரல தமது பதவியை இராஜினாமா செய்ததன் மூலம் வெற்றிடமாக இருந்த பாராளுமன்ற உறுப்பினர் பதவிக்கு, கருணாரத்ன பரணவிதானவின் பெயரை தேர்தல்கள் ஆணைக்குழு வர்த்தமானியில் வெளியிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/770b37c8.json)
 
 ---
 
@@ -276,6 +314,8 @@ Some analysts see the move as the end of an elitists-dominated 76-year post-inde
 
 [Data](articles/10f6f499.json)
 
+[Extended Data](ext_articles/10f6f499.ext.json)
+
 ---
 
 ### In the case of the Trial Room, Rs. 12 kilos of heroin disappeared
@@ -386,6 +426,8 @@ According to Ada Derana, Wickremesinghe had made this statement at a presidentia
 
 [Data](articles/c7c76886.json)
 
+[Extended Data](ext_articles/c7c76886.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes weaker at 300.60/80, bond yields up
@@ -408,6 +450,8 @@ A bond maturing on 01.10.2032 closed at 13.10/40 percent, up from 13.10/25 perce
 
 [Data](articles/ccadf99c.json)
 
+[Extended Data](ext_articles/ccadf99c.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down, ASPI drops below 11,000
@@ -429,6 +473,8 @@ Foreign buying was seen in Melstacorp, Commercial Bank, Richard Pieris and Compa
 ...
 
 [Data](articles/9f68c30a.json)
+
+[Extended Data](ext_articles/9f68c30a.ext.json)
 
 ---
 
@@ -2461,59 +2507,5 @@ The body of the deceased has been handed over to the relatives after the post mo
 [Data](articles/0f5a119f.json)
 
 [Extended Data](ext_articles/0f5a119f.ext.json)
-
----
-
-### Student Visa: The influence of Sri Lankans with the latest verdict of Australia
-
-*2024-08-28 08:04:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy5wejg3n8o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Australia limits international students to combat COVID-19. Sri Lankan students affected significantly. Universities oppose cuts, citing economic impact. Government aims to improve quality and sustainability in education sector.
-
-🟩
-
-Student Visa: The influence of Sri Lankans with the latest verdict of Australia
-
-The total number of immigration has decided to limit the number of international students who provide education opportunities to Australia to reduce the Koreana epidemic.
-
-Australia is a largest international student market in the world and will limit the number of international students who provide education opportunities in 2025.
-
-This may be the greatest cutting of vocational education and training institutions that will impose a limit to every higher education institute.
-
-What you need to learn to work in the future in most of the future jobs Masterchef Australia: In Australia, Australia, is the 'Sav' that made in Sri Lanka's food in Sri Lanka
-
-The tertiary of education has been disturbed by this cut, but some universities are called "an economic barbarian", the University of Canberra says that the quality of the temple education is the quality and long-term existence.
-
-...
-
-[Data](articles/b72ba280.json)
-
-[Extended Data](ext_articles/b72ba280.ext.json)
-
----
-
-### School children attacked
-
-*2024-08-28 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200406) · `si`
-
-Children and parents attacked near bridge; 10 injured including 4 boys, 6 girls, 2 women, 2 men hospitalized at Kataragama hospital.
-
-🟩
-
-A group of children and parents have been attacked by the Selekaragama Bridge in the Kataragama Police Division.
-
-Ten children and three parents have been admitted to the Kataragama hospital.
-
-Among the injured were four boys, six girls and two women and two men were hospitalized.
-
-◼️
-
-[Data](articles/e6fced8e.json)
-
-[Extended Data](ext_articles/e6fced8e.ext.json)
 
 ---

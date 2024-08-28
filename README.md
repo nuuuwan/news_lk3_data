@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 18:40:27**
+As of **2024-08-28 18:56:43**
 
 ## Newspaper Stats
 
-*Scraped **43,069** Articles*
+*Scraped **43,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,602
 dailyftlk | 2,795
-adalk | 3,984
+adalk | 3,985
 dailymirrorlk | 4,733
 adaderanalk | 5,068
 tamilmirrorlk | 5,611
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,066 (100.0%) of 43,069 articles have been extended.
+43,069 (100.0%) of 43,070 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,25 +52,49 @@ Fishing and naval community are requested to be attentive to future forecasts is
 
 [Data](articles/92568b5d.json)
 
+[Extended Data](ext_articles/92568b5d.ext.json)
+
 ---
 
-### රබර් පොහොර මිටියක් රු. 4000කින් අඩු කරයි
+### Rubber fertilizer bundle of Rs. Reduces by 4000
 
 *2024-08-28 18:21:07* · [`adalk`](https://www.ada.lk/breaking_news/රබර්-පොහොර-මිටියක්-රු--4000කින්-අඩු-කරයි/11-411612) · `si`
 
-මෙරට රබර් වගාවෙන් ලබන අස්වැන්න වැඩි කිරීම සඳහා රබර් වගාකරුවන්ට පොහොර සහනාධාරයක් ලබා දීමට රජය තීරණය කළ බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+Sri Lanka government reduces rubber fertilizer price by 4000 rupees to boost production. Minister Amaraweera announces subsidy starting this week. Rubber yield drops to 65000 metric tons annually due to lack of fertilizers.
 
-ඒ අනුව ,  රබර් වගාව සඳහා යොදන කිලෝ ග්‍රෑම් 50ක  පොහොර මල්ලක් රුපියල් 9,500 සිට රුපියල් 5,500ක් දක්වා මිල අඩු කිරීමට පියවර ගන්නා ලෙස කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා රාජ්‍ය පොහොර සමාගමේ සභාපති ආචාර්ය ජගත් පෙරේරා මහතාට උපදෙස් ලබා දී ඇත.
+🟩
 
-රබර් වගාව සඳහා ලබා දෙන එම පොහොර සහනාධාරය මෙම සතියේ සිටම ලබා දීමට පියවර ගැනේ.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera says the government has decided to provide a fertilizer subsidy to rubber cultivation to increase the crops of rubber cultivation in Sri Lanka.
 
-මේ වනවිට වී වගාවට හෙක්ටයාර් එකක් සඳහා රුපියල් 25,000ක් වශයෙන් විශාල පොහොර සහනාධාරයක් ලබා දී ඇත.  ඊට අමතරව තේ, පොල් හා කුරුඳු වගාවන් සඳහා රුපියල් 4000ක පොහොර සහනාධාරය ලබා දිමට රජය පියවර ගෙන ඇත.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera has instructed the Chairman of State Fertilizer Company to reduce the 50 kilogram of fertilizer bags of Rs. 5,500 from Rs. 5,500.
 
-මෙරට රබර් වගාවට වසර ගණනාවක් තුළ පොහොර දැමීමක් සිදු කර නැති බවට ශ්‍රී ලංකා රබර් පර්යේෂණ ආයතනය විසින් කළ කරුණු පෙන්වා දී තිබේ. ඒ අනුව වාර්ෂික රබර් කිරි අස්වැන්න මෙට්‍රික් ටොන් ලක්ෂයේ සිට මෙට්‍රික් ටොන් 65,000 දක්වා අවම වී ඇත.
+The fertilizer subsidy given to rubber cultivation will be taken this week from this week.
+
+At present, a large fertilizer subsidy has been provided to a hectares of paddy cultivation.In addition, the government has taken steps to provide the fertilizer subsidy of Rs.
+
+Sri Lanka Rubber Research Institute has pointed out that there has been no fertilizer for rubber cultivation for many years. Accordingly, the annual rubber yield has reduced to 65,000 metric tons from a metric tonne.
 
 ◼️
 
 [Data](articles/07a603dc.json)
+
+[Extended Data](ext_articles/07a603dc.ext.json)
+
+---
+
+### උපයන විට ගෙවන බද්ධ ගැන ජනපති ගත්ත තීරණය මෙන්න
+
+*2024-08-28 17:45:59* · [`adalk`](https://www.ada.lk/breaking_news/උපයන-විට-ගෙවන-බද්ධ-ගැන-ජනපති-ගත්ත-තීරණය-මෙන්න/11-411611) · `si`
+
+උපයන විට ගෙවන බද්ධ සංශෝධනය කිරීමට කටයුතු කරන බවත්, ඒ පිළිබඳව අයි.එම්.එෆ් සංවිධානයේ එකඟත්වය පළවී තිබෙන බවත් ස්වාධීන ජනාධිපතිවරණ අපේක්ෂක ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ඇහැළියගොඩ ප්‍රදේශයේ අද(28දා) පැවති ජන රැළියක් අමතමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+‘උපයන විට ගෙවන බද්ධ, ඒකත් විශාල ප්‍රශ්නයක්. අයි.එම්.එෆ්. සංවිධානයයි අපියි එකඟ වෙලා තියෙනවා ඒක සංශෝධනය කරන්න උවමනයි කියලා. මූලික තීරණය අරන් ඉවරයි. අපි එක යෝජනාවක් දාලා තියෙනවා, ඒ අය තව යෝජනාවක් දාලා තියෙනවා. ඉතින් මේ යෝජනා දෙක සාකච්ඡා කරලා අපි එකඟත්වයකට ආවම ඒ නියම ගාන අපි මෙතන දැනුම් දෙන්නම්. ’
+
+◼️
+
+[Data](articles/4ff87416.json)
 
 ---
 
@@ -131,6 +155,8 @@ Speaking at a presidential election rally in Eheliyagoda, he stated that proposa
 ◼️
 
 [Data](articles/e7ff679f.json)
+
+[Extended Data](ext_articles/e7ff679f.ext.json)
 
 ---
 
@@ -2451,25 +2477,5 @@ As per the Minister, instead of the existing appointment system, a ‘first come
 [Data](articles/1f3a9e86.json)
 
 [Extended Data](ext_articles/1f3a9e86.ext.json)
-
----
-
-### Ex-minister Fowzie sentenced to 2 years, suspended for 10 years
-
-*2024-08-28 05:36:24* · [`dailyftlk`](https://www.ft.lk/news/Ex-minister-Fowzie-sentenced-to-2-years-suspended-for-10-years/56-766060) · `en`
-
-The Colombo High Court yesterday sentenced former Minister A.H.M. Fowzie for two years of rigorous imprisonment and suspended it for 10 years after he pleaded guilty over the charge of misusing a vehicle belonging to the Disaster Management Ministry.
-
-In addition to the prison sentence, the Colombo High Court also imposed a fine of Rs. 400,000 on the former Minister.
-
-Fowzie was accused of misusing a vehicle given by a foreign country to the Disaster Management Centre for private purposes, while he was holding the ministerial portfolio in 2010.
-
-As per the charges, the said luxury vehicle, worth Rs. 20 million, was given to the Disaster Management Centre (DMC) by the Netherlands, while Rs. 1 million from the Ministry’s funds had been utilised for the maintenance of the vehicle.
-
-...
-
-[Data](articles/118f6f24.json)
-
-[Extended Data](ext_articles/118f6f24.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 09:37:07**
+As of **2024-08-28 09:56:32**
 
 ## Newspaper Stats
 
-*Scraped **42,988** Articles*
+*Scraped **42,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,594
 dailyftlk | 2,795
-adalk | 3,974
+adalk | 3,975
 dailymirrorlk | 4,733
-adaderanalk | 5,052
-tamilmirrorlk | 5,604
+adaderanalk | 5,053
+tamilmirrorlk | 5,605
 virakesarilk | 6,833
 adaderanasinhalalk | 7,363
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,988 (100.0%) of 42,988 articles have been extended.
+42,988 (100.0%) of 42,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### World Junior Athletics Championship: Sri Lanka’s Merone Wijesinghe qualifies for 100m semi-final
+
+*2024-08-28 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101558/world-junior-athletics-championship-sri-lankas-merone-wijesinghe-qualifies-for-100m-semi-final-) · `en`
+
+Sri Lankan junior sprinter Merone Wijesinghe has qualified for the semi-finals in the Men’s 100m event at the World Junior Athletics Championship 2024, being held in Lima, Peru.
+
+The 19-year-old finished second in the Heat 4 of the event last night (28), with a timing of 10.55 seconds. Okon Israel Sunday from Nigeria had placed first with a timing of 10.48 seconds in the same Heat.
+
+This time, 13 Sri Lankan athletes had qualified for the 2024 World Junior Athletics Championship held in Lima, Peru.
+
+◼️
+
+[Data](articles/7602fb46.json)
+
+---
 
 ### Notorious drug trafficker Shiran Basik’s son arrested at BIA
 
@@ -89,6 +105,24 @@ The nearest places of Sri Lanka over which the sun is overhead today at about 12
 [Data](articles/09e4cd47.json)
 
 [Extended Data](ext_articles/09e4cd47.ext.json)
+
+---
+
+### இந்திய மீனவர்கள் ஒப்படைப்பு
+
+*2024-08-28 08:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-ஒப்படைப்பு/175-342906) · `ta`
+
+கடலில் மூழ்கிய இந்திய மீன்பிடிப் படகில் இருந்து காப்பாற்றப்பட்ட இரண்டு இந்திய மீனவர்களும் நேற்று  இந்தியத் தூதரக அதிகாரிகளிடம் கையளிக்கப்படவுள்ளனர்.
+
+தமிழகத்தின் இராமேஸ்வரத்தில் இருந்து மீன்பிடிக்கப் புறப்பட்ட ரோலர் விசைப்படகில் நான்கு மீனவர்கள் பயணித்தபோது இந்திய எல்லைக்குள் கச்சதீவுக்கு அண்மையாக நேற்று முன்தினம் விசைப்படகு உடைந்து கடலில் மூழ்கியுள்ளது.
+
+அந்தப் படகில் இருந்த நான்கு மீனவர்களில் இரண்டு மீனவர்கள் கச்சதீவை அடைந்தபோது இருவரும் இலங்கைக் கடற்படையினரால் காப்பாற்றப்பட்டு யாழ். நெடுந்தீவுக்கு அழைத்து வரப்பட்டு பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+குறித்த இரண்டு இந்திய மீனவர்களும் நேற்று குறிகட்டுவானுக்கு அழைத்துவரப்பட்டு இறங்குதுறையில் வைத்து யாழில் உள்ள இந்தியத் தூதரக அதிகாரிகளிடம் கையளிக்கப்படவுள்ளனர். (a)
+
+◼️
+
+[Data](articles/14899211.json)
 
 ---
 
@@ -1514,6 +1548,22 @@ Kandy Chief Municipal Medical Officer Basan Jayasinghe added that people should 
 
 ---
 
+### සන්නද්ධ හමුදා කැඳවමින් ජනපතිගෙන් විශේෂ ගැසට්ටුවක්
+
+*2024-08-27 19:32:05* · [`adalk`](https://www.ada.lk/breaking_news/සන්නද්ධ-හමුදා-කැඳවමින්-ජනපතිගෙන්-විශේෂ-ගැසට්ටුවක්/11-411599) · `si`
+
+දිවයිනේ සියලු  පරිපාලන දිස්ත්‍රික්කවල මහජන සාමය  පවත්වාගෙන යාම සඳහා  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් සන්නද්ධ හමුදා කැඳවීමේ නියෝගයක් නිකුත් කර ඇත.
+
+ඊයේ (27) සිට ක්‍රියාත්මක වන පරිදි  ශ්‍රී ලංකා යුධ හමුදාව,ශ්‍රී ලංකා නාවික හමුදාව සහ ශ්‍රී ලංකා ගුවන් හමුදාවේ සියලු සාමාජිකයන් මෙලෙස කැඳවීමේ නියමය ඇතුළත් ගැසට් නිවේදනය ඊයේ (27)  ජනාධිපතිවරයා විසින් නිකුත් කෙරිණි .
+
+පරිපාලන දිස්ත්‍රික්ක හා ඒ ආශ්‍රිත දේශීය ජල තීරයන්හි මහජන සාමය පවත්වාගෙන යාම එම සන්නද්ධ හමුදාවන්ට පැවරේ.
+
+◼️
+
+[Data](articles/603f4007.json)
+
+---
+
 ### Ranil's manifesto will be released on Thursday
 
 *2024-08-27 19:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-விஞ்ஞாபனம்-வியாழன்-வெளியிடப்படும்/175-342883) · `ta`
@@ -2301,75 +2351,5 @@ Dissanayake says his administration can be the change people want: a sound econo
 [Data](articles/7efcc2f2.json)
 
 [Extended Data](ext_articles/7efcc2f2.ext.json)
-
----
-
-### If Sajith wins, the "Premadasa" family, including his wife and sister, rules the country - Prasanna Ranatunga
-
-*2024-08-27 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/192141) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sajith Premadasa's win may lead to Premadasa family ruling Sri Lanka, claims Prasanna Ranatunga. He urges voters to support Ranil Wickremesinghe to prevent family rule.
-
-🟩
-
-If Sajith Premadasa wins the presidential election, he is not going to rule the country. Instead, Urban Development and Housing Minister Prasanna Ranatunga said that his wife and sister were "Premadasa" family members.
-
-The minister urges Ranil Wickremesinghe to vote in this presidential election if he wants to protect the country from the cursed family rule.
-
-The minister said that Ranil Wickremesinghe was a democratic leader who was missing by many in the politics of this country.
-
-The Minister was speaking at the Presidential Election Campaign Meeting held in Minuwangoda yesterday (26).
-
-Family rule is a curse for a country. No country has grown in family rule. When talking about family rule, everyone talks about family rule. But talking about the Premadasa family rule is less.
-
-...
-
-[Data](articles/7771893e.json)
-
-[Extended Data](ext_articles/7771893e.ext.json)
-
----
-
-### EPF Receives Rs. 231 Million In Laugfs Gas Share Manipulation Case
-
-*2024-08-27 16:34:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/epf-receives-rs-231-million-in-laugfs-gas-share-manipulation-case/) · `en`
-
-This note begins with an expression of the highest recognition of the professionalism, courage to be different, and for transparent upholding of the rule of law, as pursued by the Securities and Exchange Commission (SEC) in the above connection. It is an example worthy of noting and emulation by other Independent Institutions, Regulatory Authorities, and Independent Law Enforcement Authorities.
-
-As noted in the media publication titled above (copy attached), the action of the SEC in open court duly making a restitution settlement with the Employees Provident Fund (EPF) of the loss made in 2011, due to purported market manipulations regarding the purchasing of shares of Laugfs Gas PLC.
-
-...
-
-[Data](articles/cf6c6aa6.json)
-
-[Extended Data](ext_articles/cf6c6aa6.ext.json)
-
----
-
-### SJB’s election manifesto to be launched on Thursday
-
-*2024-08-27 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101548/sjbs-election-manifesto-to-be-launched-on-thursday) · `en`
-
-The presidential election manifesto of the Samagi Jana Balawegaya (SJB) is scheduled to be unveiled on Thursday (August 29).
-
-The SJB Senior Vice President, Sujeewa Senasinghe said that the policy statement has now been finalized.
-
-Meanwhile, Samagi Jana Balawegaya’s (SJB) Presidential candidate and Leader of the Opposition, Sajith Premadasa, emphasized that the policy of maximum power devolution within one country will be implemented under an SJB government.
-
-Speaking at a rally in Trincomalee, Premadasa outlined his vision for governance, which includes holding an international donor conference aimed at advancing development in the North and East.
-
-“We will hold an international donor conference that will help develop the Northern and Eastern regions”, said the opposition leader.
-
-“At the same time, especially through the devolution of power within one state and giving the power to the people, we will make the implementation of that devolution of maximum power our policy,” he said.
-
-...
-
-[Data](articles/07ce9285.json)
-
-[Extended Data](ext_articles/07ce9285.ext.json)
 
 ---

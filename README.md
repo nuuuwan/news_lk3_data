@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 02:07:03**
+As of **2024-08-29 02:21:55**
 
 ## Newspaper Stats
 
-*Scraped **43,110** Articles*
+*Scraped **43,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 400
 colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,607
-dailyftlk | 2,800
+dailyftlk | 2,809
 adalk | 3,988
 dailymirrorlk | 4,733
 adaderanalk | 5,072
@@ -26,27 +26,197 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,109 (100.0%) of 43,110 articles have been extended.
+43,110 (100.0%) of 43,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
 
-### அதிகரிக்கும் வெப்பநிலை: மருத்துவர்கள் எச்சரிக்கை
+### AKD pledges to ensure economic democracy in SL
 
-*2024-08-29 01:17:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகரிக்கும்-வெப்பநிலை-மருத்துவர்கள்-எச்சரிக்கை/175-342947) · `ta`
+*2024-08-29 01:57:18* · [`dailyftlk`](https://www.ft.lk/news/AKD-pledges-to-ensure-economic-democracy-in-SL/56-766136) · `en`
 
-நாட்டில் தற்போது அதிகரித்து வரும் வெப்பநிலையினால் தோல் நோய்கள் ஏற்படக்கூடிய வாய்ப்புக்கள் அதிகம் காணப்படுவதாக மருத்துவ நிபுணர்கள் தெரிவித்துள்ளனர்.
+Promises to create comprehensive plan to offer crucial support to entrepreneurs and businesses, aiming to drive growth and development
 
-இது தொடர்பில் கொழும்பு சீமாட்டி சிறுவர் மருத்துவமனையின் சிறுவர் நோய் தொடர்பான விசேட மருத்துவ நிபுணர் தீபால் பெரேரா  தெரிவித்துள்ளதாவது,
+Says NPP’s plan will also involve assisting local entrepreneurs in expanding their businesses internationally
 
-நாடு முழுவதும் அதிகரித்து வரும் வெப்பநிலையால் குழந்தைகளிடையே தோல் நோய்  பிரச்சினைகள் மிகவும் பொதுவான ஒன்று.அதிகரிக்கும் வெப்பநிலையினால்  தோல் நோய்கள் ஏற்படுவதோடு உடலில் நீர்ச்சத்து குறைபாடு அதிகரிக்கும். எனவே அதிக சூரிய ஒளி படும் இடங்களில் இருப்பதை தவிர்ப்பதோடு அதிகளவு தண்ணீர் பருக வேண்டும்.
+Claims all Governments set up previously in SL have only looked after wellbeing of their own
 
-செயற்கையான குளிர் பானங்களை அருந்துவதை தவிர்த்து  தண்ணீர், எலுமிச்சை சாறு, இளநீர் போன்றவற்றை பருக வேண்டும் எனவும் பிள்ளைகளை ஒரு நாளைக்கு இரண்டு முறை குளிர்ப்பாட்ட வேண்டும் எனவும்  தெரிவித்துள்ளார்.
+Urges people to come together to form Govt. that truly cares for its people
+
+National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake has committed to fostering economic democracy for businesses in Sri Lanka. He announced that the NPP will create a comprehensive plan to offer crucial support to entrepreneurs and businesses, aiming to drive growth and development in their sectors.
 
 ...
 
+[Data](articles/7bb0ff87.json)
+
+---
+
+### Bribery allegations filed against AKD
+
+*2024-08-29 01:52:09* · [`dailyftlk`](https://www.ft.lk/news/Bribery-allegations-filed-against-AKD/56-766135) · `en`
+
+A complaint has been filed against the Presidential hopeful of the National People’s Power (NPP) Anura Kumara Dissanayake with the Commission to Investigate Allegations of Bribery or Corruption regarding the ownership of a house.
+
+The complaint made by Civil Society Activist Darshana Thanthirige alleges that Dissanayake was allocated a house in the Madiwela Housing Scheme despite owning a residential property in Kadawatha.
+
+Thanthirige claims that as per the established regulations, MPs should not be assigned a house from the Madiwela Housing Scheme if they own a residence within 25 kilometres of the Parliament.
+
+He alleges that Dissanayake’s Kadawatha property is within the 25 kilometre limit and is calling for a thorough investigation into the issue.
+
+According to the assets declaration filed with the Bribery Commission, the property in Ranmuthugala, Kadawatha, is registered under Dissanayake’s wife’s name.
+
+◼️
+
+[Data](articles/17c8590a.json)
+
+---
+
+### Patali challenges President to collect unpaid excise taxes
+
+*2024-08-29 01:48:46* · [`dailyftlk`](https://www.ft.lk/news/Patali-challenges-President-to-collect-unpaid-excise-taxes/56-766134) · `en`
+
+Urges President Ranil Wickremesinghe to take action by cancelling licences of excise tax defaulters
+
+Says despite various claims according to official data amount of uncollected excise taxes in 2023 is Rs. 1,120 b
+
+Claims if this collected with another Rs. 978 b waived off would have doubled State revenue
+
+United Republic Front (URF) leader and Member of Parliament Patali Champika Ranawaka has publicly challenged President Ranil Wickremesinghe to take decisive action against excise tax defaulters, accusing the President of shielding alcohol companies that have failed to pay their dues.
+
+Speaking to the media at an event in Colombo on Tuesday, Ranawaka challenged President Ranil Wickremesinghe to prove his ability to take action by cancelling the licences of excise tax defaulters and to recover the taxes still owed to the Government.
+
+...
+
+[Data](articles/e4309415.json)
+
+---
+
+### FR challenging President’s eligibility to contest Presidential poll dismissed
+
+*2024-08-29 01:44:03* · [`dailyftlk`](https://www.ft.lk/news/FR-challenging-President-s-eligibility-to-contest-Presidential-poll-dismissed/56-766133) · `en`
+
+SC rejects FR petition seeking an order to instruct President Ranil Wickremesinghe to appoint an Acting IGP
+
+Orders petitioner to pay Rs. 50,000 in Court fees after Additional Solicitor General Nerin Pulle informs Court petition contained false information
+
+Points out FR also breaches Article 92 of the Constitution which deals with matters relating to the disqualification for election as President
+
+The Supreme Court yesterday rejected a Fundamental Rights (FR) petition seeking an order to instruct the President to appoint an Acting Inspector General of Police (IGP).
+
+The petition was filed by Attorney-at-Law R.S.P. Ranasooriya which also challenged President Ranil Wickremesinghe’s eligibility to run in the upcoming Presidential election on the grounds of failing to appoint an Acting IGP and judges to the Supreme Court and Court of Appeal.
+
+The Supreme Court, while dismissing the petition, ordered the petitioner to pay Rs. 50,000 in court fees.
+
+...
+
+[Data](articles/1691a93c.json)
+
+---
+
+### ‘March 12 Movement’ opens Presidential debate for public questions
+
+*2024-08-29 01:42:56* · [`dailyftlk`](https://www.ft.lk/news/March-12-Movement-opens-Presidential-debate-for-public-questions/56-766132) · `en`
+
+‘The March 12 Movement’, a civic initiative focused on promoting clean and ethical politics, has called on members of the public to submit their questions to be posed to Presidential candidates during the upcoming public debate series organised by the movement.
+
+‘The March 12 Movement’ has announced that a series of Presidential candidate debates will begin on 7 September in Colombo. The Movement has invited members of the public to submit their questions for the candidates. The debates, it said, will provide a platform for the candidates to present their political ideologies and programs, while also giving the public the opportunity to ask pressing questions directly.
+
+Building on the success of the first Presidential candidate public debate held in 2019, this year’s debate series has been expanded, with all candidates invited to participate.
+
+...
+
+[Data](articles/21de7c78.json)
+
+---
+
+### Hayleys Fabric becomes first Sri Lankan company featured in ‘Global Organic Textile Standard’ case study
+
+*2024-08-29 01:41:32* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fabric-becomes-first-Sri-Lankan-company-featured-in-Global-Organic-Textile-Standard-case-study/34-766131) · `en`
+
+Consolidating its reputation as a celebrated pioneer in sustainable textiles, Hayleys Fabric PLC is now among an exclusive group of renowned global businesses featured as case studies on the Global Organic Textile Standard (GOTS) website.
+
+This distinction marks Hayleys Fabric as the first and only Sri Lankan company to be showcased on the prestigious global certification platform, following its recent triumph at the International Quality Awards 2024, where it clinched the ‘Sustainability Impact’ award.
+
+...
+
+[Data](articles/c6d98f6f.json)
+
+---
+
+### COMPLAST & RUBEXPO 2024 set to kick off this weekend
+
+*2024-08-29 01:38:31* · [`dailyftlk`](https://www.ft.lk/business/COMPLAST-RUBEXPO-2024-set-to-kick-off-this-weekend/34-766130) · `en`
+
+COMPLAST & RUBEXPO 2024, one of the biggest industrial exhibitions held in Sri Lanka, is set to be hosted at the iconic Bandaranaike Memorial International Conference Hall (BMICH), from 30 August to 1 September.
+
+COMPLAST & RUBEXPO 2024 is organised by SMART Expos & Fairs India Ltd. and co-organised by the Plastics and Rubber Institute of Sri Lanka (PRISL), with support from the Industrial Development Board (IDB), and is sponsored by leading industry players, including Shibaura Machine India, SDD Polymer, Lanka IOC, FMJ Plastics, Acteil Innovative, and NCS Holdings.
+
+This three-day event is set to welcome over 300 industry experts and representatives from over 200 companies, and is geared to showcase the latest in plastics and rubber technology.
+
+...
+
+[Data](articles/b7cd97e6.json)
+
+---
+
+### Banks’ CIO Forum engages key partners ahead of ‘The CIO Confluence 2025’
+
+*2024-08-29 01:37:46* · [`dailyftlk`](https://www.ft.lk/business/Banks-CIO-Forum-engages-key-partners-ahead-of-The-CIO-Confluence-2025/34-766129) · `en`
+
+Banks’ CIO Forum Committee 2024/2025. Seated (from left): Confluence Committee Chairman Tharaka Mudugamuwa, President Ajith Salgado, and Committee Member Gerald Wanigaratne. Standing (from left): Committee Members Thaminda Vandebona and Lakshitha Jayaweera, Treasurer Indika Fernando, Secretary Hareen Stembo. Absent: Committee Members Nisala Kodippili and Prabath Samindra Wickramaratne
+
+The Banks’ Chief Information Officers Forum (BCIOF), the largest premier C-level forum within Sri Lanka’s banking and financial sector, successfully hosted a ‘Partner Meet Up’ on 27 August at the Grand Sapphire, Courtyard by Marriott Colombo in preparation for the highly anticipated ‘The CIO Confluence 2025.’
+
+...
+
+[Data](articles/2e6509d5.json)
+
+---
+
+### Dialog Future Zone Elevates Sports Fiesta with Futuristic VR Sporting Adventure
+
+*2024-08-29 01:35:40* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Future-Zone-Elevates-Sports-Fiesta-with-Futuristic-VR-Sporting-Adventure/34-766128) · `en`
+
+Visitors experiencing interactive VR experiences at the Dialog Future Zone at the Sri Lanka Sports Fiesta 2024
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, proudly demonstrated its commitment to innovation at the Sri Lanka Sports Fiesta 2024, held from 16th to 18th August, at the Colombo Racecourse Grounds. Powered by Dialog Axiata, the festival celebrated local talent and athletic excellence while also showcasing the company’s cutting-edge technology through its remarkable Future Zone, setting a new standard for interactive entertainment in the country. Organized by the Ministry of Sports and Youth Affairs in collaboration with the Ministry of Tourism, the three-day event aimed to inspire the next generation of athletes, providing a prestigious platform for over 3,000 participants across seven major sports disciplines.
+
+...
+
+[Data](articles/a8b9b794.json)
+
+---
+
+### Increase Temperature: Warning of Doctors
+
+*2024-08-29 01:17:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகரிக்கும்-வெப்பநிலை-மருத்துவர்கள்-எச்சரிக்கை/175-342947) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Rising temperatures linked to increased skin diseases in children. Experts advise avoiding excessive sunlight, staying hydrated, and limiting cold drinks. Peak sun hours shift southward, affecting certain regions.
+
+🟩
+
+Medical experts say that the increasing temperature in the country is more likely to cause skin diseases.
+
+In this regard, Deepal Perera, a specialist in the Children's Hospital in Colombo, said,
+
+Increased temperatures across the country are very common in children with skin problems.. Therefore, you should avoid excessive sunlight and drink too much water.
+
+He said he should drink water, lemon juice and juices, avoiding artificial cold drinks and refrigerated children twice a day.
+
+As the sun moves to the south, the sun is over the 6th of September to the top of many parts of the country. At around 12.11 pm, the sun peaked on Wednesday (27) more than Neduntivu, Poonakari, Tattuvankottai and Sundikulam.
+
+The event was globally changing the event, a official of the Department of Meteorology said.
+
+◼️
+
 [Data](articles/e9402a23.json)
+
+[Extended Data](ext_articles/e9402a23.ext.json)
 
 ---
 
@@ -2269,255 +2439,5 @@ Nadeen Pasik, who fled abroad, was arrested at the airport on Wednesday (28).
 [Data](articles/b7ab23a3.json)
 
 [Extended Data](ext_articles/b7ab23a3.ext.json)
-
----
-
-### Ginger
-
-*2024-08-28 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/192192) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Farmers profit from selling seed ginger, but local supply is low due to crop damage from heavy rains. Merchants note this shortage.
-
-🟩
-
-Merchants note that farmers are rapidly making a profit by selling seed ginger, but there is a shortage of ginger or local ginger.
-
-Merchants have pointed out that the recent heavy rains have been destroyed by crops and ginger shortage.
-
-◼️
-
-[Data](articles/29ba8f48.json)
-
-[Extended Data](ext_articles/29ba8f48.ext.json)
-
----
-
-### Fertilizer subsidy for rubber cultivation
-
-*2024-08-28 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200412) · `si`
-
-Sri Lanka Ministry of Agriculture provides Rs 4000 fertilizer subsidy for rubber cultivation starting this week. Rubber Research Institute notes long-term lack of fertilizer use, resulting in reduced annual yield from 65,000 metric tonnes. Minister Amaraweera instructs increase in subsidy from Rs 5500 to Rs 5500.
-
-🟩
-
-The Ministry of Agriculture has decided to provide a fertilizer subsidy of Rs 4,000 for rubber cultivation.
-
-Accordingly, the fertilizer subsidy has taken steps to be delivered from this week.
-
-The Rubber Research Institute of Sri Lanka has pointed out that the use of fertilizer has not been deployed for rubber cultivation for many years.
-
-As a result, the annual rubber yield has reduced to 65,000 metric tonnes from the midst of the metric tonnes.
-
-Minister of Agriculture Mahinda Amaraweera has instructed the Minister of Agriculture and Plantation Industries and Plantation from Rs. 5,500 to Rs. 5,500.
-
-◼️
-
-[Data](articles/80c77772.json)
-
-[Extended Data](ext_articles/80c77772.ext.json)
-
----
-
-### Indian national given suspended sentence over match-fixing attempt during Legends Cricket League
-
-*2024-08-28 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101562/-indian-national-given-suspended-sentence-over-match-fixing-attempt-during-legends-cricket-league) · `en`
-
-The Kandy High Court has sentenced an Indian national to two years of rigorous imprisonment, suspended for 10 years, after he pleaded guilty over the charges of match-fixing during the 2024 Legends Cricket League.
-
-Police said that the Attorney General’s Department had filed indictments against the accused over the charges of attempting to fix matches in the 2024 Legends Cricket League played from March 8 to March 19, 2024, at the Pallekele International Cricket Stadium in Kandy.
-
-The investigation had been initiated following a complaint filed by the Special Investigation Unit for Prevention of Sports Related Offenses of the International Cricket Council (ICC).
-
-It has been revealed during the inquiry that the accused had approached an English and a New Zealand player, who were both part of the Punjab Royals team, for match-fixing in an attempt to rig the games.
-
-...
-
-[Data](articles/abfc3fb0.json)
-
-[Extended Data](ext_articles/abfc3fb0.ext.json)
-
----
-
-### 6 youth arrested with ice drugs in Udaiyargattu
-
-*2024-08-28 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/192193) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-"6 youth arrested for ice drug possession in Udaiyargattu, Mullaitivu. Police seized 7 phones, Rs. 17000, and 90mg ice in 7 packets. Ages: 17, 18, 18, 21, 23, 24. Case filed at Mullaitivu Magistrate's Court."
-
-🟩
-
-Pudukkudiyiruppu police said that youths who were ready to use ice drugs in the Mullaitivu, Udaiyarkattu Koil area were arrested on Tuesday (27).
-
-Six youths have been arrested during a special search operation received by the Pudukkudiyiruppu police that illegal activities are being carried out in a non -house in the Udaiyarkattu Kuruvil area.
-
-Seven phones from the arrested youth and 17000 rupees have been seized by 90 milligrams of ice in small 7 packs.
-
-Pudukkudiyiruppu police have arrested four persons from the Udayarkattu Kuru and the two youth aged 17,18,18,21,23 and 24 years old.
-
-Following further investigations into the youth, the police said that the Mullaitivu Magistrate's Court is taking action.
-
-◼️
-
-[Data](articles/9dbdd70a.json)
-
-[Extended Data](ext_articles/9dbdd70a.ext.json)
-
----
-
-### The plan to build a new Sri Lanka will be presented to the country on August 29 - the President
-
-*2024-08-28 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/192198) · `ta`
-
-This text appears to be a speech or transcript related to an election campaign in Sri Lanka. It mentions several political figures, parties, and economic issues. The speaker seems to be advocating for Ranil Wickremesinghe's re-election and criticizing his opponents. 
-
-
-
-Some key points mentioned include:
-
-
-
-1. Economic recovery efforts led by President Wickremesinghe
-
-2. Criticism of opposition parties and candidates
-
-3. Mention of IMF agreements and international relations
-
-4. References to past political figures like JR Jayawardena and Premadasa
-
-5. Discussion of economic policies and employment opportunities
-
-
-
-The speech appears to be aimed at rallying support for Wickremesinghe's candidacy and addressing concerns about the economy and leadership.
-
-🟩
-
-It includes plans to create a better standard of living for all people and to create a safest Sri Lankan for youth.
-
-President Ranil Wickremesinghe said that he would present his election manifesto to the country on Thursday 29, which includes a plan to build a new Sri Lanka with a vision of creating the best living standards for all people.
-
-The President made this statement while addressing the 'Ceylon Sri Lanka' victory rally which was held on Tuesday (27) near the Mawanella bus stand.
-
-The mass rally was attended by a large number of people from the Mawanella area and they greeted the president with great enthusiasm.
-
-It is also a special feature that a group of activists, including the organizer of the National People's Power, Prasanna Indika, have joined the President to support the President.
-
-...
-
-[Data](articles/6f197d97.json)
-
-[Extended Data](ext_articles/6f197d97.ext.json)
-
----
-
-### President opens the first phase of nature
-
-*2024-08-28 11:23:41* · [`adalk`](https://www.ada.lk/breaking_news/සොබාදනවි-පළමු-අදියර-ජනපති-අතින්-විවෘත-කෙරේ/11-411605) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"President Ranil Wickremesinghe inaugurated the first phase of the 'Sambarawi power plant'."
-
-🟩
-
-President Ranil Wickremesinghe was opened at the hands of the 'Sambarawi power plant'.
-
-◼️
-
-[Data](articles/69d00c6e.json)
-
-[Extended Data](ext_articles/69d00c6e.ext.json)
-
----
-
-### I will continue to dedicate the rights of the people who are suffering in the country - the President
-
-*2024-08-28 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/192200) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-President Ranil Wickremesinghe vows to protect citizens' rights, contests election to continue economic recovery program.
-
-🟩
-
-President Ranil Wickremesinghe said that the government will continue to dedicate the rights of the people who are suffering in the country and that it is contesting the presidential election this time to launch a program that has been launched for the last two years.
-
-The President made this statement while addressing a conference of the Satkorala Maha Sangam held in Kurunegala on Tuesday (27).
-
-President Ranil Wickremesinghe praised the great work of the nation and the Buddha Sasana, recited the President and blessed the President.
-
-I visited the Kurunegala area today to receive the blessings of the Maha Sangam.In addition, my aim was to start the election campaign with the advice of the Mahasanga. Also, on the journey of bringing the country forward, I continue to expect the advice and guidance of the Maha Sangam.
-
-...
-
-[Data](articles/4229a875.json)
-
-[Extended Data](ext_articles/4229a875.ext.json)
-
----
-
-### Daily Conducts - Mahinda Deshapriya alert for voters
-
-*2024-08-28 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/192201) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former Election Commissioner Mahinda Deshapriya warns voters about fake polls spread through social media. He claims it's hard to tell real from fake polls. The European Union has issued a report denying involvement in election polls. Deshapriya believes these fake polls aim to manipulate public opinion and increase voter bases.
-
-🟩
-
-Former Election Commissioner Mahinda Deshapriya has appealed to the voters to be cautious about fake polls.
-
-He said that it is difficult to identify the difference between fake polls and actual polls and that voters should be cautious.
-
-The allegedly carried out by the EU and spreading on social media are against the regulations that regulate the election process.
-
-The European Union has issued a report and it has not made election polls.. The Election Commission has also been warned about misinformation about misinformation.
-
-"This is a marketing initiative" "they do not publish details of how they choose human beings for these common polls. The purpose of these fake polls is to increase their voter base. When one goes up and another goes down, the votes will increase to them ”
-
-He using false information to mislead voters and creates a risk of promoting confidence in important socio-political matters and hiding the truth "is difficult to distinguish false and real polls.
-
-◼️
-
-[Data](articles/231ed2cc.json)
-
-[Extended Data](ext_articles/231ed2cc.ext.json)
-
----
-
-### Kerawalapitiya conquest
-
-*2024-08-28 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200411) · `si`
-
-President Ranil Wickremesinghe opens Open Cycle Gas Turbine Power Plant at Kerawalapitiya. First LNG-based power plant in Sri Lanka, 350 MW capacity.
-
-🟩
-
-Open Cyccholic Power Station at Kerawalapitiya "Sangena" is opened a few moments ago by President Ranil Wickremesinghe.
-
-Operations operates using a liquid natural gas (LNG) as a milestone in the energy sector in Sri Lanka.
-
-This is the first natural source power station in Sri Lanka and its capacity is 350 MW.
-
-◼️
-
-[Data](articles/9e8183c8.json)
-
-[Extended Data](ext_articles/9e8183c8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 07:05:51**
+As of **2024-08-28 07:32:51**
 
 ## Newspaper Stats
 
-*Scraped **42,974** Articles*
+*Scraped **42,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,59 @@ dailymirrorlk | 4,733
 adaderanalk | 5,050
 tamilmirrorlk | 5,599
 virakesarilk | 6,833
-adaderanasinhalalk | 7,358
+adaderanasinhalalk | 7,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,961 (100.0%) of 42,974 articles have been extended.
+42,964 (100.0%) of 42,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### පාස්පෝට් කාර්යාලය ළඟ ඇහෙන දුක් ගිනි
+
+*2024-08-28 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200404) · `si`
+
+බත්තරමුල්ල ආගමන විගමන දෙපාර්තමේන්තු ප්‍රධාන කාර්යාලයට විදෙස් ගමන් බලපත්‍ර ලබාගැනීම සඳහා පැමිණි පිරිස එහි රැඳී සිටිනු ඊයේ (27) රාත්‍රී කාලයේද දක්නට ලැබුණි.
+
+◼️
+
+[Data](articles/54d4ce1e.json)
+
+---
+
+### Showers in several areas
 
 *2024-08-28 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200402) · `si`
 
-උතුරු පළාතේ වැසිවාර කිහිපයක් ඇතිවිය හැකි අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇති විය හැකිය.
+Here's a summary of the weather forecast in 200 characters:
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
 
-උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
 
-දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස අද (28) වන දින සිට සැප්තැම්බර් 06 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
+"Showers/thunderstorms expected in Western, Sabaragamuwa, North Western provinces. Thin closures in Galle/Matara. Evening showers in Ampara/Batticaloa. Strong winds (30-40 mph) possible in Northern/North Central/Northwestern districts. Lightning risk advised."
 
-අද දින දහවල් 12:11ට ඩෙල්ෆ් දූපත, පුනරීන්, තද්දුවන්කොඩ්ඩි සහ චුන්ඩික්කුලම් ප්‍රදේශවලට හිරු මුදුන්ව පවතී.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+Several closes in the Northern Province can occur in the Western, Sabaragamuwa and North Western Provinces and several thin closed in the Galle and Matara districts.
+
+The Department of Meteorology announced that showers or thundershowers during the evening or evening in the Ampara and Batticaloa Districts will occur.
+
+From time to time in the Northern, North Central and Northwestern districts, Hambantota and Trincomalee Districts. Strong winds can occur 30-40 times.
+
+Sri Lanka is directly above the latitude near the Listelings of the end of the sun in April 6.
+
+The sun is over to the Delft Island, Pooneryn, Toddakkoddi and the Chundikkulam areas.
+
+The Department of Meteorology has kindly requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/156c163a.json)
+
+[Extended Data](ext_articles/156c163a.ext.json)
 
 ---
 
@@ -65,6 +87,8 @@ During the discussion, the trade and economic relations between Jordan and Sri L
 ...
 
 [Data](articles/c4adf772.json)
+
+[Extended Data](ext_articles/c4adf772.ext.json)
 
 ---
 
@@ -81,6 +105,8 @@ Even as “Mondo” Duplantis, the Swedish pole vaulter, was thrilling global vi
 ...
 
 [Data](articles/70517ac8.json)
+
+[Extended Data](ext_articles/70517ac8.ext.json)
 
 ---
 
@@ -2281,31 +2307,5 @@ In his speech on Aug. 14, Muhyiddin had questioned why then-King Sultan Abdullah
 [Data](articles/756986b6.json)
 
 [Extended Data](ext_articles/756986b6.ext.json)
-
----
-
-### Match Picking: Prison for Bacheloria
-
-*2024-08-27 15:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மேட்ச்-பிக்சிங்-பெச்சலோடியாவுக்கு-சிறை/44-342868) · `ta`
-
-Cricket manager sentenced 4 years prison for match fixing. Fined 22 million rupees. Case filed under Sports Crime Prevention Act.
-
-🟩
-
-Kandy High Court Judge Mrs. Darshika has sentenced cricket manager Pachelodia Akash to be sentenced to four years in prison for allegedly pressuring England cricketer Filmsteet and New Zealand player Nil Bru to betray the match when he was the manager of the Indian Royal Punjab team.
-
-The verdict of the case was issued on Tuesday (27). In addition, he fined 11 million rupees each for two related charges.
-
-Two cases filed on two charges filed on the "Legend Trophy 2024" cricket match at the Pallekela International Cricket Stadium, Kandy, have been sentenced in a heated verdict of two allegations.
-
-The case was filed under these allegations under the Sports Crime Prevention Act No. 49 of 2019. In the case,
-
-Senior Attorney -at -Law Karunathilaka on behalf of the state and President's Attorney Tilak Marapana appeared on behalf of the defendant.
-
-◼️
-
-[Data](articles/cc6b5659.json)
-
-[Extended Data](ext_articles/cc6b5659.ext.json)
 
 ---

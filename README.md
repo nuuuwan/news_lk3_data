@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 14:56:16**
+As of **2024-08-28 15:07:10**
 
 ## Newspaper Stats
 
-*Scraped **43,035** Articles*
+*Scraped **43,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,595
 dailyftlk | 2,795
 adalk | 3,978
 dailymirrorlk | 4,733
-adaderanalk | 5,061
+adaderanalk | 5,063
 tamilmirrorlk | 5,610
 virakesarilk | 6,846
 adaderanasinhalalk | 7,374
@@ -26,37 +26,87 @@ adaderanasinhalalk | 7,374
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,033 (100.0%) of 43,035 articles have been extended.
+43,035 (100.0%) of 43,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### වැඩබලන පොලිස්පතිවරයෙකු පත් කරන්නැයි ඉල්ලූ පෙත්සමක් නිෂ්ප්‍රභ කෙරේ
+### 3 presidential candidates ‘almost missing’, 24 still off the grid: Election watchdog questions accountability
+
+*2024-08-28 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101568/3-presidential-candidates-almost-missing-24-still-off-the-grid-election-watchdog-questions-accountability) · `en`
+
+The Executive Director of the Institute for Democratic Reforms and Electoral Studies (IRES) Manjula Gajanayake raised concerns about three candidates who have submitted nominations for the upcoming presidential election but remain unaccounted for.
+
+Speaking during Ada Derana’s current affairs programme “Big Focus”, Gajanayake pointed out that 39 candidates have entered the presidential race, with one of them recently passing away. However, he also raised concern about no official replacement been named for the deceased candidate.
+
+“I see a weakness in not naming an official replacement for the candidate who passed away,” Gajanayake stated. “If the process was organized, there would have been a replacement. There should be a ‘Plan A’ and a ‘Plan B’. The lack of transparency is dishonest.”
+
+...
+
+[Data](articles/a252f66f.json)
+
+---
+
+### Petition challenging President Ranil’s eligibility to contest prez poll dismissed with costs
+
+*2024-08-28 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101567/petition-challenging-president-ranils-eligibility-to-contest-prez-poll-dismissed-with-costs) · `en`
+
+The Supreme Court has dismissed a petition challenging President Ranil Wickremesinghe’s eligibility to run in the presidential election, which was based on claims of failure to appoint the Acting IGP and judges to the Supreme Court and the Court of Appeal.
+
+Meanwhile, the court has also ordered the petitioner to pay Rs. 50,000 as legal costs.
+
+Additional Solicitor General Nerin Pulle, who appeared on behalf of the Attorney General, argued that the petition contained false information and that it has breached the Article 92 of the Constitution.
+
+The relevant petition had been filed by a lawyer requesting the court to issue an order to the incumbent President Ranil Wickremesinghe to appoint an Acting IGP. However, the petitioner had also sought a ruling that Wickremesinghe, who was named a respondent of the case, is not qualified to contest the presidential election.
+
+◼️
+
+[Data](articles/72638f92.json)
+
+---
+
+### Petition demanded to appoint a acting imbue
 
 *2024-08-28 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200420) · `si`
 
-වැඩබලන පොලිස්පතිවරයකු පත් කරන ලෙස ජනාධිපතිවරයා වෙත නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා නීතිඥවරයෙකු විසින් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් රුපියල් 50,000ක නඩු ගාස්තුකට යටත්ව නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (28) නියම කළේය.
+Supreme Court fixes petition demanding acting IGP appointment. President Ranil Wickremesinghe named respondent.
 
-අදාළ පෙත්සමේ වගඋත්තරකරුවකු වශයෙන් නම්කර සිටින ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ජනාධිපතිවරණය සඳහා ඉදිරිපත්වීමට සුදුසුකම් නොමැති බවට තීන්දුවක් ලබාදෙන ලෙසත් මෙම පෙත්සමෙන් ඉල්ලා තිබුණි.
+🟩
+
+The Supreme Court today (280) fixed a fundamental rights petition filed by a lawyer to issue an act of acting IGP.
+
+President Ranil Wickremesinghe was demanded that Mr. Ranil Wickremesinghe who was named as a respondent of the petition.
 
 ◼️
 
 [Data](articles/57d537cd.json)
 
+[Extended Data](ext_articles/57d537cd.ext.json)
+
 ---
 
-### இயற்கை எரிவாயுவை பயன்படுத்தி இயங்கும் இலங்கையின் முதல் மின் உற்பத்தி நிலையத்தின் சுழற்சி கட்டம் ஜனாதிபதியால் திறப்பு
+### The Presidential Opening of Sri Lanka's First Power Plant, which operates using natural gas
 
 *2024-08-28 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/192221) · `ta`
 
-"சொபாதனவி" ஒருங்கிணைந்த சுழற்சி மின் நிலையத்தின் சுழற்சி கட்டத்தை ஜனாதிபதி ரணில்  விக்ரமசிங்க சற்று முன்னர் திறந்து வைத்தார்.
+Here's a summary of the text in 200 characters:
 
-இலங்கையின் எரிசக்தி துறையில் ஒரு தனித்துவமான மைல்கல்லைக் குறிக்கும் வகையில், திரவ இயற்கை எரிவாயுவை (LNG) முதன்மையாகப் பயன்படுத்தி இயங்கும் இலங்கையின் முதல் மின் உற்பத்தி நிலையமான 350 மெகா வோர்ட் திறன் கொண்ட கெரவலப்பிட்டி "சொபாதனவி" ஒருங்கிணைந்த சுழற்சி
+
+
+President Ranil Wickremesinghe inaugurated Sobadhanavi power station, Sri Lanka's first LNG-based plant, marking a milestone in the country's energy sector. The 350 MW Karavalapitiya facility uses liquid natural gas as its primary fuel source.
+
+🟩
+
+President Ranil Wickremesinghe inaugurated the rotational phase of the "Sobadhanavi" integrated rotation power station.
+
+Integrated cycle of Karavalapitiya, 350 MW, a 350 -megawort of Sri Lanka's first power plant, which is primarily used by liquid natural gas (LNG) to mark a unique milestone in Sri Lanka's energy industry.
 
 ◼️
 
 [Data](articles/99d546cf.json)
+
+[Extended Data](ext_articles/99d546cf.ext.json)
 
 ---
 
@@ -2409,47 +2459,5 @@ The last time they fill the Galle Prophet, they gathered people to fill the Gall
 [Data](articles/2b37b030.json)
 
 [Extended Data](ext_articles/2b37b030.ext.json)
-
----
-
-### Sun directly over parts of Sri Lanka from tomorrow
-
-*2024-08-27 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101554/sun-directly-over-parts-of-sri-lanka-from-tomorrow) · `en`
-
-The Department of Meteorology announced that on the apparent southward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during August 28 to September 06 this year.
-
-The nearest places of Sri Lanka over which the sun is overhead tomorrow (28) are Delft Island, Pooneryn, Thadduvankoddi and Chundikkulam around 12.11 noon, it said.
-
-Meanwhile, several spells of light showers are expected in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts, according to the Met. Department.
-
-Showers or thundershowers may occur at a few places in Uva Province and in Ampara and Batticaloa districts during the evening or night. Mainly fair weather will prevail elsewhere.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Northern, North-central and North-western provinces and in Hambantota and Trincomalee Districts, it added.
-
-...
-
-[Data](articles/498f7767.json)
-
-[Extended Data](ext_articles/498f7767.ext.json)
-
----
-
-### Jay Shah elected unopposed as new International Cricket Council chairman
-
-*2024-08-27 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101553/jay-shah-elected-unopposed-as-new-international-cricket-council-chairman) · `en`
-
-Jay Shah, the secretary of the Board of Control for Cricket in India (BCCI), was elected unopposed as the new chairman of the International Cricket Council (ICC) on Tuesday, August 27.
-
-At 35, Shah is set to become the youngest person to lead the global cricket governing body after submitting his nomination on the deadline day. He will succeed Greg Barclay, who chose not to seek a third term after assuming the role in 2020. Shah will officially take over as the ICC chair on December 1, 2024.
-
-Earlier this month, the ICC announced that elections for the chairman position would only be held if more than one candidate was nominated. On Tuesday, it was confirmed that Shah was the sole nominee for the top job.
-
-It remains to be seen who will assume the role of BCCI secretary when Shah vacates the position at the end of November.
-
-...
-
-[Data](articles/dc16075d.json)
-
-[Extended Data](ext_articles/dc16075d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 17:06:45**
+As of **2024-08-28 17:21:50**
 
 ## Newspaper Stats
 
-*Scraped **43,052** Articles*
+*Scraped **43,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,66 @@ economynextcom | 2,595
 dailyftlk | 2,795
 adalk | 3,982
 dailymirrorlk | 4,733
-adaderanalk | 5,064
+adaderanalk | 5,065
 tamilmirrorlk | 5,611
-virakesarilk | 6,848
+virakesarilk | 6,850
 adaderanasinhalalk | 7,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,049 (100.0%) of 43,052 articles have been extended.
+43,052 (100.0%) of 43,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### ව්‍යාජ විදේශීය මත්පැන් හැදූ ස්කාගාරයක් වටලයි
+### Sri Lankan Tamil asylum seeker dies by self-immolation in Melbourne
+
+*2024-08-28 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101571/sri-lankan-tamil-asylum-seeker-dies-by-self-immolation-in-melbourne) · `en`
+
+Refugee advocates have gathered to protest the death of a 23-year-old Tamil asylum seeker who died after setting himself on fire in Melbourne’s south-east.
+
+Friends of Mano Yogalingam told the ABC he had arrived in Australia from Sri Lanka in 2013 and had been on a bridging visa for roughly 11 years.
+
+A Victoria Police spokesperson said emergency services were called to a skate park in Noble Park on Tuesday night.
+
+A man with life-threatening injuries was taken to hospital, where he died on Wednesday, they said.
+
+The Tamil Refugee Council said it believed the time Mr Yogalingham had spent on a bridging visa had been a contributing factor to his death.
+
+A council spokesperson told the ABC Mr Yogalingham’s claim for refugee status was previously rejected under the controversial “fast-track” system introduced in 2014, an outcome he had been seeking to appeal.
+
+...
+
+[Data](articles/894e587a.json)
+
+---
+
+### False foreign alcohol raided
 
 *2024-08-28 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200428) · `si`
 
-සිංගප්පූරු ජාතිකයකු විසින් මෙරට පුද්ගලයින් දෙදෙනෙකු යොදවා පවත්වාගෙන ගිය නීතිවිරෝධී ව්‍යාජ විදේශීය මත්පැන් ස්කාගාරයක් වටලා තිබේ.
+Singapore authorities raided a distillery in Sri Lanka, seizing 54 bottles of counterfeit whiskey and equipment. Two individuals were arrested during the operation. The Biyagama Excise Special Operations Unit is continuing its investigation into the illegal alcohol manufacturing facility.
 
-යුද හමුදා බුද්ධි අංශ තොරතුරක් මත බියගම සුරාබදු විශේෂ මෙහෙයුම් ඒකකය විසින් ඊයේ (27) එම වැටලීම සිදුකර තිබේ.
+🟩
 
-දිගුකලක් තිස්සේ එම නීතිවිරෝධී ව්‍යාජ මත්පැන් නිෂ්පාදන ස්කාගාරය මහර කඩවත ප්‍රදේශයේ නිවසක් තුළ පවත්වාගෙන ගොස් තිබේ.
+A lawless foreign alcohol has been raided by a Singapore who has raided two people in Sri Lanka.
 
-මෙහිදී එම ස්කාගාරයේ තිබී ව්‍යාජ ලෙස සකසන ලද විදේශීය විස්කි බෝතල් 54ක්, එම බෝතල් සීල් කිරීම සඳහා යොදාගන්නා යන්ත්‍ර 2ක් සහ මත්පැන් නිෂ්පාදනයට යොදා ගන්නා ද්‍රව්‍ය හා උපකරණ තොගයක් ද සොයාගෙන ඇත.
+The raid was raided by the Biyagama Excise Operations Unit yesterday (27) on information information.
 
-බියගම සුරාබදු විශේෂ මෙහෙයුම් ඒකකය මගින් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+For a long time, the illegal fake liquor manufacture was operated in a house in the Kadawatha area in Kadawatha.
+
+54 foreign whiskey bottles were found in the same distillery, two machines used to seal the bottles and a stock of alcohol production.
+
+The Biyagama Excise Special Operations Unit is conducting further investigations.
 
 ◼️
 
 [Data](articles/c72ca50b.json)
+
+[Extended Data](ext_articles/c72ca50b.ext.json)
 
 ---
 
@@ -70,23 +98,35 @@ The arrested suspects are currently in custody, and further investigations are b
 
 [Data](articles/41e5fafb.json)
 
+[Extended Data](ext_articles/41e5fafb.ext.json)
+
 ---
 
-### උතුරු බෙංගාල බොක්ක ආශ්‍රිතව අඩුපීඩන තත්ත්වයක් ?
+### Diplomacy in the bay of northern Bengal?
 
 *2024-08-28 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200427) · `si`
 
-උතුරු බෙංගාල බොක්ක ආශ්‍රිතව වායුගෝලයේ අඩුපීඩන තත්ත්වයක් හෙට (29) දිනයේදී වර්ධනයවීමේ හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+Here's a summary of the text in 200 characters:
 
-එම මුහුදු ප්‍රදේශවල ඉතා තද සුළං (පැ. කි. මී. 70-80) සමග තද වැසි ඇති විය හැකි බවත්, එම මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවත් නිවේදනයේ දැක්වෙයි.
 
-මේ හේතුවෙන් උතුරු බෙංගාල බොක්ක ගැඹුරු මුහුදු ප්‍රදේශයේ බහුදින ධීවර යාත්‍රා හා නාවික යාත්‍රා කටයුතුවල යෙදී සිටින පිරිස් වහාම ගොඩබිම හෝ ආරක්ෂිත ස්ථානයක් වෙත පැමිණිය යුතු බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව දැනුම්දෙයි.
 
-අද (29) පස්වරු 3:30ට නිකුත් කර ඇති එම නිවේදනය හෙට (29) පස්වරු 3:30 දක්වා වලංගු වෙයි.
+Strong winds expected in Northern Bay of Bengal. Heavy rainfall possible. Met Department advises fishermen to return to shore or seek shelter. Announcement made at 3:30 PM on 29th day.
+
+🟩
+
+The atmosphere of the Northern Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Meteorological Announces a new recent announcement.
+
+Very strong winds (a side of the sea areas). Is. Mee. 70-80) The announcement stresses that there may be heavy rains with rain.
+
+The Department of Meteorology has not been told that the Met Department should immediately return to the land or safe location of a multi-day fish vessel in the deep sea area.
+
+The announcement was issued today (29) at 3:30 pm today (29) at 3:30 pm.
 
 ◼️
 
 [Data](articles/e892f310.json)
+
+[Extended Data](ext_articles/e892f310.ext.json)
 
 ---
 
@@ -111,6 +151,40 @@ He is a 30 year old resident of the Iranamadu area in Kilinochchi.
 [Data](articles/60e19b35.json)
 
 [Extended Data](ext_articles/60e19b35.ext.json)
+
+---
+
+### கச்சதீவில் காப்பாற்றப்பட்ட இந்திய மீனவர்கள் துணை தூதரகத்தில் ஒப்படைப்பு!
+
+*2024-08-28 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/192238) · `ta`
+
+கச்சதீவுக்கு அண்மையில் மீன்பிடி நடவடிக்கைகளில் ஈடுபட்டுக் கொண்டிருந்தபோது படகு கவிழ்ந்து விபத்துக்குள்ளான நிலையில் காப்பாற்றப்பட்ட இரண்டு இந்திய மீனவர்களும் இன்று புதன்கிழமை (28)  யாழ்ப்பாணம் இந்திய துணைத் தூதரகத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+நான்கு மீனவர்களுடன் மீன்பிடியில் ஈடுபட்டுக் கொண்டிருந்த படகு ஒன்று நேற்று செவ்வாய்க்கிழமை (27)  தண்ணீரில் மூழ்கி விபத்துக்குள்ளானது.
+
+இந்நிலையில் அங்கு ரோந்து பணியில் ஈடுபட்டுக் கொண்டிருந்த கடற்படையினர் இரண்டு மீனவர்களை மீட்டுள்ளதோடு, அத்துடன்   காணாமல் போன மற்ற இரண்டு மீனவர்களையும் தேடும் பணிகளில் ஈடுபட்டு வருகின்றனர்.
+
+இந்நிலையில் அவர்கள் இன்றையதினம் குமுதினி படகு மூலம் குறிகட்டுவானுக்கு கொண்டுவரப்பட்டு, அங்கிருந்து அழைத்துச் செல்லப்பட்டு யாழ்ப்பாண இந்திய துணை தூதரகத்தில் ஒப்படைக்கப்பட்டனர்.
+
+அவர்கள் இருவரையும் நாளையதினம் பலாலி விமான நிலையமூடாக இந்தியாவிற்கு அனுப்புவதற்கான நடவடிக்கைகளை யாழ்ப்பாண இந்திய துணை தூதரகம் முன்னெடுத்து வருகிறது.
+
+◼️
+
+[Data](articles/b1e17af0.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் போட்டியிட ரணில் தகுதியற்றவர் என அறிவிக்கக் கோரி தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனு உயர் நீதிமன்றத்தால் நிராகரிப்பு
+
+*2024-08-28 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/192237) · `ta`
+
+பதில் பொலிஸ் மா அதிபரை நியமிக்கத் தவறியமை மற்றும் உயர் நீதிமன்றத்திற்கும் மேன்முறையீட்டு நீதிமன்றத்திற்கும் நீதியரசர்களை நியமிக்காமை என்பவற்றின் அடிப்படையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவை ஜனாதிபதி தேர்தலில் போட்டியிட தகுதியற்றவர் என அறிவிக்கக் கோரி தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனுவை, விசாரணைக்கு எடுத்துக்கொள்ள  உயர் நீதிமன்றம் நிராகரித்துள்ளது.
+
+நீதிமன்ற கட்டணமாக 50,000 ரூபாய் செலுத்துமாறும் மனுதாரருக்கு  உத்தரவிடப்பட்டுள்ளதுடன் மனுதாரர்கள் நீதிமன்றத்திற்கு பொய்யாக தகவல்களை சமர்ப்பித்துள்ளதாகவும், அந்த மனு  அரசியலமைப்பின் 92ஆவது சரத்தை மீறுவதாகவும் இருப்பதாக சட்டமா அதிபர் சார்பில் ஆஜரான மேலதிக சொலிசிட்டர் ஜெனரல் நெரின் புள்ளே  இதன் போது ஆட்சேபனை தெரிவித்தார்.
+
+◼️
+
+[Data](articles/987bf50d.json)
 
 ---
 
@@ -2385,75 +2459,5 @@ According to the United Nations statistics, one -third of Sri Lanka has been aff
 [Data](articles/a390ed97.json)
 
 [Extended Data](ext_articles/a390ed97.ext.json)
-
----
-
-### Ranil Wickremesinghe is a democratic leader missing by many in politics - Prasanna Ranatunga
-
-*2024-08-28 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/192136) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Prasanna Ranatunga criticizes Sajith Premadasa's potential presidency, calling it "family rule." He praises Ranil Wickremesinghe as a democratic leader, contrasting him with Premadasa's alleged nepotism.
-
-🟩
-
-If Sajith Premadasa wins the presidential election, he is not going to rule the country. Instead, Urban Development and Housing Minister Prasanna Ranatunga said that his wife and sister were "Premadasa" family members.
-
-The minister urges Ranil Wickremesinghe to vote in this presidential election if he wants to protect the country from the cursed family rule.The minister said that Ranil Wickremesinghe was a democratic leader who was missing by many in the politics of this country.
-
-The Minister was speaking at the Presidential Election Campaign Meeting held in Minuwangoda on Monday (26).
-
-Family rule is a curse for a country. No country has grown in family rule. When talking about family rule, everyone talks about family rule. But talking about the family rule of the Premadasa is less.
-
-...
-
-[Data](articles/ec95e21d.json)
-
-[Extended Data](ext_articles/ec95e21d.ext.json)
-
----
-
-### Israel serious attack on Gaza
-
-*2024-08-28 02:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-மீது-இஸ்ரேல்-தீவிர-தாக்குதல்/50-342899) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Israeli attack on Gaza kills 20, injures many. War death toll: 40,476. Injuries: 93,647.
-
-🟩
-
-About 20 people have been killed in the Israeli attack on Gaza yesterday.
-
-International media reports that they have been killed in attacks in Tair El-Bala and Khan Younis.
-
-About 40,476 people have been killed in Israel's war on Gaza. International media reports that 93,647 people were injured. (A)
-
-◼️
-
-[Data](articles/ed97b932.json)
-
-[Extended Data](ext_articles/ed97b932.ext.json)
-
----
-
-### Will the proposed fact and the reconciliation commission punish the culprits?- US Ambassador Julie Sung
-
-*2024-08-28 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/192172) · `ta`
-
-US Ambassador Julie Sung met Truth and Reconciliation Mechanism reps. She asked if past violators will be punished via proposed commission. Interim Sec'y explained limited mandate & ongoing efforts. Ambassador questioned timeline for parliamentary approval.
-
-🟩
-
-...
-
-[Data](articles/18e96d37.json)
-
-[Extended Data](ext_articles/18e96d37.ext.json)
 
 ---

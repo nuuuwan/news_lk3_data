@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 16:09:03**
+As of **2024-08-28 16:21:42**
 
 ## Newspaper Stats
 
-*Scraped **43,041** Articles*
+*Scraped **43,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,595
 dailyftlk | 2,795
-adalk | 3,979
+adalk | 3,980
 dailymirrorlk | 4,733
 adaderanalk | 5,063
 tamilmirrorlk | 5,611
-virakesarilk | 6,846
-adaderanasinhalalk | 7,376
+virakesarilk | 6,848
+adaderanasinhalalk | 7,377
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,041 (100.0%) of 43,041 articles have been extended.
+43,041 (100.0%) of 43,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### සුඩානයේ මරණ ඉහළ ට
+
+*2024-08-28 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200423) · `si`
+
+සුඩානයට බලපා ඇති අධික වර්ෂාවත් සමග ඇතිවූ ආපදා තත්ත්වය හේතුවෙන් මියගිය පුද්ගලයින් සංඛ්‍යාව 138ක් දක්වා ඉහළ ගොස් තිබේ.
+
+පුද්ගලයින් 120,000කට පමණ එමගින් බලපෑම් එල්ලවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+සුඩානයට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් නිවාස 12,420 ක් ද සම්පූර්ණයෙන්ම විනාශ වී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/43517cfc.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-28 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/192232) · `ta`
+
+இன்று புதன்கிழமை  (ஆகஸ்ட் 28) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 295.8172 ரூபாவாகவும் விற்பனை விலை 305.0549 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8fa5cb11.json)
+
+---
 
 ### Susil Jayathwan asks bail
 
@@ -116,6 +144,26 @@ Presidential candidate Sajith Premadasa speaking to the work
 
 ---
 
+### 650 கையடக்கத்தொலைபேசிகளுடன் நபரொருவர் கைது
+
+*2024-08-28 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/192218) · `ta`
+
+கற்பிட்டி பகுதியிலிருந்து புத்தளம் நோக்கிப் பயணித்த கெப் வண்டியை பொலிஸார் மற்றும் கடற்படையினர் இனைந்து நேற்று செவ்வாய்க்கிழமை (28) இரவு கரம்பை சோதனைச் சாவடியில் வைத்து சோதனைக்கு உற்படுத்தப்பட்டபோது  சுமார் 650 கையடக்கத் தொலைப்பேசிகள் கண்டுபிடிக்கப்பட்டுள்ளதுடன் சந்தேகத்தின் பேரில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த கையடக்கத் தொலைப்பேசிகள் இந்தியாவிலிருந்து கடல்மார்க்கமாக அனுமதிப்பத்திரமின்றி கொண்டுவரப்பட்டிருக்கலாமென சந்தேகிப்பதாக பொலிஸார்  தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் அநுராதபுரம் கெக்கிராவைப் பகுதியைச் சேர்ந்த 52 வயதுடையவரென பொலிஸார் தெரிவித்தனர்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபரையும் கைப்பற்றப்பட்ட கையடக்கத் தொலைப்பேசிகள் மறும் கொண்டு செல்ல பயன்படுத்தப்பட்ட கெப் வண்டியையும் நுரைச்சோலைப் பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+
+இதன்போது மேலதிக விசாரணைகளை முன்னெடுத்து வருவதுடன் நீதிமன்றில் ஆஜர்படுத்தப்பட்டுள்ளதாக நுரைச்சோலைப் பொலிஸா தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/fd820dce.json)
+
+---
+
 ### 3 presidential candidates ‘almost missing’, 24 still off the grid: Election watchdog questions accountability
 
 *2024-08-28 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101568/3-presidential-candidates-almost-missing-24-still-off-the-grid-election-watchdog-questions-accountability) · `en`
@@ -131,6 +179,20 @@ Speaking during Ada Derana’s current affairs programme “Big Focus”, Gajana
 [Data](articles/a252f66f.json)
 
 [Extended Data](ext_articles/a252f66f.ext.json)
+
+---
+
+### විධායක ජනාධිපති ක්‍රමය අහෝසි කරන්නේ කොහොමද ජනාධිපතිලා?
+
+*2024-08-28 14:33:22* · [`adalk`](https://www.ada.lk/breaking_news/විධායක-ජනාධිපති-ක්‍රමය-අහෝසි-කරන්නේ-කොහොමද-ජනාධිපතිලා-/11-411607) · `si`
+
+විධායක ක්‍රමය ජනාධිපතිවරයෙකුට අහෝසි කළ නොහැකි බවත්, එය පාර්ලිමේන්තුව තුළින් සිදු කළ යුතු බවත් ජනාධිපතිවරණ අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රී විජයදාස රාජපක්ෂ මහතා පැවසීය.
+
+විධායක ජනාධිපති ක්‍රමය අහෝසි කරන්නේ කොහොමද ජනාධිපතිලා? ජනාධිපතිට ඡන්දයක්වත් නෑ පාර්ලිමේන්තුවේ. ඒක පාර්ලිමේන්තුව කරන්න ඕනී එකක්. ජනාධිපතිවරයෙක් තේරී පත්වෙලා තමගේ කියන පක්ෂයකින් තුනෙන් දෙකක පාර්ලිමේන්තු මන්ත්‍රී සංඛ්‍යාවක් දිනාගෙන ඒක කරනවා කියනවා නම් ඒකේ තියෙනවා පදනමක්. එහෙම නැතුව
+
+◼️
+
+[Data](articles/0fe98d2d.json)
 
 ---
 
@@ -2367,97 +2429,5 @@ Throughout this remarkable journey, WNS Sri Lanka (SL) has played a vital role, 
 [Data](articles/785d1fad.json)
 
 [Extended Data](ext_articles/785d1fad.ext.json)
-
----
-
-### SLIM hosts India-Sri Lanka Economic Partnership Forum
-
-*2024-08-27 22:48:00* · [`islandlk`](http://island.lk/slim-hosts-india-sri-lanka-economic-partnership-forum/) · `en`
-
-The Sri Lanka Institute of Marketing (SLIM) proudly hosted an exclusive event titled “India-Sri Lanka Economic Partnership: Connecting and Transforming Economies,” as part of their ongoing Experience-Sharing Forum (ESF). This event, held on 11th July 2024 at the Kingsbury Colombo, brought together SLIM’s Professional Members and Corporate Invitees for an evening of insightful discussions and networking.
-
-The ESF, a flagship event organised by SLIM, takes place several times a year and features high-profile Speakers who share their success stories and experiences. This particular forum was graced by the presence of the High Commissioner of India to Sri Lanka Santosh Jha, who provided an in-depth analysis of the current Economic ties between the two neighbouring countries and shared his vision for the future.
-
-...
-
-[Data](articles/3c2b5e23.json)
-
-[Extended Data](ext_articles/3c2b5e23.ext.json)
-
----
-
-### HNB to make non-binding offer to buy Bangladesh unit of Alfalah Bank
-
-*2024-08-27 22:46:00* · [`islandlk`](http://island.lk/hnb-to-make-non-binding-offer-to-buy-bangladesh-unit-of-alfalah-bank/) · `en`
-
-HNB has obtained the go- ahead from its Board to enter into talks and make a non-binding offer to buy the Bangladesh unit of Bank Alfalah.
-
-A further communication will be made once the Board reaches a final decision after due diligence, negotiations and necessary regulatory clearances, CSE sources said.
-
-Bank Alfalah is a multinational bank, which has a presence in UAE, Bahrain, Pakistan, Afghanistan and Bangladesh, the statement said.
-
-Bank Alfalah is owned and operated by the Abu Dhabi Group, according to its sources, and entered Bangladesh in 2005 with the acquisition of Shamil Bank of Bahrain. Bank Alfalah has expanded its presence in a big way.
-
-Amid those developments, the stock market yesterday experienced an extreme downward trend due to speculation that the IMF is going to recommend to impose a capital gains tax for share transactions created by the stock market, market analysts said.
-
-...
-
-[Data](articles/eaa3b8f2.json)
-
-[Extended Data](ext_articles/eaa3b8f2.ext.json)
-
----
-
-### Drug Party by Facebook - 43 arrested
-
-*2024-08-27 22:21:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேஸ்புக்-மூலம்-போதை-பார்ட்டி-43-பேர்-கைது/175-342885) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Facebook Drug Party Raid: 43 arrests made in Negombo hotel under 100-day excise program. Ages 19-35, from Tangalle to Horana. Includes students, traders, professionals.
-
-🟩
-
-43 people living in different areas have been arrested in a hotel on the Negombo coast.
-
-The circuit has been raided under the 100 -day program implemented by the Department of Excise.
-
-The arrested persons are between the ages of 19 and 35, including private university students, traders and various professionals.
-
-They have been identified as the residents of Tangalle, Marawila, Kirindiwala, Hikurakoda, Poogoda, Negombo, JL, Digana and Horana areas.. Remble
-
-◼️
-
-[Data](articles/1c6c0934.json)
-
-[Extended Data](ext_articles/1c6c0934.ext.json)
-
----
-
-### Meron Wijesinghe qualifies to the semi-finals
-
-*2024-08-27 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200401) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan athlete Meron Wijesinghe advances to semi-finals in World Championship Junior Athletics. He secured 10.5% victory in the second round of preliminary events.
-
-🟩
-
-Meron Wijesinghe, who represented the World Championship Championship in the capital of Peru, was eligible for the semi-finals.
-
-He won the second round of the preliminary rock in the participation of last night by 10.5 percent.
-
-13 athletes representing Sri Lanka for the World Championships in the Junior Athletics Championships this year.
-
-◼️
-
-[Data](articles/3a723e29.json)
-
-[Extended Data](ext_articles/3a723e29.ext.json)
 
 ---

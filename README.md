@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 09:56:32**
+As of **2024-08-28 10:09:18**
 
 ## Newspaper Stats
 
-*Scraped **42,991** Articles*
+*Scraped **42,992** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 359
+dbsjeyarajcom | 360
 newsfirstlk | 363
 bbccomsinhala | 398
 colombotelegraphcom | 415
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,988 (100.0%) of 42,991 articles have been extended.
+42,991 (100.0%) of 42,992 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ This time, 13 Sri Lankan athletes had qualified for the 2024 World Junior Athlet
 ◼️
 
 [Data](articles/7602fb46.json)
+
+[Extended Data](ext_articles/7602fb46.ext.json)
 
 ---
 
@@ -108,21 +110,27 @@ The nearest places of Sri Lanka over which the sun is overhead today at about 12
 
 ---
 
-### இந்திய மீனவர்கள் ஒப்படைப்பு
+### Handing over Indian fishermen
 
 *2024-08-28 08:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-ஒப்படைப்பு/175-342906) · `ta`
 
-கடலில் மூழ்கிய இந்திய மீன்பிடிப் படகில் இருந்து காப்பாற்றப்பட்ட இரண்டு இந்திய மீனவர்களும் நேற்று  இந்தியத் தூதரக அதிகாரிகளிடம் கையளிக்கப்படவுள்ளனர்.
+Indian fishermen rescue drowning incident summary: Two fishermen saved by SL Navy, handed over to Indian Embassy. Four fishermen stranded near Kachchativu, two rescued, others missing.
 
-தமிழகத்தின் இராமேஸ்வரத்தில் இருந்து மீன்பிடிக்கப் புறப்பட்ட ரோலர் விசைப்படகில் நான்கு மீனவர்கள் பயணித்தபோது இந்திய எல்லைக்குள் கச்சதீவுக்கு அண்மையாக நேற்று முன்தினம் விசைப்படகு உடைந்து கடலில் மூழ்கியுள்ளது.
+🟩
 
-அந்தப் படகில் இருந்த நான்கு மீனவர்களில் இரண்டு மீனவர்கள் கச்சதீவை அடைந்தபோது இருவரும் இலங்கைக் கடற்படையினரால் காப்பாற்றப்பட்டு யாழ். நெடுந்தீவுக்கு அழைத்து வரப்பட்டு பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+Two Indian fishermen who were rescued from the Indian fishing boat drowned in the sea will be handed over to the Indian embassy yesterday.
 
-குறித்த இரண்டு இந்திய மீனவர்களும் நேற்று குறிகட்டுவானுக்கு அழைத்துவரப்பட்டு இறங்குதுறையில் வைத்து யாழில் உள்ள இந்தியத் தூதரக அதிகாரிகளிடம் கையளிக்கப்படவுள்ளனர். (a)
+Four fishermen traveled in the Indian border yesterday and sank into the sea yesterday.
+
+Two of the four fishermen in the boat reached Kachchativu and the two were rescued by the Sri Lankan navy.. They have been brought to Neduntivu and handed over to the police.
+
+The two Indian fishermen will be brought to the Indigaratan yesterday and handed over to the Indian embassy in Jaffna.. (A)
 
 ◼️
 
 [Data](articles/14899211.json)
+
+[Extended Data](ext_articles/14899211.ext.json)
 
 ---
 
@@ -1548,19 +1556,29 @@ Kandy Chief Municipal Medical Officer Basan Jayasinghe added that people should 
 
 ---
 
-### සන්නද්ධ හමුදා කැඳවමින් ජනපතිගෙන් විශේෂ ගැසට්ටුවක්
+### President is a special gazetry to summon armed forces
 
 *2024-08-27 19:32:05* · [`adalk`](https://www.ada.lk/breaking_news/සන්නද්ධ-හමුදා-කැඳවමින්-ජනපතිගෙන්-විශේෂ-ගැසට්ටුවක්/11-411599) · `si`
 
-දිවයිනේ සියලු  පරිපාලන දිස්ත්‍රික්කවල මහජන සාමය  පවත්වාගෙන යාම සඳහා  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් සන්නද්ධ හමුදා කැඳවීමේ නියෝගයක් නිකුත් කර ඇත.
+Here's a summary of 200 characters:
 
-ඊයේ (27) සිට ක්‍රියාත්මක වන පරිදි  ශ්‍රී ලංකා යුධ හමුදාව,ශ්‍රී ලංකා නාවික හමුදාව සහ ශ්‍රී ලංකා ගුවන් හමුදාවේ සියලු සාමාජිකයන් මෙලෙස කැඳවීමේ නියමය ඇතුළත් ගැසට් නිවේදනය ඊයේ (27)  ජනාධිපතිවරයා විසින් නිකුත් කෙරිණි .
 
-පරිපාලන දිස්ත්‍රික්ක හා ඒ ආශ්‍රිත දේශීය ජල තීරයන්හි මහජන සාමය පවත්වාගෙන යාම එම සන්නද්ධ හමුදාවන්ට පැවරේ.
+
+President Ranil Wickremesinghe issues gazette to deploy armed forces for public order maintenance across Sri Lanka's administrative districts.
+
+🟩
+
+President Ranil Wickremesinghe has issued an order by President Ranil Wickremesinghe to maintain public peace in all administrative districts of the country.
+
+The President yesterday issued the gazette notification that included the law of the Sri Lanka Navy and all members of the Sri Lanka Air Force, as operated from yesterday (27).
+
+The armed forces are to maintain public order in the administrative districts and local waterholders.
 
 ◼️
 
 [Data](articles/603f4007.json)
+
+[Extended Data](ext_articles/603f4007.ext.json)
 
 ---
 
@@ -2030,6 +2048,26 @@ A special event was organized by the Office of the Missing Person on Tuesday (27
 
 ---
 
+### Sajith Premadasa does not seem to have the experience or intellectual fortitude to lead the country out of economic trouble. As Thalatha fears,it may be a repetition of Gotabaya,if Sajith  Wins.
+
+*2024-08-27 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84609) · `en`
+
+A rhetorical question: What difference would it have made if Sajith Premadasa delivered the speech Thalatha Athukorala did last week?
+
+First and foremost, the difference would have been between a mature democracy and one driven by petty personal greed; the latter is a hallmark of politics in this part of the world.
+
+Take for instance, France, where political parties of the Centre and Left regularly join ranks to stop the far-right from taking power, notwithstanding the major policy differences between the two sides. Still, the common agenda is to save the fabric of the Fifth Republic.
+
+The latest rapport came after the first round of national polls gave  Marine Le Pen’s National Rally the most votes and projected seats. Not limited to France, tactical voting and alliance between traditional foes is a big winner in much of E
+
+urope, where the newly resurgent far-right is making inroads to power.
+
+...
+
+[Data](articles/72be5f39.json)
+
+---
+
 ### Suspended to the Grama Niladhari who took bribe
 
 *2024-08-27 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200393) · `si`
@@ -2331,25 +2369,5 @@ The government denies responsibility for grave abuses during Sri Lanka’s 1983-
 [Data](articles/4d367816.json)
 
 [Extended Data](ext_articles/4d367816.ext.json)
-
----
-
-### “We can’t come out from the existing IMF program” – AKD
-
-*2024-08-27 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101549/we-cant-come-out-from-the-existing-imf-program-akd) · `en`
-
-Anura Kumara Dissanayake, leader of National People’s Power alliance and its presidential candidate, says he’s serving those who were part of public protests that ousted then-President Gotabaya Rajapaksa in 2022.
-
-“The people of our country have a great expectation for a change” Dissanayake told The Associated Press. “They wanted a change and we are the agents of that change. All the other candidates are the agents of the old, failed, traditional system.”
-
-Dissanayake says the people’s wishes for a change were not realized because the protesters did not have a plan beyond ousting the president and weren’t equipped to take charge.
-
-Dissanayake says his administration can be the change people want: a sound economy in a corruption-free society.
-
-...
-
-[Data](articles/7efcc2f2.json)
-
-[Extended Data](ext_articles/7efcc2f2.ext.json)
 
 ---

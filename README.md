@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 04:21:32**
+As of **2024-08-29 04:36:58**
 
 ## Newspaper Stats
 
-*Scraped **43,124** Articles*
+*Scraped **43,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ dailyftlk | 2,809
 adalk | 3,988
 dailymirrorlk | 4,733
 adaderanalk | 5,072
-tamilmirrorlk | 5,626
-virakesarilk | 6,854
+tamilmirrorlk | 5,627
+virakesarilk | 6,855
 adaderanasinhalalk | 7,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,124 (100.0%) of 43,124 articles have been extended.
+43,124 (100.0%) of 43,126 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -181,6 +181,24 @@ This distinction marks Hayleys Fabric as the first and only Sri Lankan company t
 [Data](articles/c6d98f6f.json)
 
 [Extended Data](ext_articles/c6d98f6f.ext.json)
+
+---
+
+### ’ஜே.வி.பிக்கு தமிழர்கள் வாக்களிக்க மாட்டார்கள்’
+
+*2024-08-29 01:38:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜே-வி-பிக்கு-தமிழர்கள்-வாக்களிக்க-மாட்டார்கள்/175-342951) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை தமிழீழ விடுதலை இயக்கம் ஒருபோதும் ஆதரிக்காது. நாம் மூவர் ஜனாதிபதியை சந்தித்ததாக எம் மீது சேறு பூச முனைகிறார்கள். அத்துடன் ஜே.வி.பி.யினர் தமிழர்களின் அடித்தளத்தையே உடைத்து வடக்குக் கிழக்கை பிரித்தவர்கள். அவர்களுக்கும் தமிழர்கள் வாக்களிக்க மாட்டார்கள் என பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கநாதன் தெரிவித்தார்.
+
+வவுனியாவில் தமிழ் பொது வேட்பாளரை ஆதரித்து துண்டு பிரசுரம் வழங்கும் நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+தமிழ் பொது வேட்பாளருக்கு உரிய ஆதரவுதளம் அதிகரித்து வருகின்றது. எமது மக்கள் எமது இலட்சிய பாதையிலே பொது வேட்பாளருக்கு கட்டாயம் வாக்களிப்பார்கள் என கருதுகிறேன்.
+
+மேலும் எமது கட்சியின் பாராளுமன்ற உறுப்பினர் வினோ நோகராதலிங்கம் பொது வேட்பாளர் விடயம் தொடர்பாக  எதிராக கூறும்  கருத்துக்கள் அது அவருடைய தனிப்பட்ட கருத்தாகும்.  எங்களுடைய கட்சி ஒரு ஜனநாயக ரீதியான கட்சியாகும். ஆகவே அது அவருடைய தனிப்பட்ட கருத்தாகும். எமது கட்சியினை பொறுத்தவரை ஒரு முடிவினை எடுத்துள்ளது.
+
+...
+
+[Data](articles/340e6ed8.json)
 
 ---
 
@@ -637,6 +655,22 @@ In relation to the steps to be taken aimed at resolving the ethnic problem of Sr
 [Data](articles/74fd0a41.json)
 
 [Extended Data](ext_articles/74fd0a41.ext.json)
+
+---
+
+### மக்கள் பிழையான தீர்மானம் எடுத்தால் பங்களாதேஷுக்கு ஏற்பட்டுள்ள நிலையே எமக்கும் ஏற்படும்  - அகிலவிராஜ்
+
+*2024-08-28 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/192229) · `ta`
+
+கோட்டாபய ராஜபக்ஷ்வுக்கு வாக்களித்து வெற்றிபெறச்செய்தால் நாடு நெருக்கடிகளுக்கு முகம்கொடுக்க நேரிடும் என  நாங்கள் அன்று மக்களுக்கு தெளிவுபடுத்தினோம். என்றாலும் மக்கள் எங்களை நம்பாததால் பாரிய நெருக்கடிக்கு எங்களுக்கு முகம்கொடுக்க நேரிட்டது.
+
+அதேபோன்று தற்போதும் ரணில் விக்ரமசிங்கவைத் தவிர வேறு யாருக்கு வாக்களித்தாலும் மீண்டும் சில மாதங்களில் நாட்டை கட்டியெழுப்ப ரணில் விக்ரமசிங்கவுக்கே முன்வரவேண்டி வரும். அதனால் மக்கள் பிழையான தீர்மானம் எடுத்தால் பங்களாதேஷுக்கு ஏற்பட்டுள்ள நிலையே எமக்கும் ஏற்படும் என ஐக்கிய தேசிய கட்சியின் உப தலைவர் அகிலவிராஜ் காரியவசம் தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் புதன்கிழமை (28) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/fdb76e3f.json)
 
 ---
 
@@ -2403,65 +2437,5 @@ The GDP has fallen to US $ 395 million in the late June last year.
 [Data](articles/6a4d219d.json)
 
 [Extended Data](ext_articles/6a4d219d.ext.json)
-
----
-
-### Elephant Sabri forgives
-
-*2024-08-28 12:48:48* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍ය-අලි-සබ්රි-සමාව-අයදියි/11-411606) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Egyptian Foreign Minister Ali Sabri apologizes for passport delays, promising expedited processing. He acknowledges past inefficiencies and vows better management.
-
-🟩
-
-Foreign Minister Ali Sabri said that the people who come to achieve foreign travel, External Aleppo, said, he said.
-
-I apologize as a government. This is because this is a new passport. We're trying to get it as soon as possible. That Lot is on October 16th. You have to control with. I agree that there was more management to do that. Sun as the Foreign Minister and a government representative for the uncomfortable people.
-
-◼️
-
-[Data](articles/6a6cee38.json)
-
-[Extended Data](ext_articles/6a6cee38.ext.json)
-
----
-
-### Take Passport by police tokens
-
-*2024-08-28 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200413) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka: External Affairs Minister apologizes for passport delays. Department of Immigration & Emigration aims to issue 1000 foreign passports daily. Queue formed outside head office due to high demand. Public advised to apply before October for new electronic passport.
-
-🟩
-
-External Affairs Minister Ali Shabling said he would apologize to the public as a government minister on the delay in issuing foreign passports.
-
-Meanwhile, Department of Immigration and Emigration says that steps will be taken to issue a thousand foreign passports daily from today.
-
-The demise office of the Department of Immigration and Emigration has stayed near several days as awaiting foreign passports.
-
-Steps were taken to grant the tokens to the people who stayed in many days.
-
-The queue was created in front of the Immigration and Emigration Department Head Office with the limitations of the department.
-
-The department requested the public to apply passports only on the basis of October until the new electronic passport is introduced.
-
-However, this morning, however, were present at the scene.
-
-In response to Ada Derana, the Department of Immigration and Emigration said that 1000 foreign passports have been issued daily.
-
-◼️
-
-[Data](articles/932d08ca.json)
-
-[Extended Data](ext_articles/932d08ca.ext.json)
 
 ---

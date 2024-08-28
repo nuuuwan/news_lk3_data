@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 08:56:12**
+As of **2024-08-28 09:08:27**
 
 ## Newspaper Stats
 
-*Scraped **42,984** Articles*
+*Scraped **42,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,90 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,594
 dailyftlk | 2,795
-adalk | 3,973
+adalk | 3,974
 dailymirrorlk | 4,733
-adaderanalk | 5,050
+adaderanalk | 5,052
 tamilmirrorlk | 5,604
 virakesarilk | 6,833
-adaderanasinhalalk | 7,362
+adaderanasinhalalk | 7,363
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,982 (100.0%) of 42,984 articles have been extended.
+42,984 (100.0%) of 42,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### இந்திய மீனவர்கள் கையளிப்பு
+### Notorious drug trafficker Shiran Basik’s son arrested at BIA
+
+*2024-08-28 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101557/notorious-drug-trafficker-shiran-basiks-son-arrested-at-bia-) · `en`
+
+Nadeen Basik, the son of alleged large-scale drug trafficker Shiran Basik, has been arrested at the Bandaranaike International Airport (BIA) in Katunayake today (28).
+
+The officers of the Police Special Task Force (STF) have arrested the suspect who had returned from Dubai, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/219e7eee.json)
+
+---
+
+### ශිරාන් බාෂික්ගේ පුතා අත්අඩංගුවට
+
+*2024-08-28 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200408) · `si`
+
+ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් වන ශිරාන් බාෂික් නැමැත්තාගේ පුතා වන නදීන් බාෂික් නැමැත්තා කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/3b858a88.json)
+
+---
+
+### Sun directly over northern parts of the island today
+
+*2024-08-28 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101556/sun-directly-over-northern-parts-of-the-island-today) · `en`
+
+The Department of Meteorology says that several spells of showers may occur in Northern province, while several spells of light showers may occur in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts today (28).
+
+Meanwhile, showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night, it added.
+
+Fairly strong winds about 30-40 kmph can be expected at times over Northern, North-central and North-western provinces and in Hambantota and Trincomalee districts.
+
+In the meantime, the Met. Department states that the sun is going to be directly over the latitudes of Sri Lanka during 28 August to 06 September due to its apparent southward relative motion.
+
+The nearest places of Sri Lanka over which the sun is overhead today at about 12.11 noon are Delf Island, Pooneryn, Thadduvankoddi and Chundikkulam.
+
+...
+
+[Data](articles/09e4cd47.json)
+
+---
+
+### Handing over Indian fishermen
 
 *2024-08-28 08:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-கையளிப்பு/175-342906) · `ta`
 
-கடலில் மூழ்கிய இந்திய மீன்பிடிப் படகில் இருந்து காப்பாற்றப்பட்ட இரண்டு இந்திய மீனவர்களும் நேற்று  இந்தியத் தூதரக அதிகாரிகளிடம் கையளிக்கப்படவுள்ளனர்.
+Indian fishermen rescue drowning incident summary: Two Indian fishermen died after being rescued by Sri Lanka Navy. Four fishermen stranded near Kachchativu; two saved, two drowned. Rescued pair handed over to police in Neduntivu. Drowned men to be returned to India via Jaffna embassy.
 
-தமிழகத்தின் இராமேஸ்வரத்தில் இருந்து மீன்பிடிக்கப் புறப்பட்ட ரோலர் விசைப்படகில் நான்கு மீனவர்கள் பயணித்தபோது இந்திய எல்லைக்குள் கச்சதீவுக்கு அண்மையாக நேற்று முன்தினம் விசைப்படகு உடைந்து கடலில் மூழ்கியுள்ளது.
+🟩
 
-அந்தப் படகில் இருந்த நான்கு மீனவர்களில் இரண்டு மீனவர்கள் கச்சதீவை அடைந்தபோது இருவரும் இலங்கைக் கடற்படையினரால் காப்பாற்றப்பட்டு யாழ். நெடுந்தீவுக்கு அழைத்து வரப்பட்டு பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+Two Indian fishermen who were rescued from the Indian fishing boat drowned in the sea will be handed over to the Indian embassy yesterday.
 
-குறித்த இரண்டு இந்திய மீனவர்களும் நேற்று குறிகட்டுவானுக்கு அழைத்துவரப்பட்டு இறங்குதுறையில் வைத்து யாழில் உள்ள இந்தியத் தூதரக அதிகாரிகளிடம் கையளிக்கப்படவுள்ளனர். (a)
+Four fishermen traveled in the Indian border yesterday and sank into the sea yesterday.
+
+Two of the four fishermen in the boat reached Kachchativu and the two were rescued by the Sri Lankan navy.. They have been brought to Neduntivu and handed over to the police.
+
+The two Indian fishermen will be brought to the Indigaratan yesterday and handed over to the Indian embassy in Jaffna.. (A)
 
 ◼️
 
 [Data](articles/50cc53ef.json)
+
+[Extended Data](ext_articles/50cc53ef.ext.json)
 
 ---
 
@@ -80,21 +132,27 @@ Those who claim to have reduced the taxes and make more concessions should be sa
 
 ---
 
-### බිරිඳගේ වියෝවයෙන් දුකින් සිටි අයෙක් ගත් හදිසි තීරණය
+### The sudden decision taken by a wife who was saddened by his wife's death
 
 *2024-08-28 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200407) · `si`
 
-සිය බිරිඳ මියයාම සම්බන්ධයෙන් සිත් තැවුලෙන් සිටි යාපනය, නාවට්කුලි ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු ඊයේ (27) සියදිවි නසාගෙන ඇති බව පොලීසිය පවසයි.
+A 72-year-old man from Nawalakuli, Jaffna, committed suicide due to grief over his wife's death one year prior.
 
-පොලීසිය පැවසූවේ යාපනය, නාවට්කුලි ප්‍රදේශයේ පදිංචි 72 හැවිරිදි මනුවෙල් සූසෙයිමුත්තු නමැති පුද්ගලයෙකු එලෙස සියදිවි හානිකරගෙන ඇති බවය.
+🟩
 
-මීට වසරකට පමණ පෙර අදාළ පුද්ගලයාගේ බිරිඳ අසනීප තත්ත්වයෙන් සිට මියගොස් ඇති අතර, බිරිඳ මියයාමෙන් අනතුරුව අදාළ පුද්ගලයා දැඩි සිත්තැවුලෙන් පසුවී ඇති බවද ප්‍රදේශවාසීන් පවසති.
+One person residing in the Nawalakuli, Jaffna, has committed suicide yesterday (27), police said.
 
-මියගිය පුද්ගලයාගේ මළ සිරුර පශ්චාත් මරණ පරීක්ෂණයන්ගෙන් අනතුරුව ඥාතීන් වෙත භාරදුන් බවද පොලීසිය සඳහන් කළේය.
+The police said that a 72-year-old Manuel Susemantu, a resident of Navatkuli, Jaffna has committed suicide.
+
+Residents say that the wife of the relevant person has died of illness about a year ago, and the wife has been severely disturbed after the death of his wife.
+
+The body of the deceased has been handed over to the relatives after the post mortem examination.
 
 ◼️
 
 [Data](articles/0f5a119f.json)
+
+[Extended Data](ext_articles/0f5a119f.ext.json)
 
 ---
 
@@ -1498,6 +1556,22 @@ The judge sentenced to four years sentenced to death for four years due to the a
 
 ---
 
+### චමුදිත සමරවික්‍රම ඝාතන සාකච්ඡාව ගැන විමර්ශන සී.අයි.ඩීයට
+
+*2024-08-27 19:22:17* · [`adalk`](https://www.ada.lk/breaking_news/චමුදිත-සමරවික්‍රම-ඝාතන-සාකච්ඡාව-ගැන-විමර්ශන-සී-අයි-ඩීයට/11-411597) · `si`
+
+මෙරටින් ඩුබායි රාජ්‍යයට පලා ගොස් සැඟව සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවන් පිරිසක් ප්‍රවීණ මාධ්‍යවේදී චමුදිත සමරවික්‍රම මහතා ඝාතනය කිරීම සඳහා සාකච්ඡා පවත්වා ඇතැයි කියන සිද්ධිය සම්බන්ධයෙන් විමර්ශන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් සිදු කරනු ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දුව මහතා පැවසීය
+
+ඒ සම්බන්ධයෙන් වූ පැමිණිල්ලක් ඉකුත්  23 වෙනිදින  චමුදිත සමරවික්‍රම මහතා විසින් පිළියන්දල පොලිසිය වෙත සිදු කිරීමෙන් අනතුරුව ඔහුගේ පැමිණිල්ලෙන් අනාවරණය කළ පරිදි  ජාවාරම්කරුවන් සිදුකළ සාකච්ඡාව සම්බන්ධයෙන් වීඩියෝවක් නිකුත් කරමින් අනාවරණය කළ දූෂණ විරෝධී බලකායේ මෙහෙයුම් අධ්‍යක්ෂක නාමල් කුමාර මහතාව ඉකුත්  24 වෙනිදින පිළියන්දල පොලිසිය වෙත කැඳවා පැය තුනකට ආසන්න කාලයක් ප්‍රකාශයක් ලබා ගැනීමට පිළියන්දල පොලිසිය මගින් කටයුතු කර තිබිණි.
+
+එලෙස ප්‍රකාශ ලබා ගැනීමට කටයුතු කර තිබුණේ නාමල් කුමාර මහතා එම වීඩියෝ හරහා අවශ්‍ය ඕනෑම මොහොතක ඒ සම්බන්ධයෙන් වූ තොරතුරු මෙරට ආරක්ෂක අංශ වෙත ලබාදීමට තමන් සූදානමින් සිටින බවට  ඔහු ප්‍රකාශ කර ඇති බවට චමුදිත මහතා පැමිණිල්ලේ වැඩිදුරටත් සඳහන් කිරීම පදනම් කරගෙනය.
+
+...
+
+[Data](articles/68b85604.json)
+
+---
+
 ### MPs to give 2 firearm
 
 *2024-08-27 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200395) · `si`
@@ -2271,123 +2345,5 @@ Speaking at a rally in Trincomalee, Premadasa outlined his vision for governance
 [Data](articles/07ce9285.json)
 
 [Extended Data](ext_articles/07ce9285.ext.json)
-
----
-
-### President's policy statement Thursday
-
-*2024-08-27 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200390) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-President Ranil Wickremesinghe's policy statement launches Thursday. Focuses on Sri Lanka's future, addressing bankruptcy through initiatives. Aims to unite communities. Scheduled alongside UPFA statement release.
-
-🟩
-
-President Ranil Wickremesinghe's statement of President Ranil Wickremesinghe is launched to launch Thursday (29).
-
-The policy statement has been prepared based on the theme of Sri Lanka.
-
-The key to the bankruptcy of the country is setting up the initiative and maintaining the "Sri Lanka 'policy statement.
-
-A senior spokesman for a major purpose of building a better country to all communities in Sri Lanka, a senior government spokesman said.
-
-The President's policy statement is focusing on the other ahead of the Sri Lanka Methods of History.
-
-Meanwhile, the procedure statement of the UPFA is scheduled to be released on the other (29).
-
-Siglier Vice President of the Agreement and Hon.
-
-◼️
-
-[Data](articles/07870611.json)
-
-[Extended Data](ext_articles/07870611.ext.json)
-
----
-
-### "Did the pain of burning the Janasas cool Alizabri's power?" - Rishad in Samanthurai!
-
-*2024-08-27 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/192135) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lankan politician Rishad Bathiudeen urges Muslim unity to support Ranil Wickremesinghe, criticizes Minister Alisabri for joining forces with "tyrannical" groups, and promotes Sajith Premadasa as a better alternative.
-
-🟩
-
-All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen said that Muslims should unite to defend Ranil, who protected the crowd in the shade of the tyrannical quota.
-
-“The upcoming presidential election is closely observed in the South. The majority of the people are ready to defeat the gang that made politics a family property and the country's economy. Therefore, minority communities must unite in this regard.
-
-As agents of chauvinists, a few people here are worried. The people of the East are united, and they are trying to deceive not only South Sri Lanka but the entire country.
-
-The magic tricks they show do not benefit the money and get people on buses. If one is given five thousand rupees, calculate how much money they have robbed.
-
-...
-
-[Data](articles/b21e22ce.json)
-
-[Extended Data](ext_articles/b21e22ce.ext.json)
-
----
-
-### 50 TB patients found in Kandy
-
-*2024-08-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200389) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Kandy: 50 TB cases identified Jan-present. Not dengue. Dengue focus shifted after 6 months. TB often misdiagnosed due to cough. Public awareness needed.
-
-🟩
-
-The Kandy Urban Medicine Officer Pasada Jayasinghe says that 50 TB patients were identified from January to this year.
-
-He said that the threat of major infectious disease threatening is not the dengue.
-
-The Kandy Chief Urban Medicine Dr. Jayasinghe said that the identification and treatment of dengue patients was identified for six months, he said.
-
-Dr. Jayasinghe further stated that the disease is not treated directly to tuberculosis, which is often disregarded by the prevalence of the frequent cough, the disease.
-
-The masses should be aware of the general condition of the Trincomalee town, as the people should be aware of as possible.
-
-◼️
-
-[Data](articles/7341b1a0.json)
-
-[Extended Data](ext_articles/7341b1a0.ext.json)
-
----
-
-### 4 times drowning love: fifth time dropped
-
-*2024-08-27 16:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-முறை-மூழ்கிய-காதல்-ஐந்தாவது-முறை-துளிர்ந்தது/175-342874) · `ta`
-
-Young man jumps into well five times for love, rescued by fire department.
-
-🟩
-
-There is no eye for love, but it is not the eyes that look at the ongoing events.
-
-When the relatives refused to marry the beloved woman, the young man who escaped 4 times in a nearby agricultural well was trapped when he jumped upon the 5th time.. The incident took place near Edappadi in Salem district in India.
-
-Vijay, who is a romantic warrior who has jumped into the well where he went to honor his love
-
-Vijay, son of Muniyappan from Kunjandiyoor near Mettur in Salem district, has been in love with a college student from Balapatti for the past two years. Vijay, who was looking for a girlfriend's house while intoxicated on the day of the incident, asked her girlfriend's girlfriend.
-
-They are said to have called for a girlfriend to marry because they were beaten. Angered by his parents, Vijay jumped into a nearby agricultural well claiming that he would die life.. Vijay has climbed up when the girlfriend cried
-
-...
-
-[Data](articles/eb85ff3d.json)
-
-[Extended Data](ext_articles/eb85ff3d.ext.json)
 
 ---

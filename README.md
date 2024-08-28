@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 01:59:10**
+As of **2024-08-29 01:37:17**
 
 ## Newspaper Stats
 
@@ -26,35 +26,27 @@ adaderanasinhalalk | 7,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,109 (100.0%) of 43,109 articles have been extended.
+43,106 (100.0%) of 43,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
 
-### Individuals cannot claim the rights
+### ’தனிநபர்கள் உரிமை கொண்டாட முடியாது’
 
 *2024-08-29 01:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிநபர்கள்-உரிமை-கொண்டாட-முடியாது/175-342946) · `ta`
 
-Tamil Progressive Alliance Mano Ganesan announces no individual rights claimable. Challenges in political representation. Appointments made for Kandy District roles.
+கண்டி மாவட்ட தமிழ் பாராளுமன்ற பிரதிநிதித்துவம், நமது கட்சி போராடி பெற்றுக்கொண்ட கண்டி மாவட்ட தமிழ் மக்களுக்கு உரிய கெளரவமாகும். இதை தனிப்பட்ட நபர்கள் எவரும் பறித்து உரிமை கொண்டாட முடியாது என தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் எம்பி அறிவித்துள்ளார்.
 
-🟩
+அரசியல் வழி பாதையில் நாம் சந்தித்த எத்தனையோ சவால்களில் இது மிகவும் சிறிய ஒரு சம்பவமாகும்.  ஆனால், கண்டி மாவட்ட தமிழர்களின் தேசிய மட்ட, மாகாண மட்ட, உள்ளூராட்சி மட்ட பிரதிநிதித்துவங்கள் என்பன விலை மதிக்க முடியாதவர்கள் அவர்கள், கண்டி மாவட்ட மக்களின் உரிமை கோஷங்கள். இந்த கோஷங்களை நாம் தொடர்ந்து முன் கொண்டு செல்வோம்.
 
-Representation of the Tamil Parliament of Kandy District. The leader of the Tamil Progressive Alliance Mano Ganesan has announced that none of the individuals can take the right.
+ஜனநாயக மக்கள் முன்னணியின் கண்டி மாவட்ட கட்சி பணியாளர் நியமனங்களை வழங்கியதன் பின்னர் உரையாற்றும் போதே மேற்கண்டவாறு  மனோ கணேசன் அறிவித்துள்ளார்.
 
-This is one of the many challenges we have faced on the political path.But the national level, provincial level and local government representations of the Tamils ​​of Kandy District are the ones who are not worth it.. We will continue to carry these slogans.
-
-Mano Ganesan has announced this while addressing the gathering of the Kandy District Party's employees of the Democratic People's Front.
-
-Accordingly, Kandy District Organizer M. Wickeswaran, District Secretary Gulendran Ganesan, District Treasurer. Krishnakumar, District Executive Member. K. Vinod has been appointed party employees.
-
-Political Committee member of the Democratic People's Front Gampaha District Organizer S. Sasi Kumar has been appointed as the Coordinator for the Kandy District.
+இதன்படி, கண்டி மாவட்ட அமைப்பாளர் எம். விக்கினேஸ்வரன், மாவட்ட செயலாளர் குலேந்திரன் கணேசன், மாவட்ட பொருளாளர் எம். கிருஸ்ணகுமார், மாவட்ட செயற்குழு உறுப்பினர் எம். கே. வினோத் ஆகியோர் கட்சி பணியாளர்களாக நியமிக்கப்பட்டுள்ளனர்.
 
 ...
 
 [Data](articles/9c0fdf05.json)
-
-[Extended Data](ext_articles/9c0fdf05.ext.json)
 
 ---
 
@@ -254,8 +246,6 @@ Public Private Partnerships (PPP) are long-term agreements between the public an
 
 [Data](articles/d2b51aee.json)
 
-[Extended Data](ext_articles/d2b51aee.ext.json)
-
 ---
 
 ### Election?
@@ -368,31 +358,21 @@ The organization has requested that the current resolution should be updated to 
 
 ---
 
-### President Ranil Wickremesinghe is not a liar - Minister Prasanna Ranatunga
+### ஜனாதிபதி ரணில் விக்கிரமசிங்க பொய் சொல்லும் தலைவர் அல்ல - அமைச்சர் பிரசன்ன ரணதுங்க
 
 *2024-08-28 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/192244) · `ta`
 
-Here's a 200-character summary:
+நாட்டின் எதிர்கால சந்ததியினருக்கு ஒளிமயமான நாளை உருவாக்க ஜனாதிபதி ரணில் விக்கிரமசிங்க பயணிக்கும் இந்த கடினமான பொருளாதார பாதையில் இன்னும் கொஞ்சம் தூரத்திற்கு செல்ல வேண்டும் என ஆளும் கட்சியின் பிரதம கொறடாவும் நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
 
+இந்தப் பொருளாதாரப் போக்கை மாற்றினால், கடந்த காலத்தை விட அதிக சிரமங்களை நாம் சந்திக்க நேரிடும் என அமைச்சர் வலியுறுத்துகிறார்.
 
+உடுகம்பொல பிரதேசத்தில் நேற்று புதன்கிழமை  (27) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்ட அமைச்சர் பிரசன்ன ரணதுங்க இதனைக் குறிப்பிட்டுள்ளார்.
 
-President Ranil Wickremesinghe faces criticism over economic policies. Minister Prasanna Ranatunga defends him, saying changing course could worsen conditions. Opposition leaders are accused of lying and lacking economic knowledge. The government maintains IMF involvement is necessary for debt restructuring.
-
-🟩
-
-President Ranil Wickremesinghe, who is traveling to create a bright tomorrow for the future generations of the country, has to go a little further on this difficult economic path, said the ruling party's chief corrupt and city development and housing minister Prasanna Ranatunga.
-
-The Minister emphasizes that if this economic course is changed, we will face more difficulties than the past.
-
-Minister Prasanna Ranatunga, who attended a public meeting held in Udugampola yesterday (27).
-
-The President has publicly called on the Opposition Leader and Anura Kumara Dissanayake to come up with the International Monetary Fund to discuss the debt restructuring program that is currently being implemented in our country.. Both are capable of speaking. So we thought they would accept this challenge.
+எமது நாட்டில் தற்போது நடைமுறைப்படுத்தப்பட்டுள்ள கடன் மறுசீரமைப்பு வேலைத்திட்டம் தொடர்பில் சர்வதேச நாணய நிதியத்துடன் பகிரங்க விவாதத்திற்கு வருமாறு எதிர்க்கட்சித் தலைவர் மற்றும்  அனுரகுமார திஸாநாயக்க ஆகியோருக்கு ஜனாதிபதி பகிரங்க அழைப்பு விடுத்தார். இருவருமே கதைப்பதில் வல்லவர்கள். எனவே குதித்து இந்த சவாலை ஏற்றுக்கொள்வார்கள் என்று நாங்கள்  நினைத்தோம்.
 
 ...
 
 [Data](articles/beadb55e.json)
-
-[Extended Data](ext_articles/beadb55e.ext.json)
 
 ---
 

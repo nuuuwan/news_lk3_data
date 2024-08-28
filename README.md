@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 10:09:18**
+As of **2024-08-28 10:21:39**
 
 ## Newspaper Stats
 
-*Scraped **42,992** Articles*
+*Scraped **42,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,594
 dailyftlk | 2,795
 adalk | 3,975
 dailymirrorlk | 4,733
-adaderanalk | 5,053
-tamilmirrorlk | 5,605
+adaderanalk | 5,054
+tamilmirrorlk | 5,606
 virakesarilk | 6,833
-adaderanasinhalalk | 7,363
+adaderanasinhalalk | 7,364
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-42,991 (100.0%) of 42,992 articles have been extended.
+42,992 (100.0%) of 42,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### නෙත්තමළුව රක්ෂිතයේ ගින්නක් - අක්කර ගණනක් විනාශයි
+
+*2024-08-28 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200409) · `si`
+
+වැල්ලවාය, නෙත්තමළුව රක්ෂිතයේ විශාල ගින්නක් හට ගෙන ඇති අතර ඉන් අක්කර විස්සකට අධික භූමි ප්‍රදේශයක් සම්පූර්ණයෙන් විනාශ වී තිබේ.
+
+වැල්ලවාය ප්‍රාදේශීය ලේකම් කොට්ඨාසයට අයත් නෙත්තමළුව කඳු රක්ෂිතයේ ඊයේ (27) පස්වරුවේ දී මෙම ගින්න හටගෙන තිබුණි.
+
+ගින්න ඊයේ රාත්‍රී කාලය පුරාවටම කඳු රක්ෂිතයේ වේගයෙන් පැතිර ගොස් ඇත.
+
+මෙම දිනවල එම ප්‍රදේශයට පවතින දැඩි වියළි කාලගුණය සහ සුළං තත්ත්වය හේතුවෙන් වරින් වර නෙත්තමළුව රක්ෂිතයේ ගිනි ගැනීම් සිදුව ඇති අතර ගින්න පැතිරයෑමට ද එය හේතුවී තිබේ.
+
+හරිත වර්ණයෙන් ස්වයංපෝෂිත සංවේදී පරිසර පද්ධතියක මෙම ගින්න පැතිර ගොස් ඇති අතර අද (28) අලුයම වන විට ගින්න පාලනය කර තිබූ නමුත් තැනින් තැන තවමත් ගිනිගැනීම් දක්නට ලැබෙන බව "අද දෙරණ" වාර්තාකරු සඳහන් කරයි.
+
+◼️
+
+[Data](articles/fe83b240.json)
+
+---
+
+### Ukraine’s Zelenskiy to present plan to Biden to end war with Russia
+
+*2024-08-28 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101559/ukraines-zelenskiy-to-present-plan-to-biden-to-end-war-with-russia) · `en`
+
+Ukraine’s Volodymyr Zelenskiy said on Tuesday that the war with Russia would eventually end in dialogue, but that Kyiv had to be in a strong position and that he would present a plan to U.S. President Joe Biden and his two potential successors.
+
+The Ukrainian leader, addressing a news conference, said Kyiv’s three-week-old incursion into Russia’s Kursk region was part of that plan, but that it also comprised other steps on the economic and diplomatic fronts.
+
+“The main point of this plan is to force Russia to end the war. And I want that very much - (that it would be) fair for Ukraine,” he told reporters in Kyiv of the war launched by Russia’s full-scale invasion in February 2022.
+
+He did not elaborate further on the next steps, but said he would also discuss the plan with Democratic Vice President Kamala Harris and probably also with Republican Donald Trump, the two nominees for the U.S. presidential election
+
+...
+
+[Data](articles/938f77db.json)
+
+---
+
+### பிரபல போதைப்பொருள் வியாபாரியின் மகன் கைது
+
+*2024-08-28 09:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-போதைப்பொருள்-வியாபாரியின்-மகன்-கைது/175-342908) · `ta`
+
+பிரபல போதைப்பொருள் வியாபாரியான ஷிரான் பாஷிக்கின் மகன் நதீன் பாஷிக் கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+இவர் நேற்று (27) இரவு டுபாயில் இருந்து நாடு திரும்பிய நிலையில் கைது செய்யப்பட்டுள்ளார் என தெரிவிக்கப்படுகின்றது.. R
+
+◼️
+
+[Data](articles/8af63f0e.json)
+
+---
 
 ### World Junior Athletics Championship: Sri Lanka’s Merone Wijesinghe qualifies for 100m semi-final
 
@@ -2066,6 +2118,8 @@ urope, where the newly resurgent far-right is making inroads to power.
 
 [Data](articles/72be5f39.json)
 
+[Extended Data](ext_articles/72be5f39.ext.json)
+
 ---
 
 ### Suspended to the Grama Niladhari who took bribe
@@ -2311,63 +2365,5 @@ Preliminary investigations by the police revealed that the iron garbage basket w
 [Data](articles/e2a2fb35.json)
 
 [Extended Data](ext_articles/e2a2fb35.ext.json)
-
----
-
-### Sri Lanka hikes fertilizer subsidy to small paddy farmers ahead of polls
-
-*2024-08-27 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-hikes-fertilizer-subsidy-to-small-paddy-farmers-ahead-of-polls-178160/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved raising a fertilizer subsidy to small paddy farmers to 25,000 rupees an acre from an earlier planned 15,000 rupees, Minister Bandula Gunawardana said.
-
-Agricultural Minister Mahinda Amaraweera had requested that a higher amount be paid to help start the upcoming Maha (main) cultivation season, he said.
-
-The money will be credited directly to bank accounts of farmers, he said.
-
-The cabinet earlier this month decided to pay 15,000 rupees per acre for up to two acres for small paddy farmers for the current cultivation season. (Colombo/Aug27/2024)
-
-◼️
-
-[Data](articles/e518391e.json)
-
-[Extended Data](ext_articles/e518391e.ext.json)
-
----
-
-### Talk tomorrow regarding the election
-
-*2024-08-27 16:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பாக-நாளை-பேச்சு/175-342877) · `ta`
-
-Elections Commission denies cancelling nominations for local government polls. Will discuss election date on Wednesday.
-
-🟩
-
-The Elections Commission said they do not have the authority to cancel the nominations for the local government elections.
-
-Also, the Commission will discuss the holding of the local government elections on Wednesday (28).. Ratnayake said.
-
-◼️
-
-[Data](articles/5c491fa2.json)
-
-[Extended Data](ext_articles/5c491fa2.ext.json)
-
----
-
-### UN Report Details Sri Lanka’s Dire Rights Situation: UNHRC Should Renew Monitoring, Evidence Collection
-
-*2024-08-27 16:46:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/un-report-details-sri-lankas-dire-rights-situation-unhrc-should-renew-monitoring-evidence-collection/) · `en`
-
-The Sri Lankan government has been trying to persuade international partners of its achievements in reforming the economy and protecting human rights.
-
-However, a new report by the United Nations high commissioner for human rights warns that Sri Lanka is facing renewed threats to fundamental freedoms. It finds that authorities have sought new repressive laws and engaged in intimidation and violence against victims of past abuses, civil society activists, journalists, and government critics.
-
-The government denies responsibility for grave abuses during Sri Lanka’s 1983-2006 civil war. “This entrenched impunity has also manifested itself in the corruption, abuse of power and governance failures that were among the root causes of the country’s recent economic crisis,” the report says.
-
-...
-
-[Data](articles/4d367816.json)
-
-[Extended Data](ext_articles/4d367816.ext.json)
 
 ---

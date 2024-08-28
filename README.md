@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 20:37:22**
+As of **2024-08-28 20:56:30**
 
 ## Newspaper Stats
 
-*Scraped **43,088** Articles*
+*Scraped **43,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,607
 dailyftlk | 2,795
-adalk | 3,986
+adalk | 3,987
 dailymirrorlk | 4,733
-adaderanalk | 5,069
+adaderanalk | 5,070
 tamilmirrorlk | 5,617
 virakesarilk | 6,851
 adaderanasinhalalk | 7,386
@@ -26,33 +26,57 @@ adaderanasinhalalk | 7,386
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,086 (100.0%) of 43,088 articles have been extended.
+43,088 (100.0%) of 43,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
 
-### පාස්පෝට් තදබදය තාවකාලිකව විසඳෙයි
+### Namal criticizes unjust taxes, pledges economic revival
+
+*2024-08-28 20:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101576/namal-criticizes-unjust-taxes-pledges-economic-revival) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) presidential candidate Namal Rajapaksa affirmed his commitment to developing the nation’s economy while ensuring the welfare of the general public is not overlooked.
+
+Addressing a constituency meeting held in Mawathagama, Rajapaksa emphasized the SLPP’s consistent track record of making decisions in the ‘best interest’ of the country. “We have never taken a political decision that is harmful to the country. I think the responsibility and challenge that I have is how to take the country forward from where President Mahinda Rajapaksa stopped the development of this country.”
+
+...
+
+[Data](articles/8a397746.json)
+
+---
+
+### Passport congestion temporarily solves
 
 *2024-08-28 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200433) · `si`
 
-විදෙස් ගමන් බලපත්‍ර නිකුත් කිරීමේ ප්‍රමාදය හේතුවෙන් ආගමන හා විගමන දෙපාර්තමේන්තු පරිශ්‍රය අවට දින කිහිපයක් මුළුල්ලේ දිගු පෝලිම් දක්නට ලැබුණි.
+Immigration Department resolves passport backlog: 1000 daily issues, 750 domestic, 250 international. New electronic passport introduced. Public urged to apply only for essential reasons. Token system implemented for foreign passport applications.
 
-දෙපාර්තමේන්තුව සතු හිස් විදෙස් ගමන් බලපත්‍ර සීමිත බැවින් බලපත්‍ර නිකුත් කිරීම සීමාවීමත් සමග මෙම තත්ත්වය නිර්මාණය විය.
+🟩
 
-කෙසේවෙතත් දිනකට බලපත් 1,000ක් නිකුත් කිරීමට බලධාරීන් අද (28) සිට පියවර ගත්තේය.
+The delay in issuing foreign passports has been seen throughout the Department of Immigration and Emigration.
 
-ඒ පැමිණෙන පිළිවෙළ අනුව ගමන් බලපත්‍ර 750ක් සහ විදෙස් රටවල සිට ඉල්ලුම් කරන අය සඳහා 250ක් ලෙසය.
+The situation was created with the limitations of licensing as the department was limited.
 
-නව ඉලෙක්ට්‍රොනික විදේශ ගමන් බලපත්‍රය හඳුන්වාදෙන තෙක් ඔක්තෝබර් මාසය දක්වා මෙම තත්ත්වය පවතිනු ඇති බැවින් අත්‍යවශ්‍යම හේතුවක් මත පමණක් විදේශ ගමන් බලපත්‍ර අයදුම් කරන ලෙස දෙපාර්තමේන්තුව මහජනතාවගෙන් ඉල්ලීමක්ද සිදු කළේය.
+However, the authorities have taken steps to issue 1,000 permits daily.
 
-මෙවන් පසුබිමක නව විදෙස් ගමන් බලපත්‍ර ලබාගැනීමේ අරමුණෙන් ආගමන විගමන ප්‍රධාන කාර්යාලය අසල රැඳී සිටින පිරිස් ඊයේ (27) රාත්‍රිය ද එම ස්ථානයේම ගත කර තිබුණි.
+According to the coming, 750 passports and 250 for those who apply for foreign countries.
 
-පසුව පොලීසියේ ද මැදිහත්වීමෙන් මෙලෙස රැඳීසිටින පිරිස් වෙත ටෝකන් අංක ලබාදීමට ඊයේ රාත්‍රියේ පියවර ගෙන තිබුණි.
+The department requested the public to apply passports only for the essential reason, as the new electronic passport was introduced.
+
+The Immigration of Emigration Head Office had also been on the same location with the objective of obtaining new foreign passports in this backdrop.
+
+Steps were taken to give tokens last night to the people who stayed in this regard by mediation.
+
+"3 days were firm for this. Really happy about today's day. There was no problem. Today, it was in order to do. "
+
+According to the token system, the next few days will be reserved for the purpose of obtaining new foreign passports.
 
 ...
 
 [Data](articles/23a80eb4.json)
+
+[Extended Data](ext_articles/23a80eb4.ext.json)
 
 ---
 
@@ -78,15 +102,25 @@ However, the latest queue outside the Department of Immigration and Emigration c
 
 ---
 
-### தலதாவின் இடத்திற்கு  கருணாரத்ன பரணவிதான
+### Karunaratne Paranavitha
 
 *2024-08-28 19:57:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவின்-இடத்திற்கு-கருணாரத்ன-பரணவிதான/175-342929) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரல தமது பதவியை இராஜினாமா செய்ததன் மூலம் வெற்றிடமாக இருந்த பாராளுமன்ற உறுப்பினர் பதவிக்கு, கருணாரத்ன பரணவிதானவின் பெயரை தேர்தல்கள் ஆணைக்குழு வர்த்தமானியில் வெளியிட்டுள்ளது. R
+Here's a summary of the text in 200 characters:
+
+
+
+Karunaratne Paranavidhana named as replacement for Ratnapura district parliament seat after Dalada Athukorala resigned.
+
+🟩
+
+The Elections Commission has released the name of Karunaratne Paranavidhana for the vacancy of the United People's Power Ratnapura District Parliamentarian Dalada Athukorala resigning his post.. Remble
 
 ◼️
 
 [Data](articles/770b37c8.json)
+
+[Extended Data](ext_articles/770b37c8.ext.json)
 
 ---
 
@@ -295,6 +329,26 @@ General Secretary of the Ulama Council Ash -Sheikh Akram Nooramid, Treasurer Ash
 [Data](articles/facd048a.json)
 
 [Extended Data](ext_articles/facd048a.ext.json)
+
+---
+
+### පෙම් හබයක් නිසා පාසල් සිසුවෙකුට පිහියකින් පහරදෙයි
+
+*2024-08-28 18:40:49* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්-හබයක්-නිසා-පාසල්-සිසුවෙකුට-පිහියකින්-පහරදෙයි/11-411614) · `si`
+
+පාසැල් නිමවි නිවෙස් බලා යමින් සිටි පාසලක සිසුවෙකුට පිරිසක් විසින් පිහියකින් ඇනිම නිසා සිදුවු තුවාල හේතුවෙන් පේරාදෙණිය ශික්ෂන රෝහලට ඇතුලත්  කල බව කඩුගන්නාව පොලිසිය පවසයි.
+
+පිලිමතලාව ප්‍රෙද්ශයේම පදිංචි මෙම සිසුවා 11 ශේණියේ ඉගෙනුම ලබන බවත් අද (28) පස්වරුවේ පැසැල ඇරි නිවෙස බලා යමින් සිටියදි පිළිමතලාව දුම්රිය ස්ථානය අසලදි මෙම සැකකරුවන් විසින් පිහියකින්  ඇන ඇති බවද පොලිසිය පවසයි.
+
+තුවාල ලැබු සිසුවා එම ස්ථානයේ සිටි පිරිස් විසින් පේරාදෙණිය රෝහලට ඇතුලත් කිරිමට පියවර ගෙන තිබු අතර එහිදි සිසුවාට සැත්කමක් සිිිිිදුකරක ඇති බවද රෝහල් ආරංචි මාර්ග පැවසිය.
+
+අත්අඩංගුවට ග් සැකකරුවන් එම පාසලේම පාසැල් අධ්‍යාපනය නිම කල සිසුන් තිදෙනෙකු බවත් පිහියෙන් ඇනිම සිදුකල අය අතර සහෝදරයන් දෙදෙනෙකුද සිටින බව පොලිසිය පවසයි.
+
+පෙම් හබයක් නිසා හටගත් බහින්බස්විමක් නිසා මෙම පිහි ඇනිම සිදු කර ඇති බව පොලිස් පරික්ෂණවලදී තහවුරු වි ඇති බවත් පිහියෙන් ඇනිම සිදුකල සැකකරුවන් අත්අඩංගුවට ගැනිමට ගම්වාසින්ද උද් කල බව දවුලගල පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/5c42a0f8.json)
 
 ---
 
@@ -2453,59 +2507,5 @@ Those who claim to have reduced the taxes and make more concessions should be sa
 [Data](articles/4a8d35b9.json)
 
 [Extended Data](ext_articles/4a8d35b9.ext.json)
-
----
-
-### Model tax reduction is dangerous
-
-*2024-08-28 08:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வரி-குறைப்பு-அபாயகரமானது/150-342905) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-President Wickremesinghe warns against tax cuts, saying they're dangerous without alternative revenue sources. He criticizes opponents' math skills, claiming they don't understand basic economics.
-
-🟩
-
-President Ranil Wickremesinghe said that it is very dangerous to pay taxes.
-
-He was speaking at a public meeting held yesterday in the Mawanella area.. As he further stated,
-
-Some are promoting tax cuts.How can the country be forwarded without alternative taxes. They say to break the bridge and travel. If the bridge breaks and travels, everyone will fall into the river.
-
-If implementing the projects in the manifesto of the National People's Power, the country will not have about 200 billion rupees.
-
-Those who claim to have reduced the taxes and make more concessions should be said that they do not even know the basic mathematics. (A)
-
-◼️
-
-[Data](articles/ddb84948.json)
-
-[Extended Data](ext_articles/ddb84948.ext.json)
-
----
-
-### The sudden decision taken by a wife who was saddened by his wife's death
-
-*2024-08-28 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200407) · `si`
-
-A 72-year-old man from Nawalakuli, Jaffna, committed suicide due to grief over his wife's death one year prior.
-
-🟩
-
-One person residing in the Nawalakuli, Jaffna, has committed suicide yesterday (27), police said.
-
-The police said that a 72-year-old Manuel Susemantu, a resident of Navatkuli, Jaffna has committed suicide.
-
-Residents say that the wife of the relevant person has died of illness about a year ago, and the wife has been severely disturbed after the death of his wife.
-
-The body of the deceased has been handed over to the relatives after the post mortem examination.
-
-◼️
-
-[Data](articles/0f5a119f.json)
-
-[Extended Data](ext_articles/0f5a119f.ext.json)
 
 ---

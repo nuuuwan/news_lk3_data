@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-28 22:37:03**
+As of **2024-08-28 22:55:02**
 
 ## Newspaper Stats
 
-*Scraped **43,097** Articles*
+*Scraped **43,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,071
 tamilmirrorlk | 5,618
 virakesarilk | 6,852
-adaderanasinhalalk | 7,389
+adaderanasinhalalk | 7,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,097 (100.0%) of 43,097 articles have been extended.
+43,098 (100.0%) of 43,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-28 (Wednesday)
+
+### Election?
+
+*2024-08-28 22:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200437) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Supreme Court ruling allows Elections Commission to proceed with planning next local government election. Commissioner General says no date set yet, aiming to avoid conflicts with other elections.
+
+🟩
+
+The Elections Commission met with the Supreme Court decision regarding the local government election this morning.
+
+Commissioner General of Elections Saman Sri Ratnayake said,
+
+"With the judicial decision we have to work next local government election. It was discussed today about doing so in a way that would not hinder other elections. No date yet has been discussed. "
+
+◼️
+
+[Data](articles/57414afe.json)
+
+[Extended Data](ext_articles/57414afe.ext.json)
+
+---
 
 ### Anura Kumara vows to eradicate drugs and organized crime under NPP govt.
 
@@ -2507,35 +2533,5 @@ Those mothers and sisters are engaged in economic activities with the attention 
 [Data](articles/2e0eb52a.json)
 
 [Extended Data](ext_articles/2e0eb52a.ext.json)
-
----
-
-### By making false promises through election manifesto, it can provide permanent relief to the people by strengthening the country's economy.
-
-*2024-08-28 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/192183) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-President Ranil Wickremesinghe emphasizes economic growth, criticizes opponents' promises, outlines 5-year development plan, and urges voters to support him for another term.
-
-🟩
-
-President Ranil Wickremesinghe stressed that it could only do it by strengthening the economy, saying that the people would not be able to provide relief because of fake promises in the election declarations.
-
-Pointing out that there is a five -year plan for the country's economic development, the President promised to implement the project and establish the economy and reduce the cost of food and reduce the tax burden of the people.
-
-President Ranil Wickremesinghe made this statement at the "Ceylon Sri Lanka" public meeting held at the Marathukoda Ground in Poojapitiya, Kandy on Tuesday (27).
-
-The people were welcomed by President Ranil Wickremesinghe, who attended the meeting organized by Kandy district parliamentarian Gunathilaka Rajapaksa.
-
-'' I accepted the country that reached the bank. Then the array age and fertilizer shortage and the shortage of essential commodities could be seen. But today there is an environment where there is no shortage.
-
-...
-
-[Data](articles/9bb6081b.json)
-
-[Extended Data](ext_articles/9bb6081b.ext.json)
 
 ---

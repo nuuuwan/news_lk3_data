@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 10:09:27**
+As of **2024-08-29 10:21:34**
 
 ## Newspaper Stats
 
-*Scraped **43,168** Articles*
+*Scraped **43,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 415
 islandlk | 2,516
 economynextcom | 2,607
 dailyftlk | 2,809
-adalk | 3,992
+adalk | 3,993
 dailymirrorlk | 4,733
 adaderanalk | 5,077
 tamilmirrorlk | 5,630
@@ -26,67 +26,103 @@ adaderanasinhalalk | 7,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,163 (100.0%) of 43,168 articles have been extended.
+43,168 (100.0%) of 43,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
 
-### ජනපති රනිල්ගේ ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීම
+### Launching of Ranil's policy statement
 
 *2024-08-29 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200455) · `si`
 
-ස්වාධීන අපේක්ෂකයෙකු ලෙස මෙවර ජනාධිපතිවරණයට ඉදිරිපත්ව සිටින ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීමේ උත්සවය මේ වනවිට ආරම්භ කර තිබේ.
+Here's a summary of 200 characters:
 
-කොළඹ ටාජ් සමුද්‍රා හෝටලයේ දී එම උත්සවය පැවැත්වෙන අතර එහි සජීවි විකාශය පහතින් දැක්වේ.
 
-"රනිල් සමග රට දිනවන වසර 5ක්" යන තේමාව ප්‍රතිපත්ති ප්‍රකාශය නම් කර තිබේ.
+
+President Ranil Wickremesinghe launches policy statement at Taj Samudra Hotel, Colombo. "Country with Ranil" slogan introduced during presidential election campaign.
+
+🟩
+
+The ceremony was launched by President Ranil Wickremesinghe's policy statement from the Presidential Election as an independent candidate.
+
+The ceremony will be held at the Taj Samudra Hotel, Colombo.
+
+"The policy statement called for the 'country with Ranil' has been named the policy statement.
 
 ◼️
 
 [Data](articles/96212bbb.json)
 
+[Extended Data](ext_articles/96212bbb.ext.json)
+
 ---
 
-### වව්නියාවේ පාස්පෝට් කන්තෝරුව අසල උණුසුම් තත්ත්වයක්
+### A warm situation near the passport kantomy in Vavuniya
 
 *2024-08-29 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200454) · `si`
 
-ආගමන විගමන දෙපාර්තමේන්තු වව්නියාව ප්‍රාදේශීය කාර්යාලය ඉදිරිපිට උණුසුම් තත්ත්වයක් හටගෙන ඇති බව වාර්තා වේ.
+Here's a summary of the text in 200 characters:
+
+
+
+Department of Immigration and Emigration present outside Vavuniya Regional Office.
+
+🟩
+
+It is reported that the Department of Immigration and Emigration has been in front of the Vavuniya Regional Office.
 
 ◼️
 
 [Data](articles/10b33d30.json)
 
+[Extended Data](ext_articles/10b33d30.ext.json)
+
 ---
 
-### ක්ලබ් වසන්ත ඝාතකයින්ට නවාතැන් දුන් හිටපු මන්ත්‍රී අත්අඩංගුවට
+### Former Member of Member arrested for holding to Club Spring
 
 *2024-08-29 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200453) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය සම්බන්ධ දෙවැනි තුවක්කුකරුට සහ මෝටර් රථ රියදුරාට ආධාර අනුබල දුන් සහ නවාතැන් සැපයූ බව පැවසෙන අයෙකු අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in 200 characters:
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ බස්නාහිර පළාත් සභා හිටපු මන්ත්‍රීවරයක් බව වාර්තා වෙයි.
+
+
+Arrest made in Club Wasantha murder case. Suspect linked to second gunman and car driver. Also arrested: Western Provincial Council member involved in crime.
+
+🟩
+
+Surendra has arrested a person who supported the second gunman and the car driver of Club Wasantha murder.
+
+It is also arrested that a member of the Western Provincial Councils was a member of the Western Provincial Council.
 
 ◼️
 
 [Data](articles/b99847ce.json)
 
+[Extended Data](ext_articles/b99847ce.ext.json)
+
 ---
 
-### වගකීම භාරගත් නාමල්
+### Namal accepted responsibility
 
 *2024-08-29 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200452) · `si`
 
-රාජ්‍ය සේවය කාර්යක්ෂම කිරීම සඳහා නව තාක්ෂණය හඳුන්වා දිය යුතු බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa proposes introducing technology to improve public services, reduce queues, and boost efficiency. He claims his party has a plan to achieve this goal.
 
-ඔහු පෙන්වා දෙන්නේ ඒ සඳහා නිසි වැඩපිළිවෙලක් සිය පක්ෂය සතුව පවතින බවය.
+🟩
 
-හක්මන ප්‍රදේශයේ පැවති ජනරැලියක් අමතමින් නාමල් රාජපක්ෂ මහතා මේ බව සඳහන් කළේය.
+Presidential candidate at the Sri Lanka General Front Namal Rajapaksa says that the new technology should be introduced to efficient service to efficient.
+
+He points out that his party has a proper program for this purpose.
+
+He was speaking at a familiarity in Hakmana area.
 
 ...
 
 [Data](articles/1f11f67d.json)
+
+[Extended Data](ext_articles/1f11f67d.ext.json)
 
 ---
 
@@ -104,19 +140,31 @@ A former Western Provincial Councillor has been arrested for allegedly aiding an
 
 ---
 
-### ජාතිවාදයට යටත් නොවූ අනුරගේ ආණ්ඩුවක්
+### A government's government that did not submit racism
 
 *2024-08-29 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200451) · `si`
 
-ජාතික ජනබලවේග ආණ්ඩුවක් යටතේ රට තුළ ජාතිවාදයට ඉඩක් නොමැති බව එහි ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Here's a 200-character summary:
 
-ඔහු පෙන්වා දෙන්නේ පසුගිය රජයන් විසින් ජාතිවාදය අවුස්සා සිය දේශපාලන උවමනාවක් ඉටුකරගැනීමට කටයුතු කළ බවය.
 
-කින්නියා ප්‍රදේශයේ පැවති ජන රැලියක් අමතමින් අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේය.
 
-...
+Sri Lanka presidential candidate Anura Kumara Dissanayake criticizes previous government for racism and communalism. He advocates for a new government free from racism and communalism, citing the National People's Force as an example. Dissanayake emphasizes the importance of national unity against racism.
+
+🟩
+
+Presidential candidate Anura Kumara Dissanayake says that there is no room for racism in the country under a government.
+
+He pointed out that the last government committed racism and played communalism.
+
+Addressing a rally in Kinniya, Anura Kumara Dissanayake made these comments.
+
+"Racism is feeding other racists by one racism. So the politics of our country is a racist politics. So the governments were led to the past. Isn't it?So, what's going on. Racism is the one who is working by communalism. We must create a government now a government that does not make communalism, racism and the agenda. At any time in history, there was no fallen into racism. The only movement that has not used communalism into their politics alone is the national folk force. Therefore, if a government about the national unity is necessary against the racism of the country, the fair should only beat the national government forces. A government of the national protocol does not allow any stage or racist statement. "
+
+◼️
 
 [Data](articles/9d766741.json)
+
+[Extended Data](ext_articles/9d766741.ext.json)
 
 ---
 
@@ -501,6 +549,24 @@ The Department has advised to avoid going to the deep sea of ​​North Bengal 
 [Data](articles/3f58a989.json)
 
 [Extended Data](ext_articles/3f58a989.ext.json)
+
+---
+
+### මතුගම ශාන්ගේ ප්‍රධානම ගෝලයා ඩුබායි සිට ලංකාවට ගෙන එයි
+
+*2024-08-29 07:40:34* · [`adalk`](https://www.ada.lk/breaking_news/මතුගම-ශාන්ගේ-ප්‍රධානම-ගෝලයා-ඩුබායි-සිට-ලංකාවට-ගෙන-එයි/11-411620) · `si`
+
+මිනීමැරුම්, කප්පම් ගැනීම් සහ මත්ද්‍රව්‍ය ජාවාරම් පිළිබඳ වරෙන්තු ලබා සිටි සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු වන 33 හැවිරිදි  විතානගේ දොන් ගීත්මාල් බිනෝයි දිල්ෂාන් , අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු විශේෂ නිලධාරීන් පිරිසක්  ඩුබායි වෙත ගොස් අත් අඩංගුවට ගෙන 08/29 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි.
+
+මොහු මතුගම ශාන් නැමැති සංවිධානාත්මක අපරාධ කල්ලි නායකගේ ප්‍රධානතම ගෝලයා බව සදහන් වේ.
+
+මොහු 08/29 දින අලුයම 05.05 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත රැගෙන විත් තිබූණි.
+
+කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් මෙම ගුවන් යානය වෙත ගොස් මෙම අපරාධ කල්ලි සාමාජිකයා අත් අඩංගුවට ගෙන මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරන මතුගම පොලිසියේ මූලස්ථාන පොලිස් පරීක්ෂකවරයා වෙත භාර දීමට කටයුතු කළහ.
+
+◼️
+
+[Data](articles/de8c50f0.json)
 
 ---
 
@@ -2383,31 +2449,5 @@ The discussion, facilitated by Lakshman Kadirgamar Institute of International Re
 [Data](articles/cf36484d.json)
 
 [Extended Data](ext_articles/cf36484d.ext.json)
-
----
-
-### False foreign alcohol raided
-
-*2024-08-28 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200428) · `si`
-
-Singapore authorities raided a distillery in Sri Lanka, seizing 54 bottles of counterfeit whiskey and equipment. Two individuals were arrested during the operation. The Biyagama Excise Special Operations Unit is continuing its investigation into the illegal alcohol manufacturing facility.
-
-🟩
-
-A lawless foreign alcohol has been raided by a Singapore who has raided two people in Sri Lanka.
-
-The raid was raided by the Biyagama Excise Operations Unit yesterday (27) on information information.
-
-For a long time, the illegal fake liquor manufacture was operated in a house in the Kadawatha area in Kadawatha.
-
-54 foreign whiskey bottles were found in the same distillery, two machines used to seal the bottles and a stock of alcohol production.
-
-The Biyagama Excise Special Operations Unit is conducting further investigations.
-
-◼️
-
-[Data](articles/c72ca50b.json)
-
-[Extended Data](ext_articles/c72ca50b.ext.json)
 
 ---

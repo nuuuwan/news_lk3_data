@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 13:06:48**
+As of **2024-08-29 13:21:49**
 
 ## Newspaper Stats
 
-*Scraped **43,198** Articles*
+*Scraped **43,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 415
 islandlk | 2,516
 economynextcom | 2,608
 dailyftlk | 2,809
-adalk | 3,996
+adalk | 3,998
 dailymirrorlk | 4,733
 adaderanalk | 5,083
 tamilmirrorlk | 5,636
@@ -26,21 +26,31 @@ adaderanasinhalalk | 7,410
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,193 (100.0%) of 43,198 articles have been extended.
+43,198 (100.0%) of 43,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
 
-### யாழில் விஷ ஜந்து தீண்டியதில் ஒருவர் உயிரிழப்பு
+### One person dies in poisoning in Jaffna
 
 *2024-08-29 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/192288) · `ta`
 
-காணியொன்றினை துப்பரவு செய்து கொண்டிருந்த வேளை விஷ ஜந்து இவரை தீண்டியுள்ளது. அதனை அடுத்து அவரை அங்கிருந்து மீட்டு, யாழ்.போதனா வைத்தியசாலைக்கு கொண்டு சென்ற வேளை அவர் ஏற்கனவே உயிரிழந்து விட்டதாக வைத்தியர்கள் அறிக்கையிட்டுள்ளனர்.
+Here's a summary of the text in 200 characters:
+
+
+
+Person poisoned while cleaning land in Jaffna. Died before reaching hospital. Rescuers took body to Jaffna Bodhana Hospital.
+
+🟩
+
+While cleaning a land. The doctors reported that he had already died when he rescued him from there and taken him to the Jaffna Bodhana Hospital.
 
 ◼️
 
 [Data](articles/10730cd7.json)
+
+[Extended Data](ext_articles/10730cd7.ext.json)
 
 ---
 
@@ -60,43 +70,79 @@ The Minister stated: “In 2022, the UNHRC brought a resolution against Sri Lank
 
 [Data](articles/8764deed.json)
 
+[Extended Data](ext_articles/8764deed.ext.json)
+
 ---
 
-### ක්ලබ් වසන්ත ඝාතනයට උදව්කළ හිටපු පළාත් සභා මන්ත්‍රී
+### Former Provincial Councils who helped the Club Wasantha murder
 
 *2024-08-29 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200459) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් අද (29) උදෑසන බස්නාහිර පළාත් සභාවේ හිටපු මන්ත්‍රීවරයෙකු වන අමල් සිල්වා අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Former Provincial Councilor Amal Silva arrested for aiding Club Wasantha murder. Police also detained driver Madusanka de Silva. Two suspects from Nagoda and Ahungalla.
 
-බස්නාහිර දකුණ අපරාධ කොට්ඨාසය මගින් ඔහුව අත්අඩංගුවට ගෙන ඇත්තේ එම ඝාතනය සිදුකිරීමට පැමිණි පිරිසට නවාතැන් පහසුකම් හා ආධාර අනුබලදීමේ චෝදනාව යටතේ ය.
+🟩
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ල්බ් වසන්ත පසුගිය ජූලි මස 8 වනදා අතුරුගිරියේදී වෙඩි තබා ඝාතනය කිරීම සම්බන්ධයෙන් පොලීසියට අවශ්‍යව සිටි වෙඩික්කරුවෙකු හා වෙඩික්කරුවන් පැමිණි මෝටර් රථය පැදවූ රියදුරා පානදුර කොට්ඨාස අපරාධ ඒකකය මගින් අත්අඩංගුවට ගත්තේ ඊයේ (28) රාත්‍රියේදීය.
+A former member of the Western Provincial Councilor Amal Silva has been arrested in connection with the assassination of Suresra Wasantha Perera today (29).
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ ගාල්ල, නාගොඩ සහ අහුංගල්ල ප්‍රදේශයේ පදිංචි 29 සහ 32 හැවිරිදි පුද්ගලයන් දෙදෙනෙකි.
+He was arrested by the Western South Criminal Crimes Division under the accusation of accommodation and assistance to the crowd.
 
-වෙඩික්කරු ලෙස කටයුතු කළ පුද්ගලයා 32 හැවිරිදි සජිත් ශ්‍රියන්ත ද සිල්වා නොහොත් 'පොඩි බලයා' නැමැත්තා බව පොලීසිය පවසයි.
+The driver of the Panadura Division was arrested by the Panadura Divisional Code of Dri-Driving the vehicle that had come to the car when he was shot dead in Athugala on July 8th.
 
-රියදුරු ලෙස කටයුතු කර ඇත්තේ, මධුශංක ද සිල්වා නොහොත් 'බහිරවයා' නැමැත්තෙකි.
+The arrested two-year-old residents of Nagoda and Ahungalla, Galle.
 
-...
+The victim was a 32-year-old man Sajith Shriyantha de Silva, or a 'little force'.
+
+The driver has acted as Madusanka de Silva, or 'Bhairava'.
+
+According to police interrogations from the suspects, the former provincial councilor was able to arrest the relevant information on the information revealed.
+
+The other shooter was arrested by the police on the 23 23rd of the club spring murder.
+
+◼️
 
 [Data](articles/2d1efb0e.json)
 
+[Extended Data](ext_articles/2d1efb0e.ext.json)
+
 ---
 
-### காத்தான்குடியில் நான்கு கடைகளுக்கு சீல் வைப்பு ; 54 பேர் மீது வழக்கு தாக்கல்
+### Seal deposits for four stores in Kattankudi;Case against 54 people
 
 *2024-08-29 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/192285) · `ta`
 
-மட்டக்களப்பு காத்தான்குடி சுகாதார வைத்திய அதிகாரி பிரிவுக்குட்பட்ட ஹோட்டல்கள், உணவகங்கள், சிற்றுண்டி சாலைகள் மீது நேற்று புதன்கிழமை (28)  மாலை சுகாதார அதிகாரிகள் மேற்கொண்ட பாரிய திடீர் சோதனையின் போது நான்கு உணவகங்களுக்கு சீல் வைக்கப்பட்டதுடன், 54 பேர் மீது வழக்கு தாக்கல் செய்யப்பட்டுள்ளதாக சுகாதார அதிகாரிகள் தெரிவிக்கின்றனர்.
+Kattankudi raid seals 4 restaurants; 54 sued for health violations
 
-மட்டக்களப்பு மாவட்ட பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் டாக்டர் எஸ் முரளீஸ்வரனின் பணிப்புரையின் பெயரில் காத்தான்குடி சுகாதார வைத்திய அதிகாரி டாக்டர் யூ.எல்.நசீர் தீனின் வழிகாட்டலில் மட்டக்களப்பு காத்தான்குடி சுகாதார வைத்திய அதிகாரி பிரிவுகளைச் சேர்ந்த பொதுச் சுகாதார பரிசோதகர்கள் ஐந்து பிரிவுகளாக பிரிக்கப்பட்டு குறித்த தேடுதல் சுற்றிவளைப்பு நடவடிக்கைகளை மேற்கொண்டனர்.
+🟩
 
-மனித பாவனைக்கு உதவாத உணவுப் பொருட்களை விற்பனை செய்த, பழுதடைந்த, காலாவதியான, பிளாஸ்டிக் பாத்திரங்களில் உணவுப் பொருட்களை விற்பனை செய்த, வர்த்தக நிலையங்களில் வர்த்தகர்கள் 9 பேர் மீது வழக்கு தாக்கல் செய்யப்பட்டுள்ளதுடன், நான்கு உணவகங்கள் சீல் வைத்து மூடப்பட்டுள்ளன.
+Four restaurants have been sealed in a massive raid on hotels, restaurants and snacks on hotels, restaurants and snacks under the Kattankudy Health Officer Division in Batticaloa.
 
-...
+In the name of the Director of Regional Health Services, Batticaloa District, Dr S Muraliswaran, under the guidance of Dr. UL Nasir Deen, the Kattankudy Health Officer, Dr UL Nasir Deen, Public Health Inspectors belonging to the Batticaloa Health Medical Officer Divisions have been divided into five categories.
+
+Nine traders have been sued at trade centers for selling food items that have not been used for human use, defective, outdated, plastic vessels, and four restaurants have been sealed.
+
+At the same time, 45 people who worked on restaurants without medical certificates have been found and have been sued by public health inspectors.
+
+It is also worth noting that the health authorities seized outdated food items for a large number of defective human use during the raid for about 6 hours.
+
+◼️
 
 [Data](articles/bc927d9c.json)
+
+[Extended Data](ext_articles/bc927d9c.ext.json)
+
+---
+
+### පොහොට්ටු මන්ත්‍රීවරයෙක් විපක්ෂනායක සජිත්ට සහය පළ කරයි
+
+*2024-08-29 12:22:29* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීවරයෙක්-විපක්ෂනායක-සජිත්ට-සහය-පළ-කරයි/11-411629) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ජගත් කුමාර මහතා ඉදිරි ජනාධිපතිවරණයේදී සමගි ජන සන්ධානයේ අපේක්ෂක විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට සහය පළ කිරීමට තීරණය කර තිබේ.
+
+ඒ මහතා අද(29දා) පෙරවරුවේ විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මුනගැසී සහය පළ කිරීම සිදු කළේය.
+
+◼️
+
+[Data](articles/af5d33a6.json)
 
 ---
 
@@ -122,23 +168,31 @@ Amarasuriya said the NPP wants to maintain ties with China since the country had
 
 ---
 
-### நிந்தவூரில் யானை தாக்கி உயிரிழந்த குடும்பஸ்தரின் சடலம் உறவினர்களிடம் கையளிப்பு
+### The body of an elephant attacked in Nintavur handed over to relatives
 
 *2024-08-29 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/192276) · `ta`
 
-வயல் வேலைக்கு சென்ற நிலையில் யானையினால் தாக்கப்பட்டு உயிரிழந்தவரின்  சடலம் மரண விசாரணையின் பின்னர் உறவினர்களிடம் கையளிக்கப்பட்டுள்ளது.
+Elephant attack in Nintavur: Body handed over to relatives after death investigation. Incident occurred in Turtle Vad Vayal area, Ampara District. 62-year-old man killed. Elephant movement increased during harvest season.
 
-குறித்த சம்பவமானது அம்பாறை மாவட்டம்  நிந்தவூர் பொலிஸ் பிரிவிற்குட்பட்ட ஆமை வட்டை வயல் பிரதேசத்தில்  நேற்று புதக்கிழமை (28)  இச்சம்பவம்   இடம்பெற்றுள்ளது.  உயிரிழந்தவரின் சடலம் மரண விசாரணையின் பின்னர் உறவினர்களிடம் கையளிக்கப்பட்டுள்ளது.
+🟩
 
-சம்பவ இடத்தில்  நிந்தவூர் - 02 இரண்டாம் குறுக்குத் தெரு பிரிவை சேர்ந்த 62 வயது மதிக்கத்தக்க ஆணொருவர்  உயிரிழந்துள்ளார்.
+The body of the deceased has been handed over to relatives after the death investigation.
 
-மேலும், சம்மாந்துறை நீதிமன்ற நீதிவானின் கட்டளையின் பிரகாரம் பிரதேச மரண விசாரணை அதிகாரி அப்துல் ஹமீட் அல் - ஜவாஹிர் சம்பவ இடத்திற்கு சென்று மரண விசாரணை மேற்கொண்ட பின்னர் உறவினர்களிடம் கையளிக்கப்பட்டுள்ளது.
+The incident took place yesterday (28) at the Turtle Vad Vayal area belonging to the Nintavur police division of the Ampara District.The body of the deceased has been handed over to relatives after the death investigation.
 
-கடந்த காலங்களில்  சம்மாந்துறை பிரதேசத்தில்  யானை தாக்குதலுக்கு இலக்காகி  பலர் பாதிக்கப்பட்டுள்ளதுடன் தற்போது  வயல் அறுவடை காலம் என்பதால் யானை நடமாட்டமும் அதிகரித்துள்ளமை குறிப்பிடத்தக்கது.
+A 62 -year -old man from Nintavur - 2 Second Cross Street Division has died.
 
-...
+Further, according to the orders of the Samanthurai Court, the relatives of the Divisional Death Investigation Officer Abdul Hamid al -Jawahir have been handed over to the relatives after the death trial.
+
+It is noteworthy that many people have been affected by the elephant attack in the Samanthurai area in the past and the elephant movement has increased due to the fact that the field harvest is now.
+
+Meanwhile, the 55 -year -old family of three children from Nintavur section of Nintavur, who was assaulted by an elephant on the evening of the 20th of this month.
+
+◼️
 
 [Data](articles/07e91041.json)
+
+[Extended Data](ext_articles/07e91041.ext.json)
 
 ---
 
@@ -591,6 +645,22 @@ He joined the rally by the United People's Power in Tangalle, targeting the 2024
 [Data](articles/db5da56c.json)
 
 [Extended Data](ext_articles/db5da56c.ext.json)
+
+---
+
+### හිටපු ඇමතිවරයෙකුගේ සහාය ජනපතිට
+
+*2024-08-29 09:59:27* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමතිවරයෙකුගේ-සහාය-ජනපතිට/11-411624) · `si`
+
+මෙරව ජනාධිපතිවරණයේදී  ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සම්පුර්ණ සහාය ලබාදීමට තම වෘත්තීය සමිති කෘත්‍යධිකාරි මණ්ඩලය ඒකමතිකව තීරණය කරන ලද බව ලංකා කම්කරු එක්සත් පෙරමුණේ නායක, හිටපු අමාත්‍ය එස්. සතාසිවම් මහතා පැවැසීය.
+
+අපට දේශපාන කිරීමට රටක් තිබිය යුතු බවත්, රට ආරක්ෂා කිරීමේ අවබෝධය ඇත්තේ රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාට පමණක් බැවින් රට ආරක්ෂා කර ගැනීම උදෙසා  මෙවර ජනාධිපතිවරණයේදී එතුමාට සහයෝගය ලබාදීමට  පියවර ගන්නා බවද සතාසිවම් මහතා කීය.
+
+නුවරඑළිය දිස්ත්‍රික්කයේ සංචාරක ව්‍යාපාරය හා වතු ජනතාවගේ ආර්ථික නගා සිටුවීමේ දැඩි උනන්දුවක් ජනාධිපතිවරයාට ඇති බවත්, රටේ ආර්ථික තත්ත්වය ස්ථාවර කර ගැනීම සඳහා ජනාධිපතිවරයාගේ ජයග්‍රහණය අනිවාර්ය හා අත්‍යවශ්‍ය සාධකයක් බවට පත්ව ඇති බවද සතාසිවම් මහතා පැවැසීය.
+
+...
+
+[Data](articles/0d312863.json)
 
 ---
 
@@ -2431,55 +2501,5 @@ Australian media has reported that he has to make the decision to protest agains
 [Data](articles/ad2398a4.json)
 
 [Extended Data](ext_articles/ad2398a4.ext.json)
-
----
-
-### Kusal Mendis removed from Test group
-
-*2024-08-28 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200434) · `si`
-
-Sri Lanka vs England Test series: Kusal Mendis dropped, Lahiru Kumara replaces him. Dimuth Karunaratne leads the team.
-
-🟩
-
-The second Test match between Sri Lanka and England begins tomorrow (29) at the Lords Stadium in England.
-
-The Sri Lanka team for those Test matches has been named.
-
-Accordingly, Kusal Mendis and Universal Fernando lost their places.
-
-Instead of their two, and Lahiru Kumara has been called to the team.
-
-Dimuth Karunaratne, Nishan Madushka, Wishon Mathews, Dananju De Silva, Kamindu Mendander, Lahiru Kumara, Lahiru Kumara and Milan Ratnayake
-
-The Sri Lankan team has played eight Tests in the Prices of the Prices and no competition has been won.
-
-◼️
-
-[Data](articles/6bac0899.json)
-
-[Extended Data](ext_articles/6bac0899.ext.json)
-
----
-
-### Kusal removed - Sri Lanka squad
-
-*2024-08-28 20:42:35* · [`adalk`](https://www.ada.lk/sports/කුසල්-ඉවතට---ශ්‍රී-ලංකා-සංචිතය-නම්-කරයි/9-411616) · `si`
-
-Sri Lanka cricket team changes: Kusal Mendis replaced by Nissanka, Fernando out, Kumara in for Test match against England.
-
-🟩
-
-The Sri Lankan squad played for the second Test match against England yesterday (29).
-
-The Kusal Mendis has been removed from the team, and instead of the wishes nissanka team.
-
-Fast bowler universal Fernando has been removed and the Lahiru Kumara team has been replaced by the team.
-
-◼️
-
-[Data](articles/780a846d.json)
-
-[Extended Data](ext_articles/780a846d.ext.json)
 
 ---

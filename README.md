@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 12:55:40**
+As of **2024-08-29 13:06:48**
 
 ## Newspaper Stats
 
-*Scraped **43,193** Articles*
+*Scraped **43,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 2,608
 dailyftlk | 2,809
 adalk | 3,996
 dailymirrorlk | 4,733
-adaderanalk | 5,082
+adaderanalk | 5,083
 tamilmirrorlk | 5,636
-virakesarilk | 6,864
-adaderanasinhalalk | 7,409
+virakesarilk | 6,867
+adaderanasinhalalk | 7,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,193 (100.0%) of 43,193 articles have been extended.
+43,193 (100.0%) of 43,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
+
+### யாழில் விஷ ஜந்து தீண்டியதில் ஒருவர் உயிரிழப்பு
+
+*2024-08-29 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/192288) · `ta`
+
+காணியொன்றினை துப்பரவு செய்து கொண்டிருந்த வேளை விஷ ஜந்து இவரை தீண்டியுள்ளது. அதனை அடுத்து அவரை அங்கிருந்து மீட்டு, யாழ்.போதனா வைத்தியசாலைக்கு கொண்டு சென்ற வேளை அவர் ஏற்கனவே உயிரிழந்து விட்டதாக வைத்தியர்கள் அறிக்கையிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/10730cd7.json)
+
+---
+
+### Sri Lanka will not accept any UNHRC resolution on human rights violations during civil war – Foreign Minister
+
+*2024-08-29 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101590/sri-lanka-will-not-accept-any-unhrc-resolution-on-human-rights-violations-during-civil-war-foreign-minister) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs Ali Sabry assured that Sri Lanka will not accept any resolutions brought forward by the United Nations Human Rights Council (UNHRC) regarding alleged human rights violations during the civil conflict that ended in 2009.
+
+Speaking at a press briefing on Wednesday (28), he said that Western countries should not base their foreign policies towards Sri Lanka on vote-bank politics, aimed at securing the votes of the Sri Lankan diaspora residing in their nations.
+
+The Minister stated: “In 2022, the UNHRC brought a resolution against Sri Lanka, and they have submitted a report on that resolution for September this year. We have rejected that resolution. As the period for the current resolution is ending, they would need to introduce a new resolution to continue it. We intend to respond accordingly”
+
+“However, it is important to state that we do not accept the UNHRC’s approach”, he added.
+
+...
+
+[Data](articles/8764deed.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතනයට උදව්කළ හිටපු පළාත් සභා මන්ත්‍රී
+
+*2024-08-29 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200459) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් අද (29) උදෑසන බස්නාහිර පළාත් සභාවේ හිටපු මන්ත්‍රීවරයෙකු වන අමල් සිල්වා අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+බස්නාහිර දකුණ අපරාධ කොට්ඨාසය මගින් ඔහුව අත්අඩංගුවට ගෙන ඇත්තේ එම ඝාතනය සිදුකිරීමට පැමිණි පිරිසට නවාතැන් පහසුකම් හා ආධාර අනුබලදීමේ චෝදනාව යටතේ ය.
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ල්බ් වසන්ත පසුගිය ජූලි මස 8 වනදා අතුරුගිරියේදී වෙඩි තබා ඝාතනය කිරීම සම්බන්ධයෙන් පොලීසියට අවශ්‍යව සිටි වෙඩික්කරුවෙකු හා වෙඩික්කරුවන් පැමිණි මෝටර් රථය පැදවූ රියදුරා පානදුර කොට්ඨාස අපරාධ ඒකකය මගින් අත්අඩංගුවට ගත්තේ ඊයේ (28) රාත්‍රියේදීය.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ ගාල්ල, නාගොඩ සහ අහුංගල්ල ප්‍රදේශයේ පදිංචි 29 සහ 32 හැවිරිදි පුද්ගලයන් දෙදෙනෙකි.
+
+වෙඩික්කරු ලෙස කටයුතු කළ පුද්ගලයා 32 හැවිරිදි සජිත් ශ්‍රියන්ත ද සිල්වා නොහොත් 'පොඩි බලයා' නැමැත්තා බව පොලීසිය පවසයි.
+
+රියදුරු ලෙස කටයුතු කර ඇත්තේ, මධුශංක ද සිල්වා නොහොත් 'බහිරවයා' නැමැත්තෙකි.
+
+...
+
+[Data](articles/2d1efb0e.json)
+
+---
+
+### காத்தான்குடியில் நான்கு கடைகளுக்கு சீல் வைப்பு ; 54 பேர் மீது வழக்கு தாக்கல்
+
+*2024-08-29 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/192285) · `ta`
+
+மட்டக்களப்பு காத்தான்குடி சுகாதார வைத்திய அதிகாரி பிரிவுக்குட்பட்ட ஹோட்டல்கள், உணவகங்கள், சிற்றுண்டி சாலைகள் மீது நேற்று புதன்கிழமை (28)  மாலை சுகாதார அதிகாரிகள் மேற்கொண்ட பாரிய திடீர் சோதனையின் போது நான்கு உணவகங்களுக்கு சீல் வைக்கப்பட்டதுடன், 54 பேர் மீது வழக்கு தாக்கல் செய்யப்பட்டுள்ளதாக சுகாதார அதிகாரிகள் தெரிவிக்கின்றனர்.
+
+மட்டக்களப்பு மாவட்ட பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் டாக்டர் எஸ் முரளீஸ்வரனின் பணிப்புரையின் பெயரில் காத்தான்குடி சுகாதார வைத்திய அதிகாரி டாக்டர் யூ.எல்.நசீர் தீனின் வழிகாட்டலில் மட்டக்களப்பு காத்தான்குடி சுகாதார வைத்திய அதிகாரி பிரிவுகளைச் சேர்ந்த பொதுச் சுகாதார பரிசோதகர்கள் ஐந்து பிரிவுகளாக பிரிக்கப்பட்டு குறித்த தேடுதல் சுற்றிவளைப்பு நடவடிக்கைகளை மேற்கொண்டனர்.
+
+மனித பாவனைக்கு உதவாத உணவுப் பொருட்களை விற்பனை செய்த, பழுதடைந்த, காலாவதியான, பிளாஸ்டிக் பாத்திரங்களில் உணவுப் பொருட்களை விற்பனை செய்த, வர்த்தக நிலையங்களில் வர்த்தகர்கள் 9 பேர் மீது வழக்கு தாக்கல் செய்யப்பட்டுள்ளதுடன், நான்கு உணவகங்கள் சீல் வைத்து மூடப்பட்டுள்ளன.
+
+...
+
+[Data](articles/bc927d9c.json)
+
+---
 
 ### Foreign investors guaranteed a corruption-free future under NPP - Harini Amarasuriya
 
@@ -51,6 +119,26 @@ Amarasuriya said the NPP wants to maintain ties with China since the country had
 [Data](articles/3b7d145d.json)
 
 [Extended Data](ext_articles/3b7d145d.ext.json)
+
+---
+
+### நிந்தவூரில் யானை தாக்கி உயிரிழந்த குடும்பஸ்தரின் சடலம் உறவினர்களிடம் கையளிப்பு
+
+*2024-08-29 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/192276) · `ta`
+
+வயல் வேலைக்கு சென்ற நிலையில் யானையினால் தாக்கப்பட்டு உயிரிழந்தவரின்  சடலம் மரண விசாரணையின் பின்னர் உறவினர்களிடம் கையளிக்கப்பட்டுள்ளது.
+
+குறித்த சம்பவமானது அம்பாறை மாவட்டம்  நிந்தவூர் பொலிஸ் பிரிவிற்குட்பட்ட ஆமை வட்டை வயல் பிரதேசத்தில்  நேற்று புதக்கிழமை (28)  இச்சம்பவம்   இடம்பெற்றுள்ளது.  உயிரிழந்தவரின் சடலம் மரண விசாரணையின் பின்னர் உறவினர்களிடம் கையளிக்கப்பட்டுள்ளது.
+
+சம்பவ இடத்தில்  நிந்தவூர் - 02 இரண்டாம் குறுக்குத் தெரு பிரிவை சேர்ந்த 62 வயது மதிக்கத்தக்க ஆணொருவர்  உயிரிழந்துள்ளார்.
+
+மேலும், சம்மாந்துறை நீதிமன்ற நீதிவானின் கட்டளையின் பிரகாரம் பிரதேச மரண விசாரணை அதிகாரி அப்துல் ஹமீட் அல் - ஜவாஹிர் சம்பவ இடத்திற்கு சென்று மரண விசாரணை மேற்கொண்ட பின்னர் உறவினர்களிடம் கையளிக்கப்பட்டுள்ளது.
+
+கடந்த காலங்களில்  சம்மாந்துறை பிரதேசத்தில்  யானை தாக்குதலுக்கு இலக்காகி  பலர் பாதிக்கப்பட்டுள்ளதுடன் தற்போது  வயல் அறுவடை காலம் என்பதால் யானை நடமாட்டமும் அதிகரித்துள்ளமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/07e91041.json)
 
 ---
 
@@ -702,9 +790,15 @@ He was speaking at a familiarity in Hakmana area.
 
 *2024-08-29 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101583/ex-provincial-councillor-arrested-for-aiding-club-wasantha-murder-suspects-) · `en`
 
-A former Western Provincial Councillor has been arrested for allegedly aiding and providing lodging to the second gunman and the car driver involved in the killing of two persons including businessman Surendra Wasantha Perera, also known as’Club Wasantha’.
+A former Western Provincial Councillor has been arrested for allegedly aiding and providing lodging to the second gunman and the car driver involved in the killing of two persons including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’.
 
-◼️
+Meanwhile, the second gunman and the car driver wanted in connection with the recent killing of two persons including businessman ‘Club Wasantha’, were arrested yesterday (28) by the Panadura Police Divisional Crimes Detective Bureau at Pinwaththa in Panadura.
+
+The arrested suspects are reportedly aged 29 and 32 and are residents of the Nagoda and Ahugalla areas.
+
+According to the police, it has been revealed in the investigation so far that the suspects changed from the car to a van and travelled to Kadawata from there along the Southern Expressway to Matara after carrying out the shooting.
+
+...
 
 [Data](articles/8667b06f.json)
 
@@ -2387,127 +2481,5 @@ Fast bowler universal Fernando has been removed and the Lahiru Kumara team has b
 [Data](articles/780a846d.json)
 
 [Extended Data](ext_articles/780a846d.ext.json)
-
----
-
-### Karu Parliamentary Parents
-
-*2024-08-28 20:24:14* · [`adalk`](https://www.ada.lk/breaking_news/කරූට-පාර්ලිමේන්තු-වරම්/11-411615) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Elections Commission issues gazette notification for vacant parliamentary seat after Thalatha Anukorala's resignation. Secretary General informs of parliamentary vacancy. Section 64(2) of the Parliamentary Act applies.
-
-🟩
-
-The Elections Commission has issued a gazette notification for the vacant parliamentary seat for the vacant parliamentary seat due to the resignation of Thalatha Anukorala.
-
-Mrs. Thalatha Athukorala on the 21st of this month, MP resigned in parliament.
-
-The Secretary General of the Elections had an informed that the Secretary General of Parliament has a vacancy of a parliamentary post in Parliament on the 23 rd.
-
-Accordingly, Section 64 (2) of the Parliamentary Act No. 64 (2) of the Parliamentary Act, No.
-
-◼️
-
-[Data](articles/56921c31.json)
-
-[Extended Data](ext_articles/56921c31.ext.json)
-
----
-
-### Namal criticizes unjust taxes, pledges economic revival
-
-*2024-08-28 20:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101576/namal-criticizes-unjust-taxes-pledges-economic-revival) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) presidential candidate Namal Rajapaksa affirmed his commitment to developing the nation’s economy while ensuring the welfare of the general public is not overlooked.
-
-Addressing a constituency meeting held in Mawathagama, Rajapaksa emphasized the SLPP’s consistent track record of making decisions in the ‘best interest’ of the country. “We have never taken a political decision that is harmful to the country. I think the responsibility and challenge that I have is how to take the country forward from where President Mahinda Rajapaksa stopped the development of this country.”
-
-...
-
-[Data](articles/8a397746.json)
-
-[Extended Data](ext_articles/8a397746.ext.json)
-
----
-
-### Passport congestion temporarily solves
-
-*2024-08-28 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200433) · `si`
-
-Immigration Department resolves passport backlog: 1000 daily issues, 750 domestic, 250 international. New electronic passport introduced. Public urged to apply only for essential reasons. Token system implemented for foreign passport applications.
-
-🟩
-
-The delay in issuing foreign passports has been seen throughout the Department of Immigration and Emigration.
-
-The situation was created with the limitations of licensing as the department was limited.
-
-However, the authorities have taken steps to issue 1,000 permits daily.
-
-According to the coming, 750 passports and 250 for those who apply for foreign countries.
-
-The department requested the public to apply passports only for the essential reason, as the new electronic passport was introduced.
-
-The Immigration of Emigration Head Office had also been on the same location with the objective of obtaining new foreign passports in this backdrop.
-
-Steps were taken to give tokens last night to the people who stayed in this regard by mediation.
-
-"3 days were firm for this. Really happy about today's day. There was no problem. Today, it was in order to do. "
-
-According to the token system, the next few days will be reserved for the purpose of obtaining new foreign passports.
-
-...
-
-[Data](articles/23a80eb4.json)
-
-[Extended Data](ext_articles/23a80eb4.ext.json)
-
----
-
-### Long queue back in Sri Lanka over govt’s failure on passports; Foreign Minister apologizes
-
-*2024-08-28 20:00:00* · [`economynextcom`](https://economynext.com/long-queue-back-in-sri-lanka-over-govts-failure-on-passports-foreign-minister-apologizes-178254/) · `en`
-
-ECONOMYNEXT –Sri Lanka government’s failure in supplying an adequate number of passports has led to a long queue similar to what the island nation saw during the economic crisis in 2022.
-
-Sri Lanka saw long queues for fuel, cooking gas, and medicines when former leader Gotabaya Rajapaksa’s government ran out of foreign currency after the rupee collapsed in 2022 due to wrong economic policies.
-
-However, Rajapaksa’s successor Ranil Wickremesinghe has been widely acclaimed for ending the long queues with International Monetary Fund (IMF)-backed economic reforms.
-
-However, the latest queue outside the Department of Immigration and Emigration comes after the government has gone out of new passport books amid higher demand for the document that people needed to leave the country.
-
-“There is a deficiency. I apologize on behalf of the government. It happened because. We have migrated to a new electronic passport system,” Foreign Minister Ali Sabry told reporters at a media briefing in Colombo.
-
-...
-
-[Data](articles/1ba52681.json)
-
-[Extended Data](ext_articles/1ba52681.ext.json)
-
----
-
-### Karunaratne Paranavitha
-
-*2024-08-28 19:57:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவின்-இடத்திற்கு-கருணாரத்ன-பரணவிதான/175-342929) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Karunaratne Paranavidhana named as replacement for Ratnapura district parliament seat after Dalada Athukorala resigned.
-
-🟩
-
-The Elections Commission has released the name of Karunaratne Paranavidhana for the vacancy of the United People's Power Ratnapura District Parliamentarian Dalada Athukorala resigning his post.. Remble
-
-◼️
-
-[Data](articles/770b37c8.json)
-
-[Extended Data](ext_articles/770b37c8.ext.json)
 
 ---

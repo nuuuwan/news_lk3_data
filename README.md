@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 07:33:40**
+As of **2024-08-29 07:58:14**
 
 ## Newspaper Stats
 
-*Scraped **43,127** Articles*
+*Scraped **43,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,138 @@ colombotelegraphcom | 415
 islandlk | 2,505
 economynextcom | 2,607
 dailyftlk | 2,809
-adalk | 3,988
+adalk | 3,990
 dailymirrorlk | 4,733
 adaderanalk | 5,072
 tamilmirrorlk | 5,628
 virakesarilk | 6,855
-adaderanasinhalalk | 7,391
+adaderanasinhalalk | 7,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,127 (100.0%) of 43,127 articles have been extended.
+43,127 (100.0%) of 43,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
+
+### පාතාල සාමාජිකයෙක්ව ඩුබායි සිට රැගෙන එයි
+
+*2024-08-29 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200444) · `si`
+
+අපරාධ රැසකට සම්බන්ධ සැකකරුවෙකු ලෙස සැලකෙන ගීත්මාල් බෙනෝයි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් ඩුබායි සිට මෙරටට රැගෙන විත් තිබේ.
+
+මෙම සැකකරු පාතාල කල්ලි නායකයෙකු වන මතුගම ෂාන්ගේ ගෝලයකු බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+
+◼️
+
+[Data](articles/6778820b.json)
+
+---
+
+### අයි.එම්.එෆ්. සමග නැවත සාකච්ඡා කිරීම බරපතල ක්‍රියාවලියක්
+
+*2024-08-29 07:20:19* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-නැවත-සාකච්ඡා-කිරීම-බරපතල-ක්‍රියාවලියක්/11-411617) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ නැවත සාකච්ඡා කිරීම ඉතා බරපතල සහ කිසිසේත්ම සාර්ථක නොවන ක්‍රියාවලියක් බව විදේශ කටයුතු සහ අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා අවධාරණය කළේය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ නැවත සාකච්ඡා කිරීමට කටයුතු කළහොත් ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් දෙසැම්බර් මාසයේදී ලබා දීමට නියමිත මීළඟ වාරිකය මෙන්ම ලෝක බැංකුව සහ ආසියානු සංවර්ධන බැංකුව (ADB) විසින් ලබා දෙන වාරිකද අහිමි වන බව අමාත්‍යවරයා සඳහන් කළේය.
+
+ඒ අනුව 2024 දෙසැම්බර් සිට 2025 ජනවාරි දක්වා කාලය තුළ ඩොලර් බිලියන 1.2 සිට ඩොලර් බිලියන 1.3 දක්වා මුදලක් මෙරටට අහිමි වන අතර ඒ හේතුවෙන් නැවතත් රට අස්ථාවරත්වයට පත්වීම වැළැක්විය නොහැකි බව ද අමාත්‍ය අලි සබ්‍රි මහතා වැඩිදුරටත් පෙන්වා දුන්නේය.
+
+විදේශ කටයුතු සහ අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/1fb3a7dd.json)
+
+---
+
+### ජනාධිපතිවරණයට අදාළව පොලීසියට පැමිණිලි 62ක්
+
+*2024-08-29 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200443) · `si`
+
+ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමෙන් අනතුරුව මේ දක්වා කාලය තුළ අදාළ පැමිණිලි ලැබී ඇති බව පොලිස් මූලස්ථානය සඳහන් කළේය.
+
+එම පැමිණිලි අතරින් වැඩිම පැමිණිලි සංඛ්‍යාවක් මැතිවරණ නීතිඋල්ලංඝනය කිරීම් සම්බන්ධයෙන් වන පැමිණිලි වන අතර බරපතළ සිද්ධීන් සම්බන්ධ පැමිණිලි කිසිවක් මෙතෙක් ඉදිරිපත් වී නොමැති බව සඳහන්ය.
+
+දිවයින පුරා පිහිටි සෑම පොලිස් ස්ථානයකම මැතිවරණ පැමිණිලි ලබා ගැනීම සඳහා විශේෂ ඒකකයක් පිහිටුවා ඇති අතර එම ඒකකවලට ලැබෙන පැමිණිලි දෛනිකව පොලිස් මුලස්ථානයේ පිහිටි විශේෂ මැතිවරණ කාර්යාලයේදී සමාලෝචනය කිරීමට පියවර ගෙන තිබේ.
+
+ඒ අනුව මේ දක්වා ලැබී ඇති පැමිණිලිවලට අනුව හඳුනාගත් සැකකරුවන් අත්අඩංගුවට ගෙන අධිකරණ වෙත ඉදිරිපත් කර ඇති බව පොලීසිය සඳහන් කළේය.
+
+ජනාධිපතිවරණ අපෙක්ෂකයින්ගේ ආරක්ෂාවට මෙන්ම ජන රැලිවල ආරක්ෂාව සඳහා ද විධිමත් වැඩපිළිවෙලක් පොලීසිය විසින් මේ වන විටත් ක්‍රියාත්මක කර තිබේ.
+
+මේ අතර ශ්‍රේෂ්ඨාධිකරණ නියෝගයට අනුව පළාත් පාලන ආයතන ඡන්ද විමසීම පැවැත්වීමට අදාළ කටයුතු කඩිනමින් සිදුකිරීමට අවශ්‍ය පියවර ගනිමින් සිටින බව මැතිවරණ කොමිසම පවසයි.
+
+...
+
+[Data](articles/1065e87c.json)
+
+---
+
+### තලාවේ වෙඩිතැබීමක්
+
+*2024-08-29 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200442) · `si`
+
+තලාව මැදගම ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා අනුරාධපුරය රෝහල වෙත ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+
+මෙම පුද්ගලයා තම මස්සිනා සමඟ ඔවුන් පොල් වගා කර ඇති ඉඩමේ ගමන් කරමින් සිටියදී එම ඉඩමට ජලය ලබා ගන්නා ඇල්කටින් බට සම්බන්ධයෙන් යාබද ඉඩමේ හිමිකරු සමඟ බහින්බස් වීමක් සිදුව ඇත.
+
+එහිදී ඇති වූ ආරවුල දුරදිග යාමෙන් එම යාබද ඉඩමේ හිමිකරු විසින් මෙලෙස වෙඩි තබා ඇති බව අනාවරණය වී තිබේ.
+
+පොලීසිය පැවසුවේ මෙරට නිෂ්පාදිත ගිනිඅවියකින් මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
+
+වෙඩි තැබීම සිදුකළ සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇති අතර සැකකරු අත්අඩංගුවට ගැනීම සඳහා තලාව පොලීසිය විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/7ea68cac.json)
+
+---
+
+### රනිල් ගේ සහ සජිත් ගේ ප්‍රතිපත්ති ප්‍රකාශ අද එළියට‍
+
+*2024-08-29 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200441) · `si`
+
+ස්වාධීන අපේක්ෂකයෙකු ලෙස මෙවර ජනාධිපතිවරණයට ඉදිරිපත්ව සිටින ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රතිපත්ති ප්‍රකාශය අද (29) එළිදැක්වීමට නියමිතව තිබේ.
+
+අද පෙරවරුවේ කොළඹ දී විශේෂ උත්සවයක් පවත්වමින් එම ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීමට නියමිතය.
+
+එම අවස්ථාව සඳහා ආණ්ඩු පක්ෂය නියෝජනය කරන සියලු මන්ත්‍රීවරුන්ට සහ ජනාධිපතිවරණයේ දී රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමට එක්ව සිටින සියලු මන්ත්‍රීවරුන්ට ආරාධනා කර ඇති බව වාර්තා වේ.
+
+මේ අතර සමගි ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය ද අද දිනයේ එළිදැක්වීමට නියමිතව තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා සඳහන් කළේ, සමගි ජන සන්ධානයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රතිපත්ති ප්‍රකාශය පළමුව මහනායක හිමිවරුන් වෙත පිළිගැන්වීමට සැලසුම් කර ඇති බවය.
+
+◼️
+
+[Data](articles/ea6e724a.json)
+
+---
+
+### අද කාලගුණයේ සිදුවන වෙනස
+
+*2024-08-29 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200440) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, නුවරඑළිය සහ පුත්තලම දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 50ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවත් එම නිවේදනයේ සඳහන්ය.
+
+එමෙන්ම ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ මධ්‍යම පළාත්වල අහස වලාකුළින් බරව පවතිනු ඇති බවත් එම නිවේදනයේ සඳහන් වෙයි.
+
+දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් 06 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහලින් පවතින අතර අද දින දහවල් 12:11ට ඔඩ්ඩුසුඩාන්, මාන්ලකුලම්, තෙරන්කන්දල් සහ මල්ලාවි ප්‍රදේශවලට හිරු මුදුන්ව පවතින බවත් එම නිවේදනයේ සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/5a270159.json)
+
+---
 
 ### AKD pledges to ensure economic democracy in SL
 
@@ -903,6 +1019,22 @@ The Sri Lankan team has played eight Tests in the Prices of the Prices and no co
 [Data](articles/6bac0899.json)
 
 [Extended Data](ext_articles/6bac0899.ext.json)
+
+---
+
+### කුසල් ඉවතට - ශ්‍රී ලංකා සංචිතය නම් කරයි
+
+*2024-08-28 20:42:35* · [`adalk`](https://www.ada.lk/sports/කුසල්-ඉවතට---ශ්‍රී-ලංකා-සංචිතය-නම්-කරයි/9-411616) · `si`
+
+එංගලන්ත කණ්ඩායමට එරෙහිව හෙට(29දා)  ආරම්භ වන  දෙවැනි ටෙස්ට් ක්‍රිකට් තරගය සඳහා ක්‍රීඩා කරන ශ්‍රී ලංකා සංචිතය නම් කර තිබේ.
+
+කුසල් මෙන්ඩිස් කණ්ඩායමෙන් ඉවත් කර ඇති අතර, ඒ වෙනුවට පැතුම් නිශ්ශංක කණ්ඩායමේ ස්ථානයන් හිමි කරගෙන තිබේ.
+
+එමෙන්ම වේග පන්දු යවන ක්‍රීඩක විශ්ව ප්‍රනාන්දු ඉවත් කර , ඒ වෙනුවට ලහිරු කුමාර කණ්ඩායමට එක් කරගැනීමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/780a846d.json)
 
 ---
 
@@ -2285,175 +2417,5 @@ The suspect and the cell phones have been handed over to the foam police for fur
 [Data](articles/eb5c71c0.json)
 
 [Extended Data](ext_articles/eb5c71c0.ext.json)
-
----
-
-### Sri Lanka Supreme Court nixes case against Wickremesinghe candidacy
-
-*2024-08-28 13:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-supreme-court-nixes-case-against-wickremesinghe-candidacy-178223/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Supreme Court has rejected a petition that challenged the eligibility of Ranil Wickremesinghe to contest in the upcoming Presidential polls, his media office said.
-
-The petitioners had cited failure to appoint an Acting Inspector General of Police after a court order suspended the incumbent, as well as judges of the Supreme Court and Court of Appeal.
-
-The petitioner was ordered to pay 50,000 rupees a court fees. (Colombo/Aug28/2024)
-
-◼️
-
-[Data](articles/9486ce5b.json)
-
-[Extended Data](ext_articles/9486ce5b.ext.json)
-
----
-
-### There were no death arm from the President's struggle
-
-*2024-08-28 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200418) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-No death penalty for President's struggle. 39 candidates ran for presidency, one died. Election Commission received calls from 2 candidates' phone numbers, none active on Facebook. Only 15 candidates communicated effectively. 23 candidates failed to submit passport photos or communicate at all.
-
-🟩
-
-Democratic, Reforms and Elections Studies, Executive Director of Elections Manjula Ganantha says that there is no nominations for the presidential election.
-
-He said that "today's Derana Facus" program was added.
-
-39 candidates have passed for the presidential election and one candidate has passed away recently.
-
-"Not yet replaced by the person who passed. I see some weakness in not being. If the organized man contributed to this process, there must be a substantial. PEPA A and PEPAN A Believe in some way as a dishonesty. Only 15 of these 38 have met with at least 10 people.
-
-I am very responsible and this statement makes this statement. One of Pocket Mites is only 15 organized by we organized a meeting. One died one person. 23 more people left. There are no one of those 23 of those 23.
-
-...
-
-[Data](articles/17dc8804.json)
-
-[Extended Data](ext_articles/17dc8804.ext.json)
-
----
-
-### People make the economy
-
-*2024-08-28 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200417) · `si`
-
-Namal Rajapaksa: People drive economy, not politicians. He criticized current tax policies as unfair to small businesses. Promises to create a more favorable economic environment for citizens.
-
-🟩
-
-The presidential candidate named Namal Rajapaksa says that the Sri Lanka Ceremony Front is responsible for the development of the economy of the people of the country.
-
-He was speaking at a seat meeting in Mawathagama.
-
-The Mawathagama electoral meeting was held at the Sri Lanka General Candidate Namal Rajapaksa yesterday (27).
-
-The presidential candidate Namal Rajapaksa said in the Sri Lanka General Front,
-
-...
-
-[Data](articles/27c3e4f4.json)
-
-[Extended Data](ext_articles/27c3e4f4.ext.json)
-
----
-
-### Anurasa to climb the underworld
-
-*2024-08-28 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200416) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka politician Anura Kumara Dissanayake claims government ties to drugs and organized crime. He argues crimes increased after politicians' involvement in drug trade.
-
-🟩
-
-UNP candidate candidate Anura Kumara Dissanayake says that the government is creating drugs and underworld.
-
-He was held in Negombo yesterday (27), a rally held in Negombo yesterday afternoon yesterday (27), a rally was held in Negombo.
-
-The National Campaign Canditate Anura Kumara Dissanayake said
-
-"Our country's powder and underworld are together. There were never unbelieving criminal gangs in Sri Lanka. Crimes took place. There was no organized crime gangs. But how can you now?Now can lead to killing from Dubai. You can sit in prison and lead powder businesses. What is the crime now?Organized crime. The President made these organized crime gangs. Regional Politicians were raped by local politicians. Therefore, there is a relationship between these powder and politics. So remember that we create a government that is being stood by this heroin and underworld. That government is the government. "
-
-◼️
-
-[Data](articles/049cb343.json)
-
-[Extended Data](ext_articles/049cb343.ext.json)
-
----
-
-### BJP Bengal strike: Protesters block train tracks, buses in eastern India
-
-*2024-08-28 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101566/bjp-bengal-strike-protesters-block-train-tracks-buses-in-eastern-india) · `en`
-
-Protesters blocked train tracks, stopped buses and shouted slogans in the eastern Indian state of West Bengal on Wednesday, the latest in a series of protests that have rocked the state since the rape and murder of a trainee doctor.
-
-Police fired tear-gas and water cannon to disperse protesters marching towards the state secretariat on Tuesday, prompting Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP), which is in opposition in the state, to call for a 12-hour state-wide strike on Wednesday, to protest against what it said were police atrocities.
-
-Thousands of protesters, most of them BJP workers, blocked roads and railway tracks and forced shops to shut down on Wednesday, while authorities braced for more protests through the day.
-
-A top police official said 5,000 police personnel were deployed to quell any violence across West Bengal.
-
-...
-
-[Data](articles/b9f88e04.json)
-
-[Extended Data](ext_articles/b9f88e04.ext.json)
-
----
-
-### Sri Lanka’s LTL group starts 220MW gas turbine of LNG capable IPP
-
-*2024-08-28 13:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-ltl-group-starts-220mw-gas-turbine-of-lng-capable-ipp-178219/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has declared open the first phase of a 350 MW liquefied natural gas capable combined cycle plant built by Sri Lanka’s LTL group, his media office said.
-
-The open cycle (gas turbine) section of the plant is 220 MegaWatts according to the LTL website.
-
-The steam turbine which would come into operation later would be 130MW.
-
-Dubbed ‘Sobadhanavi’ the plant would initially run on liquid fuel.
-
-LTL has struck a deal with India’s Petronet LNG to supply LNG from later. (Colombo/Aug28/2024)
-
-◼️
-
-[Data](articles/269acfce.json)
-
-[Extended Data](ext_articles/269acfce.ext.json)
-
----
-
-### Presidential Sangha Sangha Conference on Hokore
-
-*2024-08-28 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200414) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka faces economic crisis, President Wickremesinghe addresses Sangha Sangha Conference. He cites GDP drop from 8.9% to 7.6%, forex reserves decrease from $7 billion to $100 million. Focuses on economic stability, reducing prices, increasing products, and obtaining foreign currency. Emphasizes the need for honesty and not lying about the country's situation.
-
-🟩
-
-President Ranil Wickremesinghe says that the country is going to the crisis, not the future of the presidential election.
-
-Addressing the Sangakorala Maha Sangha Sangha in Kurunegala, the President said.
-
-"When accepting the presidency, the Sangha was blessed. That's where the work started. At a time when everyone else could not accept, I accepted. Gross Domestic Production of 2019 ADB. 89. When I took over again, a lot. 76. There were reduced by 13 million.
-
-There were 7 AD 7 of the Forex Reserve 2019. When it comes to overcome again. Not 100 million. We had oil, fertilizer and medicine. Some have forgotten what happened to 2022. It is determined to be in the presidential election. I wanted to bring this program ahead. Need to establish economic stability. People are still in trouble. Some say tax reduced taxes. If income is reduced, the covenants break.
-
-...
-
-[Data](articles/0f51fa8b.json)
-
-[Extended Data](ext_articles/0f51fa8b.ext.json)
 
 ---

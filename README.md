@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 09:37:10**
+As of **2024-08-29 09:56:25**
 
 ## Newspaper Stats
 
-*Scraped **43,160** Articles*
+*Scraped **43,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 415
 islandlk | 2,516
 economynextcom | 2,607
 dailyftlk | 2,809
-adalk | 3,991
+adalk | 3,992
 dailymirrorlk | 4,733
-adaderanalk | 5,075
+adaderanalk | 5,077
 tamilmirrorlk | 5,630
 virakesarilk | 6,859
 adaderanasinhalalk | 7,401
@@ -26,25 +26,61 @@ adaderanasinhalalk | 7,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,156 (100.0%) of 43,160 articles have been extended.
+43,160 (100.0%) of 43,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
 
-### தலதாவின் இடத்துக்கு பரணவிதானகே
+### Ex-Provincial Councillor arrested for aiding ‘Club Wasantha’ murder suspects
+
+*2024-08-29 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101583/ex-provincial-councillor-arrested-for-aiding-club-wasantha-murder-suspects-) · `en`
+
+A former Western Provincial Councillor has been arrested for allegedly aiding and providing lodging to the second gunman and the car driver involved in the killing of two persons including businessman Surendra Wasantha Perera, also known as’Club Wasantha’.
+
+◼️
+
+[Data](articles/8667b06f.json)
+
+---
+
+### UN food agency suspends staff movement in Gaza after vehicle fired on
+
+*2024-08-29 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101582/un-food-agency-suspends-staff-movement-in-gaza-after-vehicle-fired-on) · `en`
+
+The United Nations World Food Programme temporarily suspended movement of its employees across the Gaza Strip on Wednesday, saying at least 10 bullets struck one of its clearly marked vehicles as it approached an Israeli military checkpoint.
+
+WFP said in a statement that a convoy of two armoured vehicles received “multiple clearances by Israeli authorities to approach” the Wadi Gaza bridge checkpoint on Tuesday evening. Bullets hit one of the vehicles, but no one in it was hurt.
+
+“Though this is not the first security incident to occur during the war, it is the first time that a WFP vehicle has been directly shot at near a checkpoint, despite securing the necessary clearances,” WFP said.
+
+It said the vehicle was a “few metres” from the Israeli checkpoint when it was hit.
+
+...
+
+[Data](articles/8cfc1ac6.json)
+
+---
+
+### Paranavidhanage to the place of Talata
 
 *2024-08-29 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/192262) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் உறுப்பினர் தலதா அதுகோரல பாராளுமன்ற உறுப்பினர் பதவியை துறந்ததன் காரணமாக ஏற்பட்ட பாராளுமன்ற உறுப்பினர் பதவி வெற்றிடத்துக்கு முன்னாள் பாராளுமன்ற உறுப்பினர் கருணாரத்ன பரணவிதானகே என்பரை நியமிக்க பெயர் குறிப்பிட்டு தேர்தல்கள் ஆணைக்குழு வர்த்தமானி அறிவித்தலை வெளியிட்டுள்ளது.
+Elections Commission appoints Karunaratne Paranavidhanage as MP after Talata Athukorala's resignation.
 
-இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர்  தலதா அதுகோரல  பாராளுமன்ற உறுப்பினர் பதவியை துறந்ததன் காரணமாக பாராளுமன்ற உறுப்பினர் பதவி வெற்றிடமாகியுள்ளாக பாராளுமன்ற செயலாளர் நாயகம் தேர்தல்கள் ஆணைக்குழுவுக்கு எழுத்து மூலமாக அறிவித்திருந்தார்.
+🟩
 
-தெரிவத்தாட்சி அலுவலர் அரசியலமைப்பின் 99 (13 (ஆ) ஆம் உப உறுப்புரைக்கமைய மற்றும் 1981 ஆம் ஆண்டின் 1 ஆம் இலக்க பாராளுமன்றத் தேர்தல்கள் சட்டத்தின் 64 (2) ஆவது உறுப்புரையின் கீழ் நடவடிக்கைகளை மேற்கொண்டு அந்தத் தேர்தல் மாவட்டத்துக்கான பாராளுமன்ற உறுப்பினராக கருணாரத்ன பரணவிதானகே என்பவரை நியமிக்க  தேர்தல்கள் ஆணைக்குழுவினால் பெயர் குறிப்பிட்டு வர்த்தமானி வெளியிடப்பட்டுள்ளது.
+The Elections Commission has issued a gazette notification to appoint former MP Karunaratne Paranavidhanage to the vacancy of the parliamentary post due to the departure of the United People's Power Member Talatha Athukorala MP.
+
+Ratnapura District Member of Parliament, Dalada Athukorala, has in writing to the Elections Commission in writing due to the departure of the parliamentary post.
+
+The Elections Commission has issued a name to the Elections Commission to appoint Karunaratne Paranavidanage as a Member of Parliament for the Election District, under Article 64 (2) of the Parliamentary Elections Act No. 1 of 1981, under Article 99 (13 (13) of the Constitution of the Employees' Constitution.
 
 ◼️
 
 [Data](articles/5272a3c7.json)
+
+[Extended Data](ext_articles/5272a3c7.ext.json)
 
 ---
 
@@ -68,61 +104,87 @@ MP Lakshman Kiriella mentioned that Samagi Jana Balawegaya’s (SJB) Presidentia
 
 ---
 
-### படகு விபத்துக்குள்ளாகி மாயமான இந்திய மீனவர்களில் ஒருவர் சடலமாக மீட்பு !
+### One of the most mysterious Indian fishermen recovered
 
 *2024-08-29 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/192263) · `ta`
 
-கடந்த செவ்வாய்க்கிழமை (26)  மீன் பிடித்து விட்டு கரை திரும்பிய போது சூறைக்காற்றினால் நடுக்கடலில் இந்திய படகு மூழ்கி விபத்துக்குள்ளானது.
+Indian fishermen rescue Mediterranean Sea tragedy 2 missing 1 body recovered demand government aid
 
-அப்போது மூழ்கிய படகில் இருந்து இரண்டு மீனவர்கள் நீந்தி  இலங்கை கடற்படையினரின் உதவியால் யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரக அதிகாரியிடம் ஒப்படைக்கப்பட்டு  விமானம் மூலம் தாயகம் திரும்பி உள்ளதாக அதிகாரிகள் தகவல் தெரிவித்துள்ளனர்.
+🟩
 
-இந்நிலையில், இரு மீனவர்கள் காணாமல் போனார்கள். அவர்களை ராமேஸ்வரம் மீன்வளத்துறை அதிகாரிகள் அனுமதியோடு  சக மீனவர்கள்  இரண்டு நாட்களாக தேடி வந்த நிலையில் நேற்று புதன்கிழமை  (28)  மாலை  நடுக்கடலில்  மாயமான மீனவர்களில் ஒருவர்  உயிரிழந்த நிலையில் சடலமாக  மீட்கப்பட்டுள்ளார்.
+The Indian boat drowned in the Mediterranean Sea when a tornado returned to shore last Tuesday (26).
 
-உடலை கைப்பற்றிய மீனவர்கள்  ராமேஸ்வரம் மீன்பிடி துறைமுகத்திற்கு உடலை எடுத்து வந்து சேர்த்தனர். இதையடுத்து உடற்கூற்று பரிசோதனைக்காக ராமேஸ்வரம் வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+Officials have reported that two fishermen swim from the boat and handed over to the Indian Consulate in Jaffna with the help of the Sri Lankan navy.
 
-மேலும், நடுக்கடலில் மாயமான  மீனவரை அரசு தேடித் தரும்படி கோரிக்கை விடுத்துள்ள உறவினர்கள் இறந்த மீனவர் எமரிட் குடும்பத்திற்கு அரசு நிவாரண தொகை வழங்க வேண்டும் எனவும் கோரிக்கை விடுத்துள்ளனர்.
+In this case, two fishermen disappeared. Rameshwaram Fisheries Officers have been rescued after a two -day fishermen have been found dead in the Mediterranean Sea on Wednesday evening.
+
+The fishermen who seized the body brought the body to the Rameswaram fishing harbor. Subsequently, it has been placed at the Rameswaram Hospital for anatomical examination.
+
+In addition, relatives who have demanded the government to search for a mysterious fisherman in the Mediterranean have called for the government to provide relief to the family of the deceased fisherman.
 
 ◼️
 
 [Data](articles/8f0aae8e.json)
 
+[Extended Data](ext_articles/8f0aae8e.ext.json)
+
 ---
 
-### யாழில் தொடர் காய்ச்சலால் குடும்பப் பெண் உயிரிழப்பு!
+### Family female death in Jaffna
 
 *2024-08-29 08:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/192261) · `ta`
 
-யாழில், 20 நாட்கள் தொடர் காய்ச்சல் காரணமாக குடும்பப் பெண் ஒருவர் நேற்று புதன்கிழமை (28) உயிரிழந்துள்ளார்.
+Here's a summary of the article in 200 characters:
 
-இதன்போது நாரந்தனை மத்தி, ஊர்காவற்துறை பகுதியைச் சேர்ந்த 62 வயதுடைய  ஏழு பிள்ளைகளின் தாயார் உயிரிழந்துள்ளார்.
 
-இவர் கிளிநொச்சியில் மகள் வீட்டில் இருந்தவேளை கடந்த 7ஆம் திகதி காய்ச்சல் ஏற்பட்டதால் கிளிநொச்சி வைத்தியசாலையில் சிகிச்சை பெற்றுள்ளார். இருப்பினும் இடையிடையே காய்ச்சல் ஏற்பட்டுள்ளது.
 
-பின்னர் 17ஆம் திகதி ஊர்காவற்துறை வைத்தியசாலையில் சிகிச்சை பெற்றுள்ளார். அதன் பின்னரும் காய்ச்சல் ஏற்பட்ட நிலையில் 19 ஆம் திகதி ஊர்காவற்துறை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். அதன் பின்னர் 27ஆம் திகதி மேலதிக சிகிச்சைக்காக யாழ். போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+62-year-old woman dies in Jaffna after 20-day fever. Mother of 7-year-old twins. Treated at Kilinochchi and Kayts hospitals before being admitted to teaching hospital where she passed away. Death investigated by Namasivayam Premkumar. Body handed over to relatives after examination.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டுள்ளதோடு, உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது.
+🟩
+
+In Jaffna, a family woman died on Wednesday (28) due to a 20 -day fever.
+
+The mother of seven -year -old children, aged 62, from Kayts, Narandana, died.
+
+When she was at home in Kilinochchi, she was treated at the Kilinochchi Hospital due to a fever on the 7th of last month.. However, there is a fever in between.
+
+He was later treated at the Kayts Hospital on the 17th. He was admitted to the Kayts Hospital on the 19th of this month. Then on the 27th for further treatment. He was admitted to the teaching hospital and died without treatment.
+
+Sudden death investigators Namasivayam Premkumar have carried out the death investigations into his body and the body has been handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/ec7e23df.json)
 
+[Extended Data](ext_articles/ec7e23df.ext.json)
+
 ---
 
-### வவுனியா நகரில் தொடர் விபத்துக்களை ஏற்படுத்திய சாரதி மடக்கிப்பிடிப்பு
+### Driver
 
 *2024-08-29 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/192260) · `ta`
 
-வவுனியா நகரில் ஆபத்தான வகையில் காரைச் செலுத்தி தொடர்ச்சியான விபத்துக்களை ஏற்படுத்திய சாரதி இளைஞர்களால் மடக்கிப்பிடிக்கப்பட்டு  பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
+Here's a summary of the text in 200 characters:
 
-வவுனியா, கூமாங்குளம் பகுதியில் இருந்து காரை செலுத்தி வந்த இளைஞர் ஒருவர் உக்கிளாங்குளம் பகுதியில் விபத்தினை ஏற்படுத்திவிட்டு நிறுத்தாமல் தப்பிச் சென்றுள்ளார்.
 
-இதன் போது வைரவபுளியங்குளம் மற்றும் நகரப் பகுதியில் பயணித்துக் கொண்டிருந்த ஏனைய வாகனங்களுடனும் மோதி விபத்தினை ஏற்படுத்தியுள்ளார்.
 
-இதனையடுத்து குறித்த காரை இளைஞர்கள் சிலர் விரட்டிச் சென்றுள்ளனர். அதிவேகமாக பயணித்த கார் பூந்தோட்டம், பெரியார்குளம் பகுதியில் வீதியின் கரையில் இருந்த மின்சார கம்பத்துடன் மோதி விபத்துக்குள்ளாகிய நிலையில் காரின் சாரதியை மடக்கிப் பிடித்த இளைஞர்கள், அவரை நையப்புடைத்ததுடன் பொலிஸாரிடம் ஒப்படைத்தனர்.
+Car chase ends in crash: Driver hacked, handed to police after hitting pole in Vavuniya.
+
+🟩
+
+The driver of the driver of the accident in Vavuniya has been hacked to police and has been handed over to the police.
+
+A youth who was driving a car from Kumangulam, Vavuniya has escaped without causing an accident in Ukkilangulam.
+
+During this time, he had collided with other vehicles traveling in Vairavapuliyankulam and Urban area.
+
+Subsequently, some of the youths chased the car. The high -speed car gardens collided with an electric pole on the banks of the road in Periyargulam area and the youths who had folded the car's driver were handed over to the police.
 
 ◼️
 
 [Data](articles/46aeafe9.json)
+
+[Extended Data](ext_articles/46aeafe9.ext.json)
 
 ---
 
@@ -361,6 +423,26 @@ The Department has advised to avoid going to the deep sea of ​​North Bengal 
 [Data](articles/3f58a989.json)
 
 [Extended Data](ext_articles/3f58a989.ext.json)
+
+---
+
+### දියණියට කෲර ලෙස පහරදුන් පියා අල්ලයි
+
+*2024-08-29 07:35:08* · [`adalk`](https://www.ada.lk/breaking_news/දියණියට-කෲර-ලෙස-පහරදුන්-පියා-අල්ලයි/11-411619) · `si`
+
+බණ්ඩාරවෙල ලියන්ගහවෙල අඹදන්ඩේගම ප්‍රදේශයේ නිවසක දි දැල්වූ ගිනිකූරකින් සිය බාලවයස්කාර 12 හැවිරිදි දියණියගේ මුහුණ පුලුස්සා   බැණ තර්ජනය කරමින් පහරදී දී  දියණියට කෲර වධහිංසා දුන්නැයි සැකපිට දෙදරු පියෙකු ඊයේ (28) අත්අඩංගුවට ගත් බව ලියන්ගහවෙල පොලිසිය පවසයි .
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ බණ්ඩාරවෙල අඹදන්ඩේගම මැදපතන ප්‍රදේශයේ පදිංචි 40 හැවිරිදි දෙදරු පියෙකු යැයි පොලිසිය කීය .
+
+දැල්වූ ගිනිකූරකින් මුහුණ පුලුස්සා  පහරදී මෙන්  තුවාල ලැබු බණ්ඩාරවෙල අඹදන්ඩේගම ප්‍රදේශයේ පදිංචි ලියන්ගහවෙල ප්‍රදේශයේ පාසලක 7 වසරේ ඉගෙනුම ලබන පාසල් සිසුවිය දියතලාව රෝහලට ඇතුළත් කළ බවද පොලිසිය පැවසීය .
+
+මෙම සිසුවිය ගේ මව  අඹදන්ඩේගම රෝස්ලෑන්ඩ්වත්ත  තේ කර්මාන්ත ශාලාවක රැකියාව කරන බවත් ,ඇයට  අවුරුදු හයක නැගනිය ක සිටින බවත් පොලිසිය පවසයි .
+
+සිසුවිය පාසල නිමවී සවස නිවසට  පැමිණ  කෑම කා මුලුතැන්ගේ  වතුර කරාමය අසල අත සෝදමින්  සිටියදී පැමිණ ඇති පියා  වැරදි කීපයක් තියෙනවා කියමින්   දැරියට බැණ තර්ජනය කරමින් අතින් පහරදී අතතිබූ ගිනිපෙට්ටියෙන් ගිනිකූරක් දල්වා දැරියගේ මුහුණ පුලුස්සා ඇතැයි පොලිසිය සදහන් කළේය .
+
+...
+
+[Data](articles/3de70fcf.json)
 
 ---
 
@@ -2363,87 +2445,5 @@ The petitioner has been ordered to pay 50,000 rupees as a court fee and the peti
 [Data](articles/987bf50d.json)
 
 [Extended Data](ext_articles/987bf50d.ext.json)
-
----
-
-### This will open 5499 this year Korea's job door
-
-*2024-08-28 16:19:16* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදි-5499ට-කොරියා-රැකියා-දොර-ඇරෙයි/11-411610) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-5499 Sri Lankans left South Korea jobs in 8 months. Hundreds more youth went to South Korea for manufacturing jobs under MoU between Sri Lanka Bureau and South Korean HR Development Services. Sri Lankans have been working in South Korea since 2004.
-
-🟩
-
-During the past 8 months of the past eight months, 5,499 Sri Lankans have left the jobs of South Korea.
-
-Meanwhile, hundreds of other youths who have employed employment in the field of manufacturing sector were gone to South Korea yesterday (8/27).
-
-Sri Lankans have employed in South Korea in terms of the Memorandum of Memorandum of Memorandum of the Sri Lanka Bureau and South Korean Human Resources Development Services. According to the MoU, Sri Lankans continued to work in South Korea since 2004 and today is more interested in South Korea.
-
-◼️
-
-[Data](articles/1e766cc7.json)
-
-[Extended Data](ext_articles/1e766cc7.ext.json)
-
----
-
-### Udith Lokubandara buds arrive at the office
-
-*2024-08-28 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200424) · `si`
-
-Udith Lokubandara SLFP member arrives office private secretary Mahinda Rajapaksa arrested attending Civil Appointment discussion Weerasinghe statement
-
-🟩
-
-Udith Lokubandara, a member of the Sri Lanka Freedom Party (SLFP) had arrived at the Government's Office (28).
-
-Udith Lokubandara worked as a private secretary of former President Mahinda Rajapaksa.
-
-It is reported that he had come to attend a discussion held at the Civil Appointment.
-
-Member of Parliament arrested for this discussion. Weerasinghe said,
-
-"Udith Lokubaraara too. Can come if he comes. But he's coming, when someone goes,. The people of the country are loosed by people to moving around. "
-
-◼️
-
-[Data](articles/00ef8a1b.json)
-
-[Extended Data](ext_articles/00ef8a1b.ext.json)
-
----
-
-### Diesel and kerosene price for fishermen. Reduces by 25
-
-*2024-08-28 16:12:32* · [`adalk`](https://www.ada.lk/breaking_news/ධීවරයින්-වෙනුවෙන්-ඩීසල්-හා-භූමිතෙල්-මිල-රු--25කින්-අඩු-කරයි/11-411609) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Fishermen receive fuel subsidies: 25% off diesel/kerosene prices. Maximum 15L/month kerosene, 9375L diesel. Reimbursement based on vessel capacity. Implemented until June 2024. Calculated at 7.5% for diesel, 12.5% for kerosene.
-
-🟩
-
-The Director of the Fisheries Department has been released as a subsidy for fuel for fuel and Rs.
-
-The fuel subsidy has been implemented since the 23rd of the past 23rd and the Cabinet paper at the Cabinet paper at the Cabinet meeting held on the 21st.
-
-The Fisheries Conference recently provided the fuel relief to provide fuel relief to the fishermen's demands to minimize the impact on the economic crisis held at the Colombo Exhibition and Conference Center.Responding to request the above relief provided.
-
-According to the circular dfar / 2024/001, a liter of kerosene to a maximum of Rs.. 25 is due to be given. A maximum of 15 liters per month for a maximum of 15 liters per month for a maximum of Rs.. 9375 may be decided to reimbursement.
-
-The government has decided to restore the fishing type of fishing type of fishing type of fishing type for the fishermen for the fishing venture, which is purchased for Rs.Have.
-
-...
-
-[Data](articles/8ca81bf5.json)
-
-[Extended Data](ext_articles/8ca81bf5.ext.json)
 
 ---

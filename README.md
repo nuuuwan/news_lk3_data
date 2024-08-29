@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 12:22:24**
+As of **2024-08-29 12:37:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,189 (100.0%) of 43,193 articles have been extended.
+43,193 (100.0%) of 43,193 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,17 +50,25 @@ Amarasuriya said the NPP wants to maintain ties with China since the country had
 
 [Data](articles/3b7d145d.json)
 
+[Extended Data](ext_articles/3b7d145d.ext.json)
+
 ---
 
-### ජගත් කුමාරගේ සහාය සජිත්ට
+### Sajith to support Jagath Kumara
 
 *2024-08-29 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200458) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමට තමන් තීරණය කළ බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ජගත් කුමාර පවසයි.
+Sri Lanka opposition leader Sajith Premadasa receives support from General Jagath Kumara for upcoming presidential election.
+
+🟩
+
+Sri Lanka General Kumara said he decided to support Opposition Leader Sajith Premadasa in the next presidential election.
 
 ◼️
 
 [Data](articles/f4be29aa.json)
+
+[Extended Data](ext_articles/f4be29aa.ext.json)
 
 ---
 
@@ -73,6 +81,8 @@ The Sri Lanka Podujana Peramuna’s (SLPP) Colombo District MP Jagath Kumara has
 ◼️
 
 [Data](articles/5398f543.json)
+
+[Extended Data](ext_articles/5398f543.ext.json)
 
 ---
 
@@ -100,21 +110,31 @@ It consists of 5 key features to a philosophical society, Mawbima Dinuwamu and U
 
 ---
 
-### சட்டங்களை இயற்ற குழு நியமிக்கப்படும்
+### Will be appointed by the panel to enact laws
 
 *2024-08-29 11:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டங்களை-இயற்ற-குழு-நியமிக்கப்படும்/175-342967) · `ta`
 
-ஊழலுக்கு எதிரான புதிய சட்டங்களை இயற்றுவது தொடர்பான விடயங்களை ஆராய குழுவொன்றை நியமிப்பதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-தனது தேர்தல் விஞ்ஞாபனத்தை வெளியிடும் விழாவில் அவர் பேசுகையில், சபாநாயகர், தொழில்முறை சங்கம், இலங்கை சட்டத்தரணிகள் சங்கம் (BASL) மற்றும் வர்த்தக சம்மேளனம் ஆகியவற்றால் நியமிக்கப்பட்ட உறுப்பினர்களை இந்தக் குழு உள்ளடக்கியிருக்கும் எனத் தெரிவித்தார்.
 
-ஊழலுக்கு எதிரான சில சட்டங்கள் ஏற்கனவே அமுல்படுத்தப்பட்டுள்ள நிலையில் இன்னும் சில சட்டங்கள் இயற்றப்பட உள்ளதாக ஜனாதிபதி தெரிவித்தார்.
 
-ஊழலுக்கு எதிராக நடவடிக்கை எடுக்க வேண்டும், திருடர்களை பிடிக்க வேண்டும் என அனைவரும் பேசுகின்றனர், அதை எப்படி செய்யப் போகிறார்கள்? திருடர்களைப் பிடிக்க நாங்கள் சட்டம் கொண்டு வருகிறோம், வெறுமனே பேசுவது எளிது, என ஜனாதிபதி மேலும் கூறினார்.
+President Wickremesinghe announces committee to investigate new anti-corruption laws. Includes members from Speaker, Professional Associations, BASL, and Chamber of Commerce. Some existing laws already implemented. Committee aims to strengthen legal measures against corruption.
+
+🟩
+
+President Ranil Wickremesinghe said he would appoint a committee to investigate issues relating to the enactment of new laws against corruption.
+
+Speaking at a function to publish his election manifesto, he said the committee would include members appointed by the Speaker, Professional Association, the Basl and the Chamber of Commerce.
+
+The President said that some of the laws against corruption have already been implemented.
+
+Everyone is talking about taking action against corruption and catching thieves, how are they going to do it?The President added that we are bringing the law to catch thieves and simply talking.
 
 ◼️
 
 [Data](articles/bd7b96b6.json)
+
+[Extended Data](ext_articles/bd7b96b6.ext.json)
 
 ---
 

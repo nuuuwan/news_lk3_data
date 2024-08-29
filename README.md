@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 09:56:25**
+As of **2024-08-29 10:09:27**
 
 ## Newspaper Stats
 
-*Scraped **43,163** Articles*
+*Scraped **43,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,75 @@ dailymirrorlk | 4,733
 adaderanalk | 5,077
 tamilmirrorlk | 5,630
 virakesarilk | 6,859
-adaderanasinhalalk | 7,401
+adaderanasinhalalk | 7,406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,160 (100.0%) of 43,163 articles have been extended.
+43,163 (100.0%) of 43,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
+
+### ජනපති රනිල්ගේ ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීම
+
+*2024-08-29 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200455) · `si`
+
+ස්වාධීන අපේක්ෂකයෙකු ලෙස මෙවර ජනාධිපතිවරණයට ඉදිරිපත්ව සිටින ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීමේ උත්සවය මේ වනවිට ආරම්භ කර තිබේ.
+
+කොළඹ ටාජ් සමුද්‍රා හෝටලයේ දී එම උත්සවය පැවැත්වෙන අතර එහි සජීවි විකාශය පහතින් දැක්වේ.
+
+"රනිල් සමග රට දිනවන වසර 5ක්" යන තේමාව ප්‍රතිපත්ති ප්‍රකාශය නම් කර තිබේ.
+
+◼️
+
+[Data](articles/96212bbb.json)
+
+---
+
+### වව්නියාවේ පාස්පෝට් කන්තෝරුව අසල උණුසුම් තත්ත්වයක්
+
+*2024-08-29 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200454) · `si`
+
+ආගමන විගමන දෙපාර්තමේන්තු වව්නියාව ප්‍රාදේශීය කාර්යාලය ඉදිරිපිට උණුසුම් තත්ත්වයක් හටගෙන ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/10b33d30.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතකයින්ට නවාතැන් දුන් හිටපු මන්ත්‍රී අත්අඩංගුවට
+
+*2024-08-29 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200453) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය සම්බන්ධ දෙවැනි තුවක්කුකරුට සහ මෝටර් රථ රියදුරාට ආධාර අනුබල දුන් සහ නවාතැන් සැපයූ බව පැවසෙන අයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ බස්නාහිර පළාත් සභා හිටපු මන්ත්‍රීවරයක් බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/b99847ce.json)
+
+---
+
+### වගකීම භාරගත් නාමල්
+
+*2024-08-29 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200452) · `si`
+
+රාජ්‍ය සේවය කාර්යක්ෂම කිරීම සඳහා නව තාක්ෂණය හඳුන්වා දිය යුතු බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ ඒ සඳහා නිසි වැඩපිළිවෙලක් සිය පක්ෂය සතුව පවතින බවය.
+
+හක්මන ප්‍රදේශයේ පැවති ජනරැලියක් අමතමින් නාමල් රාජපක්ෂ මහතා මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/1f11f67d.json)
+
+---
 
 ### Ex-Provincial Councillor arrested for aiding ‘Club Wasantha’ murder suspects
 
@@ -41,6 +99,24 @@ A former Western Provincial Councillor has been arrested for allegedly aiding an
 ◼️
 
 [Data](articles/8667b06f.json)
+
+[Extended Data](ext_articles/8667b06f.ext.json)
+
+---
+
+### ජාතිවාදයට යටත් නොවූ අනුරගේ ආණ්ඩුවක්
+
+*2024-08-29 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200451) · `si`
+
+ජාතික ජනබලවේග ආණ්ඩුවක් යටතේ රට තුළ ජාතිවාදයට ඉඩක් නොමැති බව එහි ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ පසුගිය රජයන් විසින් ජාතිවාදය අවුස්සා සිය දේශපාලන උවමනාවක් ඉටුකරගැනීමට කටයුතු කළ බවය.
+
+කින්නියා ප්‍රදේශයේ පැවති ජන රැලියක් අමතමින් අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේය.
+
+...
+
+[Data](articles/9d766741.json)
 
 ---
 
@@ -59,6 +135,8 @@ It said the vehicle was a “few metres” from the Israeli checkpoint when it w
 ...
 
 [Data](articles/8cfc1ac6.json)
+
+[Extended Data](ext_articles/8cfc1ac6.ext.json)
 
 ---
 
@@ -426,23 +504,33 @@ The Department has advised to avoid going to the deep sea of ​​North Bengal 
 
 ---
 
-### දියණියට කෲර ලෙස පහරදුන් පියා අල්ලයි
+### Father arrested for brutal assaults to daughter
 
 *2024-08-29 07:35:08* · [`adalk`](https://www.ada.lk/breaking_news/දියණියට-කෲර-ලෙස-පහරදුන්-පියා-අල්ලයි/11-411619) · `si`
 
-බණ්ඩාරවෙල ලියන්ගහවෙල අඹදන්ඩේගම ප්‍රදේශයේ නිවසක දි දැල්වූ ගිනිකූරකින් සිය බාලවයස්කාර 12 හැවිරිදි දියණියගේ මුහුණ පුලුස්සා   බැණ තර්ජනය කරමින් පහරදී දී  දියණියට කෲර වධහිංසා දුන්නැයි සැකපිට දෙදරු පියෙකු ඊයේ (28) අත්අඩංගුවට ගත් බව ලියන්ගහවෙල පොලිසිය පවසයි .
+Father arrested for assaulting daughter in Bandarawela, Sri Lanka. 40-year-old man accused of burning 7th-grade girl. Incident occurred in Ambhadandaragama. Suspect to appear in court.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ බණ්ඩාරවෙල අඹදන්ඩේගම මැදපතන ප්‍රදේශයේ පදිංචි 40 හැවිරිදි දෙදරු පියෙකු යැයි පොලිසිය කීය .
+🟩
 
-දැල්වූ ගිනිකූරකින් මුහුණ පුලුස්සා  පහරදී මෙන්  තුවාල ලැබු බණ්ඩාරවෙල අඹදන්ඩේගම ප්‍රදේශයේ පදිංචි ලියන්ගහවෙල ප්‍රදේශයේ පාසලක 7 වසරේ ඉගෙනුම ලබන පාසල් සිසුවිය දියතලාව රෝහලට ඇතුළත් කළ බවද පොලිසිය පැවසීය .
+A father of two was arrested yesterday (28) was assassinated by a networking fire in Liyadandegama in Bandarawela, Bandarawela.
 
-මෙම සිසුවිය ගේ මව  අඹදන්ඩේගම රෝස්ලෑන්ඩ්වත්ත  තේ කර්මාන්ත ශාලාවක රැකියාව කරන බවත් ,ඇයට  අවුරුදු හයක නැගනිය ක සිටින බවත් පොලිසිය පවසයි .
+The suspect was a 40 year old resident of Ambhadandaragama, Bandarawela, Bandarawela.
 
-සිසුවිය පාසල නිමවී සවස නිවසට  පැමිණ  කෑම කා මුලුතැන්ගේ  වතුර කරාමය අසල අත සෝදමින්  සිටියදී පැමිණ ඇති පියා  වැරදි කීපයක් තියෙනවා කියමින්   දැරියට බැණ තර්ජනය කරමින් අතින් පහරදී අතතිබූ ගිනිපෙට්ටියෙන් ගිනිකූරක් දල්වා දැරියගේ මුහුණ පුලුස්සා ඇතැයි පොලිසිය සදහන් කළේය .
+The schoolgirl, the schoolgirl study in the 7th year, was admitted to the Diyatalawa Hospital, a resident of Ambhadandewela, who was bowled out.
 
-...
+The mother of the student is working at a tea factory in a tea factory in Ambadandaragama, Ambadandaragama.
+
+The boy said that the father had a few of the faults who had come to the house and washed near the water of the water, police said,
+
+The daughter's burn injuries were burned to the face of a fleet of fire, while the daughter went to school yesterday.A senior police officer said to be arrested.
+
+The suspected suspect is to be produced before the Bandarawela court.
+
+◼️
 
 [Data](articles/3de70fcf.json)
+
+[Extended Data](ext_articles/3de70fcf.ext.json)
 
 ---
 
@@ -2321,129 +2409,5 @@ The Biyagama Excise Special Operations Unit is conducting further investigations
 [Data](articles/c72ca50b.json)
 
 [Extended Data](ext_articles/c72ca50b.ext.json)
-
----
-
-### Illegal foreign liquor distillery raided in Kadawata
-
-*2024-08-28 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101570/illegal-foreign-liquor-distillery-raided-in-kadawata) · `en`
-
-Two individuals have been arrested after an illegal counterfeit foreign liquor distillery operated by a Singaporean national was raided by the Biyagama Excise Special Operations Unit in Kadawata today (28).
-
-The distillery, which had been running for a considerable period in a house in the Mahara area of Kadawata, has been exposed through intelligence received by the Army Intelligence.
-
-Acting on this information, the Biyagama Excise Special Operations Unit has swiftly raided the premises and apprehending the two suspects and confiscated the equipment and materials used in the production of counterfeit alcohol.
-
-During the operation, authorities have seized 54 bottles of counterfeit foreign whiskey, two bottle-sealing machines, and a large quantity of materials and equipment used for producing the fake liquor.
-
-The arrested suspects are currently in custody, and further investigations are being carried out by the Biyagama Excise Special Operations Unit, the police said.
-
-◼️
-
-[Data](articles/41e5fafb.json)
-
-[Extended Data](ext_articles/41e5fafb.ext.json)
-
----
-
-### Diplomacy in the bay of northern Bengal?
-
-*2024-08-28 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200427) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Strong winds expected in Northern Bay of Bengal. Heavy rainfall possible. Met Department advises fishermen to return to shore or seek shelter. Announcement made at 3:30 PM on 29th day.
-
-🟩
-
-The atmosphere of the Northern Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Meteorological Announces a new recent announcement.
-
-Very strong winds (a side of the sea areas). Is. Mee. 70-80) The announcement stresses that there may be heavy rains with rain.
-
-The Department of Meteorology has not been told that the Met Department should immediately return to the land or safe location of a multi-day fish vessel in the deep sea area.
-
-The announcement was issued today (29) at 3:30 pm today (29) at 3:30 pm.
-
-◼️
-
-[Data](articles/e892f310.json)
-
-[Extended Data](ext_articles/e892f310.ext.json)
-
----
-
-### The roof of the toilet, a inmate escapes
-
-*2024-08-28 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200426) · `si`
-
-Inmate breaks toilet roof during court appearance, causing escape. Detained for 4 years, now facing additional charges.
-
-🟩
-
-The inmate who was brought to the Kaluwakanku Court of court to be produced for a case have broken down part of the toilet roof of the court complex.
-
-The inmate was detained at the Batticaloa Prison on a four-year prison prescribed by the Eravur Court.
-
-After the police had completed one year after the sentence was fulfilled, the inmate was presented to the Kaluchaiki Court yesterday for another case.
-
-He is a 30 year old resident of the Iranamadu area in Kilinochchi.
-
-◼️
-
-[Data](articles/60e19b35.json)
-
-[Extended Data](ext_articles/60e19b35.ext.json)
-
----
-
-### Indian fishermen rescued in Kachchativu handed over to the Embassy
-
-*2024-08-28 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/192238) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-"Two Indian fishermen rescued after boat crash off Kachchativu. Navy saved two, searching for others. Handed over to Jaffna Indian Embassy. To be sent to India via Palali Airport tomorrow."
-
-🟩
-
-Two Indian fishermen have been handed over to the Indian Embassy in Jaffna on Wednesday (28).
-
-A boat engaged in fishing with four fishermen crashed into a water on Tuesday (27).
-
-In this case, the navy has rescued two fishermen and are searching for the other two missing fishermen.
-
-In this case, they were brought to the indicatan by the Kumudini boat today and were taken away from the Indian Embassy in Jaffna.
-
-The Jaffna Indian Embassy is taking steps to send them both of them to India through the Palali Airport tomorrow.
-
-◼️
-
-[Data](articles/b1e17af0.json)
-
-[Extended Data](ext_articles/b1e17af0.ext.json)
-
----
-
-### Supreme Court rejected the fundamental rights violation filed by the Supreme Court seeking to declare Ranil as ineligible to contest the presidential election
-
-*2024-08-28 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/192237) · `ta`
-
-Supreme Court rejects Ranil Wickremesinghe's eligibility challenge for presidential election due to police chief and judge appointments. Petitioner fined 50,000 rupees for false information. Case violates constitutional article 92.
-
-🟩
-
-In response, the Supreme Court has rejected the hearing of the fundamental rights violation petition filed by President Ranil Wickremesinghe to contest the presidential election on the basis of failing to appoint the Inspector General of Police and the appointment of judges to the High Court and the Court of Appeal.
-
-The petitioner has been ordered to pay 50,000 rupees as a court fee and the petitioners have submitted false information to the court and that the petition is violating the 92nd Article of the Constitution.
-
-◼️
-
-[Data](articles/987bf50d.json)
-
-[Extended Data](ext_articles/987bf50d.ext.json)
 
 ---

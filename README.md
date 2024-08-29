@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 07:58:14**
+As of **2024-08-29 08:18:18**
 
 ## Newspaper Stats
 
-*Scraped **43,134** Articles*
+*Scraped **43,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ dbsjeyarajcom | 361
 newsfirstlk | 363
 bbccomsinhala | 400
 colombotelegraphcom | 415
-islandlk | 2,505
+islandlk | 2,506
 economynextcom | 2,607
 dailyftlk | 2,809
 adalk | 3,990
 dailymirrorlk | 4,733
-adaderanalk | 5,072
+adaderanalk | 5,073
 tamilmirrorlk | 5,628
 virakesarilk | 6,855
 adaderanasinhalalk | 7,396
@@ -26,125 +26,183 @@ adaderanasinhalalk | 7,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,127 (100.0%) of 43,134 articles have been extended.
+43,134 (100.0%) of 43,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
 
-### පාතාල සාමාජිකයෙක්ව ඩුබායි සිට රැගෙන එයි
+### Accomplice of underworld figure ‘Matugama Shan’ brought back to Sri Lanka
+
+*2024-08-29 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101579/accomplice-of-underworld-figure-matugama-shan-brought-back-to-sri-lanka) · `en`
+
+Geethmal Benoy Dilshan, an accomplice of underworld figure “Matugama Shan”, who is allegedly involved in several crimes, was brought back to Sri Lanka from Dubai by CID officers, the Police Spokesman DIG Nihal Thalduwa said.
+
+◼️
+
+[Data](articles/726e61b4.json)
+
+---
+
+### A underworld member brings from Dubai
 
 *2024-08-29 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200444) · `si`
 
-අපරාධ රැසකට සම්බන්ධ සැකකරුවෙකු ලෙස සැලකෙන ගීත්මාල් බෙනෝයි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් ඩුබායි සිට මෙරටට රැගෙන විත් තිබේ.
+Underworld leader Matugama Shahan extradited from Dubai to CID in Sri Lanka for questioning about various crimes.
 
-මෙම සැකකරු පාතාල කල්ලි නායකයෙකු වන මතුගම ෂාන්ගේ ගෝලයකු බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+🟩
+
+The officials of the Criminal Investigations Department (CID) officers have been taken to Sri Lanka from Dubai, who is considered a suspect involved in many crimes.
+
+The suspect was a underworld leader, Matugama Shahan, a disciple of Matugama.
 
 ◼️
 
 [Data](articles/6778820b.json)
 
+[Extended Data](ext_articles/6778820b.ext.json)
+
 ---
 
-### අයි.එම්.එෆ්. සමග නැවත සාකච්ඡා කිරීම බරපතල ක්‍රියාවලියක්
+### IMF. Re-negotiating with a serious process
 
 *2024-08-29 07:20:19* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-නැවත-සාකච්ඡා-කිරීම-බරපතල-ක්‍රියාවලියක්/11-411617) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ නැවත සාකච්ඡා කිරීම ඉතා බරපතල සහ කිසිසේත්ම සාර්ථක නොවන ක්‍රියාවලියක් බව විදේශ කටයුතු සහ අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා අවධාරණය කළේය.
+Sri Lanka IMF negotiations: Minister Ali Sabri discusses challenges and economic recovery efforts.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ නැවත සාකච්ඡා කිරීමට කටයුතු කළහොත් ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් දෙසැම්බර් මාසයේදී ලබා දීමට නියමිත මීළඟ වාරිකය මෙන්ම ලෝක බැංකුව සහ ආසියානු සංවර්ධන බැංකුව (ADB) විසින් ලබා දෙන වාරිකද අහිමි වන බව අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-ඒ අනුව 2024 දෙසැම්බර් සිට 2025 ජනවාරි දක්වා කාලය තුළ ඩොලර් බිලියන 1.2 සිට ඩොලර් බිලියන 1.3 දක්වා මුදලක් මෙරටට අහිමි වන අතර ඒ හේතුවෙන් නැවතත් රට අස්ථාවරත්වයට පත්වීම වැළැක්විය නොහැකි බව ද අමාත්‍ය අලි සබ්‍රි මහතා වැඩිදුරටත් පෙන්වා දුන්නේය.
+Minister of External Affairs and Judicial Reforms, Minister of External Affairs and Principal Reforms, Minister of External Affairs and Constitutional Reforms, Minister of External Affairs and Constitutional Reforms, said that it is a serious and humiliating process.
 
-විදේශ කටයුතු සහ අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The International Monetary Fund will lose the installments of the International Monetary Fund as well as the premium provided by the World Bank and the Asian Development Bank (ADB).
+
+According to the Minister Ali Sabri further deprives to Sri Lanka from $ 1.2 billion from $ 1.2 billion from December 1.2 billion to January 2025 and cannot prevent the country's unstable.
+
+Minister of Foreign Affairs and Justice and Constitutional Reforms President Attorney Ali Sabri said this at a press conference held at the press conference at the Presidential Media Center by two years' in ahead.
 
 ...
 
 [Data](articles/1fb3a7dd.json)
 
+[Extended Data](ext_articles/1fb3a7dd.ext.json)
+
 ---
 
-### ජනාධිපතිවරණයට අදාළව පොලීසියට පැමිණිලි 62ක්
+### 62 complaints to police regarding presidential election
 
 *2024-08-29 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200443) · `si`
 
-ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමෙන් අනතුරුව මේ දක්වා කාලය තුළ අදාළ පැමිණිලි ලැබී ඇති බව පොලිස් මූලස්ථානය සඳහන් කළේය.
+Here's a summary of the text in 200 characters:
 
-එම පැමිණිලි අතරින් වැඩිම පැමිණිලි සංඛ්‍යාවක් මැතිවරණ නීතිඋල්ලංඝනය කිරීම් සම්බන්ධයෙන් වන පැමිණිලි වන අතර බරපතළ සිද්ධීන් සම්බන්ධ පැමිණිලි කිසිවක් මෙතෙක් ඉදිරිපත් වී නොමැති බව සඳහන්ය.
 
-දිවයින පුරා පිහිටි සෑම පොලිස් ස්ථානයකම මැතිවරණ පැමිණිලි ලබා ගැනීම සඳහා විශේෂ ඒකකයක් පිහිටුවා ඇති අතර එම ඒකකවලට ලැබෙන පැමිණිලි දෛනිකව පොලිස් මුලස්ථානයේ පිහිටි විශේෂ මැතිවරණ කාර්යාලයේදී සමාලෝචනය කිරීමට පියවර ගෙන තිබේ.
 
-ඒ අනුව මේ දක්වා ලැබී ඇති පැමිණිලිවලට අනුව හඳුනාගත් සැකකරුවන් අත්අඩංගුවට ගෙන අධිකරණ වෙත ඉදිරිපත් කර ඇති බව පොලීසිය සඳහන් කළේය.
+62 election-related complaints filed since presidential election. Most concern election laws. No reports of major incidents. Special unit formed to process complaints. Suspects arrested and referred to court. Election security measures in place. Local government support pledged after election.
 
-ජනාධිපතිවරණ අපෙක්ෂකයින්ගේ ආරක්ෂාවට මෙන්ම ජන රැලිවල ආරක්ෂාව සඳහා ද විධිමත් වැඩපිළිවෙලක් පොලීසිය විසින් මේ වන විටත් ක්‍රියාත්මක කර තිබේ.
+🟩
 
-මේ අතර ශ්‍රේෂ්ඨාධිකරණ නියෝගයට අනුව පළාත් පාලන ආයතන ඡන්ද විමසීම පැවැත්වීමට අදාළ කටයුතු කඩිනමින් සිදුකිරීමට අවශ්‍ය පියවර ගනිමින් සිටින බව මැතිවරණ කොමිසම පවසයි.
+The complaints have been received since the presidential election.
 
-...
+The largest number of the complaints are complaints of the election laws and no complaints regarding serious incidents have not yet been submitted.
+
+A special unit has been established to obtain election complaints at all police stations around the country and has taken steps to review the complaints at the special election office at the Police Headquarters.
+
+Accordingly, identified suspects have been arrested and submitted to the courts.
+
+Police have already implemented a formal program for the security of presidential election and protection in mass rally.
+
+The Elections Commission says that the local government bodies are being taken to conduct matters pertaining to the Supreme Court order.
+
+Elections Commissioner General Saman Sri Ratnayake said the support of the local government bodies will be held following the presidential election.
+
+◼️
 
 [Data](articles/1065e87c.json)
 
+[Extended Data](ext_articles/1065e87c.ext.json)
+
 ---
 
-### තලාවේ වෙඩිතැබීමක්
+### A shot in the plane
 
 *2024-08-29 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200442) · `si`
 
-තලාව මැදගම ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා අනුරාධපුරය රෝහල වෙත ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+Shooting incident at Talawa Hospital: One person injured, suspect flees, police investigating.
 
-මෙම පුද්ගලයා තම මස්සිනා සමඟ ඔවුන් පොල් වගා කර ඇති ඉඩමේ ගමන් කරමින් සිටියදී එම ඉඩමට ජලය ලබා ගන්නා ඇල්කටින් බට සම්බන්ධයෙන් යාබද ඉඩමේ හිමිකරු සමඟ බහින්බස් වීමක් සිදුව ඇත.
+🟩
 
-එහිදී ඇති වූ ආරවුල දුරදිග යාමෙන් එම යාබද ඉඩමේ හිමිකරු විසින් මෙලෙස වෙඩි තබා ඇති බව අනාවරණය වී තිබේ.
+One person was injured in a shooting incident in the Talawa Hospital and was admitted to the Anuradhapura Hospital.
 
-පොලීසිය පැවසුවේ මෙරට නිෂ්පාදිත ගිනිඅවියකින් මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
+The man was with his brother-in-law, while traveling with the land of the coconut planting, a heighte with the owner of the adjacent to the adjacent to the adjacent to the alkin tubes.
 
-වෙඩි තැබීම සිදුකළ සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇති අතර සැකකරු අත්අඩංගුවට ගැනීම සඳහා තලාව පොලීසිය විමර්ශන සිදුකරයි.
+It has been revealed that the owner of the adjoining land has been shot by the owner of the adjoining land.
+
+Police said that the shooting was carried out by firearms of Sri Lanka.
+
+The suspect, who was shooting, fled the area and the Talawa Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/7ea68cac.json)
 
+[Extended Data](ext_articles/7ea68cac.ext.json)
+
 ---
 
-### රනිල් ගේ සහ සජිත් ගේ ප්‍රතිපත්ති ප්‍රකාශ අද එළියට‍
+### Ranil's and Sajith's policy statements are outside today
 
 *2024-08-29 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200441) · `si`
 
-ස්වාධීන අපේක්ෂකයෙකු ලෙස මෙවර ජනාධිපතිවරණයට ඉදිරිපත්ව සිටින ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රතිපත්ති ප්‍රකාශය අද (29) එළිදැක්වීමට නියමිතව තිබේ.
+Here's a 200-character summary:
 
-අද පෙරවරුවේ කොළඹ දී විශේෂ උත්සවයක් පවත්වමින් එම ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීමට නියමිතය.
 
-එම අවස්ථාව සඳහා ආණ්ඩු පක්ෂය නියෝජනය කරන සියලු මන්ත්‍රීවරුන්ට සහ ජනාධිපතිවරණයේ දී රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමට එක්ව සිටින සියලු මන්ත්‍රීවරුන්ට ආරාධනා කර ඇති බව වාර්තා වේ.
 
-මේ අතර සමගි ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය ද අද දිනයේ එළිදැක්වීමට නියමිතව තිබේ.
+President Ranil Wickremesinghe launches policy as independent candidate. Event in Colombo today. Government invites all MPs from ruling party and presidential election. UPFA's policy statement first presented to Sajith Premadasa.
 
-පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා සඳහන් කළේ, සමගි ජන සන්ධානයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රතිපත්ති ප්‍රකාශය පළමුව මහනායක හිමිවරුන් වෙත පිළිගැන්වීමට සැලසුම් කර ඇති බවය.
+🟩
+
+President Ranil Wickremesinghe's policy has been launched today as an independent candidate today (29).
+
+The policy statement will be held at a special event in Colombo this morning.
+
+It is reported that the government has invited all MPs who have joined all MPs who represent the ruling party and the Presidential election.
+
+Meanwhile, the policy statement of the proposal is to be launched today.
+
+Parliamentarian Lakshman Kiriella stated that the policy statement of the Presidential Alliance (UPFA) has first presented to the Chief General of Sajith Premadasa.
 
 ◼️
 
 [Data](articles/ea6e724a.json)
 
+[Extended Data](ext_articles/ea6e724a.ext.json)
+
 ---
 
-### අද කාලගුණයේ සිදුවන වෙනස
+### The difference in the weather today
 
 *2024-08-29 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200440) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Weather forecast: Showers in Western, Sabaragamuwa, North Western provinces. Heavy rain possible in Galle, Matara, Nuwara Eliya, Puttalam. Thundershowers in Ampara, Batticaloa. Strong winds in Central Mountains, Hambantota, Trincomalee. Cloudy skies in North, North-Central, Central provinces. Sunny conditions expected from Aug 28 to Sep 6.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, නුවරඑළිය සහ පුත්තලම දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 50ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවත් එම නිවේදනයේ සඳහන්ය.
+🟩
 
-එමෙන්ම ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+The Meteorological Department says that there will be showers in the Western, Sabaragamuwa and North Western provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිය.
+Some areas in the Western and Sabaragamuwa Provincial and Galle, Matara, Nuwara Eliya and Puttalam Districts. Heavy rains can occur over 50,000.
 
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ මධ්‍යම පළාත්වල අහස වලාකුළින් බරව පවතිනු ඇති බවත් එම නිවේදනයේ සඳහන් වෙයි.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
 
-දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් 06 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහලින් පවතින අතර අද දින දහවල් 12:11ට ඔඩ්ඩුසුඩාන්, මාන්ලකුලම්, තෙරන්කන්දල් සහ මල්ලාවි ප්‍රදේශවලට හිරු මුදුන්ව පවතින බවත් එම නිවේදනයේ සඳහන් වෙයි.
+At times, in the Central Mountains and Western, North, North, North Central and North Western provinces, Hambantota and Trincomalee Districts. There may be 40-50 strong winds.
+
+The announcement states that the sky is buried with clouds in the North, North-Central and Central provinces.
+
+The announcement states that the sun is directly from the end of August 28 to September 06, and the sun will be above the eight noon today.
 
 ◼️
 
 [Data](articles/5a270159.json)
+
+[Extended Data](ext_articles/5a270159.ext.json)
 
 ---
 
@@ -1022,19 +1080,25 @@ The Sri Lankan team has played eight Tests in the Prices of the Prices and no co
 
 ---
 
-### කුසල් ඉවතට - ශ්‍රී ලංකා සංචිතය නම් කරයි
+### Kusal removed - Sri Lanka squad
 
 *2024-08-28 20:42:35* · [`adalk`](https://www.ada.lk/sports/කුසල්-ඉවතට---ශ්‍රී-ලංකා-සංචිතය-නම්-කරයි/9-411616) · `si`
 
-එංගලන්ත කණ්ඩායමට එරෙහිව හෙට(29දා)  ආරම්භ වන  දෙවැනි ටෙස්ට් ක්‍රිකට් තරගය සඳහා ක්‍රීඩා කරන ශ්‍රී ලංකා සංචිතය නම් කර තිබේ.
+Sri Lanka cricket team changes: Kusal Mendis replaced by Nissanka, Fernando out, Kumara in for Test match against England.
 
-කුසල් මෙන්ඩිස් කණ්ඩායමෙන් ඉවත් කර ඇති අතර, ඒ වෙනුවට පැතුම් නිශ්ශංක කණ්ඩායමේ ස්ථානයන් හිමි කරගෙන තිබේ.
+🟩
 
-එමෙන්ම වේග පන්දු යවන ක්‍රීඩක විශ්ව ප්‍රනාන්දු ඉවත් කර , ඒ වෙනුවට ලහිරු කුමාර කණ්ඩායමට එක් කරගැනීමට කටයුතු කර ඇත.
+The Sri Lankan squad played for the second Test match against England yesterday (29).
+
+The Kusal Mendis has been removed from the team, and instead of the wishes nissanka team.
+
+Fast bowler universal Fernando has been removed and the Lahiru Kumara team has been replaced by the team.
 
 ◼️
 
 [Data](articles/780a846d.json)
+
+[Extended Data](ext_articles/780a846d.ext.json)
 
 ---
 
@@ -2389,33 +2453,5 @@ This information is mentioned in the Audit Report contained in the 2023 Annual R
 [Data](articles/472b84ae.json)
 
 [Extended Data](ext_articles/472b84ae.ext.json)
-
----
-
-### Suspect arrested with 650 cell phones
-
-*2024-08-28 13:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/650-அலைபேசிகளுடன்-சந்தேக-நபர்-கைது/175-342919) · `ta`
-
-Arrested suspect found with 650 illegal cell phones during joint Navy police operation in Sri Lanka.
-
-🟩
-
-As a result of the search operation carried out by the Navy and the police, a suspect has been arrested for allegedly defrauding the cell phones into the country.
-
-It is reported that the suspect has been arrested on a road bar in Karamba area in Puttalam.
-
-The suspect has been arrested while replacing cell phones from Keb.
-
-During the raid, police seized 650 cell phones suspected to have been illegally brought to the country.
-
-The suspect has been identified as a 52 -year -old Kekirawa area.
-
-The suspect and the cell phones have been handed over to the foam police for further investigations with the cab.
-
-◼️
-
-[Data](articles/eb5c71c0.json)
-
-[Extended Data](ext_articles/eb5c71c0.ext.json)
 
 ---

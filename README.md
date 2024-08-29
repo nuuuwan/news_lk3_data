@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 10:55:47**
+As of **2024-08-29 11:08:21**
 
 ## Newspaper Stats
 
-*Scraped **43,171** Articles*
+*Scraped **43,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ colombotelegraphcom | 415
 islandlk | 2,516
 economynextcom | 2,607
 dailyftlk | 2,809
-adalk | 3,993
+adalk | 3,994
 dailymirrorlk | 4,733
 adaderanalk | 5,079
 tamilmirrorlk | 5,630
 virakesarilk | 6,859
-adaderanasinhalalk | 7,406
+adaderanasinhalalk | 7,407
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,169 (100.0%) of 43,171 articles have been extended.
+43,171 (100.0%) of 43,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
+
+### උතුරේ හබ්‍රිඩ් විදුලිබල ව්‍යාපෘති සඳහා ඉන්දියාවෙන් මුදල්
+
+*2024-08-29 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200456) · `si`
+
+ඩෙල්ෆ්ට්, නයිනතිව් සහ අනලයිතිව් දූපත්වල ඉන්දීය මුදල් ආධාර යටතේ හබ්‍රිඩ් විදුලිබල ව්‍යාපෘති ඉදිකිරීමට නියමිත ය.
+
+ඊට අදාළ පළමු වාරිකය ඉන්දියාව විසින් නිල වශයෙන් ඊයේ (28) භාරදුනි.
+
+කොළඹ පිහිටි ඉන්දීය මහ කොමසාරිස් කාර්යාලය නිවේදනය කළේ එය මෙරට සිටිං ඉන්දීය මහ කොමසාරිස් සන්තෝෂ් ෂා විසින් විදුලිබල සහ බලශක්ති අමාත්‍යංශයේ ලේකම් ආචාර්ය සුලක්ෂණ ජයවර්ධන සහ ශ්‍රී ලංකා සුනිත්‍ය බලශක්ති අධිකාරියේ සභාපති රංජිත් සේපාල වෙත භාරදී තිබුණි.
+
+මෙම ව්‍යාපෘති සඳහා අවබෝධතා ගිවිසුම ශ්‍රී ලංකාව සහ ඉන්දියාව 2022 වසරේ මාර්තු මාසයේදී අත්සන් තැබීය.
+
+එහි කොන්ත්‍රාත්තුව ශ්‍රී ලංකා සුනිත්‍ය බලශක්ති අධිකාරිය සහ යූ සෝලා ක්ලීන් එනර්ජි සමාගම අතර 2024 මාර්තු 01 වනදා අත්සන් කෙරුණි.
+
+මෙම ව්‍යාපෘති ක්‍රියාත්මක වූ පසු එම දූපත් සඳහා විදුලි බලය සැපයෙයි.
+
+මේ වනවිට එහි මූලික ඉදිකිරීම් කටයුතු ආරම්භ කර ඇති අතර එම ව්‍යාපෘති 2025 මාර්තු මුලදී නිමකිරීමටත් 2025 අප්‍රේල් වනවිට මෙරට ට භාරදීමටත් නියමිත ය.
+
+◼️
+
+[Data](articles/e4e92e83.json)
+
+---
 
 ### President Ranil’s election manifesto unveiled
 
@@ -47,6 +71,8 @@ The ceremony is also attended by Prime Minister Dinesh Gunawardena, Ministers Al
 ...
 
 [Data](articles/08ad2216.json)
+
+[Extended Data](ext_articles/08ad2216.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ In a post on his official social media accounts this morning, the President said
 ◼️
 
 [Data](articles/4eb835f6.json)
+
+[Extended Data](ext_articles/4eb835f6.ext.json)
 
 ---
 
@@ -91,6 +119,22 @@ The ceremony will be held at the Taj Samudra Hotel, Colombo.
 [Data](articles/96212bbb.json)
 
 [Extended Data](ext_articles/96212bbb.ext.json)
+
+---
+
+### සචින් ශමල්ක තමන්ගේම වාර්තා තුන අලුත් කරයි
+
+*2024-08-29 09:43:03* · [`adalk`](https://www.ada.lk/sports/සචින්-ශමල්ක-තමන්ගේම-වාර්තා-තුන-අලුත්-කරයි/9-411622) · `si`
+
+දකුණු පළාත් පාසල් ක්‍රීඩා( 2024 ) තරගාවලියේදී  14 න් පහළ දුර පැනීම,  මීටර් 60 සහ මීටර් 100 දිවීම සඳහා තරග කළ   බෙන්තොට ගෝනගල මහා විද්‍යාලයේ ඩී.ඒ.සචින් ශමල්ක 2023 වසරේ ඔහු විසින්ම  එම ඉසව් වලින්  තබා තිබූ වාර්තා තුනම බිඳ දමා නව වාර්තා තුනක් තබමින් එම ඉසව් තුනේම ප්‍රථම ස්ථාන හිමි කර ගත්තේය. මෙම තරග පෙරේදා(28)මාතර උයන්වත්ත ක්‍ර්‍රීඩාංගනයේදී පැවැත්විණි.
+
+ඒ අනුව ශමල්ක විසින්  2023 වසරේ දකුණු පළාත් පාසල් ක්‍රීඩා තරගාවලියේදී දුර පැනීමෙන් මීටර් 5.74 ක් ලෙස තැබූ වාර්තාව මෙවර මීටර් 6.16 ක් ලෙසද මීටර් 60 දිවීම  මිනිත්තු 7.7 ලෙස තිබූ වාර්තාව මිනිත්තු 7.0 ලෙසද ,මීටර් 100 දිවීම මිනිත්තු 12.1 ලෙස තිබූ වාර්තාව මිනිත්තු 12.0 ලෙසද නව වාර්තා තබමින් මෙම සුවිශේෂි ජයග්‍රහණය වාර්තා කර තිබේ.
+
+පසුගියදා අවසන්වූ ඇල්පිටිය අධ්‍යාපන කලාපීය ක්‍රීඩා තරගාවලියේදී  මෙම ඉසව් තුනේම ජයග්‍රහණය හිමිකරගෙන  14 න් පහළ දක්ෂතම ක්‍රීඩකයා බවටද පත්වූයේ සචින් ශමල්කයි.
+
+◼️
+
+[Data](articles/c01106e3.json)
 
 ---
 
@@ -2391,61 +2435,5 @@ Speaking at a presidential election rally in Eheliyagoda, he stated that proposa
 [Data](articles/e7ff679f.json)
 
 [Extended Data](ext_articles/e7ff679f.ext.json)
-
----
-
-### Agreement with IMF to revise Paye Tax - President
-
-*2024-08-28 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200429) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka President Ranil Wickremesinghe agrees to IMF proposal to revise Paye Tax. He states that an initial decision has been made and both parties have presented suggestions. The President will inform the public about the final agreement in the future.
-
-🟩
-
-President Ranil Wickremesinghe says he will agree with the International Monetary Fund for the amendment of the Paye Levy and will be informed in the future.
-
-President Ranil Wickremesinghe made this statement addressing the rally in Eheliyagoda today to the victory of President Ranil Wickremesinghe in this year.
-
-"Another issue is the tax paid by earn. That's a big problem too. We have agreed to the IMF, that he wants to revise it. The initial decision is over. We have put on one suggestion. They have another suggestion. So when we talk about these two suggestions, we agree to know here. "
-
-◼️
-
-[Data](articles/4501dfc9.json)
-
-[Extended Data](ext_articles/4501dfc9.ext.json)
-
----
-
-### Ranil's programs in Anuragumara's election manifesto include - Akhilaviraj
-
-*2024-08-28 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/192249) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Ranil Wickremesinghe's programs in National People's Power manifesto include education initiatives. Some promises may be difficult to fulfill due to financial constraints. Economic solutions are emphasized.
-
-🟩
-
-Ranil Wickremesinghe's programs are found in the election manifesto of the National People's Power. They have released it with a few small differences. UNP Vice President Akhilaviraj Kariyawasam said that it is not uncommon to realize their promises.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Wednesday (28).
-
-Ranil Wickremesinghe's programs are the highest programs in the election manifesto published by the National People's Power. Ranil Wickremesinghe has already begun a few of those projects.
-
-They have made a few changes though. At the same time, it is not possible to realize their some promises on this earth.
-
-In their election manifesto they mention some issues regarding education. It has been reported to set up a school for 3 kg meters. They mentioned the program of the nearest school that I was working as the Minister of Education that day.. There is nothing new on it.
-
-...
-
-[Data](articles/6e603f00.json)
-
-[Extended Data](ext_articles/6e603f00.ext.json)
 
 ---

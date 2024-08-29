@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 11:37:17**
+As of **2024-08-29 11:57:10**
 
 ## Newspaper Stats
 
-*Scraped **43,176** Articles*
+*Scraped **43,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,94 @@ newsfirstlk | 363
 bbccomsinhala | 401
 colombotelegraphcom | 415
 islandlk | 2,516
-economynextcom | 2,607
+economynextcom | 2,608
 dailyftlk | 2,809
-adalk | 3,994
+adalk | 3,995
 dailymirrorlk | 4,733
 adaderanalk | 5,080
-tamilmirrorlk | 5,630
-virakesarilk | 6,859
+tamilmirrorlk | 5,635
+virakesarilk | 6,863
 adaderanasinhalalk | 7,408
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,174 (100.0%) of 43,176 articles have been extended.
+43,176 (100.0%) of 43,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
+
+### என் மீது நம்பிக்கை வைத்து ஆணையை தாருங்கள் : தேர்தல் விஞ்ஞாபனத்தை வெளியிட்டு ரணில் வேண்டுகோள்
+
+*2024-08-29 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/192278) · `ta`
+
+என் மீது நம்பிக்கை வைத்து ஆணையை தாருங்கள் பயனுள்ள, வளமான  நாட்டை கட்டியெழுப்புகிறேன் என ஜனாதிபதி ரணில் விக்கிரமசிங்க வேண்டுகோள் விடுத்தார்.
+
+"ரணிலுடன் இணைந்து நாட்டை வெல்வதற்கான ஐந்தாண்டுகள்” என்ற தொனிப்பொருளில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தேர்தல் விஞ்ஞாபனம் இன்று வியாழக்கிழமை (29) கொழும்பு தாஜ் சமுத்ரா ஹோட்டலில் வெளியிடப்பட்டது.
+
+சர்வமத வழிபாடுகளுடன்  சுயேட்சை வேட்பாளர் ரணில் விக்கிரமசிங்கவின் தேர்தல் விஞ்ஞாபனம் வெளியீட்டு நிகழ்வில் உரையாற்றிய போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+“தேரவாத வர்த்தகப் பொருளாதாரம், 2025இற்கு அப்பால் செல்லும் செயல்முறை,  ஒளிமயமான சமுதாயத்தை நோக்கி.., வெற்றிபெறும் தாய்நாடு , ஒன்றிணைந்த இலங்கை" ஆகிய 5 பிரதான விடயங்களை இந்த தேர்தல் விஞ்ஞாபனம் உள்ளடக்கியுள்ளது.
+
+இணக்கப்பாடு எட்டப்பட்டுள்ள சர்வதேச நாணய நிதிய பொறிமுறைக்குள் செயற்பட தயாரா? என சஜித் , அநுரவிடம் ஜனாதிபதி கேள்வியெழுப்பினார்.
+
+ஊழல், மோசடிக்காரர்களை கைது செய்வது தொடர்பில் ஏனையோர் இன்னும் பேசிக் கொண்டிருக்கின்றனர். ஆனால்  நாம் ஏற்கனவே அதற்கான சட்டமூலத்தை நிறைவேற்றிவிட்டோம்.
+
+...
+
+[Data](articles/e7728bb5.json)
+
+---
+
+### சொல்வது சுலபம் செய்வது கடினம்
+
+*2024-08-29 11:21:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொல்வது-சுலபம்-செய்வது-கடினம்/175-342965) · `ta`
+
+சர்வதேச நாணய நிதியத்துடன் மீண்டும் பேச்சுவார்த்தை நடத்துவது மிகவும் கடினமான செயல்மட்டுமன்றி அது வெற்றிகரமான செயல் அல்ல என்று வெளிநாட்டலுவல்கள் மற்றும் நீதி, சிறைச்சாலை அலுவல்கள், அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர், ஜனாதிபதி சட்டத்தரணி அலி சப்ரி வலியுறுத்தினார்.
+
+சர்வதேச நாணய நிதியத்துடனான பேச்சுவார்த்தை மீண்டும் ஆரம்பிக்கப்பட்டால் எதிர்வரும் டிசம்பரில் சர்வதேச நாணய நிதியம் வழங்கவிருக்கும் அடுத்த தவணை மற்றும் உலக வங்கி மற்றும் ஆசிய அபிவிருத்தி வங்கி (ADB) வழங்கவுள்ள தவணைகளை இழக்க நேரிடும் என அமைச்சர் குறிப்பிட்டார்.
+
+ஆனால் குறுகிய அரசியல் நோக்கங்களை இலக்காகக் கொண்டு சர்வதேச நாணய நிதியத்துடன் மீண்டும் பேச்சுவார்த்தை நடத்துவதாக பல்வேறு நபர்கள் மக்களைத் தவறாக வழிநடத்துகிறார்கள். சர்வதேச நாணய நிதியத்துடன் மீண்டும் பேச்சுவார்த்தை நடத்துவது மிகவும் கடினமானது. அந்த வெற்றி பெறாத செயல். இதனை முயற்சிக்க விரும்புவோருக்கு எனது வாழ்த்துகளை மாத்திரமே தெரிவிக்க முடியும்.
+
+...
+
+[Data](articles/67dedc2b.json)
+
+---
+
+### ”இதை நான் கடந்த வருடமே கூறினேன்”
+
+*2024-08-29 11:09:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதை-நான்-கடந்த-வருடமே-கூறினேன்/175-342964) · `ta`
+
+உழைக்கும் போது செலுத்தும் (PAYE) வரியை திருத்துவதற்கு சர்வதேச நாணய நிதியத்துடன் (IMF) அரசாங்கம் உடன்பாட்டை எட்டியுள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அறிவிப்பு, 2023 ஆம் ஆண்டு முதல் தான் தொடர்ந்து தெரிவித்து வந்த விடயம் என எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்துள்ளார்.
+
+ஐக்கிய மக்கள் சக்தி (SJB) ஏற்கனவே தனிநபர் வருமான வரி,'நடுத்தர வர்க்க வரி குறைப்பை அறிவித்துள்ளதாக பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா 'X' தளத்தில் கூறினார்.
+
+"ஜனாதிபதி முதலில் செய்ய முடியாதெனக் கூறிய திருத்தத்தை இன்று செய்கிறார் . இது சாத்தியம் என்று 2023 முதல் நான் வாதிட்டேன். வரி இல்லாத வரம்பை (ஜேவிபி) இரட்டிப்பாக்குவது போன்ற தவறான வாக்குறுதிகள் இல்லாமல் 'நடுத்தர வர்க்க வரிக் குறைப்பு' (PAYE உட்பட PIT) போன்ற சாத்தியமான வாக்குறுதிகளை நாங்கள் ஏற்கனவே அறிவித்துள்ளோம்," என்று அவர் கூறினார்.
+
+PAYE வரியை திருத்துவதற்கு அரசாங்கம் சர்வதேச நாணய நிதியத்துடன் உடன்பாட்டை எட்டியுள்ளதாக ஜனாதிபதி அறிவித்ததையடுத்தே அவர் இவ்வாறு கூறினார்.
+
+...
+
+[Data](articles/47973829.json)
+
+---
+
+### தேர்தல் விஞ்ஞாபனத்தை வெளியிட்டார் ரணில் விக்கிரமசிங்க
+
+*2024-08-29 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/192275) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராகப் போட்டியிடும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் “ரணிலுடன்  நாட்டை வெற்றிகொள்ளும் ஐந்தாண்டுகள்” என்ற தொனிப்பொருளில் தேர்தல் விஞ்ஞாபனம் இன்று வியாழக்கிழமை (29) கொழும்பு தாஜ் சமுத்ரா ஹோட்டலில் வெளியிடப்பட்டது.
+
+“தேரவாத வர்த்தகப் பொருளாதாரம், 2025 இற்கு அப்பால் செல்லும் செயல்முறை,  ஒளிமயமான சமுதாயத்தை நோக்கி, வெற்றிபெறும் தாய்நாடு, ஒன்றிணைந்த இலங்கை" ஆகிய 05 பிரதான கூறுகளை இந்த தேர்தல் விஞ்ஞாபனம் உள்ளடக்கியுள்ளது.
+
+◼️
+
+[Data](articles/255ce51d.json)
+
+---
 
 ### India hands over first payment for implementing hybrid power projects in islands off Jaffna
 
@@ -47,6 +117,40 @@ Subsequently, contract for the project implementation was signed by SLSEA with M
 ...
 
 [Data](articles/7bef24ce.json)
+
+[Extended Data](ext_articles/7bef24ce.ext.json)
+
+---
+
+### வெளிநாட்டு கண்காணிப்பாளர்கள் பணிகளை ஆரம்பித்தனர்
+
+*2024-08-29 11:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-கண்காணிப்பாளர்கள்-பணிகளை-ஆரம்பித்தனர்/175-342963) · `ta`
+
+ஜனாதிபதித் தேர்தலை கண்காணிப்பதற்காக இலங்கை வந்துள்ள ஐரோப்பிய ஒன்றிய தேர்தல் கண்காணிப்பாளர்கள் இன்று (29) காலை தமது கடமைகளை ஆரம்பித்துள்ளனர்.
+
+ஐரோப்பிய ஒன்றிய தேர்தல் கண்காணிப்புக் குழுவின் தலைமைப் பார்வையாளராக நாச்சோ சான்செஸ் அமோ உள்ளார்.
+
+நாச்சோ சான்செஸ் அமோ, ஸ்பெயினை பிரதிநிதித்துவப்படுத்தி ஐரோப்பிய பாராளுமன்றத்துக்கு தேர்ந்தெடுக்கப்பட்ட பாராளுமன்ற உறுப்பினர் ஆவார்.
+
+◼️
+
+[Data](articles/a5594c45.json)
+
+---
+
+### கிளப் வசந்த கொலை ; முன்னாள் மாகாண சபை உறுப்பினர் கைது
+
+*2024-08-29 11:05:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-முன்னாள்-மாகாண-சபை-உறுப்பினர்-கைது/175-342962) · `ta`
+
+அதுருகிரிய பிரதேசத்தில் உள்ள பச்சை குத்தும் நிலையமொன்றின் திறப்பு விழாவுக்கு சென்ற சுரேந்திர வசந்த பெரேரா எனும் கிளப் வசந்த என்பவரை சுட்டுக் கொன்ற சம்பவம் தொடர்பில் மேல் மாகாண சபையின் முன்னாள் உறுப்பினர் ஒருவர் வியாழக்கிழமை (29) கைது செய்யப்பட்டுள்ளார்.
+
+55 வயதான குறித்த நபர், துப்பாக்கி சூடு நடத்தியவர்களை 25 நாட்கள் அவரது வீட்டில் தங்கவைத்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது .
+
+மேலும் கைது செய்யப்பட்ட சந்தேகநபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் அடிப்படையில் அதுருகிரிய   கல்பொத்தாவ பகுதியில் உள்ள வாடகை வீடொன்றில் இருந்து துப்பாக்கி ஒன்று மற்றும் 15 தோட்டாக்கள் கண்டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/59d52e74.json)
 
 ---
 
@@ -144,6 +248,18 @@ The preliminary construction work has already begun while 2025 these projects wi
 
 ---
 
+### தேர்தல் விஞ்ஞாபனத்தை வெளியிட்டார் ரணில்
+
+*2024-08-29 10:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-விஞ்ஞாபனத்தை-வெளியிட்டார்-ரணில்/175-342960) · `ta`
+
+நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் சுயேட்சையாக போட்டியிடும் ஜனாதிபதி ரணில் விக்கிரமசிங்க, தனது தேர்தல் விஞ்ஞாபனத்தை வெளியிட்டார்.
+
+◼️
+
+[Data](articles/996a49dd.json)
+
+---
+
 ### President Ranil’s election manifesto unveiled
 
 *2024-08-29 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101585/president-ranils-election-manifesto-unveiled) · `en`
@@ -161,6 +277,54 @@ The ceremony is also attended by Prime Minister Dinesh Gunawardena, Ministers Al
 [Data](articles/08ad2216.json)
 
 [Extended Data](ext_articles/08ad2216.ext.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தியோடு இணைந்து கொண்டார் நிரோஷன் பிரேமரத்ன
+
+*2024-08-29 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/192266) · `ta`
+
+தங்கல்லையில் நடைபெற்ற மக்கள் வெற்றிப் பேரணியில் வைத்து நிரோஷன் பிரேமரத்ன ஐக்கிய மக்கள் சக்தியோடு இணைந்து கொண்டார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் மாத்தறை மாவட்ட வேட்பாளர் நிரோஷன் பிரேமரத்ன நேற்று புதன்கிழமை  (28) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் வெற்றிப் பேரணிக் கூட்டத்தில் மேடை ஏறினார்.
+
+2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலை இலக்காகக் கொண்டு ஐக்கிய மக்கள் சக்தியினால் தங்கல்லையில் முன்னெடுக்கப்பட்ட பேரணியின் போதே அவர் இவ்வாறு இணைந்து கொண்டார்.
+
+◼️
+
+[Data](articles/db5da56c.json)
+
+---
+
+### சமஷ்டியை அங்கீகரிக்குமாறு தெற்கின் ஜனாதிபதி வேட்பாளர்களுக்கு வலியுறுத்த ஒன்று திரள்வோம் - அருட்தந்தை மா.சத்திவேல்
+
+*2024-08-29 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192264) · `ta`
+
+சமஷ்டியை அங்கீகரிக்குமாறு தெற்கின் ஜனாதிபதி வேட்பாளர்களுக்கு வலியுறுத்தவும் சர்வதேச காணாமலாக்கப்பட்டோருக்கான தினத்தில் ஒன்று திரள்வோம் என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் தெரிவித்துள்ளார்.
+
+நாட்டில் நிலவிய தமிழர்களுக்கு எதிரான இன அழிப்பு யுத்த காலப்பகுதியில் இலங்கை அரச படைகளால் புரியப்பட்ட மனிதகுலம் ஏற்காத யுத்த குற்றங்களுக்கு நீதியை பெற்றுக் கொடுப்பதற்கு பேரினவாத கருத்தியல் கொண்ட எந்தவொரு பிரதான ஜனாதிபதி வேட்பாளர்களும் துணிய மாட்டார்கள் என்பது மட்டும் உறுதி.
+
+ஆயுத யுத்தும் மௌனிக்கப்பட்டதன் பின்னர் கடந்த 15 வருட காலமாக வலிந்து காணாமலாக்கப்பட்டோரின் உறவுகள் தமது அன்புக்குரியவர்களை தேடி கிடைக்காத நிலையில் 2,500 நாட்களாக தொடர் போராட்டம் நடத்தி வருகின்றனர். இந்நிலையில், இவர்கள் எதிர்வரும் 30 ஆம் திகதி அதாவது நாளை சர்வதேச காணாமலாக்கப்பட்டோருக்கான தினத்தில் கவனயீர்ப்பு போராட்டத்தினை நடத்துவதற்கு ஆயத்தங்களை செய்துள்ளனர்.
+
+...
+
+[Data](articles/b310a05c.json)
+
+---
+
+### බෞද්ධ කටයුතු කොමසාරිස් අත්සන හා නිල මුද්‍රාව ව්‍යාජව යොදා ගත් දසසිල් මාතාව අත්අඩංගුවට
+
+*2024-08-29 09:55:35* · [`adalk`](https://www.ada.lk/breaking_news/බෞද්ධ-කටයුතු-කොමසාරිස්-අත්සන-හා-නිල-මුද්‍රාව-ව්‍යාජව-යොදා-ගත්-දසසිල්-මාතාව-අත්අඩංගුවට/11-411623) · `si`
+
+දඹදිව වන්දනාවේ යෑම සඳහා  බෞද්ධ කටයුතු කොමසාරිස්ගේ නිල මුද්‍රාව සහ අත්සන ව්‍යාජ ලෙස යොදා භික්ෂු හැඳුනුම්පතක් ගැනිමට උත්සාහ කරණ ලද දසසිල් මාතාවක් අත් අඩංගුවට ගත් බව ගාල්ල පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ ඇල්පිටිය ප්‍රදේශයේ ආරාමයක වැඩ සිටින 50 හැවිරිදි දසසිල් මෙහෙණියෙකි.
+
+මෙම දසසිල් මෑණියන් දඹදිව වන්දනාවේ යෑම සඳහා සූදානම්වී විදේශ ගමන් බලපත්‍රය ලබා ගැනීමට කොළඹ ආගමන විගමන දෙපාර්තමේන්තුවට ගොස්  තිබේ. එහෙත් එම දසසිල් මෑණියන් සතුව තිබී ඇත්තේ ගිහි හැඳුනුම්පතක් නිසා ආගමන විගමන නිලධාරීන් පවසා ඇත්තේ ගිහි හැඳුනුම්පතට විදේශ ගමන් බලපත්‍රය ලබා දිය නොහැකි බවත් ඒ සඳහා භික්ෂු හැඳුනුම්පත අවශ්‍ය බවත්ය.
+
+...
+
+[Data](articles/08805eaf.json)
 
 ---
 
@@ -884,6 +1048,28 @@ Elections Commissioner General Saman Sri Ratnayake said the support of the local
 
 ---
 
+### Sri Lanka’s LTL Holdings plans Rs20bn IPO at Rs14.50
+
+*2024-08-29 06:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-ltl-holdings-plans-rs20bn-ipo-at-rs14-50-178257/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s LTL Holdings is planning to raise up to 20 billion rupees, subject to regulatory approvals, in what could be the largest initial public offer in the Colombo Stock Exchange, an official said.
+
+LTL Holdings is an affiliate of Ceylon Electricity Board, which originally made transformer but expanded into the independent power generation business after the original foreign investors in the firm exited in a management buyout.
+
+The firm plans to sell around 22 percent of the shares in the IPO.
+
+The idea is to raise 16 billion rupees and an addition 4.0 billion rupees through a green shoe option, Chief Executive Nuhuman Marikkar said.
+
+The Colombo Stock Exchange said the issue would open on September 10 at 14.50 rupees a share with an initial issue of 1,103,448,300 ordinary shares and an option to sell another 275,862,100 shares.
+
+About 14 billion rupees will go to fund part of the equity component of a new 350 MegaWatt combined cycle to be called Sahasdanavi.
+
+...
+
+[Data](articles/b099e815.json)
+
+---
+
 ### A shot in the plane
 
 *2024-08-29 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200442) · `si`
@@ -968,25 +1154,37 @@ The announcement states that the sun is directly from the end of August 28 to Se
 
 ---
 
-### වයස අවුරුදු 97දී ශාස්ත්‍රපති උපාධියක් හිමි කර ගත් ලීලාවතී බීබීසීයට කතා කරයි
+### At the age of 97, Lilawathi speaks to BBC with a Masters Degree
 
 *2024-08-29 03:48:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0lk98gnzyo) · `si`
 
-වයස අවුරුදු 97දී ශාස්ත්‍රපති උපාධියක් හිමි කර ගත් ලීලාවතී බීබීසීයට කතා කරයි
+Here's a summary of the text in 200 characters:
 
-"මගේ ජීවිත කාලය පුරා ම ඉගෙන ගන්න ලොකු ආසාවක් තිබුණා. ඉගෙන ගන්න එකට වයස අදාළ වෙන්නෙ නෑ. ඒ නිසා මම දිගට ම ඉගෙන ගත්තා," 97 වන වියේදී පශ්චාත් උපාධියක් හිමි කර ගැනීමට සමත් වූ ලීලාවතී ඇසිලින් ධර්මරත්න බීබීසී සිංහල සේවයට අදහස් දක්වමින් පැවසුවා ය.
 
-ඇයට පසුගිය දා පැවති කැලණිය විශ්වවිද්‍යාලයේ 143 වන උපාධි ප්‍රදානෝත්සවයේදී බෞද්ධ දර්ශනය පිළිබඳ ශාස්ත්‍රපති උපාධියක් පිරිනැමිණි.
 
-1927 වසරේ නොවැම්බර් මස 30 වැනි දින වාරණ, මිල්ලෑව නම් ගම්මානයෙහි උපන්  ලීලාවතී ඇසිලින් ධර්මරත්න, මිල්ලෑව බාලිකා විද්‍යාලයෙන් මූලික අධ්‍යාපනය ලැබී ය.
+Lilawathi, 97, receives Master's in Buddhist Philosophy from University of Kelaniya. Studied online, inspired by lifelong love of learning. Teaches English, then becomes notary. Has 8 grandkids, 3 great-grandkids. Aims to inspire community members to build better families.
 
-ඇය 1946 වසරේදී ඇය අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයට පෙනී සිටියා ය.
+🟩
 
-ජාත්‍යන්තරව පිළිගත් උසස් අධ්‍යාපන හෝ වෘත්තීය පුහුණු ආයතනයක් තෝරා ගන්නේ කොහොම ද?සාමාන්‍ය පෙළ විභාගයේ විශිෂ්ට දස්කම් පෑ ගාල්ලේ තුන් නිවුන් සොහොයුරෝ
+At the age of 97, Lilawathi speaks to BBC with a Masters Degree
+
+"Over the rest of my life, I loved. Learning is not relevant. So I was learning long, "Lilayathi Ausiliin Dharmaratne, who has been able to receive a postgraduate degree in 97, told BBC Sinhala.
+
+She was awarded a Masters Degree in Buddhist Philosophy at the 143rd Graduation Ceremony of the University of Kelaniya.
+
+Last-in-law of Labelin Dharmaratne in Millewa Village of Millewa village on November 30, 1927, was fundamental education from Millewa Balika Vidyalaya.
+
+She appeared for the GCE Ordinary Level Examination in 1946.
+
+How to select a recognized Higher Education or Vocational Training Institute internationally? The GCE Ordinary Level Examination Three Twin
+
+"The name of the GCE Ordinary Level Examination changed, we were from the year we wrote that exam. After changing the name of the examination, we first wrote that exam. Three people at Millewa Balika Vidyalaya passed the examination, "she woke memory.
 
 ...
 
 [Data](articles/97d61a97.json)
+
+[Extended Data](ext_articles/97d61a97.ext.json)
 
 ---
 
@@ -2229,265 +2427,5 @@ The Parliament on Friday (23) informed the Election Commission that a vacancy ha
 [Data](articles/706cf33b.json)
 
 [Extended Data](ext_articles/706cf33b.ext.json)
-
----
-
-### "We will resume Jaffna Goddess Services"
-
-*2024-08-28 19:01:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-தேவி-சேவைகளை-மீள-ஆரம்பிப்போம்/175-342925) · `ta`
-
-Namal Rajapaksa promises to restart Jaffna Devi railway line, suspended due to administrative inefficiency. His government aims to restore train services to Northern Province, including the 114km Matara-Kadirgama route.
-
-🟩
-
-Sri Lanka PA's presidential candidate Namal Rajapaksa has today assured that the service of the Jaffna Devi railway line, which has been suspended for several months due to the inefficiency of the current administration, will restart the services of the PA.
-
-He told the Daily Mirror that the Rajapakse government had successfully created the Yarl Devi railway line for the Northern Province.
-
-After completing the 30 -year war, our government successfully established the Jaffna Devi railway line to the Northern Province.
-
-Rajapakse said his government was committed to taking immediate steps to resume train services to the Northern Province.
-
-He said that steps would be taken to expedite the 114 -kilometer -long train from Matara to Kadirgama without delay.
-
-◼️
-
-[Data](articles/d043ef2d.json)
-
-[Extended Data](ext_articles/d043ef2d.ext.json)
-
----
-
-### Janasas combustion: Select Committee to explore
-
-*2024-08-28 18:42:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாஸாக்கள்-எரிப்பு-ஆராய-தெரிவுக்குழு/175-342924) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka President Ranil Wickremesinghe appoints parliamentary committee to investigate COVID-related deaths. Meets with Islamic scholars to discuss equal treatment of all religions. Maintains stance on Palestine issue. Opens consulate in Jerusalem for Sri Lankans working in Israel.
-
-🟩
-
-President Ranil Wickremesinghe said he would appoint a parliamentary select committee in consultation with other party leaders to investigate the responsibility of the government, which the government had recommended to the bodies of Muslims and other religions who died during the last Corona virus.
-
-The President was responding to a request made by the All Ceylon Jamiyyathul Ulama Executive Committee on Tuesday evening (27).
-
-President, Ash - Sheikh M. I. M.. Rizvi and the Executive Committee met with the members.
-
-General Secretary of the Ulama Council Ash -Sheikh Akram Nooramid, Treasurer Ash -Shek A.. A.. Ahmed Azwar, Vice President Ash - Sheikh H. Omardin, Ash - Sheikh M. J.. Abdul Khalik, Vice President Ash -Shaykh. L. M.. Hashim, Vice President Ash -Shaykh A. L. Members of the Executive Committee, including M.Paleel, met at the meeting. Moulavimar congratulated President Ranil Wickremesinghe's victory in the upcoming presidential election.
-
-...
-
-[Data](articles/facd048a.json)
-
-[Extended Data](ext_articles/facd048a.ext.json)
-
----
-
-### A knife strikes a schoolgirl due to love stories
-
-*2024-08-28 18:40:49* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්-හබයක්-නිසා-පාසල්-සිසුවෙකුට-පිහියකින්-පහරදෙයි/11-411614) · `si`
-
-Knife attack on schoolgirl over love story leads to hospitalization and police investigation.
-
-🟩
-
-A student of a school-finished school, a group of students were rushed to the Peradeniya Hospital due to the injuries due to a knife.
-
-The suspects were knife at the Pilimatalawa railway station at Pilagallawa area.
-
-The injured had been admitted to the Peradeniya Hospital and the student had surgery had surgery, hospital sources said.
-
-The suspects were three students who were finished school, police said.
-
-Police investigations have confirmed that the knives have been made due to a heated argument due to a detest cause.
-
-◼️
-
-[Data](articles/5c42a0f8.json)
-
-[Extended Data](ext_articles/5c42a0f8.ext.json)
-
----
-
-### Sri Lanka Marxists-led NPP’s manifesto “recipe for disaster”: Foreign Minister
-
-*2024-08-28 18:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-marxists-led-npps-manifesto-recipe-for-disaster-foreign-minister-178252/) · `en`
-
-ECONOMYNEXT –Marxists Janatha Vimukthi Peramuna (JVP)-led National People’s Power’s (NPP) economic policies will erode Sri Lanka’s economic recovery and lead to the second economic crisis, Foreign Minister Ali Sabry said.
-
-Sabry, the former Finance Minister who started negotiations with the International Monetary Fund (IMF) in 2022, said the economic policies announced in the NPP’s election manifesto this week lacks clarity on additional funds needed to manage higher spending for the proposals.
-
-The NPP is populour at the grass root level and among the rural voters and many analysts see the possibility of its presidential candidate Anura Kumara Dissanayake winning the September 21 poll.
-
-Some analysts see the move as the end of an elitists-dominated 76-year post-independent politics in Sri Lanka.
-
-...
-
-[Data](articles/10f6f499.json)
-
-[Extended Data](ext_articles/10f6f499.ext.json)
-
----
-
-### In the case of the Trial Room, Rs. 12 kilos of heroin disappeared
-
-*2024-08-28 18:29:50* · [`adalk`](https://www.ada.lk/breaking_news/නඩු-භාණඩ-කාමරයේ-තිබූ--රු--කෝටි-24ක-හෙරොයින්-කිලෝ-12ක්-අතුරුදන්/11-411613) · `si`
-
-Heroin disappearance case: Chief Magistrate orders investigation, names suspect Tharindu Yoshitha, directs CID and police to probe.
-
-🟩
-
-It has been revealed that the Chief Magistrate's Court Magistrate's Court of Justice had disappeared at Rs.
-
-The revelation that the heroin had been taken to the Government Analysis to submit the heroin in Colombo to be presented to the Government Analysis to submit the heroin in Colombo to be presented to the Government Analysis.Colombo Chief Magistrate Thilina Gamage prescribed the Director of the CID today (28).
-
-Who is the 'Tharindu Yoshitha' who had taken the stock of heroin that heroin was taken by the secret police?The Chief Magistrate also ordered the CPA to investigate the revelation.
-
-After revealing that the heroin, a man named 'Tharindu Yoshitha' was to be sent to the Government Analyst, said that he had previously been taken to the Government Analyst.The Chief Magistrate also funded the Director General of Police to investigate the matter.
-
-...
-
-[Data](articles/f9a92651.json)
-
-[Extended Data](ext_articles/f9a92651.ext.json)
-
----
-
-### Naval and fishing communities warned not to venture into sea for 3 days
-
-*2024-08-28 18:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101574/naval-and-fishing-communities-warned-not-to-venture-into-sea-for-3-days) · `en`
-
-The Department of Meteorology has issued an advisory for heavy rain, strong winds and rough seas for multi-day boats in the Northern Bay of Bengal deep sea areas.
-
-Issuing the advisory, the Met. Department said that a low-pressure area is likely to form over Northern Bay of Bengal tomorrow (29).
-
-Very strong winds of 70-80 kmph accompanied with heavy rainfalls and very rough seas are likely over above sea areas, it added.
-
-Naval and fishing communities are advised not to venture into the sea areas bounded by 10N - 17N and 83E – 92E during next 3 days.
-
-Furthermore, the department advises those who are out at aforementioned sea regions are advised to return to coasts or moved safer areas immediately.
-
-Fishing and naval community are requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
-
-◼️
-
-[Data](articles/92568b5d.json)
-
-[Extended Data](ext_articles/92568b5d.ext.json)
-
----
-
-### Rubber fertilizer bundle of Rs. Reduces by 4000
-
-*2024-08-28 18:21:07* · [`adalk`](https://www.ada.lk/breaking_news/රබර්-පොහොර-මිටියක්-රු--4000කින්-අඩු-කරයි/11-411612) · `si`
-
-Sri Lanka government reduces rubber fertilizer price by 4000 rupees to boost production. Minister Amaraweera announces subsidy starting this week. Rubber yield drops to 65000 metric tons annually due to lack of fertilizers.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera says the government has decided to provide a fertilizer subsidy to rubber cultivation to increase the crops of rubber cultivation in Sri Lanka.
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera has instructed the Chairman of State Fertilizer Company to reduce the 50 kilogram of fertilizer bags of Rs. 5,500 from Rs. 5,500.
-
-The fertilizer subsidy given to rubber cultivation will be taken this week from this week.
-
-At present, a large fertilizer subsidy has been provided to a hectares of paddy cultivation.In addition, the government has taken steps to provide the fertilizer subsidy of Rs.
-
-Sri Lanka Rubber Research Institute has pointed out that there has been no fertilizer for rubber cultivation for many years. Accordingly, the annual rubber yield has reduced to 65,000 metric tons from a metric tonne.
-
-◼️
-
-[Data](articles/07a603dc.json)
-
-[Extended Data](ext_articles/07a603dc.ext.json)
-
----
-
-### Here is the decision of the President regarding budgeting
-
-*2024-08-28 17:45:59* · [`adalk`](https://www.ada.lk/breaking_news/උපයන-විට-ගෙවන-බද්ධ-ගැන-ජනපති-ගත්ත-තීරණය-මෙන්න/11-411611) · `si`
-
-President Ranil Wickremesinghe announces budget revision agreement with IMF during rally in Eheliyagoda.
-
-🟩
-
-President Ranil Wickremesinghe said that he would revise the transplantation and the IMF organization has agreed on it.
-
-He was speaking at a rally held in Eheliyagoda this morning.
-
-"Payment when earning is a big problem. IMF. Organization and we have agreed to amend it. Basic decision is over. We've put one suggestion, they have another suggestion. So when we discuss these two suggestions, we will be notified here when we get agreements. "
-
-◼️
-
-[Data](articles/4ff87416.json)
-
-[Extended Data](ext_articles/4ff87416.ext.json)
-
----
-
-### Sri Lanka, IMF reach agreement on amending PAYE tax: report citing president
-
-*2024-08-28 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-reach-agreement-on-amending-paye-tax-report-citing-president-178240/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s government and the International Monetary Fund (IMF) have reached an agreement to amend the pay-as-you-earn (PAYE) tax, and proposals from both parties are to be considered and the exact amounts will be notified soon, the privately owned Ada Derana network reported.
-
-According to Ada Derana, Wickremesinghe had made this statement at a presidential election rally in Eheliyagoda on Wednesday August 28. (Colombo/Aug28/2024)
-
-◼️
-
-[Data](articles/c7c76886.json)
-
-[Extended Data](ext_articles/c7c76886.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 300.60/80, bond yields up
-
-*2024-08-28 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-60-80-bond-yields-up-178245/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 300.60/80 to the US dollar on Wednesday, from 300.00/30 on Tuesday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 11.00/15 percent, up from 10.90/11.15 percent.
-
-A bond maturing on 15.12.2027 closed at 11.80/12.05 percent, up from 11.80/95 percent.
-
-A bond maturing on 01.07.2028 closed at 12.60/70 percent, up from 12.50/55 percent.
-
-A bond maturing on 15.06.2029 closed at 12.75/13.00 percent, up from 12.70/80 percent.
-
-A bond maturing on 01.10.2032 closed at 13.10/40 percent, up from 13.10/25 percent. (Colombo/Aug28/2024)
-
-◼️
-
-[Data](articles/ccadf99c.json)
-
-[Extended Data](ext_articles/ccadf99c.ext.json)
-
----
-
-### Sri Lanka stocks close down, ASPI drops below 11,000
-
-*2024-08-28 17:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-aspi-drops-below-11000-178236/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 1.33 percent, or 147.67 points, at 10,945; while the more liquid S&P SL20 Index closed down 1.68 percent, or 52.92 points, at 3,096.
-
-Top turnover generators were Ceylon Tobacco Company Plc (down at 1,206.50), Melstacorp Plc (down at 75.70), Browns Investments Plc (down at 5.00), Commercial Bank of Ceylon Plc (down at 86.60), and John Keells Holdings Plc (down at 173.25)
-
-“The All Share Index dropped below the 11,000 mark today, and it can go down further,” Softlogic Stockbrokers said.
-
-Two crossings took place: Melstacorp and Sierra Cables Plc (flat at 10.30).
-
-Foreign buying was seen in Melstacorp, Commercial Bank, Richard Pieris and Company Plc (down at 19.00), Hayleys Plc (down at 90.00), People’s Leasing and Finance Plc (down at 11.50), and Radiant Gems International Plc (down at 83.40).
-
-...
-
-[Data](articles/9f68c30a.json)
-
-[Extended Data](ext_articles/9f68c30a.ext.json)
 
 ---

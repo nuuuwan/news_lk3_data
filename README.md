@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 08:18:18**
+As of **2024-08-29 08:37:12**
 
 ## Newspaper Stats
 
-*Scraped **43,136** Articles*
+*Scraped **43,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,117 @@ dbsjeyarajcom | 361
 newsfirstlk | 363
 bbccomsinhala | 400
 colombotelegraphcom | 415
-islandlk | 2,506
+islandlk | 2,516
 economynextcom | 2,607
 dailyftlk | 2,809
 adalk | 3,990
 dailymirrorlk | 4,733
 adaderanalk | 5,073
-tamilmirrorlk | 5,628
+tamilmirrorlk | 5,630
 virakesarilk | 6,855
-adaderanasinhalalk | 7,396
+adaderanasinhalalk | 7,400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,134 (100.0%) of 43,136 articles have been extended.
+43,136 (100.0%) of 43,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
+
+### වරෙන්තු 26ක් නිකුත් කර තිබූ සැකකාරියක් අත්අඩංගුවට
+
+*2024-08-29 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200449) · `si`
+
+කූඨ ලේඛන සකස් කර මුදල් වංචා කිරීමක් සම්බන්ධයෙන් අධිකරණය මග හරිමින් සිටි කාන්තාවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+2013 වර්ෂයේ දී රජයේ රැකියා ලබා දෙන බවට පවසමින් ඌව පළාත් සභාවේ සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්වරයාගේ අත්සන ව්‍යාජ ලෙස යොදා කූඨ ලෙස සකස් කළ පත්වීම් ලිපි ලබා දී මෙම සැකකාරිය මුදල් වංචා සිදුකර ඇත.
+
+පොලීසිය සඳහන් කළේ සැකකාරියට එරෙහිව තිබූ පැමිණිලි 26 ක අදාළව බදුල්ල, විශේෂ අපරාධ විමර්ශන අංශය මගින් විමර්ශන සිදුකර සැකකාරිය අත්අඩංගුවට ගෙන අධිකරණයේ නඩු පවරා තිබූ බවය.
+
+ඒ අනුව මෙම සැකකාරිය කූඨ ලේඛන සකස් කිරීම සම්බන්ධයෙන් අධිකරණය මගින් වැරදිකරු කරන ලද අතර වැරදිකාරිය අධිකරණය මගහරිමින් සිටි ඇත.
+
+මෙම සැකකාරියට අධිකරණයෙන් වරෙන්තු 26ක් ද නිකුත් කර තිබූ බව සඳහන් වේ.
+
+බදුල්ල, විශේෂ අපරාධ විමර්ශන අංශය මගින් ඊයේ (28) ආරච්චිකට්ටුව, නල්ලදරම්කට්ටුව ප්‍රදේශයේ දී මෙම සැකකරියව අත්අඩංගුවට ගෙන ඇති අතර පසුව සැකකරියට ඇප තැබූ තැනැත්තිය ද හලාවත නගරයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් කාන්තාවන් අවුරුදු 52 හා 30 යන වයස්වල පසුවන ගොනාගොල්ල, අම්පාර ප්‍රදේශයේ පදිංචිකාරියන්ය.
+
+...
+
+[Data](articles/e2bce33c.json)
+
+---
+
+### සජිත්ගේ අලුත්ම සැලසුම
+
+*2024-08-29 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200448) · `si`
+
+රාජ්‍ය ආයතන විකිණීම සිය රජයක් යටතේ සම්පූර්ණයෙන් නතර කරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ රාජ්‍ය ආයතන කාර්යක්ෂම කර ලාභ ලබන ආයතන බවට පත්කිරීමට කටයුතු කරන බවය.
+
+වැල්ලවාය ප්‍රදේශයේ පැවති ජන රැලියකට එක්වෙමින් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මෙම අදහස් පළ කළේය.
+
+"මේ බලප්‍රදේශය ගත්තොත් වනඅලි - මිනිස් ගැටුම තියෙනවා. මෙයට පළමුවෙන්ම කළ යුතු දේ වන්නේ, ජාතික ඉඩම් පරිහරණ සැලැස්මක් ක්‍රියාත්මක කිරීම. කවුරුත් ඒක කරලා නෑ. අපි ඒ දේ කරලා වනඅලි - මිනිස් ගැටුම අවම කරන්නටත් ඒ වගේම සතා සිව්පාවන් සහ මිනිසුන් අතර තියෙන ගැටුම අවම කරන්නට අපි කටයුතු කරනවා. අපේ රට සම්පත් විකුණන වෙන්දේසියේ පාරාදීසයක් කරලා. පැල්වත්ත, සෙවනගල සීනි කර්මාන්ත ශාලා නව ක්‍රමවේද තුළින් ඇතිමලේ ඇතුළුව ගොවි පවුල්වල සේවය කරන අය 30,000කට අධික ප්‍රමාණයක් ඉන්නවා. අපි මේ ආයතන කුණු කොල්ලයට විකුණන සංස්කෘතියට නැවතීමේ ලකුණ තියලා මේ ජාතික සම්පත ඔබගේ සුබසිද්ධිය උදෙසා ක්‍රියාත්මක කිරීමට කටයුතු කරනවා."
+
+◼️
+
+[Data](articles/00e30a76.json)
+
+---
+
+### එංගලන්ත - ශ්‍රී ලංකා දෙවන ටෙස්ට් තරගය අද ඇරඹෙයි
+
+*2024-08-29 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200447) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගය අද (29) ආරම්භ වීමට නියමිතව තිබේ.
+
+ලෝඩ්ස්හිදී ශ්‍රී ලංකා වේලාවෙන් පස්වරු 3.30ට තරගය ආරම්භ වීමට නියමිතව ඇත.
+
+අද තරගය සදහා ශ්‍රී ලංකා කණ්ඩායමට කුසල් මෙන්ඩිස් වෙනුවට පැතුම් නිස්සංක කැඳවා ඇති තිබේ.
+
+තරග 3කින් සමන්විත මෙම ටෙස්ට් තරගාවලියේ පළමු තරගය එංගලන්ත කණ්ඩායම කඩුලු 5කින් ජය ලබා ගැනීමට සමත් විය.
+
+◼️
+
+[Data](articles/6d4c5651.json)
+
+---
+
+### වේදිකාවෙන් පිට ඉන්න අය ගැන රනිල් කියයි
+
+*2024-08-29 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200446) · `si`
+
+රට අර්බුදයට පත්ව තිබු අවස්ථාවේ ජනතාව ගැන නොසිතා කටයුතු කළ මහජන නියෝජිතයින් පිළිබඳව ජනතාවට යළි විශ්වාසයක් තැබිය නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වා දෙන්නේ රට වැටී තිබු ආර්ථික අර්බුදයෙන් ගොඩගැනීම සඳහා සහයෝගය ඉල්ලා සිටිය ද ඇතැම් නායකයින් එම කටයුතු මඟ හැරී බවය.
+
+ජනාධිපතිවරණය ඉලක්ක කරගනිමින් නුගේගොඩ නගරයේ පැවති ජනරැලියට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේය.
+
+...
+
+[Data](articles/2d6896a9.json)
+
+---
+
+### கிளப் வசந்த கொலை: மேலும் இருவர் கைது
+
+*2024-08-29 07:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-மேலும்-இருவர்-கைது/175-342956) · `ta`
+
+அத்துருகிரியவில் கிளப் வசந்த உள்ளிட்ட இருவர் சுட்டுக்கொல்லப்பட்ட சம்பவம் தொடர்பாக மேலும் இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+பாணந்துறை பின்வத்த பிரதேசத்தில் வைத்து பாணந்துறை குற்றப் புலனாய்வுப் பிரிவினரால் அவர்கள் கைது செய்யப்பட்டனர்.
+
+கைதானவர்களில் ஒருவர் 32 வயதான, காலி நாகொட பகுதியைச் சேர்ந்தவர். அவர் துப்பாகிச் சூட்டை நடத்தியவர் எனவும்  மற்றவர் 29 வயதான அஹுங்கல பகுதியைச் சேர்ந்தவர் எனவும் அவர், குறித்த தாக்குதலை மேற்கொள்வதற்காக வாகன சாரதியாக செயற்பட்டவர் என்றும் தெரிவிக்கப்படுகின்றது. (a)
+
+◼️
+
+[Data](articles/9a6b8c1b.json)
+
+---
 
 ### Accomplice of underworld figure ‘Matugama Shan’ brought back to Sri Lanka
 
@@ -41,6 +133,28 @@ Geethmal Benoy Dilshan, an accomplice of underworld figure “Matugama Shan”, 
 ◼️
 
 [Data](articles/726e61b4.json)
+
+[Extended Data](ext_articles/726e61b4.ext.json)
+
+---
+
+### மீனவர்களுக்கு அறிவுறுத்தல்
+
+*2024-08-29 07:47:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களுக்கு-அறிவுறுத்தல்/175-342955) · `ta`
+
+வடக்கு வங்காள விரிகுடா கடற்பிராந்தியத்திற்கு செல்வதை எதிர்வரும் 2 நாட்களுக்கு தவிர்க்குமாறு மீனவர்கள் மற்றும் கடல்சார் ஊழியர்களுக்கு அறிவுறுத்தப்பட்டுள்ளது.
+
+பலத்த மழை, கடும் காற்று மற்றும் கடல் சீற்றம் தொடர்பில் எச்சரிக்கை அறிக்கையை வெளியிட்டு வளிமண்டலவியல் திணைக்களம் இதனை தெரிவித்துள்ளது.
+
+அதற்கமைய இன்று வங்காள விரிகுடாவை அண்மித்த வளிமண்டலத்தில் காற்றழுத்த தாழ்வுநிலை அதிகரிக்கும் சாத்தியம் காணப்படுவதாக குறிப்பிடப்பட்டுள்ளது.
+
+இதன் காரணமாக குறித்த கடற்பிராந்தியத்தில் பலத்த மழை பெய்வதுடன், மணித்தியாலத்திற்கு 70 முதல் 80 கிலோமீட்டர் வரையான கடும் காற்று வீசக்கூடுமெனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+இதனால் இன்றும் நாளையும் வடக்கு வங்காள விரிகுடாவின் ஆழ்கடல் பகுதிக்கு செல்வதைத் தவிர்க்குமாறு திணைக்களம் அறிவுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/3f58a989.json)
 
 ---
 
@@ -605,6 +719,68 @@ Political Committee member of the Democratic People's Front Gampaha District Org
 [Data](articles/9c0fdf05.json)
 
 [Extended Data](ext_articles/9c0fdf05.ext.json)
+
+---
+
+### IoA honoured in Forbes Advisor’s Guide
+
+*2024-08-29 00:51:00* · [`islandlk`](http://island.lk/ioa-honoured-in-forbes-advisors-guide/) · `en`
+
+The Institute of Analytics (IoA) announces that it has been featured in
+
+Forbes Advisor’s illustrious guide on becoming a data analyst. As a revered professional body, the IoA has consistently championed the advancement of data analytics professionals by offering a wealth of learning resources, continuous professional development (CPD) opportunities and fostering a robust, global community network.
+
+The IoA’s recognition by Forbes Advisor is a testament to its unwavering dedication to elevating the field of data analytics and nurturing professionals at every stage of their careers. This accolade not only underscores the IoA’s pivotal role in the industry but also highlights its relentless pursuit of excellence in supporting its members.
+
+...
+
+[Data](articles/8e1e0265.json)
+
+---
+
+### How the University of Peradeniya has weathered the politico-economic storms of the decades
+
+*2024-08-29 00:50:00* · [`islandlk`](http://island.lk/how-the-university-of-peradeniya-has-weathered-the-politico-economic-storms-of-the-decades/) · `en`
+
+Extracts from the speech delivered by one of Sri Lanka’s most eminent historians, Emeritus Professor W.I. Siriweera, on being conferred the Degree of the Doctor of Letters by the University of Peradeniya at its convocation of August 22nd, 2024.
+
+...
+
+[Data](articles/b4b9a135.json)
+
+---
+
+### Fortude Ignite WomenTech Internship 2024 empowers future tech leaders
+
+*2024-08-29 00:49:00* · [`islandlk`](http://island.lk/fortude-ignite-womentech-internship-2024-empowers-future-tech-leaders/) · `en`
+
+The Fortude WomenTech Internship 2024, which commenced in August 2024 following a selection from over 1,400 applications, marked two intense weeks of immersive learning. Aligned with Fortude’s objective of achieving a balanced gender representation by 2027, the Ignite internship program serves as a testament to the company’s commitment to equal opportunities, ensuring growth and development for all individuals, irrespective of their background.
+
+Sri Lanka Insurance Life – sponsors the Kandy Esala Perahera
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/cd00a871.json)
+
+---
+
+### Panic selling seizes share market; indices decline
+
+*2024-08-29 00:47:00* · [`islandlk`](http://island.lk/panic-selling-seizes-share-market-indices-decline/) · `en`
+
+The stock market yesterday witnessed panic- selling against the backdrop of current political developments creating a negative sentiment in the market, analysts said.
+
+Amid those developments both indices moved downwards. The All Share Price Index went down by 147.7 points while S and P SL20 declined by 41 points.
+
+The turnover stood at Rs 732 million with two crossings. Those crossings were reported in Melstacope, which crossed 500,000 shares to the tune of Rs 38 million and its shares traded at Rs 76 and Sierra Cables 2.4 million shares crossed for Rs 25.2 million; it’s shares traded at Rs10.50.
+
+...
+
+[Data](articles/04dd0e83.json)
 
 ---
 
@@ -2213,245 +2389,5 @@ Nadeen Pasik, who fled abroad, was arrested at the airport on Wednesday (28).
 [Data](articles/b7ab23a3.json)
 
 [Extended Data](ext_articles/b7ab23a3.ext.json)
-
----
-
-### Ampara explodes - Sajith
-
-*2024-08-28 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200421) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sajith Premadasa rallies in Ampara, promises farmers Rs. 5000, subsidized fertilizers, and stable prices for crops.
-
-🟩
-
-Opposition Leader Sajith Premadasa, the president of the Opposition of the Leader of the Opposition, the Ampara District is a Suranon of the Ampara district as a source of Ampara.
-
-Sajith Premadasa expressed these views on a presidential election held in the Wendalachchenai.
-
-Another rally was held in the rally in the rally, which will be held to ensure the victory of the president of the Opposition of the Opposition.
-
-Presidential candidate Sajith Premadasa speaking to the work
-
-"The people who are engaged in farming will be given to Rs. 5,000. Also, we will make oil fertilizer to be held. You offer a permanent guaranteed price to your product. On one side, the high-end casualties to the consumer, the high-end casualties to the consumer and offers the farmer and provides a good guarantee price through a fair formula, saving consumers. The customer will be able to buy rice at a priority price. "
-
-◼️
-
-[Data](articles/dbf69695.json)
-
-[Extended Data](ext_articles/dbf69695.ext.json)
-
----
-
-### Man arrested with 650 mobile phones
-
-*2024-08-28 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/192218) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-A 52-year-old man was arrested at Karambi checkpoint with 650 mobile phones. Police suspect the phones were smuggled from India without permits. The suspect was handed over to the police and produced in court for further investigation.
-
-🟩
-
-About 650 mobile phones were found and one of the suspects was found when police and Navy were arrested at the Karambi checkpoint last Tuesday night (28).
-
-Police said they suspect the mobile phone could have been brought from India without a permit.
-
-Police said the suspect was a 52 -year -old from Kekira, Anuradhapura.
-
-The arrested suspect has been handed over to the foam police, the captivity of the captured mobile phone.
-
-Further investigations are being carried out and the police have said that they have been produced in court.
-
-◼️
-
-[Data](articles/fd820dce.json)
-
-[Extended Data](ext_articles/fd820dce.ext.json)
-
----
-
-### 3 presidential candidates ‘almost missing’, 24 still off the grid: Election watchdog questions accountability
-
-*2024-08-28 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101568/3-presidential-candidates-almost-missing-24-still-off-the-grid-election-watchdog-questions-accountability) · `en`
-
-The Executive Director of the Institute for Democratic Reforms and Electoral Studies (IRES) Manjula Gajanayake raised concerns about three candidates who have submitted nominations for the upcoming presidential election but remain unaccounted for.
-
-Speaking during Ada Derana’s current affairs programme “Big Focus”, Gajanayake pointed out that 39 candidates have entered the presidential race, with one of them recently passing away. However, he also raised concern about no official replacement been named for the deceased candidate.
-
-“I see a weakness in not naming an official replacement for the candidate who passed away,” Gajanayake stated. “If the process was organized, there would have been a replacement. There should be a ‘Plan A’ and a ‘Plan B’. The lack of transparency is dishonest.”
-
-...
-
-[Data](articles/a252f66f.json)
-
-[Extended Data](ext_articles/a252f66f.ext.json)
-
----
-
-### How to abolish the executive presidency?
-
-*2024-08-28 14:33:22* · [`adalk`](https://www.ada.lk/breaking_news/විධායක-ජනාධිපති-ක්‍රමය-අහෝසි-කරන්නේ-කොහොමද-ජනාධිපතිලා-/11-411607) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-To abolish the executive presidency, Parliament must pass legislation removing presidential powers. The president lacks voting rights in Parliament, making legislative action necessary. A two-thirds majority in Parliament would provide the required support for such changes.
-
-🟩
-
-MP Wijayadasa Rajapaksa said that the executive method cannot be abolished and that it should be done through the Parliament, he said.
-
-How to abolish the executive presidency?The president has no vote in Parliament. It should be done by Parliament. If a president has elected a two-thirds parliamentary parliamentary parliamentarians, there is a base. Without that
-
-◼️
-
-[Data](articles/0fe98d2d.json)
-
-[Extended Data](ext_articles/0fe98d2d.ext.json)
-
----
-
-### Petition challenging President Ranil’s eligibility to contest prez poll dismissed with costs
-
-*2024-08-28 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101567/petition-challenging-president-ranils-eligibility-to-contest-prez-poll-dismissed-with-costs) · `en`
-
-The Supreme Court has dismissed a petition challenging President Ranil Wickremesinghe’s eligibility to run in the presidential election, which was based on claims of failure to appoint the Acting IGP and judges to the Supreme Court and the Court of Appeal.
-
-Meanwhile, the court has also ordered the petitioner to pay Rs. 50,000 as legal costs.
-
-Additional Solicitor General Nerin Pulle, who appeared on behalf of the Attorney General, argued that the petition contained false information and that it has breached the Article 92 of the Constitution.
-
-The relevant petition had been filed by a lawyer requesting the court to issue an order to the incumbent President Ranil Wickremesinghe to appoint an Acting IGP. However, the petitioner had also sought a ruling that Wickremesinghe, who was named a respondent of the case, is not qualified to contest the presidential election.
-
-◼️
-
-[Data](articles/72638f92.json)
-
-[Extended Data](ext_articles/72638f92.ext.json)
-
----
-
-### Petition demanded to appoint a acting imbue
-
-*2024-08-28 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200420) · `si`
-
-Supreme Court fixes petition demanding acting IGP appointment. President Ranil Wickremesinghe named respondent.
-
-🟩
-
-The Supreme Court today (280) fixed a fundamental rights petition filed by a lawyer to issue an act of acting IGP.
-
-President Ranil Wickremesinghe was demanded that Mr. Ranil Wickremesinghe who was named as a respondent of the petition.
-
-◼️
-
-[Data](articles/57d537cd.json)
-
-[Extended Data](ext_articles/57d537cd.ext.json)
-
----
-
-### The Presidential Opening of Sri Lanka's First Power Plant, which operates using natural gas
-
-*2024-08-28 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/192221) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-President Ranil Wickremesinghe inaugurated Sobadhanavi power station, Sri Lanka's first LNG-based plant, marking a milestone in the country's energy sector. The 350 MW Karavalapitiya facility uses liquid natural gas as its primary fuel source.
-
-🟩
-
-President Ranil Wickremesinghe inaugurated the rotational phase of the "Sobadhanavi" integrated rotation power station.
-
-Integrated cycle of Karavalapitiya, 350 MW, a 350 -megawort of Sri Lanka's first power plant, which is primarily used by liquid natural gas (LNG) to mark a unique milestone in Sri Lanka's energy industry.
-
-◼️
-
-[Data](articles/99d546cf.json)
-
-[Extended Data](ext_articles/99d546cf.ext.json)
-
----
-
-### The respondent "Buddha Amu" falls during the trial
-
-*2024-08-28 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200419) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Dharmasiri Karunaratne unconscious in court. Supreme Court bench hears case. Lawyers suspended for destroying documents. Trial rescheduled for October 30.
-
-🟩
-
-The complaint filed against Dharmasiri Karunaratne, who has been remanded against the judiciary of the court, has been taken up against Dharmasiri Karunaratne today (28), he was unconscious before the Supreme Court.
-
-The complaint was called before the Supreme Court Bench comprised of Mrs. Achala Fernando, Achala Fernando, Aetu Fernando, Aetu Fernando and Arjuna Obeysekere.
-
-The panel of judges to be held on October 30 on October 30.
-
-When the trial was held at the courts, Prison officials responded to the court and saw unconsciously.
-
-The Judicial Security Officers and Prison officials were jointly taken by a wheelchair.
-
-The Court has decided to suspend the lawyers of Dharmasiri Karunaratne, who has entered the Archives of the Appeal and destroyed several documents in a file file.
-
-◼️
-
-[Data](articles/dc39b0ee.json)
-
-[Extended Data](ext_articles/dc39b0ee.ext.json)
-
----
-
-### Opposition NPP manifesto a “wish list”, says Sri Lanka state finance minister
-
-*2024-08-28 14:04:00* · [`economynextcom`](https://economynext.com/opposition-npp-manifesto-a-wish-list-says-sri-lanka-state-finance-minister-178222/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s State Minister of Finance Shehan Semasinghe has called leftist presidential candidate Anura Kumara Dissanayake’s election manifesto a wish list that does not reflect ground reality.
-
-“Sorry to say the the National People’s Power (NPP)’s manifesto is just a wish list. It is a wish list that does not reflect ground reality,” Semasinghe said, speaking at a press conference on Wednesday August 28.
-
-He also claimed that the NPP has copied certain aspects of its reform proposals from President Ranil Wickremesinghe, whose candidacy Semasinghe supports.
-
-“They have proposed certain reform programmes. I checked this to see if there are any reforms that are different to those carried out by President Wickremesinghe. I cannot understand how the JVP became so bankrupt as to copy other people and present someone else’s thing as theirs,” he said.
-
-...
-
-[Data](articles/172d3778.json)
-
-[Extended Data](ext_articles/172d3778.ext.json)
-
----
-
-### 1386 families living in danger of landslides
-
-*2024-08-28 14:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாயத்துடன்-வசிக்கும்-1386-குடும்பங்கள்/175-342920) · `ta`
-
-1386 families at landslide risk in Kandy district. 1845 identified, 231 resettled by Dec 31 last year. Audit Report in 2023 Kandy District Secretariat Annual Report.
-
-🟩
-
-In a statement issued by the National Audit Office, 1386 families in the Kandy district are living in the risk of landslides.
-
-The report states that 1845 families have been identified in the 20 Divisional Secretariat Divisions in the Kandy district and only 231 families in 19 Divisional Secretariat have been resettled till 31st December last year.
-
-This information is mentioned in the Audit Report contained in the 2023 Annual Report of the Kandy District Secretariat.
-
-◼️
-
-[Data](articles/472b84ae.json)
-
-[Extended Data](ext_articles/472b84ae.ext.json)
 
 ---

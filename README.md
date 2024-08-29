@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 08:56:26**
+As of **2024-08-29 09:08:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,144 (100.0%) of 43,153 articles have been extended.
+43,152 (100.0%) of 43,153 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -87,6 +87,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ...
 
 [Data](articles/236f6f74.json)
+
+[Extended Data](ext_articles/236f6f74.ext.json)
 
 ---
 
@@ -850,6 +852,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/cd00a871.json)
 
+[Extended Data](ext_articles/cd00a871.ext.json)
+
 ---
 
 ### Panic selling seizes share market; indices decline
@@ -865,6 +869,8 @@ The turnover stood at Rs 732 million with two crossings. Those crossings were re
 ...
 
 [Data](articles/04dd0e83.json)
+
+[Extended Data](ext_articles/04dd0e83.ext.json)
 
 ---
 

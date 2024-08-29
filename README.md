@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 09:08:29**
+As of **2024-08-29 09:21:39**
 
 ## Newspaper Stats
 
-*Scraped **43,153** Articles*
+*Scraped **43,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ colombotelegraphcom | 415
 islandlk | 2,516
 economynextcom | 2,607
 dailyftlk | 2,809
-adalk | 3,990
+adalk | 3,991
 dailymirrorlk | 4,733
-adaderanalk | 5,074
+adaderanalk | 5,075
 tamilmirrorlk | 5,630
 virakesarilk | 6,855
-adaderanasinhalalk | 7,400
+adaderanasinhalalk | 7,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,152 (100.0%) of 43,153 articles have been extended.
+43,153 (100.0%) of 43,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
+
+### Ranil and Sajith to unveil election manifestos today
+
+*2024-08-29 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101581/ranil-and-sajith-to-unveil-election-manifestos-today) · `en`
+
+The election manifesto of President Ranil Wickremesinghe who is contesting the presidential election as an independent candidate will be officially launched at a special ceremony in Colombo this morning (29).
+
+It is reported that all the MPs representing the ruling party as well as those supporting Ranil Wickramasinghe in the presidential election have been invited for the unveiling event.
+
+Meanwhile, the presidential election manifesto of the Samagi Jana Balawegaya (SJB) is also scheduled to be unveiled today.
+
+MP Lakshman Kiriella mentioned that Samagi Jana Balawegaya’s (SJB) Presidential Candidate and Leader of the Opposition, Sajith Premadasa has planned to first present the election manifesto to the Venerable Mahanayake Theros.
+
+◼️
+
+[Data](articles/79dc7c58.json)
+
+---
+
+### කෝන්වැල්ල කඳු රක්ෂිතයේ ගින්නක්
+
+*2024-08-29 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200450) · `si`
+
+වැල්ලවාය ප්‍රාදේශීය ලේකම් කොට්ඨාසයට අයත් කෝන්වැල්ල කඳු රක්ෂිතයේ ඊයේ (28) පස්වරුවේ ගින්නක් හට ගෙන තිබේ.
+
+රාත්‍රි කාලය පුරාවටම ගින්න කඳු රක්ෂිතය පුරාවට පැතිර ගොස් ඇත.
+
+මේ හේතුවෙන් රක්ෂිතයේ අක්කර දහයකට වඩා ගිනිගෙන විනාශ වී ඇති බවද වාර්තා වේ.
+
+කිසියම් පුද්ගලයෙකු රක්ෂිතයට ගිනි තබන්නට ඇතැයි පොලීසිය සැක පළ කරන අතර වියළි කාලගුණය සහ සුළං තත්ත්වය හේතුවෙන් ගින්න පැතිර ගොස් තිබේ.
+
+අද අලුයම වන විට ගින්න සම්පූර්ණයෙන්ම පාලනය වී ඇති අතර ගිනි ගැනීම නිසා රක්ෂිතයට දැඩි හානි සිදුව ඇත.
+
+◼️
+
+[Data](articles/02f4f2b7.json)
+
+---
 
 ### 26 arrested for releasing 26 warrants
 
@@ -257,6 +295,26 @@ The suspect was a underworld leader, Matugama Shahan, a disciple of Matugama.
 [Data](articles/6778820b.json)
 
 [Extended Data](ext_articles/6778820b.ext.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතනයේ දෙවැනි වෙඩික්කරුත් අල්ලයි
+
+*2024-08-29 07:30:21* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-දෙවැනි-වෙඩික්කරුත්-අල්ලයි/11-411618) · `si`
+
+ක්ලබ් වසන්ත ඝාතනය සම්බන්ධයෙන් තුවක්කුකරු සහ තවත් පුද්ගලයෙකු සැකපිට අත්අඩංගුවට ගත්බව පානදුර කොට්ඨාශ අපරාධ විමර්ශන ඒකකය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ ගාල්ල නාගොඩ සහ අහුංගල්ල ප්‍රදේශයේ පදිංචි 29 සහ 32 වියැති පුද්ගලයන් දෙදෙනකු බව පොලිසිය කීය.
+
+සැකකරුවන් පානදුර පින්වත්ත ප්‍රදේශයේ රැදී සිටින බවට  පානදුර ජේෂ්ඨ පොලිස් අධිකාරි චමිල් රත්නායක මහතා ට ලද  තොරතුරක් මත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක චන්න අමරසේකර මහතා ඇතුළු නිළධාරින් පිරිසක් පින්වත්ත බස් නැවතුමේ රැදී සිටියදී අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් වෙඩිතැබීම සිදුකිරීමෙන් පසු මෝටර් රථයෙන් වෑන් රථයකට මාරුවී කඩවත දක්වා ගමන්කර එහිදී  දක්ෂිණ අධිවේගී මාර්ගය ඔස්සේ මාතර දක්වා ගමන්කර ඇති බවට මෙතෙක් කල පරීක්ෂණ වලදී හෙලිව ඇති බව පොලිසිය සදහන් කරයි.
+
+සැකකරුවන් වැඩිදුර විමර්ශන සදහා අතුරුගිරිය පොලිසිය වෙත භාරදීමට නියමිත බව උසස් පොලිස් නිළධාරියෙක් කීය.
+
+◼️
+
+[Data](articles/7e758fea.json)
 
 ---
 
@@ -2375,77 +2433,5 @@ It is reported that 12,420 houses have been completely destroyed due to adverse 
 [Data](articles/43517cfc.json)
 
 [Extended Data](ext_articles/43517cfc.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-28 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/192232) · `ta`
-
-US dollar buying 295.8172 rupees, selling 305.0549 rupees on August 28.
-
-🟩
-
-The US dollar purchasing price was 295.8172 rupees and the sales price were Rs 305.0549 on Wednesday (August 28).
-
-◼️
-
-[Data](articles/8fa5cb11.json)
-
-[Extended Data](ext_articles/8fa5cb11.ext.json)
-
----
-
-### Susil Jayathwan asks bail
-
-*2024-08-28 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200422) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Susil Jayatunga appears in Supreme Court for bail hearing. Threatened by prison conditions. Judges skeptical of claims. Case rescheduled for September 13.
-
-🟩
-
-Susil Jayatunga, who has been threatened to be released on bail today (28), responded to the Supreme Court today.
-
-Gamini Amarasekera, that .M.. D. The three-judges of the Suprane Gunaratne, Nawaz and Shiran Gunaratne had been called before the Supreme Court Bench.
-
-Susil Jayatunga, who is suspended at the open court, said,
-
-"Lord I am in the prison. A blade can cut my neck or damage my life. "
-
-Judge Gamini Amarasekera has said, "I don't know" the neck cuts. "
-
-Mr. Jayatuna answered that, "Lord. I don't do it ... ".
-
-The complaint was then ordered to be taken up again on September 13.
-
-◼️
-
-[Data](articles/8d564707.json)
-
-[Extended Data](ext_articles/8d564707.ext.json)
-
----
-
-### Antagonism
-
-*2024-08-28 15:25:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கெதிரான-மனு-நிராகரிப்பு/175-342921) · `ta`
-
-Supreme Court rejects petition against President Wickremesinghe eligibility, cites constitutional violations.
-
-🟩
-
-The Supreme Court has rejected the Failure to appoint the Inspector General of Police and the appointment of judges to the Supreme Court and the Court of Appeal, the Supreme Court has rejected the fundamental rights violation petition filed by the President to declare President Ranil Wickremesinghe as not eligible to contest the presidential election.
-
-Additional Solicitor General Nirin Point, who appeared on behalf of the Attorney General, said that the petitioners had submitted false information to the court and that the petition would violate the 92nd Article of the Constitution.
-
-◼️
-
-[Data](articles/cc05a5c8.json)
-
-[Extended Data](ext_articles/cc05a5c8.ext.json)
 
 ---

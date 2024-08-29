@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 12:11:11**
+As of **2024-08-29 12:22:24**
 
 ## Newspaper Stats
 
-*Scraped **43,189** Articles*
+*Scraped **43,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,46 +17,130 @@ economynextcom | 2,608
 dailyftlk | 2,809
 adalk | 3,996
 dailymirrorlk | 4,733
-adaderanalk | 5,080
-tamilmirrorlk | 5,635
+adaderanalk | 5,082
+tamilmirrorlk | 5,636
 virakesarilk | 6,864
-adaderanasinhalalk | 7,408
+adaderanasinhalalk | 7,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,187 (100.0%) of 43,189 articles have been extended.
+43,189 (100.0%) of 43,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
 
-### ජනපති රනිල්ගේ ප්‍රතිපත්ති ප්‍රකාශය එළිදක්වයි
+### Foreign investors guaranteed a corruption-free future under NPP - Harini Amarasuriya
+
+*2024-08-29 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101589/foreign-investors-guaranteed-a-corruption-free-future-under-npp-harini-amarasuriya) · `en`
+
+China had been an “easy source of money” for past governments and the National People’s Power (NPP) wants to ensure future investment isn’t wasteful, said Harini Amarasuriya, a lawmaker and a member of the NPP.
+
+During an interview with the Bloomberg news in Colombo, Amarasuriya, an academic who has become one of the more public faces of the NPP’s election campaign, has stated: “We don’t want easy money coming in to fund unproductive projects and not care about corruption.”
+
+“That’s what we expect of any country, and that’s how we would want it to be with China”, she assured.
+
+Amarasuriya said the NPP wants to maintain ties with China since the country had been one of the few to back Sri Lanka when it faced global scrutiny for human rights violations as the civil war drew to a close.
+
+“We are cognizant of the fact that China has politically backed us in sensitive moments,” she said. “And we want to maintain those relations.”
+
+...
+
+[Data](articles/3b7d145d.json)
+
+---
+
+### ජගත් කුමාරගේ සහාය සජිත්ට
+
+*2024-08-29 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200458) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමට තමන් තීරණය කළ බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ජගත් කුමාර පවසයි.
+
+◼️
+
+[Data](articles/f4be29aa.json)
+
+---
+
+### Another SLPP MP backs Sajith in presidential election
+
+*2024-08-29 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101588/another-slpp-mp-backs-sajith-in-presidential-election) · `en`
+
+The Sri Lanka Podujana Peramuna’s (SLPP) Colombo District MP Jagath Kumara has pledged his support to Samagi Jana Balawegaya (SJB) presidential candidate, Opposition Leader Sajith Premadasa at the upcoming presidential election.
+
+◼️
+
+[Data](articles/5398f543.json)
+
+---
+
+### President issues Ranil's policy statement
 
 *2024-08-29 11:52:31* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-රනිල්ගේ-ප්‍රතිපත්ති-ප්‍රකාශය-එළිදක්වයි/11-411626) · `si`
 
-ඉදිරි ජනාධිපතිවරණය වෙනුවෙන් ස්වාධීන අපේක්ෂකයකු ලෙස ඉදිරිපත් වන ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ “රනිල් සමඟ රට දිනවන වසර පහක්” ප්‍රතිපත්ති ප්‍රකාශය අද(29දා) කොළඹ ටාජ් සමුද්‍රා හෝටලයේදී එළිදැක්විණ.
+Here's a summary of the text in 200 characters:
 
-එය “ථෙරවාද වෙළෙඳ ආර්ථිකය, ක්‍රියාන්විතය - 2025න් ඔබ්බට, ප්‍රභාශ්වර සමාජයක් කරා, මව්බිම දිනවමු සහ එකමුතු ශ්‍රී ලංකා” යන ප්‍රධාන අංග 5කින් සමන්විත වේ.
+
+
+Ranil Wickremesinghe unveils policy statement at Taj Samudra Hotel. Key features include philosophical society Mawbima Dinuwamu and Unity Sri Lanka.
+
+🟩
+
+The 'Policy Statement' with Ranil Wickremesinghe, who is independent candidate for the next presidential election, was unveiled today at the Taj Samudra Hotel in Colombo.
+
+It consists of 5 key features to a philosophical society, Mawbima Dinuwamu and Unity Sri Lanka.
 
 ◼️
 
 [Data](articles/1a488146.json)
 
+[Extended Data](ext_articles/1a488146.ext.json)
+
 ---
 
-### விவசாயிகளுக்கு முழுமையான ஒத்துழைப்புக்களை வழங்கி, வறுமையை போக்குவதற்கான புதிய நடவடிக்கைகள் முன்னெடுப்போம் - சஜித் பிரேமதாச
+### சட்டங்களை இயற்ற குழு நியமிக்கப்படும்
+
+*2024-08-29 11:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டங்களை-இயற்ற-குழு-நியமிக்கப்படும்/175-342967) · `ta`
+
+ஊழலுக்கு எதிரான புதிய சட்டங்களை இயற்றுவது தொடர்பான விடயங்களை ஆராய குழுவொன்றை நியமிப்பதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+தனது தேர்தல் விஞ்ஞாபனத்தை வெளியிடும் விழாவில் அவர் பேசுகையில், சபாநாயகர், தொழில்முறை சங்கம், இலங்கை சட்டத்தரணிகள் சங்கம் (BASL) மற்றும் வர்த்தக சம்மேளனம் ஆகியவற்றால் நியமிக்கப்பட்ட உறுப்பினர்களை இந்தக் குழு உள்ளடக்கியிருக்கும் எனத் தெரிவித்தார்.
+
+ஊழலுக்கு எதிரான சில சட்டங்கள் ஏற்கனவே அமுல்படுத்தப்பட்டுள்ள நிலையில் இன்னும் சில சட்டங்கள் இயற்றப்பட உள்ளதாக ஜனாதிபதி தெரிவித்தார்.
+
+ஊழலுக்கு எதிராக நடவடிக்கை எடுக்க வேண்டும், திருடர்களை பிடிக்க வேண்டும் என அனைவரும் பேசுகின்றனர், அதை எப்படி செய்யப் போகிறார்கள்? திருடர்களைப் பிடிக்க நாங்கள் சட்டம் கொண்டு வருகிறோம், வெறுமனே பேசுவது எளிது, என ஜனாதிபதி மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/bd7b96b6.json)
+
+---
+
+### We will take full cooperation to the farmers and take new measures to overcome poverty - Sajith Premadasa
 
 *2024-08-29 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/192271) · `ta`
 
-பிரபஞ்சம் மூச்சு போன்ற வேலை திட்டங்களின் ஊடாக ஒரு பில்லியன்  பெறுமதியான வேலைகளை   செய்திருப்பதோடு, 76 வருட கால ஜனநாயக காலத்திற்குள் எதிர்க்கட்சி ஒன்று இவ்வாறான  பாரிய சேவைகளை செய்யவில்லை.  இப்படியான சூழ்நிலைக்கு மத்தியில் தாம் முன்வைக்கின்ற  வேலைத்திட்டங்களை  நடைமுறைப்படுத்த முடியுமா என்று  சிலர் கேள்வி எழுப்புகின்றனர்.  76 வருட  ஜனநாயக காலத்திற்குள் இவ்வாறான  பாரிய சேவைகளை எந்த அதிகாரமும் இல்லாமல்  நாம் செய்திருப்பதாக இதன்போது  எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Here's a summary of the text in 200 characters:
 
-அத்தோடு சமூர்த்தி, ஜனசவிய, அஸ்வெசும  போன்ற வறுமையை ஒழிக்கும்  வேலைத்திட்டங்களில் காணப்படுகின்ற  சிறந்த விடயங்களை உள்ளடக்கிய புதிய  வேலைத்திட்டங்களை முன்னெடுக்கபடும்.    வறுமையான குடும்பங்களுக்கு 20000 ரூபா விதம் வழங்கி  24 மாதங்களுக்குள்  வறுமையை முற்றாக ஒழிப்போம்.  தொடர்ந்தும் நிவாரணங்களை வழங்கும்  யுகத்தை நிறைவு செய்ய வேண்டும் எனவும்  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+
+Sajith Premadasa promises support for farmers, new poverty alleviation programs, and loan forgiveness. Opposes privatization of national assets and criticizes government inefficiencies.
+
+🟩
+
+The universe has done a billion valuable work through work -like programs, and a 76 -year democratic period has not done such massive services.Some people question whether they can implement the programs they are present in the midst of this situation.The Leader of the Opposition said that we have done such massive services within 76 years of democratic times without any authority.
+
+In addition, new programs include the best issues found in poverty eradication programs such as Samurdhi, Janasavya and Aswesuma.We will provide 20000 rupees to poor families and eradicate poverty within 24 months.Opposition Leader Sajith Premadasa said the era should continue to be completed.
+
+The 23rd People's Victory rally organized by the United People's Power in front of the 2024 presidential election was held under the leadership of the Opposition Leader in Wellawaya.. He said this while attending the event.
 
 ...
 
 [Data](articles/14a15797.json)
+
+[Extended Data](ext_articles/14a15797.ext.json)
 
 ---
 
@@ -2405,115 +2489,5 @@ The Elections Commission has released the name of Karunaratne Paranavidhana for 
 [Data](articles/770b37c8.json)
 
 [Extended Data](ext_articles/770b37c8.ext.json)
-
----
-
-### Fast bowler called to England team instead of Mark Wood
-
-*2024-08-28 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200432) · `si`
-
-England replaces Mark Wood with another fast bowler for 2nd Test vs Sri Lanka at Lord's.
-
-🟩
-
-The second Test match between Sri Lanka and England commences at the Lords Cricket Stadium tomorrow (29).
-
-The England team, which is attending the match, has already been named.
-
-The Mark Wood Foundation was disordered during the first Test match between Sri Lanka and England and he loses both the rest of the tournament.
-
-Stone says he is trying to bowl as Wood and fast.
-
-Fast bowler, a fast bowler, is now playing 3 Tests.
-
-Ben Daket, Dan Lawrence, Ollie Pop (Leader), Harry Brook, Mathew Smith, Mathew Ports, Shen, Shoaib Bashir
-
-◼️
-
-[Data](articles/023dc143.json)
-
-[Extended Data](ext_articles/023dc143.ext.json)
-
----
-
-### Happy news about passports
-
-*2024-08-28 19:29:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-குறித்து-மகிழ்ச்சியான-செய்தி/175-342928) · `ta`
-
-Department of Immigration & Emigration increases daily passport issuance to 1000. Long queues observed outside Battaramulla office. Foreign Minister apologizes for delays. Steps taken to address issues.
-
-🟩
-
-The Department of Immigration and Emigration said that steps have been taken to issue 1,000 passports a day from today.
-
-People have been waiting in long queues to get a passport in front of the Department of Immigration and Emigration in Battaramulla.
-
-Some people were able to observe that the passport office was waiting in front of the night without food and toilet.
-
-Subsequently, steps have been taken to issue 1,000 passports a day from today.
-
-Foreign Minister Ali Sabri has said that he apologizes to the people as the Minister for the delay in issuing a foreign passport.. Remble
-
-◼️
-
-[Data](articles/2285009a.json)
-
-[Extended Data](ext_articles/2285009a.ext.json)
-
----
-
-### Male race that ends?Shock
-
-*2024-08-28 19:28:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முடிவுக்கு-வரும்-ஆண்-இனம்-ஆய்வில்-அதிர்ச்சி/50-342927) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Lu chromosome loss in males: Biologists report alarming findings on the Lu chromosome, crucial for male development. It's losing genes at an alarming rate, potentially leading to its complete disappearance in 11 million years. This could result in the end of male offspring in the future. Genetic experts express concern about this trend.
-
-🟩
-
-The study reveals shocking reports that the Lu chromosomes found in men are disappearing.
-
-Biologists have published shocking results from how the Lu chromosome, one of the two gender chromosomes in humans, is likely to disappear when the world has changed all things.
-
-They said that the complete disappearance of this chromosome would mean the end of the male offspring in the future. However, we do not need to believe that, and they have some beliefs.
-
-In this regard, renowned genetic professor Jennifer A. Marshall Graves said, "In the last 300 million years, it has lost 1,393 of its original 1,438 genes and only 45 genes remains."
-
-Jennifer A. Marshall expressed concern that the time of Lu chromosome's telephone number is over and that if this trend continues, they will disappear completely within 11 million years.
-
-◼️
-
-[Data](articles/970c5b28.json)
-
-[Extended Data](ext_articles/970c5b28.ext.json)
-
----
-
-### Arrested five people involved in kidnapping
-
-*2024-08-28 19:14:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடத்தலில்-ஈடுபட்ட-ஐவர்-கைது/175-342926) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Five people (2 Chinese, 1 Indian, 2 Sri Lankan) arrested for kidnapping. Seized: foreign cigarettes, whiskey, satellite TV equipment worth over 15.8 million rupees. Confiscated goods, ordered to pay 300,000 rupees fine.
-
-🟩
-
-Two Chinese citizens and an Indian citizen have been arrested by the Customs Unit, including foreign cigarettes, whiskey and satellite television broadcasting equipment worth more than 15.8 million rupees.
-
-Two Chinese citizens, Indian citizen and two Sri Lankans have been arrested with these items.
-
-The abducted goods will be confiscated and the suspects are fined Rs.. Ordered to pay 300,000
-
-◼️
-
-[Data](articles/954f8e31.json)
-
-[Extended Data](ext_articles/954f8e31.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 08:37:12**
+As of **2024-08-29 08:56:26**
 
 ## Newspaper Stats
 
-*Scraped **43,152** Articles*
+*Scraped **43,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,607
 dailyftlk | 2,809
 adalk | 3,990
 dailymirrorlk | 4,733
-adaderanalk | 5,073
+adaderanalk | 5,074
 tamilmirrorlk | 5,630
 virakesarilk | 6,855
 adaderanasinhalalk | 7,400
@@ -26,101 +26,171 @@ adaderanasinhalalk | 7,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,136 (100.0%) of 43,152 articles have been extended.
+43,144 (100.0%) of 43,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
 
-### වරෙන්තු 26ක් නිකුත් කර තිබූ සැකකාරියක් අත්අඩංගුවට
+### 26 arrested for releasing 26 warrants
 
 *2024-08-29 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200449) · `si`
 
-කූඨ ලේඛන සකස් කර මුදල් වංචා කිරීමක් සම්බන්ධයෙන් අධිකරණය මග හරිමින් සිටි කාන්තාවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in 200 characters:
 
-2013 වර්ෂයේ දී රජයේ රැකියා ලබා දෙන බවට පවසමින් ඌව පළාත් සභාවේ සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්වරයාගේ අත්සන ව්‍යාජ ලෙස යොදා කූඨ ලෙස සකස් කළ පත්වීම් ලිපි ලබා දී මෙම සැකකාරිය මුදල් වංචා සිදුකර ඇත.
 
-පොලීසිය සඳහන් කළේ සැකකාරියට එරෙහිව තිබූ පැමිණිලි 26 ක අදාළව බදුල්ල, විශේෂ අපරාධ විමර්ශන අංශය මගින් විමර්ශන සිදුකර සැකකාරිය අත්අඩංගුවට ගෙන අධිකරණයේ නඩු පවරා තිබූ බවය.
 
-ඒ අනුව මෙම සැකකාරිය කූඨ ලේඛන සකස් කිරීම සම්බන්ධයෙන් අධිකරණය මගින් වැරදිකරු කරන ලද අතර වැරදිකාරිය අධිකරණය මගහරිමින් සිටි ඇත.
+"26 arrested for issuing 26 warrants. Two women, ages 52 & 30, accused of fraud related to health ministry documents in 2013. Arrested by Badulla police division. Further investigation ongoing."
 
-මෙම සැකකාරියට අධිකරණයෙන් වරෙන්තු 26ක් ද නිකුත් කර තිබූ බව සඳහන් වේ.
+🟩
 
-බදුල්ල, විශේෂ අපරාධ විමර්ශන අංශය මගින් ඊයේ (28) ආරච්චිකට්ටුව, නල්ලදරම්කට්ටුව ප්‍රදේශයේ දී මෙම සැකකරියව අත්අඩංගුවට ගෙන ඇති අතර පසුව සැකකරියට ඇප තැබූ තැනැත්තිය ද හලාවත නගරයේ දී අත්අඩංගුවට ගෙන තිබේ.
+Two women have been arrested by the courts with a courts of the courts regarding the cash files and fraud.
 
-අත්අඩංගුවට ගත් කාන්තාවන් අවුරුදු 52 හා 30 යන වයස්වල පසුවන ගොනාගොල්ල, අම්පාර ප්‍රදේශයේ පදිංචිකාරියන්ය.
+The suspect has been provided with the cash fraud and committed the money fraud by providing letters of the secretary of the Secretary to the Ministry of Health of the Health Ministry in 2013.
 
-...
+Police said that the suspect had been arrested by the Badulla and Special Criminal Investigation Division of 26 complaints against the suspect and the suspect had been arrested and sued the court.
+
+Accordingly, the suspect was guilty of the preparation of bonus and the culmination was avoiding the court.
+
+It is said that the suspect had issued 26 warrants from the courts.
+
+The suspect was arrested by the Badulla and Special Criminal Investigation Division yesterday (28).
+
+The arrested women are residents of the Ampara, Ampara, Gangagugalla, aged 52 and 30 years.
+
+Badulla and Special Criminal Investigation Division conducts further investigations.
+
+◼️
 
 [Data](articles/e2bce33c.json)
 
+[Extended Data](ext_articles/e2bce33c.ext.json)
+
 ---
 
-### සජිත්ගේ අලුත්ම සැලසුම
+### Fairly heavy showers, strong winds expected in parts of the island
+
+*2024-08-29 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101580/-fairly-heavy-showers-strong-winds-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Fairly heavy showers about 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle, Matara, Nuwara-Eliya and Puttalam districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Hambantota and Trincomalee districts.
+
+Cloudy skies can be expected in Northern, North-central, Eastern and Central provinces.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+...
+
+[Data](articles/236f6f74.json)
+
+---
+
+### Sajith's latest plan
 
 *2024-08-29 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200448) · `si`
 
-රාජ්‍ය ආයතන විකිණීම සිය රජයක් යටතේ සම්පූර්ණයෙන් නතර කරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Here's a 200-character summary:
 
-ඔහු පෙන්වා දෙන්නේ රාජ්‍ය ආයතන කාර්යක්ෂම කර ලාභ ලබන ආයතන බවට පත්කිරීමට කටයුතු කරන බවය.
 
-වැල්ලවාය ප්‍රදේශයේ පැවති ජන රැලියකට එක්වෙමින් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මෙම අදහස් පළ කළේය.
 
-"මේ බලප්‍රදේශය ගත්තොත් වනඅලි - මිනිස් ගැටුම තියෙනවා. මෙයට පළමුවෙන්ම කළ යුතු දේ වන්නේ, ජාතික ඉඩම් පරිහරණ සැලැස්මක් ක්‍රියාත්මක කිරීම. කවුරුත් ඒක කරලා නෑ. අපි ඒ දේ කරලා වනඅලි - මිනිස් ගැටුම අවම කරන්නටත් ඒ වගේම සතා සිව්පාවන් සහ මිනිසුන් අතර තියෙන ගැටුම අවම කරන්නට අපි කටයුතු කරනවා. අපේ රට සම්පත් විකුණන වෙන්දේසියේ පාරාදීසයක් කරලා. පැල්වත්ත, සෙවනගල සීනි කර්මාන්ත ශාලා නව ක්‍රමවේද තුළින් ඇතිමලේ ඇතුළුව ගොවි පවුල්වල සේවය කරන අය 30,000කට අධික ප්‍රමාණයක් ඉන්නවා. අපි මේ ආයතන කුණු කොල්ලයට විකුණන සංස්කෘතියට නැවතීමේ ලකුණ තියලා මේ ජාතික සම්පත ඔබගේ සුබසිද්ධිය උදෙසා ක්‍රියාත්මක කිරීමට කටයුතු කරනවා."
+Sajith Premadasa opposes state institution privatization, promising to turn them into profitable entities. He advocates for a National Land Use Plan to reduce human conflicts and protect natural resources.
+
+🟩
+
+Says the presidential candidate Sajith Premadasa, the presidential candidate, Sajith Premadasa, the presidential sector of the people's power to stop the sale of state institutions under its government.
+
+He points out that action will be taken to make state institutions into profitable institutions.
+
+Opposition Leader Sajith Premadasa made these comments participating at a rally held in the Wellawaya area.
+
+"If you take this territory, the human conflict has the human conflict. This is what to do is to implement a National Land Use Plan. Nobody has done that. We have done that, we will be able to minimize the human conflict and minimize the conflict between the masses and humans. Our country has made a paradise at auction selling resources. There are over 30,000 people who serve in the farmer families, including new techniques in Pelwatta, Sevanagala Sugar Factory. We plan to implement this national resource for the culture that we sell these institutions to the robbery. "
 
 ◼️
 
 [Data](articles/00e30a76.json)
 
+[Extended Data](ext_articles/00e30a76.ext.json)
+
 ---
 
-### එංගලන්ත - ශ්‍රී ලංකා දෙවන ටෙස්ට් තරගය අද ඇරඹෙයි
+### England - Sri Lanka begins today
 
 *2024-08-29 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200447) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම අතර පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගය අද (29) ආරම්භ වීමට නියමිතව තිබේ.
+Second Test match between England and Sri Lanka starts today at 3:30 PM in Lods. England leads 1-0 after winning the first test by 5 wickets.
 
-ලෝඩ්ස්හිදී ශ්‍රී ලංකා වේලාවෙන් පස්වරු 3.30ට තරගය ආරම්භ වීමට නියමිතව ඇත.
+🟩
 
-අද තරගය සදහා ශ්‍රී ලංකා කණ්ඩායමට කුසල් මෙන්ඩිස් වෙනුවට පැතුම් නිස්සංක කැඳවා ඇති තිබේ.
+The second Test match between the Sri Lankan team and the England team will commence today (29).
 
-තරග 3කින් සමන්විත මෙම ටෙස්ට් තරගාවලියේ පළමු තරගය එංගලන්ත කණ්ඩායම කඩුලු 5කින් ජය ලබා ගැනීමට සමත් විය.
+The match will be started at 3.30 pm in Lods.
+
+The Sri Lankan team has been summoned to the Sri Lankan team for the match.
+
+The first 3-match Test series won the England win by 5 wickets.
 
 ◼️
 
 [Data](articles/6d4c5651.json)
 
+[Extended Data](ext_articles/6d4c5651.ext.json)
+
 ---
 
-### වේදිකාවෙන් පිට ඉන්න අය ගැන රනිල් කියයි
+### Ranil says for those who leave the stage
 
 *2024-08-29 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200446) · `si`
 
-රට අර්බුදයට පත්ව තිබු අවස්ථාවේ ජනතාව ගැන නොසිතා කටයුතු කළ මහජන නියෝජිතයින් පිළිබඳව ජනතාවට යළි විශ්වාසයක් තැබිය නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Here's a summary of the text in 200 characters:
 
-ජනාධිපතිවරයා පෙන්වා දෙන්නේ රට වැටී තිබු ආර්ථික අර්බුදයෙන් ගොඩගැනීම සඳහා සහයෝගය ඉල්ලා සිටිය ද ඇතැම් නායකයින් එම කටයුතු මඟ හැරී බවය.
 
-ජනාධිපතිවරණය ඉලක්ක කරගනිමින් නුගේගොඩ නගරයේ පැවති ජනරැලියට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේය.
+
+President Ranil Wickremesinghe criticizes politicians who don't address national crises. He questions their qualifications to become president, suggesting self-interest over public service.
+
+🟩
+
+President Ranil Wickremesinghe says that the masses cannot be confident about the people's representatives who have not worried about the people when the country is crisis.
+
+The President pointed out that some leaders have missed the work, despite the support of the country's economic crisis.
+
+President Ranil Wickremesinghe expressed his views to join the presidential election targeting the presidential election.
 
 ...
 
 [Data](articles/2d6896a9.json)
 
+[Extended Data](ext_articles/2d6896a9.ext.json)
+
 ---
 
-### கிளப் வசந்த கொலை: மேலும் இருவர் கைது
+### Club Vasantha Murder: Two more arrested
 
 *2024-08-29 07:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-மேலும்-இருவர்-கைது/175-342956) · `ta`
 
-அத்துருகிரியவில் கிளப் வசந்த உள்ளிட்ட இருவர் சுட்டுக்கொல்லப்பட்ட சம்பவம் தொடர்பாக மேலும் இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of the article in 200 characters:
 
-பாணந்துறை பின்வத்த பிரதேசத்தில் வைத்து பாணந்துறை குற்றப் புலனாய்வுப் பிரிவினரால் அவர்கள் கைது செய்யப்பட்டனர்.
 
-கைதானவர்களில் ஒருவர் 32 வயதான, காலி நாகொட பகுதியைச் சேர்ந்தவர். அவர் துப்பாகிச் சூட்டை நடத்தியவர் எனவும்  மற்றவர் 29 வயதான அஹுங்கல பகுதியைச் சேர்ந்தவர் எனவும் அவர், குறித்த தாக்குதலை மேற்கொள்வதற்காக வாகன சாரதியாக செயற்பட்டவர் என்றும் தெரிவிக்கப்படுகின்றது. (a)
+
+"Two more suspects arrested in Club Vasantha murder case. They are from Galle Nagoda. Arrested by Panadura CID after Panadura incident."
+
+🟩
+
+Two more suspects have been arrested in connection with the killing of two persons including the club Vasantha in Athurugiriya.
+
+They were arrested by the Panadura Criminal Investigation Division in the aftermath of the Panadura.
+
+One of the detainees belongs to the 32 -year -old, Galle Nagoda. It is reported that he was the driver of the driver and the other was the driver of the driver to carry out the attack.. (A)
 
 ◼️
 
 [Data](articles/9a6b8c1b.json)
+
+[Extended Data](ext_articles/9a6b8c1b.ext.json)
 
 ---
 
@@ -138,23 +208,33 @@ Geethmal Benoy Dilshan, an accomplice of underworld figure “Matugama Shan”, 
 
 ---
 
-### மீனவர்களுக்கு அறிவுறுத்தல்
+### Instruction to the fishermen
 
 *2024-08-29 07:47:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களுக்கு-அறிவுறுத்தல்/175-342955) · `ta`
 
-வடக்கு வங்காள விரிகுடா கடற்பிராந்தியத்திற்கு செல்வதை எதிர்வரும் 2 நாட்களுக்கு தவிர்க்குமாறு மீனவர்கள் மற்றும் கடல்சார் ஊழியர்களுக்கு அறிவுறுத்தப்பட்டுள்ளது.
+Here's a summary of the instruction in 200 characters:
 
-பலத்த மழை, கடும் காற்று மற்றும் கடல் சீற்றம் தொடர்பில் எச்சரிக்கை அறிக்கையை வெளியிட்டு வளிமண்டலவியல் திணைக்களம் இதனை தெரிவித்துள்ளது.
 
-அதற்கமைய இன்று வங்காள விரிகுடாவை அண்மித்த வளிமண்டலத்தில் காற்றழுத்த தாழ்வுநிலை அதிகரிக்கும் சாத்தியம் காணப்படுவதாக குறிப்பிடப்பட்டுள்ளது.
 
-இதன் காரணமாக குறித்த கடற்பிராந்தியத்தில் பலத்த மழை பெய்வதுடன், மணித்தியாலத்திற்கு 70 முதல் 80 கிலோமீட்டர் வரையான கடும் காற்று வீசக்கூடுமெனவும் தெரிவிக்கப்பட்டுள்ளது.
+"Fishermen avoid North Bengal Bay Sea next two days due to heavy rains, strong winds, and rough seas. Department of Meteorology warns of increased atmospheric pressure causing 70-80 km/h winds."
 
-இதனால் இன்றும் நாளையும் வடக்கு வங்காள விரிகுடாவின் ஆழ்கடல் பகுதிக்கு செல்வதைத் தவிர்க்குமாறு திணைக்களம் அறிவுறுத்தியுள்ளது. (a)
+🟩
+
+Fishermen and maritime workers have been advised to avoid going to the North Bengal Bay Sea area for the next two days.
+
+The Department of Meteorology has issued a warning report on heavy rains, heavy winds and sea rage.
+
+Accordingly, the premises of the Bay of Bengal today are likely to increase in the atmosphere.
+
+Due to this, heavy rains in the seas have caused heavy winds to blow 70 to 80 kilometers per hour.
+
+The Department has advised to avoid going to the deep sea of ​​North Bengal today and tomorrow. (A)
 
 ◼️
 
 [Data](articles/3f58a989.json)
+
+[Extended Data](ext_articles/3f58a989.ext.json)
 
 ---
 
@@ -736,6 +816,8 @@ The IoA’s recognition by Forbes Advisor is a testament to its unwavering dedic
 
 [Data](articles/8e1e0265.json)
 
+[Extended Data](ext_articles/8e1e0265.ext.json)
+
 ---
 
 ### How the University of Peradeniya has weathered the politico-economic storms of the decades
@@ -747,6 +829,8 @@ Extracts from the speech delivered by one of Sri Lanka’s most eminent historia
 ...
 
 [Data](articles/b4b9a135.json)
+
+[Extended Data](ext_articles/b4b9a135.ext.json)
 
 ---
 
@@ -2357,37 +2441,5 @@ Additional Solicitor General Nirin Point, who appeared on behalf of the Attorney
 [Data](articles/cc05a5c8.json)
 
 [Extended Data](ext_articles/cc05a5c8.ext.json)
-
----
-
-### Murder attempt;Arrested in the airport son of a famous drug trader
-
-*2024-08-28 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/192195) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Nadeen Basik, son of drug trader Shiran Basik, arrested at airport returning from Dubai. Seized 19g heroin, phones, laptops, cash, IDs during raid. Fled after attack but caught mid-flight.
-
-🟩
-
-Nadeen Basik, son of famous drug trader Shiran Basik, has been arrested at the airport.
-
-He was arrested at the airport as he returned from Dubai.
-
-During the roundup of Wellawatte on February 16, an officer of the Special Task Force attacked and fled the country.
-
-During the roundabout, 19 grams of heroin, hand phones, laptops, foreign currency, driver's license, Dubai identity card and driver's license were seized.
-
-In addition, documents describing money transactions with the suspect have been found from the apartment.
-
-Nadeen Pasik, who fled abroad, was arrested at the airport on Wednesday (28).
-
-◼️
-
-[Data](articles/b7ab23a3.json)
-
-[Extended Data](ext_articles/b7ab23a3.ext.json)
 
 ---

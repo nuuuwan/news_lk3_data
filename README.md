@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 11:21:57**
+As of **2024-08-29 11:37:17**
 
 ## Newspaper Stats
 
-*Scraped **43,174** Articles*
+*Scraped **43,176** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 361
 newsfirstlk | 363
-bbccomsinhala | 400
+bbccomsinhala | 401
 colombotelegraphcom | 415
 islandlk | 2,516
 economynextcom | 2,607
 dailyftlk | 2,809
 adalk | 3,994
 dailymirrorlk | 4,733
-adaderanalk | 5,079
+adaderanalk | 5,080
 tamilmirrorlk | 5,630
 virakesarilk | 6,859
 adaderanasinhalalk | 7,408
@@ -26,31 +26,87 @@ adaderanasinhalalk | 7,408
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,173 (100.0%) of 43,174 articles have been extended.
+43,174 (100.0%) of 43,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
 
-### ජනපතිගේ පස් අවුරුදු සැලැස්මෙන් රාජ්‍ය සේවකයින්ට සහන රැසක්
+### India hands over first payment for implementing hybrid power projects in islands off Jaffna
+
+*2024-08-29 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101586/india-hands-over-first-payment-for-implementing-hybrid-power-projects-in-islands-off-jaffna) · `en`
+
+The first payment towards implementation of Hybrid Power Projects in Three Islands off Jaffna has been handed over by the High Commission of India to Sri Lanka Santosh Jha to the Secretary of Minister of Power and Energy, Dr. Sulakshana Jayawardena and Chairman of Sri Lanka Sustainable Energy Authority (SLSEA) Mr. Ranjith Sepala.
+
+The handing over of the funding was carried out at a ceremony held at the Indian High Commission in Colombo on 28 August 2024.
+
+Issuing a statement in this regard, the Indian High Commission in Colombo said a Memorandum of Understanding for the implementation of the hybrid renewable energy projects in Delft, Nainativu and Analaitivu islands was signed between the Government of the Republic of India and the Government of Sri Lanka in March 2022.
+
+Subsequently, contract for the project implementation was signed by SLSEA with M/s. U Solar Clean Energy Solutions Pvt. Ltd on 01 March 2024, the statement added.
+
+...
+
+[Data](articles/7bef24ce.json)
+
+---
+
+### A large number of relief to public servants at the five-year plan
 
 *2024-08-29 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200457) · `si`
 
-ස්වාධීන අපේක්ෂකයෙකු ලෙස මෙවර ජනාධිපතිවරණයට ඉදිරිපත්ව සිටින ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රතිපත්ති ප්‍රකාශය මේ වනවිට එළිදක්වා තිබේ.
+Here's a summary of 200 characters:
 
-ස්වාධීන අපේක්ෂකයෙකු ලෙස මෙවර ජනාධිපතිවරණයට ඉදිරිපත්ව සිටින ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රතිපත්ති ප්‍රකාශය මේ වනවිට එළිදක්වා තිබේ.
 
-කොළඹ ටාජ් සමුද්‍රා හෝටලයේ දී මහා සංඝයා ඉදිරියේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් "පස් වසරක මෙහෙයුම පුළුවන් ශ්‍රී ලංකා" ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීය.
 
-එම ප්‍රතිපත්ති ප්‍රකාශය https://www.ranil2024.lk යන වෙබ් අඩවිය හරහා ජනාධිපතිවරයා එළිදක්වනු ලැබීය.
+President Ranil Wickremesinghe launched policy for public servants:
 
-පස් අවුරුදු සැලැස්මේ විශේෂයෙන් අවධානයට යොමුකර ඇති කරුණු කිහිපයකි. එනම්,
+- Salary increase
 
-2025 පාදක වසර ලෙස සලකා සියලුම රාජ්‍ය සේවකයින්ට ජීවන වියදම් දීමනාව මාසිකව රු 25,000ක් ගෙවීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ප්‍රතිපත්ති ප්‍රකාශයේ සඳහන් කර තිබේ.
+- Study leave for under 40s
+
+- Laptops/tabs/smartphones
+
+- Priority housing
+
+- Disaster loan increase
+
+- Home office option
+
+- Senior citizen facilities
+
+- Disability rights act
+
+- Signal language policy
+
+🟩
+
+President Ranil Wickremesinghe's policy has been launched as an independent candidate.
+
+President Ranil Wickremesinghe's policy has been launched as an independent candidate.
+
+President Ranil Wickremesinghe launched the "Sri Lanka 'policy statement before the Maha Sangha at the Taj Samudra Hotel in Colombo.
+
+The President was released via http://www.ranil2024.lk.
+
+There are several things that are particularly focused on the five-year plan. That is,
+
+President Ranil Wickremesinghe has stated in his policy statement to pay Rs.
+
+It has further stated that the Gross-salary is Rs.
+
+* Granting weight leave to study the courses that contribute to the public servants under 40 years of age.
+
+* Providing laptops, tabs, smartphones public servants on relief basis to lift the public service efficient and formal.
+
+* Priority to public servants without homeless public servants at the government's new housing schedule.
+
+Steps will be taken to increase the disaster loan and restore property and housing loans.
 
 ...
 
 [Data](articles/05f02dfd.json)
+
+[Extended Data](ext_articles/05f02dfd.ext.json)
 
 ---
 
@@ -909,6 +965,28 @@ The announcement states that the sun is directly from the end of August 28 to Se
 [Data](articles/5a270159.json)
 
 [Extended Data](ext_articles/5a270159.ext.json)
+
+---
+
+### වයස අවුරුදු 97දී ශාස්ත්‍රපති උපාධියක් හිමි කර ගත් ලීලාවතී බීබීසීයට කතා කරයි
+
+*2024-08-29 03:48:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0lk98gnzyo) · `si`
+
+වයස අවුරුදු 97දී ශාස්ත්‍රපති උපාධියක් හිමි කර ගත් ලීලාවතී බීබීසීයට කතා කරයි
+
+"මගේ ජීවිත කාලය පුරා ම ඉගෙන ගන්න ලොකු ආසාවක් තිබුණා. ඉගෙන ගන්න එකට වයස අදාළ වෙන්නෙ නෑ. ඒ නිසා මම දිගට ම ඉගෙන ගත්තා," 97 වන වියේදී පශ්චාත් උපාධියක් හිමි කර ගැනීමට සමත් වූ ලීලාවතී ඇසිලින් ධර්මරත්න බීබීසී සිංහල සේවයට අදහස් දක්වමින් පැවසුවා ය.
+
+ඇයට පසුගිය දා පැවති කැලණිය විශ්වවිද්‍යාලයේ 143 වන උපාධි ප්‍රදානෝත්සවයේදී බෞද්ධ දර්ශනය පිළිබඳ ශාස්ත්‍රපති උපාධියක් පිරිනැමිණි.
+
+1927 වසරේ නොවැම්බර් මස 30 වැනි දින වාරණ, මිල්ලෑව නම් ගම්මානයෙහි උපන්  ලීලාවතී ඇසිලින් ධර්මරත්න, මිල්ලෑව බාලිකා විද්‍යාලයෙන් මූලික අධ්‍යාපනය ලැබී ය.
+
+ඇය 1946 වසරේදී ඇය අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයට පෙනී සිටියා ය.
+
+ජාත්‍යන්තරව පිළිගත් උසස් අධ්‍යාපන හෝ වෘත්තීය පුහුණු ආයතනයක් තෝරා ගන්නේ කොහොම ද?සාමාන්‍ය පෙළ විභාගයේ විශිෂ්ට දස්කම් පෑ ගාල්ලේ තුන් නිවුන් සොහොයුරෝ
+
+...
+
+[Data](articles/97d61a97.json)
 
 ---
 
@@ -2411,49 +2489,5 @@ Foreign buying was seen in Melstacorp, Commercial Bank, Richard Pieris and Compa
 [Data](articles/9f68c30a.json)
 
 [Extended Data](ext_articles/9f68c30a.ext.json)
-
----
-
-### Enjoining order against Rauff Hakeem
-
-*2024-08-28 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200430) · `si`
-
-Colombo District Court issues enjoining order against Rauff Hakeem, SLMC General Secretary over party membership dispute.
-
-🟩
-
-SLMC Parliamentarian MP. The Colombo District Court today issued an enjoining order to prevent the commission of the party membership of the party members of Ali Samala.
-
-The injunction was issued by the Colombo District Judge Sandun Withana after hearing a complaint made by Ali Santi Moulana.
-
-The injunction has been issued against Sri Lanka Muslim Congress leader Rauff Hakeem and General Secretary Madam Kirapper.
-
-The complainant claims to what candidate in the next presidential election?The Sri Lanka Muslim Congress's Supreme Council's Supreme Council met on August 4 to decide.
-
-The complaint says the party has not participated in the Supreme Council meeting and that the party had decided to support the presidential candidate Sajith Premadasa, saying that he had not informed the decision.
-
-Despite this, he has stated that the Sri Lanka Muslim Congress is working to deprive its party membership without any reasonable proceedings without any reasonable reason.
-
-◼️
-
-[Data](articles/d44dc703.json)
-
-[Extended Data](ext_articles/d44dc703.ext.json)
-
----
-
-### Govt and IMF reach agreement to amend PAYE tax - President
-
-*2024-08-28 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101573/govt-and-imf-reach-agreement-to-amend-paye-tax-president-) · `en`
-
-The Sri Lankan Government and the International Monetary Fund (IMF) have reached an agreement to amend the pay-as-you-earn (PAYE) tax, says President Ranil Wickremesinghe.
-
-Speaking at a presidential election rally in Eheliyagoda, he stated that proposals from both parties are to be considered and that the exact amounts will be notified soon.
-
-◼️
-
-[Data](articles/97cde714.json)
-
-[Extended Data](ext_articles/97cde714.ext.json)
 
 ---

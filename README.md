@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-29 10:36:58**
+As of **2024-08-29 10:55:47**
 
 ## Newspaper Stats
 
-*Scraped **43,169** Articles*
+*Scraped **43,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,607
 dailyftlk | 2,809
 adalk | 3,993
 dailymirrorlk | 4,733
-adaderanalk | 5,077
+adaderanalk | 5,079
 tamilmirrorlk | 5,630
 virakesarilk | 6,859
 adaderanasinhalalk | 7,406
@@ -26,11 +26,47 @@ adaderanasinhalalk | 7,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,169 (100.0%) of 43,169 articles have been extended.
+43,169 (100.0%) of 43,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-29 (Thursday)
+
+### President Ranil’s election manifesto unveiled
+
+*2024-08-29 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101585/president-ranils-election-manifesto-unveiled) · `en`
+
+President Ranil Wickremesinghe’s manifesto for the 2024 Presidential Election was officially launched in Colombo, a short while ago.
+
+The ceremonial event of unveiling the manifesto titled ‘Five Years of Winning the Country with Ranil’ commenced at the Taj Samudra Hotel in Colombo this morning (29), with the arrival of President Ranil Wickremesinghe at the venue.
+
+This document outlines five principal components: “Theravada Trade Economy,” “Operation - Beyond 2025,” “Make a Radiant Society,” “Win the Motherland,” and “Unite Sri Lanka.”
+
+The ceremony is also attended by Prime Minister Dinesh Gunawardena, Ministers Ali Sabry, Bandula Gunawardena, Nimal Siripala de Silva, and other ministers, parliamentarians and political leaders supporting the President as well as religious leaders.
+
+...
+
+[Data](articles/08ad2216.json)
+
+---
+
+### Ceremonial launch of President Ranil’s election manifesto begins
+
+*2024-08-29 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101584/ceremonial-launch-of-president-ranils-election-manifesto-begins-) · `en`
+
+The ceremony to unveil the election manifesto of President Ranil Wickremesinghe, who is contesting the 2024 Presidential Election as an independent candidate, commenced a short while ago at the Taj Samudra Hotel, Colombo.
+
+The ceremony to launch the manifesto, titled “Five Years of Winning the Country with Ranil “, commenced with the arrival of President Ranil Wickremesinghe at the venue.
+
+The ceremony is also attended by Prime Minister Dinesh Gunawardena, Ministers Ali Sabry, Bandula Gunawardena, Nimal Siripala de Silva, and other ministers, parliamentarians and political leaders supporting the President as well as religious leaders.
+
+In a post on his official social media accounts this morning, the President said: “Today, I lay out my manifesto to rebuild our country. I promise only what I can deliver, and I will do my best for our nation in the next five years. I will rebuild this country, and the next five years will be a triumphant time for Sri Lanka.”
+
+◼️
+
+[Data](articles/4eb835f6.json)
+
+---
 
 ### Launching of Ranil's policy statement
 
@@ -2411,49 +2447,5 @@ In their election manifesto they mention some issues regarding education. It has
 [Data](articles/6e603f00.json)
 
 [Extended Data](ext_articles/6e603f00.ext.json)
-
----
-
-### Sri Lankan Tamil asylum seeker dies by self-immolation in Melbourne
-
-*2024-08-28 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101571/sri-lankan-tamil-asylum-seeker-dies-by-self-immolation-in-melbourne) · `en`
-
-Refugee advocates have gathered to protest the death of a 23-year-old Tamil asylum seeker who died after setting himself on fire in Melbourne’s south-east.
-
-Friends of Mano Yogalingam told the ABC he had arrived in Australia from Sri Lanka in 2013 and had been on a bridging visa for roughly 11 years.
-
-A Victoria Police spokesperson said emergency services were called to a skate park in Noble Park on Tuesday night.
-
-A man with life-threatening injuries was taken to hospital, where he died on Wednesday, they said.
-
-The Tamil Refugee Council said it believed the time Mr Yogalingham had spent on a bridging visa had been a contributing factor to his death.
-
-A council spokesperson told the ABC Mr Yogalingham’s claim for refugee status was previously rejected under the controversial “fast-track” system introduced in 2014, an outcome he had been seeking to appeal.
-
-...
-
-[Data](articles/894e587a.json)
-
-[Extended Data](ext_articles/894e587a.ext.json)
-
----
-
-### South Korea explores investment opportunities in Sri Lanka; identifies RE, graphite
-
-*2024-08-28 17:00:00* · [`economynextcom`](https://economynext.com/south-korea-explores-investment-opportunities-in-sri-lanka-identifies-re-graphite-178231/) · `en`
-
-ECONOMYNEXT – South Korea has expressed interest in investment opportunities in Sri Lanka’s renewable energy (RE) sector and graphite, which has a strong demand in the East Asian nation.
-
-Kyungjin Song, Country Representative of the Asia Foundation Korea Office at a recent discussion titled “Economic Security in the Indian Ocean Region; Prospects for Collaboration between Sri Lanka and Republic of Korea” in Colombo last week suggested opportunities in renewable energy investments.
-
-She also noted that Sri Lanka’s graphite, an essential raw material for South Korea’s semiconductor, battery, and automobile industries, could be a valuable resource for future cooperation.
-
-The discussion, facilitated by Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI), was aimed at examining the lessons Sri Lanka could learn from Korea’s experience in science and technological innovation.
-
-...
-
-[Data](articles/cf36484d.json)
-
-[Extended Data](ext_articles/cf36484d.ext.json)
 
 ---

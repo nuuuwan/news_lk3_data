@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 04:57:16**
+As of **2024-09-13 05:07:59**
 
 ## Newspaper Stats
 
-*Scraped **43,620** Articles*
+*Scraped **43,623** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 423
-colombotelegraphcom | 427
+colombotelegraphcom | 428
 islandlk | 2,542
 economynextcom | 2,659
-dailyftlk | 2,904
+dailyftlk | 2,906
 adalk | 4,040
 dailymirrorlk | 4,733
 adaderanalk | 5,117
@@ -26,11 +26,53 @@ adaderanasinhalalk | 7,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,517 (99.8%) of 43,620 articles have been extended.
+43,522 (99.8%) of 43,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Printing money to finance Government budget deficit
+
+*2024-09-13 04:52:40* · [`dailyftlk`](https://www.ft.lk/columns/Printing-money-to-finance-Government-budget-deficit/4-766700) · `en`
+
+Excessive money printing is harmful to the economy as it could fuel inflation caused by too much money chasing too few goods, and destabilise the economy
+
+An evaluation one year into implementation of Central Bank of Sri Lanka Act
+
+Printing money to finance Government budget deficit (also called monetary financing) has been a major concern in recent years in Sri Lanka
+
+It is widely agreed in the field of economics that excessive money printing fuels inflation
+
+The Central Bank of Sri Lanka Act, implemented a year ago (on 15 September 2023), prohibits monetary financing
+
+The Act provides the Central Bank the authority to effectively maintain price stability
+
+The fiscal consolidation program, initiated under the IMF-EFF arrangement in 2023, has supported to improve Government financing, and carry out Government functions without monetary financing
+
+...
+
+[Data](articles/b7f3a3a7.json)
+
+---
+
+### Concerted efforts needed to unlock full potential of Maldives-Sri Lanka partnership
+
+*2024-09-13 04:21:58* · [`dailyftlk`](https://www.ft.lk/business/Concerted-efforts-needed-to-unlock-full-potential-of-Maldives-Sri-Lanka-partnership/34-766686) · `en`
+
+Seated from left: Sri Lanka-Maldives Business Council Immediate past President Kevin Edwards, Vice President Sanjeeva Perera, High Commissioner of the Republic of Maldives Masood Imad, Sri Lanka-Maldives Business Council President Sudesh Mendis, The Ceylon Chamber of Commerce Secretariat Amanthi Silva
+
+There is a growing market in the Maldives for Lankan products, particularly in the tourism, agriculture, food processing, textiles, and construction materials industries, but local exporters faced various constraints in tapping into this, a trade body has said.
+
+The two Indian Ocean island nations are heavily reliant on tourism and foreign exchange earnings.
+
+“We all recognise that Sri Lanka needs foreign exchange, but the current situation feels like squeezing a patient’s neck and asking them to breathe,” Sri Lanka-Maldives Business Council President Sudesh Mendis said.
+
+...
+
+[Data](articles/b470f1ab.json)
+
+---
 
 ### Exterminators 352% increase in profit before tax
 
@@ -219,6 +261,22 @@ Namal added that an interim cabinet will be formed with the cooperation of his p
 [Data](articles/c4f4e93a.json)
 
 [Extended Data](ext_articles/c4f4e93a.ext.json)
+
+---
+
+### “Far Horizons”
+
+*2024-09-12 22:55:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/far-horizons/) · `en`
+
+“There was one daily newspaper in the Ivory Coast, at least, only one came my way. It was called Fraternite’ Matin. Every day on its front page, in the top left -hand corner, it carried a ‘thought” of the President’s. The thoughts were mainly about development and the economy; and so were big front- page stories” – The Crocodiles of Yamoussoukro – VS Naipaul
+
+Of all the extra-parliamentary convulsions that have happened all too regularly in this country since independence, the mass protest movement which occurred two years ago, commonly referred to as the ‘aragalaya’ (struggle?), is certainly unique.
+
+The ‘aragalaya’ was primarily against a popularly elected President, who was relatively new in office then. That fact alone is not exceptional in this troubled country, in our recent history there have been several large scale uprisings against elected governments, even new governments, the 1971 April insurrection being one example.
+
+...
+
+[Data](articles/7fc1b909.json)
 
 ---
 
@@ -2355,83 +2413,5 @@ The petition was then placed on April 2 to consider.
 [Data](articles/f853493f.json)
 
 [Extended Data](ext_articles/f853493f.ext.json)
-
----
-
-### Another Chinese nationals arrested online
-
-*2024-09-12 12:14:16* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාලය-හරහා-මුදල්-වංචා-කළ-තවත්-චීන-ජාතිකයන්-පිරිසක්-අල්ලයි/11-411912) · `si`
-
-Chinese nationals arrested online for internet fraud. Police seized laptops and phones from suspects aged 30-44 and 24-29. Investigation ongoing.
-
-🟩
-
-The 13 Chinese nationals were arrested in connection with the internet cheating on the Internet.
-
-Meanwhile, police say two women are also. A large number of laptops and mobile phones have been taken into custody with the suspects and suspects.
-
-The Criminal Investigation Department Financial Investigation Number of OIC Upul Goththai Road, the Chinese suspects and suspects have been arrested in Borella Gothami Road.
-
-The suspects are 30/44 years old and the two suspects will be between 24/29, police said. A group of CID officers investigates
-
-◼️
-
-[Data](articles/1ba67ff0.json)
-
-[Extended Data](ext_articles/1ba67ff0.ext.json)
-
----
-
-### Poor abuse at Malaysia's Child Care Centers - 402 boys rescue
-
-*2024-09-12 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193478) · `ta`
-
-Malaysia: Police rescue 402 children from abuse at 20 childcare centers. Ages 1-17, victims of sexual abuse. Suspects aged 17-64. Children punished with hot objects, denied medical care. Temporarily housed in Kuala Lumpur police center.
-
-🟩
-
-Police have recovered 402 children and teenage girls, who are allegedly sexually abused at 20 children's care centers in Malaysia.
-
-We have rescued the ages of one to 17, and they are facing a variety of abuse, a police officer said.
-
-It is noteworthy that the children's care centers are associated with the popular Islamic organization, although the organization has nothing to do with itself.
-
-Following reports of child abuse at Child care centers in the state of Neverrisembilan, police have carried out raids at more than 20 children's care centers in Chengur Neveri Sembila.
-
-The 17 to 64 -year -old suspects have been subjected to various types of abuse, a police officer said.
-
-He said the children were "punished using hot metal products" and that the sick people were not allowed to seek medical treatment until their condition worse.
-
-The children will be temporarily housed at a police center in Kuala Lumpur, the capital.
-
-◼️
-
-[Data](articles/7e1a519d.json)
-
-[Extended Data](ext_articles/7e1a519d.ext.json)
-
----
-
-### Anura Kumara commits to expanding the country’s economy
-
-*2024-09-12 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101913/anura-kumara-commits-to-expanding-the-countrys-economy) · `en`
-
-The Presidential Candidate of the National People’s Power (NPP), Anura Kumara Dissanayake says that steps will be taken under his government to expand the country’s economy.
-
-Dissanayake made these comments while addressing a public rally held in the Mahaiyawa area of Kandy.
-
-He further added that the country’s economy is currently constrained and lacking in growth.
-
-He also stated that they are committed to expanding the economy and developing a society that works in all its assigned areas, including significant improvements in education.
-
-“That’s the country... do you not want a country like that? That is what we are leading,” he said, adding that it is not something an ‘immature’ individual like Sajith Premadasa can accomplish.
-
-Dissanayake also accused Premadasa of making promises about what he will give people wherever he goes.
-
-...
-
-[Data](articles/7b94b775.json)
-
-[Extended Data](ext_articles/7b94b775.ext.json)
 
 ---

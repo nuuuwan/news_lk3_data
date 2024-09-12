@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 20:37:55**
+As of **2024-09-12 20:57:30**
 
 ## Newspaper Stats
 
-*Scraped **43,594** Articles*
+*Scraped **43,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,115
 tamilmirrorlk | 5,675
 virakesarilk | 6,903
-adaderanasinhalalk | 7,442
+adaderanasinhalalk | 7,443
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,353 (99.4%) of 43,594 articles have been extended.
+43,359 (99.5%) of 43,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### Dilith gave to every social level
+
+*2024-09-12 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200955) · `si`
+
+Dilith Jayaweera claims unique strategic plan for all social levels in presidential election. Emphasizes practical solutions for farmers, fishermen, workers, and public servants. Promises productive economy and national progress despite regional challenges.
+
+🟩
+
+Dilith Jayaweera says he is the only candidate that has presented a strategic plan to represent the views of all social areas in the presidential election.
+
+Another public meeting at the 'Dilith Gamata' seat meetings was held under the patronage of the annuition entrepreneurs Dilith Jayaweera.
+
+"Green, yellowish green and purple.. What is different. The work is the same. We have been brought instead a strategic program. A practical program. The farmer, fisherman and the worker meet the public servant.. A strategic program representing every man in this country. "
+
+"The debt is to be paid. Thieves want to catch. Need to acquire poven of horarypu. But to raise our country, you have to go to a productive economy that goes over. There is that determination to the exangeration. "
+
+"What happens in our surrounding lands by this presidential election of Sri Lanka?. Bangladesh is now down. The region is being attacked today. Came to Sri Lanka. Can we be fragmented. Some are ready to complete it. "
+
+◼️
+
+[Data](articles/6a17035b.json)
+
+[Extended Data](ext_articles/6a17035b.ext.json)
+
+---
 
 ### Tax revenues in the first eight months grow by 28.5%
 
@@ -80,21 +106,27 @@ He acknowledged that the arrest has sparked concerns about the growing threat of
 
 ---
 
-### නව ක්‍රීඩා පනතක් ගේනවා
+### Brings a new sporting bill
 
 *2024-09-12 19:40:16* · [`adalk`](https://www.ada.lk/breaking_news/නව-ක්‍රීඩා-පනතක්-ගේනවා/11-411931) · `si`
 
-යල් පැනගිය ක්‍රීඩා පනත යාවත්කාලීන කර ක්‍රීඩාව ඉහළ වෘත්තීමය තත්ත්වයකට ගේන්න කටයුතු කරන බව සමගි ජන සන්ධානයේ ජනාධිපති ධුර අපේක්ෂක විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Sajith Premadasa proposes updating outdated sports bill to elevate Sri Lanka's sports professionalism. Focuses on grassroots development, infrastructure improvement, and social integration. Emphasizes removing political influence from sports associations to enhance competitiveness globally.
 
-අද (12දා) පැවති සමගි ක්‍රීඩා සමුළුව අමතමින් හෙතෙම මේ බව සඳහන් කළේය. එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+🟩
 
-“අපේ රටේ ක්‍රීඩාව ඉදිරියට යන්නට නම් මම තරයේ විශ්වාස කරනවා. ඒ ක්‍රීඩාව කේන්ද්‍රීයව තිබෙන අණපනත් යාවත්කාලීන කරන්නට නම් නූතනවාදී කරන්න ඕනි. යුගයට ඔබින ආකාරයේ අණපනත් නිර්මාණය කරන්න ඕනි. යල් පැනගිය, පැරණි, යථාර්ථවාදී නොවන සංකල්ප තුළ අපිට තවදුරටත් රැඳී සිටින්නට බෑ.
+Opposition Opposition Opposition Opposition Opposition Sajith Premadasa said that the outdated sports bill would be updated and bringing the game to high professional status.
 
-ඒ නිසා යල් පැනගිය ක්‍රීඩා පනත යාවත්කාලීන කරලා, පළාත් 09 පරිපාලන දිස්ත්‍රික්ක 25ම ක්‍රීඩා ක්ෂේත්‍රය ප්‍රගුණ කිරීමේ ක්‍රීඩා ජාතික ප්‍රතිපත්තිය බලයට පැමිණ කෙටි කාලයක් තුළ ක්‍රියාත්මක කරන්න අපි සැදී පැහැදී සිටිනවා. විශේෂයෙන්ම ග්‍රාමීය, නාගරික බල  ප්‍රදේශවල බිම් මට්ටමේ ක්‍රීඩා සංවර්ධනය ක්‍රියාත්මක කරන්න අපි බලාපොරොත්තු වෙනවා.
+Speaking at the Samagi Sports Summit held today (12), he said this. The Opposition Leader Sajith Premadasa said so.
+
+"I firmly believe in the game of our country. If the game is updated, you need to update. You have to create the kind of commandments for the era. We can't stay in the old, old, unreality concepts.
+
+Therefore, we are ready to power the National Policy of Sports of the Sports Sector in the National Policy of the National Policy of the provinces 9 administrative districts of the provinces.. We hope to implement ground level sports development, especially in rural and urban areas.
 
 ...
 
 [Data](articles/8be3ca44.json)
+
+[Extended Data](ext_articles/8be3ca44.ext.json)
 
 ---
 
@@ -2457,33 +2489,5 @@ Fujimori, the son of Japanese immigrants, was the little-known chancellor of a f
 [Data](articles/a9e7bd5a.json)
 
 [Extended Data](ext_articles/a9e7bd5a.ext.json)
-
----
-
-### Web to Oic that went without saying
-
-*2024-09-12 08:33:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொல்லாமல்-சென்ற-OIC-க்கு-வலைவீச்சு/175-343654) · `ta`
-
-Chief Inspector absent 3 days, police station operations affected. Intelligence search ongoing. Previously served at Welikada and Fort stations before transfer to Thambuttegama. Suspended briefly but reinstated. Current whereabouts unknown.
-
-🟩
-
-According to police sources, the Chief Inspector of Police at the Tambuttegama police station has not been serving for the past three days.
-
-A high -ranking police official said that it was difficult to continue duty and left the police station after writing a note in the police book.
-
-Police sources have revealed that police intelligence officials are also fielding to find out where he is.
-
-According to police sources, no information has been received until yesterday.
-
-He served as the Commander of the Welikada Police Station and was suspended and then re -taken office and took over as the Commander of the Fort Police Station.
-
-He was also transferred to the Thambuttegama headquarters police station several months ago, police sources said that they were.. Remble
-
-◼️
-
-[Data](articles/58b3bf78.json)
-
-[Extended Data](ext_articles/58b3bf78.ext.json)
 
 ---

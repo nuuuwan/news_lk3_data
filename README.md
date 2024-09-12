@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 00:23:14**
+As of **2024-09-13 00:37:38**
 
 ## Newspaper Stats
 
-*Scraped **43,612** Articles*
+*Scraped **43,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 4,040
 dailymirrorlk | 4,733
 adaderanalk | 5,117
 tamilmirrorlk | 5,677
-virakesarilk | 6,910
+virakesarilk | 6,912
 adaderanasinhalalk | 7,447
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,459 (99.6%) of 43,612 articles have been extended.
+43,465 (99.7%) of 43,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### The new liberal economic policy is due to the economic crisis -Tea. Weeraza
+
+*2024-09-12 23:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193542) · `ta`
+
+Sri Lanka Communist Party leader criticizes new liberal economic policy, linking it to economic crisis and international conflicts. Party supports presidential candidate Dilith Jayaweera's socialist economic plan as solution.
+
+🟩
+
+The general secretary of the Sri Lanka Communist Party, the General Secretary of the Communist Party of Sri Lanka, says that the conflict and the ongoing economic crises are due to the new liberal economic policy. Said Weerasinghe.
+
+The election campaign organized by the Communist Party of Sri Lanka was held in Colombo on Thursday (12) in support of Dilith Jayaweera.. He said this while participating in the comment.
+
+Most countries in the world, including us, are facing economic crisis. Similarly, the new liberal policy is the new liberal policy for the conflict and the inter -nation's conflict in the world. Israel. The Palestinian conflict is also an expression of this new liberal economic policy.
+
+...
+
+[Data](articles/11cb6e2f.json)
+
+[Extended Data](ext_articles/11cb6e2f.ext.json)
+
+---
+
+### Father arrested for pregnant daughter in Jaffna
+
+*2024-09-12 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193541) · `ta`
+
+Father arrested for sexual abuse of pregnant daughter in Jaffna. 53-year-old man accused of molesting 23-year-old daughter after she was separated from him 4 months ago. Incident reported to Chunnakam police, father arrested. Victim hospitalized for medical exam.
+
+🟩
+
+A father has been arrested in Jaffna for sexually abusing her daughter.
+
+The 53 -year -old father has sexually abused her daughter, a 23 -year -old girl. In this case, the woman has been dismantled 4 months ago as she is pregnant.
+
+After that he has been sexually harassed. In this case, the Chunnakam police have been informed about the incident. Accordingly, the police have arrested the father.
+
+The incident took place in the area and has been admitted to the Jaffna Teaching Hospital for medical examination.
+
+◼️
+
+[Data](articles/bdc60806.json)
+
+[Extended Data](ext_articles/bdc60806.ext.json)
+
+---
 
 ### This is what happens if sold at high prices
 
@@ -2409,53 +2455,5 @@ The ward complex is to be completed within three months.
 [Data](articles/f6b81b3a.json)
 
 [Extended Data](ext_articles/f6b81b3a.ext.json)
-
----
-
-### Sri Lanka bond yields rise ahead of auction; ADB approves $100mn loan
-
-*2024-09-12 10:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-rise-ahead-of-auction-adb-approves-100mn-loan-179338/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s bond yields edged up ahead of a 300 billion rupee auction, dealers said though the volume was broadly in line with a maturing volume.
-
-In the secondary market a bond maturing on 15.02.2028 was quoted at 13.30/50 percent, up from 13.15/40 percent on Wednesday.
-
-A bond maturing on 01.07.2028 was quoted at 13.70/85 up from 13.40/55 percent.
-
-Sri Lanka is offering 100 billion rupees of 15 February 2028 bonds, 150 billion rupees of 15 June 2019 bonds and 40 billion rupees of 15 September 2034 bonds.
-
-A September 2029 bond has been quoted at around 13.90/14.25 percent dealers said.
-
-Rupee bond yields have been moving up ahead of an election where there are fears of a change in fiscal policies.
-
-On Wednesday Sri Lanka’s Treasuries yields rose as authorities accepted more three month bills.
-
-Dealers say it may have been better to sell more one year bills at rates higher than 10 percent and reduce the acceptance from the bond auction.
-
-...
-
-[Data](articles/fe330758.json)
-
-[Extended Data](ext_articles/fe330758.ext.json)
-
----
-
-### ADB approves $100mn Sri Lanka budget support loan
-
-*2024-09-12 10:55:00* · [`economynextcom`](https://economynext.com/adb-approves-100mn-sri-lanka-budget-support-loan-179337/) · `en`
-
-ECONOMYNEXT – The Asian Development Bank (ADB) has approved a 100 million dollar policy-based loan, with an 800,000 dollar technical assistance grant, linked to water supply and sanitation sector reforms in Sri Lanka.
-
-The reforms seek to enhance the country’s resilience to climate change impacts and promote long-term sustainability, the global lender said.
-
-“Efficient delivery of safe and reliable water supply in Sri Lanka is limited by fragmented water resources management and exacerbated by climate change. This significantly affects the daily life of Sri Lankans—many of whom do not have access to piped water supply,” Senior Urban Development Specialist Pedro Almeida said.
-
-“This program will not only strengthen mechanisms to ensure adequate access to safe water but also address governance and sustainability challenges of the sector that will enable the participation of the private sector.”
-
-...
-
-[Data](articles/20f02ce8.json)
-
-[Extended Data](ext_articles/20f02ce8.ext.json)
 
 ---

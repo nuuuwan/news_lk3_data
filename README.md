@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 05:07:59**
+As of **2024-09-13 05:22:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,522 (99.8%) of 43,623 articles have been extended.
+43,523 (99.8%) of 43,623 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ The fiscal consolidation program, initiated under the IMF-EFF arrangement in 202
 ...
 
 [Data](articles/b7f3a3a7.json)
+
+[Extended Data](ext_articles/b7f3a3a7.ext.json)
 
 ---
 

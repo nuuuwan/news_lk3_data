@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 17:59:01**
+As of **2024-09-12 18:18:46**
 
 ## Newspaper Stats
 
-*Scraped **43,561** Articles*
+*Scraped **43,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 427
 islandlk | 2,542
 economynextcom | 2,649
 dailyftlk | 2,899
-adalk | 4,033
+adalk | 4,034
 dailymirrorlk | 4,733
 adaderanalk | 5,113
-tamilmirrorlk | 5,669
+tamilmirrorlk | 5,670
 virakesarilk | 6,897
 adaderanasinhalalk | 7,439
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 7,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,291 (99.4%) of 43,561 articles have been extended.
+43,296 (99.4%) of 43,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### Recovery of infant body;Web to mother's peers
+
+*2024-09-12 17:38:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிசு-சடலமாக-மீட்பு-தாயின்-சகோரிக்கு-வலை/76-343677) · `ta`
+
+Infant body recovered in Nuwara Eliya. Murdered newborn found in three-wheeler. Driver and mother arrested. Police investigation ongoing.
+
+🟩
+
+Lindula, LG in the Garden. It has been confirmed that the body recovered in the category has been strangled and murdered in a wire with a newborn hand.
+
+An autopsy carried out by the legal officer of the Nuwara Eliya District Hospital.
+
+The body of the infant was recovered from a three -wheeler parked in front of a house in the garden.
+
+Subsequently, a child's father, a 28 -year -old three -wheeler driver, was arrested by the police.. During the inquiries, it was the bag of a woman who had come to her garden from the Mawanella area.
+
+When the 24 -year -old woman was arrested and investigated, she stated that the child was born due to an inappropriate relationship between the driver and that the child was born on the 5th of last month at the Mawanella area where the child was born and strangled the child with the help of her sister.
+
+The woman had confessed to the police that he had taken it to the Akkarapattana area in the three -wheeler to bury the body.
+
+...
+
+[Data](articles/14ffac2f.json)
+
+[Extended Data](ext_articles/14ffac2f.ext.json)
+
+---
 
 ### Development Officers have cases suicide in the teacher service
 
@@ -123,6 +151,26 @@ Accordingly, there are eight recognized political parties have submitted nominat
 [Data](articles/d3dda2f1.json)
 
 [Extended Data](ext_articles/d3dda2f1.ext.json)
+
+---
+
+### J'pura is closing
+
+*2024-09-12 16:47:31* · [`adalk`](https://www.ada.lk/breaking_news/ජපුර-වසයි/11-411917) · `si`
+
+University of Sri Jayewardenepura closes temporarily due to group conflict. Students ordered to leave premises by 6:00 PM today.
+
+🟩
+
+The University of Sri Jayewardenepura has been temporarily closed from 6.00 pm today (12). Amit due to clash between two groups.
+
+By 6.00 pm today, the administration has informed all students to leave the university premises
+
+◼️
+
+[Data](articles/c932db73.json)
+
+[Extended Data](ext_articles/c932db73.ext.json)
 
 ---
 
@@ -2248,6 +2296,8 @@ Let me list the three, I mean four main candidates in Arsikland:
 
 [Data](articles/02f27fce.json)
 
+[Extended Data](ext_articles/02f27fce.ext.json)
+
 ---
 
 ### Mixed bag for candidates on voting intent poll
@@ -2266,6 +2316,8 @@ Support for Ranil Wickremesinghe has been rising from March through August 2024,
 
 [Data](articles/248e93e4.json)
 
+[Extended Data](ext_articles/248e93e4.ext.json)
+
 ---
 
 ### Anura against post-1977 economy, dodgy on devolution, can’t resolve crisis
@@ -2281,6 +2333,8 @@ While AKD and the JVP-NPP have changed, they haven’t metamorphosed into enligh
 ...
 
 [Data](articles/1c7f2d98.json)
+
+[Extended Data](ext_articles/1c7f2d98.ext.json)
 
 ---
 
@@ -2343,35 +2397,5 @@ He emphasised that his manifesto is the most promising and effective, with the b
 ◼️
 
 [Data](articles/8def5a02.json)
-
----
-
-### தபால்மூலம் வாக்களிக்க இன்றும் சந்தர்ப்பம்
-
-*2024-09-12 01:42:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்மூலம்-வாக்களிக்க-இன்றும்-சந்தர்ப்பம்/175-343647) · `ta`
-
-இம்முறை ஜனாதிபதித் தேர்தலில் தபால்மூல வாக்கை இதுவரை அளிக்காதவர்கள் இன்றும் வாக்களிக்க சந்தர்ப்பம் ஏற்படுத்தப்பட்டுள்ளது.
-
-காலை 8.30 முதல் மாலை 4.30 வரை தத்தமது மாவட்ட செயலக அலுவலகத்தில் தபால்மூல வாக்கை அளிக்க முடியுமென தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல் ரத்நாயக்க தெரிவித்துள்ளார்.
-
-தபால்மூலம் வாக்களிக்க தகுதிபெற்ற அரச உத்தியோகத்தர்கள் வாக்களிப்பதற்காக இதற்கு முன்னர் 4, 5 மற்றும் 06 ஆம் திகதிகளில் அவரவர் பணிபுரியும் அரச நிறுவனங்களில் அமைக்கப்பட்டிருந்த தபால்மூல வாக்களிப்பு நிலையங்களில் வாய்ப்பு ஏற்படுத்திக்கொடுக்கப்பட்டிருந்தது. (a)
-
-◼️
-
-[Data](articles/bc172bfe.json)
-
----
-
-### 80 வீத வாக்குச்சீட்டுகள் அனுப்பி வைப்பு
-
-*2024-09-12 01:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-வீத-வாக்குச்சீட்டுகள்-அனுப்பி-வைப்பு/175-343646) · `ta`
-
-80 வீத உத்தியோகபூர்வ வாக்குச்சீட்டுகள் மாவட்ட தேர்தல் அலுவலகங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ளன என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
-
-இதனிடையே, உத்தியோகபூர்வ வாக்குச்சீட்டுகளை அச்சடிக்கும் பணிகளை இவ்வார இறுதிக்குள் நிறைவு செய்ய திட்டமிட்டுள்ளதாக அரச அச்சகம் தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/695d75c6.json)
 
 ---

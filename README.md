@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 18:44:02**
+As of **2024-09-12 18:57:55**
 
 ## Newspaper Stats
 
-*Scraped **43,578** Articles*
+*Scraped **43,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 375
 bbccomsinhala | 422
 colombotelegraphcom | 427
 islandlk | 2,542
-economynextcom | 2,657
+economynextcom | 2,658
 dailyftlk | 2,899
-adalk | 4,034
+adalk | 4,035
 dailymirrorlk | 4,733
 adaderanalk | 5,113
 tamilmirrorlk | 5,670
@@ -26,29 +26,55 @@ adaderanasinhalalk | 7,440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,297 (99.4%) of 43,578 articles have been extended.
+43,305 (99.4%) of 43,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
 
-### ඩිල්ශාන්ගේ දියණිය ඔස්ට්‍රේලියාවට යන ශ්‍රී ලංකා U-19 කණ්ඩායමට
+### Sri Lanka’s DFCC green bond issue oversubscribed
+
+*2024-09-12 18:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-green-bond-issue-oversubscribed-179463/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s DFFC Bank said its green bond issue to raise 2.5 billion rupees was oversubscribed.
+
+“We wish to inform you that we have received applications for over 25,000,000 bonds (Rs.2,500,000,000/-) for the above bond issue by DFCC Bank PLC and accordingly the issue has been oversubscribed,” the bank said in a stock exchange filing.
+
+The basis of allotment will be notified to the CSE in due course, the bank said.
+
+The bond issue was given an A- (lka) rating by Fitch Ratings. The notes, the first listed green bond issuance in Sri Lanka, will mature in three years with fixed coupons.
+
+Proceeds from the bond issuance will be used to finance eligible green projects such as photovoltaic power generation, the bank has said. (Colombo/Sep12/2024)
+
+◼️
+
+[Data](articles/59006eb1.json)
+
+---
+
+### Dilshan's daughter to Australia to Australia
 
 *2024-09-12 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200952) · `si`
 
-ඔස්ට්‍රේලියාවේදී පැවැත්වෙන වයස අවුරුදු 19න් පහළ කාන්තා තුන්කොන් ක්‍රිකට් තරගාවලියට සහහාගිවන ශ්‍රී ලංකා සංචිතය අද (12) පස්වරුවේ නිවේදනය කළේය.
+Sri Lanka U-19 women's cricket team heads to Australia for tournament. Squad includes players from Moratuwa, Devapathiraja College, and others. Mitali Ayodhya replaced due to injury. Team to face New Zealand in T20 matches.
 
-මොරටුව වේල්ස් කුමරි විදුහලේ මනුදි නානායක්කාරගේ නායකත්වයෙන් යුත් ක්‍රීඩිකාවෙන් 16 දෙනාගේ මෙම සංචිතයට ශ්‍රී ලංකා ක්‍රිකට් හිටපු නායක තිලකරත්න ඩිල්ෂාන්ගේ දියණිය වන ලිමන්සා තිලකරත්නද ඇතුළත්ව තිබීම විශේෂත්වයකි.
+🟩
 
-ඊට අමතරව මෙම සංචිතයට රත්ගම දේවපතිරාජ විදුහලේ ක්‍රීඩිකාවන් 06 දෙනෙකු මෙන්ම ත්‍රිකුණාමලය, අම්පාර, මොණරාගල වැඩි කොළඹින් එපිට ප්‍රදේශවලින්ද ක්‍රීඩිකාවන් තෝරාගෙන තිබේ.
+The Sri Lankan squad of Sri Lanka (12) has announced to the Under-19 Women's Triangle Cricket Tournament in Australia.
 
-මේ අතර තරගාවලිය ඉලක්ක කරගමින් මූලික සංචිතයට මිතාලි අයෝධ්‍යා තෝරාගෙන සිටියද, ඇය ආබාධයකට ලක්වීම හේතුවෙන් ඇය වෙනුවට එරන්දි හංසමාලි කැඳවා ඇත.
+Sri Lanka Cricket (SLC) Limenmana Tillekeratne has been included in the squad of Moratuwa, Moratuwa, Moratuwa.
 
-සත්කාරක ඔස්ට්‍රේලියාව සමගින් ශ්‍රී ලංකාව හා නවසීලන්තය අතර පැවැත්වෙන මෙම තුන්කොන් ක්‍රිකට් තරගාවලිය එක්දින මෙන්ම විස්සයි20 ලෙසින්ද පැවැත්වේ.
+In addition, at least six athletes of the Devapathiraja College, Rathgama PLC, have been selected from Six sports and Trincomalee, Ampara, Ampara and Moneragala.
+
+Meanwhile, Mitali Ayodhya was chosen to target the tournament, but she was convened to replace her.
+
+Sri Lanka and New Zealand will be played between Sri Lanka and New Zealand, as well as T20.
 
 ◼️
 
 [Data](articles/a2e81c8b.json)
+
+[Extended Data](ext_articles/a2e81c8b.ext.json)
 
 ---
 
@@ -67,6 +93,28 @@ Fitch Ratings – Colombo/Sydney – 11 Sep 2024: Fitch Ratings has affirmed the
 ...
 
 [Data](articles/15f690c2.json)
+
+[Extended Data](ext_articles/15f690c2.ext.json)
+
+---
+
+### ගුවන් යානයකට අනවසරයෙන් ඇතුළු වෙන්න ගිය තරුණයෙක් අත්අඩංගුවට
+
+*2024-09-12 17:45:10* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-යානයකට-අනවසරයෙන්-ඇතුළු-වෙන්න-ගිය-තරුණයෙක්-අත්අඩංගුවට/11-411919) · `si`
+
+කටුනායක ගුවන් තොටුපොළ මුර කපොලු තුළින් රිංගා ගොස් , ගුවන් යානා අංගනය  තුළ නවතා තිබූ ගුවන් යානයකට අනවසරයෙන් ඇතුළු වීමට තැත් කළ  තරුණයෙකු 09/12 දින අලුයම කටුනායක ගුවන් තොටුපොළ පොලිසිය විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+ඔහු කොළඹ , ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ , සාන්ත ජෝශප් වීදියේ පදිංචි මොහොමඩ් පවුමි මොහොමඩ් නසීර් නැමැති 23 හැවිරිදි තරුණයෙකි .
+
+මොහු දෙවරක් විදේශ ගත වී ඇති අතර , අවසන් වශයෙන් ඔහු සිය පියා සමග ඉන්දියාවේ චෙන්නායි නුවර වාසය කර තිබේ .
+
+මෙම තරුණයා කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ මුර කපොලු අතරින් රිංගා ගොස් , ගුවන් තොටුපොළ ගුවන් යානා අංගනයේ නවතා තිබූ ඉන්දියාවේ චෙන්නායි නුවර බලා 09/12 දින අලුයම 03.45 ට පිටත්ව යාමට සූදානම් කර තිබූ , ඉන්ඩිගෝ ගුවන් සේවයේ 6 ඊ - 1172 දරන ගුවන් යානයට ඇතුළු වීමට තැත් කර තිබේ .
+
+ඔහු එම අවස්ථාවේ  ශ්‍රී ලන්කන් ගුවන් සේවයේ ආරක්ෂක නිලධාරීන් විසින් අත් අඩංගුවට ගෙන කටුනායක ගුවන් තොටුපොළ පොලිසිය වෙත භාර දී තිබේ .
+
+...
+
+[Data](articles/aa8ffd5f.json)
 
 ---
 
@@ -98,21 +146,27 @@ The woman had confessed to the police that he had taken it to the Akkarapattana 
 
 ---
 
-### தேசிய ஷுரா சபை பிரதிநிதிகளுக்கும் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு இடையில் விசேட சந்திப்பு
+### Special meeting between National Shura Council representatives and presidential candidate Sajith Premadasa
 
 *2024-09-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193525) · `ta`
 
-தேசிய ஷுரா சபை பிரதிநிதிகளுக்கும் ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாசவுக்குமிடையிலான விசேட சந்திப்பொன்று இன்று வியாழக்கிழமை (12) கொழும்பிலுள்ள ஐக்கிய மக்கள் கூட்டணியின் தலைமையகத்தில் நடைபெற்றது.
+Sajith Premadasa meets National Shura Council reps. Discusses 27 issues affecting Sri Lanka's politics, economy, and Muslim community. Promises protection of equal rights for all Sri Lankans.
 
-தேசிய மட்டத்தில் செயற்படும் முஸ்லிம் சிவில் சமூக அமைப்புக்களின் ஒன்றியமான தேசிய ஷூரா சபை ஜனாதிபதி வேட்பாளர்களை சந்தித்து மகஜரை கையளிக்கும் தொடரிலே இச்சந்திப்பு இடம்பெற்றது.
+🟩
 
-இலங்கையின் அரசியல், பொருளாதார, சமூகப் பிரச்சினைகள் மற்றும் முஸ்லிம் சமூகத்தின் பிரச்சினைகள் தொடர்பில் ஏற்படுத்தப்பட வேண்டிய மாற்றங்கள் தொடர்பான இருபத்தேழு விடயங்கள் அடங்கிய மகஜர் ஒன்று ஷூரா சபையால் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிற்கு கையளிக்கப்பட்டது.
+A special meeting between the National Shura Council representatives and the presidential candidate of the United People's Alliance and Opposition Leader Sajith Premadasa was held today (12) at the headquarters of the United People's Alliance in Colombo.
 
-கோவிட் ஜனாசா மற்றும் பலஸ்தீன் விவகாரங்கள் தொடர்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச பாராளுமன்றத்திலும் அதற்கு வெளியிலும் எடுத்த தீர்மானங்கள், நடவடிக்கைகளுக்காக முஸ்லிம் சமூகம் சார்பாக தேசிய ஷூரா சபையின் பிரதிநிதிகள் தமது நன்றியையும் பாராட்டுக்களையும் இதன்போது தெரிவித்துக் கொண்டனர்.
+The meeting took place in the series to meet the Presidential candidates of the National Shura Council, the Union of Muslim Civil Society Organizations, which operate at the national level.
+
+Opposition leader Sajith Premadasa has been handed over to the Shura Council of the Shura Council, which contains twenty -seven issues regarding the changes to the political, economic and social issues of Sri Lanka and the problems of the Muslim community.
+
+Representatives of the National Shura Council on behalf of the Muslim community expressed their gratitude and congratulations on the resolutions and actions taken by Opposition Leader Sajith Premadasa in Parliament and Outside.
 
 ...
 
 [Data](articles/83529b49.json)
+
+[Extended Data](ext_articles/83529b49.ext.json)
 
 ---
 
@@ -136,6 +190,8 @@ Political parties have promised tax cuts and extra spending, while a domestic bo
 
 [Data](articles/f9d43cdc.json)
 
+[Extended Data](ext_articles/f9d43cdc.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down, banks drive turnover
@@ -156,23 +212,31 @@ Foreign selling was seen in Dialog Axiata (down at 8.50), Bairaha Farms (down at
 
 [Data](articles/f804db73.json)
 
+[Extended Data](ext_articles/f804db73.ext.json)
+
 ---
 
-### உலகளாவிய தரத்தில் உயர்கல்வியை வழங்க புதிய கல்வி நிறுவனங்கள் ஸ்தாபிக்கப்படும் - ஜனாதிபதி
+### New educational institutions will be established to provide higher education in global standards - President
 
 *2024-09-12 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193522) · `ta`
 
-இளைஞர் யுவதிகளுக்கு உலகளாவிய தரத்திற்கு ஏற்ப உயர்கல்வி வாய்ப்புக்களைப் பெறும் சந்தர்ப்பத்தை வழங்கும் வகையில் அரச மற்றும் தனியார் துறையில் பல புதிய கல்வி நிறுவனங்கள் நாட்டில் ஸ்தாபிக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+Sri Lanka's President Ranil Wickremesinghe announces establishment of new educational institutions providing higher education aligned with global standards. Times School of Higher Education inaugurated, offering certificate, diploma, degree programs. Aimed at developing youth skills for export-oriented economy and digital economy growth. Government plans to provide vocational training for 50,000 youth and create 100,000 new jobs in state and private sectors.
 
-கொழும்பு காலிமுகத்திடல் ஹோட்டலில் இன்று வியாழக்கிழமை (12) முற்பகல் இடம்பெற்ற “Times School of Higher Education” உயர் கல்விக்கான பாடசாலைத் திறப்பு விழா நிகழ்வில் கலந்து கொண்டு உரையாற்றும்போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+🟩
 
-வரையறுக்கப்பட்ட விஜய பத்திரிகை நிறுவனத்துடன் இணைந்ததாக டைம்ஸ் உயர்கல்வி  நிறுவனம்  நிறுவப்பட்டு, மூன்று வெளிநாட்டுப் பல்கலைக்கழகங்கள் மற்றும் உயர்கல்வி நிறுவனங்களுடன் இணைந்து சர்வதேச தரத்திற்கு ஏற்ப கல்வி நடவடிக்கைகளை மேற்கொண்டு வருகிறது.
+President Ranil Wickremesinghe said that many new educational institutions in the state and private sector will be established in the country to provide youth the opportunity to gain higher education in accordance with global standards.
 
-மூன்று முக்கிய தகுதிப் பிரிவுகளின் கீழ் பலதரப்பட்ட தொழில் சார்ந்த கற்கை நெறிகள் இங்கு வழங்கப்படுகின்றன. அதன்படி சான்றிதழ், டிப்ளமோ, உயர் டிப்ளமோ கற்கைகள் மற்றும் டிஜிட்டல் அகடமி ஊடாக தொழில்முறை திறன் மேம்பாட்டுத் திட்டங்கள் மற்றும் பட்டப்பின் படிப்புகள் இங்கு நடத்தப்படும்.
+The President said this while addressing the inauguration ceremony of the "Times School of Higher Education" held at the Galle Falls Hotel in Colombo on Thursday (12).
+
+The Times Higher Education Institute has been established to join the limited Vijaya newspaper and is carrying out educational activities in accordance with three foreign universities and higher education institutions.
+
+Here are a variety of professional courses under three main qualifications. Accordingly, Certificate, Diploma, High Diploma Studies and Professional Skills Development Programs and Degree courses will be conducted here through the digital academy.
 
 ...
 
 [Data](articles/d3a7ae1b.json)
+
+[Extended Data](ext_articles/d3a7ae1b.ext.json)
 
 ---
 
@@ -248,39 +312,57 @@ Former Health Minister Keheliya Rambukwella has been ordered to appear before th
 
 ---
 
-### ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழகம் தற்காலிகமாக மூடப்பட்டது
+### Sri Jayawardenapura University has been temporarily closed
 
 *2024-09-12 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193509) · `ta`
 
-இரு குழுக்களுக்கிடையில் இடமபெற்ற மோதலை அடுத்து ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழகம் இன்று மாலை 6.00 மணி முதல் தற்காலிகமாக மூடப்படுவதாக பல்கலைக்கழக நிர்வாகம் அறிவித்துள்ளது.
+Sri Jayawardenapura University temporarily closed due to group clash. All students must leave campus by 6:00 PM today.
 
-அதற்கமைய,  அனைத்து மாணவர்களும் இன்று வியாழக்கிழமை (12) மாலை 6.00 மணிக்குள் பல்கலைக்கழக வளாகத்தை விட்டு வெளியேறுமாறு அறிவுறுத்தப்பட்டுள்ளனர்.
+🟩
+
+The university administration has announced that Sri Jayawardenapura University will be temporarily closed from 6.00 pm today following a clash between the two groups.
+
+Accordingly, all students are advised to leave the university campus at 6.00 pm on Thursday (12).
 
 ◼️
 
 [Data](articles/9ffc232f.json)
 
+[Extended Data](ext_articles/9ffc232f.ext.json)
+
 ---
 
-### எதிர்பார்ப்பை எகிற செய்திருக்கும் சசிகுமாரின் 'நந்தன்' திரைப்பட பாடல்
+### Sasikumar's 'Nandan' song that has made the expectation
 
 *2024-09-12 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193510) · `ta`
 
-சசிகுமார் நடிப்பில் வெளியான 'அயோத்தி' மற்றும் 'கருடன்' என தொடர்ந்து இரண்டு திரைப்படங்களும்  ரசிகர்களால் பெரிதும் கொண்டாடப்பட்டது.
+Sasikumar's 'Nandan' song "Ekki Ekki Bakuran" creates high expectations. Starring Ayodhya and Garuda, it features directors Suruthi Periyasamy and Madhesh, actors Balaji Sakthivel and Samudrakani. Composed by R.B. Saran, produced by Saravanan under Ira Entertainment. Songwriter Ravi and playback singer Namitha Babu collaborate. Attracts young fans with its blend of love and melody.
 
-இதனைத் தொடர்ந்து சசி குமாரின் நடிப்பில் ஹாட்ரிக் வெற்றியை பெரும் என்ற எதிர்பார்ப்புடன் வெளியாகும் திரைப்படம் 'நந்தன்'.
+🟩
 
-ரசிகர்களிடையேயும், திரையுலக வணிகர்களிடையேயும் பெரும் எதிர்பார்ப்பை ஏற்படுத்தியிருக்கும் இந்த திரைப்படத்தில் இடம் பெற்ற ' எக்கி எக்கி பாக்குறேன்..' எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+Sasikumar starrer 'Ayodhya' and 'Garuda' have been heavily celebrated by fans.
 
-இயக்குநர் இரா. சரவணன் இயக்கத்தில் உருவாகி இருக்கும் 'நந்தன்' எனும் திரைப்படத்தில் சசிகுமார், சுருதி பெரியசாமி, மாதேஷ், இயக்குநரும் , நடிகருமான பாலாஜி சக்திவேல், சமுத்திரக்கனி,  ஜி. எம். குமார், சித்தன் மோகன், சக்தி சரவணன், ஸ்டாலின் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+Following this, Sasi Kumar's starring film 'Nandan' is a big hit.
 
-ஆர். பி. சரண் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜிப்ரான் வைபோதா இசையமைத்திருக்கிறார்.
+The film 'Ekki Ekki Bakuran ..' has been released in the film, which has a huge expectation among fans and the filmmakers.
 
-இந்த திரைப்படத்தை இரா என்டர்டெய்ன்மென்ட் எனும் நிறுவனம் சார்பில் இயக்குநர் இரா. சரவணன் தயாரித்திருக்கிறார்.
+In the director. Sasikumar, Suruthi Periyasamy, Madhesh, director and actor Balaji Sakthivel, Samudrakani, G.. M.. Kumar, Siddhan Mohan, Shakti Saravanan, Stalin and many others have been cast.
 
-...
+R. B.. The film, which has been recorded by Saran, has composed the film for the film.
+
+The film was made on behalf of the company called Ira Entertainment. Produced by Saravanan.
+
+The soon -to -be -released film 'Ekki Eki Eki Eki Pakhunerne Cat Po like ...' has been released.
+
+The song is written by songwriter Ravi and sung by playback singer Namitha Babu.
+
+The song, which is a mix of a woman's love with melody and dignity lines, has also attracted the younger generation fans.
+
+◼️
 
 [Data](articles/b3c406a0.json)
+
+[Extended Data](ext_articles/b3c406a0.ext.json)
 
 ---
 
@@ -2367,45 +2449,5 @@ The deposit deposit was completed yesterday, according to the deposit of 10 poli
 [Data](articles/dd86143e.json)
 
 [Extended Data](ext_articles/dd86143e.ext.json)
-
----
-
-### Showers at times
-
-*2024-09-12 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200926) · `si`
-
-Weather alert: Showers/thundershowers expected in Western, Sabaragamuwa, North Western provinces. Strong winds possible in Hambantota, Moneragala, Trincomalee districts.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The announcement issued by the department show that showers or thundershowers during the evening or night in the Ampara and Batticaloa Districts.
-
-From the West-backed in the western and North-central and Northwestern provinces, Hambantota, Moneragala and Trincomalee districts, Hambantota, North Central and North Western Provinces.. It says that strong winds can occur about (40-50).
-
-◼️
-
-[Data](articles/e80bc6b2.json)
-
-[Extended Data](ext_articles/e80bc6b2.ext.json)
-
----
-
-### Jaya Container Terminals celebrates 16 years of success with record-breaking growth
-
-*2024-09-12 06:08:34* · [`dailyftlk`](https://www.ft.lk/business/Jaya-Container-Terminals-celebrates-16-years-of-success-with-record-breaking-growth/34-766667) · `en`
-
-Jaya Container Terminals Ltd. (JCT Ltd.), a fully owned subsidiary of the Sri Lanka Ports Authority (SLPA), recently commemorated its 16th anniversary.
-
-Since its inception in 2008, JCT Ltd. has established itself as a cornerstone of the Sri Lankan maritime industry, consistently exceeding expectations and achieving remarkable milestones.
-
-Over the past three years, JCT Ltd. has witnessed phenomenal growth, shattering previous records for revenue and profitability. This achievement is a testament to the company’s strategic agility and unwavering commitment to serving diverse client needs.
-
-...
-
-[Data](articles/c4fdaa3b.json)
-
-[Extended Data](ext_articles/c4fdaa3b.ext.json)
 
 ---

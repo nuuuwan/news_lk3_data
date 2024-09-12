@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 21:57:22**
+As of **2024-09-12 22:11:45**
 
 ## Newspaper Stats
 
-*Scraped **43,602** Articles*
+*Scraped **43,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ colombotelegraphcom | 427
 islandlk | 2,542
 economynextcom | 2,659
 dailyftlk | 2,899
-adalk | 4,039
+adalk | 4,040
 dailymirrorlk | 4,733
 adaderanalk | 5,116
 tamilmirrorlk | 5,675
-virakesarilk | 6,908
-adaderanasinhalalk | 7,443
+virakesarilk | 6,910
+adaderanasinhalalk | 7,445
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,392 (99.5%) of 43,602 articles have been extended.
+43,404 (99.5%) of 43,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### தெற்காசிய கனிஷ்ட ஆண்களுக்கான 100 மீற்றர் சட்டவேலி ஓட்டத்தில் இலங்கையின் சந்துனுக்கு தங்கம்
+
+*2024-09-12 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/193537) · `ta`
+
+சென்னை ஜவஹர்லால் நேரு விளையாட்டரங்கில் நடைபெற்றுவரும் நான்காவது தெற்காசிய கனிஷ்ட மெய்வல்லுநர் சம்பியன்ஷிப்பின் இரண்டாம் நாளான வியாழக்கிழமை (12) இலங்கைக்கு மேலும் ஒரு தங்கம், ஒரு வெள்ளி, 8 வெண்கலப்  பதக்கங்களுடன் மொத்தம் 10 பதக்கங்கள் கிடைத்தது.
+
+போட்டியின் முதல் நாளன்று இலங்கைக்கு 3 தங்கம், 3 வெள்ளி, 3 வெண்கலப் பதக்கங்கள் கிடைத்திருந்தன.
+
+இதற்கு அமைய இரண்டாம் நாள் போட்டி முடிவில் இலங்கைக்கு 4 தங்கம், 4 வெள்ளி, 11 வெண்கலப் பதக்கங்கள் கிடைத்துள்ளன.
+
+போட்டியின் இரண்டாம் நாளான இன்று வியாழக்கிழமை (12) ஆண்களுக்கான 110 மீற்றர் சட்டவேலி போட்டியை 14.06 செக்கன்களில் ஓடி முடித்த இலங்கை வீரர் கோஷல சந்துன் தங்கப் பதக்கத்தை வென்றுகொடுத்தார்.
+
+ஆண்களுக்கான 400 மீறறர் ஓட்டப் போட்டியை 47.17 செக்கன்களில் ஓடிமுடித்த ஒமெல் ஷஷின்த வெள்ளிப் பதக்கத்தை வென்றெடுத்தார். இந்த நேரப் பெறுதியானது அவரது தனிப்பட்ட அதிசிறந்த நேரப் பெறுதியாகும்.
+
+...
+
+[Data](articles/4d366b4c.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் தொடர்பில் இதுவரை 3,610 முறைப்பாடுகள் பதிவு
+
+*2024-09-12 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193538) · `ta`
+
+ஜனாதிபதி தேர்தல் தொடர்பில் இதுவரை (ஜூலை மாதம் 31 ஆம் திகதி முதல் செப்டெம்பர் மாதம் 02 ஆம் திகதி வரை) 3,610 முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளதாகத் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+அதன்படி, தேர்தல் சட்டங்களை மீறியமை தொடர்பில் தேசிய தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு 1,233 முறைப்பாடுகளும், மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு 2,377 முறைப்பாடுகளும் கிடைக்கப்பெற்றுள்ளன.
+
+இதேவேளை, மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு வன்முறைச் சம்பவங்கள் தொடர்பில் 28 முறைப்பாடுகளும் ஏனைய விடயங்கள் தொடர்பில் 76 முறைப்பாடுகளும் கிடைக்கப்பெற்றுள்ளன.
+
+◼️
+
+[Data](articles/2eff7372.json)
+
+---
+
+### ඩොලරය ගැන රනිල් අනතුරු අඟවයි
+
+*2024-09-12 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200957) · `si`
+
+මැතිවරණ වේදිකාවේ සිටියද තමා ප්‍රකාශ කරන්නේ ජනප්‍රිය තීරණ නොව සත්‍ය බව ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+"මට මෙතනට ඇවිත් කියන්න පුළුවන් ඊළඟ අවුරුද්දේ තවත් සහන තියෙනවා කියලා. ඒ අයට එහෙම කියන්න පුළුවන් ද ?. වෛරයේ මුවාවෙන් බලය අරගෙන අන්තිමට මොකක්ද වෙන්නේ. මම කියන්නේ ජනප්‍රිය ඒවා නෙමෙයි.. ඒත් ඇත්ත මම කියන්නේ. මම ආපහු කියනවා.. බදු අඩු කළොත් ඩොලර් එක රුපියල් 500 වෙනවා. සජිත් ගැන මොනවා කියන්නද?. හැම එකම දැන් නොමිලේ දෙනවලු."
+
+◼️
+
+[Data](articles/54a8fa2f.json)
+
+---
 
 ### IRD reports 28.5% increase in tax revenue collection so far in 2024
 
@@ -51,6 +101,24 @@ The breakdown of tax revenue collection by tax type is as follows:
 [Data](articles/f40de06f.json)
 
 [Extended Data](ext_articles/f40de06f.ext.json)
+
+---
+
+### වරද්දගන්නේ නැතුව ඡන්දෙ දාන්නේ මෙහෙමයි
+
+*2024-09-12 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200956) · `si`
+
+එළඹෙන 21 වනදා පැවැත්වෙන ජනාධිපතිවරණයේදී  නිවැරදිව ඡන්දය සලකුණු කළ හැක්කේ කෙසේද?
+
+මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා ඒ පිළිබඳව පැහැදිලි කිරීමක් සිදු කළේය.
+
+මේ අතර අද 'බිග් ෆෝකස්' වැඩසටහනේදී අදහස් දැක්වූ මැතිවරණ කොමසාරිස් ජනරාල්වරයා එක් අපේක්ෂකයෙකු 50% ඉක්මවූ ඡන්ද ප්‍රතිශතයක් ලබා නොගතහොත් සිදුවන ක්‍රියාදාමය පිළිබඳව ද අදහස් පළ කළේය.
+
+"සමස්ත ප්‍රතිඵලය අපි දැනගත් පසු කොමිෂන් සභාව තීරණය කරයි ඊළඟට උපදෙස් දෙන්න මනාප ගණන් කිරීමට."
+
+◼️
+
+[Data](articles/5eac936b.json)
 
 ---
 
@@ -357,6 +425,22 @@ Since privatization in 1992, the plantation industry has undergone transformatio
 [Data](articles/0dae6103.json)
 
 [Extended Data](ext_articles/0dae6103.ext.json)
+
+---
+
+### මැති ඇමතිවරු විශාල පිරිසක් විදේශ ගත විමට වීසා ලබාගෙන
+
+*2024-09-12 18:59:50* · [`adalk`](https://www.ada.lk/breaking_news/මැති-ඇමතිවරු-විශාල-පිරිසක්-විදේශ-ගත-විමට-වීසා-ලබාගෙන/11-411926) · `si`
+
+ජනාධිපතිවරණයේ ප්‍රතිඵල නිකුත් කිරිමෙන් පසු ආණ්ඩු පක්ෂයේ මැති ඇමතිවරුන් විශාල පිරිසක් විදේශගත විමට වීසා ලබාගෙන ඇති බව කදුරට ජනතා පෙරමුණේ නායක සහ දමිල ප්‍රගතිශිලි සන්ධානයේ නියෝජ්‍ය නායක පා.ම වි.රාධාක්‍රිෂ්ණන් මහතා පැවසිය.
+
+වි.රාධාක්‍රිෂ්ණන් මහතා ඒ බැව් කියා සිටියේ (12) දින සමගි ජන බලවේගයේ ජනාධිපති අපෙක්ෂක සජිත් ප්‍රේමදාස මහතාගේ ජයග්‍රහණය තහවුරු කිරිම සදහා නාවලපිටිය හපුගස්තලාව ප්‍රදේශයේ පැවැත් වු ජනාධිපතිවරණ ප්‍රචාරක රැස්විමකට සහභාගි විමෙන් පසු මාධ්‍යට අදහස් දක්වමිණි.
+
+මෙහිදි වැඩිදුරටත් අදහස් දැක් වු වි.රාධාක්‍රිෂ්ණන් මහතා කියා සිටියේ මේ දිනවල ඇතැම් පිරිස් ජනාධිපතිවරණය ඉලක්ක කර ගනිමින් සමීක්ෂණ වාර්තා ඉදිරිපත් කරන්නේ එක් එක් අපෙක්ෂකයන්ගේ උවමනාවට බවත්, එය සැබැ ජන මතයක් නොවන බවත්, මෙවර ජනාධිපතිවරණයේදි නුවරඑලිය දිස්ත්‍රික්කයෙන් සමගි ජන බලවේගය 80% ක ජන්ද ප්‍රතිශතයක් ලබාගන්නා බවයි.
+
+...
+
+[Data](articles/9ea8c0ae.json)
 
 ---
 
@@ -2369,119 +2453,5 @@ He was released from prison in December 15 years later.
 [Data](articles/fb8db5ad.json)
 
 [Extended Data](ext_articles/fb8db5ad.ext.json)
-
----
-
-### Man hacks son to death, injures wife in Borupana
-
-*2024-09-12 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101910/man-hacks-son-to-death-injures-wife-in-borupana) · `en`
-
-Police have launched an investigation into the murder of a person in the Borupana area in the Mount Lavinia Police Division.
-
-The murder had taken place last morning (11) after an individual had attacked his wife and son with a sharp weapon over a family dispute that had escalated.
-
-The woman who sustained injuries from the incident has been admitted to the Kalubowila (Colombo South) Teaching Hospital.
-
-Meanwhile, the deceased is a 26-year-old resident of the Borupana area in Ratmalana.
-
-The suspect who had committed the murder has fled the area and Mount Lavinia Police is conducting further investigations to arrest him.
-
-◼️
-
-[Data](articles/736e5b78.json)
-
-[Extended Data](ext_articles/736e5b78.ext.json)
-
----
-
-### The horrific accident that a woman kills
-
-*2024-09-12 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200936) · `si`
-
-Bus collides with three-wheeler in Thuththiripitiya, Padukka. Woman severely injured, hospitalized along with driver.
-
-🟩
-
-Woman is killed in an accident in the Thuththiripitiya area on the Padukka Liyanwala road.
-
-The accident had occurred when a bus collided with a three-wheeler.
-
-The three-wheeler driver and a woman who was seriously injured in the accident were admitted to the Padukka Hospital for further treatment.
-
-The driver of the bus was also injured and rushed to the Padukka Hospital.
-
-◼️
-
-[Data](articles/fc57c037.json)
-
-[Extended Data](ext_articles/fc57c037.ext.json)
-
----
-
-### 35 years I'm in a government house
-
-*2024-09-12 09:57:16* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-35ක්ම-මම-ඉන්නේ-ආණ්ඩුවේ-ගෙදරක/11-411908) · `si`
-
-Duminda Dissanayake criticizes Anura Kumara Dissanayake, claims government housing issue since 1999, expresses frustration over long wait for change.
-
-🟩
-
-Sri Lanka Freedom Party General Secretary of the SLFP MP Duminda Dissanayake said that he had to leave the government official of the government in 2019, but he was given Anura Kumara Dissanayake.
-
-He was speaking at a public meeting in Nochchiyagama in Anuradhapura.
-
-"Mr. Anura Kumara came to Thambuththegama and that was just a fault that I was saying that I was going to vote everywhere.The house of the government, that is true, but the year is true, but since 1999, my father is in the age of 10, so since Dad, since 89,Without staying at my dad's house, may I stay home in Kumara? It must have been my luck.
-
-I'm just 45 years old, for 35 years, and I'm still waiting for the government, and I thank it in 2019, who will I get out of that house?In Anuradhapura, my father, Gather and Grandpa's home, told me to stay in the government.
-
-...
-
-[Data](articles/1a1e5ace.json)
-
-[Extended Data](ext_articles/1a1e5ace.ext.json)
-
----
-
-### An invitation from Namal
-
-*2024-09-12 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200934) · `si`
-
-Namal Rajapaksa promises to develop Sri Lanka within 10 years. He addresses farmers' concerns about milk prices and fertilizer subsidies. Invites supporters to join the Sri Lanka Civil Force movement.
-
-🟩
-
-Presidential candidate at the Sri Lanka Ceremony of Sri Lanka Knowing Namal Rajapaksa says that Sri Lanka will make Sri Lanka a developed country in the next 10 years.
-
-Namal Rajapaksa made these comments addressing a rally held in Agalawatta area.
-
-...
-
-[Data](articles/94fb3251.json)
-
-[Extended Data](ext_articles/94fb3251.ext.json)
-
----
-
-### Kuliyapitiya Car assembly factory launches
-
-*2024-09-12 09:33:54* · [`adalk`](https://www.ada.lk/breaking_news/කුලියාපිටිය-මෝටර්-රථ-එකලස්-කිරීමේ-කර්මාන්ත-ශාලාව-නුදුරේදීම-මෙහෙයුම්-අරඹයි/11-411907) · `si`
-
-Kuliyapitiya Car assembly factory launched by Western Automobile EShemebli. Modern facility approved by BOI, uses German, Japanese, Korean machinery. Flexible system handles multi-brands. Committed to training, aims to increase Sri Lanka's automotive sector.
-
-🟩
-
-Western Automobile EShemebli, private company is commenced at the Kuliyapitiya, Kuliyapitiya and the SKD assembly factory.
-
-This modern factory equips our country towards economic development, equipped with the latest technological skills and knowledge of the modern facility.
-
-Factory is the approval project of the BOI. The industry consists of the instructions of international automotive experts and the manufactured machinery products manufactured in Germany, Japan and Korea.. Its efficiency is based on a flexible system that can handle multi-brands. Adapting to internationally international standards, the factory will become a hub of the factory's leading motor veilure.
-
-The company has been recruited by Western Automobile Eshemebar Eshemebar Lirm, including the Graduates and the Diploma in the company.A group of employees is to be recruited.
-
-...
-
-[Data](articles/5dd1a8ea.json)
-
-[Extended Data](ext_articles/5dd1a8ea.ext.json)
 
 ---

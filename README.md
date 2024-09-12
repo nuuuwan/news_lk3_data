@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 04:38:00**
+As of **2024-09-13 04:57:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,512 (99.8%) of 43,620 articles have been extended.
+43,517 (99.8%) of 43,620 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ Exterminators PLC, Sri Lanka’s premier pest management and environmental techn
 
 [Data](articles/a05568c2.json)
 
+[Extended Data](ext_articles/a05568c2.ext.json)
+
 ---
 
 ### Planters’ Association of Ceylon to celebrate 170 year legacy at AGM tomorrow
@@ -55,6 +57,8 @@ Hayleys PLC Chairman and Chief Executive Mohan Pandithage will preside over this
 ...
 
 [Data](articles/09c1a6b0.json)
+
+[Extended Data](ext_articles/09c1a6b0.ext.json)
 
 ---
 
@@ -72,6 +76,8 @@ This pivotal collaboration represents a substantial advancement towards achievin
 
 [Data](articles/ff610929.json)
 
+[Extended Data](ext_articles/ff610929.ext.json)
+
 ---
 
 ### Pathfinder Foundation presents key policy reports to Presidential candidates, addressing economic recovery and regional connectivity
@@ -86,6 +92,8 @@ The Pathfinder Foundation, an independent research and advocacy organisation, ha
 
 [Data](articles/344dd04d.json)
 
+[Extended Data](ext_articles/344dd04d.ext.json)
+
 ---
 
 ### BASL accuses suspended President of misrepresenting facts and misleading media
@@ -99,6 +107,8 @@ In an official statement, the BASL clarified the provisions of its Constitution 
 ...
 
 [Data](articles/515b5b68.json)
+
+[Extended Data](ext_articles/515b5b68.ext.json)
 
 ---
 

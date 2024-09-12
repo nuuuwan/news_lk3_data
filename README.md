@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 16:55:56**
+As of **2024-09-12 17:07:20**
 
 ## Newspaper Stats
 
-*Scraped **43,554** Articles*
+*Scraped **43,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,649
 dailyftlk | 2,899
 adalk | 4,031
 dailymirrorlk | 4,733
-adaderanalk | 5,110
+adaderanalk | 5,112
 tamilmirrorlk | 5,669
 virakesarilk | 6,897
 adaderanasinhalalk | 7,437
@@ -26,11 +26,53 @@ adaderanasinhalalk | 7,437
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,268 (99.3%) of 43,554 articles have been extended.
+43,276 (99.4%) of 43,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### 2024 Presidential Election: 77% of polling cards distributed
+
+*2024-09-12 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101922/2024-presidential-election-77-of-polling-cards-distributed) · `en`
+
+The Postal Department says that around 77% of official polling cards for the 2024 presidential election have already been distributed thus far.
+
+Deputy Postmaster General Rajitha Ranasinghe says that the distribution of nearly 13.2 million official polling cards has already been completed.
+
+He further said that the polling cards will also be distributed to the voters tomorrow (13) and the day after (14).
+
+Ranasinghe said that if any voter has not received their official polling cards by Saturday, they can visit their local post office with their National Identity Card (NIC) after September 18 to verify their identity and obtain their polling card.
+
+He stated that this opportunity will be available for the voters until the date of the presidential election, which will be held on September 21.
+
+◼️
+
+[Data](articles/f8a79c00.json)
+
+---
+
+### Namal vows to transform Sri Lanka into a developed nation within 10 years
+
+*2024-09-12 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101921/namal-vows-to-transform-sri-lanka-into-a-developed-nation-within-10-years-) · `en`
+
+The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP), Namal Rajapaksa says that he will work to ensure that Sri Lanka is transformed into a developed nation in Asia within the next 10 years.
+
+Rajapaksa made these comments while addressing a public rally held in Agalawatta area.
+
+He further emphasized his support for the local farmers by ensuring fair and stable prices for their produce such as tea leaves, pepper, and milk.
+
+“We believe that the fertilizer subsidy should also be given to tea small holders. We work with a plan and a programme. We’re a force and principled political party. Therefore we have a plan and a programme,” he said.
+
+“We declare to you that we will fulfill the responsibility of transforming Sri Lanka into a developed country in Asia within the next 10 years,” he added.
+
+He further said that he has created a political force with a group of principled politicians needed to build this country in a difficult time and a challenging period.
+
+...
+
+[Data](articles/9cdedeee.json)
+
+---
 
 ### Sri Jayawardenapura University closed
 
@@ -1736,41 +1778,59 @@ Subprogram 1 will establish policies and strategies nationally and for the Natio
 
 [Data](articles/3cfc2cbe.json)
 
+[Extended Data](ext_articles/3cfc2cbe.ext.json)
+
 ---
 
-### அடிக்கடி மழை பெய்யக்கூடும்
+### Frequent rainfall may occur
 
 *2024-09-12 07:31:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடிக்கடி-மழை-பெய்யக்கூடும்/175-343650) · `ta`
 
-இன்று (12) சப்ரகமுவ, மேல் மற்றும் வடமேல்  மாகாணங்களிலும் அத்துடன் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அடிக்கடி மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Frequent rainfall expected in several provinces and districts. Thunderstorms possible in Uva Province and coastal areas. Strong winds predicted in central highlands and eastern districts. Public advised to exercise caution due to potential lightning and gusts.
 
-ஊவா மாகாணத்தின் பல இடங்களிலும் அத்துடன் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களின் பல இடங்களிலும் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+🟩
 
-மத்திய மலைப் பிராந்தியத்தின் மேற்கு சரிவுகளிலும்,வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை , மொனராகலை மற்றும் திருகோணமலை மாவட்டங்களிலும் மணித்தியாலத்திற்கு 40 - 50 கிலோமீற்றர் வேகத்தில் அடிக்கடி பலத்த காற்று வீசக் கூடும்.
+The Department of Meteorology said that frequent rainfall is expected in Sabaragamuwa, Western and North Western Provinces as well as in Galle, Matara, Kandy and Nuwara Eliya districts.
 
-புத்தளம் தொடக்கம் கொழும்பு, காலி ஊடாக மாத்தறை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+There is a chance of rain or thunderstorms in many parts of the Uva Province, as well as in many parts of Ampara and Batticaloa districts.
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 30 - 40 கிலோமீற்றர் வேகத்தில் தென்மேற்குத் திசையில் இருந்து காற்று வீசும்.
+Heavy winds can be frequent at speeds of 40 to 50 km / h in the western slopes of the Central Highlands, North, North Central and North Western Provinces as well as in Hambantota, Moneragala and Trincomalee districts.
+
+Rain or thunderstorms are likely to occur in the sea regions along the coast of Puttalam to Colombo and Galle.
+
+Winds from the southwest at 30 - 40 km / h in the sea regions.
+
+From Matara to Hambantota, Pottuvil, from Kankesanthurai to Mannar via Puttalam, the sea will be increasing at 60 kilometers per hour.
+
+From Trincomalee to Kankesanthurai to Kankesanthurai, Puttalam to Colombo and Galle via Matara, Matara will increase between 50 kilometers per hour.
 
 ...
 
 [Data](articles/456ec551.json)
 
+[Extended Data](ext_articles/456ec551.ext.json)
+
 ---
 
-### පියාගේ පහරින් පුතා මරුට
+### Son dies after father's hit
 
 *2024-09-12 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200929) · `si`
 
-ගල්කිස්ස පොලිස් වසමේ බොරුපන ප්‍රදේශයේදී පුද්ගලයෙකු ඝාතනය කිරීම සම්බන්ධයෙන් පොලීසිය විමර්ශන අරඹා තිබේ.
+Son killed by father during family dispute. Police investigating murder in Lie. Suspect fled, police searching for arrest.
 
-ඊයේ (11) පෙරවරුවේ දී පවුල් ආරවුලක් දුරදිග යාමෙන් ස්වාමිපුරුෂයා විසින් බිරිඳට හා පුත්‍රයාට තියුණු ආයුධයකින් පහරදීම හේතුවෙන් මෙම ඝාතනය සිදුව තිබේ.
+🟩
 
-ඝාතනය සිදුකළ සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇති අතර සැකකරු අත්අඩංගුවට ගැනීම සඳහා ගල්කිස්ස පොලීසිය වැඩිදුර විමර්ශන පවත්වයි.
+Police have launched an investigation into the killing of a person in the Lie.
+
+The murder had taken place due to the death of a family and son with a sharp weapon by a family dispute yesterday.
+
+The suspect has fled the area and Mount Lavinia Police are conducting further investigations to arrest the suspect.
 
 ◼️
 
 [Data](articles/f6bd90bb.json)
+
+[Extended Data](ext_articles/f6bd90bb.ext.json)
 
 ---
 
@@ -1790,59 +1850,81 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/6003b823.json)
 
+[Extended Data](ext_articles/6003b823.ext.json)
+
 ---
 
-### රනිල් සමන්තා පවර්ගෙන් වැඳලා ඉල්ලූ දේ
+### What Ranil worshiped Samantha Power
 
 *2024-09-12 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200928) · `si`
 
-රටේ මීළඟ ජනාධිපතිවරයා තෝරා පත් කරගැනීමේ දී ජනතාව බුද්ධිමත්ව කටයුතු කළ යුතු බව ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Ranil Wickremesinghe urges voters to choose wisely for the next president, warning of potential economic crises. He criticizes previous decisions and calls for development in agriculture and trade.
 
-ඔහු පවසන්නේ ජනතාව නිවැරදි තීරණයක් නොගතහොත් රට තුළ යළිත් ආර්ථික අර්බුදයක් හටගනු ඇති බවය.
+🟩
 
-අම්පාර සයින්දමර්දු ප්‍රදේශයේ පැවති ජනරැලියක් අමතමින් රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේය.
+Independent president, Ranil Wickremesinghe says people should act intelligently in selecting intelligently when electing the next President of the country should be intelligent.
+
+He says that if the people do not make the right decision, there will be an economic crisis in the country again.
+
+Addressing a familiarity held in the SandaMert area in Ampara, Ranil Wickremesinghe made these comments.
 
 ...
 
 [Data](articles/d8a7bf06.json)
 
+[Extended Data](ext_articles/d8a7bf06.ext.json)
+
 ---
 
-### තැපැල් ඡන්දය භාවිත කිරීමේ කාලය අදින් අවසන්
+### Postal voting time is over today
 
 *2024-09-12 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200927) · `si`
 
-මෙවර ජනාධිපතිවරණයට අදාළව තැපැල් ඡන්දය භාවිත කිරීමට ලබාදුන් කාලය අදින් (12) අවසන් වේ.
+Postal voting deadline ends today. Public servants can still cast ballots at district offices. Nominations close for Elpitiya Pradeshiya Sabha elections.
 
-තැපැල් ඡන්දය ප්‍රකාශ කිරීම සඳහා ලබා දී තිබු පසුගිය 4,5 සහ 6 යන දිනවල ඡන්දය භාවිත කිරීමට නොහැකි වූ සියලු රාජ්‍ය සේවකයින් සඳහා ඊයේ (11) සහ අද ඡන්දය සලකුණු කිරීමට අතිරේක දින ලබාදෙනු ලැබීය.
+🟩
 
-ඒ අනුව මෙතෙක් තැපැල් ඡන්දය භාවිත කිරීමට නොහැකි වූ රාජ්‍ය නිලධාරීන්ට අද දිනයේ ද තැපැල් ඡන්දය භාවිත කළ හැකි අතර ඔවුන්ට තමන්ගේ සේවා ස්ථානය පිහිටි දිස්ත්‍රික්කයේ, දිස්ත්‍රික් මැතිවරණ කාර්යාලවලදී ඡන්දය සලකුණු කිරීමේ හැකියාව පවතී.
+The time given to postal voting for the presidential election is over today (12).
 
-කෙසේවෙතත් අදින් පසුව තැපැල් ඡන්ද ඉල්ලුම් කළ කිසිදු රාජ්‍ය සේවකයෙකුට තැපැල් ඡන්ද භාවිතා කිරීමට අවස්ථාව හිමි නොවන බව මැතිවරණ කොමිසම පැවසුවේය.
+All public servants were given to the postal voting were given to all public servants to vote today and today.
 
-මේ අතර ඇල්පිටිය ප්‍රාදේශීය සභා ඡන්ද විමසීමට අදාළ නාමයෝජනා භාරගැනීමේ කටයුතු ද අදින් අවසන් වේ.
+Accordingly, government officials who have not been able to use the postal voting so far can also be polluted today and they can vote at district election offices in the district.
 
-ඒ අනුව අද මධ්‍යහන 12.00 දක්වා ගාල්ල දිස්ත්‍රික් ලේකම් කාර්යාලයේදී නාමයෝජනා භාරගැනීම් සිදුකෙරෙන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+However, after today, no public servant of postal votes will not be able to use postal votes.
 
-...
+Meanwhile, nominations for the Elpitiya Pradeshiya Sabha elections will also end today.
+
+Accordingly, nominations will be held at the District Secretar's Office to 12.00 million today.
+
+The deposit deposit was completed yesterday, according to the deposit of 10 political parties and two independent groups.
+
+◼️
 
 [Data](articles/dd86143e.json)
 
+[Extended Data](ext_articles/dd86143e.ext.json)
+
 ---
 
-### අදත් විටින් විට වැසි
+### Showers at times
 
 *2024-09-12 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200926) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Weather alert: Showers/thundershowers expected in Western, Sabaragamuwa, North Western provinces. Strong winds possible in Hambantota, Moneragala, Trincomalee districts.
 
-එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ දැක්වෙන්නේ ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට,මොණරාගල සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බවත් එහි සඳහන් වේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in the Kandy, Nuwara Eliya, Galle and Matara districts.
+
+The announcement issued by the department show that showers or thundershowers during the evening or night in the Ampara and Batticaloa Districts.
+
+From the West-backed in the western and North-central and Northwestern provinces, Hambantota, Moneragala and Trincomalee districts, Hambantota, North Central and North Western Provinces.. It says that strong winds can occur about (40-50).
 
 ◼️
 
 [Data](articles/e80bc6b2.json)
+
+[Extended Data](ext_articles/e80bc6b2.ext.json)
 
 ---
 
@@ -1859,6 +1941,8 @@ Over the past three years, JCT Ltd. has witnessed phenomenal growth, shattering 
 ...
 
 [Data](articles/c4fdaa3b.json)
+
+[Extended Data](ext_articles/c4fdaa3b.ext.json)
 
 ---
 
@@ -2233,37 +2317,5 @@ Kevin Edwards is employed by E B Creasy & Co Plc and seconded for duties as Dire
 ...
 
 [Data](articles/975221a5.json)
-
----
-
-### Kumar Anthony Paul Fernando: exemplary planter and human
-
-*2024-09-11 22:46:00* · [`islandlk`](http://island.lk/kumar-anthony-paul-fernando-exemplary-planter-and-human/) · `en`
-
-It will be five years on the 12th of September 2024 since my good friend Kumar Fernando left this world quite suddenly and be with his creator. Although five years seems a long time, his memory and caring ways are something that will always live in the life of those who knew this wonderful human being. I have missed him since that day five years ago and it all came flooding back to me when i went to Melbourne for a few days last month and met with his family over a lovely dinner at his daughter Tehani’s home.
-
-Tehani and family had taken great pains to prepare a scrumptious dinner for us and whilst we all appreciated the care and trouble taken, an emptiness kept tugging at me, that something was missing and that was Kumar’s presence and enduring ways as he was always a warm and caring person. Despite the joyful evening, there was sadness in me, since I was visiting their home for the first time since his passing away.
-
-...
-
-[Data](articles/b5d21a45.json)
-
----
-
-### Sri Lanka Insurance Life at the Jaffna Nallur Festival – 2024
-
-*2024-09-11 22:43:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-life-at-the-jaffna-nallur-festival-2024/) · `en`
-
-Sri Lanka Insurance Life carried out a special awareness program during the Nallur festival in Jaffna. During this time many pilgrims travel to Jaffna from different parts of the country and also many Sri Lankan expatriates return to the country as well to attend the Nallur festivities. Sri Lanka Insurance annually mark their presence at the festival to share knowledge about Insurance and its importance. A special booth was located in the area where attendees had the opportunity to participate in various competitions and win valuable gifts. In addition, the Sri Lanka Insurance Life sales team carried out a door to door campaign in the Jaffna region creating awareness on the importance of Insurance.
-
-Browns Pharmaceuticals partners with DFCC Bank and Market-Oriented Dairy to empower local entrepreneurs
-
-Bargain hunters exploit share price drop in blue chip counters
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/0122c0f9.json)
 
 ---

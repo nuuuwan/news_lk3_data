@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 18:57:55**
+As of **2024-09-12 19:09:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,305 (99.4%) of 43,580 articles have been extended.
+43,312 (99.4%) of 43,580 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Proceeds from the bond issuance will be used to finance eligible green projects 
 ◼️
 
 [Data](articles/59006eb1.json)
+
+[Extended Data](ext_articles/59006eb1.ext.json)
 
 ---
 
@@ -98,23 +100,35 @@ Fitch Ratings – Colombo/Sydney – 11 Sep 2024: Fitch Ratings has affirmed the
 
 ---
 
-### ගුවන් යානයකට අනවසරයෙන් ඇතුළු වෙන්න ගිය තරුණයෙක් අත්අඩංගුවට
+### Youth arrested for hacking on a plane
 
 *2024-09-12 17:45:10* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-යානයකට-අනවසරයෙන්-ඇතුළු-වෙන්න-ගිය-තරුණයෙක්-අත්අඩංගුවට/11-411919) · `si`
 
-කටුනායක ගුවන් තොටුපොළ මුර කපොලු තුළින් රිංගා ගොස් , ගුවන් යානා අංගනය  තුළ නවතා තිබූ ගුවන් යානයකට අනවසරයෙන් ඇතුළු වීමට තැත් කළ  තරුණයෙකු 09/12 දින අලුයම කටුනායක ගුවන් තොටුපොළ පොලිසිය විසින් අත් අඩංගුවට ගෙන තිබේ.
+Youth hacked plane at Sri Lanka airport, arrested and charged.
 
-ඔහු කොළඹ , ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ , සාන්ත ජෝශප් වීදියේ පදිංචි මොහොමඩ් පවුමි මොහොමඩ් නසීර් නැමැති 23 හැවිරිදි තරුණයෙකි .
+🟩
 
-මොහු දෙවරක් විදේශ ගත වී ඇති අතර , අවසන් වශයෙන් ඔහු සිය පියා සමග ඉන්දියාවේ චෙන්නායි නුවර වාසය කර තිබේ .
+The Katunayake Airport Police have arrested a youth at the Bandaranaike International Airport on the plane, which was parked in an aircraft yard.
 
-මෙම තරුණයා කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ මුර කපොලු අතරින් රිංගා ගොස් , ගුවන් තොටුපොළ ගුවන් යානා අංගනයේ නවතා තිබූ ඉන්දියාවේ චෙන්නායි නුවර බලා 09/12 දින අලුයම 03.45 ට පිටත්ව යාමට සූදානම් කර තිබූ , ඉන්ඩිගෝ ගුවන් සේවයේ 6 ඊ - 1172 දරන ගුවන් යානයට ඇතුළු වීමට තැත් කර තිබේ .
+He is a 23 year old youth, a resident of Grandpass, St. Joseph Street, Santha Joseph Street.
 
-ඔහු එම අවස්ථාවේ  ශ්‍රී ලන්කන් ගුවන් සේවයේ ආරක්ෂක නිලධාරීන් විසින් අත් අඩංගුවට ගෙන කටුනායක ගුවන් තොටුපොළ පොලිසිය වෙත භාර දී තිබේ .
+He has passed abroad twice, and last, he has lived with his father in Chennai, India.
 
-...
+The youth has gone into the opening of the Bandaranaike International Airport in the Airport AirportHas been done.
+
+He was arrested by the SriLankan Airlines at the time he was handed over to the Katunayake airport police.
+
+He is mentally illuminated in investigations and the medical treatment has been taken to the police, and he is also receiving medical attention to the police.. However, the brother of the youth has said that he has not acquired the drugs to the situation in the past month.
+
+The youth has said that the youth has gone to the plane to go to Chennai, India.
+
+The arrested man has been produced before the Negombo Magistrate's Court on 09/2/2012.
+
+◼️
 
 [Data](articles/aa8ffd5f.json)
+
+[Extended Data](ext_articles/aa8ffd5f.ext.json)
 
 ---
 
@@ -430,21 +444,35 @@ He stated that this opportunity will be available for the voters until the date 
 
 ---
 
-### போரின் கொடுமைகளை அழுத்தமாக விவரிக்கும் ஹிப் ஹாப் ஆதி தமிழாவின் 'கடைசி உலகப் போர்'
+### Hip Hop Adi Tamil's 'Last World War'
 
 *2024-09-12 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/193517) · `ta`
 
-இசையமைப்பாளரும், முன்னணி நட்சத்திர நடிகரும், இயக்குநருமான ஹிப் ஹாப் ஆதி தமிழா கதையின் நாயகனாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'கடைசி உலக போர்' எனும் திரைப்படம் , 'போரின் கொடுமைகளை மாறுபட்ட கதை களத்தில் நேர்த்தியாக விவரித்திருக்கிறது' என படக் குழுவினர் தெரிவித்துள்ளனர்.
+Here's a 200-character summary:
 
-ஹிப் ஹாப் ஆதி தமிழா இயக்கத்தில் உருவாகி, எதிர்வரும் இருபதாம் திகதி முதல் உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் 'கடைசி உலக போர்' எனும் திரைப்படத்தில் ஹிப் ஹாப் ஆதி தமிழா, அனகா, நட்டி என்கிற நட்ராஜ், சிங்கம் புலி, அழகம் பெருமாள், தலைவாசல் விஜய், ஹரிஷ் உத்தமன், நடன இயக்குநர் கல்யாண், குமரவேல், இளங்கோ குமரன், ஷா ரா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-அர்ஜுன் ராஜா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹிப் ஹாப் ஆதி தமிழா இசையமைத்திருக்கிறார்.
 
-எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஹிப் ஹாப் தமிழா என்டர்டெயின்மென்ட் நிறுவனம் சார்பில் இயக்குநரும், இசையமைப்பாளரும், நடிகருமான ஹிப் ஹாப் ஆதி தமிழா தயாரித்திருக்கிறார்.
+"Last World War", starring Hip Hop Adi Tamil, explores themes of war and destruction. Directed by Adi, it features music by Arjun Raja and a mix of established actors and newcomers. Sundar C praises Adi's growth from composer to multi-talent. The film focuses on the consequences of constant conflict.
+
+🟩
+
+The film 'Last World War', which plays the lead role in the musician, leading star actor and director, Hip Hop Adi Tamil, has been described as the 'Last World War'.
+
+Hip Hop Adi Tamil Movement and released on the twentieth day of the film 'Last World War' in the movie 'Last World War', Hip Hop Adi Tamil, Anaka, Natyam Natraj, Lion Tiger, Alagam Perumal, Thalaivasal Vijay, Harish Uthaman, choreographer KalyanKumaravel, Ilango Kumaran, Shah Rao and many others have been cast.
+
+The film, which is being recorded by Arjun Raja, has composed the Hip Hop Adi Tamil.
+
+The film is being produced as Exan Entertainer and has produced the director, composer and actor Hip Hop Adi Tamil on behalf of Hip Hop Tamil Entertainment Company.
+
+Sundar, director, actor and producer with the film crew. C participated as a special guest.
+
+Sundar C, who congratulated the film crew, said, “I only introduced Adi in the film industry.
 
 ...
 
 [Data](articles/fd90e26f.json)
+
+[Extended Data](ext_articles/fd90e26f.ext.json)
 
 ---
 
@@ -472,21 +500,27 @@ He further said that he has created a political force with a group of principled
 
 ---
 
-### மலையக சாசன பிரகடன நிகழ்வு
+### Hill station proclaim
 
 *2024-09-12 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193515) · `ta`
 
-இந்நாட்டில் வாழும் சமீபத்திய இந்திய வம்சாவளி மலையக தமிழ் இலங்கையர் இனத்தின் எதிர்காலத்தை நிர்ணயிக்கும் முகமாக சஜித் பிரேமதாசவுக்கும் தமிழ் முற்போக்கு கூட்டணிக்கும் இடையிலான இவ்வருடம் ஆகஸ்ட் 6 ஆம் திகதி கொழும்பில் செய்து கொள்ளப்பட்ட புரிந்துணர்வு உடன்படிக்கையின் அடிப்படையிலான மலையக சாசன பிரகடன நிகழ்வு நுவரெலியாவில் தனியார் ஹோட்டலில் நடைபெற்றது.
+Tamil Progressive Alliance meeting in Nuwara Eliya discusses Sajith Premadasa's plans and Upcountry Charter. Mano Ganesan clarifies future strategies. Velusamy Radhakrishnan addresses party splits and warns against Ranil Wickremesinghe's potential win.
 
-இந்நிகழ்வில் தமிழ் முற்போக்கு கூட்டணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான மனோ கணேசன், மற்றும் தொழிலாளர் தேசிய சங்கத்தின் தலைவர் பாராளுமன்ற உறுப்பினர் பழனி திகாம்பரம், மற்றும் மலையக மக்கள் முன்னணியின் தலைவர் மற்றும் பாராளுமன்ற உறுப்பினர் வேலுசாமி ராதாகிருஷ்ணன் ஆகியோரின் தலைமையில் நடைபெற்றது.
+🟩
 
-இந்நிகழ்வில் தமிழ் முற்போக்கு கூட்டணியின் முக்கிய பிரதிநிதிகள்  தோட்ட தலைவர்கள் தலைவிமார்கள்  தேசிய சபை உறுப்பினர்கள் கலந்து கொண்டிருந்தனர்.
+The latest Indian origin of the Tamil Sri Lankan Tamils ​​in the country was held on August 6 between Sajith Premadasa and the Tamil Progressive Alliance in Colombo at a private hotel in Nuwara Eliya.
 
-இந்நிகழ்வில் பாராளுமன்ற உறுப்பினர் மனோ கணேசன் உரையாற்றுகையில் மலையக சாசனம் தொடர்பான விளக்கத்தையும் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவின் எதிர்கால திட்டங்கள் பற்றியும் மக்களுக்கு தெளிவுபடுத்தினார்.
+The event was chaired by Mano Ganesan, the leader of the Tamil Progressive Alliance and Member of Parliament, and the Chairman of the National Association of Workers, Palani Thikambaram, and the leader of the Upcountry People's Front and Velusamy Radhakrishnan.
+
+The main representatives of the Tamil Progressive Alliance, plantation leaders, leaders and members of the National Council were present at the event.
+
+Speaking at the event, Member of Parliament Mano Ganesan made clarity on the future plans of the Presidential candidate Sajith Premadasa and the future plans of the Upcountry Charter.
 
 ...
 
 [Data](articles/bb16c58b.json)
+
+[Extended Data](ext_articles/bb16c58b.ext.json)
 
 ---
 
@@ -774,6 +808,8 @@ Fitch Ratings – Colombo – 12 Sep 2024: Fitch Ratings has assigned MCB Bank L
 
 [Data](articles/003d7ef2.json)
 
+[Extended Data](ext_articles/003d7ef2.ext.json)
+
 ---
 
 ### Elpitiya Pradeshiya Sabha election on October 26
@@ -867,6 +903,8 @@ Sierra Cables was trading flat at 9.80 rupees on Thursday (12). Browns Investmen
 ◼️
 
 [Data](articles/6e1863d8.json)
+
+[Extended Data](ext_articles/6e1863d8.ext.json)
 
 ---
 
@@ -1529,6 +1567,8 @@ election voting intent for August 2024 show Dissanayake and Premadasa led in vot
 ...
 
 [Data](articles/be5a3251.json)
+
+[Extended Data](ext_articles/be5a3251.ext.json)
 
 ---
 

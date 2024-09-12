@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 04:22:10**
+As of **2024-09-13 04:38:00**
 
 ## Newspaper Stats
 
-*Scraped **43,615** Articles*
+*Scraped **43,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 423
 colombotelegraphcom | 427
 islandlk | 2,542
 economynextcom | 2,659
-dailyftlk | 2,899
+dailyftlk | 2,904
 adalk | 4,040
 dailymirrorlk | 4,733
 adaderanalk | 5,117
@@ -26,11 +26,81 @@ adaderanasinhalalk | 7,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,511 (99.8%) of 43,615 articles have been extended.
+43,512 (99.8%) of 43,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Exterminators 352% increase in profit before tax
+
+*2024-09-13 04:19:52* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-352-increase-in-profit-before-tax/34-766685) · `en`
+
+Exterminators PLC, Sri Lanka’s premier pest management and environmental technology company, has remarkably demonstrated financial resilience during FY24, achieving notable profitability despite prevailing economic challenges. The company reported a staggering 167% increase in net profit and an extraordinary 352% rise in profit before tax, alongside a 143% growth in operating profit compared to the previous fiscal year. Notably, while overall sales dipped by 7%, revenue from service activities saw a modest increase of 3%. This commendable performance, however, was not without its hurdles. A significant decline of 85% in revenue from international brands can be attributed to stringent import restrictions and diminished consumer purchasing power, primarily due to economic instability. The impact of increased corporate tax, along with the introduction of value-added tax (VAT) and (SSCL), further exacerbated the challenges.
+
+...
+
+[Data](articles/a05568c2.json)
+
+---
+
+### Planters’ Association of Ceylon to celebrate 170 year legacy at AGM tomorrow
+
+*2024-09-13 04:17:57* · [`dailyftlk`](https://www.ft.lk/business/Planters-Association-of-Ceylon-to-celebrate-170-year-legacy-at-AGM-tomorrow/34-766684) · `en`
+
+Marking a significant milestone in the history of Sri Lanka’s plantation sector, the Planters’ Association of Ceylon (PA) will host its 170th Annual General Meeting (AGM) on Saturday, 14 September at 7 p.m. at the Galadari Hotel, Colombo.
+
+Hayleys PLC Chairman and Chief Executive Mohan Pandithage will preside over this prestigious occasion as the Chief Guest, addressing key stakeholders in the industry.
+
+...
+
+[Data](articles/09c1a6b0.json)
+
+---
+
+### E.B. Creasy Solar partners Sungrow to bring next-level solar power to Sri Lanka
+
+*2024-09-13 04:16:38* · [`dailyftlk`](https://www.ft.lk/business/E-B-Creasy-Solar-partners-Sungrow-to-bring-next-level-solar-power-to-Sri-Lanka/34-766683) · `en`
+
+E.B. Creasy Solar, a division of the esteemed E.B. Creasy & Co., PLC, has taken a remarkable step in Sri Lanka’s renewable energy sector by forming a strategic alliance with Sungrow, a globally recognised leader in solar technology.
+
+With over 500 gigawatts (GW) of installed capacity worldwide as of 2023, Sungrow’s reputation for excellence in the solar industry is well-established. Announced on 10 September, this partnership designates E.B. Creasy Solar as the exclusive sales and service partner for Sungrow solar inverters in Sri Lanka.
+
+This pivotal collaboration represents a substantial advancement towards achieving Sri Lanka’s ambitious renewable energy targets, notably its goal to generate 70% of its electricity from renewable sources by 2030, according to the Sri Lankan Power and Energy Ministry.
+
+...
+
+[Data](articles/ff610929.json)
+
+---
+
+### Pathfinder Foundation presents key policy reports to Presidential candidates, addressing economic recovery and regional connectivity
+
+*2024-09-13 04:12:52* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-presents-key-policy-reports-to-Presidential-candidates-addressing-economic-recovery-and-regional-connectivity/56-766682) · `en`
+
+Pathfinder Foundation Chairman Bernard Goonetilleke, Executive Director Dr. Dayaratna Silva, Convenor Eng. R. W. R. Pemasiri, Program Executive Rumeka Perera and Research Associate Rasangi Kumarihami representing the event
+
+The Pathfinder Foundation, an independent research and advocacy organisation, has published two significant policy documents that were presented to Presidential candidates, including President Ranil Wickremesinghe, SJB leader Sajith Premadasa, Namal Rajapaksa representing SLPP, NPP General Secretary Dr. Nihal Abeysinghe and Dilith Jayaweera of ‘Sarvajana Balaya’ Alliance. Pathfinder Foundation hopes, these reports will provide policy choices available to the next administration, ensuring a path forward for Sri Lanka that combines immediate economic recovery with long-term resilience and growth.
+
+...
+
+[Data](articles/344dd04d.json)
+
+---
+
+### BASL accuses suspended President of misrepresenting facts and misleading media
+
+*2024-09-13 04:11:11* · [`dailyftlk`](https://www.ft.lk/news/BASL-accuses-suspended-President-of-misrepresenting-facts-and-misleading-media/56-766681) · `en`
+
+The Bar Association of Sri Lanka (BASL) has accused its suspended President Kaushalya Nawaratna, PC, of misrepresenting facts and spreading false information regarding the BASL Constitution and the findings of the Special Committee on the JICA-BASL Program. The allegations came to light after several media publications and YouTube interviews referenced Nawaratna’s statements.
+
+In an official statement, the BASL clarified the provisions of its Constitution concerning the recent election of Deputy President Anura Meddegoda, PC, at the Bar Council meeting held on 31 August. The BASL emphasised that there is no constitutional barrier to Meddegoda’s appointment, countering Nawaratna’s claims.
+
+...
+
+[Data](articles/515b5b68.json)
+
+---
 
 ### Attack on school in Gaza: 18 killed
 
@@ -2353,111 +2423,5 @@ Dissanayake also accused Premadasa of making promises about what he will give pe
 [Data](articles/7b94b775.json)
 
 [Extended Data](ext_articles/7b94b775.ext.json)
-
----
-
-### Will be closed on the 20th
-
-*2024-09-12 11:44:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20ஆம்-திகதி-மூடப்படும்/175-343665) · `ta`
-
-Motor Transport Department Head Office in Narahenpitiya serves as a polling station for the upcoming presidential election. The office will close on the 20th to prepare for the event.
-
-🟩
-
-The Head Office of the Motor Transport Department in Narahenpitiya has been appointed as a voting center on the presidential election.
-
-The Department of Motor Traffic will be closed on the 20th of this month to provide the necessary facilities.
-
-◼️
-
-[Data](articles/e2beddf8.json)
-
-[Extended Data](ext_articles/e2beddf8.ext.json)
-
----
-
-### Parliament Speaker signs bill to raise minimum wages
-
-*2024-09-12 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101912/parliament-speaker-signs-bill-to-raise-minimum-wages) · `en`
-
-Sri Lanka’s Parliament Speaker Mahinda Yapa Abeywardena Wednesday signed a bill to raise the monthly minimum wage by 12.5 per cent, days ahead of the island nation’s presidential elections.
-
-The Speaker endorsed the certificate on the bill titled ‘National Minimum Wage of Workers (Amendment) Bill’ in accordance with article 79 of the Constitution, the Parliament’s Media office said in a statement.
-
-The second reading debate on the bill to amend the National Minimum Wage Act No. 3 of 2016 was held in Parliament on September 3. The bill was passed without amendments and a vote.
-
-◼️
-
-[Data](articles/a6ccbd9d.json)
-
-[Extended Data](ext_articles/a6ccbd9d.ext.json)
-
----
-
-### AKD, Sajith lead but with declines; rise in support for Ranil; no one likely to poll 50 pct: IHP
-
-*2024-09-12 11:32:00* · [`economynextcom`](https://economynext.com/akd-sajith-lead-but-with-declines-rise-in-support-for-ranil-no-one-likely-to-poll-50-pct-ihp-179341/) · `en`
-
-ECONOMYNEXT — Presidential candidates Anura Kumara Dissanayake and Sajith Premadasa led in voting preferences for August 2024, though with small declines for both, with a rise in support observed for President Ranil Wickremesinghe from March through August, according to an independent study, which also found that no candidate is likely to poll close to 50 percent.
-
-The Institute for Health Policy (IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS) MRP provisional estimates of presidential
-
-election voting intent for August 2024 show Dissanayake and Premadasa led in voting preferences of all adults ahead of the September election.
-
-...
-
-[Data](articles/be5a3251.json)
-
-[Extended Data](ext_articles/be5a3251.ext.json)
-
----
-
-### Tourist arrivals close to 1400,000
-
-*2024-09-12 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200939) · `si`
-
-Sri Lanka tourism: 14 million foreign visitors as of Sept 2023. SLTDA reports increase from 1.4 million in Feb 2023. Major sources: India, Britain, Russia, Germany, China. Total arrivals last year: 1,487,303.
-
-🟩
-
-The number of foreign tourists arrived in the island this year is nearly 14 million.
-
-The Sri Lanka Tourism Development Authority (SLTDA) has stated that the total number of tourists arrived in the island from the first to September 8 to September 08.
-
-The number of tourists had arrived in the island last February and 218,350.
-
-Tourist arrivals from January and March have also arrived in Sri Lanka.
-
-This is a tourist arrivals in India, British and Russia, Germany, China.
-
-The total number of tourists arrived in Sri Lanka last year was 1,487,303.
-
-◼️
-
-[Data](articles/a86f83c4.json)
-
-[Extended Data](ext_articles/a86f83c4.ext.json)
-
----
-
-### Permanent solution to the problem of missing persons within the next 3 years: President
-
-*2024-09-12 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193473) · `ta`
-
-President Ranil Wickremesinghe promises permanent solution to missing persons issue within 3 years, including responsibility and funding allocation.
-
-🟩
-
-President Ranil Wickremesinghe has said that a permanent solution will be given within the next three years to the issue of the missing persons.
-
-President Ranil Wickremesinghe said this in response to their questions in Colombo today.
-
-President Ranil Wickremesinghe added that it will carry out responsibility and funding for the missing persons in particular.
-
-◼️
-
-[Data](articles/4095e0ed.json)
-
-[Extended Data](ext_articles/4095e0ed.ext.json)
 
 ---

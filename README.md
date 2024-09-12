@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 17:38:42**
+As of **2024-09-12 17:59:01**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 7,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,286 (99.4%) of 43,561 articles have been extended.
+43,291 (99.4%) of 43,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
 
-### සංවර්ධන නිලධාරීන් ගුරු සේවයට එක්කිරීමේ නඩු සමථයට
+### Development Officers have cases suicide in the teacher service
 
 *2024-09-12 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200951) · `si`
 
-සංවර්ධන නිලධාරීන් ගුරු සේවයට අන්තර්ග්‍රහණය කිරීම පිළිබඳ නඩු සමථයකට පත්ව ඇත.
+Development Officers' cases settled in teacher service. Court approves Cabinet decision. Parties can appeal. President agrees to absorb development officers into teaching roles. Education Minister clarifies recruitment process.
 
-මේ පිළිබඳ නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන අමාත්‍යාංශය පවසා සිටියේ, සංවර්ධන නිලධාරීන් ගුරු සේවයට අන්තර්ග්‍රහණය කිරීම පිළිබඳ ව නඩු විභාගය ගැනුණු අතර, අද (12) දින එම නඩු සමථයට පත් වූ බවයි.
+🟩
 
-එම නඩු සමථයට පත් වීම පිළිබඳ තීරණය නිකුත් කරමින් අධිකරණය දන්වා ඇත්තේ, දැනට අධිකරණයට ඉදිරිපත් ව ඇති අමාත්‍ය මණ්ඩල අනුමැතිය ඇති සමථ කොන්දේසි අනුව ක්‍රියාකළ යුතු බවයි.
+Development Officers have been settled in the teacher's absorption into the teacher service.
 
-ක්‍රියාත්මකවීමේ ස්වභාවය අනුව අවශ්‍ය වුවහොත් අදාළ පාර්ශවයන්ට මෝසමක් මාර්ගයෙන් නැවත නඩුව ආපසු කැඳවීමට අයිතිය ඇති බවත්, එම කරුණු මත නඩුව බහා තබන බවත් අධිකරණය විසින් ප්‍රකාශයට පත් කර ඇත.
+The Ministry of Education stated that the following cases have been settled today (12).
 
-මේ සඳහා මැදිහත්වීම්වන පෙත්සම්කාර පාර්ශවය වෙනුවෙන් ජනාධිපති නීතිඥ වී.කේ. චොක්සි මහතා සහ නීතිඥ ඩී. එස්. රත්නායක මහත්මිය පෙනී සිටි අතර, වගඋත්තරකරුවන් වෙනුවෙන් නීතිපති දෙපාර්තමේන්තුව පෙනීසිටියේ ය.
+The court has informed the court to act in accordance with the approval of the Cabinet of Ministers in the court.
 
-රජයේ පාසල්වල දැනට ගුරුවරුන් ලෙස සේවයේ නියුක්තව සිටින සංවර්ධන නිලධාරීන්ව ගුරු සේවයට අන්තර්ග්‍රහණය කරගැනීමට ජනාධිපතිවරයා ද මීට ඉහතදී සිය එකඟත්වය පළ කළේය.
+According to the courts, the relevant parties have the right to recall the case again and that the case will be taken back by a motion if necessary.
 
-...
+President's Counsel on behalf of the petitioner. Mr. Chokzy and lawyer D. S. Ms. Ratnayake appeared and the Attorney General's Department sat on respondents.
+
+The President has also agreed to absorb development officers who are currently employed in public schools to the teaching work.
+
+The Minister of Education Susil Premajayantha said that the Minister of Education Susil Premajayantha said that the development officials were recruited as trainees and absorbed the development officers as trainees.
+
+◼️
 
 [Data](articles/d213a56a.json)
+
+[Extended Data](ext_articles/d213a56a.ext.json)
 
 ---
 
@@ -69,6 +77,8 @@ He further stated that after the people vote on the morning of September 21, the
 ...
 
 [Data](articles/05c833aa.json)
+
+[Extended Data](ext_articles/05c833aa.ext.json)
 
 ---
 
@@ -94,19 +104,25 @@ Former Health Minister Keheliya Rambukwella has been ordered to appear before th
 
 ---
 
-### ඇල්පිටිය ප්‍රාදේශීය සභා මැතිවරණය පැවැත්වීමේ දිනය නියම කරයි
+### Elpitiya Pradeshiya Sabha elections set up
 
 *2024-09-12 16:48:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-ප්‍රාදේශීය-සභා-මැතිවරණය-පැවැත්වීමේ-දිනය-නියම-කරයි/11-411918) · `si`
 
-ඇල්පිටිය ප්‍රාදේශීය සභා මැතිවරණ ඔක්තෝම්බර් 26 වැනිදා පැවැත්වීමට තීරණය කර තිබේ.
+Elpitiya Pradeshiya Sabha elections summary: Nominations accepted on Oct 12. Eight political parties and one independent group submitted candidates. Election held on Oct 26.
 
-ඇල්පිටිය ප්‍රාදේශීය සභා ඡන්ද විමසීමට අදාළ ව නාමයෝජනා භාරගැනීම  අද (12දා) දහවල් 12න් අවසන් කිරීමට කටයුතු කෙරිණි.
+🟩
 
-ඒ අනුව පිළිගත් දේශපාලන පක්ෂ 09ක් නාමයෝජනා පත්‍ර භාරදී ඇති අතර, එමෙන්ම ස්වාධීන කණ්ඩායම් දෙකක් ද නාමයෝජනා භාරදී තිබේ.
+Elpitiya Pradeshiya Sabha elections have been held on October 26.
+
+The acceptance of nominations for the Elpitiya Pradeshiya Sabha election was completed today (12).
+
+Accordingly, there are eight recognized political parties have submitted nominations and an independent group has handed over nominations.
 
 ◼️
 
 [Data](articles/d3dda2f1.json)
+
+[Extended Data](ext_articles/d3dda2f1.ext.json)
 
 ---
 
@@ -394,25 +410,31 @@ Its administration is notified to remove the university premises at 6.00 pm toda
 
 ---
 
-### ඡන්දය දාන්න මේ අනන්‍යතා ලේඛන වලින් එකක් අරන් යන්න
+### Get one of these identity documents to vote
 
 *2024-09-12 15:15:20* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-දාන්න-මේ-අනන්‍යතා-ලේඛන-වලින්-එකක්-අරන්-යන්න/11-411916) · `si`
 
-ජනාධිපතිවරණයට ඡන්දය ප්‍රකාශ කිරීමේදී වලංගු අනන්‍යතා ලේඛන මැතිවරණ කොමිෂන් සභාව විසින් ප්‍රකාශයට පත්කර තිබේ.
+To vote, bring one: national ID, reverend/priest ID, confirmation letter, or temporary disabled person ID. These must be presented at polling stations.
 
-පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව මඟින් නිකුත් කර ඇති ජාතික හැඳුනුම්පත
+🟩
 
-පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව මගින් නිකුත් කරනු ලබන පූජ්‍ය/ පූජක හැඳුනුම්පත
+The Elections Commission has published a valid identity card for the election for the presidential election.
 
-පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව මගින් නිකුත් කරනු ලබන ජාතික හැඳුනුම්පත් තොරතුරු තහවුරු කිරීමේ ලිපිය
+National Identity Card issued by the Department of Registration of Persons
 
-ආබාධිත තැනැත්තන් සඳහා මැතිවරණ කොමිෂන් සභාව විසින් නිකුත් කරනු ලබන තාවකාලික හැඳුනුම්පත
+Reverene / priest ID issued by the Department of Registration of Persons
 
-යන ලේඛන වලින් එකක් තිබීම ඡන්දය භාවිතා කිරීමේදී ඉදිරිපත් කිරීම අනිවාර්ය වේ.
+Confirmation letter to the National Identity Card Information issued by the Department of Registration of Persons
+
+Temporary ID issued by the Election Commission for Disabled Persons
+
+Having one of the documents is compulsory to present in voting.
 
 ◼️
 
 [Data](articles/b2331629.json)
+
+[Extended Data](ext_articles/b2331629.ext.json)
 
 ---
 
@@ -2207,6 +2229,8 @@ Notwithstanding the greatness of the organisation’s culture or the exciting va
 ...
 
 [Data](articles/730a6961.json)
+
+[Extended Data](ext_articles/730a6961.ext.json)
 
 ---
 

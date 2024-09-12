@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 21:38:05**
+As of **2024-09-12 21:57:22**
 
 ## Newspaper Stats
 
-*Scraped **43,601** Articles*
+*Scraped **43,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,659
 dailyftlk | 2,899
 adalk | 4,039
 dailymirrorlk | 4,733
-adaderanalk | 5,115
+adaderanalk | 5,116
 tamilmirrorlk | 5,675
 virakesarilk | 6,908
 adaderanasinhalalk | 7,443
@@ -26,25 +26,59 @@ adaderanasinhalalk | 7,443
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,386 (99.5%) of 43,601 articles have been extended.
+43,392 (99.5%) of 43,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
 
-### திருகோணமலையில் அதிகரித்துவரும் சிங்களக் குடியேற்றங்கள்: தமிழ், முஸ்லிம் மக்களின் சரித்திரம் மற்றும் கலாசாரத்தை அழிப்பதே பிரதான நோக்கம் - 'த ஒக்லன்ட் இன்ஸ்டிடியூட்' வெளியிட்டுள்ள புதிய ஆய்வறிக்கையில் சுட்டிக்காட்டு
+### IRD reports 28.5% increase in tax revenue collection so far in 2024
+
+*2024-09-12 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101926/ird-reports-285-increase-in-tax-revenue-collection-so-far-in-2024) · `en`
+
+The Inland Revenue Department (IRD) has announced that the total tax revenue collected for the period from January to August 2024 amounted to Rs. 1,229,245 million.
+
+Compared to the tax revenue collection of Rs. 956,418 million during the same period in 2023, revenue collection has increased by 28.5% in 2024, the department said in a press release.
+
+“This favorable growth can be attributed to several factors, including new tax policies, a gradual improvement in the country’s economic situation, and enhanced tax administration efficiency,” the Commissioner General of Inland Revenue said.
+
+The department extended its gratitude to all citizens and entities who have contributed to the nation through their tax payments, and said it remains committed to providing efficient and effective tax administration services to its valued taxpayers.
+
+The breakdown of tax revenue collection by tax type is as follows:
+
+◼️
+
+[Data](articles/f40de06f.json)
+
+[Extended Data](ext_articles/f40de06f.ext.json)
+
+---
+
+### Increasing Sinhalese settlements in Trincomalee: The main purpose is to destroy the history and culture of the Tamil and Muslim people - in a new study published by 'The Okland Institute'
 
 *2024-09-12 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/193536) · `ta`
 
-யுத்தத்தின் பின்னர் கடந்த 15 ஆண்டுகளாக தொடர்ந்தும் இராணுவக் கண்காணிப்பின் கீழ் இருக்கும் திருகோணமலை மாவட்டத்தில் சிங்கள மக்களின் ஆதிக்கம் விரிவடைந்துவருகின்றது.
+Here's a 200-character summary:
 
-வடக்கு, கிழக்கு தமிழ் மற்றும் முஸ்லிம் மக்களின் ஒன்றிணைந்த தாயகம் என்ற கோட்பாட்டை இல்லாமல் செய்யும் அதேவேளை, அவர்கள் செறிந்துவாழும் பகுதிகளில் அவர்களது சரித்திரம் மற்றும் கலாசாரம் என்பவற்றை முற்றாக அழிப்பதே இந்த நில அபகரிப்பு முயற்சிகளின் பிரதான இலக்காகும் என த ஒக்லன்ட் இன்ஸ்டிடியூட்டினால் வெளியிடப்பட்டுள்ள நில அபகரிப்பு தொடர்பான புதிய ஆய்வறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
 
-அமெரிக்காவின் கலிபோர்னியா மாநிலத்தில் இயங்கிவரும் 'த ஒக்லன்ட் இன்ஸ்டிடியூட்' என்ற கல்வியகத்தின் ஸ்தாபகரும் நிறைவேற்றுப்பணிப்பாளருமான அனுராதா மிட்டால்
+
+Sinhalese settlements in Trincomalee aim to erase Tamil/Muslim heritage. Study reveals 27% increase in Sinhalese population due to land grabs, affecting 41,164 acres. Military surveillance and Buddhist expansion cited as factors.
+
+🟩
+
+The dominance of the Sinhalese in the Trincomalee district, which has been under military surveillance for the past 15 years since the war, has been expanding.
+
+In a new study on land grabbing published by The Okland Institute, the main goal of these land grabbing efforts is to completely destroy their history and culture in the area where they are united in the North, East Tamil and Muslim people.
+
+The founder and executive of the 'The Okland Institute' operating in the state of California, USA
+
+A 32 -page study titled 'The Okland Institute' in California, USA, has published a 32 -page study titled 'Land Acquisition of Sri Lanka' under the occupation of land grabbing data and documentary data on land grabbing in the Trincomalee district.
 
 ...
 
 [Data](articles/91fd23fc.json)
+
+[Extended Data](ext_articles/91fd23fc.ext.json)
 
 ---
 
@@ -146,19 +180,27 @@ Therefore, we are ready to power the National Policy of Sports of the Sports Sec
 
 ---
 
-### நாட்டின் ஒருமைப்பாட்டை நாமல் ராஜபக்ஷவால் மாத்திரமே பாதுகாக்க முடியும் - மஹிந்த ராஜபக்ஷ
+### Only Namal Rajapaksa can protect the integrity of the country - Mahinda Rajapaksa
 
 *2024-09-12 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/193535) · `ta`
 
-நாட்டை பிளவுப்படுத்தாமல், பௌத்த மதத்துக்கு முன்னுரிமை வழங்கி ஏனைய மதங்களின் உரிமைகளை பாதுகாப்பதாக வெளிப்படையாக குறிப்பிடும் தற்றுணிபு எமது  ஜனாதிபதி வேட்பாளருக்கே உண்டு. நாட்டின் ஒருமைப்பாட்டை நாமல் ராஜபக்ஷவால் மாத்திரமே பாதுகாக்க முடியும். தாய்நாட்டின் மீது பற்றுக் கொண்டுள்ள முற்போக்கான மக்கள் நாட்டின் எதிர்காலத்தை கருத்திற் கொண்டு தீர்மானம் எடுக்க வேண்டும். அரசியலுக்காக கொள்கைகளை காட்டிக் கொடுக்கவில்லை என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+Mahinda Rajapaksa claims Namal Rajapaksa alone can protect Sri Lanka's integrity. He criticizes previous governments' handling of loans and development. Refers to 2019 protests and 2022 Aragalaya, suggesting he prevented major changes. Promises no policy betrayal for political gain.
 
-பெலியத்தை நகரில் புதன்கிழமை (11) மாலை  இடம்பெற்ற தேர்தல் பிரச்சாரக் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-நாட்டின் எதிர்காலத்தை தீர்மானிக்கும் சக்தியாகவே ஸ்ரீ லங்கா பொதுஜன பெரமுன இன்று எழுச்சிப் பெற்றுள்ளது. வைராக்கிய அரசியல் இல்லாத நாட்டை முன்னேற்றும் பொறுப்பு எமக்கு மாத்திரமே உள்ளது. சிறந்த தரப்பினர் எம்முடன் உள்ளார்கள். விலகிச் சென்றவர்கள் மீண்டும் எம்முடன் ஒன்றிணைவார்கள்.
+Our presidential candidate has explicitly referred to the rights of other religions and protecting the rights of other religions without dividing the country.. Namal Rajapakse can only protect the integrity of the country. The progressive people who have been on their homeland should make a decision to consider the future of the country. Former President Mahinda Rajapakse said that policies were not betrayed for politics.
+
+He was speaking at the election campaign meeting held in Beliam on Wednesday evening.
+
+Sri Lanka PA has been uprising today. We are the only responsibility to improve a country without zealous politics. The best side is with us. Those who have left will come together again with us.
+
+The presidential election is decisive. The country went backwards by 30 years of war. We ended the war and developed the country. We have confirmed national security. When the country progressed, we were defeated by the political intrigue in 2015. This political maneuver has not ended today.
 
 ...
 
 [Data](articles/bede11e6.json)
+
+[Extended Data](ext_articles/bede11e6.ext.json)
 
 ---
 
@@ -246,21 +288,27 @@ Responding to a question raised by journalists that 80 ministers had received a 
 
 ---
 
-### இலங்கைத் தமிழரசுக்கட்சி யாருக்கு ஆதரவு? - ப.சத்தியலிங்கம்
+### Who supports the Sri Lankan Tamil party?- P. Sathiyalingam
 
 *2024-09-12 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193534) · `ta`
 
-எதிர்வரும் ஜனாதிபதித்தேர்தலில் சஜித் பிரேமதாஸவை ஆதரிப்பதென மேற்கொள்ளப்பட்ட தீர்மானத்தில் எவ்வித மாற்றமும் இல்லை எனவும், இதுகுறித்த அடுத்தகட்ட நடவடிக்கைகள் பற்றி எதிர்வரும் 16 ஆம் திகதி தேர்தல் குழு கூடி ஆராய்ந்து மக்களுக்கு அறிவிக்கும் எனவும் இலங்கைத் தமிழரசுக்கட்சியின் பொதுச்செயலாளர் ப.சத்தியலிங்கம் தெரிவித்துள்ளார்.
+Sri Lankan Tamil party supports Sajith Premadasa for 2024 presidency. Party's Election Committee to meet on 16th to discuss implementation and review stance publicly.
 
-2024 ஆம் ஆண்டு ஜனாதிபதித்தேர்தலில் சஜித் பிரேமதாஸவை ஆதரிப்பது தொடர்பான இலங்கைத் தமிழரசுக்கட்சியின் தீர்மானத்தில் எவ்வித மாற்றமும் இல்லை.
+🟩
 
-வவுனியாவில் கூடிய தேர்தல் தொடர்பான குழுவின் கூட்டத்தில் கட்சியின் தீர்மானத்தை நடைமுறைப்படுத்துவது குறித்தும், சஜித் பிரேமதாஸவின் தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிடப்பட்ட தமிழ் மக்களின் அரசியல் அபிலாஷைகளைக் காலதாமதமின்றி நடைமுறைப்படுத்துவதற்கான ஒழுங்குகள் குறித்தும் அவருடன் கலந்துரையாடித் தீர்மானிப்பது எனவும் முடிவு எடுக்கப்பட்டது.
+The decision to support Sajith Premadasa in the upcoming presidential election has no change in the resolution and that the election committee will convene on the 16th of this month, said the general secretary of the Sri Lankan Tamil party, P. Sathiyalingam.
 
-அத்துடன் எதிர்வரும் 16 ஆம் திகதி மீண்டும் கூடும் தேர்தல் குழு இவ்விடயங்கள் தொடர்பில் முன்னேற்ற மீளாய்வைச் செய்து, அதுபற்றி மக்களுக்கு அறிவிக்கும் என அவ்வறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+There is no change in the resolution of the Sri Lankan Tamil party on the support of Sajith Premadasa in the 2024 presidential election.
+
+It was decided to discuss the implementation of the party's decision at a meeting of the Election Committee in Vavuniya and to discuss the party's resolution and to discuss the political aspirations of the Tamil people mentioned in the election manifesto of Sajith Premadasa.
+
+It has also stated that the Election Committee will re -meet on the 16th of this month and review the issue and announce the public.
 
 ◼️
 
 [Data](articles/3cb3718f.json)
+
+[Extended Data](ext_articles/3cb3718f.ext.json)
 
 ---
 
@@ -384,33 +432,49 @@ Proceeds from the bond issuance will be used to finance eligible green projects 
 
 ---
 
-### இலங்கை தொடர்பான 51/1 தீர்மானம் மேலும் இருவருடங்களுக்குக் காலநீடிப்பு செய்யப்படுமா? - ஒக்டோபர் 7 ஆம் திகதி தீர்மானம் எட்டப்படும்
+### Will the 51/1 resolution on Sri Lanka be time for two more years?- The resolution will be reached on October 7
 
 *2024-09-12 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193533) · `ta`
 
-இலங்கை தொடர்பில் ஏற்கனவே நிறைவேற்றப்பட்டு, நடைமுறையில் இருக்கும் 51/1 தீர்மானத்தை மேலும் ஒன்று அல்லது இரண்டு வருடங்களுக்குக் காலநீடிப்புச் செய்வது குறித்து ஆராயப்பட்டுவரும் நிலையில், எதிர்வரும் ஒக்டோபர் 7 ஆம் திகதி பேரவையில் அதுகுறித்த தீர்மானம் எட்டப்படுமென எதிர்பார்க்கப்படுகின்றது.
+Sri Lanka UNHRC 51/1 resolution renewal Oct 7 no referendum unless new government opposes
 
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 57 ஆவது கூட்டத்தொடர் கடந்த திங்கட்கிழமை (9) ஜெனிவாவில் ஆரம்பமானது. அன்றைய தினம் உலகளாவிய மனித உரிமைகள் நிலைவரம் தொடர்பான ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டர்க்கின் உரை மற்றும் மியன்மார் மனித உரிமைகள் நிலைவரம் தொடர்பான எழுத்துமூல அறிக்கை, அதன்மீதான விவாதம் என்பவற்றைத் தொடர்ந்து இலங்கை விவகாரம் குறித்து ஆராயப்பட்டது.
+🟩
+
+The resolution is expected to be reached on October 7, with the existing 51/1 resolution of Sri Lanka and the existing 51/1 resolution for more one or two years.
+
+The 57th session of the United Nations Human Rights Council commenced in Geneva last Monday (9). On that day, the Sri Lankan affair was examined following the speech of UN Human Rights Council Volkar Turk's speech on the global human rights situation and the written report on the Myanmar human rights situation and the debate on it.
+
+UN Human Rights High Commissioner Volkar Turk addresses the progress of the content implementation of the 51/1 resolution titled 'Reconciliation, Liability and Human Rights Upgrading in Sri Lanka' which has already been passed at the Human Rights Council on Sri Lanka.
 
 ...
 
 [Data](articles/4bd3852f.json)
 
+[Extended Data](ext_articles/4bd3852f.ext.json)
+
 ---
 
-### அச்சுறுத்தல்களால் ரணில் விக்ரமசிங்கவின் வெற்றியை தடுக்க முடியாது - ஆஷு மாரசிங்க
+### Ranil Wickremesinghe's success cannot be prevented by threats - Ashu Marasinghe
 
 *2024-09-12 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/193532) · `ta`
 
-தேர்தலில் பின்னுக்குத் தள்ளப்படுவதை உணரும்போது தேசிய மக்கள் சக்தி மக்களை அச்சுறுத்தும் நடவடிக்கையை ஆரம்பித்துள்ளது. எந்த அச்சுறுத்தலாலும் ரணில் விக்ரமசிங்கவின் வெற்றியைத் தடுக்க முடியாது. அவர்களுக்கு மக்கள்  புள்ளடி மூலம் எதிர்வரும் 21ஆம் திகதி பதிலளிப்பார்கள் என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷுமாரசிங்க தெரிவித்தார்.
+Ranil Wickremesinghe's victory unlikely to be thwarted by threats, says Ashu Marasinghe. National People's Power's intimidation tactics backfiring as public awareness grows about their false claims and unrealistic promises.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை (12) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-தேர்தல் சூடு பிடித்துள்ள நிலையில் அனுரகுமார திஸாநாயக்க மற்றும் சஜித் பிரேமதாச முன்னர் இருந்ததைவிட பின்தள்ளப்பட்டு தோல்வியின் விளிம்புக்கு சென்றுள்ளனர். இவர்கள் தேர்தல் பிரசார கூட்டங்களில் சேறு பூசும் பிரசாரமே செய்கிறார்கள். நாட்டை பொறுப்பேற்று எவ்வாறு முன்னேற்றுவது என்ற திட்டங்கள் எதுவும் இவர்களிடம் இல்லை. நிவாரணம் வழங்கும் திட்டமே இவர்களிடம் இருக்கின்றனர். அதனையே அவர்கள் தெரிவித்து வருகின்றனர்.
+The national people's power has begun a action to threaten people as it feels behind the election. Ranil Wickremesinghe's success cannot be prevented by any threat. Former United National Party (UNP) parliamentarian Ashumarasinghe said that people will respond to them on the 21st of this month.
+
+He was speaking at a press conference held on Thursday (12) at the UNP headquarters.
+
+Anuragumara Dissanayake and Sajith Premadasa have gone to the brink of failure as the election is hot. They make a muddy campaign at election campaign meetings. They do not have any plans to take responsibility for the country. They have a relief plan. They are saying the same thing.
+
+In particular, the national people's power led by Anuragumara Dissanayaya has created a wave of artificial population and is deceiving the people to take over the regime.. Since this fake presence is currently exposed, the popular support for them is declining.
 
 ...
 
 [Data](articles/c3473ba6.json)
+
+[Extended Data](ext_articles/c3473ba6.ext.json)
 
 ---
 
@@ -2419,35 +2483,5 @@ The company has been recruited by Western Automobile Eshemebar Eshemebar Lirm, i
 [Data](articles/5dd1a8ea.json)
 
 [Extended Data](ext_articles/5dd1a8ea.ext.json)
-
----
-
-### JVP. After the passage of the compass, the bell and the red did not abandon
-
-*2024-09-12 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/193454) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-JVP claims government replacing passports with fake photos. Criticizes Ranil Wickremesinghe's leadership during crises. Accuses him of abandoning responsibilities. Blames economic issues on Gotabhaya Rajapaksa's regime. Claims JVP still active despite changes. Urges voters to choose wisely.
-
-🟩
-
-The Minister of Investment Promotion Amunugama has said that the government's registered criminals will replace the passport photo and get a visa in a different name, as the People's Liberation Front (JVP) is hiding its previous face as a compass.
-
-He said that the JVP changed its color and identity and disappeared from the compass, but they did not give up the bell and the red.
-
-Kandy is supported by Independent candidate Ranil Wickremesinghe. L. He said this at a meeting held at the Senanayake Library Auditorium on Tuesday (10).
-
-We have always been saying that Ranil Wickremesinghe has no backbone on political platforms. If Ranil Wickremesinghe had not taken over the country when the country was in danger, our country would have met the fate of Bangladesh today.
-
-At that time, when the country was in danger, we knew whether or not the backbone was when the leader was in danger.
-
-...
-
-[Data](articles/3fd0ff31.json)
-
-[Extended Data](ext_articles/3fd0ff31.ext.json)
 
 ---

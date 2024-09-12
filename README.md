@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 00:37:38**
+As of **2024-09-13 00:54:17**
 
 ## Newspaper Stats
 
-*Scraped **43,614** Articles*
+*Scraped **43,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,899
 adalk | 4,040
 dailymirrorlk | 4,733
 adaderanalk | 5,117
-tamilmirrorlk | 5,677
+tamilmirrorlk | 5,678
 virakesarilk | 6,912
 adaderanasinhalalk | 7,447
 
@@ -26,9 +26,33 @@ adaderanasinhalalk | 7,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,465 (99.7%) of 43,614 articles have been extended.
+43,468 (99.7%) of 43,615 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-13 (Friday)
+
+### Attack on school in Gaza: 18 killed
+
+*2024-09-13 00:26:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-பாடசாலை-மீது-தாக்குதல்-18-பேர்-பலி/50-343706) · `ta`
+
+Israeli attack on UN school in Gaza kills 18, including 6 UN staff members, as of October 2023.
+
+🟩
+
+About 18 people have been killed in an Israeli attack on a school located in the central part of Gaza.
+
+The attack has been carried out by the United Nations on the school since October 2023.
+
+The victims of the attack include six employees of the United Nations Relief and Work Agency.. (A)
+
+◼️
+
+[Data](articles/d1d299d6.json)
+
+[Extended Data](ext_articles/d1d299d6.ext.json)
+
+---
 
 ### 2024-09-12 (Thursday)
 
@@ -2435,25 +2459,5 @@ President Ranil Wickremesinghe added that it will carry out responsibility and f
 [Data](articles/4095e0ed.json)
 
 [Extended Data](ext_articles/4095e0ed.ext.json)
-
----
-
-### New ward complex for Kataragama Hospital in Kataragama Devalaya
-
-*2024-09-12 11:00:13* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-දේවාලයෙන්-කතරගම-රෝහලට-නව-වාට්ටු-සංකීර්ණයක්/11-411911) · `si`
-
-Kataragama Hospital receives aid for new ward complex near Ruhunu Kataragama Maha Devalaya. Construction expected to finish within three months.
-
-🟩
-
-Steps have been taken to construct a new ward complex to the Kataragama District Hospital on aid to the aid of the historic Ruhunu Kataragama Maha Devalaya.
-
-The ward complex is to be completed within three months.
-
-◼️
-
-[Data](articles/f6b81b3a.json)
-
-[Extended Data](ext_articles/f6b81b3a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 22:37:59**
+As of **2024-09-12 22:56:05**
 
 ## Newspaper Stats
 
-*Scraped **43,608** Articles*
+*Scraped **43,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,659
 dailyftlk | 2,899
 adalk | 4,040
 dailymirrorlk | 4,733
-adaderanalk | 5,116
+adaderanalk | 5,117
 tamilmirrorlk | 5,675
 virakesarilk | 6,910
-adaderanasinhalalk | 7,446
+adaderanasinhalalk | 7,447
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,430 (99.6%) of 43,608 articles have been extended.
+43,433 (99.6%) of 43,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### Dilith on the only strategic plan representing views of all social classes
+
+*2024-09-12 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101927/dilith-on-the-only-strategic-plan-representing-views-of-all-social-classes) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera stated that he is the only candidate who has presented a strategic plan representing the views of all social stratums, ahead of the presidential election.
+
+He made these remarks while addressing a public rally held in Nittambuwa, under the ‘Dilith Gamata’ series of constituency meetings.
+
+“Green, yellow, green, and purple…. only the covers are different. The work is the same. Instead, we have brought a strategic plan. It is a practical program,” he said.
+
+“After meeting and discussing with farmers, fishermen, laborers, and government servants, we have published a strategic plan that represents the ideas of every person in this country,” Jayaweera added.
+
+◼️
+
+[Data](articles/2623b8d1.json)
+
+[Extended Data](ext_articles/2623b8d1.ext.json)
+
+---
+
+### Sri Lanka is at risk if the restructuring of credit
+
+*2024-09-12 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200959) · `si`
+
+Sri Lanka faces financial risks due to political uncertainty ahead of elections. Investors fear leadership instability post-election. Opposition may restore IMF conditions, complicating government's bond restructuring efforts. Analyst warns election outcome impacts debt market stability.
+
+🟩
+
+As the presidential election is near, the Bloomberg website reveals that it is outstanding the bonds of political uncertainty of political uncertainty.
+
+It is said that after the presidential election, investors have frightened that the leadership of Sri Lanka is afraid of failure in the final stage.
+
+According to the website, this situation has caused this situation is the intensive political uncertainty in the country.
+
+They also point out that if the opposition candidates come to power, they have already stated that they have to restore the conditions of the international Monetary Fund.
+
+The Government of Sri Lanka requires further change the conditions of the consensus with the bonds, but the Bloomberg website says it is difficult to do it before the presidential election.
+
+The strategic analyst of England, which was commented, was also warned that the uncertainty of the results of Sri Lanka bonds and reflects the impact of the results of the recreation of the debt.
+
+◼️
+
+[Data](articles/30f06ad7.json)
+
+[Extended Data](ext_articles/30f06ad7.ext.json)
+
+---
 
 ### Sagith handed over to Premadasa's son - Sajith
 
@@ -2439,53 +2487,5 @@ Minister Ranil Wickremesinghe said that if the main sources of Muslim and farmin
 [Data](articles/a36c3162.json)
 
 [Extended Data](ext_articles/a36c3162.ext.json)
-
----
-
-### I have visas for 10 years in any country in the world
-
-*2024-09-12 10:37:49* · [`adalk`](https://www.ada.lk/breaking_news/ලෝකයේ-ඕනෑම-රටක-වසර-10ක්-ජීවත්වෙන්න-මට-වීසා-තිබෙනවා/11-411909) · `si`
-
-Sri Lanka Defense Minister Tiran Alles claims no visa needed for international travel. He denies opposition allegations about passport/visa issues. Emphasizes government focus on justice and combating drugs post-election.
-
-🟩
-
-People's Defense Minister Tiran Alles says he does not need to visas and live in order to live in any country in any country in any country in the world.
-
-The media said that he had come to the Dalada Maligawa yesterday (11), he said that the other ministers would not know whether they were acquired by the other Ministers and that they do not need to take away.
-
-Mr. Alles stressed for a query raised by four ministers to leave the country's visas for leaving the country after the next presidential election.
-
-The Minister said that it would be false if the opposition MP had made such accusations.
-
-The Minister emphasized that President Ranil Wickremesinghe said that President Ranil Wickremesinghe was definitely victory at the next presidential election.. The minister has already been built for some degree, said the present President should be given another time to build the country.
-
-...
-
-[Data](articles/042cb5a1.json)
-
-[Extended Data](ext_articles/042cb5a1.ext.json)
-
----
-
-### Sajith claims Ranil and Anura are conspiring to defeat him
-
-*2024-09-12 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101911/sajith-claims-ranil-and-anura-are-conspiring-to-defeat-him) · `en`
-
-The presidential candidate of the ‘Samagi Jana Balavegaya’ (SJB), Sajith Premadasa says that he has never supported the groups that plunged the country into economic crisis.
-
-Addressing a public rally held in the Kirulapone area, he stated that even if the opposing parties conspire to prevent his victory, their efforts would be futile.
-
-“Today, the only goal of that political couple is to prevent the victory of Sajith Premadasa. They are engaging in every possible conspiracy. But remember that both of them were members of the previous cabinets. They both sat alongside Rajapaksas in the cabinet”, he added
-
-The Opposition Leader further stated that neither he nor the ‘Samagi Jana Balavegaya’ have ever associated with the group that drove the country into bankruptcy.
-
-“Therefore, remember that on the 21st, use your valuable vote and take the initiative for a progressive turning point for the people of the country,” Premadasa said.
-
-◼️
-
-[Data](articles/f7ba2873.json)
-
-[Extended Data](ext_articles/f7ba2873.ext.json)
 
 ---

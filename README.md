@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 22:11:45**
+As of **2024-09-12 22:23:43**
 
 ## Newspaper Stats
 
-*Scraped **43,607** Articles*
+*Scraped **43,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,65 +20,109 @@ dailymirrorlk | 4,733
 adaderanalk | 5,116
 tamilmirrorlk | 5,675
 virakesarilk | 6,910
-adaderanasinhalalk | 7,445
+adaderanasinhalalk | 7,446
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,404 (99.5%) of 43,607 articles have been extended.
+43,416 (99.6%) of 43,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
 
-### தெற்காசிய கனிஷ்ட ஆண்களுக்கான 100 மீற்றர் சட்டவேலி ஓட்டத்தில் இலங்கையின் சந்துனுக்கு தங்கம்
+### Sagith handed over to Premadasa's son - Sajith
+
+*2024-09-12 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200958) · `si`
+
+Sajith Premadasa hands power to his son Sajith. He promises a "golden age" for Sri Lanka's tea industry. Speaking at a rally, he vows to lead the country towards development without fear.
+
+🟩
+
+Says the presidential candidate Sajith Premadasa, the president of the Jonishabra Age of the tea industry under its control, says the golden age of the tea industry will produce the golden age.
+
+He was speaking at the Baddegama President who was organized for the victory of the presidential candidate Sajith Premadasa, the presidential election.
+
+"The future of this country is for this tim to this tim without fear. Provide temporary stewardship of the country. We will bring a developed age. "
+
+◼️
+
+[Data](articles/4873ad5a.json)
+
+[Extended Data](ext_articles/4873ad5a.ext.json)
+
+---
+
+### Gold for Sri Lanka's Chandan in the 100 -meter legal run for South Asian Junior Men
 
 *2024-09-12 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/193537) · `ta`
 
-சென்னை ஜவஹர்லால் நேரு விளையாட்டரங்கில் நடைபெற்றுவரும் நான்காவது தெற்காசிய கனிஷ்ட மெய்வல்லுநர் சம்பியன்ஷிப்பின் இரண்டாம் நாளான வியாழக்கிழமை (12) இலங்கைக்கு மேலும் ஒரு தங்கம், ஒரு வெள்ளி, 8 வெண்கலப்  பதக்கங்களுடன் மொத்தம் 10 பதக்கங்கள் கிடைத்தது.
+Sri Lanka wins 10 medals at South Asian Junior Athletics Championship: 1 gold, 1 silver, 8 bronze. Chandan wins 100-meter dash gold. Omel Shashinda takes silver in 400-meter race.
 
-போட்டியின் முதல் நாளன்று இலங்கைக்கு 3 தங்கம், 3 வெள்ளி, 3 வெண்கலப் பதக்கங்கள் கிடைத்திருந்தன.
+🟩
 
-இதற்கு அமைய இரண்டாம் நாள் போட்டி முடிவில் இலங்கைக்கு 4 தங்கம், 4 வெள்ளி, 11 வெண்கலப் பதக்கங்கள் கிடைத்துள்ளன.
+On Thursday (12), the second day of the fourth South Asian Junior Athletics Championship, which is being held at the Jawaharlal Nehru Stadium in Chennai, Sri Lanka received a total of 10 medals with one more gold, one silver and 8 bronze medals.
 
-போட்டியின் இரண்டாம் நாளான இன்று வியாழக்கிழமை (12) ஆண்களுக்கான 110 மீற்றர் சட்டவேலி போட்டியை 14.06 செக்கன்களில் ஓடி முடித்த இலங்கை வீரர் கோஷல சந்துன் தங்கப் பதக்கத்தை வென்றுகொடுத்தார்.
+On the first day of the competition, Sri Lanka received 3 gold, 3 silver and 3 bronze medals.
 
-ஆண்களுக்கான 400 மீறறர் ஓட்டப் போட்டியை 47.17 செக்கன்களில் ஓடிமுடித்த ஒமெல் ஷஷின்த வெள்ளிப் பதக்கத்தை வென்றெடுத்தார். இந்த நேரப் பெறுதியானது அவரது தனிப்பட்ட அதிசிறந்த நேரப் பெறுதியாகும்.
+At the end of the second day, Sri Lanka received 4 gold, 4 silver and 11 bronze medals.
+
+Sri Lankan player Goshala Chandun won the gold medal on the second day of the competition on Thursday (12) on Thursday (12).
+
+Omel Shashinda won the silver medal in the men's 400 violation race in 47.17 seconds. This time receiving is his personal excellent time.
 
 ...
 
 [Data](articles/4d366b4c.json)
 
+[Extended Data](ext_articles/4d366b4c.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தல் தொடர்பில் இதுவரை 3,610 முறைப்பாடுகள் பதிவு
+### 3,610 complaints have been lodged in the presidential election so far
 
 *2024-09-12 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193538) · `ta`
 
-ஜனாதிபதி தேர்தல் தொடர்பில் இதுவரை (ஜூலை மாதம் 31 ஆம் திகதி முதல் செப்டெம்பர் மாதம் 02 ஆம் திகதி வரை) 3,610 முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளதாகத் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+Here's a 200-character summary:
 
-அதன்படி, தேர்தல் சட்டங்களை மீறியமை தொடர்பில் தேசிய தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு 1,233 முறைப்பாடுகளும், மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு 2,377 முறைப்பாடுகளும் கிடைக்கப்பெற்றுள்ளன.
 
-இதேவேளை, மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு வன்முறைச் சம்பவங்கள் தொடர்பில் 28 முறைப்பாடுகளும் ஏனைய விடயங்கள் தொடர்பில் 76 முறைப்பாடுகளும் கிடைக்கப்பெற்றுள்ளன.
+
+"3,610 election complaints filed: 1,233 national, 2,377 district. 28 violence complaints, 76 others."
+
+🟩
+
+The Election Commission said that 3,610 complaints have been received from the presidential election (from July 31 to September 2).
+
+Accordingly, 1,233 complaints have been received for the National Election Complaint Management Center and 2,377 to the District Election Complaint Management Center for violating election laws.
+
+Meanwhile, the District Election Complaint Management Center has received 28 complaints on violence and 76 complaints.
 
 ◼️
 
 [Data](articles/2eff7372.json)
 
+[Extended Data](ext_articles/2eff7372.ext.json)
+
 ---
 
-### ඩොලරය ගැන රනිල් අනතුරු අඟවයි
+### Ranil warns about the dollar
 
 *2024-09-12 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200957) · `si`
 
-මැතිවරණ වේදිකාවේ සිටියද තමා ප්‍රකාශ කරන්නේ ජනප්‍රිය තීරණ නොව සත්‍ය බව ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Ranil Wickremesinghe warns about the dollar impact on Sri Lanka's economy. He emphasizes making truthful decisions over popular ones, citing examples like tax deductions and free services under his opponent Sajith's policies.
 
-"මට මෙතනට ඇවිත් කියන්න පුළුවන් ඊළඟ අවුරුද්දේ තවත් සහන තියෙනවා කියලා. ඒ අයට එහෙම කියන්න පුළුවන් ද ?. වෛරයේ මුවාවෙන් බලය අරගෙන අන්තිමට මොකක්ද වෙන්නේ. මම කියන්නේ ජනප්‍රිය ඒවා නෙමෙයි.. ඒත් ඇත්ත මම කියන්නේ. මම ආපහු කියනවා.. බදු අඩු කළොත් ඩොලර් එක රුපියල් 500 වෙනවා. සජිත් ගැන මොනවා කියන්නද?. හැම එකම දැන් නොමිලේ දෙනවලු."
+🟩
+
+Despite the election platform, Ranil Wickremesinghe says he is pronouncing true decisions, not popular decisions.
+
+"I can come here and say that the following year the following year. Can they say that?. What happens to the guise of the hatred. I mean, not popular.. But the truth I say. I'm back.. If tax deductions, it is worth the $ 500 rupees. What about Sajith?. Every single is free now. "
 
 ◼️
 
 [Data](articles/54a8fa2f.json)
+
+[Extended Data](ext_articles/54a8fa2f.ext.json)
 
 ---
 
@@ -104,21 +148,31 @@ The breakdown of tax revenue collection by tax type is as follows:
 
 ---
 
-### වරද්දගන්නේ නැතුව ඡන්දෙ දාන්නේ මෙහෙමයි
+### This is how it is voted without the challenges
 
 *2024-09-12 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200956) · `si`
 
-එළඹෙන 21 වනදා පැවැත්වෙන ජනාධිපතිවරණයේදී  නිවැරදිව ඡන්දය සලකුණු කළ හැක්කේ කෙසේද?
+Here's a 200-character summary:
 
-මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා ඒ පිළිබඳව පැහැදිලි කිරීමක් සිදු කළේය.
 
-මේ අතර අද 'බිග් ෆෝකස්' වැඩසටහනේදී අදහස් දැක්වූ මැතිවරණ කොමසාරිස් ජනරාල්වරයා එක් අපේක්ෂකයෙකු 50% ඉක්මවූ ඡන්ද ප්‍රතිශතයක් ලබා නොගතහොත් සිදුවන ක්‍රියාදාමය පිළිබඳව ද අදහස් පළ කළේය.
 
-"සමස්ත ප්‍රතිඵලය අපි දැනගත් පසු කොමිෂන් සභාව තීරණය කරයි ඊළඟට උපදෙස් දෙන්න මනාප ගණන් කිරීමට."
+In the next presidential election, voters should consider candidates' policies and character rather than just party affiliations. The Election Commission will count votes accurately and address any issues promptly.
+
+🟩
+
+How can you vote correctly in the next 21st presidential election?
+
+Elections Commissioner General Saman Sri Ratnayake made an explanation.
+
+Meanwhile, the Commissioner General of Elections also commented on the process that exceed 50% of the votes by a single candidate today.
+
+"Once we have learned the overall outcome, the Commission decides to counteract preferences next."
 
 ◼️
 
 [Data](articles/5eac936b.json)
+
+[Extended Data](ext_articles/5eac936b.ext.json)
 
 ---
 
@@ -428,19 +482,29 @@ Since privatization in 1992, the plantation industry has undergone transformatio
 
 ---
 
-### මැති ඇමතිවරු විශාල පිරිසක් විදේශ ගත විමට වීසා ලබාගෙන
+### A large number of ministers and MPs get visa abroad
 
 *2024-09-12 18:59:50* · [`adalk`](https://www.ada.lk/breaking_news/මැති-ඇමතිවරු-විශාල-පිරිසක්-විදේශ-ගත-විමට-වීසා-ලබාගෙන/11-411926) · `si`
 
-ජනාධිපතිවරණයේ ප්‍රතිඵල නිකුත් කිරිමෙන් පසු ආණ්ඩු පක්ෂයේ මැති ඇමතිවරුන් විශාල පිරිසක් විදේශගත විමට වීසා ලබාගෙන ඇති බව කදුරට ජනතා පෙරමුණේ නායක සහ දමිල ප්‍රගතිශිලි සන්ධානයේ නියෝජ්‍ය නායක පා.ම වි.රාධාක්‍රිෂ්ණන් මහතා පැවසිය.
+Ministers, MPs obtain foreign visas; Deputy Leader claims election results influenced by overseas travel.
 
-වි.රාධාක්‍රිෂ්ණන් මහතා ඒ බැව් කියා සිටියේ (12) දින සමගි ජන බලවේගයේ ජනාධිපති අපෙක්ෂක සජිත් ප්‍රේමදාස මහතාගේ ජයග්‍රහණය තහවුරු කිරිම සදහා නාවලපිටිය හපුගස්තලාව ප්‍රදේශයේ පැවැත් වු ජනාධිපතිවරණ ප්‍රචාරක රැස්විමකට සහභාගි විමෙන් පසු මාධ්‍යට අදහස් දක්වමිණි.
+🟩
 
-මෙහිදි වැඩිදුරටත් අදහස් දැක් වු වි.රාධාක්‍රිෂ්ණන් මහතා කියා සිටියේ මේ දිනවල ඇතැම් පිරිස් ජනාධිපතිවරණය ඉලක්ක කර ගනිමින් සමීක්ෂණ වාර්තා ඉදිරිපත් කරන්නේ එක් එක් අපෙක්ෂකයන්ගේ උවමනාවට බවත්, එය සැබැ ජන මතයක් නොවන බවත්, මෙවර ජනාධිපතිවරණයේදි නුවරඑලිය දිස්ත්‍රික්කයෙන් සමගි ජන බලවේගය 80% ක ජන්ද ප්‍රතිශතයක් ලබාගන්නා බවයි.
+Deputy Leader of the Parrasadhi UPFA has said that the results of the presidential election have obtained visas abroad.
 
-...
+Mr. VK criminal said that (The 12th) The President was speaking at a presidential propaganda meeting in Nawalapitiya to ensure the victory of the Presidential Court of Archangel.
+
+Speaking further Mr. VPC said that some of these days will present the presidential election to the presidential election and that it is not real popular..
+
+Plantation workers' votes have been decided to give Sajith Premadasa this year, as the President has increased the salary of estate workers to Rs.Speaking, he said.
+
+Mr. Vampakhish said that the Presidential Court of Using Samagi Society as an Executive President of the country.
+
+◼️
 
 [Data](articles/9ea8c0ae.json)
+
+[Extended Data](ext_articles/9ea8c0ae.ext.json)
 
 ---
 
@@ -2423,35 +2487,5 @@ The Opposition Leader further stated that neither he nor the ‘Samagi Jana Bala
 [Data](articles/f7ba2873.json)
 
 [Extended Data](ext_articles/f7ba2873.ext.json)
-
----
-
-### Former President Fujimorury dies in Peru
-
-*2024-09-12 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200937) · `si`
-
-Former Peruvian President Fujimori dies. Accused of human rights violations and corruption during 1990-2000 rule. Imprisoned 2005-2030, released 2015.
-
-🟩
-
-His daughter has announced that former President Albhimoru Fujimor, former President of Peru.
-
-He ruled Peru from 1990 to 2000, and in the same time, he was accused of human rights violations and corruption.
-
-He used strong military power to suppress the "Shainne Path", especially in Peru.
-
-As a result of the accusations against him.
-
-He then escaped Japan and was arrested in Fujimoury in 2005.
-
-He was then imprisoned for 25 years.
-
-He was released from prison in December 15 years later.
-
-◼️
-
-[Data](articles/fb8db5ad.json)
-
-[Extended Data](ext_articles/fb8db5ad.ext.json)
 
 ---

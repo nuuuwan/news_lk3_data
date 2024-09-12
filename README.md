@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 19:09:38**
+As of **2024-09-12 19:22:29**
 
 ## Newspaper Stats
 
-*Scraped **43,580** Articles*
+*Scraped **43,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,64 @@ dbsjeyarajcom | 375
 bbccomsinhala | 422
 colombotelegraphcom | 427
 islandlk | 2,542
-economynextcom | 2,658
+economynextcom | 2,659
 dailyftlk | 2,899
 adalk | 4,035
 dailymirrorlk | 4,733
 adaderanalk | 5,113
 tamilmirrorlk | 5,670
 virakesarilk | 6,903
-adaderanasinhalalk | 7,440
+adaderanasinhalalk | 7,441
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,312 (99.4%) of 43,580 articles have been extended.
+43,321 (99.4%) of 43,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### ඡන්දෙ දවසේ මේවා තහනම්
+
+*2024-09-12 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200953) · `si`
+
+මෙවර පැවැත්වෙන්නේ ඉතාමත් ආන්දෝලනාත්මක ඡන්ද විමසීමක් බැවින් නීති රීති අනුව කටයුතු කරන්නැයි මැතිවරණ කොම්සමේ සභාපති ආර්. එම්. ඒ. එල්. රත්නායක මහතා සියලු පාර්ශ්වවලින් ඉල්ලීමක් කළේය.
+
+ඔහු සඳහන් කළේ ඡන්ද විමසීමේ කාලසීමාව තුළදී ඡන්දදායකයෙකුට හෝ අපේක්ෂකයෙකුට ඡන්ද පොළට දුරකථන රැගෙන යෑම තහනම් බවය.
+
+"මාධ්‍ය උපමානවලට සාමාජ මාධ්‍ය ඇතුළත් කරලා තිබුණත් සමාජ මාධ්‍ය නීතිවලට ඇවිත් නැහැ. අපි කරන්නේ පුළුවන් තරම් ශක්තිය දාලා සිද්ධවෙන ඒවා නතර කරන්න. අනෙක් මාධ්‍යවලටත් ඒකම තමයි. නඩු දානවා... අරවා මේවා කරනවා කියලා මං කිව්වේ නැහැ. අපිට කරන්න පුළුවන් තව දේවල් තියෙනවා."
+
+"සමහර මාධ්‍ය අපිට පාලනය කරගන්න බැරි තත්ත්වයෙන් යනවා නම් අපි කරන්නේ කොමිසම සහ ඒ මාධ්‍ය ආයතනය අතර තිබෙන සියලු සම්බන්ධතා නතර කරනවා.  නිල ප්‍රතිඵල නිකුත් කිරීමේදී අපි සලකා බලනවා ඒ ආයතනයට නිල ප්‍රතිඵල නිකුත් කරනවා ද? නැද්ද ? කියලා."
+
+18 වනදායින් පස්සේ එන්නේ පැය 48ක නිහඬ කාලයක්. ඒ කාලය තුළ මාධ්‍ය කොයි ආකාරයෙන්ද හැසිරෙන්නේ කියන එක විශේෂයෙන් වැදගත්. මේ පැය 48 නිදහසේ ඉන්න දීලා තියෙන්නේ ඡන්දදායකයාට අන්තිම තීරණය ගන්න පහසු කරන්න.
+
+...
+
+[Data](articles/d88042fe.json)
+
+---
+
+### Sri Lanka’s Planters’ Association marks 170 years
+
+*2024-09-12 19:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-planters-association-marks-170-years-179474/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Planters’ Association which represents the managers of the island’s commercial farms growing tea, rubber, coconut and palm oil, is marking 170 years this year.
+
+Established in 1854, the PA being one of the oldest institutions in the country, has continuously represented and safeguarded the interests of the plantations.
+
+As one of Sri Lanka’s largest foreign exchange earners, the plantation industry, primarily known for Pure Ceylon Tea, also includes other key crops such as rubber, coconut, spices, and palm oil. The sector provides employment to approximately 125,000 individuals in Regional Plantations.
+
+The PA will host its 170th annual general meeting on Saturday (14) at 7 pm at the Galadari Hotel, Colombo, and appoint the Chairman and Executive Committee for 2024/2025.
+
+Since privatization in 1992, the plantation industry has undergone transformations, with RPCs moving into crop diversification.
+
+...
+
+[Data](articles/0dae6103.json)
+
+---
 
 ### Sri Lanka’s DFCC green bond issue oversubscribed
 
@@ -1666,6 +1706,8 @@ Dealers say it may have been better to sell more one year bills at rates higher 
 
 [Data](articles/fe330758.json)
 
+[Extended Data](ext_articles/fe330758.ext.json)
+
 ---
 
 ### ADB approves $100mn Sri Lanka budget support loan
@@ -1683,6 +1725,8 @@ The reforms seek to enhance the country’s resilience to climate change impacts
 ...
 
 [Data](articles/20f02ce8.json)
+
+[Extended Data](ext_articles/20f02ce8.ext.json)
 
 ---
 
@@ -2437,57 +2481,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/6003b823.json)
 
 [Extended Data](ext_articles/6003b823.ext.json)
-
----
-
-### What Ranil worshiped Samantha Power
-
-*2024-09-12 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200928) · `si`
-
-Ranil Wickremesinghe urges voters to choose wisely for the next president, warning of potential economic crises. He criticizes previous decisions and calls for development in agriculture and trade.
-
-🟩
-
-Independent president, Ranil Wickremesinghe says people should act intelligently in selecting intelligently when electing the next President of the country should be intelligent.
-
-He says that if the people do not make the right decision, there will be an economic crisis in the country again.
-
-Addressing a familiarity held in the SandaMert area in Ampara, Ranil Wickremesinghe made these comments.
-
-...
-
-[Data](articles/d8a7bf06.json)
-
-[Extended Data](ext_articles/d8a7bf06.ext.json)
-
----
-
-### Postal voting time is over today
-
-*2024-09-12 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200927) · `si`
-
-Postal voting deadline ends today. Public servants can still cast ballots at district offices. Nominations close for Elpitiya Pradeshiya Sabha elections.
-
-🟩
-
-The time given to postal voting for the presidential election is over today (12).
-
-All public servants were given to the postal voting were given to all public servants to vote today and today.
-
-Accordingly, government officials who have not been able to use the postal voting so far can also be polluted today and they can vote at district election offices in the district.
-
-However, after today, no public servant of postal votes will not be able to use postal votes.
-
-Meanwhile, nominations for the Elpitiya Pradeshiya Sabha elections will also end today.
-
-Accordingly, nominations will be held at the District Secretar's Office to 12.00 million today.
-
-The deposit deposit was completed yesterday, according to the deposit of 10 political parties and two independent groups.
-
-◼️
-
-[Data](articles/dd86143e.json)
-
-[Extended Data](ext_articles/dd86143e.ext.json)
 
 ---

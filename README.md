@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 14:56:58**
+As of **2024-09-12 15:08:07**
 
 ## Newspaper Stats
 
-*Scraped **43,200** Articles*
+*Scraped **43,475** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 361
 newsfirstlk | 363
-bbccomsinhala | 401
+dbsjeyarajcom | 375
 colombotelegraphcom | 415
-islandlk | 2,516
-economynextcom | 2,608
-dailyftlk | 2,809
-adalk | 3,998
+bbccomsinhala | 422
+islandlk | 2,542
+economynextcom | 2,647
+dailyftlk | 2,899
+adalk | 4,028
 dailymirrorlk | 4,733
-adaderanalk | 5,083
-tamilmirrorlk | 5,636
+adaderanalk | 5,108
+tamilmirrorlk | 5,666
 virakesarilk | 6,867
 adaderanasinhalalk | 7,410
 
@@ -26,2009 +26,1039 @@ adaderanasinhalalk | 7,410
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,198 (100.0%) of 43,200 articles have been extended.
+43,200 (99.4%) of 43,475 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-08-29 (Thursday)
+### 2024-09-12 (Thursday)
 
-### One person dies in poisoning in Jaffna
+### Elpitiya Pradeshiya Sabha election on October 26
 
-*2024-08-29 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/192288) · `ta`
+*2024-09-12 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101918/elpitiya-pradeshiya-sabha-election-on-october-26) · `en`
 
-Here's a summary of the text in 200 characters:
-
-
-
-Person poisoned while cleaning land in Jaffna. Died before reaching hospital. Rescuers took body to Jaffna Bodhana Hospital.
-
-🟩
-
-While cleaning a land. The doctors reported that he had already died when he rescued him from there and taken him to the Jaffna Bodhana Hospital.
+The election of the Elpitiya Pradeshiya Sabha is scheduled to be held on October 26, according to the Returning Officer of the Galle District.
 
 ◼️
 
-[Data](articles/10730cd7.json)
-
-[Extended Data](ext_articles/10730cd7.ext.json)
+[Data](articles/f53c7af2.json)
 
 ---
 
-### Sri Lanka will not accept any UNHRC resolution on human rights violations during civil war – Foreign Minister
+### Sri Lanka records nearly 1.4 mln tourist arrivals so far in 2024
 
-*2024-08-29 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101590/sri-lanka-will-not-accept-any-unhrc-resolution-on-human-rights-violations-during-civil-war-foreign-minister) · `en`
+*2024-09-12 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101917/sri-lanka-records-nearly-14-mln-tourist-arrivals-so-far-in-2024) · `en`
 
-Sri Lanka’s Minister of Foreign Affairs Ali Sabry assured that Sri Lanka will not accept any resolutions brought forward by the United Nations Human Rights Council (UNHRC) regarding alleged human rights violations during the civil conflict that ended in 2009.
+Sri Lanka has recorded nearly 1.4 million tourist arrivals during the period elapsed this year.
 
-Speaking at a press briefing on Wednesday (28), he said that Western countries should not base their foreign policies towards Sri Lanka on vote-bank politics, aimed at securing the votes of the Sri Lankan diaspora residing in their nations.
+The Sri Lanka Tourism Development Authority (SLTDA) stated that the total number of tourist arrivals from January 01 and September 08, stands at approximately 1,395,773.
 
-The Minister stated: “In 2022, the UNHRC brought a resolution against Sri Lanka, and they have submitted a report on that resolution for September this year. We have rejected that resolution. As the period for the current resolution is ending, they would need to introduce a new resolution to continue it. We intend to respond accordingly”
+A higher number of tourists had visited the island in the month of February with that figure recorded as 218,350.
 
-“However, it is important to state that we do not accept the UNHRC’s approach”, he added.
+Meanwhile, more than 200,000 tourist arrivals were also reported in the months of January and March.
+
+The majority of foreign tourists visiting the country are from India, Britain, Russia, Germany and China.
+
+A total of 1,487,303 tourists had visited the country in 2023.
+
+◼️
+
+[Data](articles/ecbfa274.json)
+
+---
+
+### சிறுவர் துஷ்பிரயோக முறைப்பாடுகள் அதிகரிப்பு
+
+*2024-09-12 14:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-துஷ்பிரயோக-முறைப்பாடுகள்-அதிகரிப்பு/175-343669) · `ta`
+
+அநுராதபுரம் மாவட்டத்தில் சிறுவர் துஷ்பிரயோகம் அதிகரித்து வருவது குறித்து அநுராதபுரம் மாவட்ட சிறுவர் பாதுகாப்பு அதிகாரிகள் கவலை வெளியிட்டுள்ளனர்.
+
+கடந்த ஆறு மாதங்களில் சிறுவர் துஷ்பிரயோகம் தொடர்பில் 491 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகவும், மேலும் பல சம்பவங்கள் பதிவாகாமல் இருக்கலாம் எனவும் மாவட்ட சிறுவர் பாதுகாப்பு அதிகாரி மகேந்திர தசநாயக்க தெரிவித்துள்ளார்.
+
+சிறுவர் உதவி சேவை இலக்கமான 1929க்கு 202 நேரடி முறைப்பாடுகள் கிடைத்துள்ளதாகவும், பிரதேச சிறுவர் பாதுகாப்பு அதிகாரிகளுக்கு 289 முறைப்பாடுகள் கிடைத்துள்ளதாகவும் அவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/e40abcd1.json)
+
+---
+
+### சுற்றுலா பயணிகளின் வருகையில் ஏற்பட்டுள்ள மாற்றம்
+
+*2024-09-12 13:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-பயணிகளின்-வருகையில்-ஏற்பட்டுள்ள-மாற்றம்/175-343668) · `ta`
+
+இந்த வருடத்தில் இலங்கைக்கு வந்த வெளிநாட்டு சுற்றுலா பயணிகளின் எண்ணிக்கை 14 இலட்சத்தை நெருங்கியுள்ளது.
+
+கடந்த ஜனவரி முதலாம் திகதி முதல் செப்டெம்பர் மாதம் 8 ஆம் திகதி வரையான காலப்பகுதியில் இலங்கைக்கு வருகை தந்த மொத்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை 1,395,773 என இலங்கை சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+
+அத்துடன், கடந்த பெப்ரவரியில் அதிக எண்ணிக்கையிலான சுற்றுலாப் பயணிகள் நாட்டுக்கு வந்துள்ளனர். அவர்களின் எண்ணிக்கை 218,350 ஆகும்.
+
+மேலும், ஜனவரி மற்றும் மார்ச் மாதங்களில் 200,000 க்கும் மேற்பட்ட சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர்.
+
+இதேவேளை, இந்தியா, பிரிட்டன், ரஷ்யா, ஜெர்மனி, சீனா ஆகிய நாடுகளில் இருந்து அதிக சுற்றுலா பயணிகள் நாட்டுக்கு வந்துள்ளனர்.
+
+இதேநேரம், கடந்த வருடம் இலங்கைக்கு வருகை தந்த மொத்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை 1,487,303 ஆகும்.
+
+◼️
+
+[Data](articles/2cb0176d.json)
+
+---
+
+### Six including Indian arrested at BIA over attempt to smuggle foreign liquor, cigarettes
+
+*2024-09-12 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101916/six-including-indian-arrested-at-bia-over-attempt-to-smuggle-foreign-liquor-cigarettes-) · `en`
+
+Six passengers including an Indian national have been arrested at Bandaranaike International Airport (BIA) with undeclared goods including 159 bottles of foreign liquor and a haul of foreign cigarettes.
+
+Acting on a tip-off received by officers of the Criminal Investigation Department (CID) at the airport, five male suspects and a female suspect were arrested at the arrival terminal.
+
+They had allegedly attempted to smuggle into the country 159 bottles of foreign liquor, 175 packets of foreign cigarettes, ready-made clothing, and a large quantity of non-gold accessories.
+
+The arrested male suspects are aged 24, 41, 52, 53, and 70 and are residents of Wattala, Kotagala and Colombo 13 areas while one of the suspects is an Indian national, police said.
+
+Meanwhile, the female suspect is a 48-year-old resident of the Colombo 15 area.
+
+The CID unit at the BIA is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/ac11f611.json)
+
+---
+
+### Expolanka Holdings changes name and status post-delistiing
+
+*2024-09-12 12:57:12* · [`dailyftlk`](https://www.ft.lk/business/Expolanka-Holdings-changes-name-and-status-post-delistiing/34-766670) · `en`
+
+Expolanka Holdings today announced that it has officially changed its name and status in accordance with Section 11(5) of the Companies Act, No 07 of 2007.
+
+The company, previously listed as a ‘Public Listed Company’ under the name Expolanka Holdings PLC, is now registered as “Expolanka Holdings Limited” following its removal from the Official List of the Colombo Stock Exchange.
+
+The move marks a significant shift in the company’s corporate status, reflecting the new phase of its operational journey.
+
+This change comes as part of a resolution passed by the shareholders on 27 March 2024, which approved the transition of the company from a "Public Listed Company" to a "Public Company."
+
+The company’s registration number remains as P B 744PQ and its registered office address continues to be at 10, Mile Post Avenue, Colombo 03.
+
+◼️
+
+[Data](articles/05c9caef.json)
+
+---
+
+### Vietnam death toll climbs to 197 as typhoon’s aftermath brings flash floods and landslides
+
+*2024-09-12 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101915/vietnam-death-toll-climbs-to-197-as-typhoons-aftermath-brings-flash-floods-and-landslides) · `en`
+
+Nearly 200 people have died in Vietnam in the aftermath of Typhoon Yagi and more than 125 are missing as flash floods and landslides take their toll, state media reported Thursday.
+
+Vietnam’s VNExpress newspaper reported that 197 people have died and 128 are still missing, while more than 800 have been injured.
+
+In the capital, flood waters from the Red River receded slightly but many areas were still inundated.
+
+In Hanoi’s Tay Ho district, people waded through muddy brown water above their knees to make their way along one street, some still wearing their bicycle and motorcycle helmets after abandoning their vehicles along the way.
+
+A few paddled along the road in small boats as empty water bottles, a stryofoam cooler and other flotsam drifted by; one man pushed his motorbike toward drier ground in an aluminum sloop.
+
+Pedestrians hiked up their shorts as high as possible to avoid being soaked by the wake caused by a delivery truck powering its way through the water.
 
 ...
 
-[Data](articles/8764deed.json)
-
-[Extended Data](ext_articles/8764deed.ext.json)
+[Data](articles/8991b3d7.json)
 
 ---
 
-### Former Provincial Councils who helped the Club Wasantha murder
+### ’Times school of higher education’ ජනපති අතින් විවෘත කරයි
 
-*2024-08-29 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200459) · `si`
+*2024-09-12 12:35:52* · [`adalk`](https://www.ada.lk/breaking_news/’Times-school-of-higher-education’-ජනපති-අතින්-විවෘත-කරයි/11-411913) · `si`
 
-Former Provincial Councilor Amal Silva arrested for aiding Club Wasantha murder. Police also detained driver Madusanka de Silva. Two suspects from Nagoda and Ahungalla.
+'Times school of higher education' අධ්‍යාපන ආයතනය ජනපති රනිල් වික්‍රමසිංහ මහතා අතින් විවෘත කරනු ලැබීය.
 
-🟩
+විදේශීය විශ්වවිද්‍යාල තුනක ඒකාබද්ධත්වයෙන් ක්‍රියාත්මක මෙම අධ්‍යාපන ආයතනය විවෘත කිරීම කොළඹ ගෝල ෆේස් හෝටලයේදී පැවැත්විණි.
 
-A former member of the Western Provincial Councilor Amal Silva has been arrested in connection with the assassination of Suresra Wasantha Perera today (29).
-
-He was arrested by the Western South Criminal Crimes Division under the accusation of accommodation and assistance to the crowd.
-
-The driver of the Panadura Division was arrested by the Panadura Divisional Code of Dri-Driving the vehicle that had come to the car when he was shot dead in Athugala on July 8th.
-
-The arrested two-year-old residents of Nagoda and Ahungalla, Galle.
-
-The victim was a 32-year-old man Sajith Shriyantha de Silva, or a 'little force'.
-
-The driver has acted as Madusanka de Silva, or 'Bhairava'.
-
-According to police interrogations from the suspects, the former provincial councilor was able to arrest the relevant information on the information revealed.
-
-The other shooter was arrested by the police on the 23 23rd of the club spring murder.
+මෙම ආයතනය මගින් සහතික පත්‍ර පාඨමාලා, ඩිප්ලෝමා පාඨමාලා, උපාධි පාඨමාලා හා පශ්චාත් උපාධි පාඨමාලා ක්‍රියාත්මක කිරීමට නියමිතව තිබේ.
 
 ◼️
 
-[Data](articles/2d1efb0e.json)
-
-[Extended Data](ext_articles/2d1efb0e.ext.json)
+[Data](articles/068b65bb.json)
 
 ---
 
-### Seal deposits for four stores in Kattankudi;Case against 54 people
+### Anura Kumara commits to expanding the country’s economy
 
-*2024-08-29 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/192285) · `ta`
+*2024-09-12 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101913/anura-kumara-commits-to-expanding-the-countrys-economy) · `en`
 
-Kattankudi raid seals 4 restaurants; 54 sued for health violations
+The Presidential Candidate of the National People’s Power (NPP), Anura Kumara Dissanayake says that steps will be taken under his government to expand the country’s economy.
 
-🟩
+Dissanayake made these comments while addressing a public rally held in the Mahaiyawa area of Kandy.
 
-Four restaurants have been sealed in a massive raid on hotels, restaurants and snacks on hotels, restaurants and snacks under the Kattankudy Health Officer Division in Batticaloa.
+He further added that the country’s economy is currently constrained and lacking in growth.
 
-In the name of the Director of Regional Health Services, Batticaloa District, Dr S Muraliswaran, under the guidance of Dr. UL Nasir Deen, the Kattankudy Health Officer, Dr UL Nasir Deen, Public Health Inspectors belonging to the Batticaloa Health Medical Officer Divisions have been divided into five categories.
+He also stated that they are committed to expanding the economy and developing a society that works in all its assigned areas, including significant improvements in education.
 
-Nine traders have been sued at trade centers for selling food items that have not been used for human use, defective, outdated, plastic vessels, and four restaurants have been sealed.
+“That’s the country... do you not want a country like that? That is what we are leading,” he said, adding that it is not something an ‘immature’ individual like Sajith Premadasa can accomplish.
 
-At the same time, 45 people who worked on restaurants without medical certificates have been found and have been sued by public health inspectors.
-
-It is also worth noting that the health authorities seized outdated food items for a large number of defective human use during the raid for about 6 hours.
-
-◼️
-
-[Data](articles/bc927d9c.json)
-
-[Extended Data](ext_articles/bc927d9c.ext.json)
-
----
-
-### පොහොට්ටු මන්ත්‍රීවරයෙක් විපක්ෂනායක සජිත්ට සහය පළ කරයි
-
-*2024-08-29 12:22:29* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීවරයෙක්-විපක්ෂනායක-සජිත්ට-සහය-පළ-කරයි/11-411629) · `si`
-
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ජගත් කුමාර මහතා ඉදිරි ජනාධිපතිවරණයේදී සමගි ජන සන්ධානයේ අපේක්ෂක විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට සහය පළ කිරීමට තීරණය කර තිබේ.
-
-ඒ මහතා අද(29දා) පෙරවරුවේ විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මුනගැසී සහය පළ කිරීම සිදු කළේය.
-
-◼️
-
-[Data](articles/af5d33a6.json)
-
----
-
-### Foreign investors guaranteed a corruption-free future under NPP - Harini Amarasuriya
-
-*2024-08-29 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101589/foreign-investors-guaranteed-a-corruption-free-future-under-npp-harini-amarasuriya) · `en`
-
-China had been an “easy source of money” for past governments and the National People’s Power (NPP) wants to ensure future investment isn’t wasteful, said Harini Amarasuriya, a lawmaker and a member of the NPP.
-
-During an interview with the Bloomberg news in Colombo, Amarasuriya, an academic who has become one of the more public faces of the NPP’s election campaign, has stated: “We don’t want easy money coming in to fund unproductive projects and not care about corruption.”
-
-“That’s what we expect of any country, and that’s how we would want it to be with China”, she assured.
-
-Amarasuriya said the NPP wants to maintain ties with China since the country had been one of the few to back Sri Lanka when it faced global scrutiny for human rights violations as the civil war drew to a close.
-
-“We are cognizant of the fact that China has politically backed us in sensitive moments,” she said. “And we want to maintain those relations.”
+Dissanayake also accused Premadasa of making promises about what he will give people wherever he goes.
 
 ...
 
-[Data](articles/3b7d145d.json)
-
-[Extended Data](ext_articles/3b7d145d.ext.json)
+[Data](articles/7b94b775.json)
 
 ---
 
-### The body of an elephant attacked in Nintavur handed over to relatives
+### 20ஆம் திகதி மூடப்படும்
 
-*2024-08-29 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/192276) · `ta`
+*2024-09-12 11:44:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20ஆம்-திகதி-மூடப்படும்/175-343665) · `ta`
 
-Elephant attack in Nintavur: Body handed over to relatives after death investigation. Incident occurred in Turtle Vad Vayal area, Ampara District. 62-year-old man killed. Elephant movement increased during harvest season.
+நாரஹேன்பிட்டியில் உள்ள மோட்டார் போக்குவரத்து திணைக்களத்தின் தலைமை அலுவலகம் ஜனாதிபதி தேர்தல் தொடர்பில் வாக்களிப்பு நிலையமாக நியமிக்கப்பட்டுள்ளது.
 
-🟩
-
-The body of the deceased has been handed over to relatives after the death investigation.
-
-The incident took place yesterday (28) at the Turtle Vad Vayal area belonging to the Nintavur police division of the Ampara District.The body of the deceased has been handed over to relatives after the death investigation.
-
-A 62 -year -old man from Nintavur - 2 Second Cross Street Division has died.
-
-Further, according to the orders of the Samanthurai Court, the relatives of the Divisional Death Investigation Officer Abdul Hamid al -Jawahir have been handed over to the relatives after the death trial.
-
-It is noteworthy that many people have been affected by the elephant attack in the Samanthurai area in the past and the elephant movement has increased due to the fact that the field harvest is now.
-
-Meanwhile, the 55 -year -old family of three children from Nintavur section of Nintavur, who was assaulted by an elephant on the evening of the 20th of this month.
+அதற்குத் தேவையான வசதிகளை ஏற்படுத்திக் கொடுப்பதற்காக எதிர்வரும் 20ஆம் திகதி மோட்டார் போக்குவரத்து திணைக்களத்தின்  வழமையான பணிகள் நடைபெறாமல் மூடப்படும் என திணைக்களம் அறிவித்துள்ளது.
 
 ◼️
 
-[Data](articles/07e91041.json)
-
-[Extended Data](ext_articles/07e91041.ext.json)
+[Data](articles/e2beddf8.json)
 
 ---
 
-### Sajith to support Jagath Kumara
+### Parliament Speaker signs bill to raise minimum wages
 
-*2024-08-29 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200458) · `si`
+*2024-09-12 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101912/parliament-speaker-signs-bill-to-raise-minimum-wages) · `en`
 
-Sri Lanka opposition leader Sajith Premadasa receives support from General Jagath Kumara for upcoming presidential election.
+Sri Lanka’s Parliament Speaker Mahinda Yapa Abeywardena Wednesday signed a bill to raise the monthly minimum wage by 12.5 per cent, days ahead of the island nation’s presidential elections.
 
-🟩
+The Speaker endorsed the certificate on the bill titled ‘National Minimum Wage of Workers (Amendment) Bill’ in accordance with article 79 of the Constitution, the Parliament’s Media office said in a statement.
 
-Sri Lanka General Kumara said he decided to support Opposition Leader Sajith Premadasa in the next presidential election.
+The second reading debate on the bill to amend the National Minimum Wage Act No. 3 of 2016 was held in Parliament on September 3. The bill was passed without amendments and a vote.
 
 ◼️
 
-[Data](articles/f4be29aa.json)
-
-[Extended Data](ext_articles/f4be29aa.ext.json)
+[Data](articles/a6ccbd9d.json)
 
 ---
 
-### Another SLPP MP backs Sajith in presidential election
+### කතරගම දේවාලයෙන් කතරගම රෝහලට නව වාට්ටු සංකීර්ණයක්
 
-*2024-08-29 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101588/another-slpp-mp-backs-sajith-in-presidential-election) · `en`
+*2024-09-12 11:00:13* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-දේවාලයෙන්-කතරගම-රෝහලට-නව-වාට්ටු-සංකීර්ණයක්/11-411911) · `si`
 
-The Sri Lanka Podujana Peramuna’s (SLPP) Colombo District MP Jagath Kumara has pledged his support to Samagi Jana Balawegaya (SJB) presidential candidate, Opposition Leader Sajith Premadasa at the upcoming presidential election.
+ඓතිහාසික රුහුණු කතරගම මහා දේවාලයට බැතිමතුන් සහ පරිත්‍යාගශීලීන් ලබාදෙන ආධාර මත කතරගම දිස්ත්‍රික් රෝහලට නව වාට්ටු සංකීර්ණයක් ඉඳිකිරීමට පියවරගෙන ඇත.
+
+රුහුණු කතරගම මහා දේවාලයේ බස්නායක නිලමේ තැන්පත් ඩිෂාන් වික්‍රමරත්න ගුණසේකර මහතාගේ අදහසක් පරිදි ඉඳිකෙරෙන එම වාට්ටු සංකීර්ණය මාස තුනක් ඇතුලත නිමකිරීමට නියමිතය.
 
 ◼️
 
-[Data](articles/5398f543.json)
-
-[Extended Data](ext_articles/5398f543.ext.json)
+[Data](articles/f6b81b3a.json)
 
 ---
 
-### President issues Ranil's policy statement
+### මුස්ලිම් ජනතාවගේ භූමදානය පිළිබඳ අයිතිය නීතියෙන්ම දෙනවා
 
-*2024-08-29 11:52:31* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-රනිල්ගේ-ප්‍රතිපත්ති-ප්‍රකාශය-එළිදක්වයි/11-411626) · `si`
+*2024-09-12 10:45:17* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-ජනතාවගේ-භූමදානය-පිළිබඳ-අයිතිය-නීතියෙන්ම-දෙනවා/11-411910) · `si`
 
-Here's a summary of the text in 200 characters:
+පොහොර මිල අඩු කරන බවට සහ ගොවි ණය කපා හරින බවට අද ප්‍රකාශ කරන සජිත්  හා අනුර එදා මේ රටේ ගොවි ජනතාව පොහොර නැතිව දුක් විඳින විට සිටියේ කොහොදැයි තමා ප්‍රශ්න කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
 
+තමා ලෝක නායකයන්ට කථා කර පොහොර සහනාධාර ලබා ගැනීමට කටයුතු කිරීම නිසා ගොවියා නැවත ගොවි බිමට යවා රටේ වී නිෂ්පාදනය ඉහළ නංවා ගැනීමට හැකි වූ බවද ජනාධිපතිවරයා සිහිපත් කළේය.
 
+අද ජනතාවගේ ජිවන බර ගැන කථා කරන සජිත් හා අනුර පසුගිය ආර්ථික අර්බුදය හමුවේ ජනතාවගේ ජීවන බර අඩු කිරීමට කිසිඳු සහායක් ලබා නොදුන් බවද ජනාධිපතිවරයා පැවසීය.
 
-Ranil Wickremesinghe unveils policy statement at Taj Samudra Hotel. Key features include philosophical society Mawbima Dinuwamu and Unity Sri Lanka.
+ජනතාව අසීරුතාවට පත් වූ අවස්ථාවේ පැන ගිය අය අද තම අනාගතය වෙනුවෙන් බලය ඉල්ලන බව පැවසූ ජනාධිපතිවරයා තමා මෙවර ජනාධිපතිවරණයේදී ජන වරම ඉල්ලා සිටින්නේ රටේ අනාගතය වෙනුවෙන් ආරම්භ කළ වැඩසටහන ඉදිරියට ගෙන යාමට බවද
 
-🟩
-
-The 'Policy Statement' with Ranil Wickremesinghe, who is independent candidate for the next presidential election, was unveiled today at the Taj Samudra Hotel in Colombo.
-
-It consists of 5 key features to a philosophical society, Mawbima Dinuwamu and Unity Sri Lanka.
-
-◼️
-
-[Data](articles/1a488146.json)
-
-[Extended Data](ext_articles/1a488146.ext.json)
-
----
-
-### Will be appointed by the panel to enact laws
-
-*2024-08-29 11:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டங்களை-இயற்ற-குழு-நியமிக்கப்படும்/175-342967) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-President Wickremesinghe announces committee to investigate new anti-corruption laws. Includes members from Speaker, Professional Associations, BASL, and Chamber of Commerce. Some existing laws already implemented. Committee aims to strengthen legal measures against corruption.
-
-🟩
-
-President Ranil Wickremesinghe said he would appoint a committee to investigate issues relating to the enactment of new laws against corruption.
-
-Speaking at a function to publish his election manifesto, he said the committee would include members appointed by the Speaker, Professional Association, the Basl and the Chamber of Commerce.
-
-The President said that some of the laws against corruption have already been implemented.
-
-Everyone is talking about taking action against corruption and catching thieves, how are they going to do it?The President added that we are bringing the law to catch thieves and simply talking.
-
-◼️
-
-[Data](articles/bd7b96b6.json)
-
-[Extended Data](ext_articles/bd7b96b6.ext.json)
-
----
-
-### We will take full cooperation to the farmers and take new measures to overcome poverty - Sajith Premadasa
-
-*2024-08-29 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/192271) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sajith Premadasa promises support for farmers, new poverty alleviation programs, and loan forgiveness. Opposes privatization of national assets and criticizes government inefficiencies.
-
-🟩
-
-The universe has done a billion valuable work through work -like programs, and a 76 -year democratic period has not done such massive services.Some people question whether they can implement the programs they are present in the midst of this situation.The Leader of the Opposition said that we have done such massive services within 76 years of democratic times without any authority.
-
-In addition, new programs include the best issues found in poverty eradication programs such as Samurdhi, Janasavya and Aswesuma.We will provide 20000 rupees to poor families and eradicate poverty within 24 months.Opposition Leader Sajith Premadasa said the era should continue to be completed.
-
-The 23rd People's Victory rally organized by the United People's Power in front of the 2024 presidential election was held under the leadership of the Opposition Leader in Wellawaya.. He said this while attending the event.
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඊයේ (11) පස්වරුවේ කල්මුණේ, සයින්දමරදු ෆවුසි ක්‍රීඩාංගණයේ  පැවති “රනිල්ට පුළුවන්” විජයග්‍රාහී ජන රැලිය අමතමිනි.
 
 ...
 
-[Data](articles/14a15797.json)
-
-[Extended Data](ext_articles/14a15797.ext.json)
+[Data](articles/a36c3162.json)
 
 ---
 
-### Believe in me and give the decree: Ranil appeals to the election manifesto
+### ලෝකයේ ඕනෑම රටක වසර 10ක් ජීවත්වෙන්න මට වීසා තිබෙනවා
 
-*2024-08-29 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/192278) · `ta`
+*2024-09-12 10:37:49* · [`adalk`](https://www.ada.lk/breaking_news/ලෝකයේ-ඕනෑම-රටක-වසර-10ක්-ජීවත්වෙන්න-මට-වීසා-තිබෙනවා/11-411909) · `si`
 
-Here's a summary of the text in 200 characters:
+ඉදිරි ජනාධිපතිවරණයෙන් පසු තමන්ට විදේශගතවීම සඳහා වීසා ගැනීමට අවශ්‍ය නොවන බවත් ලොව ඕනෑම රටක වසර දහයක් ජීවත්වීම සඳහා වීසා බලපත් තමන් සන්තකයේ තිබෙන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
 
+ඒ මහතා ඊයේ (11) ශ්‍රී දළදා මාළිගාවට පැමිණ දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මාධ්‍ය හමුවේ වැඩිදුරටත් පවසා සිටියේ අනෙකුත් අමාත්‍යවරුන් එසේ වීසා ලබාගත්තේද යන්න සම්බන්ධයෙන් තමන් නොදන්නා බවත් එසේ රටෙන් පැනයාමට අමත්‍යවරුන්ට අවශ්‍ය නොවන බවත්ය.
 
+ඉදිරි ජනාධිපතිවරණයෙන් පසු රටෙන් පිටවීම සඳහා අමාත්‍යවරුන් අසූ දෙනෙකු විදේශ රටවල වීසා ලබාගෙන ඇති බවට පලවෙන වාර්තා සම්බන්ධයෙන් මාධ්‍යවේදීන් නැගූ පැනයකට පිළිතුරු දෙමින් අලස් මහතා ඒ බව අවධාරණය කළේය.
 
-President Ranil Wickremesinghe launched his election manifesto, focusing on economic growth, social progress, and unity. He emphasized building a prosperous nation and addressed criticism regarding IMF agreements and anti-corruption efforts.
-
-🟩
-
-President Ranil Wickremesinghe has appealed to me to build a useful and prosperous country.
-
-President Ranil Wickremesinghe's election manifesto was released today (29) at the Taj Samudra Hotel in Colombo under the theme "Five Years of Winning the country with Ranil".
-
-President Ranil Wickremesinghe said this while addressing the launch of the election manifesto of Independent candidate Ranil Wickremesinghe with the rituals.
-
-The election manifesto includes the five main issues: "Thevara trade economy, the process of going beyond 2025, towards a light -hearted society, successful homeland and united Sri Lanka."
-
-Ready to operate within the International Monetary Fund mechanism that has been reached?Sajith questioned the President.
-
-Others are still talking about the arrest of corruption and fraudsters. But we have already passed the bill.
-
-President Ranil Wickremesinghe added that I am building a useful and prosperous country.
-
-◼️
-
-[Data](articles/e7728bb5.json)
-
-[Extended Data](ext_articles/e7728bb5.ext.json)
-
----
-
-### It is difficult to say that it is easy to say
-
-*2024-08-29 11:21:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொல்வது-சுலபம்-செய்வது-கடினம்/175-342965) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Minister Ali Sabri: IMF talks difficult, unsuccessful. Next loan installment at risk. Country may lose $1.2-$1.3 billion Dec 2024-Jan 2025. Instability feared.
-
-🟩
-
-The Minister of Foreign Affairs and Justice, Prison Affairs and Constitutional Reorganization, President Ali Sabri emphasized that negotiations with the International Monetary Fund are very difficult but not a successful process.
-
-The Minister said that if the talks with the IMF are resumed, the next installment of the International Monetary Fund and the World Bank and the Asian Development Bank (ADB) will be lost in December.
-
-But aimed at re -negotiating with the International Monetary Fund targeting short political objectives, various people mislead people. It is very difficult to re -negotiate with the International Monetary Fund. The act of not successful. Only those who wish to try this can express my greetings.
-
-Minister Ali Sabri further pointed out that the country will lose $ 1.2 billion to 1.3 billion from December 2024 to January 2025 and that no one can prevent the country from becoming a instability.
+විපක්ෂයේ මන්ත්‍රීවරයෙකු එවැනි චෝදනාවක් සිදුකළද එය අසත්‍යයක් විය හැකි බව අවධාරණය කළ අමාත්‍යවරයා මැතිවරණ සමයේදී විවිධ පුද්ගලයන් විවිධ ප්‍රකාශ සිදු කරන බවද පැවසීය.
 
 ...
 
-[Data](articles/67dedc2b.json)
-
-[Extended Data](ext_articles/67dedc2b.ext.json)
+[Data](articles/042cb5a1.json)
 
 ---
 
-### "I said this last year"
+### Sajith claims Ranil and Anura are conspiring to defeat him
 
-*2024-08-29 11:09:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதை-நான்-கடந்த-வருடமே-கூறினேன்/175-342964) · `ta`
+*2024-09-12 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101911/sajith-claims-ranil-and-anura-are-conspiring-to-defeat-him) · `en`
 
-Here's a summary of 200 characters:
+The presidential candidate of the ‘Samagi Jana Balavegaya’ (SJB), Sajith Premadasa says that he has never supported the groups that plunged the country into economic crisis.
 
+Addressing a public rally held in the Kirulapone area, he stated that even if the opposing parties conspire to prevent his victory, their efforts would be futile.
 
+“Today, the only goal of that political couple is to prevent the victory of Sajith Premadasa. They are engaging in every possible conspiracy. But remember that both of them were members of the previous cabinets. They both sat alongside Rajapaksas in the cabinet”, he added
 
-President Ranil Wickremesinghe announces IMF agreement to revise PAYE tax. Opposition MP Harsha de Silva criticizes, saying SJB already proposed middle-class tax cuts. President warns against unrealistic tax reductions, citing potential shortages of essentials like gas, fuel, and medicine.
+The Opposition Leader further stated that neither he nor the ‘Samagi Jana Balavegaya’ have ever associated with the group that drove the country into bankruptcy.
 
-🟩
+“Therefore, remember that on the 21st, use your valuable vote and take the initiative for a progressive turning point for the people of the country,” Premadasa said.
 
-President Ranil Wickremesinghe's announcement that the government has reached an agreement with the International Monetary Fund (IMF) to revise the PAYE tax, "said opposition parliamentarian Dr. Harsha de Silva.
+◼️
 
-Parliamentarian Harsha de Silva told the 'X' site that the United People's Power (SJB) has already announced a 'middle -class tax reduction.
+[Data](articles/f7ba2873.json)
 
-“The president is doing the amendment that you cannot do first. I have argued since 2023 that this is possible. We have already announced potential promises such as' PAYE, including PAYE) without false promises such as double -free (JVP), ”he said.
+---
 
-He said that the President announced that the government had reached an agreement with the International Monetary Fund to correct the PAYE tax.
+### Man hacks son to death, injures wife in Borupana
 
-Speaking at a public meeting held in Eliyagoda yesterday, President Ranil criticized Sajith Premadasa and Anurakumara Dissanayake for making unrealistic promises for reducing taxes and reducing the burden of the people.
+*2024-09-12 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101910/man-hacks-son-to-death-injures-wife-in-borupana) · `en`
+
+Police have launched an investigation into the murder of a person in the Borupana area in the Mount Lavinia Police Division.
+
+The murder had taken place last morning (11) after an individual had attacked his wife and son with a sharp weapon over a family dispute that had escalated.
+
+The woman who sustained injuries from the incident has been admitted to the Kalubowila (Colombo South) Teaching Hospital.
+
+Meanwhile, the deceased is a 26-year-old resident of the Borupana area in Ratmalana.
+
+The suspect who had committed the murder has fled the area and Mount Lavinia Police is conducting further investigations to arrest him.
+
+◼️
+
+[Data](articles/736e5b78.json)
+
+---
+
+### අවුරුදු 35ක්ම මම ඉන්නේ ආණ්ඩුවේ ගෙදරක
+
+*2024-09-12 09:57:16* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-35ක්ම-මම-ඉන්නේ-ආණ්ඩුවේ-ගෙදරක/11-411908) · `si`
+
+2019 වර්ෂයේ තමන්ට ආණ්ඩුවේ නිළ නිවසින් ඉවත්වීමට තිබුනත්, එම නිළ නිවසේ තමන්ට ඉන්න පින පාදා දුන්නේ අනුර කුමාර දිසානායාක බව ශ්‍රී ලංකා නිදහස් පක්ෂ මහ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා පැවසීය.
+
+ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ අනුරාධපුර නොච්චියාගම ප්‍රදේශයේ පැවති ජන හමුවකදීය.
+
+"පෙරේදා අනුර කුමාර මහත්තයා ආවා තඹුත්තේගමට, ඇවිල්ලා මට තමයි බැනලා තියෙන්නේ, මට බනින එක සාධාරණයි.මොකද අනුරට ඡන්දේ දීලා වැඩක් නෑ කියලා මම ගමක් ගානේ කියනවා.හැබැයි එතුමා කියපු එකේ චූටි වැරැද්දක් තියෙනවා.එතුමා හැම තැනම ගිහින් කියන කථාවක් තමයි 1994 ඉඳන් මම ඉන්නේ ආණ්ඩුවේ ගෙදරකලු, ඒක ඇත්ත, බොරු නෙමෙයි.අනුර කුමාර කියන ඒ කථාව 100% ක් ඇත්ත, හැබැයි අවුරුද්ද වැරදියි.මම 1994 ඉඳන් නෙමෙයි, 1989 ඉඳන් ඉන්නේ ආණ්ඩුවේ ගෙදරක, මට වයස අවුරුදු 10දී මගේ තාත්තා පාර්ලිමේන්තු මන්ත්‍රී වෙන්නේ, ඉතින් 89 ඉඳන් තාත්තා මන්ත්‍රී නම් මම තාත්තාගේ ගෙදර ඉන්නේ නැතිව අනුර කුමාරගේ ගෙදර ඉන්නද? ඒක මගේ වාසනාව වෙන්න ඇති.
 
 ...
 
-[Data](articles/47973829.json)
-
-[Extended Data](ext_articles/47973829.ext.json)
+[Data](articles/1a1e5ace.json)
 
 ---
 
-### Ranil Wickremesinghe released the election manifesto
+### කුලියාපිටිය මෝටර් රථ එකලස් කිරීමේ කර්මාන්ත ශාලාව නුදුරේදීම මෙහෙයුම් අරඹයි
 
-*2024-08-29 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/192275) · `ta`
+*2024-09-12 09:33:54* · [`adalk`](https://www.ada.lk/breaking_news/කුලියාපිටිය-මෝටර්-රථ-එකලස්-කිරීමේ-කර්මාන්ත-ශාලාව-නුදුරේදීම-මෙහෙයුම්-අරඹයි/11-411907) · `si`
 
-Here's a summary of 200 characters:
+වෙස්ටර්න් ඔටෝමොබයිල් එසෙම්බ්ලි පුද්ගලික සමාගම කුලියාපිටිය, මහනුගලන්ද දී සිය අති නවීන වාහන (SKD) එකලස් කිරීමේ කර්මාන්තශාලාව ලඟදීම අරම්භ කරන බව එම සමාගම නිවේදනය කරයි.
 
+මෙම නවීන කර්මාන්තශාලාව තිරසාර වර්ධනය සහ දිගුකාලීන අභිවෘද්ධිය සඳහා අවශ්‍ය නවීන තාක්ෂණික නිපුණතා සහ දැනුමෙන් ජාතියේ තරුණ තරුණියන් සන්නද්ධ කරමින්, අප දේශය ආර්ථික සංවර්ධනය කරා ගෙන යාමට දායක වෙනු ඇත.
 
-
-Ranil Wickremesinghe releases election manifesto. Key points: Therava Business Economy, post-2025 vision, light-wide society, successful homeland, united Sri Lanka.
-
-🟩
-
-President Ranil Wickremesinghe, who is contesting as an independent candidate in the upcoming presidential election, was released today (29) at the Taj Samudra Hotel in Colombo under the theme "Five Years of Ranil".
-
-The election manifesto includes the five main elements of the "Therava Business Economy, the process of going beyond 2025, towards a light -wide society, a successful homeland and a united Sri Lanka."
-
-◼️
-
-[Data](articles/255ce51d.json)
-
-[Extended Data](ext_articles/255ce51d.ext.json)
-
----
-
-### India hands over first payment for implementing hybrid power projects in islands off Jaffna
-
-*2024-08-29 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101586/india-hands-over-first-payment-for-implementing-hybrid-power-projects-in-islands-off-jaffna) · `en`
-
-The first payment towards implementation of Hybrid Power Projects in Three Islands off Jaffna has been handed over by the High Commission of India to Sri Lanka Santosh Jha to the Secretary of Minister of Power and Energy, Dr. Sulakshana Jayawardena and Chairman of Sri Lanka Sustainable Energy Authority (SLSEA) Mr. Ranjith Sepala.
-
-The handing over of the funding was carried out at a ceremony held at the Indian High Commission in Colombo on 28 August 2024.
-
-Issuing a statement in this regard, the Indian High Commission in Colombo said a Memorandum of Understanding for the implementation of the hybrid renewable energy projects in Delft, Nainativu and Analaitivu islands was signed between the Government of the Republic of India and the Government of Sri Lanka in March 2022.
-
-Subsequently, contract for the project implementation was signed by SLSEA with M/s. U Solar Clean Energy Solutions Pvt. Ltd on 01 March 2024, the statement added.
+කර්මාන්තශාලාව ආයෝජන මණ්ඩලයේ අනුමැතිය ලත් ව්‍යාපෘතියක් වේ. ජාත්‍යන්තර මෝටර් රථ විශේෂඥයින්ගේ උපදෙස් මත නිර්මාණය කරන ලද සහ ජර්මනිය, ජපානය සහ කොරියාවේ නවීන තාක්ෂණයෙන් නිෂ්පාදිත යන්ත්‍රසූත්‍ර වලින් සමන්විත වන අතර මෙම කර්මාන්තශාලාව ඉහළම ජාත්‍යන්තර ප්‍රමිතීන් යටතේ ක්‍රියාත්මක වේ. බහු-වෙළඳ නාම හැසිරවිය හැකි නම්‍යශීලී පද්ධතියක් මත එහි කාර්යක්ෂමතාව පදනම් වී ඇත. දැඩි ජාත්‍යන්තර ප්‍රමිතීන්ට අනුගත වෙමින්, කර්මාන්තශාලාව කලාපයේ ප්‍රමුඛතම මොටර් රථ එකලස් කිරීමේ කේන්ද්‍රස්ථානයක් බවට පත්වනු ඇත.
 
 ...
 
-[Data](articles/7bef24ce.json)
-
-[Extended Data](ext_articles/7bef24ce.ext.json)
+[Data](articles/5dd1a8ea.json)
 
 ---
 
-### Foreign monitors started tasks
+### மகனை கொலை செய்த தந்தை தலைமறைவு
 
-*2024-08-29 11:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-கண்காணிப்பாளர்கள்-பணிகளை-ஆரம்பித்தனர்/175-342963) · `ta`
+*2024-09-12 09:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனை-கொலை-செய்த-தந்தை-தலைமறைவு/175-343658) · `ta`
 
-EU election monitors start work in Sri Lanka. Nacho Sanchez Amo leads as chief observer. He's a Spanish MP in European Parliament.
+கல்கிஸ்ஸை பொலிஸ் பிரிவிற்கு உட்பட்ட பொருபன பிரதேசத்தில் நபர் ஒருவர் தனது மகன் மற்றும் மனைவியை தாக்கிவிட்டு தலைமறைவாகியுள்ளார்.
 
-🟩
+நேற்று (11) காலை குடும்ப தகராறு முற்றிய நிலையில் கணவன் தனது மனைவி மற்றும் மகனை கூரிய ஆயுதத்தால் தாக்கியுள்ளார்.
 
-EU election monitors who have come to Sri Lanka to monitor the presidential election have begun their duties this morning.
+தாக்குதலில் காயமடைந்த இருவரும் களுபோவில வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். இதில் ரத்மலானை பொருபனை பிரதேசத்தை சேர்ந்த 26 வயதுடைய நபர் உயிரிழந்துள்ளார்.
 
-Nacho Sanchez Amo is the chief observer of the EU Election Monitoring Committee.
-
-Nacho Sanchez Amo is a Member of Parliament elected to the European Parliament by representing Spain.
+கொலையை செய்த சந்தேகநபர் பிரதேசத்தை விட்டு தப்பிச் சென்றுள்ளதுடன், சந்தேகநபரை கைது செய்வதற்கான மேலதிக விசாரணைகளை கல்கிஸ்ஸை பொலிஸார் மேற்கொண்டு வருகின்றனர். R
 
 ◼️
 
-[Data](articles/a5594c45.json)
-
-[Extended Data](ext_articles/a5594c45.ext.json)
+[Data](articles/5c5ba420.json)
 
 ---
 
-### Club spring murder;Former Provincial Council member arrested
+### Postal voting for Presidential Election ends today
 
-*2024-08-29 11:05:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-முன்னாள்-மாகாண-சபை-உறுப்பினர்-கைது/175-342962) · `ta`
+*2024-09-12 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101909/postal-voting-for-presidential-election-ends-today) · `en`
 
-Former Provincial Council member arrested for shooting at tattoo parlor in Athurukiriya. 55-year-old suspect held with gun and bullets.
+The postal voting process for the Presidential Election 2024 is scheduled to end today (12).
 
-🟩
+The government employees who were unable to cast their postal votes on September 4, 5, and 6 were given the opportunity to cast their vote yesterday and today (12).
 
-A former member of the Western Provincial Council has been arrested on Thursday (29) in connection with the shooting of Surendra Wasantha Perera alias Vasantha, a club, a club, who was attending a tattooing center in Athurukiriya.
+Therefore, the voters who use postal voting today can go to the district election office or the Divisional Secretariat where their workplace is located and cast their votes.
 
-A 55 -year -old man has been told that the firing have been staying at his home for 25 days.
+However, the Election Commission stated that any government employee who applied for postal voting will no longer be able to use postal votes after today.
 
-A gun and 15 bullets have been found from a rented house in the Kalpothawa area in the Kalpothawa area of ​​Atukuriya.
+Meanwhile, the accepting of nominations for the Elpitiya Pradeshiya Sabha in the 2024 Local Government Elections will also end today.
 
-◼️
-
-[Data](articles/59d52e74.json)
-
-[Extended Data](ext_articles/59d52e74.ext.json)
-
----
-
-### A large number of relief to public servants at the five-year plan
-
-*2024-08-29 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200457) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-President Ranil Wickremesinghe launched policy for public servants:
-
-- Salary increase
-
-- Study leave for under 40s
-
-- Laptops/tabs/smartphones
-
-- Priority housing
-
-- Disaster loan increase
-
-- Home office option
-
-- Senior citizen facilities
-
-- Disability rights act
-
-- Signal language policy
-
-🟩
-
-President Ranil Wickremesinghe's policy has been launched as an independent candidate.
-
-President Ranil Wickremesinghe's policy has been launched as an independent candidate.
-
-President Ranil Wickremesinghe launched the "Sri Lanka 'policy statement before the Maha Sangha at the Taj Samudra Hotel in Colombo.
-
-The President was released via http://www.ranil2024.lk.
-
-There are several things that are particularly focused on the five-year plan. That is,
-
-President Ranil Wickremesinghe has stated in his policy statement to pay Rs.
-
-It has further stated that the Gross-salary is Rs.
-
-* Granting weight leave to study the courses that contribute to the public servants under 40 years of age.
-
-* Providing laptops, tabs, smartphones public servants on relief basis to lift the public service efficient and formal.
-
-* Priority to public servants without homeless public servants at the government's new housing schedule.
-
-Steps will be taken to increase the disaster loan and restore property and housing loans.
+Accordingly, the Election Commission stated that the relevant nominations will be accepted at the Galle District Secretariat, until 12.00 noon today.
 
 ...
 
-[Data](articles/05f02dfd.json)
-
-[Extended Data](ext_articles/05f02dfd.ext.json)
+[Data](articles/a92f390e.json)
 
 ---
 
-### India cash out Hubrated Power Projects in the North
+### மினுவாங்கொடை அதிரடி சுற்றிவளைப்பில் சிக்கிய பொருட்கள்
 
-*2024-08-29 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200456) · `si`
+*2024-09-12 08:57:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மினுவாங்கொடை-அதிரடி-சுற்றிவளைப்பில்-சிக்கிய-பொருட்கள்/175-343656) · `ta`
 
-Here's a summary of the text in 200 characters:
+மினுவாங்கொடை அழகு நிலையமொன்றில் பெண்ணொருவருக்கு பூசப்பட்ட அழகுசாதனப் பொருட்களால் ஒவ்வாமை ஏற்பட்டு தலைமுடி உதிர்ந்த சம்பவத்தையடுத்து நேற்று (11) மினுவாங்கொடை நகரில் விஷேட சுற்றிவளைப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளன.
 
+இந்த சுற்றிவளைப்புகளில் காலாவதியான அழகுசாதனப் பொருட்கள் கண்டுபிடிக்கப்பட்டுள்ளதாக நுகர்வோர் சேவை அதிகார சபையின் கம்பஹா மாவட்ட பிரிவு தெரிவித்துள்ளது.
 
+இறக்குமதி விவரங்கள் இல்லாத அழகுசாதனப் பொருட்கள் மற்றும் விற்பனையிலிருந்து தடைசெய்யப்பட்ட அழகுசாதனப் பொருட்கள் என்பன கண்டுபிடிக்கப்பட்டதுடன், தடை செய்யப்பட்ட அழகுசாதனப் பொருட்களை உற்பத்தியாளர் அல்லது இறக்குமதியாளர் இன்றி அதிக விலைக்கு விற்பனை செய்த 14 வியாபாரிகள் கைது செய்யப்பட்டு பிணையில் விடுவிக்கப்பட்டனர்.
 
-India funds power projects in Northern Sri Lanka. First installment handed over to Sri Lanka. MoUs signed in 2022. Construction underway. Projects expected to complete in March 2025, providing electricity to islands.
-
-🟩
-
-Helft, Habbrid, is to be built in Nainathivu and Alayi islands.
-
-India officially handed over the first installment yesterday (28).
-
-The Indian High Commission in Colombo was handed over to the Minister of Power and Energy Sarithchana Jayawardena and Sri Lanka Sustainable Energy Authority (Power and Energy).
-
-MoU signed in March 2022 in March 2022.
-
-The Sri Lanka Sustainable Energy Authority and U Sulale Clean Energy, 2024 was signed between the Sri Lanka Sustainable Energy Authority and U Sula Clean Enrgi.
-
-Once these projects are in place, the islands provide electricity to the islands.
-
-The preliminary construction work has already begun while 2025 these projects will be completed at early March and hand over the country in April 2025.
-
-◼️
-
-[Data](articles/e4e92e83.json)
-
-[Extended Data](ext_articles/e4e92e83.ext.json)
-
----
-
-### Ranil released the election manifesto
-
-*2024-08-29 10:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-விஞ்ஞாபனத்தை-வெளியிட்டார்-ரணில்/175-342960) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"President Ranil Wickremesinghe releases election manifesto ahead of presidential poll. He contests independently."
-
-🟩
-
-President Ranil Wickremesinghe, who is contesting independently in the upcoming presidential election, released his election manifesto.
-
-◼️
-
-[Data](articles/996a49dd.json)
-
-[Extended Data](ext_articles/996a49dd.ext.json)
-
----
-
-### President Ranil’s election manifesto unveiled
-
-*2024-08-29 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101585/president-ranils-election-manifesto-unveiled) · `en`
-
-President Ranil Wickremesinghe’s manifesto for the 2024 Presidential Election was officially launched in Colombo, a short while ago.
-
-The ceremonial event of unveiling the manifesto titled ‘Five Years of Winning the Country with Ranil’ commenced at the Taj Samudra Hotel in Colombo this morning (29), with the arrival of President Ranil Wickremesinghe at the venue.
-
-This document outlines five principal components: “Theravada Trade Economy,” “Operation - Beyond 2025,” “Make a Radiant Society,” “Win the Motherland,” and “Unite Sri Lanka.”
-
-The ceremony is also attended by Prime Minister Dinesh Gunawardena, Ministers Ali Sabry, Bandula Gunawardena, Nimal Siripala de Silva, and other ministers, parliamentarians and political leaders supporting the President as well as religious leaders.
+தடைசெய்யப்பட்ட இந்த அழகுசாதனப் பொருட்களைப் பயன்படுத்தி அழகு சிகிச்சைகள் செய்யப்பட்ட சலூன்கள் ஆய்வு செய்யப்பட்டு அவற்றின் உரிமையாளர்கள் மற்றும் பணியாளர்கள் கைது செய்யப்பட்டு பிணையில் விடுவிக்கப்பட்டனர்.
 
 ...
 
-[Data](articles/08ad2216.json)
-
-[Extended Data](ext_articles/08ad2216.ext.json)
+[Data](articles/1a00636a.json)
 
 ---
 
-### Niroshan Premaratne has joined the United People's Power
+### கல்லடிப்பட்ட சிறுவனை தேடிச்சென்ற ஷிரந்தி ராஜபக்ஸ
 
-*2024-08-29 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/192266) · `ta`
+*2024-09-12 08:42:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்லடிப்பட்ட-சிறுவனை-தேடிச்சென்ற-ஷிரந்தி-ராஜபக்ஸ/175-343655) · `ta`
 
-Here's a summary of the text in 200 characters:
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவின் பிரச்சார கூட்டத்தின் மீது கற்கள் வீசப்பட்டதில் சிறுவன் ஒருவன் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
 
+இந்த கூட்டத்தில் கலந்து கொண்ட சிறுவன் காயமடைந்து ஹம்பாந்தோட்டை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக ஹம்பாந்தோட்டை பொலிஸார் தெரிவித்தனர்.
 
+இதையடுத்து பாதிக்கப்பட்ட சிறுவனை சிரந்தி ராஜபக்ஸ நேரில் சென்று பார்த்து நலம் விசாரித்துள்ளார்.
 
-Niroshan Premaratne joins United People's Power at Tangalle rally. He's Matara district candidate for Sri Lanka PA's Peramuna. Targeting 2024 presidential election. Joined opposition leader Sajith Premadasa's winning rally on Wednesday.
+இந்த பொதுக்கூட்டத்தில் நாமல் ராஜபக்ச, சமல் ராஜபக்ஷ, ஷிரந்தி ராஜபக்ஷ ஆகியோர் பங்கேற்கவிருந்தனர்.
 
-🟩
-
-Niroshan Premaratne joined the United People's Power at a people's victory rally in Tangalle.
-
-Niroshan Premaratne, the Matara district candidate of the Sri Lanka PA's Peramuna, climbed the stage at the winning rally of Opposition Leader Sajith Premadasa on Wednesday (28).
-
-He joined the rally by the United People's Power in Tangalle, targeting the 2024 presidential election.
+கூட்ட அரங்கின் மீது சுமார் மூன்று கற்கள் வீசப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர். R
 
 ◼️
 
-[Data](articles/db5da56c.json)
-
-[Extended Data](ext_articles/db5da56c.ext.json)
+[Data](articles/f3a91f44.json)
 
 ---
 
-### හිටපු ඇමතිවරයෙකුගේ සහාය ජනපතිට
+### Peru’s Fujimori, divisive head of political dynasty, dies age 86
 
-*2024-08-29 09:59:27* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමතිවරයෙකුගේ-සහාය-ජනපතිට/11-411624) · `si`
+*2024-09-12 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101908/perus-fujimori-divisive-head-of-political-dynasty-dies-age-86) · `en`
 
-මෙරව ජනාධිපතිවරණයේදී  ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සම්පුර්ණ සහාය ලබාදීමට තම වෘත්තීය සමිති කෘත්‍යධිකාරි මණ්ඩලය ඒකමතිකව තීරණය කරන ලද බව ලංකා කම්කරු එක්සත් පෙරමුණේ නායක, හිටපු අමාත්‍ය එස්. සතාසිවම් මහතා පැවැසීය.
+Former Peruvian president Alberto Fujimori, who steered economic growth during the 1990s but was later jailed for human rights abuses stemming from a bloody war against Maoist rebels, died on Wednesday. He was aged 86.
 
-අපට දේශපාන කිරීමට රටක් තිබිය යුතු බවත්, රට ආරක්ෂා කිරීමේ අවබෝධය ඇත්තේ රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාට පමණක් බැවින් රට ආරක්ෂා කර ගැනීම උදෙසා  මෙවර ජනාධිපතිවරණයේදී එතුමාට සහයෝගය ලබාදීමට  පියවර ගන්නා බවද සතාසිවම් මහතා කීය.
+Close colleagues visited him earlier in the day, reporting that he was in a critical condition.
 
-නුවරඑළිය දිස්ත්‍රික්කයේ සංචාරක ව්‍යාපාරය හා වතු ජනතාවගේ ආර්ථික නගා සිටුවීමේ දැඩි උනන්දුවක් ජනාධිපතිවරයාට ඇති බවත්, රටේ ආර්ථික තත්ත්වය ස්ථාවර කර ගැනීම සඳහා ජනාධිපතිවරයාගේ ජයග්‍රහණය අනිවාර්ය හා අත්‍යවශ්‍ය සාධකයක් බවට පත්ව ඇති බවද සතාසිවම් මහතා පැවැසීය.
+“After a long battle with cancer, our father... has just departed to meet the Lord,” his daughter Keiko Fujimori wrote in a message on X, also signed by the former leader’s other children.
+
+Fujimori, the son of Japanese immigrants, was the little-known chancellor of a farming university when elected to office in 1990. He quickly established himself as a cunning politician whose hands-on style produced results even as he angered critics for concentrating power.
 
 ...
 
-[Data](articles/0d312863.json)
+[Data](articles/a9e7bd5a.json)
 
 ---
 
-### Let us gather to emphasize the presidential candidates of the South - Blessed
+### சொல்லாமல் சென்ற OIC-க்கு வலைவீச்சு
 
-*2024-08-29 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/192264) · `ta`
+*2024-09-12 08:33:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொல்லாமல்-சென்ற-OIC-க்கு-வலைவீச்சு/175-343654) · `ta`
 
-Here's a summary of the text in 200 characters:
+தம்புத்தேகம பொலிஸ் நிலையத்தில் கடமையாற்றி வந்த பிரதான பொலிஸ் பரிசோதகர் கடந்த மூன்று நாட்களாக சேவையில் ஈடுபடவில்லை என பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன.
 
+தொடர்ந்து கடமையாற்றுவது கடினம் என பொலிஸ் புத்தகத்தில் குறிப்பு ஒன்றை எழுதிவிட்டு பொலிஸ் நிலையத்தில் இருந்து வெளியேறியுள்ளதாக உயர் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
 
+அவர் எங்கிருக்கிறார் என்பது குறித்த தகவல்களை அறிய, பொலிஸ் உளவுத்துறை அதிகாரிகளும் களமிறக்கப்படுவதாக பொலிஸ் வட்டாரங்கள் மூலம் தெரிய வந்துள்ளது.
 
-South Sri Lanka presidential candidates' stance on Tamil war crimes and missing persons protests. National Organization demands political justice and self-determination rights.
+இந்த பிரதான பொலிஸ் பரிசோதகர் தொடர்பில் நேற்று வரை எவ்வித தகவலும் கிடைக்கவில்லை என பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன.
 
-🟩
+வெலிக்கடை பொலிஸ் நிலைய கட்டளைத் தளபதியாக கடமையாற்றிய அவர் பணி இடைநிறுத்தம் செய்யப்பட்டு பின்னர் மீண்டும் பதவியேற்று கோட்டை பொலிஸ் நிலைய கட்டளைத் தளபதியாக பொறுப்பேற்றார்.
 
-Social justice activist and co -ordinator of the National Organization for the release of political prisoners
+மேலும் இவர் பல மாதங்களுக்கு முன்னர் தம்புத்தேகம தலைமையக பொலிஸ் நிலையத்திற்கு  இடமாற்றம் செய்யப்பட்டதாக பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன. R
 
-It is only certain that any major presidential candidates with chauvinist ideology will not wear justice for the war crimes that the Sri Lankan state forces committed by the Sri Lankan state forces during the war against Tamils ​​in the country.
+◼️
 
-Relationships of the missing persons for the past 15 years have been struggling for 2,500 days after the silence of the armed war.. In this case, they have prepared to hold a protest protest on the day of the International Missing Persons on the 30th.
+[Data](articles/58b3bf78.json)
 
-The National Organization has expressed its full support for the release of political prisoners for the struggle and urges all the Northeast to cooperate with the struggle.
+---
 
-The main candidates who are currently standing in the presidential election and their background are supported by the war and genocide against Tamils. They are also the ones who inspired their supporters to win the war.
+### Sri Lanka state worker wage cost to rise 0.2-pct to 3.8-pct of GDP in 2025
+
+*2024-09-12 07:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-worker-wage-cost-to-rise-0-2-pct-to-3-8-pct-of-gdp-in-2025-179317/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s public sector wage bill will rise to 0.2 percent to 3.8 percent in 2025, under increments proposed by a committee, the Finance Ministry has said.
+
+In 2023, the public sector wage bill was 3.4 percent of GDP down from 4.0 percent in 2022 and it rose to 3.6 percent in 2024, the statement said.
+
+Under proposed increments it will rise to 3.8 percent in 2024 which will be below the 2022 level.
+
+But tax revenue are expected to go to 15 percent, with motor vehicle imports also relaxed.
+
+The salary hike would be made within the recurrent primary expenditure (before interest), of 12.7 percent of GDP.
+
+As a result Sri Lanka would be able to run a primary surplus of 2.3 percent of GDP in 2025 under the IMF program.
+
+It was not possible to increase the salary again in 2023 as Sri Lanka had to keep within the IMF program targets and it can only be done in 2025 as revenues improve, the Finance Ministry said.
 
 ...
 
-[Data](articles/b310a05c.json)
-
-[Extended Data](ext_articles/b310a05c.ext.json)
+[Data](articles/0523bc2c.json)
 
 ---
 
-### Devasil Money arrested for fake and official seal of Buddhist Affairs
+### ”செப்டம்பர் 18க்கு பின் வன்முறைகள் வெடிக்கலாம்”
 
-*2024-08-29 09:55:35* · [`adalk`](https://www.ada.lk/breaking_news/බෞද්ධ-කටයුතු-කොමසාරිස්-අත්සන-හා-නිල-මුද්‍රාව-ව්‍යාජව-යොදා-ගත්-දසසිල්-මාතාව-අත්අඩංගුවට/11-411623) · `si`
+*2024-09-12 07:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டம்பர்-18க்கு-பின்-வன்முறைகள்-வெடிக்கலாம்/175-343653) · `ta`
 
-Dasasil, a 50-year-old monk, arrested for forging Buddhist seals. He attempted to travel to Dambadiva but lacked proper documentation. The Commissioner of Buddhist Affairs investigated and reported the incident to the Galle Police.
+செப்டம்பர் 18-ம் திகதி பிரச்சார நடவடிக்கைகளுக்கு காலக்கெடு முடிவடைந்த பிறகு, எதிர்க்கட்சியினர் தங்கள் சதிகாரர்களை தேசிய மக்கள் சக்தியினராக பாவித்து வன்முறை சம்பவங்களை உருவாக்கலாம் என்பதில் சந்தேகம் இருப்பதாக தேசிய மக்கள் சக்தி (NPP) தெரிவித்துள்ளது.
 
-🟩
+”நாட்டில் வன்முறைச் சம்பவங்களை என்.பி.பி உருவாக்கும் என எதிர்க்கட்சி அரசியல்வாதிகள் அரசியல் மேடைகளில் தொடர்ந்து கூறிவருகின்றனர். .இந்த அரசியல் வாதிகள் தாமே வன்முறைகளை வெடிக்கச் செய்துவிட்டு அவற்றை தேசிய மக்கள் சக்தியே செய்ததாக கூறுவார்கள் என்ற சந்தேகம் எமக்கு உள்ளது” என ஜே.வி.பி.யின் பொதுச் செயலாளர் டில்வின் சில்வா நேற்று செய்தியாளர் சந்திப்பில் கூறினார்.
 
-The Galle Police said that a Buddhist monk was arrested by the Commissioner of Buddhist Affairs and the signature of the Commissioner of Buddhist affairs to go to Dambadiva.
-
-The suspect is a 50 year old Dasasil, Dayasil, who is in a monastery in Elpitiya.
-
-Immigration and Emigration Department has gone to the Department of Immigration and Emigration to obtain Passport to go to Dambadiva. However, the Dasasil Mother had a lay ID, and the Immigration and Emigration officials have said that the passport could not be granted to the lay ID.
-
-A person who came there could help him set the Bhikkhu ID. Dasasil Missman has been given an official sealing office of the Commissioner of Buddhist Message to the Signature of the Commissioner of Buddhist Message and the Bhikku ID has applied for a letter to the signature of the Commissioner of Buddhist Affairs.
-
-The Commissioner of Buddhist Affairs had questioned the Commissioner of Buddhist Affairs, which was not the case.
+இவ்வாறான வன்முறைச் சம்பவங்கள் இடம்பெற்றதாகக் கூறுபவர்களிடம் இருந்து வாக்குமூலங்களைப் பதிவு செய்து, அது எவ்வாறு அவர்களுக்குத் தெரிய வந்தது என்பதைக் கண்டறிந்து, குற்றவாளிகளுக்கு எதிராக நடவடிக்கை எடுக்குமாறு பாதுகாப்புப் படையினரிடம் சில்வா கோரிக்கை விடுத்துள்ளார்.
 
 ...
 
-[Data](articles/08805eaf.json)
-
-[Extended Data](ext_articles/08805eaf.ext.json)
+[Data](articles/d521f94c.json)
 
 ---
 
-### Ceremonial launch of President Ranil’s election manifesto begins
+### අපනයනකරුවන්ට ලැබුණ සහනය
 
-*2024-08-29 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101584/ceremonial-launch-of-president-ranils-election-manifesto-begins-) · `en`
+*2024-09-12 07:45:05* · [`adalk`](https://www.ada.lk/breaking_news/අපනයනකරුවන්ට-ලැබුණ-සහනය/11-411906) · `si`
 
-The ceremony to unveil the election manifesto of President Ranil Wickremesinghe, who is contesting the 2024 Presidential Election as an independent candidate, commenced a short while ago at the Taj Samudra Hotel, Colombo.
+භාණ්ඩ අපනයනකරුවන්ට තම අපනයන ඉපයීම් ශ්‍රී ලංකා රුපියල්වලට පරිවර්තනය කිරීම සඳහා වූ කාල සීමාව ලිහිල් කිරීමට ශ්‍රී ලංකා මහ බැංකුව කටයුතු කර තිබේ.
 
-The ceremony to launch the manifesto, titled “Five Years of Winning the Country with Ranil “, commenced with the arrival of President Ranil Wickremesinghe at the venue.
+සාර්ව ආර්ික වර්ධනයන්, විශශේෂශයන්ම දේශීය විදේශ විනිමය වෙළඳපොළෙහි තත්ත්වයන්හි වර්ධනයන් සැලකිල්ලට ගෙන මෙම අපනයනකරුවන්ට තම අපනයන ආදායම ශ්‍රී ලංකා රුපියල්වලට පරිවර්තනය කිරීමට අදාළ කාලය මෙසේ ලිහිල් කර තිබේ.
 
-The ceremony is also attended by Prime Minister Dinesh Gunawardena, Ministers Ali Sabry, Bandula Gunawardena, Nimal Siripala de Silva, and other ministers, parliamentarians and political leaders supporting the President as well as religious leaders.
+මේ අනුව භාණ්ඩ අපනයනකරුවන්ට තම අපනයන ඉපයීම්, අවසරලත් ගෙවීම්ම් සඳහා භාවිතයෙන් අනතුරුව ශේෂයන් ශ්‍රී ලංකා රුපියල් වලට අනිවාර්යයෙන් පරිවර්නය කිරීම සඳහා අදාළ වන කාලසීමාව, අපනයන ආදායම ලැබුණු දින සිට, ලැබීම් ලද මාසය ඇතුළුව ලිත් මාස තුන (03)ක් අවසන් වීමෙන් පසු මාසයේ දහවන (10 වැනි) දිනය දක්වා දීර්ඝ කර ඇත.
 
-In a post on his official social media accounts this morning, the President said: “Today, I lay out my manifesto to rebuild our country. I promise only what I can deliver, and I will do my best for our nation in the next five years. I will rebuild this country, and the next five years will be a triumphant time for Sri Lanka.”
+කලින් එම කාලසිමාව අපනයන ආදායම ලැබුණු දිනට පසුව එළඹෙන මාසශේ හත්වන (07 වැනි) දින අදාල ශේෂයන් ශ්‍රී ලංකා රුපියල්වලට අනිවාර්යයෙන් පරිවර්තනය කළ යුතුව තිබුණි.
 
 ◼️
 
-[Data](articles/4eb835f6.json)
-
-[Extended Data](ext_articles/4eb835f6.ext.json)
+[Data](articles/e25ce615.json)
 
 ---
 
-### Launching of Ranil's policy statement
+### ’எமது முடிவில் எந்த மாற்றமும் இல்லை’
 
-*2024-08-29 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200455) · `si`
+*2024-09-12 07:40:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-முடிவில்-எந்த-மாற்றமும்-இல்லை/175-343652) · `ta`
 
-Here's a summary of 200 characters:
+ஜனாதிபதித் தேர்தலில் சஜித் பிரேமதாசவை ஆதரிக்கின்ற முடிவில் எந்த மாற்றங்களும் இல்லை என இலங்கைத் தமிழரசுக் கட்சி மீண்டும் அறிவித்துள்ளது.
 
+இலங்கைத் தமிழரசுக் கட்சியின் பிரதானிகள் குழு ஒன்று அண்மையில் கூடி இந்த முடிவு உறுதி செய்ததாக அதன் பேச்சாளர் எம். ஏ. சுமந்திரன் தமது எக்ஸ் தளத்தில் பதிவிட்டுள்ளார்.
 
+சஜித் பிரேமதாசவைத் தவிர ஏனைய எந்த வேட்பாளர்களுடனும் பேச்சுவார்த்தை எதுவும் நடத்தப் போவதில்லை எனவும் ஏற்கனவே எடுக்கப்பட்ட முடிவில் எந்த மாற்றமும் இல்லை என்றும் அவர் குறிப்பிட்டுள்ளார்.
 
-President Ranil Wickremesinghe launches policy statement at Taj Samudra Hotel, Colombo. "Country with Ranil" slogan introduced during presidential election campaign.
-
-🟩
-
-The ceremony was launched by President Ranil Wickremesinghe's policy statement from the Presidential Election as an independent candidate.
-
-The ceremony will be held at the Taj Samudra Hotel, Colombo.
-
-"The policy statement called for the 'country with Ranil' has been named the policy statement.
+கட்சியின் மத்திய செயற்குழுவினால் மேற்கொள்ளப்பட்ட தீர்மானங்களை அமுலாக்குவது குறித்தே தற்போது ஆராயப்படுகிறது என்றும் சுமந்திரன் கூறியுள்ளார். (a)
 
 ◼️
 
-[Data](articles/96212bbb.json)
-
-[Extended Data](ext_articles/96212bbb.ext.json)
+[Data](articles/1f615abe.json)
 
 ---
 
-### Sachin Shamulka renews its own
+### கோட்டாவிற்கு பரிந்து பேசினார் நாமல்
 
-*2024-08-29 09:43:03* · [`adalk`](https://www.ada.lk/sports/සචින්-ශමල්ක-තමන්ගේම-වාර්තා-තුන-අලුත්-කරයි/9-411622) · `si`
+*2024-09-12 07:38:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவிற்கு-பரிந்து-பேசினார்-நாமல்/175-343651) · `ta`
 
-Sachin Shamulka sets three records in 14th and 100m races at Matara's Uyanwatta Curryard. Wins first place in all three events. Achieves record-breaking performance at Southern Provincial School Sports Competition 2023.
+கோட்டாபய ஜனாதிபதி பதவியிலிருந்து விலகுவதற்கு முன்னர் எரிபொருள் மற்றும் எரிவாயு வரிசைகளை நிறுத்துவதற்கும் மின்சாரத் தடைகளை நிறுத்துவதற்கும் கோட்டாபய ராஜபக்சவின் அரசாங்கம் போதிய நிதி மற்றும் நடவடிக்கைகளை வழங்கியதாக ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ நேற்று அவிசாவளையில் தனது தேர்தல் பிரச்சாரத்தின் போது தெரிவித்தார்.
 
-🟩
+இந்தப் பிரச்சினைகளைத் தீர்ப்பதற்குப் பொறுப்பானவர்கள் என்று பலர் தம்மைக் கூறியமைக்கு பதிலளிக்கும் வகையில் அவர் இந்த அறிக்கையை வெளியிட்டார்.
 
-DACchin Shamulka, DA Leaka, who contested the 14th and 100 meters in the tournament, and put three new records in the 20th of the year.The first three events occupied the first places. The match was held at the Uyanwatta Curryard of Matara.
+உமா ஓயா நீர்மின் நிலையம் மற்றும் சம்பூர் மின் உற்பத்தி நிலையம் என்பன நல்லாட்சி அரசாங்கத்தினால் குறித்த நேரத்தில் பூர்த்தி செய்யப்பட்டிருந்தால், கோட்டாபய ராஜபக்ச பதவி விலக வேண்டிய நிலை ஏற்பட்டிருக்காது. நல்லாட்சி அரசாங்கம் இந்த திட்டங்களை வேண்டுமென்றே ஒத்திவைத்தது, இறுதியில் அந்த பழி கோட்டாபயவின் நிர்வாகத்தின் மீது விழுந்தது.
 
-Accordingly, the record of the year 2023 was the record of the year 2023 at the Southern Provincial School Sports Competition in the Southern Provincial School Sports Competition.This special achievement is reported.
-
-It was Sachin Shamul in the UPFA won the UPFA's victory at the Elpitiya Education Zone player.
-
-◼️
-
-[Data](articles/c01106e3.json)
-
-[Extended Data](ext_articles/c01106e3.ext.json)
-
----
-
-### A warm situation near the passport kantomy in Vavuniya
-
-*2024-08-29 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200454) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Department of Immigration and Emigration present outside Vavuniya Regional Office.
-
-🟩
-
-It is reported that the Department of Immigration and Emigration has been in front of the Vavuniya Regional Office.
-
-◼️
-
-[Data](articles/10b33d30.json)
-
-[Extended Data](ext_articles/10b33d30.ext.json)
-
----
-
-### Former Member of Member arrested for holding to Club Spring
-
-*2024-08-29 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200453) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Arrest made in Club Wasantha murder case. Suspect linked to second gunman and car driver. Also arrested: Western Provincial Council member involved in crime.
-
-🟩
-
-Surendra has arrested a person who supported the second gunman and the car driver of Club Wasantha murder.
-
-It is also arrested that a member of the Western Provincial Councils was a member of the Western Provincial Council.
-
-◼️
-
-[Data](articles/b99847ce.json)
-
-[Extended Data](ext_articles/b99847ce.ext.json)
-
----
-
-### Namal accepted responsibility
-
-*2024-08-29 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200452) · `si`
-
-Namal Rajapaksa proposes introducing technology to improve public services, reduce queues, and boost efficiency. He claims his party has a plan to achieve this goal.
-
-🟩
-
-Presidential candidate at the Sri Lanka General Front Namal Rajapaksa says that the new technology should be introduced to efficient service to efficient.
-
-He points out that his party has a proper program for this purpose.
-
-He was speaking at a familiarity in Hakmana area.
+பங்களாதேஷ் பிரதமருக்கு ஏற்பட்ட கதியே கோட்டாபய ராஜபக்சவுக்கும் ஏற்பட்டுள்ளதாக நாமல் ராஜபக்ச சுட்டிக்காட்டியுள்ளார்.
 
 ...
 
-[Data](articles/1f11f67d.json)
-
-[Extended Data](ext_articles/1f11f67d.ext.json)
+[Data](articles/668ee021.json)
 
 ---
 
-### Ex-Provincial Councillor arrested for aiding ‘Club Wasantha’ murder suspects
+### ADB approves $100 million loan to support Sri Lanka’s water supply and sanitation
 
-*2024-08-29 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101583/ex-provincial-councillor-arrested-for-aiding-club-wasantha-murder-suspects-) · `en`
+*2024-09-12 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101907/adb-approves-100-million-loan-to-support-sri-lankas-water-supply-and-sanitation) · `en`
 
-A former Western Provincial Councillor has been arrested for allegedly aiding and providing lodging to the second gunman and the car driver involved in the killing of two persons including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’.
+The Asian Development Bank (ADB) has approved a $100 million policy-based loan to support Sri Lanka’s water supply and sanitation sector reforms to enhance the country’s resilience to climate change impacts and promote long-term sustainability.
 
-Meanwhile, the second gunman and the car driver wanted in connection with the recent killing of two persons including businessman ‘Club Wasantha’, were arrested yesterday (28) by the Panadura Police Divisional Crimes Detective Bureau at Pinwaththa in Panadura.
+The Water Supply and Sanitation Reform Program, composed of two subprograms of $100 million each, will contribute to a more resilient and sustainable delivery of water supply and sanitation services.
 
-The arrested suspects are reportedly aged 29 and 32 and are residents of the Nagoda and Ahugalla areas.
+Subprogram 1 will establish policies and strategies nationally and for the National Water Supply and Drainage Board (NWSDB) while the subprogram 2 will support the implementation of reform actions and guidelines.
 
-According to the police, it has been revealed in the investigation so far that the suspects changed from the car to a van and travelled to Kadawata from there along the Southern Expressway to Matara after carrying out the shooting.
+“Efficient delivery of safe and reliable water supply in Sri Lanka is limited by fragmented water resources management and exacerbated by climate change. This significantly affects the daily life of Sri Lankans—many of whom do not have access to piped water supply,” said Senior Urban Development Specialist Pedro Almeida.
 
 ...
 
-[Data](articles/8667b06f.json)
-
-[Extended Data](ext_articles/8667b06f.ext.json)
+[Data](articles/3cfc2cbe.json)
 
 ---
 
-### A government's government that did not submit racism
+### அடிக்கடி மழை பெய்யக்கூடும்
 
-*2024-08-29 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200451) · `si`
+*2024-09-12 07:31:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடிக்கடி-மழை-பெய்யக்கூடும்/175-343650) · `ta`
 
-Here's a 200-character summary:
+இன்று (12) சப்ரகமுவ, மேல் மற்றும் வடமேல்  மாகாணங்களிலும் அத்துடன் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அடிக்கடி மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
 
+ஊவா மாகாணத்தின் பல இடங்களிலும் அத்துடன் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களின் பல இடங்களிலும் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
 
+மத்திய மலைப் பிராந்தியத்தின் மேற்கு சரிவுகளிலும்,வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை , மொனராகலை மற்றும் திருகோணமலை மாவட்டங்களிலும் மணித்தியாலத்திற்கு 40 - 50 கிலோமீற்றர் வேகத்தில் அடிக்கடி பலத்த காற்று வீசக் கூடும்.
 
-Sri Lanka presidential candidate Anura Kumara Dissanayake criticizes previous government for racism and communalism. He advocates for a new government free from racism and communalism, citing the National People's Force as an example. Dissanayake emphasizes the importance of national unity against racism.
+புத்தளம் தொடக்கம் கொழும்பு, காலி ஊடாக மாத்தறை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
 
-🟩
-
-Presidential candidate Anura Kumara Dissanayake says that there is no room for racism in the country under a government.
-
-He pointed out that the last government committed racism and played communalism.
-
-Addressing a rally in Kinniya, Anura Kumara Dissanayake made these comments.
-
-"Racism is feeding other racists by one racism. So the politics of our country is a racist politics. So the governments were led to the past. Isn't it?So, what's going on. Racism is the one who is working by communalism. We must create a government now a government that does not make communalism, racism and the agenda. At any time in history, there was no fallen into racism. The only movement that has not used communalism into their politics alone is the national folk force. Therefore, if a government about the national unity is necessary against the racism of the country, the fair should only beat the national government forces. A government of the national protocol does not allow any stage or racist statement. "
-
-◼️
-
-[Data](articles/9d766741.json)
-
-[Extended Data](ext_articles/9d766741.ext.json)
-
----
-
-### UN food agency suspends staff movement in Gaza after vehicle fired on
-
-*2024-08-29 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101582/un-food-agency-suspends-staff-movement-in-gaza-after-vehicle-fired-on) · `en`
-
-The United Nations World Food Programme temporarily suspended movement of its employees across the Gaza Strip on Wednesday, saying at least 10 bullets struck one of its clearly marked vehicles as it approached an Israeli military checkpoint.
-
-WFP said in a statement that a convoy of two armoured vehicles received “multiple clearances by Israeli authorities to approach” the Wadi Gaza bridge checkpoint on Tuesday evening. Bullets hit one of the vehicles, but no one in it was hurt.
-
-“Though this is not the first security incident to occur during the war, it is the first time that a WFP vehicle has been directly shot at near a checkpoint, despite securing the necessary clearances,” WFP said.
-
-It said the vehicle was a “few metres” from the Israeli checkpoint when it was hit.
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 30 - 40 கிலோமீற்றர் வேகத்தில் தென்மேற்குத் திசையில் இருந்து காற்று வீசும்.
 
 ...
 
-[Data](articles/8cfc1ac6.json)
-
-[Extended Data](ext_articles/8cfc1ac6.ext.json)
+[Data](articles/456ec551.json)
 
 ---
 
-### Paranavidhanage to the place of Talata
+### Showers expected in several provinces and districts
 
-*2024-08-29 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/192262) · `ta`
+*2024-09-12 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101906/showers-expected-in-several-provinces-and-districts) · `en`
 
-Elections Commission appoints Karunaratne Paranavidhanage as MP after Talata Athukorala's resignation.
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
 
-🟩
+Showers or thundershowers may occur at several places in Uva province and in Ampara and Batticaloa districts during the evening or night.
 
-The Elections Commission has issued a gazette notification to appoint former MP Karunaratne Paranavidhanage to the vacancy of the parliamentary post due to the departure of the United People's Power Member Talatha Athukorala MP.
-
-Ratnapura District Member of Parliament, Dalada Athukorala, has in writing to the Elections Commission in writing due to the departure of the parliamentary post.
-
-The Elections Commission has issued a name to the Elections Commission to appoint Karunaratne Paranavidanage as a Member of Parliament for the Election District, under Article 64 (2) of the Parliamentary Elections Act No. 1 of 1981, under Article 99 (13 (13) of the Constitution of the Employees' Constitution.
-
-◼️
-
-[Data](articles/5272a3c7.json)
-
-[Extended Data](ext_articles/5272a3c7.ext.json)
-
----
-
-### Ranil and Sajith to unveil election manifestos today
-
-*2024-08-29 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101581/ranil-and-sajith-to-unveil-election-manifestos-today) · `en`
-
-The election manifesto of President Ranil Wickremesinghe who is contesting the presidential election as an independent candidate will be officially launched at a special ceremony in Colombo this morning (29).
-
-It is reported that all the MPs representing the ruling party as well as those supporting Ranil Wickramasinghe in the presidential election have been invited for the unveiling event.
-
-Meanwhile, the presidential election manifesto of the Samagi Jana Balawegaya (SJB) is also scheduled to be unveiled today.
-
-MP Lakshman Kiriella mentioned that Samagi Jana Balawegaya’s (SJB) Presidential Candidate and Leader of the Opposition, Sajith Premadasa has planned to first present the election manifesto to the Venerable Mahanayake Theros.
-
-◼️
-
-[Data](articles/79dc7c58.json)
-
-[Extended Data](ext_articles/79dc7c58.ext.json)
-
----
-
-### One of the most mysterious Indian fishermen recovered
-
-*2024-08-29 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/192263) · `ta`
-
-Indian fishermen rescue Mediterranean Sea tragedy 2 missing 1 body recovered demand government aid
-
-🟩
-
-The Indian boat drowned in the Mediterranean Sea when a tornado returned to shore last Tuesday (26).
-
-Officials have reported that two fishermen swim from the boat and handed over to the Indian Consulate in Jaffna with the help of the Sri Lankan navy.
-
-In this case, two fishermen disappeared. Rameshwaram Fisheries Officers have been rescued after a two -day fishermen have been found dead in the Mediterranean Sea on Wednesday evening.
-
-The fishermen who seized the body brought the body to the Rameswaram fishing harbor. Subsequently, it has been placed at the Rameswaram Hospital for anatomical examination.
-
-In addition, relatives who have demanded the government to search for a mysterious fisherman in the Mediterranean have called for the government to provide relief to the family of the deceased fisherman.
-
-◼️
-
-[Data](articles/8f0aae8e.json)
-
-[Extended Data](ext_articles/8f0aae8e.ext.json)
-
----
-
-### Family female death in Jaffna
-
-*2024-08-29 08:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/192261) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-62-year-old woman dies in Jaffna after 20-day fever. Mother of 7-year-old twins. Treated at Kilinochchi and Kayts hospitals before being admitted to teaching hospital where she passed away. Death investigated by Namasivayam Premkumar. Body handed over to relatives after examination.
-
-🟩
-
-In Jaffna, a family woman died on Wednesday (28) due to a 20 -day fever.
-
-The mother of seven -year -old children, aged 62, from Kayts, Narandana, died.
-
-When she was at home in Kilinochchi, she was treated at the Kilinochchi Hospital due to a fever on the 7th of last month.. However, there is a fever in between.
-
-He was later treated at the Kayts Hospital on the 17th. He was admitted to the Kayts Hospital on the 19th of this month. Then on the 27th for further treatment. He was admitted to the teaching hospital and died without treatment.
-
-Sudden death investigators Namasivayam Premkumar have carried out the death investigations into his body and the body has been handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/ec7e23df.json)
-
-[Extended Data](ext_articles/ec7e23df.ext.json)
-
----
-
-### Driver
-
-*2024-08-29 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/192260) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Car chase ends in crash: Driver hacked, handed to police after hitting pole in Vavuniya.
-
-🟩
-
-The driver of the driver of the accident in Vavuniya has been hacked to police and has been handed over to the police.
-
-A youth who was driving a car from Kumangulam, Vavuniya has escaped without causing an accident in Ukkilangulam.
-
-During this time, he had collided with other vehicles traveling in Vairavapuliyankulam and Urban area.
-
-Subsequently, some of the youths chased the car. The high -speed car gardens collided with an electric pole on the banks of the road in Periyargulam area and the youths who had folded the car's driver were handed over to the police.
-
-◼️
-
-[Data](articles/46aeafe9.json)
-
-[Extended Data](ext_articles/46aeafe9.ext.json)
-
----
-
-### Fire at Konwella Mount Reserve
-
-*2024-08-29 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200450) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Fire broke out at Kongwella Mount Reserve in Wellawaya on 28th. Spread through forest overnight, destroying over 10 acres. Suspected arson, exacerbated by dry conditions and wind. Fire contained by morning, severe damage reported.
-
-🟩
-
-A fire has taken a fire at Kongwella Mount Surprises in the Wellawaya Divisional Secretariat Division yesterday (28).
-
-Throughout the night, the fire has spread throughout the mountain forest reserve.
-
-As a result, more than ten acres of the reserve has been destroyed.
-
-Police suspect that a person has been set on fire to the reserve and the fire has spread due to dry weather and wind condition.
-
-By early morning, the fire was completely controlled and the fire was severely damaged.
-
-◼️
-
-[Data](articles/02f4f2b7.json)
-
-[Extended Data](ext_articles/02f4f2b7.ext.json)
-
----
-
-### 26 arrested for releasing 26 warrants
-
-*2024-08-29 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200449) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"26 arrested for issuing 26 warrants. Two women, ages 52 & 30, accused of fraud related to health ministry documents in 2013. Arrested by Badulla police division. Further investigation ongoing."
-
-🟩
-
-Two women have been arrested by the courts with a courts of the courts regarding the cash files and fraud.
-
-The suspect has been provided with the cash fraud and committed the money fraud by providing letters of the secretary of the Secretary to the Ministry of Health of the Health Ministry in 2013.
-
-Police said that the suspect had been arrested by the Badulla and Special Criminal Investigation Division of 26 complaints against the suspect and the suspect had been arrested and sued the court.
-
-Accordingly, the suspect was guilty of the preparation of bonus and the culmination was avoiding the court.
-
-It is said that the suspect had issued 26 warrants from the courts.
-
-The suspect was arrested by the Badulla and Special Criminal Investigation Division yesterday (28).
-
-The arrested women are residents of the Ampara, Ampara, Gangagugalla, aged 52 and 30 years.
-
-Badulla and Special Criminal Investigation Division conducts further investigations.
-
-◼️
-
-[Data](articles/e2bce33c.json)
-
-[Extended Data](ext_articles/e2bce33c.ext.json)
-
----
-
-### Fairly heavy showers, strong winds expected in parts of the island
-
-*2024-08-29 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101580/-fairly-heavy-showers-strong-winds-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Fairly heavy showers about 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle, Matara, Nuwara-Eliya and Puttalam districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Hambantota and Trincomalee districts.
-
-Cloudy skies can be expected in Northern, North-central, Eastern and Central provinces.
+Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
 
 The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
 
-...
+◼️
 
-[Data](articles/236f6f74.json)
-
-[Extended Data](ext_articles/236f6f74.ext.json)
+[Data](articles/6003b823.json)
 
 ---
 
-### Sajith's latest plan
+### Jaya Container Terminals celebrates 16 years of success with record-breaking growth
 
-*2024-08-29 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200448) · `si`
+*2024-09-12 06:08:34* · [`dailyftlk`](https://www.ft.lk/business/Jaya-Container-Terminals-celebrates-16-years-of-success-with-record-breaking-growth/34-766667) · `en`
 
-Here's a 200-character summary:
+Jaya Container Terminals Ltd. (JCT Ltd.), a fully owned subsidiary of the Sri Lanka Ports Authority (SLPA), recently commemorated its 16th anniversary.
 
+Since its inception in 2008, JCT Ltd. has established itself as a cornerstone of the Sri Lankan maritime industry, consistently exceeding expectations and achieving remarkable milestones.
 
+Over the past three years, JCT Ltd. has witnessed phenomenal growth, shattering previous records for revenue and profitability. This achievement is a testament to the company’s strategic agility and unwavering commitment to serving diverse client needs.
 
-Sajith Premadasa opposes state institution privatization, promising to turn them into profitable entities. He advocates for a National Land Use Plan to reduce human conflicts and protect natural resources.
+...
 
-🟩
+[Data](articles/c4fdaa3b.json)
 
-Says the presidential candidate Sajith Premadasa, the presidential candidate, Sajith Premadasa, the presidential sector of the people's power to stop the sale of state institutions under its government.
+---
 
-He points out that action will be taken to make state institutions into profitable institutions.
+### Tilvin slams rivals for fear tactics, claims AKD gaining ground
 
-Opposition Leader Sajith Premadasa made these comments participating at a rally held in the Wellawaya area.
+*2024-09-12 06:01:45* · [`dailyftlk`](https://www.ft.lk/news/Tilvin-slams-rivals-for-fear-tactics-claims-AKD-gaining-ground/56-766666) · `en`
 
-"If you take this territory, the human conflict has the human conflict. This is what to do is to implement a National Land Use Plan. Nobody has done that. We have done that, we will be able to minimize the human conflict and minimize the conflict between the masses and humans. Our country has made a paradise at auction selling resources. There are over 30,000 people who serve in the farmer families, including new techniques in Pelwatta, Sevanagala Sugar Factory. We plan to implement this national resource for the culture that we sell these institutions to the robbery. "
+JVP’s Tilvin Silva accuses opponents of avoiding policy discussions and instead spreading false stories to instil fear of NPP
+
+Urges law enforcement to investigate and question those making claims of potential violence, suggesting such claims could be a tactic to incite unrest
+
+Encourages public to seek information directly from NPP about policies and plans rather than relying on rival claims
+
+Says after years of meticulous and careful planning to secure power NPP will not let their election victory be tainted
+
+Assures NPP is committed to preventing post-election violence and working with all parties to rebuild SL
+
+...
+
+[Data](articles/c844cdde.json)
+
+---
+
+### Keheliya granted bail after 7 long months
+
+*2024-09-12 05:59:04* · [`dailyftlk`](https://www.ft.lk/news/Keheliya-granted-bail-after-7-long-months/56-766665) · `en`
+
+All suspects except for one in connection to substandard human immunoglobulin scam are now out on bail
+
+Court imposes travel ban on Keheliya Rambukwella and orders for passport to be surrendered
+
+DSG Lakmini Girihagama requests Rambukwella to be transferred to NHSL or NIMH for treatment under judicial supervision
+
+Court denies request and grants bail considering his condition to allow him to seek treatment elsewhere
+
+Former Health Minister Keheliya Rambukwella and two others, who were remanded over the alleged import of substandard human immunoglobulin vials, were granted bail by the Maligakanda Magistrate’s Court yesterday. The suspects were released on a cash bail of Rs. 100,000 and two sureties of Rs. 5 million each. Additionally, the Magistrate imposed a travel ban on them and ordered Rambukwella to surrender his passport to the court.
+
+...
+
+[Data](articles/990c6a3a.json)
+
+---
+
+### Govt. invites private investors to develop key Colombo railway stations under PPP model
+
+*2024-09-12 05:54:44* · [`dailyftlk`](https://www.ft.lk/business/Govt-invites-private-investors-to-develop-key-Colombo-railway-stations-under-PPP-model/34-766664) · `en`
+
+The Government has called for expressions of interest (EOIs) from private investors to develop six major railway stations in and around Colombo, including Kollupitiya, Bambalapitiya, Wellawatte, Kompanyaweediya, Dehiwala and Mount Lavinia.
+
+“The move is part of a broader initiative to upgrade these stations through a public-private partnership (PPP) model,” Cabinet Spokesman and Transport Minister Bandula Gunawardana said at the weekly post-Cabinet media briefing on Tuesday.
+
+He said under the PPP model, property belonging to the Railways Department will be leased on a long-term basis to private investors, who will be responsible for transforming the stations into modern “station plazas.”
+
+These plazas are expected to enhance the infrastructure and amenities at the stations while generating revenue for the Government.
+
+...
+
+[Data](articles/062f6e4a.json)
+
+---
+
+### Rise in minimum wage in private sector: Govt.
+
+*2024-09-12 05:52:51* · [`dailyftlk`](https://www.ft.lk/business/Rise-in-minimum-wage-in-private-sector-Govt/34-766663) · `en`
+
+Minimum limit payable in Employees’ Provident Funds, Trust Funds, and gratuity has also been increased
+
+Speaker Mahinda Yapa Abeywardena has signed the bill passed in Parliament, making the minimum basic salary for private sector employees Rs. 21,000.
+
+Accordingly, the Ministry of Labour and Foreign Employment stated in a press release that this should be considered the minimum wage when calculating payments for the Employees’ Provident Fund, Employee Trust Fund, and gratuity.
+
+From September this year, private sector employers will pay their employees a national minimum wage of Rs. 17,500 along with an additional minimum wage of Rs. 3,500 provided by the Budget Relief Acts No. 36 of 2005 and No. 4 of 2016, totalling a minimum wage of Rs. 21,000.
+
+According to the press release issued by the Ministry, the new minimum wage should be applied to payments for the Employees’ Provident Fund, Employee Trust Fund, and gratuity.
+
+...
+
+[Data](articles/ca6e8e58.json)
+
+---
+
+### Sri Lanka — Japan Business Council holds 45th AGM; gets Japanese Foreign Minister’s Commendation Award
+
+*2024-09-12 05:41:11* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Japan-Business-Council-holds-45th-AGM-gets-Japanese-Foreign-Minister-sCommendationAward/34-766660) · `en`
+
+The Sri Lanka – Japan Business Council (SLJBC) of the Ceylon Chamber of Commerce on Monday held its 45th AGM where for the first time it also received the Japanese Foreign Minister's Commendation Award.
+
+It was presented by Japanese Ambassador and Patron of the Council Hideaki Mizukoshi who was also the Chief Guest.
+
+This prestigious award was given in recognition of the Council’s unwavering support in strengthening bilateral trade, tourism, and investment ties between Sri Lanka and Japan.
+
+Andrew The Travel Company Ltd. Managing Director Mahen Kariyawasan was re-elected President of the SLJBC for the year 2024/25. Vice Presidents elected were Hayleys Advantis Ltd. Managing Director Ruwan Waidyaratne, Hirohama Ceylon Ltd. Director Athulla R.F. Edirisinghe, Prudential Shipping Lines Ltd. Managing Director Rohitha Mendis, ASOL Traders Proprietor Chanaka Kariyapperuma, and Amano Lanka Engineering Ltd. Managing Director Sarath De Costa.
+
+...
+
+[Data](articles/6c341a3c.json)
+
+---
+
+### Western Automobile Assembly kicks off plant in Kuliyapitiya
+
+*2024-09-12 05:35:32* · [`dailyftlk`](https://www.ft.lk/business/Western-Automobile-Assembly-kicks-off-plant-in-Kuliyapitiya/34-766659) · `en`
+
+From left: Western Automobile Assembly Sales and Marketing Director Reeza Rauf, Project Director Sabaratnam Rajendran, Director Gerard Fernando, Production Director Albert Reichl and Director Mikhail Selvanayagam
+
+Western Automobile Assembly Ltd., (WAA) on Tuesday announced the opening of its state of the art semi-knocked down (SKD) assembly plant in Kuliyapitiya.
+
+It said the move marks a significant advancement in local vehicle assembly, driving economic development in Sri Lanka while equipping the nation’s youth with the skills and knowledge essential for sustainable growth and long-term prosperity.
+
+The WAA SKD assembly plant is a company operating under the Board of Investment (BOI). It has been designed by global automotive experts and outfitted with premium international machinery.
+
+Its efficient assembly process is based on lean manufacturing principles and a flexible and transparent set up capable of handling the requirements of multiple brands.
+
+...
+
+[Data](articles/d9cd1224.json)
+
+---
+
+### Economic crisis in Sri Lanka: Policy challenges for the new Government – Part 3
+
+*2024-09-12 04:32:35* · [`dailyftlk`](https://www.ft.lk/opinion/Economic-crisis-in-Sri-Lanka-Policy-challenges-for-the-new-Government-Part-3/14-766641) · `en`
+
+While the Government has implemented immediate poverty alleviation schemes, inclusive growth-promoting policies should be adopted as part of the long-term poverty reduction strategy for narrowing inequalities through sustained economic growth, which could generate employment and income opportunities
+
+...
+
+[Data](articles/cb639a11.json)
+
+---
+
+### Congruence between compensation philosophy and generic strategy is key to staying competitive
+
+*2024-09-12 04:13:14* · [`dailyftlk`](https://www.ft.lk/columns/Congruence-between-compensation-philosophy-and-generic-strategy-is-key-to-staying-competitive/4-766640) · `en`
+
+From poor morale to low employee retention rates, the negative ripples of underpaid employees can be widespread and difficult to reverse
+
+Notwithstanding the greatness of the organisation’s culture or the exciting variety in its benefits package, the probability of an employee performing per expectations at remuneration below market is extremely low. Performance-based compensation which pays for success is a way of avoiding increases in fixed pay which arise from factors which are unrelated to success. A compensation philosophy and strategy which is in sync with the generic operating strategy are musts. If a company is unable to match the market, it must exit the business. Simple as that
+
+...
+
+[Data](articles/730a6961.json)
+
+---
+
+### His Glorious Honourable Excellency (Dr X 5) Chaminda Pusswedilla the 1st
+
+*2024-09-12 03:49:08* · [`dailyftlk`](https://www.ft.lk/opinion/His-Glorious-Honourable-Excellency-Dr-X-5-Chaminda-Pusswedilla-the-1st/14-766639) · `en`
+
+Friend of the People, Son of the Village, Servant of the Nation, Father of Democracy, Brother of Freedom Cousin of Human Rights, Close Relation of Media Freedom
+
+Further to my previyus letter, I am olso like to reminding you that even from across the big pond, in the USA, their two main candidates, my close frend JoeBidey’s number two, my closer frend Kamalakka and of corse my closer personal ackwaintance, DonaldTrumper, have been colling and asking addice. So, I am including the two of them olso from time to time in my addice list.
+
+Let me list the three, I mean four main candidates in Arsikland:
+
+...
+
+[Data](articles/02f27fce.json)
+
+---
+
+### Mixed bag for candidates on voting intent poll
+
+*2024-09-12 03:45:46* · [`dailyftlk`](https://www.ft.lk/opinion/Mixed-bag-for-candidates-on-voting-intent-poll/14-766638) · `en`
+
+AK Dissanayake and Sajith Premadasa led in August but continuing shift towards President Ranil Wickremesinghe
+
+IHP’s Sri Lanka Opinion Tracker Survey (SLOTS) MRP provisional estimates of Presidential Election voting intent for August 2024 show NPP/JVP leader AK Dissanayake and SJB leader Sajith Premadasa led in voting preferences of all adults ahead of the September Presidential Election.
+
+None of the four major party presidential candidates had support of a majority of the adult voters. NPP/JVP leader AK Dissanayake led with 36% of all adults, followed by SJB leader Sajith Premadasa with 32%, Pres. Ranil Wickremesinghe with 28% and Namal Rajapaksa with 3%. Estimates are associated with margins of error of 3–7%.
+
+Support for Ranil Wickremesinghe has been rising from March through August 2024, while there have been small declines in support for AK Dissanayake, Sajith Premadasa, and SLPP during the same period.
+
+...
+
+[Data](articles/248e93e4.json)
+
+---
+
+### Anura against post-1977 economy, dodgy on devolution, can’t resolve crisis
+
+*2024-09-12 03:42:34* · [`dailyftlk`](https://www.ft.lk/columns/Anura-against-post-1977-economy-dodgy-on-devolution-can-t-resolve-crisis/4-766636) · `en`
+
+While AKD and the JVP-NPP have changed, they haven’t metamorphosed into enlightened economic modernisers. A key marker in a brand-new document confirms that. Without a rectification on this fundamental issue contained in what the NPP designates as a ‘Framework’, it would be very dangerous to the economy to vote for Anura as President this month. That key issue is the attitude to the economic transformation of 1977, i.e., Sri Lanka’s adoption of an Open Economy --before Thatcher and Reagan did
+
+“…This trend was exacerbated after 1977 due to unplanned and unwise economic policies & corruption…”
+
+– Framework for ECONOMIC RENAISSANCE, Business Forum 2024,  National People’s Power-NPP, p 03.
+
+...
+
+[Data](articles/1c7f2d98.json)
+
+---
+
+### Ranil or Sajith? Who will get  the  Bulk of Tamil Votes  in the 2024 Presidential  Poll?
+
+*2024-09-12 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84701) · `en`
+
+The Ilankai Thamil Arasuk Katchi (ITAK) regarded as the  premier political party of the Sri Lankan Tamils  has declare its support  for Samagi Jana Sandhanaya (SJS) leader  Sajith Premadasa in  the Presidential2 election scheduled on 21 September 2024.  The   “Mathiya Seyal Kuzhu”(Central Working Committee) of the party met on September 1st and resolved  to support  the leader of the opposition at the presidential poll. The ITAK known in Englih as the Federal Party(FP)  also decided to oppose the Common Tamil Presidential Candidate Packiyaselvam Ariyanethiran and called upon him to withdraw his candidacy. Ex-MP ariyanethiran is an ITAK office-bearer.
+
+...
+
+[Data](articles/4cfa965c.json)
+
+---
+
+### 2024 Presidential election is  “still open” but Incumbent President Ranil Wickremesinghe is  confident  of victory on the strength of his proven prowess , dynamic plan and implementation focus to deliver higher socio-economic growth.
+
+*2024-09-12 03:30:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84734) · `en`
+
+With less than 10 days to go, incumbent Ranil Wickremesinghe yesterday described the decisive Presidential election as “still open” but expressed confidence of victory on the strength of his proven prowess and the dynamic plan and implementation focus to deliver higher socio-economic growth.
+
+Despite his busy schedule in the campaign trail, in an exclusive interview with the Daily FT – SC Securities joint initiative —Market Pulse, Wickremesinghe reiterated his commitment to driving economic stability, growth and prosperity for people in the next five years.
+
+He emphasised that his manifesto is the most promising and effective, with the backing of several key legislations to implement the reform agenda aimed at ensuring the next wave of economic growth.
+
+...
+
+[Data](articles/e30f9ce2.json)
+
+---
+
+### தமிழக மீனவர்கள் படகு கவிழ்ந்தது
+
+*2024-09-12 01:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-படகு-கவிழ்ந்தது/175-343649) · `ta`
+
+தமிழக மீனவர்களின் படகு மீது இலங்கை கடற்படையினர் தங்களின் கப்பலை விட்டு மோதி படகை கவிழ்த்ததாக பாதிக்கப்பட்ட மீனவர்கள் குற்றம்சாட்டியுள்ளனர்.
+
+நாகை மாவட்டம் செருதூர் மீனவ கிராமத்தைச் சேர்ந்த தர்மன் என்பவருக்குச் சொந்தமான ஃபைபர் படகில் கடந்த 9 திகதியன்று அதே பகுதியைச் சேர்ந்த சக்திவேல், தேவராஜ், கார்த்திகேயன், சதீஷ் ஆகிய 4 மீனவர்கள் கடலுக்கு மீன்பிடிக்க சென்றனர்.
+
+இந்த நிலையில், நேற்று முன்தினம் மாலை அவர்கள் கோடியக்கரைக்கு தென்கிழக்கே மீன் பிடித்துக் கொண்டிருந்தனர். அப்போது அங்கு வந்த இலங்கை கடற்படையினர் தமிழக மீனவர்களின் படகின் மீது கடற்படை கப்பலைக் கொண்டு மோதினர் என கூறப்படுகிறது.
+
+கப்பல் மோதியதில் தமிழக மீனவர்களின் ஃபைபர் படகு கவிழ்ந்து விபத்துக்குள்ளாகியுள்ளது. இதில் கடலில் காயங்களுடன் வலைகளில் சிக்கி மீனவர்கள் தத்தளித்துள்ளனர். இதைத்தொடர்ந்து மீனவர்களை தங்களது கப்பலில் ஏற்றிய இலங்கை கடற்படையினர், அவர்களுக்கு முதலுதவி சிகிச்சை எதுவும் செய்யாமல் சுமார் 6 மணி நேரமாக அவர்களை மிரட்டி விசாரணை நடத்தியுள்ளனர்.
+
+...
+
+[Data](articles/0cec7329.json)
+
+---
+
+### அரச மருத்துவ அதிகாரிகள் சங்கம் புறக்கணிப்பு
+
+*2024-09-12 01:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-மருத்துவ-அதிகாரிகள்-சங்கம்-புறக்கணிப்பு/175-343648) · `ta`
+
+எதிர்வரும் 18 ஆம் திகதி நாடளாவிய ரீதியாக பணிப்புறக்கணிப்பை முன்னெடுக்க அரச மருத்துவ அதிகாரிகள் சங்கம் தீர்மானித்துள்ளது.
+
+பதுளை பொது வைத்தியசாலையில் சேவையாற்றும் தமது சங்கத்தின் பிரதி செயலாளர் பாலித்த ராஜபக்ஷவிற்கு எதிராக முன்னெடுக்கப்படும் ஒழுக்காற்று நடவடிக்கையை நிறுத்தக் கோரி, அரச மருத்துவ அதிகாரிகள் சங்கத்தினர் இந்த பணிப்புறக்கணிப்பை முன்னெடுக்கத் தீர்மானித்துள்ளனர்.
+
+நேற்று முன்தினம் கூடிய அரச மருத்துவ அதிகாரிகள் சங்க கூட்டத்தின் போது இந்தத்தீர்மானம் எட்டப்பட்டுள்ளதாக அந்த சங்கத்தின் செயலாளர் வைத்தியர் பிரபாத் சுகதபால தெரிவித்துள்ளார். (a)
 
 ◼️
 
-[Data](articles/00e30a76.json)
-
-[Extended Data](ext_articles/00e30a76.ext.json)
+[Data](articles/8def5a02.json)
 
 ---
 
-### England - Sri Lanka begins today
+### தபால்மூலம் வாக்களிக்க இன்றும் சந்தர்ப்பம்
 
-*2024-08-29 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200447) · `si`
+*2024-09-12 01:42:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்மூலம்-வாக்களிக்க-இன்றும்-சந்தர்ப்பம்/175-343647) · `ta`
 
-Second Test match between England and Sri Lanka starts today at 3:30 PM in Lods. England leads 1-0 after winning the first test by 5 wickets.
+இம்முறை ஜனாதிபதித் தேர்தலில் தபால்மூல வாக்கை இதுவரை அளிக்காதவர்கள் இன்றும் வாக்களிக்க சந்தர்ப்பம் ஏற்படுத்தப்பட்டுள்ளது.
 
-🟩
+காலை 8.30 முதல் மாலை 4.30 வரை தத்தமது மாவட்ட செயலக அலுவலகத்தில் தபால்மூல வாக்கை அளிக்க முடியுமென தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல் ரத்நாயக்க தெரிவித்துள்ளார்.
 
-The second Test match between the Sri Lankan team and the England team will commence today (29).
-
-The match will be started at 3.30 pm in Lods.
-
-The Sri Lankan team has been summoned to the Sri Lankan team for the match.
-
-The first 3-match Test series won the England win by 5 wickets.
+தபால்மூலம் வாக்களிக்க தகுதிபெற்ற அரச உத்தியோகத்தர்கள் வாக்களிப்பதற்காக இதற்கு முன்னர் 4, 5 மற்றும் 06 ஆம் திகதிகளில் அவரவர் பணிபுரியும் அரச நிறுவனங்களில் அமைக்கப்பட்டிருந்த தபால்மூல வாக்களிப்பு நிலையங்களில் வாய்ப்பு ஏற்படுத்திக்கொடுக்கப்பட்டிருந்தது. (a)
 
 ◼️
 
-[Data](articles/6d4c5651.json)
-
-[Extended Data](ext_articles/6d4c5651.ext.json)
+[Data](articles/bc172bfe.json)
 
 ---
 
-### Ranil says for those who leave the stage
+### 80 வீத வாக்குச்சீட்டுகள் அனுப்பி வைப்பு
 
-*2024-08-29 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200446) · `si`
+*2024-09-12 01:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-வீத-வாக்குச்சீட்டுகள்-அனுப்பி-வைப்பு/175-343646) · `ta`
 
-Here's a summary of the text in 200 characters:
+80 வீத உத்தியோகபூர்வ வாக்குச்சீட்டுகள் மாவட்ட தேர்தல் அலுவலகங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ளன என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
 
-
-
-President Ranil Wickremesinghe criticizes politicians who don't address national crises. He questions their qualifications to become president, suggesting self-interest over public service.
-
-🟩
-
-President Ranil Wickremesinghe says that the masses cannot be confident about the people's representatives who have not worried about the people when the country is crisis.
-
-The President pointed out that some leaders have missed the work, despite the support of the country's economic crisis.
-
-President Ranil Wickremesinghe expressed his views to join the presidential election targeting the presidential election.
-
-...
-
-[Data](articles/2d6896a9.json)
-
-[Extended Data](ext_articles/2d6896a9.ext.json)
-
----
-
-### Club Vasantha Murder: Two more arrested
-
-*2024-08-29 07:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-மேலும்-இருவர்-கைது/175-342956) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-"Two more suspects arrested in Club Vasantha murder case. They are from Galle Nagoda. Arrested by Panadura CID after Panadura incident."
-
-🟩
-
-Two more suspects have been arrested in connection with the killing of two persons including the club Vasantha in Athurugiriya.
-
-They were arrested by the Panadura Criminal Investigation Division in the aftermath of the Panadura.
-
-One of the detainees belongs to the 32 -year -old, Galle Nagoda. It is reported that he was the driver of the driver and the other was the driver of the driver to carry out the attack.. (A)
+இதனிடையே, உத்தியோகபூர்வ வாக்குச்சீட்டுகளை அச்சடிக்கும் பணிகளை இவ்வார இறுதிக்குள் நிறைவு செய்ய திட்டமிட்டுள்ளதாக அரச அச்சகம் தெரிவித்துள்ளது. (a)
 
 ◼️
 
-[Data](articles/9a6b8c1b.json)
-
-[Extended Data](ext_articles/9a6b8c1b.ext.json)
+[Data](articles/695d75c6.json)
 
 ---
 
-### Accomplice of underworld figure ‘Matugama Shan’ brought back to Sri Lanka
+### அதானி குழுமத்திற்கு எதிர்ப்பு
 
-*2024-08-29 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101579/accomplice-of-underworld-figure-matugama-shan-brought-back-to-sri-lanka) · `en`
+*2024-09-12 01:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அதானி-குழுமத்திற்கு-எதிர்ப்பு/50-343645) · `ta`
 
-Geethmal Benoy Dilshan, an accomplice of underworld figure “Matugama Shan”, who is allegedly involved in several crimes, was brought back to Sri Lanka from Dubai by CID officers, the Police Spokesman DIG Nihal Thalduwa said.
+கென்யா - நைரோபியில் உள்ள ஜோமோ கென்யாட்டா சர்வதேச விமான நிலையத்தை அதானி குழுமத்திற்குக் குத்தகைக்கு விடுவதற்கு எதிர்ப்பு தெரிவித்து விமான நிலைய ஊழியர்கள் போராட்டத்தில் ஈடுபட்டனர்.
+
+விமான நிலையத்தை 30 ஆண்டுகளுக்கு நிர்வகிக்கும் ஒப்பந்தத்தை இந்தியாவைச் சேர்ந்த அதானி குழுமத்திற்கு வழங்க அந்நாட்டு அரசு முடிவு செய்துள்ளது.
+
+தொழிலாளர்களின் எதிர்ப்பையும் மீறி இந்த ஒப்பந்தத்திற்குக் கென்யாவின் ஜனாதிபதி வில்லியம் ருட்டோ ஆதரவு தெரிவித்திருந்தார்.
+
+இந்த நிலையில், விமான நிலையத்தை அதானி குழுமத்திற்குக் குத்தகைக்கு விடும் முடிவிற்கு எதிர்ப்பு தெரிவித்து ஜோமோ கென்யாட்டா விமான நிலைய ஊழியர்கள் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.  (a)
 
 ◼️
 
-[Data](articles/726e61b4.json)
-
-[Extended Data](ext_articles/726e61b4.ext.json)
+[Data](articles/eab64cf4.json)
 
 ---
 
-### Instruction to the fishermen
+### 2024-09-11 (Wednesday)
 
-*2024-08-29 07:47:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களுக்கு-அறிவுறுத்தல்/175-342955) · `ta`
+### Natural Body Scrubs…
 
-Here's a summary of the instruction in 200 characters:
+*2024-09-11 23:46:00* · [`islandlk`](http://island.lk/natural-body-scrubs/) · `en`
 
+Readers have inquired about body scrubs, so this week my Beauty Tips are connected with body scrubs.
 
+You will need ½ cup of ground coffee, 1/4th cup of sugar and 02 tablespoons of extra virgin olive oil.
 
-"Fishermen avoid North Bengal Bay Sea next two days due to heavy rains, strong winds, and rough seas. Department of Meteorology warns of increased atmospheric pressure causing 70-80 km/h winds."
+Mix the three items well and then use the mixture on clean skin for exfoliation
 
-🟩
+Coffee has strong antioxidant properties. It accelerates the blood flow and fights premature signs of ageing. It also helps with cellulite and stretch marks. It gets rid of your tan without being harsh on your skin.
 
-Fishermen and maritime workers have been advised to avoid going to the North Bengal Bay Sea area for the next two days.
+You will need 01 tablespoon of plain yoghurt, 1/4th cup of olive oil, 03 tablespoons of sugar and 01 tablespoon of honey.
 
-The Department of Meteorology has issued a warning report on heavy rains, heavy winds and sea rage.
+Yoghurt has brightening, moisturising and toning properties. It is packed with B Vitamins which act as a natural lotion for the body. Overall, it’s a great ingredient for those with dry skin.
 
-Accordingly, the premises of the Bay of Bengal today are likely to increase in the atmosphere.
+You will need ½ cup of brown sugar, 1/4th cup of olive oil, and 02 tablespoons of honey.
 
-Due to this, heavy rains in the seas have caused heavy winds to blow 70 to 80 kilometers per hour.
+...
 
-The Department has advised to avoid going to the deep sea of ​​North Bengal today and tomorrow. (A)
+[Data](articles/03eda3a6.json)
+
+---
+
+### மஹிந்தவின் கோட்டையில் மகனுக்கு கல் வீச்சு
+
+*2024-09-11 23:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-கோட்டையில்-மகனுக்கு-கல்-வீச்சு/175-343644) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவின் பிரச்சார கூட்டத்தின் மீது கற்கள் வீசப்பட்டுள்ளன.
+
+இந்த கூட்டத்தில் கலந்து கொண்ட குழந்தை ஒன்று காயமடைந்து ஹம்பாந்தோட்டை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக ஹம்பாந்தோட்டை பொலிஸார் தெரிவித்தனர்.
+
+இந்த பொதுக்கூட்டத்தில் நாமல் ராஜபக்ச, சமல் ராஜபக்ஷ, ஷிரந்தி ராஜபக்ஷ ஆகியோர் பங்கேற்கவிருந்தனர்.
+
+மஹிந்தவின் கோட்டை என வர்ணிக்கப்படும் ஹம்பாந்தோட்டையில், நாமலுக்கு இவ்வாறு கல் வீச்சு தாக்குதல் இடம்பெற்றுள்ளமை மக்கள் மத்தியில் பேசுபொருளாகி உள்ளது. R
 
 ◼️
 
-[Data](articles/3f58a989.json)
-
-[Extended Data](ext_articles/3f58a989.ext.json)
+[Data](articles/8a13bade.json)
 
 ---
 
-### Matugama Shan joins Sri Lanka from Dubai
+### Browns Pharmaceuticals partners with DFCC Bank and Market-Oriented Dairy to empower local entrepreneurs
 
-*2024-08-29 07:40:34* · [`adalk`](https://www.ada.lk/breaking_news/මතුගම-ශාන්ගේ-ප්‍රධානම-ගෝලයා-ඩුබායි-සිට-ලංකාවට-ගෙන-එයි/11-411620) · `si`
+*2024-09-11 22:47:00* · [`islandlk`](http://island.lk/browns-pharmaceuticals-partners-with-dfcc-bank-and-market-oriented-dairy-to-empower-local-entrepreneurs/) · `en`
 
-Sri Lanka: Matugama Shan returns from Dubai. Don Geethhemal Binoi Dilshan, linked to organized crime, arrested at Katunayake airport.
+In keeping with its vision of fostering the growth of Sri Lanka’s dairy sector, Browns Pharmaceuticals recently collaborated with DFCC Bank PLC and Market-Oriented Dairy (MOD) through its innovative ‘Kiri Wyawasabhiman’ Loyalty Program. This trifold partnership aims to support dairy entrepreneurs across the nation during challenging times by offering seamless access to essential products and services, along with various concessions and customised financial products.
 
-🟩
-
-A group of 33-year-old Don Geethhemal Binoi Dilshan, a member of the organized crime and drug trafficking of drug trafficking, was arrested and brought to Katunayake airport on April 08/29.
-
-He is said to be the leading disciple of the organized criminal gang leader, named Medugama Shan.
-
-From the morning of 05.05 days on April 08.200 am from Dubai to SriLankan Airlines UL. The airplane was brought to the Katunayake Airport on the 226.
-
-A group of Katunayake Airport Criminal Investigations Investigation into the aircraft and handed over the criminal member to the Police Inspector of the Mathugama Police.
-
-◼️
-
-[Data](articles/de8c50f0.json)
-
-[Extended Data](ext_articles/de8c50f0.ext.json)
-
----
-
-### Father arrested for brutal assaults to daughter
-
-*2024-08-29 07:35:08* · [`adalk`](https://www.ada.lk/breaking_news/දියණියට-කෲර-ලෙස-පහරදුන්-පියා-අල්ලයි/11-411619) · `si`
-
-Father arrested for assaulting daughter in Bandarawela, Sri Lanka. 40-year-old man accused of burning 7th-grade girl. Incident occurred in Ambhadandaragama. Suspect to appear in court.
-
-🟩
-
-A father of two was arrested yesterday (28) was assassinated by a networking fire in Liyadandegama in Bandarawela, Bandarawela.
-
-The suspect was a 40 year old resident of Ambhadandaragama, Bandarawela, Bandarawela.
-
-The schoolgirl, the schoolgirl study in the 7th year, was admitted to the Diyatalawa Hospital, a resident of Ambhadandewela, who was bowled out.
-
-The mother of the student is working at a tea factory in a tea factory in Ambadandaragama, Ambadandaragama.
-
-The boy said that the father had a few of the faults who had come to the house and washed near the water of the water, police said,
-
-The daughter's burn injuries were burned to the face of a fleet of fire, while the daughter went to school yesterday.A senior police officer said to be arrested.
-
-The suspected suspect is to be produced before the Bandarawela court.
-
-◼️
-
-[Data](articles/3de70fcf.json)
-
-[Extended Data](ext_articles/3de70fcf.ext.json)
-
----
-
-### A underworld member brings from Dubai
-
-*2024-08-29 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200444) · `si`
-
-Underworld leader Matugama Shahan extradited from Dubai to CID in Sri Lanka for questioning about various crimes.
-
-🟩
-
-The officials of the Criminal Investigations Department (CID) officers have been taken to Sri Lanka from Dubai, who is considered a suspect involved in many crimes.
-
-The suspect was a underworld leader, Matugama Shahan, a disciple of Matugama.
-
-◼️
-
-[Data](articles/6778820b.json)
-
-[Extended Data](ext_articles/6778820b.ext.json)
-
----
-
-### Club Wasantha murder is also arrested
-
-*2024-08-29 07:30:21* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-දෙවැනි-වෙඩික්කරුත්-අල්ලයි/11-411618) · `si`
-
-Two men, 32 years old from Ahungalla, arrested for Club Wasantha murder. OIC Chief Inspector Channa Amarasekera involved. Suspects taken to Athurugiriya Police for investigation.
-
-🟩
-
-The gunman and another person was arrested on suspicion of the gunman and another person in connection with the murder of Club Wasantha.
-
-The arrested were two and 32-year-old residents of Ahungalla, Galle.
-
-The OIC Chief Inspector Channa Amarasekera has been arrested while on a tip off received by the suspects in Panadura Pinwatta area.
-
-The suspects have been transferred from the vehicle to a van by the car after the shooting of the suspects.
-
-The suspects will be handed over to the Athurugiriya Police for further investigations.
-
-◼️
-
-[Data](articles/7e758fea.json)
-
-[Extended Data](ext_articles/7e758fea.ext.json)
-
----
-
-### IMF. Re-negotiating with a serious process
-
-*2024-08-29 07:20:19* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-නැවත-සාකච්ඡා-කිරීම-බරපතල-ක්‍රියාවලියක්/11-411617) · `si`
-
-Sri Lanka IMF negotiations: Minister Ali Sabri discusses challenges and economic recovery efforts.
-
-🟩
-
-Minister of External Affairs and Judicial Reforms, Minister of External Affairs and Principal Reforms, Minister of External Affairs and Constitutional Reforms, Minister of External Affairs and Constitutional Reforms, said that it is a serious and humiliating process.
-
-The International Monetary Fund will lose the installments of the International Monetary Fund as well as the premium provided by the World Bank and the Asian Development Bank (ADB).
-
-According to the Minister Ali Sabri further deprives to Sri Lanka from $ 1.2 billion from $ 1.2 billion from December 1.2 billion to January 2025 and cannot prevent the country's unstable.
-
-Minister of Foreign Affairs and Justice and Constitutional Reforms President Attorney Ali Sabri said this at a press conference held at the press conference at the Presidential Media Center by two years' in ahead.
+Through its Micro, Small and Medium Enterprise (MSME) scheme, DFCC Bank will afford dairy entrepreneurs a host of exclusive benefits such as special interest rates, flexible payment schemes and discounts on drugs, medicine and machinery from Browns Pharmaceuticals along with capacity development programs that will aid and deliver 360-solutions to foster business growth.
 
 ...
 
-[Data](articles/1fb3a7dd.json)
-
-[Extended Data](ext_articles/1fb3a7dd.ext.json)
+[Data](articles/8c39b2d6.json)
 
 ---
 
-### 62 complaints to police regarding presidential election
+### Kevin Edwards re-elected CNCI chairman for another term
 
-*2024-08-29 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200443) · `si`
+*2024-09-11 22:47:00* · [`islandlk`](http://island.lk/kevin-edwards-re-elected-cnci-chairman-for-another-term/) · `en`
 
-Here's a summary of the text in 200 characters:
+Kevin Edwards was reelected chairman of the Ceylon National Chamber of Industries (CNCI) at the 63rd Annual General Meeting (AGM), which was held on August 30, 2024, at the Hotel Taj Samudra, Colombo. Shantha Weerasinghe, Secretary, Ministry of Industries, was the Chief Guest of the event.
 
-
-
-62 election-related complaints filed since presidential election. Most concern election laws. No reports of major incidents. Special unit formed to process complaints. Suspects arrested and referred to court. Election security measures in place. Local government support pledged after election.
-
-🟩
-
-The complaints have been received since the presidential election.
-
-The largest number of the complaints are complaints of the election laws and no complaints regarding serious incidents have not yet been submitted.
-
-A special unit has been established to obtain election complaints at all police stations around the country and has taken steps to review the complaints at the special election office at the Police Headquarters.
-
-Accordingly, identified suspects have been arrested and submitted to the courts.
-
-Police have already implemented a formal program for the security of presidential election and protection in mass rally.
-
-The Elections Commission says that the local government bodies are being taken to conduct matters pertaining to the Supreme Court order.
-
-Elections Commissioner General Saman Sri Ratnayake said the support of the local government bodies will be held following the presidential election.
-
-◼️
-
-[Data](articles/1065e87c.json)
-
-[Extended Data](ext_articles/1065e87c.ext.json)
-
----
-
-### Sri Lanka’s LTL Holdings plans Rs20bn IPO at Rs14.50
-
-*2024-08-29 06:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-ltl-holdings-plans-rs20bn-ipo-at-rs14-50-178257/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s LTL Holdings is planning to raise up to 20 billion rupees, subject to regulatory approvals, in what could be the largest initial public offer in the Colombo Stock Exchange, an official said.
-
-LTL Holdings is an affiliate of Ceylon Electricity Board, which originally made transformer but expanded into the independent power generation business after the original foreign investors in the firm exited in a management buyout.
-
-The firm plans to sell around 22 percent of the shares in the IPO.
-
-The idea is to raise 16 billion rupees and an addition 4.0 billion rupees through a green shoe option, Chief Executive Nuhuman Marikkar said.
-
-The Colombo Stock Exchange said the issue would open on September 10 at 14.50 rupees a share with an initial issue of 1,103,448,300 ordinary shares and an option to sell another 275,862,100 shares.
-
-About 14 billion rupees will go to fund part of the equity component of a new 350 MegaWatt combined cycle to be called Sahasdanavi.
+Kevin Edwards is employed by E B Creasy & Co Plc and seconded for duties as Director / Chief Executive Officer of E B Creasy Logistics Limited, he has over 40 years of experience in the field of Logistics, Supply Chain Management, and International Trade.
 
 ...
 
-[Data](articles/b099e815.json)
-
-[Extended Data](ext_articles/b099e815.ext.json)
+[Data](articles/975221a5.json)
 
 ---
 
-### A shot in the plane
+### Kumar Anthony Paul Fernando: exemplary planter and human
 
-*2024-08-29 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200442) · `si`
+*2024-09-11 22:46:00* · [`islandlk`](http://island.lk/kumar-anthony-paul-fernando-exemplary-planter-and-human/) · `en`
 
-Shooting incident at Talawa Hospital: One person injured, suspect flees, police investigating.
+It will be five years on the 12th of September 2024 since my good friend Kumar Fernando left this world quite suddenly and be with his creator. Although five years seems a long time, his memory and caring ways are something that will always live in the life of those who knew this wonderful human being. I have missed him since that day five years ago and it all came flooding back to me when i went to Melbourne for a few days last month and met with his family over a lovely dinner at his daughter Tehani’s home.
 
-🟩
-
-One person was injured in a shooting incident in the Talawa Hospital and was admitted to the Anuradhapura Hospital.
-
-The man was with his brother-in-law, while traveling with the land of the coconut planting, a heighte with the owner of the adjacent to the adjacent to the adjacent to the alkin tubes.
-
-It has been revealed that the owner of the adjoining land has been shot by the owner of the adjoining land.
-
-Police said that the shooting was carried out by firearms of Sri Lanka.
-
-The suspect, who was shooting, fled the area and the Talawa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/7ea68cac.json)
-
-[Extended Data](ext_articles/7ea68cac.ext.json)
-
----
-
-### Ranil's and Sajith's policy statements are outside today
-
-*2024-08-29 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200441) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Ranil Wickremesinghe launches policy as independent candidate. Event in Colombo today. Government invites all MPs from ruling party and presidential election. UPFA's policy statement first presented to Sajith Premadasa.
-
-🟩
-
-President Ranil Wickremesinghe's policy has been launched today as an independent candidate today (29).
-
-The policy statement will be held at a special event in Colombo this morning.
-
-It is reported that the government has invited all MPs who have joined all MPs who represent the ruling party and the Presidential election.
-
-Meanwhile, the policy statement of the proposal is to be launched today.
-
-Parliamentarian Lakshman Kiriella stated that the policy statement of the Presidential Alliance (UPFA) has first presented to the Chief General of Sajith Premadasa.
-
-◼️
-
-[Data](articles/ea6e724a.json)
-
-[Extended Data](ext_articles/ea6e724a.ext.json)
-
----
-
-### The difference in the weather today
-
-*2024-08-29 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200440) · `si`
-
-Weather forecast: Showers in Western, Sabaragamuwa, North Western provinces. Heavy rain possible in Galle, Matara, Nuwara Eliya, Puttalam. Thundershowers in Ampara, Batticaloa. Strong winds in Central Mountains, Hambantota, Trincomalee. Cloudy skies in North, North-Central, Central provinces. Sunny conditions expected from Aug 28 to Sep 6.
-
-🟩
-
-The Meteorological Department says that there will be showers in the Western, Sabaragamuwa and North Western provinces.
-
-Some areas in the Western and Sabaragamuwa Provincial and Galle, Matara, Nuwara Eliya and Puttalam Districts. Heavy rains can occur over 50,000.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-At times, in the Central Mountains and Western, North, North, North Central and North Western provinces, Hambantota and Trincomalee Districts. There may be 40-50 strong winds.
-
-The announcement states that the sky is buried with clouds in the North, North-Central and Central provinces.
-
-The announcement states that the sun is directly from the end of August 28 to September 06, and the sun will be above the eight noon today.
-
-◼️
-
-[Data](articles/5a270159.json)
-
-[Extended Data](ext_articles/5a270159.ext.json)
-
----
-
-### At the age of 97, Lilawathi speaks to BBC with a Masters Degree
-
-*2024-08-29 03:48:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0lk98gnzyo) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Lilawathi, 97, receives Master's in Buddhist Philosophy from University of Kelaniya. Studied online, inspired by lifelong love of learning. Teaches English, then becomes notary. Has 8 grandkids, 3 great-grandkids. Aims to inspire community members to build better families.
-
-🟩
-
-At the age of 97, Lilawathi speaks to BBC with a Masters Degree
-
-"Over the rest of my life, I loved. Learning is not relevant. So I was learning long, "Lilayathi Ausiliin Dharmaratne, who has been able to receive a postgraduate degree in 97, told BBC Sinhala.
-
-She was awarded a Masters Degree in Buddhist Philosophy at the 143rd Graduation Ceremony of the University of Kelaniya.
-
-Last-in-law of Labelin Dharmaratne in Millewa Village of Millewa village on November 30, 1927, was fundamental education from Millewa Balika Vidyalaya.
-
-She appeared for the GCE Ordinary Level Examination in 1946.
-
-How to select a recognized Higher Education or Vocational Training Institute internationally? The GCE Ordinary Level Examination Three Twin
-
-"The name of the GCE Ordinary Level Examination changed, we were from the year we wrote that exam. After changing the name of the examination, we first wrote that exam. Three people at Millewa Balika Vidyalaya passed the examination, "she woke memory.
+Tehani and family had taken great pains to prepare a scrumptious dinner for us and whilst we all appreciated the care and trouble taken, an emptiness kept tugging at me, that something was missing and that was Kumar’s presence and enduring ways as he was always a warm and caring person. Despite the joyful evening, there was sadness in me, since I was visiting their home for the first time since his passing away.
 
 ...
 
-[Data](articles/97d61a97.json)
-
-[Extended Data](ext_articles/97d61a97.ext.json)
+[Data](articles/b5d21a45.json)
 
 ---
 
-### AKD pledges to ensure economic democracy in SL
+### Sri Lanka Insurance Life at the Jaffna Nallur Festival – 2024
 
-*2024-08-29 01:57:18* · [`dailyftlk`](https://www.ft.lk/news/AKD-pledges-to-ensure-economic-democracy-in-SL/56-766136) · `en`
+*2024-09-11 22:43:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-life-at-the-jaffna-nallur-festival-2024/) · `en`
 
-Promises to create comprehensive plan to offer crucial support to entrepreneurs and businesses, aiming to drive growth and development
+Sri Lanka Insurance Life carried out a special awareness program during the Nallur festival in Jaffna. During this time many pilgrims travel to Jaffna from different parts of the country and also many Sri Lankan expatriates return to the country as well to attend the Nallur festivities. Sri Lanka Insurance annually mark their presence at the festival to share knowledge about Insurance and its importance. A special booth was located in the area where attendees had the opportunity to participate in various competitions and win valuable gifts. In addition, the Sri Lanka Insurance Life sales team carried out a door to door campaign in the Jaffna region creating awareness on the importance of Insurance.
 
-Says NPP’s plan will also involve assisting local entrepreneurs in expanding their businesses internationally
+Browns Pharmaceuticals partners with DFCC Bank and Market-Oriented Dairy to empower local entrepreneurs
 
-Claims all Governments set up previously in SL have only looked after wellbeing of their own
+Bargain hunters exploit share price drop in blue chip counters
 
-Urges people to come together to form Govt. that truly cares for its people
-
-National People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake has committed to fostering economic democracy for businesses in Sri Lanka. He announced that the NPP will create a comprehensive plan to offer crucial support to entrepreneurs and businesses, aiming to drive growth and development in their sectors.
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
 ...
 
-[Data](articles/7bb0ff87.json)
-
-[Extended Data](ext_articles/7bb0ff87.ext.json)
+[Data](articles/0122c0f9.json)
 
 ---
 
-### Model MPs do not get money directly
+### Sunil Dissanayake honoured
 
-*2024-08-29 01:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கு-நேரடியாக-பணம்-கிடைக்காது/175-342953) · `ta`
+*2024-09-11 22:42:00* · [`islandlk`](http://island.lk/sunil-dissanayake-honoured/) · `en`
 
-Here's a summary of the text in 200 characters:
+Sunil Dissanayake was presented the Sri Lanka Leadership Life Time Achievement Award 2024 on September 5 by the World HRD Congress (India Chapter).
 
+He completed 50 continuous years in management since September 1, 1974, both in Hospitality & Human Resources Management/ Development in senior management roles with significant organizations.
 
-
-TNA claims MPs don't receive direct funding. Money goes to District Secretariats via Presidential Secretariat. Campaign alleges TNA MPs are funded, but allocations are for district development projects, not personal use.
-
-🟩
-
-The Tamil National Alliance (TNA) said that the development money is being sent directly to the District Secretariats by the Presidential Secretariat and no parliamentary member has been given directly.
-
-TNA Media Spoke Member MA. This was stated in a media statement issued by Sumanthiran.
-
-There is a large campaign that the Tamil National Alliance (Tamil National Alliance) MPs have been funded by MPs.
-
-The fund is deliberately made to look like it was given to the mentioned MPs. Diversity Development Fund and various development funds have been allocated this year by the President's actions. To assist in this, proposals were requested by MPs from the respective district for development.
-
-Different amounts have been allocated by the President's action. The district is directly for the development work of the district
-
-Is not given directly to any parliamentary member of the. The report is being published due to false poisoning in recent times.
-
-◼️
-
-[Data](articles/8e22ee1d.json)
-
-[Extended Data](ext_articles/8e22ee1d.ext.json)
-
----
-
-### Bribery allegations filed against AKD
-
-*2024-08-29 01:52:09* · [`dailyftlk`](https://www.ft.lk/news/Bribery-allegations-filed-against-AKD/56-766135) · `en`
-
-A complaint has been filed against the Presidential hopeful of the National People’s Power (NPP) Anura Kumara Dissanayake with the Commission to Investigate Allegations of Bribery or Corruption regarding the ownership of a house.
-
-The complaint made by Civil Society Activist Darshana Thanthirige alleges that Dissanayake was allocated a house in the Madiwela Housing Scheme despite owning a residential property in Kadawatha.
-
-Thanthirige claims that as per the established regulations, MPs should not be assigned a house from the Madiwela Housing Scheme if they own a residence within 25 kilometres of the Parliament.
-
-He alleges that Dissanayake’s Kadawatha property is within the 25 kilometre limit and is calling for a thorough investigation into the issue.
-
-According to the assets declaration filed with the Bribery Commission, the property in Ranmuthugala, Kadawatha, is registered under Dissanayake’s wife’s name.
-
-◼️
-
-[Data](articles/17c8590a.json)
-
-[Extended Data](ext_articles/17c8590a.ext.json)
-
----
-
-### Patali challenges President to collect unpaid excise taxes
-
-*2024-08-29 01:48:46* · [`dailyftlk`](https://www.ft.lk/news/Patali-challenges-President-to-collect-unpaid-excise-taxes/56-766134) · `en`
-
-Urges President Ranil Wickremesinghe to take action by cancelling licences of excise tax defaulters
-
-Says despite various claims according to official data amount of uncollected excise taxes in 2023 is Rs. 1,120 b
-
-Claims if this collected with another Rs. 978 b waived off would have doubled State revenue
-
-United Republic Front (URF) leader and Member of Parliament Patali Champika Ranawaka has publicly challenged President Ranil Wickremesinghe to take decisive action against excise tax defaulters, accusing the President of shielding alcohol companies that have failed to pay their dues.
-
-Speaking to the media at an event in Colombo on Tuesday, Ranawaka challenged President Ranil Wickremesinghe to prove his ability to take action by cancelling the licences of excise tax defaulters and to recover the taxes still owed to the Government.
-
-...
-
-[Data](articles/e4309415.json)
-
-[Extended Data](ext_articles/e4309415.ext.json)
-
----
-
-### FR challenging President’s eligibility to contest Presidential poll dismissed
-
-*2024-08-29 01:44:03* · [`dailyftlk`](https://www.ft.lk/news/FR-challenging-President-s-eligibility-to-contest-Presidential-poll-dismissed/56-766133) · `en`
-
-SC rejects FR petition seeking an order to instruct President Ranil Wickremesinghe to appoint an Acting IGP
-
-Orders petitioner to pay Rs. 50,000 in Court fees after Additional Solicitor General Nerin Pulle informs Court petition contained false information
-
-Points out FR also breaches Article 92 of the Constitution which deals with matters relating to the disqualification for election as President
-
-The Supreme Court yesterday rejected a Fundamental Rights (FR) petition seeking an order to instruct the President to appoint an Acting Inspector General of Police (IGP).
-
-The petition was filed by Attorney-at-Law R.S.P. Ranasooriya which also challenged President Ranil Wickremesinghe’s eligibility to run in the upcoming Presidential election on the grounds of failing to appoint an Acting IGP and judges to the Supreme Court and Court of Appeal.
-
-The Supreme Court, while dismissing the petition, ordered the petitioner to pay Rs. 50,000 in court fees.
-
-...
-
-[Data](articles/1691a93c.json)
-
-[Extended Data](ext_articles/1691a93c.ext.json)
-
----
-
-### ‘March 12 Movement’ opens Presidential debate for public questions
-
-*2024-08-29 01:42:56* · [`dailyftlk`](https://www.ft.lk/news/March-12-Movement-opens-Presidential-debate-for-public-questions/56-766132) · `en`
-
-‘The March 12 Movement’, a civic initiative focused on promoting clean and ethical politics, has called on members of the public to submit their questions to be posed to Presidential candidates during the upcoming public debate series organised by the movement.
-
-‘The March 12 Movement’ has announced that a series of Presidential candidate debates will begin on 7 September in Colombo. The Movement has invited members of the public to submit their questions for the candidates. The debates, it said, will provide a platform for the candidates to present their political ideologies and programs, while also giving the public the opportunity to ask pressing questions directly.
-
-Building on the success of the first Presidential candidate public debate held in 2019, this year’s debate series has been expanded, with all candidates invited to participate.
-
-...
-
-[Data](articles/21de7c78.json)
-
-[Extended Data](ext_articles/21de7c78.ext.json)
-
----
-
-### I am responsible for the support of the thieves without the support of the thieves
-
-*2024-08-29 01:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருடர்களின்-ஆதரவில்லாமல்-பொறுப்புக்களை-கையேற்பேன்/175-342952) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sajith Premadasa opposes corrupt officials, promises to protect national assets, supports farmers, and proposes poverty alleviation programs.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that I will protect the people's gift like my life and protect its dignity and make the country the country without racial, religious, clan and party.. .
-
-Since the United People's Power and I have no tea with the thieves, we will put the thieves who stole the country's resources, property and money in the law. I and my team can accomplish it without any hesitation. I am not betraying my self -esteem and the tradition of the people. With the mandate of the people, I will accept my responsibility for the country.
-
-The current president is acting as the gatekeeper and the Inspector General of Police who protect the thieves with the president.He said he did not need such a presidency.
-
-The 23rd people's victory rally organized by the United People's Power ahead of the 2024 presidential election was held under the patronage of Opposition Leader Sajith Premadasa near the Ampara Bus Stand.. The Leader of the Opposition said this while addressing the event.
-
-...
-
-[Data](articles/1ab94650.json)
-
-[Extended Data](ext_articles/1ab94650.ext.json)
-
----
-
-### Hayleys Fabric becomes first Sri Lankan company featured in ‘Global Organic Textile Standard’ case study
-
-*2024-08-29 01:41:32* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fabric-becomes-first-Sri-Lankan-company-featured-in-Global-Organic-Textile-Standard-case-study/34-766131) · `en`
-
-Consolidating its reputation as a celebrated pioneer in sustainable textiles, Hayleys Fabric PLC is now among an exclusive group of renowned global businesses featured as case studies on the Global Organic Textile Standard (GOTS) website.
-
-This distinction marks Hayleys Fabric as the first and only Sri Lankan company to be showcased on the prestigious global certification platform, following its recent triumph at the International Quality Awards 2024, where it clinched the ‘Sustainability Impact’ award.
-
-...
-
-[Data](articles/c6d98f6f.json)
-
-[Extended Data](ext_articles/c6d98f6f.ext.json)
-
----
-
-### Tamils ​​will not vote for JVP
-
-*2024-08-29 01:38:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜே-வி-பிக்கு-தமிழர்கள்-வாக்களிக்க-மாட்டார்கள்/175-342951) · `ta`
-
-Tamil voters reject JVP due to LTTE opposition and historical divisions.
-
-🟩
-
-The Liberation Tigers of Tamil Eelam (LTTE) will never support President Ranil Wickremesinghe. We tend to mud on M. And the JVP broke the foundation of the Tamils ​​and divided the North East. MP Selvam Adakkanathan said the Tamils ​​would not vote for them too.
-
-He said this while participating in a leaflet in support of the Tamil general candidate in Vavuniya.
-
-Increasing support for the Tamil general candidate. I think our people will vote for the common candidate on our ideal path.
-
-Moreover, our party's parliamentarian Vino Nogarathalingam's comments against the common candidate are his personal opinion.Our party is a democratic party. So that's his personal opinion. As for our party, a decision has been made.
-
-There was also a discussion for a certain time to negotiate in the publication.
-
-Accompanied. We have also made a decision on what is emphasized in their letter to make a decision.
-
-...
-
-[Data](articles/340e6ed8.json)
-
-[Extended Data](ext_articles/340e6ed8.ext.json)
-
----
-
-### COMPLAST & RUBEXPO 2024 set to kick off this weekend
-
-*2024-08-29 01:38:31* · [`dailyftlk`](https://www.ft.lk/business/COMPLAST-RUBEXPO-2024-set-to-kick-off-this-weekend/34-766130) · `en`
-
-COMPLAST & RUBEXPO 2024, one of the biggest industrial exhibitions held in Sri Lanka, is set to be hosted at the iconic Bandaranaike Memorial International Conference Hall (BMICH), from 30 August to 1 September.
-
-COMPLAST & RUBEXPO 2024 is organised by SMART Expos & Fairs India Ltd. and co-organised by the Plastics and Rubber Institute of Sri Lanka (PRISL), with support from the Industrial Development Board (IDB), and is sponsored by leading industry players, including Shibaura Machine India, SDD Polymer, Lanka IOC, FMJ Plastics, Acteil Innovative, and NCS Holdings.
-
-This three-day event is set to welcome over 300 industry experts and representatives from over 200 companies, and is geared to showcase the latest in plastics and rubber technology.
-
-...
-
-[Data](articles/b7cd97e6.json)
-
-[Extended Data](ext_articles/b7cd97e6.ext.json)
-
----
-
-### Banks’ CIO Forum engages key partners ahead of ‘The CIO Confluence 2025’
-
-*2024-08-29 01:37:46* · [`dailyftlk`](https://www.ft.lk/business/Banks-CIO-Forum-engages-key-partners-ahead-of-The-CIO-Confluence-2025/34-766129) · `en`
-
-Banks’ CIO Forum Committee 2024/2025. Seated (from left): Confluence Committee Chairman Tharaka Mudugamuwa, President Ajith Salgado, and Committee Member Gerald Wanigaratne. Standing (from left): Committee Members Thaminda Vandebona and Lakshitha Jayaweera, Treasurer Indika Fernando, Secretary Hareen Stembo. Absent: Committee Members Nisala Kodippili and Prabath Samindra Wickramaratne
-
-The Banks’ Chief Information Officers Forum (BCIOF), the largest premier C-level forum within Sri Lanka’s banking and financial sector, successfully hosted a ‘Partner Meet Up’ on 27 August at the Grand Sapphire, Courtyard by Marriott Colombo in preparation for the highly anticipated ‘The CIO Confluence 2025.’
-
-...
-
-[Data](articles/2e6509d5.json)
-
-[Extended Data](ext_articles/2e6509d5.ext.json)
-
----
-
-### Dialog Future Zone Elevates Sports Fiesta with Futuristic VR Sporting Adventure
-
-*2024-08-29 01:35:40* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Future-Zone-Elevates-Sports-Fiesta-with-Futuristic-VR-Sporting-Adventure/34-766128) · `en`
-
-Visitors experiencing interactive VR experiences at the Dialog Future Zone at the Sri Lanka Sports Fiesta 2024
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, proudly demonstrated its commitment to innovation at the Sri Lanka Sports Fiesta 2024, held from 16th to 18th August, at the Colombo Racecourse Grounds. Powered by Dialog Axiata, the festival celebrated local talent and athletic excellence while also showcasing the company’s cutting-edge technology through its remarkable Future Zone, setting a new standard for interactive entertainment in the country. Organized by the Ministry of Sports and Youth Affairs in collaboration with the Ministry of Tourism, the three-day event aimed to inspire the next generation of athletes, providing a prestigious platform for over 3,000 participants across seven major sports disciplines.
-
-...
-
-[Data](articles/a8b9b794.json)
-
-[Extended Data](ext_articles/a8b9b794.ext.json)
-
----
-
-### Hello hello
-
-*2024-08-29 01:35:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹலோ-தவிர-பேசியவை-பொய்/175-342950) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Ceylon People's Congress leader Rishad Bathiudeen supports Sajith Premadasa, criticizes Gotabhaya Rajapakse's policies towards minorities, and praises Harsha de Silva et al. for protecting the economy.
-
-🟩
-
-All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen said that the people of Pottuvil will be with the President who is trying to get more quotas from the president.
-
-Speaking at a meeting held at Pottuvil on Tuesday (27) in support of Sajith Premadasa, he added:
-
-“Pottuvil is proud to have become politicians for the dignity and dignity. Among them are Marhoum Aziz, SSP Majeed and many others.
-
-It is in this history of our party that our party also made one from Pottuvil. The people of Pottuvil voted for him in the respect of the party leadership and the respect of the soil.
-
-Gotabhaya Rajapakse, who was acting in the majority of the dominant supremacist, dismantled the religious beliefs and turned the minority communities into secondary citizens. He burnt the Janasas of Muslims who died in Corona.
-
-...
-
-[Data](articles/63f9677f.json)
-
-[Extended Data](ext_articles/63f9677f.ext.json)
-
----
-
-### Let's go a little farther
-
-*2024-08-29 01:32:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-கொஞ்சம்-தூரத்திற்கு-செல்வோம்/175-342949) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Wickremesinghe faces economic challenges. Minister Prasanna Ranatunga urges going further on the difficult path. Opposition Leader Anura Kumara Dissanayake invited to discuss IMF debt restructuring. Criticism of Sajith and Anura's economic policies. Reference to JVP's past actions causing economic destruction. Government accepts IMF involvement, emphasizing the difficulty of the journey ahead.
-
-🟩
-
-President Ranil Wickremesinghe, who is traveling to create a bright tomorrow for the future generations of the country, has to go a little further on this difficult economic path, said the ruling party's chief corrupt and city development and housing minister Prasanna Ranatunga.
-
-The Minister emphasizes that if this economic course is changed, we will face more difficulties than the past.
-
-Minister Prasanna Ranatunga, who attended a public meeting held on Tuesday (27) in Udugampola area.
-
-The President has publicly called on the Opposition Leader and Anura Kumara Dissanayake to come up with the International Monetary Fund to discuss the debt restructuring program that is currently being implemented in our country.. Both are capable of speaking. So we thought they would accept this challenge.
-
-...
-
-[Data](articles/808c1c78.json)
-
-[Extended Data](ext_articles/808c1c78.ext.json)
-
----
-
-### 6 things in the letter of response
-
-*2024-08-29 01:22:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-கடிதத்தில்-6-விடயங்கள்/175-342948) · `ta`
-
-Tamil National People's Front rejects "Aki Kingdom" map, calls for Tamil boycott of presidential election, demands international inquiry into human rights abuses, seeks constitutional reform to address ethnic tensions, expects candidates to address these issues in their manifestos.
-
-🟩
-
-The Front's response letter was sent on Wednesday (28) to a letter sent by Sajith Premadasa regarding the position of the Tamil National People's Front on the upcoming election.
-
-In a response letter sent by Tamil National People's Front General Secretary Selvarasa Gajendran, he said.
-
-I am writing this letter in a letter to our party's position in the letter written by our party leader and Member of Parliament Gajendrakumar Ponnambalam in a letter on 11.08.2012.
-
-As a result of the people's struggle against the Gotabhaya Rajapaksa government in 2022 - when the presidential vacuum in 2022, the parliamentary elections were carried out by the parliament by a referendum by the MPs, and you were presenting a meeting with us seeking our support.
-
-...
-
-[Data](articles/9bce08ec.json)
-
-[Extended Data](ext_articles/9bce08ec.ext.json)
-
----
-
-### Increase Temperature: Warning of Doctors
-
-*2024-08-29 01:17:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகரிக்கும்-வெப்பநிலை-மருத்துவர்கள்-எச்சரிக்கை/175-342947) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Rising temperatures linked to increased skin diseases in children. Experts advise avoiding excessive sunlight, staying hydrated, and limiting cold drinks. Peak sun hours shift southward, affecting certain regions.
-
-🟩
-
-Medical experts say that the increasing temperature in the country is more likely to cause skin diseases.
-
-In this regard, Deepal Perera, a specialist in the Children's Hospital in Colombo, said,
-
-Increased temperatures across the country are very common in children with skin problems.. Therefore, you should avoid excessive sunlight and drink too much water.
-
-He said he should drink water, lemon juice and juices, avoiding artificial cold drinks and refrigerated children twice a day.
-
-As the sun moves to the south, the sun is over the 6th of September to the top of many parts of the country. At around 12.11 pm, the sun peaked on Wednesday (27) more than Neduntivu, Poonakari, Tattuvankottai and Sundikulam.
-
-The event was globally changing the event, a official of the Department of Meteorology said.
-
-◼️
-
-[Data](articles/e9402a23.json)
-
-[Extended Data](ext_articles/e9402a23.ext.json)
-
----
-
-### Individuals cannot claim the rights
-
-*2024-08-29 01:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிநபர்கள்-உரிமை-கொண்டாட-முடியாது/175-342946) · `ta`
-
-Tamil Progressive Alliance Mano Ganesan announces no individual rights claimable. Challenges in political representation. Appointments made for Kandy District roles.
-
-🟩
-
-Representation of the Tamil Parliament of Kandy District. The leader of the Tamil Progressive Alliance Mano Ganesan has announced that none of the individuals can take the right.
-
-This is one of the many challenges we have faced on the political path.But the national level, provincial level and local government representations of the Tamils ​​of Kandy District are the ones who are not worth it.. We will continue to carry these slogans.
-
-Mano Ganesan has announced this while addressing the gathering of the Kandy District Party's employees of the Democratic People's Front.
-
-Accordingly, Kandy District Organizer M. Wickeswaran, District Secretary Gulendran Ganesan, District Treasurer. Krishnakumar, District Executive Member. K. Vinod has been appointed party employees.
-
-Political Committee member of the Democratic People's Front Gampaha District Organizer S. Sasi Kumar has been appointed as the Coordinator for the Kandy District.
-
-...
-
-[Data](articles/9c0fdf05.json)
-
-[Extended Data](ext_articles/9c0fdf05.ext.json)
-
----
-
-### IoA honoured in Forbes Advisor’s Guide
-
-*2024-08-29 00:51:00* · [`islandlk`](http://island.lk/ioa-honoured-in-forbes-advisors-guide/) · `en`
-
-The Institute of Analytics (IoA) announces that it has been featured in
-
-Forbes Advisor’s illustrious guide on becoming a data analyst. As a revered professional body, the IoA has consistently championed the advancement of data analytics professionals by offering a wealth of learning resources, continuous professional development (CPD) opportunities and fostering a robust, global community network.
-
-The IoA’s recognition by Forbes Advisor is a testament to its unwavering dedication to elevating the field of data analytics and nurturing professionals at every stage of their careers. This accolade not only underscores the IoA’s pivotal role in the industry but also highlights its relentless pursuit of excellence in supporting its members.
-
-...
-
-[Data](articles/8e1e0265.json)
-
-[Extended Data](ext_articles/8e1e0265.ext.json)
-
----
-
-### How the University of Peradeniya has weathered the politico-economic storms of the decades
-
-*2024-08-29 00:50:00* · [`islandlk`](http://island.lk/how-the-university-of-peradeniya-has-weathered-the-politico-economic-storms-of-the-decades/) · `en`
-
-Extracts from the speech delivered by one of Sri Lanka’s most eminent historians, Emeritus Professor W.I. Siriweera, on being conferred the Degree of the Doctor of Letters by the University of Peradeniya at its convocation of August 22nd, 2024.
-
-...
-
-[Data](articles/b4b9a135.json)
-
-[Extended Data](ext_articles/b4b9a135.ext.json)
-
----
-
-### Fortude Ignite WomenTech Internship 2024 empowers future tech leaders
-
-*2024-08-29 00:49:00* · [`islandlk`](http://island.lk/fortude-ignite-womentech-internship-2024-empowers-future-tech-leaders/) · `en`
-
-The Fortude WomenTech Internship 2024, which commenced in August 2024 following a selection from over 1,400 applications, marked two intense weeks of immersive learning. Aligned with Fortude’s objective of achieving a balanced gender representation by 2027, the Ignite internship program serves as a testament to the company’s commitment to equal opportunities, ensuring growth and development for all individuals, irrespective of their background.
-
-Sri Lanka Insurance Life – sponsors the Kandy Esala Perahera
+Bargain hunters exploit share price drop in blue chip counters
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
@@ -2036,470 +1066,768 @@ Save my name, email, and website in this browser for the next time I comment.
 
 ◼️
 
-[Data](articles/cd00a871.json)
-
-[Extended Data](ext_articles/cd00a871.ext.json)
+[Data](articles/47bf52b0.json)
 
 ---
 
-### Panic selling seizes share market; indices decline
+### Bargain hunters exploit share price drop in blue chip counters
 
-*2024-08-29 00:47:00* · [`islandlk`](http://island.lk/panic-selling-seizes-share-market-indices-decline/) · `en`
+*2024-09-11 22:41:00* · [`islandlk`](http://island.lk/bargain-hunters-exploit-share-price-drop-in-blue-chip-counters/) · `en`
 
-The stock market yesterday witnessed panic- selling against the backdrop of current political developments creating a negative sentiment in the market, analysts said.
+The stock market yesterday was marginally up because of the heavy engagement of bargain hunters in the market who exploited the price drop in mainly blue-chip counters, market analysts said.
 
-Amid those developments both indices moved downwards. The All Share Price Index went down by 147.7 points while S and P SL20 declined by 41 points.
-
-The turnover stood at Rs 732 million with two crossings. Those crossings were reported in Melstacope, which crossed 500,000 shares to the tune of Rs 38 million and its shares traded at Rs 76 and Sierra Cables 2.4 million shares crossed for Rs 25.2 million; it’s shares traded at Rs10.50.
+Amid those developments both indices moved upwards. The All Share Price Index went up by 3.5 points while the S and P SL20 rose by 5.3 points. Turnover stood at Rs 1 billion with a crossing. The crossing was reported in Commercial Bank which crossed 1.7 million shares to the tune of Rs 130 million; its shares traded at Rs 80.
 
 ...
 
-[Data](articles/04dd0e83.json)
-
-[Extended Data](ext_articles/04dd0e83.ext.json)
+[Data](articles/3b3cb9f4.json)
 
 ---
 
-### 2024-08-28 (Wednesday)
+### Anton Roux steps down as Sri Lanka fielding coach
 
-### Club Wasantha murder crowns
+*2024-09-11 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101905/anton-roux-steps-down-as-sri-lanka-fielding-coach) · `en`
 
-*2024-08-28 23:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200438) · `si`
+Sri Lanka men’s cricket team fielding coach, Anton Roux, announced that he is stepping down from his position.
 
-Here's a summary of the text in 200 characters:
+Roux, a former South African first-class cricketer and former coach of the Netherlands, took on the role with Sri Lanka in March 2022.
 
+“On the 14th of August 2024, I decided to step down from my role as the National Fielding Coach for Sri Lanka Cricket. This week will be my last with SLC as I finish my handover. It has been an immense honour and a truly humbling experience to serve the Sri Lankan national cricket team. I will forever cherish the memories and experiences that came with this journey.”
 
+...
 
-"Club Wasantha murder: Two suspects arrested in Panadura. Ages 29-32. Residency Nagoda, Ahungalla. Handed over to Athurugiriya Police for investigation."
+[Data](articles/265713be.json)
 
-🟩
+---
 
-The second shooter and the car driver of the 'Club Wasantha' or Surestra Wasantha Perera has been arrested.
+### Sri Lanka wins several medals including 3 gold at South Asian Junior Athletics C’ships
 
-The suspects have been arrested by the officers of the Panadura Police Criminal Investigation Bureau.
+*2024-09-11 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101904/sri-lanka-wins-several-medals-including-3-gold-at-south-asian-junior-athletics-cships) · `en`
 
-The Ada Derana reporter said the suspects were arrested in Panadura Pingurat area.
+Sri Lankan athletes have clinched a total of nine medals including three gold, three silver and three bronze on the opening day of the 4th South Asian Junior Athletics Championships 2024 in India on Wednesday (11).
 
-The arrested persons were 20 and 32 people who were aged between 29 and 32, a residency in Nagoda and Ahungalla, Galle.
+Accordingly, Sri Lanka’s Merone Wijesinghe won gold in the Men’s 100m final with a timing of 10.41 seconds while Dineth Weeraratna (10.49s) took silver in the same event.
 
-The suspects are to be handed over to the Athurugiriya Police for further investigations.
+Meanwhile, Tharushi Abeyshika has won the gold medal while Sansala Himashini has secured the bronze in the Women’s 800m final.
+
+In the Men’s 800m final, Sri Lankan athlete Savindu Avishka has won the gold medal.
+
+Shanella Anne Wijetungage won bronze in the Women’s 100m final with a timing of 12.04s.
+
+In the Men’s shot put, A.W. Jayavi Ranhidha secured the bronze medal with a distance of 15.62m.
+
+The three-day South Asian Junior Athletics Championships kicked at the Jawaharlal Nehru Stadium in Chennai on Wednesday.
+
+The Sri Lankan team participating in the games comprises of 53 junior athletes.
+
+...
+
+[Data](articles/a94cc6e5.json)
+
+---
+
+### தனியார் துறையில் குறைந்தபட்ச சம்பளம் அதிகரிப்பு
+
+*2024-09-11 20:18:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-துறையில்-குறைந்தபட்ச-சம்பளம்-அதிகரிப்பு/175-343643) · `ta`
+
+தொழிலார்களின் எதிர்கால வைப்பு நிதி, அறக்கட்டளை நிதி மற்றும் பணிக்கொடை ஆகியவற்றில் செலுத்த வேண்டிய குறைந்தபட்ச வரையறையும்  உயர்த்தப்பட்டுள்ளது.
+
+தனியார் துறை ஊழியர்களுக்கான குறைந்தபட்ச அடிப்படை சம்பளத்தை 21,000 ரூபாவாக மாற்றும் சட்டமூலத்தில் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன இன்று (11) கையொப்பமிட்டுள்ளார்.
+
+இதன்பிரகாரம் , தொழிலார்களின்  எதிர்கால வைப்பு நிதி, ஊழியர் நம்பிக்கை நிதி மற்றும் பணிக்கொடைக்கான கொடுப்பனவுகளை வைப்பிலிடும்போது  இது குறைந்தபட்ச சம்பளமாக கருதப்பட வேண்டும் என்று தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சு  ஊடக அறிக்கை ஒன்றின் மூலம்  இன்று (11) தெரிவித்துள்ளது.
+
+இவ்வருடம்  செப்டெம்பர் மாதம் முதல், தனியார் துறை முதலாளிகள் தங்கள் தொழிலாளர்ளுக்கு தேசிய குறைந்தபட்ச சம்பளமாக 17,500 ரூபாயையும், 2005 ஆம் ஆண்டின் 36 மற்றும் 2016 ஆம் ஆண்டின் 4 ஆம் இலக்க வரவு செலவுத் திட்ட நிவாரணச் சட்டங்களின் மூலம் வழங்கப்பட்ட 3,500 ரூபாய்வுக்கு மேலதிகமாக 21,000 ரூபாய் குறைந்தபட்ச சம்பளத்தையும் வழங்குவார்கள்.
+
+...
+
+[Data](articles/a79b82ec.json)
+
+---
+
+### සිරකරුවන් 350කට රාජ්‍ය සමාව
+
+*2024-09-11 19:54:36* · [`adalk`](https://www.ada.lk/breaking_news/සිරකරුවන්-350කට-රාජ්‍ය-සමාව/11-411905) · `si`
+
+සිරකරු දිනය අද(12) යෙදි තිබෙන අතර  මේ අනුව සිරකරුවන්  තුන්සිය පනහකට(350) රාජ්‍ය සමාව ප්‍රදානය කර තිබෙන බව බන්ධනාගාර දෙපාර්තාමනේතුව සදහන් කරයි.
+
+දිවයිනේ සියළුම බන්ධනාගාර ආයතන මගින් අදාළ  කොන්දේසි අනුව සුදුසුකම් ලත් සුළු වැරදි සදහා බන්ධනාගාර ගතවු රැදවියන් 350 පමණ ප්‍රමාණයක්  අද  නිදහස් කිරීමට නියමිතව ඇත.
+
+මිට අමතරව සිරුකරු දිනය නිමිත්තෙන් බන්ධනාගාරගත රැඳවියන්ට විවෘත අමුත්තන් බැලීමට අවස්ථාවක් .ලබා තිබෙන බව බන්ධනාගාර දෙපාරමෛන්තුව සදහන් කරයි
+
+මේ අනුව අද  බන්ධනාගාර ගත රැඳවියන්ට විවෘත අමුත්තන් බැලීම සඳහා විශේෂ අවස්ථාවක් (OPEN VISIT)  සලසා දී තිබේ.
+
+අද දිනය තුළ රැඳවියන්ගේ ඥාතීන් විසින් රැගෙන එන ආහාර හා සනීපරක්ෂක ද්‍රව්‍ය, එක් රැඳවියෙකුට ප්‍රමාණවත් වන  පරිදි  ලබා දීමට අවස්ථාව ලබා දී තිබෙන බවද පෙන්වා දෙයි.
+
+සියලුම ස්‍යෙඛ්‍ය මාර්ගෝපදේශයන්ට අනුකූලව   අමුත්තන් පෙනන්වීමේ කටයුතු දිවයිනේ සියළුම බන්ධනාගාර ආයතනයන් තුළ සිදු කරනු ලබන බවද සදහන් කරයි.
 
 ◼️
 
-[Data](articles/8bcc88bb.json)
-
-[Extended Data](ext_articles/8bcc88bb.ext.json)
+[Data](articles/31e26593.json)
 
 ---
 
-### Arbudaya, Aragalaya, Punarudaya
+### ரணில் ஏன் பிரச்சார கூட்டங்களை குறைத்தார்?
 
-*2024-08-28 23:43:26* · [`dailyftlk`](https://www.ft.lk/columns/Arbudaya-Aragalaya-Punarudaya/4-766108) · `en`
+*2024-09-11 19:42:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-ஏன்-பிரச்சார-கூட்டங்களை-குறைத்தார்/175-343642) · `ta`
 
-Words that acquire new meaning in the public psyche are the loudest witnesses of unfolding history
+ஜனாதிபதி வேட்பாளர் ரணில் விக்கிரமசிங்கவின் பிரசாரக் குழு, பொதுக் கூட்டங்களின் எண்ணிக்கையை 92ல் இருந்து 84 ஆகக் குறைத்துள்ளதாக ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
 
-“The future has many names: for the weak it means the unattainable; for the fearful, it means the unknown; for the courageous, it means opportunity.”
+முன்னதாக, பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர, விக்கிரமசிங்கவின் 30 க்கும் மேற்பட்ட அரசியல் பேரணிகள் மற்றும் கூட்டங்கள் மக்களின் ஆதரவின்மை காரணமாக ரத்து செய்யப்பட்டதாகக் கூறியிருந்தார்.
 
-Victor Hugo the French writer provided this advice to France in the turbulent days of the end of the “ancien régime’ and the birth of the new republic.
+இதற்குப் பதிலளித்த பெர்னாண்டோ, பேரணிகளைக் குறைப்பது என்பது தொழில்முறை மன்றங்களில் பிரச்சாரத்தின் கவனத்தை மேம்படுத்துவதற்கான திட்டமிட்ட உத்தி என்று விளக்கினார்.
 
-Meaningful change occurs when a vision is combined with realism and pragmatism to turn it into something tangible, concrete. Clarity of ideas shape reality.
-
-The NPP presented its party manifesto yesterday (26 August). I watched the finely choreographed presentation on YouTube. I listened to the candidate AKD. This is my take.
-
-...
-
-[Data](articles/90be85c0.json)
-
-[Extended Data](ext_articles/90be85c0.ext.json)
-
----
-
-### Chandra Jayaratne writes to SEC on EPF receiving Rs. 231 m over share transaction
-
-*2024-08-28 23:42:45* · [`dailyftlk`](https://www.ft.lk/opinion/Chandra-Jayaratne-writes-to-SEC-on-EPF-receiving-Rs-231-m-over-share-transaction/14-766107) · `en`
-
-Good governance activist Chandra Jayaratne has written the following letter to SEC Chairman Faizal Salieh over the EPF receiving Rs. 231 million on account of alleged manipulation and loss of value on transaction of shares of LAUGFS Gas PLC, with copies to President, Minister of Finance, Minister of Justice, Minister of Internal Security, IMF Diagnostics Unit, Ceylon Chamber of Commerce, Institute of Chartered Accountants, and Media for Public Knowledge
-
-This note begins with an expression of the highest recognition of the professionalism, courage to be different, and for transparent upholding of the rule of law, as pursued by the Securities and Exchange Commission (SEC) in the above connection. It is an example worthy of noting and emulation by other independent institutions, regulatory authorities, and independent law enforcement authorities.
-
-...
-
-[Data](articles/9e5dcdf0.json)
-
-[Extended Data](ext_articles/9e5dcdf0.ext.json)
-
----
-
-### A young man who campaigned on Instagram about ISIS ISIS
-
-*2024-08-28 23:41:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-ஐ-எஸ்-ஐ-எஸ்-குறித்து-இன்ஸ்டாகிராமில்-பிரசாரம்-செய்த-இளைஞன்/175-342944) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-ISIS supporter arrested for promoting terrorism on Instagram. Court grants 90-day detention to investigate. Suspect posted edited ISIS videos and wore symbolic rings.
-
-🟩
-
-The court today granted permission to investigate a 90 -day detention of a youth who was arrested for allegedly spreading information on the war operations of the ISIS terrorist organization through Social media, including Instagram.
-
-Colombo Additional Magistrate Basan Amarasinghe granted permission to investigate Ratmalana, who was arrested by the Terrorist Investigation Unit on the 22nd of this month.
-
-The suspect. The Terrorist Investigation Unit said in court that the Terrorism Intelligence Unit said that the ISIS has edited videos of the weapons of the IS terrorist organization and posted on social media through his Instagram account.. He was also reported to have rings containing symbols mentioned in the flags of the organization.
-
-Officials of the Terrorism Intelligence Unit said that terrorist and terrorist ideas have been promoted due to this suspect's relevant actions and therefore allowed him to investigate the suspect's actions to investigate the actions of the suspect.. Remble
+"வளங்களை மிகவும் திறம்பட ஒதுக்குவதற்கும், முக்கிய பங்குதாரர்கள் மற்றும் நிபுணர்களுடன் கவனம் செலுத்தும் குழுக்களுடன் ஆழமான ஈடுபாட்டிற்கு முன்னுரிமை அளிப்பதற்கும், ரணில் விக்கிரமசிங்கவின் பிரச்சாரக் குழு பொது பேரணிகளின் எண்ணிக்கையை 92 இலிருந்து 84 ஆகக் குறைத்துள்ளது" என்று அவர் X தளத்தில் பகிர்ந்துள்ளார்.
 
 ◼️
 
-[Data](articles/1a81ff79.json)
-
-[Extended Data](ext_articles/1a81ff79.ext.json)
+[Data](articles/311b19b3.json)
 
 ---
 
-### NPP manifesto: Anura’s unwise pledge to abolish the Executive Presidency
+### තිස්සගෙන් රු.මි. 100ක් ඉල්ලා හරිනි නඩු මගට
 
-*2024-08-28 23:27:14* · [`dailyftlk`](https://www.ft.lk/columns/NPP-manifesto-Anura-s-unwise-pledge-to-abolish-the-Executive-Presidency/4-766105) · `en`
+*2024-09-11 19:37:27* · [`adalk`](https://www.ada.lk/breaking_news/තිස්සගෙන්-රු-මි--100ක්-ඉල්ලා-හරිනි-නඩු-මගට/11-411904) · `si`
 
-Ex-JVP Politbureau member and Cabinet Minister Chandrasena Wijesinghe joins Sajith
+ජාතික ජනබලවේගය පක්ෂය රජයක් පිහිට වූ පසු මහනුවර ඵෙතිහාසික ශ්‍රී දළදා පෙරහර නවත්වන බවට තමන් ප්‍රකාශයක් කළැයි පවසමින් සමගි ජනබලවේග පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා ජනාධිපතිවරණ රැලියකදී කළ අසත්‍ය ප්‍රකාශයකින් සිදුවූ හානියට රුපියල් කෝටි 100ක වන්දියක් අයකර දෙන්නැයි ඉල්ලමින් ජාතික ජනබලවේග පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රීනී ආචාර්ය හරිනි අමරසූරිය මහත්මිය කොළඹ දිසා අධිකරණයේ නඩුවක් අද (11දා) ගොනු කළාය.
 
-“The executive Presidential system will be abolished, a Parliamentary system of government established, and a President without executive powers appointed.”
+පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතාගේ එම ද්වේශසහගත අපහාසාත්මක ප්‍රකාශය හේතුවෙන් දේශපාලනඥයකු ලෙස තමන් ගොඩනගාගෙන සිටින ප්‍රතිරූපයට මෙන්ම කීර්තිනාමයට හානි වූ බව සඳහන් කරන ආචාර්ය හරිනි අමරසූරිය මහත්මිය එම අපහාසාත්මක ප්‍රකාශය ප්‍රචාරය කිරීමෙන් එහි බලපෑම වඩාත් තීව්ර වූ බවද සඳහන් කරන්නීය.
 
-‘A New Constitution’, NPP Manifesto ‘A Prosperous Nation, A Beautiful Life,’ p 195.
-
-President Wickremesinghe’s case for being popularly elected for the first time, after two previous attempts, to the office he now holds by parliamentary selection, has 4 pillars:
-
-1. There is no alternative to his economic policies, starting with his agreement with the IMF.
-
-2. His IMF agreement cannot and should not be sought to be renegotiated.
-
-3. There is nothing to be renegotiated as there is nothing amiss with his IMF agreement.
-
-4. His continuity in office is thus the key to stability, which is the key to economic recovery.
+රුපියල් කෝටි 100ක වන්දියක් අයකර දෙන්නැයි ඉල්ලමින් ජාතික ජනබලවේග පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රිනී ආචාර්ය හරිනි අමරසූරිය මහත්මිය ගොනු කළ මෙම පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් සමගි ජනබලවේග පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා සහ ප්‍රසිද්ධ රූපවාහිනී සමාගමක් නම් කර ඇත.
 
 ...
 
-[Data](articles/e69b4ce9.json)
-
-[Extended Data](ext_articles/e69b4ce9.ext.json)
+[Data](articles/1632798d.json)
 
 ---
 
-### Second gunman and driver in ‘Club Wasantha’ murder arrested
+### 359 சிறைக் கைதிகளுக்கு பொது மன்னிப்பு
 
-*2024-08-28 23:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101578/second-gunman-and-driver-in-club-wasantha-murder-arrested) · `en`
+*2024-09-11 19:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/359-சிறைக்-கைதிகளுக்கு-பொது-மன்னிப்பு/175-343641) · `ta`
 
-The second gunman and the car driver wanted in connection with the recent killing of two persons including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’, have been arrested by the Panadura Police Divisional Crimes Detective Bureau at Pinwaththa in Panadura.
+தேசிய கைதிகள் தினத்தை முன்னிட்டு நாளை (12) 359 சிறைக் கைதிகள் ஜனாதிபதி விசேட பொது மன்னிப்பின் கீழ் விடுதலை செய்யப்படவுள்ளனர்.
 
-The arrested suspects are reportedly aged 29 and 32 while they are residents of Nagoda and Ahugalla areas.
+அரசியலமைப்பின் 34ஆவது பிரிவின்படி ஜனாதிபதிக்கு வழங்கப்பட்டுள்ள அதிகாரங்களின்படி, கைதிகளுக்கு இவ்வாறு பொதுமன்னிப்பு வழங்கப்பட்டுள்ளது.
 
-Based on the information received by the Panadura SSP that the suspects were staying in the Pinwatta area of Panadura, a team of officers including a Chief Inspector had apprehended the suspects while they were at the Pinwatta bus stop.
+அதற்கமைய, சிறிய குற்றங்கள் மற்றும், சிறிய அபாராத தொகையைச் செலுத்த தவறியமை உள்ளிட்ட சிறைக்கைதிகள் இவ்வாறு பொது மன்னிப்பின் கீழ் விடுவிக்கப்படவுள்ளதாக, சிறைச்சாலைகள் ஆணையாளரும், ஊடகப் பேச்சாளருமான காமினி திஸாநாயக்க தெரிவித்தார்.
 
-According to the police, it has been revealed in the investigation so far that the suspects changed from the car to a van and traveled to Kadawata from there along the Southern Expressway to Matara after carrying out the shooting.
+அதற்கமைய, வெலிக்கடை சிறைச்சாலையில் இருந்து அதிகூடிய எண்ணிக்கையாக 46 கைதிகள் விடுதலை செய்யப்படவுள்ளனர்.
 
-A senior police officer said that the suspects are to be handed over to the Athurigiriya Police for further investigation.
-
-...
-
-[Data](articles/a6b5893c.json)
-
-[Extended Data](ext_articles/a6b5893c.ext.json)
-
----
-
-### The election campaign office
-
-*2024-08-28 23:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-பிரச்சார-அலுவலகம்-தீக்கிரை/175-342943) · `ta`
-
-National People's Party election office in Mirigama Bogalagama burned. Police investigating arsonist.
-
-🟩
-
-The National People's Party's election campaign office in Mirigama Bogalagama area has been set on fire today, Pallewela police said.
-
-Pallewela police say that the fire man has already been identified and investigations are underway to arrest him.. Remble
+மஹர சிறைச்சாலையில் இருந்து 32 கைதிகளும், களுத்துறை சிறைச்சாலையில் இருந்து 30 கைதிகளும், அநுராதபுரம் சிறைச்சாலையில் இருந்து 29 கைதிகளும், வாரியபொல சிறையிலிருந்து 26 கைதிகளும் விடுதலை செய்யப்படவுள்ளனர்.
 
 ◼️
 
-[Data](articles/844ef927.json)
-
-[Extended Data](ext_articles/844ef927.ext.json)
+[Data](articles/5d150709.json)
 
 ---
 
-### Best business practices from an Islamic standpoint
+### අනුර ආරක්ෂක අංශවලින් කළ ඉල්ලීම
 
-*2024-08-28 23:11:55* · [`dailyftlk`](https://www.ft.lk/columns/Best-business-practices-from-an-Islamic-standpoint/4-766104) · `en`
+*2024-09-11 19:30:44* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ආරක්ෂක-අංශවලින්-කළ-ඉල්ලීම/11-411903) · `si`
 
-Many of the teachings embodied in both the Qur’an and Hadiths are actually followed by  multinationals in spirit - Pic by Shehan Gunasekara
+මැතිවරණයෙන් පසු කිසිදු කලබලයක් ඇති වීමට ඉඩ නොතබන ලෙස ආරක්ෂක අංශවලින් ඉල්ලා සිටින බවත්, තමන්ට ඡන්දය නොදුන් කිසිවෙකුට නිය තුඩක හානියක් වීමට ඉඩ නොතබන බවත් ජාතික ජනබලවේගයේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය.
 
-The Prophet Muhammad (peace be upon him) was a very efficient leader. He had excellent XQ (Execution Quotient) i.e. ability to get things done. The secret of his efficiency was his sense of urgency. Once a task was decided he would formulate a plan with relevant parties and execute it as fast as possible. This was evident in his many actions from winning over tribal chiefs to the many campaigns he led to ensure Islam triumphed and a commonwealth based on the brotherhood of man finally emerged. That he was supremely successful in this nobody will deny. We know in our personal life that anything we decide to do later, rarely gets done. One delay leads to another, which is why procrastination is regarded almost as a sin in Islam
+ජනාධිපතිවරණ ජයග්‍රහණය නිල වශයෙන් ප්‍රකාශයට පත් කිරීමෙන් පසු එක පැයක් හෝ නාස්ති නොකර ක්ෂණිකව දිවුරුම් ලබා දෙන බව දිසානායක මහතා සඳහන් කළේය. ඉන්පසු පාර්ලිමේන්තුව විසුරුවා හරින බවද දිසානායක මහතා කීවේය. දිසානායක මහතා මේ බව පැවසුවේ කුරුණෑගල පැවති ජනරැලිය අමතමිනි.
+
+හිටපු ජනාධිපතිවරුන්ගේ විශ්‍රාම වැටුප අහෝසි කරන බවත්, ඔවුන්ට ලබා දී ඇති රජයේ නිවාස නැවත රජයට පවරා ගන්නා බවත් ඔහු මෙහිදී කීවේය.
+
+“අපේ රටේ කොයිතරම් ඡන්ද තිබ්බත් මේ මැතිවරණය තමයි ජනතාව ඉතාම උනන්දුවෙන් ඉන්න මැතිවරණය. 21ත් කල් වැඩියි වගේ දැනෙනවා නේද. ඉස්සර නම් ඡන්දය එනකල් බලන් ඉන්නේ දේශපාලකයා. අද ජනතාව බලන් ඉන්නවා තමන්ගේ පාලනයක් මේ රටේ ඇති කරන්න. දේශපාලකයෝ විශාල ලෙස කලබලයට පත් වෙලා තියෙනවා. ඉදිරි දින 10 තුළ ඒගොල්ලො විශාල කුමන්ත්‍රණ කරන්න බලන් ඉන්නවා කියලා අපිට ආරංචියි.
 
 ...
 
-[Data](articles/096338a8.json)
-
-[Extended Data](ext_articles/096338a8.ext.json)
+[Data](articles/907d9761.json)
 
 ---
 
-### Public-Private Partnerships: Pathway to sustainable infrastructure development in Sri Lanka
+### Flash flood sweeps away hamlet as Vietnam’s storm toll rises to 155 dead
 
-*2024-08-28 22:56:48* · [`dailyftlk`](https://www.ft.lk/columns/Public-Private-Partnerships-Pathway-to-sustainable-infrastructure-development-in-Sri-Lanka/4-766103) · `en`
+*2024-09-11 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101903/flash-flood-sweeps-away-hamlet-as-vietnams-storm-toll-rises-to-155-dead) · `en`
 
-Given the fiscal constraints faced by the Government of Sri Lanka, PPPs should be a key implementation mechanism for large-scale infrastructure projects
+A flash flood swept away an entire hamlet in northern Vietnam, killing 30 people and leaving dozens missing as deaths from a typhoon and its aftermath climbed to 155 on Wednesday.
 
-Public Private Partnerships (PPP) are long-term agreements between the public and private sectors to create or operate public assets. The advantages of PPPs extend far beyond mere financial considerations. They bring with them the efficiencies of the private sector in construction and operations, enhancing the speed of development and the quality of infrastructure. One of the key benefits is the ability of PPPs to generate additional resources outside government budgets.
+Vietnamese state broadcaster VTV said the torrent of water gushing down from a mountain in Lao Cai province Tuesday buried Lang Nu hamlet with 35 families in mud and debris.
+
+Only about a dozen are known so far to have survived. Rescuers have recovered 30 bodies and are continuing the search for about 65 others.
+
+The death toll from Typhoon Yagi and its aftermath has climbed to 155. Another 141 people are missing and hundreds were injured, VTV said.
+
+Floods and landslides have caused most of the deaths, many of which have come in the northwestern Lao Cai province, bordering China, where Lang Nu is located. Lao Cai province is also home to the popular trekking destination of Sapa.
 
 ...
 
-[Data](articles/d2b51aee.json)
-
-[Extended Data](ext_articles/d2b51aee.ext.json)
+[Data](articles/b115c65b.json)
 
 ---
 
-### Election?
+### வீடியோ மூலம் மிரட்டிய முன்னாள் மேஜருக்கு சிக்கல்
 
-*2024-08-28 22:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200437) · `si`
+*2024-09-11 19:19:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடியோ-மூலம்-மிரட்டிய-முன்னாள்-மேஜருக்கு-சிக்கல்/175-343640) · `ta`
 
-Here's a summary of the text in 200 characters:
+அரசியல் பேரணியில் கலந்து கொண்டு மற்ற கட்சி ஆதரவாளர்களை வீடியோ செய்தி மூலம் மிரட்டிய நபர் மீது முறைப்பாடு ஒன்று பதிவாகியுள்ளது.
 
+குறித்த நபர் கிரிபத்கொட பிரதேசத்தில் வசிக்கும் 47 வயதுடைய நபர் இலங்கை இராணுவத்தின் முன்னாள் மேஜர் என பொலிஸார் தெரிவித்தனர்.
 
+அதன்படி கடந்த செப்டம்பர் மாதம் 7ஆம் திகதி பாராளுமன்ற உறுப்பினர் ஒருவர் குற்றப் புலனாய்வு திணைக்களத்தில் (CID) செய்த முறைப்பாடு தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
 
-Supreme Court ruling allows Elections Commission to proceed with planning next local government election. Commissioner General says no date set yet, aiming to avoid conflicts with other elections.
+குறித்த காணொளி தனிப்பட்ட நபரின் குரலை சரிபார்ப்பதற்காக அரசாங்க பகுப்பாய்வாளரிடம் அனுப்பி வைக்கப்பட்டதுடன், வாக்குமூலமொன்றை பதிவுசெய்வதற்காக அவர் குற்றப் புலனாய்வுப் பிரிவிற்கு அழைக்கப்பட்டிருந்தார்.
 
-🟩
+குறித்த காணொளி குறித்து பல அமைப்புகள் சிஐடியிடம் முறைப்பாடு செய்துள்ளதாக பொலிஸ் அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
 
-The Elections Commission met with the Supreme Court decision regarding the local government election this morning.
+இதற்கிடையில்,குறித்த வீடியோ காட்சிகளுடன் போலி குரல் இணைக்கப்பட்டுள்ளதாக தேசிய மக்கள் சக்தி ஊடக சந்திப்பில் தெரிவித்துள்ளது.
 
-Commissioner General of Elections Saman Sri Ratnayake said,
-
-"With the judicial decision we have to work next local government election. It was discussed today about doing so in a way that would not hinder other elections. No date yet has been discussed. "
+சம்பவம் தொடர்பில் கணினி குற்றப் புலனாய்வுப் பிரிவினர் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
 
 ◼️
 
-[Data](articles/57414afe.json)
-
-[Extended Data](ext_articles/57414afe.ext.json)
+[Data](articles/1a83a027.json)
 
 ---
 
-### Anura Kumara vows to eradicate drugs and organized crime under NPP govt.
+### අගෝස්තුවේ ජනපතිවරණයක් පැවැත්වූයේ නම් වැඩිහිටියන්ගෙන් වැඩි පිරිසක් අනුරට
 
-*2024-08-28 22:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101577/anura-kumara-vows-to-eradicate-drugs-and-organized-crime-under-npp-govt) · `en`
+*2024-09-11 19:15:44* · [`adalk`](https://www.ada.lk/breaking_news/අගෝස්තුවේ-ජනපතිවරණයක්-පැවැත්වූයේ-නම්-වැඩිහිටියන්ගෙන්-වැඩි-පිරිසක්-අනුරට/11-411902) · `si`
 
-National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake vowed to create a government committed to eradicating the influence of drugs and the underworld.
+අගෝස්තු මාසයේදී මෙරට ජනපතිවරණයක් පැවැත්වූයේ නම් වැඩිහිටියන්ගේ ජනාධිපතිවරණ ඡන්දය ප්‍රකාශ කිරීමේ අභිප්‍රාය අනුව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ඉදිරියෙන් පසුවන බව සෞඛ්‍ය ප්‍රතිපත්ති ආයතනය නිකුත් කළ නවතම සමීක්ෂණ වාර්තාවක දැක්වෙයි.
 
-Speaking at a public rally held in Negombo, Dissanayake drew attention to the deep-rooted connection between local politicians and organized crime.
+ඒ අනුව අනුර කුමාර දිසානායක මහතාට සියයට 36ක්, සජිත් ප්‍රේමදාස මහතාට සියයට 32 ලෙස වැඩිහිටියන්ගේ ඡන්ද ප්‍රකාශ කිරීමේ අභිප්‍රාය දැක්වෙයි.
 
-“Drugs and the underworld lie together in our country. There were never organized crime gangs in Sri Lanka in the distant history. Crimes happened, but there were no organized crime gangs. But how are there crimes now? Now they carry out murders while hiding in Dubai. You can conduct drug operations while sitting in jail. These organized crime gangs were created by local politicians,” he said.
-
-Commenting further, Dissanayake promised that a government led by the NPP will take swift and decisive action against these organized criminal networks.
+ජනපති රනිල් වික්‍රමසිංහ මහතාට සියයට 28ක අගයක් ලැබි තිබෙන අතර එය ජනපතිවරයා කෙරෙහි අඛණ්ඩ වර්ධනයක් පෙන්නුම් කරන බව එම ආයතනය පවසයි.
 
 ◼️
 
-[Data](articles/dd434abc.json)
-
-[Extended Data](ext_articles/dd434abc.ext.json)
+[Data](articles/007ae5ae.json)
 
 ---
 
-### Civil Society -The Civil Society -Plan to hand over the document that includes proposals for the national problem solution
+### Corruption fighter raises concerns over unwarranted redacting in Sri Lanka’s asset declaration
 
-*2024-08-28 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/192234) · `ta`
+*2024-09-11 19:11:00* · [`economynextcom`](https://economynext.com/corruption-fighter-raises-concerns-over-unwarranted-redacting-in-sri-lankas-asset-declaration-179301/) · `en`
 
-Sri Lanka ethnic problem resolution plan: regional equality, transitional justice, local elections, military presence reduction, missing persons compensation, accountability for human rights violations.
+ECONOMYNEXT – Transparency International Sri Lanka (TISL), the local body of Transparency International (TI), which has been fighting against corruption in Sri Lanka has raised concerns over unwarranted redacting of information in asset declaration mandated by a new Anti-Corruption Act.
 
-🟩
+The island nation’s anti-graft body the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has received asset declarations of over 100 persons who are obligated to submit their asset and liabilities declarations.
 
-Religious leaders, civil society and intellectuals have jointly recommended the measures to be carried out to address the national ethnic problem of the country, including the implementation of the equilibrium of equality for all regions and the confirmation of the transitional justice for the hill country of human rights.
+This includes top officials and the President. The CIABOC has made details of all the assets and liabilities of public officials it has received in its official website under ‘Declaration of Assets’ sub category.
 
-In relation to the steps to be taken aimed at resolving the ethnic problem of Sri Lanka. Dr. Madambagama Asaji Mahanayaka Thera,. Kalubahaka Piyaratne Thera, Blessed CG Jayakumar, Methodist Church Bishop Ari Perera, AW Hilmi Ahmad, Dr. Vinya Aryaratne, Professor Fasiah Azmi, SCC Visakha Dharmadasa, SCCJeevasudhan, V. Kamaladas, Niranjan, Dr. Dayani Panagoda, Dr. Jehan Perera, Dr. Bhagyasothi Saravanamuttu, Professor Kalinga Duder Silva, Professor SS SivakumarFor months, widespread discussions and consultations. Based on this, a document has been prepared by the representatives that the solution to the ethnic problem includes proposals.
+The CIABOC is in the process of establishing a centralized electronic system in compliance with the law.
 
 ...
 
-[Data](articles/74fd0a41.json)
-
-[Extended Data](ext_articles/74fd0a41.ext.json)
+[Data](articles/8b9cd60f.json)
 
 ---
 
-### If the people make a mistake, we will have a situation in Bangladesh - Akhilaviraj
+### திஸ்ஸ அத்தநாயக்க மீது வழக்கு தொடுப்பு
 
-*2024-08-28 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/192229) · `ta`
+*2024-09-11 19:07:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திஸ்ஸ-அத்தநாயக்க-மீது-வழக்கு-தொடுப்பு/175-343639) · `ta`
 
-Here's a summary of 200 characters:
+தேர்தல் பேரணியின் போது பொய்யான மற்றும் அவதூறான அறிக்கையை வெளியிட்டதாகக் கூறி ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்கவுக்கு எதிராக 100 மில்லியன் ரூபா நட்டஈடு கோரி தேசிய மக்கள் சக்தியின் (NPP) பாராளுமன்ற உறுப்பினர் ஹரிணி அமரசூரிய இன்று கொழும்பு மாவட்ட நீதிமன்றத்தில் அவதூறு வழக்குத் தாக்கல் செய்துள்ளார்.
 
-
-
-UNP VP Akhilaviraj warns Bangladesh-like crisis if people vote for Gotabhaya. He claims Ranil Wickremesinghe can resolve economic issues.
-
-🟩
-
-We made it clear to the people that if we voted for Gotabhaya Rajapaksa, the country would face the crisis of the country.. However, because people did not believe us, we had to face us with a massive crisis.
-
-Similarly, Ranil Wickremesinghe will come forward to build the country again in a few months, no matter who votes for Ranil Wickremesinghe.. UNP Vice President Akhilaviraj Kariyawasam said that if the people make a mistake, Bangladesh will be in a state of disrepair.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Wednesday (28).
-
-Is very important to the country where to be featured. Whether to elect the country's economy or select a new one is in the decision of the people. We made it clear to the people that the country will be forced into a crisis when he has already voted for Gotabhaya Rajapaksa.
-
-...
-
-[Data](articles/fdb76e3f.json)
-
-[Extended Data](ext_articles/fdb76e3f.ext.json)
-
----
-
-### Voice of the North and East should be given to us in international countries - A.Amalanayaki
-
-*2024-08-28 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/192236) · `ta`
-
-Tamil candidate contesting election first time. Demands voice for North East in international forums. Seeking UN intervention. Rally planned for International Disappeared Day.
-
-🟩
-
-In the North and East, the Voice of the Missed Association of the Batticaloa District. Amalanayagi said.
-
-A media briefing of the Missing Association of Batticaloa District was held on Wednesday (28).
-
-The head of the association, Amalaraj Amalanayaki, told the media
-
-On the 30th of this month, we will launch a rally in front of the Shivanalai in Trincomalee on the eve of the International Disappeared Day.. At the same time we will hold a rally in the Northern Province.
-
-We will hold a rally for justice as a matter of international justice mechanism and call for all parties at this event.
-
-We seek the international community because the Sri Lankan government has no responsibility.
-
-They are looking for and investigating. That is why we are looking for the United Nations.
-
-The Geneva session will be held next month, with our pains.
-
-Death is not a bird if it happens in front of everyone, but we have to reveal what happened to our relationships.
-
-...
-
-[Data](articles/7eb8495f.json)
-
-[Extended Data](ext_articles/7eb8495f.ext.json)
-
----
-
-### Sri Lankan poverty doubled - Human Rights Watch
-
-*2024-08-28 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200436) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sri Lanka's poverty doubled in 2022 according to Human Rights Watch. UN reports indicate one-third of the population faces food insecurity. The government claims progress in economic reforms and human rights protection through international partnerships. However, Human Rights Watch requests an update to the international community regarding ongoing investigations and potential interruptions.
-
-🟩
-
-The economic crisis in the year 2022 has been doubted due to the 'Human Rights Watch'.
-
-According to the United Nations reports, one third of the population is suffering from food insecurity.
-
-The announcement further specifics that the nearest report issued by the United Nations High Commissioner is further threats to the basic freedoms of the country.
-
-The Government of Sri Lanka has shown that the Government of Sri Lanka is trying to show that international partnerships have made progress in the protection of economic reforms and human rights.
-
-The organization has requested that the current resolution should be updated to the international community to investigate the investigation and the interruption of the international community to investigate the investigation and the interruption of the international community.
-
-...
-
-[Data](articles/03111f9b.json)
-
-[Extended Data](ext_articles/03111f9b.ext.json)
-
----
-
-### President Ranil Wickremesinghe is not a liar - Minister Prasanna Ranatunga
-
-*2024-08-28 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/192244) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Ranil Wickremesinghe faces criticism over economic policies. Minister Prasanna Ranatunga defends him, saying changing course could worsen conditions. Opposition leaders are accused of lying and lacking economic knowledge. The government maintains IMF involvement is necessary for debt restructuring.
-
-🟩
-
-President Ranil Wickremesinghe, who is traveling to create a bright tomorrow for the future generations of the country, has to go a little further on this difficult economic path, said the ruling party's chief corrupt and city development and housing minister Prasanna Ranatunga.
-
-The Minister emphasizes that if this economic course is changed, we will face more difficulties than the past.
-
-Minister Prasanna Ranatunga, who attended a public meeting held in Udugampola yesterday (27).
-
-The President has publicly called on the Opposition Leader and Anura Kumara Dissanayake to come up with the International Monetary Fund to discuss the debt restructuring program that is currently being implemented in our country.. Both are capable of speaking. So we thought they would accept this challenge.
-
-...
-
-[Data](articles/beadb55e.json)
-
-[Extended Data](ext_articles/beadb55e.ext.json)
-
----
-
-### Heavy rainfall with heavy winds
-
-*2024-08-28 21:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிக-பலத்த-காற்றுடன்-கனமழை-பெய்யக்கூடும்/175-342930) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Heavy rainfall and strong winds expected near North Bengal Sea tomorrow. Fishing boats advised to return to shore. Weather alert valid until 3:30 PM tomorrow.
-
-🟩
-
-The Department of Meteorology has announced that it is likely to develop low winds in the atmosphere around the North Bengal Sea tomorrow (29).
-
-The announcement states that heavy rainfall (70-80 km per hour) is likely to occur with heavy winds in those seas and the seas are very turbulent.
-
-Due to this, the Department of Meteorology has said that long -lasting fishing boats and fisheries in the deep sea of ​​the North Bengal bay will go to shore or safe.
-
-The announcement, which was released today (29) afternoon, will be valid until 3:30 pm tomorrow (29). Remble
+2024 ஆம் ஆண்டு ஒகஸ்ட் 19 ஆம் திகதி, பிரதிவாதியான திஸ்ஸ அத்தநாயக்க, மாவனெல்லையில் நடைபெற்ற SJB ஜனாதிபதி தேர்தல் பிரசாரக் கூட்டத்தின் போது, ​​NPP அரசாங்கம் கண்டி தலதா பெரஹரவை நிறுத்தும் என பகிரங்கமாக அறிக்கை ஒன்றை வெளியிட்டதுடன், இந்த விடயம் தொடர்பில் அறிக்கை ஒன்றை வெளியிட்டதாக ஹரிணி அமரசூரிய குற்றஞ்சாட்டியுள்ளார்.
 
 ◼️
 
-[Data](articles/72e2e926.json)
-
-[Extended Data](ext_articles/72e2e926.ext.json)
+[Data](articles/f3dd3a31.json)
 
 ---
 
-### Sri Lankan youth set fire to Australia
+### Sri Lanka Treasuries yield spike, demand for short end
 
-*2024-08-28 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200435) · `si`
+*2024-09-11 19:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yield-spike-demand-for-short-end-179314/) · `en`
 
-Sri Lankan youth sets self on fire in Melbourne, protesting refugee policies.
+ECONOMYNEXT – Sri Lanka’s Treasuries yields rose across maturities with weak demand for one year bills, data from the state debt office showed.
 
-🟩
+The debt office sold 105 billion rupees of three month bills after offering 60 billion rupees at 9.99 percent, up 38 basis points.
 
-Australian media reports that a Sri Lankan who has been living in Australia has committed suicide by setting himself on fire in Melbourne.
+57.9 billion rupees of 6 -month bills were sold at 10.24 percent up 30 basis points.
 
-The youth was said to be a person who was unaware of Australia in 2013.
+Only 1.1 billion rupees of one year bills were sold, at 10.07 percent up 03 basis points after offering 30 billion.
 
-There he had come to Australia with his parents.
+There were only 30 billion in bids for the maturity compared to 115 billion rupees for three months.
 
-He has lived for about 11 years on a temporary visa, and he had previously applied for refuge, but it had been rejected.
-
-If the young man was very worried because of his visa problem.
-
-A Victoria Police official said he had set fire to his body last night and was hospitalized by emergency aspects.
-
-Australian media has reported that he has to make the decision to protest against the policy introduced to the refugees 'introduced to the refugees' central government.
+Sri Lanka’s interest rates are rising ahead of elections and promises of subsidies, tax cuts and state salary hikes. (Colombo/Aug11/2024)
 
 ◼️
 
-[Data](articles/ad2398a4.json)
+[Data](articles/8eb66b78.json)
 
-[Extended Data](ext_articles/ad2398a4.ext.json)
+---
+
+### වෛද්‍ය උපකරණයක සඟවා ගෙනා රු. කෝටි 7ක කොකේන්
+
+*2024-09-11 19:00:01* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-උපකරණයක-සඟවා-ගෙනා-රු--කෝටි-7ක-කොකේන්/11-411901) · `si`
+
+රුපියල් හත් කෝටි පනස් ලක්ෂයක් වටිනා කොකේන් මත්ද්‍රව්‍ය තොගයක් කටුනායක ගුවන් තොටුපොළ ගුවන් භාණ්ඩ ගම්මානයෙන් පිට කර ගෙන යමින් සිටි පුද්ගලයන් තිදෙනකු සමග කටුනායක  රේගු නිවාරණ අංශයේ නිලධාරීන් පිරිසක් විසින් 09/10 දින අත් අඩංගුවට ගෙන තිබේ .
+
+කොළොම්බියාවේ බොගොටා නගරයේ සිට ඉකුත් 08/25 දින මෙම පාර්සලය ගම්පහ , ගනේමුල්ල ප්‍රදේශයේ ලිපිනයකට ගුවන් මගින් , ෆිට්ස් එයාර් කූරියර් සේවාව ඔස්සේ  එවා තිබුණි .
+
+කොළඹ මාළිගාවත්ත ප්‍රදේශයේ පදිංචි වයස අවුරුදු 23 සහ 24 , අය්යා සහ මල්ලී දෙදෙනෙකු සහ සියඹලාණ්ඩුව ප්‍රදේශයේ පදිංචි 30 හැවිරිදි ගුවන් භාණ්ඩ ගම්මානයේ සේවය කරන වාප්පු ලිපිකරුවකු මෙම පාර්සලය නිදහස් කර ගෙන පිටව යාමට තැත් කරමින් සිටියදී රේගු නිවාරණ අංශයේ නිලධාරීන් විසින් මොවුන් අත් අඩංගුවට ගෙන තිබේ .
+
+රෝගීන් සදහා භාවිතා කරන වායුව පොම්ප කරන වෛද්‍ය උපකරණයක් තුළ වූ මෝටරය තුළ සගවා මෙම කිලෝ ග්‍රෑම් 02 ග්‍රෑම් 139 ක් වූ කොකේන් මත්ද්‍රව්‍ය තොගය රැගෙන විත් තිබුණි .
+
+...
+
+[Data](articles/66442982.json)
+
+---
+
+### Sri Lanka Vallibel Power, CEB sign power purchase agreement
+
+*2024-09-11 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-vallibel-power-ceb-sign-power-purchase-agreement-179285/) · `en`
+
+ECONOMYNEXT – Sri Lanka mini hydro company Vallibel Power Erathna Plc said it had entered into a power purchased agreement with the state-owned utility provider for the development of its 10 MWac ground mounted solar PV project in Matara.
+
+The Standardized Power Purchase Agreement (SPPA) with the Ceylon Electricity Board was signed on Wednesday (11), for the development of the project at Dolahena Estate, Matara which would supply electricity to the national grid for a period of 20 years.
+
+The solar project is expected to attract a total investment of approximately 2 billion rupees, the company said in stock exchange filing.
+
+“The project aims to strengthen Sri Lanka’s renewable energy contribution to the National Grid, with an anticipated annual output ranging from 18 GWh to 20 GWh.” (Colombo/Sep11/2024)
+
+◼️
+
+[Data](articles/2b0c12b4.json)
+
+---
+
+### මාර්ගගත ක්‍රමය නිසා රු. මි. 10ක් ඉතුරු වෙයි
+
+*2024-09-11 18:23:32* · [`adalk`](https://www.ada.lk/breaking_news/මාර්ගගත-ක්‍රමය-නිසා-රු--මි--10ක්-ඉතුරු-වෙයි/11-411900) · `si`
+
+විද්‍යාපීඨ ශික්ෂණලාභීන් බඳවාගැනීම මෙවර මාර්ගගත ක්‍රමයට සිදු කිරීම නිසා රජයට රුපියල් මිලියන දහයක පමණ මුදලක් ඉතුරු වූ බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+විද්‍යාපීඨ ශික්ෂණලාභීන් බඳවාගැනීම සඳහා මින් පෙර රුපියල් මිලියන 13.5ක් වැය වූ අතර මෙවර ඒ සඳහා වැය වූයේ මිලියන 3.5ක මුදලක් බවත් ඒ අනුව රුපියල් මිලියන 10ක මුදලක් රජයට ඉතිරි කරගැනීමට හැකි වූ බවත් හෙතෙම පැවසී ය.
+
+ශික්ෂණලාභීන් බඳවාගැනීම සඳහා පෙර වසර එකහමාරත් දෙකත් අතර කාලයක් ගත වූ අතර මෙවර මාස 04ක් වැනි ඉතා කෙටිකලක් තුළ එම බඳවාගැනීම් කාර්යක්ෂම ව සිදු කළ හැකි වූ බවත් අමාත්‍යවරයා මෙහි දී ප්‍රකාශ කළේ ය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ අධ්‍යාපන අධ්‍යාපන අමාත්‍යාංශයේ පැවති සාකච්ඡාවක් අතරතුර දී ය.
+
+‘ඉන්ෆොමැටික් තාක්ෂණික ආයතනය (Informatics Institute of Technology)’  අමාත්‍ය මණ්ඩල හා නීතිපති අනුමැතිය සහිත ව මේ කාර්ය සඳහා පූර්ණ තාක්ෂණික දායකත්වය සපයා ඇත.
+
+...
+
+[Data](articles/ae6988e8.json)
+
+---
+
+### පුද්ගලික අංශයේ අවම සේවක වැටුප රු. 21,000ක් දක්වා සියයට 40කින් ඉහළට
+
+*2024-09-11 18:06:40* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලික-අංශයේ-අවම-සේවක-වැටුප-රු--21-000ක්-දක්වා-සියයට-40කින්-ඉහළට/11-411898) · `si`
+
+පුද්ගලික අංශයේ සේවකයින් සදහා වන අවම මූලික වැටුප රුපියල් 21,000 ක් බවට පත් කරමින් පාර්ලිමේන්තුවේදී සම්මතවූ පනත සදහා කතානායක මහින්ද යාපා අබේවර්ධන මහතා අද දිනයේදී අත්සන් තැබූ අතර ඒ අනුව සේවක භාරකාර අරමුදල, සේවක අර්ථසාධක අරමුදල් සහ පාරිතෝශික ගෙවීමේදී අවම වැටුප බවට එය සැලකිය යුතු බවට කම්කරු හා විදේශ රැකියා අමාත්‍යාංශය මාධ්‍ය නිවේදනයක් නිකුත් කරමින් සදහන් කර සිටී.
+
+පුද්ගලික අංශයේ සේවා යෝජකයින් සිය සේවකයින් සදහා මේ වසරේ සැප්තැම්බර් මාසයේ සිට ජාතික අවම මාසික වේතනය වශයෙන් රුපියල් 17,500ක් සමග 2005 අංක 36 හා 2016 අංක 4 දරණ අය වැය සහන දීමනා පනත් මගින් ගෙවිය යුතු රුපියල් 3,500ක අය යැය දීමනා ඇතුළු රුපියල් 21,000ක අවම වේතනයක් ගෙවිය යුතු බවද අමාත්‍යාංශය සදහන් කරයි. ඒ අනුව සේවක අර්ථසාධක අරමුදල, සේවක භාරකාර අරමුදල සහ පාරිතෝශික ගෙවීම් සදහා අදාල අවම වැටුප අදාල කරගත යුතු බවද අමාත්‍යාංශය නිකුත් කළ මාධ්‍ය නිවේදනයේ දැක්වේ.
+
+...
+
+[Data](articles/96b502d8.json)
+
+---
+
+### உலகின் சிறந்த நாடுகளின் பட்டியல் வெளியானது
+
+*2024-09-11 18:03:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உலகின்-சிறந்த-நாடுகளின்-பட்டியல்-வெளியானது/50-343637) · `ta`
+
+உலகின் சிறந்த நாடுகளின் பட்டியலில் சுவிட்சர்லாந்து முதல் இடம் பிடித்துள்ளது. யுஎஸ் நியூஸ் அண்ட் வேர்ல்ட் ரிப்போர்ட் இதழ் 2024-ம்ஆண்டுக்கான உலகின் சிறந்தநாடுகளின் பட்டியலை வெளியிட்டுள்ளது.
+
+இந்தப் பட்டியலில் தொடர்ந்து மூன்றாவது ஆண்டாக இம்முறையும் சுவிட்சர்லாந்து முதல் இடம் பிடித்துள்ளது. 2-வதுஇடத்தில் ஜப்பான், 3-வது இடத்தில்அமெரிக்கா, 4-வது இடத்தில் கனடா, 5-வது இடத்தில் ஆஸ்திரேலியா ஆகியவை உள்ளன.
+
+வாழ்க்கைத் தரம், தொழில்முனைவு, சாகசம், சுறுசுறுப்பு, பாரம்பரியம், கலாச்சார நோக்கம் உட்பட 10 தன்மைகளின் அடிப்படையில் இந்தப் பட்டியல் உருவாக்கப்பட்டுள்ளது.
+
+89 நாடுகள் இடம்பெற்றுள்ள இந்தப் பட்டியலில் இந்தியா 33-வது இடத்தில் உள்ளது. சென்ற ஆண்டு பட்டியலில் இந்தியா 30-வது இடத்தில் இருந்தது. இந்நிலையில் தற்போது 3 இடங்கள் பின்னகர்ந்துள்ளது.
+
+இந்தப் பட்டியலில் முதல் 25 இடங்களில் ஐரோப்பிய நாடுகள் அதிகம் இடம்பெற்றுள்ளன. ஆசியாவிலிருந்து ஜப்பான், சிங்கப்பூர், சீனா, தென் கொரியா ஆகிய நாடுகளே முதல் 25 இடங்களில் உள்ளன. மத்திய கிழக்கு நாடுகளில் ஐக்கிய அரபு அமீரகம் 17-வது இடத்திலும் கத்தார் 25-வது இடத்திலும் உள்ளன.
+
+◼️
+
+[Data](articles/7192cedf.json)
+
+---
+
+### Sri Lanka’s remanded ex health minister out on bail: reports
+
+*2024-09-11 18:03:00* · [`economynextcom`](https://economynext.com/sri-lankas-remanded-ex-health-minister-out-on-bail-reports-179284/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s former Health Minister Keheliya Rambukwella, who had been remanded over alleged import of substandard medicines, has been granted bail.
+
+Media reports said the minister, who was in remand custody for seven months over the alleged import of substandard human intravenous immunoglobulin injections, has been granted bail by the Maligakanda Magistrate’s Court.
+
+The controversial minister’s arrest comes just 10 days before a crucial presidential election. (Colombo/Sep11/2024)
+
+◼️
+
+[Data](articles/cb2453d9.json)
+
+---
+
+### Doctors to launch islandwide strike on Sep.18
+
+*2024-09-11 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101900/doctors-to-launch-islandwide-strike-on-sep18) · `en`
+
+The Government Medical Officers’ Association (GMOA) has decided to launch an islandwide strike on September 18 (Wednesday).
+
+GMOA Media Spokesman Dr. Chamil Wijesinghe stated that the strike action has been planned in protest against the disciplinary inquiry launched against GMOA Assistant Secretary and Uva province coordinator Dr. Palitha Rajapaksa without a formal complaint.
+
+Meanwhile, he further stated that it has been decided to display black flags in all hospitals for seven consecutive days from today onwards.
+
+He stated that they are committed to ensure justice for Dr. Palitha Rajapaksa and that the “unfair” disciplinary inquiry should be suspended.
+
+“This disciplinary inquiry has been initiated without any formal complaint. Dr. Palitha Rajapaksa spoke on behalf of the people of this country. He was talking about the impact from the lack of medicines and equipment at the Badulla Hospital and surrounding hospitals,” he added.
+
+◼️
+
+[Data](articles/629ba9e0.json)
+
+---
+
+### අතුරුදන් ත්‍රි රෝද රියදුරු සොයා ගුවනින් සහ ගොඩබිමින් කළ මෙහෙයුම
+
+*2024-09-11 17:55:27* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදන්-ත්‍රි-රෝද-රියදුරු-සොයා-ගුවනින්-සහ-ගොඩබිමින්-කළ-මෙහෙයුම/11-411897) · `si`
+
+නාඳුනන කාන්තාවක් සමග ත්‍රී රෝද රථයෙන් කුලි ගමනක් ගිය අතරවාරයේදී මීට දින 40 කට පමණ ඉහතදී අභිරහස් ලෙස අතුරුදන් වූ එක්දරු පියා ඝාතනය කර මළ සිරුර බදුවිල  වෙල්යායේ සඟවා ඇත්දැයි  යන සැකයෙන් ගුවනින් සහ ගොඩබිමින්  විශේෂ සෝදිසි මෙහෙයුමක් අද (11) සිදු කෙරිණි
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මහජන පැමිණිලි  අංශයේ නිලධාරීන් , පොලිස් විශේෂ කාර්ය බළකායේ ඩ්‍රෝන කැමරා අංශයේ නිලධාරීන් , පානදුර කොට්ඨාස අපරාධ පරීක්ෂණාගාරයේ නිලධාරීන් මෙන්ම හිරණ පොලිසියේ නිලධාරීන් ඒකාබද්ධව මෙම විශේෂ සෝදිසි මෙහෙයුම සිදුකෙරිණි
+
+සඳුන් උදාර අල්විස් නැමැති පානදුර කිරි බේරිය ගල්පොත්ත පාර අංක 428/3 හි පදිංචි 31 හැවිරිදි   තීරෝද රථ රැකියාවේ නියුතු එක්දරු පියා  ඉකුත්  අගෝස්තු මස 3 වෙනිදින  අවසන් වරට පානදුර කිරි බේරිය තීරෝද රථ ගාලෙන් නාඳුනන කාන්තාවක් පැමිණ  කුලී ගමනක් යන මුවාවෙන් රැගෙන ගොස් තිබිණි
+
+ඔහු එම ස්ථානයෙන් එම කාන්තාව සමග කුලී ගමන යන අයුරු එම ත්‍රී රෝද රථ ගාලේම ත්‍රී රෝද රථයක් තබාගෙන කුලී ගමන්  වල  යෙදෙන අතුරුදන් රියදුරුගේ පියා සියැසින් දැක  තිබූ බව පොලිසිය කියයි
+
+...
+
+[Data](articles/8b612adf.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 301.00/30, bond yields up
+
+*2024-09-11 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-301-00-30-bond-yields-up-179280/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 301.00/30 to the US dollar on Wednesday, from 300.60/75 on Tuesday, dealers said, while bond yields were up.
+
+Trading in the secondary market was subdued ahead of the auction tomorrow (12).
+
+A bond maturing on 01.07.2028 closed at 13.40/55 percent, up from 13.30.45 percent. (Colombo/Sep11/2024)
+
+◼️
+
+[Data](articles/f9d8290e.json)
+
+---
+
+### කෙහෙළිය ඇතුළු තිදෙනෙකුට ඇප
+
+*2024-09-11 17:32:26* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ඇතුළු-තිදෙනෙකුට-ඇප/11-411896) · `si`
+
+සිරගත කර සිටි හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු තිදෙනෙකුට මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණයෙන්  අද(11දා) ඇප ලබා දී තිබේ.
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් ගෙන්වීමේ සිද්ධියට අදාළව ඔවුන් රක්ෂිත බන්ධනාගාර ගත කර තිබිණි.
+
+◼️
+
+[Data](articles/961627eb.json)
+
+---
+
+### Sri Lanka stocks close up after days of dropping
+
+*2024-09-11 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-after-days-of-dropping-179264/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.03 percent, or 3.59 points, at 10,574; while the more liquid S&P SL20 Index closed up 0.02 percent, or 0.47 points, at 2,923.
+
+“We saw the  market close down consecutively due to the political uncertainty, so this could be somewhat of a correction,” Softlogic Stockbrokers said. “There was also speculation that the tables are going to turn.”
+
+“But overall the stance is the same. Institutions and funds have taken positions to be in cash.”
+
+Top contributors to the ASPI were Royal Ceramics (up at 29.40), National Development Bank (up at 63.10), Asian Hotels and Properties (up at 54.50), SMB Finance (up at 0.60), and Industrial Asphalts (up at 0.30).
+
+Banks (Rs561mn) and Capital Goods (Rs280mn) sectors brought in the most turnover.
+
+◼️
+
+[Data](articles/edb27645.json)
+
+---
+
+### Former Health Minister Keheliya granted bail
+
+*2024-09-11 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101899/former-health-minister-keheliya-granted-bail) · `en`
+
+Former Health Minister Keheliya Rambukwella and two other suspects, implicated in the alleged importation of substandard human immunoglobulin vials, have been released on bail by the Maligakanda Magistrate’s Court.
+
+The 7th accused in the case former Deputy Director of the Health Ministry Rathnakumara Herath and the 12th accused, former CEO of the National Medicines Regulatory Authority Dr. Vijith Gunasekera were also released on bail today.
+
+Rambukwella has been ordered released on two personal bails of Rs. 5 million each and a cash bond of Rs. 100,000. The court ordered that one of the bail signatories for the personal bail must be a close relative of the defendant.
+
+Meanwhile, the Maligakanda Magistrate Lochani Abeywickramahas also imposed a foreign travel ban on the former minister, who has been ordered to hand over his passport.
+
+...
+
+[Data](articles/0b25e082.json)
+
+---
+
+### Namal aims to create 2 million jobs within next decade
+
+*2024-09-11 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101898/namal-aims-to-create-2-million-jobs-within-next-decade) · `en`
+
+The Presidential candidate of the Sri Lanka Podujana Peramuna (SLPP), Namal Rajapaksa says that he has a plan to generate 2 million new employment opportunities within the next decade.
+
+Speaking at a public rally in Matale, the SLLP’s presidential candidate said that he would transform the country’s administrative systems to eliminate “the era of long queues” and emphasized that in the future, people in the country including the youth would no longer have to wait in queues for passports, NICs, driver’s licenses and such.
+
+“We will remove fraud and corruption from the election stage,” he added.
+
+He said they will get rid of that with technology and by introducing competitive bidding systems from the procurement method to the tender procedure, and that they will work to create a programme that ensures the protection of transparency and quality through it, together with that technology.
+
+...
+
+[Data](articles/d38b0a9c.json)
+
+---
+
+### සෙයාගත් විශාලතම සෙල්ලිපියේ අක්ෂර කියවූවන් තොරතුරු රැසක් අණාවරණය කරගනිති
+
+*2024-09-11 16:47:49* · [`adalk`](https://www.ada.lk/breaking_news/සෙයාගත්-විශාලතම-සෙල්ලිපියේ-අක්ෂර-කියවූවන්-තොරතුරු-රැසක්-අණාවරණය-කරගනිති/11-411895) · `si`
+
+ඓතිහාසික දිඹුලාගල කඳු මුදුනින් හමු වූ ශ්‍රී ලංකාවේ විශාලතම සෙල්ලිපියේ අක්ෂර හෙවත් ශිලා ලේඛනය කියවීමට මෙරට විද්වතුන් පිරිසක් සමත්වී ඇත.
+
+එම ශිලා ලේඛනය වසර 2,200ක් පමණ පැරණි බවට අනුමාන  කෙරෙන අතර මෙය මෙතෙක් මෙරටින් හමු වී තිබෙන පූර්ව බ්‍රාහ්මීය අක්ෂර වලින් ලියන ලද විශාලතම ශිලා ලේඛනය ඒ පිළිබඳ පර්යේෂණ  සිදුකෙරු මහාචාර්ය කරුණාසේන හෙට්ටිආරචිචි මහතා සඳහන් කොට ඇත.
+
+මෙම සෙල්ලිපියේ මුලතන, දෙවතන, බදනනම, අරිහතන,  බැංකුවලට සමාන මූල්‍ය ආයතන තුනක් පිළිබඳව සඳහන් බවද කරුණාසේන හෙට්ටිආරච්චි මහතා හෙළිදරව් කර ඇත.
+
+විශේෂයෙන් පූර්ව බ්‍රාහ්මී අක්ෂරවලින් සමන්විත මෙම සෙල්ලිපිය ක්‍රිස්තු පූර්ව 137 සහ 119 යන කාල වකවානුවට අයත් බව ඒ සම්බන්ධයෙන් සොයා බැලීමට පත්කළ විද්වත් මණ්ඩලය හඳුනාගෙන තිබුණි.
+
+ආදි බ්‍රාහ්මීය අක්ෂර 24 ක් ලංකාවේ මෙතෙක් හමුවී ඇති අතර ඉන් අක්ෂර 23 ක් මෙම ශිලා ලේඛනයෙහි සඳහන්ය.
+
+...
+
+[Data](articles/243f40ad.json)
+
+---
+
+### සේවකයන්ගේ ජාතික අවම වේතන පනත් කෙටුම්පත බලාතේමක කෙරේ
+
+*2024-09-11 16:45:34* · [`adalk`](https://www.ada.lk/breaking_news/සේවකයන්ගේ-ජාතික-අවම-වේතන-පනත්-කෙටුම්පත-බලාතේමක-කෙරේ/11-411894) · `si`
+
+සේවකයන්ගේ ජාතික අවම වේතනය (සංශෝධන) පනත් කෙටුම්පත සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 වැනි ව්‍යවස්ථාව ප්‍රකාරව කථානායක  මහින්ද යාපා අබේවර්ධන මහතා අද (11දා) සිය සහතිකය සටහන් කළේය.
+
+2016 අංක 3 දරන සේවකයන්ගේ ජාතික අවම වේතන පනත සංශෝධනය කිරීම සඳහා වූ මෙම පනත් කෙටුම්පත සම්බන්ධයෙන් දෙවන වර කියවීමේ විවාදය පසුගිය 03 වැනිදා වැනිදා පාර්ලිමේන්තුවේදී පැවැත්විණි. එහිදී මෙම පනත් කෙටුම්පත ඡන්ද විමසීමකින් තොරව සංශෝධන රහිතව සම්මත විය.
+
+ඒ අනුව මෙම පනත් කෙටුම්පත 2024 අංක 48 දරන සේවකයන්ගේ ජාතික අවම වේතනය (සංශෝධන) පනත ලෙස හැඳින්වේ.
+
+◼️
+
+[Data](articles/16abd08c.json)
+
+---
+
+### Sri Lanka presidential polls: AKD hits out at SJB for accepting anybody
+
+*2024-09-11 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-polls-akd-hits-out-at-sjb-for-accepting-anybody-179239/) · `en`
+
+ECONOMYNEXT — Sri Lanka leftist presidential candidate Anura Kumara Dissanayake has said his National People’s Power (NPP) is the only party to not platform MPs accused of crime or corruption, accusing the main opposition Samagi Jana Balawegaya (SJB) of opening its doors to questionable characters.
+
+Speaking at an election rally in Kegalle on Tuesday September 10, Dissanayake claimed that a former state minister accused of swindling the stock market was now with the SJB.
+
+MP Geetha Kumarasinghe who had only just last week praised President Ranil Wickremesinghe was now saying SJB leader Sajith Premadasa is great, he said.
+
+“The one who made a teacher kneel in Anamaduwa is also with Sajith,” claimed Dissanayake.
+
+The NPP presidential candidate said MP Rishad Bathiudeen who was in the centre of an alleged deforestation controversy was now with Premadasa as is a young Buddhist monk who had lodged a complaint against Bathiudeen at the Criminal Investigation Department (CID).
+
+...
+
+[Data](articles/65608b0a.json)
+
+---
+
+### ITAK to take final decision on supporting presidential candidate
+
+*2024-09-11 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101897/itak-to-take-final-decision-on-supporting-presidential-candidate) · `en`
+
+The leader of Ilankai Tamil Arasu Kachchi (ITAK) MP Mavai Senathirajah has stated that the final decision as to which candidate the party will support in the upcoming presidential election will be announced on September 15.
+
+ITAK had initially decided on September 01 to support the presidential candidate of the Samagi Jana Balawegaya-led alliance, Sajith Premadasa, as communicated by TNA MP M.A. Sumanthiran during a press briefing on the same day. Sumanthiran had pointed out that this decision was reached at the party’s Central Committee meeting.
+
+However, the representatives of ITAK’s Kilinochchi branch had called a special meeting last Monday and unanimously decided to support the Tamil common candidate, P. Ariyanenthiran.
+
+Meanwhile, President Ranil Wickremesinghe had met with ITAK leader Mavai Senathirajah at his residence in Kankasanthurai, Jaffna, on September 07 for a discussion.
+
+...
+
+[Data](articles/9613e379.json)
+
+---
+
+### දක්ෂතා දැක්වූ ශ්‍රී ලංකා ටෙස්ට් ක්‍රීඩකයන් ශ්‍රේණිගත කිරීම් හී ඉහළට
+
+*2024-09-11 16:13:30* · [`adalk`](https://www.ada.lk/sports/දක්ෂතා-දැක්වූ-ශ්‍රී-ලංකා-ටෙස්ට්-ක්‍රීඩකයන්-ශ්‍රේණිගත-කිරීම්-හී-ඉහළට/9-411893) · `si`
+
+එංගලන්තය සමග පැවති ටෙස්ට් ක්‍රිකට් තරගාවලියේදී දක්ෂතා දැක්වූ ශ්‍රී ලංකා ක්‍රීඩකයන් කිහිප දෙනෙකු ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ ටෙස්ට් ශ්‍රේණිගත කිරීම් හී ඉදිරියට පැමිණ තිබේ.
+
+ඒ අනුව නායක ධනන්ජය ද සිල්වා ටෙස්ට් පිතිකරුවන් ශ්‍රේණිගත කිරීම් හී 13 වැනි ස්ථානය දක්වා ස්ථාන 03කින් ඉදිරියට පැමිණ ඇත. එමෙන්ම ඔහු ටෙස්ට් ක්‍රිකට් තුන් ඉරියව් ක්‍රීඩකයන් අතර 24 වැනි ස්ථානය දක්වා ස්ථාන 04කින් ඉදිරියට පැමිණ තිබේ.
+
+ටෙස්ට් පිතිකරුවන් ශ්‍රේණිගත කිරීම් හී කමිදු මෙන්ඩිස් ස්ථාන 06කින් ඉදිරියට පැමිණ මේ වන විට 20වැනි ස්ථානයේ පසුවේ.
+
+මේ අතර අගනා පිතිහරඹයක නිරත වූ පැතුම් නිස්සංක ස්ථාන 42කින් ඉදිරියට පැමිණ ඇති අතර, ඔහු මේ වන විට 39 වැනි ස්ථානයේ පසුවේ.
+
+මේ අතර ටෙස්ට් ක්‍රිකට් පන්දුයවන්නන් ශ්‍රේණිගත කිරීම් හී විශ්ව ප්‍රනාන්දු  31වැනි ස්ථානය දක්වා ස්ථා 13කින් ද,  ලහිරු කුමාර ස්ථාන 10කින් 32 වැනි ස්ථානය දක්වාද ඉදිරියට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/8fd0e469.json)
+
+---
+
+### Dilith urges voters not to base decision on ‘artificially created’ rallies
+
+*2024-09-11 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101895/dilith-urges-voters-not-to-base-decision-on-artificially-created-rallies) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera, called on the public not to base their final decision on artificially created political rallies.
+
+He made these remarks during a meeting held this morning (11) to present appointment letters to several electoral organizers of the ‘Sarvajana Balaya’ alliance
+
+He stated that Sri Lanka has reached the final stage of the presidential election, regarding which the people of the country had placed immense expectations and hope.
+
+“We attempted to control our expenses and try to make this communication efficient, as advised by the Election Commissioner,” he said.
+
+He stated that is the reason why they didn’t use buses to pull crowds to meetings or use drone cameras to show the crowds. He added that if anyone thinks that the people who attended those meetings with large crowds are actual voters, they are completely mistaken.
+
+...
+
+[Data](articles/cd50b480.json)
+
+---
+
+### 350 prisoners to be released on Prisoners’ Day
+
+*2024-09-11 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101894/350-prisoners-to-be-released-on-prisoners-day) · `en`
+
+A total of 350 prisoners serving sentences for minor offences in prisons islandwide are slated to be released tomorrow (12) to mark Prisoners’ Day, says the Prisons Spokesman and the Prisons Commissioner Gamini B. Dissanayake.
+
+He stated that the prisoners in question, selected from prisons across the country based on conditions, will be released on a state pardon through powers vested with the President.
+
+◼️
+
+[Data](articles/c042c54e.json)
+
+---
+
+### Sri Lanka’s Emerald BPO to establish call centre in BoI venture
+
+*2024-09-11 15:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-emerald-bpo-to-establish-call-centre-in-boi-venture-179257/) · `en`
+
+ECONOMYNEXT – Emerald BPO Tech Pvt Ltd has signed an agreement with Sri Lanka’s Board of Investment to establish a call center.
+
+The new call center will provide inbound and outbound services, technical support, and IT services, to businesses in Dubai and Singapore, the BoI said.
+
+Emerald BPO Tech already has a call center based in Colombo, providing business process outsourcing solutions to clients worldwide. (Colombo/Sep11/2024)
+
+◼️
+
+[Data](articles/0944c618.json)
+
+---
+
+### විද්‍යාපීඨ ශික්ෂණලාභීන් බඳවා ගැනී Online ක්‍රමයට සිදු කිරීමෙන් රජයට රු.මි.10ක ඉතිරියක්
+
+*2024-09-11 14:50:33* · [`adalk`](https://www.ada.lk/breaking_news/විද්‍යාපීඨ-ශික්ෂණලාභීන්-බඳවා-ගැනී-Online-ක්‍රමයට-සිදු-කිරීමෙන්-රජයට-රු-මි-10ක-ඉතිරියක්/11-411891) · `si`
+
+විද්‍යාපීඨ ශික්ෂණලාභීන් බඳවාගැනීම මෙවර මාර්ගගත (Online) ක්‍රමයට සිදු කිරීම නිසා රජයට රුපියල් මිලියන දහයක පමණ මුදලක් ඉතුරු වූ බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත් මහතා පැවසීය.
+
+විද්‍යාපීඨ ශික්ෂණලාභීන් බඳවාගැනීම සඳහා මින් පෙර රුපියල් මිලියන 13.5ක් වැය වූ බවත්, මෙවර ඒ සඳහා රුපියල් මිලියන 3.5ක් පමණක් වැය වූ බවත් හෙතෙම සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ff13a704.json)
+
+---
+
+### Presidential Election 2024: Over 10 million polling cards distributed
+
+*2024-09-11 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101893/presidential-election-2024-over-10-million-polling-cards-distributed) · `en`
+
+Deputy Postmaster General Rajitha Ranasinghe says that the distribution of over 10 million official polling cards for the 2024 presidential election has already been completed thus far.
+
+He also assured that the remaining polling cards will be distributed to the voters in the coming days and the Postal Department expects to complete the distribution of official polling cards by September 14th.
+
+If any voter has not received their official polling cards by that date, they can visit their local post office with their National Identity Card (NIC) to verify their identity and obtain their polling card, Ranasinghe said.
+
+He stated that this opportunity will be available for the voters until the date of the presidential election, which will be held on September 21.
+
+According to the Election Commission, there are 17.44 million registered voters for the upcoming election.
+
+◼️
+
+[Data](articles/d96bc3b8.json)
+
+---
+
+### அதிபர் அடித்ததில்   ஏழு மாணவர்களுக்கு காயம்
+
+*2024-09-11 14:27:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அதிபர்-அடித்ததில்-ஏழு-மாணவர்களுக்கு-காயம்/76-343633) · `ta`
+
+பாடசாலையின் அதிபரினால்  கடந்த சனிக்கிழமை ஏற்பாடு செய்யப்பட்டிருந்த கல்வி கருத்தரங்குக்கு செல்லாத ஏழு  மாணவர்களை பிரம்பால்  தாக்கியதாகவும் இதனால் அவர்கள் நடக்க கூட முடியாது உள்ளதாகவும் தெரிவிக்கப்படுகின்றது. இந்த சம்பவம் நுவரெலியாவில் இடம்பெற்றுள்ளது.
+
+நுவரெலியா கல்வி வலயத்துக்குட்பட்ட கந்தப்பளை நு/கோட்பெல் தமிழ் வித்தியாலயத்தில் இம்முறை 5ம் ஆண்டு புலமைப் பரீட்சைக்கு  தோற்றவுள்ள மாணவர்கள் மீது அதிபர் கடுமையாக தாக்கியதால் கடுங்காயங்களுக்கு உள்ளான ஏழு மாணவர்கள் நுவரெலியா மாவட்ட  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+குறித்த பாடசாலையின் அதிபரை இடமாற்றம் செய்ய கோரியும் பாடசாலை அதிபருக்கு தகுந்த நடவடிக்கை எடுக்குமாறு கோரியும்  ன் நுவரெலியா வலயக் கல்வி காரியாலயத்திற்கு எழுத்து மூலம் அறிவித்துள்ளனர்.
+
+எனினும் இதுவரை உரிய தீர்வு கிடைக்காத காரணமாகவே பெற்றோர் மற்றும் பழைய மாணவர்கள் இணைந்து   புதன்கிழமை  (11) குறித்த போராட்டத்தை முன்னெடுத்துள்ளதாக போராட்டத்தில் ஈடுபட்டவர்கள் தெரிவித்துள்ளனர். சம்பவம் தொடர்பில் பாதிக்கப்பட்ட மாணவர்களின் பெற்றோர் கூறுகையில்,
+
+...
+
+[Data](articles/b40a61cb.json)
+
+---
+
+### Three foreign parties in talks for offshore banking in Sri Lanka’s Port City
+
+*2024-09-11 14:20:00* · [`economynextcom`](https://economynext.com/three-foreign-parties-in-talks-for-offshore-banking-in-sri-lankas-port-city-179248/) · `en`
+
+ECONOMYNEXT – Three international banking corporations are in discussion to set up offshore operations in Sri Lanka’s Colombo Port City, its operating company said.
+
+Sri Lanka’s parliament on September 04, approved offshore banking rules gazette in July, CHEC Port City CHEC Port City Colombo (Pvt) Ltd said.
+
+“The presence of offshore branches of international banks would promote greater financial stability and provide the dexterity to invest in large-scale projects for prospective global investors,” the statement said.
+
+“Further, the offshore banking system at Port City Colombo will foster the creation of a circular financial economy, due to the increased circulation of foreign currency.”
+
+Commercial Bank of Sri Lanka, Sampath, HNB, DFCC, NDB, and NTB, have been approved as Authorised Persons (AP’s) by the Colombo Port City Economic Commission (CPCEC) to operated in the special economic zone.
+
+Seven local banks are in discussion to set up offshore banking units in the Port City area.
+
+...
+
+[Data](articles/d0ab187f.json)
+
+---
+
+### Seetha Arambepola appointed State Minister for Women and Child Affairs
+
+*2024-09-11 14:19:00* · [`economynextcom`](https://economynext.com/seetha-arambepola-appointed-state-minister-for-women-and-child-affairs-179250/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President  Ranil Wickremesinghe has appointed SLPP parliamentarian Dr Seetha Kumari Arambepola as the Minister of State for Women and Child Affairs.
+
+The previous minister in the post, former actress Geetha Kumarasinghe was sacked after she pledged support to opposition party Samagi Jana Balavegaya.
+
+Dr Arambepola already holds the post of Minister of State for Health. (Colombo/Sep11/2024)
+
+◼️
+
+[Data](articles/ece4e0d3.json)
+
+---
+
+### ගීතාට තිබූ වගකීම සීතාට භාර දෙයි
+
+*2024-09-11 14:13:50* · [`adalk`](https://www.ada.lk/breaking_news/ගීතාට-තිබූ-වගකීම-සීතාට-භාර-දෙයි/11-411890) · `si`
+
+රාජ්‍ය අමාත්‍ය සීතා අරඹේපොල මහත්මියට තවත් රාජ්‍ය අමාධ්‍ය ධුරයක් ලබා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කටයුතු කර තිබේ.
+
+ඒ අනුව ගීතා කුමාරසිංහ මහත්මිය ඉවත් කිරීමෙන් හිස් වූ කාන්තා හා ළමා කටයුතු රාජ්‍ය අමාත්‍ය ධුරය සීතා අරඹේපොල මහත්මියට ලබා දුන් බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f8912f96.json)
 
 ---

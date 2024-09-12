@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 17:22:19**
+As of **2024-09-12 17:38:42**
 
 ## Newspaper Stats
 
-*Scraped **43,557** Articles*
+*Scraped **43,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ colombotelegraphcom | 427
 islandlk | 2,542
 economynextcom | 2,649
 dailyftlk | 2,899
-adalk | 4,031
+adalk | 4,033
 dailymirrorlk | 4,733
-adaderanalk | 5,112
+adaderanalk | 5,113
 tamilmirrorlk | 5,669
 virakesarilk | 6,897
-adaderanasinhalalk | 7,438
+adaderanasinhalalk | 7,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,283 (99.4%) of 43,557 articles have been extended.
+43,286 (99.4%) of 43,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### සංවර්ධන නිලධාරීන් ගුරු සේවයට එක්කිරීමේ නඩු සමථයට
+
+*2024-09-12 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200951) · `si`
+
+සංවර්ධන නිලධාරීන් ගුරු සේවයට අන්තර්ග්‍රහණය කිරීම පිළිබඳ නඩු සමථයකට පත්ව ඇත.
+
+මේ පිළිබඳ නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන අමාත්‍යාංශය පවසා සිටියේ, සංවර්ධන නිලධාරීන් ගුරු සේවයට අන්තර්ග්‍රහණය කිරීම පිළිබඳ ව නඩු විභාගය ගැනුණු අතර, අද (12) දින එම නඩු සමථයට පත් වූ බවයි.
+
+එම නඩු සමථයට පත් වීම පිළිබඳ තීරණය නිකුත් කරමින් අධිකරණය දන්වා ඇත්තේ, දැනට අධිකරණයට ඉදිරිපත් ව ඇති අමාත්‍ය මණ්ඩල අනුමැතිය ඇති සමථ කොන්දේසි අනුව ක්‍රියාකළ යුතු බවයි.
+
+ක්‍රියාත්මකවීමේ ස්වභාවය අනුව අවශ්‍ය වුවහොත් අදාළ පාර්ශවයන්ට මෝසමක් මාර්ගයෙන් නැවත නඩුව ආපසු කැඳවීමට අයිතිය ඇති බවත්, එම කරුණු මත නඩුව බහා තබන බවත් අධිකරණය විසින් ප්‍රකාශයට පත් කර ඇත.
+
+මේ සඳහා මැදිහත්වීම්වන පෙත්සම්කාර පාර්ශවය වෙනුවෙන් ජනාධිපති නීතිඥ වී.කේ. චොක්සි මහතා සහ නීතිඥ ඩී. එස්. රත්නායක මහත්මිය පෙනී සිටි අතර, වගඋත්තරකරුවන් වෙනුවෙන් නීතිපති දෙපාර්තමේන්තුව පෙනීසිටියේ ය.
+
+රජයේ පාසල්වල දැනට ගුරුවරුන් ලෙස සේවයේ නියුක්තව සිටින සංවර්ධන නිලධාරීන්ව ගුරු සේවයට අන්තර්ග්‍රහණය කරගැනීමට ජනාධිපතිවරයා ද මීට ඉහතදී සිය එකඟත්වය පළ කළේය.
+
+...
+
+[Data](articles/d213a56a.json)
+
+---
+
+### Political programmes presented by main candidates contain same thing – Dilith
+
+*2024-09-12 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101923/political-programmes-presented-by-main-candidates-contain-same-thing-dilith) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera says that all the other three main candidates contesting the upcoming presidential election have presented the same programme.
+
+He stated this during a public meeting held at Nittambu yesterday (11), under the ‘Dilith Gamata’ series of constituency meetings.
+
+“Now they have presented three political programmes. All three of them contain the same thing. Instead, we have brought a strategic plan. A strategic programme that represents the views of every man in this country,” Jayaweera said.
+
+He further stated that after the people vote on the morning of September 21, the results can only be expected on September 23 because of the second preference count.
+
+...
+
+[Data](articles/05c833aa.json)
+
+---
 
 ### Keheliya presents to Colombo High Court
 
@@ -51,6 +91,22 @@ Former Health Minister Keheliya Rambukwella has been ordered to appear before th
 [Data](articles/dfec376c.json)
 
 [Extended Data](ext_articles/dfec376c.ext.json)
+
+---
+
+### ඇල්පිටිය ප්‍රාදේශීය සභා මැතිවරණය පැවැත්වීමේ දිනය නියම කරයි
+
+*2024-09-12 16:48:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-ප්‍රාදේශීය-සභා-මැතිවරණය-පැවැත්වීමේ-දිනය-නියම-කරයි/11-411918) · `si`
+
+ඇල්පිටිය ප්‍රාදේශීය සභා මැතිවරණ ඔක්තෝම්බර් 26 වැනිදා පැවැත්වීමට තීරණය කර තිබේ.
+
+ඇල්පිටිය ප්‍රාදේශීය සභා ඡන්ද විමසීමට අදාළ ව නාමයෝජනා භාරගැනීම  අද (12දා) දහවල් 12න් අවසන් කිරීමට කටයුතු කෙරිණි.
+
+ඒ අනුව පිළිගත් දේශපාලන පක්ෂ 09ක් නාමයෝජනා පත්‍ර භාරදී ඇති අතර, එමෙන්ම ස්වාධීන කණ්ඩායම් දෙකක් ද නාමයෝජනා භාරදී තිබේ.
+
+◼️
+
+[Data](articles/d3dda2f1.json)
 
 ---
 
@@ -335,6 +391,28 @@ Its administration is notified to remove the university premises at 6.00 pm toda
 [Data](articles/73c5dd87.json)
 
 [Extended Data](ext_articles/73c5dd87.ext.json)
+
+---
+
+### ඡන්දය දාන්න මේ අනන්‍යතා ලේඛන වලින් එකක් අරන් යන්න
+
+*2024-09-12 15:15:20* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-දාන්න-මේ-අනන්‍යතා-ලේඛන-වලින්-එකක්-අරන්-යන්න/11-411916) · `si`
+
+ජනාධිපතිවරණයට ඡන්දය ප්‍රකාශ කිරීමේදී වලංගු අනන්‍යතා ලේඛන මැතිවරණ කොමිෂන් සභාව විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව මඟින් නිකුත් කර ඇති ජාතික හැඳුනුම්පත
+
+පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව මගින් නිකුත් කරනු ලබන පූජ්‍ය/ පූජක හැඳුනුම්පත
+
+පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව මගින් නිකුත් කරනු ලබන ජාතික හැඳුනුම්පත් තොරතුරු තහවුරු කිරීමේ ලිපිය
+
+ආබාධිත තැනැත්තන් සඳහා මැතිවරණ කොමිෂන් සභාව විසින් නිකුත් කරනු ලබන තාවකාලික හැඳුනුම්පත
+
+යන ලේඛන වලින් එකක් තිබීම ඡන්දය භාවිතා කිරීමේදී ඉදිරිපත් කිරීම අනිවාර්ය වේ.
+
+◼️
+
+[Data](articles/b2331629.json)
 
 ---
 
@@ -2078,6 +2156,8 @@ Andrew The Travel Company Ltd. Managing Director Mahen Kariyawasan was re-electe
 
 [Data](articles/6c341a3c.json)
 
+[Extended Data](ext_articles/6c341a3c.ext.json)
+
 ---
 
 ### Western Automobile Assembly kicks off plant in Kuliyapitiya
@@ -2098,6 +2178,8 @@ Its efficient assembly process is based on lean manufacturing principles and a f
 
 [Data](articles/d9cd1224.json)
 
+[Extended Data](ext_articles/d9cd1224.ext.json)
+
 ---
 
 ### Economic crisis in Sri Lanka: Policy challenges for the new Government – Part 3
@@ -2109,6 +2191,8 @@ While the Government has implemented immediate poverty alleviation schemes, incl
 ...
 
 [Data](articles/cb639a11.json)
+
+[Extended Data](ext_articles/cb639a11.ext.json)
 
 ---
 
@@ -2265,81 +2349,5 @@ He emphasised that his manifesto is the most promising and effective, with the b
 ◼️
 
 [Data](articles/695d75c6.json)
-
----
-
-### அதானி குழுமத்திற்கு எதிர்ப்பு
-
-*2024-09-12 01:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அதானி-குழுமத்திற்கு-எதிர்ப்பு/50-343645) · `ta`
-
-கென்யா - நைரோபியில் உள்ள ஜோமோ கென்யாட்டா சர்வதேச விமான நிலையத்தை அதானி குழுமத்திற்குக் குத்தகைக்கு விடுவதற்கு எதிர்ப்பு தெரிவித்து விமான நிலைய ஊழியர்கள் போராட்டத்தில் ஈடுபட்டனர்.
-
-விமான நிலையத்தை 30 ஆண்டுகளுக்கு நிர்வகிக்கும் ஒப்பந்தத்தை இந்தியாவைச் சேர்ந்த அதானி குழுமத்திற்கு வழங்க அந்நாட்டு அரசு முடிவு செய்துள்ளது.
-
-தொழிலாளர்களின் எதிர்ப்பையும் மீறி இந்த ஒப்பந்தத்திற்குக் கென்யாவின் ஜனாதிபதி வில்லியம் ருட்டோ ஆதரவு தெரிவித்திருந்தார்.
-
-இந்த நிலையில், விமான நிலையத்தை அதானி குழுமத்திற்குக் குத்தகைக்கு விடும் முடிவிற்கு எதிர்ப்பு தெரிவித்து ஜோமோ கென்யாட்டா விமான நிலைய ஊழியர்கள் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.  (a)
-
-◼️
-
-[Data](articles/eab64cf4.json)
-
----
-
-### 2024-09-11 (Wednesday)
-
-### Natural Body Scrubs…
-
-*2024-09-11 23:46:00* · [`islandlk`](http://island.lk/natural-body-scrubs/) · `en`
-
-Readers have inquired about body scrubs, so this week my Beauty Tips are connected with body scrubs.
-
-You will need ½ cup of ground coffee, 1/4th cup of sugar and 02 tablespoons of extra virgin olive oil.
-
-Mix the three items well and then use the mixture on clean skin for exfoliation
-
-Coffee has strong antioxidant properties. It accelerates the blood flow and fights premature signs of ageing. It also helps with cellulite and stretch marks. It gets rid of your tan without being harsh on your skin.
-
-You will need 01 tablespoon of plain yoghurt, 1/4th cup of olive oil, 03 tablespoons of sugar and 01 tablespoon of honey.
-
-Yoghurt has brightening, moisturising and toning properties. It is packed with B Vitamins which act as a natural lotion for the body. Overall, it’s a great ingredient for those with dry skin.
-
-You will need ½ cup of brown sugar, 1/4th cup of olive oil, and 02 tablespoons of honey.
-
-...
-
-[Data](articles/03eda3a6.json)
-
----
-
-### மஹிந்தவின் கோட்டையில் மகனுக்கு கல் வீச்சு
-
-*2024-09-11 23:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-கோட்டையில்-மகனுக்கு-கல்-வீச்சு/175-343644) · `ta`
-
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவின் பிரச்சார கூட்டத்தின் மீது கற்கள் வீசப்பட்டுள்ளன.
-
-இந்த கூட்டத்தில் கலந்து கொண்ட குழந்தை ஒன்று காயமடைந்து ஹம்பாந்தோட்டை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக ஹம்பாந்தோட்டை பொலிஸார் தெரிவித்தனர்.
-
-இந்த பொதுக்கூட்டத்தில் நாமல் ராஜபக்ச, சமல் ராஜபக்ஷ, ஷிரந்தி ராஜபக்ஷ ஆகியோர் பங்கேற்கவிருந்தனர்.
-
-மஹிந்தவின் கோட்டை என வர்ணிக்கப்படும் ஹம்பாந்தோட்டையில், நாமலுக்கு இவ்வாறு கல் வீச்சு தாக்குதல் இடம்பெற்றுள்ளமை மக்கள் மத்தியில் பேசுபொருளாகி உள்ளது. R
-
-◼️
-
-[Data](articles/8a13bade.json)
-
----
-
-### Browns Pharmaceuticals partners with DFCC Bank and Market-Oriented Dairy to empower local entrepreneurs
-
-*2024-09-11 22:47:00* · [`islandlk`](http://island.lk/browns-pharmaceuticals-partners-with-dfcc-bank-and-market-oriented-dairy-to-empower-local-entrepreneurs/) · `en`
-
-In keeping with its vision of fostering the growth of Sri Lanka’s dairy sector, Browns Pharmaceuticals recently collaborated with DFCC Bank PLC and Market-Oriented Dairy (MOD) through its innovative ‘Kiri Wyawasabhiman’ Loyalty Program. This trifold partnership aims to support dairy entrepreneurs across the nation during challenging times by offering seamless access to essential products and services, along with various concessions and customised financial products.
-
-Through its Micro, Small and Medium Enterprise (MSME) scheme, DFCC Bank will afford dairy entrepreneurs a host of exclusive benefits such as special interest rates, flexible payment schemes and discounts on drugs, medicine and machinery from Browns Pharmaceuticals along with capacity development programs that will aid and deliver 360-solutions to foster business growth.
-
-...
-
-[Data](articles/8c39b2d6.json)
 
 ---

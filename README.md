@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 23:22:28**
+As of **2024-09-12 23:39:53**
 
 ## Newspaper Stats
 
-*Scraped **43,611** Articles*
+*Scraped **43,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,899
 adalk | 4,040
 dailymirrorlk | 4,733
 adaderanalk | 5,117
-tamilmirrorlk | 5,676
+tamilmirrorlk | 5,677
 virakesarilk | 6,910
 adaderanasinhalalk | 7,447
 
@@ -26,25 +26,49 @@ adaderanasinhalalk | 7,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,444 (99.6%) of 43,611 articles have been extended.
+43,449 (99.6%) of 43,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
 
-### நாமலின் அரசாங்கத்தில் மஹிந்தவுக்கு என்ன பதவி தெரியுமா?
+### This is what happens if sold at high prices
+
+*2024-09-12 23:09:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-விலைக்கு-விற்பனை-செய்தால்-இதுதான்-நடக்கும்/175-343705) · `ta`
+
+Egg dealer sentenced 10 years high prices Kurunegala Madhava
+
+🟩
+
+An egg dealer from Kurunegala and Madhava area has been sentenced to 10 years in prison for 10 years.
+
+◼️
+
+[Data](articles/f7ce3124.json)
+
+[Extended Data](ext_articles/f7ce3124.ext.json)
+
+---
+
+### Do you know what the post of Mahinda in Namal's government?
 
 *2024-09-12 22:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-அரசாங்கத்தில்-மஹிந்தவுக்கு-என்ன-பதவி-தெரியுமா/175-343703) · `ta`
 
-ஜனாதிபதித் தேர்தலில் தான் வெற்றி பெற்றால், பிரதமர் பதவியை மகிந்த ராஜபக்ஷவுக்கு வழங்கவுள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
+Namal Rajapaksa promises Mahinda Rajapaksa as PM if elected president. Plans to dissolve parliament on 22nd and form interim cabinet.
 
-அதேநேரம் தாம் வெற்றி பெற்றால் எதிர்வரும் 22ஆம் திகதியே பாராளுமன்றம் கலைக்கப்படும் எனவும் குறிப்பிட்டார்.
+🟩
 
-தமது தரப்பினரின் ஒத்துழைப்புடன் இடைக்கால அமைச்சரவை ஒன்று உருவாக்கப்படும் என நாமல் மேலும் தெரிவித்துள்ளார். R
+Sri Lanka PA, the presidential candidate of Sri Lanka, Namal Rajapaksa has said that if he wins the presidential election, he will be given the post of Prime Minister Mahinda Rajapaksa.
+
+At the same time, he said that if he wins, Parliament will be dissolved on the 22nd.
+
+Namal added that an interim cabinet will be formed with the cooperation of his party.. Remble
 
 ◼️
 
 [Data](articles/c4f4e93a.json)
+
+[Extended Data](ext_articles/c4f4e93a.ext.json)
 
 ---
 
@@ -2433,43 +2457,5 @@ The reforms seek to enhance the country’s resilience to climate change impacts
 [Data](articles/20f02ce8.json)
 
 [Extended Data](ext_articles/20f02ce8.ext.json)
-
----
-
-### The minimum basic salary of the private sector increased
-
-*2024-09-12 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200938) · `si`
-
-Here's a 200-character summary:
-
-
-
-Parliament passes bill increasing minimum basic salary for private sector employees. New salary: Rs. 21,000 per month. Increase of Rs. 10,000 from previous Rs. 12,500. Daily wage now Rs. 350. Amendment bill passed on April 3, 2020.
-
-🟩
-
-The Bill was passed in parliament to increase the minimum basic salary for private sector employees in Parliament.
-
-The Second Reading Debate on the National Minimum Way Act No. 3 of 2016 was held in Parliament on the 3rd.
-
-There the Bill was passed without amending without a poll.
-
-Accordingly, the Employees Trust Fund, Employees Provident Fund and Gratuity Payment of Gratuity
-
-Private sector employers pay Rs. 21,000, including Rs.The Ministry said that should be said that the Ministry said.
-
-Accordingly, the minimum salary of the Employees Provident Fund, Employees Trust Fund and Gratuity Payments should be applied to the Ministry.
-
-The National Minimum Reval Act No. 3 of the National Minimum Monthly Act No. 3 of 2016 has been implemented to set up a national minimum hive from 01.01.2016.
-
-The Act also prescribed the minimum increase of Rs. 10,000 to pay Rs.
-
-The minimum monthly salary was taken up from Rs. 12,500 and the daily wage was Rs.
-
-...
-
-[Data](articles/7b9eaaa7.json)
-
-[Extended Data](ext_articles/7b9eaaa7.ext.json)
 
 ---

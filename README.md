@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 20:10:30**
+As of **2024-09-12 20:22:20**
 
 ## Newspaper Stats
 
-*Scraped **43,591** Articles*
+*Scraped **43,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 427
 islandlk | 2,542
 economynextcom | 2,659
 dailyftlk | 2,899
-adalk | 4,036
+adalk | 4,037
 dailymirrorlk | 4,733
 adaderanalk | 5,115
 tamilmirrorlk | 5,675
 virakesarilk | 6,903
-adaderanasinhalalk | 7,441
+adaderanasinhalalk | 7,442
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,341 (99.4%) of 43,591 articles have been extended.
+43,341 (99.4%) of 43,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### පළමු මාස 08හි බදු ආදායම 28.5%කින් වර්ධනය වෙයි
+
+*2024-09-12 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200954) · `si`
+
+2024 වසරේ මුල් මාස 8හි බදු ආදායම පසුගිය වසරේ එම කාලයට සාපේක්ෂව 28.5%කින් වර්ධනය වී ඇති බව දේශීය ආදායම් දෙපාර්තමේන්තුව පවසයි.
+
+දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් අද (12) පස්වරුවේ නිකුත්කළ නිවේදනයකින් ඒ බව දැක්වෙයි.
+
+එහි දැක්වෙන පරිදි මෙම ජනවාරි සිට අගෝස්තු අවසානය දක්වා දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් රුපියල් මිලියන 1,229,245ක බදු ආදායමක් රැස්කර ඇත.
+
+කෙසේ නමුත් මෙම කාලසීමාව ඉකුත් වසරේදී රැස්කිරීමට හැකිව ඇත්තේ රුපියල් මිලියන 956,418කි.
+
+සංස්ථාපිත හා සංස්ථාපිත නොවන ආදායම් බද්ද, එකතු කළ අගය මත බද්ද, සමාජ ආරක්ෂණ දායකත්ව බද්ද, ඔට්ටු සහ සූදු බද්ද, කොටස් ගනුදෙනු බද්ද හා වෙනත් බදු වර්ග යන බදු වර්ග කිහිපයක් යටතේ දේශීය ආදායම් දෙපාර්තමේන්තුව මෙම බදු මුදල් එක්රැස් කර ඇත.
+
+◼️
+
+[Data](articles/5f7ad0a0.json)
+
+---
 
 ### Sri Lankan caught using forged Malaysian passport at Thai border
 
@@ -281,6 +301,24 @@ Sri Lanka and New Zealand will be played between Sri Lanka and New Zealand, as w
 [Data](articles/a2e81c8b.json)
 
 [Extended Data](ext_articles/a2e81c8b.ext.json)
+
+---
+
+### මාස 9කදී 784ට ඊශ්‍රායලයේ සාත්තු සේවිකා රැකියා
+
+*2024-09-12 18:07:44* · [`adalk`](https://www.ada.lk/breaking_news/මාස-9කදී-784ට-ඊශ්‍රායලයේ-සාත්තු-සේවිකා-රැකියා/11-411921) · `si`
+
+2024 වසරේ ජනවාරි සිට මේ දක්වා ගතවූ මාස 8ක කාලය තුළ ඊශ්‍රායලයේ සාත්තු සේවා ක්ෂේත්‍රයේ රැකියා සඳහා ශ්‍රි ලාංකිකයින් 784 දෙනෙකු පිටත්ව ගොස් ඇති අතර, ඊශ්‍රායලයේ සාත්තු සේවක රැකියා සදහා සුදුසුකම් ලැබූ තවත් කාන්තාවන් 19 දෙනෙකු වෙත ගුවන් ටිකට්පත් ලබාදීම අද දිනයේදී (9/12) ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේදී සිදුවිය.
+
+මෙම පිරිස සැප්තැම්බර් මස 15 දින ඊශ්‍රායලය බලා පිටත්ව යාමට නියමිතයි.
+
+ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා ඊශ්‍රායලයේ ෆීබා ආයතනය අතර ඇති කරගත් අවබෝධතා ගිවිසුම අනුව මේ වන විට ශ්‍රි ලාංකිකයින් 1,618 දෙනෙකු සඳහා ඊශ්‍රායලයේ සාත්තු සේවා රැකියා අවස්ථා උදා වී තිබේ.
+
+ලොව හොඳම සාත්තු සේවා ආර්ථිකය ඇති රට බවට ශ්‍රි ලංකාව පත්කිරීම ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ අපේක්ෂාව වන අතර, ඒ වෙනුවෙන් යුරෝපා, මැදපෙරදිග හා නැගෙනහිර ආසියානු රටවල සාත්තු සේවා රැකියා සඳහා ශ්‍රි ලාංකිකයින් වැඩි වශයෙන් යොමුකිරීම සඳහා මේ වනවිට කටයුතු කරමින් පවතී.
+
+◼️
+
+[Data](articles/b1cb090e.json)
 
 ---
 
@@ -2439,57 +2477,5 @@ Addressing a rally in Kirulapone, he said that the party conspiracies not to pre
 [Data](articles/7030a0a3.json)
 
 [Extended Data](ext_articles/7030a0a3.ext.json)
-
----
-
-### Sri Lanka football team to visit Sri Lanka
-
-*2024-09-12 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200931) · `si`
-
-Sri Lanka football team arrives home after qualifying for Asia Cup. They defeated Cambodia 4-2 in penalties, advancing to the next round.
-
-🟩
-
-The Sri Lanka National Football Team, who qualified to enter the third round of the Asia Cup Football Championship, arrived in the island last night (11).
-
-There were a large number of football players and football laws to accept them.
-
-The Sri Lanka National Football team was running out of the match with Cambodia on the 5th and the end of the match against Cambodia.
-
-The penalties were able to win the penalties of the Sri Lankan team to success as 4-2.
-
-◼️
-
-[Data](articles/416c9ae0.json)
-
-[Extended Data](ext_articles/416c9ae0.ext.json)
-
----
-
-### Dilith says the wrongs correct
-
-*2024-09-12 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200930) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dilith Jayaweera criticizes presidential candidates, saying they prioritize personal gain over national progress. He advocates for strategic planning and transparency, warning against corruption and mismanagement of public funds.
-
-🟩
-
-All three main candidates have presented all three major candidates in the presidential election this year, the annuition entrepreneur Dilith Jayaweera said.
-
-Another meeting of the Dilith Ganga Samaga
-
-"Candidates have come forward for the presidential election. There are three or four of the traditional political parties. Others come into the political parties. There is no room for 10 if my name is 10. They have come to destroy the people's money and prop to prop to prop to. They have now presented three political program. There's one in three. We have been brought instead a strategic program. A strategic program representing all humans in this country.
-
-21 The results receive the voting in the morning and the second preference 23. 23 When the morning is up, the star seems if you see the star in the sky. Have begun to Yen from a third world country. But if you see the star, it means that since then, you have changed your life.
-
-...
-
-[Data](articles/4cf1c1f6.json)
-
-[Extended Data](ext_articles/4cf1c1f6.ext.json)
 
 ---

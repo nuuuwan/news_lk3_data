@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 17:07:20**
+As of **2024-09-12 17:22:19**
 
 ## Newspaper Stats
 
-*Scraped **43,556** Articles*
+*Scraped **43,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,112
 tamilmirrorlk | 5,669
 virakesarilk | 6,897
-adaderanasinhalalk | 7,437
+adaderanasinhalalk | 7,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,276 (99.4%) of 43,556 articles have been extended.
+43,283 (99.4%) of 43,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### Keheliya presents to Colombo High Court
+
+*2024-09-12 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200950) · `si`
+
+Former Health Minister Keheliya Rambukwella appears in Colombo High Court on Oct 3 & 25 due to bribery cases filed by the Bribery Commission.
+
+🟩
+
+Former Health Minister Keheliya Rambukwella sent to the Colombo High Court today (12) by the Maligakanda Magistrate's Court yesterday.
+
+It is on two cases filed against Mr. Keheliya Rambukwella by the Bribery Commission.
+
+Former Health Minister Keheliya Rambukwella has been ordered to appear before the High Court on October 03 and 25.
+
+◼️
+
+[Data](articles/dfec376c.json)
+
+[Extended Data](ext_articles/dfec376c.ext.json)
+
+---
 
 ### 2024 Presidential Election: 77% of polling cards distributed
 
@@ -49,6 +71,8 @@ He stated that this opportunity will be available for the voters until the date 
 ◼️
 
 [Data](articles/f8a79c00.json)
+
+[Extended Data](ext_articles/f8a79c00.ext.json)
 
 ---
 
@@ -71,6 +95,8 @@ He further said that he has created a political force with a group of principled
 ...
 
 [Data](articles/9cdedeee.json)
+
+[Extended Data](ext_articles/9cdedeee.ext.json)
 
 ---
 
@@ -323,6 +349,10 @@ The deadline for the handing over of nominations for the Elpitiya Pradeshiya Sab
 Accordingly, a total of 09 registered political parties and 02 independent groups had handed in nominations.
 
 The nominations for the Elpitiya Pradeshiya Sabha in the 2024 Local Government Elections were accepted from September 09 to September 12.
+
+A total of 10 recognized political parties and 02 independent groups had placed deposits for the election, however out of them only 09 recognized political parties and 2 independent groups had submitted their nomination papers today (12).
+
+Of those, the nomination papers of 08 recognized political parties and an independent group were accepted, according to Galle District Secretary W. A. Dharmasiri.
 
 ◼️
 
@@ -1964,6 +1994,8 @@ Assures NPP is committed to preventing post-election violence and working with a
 
 [Data](articles/c844cdde.json)
 
+[Extended Data](ext_articles/c844cdde.ext.json)
+
 ---
 
 ### Keheliya granted bail after 7 long months
@@ -1984,6 +2016,8 @@ Former Health Minister Keheliya Rambukwella and two others, who were remanded ov
 
 [Data](articles/990c6a3a.json)
 
+[Extended Data](ext_articles/990c6a3a.ext.json)
+
 ---
 
 ### Govt. invites private investors to develop key Colombo railway stations under PPP model
@@ -2001,6 +2035,8 @@ These plazas are expected to enhance the infrastructure and amenities at the sta
 ...
 
 [Data](articles/062f6e4a.json)
+
+[Extended Data](ext_articles/062f6e4a.ext.json)
 
 ---
 
@@ -2021,6 +2057,8 @@ According to the press release issued by the Ministry, the new minimum wage shou
 ...
 
 [Data](articles/ca6e8e58.json)
+
+[Extended Data](ext_articles/ca6e8e58.ext.json)
 
 ---
 
@@ -2303,19 +2341,5 @@ Through its Micro, Small and Medium Enterprise (MSME) scheme, DFCC Bank will aff
 ...
 
 [Data](articles/8c39b2d6.json)
-
----
-
-### Kevin Edwards re-elected CNCI chairman for another term
-
-*2024-09-11 22:47:00* · [`islandlk`](http://island.lk/kevin-edwards-re-elected-cnci-chairman-for-another-term/) · `en`
-
-Kevin Edwards was reelected chairman of the Ceylon National Chamber of Industries (CNCI) at the 63rd Annual General Meeting (AGM), which was held on August 30, 2024, at the Hotel Taj Samudra, Colombo. Shantha Weerasinghe, Secretary, Ministry of Industries, was the Chief Guest of the event.
-
-Kevin Edwards is employed by E B Creasy & Co Plc and seconded for duties as Director / Chief Executive Officer of E B Creasy Logistics Limited, he has over 40 years of experience in the field of Logistics, Supply Chain Management, and International Trade.
-
-...
-
-[Data](articles/975221a5.json)
 
 ---

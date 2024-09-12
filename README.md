@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 18:18:46**
+As of **2024-09-12 18:31:50**
 
 ## Newspaper Stats
 
-*Scraped **43,563** Articles*
+*Scraped **43,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ dbsjeyarajcom | 375
 bbccomsinhala | 422
 colombotelegraphcom | 427
 islandlk | 2,542
-economynextcom | 2,649
+economynextcom | 2,657
 dailyftlk | 2,899
 adalk | 4,034
 dailymirrorlk | 4,733
 adaderanalk | 5,113
 tamilmirrorlk | 5,670
-virakesarilk | 6,897
-adaderanasinhalalk | 7,439
+virakesarilk | 6,903
+adaderanasinhalalk | 7,440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,296 (99.4%) of 43,563 articles have been extended.
+43,297 (99.4%) of 43,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### ඩිල්ශාන්ගේ දියණිය ඔස්ට්‍රේලියාවට යන ශ්‍රී ලංකා U-19 කණ්ඩායමට
+
+*2024-09-12 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200952) · `si`
+
+ඔස්ට්‍රේලියාවේදී පැවැත්වෙන වයස අවුරුදු 19න් පහළ කාන්තා තුන්කොන් ක්‍රිකට් තරගාවලියට සහහාගිවන ශ්‍රී ලංකා සංචිතය අද (12) පස්වරුවේ නිවේදනය කළේය.
+
+මොරටුව වේල්ස් කුමරි විදුහලේ මනුදි නානායක්කාරගේ නායකත්වයෙන් යුත් ක්‍රීඩිකාවෙන් 16 දෙනාගේ මෙම සංචිතයට ශ්‍රී ලංකා ක්‍රිකට් හිටපු නායක තිලකරත්න ඩිල්ෂාන්ගේ දියණිය වන ලිමන්සා තිලකරත්නද ඇතුළත්ව තිබීම විශේෂත්වයකි.
+
+ඊට අමතරව මෙම සංචිතයට රත්ගම දේවපතිරාජ විදුහලේ ක්‍රීඩිකාවන් 06 දෙනෙකු මෙන්ම ත්‍රිකුණාමලය, අම්පාර, මොණරාගල වැඩි කොළඹින් එපිට ප්‍රදේශවලින්ද ක්‍රීඩිකාවන් තෝරාගෙන තිබේ.
+
+මේ අතර තරගාවලිය ඉලක්ක කරගමින් මූලික සංචිතයට මිතාලි අයෝධ්‍යා තෝරාගෙන සිටියද, ඇය ආබාධයකට ලක්වීම හේතුවෙන් ඇය වෙනුවට එරන්දි හංසමාලි කැඳවා ඇත.
+
+සත්කාරක ඔස්ට්‍රේලියාව සමගින් ශ්‍රී ලංකාව හා නවසීලන්තය අතර පැවැත්වෙන මෙම තුන්කොන් ක්‍රිකට් තරගාවලිය එක්දින මෙන්ම විස්සයි20 ලෙසින්ද පැවැත්වේ.
+
+◼️
+
+[Data](articles/a2e81c8b.json)
+
+---
+
+### Sri Lanka’s Co-operative Insurance rated ‘BB(lka)’ by Fitch, outlook stable
+
+*2024-09-12 18:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-co-operative-insurance-rated-bblka-by-fitch-outlook-stable-179450/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has assigned a ‘BB(lka)’ national insurer financial Strength (IFS) rating on Sri Lanka-based Co-operative Insurance Company Plc (CICPLC). The outlook is stable.
+
+Fitch said the insurer’s 1H24 results accounted for 100% premium remittance under the motor category of strikes, riots, civil commotion and terrorism from January 2024, up from the previous 12%.
+
+“We expect underwriting profit to rise gradually with better governance practices, enhanced claims management, and a rebound in business activities following the lifting of regulatory restrictions.”
+
+Fitch Ratings – Colombo/Sydney – 11 Sep 2024: Fitch Ratings has affirmed the rating on Sri Lanka-based Co-operative Insurance Company PLC’s (CICPLC) ‘BB(lka)’ National Insurer Financial Strength (IFS) Rating. The Outlook is Stable.
+
+...
+
+[Data](articles/15f690c2.json)
+
+---
 
 ### Recovery of infant body;Web to mother's peers
 
@@ -57,6 +95,84 @@ The woman had confessed to the police that he had taken it to the Akkarapattana 
 [Data](articles/14ffac2f.json)
 
 [Extended Data](ext_articles/14ffac2f.ext.json)
+
+---
+
+### தேசிய ஷுரா சபை பிரதிநிதிகளுக்கும் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு இடையில் விசேட சந்திப்பு
+
+*2024-09-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193525) · `ta`
+
+தேசிய ஷுரா சபை பிரதிநிதிகளுக்கும் ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாசவுக்குமிடையிலான விசேட சந்திப்பொன்று இன்று வியாழக்கிழமை (12) கொழும்பிலுள்ள ஐக்கிய மக்கள் கூட்டணியின் தலைமையகத்தில் நடைபெற்றது.
+
+தேசிய மட்டத்தில் செயற்படும் முஸ்லிம் சிவில் சமூக அமைப்புக்களின் ஒன்றியமான தேசிய ஷூரா சபை ஜனாதிபதி வேட்பாளர்களை சந்தித்து மகஜரை கையளிக்கும் தொடரிலே இச்சந்திப்பு இடம்பெற்றது.
+
+இலங்கையின் அரசியல், பொருளாதார, சமூகப் பிரச்சினைகள் மற்றும் முஸ்லிம் சமூகத்தின் பிரச்சினைகள் தொடர்பில் ஏற்படுத்தப்பட வேண்டிய மாற்றங்கள் தொடர்பான இருபத்தேழு விடயங்கள் அடங்கிய மகஜர் ஒன்று ஷூரா சபையால் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிற்கு கையளிக்கப்பட்டது.
+
+கோவிட் ஜனாசா மற்றும் பலஸ்தீன் விவகாரங்கள் தொடர்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச பாராளுமன்றத்திலும் அதற்கு வெளியிலும் எடுத்த தீர்மானங்கள், நடவடிக்கைகளுக்காக முஸ்லிம் சமூகம் சார்பாக தேசிய ஷூரா சபையின் பிரதிநிதிகள் தமது நன்றியையும் பாராட்டுக்களையும் இதன்போது தெரிவித்துக் கொண்டனர்.
+
+...
+
+[Data](articles/83529b49.json)
+
+---
+
+### Sri Lanka sells 2028, 2029 bonds, 2034 bids rejected
+
+*2024-09-12 17:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-2028-2029-bonds-2034-bids-rejected-179451/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold raised 245 billion rupees from a bond auction and rejected all bids for 2034 bonds, data from the state debt office showed as rates spiked over the past few weeks amid political uncertainty.
+
+The debt office sold all offered 100 million rupees of Feb 15, 2028 bonds at a weighted average yield of 13.79 percent.
+
+Out of 150 billion rupees of 15 June 2029 bonds 145.96 billion were sold at a weighted average yield of 13.98 percent, rejecting other bids.
+
+No bids were accepted for 40 billion rupees of 15 September 2034 bonds.
+
+Sri Lanka’s presidential election is due on September 21, and investors are unwilling to buy longer term bonds.
+
+Political parties have promised tax cuts and extra spending, while a domestic bond restructure has also been criticized, leading to uncertainty in bond markets and unwillingness to hold longer tenors. (Colombo/Aug12/2024)
+
+◼️
+
+[Data](articles/f9d43cdc.json)
+
+---
+
+### Sri Lanka stocks close down, banks drive turnover
+
+*2024-09-12 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-banks-drive-turnover-179444/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.07 percent, or 7.56 points, at 10,567; while the more liquid S&P SL20 Index closed up 0.06 percent, or 1.78 points, at 2,925.
+
+Top turnover generators were Commercial Bank (down at 79.80), Hatton National Bank (down at 155.00), John Keells Holdings (down at 160.00), Dialog Axiata (up at x), and Sampath Bank.
+
+Foreign buying was seen in Softlogic Holdings (up at 7.20), East West Properties (down at 9.00), HNB, Sampath Bank (down at 68.00), Access Engineering (up at 20.50), and Commercial Bank.
+
+Foreign selling was seen in Dialog Axiata (down at 8.50), Bairaha Farms (down at 151.75), Tokyo Cement (Flat at 43.00), JKH, Cargills (Ceylon) (down at 370.25), and Royal Ceramics (down at 29.30). (Colombo/Sep12/2024)
+
+◼️
+
+[Data](articles/f804db73.json)
+
+---
+
+### உலகளாவிய தரத்தில் உயர்கல்வியை வழங்க புதிய கல்வி நிறுவனங்கள் ஸ்தாபிக்கப்படும் - ஜனாதிபதி
+
+*2024-09-12 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193522) · `ta`
+
+இளைஞர் யுவதிகளுக்கு உலகளாவிய தரத்திற்கு ஏற்ப உயர்கல்வி வாய்ப்புக்களைப் பெறும் சந்தர்ப்பத்தை வழங்கும் வகையில் அரச மற்றும் தனியார் துறையில் பல புதிய கல்வி நிறுவனங்கள் நாட்டில் ஸ்தாபிக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+கொழும்பு காலிமுகத்திடல் ஹோட்டலில் இன்று வியாழக்கிழமை (12) முற்பகல் இடம்பெற்ற “Times School of Higher Education” உயர் கல்விக்கான பாடசாலைத் திறப்பு விழா நிகழ்வில் கலந்து கொண்டு உரையாற்றும்போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+வரையறுக்கப்பட்ட விஜய பத்திரிகை நிறுவனத்துடன் இணைந்ததாக டைம்ஸ் உயர்கல்வி  நிறுவனம்  நிறுவப்பட்டு, மூன்று வெளிநாட்டுப் பல்கலைக்கழகங்கள் மற்றும் உயர்கல்வி நிறுவனங்களுடன் இணைந்து சர்வதேச தரத்திற்கு ஏற்ப கல்வி நடவடிக்கைகளை மேற்கொண்டு வருகிறது.
+
+மூன்று முக்கிய தகுதிப் பிரிவுகளின் கீழ் பலதரப்பட்ட தொழில் சார்ந்த கற்கை நெறிகள் இங்கு வழங்கப்படுகின்றன. அதன்படி சான்றிதழ், டிப்ளமோ, உயர் டிப்ளமோ கற்கைகள் மற்றும் டிஜிட்டல் அகடமி ஊடாக தொழில்முறை திறன் மேம்பாட்டுத் திட்டங்கள் மற்றும் பட்டப்பின் படிப்புகள் இங்கு நடத்தப்படும்.
+
+...
+
+[Data](articles/d3a7ae1b.json)
 
 ---
 
@@ -132,6 +248,42 @@ Former Health Minister Keheliya Rambukwella has been ordered to appear before th
 
 ---
 
+### ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழகம் தற்காலிகமாக மூடப்பட்டது
+
+*2024-09-12 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193509) · `ta`
+
+இரு குழுக்களுக்கிடையில் இடமபெற்ற மோதலை அடுத்து ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழகம் இன்று மாலை 6.00 மணி முதல் தற்காலிகமாக மூடப்படுவதாக பல்கலைக்கழக நிர்வாகம் அறிவித்துள்ளது.
+
+அதற்கமைய,  அனைத்து மாணவர்களும் இன்று வியாழக்கிழமை (12) மாலை 6.00 மணிக்குள் பல்கலைக்கழக வளாகத்தை விட்டு வெளியேறுமாறு அறிவுறுத்தப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/9ffc232f.json)
+
+---
+
+### எதிர்பார்ப்பை எகிற செய்திருக்கும் சசிகுமாரின் 'நந்தன்' திரைப்பட பாடல்
+
+*2024-09-12 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193510) · `ta`
+
+சசிகுமார் நடிப்பில் வெளியான 'அயோத்தி' மற்றும் 'கருடன்' என தொடர்ந்து இரண்டு திரைப்படங்களும்  ரசிகர்களால் பெரிதும் கொண்டாடப்பட்டது.
+
+இதனைத் தொடர்ந்து சசி குமாரின் நடிப்பில் ஹாட்ரிக் வெற்றியை பெரும் என்ற எதிர்பார்ப்புடன் வெளியாகும் திரைப்படம் 'நந்தன்'.
+
+ரசிகர்களிடையேயும், திரையுலக வணிகர்களிடையேயும் பெரும் எதிர்பார்ப்பை ஏற்படுத்தியிருக்கும் இந்த திரைப்படத்தில் இடம் பெற்ற ' எக்கி எக்கி பாக்குறேன்..' எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் இரா. சரவணன் இயக்கத்தில் உருவாகி இருக்கும் 'நந்தன்' எனும் திரைப்படத்தில் சசிகுமார், சுருதி பெரியசாமி, மாதேஷ், இயக்குநரும் , நடிகருமான பாலாஜி சக்திவேல், சமுத்திரக்கனி,  ஜி. எம். குமார், சித்தன் மோகன், சக்தி சரவணன், ஸ்டாலின் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஆர். பி. சரண் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜிப்ரான் வைபோதா இசையமைத்திருக்கிறார்.
+
+இந்த திரைப்படத்தை இரா என்டர்டெய்ன்மென்ட் எனும் நிறுவனம் சார்பில் இயக்குநர் இரா. சரவணன் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/b3c406a0.json)
+
+---
+
 ### Elpitiya Pradeshiya Sabha elections set up
 
 *2024-09-12 16:48:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-ප්‍රාදේශීය-සභා-මැතිවරණය-පැවැත්වීමේ-දිනය-නියම-කරයි/11-411918) · `si`
@@ -196,6 +348,24 @@ He stated that this opportunity will be available for the voters until the date 
 
 ---
 
+### போரின் கொடுமைகளை அழுத்தமாக விவரிக்கும் ஹிப் ஹாப் ஆதி தமிழாவின் 'கடைசி உலகப் போர்'
+
+*2024-09-12 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/193517) · `ta`
+
+இசையமைப்பாளரும், முன்னணி நட்சத்திர நடிகரும், இயக்குநருமான ஹிப் ஹாப் ஆதி தமிழா கதையின் நாயகனாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'கடைசி உலக போர்' எனும் திரைப்படம் , 'போரின் கொடுமைகளை மாறுபட்ட கதை களத்தில் நேர்த்தியாக விவரித்திருக்கிறது' என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+ஹிப் ஹாப் ஆதி தமிழா இயக்கத்தில் உருவாகி, எதிர்வரும் இருபதாம் திகதி முதல் உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் 'கடைசி உலக போர்' எனும் திரைப்படத்தில் ஹிப் ஹாப் ஆதி தமிழா, அனகா, நட்டி என்கிற நட்ராஜ், சிங்கம் புலி, அழகம் பெருமாள், தலைவாசல் விஜய், ஹரிஷ் உத்தமன், நடன இயக்குநர் கல்யாண், குமரவேல், இளங்கோ குமரன், ஷா ரா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+அர்ஜுன் ராஜா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹிப் ஹாப் ஆதி தமிழா இசையமைத்திருக்கிறார்.
+
+எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஹிப் ஹாப் தமிழா என்டர்டெயின்மென்ட் நிறுவனம் சார்பில் இயக்குநரும், இசையமைப்பாளரும், நடிகருமான ஹிப் ஹாப் ஆதி தமிழா தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/fd90e26f.json)
+
+---
+
 ### Namal vows to transform Sri Lanka into a developed nation within 10 years
 
 *2024-09-12 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101921/namal-vows-to-transform-sri-lanka-into-a-developed-nation-within-10-years-) · `en`
@@ -217,6 +387,24 @@ He further said that he has created a political force with a group of principled
 [Data](articles/9cdedeee.json)
 
 [Extended Data](ext_articles/9cdedeee.ext.json)
+
+---
+
+### மலையக சாசன பிரகடன நிகழ்வு
+
+*2024-09-12 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193515) · `ta`
+
+இந்நாட்டில் வாழும் சமீபத்திய இந்திய வம்சாவளி மலையக தமிழ் இலங்கையர் இனத்தின் எதிர்காலத்தை நிர்ணயிக்கும் முகமாக சஜித் பிரேமதாசவுக்கும் தமிழ் முற்போக்கு கூட்டணிக்கும் இடையிலான இவ்வருடம் ஆகஸ்ட் 6 ஆம் திகதி கொழும்பில் செய்து கொள்ளப்பட்ட புரிந்துணர்வு உடன்படிக்கையின் அடிப்படையிலான மலையக சாசன பிரகடன நிகழ்வு நுவரெலியாவில் தனியார் ஹோட்டலில் நடைபெற்றது.
+
+இந்நிகழ்வில் தமிழ் முற்போக்கு கூட்டணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான மனோ கணேசன், மற்றும் தொழிலாளர் தேசிய சங்கத்தின் தலைவர் பாராளுமன்ற உறுப்பினர் பழனி திகாம்பரம், மற்றும் மலையக மக்கள் முன்னணியின் தலைவர் மற்றும் பாராளுமன்ற உறுப்பினர் வேலுசாமி ராதாகிருஷ்ணன் ஆகியோரின் தலைமையில் நடைபெற்றது.
+
+இந்நிகழ்வில் தமிழ் முற்போக்கு கூட்டணியின் முக்கிய பிரதிநிதிகள்  தோட்ட தலைவர்கள் தலைவிமார்கள்  தேசிய சபை உறுப்பினர்கள் கலந்து கொண்டிருந்தனர்.
+
+இந்நிகழ்வில் பாராளுமன்ற உறுப்பினர் மனோ கணேசன் உரையாற்றுகையில் மலையக சாசனம் தொடர்பான விளக்கத்தையும் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவின் எதிர்கால திட்டங்கள் பற்றியும் மக்களுக்கு தெளிவுபடுத்தினார்.
+
+...
+
+[Data](articles/bb16c58b.json)
 
 ---
 
@@ -486,6 +674,26 @@ Having one of the documents is compulsory to present in voting.
 
 ---
 
+### Sri Lanka unit of MCB Bank rated ‘AA-(lka)’ by Fitch, outlook stable
+
+*2024-09-12 15:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-unit-of-mcb-bank-rated-aa-lka-by-fitch-outlook-stable-179408/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has assigned a first-time national long-term rating of ‘AA-(lka)’ for the Sri Lanka branch of MCB Bank. The outlook is stable.
+
+Fitch said MCBSL’s currency liquidity coverage ratio of 551% at end-1H24 is supported by the branch’s large cash balance and investments in Sri Lanka treasury securities, which make nearly 51% of its total assets.
+
+Fitch’s assessment also takes into consideration the parent’s credit profile, which is constrained by the Pakistan sovereign.
+
+Fitch Assigns MCB Bank – Sri Lanka Branch First-Time National Rating of ‘AA-(lka)’; Outlook Stable
+
+Fitch Ratings – Colombo – 12 Sep 2024: Fitch Ratings has assigned MCB Bank Limited – Sri Lanka Branch (MCBSL) a first-time National Long-Term Rating of ‘AA-(lka)’. The Outlook is Stable.
+
+...
+
+[Data](articles/003d7ef2.json)
+
+---
+
 ### Elpitiya Pradeshiya Sabha election on October 26
 
 *2024-09-12 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101918/elpitiya-pradeshiya-sabha-election-on-october-26) · `en`
@@ -559,6 +767,24 @@ If the official ballot papers were not received by Saturday, he was able to reac
 [Data](articles/53267e0b.json)
 
 [Extended Data](ext_articles/53267e0b.ext.json)
+
+---
+
+### Browns subsidiary increases stake in Sierra Cables Plc
+
+*2024-09-12 14:26:00* · [`economynextcom`](https://economynext.com/browns-subsidiary-increases-stake-in-sierra-cables-plc-179398/) · `en`
+
+ECONOMYNEXT – Iconic Trust (Private) Limited, a subsidiary of Browns Investments Plc, said it had purchased 6,654,899 shares of Sierra Cables Plc, increasing its stake in the company to 30.42 percent.
+
+With the increase in ownership in voting shares of Sierra Cables, Iconic Trust will make a mandatory offer to its remaining shareholders in terms of the Takeovers & Mergers Code in due course, the company said in a stock exchange filing.
+
+Sierra Cables voting shares were bought at 8 rupees each, for a gross consideration of 53,239, 192 rupees.
+
+Sierra Cables was trading flat at 9.80 rupees on Thursday (12). Browns Investments was up at 5.00 rupees. (Colombo/Sep12/2024)
+
+◼️
+
+[Data](articles/6e1863d8.json)
 
 ---
 
@@ -1208,6 +1434,22 @@ The second reading debate on the bill to amend the National Minimum Wage Act No.
 
 ---
 
+### AKD, Sajith lead but with declines; rise in support for Ranil; no one likely to poll 50 pct: IHP
+
+*2024-09-12 11:32:00* · [`economynextcom`](https://economynext.com/akd-sajith-lead-but-with-declines-rise-in-support-for-ranil-no-one-likely-to-poll-50-pct-ihp-179341/) · `en`
+
+ECONOMYNEXT — Presidential candidates Anura Kumara Dissanayake and Sajith Premadasa led in voting preferences for August 2024, though with small declines for both, with a rise in support observed for President Ranil Wickremesinghe from March through August, according to an independent study, which also found that no candidate is likely to poll close to 50 percent.
+
+The Institute for Health Policy (IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS) MRP provisional estimates of presidential
+
+election voting intent for August 2024 show Dissanayake and Premadasa led in voting preferences of all adults ahead of the September election.
+
+...
+
+[Data](articles/be5a3251.json)
+
+---
+
 ### Tourist arrivals close to 1400,000
 
 *2024-09-12 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200939) · `si`
@@ -1275,6 +1517,50 @@ The ward complex is to be completed within three months.
 [Data](articles/f6b81b3a.json)
 
 [Extended Data](ext_articles/f6b81b3a.ext.json)
+
+---
+
+### Sri Lanka bond yields rise ahead of auction; ADB approves $100mn loan
+
+*2024-09-12 10:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-rise-ahead-of-auction-adb-approves-100mn-loan-179338/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s bond yields edged up ahead of a 300 billion rupee auction, dealers said though the volume was broadly in line with a maturing volume.
+
+In the secondary market a bond maturing on 15.02.2028 was quoted at 13.30/50 percent, up from 13.15/40 percent on Wednesday.
+
+A bond maturing on 01.07.2028 was quoted at 13.70/85 up from 13.40/55 percent.
+
+Sri Lanka is offering 100 billion rupees of 15 February 2028 bonds, 150 billion rupees of 15 June 2019 bonds and 40 billion rupees of 15 September 2034 bonds.
+
+A September 2029 bond has been quoted at around 13.90/14.25 percent dealers said.
+
+Rupee bond yields have been moving up ahead of an election where there are fears of a change in fiscal policies.
+
+On Wednesday Sri Lanka’s Treasuries yields rose as authorities accepted more three month bills.
+
+Dealers say it may have been better to sell more one year bills at rates higher than 10 percent and reduce the acceptance from the bond auction.
+
+...
+
+[Data](articles/fe330758.json)
+
+---
+
+### ADB approves $100mn Sri Lanka budget support loan
+
+*2024-09-12 10:55:00* · [`economynextcom`](https://economynext.com/adb-approves-100mn-sri-lanka-budget-support-loan-179337/) · `en`
+
+ECONOMYNEXT – The Asian Development Bank (ADB) has approved a 100 million dollar policy-based loan, with an 800,000 dollar technical assistance grant, linked to water supply and sanitation sector reforms in Sri Lanka.
+
+The reforms seek to enhance the country’s resilience to climate change impacts and promote long-term sustainability, the global lender said.
+
+“Efficient delivery of safe and reliable water supply in Sri Lanka is limited by fragmented water resources management and exacerbated by climate change. This significantly affects the daily life of Sri Lankans—many of whom do not have access to piped water supply,” Senior Urban Development Specialist Pedro Almeida said.
+
+“This program will not only strengthen mechanisms to ensure adequate access to safe water but also address governance and sustainability challenges of the sector that will enable the participation of the private sector.”
+
+...
+
+[Data](articles/20f02ce8.json)
 
 ---
 
@@ -2121,281 +2407,5 @@ Over the past three years, JCT Ltd. has witnessed phenomenal growth, shattering 
 [Data](articles/c4fdaa3b.json)
 
 [Extended Data](ext_articles/c4fdaa3b.ext.json)
-
----
-
-### Tilvin slams rivals for fear tactics, claims AKD gaining ground
-
-*2024-09-12 06:01:45* · [`dailyftlk`](https://www.ft.lk/news/Tilvin-slams-rivals-for-fear-tactics-claims-AKD-gaining-ground/56-766666) · `en`
-
-JVP’s Tilvin Silva accuses opponents of avoiding policy discussions and instead spreading false stories to instil fear of NPP
-
-Urges law enforcement to investigate and question those making claims of potential violence, suggesting such claims could be a tactic to incite unrest
-
-Encourages public to seek information directly from NPP about policies and plans rather than relying on rival claims
-
-Says after years of meticulous and careful planning to secure power NPP will not let their election victory be tainted
-
-Assures NPP is committed to preventing post-election violence and working with all parties to rebuild SL
-
-...
-
-[Data](articles/c844cdde.json)
-
-[Extended Data](ext_articles/c844cdde.ext.json)
-
----
-
-### Keheliya granted bail after 7 long months
-
-*2024-09-12 05:59:04* · [`dailyftlk`](https://www.ft.lk/news/Keheliya-granted-bail-after-7-long-months/56-766665) · `en`
-
-All suspects except for one in connection to substandard human immunoglobulin scam are now out on bail
-
-Court imposes travel ban on Keheliya Rambukwella and orders for passport to be surrendered
-
-DSG Lakmini Girihagama requests Rambukwella to be transferred to NHSL or NIMH for treatment under judicial supervision
-
-Court denies request and grants bail considering his condition to allow him to seek treatment elsewhere
-
-Former Health Minister Keheliya Rambukwella and two others, who were remanded over the alleged import of substandard human immunoglobulin vials, were granted bail by the Maligakanda Magistrate’s Court yesterday. The suspects were released on a cash bail of Rs. 100,000 and two sureties of Rs. 5 million each. Additionally, the Magistrate imposed a travel ban on them and ordered Rambukwella to surrender his passport to the court.
-
-...
-
-[Data](articles/990c6a3a.json)
-
-[Extended Data](ext_articles/990c6a3a.ext.json)
-
----
-
-### Govt. invites private investors to develop key Colombo railway stations under PPP model
-
-*2024-09-12 05:54:44* · [`dailyftlk`](https://www.ft.lk/business/Govt-invites-private-investors-to-develop-key-Colombo-railway-stations-under-PPP-model/34-766664) · `en`
-
-The Government has called for expressions of interest (EOIs) from private investors to develop six major railway stations in and around Colombo, including Kollupitiya, Bambalapitiya, Wellawatte, Kompanyaweediya, Dehiwala and Mount Lavinia.
-
-“The move is part of a broader initiative to upgrade these stations through a public-private partnership (PPP) model,” Cabinet Spokesman and Transport Minister Bandula Gunawardana said at the weekly post-Cabinet media briefing on Tuesday.
-
-He said under the PPP model, property belonging to the Railways Department will be leased on a long-term basis to private investors, who will be responsible for transforming the stations into modern “station plazas.”
-
-These plazas are expected to enhance the infrastructure and amenities at the stations while generating revenue for the Government.
-
-...
-
-[Data](articles/062f6e4a.json)
-
-[Extended Data](ext_articles/062f6e4a.ext.json)
-
----
-
-### Rise in minimum wage in private sector: Govt.
-
-*2024-09-12 05:52:51* · [`dailyftlk`](https://www.ft.lk/business/Rise-in-minimum-wage-in-private-sector-Govt/34-766663) · `en`
-
-Minimum limit payable in Employees’ Provident Funds, Trust Funds, and gratuity has also been increased
-
-Speaker Mahinda Yapa Abeywardena has signed the bill passed in Parliament, making the minimum basic salary for private sector employees Rs. 21,000.
-
-Accordingly, the Ministry of Labour and Foreign Employment stated in a press release that this should be considered the minimum wage when calculating payments for the Employees’ Provident Fund, Employee Trust Fund, and gratuity.
-
-From September this year, private sector employers will pay their employees a national minimum wage of Rs. 17,500 along with an additional minimum wage of Rs. 3,500 provided by the Budget Relief Acts No. 36 of 2005 and No. 4 of 2016, totalling a minimum wage of Rs. 21,000.
-
-According to the press release issued by the Ministry, the new minimum wage should be applied to payments for the Employees’ Provident Fund, Employee Trust Fund, and gratuity.
-
-...
-
-[Data](articles/ca6e8e58.json)
-
-[Extended Data](ext_articles/ca6e8e58.ext.json)
-
----
-
-### Sri Lanka — Japan Business Council holds 45th AGM; gets Japanese Foreign Minister’s Commendation Award
-
-*2024-09-12 05:41:11* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Japan-Business-Council-holds-45th-AGM-gets-Japanese-Foreign-Minister-sCommendationAward/34-766660) · `en`
-
-The Sri Lanka – Japan Business Council (SLJBC) of the Ceylon Chamber of Commerce on Monday held its 45th AGM where for the first time it also received the Japanese Foreign Minister's Commendation Award.
-
-It was presented by Japanese Ambassador and Patron of the Council Hideaki Mizukoshi who was also the Chief Guest.
-
-This prestigious award was given in recognition of the Council’s unwavering support in strengthening bilateral trade, tourism, and investment ties between Sri Lanka and Japan.
-
-Andrew The Travel Company Ltd. Managing Director Mahen Kariyawasan was re-elected President of the SLJBC for the year 2024/25. Vice Presidents elected were Hayleys Advantis Ltd. Managing Director Ruwan Waidyaratne, Hirohama Ceylon Ltd. Director Athulla R.F. Edirisinghe, Prudential Shipping Lines Ltd. Managing Director Rohitha Mendis, ASOL Traders Proprietor Chanaka Kariyapperuma, and Amano Lanka Engineering Ltd. Managing Director Sarath De Costa.
-
-...
-
-[Data](articles/6c341a3c.json)
-
-[Extended Data](ext_articles/6c341a3c.ext.json)
-
----
-
-### Western Automobile Assembly kicks off plant in Kuliyapitiya
-
-*2024-09-12 05:35:32* · [`dailyftlk`](https://www.ft.lk/business/Western-Automobile-Assembly-kicks-off-plant-in-Kuliyapitiya/34-766659) · `en`
-
-From left: Western Automobile Assembly Sales and Marketing Director Reeza Rauf, Project Director Sabaratnam Rajendran, Director Gerard Fernando, Production Director Albert Reichl and Director Mikhail Selvanayagam
-
-Western Automobile Assembly Ltd., (WAA) on Tuesday announced the opening of its state of the art semi-knocked down (SKD) assembly plant in Kuliyapitiya.
-
-It said the move marks a significant advancement in local vehicle assembly, driving economic development in Sri Lanka while equipping the nation’s youth with the skills and knowledge essential for sustainable growth and long-term prosperity.
-
-The WAA SKD assembly plant is a company operating under the Board of Investment (BOI). It has been designed by global automotive experts and outfitted with premium international machinery.
-
-Its efficient assembly process is based on lean manufacturing principles and a flexible and transparent set up capable of handling the requirements of multiple brands.
-
-...
-
-[Data](articles/d9cd1224.json)
-
-[Extended Data](ext_articles/d9cd1224.ext.json)
-
----
-
-### Economic crisis in Sri Lanka: Policy challenges for the new Government – Part 3
-
-*2024-09-12 04:32:35* · [`dailyftlk`](https://www.ft.lk/opinion/Economic-crisis-in-Sri-Lanka-Policy-challenges-for-the-new-Government-Part-3/14-766641) · `en`
-
-While the Government has implemented immediate poverty alleviation schemes, inclusive growth-promoting policies should be adopted as part of the long-term poverty reduction strategy for narrowing inequalities through sustained economic growth, which could generate employment and income opportunities
-
-...
-
-[Data](articles/cb639a11.json)
-
-[Extended Data](ext_articles/cb639a11.ext.json)
-
----
-
-### Congruence between compensation philosophy and generic strategy is key to staying competitive
-
-*2024-09-12 04:13:14* · [`dailyftlk`](https://www.ft.lk/columns/Congruence-between-compensation-philosophy-and-generic-strategy-is-key-to-staying-competitive/4-766640) · `en`
-
-From poor morale to low employee retention rates, the negative ripples of underpaid employees can be widespread and difficult to reverse
-
-Notwithstanding the greatness of the organisation’s culture or the exciting variety in its benefits package, the probability of an employee performing per expectations at remuneration below market is extremely low. Performance-based compensation which pays for success is a way of avoiding increases in fixed pay which arise from factors which are unrelated to success. A compensation philosophy and strategy which is in sync with the generic operating strategy are musts. If a company is unable to match the market, it must exit the business. Simple as that
-
-...
-
-[Data](articles/730a6961.json)
-
-[Extended Data](ext_articles/730a6961.ext.json)
-
----
-
-### His Glorious Honourable Excellency (Dr X 5) Chaminda Pusswedilla the 1st
-
-*2024-09-12 03:49:08* · [`dailyftlk`](https://www.ft.lk/opinion/His-Glorious-Honourable-Excellency-Dr-X-5-Chaminda-Pusswedilla-the-1st/14-766639) · `en`
-
-Friend of the People, Son of the Village, Servant of the Nation, Father of Democracy, Brother of Freedom Cousin of Human Rights, Close Relation of Media Freedom
-
-Further to my previyus letter, I am olso like to reminding you that even from across the big pond, in the USA, their two main candidates, my close frend JoeBidey’s number two, my closer frend Kamalakka and of corse my closer personal ackwaintance, DonaldTrumper, have been colling and asking addice. So, I am including the two of them olso from time to time in my addice list.
-
-Let me list the three, I mean four main candidates in Arsikland:
-
-...
-
-[Data](articles/02f27fce.json)
-
-[Extended Data](ext_articles/02f27fce.ext.json)
-
----
-
-### Mixed bag for candidates on voting intent poll
-
-*2024-09-12 03:45:46* · [`dailyftlk`](https://www.ft.lk/opinion/Mixed-bag-for-candidates-on-voting-intent-poll/14-766638) · `en`
-
-AK Dissanayake and Sajith Premadasa led in August but continuing shift towards President Ranil Wickremesinghe
-
-IHP’s Sri Lanka Opinion Tracker Survey (SLOTS) MRP provisional estimates of Presidential Election voting intent for August 2024 show NPP/JVP leader AK Dissanayake and SJB leader Sajith Premadasa led in voting preferences of all adults ahead of the September Presidential Election.
-
-None of the four major party presidential candidates had support of a majority of the adult voters. NPP/JVP leader AK Dissanayake led with 36% of all adults, followed by SJB leader Sajith Premadasa with 32%, Pres. Ranil Wickremesinghe with 28% and Namal Rajapaksa with 3%. Estimates are associated with margins of error of 3–7%.
-
-Support for Ranil Wickremesinghe has been rising from March through August 2024, while there have been small declines in support for AK Dissanayake, Sajith Premadasa, and SLPP during the same period.
-
-...
-
-[Data](articles/248e93e4.json)
-
-[Extended Data](ext_articles/248e93e4.ext.json)
-
----
-
-### Anura against post-1977 economy, dodgy on devolution, can’t resolve crisis
-
-*2024-09-12 03:42:34* · [`dailyftlk`](https://www.ft.lk/columns/Anura-against-post-1977-economy-dodgy-on-devolution-can-t-resolve-crisis/4-766636) · `en`
-
-While AKD and the JVP-NPP have changed, they haven’t metamorphosed into enlightened economic modernisers. A key marker in a brand-new document confirms that. Without a rectification on this fundamental issue contained in what the NPP designates as a ‘Framework’, it would be very dangerous to the economy to vote for Anura as President this month. That key issue is the attitude to the economic transformation of 1977, i.e., Sri Lanka’s adoption of an Open Economy --before Thatcher and Reagan did
-
-“…This trend was exacerbated after 1977 due to unplanned and unwise economic policies & corruption…”
-
-– Framework for ECONOMIC RENAISSANCE, Business Forum 2024,  National People’s Power-NPP, p 03.
-
-...
-
-[Data](articles/1c7f2d98.json)
-
-[Extended Data](ext_articles/1c7f2d98.ext.json)
-
----
-
-### Ranil or Sajith? Who will get  the  Bulk of Tamil Votes  in the 2024 Presidential  Poll?
-
-*2024-09-12 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84701) · `en`
-
-The Ilankai Thamil Arasuk Katchi (ITAK) regarded as the  premier political party of the Sri Lankan Tamils  has declare its support  for Samagi Jana Sandhanaya (SJS) leader  Sajith Premadasa in  the Presidential2 election scheduled on 21 September 2024.  The   “Mathiya Seyal Kuzhu”(Central Working Committee) of the party met on September 1st and resolved  to support  the leader of the opposition at the presidential poll. The ITAK known in Englih as the Federal Party(FP)  also decided to oppose the Common Tamil Presidential Candidate Packiyaselvam Ariyanethiran and called upon him to withdraw his candidacy. Ex-MP ariyanethiran is an ITAK office-bearer.
-
-...
-
-[Data](articles/4cfa965c.json)
-
----
-
-### 2024 Presidential election is  “still open” but Incumbent President Ranil Wickremesinghe is  confident  of victory on the strength of his proven prowess , dynamic plan and implementation focus to deliver higher socio-economic growth.
-
-*2024-09-12 03:30:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84734) · `en`
-
-With less than 10 days to go, incumbent Ranil Wickremesinghe yesterday described the decisive Presidential election as “still open” but expressed confidence of victory on the strength of his proven prowess and the dynamic plan and implementation focus to deliver higher socio-economic growth.
-
-Despite his busy schedule in the campaign trail, in an exclusive interview with the Daily FT – SC Securities joint initiative —Market Pulse, Wickremesinghe reiterated his commitment to driving economic stability, growth and prosperity for people in the next five years.
-
-He emphasised that his manifesto is the most promising and effective, with the backing of several key legislations to implement the reform agenda aimed at ensuring the next wave of economic growth.
-
-...
-
-[Data](articles/e30f9ce2.json)
-
----
-
-### தமிழக மீனவர்கள் படகு கவிழ்ந்தது
-
-*2024-09-12 01:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-படகு-கவிழ்ந்தது/175-343649) · `ta`
-
-தமிழக மீனவர்களின் படகு மீது இலங்கை கடற்படையினர் தங்களின் கப்பலை விட்டு மோதி படகை கவிழ்த்ததாக பாதிக்கப்பட்ட மீனவர்கள் குற்றம்சாட்டியுள்ளனர்.
-
-நாகை மாவட்டம் செருதூர் மீனவ கிராமத்தைச் சேர்ந்த தர்மன் என்பவருக்குச் சொந்தமான ஃபைபர் படகில் கடந்த 9 திகதியன்று அதே பகுதியைச் சேர்ந்த சக்திவேல், தேவராஜ், கார்த்திகேயன், சதீஷ் ஆகிய 4 மீனவர்கள் கடலுக்கு மீன்பிடிக்க சென்றனர்.
-
-இந்த நிலையில், நேற்று முன்தினம் மாலை அவர்கள் கோடியக்கரைக்கு தென்கிழக்கே மீன் பிடித்துக் கொண்டிருந்தனர். அப்போது அங்கு வந்த இலங்கை கடற்படையினர் தமிழக மீனவர்களின் படகின் மீது கடற்படை கப்பலைக் கொண்டு மோதினர் என கூறப்படுகிறது.
-
-கப்பல் மோதியதில் தமிழக மீனவர்களின் ஃபைபர் படகு கவிழ்ந்து விபத்துக்குள்ளாகியுள்ளது. இதில் கடலில் காயங்களுடன் வலைகளில் சிக்கி மீனவர்கள் தத்தளித்துள்ளனர். இதைத்தொடர்ந்து மீனவர்களை தங்களது கப்பலில் ஏற்றிய இலங்கை கடற்படையினர், அவர்களுக்கு முதலுதவி சிகிச்சை எதுவும் செய்யாமல் சுமார் 6 மணி நேரமாக அவர்களை மிரட்டி விசாரணை நடத்தியுள்ளனர்.
-
-...
-
-[Data](articles/0cec7329.json)
-
----
-
-### அரச மருத்துவ அதிகாரிகள் சங்கம் புறக்கணிப்பு
-
-*2024-09-12 01:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-மருத்துவ-அதிகாரிகள்-சங்கம்-புறக்கணிப்பு/175-343648) · `ta`
-
-எதிர்வரும் 18 ஆம் திகதி நாடளாவிய ரீதியாக பணிப்புறக்கணிப்பை முன்னெடுக்க அரச மருத்துவ அதிகாரிகள் சங்கம் தீர்மானித்துள்ளது.
-
-பதுளை பொது வைத்தியசாலையில் சேவையாற்றும் தமது சங்கத்தின் பிரதி செயலாளர் பாலித்த ராஜபக்ஷவிற்கு எதிராக முன்னெடுக்கப்படும் ஒழுக்காற்று நடவடிக்கையை நிறுத்தக் கோரி, அரச மருத்துவ அதிகாரிகள் சங்கத்தினர் இந்த பணிப்புறக்கணிப்பை முன்னெடுக்கத் தீர்மானித்துள்ளனர்.
-
-நேற்று முன்தினம் கூடிய அரச மருத்துவ அதிகாரிகள் சங்க கூட்டத்தின் போது இந்தத்தீர்மானம் எட்டப்பட்டுள்ளதாக அந்த சங்கத்தின் செயலாளர் வைத்தியர் பிரபாத் சுகதபால தெரிவித்துள்ளார். (a)
-
-◼️
-
-[Data](articles/8def5a02.json)
 
 ---

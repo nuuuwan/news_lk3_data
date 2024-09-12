@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 16:37:51**
+As of **2024-09-12 16:55:56**
 
 ## Newspaper Stats
 
-*Scraped **43,551** Articles*
+*Scraped **43,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 375
 bbccomsinhala | 422
 colombotelegraphcom | 427
 islandlk | 2,542
-economynextcom | 2,647
+economynextcom | 2,649
 dailyftlk | 2,899
 adalk | 4,031
 dailymirrorlk | 4,733
 adaderanalk | 5,110
-tamilmirrorlk | 5,668
+tamilmirrorlk | 5,669
 virakesarilk | 6,897
 adaderanasinhalalk | 7,437
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,437
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,259 (99.3%) of 43,551 articles have been extended.
+43,268 (99.3%) of 43,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### Sri Jayawardenapura University closed
+
+*2024-09-12 16:32:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீ-ஜயவர்தனபுர-பல்கலைக்கழகம்-மூடப்பட்டது/175-343675) · `ta`
+
+Sri Jayawardenapura University closes due to conflict. Students must leave campus by 6:00 PM on Thursday, 12th. Temporary closure announced.
+
+🟩
+
+Due to a clash between the two groups, it has been decided to temporarily close the Sri Jayawardenapura University from 6.00 pm on Thursday (12).
+
+Accordingly, the administration has announced that all students will leave the university campus at 6.00 pm today.
+
+◼️
+
+[Data](articles/8e95705e.json)
+
+[Extended Data](ext_articles/8e95705e.ext.json)
+
+---
 
 ### Vadivelu - Sundar C Alliance
 
@@ -798,23 +818,29 @@ The institute is to be implemented to implement the certificate courses, Diploma
 
 ---
 
-### ஜனாதிபதி தேர்தல் ; தவறான தகவல்கள் பகிரப்படுவதை தடுக்கும்  டிக்டொக்
+### Presidential election;Dictok that prevents sharing of false information
 
 *2024-09-12 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193477) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தல் தொடர்பில் தவறான தகவல்கள் பகிரப்படுவதை தடுக்க டிக்டொக் தயாராகி வருகிறது.
+Dictok prepares for presidential election by preventing false information sharing. Newschecker joins to verify content. Sri Lanka Election Center launched in English, Sinhala, Tamil. Removes violating information, guides reliable sources. Collaborates with organizations for transparent electoral system.
 
-அந்தவகையில், தேர்தல் தொடர்பில் பகிரப்படும் உள்ளடக்கங்களை சரிபார்க்க IFCN-அங்கீகாரம் பெற்ற நியூஸ்செக்கர் (Newschecker) தகவல் சரிப்பார்த்தல் அமைப்புடன் டிக்டொக் கைக்கோர்த்துள்ளது.
+🟩
 
-அத்தோடு, டிக்டொக் இலங்கை தேர்தல் மையத்தையும் அறிமுகப்படுத்தியுள்ளது. இந்த தேர்தல் மையம்  ஆங்கிலம், சிங்களம் மற்றும் தமிழ் மொழிகளில் தனது சேவைவை வழங்குகிறது.
+Dictok is preparing to prevent the sharing of false information about the upcoming presidential election.
 
-இந்நிலையில், டிக்டொக்கின் உண்மை சரிப்பார்த்தல் வழிகாட்டுதல்களை மீறும்  தகவல்களை அகற்றுதல், பகிரப்படுவதை கட்டுப்படுத்தல் மற்றும்  நம்பகமான ஆதாரங்களுக்கு தேடல்களுக்கு வழிகாட்டல் ஆகியவற்றை செயற்படுத்தும்.
+In that respect, the IFCN-accredited Newschecker information has joined the Dictok organization to verify the contents shared in the election.
 
-வெளிப்படைத்தன்மை மற்றும் நேர்மையான தேர்தல் முறையை பேணுவதற்கு பாதுகாப்பான அமைப்புகள் மற்றும் சிவில் சமூக அமைப்புகளுடன் இந்த தளம் தொடர்ந்து செயற்படும்.
+In addition, Dictok has also introduced the Sri Lanka Election Center. This election center provides its service in English, Sinhala and Tamil.
+
+In this case, the real verbal verbal verification of the dictok will implement the removal of information that violates the guidelines, control the sharing, and guide the search for reliable resources.
+
+The site will continue to work with secure organizations and civil society organizations to maintain transparency and honest electoral system.
 
 ◼️
 
 [Data](articles/08aa3d10.json)
+
+[Extended Data](ext_articles/08aa3d10.ext.json)
 
 ---
 
@@ -870,23 +896,33 @@ The suspects are 30/44 years old and the two suspects will be between 24/29, pol
 
 ---
 
-### மலேசியாவின் சிறுவர் பராமரிப்பு நிலையங்களில்  மோசமான துஸ்பிரயோகங்கள் - 402 சிறுவர்கள் மீட்பு
+### Poor abuse at Malaysia's Child Care Centers - 402 boys rescue
 
 *2024-09-12 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193478) · `ta`
 
-மலேசியாவின் 20 சிறுவர் பராமரிப்பு நிலையங்களில் உடல்ரீதியாக பாலியல்ரீதியாக துஸ்பிரயோகத்திற்கு உட்படுத்தப்பட்டனர் என கருதப்படும் 402 சிறுவர்களையும் பதின்மவயதினரையும் பொலிஸார் மீட்டுள்ளனர்.
+Malaysia: Police rescue 402 children from abuse at 20 childcare centers. Ages 1-17, victims of sexual abuse. Suspects aged 17-64. Children punished with hot objects, denied medical care. Temporarily housed in Kuala Lumpur police center.
 
-ஒரு வயது முதல் 17 வயதானவர்களை மீட்டுள்ளோம் இவர்கள் பல்வேறுவிதமான துஸ்பிரயோகங்களை எதிர்கொண்டுள்ளனர் என பொலிஸ் அதிகாரியொருவர் தெரிவித்துள்ளார்.
+🟩
 
-சிறுவர் பராமரிப்பு நிலையங்கள் பிரபலமான இஸ்லாமிய அமைப்புடன் தொடர்புடையவை என்பது குறிப்பிடத்தக்கது எனினும் அந்த அமைப்பு தனக்கும் இதற்கும் தொடர்பில்லை என தெரிவித்துள்ளது.
+Police have recovered 402 children and teenage girls, who are allegedly sexually abused at 20 children's care centers in Malaysia.
 
-நெகேரிசெம்பிலான் மாநிலத்தில் சிறுவர் பராமரிப்பு நிலையங்களில் சிறுவர் துஸ்பிரயோகம் இடம்பெறுவதாக வெளியான தகவல்களை தொடர்ந்து செலெங்கூர் நெகெரி செம்பிலானில் உள்ள 20க்கும் மேற்பட்ட சிறுவர் பராமரிப்பு நிலையங்களில் பொலிஸார் சோதனை நடவடிக்களை முன்னெடுத்திருந்தனர்.
+We have rescued the ages of one to 17, and they are facing a variety of abuse, a police officer said.
 
-17 முதல் 64 வயதான சந்தேகநபர்கள் சிறுவர்களை பல்வேறுவிதமான துஸ்பிரயோகங்களிற்கு உட்படுத்தினார்கள் என பொலிஸ் அதிகாரியொருவர் தெரிவித்துள்ளார்.
+It is noteworthy that the children's care centers are associated with the popular Islamic organization, although the organization has nothing to do with itself.
 
-...
+Following reports of child abuse at Child care centers in the state of Neverrisembilan, police have carried out raids at more than 20 children's care centers in Chengur Neveri Sembila.
+
+The 17 to 64 -year -old suspects have been subjected to various types of abuse, a police officer said.
+
+He said the children were "punished using hot metal products" and that the sick people were not allowed to seek medical treatment until their condition worse.
+
+The children will be temporarily housed at a police center in Kuala Lumpur, the capital.
+
+◼️
 
 [Data](articles/7e1a519d.json)
+
+[Extended Data](ext_articles/7e1a519d.ext.json)
 
 ---
 
@@ -980,19 +1016,25 @@ The total number of tourists arrived in Sri Lanka last year was 1,487,303.
 
 ---
 
-### வலிந்து காணாமலாக்கப்பட்டோரின் பிரச்சினைக்கு எதிர்வரும் 3 வருடங்களுக்குள் நிரந்தரத் தீர்வு : ஜனாதிபதி
+### Permanent solution to the problem of missing persons within the next 3 years: President
 
 *2024-09-12 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193473) · `ta`
 
-வலிந்து காணாமலாக்கப்பட்டோரின் பிரச்சினைக்கு எதிர்வரும் 3 வருடங்களுக்குள் நிரந்தரத் தீர்வு வழங்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe promises permanent solution to missing persons issue within 3 years, including responsibility and funding allocation.
 
-இன்றையதினம் ஊடகவியலாளர்களை கொழும்பில் சந்தித்து அவர்களின் கேள்விகளுக்கு பதிலளிக்கையிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
 
-குறிப்பாக வலிந்து காணாமல் ஆக்கப்பட்டவர்கள் தொடர்பில் பொறுப்புக்கூறுதல், நிதி வழங்குதல் போன்ற செயற்பாடுகளை முன்னெடுக்கவுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க இதன் போது மேலும் தெரிவித்தார்.
+President Ranil Wickremesinghe has said that a permanent solution will be given within the next three years to the issue of the missing persons.
+
+President Ranil Wickremesinghe said this in response to their questions in Colombo today.
+
+President Ranil Wickremesinghe added that it will carry out responsibility and funding for the missing persons in particular.
 
 ◼️
 
 [Data](articles/4095e0ed.json)
+
+[Extended Data](ext_articles/4095e0ed.ext.json)
 
 ---
 
@@ -1278,21 +1320,33 @@ The company has been recruited by Western Automobile Eshemebar Eshemebar Lirm, i
 
 ---
 
-### ஜே.வி.பி. திசைகாட்டியின் பின் மறைந்தாலும் மணியையும் சிவப்பு நிறத்தையும் கைவிடவில்லை - திலும் அமுனுகம
+### JVP. After the passage of the compass, the bell and the red did not abandon
 
 *2024-09-12 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/193454) · `ta`
 
-வெளிநாடுகளுக்கு தப்பிச் செல்வதற்காக அரசாங்கத்தின் பதிவு செய்யப்பட்ட குற்றவாளிகள் பாஸ்போர்ட் போட்டோவை மாற்றி வேறு பெயரில் விசா பெற்று செல்வதுபோன்று  இன்று இதே திட்டத்தை மக்கள் விடுதலை முன்னணி (ஜே .வி.பி ) திசைகாட்டி என தனது முன்னைய முகத்தை மறைத்து, அவ்வாறான வேலைத்திட்டத்தை பின்பற்றி மக்களிடம் வலம் வருவதாக முதலீட்டு ஊக்குவிப்பு இராஜாங்க அமைச்சர் திலும் அமுனுகம தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-ஜே.வி.பி தனது நிறத்தையும் அடையாளத்தையும் மாற்றிக் கொண்டு திசைகாட்டியில் இருந்து மறைந்தாலும் அவர்கள் மணியையும் சிவப்பு நிறத்தையும் கைவிடவில்லை என்றும் அவர் கூறினார்.
 
-சுயேட்சை வேட்பாளர் ரணில் விக்கிரமசிங்கவை ஆதரித்து கண்டி ஈ. எல். சேனாநாயக்க நூலக கேட்போர் கூடத்தில் செவ்வாய்க்கிழமை (10) நடைபெற்ற கூட்டத்தில் இவ்வாறு தெரிவித்தார்.
 
-அரசியல் மேடைகளில் ரணில் விக்கிரமசிங்கவுக்கு முதுகெலும்பு இல்லை என்று நாம் எப்போதும் கூறி வருகிறோம். நாடு ஆபத்தில் இருக்கும் போது ரணில் விக்கிரமசிங்க நாட்டைப் பொறுப்பேற்காமல் இருந்திருந்தால் இன்று பங்களாதேஷ் எதிர்கொண்டிருக்கும் கதியை எமது நாடும் சந்தித்திருக்கும்.
+JVP claims government replacing passports with fake photos. Criticizes Ranil Wickremesinghe's leadership during crises. Accuses him of abandoning responsibilities. Blames economic issues on Gotabhaya Rajapaksa's regime. Claims JVP still active despite changes. Urges voters to choose wisely.
+
+🟩
+
+The Minister of Investment Promotion Amunugama has said that the government's registered criminals will replace the passport photo and get a visa in a different name, as the People's Liberation Front (JVP) is hiding its previous face as a compass.
+
+He said that the JVP changed its color and identity and disappeared from the compass, but they did not give up the bell and the red.
+
+Kandy is supported by Independent candidate Ranil Wickremesinghe. L. He said this at a meeting held at the Senanayake Library Auditorium on Tuesday (10).
+
+We have always been saying that Ranil Wickremesinghe has no backbone on political platforms. If Ranil Wickremesinghe had not taken over the country when the country was in danger, our country would have met the fate of Bangladesh today.
+
+At that time, when the country was in danger, we knew whether or not the backbone was when the leader was in danger.
 
 ...
 
 [Data](articles/3fd0ff31.json)
+
+[Extended Data](ext_articles/3fd0ff31.ext.json)
 
 ---
 
@@ -1568,73 +1622,101 @@ It was not possible to increase the salary again in 2023 as Sri Lanka had to kee
 
 ---
 
-### ”செப்டம்பர் 18க்கு பின் வன்முறைகள் வெடிக்கலாம்”
+### “Violence may explode after September 18”
 
 *2024-09-12 07:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டம்பர்-18க்கு-பின்-வன்முறைகள்-வெடிக்கலாம்/175-343653) · `ta`
 
-செப்டம்பர் 18-ம் திகதி பிரச்சார நடவடிக்கைகளுக்கு காலக்கெடு முடிவடைந்த பிறகு, எதிர்க்கட்சியினர் தங்கள் சதிகாரர்களை தேசிய மக்கள் சக்தியினராக பாவித்து வன்முறை சம்பவங்களை உருவாக்கலாம் என்பதில் சந்தேகம் இருப்பதாக தேசிய மக்கள் சக்தி (NPP) தெரிவித்துள்ளது.
+"National People's Power warns of potential violence after election campaign deadline. Opposition denies claims, accuses NPP of plotting. Security forces urged to investigate threats."
 
-”நாட்டில் வன்முறைச் சம்பவங்களை என்.பி.பி உருவாக்கும் என எதிர்க்கட்சி அரசியல்வாதிகள் அரசியல் மேடைகளில் தொடர்ந்து கூறிவருகின்றனர். .இந்த அரசியல் வாதிகள் தாமே வன்முறைகளை வெடிக்கச் செய்துவிட்டு அவற்றை தேசிய மக்கள் சக்தியே செய்ததாக கூறுவார்கள் என்ற சந்தேகம் எமக்கு உள்ளது” என ஜே.வி.பி.யின் பொதுச் செயலாளர் டில்வின் சில்வா நேற்று செய்தியாளர் சந்திப்பில் கூறினார்.
+🟩
 
-இவ்வாறான வன்முறைச் சம்பவங்கள் இடம்பெற்றதாகக் கூறுபவர்களிடம் இருந்து வாக்குமூலங்களைப் பதிவு செய்து, அது எவ்வாறு அவர்களுக்குத் தெரிய வந்தது என்பதைக் கண்டறிந்து, குற்றவாளிகளுக்கு எதிராக நடவடிக்கை எடுக்குமாறு பாதுகாப்புப் படையினரிடம் சில்வா கோரிக்கை விடுத்துள்ளார்.
+The National People's Power (NPP) said that after the deadline for the campaign campaign on September 18, the opposition could use their conspirators as national power and create violent incidents.
 
-...
+“Opposition politicians continue to claim that the NPP will create violent incidents in the country. "We are skeptical that these politicians will explode and claim that they have done the national power," said JVP general secretary Dilvin Silva at a press conference yesterday.
+
+Silva has requested the security forces to take action against the culprits, finding out how it was known to them, from those who claim that such incidents.
+
+“Election campaigns cannot be carried out after September 18. Media companies will face difficulties to talk about political parties during that period.
+
+We are doubtful whether these politicians will use their conspirators as NPP and create violent incidents. This is not a big issue for those who created Easter attack to bring Gotabhaya Rajapaksa to power. ”
+
+◼️
 
 [Data](articles/d521f94c.json)
 
+[Extended Data](ext_articles/d521f94c.ext.json)
+
 ---
 
-### අපනයනකරුවන්ට ලැබුණ සහනය
+### Relief received by exporters
 
 *2024-09-12 07:45:05* · [`adalk`](https://www.ada.lk/breaking_news/අපනයනකරුවන්ට-ලැබුණ-සහනය/11-411906) · `si`
 
-භාණ්ඩ අපනයනකරුවන්ට තම අපනයන ඉපයීම් ශ්‍රී ලංකා රුපියල්වලට පරිවර්තනය කිරීම සඳහා වූ කාල සීමාව ලිහිල් කිරීමට ශ්‍රී ලංකා මහ බැංකුව කටයුතු කර තිබේ.
+Central Bank of Sri Lanka extends deadline for converting export earnings to local currency, benefiting exporters who previously faced difficulties in timely conversion.
 
-සාර්ව ආර්ික වර්ධනයන්, විශශේෂශයන්ම දේශීය විදේශ විනිමය වෙළඳපොළෙහි තත්ත්වයන්හි වර්ධනයන් සැලකිල්ලට ගෙන මෙම අපනයනකරුවන්ට තම අපනයන ආදායම ශ්‍රී ලංකා රුපියල්වලට පරිවර්තනය කිරීමට අදාළ කාලය මෙසේ ලිහිල් කර තිබේ.
+🟩
 
-මේ අනුව භාණ්ඩ අපනයනකරුවන්ට තම අපනයන ඉපයීම්, අවසරලත් ගෙවීම්ම් සඳහා භාවිතයෙන් අනතුරුව ශේෂයන් ශ්‍රී ලංකා රුපියල් වලට අනිවාර්යයෙන් පරිවර්නය කිරීම සඳහා අදාළ වන කාලසීමාව, අපනයන ආදායම ලැබුණු දින සිට, ලැබීම් ලද මාසය ඇතුළුව ලිත් මාස තුන (03)ක් අවසන් වීමෙන් පසු මාසයේ දහවන (10 වැනි) දිනය දක්වා දීර්ඝ කර ඇත.
+The Central Bank of Sri Lanka has taken steps to relax the period of translating goods to the export earnings to Sri Lankan Rupees.
 
-කලින් එම කාලසිමාව අපනයන ආදායම ලැබුණු දිනට පසුව එළඹෙන මාසශේ හත්වන (07 වැනි) දින අදාල ශේෂයන් ශ්‍රී ලංකා රුපියල්වලට අනිවාර්යයෙන් පරිවර්තනය කළ යුතුව තිබුණි.
+The exporters have been losing the exporters to translate their export revenues to Sri Lanka Rupees.
+
+Thus the exporters of goods subscribed to Sri Lanka Rupposes, from the date of receipt of export earnings, after the end of the export earnings, the month after the end of the export earnings (03), the month afterSuch like the date has been extended.
+
+After the previous day of export earnings, the seasons should have been translated into Sri Lankan rupees on the 7th month (07th).
 
 ◼️
 
 [Data](articles/e25ce615.json)
 
+[Extended Data](ext_articles/e25ce615.ext.json)
+
 ---
 
-### ’எமது முடிவில் எந்த மாற்றமும் இல்லை’
+### There is no change in our end
 
 *2024-09-12 07:40:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-முடிவில்-எந்த-மாற்றமும்-இல்லை/175-343652) · `ta`
 
-ஜனாதிபதித் தேர்தலில் சஜித் பிரேமதாசவை ஆதரிக்கின்ற முடிவில் எந்த மாற்றங்களும் இல்லை என இலங்கைத் தமிழரசுக் கட்சி மீண்டும் அறிவித்துள்ளது.
+Sri Lanka TNA reaffirms support for Sajith Premadasa in presidential election, no changes in decision. Party spokesperson M.A. Sumanthiran confirms unchanged stance on candidates.
 
-இலங்கைத் தமிழரசுக் கட்சியின் பிரதானிகள் குழு ஒன்று அண்மையில் கூடி இந்த முடிவு உறுதி செய்ததாக அதன் பேச்சாளர் எம். ஏ. சுமந்திரன் தமது எக்ஸ் தளத்தில் பதிவிட்டுள்ளார்.
+🟩
 
-சஜித் பிரேமதாசவைத் தவிர ஏனைய எந்த வேட்பாளர்களுடனும் பேச்சுவார்த்தை எதுவும் நடத்தப் போவதில்லை எனவும் ஏற்கனவே எடுக்கப்பட்ட முடிவில் எந்த மாற்றமும் இல்லை என்றும் அவர் குறிப்பிட்டுள்ளார்.
+The Sri Lanka TNA has once again announced that there will be no changes in the decision to support Sajith Premadasa in the presidential election.
 
-கட்சியின் மத்திய செயற்குழுவினால் மேற்கொள்ளப்பட்ட தீர்மானங்களை அமுலாக்குவது குறித்தே தற்போது ஆராயப்படுகிறது என்றும் சுமந்திரன் கூறியுள்ளார். (a)
+A group of chiefs of the Sri Lanka Tamil National Party (TNA) recently convened and confirmed that the decision was confirmed by its spokesman M. A.. Sumanthiran posted on his X site.
+
+He noted that there was no change in the decision already taken with any candidates besides Sajith Premadasa.
+
+Sumanthiran has said that it is currently investigating the implementation of the resolutions made by the party's central executive committee.. (A)
 
 ◼️
 
 [Data](articles/1f615abe.json)
 
+[Extended Data](ext_articles/1f615abe.ext.json)
+
 ---
 
-### கோட்டாவிற்கு பரிந்து பேசினார் நாமல்
+### Namal spoke to Kota
 
 *2024-09-12 07:38:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவிற்கு-பரிந்து-பேசினார்-நாமல்/175-343651) · `ta`
 
-கோட்டாபய ஜனாதிபதி பதவியிலிருந்து விலகுவதற்கு முன்னர் எரிபொருள் மற்றும் எரிவாயு வரிசைகளை நிறுத்துவதற்கும் மின்சாரத் தடைகளை நிறுத்துவதற்கும் கோட்டாபய ராஜபக்சவின் அரசாங்கம் போதிய நிதி மற்றும் நடவடிக்கைகளை வழங்கியதாக ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ நேற்று அவிசாவளையில் தனது தேர்தல் பிரச்சாரத்தின் போது தெரிவித்தார்.
+Namal Rajapaksa defends Gotabhaya's presidency, claims adequate funding for fuel, gas, and electricity solutions. Blames previous administration for Uma Oya and Sampur project delays. Criticizes current leadership for abandoning nationalism and supporting the 13th Amendment. Emphasizes commitment to racial unity and country stability over political gain.
 
-இந்தப் பிரச்சினைகளைத் தீர்ப்பதற்குப் பொறுப்பானவர்கள் என்று பலர் தம்மைக் கூறியமைக்கு பதிலளிக்கும் வகையில் அவர் இந்த அறிக்கையை வெளியிட்டார்.
+🟩
 
-உமா ஓயா நீர்மின் நிலையம் மற்றும் சம்பூர் மின் உற்பத்தி நிலையம் என்பன நல்லாட்சி அரசாங்கத்தினால் குறித்த நேரத்தில் பூர்த்தி செய்யப்பட்டிருந்தால், கோட்டாபய ராஜபக்ச பதவி விலக வேண்டிய நிலை ஏற்பட்டிருக்காது. நல்லாட்சி அரசாங்கம் இந்த திட்டங்களை வேண்டுமென்றே ஒத்திவைத்தது, இறுதியில் அந்த பழி கோட்டாபயவின் நிர்வாகத்தின் மீது விழுந்தது.
+Presidential candidate Namal Rajapaksa said yesterday that the government of Gotabhaya Rajapakse's government has provided adequate funds and activities to stop fuel and gas rows and stop electricity barriers before resigning from the Gotabhaya president.
 
-பங்களாதேஷ் பிரதமருக்கு ஏற்பட்ட கதியே கோட்டாபய ராஜபக்சவுக்கும் ஏற்பட்டுள்ளதாக நாமல் ராஜபக்ச சுட்டிக்காட்டியுள்ளார்.
+He made the statement in response to many people claiming that they were responsible for solving these issues.
+
+If the Uma Oya Hydroelectric Station and the Sampur power plant were completed by the government, Gotabhaya Rajapaksa would not have resigned.. The goodwill government deliberately adjourned these plans and eventually fell on the administration of Gotabhaya.
+
+Namal Rajapaksa has pointed out that Gotabhaya Rajapaksa has also suffered a fate of the Bangladesh Prime Minister.
 
 ...
 
 [Data](articles/668ee021.json)
+
+[Extended Data](ext_articles/668ee021.ext.json)
 
 ---
 
@@ -2183,25 +2265,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/0122c0f9.json)
-
----
-
-### Sunil Dissanayake honoured
-
-*2024-09-11 22:42:00* · [`islandlk`](http://island.lk/sunil-dissanayake-honoured/) · `en`
-
-Sunil Dissanayake was presented the Sri Lanka Leadership Life Time Achievement Award 2024 on September 5 by the World HRD Congress (India Chapter).
-
-He completed 50 continuous years in management since September 1, 1974, both in Hospitality & Human Resources Management/ Development in senior management roles with significant organizations.
-
-Bargain hunters exploit share price drop in blue chip counters
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/47bf52b0.json)
 
 ---

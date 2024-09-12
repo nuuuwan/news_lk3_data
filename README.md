@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 15:38:26**
+As of **2024-09-12 15:56:53**
 
 ## Newspaper Stats
 
-*Scraped **43,512** Articles*
+*Scraped **43,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 2,647
 dailyftlk | 2,899
 adalk | 4,028
 dailymirrorlk | 4,733
-adaderanalk | 5,108
+adaderanalk | 5,109
 tamilmirrorlk | 5,666
 virakesarilk | 6,867
-adaderanasinhalalk | 7,435
+adaderanasinhalalk | 7,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,222 (99.3%) of 43,512 articles have been extended.
+43,234 (99.4%) of 43,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### J’pura University temporarily closed
+
+*2024-09-12 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101919/jpura-university-temporarily-closed) · `en`
+
+The University of Sri Jayawardenepura will be temporarily closed from 6.00 pm today following a clash between two groups, the university administration announced.
+
+Therefore, all students have been instructed to vacate the university premises by 6.00 pm today (12).
+
+◼️
+
+[Data](articles/4ce5425d.json)
+
+[Extended Data](ext_articles/4ce5425d.ext.json)
+
+---
+
+### J'pura University temporarily closed due to a clash
+
+*2024-09-12 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200948) · `si`
+
+Sri Jayewardenepura University temporarily closed due to group conflict. Administration ordered to vacate premises by 6:00 PM today.
+
+🟩
+
+The University of Sri Jayewardenepura has been temporarily closed due to a clash between two groups.
+
+Its administration is notified to remove the university premises at 6.00 pm today.
+
+◼️
+
+[Data](articles/73c5dd87.json)
+
+[Extended Data](ext_articles/73c5dd87.ext.json)
+
+---
 
 ### Elpitiya Pradeshiya Sabha election on October 26
 
@@ -524,25 +560,41 @@ The ward complex is to be completed within three months.
 
 ---
 
-### පෞද්ගලික අංශයේ අවම මුලික වැටුප ඉහළට
+### The minimum basic salary of the private sector increased
 
 *2024-09-12 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200938) · `si`
 
-පෞද්ගලික අංශයේ සේවකයන් සඳහා වන අවම මුලික වැටුප ඉහළ දැමීමට පාර්ලිමේන්තුවේ දී සම්මත කර ගත් පනත් කෙටුම්පතට කථානායකවරයාගේ සහතිකය ලැබී තිබේ.
+Here's a 200-character summary:
 
-2016 අංක 3 දරණ සේවකයන්ගේ ජාතික අවම වේතන පනත සංශෝධනය කිරීම සඳහා වූ මෙම පනත් කෙටුම්පත සම්බන්ධයෙන් දෙවැනි වර කියවීමේ විවාදය පසුගිය 3 වන දා පාර්ලිමේන්තුවේ දී පැවැත්වුණි.
 
-එහිදී පනත් කෙටුම්පත ඡන්ද විමසීමකින් තොරව සංශෝධන රහිතව සම්මත විය.
 
-ඒ අනුව සේවක භාරකාර අරමුදල, සේවක අර්ථසාධක අරමුදල් සහ පාරිතෝෂික ගෙවීමේ දී අවම වැටුප බවට එය සැලකිය යුතු බවට කම්කරු හා විදේශ රැකියා අමාත්‍යාංශය නිවේදනය කරයි.
+Parliament passes bill increasing minimum basic salary for private sector employees. New salary: Rs. 21,000 per month. Increase of Rs. 10,000 from previous Rs. 12,500. Daily wage now Rs. 350. Amendment bill passed on April 3, 2020.
 
-පුද්ගලික අංශයේ සේවා යෝජකයින් සිය සේවකයින් සඳහා මේ වසරේ සැප්තැම්බර් මාසයේ සිට ජාතික අවම මාසික වේතනය වශකයෙන් රුපියල් 17,500ක් සමග 2005 අංක 36 හා 2016 අංක 4 දරණ අය වැය සහන දීමනා පනත් මඟින් ගෙවිය යුතු රුපියල් 3,500ක අය වැය දීමනා ඇතුළු රුපියල් 21,000ක අවම වේතනයක් ගෙවිය යුතු බවද අමාත්‍යාංශය සඳහන් කරයි.
+🟩
 
-ඒ අනුව සේවක අර්ථසාධක අරමුදල, සේවක භාරකාර අරමුදල සහ පාරිතෝෂික ගෙවීම් සදහා අදාළ අවම වැටුප අදාළ කරගත යුතු බවද අමාත්‍යාංශය නිකුත් කළ මාධ්‍ය නිවේදනයේ දැක්වේ.
+The Bill was passed in parliament to increase the minimum basic salary for private sector employees in Parliament.
+
+The Second Reading Debate on the National Minimum Way Act No. 3 of 2016 was held in Parliament on the 3rd.
+
+There the Bill was passed without amending without a poll.
+
+Accordingly, the Employees Trust Fund, Employees Provident Fund and Gratuity Payment of Gratuity
+
+Private sector employers pay Rs. 21,000, including Rs.The Ministry said that should be said that the Ministry said.
+
+Accordingly, the minimum salary of the Employees Provident Fund, Employees Trust Fund and Gratuity Payments should be applied to the Ministry.
+
+The National Minimum Reval Act No. 3 of the National Minimum Monthly Act No. 3 of 2016 has been implemented to set up a national minimum hive from 01.01.2016.
+
+The Act also prescribed the minimum increase of Rs. 10,000 to pay Rs.
+
+The minimum monthly salary was taken up from Rs. 12,500 and the daily wage was Rs.
 
 ...
 
 [Data](articles/7b9eaaa7.json)
+
+[Extended Data](ext_articles/7b9eaaa7.ext.json)
 
 ---
 
@@ -578,21 +630,29 @@ Minister Ranil Wickremesinghe said that if the main sources of Muslim and farmin
 
 ---
 
-### ලෝකයේ ඕනෑම රටක වසර 10ක් ජීවත්වෙන්න මට වීසා තිබෙනවා
+### I have visas for 10 years in any country in the world
 
 *2024-09-12 10:37:49* · [`adalk`](https://www.ada.lk/breaking_news/ලෝකයේ-ඕනෑම-රටක-වසර-10ක්-ජීවත්වෙන්න-මට-වීසා-තිබෙනවා/11-411909) · `si`
 
-ඉදිරි ජනාධිපතිවරණයෙන් පසු තමන්ට විදේශගතවීම සඳහා වීසා ගැනීමට අවශ්‍ය නොවන බවත් ලොව ඕනෑම රටක වසර දහයක් ජීවත්වීම සඳහා වීසා බලපත් තමන් සන්තකයේ තිබෙන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+Sri Lanka Defense Minister Tiran Alles claims no visa needed for international travel. He denies opposition allegations about passport/visa issues. Emphasizes government focus on justice and combating drugs post-election.
 
-ඒ මහතා ඊයේ (11) ශ්‍රී දළදා මාළිගාවට පැමිණ දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මාධ්‍ය හමුවේ වැඩිදුරටත් පවසා සිටියේ අනෙකුත් අමාත්‍යවරුන් එසේ වීසා ලබාගත්තේද යන්න සම්බන්ධයෙන් තමන් නොදන්නා බවත් එසේ රටෙන් පැනයාමට අමත්‍යවරුන්ට අවශ්‍ය නොවන බවත්ය.
+🟩
 
-ඉදිරි ජනාධිපතිවරණයෙන් පසු රටෙන් පිටවීම සඳහා අමාත්‍යවරුන් අසූ දෙනෙකු විදේශ රටවල වීසා ලබාගෙන ඇති බවට පලවෙන වාර්තා සම්බන්ධයෙන් මාධ්‍යවේදීන් නැගූ පැනයකට පිළිතුරු දෙමින් අලස් මහතා ඒ බව අවධාරණය කළේය.
+People's Defense Minister Tiran Alles says he does not need to visas and live in order to live in any country in any country in any country in the world.
 
-විපක්ෂයේ මන්ත්‍රීවරයෙකු එවැනි චෝදනාවක් සිදුකළද එය අසත්‍යයක් විය හැකි බව අවධාරණය කළ අමාත්‍යවරයා මැතිවරණ සමයේදී විවිධ පුද්ගලයන් විවිධ ප්‍රකාශ සිදු කරන බවද පැවසීය.
+The media said that he had come to the Dalada Maligawa yesterday (11), he said that the other ministers would not know whether they were acquired by the other Ministers and that they do not need to take away.
+
+Mr. Alles stressed for a query raised by four ministers to leave the country's visas for leaving the country after the next presidential election.
+
+The Minister said that it would be false if the opposition MP had made such accusations.
+
+The Minister emphasized that President Ranil Wickremesinghe said that President Ranil Wickremesinghe was definitely victory at the next presidential election.. The minister has already been built for some degree, said the present President should be given another time to build the country.
 
 ...
 
 [Data](articles/042cb5a1.json)
+
+[Extended Data](ext_articles/042cb5a1.ext.json)
 
 ---
 
@@ -614,29 +674,37 @@ The Opposition Leader further stated that neither he nor the ‘Samagi Jana Bala
 
 [Data](articles/f7ba2873.json)
 
+[Extended Data](ext_articles/f7ba2873.ext.json)
+
 ---
 
-### පේරු හි හිටපු ජනාධිපති ෆුජිමෝරි මියයයි
+### Former President Fujimorury dies in Peru
 
 *2024-09-12 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200937) · `si`
 
-පේරු රාජ්‍යයේ හිටපු ජනාධිපති ඇල්බර්ටෝ ෆුජිමෝරි මියගිය බව ඔහුගේ දියණිය නිවේදනය කර තිබේ.
+Former Peruvian President Fujimori dies. Accused of human rights violations and corruption during 1990-2000 rule. Imprisoned 2005-2030, released 2015.
 
-ඔහු 1990 සිට 2000 දක්වා පේරු රාජ්‍යය පාලනය කළ අතර එම කාලයේදී මානව හිමිකම් උල්ලංඝනය කිරීම් සහ වංචා දූෂණ සම්බන්ධයෙන් ඔහුට එරෙහිව චෝදනා එල්ලවිය.
+🟩
 
-විශේෂයෙන්ම පේරු රාජ්‍යය තුළ මතුවෙමින් පැවති "ෂයිනින් පාත්" ගරිල්ලා සංවිධානය මර්ධනය කිරීමට ඔහු දැඩි හමුදා බලය පාවිච්චි කළේය.
+His daughter has announced that former President Albhimoru Fujimor, former President of Peru.
 
-ඔහුව බලයෙන් පහ කෙරුණේ ඔහුට එරෙහිව එල්ලවූ චෝදනා වල ප්‍රතිඵලයක් වශයෙනි.
+He ruled Peru from 1990 to 2000, and in the same time, he was accused of human rights violations and corruption.
 
-පසුව ඔහු ජපානයට පැනගිය අතර 2005 වසරේදී ෆුජිමෝරි ව චිලි රාජ්‍යයේ දී අත්අඩංගුවට ගැනුණි.
+He used strong military power to suppress the "Shainne Path", especially in Peru.
 
-අනතුරුව ඔහුට එරෙහිව නඩු විභාගයක් පවත්වා වසර 25කට ඔහුව බන්ධනාගාර ගත කළේය.
+As a result of the accusations against him.
 
-පසුගිය දෙසැම්බර් මාසයේදී ඔහුව බන්ධනාගාරයෙන් නිදහස් කළේ වසර 15කට පසුවය.
+He then escaped Japan and was arrested in Fujimoury in 2005.
+
+He was then imprisoned for 25 years.
+
+He was released from prison in December 15 years later.
 
 ◼️
 
 [Data](articles/fb8db5ad.json)
+
+[Extended Data](ext_articles/fb8db5ad.ext.json)
 
 ---
 
@@ -658,87 +726,123 @@ The suspect who had committed the murder has fled the area and Mount Lavinia Pol
 
 [Data](articles/736e5b78.json)
 
+[Extended Data](ext_articles/736e5b78.ext.json)
+
 ---
 
-### කාන්තාවකට මරු කැ﻿ඳවූ බිහිසුණු අනතුර
+### The horrific accident that a woman kills
 
 *2024-09-12 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200936) · `si`
 
-පාදුක්ක ලියන්වල මාර්ගයේ තුත්තිරිපිටිය ප්‍රදේශයේදී සිදුවු රිය අනතුරකින් කාන්තාවක් මියගොස් තබේ.
+Bus collides with three-wheeler in Thuththiripitiya, Padukka. Woman severely injured, hospitalized along with driver.
 
-ත්‍රීරෝද රථයක් පිටුපස බස් රථයක් ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+🟩
 
-අනතුරෙන් බරපතළ තුවාල ලැබූ ත්‍රීරෝද රථ රියදුරු සහ එහි පිටුපස අසුනේ ගමන්ගත් කාන්තාවක් පාදුක්ක රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර සඳහා හෝමාගම රෝහලට ඇතුළත් කිරීමේ දී පිටුපස අසුනේ ගමන්ගත් කාන්තාව මියගොස් තිබුණි.
+Woman is killed in an accident in the Thuththiripitiya area on the Padukka Liyanwala road.
 
-අනතුරෙන් බස් රථයේ රියදුරු ද තුවාල ලබා පාදුක්ක රෝහලට ඇතුළත් කර ඇති බව පොලීසිය වැඩිදුරටත් සදහන් කළේය.
+The accident had occurred when a bus collided with a three-wheeler.
+
+The three-wheeler driver and a woman who was seriously injured in the accident were admitted to the Padukka Hospital for further treatment.
+
+The driver of the bus was also injured and rushed to the Padukka Hospital.
 
 ◼️
 
 [Data](articles/fc57c037.json)
 
+[Extended Data](ext_articles/fc57c037.ext.json)
+
 ---
 
-### අවුරුදු 35ක්ම මම ඉන්නේ ආණ්ඩුවේ ගෙදරක
+### 35 years I'm in a government house
 
 *2024-09-12 09:57:16* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-35ක්ම-මම-ඉන්නේ-ආණ්ඩුවේ-ගෙදරක/11-411908) · `si`
 
-2019 වර්ෂයේ තමන්ට ආණ්ඩුවේ නිළ නිවසින් ඉවත්වීමට තිබුනත්, එම නිළ නිවසේ තමන්ට ඉන්න පින පාදා දුන්නේ අනුර කුමාර දිසානායාක බව ශ්‍රී ලංකා නිදහස් පක්ෂ මහ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා පැවසීය.
+Duminda Dissanayake criticizes Anura Kumara Dissanayake, claims government housing issue since 1999, expresses frustration over long wait for change.
 
-ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ අනුරාධපුර නොච්චියාගම ප්‍රදේශයේ පැවති ජන හමුවකදීය.
+🟩
 
-"පෙරේදා අනුර කුමාර මහත්තයා ආවා තඹුත්තේගමට, ඇවිල්ලා මට තමයි බැනලා තියෙන්නේ, මට බනින එක සාධාරණයි.මොකද අනුරට ඡන්දේ දීලා වැඩක් නෑ කියලා මම ගමක් ගානේ කියනවා.හැබැයි එතුමා කියපු එකේ චූටි වැරැද්දක් තියෙනවා.එතුමා හැම තැනම ගිහින් කියන කථාවක් තමයි 1994 ඉඳන් මම ඉන්නේ ආණ්ඩුවේ ගෙදරකලු, ඒක ඇත්ත, බොරු නෙමෙයි.අනුර කුමාර කියන ඒ කථාව 100% ක් ඇත්ත, හැබැයි අවුරුද්ද වැරදියි.මම 1994 ඉඳන් නෙමෙයි, 1989 ඉඳන් ඉන්නේ ආණ්ඩුවේ ගෙදරක, මට වයස අවුරුදු 10දී මගේ තාත්තා පාර්ලිමේන්තු මන්ත්‍රී වෙන්නේ, ඉතින් 89 ඉඳන් තාත්තා මන්ත්‍රී නම් මම තාත්තාගේ ගෙදර ඉන්නේ නැතිව අනුර කුමාරගේ ගෙදර ඉන්නද? ඒක මගේ වාසනාව වෙන්න ඇති.
+Sri Lanka Freedom Party General Secretary of the SLFP MP Duminda Dissanayake said that he had to leave the government official of the government in 2019, but he was given Anura Kumara Dissanayake.
+
+He was speaking at a public meeting in Nochchiyagama in Anuradhapura.
+
+"Mr. Anura Kumara came to Thambuththegama and that was just a fault that I was saying that I was going to vote everywhere.The house of the government, that is true, but the year is true, but since 1999, my father is in the age of 10, so since Dad, since 89,Without staying at my dad's house, may I stay home in Kumara? It must have been my luck.
+
+I'm just 45 years old, for 35 years, and I'm still waiting for the government, and I thank it in 2019, who will I get out of that house?In Anuradhapura, my father, Gather and Grandpa's home, told me to stay in the government.
 
 ...
 
 [Data](articles/1a1e5ace.json)
 
+[Extended Data](ext_articles/1a1e5ace.ext.json)
+
 ---
 
-### නාමල්ගෙන් ආරාධනයක්
+### An invitation from Namal
 
 *2024-09-12 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200934) · `si`
 
-ඉදිරි වසර 10 ඇතුළත ශ්‍රී ලංකාව ආසියාවේ සංවර්ධිත රටක් බවට පත් කිරීමට කටයුතු කරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa promises to develop Sri Lanka within 10 years. He addresses farmers' concerns about milk prices and fertilizer subsidies. Invites supporters to join the Sri Lanka Civil Force movement.
 
-අගලවත්ත ප්‍රදේශයේ පැවති ජන රැලියක් අමතමින් නාමල් රාජපක්ෂ මහතා මෙම අදහස් පළ කළේය.
+🟩
+
+Presidential candidate at the Sri Lanka Ceremony of Sri Lanka Knowing Namal Rajapaksa says that Sri Lanka will make Sri Lanka a developed country in the next 10 years.
+
+Namal Rajapaksa made these comments addressing a rally held in Agalawatta area.
 
 ...
 
 [Data](articles/94fb3251.json)
 
+[Extended Data](ext_articles/94fb3251.ext.json)
+
 ---
 
-### කුලියාපිටිය මෝටර් රථ එකලස් කිරීමේ කර්මාන්ත ශාලාව නුදුරේදීම මෙහෙයුම් අරඹයි
+### Kuliyapitiya Car assembly factory launches
 
 *2024-09-12 09:33:54* · [`adalk`](https://www.ada.lk/breaking_news/කුලියාපිටිය-මෝටර්-රථ-එකලස්-කිරීමේ-කර්මාන්ත-ශාලාව-නුදුරේදීම-මෙහෙයුම්-අරඹයි/11-411907) · `si`
 
-වෙස්ටර්න් ඔටෝමොබයිල් එසෙම්බ්ලි පුද්ගලික සමාගම කුලියාපිටිය, මහනුගලන්ද දී සිය අති නවීන වාහන (SKD) එකලස් කිරීමේ කර්මාන්තශාලාව ලඟදීම අරම්භ කරන බව එම සමාගම නිවේදනය කරයි.
+Kuliyapitiya Car assembly factory launched by Western Automobile EShemebli. Modern facility approved by BOI, uses German, Japanese, Korean machinery. Flexible system handles multi-brands. Committed to training, aims to increase Sri Lanka's automotive sector.
 
-මෙම නවීන කර්මාන්තශාලාව තිරසාර වර්ධනය සහ දිගුකාලීන අභිවෘද්ධිය සඳහා අවශ්‍ය නවීන තාක්ෂණික නිපුණතා සහ දැනුමෙන් ජාතියේ තරුණ තරුණියන් සන්නද්ධ කරමින්, අප දේශය ආර්ථික සංවර්ධනය කරා ගෙන යාමට දායක වෙනු ඇත.
+🟩
 
-කර්මාන්තශාලාව ආයෝජන මණ්ඩලයේ අනුමැතිය ලත් ව්‍යාපෘතියක් වේ. ජාත්‍යන්තර මෝටර් රථ විශේෂඥයින්ගේ උපදෙස් මත නිර්මාණය කරන ලද සහ ජර්මනිය, ජපානය සහ කොරියාවේ නවීන තාක්ෂණයෙන් නිෂ්පාදිත යන්ත්‍රසූත්‍ර වලින් සමන්විත වන අතර මෙම කර්මාන්තශාලාව ඉහළම ජාත්‍යන්තර ප්‍රමිතීන් යටතේ ක්‍රියාත්මක වේ. බහු-වෙළඳ නාම හැසිරවිය හැකි නම්‍යශීලී පද්ධතියක් මත එහි කාර්යක්ෂමතාව පදනම් වී ඇත. දැඩි ජාත්‍යන්තර ප්‍රමිතීන්ට අනුගත වෙමින්, කර්මාන්තශාලාව කලාපයේ ප්‍රමුඛතම මොටර් රථ එකලස් කිරීමේ කේන්ද්‍රස්ථානයක් බවට පත්වනු ඇත.
+Western Automobile EShemebli, private company is commenced at the Kuliyapitiya, Kuliyapitiya and the SKD assembly factory.
+
+This modern factory equips our country towards economic development, equipped with the latest technological skills and knowledge of the modern facility.
+
+Factory is the approval project of the BOI. The industry consists of the instructions of international automotive experts and the manufactured machinery products manufactured in Germany, Japan and Korea.. Its efficiency is based on a flexible system that can handle multi-brands. Adapting to internationally international standards, the factory will become a hub of the factory's leading motor veilure.
+
+The company has been recruited by Western Automobile Eshemebar Eshemebar Lirm, including the Graduates and the Diploma in the company.A group of employees is to be recruited.
 
 ...
 
 [Data](articles/5dd1a8ea.json)
 
+[Extended Data](ext_articles/5dd1a8ea.ext.json)
+
 ---
 
-### மகனை கொலை செய்த தந்தை தலைமறைவு
+### Father -in -law
 
 *2024-09-12 09:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனை-கொலை-செய்த-தந்தை-தலைமறைவு/175-343658) · `ta`
 
-கல்கிஸ்ஸை பொலிஸ் பிரிவிற்கு உட்பட்ட பொருபன பிரதேசத்தில் நபர் ஒருவர் தனது மகன் மற்றும் மனைவியை தாக்கிவிட்டு தலைமறைவாகியுள்ளார்.
+Family dispute leads to attack: Father-in-law injures son, wife; 26-year-old dies. Suspect flees, investigation ongoing.
 
-நேற்று (11) காலை குடும்ப தகராறு முற்றிய நிலையில் கணவன் தனது மனைவி மற்றும் மகனை கூரிய ஆயுதத்தால் தாக்கியுள்ளார்.
+🟩
 
-தாக்குதலில் காயமடைந்த இருவரும் களுபோவில வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். இதில் ரத்மலானை பொருபனை பிரதேசத்தை சேர்ந்த 26 வயதுடைய நபர் உயிரிழந்துள்ளார்.
+A person in the area of ​​Kalkissa, which belongs to the police division, has attacked his son and wife.
 
-கொலையை செய்த சந்தேகநபர் பிரதேசத்தை விட்டு தப்பிச் சென்றுள்ளதுடன், சந்தேகநபரை கைது செய்வதற்கான மேலதிக விசாரணைகளை கல்கிஸ்ஸை பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+Husband attacked his wife and son with a sharp weapon in the wake of a family dispute yesterday morning.
+
+Both injured in the attack have been admitted to Kalubowila Hospital. A 26 -year -old man from Ratmalana Parapana area has died.
+
+The suspect who killed the murder has fled the area and is conducting further investigations to the arrest of the suspect.. Remble
 
 ◼️
 
 [Data](articles/5c5ba420.json)
+
+[Extended Data](ext_articles/5c5ba420.ext.json)
 
 ---
 
@@ -1903,39 +2007,5 @@ Floods and landslides have caused most of the deaths, many of which have come in
 ◼️
 
 [Data](articles/1a83a027.json)
-
----
-
-### අගෝස්තුවේ ජනපතිවරණයක් පැවැත්වූයේ නම් වැඩිහිටියන්ගෙන් වැඩි පිරිසක් අනුරට
-
-*2024-09-11 19:15:44* · [`adalk`](https://www.ada.lk/breaking_news/අගෝස්තුවේ-ජනපතිවරණයක්-පැවැත්වූයේ-නම්-වැඩිහිටියන්ගෙන්-වැඩි-පිරිසක්-අනුරට/11-411902) · `si`
-
-අගෝස්තු මාසයේදී මෙරට ජනපතිවරණයක් පැවැත්වූයේ නම් වැඩිහිටියන්ගේ ජනාධිපතිවරණ ඡන්දය ප්‍රකාශ කිරීමේ අභිප්‍රාය අනුව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ඉදිරියෙන් පසුවන බව සෞඛ්‍ය ප්‍රතිපත්ති ආයතනය නිකුත් කළ නවතම සමීක්ෂණ වාර්තාවක දැක්වෙයි.
-
-ඒ අනුව අනුර කුමාර දිසානායක මහතාට සියයට 36ක්, සජිත් ප්‍රේමදාස මහතාට සියයට 32 ලෙස වැඩිහිටියන්ගේ ඡන්ද ප්‍රකාශ කිරීමේ අභිප්‍රාය දැක්වෙයි.
-
-ජනපති රනිල් වික්‍රමසිංහ මහතාට සියයට 28ක අගයක් ලැබි තිබෙන අතර එය ජනපතිවරයා කෙරෙහි අඛණ්ඩ වර්ධනයක් පෙන්නුම් කරන බව එම ආයතනය පවසයි.
-
-◼️
-
-[Data](articles/007ae5ae.json)
-
----
-
-### Corruption fighter raises concerns over unwarranted redacting in Sri Lanka’s asset declaration
-
-*2024-09-11 19:11:00* · [`economynextcom`](https://economynext.com/corruption-fighter-raises-concerns-over-unwarranted-redacting-in-sri-lankas-asset-declaration-179301/) · `en`
-
-ECONOMYNEXT – Transparency International Sri Lanka (TISL), the local body of Transparency International (TI), which has been fighting against corruption in Sri Lanka has raised concerns over unwarranted redacting of information in asset declaration mandated by a new Anti-Corruption Act.
-
-The island nation’s anti-graft body the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has received asset declarations of over 100 persons who are obligated to submit their asset and liabilities declarations.
-
-This includes top officials and the President. The CIABOC has made details of all the assets and liabilities of public officials it has received in its official website under ‘Declaration of Assets’ sub category.
-
-The CIABOC is in the process of establishing a centralized electronic system in compliance with the law.
-
-...
-
-[Data](articles/8b9cd60f.json)
 
 ---

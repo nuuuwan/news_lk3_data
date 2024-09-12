@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 15:08:07**
+As of **2024-09-12 15:22:15**
 
 ## Newspaper Stats
 
-*Scraped **43,475** Articles*
+*Scraped **43,487** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
-colombotelegraphcom | 415
 bbccomsinhala | 422
+colombotelegraphcom | 427
 islandlk | 2,542
 economynextcom | 2,647
 dailyftlk | 2,899
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,410
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,200 (99.4%) of 43,475 articles have been extended.
+43,213 (99.4%) of 43,487 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ The election of the Elpitiya Pradeshiya Sabha is scheduled to be held on October
 ◼️
 
 [Data](articles/f53c7af2.json)
+
+[Extended Data](ext_articles/f53c7af2.ext.json)
 
 ---
 
@@ -64,43 +66,57 @@ A total of 1,487,303 tourists had visited the country in 2023.
 
 [Data](articles/ecbfa274.json)
 
+[Extended Data](ext_articles/ecbfa274.ext.json)
+
 ---
 
-### சிறுவர் துஷ்பிரயோக முறைப்பாடுகள் அதிகரிப்பு
+### Increase of Child Abuse Complaints
 
 *2024-09-12 14:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-துஷ்பிரயோக-முறைப்பாடுகள்-அதிகரிப்பு/175-343669) · `ta`
 
-அநுராதபுரம் மாவட்டத்தில் சிறுவர் துஷ்பிரயோகம் அதிகரித்து வருவது குறித்து அநுராதபுரம் மாவட்ட சிறுவர் பாதுகாப்பு அதிகாரிகள் கவலை வெளியிட்டுள்ளனர்.
+Child abuse cases surge in Anuradhapura: 491 complaints in 6 months, many unreported. Child Protection Officers express concern.
 
-கடந்த ஆறு மாதங்களில் சிறுவர் துஷ்பிரயோகம் தொடர்பில் 491 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகவும், மேலும் பல சம்பவங்கள் பதிவாகாமல் இருக்கலாம் எனவும் மாவட்ட சிறுவர் பாதுகாப்பு அதிகாரி மகேந்திர தசநாயக்க தெரிவித்துள்ளார்.
+🟩
 
-சிறுவர் உதவி சேவை இலக்கமான 1929க்கு 202 நேரடி முறைப்பாடுகள் கிடைத்துள்ளதாகவும், பிரதேச சிறுவர் பாதுகாப்பு அதிகாரிகளுக்கு 289 முறைப்பாடுகள் கிடைத்துள்ளதாகவும் அவர் கூறியுள்ளார்.
+Anuradhapura District Child Protection Officers have expressed concern over the increase in child abuse in Anuradhapura district.
+
+District Child Protection Officer Mahendra Dasanayake said that 491 complaints have been received in the last six months and may not have been reported.
+
+He said that the Child Assistance Service has received 202 direct complaints from 1929 and 289 complaints have been received by the Child Security Officers.
 
 ◼️
 
 [Data](articles/e40abcd1.json)
 
+[Extended Data](ext_articles/e40abcd1.ext.json)
+
 ---
 
-### சுற்றுலா பயணிகளின் வருகையில் ஏற்பட்டுள்ள மாற்றம்
+### The change in the arrival of tourists
 
 *2024-09-12 13:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-பயணிகளின்-வருகையில்-ஏற்பட்டுள்ள-மாற்றம்/175-343668) · `ta`
 
-இந்த வருடத்தில் இலங்கைக்கு வந்த வெளிநாட்டு சுற்றுலா பயணிகளின் எண்ணிக்கை 14 இலட்சத்தை நெருங்கியுள்ளது.
+Sri Lanka tourist arrivals: 1.4 million this year, 1.39 million Jan-Sep, peak in Feb (218k), over 200k in Jan-Mar. Top countries: India, UK, Russia, Germany, China. Last year: 1.49 million visitors.
 
-கடந்த ஜனவரி முதலாம் திகதி முதல் செப்டெம்பர் மாதம் 8 ஆம் திகதி வரையான காலப்பகுதியில் இலங்கைக்கு வருகை தந்த மொத்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை 1,395,773 என இலங்கை சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+🟩
 
-அத்துடன், கடந்த பெப்ரவரியில் அதிக எண்ணிக்கையிலான சுற்றுலாப் பயணிகள் நாட்டுக்கு வந்துள்ளனர். அவர்களின் எண்ணிக்கை 218,350 ஆகும்.
+The number of foreign tourists who arrived in Sri Lanka this year is close to 14 lakhs.
 
-மேலும், ஜனவரி மற்றும் மார்ச் மாதங்களில் 200,000 க்கும் மேற்பட்ட சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர்.
+The total number of tourists visiting Sri Lanka from January 1 to 8 September is 1,395,773, the Sri Lanka Tourism Development Authority said.
 
-இதேவேளை, இந்தியா, பிரிட்டன், ரஷ்யா, ஜெர்மனி, சீனா ஆகிய நாடுகளில் இருந்து அதிக சுற்றுலா பயணிகள் நாட்டுக்கு வந்துள்ளனர்.
+In addition, a large number of tourists came to the country in last February. Their number is 218,350.
 
-இதேநேரம், கடந்த வருடம் இலங்கைக்கு வருகை தந்த மொத்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை 1,487,303 ஆகும்.
+Also, more than 200,000 tourists arrived in January and March.
+
+Meanwhile, most tourists from India, Britain, Russia, Germany and China have come to the country.
+
+At the same time, the total number of tourists visiting Sri Lanka last year was 1,487,303.
 
 ◼️
 
 [Data](articles/2cb0176d.json)
+
+[Extended Data](ext_articles/2cb0176d.ext.json)
 
 ---
 
@@ -124,6 +140,8 @@ The CID unit at the BIA is conducting further investigations into the incident.
 
 [Data](articles/ac11f611.json)
 
+[Extended Data](ext_articles/ac11f611.ext.json)
+
 ---
 
 ### Expolanka Holdings changes name and status post-delistiing
@@ -143,6 +161,8 @@ The company’s registration number remains as P B 744PQ and its registered offi
 ◼️
 
 [Data](articles/05c9caef.json)
+
+[Extended Data](ext_articles/05c9caef.ext.json)
 
 ---
 
@@ -166,21 +186,29 @@ Pedestrians hiked up their shorts as high as possible to avoid being soaked by t
 
 [Data](articles/8991b3d7.json)
 
+[Extended Data](ext_articles/8991b3d7.ext.json)
+
 ---
 
-### ’Times school of higher education’ ජනපති අතින් විවෘත කරයි
+### President opens TIMES School of Higher Education
 
 *2024-09-12 12:35:52* · [`adalk`](https://www.ada.lk/breaking_news/’Times-school-of-higher-education’-ජනපති-අතින්-විවෘත-කරයි/11-411913) · `si`
 
-'Times school of higher education' අධ්‍යාපන ආයතනය ජනපති රනිල් වික්‍රමසිංහ මහතා අතින් විවෘත කරනු ලැබීය.
+Ranil Wickremesinghe inaugurates TIMES School of Higher Education. The institute offers certificate, diploma, degree, and postgraduate programs. Opening ceremony held at Gore Face Hotel, Colombo.
 
-විදේශීය විශ්වවිද්‍යාල තුනක ඒකාබද්ධත්වයෙන් ක්‍රියාත්මක මෙම අධ්‍යාපන ආයතනය විවෘත කිරීම කොළඹ ගෝල ෆේස් හෝටලයේදී පැවැත්විණි.
+🟩
 
-මෙම ආයතනය මගින් සහතික පත්‍ර පාඨමාලා, ඩිප්ලෝමා පාඨමාලා, උපාධි පාඨමාලා හා පශ්චාත් උපාධි පාඨමාලා ක්‍රියාත්මක කිරීමට නියමිතව තිබේ.
+"TIMES SCHOOL OF HIGHER EDUCATION" Educational Institute Ranil Wickremesinghe
+
+The opening of the Institute of Education was conducted at the Gore Face Hotel in Colombo.
+
+The institute is to be implemented to implement the certificate courses, Diploma Courses, Degree and Postgraduate Courses.
 
 ◼️
 
 [Data](articles/068b65bb.json)
+
+[Extended Data](ext_articles/068b65bb.ext.json)
 
 ---
 
@@ -204,19 +232,27 @@ Dissanayake also accused Premadasa of making promises about what he will give pe
 
 [Data](articles/7b94b775.json)
 
+[Extended Data](ext_articles/7b94b775.ext.json)
+
 ---
 
-### 20ஆம் திகதி மூடப்படும்
+### Will be closed on the 20th
 
 *2024-09-12 11:44:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20ஆம்-திகதி-மூடப்படும்/175-343665) · `ta`
 
-நாரஹேன்பிட்டியில் உள்ள மோட்டார் போக்குவரத்து திணைக்களத்தின் தலைமை அலுவலகம் ஜனாதிபதி தேர்தல் தொடர்பில் வாக்களிப்பு நிலையமாக நியமிக்கப்பட்டுள்ளது.
+Motor Transport Department Head Office in Narahenpitiya serves as a polling station for the upcoming presidential election. The office will close on the 20th to prepare for the event.
 
-அதற்குத் தேவையான வசதிகளை ஏற்படுத்திக் கொடுப்பதற்காக எதிர்வரும் 20ஆம் திகதி மோட்டார் போக்குவரத்து திணைக்களத்தின்  வழமையான பணிகள் நடைபெறாமல் மூடப்படும் என திணைக்களம் அறிவித்துள்ளது.
+🟩
+
+The Head Office of the Motor Transport Department in Narahenpitiya has been appointed as a voting center on the presidential election.
+
+The Department of Motor Traffic will be closed on the 20th of this month to provide the necessary facilities.
 
 ◼️
 
 [Data](articles/e2beddf8.json)
+
+[Extended Data](ext_articles/e2beddf8.ext.json)
 
 ---
 
@@ -234,39 +270,59 @@ The second reading debate on the bill to amend the National Minimum Wage Act No.
 
 [Data](articles/a6ccbd9d.json)
 
+[Extended Data](ext_articles/a6ccbd9d.ext.json)
+
 ---
 
-### කතරගම දේවාලයෙන් කතරගම රෝහලට නව වාට්ටු සංකීර්ණයක්
+### New ward complex for Kataragama Hospital in Kataragama Devalaya
 
 *2024-09-12 11:00:13* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-දේවාලයෙන්-කතරගම-රෝහලට-නව-වාට්ටු-සංකීර්ණයක්/11-411911) · `si`
 
-ඓතිහාසික රුහුණු කතරගම මහා දේවාලයට බැතිමතුන් සහ පරිත්‍යාගශීලීන් ලබාදෙන ආධාර මත කතරගම දිස්ත්‍රික් රෝහලට නව වාට්ටු සංකීර්ණයක් ඉඳිකිරීමට පියවරගෙන ඇත.
+Kataragama Hospital receives aid for new ward complex near Ruhunu Kataragama Maha Devalaya. Construction expected to finish within three months.
 
-රුහුණු කතරගම මහා දේවාලයේ බස්නායක නිලමේ තැන්පත් ඩිෂාන් වික්‍රමරත්න ගුණසේකර මහතාගේ අදහසක් පරිදි ඉඳිකෙරෙන එම වාට්ටු සංකීර්ණය මාස තුනක් ඇතුලත නිමකිරීමට නියමිතය.
+🟩
+
+Steps have been taken to construct a new ward complex to the Kataragama District Hospital on aid to the aid of the historic Ruhunu Kataragama Maha Devalaya.
+
+The ward complex is to be completed within three months.
 
 ◼️
 
 [Data](articles/f6b81b3a.json)
 
+[Extended Data](ext_articles/f6b81b3a.ext.json)
+
 ---
 
-### මුස්ලිම් ජනතාවගේ භූමදානය පිළිබඳ අයිතිය නීතියෙන්ම දෙනවා
+### The Right to the Burial of Muslim
 
 *2024-09-12 10:45:17* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-ජනතාවගේ-භූමදානය-පිළිබඳ-අයිතිය-නීතියෙන්ම-දෙනවා/11-411910) · `si`
 
-පොහොර මිල අඩු කරන බවට සහ ගොවි ණය කපා හරින බවට අද ප්‍රකාශ කරන සජිත්  හා අනුර එදා මේ රටේ ගොවි ජනතාව පොහොර නැතිව දුක් විඳින විට සිටියේ කොහොදැයි තමා ප්‍රශ්න කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Here's a 200-character summary:
 
-තමා ලෝක නායකයන්ට කථා කර පොහොර සහනාධාර ලබා ගැනීමට කටයුතු කිරීම නිසා ගොවියා නැවත ගොවි බිමට යවා රටේ වී නිෂ්පාදනය ඉහළ නංවා ගැනීමට හැකි වූ බවද ජනාධිපතිවරයා සිහිපත් කළේය.
 
-අද ජනතාවගේ ජිවන බර ගැන කථා කරන සජිත් හා අනුර පසුගිය ආර්ථික අර්බුදය හමුවේ ජනතාවගේ ජීවන බර අඩු කිරීමට කිසිඳු සහායක් ලබා නොදුන් බවද ජනාධිපතිවරයා පැවසීය.
 
-ජනතාව අසීරුතාවට පත් වූ අවස්ථාවේ පැන ගිය අය අද තම අනාගතය වෙනුවෙන් බලය ඉල්ලන බව පැවසූ ජනාධිපතිවරයා තමා මෙවර ජනාධිපතිවරණයේදී ජන වරම ඉල්ලා සිටින්නේ රටේ අනාගතය වෙනුවෙන් ආරම්භ කළ වැඩසටහන ඉදිරියට ගෙන යාමට බවද
+Sri Lanka's President Ranil Wickremesinghe addresses rally, promising to support farming and Muslim communities, strengthen trade, and fulfill election promises.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඊයේ (11) පස්වරුවේ කල්මුණේ, සයින්දමරදු ෆවුසි ක්‍රීඩාංගණයේ  පැවති “රනිල්ට පුළුවන්” විජයග්‍රාහී ජන රැලිය අමතමිනි.
+🟩
+
+President Ranil Wickremesinghe said he would question whether he was depriving fertilizer prices and cut the farmers in this country to fertilize.
+
+The President recalled that he could be sent back to the farming and enhance the farming production in the country.
+
+The President said Sajith and Anura said that Sajith and Anura said that the lives of the people of the people today.
+
+The President who escaped when the people had begun to seek their future for their future today asking for the mandate of the country to proceed to the future of the country
+
+President Ranil Wickremesinghe made this statement addressing the 'Ranil' rally on the occasion.
+
+Minister Ranil Wickremesinghe said that if the main sources of Muslim and farming lost their main source of income and farming, he added the rally in the country. Therefore, the President told the people to prompting the people of Sri Lanka and to strengthen the country's trade and farming, he said he had come forward with plans.
 
 ...
 
 [Data](articles/a36c3162.json)
+
+[Extended Data](ext_articles/a36c3162.ext.json)
 
 ---
 
@@ -1084,6 +1140,20 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 
 ---
 
+### The Incident & Issues Of Academic Freedom: The Losing South Asian Character Of SAU
+
+*2024-09-11 22:31:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-incident-issues-of-academic-freedom-the-losing-south-asian-character-of-sau/) · `en`
+
+Silence And Choreographed Timidity at South Asian University: Interview of Sasanka Perera by Anushka Kahandagamage and Kaushalya Kumarasinghe.
+
+[Sri Lankan academic Sasanka Perera, left the South Asian University on 31 July 2024 which he had helped establish as a SAARC institution. His leaving was consequent to a targeted attack against him as the only Sri Lankan scholar in the university and one of handful of non-Indian teachers in a heavily Indian dominated space. Perera’s leaving and the widespread global coverage it received is significant black mark against academic freedom in India in general. It also marks the steady Indianization of the South Asian University which was meant to be a place of teaching and reflection for all South Asians. In this wide ranging interview, two former South Asian University students, Anushka Kahandagamage based in New Zealand and Kaushalya Kumarasinghe based in Sri Lanka speak to Perera at length about the incidents itself and its circumstances.]
+
+...
+
+[Data](articles/b3de2c8b.json)
+
+---
+
 ### Anton Roux steps down as Sri Lanka fielding coach
 
 *2024-09-11 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101905/anton-roux-steps-down-as-sri-lanka-fielding-coach) · `en`
@@ -1097,6 +1167,18 @@ Roux, a former South African first-class cricketer and former coach of the Nethe
 ...
 
 [Data](articles/265713be.json)
+
+---
+
+### The Leadership Of President RW & AKD
+
+*2024-09-11 21:15:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-leadership-of-president-rw-akd/) · `en`
+
+Ranil Wickremesinghe (RW) has been with the parliament for about 47 years. Without support from the voters, he became president in 2022 because of his luck. He wants to stay in power, but his leadership is questioned by many, given his performance, particularly over the last two years. Anura Kumara Dissanayake (AKD) has been in the parliament for about 20 years and was a minister and the Chief Opposition Whip from 2015 to 2018. Both RW and AKD are presidential candidates. This article is a committed inquiry into the leadership qualities of RW and AKD so that voters can decide who to support to be the next president of Sri Lanka.
+
+...
+
+[Data](articles/75dc190e.json)
 
 ---
 
@@ -1141,6 +1223,32 @@ The Sri Lankan team participating in the games comprises of 53 junior athletes.
 ...
 
 [Data](articles/a79b82ec.json)
+
+---
+
+### It Is Time To Recognise & Denounce Inflammatory Journalism
+
+*2024-09-11 20:09:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/it-is-time-to-recognise-denounce-inflammatory-journalism/) · `en`
+
+Journalism is a profession dedicated to collecting, preparing, and disseminating news across various print and electronic media formats. However, with advancements in technology and the rise of social media, journalism has increasingly become a tool for manipulating public opinion through orchestrated presentations and misinformation. The creation and propagation of fake news have turned the media into a revenue-generating machine for opportunistic, ad-hoc journalists, especially during election seasons. This manipulation extends to tracking individual preferences for tailored advertisements and media content, influencing public perceptions and promoting specific agendas.
+
+...
+
+[Data](articles/620aecfd.json)
+
+---
+
+### ‘AI’ Prefers Ranil As The Next President!
+
+*2024-09-11 20:07:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ai-prefers-ranil-as-the-next-president/) · `en`
+
+The author interrogated Chat-GPT at 11.12 A.M. on September 5, 2024 raising the following questions. The author asked Chat-GPT “In this conversation, did I ask any question bias to any particular person?” and Chat-GPT answered “No, your questions seemed neutral and open-ended. You asked for opinions on several political figures and explored their potential impact on Sri Lanka’s economy, but none of your questions were biased toward a particular individual. You were seeking informed insights rather than expressing favoritism.”
+
+Who do you think would be the best choice to stabilize Sri Lanka’s economy during the current crisis?
+
+...
+
+[Data](articles/5897924d.json)
 
 ---
 
@@ -1759,75 +1867,5 @@ According to the Election Commission, there are 17.44 million registered voters 
 ◼️
 
 [Data](articles/d96bc3b8.json)
-
----
-
-### அதிபர் அடித்ததில்   ஏழு மாணவர்களுக்கு காயம்
-
-*2024-09-11 14:27:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அதிபர்-அடித்ததில்-ஏழு-மாணவர்களுக்கு-காயம்/76-343633) · `ta`
-
-பாடசாலையின் அதிபரினால்  கடந்த சனிக்கிழமை ஏற்பாடு செய்யப்பட்டிருந்த கல்வி கருத்தரங்குக்கு செல்லாத ஏழு  மாணவர்களை பிரம்பால்  தாக்கியதாகவும் இதனால் அவர்கள் நடக்க கூட முடியாது உள்ளதாகவும் தெரிவிக்கப்படுகின்றது. இந்த சம்பவம் நுவரெலியாவில் இடம்பெற்றுள்ளது.
-
-நுவரெலியா கல்வி வலயத்துக்குட்பட்ட கந்தப்பளை நு/கோட்பெல் தமிழ் வித்தியாலயத்தில் இம்முறை 5ம் ஆண்டு புலமைப் பரீட்சைக்கு  தோற்றவுள்ள மாணவர்கள் மீது அதிபர் கடுமையாக தாக்கியதால் கடுங்காயங்களுக்கு உள்ளான ஏழு மாணவர்கள் நுவரெலியா மாவட்ட  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-குறித்த பாடசாலையின் அதிபரை இடமாற்றம் செய்ய கோரியும் பாடசாலை அதிபருக்கு தகுந்த நடவடிக்கை எடுக்குமாறு கோரியும்  ன் நுவரெலியா வலயக் கல்வி காரியாலயத்திற்கு எழுத்து மூலம் அறிவித்துள்ளனர்.
-
-எனினும் இதுவரை உரிய தீர்வு கிடைக்காத காரணமாகவே பெற்றோர் மற்றும் பழைய மாணவர்கள் இணைந்து   புதன்கிழமை  (11) குறித்த போராட்டத்தை முன்னெடுத்துள்ளதாக போராட்டத்தில் ஈடுபட்டவர்கள் தெரிவித்துள்ளனர். சம்பவம் தொடர்பில் பாதிக்கப்பட்ட மாணவர்களின் பெற்றோர் கூறுகையில்,
-
-...
-
-[Data](articles/b40a61cb.json)
-
----
-
-### Three foreign parties in talks for offshore banking in Sri Lanka’s Port City
-
-*2024-09-11 14:20:00* · [`economynextcom`](https://economynext.com/three-foreign-parties-in-talks-for-offshore-banking-in-sri-lankas-port-city-179248/) · `en`
-
-ECONOMYNEXT – Three international banking corporations are in discussion to set up offshore operations in Sri Lanka’s Colombo Port City, its operating company said.
-
-Sri Lanka’s parliament on September 04, approved offshore banking rules gazette in July, CHEC Port City CHEC Port City Colombo (Pvt) Ltd said.
-
-“The presence of offshore branches of international banks would promote greater financial stability and provide the dexterity to invest in large-scale projects for prospective global investors,” the statement said.
-
-“Further, the offshore banking system at Port City Colombo will foster the creation of a circular financial economy, due to the increased circulation of foreign currency.”
-
-Commercial Bank of Sri Lanka, Sampath, HNB, DFCC, NDB, and NTB, have been approved as Authorised Persons (AP’s) by the Colombo Port City Economic Commission (CPCEC) to operated in the special economic zone.
-
-Seven local banks are in discussion to set up offshore banking units in the Port City area.
-
-...
-
-[Data](articles/d0ab187f.json)
-
----
-
-### Seetha Arambepola appointed State Minister for Women and Child Affairs
-
-*2024-09-11 14:19:00* · [`economynextcom`](https://economynext.com/seetha-arambepola-appointed-state-minister-for-women-and-child-affairs-179250/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President  Ranil Wickremesinghe has appointed SLPP parliamentarian Dr Seetha Kumari Arambepola as the Minister of State for Women and Child Affairs.
-
-The previous minister in the post, former actress Geetha Kumarasinghe was sacked after she pledged support to opposition party Samagi Jana Balavegaya.
-
-Dr Arambepola already holds the post of Minister of State for Health. (Colombo/Sep11/2024)
-
-◼️
-
-[Data](articles/ece4e0d3.json)
-
----
-
-### ගීතාට තිබූ වගකීම සීතාට භාර දෙයි
-
-*2024-09-11 14:13:50* · [`adalk`](https://www.ada.lk/breaking_news/ගීතාට-තිබූ-වගකීම-සීතාට-භාර-දෙයි/11-411890) · `si`
-
-රාජ්‍ය අමාත්‍ය සීතා අරඹේපොල මහත්මියට තවත් රාජ්‍ය අමාධ්‍ය ධුරයක් ලබා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කටයුතු කර තිබේ.
-
-ඒ අනුව ගීතා කුමාරසිංහ මහත්මිය ඉවත් කිරීමෙන් හිස් වූ කාන්තා හා ළමා කටයුතු රාජ්‍ය අමාත්‍ය ධුරය සීතා අරඹේපොල මහත්මියට ලබා දුන් බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/f8912f96.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 19:57:24**
+As of **2024-09-12 20:10:30**
 
 ## Newspaper Stats
 
-*Scraped **43,589** Articles*
+*Scraped **43,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,659
 dailyftlk | 2,899
 adalk | 4,036
 dailymirrorlk | 4,733
-adaderanalk | 5,113
+adaderanalk | 5,115
 tamilmirrorlk | 5,675
 virakesarilk | 6,903
 adaderanasinhalalk | 7,441
@@ -26,11 +26,53 @@ adaderanasinhalalk | 7,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,337 (99.4%) of 43,589 articles have been extended.
+43,341 (99.4%) of 43,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### Sri Lankan caught using forged Malaysian passport at Thai border
+
+*2024-09-12 19:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101925/sri-lankan-caught-using-forged-malaysian-passport-at-thai-border) · `en`
+
+The Kedah Immigration Department arrested a Sri Lankan national for possessing a forged Malaysian passport at the Malaysia-Thailand border checkpoint in Bukit Kayu Hitam yesterday.
+
+Its director, Mohd Ridzzuan Mohd Zain, said the 21-year-old foreigner was detained at the Immigration, Customs, Quarantine and Security (ICQS) Complex while attempting to cross into Thailand using a passport bearing the name ‘Raja Danny Denis’.
+
+“The man was detained while trying to cross into Thailand by impersonating a Malaysian citizen. However, he was immediately detained after checks showed that his passport was invalid,” he said today.
+
+Ridzzuan said the suspect is being investigated under the Immigration Act for entering and staying in the country without a valid travel document.
+
+He acknowledged that the arrest has sparked concerns about the growing threat of international travel document forgery syndicates involved in scams, human trafficking, and cross-border crimes.
+
+...
+
+[Data](articles/c256625f.json)
+
+[Extended Data](ext_articles/c256625f.ext.json)
+
+---
+
+### Sajith Premadasa says the rich will pay more if he becomes President
+
+*2024-09-12 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101924/sajith-premadasa-says-the-rich-will-pay-more-if-he-becomes-president) · `en`
+
+Sri Lanka’s opposition leader contesting the presidential election next week said Thursday that if he comes to power he will renegotiate with the International Monetary Fund the 2022 economic reforms package to ensure that the rich pay more taxes and the poor see their conditions improve.
+
+The reforms were introduced after Sri Lanka defaulted on its foreign debt creating the worst economic crisis in its history.
+
+Sajith Premadasa, the opposition leader in Parliament told The Associated Press in an interview that his party has already started discussions with the IMF to find ways to ease the tax burden on the people.
+
+“We will be embarking on the third path, the middle path, the path is where wealth is created, the country grows and the wealth is equitably distributed,” Premadasa said.
+
+...
+
+[Data](articles/a42b5008.json)
+
+[Extended Data](ext_articles/a42b5008.ext.json)
+
+---
 
 ### North East will not be connected; Namal confirmed
 
@@ -2449,57 +2491,5 @@ Another meeting of the Dilith Ganga Samaga
 [Data](articles/4cf1c1f6.json)
 
 [Extended Data](ext_articles/4cf1c1f6.ext.json)
-
----
-
-### Sri Lanka state worker wage cost to rise 0.2-pct to 3.8-pct of GDP in 2025
-
-*2024-09-12 07:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-worker-wage-cost-to-rise-0-2-pct-to-3-8-pct-of-gdp-in-2025-179317/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s public sector wage bill will rise to 0.2 percent to 3.8 percent in 2025, under increments proposed by a committee, the Finance Ministry has said.
-
-In 2023, the public sector wage bill was 3.4 percent of GDP down from 4.0 percent in 2022 and it rose to 3.6 percent in 2024, the statement said.
-
-Under proposed increments it will rise to 3.8 percent in 2024 which will be below the 2022 level.
-
-But tax revenue are expected to go to 15 percent, with motor vehicle imports also relaxed.
-
-The salary hike would be made within the recurrent primary expenditure (before interest), of 12.7 percent of GDP.
-
-As a result Sri Lanka would be able to run a primary surplus of 2.3 percent of GDP in 2025 under the IMF program.
-
-It was not possible to increase the salary again in 2023 as Sri Lanka had to keep within the IMF program targets and it can only be done in 2025 as revenues improve, the Finance Ministry said.
-
-...
-
-[Data](articles/0523bc2c.json)
-
-[Extended Data](ext_articles/0523bc2c.ext.json)
-
----
-
-### “Violence may explode after September 18”
-
-*2024-09-12 07:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டம்பர்-18க்கு-பின்-வன்முறைகள்-வெடிக்கலாம்/175-343653) · `ta`
-
-"National People's Power warns of potential violence after election campaign deadline. Opposition denies claims, accuses NPP of plotting. Security forces urged to investigate threats."
-
-🟩
-
-The National People's Power (NPP) said that after the deadline for the campaign campaign on September 18, the opposition could use their conspirators as national power and create violent incidents.
-
-“Opposition politicians continue to claim that the NPP will create violent incidents in the country. "We are skeptical that these politicians will explode and claim that they have done the national power," said JVP general secretary Dilvin Silva at a press conference yesterday.
-
-Silva has requested the security forces to take action against the culprits, finding out how it was known to them, from those who claim that such incidents.
-
-“Election campaigns cannot be carried out after September 18. Media companies will face difficulties to talk about political parties during that period.
-
-We are doubtful whether these politicians will use their conspirators as NPP and create violent incidents. This is not a big issue for those who created Easter attack to bring Gotabhaya Rajapaksa to power. ”
-
-◼️
-
-[Data](articles/d521f94c.json)
-
-[Extended Data](ext_articles/d521f94c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 21:08:47**
+As of **2024-09-12 21:22:08**
 
 ## Newspaper Stats
 
-*Scraped **43,595** Articles*
+*Scraped **43,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 427
 islandlk | 2,542
 economynextcom | 2,659
 dailyftlk | 2,899
-adalk | 4,038
+adalk | 4,039
 dailymirrorlk | 4,733
 adaderanalk | 5,115
 tamilmirrorlk | 5,675
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,443
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,367 (99.5%) of 43,595 articles have been extended.
+43,378 (99.5%) of 43,596 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -357,6 +357,24 @@ Sri Lanka and New Zealand will be played between Sri Lanka and New Zealand, as w
 [Data](articles/a2e81c8b.json)
 
 [Extended Data](ext_articles/a2e81c8b.ext.json)
+
+---
+
+### ඉඩම් හා පොලිස් බලතල දෙන්න බැරිබව නාමල් යාපනයේදීම කියයි
+
+*2024-09-12 18:12:07* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-හා-පොලිස්-බලතල-දෙන්න-බැරිබව-නාමල්-යාපනයේදීම-කියයි/11-411922) · `si`
+
+ශ්‍රී ලංකා පොදු ජන පෙරමුණේ ආණ්ඩුවක් යටතේ උතුරු නැඟෙනහිර ඒකාබද්ධ නොකරන බවත්  ඉඩම් හා පොලිස් බලතල ලබා නොදෙන බවත් නාමල් රාජපක්ෂ පැවසීය.
+
+ඔහු මේ බව ප්‍රකාශ කලේ අද 12/09/2024 යාපනයේදී මාධ්‍යවේදීන් විසින් අසන ලද ප්‍රශ්නයකට පිලිතුරු දෙමිනි.
+
+වැඩිදුරටත් අදහස් දැක්වූ නාමල් රාජපක්ෂ පැවසුවේ බෞද්ධ රටක සියලු ආගම්, භාෂා සහ ජනතාව ආරක්‍ෂා කරන බවත්ය.
+
+කෙටිකාලීන වරප්‍රසාද, වරදාන හා තනතුරු වෙනුවෙන් රටත්, පක්ෂයත් කිසිදා පවා නොදෙන බවත්. පැවසූ නාමල් රාජපක්ෂ  තමන් අභියෝගවලට බිය නොවන බවද පැවසීය.
+
+◼️
+
+[Data](articles/e1f7c5b3.json)
 
 ---
 
@@ -2469,25 +2487,5 @@ Police said about three stones were thrown over the meeting hall. Remble
 [Data](articles/f3a91f44.json)
 
 [Extended Data](ext_articles/f3a91f44.ext.json)
-
----
-
-### Peru’s Fujimori, divisive head of political dynasty, dies age 86
-
-*2024-09-12 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101908/perus-fujimori-divisive-head-of-political-dynasty-dies-age-86) · `en`
-
-Former Peruvian president Alberto Fujimori, who steered economic growth during the 1990s but was later jailed for human rights abuses stemming from a bloody war against Maoist rebels, died on Wednesday. He was aged 86.
-
-Close colleagues visited him earlier in the day, reporting that he was in a critical condition.
-
-“After a long battle with cancer, our father... has just departed to meet the Lord,” his daughter Keiko Fujimori wrote in a message on X, also signed by the former leader’s other children.
-
-Fujimori, the son of Japanese immigrants, was the little-known chancellor of a farming university when elected to office in 1990. He quickly established himself as a cunning politician whose hands-on style produced results even as he angered critics for concentrating power.
-
-...
-
-[Data](articles/a9e7bd5a.json)
-
-[Extended Data](ext_articles/a9e7bd5a.ext.json)
 
 ---

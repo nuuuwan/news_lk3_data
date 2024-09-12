@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 16:22:15**
+As of **2024-09-12 16:37:51**
 
 ## Newspaper Stats
 
-*Scraped **43,518** Articles*
+*Scraped **43,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,97 @@ dailyftlk | 2,899
 adalk | 4,031
 dailymirrorlk | 4,733
 adaderanalk | 5,110
-tamilmirrorlk | 5,666
-virakesarilk | 6,867
-adaderanasinhalalk | 7,436
+tamilmirrorlk | 5,668
+virakesarilk | 6,897
+adaderanasinhalalk | 7,437
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,248 (99.4%) of 43,518 articles have been extended.
+43,259 (99.3%) of 43,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### Vadivelu - Sundar C Alliance
+
+*2024-09-12 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193507) · `ta`
+
+Vadivelu joins Sundar C's "Gangers" film. Crew releases first look. Starring Katherine Teresa, Maim Gopi. Produced by Khushboo. Directed by Sundar C. Fans excited about Vadivelu's new look and Sundar C's performance.
+
+🟩
+
+Vaikaippul Vadivelu has joined the new film 'Gangers' directed by director and actor Sundar C.
+
+The film crew has made the official announcement of the film by releasing the first look of the film.
+
+Directed by director Sundar C, directed by director Sundar C, 'Gangers' has starred in Sundar C, Vadivelu, Katherine Teresa, Maim Gopi, Bhagwati Perumal, Harish Peradi, Aruldas, Muniskant, Vichu Viswanath.
+
+Khushboo is producing the film on behalf of Avni Cine Max Private Limited.
+
+The film is being delivered by ACS Arun Kumar on behalf of Benz Media Limited.
+
+Vaigai Storm Vadivelu's different appearance and Sundar C's roar have attracted a lot of fans.
+
+◼️
+
+[Data](articles/61c21610.json)
+
+[Extended Data](ext_articles/61c21610.ext.json)
+
+---
+
+### Sri Lanka to arrive in Sri Lanka
+
+*2024-09-12 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200949) · `si`
+
+Sri Lanka cricket team arrives in England for 3-test series. Led by Dhananjaya de Silva, they won one match but lost others due to shortcomings. Team aims to perform better in upcoming New Zealand tour.
+
+🟩
+
+Dhananjaya De Silva, led by Dhananjaya de Silva, arrived in England to a tour of England for a 3-match Test series.
+
+Sri Lanka had to defeat 2-1-1 in this tournament.
+
+However, the only victory for Sri Lanka is the first Test to receive England after 10 years.
+
+Leader Dananjaya de Silva said that he was deprived of victories due to several shortcomings in the first two matches.
+
+But his team was able to finish the tournament well.
+
+Dhananin said that the coming New Zealand competition commented that the tournament was looking forward to playing well.
+
+A group of SLC officials were also present at the Katunayake airport to welcome the Sri Lankan team.
+
+◼️
+
+[Data](articles/8dc41d1d.json)
+
+[Extended Data](ext_articles/8dc41d1d.ext.json)
+
+---
+
+### Notification for Election Date for Elpitiya
+
+*2024-09-12 15:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டியவுக்கான-தேர்தல்-திகதி-அறிவிப்பு/175-343674) · `ta`
+
+Elpitiya local election: Nominations filed from 9th to 12th. Second generation party submits, but People's Congress does not participate.
+
+🟩
+
+The filing of nominations for the Elpitiya Local Government election began on the 9th and ended on Thursday (12) at 12 noon.
+
+௯. It is noteworthy that the second generation party has submitted its nominations and the People's Congress, which has been controlled, did not submit its nomination.
+
+◼️
+
+[Data](articles/ef305fd1.json)
+
+[Extended Data](ext_articles/ef305fd1.ext.json)
+
+---
 
 ### ‘Where were Sajith and Anura while farmers suffered without fertilizer?’ – Ranil
 
@@ -49,6 +127,88 @@ The President highlighted that his efforts, including discussions with world lea
 [Data](articles/95df491d.json)
 
 [Extended Data](ext_articles/95df491d.ext.json)
+
+---
+
+### Elpitiya Pradeshiya Sabha election on October 26
+
+*2024-09-12 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193506) · `ta`
+
+Elpitiya Pradeshiya Sabha election: Oct 26, 9 parties + 2 independents nominated. Deadline met at noon.
+
+🟩
+
+Elections for the Elpitiya Pradeshiya Sabha will be held on October 26, Galle District Election Officer said.
+
+The deadline for handing over the nominations for the Elpitiya Pradeshiya Sabha was completed at 12 noon today (12).
+
+Accordingly, a total of 09 registered political parties and 02 independent groups had handed over nominations.
+
+◼️
+
+[Data](articles/2ba90dbd.json)
+
+[Extended Data](ext_articles/2ba90dbd.ext.json)
+
+---
+
+### Hurricane Yagi;The number of casualties in Vietnam increases to 197
+
+*2024-09-12 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/193498) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Yagi hurricane hits Vietnam: 197 deaths, 800 injuries, 125 missing. Floods in Hanoi, landslides in northern provinces. Strongest storm in Southeast Asia in decades. Climate change likely intensified it.
+
+🟩
+
+In Vietnam, 200 people have died in a sudden flood and a landslide caused by the Yagi hurricane and over 125 people have disappeared.
+
+This was reported by the media on Thursday (12). 800 people have been injured.
+
+The water from the Red River in the Vietnam capital, Hanoi, has been flooded, despite the slightest fall.
+
+The Yagi hurricane has been seen as the most powerful hurricane that hit Southeast Asia after decades.
+
+The hurricane crossed the shore on Saturday with wind at 149 km (92 miles).
+
+In this case, the cyclone has been weakened on Sunday, but the continuous rainfall has increased the water level in the rivers.
+
+Hanoi is said to have been severely affected by the floods in the last two decades.
+
+Last Tuesday, many people were swept away by the floods in the Long Nuu area of ​​Lao Kai province of North Vietnam.
+
+The search for them began yesterday Wednesday. As of Thursday morning, 53 people were missing and 8 bodies were found.. Vnexpress said 42 died.
+
+...
+
+[Data](articles/2ebe5e5f.json)
+
+[Extended Data](ext_articles/2ebe5e5f.ext.json)
+
+---
+
+### Namal Rajapaksa's campaign meeting held in Jaffna
+
+*2024-09-12 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193497) · `ta`
+
+Namal Rajapaksa's campaign meeting in Jaffna: Supporters welcomed him at Weerasingham Hall. Attended by local PA officials and supporters from across the country.
+
+🟩
+
+The election campaign at the Weerasingham Hall in Jaffna has begun in support of Namal Rajapaksa, who is the presidential candidate on behalf of the Sri Lanka PA.
+
+At the beginning of the event, campaign events began as Namal Rajapaksa was given a great welcome by PA's supporters.
+
+The campaign was attended by the Jaffna district organizer of the PA and the organizers, supporters and the public from other parts of the country.
+
+◼️
+
+[Data](articles/bdc6f02b.json)
+
+[Extended Data](ext_articles/bdc6f02b.ext.json)
 
 ---
 
@@ -312,6 +472,34 @@ At the same time, the total number of tourists visiting Sri Lanka last year was 
 
 ---
 
+### Change in the arrival of tourists
+
+*2024-09-12 13:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-பயணிகளின்-வருகையில்-மாற்றம்/175-343668) · `ta`
+
+Sri Lanka tourist arrivals: 14 lakh this year, 1.4 million Jan-Sep, peak Feb 218k, over 200k Jan-Mar. Top countries: India, UK, Russia, Germany, China. Last year: 1.5 million visitors.
+
+🟩
+
+The number of foreign tourists who arrived in Sri Lanka this year is close to 14 lakhs.
+
+The total number of tourists visiting Sri Lanka from January 1 to 8 September is 1,395,773, the Sri Lanka Tourism Development Authority said.
+
+In addition, a large number of tourists came to the country in last February. Their number is 218,350.
+
+Also, more than 200,000 tourists arrived in January and March.
+
+Meanwhile, most tourists from India, Britain, Russia, Germany and China have come to the country.
+
+At the same time, the total number of tourists visiting Sri Lanka last year was 1,487,303.
+
+◼️
+
+[Data](articles/7014870b.json)
+
+[Extended Data](ext_articles/7014870b.ext.json)
+
+---
+
 ### Six including Indian arrested at BIA over attempt to smuggle foreign liquor, cigarettes
 
 *2024-09-12 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101916/six-including-indian-arrested-at-bia-over-attempt-to-smuggle-foreign-liquor-cigarettes-) · `en`
@@ -355,6 +543,62 @@ He was speaking at a rally held rally in Kandy.
 [Data](articles/bfa082d1.json)
 
 [Extended Data](ext_articles/bfa082d1.ext.json)
+
+---
+
+### The shooting of the untitled movie starring Arjun Das completed
+
+*2024-09-12 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193494) · `ta`
+
+"Untitled Arjun Das film completes shoot. Stars Arjun Das, Aditi Shankar. Directed by Vignesh Srikanth. Produced by Yuvraj Ganesan. Post-production begins soon."
+
+🟩
+
+Arjun Das, the leading star actor of the Tamil film industry, has been enthusiastically announced by the film crew to release the film 'Production Number 4', which has been shot in the film 'Production Number 4'.
+
+Arjun Das and Aditi Shankar are starring in the unnamed film directed by debutant director Vignesh Srikanth.
+
+The film, which has been recorded by Arvind Viswanathan, has produced the producer Yuvraj Ganesan on behalf of Million Studios.
+
+The film crew has said that the post -shooting technical work will begin soon, followed by the film's title and first look.
+
+◼️
+
+[Data](articles/136ce808.json)
+
+[Extended Data](ext_articles/136ce808.ext.json)
+
+---
+
+### Measurement Corporation to improve stabilizer through new financial solutions in the private sector
+
+*2024-09-12 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193479) · `ta`
+
+Here's a 200-character summary:
+
+
+
+UNDP Sri Lanka workshop improves private sector stability through sustainable finance solutions. Emphasizes ESG capacity building, green finance, and aligning with SDGs. Calls for collaboration between UN agencies, private sector, and financial institutions to promote sustainable development in Sri Lanka.
+
+🟩
+
+United Nations Development Program in Sri LankaCombined with the two -day workshop in Colombo, a two -day workshop in Colombo, a two -day workshop.
+
+The event was designed to explain the need to coordinate the strategic structure of the business in Sri Lanka.
+
+Emphasizing the transformation of the sustainable financial support, he said:
+
+It is inevitable that the business environment is revealed under the influence of climate change, the definitions of resources and the social values ​​that change. ”Said.
+
+The event showed the importance of being stabilized in daily activities. This will facilitate Sri Lankan companies to attract the protocol consumers, to improve their trade fossil, to comply with exposure regulations, and to access sustained investment opportunities.
+
+Senior Vice President of the Business Division of the Colombo Stock Exchange
+
+...
+
+[Data](articles/90fffc30.json)
+
+[Extended Data](ext_articles/90fffc30.ext.json)
 
 ---
 
@@ -407,6 +651,60 @@ Sajith Premadasa made these comments participating at a convention in Colombo wi
 [Data](articles/250a7e78.json)
 
 [Extended Data](ext_articles/250a7e78.ext.json)
+
+---
+
+### Investor Forum in Batticaloa to highlight alternative investment opportunities!
+
+*2024-09-12 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193474) · `ta`
+
+Colombo Stock Exchange organizes Investor Forum in Batticaloa, highlighting alternative investment opportunities. 75 participants learn about Sukuks, green bonds, and Sharia-compliant securities. Industry experts discuss environmental stability and advanced financial strategies. Interactive Q&A session concludes the event.
+
+🟩
+
+The Colombo Stock Exchange (CSE) was organized on September 8, 2024 at the Beesway Hotel in Kattankudi.
+
+The House aims to reveal alternative investment opportunities for investors in the region and provide sophisticated knowledge of the market.
+
+The forum attracted 75 participants, providing potential and valuable intelligence to the existing investors in the region regarding debt networking networks such as Sukuks, Green and Sustainable Forms.
+
+Sivanandan Raman Muthukrishnan, Manager of the Batticaloa Branch of the Colombo Stock Exchange, launched the event with comments on the importance of examining the new investment routes.
+
+Senior Vice President Naluba Perera, Senior Vice President of the Broker Supervisory and Listed Corporate Agreement in the Colombo Stock Exchange, presented the first highlight of the forum.
+
+He focused on the role of these images and their potential benefits to investors in promoting environmental stability.
+
+...
+
+[Data](articles/2ef84d0a.json)
+
+[Extended Data](ext_articles/2ef84d0a.ext.json)
+
+---
+
+### Memorandum of Understanding (Memorandum of Understanding) to Opening Investment Investment Accounts for Foreign Individuals in Sri Lanka
+
+*2024-09-12 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193487) · `ta`
+
+Colombo Stock Exchange and DFCC Bank sign MOU to streamline opening of investment accounts for foreign individuals in Sri Lanka, simplifying the investment process and strengthening capital markets.
+
+🟩
+
+The Colombo Stock Exchange (CPP) and DFCC Bank PLC (DFCC) have recently signed a Memorandum of Understanding (MOU) to improve the launch of the Foreign Individuals (FIS) Investment Accounts (IIAS) in Sri Lanka.
+
+This joint effort will make the need for foreign individuals to open an internal investment accounts when it opens the Central Deposit Scheme (CDS) accounts through the mobile processor of the Colombo Stock Exchange.
+
+The necessary application information will be transferred between the Colombo Stock Exchange and the DFCC Bank to ensure that a repetitive and compatible account is opened.
+
+This stock is trying to simplify the investment process and strengthen Sri Lanka's capital markets by attracting a wide range of international investors.
+
+The Chief Executive Officer of the Colombo Stock Exchange, Rajeeva Bandaranaike said,
+
+...
+
+[Data](articles/437d262c.json)
+
+[Extended Data](ext_articles/437d262c.ext.json)
 
 ---
 
@@ -500,6 +798,26 @@ The institute is to be implemented to implement the certificate courses, Diploma
 
 ---
 
+### ஜனாதிபதி தேர்தல் ; தவறான தகவல்கள் பகிரப்படுவதை தடுக்கும்  டிக்டொக்
+
+*2024-09-12 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193477) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தல் தொடர்பில் தவறான தகவல்கள் பகிரப்படுவதை தடுக்க டிக்டொக் தயாராகி வருகிறது.
+
+அந்தவகையில், தேர்தல் தொடர்பில் பகிரப்படும் உள்ளடக்கங்களை சரிபார்க்க IFCN-அங்கீகாரம் பெற்ற நியூஸ்செக்கர் (Newschecker) தகவல் சரிப்பார்த்தல் அமைப்புடன் டிக்டொக் கைக்கோர்த்துள்ளது.
+
+அத்தோடு, டிக்டொக் இலங்கை தேர்தல் மையத்தையும் அறிமுகப்படுத்தியுள்ளது. இந்த தேர்தல் மையம்  ஆங்கிலம், சிங்களம் மற்றும் தமிழ் மொழிகளில் தனது சேவைவை வழங்குகிறது.
+
+இந்நிலையில், டிக்டொக்கின் உண்மை சரிப்பார்த்தல் வழிகாட்டுதல்களை மீறும்  தகவல்களை அகற்றுதல், பகிரப்படுவதை கட்டுப்படுத்தல் மற்றும்  நம்பகமான ஆதாரங்களுக்கு தேடல்களுக்கு வழிகாட்டல் ஆகியவற்றை செயற்படுத்தும்.
+
+வெளிப்படைத்தன்மை மற்றும் நேர்மையான தேர்தல் முறையை பேணுவதற்கு பாதுகாப்பான அமைப்புகள் மற்றும் சிவில் சமூக அமைப்புகளுடன் இந்த தளம் தொடர்ந்து செயற்படும்.
+
+◼️
+
+[Data](articles/08aa3d10.json)
+
+---
+
 ### Fr petition in court about the loss caused by the reduction of sugar
 
 *2024-09-12 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200940) · `si`
@@ -549,6 +867,26 @@ The suspects are 30/44 years old and the two suspects will be between 24/29, pol
 [Data](articles/1ba67ff0.json)
 
 [Extended Data](ext_articles/1ba67ff0.ext.json)
+
+---
+
+### மலேசியாவின் சிறுவர் பராமரிப்பு நிலையங்களில்  மோசமான துஸ்பிரயோகங்கள் - 402 சிறுவர்கள் மீட்பு
+
+*2024-09-12 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193478) · `ta`
+
+மலேசியாவின் 20 சிறுவர் பராமரிப்பு நிலையங்களில் உடல்ரீதியாக பாலியல்ரீதியாக துஸ்பிரயோகத்திற்கு உட்படுத்தப்பட்டனர் என கருதப்படும் 402 சிறுவர்களையும் பதின்மவயதினரையும் பொலிஸார் மீட்டுள்ளனர்.
+
+ஒரு வயது முதல் 17 வயதானவர்களை மீட்டுள்ளோம் இவர்கள் பல்வேறுவிதமான துஸ்பிரயோகங்களை எதிர்கொண்டுள்ளனர் என பொலிஸ் அதிகாரியொருவர் தெரிவித்துள்ளார்.
+
+சிறுவர் பராமரிப்பு நிலையங்கள் பிரபலமான இஸ்லாமிய அமைப்புடன் தொடர்புடையவை என்பது குறிப்பிடத்தக்கது எனினும் அந்த அமைப்பு தனக்கும் இதற்கும் தொடர்பில்லை என தெரிவித்துள்ளது.
+
+நெகேரிசெம்பிலான் மாநிலத்தில் சிறுவர் பராமரிப்பு நிலையங்களில் சிறுவர் துஸ்பிரயோகம் இடம்பெறுவதாக வெளியான தகவல்களை தொடர்ந்து செலெங்கூர் நெகெரி செம்பிலானில் உள்ள 20க்கும் மேற்பட்ட சிறுவர் பராமரிப்பு நிலையங்களில் பொலிஸார் சோதனை நடவடிக்களை முன்னெடுத்திருந்தனர்.
+
+17 முதல் 64 வயதான சந்தேகநபர்கள் சிறுவர்களை பல்வேறுவிதமான துஸ்பிரயோகங்களிற்கு உட்படுத்தினார்கள் என பொலிஸ் அதிகாரியொருவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/7e1a519d.json)
 
 ---
 
@@ -639,6 +977,22 @@ The total number of tourists arrived in Sri Lanka last year was 1,487,303.
 [Data](articles/a86f83c4.json)
 
 [Extended Data](ext_articles/a86f83c4.ext.json)
+
+---
+
+### வலிந்து காணாமலாக்கப்பட்டோரின் பிரச்சினைக்கு எதிர்வரும் 3 வருடங்களுக்குள் நிரந்தரத் தீர்வு : ஜனாதிபதி
+
+*2024-09-12 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193473) · `ta`
+
+வலிந்து காணாமலாக்கப்பட்டோரின் பிரச்சினைக்கு எதிர்வரும் 3 வருடங்களுக்குள் நிரந்தரத் தீர்வு வழங்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+இன்றையதினம் ஊடகவியலாளர்களை கொழும்பில் சந்தித்து அவர்களின் கேள்விகளுக்கு பதிலளிக்கையிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+குறிப்பாக வலிந்து காணாமல் ஆக்கப்பட்டவர்கள் தொடர்பில் பொறுப்புக்கூறுதல், நிதி வழங்குதல் போன்ற செயற்பாடுகளை முன்னெடுக்கவுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க இதன் போது மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/4095e0ed.json)
 
 ---
 
@@ -921,6 +1275,24 @@ The company has been recruited by Western Automobile Eshemebar Eshemebar Lirm, i
 [Data](articles/5dd1a8ea.json)
 
 [Extended Data](ext_articles/5dd1a8ea.ext.json)
+
+---
+
+### ஜே.வி.பி. திசைகாட்டியின் பின் மறைந்தாலும் மணியையும் சிவப்பு நிறத்தையும் கைவிடவில்லை - திலும் அமுனுகம
+
+*2024-09-12 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/193454) · `ta`
+
+வெளிநாடுகளுக்கு தப்பிச் செல்வதற்காக அரசாங்கத்தின் பதிவு செய்யப்பட்ட குற்றவாளிகள் பாஸ்போர்ட் போட்டோவை மாற்றி வேறு பெயரில் விசா பெற்று செல்வதுபோன்று  இன்று இதே திட்டத்தை மக்கள் விடுதலை முன்னணி (ஜே .வி.பி ) திசைகாட்டி என தனது முன்னைய முகத்தை மறைத்து, அவ்வாறான வேலைத்திட்டத்தை பின்பற்றி மக்களிடம் வலம் வருவதாக முதலீட்டு ஊக்குவிப்பு இராஜாங்க அமைச்சர் திலும் அமுனுகம தெரிவித்துள்ளார்.
+
+ஜே.வி.பி தனது நிறத்தையும் அடையாளத்தையும் மாற்றிக் கொண்டு திசைகாட்டியில் இருந்து மறைந்தாலும் அவர்கள் மணியையும் சிவப்பு நிறத்தையும் கைவிடவில்லை என்றும் அவர் கூறினார்.
+
+சுயேட்சை வேட்பாளர் ரணில் விக்கிரமசிங்கவை ஆதரித்து கண்டி ஈ. எல். சேனாநாயக்க நூலக கேட்போர் கூடத்தில் செவ்வாய்க்கிழமை (10) நடைபெற்ற கூட்டத்தில் இவ்வாறு தெரிவித்தார்.
+
+அரசியல் மேடைகளில் ரணில் விக்கிரமசிங்கவுக்கு முதுகெலும்பு இல்லை என்று நாம் எப்போதும் கூறி வருகிறோம். நாடு ஆபத்தில் இருக்கும் போது ரணில் விக்கிரமசிங்க நாட்டைப் பொறுப்பேற்காமல் இருந்திருந்தால் இன்று பங்களாதேஷ் எதிர்கொண்டிருக்கும் கதியை எமது நாடும் சந்தித்திருக்கும்.
+
+...
+
+[Data](articles/3fd0ff31.json)
 
 ---
 
@@ -1831,261 +2203,5 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/47bf52b0.json)
-
----
-
-### Bargain hunters exploit share price drop in blue chip counters
-
-*2024-09-11 22:41:00* · [`islandlk`](http://island.lk/bargain-hunters-exploit-share-price-drop-in-blue-chip-counters/) · `en`
-
-The stock market yesterday was marginally up because of the heavy engagement of bargain hunters in the market who exploited the price drop in mainly blue-chip counters, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 3.5 points while the S and P SL20 rose by 5.3 points. Turnover stood at Rs 1 billion with a crossing. The crossing was reported in Commercial Bank which crossed 1.7 million shares to the tune of Rs 130 million; its shares traded at Rs 80.
-
-...
-
-[Data](articles/3b3cb9f4.json)
-
----
-
-### බුදුදහම බබළවමින් සෙසු ආගම්වලට නිසි තැන - සජිත්
-
-*2024-09-11 22:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200924) · `si`
-
-බුදුදහම බබළවමින් සෙසු ආගම්වලට ද නිසි තැන ලබාදීම තම අපේක්ෂාව බව සමගි ජන බලවේගයේ ජනපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
-
-ඔහු මෙම අදහස් පළ කළේ අද (11) කොළඹ පැවති ජාතික භික්ෂූ උපදේශක සභාවේ මහසඟ සමුළුව අමතමිනි.
-
-සැමට සෙත් - සසුන සුරකිමු, දැය නගමු යන මැයෙන් ජාතික භික්ෂූ උපදේශක සභාව සංවිධානය කළ මහසඟ සමුළුව සමගි ජන බලවේගයේ ජනාධිපති ධූර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වුණි.
-
-◼️
-
-[Data](articles/4f3b655d.json)
-
----
-
-### The Incident & Issues Of Academic Freedom: The Losing South Asian Character Of SAU
-
-*2024-09-11 22:31:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-incident-issues-of-academic-freedom-the-losing-south-asian-character-of-sau/) · `en`
-
-Silence And Choreographed Timidity at South Asian University: Interview of Sasanka Perera by Anushka Kahandagamage and Kaushalya Kumarasinghe.
-
-[Sri Lankan academic Sasanka Perera, left the South Asian University on 31 July 2024 which he had helped establish as a SAARC institution. His leaving was consequent to a targeted attack against him as the only Sri Lankan scholar in the university and one of handful of non-Indian teachers in a heavily Indian dominated space. Perera’s leaving and the widespread global coverage it received is significant black mark against academic freedom in India in general. It also marks the steady Indianization of the South Asian University which was meant to be a place of teaching and reflection for all South Asians. In this wide ranging interview, two former South Asian University students, Anushka Kahandagamage based in New Zealand and Kaushalya Kumarasinghe based in Sri Lanka speak to Perera at length about the incidents itself and its circumstances.]
-
-...
-
-[Data](articles/b3de2c8b.json)
-
----
-
-### කෙහෙළිය ට ඇප ලැබුණේ ඇයි ? සම්පූර්ණ විස්තරේ
-
-*2024-09-11 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200922) · `si`
-
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මෙරට රෝහල් පද්ධතිය තුළ බෙදාහැරීම සම්බන්ධයෙන් මාස 6කට අධික කාලයක් රක්ෂිත බන්ධනාගාරගතව සිටි 08වන සැකකරු වන හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා, 07වන සැකකාර සෞඛ්‍ය අමාත්‍යංශයේ හිටපු නියෝජ්‍ය අධ්‍යක්ෂ හේරත් කුමාර, 12වන සැකකාර ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිළධාරී වෛද්‍ය විජිත් ගුණසේකර යන අය ඇප මත මුදාහැරීමට මළිගාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය අද (11) නියෝග කළාය.
-
-ඒ, ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මෙරට රෝහල් පද්ධතිය තුළ බෙදාහැරීමේ සිද්ධිය සම්බන්ධයෙන් වන නඩුව මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හමුවේ අද යළි කැඳවූ අවස්ථාවේදී ය.
-
-ඒ අනුව සැකකරුවන් දැඩි මානසික ආතතියකට ලක්වී ඇති බවත් දරුණු මානසික රෝගී තත්ත්වයකට මුහුණ පා ඇති බවත් නිගමනය කළ මහෙස්ත්‍රාත්වරිය වෙන් වෙන් වශයෙන් රුපියල් ලක්ෂයක මුදල් ඇපයක් සහ රුපියල් ලක්ෂ 50ක මුදල් ඇප දෙකක් මත සැකකරුවන් මුදා හැරුණි.
-
-...
-
-[Data](articles/ee23fc06.json)
-
----
-
-### Anton Roux steps down as Sri Lanka fielding coach
-
-*2024-09-11 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101905/anton-roux-steps-down-as-sri-lanka-fielding-coach) · `en`
-
-Sri Lanka men’s cricket team fielding coach, Anton Roux, announced that he is stepping down from his position.
-
-Roux, a former South African first-class cricketer and former coach of the Netherlands, took on the role with Sri Lanka in March 2022.
-
-“On the 14th of August 2024, I decided to step down from my role as the National Fielding Coach for Sri Lanka Cricket. This week will be my last with SLC as I finish my handover. It has been an immense honour and a truly humbling experience to serve the Sri Lankan national cricket team. I will forever cherish the memories and experiences that came with this journey.”
-
-...
-
-[Data](articles/265713be.json)
-
----
-
-### තරුණ තරුණියන්ට රනිල් පෙන්වූ ඉලක්කය
-
-*2024-09-11 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200921) · `si`
-
-තවත් වසර 20ක් ගතවන විට ශ්‍රී ලංකාව සංවර්ධිත රටක් බවට පත් වන බවට තාරුණ්‍යයට විශ්වාසයක් ඇති වියයුතු බව ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පවසයි.
-
-ඔහු මේ බව පැවසුවේ තිරුක්කෝවිල් හිදී අද (11) පැවති ජන හමුවක් අමතමිනි.
-
-එම අපේක්ෂිත දියුණුව සජිත් ප්‍රේමදාසට හෝ අනුර කුමාර දිසානායකට සිදුකළ නොහැකි බවත් ඔවුන් බලයට පැමිණියහොත් පවතින් ආර්ථිකය ද කඩා වැටෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
-
-"නව තාක්ෂණයත් එක්ක තිරුක්කෝවිල්වල කෘෂිකර්මය අපි දියුණු කරනවා කියලා මම කියන්න කැමතියි. මුහුදෙන් ප්‍රයෝජන ගන්න ධීවර අංශය දියුණු කරන්න... මෙහෙ තියන ඛනිජ වැලිවලින් ඒ කර්මාන්තය දියුණු කරන්න.. සංචාරක ව්‍යාපාරයත් තිරුක්කෝවිල්වලට ගෙන්න... අලුත් ආර්ථිකයක් තිරුක්කෝවිල්වලට දෙන්න... මේ පළාත් සභාව තවත් ශක්තිමත් කරන්න... ඒ සංවර්ධන කටයුතු බලතල දෙන්න.... ඒකයි ඔබට දෙන්න ඕනේ අනාගතය. ඒ අනාගතය දෙන්න ඕනේ තරුණයන්ට."
-
-...
-
-[Data](articles/0db3d343.json)
-
----
-
-### The Leadership Of President RW & AKD
-
-*2024-09-11 21:15:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-leadership-of-president-rw-akd/) · `en`
-
-Ranil Wickremesinghe (RW) has been with the parliament for about 47 years. Without support from the voters, he became president in 2022 because of his luck. He wants to stay in power, but his leadership is questioned by many, given his performance, particularly over the last two years. Anura Kumara Dissanayake (AKD) has been in the parliament for about 20 years and was a minister and the Chief Opposition Whip from 2015 to 2018. Both RW and AKD are presidential candidates. This article is a committed inquiry into the leadership qualities of RW and AKD so that voters can decide who to support to be the next president of Sri Lanka.
-
-...
-
-[Data](articles/75dc190e.json)
-
----
-
-### Sri Lanka wins several medals including 3 gold at South Asian Junior Athletics C’ships
-
-*2024-09-11 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101904/sri-lanka-wins-several-medals-including-3-gold-at-south-asian-junior-athletics-cships) · `en`
-
-Sri Lankan athletes have clinched a total of nine medals including three gold, three silver and three bronze on the opening day of the 4th South Asian Junior Athletics Championships 2024 in India on Wednesday (11).
-
-Accordingly, Sri Lanka’s Merone Wijesinghe won gold in the Men’s 100m final with a timing of 10.41 seconds while Dineth Weeraratna (10.49s) took silver in the same event.
-
-Meanwhile, Tharushi Abeyshika has won the gold medal while Sansala Himashini has secured the bronze in the Women’s 800m final.
-
-In the Men’s 800m final, Sri Lankan athlete Savindu Avishka has won the gold medal.
-
-Shanella Anne Wijetungage won bronze in the Women’s 100m final with a timing of 12.04s.
-
-In the Men’s shot put, A.W. Jayavi Ranhidha secured the bronze medal with a distance of 15.62m.
-
-The three-day South Asian Junior Athletics Championships kicked at the Jawaharlal Nehru Stadium in Chennai on Wednesday.
-
-The Sri Lankan team participating in the games comprises of 53 junior athletes.
-
-...
-
-[Data](articles/a94cc6e5.json)
-
----
-
-### ඉන්දියාවේදී වැඩ පෙන්වූ අපේ පොඩ්ඩෝ
-
-*2024-09-11 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200920) · `si`
-
-සිව්වැනි වරටත් පැවැත්වෙන දකුණු අසියානු කනිෂ්ඨ මලල ක්‍රීඩා තරගාවලිය ඉන්දියාවේ චෙන්නායි නුවරදි ඊයේ ආරම්භ විය.
-
-එහිදි පළමු දිනයේදීම ශ්‍රී ලංකා ක්‍රීඩක ක්‍රීඩිකාවන් දක්ෂතා අතරට පැමිණිමත් කැපී පෙනුනි.
-
-එහිදී ශ්‍රී ලංකාව වෙනුවෙනු පළමු රන් පදක්කම දිනා දෙන්නට කාන්තා මීටර 800 අවසන් තරගයට සහභාගී වු තරුෂි අභිෂේකා සමත් වුණාය.
-
-මෙම ඉසව්වේ ලෝකඩ පදක්කම තරගය මිනිත්තු 2යි තත්ත්පර 12යි දශම 13කින් අවසන් කළ ශ්‍රී ලංකාවේ සංසලා හිමාෂනි දිනාගත්තාය.
-
-මේ අතර පිරිමි මීටර 800 ධාවන ඉසව්වේ රන් පදක්කම ද දිනා ගන්නට ශ්‍රී ලංකාවේ සවිදු අවිශ්ක සමත් විය.
-
-තරගයේ ආරම්භයේ පටන් සවිදුට අභියෝගයක් එල්ල කරන්නට ඉන්දියානු ක්‍රීඩකයින් දෙදෙනා සමත් වුවත් තරගයේ අවසන් මීටර කිහිපයේදී තරගයේ ප්‍රතිඵලය වෙනස් කරන්නට සවිදු සමත් වුණේ ශ්‍රී ලංකාවට රන් පදක්කම දිනා දෙමිනි.
-
-මේ අතර කාන්තා උස පැනීමේ ඉසව්වේ ද රිදී පදක්කම දිනා ගන්නට කෂ්මිකා තිමේෂී සහ නේත්‍රා සමාධි සමත් වී තිබුණි.
-
-◼️
-
-[Data](articles/929b65da.json)
-
----
-
-### தனியார் துறையில் குறைந்தபட்ச சம்பளம் அதிகரிப்பு
-
-*2024-09-11 20:18:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-துறையில்-குறைந்தபட்ச-சம்பளம்-அதிகரிப்பு/175-343643) · `ta`
-
-தொழிலார்களின் எதிர்கால வைப்பு நிதி, அறக்கட்டளை நிதி மற்றும் பணிக்கொடை ஆகியவற்றில் செலுத்த வேண்டிய குறைந்தபட்ச வரையறையும்  உயர்த்தப்பட்டுள்ளது.
-
-தனியார் துறை ஊழியர்களுக்கான குறைந்தபட்ச அடிப்படை சம்பளத்தை 21,000 ரூபாவாக மாற்றும் சட்டமூலத்தில் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன இன்று (11) கையொப்பமிட்டுள்ளார்.
-
-இதன்பிரகாரம் , தொழிலார்களின்  எதிர்கால வைப்பு நிதி, ஊழியர் நம்பிக்கை நிதி மற்றும் பணிக்கொடைக்கான கொடுப்பனவுகளை வைப்பிலிடும்போது  இது குறைந்தபட்ச சம்பளமாக கருதப்பட வேண்டும் என்று தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சு  ஊடக அறிக்கை ஒன்றின் மூலம்  இன்று (11) தெரிவித்துள்ளது.
-
-இவ்வருடம்  செப்டெம்பர் மாதம் முதல், தனியார் துறை முதலாளிகள் தங்கள் தொழிலாளர்ளுக்கு தேசிய குறைந்தபட்ச சம்பளமாக 17,500 ரூபாயையும், 2005 ஆம் ஆண்டின் 36 மற்றும் 2016 ஆம் ஆண்டின் 4 ஆம் இலக்க வரவு செலவுத் திட்ட நிவாரணச் சட்டங்களின் மூலம் வழங்கப்பட்ட 3,500 ரூபாய்வுக்கு மேலதிகமாக 21,000 ரூபாய் குறைந்தபட்ச சம்பளத்தையும் வழங்குவார்கள்.
-
-...
-
-[Data](articles/a79b82ec.json)
-
----
-
-### It Is Time To Recognise & Denounce Inflammatory Journalism
-
-*2024-09-11 20:09:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/it-is-time-to-recognise-denounce-inflammatory-journalism/) · `en`
-
-Journalism is a profession dedicated to collecting, preparing, and disseminating news across various print and electronic media formats. However, with advancements in technology and the rise of social media, journalism has increasingly become a tool for manipulating public opinion through orchestrated presentations and misinformation. The creation and propagation of fake news have turned the media into a revenue-generating machine for opportunistic, ad-hoc journalists, especially during election seasons. This manipulation extends to tracking individual preferences for tailored advertisements and media content, influencing public perceptions and promoting specific agendas.
-
-...
-
-[Data](articles/620aecfd.json)
-
----
-
-### ‘AI’ Prefers Ranil As The Next President!
-
-*2024-09-11 20:07:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ai-prefers-ranil-as-the-next-president/) · `en`
-
-The author interrogated Chat-GPT at 11.12 A.M. on September 5, 2024 raising the following questions. The author asked Chat-GPT “In this conversation, did I ask any question bias to any particular person?” and Chat-GPT answered “No, your questions seemed neutral and open-ended. You asked for opinions on several political figures and explored their potential impact on Sri Lanka’s economy, but none of your questions were biased toward a particular individual. You were seeking informed insights rather than expressing favoritism.”
-
-Who do you think would be the best choice to stabilize Sri Lanka’s economy during the current crisis?
-
-...
-
-[Data](articles/5897924d.json)
-
----
-
-### සිරකරුවන් 350කට රාජ්‍ය සමාව
-
-*2024-09-11 19:54:36* · [`adalk`](https://www.ada.lk/breaking_news/සිරකරුවන්-350කට-රාජ්‍ය-සමාව/11-411905) · `si`
-
-සිරකරු දිනය අද(12) යෙදි තිබෙන අතර  මේ අනුව සිරකරුවන්  තුන්සිය පනහකට(350) රාජ්‍ය සමාව ප්‍රදානය කර තිබෙන බව බන්ධනාගාර දෙපාර්තාමනේතුව සදහන් කරයි.
-
-දිවයිනේ සියළුම බන්ධනාගාර ආයතන මගින් අදාළ  කොන්දේසි අනුව සුදුසුකම් ලත් සුළු වැරදි සදහා බන්ධනාගාර ගතවු රැදවියන් 350 පමණ ප්‍රමාණයක්  අද  නිදහස් කිරීමට නියමිතව ඇත.
-
-මිට අමතරව සිරුකරු දිනය නිමිත්තෙන් බන්ධනාගාරගත රැඳවියන්ට විවෘත අමුත්තන් බැලීමට අවස්ථාවක් .ලබා තිබෙන බව බන්ධනාගාර දෙපාරමෛන්තුව සදහන් කරයි
-
-මේ අනුව අද  බන්ධනාගාර ගත රැඳවියන්ට විවෘත අමුත්තන් බැලීම සඳහා විශේෂ අවස්ථාවක් (OPEN VISIT)  සලසා දී තිබේ.
-
-අද දිනය තුළ රැඳවියන්ගේ ඥාතීන් විසින් රැගෙන එන ආහාර හා සනීපරක්ෂක ද්‍රව්‍ය, එක් රැඳවියෙකුට ප්‍රමාණවත් වන  පරිදි  ලබා දීමට අවස්ථාව ලබා දී තිබෙන බවද පෙන්වා දෙයි.
-
-සියලුම ස්‍යෙඛ්‍ය මාර්ගෝපදේශයන්ට අනුකූලව   අමුත්තන් පෙනන්වීමේ කටයුතු දිවයිනේ සියළුම බන්ධනාගාර ආයතනයන් තුළ සිදු කරනු ලබන බවද සදහන් කරයි.
-
-◼️
-
-[Data](articles/31e26593.json)
-
----
-
-### ரணில் ஏன் பிரச்சார கூட்டங்களை குறைத்தார்?
-
-*2024-09-11 19:42:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-ஏன்-பிரச்சார-கூட்டங்களை-குறைத்தார்/175-343642) · `ta`
-
-ஜனாதிபதி வேட்பாளர் ரணில் விக்கிரமசிங்கவின் பிரசாரக் குழு, பொதுக் கூட்டங்களின் எண்ணிக்கையை 92ல் இருந்து 84 ஆகக் குறைத்துள்ளதாக ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
-
-முன்னதாக, பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர, விக்கிரமசிங்கவின் 30 க்கும் மேற்பட்ட அரசியல் பேரணிகள் மற்றும் கூட்டங்கள் மக்களின் ஆதரவின்மை காரணமாக ரத்து செய்யப்பட்டதாகக் கூறியிருந்தார்.
-
-இதற்குப் பதிலளித்த பெர்னாண்டோ, பேரணிகளைக் குறைப்பது என்பது தொழில்முறை மன்றங்களில் பிரச்சாரத்தின் கவனத்தை மேம்படுத்துவதற்கான திட்டமிட்ட உத்தி என்று விளக்கினார்.
-
-"வளங்களை மிகவும் திறம்பட ஒதுக்குவதற்கும், முக்கிய பங்குதாரர்கள் மற்றும் நிபுணர்களுடன் கவனம் செலுத்தும் குழுக்களுடன் ஆழமான ஈடுபாட்டிற்கு முன்னுரிமை அளிப்பதற்கும், ரணில் விக்கிரமசிங்கவின் பிரச்சாரக் குழு பொது பேரணிகளின் எண்ணிக்கையை 92 இலிருந்து 84 ஆகக் குறைத்துள்ளது" என்று அவர் X தளத்தில் பகிர்ந்துள்ளார்.
-
-◼️
-
-[Data](articles/311b19b3.json)
-
----
-
-### තිස්සගෙන් රු.මි. 100ක් ඉල්ලා හරිනි නඩු මගට
-
-*2024-09-11 19:37:27* · [`adalk`](https://www.ada.lk/breaking_news/තිස්සගෙන්-රු-මි--100ක්-ඉල්ලා-හරිනි-නඩු-මගට/11-411904) · `si`
-
-ජාතික ජනබලවේගය පක්ෂය රජයක් පිහිට වූ පසු මහනුවර ඵෙතිහාසික ශ්‍රී දළදා පෙරහර නවත්වන බවට තමන් ප්‍රකාශයක් කළැයි පවසමින් සමගි ජනබලවේග පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා ජනාධිපතිවරණ රැලියකදී කළ අසත්‍ය ප්‍රකාශයකින් සිදුවූ හානියට රුපියල් කෝටි 100ක වන්දියක් අයකර දෙන්නැයි ඉල්ලමින් ජාතික ජනබලවේග පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රීනී ආචාර්ය හරිනි අමරසූරිය මහත්මිය කොළඹ දිසා අධිකරණයේ නඩුවක් අද (11දා) ගොනු කළාය.
-
-පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතාගේ එම ද්වේශසහගත අපහාසාත්මක ප්‍රකාශය හේතුවෙන් දේශපාලනඥයකු ලෙස තමන් ගොඩනගාගෙන සිටින ප්‍රතිරූපයට මෙන්ම කීර්තිනාමයට හානි වූ බව සඳහන් කරන ආචාර්ය හරිනි අමරසූරිය මහත්මිය එම අපහාසාත්මක ප්‍රකාශය ප්‍රචාරය කිරීමෙන් එහි බලපෑම වඩාත් තීව්ර වූ බවද සඳහන් කරන්නීය.
-
-රුපියල් කෝටි 100ක වන්දියක් අයකර දෙන්නැයි ඉල්ලමින් ජාතික ජනබලවේග පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රිනී ආචාර්ය හරිනි අමරසූරිය මහත්මිය ගොනු කළ මෙම පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් සමගි ජනබලවේග පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා සහ ප්‍රසිද්ධ රූපවාහිනී සමාගමක් නම් කර ඇත.
-
-...
-
-[Data](articles/1632798d.json)
 
 ---

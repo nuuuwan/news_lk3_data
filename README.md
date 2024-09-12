@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 16:10:54**
+As of **2024-09-12 16:22:15**
 
 ## Newspaper Stats
 
-*Scraped **43,515** Articles*
+*Scraped **43,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 427
 islandlk | 2,542
 economynextcom | 2,647
 dailyftlk | 2,899
-adalk | 4,028
+adalk | 4,031
 dailymirrorlk | 4,733
 adaderanalk | 5,110
 tamilmirrorlk | 5,666
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,240 (99.4%) of 43,515 articles have been extended.
+43,248 (99.4%) of 43,518 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,8 @@ The President highlighted that his efforts, including discussions with world lea
 The University of Sri Jayawardenepura will be temporarily closed from 6.00 pm today following a clash between two groups, the university administration announced.
 
 Therefore, all students have been instructed to vacate the university premises by 6.00 pm today (12).
+
+The university administration has so far not provided any information related to the parties that were involved in the clash or the reopening date of the university.
 
 ◼️
 
@@ -157,6 +159,32 @@ If the official ballot papers were not received by Saturday, he was able to reac
 [Data](articles/53267e0b.json)
 
 [Extended Data](ext_articles/53267e0b.ext.json)
+
+---
+
+### There is no drumper - no dancing
+
+*2024-09-12 14:18:19* · [`adalk`](https://www.ada.lk/breaking_news/බෙරේ-පලුවකුත්-නෑ---නටපු-නැටුමකුත්-නෑ-මේ-අය-ආවොත්-සමහර-විට-රටේ-පලුවකුත්-නෑ/11-411915) · `si`
+
+Here's a 200-character summary:
+
+
+
+Former President Mahinda Rajapaksa criticized pro-good governance parties at a rally. He questioned their motives, suggesting they might collapse under scrutiny. The statement implies a lack of genuine commitment to good governance, potentially leading to instability and negative consequences for the country.
+
+🟩
+
+Former President Mahinda Rajapaksa said that the parties who were propped for the Good Govt.
+
+He was speaking at a rally held yesterday (11) Beliatta.
+
+"Those who have props the good governance of the government to be presidential election candidates. I doubt that someone who knows who is going to happen to them. I believe that someone knows not to vote. To catch the good governments of that day. Collapse thieves today. Finally, the Bera was no. There is no danger dancing. Sometimes if they come, there may be no fruit in the country. "
+
+◼️
+
+[Data](articles/b5fef064.json)
+
+[Extended Data](ext_articles/b5fef064.ext.json)
 
 ---
 
@@ -330,6 +358,36 @@ He was speaking at a rally held rally in Kandy.
 
 ---
 
+### Italian dream ends with two Syrian families
+
+*2024-09-12 13:19:23* · [`adalk`](https://www.ada.lk/breaking_news/සිරියානු-පවුල්-දෙකක-ඉතාලි-සිහිනය-කටුනායකින්-නිම-වෙයි/11-411914) · `si`
+
+Syrian families arrested in Sri Lanka for fake UAE passports. Attempting to reach Rome via India. Passports tested negative. Further investigation ongoing.
+
+🟩
+
+Seven members belonging to two Syrian families have been arrested by the Immigration and Emigration Department officials who were attempting to escape to Rome in Italy using the passports of the UAE.
+
+They were two adults who lived in Syria and four families comprising four children.
+
+They are due to leave to Chennai to Chennai in India at 09/12 in India at India's Airline.
+
+They had come to the Emigration Counters, who had finished their aviation clearance, and on suspicions that served, they had been sent to the Border Survey Unit with the doubts.
+
+These passports have confirmed that these passports were made of the technical tests.
+
+In questioning these Syrians, he has paid a passport to a broker to a broker and prepared in the Turkey.
+
+These passports, the supernutical chips have been prepared in the modern tests such as Scanner Test, such as electronic gates.
+
+...
+
+[Data](articles/b68de628.json)
+
+[Extended Data](ext_articles/b68de628.ext.json)
+
+---
+
 ### Sajith reveals the dual standard of resources against private education
 
 *2024-09-12 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200942) · `si`
@@ -467,6 +525,30 @@ The petition was then placed on April 2 to consider.
 [Data](articles/f853493f.json)
 
 [Extended Data](ext_articles/f853493f.ext.json)
+
+---
+
+### Another Chinese nationals arrested online
+
+*2024-09-12 12:14:16* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාලය-හරහා-මුදල්-වංචා-කළ-තවත්-චීන-ජාතිකයන්-පිරිසක්-අල්ලයි/11-411912) · `si`
+
+Chinese nationals arrested online for internet fraud. Police seized laptops and phones from suspects aged 30-44 and 24-29. Investigation ongoing.
+
+🟩
+
+The 13 Chinese nationals were arrested in connection with the internet cheating on the Internet.
+
+Meanwhile, police say two women are also. A large number of laptops and mobile phones have been taken into custody with the suspects and suspects.
+
+The Criminal Investigation Department Financial Investigation Number of OIC Upul Goththai Road, the Chinese suspects and suspects have been arrested in Borella Gothami Road.
+
+The suspects are 30/44 years old and the two suspects will be between 24/29, police said. A group of CID officers investigates
+
+◼️
+
+[Data](articles/1ba67ff0.json)
+
+[Extended Data](ext_articles/1ba67ff0.ext.json)
 
 ---
 
@@ -986,75 +1068,105 @@ Fujimori, the son of Japanese immigrants, was the little-known chancellor of a f
 
 ---
 
-### சொல்லாமல் சென்ற OIC-க்கு வலைவீச்சு
+### Web to Oic that went without saying
 
 *2024-09-12 08:33:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொல்லாமல்-சென்ற-OIC-க்கு-வலைவீச்சு/175-343654) · `ta`
 
-தம்புத்தேகம பொலிஸ் நிலையத்தில் கடமையாற்றி வந்த பிரதான பொலிஸ் பரிசோதகர் கடந்த மூன்று நாட்களாக சேவையில் ஈடுபடவில்லை என பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன.
+Chief Inspector absent 3 days, police station operations affected. Intelligence search ongoing. Previously served at Welikada and Fort stations before transfer to Thambuttegama. Suspended briefly but reinstated. Current whereabouts unknown.
 
-தொடர்ந்து கடமையாற்றுவது கடினம் என பொலிஸ் புத்தகத்தில் குறிப்பு ஒன்றை எழுதிவிட்டு பொலிஸ் நிலையத்தில் இருந்து வெளியேறியுள்ளதாக உயர் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+🟩
 
-அவர் எங்கிருக்கிறார் என்பது குறித்த தகவல்களை அறிய, பொலிஸ் உளவுத்துறை அதிகாரிகளும் களமிறக்கப்படுவதாக பொலிஸ் வட்டாரங்கள் மூலம் தெரிய வந்துள்ளது.
+According to police sources, the Chief Inspector of Police at the Tambuttegama police station has not been serving for the past three days.
 
-இந்த பிரதான பொலிஸ் பரிசோதகர் தொடர்பில் நேற்று வரை எவ்வித தகவலும் கிடைக்கவில்லை என பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன.
+A high -ranking police official said that it was difficult to continue duty and left the police station after writing a note in the police book.
 
-வெலிக்கடை பொலிஸ் நிலைய கட்டளைத் தளபதியாக கடமையாற்றிய அவர் பணி இடைநிறுத்தம் செய்யப்பட்டு பின்னர் மீண்டும் பதவியேற்று கோட்டை பொலிஸ் நிலைய கட்டளைத் தளபதியாக பொறுப்பேற்றார்.
+Police sources have revealed that police intelligence officials are also fielding to find out where he is.
 
-மேலும் இவர் பல மாதங்களுக்கு முன்னர் தம்புத்தேகம தலைமையக பொலிஸ் நிலையத்திற்கு  இடமாற்றம் செய்யப்பட்டதாக பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன. R
+According to police sources, no information has been received until yesterday.
+
+He served as the Commander of the Welikada Police Station and was suspended and then re -taken office and took over as the Commander of the Fort Police Station.
+
+He was also transferred to the Thambuttegama headquarters police station several months ago, police sources said that they were.. Remble
 
 ◼️
 
 [Data](articles/58b3bf78.json)
 
+[Extended Data](ext_articles/58b3bf78.ext.json)
+
 ---
 
-### සජිත් පරාජය කරන කුමන්ත්‍රණය‍
+### Conspiracy to defeat Sajith
 
 *2024-09-12 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200932) · `si`
 
-රට ආර්ථික අර්බුදයට ඇද දැමූ කණ්ඩායම්වලට තමන් කිසිදු අවස්ථාවක සහාය පළ කර නොමැති බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක, සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa accuses opponents of conspiring against him, claims victory will bury their goals. He criticizes Rajapaksas, mentioning past collaboration in government. Emphasizes reconciliation and progress for the nation.
 
-කිරුළපන ප්‍රදේශයේ පැවති ජන රැලියක් අමතමින් ඔහු සඳහන් කළේ, තම ජයග්‍රහණය වළක්වාලීමට විරුද්ධ පාර්ශව කුමන්ත්‍රණ සිදුකළ ද ඉන් ඵලක් නොවන බවය.
+🟩
 
-"අද ඒ දේශපාලන ජෝඩුවගේ එකම අරමුණ සජිත් ප්‍රේමදාසගේ ජයග්‍රහණය වළක්වාලන්නට ගහන්න පුළුවන් හැම ගැටයක්ම ගහනවා. කරන්න පුළුවන් හැම කුමන්ත්‍රණයක්ම කරනවා. හැබැයි ඒ දෙපොළම මතක තියාගන්න රාජපක්ෂලා හිටපු කැබිනෙට්ටුවල සාමාජිකයෝ. දෙන්නම හිටියා රාජපක්ෂ මහත්තරු එක්ක එකට වාඩි වෙලා කැබිනෙට් එකේ. මතක තියා ගන්න කිසිම දවසක රට බංකොළොත් කරපු කණ්ඩායම වෙනුවෙන් කඩේ නොගිය පුද්ගලයෙක් මේ සජිත් ප්‍රේමදාස, සමගි ජන බලවේගය. අපි කවදාවත් රට බංකොළොත් කරපු කණ්ඩායම වෙනුවෙන්. ඒ නිසා මතක තියා ගන්න 21 වෙනිදාට තමුන්නාන්සේලාගේ වටිනා කතිරය උපයෝගි කරගෙන රටේ ජනතාවට ප්‍රගතිශීලි හැරවුම් ලක්ෂයකට ඔබ සියලුදෙනා මුලපුරන්න."
+Sajith Premadasa says the presidential candidate of the prospect of the prostitution, said he had not supported the teams that were drawn into the economic crisis.
+
+Addressing a rally in Kirulapone, he said that the party conspiracies not to prevent his victory.
+
+"Today, all the objectives of the political couple of that political couple is buried by Sajith Premadasa's victory. Every conspiracy can make. However, the Rajapaksas are members of the Rajapaksas to remember that. Both were sitting with Mr. Rajapakse and sat down at the cabinet. Remember, this Sajith Premadasa, reconciliation. For the group we've ever bankrupt. So remember 21th to turn you up for a millions of progressive turns of the people of the country using you. "
 
 ◼️
 
 [Data](articles/7030a0a3.json)
 
+[Extended Data](ext_articles/7030a0a3.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා පාපන්දු කණ්ඩායම දිවයිනට
+### Sri Lanka football team to visit Sri Lanka
 
 *2024-09-12 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200931) · `si`
 
-ආසියානු කුසලාන පාපන්දු ශූරතා තරගාවලියේ තුන්වන වටයට පිවිසීම සදහා සුදුසුකම් ලබා ගත් ශ්‍රී ලංකා ජාතික පාපන්දු කණ්ඩායම ඊයේ (11) රාත්‍රියේ දිවයිනට පැමිණ තිබේ.
+Sri Lanka football team arrives home after qualifying for Asia Cup. They defeated Cambodia 4-2 in penalties, advancing to the next round.
 
-එහිදී ඔවුන් පිළිගැනීම සදහා පාපන්දු ක්‍රීඩකයින් සහ පාපන්දු ලෝලීන් විශාල පිරිසක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තය වෙත පැමිණ තිබෙන අයුරු දක්නට ලැබිණි.
+🟩
 
-ශ්‍රී ලංකා ජාතික පාපන්දු කණ්ඩායම ඉකුත් 05 දින කාම්බෝජය සමග කොළඹ දී පැවති තරගය ජය පරාජයෙන් තොරව අවසන් වීමත් සමග එහි තවත් තරගයක් කාම්බෝජයේ නොන්පෙන් නුවර දී පසුගිය 10 දින පැවැත්විණි.
+The Sri Lanka National Football Team, who qualified to enter the third round of the Asia Cup Football Championship, arrived in the island last night (11).
 
-එහිදී දෙරටම 2-2 ක් ලෙස සමාන ආකාරයෙන් ගෝල වාර්තා කර තිබීම නිසා ඔවුන්ට හිමි වූ දඩුවම් පහර ශ්‍රී ලංකා කණ්ඩායම 4-2 ක් ලෙස සාර්ථක කර ගැනීමත් සමග මෙම ජයග්‍රහණය හිමි කර ගැනීමට සමත් විය.
+There were a large number of football players and football laws to accept them.
+
+The Sri Lanka National Football team was running out of the match with Cambodia on the 5th and the end of the match against Cambodia.
+
+The penalties were able to win the penalties of the Sri Lankan team to success as 4-2.
 
 ◼️
 
 [Data](articles/416c9ae0.json)
 
+[Extended Data](ext_articles/416c9ae0.ext.json)
+
 ---
 
-### වැරදි නිවැරදි කරන හැටි දිලිත් කියයි
+### Dilith says the wrongs correct
 
 *2024-09-12 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200930) · `si`
 
-මෙවර ජනාධිපතිවරණයේදී සෙසු ප්‍රධාන අපේක්ෂකයින් තිදෙනාම ඉදිරිපත් කර ඇත්තේ එකම වැඩපිළිවෙළක් බව, සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-'දිලිත් ගමට' ආසන රැස්වීම් මාලාවේ තවත් ජන හමුවක්, ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (11) නිට්ටඹුවේදී පැවැත්වුණි.
 
-"දැන් මෙවර ජනාධිපතිවරණයට අපේක්ෂකයින් ඉදිරිපත් වෙලා තියෙනවා. ඒකෙන් තුන් හතර දෙනෙක් සාම්ප්‍රදායික දේශපාලන පක්ෂවලින් ඉදිරිපත් වෙලා තියෙනවා. අනිත් අය ඇවිත් තියෙන්නේ ඒ දේශපාලන පක්ෂවලට මුක්කු ගහන්න. මගේ නම තියෙන්නේ 10ට ඉතුරු නම් 9ම අහලාවත් නෑ. ඒ අය ඇවිත් තියෙන්නේ ජනතා මුදල් විනාශ කරලා, අර සාම්ප්‍රදායික දේශපාලන මඩගොහොර නියෝජනය කරන අයට මුක්කු ගහන්න. දැන් ඒ අය ඉදිරිපත් කරලා තියෙනවා දේශපාලන වැඩපිළිවෙලවල් තුනක්. ඔය තුනේම තියෙන්නේ එකක්. අපි ඒ වෙනුවට ගෙනාවා උපාය මාර්ගික වැඩපිළිවෙලක්. මේ රටේ හැම මිනිසෙකුගේම අදහස් නියෝජනය වන උපාය මාර්ගික වැඩපිළිවෙලක්.
+
+Dilith Jayaweera criticizes presidential candidates, saying they prioritize personal gain over national progress. He advocates for strategic planning and transparency, warning against corruption and mismanagement of public funds.
+
+🟩
+
+All three main candidates have presented all three major candidates in the presidential election this year, the annuition entrepreneur Dilith Jayaweera said.
+
+Another meeting of the Dilith Ganga Samaga
+
+"Candidates have come forward for the presidential election. There are three or four of the traditional political parties. Others come into the political parties. There is no room for 10 if my name is 10. They have come to destroy the people's money and prop to prop to prop to. They have now presented three political program. There's one in three. We have been brought instead a strategic program. A strategic program representing all humans in this country.
+
+21 The results receive the voting in the morning and the second preference 23. 23 When the morning is up, the star seems if you see the star in the sky. Have begun to Yen from a third world country. But if you see the star, it means that since then, you have changed your life.
 
 ...
 
 [Data](articles/4cf1c1f6.json)
+
+[Extended Data](ext_articles/4cf1c1f6.ext.json)
 
 ---
 
@@ -1079,6 +1191,8 @@ It was not possible to increase the salary again in 2023 as Sri Lanka had to kee
 ...
 
 [Data](articles/0523bc2c.json)
+
+[Extended Data](ext_articles/0523bc2c.ext.json)
 
 ---
 
@@ -1973,63 +2087,5 @@ Who do you think would be the best choice to stabilize Sri Lanka’s economy dur
 ...
 
 [Data](articles/1632798d.json)
-
----
-
-### 359 சிறைக் கைதிகளுக்கு பொது மன்னிப்பு
-
-*2024-09-11 19:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/359-சிறைக்-கைதிகளுக்கு-பொது-மன்னிப்பு/175-343641) · `ta`
-
-தேசிய கைதிகள் தினத்தை முன்னிட்டு நாளை (12) 359 சிறைக் கைதிகள் ஜனாதிபதி விசேட பொது மன்னிப்பின் கீழ் விடுதலை செய்யப்படவுள்ளனர்.
-
-அரசியலமைப்பின் 34ஆவது பிரிவின்படி ஜனாதிபதிக்கு வழங்கப்பட்டுள்ள அதிகாரங்களின்படி, கைதிகளுக்கு இவ்வாறு பொதுமன்னிப்பு வழங்கப்பட்டுள்ளது.
-
-அதற்கமைய, சிறிய குற்றங்கள் மற்றும், சிறிய அபாராத தொகையைச் செலுத்த தவறியமை உள்ளிட்ட சிறைக்கைதிகள் இவ்வாறு பொது மன்னிப்பின் கீழ் விடுவிக்கப்படவுள்ளதாக, சிறைச்சாலைகள் ஆணையாளரும், ஊடகப் பேச்சாளருமான காமினி திஸாநாயக்க தெரிவித்தார்.
-
-அதற்கமைய, வெலிக்கடை சிறைச்சாலையில் இருந்து அதிகூடிய எண்ணிக்கையாக 46 கைதிகள் விடுதலை செய்யப்படவுள்ளனர்.
-
-மஹர சிறைச்சாலையில் இருந்து 32 கைதிகளும், களுத்துறை சிறைச்சாலையில் இருந்து 30 கைதிகளும், அநுராதபுரம் சிறைச்சாலையில் இருந்து 29 கைதிகளும், வாரியபொல சிறையிலிருந்து 26 கைதிகளும் விடுதலை செய்யப்படவுள்ளனர்.
-
-◼️
-
-[Data](articles/5d150709.json)
-
----
-
-### අනුර ආරක්ෂක අංශවලින් කළ ඉල්ලීම
-
-*2024-09-11 19:30:44* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ආරක්ෂක-අංශවලින්-කළ-ඉල්ලීම/11-411903) · `si`
-
-මැතිවරණයෙන් පසු කිසිදු කලබලයක් ඇති වීමට ඉඩ නොතබන ලෙස ආරක්ෂක අංශවලින් ඉල්ලා සිටින බවත්, තමන්ට ඡන්දය නොදුන් කිසිවෙකුට නිය තුඩක හානියක් වීමට ඉඩ නොතබන බවත් ජාතික ජනබලවේගයේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-ජනාධිපතිවරණ ජයග්‍රහණය නිල වශයෙන් ප්‍රකාශයට පත් කිරීමෙන් පසු එක පැයක් හෝ නාස්ති නොකර ක්ෂණිකව දිවුරුම් ලබා දෙන බව දිසානායක මහතා සඳහන් කළේය. ඉන්පසු පාර්ලිමේන්තුව විසුරුවා හරින බවද දිසානායක මහතා කීවේය. දිසානායක මහතා මේ බව පැවසුවේ කුරුණෑගල පැවති ජනරැලිය අමතමිනි.
-
-හිටපු ජනාධිපතිවරුන්ගේ විශ්‍රාම වැටුප අහෝසි කරන බවත්, ඔවුන්ට ලබා දී ඇති රජයේ නිවාස නැවත රජයට පවරා ගන්නා බවත් ඔහු මෙහිදී කීවේය.
-
-“අපේ රටේ කොයිතරම් ඡන්ද තිබ්බත් මේ මැතිවරණය තමයි ජනතාව ඉතාම උනන්දුවෙන් ඉන්න මැතිවරණය. 21ත් කල් වැඩියි වගේ දැනෙනවා නේද. ඉස්සර නම් ඡන්දය එනකල් බලන් ඉන්නේ දේශපාලකයා. අද ජනතාව බලන් ඉන්නවා තමන්ගේ පාලනයක් මේ රටේ ඇති කරන්න. දේශපාලකයෝ විශාල ලෙස කලබලයට පත් වෙලා තියෙනවා. ඉදිරි දින 10 තුළ ඒගොල්ලො විශාල කුමන්ත්‍රණ කරන්න බලන් ඉන්නවා කියලා අපිට ආරංචියි.
-
-...
-
-[Data](articles/907d9761.json)
-
----
-
-### Flash flood sweeps away hamlet as Vietnam’s storm toll rises to 155 dead
-
-*2024-09-11 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101903/flash-flood-sweeps-away-hamlet-as-vietnams-storm-toll-rises-to-155-dead) · `en`
-
-A flash flood swept away an entire hamlet in northern Vietnam, killing 30 people and leaving dozens missing as deaths from a typhoon and its aftermath climbed to 155 on Wednesday.
-
-Vietnamese state broadcaster VTV said the torrent of water gushing down from a mountain in Lao Cai province Tuesday buried Lang Nu hamlet with 35 families in mud and debris.
-
-Only about a dozen are known so far to have survived. Rescuers have recovered 30 bodies and are continuing the search for about 65 others.
-
-The death toll from Typhoon Yagi and its aftermath has climbed to 155. Another 141 people are missing and hundreds were injured, VTV said.
-
-Floods and landslides have caused most of the deaths, many of which have come in the northwestern Lao Cai province, bordering China, where Lang Nu is located. Lao Cai province is also home to the popular trekking destination of Sapa.
-
-...
-
-[Data](articles/b115c65b.json)
 
 ---

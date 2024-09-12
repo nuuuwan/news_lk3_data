@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 23:08:28**
+As of **2024-09-12 23:22:28**
 
 ## Newspaper Stats
 
-*Scraped **43,610** Articles*
+*Scraped **43,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,899
 adalk | 4,040
 dailymirrorlk | 4,733
 adaderanalk | 5,117
-tamilmirrorlk | 5,675
+tamilmirrorlk | 5,676
 virakesarilk | 6,910
 adaderanasinhalalk | 7,447
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,439 (99.6%) of 43,610 articles have been extended.
+43,444 (99.6%) of 43,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### நாமலின் அரசாங்கத்தில் மஹிந்தவுக்கு என்ன பதவி தெரியுமா?
+
+*2024-09-12 22:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-அரசாங்கத்தில்-மஹிந்தவுக்கு-என்ன-பதவி-தெரியுமா/175-343703) · `ta`
+
+ஜனாதிபதித் தேர்தலில் தான் வெற்றி பெற்றால், பிரதமர் பதவியை மகிந்த ராஜபக்ஷவுக்கு வழங்கவுள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+அதேநேரம் தாம் வெற்றி பெற்றால் எதிர்வரும் 22ஆம் திகதியே பாராளுமன்றம் கலைக்கப்படும் எனவும் குறிப்பிட்டார்.
+
+தமது தரப்பினரின் ஒத்துழைப்புடன் இடைக்கால அமைச்சரவை ஒன்று உருவாக்கப்படும் என நாமல் மேலும் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/c4f4e93a.json)
+
+---
 
 ### Dilith on the only strategic plan representing views of all social classes
 
@@ -2455,37 +2471,5 @@ The minimum monthly salary was taken up from Rs. 12,500 and the daily wage was R
 [Data](articles/7b9eaaa7.json)
 
 [Extended Data](ext_articles/7b9eaaa7.ext.json)
-
----
-
-### The Right to the Burial of Muslim
-
-*2024-09-12 10:45:17* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-ජනතාවගේ-භූමදානය-පිළිබඳ-අයිතිය-නීතියෙන්ම-දෙනවා/11-411910) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's President Ranil Wickremesinghe addresses rally, promising to support farming and Muslim communities, strengthen trade, and fulfill election promises.
-
-🟩
-
-President Ranil Wickremesinghe said he would question whether he was depriving fertilizer prices and cut the farmers in this country to fertilize.
-
-The President recalled that he could be sent back to the farming and enhance the farming production in the country.
-
-The President said Sajith and Anura said that Sajith and Anura said that the lives of the people of the people today.
-
-The President who escaped when the people had begun to seek their future for their future today asking for the mandate of the country to proceed to the future of the country
-
-President Ranil Wickremesinghe made this statement addressing the 'Ranil' rally on the occasion.
-
-Minister Ranil Wickremesinghe said that if the main sources of Muslim and farming lost their main source of income and farming, he added the rally in the country. Therefore, the President told the people to prompting the people of Sri Lanka and to strengthen the country's trade and farming, he said he had come forward with plans.
-
-...
-
-[Data](articles/a36c3162.json)
-
-[Extended Data](ext_articles/a36c3162.ext.json)
 
 ---

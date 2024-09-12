@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-12 19:38:02**
+As of **2024-09-12 19:57:24**
 
 ## Newspaper Stats
 
-*Scraped **43,582** Articles*
+*Scraped **43,589** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
-bbccomsinhala | 422
+bbccomsinhala | 423
 colombotelegraphcom | 427
 islandlk | 2,542
 economynextcom | 2,659
 dailyftlk | 2,899
-adalk | 4,035
+adalk | 4,036
 dailymirrorlk | 4,733
 adaderanalk | 5,113
-tamilmirrorlk | 5,670
+tamilmirrorlk | 5,675
 virakesarilk | 6,903
 adaderanasinhalalk | 7,441
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 7,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,330 (99.4%) of 43,582 articles have been extended.
+43,337 (99.4%) of 43,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-12 (Thursday)
+
+### North East will not be connected; Namal confirmed
+
+*2024-09-12 19:24:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-இணைக்கப்படாது-நாமல்-உறுதி/175-343686) · `ta`
+
+Namal Rajapakse: North East won't join SLPP, no police/land powers. Promises religious equality. Focuses on long-term stability over short-term gains.
+
+🟩
+
+The party's presidential candidate Namal Rajapakse has said that the North and East will not be incorporated under the SLPP government, while police or land powers will not be granted to these areas.
+
+He said this while responding to questions raised by journalists during a media briefing in Jaffna today.
+
+Rajapakse stressed that a Buddhist country protects all religions, languages ​​and communities, not betraying the SLPP country or party for short -term benefits, privileges or positions.
+
+◼️
+
+[Data](articles/d7d75a74.json)
+
+[Extended Data](ext_articles/d7d75a74.ext.json)
+
+---
+
+### Support for Sajith - officially notice
+
+*2024-09-12 19:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துக்கே-ஆதரவு-உத்தியோகபூர்வமாக-அறிவிப்பு/175-343684) · `ta`
+
+SLFP reaffirms support for Sajith Premadasa as UPFA presidential candidate. No changes in stance. Statement from SLTNA General Secretary.
+
+🟩
+
+The SLFP has officially announced that there are no changes in the decision to support the presidential candidate of the United People's Alliance Sajith Premadasa in the presidential election.
+
+The General Secretary of the Sri Lanka TNA said this in a statement. Remble
+
+◼️
+
+[Data](articles/eeff275c.json)
+
+[Extended Data](ext_articles/eeff275c.ext.json)
+
+---
+
+### "I have a visa for 10 years in any country"
+
+*2024-09-12 19:10:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்த-நாட்டிலும்-10-வருடங்கள்-வாழ-எனக்கு-விசா-உள்ளது/175-343682) · `ta`
+
+Sri Lanka Public Security Minister Trin Ales claims 10-year visa allows travel without additional visas post-presidential election. Denies knowledge of special exit visas for ministers. Opposition member questions validity of claim.
+
+🟩
+
+Public Security Minister Trin Ales said he had a visa for ten years in any country and there was no need to get a visa to leave the country after the presidential election.
+
+Speaking to the media at the Sri Dalada House in Kandy yesterday (11), he said he was not aware of the visa for any minister to leave the country and that no one had to escape after the presidential election.
+
+Responding to a question raised by journalists that 80 ministers had received a visa after the presidential election, he said that although a Member of the Opposition, said that this may be a baseless statement, as everyone said during the election campaigns.
+
+◼️
+
+[Data](articles/65a6a8d0.json)
+
+[Extended Data](ext_articles/65a6a8d0.ext.json)
+
+---
 
 ### These are prohibited on the day of election
 
@@ -77,6 +141,56 @@ Since privatization in 1992, the plantation industry has undergone transformatio
 [Data](articles/0dae6103.json)
 
 [Extended Data](ext_articles/0dae6103.ext.json)
+
+---
+
+### "I will reduce the price of fuel by 50 %"
+
+*2024-09-12 18:54:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையை-50-வீதத்தால்-குறைப்பேன்/175-343681) · `ta`
+
+Candidate Roshan Ranasinghe promises 50% fuel price cut and reduces VAT to 10%, aiming to alleviate economic burden on citizens.
+
+🟩
+
+Roshan Ranasinghe, the presidential candidate and former sports minister, has promised to cut fuel prices by 50 percent if he is elected in the upcoming presidential election.
+
+Pointing out the need to provide relief to the public amid increasing living costs, he promised to reduce the VAT tax to 10%.
+
+Ranasinghe said his priority was to uphold these economic activities as the main features of his campaign and to ease the financial burden on the people.
+
+◼️
+
+[Data](articles/71ec252a.json)
+
+[Extended Data](ext_articles/71ec252a.ext.json)
+
+---
+
+### “Can't carry phones”
+
+*2024-09-12 18:48:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போன்களைக்-கொண்டு-செல்ல-முடியாது/175-343680) · `ta`
+
+Sri Lanka election commission bans mobile phones at polling stations due to leaked postal ballots on social media. Official warns against unofficial election results and emphasizes fair coverage for all candidates.
+
+🟩
+
+An official said today that the election commission has decided to ban voters in the presidential election on September 21, following the release of a postal ballot marked on social media.
+
+Speaking at a seminar organized by the Sri Lanka Journalists Association on the theme of "the role of journalists in ensuring independent and legitimate presidential election," said RMAL Ratnayake, Chairman of the Commission.
+
+In order to prevent such trend, the Commission will ban the transport of mobile phones to the polling booths on September 21, he said.
+
+Commenting on the election, he said that all preliminary arrangements for the voting have been made.
+
+The media must ensure an equal field for all candidates contesting the election.
+
+He added that the media should avoid publishing unofficial results.
+
+...
+
+[Data](articles/a73680f0.json)
+
+[Extended Data](ext_articles/a73680f0.ext.json)
 
 ---
 
@@ -145,6 +259,34 @@ Fitch Ratings – Colombo/Sydney – 11 Sep 2024: Fitch Ratings has affirmed the
 [Data](articles/15f690c2.json)
 
 [Extended Data](ext_articles/15f690c2.ext.json)
+
+---
+
+### Cases
+
+*2024-09-12 17:53:32* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-නිලධාරීන්-ගුරු-සේවයට-අන්තර්ග්‍රහණය-කිරීම-ගැන-නඩු-සමථයකට/11-411920) · `si`
+
+Here's a 200-character summary:
+
+
+
+Cases settled today regarding teacher service absorption. Decision made according to Cabinet Terms. Parties can recall case. President's Counsel Chokzy represented petitioner. Attorney General's Department defended respondents.
+
+🟩
+
+Development Officers were taken into custody regarding the absorption of the teacher service and the cases have been settled today.
+
+The decision on the decision of the cases was issued in accordance with the Cabinetized Cabinet Terms of Cabinet.
+
+According to the implementation of the operation, the parties have the right to recall the case again and that the case will be taken back on the case.
+
+President's Counsel on behalf of the petitioner. Mr. Chokzy and lawyer D. S. Mrs. Rathnayake appeared and the Attorney General's Department sat on respondents.
+
+◼️
+
+[Data](articles/0b923d25.json)
+
+[Extended Data](ext_articles/0b923d25.ext.json)
 
 ---
 
@@ -1177,6 +1319,40 @@ He was speaking at a rally held rally in Kandy.
 [Data](articles/bfa082d1.json)
 
 [Extended Data](ext_articles/bfa082d1.ext.json)
+
+---
+
+### Will the police beat women in the dissolution of protests?
+
+*2024-09-12 13:38:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gvgkx775no) · `si`
+
+Here's a 200-character summary:
+
+
+
+Police brutality against women during protests in Sri Lanka. Witnesses describe violent arrests and mistreatment. Legal protections lacking for female detainees. Human Rights Commission investigates allegations. Police deny wrongdoing, claim women are treated fairly.
+
+🟩
+
+Will the police beat women in the dissolution of protests?
+
+A protest organized by the Inter University Student Federation recently, the police acted to dissolve the illegality of election laws.
+
+In the dissolution of the protest, a senior police officer saw a commander that he had commanded his lower officials to take a student.
+
+Women, who shared their experience with BBC Sinha said he was violent in the dissolution of protests.
+
+An university lecturer, a Sanjila (not her real name), described such an incident that happened in a university student. "This happened was the last year, as a class scholarship," she said.
+
+The exponent of the Ceylon Teachers Union, the Inter University Student Fund, a police station was held in 2021 at a policeman.
+
+The demonstration was arrested by the police, including Joseph Starling, including the Chief Secretary of the Ceylon Teachers' Union Joseph Starling and moving to the Kandakadu Quarantine Center.
+
+...
+
+[Data](articles/c4825197.json)
+
+[Extended Data](ext_articles/c4825197.ext.json)
 
 ---
 
@@ -2325,169 +2501,5 @@ We are doubtful whether these politicians will use their conspirators as NPP and
 [Data](articles/d521f94c.json)
 
 [Extended Data](ext_articles/d521f94c.ext.json)
-
----
-
-### Relief received by exporters
-
-*2024-09-12 07:45:05* · [`adalk`](https://www.ada.lk/breaking_news/අපනයනකරුවන්ට-ලැබුණ-සහනය/11-411906) · `si`
-
-Central Bank of Sri Lanka extends deadline for converting export earnings to local currency, benefiting exporters who previously faced difficulties in timely conversion.
-
-🟩
-
-The Central Bank of Sri Lanka has taken steps to relax the period of translating goods to the export earnings to Sri Lankan Rupees.
-
-The exporters have been losing the exporters to translate their export revenues to Sri Lanka Rupees.
-
-Thus the exporters of goods subscribed to Sri Lanka Rupposes, from the date of receipt of export earnings, after the end of the export earnings, the month after the end of the export earnings (03), the month afterSuch like the date has been extended.
-
-After the previous day of export earnings, the seasons should have been translated into Sri Lankan rupees on the 7th month (07th).
-
-◼️
-
-[Data](articles/e25ce615.json)
-
-[Extended Data](ext_articles/e25ce615.ext.json)
-
----
-
-### There is no change in our end
-
-*2024-09-12 07:40:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-முடிவில்-எந்த-மாற்றமும்-இல்லை/175-343652) · `ta`
-
-Sri Lanka TNA reaffirms support for Sajith Premadasa in presidential election, no changes in decision. Party spokesperson M.A. Sumanthiran confirms unchanged stance on candidates.
-
-🟩
-
-The Sri Lanka TNA has once again announced that there will be no changes in the decision to support Sajith Premadasa in the presidential election.
-
-A group of chiefs of the Sri Lanka Tamil National Party (TNA) recently convened and confirmed that the decision was confirmed by its spokesman M. A.. Sumanthiran posted on his X site.
-
-He noted that there was no change in the decision already taken with any candidates besides Sajith Premadasa.
-
-Sumanthiran has said that it is currently investigating the implementation of the resolutions made by the party's central executive committee.. (A)
-
-◼️
-
-[Data](articles/1f615abe.json)
-
-[Extended Data](ext_articles/1f615abe.ext.json)
-
----
-
-### Namal spoke to Kota
-
-*2024-09-12 07:38:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவிற்கு-பரிந்து-பேசினார்-நாமல்/175-343651) · `ta`
-
-Namal Rajapaksa defends Gotabhaya's presidency, claims adequate funding for fuel, gas, and electricity solutions. Blames previous administration for Uma Oya and Sampur project delays. Criticizes current leadership for abandoning nationalism and supporting the 13th Amendment. Emphasizes commitment to racial unity and country stability over political gain.
-
-🟩
-
-Presidential candidate Namal Rajapaksa said yesterday that the government of Gotabhaya Rajapakse's government has provided adequate funds and activities to stop fuel and gas rows and stop electricity barriers before resigning from the Gotabhaya president.
-
-He made the statement in response to many people claiming that they were responsible for solving these issues.
-
-If the Uma Oya Hydroelectric Station and the Sampur power plant were completed by the government, Gotabhaya Rajapaksa would not have resigned.. The goodwill government deliberately adjourned these plans and eventually fell on the administration of Gotabhaya.
-
-Namal Rajapaksa has pointed out that Gotabhaya Rajapaksa has also suffered a fate of the Bangladesh Prime Minister.
-
-...
-
-[Data](articles/668ee021.json)
-
-[Extended Data](ext_articles/668ee021.ext.json)
-
----
-
-### ADB approves $100 million loan to support Sri Lanka’s water supply and sanitation
-
-*2024-09-12 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101907/adb-approves-100-million-loan-to-support-sri-lankas-water-supply-and-sanitation) · `en`
-
-The Asian Development Bank (ADB) has approved a $100 million policy-based loan to support Sri Lanka’s water supply and sanitation sector reforms to enhance the country’s resilience to climate change impacts and promote long-term sustainability.
-
-The Water Supply and Sanitation Reform Program, composed of two subprograms of $100 million each, will contribute to a more resilient and sustainable delivery of water supply and sanitation services.
-
-Subprogram 1 will establish policies and strategies nationally and for the National Water Supply and Drainage Board (NWSDB) while the subprogram 2 will support the implementation of reform actions and guidelines.
-
-“Efficient delivery of safe and reliable water supply in Sri Lanka is limited by fragmented water resources management and exacerbated by climate change. This significantly affects the daily life of Sri Lankans—many of whom do not have access to piped water supply,” said Senior Urban Development Specialist Pedro Almeida.
-
-...
-
-[Data](articles/3cfc2cbe.json)
-
-[Extended Data](ext_articles/3cfc2cbe.ext.json)
-
----
-
-### Frequent rainfall may occur
-
-*2024-09-12 07:31:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடிக்கடி-மழை-பெய்யக்கூடும்/175-343650) · `ta`
-
-Frequent rainfall expected in several provinces and districts. Thunderstorms possible in Uva Province and coastal areas. Strong winds predicted in central highlands and eastern districts. Public advised to exercise caution due to potential lightning and gusts.
-
-🟩
-
-The Department of Meteorology said that frequent rainfall is expected in Sabaragamuwa, Western and North Western Provinces as well as in Galle, Matara, Kandy and Nuwara Eliya districts.
-
-There is a chance of rain or thunderstorms in many parts of the Uva Province, as well as in many parts of Ampara and Batticaloa districts.
-
-Heavy winds can be frequent at speeds of 40 to 50 km / h in the western slopes of the Central Highlands, North, North Central and North Western Provinces as well as in Hambantota, Moneragala and Trincomalee districts.
-
-Rain or thunderstorms are likely to occur in the sea regions along the coast of Puttalam to Colombo and Galle.
-
-Winds from the southwest at 30 - 40 km / h in the sea regions.
-
-From Matara to Hambantota, Pottuvil, from Kankesanthurai to Mannar via Puttalam, the sea will be increasing at 60 kilometers per hour.
-
-From Trincomalee to Kankesanthurai to Kankesanthurai, Puttalam to Colombo and Galle via Matara, Matara will increase between 50 kilometers per hour.
-
-...
-
-[Data](articles/456ec551.json)
-
-[Extended Data](ext_articles/456ec551.ext.json)
-
----
-
-### Son dies after father's hit
-
-*2024-09-12 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200929) · `si`
-
-Son killed by father during family dispute. Police investigating murder in Lie. Suspect fled, police searching for arrest.
-
-🟩
-
-Police have launched an investigation into the killing of a person in the Lie.
-
-The murder had taken place due to the death of a family and son with a sharp weapon by a family dispute yesterday.
-
-The suspect has fled the area and Mount Lavinia Police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/f6bd90bb.json)
-
-[Extended Data](ext_articles/f6bd90bb.ext.json)
-
----
-
-### Showers expected in several provinces and districts
-
-*2024-09-12 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101906/showers-expected-in-several-provinces-and-districts) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at several places in Uva province and in Ampara and Batticaloa districts during the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/6003b823.json)
-
-[Extended Data](ext_articles/6003b823.ext.json)
 
 ---

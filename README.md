@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 16:10:49**
+As of **2024-09-13 16:22:15**
 
 ## Newspaper Stats
 
-*Scraped **43,712** Articles*
+*Scraped **43,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ colombotelegraphcom | 429
 islandlk | 2,554
 economynextcom | 2,662
 dailyftlk | 2,910
-adalk | 4,047
+adalk | 4,048
 dailymirrorlk | 4,733
-adaderanalk | 5,134
+adaderanalk | 5,135
 tamilmirrorlk | 5,686
 virakesarilk | 6,921
-adaderanasinhalalk | 7,473
+adaderanasinhalalk | 7,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,700 (100.0%) of 43,712 articles have been extended.
+43,706 (100.0%) of 43,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### මාලිමාවේ ආධාරකරුවන් රැගත් බස්රථයකට ප්‍රහාරයක්
+
+*2024-09-13 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200990) · `si`
+
+අද (13) උදෑසන මොනරාගල ප්‍රදේශයේ පැවති ජාතික ජන බලවේගයේ රැස්වීමකට සහභාගී වී නැවත පැමිණෙමින් තිබූ බස් රථයකට යම් කිසි පිරිසකගෙන් ප්‍රහාරයක් එල්ල වී තිබේ.
+
+එම පක්ෂයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් මොනරාගල ප්‍රාදේශීය සභා ක්‍රීඩාංගනයේදී පැවැති ජන හමුවකට එක් ව ආපසු යමින් සිටි පිරිසකට මෙම ප්‍රහාරය එල්ල වී තිබුණි.
+
+ප්‍රහාරයෙන් සිව්දෙනෙකුට තුවාල සිදුව ඇති අතර ඔවුන් ප්‍රතිකාර සඳහා බුත්තල ප්‍රාදේශීය රෝහලට ඇතුළත් කර ඇත.
+
+◼️
+
+[Data](articles/ead2d2ee.json)
+
+---
+
+### Italian father and son fined Rs. 60 mln over attempt to smuggle endemic insects from Yala
+
+*2024-09-13 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101946/italian-father-and-son-fined-rs-60-mln-over-attempt-to-smuggle-endemic-insects-from-yala-) · `en`
+
+An Italian father and his son have been fined Rs. 60 million (approximately 200,000 USD) for attempting to smuggle hundreds of endemic insects, including 92 species of butterflies, from Yala National Park.
+
+This fine is reportedly the highest ever imposed for a wildlife crime in Sri Lanka.
+
+The decision was recently delivered by Tissamaharama Magistrate Tharindu Sameera de Silva.
+
+The two Italians, 68-year-old Luigi Ferrari and his 28-year-old son, were arrested on May 8 this year by Yala National Park rangers with several jars containing the insects.
+
+Initially, 810 charges were brought against them, but this was later reduced to 304.
+
+The defense, represented by a team of lawyers from various regions, requested for leniency and the imposing of a minimum fine on their clients.
+
+However, the Magistrate stated that the case was expedited and the necessary expert reports were swiftly obtained as the defendants are foreign nationals.
+
+...
+
+[Data](articles/948cd484.json)
+
+---
 
 ### Decision to reduce PAYE Tax
 
@@ -495,6 +535,24 @@ However, Ranil, Sajith holds political meetings throughout the presidential elec
 [Data](articles/c4c0237b.json)
 
 [Extended Data](ext_articles/c4c0237b.ext.json)
+
+---
+
+### ආර්ථික දියුණුවත් සමඟ රාජ්‍ය හා පෞද්ගලික අංශයේ රැකියා 100,000ක්
+
+*2024-09-13 12:56:55* · [`adalk`](https://www.ada.lk/picture_story/ආර්ථික-දියුණුවත්-සමඟ-රාජ්‍ය-හා-පෞද්ගලික-අංශයේ-රැකියා-100-000ක්/10-411932) · `si`
+
+තරුණ තරුණියන්ට ගෝලීය ප්‍රමිතීන්ට අනුකූල උසස් අධ්‍යාපන අවස්ථා මෙරටදීම ලබා ගැනීමට අවස්ථාව සලසමින් රාජ්‍ය සහ පෞද්ගලික අංශයේ නව අධ්‍යාපන ආයතන රැසක් ඉදිරියේ දී රට තුළ ස්ථාපිත කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ “Times School of Higher Education” උසස් අධ්‍යාපන පාසල සමාරම්භය වෙනුවෙන් කොළඹ ගාලු මුවදොර හෝටලයේදී පැවැත්වුණු උත්සවය අමතමිනි.
+
+සීමාසහිත විජය පුවත්පත් සමාගමට අනුබද්ධ ආයතනයක් ලෙස ටයිම්ස් උසස් අධ්‍යාපන ආයතනය ආරම්භ කර තිබෙන අතර විදේශීය විශ්වවිද්‍යාල සහ උසස් අධ්‍යාපන ආයතන තුනක් සමඟ ඒකාබද්ධව ජාත්‍යන්තර ප්‍රමිතීන්ට අනුකුලව මෙහි අධ්‍යාපන කටයුතු පවත්වාගෙන යනු ලබයි.
+
+ප්‍රධාන කාණ්ඩ තුනක් යටතේ පුළුල් පරාසයක රැකියා ඉලක්ක කරගත් අධ්‍යාපන පාඨමාලා මෙහි පවත්වාගෙන යනු ලබන අතර ඒ අනුව සහතික පත්‍ර, ඩිප්ලෝමා සහ උසස් ඩිප්ලෝමා පාඨමාලා මෙන්ම ඩිජිටල් ඇකඩමිය හරහා වෘත්තීය නිපුණතා සංවර්ධන වැඩසටහන් හා උපාධි සහ පශ්චාත් උපාධි වැඩසටහන් මෙහි පවත්වාගෙන යනු ලැබේ.
+
+...
+
+[Data](articles/204f938d.json)
 
 ---
 
@@ -2153,83 +2211,5 @@ Despite the election platform, Ranil Wickremesinghe says he is pronouncing true 
 [Data](articles/54a8fa2f.json)
 
 [Extended Data](ext_articles/54a8fa2f.ext.json)
-
----
-
-### IRD reports 28.5% increase in tax revenue collection so far in 2024
-
-*2024-09-12 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101926/ird-reports-285-increase-in-tax-revenue-collection-so-far-in-2024) · `en`
-
-The Inland Revenue Department (IRD) has announced that the total tax revenue collected for the period from January to August 2024 amounted to Rs. 1,229,245 million.
-
-Compared to the tax revenue collection of Rs. 956,418 million during the same period in 2023, revenue collection has increased by 28.5% in 2024, the department said in a press release.
-
-“This favorable growth can be attributed to several factors, including new tax policies, a gradual improvement in the country’s economic situation, and enhanced tax administration efficiency,” the Commissioner General of Inland Revenue said.
-
-The department extended its gratitude to all citizens and entities who have contributed to the nation through their tax payments, and said it remains committed to providing efficient and effective tax administration services to its valued taxpayers.
-
-The breakdown of tax revenue collection by tax type is as follows:
-
-◼️
-
-[Data](articles/f40de06f.json)
-
-[Extended Data](ext_articles/f40de06f.ext.json)
-
----
-
-### This is how it is voted without the challenges
-
-*2024-09-12 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200956) · `si`
-
-Here's a 200-character summary:
-
-
-
-In the next presidential election, voters should consider candidates' policies and character rather than just party affiliations. The Election Commission will count votes accurately and address any issues promptly.
-
-🟩
-
-How can you vote correctly in the next 21st presidential election?
-
-Elections Commissioner General Saman Sri Ratnayake made an explanation.
-
-Meanwhile, the Commissioner General of Elections also commented on the process that exceed 50% of the votes by a single candidate today.
-
-"Once we have learned the overall outcome, the Commission decides to counteract preferences next."
-
-◼️
-
-[Data](articles/5eac936b.json)
-
-[Extended Data](ext_articles/5eac936b.ext.json)
-
----
-
-### Increasing Sinhalese settlements in Trincomalee: The main purpose is to destroy the history and culture of the Tamil and Muslim people - in a new study published by 'The Okland Institute'
-
-*2024-09-12 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/193536) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sinhalese settlements in Trincomalee aim to erase Tamil/Muslim heritage. Study reveals 27% increase in Sinhalese population due to land grabs, affecting 41,164 acres. Military surveillance and Buddhist expansion cited as factors.
-
-🟩
-
-The dominance of the Sinhalese in the Trincomalee district, which has been under military surveillance for the past 15 years since the war, has been expanding.
-
-In a new study on land grabbing published by The Okland Institute, the main goal of these land grabbing efforts is to completely destroy their history and culture in the area where they are united in the North, East Tamil and Muslim people.
-
-The founder and executive of the 'The Okland Institute' operating in the state of California, USA
-
-A 32 -page study titled 'The Okland Institute' in California, USA, has published a 32 -page study titled 'Land Acquisition of Sri Lanka' under the occupation of land grabbing data and documentary data on land grabbing in the Trincomalee district.
-
-...
-
-[Data](articles/91fd23fc.json)
-
-[Extended Data](ext_articles/91fd23fc.ext.json)
 
 ---

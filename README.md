@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 16:55:25**
+As of **2024-09-13 17:07:34**
 
 ## Newspaper Stats
 
-*Scraped **43,715** Articles*
+*Scraped **43,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ colombotelegraphcom | 429
 islandlk | 2,554
 economynextcom | 2,662
 dailyftlk | 2,910
-adalk | 4,048
+adalk | 4,049
 dailymirrorlk | 4,733
 adaderanalk | 5,135
 tamilmirrorlk | 5,686
 virakesarilk | 6,921
-adaderanasinhalalk | 7,474
+adaderanasinhalalk | 7,476
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,715 (100.0%) of 43,715 articles have been extended.
+43,718 (100.0%) of 43,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Dilith is new for entrepreneur women
+
+*2024-09-13 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200992) · `si`
+
+Dilith Jayaweera addresses women entrepreneurs in Anuradhapura, emphasizing social change through motivation and strategic programs to boost rural women's incomes and reduce debt. He pledges to increase minimum household income and promises government support for capital improvements.
+
+🟩
+
+Sandana, Presidential candidate Dilith Jayaweera says that the powerful force of the country is the most powerful force of the country.
+
+Meeting with women entrepreneurship Societies in the Anuradhapura District, was held in Youth Nikathana under the patronage of Dilith Jayaweera today (13).
+
+Addressing the occasion, Mr. Dilith Jayaweera said that a social change cannot be created without motivation.
+
+Mr. Dilith Jayaweera said he was ready to supply the rural woman to uplift the revenue disparities and strengthen the woman under a strategic program to destroy the income of income.
+
+Also, the strategic proposal to increase the minimum income of every household to Rs.
+
+He said that if the capital need to improve, the government will be able to intervene and provide Rs.
+
+Meanwhile, their strategic program has been able to remove their debt to redeem Sri Lankan women to redeem Sri Lankan women who have fallen in the virtue of the mine.He said.
+
+...
+
+[Data](articles/fd8f1664.json)
+
+[Extended Data](ext_articles/fd8f1664.ext.json)
+
+---
+
+### The State Promise
+
+*2024-09-13 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200991) · `si`
+
+Here's a 200-character summary:
+
+
+
+Anura Kumara Dissanayake addressed a rally in Ambalantota, emphasizing the National Folk Force as a program to preserve cultural values for future generations. He criticized the destruction of Buddhist sites and accused certain individuals of stealing artifacts. Dissanayake called for Sajith Premadasa to halt right-wing politics interfering with civilization and culture.
+
+🟩
+
+Another rally was held at Ambalantota last night.
+
+It is the leader of the party's prosecutical candidate Anura Kumara Dissanayake.
+
+Commenting on the occasion, the presidential candidate Anura Kumara Dissanayake said that the national folk force is a program to protect cultural values ​​for future generations.
+
+Tissa Attanayake says we stop the procession of the city again. But these are the climb to the stage where the treasured leaders. These are the people who were looking for the Pilgawa statue of the Buddha.  තැන තැන ගිහිල්ලා දුටුගැමුණු රජ්ජුරුවන්ගේ කඩුව හොයන්න වෙහෙර විහාරස්ථාන විනාශ කරපු අය තමයි මේවා කියන්නේ. It was also a well-known picture of the Mulkirigala. The stolen portaries stolen in Oya Premadasala has come to talk about religion. As a result, the national folk force is a political movement that interferes with our civilization, our cultures and protection for future generations. So we say Sajith Premadasa halts the politics of right. "
+
+◼️
+
+[Data](articles/07ecd533.json)
+
+[Extended Data](ext_articles/07ecd533.ext.json)
+
+---
 
 ### Attack on a bus carrying the supporters of the compass
 
@@ -181,6 +239,32 @@ On September 17, 2023, it was initially reported that a group of unidentified gu
 [Data](articles/9ab12294.json)
 
 [Extended Data](ext_articles/9ab12294.ext.json)
+
+---
+
+### Both killed in railway crash at accident
+
+*2024-09-13 15:16:40* · [`adalk`](https://www.ada.lk/breaking_news/රත්ගම-දුම්රිය-අනතුරින්-ත්‍රිරෝද-රියේ-සිටි-දෙදෙනාම-මරුට/11-411934) · `si`
+
+Two dead in train crash: 49-year-old man and 56-year-old woman killed while riding three-wheeler at railway crossing. Driver died at scene, passenger hospitalized. Police investigating cause.
+
+🟩
+
+The Ratgama Police say that a three-wheeler was operated from the Rathgama, Wijeratne Mawatha's crossroad.
+
+The deceased has been identified as a 49 year old, a 56-year-old Dodaduwa and Kadandu, Dodanduwa, a 56-year-old and the three-wheeler in the three-wheeler in the three-wheeler.
+
+The driver died at the location of the accident and the other was rushed to the Karapitiya Hospital.
+
+The bodies of both of the two have been placed at the Karapitiya Hospital.
+
+The Rathgama Police are conducting further investigations when the accidents were operated by the railway crossing.
+
+◼️
+
+[Data](articles/db6834d9.json)
+
+[Extended Data](ext_articles/db6834d9.ext.json)
 
 ---
 
@@ -2153,77 +2237,5 @@ He was speaking at the Baddegama President who was organized for the victory of 
 [Data](articles/4873ad5a.json)
 
 [Extended Data](ext_articles/4873ad5a.ext.json)
-
----
-
-### Gold for Sri Lanka's Chandan in the 100 -meter legal run for South Asian Junior Men
-
-*2024-09-12 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/193537) · `ta`
-
-Sri Lanka wins 10 medals at South Asian Junior Athletics Championship: 1 gold, 1 silver, 8 bronze. Chandan wins 100-meter dash gold. Omel Shashinda takes silver in 400-meter race.
-
-🟩
-
-On Thursday (12), the second day of the fourth South Asian Junior Athletics Championship, which is being held at the Jawaharlal Nehru Stadium in Chennai, Sri Lanka received a total of 10 medals with one more gold, one silver and 8 bronze medals.
-
-On the first day of the competition, Sri Lanka received 3 gold, 3 silver and 3 bronze medals.
-
-At the end of the second day, Sri Lanka received 4 gold, 4 silver and 11 bronze medals.
-
-Sri Lankan player Goshala Chandun won the gold medal on the second day of the competition on Thursday (12) on Thursday (12).
-
-Omel Shashinda won the silver medal in the men's 400 violation race in 47.17 seconds. This time receiving is his personal excellent time.
-
-...
-
-[Data](articles/4d366b4c.json)
-
-[Extended Data](ext_articles/4d366b4c.ext.json)
-
----
-
-### 3,610 complaints have been lodged in the presidential election so far
-
-*2024-09-12 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193538) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"3,610 election complaints filed: 1,233 national, 2,377 district. 28 violence complaints, 76 others."
-
-🟩
-
-The Election Commission said that 3,610 complaints have been received from the presidential election (from July 31 to September 2).
-
-Accordingly, 1,233 complaints have been received for the National Election Complaint Management Center and 2,377 to the District Election Complaint Management Center for violating election laws.
-
-Meanwhile, the District Election Complaint Management Center has received 28 complaints on violence and 76 complaints.
-
-◼️
-
-[Data](articles/2eff7372.json)
-
-[Extended Data](ext_articles/2eff7372.ext.json)
-
----
-
-### Ranil warns about the dollar
-
-*2024-09-12 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200957) · `si`
-
-Ranil Wickremesinghe warns about the dollar impact on Sri Lanka's economy. He emphasizes making truthful decisions over popular ones, citing examples like tax deductions and free services under his opponent Sajith's policies.
-
-🟩
-
-Despite the election platform, Ranil Wickremesinghe says he is pronouncing true decisions, not popular decisions.
-
-"I can come here and say that the following year the following year. Can they say that?. What happens to the guise of the hatred. I mean, not popular.. But the truth I say. I'm back.. If tax deductions, it is worth the $ 500 rupees. What about Sajith?. Every single is free now. "
-
-◼️
-
-[Data](articles/54a8fa2f.json)
-
-[Extended Data](ext_articles/54a8fa2f.ext.json)
 
 ---

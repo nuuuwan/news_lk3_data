@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 21:57:21**
+As of **2024-09-13 22:11:19**
 
 ## Newspaper Stats
 
-*Scraped **43,760** Articles*
+*Scraped **43,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,675
 dailyftlk | 2,910
 adalk | 4,050
 dailymirrorlk | 4,733
-adaderanalk | 5,140
+adaderanalk | 5,141
 tamilmirrorlk | 5,688
 virakesarilk | 6,930
-adaderanasinhalalk | 7,484
+adaderanasinhalalk | 7,486
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,760 (100.0%) of 43,760 articles have been extended.
+43,760 (100.0%) of 43,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### නව ව්‍යවසායකයන් දස ලක්ෂයක් බිහිකරනවා - සජිත්
+
+*2024-09-13 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201002) · `si`
+
+තමා ජනපති වූ පසු රට තුළ නව ව්‍යවසායකයන් දස ලක්ෂයක් බිහිකරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+දෙබරවැව නගරයේ අද (13) පස්වරුවේ පැවති ජනරැලියක් අමතමින් ඔහු මේ අදහස් පළ කළේය.
+
+"මේ මොහොත වනවිට ජයවර්ධන පුර විශ්වවිද්‍යාලය ප්‍රචණ්ඩත්වය නිසා වසා දමලා. මිලේච්ච මැර ප්‍රහාර එල්ල කරලා. මම අහන්න කැමතියි තමන් කැමති දේශපාලනයක් කරන්න අයිතියක් නැද්ද ? මේ නිර්මාණය වන වියරු ෆැසිස්වාදයට මේ රටේ ජනතාව ආශිර්වාදය දෙනවා ද?  බය නැතුව ජනාධිපතිවරණ දිනයේ දී ඡන්ද පොලට ගිහින් පොදුජන යුගය වෙනුවෙන් ඔබගේ හයිය ලබාදෙන්න. ඔබව අපි ආරක්ෂා කරනවා. අද විදුලිය කපලා තියෙනවා දස ලක්ෂයකගේ. හැමෝම දන්නවා 21න් පස්සේ ලයිට් කපපු දස ලක්ෂයට සජිත් ප්‍රේමදාසගේ ආණ්ඩුව පිහිටක් වෙනවා කියලා. අනුර - රනිල් ඒවට විරුද්ධයි. ඒ විතරක් නෙමෙයි දස ලක්ෂයක් නව ව්‍යවසායකින් බිහි කරනවාට විරුද්ධයි. ඒ නිසා රනිල් - අනුර පරාජය කිරීමට 21 වනදාට පොදුජන යුගයකට ඔබ සියලුදෙනාගේ ජනවරම, ජනහයිය ලබාදෙන්න කියනවා."
+
+...
+
+[Data](articles/53cf6e6a.json)
+
+---
+
+### ‘Nothing will be derailed but everything would be humanized’ – Sajith on renegotiating IMF deal
+
+*2024-09-13 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101952/nothing-will-be-derailed-but-everything-would-be-humanized-sajith-on-renegotiating-imf-deal) · `en`
+
+Sri Lanka’s main opposition leader said he’ll reopen negotiations with the International Monetary Fund on its $3 billion loan if he wins next week’s presidential election to ease the financial burden on working class people.
+
+Sajith Premadasa, 57, wants rich individuals to bear more of the cost of the economic adjustment that came with the bailout program. The austerity measures that were imposed, such as tax and electricity-price hikes, and the debt restructuring, have made the incumbent leader Ranil Wickremesinghe deeply unpopular, creating a tight race for the Sept. 21 vote.
+
+“We will make sure there is justice and fairness,” Premadasa said in an interview in his Colombo office. “The burden should be shared by the super rich, not the working class poor.”
+
+...
+
+[Data](articles/b68783bf.json)
+
+---
+
+### අනුරගේ ආර්ථික ප්‍රතිපත්තියට රුපියල බාල්දු වෙනවා - රනිල්
+
+*2024-09-13 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201001) · `si`
+
+අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කර ඇති ආර්ථික ප්‍රතිපත්තියට අනුව රුපියල බාල්දු වන බව ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ, පුත්තලමේ පැවැති 'පුළුවන් ශ්‍රී ලංකා' ජනරැලිය අමතමිනි.
+
+"හිටපු කෘෂිකර්ම ඇමති අනුර කුමාර මහනුවරදී කියලා තියෙනවා මම එතුමාට මඩ ගහන ව්‍යාපාරයක් ගෙනියනවා කියලා. මම එහෙම කළේ නෑ. මම කිව්වේ එක දෙයයි. අනුර කුමාරගේ යෝජනා ක්‍රියාත්මක කරනවා නම්, IMF සංවිධානය සමග තියෙන එකඟත්වයට පටහැනියි. අපි ගිවිසුම කඩනවා. මේ ගිවිසුම කඩාකප්පල් කරාම ඒකෙත් පිහිට නැත්නම් ඩොලරය රුපියල් 500ක් වෙයි. තමන් කැමතිද එහෙම රුපියල බාල්දු වුණොත්. මම ඔච්චරයි ඇහුවේ. තමුන්නාන්සේ ඇයි රුපියල බාල්දු කරන්නේ. දැන් මේ වෙලාවේ රුපියල ආරක්ෂා කරන්න බැරිනම්, ජීවන බර වැඩිකරනවා නම් ඇයි අපි ඒ අයට ඡන්දෙ දෙන්නේ.
+
+...
+
+[Data](articles/abb40254.json)
+
+---
 
 ### Sri Lanka gold and silver medals in South Asian Junior Athletics
 
@@ -2297,85 +2345,5 @@ Meanwhile, the number of complaints received by the Elections Commission regardi
 [Data](articles/de464f6e.json)
 
 [Extended Data](ext_articles/de464f6e.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-09-13 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101928/showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts.
-
-Several spells of showers will occur in Western and North-western provinces and in Galle and Matara districts.
-
-Showers or thundershowers may occur at several places in Uva province and in Ampara and Batticaloa districts during the evening or night, it said.
-
-Strong winds of about 40-45 kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/b6cd8c76.json)
-
-[Extended Data](ext_articles/b6cd8c76.ext.json)
-
----
-
-### We brought bankruptcies to the law - Sajith
-
-*2024-09-13 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200964) · `si`
-
-Sajith Premadasa claims his party is the only one to face bankruptcy charges. He made this statement during a public address in Baddegama.
-
-🟩
-
-The presidential candidate Sajith Premadasa, the president of the Folk Force, says that his party is the only party that has been brought before the country.
-
-Addressing a public brief in Baddegama, Sajith Premadasa made these comments.
-
-◼️
-
-[Data](articles/0600f98e.json)
-
-[Extended Data](ext_articles/0600f98e.ext.json)
-
----
-
-### Sheikh Mera: Princess Dubai, who made his 'divorce' a perfume
-
-*2024-09-13 07:07:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy0r021g4qvo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dubai Princess launches perfume called "Divorce" after split. Some praise her courage, others criticize promoting divorce. The scent aims to represent freedom, sparking debate about marriage and relationships.
-
-🟩
-
-Sheikh Mera: Princess Dubai, who made his 'divorce' a perfume
-
-Have you ever thought that 'divorce' had an unhealthy aroma?What is the smell of 'divorce'?
-
-Written by a women's social media practice, raising these questions through social media, 'Is this a fake smell?'
-
-"No, no, it is like a smell of freedom,".
-
-Sheikh Rashid Al Murame's daughter, Sheik Rashid Al Murame, Dubai, has now introduced its own perfume, which has been divorced by her husband two months ago.
-
-It is believed that her recent divorce contains an idea of ​​her recent divorce, which launched under her business brand.
-
-Princess Merara, Princess Storied Media Users, in July 2024, her relationship Instagram account was an end to a few brief words.
-
-Sheikh Maktom is the Prime Minister of the United Arab Emirates and is a huge character among world cavaliers and the races. He is said to have 23 other children from several wives.
-
-Many women have responded to the launch of a perfumes called 'Divorce'.
-
-...
-
-[Data](articles/b52c396c.json)
-
-[Extended Data](ext_articles/b52c396c.ext.json)
 
 ---

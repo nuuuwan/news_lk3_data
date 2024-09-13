@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 14:38:14**
+As of **2024-09-13 14:56:53**
 
 ## Newspaper Stats
 
-*Scraped **43,703** Articles*
+*Scraped **43,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,89 @@ dailyftlk | 2,910
 adalk | 4,047
 dailymirrorlk | 4,733
 adaderanalk | 5,133
-tamilmirrorlk | 5,685
+tamilmirrorlk | 5,686
 virakesarilk | 6,921
-adaderanasinhalalk | 7,466
+adaderanasinhalalk | 7,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,678 (99.9%) of 43,703 articles have been extended.
+43,686 (100.0%) of 43,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Army is appointed new Staff
+
+*2024-09-13 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200985) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Major General Dinesh Nanayakkara appointed Chief of Sri Lanka Army. Effective September 16, appointed by Commander of the Army.
+
+🟩
+
+Major General Dinesh Nanayakkara has been appointed as the Chief of Sri Lanka Army.
+
+The Army Commander has been appointed by the Commander of the Army to be effective from September 16.
+
+◼️
+
+[Data](articles/fe955cc2.json)
+
+[Extended Data](ext_articles/fe955cc2.ext.json)
+
+---
+
+### Cabinet decision to remove vehicle import boundations
+
+*2024-09-13 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200984) · `si`
+
+Cabinet removes vehicle import restrictions by Feb 2024. Decision based on increased forex reserves and stronger rupee.
+
+🟩
+
+The Cabinet has decided to remove the ban / limits of the vehicle imports of vehicle imports by February next year.
+
+Mr. Ali Sabri said that he issued a message.
+
+The decision has been taken due to the increase in foreign exchange reserves and the rupee strengthening.
+
+◼️
+
+[Data](articles/74fa6501.json)
+
+[Extended Data](ext_articles/74fa6501.ext.json)
+
+---
+
+### Sri Lanka - IMF Agreement ChangeIMF response
+
+*2024-09-13 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200983) · `si`
+
+Sri Lanka IMF agreement update: Strong program progress, economic growth, inflation reduction. Risks remain; reforms crucial. Third review post-elections. $3 billion access approved.
+
+🟩
+
+The International Monetary Fund (IMF) says Sri Lanka has a designer with the international Monetary Fund and Sri Lanka.
+
+The Director of the Communication Division of July July The journalist was responding to an eye on the agreement between the President and the International Monetary Fund.
+
+"The progress of the program is strong. The results of reform effort. Economic growth is good. Inflation is reduced. Reserve, international reserves grow. Revenue is strengthened. But there are some risks still. Therefore, it is important to maintain reforms. "
+
+July Kosak added, "First, the uprolling election, of course, it is something to decide that the people of Sri Lanka should decide. It is a key to achieving the goals of the IMF program to get over the worst crisis in history. The country is not completely out of the crisis. So it was worth serving hardships, ".
+
+...
+
+[Data](articles/cc116ccb.json)
+
+[Extended Data](ext_articles/cc116ccb.ext.json)
+
+---
 
 ### Sri Lanka to lift all vehicle import restrictions by February 2025
 
@@ -46,19 +116,27 @@ Sri Lanka’s Cabinet of Ministers has decided to lift all vehicle import restri
 
 [Data](articles/140e9b30.json)
 
+[Extended Data](ext_articles/140e9b30.ext.json)
+
 ---
 
-### උද්දිකගේ රථයට වෙඩි තැබූ සිද්ධියේ හිටපු ASP ට ඇප
+### Ex-ASP bailed on the incident
 
 *2024-09-13 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200982) · `si`
 
-අනුරාධපුර හිටපු සහකාර පොලිස් අධිකාරී සංජීව මහානාම ට අද (13) අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය මගින් ඇප නියම කර තිබේ.
+Former ASP granted bail in Anuradhapura court over ex-MP's vehicle case.
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතාගේ වාහනයට වෙඩිතැබීමේ සිද්ධිය සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු විසින් ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+🟩
+
+Former Assistant Superintendent of Assistant Superintendent of Assistant Superintendent of Assistant Anuradhapura has been granted bail to Anuradhapura Magistrate's Court today (13).
+
+He was arrested by the Criminal Investigations Departments regarding the investigation of former MP Udabbathi Premaratne's vehicle.
 
 ◼️
 
 [Data](articles/b3eb2400.json)
+
+[Extended Data](ext_articles/b3eb2400.ext.json)
 
 ---
 
@@ -177,6 +255,30 @@ The executive council executive speaking at the meeting. And. Mr. Weerasumana We
 [Data](articles/06548a64.json)
 
 [Extended Data](ext_articles/06548a64.ext.json)
+
+---
+
+### Three -wheeler collided with a train
+
+*2024-09-13 13:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்துடன்-மோதிய-முச்சக்கர-வண்டி-இருவர்-பலி/175-343716) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Two persons died after a three-wheeler crashed into a train at a railway crossing in Ratgama and Wijeratne Mawatha. The incident was confirmed by Deputy Inspector General of Police Nihal Talduwa."
+
+🟩
+
+Two persons were killed when a three -wheeler collided with a train in Ratgama and Wijeratne Mawatha.
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa says that the accident occurred at Ratgama and Wijeratne Mawatha railway crossing.. Remble
+
+◼️
+
+[Data](articles/68306d96.json)
+
+[Extended Data](ext_articles/68306d96.ext.json)
 
 ---
 
@@ -2121,93 +2223,5 @@ Tourist arrivals from the same year and Rs.
 [Data](articles/2cb57eaa.json)
 
 [Extended Data](ext_articles/2cb57eaa.ext.json)
-
----
-
-### Only Namal Rajapaksa can protect the integrity of the country - Mahinda Rajapaksa
-
-*2024-09-12 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/193535) · `ta`
-
-Mahinda Rajapaksa claims Namal Rajapaksa alone can protect Sri Lanka's integrity. He criticizes previous governments' handling of loans and development. Refers to 2019 protests and 2022 Aragalaya, suggesting he prevented major changes. Promises no policy betrayal for political gain.
-
-🟩
-
-Our presidential candidate has explicitly referred to the rights of other religions and protecting the rights of other religions without dividing the country.. Namal Rajapakse can only protect the integrity of the country. The progressive people who have been on their homeland should make a decision to consider the future of the country. Former President Mahinda Rajapakse said that policies were not betrayed for politics.
-
-He was speaking at the election campaign meeting held in Beliam on Wednesday evening.
-
-Sri Lanka PA has been uprising today. We are the only responsibility to improve a country without zealous politics. The best side is with us. Those who have left will come together again with us.
-
-The presidential election is decisive. The country went backwards by 30 years of war. We ended the war and developed the country. We have confirmed national security. When the country progressed, we were defeated by the political intrigue in 2015. This political maneuver has not ended today.
-
-...
-
-[Data](articles/bede11e6.json)
-
-[Extended Data](ext_articles/bede11e6.ext.json)
-
----
-
-### MacCoins to open Mahawa - Anuradhapura railway line
-
-*2024-09-12 19:27:51* · [`adalk`](https://www.ada.lk/breaking_news/මහව---අනුරාධපුර-දුම්රිය-මාර්ගය-විවෘත-කිරීමට-මැකො-හරස්වෙයි/11-411929) · `si`
-
-Sri Lanka Railway project update: MacCoins funding for Mahawa-Anuradhapura line faces issues due to incomplete signaling system. Audit recommended over employee payments. Official announcement delayed until September 12, 2024. Construction began in January 2024 but halted before completion. Legal action threatened over election-related propaganda.
-
-🟩
-
-The railway line from the Indian Loan Scheme is still insecure to the Indian Credit Scheme, the train was notified yesterday (12), the train was suspended after being informed.The Sri Lanka Railway Station Says the Sri Lanka Railways yesterday (12) at the Ministry yesterday.
-
-Sri Lanka Railways Sumantha Summa Somaratne said that there was not a signal of a proper signal at the time of yesterday (12th).Over the exception of the area of ​​the area and the Thambuththegama railway station, the Railway Status said.
-
-The President of the Association Sumedha Somaratne said that allegedly unable to complete the entire railway line from Anuradhapura to Mahawa, he said a audit should be carried out regarding the money paid to employees and the money paid to employees.. He further stated that the Elections Commission and the Sri Lanka Railways have been informed about this.
-
-...
-
-[Data](articles/5cc4800f.json)
-
-[Extended Data](ext_articles/5cc4800f.ext.json)
-
----
-
-### Sajith Premadasa says the rich will pay more if he becomes President
-
-*2024-09-12 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101924/sajith-premadasa-says-the-rich-will-pay-more-if-he-becomes-president) · `en`
-
-Sri Lanka’s opposition leader contesting the presidential election next week said Thursday that if he comes to power he will renegotiate with the International Monetary Fund the 2022 economic reforms package to ensure that the rich pay more taxes and the poor see their conditions improve.
-
-The reforms were introduced after Sri Lanka defaulted on its foreign debt creating the worst economic crisis in its history.
-
-Sajith Premadasa, the opposition leader in Parliament told The Associated Press in an interview that his party has already started discussions with the IMF to find ways to ease the tax burden on the people.
-
-“We will be embarking on the third path, the middle path, the path is where wealth is created, the country grows and the wealth is equitably distributed,” Premadasa said.
-
-...
-
-[Data](articles/a42b5008.json)
-
-[Extended Data](ext_articles/a42b5008.ext.json)
-
----
-
-### North East will not be connected; Namal confirmed
-
-*2024-09-12 19:24:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-இணைக்கப்படாது-நாமல்-உறுதி/175-343686) · `ta`
-
-Namal Rajapakse: North East won't join SLPP, no police/land powers. Promises religious equality. Focuses on long-term stability over short-term gains.
-
-🟩
-
-The party's presidential candidate Namal Rajapakse has said that the North and East will not be incorporated under the SLPP government, while police or land powers will not be granted to these areas.
-
-He said this while responding to questions raised by journalists during a media briefing in Jaffna today.
-
-Rajapakse stressed that a Buddhist country protects all religions, languages ​​and communities, not betraying the SLPP country or party for short -term benefits, privileges or positions.
-
-◼️
-
-[Data](articles/d7d75a74.json)
-
-[Extended Data](ext_articles/d7d75a74.ext.json)
 
 ---

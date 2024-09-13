@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 16:22:15**
+As of **2024-09-13 16:37:51**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,706 (100.0%) of 43,715 articles have been extended.
+43,712 (100.0%) of 43,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
 
-### මාලිමාවේ ආධාරකරුවන් රැගත් බස්රථයකට ප්‍රහාරයක්
+### Attack on a bus carrying the supporters of the compass
 
 *2024-09-13 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200990) · `si`
 
-අද (13) උදෑසන මොනරාගල ප්‍රදේශයේ පැවති ජාතික ජන බලවේගයේ රැස්වීමකට සහභාගී වී නැවත පැමිණෙමින් තිබූ බස් රථයකට යම් කිසි පිරිසකගෙන් ප්‍රහාරයක් එල්ල වී තිබේ.
+Bus attack during Moneragala general meeting injures four supporters of presidential candidate Anura Kumara Dissanayake.
 
-එම පක්ෂයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් මොනරාගල ප්‍රාදේශීය සභා ක්‍රීඩාංගනයේදී පැවැති ජන හමුවකට එක් ව ආපසු යමින් සිටි පිරිසකට මෙම ප්‍රහාරය එල්ල වී තිබුණි.
+🟩
 
-ප්‍රහාරයෙන් සිව්දෙනෙකුට තුවාල සිදුව ඇති අතර ඔවුන් ප්‍රතිකාර සඳහා බුත්තල ප්‍රාදේශීය රෝහලට ඇතුළත් කර ඇත.
+A bus was attacked by a person who was returning to a meeting in the Moneragala area this morning.
+
+The attack took place in the Moneragala General Meeting at the Moneragala Pradeshiya Sabha Stadium, headed by the party's presidential candidate Anura Kumara Dissanayake.
+
+Four persons were injured and admitted to the Buttala Regional Hospital for treatment.
 
 ◼️
 
 [Data](articles/ead2d2ee.json)
+
+[Extended Data](ext_articles/ead2d2ee.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ However, the Magistrate stated that the case was expedited and the necessary exp
 ...
 
 [Data](articles/948cd484.json)
+
+[Extended Data](ext_articles/948cd484.ext.json)
 
 ---
 
@@ -538,21 +546,27 @@ However, Ranil, Sajith holds political meetings throughout the presidential elec
 
 ---
 
-### ආර්ථික දියුණුවත් සමඟ රාජ්‍ය හා පෞද්ගලික අංශයේ රැකියා 100,000ක්
+### 100,000 public and private sector jobs with economic growth
 
 *2024-09-13 12:56:55* · [`adalk`](https://www.ada.lk/picture_story/ආර්ථික-දියුණුවත්-සමඟ-රාජ්‍ය-හා-පෞද්ගලික-අංශයේ-රැකියා-100-000ක්/10-411932) · `si`
 
-තරුණ තරුණියන්ට ගෝලීය ප්‍රමිතීන්ට අනුකූල උසස් අධ්‍යාපන අවස්ථා මෙරටදීම ලබා ගැනීමට අවස්ථාව සලසමින් රාජ්‍ය සහ පෞද්ගලික අංශයේ නව අධ්‍යාපන ආයතන රැසක් ඉදිරියේ දී රට තුළ ස්ථාපිත කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Sri Lanka's President Ranil Wickremesinghe announces plans for 100,000 new jobs in public and private sectors. He promotes vocational training and establishment of new educational institutions to meet growing demand for skilled workers in a developing economy.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ “Times School of Higher Education” උසස් අධ්‍යාපන පාසල සමාරම්භය වෙනුවෙන් කොළඹ ගාලු මුවදොර හෝටලයේදී පැවැත්වුණු උත්සවය අමතමිනි.
+🟩
 
-සීමාසහිත විජය පුවත්පත් සමාගමට අනුබද්ධ ආයතනයක් ලෙස ටයිම්ස් උසස් අධ්‍යාපන ආයතනය ආරම්භ කර තිබෙන අතර විදේශීය විශ්වවිද්‍යාල සහ උසස් අධ්‍යාපන ආයතන තුනක් සමඟ ඒකාබද්ධව ජාත්‍යන්තර ප්‍රමිතීන්ට අනුකුලව මෙහි අධ්‍යාපන කටයුතු පවත්වාගෙන යනු ලබයි.
+President Ranil Wickremesinghe said that the youths will establish many new educational institutions in the country, educating young people to achieve higher education opportunities in accordance with global standards.
 
-ප්‍රධාන කාණ්ඩ තුනක් යටතේ පුළුල් පරාසයක රැකියා ඉලක්ක කරගත් අධ්‍යාපන පාඨමාලා මෙහි පවත්වාගෙන යනු ලබන අතර ඒ අනුව සහතික පත්‍ර, ඩිප්ලෝමා සහ උසස් ඩිප්ලෝමා පාඨමාලා මෙන්ම ඩිජිටල් ඇකඩමිය හරහා වෘත්තීය නිපුණතා සංවර්ධන වැඩසටහන් හා උපාධි සහ පශ්චාත් උපාධි වැඩසටහන් මෙහි පවත්වාගෙන යනු ලැබේ.
+The President was addressing the festival at the Galle Face Hotel in Colombo on the inauguration of the Times School of High-of High-of High-Education High School.
+
+The Times of Higher Education has launched a subsidiary of Vijaya Newspaper Company Limited and the SLSI is conducting education in accordance with international standards in accordance with international standards.
+
+A wide range of employment opportunities are maintained here, according to the main categories of employment, Diploma and Higher Diploma Courses, as well as postgraduate programs.
 
 ...
 
 [Data](articles/204f938d.json)
+
+[Extended Data](ext_articles/204f938d.ext.json)
 
 ---
 

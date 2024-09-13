@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 18:57:33**
+As of **2024-09-13 19:09:05**
 
 ## Newspaper Stats
 
-*Scraped **43,737** Articles*
+*Scraped **43,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 429
 islandlk | 2,554
 economynextcom | 2,664
 dailyftlk | 2,910
-adalk | 4,049
+adalk | 4,050
 dailymirrorlk | 4,733
 adaderanalk | 5,138
 tamilmirrorlk | 5,688
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,479
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,737 (100.0%) of 43,737 articles have been extended.
+43,738 (100.0%) of 43,738 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -229,6 +229,36 @@ Sita Arambola has been appointed Minister of State for Women and Child Affairs i
 [Data](articles/282dd955.json)
 
 [Extended Data](ext_articles/282dd955.ext.json)
+
+---
+
+### Boil 60 lakhs of the airport in Cyprus and collect visa air tickets.
+
+*2024-09-13 16:49:47* · [`adalk`](https://www.ada.lk/breaking_news/සයිප්‍රසයේ-රස්සා-දෙනවා-කියා-ලක්ෂ-60ක්-අරන්--ගුවන්-තොටුපලටම-ඇවිත්-වීසා-ගුවන්-ටිකට්-පත්-එකතුකරගෙන-පිටු/11-411935) · `si`
+
+Cyprus-bound youth group faces airport issues: Visa and ticket problems lead to police involvement.
+
+🟩
+
+The Katunayake airport was taken to the Katunayaka airport and secured the Katunayake airport to take away Rs.Have been given.
+
+The youths were informed that she sent to Cyprus' jobs 9/13, and some youths were leaving their villages from around 03.00 am and arrived at the Katunayake airport.
+
+These youths had already provided aircraft tickets and visas and instructed the airport departure terminal until this job delegation arrived.
+
+The airplane to take off the aircraft was due to leave at 10.30 am, and the job delegation had arrived at the Katunayake airport around 08.45 am.
+
+She has made all of their visas and aircraft tickets and entered the airport.
+
+The group waited another hour, while he was drowning at the airport and was expelled from the back of the airport and took her to the Katunayake airport police.
+
+The woman had revealed that the woman had made money from 15 others that the Cyprus was promised in the Cyprus.
+
+...
+
+[Data](articles/2bfe5aef.json)
+
+[Extended Data](ext_articles/2bfe5aef.ext.json)
 
 ---
 
@@ -2285,23 +2315,5 @@ Sysco LABS is proud to announce its recent recognition within the top ten of Sri
 [Data](articles/28fa610c.json)
 
 [Extended Data](ext_articles/28fa610c.ext.json)
-
----
-
-### Iconic Trust increases stake in Sierra Cables to over 30 percent
-
-*2024-09-13 03:51:00* · [`islandlk`](http://island.lk/iconic-trust-increases-stake-in-sierra-cables-to-over-30-percent/) · `en`
-
-Iconic Trust (Private) Limited, a subsidiary of Browns Investments PLC, said it had purchased 6,654,899 shares of Sierra Cables, increasing its stake in the company to 30.42 percent.With the increase in ownership in voting shares of Sierra Cables, Iconic Trust will make a mandatory offer to its remaining shareholders in terms of the Takeovers & Mergers Code in due course, informed sources said.
-
-Sierra Cables voting shares were bought at Rs. 8 each, for a gross consideration of Rs 53,239, 192.
-
-Amid those developments, the stock market yesterday got off to a good start but later selling pressure was recorded, especially for blue-chip counters, due to prevailing political uncertainties.
-
-...
-
-[Data](articles/0c8db5b4.json)
-
-[Extended Data](ext_articles/0c8db5b4.ext.json)
 
 ---

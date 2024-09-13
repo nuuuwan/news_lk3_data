@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 23:22:39**
+As of **2024-09-13 23:38:10**
 
 ## Newspaper Stats
 
-*Scraped **43,779** Articles*
+*Scraped **43,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 4,052
 dailymirrorlk | 4,733
 adaderanalk | 5,143
 tamilmirrorlk | 5,690
-virakesarilk | 6,938
+virakesarilk | 6,939
 adaderanasinhalalk | 7,488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,777 (100.0%) of 43,779 articles have been extended.
+43,780 (100.0%) of 43,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Seanu Ramasamy's 'Poultry Selvan' Vijay Sethupathi released the Oudio of the movie 'Poultry Farm Chellaturai'
+
+*2024-09-13 23:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/193631) · `ta`
+
+Vijay Sethupathi releases audio of "Poultry Farm Chellaturai" in Chennai. Director Seanu Ramasamy's film stars Egan, Yogi Babu, Brigita. Music by R. Raghunandan. Produced by Arunandandu and Mathew Arulanandu.
+
+🟩
+
+The music release of the film 'Kozhipanni Chellaturai', which plays the lead role as the hero of the story, was held in Chennai. During this time, the film's celebrities including Vijay Sethupathi, including 'Nam Selvan', released the film's Oudio on the role of a special guest.
+
+The National Award -winning creator Seanu Ramaswamy starred in the film 'Kozhip Panni Selvathurai' starring Egan, Yogi Babu, Brigita, Bawa Selvathurai, Leo Sivakumar, Satya Devi, Jaya Surya. Ashok Raj is a cinematographer for this movie. R. Raghunandan has composed the music. The film, which is emotionally described by the brother -in -law, has co -produced the producers Arunandandu and Mathew Arulanandu on behalf of the Vision Cinema House Company.
+
+The music release of the film will be released in Chennai on the twentieth day of the film.. 'People Selvan' Vijay Sethupathi, producer Suresh Kamakshi, director Hariharan, actor Rio Raj and distributor Shakti Velan participated in the event.
+
+...
+
+[Data](articles/1408cdf8.json)
+
+[Extended Data](ext_articles/1408cdf8.ext.json)
+
+---
 
 ### There is no connection to assault the seminar - Nalinda
 
@@ -71,6 +93,8 @@ Meanwhile, the restrictions on importing other passenger vehicles, including car
 ...
 
 [Data](articles/9e7b0f26.json)
+
+[Extended Data](ext_articles/9e7b0f26.ext.json)
 
 ---
 
@@ -153,6 +177,8 @@ He urged the public to make the most of what he described as an “unprecedented
 ...
 
 [Data](articles/97be038e.json)
+
+[Extended Data](ext_articles/97be038e.ext.json)
 
 ---
 
@@ -2355,27 +2381,5 @@ The murder was a fishing businessman in Hatugala and has not been arrested.
 [Data](articles/269b9029.json)
 
 [Extended Data](ext_articles/269b9029.ext.json)
-
----
-
-### Complaint not to open the northern railway line
-
-*2024-09-13 10:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வடக்கு-புகையிரத-பாதையை-திறக்க-வேண்டாம்-என-முறைப்பாடு/71-343713) · `ta`
-
-Locomotive Directors Engineers Association opposes opening Anuradhapura-Northern Railway due to safety concerns and incomplete renovation work. They've written to Elections Commission requesting suspension of the project.
-
-🟩
-
-The Locomotive Directors Engineers Association has sent a letter to the Elections Commission demanding the suspension of the opening of the railway line from Anuradhapura to the Northern Railway.
-
-They allege that the signal system of the service religion has not been revamped and that the railway line is unsafe.
-
-Against this backdrop, the Locomotive Directors Engineers Association has said that efforts are being made to open the presidential election as the amendment work from the Northern Railway Religion to the Mahawa Religion is incomplete.. Remble
-
-◼️
-
-[Data](articles/0aececf1.json)
-
-[Extended Data](ext_articles/0aececf1.ext.json)
 
 ---

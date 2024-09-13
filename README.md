@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 20:09:17**
+As of **2024-09-13 20:22:19**
 
 ## Newspaper Stats
 
-*Scraped **43,757** Articles*
+*Scraped **43,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,140
 tamilmirrorlk | 5,688
 virakesarilk | 6,930
-adaderanasinhalalk | 7,481
+adaderanasinhalalk | 7,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,756 (100.0%) of 43,757 articles have been extended.
+43,757 (100.0%) of 43,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### පහර කෑ පාසල් සිසුවිය මාසයකට වැඩි කලක් දැඩි සත්කාර ඒකකයේ
+
+*2024-09-13 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200998) · `si`
+
+පාසල් සිසුවියකට පහරදීමේ චෝදනාව මත අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි පාසල් ගුරුවරියන් දෙදෙනෙකු අද (13) මාරවිල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන්  අනතුරුව ඇප මත නිදහස් කර තිබේ.
+
+මෙලෙස ඇප මත නිදහස් කර ඇත්තේ වෙන්නප්පුව නගරයට ආසන්නයේ පිහිටි ප්‍රධාන පාසලක ගුරුවරියන් දෙදෙනෙකි.
+
+මේ අතර පහර කෑමට ලක්වූ සිසුවිය මාසයකට වැඩි කාලයක් කොළඹ  ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබන්නීය.
+
+දැරියගේ තත්ත්වය පිළිබදව මේ දක්වා රෝහලේ බලධාරීන් කිසිවක් ප්‍රකාශ නොකළ බව දෙමාපියන් පැවසීය.
+
+මෙම සිසුවියට ප්‍රතිකාර කිරීම සදහා  රුපියල් ලක්ෂ 300,000ක සානුකම්පිත දීමනාවක් ගෙවීමටත් මහෙස්ත්‍රාත්වරයා සැකකාර ගුරුවරියන් ට නියෝග කළේය.
+
+◼️
+
+[Data](articles/4bcde3c9.json)
+
+---
 
 ### IMF to move forward with Sri Lanka program discussions after presidential poll
 
@@ -47,6 +67,8 @@ Nonetheless, she stated that important vulnerabilities do remain, and that susta
 ...
 
 [Data](articles/0eac3451.json)
+
+[Extended Data](ext_articles/0eac3451.ext.json)
 
 ---
 
@@ -2337,25 +2359,5 @@ The executive policy of executive manager, Executive Member of Parliament, said 
 [Data](articles/b7dd5e12.json)
 
 [Extended Data](ext_articles/b7dd5e12.ext.json)
-
----
-
-### Will the ballots be replaced?- Elections Commission clarifies!
-
-*2024-09-13 06:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/193540) · `ta`
-
-Election Commission clarifies: Ballots won't be changed after referendum. Polling station boxes will remain unchanged. Politicians informed about no ballot box elimination. Commission issues statement to alleviate concerns about ballot changes.
-
-🟩
-
-At the end of the referendum, the ballot boxed by the ballot boxes that the ballot boxed from the polling station will be brought to the hall without any change, the politicians and candidates have been informed that there is no such thing as a move to eliminate the voting box.The Commission said.
-
-In this case, the Election Commission has issued an explanation for alleviating the prejudices of changing the ballot boxes.
-
-◼️
-
-[Data](articles/d0e4a9f8.json)
-
-[Extended Data](ext_articles/d0e4a9f8.ext.json)
 
 ---

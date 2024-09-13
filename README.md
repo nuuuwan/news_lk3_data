@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 05:22:35**
+As of **2024-09-13 05:43:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,523 (99.8%) of 43,623 articles have been extended.
+43,526 (99.8%) of 43,623 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -73,6 +73,8 @@ The two Indian Ocean island nations are heavily reliant on tourism and foreign e
 ...
 
 [Data](articles/b470f1ab.json)
+
+[Extended Data](ext_articles/b470f1ab.ext.json)
 
 ---
 
@@ -279,6 +281,8 @@ The ‘aragalaya’ was primarily against a popularly elected President, who was
 ...
 
 [Data](articles/7fc1b909.json)
+
+[Extended Data](ext_articles/7fc1b909.ext.json)
 
 ---
 

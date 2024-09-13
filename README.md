@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 08:19:46**
+As of **2024-09-13 08:33:01**
 
 ## Newspaper Stats
 
-*Scraped **43,652** Articles*
+*Scraped **43,654** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 2,660
 dailyftlk | 2,910
 adalk | 4,040
 dailymirrorlk | 4,733
-adaderanalk | 5,118
+adaderanalk | 5,119
 tamilmirrorlk | 5,682
 virakesarilk | 6,912
-adaderanasinhalalk | 7,453
+adaderanasinhalalk | 7,454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,548 (99.8%) of 43,652 articles have been extended.
+43,548 (99.8%) of 43,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### මම රට උදුර ගත්තේ නැහැ..භාර ගන්න කවුරුත් හිටියේ නැහැ - රනිල්
+
+*2024-09-13 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200968) · `si`
+
+තමා රට උදුරා නොගත් බවත් රට භාර ගැනීමට කවුරුත් නොමැති නිසා රට භාර ගැනීමට සිදුවූ බවත් ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ පුළුවන් ශ්‍රී ලංකා විජයග්‍රාහී ජන රැලි මාලාවේ කැස්බෑව ජන රැලිය අමතමිනි.
+
+"රට අර්බුදයක තිබූ අවස්ථාවේ එය භාරගෙන වෙනස් කිරීමට මට හැකි වුණා. මම ඒක කළේ එක විශ්වාසයක් මත. මම කාගෙන්වත් රට උදුර ගත්තේ නැහැ. ගන්න කවුරුත් හිටියේ නැහැ."
+
+"දැන් රට ටිකෙන් ටික ගොඩගන්නවා. අපි දැන් ඒක තහවුරු කරන්න ඕනේ. ඒක කරන්න තව අවුරුදු තුන හතරක් යනවා. ඒ සඳහා වරම ඉල්ලන්න තමයි මම ඉදිරිපත් වුණේ."
+
+"ජීවන බර තවත් සැහැල්ලු කරන්න, බදු බර තවත් අඩු කරන්න, රැකියා උත්පාදනය සඳහා අපි සතුව වැඩපිළිවෙළක් තිබෙනවා."
+
+◼️
+
+[Data](articles/b0e05f15.json)
+
+---
 
 ### Special Transport Service from Today
 
@@ -73,6 +93,26 @@ He was speaking at a public rally in Vavuniya to end the human-elephant conflict
 [Data](articles/753b083f.json)
 
 [Extended Data](ext_articles/753b083f.ext.json)
+
+---
+
+### President plans expansion of public and private educational institutions in Sri Lanka
+
+*2024-09-13 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101929/president-plans-expansion-of-public-and-private-educational-institutions-in-sri-lanka) · `en`
+
+President Ranil Wickremesinghe announced that the country will soon see the establishment of numerous new educational institutions, both public and private.
+
+These new institutions will provide young people with opportunities for higher education that meet global standards, he said.
+
+The President made this statement during a ceremony on Thursday (12) at the Galle Face Hotel, Colombo, where he inaugurated the “Times School of Higher Education.”
+
+The President stated that they plan to allocate government funds to support 50,000 youths in receiving vocational training at recognized institutions. “We have the capability to establish such institutions to provide this training, complementing existing training programs.”
+
+He stated that as the country develops over the coming years, increased investment opportunities and the creation of new industries are expected to generate approximately 100,000 new jobs in both the public and private sectors.
+
+...
+
+[Data](articles/94587a95.json)
 
 ---
 
@@ -2221,53 +2261,5 @@ Fitch Ratings – Colombo – 12 Sep 2024: Fitch Ratings has assigned MCB Bank L
 [Data](articles/003d7ef2.json)
 
 [Extended Data](ext_articles/003d7ef2.ext.json)
-
----
-
-### Elpitiya Pradeshiya Sabha election on October 26
-
-*2024-09-12 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101918/elpitiya-pradeshiya-sabha-election-on-october-26) · `en`
-
-The election of the Elpitiya Pradeshiya Sabha is scheduled to be held on October 26, according to the Returning Officer of the Galle District.
-
-The deadline for the handing over of nominations for the Elpitiya Pradeshiya Sabha ended at 12 noon today (12) while time was given until 1.30 p.m. to submit objections.
-
-Accordingly, a total of 09 registered political parties and 02 independent groups had handed in nominations.
-
-The nominations for the Elpitiya Pradeshiya Sabha in the 2024 Local Government Elections were accepted from September 09 to September 12.
-
-A total of 10 recognized political parties and 02 independent groups had placed deposits for the election, however out of them only 09 recognized political parties and 2 independent groups had submitted their nomination papers today (12).
-
-Of those, the nomination papers of 08 recognized political parties and an independent group were accepted, according to Galle District Secretary W. A. Dharmasiri.
-
-◼️
-
-[Data](articles/f53c7af2.json)
-
-[Extended Data](ext_articles/f53c7af2.ext.json)
-
----
-
-### Elpitiya Pradeshiya Sabha Elections October 26
-
-*2024-09-12 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200947) · `si`
-
-Elpitiya Pradeshiya Sabha elections scheduled for October 26. Nominations began on September 9. Nine political parties and two independent groups have submitted nominations. Democratic People's Congress did not participate.
-
-🟩
-
-The date on October 26, the Elpitiya Pradeshiya Sabha elections have been placed on October 26.
-
-Lasting Last Details of the Elpitiya Pradeshiya Sabha Voluntaneration commenced on the 9th of this month.
-
-Accordingly, nine accepted political parties and two independent groups have handed over nominations.
-
-Meanwhile, two independent groups have handed over nominations and the Democratic People's Congress has not been submitted.
-
-◼️
-
-[Data](articles/7562553d.json)
-
-[Extended Data](ext_articles/7562553d.ext.json)
 
 ---

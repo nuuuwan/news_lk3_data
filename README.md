@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 15:56:54**
+As of **2024-09-13 16:10:49**
 
 ## Newspaper Stats
 
-*Scraped **43,709** Articles*
+*Scraped **43,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 2,662
 dailyftlk | 2,910
 adalk | 4,047
 dailymirrorlk | 4,733
-adaderanalk | 5,133
+adaderanalk | 5,134
 tamilmirrorlk | 5,686
 virakesarilk | 6,921
-adaderanasinhalalk | 7,471
+adaderanasinhalalk | 7,473
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,696 (100.0%) of 43,709 articles have been extended.
+43,700 (100.0%) of 43,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Decision to reduce PAYE Tax
+
+*2024-09-13 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200989) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's Cabinet proposes reducing PAYE tax rates. The plan, agreed upon by the IMF, aims to lower tax deductions for income brackets from Rs. 150,000 to Rs. 300,000. For example, the Rs. 150,000 bracket would see a reduction from Rs. 3,000 to Rs. 2,500 annually. This change is set to be included in the upcoming budget proposals.
+
+🟩
+
+Cabinet spokesman Bandula Gunawardena says that the tax deduction proposal will be included in the budget proposals.
+
+The proposal by the government has been submitted to the IMF and has obtained its agreement.
+
+According to the proposal, taxes will be reduced by the proposal:
+
+Rs. 150,000 - Rs. 3,000 per tax of Rs.. Reduced to 2,500.
+
+300,000 rupees of Rs. 7,000 per year - Rs. 3,500 Rs. 3,500. Reduced to 3,500.
+
+"Today, the Cabinet of the Budget Settlement to the Treasury of the Budget
+
+◼️
+
+[Data](articles/d44b2f02.json)
+
+[Extended Data](ext_articles/d44b2f02.ext.json)
+
+---
+
+### Seetha sworn in as state minister
+
+*2024-09-13 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200988) · `si`
+
+Dr. Seetha Aravelupola sworn in as Minister of Women and Child Affairs. Also retains Health Ministry position. Ceremony held at Presidential Secretariat with President Ranil Wickremesinghe and Presidential Secretary Saman Ekanayake in attendance.
+
+🟩
+
+Specialist Dr. Sehaetha Aravelupola was sworn in as the Minister of Women and Child Affairs.
+
+She was sworn in before President Ranil Wickremesinghe at the Presidential Secretariat this morning.
+
+Seetha Arambapola appointed Minister of Women and Child Affairs in addition to the post of Health Minister.
+
+Presidential Secretary Saman Ekanayake was also present at the occasion.
+
+◼️
+
+[Data](articles/9cfcde99.json)
+
+[Extended Data](ext_articles/9cfcde99.ext.json)
+
+---
 
 ### The country will continue and develop the country - Namal
 
@@ -57,6 +113,26 @@ We've been working, we know how to work so we will add. We're not getting off th
 [Data](articles/d902f5a3.json)
 
 [Extended Data](ext_articles/d902f5a3.ext.json)
+
+---
+
+### Former Anuradhapura ASP Sanjeewa Mahanama granted bail
+
+*2024-09-13 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101945/former-anuradhapura-asp-sanjeewa-mahanama-granted-bail) · `en`
+
+The Anuradhapura Magistrate’s Court has granted bail to former Assistant Superintendent of Police (ASP) of Anuradhapura Sanjeewa Mahanama today (13).
+
+The Criminal Investigation Department (CID) had arrested Sanjeewa Mahanama for allegedly assisting in the orchestrated shooting targeting the vehicle of former parliamentarian Uddika Premaratne.
+
+On June 14, Sri Lanka Police said that investigations had uncovered that the incident where several gunshots had been fired at the vehicle belonging to then-Anuradhapura District MP Uddika Premaratne, had been staged by the actor-turned-politician himself with the help of the Anuradhapura ASP.
+
+On September 17, 2023, it was initially reported that a group of unidentified gunmen had opened fire at Premaratne’s car soon after he returned to his residence in Anuradhapura at around 10:35 p.m. and that the parliamentarian had managed to escape unharmed.
+
+...
+
+[Data](articles/9ab12294.json)
+
+[Extended Data](ext_articles/9ab12294.ext.json)
 
 ---
 
@@ -2155,79 +2231,5 @@ A 32 -page study titled 'The Okland Institute' in California, USA, has published
 [Data](articles/91fd23fc.json)
 
 [Extended Data](ext_articles/91fd23fc.ext.json)
-
----
-
-### Dilith gave to every social level
-
-*2024-09-12 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200955) · `si`
-
-Dilith Jayaweera claims unique strategic plan for all social levels in presidential election. Emphasizes practical solutions for farmers, fishermen, workers, and public servants. Promises productive economy and national progress despite regional challenges.
-
-🟩
-
-Dilith Jayaweera says he is the only candidate that has presented a strategic plan to represent the views of all social areas in the presidential election.
-
-Another public meeting at the 'Dilith Gamata' seat meetings was held under the patronage of the annuition entrepreneurs Dilith Jayaweera.
-
-"Green, yellowish green and purple.. What is different. The work is the same. We have been brought instead a strategic program. A practical program. The farmer, fisherman and the worker meet the public servant.. A strategic program representing every man in this country. "
-
-"The debt is to be paid. Thieves want to catch. Need to acquire poven of horarypu. But to raise our country, you have to go to a productive economy that goes over. There is that determination to the exangeration. "
-
-"What happens in our surrounding lands by this presidential election of Sri Lanka?. Bangladesh is now down. The region is being attacked today. Came to Sri Lanka. Can we be fragmented. Some are ready to complete it. "
-
-◼️
-
-[Data](articles/6a17035b.json)
-
-[Extended Data](ext_articles/6a17035b.ext.json)
-
----
-
-### Tax revenues in the first eight months grow by 28.5%
-
-*2024-09-12 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200954) · `si`
-
-Tax revenues increase 28.5% from Jan-Aug 2023 vs 2024. Inland Revenue collects Rs 1,229,245 million, up from Rs 956,418 million. Corporate tax, Social Security Tax, and other taxes contribute to growth.
-
-🟩
-
-The income income of the year 2024 has increased by 28.5% compared to the same period last year, according to the Department of Inland Revenue.
-
-The Inland Revenue Department has issued a statement issued by the Department of Inland Revenue this afternoon.
-
-According to the end of this January to August, the Inland Revenue Department has scored a tax revenue of Rs 1,229,245 million.
-
-However, this time period has been able to collect to Rs. 956,418 million.
-
-The Department of Inland Revenue has collected the tax on the tax on the corporate tax, Social Security Tax, Stock Transaction Tax, Stock Transaction Tax, Stock Transaction Tax and other taxes.
-
-◼️
-
-[Data](articles/5f7ad0a0.json)
-
-[Extended Data](ext_articles/5f7ad0a0.ext.json)
-
----
-
-### Sri Lankan caught using forged Malaysian passport at Thai border
-
-*2024-09-12 19:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101925/sri-lankan-caught-using-forged-malaysian-passport-at-thai-border) · `en`
-
-The Kedah Immigration Department arrested a Sri Lankan national for possessing a forged Malaysian passport at the Malaysia-Thailand border checkpoint in Bukit Kayu Hitam yesterday.
-
-Its director, Mohd Ridzzuan Mohd Zain, said the 21-year-old foreigner was detained at the Immigration, Customs, Quarantine and Security (ICQS) Complex while attempting to cross into Thailand using a passport bearing the name ‘Raja Danny Denis’.
-
-“The man was detained while trying to cross into Thailand by impersonating a Malaysian citizen. However, he was immediately detained after checks showed that his passport was invalid,” he said today.
-
-Ridzzuan said the suspect is being investigated under the Immigration Act for entering and staying in the country without a valid travel document.
-
-He acknowledged that the arrest has sparked concerns about the growing threat of international travel document forgery syndicates involved in scams, human trafficking, and cross-border crimes.
-
-...
-
-[Data](articles/c256625f.json)
-
-[Extended Data](ext_articles/c256625f.ext.json)
 
 ---

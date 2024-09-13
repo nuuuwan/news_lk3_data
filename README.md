@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 01:22:06**
+As of **2024-09-14 01:38:01**
 
 ## Newspaper Stats
 
-*Scraped **43,785** Articles*
+*Scraped **43,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 426
 colombotelegraphcom | 429
 islandlk | 2,557
 economynextcom | 2,675
-dailyftlk | 2,912
+dailyftlk | 2,920
 adalk | 4,053
 dailymirrorlk | 4,733
 adaderanalk | 5,143
@@ -26,11 +26,139 @@ adaderanasinhalalk | 7,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,785 (100.0%) of 43,785 articles have been extended.
+43,785 (100.0%) of 43,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### National Chamber of Exporters urges citizens to vote wisely on 21 Sept.
+
+*2024-09-14 01:00:31* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-urges-citizens-to-vote-wisely-on-21-Sept/34-766746) · `en`
+
+As Sri Lanka stands on the cusp of a critical Presidential Election this September, the National Chamber of Exporters (NCE) in a statement called upon all citizens to vote with both their hearts and minds.
+
+“Our beloved nation is at a crossroads, and the decisions made at the ballot box will define the course of Sri Lanka’s future. It is vital that each voter considers the key challenges we face and elect leaders who possess the vision, capability, and integrity to steer us through these turbulent times,” NCE said.
+
+...
+
+[Data](articles/83d04bfc.json)
+
+---
+
+### NDB Bank partners with OPA for 37th Annual Conference to foster economic growth
+
+*2024-09-14 00:58:39* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-partners-with-OPA-for-37th-Annual-Conference-to-foster-economic-growth/34-766745) · `en`
+
+OPA General Secretary Tisara De Silva, NDB SME, Middle Markets and Business Banking VP Indika Ranaweera , OPA President Sarath Gamage, 37th Annual Conference Committee OPA / Chairman President Elect Attorney-at-Law Sujeewa Lal Dahanayake
+
+Demonstrating its leadership in fostering essential discussions on economic growth, NDB Bank has announced its collaboration with the Organisation of Professional Associations of Sri Lanka (OPA) as a key partner for their 37th Annual Conference, which took place on 26-27 August, 2024, at the Shangri-La Hotel, Colombo. This year’s conference, themed “Towards Sri Lanka’s Sustained Economic Growth,” aligns perfectly with both the country’s ambitions and NDB’s commitment to fostering economic development.
+
+...
+
+[Data](articles/f7e6aae9.json)
+
+---
+
+### Public resource misuse sparks over 750 complaints to TISL
+
+*2024-09-14 00:56:27* · [`dailyftlk`](https://www.ft.lk/news/Public-resource-misuse-sparks-over-750-complaints-to-TISL/56-766744) · `en`
+
+The Transparency International Sri Lanka (TISL) said yesterday it has received 758 complaints concerning the misuse of public resources for election campaigning as of 1 September.
+
+It said the largest category of complaints—343 in total—pertains to the misuse of public premises. These include the misuse of public grounds, Government offices, buildings, and schools etc. for election campaigns. Complaints detail instances where such premises were used without paying the required fees, were reserved for one candidate or political party for extended periods or were adorned with posters and cutouts in violation of election laws.
+
+...
+
+[Data](articles/0e96c481.json)
+
+---
+
+### Sajith’s favourability rating improves; AKD and RW lag
+
+*2024-09-14 00:56:18* · [`dailyftlk`](https://www.ft.lk/news/Sajith-s-favourability-rating-improves-AKD-and-RW-lag/56-766743) · `en`
+
+The public had a negative opinion of all leading Presidential candidates, but A.K. Dissanayake had the least negative rating.
+
+In IHP SLOTS polling for August 2024, the net favourability rating of SJB leader Sajith Premadasa improved to -32 (+10 points compared to July). Meanwhile, NPP/JVP leader A.K. Dissanayake and President Ranil Wickremesinghe saw their favourability ratings drop to -21 (-16 points) and -33 (-4 points) respectively. The favourability rating of Namal Rajapaksa, the SLPP Presidential Election candidate, was -89 in August.
+
+Favourability estimates for each month are based on 100–500 interviews conducted during that month and a few weeks before and after, ensuring a minimum set of responses for key party leaders. The August 2024 estimates are based on 517 interviews for Sajith Premadasa, 491 for A.K. Dissanayake, 530 for Ranil Wickremesinghe, 639 for Namal Rajapaksa, and 384 for Gotabaya Rajapaksa.
+
+...
+
+[Data](articles/59bc1d34.json)
+
+---
+
+### Second preference vote is second round in Presidential election
+
+*2024-09-14 00:45:49* · [`dailyftlk`](https://www.ft.lk/columns/Second-preference-vote-is-second-round-in-Presidential-election/4-766737) · `en`
+
+It may be important to pay attention to the second and third preferences in the current Presidential election, which seems to be a three-way battle
+
+Presidential elections of most major democracies are held using two-round systems. It is a more democratic variant of the one-round first-past-the-post systems. Even in a two-round system, if a candidate gets more than 50% of the votes in the first round, there is no need for a second round. If no one gets more than 50%, only the first and second candidates will qualify for the second round.
+
+Sri Lanka’s presidential election system is a unique one. It seems to be a composite of three systems that are currently used internationally to make the first-past-the-post systems more democratic. The three methods are – Supplementary Vote, Ranked Choice and Two-Round methods. For now, I think it’s more practical for us to think of our system as a variant of a two-round system.
+
+...
+
+[Data](articles/3142b318.json)
+
+---
+
+### Yes, future of SL and its people was in our hands to shape for as long as 75 years
+
+*2024-09-14 00:43:47* · [`dailyftlk`](https://www.ft.lk/columns/Yes-future-of-SL-and-its-people-was-in-our-hands-to-shape-for-as-long-as-75-years/4-766736) · `en`
+
+We have a challenging journey ahead, let us be alert, positive, proactive, and constructive, for this, is our only home
+
+Following is a reproduction of a post on LinkedIn by the author about 18 months ago on the occasion of Sri Lanka’s 75th independence on 4 February 2023
+
+Yes *“We did not focus on sustainable social responsiveness and thus there is dissent. We were not sincere and purposeful regarding interreligious, inter-communal, interracial harmony, resulting in intellectual capital flight – brain drain. There are many grievances among those who remained onshore. Reparations, Compensation, genuine initiatives towards National Harmony, are now a National Imperative.”*
+
+It is unwise, insensitive and indeed incomplete to say, as some say rather dismissively, that we have not created, neither built, nor established anything since we gained independence.
+
+...
+
+[Data](articles/d6cc23b6.json)
+
+---
+
+### Far horizons
+
+*2024-09-14 00:41:15* · [`dailyftlk`](https://www.ft.lk/columns/Far-horizons/4-766734) · `en`
+
+In the Presidential election to be held in a few days, this country faces its first test of public opinion since the Aragalaya
+
+“There was one daily newspaper in the Ivory Coast, at least, only one came my way. It was called Fraternite’ Matin. Every day on its front page, in the top left-hand corner, it carried a ‘thought’ of the President’s. The thoughts were mainly about development and the economy; and so were big front-page stories”
+
+Of all the extra-parliamentary convulsions that have happened all too regularly in this country since independence, the mass protest movement which occurred two years ago, commonly referred to as the ‘Aragalaya’ (struggle), is certainly unique.
+
+...
+
+[Data](articles/363eecf0.json)
+
+---
+
+### Pelwatte and Sevenagala sugar distilleries – economic disaster
+
+*2024-09-14 00:38:49* · [`dailyftlk`](https://www.ft.lk/columns/Pelwatte-and-Sevenagala-sugar-distilleries-economic-disaster/4-766733) · `en`
+
+Pelwatte and Sevenagala sugar factories are supposed to carry a stock of 1.3 million litres unable to sell
+
+A friend had sent me an extract of a statement made by State Minister for Investment Promotion Dilum Amunugama titled ‘Sri Lanka state sugar firms drowned in unsold ethanol’.
+
+The two sugar firms referred to are Pelwatte and Sevenagala sugar factories. They are supposed to carry a stock of 1.3 million litres unable to sell.
+
+He attributes this problem to the economic crisis and tax hikes.
+
+In 1968 I took over as Distillery Manager at the then Government-owned distillery at the Kantale Sugar Factory. That is the reason for my friend to refer this to me to comment.
+
+...
+
+[Data](articles/e9b9400c.json)
+
+---
 
 ### The race is not to the swift, nor neo-racism to the slick
 
@@ -2207,173 +2335,5 @@ Ratnayake said that the matters that have taken place over the past few days are
 [Data](articles/93dbb71a.json)
 
 [Extended Data](ext_articles/93dbb71a.ext.json)
-
----
-
-### Most Sri Lankans want increased govt spending on health, education: survey
-
-*2024-09-13 11:42:00* · [`economynextcom`](https://economynext.com/most-sri-lankans-want-increased-govt-spending-on-health-education-survey-179527/) · `en`
-
-ECONOMYNEXT — As Sri Lankans head to the polls, large majorities of voters want the government to increase spending on health and education, a poll by the Institute for Health Policy (IHP) has found.
-
-The IHP said in a statement on Thursday September 12 that, since September 2022, as the financial crisis forced the government to rethink budget priorities, the institute’s Sri Lanka Opinion Tracker Survey (SLOTS) has regularly asked survey respondents to identify their top two priorities for increasing government spending and their top two priorities for cutting government spending.
-
-According to the survey, throughout 2024, the top priorities for Sri Lankans for increased government spending have consistently been health (78 percent) and education (64 percent). These were also the only areas where spending increases were supported by majorities of Sri Lankans, with support cutting across all demographics, IHP said.
-
-...
-
-[Data](articles/c491ca1e.json)
-
-[Extended Data](ext_articles/c491ca1e.ext.json)
-
----
-
-### Sri Lanka’s Bank of Ceylon raises Rs15bn in debenture issue
-
-*2024-09-13 11:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-bank-of-ceylon-raises-rs15bn-in-debenture-issue-179528/) · `en`
-
-ECONOMYNEXT – The Bank of Ceylon said its issue of 50,000,000 Basel III complaint Tier 2 listed rated unsecured subordinated redeemable debentures with non-viability write down features was oversubscribed.
-
-The debentures were issued at 100 rupees each to raise 5 billion, with an option to issue a further 50 million, 5 billion, 50 million, and another 5 billion in the event of an oversubscription of the initial issue and the second tranche.
-
-“We wish to inform you that we have received applications exceeding LKR 15 billion (Rs. 15,000,000,000/-) for the above debenture issue and accordingly the issue has been oversubscribed,” the bank said in a stock exchange filing.
-
-The basis of allotment will be notified in due course, it said. (Colombo/Sep13/2024)
-
-◼️
-
-[Data](articles/ab674963.json)
-
-[Extended Data](ext_articles/ab674963.ext.json)
-
----
-
-### Sri Lanka’s LTL Holding IPO put on hold by stock exchange
-
-*2024-09-13 11:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-ltl-holding-ipo-put-on-hold-by-stock-exchange-179530/) · `en`
-
-ECONOMYNEXT – An initial public offering by Sri Lanka’s LTL Holding will not proceed as planned on September 13, pending clarification on new information, the Colombo Stock Exchange said.
-
-“In this regard, the CSE has required LTL to provide additional information/clarifications to the CSE for review,” the statement said.
-
-“In view of the aforesaid new information, the Board of Directors of the CSE noted that such information should have been disclosed in the Prospectus by LTL.
-
-The CSE has instructed the LTL not to proceed with the opening of the IPO on Friday September 13. (Colombo/Aug13/2024)
-
-◼️
-
-[Data](articles/80f42e06.json)
-
-[Extended Data](ext_articles/80f42e06.ext.json)
-
----
-
-### Smartphone found in prison cell of ‘Wele Suda’
-
-*2024-09-13 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101939/smartphone-found-in-prison-cell-of-wele-suda) · `en`
-
-A smartphone has been discovered inside the cell of notorious drug trafficker Gampola Vidanage Samantha Kumara, alias “Wele Suda,” during an sudden search operation carried out at the Boossa High-Security Prison.
-
-The search was conducted by Police Special Task Force (STF) personnel yesterday (12).
-
-The phone was found in cell number 38 of section A, where “Wele Suda” is currently being detained.
-
-The mobile device, which is a SIM-free smartphone, has been handed over to the prison authorities for further investigation.
-
-◼️
-
-[Data](articles/9a8d9d0c.json)
-
-[Extended Data](ext_articles/9a8d9d0c.ext.json)
-
----
-
-### Three killed in three wheeler
-
-*2024-09-13 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200975) · `si`
-
-"Two killed in three-wheeler crash at Railway crossing on Rathgama Wijeratne Mawatha."
-
-🟩
-
-Two persons were killed in a terrible accident that collided with a three-wheeler.
-
-The accident occurred at the Railway Railway crossing on the Rathgama Wijeratne Mawatha.
-
-◼️
-
-[Data](articles/9eb66e49.json)
-
-[Extended Data](ext_articles/9eb66e49.ext.json)
-
----
-
-### Two dead as train collides with three-wheeler at Ratgama
-
-*2024-09-13 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101938/two-dead-as-train-collides-with-three-wheeler-at-ratgama) · `en`
-
-Two individuals have reportedly died after a train travelling from Maradana to Beliatta had collided with a three-wheeler at the Wijeratne Mawatha railway crossing in Ratgama this morning (13).
-
-Police said one person was killed on the spot following the accident while another person who sustained critical injuries had succumbed to injuries after being admitted to the Karapitiya Hospital.
-
-The deceased, who are travelling in the three wheeler, are residents of Dodanduwa, aged between 45 years to 55 years.
-
-The body of the deceased who was killed on the spot following the collision has been handed over to the Boossa Railway Station and Ratgama Police is conducting further investigation into the incident.
-
-◼️
-
-[Data](articles/9d9c76ec.json)
-
-[Extended Data](ext_articles/9d9c76ec.ext.json)
-
----
-
-### Couple arrested for stolen property in ache
-
-*2024-09-13 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200974) · `si`
-
-Couple arrested for theft in Ache. Police seized stolen goods, including vehicles and phones. Main suspect from Kandy, accomplice from Ahangama. Robbery occurred in Rajagiriya, linked to crimes in other areas.
-
-🟩
-
-The Western Province, the South Criminal Division of the Western Province, has been arrested yesterday (12).
-
-According to police, the couple has come to american to Vinis and labor the property worth over Rs.
-
-Police have arrested a married woman and her casual man and a three-wheeler used for robbery, a three-wheeler and three mobile phones.
-
-The main suspect is a resident of Kandy and is a resident of Ahangama, a man of a government agency.
-
-The robbery was staying in a house taken over the rented base of the Ukwatta area in Rajagiriya while maintaining an illicit affair.
-
-Police investigations have revealed that the suspect had taken robbery in Welikada, Colombo Fort, Wadduwa and Wadduwatta and Wadduwatte.
-
-The suspects have fled the Colombo Fort, Fort, Wadduwatta and Wadduwatta, police said.
-
-◼️
-
-[Data](articles/3f016be4.json)
-
-[Extended Data](ext_articles/3f016be4.ext.json)
-
----
-
-### Arrest of a man who prepared food for those who attended the campaign meeting
-
-*2024-09-13 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193553) · `ta`
-
-Man arrested for cooking food for campaign supporters in Galle. Police detained 48-year-old driver from Hilivala area. Incident occurred during presidential campaign event.
-
-🟩
-
-Galle police said that a suspect allegedly prepared food for a group of people who had attended a campaign meeting in support of a presidential candidate in Galle Halliwala area.
-
-A 48 -year -old driver, who lives in Hilivala, Galle, Galle, has been arrested.
-
-◼️
-
-[Data](articles/cb63ee77.json)
-
-[Extended Data](ext_articles/cb63ee77.ext.json)
 
 ---

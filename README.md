@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 20:22:19**
+As of **2024-09-13 20:38:03**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,757 (100.0%) of 43,758 articles have been extended.
+43,758 (100.0%) of 43,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
 
-### පහර කෑ පාසල් සිසුවිය මාසයකට වැඩි කලක් දැඩි සත්කාර ඒකකයේ
+### Schoolgirl in the ICU more than a month
 
 *2024-09-13 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200998) · `si`
 
-පාසල් සිසුවියකට පහරදීමේ චෝදනාව මත අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි පාසල් ගුරුවරියන් දෙදෙනෙකු අද (13) මාරවිල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන්  අනතුරුව ඇප මත නිදහස් කර තිබේ.
+Teachers released on bail after assaulting schoolgirl. Girl hospitalized over a month without updates from hospital. Court orders suspects to pay medical costs.
 
-මෙලෙස ඇප මත නිදහස් කර ඇත්තේ වෙන්නප්පුව නගරයට ආසන්නයේ පිහිටි ප්‍රධාන පාසලක ගුරුවරියන් දෙදෙනෙකි.
+🟩
 
-මේ අතර පහර කෑමට ලක්වූ සිසුවිය මාසයකට වැඩි කාලයක් කොළඹ  ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබන්නීය.
+Two school teachers who were arrested for assaulting a schoolgirl have been released on bail.
 
-දැරියගේ තත්ත්වය පිළිබදව මේ දක්වා රෝහලේ බලධාරීන් කිසිවක් ප්‍රකාශ නොකළ බව දෙමාපියන් පැවසීය.
+Two teachers of a major school near Wennappuwa have been released.
 
-මෙම සිසුවියට ප්‍රතිකාර කිරීම සදහා  රුපියල් ලක්ෂ 300,000ක සානුකම්පිත දීමනාවක් ගෙවීමටත් මහෙස්ත්‍රාත්වරයා සැකකාර ගුරුවරියන් ට නියෝග කළේය.
+Meanwhile, the student who was assaulted was receiving treatment at the ICU of the Colombo National Hospital for more than one month.
+
+Parents said that the authorities of the hospital did not say anything about the girl.
+
+The Magistrate ordered the suspect teachers of Rs. 300,000 to treat the student.
 
 ◼️
 
 [Data](articles/4bcde3c9.json)
+
+[Extended Data](ext_articles/4bcde3c9.ext.json)
 
 ---
 

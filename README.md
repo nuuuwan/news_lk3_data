@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 12:56:29**
+As of **2024-09-13 13:07:58**
 
 ## Newspaper Stats
 
-*Scraped **43,688** Articles*
+*Scraped **43,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,662
 dailyftlk | 2,910
 adalk | 4,044
 dailymirrorlk | 4,733
-adaderanalk | 5,129
+adaderanalk | 5,130
 tamilmirrorlk | 5,684
 virakesarilk | 6,919
 adaderanasinhalalk | 7,462
@@ -26,11 +26,23 @@ adaderanasinhalalk | 7,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,646 (99.9%) of 43,688 articles have been extended.
+43,646 (99.9%) of 43,689 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### 2024 A/L exam to commence on Nov. 25
+
+*2024-09-13 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101941/2024-al-exam-to-commence-on-nov-25) · `en`
+
+The Commissioner General of Examinations Amith Jayasundara has announced that the 2024 G.C.E. Advanced Level examination will be held from November 25 to December 20, 2024.
+
+◼️
+
+[Data](articles/54bcef65.json)
+
+---
 
 ### Supreme Court summons immigration chief over e-Visa issue
 
@@ -200,7 +212,13 @@ The accident occurred at the Railway Railway crossing on the Rathgama Wijeratne 
 
 *2024-09-13 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101938/two-dead-as-train-collides-with-three-wheeler-at-ratgama) · `en`
 
-Two individuals have reportedly died following a collision involving a train and a three-wheeler at the Wijeratne Mawatha railway crossing in Ratgama.
+Two individuals have reportedly died after a train travelling from Maradana to Beliatta had collided with a three-wheeler at the Wijeratne Mawatha railway crossing in Ratgama this morning (13).
+
+Police said one person was killed on the spot following the accident while another person who sustained critical injuries had succumbed to injuries after being admitted to the Karapitiya Hospital.
+
+The deceased, who are travelling in the three wheeler, are residents of Dodanduwa, aged between 45 years to 55 years.
+
+The body of the deceased who was killed on the spot following the collision has been handed over to the Boossa Railway Station and Ratgama Police is conducting further investigation into the incident.
 
 ◼️
 
@@ -2181,29 +2199,5 @@ UN Human Rights High Commissioner Volkar Turk addresses the progress of the cont
 [Data](articles/4bd3852f.json)
 
 [Extended Data](ext_articles/4bd3852f.ext.json)
-
----
-
-### Ranil Wickremesinghe's success cannot be prevented by threats - Ashu Marasinghe
-
-*2024-09-12 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/193532) · `ta`
-
-Ranil Wickremesinghe's victory unlikely to be thwarted by threats, says Ashu Marasinghe. National People's Power's intimidation tactics backfiring as public awareness grows about their false claims and unrealistic promises.
-
-🟩
-
-The national people's power has begun a action to threaten people as it feels behind the election. Ranil Wickremesinghe's success cannot be prevented by any threat. Former United National Party (UNP) parliamentarian Ashumarasinghe said that people will respond to them on the 21st of this month.
-
-He was speaking at a press conference held on Thursday (12) at the UNP headquarters.
-
-Anuragumara Dissanayake and Sajith Premadasa have gone to the brink of failure as the election is hot. They make a muddy campaign at election campaign meetings. They do not have any plans to take responsibility for the country. They have a relief plan. They are saying the same thing.
-
-In particular, the national people's power led by Anuragumara Dissanayaya has created a wave of artificial population and is deceiving the people to take over the regime.. Since this fake presence is currently exposed, the popular support for them is declining.
-
-...
-
-[Data](articles/c3473ba6.json)
-
-[Extended Data](ext_articles/c3473ba6.ext.json)
 
 ---

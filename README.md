@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 06:43:16**
+As of **2024-09-13 07:22:56**
 
 ## Newspaper Stats
 
-*Scraped **43,639** Articles*
+*Scraped **43,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 2,910
 adalk | 4,040
 dailymirrorlk | 4,733
 adaderanalk | 5,117
-tamilmirrorlk | 5,678
+tamilmirrorlk | 5,680
 virakesarilk | 6,912
-adaderanasinhalalk | 7,447
+adaderanasinhalalk | 7,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,528 (99.7%) of 43,639 articles have been extended.
+43,532 (99.7%) of 43,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### The country can only be backed by Dilith's plan - Gamini Walaweboda
+
+*2024-09-13 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200963) · `si`
+
+Country needs Dilith's plan for rebuilding - MP Gamini Walaweboda. 35% undecided voters crucial for winning national strategy. Rebuilding governance essential for success.
+
+🟩
+
+MP Gamini Walaboda says that if the country's rebuilding is to be rebuilt, the National Strategic Dilith Jayaweera has presented the national strategy.
+
+The executive policy of executive manager, Executive Member of Parliament, said that 35% of voters had not decided who had yet to vote.
+
+"35% of voters have not decided to vote for who. So we call the rebuilding of the governance of the bankruptcy if we want to win the national strategy. "
+
+◼️
+
+[Data](articles/b7dd5e12.json)
+
+[Extended Data](ext_articles/b7dd5e12.ext.json)
+
+---
+
+### Showers in many areas today
+
+*2024-09-13 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200962) · `si`
+
+Weather alert: Showers/thundershowers expected in Kandy, Nuwara Eliya, Western, North Western, Galle, Matara, Ampara, Batticaloa districts. Strong winds possible. Public advised to prepare for potential damage from lightning and gusts.
+
+🟩
+
+Showers or thundershowers will occur at times in the Kandy and Nuwara Elamuwa districts today (13).
+
+Showers may occur in the Western and North Western Provinces and in the Galle and Matara districts.
+
+Showers or thundershowers will occur at the same time or night in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+Western, North Central and North Western Provinces and Trincomalee districts, Hambantota, North Central and North Western Provinces, North Central and North Western Provinces.. 40-45) can also cause strong winds.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/1a973755.json)
+
+[Extended Data](ext_articles/1a973755.ext.json)
+
+---
+
+### Youth killed in motorcycle accident
+
+*2024-09-13 05:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோட்டார்-சைக்கிள்-விபத்தில்-இளைஞர்-பலி/175-343710) · `ta`
+
+28-year-old Ajit Kumar from Eravur dies in motorcycle crash on Punnakuda Road. Body at Eravur Resource Hospital.
+
+🟩
+
+Eravur police said that 28 -year -old Ajit Kumar, a resident of Eravur, Dalawai, died in an accident on Punnakuda Road, Eravur.
+
+The body is currently being kept at the Eravur Resource Hospital.. (A)
+
+◼️
+
+[Data](articles/ec6ef17c.json)
+
+[Extended Data](ext_articles/ec6ef17c.ext.json)
+
+---
 
 ### Voting objectively on 21 September
 
@@ -79,6 +147,8 @@ There is a more recent tendency to show lengthy 200, 300 page manifestos to give
 ...
 
 [Data](articles/194f6d44.json)
+
+[Extended Data](ext_articles/194f6d44.ext.json)
 
 ---
 
@@ -331,6 +401,20 @@ Such Corporate Finance Advisory services include capital raising – assisting c
 ...
 
 [Data](articles/9e8e3430.json)
+
+---
+
+### இறைவரி திணைக்களத்தின் வருமானம் அதிகரிப்பு
+
+*2024-09-13 00:40:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறைவரி-திணைக்களத்தின்-வருமானம்-அதிகரிப்பு/175-343707) · `ta`
+
+இந்த வருடத்தின் முதல் 8 மாதங்களில் உள்நாட்டு இறைவரி திணைக்களம் 1,229 மில்லியன் ரூபாய் வருமானத்தை ஈட்டியுள்ளது.
+
+கடந்த வருடத்துடன் ஒப்பிடுகையில் இது 28.05 வீத வளர்ச்சி என தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/2f710a2e.json)
 
 ---
 
@@ -2181,113 +2265,5 @@ At the same time, the total number of tourists visiting Sri Lanka last year was 
 [Data](articles/2cb0176d.json)
 
 [Extended Data](ext_articles/2cb0176d.ext.json)
-
----
-
-### Change in the arrival of tourists
-
-*2024-09-12 13:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-பயணிகளின்-வருகையில்-மாற்றம்/175-343668) · `ta`
-
-Sri Lanka tourist arrivals: 14 lakh this year, 1.4 million Jan-Sep, peak Feb 218k, over 200k Jan-Mar. Top countries: India, UK, Russia, Germany, China. Last year: 1.5 million visitors.
-
-🟩
-
-The number of foreign tourists who arrived in Sri Lanka this year is close to 14 lakhs.
-
-The total number of tourists visiting Sri Lanka from January 1 to 8 September is 1,395,773, the Sri Lanka Tourism Development Authority said.
-
-In addition, a large number of tourists came to the country in last February. Their number is 218,350.
-
-Also, more than 200,000 tourists arrived in January and March.
-
-Meanwhile, most tourists from India, Britain, Russia, Germany and China have come to the country.
-
-At the same time, the total number of tourists visiting Sri Lanka last year was 1,487,303.
-
-◼️
-
-[Data](articles/7014870b.json)
-
-[Extended Data](ext_articles/7014870b.ext.json)
-
----
-
-### Six including Indian arrested at BIA over attempt to smuggle foreign liquor, cigarettes
-
-*2024-09-12 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101916/six-including-indian-arrested-at-bia-over-attempt-to-smuggle-foreign-liquor-cigarettes-) · `en`
-
-Six passengers including an Indian national have been arrested at Bandaranaike International Airport (BIA) with undeclared goods including 159 bottles of foreign liquor and a haul of foreign cigarettes.
-
-Acting on a tip-off received by officers of the Criminal Investigation Department (CID) at the airport, five male suspects and a female suspect were arrested at the arrival terminal.
-
-They had allegedly attempted to smuggle into the country 159 bottles of foreign liquor, 175 packets of foreign cigarettes, ready-made clothing, and a large quantity of non-gold accessories.
-
-The arrested male suspects are aged 24, 41, 52, 53, and 70 and are residents of Wattala, Kotagala and Colombo 13 areas while one of the suspects is an Indian national, police said.
-
-Meanwhile, the female suspect is a 48-year-old resident of the Colombo 15 area.
-
-The CID unit at the BIA is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/ac11f611.json)
-
-[Extended Data](ext_articles/ac11f611.ext.json)
-
----
-
-### Anura certification from Anura to strengthen the law
-
-*2024-09-12 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200943) · `si`
-
-Anura Kumara Dissanayake calls for stronger religious and cultural laws to prevent violence. He emphasizes unity over division during a Kandy rally, urging an end to political exploitation of religion and culture.
-
-🟩
-
-Presidential candidate Anura Kumara Dissanayake says that it is necessary to prevent violence on religions and cultures.
-
-He was speaking at a rally held rally in Kandy.
-
-"In the national propagation, the religion, the language, and their identity and cultures do not take to our platform. This ugly political gambling should be stopped. So I think that the laws of other religions, the religions of the other's religions are being established under a government of the national power ... "
-
-◼️
-
-[Data](articles/bfa082d1.json)
-
-[Extended Data](ext_articles/bfa082d1.ext.json)
-
----
-
-### Will the police beat women in the dissolution of protests?
-
-*2024-09-12 13:38:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gvgkx775no) · `si`
-
-Here's a 200-character summary:
-
-
-
-Police brutality against women during protests in Sri Lanka. Witnesses describe violent arrests and mistreatment. Legal protections lacking for female detainees. Human Rights Commission investigates allegations. Police deny wrongdoing, claim women are treated fairly.
-
-🟩
-
-Will the police beat women in the dissolution of protests?
-
-A protest organized by the Inter University Student Federation recently, the police acted to dissolve the illegality of election laws.
-
-In the dissolution of the protest, a senior police officer saw a commander that he had commanded his lower officials to take a student.
-
-Women, who shared their experience with BBC Sinha said he was violent in the dissolution of protests.
-
-An university lecturer, a Sanjila (not her real name), described such an incident that happened in a university student. "This happened was the last year, as a class scholarship," she said.
-
-The exponent of the Ceylon Teachers Union, the Inter University Student Fund, a police station was held in 2021 at a policeman.
-
-The demonstration was arrested by the police, including Joseph Starling, including the Chief Secretary of the Ceylon Teachers' Union Joseph Starling and moving to the Kandakadu Quarantine Center.
-
-...
-
-[Data](articles/c4825197.json)
-
-[Extended Data](ext_articles/c4825197.ext.json)
 
 ---

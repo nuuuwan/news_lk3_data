@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 12:12:10**
+As of **2024-09-13 12:23:28**
 
 ## Newspaper Stats
 
-*Scraped **43,679** Articles*
+*Scraped **43,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ dailymirrorlk | 4,733
 adaderanalk | 5,128
 tamilmirrorlk | 5,684
 virakesarilk | 6,913
-adaderanasinhalalk | 7,460
+adaderanasinhalalk | 7,462
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,626 (99.9%) of 43,679 articles have been extended.
+43,632 (99.9%) of 43,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### GCE Advanced Level Examination begins
+
+*2024-09-13 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200977) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Advanced Level Examination starts Nov 25. Both A/L and GCE exams begin simultaneously."
+
+🟩
+
+The A / L examination will commence on November 25, the GCE Advanced Level Examination will commence on November 25.
+
+◼️
+
+[Data](articles/90249445.json)
+
+[Extended Data](ext_articles/90249445.ext.json)
+
+---
+
+### Court order to the Controller of Immigration and Emigration
+
+*2024-09-13 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200976) · `si`
+
+Court orders Controller of Immigration to appear today regarding electric visa motion. Supreme Court considered fundamental rights petitions.
+
+🟩
+
+The Controller of Immigration and Emigration has ordered to appear before the court today (13).
+
+The court issued the order after considering a motion filed by the Supreme Court's interim order on electric visa.
+
+MA. After considering the fundamental rights petitions, Sumanthiran, Rauff Hakim and Patali Champika Ranawaka presented the Supreme Court recently declared.
+
+◼️
+
+[Data](articles/6fa2bedb.json)
+
+[Extended Data](ext_articles/6fa2bedb.ext.json)
+
+---
 
 ### Smartphone found in prison cell of ‘Wele Suda’
 
@@ -2193,53 +2237,5 @@ The woman had confessed to the police that he had taken it to the Akkarapattana 
 [Data](articles/14ffac2f.json)
 
 [Extended Data](ext_articles/14ffac2f.ext.json)
-
----
-
-### Special meeting between National Shura Council representatives and presidential candidate Sajith Premadasa
-
-*2024-09-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193525) · `ta`
-
-Sajith Premadasa meets National Shura Council reps. Discusses 27 issues affecting Sri Lanka's politics, economy, and Muslim community. Promises protection of equal rights for all Sri Lankans.
-
-🟩
-
-A special meeting between the National Shura Council representatives and the presidential candidate of the United People's Alliance and Opposition Leader Sajith Premadasa was held today (12) at the headquarters of the United People's Alliance in Colombo.
-
-The meeting took place in the series to meet the Presidential candidates of the National Shura Council, the Union of Muslim Civil Society Organizations, which operate at the national level.
-
-Opposition leader Sajith Premadasa has been handed over to the Shura Council of the Shura Council, which contains twenty -seven issues regarding the changes to the political, economic and social issues of Sri Lanka and the problems of the Muslim community.
-
-Representatives of the National Shura Council on behalf of the Muslim community expressed their gratitude and congratulations on the resolutions and actions taken by Opposition Leader Sajith Premadasa in Parliament and Outside.
-
-...
-
-[Data](articles/83529b49.json)
-
-[Extended Data](ext_articles/83529b49.ext.json)
-
----
-
-### Sri Lanka sells 2028, 2029 bonds, 2034 bids rejected
-
-*2024-09-12 17:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-2028-2029-bonds-2034-bids-rejected-179451/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold raised 245 billion rupees from a bond auction and rejected all bids for 2034 bonds, data from the state debt office showed as rates spiked over the past few weeks amid political uncertainty.
-
-The debt office sold all offered 100 million rupees of Feb 15, 2028 bonds at a weighted average yield of 13.79 percent.
-
-Out of 150 billion rupees of 15 June 2029 bonds 145.96 billion were sold at a weighted average yield of 13.98 percent, rejecting other bids.
-
-No bids were accepted for 40 billion rupees of 15 September 2034 bonds.
-
-Sri Lanka’s presidential election is due on September 21, and investors are unwilling to buy longer term bonds.
-
-Political parties have promised tax cuts and extra spending, while a domestic bond restructure has also been criticized, leading to uncertainty in bond markets and unwillingness to hold longer tenors. (Colombo/Aug12/2024)
-
-◼️
-
-[Data](articles/f9d43cdc.json)
-
-[Extended Data](ext_articles/f9d43cdc.ext.json)
 
 ---

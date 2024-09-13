@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 14:22:38**
+As of **2024-09-13 14:38:14**
 
 ## Newspaper Stats
 
-*Scraped **43,701** Articles*
+*Scraped **43,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,78 @@ economynextcom | 2,662
 dailyftlk | 2,910
 adalk | 4,047
 dailymirrorlk | 4,733
-adaderanalk | 5,132
+adaderanalk | 5,133
 tamilmirrorlk | 5,685
 virakesarilk | 6,921
-adaderanasinhalalk | 7,465
+adaderanasinhalalk | 7,466
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,671 (99.9%) of 43,701 articles have been extended.
+43,678 (99.9%) of 43,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
 
-### ශිෂ්‍යත්ව විභාගය ගැන උපදෙස් මාලාවක්
+### Sri Lanka to lift all vehicle import restrictions by February 2025
+
+*2024-09-13 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101944/sri-lanka-to-lift-all-vehicle-import-restrictions-by-february-2025) · `en`
+
+Sri Lanka’s Cabinet of Ministers has decided to lift all vehicle import restrictions by February 2025, according to Foreign Minister Ali Sabry.
+
+“With the significant improvement in forex reserves and the strength of the rupee, the Cabinet of Ministers has decided to lift all vehicle import ban/restrictions by February 2025,” he said.
+
+“This decision is part of our ongoing efforts to restore normalcy in the economy and meet the needs of our people,” the minister said in a post on ‘X’ (formerly Twitter).
+
+◼️
+
+[Data](articles/140e9b30.json)
+
+---
+
+### උද්දිකගේ රථයට වෙඩි තැබූ සිද්ධියේ හිටපු ASP ට ඇප
+
+*2024-09-13 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200982) · `si`
+
+අනුරාධපුර හිටපු සහකාර පොලිස් අධිකාරී සංජීව මහානාම ට අද (13) අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය මගින් ඇප නියම කර තිබේ.
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී උද්දික ප්‍රේමරත්න මහතාගේ වාහනයට වෙඩිතැබීමේ සිද්ධිය සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු විසින් ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/b3eb2400.json)
+
+---
+
+### Guidelines on Scholarship Examination
 
 *2024-09-13 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200981) · `si`
 
-5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගය එළබෙන 15 වැනි ඉරු දින පැවැත්වීමට මේ වනවිට සියලු කටයුතු සූදානම් කර ඇති බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසීය.
+Sri Lanka Grade 5 Scholarship Exam details: 323,879 candidates, 2,849 centers, 2-part exam, specific pen color rules, prohibited items list.
 
-අද (13) කොළඹදී පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඒ මහතා වැඩිදුරටත් පවසා සිටියේ, මේ වෙනකොට විභාගය පැවැත්වීම සඳහා සියල්ල සූදානම් බවය.
+🟩
 
-එමෙන්ම ප්‍රශ්න පත්‍ර ඊයේ (12) මධ්‍යම රාත්‍රියේ සිට ලංකාව පුරා පිහිටි සම්බන්ධීකරණ මධ්‍යස්ථානවලට මේ වනවිට නිකුත් කරමින් පවතින බවද හෙතෙම පැවසීය.
+Commissioner General of Examinations Amit Jayasundara said all arrangements have been made to conduct the 15th 100th Sunday, the Grade 5 Scholarship Examination.
 
-මෙවර ශිෂ්‍යත්ව විභාගය සඳහා අයදුම්කරුවන් 323,879ක් සුදුසුකම් ලබා සිටින අතර, ඔවුන් දිවයින පුරා විභාග මධ්‍යස්ථාන 2,849කදී විභාගයට පෙනී සිටීමට නියමිතය.
+He further stated that everything is ready to hold the exam today (13).
 
-තවද විශේෂ අවශ්‍යතා ඇති දරුවන්ට විභාග මධ්‍යස්ථාන 7කදී සහ මහරගම අපේක්ෂා රෝහලේ නේවාසිකව ප්‍රතිකාර ගන්නා දරුවන්ට එහි සිට විභාගයට මුහුණදීම සඳහා ද විභාග මධ්‍යස්ථානයක් ස්ථාපිත කර ඇත.
+He also said that the paper papers are being released on the coordinating centers across Sri Lanka from midnight yesterday (12).
 
-කොටස් දෙකකින් යුත් ශිෂ්‍යත්ව විභාගයේ පළමුව දෙවැනි පත්‍රය පැවැත්වෙන අතර, එය පෙ.ව. 9.30 සිට 10.45 දක්වා පැවැත්වේ. ඉන් අනතුරුව පෙ.ව. 11.15ට පැයක කාලයක් පැවැත්වෙන පළමු පත්‍රය ආරම්භ වේ.
+323,879 applicants are eligible for this year's scholarship examination and are due to sit for 2,849 examination centers island wide.
+
+The exam center has been established in 7 examination centers and the children who are receiving treatment at 7 examination centers to children with special needs.
+
+The second sheet of the two-part scholarship examination is held first,. Will be held from 9.30 to 10.45 pm. Then. The first sheet of the first sheet begins at 11.15.
+
+Specialized announcement, the Commissioner General of Examinations said that only black or blue pan could be used if it is written in the pen.
 
 ...
 
 [Data](articles/adec25dd.json)
+
+[Extended Data](ext_articles/adec25dd.ext.json)
 
 ---
 
@@ -66,23 +104,31 @@ He has been appointed to the position by the Commander of the Army, effective fr
 
 [Data](articles/e2dc8f28.json)
 
+[Extended Data](ext_articles/e2dc8f28.ext.json)
+
 ---
 
-### මට අවශ්‍ය පෙරළියක් - රනිල්
+### I need a rollover - Ranil
 
 *2024-09-13 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200980) · `si`
 
-අසීරු අවස්ථාවේදී රට භාරගැනීම ප්‍රතික්ෂේප කළ අය, ඉටු කළ නොහැකි පොරොන්දු ජනතාවට ලබාදෙමින් සිටින බව ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Ranil Wickremesinghe criticizes opponents, claims system collapse during presidency.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ, කොළඹ පැවැති "පුළුවන් පෙරළිය" වැඩසටහන අමතමිනි.
+🟩
 
-එළැඹෙන ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාගේ ජය තහවුරු කිරීම සඳහා සංවිධානය කෙරුණු 'පුළුවන් පෙරළිය' වැඩසටහන ඊයේ (12) කොළඹදී පැවැත්වුණි.
+Independent president of Ranil Wickremesinghe says that those who refused to accept the country in difficult time are delivering the promises of the people.
 
-"අපේ සිස්ටම් එක කඩා වැටිලා... රජය භාරගන්න කවුරුත් හිටියේ නැහැ. මොකක්ද ඒකෙන් තේරුම් යන්නේ ?.. නායකයින්ට ඔබේ අනාගතය ගැන වගකීමක් භාරගන්න පැවැති නොහැකියාව. සජිත් ප්‍රේමදාස මහත්තයා ඔහු ලබාදෙන දේ දිනපතා වෙනස් කරනවා. මෙච්චර කල් ඔහු නිකං දෙන්න පොරොන්දු වුණේ නැත්තේ හිසරදය විතරයි. ළගදීම ඔහු එයත් පිරිනමයි. ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය... ඔවුන් දන්නේ නැහැ."
+The President made this observation addressing the Colombo "Compliance" program.
+
+The 'Involved' program organized to ensure that Ranil Wickremesinghe was organized in the presidential election.
+
+"Our system collapsed.. There was no one to take over. What does it understand?.. The Upright Incompatible with Leaders Receive Your Future. Sajith Premadasa changes what he gives every day. He was just the headache not promised so long. He also offers it soon. The Policy Statement of the National Folk Forces. They don't know. "
 
 ...
 
 [Data](articles/8369d5ec.json)
+
+[Extended Data](ext_articles/8369d5ec.ext.json)
 
 ---
 
@@ -101,6 +147,8 @@ The smuggled drugs reportedly include vials of medications for prostate cancer p
 ◼️
 
 [Data](articles/7cd3561f.json)
+
+[Extended Data](ext_articles/7cd3561f.ext.json)
 
 ---
 
@@ -2161,57 +2209,5 @@ Rajapakse stressed that a Buddhist country protects all religions, languages ​
 [Data](articles/d7d75a74.json)
 
 [Extended Data](ext_articles/d7d75a74.ext.json)
-
----
-
-### Sanath to train in New Zealand Test series
-
-*2024-09-12 19:22:30* · [`adalk`](https://www.ada.lk/sports/නවසීලන්ත-ටෙස්ට්-තරගාවලියෙදීත්-පුහුණුකාරිත්ව-වගකීම-සනත්ට/9-411928) · `si`
-
-Sanath Jayasuriya to coach Sri Lanka in New Zealand Test series. Former captain appointed to lead team against England. His leadership crucial for team's success in tournaments.
-
-🟩
-
-Sri Lanka SLC has also decided to provide former Leader Sanath Jayasuriya.
-
-The SLC was appointed as the intercourse to visit Sri Lanka and the Sri Lanka team for England.
-
-Sri Lanka was able to report special achievements in these tournaments. Sanath Jayasuriya's guidance was a powerful thing.
-
-◼️
-
-[Data](articles/d35cce05.json)
-
-[Extended Data](ext_articles/d35cce05.ext.json)
-
----
-
-### Three other members of court regarding the disappearance of heroin in the case room
-
-*2024-09-12 19:11:46* · [`adalk`](https://www.ada.lk/breaking_news/නඩු-භාණ්ඩ-කාමරයේ-හෙරොයින්-කිලේ-12ක්-අතුරුදන්වීමට-අධිකරණයේම-තවත්-තිදෙනෙක්-සම්බන්ධයි/11-411927) · `si`
-
-Here's a 200-character summary:
-
-
-
-Colombo Chief Magistrate's Court: Heroin disappearance case. Suspect remanded. Attorney claims client instructed to hide evidence. CID investigation ongoing. Magistrate orders further inquiries. Next hearing set for 26th.
-
-🟩
-
-Attorney-at-Law Manumme Farid, who has been remanded in the Chief Magistrate's Court Magistrate's Court Magistrate's Court Magistrate Thilina Gamage today (12), the Chief Magistrate Thilina Gamage, who has been remanded in the Colombo Chief Magistrate's Courts.) Informed.
-
-Attorney-at-Law Shyami Fared added that the suspect had revealed the suspect in the prison.
-
-Prison officials were produced before the court when the custody of the Colombo Chief Magistrate's Court was appointed to remand in connection with the incident.
-
-A report on the progress of investigations made before the Criminal Investigation Department (CID). They said the statement should be noted further.
-
-The chief suspect of the Colombo Chief Magistrate's Court of Criminal Instead of the disappearance of 308.14 g of heroin parcels in the court of 308.14 grains of gold was missing the criminal inaccuracy under the Drug Act and the Public Real EstateIt also stated that he would investigate the suspect under the charges.
-
-...
-
-[Data](articles/dd3c2e79.json)
-
-[Extended Data](ext_articles/dd3c2e79.ext.json)
 
 ---

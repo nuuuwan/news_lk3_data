@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 19:09:05**
+As of **2024-09-13 19:22:29**
 
 ## Newspaper Stats
 
-*Scraped **43,738** Articles*
+*Scraped **43,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,100 @@ dbsjeyarajcom | 375
 bbccomsinhala | 425
 colombotelegraphcom | 429
 islandlk | 2,554
-economynextcom | 2,664
+economynextcom | 2,675
 dailyftlk | 2,910
 adalk | 4,050
 dailymirrorlk | 4,733
-adaderanalk | 5,138
+adaderanalk | 5,139
 tamilmirrorlk | 5,688
 virakesarilk | 6,930
-adaderanasinhalalk | 7,479
+adaderanasinhalalk | 7,481
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,738 (100.0%) of 43,738 articles have been extended.
+43,738 (100.0%) of 43,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### වාහන ආනයනය ඔක්තෝබර් 1 සිට අදියර කිහිපයකින්
+
+*2024-09-13 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200997) · `si`
+
+මෙම වසරේ ඔක්තෝබර් පළමුවැනිදා සිට අදියර කිහිපයක් යටතේ වාහන ආනයනය කිරීමට අනුමැතිය ලබාදීමට කැබිනට් මණ්ඩලය තීරණය කර තිබේ.
+
+මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසුවේ අදියර කිහිපයක් යටතේ සිදුකෙරෙන වාහන ආනයනය ඔක්තෝබර් 01 වැනිදා සිට ආරම්භ කිරීමට නියමිත බවයි.
+
+ඒ අනුව පොදු ප්‍රවාහන සේවා සඳහා භාවිත කරන වාහන පළමුවෙන් ආනයනය කිරීමට අවසර ලැබෙයි.
+
+වානිජ සහ භාණ්ඩ ප්‍රවාහන වාහන ආනයනය කිරීමට තීරණය කර ඇත්තේ මෙම වසරේ දෙසැම්බර් පළමුවැනිදා සිට ය.
+
+ඊට අමතරව මෝටර් රථ එළඹෙන වසරේ පෙබරවාරි පළමුවැනිදා සිට ආනයනය කිරීමට නියමිතව ඇති බව සඳහන් ය.
+
+කොරෝනා වෛරසයේ බලපෑම් හේතුවෙන් ආර්ථිකයේ ඇතිවූ අර්බුද හේතුවෙන් 2021 වසරේ දී වාහන ආනයනය අත්හිටුවීමට ශ්‍රී ලංකා රජය තීරණය කළේය.
+
+අනතුරුව ඇතිවූ දැඩි ආර්ථික අර්බුදය හේතුවෙන් එම තහනම/සීමා තවදුරටත් පවත්වාගෙන යෑමට මෙරට බලධාරීන් තීරණය කළේය
+
+එසේම භාන්ඩ වර්ග 2,000කට වැඩි ප්‍රමාණයක ආනයන නවතා දමා තිබූ අතර වරින් වර එම සීමාවන් ඉවත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/695dbe05.json)
+
+---
+
+### Sri Lanka sees higher misuse of public premises in poll-related resource abuse complaints
+
+*2024-09-13 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-higher-misuse-of-public-premises-in-poll-related-resource-abuse-complaints-179583/) · `en`
+
+ECONOMYNEXT – Sri Lanka has witnessed a higher number of complaints on misuse of public premises in election-related state resource abuses, an election monitor said.
+
+Transparency International Sri Lanka (TISL), an election monitor on corruption and campaign financing, said it had received 758 complaints concerning the misuse of public resources for election campaigning through September 11.
+
+“The largest category of complaints – 343 in total – pertains to the misuse of public premises. These include the misuse of public grounds, government offices, buildings, and schools etc for election campaigns,” the TISL said in a statement.
+
+It said the complaints includes non-payment for such premises and reservation for one candidate or political party for extended periods or adorning with posters and cutouts in violation of election laws.
+
+...
+
+[Data](articles/85dd7686.json)
+
+---
+
+### කෞෂල්‍ය නවරත්න ඉල්ලා අස්වෙයි
+
+*2024-09-13 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200996) · `si`
+
+ශ්‍රී ලංකා නීතිඥ සංගමයේ සභාපති ජනාධිපති නීතිඥ කෞෂල්‍ය නවරත්න මහතා වහාම ක්‍රියාත්මක වන පරිදි එම තනතුරෙන් ඉල්ලා අස්වී තිබේ.
+
+◼️
+
+[Data](articles/5ba4761c.json)
+
+---
+
+### Kaushalya Nawaratne resigns as BASL President
+
+*2024-09-13 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101950/kaushalya-nawaratne-resigns-as-basl-president) · `en`
+
+President’s Counsel Kaushalya Nawaratne has resigned from his position as the President of the Bar Association of Sri Lanka (BASL) with immediate effect.
+
+The Bar Council of the Bar Association of Sri Lanka (BASL) on August 31 had unanimously decided to call for the resignation of BASL President Kaushalya Nawaratne.
+
+Accordingly, it was reported that the Bar Council in a meeting unanimously approved a proposal calling for the resignation of Kaushalya Nawaratne as the president of the BASL.
+
+On May 18, the BASL Bar Council had appointed a five-member Committee of Inquiry to look into allegations pertaining to the BASL project funded by the JICA relating to the promotion of a transparent and competitive business climate (Anti-Corruption) in Sri Lanka.
+
+President’s Counsel Kaushalya Nawaratne had secured another term as the President of Bar Association of Sri Lanka (BASL) in January this year. He was re-elected uncontested for the period 2024-2025.
+
+◼️
+
+[Data](articles/08cdf1cc.json)
+
+---
 
 ### China to revise employees in China
 
@@ -100,6 +176,38 @@ According to the proposal, the taxes that are currently charged from each pay ra
 
 ---
 
+### Sri Lanka GDP grows 4.7-pct in 2024 second quarter
+
+*2024-09-13 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-gdp-grows-4-7-pct-in-2024-second-quarter-179590/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross domestic product grew 4.7 percent in the second quarter of 2024, helped by low inflation and strong exchange rates, the state statistics office said.
+
+Agriculture grew 1.7 percent, industry 10.9 percent and service 2.5 percent.
+
+Stronger tourist arrivals and higher rainfall which increased the value added in electricity also helped increase GDP, the statistics office said.
+
+Construction sector returned with 15.5 percent growth with manufacturing growing 7 percent. (Colombo/Aug14/2024)
+
+◼️
+
+[Data](articles/49577836.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 302.25/80, bond yields up
+
+*2024-09-13 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-25-80-bond-yields-up-179577/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.25/80 to the US dollar on Friday, after opening at 300.70/95, dealers said, while bond yields were up.
+
+A bond maturing on 15.06.2029 closed at 13.70/80 percent. (Colombo/Sep13/2024)
+
+◼️
+
+[Data](articles/055ba444.json)
+
+---
+
 ### Orders to file charges against immigration bridge
 
 *2024-09-13 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200994) · `si`
@@ -147,6 +255,24 @@ A person who earns an income of Rs 6 lakh per month has been reduced by Rs.. Rem
 [Data](articles/bc29130d.json)
 
 [Extended Data](ext_articles/bc29130d.ext.json)
+
+---
+
+### Sri Lanka Cabinet approves cutting PAYE tax
+
+*2024-09-13 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-cutting-paye-tax-179581/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved offering tax relief to the countries salaried workers, its Minister of Justice said.
+
+“Thanks to prudent revenue management and fiscal consolidation, we are pleased to offer tax relief. A salary of Rs. 150,000 will see a 14% tax reduction, Rs. 200,000 will benefit from a 20% reduction, and Rs. 300,000 from a 25% reduction. This provides much-needed relief to taxpayers,” Minister M U M Ali Sabry said on X (twitter).
+
+The island-nation is one week away from a presidential election.
+
+Sabry tweeted the following breakdown of the proposed tax structure:
+
+◼️
+
+[Data](articles/d08bc2eb.json)
 
 ---
 
@@ -229,6 +355,26 @@ Sita Arambola has been appointed Minister of State for Women and Child Affairs i
 [Data](articles/282dd955.json)
 
 [Extended Data](ext_articles/282dd955.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banks and bluechips push turnover
+
+*2024-09-13 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-and-bluechips-push-turnover-179568/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 1.10 percent, or 115.84 points, at 10,683; while the more liquid S&P SL20 Index closed up 1.86 percent, or 54.45 points, at 2,979.
+
+Top turnover generators were Hatton National Bank (up at 159.25), John Keells Holdings (up at 161.00), Richard Pieris and Company (up at 20.50), Hayleys Plc (up at 88.30), and Vallibel One (up at 42.90).
+
+Crossings were recorded on HNB, Richard Pieris, Cable Solutions Limited (flat at 7.20) and Hayleys Fabric (up at 45.10).
+
+Foreign buying was seen in Richard Pieris and Co, Commercial Bank (up at 82.40), Hayleys, Browns Investments (flat at 5.00), LOLC Finance (up at 5.10), and Ambeon Holdings (down at 37.60).
+
+...
+
+[Data](articles/b44473d1.json)
 
 ---
 
@@ -537,6 +683,24 @@ Presidential Secretary Saman Ekanayake was also present at the occasion.
 [Data](articles/9cfcde99.json)
 
 [Extended Data](ext_articles/9cfcde99.ext.json)
+
+---
+
+### Sri Lanka’s PickMe IPO oversubscribed
+
+*2024-09-13 15:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-pickme-ipo-oversubscribed-179564/) · `en`
+
+ECONOMYNEXY – An initial public offer of Digital Mobility Solutions Lanka Limited has been oversubscribed and will close on the opening day of September 13, the Colombo Stock Exchange said.
+
+“The Initial Public Offering (IPO) of Digital Mobility Solutions Lanka Limited (PickMe), offering 43.47M ordinary voting shares at Rs. 36 per share, opened today (13th September 2024) and was fully oversubscribed on the first day,” CSE said on X (twitter).
+
+Shareholders of Digital Mobility Solutions Lanka Limited, which operates Sri Lanka’s PickMe application for booking taxis, were looking to get about 1.5 billion rupees from the public listing.
+
+CT CLSA Capital (Pvt) Ltd and Capital Alliance Partners Limited are advisors. (Colombo/Sep13/2024)
+
+◼️
+
+[Data](articles/f98bc72f.json)
 
 ---
 
@@ -934,6 +1098,42 @@ The smuggled drugs reportedly include vials of medications for prostate cancer p
 
 ---
 
+### Sri Lanka to lift all vehicle import restrictions by February 2025: Minister
+
+*2024-09-13 13:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lift-all-vehicle-import-restrictions-by-february-2025-minister-179540/) · `en`
+
+ECONOMYNEXT – Sri Lanka will lift all vehicle import bans and restrictions by February 2025, its Minister of Foreign Affairs and Justice M U M Ali Sabry has said.
+
+“With the significant improvement in forex reserves and the strength of the rupee, the Cabinet of Ministers has decided to lift all vehicle import ban/restrictions by February 2025. This decision is part of our ongoing efforts to restore normalcy in the economy and meet the needs of our people,” Sabry said on X (twitter).
+
+Sri Lanka introduced import restrictions on many goods, and banned vehicle imports, due to a foreign exchange crisis in 2022.
+
+"With the significant improvement in forex reserves and the strength of the rupee, the Cabinet of Ministers has decided to lift all vehicle import ban/restrictions by February 2025. This decision is part of our ongoing efforts to restore normalcy in the economy and meet the needs…
+
+...
+
+[Data](articles/2d27fe62.json)
+
+---
+
+### Sri Lanka cabinet nod for separate energy regulator, cadre revisal, new salary structure
+
+*2024-09-13 13:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-separate-energy-regulator-cadre-revisal-new-salary-structure-179539/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s cabinet of ministers has approved proposals for a separate energy sector regulator, revisal of cadre and a new salary structure, Power & Energy Minister Kanchana Wijesekara said.
+
+Wijesekara tweeted Friday September 13 afternoon that the cabinet has approved proposals to establish a separate regulator for the energy sector, to revise carder in the state-run Ceylon Electricity Board (CEB) and the Ceylon Petroleum Corporation (CPC) and implement a new salary, allowances and incentives structure for the CEB, CPC and the Ceylon Petroleum Storage Terminals LTD.
+
+According to the minister, the new energy regulator will oversee oil and gas pricing and standards therein based on an experts’ committee report.
+
+The proposed new salary structure and the performance based allowances and incentives scheme for CEB, CPC and CPSTL comes into effect from August 01, 2024, he said.
+
+...
+
+[Data](articles/ea1d3d1e.json)
+
+---
+
 ### The only candidate of the people is the only candidate for the people - weakumya
 
 *2024-09-13 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200978) · `si`
@@ -1255,6 +1455,58 @@ Ratnayake said that the matters that have taken place over the past few days are
 [Data](articles/93dbb71a.json)
 
 [Extended Data](ext_articles/93dbb71a.ext.json)
+
+---
+
+### Most Sri Lankans want increased govt spending on health, education: survey
+
+*2024-09-13 11:42:00* · [`economynextcom`](https://economynext.com/most-sri-lankans-want-increased-govt-spending-on-health-education-survey-179527/) · `en`
+
+ECONOMYNEXT — As Sri Lankans head to the polls, large majorities of voters want the government to increase spending on health and education, a poll by the Institute for Health Policy (IHP) has found.
+
+The IHP said in a statement on Thursday September 12 that, since September 2022, as the financial crisis forced the government to rethink budget priorities, the institute’s Sri Lanka Opinion Tracker Survey (SLOTS) has regularly asked survey respondents to identify their top two priorities for increasing government spending and their top two priorities for cutting government spending.
+
+According to the survey, throughout 2024, the top priorities for Sri Lankans for increased government spending have consistently been health (78 percent) and education (64 percent). These were also the only areas where spending increases were supported by majorities of Sri Lankans, with support cutting across all demographics, IHP said.
+
+...
+
+[Data](articles/c491ca1e.json)
+
+---
+
+### Sri Lanka’s Bank of Ceylon raises Rs15bn in debenture issue
+
+*2024-09-13 11:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-bank-of-ceylon-raises-rs15bn-in-debenture-issue-179528/) · `en`
+
+ECONOMYNEXT – The Bank of Ceylon said its issue of 50,000,000 Basel III complaint Tier 2 listed rated unsecured subordinated redeemable debentures with non-viability write down features was oversubscribed.
+
+The debentures were issued at 100 rupees each to raise 5 billion, with an option to issue a further 50 million, 5 billion, 50 million, and another 5 billion in the event of an oversubscription of the initial issue and the second tranche.
+
+“We wish to inform you that we have received applications exceeding LKR 15 billion (Rs. 15,000,000,000/-) for the above debenture issue and accordingly the issue has been oversubscribed,” the bank said in a stock exchange filing.
+
+The basis of allotment will be notified in due course, it said. (Colombo/Sep13/2024)
+
+◼️
+
+[Data](articles/ab674963.json)
+
+---
+
+### Sri Lanka’s LTL Holding IPO put on hold by stock exchange
+
+*2024-09-13 11:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-ltl-holding-ipo-put-on-hold-by-stock-exchange-179530/) · `en`
+
+ECONOMYNEXT – An initial public offering by Sri Lanka’s LTL Holding will not proceed as planned on September 13, pending clarification on new information, the Colombo Stock Exchange said.
+
+“In this regard, the CSE has required LTL to provide additional information/clarifications to the CSE for review,” the statement said.
+
+“In view of the aforesaid new information, the Board of Directors of the CSE noted that such information should have been disclosed in the Prospectus by LTL.
+
+The CSE has instructed the LTL not to proceed with the opening of the IPO on Friday September 13. (Colombo/Aug13/2024)
+
+◼️
+
+[Data](articles/80f42e06.json)
 
 ---
 
@@ -2063,257 +2315,5 @@ The body is currently being kept at the Eravur Resource Hospital.. (A)
 [Data](articles/ec6ef17c.json)
 
 [Extended Data](ext_articles/ec6ef17c.ext.json)
-
----
-
-### The corpse of the young woman
-
-*2024-09-13 05:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-பெண்ணின்-சடலம்-மீட்பு/175-343709) · `ta`
-
-Young woman found hanged in Nuwara Eliya's Samahil forest. Identified as 28-year-old from Churchdenna, Kalahagama. Body discovered by police responding to neighbor's report.
-
-🟩
-
-The body of a woman has been recovered after being hanged in the Samahil forest area on the main road of Nuwara Eliya - Ragala, which belongs to the Nuwara Eliya Police Division.
-
-When the police visited the area following a report by neighbors yesterday evening, a woman was found dead in a tree.
-
-A 28 -year -old young woman from Churchdenna, Kalahagama and Hakkala area was rescued.
-
-◼️
-
-[Data](articles/efabed58.json)
-
-[Extended Data](ext_articles/efabed58.ext.json)
-
----
-
-### Voting objectively on 21 September
-
-*2024-09-13 05:14:05* · [`dailyftlk`](https://www.ft.lk/columns/Voting-objectively-on-21-September/4-766705) · `en`
-
-As the nation faces the task of electing a new President at a very crucial time among four leading candidates, all of whom have controversial pasts—whether due to own criminal acts, indirect involvement in criminality in the past, or by association with criminals within their own—decision is fraught with difficulty for the people. Hence, voters must weigh these candidates’ pasts against the hope for a better future. Unlike previous elections, if the wrong choice is made this time, voters themselves could share responsibility when the country faces another economic collapse.
-
-...
-
-[Data](articles/329515a6.json)
-
-[Extended Data](ext_articles/329515a6.ext.json)
-
----
-
-### Election promises: Where’s the money?
-
-*2024-09-13 05:09:28* · [`dailyftlk`](https://www.ft.lk/columns/Election-promises-Where-s-the-money/4-766704) · `en`
-
-Before you vote, consider how the promises in the manifestos will be
-
-“Show me the money!” – Tom Cruise in the movie Jerry Maguire
-
-The bottomline is money. How will the Government pay its bills: manage the debt mountain that has been accumulated; pay the salaries and pensions of the bloated bureaucracy and armed forces; and not least, the cost of the many new programs that are being promised as part of the bidding war that we call the Presidential election?
-
-For example, both the SJB and the NPP are promising major housing initiatives, such as low-interest and long-repayment loans and official residences for State employees. Low-interest loans may be given by commercial or State banks, but the subsidy element will have to be borne by Government. Housing for State employees will have to be fully paid by the Government.
-
-...
-
-[Data](articles/fa94bf37.json)
-
-[Extended Data](ext_articles/fa94bf37.ext.json)
-
----
-
-### Shallow manifestos and the 12-point economic challenge
-
-*2024-09-13 05:05:31* · [`dailyftlk`](https://www.ft.lk/columns/Shallow-manifestos-and-the-12-point-economic-challenge/4-766703) · `en`
-
-Irrespective of who becomes President, implementation of any of these manifestos, as usual, would be impossible – Pic by Shehan Gunasekara
-
-Election manifestos of all main contenders are out, and by and large it has followed the precedence over the last so many decades. Increase salaries for the public sector, lower PAYE tax, and long lists of prosperity. There is little indication as to how all these would be achieved, how much funds would be allocated to accomplish each task and how these funds would be obtained, etc.
-
-There is a more recent tendency to show lengthy 200, 300 page manifestos to give the impression of a detailed study. On the contrary, although the problems are complex, a truly detailed analysis should result in a short, concise and simple action plan which is implementable. Complex, lengthy solutions are unlikely to be implemented and what could be achieved in a period of five years is limited (remember the infamous lengthy Budget speech of 2015?).
-
-...
-
-[Data](articles/194f6d44.json)
-
-[Extended Data](ext_articles/194f6d44.ext.json)
-
----
-
-### Presidenshel Elecshen Gide
-
-*2024-09-13 04:55:57* · [`dailyftlk`](https://www.ft.lk/opinion/Presidenshel-Elecshen-Gide/14-766701) · `en`
-
-This Gide is for Candidates running in Arsikland Presidenshel Elecshens Only. Any Gideline and/or addice used by other candidates in other parts of the world, espeshelley in the USA should be used with caution and prior discushen with the Auther.
-
-1Not oll peeples running in PE is hoping to win. Some peeples don’t even get their Haaminey’s vote! Acktually some peeples don’t even vote for themselves!
-
-2Reducing AdagenaNaama (see below for full definishen) is the most impotent thing. Please note that reducing AdagenaNaama is only required, trying to eliminate it is as pointless as trying to eliminate corruption in Arsikland!
-
-3A good PE Campain has to cover oll of Arsikland. So Campain ‘SaamaThanama’ but don’t be ‘SaamaThanama’
-
-AdagenaNaama : (Trans: Pulling and Bathing) A common phrase used in Arsikland to indicate that a person has done or said something monumentally stupid or incredibly funny. This is an advanced stage of “Naama” but not as advanced as “Wathurapompey Savikara AdagenaNaama”
-
-...
-
-[Data](articles/775c7044.json)
-
-[Extended Data](ext_articles/775c7044.ext.json)
-
----
-
-### Printing money to finance Government budget deficit
-
-*2024-09-13 04:52:40* · [`dailyftlk`](https://www.ft.lk/columns/Printing-money-to-finance-Government-budget-deficit/4-766700) · `en`
-
-Excessive money printing is harmful to the economy as it could fuel inflation caused by too much money chasing too few goods, and destabilise the economy
-
-An evaluation one year into implementation of Central Bank of Sri Lanka Act
-
-Printing money to finance Government budget deficit (also called monetary financing) has been a major concern in recent years in Sri Lanka
-
-It is widely agreed in the field of economics that excessive money printing fuels inflation
-
-The Central Bank of Sri Lanka Act, implemented a year ago (on 15 September 2023), prohibits monetary financing
-
-The Act provides the Central Bank the authority to effectively maintain price stability
-
-The fiscal consolidation program, initiated under the IMF-EFF arrangement in 2023, has supported to improve Government financing, and carry out Government functions without monetary financing
-
-...
-
-[Data](articles/b7f3a3a7.json)
-
-[Extended Data](ext_articles/b7f3a3a7.ext.json)
-
----
-
-### Concerted efforts needed to unlock full potential of Maldives-Sri Lanka partnership
-
-*2024-09-13 04:21:58* · [`dailyftlk`](https://www.ft.lk/business/Concerted-efforts-needed-to-unlock-full-potential-of-Maldives-Sri-Lanka-partnership/34-766686) · `en`
-
-Seated from left: Sri Lanka-Maldives Business Council Immediate past President Kevin Edwards, Vice President Sanjeeva Perera, High Commissioner of the Republic of Maldives Masood Imad, Sri Lanka-Maldives Business Council President Sudesh Mendis, The Ceylon Chamber of Commerce Secretariat Amanthi Silva
-
-There is a growing market in the Maldives for Lankan products, particularly in the tourism, agriculture, food processing, textiles, and construction materials industries, but local exporters faced various constraints in tapping into this, a trade body has said.
-
-The two Indian Ocean island nations are heavily reliant on tourism and foreign exchange earnings.
-
-“We all recognise that Sri Lanka needs foreign exchange, but the current situation feels like squeezing a patient’s neck and asking them to breathe,” Sri Lanka-Maldives Business Council President Sudesh Mendis said.
-
-...
-
-[Data](articles/b470f1ab.json)
-
-[Extended Data](ext_articles/b470f1ab.ext.json)
-
----
-
-### Exterminators 352% increase in profit before tax
-
-*2024-09-13 04:19:52* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-352-increase-in-profit-before-tax/34-766685) · `en`
-
-Exterminators PLC, Sri Lanka’s premier pest management and environmental technology company, has remarkably demonstrated financial resilience during FY24, achieving notable profitability despite prevailing economic challenges. The company reported a staggering 167% increase in net profit and an extraordinary 352% rise in profit before tax, alongside a 143% growth in operating profit compared to the previous fiscal year. Notably, while overall sales dipped by 7%, revenue from service activities saw a modest increase of 3%. This commendable performance, however, was not without its hurdles. A significant decline of 85% in revenue from international brands can be attributed to stringent import restrictions and diminished consumer purchasing power, primarily due to economic instability. The impact of increased corporate tax, along with the introduction of value-added tax (VAT) and (SSCL), further exacerbated the challenges.
-
-...
-
-[Data](articles/a05568c2.json)
-
-[Extended Data](ext_articles/a05568c2.ext.json)
-
----
-
-### Planters’ Association of Ceylon to celebrate 170 year legacy at AGM tomorrow
-
-*2024-09-13 04:17:57* · [`dailyftlk`](https://www.ft.lk/business/Planters-Association-of-Ceylon-to-celebrate-170-year-legacy-at-AGM-tomorrow/34-766684) · `en`
-
-Marking a significant milestone in the history of Sri Lanka’s plantation sector, the Planters’ Association of Ceylon (PA) will host its 170th Annual General Meeting (AGM) on Saturday, 14 September at 7 p.m. at the Galadari Hotel, Colombo.
-
-Hayleys PLC Chairman and Chief Executive Mohan Pandithage will preside over this prestigious occasion as the Chief Guest, addressing key stakeholders in the industry.
-
-...
-
-[Data](articles/09c1a6b0.json)
-
-[Extended Data](ext_articles/09c1a6b0.ext.json)
-
----
-
-### E.B. Creasy Solar partners Sungrow to bring next-level solar power to Sri Lanka
-
-*2024-09-13 04:16:38* · [`dailyftlk`](https://www.ft.lk/business/E-B-Creasy-Solar-partners-Sungrow-to-bring-next-level-solar-power-to-Sri-Lanka/34-766683) · `en`
-
-E.B. Creasy Solar, a division of the esteemed E.B. Creasy & Co., PLC, has taken a remarkable step in Sri Lanka’s renewable energy sector by forming a strategic alliance with Sungrow, a globally recognised leader in solar technology.
-
-With over 500 gigawatts (GW) of installed capacity worldwide as of 2023, Sungrow’s reputation for excellence in the solar industry is well-established. Announced on 10 September, this partnership designates E.B. Creasy Solar as the exclusive sales and service partner for Sungrow solar inverters in Sri Lanka.
-
-This pivotal collaboration represents a substantial advancement towards achieving Sri Lanka’s ambitious renewable energy targets, notably its goal to generate 70% of its electricity from renewable sources by 2030, according to the Sri Lankan Power and Energy Ministry.
-
-...
-
-[Data](articles/ff610929.json)
-
-[Extended Data](ext_articles/ff610929.ext.json)
-
----
-
-### Pathfinder Foundation presents key policy reports to Presidential candidates, addressing economic recovery and regional connectivity
-
-*2024-09-13 04:12:52* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-presents-key-policy-reports-to-Presidential-candidates-addressing-economic-recovery-and-regional-connectivity/56-766682) · `en`
-
-Pathfinder Foundation Chairman Bernard Goonetilleke, Executive Director Dr. Dayaratna Silva, Convenor Eng. R. W. R. Pemasiri, Program Executive Rumeka Perera and Research Associate Rasangi Kumarihami representing the event
-
-The Pathfinder Foundation, an independent research and advocacy organisation, has published two significant policy documents that were presented to Presidential candidates, including President Ranil Wickremesinghe, SJB leader Sajith Premadasa, Namal Rajapaksa representing SLPP, NPP General Secretary Dr. Nihal Abeysinghe and Dilith Jayaweera of ‘Sarvajana Balaya’ Alliance. Pathfinder Foundation hopes, these reports will provide policy choices available to the next administration, ensuring a path forward for Sri Lanka that combines immediate economic recovery with long-term resilience and growth.
-
-...
-
-[Data](articles/344dd04d.json)
-
-[Extended Data](ext_articles/344dd04d.ext.json)
-
----
-
-### BASL accuses suspended President of misrepresenting facts and misleading media
-
-*2024-09-13 04:11:11* · [`dailyftlk`](https://www.ft.lk/news/BASL-accuses-suspended-President-of-misrepresenting-facts-and-misleading-media/56-766681) · `en`
-
-The Bar Association of Sri Lanka (BASL) has accused its suspended President Kaushalya Nawaratna, PC, of misrepresenting facts and spreading false information regarding the BASL Constitution and the findings of the Special Committee on the JICA-BASL Program. The allegations came to light after several media publications and YouTube interviews referenced Nawaratna’s statements.
-
-In an official statement, the BASL clarified the provisions of its Constitution concerning the recent election of Deputy President Anura Meddegoda, PC, at the Bar Council meeting held on 31 August. The BASL emphasised that there is no constitutional barrier to Meddegoda’s appointment, countering Nawaratna’s claims.
-
-...
-
-[Data](articles/515b5b68.json)
-
-[Extended Data](ext_articles/515b5b68.ext.json)
-
----
-
-### Trinity reclaims Bradby glory after a decade
-
-*2024-09-13 03:54:00* · [`islandlk`](http://island.lk/trinity-reclaims-bradby-glory-after-a-decade/) · `en`
-
-The second leg of the highly anticipated 78th Bradby Shield took place on the 7th of September at the Trinity College Rugby Stadium, Pallekele. After a thrilling and hard-fought match, Trinity College emerged victorious with a narrow 23-22 win against Royal College, marking their first Bradby Shield win in a decade. This victory, combined with their earlier 17-16 win in the first leg, secured Trinity’s triumph in this historic encounter.
-
-Adding to the celebrations, Shan Althaf of Trinity College was named the NDB Player of the Match for his exceptional performance throughout the game. Shan was presented with the award by Kelum Edirisinghe, CEO/Director of NDB Bank, and Sanjaya Perera, Senior Vice President of NDB Bank. NDB Bank is proud to support and recognise emerging talent, and Shan’s outstanding contribution is a testament to his promising future in rugby. As part of his recognition, Shan was also presented with NDB Pixel, the bank’s latest digital solution designed for teens.
-
-...
-
-[Data](articles/afb8be07.json)
-
-[Extended Data](ext_articles/afb8be07.ext.json)
-
----
-
-### Sysco LABS recognized as one of Sri Lanka’s Most Outstanding Women-Friendly Workplaces
-
-*2024-09-13 03:53:00* · [`islandlk`](http://island.lk/sysco-labs-recognized-as-one-of-sri-lankas-most-outstanding-women-friendly-workplaces/) · `en`
-
-Sysco LABS is proud to announce its recent recognition within the top ten of Sri Lanka’s most outstanding women-friendly workplaces at the prestigious “Women Friendly Workplace Awards”. Organized by Satyn Mag in collaboration with CIMA and AICPA, the awards celebrate organizations that go above and beyond to champion women in the workplace. Chaired by an eminent panel of judges, the platform is designed to recognize sustainable and meaningful measures taken by organizations to improve their policies and programs to empower Diversity, Equity and Inclusion, and invest in the career progress of women.
-
-...
-
-[Data](articles/28fa610c.json)
-
-[Extended Data](ext_articles/28fa610c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 20:38:03**
+As of **2024-09-13 20:57:13**
 
 ## Newspaper Stats
 
-*Scraped **43,758** Articles*
+*Scraped **43,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,140
 tamilmirrorlk | 5,688
 virakesarilk | 6,930
-adaderanasinhalalk | 7,482
+adaderanasinhalalk | 7,483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,758 (100.0%) of 43,758 articles have been extended.
+43,759 (100.0%) of 43,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Star who went to the camp
+
+*2024-09-13 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200999) · `si`
+
+Candidate Dilith Jayaweera addresses supporters, urging them to seize opportunities and recognize their own potential as stars in the political landscape. He criticizes opponents' methods and emphasizes the importance of unity and progress.
+
+🟩
+
+The summomone candidate Dilith Jayaweera says that the maximum advantage of the golden chance has been achieved this year's election.
+
+Another public meeting at the "Dilith Gamata" searches was held at the Kaduruwela bus stand this afternoon.
+
+He was speaking at the time, Mr. Dilith Jayaweera said that the people were driven every day and give the star to the preference of all politics.
+
+...
+
+[Data](articles/a24a0e87.json)
+
+[Extended Data](ext_articles/a24a0e87.ext.json)
+
+---
 
 ### Schoolgirl in the ICU more than a month
 
@@ -574,19 +596,19 @@ Sajith Premadasa, son of President Ranasinghe Premadasa, who was killed by the L
 
 *2024-09-13 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101947/cabinet-decision-on-reducing-paye-tax) · `en`
 
-The proposal to reduce the pay-as-you-earn (PAYE) tax will be included in the next budget proposals, says Cabinet Spokesman Minister Bandula Gunawardena.
+The Cabinet of Ministers approved the IMF proposal, based on the Sri Lankan Government’s proposal, to reduce the pay-as-you-earn (PAYE) tax from next year, says Cabinet Spokesman Minister Bandula Gunawardena.
 
-He stated that the government had submitted the relevant proposal to the International Monetary Fund (IMF) and obtained its approval.
+He stated that the proposal will be presented with the next budget proposal in November this year.
+
+Gunawardena stated that the government had submitted the relevant proposal to the International Monetary Fund (IMF) and obtained its approval.
 
 According to the proposal, the PAYE tax currently collected from each income structure will be reduced as follows:
 
-The PAYE tax of Rs. 3,000 imposed on an individual with a monthly income of Rs. 150,000 will be reduced by Rs. 500 to Rs. 2,500.
+The tax of Rs. 3,500 imposed on an individual with a monthly income of Rs. 150,000 will be reduced by Rs. 500 to Rs. 3,000.
 
-The Rs. 7,000 tax imposed on an individual with a monthly income of Rs. 300,000 will be reduced to Rs. 3,500.
+The tax of Rs. 10,500 currently imposed on an individual with a monthly income of Rs. 200,000 will be reduced by Rs. 2,100 to Rs. 8,400.
 
-Meanwhile, an individual earning a monthly income of Rs. 450,000 is currently required to pay a tax of Rs. 76,000 while this will be reduced by Rs. 12,500 to Rs. 63,500.
-
-The monthly tax of Rs. 120,000 imposed on an individual earning a monthly income of Rs. 600,000 will also be slashed by Rs. 12,500 to Rs. 107,500.
+The Rs. 35,000 tax imposed on an individual with a monthly income of Rs. 300,000 will be reduced by Rs. 8,600 to Rs. 26,400.
 
 ...
 
@@ -2343,27 +2365,5 @@ Economic growth is starting to revive, inflation is coming down, revenue mobiliz
 [Data](articles/7edb957a.json)
 
 [Extended Data](ext_articles/7edb957a.ext.json)
-
----
-
-### The country can only be backed by Dilith's plan - Gamini Walaweboda
-
-*2024-09-13 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200963) · `si`
-
-Country needs Dilith's plan for rebuilding - MP Gamini Walaweboda. 35% undecided voters crucial for winning national strategy. Rebuilding governance essential for success.
-
-🟩
-
-MP Gamini Walaboda says that if the country's rebuilding is to be rebuilt, the National Strategic Dilith Jayaweera has presented the national strategy.
-
-The executive policy of executive manager, Executive Member of Parliament, said that 35% of voters had not decided who had yet to vote.
-
-"35% of voters have not decided to vote for who. So we call the rebuilding of the governance of the bankruptcy if we want to win the national strategy. "
-
-◼️
-
-[Data](articles/b7dd5e12.json)
-
-[Extended Data](ext_articles/b7dd5e12.ext.json)
 
 ---

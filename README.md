@@ -1,36 +1,78 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 07:22:56**
+As of **2024-09-13 07:57:31**
 
 ## Newspaper Stats
 
-*Scraped **43,643** Articles*
+*Scraped **43,647** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
-bbccomsinhala | 423
+bbccomsinhala | 424
 colombotelegraphcom | 428
 islandlk | 2,554
-economynextcom | 2,659
+economynextcom | 2,660
 dailyftlk | 2,910
 adalk | 4,040
 dailymirrorlk | 4,733
-adaderanalk | 5,117
+adaderanalk | 5,118
 tamilmirrorlk | 5,680
 virakesarilk | 6,912
-adaderanasinhalalk | 7,449
+adaderanasinhalalk | 7,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,532 (99.7%) of 43,643 articles have been extended.
+43,538 (99.8%) of 43,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Showers expected in parts of the island
+
+*2024-09-13 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101928/showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts.
+
+Several spells of showers will occur in Western and North-western provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at several places in Uva province and in Ampara and Batticaloa districts during the evening or night, it said.
+
+Strong winds of about 40-45 kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/b6cd8c76.json)
+
+[Extended Data](ext_articles/b6cd8c76.ext.json)
+
+---
+
+### We brought bankruptcies to the law - Sajith
+
+*2024-09-13 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200964) · `si`
+
+Sajith Premadasa claims his party is the only one to face bankruptcy charges. He made this statement during a public address in Baddegama.
+
+🟩
+
+The presidential candidate Sajith Premadasa, the president of the Folk Force, says that his party is the only party that has been brought before the country.
+
+Addressing a public brief in Baddegama, Sajith Premadasa made these comments.
+
+◼️
+
+[Data](articles/0600f98e.json)
+
+[Extended Data](ext_articles/0600f98e.ext.json)
+
+---
 
 ### The country can only be backed by Dilith's plan - Gamini Walaweboda
 
@@ -169,6 +211,8 @@ AdagenaNaama : (Trans: Pulling and Bathing) A common phrase used in Arsikland to
 ...
 
 [Data](articles/775c7044.json)
+
+[Extended Data](ext_articles/775c7044.ext.json)
 
 ---
 
@@ -310,6 +354,8 @@ Adding to the celebrations, Shan Althaf of Trinity College was named the NDB Pla
 
 [Data](articles/afb8be07.json)
 
+[Extended Data](ext_articles/afb8be07.ext.json)
+
 ---
 
 ### Sysco LABS recognized as one of Sri Lanka’s Most Outstanding Women-Friendly Workplaces
@@ -321,6 +367,8 @@ Sysco LABS is proud to announce its recent recognition within the top ten of Sri
 ...
 
 [Data](articles/28fa610c.json)
+
+[Extended Data](ext_articles/28fa610c.ext.json)
 
 ---
 
@@ -337,6 +385,8 @@ Amid those developments, the stock market yesterday got off to a good start but 
 ...
 
 [Data](articles/0c8db5b4.json)
+
+[Extended Data](ext_articles/0c8db5b4.ext.json)
 
 ---
 
@@ -401,6 +451,30 @@ Such Corporate Finance Advisory services include capital raising – assisting c
 ...
 
 [Data](articles/9e8e3430.json)
+
+---
+
+### පාස්කු ප්‍රහාරයන්  දෑස් අන්ධ වුවද යුක්තිය පසිඳලන විනිසුරුවරියක වීමට සිහින දකින ඩෙබී
+
+*2024-09-13 01:22:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4glg82ldw7o) · `si`
+
+පාස්කු ප්‍රහාරයන්  දෑස් අන්ධ වුවද යුක්තිය පසිඳලන විනිසුරුවරියක වීමට සිහින දකින ඩෙබී
+
+මෙරට ඉතිහාසයේ එක් අඳුරු දිනයක් බවට පත් වූ  2019 වසරේ අප්‍රේල් මස 21 වැනිදා සිදුවූ පාස්කු ඉරිදා බෝම්බ ප්‍රහාර මාලාවෙන් පීඩා විදින බොහෝ දෙනා අදටත් ජීවත් වන්නේ විවිධ අභියෝග හමුවේ බව නොරහසකි.
+
+පුද්ගලයින් 260කට අධික පිරිසකට දිවි අහිමිවූ අතර තවත් පුද්ගලයින් 500 දෙනෙකුට  පමණ තුවාල සිදුවූ පාස්කු ඉරිදා බෝම්බ ප්‍රහාර මාලාවේ එක් ඉලක්කයක් වුයේ මඩකළපුව සියොන් දේවස්ථානයයි.
+
+එලිෂා ඩෙබී රංජිත් සුරංග, මඩකලපුවේ සියෝන් දේවස්ථානයට එල්ල වූ බෝම්බ ප්‍රහාරයට ගොදුරුවන විට 06 හැවිරිදි වියේ පසුවූවාය.
+
+ඩෙබී තම 13 හැවිරිදි වැඩිමහල් සහෝදරයා සමග ජීවත් වන්නේ සිය මවගේ සහෝදරියගේ නිවසේයි.
+
+බීබීසී සිංහල සේවයට අදහස් දක්වමින් ඇගේ නැන්දණිය වන වදනී මෝසෙස් පැවසුවේ දේවස්ථානයට එල්ලවූ බෝම්බ ප්‍රහාරයෙන් ඩෙබීගේ මව්පියන් මියගිය බවයි.
+
+"ඩෙබීගේ අම්මා; ඒ කියන්නේ මගේ වැඩිමහල් සහෝදරිය. එයයි එයාගේ මහත්තයයි දෙන්නම සියොන් දේවස්ථානයට එල්ලවූ බෝම්බ ප්‍රහාරයෙන් මිය ගියා." ඇය පැවසීය.
+
+...
+
+[Data](articles/ba8b6531.json)
 
 ---
 
@@ -2191,79 +2265,5 @@ A total of 1,487,303 tourists had visited the country in 2023.
 [Data](articles/ecbfa274.json)
 
 [Extended Data](ext_articles/ecbfa274.ext.json)
-
----
-
-### Increase of Child Abuse Complaints
-
-*2024-09-12 14:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-துஷ்பிரயோக-முறைப்பாடுகள்-அதிகரிப்பு/175-343669) · `ta`
-
-Child abuse cases surge in Anuradhapura: 491 complaints in 6 months, many unreported. Child Protection Officers express concern.
-
-🟩
-
-Anuradhapura District Child Protection Officers have expressed concern over the increase in child abuse in Anuradhapura district.
-
-District Child Protection Officer Mahendra Dasanayake said that 491 complaints have been received in the last six months and may not have been reported.
-
-He said that the Child Assistance Service has received 202 direct complaints from 1929 and 289 complaints have been received by the Child Security Officers.
-
-◼️
-
-[Data](articles/e40abcd1.json)
-
-[Extended Data](ext_articles/e40abcd1.ext.json)
-
----
-
-### Special operation to find a missing three-wheeler driver
-
-*2024-09-12 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200944) · `si`
-
-Panadura police conduct special operation to locate missing three-wheeler driver who vanished 40 days ago after meeting unknown woman. Investigation reveals links to drug trade and organized crime in Wandurmulla area.
-
-🟩
-
-Mysterious disappearances have been conducting a special search operation at the Panadura Taudelila Prawuwa Provincial Council.
-
-The three-wheeler driver has disappeared after going to an unidentified woman 40 days ago.
-
-A large number of drug dealers and a large-scale drug dealer and Panadura is an organized criminal and another person in the Wandurmulla area.
-
-The other person was killed and the only assainted evidence that the assign was the only proof of the incident was disclosed in investigations.
-
-◼️
-
-[Data](articles/a236fa27.json)
-
-[Extended Data](ext_articles/a236fa27.ext.json)
-
----
-
-### The change in the arrival of tourists
-
-*2024-09-12 13:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-பயணிகளின்-வருகையில்-ஏற்பட்டுள்ள-மாற்றம்/175-343668) · `ta`
-
-Sri Lanka tourist arrivals: 1.4 million this year, 1.39 million Jan-Sep, peak in Feb (218k), over 200k in Jan-Mar. Top countries: India, UK, Russia, Germany, China. Last year: 1.49 million visitors.
-
-🟩
-
-The number of foreign tourists who arrived in Sri Lanka this year is close to 14 lakhs.
-
-The total number of tourists visiting Sri Lanka from January 1 to 8 September is 1,395,773, the Sri Lanka Tourism Development Authority said.
-
-In addition, a large number of tourists came to the country in last February. Their number is 218,350.
-
-Also, more than 200,000 tourists arrived in January and March.
-
-Meanwhile, most tourists from India, Britain, Russia, Germany and China have come to the country.
-
-At the same time, the total number of tourists visiting Sri Lanka last year was 1,487,303.
-
-◼️
-
-[Data](articles/2cb0176d.json)
-
-[Extended Data](ext_articles/2cb0176d.ext.json)
 
 ---

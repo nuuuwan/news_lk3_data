@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 07:57:31**
+As of **2024-09-13 08:19:46**
 
 ## Newspaper Stats
 
-*Scraped **43,647** Articles*
+*Scraped **43,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,115 @@ dailyftlk | 2,910
 adalk | 4,040
 dailymirrorlk | 4,733
 adaderanalk | 5,118
-tamilmirrorlk | 5,680
+tamilmirrorlk | 5,682
 virakesarilk | 6,912
-adaderanasinhalalk | 7,450
+adaderanasinhalalk | 7,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,538 (99.8%) of 43,647 articles have been extended.
+43,548 (99.8%) of 43,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Special Transport Service from Today
+
+*2024-09-13 07:49:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-விசேட-போக்குவரத்து-சேவை/175-343711) · `ta`
+
+Sri Lanka Transport Board implements special bus service for long weekend. SLTB deploys 60 buses. National Transport Commission adds unscheduled routes. Railway Department operates special trains from Badulla to Colombo tonight and tomorrow.
+
+🟩
+
+A special transport service has been implemented for a long weekend vacation from today.
+
+According to the Sri Lanka Transport Board (SLTB), steps have been taken to serve about 60 buses.
+
+The National Transport Commission has said that it is planning to carry out additional bus services without time schedule.
+
+Meanwhile, special train services will be carried out from Badulla to Colombo on tonight and tomorrow, the Railway Department said.. (A)
+
+◼️
+
+[Data](articles/39363638.json)
+
+[Extended Data](ext_articles/39363638.ext.json)
+
+---
+
+### Namal says the only challenge
+
+*2024-09-13 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200967) · `si`
+
+Namal addresses challenges faced by fishermen and elephants during his speech in Vavuniya, emphasizing unity between presidential candidates and local communities in addressing environmental issues.
+
+🟩
+
+Presidential candidate at the Sri Lanka General Fishermen and the Fishermen of Sri Lanka and Fishermen are the same challenge.
+
+He was speaking at a public rally in Vavuniya to end the human-elephant conflict.
+
+◼️
+
+[Data](articles/753b083f.json)
+
+[Extended Data](ext_articles/753b083f.ext.json)
+
+---
+
+### Anura promise fishermen
+
+*2024-09-13 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200966) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka presidential candidate Anura Kumara Dissanayake promises fishermen exemption from fisheries regulations during a rally in Ambalantota.
+
+🟩
+
+Presidential candidate Anura Kumara Dissanayake says that the fishermen will be exempt from the fisheries for fisheries.
+
+He was speaking at a rally held in Ambalantota, Ambalantota.
+
+◼️
+
+[Data](articles/4ed59f8b.json)
+
+[Extended Data](ext_articles/4ed59f8b.ext.json)
+
+---
+
+### Can ballot boxes be transferred?
+
+*2024-09-13 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200965) · `si`
+
+Ballot boxes transfer allowed between polling stations and counting centers. Candidates may visit during transport. Vehicle details must be reported to Election Office. Some politicians transported boxes post-election. Over 3500 election-related complaints received.
+
+🟩
+
+From the polling station from the polling station to the counting center, the candidates have been able to visit the candidates to visit the candidates.
+
+Accordingly, the Elections Commission further stated that the ballot boxes to the final police checkpoint near the counting center from the polling center said.
+
+If necessary, the name of the polling station and the name of the vehicle in the vehicle and the name of the vehicle in the vehicle, a delegation should be given to the District Election Office three days ago.
+
+The Elections Commission is informed that the vehicle license can be obtained from the Senior Masters of the polling party.
+
+The Elections The Elections Announced that some politicians and candidates have been responding to the counting box to the counting center after the end of the election.
+
+Meanwhile, the number of complaints received by the Elections Commission regarding the presidential election has exceeded the 3,500 limit.
+
+...
+
+[Data](articles/de464f6e.json)
+
+[Extended Data](ext_articles/de464f6e.ext.json)
+
+---
 
 ### Showers expected in parts of the island
 
@@ -139,6 +235,28 @@ The body is currently being kept at the Eravur Resource Hospital.. (A)
 [Data](articles/ec6ef17c.json)
 
 [Extended Data](ext_articles/ec6ef17c.ext.json)
+
+---
+
+### The corpse of the young woman
+
+*2024-09-13 05:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-பெண்ணின்-சடலம்-மீட்பு/175-343709) · `ta`
+
+Young woman found hanged in Nuwara Eliya's Samahil forest. Identified as 28-year-old from Churchdenna, Kalahagama. Body discovered by police responding to neighbor's report.
+
+🟩
+
+The body of a woman has been recovered after being hanged in the Samahil forest area on the main road of Nuwara Eliya - Ragala, which belongs to the Nuwara Eliya Police Division.
+
+When the police visited the area following a report by neighbors yesterday evening, a woman was found dead in a tree.
+
+A 28 -year -old young woman from Churchdenna, Kalahagama and Hakkala area was rescued.
+
+◼️
+
+[Data](articles/efabed58.json)
+
+[Extended Data](ext_articles/efabed58.ext.json)
 
 ---
 
@@ -400,6 +518,8 @@ LOLC Divi Saviya has successfully completed Phase 03 of its education initiative
 
 [Data](articles/ebd8673f.json)
 
+[Extended Data](ext_articles/ebd8673f.ext.json)
+
 ---
 
 ### Pan Asia Bank and Odiliya forge strategic partnership to revolutionize real estate financing
@@ -411,6 +531,8 @@ Pan Asia Bank, ‘The Truly Sri Lankan Bank,’ has signed a Memorandum of Under
 ...
 
 [Data](articles/08780ee9.json)
+
+[Extended Data](ext_articles/08780ee9.ext.json)
 
 ---
 
@@ -425,6 +547,8 @@ ASUS’s latest devices are powered by the latest AMD Ryzen™ AI 300 Series & Q
 ...
 
 [Data](articles/86ba1c52.json)
+
+[Extended Data](ext_articles/86ba1c52.ext.json)
 
 ---
 
@@ -442,6 +566,8 @@ Such Corporate Finance Advisory services include capital raising – assisting c
 
 [Data](articles/c9623c03.json)
 
+[Extended Data](ext_articles/c9623c03.ext.json)
+
 ---
 
 ### Plantation workers being taken for a ride once again
@@ -451,6 +577,8 @@ Such Corporate Finance Advisory services include capital raising – assisting c
 ...
 
 [Data](articles/9e8e3430.json)
+
+[Extended Data](ext_articles/9e8e3430.ext.json)
 
 ---
 
@@ -2141,129 +2269,5 @@ Meanwhile, two independent groups have handed over nominations and the Democrati
 [Data](articles/7562553d.json)
 
 [Extended Data](ext_articles/7562553d.ext.json)
-
----
-
-### Official ballot papers divided 77 percent
-
-*2024-09-12 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200946) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"77% of official ballot papers distributed. Rajitha Ranasinghe: Papers available now. Deputy Postmaster: Distribution continues tomorrow. If not received by Saturday, voters can get them from local post offices."
-
-🟩
-
-About 77% of the official ballot papers of the presidential election have been distributed by 77%.
-
-Rajitha Ranasinghe said that the official voter papers were distributed at present.
-
-The Deputy Postrent said that he will go home and the distribution of official ballot papers will be distributed tomorrow and tomorrow.
-
-If the official ballot papers were not received by Saturday, he was able to reach the post office in their area and obtain their voter voter and enacted the election day.
-
-◼️
-
-[Data](articles/53267e0b.json)
-
-[Extended Data](ext_articles/53267e0b.ext.json)
-
----
-
-### Browns subsidiary increases stake in Sierra Cables Plc
-
-*2024-09-12 14:26:00* · [`economynextcom`](https://economynext.com/browns-subsidiary-increases-stake-in-sierra-cables-plc-179398/) · `en`
-
-ECONOMYNEXT – Iconic Trust (Private) Limited, a subsidiary of Browns Investments Plc, said it had purchased 6,654,899 shares of Sierra Cables Plc, increasing its stake in the company to 30.42 percent.
-
-With the increase in ownership in voting shares of Sierra Cables, Iconic Trust will make a mandatory offer to its remaining shareholders in terms of the Takeovers & Mergers Code in due course, the company said in a stock exchange filing.
-
-Sierra Cables voting shares were bought at 8 rupees each, for a gross consideration of 53,239, 192 rupees.
-
-Sierra Cables was trading flat at 9.80 rupees on Thursday (12). Browns Investments was up at 5.00 rupees. (Colombo/Sep12/2024)
-
-◼️
-
-[Data](articles/6e1863d8.json)
-
-[Extended Data](ext_articles/6e1863d8.ext.json)
-
----
-
-### There is no drumper - no dancing
-
-*2024-09-12 14:18:19* · [`adalk`](https://www.ada.lk/breaking_news/බෙරේ-පලුවකුත්-නෑ---නටපු-නැටුමකුත්-නෑ-මේ-අය-ආවොත්-සමහර-විට-රටේ-පලුවකුත්-නෑ/11-411915) · `si`
-
-Here's a 200-character summary:
-
-
-
-Former President Mahinda Rajapaksa criticized pro-good governance parties at a rally. He questioned their motives, suggesting they might collapse under scrutiny. The statement implies a lack of genuine commitment to good governance, potentially leading to instability and negative consequences for the country.
-
-🟩
-
-Former President Mahinda Rajapaksa said that the parties who were propped for the Good Govt.
-
-He was speaking at a rally held yesterday (11) Beliatta.
-
-"Those who have props the good governance of the government to be presidential election candidates. I doubt that someone who knows who is going to happen to them. I believe that someone knows not to vote. To catch the good governments of that day. Collapse thieves today. Finally, the Bera was no. There is no danger dancing. Sometimes if they come, there may be no fruit in the country. "
-
-◼️
-
-[Data](articles/b5fef064.json)
-
-[Extended Data](ext_articles/b5fef064.ext.json)
-
----
-
-### Life Save Rock Star
-
-*2024-09-12 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200945) · `si`
-
-Here's a 200-character summary:
-
-
-
-Rock star saves fan: John Bon Jovi rescues woman from suicide attempt during music video shoot.
-
-🟩
-
-Fear of a woman who trigned a world famous rock singer John Boni, a woman who tried to rush on a bridge, has commended him.
-
-Foreign media reports that John Bon John has attempted to commit suicide while shooting music vidows for his "People's House" song.
-
-John Jovy has rescued the woman's life with the help of a nearby person.
-
-◼️
-
-[Data](articles/10e8b6aa.json)
-
-[Extended Data](ext_articles/10e8b6aa.ext.json)
-
----
-
-### Sri Lanka records nearly 1.4 mln tourist arrivals so far in 2024
-
-*2024-09-12 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101917/sri-lanka-records-nearly-14-mln-tourist-arrivals-so-far-in-2024) · `en`
-
-Sri Lanka has recorded nearly 1.4 million tourist arrivals during the period elapsed this year.
-
-The Sri Lanka Tourism Development Authority (SLTDA) stated that the total number of tourist arrivals from January 01 and September 08, stands at approximately 1,395,773.
-
-A higher number of tourists had visited the island in the month of February with that figure recorded as 218,350.
-
-Meanwhile, more than 200,000 tourist arrivals were also reported in the months of January and March.
-
-The majority of foreign tourists visiting the country are from India, Britain, Russia, Germany and China.
-
-A total of 1,487,303 tourists had visited the country in 2023.
-
-◼️
-
-[Data](articles/ecbfa274.json)
-
-[Extended Data](ext_articles/ecbfa274.ext.json)
 
 ---

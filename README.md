@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 17:38:54**
+As of **2024-09-13 17:58:53**
 
 ## Newspaper Stats
 
-*Scraped **43,732** Articles*
+*Scraped **43,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,70 +13,110 @@ dbsjeyarajcom | 375
 bbccomsinhala | 425
 colombotelegraphcom | 429
 islandlk | 2,554
-economynextcom | 2,662
+economynextcom | 2,664
 dailyftlk | 2,910
 adalk | 4,049
 dailymirrorlk | 4,733
 adaderanalk | 5,137
 tamilmirrorlk | 5,688
-virakesarilk | 6,929
+virakesarilk | 6,930
 adaderanasinhalalk | 7,478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,721 (100.0%) of 43,732 articles have been extended.
+43,727 (100.0%) of 43,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
 
-### ආගමන හා විගමන පාලකට එරෙහිව චෝදනා ගොනුකරන්නැයි නියෝග
+### Resolution to Reduce PayE Tax: Government released information!
+
+*2024-09-13 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193619) · `ta`
+
+Government proposes reducing PAYE tax in upcoming budget. Cabinet spokesperson confirms submission to IMF for approval. Current tax rates may decrease based on pay scale.
+
+🟩
+
+Cabinet Media Spokesperson Bandula Gunawardena said the proposal to reduce the PAYE tax would be included in the upcoming budget proposal.
+
+He said the government had submitted a similar motion to the IMF and obtained compliance with the International Monetary Fund.
+
+According to the proposal, the taxes that are currently charged from each pay rate will be reduced.
+
+◼️
+
+[Data](articles/1ae77f34.json)
+
+[Extended Data](ext_articles/1ae77f34.ext.json)
+
+---
+
+### Orders to file charges against immigration bridge
 
 *2024-09-13 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200994) · `si`
 
-මෑතකදී රජය විසින් හඳුන්වා දුන් විද්‍යුත් වීසා ක්‍රමවේදය ක්‍රියාත්මක කිරීම අත්හිටුවාලමින් ශ්‍රේෂ්ඨාධිකරණය විසින් නිකුත් කළ අතුරු තහනම් නියෝගයක් ක්‍රියාත්මක නොකිරීම තුළින් අධිකරණයට අපහාසයක් සිදුකර ඇතැයි චෝදනා කොට ආගමන හා විගමන පාලක හර්ෂ ඉලූක්පිටිය මහතාට එරෙහිව චෝදනා පත්‍ර ගොනුකරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (13) නියෝග කළේය.
+Supreme Court orders charges against immigration official who insulted court. Electronic visa suspension case related.
+
+🟩
+
+The Supreme Court today (13) ordered that he had been insulted by the Supreme Court with the execution issued by the Supreme Court with the execution of the electronic visa method recently suspended by the Government.
 
 ◼️
 
 [Data](articles/7683bf7b.json)
 
+[Extended Data](ext_articles/7683bf7b.ext.json)
+
 ---
 
-### PAYE வரியை குறைக்க அரசாங்கம் தீர்மானம்
+### Government resolution to reduce PAYE line
 
 *2024-09-13 17:14:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PAYE-வரியை-குறைக்க-அரசாங்கம்-தீர்மானம்/175-343719) · `ta`
 
-PAYE வரியை  (உழைக்கும் போது செலுத்தும் வரி) குறைக்கும் பிரேரணை எதிர்வரும் வரவு செலவு திட்ட பிரேரணையில் உள்ளடக்கப்படும் என அமைச்சரவை ஊடகப் பேச்சாளர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-இதுதொடர்பான பிரேரணையை அரசாங்கம் சர்வதேச நாணய நிதியத்திடம் சமர்ப்பித்து அதற்கான இணக்கத்தை பெற்றுக்கொண்டுள்ளதாக அவர் குறிப்பிட்டார்.
 
-மாதாந்தம் 150,000 ரூபாய் வருமானம் ஈட்டும் நபரொருவர் மாதாந்தம் செலுத்தும் 3,000 ரூபாய் வரி 500 ரூபாவால் குறைக்கப்பட்டு 2,500 ரூபாவாக வசூலிக்கப்படும்.
 
-அதேபோல், மாதாந்தம் 300,000 ரூபாய் வருமானம் ஈட்டும் நபரொருவர் மாதாந்தம் செலுத்தும் 7,000 ரூபாய் வரி 3,500 ரூபாய் குறைக்கப்பட்டு 3,500 ரூபாவாக வசூலிக்கப்படும்.
+"Govt proposes reducing PAYE tax in upcoming budget. For Rs 150k/month: Rs reduction. For Rs 300k/month: Rs 3500 reduction. For Rs 450k/month: Rs reduction. For Rs 600k/month: Rs reduction."
 
-அதேபோல், மாதாந்தம் 450,000 ரூபாய் வருமானம் ஈட்டும் நபரொருவர் மாதாந்தம் செலுத்தும் 76,000 ரூபாய் வரி 12,500 ரூபாவால் குறைக்கப்பட்டு 63,500 ரூபாவாக வசூலிக்கப்படும்.
+🟩
 
-மாதாந்தம் 6 இலட்சம் ரூபாய் வருமானம் ஈட்டும் நபரொருவர் மாதாந்தம் செலுத்தும் 120,000 ரூபாய் வரி 12,500 ரூபாவால் குறைக்கப்பட்டு 107,500 ரூபாவாக வசூலிக்க  தீர்மானிக்கப்பட்டுள்ளது. R
+Cabinet Media Spokesperson Bandula Gunawardena said the proposal to reduce the PAYE tax (tax -paying tax) will be included in the upcoming budget motion.
+
+He said the government had submitted a similar motion to the IMF and obtained compliance with the International Monetary Fund.
+
+A person who earns an income of Rs 150,000 per month will be reduced by Rs.
+
+Similarly, a person who earns an income of Rs 300,000 per month will be reduced to Rs 3,500 for Rs 7,000 per month.
+
+Similarly, a person who earns 450,000 rupees per month will be reduced by Rs.
+
+A person who earns an income of Rs 6 lakh per month has been reduced by Rs.. Remble
 
 ◼️
 
 [Data](articles/bc29130d.json)
 
+[Extended Data](ext_articles/bc29130d.ext.json)
+
 ---
 
-### රන් කුඩු තොගයක් සමග අයෙකු කටුනායකදී අල්ලයි
+### Suspect caught in Katunayake with gold stall
 
 *2024-09-13 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200993) · `si`
 
-නීතිවිරෝධීව මෙරටට රැගෙන ආ රන් කුඩු කිලෝකවකට වැඩි ප්‍රමාණයක් සමග පුද්ගලයෙකු ගුවන්තොටුපළ රේගු නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+A person has been arrested by the Airport Customs Officers with more than illegally brought to Sri Lanka.
 
-ඩුබායි සිට ඉන්දියාව හරහා මෙරටට පැමිණ ඇති සැකකරු සතුව තිබී රන් කුඩු කිලෝ 1යි ග්‍රෑම් 860ක් මෙලෙස රේගු නිලධාරීන් බාරයට ගෙන ඇත.
+Customs officers have taken 15 kg of gold or 860 grams of gold from Dubai to India.
 
 ◼️
 
 [Data](articles/8df48b34.json)
+
+[Extended Data](ext_articles/8df48b34.ext.json)
 
 ---
 
@@ -100,15 +140,25 @@ Police investigations are currently underway to identify and apprehend the suspe
 
 ---
 
-### இரண்டு சட்டமூலங்களை சான்றுரைப்படுத்தினார் சபாநாயகர்
+### The Speaker testified the two bills
 
 *2024-09-13 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193611) · `ta`
 
-கடந்த 03 ஆம் திகதி பாராளுமன்றத்தில் விவாதத்துக்கு எடுத்துக்கொள்ளப்பட்டு நிறைவேற்றப்பட்ட வெளிநாட்டுத் தீர்ப்புக்களைப் பரஸ்பரம் ஏற்றங்கீகரித்தல், பதிவுசெய்தல் மற்றும் வலுவுறுத்துதல் சட்டமூலம் மற்றும் குற்றவியல் நடவடிக்கைமுறைச் சட்டக்கோவை (திருத்தச்) சட்டமூலம் ஆகிய சட்டமூலங்களில் அரசியலமைப்பின் 79 உறுப்புரைக்கு அமைய சபாநாயகர் கௌரவ மஹிந்த யாப்பா அபேவர்தன இன்று வெள்ளிக்கிழமை (13) தனது கையொப்பத்தையிட்டு சான்றுரைப்படுத்தினார்.
+Speaker Mahinda Yapa Abeywardena presented two bills: one on mutual acceptance of foreign judgments and another amending the Criminal Investigation Act. Both aim to strengthen legal frameworks and international cooperation.
 
-...
+🟩
+
+Speaker Mahinda Mahinda Yapa Yapa Yapa Yapa Abeywaratne on Friday (13th), on Article 79 of the Constitution, on Friday (13th), in the Constitution, Mutual Acceptance, Registration and Reinforcing Bill and Criminal Action Bill (Amendment) Bill.
+
+Mutual acceptance, registration and strengthening Bill, Mutual Acceptance of Foreign Relations (93rd) Reinforcement Ordinance of the Reinforcement Ordinance of Foreign Judges (93rd) and its reinforcement of foreign judgments, and its arrangements for mutual acceptance, registration and strengthening of the courts of other countries.It is a bill to arrange. Accordingly, the bill will be known as mutual acceptance, registration and reinforcing the foreign judgments No. 49 of 2024.
+
+In addition, the Criminal Investigation Act (Amendment) Bill is a law to suspend the Criminal Action Act No. 15 of 1979. Accordingly, the Bill will be known as the Criminal Action Act No. 50 in 2024.
+
+◼️
 
 [Data](articles/a21dd5f6.json)
+
+[Extended Data](ext_articles/a21dd5f6.ext.json)
 
 ---
 
@@ -190,23 +240,37 @@ Tissa Attanayake says we stop the procession of the city again. But these are th
 
 ---
 
-### 'ஜேவிபியின் ஜனாதிபதி" - இந்தியா இதனை எவ்வாறு அணுகும்?
+### 'JVP's President' - How does India approach it?
 
 *2024-09-13 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193606) · `ta`
 
-மூன்று பிரதான வேட்பாளர்களில் அனுரகுமார திசநாயக்கவே அதிகளவு வெற்றிவாய்ப்பு கூடியவர் என தெரிவிக்கின்றனர்
+Here's a 200-character summary:
 
-'வங்குரோத்து நிலையை அடைந்து ஜனாதிபதியை நாட்டை விட்டு தப்பியோட செய்த குழப்பம்நிறைந்த மூன்று வருடங்களின் பின்னர். இலங்கை செப்டம்பர் 21 ம் திகதி தனது புதிய ஜனாதிபதியை தெரிவு செய்யும்.
 
-இலங்கையின் அடுத்த ஜனாதிபதி இலங்கையை பொருளாதார நெருக்கடியின் போது இலங்கையை வழிநடத்தி செல்லவேண்டியிருக்கும்.
 
-2023 இல் இலங்கைக்கு கிடைத்த நிதி உதவி தொடர்பில் சர்வதேச நாணயநிதியத்துடன் பேச்சுவார்த்தைகளை முன்னெடுக்கவேண்டியிருக்கும் .இன்னமும் தீர்க்கப்படாமலிருக்கும் யுத்தத்திற்கு பிந்தைய விவகாரங்களான நீதி மற்றும் பொறுப்புக்கூறல்தமிழ்தேசிய இனப்பிரச்சினைக்கு அரசியல் தீர்வை காணுதலில் ஈடுபடவேண்டியிருக்கும்.அவர் ( அனைத்து வேட்பாளர்களும் ஆண்கள்) இந்தியா சீனாவிற்கு இடையிலான பிராந்திய மோதலை கையாளவேண்டியிருக்கும்இந்து சமுத்திரத்தில் பெரும் அதிகார போட்டியை கையாளவேண்டியிருக்கும்.
+Sri Lanka's presidential election on Sept 21 features 3 key candidates: Ranil Wickremesinghe, Sajith Premadasa, and Anura Kumara Dissanayake. Wickremesinghe lacks party support, while Premadasa focuses on welfare and Tamil-Muslim outreach. Dissanayake represents "system change" but faces concerns about his political ideology. India closely watches the election due to economic ties and Tamil minority issues.
 
-சாதனை அளவான 38 வேட்பாளர்கள் தேர்தலில் போட்டியிடுகின்றனர் மூவர் மாத்திரமே முக்கியமானவர்களாக கருதப்படுகின்றனர்.
+🟩
+
+Anurakumara Dissanayake is one of the three main candidates who are the most successful
+
+'After three years of confusion that the president has reached the bankruptcy and fled the country. Sri Lanka will elect its new president on September 21.
+
+Sri Lanka's next president will have to lead Sri Lanka during the economic crisis.
+
+In 2023, there will be negotiations with the International Monetary Fund for the financial assistance received by Sri Lanka. He will have to engage in a political solution to the post -war war issues, such as justice and accountability.
+
+Only 38 candidates are contesting the election. Only three are considered important.
+
+The current President Ranil Wickremesinghe, who took over after the Gotabhaya Rajapaksa flee, managed the country for two years.
+
+Sajith Premadasa, son of President Ranasinghe Premadasa, who was killed by the Liberation Tigers of Tamil Eelam (LTTE) in 1993, has launched a campaign on the basis of a legitimate government that works for the welfare of all.
 
 ...
 
 [Data](articles/e9568151.json)
+
+[Extended Data](ext_articles/e9568151.ext.json)
 
 ---
 
@@ -2167,21 +2231,5 @@ Pan Asia Bank, ‘The Truly Sri Lankan Bank,’ has signed a Memorandum of Under
 [Data](articles/08780ee9.json)
 
 [Extended Data](ext_articles/08780ee9.ext.json)
-
----
-
-### ASUS expands its lineup with next-gen AI laptops for students
-
-*2024-09-13 03:34:00* · [`islandlk`](http://island.lk/asus-expands-its-lineup-with-next-gen-ai-laptops-for-students/) · `en`
-
-ASUS, the Taiwanese tech giant, today announced the expansion of its laptop portfolio with two new models across Consumer lineups. The AMD AI 300 Series-powered Vivobook S 14 M5406 and your next Copilot+ PC, Vivobook S 15 S5507, with the Qualcomm Snapdragon X Plus processor. Both new laptops redefine user experience by integrating cutting-edge AI capabilities & an innovative design. The products will be accessible at the ASUS Exclusive Stores & selected multi-brand stores across Sri Lanka. The Vivobook S 14 M5406 starts from LKR 539,990, and the Vivobook S 15 S5507 will starts from LKR 479,990.
-
-ASUS’s latest devices are powered by the latest AMD Ryzen™ AI 300 Series & Qualcomm’s Snapdragon X Plus processor.
-
-...
-
-[Data](articles/86ba1c52.json)
-
-[Extended Data](ext_articles/86ba1c52.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 19:22:29**
+As of **2024-09-13 19:37:46**
 
 ## Newspaper Stats
 
-*Scraped **43,752** Articles*
+*Scraped **43,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 425
 colombotelegraphcom | 429
-islandlk | 2,554
+islandlk | 2,557
 economynextcom | 2,675
 dailyftlk | 2,910
 adalk | 4,050
@@ -26,35 +26,41 @@ adaderanasinhalalk | 7,481
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,738 (100.0%) of 43,752 articles have been extended.
+43,750 (100.0%) of 43,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
 
-### වාහන ආනයනය ඔක්තෝබර් 1 සිට අදියර කිහිපයකින්
+### The import of vehicles from 1st October
 
 *2024-09-13 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200997) · `si`
 
-මෙම වසරේ ඔක්තෝබර් පළමුවැනිදා සිට අදියර කිහිපයක් යටතේ වාහන ආනයනය කිරීමට අනුමැතිය ලබාදීමට කැබිනට් මණ්ඩලය තීරණය කර තිබේ.
+Sri Lanka Cabinet approves vehicle imports in stages starting Oct 1. Public transport vehicles allowed first. Commercial and freight vehicles to resume Feb 1 after COVID-19 and economic crisis suspensions. Over 2,000 goods previously restricted now lifted.
 
-මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසුවේ අදියර කිහිපයක් යටතේ සිදුකෙරෙන වාහන ආනයනය ඔක්තෝබර් 01 වැනිදා සිට ආරම්භ කිරීමට නියමිත බවයි.
+🟩
 
-ඒ අනුව පොදු ප්‍රවාහන සේවා සඳහා භාවිත කරන වාහන පළමුවෙන් ආනයනය කිරීමට අවසර ලැබෙයි.
+The Cabinet has decided to grant approval to import vehicles in several stages this year.
 
-වානිජ සහ භාණ්ඩ ප්‍රවාහන වාහන ආනයනය කිරීමට තීරණය කර ඇත්තේ මෙම වසරේ දෙසැම්බර් පළමුවැනිදා සිට ය.
+Finance Minister of State Shehan Semasinghe said that the import of vehicles will be started from 1st October.
 
-ඊට අමතරව මෝටර් රථ එළඹෙන වසරේ පෙබරවාරි පළමුවැනිදා සිට ආනයනය කිරීමට නියමිතව ඇති බව සඳහන් ය.
+Accordingly, vehicles used for public transport are permitted to import.
 
-කොරෝනා වෛරසයේ බලපෑම් හේතුවෙන් ආර්ථිකයේ ඇතිවූ අර්බුද හේතුවෙන් 2021 වසරේ දී වාහන ආනයනය අත්හිටුවීමට ශ්‍රී ලංකා රජය තීරණය කළේය.
+The number of commercial and freight vehicles have been decided to import goods from the first on the first month of this year.
 
-අනතුරුව ඇතිවූ දැඩි ආර්ථික අර්බුදය හේතුවෙන් එම තහනම/සීමා තවදුරටත් පවත්වාගෙන යෑමට මෙරට බලධාරීන් තීරණය කළේය
+In addition, the cars are to be imported from 1st 1st of February.
 
-එසේම භාන්ඩ වර්ග 2,000කට වැඩි ප්‍රමාණයක ආනයන නවතා දමා තිබූ අතර වරින් වර එම සීමාවන් ඉවත් කරනු ලැබීය.
+The Government of Sri Lanka decided to suspend imports in 2021 due to the influence of the Korona virus.
+
+The authorities of the country decided to continue the ban / restrictions due to the heavy economic crisis
+
+Imports have been stopped in more than 2,000 types of goods, and those limitations were removed from time to time.
 
 ◼️
 
 [Data](articles/695dbe05.json)
+
+[Extended Data](ext_articles/695dbe05.ext.json)
 
 ---
 
@@ -74,17 +80,25 @@ It said the complaints includes non-payment for such premises and reservation fo
 
 [Data](articles/85dd7686.json)
 
+[Extended Data](ext_articles/85dd7686.ext.json)
+
 ---
 
-### කෞෂල්‍ය නවරත්න ඉල්ලා අස්වෙයි
+### Kaalhaly Navaratne resigns
 
 *2024-09-13 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200996) · `si`
 
-ශ්‍රී ලංකා නීතිඥ සංගමයේ සභාපති ජනාධිපති නීතිඥ කෞෂල්‍ය නවරත්න මහතා වහාම ක්‍රියාත්මක වන පරිදි එම තනතුරෙන් ඉල්ලා අස්වී තිබේ.
+Kaalhaly Navaratne resigns as Chairman of Bar Association of Sri Lanka. Immediate resignation announced.
+
+🟩
+
+Chairman of the Bar Association of Sri Lanka President's Counsel Kaushaly Nawaratne has resigned immediately with immediate effect.
 
 ◼️
 
 [Data](articles/5ba4761c.json)
+
+[Extended Data](ext_articles/5ba4761c.ext.json)
 
 ---
 
@@ -105,6 +119,8 @@ President’s Counsel Kaushalya Nawaratne had secured another term as the Presid
 ◼️
 
 [Data](articles/08cdf1cc.json)
+
+[Extended Data](ext_articles/08cdf1cc.ext.json)
 
 ---
 
@@ -192,6 +208,8 @@ Construction sector returned with 15.5 percent growth with manufacturing growing
 
 [Data](articles/49577836.json)
 
+[Extended Data](ext_articles/49577836.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes weaker at 302.25/80, bond yields up
@@ -205,6 +223,8 @@ A bond maturing on 15.06.2029 closed at 13.70/80 percent. (Colombo/Sep13/2024)
 ◼️
 
 [Data](articles/055ba444.json)
+
+[Extended Data](ext_articles/055ba444.ext.json)
 
 ---
 
@@ -273,6 +293,8 @@ Sabry tweeted the following breakdown of the proposed tax structure:
 ◼️
 
 [Data](articles/d08bc2eb.json)
+
+[Extended Data](ext_articles/d08bc2eb.ext.json)
 
 ---
 
@@ -375,6 +397,8 @@ Foreign buying was seen in Richard Pieris and Co, Commercial Bank (up at 82.40),
 ...
 
 [Data](articles/b44473d1.json)
+
+[Extended Data](ext_articles/b44473d1.ext.json)
 
 ---
 
@@ -701,6 +725,8 @@ CT CLSA Capital (Pvt) Ltd and Capital Alliance Partners Limited are advisors. (C
 ◼️
 
 [Data](articles/f98bc72f.json)
+
+[Extended Data](ext_articles/f98bc72f.ext.json)
 
 ---
 
@@ -1114,6 +1140,8 @@ Sri Lanka introduced import restrictions on many goods, and banned vehicle impor
 
 [Data](articles/2d27fe62.json)
 
+[Extended Data](ext_articles/2d27fe62.ext.json)
+
 ---
 
 ### Sri Lanka cabinet nod for separate energy regulator, cadre revisal, new salary structure
@@ -1131,6 +1159,8 @@ The proposed new salary structure and the performance based allowances and incen
 ...
 
 [Data](articles/ea1d3d1e.json)
+
+[Extended Data](ext_articles/ea1d3d1e.ext.json)
 
 ---
 
@@ -1471,6 +1501,8 @@ According to the survey, throughout 2024, the top priorities for Sri Lankans for
 ...
 
 [Data](articles/c491ca1e.json)
+
+[Extended Data](ext_articles/c491ca1e.ext.json)
 
 ---
 

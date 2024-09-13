@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 11:57:51**
+As of **2024-09-13 12:12:10**
 
 ## Newspaper Stats
 
-*Scraped **43,678** Articles*
+*Scraped **43,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,662
 dailyftlk | 2,910
 adalk | 4,044
 dailymirrorlk | 4,733
-adaderanalk | 5,127
+adaderanalk | 5,128
 tamilmirrorlk | 5,684
 virakesarilk | 6,913
 adaderanasinhalalk | 7,460
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,460
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,621 (99.9%) of 43,678 articles have been extended.
+43,626 (99.9%) of 43,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Smartphone found in prison cell of ‘Wele Suda’
+
+*2024-09-13 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101939/smartphone-found-in-prison-cell-of-wele-suda) · `en`
+
+A smartphone has been discovered inside the cell of notorious drug trafficker Gampola Vidanage Samantha Kumara, alias “Wele Suda,” during an sudden search operation carried out at the Boossa High-Security Prison.
+
+The search was conducted by Police Special Task Force (STF) personnel yesterday (12).
+
+The phone was found in cell number 38 of section A, where “Wele Suda” is currently being detained.
+
+The mobile device, which is a SIM-free smartphone, has been handed over to the prison authorities for further investigation.
+
+◼️
+
+[Data](articles/9a8d9d0c.json)
+
+[Extended Data](ext_articles/9a8d9d0c.ext.json)
+
+---
 
 ### Three killed in three wheeler
 
@@ -2221,27 +2241,5 @@ Political parties have promised tax cuts and extra spending, while a domestic bo
 [Data](articles/f9d43cdc.json)
 
 [Extended Data](ext_articles/f9d43cdc.ext.json)
-
----
-
-### Sri Lanka stocks close down, banks drive turnover
-
-*2024-09-12 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-banks-drive-turnover-179444/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.07 percent, or 7.56 points, at 10,567; while the more liquid S&P SL20 Index closed up 0.06 percent, or 1.78 points, at 2,925.
-
-Top turnover generators were Commercial Bank (down at 79.80), Hatton National Bank (down at 155.00), John Keells Holdings (down at 160.00), Dialog Axiata (up at x), and Sampath Bank.
-
-Foreign buying was seen in Softlogic Holdings (up at 7.20), East West Properties (down at 9.00), HNB, Sampath Bank (down at 68.00), Access Engineering (up at 20.50), and Commercial Bank.
-
-Foreign selling was seen in Dialog Axiata (down at 8.50), Bairaha Farms (down at 151.75), Tokyo Cement (Flat at 43.00), JKH, Cargills (Ceylon) (down at 370.25), and Royal Ceramics (down at 29.30). (Colombo/Sep12/2024)
-
-◼️
-
-[Data](articles/f804db73.json)
-
-[Extended Data](ext_articles/f804db73.ext.json)
 
 ---

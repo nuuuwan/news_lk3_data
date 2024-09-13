@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 17:07:34**
+As of **2024-09-13 17:22:11**
 
 ## Newspaper Stats
 
-*Scraped **43,718** Articles*
+*Scraped **43,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,662
 dailyftlk | 2,910
 adalk | 4,049
 dailymirrorlk | 4,733
-adaderanalk | 5,135
-tamilmirrorlk | 5,686
+adaderanalk | 5,137
+tamilmirrorlk | 5,687
 virakesarilk | 6,921
 adaderanasinhalalk | 7,476
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 7,476
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,718 (100.0%) of 43,718 articles have been extended.
+43,721 (100.0%) of 43,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Bus carrying NPP supporters attacked in Monaragala
+
+*2024-09-13 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101948/bus-carrying-npp-supporters-attacked-in-monaragala) · `en`
+
+A bus returning from an election rally of the National People’s Power (NPP) held in Monaragala this morning (13) has reportedly been attacked by a group of unidentified individuals.
+
+The attack had targeted a group of supporters who were returning from a public meeting held at the Monaragala Pradeshiya Sabha stadium, with the participation of the NPP presidential candidate, Anura Kumara Dissanayake.
+
+Four persons who were injured in the attack have been admitted to the Buttala Divisional Hospital for treatment.
+
+Police investigations are currently underway to identify and apprehend the suspects involved in the attack.
+
+◼️
+
+[Data](articles/463bc26c.json)
+
+[Extended Data](ext_articles/463bc26c.ext.json)
+
+---
+
+### Oath
+
+*2024-09-13 16:57:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீதா-அரம்பேபொல-பதவிப்-பிரமாணம்/175-343718) · `ta`
+
+Dr. Sita Arambola sworn in as Minister of State for Women and Child Affairs and Health Minister before President Ranil Wickremesinghe.
+
+🟩
+
+Special Dr. Sita Arambola, who was appointed as the Minister of State for Women and Child Affairs, was sworn in in the presence of President Ranil Wickremesinghe at the Presidential Office this morning.
+
+Sita Arambola has been appointed Minister of State for Women and Child Affairs in addition to the post of Health Minister.
+
+◼️
+
+[Data](articles/282dd955.json)
+
+[Extended Data](ext_articles/282dd955.ext.json)
+
+---
 
 ### Dilith is new for entrepreneur women
 
@@ -87,6 +127,32 @@ Tissa Attanayake says we stop the procession of the city again. But these are th
 [Data](articles/07ecd533.json)
 
 [Extended Data](ext_articles/07ecd533.ext.json)
+
+---
+
+### Cabinet decision on reducing PAYE tax
+
+*2024-09-13 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101947/cabinet-decision-on-reducing-paye-tax) · `en`
+
+The proposal to reduce the pay-as-you-earn (PAYE) tax will be included in the next budget proposals, says Cabinet Spokesman Minister Bandula Gunawardena.
+
+He stated that the government had submitted the relevant proposal to the International Monetary Fund (IMF) and obtained its approval.
+
+According to the proposal, the PAYE tax currently collected from each income structure will be reduced as follows:
+
+The PAYE tax of Rs. 3,000 imposed on an individual with a monthly income of Rs. 150,000 will be reduced by Rs. 500 to Rs. 2,500.
+
+The Rs. 7,000 tax imposed on an individual with a monthly income of Rs. 300,000 will be reduced to Rs. 3,500.
+
+Meanwhile, an individual earning a monthly income of Rs. 450,000 is currently required to pay a tax of Rs. 76,000 while this will be reduced by Rs. 12,500 to Rs. 63,500.
+
+The monthly tax of Rs. 120,000 imposed on an individual earning a monthly income of Rs. 600,000 will also be slashed by Rs. 12,500 to Rs. 107,500.
+
+...
+
+[Data](articles/af697c08.json)
+
+[Extended Data](ext_articles/af697c08.ext.json)
 
 ---
 
@@ -373,6 +439,12 @@ Sri Lanka’s Cabinet of Ministers has decided to lift all vehicle import restri
 “With the significant improvement in forex reserves and the strength of the rupee, the Cabinet of Ministers has decided to lift all vehicle import ban/restrictions by February 2025,” he said.
 
 “This decision is part of our ongoing efforts to restore normalcy in the economy and meet the needs of our people,” the minister said in a post on ‘X’ (formerly Twitter).
+
+The government of Sri Lanka had decided to suspend vehicle imports in 2021 due to the economic crisis triggered by the Covid-19 pandemic.
+
+As the severe economic crisis continued to persist, authorities decided to further continue with the restrictions on vehicle imports.
+
+Meanwhile, in June, the Ministry of Finance had announced a plan to gradually lift the restrictions by 2025.
 
 ◼️
 
@@ -2167,75 +2239,5 @@ The ‘aragalaya’ was primarily against a popularly elected President, who was
 [Data](articles/7fc1b909.json)
 
 [Extended Data](ext_articles/7fc1b909.ext.json)
-
----
-
-### Dilith on the only strategic plan representing views of all social classes
-
-*2024-09-12 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101927/dilith-on-the-only-strategic-plan-representing-views-of-all-social-classes) · `en`
-
-The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera stated that he is the only candidate who has presented a strategic plan representing the views of all social stratums, ahead of the presidential election.
-
-He made these remarks while addressing a public rally held in Nittambuwa, under the ‘Dilith Gamata’ series of constituency meetings.
-
-“Green, yellow, green, and purple…. only the covers are different. The work is the same. Instead, we have brought a strategic plan. It is a practical program,” he said.
-
-“After meeting and discussing with farmers, fishermen, laborers, and government servants, we have published a strategic plan that represents the ideas of every person in this country,” Jayaweera added.
-
-◼️
-
-[Data](articles/2623b8d1.json)
-
-[Extended Data](ext_articles/2623b8d1.ext.json)
-
----
-
-### Sri Lanka is at risk if the restructuring of credit
-
-*2024-09-12 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200959) · `si`
-
-Sri Lanka faces financial risks due to political uncertainty ahead of elections. Investors fear leadership instability post-election. Opposition may restore IMF conditions, complicating government's bond restructuring efforts. Analyst warns election outcome impacts debt market stability.
-
-🟩
-
-As the presidential election is near, the Bloomberg website reveals that it is outstanding the bonds of political uncertainty of political uncertainty.
-
-It is said that after the presidential election, investors have frightened that the leadership of Sri Lanka is afraid of failure in the final stage.
-
-According to the website, this situation has caused this situation is the intensive political uncertainty in the country.
-
-They also point out that if the opposition candidates come to power, they have already stated that they have to restore the conditions of the international Monetary Fund.
-
-The Government of Sri Lanka requires further change the conditions of the consensus with the bonds, but the Bloomberg website says it is difficult to do it before the presidential election.
-
-The strategic analyst of England, which was commented, was also warned that the uncertainty of the results of Sri Lanka bonds and reflects the impact of the results of the recreation of the debt.
-
-◼️
-
-[Data](articles/30f06ad7.json)
-
-[Extended Data](ext_articles/30f06ad7.ext.json)
-
----
-
-### Sagith handed over to Premadasa's son - Sajith
-
-*2024-09-12 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200958) · `si`
-
-Sajith Premadasa hands power to his son Sajith. He promises a "golden age" for Sri Lanka's tea industry. Speaking at a rally, he vows to lead the country towards development without fear.
-
-🟩
-
-Says the presidential candidate Sajith Premadasa, the president of the Jonishabra Age of the tea industry under its control, says the golden age of the tea industry will produce the golden age.
-
-He was speaking at the Baddegama President who was organized for the victory of the presidential candidate Sajith Premadasa, the presidential election.
-
-"The future of this country is for this tim to this tim without fear. Provide temporary stewardship of the country. We will bring a developed age. "
-
-◼️
-
-[Data](articles/4873ad5a.json)
-
-[Extended Data](ext_articles/4873ad5a.ext.json)
 
 ---

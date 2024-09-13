@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 00:11:32**
+As of **2024-09-14 00:23:06**
 
 ## Newspaper Stats
 
-*Scraped **43,780** Articles*
+*Scraped **43,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,74 @@ adalk | 4,052
 dailymirrorlk | 4,733
 adaderanalk | 5,143
 tamilmirrorlk | 5,690
-virakesarilk | 6,939
+virakesarilk | 6,941
 adaderanasinhalalk | 7,488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,780 (100.0%) of 43,780 articles have been extended.
+43,782 (100.0%) of 43,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### South Asian Junior Athletics Championship 2024Sri Lanka is second in the overall position
+
+*2024-09-13 23:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/193633) · `ta`
+
+Sri Lanka secures 2nd place in South Asian Junior Athletics Championship 2024, winning 16 medals including 5 golds. India leads with 48 medals, Bangladesh third with 3 bronze medals.
+
+🟩
+
+Sri Lanka won 16 medals, including 5 gold medals, on Friday (13), the last day of the fourth South Asian Junior Athletics Championships, which ended at the Jawaharlal Nehru Stadium in Tamil Nadu.
+
+Hindu Vidushan, who completed the men's 200m race in 21.33 seconds, won the gold medal with a new competition record.
+
+Lesant Meaning the gold medal with a new competition record, jumping 2.17 meters high in the men's height flow competition.
+
+In the men's 4 x 100m series, the Sri Lankan team won the gold medal by setting a new match.
+
+The Sri Lankan team won the gold medal in the men's 4 x 400m series in 3 minutes 09.27 seconds.
+
+Meanwhile, Dissanayake won the gold medal for Sri Lanka in men's thirties. He recorded a distance of 15.09 meters in the thirty -three.
+
+1500 meters for men: Brushan Buddha (4 minutes, 03.79 check.) - Bronze.
+
+4 x 100 meters of women for women: Sri Lanka (46.48 CE) Silver
+
+4 x 400 meters of women for women: Sri Lanka (3. 49.99 CE) - Friday
+
+...
+
+[Data](articles/50e01063.json)
+
+[Extended Data](ext_articles/50e01063.ext.json)
+
+---
+
+### Two export processing zones of the North today
+
+*2024-09-13 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/193632) · `ta`
+
+Two export zones opened in Northern Province: Jaffna-Kankesanthurai and Kilinochchi-Paranthan. Governor Charles, Minister Amunugama attended naming ceremony. Steps discussed for development.
+
+🟩
+
+Two Zones were officially named on Friday (13) of the three export processing zones planned to be established in the Northern Province. Export processing zones of Jaffna Kankesanthurai and Kilinochchi Paranthan were named.
+
+Governor of the Northern Province. S.. M.. Charles, Minister of Investment Promotion Til Amunugama and Investment Representatives were present.
+
+Discussions were discussed on the steps to be taken in both export processing zones.
+
+◼️
+
+[Data](articles/856c160d.json)
+
+[Extended Data](ext_articles/856c160d.ext.json)
+
+---
 
 ### Seanu Ramasamy's 'Poultry Selvan' Vijay Sethupathi released the Oudio of the movie 'Poultry Farm Chellaturai'
 
@@ -2327,59 +2383,5 @@ In equities, Colombo’s All Share Price Index opened 0.16 percent, or 16.56 poi
 [Data](articles/42282d9c.json)
 
 [Extended Data](ext_articles/42282d9c.ext.json)
-
----
-
-### Elephant death in a pit in Mahiyanganaya
-
-*2024-09-13 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/193548) · `ta`
-
-Elephant named Madhu dies in pit during transport for festival. Local authorities and wildlife officials attempted rescue but failed. Autopsy conducted. Investigation ongoing.
-
-🟩
-
-Hasalaka police said that an elephant called 'Madhu' belonging to the Badulu Muthiyangana Rajamaha Vihara, who was brought to the Esala Perahara of the Mahiyanganaya Rajamaha Vihara, died in an old rectal pit.
-
-The incident took place in Hasalaka and Sevela Pokuwa area when the elephants were carrying elephants in a lorry to feed the elephants who attended Esha Perahara.
-
-Local residents, police, wildlife protection department officials and many others have made great efforts to recover the 'Madhu' that fell into the rectal cavity, but the elephant was killed at around seven o'clock at night.
-
-In addition, police said that the autopsy of the elephant, which was killed by the Department of Wildlife Protection Department, is being carried out.
-
-In this regard, investigations are underway on the directive of the Halakka Police Station Chief Inspector Dissanayake.
-
-◼️
-
-[Data](articles/c4ac12ea.json)
-
-[Extended Data](ext_articles/c4ac12ea.ext.json)
-
----
-
-### The crime of her husband who had her wife to carry the schools
-
-*2024-09-13 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200973) · `si`
-
-Husband assaults wife at school gate. Victim, 42-year-old Dezarandara, attacked while taking children to class. Incident occurs near Atapattinakanda Junction, Matara. Police investigating suspected family dispute. Murderer remains at large.
-
-🟩
-
-The husband was assaulted by her husband who was carrying his child in the morning school.
-
-The incident has occurred near Atapattinakanda Junction, Matara this morning.
-
-The victim was 42 year old, Dezarandara, a resident of Palamarulla.
-
-The murder had been assaulted in the grade of the school on the 11th morning and had been assaulted by the murder in hiding in her husband while he was taken to school this morning.
-
-The police suspect that she had been in his mother's house due to a resent between the victims and her husband.
-
-The murder was a fishing businessman in Hatugala and has not been arrested.
-
-◼️
-
-[Data](articles/269b9029.json)
-
-[Extended Data](ext_articles/269b9029.ext.json)
 
 ---

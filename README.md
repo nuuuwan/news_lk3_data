@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 19:37:46**
+As of **2024-09-13 19:56:29**
 
 ## Newspaper Stats
 
-*Scraped **43,755** Articles*
+*Scraped **43,756** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
-bbccomsinhala | 425
+bbccomsinhala | 426
 colombotelegraphcom | 429
 islandlk | 2,557
 economynextcom | 2,675
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,481
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,750 (100.0%) of 43,755 articles have been extended.
+43,756 (100.0%) of 43,756 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1340,6 +1340,40 @@ The Commissioner General of Examinations Amith Jayasundara has announced that th
 
 ---
 
+### Who is the gen zone who is the attention of presidential candidates?What is the Generation you belong to?
+
+*2024-09-13 12:19:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg4y49r2222o) · `si`
+
+Here's a 200-character summary:
+
+
+
+Gen Z is the focus of presidential candidates due to its growing influence. Characteristics include tech-savviness, diversity, and social activism. Born 1997-2012, Gen Z is shaping politics and culture.
+
+🟩
+
+Who is the gen zone who is the attention of presidential candidates?What is the Generation you belong to?
+
+With the warmth of the political sector, politicians who have come to the presidential election this year have been seen in recent years.
+
+President Ranil Wickremesinghe said in a meeting with the youth at Galle Funeral Hotel in GalleThe younger youths in the country will be able to take the opportunity to take.
+
+This is what a young man and the president had come to the above discussion.
+
+Young: a lot of Sarius asked questions. But I'm going to ask a chilled out question. In fact, I have two questions. Is my first question? '
+
+Young man: "Reasoning to the Present Friendship:" You want to drink beer, wine, wine, wine, wine, wine, wine, wine, wine, wine, wine, wine, wine, wine, you like to drink. ".
+
+Young man: Power.. Super ... Super.. No Wonder Been President for the The Last Two Years. Work on the stower.
+
+...
+
+[Data](articles/e6ff95b3.json)
+
+[Extended Data](ext_articles/e6ff95b3.ext.json)
+
+---
+
 ### Supreme Court summons immigration chief over e-Visa issue
 
 *2024-09-13 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101940/supreme-court-summons-immigration-chief-over-e-visa-issue) · `en`
@@ -1522,6 +1556,8 @@ The basis of allotment will be notified in due course, it said. (Colombo/Sep13/2
 
 [Data](articles/ab674963.json)
 
+[Extended Data](ext_articles/ab674963.ext.json)
+
 ---
 
 ### Sri Lanka’s LTL Holding IPO put on hold by stock exchange
@@ -1539,6 +1575,8 @@ The CSE has instructed the LTL not to proceed with the opening of the IPO on Fri
 ◼️
 
 [Data](articles/80f42e06.json)
+
+[Extended Data](ext_articles/80f42e06.ext.json)
 
 ---
 
@@ -2327,25 +2365,5 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/1a973755.json)
 
 [Extended Data](ext_articles/1a973755.ext.json)
-
----
-
-### Youth killed in motorcycle accident
-
-*2024-09-13 05:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோட்டார்-சைக்கிள்-விபத்தில்-இளைஞர்-பலி/175-343710) · `ta`
-
-28-year-old Ajit Kumar from Eravur dies in motorcycle crash on Punnakuda Road. Body at Eravur Resource Hospital.
-
-🟩
-
-Eravur police said that 28 -year -old Ajit Kumar, a resident of Eravur, Dalawai, died in an accident on Punnakuda Road, Eravur.
-
-The body is currently being kept at the Eravur Resource Hospital.. (A)
-
-◼️
-
-[Data](articles/ec6ef17c.json)
-
-[Extended Data](ext_articles/ec6ef17c.ext.json)
 
 ---

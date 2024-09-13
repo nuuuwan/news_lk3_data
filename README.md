@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 20:57:13**
+As of **2024-09-13 21:09:18**
 
 ## Newspaper Stats
 
-*Scraped **43,759** Articles*
+*Scraped **43,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,140
 tamilmirrorlk | 5,688
 virakesarilk | 6,930
-adaderanasinhalalk | 7,483
+adaderanasinhalalk | 7,484
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,759 (100.0%) of 43,759 articles have been extended.
+43,759 (100.0%) of 43,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### දකුණු ආසියානු කනිෂ්ඨ මලල ක්‍රීඩා තරගයෙන් ලංකාවට රන් සහ රිදී පදක්කම්
+
+*2024-09-13 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201000) · `si`
+
+දකුණු ආසියානු කනිෂ්ඨ මලල ක්‍රීඩා ශූරතා තරගාවලියෙන් ශ්‍රී ලංකාව රන් පදක්කම් 03 සහ රිදි පදක්කම් 01 දිනා ගැනීමට සමත්ව තිබේ.
+
+එම තරගයේ පිරිමි මීටර 100  හතර සහාය දිවීමේ ඉසව්වෙන් රන් පදක්කම දිනා ගැනීමට මෙරෝන් විජේසිංහ ප්‍රමුඛ ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+
+එමෙන්ම පිරිමි මීටර 400x4 සහාය දිවීමේ ඉසව්වේ අවසන් තරගයද ඊයේ පැවැත්වුණු අතර එයින්ද රන් පදක්කමක් දිනා ගැනීමට ශ්‍රී ලංකාව සමත් විය.
+
+එම තරගයේ පළමු මීටර 400 අවසානයේ ශ්‍රී ලංකාව පෙරමුණේ පසු වූ අතර දෙවන හා තෙවන මිටර 400යේ දී ශ්‍රී ලංකාව සහ ඉන්දියාව අතර කරට කර සටනක් පැවැතුණි.
+
+අවසන් මීටර 400 දී යශ්ටිය භාරගත් ශ්‍රී ලංකා ක්‍රීඩකයා ඉන්දීය ක්‍රීඩකයා අභිබවමින් සුපිරි ධාවනය යෙදෙමින් ශ්‍රී ලංකාවට රන් පදක්කම දිනා දීමට සමත් විය.
+
+මෙහිදී ශ්‍රී ලංකාවේ තරග නිම කාලය දැක්වුණේ විනාඩි 3යි තත්පර 9.27ක් ලෙසයි.
+
+මේ අතර මෙම තරගාවලියේ තුන් පිම්ම ඉසව්වෙන් ද රන් සහ රිදී පදක්කම් දිනා ගැනීමට ශ්‍රී ලංකාව සමත් විය.
+
+එම තරගයේදී හසිත දිසානායක රන් පදක්කමක් දිනා ගත් අතර එහි රිදී පදක්කම සෙනුර හසන්ක දිනා ගනු ලැබීය.
+
+◼️
+
+[Data](articles/a60c1280.json)
+
+---
 
 ### Star who went to the camp
 
@@ -2345,25 +2371,5 @@ Many women have responded to the launch of a perfumes called 'Divorce'.
 [Data](articles/b52c396c.json)
 
 [Extended Data](ext_articles/b52c396c.ext.json)
-
----
-
-### Sri Lanka program giving results, IMF assesses debt sustainability: Spokesperson
-
-*2024-09-13 07:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-program-giving-results-imf-assesses-debt-sustainability-spokesperson-179507/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s program is giving results and the next review and program discussions will take place after a new government is formed after elections, an International Monetary Fund spokesperson said.
-
-Economic growth is starting to revive, inflation is coming down, revenue mobilization is improving, and international reserves are increasing, spokesperson Julie Kozack said.
-
-“From the IMF’s position, what we see is a program that has made significant achievements, but that it is important to safeguard these achievements to enable the country to fully emerge from one of its worst crises,” she told reporters in Washington.
-
-“And as mentioned in a Press Release during the timing of the Third Review, the timing of the Third Review will be discussed with the government following the elections.
-
-...
-
-[Data](articles/7edb957a.json)
-
-[Extended Data](ext_articles/7edb957a.ext.json)
 
 ---

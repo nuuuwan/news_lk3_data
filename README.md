@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 11:09:15**
+As of **2024-09-13 11:22:16**
 
 ## Newspaper Stats
 
-*Scraped **43,672** Articles*
+*Scraped **43,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,660
 dailyftlk | 2,910
 adalk | 4,044
 dailymirrorlk | 4,733
-adaderanalk | 5,125
+adaderanalk | 5,126
 tamilmirrorlk | 5,684
 virakesarilk | 6,913
 adaderanasinhalalk | 7,458
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,458
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,601 (99.8%) of 43,672 articles have been extended.
+43,607 (99.8%) of 43,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### ‘How can we trust leaders who refuse to admit past mistakes?’ - President Ranil
+
+*2024-09-13 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101937/how-can-we-trust-leaders-who-refuse-to-admit-past-mistakes-president-ranil) · `en`
+
+President Ranil Wickremesinghe stated that all political parties, except his own, are responsible for the current state of the country.
+
+He accused the JVP of deceiving the public by pretending to distance themselves from past armed rebellions, asserting that this is a misleading tactic.
+
+The President criticized the JVP for repeating the mistake of making unrealistic promises and questioned whether it is wise to entrust the country’s future to a group unwilling to acknowledge their past errors.
+
+These remarks were made by President Wickremesinghe during the “Puluwan Peraliya” program held yesterday (12) at The Stables in Park Street Mews, Colombo.
+
+Emphasizing the importance of the upcoming election, Wickremesinghe warned that the 2024 presidential election represents the last opportunity for national rebuilding.
+
+He cautioned that further economic struggles could make recovery nearly impossible, underscoring the critical nature of this election in shaping the future of the nation.
+
+...
+
+[Data](articles/73a57ebd.json)
+
+[Extended Data](ext_articles/73a57ebd.ext.json)
+
+---
 
 ### The crime of her husband who had her wife to carry the schools
 
@@ -2231,39 +2255,5 @@ Accordingly, all students are advised to leave the university campus at 6.00 pm 
 [Data](articles/9ffc232f.json)
 
 [Extended Data](ext_articles/9ffc232f.ext.json)
-
----
-
-### Sasikumar's 'Nandan' song that has made the expectation
-
-*2024-09-12 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193510) · `ta`
-
-Sasikumar's 'Nandan' song "Ekki Ekki Bakuran" creates high expectations. Starring Ayodhya and Garuda, it features directors Suruthi Periyasamy and Madhesh, actors Balaji Sakthivel and Samudrakani. Composed by R.B. Saran, produced by Saravanan under Ira Entertainment. Songwriter Ravi and playback singer Namitha Babu collaborate. Attracts young fans with its blend of love and melody.
-
-🟩
-
-Sasikumar starrer 'Ayodhya' and 'Garuda' have been heavily celebrated by fans.
-
-Following this, Sasi Kumar's starring film 'Nandan' is a big hit.
-
-The film 'Ekki Ekki Bakuran ..' has been released in the film, which has a huge expectation among fans and the filmmakers.
-
-In the director. Sasikumar, Suruthi Periyasamy, Madhesh, director and actor Balaji Sakthivel, Samudrakani, G.. M.. Kumar, Siddhan Mohan, Shakti Saravanan, Stalin and many others have been cast.
-
-R. B.. The film, which has been recorded by Saran, has composed the film for the film.
-
-The film was made on behalf of the company called Ira Entertainment. Produced by Saravanan.
-
-The soon -to -be -released film 'Ekki Eki Eki Eki Pakhunerne Cat Po like ...' has been released.
-
-The song is written by songwriter Ravi and sung by playback singer Namitha Babu.
-
-The song, which is a mix of a woman's love with melody and dignity lines, has also attracted the younger generation fans.
-
-◼️
-
-[Data](articles/b3c406a0.json)
-
-[Extended Data](ext_articles/b3c406a0.ext.json)
 
 ---

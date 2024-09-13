@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 11:38:32**
+As of **2024-09-13 11:57:51**
 
 ## Newspaper Stats
 
-*Scraped **43,674** Articles*
+*Scraped **43,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,44 +13,86 @@ dbsjeyarajcom | 375
 bbccomsinhala | 424
 colombotelegraphcom | 429
 islandlk | 2,554
-economynextcom | 2,660
+economynextcom | 2,662
 dailyftlk | 2,910
 adalk | 4,044
 dailymirrorlk | 4,733
-adaderanalk | 5,126
+adaderanalk | 5,127
 tamilmirrorlk | 5,684
 virakesarilk | 6,913
-adaderanasinhalalk | 7,459
+adaderanasinhalalk | 7,460
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,614 (99.9%) of 43,674 articles have been extended.
+43,621 (99.9%) of 43,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
 
-### මත්පෙති දී දේපොළ සොරාගත් යුවළක් අත්අඩංගුවට
+### Three killed in three wheeler
+
+*2024-09-13 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200975) · `si`
+
+"Two killed in three-wheeler crash at Railway crossing on Rathgama Wijeratne Mawatha."
+
+🟩
+
+Two persons were killed in a terrible accident that collided with a three-wheeler.
+
+The accident occurred at the Railway Railway crossing on the Rathgama Wijeratne Mawatha.
+
+◼️
+
+[Data](articles/9eb66e49.json)
+
+[Extended Data](ext_articles/9eb66e49.ext.json)
+
+---
+
+### Two dead as train collides with three-wheeler at Ratgama
+
+*2024-09-13 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101938/two-dead-as-train-collides-with-three-wheeler-at-ratgama) · `en`
+
+Two individuals have reportedly died following a collision involving a train and a three-wheeler at the Wijeratne Mawatha railway crossing in Ratgama.
+
+◼️
+
+[Data](articles/9d9c76ec.json)
+
+[Extended Data](ext_articles/9d9c76ec.ext.json)
+
+---
+
+### Couple arrested for stolen property in ache
 
 *2024-09-13 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200974) · `si`
 
-මහමග ගමන් ගන්නා පුද්ගලයන් හා මිතුරු වී ඔවුන්ට මත්පෙති මිශ්‍ර ආහාර ලබාදී ඔවුන් සතු දේපොළ කොල්ලකන යුවළක් බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් ඊයේ (12) අත්අඩංගුවට ගෙන තිබේ.
+Couple arrested for theft in Ache. Police seized stolen goods, including vehicles and phones. Main suspect from Kandy, accomplice from Ahangama. Robbery occurred in Rajagiriya, linked to crimes in other areas.
 
-මෙම යුවළ විනිස් පුද්ගලයන් සිහිමූර්ඡා කර මේ වනවිට රුපියල් ලක්ෂ 25කට අධික වටිනාකමකින් යුත් දේපොළ කොල්ලකා ඇති බව විමර්ශ සිදුකරන පොලීසිය පවසයි.
+🟩
 
-අත්අඩංගුවට ගෙන ඇත්තේ විවාහක කාන්තාවක් සහ ඇයගේ අනියම් පුරුෂයා වන අතර ඔවුන් සන්තකයේ තිබී හදුනා නොගත් මත්පෙති 15ක්, මංකොල්ලකෑම් සඳහා යොදා ගත් ත්‍රිරෝද රථයක්, රන් භාණ්ඩ තොගයක් හා ජංගම දුරකථන 04ක් පොලිස් භාරයට ගෙන ඇත.
+The Western Province, the South Criminal Division of the Western Province, has been arrested yesterday (12).
 
-අත්අඩංගුවට ගත් ප්‍රධාන සැකකරු නුවර ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු වන අතර රජයේ ආයතනයක ලිපිකරුවකු බවත්  කාන්තාව අහංගම ප්‍රදේශයේ පදිංචිකාරියක බවත් හෙළිවී තිබේ.
+According to police, the couple has come to american to Vinis and labor the property worth over Rs.
 
-මොවුන් අනියම් ඇසුරක් පවත්වාගෙන යමින් රාජගිරිය, උස්වත්ත ප්‍රදේශයේ කුලී පදනම මත ලබාගත් නිවසක රැඳී සිටිමින් මෙම මංකොල්ලකෑම් සිදුකර ඇත.
+Police have arrested a married woman and her casual man and a three-wheeler used for robbery, a three-wheeler and three mobile phones.
 
-සැකකාර යුවළ වැලිකඩ, කොළඹ කොටුව, වාද්දුව, මැලෑගම, වැල්ලවත්ත ආදී ප්‍රදේශවල මංකොල්ලකෑම් සිදුකර ඇති බවද පොලිස් විමර්ශනවලදී හෙළිවී තිබේ.
+The main suspect is a resident of Kandy and is a resident of Ahangama, a man of a government agency.
 
-...
+The robbery was staying in a house taken over the rented base of the Ukwatta area in Rajagiriya while maintaining an illicit affair.
+
+Police investigations have revealed that the suspect had taken robbery in Welikada, Colombo Fort, Wadduwa and Wadduwatta and Wadduwatte.
+
+The suspects have fled the Colombo Fort, Fort, Wadduwatta and Wadduwatta, police said.
+
+◼️
 
 [Data](articles/3f016be4.json)
+
+[Extended Data](ext_articles/3f016be4.ext.json)
 
 ---
 
@@ -75,6 +117,26 @@ He cautioned that further economic struggles could make recovery nearly impossib
 [Data](articles/73a57ebd.json)
 
 [Extended Data](ext_articles/73a57ebd.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 300.70/95, bond yields up
+
+*2024-09-13 10:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-300-70-95-bond-yields-up-179459/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.70/95 to the US dollar on Friday, dealers said, while bond yields were up.
+
+A bond maturing on 15.02.2028 was quoted at 13.55/65 percent.
+
+A bond maturing on 15.06.2029 was quoted at 13.70/75 percent.
+
+In equities, Colombo’s All Share Price Index opened 0.16 percent, or 16.56 points, higher at 10,583, while the S&P SL20 of more liquid stocks opened up at 0.54 percent or 15.84 points to 2,941.
+
+◼️
+
+[Data](articles/42282d9c.json)
+
+[Extended Data](ext_articles/42282d9c.ext.json)
 
 ---
 
@@ -533,6 +595,26 @@ Addressing a public brief in Baddegama, Sajith Premadasa made these comments.
 [Data](articles/0600f98e.json)
 
 [Extended Data](ext_articles/0600f98e.ext.json)
+
+---
+
+### Sri Lanka program giving results, IMF assesses debt sustainability: Spokesperson
+
+*2024-09-13 07:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-program-giving-results-imf-assesses-debt-sustainability-spokesperson-179507/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s program is giving results and the next review and program discussions will take place after a new government is formed after elections, an International Monetary Fund spokesperson said.
+
+Economic growth is starting to revive, inflation is coming down, revenue mobilization is improving, and international reserves are increasing, spokesperson Julie Kozack said.
+
+“From the IMF’s position, what we see is a program that has made significant achievements, but that it is important to safeguard these achievements to enable the country to fully emerge from one of its worst crises,” she told reporters in Washington.
+
+“And as mentioned in a Press Release during the timing of the Third Review, the timing of the Third Review will be discussed with the government following the elections.
+
+...
+
+[Data](articles/7edb957a.json)
+
+[Extended Data](ext_articles/7edb957a.ext.json)
 
 ---
 
@@ -2161,101 +2243,5 @@ Foreign selling was seen in Dialog Axiata (down at 8.50), Bairaha Farms (down at
 [Data](articles/f804db73.json)
 
 [Extended Data](ext_articles/f804db73.ext.json)
-
----
-
-### New educational institutions will be established to provide higher education in global standards - President
-
-*2024-09-12 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193522) · `ta`
-
-Sri Lanka's President Ranil Wickremesinghe announces establishment of new educational institutions providing higher education aligned with global standards. Times School of Higher Education inaugurated, offering certificate, diploma, degree programs. Aimed at developing youth skills for export-oriented economy and digital economy growth. Government plans to provide vocational training for 50,000 youth and create 100,000 new jobs in state and private sectors.
-
-🟩
-
-President Ranil Wickremesinghe said that many new educational institutions in the state and private sector will be established in the country to provide youth the opportunity to gain higher education in accordance with global standards.
-
-The President said this while addressing the inauguration ceremony of the "Times School of Higher Education" held at the Galle Falls Hotel in Colombo on Thursday (12).
-
-The Times Higher Education Institute has been established to join the limited Vijaya newspaper and is carrying out educational activities in accordance with three foreign universities and higher education institutions.
-
-Here are a variety of professional courses under three main qualifications. Accordingly, Certificate, Diploma, High Diploma Studies and Professional Skills Development Programs and Degree courses will be conducted here through the digital academy.
-
-...
-
-[Data](articles/d3a7ae1b.json)
-
-[Extended Data](ext_articles/d3a7ae1b.ext.json)
-
----
-
-### Development Officers have cases suicide in the teacher service
-
-*2024-09-12 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200951) · `si`
-
-Development Officers' cases settled in teacher service. Court approves Cabinet decision. Parties can appeal. President agrees to absorb development officers into teaching roles. Education Minister clarifies recruitment process.
-
-🟩
-
-Development Officers have been settled in the teacher's absorption into the teacher service.
-
-The Ministry of Education stated that the following cases have been settled today (12).
-
-The court has informed the court to act in accordance with the approval of the Cabinet of Ministers in the court.
-
-According to the courts, the relevant parties have the right to recall the case again and that the case will be taken back by a motion if necessary.
-
-President's Counsel on behalf of the petitioner. Mr. Chokzy and lawyer D. S. Ms. Ratnayake appeared and the Attorney General's Department sat on respondents.
-
-The President has also agreed to absorb development officers who are currently employed in public schools to the teaching work.
-
-The Minister of Education Susil Premajayantha said that the Minister of Education Susil Premajayantha said that the development officials were recruited as trainees and absorbed the development officers as trainees.
-
-◼️
-
-[Data](articles/d213a56a.json)
-
-[Extended Data](ext_articles/d213a56a.ext.json)
-
----
-
-### Political programmes presented by main candidates contain same thing – Dilith
-
-*2024-09-12 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101923/political-programmes-presented-by-main-candidates-contain-same-thing-dilith) · `en`
-
-The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera says that all the other three main candidates contesting the upcoming presidential election have presented the same programme.
-
-He stated this during a public meeting held at Nittambu yesterday (11), under the ‘Dilith Gamata’ series of constituency meetings.
-
-“Now they have presented three political programmes. All three of them contain the same thing. Instead, we have brought a strategic plan. A strategic programme that represents the views of every man in this country,” Jayaweera said.
-
-He further stated that after the people vote on the morning of September 21, the results can only be expected on September 23 because of the second preference count.
-
-...
-
-[Data](articles/05c833aa.json)
-
-[Extended Data](ext_articles/05c833aa.ext.json)
-
----
-
-### Keheliya presents to Colombo High Court
-
-*2024-09-12 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200950) · `si`
-
-Former Health Minister Keheliya Rambukwella appears in Colombo High Court on Oct 3 & 25 due to bribery cases filed by the Bribery Commission.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella sent to the Colombo High Court today (12) by the Maligakanda Magistrate's Court yesterday.
-
-It is on two cases filed against Mr. Keheliya Rambukwella by the Bribery Commission.
-
-Former Health Minister Keheliya Rambukwella has been ordered to appear before the High Court on October 03 and 25.
-
-◼️
-
-[Data](articles/dfec376c.json)
-
-[Extended Data](ext_articles/dfec376c.ext.json)
 
 ---

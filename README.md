@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 06:06:13**
+As of **2024-09-13 06:43:16**
 
 ## Newspaper Stats
 
-*Scraped **43,627** Articles*
+*Scraped **43,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 423
 colombotelegraphcom | 428
-islandlk | 2,542
+islandlk | 2,554
 economynextcom | 2,659
 dailyftlk | 2,910
 adalk | 4,040
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,526 (99.8%) of 43,627 articles have been extended.
+43,528 (99.7%) of 43,639 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ As the nation faces the task of electing a new President at a very crucial time 
 ...
 
 [Data](articles/329515a6.json)
+
+[Extended Data](ext_articles/329515a6.ext.json)
 
 ---
 
@@ -59,6 +61,8 @@ For example, both the SJB and the NPP are promising major housing initiatives, s
 ...
 
 [Data](articles/fa94bf37.json)
+
+[Extended Data](ext_articles/fa94bf37.ext.json)
 
 ---
 
@@ -221,6 +225,112 @@ In an official statement, the BASL clarified the provisions of its Constitution 
 [Data](articles/515b5b68.json)
 
 [Extended Data](ext_articles/515b5b68.ext.json)
+
+---
+
+### Trinity reclaims Bradby glory after a decade
+
+*2024-09-13 03:54:00* · [`islandlk`](http://island.lk/trinity-reclaims-bradby-glory-after-a-decade/) · `en`
+
+The second leg of the highly anticipated 78th Bradby Shield took place on the 7th of September at the Trinity College Rugby Stadium, Pallekele. After a thrilling and hard-fought match, Trinity College emerged victorious with a narrow 23-22 win against Royal College, marking their first Bradby Shield win in a decade. This victory, combined with their earlier 17-16 win in the first leg, secured Trinity’s triumph in this historic encounter.
+
+Adding to the celebrations, Shan Althaf of Trinity College was named the NDB Player of the Match for his exceptional performance throughout the game. Shan was presented with the award by Kelum Edirisinghe, CEO/Director of NDB Bank, and Sanjaya Perera, Senior Vice President of NDB Bank. NDB Bank is proud to support and recognise emerging talent, and Shan’s outstanding contribution is a testament to his promising future in rugby. As part of his recognition, Shan was also presented with NDB Pixel, the bank’s latest digital solution designed for teens.
+
+...
+
+[Data](articles/afb8be07.json)
+
+---
+
+### Sysco LABS recognized as one of Sri Lanka’s Most Outstanding Women-Friendly Workplaces
+
+*2024-09-13 03:53:00* · [`islandlk`](http://island.lk/sysco-labs-recognized-as-one-of-sri-lankas-most-outstanding-women-friendly-workplaces/) · `en`
+
+Sysco LABS is proud to announce its recent recognition within the top ten of Sri Lanka’s most outstanding women-friendly workplaces at the prestigious “Women Friendly Workplace Awards”. Organized by Satyn Mag in collaboration with CIMA and AICPA, the awards celebrate organizations that go above and beyond to champion women in the workplace. Chaired by an eminent panel of judges, the platform is designed to recognize sustainable and meaningful measures taken by organizations to improve their policies and programs to empower Diversity, Equity and Inclusion, and invest in the career progress of women.
+
+...
+
+[Data](articles/28fa610c.json)
+
+---
+
+### Iconic Trust increases stake in Sierra Cables to over 30 percent
+
+*2024-09-13 03:51:00* · [`islandlk`](http://island.lk/iconic-trust-increases-stake-in-sierra-cables-to-over-30-percent/) · `en`
+
+Iconic Trust (Private) Limited, a subsidiary of Browns Investments PLC, said it had purchased 6,654,899 shares of Sierra Cables, increasing its stake in the company to 30.42 percent.With the increase in ownership in voting shares of Sierra Cables, Iconic Trust will make a mandatory offer to its remaining shareholders in terms of the Takeovers & Mergers Code in due course, informed sources said.
+
+Sierra Cables voting shares were bought at Rs. 8 each, for a gross consideration of Rs 53,239, 192.
+
+Amid those developments, the stock market yesterday got off to a good start but later selling pressure was recorded, especially for blue-chip counters, due to prevailing political uncertainties.
+
+...
+
+[Data](articles/0c8db5b4.json)
+
+---
+
+### LOLC Divi Saviya covers 40% of entire school system
+
+*2024-09-13 03:49:00* · [`islandlk`](http://island.lk/lolc-divi-saviya-covers-40-of-entire-school-system/) · `en`
+
+LOLC Divi Saviya has successfully completed Phase 03 of its education initiative, impacting 4,100 schools across Sri Lanka. This milestone achievement extends the program’s reach to 40% of the entire school system endorsing LOLC’s commitment to supporting the educational needs of students nationwide.
+
+...
+
+[Data](articles/ebd8673f.json)
+
+---
+
+### Pan Asia Bank and Odiliya forge strategic partnership to revolutionize real estate financing
+
+*2024-09-13 03:48:00* · [`islandlk`](http://island.lk/pan-asia-bank-and-odiliya-forge-strategic-partnership-to-revolutionize-real-estate-financing/) · `en`
+
+Pan Asia Bank, ‘The Truly Sri Lankan Bank,’ has signed a Memorandum of Understanding (MOU) with Odiliya, a prominent name in real estate and property development. This strategic partnership is designed to redefine real estate financing in Sri Lanka by offering customers innovative and flexible financing solutions for property investments.
+
+...
+
+[Data](articles/08780ee9.json)
+
+---
+
+### ASUS expands its lineup with next-gen AI laptops for students
+
+*2024-09-13 03:34:00* · [`islandlk`](http://island.lk/asus-expands-its-lineup-with-next-gen-ai-laptops-for-students/) · `en`
+
+ASUS, the Taiwanese tech giant, today announced the expansion of its laptop portfolio with two new models across Consumer lineups. The AMD AI 300 Series-powered Vivobook S 14 M5406 and your next Copilot+ PC, Vivobook S 15 S5507, with the Qualcomm Snapdragon X Plus processor. Both new laptops redefine user experience by integrating cutting-edge AI capabilities & an innovative design. The products will be accessible at the ASUS Exclusive Stores & selected multi-brand stores across Sri Lanka. The Vivobook S 14 M5406 starts from LKR 539,990, and the Vivobook S 15 S5507 will starts from LKR 479,990.
+
+ASUS’s latest devices are powered by the latest AMD Ryzen™ AI 300 Series & Qualcomm’s Snapdragon X Plus processor.
+
+...
+
+[Data](articles/86ba1c52.json)
+
+---
+
+### ComBank becomes first bank in Sri Lanka to receive Corporate Finance Advisor licence from SEC
+
+*2024-09-13 03:34:00* · [`islandlk`](http://island.lk/combank-becomes-first-bank-in-sri-lanka-to-receive-corporate-finance-advisor-licence-from-sec/) · `en`
+
+Commercial Bank of Ceylon PLC has become the first Sri Lankan bank to receive a licence from the Securities and Exchange Commission of Sri Lanka (SEC) to operate as a Corporate Finance Advisor [CFA].
+
+The receipt of the CFA licence enables Commercial Bank to provide the advisory services listed under Section 188 of the SEC Act, and levy fees and commissions for such services, the Bank said.
+
+Such Corporate Finance Advisory services include capital raising – assisting companies secure funds through equity offerings such as Initial Public Offerings (IPOs) and secondary offerings, and debt offerings such as debentures and syndicated loans; and advisory services such as advising on mergers and acquisitions, divestitures, balance sheet restructuring, strategy development, and valuations.
+
+...
+
+[Data](articles/c9623c03.json)
+
+---
+
+### Plantation workers being taken for a ride once again
+
+*2024-09-13 02:08:00* · [`islandlk`](http://island.lk/plantation-workers-being-taken-for-a-ride-once-again/) · `en`
+
+...
+
+[Data](articles/9e8e3430.json)
 
 ---
 
@@ -2179,211 +2289,5 @@ The demonstration was arrested by the police, including Joseph Starling, includi
 [Data](articles/c4825197.json)
 
 [Extended Data](ext_articles/c4825197.ext.json)
-
----
-
-### The shooting of the untitled movie starring Arjun Das completed
-
-*2024-09-12 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193494) · `ta`
-
-"Untitled Arjun Das film completes shoot. Stars Arjun Das, Aditi Shankar. Directed by Vignesh Srikanth. Produced by Yuvraj Ganesan. Post-production begins soon."
-
-🟩
-
-Arjun Das, the leading star actor of the Tamil film industry, has been enthusiastically announced by the film crew to release the film 'Production Number 4', which has been shot in the film 'Production Number 4'.
-
-Arjun Das and Aditi Shankar are starring in the unnamed film directed by debutant director Vignesh Srikanth.
-
-The film, which has been recorded by Arvind Viswanathan, has produced the producer Yuvraj Ganesan on behalf of Million Studios.
-
-The film crew has said that the post -shooting technical work will begin soon, followed by the film's title and first look.
-
-◼️
-
-[Data](articles/136ce808.json)
-
-[Extended Data](ext_articles/136ce808.ext.json)
-
----
-
-### Measurement Corporation to improve stabilizer through new financial solutions in the private sector
-
-*2024-09-12 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193479) · `ta`
-
-Here's a 200-character summary:
-
-
-
-UNDP Sri Lanka workshop improves private sector stability through sustainable finance solutions. Emphasizes ESG capacity building, green finance, and aligning with SDGs. Calls for collaboration between UN agencies, private sector, and financial institutions to promote sustainable development in Sri Lanka.
-
-🟩
-
-United Nations Development Program in Sri LankaCombined with the two -day workshop in Colombo, a two -day workshop in Colombo, a two -day workshop.
-
-The event was designed to explain the need to coordinate the strategic structure of the business in Sri Lanka.
-
-Emphasizing the transformation of the sustainable financial support, he said:
-
-It is inevitable that the business environment is revealed under the influence of climate change, the definitions of resources and the social values ​​that change. ”Said.
-
-The event showed the importance of being stabilized in daily activities. This will facilitate Sri Lankan companies to attract the protocol consumers, to improve their trade fossil, to comply with exposure regulations, and to access sustained investment opportunities.
-
-Senior Vice President of the Business Division of the Colombo Stock Exchange
-
-...
-
-[Data](articles/90fffc30.json)
-
-[Extended Data](ext_articles/90fffc30.ext.json)
-
----
-
-### Italian dream ends with two Syrian families
-
-*2024-09-12 13:19:23* · [`adalk`](https://www.ada.lk/breaking_news/සිරියානු-පවුල්-දෙකක-ඉතාලි-සිහිනය-කටුනායකින්-නිම-වෙයි/11-411914) · `si`
-
-Syrian families arrested in Sri Lanka for fake UAE passports. Attempting to reach Rome via India. Passports tested negative. Further investigation ongoing.
-
-🟩
-
-Seven members belonging to two Syrian families have been arrested by the Immigration and Emigration Department officials who were attempting to escape to Rome in Italy using the passports of the UAE.
-
-They were two adults who lived in Syria and four families comprising four children.
-
-They are due to leave to Chennai to Chennai in India at 09/12 in India at India's Airline.
-
-They had come to the Emigration Counters, who had finished their aviation clearance, and on suspicions that served, they had been sent to the Border Survey Unit with the doubts.
-
-These passports have confirmed that these passports were made of the technical tests.
-
-In questioning these Syrians, he has paid a passport to a broker to a broker and prepared in the Turkey.
-
-These passports, the supernutical chips have been prepared in the modern tests such as Scanner Test, such as electronic gates.
-
-...
-
-[Data](articles/b68de628.json)
-
-[Extended Data](ext_articles/b68de628.ext.json)
-
----
-
-### Sajith reveals the dual standard of resources against private education
-
-*2024-09-12 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200942) · `si`
-
-Sajith Premadasa criticizes politicians' hypocrisy on private education. He argues that those opposing private schools send their own children there, highlighting a double standard.
-
-🟩
-
-Says the presidential candidate Sajith Premadasa, the president of the people of the people, says that some politicians are following a double stand by saying that they are opposed to private education.
-
-He pointed out that the children of some people who oppose personal education have been directed to private education, and they are following a doubt in politics.
-
-Sajith Premadasa made these comments participating at a convention in Colombo with the professional lecturers of the procient group.
-
-...
-
-[Data](articles/250a7e78.json)
-
-[Extended Data](ext_articles/250a7e78.ext.json)
-
----
-
-### Investor Forum in Batticaloa to highlight alternative investment opportunities!
-
-*2024-09-12 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193474) · `ta`
-
-Colombo Stock Exchange organizes Investor Forum in Batticaloa, highlighting alternative investment opportunities. 75 participants learn about Sukuks, green bonds, and Sharia-compliant securities. Industry experts discuss environmental stability and advanced financial strategies. Interactive Q&A session concludes the event.
-
-🟩
-
-The Colombo Stock Exchange (CSE) was organized on September 8, 2024 at the Beesway Hotel in Kattankudi.
-
-The House aims to reveal alternative investment opportunities for investors in the region and provide sophisticated knowledge of the market.
-
-The forum attracted 75 participants, providing potential and valuable intelligence to the existing investors in the region regarding debt networking networks such as Sukuks, Green and Sustainable Forms.
-
-Sivanandan Raman Muthukrishnan, Manager of the Batticaloa Branch of the Colombo Stock Exchange, launched the event with comments on the importance of examining the new investment routes.
-
-Senior Vice President Naluba Perera, Senior Vice President of the Broker Supervisory and Listed Corporate Agreement in the Colombo Stock Exchange, presented the first highlight of the forum.
-
-He focused on the role of these images and their potential benefits to investors in promoting environmental stability.
-
-...
-
-[Data](articles/2ef84d0a.json)
-
-[Extended Data](ext_articles/2ef84d0a.ext.json)
-
----
-
-### Memorandum of Understanding (Memorandum of Understanding) to Opening Investment Investment Accounts for Foreign Individuals in Sri Lanka
-
-*2024-09-12 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193487) · `ta`
-
-Colombo Stock Exchange and DFCC Bank sign MOU to streamline opening of investment accounts for foreign individuals in Sri Lanka, simplifying the investment process and strengthening capital markets.
-
-🟩
-
-The Colombo Stock Exchange (CPP) and DFCC Bank PLC (DFCC) have recently signed a Memorandum of Understanding (MOU) to improve the launch of the Foreign Individuals (FIS) Investment Accounts (IIAS) in Sri Lanka.
-
-This joint effort will make the need for foreign individuals to open an internal investment accounts when it opens the Central Deposit Scheme (CDS) accounts through the mobile processor of the Colombo Stock Exchange.
-
-The necessary application information will be transferred between the Colombo Stock Exchange and the DFCC Bank to ensure that a repetitive and compatible account is opened.
-
-This stock is trying to simplify the investment process and strengthen Sri Lanka's capital markets by attracting a wide range of international investors.
-
-The Chief Executive Officer of the Colombo Stock Exchange, Rajeeva Bandaranaike said,
-
-...
-
-[Data](articles/437d262c.json)
-
-[Extended Data](ext_articles/437d262c.ext.json)
-
----
-
-### Expolanka Holdings changes name and status post-delistiing
-
-*2024-09-12 12:57:12* · [`dailyftlk`](https://www.ft.lk/business/Expolanka-Holdings-changes-name-and-status-post-delistiing/34-766670) · `en`
-
-Expolanka Holdings today announced that it has officially changed its name and status in accordance with Section 11(5) of the Companies Act, No 07 of 2007.
-
-The company, previously listed as a ‘Public Listed Company’ under the name Expolanka Holdings PLC, is now registered as “Expolanka Holdings Limited” following its removal from the Official List of the Colombo Stock Exchange.
-
-The move marks a significant shift in the company’s corporate status, reflecting the new phase of its operational journey.
-
-This change comes as part of a resolution passed by the shareholders on 27 March 2024, which approved the transition of the company from a "Public Listed Company" to a "Public Company."
-
-The company’s registration number remains as P B 744PQ and its registered office address continues to be at 10, Mile Post Avenue, Colombo 03.
-
-◼️
-
-[Data](articles/05c9caef.json)
-
-[Extended Data](ext_articles/05c9caef.ext.json)
-
----
-
-### Ranil says he has proven himself to improve the economy of the country
-
-*2024-09-12 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200941) · `si`
-
-Ranil Wickremesinghe claims to have improved Sri Lanka's economy. He cites his presidency as responsible for stabilizing the currency and reducing prices. He promises further economic growth and development over the next five years.
-
-🟩
-
-Independent presidential candidate Ranil Wickremesinghe says that the economic restoration should be returned to reverse the country.
-
-Ranil Wickremesinghe said that he was able to live a rally in Akkaraipattu during the time of strengthening the country economically.
-
-"When I was the president of a breakdown of the country's economy. Remember 2020, 2022 Price was so much more and more. 185.00 per dollar 2019. 2020 - 2022 it was 370.00. Our income was not increased. We have strengthened the rupee because of my steps. There's another living load. Solve it at the next 5 years, I am. Lighten the following year. Give a new economy into Tirukolavil. "
-
-...
-
-[Data](articles/295a5d35.json)
-
-[Extended Data](ext_articles/295a5d35.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 01:38:01**
+As of **2024-09-14 01:56:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,785 (100.0%) of 43,793 articles have been extended.
+43,789 (100.0%) of 43,793 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ As Sri Lanka stands on the cusp of a critical Presidential Election this Septemb
 
 [Data](articles/83d04bfc.json)
 
+[Extended Data](ext_articles/83d04bfc.ext.json)
+
 ---
 
 ### NDB Bank partners with OPA for 37th Annual Conference to foster economic growth
@@ -58,6 +60,8 @@ Demonstrating its leadership in fostering essential discussions on economic grow
 
 [Data](articles/f7e6aae9.json)
 
+[Extended Data](ext_articles/f7e6aae9.ext.json)
+
 ---
 
 ### Public resource misuse sparks over 750 complaints to TISL
@@ -71,6 +75,8 @@ It said the largest category of complaints—343 in total—pertains to the misu
 ...
 
 [Data](articles/0e96c481.json)
+
+[Extended Data](ext_articles/0e96c481.ext.json)
 
 ---
 
@@ -87,6 +93,8 @@ Favourability estimates for each month are based on 100–500 interviews conduct
 ...
 
 [Data](articles/59bc1d34.json)
+
+[Extended Data](ext_articles/59bc1d34.ext.json)
 
 ---
 

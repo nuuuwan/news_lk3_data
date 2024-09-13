@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 13:57:32**
+As of **2024-09-13 14:10:35**
 
 ## Newspaper Stats
 
-*Scraped **43,696** Articles*
+*Scraped **43,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,130
 tamilmirrorlk | 5,685
 virakesarilk | 6,921
-adaderanasinhalalk | 7,462
+adaderanasinhalalk | 7,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,661 (99.9%) of 43,696 articles have been extended.
+43,668 (99.9%) of 43,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### The only candidate of the people is the only candidate for the people - weakumya
+
+*2024-09-13 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200978) · `si`
+
+Weerasumana Weerasinghe: Only presidential candidate providing accurate assets. Dilith Jayaweera chosen as honest leader. Country needs truthful leadership.
+
+🟩
+
+Parliamentarian Weerasumana Weerasinghe says that the only presidential candidate to the public is the only president of the presidential candidate to the public by providing the accurate asset liabilities.
+
+He was opening of the Matara Weligama Party in Matara under the patronage of MP Weewiyanayake Weerasinghe yesterday (12).
+
+Anuradha Mahinda Rajapaksa's Vasabha, Party People's Party, was also present at the occasion.
+
+"I invited me from other parties and do politics with them. But we are people on a policy. People love the country. So we didn't go to this. The teams of corrupt politics are joining us, because we see corruption pages. There is a leadership with the difference that you can make confidence in the exangerative power. Mr. Dilith Jayaweera ".
+
+The executive council executive speaking at the meeting. And. Mr. Weerasumana Weerasinghe,
+
+"We show the choice of Dilith Jayaweera camp.. That is why our country needs a leader.
+
+...
+
+[Data](articles/06548a64.json)
+
+[Extended Data](ext_articles/06548a64.ext.json)
+
+---
 
 ### Italy citizens who illegally collected rare insect species
 
@@ -136,9 +164,13 @@ The Commissioner General of Examinations Amith Jayasundara has announced that th
 
 *2024-09-13 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101940/supreme-court-summons-immigration-chief-over-e-visa-issue) · `en`
 
-The Supreme Court has directed the Controller General of Immigration and Emigration to appear before the court in person today over his failure to implement the court’s order over the electronic visa matter.
+The Supreme Court has directed the Controller General of Immigration and Emigration to appear before the court in person today (13) with regard to his failure to implement the order issued by the court over the electronic visa matter.
 
-The directive was issued by the Supreme Court after considering motions filed over the issue, Ada Derana reporter said.
+The directive was issued by the Supreme Court after considering motions filed over the non-implementation of the interim order issued by the court regarding the issue, Ada Derana reporter said.
+
+On August 02, the Supreme Court issued an interim order suspending the contract given to private consortium IVS-GBS and VFS Global to operate the visa issuance.
+
+The court had issued this order after considering several Fundamental Rights (FR) petitions filed by a group including opposition MPs M.A. Sumanthiran, Rauff Hakeem and Patali Champika Ranawaka.
 
 ◼️
 
@@ -1948,21 +1980,27 @@ Therefore, we are ready to power the National Policy of Sports of the Sports Sec
 
 ---
 
-### මේ වසරේ මේ දක්වා සංචාරකයන් ලක්ෂ 14ක් ඇවිත්
+### 14 lakh tourists arrived this year up to 14 lakhs
 
 *2024-09-12 19:35:44* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-මේ-දක්වා-සංචාරකයන්-ලක්ෂ-14ක්-ඇවිත්/11-411930) · `si`
 
-මේ වසරේ ගත වූ කාලයෙහි විදෙස් සංචාරකයන් ලක්ෂ 14කට ආසන්න සංඛ්‍යාවක් මෙරටට පැමිණ තිබේ.
+Sri Lanka received 1.4 million tourists this year, with India, Britain, Russia, and China being top sources. Peak tourist season was February, with 218,350 visitors. Total arrivals from January 8 to September 8 were 1,395,773.
 
-ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කරන්නේ ජනවාරි පළමු වැනිදා සිට සැප්තැම්බර් 08 වැනිදා දක්වා දිවයිනට පැමිණ ඇති මුළු සංචාරකයන් සංඛ්‍යාව 1,395,773ක් බවයි. මෙලෙස පැමිණ ඇත්තේ ඉන්දියාව, බ්‍රිතාන්‍ය, රුසියාව ජර්මනිය, චීනය යන රටවල සංචාරකයන් බව ද අධිකාරිය සඳහන් කරයි.
+🟩
 
-සංචාරකයන් වැඩි සංඛ්‍යාවක් පසුගිය පෙබරවාරි මාසයේ දිවයිනට පැමිණි ඇති අතර එම සංඛ්‍යාව 218,350කි.
+Nearly 14 lakhs of foreign tourists have arrived in Sri Lanka in this year.
 
-එමෙන්ම ජනවාරි සහ මාර්තු මාස වලද ලක්ෂ දෙක ඉක්ම වූ සංචාරකයන් පිරිසක් දිවයිනට පැමිණ ඇත.
+The Sri Lanka Tourism Development Authority (SLTB) states that the total number of tourists arrived in the island from the first January 8 to September 08, 1,395,773. The Authority states that India, British, Russia, Russia, Russia, China, says the Authority.
+
+Most of the tourists arrived in the island last February and 218,350.
+
+Tourist arrivals from the same year and Rs.
 
 ◼️
 
 [Data](articles/2cb57eaa.json)
+
+[Extended Data](ext_articles/2cb57eaa.ext.json)
 
 ---
 
@@ -1990,17 +2028,25 @@ The presidential election is decisive. The country went backwards by 30 years of
 
 ---
 
-### මහව - අනුරාධපුර දුම්රිය මාර්ගය විවෘත කිරීමට මැකො හරස්වෙයි
+### MacCoins to open Mahawa - Anuradhapura railway line
 
 *2024-09-12 19:27:51* · [`adalk`](https://www.ada.lk/breaking_news/මහව---අනුරාධපුර-දුම්රිය-මාර්ගය-විවෘත-කිරීමට-මැකො-හරස්වෙයි/11-411929) · `si`
 
-ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ  මහව සිට අනුරාධපුර දක්වා  නවීකරණය කරමින් පවතින මහව සිට අනුරාධපුර දක්වා දුම්රිය මාර්ගය තවමත් අනාරක්ෂිත තත්ත්වයේ තිබියදී ඊයේ (12 දා) එම මාර්ගයේ දුම්රිය ධාවනය කිරීමට පියවර ගෙන තිබීම සම්බන්ධයෙන් මැතිවරණ කොමිෂන් සභාවට ලිපියක් මාර්ගයෙන් දැනුම් දීමෙන් අනතුරුව, දුම්රිය ධාවනය නතර කෙරුණු බවත්, පසුව එම ව්‍යාපෘතිය නාමිකව පමණක් භාර දීම ඊයේ (12 දා) අමාත්‍යාංශයේදී සිදු කෙරුණු බවත් ශ්‍රී ලංකා දුම්රිය ස්ථානාධිපති සංගමය පවසයි.
+Sri Lanka Railway project update: MacCoins funding for Mahawa-Anuradhapura line faces issues due to incomplete signaling system. Audit recommended over employee payments. Official announcement delayed until September 12, 2024. Construction began in January 2024 but halted before completion. Legal action threatened over election-related propaganda.
 
-ඊයේ (12දා) වන විටත් නිසි පරිදි සංඥා ක්‍රමවේදයක් ස්ථාපිත කර නොතිබූ බවත්, අනතුරුදායක ප්‍රධාන දුම්රිය හරස් මාර්ග බොහෝමයක සංඥා ගේට්ටු පවා සවිකර නොතිබූ බවත් ශ්‍රී ලංකා දුම්රිය ස්ථානාධිපති සංගමයේ සභාපති සුමේධ සෝමරත්න මහතා “අද” කළ විමසීමකදී පැවසීය.වනඅලින්ට දුම්රිය මාර්ගය අසලින් මාරු වීමට අඹන්පොළ ප්‍රදේශයේ ඉදිවන දුම්රිය උමං මාර්ගය සහ තඹුත්තේගම දුම්රිය ස්ථානය හැරුණු විට, එම මාර්ගයේ අනෙකුත් සියලු දුම්රිය ස්ථානවල ඉදිකිරීම් කටයුතු මේ දක්වා අවසන් නොමැති බවද දුම්රිය ස්ථානාධිපති සංගමය පවසයි.
+🟩
+
+The railway line from the Indian Loan Scheme is still insecure to the Indian Credit Scheme, the train was notified yesterday (12), the train was suspended after being informed.The Sri Lanka Railway Station Says the Sri Lanka Railways yesterday (12) at the Ministry yesterday.
+
+Sri Lanka Railways Sumantha Summa Somaratne said that there was not a signal of a proper signal at the time of yesterday (12th).Over the exception of the area of ​​the area and the Thambuththegama railway station, the Railway Status said.
+
+The President of the Association Sumedha Somaratne said that allegedly unable to complete the entire railway line from Anuradhapura to Mahawa, he said a audit should be carried out regarding the money paid to employees and the money paid to employees.. He further stated that the Elections Commission and the Sri Lanka Railways have been informed about this.
 
 ...
 
 [Data](articles/5cc4800f.json)
+
+[Extended Data](ext_articles/5cc4800f.ext.json)
 
 ---
 
@@ -2187,27 +2233,5 @@ After the 18th, the 48-hour quiet time. It is especially important that the way 
 [Data](articles/d88042fe.json)
 
 [Extended Data](ext_articles/d88042fe.ext.json)
-
----
-
-### Sri Lanka’s Planters’ Association marks 170 years
-
-*2024-09-12 19:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-planters-association-marks-170-years-179474/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Planters’ Association which represents the managers of the island’s commercial farms growing tea, rubber, coconut and palm oil, is marking 170 years this year.
-
-Established in 1854, the PA being one of the oldest institutions in the country, has continuously represented and safeguarded the interests of the plantations.
-
-As one of Sri Lanka’s largest foreign exchange earners, the plantation industry, primarily known for Pure Ceylon Tea, also includes other key crops such as rubber, coconut, spices, and palm oil. The sector provides employment to approximately 125,000 individuals in Regional Plantations.
-
-The PA will host its 170th annual general meeting on Saturday (14) at 7 pm at the Galadari Hotel, Colombo, and appoint the Chairman and Executive Committee for 2024/2025.
-
-Since privatization in 1992, the plantation industry has undergone transformations, with RPCs moving into crop diversification.
-
-...
-
-[Data](articles/0dae6103.json)
-
-[Extended Data](ext_articles/0dae6103.ext.json)
 
 ---

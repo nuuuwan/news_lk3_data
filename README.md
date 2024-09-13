@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 10:56:28**
+As of **2024-09-13 11:09:15**
 
 ## Newspaper Stats
 
-*Scraped **43,670** Articles*
+*Scraped **43,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ colombotelegraphcom | 429
 islandlk | 2,554
 economynextcom | 2,660
 dailyftlk | 2,910
-adalk | 4,043
+adalk | 4,044
 dailymirrorlk | 4,733
 adaderanalk | 5,125
 tamilmirrorlk | 5,684
 virakesarilk | 6,913
-adaderanasinhalalk | 7,457
+adaderanasinhalalk | 7,458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,596 (99.8%) of 43,670 articles have been extended.
+43,601 (99.8%) of 43,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### The crime of her husband who had her wife to carry the schools
+
+*2024-09-13 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200973) · `si`
+
+Husband assaults wife at school gate. Victim, 42-year-old Dezarandara, attacked while taking children to class. Incident occurs near Atapattinakanda Junction, Matara. Police investigating suspected family dispute. Murderer remains at large.
+
+🟩
+
+The husband was assaulted by her husband who was carrying his child in the morning school.
+
+The incident has occurred near Atapattinakanda Junction, Matara this morning.
+
+The victim was 42 year old, Dezarandara, a resident of Palamarulla.
+
+The murder had been assaulted in the grade of the school on the 11th morning and had been assaulted by the murder in hiding in her husband while he was taken to school this morning.
+
+The police suspect that she had been in his mother's house due to a resent between the victims and her husband.
+
+The murder was a fishing businessman in Hatugala and has not been arrested.
+
+◼️
+
+[Data](articles/269b9029.json)
+
+[Extended Data](ext_articles/269b9029.ext.json)
+
+---
 
 ### Complaint not to open the northern railway line
 
@@ -1480,6 +1508,28 @@ Rajapakse stressed that a Buddhist country protects all religions, languages ​
 
 ---
 
+### Sanath to train in New Zealand Test series
+
+*2024-09-12 19:22:30* · [`adalk`](https://www.ada.lk/sports/නවසීලන්ත-ටෙස්ට්-තරගාවලියෙදීත්-පුහුණුකාරිත්ව-වගකීම-සනත්ට/9-411928) · `si`
+
+Sanath Jayasuriya to coach Sri Lanka in New Zealand Test series. Former captain appointed to lead team against England. His leadership crucial for team's success in tournaments.
+
+🟩
+
+Sri Lanka SLC has also decided to provide former Leader Sanath Jayasuriya.
+
+The SLC was appointed as the intercourse to visit Sri Lanka and the Sri Lanka team for England.
+
+Sri Lanka was able to report special achievements in these tournaments. Sanath Jayasuriya's guidance was a powerful thing.
+
+◼️
+
+[Data](articles/d35cce05.json)
+
+[Extended Data](ext_articles/d35cce05.ext.json)
+
+---
+
 ### Three other members of court regarding the disappearance of heroin in the case room
 
 *2024-09-12 19:11:46* · [`adalk`](https://www.ada.lk/breaking_news/නඩු-භාණ්ඩ-කාමරයේ-හෙරොයින්-කිලේ-12ක්-අතුරුදන්වීමට-අධිකරණයේම-තවත්-තිදෙනෙක්-සම්බන්ධයි/11-411927) · `si`
@@ -2215,47 +2265,5 @@ The song, which is a mix of a woman's love with melody and dignity lines, has al
 [Data](articles/b3c406a0.json)
 
 [Extended Data](ext_articles/b3c406a0.ext.json)
-
----
-
-### Elpitiya Pradeshiya Sabha elections set up
-
-*2024-09-12 16:48:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-ප්‍රාදේශීය-සභා-මැතිවරණය-පැවැත්වීමේ-දිනය-නියම-කරයි/11-411918) · `si`
-
-Elpitiya Pradeshiya Sabha elections summary: Nominations accepted on Oct 12. Eight political parties and one independent group submitted candidates. Election held on Oct 26.
-
-🟩
-
-Elpitiya Pradeshiya Sabha elections have been held on October 26.
-
-The acceptance of nominations for the Elpitiya Pradeshiya Sabha election was completed today (12).
-
-Accordingly, there are eight recognized political parties have submitted nominations and an independent group has handed over nominations.
-
-◼️
-
-[Data](articles/d3dda2f1.json)
-
-[Extended Data](ext_articles/d3dda2f1.ext.json)
-
----
-
-### J'pura is closing
-
-*2024-09-12 16:47:31* · [`adalk`](https://www.ada.lk/breaking_news/ජපුර-වසයි/11-411917) · `si`
-
-University of Sri Jayewardenepura closes temporarily due to group conflict. Students ordered to leave premises by 6:00 PM today.
-
-🟩
-
-The University of Sri Jayewardenepura has been temporarily closed from 6.00 pm today (12). Amit due to clash between two groups.
-
-By 6.00 pm today, the administration has informed all students to leave the university premises
-
-◼️
-
-[Data](articles/c932db73.json)
-
-[Extended Data](ext_articles/c932db73.ext.json)
 
 ---

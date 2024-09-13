@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 15:38:05**
+As of **2024-09-13 15:56:54**
 
 ## Newspaper Stats
 
-*Scraped **43,708** Articles*
+*Scraped **43,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,133
 tamilmirrorlk | 5,686
 virakesarilk | 6,921
-adaderanasinhalalk | 7,470
+adaderanasinhalalk | 7,471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,692 (100.0%) of 43,708 articles have been extended.
+43,696 (100.0%) of 43,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### The country will continue and develop the country - Namal
+
+*2024-09-13 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200987) · `si`
+
+Namal Rajapaksa addresses Mihintale gathering, promising economic growth and development within 10 years, emphasizing party's capabilities and commitment to progress.
+
+🟩
+
+A seat meeting organized by the presidential candidate at the Sri Lanka Civil Appointment was held yesterday (12) at Mihintale.
+
+Speaking on the occasion, Namal Rajapaksa said that the party has the ability to develop the country.
+
+"We are responsible for you to translate this country from the next 10 years to an economy over $ 180 billion.
+
+You can challenge, whether you can challenge, cannot be worried, can't worry, can't do. Those who have not made the village before.
+
+But we also have a responsibility to declare that we can do just do we only do we.
+
+We've been working, we know how to work so we will add. We're not getting off the political platform. "
+
+◼️
+
+[Data](articles/d902f5a3.json)
+
+[Extended Data](ext_articles/d902f5a3.ext.json)
+
+---
 
 ### Club spring murder suspects remanded
 
@@ -2201,29 +2229,5 @@ He acknowledged that the arrest has sparked concerns about the growing threat of
 [Data](articles/c256625f.json)
 
 [Extended Data](ext_articles/c256625f.ext.json)
-
----
-
-### Brings a new sporting bill
-
-*2024-09-12 19:40:16* · [`adalk`](https://www.ada.lk/breaking_news/නව-ක්‍රීඩා-පනතක්-ගේනවා/11-411931) · `si`
-
-Sajith Premadasa proposes updating outdated sports bill to elevate Sri Lanka's sports professionalism. Focuses on grassroots development, infrastructure improvement, and social integration. Emphasizes removing political influence from sports associations to enhance competitiveness globally.
-
-🟩
-
-Opposition Opposition Opposition Opposition Opposition Sajith Premadasa said that the outdated sports bill would be updated and bringing the game to high professional status.
-
-Speaking at the Samagi Sports Summit held today (12), he said this. The Opposition Leader Sajith Premadasa said so.
-
-"I firmly believe in the game of our country. If the game is updated, you need to update. You have to create the kind of commandments for the era. We can't stay in the old, old, unreality concepts.
-
-Therefore, we are ready to power the National Policy of Sports of the Sports Sector in the National Policy of the National Policy of the provinces 9 administrative districts of the provinces.. We hope to implement ground level sports development, especially in rural and urban areas.
-
-...
-
-[Data](articles/8be3ca44.json)
-
-[Extended Data](ext_articles/8be3ca44.ext.json)
 
 ---

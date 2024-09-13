@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 22:38:06**
+As of **2024-09-13 22:57:03**
 
 ## Newspaper Stats
 
-*Scraped **43,774** Articles*
+*Scraped **43,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 429
 islandlk | 2,557
 economynextcom | 2,675
 dailyftlk | 2,910
-adalk | 4,051
+adalk | 4,052
 dailymirrorlk | 4,733
 adaderanalk | 5,141
-tamilmirrorlk | 5,689
+tamilmirrorlk | 5,690
 virakesarilk | 6,938
 adaderanasinhalalk | 7,487
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 7,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,774 (100.0%) of 43,774 articles have been extended.
+43,776 (100.0%) of 43,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### The vehicles will be imported from October
+
+*2024-09-13 22:32:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-முதல்-வாகனங்கள்-இறக்குமதி-செய்யப்படும்/175-343733) · `ta`
+
+Sri Lanka Cabinet approves vehicle imports starting Oct 1, prioritizing public transport. Commercial/freight vehicles allowed Dec 1, private cars Feb 1. Imports suspended since 2021 due to economic crisis. Restrictions eased gradually.
+
+🟩
+
+Finance Minister Shehan Semasinghe said that the Cabinet has approved the importation of vehicles from October 1 this year.
+
+Accordingly, the vehicles used for public transport services have been approved first to import.
+
+It has been decided to import commercial and freight vehicles from December 1 this year.
+
+In addition, motor vehicles will be imported from the first of February next year.
+
+The Sri Lankan government has decided to suspend vehicle imports by 2021 due to the economy crisis due to the Corona infection.
+
+Due to the severe economic crisis that followed, Sri Lankan authorities have decided to continue the ban/control.
+
+Similarly, as the import of more than 2,000 goods has been stopped, they are being relaxed in phase.. Remble
+
+◼️
+
+[Data](articles/76569997.json)
+
+[Extended Data](ext_articles/76569997.ext.json)
+
+---
+
+### The dollar is going to Rs. 500 if Anura president
+
+*2024-09-13 22:32:00* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ජනාධිපති-වුණොත්-ඩොලරය-රුපියල්-500ට-යනවා/11-411938) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's currency may drop to Rs. 500 under Anura's presidency. He proposes an import/export economy. President Wickremesinghe criticizes Anura's policies, saying they'll harm the economy. Wickremesinghe removes vehicle import bans and increases tax thresholds. He warns against Anura's economic plans, citing potential IMF withdrawal and currency devaluation.
+
+🟩
+
+Anura's economic policy an import economy?An export economy?The question was three days, Anura quiet
+
+I have to submit the people with stadium with statistics, with statistics with statistical data
+
+Let him argue that he arnses the economy, not to protect the economy
+
+President Ranil Wickremesinghe said that he had not responded to an expertise, the economic policy of the national promos of the National Jones of the National Jone and an Export Economy.President Ranil Wickremesinghe said
+
+He said that former Minister of Agriculture Anura Kumara, Gotabhaya Rajapakse, who defeated the former president, will not allow anyone to break the economy of the economy.
+
+President Ranil Wickremesinghe made this statement addressing the 'Ranil' rally on the Beruwala Coastal Stadium this afternoon.
+
+The proposal to provide a pension and social security benefits to preschool teachers was presented to the President.
+
+...
+
+[Data](articles/b862cba9.json)
+
+[Extended Data](ext_articles/b862cba9.ext.json)
+
+---
 
 ### Golden powder trapped at the airport
 
@@ -2301,65 +2365,5 @@ He made these remarks while attending a public rally held in Baddegama.
 [Data](articles/58cc4721.json)
 
 [Extended Data](ext_articles/58cc4721.ext.json)
-
----
-
-### The decision is only after the election;Imf
-
-*2024-09-13 09:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலின்-பின்னரே-முடிவு-IMF/175-343712) · `ta`
-
-IMF review delayed until post-elections in Sri Lanka. New government may influence decisions. Recovery efforts continue despite progress. Protecting gains crucial.
-
-🟩
-
-International Monetary Fund spokesman Julie Kozack said the third review of the extended financial facility on Sri Lanka would take place only after the upcoming elections.
-
-On the basis of the new government or the people's wishes, we will hold a program of programs.
-
-However, it is an important step to achieve the objectives of programs to provide Sri Lanka's opportunity to recover from the worst crisis.
-
-Julie Kozak said the country has not yet recovered from the crisis despite many improvements in Sri Lanka.
-
-He also stressed that it is important to protect the hard -winning victories. Remble
-
-◼️
-
-[Data](articles/d4336844.json)
-
-[Extended Data](ext_articles/d4336844.ext.json)
-
----
-
-### The highest fine for a wildlife crime in Sri Lanka has been set
-
-*2024-09-13 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200971) · `si`
-
-Sri Lanka: Italian father son fined Rs. for insect collection in Yala National Park. Highest wildlife crime penalty set.
-
-🟩
-
-An Italian father and his son have fined Rs.
-
-Initially, they were convicted in September regarding September, adding, possession, collecting and transporting insects.
-
-Tissamaharama Magistrate Tharindu Same Same Sameera Same Sameewe Samee de Silva on the 3rd.
-
-The 68-year-old Luigi Farri and his 28-year-old son in the Yala National Park were arrested with insects on 8 May this year.
-
-Our correspondent stated that the two suspects had launched 810 charges to 304.
-
-A team of lawyers appeared for the Italian nationals, they claimed to court on behalf of the accused.
-
-The Magistrate said that the accused had taken measured to resolve the case quickly due to the overseers and that the judiciary was able to address the case quickly.
-
-According to the Fauna and Flora Ordinance, the Magistrate said that the two charges filed following the charges regarding safe animals.
-
-Accordingly, the penalties were taken into court to the court, and the Magistrate ordered the accused to pay a sum of Rs.
-
-...
-
-[Data](articles/7030cc41.json)
-
-[Extended Data](ext_articles/7030cc41.ext.json)
 
 ---

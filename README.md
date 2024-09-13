@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 22:57:03**
+As of **2024-09-13 23:09:17**
 
 ## Newspaper Stats
 
-*Scraped **43,776** Articles*
+*Scraped **43,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,141
 tamilmirrorlk | 5,690
 virakesarilk | 6,938
-adaderanasinhalalk | 7,487
+adaderanasinhalalk | 7,488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,776 (100.0%) of 43,776 articles have been extended.
+43,777 (100.0%) of 43,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### There is no connection to assault the seminar - Nalinda
+
+*2024-09-13 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201004) · `si`
+
+National Folk Force denies accusations against Patriotic National Front. Seminar attendee claims assault occurred at National Library. Assailant identified as Meditation Member from Medium Meeting.
+
+🟩
+
+The national folk force says that the accusations of the Patriotic Leader who had been attacked by their party to the celebration in Colombo yesterday say that the Patriotic National Front is denied the accusations.
+
+The Executive Councilor Nalinda Jayatissa says that the attack is not involved in the attack.
+
+During a seminar in the National Library and Documentation Center Auditorium, a conflict occurred during a seminar in the National Library and Document Center Auditorium.
+
+The assailant was carried out by the Meditation Member of the Medium Meeting at a press conference held later.
+
+◼️
+
+[Data](articles/d489cfbf.json)
+
+[Extended Data](ext_articles/d489cfbf.ext.json)
+
+---
 
 ### The vehicles will be imported from October
 
@@ -2349,21 +2373,5 @@ He made these remarks during a public rally held in Ambalantota.
 [Data](articles/5731f763.json)
 
 [Extended Data](ext_articles/5731f763.ext.json)
-
----
-
-### SJB only party to hold those who bankrupted country accountable – Sajith
-
-*2024-09-13 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101934/sjb-only-party-to-hold-those-who-bankrupted-country-accountable-sajith-) · `en`
-
-The presidential candidate of the ‘Samagi Jana Balavegaya’ (SJB), Sajith Premadasa says that the SJB is the only political party that has brought those responsible for bankrupting the country before the law.
-
-He made these remarks while attending a public rally held in Baddegama.
-
-◼️
-
-[Data](articles/58cc4721.json)
-
-[Extended Data](ext_articles/58cc4721.ext.json)
 
 ---

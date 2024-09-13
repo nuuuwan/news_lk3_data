@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 23:09:17**
+As of **2024-09-13 23:22:39**
 
 ## Newspaper Stats
 
-*Scraped **43,777** Articles*
+*Scraped **43,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,675
 dailyftlk | 2,910
 adalk | 4,052
 dailymirrorlk | 4,733
-adaderanalk | 5,141
+adaderanalk | 5,143
 tamilmirrorlk | 5,690
 virakesarilk | 6,938
 adaderanasinhalalk | 7,488
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,777 (100.0%) of 43,777 articles have been extended.
+43,777 (100.0%) of 43,779 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,24 @@ The assailant was carried out by the Meditation Member of the Medium Meeting at 
 [Data](articles/d489cfbf.json)
 
 [Extended Data](ext_articles/d489cfbf.ext.json)
+
+---
+
+### Vehicle import restrictions to be lifted in stages from Oct. 1
+
+*2024-09-13 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101954/vehicle-import-restrictions-to-be-lifted-in-stages-from-oct-1-) · `en`
+
+Sri Lanka’s State Minister of Finance Shehan Semasinghe says that the Cabinet of Minister has decided to allow the import of vehicles under several stages starting from October 01.
+
+He stated that restrictions on importing public transport vehicles will be removed from October 01, 2024 while the restrictions on importing commercial and goods transport vehicles will be lifted from December 01, 2024.
+
+Meanwhile, the restrictions on importing other passenger vehicles, including cars, will be removed from February 01, 2025, the state minister revealed. Earlier today, Foreign Minister Ali Sabry said that the Cabinet decided to lift all vehicle import restrictions by February 2025.
+
+”With the significant improvement in forex reserves and the strength of the rupee, the Cabinet of Ministers has decided to lift all vehicle import ban/restrictions by February 2025,” he said.
+
+...
+
+[Data](articles/9e7b0f26.json)
 
 ---
 
@@ -117,6 +135,24 @@ The proposal to provide a pension and social security benefits to preschool teac
 [Data](articles/b862cba9.json)
 
 [Extended Data](ext_articles/b862cba9.ext.json)
+
+---
+
+### Dilith Jayaweera urges voters to seize ‘golden opportunity’ for change
+
+*2024-09-13 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101953/dilith-jayaweera-urges-voters-to-seize-golden-opportunity-for-change) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera emphasized the importance of the upcoming election to bring about the change that everyone expects and therefore called on the public to make the most of the golden opportunity that has been given.
+
+Addressing a public rally held in Kaduruwela, Jayaweera said: “This election presents a golden opportunity to drive out the rulers who have continuously deceived the people. It’s time to prioritize genuine, transparent leadership.”
+
+He urged the public to make the most of what he described as an “unprecedented time in history” and to work collectively towards the change they have long desired.
+
+“On the night of September 21st, a star will rise over Polonnaruwa,” Jayaweera proclaimed. “But remember, you are the true stars of this country. It is time to reject those who only seek to deceive and exploit you for their gain.”
+
+...
+
+[Data](articles/97be038e.json)
 
 ---
 
@@ -2341,37 +2377,5 @@ Against this backdrop, the Locomotive Directors Engineers Association has said t
 [Data](articles/0aececf1.json)
 
 [Extended Data](ext_articles/0aececf1.ext.json)
-
----
-
-### ‘Protecting farmers and fishermen my only challenge’ – Namal
-
-*2024-09-13 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101936/protecting-farmers-and-fishermen-my-only-challenge-namal) · `en`
-
-The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP), MP Namal Rajapaksa, stated that protecting the country’s farmers and fishermen is his only challenge.
-
-Speaking at a public rally in Vavuniya, he also emphasized that his government would work to resolve the human-elephant conflict.
-
-◼️
-
-[Data](articles/a71d8d1a.json)
-
-[Extended Data](ext_articles/a71d8d1a.ext.json)
-
----
-
-### Anura Kumara assures diesel subsidy for fishermen under NPP govt
-
-*2024-09-13 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101935/anura-kumara-assures-diesel-subsidy-for-fishermen-under-npp-govt) · `en`
-
-The Presidential Candidate of the National People’s Power (NPP), Anura Kumara Dissanayake, stated that under an NPP government, fishermen would receive a diesel subsidy, and fishing gear would be exempted from taxes.
-
-He made these remarks during a public rally held in Ambalantota.
-
-◼️
-
-[Data](articles/5731f763.json)
-
-[Extended Data](ext_articles/5731f763.ext.json)
 
 ---

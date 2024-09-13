@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 18:31:49**
+As of **2024-09-13 18:42:21**
 
 ## Newspaper Stats
 
-*Scraped **43,736** Articles*
+*Scraped **43,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,138
 tamilmirrorlk | 5,688
 virakesarilk | 6,930
-adaderanasinhalalk | 7,478
+adaderanasinhalalk | 7,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,736 (100.0%) of 43,736 articles have been extended.
+43,736 (100.0%) of 43,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### චීනයේ සේවකයින්ගේ විශ්‍රාමික වයස සංශෝධනයට
+
+*2024-09-13 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200995) · `si`
+
+සේවකයින්ගේ විශ්‍රාම වයස ක්‍රමානුකූලව ඉහළ දැමීමට චීනය පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඊට ප්‍රධාන හේතු ලෙස සඳහන් කරන්නේ වයසක ජනගහනය වර්ධනය වීම සහ විශ්‍රාම වැටුප් ගෙවීම සඳහා සිදුවන වැය ඉහළ යාමයි.
+
+ඒ අනුව කම්කරු වෘත්තීන් හි යෙදෙන කාන්තාවන් ගේ විශ්‍රාම වයස අවුරුදු 50 සිට 55 දක්වාත් උසස් රැකියාවල යෙදෙන කාන්තාවන්ගේ විශ්‍රාම යෑමේ වයස අවුරුදු 55 සිට 58 දක්වා වැඩිකර තිබේ.
+
+පිරිමින්ගේ විශ්‍රාම යෑමේ වයස අවුරුදු 60 සිට 63 දක්වා වැඩිකර තිබුණි.
+
+◼️
+
+[Data](articles/1a8c7e39.json)
+
+---
 
 ### SC orders to file contempt charges against Immigration Controller General
 
@@ -2279,19 +2297,5 @@ Amid those developments, the stock market yesterday got off to a good start but 
 [Data](articles/0c8db5b4.json)
 
 [Extended Data](ext_articles/0c8db5b4.ext.json)
-
----
-
-### LOLC Divi Saviya covers 40% of entire school system
-
-*2024-09-13 03:49:00* · [`islandlk`](http://island.lk/lolc-divi-saviya-covers-40-of-entire-school-system/) · `en`
-
-LOLC Divi Saviya has successfully completed Phase 03 of its education initiative, impacting 4,100 schools across Sri Lanka. This milestone achievement extends the program’s reach to 40% of the entire school system endorsing LOLC’s commitment to supporting the educational needs of students nationwide.
-
-...
-
-[Data](articles/ebd8673f.json)
-
-[Extended Data](ext_articles/ebd8673f.ext.json)
 
 ---

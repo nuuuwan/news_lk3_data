@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 03:38:15**
+As of **2024-09-14 03:56:35**
 
 ## Newspaper Stats
 
-*Scraped **43,796** Articles*
+*Scraped **43,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,156 @@ adalk | 4,053
 dailymirrorlk | 4,733
 adaderanalk | 5,143
 tamilmirrorlk | 5,690
-virakesarilk | 6,941
+virakesarilk | 6,946
 adaderanasinhalalk | 7,488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,796 (100.0%) of 43,796 articles have been extended.
+43,801 (100.0%) of 43,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### President Tamil General Candidate Pa. Ariyanethran in Mannar
+
+*2024-09-14 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193638) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Public meeting in Mannar supports Tamil candidate Ariyanethran. Organized by MP Selvam Adakkalanathan. Key speakers include Siddharthan, Suresh Premachandran, Sivasakthi Anandan. Over 1000 attendees. Ariyanethran urges Tamil voters to support Sangam symbol.
+
+🟩
+
+A large public meeting was held at the Mannar city bus station at 4.30 pm on Friday (13).
+
+The general meeting was held in the coordination of former Pradeshiya Sabha member Mohanraj, organized by MP Selvam Adakkalanathan.
+
+The President of Tamil Nadu. The people of Mannar greeted Ariyanethran.
+
+Siddharthan on behalf of the Tamil National General Assembly, APRLF party leader Suresh Premachandran, former MP Sivasakthi Anandan, Tamil National Party leader Senior Attorney Sirikanda, Former Jaffna Mayor Manivannan: PoliticsAnalyst Nilanthan's former militants party representatives and representatives of public organizations addressed the gathering.
+
+At this time, the President of Tamil Nadu, P. Ariyanethran, spoke on why the Tamil people should vote for the Sangam symbol.
+
+Up to a thousand people were present at the meeting.
+
+◼️
+
+[Data](articles/f0106e1a.json)
+
+[Extended Data](ext_articles/f0106e1a.ext.json)
+
+---
+
+### Candidates contesting the presidential election from the South are decorating the campaign platforms with the management of Sinhala and Buddhist nationalism
+
+*2024-09-14 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/193637) · `ta`
+
+Southern presidential candidates emphasize Sinhala Buddhism, ignore Tamil minorities. Election system favors majority rule over minority rights. Candidates reject Tamil destruction, promote Sinhalese nationalism. Tamil homeland faces militarization and repression. Tamil unity candidate emerges to represent Eelam Tamils' interests.
+
+🟩
+
+On behalf of the Priests of the Priests of the North and Eastern Provinces, Arutpani Christopher Jayakumar has said that the candidates who are contesting the presidential election from the South are decorating the campaign platforms with the management of the Sinhala and Buddhist nationalism.
+
+The country is preparing for a presidential election again.
+
+There is no need to underline how confident this is. The fact that this presidential election is being conducted from the frame within the monopoly political system cannot be told.
+
+The fact that the existing democratic system is determined by numbers is subject to common sense.
+
+The president's democratic election, centered on the number of votes, is defined as the influence of the votes of the Eelam Tamil people and other minority ethnic groups.
+
+Candidates contesting the presidential election from the south are decorating the campaign platforms by emphasizing the management of the Sinhala and Buddhist nationalism.
+
+...
+
+[Data](articles/7d97505c.json)
+
+[Extended Data](ext_articles/7d97505c.ext.json)
+
+---
+
+### In the yarns. Accident - Tamil Police Officer Death
+
+*2024-09-14 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/193634) · `ta`
+
+Tamil police officer Kannadasan dies in motorbike accident near Jaffna-Kayts. He was riding with another motorcyclist when struck by a JCP vehicle while traveling from Velanai to Arali junction.
+
+🟩
+
+A Tamil police officer died in an accident on Friday (13) in the Jaffna -Kayts area.
+
+Kannadasan, a police officer from Punguduthivu, who is on duty at the Tellippalai police station, has died.
+
+While traveling from Velanai area to Arali junction, he was traveling on a motorbike with another motorcycle and was killed in a JCP vehicle and died on the spot.
+
+◼️
+
+[Data](articles/1c8118a0.json)
+
+[Extended Data](ext_articles/1c8118a0.ext.json)
+
+---
+
+### The past governments sowed Christmas and sword cultures - Vijayagala public!
+
+*2024-09-14 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/193636) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Past governments promoted Christmas and militarism. People displaced, lost assets. Former minister claims Ranil Wickremesinghe improved economy, opened northern routes, assisted war-affected women. He fasted for land release in 2013. In 2005, he urged Tamils to vote for him to avoid suffering.
+
+🟩
+
+Killed by many people in the final war. The public displaced their own places and lost their assets. The past governments planted Christmas and sword cultures.
+
+Vijayagala Maheshwaran said that in 2005, Ranil will win the votes that the Tamil people did not give to Ranil.
+
+Former Education Minister and Jaffna District Organizer Vijayagala Maheshwaran said while addressing a rally in support of Ranil Wickremesinghe in Chiripuram today.. As he further stated,
+
+History of the people in the streets to buy essential commodities, fuel and gas 2 years ago.
+
+It was during his reign that the current President Ranil Wickremesinghe was the one who changed the situation and brought the economy of the country to a level.
+
+All three lanes to the North were opened and many of the public lands of high security zones were released.
+
+...
+
+[Data](articles/37e088d1.json)
+
+[Extended Data](ext_articles/37e088d1.ext.json)
+
+---
+
+### In the yarns. Petition
+
+*2024-09-14 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193635) · `ta`
+
+Petition filed against Jaffna Police Division's commemoration events. Hearing scheduled for 18th. Key figures summoned: Selvarasa Gajendran and Viswalingam Manivannan.
+
+🟩
+
+Jaffna Police. A petition has been filed in the Magistrate's Court.
+
+The 37th anniversary of the sacrificial fire will be held from the 15th to the 26th of this month.
+
+In the meantime, the Jaffna Magistrate's Court on Friday (13) has filed a petition with the Jaffna Magistrate's Court seeking a ban on commemoration events in the Jaffna Police Division.
+
+The hearing on the petition will be carried out on the 18th and has ordered the appearance of Selvarasa Gajendran and Viswalingam Manivannan, who is named in the petition that day.
+
+◼️
+
+[Data](articles/0a5dec5a.json)
+
+[Extended Data](ext_articles/0a5dec5a.ext.json)
+
+---
 
 ### National Chamber of Exporters urges citizens to vote wisely on 21 Sept.
 
@@ -2233,111 +2371,5 @@ Young man: Power.. Super ... Super.. No Wonder Been President for the The Last T
 [Data](articles/e6ff95b3.json)
 
 [Extended Data](ext_articles/e6ff95b3.ext.json)
-
----
-
-### Supreme Court summons immigration chief over e-Visa issue
-
-*2024-09-13 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101940/supreme-court-summons-immigration-chief-over-e-visa-issue) · `en`
-
-The Supreme Court has directed the Controller General of Immigration and Emigration to appear before the court in person today (13) with regard to his failure to implement the order issued by the court over the electronic visa matter.
-
-The directive was issued by the Supreme Court after considering motions filed over the non-implementation of the interim order issued by the court regarding the issue, Ada Derana reporter said.
-
-On August 02, the Supreme Court issued an interim order suspending the contract given to private consortium IVS-GBS and VFS Global to operate the visa issuance.
-
-The court had issued this order after considering several Fundamental Rights (FR) petitions filed by a group including opposition MPs M.A. Sumanthiran, Rauff Hakeem and Patali Champika Ranawaka.
-
-◼️
-
-[Data](articles/93d7c3bc.json)
-
-[Extended Data](ext_articles/93d7c3bc.ext.json)
-
----
-
-### Police action to arrest singer Mano's two sons
-
-*2024-09-13 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193565) · `ta`
-
-Police arrest singer Mano's sons after brawl near home. Two sons accused of assault, threatening murder. Police search ongoing.
-
-🟩
-
-Police have taken steps to arrest the two sons of the famous South Film Background Singer Mano, who is hiding in a liquor bargain.
-
-Last night, Mano's sons were reportedly drunk with friends in front of their house. It is reported that some of the young men who had been training in the area were eaten at the hotel opposite Mano's house and walked into the house of Mano.
-
-Seeing this, Mano's sons, why do you look at our house?It seems that two young men, along with his friends, attacked. Upon seeing this, the friends who came with them fled. Then the two youths were attacked and attacked.
-
-The victims have filed a complaint with the police, according to three sections, including Mano's sons, Rafiq, Sakir and his friends, including pornography, assault and murder threats.. Police have arrested two of them and are actively searching for three people, including 2 sons of Mano.
-
-...
-
-[Data](articles/8ed16d08.json)
-
-[Extended Data](ext_articles/8ed16d08.ext.json)
-
----
-
-### GCE Advanced Level Examination begins
-
-*2024-09-13 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200977) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Advanced Level Examination starts Nov 25. Both A/L and GCE exams begin simultaneously."
-
-🟩
-
-The A / L examination will commence on November 25, the GCE Advanced Level Examination will commence on November 25.
-
-◼️
-
-[Data](articles/90249445.json)
-
-[Extended Data](ext_articles/90249445.ext.json)
-
----
-
-### Court order to the Controller of Immigration and Emigration
-
-*2024-09-13 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200976) · `si`
-
-Court orders Controller of Immigration to appear today regarding electric visa motion. Supreme Court considered fundamental rights petitions.
-
-🟩
-
-The Controller of Immigration and Emigration has ordered to appear before the court today (13).
-
-The court issued the order after considering a motion filed by the Supreme Court's interim order on electric visa.
-
-MA. After considering the fundamental rights petitions, Sumanthiran, Rauff Hakim and Patali Champika Ranawaka presented the Supreme Court recently declared.
-
-◼️
-
-[Data](articles/6fa2bedb.json)
-
-[Extended Data](ext_articles/6fa2bedb.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-09-13 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/193568) · `ta`
-
-US dollar to Rupee exchange rate: 296.4599 buying, 305.7780 selling. Released by Central Bank on Friday, 13th.
-
-🟩
-
-The US dollar purchasing price was 296.4599 rupees and the sales price were Rs 305.7780 based on a currency exchange rate released by the Central Bank on Friday (13).
-
-◼️
-
-[Data](articles/0ae9960c.json)
-
-[Extended Data](ext_articles/0ae9960c.ext.json)
 
 ---

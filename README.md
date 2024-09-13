@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 09:57:11**
+As of **2024-09-13 10:10:20**
 
 ## Newspaper Stats
 
-*Scraped **43,660** Articles*
+*Scraped **43,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 429
 islandlk | 2,554
 economynextcom | 2,660
 dailyftlk | 2,910
-adalk | 4,042
+adalk | 4,043
 dailymirrorlk | 4,733
 adaderanalk | 5,121
-tamilmirrorlk | 5,682
+tamilmirrorlk | 5,683
 virakesarilk | 6,913
 adaderanasinhalalk | 7,454
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 7,454
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,572 (99.8%) of 43,660 articles have been extended.
+43,576 (99.8%) of 43,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### The decision is only after the election;Imf
+
+*2024-09-13 09:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலின்-பின்னரே-முடிவு-IMF/175-343712) · `ta`
+
+IMF review delayed until post-elections in Sri Lanka. New government may influence decisions. Recovery efforts continue despite progress. Protecting gains crucial.
+
+🟩
+
+International Monetary Fund spokesman Julie Kozack said the third review of the extended financial facility on Sri Lanka would take place only after the upcoming elections.
+
+On the basis of the new government or the people's wishes, we will hold a program of programs.
+
+However, it is an important step to achieve the objectives of programs to provide Sri Lanka's opportunity to recover from the worst crisis.
+
+Julie Kozak said the country has not yet recovered from the crisis despite many improvements in Sri Lanka.
+
+He also stressed that it is important to protect the hard -winning victories. Remble
+
+◼️
+
+[Data](articles/d4336844.json)
+
+[Extended Data](ext_articles/d4336844.ext.json)
+
+---
 
 ### Candidates’ representatives allowed to escort ballot boxes to counting centers
 
@@ -51,6 +77,8 @@ A vehicle license for this purpose can be obtained from the Senior Polling Offic
 ...
 
 [Data](articles/e176fd94.json)
+
+[Extended Data](ext_articles/e176fd94.ext.json)
 
 ---
 
@@ -1500,6 +1528,28 @@ He added that the media should avoid publishing unofficial results.
 
 ---
 
+### Revenue tax on the Inland Revenue Department
+
+*2024-09-12 18:42:37* · [`adalk`](https://www.ada.lk/breaking_news/දේශීය-ආදායම්-දෙපාර්තමේන්තුවෙන්-වාර්තාගත-බදු-අදායමක්/11-411924) · `si`
+
+Inland Revenue Department reported 8-month revenue: Rs. 1,122.9 billion. This represents a 28.5% increase over the same period in 2023. Growth attributed to improved tax policies, efficiency, and taxpayer cooperation.
+
+🟩
+
+The Inland Revenue Department for eight months from January to August was Rs. 1 billion 1 2229 billion. The Department said that a tax revenue of 2 has been earned.
+
+It is a 28.5 per cent of the corresponding period last year. The tax revenue was Rs. 956.4 billion in the corresponding period of 2023.
+
+The tax revenue growth is due to the growth of the tax policies, efficiency and taxpayers of the tax administration.
+
+◼️
+
+[Data](articles/e0fd0539.json)
+
+[Extended Data](ext_articles/e0fd0539.ext.json)
+
+---
+
 ### Sri Lanka’s DFCC green bond issue oversubscribed
 
 *2024-09-12 18:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-green-bond-issue-oversubscribed-179463/) · `en`
@@ -2235,47 +2285,5 @@ The filing of nominations for the Elpitiya Local Government election began on th
 [Data](articles/ef305fd1.json)
 
 [Extended Data](ext_articles/ef305fd1.ext.json)
-
----
-
-### ‘Where were Sajith and Anura while farmers suffered without fertilizer?’ – Ranil
-
-*2024-09-12 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101920/where-were-sajith-and-anura-while-farmers-suffered-without-fertilizer-ranil) · `en`
-
-President Ranil Wickremesinghe has slammed the sudden promises from presidential candidates Sajith Premadasa and Anura Kumara Dissanayake about reducing fertilizer prices and cutting farmers’ loans, questioning as to where they were when farmers were struggling without access to fertilizers.
-
-The President highlighted that his efforts, including discussions with world leaders to secure fertilizer subsidies, were instrumental in getting farmers back to their fields and boosting rice production in the country.
-
-“Today, promises are being made to lower fertilizer prices and erase farmers’ debts. Yet, when farmers were in urgent need of fertilizer, those promises were not fulfilled. I ask Sajith and Anura, where were you then?”
-
-“I have worked to stabilize the country’s economy through tough and often unpopular decisions. I reopened businesses that had closed, and now we have achieved economic stability,” he said.
-
-...
-
-[Data](articles/95df491d.json)
-
-[Extended Data](ext_articles/95df491d.ext.json)
-
----
-
-### Elpitiya Pradeshiya Sabha election on October 26
-
-*2024-09-12 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193506) · `ta`
-
-Elpitiya Pradeshiya Sabha election: Oct 26, 9 parties + 2 independents nominated. Deadline met at noon.
-
-🟩
-
-Elections for the Elpitiya Pradeshiya Sabha will be held on October 26, Galle District Election Officer said.
-
-The deadline for handing over the nominations for the Elpitiya Pradeshiya Sabha was completed at 12 noon today (12).
-
-Accordingly, a total of 09 registered political parties and 02 independent groups had handed over nominations.
-
-◼️
-
-[Data](articles/2ba90dbd.json)
-
-[Extended Data](ext_articles/2ba90dbd.ext.json)
 
 ---

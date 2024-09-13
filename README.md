@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 19:56:29**
+As of **2024-09-13 20:09:17**
 
 ## Newspaper Stats
 
-*Scraped **43,756** Articles*
+*Scraped **43,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,675
 dailyftlk | 2,910
 adalk | 4,050
 dailymirrorlk | 4,733
-adaderanalk | 5,139
+adaderanalk | 5,140
 tamilmirrorlk | 5,688
 virakesarilk | 6,930
 adaderanasinhalalk | 7,481
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,481
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,756 (100.0%) of 43,756 articles have been extended.
+43,756 (100.0%) of 43,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### IMF to move forward with Sri Lanka program discussions after presidential poll
+
+*2024-09-13 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101951/imf-to-move-forward-with-sri-lanka-program-discussions-after-presidential-poll) · `en`
+
+The International Monetary Fund (IMF) says that the timing of Sri Lanka’s Third Review under the Extended Fund Facility will be discussed with the government following the elections and that they will move forward with program discussions after the country’s presidential election.
+
+Responding to questions during the weekly press briefing, the Director of the IMF’s Communications Department, Julie Kozack stated that the IMF Executive Board completed the 2024 Article IV Consultation and the Second Review of the EFF program on June 12, 2024.
+
+She stated that this provided the country with access of about $336 million U.S. dollars. ”Program performance remains strong. Reform efforts are bearing fruit. Economic growth is starting to revive. Inflation is coming down. Reserves, international reserves are increasing, and revenue mobilization is improving.”
+
+Nonetheless, she stated that important vulnerabilities do remain, and that sustaining reform momentum is going to be essential.
+
+...
+
+[Data](articles/0eac3451.json)
+
+---
 
 ### The import of vehicles from 1st October
 
@@ -2339,31 +2357,5 @@ In this case, the Election Commission has issued an explanation for alleviating 
 [Data](articles/d0e4a9f8.json)
 
 [Extended Data](ext_articles/d0e4a9f8.ext.json)
-
----
-
-### Showers in many areas today
-
-*2024-09-13 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200962) · `si`
-
-Weather alert: Showers/thundershowers expected in Kandy, Nuwara Eliya, Western, North Western, Galle, Matara, Ampara, Batticaloa districts. Strong winds possible. Public advised to prepare for potential damage from lightning and gusts.
-
-🟩
-
-Showers or thundershowers will occur at times in the Kandy and Nuwara Elamuwa districts today (13).
-
-Showers may occur in the Western and North Western Provinces and in the Galle and Matara districts.
-
-Showers or thundershowers will occur at the same time or night in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-Western, North Central and North Western Provinces and Trincomalee districts, Hambantota, North Central and North Western Provinces, North Central and North Western Provinces.. 40-45) can also cause strong winds.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/1a973755.json)
-
-[Extended Data](ext_articles/1a973755.ext.json)
 
 ---

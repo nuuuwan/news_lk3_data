@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 08:57:09**
+As of **2024-09-13 09:09:13**
 
 ## Newspaper Stats
 
-*Scraped **43,656** Articles*
+*Scraped **43,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ colombotelegraphcom | 429
 islandlk | 2,554
 economynextcom | 2,660
 dailyftlk | 2,910
-adalk | 4,041
+adalk | 4,042
 dailymirrorlk | 4,733
-adaderanalk | 5,119
+adaderanalk | 5,120
 tamilmirrorlk | 5,682
-virakesarilk | 6,912
+virakesarilk | 6,913
 adaderanasinhalalk | 7,454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,556 (99.8%) of 43,656 articles have been extended.
+43,561 (99.8%) of 43,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Trump: No more debates with Kamala Harris
+
+*2024-09-13 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101930/trump-no-more-debates-with-kamala-harris) · `en`
+
+Republican nominee Donald Trump said on Thursday he would not participate in another presidential debate against Kamala Harris ahead of the Nov. 5 election, after several polls showed his Democratic rival won their debate earlier this week.
+
+“THERE WILL BE NO THIRD DEBATE!” the former president wrote on social media site Truth Social. Trump had participated in a debate against President Joe Biden in June before his debate against Harris on Tuesday.
+
+Although Trump touted his performance on Tuesday against Harris, six Republican donors and three Trump advisers who spoke to Reuters earlier this week said they thought Harris had won the debate largely because Trump was unable to stay on message.
+
+The debate attracted 67.1 million television viewers, according to Nielsen data.
+
+Harris, speaking at a rally shortly after Trump’s post went live, said: “I believe we owe it to the voters to have another debate.”
+
+...
+
+[Data](articles/8af3e7c5.json)
+
+[Extended Data](ext_articles/8af3e7c5.ext.json)
+
+---
 
 ### I didn't take the country no one to take a half - Ranil
 
@@ -237,6 +259,26 @@ The executive policy of executive manager, Executive Member of Parliament, said 
 [Data](articles/b7dd5e12.json)
 
 [Extended Data](ext_articles/b7dd5e12.ext.json)
+
+---
+
+### Will the ballots be replaced?- Elections Commission clarifies!
+
+*2024-09-13 06:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/193540) · `ta`
+
+Election Commission clarifies: Ballots won't be changed after referendum. Polling station boxes will remain unchanged. Politicians informed about no ballot box elimination. Commission issues statement to alleviate concerns about ballot changes.
+
+🟩
+
+At the end of the referendum, the ballot boxed by the ballot boxes that the ballot boxed from the polling station will be brought to the hall without any change, the politicians and candidates have been informed that there is no such thing as a move to eliminate the voting box.The Commission said.
+
+In this case, the Election Commission has issued an explanation for alleviating the prejudices of changing the ballot boxes.
+
+◼️
+
+[Data](articles/d0e4a9f8.json)
+
+[Extended Data](ext_articles/d0e4a9f8.ext.json)
 
 ---
 
@@ -1458,6 +1500,32 @@ Proceeds from the bond issuance will be used to finance eligible green projects 
 
 ---
 
+### Gnanasara Thero suspected of a housing complex
+
+*2024-09-12 18:29:47* · [`adalk`](https://www.ada.lk/breaking_news/නිවාස-සංකීර්ණයක-නිවසක-බලෙන්-සිටි-ඥානසාර-හිමියන්ට-ඉවත්-වෙන්න-නියෝග/11-411923) · `si`
+
+Gnanasara Thero housing complex case: Magistrate sentences 3 million rupees. Property ownership dispute. Complaint filed under Article 66 of Primary Procedure Technology Act. Respondents accused of forcibly acquiring land.
+
+🟩
+
+Colombo Additional Magistrate Pasan Amarasena was sentenced to three million rupees for the Bodu Bala Sena Chairman Gnagoda Athththa Gnanasara ownership to the property owner of Rs.Did.
+
+The magistrate was declared that the case was filed by the Attorney evening evening, claiming that the case was filed by the Attorney evening evening, the lawyer evening appointment by Mrs. Attorney Evening Pushled by Galagodaatte Gnanasara.
+
+The Magistrate, who was present at the 'Falcon Gnanasala Thera and the police investigations revealed that he was revealed in accordance with the inspection and the information of police investigations.
+
+The complaint was filed by the complaints that were assigned by Mrs. Ekala, Galagodaatte Gnanasara, a manager of the Ayvastern and Housing Complex were named as respondents.
+
+The complaint was lodged by the Attorneys Chapter 6, 1979 under Article 66 of the Primary Procedure Technology Act No. 44 of 1979.
+
+...
+
+[Data](articles/cb3f4e3d.json)
+
+[Extended Data](ext_articles/cb3f4e3d.ext.json)
+
+---
+
 ### Will the 51/1 resolution on Sri Lanka be time for two more years?- The resolution will be reached on October 7
 
 *2024-09-12 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193533) · `ta`
@@ -2225,65 +2293,5 @@ The search for them began yesterday Wednesday. As of Thursday morning, 53 people
 [Data](articles/2ebe5e5f.json)
 
 [Extended Data](ext_articles/2ebe5e5f.ext.json)
-
----
-
-### Namal Rajapaksa's campaign meeting held in Jaffna
-
-*2024-09-12 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193497) · `ta`
-
-Namal Rajapaksa's campaign meeting in Jaffna: Supporters welcomed him at Weerasingham Hall. Attended by local PA officials and supporters from across the country.
-
-🟩
-
-The election campaign at the Weerasingham Hall in Jaffna has begun in support of Namal Rajapaksa, who is the presidential candidate on behalf of the Sri Lanka PA.
-
-At the beginning of the event, campaign events began as Namal Rajapaksa was given a great welcome by PA's supporters.
-
-The campaign was attended by the Jaffna district organizer of the PA and the organizers, supporters and the public from other parts of the country.
-
-◼️
-
-[Data](articles/bdc6f02b.json)
-
-[Extended Data](ext_articles/bdc6f02b.ext.json)
-
----
-
-### J’pura University temporarily closed
-
-*2024-09-12 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101919/jpura-university-temporarily-closed) · `en`
-
-The University of Sri Jayawardenepura will be temporarily closed from 6.00 pm today following a clash between two groups, the university administration announced.
-
-Therefore, all students have been instructed to vacate the university premises by 6.00 pm today (12).
-
-The university administration has so far not provided any information related to the parties that were involved in the clash or the reopening date of the university.
-
-◼️
-
-[Data](articles/4ce5425d.json)
-
-[Extended Data](ext_articles/4ce5425d.ext.json)
-
----
-
-### J'pura University temporarily closed due to a clash
-
-*2024-09-12 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200948) · `si`
-
-Sri Jayewardenepura University temporarily closed due to group conflict. Administration ordered to vacate premises by 6:00 PM today.
-
-🟩
-
-The University of Sri Jayewardenepura has been temporarily closed due to a clash between two groups.
-
-Its administration is notified to remove the university premises at 6.00 pm today.
-
-◼️
-
-[Data](articles/73c5dd87.json)
-
-[Extended Data](ext_articles/73c5dd87.ext.json)
 
 ---

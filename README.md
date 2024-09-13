@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 10:10:20**
+As of **2024-09-13 10:22:32**
 
 ## Newspaper Stats
 
-*Scraped **43,662** Articles*
+*Scraped **43,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,660
 dailyftlk | 2,910
 adalk | 4,043
 dailymirrorlk | 4,733
-adaderanalk | 5,121
+adaderanalk | 5,124
 tamilmirrorlk | 5,683
 virakesarilk | 6,913
 adaderanasinhalalk | 7,454
@@ -26,11 +26,43 @@ adaderanasinhalalk | 7,454
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,576 (99.8%) of 43,662 articles have been extended.
+43,581 (99.8%) of 43,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Anura Kumara assures diesel subsidy for fishermen under NPP govt
+
+*2024-09-13 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101935/anura-kumara-assures-diesel-subsidy-for-fishermen-under-npp-govt) · `en`
+
+The Presidential Candidate of the National People’s Power (NPP), Anura Kumara Dissanayake, stated that under an NPP government, fishermen would receive a diesel subsidy, and fishing gear would be exempted from taxes.
+
+He made these remarks during a public rally held in Ambalantota.
+
+◼️
+
+[Data](articles/5731f763.json)
+
+[Extended Data](ext_articles/5731f763.ext.json)
+
+---
+
+### SJB only party to hold those who bankrupted country accountable – Sajith
+
+*2024-09-13 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101934/sjb-only-party-to-hold-those-who-bankrupted-country-accountable-sajith-) · `en`
+
+The presidential candidate of the ‘Samagi Jana Balavegaya’ (SJB), Sajith Premadasa says that the SJB is the only political party that has brought those responsible for bankrupting the country before the law.
+
+He made these remarks while attending a public rally held in Baddegama.
+
+◼️
+
+[Data](articles/58cc4721.json)
+
+[Extended Data](ext_articles/58cc4721.ext.json)
+
+---
 
 ### The decision is only after the election;Imf
 
@@ -55,6 +87,24 @@ He also stressed that it is important to protect the hard -winning victories. Re
 [Data](articles/d4336844.json)
 
 [Extended Data](ext_articles/d4336844.ext.json)
+
+---
+
+### Dilith’s strategic plan essential to rebuild bankrupt nation - Gamini Waleboda
+
+*2024-09-13 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101933/diliths-strategic-plan-essential-to-rebuild-bankrupt-nation-gamini-waleboda) · `en`
+
+Member of Parliament Gamini Waleboda has stated that the national strategic plan presented by the presidential candidate of the ‘Sarvajana Balaya’ alliance, Dilith Jayaweera is essential to rebuild the bankrupt country.
+
+‘Sarvajana Balaya’ Executive Member MP Waleboda added that around 35% of voters have not yet decided as to which candidate they should vote for.
+
+“35% of the voters have not yet decided who they will vote for. Therefore, we say that if you want to rebuild the bankrupt state, support the National Strategic Plan presented by our candidate,” he said.
+
+◼️
+
+[Data](articles/4e2175ec.json)
+
+[Extended Data](ext_articles/4e2175ec.ext.json)
 
 ---
 
@@ -2207,83 +2257,5 @@ Accordingly, the administration has announced that all students will leave the u
 [Data](articles/8e95705e.json)
 
 [Extended Data](ext_articles/8e95705e.ext.json)
-
----
-
-### Vadivelu - Sundar C Alliance
-
-*2024-09-12 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193507) · `ta`
-
-Vadivelu joins Sundar C's "Gangers" film. Crew releases first look. Starring Katherine Teresa, Maim Gopi. Produced by Khushboo. Directed by Sundar C. Fans excited about Vadivelu's new look and Sundar C's performance.
-
-🟩
-
-Vaikaippul Vadivelu has joined the new film 'Gangers' directed by director and actor Sundar C.
-
-The film crew has made the official announcement of the film by releasing the first look of the film.
-
-Directed by director Sundar C, directed by director Sundar C, 'Gangers' has starred in Sundar C, Vadivelu, Katherine Teresa, Maim Gopi, Bhagwati Perumal, Harish Peradi, Aruldas, Muniskant, Vichu Viswanath.
-
-Khushboo is producing the film on behalf of Avni Cine Max Private Limited.
-
-The film is being delivered by ACS Arun Kumar on behalf of Benz Media Limited.
-
-Vaigai Storm Vadivelu's different appearance and Sundar C's roar have attracted a lot of fans.
-
-◼️
-
-[Data](articles/61c21610.json)
-
-[Extended Data](ext_articles/61c21610.ext.json)
-
----
-
-### Sri Lanka to arrive in Sri Lanka
-
-*2024-09-12 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200949) · `si`
-
-Sri Lanka cricket team arrives in England for 3-test series. Led by Dhananjaya de Silva, they won one match but lost others due to shortcomings. Team aims to perform better in upcoming New Zealand tour.
-
-🟩
-
-Dhananjaya De Silva, led by Dhananjaya de Silva, arrived in England to a tour of England for a 3-match Test series.
-
-Sri Lanka had to defeat 2-1-1 in this tournament.
-
-However, the only victory for Sri Lanka is the first Test to receive England after 10 years.
-
-Leader Dananjaya de Silva said that he was deprived of victories due to several shortcomings in the first two matches.
-
-But his team was able to finish the tournament well.
-
-Dhananin said that the coming New Zealand competition commented that the tournament was looking forward to playing well.
-
-A group of SLC officials were also present at the Katunayake airport to welcome the Sri Lankan team.
-
-◼️
-
-[Data](articles/8dc41d1d.json)
-
-[Extended Data](ext_articles/8dc41d1d.ext.json)
-
----
-
-### Notification for Election Date for Elpitiya
-
-*2024-09-12 15:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டியவுக்கான-தேர்தல்-திகதி-அறிவிப்பு/175-343674) · `ta`
-
-Elpitiya local election: Nominations filed from 9th to 12th. Second generation party submits, but People's Congress does not participate.
-
-🟩
-
-The filing of nominations for the Elpitiya Local Government election began on the 9th and ended on Thursday (12) at 12 noon.
-
-௯. It is noteworthy that the second generation party has submitted its nominations and the People's Congress, which has been controlled, did not submit its nomination.
-
-◼️
-
-[Data](articles/ef305fd1.json)
-
-[Extended Data](ext_articles/ef305fd1.ext.json)
 
 ---

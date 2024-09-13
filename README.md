@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 01:56:49**
+As of **2024-09-14 02:07:50**
 
 ## Newspaper Stats
 
-*Scraped **43,793** Articles*
+*Scraped **43,796** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 426
-colombotelegraphcom | 429
+colombotelegraphcom | 432
 islandlk | 2,557
 economynextcom | 2,675
 dailyftlk | 2,920
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,789 (100.0%) of 43,793 articles have been extended.
+43,792 (100.0%) of 43,796 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -112,6 +112,8 @@ Sri Lanka’s presidential election system is a unique one. It seems to be a com
 
 [Data](articles/3142b318.json)
 
+[Extended Data](ext_articles/3142b318.ext.json)
+
 ---
 
 ### Yes, future of SL and its people was in our hands to shape for as long as 75 years
@@ -130,6 +132,8 @@ It is unwise, insensitive and indeed incomplete to say, as some say rather dismi
 
 [Data](articles/d6cc23b6.json)
 
+[Extended Data](ext_articles/d6cc23b6.ext.json)
+
 ---
 
 ### Far horizons
@@ -145,6 +149,8 @@ Of all the extra-parliamentary convulsions that have happened all too regularly 
 ...
 
 [Data](articles/363eecf0.json)
+
+[Extended Data](ext_articles/363eecf0.ext.json)
 
 ---
 
@@ -666,6 +672,20 @@ He was speaking at the time, Mr. Dilith Jayaweera said that the people were driv
 
 ---
 
+### The Incident & Issues Of Academic Freedom: Sri Lankan High Commission’s Involvement & The Implication Of The Indian MEA
+
+*2024-09-13 20:10:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-incident-issues-of-academic-freedom-sri-lankan-high-commissions-involvement-the-implication-of-the-indian-mea/) · `en`
+
+Silence And Choreographed Timidity at South Asian University: Interview of Sasanka Perera by Anushka Kahandagamage and Kaushalya Kumarasinghe.
+
+[Sri Lankan academic Sasanka Perera, left the South Asian University on 31 July 2024 which he had helped establish as a SAARC institution. His leaving was consequent to a targeted attack against him as the only Sri Lankan scholar in the university and one of handful of non-Indian teachers in a heavily Indian dominated space. Perera’s leaving and the widespread global coverage it received is significant black mark against academic freedom in India in general. It also marks the steady Indianization of the South Asian University which was meant to be a place of teaching and reflection for all South Asians. In this wide ranging interview, two former South Asian University students, Anushka Kahandagamage based in New Zealand and Kaushalya Kumarasinghe based in Sri Lanka speak to Perera at length about the incidents itself and its circumstances.]
+
+...
+
+[Data](articles/c19439e0.json)
+
+---
+
 ### Schoolgirl in the ICU more than a month
 
 *2024-09-13 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200998) · `si`
@@ -689,6 +709,18 @@ The Magistrate ordered the suspect teachers of Rs. 300,000 to treat the student.
 [Data](articles/4bcde3c9.json)
 
 [Extended Data](ext_articles/4bcde3c9.ext.json)
+
+---
+
+### Public Resource Misuse Sparks Over 750 Complaints To TISL
+
+*2024-09-13 19:58:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/public-resource-misuse-sparks-over-750-complaints-to-tisl/) · `en`
+
+Transparency International Sri Lanka (TISL) has received 758 complaints concerning the misuse of public resources for election campaigning as of September 11, 2024. The largest category of complaints—343 in total—pertains to the misuse of public premises. These include the misuse of public grounds, government offices, buildings, and schools etc. for election campaigns. Complaints detail instances where such premises were used without paying the required fees, were reserved for one candidate or political party for extended periods or were adorned with posters and cutouts in violation of election laws.
+
+...
+
+[Data](articles/15af3327.json)
 
 ---
 
@@ -2301,47 +2333,5 @@ The US dollar purchasing price was 296.4599 rupees and the sales price were Rs 3
 [Data](articles/0ae9960c.json)
 
 [Extended Data](ext_articles/0ae9960c.ext.json)
-
----
-
-### Action against Ranil?
-
-*2024-09-13 12:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-எதிராக-நடவடிக்கை/175-343715) · `ta`
-
-Ranil Wickremesinghe, independent presidential candidate, accused of organizing campaign event. Election officials seized items meant for police banquet.
-
-🟩
-
-Independent candidate President Ranil Wickremesinghe has reportedly organized a party to promote his election campaign, the Election Monitoring Center said.
-
-It is noteworthy that the election officials who seized it had been distributed to the police officers as they prepared a banquet for those attending the meeting held in the hill country earlier.. Remble
-
-◼️
-
-[Data](articles/509ba6b8.json)
-
-[Extended Data](ext_articles/509ba6b8.ext.json)
-
----
-
-### The mobile phone is not allowed inside the polling station!
-
-*2024-09-13 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193560) · `ta`
-
-Mobile phones prohibited in polling stations: Election Commission Chairman bans candidates and voters from bringing devices into voting areas during presidential election. Candidates allowed to photograph/video but cannot publish or advertise after 4 PM on voting day. Postal vote restrictions also enforced.
-
-🟩
-
-Elections Commission Chairman RM RM says the presidential candidates and voters are not allowed to take the mobile phone into the voting station during the upcoming presidential election.. AL Ratnayake said yesterday (12).
-
-He said that although the presidential candidates were allowed to photograph and video, they were banned from publishing and advertising at 4.00 pm on the day of voting day.
-
-Ratnayake said that the matters that have taken place over the past few days are serious by allowing them to use the mobile phone during the postal vote, and that it is illegal to announce who we are going to vote.
-
-◼️
-
-[Data](articles/93dbb71a.json)
-
-[Extended Data](ext_articles/93dbb71a.ext.json)
 
 ---

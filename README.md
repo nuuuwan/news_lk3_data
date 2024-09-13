@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 14:10:35**
+As of **2024-09-13 14:22:38**
 
 ## Newspaper Stats
 
-*Scraped **43,697** Articles*
+*Scraped **43,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 2,662
 dailyftlk | 2,910
 adalk | 4,047
 dailymirrorlk | 4,733
-adaderanalk | 5,130
+adaderanalk | 5,132
 tamilmirrorlk | 5,685
 virakesarilk | 6,921
-adaderanasinhalalk | 7,463
+adaderanasinhalalk | 7,465
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,668 (99.9%) of 43,697 articles have been extended.
+43,671 (99.9%) of 43,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### ශිෂ්‍යත්ව විභාගය ගැන උපදෙස් මාලාවක්
+
+*2024-09-13 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200981) · `si`
+
+5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගය එළබෙන 15 වැනි ඉරු දින පැවැත්වීමට මේ වනවිට සියලු කටයුතු සූදානම් කර ඇති බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසීය.
+
+අද (13) කොළඹදී පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඒ මහතා වැඩිදුරටත් පවසා සිටියේ, මේ වෙනකොට විභාගය පැවැත්වීම සඳහා සියල්ල සූදානම් බවය.
+
+එමෙන්ම ප්‍රශ්න පත්‍ර ඊයේ (12) මධ්‍යම රාත්‍රියේ සිට ලංකාව පුරා පිහිටි සම්බන්ධීකරණ මධ්‍යස්ථානවලට මේ වනවිට නිකුත් කරමින් පවතින බවද හෙතෙම පැවසීය.
+
+මෙවර ශිෂ්‍යත්ව විභාගය සඳහා අයදුම්කරුවන් 323,879ක් සුදුසුකම් ලබා සිටින අතර, ඔවුන් දිවයින පුරා විභාග මධ්‍යස්ථාන 2,849කදී විභාගයට පෙනී සිටීමට නියමිතය.
+
+තවද විශේෂ අවශ්‍යතා ඇති දරුවන්ට විභාග මධ්‍යස්ථාන 7කදී සහ මහරගම අපේක්ෂා රෝහලේ නේවාසිකව ප්‍රතිකාර ගන්නා දරුවන්ට එහි සිට විභාගයට මුහුණදීම සඳහා ද විභාග මධ්‍යස්ථානයක් ස්ථාපිත කර ඇත.
+
+කොටස් දෙකකින් යුත් ශිෂ්‍යත්ව විභාගයේ පළමුව දෙවැනි පත්‍රය පැවැත්වෙන අතර, එය පෙ.ව. 9.30 සිට 10.45 දක්වා පැවැත්වේ. ඉන් අනතුරුව පෙ.ව. 11.15ට පැයක කාලයක් පැවැත්වෙන පළමු පත්‍රය ආරම්භ වේ.
+
+...
+
+[Data](articles/adec25dd.json)
+
+---
+
+### New Chief of Staff of Sri Lanka Army appointed
+
+*2024-09-13 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101943/new-chief-of-staff-of-sri-lanka-army-appointed) · `en`
+
+Major General Dinesh Nanayakkara of the Sri Lanka Sinha Regiment has been appointed as the new Chief of Staff of the Sri Lanka Army (SLA).
+
+He has been appointed to the position by the Commander of the Army, effective from September 16, 2024.
+
+◼️
+
+[Data](articles/e2dc8f28.json)
+
+---
+
+### මට අවශ්‍ය පෙරළියක් - රනිල්
+
+*2024-09-13 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200980) · `si`
+
+අසීරු අවස්ථාවේදී රට භාරගැනීම ප්‍රතික්ෂේප කළ අය, ඉටු කළ නොහැකි පොරොන්දු ජනතාවට ලබාදෙමින් සිටින බව ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ, කොළඹ පැවැති "පුළුවන් පෙරළිය" වැඩසටහන අමතමිනි.
+
+එළැඹෙන ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාගේ ජය තහවුරු කිරීම සඳහා සංවිධානය කෙරුණු 'පුළුවන් පෙරළිය' වැඩසටහන ඊයේ (12) කොළඹදී පැවැත්වුණි.
+
+"අපේ සිස්ටම් එක කඩා වැටිලා... රජය භාරගන්න කවුරුත් හිටියේ නැහැ. මොකක්ද ඒකෙන් තේරුම් යන්නේ ?.. නායකයින්ට ඔබේ අනාගතය ගැන වගකීමක් භාරගන්න පැවැති නොහැකියාව. සජිත් ප්‍රේමදාස මහත්තයා ඔහු ලබාදෙන දේ දිනපතා වෙනස් කරනවා. මෙච්චර කල් ඔහු නිකං දෙන්න පොරොන්දු වුණේ නැත්තේ හිසරදය විතරයි. ළගදීම ඔහු එයත් පිරිනමයි. ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය... ඔවුන් දන්නේ නැහැ."
+
+...
+
+[Data](articles/8369d5ec.json)
+
+---
+
+### Indian arrested at BIA for smuggling medicine worth Rs. 2.5 million
+
+*2024-09-13 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101942/indian-arrested-at-bia-for-smuggling-medicine-worth-rs-25-million) · `en`
+
+An Indian national has been arrested for illegally smuggling a stock of medicinal drugs including cancer medication into Sri Lanka.
+
+The arrest was made by Sri Lanka Customs officers at the Bandaranaike International Airport (BIA) following the suspect’s arrival from Bangalore, India.
+
+He is reported to have smuggled drugs worth approximately Rs. 2.5 million into Sri Lanka. Meanwhile, it has been revealed that the suspect has been involved in smuggling medicines in his luggage and selling them to private pharmacies and hospitals across the country.
+
+The smuggled drugs reportedly include vials of medications for prostate cancer patients and drugs used to improve women’s fertility.
+
+◼️
+
+[Data](articles/7cd3561f.json)
+
+---
 
 ### The only candidate of the people is the only candidate for the people - weakumya
 
@@ -2141,97 +2213,5 @@ The chief suspect of the Colombo Chief Magistrate's Court of Criminal Instead of
 [Data](articles/dd3c2e79.json)
 
 [Extended Data](ext_articles/dd3c2e79.ext.json)
-
----
-
-### Support for Sajith - officially notice
-
-*2024-09-12 19:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துக்கே-ஆதரவு-உத்தியோகபூர்வமாக-அறிவிப்பு/175-343684) · `ta`
-
-SLFP reaffirms support for Sajith Premadasa as UPFA presidential candidate. No changes in stance. Statement from SLTNA General Secretary.
-
-🟩
-
-The SLFP has officially announced that there are no changes in the decision to support the presidential candidate of the United People's Alliance Sajith Premadasa in the presidential election.
-
-The General Secretary of the Sri Lanka TNA said this in a statement. Remble
-
-◼️
-
-[Data](articles/eeff275c.json)
-
-[Extended Data](ext_articles/eeff275c.ext.json)
-
----
-
-### "I have a visa for 10 years in any country"
-
-*2024-09-12 19:10:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்த-நாட்டிலும்-10-வருடங்கள்-வாழ-எனக்கு-விசா-உள்ளது/175-343682) · `ta`
-
-Sri Lanka Public Security Minister Trin Ales claims 10-year visa allows travel without additional visas post-presidential election. Denies knowledge of special exit visas for ministers. Opposition member questions validity of claim.
-
-🟩
-
-Public Security Minister Trin Ales said he had a visa for ten years in any country and there was no need to get a visa to leave the country after the presidential election.
-
-Speaking to the media at the Sri Dalada House in Kandy yesterday (11), he said he was not aware of the visa for any minister to leave the country and that no one had to escape after the presidential election.
-
-Responding to a question raised by journalists that 80 ministers had received a visa after the presidential election, he said that although a Member of the Opposition, said that this may be a baseless statement, as everyone said during the election campaigns.
-
-◼️
-
-[Data](articles/65a6a8d0.json)
-
-[Extended Data](ext_articles/65a6a8d0.ext.json)
-
----
-
-### Who supports the Sri Lankan Tamil party?- P. Sathiyalingam
-
-*2024-09-12 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193534) · `ta`
-
-Sri Lankan Tamil party supports Sajith Premadasa for 2024 presidency. Party's Election Committee to meet on 16th to discuss implementation and review stance publicly.
-
-🟩
-
-The decision to support Sajith Premadasa in the upcoming presidential election has no change in the resolution and that the election committee will convene on the 16th of this month, said the general secretary of the Sri Lankan Tamil party, P. Sathiyalingam.
-
-There is no change in the resolution of the Sri Lankan Tamil party on the support of Sajith Premadasa in the 2024 presidential election.
-
-It was decided to discuss the implementation of the party's decision at a meeting of the Election Committee in Vavuniya and to discuss the party's resolution and to discuss the political aspirations of the Tamil people mentioned in the election manifesto of Sajith Premadasa.
-
-It has also stated that the Election Committee will re -meet on the 16th of this month and review the issue and announce the public.
-
-◼️
-
-[Data](articles/3cb3718f.json)
-
-[Extended Data](ext_articles/3cb3718f.ext.json)
-
----
-
-### These are prohibited on the day of election
-
-*2024-09-12 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200953) · `si`
-
-Election prohibitions: No phone calls, photography allowed. Media restrictions enforced. 48-hour silence period before voting. Controversial election with potential for early conclusion if candidate reaches 50% vote share.
-
-🟩
-
-The Chairman of the Commander Komssum is the Chairman of the Commander Komssum. M. A. L. Mr. Ratnayake requested all parties.
-
-He said that the telephone was not suspended for the election or candidate for a voter or candidate during the election period.
-
-"Although the media has been included in the media, the social media laws have not come. We are doing as much as possible and stop them as energy as possible. That is the case with the other media. Leads. I didn't tell you to do this. We can do more. "
-
-"If some media is uncontrolled, we will stop all connections between the Commission and the media.  නිල ප්‍රතිඵල නිකුත් කිරීමේදී අපි සලකා බලනවා ඒ ආයතනයට නිල ප්‍රතිඵල නිකුත් කරනවා ද? නැද්ද ? කියලා."
-
-After the 18th, the 48-hour quiet time. It is especially important that the way in which the media is. The 48 hour is free to make the voter turn the last decision.
-
-...
-
-[Data](articles/d88042fe.json)
-
-[Extended Data](ext_articles/d88042fe.ext.json)
 
 ---

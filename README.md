@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 18:42:21**
+As of **2024-09-13 18:57:33**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,479
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,736 (100.0%) of 43,737 articles have been extended.
+43,737 (100.0%) of 43,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
 
-### චීනයේ සේවකයින්ගේ විශ්‍රාමික වයස සංශෝධනයට
+### China to revise employees in China
 
 *2024-09-13 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200995) · `si`
 
-සේවකයින්ගේ විශ්‍රාම වයස ක්‍රමානුකූලව ඉහළ දැමීමට චීනය පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+China increases retirement age: men 60-63, women 55-58. Reasons: aging population, rising pension costs. Impact on workforce and economy.
 
-ඊට ප්‍රධාන හේතු ලෙස සඳහන් කරන්නේ වයසක ජනගහනය වර්ධනය වීම සහ විශ්‍රාම වැටුප් ගෙවීම සඳහා සිදුවන වැය ඉහළ යාමයි.
+🟩
 
-ඒ අනුව කම්කරු වෘත්තීන් හි යෙදෙන කාන්තාවන් ගේ විශ්‍රාම වයස අවුරුදු 50 සිට 55 දක්වාත් උසස් රැකියාවල යෙදෙන කාන්තාවන්ගේ විශ්‍රාම යෑමේ වයස අවුරුදු 55 සිට 58 දක්වා වැඩිකර තිබේ.
+According to foreign media reports, China has taken steps to increase the employees' retirement age.
 
-පිරිමින්ගේ විශ්‍රාම යෑමේ වයස අවුරුදු 60 සිට 63 දක්වා වැඩිකර තිබුණි.
+The main reason is that the increase in the growing population and the increase in the payment of pensions.
+
+Accordingly, the retirement of labor professionals has been increased from 55 to 58 years of age and 55 years old.
+
+Men's retirement increased by 60 to 63 years old.
 
 ◼️
 
 [Data](articles/1a8c7e39.json)
+
+[Extended Data](ext_articles/1a8c7e39.ext.json)
 
 ---
 

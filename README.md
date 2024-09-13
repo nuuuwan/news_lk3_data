@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 12:23:28**
+As of **2024-09-13 12:37:53**
 
 ## Newspaper Stats
 
-*Scraped **43,681** Articles*
+*Scraped **43,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 2,662
 dailyftlk | 2,910
 adalk | 4,044
 dailymirrorlk | 4,733
-adaderanalk | 5,128
+adaderanalk | 5,129
 tamilmirrorlk | 5,684
-virakesarilk | 6,913
+virakesarilk | 6,919
 adaderanasinhalalk | 7,462
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,632 (99.9%) of 43,681 articles have been extended.
+43,640 (99.9%) of 43,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Supreme Court summons immigration chief over e-Visa issue
+
+*2024-09-13 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101940/supreme-court-summons-immigration-chief-over-e-visa-issue) · `en`
+
+The Supreme Court has directed the Controller General of Immigration and Emigration to appear before the court in person today over his failure to implement the court’s order over the electronic visa matter.
+
+The directive was issued by the Supreme Court after considering motions filed over the issue, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/93d7c3bc.json)
+
+[Extended Data](ext_articles/93d7c3bc.ext.json)
+
+---
+
+### Police action to arrest singer Mano's two sons
+
+*2024-09-13 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193565) · `ta`
+
+Police arrest singer Mano's sons after brawl near home. Two sons accused of assault, threatening murder. Police search ongoing.
+
+🟩
+
+Police have taken steps to arrest the two sons of the famous South Film Background Singer Mano, who is hiding in a liquor bargain.
+
+Last night, Mano's sons were reportedly drunk with friends in front of their house. It is reported that some of the young men who had been training in the area were eaten at the hotel opposite Mano's house and walked into the house of Mano.
+
+Seeing this, Mano's sons, why do you look at our house?It seems that two young men, along with his friends, attacked. Upon seeing this, the friends who came with them fled. Then the two youths were attacked and attacked.
+
+The victims have filed a complaint with the police, according to three sections, including Mano's sons, Rafiq, Sakir and his friends, including pornography, assault and murder threats.. Police have arrested two of them and are actively searching for three people, including 2 sons of Mano.
+
+...
+
+[Data](articles/8ed16d08.json)
+
+[Extended Data](ext_articles/8ed16d08.ext.json)
+
+---
 
 ### GCE Advanced Level Examination begins
 
@@ -73,6 +113,46 @@ MA. After considering the fundamental rights petitions, Sumanthiran, Rauff Hakim
 [Data](articles/6fa2bedb.json)
 
 [Extended Data](ext_articles/6fa2bedb.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-09-13 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/193568) · `ta`
+
+US dollar to Rupee exchange rate: 296.4599 buying, 305.7780 selling. Released by Central Bank on Friday, 13th.
+
+🟩
+
+The US dollar purchasing price was 296.4599 rupees and the sales price were Rs 305.7780 based on a currency exchange rate released by the Central Bank on Friday (13).
+
+◼️
+
+[Data](articles/0ae9960c.json)
+
+[Extended Data](ext_articles/0ae9960c.ext.json)
+
+---
+
+### The mobile phone is not allowed inside the polling station!
+
+*2024-09-13 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193560) · `ta`
+
+Mobile phones prohibited in polling stations: Election Commission Chairman bans candidates and voters from bringing devices into voting areas during presidential election. Candidates allowed to photograph/video but cannot publish or advertise after 4 PM on voting day. Postal vote restrictions also enforced.
+
+🟩
+
+Elections Commission Chairman RM RM says the presidential candidates and voters are not allowed to take the mobile phone into the voting station during the upcoming presidential election.. AL Ratnayake said yesterday (12).
+
+He said that although the presidential candidates were allowed to photograph and video, they were banned from publishing and advertising at 4.00 pm on the day of voting day.
+
+Ratnayake said that the matters that have taken place over the past few days are serious by allowing them to use the mobile phone during the postal vote, and that it is illegal to announce who we are going to vote.
+
+◼️
+
+[Data](articles/93dbb71a.json)
+
+[Extended Data](ext_articles/93dbb71a.ext.json)
 
 ---
 
@@ -160,6 +240,26 @@ The suspects have fled the Colombo Fort, Fort, Wadduwatta and Wadduwatta, police
 
 ---
 
+### Arrest of a man who prepared food for those who attended the campaign meeting
+
+*2024-09-13 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193553) · `ta`
+
+Man arrested for cooking food for campaign supporters in Galle. Police detained 48-year-old driver from Hilivala area. Incident occurred during presidential campaign event.
+
+🟩
+
+Galle police said that a suspect allegedly prepared food for a group of people who had attended a campaign meeting in support of a presidential candidate in Galle Halliwala area.
+
+A 48 -year -old driver, who lives in Hilivala, Galle, Galle, has been arrested.
+
+◼️
+
+[Data](articles/cb63ee77.json)
+
+[Extended Data](ext_articles/cb63ee77.ext.json)
+
+---
+
 ### ‘How can we trust leaders who refuse to admit past mistakes?’ - President Ranil
 
 *2024-09-13 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101937/how-can-we-trust-leaders-who-refuse-to-admit-past-mistakes-president-ranil) · `en`
@@ -184,6 +284,30 @@ He cautioned that further economic struggles could make recovery nearly impossib
 
 ---
 
+### We are silent because we do not want to take advantage of the crisis facing Sri Lanka - China
+
+*2024-09-13 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193557) · `ta`
+
+Sri Lanka bans China's research ships amid international pressure. China claims victory, criticizes decision as unfair. Social media users question Sri Lanka's loyalty as China's ally.
+
+🟩
+
+China has said that it is a victory for China, which is displeased with Chinese vessels being banned from engaging in joint research in the Sri Lankan waters.
+
+He said that social media users in China are questioning why Sri Lanka, China's ally, took the move.
+
+He said that Sri Lanka had taken the move due to pressure from a third -party.
+
+He said that Sri Lanka had banned China's research ships due to pressure from other countries, and China helped Sri Lanka unable to engage in such maritime research alone.
+
+◼️
+
+[Data](articles/fc7c9f1b.json)
+
+[Extended Data](ext_articles/fc7c9f1b.ext.json)
+
+---
+
 ### Sri Lanka rupee opens at 300.70/95, bond yields up
 
 *2024-09-13 10:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-300-70-95-bond-yields-up-179459/) · `en`
@@ -201,6 +325,32 @@ In equities, Colombo’s All Share Price Index opened 0.16 percent, or 16.56 poi
 [Data](articles/42282d9c.json)
 
 [Extended Data](ext_articles/42282d9c.ext.json)
+
+---
+
+### Elephant death in a pit in Mahiyanganaya
+
+*2024-09-13 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/193548) · `ta`
+
+Elephant named Madhu dies in pit during transport for festival. Local authorities and wildlife officials attempted rescue but failed. Autopsy conducted. Investigation ongoing.
+
+🟩
+
+Hasalaka police said that an elephant called 'Madhu' belonging to the Badulu Muthiyangana Rajamaha Vihara, who was brought to the Esala Perahara of the Mahiyanganaya Rajamaha Vihara, died in an old rectal pit.
+
+The incident took place in Hasalaka and Sevela Pokuwa area when the elephants were carrying elephants in a lorry to feed the elephants who attended Esha Perahara.
+
+Local residents, police, wildlife protection department officials and many others have made great efforts to recover the 'Madhu' that fell into the rectal cavity, but the elephant was killed at around seven o'clock at night.
+
+In addition, police said that the autopsy of the elephant, which was killed by the Department of Wildlife Protection Department, is being carried out.
+
+In this regard, investigations are underway on the directive of the Halakka Police Station Chief Inspector Dissanayake.
+
+◼️
+
+[Data](articles/c4ac12ea.json)
+
+[Extended Data](ext_articles/c4ac12ea.ext.json)
 
 ---
 
@@ -2055,187 +2205,5 @@ In particular, the national people's power led by Anuragumara Dissanayaya has cr
 [Data](articles/c3473ba6.json)
 
 [Extended Data](ext_articles/c3473ba6.ext.json)
-
----
-
-### Dilshan's daughter to Australia to Australia
-
-*2024-09-12 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200952) · `si`
-
-Sri Lanka U-19 women's cricket team heads to Australia for tournament. Squad includes players from Moratuwa, Devapathiraja College, and others. Mitali Ayodhya replaced due to injury. Team to face New Zealand in T20 matches.
-
-🟩
-
-The Sri Lankan squad of Sri Lanka (12) has announced to the Under-19 Women's Triangle Cricket Tournament in Australia.
-
-Sri Lanka Cricket (SLC) Limenmana Tillekeratne has been included in the squad of Moratuwa, Moratuwa, Moratuwa.
-
-In addition, at least six athletes of the Devapathiraja College, Rathgama PLC, have been selected from Six sports and Trincomalee, Ampara, Ampara and Moneragala.
-
-Meanwhile, Mitali Ayodhya was chosen to target the tournament, but she was convened to replace her.
-
-Sri Lanka and New Zealand will be played between Sri Lanka and New Zealand, as well as T20.
-
-◼️
-
-[Data](articles/a2e81c8b.json)
-
-[Extended Data](ext_articles/a2e81c8b.ext.json)
-
----
-
-### Namal says that he is not given land and police powers
-
-*2024-09-12 18:12:07* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-හා-පොලිස්-බලතල-දෙන්න-බැරිබව-නාමල්-යාපනයේදීම-කියයි/11-411922) · `si`
-
-Namal Rajapaksa denies land and police powers for North East Sri Lanka. Assures protection of all religions, languages, and people. Promises no short-term privileges or posts. Confident about facing challenges.
-
-🟩
-
-Namal Rajapaksa said that under the government of Sri Lanka, the North East, said that north east would not be mergered and lands will not be given to land and police powers.
-
-He was responding to a question raised by journalists in Jaffna today 12/09/2024.
-
-Speaking further, Namal Rajapaksa said that all religions, languages ​​and the people were protected.
-
-That the country and the party also will never even ever offer short-term privileges, brackets and posts. Namal Rajapaksa said he was not afraid of the challenges.
-
-◼️
-
-[Data](articles/e1f7c5b3.json)
-
-[Extended Data](ext_articles/e1f7c5b3.ext.json)
-
----
-
-### Israel's nursing employment in 98 months
-
-*2024-09-12 18:07:44* · [`adalk`](https://www.ada.lk/breaking_news/මාස-9කදී-784ට-ඊශ්‍රායලයේ-සාත්තු-සේවිකා-රැකියා/11-411921) · `si`
-
-Sri Lankan nurses head to Israel: 784 depart for 19-month contracts starting Sept 15, 2024. Israel seeks skilled healthcare workers as part of bilateral agreement.
-
-🟩
-
-784 Sri Lankans have left for employment to 19 other women who qualified for the nursing women in Israel (9/12) in the past eight months of 2024.Occurred at the Foreign Employment Bureau.
-
-The group will leave for Israel on September 15.
-
-In the Memorandum of Understanding between the Sri Lanka Bureau of Foreign Employment and Fibba, the MoU, has now received Israel's nursing employment opportunities for Israel.
-
-Sri Lanka is astrologer in Sri Lanka to be the world's best nursing economy economy and is currently being referred to increasing Sri Lanka to the European, Middle East and Eastern Asian countries.
-
-◼️
-
-[Data](articles/b1cb090e.json)
-
-[Extended Data](ext_articles/b1cb090e.ext.json)
-
----
-
-### Sri Lanka’s Co-operative Insurance rated ‘BB(lka)’ by Fitch, outlook stable
-
-*2024-09-12 18:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-co-operative-insurance-rated-bblka-by-fitch-outlook-stable-179450/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has assigned a ‘BB(lka)’ national insurer financial Strength (IFS) rating on Sri Lanka-based Co-operative Insurance Company Plc (CICPLC). The outlook is stable.
-
-Fitch said the insurer’s 1H24 results accounted for 100% premium remittance under the motor category of strikes, riots, civil commotion and terrorism from January 2024, up from the previous 12%.
-
-“We expect underwriting profit to rise gradually with better governance practices, enhanced claims management, and a rebound in business activities following the lifting of regulatory restrictions.”
-
-Fitch Ratings – Colombo/Sydney – 11 Sep 2024: Fitch Ratings has affirmed the rating on Sri Lanka-based Co-operative Insurance Company PLC’s (CICPLC) ‘BB(lka)’ National Insurer Financial Strength (IFS) Rating. The Outlook is Stable.
-
-...
-
-[Data](articles/15f690c2.json)
-
-[Extended Data](ext_articles/15f690c2.ext.json)
-
----
-
-### Cases
-
-*2024-09-12 17:53:32* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-නිලධාරීන්-ගුරු-සේවයට-අන්තර්ග්‍රහණය-කිරීම-ගැන-නඩු-සමථයකට/11-411920) · `si`
-
-Here's a 200-character summary:
-
-
-
-Cases settled today regarding teacher service absorption. Decision made according to Cabinet Terms. Parties can recall case. President's Counsel Chokzy represented petitioner. Attorney General's Department defended respondents.
-
-🟩
-
-Development Officers were taken into custody regarding the absorption of the teacher service and the cases have been settled today.
-
-The decision on the decision of the cases was issued in accordance with the Cabinetized Cabinet Terms of Cabinet.
-
-According to the implementation of the operation, the parties have the right to recall the case again and that the case will be taken back on the case.
-
-President's Counsel on behalf of the petitioner. Mr. Chokzy and lawyer D. S. Mrs. Rathnayake appeared and the Attorney General's Department sat on respondents.
-
-◼️
-
-[Data](articles/0b923d25.json)
-
-[Extended Data](ext_articles/0b923d25.ext.json)
-
----
-
-### Youth arrested for hacking on a plane
-
-*2024-09-12 17:45:10* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-යානයකට-අනවසරයෙන්-ඇතුළු-වෙන්න-ගිය-තරුණයෙක්-අත්අඩංගුවට/11-411919) · `si`
-
-Youth hacked plane at Sri Lanka airport, arrested and charged.
-
-🟩
-
-The Katunayake Airport Police have arrested a youth at the Bandaranaike International Airport on the plane, which was parked in an aircraft yard.
-
-He is a 23 year old youth, a resident of Grandpass, St. Joseph Street, Santha Joseph Street.
-
-He has passed abroad twice, and last, he has lived with his father in Chennai, India.
-
-The youth has gone into the opening of the Bandaranaike International Airport in the Airport AirportHas been done.
-
-He was arrested by the SriLankan Airlines at the time he was handed over to the Katunayake airport police.
-
-He is mentally illuminated in investigations and the medical treatment has been taken to the police, and he is also receiving medical attention to the police.. However, the brother of the youth has said that he has not acquired the drugs to the situation in the past month.
-
-The youth has said that the youth has gone to the plane to go to Chennai, India.
-
-The arrested man has been produced before the Negombo Magistrate's Court on 09/2/2012.
-
-◼️
-
-[Data](articles/aa8ffd5f.json)
-
-[Extended Data](ext_articles/aa8ffd5f.ext.json)
-
----
-
-### Recovery of infant body;Web to mother's peers
-
-*2024-09-12 17:38:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிசு-சடலமாக-மீட்பு-தாயின்-சகோரிக்கு-வலை/76-343677) · `ta`
-
-Infant body recovered in Nuwara Eliya. Murdered newborn found in three-wheeler. Driver and mother arrested. Police investigation ongoing.
-
-🟩
-
-Lindula, LG in the Garden. It has been confirmed that the body recovered in the category has been strangled and murdered in a wire with a newborn hand.
-
-An autopsy carried out by the legal officer of the Nuwara Eliya District Hospital.
-
-The body of the infant was recovered from a three -wheeler parked in front of a house in the garden.
-
-Subsequently, a child's father, a 28 -year -old three -wheeler driver, was arrested by the police.. During the inquiries, it was the bag of a woman who had come to her garden from the Mawanella area.
-
-When the 24 -year -old woman was arrested and investigated, she stated that the child was born due to an inappropriate relationship between the driver and that the child was born on the 5th of last month at the Mawanella area where the child was born and strangled the child with the help of her sister.
-
-The woman had confessed to the police that he had taken it to the Akkarapattana area in the three -wheeler to bury the body.
-
-...
-
-[Data](articles/14ffac2f.json)
-
-[Extended Data](ext_articles/14ffac2f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 05:43:46**
+As of **2024-09-13 06:06:13**
 
 ## Newspaper Stats
 
-*Scraped **43,623** Articles*
+*Scraped **43,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 423
 colombotelegraphcom | 428
 islandlk | 2,542
 economynextcom | 2,659
-dailyftlk | 2,906
+dailyftlk | 2,910
 adalk | 4,040
 dailymirrorlk | 4,733
 adaderanalk | 5,117
@@ -26,11 +26,77 @@ adaderanasinhalalk | 7,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,526 (99.8%) of 43,623 articles have been extended.
+43,526 (99.8%) of 43,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Voting objectively on 21 September
+
+*2024-09-13 05:14:05* · [`dailyftlk`](https://www.ft.lk/columns/Voting-objectively-on-21-September/4-766705) · `en`
+
+As the nation faces the task of electing a new President at a very crucial time among four leading candidates, all of whom have controversial pasts—whether due to own criminal acts, indirect involvement in criminality in the past, or by association with criminals within their own—decision is fraught with difficulty for the people. Hence, voters must weigh these candidates’ pasts against the hope for a better future. Unlike previous elections, if the wrong choice is made this time, voters themselves could share responsibility when the country faces another economic collapse.
+
+...
+
+[Data](articles/329515a6.json)
+
+---
+
+### Election promises: Where’s the money?
+
+*2024-09-13 05:09:28* · [`dailyftlk`](https://www.ft.lk/columns/Election-promises-Where-s-the-money/4-766704) · `en`
+
+Before you vote, consider how the promises in the manifestos will be
+
+“Show me the money!” – Tom Cruise in the movie Jerry Maguire
+
+The bottomline is money. How will the Government pay its bills: manage the debt mountain that has been accumulated; pay the salaries and pensions of the bloated bureaucracy and armed forces; and not least, the cost of the many new programs that are being promised as part of the bidding war that we call the Presidential election?
+
+For example, both the SJB and the NPP are promising major housing initiatives, such as low-interest and long-repayment loans and official residences for State employees. Low-interest loans may be given by commercial or State banks, but the subsidy element will have to be borne by Government. Housing for State employees will have to be fully paid by the Government.
+
+...
+
+[Data](articles/fa94bf37.json)
+
+---
+
+### Shallow manifestos and the 12-point economic challenge
+
+*2024-09-13 05:05:31* · [`dailyftlk`](https://www.ft.lk/columns/Shallow-manifestos-and-the-12-point-economic-challenge/4-766703) · `en`
+
+Irrespective of who becomes President, implementation of any of these manifestos, as usual, would be impossible – Pic by Shehan Gunasekara
+
+Election manifestos of all main contenders are out, and by and large it has followed the precedence over the last so many decades. Increase salaries for the public sector, lower PAYE tax, and long lists of prosperity. There is little indication as to how all these would be achieved, how much funds would be allocated to accomplish each task and how these funds would be obtained, etc.
+
+There is a more recent tendency to show lengthy 200, 300 page manifestos to give the impression of a detailed study. On the contrary, although the problems are complex, a truly detailed analysis should result in a short, concise and simple action plan which is implementable. Complex, lengthy solutions are unlikely to be implemented and what could be achieved in a period of five years is limited (remember the infamous lengthy Budget speech of 2015?).
+
+...
+
+[Data](articles/194f6d44.json)
+
+---
+
+### Presidenshel Elecshen Gide
+
+*2024-09-13 04:55:57* · [`dailyftlk`](https://www.ft.lk/opinion/Presidenshel-Elecshen-Gide/14-766701) · `en`
+
+This Gide is for Candidates running in Arsikland Presidenshel Elecshens Only. Any Gideline and/or addice used by other candidates in other parts of the world, espeshelley in the USA should be used with caution and prior discushen with the Auther.
+
+1Not oll peeples running in PE is hoping to win. Some peeples don’t even get their Haaminey’s vote! Acktually some peeples don’t even vote for themselves!
+
+2Reducing AdagenaNaama (see below for full definishen) is the most impotent thing. Please note that reducing AdagenaNaama is only required, trying to eliminate it is as pointless as trying to eliminate corruption in Arsikland!
+
+3A good PE Campain has to cover oll of Arsikland. So Campain ‘SaamaThanama’ but don’t be ‘SaamaThanama’
+
+AdagenaNaama : (Trans: Pulling and Bathing) A common phrase used in Arsikland to indicate that a person has done or said something monumentally stupid or incredibly funny. This is an advanced stage of “Naama” but not as advanced as “Wathurapompey Savikara AdagenaNaama”
+
+...
+
+[Data](articles/775c7044.json)
+
+---
 
 ### Printing money to finance Government budget deficit
 
@@ -2319,105 +2385,5 @@ Ranil Wickremesinghe said that he was able to live a rally in Akkaraipattu durin
 [Data](articles/295a5d35.json)
 
 [Extended Data](ext_articles/295a5d35.ext.json)
-
----
-
-### Vietnam death toll climbs to 197 as typhoon’s aftermath brings flash floods and landslides
-
-*2024-09-12 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101915/vietnam-death-toll-climbs-to-197-as-typhoons-aftermath-brings-flash-floods-and-landslides) · `en`
-
-Nearly 200 people have died in Vietnam in the aftermath of Typhoon Yagi and more than 125 are missing as flash floods and landslides take their toll, state media reported Thursday.
-
-Vietnam’s VNExpress newspaper reported that 197 people have died and 128 are still missing, while more than 800 have been injured.
-
-In the capital, flood waters from the Red River receded slightly but many areas were still inundated.
-
-In Hanoi’s Tay Ho district, people waded through muddy brown water above their knees to make their way along one street, some still wearing their bicycle and motorcycle helmets after abandoning their vehicles along the way.
-
-A few paddled along the road in small boats as empty water bottles, a stryofoam cooler and other flotsam drifted by; one man pushed his motorbike toward drier ground in an aluminum sloop.
-
-Pedestrians hiked up their shorts as high as possible to avoid being soaked by the wake caused by a delivery truck powering its way through the water.
-
-...
-
-[Data](articles/8991b3d7.json)
-
-[Extended Data](ext_articles/8991b3d7.ext.json)
-
----
-
-### President opens TIMES School of Higher Education
-
-*2024-09-12 12:35:52* · [`adalk`](https://www.ada.lk/breaking_news/’Times-school-of-higher-education’-ජනපති-අතින්-විවෘත-කරයි/11-411913) · `si`
-
-Ranil Wickremesinghe inaugurates TIMES School of Higher Education. The institute offers certificate, diploma, degree, and postgraduate programs. Opening ceremony held at Gore Face Hotel, Colombo.
-
-🟩
-
-"TIMES SCHOOL OF HIGHER EDUCATION" Educational Institute Ranil Wickremesinghe
-
-The opening of the Institute of Education was conducted at the Gore Face Hotel in Colombo.
-
-The institute is to be implemented to implement the certificate courses, Diploma Courses, Degree and Postgraduate Courses.
-
-◼️
-
-[Data](articles/068b65bb.json)
-
-[Extended Data](ext_articles/068b65bb.ext.json)
-
----
-
-### Presidential election;Dictok that prevents sharing of false information
-
-*2024-09-12 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193477) · `ta`
-
-Dictok prepares for presidential election by preventing false information sharing. Newschecker joins to verify content. Sri Lanka Election Center launched in English, Sinhala, Tamil. Removes violating information, guides reliable sources. Collaborates with organizations for transparent electoral system.
-
-🟩
-
-Dictok is preparing to prevent the sharing of false information about the upcoming presidential election.
-
-In that respect, the IFCN-accredited Newschecker information has joined the Dictok organization to verify the contents shared in the election.
-
-In addition, Dictok has also introduced the Sri Lanka Election Center. This election center provides its service in English, Sinhala and Tamil.
-
-In this case, the real verbal verbal verification of the dictok will implement the removal of information that violates the guidelines, control the sharing, and guide the search for reliable resources.
-
-The site will continue to work with secure organizations and civil society organizations to maintain transparency and honest electoral system.
-
-◼️
-
-[Data](articles/08aa3d10.json)
-
-[Extended Data](ext_articles/08aa3d10.ext.json)
-
----
-
-### Fr petition in court about the loss caused by the reduction of sugar
-
-*2024-09-12 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200940) · `si`
-
-Supreme Court hears case on sugar price drop impact. Former MP Sunil Handunneththi petitions over government losses. Three-judge bench orders action within 8 weeks. Case adjourned until April 2.
-
-🟩
-
-The Supreme Court has set a fundamental rights petition filed by the government's loss incurred on the decrease of Rs.
-
-The petition was presented by former JVP MP Sunil Handunneththi.
-
-This petition is today (12). The three-member Judiciary Bench was called before the Supreme Court Judge Turairajah and Kumudani Wickramasinghe and Janaka De Silva.
-
-The panel of judges was ordered to file action from today to filter them within eight weeks.
-
-In addition, the nomination list of the amended respondents was ordered to file action from today.
-
-The petition was then placed on April 2 to consider.
-
-◼️
-
-[Data](articles/f853493f.json)
-
-[Extended Data](ext_articles/f853493f.ext.json)
 
 ---

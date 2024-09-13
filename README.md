@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 13:07:58**
+As of **2024-09-13 13:22:30**
 
 ## Newspaper Stats
 
-*Scraped **43,689** Articles*
+*Scraped **43,691** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
-bbccomsinhala | 424
+bbccomsinhala | 425
 colombotelegraphcom | 429
 islandlk | 2,554
 economynextcom | 2,662
@@ -18,7 +18,7 @@ dailyftlk | 2,910
 adalk | 4,044
 dailymirrorlk | 4,733
 adaderanalk | 5,130
-tamilmirrorlk | 5,684
+tamilmirrorlk | 5,685
 virakesarilk | 6,919
 adaderanasinhalalk | 7,462
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,646 (99.9%) of 43,689 articles have been extended.
+43,650 (99.9%) of 43,691 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ The Commissioner General of Examinations Amith Jayasundara has announced that th
 ◼️
 
 [Data](articles/54bcef65.json)
+
+[Extended Data](ext_articles/54bcef65.ext.json)
 
 ---
 
@@ -143,6 +145,20 @@ The US dollar purchasing price was 296.4599 rupees and the sales price were Rs 3
 [Data](articles/0ae9960c.json)
 
 [Extended Data](ext_articles/0ae9960c.ext.json)
+
+---
+
+### ரணிலுக்கு எதிராக நடவடிக்கை?
+
+*2024-09-13 12:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-எதிராக-நடவடிக்கை/175-343715) · `ta`
+
+சுயேட்சை வேட்பாளர் ஜனாதிபதி ரணில் விக்ரமசிங்க தனது தேர்தல் பிரசாரத்தை ஊக்குவிக்கும் வகையில் விருந்துபசாரம் ஒன்றை ஏற்பாடு செய்துள்ளதாகத் தகவல் வெளியாகியுள்ளதாகவும் அது தொடர்பில் நடவடிக்கை எடுக்கப்படும் என தேர்தல் கண்காணிப்பு நிலையம் தெரிவித்துள்ளது.
+
+இதற்கு முன்னரும் மலையகத்தில் ஏற்பாடு யெ்யப்பட்டிருந்த கூட்டத்தில் கலந்துகொள்பவர்களுக்கு விருந்து தயார் செய்த நிலையில், அதை கைப்பற்றிய தேர்தல் அதிகாரிகள் பொலிஸ் அதிகாரிகளுக்கு அதை பகிர்ந்தளித்துள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/509ba6b8.json)
 
 ---
 
@@ -827,6 +843,30 @@ Addressing a public brief in Baddegama, Sajith Premadasa made these comments.
 [Data](articles/0600f98e.json)
 
 [Extended Data](ext_articles/0600f98e.ext.json)
+
+---
+
+### ෂෙයිකා මෙහ්රා: තම 'දික්කසාදය' සුවඳ විලවුන් සන්නාමයක් බවට පත් කළ ඩුබායි කුමරිය
+
+*2024-09-13 07:07:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy0r021g4qvo) · `si`
+
+ෂෙයිකා මෙහ්රා: තම 'දික්කසාදය' සුවඳ විලවුන් සන්නාමයක් බවට පත් කළ ඩුබායි කුමරිය
+
+'දික්කසාදයට' ආවේණික සුවඳක් ඇතැයි ඔබ කිසි දිනක සිතුවා ද? 'දික්කසාදයේ' සුවඳ කුමක් ද?
+
+සමාජ මාධ්‍ය ඔස්සේ මෙම ප්‍රශ්න මතු කරමින්, කාන්තා සමාජ මාධ්‍ය භාවිත කරන්නියක මෙසේ ලියා තිබිණි, 'මේක ව්‍යාජ සුවඳක් ද?'
+
+එම ප්‍රශ්නයට ප්‍රතිචාර දක්වමින් තවත් කාන්තාවක ලියා තිබුණේ, 'නෑ, නෑ, ඒක නිදහසේ සුවඳට සමාන යි' යනුවෙනි.
+
+ඩුබායිහි ෂෙයික් රෂීඩ් අල් මක්ටූම්ගේ දියණිය වන ෂෙයිකා මෙහ්රා, මීට මාස දෙකකට පෙර ඉන්ස්ටග්‍රෑම් සටහනක් හරහා තම සැමියාගෙන් දික්කසාද වූ ෂෙයිකා මෙහ්රා දැන් තමන්ගේ ම සුවඳ විලවුන් වර්ගයක් හඳුන්වා දී ඇති අතර, එය "Divorce" ලෙස නම් කර ඇත.
+
+ඇයගේ ව්‍යාපාරික සන්නාමය වන 'Mehra M One' යටතේ දියත් කරන ලද මෙම සුවඳ විලවුන් වර්ගය හරහා ඇයගේ මෑතකදී සිදුවූ දික්කසාදය පිළිබඳ අදහසක් ඇතුළත් වන බව විශ්වාස කෙරේ.
+
+මෙහ්රා කුමරිය සමාජ මාධ්‍ය භාවිත කරන්නන්ගේ අවධානයට ලක්වූයේ, 2024 ජූලි මාසයේදී ඇයගේ සත්‍යාපනය කරන ලද (verified) ඉන්ස්ටග්‍රෑම් ගිණුම කෙටි වචන කිහිපයකින් ඇගේ සම්බන්ධතාව අවසන් වූ බව සඳහන් කළ විට ය: 'මම දික්කසාද වූ බව දැනුම් දෙමි.'
+
+...
+
+[Data](articles/b52c396c.json)
 
 ---
 
@@ -2151,53 +2191,5 @@ Proceeds from the bond issuance will be used to finance eligible green projects 
 [Data](articles/59006eb1.json)
 
 [Extended Data](ext_articles/59006eb1.ext.json)
-
----
-
-### Gnanasara Thero suspected of a housing complex
-
-*2024-09-12 18:29:47* · [`adalk`](https://www.ada.lk/breaking_news/නිවාස-සංකීර්ණයක-නිවසක-බලෙන්-සිටි-ඥානසාර-හිමියන්ට-ඉවත්-වෙන්න-නියෝග/11-411923) · `si`
-
-Gnanasara Thero housing complex case: Magistrate sentences 3 million rupees. Property ownership dispute. Complaint filed under Article 66 of Primary Procedure Technology Act. Respondents accused of forcibly acquiring land.
-
-🟩
-
-Colombo Additional Magistrate Pasan Amarasena was sentenced to three million rupees for the Bodu Bala Sena Chairman Gnagoda Athththa Gnanasara ownership to the property owner of Rs.Did.
-
-The magistrate was declared that the case was filed by the Attorney evening evening, claiming that the case was filed by the Attorney evening evening, the lawyer evening appointment by Mrs. Attorney Evening Pushled by Galagodaatte Gnanasara.
-
-The Magistrate, who was present at the 'Falcon Gnanasala Thera and the police investigations revealed that he was revealed in accordance with the inspection and the information of police investigations.
-
-The complaint was filed by the complaints that were assigned by Mrs. Ekala, Galagodaatte Gnanasara, a manager of the Ayvastern and Housing Complex were named as respondents.
-
-The complaint was lodged by the Attorneys Chapter 6, 1979 under Article 66 of the Primary Procedure Technology Act No. 44 of 1979.
-
-...
-
-[Data](articles/cb3f4e3d.json)
-
-[Extended Data](ext_articles/cb3f4e3d.ext.json)
-
----
-
-### Will the 51/1 resolution on Sri Lanka be time for two more years?- The resolution will be reached on October 7
-
-*2024-09-12 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193533) · `ta`
-
-Sri Lanka UNHRC 51/1 resolution renewal Oct 7 no referendum unless new government opposes
-
-🟩
-
-The resolution is expected to be reached on October 7, with the existing 51/1 resolution of Sri Lanka and the existing 51/1 resolution for more one or two years.
-
-The 57th session of the United Nations Human Rights Council commenced in Geneva last Monday (9). On that day, the Sri Lankan affair was examined following the speech of UN Human Rights Council Volkar Turk's speech on the global human rights situation and the written report on the Myanmar human rights situation and the debate on it.
-
-UN Human Rights High Commissioner Volkar Turk addresses the progress of the content implementation of the 51/1 resolution titled 'Reconciliation, Liability and Human Rights Upgrading in Sri Lanka' which has already been passed at the Human Rights Council on Sri Lanka.
-
-...
-
-[Data](articles/4bd3852f.json)
-
-[Extended Data](ext_articles/4bd3852f.ext.json)
 
 ---

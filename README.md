@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 02:22:37**
+As of **2024-09-14 02:38:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,794 (100.0%) of 43,796 articles have been extended.
+43,796 (100.0%) of 43,796 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -725,6 +725,8 @@ Transparency International Sri Lanka (TISL) has received 758 complaints concerni
 ...
 
 [Data](articles/15af3327.json)
+
+[Extended Data](ext_articles/15af3327.ext.json)
 
 ---
 

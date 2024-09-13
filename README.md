@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 09:38:37**
+As of **2024-09-13 09:57:11**
 
 ## Newspaper Stats
 
-*Scraped **43,659** Articles*
+*Scraped **43,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,660
 dailyftlk | 2,910
 adalk | 4,042
 dailymirrorlk | 4,733
-adaderanalk | 5,120
+adaderanalk | 5,121
 tamilmirrorlk | 5,682
 virakesarilk | 6,913
 adaderanasinhalalk | 7,454
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,454
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,569 (99.8%) of 43,659 articles have been extended.
+43,572 (99.8%) of 43,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Candidates’ representatives allowed to escort ballot boxes to counting centers
+
+*2024-09-13 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101932/candidates-representatives-allowed-to-escort-ballot-boxes-to-counting-centers-) · `en`
+
+The Election Commission has announced that the vehicles carrying representatives of presidential candidates will be permitted to escort the vehicles transporting ballot boxes from polling stations to counting centers.
+
+This aims to address concerns raised by some politicians and candidates regarding the integrity of the ballot boxes during transit.
+
+According to the commission, representatives may follow the vehicle carrying the ballot boxes up to the last police checkpoint near the counting center.
+
+However, in order to be allowed to escort such vehicles, an authorized representative of the candidate must submit a detailed report to the District Election Office three days before polling day.
+
+This report should include the name of the relevant polling station, the vehicle number of the escorting vehicle, and the name of the representative on board.
+
+A vehicle license for this purpose can be obtained from the Senior Polling Officer at the relevant polling station.
+
+...
+
+[Data](articles/e176fd94.json)
+
+---
 
 ### Trump: No more debates with Kamala Harris
 
@@ -2255,43 +2277,5 @@ Accordingly, a total of 09 registered political parties and 02 independent group
 [Data](articles/2ba90dbd.json)
 
 [Extended Data](ext_articles/2ba90dbd.ext.json)
-
----
-
-### Hurricane Yagi;The number of casualties in Vietnam increases to 197
-
-*2024-09-12 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/193498) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Yagi hurricane hits Vietnam: 197 deaths, 800 injuries, 125 missing. Floods in Hanoi, landslides in northern provinces. Strongest storm in Southeast Asia in decades. Climate change likely intensified it.
-
-🟩
-
-In Vietnam, 200 people have died in a sudden flood and a landslide caused by the Yagi hurricane and over 125 people have disappeared.
-
-This was reported by the media on Thursday (12). 800 people have been injured.
-
-The water from the Red River in the Vietnam capital, Hanoi, has been flooded, despite the slightest fall.
-
-The Yagi hurricane has been seen as the most powerful hurricane that hit Southeast Asia after decades.
-
-The hurricane crossed the shore on Saturday with wind at 149 km (92 miles).
-
-In this case, the cyclone has been weakened on Sunday, but the continuous rainfall has increased the water level in the rivers.
-
-Hanoi is said to have been severely affected by the floods in the last two decades.
-
-Last Tuesday, many people were swept away by the floods in the Long Nuu area of ​​Lao Kai province of North Vietnam.
-
-The search for them began yesterday Wednesday. As of Thursday morning, 53 people were missing and 8 bodies were found.. Vnexpress said 42 died.
-
-...
-
-[Data](articles/2ebe5e5f.json)
-
-[Extended Data](ext_articles/2ebe5e5f.ext.json)
 
 ---

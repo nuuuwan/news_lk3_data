@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 22:11:19**
+As of **2024-09-13 22:38:06**
 
 ## Newspaper Stats
 
-*Scraped **43,763** Articles*
+*Scraped **43,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,86 @@ colombotelegraphcom | 429
 islandlk | 2,557
 economynextcom | 2,675
 dailyftlk | 2,910
-adalk | 4,050
+adalk | 4,051
 dailymirrorlk | 4,733
 adaderanalk | 5,141
-tamilmirrorlk | 5,688
-virakesarilk | 6,930
-adaderanasinhalalk | 7,486
+tamilmirrorlk | 5,689
+virakesarilk | 6,938
+adaderanasinhalalk | 7,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,760 (100.0%) of 43,763 articles have been extended.
+43,774 (100.0%) of 43,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
 
-### නව ව්‍යවසායකයන් දස ලක්ෂයක් බිහිකරනවා - සජිත්
+### Golden powder trapped at the airport
+
+*2024-09-13 22:05:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-சிக்கிய-தங்கத்-தூள்/175-343732) · `ta`
+
+Sri Lanka airport customs seize 1kg 860g gold powder from 37-year-old man from Dubai.
+
+🟩
+
+Airport customs officials have arrested a person with gold powder that was illegally brought to Sri Lanka.
+
+Customs officials have seized 1 kg 860 grams of gold powder from the suspect from Dubai.
+
+The arrested suspect is said to be 37 years old from Negombo. Remble
+
+◼️
+
+[Data](articles/4226a3a9.json)
+
+[Extended Data](ext_articles/4226a3a9.ext.json)
+
+---
+
+### We have a hive this country to rich - Anura
+
+*2024-09-13 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201003) · `si`
+
+Anura Kumara Dissanayake, UNP candidate, addresses Moneragala gathering. Promises to improve country's wealth and citizens' quality of life through government programs and strong team. Emphasizes decisive leadership and people's support without focusing on political positions.
+
+🟩
+
+UNP candidate candidate Anura Kumara Dissanayake says that the government is making the country and the lives of the people.
+
+He was speaking at the Moneragala morning today (13).
+
+"Can we show miracles? Are we magictors? Are we magicians? Not. But we have a more hiring to make this country a more rich country. Make the lives of the people of this country into a higher life. We'll struggle for that. We have made the necessary program. We have strong people to operate it. Now we do as the government's doing our work. What are you doing? You should help. Ready?Let's grow. This is a decisive government in the country. This is a government and the people who believe. We have not kept politics looking at the chairs. We don't count the chairs. For some, the president chair is big. We're not ... The property is taken over. "
+
+◼️
+
+[Data](articles/cc56eaba.json)
+
+[Extended Data](ext_articles/cc56eaba.ext.json)
+
+---
+
+### Tens of thousands of new entrepreneurs have created - Sajith
 
 *2024-09-13 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201002) · `si`
 
-තමා ජනපති වූ පසු රට තුළ නව ව්‍යවසායකයන් දස ලක්ෂයක් බිහිකරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sri Lanka: Sajith Premadasa promises 100k new entrepreneurs. Addresses rally, criticizes opponents. Holds Samurdhi conference.
 
-දෙබරවැව නගරයේ අද (13) පස්වරුවේ පැවති ජනරැලියක් අමතමින් ඔහු මේ අදහස් පළ කළේය.
+🟩
 
-"මේ මොහොත වනවිට ජයවර්ධන පුර විශ්වවිද්‍යාලය ප්‍රචණ්ඩත්වය නිසා වසා දමලා. මිලේච්ච මැර ප්‍රහාර එල්ල කරලා. මම අහන්න කැමතියි තමන් කැමති දේශපාලනයක් කරන්න අයිතියක් නැද්ද ? මේ නිර්මාණය වන වියරු ෆැසිස්වාදයට මේ රටේ ජනතාව ආශිර්වාදය දෙනවා ද?  බය නැතුව ජනාධිපතිවරණ දිනයේ දී ඡන්ද පොලට ගිහින් පොදුජන යුගය වෙනුවෙන් ඔබගේ හයිය ලබාදෙන්න. ඔබව අපි ආරක්ෂා කරනවා. අද විදුලිය කපලා තියෙනවා දස ලක්ෂයකගේ. හැමෝම දන්නවා 21න් පස්සේ ලයිට් කපපු දස ලක්ෂයට සජිත් ප්‍රේමදාසගේ ආණ්ඩුව පිහිටක් වෙනවා කියලා. අනුර - රනිල් ඒවට විරුද්ධයි. ඒ විතරක් නෙමෙයි දස ලක්ෂයක් නව ව්‍යවසායකින් බිහි කරනවාට විරුද්ධයි. ඒ නිසා රනිල් - අනුර පරාජය කිරීමට 21 වනදාට පොදුජන යුගයකට ඔබ සියලුදෙනාගේ ජනවරම, ජනහයිය ලබාදෙන්න කියනවා."
+The presidential candidate Sajith Premadasa, Sagith Premadasa, says that he will produce 100,000 new entrepreneurs in the country.
+
+He was addressing a popularity in Debarawewa in Debarawewa this afternoon.
+
+"By this time, the Sri Lankan University closed due to violence. Rushed threats have been attacked. I would like to ask you to do a politics of interests?Is it the people of this country to fashioned fascism?If you have gone to the vote in the presidential election, give your strength for the public era. We are protecting you. The electricity has been cut today. Everyone knows that the ten hundred thousand of the lights cut off after 21, Sajith Premadasa's government. Anura - Ranil opposes Eve. It also opposes the birth of a new enterprise. Therefore, a public era of public era to defeat Anura and Anura, you will give you the mandate of all of you. "
 
 ...
 
 [Data](articles/53cf6e6a.json)
+
+[Extended Data](ext_articles/53cf6e6a.ext.json)
 
 ---
 
@@ -62,21 +112,101 @@ Sajith Premadasa, 57, wants rich individuals to bear more of the cost of the eco
 
 [Data](articles/b68783bf.json)
 
+[Extended Data](ext_articles/b68783bf.ext.json)
+
 ---
 
-### අනුරගේ ආර්ථික ප්‍රතිපත්තියට රුපියල බාල්දු වෙනවා - රනිල්
+### Rupee buckets of Anura's economic policy - Ranil
 
 *2024-09-13 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201001) · `si`
 
-අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කර ඇති ආර්ථික ප්‍රතිපත්තියට අනුව රුපියල බාල්දු වන බව ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Ranil Wickremesinghe criticizes Anura Kumara Dissanayake's economic policies, saying they contradict IMF agreements and could harm the rupee. He emphasizes the need to protect the currency and reduce living costs.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ, පුත්තලමේ පැවැති 'පුළුවන් ශ්‍රී ලංකා' ජනරැලිය අමතමිනි.
+🟩
 
-"හිටපු කෘෂිකර්ම ඇමති අනුර කුමාර මහනුවරදී කියලා තියෙනවා මම එතුමාට මඩ ගහන ව්‍යාපාරයක් ගෙනියනවා කියලා. මම එහෙම කළේ නෑ. මම කිව්වේ එක දෙයයි. අනුර කුමාරගේ යෝජනා ක්‍රියාත්මක කරනවා නම්, IMF සංවිධානය සමග තියෙන එකඟත්වයට පටහැනියි. අපි ගිවිසුම කඩනවා. මේ ගිවිසුම කඩාකප්පල් කරාම ඒකෙත් පිහිට නැත්නම් ඩොලරය රුපියල් 500ක් වෙයි. තමන් කැමතිද එහෙම රුපියල බාල්දු වුණොත්. මම ඔච්චරයි ඇහුවේ. තමුන්නාන්සේ ඇයි රුපියල බාල්දු කරන්නේ. දැන් මේ වෙලාවේ රුපියල ආරක්ෂා කරන්න බැරිනම්, ජීවන බර වැඩිකරනවා නම් ඇයි අපි ඒ අයට ඡන්දෙ දෙන්නේ.
+Independent presidential candidate Ranil Wickremesinghe says that the rupee is utilized following the economic policy presented by Anura Kumara Dissanayake.
+
+The President made this observation addressing the Sri Lanka French of Sri Lanka.
+
+"Former Minister of Agriculture Anura Kumara said in Kandy. I didn't. I mean one thing. If I am implementing Anura Kumara's proposals, contrary to the agreement with the IMF. We break the agreement. The dollar is also a delay in the agreement, but the dollar. If you would like to buck himself. I was asked. Why is you buoyed by the rupee?. If the rupee is not protected now, we will vote for them if the weight of the living is increasing.
 
 ...
 
 [Data](articles/abb40254.json)
+
+[Extended Data](ext_articles/abb40254.ext.json)
+
+---
+
+### Government bus - lorry collision: 8 killed33 people hurt!
+
+*2024-09-13 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193630) · `ta`
+
+Chittoor bus-lorry crash kills 8 injures 33. APSRTC bus collides head-on with lorry on Tirupati-Bangalore highway. Firefighters rescue victims, many hospitalized. Casualties may rise.
+
+🟩
+
+In Chittoor, a state bus and lorry collided head -on and 8 people were killed and more than 33 injured.
+
+The APSRTC bus and lorry, which was traveling from Tirupati to Bangalore on Friday afternoon (September 13) on the Chittoor -Bangalore highway in Andhra Pradesh, India's Andhra Pradesh district.
+
+Eight people were killed on the spot. More than 33 people were injured. All of them have been rescued and taken to a nearby hospital.
+
+Firefighters were involved in disposing of the crashed vehicles. It is feared that the condition of the injured is worrisome and the number of casualties may increase.
+
+◼️
+
+[Data](articles/5e4fceef.json)
+
+[Extended Data](ext_articles/5e4fceef.ext.json)
+
+---
+
+### Gazette released by setting the basic salary of plantation workers
+
+*2024-09-13 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/193628) · `ta`
+
+Sri Lanka: New Gazette sets minimum wage for plantation workers at 1350 rupees per day, effective September 10. Includes daily allowance and pension contributions. Tea workers must receive over 50 rupees per kilogram.
+
+🟩
+
+Gazette Notification has been issued for plantation workers with a base salary of 1350 rupees. The Gazette Notification, issued by the Secretary to the Ministry of Industry and Foreign Employment on Thursday (12), will be implemented from September 10.
+
+This gazette has been published under Section 30 of the Salary Councils Command Act. Accordingly, the daily minimum base salary is 1350 rupees and each kg of tea should be paid more than 50 rupees.
+
+It is further stated in the Gazette that the basic salary of 1350 rupees includes the daily budget and the Employees Provident Fund and the Employee Trust Fund.
+
+◼️
+
+[Data](articles/ccf255d6.json)
+
+[Extended Data](ext_articles/ccf255d6.ext.json)
+
+---
+
+### Violence in the country again is lifted;People have no talk and political rights -Sajith Premadasa
+
+*2024-09-13 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193626) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Violence escalates in Sri Lanka. Universities close due to unrest. Opposition leader Sajith Premadasa criticizes government over attacks. He calls for unity against economic challenges and political instability.
+
+🟩
+
+Violence and terrorism are currently heading in the country. University is closed due to violence at Jayawardenapura University. The opposition leader said that this scandalous attack has taken place during the discussion of many social organizations.
+
+There is freedom of expression and politics in this country. We question whether the people support the deadly fascist argument, violence and morality here.. The Opposition Leader said, "We are requesting the United People's Power to get the power to drive for the public."
+
+The 49th People's Alliance organized by the United People's Alliance (UPFA) ahead of the 2024 presidential election was held on September 13 under the leadership of Opposition Leader Sajith Premadasa.. The Leader of the Opposition said this while addressing the event.
+
+...
+
+[Data](articles/9ed7b33a.json)
+
+[Extended Data](ext_articles/9ed7b33a.ext.json)
 
 ---
 
@@ -180,6 +310,100 @@ Nonetheless, she stated that important vulnerabilities do remain, and that susta
 
 ---
 
+### Foreign employment agent arrested for allegedly sending Rs 60 lakhs of rupees to Cyprus
+
+*2024-09-13 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/193610) · `ta`
+
+Foreign employment agent arrested for fraudulently sending Rs 60 lakhs to Cyprus. Deceived 10 youth, investigation reveals 15 victims total. Suspect detained at Katunayake airport.
+
+🟩
+
+A foreign employment agent who tried to flee from the Katunayake airport has been arrested by the Katunayake airport police on Friday (13).
+
+The foreign employment agent has called for the job to work for Cyprus, deceiving the ten youth and girls to get money and come to the Katunayake airport.
+
+The suspect was arrested at the Katunayake airport at 08.45 am when the flight to the youth was on board at 10.30 am today (13).
+
+An investigation into the victim's youth has revealed that the foreign employment agency has received money from 15 more people claiming to be employed to Cyprus.
+
+The Katunayake airport police have taken steps to hand over the arrested suspect to the JHL police station.
+
+◼️
+
+[Data](articles/c80530b4.json)
+
+[Extended Data](ext_articles/c80530b4.ext.json)
+
+---
+
+### Kausalya Nawaratne resigned from the Sri Lanka Lawyers Association
+
+*2024-09-13 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/193629) · `ta`
+
+Kausalya Nawaratne resigns as Sri Lanka Lawyers Association president.
+
+🟩
+
+President of the Sri Lanka Lawyers Association President Kausalya Nawaratne has resigned from the post.
+
+◼️
+
+[Data](articles/32101528.json)
+
+[Extended Data](ext_articles/32101528.ext.json)
+
+---
+
+### Information on the presidential election: The Election Commission appealed to the people!
+
+*2024-09-13 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193600) · `ta`
+
+Election Commission warns against fake news on presidential election. Emphasizes free, fair, and credible polls. Urges public to rely only on official announcements.
+
+🟩
+
+The Election Commission issued a key notice on Friday (13) regarding the fake information being spreading the presidential election.
+
+The Election Commission has already made all arrangements to hold the presidential election freely, fair and credible.
+
+The Election Commission has issued circular issues, instructions and work on the task of the law in this regard and has advised the public and the mass media on it.
+
+However, in contrast to the instructions of the Election Commission, various persons and organizations are concerned about the election process (ie, voting, counting, strengthening election laws, and propaganda and other administration).
+
+The report states that they are not the official announcements of the Election Commission, and that all such claims are incapable of official validity and that the Election Commission has no responsibility.
+
+...
+
+[Data](articles/024f24cf.json)
+
+[Extended Data](ext_articles/024f24cf.ext.json)
+
+---
+
+### Election Campaigns completed by 18th - Elections Commission
+
+*2024-09-13 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193587) · `ta`
+
+Elections Commission: All election campaigns must end by 18th midnight. No campaigning allowed after that. Police can remove candidate/party stickers and flyers. 6-week campaign period; stop all activities 48 hours before election on 21st.
+
+🟩
+
+The Elections Commission has said that all propaganda actions regarding the presidential election should be completed by midnight on the 18th.
+
+After that, the Election Commission stated that it has been banned from conducting any election campaign.
+
+At the same time, the Elections Commission said the police have the authority to remove stickers and leaflets pasted to promote candidates and parties in public or private vehicles.
+
+The Elections Commission further stated that 6 weeks' time for the presidential election has been granted and all propaganda activities should be stopped within 48 hours before the presidential election on the 21st.
+
+◼️
+
+[Data](articles/17b68175.json)
+
+[Extended Data](ext_articles/17b68175.ext.json)
+
+---
+
 ### The import of vehicles from 1st October
 
 *2024-09-13 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200997) · `si`
@@ -250,6 +474,30 @@ Chairman of the Bar Association of Sri Lanka President's Counsel Kaushaly Nawara
 
 ---
 
+### 250 lakhs of gold caught cannot be chased away from Katunayake
+
+*2024-09-13 18:48:00* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-250ක-රන්-කුඩු-කටුනායකින්-පන්නන්න-බැරි-වෙයි/11-411936) · `si`
+
+Gold smuggling case: Customs officers arrest businessman at Katunayake Airport. 250 lakhs worth of gold powder seized. Further investigation ongoing.
+
+🟩
+
+Customs officers have been arrested by the Katunayaka Airport Agenne, which is illegally embodied a stock of gold powder worth Rs. 50,000 Rs.
+
+He is a 37 year old businessman from Negombo. He arrived at Mumbai, Dubai, India, from now on 12.10 pm Indgo airline 6 pm. The flight of 1185 was on the Katunayake airport.
+
+He had taken place and hiding and hiding and the gold belt in the innish belt.
+
+The person in custody and conducting further investigations are being investigated.
+
+◼️
+
+[Data](articles/35bfcae2.json)
+
+[Extended Data](ext_articles/35bfcae2.ext.json)
+
+---
+
 ### Kaushalya Nawaratne resigns as BASL President
 
 *2024-09-13 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101950/kaushalya-nawaratne-resigns-as-basl-president) · `en`
@@ -293,6 +541,32 @@ Men's retirement increased by 60 to 63 years old.
 [Data](articles/1a8c7e39.json)
 
 [Extended Data](ext_articles/1a8c7e39.ext.json)
+
+---
+
+### Election monitors of 9 countries visit the country;Monitoring will be launched from the 18th- the Election Commission
+
+*2024-09-13 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193623) · `ta`
+
+International election monitors from 9 countries, including EU and Commonwealth, arrive in Sri Lanka to observe presidential election process starting August 18.
+
+🟩
+
+Elections Commission Chairman RMAL Ratnayake said that the election monitors from the nine countries to visit the country will begin the election monitoring from the 18th of this month.
+
+As the country's ninth presidential election is scheduled to take place on September 21, the Election Commission has officially called on the Elections Commission to the European Union, Commonwealth and other international countries.
+
+Two groups of the EU Election Monitoring Committee have arrived in the country in the past few weeks and they have begun election monitoring nationwide.
+
+Meanwhile, the 13 -member Commonwealth Election Monitoring Committee, led by former President of Sishels, Denny Fore, will arrive on Sunday (15) to monitor the upcoming presidential election process.
+
+Elections Commission Chairman RMAL Ratnayake said that in this context, election monitors from nine countries will visit the country and they will begin election monitoring in the country from the 18th of this month.
+
+...
+
+[Data](articles/e69e4463.json)
+
+[Extended Data](ext_articles/e69e4463.ext.json)
 
 ---
 
@@ -2087,263 +2361,5 @@ Accordingly, the penalties were taken into court to the court, and the Magistrat
 [Data](articles/7030cc41.json)
 
 [Extended Data](ext_articles/7030cc41.ext.json)
-
----
-
-### Dilith’s strategic plan essential to rebuild bankrupt nation - Gamini Waleboda
-
-*2024-09-13 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101933/diliths-strategic-plan-essential-to-rebuild-bankrupt-nation-gamini-waleboda) · `en`
-
-Member of Parliament Gamini Waleboda has stated that the national strategic plan presented by the presidential candidate of the ‘Sarvajana Balaya’ alliance, Dilith Jayaweera is essential to rebuild the bankrupt country.
-
-‘Sarvajana Balaya’ Executive Member MP Waleboda added that around 35% of voters have not yet decided as to which candidate they should vote for.
-
-“35% of the voters have not yet decided who they will vote for. Therefore, we say that if you want to rebuild the bankrupt state, support the National Strategic Plan presented by our candidate,” he said.
-
-◼️
-
-[Data](articles/4e2175ec.json)
-
-[Extended Data](ext_articles/4e2175ec.ext.json)
-
----
-
-### A mobile phone in Suda's cell
-
-*2024-09-13 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200970) · `si`
-
-Mobile phone found in prisoner's cell at high-security jail. Officials investigate SIM card. Phone belongs to detainee named Wele Man. Case handed over to prison manager for further investigation.
-
-🟩
-
-Sudar Suda, Suda, Sudha Kumara, was found in the cell phone at the Paradise Tests at the Boossa High Security Prison.
-
-Special Task Force officials were investigated yesterday (12).
-
-The phone was found in a section 38 of the section A section a detaineing the Wele Man.
-
-However, this is a SIMs without a mobile phone and has been handed over to the prison manager for further investigations.
-
-◼️
-
-[Data](articles/d3f61529.json)
-
-[Extended Data](ext_articles/d3f61529.ext.json)
-
----
-
-### Candidates’ representatives allowed to escort ballot boxes to counting centers
-
-*2024-09-13 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101932/candidates-representatives-allowed-to-escort-ballot-boxes-to-counting-centers-) · `en`
-
-The Election Commission has announced that the vehicles carrying representatives of presidential candidates will be permitted to escort the vehicles transporting ballot boxes from polling stations to counting centers.
-
-This aims to address concerns raised by some politicians and candidates regarding the integrity of the ballot boxes during transit.
-
-According to the commission, representatives may follow the vehicle carrying the ballot boxes up to the last police checkpoint near the counting center.
-
-However, in order to be allowed to escort such vehicles, an authorized representative of the candidate must submit a detailed report to the District Election Office three days before polling day.
-
-This report should include the name of the relevant polling station, the vehicle number of the escorting vehicle, and the name of the representative on board.
-
-A vehicle license for this purpose can be obtained from the Senior Polling Officer at the relevant polling station.
-
-...
-
-[Data](articles/e176fd94.json)
-
-[Extended Data](ext_articles/e176fd94.ext.json)
-
----
-
-### A large quantity of drugs including illegally carrying
-
-*2024-09-13 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200969) · `si`
-
-Indian national arrested at Bangalore airport for smuggling drugs. Suspect involved in drug racket supplying to local pharmacies and hospitals. Seized large quantities of various drugs including fertility medications.
-
-🟩
-
-A Indian national has been arrested by an Indian national who was illegally brought to Sri Lanka.
-
-He was arrested by Airport Customs Officers at Bangalore from India.
-
-It is reported that the suspect has been illegal as an illusion of about Rs.
-
-It is revealed that he was involved in a racket of selling drugs to private pharmacies and hospitals in the country.
-
-It is said that he had many drugs including drugs, including the fertility of women's fertility, and the fertility of women's fertility.
-
-◼️
-
-[Data](articles/a43cc0de.json)
-
-[Extended Data](ext_articles/a43cc0de.ext.json)
-
----
-
-### Trump: No more debates with Kamala Harris
-
-*2024-09-13 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101930/trump-no-more-debates-with-kamala-harris) · `en`
-
-Republican nominee Donald Trump said on Thursday he would not participate in another presidential debate against Kamala Harris ahead of the Nov. 5 election, after several polls showed his Democratic rival won their debate earlier this week.
-
-“THERE WILL BE NO THIRD DEBATE!” the former president wrote on social media site Truth Social. Trump had participated in a debate against President Joe Biden in June before his debate against Harris on Tuesday.
-
-Although Trump touted his performance on Tuesday against Harris, six Republican donors and three Trump advisers who spoke to Reuters earlier this week said they thought Harris had won the debate largely because Trump was unable to stay on message.
-
-The debate attracted 67.1 million television viewers, according to Nielsen data.
-
-Harris, speaking at a rally shortly after Trump’s post went live, said: “I believe we owe it to the voters to have another debate.”
-
-...
-
-[Data](articles/8af3e7c5.json)
-
-[Extended Data](ext_articles/8af3e7c5.ext.json)
-
----
-
-### I didn't take the country no one to take a half - Ranil
-
-*2024-09-13 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200968) · `si`
-
-Ranil Wickremesinghe: "I didn't seize power; no one else could. Country in crisis, took over to restore stability. Slow progress, need more time. Focus on reducing taxes, creating jobs."
-
-🟩
-
-Independent presidential candidate Ranil Wickremesinghe says he did not take the country and had to take over the country as anyone had no one to take over the country.
-
-Ranil Wickremesinghe is speaking at the Kesbewa rally rally of the Sri Lankan wicketing population rally.
-
-"I was able to accept it when the country was in crisis and change. I did that on one belief. I didn't take the country away from anyone. There was no one to get. "
-
-"Now the country is slowly slowly. We have to confirm that now. To do it, they go another three to four years. It was the case to ask for the mandate. "
-
-"Lighten the burden of living, reduce the tax burden, and we have a program to generate job creation."
-
-◼️
-
-[Data](articles/b0e05f15.json)
-
-[Extended Data](ext_articles/b0e05f15.ext.json)
-
----
-
-### Special Transport Service from Today
-
-*2024-09-13 07:49:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-விசேட-போக்குவரத்து-சேவை/175-343711) · `ta`
-
-Sri Lanka Transport Board implements special bus service for long weekend. SLTB deploys 60 buses. National Transport Commission adds unscheduled routes. Railway Department operates special trains from Badulla to Colombo tonight and tomorrow.
-
-🟩
-
-A special transport service has been implemented for a long weekend vacation from today.
-
-According to the Sri Lanka Transport Board (SLTB), steps have been taken to serve about 60 buses.
-
-The National Transport Commission has said that it is planning to carry out additional bus services without time schedule.
-
-Meanwhile, special train services will be carried out from Badulla to Colombo on tonight and tomorrow, the Railway Department said.. (A)
-
-◼️
-
-[Data](articles/39363638.json)
-
-[Extended Data](ext_articles/39363638.ext.json)
-
----
-
-### Namal says the only challenge
-
-*2024-09-13 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200967) · `si`
-
-Namal addresses challenges faced by fishermen and elephants during his speech in Vavuniya, emphasizing unity between presidential candidates and local communities in addressing environmental issues.
-
-🟩
-
-Presidential candidate at the Sri Lanka General Fishermen and the Fishermen of Sri Lanka and Fishermen are the same challenge.
-
-He was speaking at a public rally in Vavuniya to end the human-elephant conflict.
-
-◼️
-
-[Data](articles/753b083f.json)
-
-[Extended Data](ext_articles/753b083f.ext.json)
-
----
-
-### President plans expansion of public and private educational institutions in Sri Lanka
-
-*2024-09-13 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101929/president-plans-expansion-of-public-and-private-educational-institutions-in-sri-lanka) · `en`
-
-President Ranil Wickremesinghe announced that the country will soon see the establishment of numerous new educational institutions, both public and private.
-
-These new institutions will provide young people with opportunities for higher education that meet global standards, he said.
-
-The President made this statement during a ceremony on Thursday (12) at the Galle Face Hotel, Colombo, where he inaugurated the “Times School of Higher Education.”
-
-The President stated that they plan to allocate government funds to support 50,000 youths in receiving vocational training at recognized institutions. “We have the capability to establish such institutions to provide this training, complementing existing training programs.”
-
-He stated that as the country develops over the coming years, increased investment opportunities and the creation of new industries are expected to generate approximately 100,000 new jobs in both the public and private sectors.
-
-...
-
-[Data](articles/94587a95.json)
-
-[Extended Data](ext_articles/94587a95.ext.json)
-
----
-
-### Anura promise fishermen
-
-*2024-09-13 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200966) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka presidential candidate Anura Kumara Dissanayake promises fishermen exemption from fisheries regulations during a rally in Ambalantota.
-
-🟩
-
-Presidential candidate Anura Kumara Dissanayake says that the fishermen will be exempt from the fisheries for fisheries.
-
-He was speaking at a rally held in Ambalantota, Ambalantota.
-
-◼️
-
-[Data](articles/4ed59f8b.json)
-
-[Extended Data](ext_articles/4ed59f8b.ext.json)
-
----
-
-### Can ballot boxes be transferred?
-
-*2024-09-13 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200965) · `si`
-
-Ballot boxes transfer allowed between polling stations and counting centers. Candidates may visit during transport. Vehicle details must be reported to Election Office. Some politicians transported boxes post-election. Over 3500 election-related complaints received.
-
-🟩
-
-From the polling station from the polling station to the counting center, the candidates have been able to visit the candidates to visit the candidates.
-
-Accordingly, the Elections Commission further stated that the ballot boxes to the final police checkpoint near the counting center from the polling center said.
-
-If necessary, the name of the polling station and the name of the vehicle in the vehicle and the name of the vehicle in the vehicle, a delegation should be given to the District Election Office three days ago.
-
-The Elections Commission is informed that the vehicle license can be obtained from the Senior Masters of the polling party.
-
-The Elections The Elections Announced that some politicians and candidates have been responding to the counting box to the counting center after the end of the election.
-
-Meanwhile, the number of complaints received by the Elections Commission regarding the presidential election has exceeded the 3,500 limit.
-
-...
-
-[Data](articles/de464f6e.json)
-
-[Extended Data](ext_articles/de464f6e.ext.json)
 
 ---

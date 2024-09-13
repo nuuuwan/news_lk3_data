@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 10:38:05**
+As of **2024-09-13 10:56:28**
 
 ## Newspaper Stats
 
-*Scraped **43,668** Articles*
+*Scraped **43,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,660
 dailyftlk | 2,910
 adalk | 4,043
 dailymirrorlk | 4,733
-adaderanalk | 5,124
-tamilmirrorlk | 5,683
+adaderanalk | 5,125
+tamilmirrorlk | 5,684
 virakesarilk | 6,913
 adaderanasinhalalk | 7,457
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 7,457
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,586 (99.8%) of 43,668 articles have been extended.
+43,596 (99.8%) of 43,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### Complaint not to open the northern railway line
+
+*2024-09-13 10:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வடக்கு-புகையிரத-பாதையை-திறக்க-வேண்டாம்-என-முறைப்பாடு/71-343713) · `ta`
+
+Locomotive Directors Engineers Association opposes opening Anuradhapura-Northern Railway due to safety concerns and incomplete renovation work. They've written to Elections Commission requesting suspension of the project.
+
+🟩
+
+The Locomotive Directors Engineers Association has sent a letter to the Elections Commission demanding the suspension of the opening of the railway line from Anuradhapura to the Northern Railway.
+
+They allege that the signal system of the service religion has not been revamped and that the railway line is unsafe.
+
+Against this backdrop, the Locomotive Directors Engineers Association has said that efforts are being made to open the presidential election as the amendment work from the Northern Railway Religion to the Mahawa Religion is incomplete.. Remble
+
+◼️
+
+[Data](articles/0aececf1.json)
+
+[Extended Data](ext_articles/0aececf1.ext.json)
+
+---
+
+### ‘Protecting farmers and fishermen my only challenge’ – Namal
+
+*2024-09-13 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101936/protecting-farmers-and-fishermen-my-only-challenge-namal) · `en`
+
+The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP), MP Namal Rajapaksa, stated that protecting the country’s farmers and fishermen is his only challenge.
+
+Speaking at a public rally in Vavuniya, he also emphasized that his government would work to resolve the human-elephant conflict.
+
+◼️
+
+[Data](articles/a71d8d1a.json)
+
+[Extended Data](ext_articles/a71d8d1a.ext.json)
+
+---
 
 ### Anura Kumara assures diesel subsidy for fishermen under NPP govt
 
@@ -90,25 +128,37 @@ He also stressed that it is important to protect the hard -winning victories. Re
 
 ---
 
-### ශ්‍රී ලංකාවේ වනජීවී අපරාධයක් සඳහා මෙතෙක් පැනවූ ඉහළම දඩය නියම කෙරේ
+### The highest fine for a wildlife crime in Sri Lanka has been set
 
 *2024-09-13 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200971) · `si`
 
-යාල වනෝද්‍යානයෙන් සමනල විශේෂ 92ක් ඇතුළුව ආවේණික කෘමීන් සිය ගණනක් හොර රහසේ රැගෙන යාමට උත්සාහ කළ ඉතාලි ජාතික පියෙකුට සහ ඔහුගේ පුතාට ශ්‍රී ලංකා රුපියල් කෝටි 6ක දඩයක් නියම කර තිබේ.
+Sri Lanka: Italian father son fined Rs. for insect collection in Yala National Park. Highest wildlife crime penalty set.
 
-නීතිවිරෝධී ලෙස කෘමීන් එකතු කිරීම, සන්තකයේ තබා ගැනීම සහ ප්‍රවාහනය කිරීම සම්බන්ධයෙන් සැප්තැම්බර් මස මුලදී ඔවුන් වරදකරුවන් කර ඇති අතර ඔවුන් දෙදෙනාට තිබූ දඩය මෙරට වනජීවී අපරාධයක් සඳහා නියම කර ඇති ඉහළම දඩය නියම ලෙස සඳහන් වෙයි.
+🟩
 
-තිස්සමහාරාම මහෙස්ත්‍රාත් තරිඳු සමීර ද සිල්වා මහතා විසින් පසුගිය 3 වනදා එම නියම කරන කළේය.
+An Italian father and his son have fined Rs.
 
-යාල ජාතික වනෝද්‍යානයේ ආරක්ෂකයින් විසින් 68 හැවිරිදි ලුයිගි ෆෙරාරි සහ ඔහුගේ 28 හැවිරිදි පුත්‍රයාව මේ වසරේ මැයි 8 වනදා කෘමීන් අඩංගු භාජන සමඟ අත්අඩංගුවට ගෙන තිබුණි.
+Initially, they were convicted in September regarding September, adding, possession, collecting and transporting insects.
 
-අප වාර්තාකරු සඳහන් කළේ එම සැකකරුවන් දෙදෙනාට චෝදනා 810ක් එල්ලකර තිබුණ ද පසුව එය 304 දක්වා අඩුකළ බවය.
+Tissamaharama Magistrate Tharindu Same Same Sameera Same Sameewe Samee de Silva on the 3rd.
 
-ඉතාලි ජාතිකයින් වෙනුවෙන් වෙනත් ප්‍රදේශවලින් පැමිණි නීතිඥ කණ්ඩායමක් පෙනී සිටි අතර ඔවුන් විත්තිය වෙනුවෙන් අධිකරණයට කරුණු දක්වමින් කියා තිබුණේ සැකකරුවන් දෙස සානුකම්පිතව බලා අවම දඩයක් නියම කරන ලෙසය.
+The 68-year-old Luigi Farri and his 28-year-old son in the Yala National Park were arrested with insects on 8 May this year.
+
+Our correspondent stated that the two suspects had launched 810 charges to 304.
+
+A team of lawyers appeared for the Italian nationals, they claimed to court on behalf of the accused.
+
+The Magistrate said that the accused had taken measured to resolve the case quickly due to the overseers and that the judiciary was able to address the case quickly.
+
+According to the Fauna and Flora Ordinance, the Magistrate said that the two charges filed following the charges regarding safe animals.
+
+Accordingly, the penalties were taken into court to the court, and the Magistrate ordered the accused to pay a sum of Rs.
 
 ...
 
 [Data](articles/7030cc41.json)
+
+[Extended Data](ext_articles/7030cc41.ext.json)
 
 ---
 
@@ -130,21 +180,27 @@ Member of Parliament Gamini Waleboda has stated that the national strategic plan
 
 ---
 
-### වෙලේ සුදාගේ සිරකුටියේ ජංගම දුරකථනයක්
+### A mobile phone in Suda's cell
 
 *2024-09-13 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200970) · `si`
 
-බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ සිදුකළ හදිසි පරීක්ෂාවකදී වෙලේ සුදා නොහොත් සමන්ත කුමාර රඳවා තිබූ සිරකුටියේ තිබී ස්මාර්ට් ජංගම දුරකථනයක් සොයාගෙන ඇත.
+Mobile phone found in prisoner's cell at high-security jail. Officials investigate SIM card. Phone belongs to detainee named Wele Man. Case handed over to prison manager for further investigation.
 
-පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විසින් ඊයේ (12) මෙම සෝදිසි කිරීම සිදුකර තිබුණි.
+🟩
 
-වෙලේ සුදා රඳවා සිටින විශේෂ අංශයේ A කොටසේ අංක 38 සිරමැදිරිය තුළ තිබී මෙම දුරකථනය සොයාගෙන ඇත.
+Sudar Suda, Suda, Sudha Kumara, was found in the cell phone at the Paradise Tests at the Boossa High Security Prison.
 
-කෙසේ වෙතත් මෙය සිම්පත් රහිත ජංගම දුරකථනයක් වන අතර, මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සඳහා එය විශේෂ කාර්ය බළකා නිලධාරීන් විසින් බන්ධනාගාර පාලනාධිකාරිය වෙත භාරදී ඇත.
+Special Task Force officials were investigated yesterday (12).
+
+The phone was found in a section 38 of the section A section a detaineing the Wele Man.
+
+However, this is a SIMs without a mobile phone and has been handed over to the prison manager for further investigations.
 
 ◼️
 
 [Data](articles/d3f61529.json)
+
+[Extended Data](ext_articles/d3f61529.ext.json)
 
 ---
 
@@ -172,23 +228,29 @@ A vehicle license for this purpose can be obtained from the Senior Polling Offic
 
 ---
 
-### නීතිවිරෝධීව රැගෙන ආ එන්නත් ඇතුළු ඖෂධ තොගයක් හසුවෙයි
+### A large quantity of drugs including illegally carrying
 
 *2024-09-13 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200969) · `si`
 
-පිළිකා මර්දන එන්නත් ඇතුළු ඖෂධ තොගයක් නීතිවිරෝධීව මෙරටට රැගෙන ආ ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට ගෙන තිබේ.
+Indian national arrested at Bangalore airport for smuggling drugs. Suspect involved in drug racket supplying to local pharmacies and hospitals. Seized large quantities of various drugs including fertility medications.
 
-ඉන්දියාවේ බැංගලෝර් සිට මෙරටට පැමිණීමේදී ගුවන්තොටුපොළ රේගු නිලධාරීන් විසින් ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-සැකකරු රුපියල් ලක්ෂ 25ක් පමණ වටිනා ඖෂධ තොගයක් නීතිවිරෝධි ලෙස මෙරට රැගෙනවිත් ඇති බව වාර්තා වෙයි.
+A Indian national has been arrested by an Indian national who was illegally brought to Sri Lanka.
 
-මොහු ගුවන් මගින් මෙලෙස ඖෂධ රැගෙනවිත් රටපුරා පිහිටි පෞද්ගලික ඔසුසැල් සහ රෝහල් වෙත අලෙවි කිරීමේ ජාවාරමක නිරතවී සිටි පුද්ගලයෙකු බවට තොරතුරු හෙළිවී ඇත.
+He was arrested by Airport Customs Officers at Bangalore from India.
 
-පිරිමින්ගේ පුරස්ථි ග්‍රන්ථ ආශ්‍රිතව හට ගන්නා පිළිකා මර්දනයට යොදාගන්නා එන්නත්, කාන්තාවන්ගේ සරු බව වර්ධනය කිරීමට යොදාගන්නා ඖෂධ ඇතුළු ඖෂධ රැසක් ඔහු සතුව තිබූ ඖෂධ අතරට අයත් බව පැවසෙයි.
+It is reported that the suspect has been illegal as an illusion of about Rs.
+
+It is revealed that he was involved in a racket of selling drugs to private pharmacies and hospitals in the country.
+
+It is said that he had many drugs including drugs, including the fertility of women's fertility, and the fertility of women's fertility.
 
 ◼️
 
 [Data](articles/a43cc0de.json)
+
+[Extended Data](ext_articles/a43cc0de.ext.json)
 
 ---
 
@@ -2195,59 +2257,5 @@ By 6.00 pm today, the administration has informed all students to leave the univ
 [Data](articles/c932db73.json)
 
 [Extended Data](ext_articles/c932db73.ext.json)
-
----
-
-### 2024 Presidential Election: 77% of polling cards distributed
-
-*2024-09-12 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101922/2024-presidential-election-77-of-polling-cards-distributed) · `en`
-
-The Postal Department says that around 77% of official polling cards for the 2024 presidential election have already been distributed thus far.
-
-Deputy Postmaster General Rajitha Ranasinghe says that the distribution of nearly 13.2 million official polling cards has already been completed.
-
-He further said that the polling cards will also be distributed to the voters tomorrow (13) and the day after (14).
-
-Ranasinghe said that if any voter has not received their official polling cards by Saturday, they can visit their local post office with their National Identity Card (NIC) after September 18 to verify their identity and obtain their polling card.
-
-He stated that this opportunity will be available for the voters until the date of the presidential election, which will be held on September 21.
-
-◼️
-
-[Data](articles/f8a79c00.json)
-
-[Extended Data](ext_articles/f8a79c00.ext.json)
-
----
-
-### Hip Hop Adi Tamil's 'Last World War'
-
-*2024-09-12 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/193517) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Last World War", starring Hip Hop Adi Tamil, explores themes of war and destruction. Directed by Adi, it features music by Arjun Raja and a mix of established actors and newcomers. Sundar C praises Adi's growth from composer to multi-talent. The film focuses on the consequences of constant conflict.
-
-🟩
-
-The film 'Last World War', which plays the lead role in the musician, leading star actor and director, Hip Hop Adi Tamil, has been described as the 'Last World War'.
-
-Hip Hop Adi Tamil Movement and released on the twentieth day of the film 'Last World War' in the movie 'Last World War', Hip Hop Adi Tamil, Anaka, Natyam Natraj, Lion Tiger, Alagam Perumal, Thalaivasal Vijay, Harish Uthaman, choreographer KalyanKumaravel, Ilango Kumaran, Shah Rao and many others have been cast.
-
-The film, which is being recorded by Arjun Raja, has composed the Hip Hop Adi Tamil.
-
-The film is being produced as Exan Entertainer and has produced the director, composer and actor Hip Hop Adi Tamil on behalf of Hip Hop Tamil Entertainment Company.
-
-Sundar, director, actor and producer with the film crew. C participated as a special guest.
-
-Sundar C, who congratulated the film crew, said, “I only introduced Adi in the film industry.
-
-...
-
-[Data](articles/fd90e26f.json)
-
-[Extended Data](ext_articles/fd90e26f.ext.json)
 
 ---

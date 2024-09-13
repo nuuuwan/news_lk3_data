@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 00:23:06**
+As of **2024-09-14 00:37:59**
 
 ## Newspaper Stats
 
-*Scraped **43,782** Articles*
+*Scraped **43,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,8 +14,8 @@ bbccomsinhala | 426
 colombotelegraphcom | 429
 islandlk | 2,557
 economynextcom | 2,675
-dailyftlk | 2,910
-adalk | 4,052
+dailyftlk | 2,912
+adalk | 4,053
 dailymirrorlk | 4,733
 adaderanalk | 5,143
 tamilmirrorlk | 5,690
@@ -26,9 +26,27 @@ adaderanasinhalalk | 7,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,782 (100.0%) of 43,782 articles have been extended.
+43,785 (100.0%) of 43,785 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-14 (Saturday)
+
+### The race is not to the swift, nor neo-racism to the slick
+
+*2024-09-14 00:07:25* · [`dailyftlk`](https://www.ft.lk/columns/The-race-is-not-to-the-swift-nor-neo-racism-to-the-slick/4-766726) · `en`
+
+We can only trust and hope that an electorate that has repeatedly suffered from the fallout of racial politicking that burned towns and cremated the dead against their religious convictions has learned the lessons of history and won’t provoke the fates by any attempt to repeat the same – Pic by Shehan Gunasekara
+
+The Sihala Urumaya (SU) was formed in April 2000 on the basis that while Tamils and Muslims demonstrably had political parties to safeguard their interests, the majority community suffered from a lacuna in this regard. But the SU may have conveniently – or cynically – overlooked how the United National Party (UNP) as well as the Sri Lanka Freedom Party (SLFP) openly catered primarily to the wellbeing of the island’s Sinhalese Buddhists, and arguably shared the dubious honour of pioneering ‘political Buddhism’
+
+...
+
+[Data](articles/7bc0dff1.json)
+
+[Extended Data](ext_articles/7bc0dff1.ext.json)
+
+---
 
 ### 2024-09-13 (Friday)
 
@@ -63,6 +81,48 @@ Meanwhile, Dissanayake won the gold medal for Sri Lanka in men's thirties. He re
 [Data](articles/50e01063.json)
 
 [Extended Data](ext_articles/50e01063.ext.json)
+
+---
+
+### Sajith's support rating up
+
+*2024-09-13 23:42:15* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-හිතකරත්ව-ශ්‍රේණිගත-කිරීම-ඉහළට/11-411939) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sajith's support rating increased. Health Policy Agency rated presidential candidate in August 2024. However, President Wickremesinghe and representative Anura Kumara Dissanayake criticized. Public opinion shows Dissanayake as least negatively viewed among candidates.
+
+🟩
+
+The Health Policy Agency issued a candidate rating of the Presidential Candidate in the Presidential Force in August 2024
+
+However, President of the Naval Wickremesinghe and the Presidential Representative of the National Power Anura Kumara Dissanayake has shown a fairly fabrication.
+
+However, by all candidates, Anura Kumara Dissanayake is the minimal negative opinion in the public.
+
+◼️
+
+[Data](articles/0eeaabb3.json)
+
+[Extended Data](ext_articles/0eeaabb3.ext.json)
+
+---
+
+### Voters are confused about the unprecedented and unique scenario
+
+*2024-09-13 23:37:41* · [`dailyftlk`](https://www.ft.lk/opinion/Voters-are-confused-about-the-unprecedented-and-unique-scenario/14-766725) · `en`
+
+Are 17.1 million voters ready to entrust the destinies of this nation to a convict who has violated the fundamental rights of the people of this country, for the next five years? – Pic by Shehan Gunasekara
+
+The simple question that comes to the mind of any fair minded reader is that did all these help and assistance by the Indian government, the IMF, the WHO, the World Bank and various other friendly countries like China and Japan come only because of RW? What a joke. What an insult to these countries and global organisations. They were offered for the people of Sri Lanka, not to the President. Besides all the loans obtained by Sri Lanka have to be repaid by the people of this country with interest after all. Even if Battaramulle Seelarathana Thera was the president at this difficult time, those creditors and international establishments would have given this assistance to Sri Lanka
+
+...
+
+[Data](articles/a0c614cf.json)
+
+[Extended Data](ext_articles/a0c614cf.ext.json)
 
 ---
 
@@ -2315,73 +2375,5 @@ A 48 -year -old driver, who lives in Hilivala, Galle, Galle, has been arrested.
 [Data](articles/cb63ee77.json)
 
 [Extended Data](ext_articles/cb63ee77.ext.json)
-
----
-
-### ‘How can we trust leaders who refuse to admit past mistakes?’ - President Ranil
-
-*2024-09-13 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101937/how-can-we-trust-leaders-who-refuse-to-admit-past-mistakes-president-ranil) · `en`
-
-President Ranil Wickremesinghe stated that all political parties, except his own, are responsible for the current state of the country.
-
-He accused the JVP of deceiving the public by pretending to distance themselves from past armed rebellions, asserting that this is a misleading tactic.
-
-The President criticized the JVP for repeating the mistake of making unrealistic promises and questioned whether it is wise to entrust the country’s future to a group unwilling to acknowledge their past errors.
-
-These remarks were made by President Wickremesinghe during the “Puluwan Peraliya” program held yesterday (12) at The Stables in Park Street Mews, Colombo.
-
-Emphasizing the importance of the upcoming election, Wickremesinghe warned that the 2024 presidential election represents the last opportunity for national rebuilding.
-
-He cautioned that further economic struggles could make recovery nearly impossible, underscoring the critical nature of this election in shaping the future of the nation.
-
-...
-
-[Data](articles/73a57ebd.json)
-
-[Extended Data](ext_articles/73a57ebd.ext.json)
-
----
-
-### We are silent because we do not want to take advantage of the crisis facing Sri Lanka - China
-
-*2024-09-13 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193557) · `ta`
-
-Sri Lanka bans China's research ships amid international pressure. China claims victory, criticizes decision as unfair. Social media users question Sri Lanka's loyalty as China's ally.
-
-🟩
-
-China has said that it is a victory for China, which is displeased with Chinese vessels being banned from engaging in joint research in the Sri Lankan waters.
-
-He said that social media users in China are questioning why Sri Lanka, China's ally, took the move.
-
-He said that Sri Lanka had taken the move due to pressure from a third -party.
-
-He said that Sri Lanka had banned China's research ships due to pressure from other countries, and China helped Sri Lanka unable to engage in such maritime research alone.
-
-◼️
-
-[Data](articles/fc7c9f1b.json)
-
-[Extended Data](ext_articles/fc7c9f1b.ext.json)
-
----
-
-### Sri Lanka rupee opens at 300.70/95, bond yields up
-
-*2024-09-13 10:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-300-70-95-bond-yields-up-179459/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 300.70/95 to the US dollar on Friday, dealers said, while bond yields were up.
-
-A bond maturing on 15.02.2028 was quoted at 13.55/65 percent.
-
-A bond maturing on 15.06.2029 was quoted at 13.70/75 percent.
-
-In equities, Colombo’s All Share Price Index opened 0.16 percent, or 16.56 points, higher at 10,583, while the S&P SL20 of more liquid stocks opened up at 0.54 percent or 15.84 points to 2,941.
-
-◼️
-
-[Data](articles/42282d9c.json)
-
-[Extended Data](ext_articles/42282d9c.ext.json)
 
 ---

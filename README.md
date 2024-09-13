@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 10:22:32**
+As of **2024-09-13 10:38:05**
 
 ## Newspaper Stats
 
-*Scraped **43,665** Articles*
+*Scraped **43,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,124
 tamilmirrorlk | 5,683
 virakesarilk | 6,913
-adaderanasinhalalk | 7,454
+adaderanasinhalalk | 7,457
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,581 (99.8%) of 43,665 articles have been extended.
+43,586 (99.8%) of 43,668 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,6 +90,28 @@ He also stressed that it is important to protect the hard -winning victories. Re
 
 ---
 
+### ශ්‍රී ලංකාවේ වනජීවී අපරාධයක් සඳහා මෙතෙක් පැනවූ ඉහළම දඩය නියම කෙරේ
+
+*2024-09-13 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200971) · `si`
+
+යාල වනෝද්‍යානයෙන් සමනල විශේෂ 92ක් ඇතුළුව ආවේණික කෘමීන් සිය ගණනක් හොර රහසේ රැගෙන යාමට උත්සාහ කළ ඉතාලි ජාතික පියෙකුට සහ ඔහුගේ පුතාට ශ්‍රී ලංකා රුපියල් කෝටි 6ක දඩයක් නියම කර තිබේ.
+
+නීතිවිරෝධී ලෙස කෘමීන් එකතු කිරීම, සන්තකයේ තබා ගැනීම සහ ප්‍රවාහනය කිරීම සම්බන්ධයෙන් සැප්තැම්බර් මස මුලදී ඔවුන් වරදකරුවන් කර ඇති අතර ඔවුන් දෙදෙනාට තිබූ දඩය මෙරට වනජීවී අපරාධයක් සඳහා නියම කර ඇති ඉහළම දඩය නියම ලෙස සඳහන් වෙයි.
+
+තිස්සමහාරාම මහෙස්ත්‍රාත් තරිඳු සමීර ද සිල්වා මහතා විසින් පසුගිය 3 වනදා එම නියම කරන කළේය.
+
+යාල ජාතික වනෝද්‍යානයේ ආරක්ෂකයින් විසින් 68 හැවිරිදි ලුයිගි ෆෙරාරි සහ ඔහුගේ 28 හැවිරිදි පුත්‍රයාව මේ වසරේ මැයි 8 වනදා කෘමීන් අඩංගු භාජන සමඟ අත්අඩංගුවට ගෙන තිබුණි.
+
+අප වාර්තාකරු සඳහන් කළේ එම සැකකරුවන් දෙදෙනාට චෝදනා 810ක් එල්ලකර තිබුණ ද පසුව එය 304 දක්වා අඩුකළ බවය.
+
+ඉතාලි ජාතිකයින් වෙනුවෙන් වෙනත් ප්‍රදේශවලින් පැමිණි නීතිඥ කණ්ඩායමක් පෙනී සිටි අතර ඔවුන් විත්තිය වෙනුවෙන් අධිකරණයට කරුණු දක්වමින් කියා තිබුණේ සැකකරුවන් දෙස සානුකම්පිතව බලා අවම දඩයක් නියම කරන ලෙසය.
+
+...
+
+[Data](articles/7030cc41.json)
+
+---
+
 ### Dilith’s strategic plan essential to rebuild bankrupt nation - Gamini Waleboda
 
 *2024-09-13 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101933/diliths-strategic-plan-essential-to-rebuild-bankrupt-nation-gamini-waleboda) · `en`
@@ -105,6 +127,24 @@ Member of Parliament Gamini Waleboda has stated that the national strategic plan
 [Data](articles/4e2175ec.json)
 
 [Extended Data](ext_articles/4e2175ec.ext.json)
+
+---
+
+### වෙලේ සුදාගේ සිරකුටියේ ජංගම දුරකථනයක්
+
+*2024-09-13 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200970) · `si`
+
+බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ සිදුකළ හදිසි පරීක්ෂාවකදී වෙලේ සුදා නොහොත් සමන්ත කුමාර රඳවා තිබූ සිරකුටියේ තිබී ස්මාර්ට් ජංගම දුරකථනයක් සොයාගෙන ඇත.
+
+පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විසින් ඊයේ (12) මෙම සෝදිසි කිරීම සිදුකර තිබුණි.
+
+වෙලේ සුදා රඳවා සිටින විශේෂ අංශයේ A කොටසේ අංක 38 සිරමැදිරිය තුළ තිබී මෙම දුරකථනය සොයාගෙන ඇත.
+
+කෙසේ වෙතත් මෙය සිම්පත් රහිත ජංගම දුරකථනයක් වන අතර, මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සඳහා එය විශේෂ කාර්ය බළකා නිලධාරීන් විසින් බන්ධනාගාර පාලනාධිකාරිය වෙත භාරදී ඇත.
+
+◼️
+
+[Data](articles/d3f61529.json)
 
 ---
 
@@ -129,6 +169,26 @@ A vehicle license for this purpose can be obtained from the Senior Polling Offic
 [Data](articles/e176fd94.json)
 
 [Extended Data](ext_articles/e176fd94.ext.json)
+
+---
+
+### නීතිවිරෝධීව රැගෙන ආ එන්නත් ඇතුළු ඖෂධ තොගයක් හසුවෙයි
+
+*2024-09-13 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200969) · `si`
+
+පිළිකා මර්දන එන්නත් ඇතුළු ඖෂධ තොගයක් නීතිවිරෝධීව මෙරටට රැගෙන ආ ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ඉන්දියාවේ බැංගලෝර් සිට මෙරටට පැමිණීමේදී ගුවන්තොටුපොළ රේගු නිලධාරීන් විසින් ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+
+සැකකරු රුපියල් ලක්ෂ 25ක් පමණ වටිනා ඖෂධ තොගයක් නීතිවිරෝධි ලෙස මෙරට රැගෙනවිත් ඇති බව වාර්තා වෙයි.
+
+මොහු ගුවන් මගින් මෙලෙස ඖෂධ රැගෙනවිත් රටපුරා පිහිටි පෞද්ගලික ඔසුසැල් සහ රෝහල් වෙත අලෙවි කිරීමේ ජාවාරමක නිරතවී සිටි පුද්ගලයෙකු බවට තොරතුරු හෙළිවී ඇත.
+
+පිරිමින්ගේ පුරස්ථි ග්‍රන්ථ ආශ්‍රිතව හට ගන්නා පිළිකා මර්දනයට යොදාගන්නා එන්නත්, කාන්තාවන්ගේ සරු බව වර්ධනය කිරීමට යොදාගන්නා ඖෂධ ඇතුළු ඖෂධ රැසක් ඔහු සතුව තිබූ ඖෂධ අතරට අයත් බව පැවසෙයි.
+
+◼️
+
+[Data](articles/a43cc0de.json)
 
 ---
 
@@ -2189,73 +2249,5 @@ Sundar C, who congratulated the film crew, said, “I only introduced Adi in the
 [Data](articles/fd90e26f.json)
 
 [Extended Data](ext_articles/fd90e26f.ext.json)
-
----
-
-### Namal vows to transform Sri Lanka into a developed nation within 10 years
-
-*2024-09-12 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101921/namal-vows-to-transform-sri-lanka-into-a-developed-nation-within-10-years-) · `en`
-
-The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP), Namal Rajapaksa says that he will work to ensure that Sri Lanka is transformed into a developed nation in Asia within the next 10 years.
-
-Rajapaksa made these comments while addressing a public rally held in Agalawatta area.
-
-He further emphasized his support for the local farmers by ensuring fair and stable prices for their produce such as tea leaves, pepper, and milk.
-
-“We believe that the fertilizer subsidy should also be given to tea small holders. We work with a plan and a programme. We’re a force and principled political party. Therefore we have a plan and a programme,” he said.
-
-“We declare to you that we will fulfill the responsibility of transforming Sri Lanka into a developed country in Asia within the next 10 years,” he added.
-
-He further said that he has created a political force with a group of principled politicians needed to build this country in a difficult time and a challenging period.
-
-...
-
-[Data](articles/9cdedeee.json)
-
-[Extended Data](ext_articles/9cdedeee.ext.json)
-
----
-
-### Hill station proclaim
-
-*2024-09-12 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193515) · `ta`
-
-Tamil Progressive Alliance meeting in Nuwara Eliya discusses Sajith Premadasa's plans and Upcountry Charter. Mano Ganesan clarifies future strategies. Velusamy Radhakrishnan addresses party splits and warns against Ranil Wickremesinghe's potential win.
-
-🟩
-
-The latest Indian origin of the Tamil Sri Lankan Tamils ​​in the country was held on August 6 between Sajith Premadasa and the Tamil Progressive Alliance in Colombo at a private hotel in Nuwara Eliya.
-
-The event was chaired by Mano Ganesan, the leader of the Tamil Progressive Alliance and Member of Parliament, and the Chairman of the National Association of Workers, Palani Thikambaram, and the leader of the Upcountry People's Front and Velusamy Radhakrishnan.
-
-The main representatives of the Tamil Progressive Alliance, plantation leaders, leaders and members of the National Council were present at the event.
-
-Speaking at the event, Member of Parliament Mano Ganesan made clarity on the future plans of the Presidential candidate Sajith Premadasa and the future plans of the Upcountry Charter.
-
-...
-
-[Data](articles/bb16c58b.json)
-
-[Extended Data](ext_articles/bb16c58b.ext.json)
-
----
-
-### Sri Jayawardenapura University closed
-
-*2024-09-12 16:32:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீ-ஜயவர்தனபுர-பல்கலைக்கழகம்-மூடப்பட்டது/175-343675) · `ta`
-
-Sri Jayawardenapura University closes due to conflict. Students must leave campus by 6:00 PM on Thursday, 12th. Temporary closure announced.
-
-🟩
-
-Due to a clash between the two groups, it has been decided to temporarily close the Sri Jayawardenapura University from 6.00 pm on Thursday (12).
-
-Accordingly, the administration has announced that all students will leave the university campus at 6.00 pm today.
-
-◼️
-
-[Data](articles/8e95705e.json)
-
-[Extended Data](ext_articles/8e95705e.ext.json)
 
 ---

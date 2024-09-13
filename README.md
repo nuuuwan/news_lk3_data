@@ -1,36 +1,62 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 08:19:46**
+As of **2024-09-13 08:41:49**
 
 ## Newspaper Stats
 
-*Scraped **43,652** Articles*
+*Scraped **43,656** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 424
-colombotelegraphcom | 428
+colombotelegraphcom | 429
 islandlk | 2,554
 economynextcom | 2,660
 dailyftlk | 2,910
-adalk | 4,040
+adalk | 4,041
 dailymirrorlk | 4,733
-adaderanalk | 5,118
+adaderanalk | 5,119
 tamilmirrorlk | 5,682
 virakesarilk | 6,912
-adaderanasinhalalk | 7,453
+adaderanasinhalalk | 7,454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,548 (99.8%) of 43,652 articles have been extended.
+43,553 (99.8%) of 43,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### I didn't take the country no one to take a half - Ranil
+
+*2024-09-13 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200968) · `si`
+
+Ranil Wickremesinghe: "I didn't seize power; no one else could. Country in crisis, took over to restore stability. Slow progress, need more time. Focus on reducing taxes, creating jobs."
+
+🟩
+
+Independent presidential candidate Ranil Wickremesinghe says he did not take the country and had to take over the country as anyone had no one to take over the country.
+
+Ranil Wickremesinghe is speaking at the Kesbewa rally rally of the Sri Lankan wicketing population rally.
+
+"I was able to accept it when the country was in crisis and change. I did that on one belief. I didn't take the country away from anyone. There was no one to get. "
+
+"Now the country is slowly slowly. We have to confirm that now. To do it, they go another three to four years. It was the case to ask for the mandate. "
+
+"Lighten the burden of living, reduce the tax burden, and we have a program to generate job creation."
+
+◼️
+
+[Data](articles/b0e05f15.json)
+
+[Extended Data](ext_articles/b0e05f15.ext.json)
+
+---
 
 ### Special Transport Service from Today
 
@@ -73,6 +99,28 @@ He was speaking at a public rally in Vavuniya to end the human-elephant conflict
 [Data](articles/753b083f.json)
 
 [Extended Data](ext_articles/753b083f.ext.json)
+
+---
+
+### President plans expansion of public and private educational institutions in Sri Lanka
+
+*2024-09-13 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101929/president-plans-expansion-of-public-and-private-educational-institutions-in-sri-lanka) · `en`
+
+President Ranil Wickremesinghe announced that the country will soon see the establishment of numerous new educational institutions, both public and private.
+
+These new institutions will provide young people with opportunities for higher education that meet global standards, he said.
+
+The President made this statement during a ceremony on Thursday (12) at the Galle Face Hotel, Colombo, where he inaugurated the “Times School of Higher Education.”
+
+The President stated that they plan to allocate government funds to support 50,000 youths in receiving vocational training at recognized institutions. “We have the capability to establish such institutions to provide this training, complementing existing training programs.”
+
+He stated that as the country develops over the coming years, increased investment opportunities and the creation of new industries are expected to generate approximately 100,000 new jobs in both the public and private sectors.
+
+...
+
+[Data](articles/94587a95.json)
+
+[Extended Data](ext_articles/94587a95.ext.json)
 
 ---
 
@@ -570,6 +618,18 @@ Such Corporate Finance Advisory services include capital raising – assisting c
 
 ---
 
+### The Conscience: The Birthright Tool For Integrity – Can Politicians Help Restore It?
+
+*2024-09-13 02:45:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-conscience-the-birthright-tool-for-integrity-can-politicians-help-restore-it/) · `en`
+
+In a world that often celebrates external achievements, wealth, and influence, true visionary leadership lies in something far deeper: a steadfast commitment to inward integrity and honesty. Visionaries are not only those who have achieved great things in their respective fields but also those who have turned inward and aligned their actions with an unwavering moral compass. This self-honesty transcends academic qualifications, social status, or political power. In fact, anyone with an average education or rational mind and a deep sense of self-integrity can become a visionary, one who influences the world by playing with the human mind and spirit through honesty.
+
+...
+
+[Data](articles/6ea53713.json)
+
+---
+
 ### Plantation workers being taken for a ride once again
 
 *2024-09-13 02:08:00* · [`islandlk`](http://island.lk/plantation-workers-being-taken-for-a-ride-once-again/) · `en`
@@ -582,41 +642,63 @@ Such Corporate Finance Advisory services include capital raising – assisting c
 
 ---
 
-### පාස්කු ප්‍රහාරයන්  දෑස් අන්ධ වුවද යුක්තිය පසිඳලන විනිසුරුවරියක වීමට සිහින දකින ඩෙබී
+### Debbie dreamed of being a judge that is the Easter attacks blind
 
 *2024-09-13 01:22:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4glg82ldw7o) · `si`
 
-පාස්කු ප්‍රහාරයන්  දෑස් අන්ධ වුවද යුක්තිය පසිඳලන විනිසුරුවරියක වීමට සිහින දකින ඩෙබී
+Here's a 200-character summary:
 
-මෙරට ඉතිහාසයේ එක් අඳුරු දිනයක් බවට පත් වූ  2019 වසරේ අප්‍රේල් මස 21 වැනිදා සිදුවූ පාස්කු ඉරිදා බෝම්බ ප්‍රහාර මාලාවෙන් පීඩා විදින බොහෝ දෙනා අදටත් ජීවත් වන්නේ විවිධ අභියෝග හමුවේ බව නොරහසකි.
 
-පුද්ගලයින් 260කට අධික පිරිසකට දිවි අහිමිවූ අතර තවත් පුද්ගලයින් 500 දෙනෙකුට  පමණ තුවාල සිදුවූ පාස්කු ඉරිදා බෝම්බ ප්‍රහාර මාලාවේ එක් ඉලක්කයක් වුයේ මඩකළපුව සියොන් දේවස්ථානයයි.
 
-එලිෂා ඩෙබී රංජිත් සුරංග, මඩකලපුවේ සියෝන් දේවස්ථානයට එල්ල වූ බෝම්බ ප්‍රහාරයට ගොදුරුවන විට 06 හැවිරිදි වියේ පසුවූවාය.
+Debbie lost sight in Easter bombings. She dreams of becoming a judge despite challenges. Currently learning Braille and English. Aims to study law and fight injustice.
 
-ඩෙබී තම 13 හැවිරිදි වැඩිමහල් සහෝදරයා සමග ජීවත් වන්නේ සිය මවගේ සහෝදරියගේ නිවසේයි.
+🟩
 
-බීබීසී සිංහල සේවයට අදහස් දක්වමින් ඇගේ නැන්දණිය වන වදනී මෝසෙස් පැවසුවේ දේවස්ථානයට එල්ලවූ බෝම්බ ප්‍රහාරයෙන් ඩෙබීගේ මව්පියන් මියගිය බවයි.
+Debbie dreamed of being a judge that is the Easter attacks blind
 
-"ඩෙබීගේ අම්මා; ඒ කියන්නේ මගේ වැඩිමහල් සහෝදරිය. එයයි එයාගේ මහත්තයයි දෙන්නම සියොන් දේවස්ථානයට එල්ලවූ බෝම්බ ප්‍රහාරයෙන් මිය ගියා." ඇය පැවසීය.
+It is no secret that many people who have suffered a celebration on April 21st, 2019, will still live in the face of a series of challenges on April 21st, 2019.
+
+Over 260 people, over 260 people were one goal of the Passover and Sunday bombardment.
+
+Elisha Debbie Ranjith Suranga was a six-year-old when the bomb blasts in Batticaloa.
+
+Debbie lives with his 13-year-old elderly brother at the house of his mother's sister.
+
+Speaking to the BBC Sinhala
+
+"Debbie's mother; that means my older sister. That's what the two died of the bomb blast on the Zion Church. "She said.
+
+Moses said the 38-year-old terrorists serving as the eyes of the eyes of the eyes of the eyes of the eyes of their lives.
+
+She said that three members of their families were killed in the bombing and three other family members, including his own.
+
+"I had gone to the church with my husband in the church in a while."
 
 ...
 
 [Data](articles/ba8b6531.json)
 
+[Extended Data](ext_articles/ba8b6531.ext.json)
+
 ---
 
-### இறைவரி திணைக்களத்தின் வருமானம் அதிகரிப்பு
+### An increase in income of the department
 
 *2024-09-13 00:40:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறைவரி-திணைக்களத்தின்-வருமானம்-அதிகரிப்பு/175-343707) · `ta`
 
-இந்த வருடத்தின் முதல் 8 மாதங்களில் உள்நாட்டு இறைவரி திணைக்களம் 1,229 மில்லியன் ரூபாய் வருமானத்தை ஈட்டியுள்ளது.
+Department of Home Affairs earns Rs 1,229 million in 8 months, showing 28.05% growth over previous year.
 
-கடந்த வருடத்துடன் ஒப்பிடுகையில் இது 28.05 வீத வளர்ச்சி என தெரிவிக்கப்பட்டுள்ளது. (a)
+🟩
+
+In the first eight months of this year, the Department of Home Affairs has earned Rs 1,229 million.
+
+It has been reported to be a 28.05 percent growth compared to last year. (A)
 
 ◼️
 
 [Data](articles/2f710a2e.json)
+
+[Extended Data](ext_articles/2f710a2e.ext.json)
 
 ---
 
@@ -1129,6 +1211,24 @@ Rajapakse stressed that a Buddhist country protects all religions, languages ​
 [Data](articles/d7d75a74.json)
 
 [Extended Data](ext_articles/d7d75a74.ext.json)
+
+---
+
+### නඩු භාණ්ඩ කාමරයේ හෙරොයින් කිලේ 12ක් අතුරුදන්වීමට අධිකරණයේම තවත් තිදෙනෙක් සම්බන්ධයි
+
+*2024-09-12 19:11:46* · [`adalk`](https://www.ada.lk/breaking_news/නඩු-භාණ්ඩ-කාමරයේ-හෙරොයින්-කිලේ-12ක්-අතුරුදන්වීමට-අධිකරණයේම-තවත්-තිදෙනෙක්-සම්බන්ධයි/11-411927) · `si`
+
+කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණ නඩු භාණ්ඩ කාමරයේ ගබඩා කර තිබූ හෙරොයින් කිලෝ 12ක් අතුරුදන් කිරීමට උසාවියේම තවත් තිදෙනෙකු සම්බන්ධ බව සිද්ධියට අදාළව රිමාන්ඩ් බාරයට පත් කර සිටින කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ භාරකරු වෙනුවෙන් පෙනී සිටි නීතිඥ ශ්‍යාම් ෆරීඩ් මහතා කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතාට අද (12දා) දැනුම් දුන්නේය.
+
+සැකකරු බන්ධනාගාරයේදී හමුවී උපදෙස් ලබා ගැනීමේදී ඔහු ඒ බව හෙළි කළ බවද, මෙම අපරාධයට සම්බන්ධ උසාවියේ පුද්ගලයන්ගේ නම් ඔහු හෙළි කළ බවද නීතිඥ ශ්‍යාමි ෆරීඩ් මහතා වැඩිදුරටත් දැනුම් දුන්නේය.
+
+සිද්ධියට අදාළව සැකපිට රිමාන්ඩ් බාරයට පත් කර සිටින කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ භාරකරු වශයෙන් කටයයුතු කළ මොහොමදු නියාස් මොහොමඩ් නද්වි නමැත්තා නඩුව කැඳවූ අවස්ථාවේදී බන්ධනාගාර නිලධාරීන් විසින් අධිකරණයට ඉදිරිපත් කරන ලදි.
+
+සිද්ධියට අදාළව කරන ලද විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සමූහ මංකොල්ල විමර්ශන අංශයේ නිලධාරීන් විසින්  අධිකරණයට ඉදිරිපත් කරන ලදි. මින් සිද්ධිය සම්බන්ධයෙන් තවදුරටත් ප්‍රකාශය සටහන් කර ගත යුතු යැයි ඔවුහු කීහ.
+
+...
+
+[Data](articles/dd3c2e79.json)
 
 ---
 
@@ -2171,103 +2271,5 @@ Its administration is notified to remove the university premises at 6.00 pm toda
 [Data](articles/73c5dd87.json)
 
 [Extended Data](ext_articles/73c5dd87.ext.json)
-
----
-
-### Get one of these identity documents to vote
-
-*2024-09-12 15:15:20* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-දාන්න-මේ-අනන්‍යතා-ලේඛන-වලින්-එකක්-අරන්-යන්න/11-411916) · `si`
-
-To vote, bring one: national ID, reverend/priest ID, confirmation letter, or temporary disabled person ID. These must be presented at polling stations.
-
-🟩
-
-The Elections Commission has published a valid identity card for the election for the presidential election.
-
-National Identity Card issued by the Department of Registration of Persons
-
-Reverene / priest ID issued by the Department of Registration of Persons
-
-Confirmation letter to the National Identity Card Information issued by the Department of Registration of Persons
-
-Temporary ID issued by the Election Commission for Disabled Persons
-
-Having one of the documents is compulsory to present in voting.
-
-◼️
-
-[Data](articles/b2331629.json)
-
-[Extended Data](ext_articles/b2331629.ext.json)
-
----
-
-### Sri Lanka unit of MCB Bank rated ‘AA-(lka)’ by Fitch, outlook stable
-
-*2024-09-12 15:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-unit-of-mcb-bank-rated-aa-lka-by-fitch-outlook-stable-179408/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has assigned a first-time national long-term rating of ‘AA-(lka)’ for the Sri Lanka branch of MCB Bank. The outlook is stable.
-
-Fitch said MCBSL’s currency liquidity coverage ratio of 551% at end-1H24 is supported by the branch’s large cash balance and investments in Sri Lanka treasury securities, which make nearly 51% of its total assets.
-
-Fitch’s assessment also takes into consideration the parent’s credit profile, which is constrained by the Pakistan sovereign.
-
-Fitch Assigns MCB Bank – Sri Lanka Branch First-Time National Rating of ‘AA-(lka)’; Outlook Stable
-
-Fitch Ratings – Colombo – 12 Sep 2024: Fitch Ratings has assigned MCB Bank Limited – Sri Lanka Branch (MCBSL) a first-time National Long-Term Rating of ‘AA-(lka)’. The Outlook is Stable.
-
-...
-
-[Data](articles/003d7ef2.json)
-
-[Extended Data](ext_articles/003d7ef2.ext.json)
-
----
-
-### Elpitiya Pradeshiya Sabha election on October 26
-
-*2024-09-12 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101918/elpitiya-pradeshiya-sabha-election-on-october-26) · `en`
-
-The election of the Elpitiya Pradeshiya Sabha is scheduled to be held on October 26, according to the Returning Officer of the Galle District.
-
-The deadline for the handing over of nominations for the Elpitiya Pradeshiya Sabha ended at 12 noon today (12) while time was given until 1.30 p.m. to submit objections.
-
-Accordingly, a total of 09 registered political parties and 02 independent groups had handed in nominations.
-
-The nominations for the Elpitiya Pradeshiya Sabha in the 2024 Local Government Elections were accepted from September 09 to September 12.
-
-A total of 10 recognized political parties and 02 independent groups had placed deposits for the election, however out of them only 09 recognized political parties and 2 independent groups had submitted their nomination papers today (12).
-
-Of those, the nomination papers of 08 recognized political parties and an independent group were accepted, according to Galle District Secretary W. A. Dharmasiri.
-
-◼️
-
-[Data](articles/f53c7af2.json)
-
-[Extended Data](ext_articles/f53c7af2.ext.json)
-
----
-
-### Elpitiya Pradeshiya Sabha Elections October 26
-
-*2024-09-12 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200947) · `si`
-
-Elpitiya Pradeshiya Sabha elections scheduled for October 26. Nominations began on September 9. Nine political parties and two independent groups have submitted nominations. Democratic People's Congress did not participate.
-
-🟩
-
-The date on October 26, the Elpitiya Pradeshiya Sabha elections have been placed on October 26.
-
-Lasting Last Details of the Elpitiya Pradeshiya Sabha Voluntaneration commenced on the 9th of this month.
-
-Accordingly, nine accepted political parties and two independent groups have handed over nominations.
-
-Meanwhile, two independent groups have handed over nominations and the Democratic People's Congress has not been submitted.
-
-◼️
-
-[Data](articles/7562553d.json)
-
-[Extended Data](ext_articles/7562553d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 08:41:49**
+As of **2024-09-13 08:57:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,454
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,553 (99.8%) of 43,656 articles have been extended.
+43,556 (99.8%) of 43,656 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -628,6 +628,8 @@ In a world that often celebrates external achievements, wealth, and influence, t
 
 [Data](articles/6ea53713.json)
 
+[Extended Data](ext_articles/6ea53713.ext.json)
+
 ---
 
 ### Plantation workers being taken for a ride once again
@@ -1214,21 +1216,33 @@ Rajapakse stressed that a Buddhist country protects all religions, languages ​
 
 ---
 
-### නඩු භාණ්ඩ කාමරයේ හෙරොයින් කිලේ 12ක් අතුරුදන්වීමට අධිකරණයේම තවත් තිදෙනෙක් සම්බන්ධයි
+### Three other members of court regarding the disappearance of heroin in the case room
 
 *2024-09-12 19:11:46* · [`adalk`](https://www.ada.lk/breaking_news/නඩු-භාණ්ඩ-කාමරයේ-හෙරොයින්-කිලේ-12ක්-අතුරුදන්වීමට-අධිකරණයේම-තවත්-තිදෙනෙක්-සම්බන්ධයි/11-411927) · `si`
 
-කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණ නඩු භාණ්ඩ කාමරයේ ගබඩා කර තිබූ හෙරොයින් කිලෝ 12ක් අතුරුදන් කිරීමට උසාවියේම තවත් තිදෙනෙකු සම්බන්ධ බව සිද්ධියට අදාළව රිමාන්ඩ් බාරයට පත් කර සිටින කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ භාරකරු වෙනුවෙන් පෙනී සිටි නීතිඥ ශ්‍යාම් ෆරීඩ් මහතා කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතාට අද (12දා) දැනුම් දුන්නේය.
+Here's a 200-character summary:
 
-සැකකරු බන්ධනාගාරයේදී හමුවී උපදෙස් ලබා ගැනීමේදී ඔහු ඒ බව හෙළි කළ බවද, මෙම අපරාධයට සම්බන්ධ උසාවියේ පුද්ගලයන්ගේ නම් ඔහු හෙළි කළ බවද නීතිඥ ශ්‍යාමි ෆරීඩ් මහතා වැඩිදුරටත් දැනුම් දුන්නේය.
 
-සිද්ධියට අදාළව සැකපිට රිමාන්ඩ් බාරයට පත් කර සිටින කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ භාරකරු වශයෙන් කටයයුතු කළ මොහොමදු නියාස් මොහොමඩ් නද්වි නමැත්තා නඩුව කැඳවූ අවස්ථාවේදී බන්ධනාගාර නිලධාරීන් විසින් අධිකරණයට ඉදිරිපත් කරන ලදි.
 
-සිද්ධියට අදාළව කරන ලද විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සමූහ මංකොල්ල විමර්ශන අංශයේ නිලධාරීන් විසින්  අධිකරණයට ඉදිරිපත් කරන ලදි. මින් සිද්ධිය සම්බන්ධයෙන් තවදුරටත් ප්‍රකාශය සටහන් කර ගත යුතු යැයි ඔවුහු කීහ.
+Colombo Chief Magistrate's Court: Heroin disappearance case. Suspect remanded. Attorney claims client instructed to hide evidence. CID investigation ongoing. Magistrate orders further inquiries. Next hearing set for 26th.
+
+🟩
+
+Attorney-at-Law Manumme Farid, who has been remanded in the Chief Magistrate's Court Magistrate's Court Magistrate's Court Magistrate Thilina Gamage today (12), the Chief Magistrate Thilina Gamage, who has been remanded in the Colombo Chief Magistrate's Courts.) Informed.
+
+Attorney-at-Law Shyami Fared added that the suspect had revealed the suspect in the prison.
+
+Prison officials were produced before the court when the custody of the Colombo Chief Magistrate's Court was appointed to remand in connection with the incident.
+
+A report on the progress of investigations made before the Criminal Investigation Department (CID). They said the statement should be noted further.
+
+The chief suspect of the Colombo Chief Magistrate's Court of Criminal Instead of the disappearance of 308.14 g of heroin parcels in the court of 308.14 grains of gold was missing the criminal inaccuracy under the Drug Act and the Public Real EstateIt also stated that he would investigate the suspect under the charges.
 
 ...
 
 [Data](articles/dd3c2e79.json)
+
+[Extended Data](ext_articles/dd3c2e79.ext.json)
 
 ---
 

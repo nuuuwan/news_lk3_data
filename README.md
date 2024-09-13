@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-13 17:58:53**
+As of **2024-09-13 18:18:44**
 
 ## Newspaper Stats
 
-*Scraped **43,735** Articles*
+*Scraped **43,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,664
 dailyftlk | 2,910
 adalk | 4,049
 dailymirrorlk | 4,733
-adaderanalk | 5,137
+adaderanalk | 5,138
 tamilmirrorlk | 5,688
 virakesarilk | 6,930
 adaderanasinhalalk | 7,478
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,727 (100.0%) of 43,735 articles have been extended.
+43,736 (100.0%) of 43,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-13 (Friday)
+
+### SC orders to file contempt charges against Immigration Controller General
+
+*2024-09-13 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101949/sc-orders-to-file-contempt-charges-against-immigration-controller-general) · `en`
+
+The Supreme Court has ordered to file contempt of court charges against the Controller General of Immigration and Emigration for failing to obey the court’s interim order to suspend the implementation of the electronic visa system.
+
+The order was delivered today (13) by a three-member judge bench comprising Justices Preethi Padman Surasena, Kumuduni Wickramasinghe and Achala Wengappuli.
+
+The court also ordered the petitioning party to draft the charges and present it before the court on September 25.
+
+Earlier today, the Supreme Court had directed the Controller General of Immigration and Emigration to appear before the court in person today (13) with regard to his failure to implement the order issued by the court over the electronic visa matter.
+
+The directive was issued by the Supreme Court after considering motions filed over the non-implementation of the interim order issued by the court regarding the issue.
+
+...
+
+[Data](articles/7816c94c.json)
+
+[Extended Data](ext_articles/7816c94c.ext.json)
+
+---
 
 ### Resolution to Reduce PayE Tax: Government released information!
 
@@ -107,6 +129,10 @@ A person who earns an income of Rs 6 lakh per month has been reduced by Rs.. Rem
 ### Suspect caught in Katunayake with gold stall
 
 *2024-09-13 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200993) · `si`
+
+Gold smuggler caught at Katunayake airport with 15kg of illegal gold worth over $1 million.
+
+🟩
 
 A person has been arrested by the Airport Customs Officers with more than illegally brought to Sri Lanka.
 
@@ -300,19 +326,35 @@ The monthly tax of Rs. 120,000 imposed on an individual earning a monthly income
 
 ---
 
-### செயற்கை நுண்ணறிவைப் பயன்படுத்தி தேர்தல் காலங்களில் வெளியாகும் செய்திகள் குறித்து மிகுந்த அவதானம் தேவை - தேர்தல் ஆணைக்குழு தலைவர்
+### Most of the requirements about the news that is published during the election period using artificial intelligence - the Chairman of the Election Commission
 
 *2024-09-13 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/193601) · `ta`
 
-இணையத்தளங்களிலும் சமூக ஊடக வலைத்தளங்களிலும் செயற்கை நுண்ணறிவு (AI) துணையுடன் உருவாக்கப்பட்ட கணினி மூலமான அட்டவணைகள், கட்சிகள் அல்லது வேட்பாளர்களை பயன்படுத்தி வெளியாகும் தேர்தல்கள் தொடர்பிலான  செய்தி, தகவல்களை ஒலி, ஒளிபரப்புதல் அல்லது பிரசுரிக்கப்படும் போது அவை தொடர்பில் ஆராய்ந்து உண்மைக்கு புறம்பான செய்திகள் வெளியாகுவதை தடுக்க நடவடிக்கை எடுக்க வேண்டும் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்தார்.
+Here's a summary of the key points in 200 characters:
 
-எதிர்வரும் 21 ஆம் திகதி இடம்பெறவிருக்கும் ஜனாதிபதி தேர்தலை முன்னிட்டு இலங்கை சனநாயக சோசலிசக் குடியரசின் அரசியலமைப்பின் 104 ஆ (5) (அ) உட்பந்தியின் கீழான ஊடக  வழிகாட்டி நெறி “சுதந்திரமானதும் மற்றும் நியாயமானதுமான ஜனாதிபதி தேர்தலில் ஊடகங்களின் வகிபாகம்” எனும் தொனிபொருளில் விசேட கருத்தரங்கு இலங்கை பத்திரிகை ஸ்தாபனத்தின் கேட்போர் கூடத்தில் நேற்று வியாழக்கிழமை (12)  இடம்பெற்றது.
 
-தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்கவினால் ஊடகவியலாளர்களுக்கான விசேட விழிப்புணர்வு கருத்தரங்கு நடத்தப்பட்டது.
+
+Election Commission Chairman RMAL Ratnayake outlines AI-powered news guidelines for election coverage, emphasizing neutrality, accuracy, and transparency in media reporting.
+
+🟩
+
+The Chairman of the Elections Commission, R.M.A.L.. Ratnayake said.
+
+The Vista Seminar of the Sri Lanka Press Association was held yesterday (12) at the auditorium of the media guidelines under the 104A (a) (a) of the Constitution of the Sri Lanka Democratic Socialist Republic of Sri Lanka on the 21st of this month..
+
+Elections Commission Chairman RMAL. A special awareness seminar was held for journalists by Ratnayake.
+
+MPC Perera, Members of the Elections Commission were MPC Perera, Amir Boise, A. Shanmuganathan and Professor Lakshman Dissanayake.
+
+Commenting at the seminar, Elections Commission Chairman R. M.. A.. L. Ratnayake,
+
+While each media company delivers its news reports and newspaper headlines, other events related to political affairs should be provided with correct, equal and non -existent information when sound, broadcasting or publishing.
 
 ...
 
 [Data](articles/7a2ddc48.json)
+
+[Extended Data](ext_articles/7a2ddc48.ext.json)
 
 ---
 
@@ -396,21 +438,27 @@ Rs. 150,000 - Rs. 3,000 per tax of Rs.. Reduced to 2,500.
 
 ---
 
-### நீண்ட விடுமுறையை முன்னிட்டு விசேட போக்குவரத்து சேவை
+### Special Transportation Service for a long vacation
 
 *2024-09-13 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/193593) · `ta`
 
-நீண்ட விடுமுறையை முன்னிட்டு பல்வேறு பிரதேசங்களுக்கு செல்லவுள்ள மக்களுக்காக இன்று வெள்ளிக்கிழமை (13) முதல் விசேட போக்குவரத்து சேவைகள் அமுல்படுத்தப்பட்டுள்ளதாக இலங்கை போக்குவரத்து சபை தெரிவித்துள்ளது.
+Sri Lanka Transport Board implements special bus service for long vacation. About 60 buses operate daily. National Transport Commission runs additional buses without schedule. Department of Railways offers special train trips from Badulla to Colombo.
 
-இதற்காக சுமார் 60 பஸ்கள் சேவையில் ஈடுபடத்தப்பட்டுள்ளதாக இலங்கை போக்குவரத்து சபை தெரிவித்துள்ளது.
+🟩
 
-இந்நிலையில், கால அட்டவணையின்றி அதிகமான பஸ்களை இயக்கவும் தேசிய போக்குவரத்து ஆணைக்குழு திட்டமிட்டுள்ளது.
+The Sri Lanka Transport Board (SLTB) said that special transport services have been implemented from Friday (13) for the people who will travel to various areas ahead of the long holiday.
 
-அதேவேளை, இன்று (13) இரவும் நாளை (14) காலையும் பதுளையில் இருந்து கொழும்பு வரை விசேட புகையிரத பயணங்களை மேற்கொள்ள ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக புகையிரத திணைக்களம் தெரிவித்துள்ளது.
+About 60 buses have been operated for this purpose, the Sri Lanka Transport Board said.
+
+In this case, the National Transport Commission plans to run more buses without timetable.
+
+Meanwhile, the Department of Railways said that special train trips from Badulla to Colombo have been made.
 
 ◼️
 
 [Data](articles/fde03449.json)
+
+[Extended Data](ext_articles/fde03449.ext.json)
 
 ---
 
@@ -486,17 +534,27 @@ On September 17, 2023, it was initially reported that a group of unidentified gu
 
 ---
 
-### திருகோணமலை மாவட்ட நீதிமன்ற நீதிபதி மாணிக்கவாசகர் கணேசராஜா பதவி இடைநிறுத்தம் !
+### Trincomalee District Court Judge Ganesarajah suspended
 
 *2024-09-13 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193590) · `ta`
 
-திருகோணமலை மாவட்ட நீதிமன்ற நீதிபதி மாணிக்கவாசகர் கணேசராஜா இன்று வெள்ளிக்கிழமை (13) நீதிச்சேவை ஆணைக்குழுவினால் உடனடியாக அமுலுக்கு வரும் வகையில் பதவி இடை நிறுத்தம் செய்யப்பட்டுள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-இதனை அடுத்து, ஜனாப் பயாஸ் ரசாக் மாவட்ட நீதிபதியாகவும், ஜீவராணி கருப்பையா பிரதம நீதிவான் நீதிமன்ற நீதிவானாகவும் இன்றைய தினம் மேல் நீதிமன்ற நீதிபதி அன்னலிங்கம் பிரேம்சங்கர் முன்னிலையில் சத்திய பிரமாணம் செய்து கொண்டனர்.
+
+
+Trincomalee District Court Judge Ganesarajah suspended by Judicial Service Commission. Janab Bias Razak appointed district judge. Jeevarani Karupaya becomes Chief Justice Court Judge.
+
+🟩
+
+The Trincomalee District Court Judge Ganesarajah has been suspended today (13) by the Judicial Service Commission.
+
+Following this, Janab Bias Razak was the district judge and Jeevarani Karupaya was the Chief Justice Court Judge today.
 
 ◼️
 
 [Data](articles/6aee32cb.json)
+
+[Extended Data](ext_articles/6aee32cb.ext.json)
 
 ---
 
@@ -526,37 +584,49 @@ The Rathgama Police are conducting further investigations when the accidents wer
 
 ---
 
-### பெண்கள் மற்றும் சிறுவர் விவகார இராஜாங்க அமைச்சராக  சீதா அரம்பேபொல பதவிப் பிரமாணம் !
+### Sita Arambola sworn in as Minister of State for Women and Child Affairs
 
 *2024-09-13 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/193596) · `ta`
 
-பெண்கள் மற்றும் சிறுவர் விவகார இராஜாங்க அமைச்சராக  சீதா அரம்பேபொல பதவிப் பிரமாணம் செய்துகொண்டார்.
+Sita Arambola sworn in as Minister of State for Women and Child Affairs. Appointed alongside Health Minister role.
 
-பெண்கள் மற்றும் சிறுவர் விவகார இராஜாங்க அமைச்சராக நியமிக்கப்பட்ட விசேட வைத்தியர் சீதா அரம்பேபொல, இன்று (13) முற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+🟩
 
-சீதா அரம்பேபொல, சுகாதார இராஜாங்க அமைச்சராக வகிக்கும் பதவிக்கு மேலதிகமாக, பெண்கள் மற்றும் சிறுவர் விவகார இராஜாங்க அமைச்சராக நியமிக்கப்பட்டுள்ளார்.
+Sita Arambola was sworn in as the Minister of State for Women and Child Affairs.
+
+Special Dr. Sita Arambola, who was appointed as the Minister of State for Women and Child Affairs, was sworn in in the presence of President Ranil Wickremesinghe at the Presidential Office this morning.
+
+In addition to the post of Health Minister of Health, Sita Arambola has been appointed Minister of State for Women and Child Affairs.
 
 ◼️
 
 [Data](articles/cf2a36fb.json)
 
+[Extended Data](ext_articles/cf2a36fb.ext.json)
+
 ---
 
-### மட்டு. களுவாஞ்சிகுடியில் மயானம் ஒன்றிலிருந்து சடலம் மீட்பு
+### Bore. Correct Recovery from Kaluwanchikudi
 
 *2024-09-13 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/193591) · `ta`
 
-மட்டக்களப்பு, களுவாஞ்சிகுடி பொலிஸ் பிரிவிற்குட்பட்ட மயானம் ஒன்றில் இருந்து ஆணொருவரின் சடலம் ஒன்று மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Body found in Batticaloa cemetery; identity unknown; religious rituals restricted; police investigation ongoing
 
-தேற்றாத்தீவு மயானத்தில் இருந்து மீட்கப்பட்டுள்ள குறித்த அடையாளம் காணப்படாத சடலத்திற்கு அருகாமையில்  சமய வழிபாடுகள் இடம் பெற்றதற்கான தடையங்கள் காணப்படுவதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-குறித்த பகுதியில் நரபலி பூஜைகள் எதுவும் நடாத்தப்பட்டதா என்பது தொடர்பான விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+The body of a man has been recovered from a cemetery belonging to the Kaluwanchikudi police division in Batticaloa, police said.
 
-சடலம் இதுவரையில் அடையாளம் காணப்படாத நிலையில் குறித்த பகுதிக்கு வந்த களுவாஞ்சிகுடி பொலிஸார் மற்றும் குற்றத்தடவியல் பொலிஸார் விசாரணைகளை முன்னெடுத்தனர்.
+Police said that there are barriers to religious rituals near the unidentified corpse that has been recovered from the Thetadheevu cemetery.
+
+Investigations have been carried out on whether any Narapali poojas have been conducted in the area, police said.
+
+The Kaluwanchikudi police and the criminal police, who arrived in the area, have been conducting investigations as the body has not yet been identified.
 
 ◼️
 
 [Data](articles/d9f47d98.json)
+
+[Extended Data](ext_articles/d9f47d98.ext.json)
 
 ---
 
@@ -586,17 +656,23 @@ The driver of the Panadura Division was arrested by the Panadura Division Crimin
 
 ---
 
-### வாகன இறக்குமதிக்கான தடையை நீக்க தீர்மானம்
+### Resolution to remove barrier for vehicle imports
 
 *2024-09-13 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/193589) · `ta`
 
-அனைத்து வாகனங்களுக்குமான இறக்குமதி தடையை அடுத்த ஆண்டு (2025) பெப்ரவரி மாதம் நீக்குவதற்கு அமைச்சரவை தீர்மானித்துள்ளதாக வெளிவிவகார அமைச்சர் அலிசப்ரி தெரிவித்துள்ளார்.
+Cabinet removes vehicle import ban in Feb 2025 due to increased forex reserves and currency value.
 
-அந்நிய செலாவணி கையிருப்பு கணிசமான அதிகரிப்பு, ரூபாயின் பெறுமதி அதிகரிப்பு போன்ற காரணங்களின் அடிப்படையில் இந்தத் தீர்மானம் மேற்கொள்ளப்பட்டுள்ளதாக வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+🟩
+
+External Affairs Minister Alisabri said the Cabinet has decided to remove the import ban for all vehicles in February next year (2025).
+
+The Foreign Minister said that the decision was made on the basis of a significant increase in foreign exchange reserves and an increase in the value of the rupee.
 
 ◼️
 
 [Data](articles/ab67fd9b.json)
+
+[Extended Data](ext_articles/ab67fd9b.ext.json)
 
 ---
 
@@ -2217,19 +2293,5 @@ LOLC Divi Saviya has successfully completed Phase 03 of its education initiative
 [Data](articles/ebd8673f.json)
 
 [Extended Data](ext_articles/ebd8673f.ext.json)
-
----
-
-### Pan Asia Bank and Odiliya forge strategic partnership to revolutionize real estate financing
-
-*2024-09-13 03:48:00* · [`islandlk`](http://island.lk/pan-asia-bank-and-odiliya-forge-strategic-partnership-to-revolutionize-real-estate-financing/) · `en`
-
-Pan Asia Bank, ‘The Truly Sri Lankan Bank,’ has signed a Memorandum of Understanding (MOU) with Odiliya, a prominent name in real estate and property development. This strategic partnership is designed to redefine real estate financing in Sri Lanka by offering customers innovative and flexible financing solutions for property investments.
-
-...
-
-[Data](articles/08780ee9.json)
-
-[Extended Data](ext_articles/08780ee9.ext.json)
 
 ---

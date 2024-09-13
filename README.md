@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 02:07:50**
+As of **2024-09-14 02:22:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,792 (100.0%) of 43,796 articles have been extended.
+43,794 (100.0%) of 43,796 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -171,6 +171,8 @@ In 1968 I took over as Distillery Manager at the then Government-owned distiller
 ...
 
 [Data](articles/e9b9400c.json)
+
+[Extended Data](ext_articles/e9b9400c.ext.json)
 
 ---
 
@@ -683,6 +685,8 @@ Silence And Choreographed Timidity at South Asian University: Interview of Sasa
 ...
 
 [Data](articles/c19439e0.json)
+
+[Extended Data](ext_articles/c19439e0.ext.json)
 
 ---
 

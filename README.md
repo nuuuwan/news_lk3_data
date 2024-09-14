@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 19:07:37**
+As of **2024-09-14 19:22:32**
 
 ## Newspaper Stats
 
-*Scraped **43,886** Articles*
+*Scraped **43,887** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
-adaderanalk | 5,164
+adaderanalk | 5,165
 tamilmirrorlk | 5,703
 virakesarilk | 6,960
 adaderanasinhalalk | 7,508
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,508
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,886 (100.0%) of 43,886 articles have been extended.
+43,887 (100.0%) of 43,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### “This election is about building the country together” - Anura Kumara
+
+*2024-09-14 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101978/this-election-is-about-building-the-country-together-anura-kumara) · `en`
+
+National People’s Party (NPP) presidential candidate Anura Kumara Dissanayake says that the upcoming election would be a pivotal moment for uniting the country to overcome its challenges.
+
+Speaking at a rally in Ampara yesterday (13), Dissanayake emphasized the collective effort required to drive the nation forward.
+
+“This election is about building the country together,” Dissanayake said.
+
+“When the people needed fertilizer for their crops, Ranil stayed at home. In contrast, we have a strong agricultural plan in place. We are committed to ensuring that the needs of farmers and citizens are met”, he added.
+
+◼️
+
+[Data](articles/b4aaafa0.json)
+
+[Extended Data](ext_articles/b4aaafa0.ext.json)
+
+---
 
 ### New Zealand team to visit Sri Lanka
 
@@ -2245,31 +2265,5 @@ Having considered the current economic and environmental factors, the government
 [Data](articles/e3101c37.json)
 
 [Extended Data](ext_articles/e3101c37.ext.json)
-
----
-
-### Sajith's support rating up
-
-*2024-09-13 23:42:15* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-හිතකරත්ව-ශ්‍රේණිගත-කිරීම-ඉහළට/11-411939) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sajith's support rating increased. Health Policy Agency rated presidential candidate in August 2024. However, President Wickremesinghe and representative Anura Kumara Dissanayake criticized. Public opinion shows Dissanayake as least negatively viewed among candidates.
-
-🟩
-
-The Health Policy Agency issued a candidate rating of the Presidential Candidate in the Presidential Force in August 2024
-
-However, President of the Naval Wickremesinghe and the Presidential Representative of the National Power Anura Kumara Dissanayake has shown a fairly fabrication.
-
-However, by all candidates, Anura Kumara Dissanayake is the minimal negative opinion in the public.
-
-◼️
-
-[Data](articles/0eeaabb3.json)
-
-[Extended Data](ext_articles/0eeaabb3.ext.json)
 
 ---

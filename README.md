@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 15:22:08**
+As of **2024-09-14 15:37:45**
 
 ## Newspaper Stats
 
-*Scraped **43,851** Articles*
+*Scraped **43,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,058
 dailymirrorlk | 4,733
-adaderanalk | 5,157
+adaderanalk | 5,159
 tamilmirrorlk | 5,699
-virakesarilk | 6,948
+virakesarilk | 6,956
 adaderanasinhalalk | 7,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,851 (100.0%) of 43,851 articles have been extended.
+43,857 (100.0%) of 43,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Hundreds of thousands in Cuba without water
+
+*2024-09-14 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101971/hundreds-of-thousands-in-cuba-without-water) · `en`
+
+Water shortages in Cuba are increasingly flaring tempers, including in capital Havana, as problems mount for hundreds of thousands of residents already ragged from shortfalls in food, fuel and electricity.
+
+Upwards of 600,000 people - more than 1 in 20 on the Caribbean island of 10 million citizens - are suffering from water supply issues, officials said earlier this month.
+
+Havana is the worst affected by water shortages, though most of the country’s largest cities report over 30,000 customers without water, the government has said.
+
+Officials blame the growing problems on crumbling infrastructure and a persistent lack of fuel, symptoms of a festering economic crisis that has blighted growth and left the Communist-run country nearly bankrupt.
+
+Rachel Trimiño, 32, said the root causes are no mystery, even in her Havana neighborhood of Vedado, a comparatively upscale district of the capital.
+
+...
+
+[Data](articles/60a11faa.json)
+
+[Extended Data](ext_articles/60a11faa.ext.json)
+
+---
+
+### Vote for the Tamil Nadu in the presidential election - Jaffna University Community Report
+
+*2024-09-14 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193674) · `ta`
+
+Tamil Nadu presidential election: Vote for PA Ariyanethran symbol. Reject Sinhalese Buddhist chauvinism. Support Tamil unity against oppression. Mobilize Tamil people for liberation. Collective decision-making crucial.
+
+🟩
+
+In the upcoming presidential election, the Tamil general candidate will be voted for the symbol of PA Ariyanethran.. The report said that despite the university community and alternative ideas, all the Tamil people living in the North, East, Upcountry and other parts of the country will vote for the symbol and express our accumulation in this election.
+
+Elections to the head of the state of Sri Lanka on September 21 as an inevitable election on our political liberation journey, which is to be the Structural Genocide of Centuries, Structural Genocide.. At this juncture, we are writing to the Tamil people of the Jaffna University as a community of Jaffna University.
+
+Sinhalese and Buddhist chauvinism has almost succeeded in making us withdraw from the thinking and upliftment of the Tamil people over the 15 years since 2009.. The agents and their organizations of the Sri Lankan government have done a great deal of psychological failure and slavery, psychologically defeat and slavery.
+
+...
+
+[Data](articles/61a873cf.json)
+
+[Extended Data](ext_articles/61a873cf.ext.json)
+
+---
+
+### Cabinet approval to gazette Penal Code (Amendment) Bill
+
+*2024-09-14 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101970/cabinet-approval-to-gazette-penal-code-amendment-bill) · `en`
+
+The Cabinet of Ministers has granted approval to publish the Penal Code (Amendment) Bill in the government gazette and thereafter submit it to the Parliament for approval.
+
+The approval had been granted at the cabinet meeting held on 29.04.2024 to amend the Penal Code to prohibit corporal punishment in any form or whatsoever and compile the appropriate laws in that respect.
+
+Accordingly, the clearance of the Attorney General has been received for the draft prepared by the legal draftsman, the Department of Government Information (DGI) said.
+
+Thus, the Cabinet of Ministers has approved the proposal presented by the Minister of Justice, Prisons Affairs and Constitutional Reforms to publish the said bill in the Gazette and thereafter submit it to the Parliament for approval.
+
+◼️
+
+[Data](articles/3afff1e7.json)
+
+[Extended Data](ext_articles/3afff1e7.ext.json)
+
+---
 
 ### The eighth traps will not be fooled by the road
 
@@ -85,6 +149,60 @@ Dilith Jayaweera stated that he was headed by the exemplantic candidate Dilith J
 [Data](articles/53d515e1.json)
 
 [Extended Data](ext_articles/53d515e1.ext.json)
+
+---
+
+### Once the scholarship is over, let the students move freely
+
+*2024-09-14 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193659) · `ta`
+
+Summarized: Specialist Rumi Ruben advises parents to allow students freedom after 5th-grade scholarship exam, avoiding comparisons and unnecessary stress. He emphasizes that the exam experience shapes students' lives and shouldn't overshadow childhood.
+
+🟩
+
+Specialist Rumi Ruben has requested the parents of specialist expert Rumi Ruben to keep the students free after the 5th grade scholarship examination to be held tomorrow 15th.
+
+A specialist doctor has asked parents to avoid comparing their children with other children before and after the scholarship examination.
+
+He has said that the students who are preparing for the scholarship exam for the past few months have been in high stress and have no more pressure on the students.
+
+After writing the exam, he emphasized that it is not worth it to give the students back to the exam question, write them down and check if the answers are correct.
+
+He said that the scholarship exam was one of the obstacles that the students encountered in the lives of the students and that such experiences in life would be even greater.
+
+In addition, specialist medical expert Rumi Ruben has asked the parents of the students who lost their childhood during the scholarship exam.
+
+◼️
+
+[Data](articles/a3ac2c4b.json)
+
+[Extended Data](ext_articles/a3ac2c4b.ext.json)
+
+---
+
+### Change in the name of the capital of the Andaman, Nicobar Islands
+
+*2024-09-14 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/193666) · `ta`
+
+India changes Port Blair to Sri Vijayapuram, capital of Andaman & Nicobar Islands. Inspired by PM Modi's vision to free India from English rule.
+
+🟩
+
+India has said that the name of the Andaman and Nicobar Islands, "Port Blair" will be changed to "Sri Vijayapuram".
+
+Port Blair is the capital of the Andaman and Nicobar Islands, one of the Union Territories of India.
+
+The Central Government of India has announced that the name of Port Blair will be changed to Sri Vijayapuram. Indian Internal Affairs Minister Amit Shah made the announcement today (13).
+
+In this regard, Indian Internal Affairs Minister Amit Shah posted on his X page.
+
+We have decided to rename the Port Blair name as Sri Vijayapuram, inspired by Modi's vision of Prime Minister Modi to release the country from the colonial (English rule) seals.. The Andaman and Nicobar Islands, which served as the naval base of the Chola Empire. Currently, it is also a major platform for the development of the country. ”
+
+◼️
+
+[Data](articles/a611fa33.json)
+
+[Extended Data](ext_articles/a611fa33.ext.json)
 
 ---
 
@@ -174,6 +292,40 @@ Meanwhile, the Minister guaranteed that school uniforms, textbooks, and all nece
 
 ---
 
+### Review for ARM starring Dovino Thomas
+
+*2024-09-14 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193663) · `ta`
+
+Here's a 200-character summary:
+
+
+
+ARM review: Tovino Thomas stars in a Tamil thriller about a stolen statue. Three-dimensional storytelling explores themes of oppression and redemption. Strong performances but predictable plot. Visual effects underutilized. Background score and cinematography praised.
+
+🟩
+
+Tovino Thomas, the leading star star of the Malayalam film industry, made his debut for Tamil fans through 'Mari', is the fiftieth movie ARM, ARM ie Ajayanta Rendam Mokshanam.'Ajayan's second theft' in Tamil. In the film, the hero of the story, Dovino Thomas Ajayan, Maniyan, Kunjigellu, has played three roles.
+
+Is the film, which is a three -dimensional technology, attracted all fans?Or not?We will continue to see.
+
+A grandmother's character is not easy for her grandson and theft.
+
+In that story, a meteorite falls in Kerala in the past century.
+
+They carve a statue because the meteor is a wonderful power. A monarch who ruled the statue then tells the people to the city other than to give the lamp to the people.
+
+The city in that lamp is wealthy prosperous. Thus the people of Aripuram want to bring the lamp to their area.
+
+At this moment, the prince, the son of the king who ruled, is arrested and harassed by strangers for tax collecting taxes.
+
+...
+
+[Data](articles/813b8248.json)
+
+[Extended Data](ext_articles/813b8248.ext.json)
+
+---
+
 ### China throws fresh support line to crisis-threatened Maldives
 
 *2024-09-14 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101966/china-throws-fresh-support-line-to-crisis-threatened-maldives) · `en`
@@ -237,6 +389,24 @@ Speaking to the Presidential Election at the 2124 presidential election during t
 [Data](articles/b670d25b.json)
 
 [Extended Data](ext_articles/b670d25b.ext.json)
+
+---
+
+### முதன் முதலில் ஆபிரிக்காவில் குரங்கம்மை தடுப்பூசியை பயன்படுத்த உலக சுகாதார ஸ்தாபனம் அனுமதி
+
+*2024-09-14 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/193658) · `ta`
+
+ஆபிரிக்காவில் 18 வயதுக்கு மேற்பட்டவர்களுக்கு முதன்முதலில் குரங்கம்மை  தடுப்பூசியை பயன்படுத்த உலக சுகாதார ஸ்தாபனம் வெள்ளிக்கிழமை  அனுமதி வழங்கியுள்ளது.
+
+ஆபிரிக்க நாடான கொங்கோவில் 'எம் பாக்ஸ்' எனப்படும் குரங்கம்மை நோய் முதலில் கண்டறியப்பட்டது. இதுவரை ஆபிரிக்காவில் குரங்கம்மைக்கு 107 பேர் உயிரிழந்துள்ளனர். 3,160 பேருக்கு தொற்று பாதிப்பு உள்ளது.
+
+பெரியம்மையை ஏற்படுத்தும் வைரஸ் குடும்பத்தைச் சேர்ந்த கிருமி தான் குரங்கம்மை நோயை ஏற்படுத்துகிறது. காய்ச்சல், உடல் வலி, உடல் சில்லிடுதல் ஆகியவை இதன் பொதுவான அறிகுறிகள். மிகவும் தீவிர பாதிப்பு உள்ளவர்களுக்கு முகம், கை, மார்பு மற்றும் பிறப்புறுப்புகளில் கட்டிகள் தோன்றும். இறப்பு ஏற்படும்.
+
+இந்நிலையில் குரங்கம்மைக்கான தடுப்பூசியை, டென்மார்க்கைச் சேர்ந்த, 'பவாரியன் நார்டிக்' எனும் உயிரி தொழில்நுட்ப நிறுவனம் தயாரித்தது. பல்வேறு கட்ட பரிசோதனைகளுக்கு பின் உலக சுகாதார ஸ்தாபனம் அந்த தடுப்பூசிக்கு நேற்று அனுமதி வழங்கியது.
+
+...
+
+[Data](articles/f69279b0.json)
 
 ---
 
@@ -455,6 +625,64 @@ Addressing a public rally held in Kaduruwela, Jayaweera emphasized the urgent ne
 [Data](articles/36fc8b39.json)
 
 [Extended Data](ext_articles/36fc8b39.ext.json)
+
+---
+
+### ஜனாதிபதி வேட்பாளர்களிடம் பரீட்சைத் திணைக்களம் விடுத்துள்ள வேண்டுகோள் !
+
+*2024-09-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193649) · `ta`
+
+2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சை நாளை ஞாயிற்றுக்கிழமை (15) நடைபெறவுள்ளது.
+
+இதனால், தேர்தல் பிரச்சாரங்கள் பரீட்சைகளுக்கு இடையூறை விளைவிக்கலாம். எனவே,  நாளைய தினம் காலை பரீட்சை நிலையங்களுக்கு அருகில் பிரச்சார நடவடிக்கைகளில் ஈடுபடுவதை தவிர்த்துக் கொள்ளுமாறு பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர ஜனாதிபதி வேட்பாளர்களிடம் கோரிக்கை விடுத்துள்ளார்.
+
+நாளையதினம் 5 ஆம் தரப் புலமைப் பரிசில் பரீட்சை 2,849 நிலையங்களில் நடைபெறவுள்ளது. இவ் ஆண்டு 320,879 மாணவர்கள் பரீட்சைக்குத் தோற்றவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c0ce2dae.json)
+
+---
+
+### பிரபு - வெற்றி கூட்டணி அமைத்து கலக்கும் 'ராஜ புத்திரன்'
+
+*2024-09-14 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193652) · `ta`
+
+'இளைய திலகம்' பிரபு - 'ரைசிங் ஸ்டார்' வெற்றி முதன்முறையாக கதையின் நாயகர்களாக இணைந்து நடிக்கும் திரைப்படத்திற்கு 'ராஜ புத்திரன்' என பெயரிடப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர் மகா கந்தன் இயக்கத்தில் உருவாகும் 'ராஜ புத்திரன்' எனும் திரைப்படத்தில் பிரபு, வெற்றி, கோமல் குமார், கிருஷ்ண பிரியா, மன்சூர் அலிகான், ஆர். வி. உதயகுமார், இமான் அண்ணாச்சி, லிவிங்ஸ்டன் , தங்கதுரை உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+
+‌ ஆலிவர் டேனி ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு நவ்பல் ராஜா இசையமைக்கிறார்.
+
+இந்த திரைப்படத்தை கிரஸண்ட் சினி கிரியேஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் கே. எம் .ஷபி தயாரிக்கிறார்.
+
+இப்படத்தின் படப்பிடிப்பு நிறைவடைந்து தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் தொடங்கி இருக்கிறது.
+
+நீண்ட நாட்கள் கழித்து அற்புதமான கிராமத்து பின்னணியிலான கதையில் நடிகர் பிரபு தோன்றுவதால் 'ராஜ புத்திரன்' படத்திற்கு ரசிகர்களிடையே பெரும் எதிர்பார்ப்பு ஏற்பட்டிருக்கிறது.
+
+◼️
+
+[Data](articles/02633b69.json)
+
+---
+
+### இயக்குநர் ராஜு முருகனுடன் இணையும் கௌதம் கார்த்திக்
+
+*2024-09-14 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/193645) · `ta`
+
+நடிகர் கௌதம் கார்த்திக் இயக்கத்தில் தயாராகும் புதிய படத்தினை பற்றிய அதிகாரப்பூர்வமான அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர் தினா ராகவன் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் கௌதம் கார்த்திக் கதையின் நாயகனாக நடிக்கிறார்.
+
+இந்த திரைப்படத்தினை எம் ஜி ஸ்டுடியோஸ் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் ஏ.வி.பி மாறன் மற்றும் இயக்குநர் கணேஷ் கே.பாபு ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+
+இந்த திரைப்படத்தில் நடிக்கும் ஏனைய நடிகர்கள், நடிகைகள் மற்றும் தொழில்நுட்ப கலைஞர்கள் பற்றிய விபரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என எதிர்பார்க்கப்படுகிறது.
+
+'மிஸ்டர் எக்ஸ்', 'கிரிமினல்' என இரண்டு படங்களில் நடித்து வரும் நடிகர் கௌதம்  கார்த்திக்கின் பிறந்த நாளை முன்னிட்டு அவர் நடிக்கும் புதிய படத்தின் அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/1f78fb59.json)
 
 ---
 
@@ -2007,239 +2235,5 @@ The report states that they are not the official announcements of the Election C
 [Data](articles/024f24cf.json)
 
 [Extended Data](ext_articles/024f24cf.ext.json)
-
----
-
-### Election Campaigns completed by 18th - Elections Commission
-
-*2024-09-13 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193587) · `ta`
-
-Elections Commission: All election campaigns must end by 18th midnight. No campaigning allowed after that. Police can remove candidate/party stickers and flyers. 6-week campaign period; stop all activities 48 hours before election on 21st.
-
-🟩
-
-The Elections Commission has said that all propaganda actions regarding the presidential election should be completed by midnight on the 18th.
-
-After that, the Election Commission stated that it has been banned from conducting any election campaign.
-
-At the same time, the Elections Commission said the police have the authority to remove stickers and leaflets pasted to promote candidates and parties in public or private vehicles.
-
-The Elections Commission further stated that 6 weeks' time for the presidential election has been granted and all propaganda activities should be stopped within 48 hours before the presidential election on the 21st.
-
-◼️
-
-[Data](articles/17b68175.json)
-
-[Extended Data](ext_articles/17b68175.ext.json)
-
----
-
-### The import of vehicles from 1st October
-
-*2024-09-13 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200997) · `si`
-
-Sri Lanka Cabinet approves vehicle imports in stages starting Oct 1. Public transport vehicles allowed first. Commercial and freight vehicles to resume Feb 1 after COVID-19 and economic crisis suspensions. Over 2,000 goods previously restricted now lifted.
-
-🟩
-
-The Cabinet has decided to grant approval to import vehicles in several stages this year.
-
-Finance Minister of State Shehan Semasinghe said that the import of vehicles will be started from 1st October.
-
-Accordingly, vehicles used for public transport are permitted to import.
-
-The number of commercial and freight vehicles have been decided to import goods from the first on the first month of this year.
-
-In addition, the cars are to be imported from 1st 1st of February.
-
-The Government of Sri Lanka decided to suspend imports in 2021 due to the influence of the Korona virus.
-
-The authorities of the country decided to continue the ban / restrictions due to the heavy economic crisis
-
-Imports have been stopped in more than 2,000 types of goods, and those limitations were removed from time to time.
-
-◼️
-
-[Data](articles/695dbe05.json)
-
-[Extended Data](ext_articles/695dbe05.ext.json)
-
----
-
-### Sri Lanka sees higher misuse of public premises in poll-related resource abuse complaints
-
-*2024-09-13 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-higher-misuse-of-public-premises-in-poll-related-resource-abuse-complaints-179583/) · `en`
-
-ECONOMYNEXT – Sri Lanka has witnessed a higher number of complaints on misuse of public premises in election-related state resource abuses, an election monitor said.
-
-Transparency International Sri Lanka (TISL), an election monitor on corruption and campaign financing, said it had received 758 complaints concerning the misuse of public resources for election campaigning through September 11.
-
-“The largest category of complaints – 343 in total – pertains to the misuse of public premises. These include the misuse of public grounds, government offices, buildings, and schools etc for election campaigns,” the TISL said in a statement.
-
-It said the complaints includes non-payment for such premises and reservation for one candidate or political party for extended periods or adorning with posters and cutouts in violation of election laws.
-
-...
-
-[Data](articles/85dd7686.json)
-
-[Extended Data](ext_articles/85dd7686.ext.json)
-
----
-
-### Kaalhaly Navaratne resigns
-
-*2024-09-13 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200996) · `si`
-
-Kaalhaly Navaratne resigns as Chairman of Bar Association of Sri Lanka. Immediate resignation announced.
-
-🟩
-
-Chairman of the Bar Association of Sri Lanka President's Counsel Kaushaly Nawaratne has resigned immediately with immediate effect.
-
-◼️
-
-[Data](articles/5ba4761c.json)
-
-[Extended Data](ext_articles/5ba4761c.ext.json)
-
----
-
-### 250 lakhs of gold caught cannot be chased away from Katunayake
-
-*2024-09-13 18:48:00* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-250ක-රන්-කුඩු-කටුනායකින්-පන්නන්න-බැරි-වෙයි/11-411936) · `si`
-
-Gold smuggling case: Customs officers arrest businessman at Katunayake Airport. 250 lakhs worth of gold powder seized. Further investigation ongoing.
-
-🟩
-
-Customs officers have been arrested by the Katunayaka Airport Agenne, which is illegally embodied a stock of gold powder worth Rs. 50,000 Rs.
-
-He is a 37 year old businessman from Negombo. He arrived at Mumbai, Dubai, India, from now on 12.10 pm Indgo airline 6 pm. The flight of 1185 was on the Katunayake airport.
-
-He had taken place and hiding and hiding and the gold belt in the innish belt.
-
-The person in custody and conducting further investigations are being investigated.
-
-◼️
-
-[Data](articles/35bfcae2.json)
-
-[Extended Data](ext_articles/35bfcae2.ext.json)
-
----
-
-### Kaushalya Nawaratne resigns as BASL President
-
-*2024-09-13 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101950/kaushalya-nawaratne-resigns-as-basl-president) · `en`
-
-President’s Counsel Kaushalya Nawaratne has resigned from his position as the President of the Bar Association of Sri Lanka (BASL) with immediate effect.
-
-The Bar Council of the Bar Association of Sri Lanka (BASL) on August 31 had unanimously decided to call for the resignation of BASL President Kaushalya Nawaratne.
-
-Accordingly, it was reported that the Bar Council in a meeting unanimously approved a proposal calling for the resignation of Kaushalya Nawaratne as the president of the BASL.
-
-On May 18, the BASL Bar Council had appointed a five-member Committee of Inquiry to look into allegations pertaining to the BASL project funded by the JICA relating to the promotion of a transparent and competitive business climate (Anti-Corruption) in Sri Lanka.
-
-President’s Counsel Kaushalya Nawaratne had secured another term as the President of Bar Association of Sri Lanka (BASL) in January this year. He was re-elected uncontested for the period 2024-2025.
-
-◼️
-
-[Data](articles/08cdf1cc.json)
-
-[Extended Data](ext_articles/08cdf1cc.ext.json)
-
----
-
-### China to revise employees in China
-
-*2024-09-13 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200995) · `si`
-
-China increases retirement age: men 60-63, women 55-58. Reasons: aging population, rising pension costs. Impact on workforce and economy.
-
-🟩
-
-According to foreign media reports, China has taken steps to increase the employees' retirement age.
-
-The main reason is that the increase in the growing population and the increase in the payment of pensions.
-
-Accordingly, the retirement of labor professionals has been increased from 55 to 58 years of age and 55 years old.
-
-Men's retirement increased by 60 to 63 years old.
-
-◼️
-
-[Data](articles/1a8c7e39.json)
-
-[Extended Data](ext_articles/1a8c7e39.ext.json)
-
----
-
-### Election monitors of 9 countries visit the country;Monitoring will be launched from the 18th- the Election Commission
-
-*2024-09-13 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193623) · `ta`
-
-International election monitors from 9 countries, including EU and Commonwealth, arrive in Sri Lanka to observe presidential election process starting August 18.
-
-🟩
-
-Elections Commission Chairman RMAL Ratnayake said that the election monitors from the nine countries to visit the country will begin the election monitoring from the 18th of this month.
-
-As the country's ninth presidential election is scheduled to take place on September 21, the Election Commission has officially called on the Elections Commission to the European Union, Commonwealth and other international countries.
-
-Two groups of the EU Election Monitoring Committee have arrived in the country in the past few weeks and they have begun election monitoring nationwide.
-
-Meanwhile, the 13 -member Commonwealth Election Monitoring Committee, led by former President of Sishels, Denny Fore, will arrive on Sunday (15) to monitor the upcoming presidential election process.
-
-Elections Commission Chairman RMAL Ratnayake said that in this context, election monitors from nine countries will visit the country and they will begin election monitoring in the country from the 18th of this month.
-
-...
-
-[Data](articles/e69e4463.json)
-
-[Extended Data](ext_articles/e69e4463.ext.json)
-
----
-
-### SC orders to file contempt charges against Immigration Controller General
-
-*2024-09-13 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101949/sc-orders-to-file-contempt-charges-against-immigration-controller-general) · `en`
-
-The Supreme Court has ordered to file contempt of court charges against the Controller General of Immigration and Emigration for failing to obey the court’s interim order to suspend the implementation of the electronic visa system.
-
-The order was delivered today (13) by a three-member judge bench comprising Justices Preethi Padman Surasena, Kumuduni Wickramasinghe and Achala Wengappuli.
-
-The court also ordered the petitioning party to draft the charges and present it before the court on September 25.
-
-Earlier today, the Supreme Court had directed the Controller General of Immigration and Emigration to appear before the court in person today (13) with regard to his failure to implement the order issued by the court over the electronic visa matter.
-
-The directive was issued by the Supreme Court after considering motions filed over the non-implementation of the interim order issued by the court regarding the issue.
-
-...
-
-[Data](articles/7816c94c.json)
-
-[Extended Data](ext_articles/7816c94c.ext.json)
-
----
-
-### Resolution to Reduce PayE Tax: Government released information!
-
-*2024-09-13 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193619) · `ta`
-
-Government proposes reducing PAYE tax in upcoming budget. Cabinet spokesperson confirms submission to IMF for approval. Current tax rates may decrease based on pay scale.
-
-🟩
-
-Cabinet Media Spokesperson Bandula Gunawardena said the proposal to reduce the PAYE tax would be included in the upcoming budget proposal.
-
-He said the government had submitted a similar motion to the IMF and obtained compliance with the International Monetary Fund.
-
-According to the proposal, the taxes that are currently charged from each pay rate will be reduced.
-
-◼️
-
-[Data](articles/1ae77f34.json)
-
-[Extended Data](ext_articles/1ae77f34.ext.json)
 
 ---

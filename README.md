@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 12:56:11**
+As of **2024-09-14 13:07:33**
 
 ## Newspaper Stats
 
-*Scraped **43,839** Articles*
+*Scraped **43,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,154
 tamilmirrorlk | 5,698
 virakesarilk | 6,948
-adaderanasinhalalk | 7,494
+adaderanasinhalalk | 7,495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,839 (100.0%) of 43,839 articles have been extended.
+43,839 (100.0%) of 43,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### නොකළ වරදකට වසර 109කට පසු ලැබුණු සමාව
+
+*2024-09-14 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201011) · `si`
+
+මීට වසර 109කට පෙර මෙරට සිටි බ්‍රිතාන්‍ය පාලකයන් විසින් අසාධාරණ නඩු විභාගයකින් මරණයට පත් කරනු ලැබූ කපිතාන් දියුණුගේ එඩ්වඩ් හෙන්රි පේද්‍රිස් මහතාට මරණින් පසු ජනාධිපති සමාව ලබා දුන් බව ජනපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 33(ඌ) ව්‍යවස්ථාව ප්‍රකාරව පැවරී ඇති බලතල අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම සමාව ප්‍රකාශයට පත්කර ඇත.
+
+එවකට ලංකාවේ ආණ්ඩුකාරවරයා වූ රොබට් චාමස් විසින් 1915 ජුනි 25 දින නිකුත් කරන ලද ප්‍රකාශයක් මගින් පත් කරනු ලැබූ යුධ අධිකරණයකින් සිදුකළ අසාධාරණ නඩු විභාගයකින් පසු 1915 ජූලි 07 වන කපිතාන් දියුණුගේ එඩ්වඩ් හෙන්රි පේද්‍රිස් මහතාව නීති විරෝධී ලෙස මරණයට පත් කළ බවද ජනාධිපති මාධ්‍ය අංශ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+1888 අගෝස්තු 16 දින ගාල්ලේදී උපත ලැබූ හෙන්රි පේද්‍රිස් මහතා බ්‍රිතාන්‍ය පාලන සමයේ ලංකාවේ විසූ ප්‍රමුඛ පෙළේ සමාජ ක්‍රියාකාරිකයකු මෙන්ම ලංකා ආරක්ෂක හමුදාවේ සහ කොළඹ නගරාරක්ෂක බළකායේ සේවය කළ කපිතාන් නිලයක් හෙබවූ හමුදා නිලධාරියකුද වේ.
+
+...
+
+[Data](articles/57c63cbb.json)
+
+---
 
 ### Presidential pardon granted to Henry Pedris posthumously
 
@@ -2219,35 +2237,5 @@ The woman had revealed that the woman had made money from 15 others that the Cyp
 [Data](articles/2bfe5aef.json)
 
 [Extended Data](ext_articles/2bfe5aef.ext.json)
-
----
-
-### Dilith is new for entrepreneur women
-
-*2024-09-13 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200992) · `si`
-
-Dilith Jayaweera addresses women entrepreneurs in Anuradhapura, emphasizing social change through motivation and strategic programs to boost rural women's incomes and reduce debt. He pledges to increase minimum household income and promises government support for capital improvements.
-
-🟩
-
-Sandana, Presidential candidate Dilith Jayaweera says that the powerful force of the country is the most powerful force of the country.
-
-Meeting with women entrepreneurship Societies in the Anuradhapura District, was held in Youth Nikathana under the patronage of Dilith Jayaweera today (13).
-
-Addressing the occasion, Mr. Dilith Jayaweera said that a social change cannot be created without motivation.
-
-Mr. Dilith Jayaweera said he was ready to supply the rural woman to uplift the revenue disparities and strengthen the woman under a strategic program to destroy the income of income.
-
-Also, the strategic proposal to increase the minimum income of every household to Rs.
-
-He said that if the capital need to improve, the government will be able to intervene and provide Rs.
-
-Meanwhile, their strategic program has been able to remove their debt to redeem Sri Lankan women to redeem Sri Lankan women who have fallen in the virtue of the mine.He said.
-
-...
-
-[Data](articles/fd8f1664.json)
-
-[Extended Data](ext_articles/fd8f1664.ext.json)
 
 ---

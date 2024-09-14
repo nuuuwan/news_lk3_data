@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 11:57:52**
+As of **2024-09-14 12:11:59**
 
 ## Newspaper Stats
 
-*Scraped **43,831** Articles*
+*Scraped **43,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,140 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,056
 dailymirrorlk | 4,733
-adaderanalk | 5,151
-tamilmirrorlk | 5,695
+adaderanalk | 5,152
+tamilmirrorlk | 5,698
 virakesarilk | 6,948
-adaderanasinhalalk | 7,492
+adaderanasinhalalk | 7,493
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,831 (100.0%) of 43,831 articles have been extended.
+43,836 (100.0%) of 43,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### The main notice of the Minister of Education
+
+*2024-09-14 11:39:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சரின்-முக்கிய-அறிவிப்பு/175-343741) · `ta`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Education Minister Susil Premajayantha announced that the first installment of school activities for 2025 will begin on January 20. This marks the start of educational programs for the upcoming year.
+
+🟩
+
+Education Minister Susil Premajayantha has said that the first installment school activities for 2025 will be launched on January 20. Remble
+
+◼️
+
+[Data](articles/3fea13e0.json)
+
+[Extended Data](ext_articles/3fea13e0.ext.json)
+
+---
+
+### Notice of issuing vehicle revenue license in the Western Province
+
+*2024-09-14 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201009) · `si`
+
+Western Province: Vehicle revenue license issuance closes on 20th due to presidential election duties. Online income license available. Last chance for fines-free endemic tax licenses on 20th.
+
+🟩
+
+All licenses implemented to issue vehicle revenue licenses in the Western Province will be closed on Friday, the provincial council on the 20th.
+
+The office said that the move would be release as the officials will be released for the duties of the presidential election on the 21st of the 21st.
+
+The last day of the endemic tax licenses that a vehicle can obtain the fines without fine is to be closed on the 20th the Presidential Election.
+
+The Western Province Chief Secretariat has also announced that the income license is available online.
+
+◼️
+
+[Data](articles/7f99f0b9.json)
+
+[Extended Data](ext_articles/7f99f0b9.ext.json)
+
+---
+
+### Ranil's success is good for the country
+
+*2024-09-14 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ரணிலின்-வெற்றி-நாட்டுக்கு-நன்மை/73-343740) · `ta`
+
+Ranil Wickremesinghe's campaign gains momentum. Former MP Erajeswaran supports him. Victory seen as positive for country and Tamils. Campaign focuses on key areas: Kalmunai, Pandaruppu, Navithanveli, Samanthurai.
+
+🟩
+
+Former Eastern Provincial Council Member M. Erajeswaran is campaigning in support of President Ranil Wickremesinghe in the upcoming presidential election.
+
+For the past three days, Ranil Wickremesinghe has supported the leaflets in Kalmunai, Pandaruppu, Navithanveli and Samanthurai areas.
+
+Ranil Wickremesinghe's victory will be favorable to the country and the Tamil people, so people should be able to win the gas cylinder and make Ranil Wickremesinghe a success.. Remble
+
+◼️
+
+[Data](articles/1aa5a5ba.json)
+
+[Extended Data](ext_articles/1aa5a5ba.ext.json)
+
+---
+
+### ‘Sri Lanka in a much better place to keep corruptors away’ - outgoing ICC anti-corruption chief
+
+*2024-09-14 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101963/sri-lanka-in-a-much-better-place-to-keep-corruptors-away-outgoing-icc-anti-corruption-chief) · `en`
+
+The departing head of the ICC Anti Corruption Unit (ACU), Alex Marshall, believes that elite cricket is largely free from corruption, but he cautions that those seeking to manipulate the sport are targeting entry through local T20 leagues that are not under the jurisdiction of the global governing body and are instead managed by the respective boards of member nations.
+
+Marshall, a former British police officer, did not specify which local leagues or member nations he was alluding to.
+
+“I am confident that the cricket you watch is safe and clean,” Marshall told ESPN Cricinfo as per PTI.
+
+“But I am also absolutely sure that corruptors are constantly looking for a route into the game, particularly in badly-run lower-level franchise leagues. The threat to the game is corruptors won’t go away while there is always money to be made and they will look for weakness in the system to get in.” he added.
+
+...
+
+[Data](articles/76370bc4.json)
+
+[Extended Data](ext_articles/76370bc4.ext.json)
+
+---
+
+### Eelam Tamil lands are painted
+
+*2024-09-14 11:33:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/ஈழத்தமிழர்-நிலங்கள்-வலிந்து-பறிக்கப்படுகின்றன/72-343739) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Eelam Tamil lands face challenges. Southern presidential candidates emphasize Sinhala-Buddhist nationalism. Existing democratic system favors majority rule. Candidates reject Tamil rights and Joint Political Accord. Military presence increases in Tamil areas. Eelam Tamils' existence threatened. Hope lies in Tamil people's choices strengthening political unity.
+
+🟩
+
+On behalf of the Priests of the North and Eastern Provinces, Arutpani Christopher Jayakumar has said that the candidates who contest the presidential election from the South are decorating the campaign platforms to insist on the management of the Sinhala and Buddhist nationalism.
+
+They issued a media statement yesterday (13). In the statement further,
+
+The country is preparing for a presidential election again.
+
+There is no need to underline how confident this is. The fact that this presidential election is being conducted from the frame within the monopoly political system cannot be told.
+
+The fact that the existing democratic system is determined by numbers is subject to common sense.
+
+The president's democratic election, centered on the number of votes, is defined as the influence of the votes of the Eelam Tamil people and other minority ethnic groups.
+
+...
+
+[Data](articles/ab4917de.json)
+
+[Extended Data](ext_articles/ab4917de.ext.json)
+
+---
 
 ### Farmers deserve an income that reflects their hard work, innovation, and dedication – Dilith
 
@@ -2159,141 +2279,5 @@ The Rs. 35,000 tax imposed on an individual with a monthly income of Rs. 300,000
 [Data](articles/af697c08.json)
 
 [Extended Data](ext_articles/af697c08.ext.json)
-
----
-
-### Most of the requirements about the news that is published during the election period using artificial intelligence - the Chairman of the Election Commission
-
-*2024-09-13 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/193601) · `ta`
-
-Here's a summary of the key points in 200 characters:
-
-
-
-Election Commission Chairman RMAL Ratnayake outlines AI-powered news guidelines for election coverage, emphasizing neutrality, accuracy, and transparency in media reporting.
-
-🟩
-
-The Chairman of the Elections Commission, R.M.A.L.. Ratnayake said.
-
-The Vista Seminar of the Sri Lanka Press Association was held yesterday (12) at the auditorium of the media guidelines under the 104A (a) (a) of the Constitution of the Sri Lanka Democratic Socialist Republic of Sri Lanka on the 21st of this month..
-
-Elections Commission Chairman RMAL. A special awareness seminar was held for journalists by Ratnayake.
-
-MPC Perera, Members of the Elections Commission were MPC Perera, Amir Boise, A. Shanmuganathan and Professor Lakshman Dissanayake.
-
-Commenting at the seminar, Elections Commission Chairman R. M.. A.. L. Ratnayake,
-
-While each media company delivers its news reports and newspaper headlines, other events related to political affairs should be provided with correct, equal and non -existent information when sound, broadcasting or publishing.
-
-...
-
-[Data](articles/7a2ddc48.json)
-
-[Extended Data](ext_articles/7a2ddc48.ext.json)
-
----
-
-### Attack on a bus carrying the supporters of the compass
-
-*2024-09-13 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200990) · `si`
-
-Bus attack during Moneragala general meeting injures four supporters of presidential candidate Anura Kumara Dissanayake.
-
-🟩
-
-A bus was attacked by a person who was returning to a meeting in the Moneragala area this morning.
-
-The attack took place in the Moneragala General Meeting at the Moneragala Pradeshiya Sabha Stadium, headed by the party's presidential candidate Anura Kumara Dissanayake.
-
-Four persons were injured and admitted to the Buttala Regional Hospital for treatment.
-
-◼️
-
-[Data](articles/ead2d2ee.json)
-
-[Extended Data](ext_articles/ead2d2ee.ext.json)
-
----
-
-### Italian father and son fined Rs. 60 mln over attempt to smuggle endemic insects from Yala
-
-*2024-09-13 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101946/italian-father-and-son-fined-rs-60-mln-over-attempt-to-smuggle-endemic-insects-from-yala-) · `en`
-
-An Italian father and his son have been fined Rs. 60 million (approximately 200,000 USD) for attempting to smuggle hundreds of endemic insects, including 92 species of butterflies, from Yala National Park.
-
-This fine is reportedly the highest ever imposed for a wildlife crime in Sri Lanka.
-
-The decision was recently delivered by Tissamaharama Magistrate Tharindu Sameera de Silva.
-
-The two Italians, 68-year-old Luigi Ferrari and his 28-year-old son, were arrested on May 8 this year by Yala National Park rangers with several jars containing the insects.
-
-Initially, 810 charges were brought against them, but this was later reduced to 304.
-
-The defense, represented by a team of lawyers from various regions, requested for leniency and the imposing of a minimum fine on their clients.
-
-However, the Magistrate stated that the case was expedited and the necessary expert reports were swiftly obtained as the defendants are foreign nationals.
-
-...
-
-[Data](articles/948cd484.json)
-
-[Extended Data](ext_articles/948cd484.ext.json)
-
----
-
-### Decision to reduce PAYE Tax
-
-*2024-09-13 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200989) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's Cabinet proposes reducing PAYE tax rates. The plan, agreed upon by the IMF, aims to lower tax deductions for income brackets from Rs. 150,000 to Rs. 300,000. For example, the Rs. 150,000 bracket would see a reduction from Rs. 3,000 to Rs. 2,500 annually. This change is set to be included in the upcoming budget proposals.
-
-🟩
-
-Cabinet spokesman Bandula Gunawardena says that the tax deduction proposal will be included in the budget proposals.
-
-The proposal by the government has been submitted to the IMF and has obtained its agreement.
-
-According to the proposal, taxes will be reduced by the proposal:
-
-Rs. 150,000 - Rs. 3,000 per tax of Rs.. Reduced to 2,500.
-
-300,000 rupees of Rs. 7,000 per year - Rs. 3,500 Rs. 3,500. Reduced to 3,500.
-
-"Today, the Cabinet of the Budget Settlement to the Treasury of the Budget
-
-◼️
-
-[Data](articles/d44b2f02.json)
-
-[Extended Data](ext_articles/d44b2f02.ext.json)
-
----
-
-### Special Transportation Service for a long vacation
-
-*2024-09-13 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/193593) · `ta`
-
-Sri Lanka Transport Board implements special bus service for long vacation. About 60 buses operate daily. National Transport Commission runs additional buses without schedule. Department of Railways offers special train trips from Badulla to Colombo.
-
-🟩
-
-The Sri Lanka Transport Board (SLTB) said that special transport services have been implemented from Friday (13) for the people who will travel to various areas ahead of the long holiday.
-
-About 60 buses have been operated for this purpose, the Sri Lanka Transport Board said.
-
-In this case, the National Transport Commission plans to run more buses without timetable.
-
-Meanwhile, the Department of Railways said that special train trips from Badulla to Colombo have been made.
-
-◼️
-
-[Data](articles/fde03449.json)
-
-[Extended Data](ext_articles/fde03449.ext.json)
 
 ---

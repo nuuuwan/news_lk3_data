@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 14:10:25**
+As of **2024-09-14 14:22:28**
 
 ## Newspaper Stats
 
-*Scraped **43,843** Articles*
+*Scraped **43,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 426
 colombotelegraphcom | 432
-islandlk | 2,565
+islandlk | 2,566
 economynextcom | 2,676
 dailyftlk | 2,920
-adalk | 4,056
+adalk | 4,057
 dailymirrorlk | 4,733
-adaderanalk | 5,154
+adaderanalk | 5,157
 tamilmirrorlk | 5,699
 virakesarilk | 6,948
 adaderanasinhalalk | 7,496
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,496
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,843 (100.0%) of 43,843 articles have been extended.
+43,848 (100.0%) of 43,848 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,66 @@ He said exams, timetables and examination tables could be implemented without de
 [Data](articles/01c7d216.json)
 
 [Extended Data](ext_articles/01c7d216.ext.json)
+
+---
+
+### 2023 O/L exam results expected within next 2 weeks
+
+*2024-09-14 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101968/2023-ol-exam-results-expected-within-next-2-weeks) · `en`
+
+Minister of Education Susil Premajayantha assured that the results of the 2023 (2024) G.C.E. Ordinary Level examination will be released within the next two weeks.
+
+Joining a press conference held today (14), Premajayantha also addressed current examination schedules, noting that the Grade 05 scholarship examination, which had been postponed, will take place tomorrow (15).
+
+Additionally, he highlighted that the G.C.E. Advanced Level examination, which has faced extended delays, is now scheduled to commence on November 25 this year.
+
+Furthermore, he assured that in 2025, examinations will be implemented without any delay and in a more streamlined and predictable manner.
+
+◼️
+
+[Data](articles/d8e07cd8.json)
+
+[Extended Data](ext_articles/d8e07cd8.ext.json)
+
+---
+
+### Dates announced for 2025 new school term
+
+*2024-09-14 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101967/dates-announced-for-2025-new-school-term) · `en`
+
+The new school term for the academic year 2025 is scheduled to commence on January 02, 2025.
+
+Addressing a media briefing this morning (14), Minister of Education Susil Premajayantha stated that significant improvements have been made to the academic calendar and examination schedule for the upcoming years.
+
+Furthermore, he mentioned that in order to address past delays, the ongoing third school term will include an additional two weeks in January 2025, for ensuring a complete and uninterrupted academic year.
+
+Meanwhile, the Minister guaranteed that school uniforms, textbooks, and all necessary materials will be fully prepared to be distributed among the students by January 20, when the 2025 first term will officially begin.
+
+◼️
+
+[Data](articles/165ff345.json)
+
+[Extended Data](ext_articles/165ff345.ext.json)
+
+---
+
+### China throws fresh support line to crisis-threatened Maldives
+
+*2024-09-14 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101966/china-throws-fresh-support-line-to-crisis-threatened-maldives) · `en`
+
+The Maldives’ hopes of staving off a debt crisis were given a lift on Friday after China agreed to strengthen trade and investment in its latest demonstration of support and influence in the Indian Ocean nation.
+
+Concerns have grown in recent months that the cash-strapped Maldives could become the first country to default on Islamic sovereign debt but this week has seen a sudden improvement in sentiment.
+
+A sharp rebound in its only international market bond - a sharia-compliant sukuk issue - was capped on Friday as China’s central bank, the People’s Bank of China (PBOC) and the Maldivian Ministry of Economic Development and Trade announced a “memorandum of understanding”.
+
+Though the details were limited, the two sides said it was “a framework for cooperation” aimed at “promoting the settlement of current account transactions and direct investments in local currencies,” as well as facilitating smoother trade.
+
+...
+
+[Data](articles/2eb35c23.json)
+
+[Extended Data](ext_articles/2eb35c23.ext.json)
 
 ---
 
@@ -279,6 +339,28 @@ The president's democratic election, centered on the number of votes, is defined
 [Data](articles/ab4917de.json)
 
 [Extended Data](ext_articles/ab4917de.ext.json)
+
+---
+
+### International Club of DC Celebrates High Tourism and Investment Promotion
+
+*2024-09-14 11:17:50* · [`adalk`](https://www.ada.lk/breaking_news/International-club-of-DC-උත්සවයෙන්-ලංකාවට-ඉහළ-සංචාරක-හා-ආයෝජන-ප්‍රවර්ධනයක්/11-411942) · `si`
+
+Sri Lanka promotes tourism & investment in Washington. Ambassador Mahinda Samarasinghe highlights Sri Lanka's rich history (2500+ years) compared to USA (246 years). Invites Americans to experience Sri Lanka's heritage and workforce.
+
+🟩
+
+Sri Lanka has been promoted to a large seasonal tourism and investment in Washington's Ambassador to Washington's Ambassador to Washington's Ambassador to Washington's Ambassador.
+
+Ambassador of Ambassador Mahinda Samarasinghe was invited to visit Sri Lanka and to enjoy the good workforce of Sri Lanka and healthy labor and healthy labor.
+
+"Send this message with other American relatives and friends. The US has a 246 year history, but Sri Lanka has a 2500 year old. Portuguese conquered 450 years to the Portuguese and British in our country.. The ruins of the proud history "Ambassador Mahinda Samarasinghe invited him.
+
+◼️
+
+[Data](articles/085ca8a6.json)
+
+[Extended Data](ext_articles/085ca8a6.ext.json)
 
 ---
 
@@ -953,6 +1035,22 @@ In an era where the internet shapes every aspect of our lives, from learning and
 [Data](articles/8d152c7d.json)
 
 [Extended Data](ext_articles/8d152c7d.ext.json)
+
+---
+
+### Virtusa achieves Science Based Targets Initiative validation for Greenhouse gas emissions reduction targets
+
+*2024-09-14 01:49:00* · [`islandlk`](http://island.lk/virtusa-achieves-science-based-targets-initiative-validation-for-greenhouse-gas-emissions-reduction-targets/) · `en`
+
+Virtusa Corporation, a global provider of digital strategy, digital engineering, and IT services and solutions, recently received validation from the Science Based Targets initiative (SBTi) for its greenhouse gas (GHG) emissions reduction targets. These validations cover Virtusa’s Scope 1, 2, and 3 GHG emissions reduction targets, both near-term and long-term, underscoring Virtusa’s commitment to reducing its carbon footprint across all areas of its operations and value chain.
+
+“Climate science demands rapid, deep emissions cuts to achieve global net-zero and prevent the devastating impacts of climate change,” said Susan Jenny Ehr, Interim Chief Executive Officer of the Science Based Targets initiative. “Virtusa’s net-zero targets reflect this urgency and set a clear example for its peers to follow.”
+
+...
+
+[Data](articles/8449359b.json)
+
+[Extended Data](ext_articles/8449359b.ext.json)
 
 ---
 
@@ -2121,119 +2219,5 @@ The Supreme Court today (13) ordered that he had been insulted by the Supreme Co
 [Data](articles/7683bf7b.json)
 
 [Extended Data](ext_articles/7683bf7b.ext.json)
-
----
-
-### Government resolution to reduce PAYE line
-
-*2024-09-13 17:14:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PAYE-வரியை-குறைக்க-அரசாங்கம்-தீர்மானம்/175-343719) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Govt proposes reducing PAYE tax in upcoming budget. For Rs 150k/month: Rs reduction. For Rs 300k/month: Rs 3500 reduction. For Rs 450k/month: Rs reduction. For Rs 600k/month: Rs reduction."
-
-🟩
-
-Cabinet Media Spokesperson Bandula Gunawardena said the proposal to reduce the PAYE tax (tax -paying tax) will be included in the upcoming budget motion.
-
-He said the government had submitted a similar motion to the IMF and obtained compliance with the International Monetary Fund.
-
-A person who earns an income of Rs 150,000 per month will be reduced by Rs.
-
-Similarly, a person who earns an income of Rs 300,000 per month will be reduced to Rs 3,500 for Rs 7,000 per month.
-
-Similarly, a person who earns 450,000 rupees per month will be reduced by Rs.
-
-A person who earns an income of Rs 6 lakh per month has been reduced by Rs.. Remble
-
-◼️
-
-[Data](articles/bc29130d.json)
-
-[Extended Data](ext_articles/bc29130d.ext.json)
-
----
-
-### Sri Lanka Cabinet approves cutting PAYE tax
-
-*2024-09-13 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-cutting-paye-tax-179581/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved offering tax relief to the countries salaried workers, its Minister of Justice said.
-
-“Thanks to prudent revenue management and fiscal consolidation, we are pleased to offer tax relief. A salary of Rs. 150,000 will see a 14% tax reduction, Rs. 200,000 will benefit from a 20% reduction, and Rs. 300,000 from a 25% reduction. This provides much-needed relief to taxpayers,” Minister M U M Ali Sabry said on X (twitter).
-
-The island-nation is one week away from a presidential election.
-
-Sabry tweeted the following breakdown of the proposed tax structure:
-
-◼️
-
-[Data](articles/d08bc2eb.json)
-
-[Extended Data](ext_articles/d08bc2eb.ext.json)
-
----
-
-### Suspect caught in Katunayake with gold stall
-
-*2024-09-13 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200993) · `si`
-
-Gold smuggler caught at Katunayake airport with 15kg of illegal gold worth over $1 million.
-
-🟩
-
-A person has been arrested by the Airport Customs Officers with more than illegally brought to Sri Lanka.
-
-Customs officers have taken 15 kg of gold or 860 grams of gold from Dubai to India.
-
-◼️
-
-[Data](articles/8df48b34.json)
-
-[Extended Data](ext_articles/8df48b34.ext.json)
-
----
-
-### Bus carrying NPP supporters attacked in Monaragala
-
-*2024-09-13 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101948/bus-carrying-npp-supporters-attacked-in-monaragala) · `en`
-
-A bus returning from an election rally of the National People’s Power (NPP) held in Monaragala this morning (13) has reportedly been attacked by a group of unidentified individuals.
-
-The attack had targeted a group of supporters who were returning from a public meeting held at the Monaragala Pradeshiya Sabha stadium, with the participation of the NPP presidential candidate, Anura Kumara Dissanayake.
-
-Four persons who were injured in the attack have been admitted to the Buttala Divisional Hospital for treatment.
-
-Police investigations are currently underway to identify and apprehend the suspects involved in the attack.
-
-◼️
-
-[Data](articles/463bc26c.json)
-
-[Extended Data](ext_articles/463bc26c.ext.json)
-
----
-
-### The Speaker testified the two bills
-
-*2024-09-13 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193611) · `ta`
-
-Speaker Mahinda Yapa Abeywardena presented two bills: one on mutual acceptance of foreign judgments and another amending the Criminal Investigation Act. Both aim to strengthen legal frameworks and international cooperation.
-
-🟩
-
-Speaker Mahinda Mahinda Yapa Yapa Yapa Yapa Abeywaratne on Friday (13th), on Article 79 of the Constitution, on Friday (13th), in the Constitution, Mutual Acceptance, Registration and Reinforcing Bill and Criminal Action Bill (Amendment) Bill.
-
-Mutual acceptance, registration and strengthening Bill, Mutual Acceptance of Foreign Relations (93rd) Reinforcement Ordinance of the Reinforcement Ordinance of Foreign Judges (93rd) and its reinforcement of foreign judgments, and its arrangements for mutual acceptance, registration and strengthening of the courts of other countries.It is a bill to arrange. Accordingly, the bill will be known as mutual acceptance, registration and reinforcing the foreign judgments No. 49 of 2024.
-
-In addition, the Criminal Investigation Act (Amendment) Bill is a law to suspend the Criminal Action Act No. 15 of 1979. Accordingly, the Bill will be known as the Criminal Action Act No. 50 in 2024.
-
-◼️
-
-[Data](articles/a21dd5f6.json)
-
-[Extended Data](ext_articles/a21dd5f6.ext.json)
 
 ---

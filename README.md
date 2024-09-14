@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 15:56:32**
+As of **2024-09-14 16:09:36**
 
 ## Newspaper Stats
 
-*Scraped **43,863** Articles*
+*Scraped **43,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,94 @@ adalk | 4,058
 dailymirrorlk | 4,733
 adaderanalk | 5,160
 tamilmirrorlk | 5,699
-virakesarilk | 6,956
+virakesarilk | 6,959
 adaderanasinhalalk | 7,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,863 (100.0%) of 43,863 articles have been extended.
+43,866 (100.0%) of 43,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### The GCE Ordinary Level Examination will be released within two weeks - Minister of Education
+
+*2024-09-14 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193678) · `ta`
+
+GCE Ordinary Level Exam 2023 release in 2 weeks: Minister. Grade 5 Scholarship Exam 2024 tomorrow. Education Public Advancement Exam starts Nov 25. Promises timely exams in 2025.
+
+🟩
+
+The GCE Ordinary Level Examination for 2023 will be released within two weeks.
+
+Education Minister Susil Premajayantha said this at a media briefing held on Saturday (14).
+
+The Grade 5 Scholarship Examination for 2024 will be held tomorrow (15).
+
+The Education Public Advancement Examination, which faced a long period of time, is scheduled to commence on the 25th of November.
+
+He also promised that the exams will be held in a timely manner without delay in 2025.
+
+◼️
+
+[Data](articles/87475e99.json)
+
+[Extended Data](ext_articles/87475e99.ext.json)
+
+---
+
+### Hindi Day celebrated in Colombo
+
+*2024-09-14 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193676) · `ta`
+
+Colombo celebrates Hindi Day. Swami Vivekananda Cultural Center certifies 30 police officers for completing Hindi lessons. Indian High Commissioner congratulates them. Annual "Sri Lanka Hindi Commonwealth" publication released. Top officials attend event. Hindi Day emphasizes India's official language status.
+
+🟩
+
+Swami Vivekananda Cultural Center, the cultural division of the Indian High Commission in Colombo, celebrated Hindi Day in Colombo yesterday (13) and certified 30 police officers who completed Hindi language learning.
+
+Indian High Commissioner to Sri Lanka Santosh Jha Cultural Center has congratulated the police officers who successfully completed the Hindi speaking lesson.
+
+He also published the annual release of the "Sri Lanka Hindi Commonwealth" Center at the event.
+
+Senior Deputy Inspector General of Police Lalith Patinayake and Medawatta, the Executive Director of the National Police Academy (NPA), Jaliya Senaratne and other top officials were also present.
+
+The Senior Deputy Inspector General of Police, Lalith Patinayake, thanked the Indian High Commission and the Swami Vivekananda Cultural Center for providing training for Hindi language courses to Sri Lankan police officers.
+
+Hindi Day is mentioned as the official language of India as the official language of India.
+
+◼️
+
+[Data](articles/bc7c4ced.json)
+
+[Extended Data](ext_articles/bc7c4ced.ext.json)
+
+---
+
+### The problems of the missing persons will be fully resolved in the next five years - Ranil in Jaffna
+
+*2024-09-14 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/193681) · `ta`
+
+President Ranil Wickremesinghe promises resolution of missing persons cases within 5 years during Jaffna rally. National Land Commission and Truth and Reconciliation Commission support this commitment.
+
+🟩
+
+President Ranil Wickremesinghe said the problems of the missing persons in the next five years would be fully solved.
+
+President Ranil Wickremesinghe made this statement while addressing the 'Ranilal Charm' Victory rally held at the Jaffna Stadium on Saturday.
+
+The National Land Commission and the Truth and Reconciliation Commission (TRC) said that the Judge Nawaz Commission will act according to the report and that the problems of the missing persons will be fully resolved in the next five years.
+
+◼️
+
+[Data](articles/2ba666e5.json)
+
+[Extended Data](ext_articles/2ba666e5.ext.json)
+
+---
 
 ### Sajith criticizes govt’s delayed public relief efforts
 
@@ -2203,65 +2279,5 @@ The Magistrate ordered the suspect teachers of Rs. 300,000 to treat the student.
 [Data](articles/4bcde3c9.json)
 
 [Extended Data](ext_articles/4bcde3c9.ext.json)
-
----
-
-### Public Resource Misuse Sparks Over 750 Complaints To TISL
-
-*2024-09-13 19:58:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/public-resource-misuse-sparks-over-750-complaints-to-tisl/) · `en`
-
-Transparency International Sri Lanka (TISL) has received 758 complaints concerning the misuse of public resources for election campaigning as of September 11, 2024. The largest category of complaints—343 in total—pertains to the misuse of public premises. These include the misuse of public grounds, government offices, buildings, and schools etc. for election campaigns. Complaints detail instances where such premises were used without paying the required fees, were reserved for one candidate or political party for extended periods or were adorned with posters and cutouts in violation of election laws.
-
-...
-
-[Data](articles/15af3327.json)
-
-[Extended Data](ext_articles/15af3327.ext.json)
-
----
-
-### IMF to move forward with Sri Lanka program discussions after presidential poll
-
-*2024-09-13 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101951/imf-to-move-forward-with-sri-lanka-program-discussions-after-presidential-poll) · `en`
-
-The International Monetary Fund (IMF) says that the timing of Sri Lanka’s Third Review under the Extended Fund Facility will be discussed with the government following the elections and that they will move forward with program discussions after the country’s presidential election.
-
-Responding to questions during the weekly press briefing, the Director of the IMF’s Communications Department, Julie Kozack stated that the IMF Executive Board completed the 2024 Article IV Consultation and the Second Review of the EFF program on June 12, 2024.
-
-She stated that this provided the country with access of about $336 million U.S. dollars. ”Program performance remains strong. Reform efforts are bearing fruit. Economic growth is starting to revive. Inflation is coming down. Reserves, international reserves are increasing, and revenue mobilization is improving.”
-
-Nonetheless, she stated that important vulnerabilities do remain, and that sustaining reform momentum is going to be essential.
-
-...
-
-[Data](articles/0eac3451.json)
-
-[Extended Data](ext_articles/0eac3451.ext.json)
-
----
-
-### Foreign employment agent arrested for allegedly sending Rs 60 lakhs of rupees to Cyprus
-
-*2024-09-13 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/193610) · `ta`
-
-Foreign employment agent arrested for fraudulently sending Rs 60 lakhs to Cyprus. Deceived 10 youth, investigation reveals 15 victims total. Suspect detained at Katunayake airport.
-
-🟩
-
-A foreign employment agent who tried to flee from the Katunayake airport has been arrested by the Katunayake airport police on Friday (13).
-
-The foreign employment agent has called for the job to work for Cyprus, deceiving the ten youth and girls to get money and come to the Katunayake airport.
-
-The suspect was arrested at the Katunayake airport at 08.45 am when the flight to the youth was on board at 10.30 am today (13).
-
-An investigation into the victim's youth has revealed that the foreign employment agency has received money from 15 more people claiming to be employed to Cyprus.
-
-The Katunayake airport police have taken steps to hand over the arrested suspect to the JHL police station.
-
-◼️
-
-[Data](articles/c80530b4.json)
-
-[Extended Data](ext_articles/c80530b4.ext.json)
 
 ---

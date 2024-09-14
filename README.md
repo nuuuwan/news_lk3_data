@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 15:37:45**
+As of **2024-09-14 15:56:32**
 
 ## Newspaper Stats
 
-*Scraped **43,861** Articles*
+*Scraped **43,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 426
 colombotelegraphcom | 432
-islandlk | 2,566
+islandlk | 2,567
 economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,058
 dailymirrorlk | 4,733
-adaderanalk | 5,159
+adaderanalk | 5,160
 tamilmirrorlk | 5,699
 virakesarilk | 6,956
 adaderanasinhalalk | 7,498
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,857 (100.0%) of 43,861 articles have been extended.
+43,863 (100.0%) of 43,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Sajith criticizes govt’s delayed public relief efforts
+
+*2024-09-14 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101972/sajith-criticizes-govts-delayed-public-relief-efforts) · `en`
+
+The Samagi Jana Balawegaya (SJB) presidential candidate Sajith Premadasa emphasized that the public would have reaped greater benefits had the government’s recently announced relief measures been introduced earlier this year.
+
+Addressing a public rally held in Matara, Premadasa stated, “All possible burdens have already been placed on the people. Now, in a rush for the upcoming election, the president is making announcements about reducing taxes, increasing salaries, and offering concessions.”
+
+“These concessions should have been implemented at the start of the year, not at this late stage,” he declared.
+
+He also dismissed claims made by Anura Kumara Dissanayake, the National People’s Power (NPP) presidential candidate, that his party was planning to incite violence.
+
+“I heard Mr. Anura Kumara accuse us of plotting violent acts. We have never engaged in violence. The people of this country will not fall for the traps he’s setting,” Premadasa asserted.
+
+...
+
+[Data](articles/3bbd6610.json)
+
+[Extended Data](ext_articles/3bbd6610.ext.json)
+
+---
 
 ### Hundreds of thousands in Cuba without water
 
@@ -392,21 +414,31 @@ Speaking to the Presidential Election at the 2124 presidential election during t
 
 ---
 
-### முதன் முதலில் ஆபிரிக்காவில் குரங்கம்மை தடுப்பூசியை பயன்படுத்த உலக சுகாதார ஸ்தாபனம் அனுமதி
+### World Health Organization Allowed to Use Muruga Vaccine in Africa
 
 *2024-09-14 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/193658) · `ta`
 
-ஆபிரிக்காவில் 18 வயதுக்கு மேற்பட்டவர்களுக்கு முதன்முதலில் குரங்கம்மை  தடுப்பூசியை பயன்படுத்த உலக சுகாதார ஸ்தாபனம் வெள்ளிக்கிழமை  அனுமதி வழங்கியுள்ளது.
+Here's a summary of the article in 200 characters:
 
-ஆபிரிக்க நாடான கொங்கோவில் 'எம் பாக்ஸ்' எனப்படும் குரங்கம்மை நோய் முதலில் கண்டறியப்பட்டது. இதுவரை ஆபிரிக்காவில் குரங்கம்மைக்கு 107 பேர் உயிரிழந்துள்ளனர். 3,160 பேருக்கு தொற்று பாதிப்பு உள்ளது.
 
-பெரியம்மையை ஏற்படுத்தும் வைரஸ் குடும்பத்தைச் சேர்ந்த கிருமி தான் குரங்கம்மை நோயை ஏற்படுத்துகிறது. காய்ச்சல், உடல் வலி, உடல் சில்லிடுதல் ஆகியவை இதன் பொதுவான அறிகுறிகள். மிகவும் தீவிர பாதிப்பு உள்ளவர்களுக்கு முகம், கை, மார்பு மற்றும் பிறப்புறுப்புகளில் கட்டிகள் தோன்றும். இறப்பு ஏற்படும்.
 
-இந்நிலையில் குரங்கம்மைக்கான தடுப்பூசியை, டென்மார்க்கைச் சேர்ந்த, 'பவாரியன் நார்டிக்' எனும் உயிரி தொழில்நுட்ப நிறுவனம் தயாரித்தது. பல்வேறு கட்ட பரிசோதனைகளுக்கு பின் உலக சுகாதார ஸ்தாபனம் அந்த தடுப்பூசிக்கு நேற்று அனுமதி வழங்கியது.
+WHO approves Muruga vaccine for Africa; targets adults; produced by Pawarian Nordic; injectable in 2 doses; aims to combat monkeypox outbreak affecting 3,160 cases and 107 deaths in Congo.
+
+🟩
+
+The World Health Organization on Friday granted permission for the use of a stupid vaccine for people over the age of 18 in Africa.
+
+In the African country of Congo, the 'M box' was originally diagnosed with the disease. 107 people have died in Monkey in Africa so far. 3,160 people have infection.
+
+The germ of the virus family that causes a large number causes the disease. Fever, physical pain, and body chimney are the most common symptoms. Tumors appear in the face, hand, chest and genitals for the most serious victim. Death will occur.
+
+In this case, the Vaccine for Monkey was produced by the Biotechnology Institute called 'Pawarian Nordic' from Denmark. The World Health Organization granted permission for the vaccine yesterday after various phase tests.
 
 ...
 
 [Data](articles/f69279b0.json)
+
+[Extended Data](ext_articles/f69279b0.ext.json)
 
 ---
 
@@ -628,61 +660,85 @@ Addressing a public rally held in Kaduruwela, Jayaweera emphasized the urgent ne
 
 ---
 
-### ஜனாதிபதி வேட்பாளர்களிடம் பரீட்சைத் திணைக்களம் விடுத்துள்ள வேண்டுகோள் !
+### The Department of Examinations has appealed to the Presidential candidates!
 
 *2024-09-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193649) · `ta`
 
-2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சை நாளை ஞாயிற்றுக்கிழமை (15) நடைபெறவுள்ளது.
+Department of Examinations appeals to Presidential candidates: Grade 5 scholarship exam 2024 tomorrow. Election campaigns may disrupt tests. Commissioner General requests candidates avoid campaigning near exam centers. Exam held at 2,849 stations; 320,879 students participating.
 
-இதனால், தேர்தல் பிரச்சாரங்கள் பரீட்சைகளுக்கு இடையூறை விளைவிக்கலாம். எனவே,  நாளைய தினம் காலை பரீட்சை நிலையங்களுக்கு அருகில் பிரச்சார நடவடிக்கைகளில் ஈடுபடுவதை தவிர்த்துக் கொள்ளுமாறு பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர ஜனாதிபதி வேட்பாளர்களிடம் கோரிக்கை விடுத்துள்ளார்.
+🟩
 
-நாளையதினம் 5 ஆம் தரப் புலமைப் பரிசில் பரீட்சை 2,849 நிலையங்களில் நடைபெறவுள்ளது. இவ் ஆண்டு 320,879 மாணவர்கள் பரீட்சைக்குத் தோற்றவுள்ளமை குறிப்பிடத்தக்கது.
+Grade 5 scholarship examination for 2024 will be held tomorrow (15).
+
+Thus, election campaigns can be disrupted for exams. Therefore, the Commissioner General of Examinations Amit Jayasundera has requested the Presidential candidates to avoid campaigning near the examination centers tomorrow morning.
+
+The 5th Scholarship Examination will be held tomorrow at 2,849 stations. It is noteworthy that 320,879 students will appear for the exam this year.
 
 ◼️
 
 [Data](articles/c0ce2dae.json)
 
+[Extended Data](ext_articles/c0ce2dae.ext.json)
+
 ---
 
-### பிரபு - வெற்றி கூட்டணி அமைத்து கலக்கும் 'ராஜ புத்திரன்'
+### Prabhu - Victory Alliance
 
 *2024-09-14 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193652) · `ta`
 
-'இளைய திலகம்' பிரபு - 'ரைசிங் ஸ்டார்' வெற்றி முதன்முறையாக கதையின் நாயகர்களாக இணைந்து நடிக்கும் திரைப்படத்திற்கு 'ராஜ புத்திரன்' என பெயரிடப்பட்டிருக்கிறது.
+Here's a 200-character summary:
 
-அறிமுக இயக்குநர் மகா கந்தன் இயக்கத்தில் உருவாகும் 'ராஜ புத்திரன்' எனும் திரைப்படத்தில் பிரபு, வெற்றி, கோமல் குமார், கிருஷ்ண பிரியா, மன்சூர் அலிகான், ஆர். வி. உதயகுமார், இமான் அண்ணாச்சி, லிவிங்ஸ்டன் , தங்கதுரை உள்ளிட்ட பலர் நடிக்கிறார்கள்.
 
-‌ ஆலிவர் டேனி ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு நவ்பல் ராஜா இசையமைக்கிறார்.
 
-இந்த திரைப்படத்தை கிரஸண்ட் சினி கிரியேஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் கே. எம் .ஷபி தயாரிக்கிறார்.
+"Raja Putran" stars Prabhu, Victory, and others. Directed by Navpal Raja, produced by M.Habi. Shooting complete, post-production underway. Fans excited for Prabhu's rural setting return.
 
-இப்படத்தின் படப்பிடிப்பு நிறைவடைந்து தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் தொடங்கி இருக்கிறது.
+🟩
 
-நீண்ட நாட்கள் கழித்து அற்புதமான கிராமத்து பின்னணியிலான கதையில் நடிகர் பிரபு தோன்றுவதால் 'ராஜ புத்திரன்' படத்திற்கு ரசிகர்களிடையே பெரும் எதிர்பார்ப்பு ஏற்பட்டிருக்கிறது.
+The film, which co -starred as the heroes of the story for the first time, has been named 'Raja Putran'.
+
+Prabhu, Victory, Komal Kumar, Krishna Priya, Mansoor Alikan, R. V.. Udayakumar, Iman Annachi, Livingston, Thangadurai and many others are acting.
+
+Navpal Raja is composing the film, which is being recorded by Oliver Danny.
+
+The film was made on behalf of Crescent Cine Creations Company. M .Habi produces.
+
+The shooting of the film has been completed and the post -shooting technical work has begun.
+
+Actor Prabhu's appearance in a wonderful village background after a long day has caused great anticipation among fans for the film 'Raja Putran'.
 
 ◼️
 
 [Data](articles/02633b69.json)
 
+[Extended Data](ext_articles/02633b69.ext.json)
+
 ---
 
-### இயக்குநர் ராஜு முருகனுடன் இணையும் கௌதம் கார்த்திக்
+### Gautam Karthik joins director Raju Murugan
 
 *2024-09-14 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/193645) · `ta`
 
-நடிகர் கௌதம் கார்த்திக் இயக்கத்தில் தயாராகும் புதிய படத்தினை பற்றிய அதிகாரப்பூர்வமான அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+Gautam Karthik directs new film, stars as hero. Co-produced by MG Studios, AVP Maran, Ganesh K. Babu. Details of cast and crew to be announced soon. Film announcement set for Karthik's birthday. Director comments: "I'm excited to work with Gautam."
 
-அறிமுக இயக்குநர் தினா ராகவன் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் கௌதம் கார்த்திக் கதையின் நாயகனாக நடிக்கிறார்.
+🟩
 
-இந்த திரைப்படத்தினை எம் ஜி ஸ்டுடியோஸ் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் ஏ.வி.பி மாறன் மற்றும் இயக்குநர் கணேஷ் கே.பாபு ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+An official announcement has been made about the new film that will be directed by actor Gautam Karthik.
 
-இந்த திரைப்படத்தில் நடிக்கும் ஏனைய நடிகர்கள், நடிகைகள் மற்றும் தொழில்நுட்ப கலைஞர்கள் பற்றிய விபரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என எதிர்பார்க்கப்படுகிறது.
+Gautam Karthik plays the hero of the story in the unnamed film directed by debutant director Dina Raghavan.
 
-'மிஸ்டர் எக்ஸ்', 'கிரிமினல்' என இரண்டு படங்களில் நடித்து வரும் நடிகர் கௌதம்  கார்த்திக்கின் பிறந்த நாளை முன்னிட்டு அவர் நடிக்கும் புதிய படத்தின் அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+The film is co -produced by MG Studios, producer AVP Maran and director Ganesh K. Babu.
 
-...
+Details of other actors, actresses and technicians who are acting in the film are expected to be officially released soon.
+
+The announcement of the new film will be released on the birthday of actor Gautham Karthik, who has acted in two films - Mr. X and 'Criminal'.
+
+Commenting on the film, the director said:
+
+◼️
 
 [Data](articles/1f78fb59.json)
+
+[Extended Data](ext_articles/1f78fb59.ext.json)
 
 ---
 
@@ -1355,6 +1411,22 @@ Virtusa Corporation, a global provider of digital strategy, digital engineering
 [Data](articles/8449359b.json)
 
 [Extended Data](ext_articles/8449359b.ext.json)
+
+---
+
+### NCE calls for urgent action to address visa and passport crisis impacting business community
+
+*2024-09-14 01:24:00* · [`islandlk`](http://island.lk/nce-calls-for-urgent-action-to-address-visa-and-passport-crisis-impacting-business-community/) · `en`
+
+The recent visa and passport crisis has sparked significant concern among the public, and especially within the business community. Media reports, including those in leading newspapers, have highlighted issues of corruption, and these reports are being amplified internationally through various digital platforms. This is adversely affecting the credibility of Sri Lanka on a global scale.
+
+Sri Lanka is currently advancing as an export-driven economy, a direction supported by both the current government and the presidential candidates running for the upcoming elections in September 2024. The National Chamber of Exporters (NCE) of Sri Lanka, being the sole chamber dedicated to the interests of Sri Lankan exporters, is in full alignment with government efforts. We are committed to supporting and connecting Sri Lankan exporters with international markets through a variety of initiatives, ensuring that they remain competitive on the global stage.
+
+...
+
+[Data](articles/44be43e2.json)
+
+[Extended Data](ext_articles/44be43e2.ext.json)
 
 ---
 
@@ -2191,49 +2263,5 @@ The Katunayake airport police have taken steps to hand over the arrested suspect
 [Data](articles/c80530b4.json)
 
 [Extended Data](ext_articles/c80530b4.ext.json)
-
----
-
-### Kausalya Nawaratne resigned from the Sri Lanka Lawyers Association
-
-*2024-09-13 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/193629) · `ta`
-
-Kausalya Nawaratne resigns as Sri Lanka Lawyers Association president.
-
-🟩
-
-President of the Sri Lanka Lawyers Association President Kausalya Nawaratne has resigned from the post.
-
-◼️
-
-[Data](articles/32101528.json)
-
-[Extended Data](ext_articles/32101528.ext.json)
-
----
-
-### Information on the presidential election: The Election Commission appealed to the people!
-
-*2024-09-13 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193600) · `ta`
-
-Election Commission warns against fake news on presidential election. Emphasizes free, fair, and credible polls. Urges public to rely only on official announcements.
-
-🟩
-
-The Election Commission issued a key notice on Friday (13) regarding the fake information being spreading the presidential election.
-
-The Election Commission has already made all arrangements to hold the presidential election freely, fair and credible.
-
-The Election Commission has issued circular issues, instructions and work on the task of the law in this regard and has advised the public and the mass media on it.
-
-However, in contrast to the instructions of the Election Commission, various persons and organizations are concerned about the election process (ie, voting, counting, strengthening election laws, and propaganda and other administration).
-
-The report states that they are not the official announcements of the Election Commission, and that all such claims are incapable of official validity and that the Election Commission has no responsibility.
-
-...
-
-[Data](articles/024f24cf.json)
-
-[Extended Data](ext_articles/024f24cf.ext.json)
 
 ---

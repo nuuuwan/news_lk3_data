@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 07:35:33**
+As of **2024-09-14 08:00:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,805 (100.0%) of 43,813 articles have been extended.
+43,812 (100.0%) of 43,813 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,19 +80,25 @@ The Meteorological Department urges the public to take necessary steps to reduce
 
 ---
 
-### வாக்காளர் அட்டை விநியோகம் இன்றுடன் நிறைவு
+### Voter card distribution is completed today
 
 *2024-09-14 06:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-இன்றுடன்-நிறைவு/175-343736) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான உத்தியோகபூர்வ வாக்காளர் அட்டைகளை வீடுகளுக்கு விநியோகிக்கும் பணி இன்றுடன் நிறைவுபெறும் என தபால் திணைக்களம் தெரிவித்துள்ளது.
+Voter card distribution complete today: 80% delivered. Remaining cards available at local post offices from 18th to 21st.
 
-இதுவரை 80 வீத உத்தியோகபூர்வ வாக்காளர் அட்டைகளைகள் விநியோகிக்கப்பட்டுள்ளன என சிரேஷ்ட பிரதி தபால் மா அதிபர் ராஜித ரணசிங்க குறிப்பிட்டுள்ளார்.
+🟩
 
-உத்தியோகபூர்வ வாக்காளர் அட்டைகள் கிடைக்கப்பெறாதவர்கள் எதிர்வரும் 18 ஆம் திகதி முதல் 21 ஆம் திகதி வரையான காலப்பகுதியில் அருகாமையிலுள்ள தபால் அலுவலகங்களில் ஆள் அடையாளத்தை உறுதிப்படுத்தி தமது வாக்காளர் அட்டையை பெற்றுக்கொள்ள முடியும் என அவர் தெரிவித்துள்ளார். (a)
+The Postal Department said that the process of distributing official voter cards to homes for the upcoming presidential election will be completed today.
+
+Senior Deputy Post Office Rajitha Ranasinghe has stated that 80 percent of the official voter cards have been distributed so far.
+
+Those who have not received official voter cards can get their voter card from the postal offices in the adjoining post offices from the 18th to the 21st of this month.. (A)
 
 ◼️
 
 [Data](articles/b72bd90b.json)
+
+[Extended Data](ext_articles/b72bd90b.ext.json)
 
 ---
 
@@ -298,6 +304,8 @@ In its announcement, Fitch Ratings said: “The Stable Outlook reflects Fitch’
 
 [Data](articles/a4b1d72e.json)
 
+[Extended Data](ext_articles/a4b1d72e.ext.json)
+
 ---
 
 ### HUTCH Sri Lanka leads the way to ensure safe browsing for children
@@ -309,6 +317,8 @@ In an era where the internet shapes every aspect of our lives, from learning and
 ...
 
 [Data](articles/8d152c7d.json)
+
+[Extended Data](ext_articles/8d152c7d.ext.json)
 
 ---
 
@@ -325,6 +335,8 @@ One of the most successful campaigns ever to have been executed in the airline�
 ...
 
 [Data](articles/56c68633.json)
+
+[Extended Data](ext_articles/56c68633.ext.json)
 
 ---
 
@@ -344,6 +356,8 @@ The stock market bounced back yesterday after experiencing a downfall during the
 
 [Data](articles/b4b17426.json)
 
+[Extended Data](ext_articles/b4b17426.ext.json)
+
 ---
 
 ### “Climate Challenge SL” invites data professionals to a first ever hackathon aimed at generating innovative data-driven solutions
@@ -357,6 +371,8 @@ Data professionals from across the country are called to apply for “Climate Ch
 ...
 
 [Data](articles/50a826d0.json)
+
+[Extended Data](ext_articles/50a826d0.ext.json)
 
 ---
 
@@ -569,6 +585,8 @@ Having considered the current economic and environmental factors, the government
 ...
 
 [Data](articles/e3101c37.json)
+
+[Extended Data](ext_articles/e3101c37.ext.json)
 
 ---
 

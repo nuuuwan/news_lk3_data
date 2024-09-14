@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 02:55:51**
+As of **2024-09-15 03:07:34**
 
 ## Newspaper Stats
 
-*Scraped **43,914** Articles*
+*Scraped **43,915** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 426
-colombotelegraphcom | 433
+colombotelegraphcom | 434
 islandlk | 2,573
 economynextcom | 2,679
 dailyftlk | 2,920
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,914 (100.0%) of 43,914 articles have been extended.
+43,914 (100.0%) of 43,915 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -297,6 +297,20 @@ Speaking on, he said that the country was the contents of its strategy plan.
 [Data](articles/6736c600.json)
 
 [Extended Data](ext_articles/6736c600.ext.json)
+
+---
+
+### The Papal Guidance On Voting: The Less Evil Candidate
+
+*2024-09-14 20:17:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-papal-guidance-on-voting-the-less-evil-candidate/) · `en`
+
+Today (14 Sept. 2024, both on the BBC and Al Jazeera) the Holy Father, Pope Francis, urged the faithful to vote for the less evil of the two major US presidential candidates who are “against life.” Kamala Harris is openly for abortion while Trump is waffling – against one day and for the next. The pontiff said not welcoming migrants – seemingly referring to Trump –  is a “grave” sin, and compared Kamala Harris’ stance on abortion to an “assassination”.
+
+I am elated. For in the 2018-2020 elections I was on the Election Commission and could not openly identify with any candidate. As a citizen, however, I felt duty-bound to advise the voters. So I publicly urged voters during the Local Government, Parliamentary and Presidential elections to vote for the least bad of the candidates. Indeed, nearly all of them were bad in some way, while most were murderers and thieves.
+
+...
+
+[Data](articles/f24d4e7a.json)
 
 ---
 
@@ -2325,31 +2339,5 @@ The Chief Director of the World Health Organization has demanded that the donors
 [Data](articles/c3cc3a8e.json)
 
 [Extended Data](ext_articles/c3cc3a8e.ext.json)
-
----
-
-### Discounts of criminal cases against Trump
-
-*2024-09-14 05:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்பிற்கு-எதிரான-குற்றவியல்-வழக்குகள்-தள்ளுபடி/50-343734) · `ta`
-
-US Georgia court dismisses two criminal cases against Donald Trump related to 2020 election interference. Judge rules state lawyers proved false accusations. Trump and 14 co-defendants found innocent of all allegations.
-
-🟩
-
-The US Georgia court has dismissed two criminal cases against Republican presidential candidate Donald Trump.
-
-These cases were filed in connection with the election interference in 2020.
-
-The judge announced that state lawyers had proved false accusations in the case.
-
-In the 2020 election, Donald was accused of conspiring to defeat Trump's defeat in Georgia.
-
-In the meantime, Donald Trump and 14 co -defendants are innocent from all the allegations.(a)
-
-◼️
-
-[Data](articles/0d57cb93.json)
-
-[Extended Data](ext_articles/0d57cb93.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 10:56:36**
+As of **2024-09-14 11:09:13**
 
 ## Newspaper Stats
 
-*Scraped **43,828** Articles*
+*Scraped **43,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,055
 dailymirrorlk | 4,733
-adaderanalk | 5,149
+adaderanalk | 5,150
 tamilmirrorlk | 5,695
 virakesarilk | 6,948
 adaderanasinhalalk | 7,492
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,492
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,828 (100.0%) of 43,828 articles have been extended.
+43,829 (100.0%) of 43,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### All vehicle revenue license issuing counters in WP closed on Friday
+
+*2024-09-14 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101961/all-vehicle-revenue-license-issuing-counters-in-wp-closed-on-friday) · `en`
+
+All vehicle revenue license issuing counters in the Western Province will be closed on September 20, 2024, the Department of Government Information (DGI) announced.
+
+This closure will take place in preparation for the upcoming presidential election on September 21, as it is necessary to allow officials to attend the election duties, the DGI said in a statement.
+
+Meanwhile, in order to ensure that vehicle owners can still obtain their revenue licenses without incurring any fines, the revenue licenses which are due to expire on September 20, will be allowed to be obtained on the next working day following the election, not subject to the fines, it added.
+
+For convenience, vehicle owners can also renew their revenue licenses online by visiting the website [www.motortraffic.wp.gov.lk] to complete the process.
+
+◼️
+
+[Data](articles/c9f07320.json)
+
+[Extended Data](ext_articles/c9f07320.ext.json)
+
+---
 
 ### Interim Cabinet comprising North East MPs- National People's Power
 
@@ -79,6 +99,10 @@ It is reported that the JCP crashed into a motorcycle while traveling from Velan
 ### The work of distributing voter cards is completed today
 
 *2024-09-14 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193640) · `ta`
+
+Voter card distribution complete: 84% issued. Remaining cards available at nearby post offices from 18th to 21st.
+
+🟩
 
 The postal department said that the distribution of official voter cards for the presidential election will be completed today.
 
@@ -2273,33 +2297,5 @@ CT CLSA Capital (Pvt) Ltd and Capital Alliance Partners Limited are advisors. (C
 [Data](articles/f98bc72f.json)
 
 [Extended Data](ext_articles/f98bc72f.ext.json)
-
----
-
-### The country will continue and develop the country - Namal
-
-*2024-09-13 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200987) · `si`
-
-Namal Rajapaksa addresses Mihintale gathering, promising economic growth and development within 10 years, emphasizing party's capabilities and commitment to progress.
-
-🟩
-
-A seat meeting organized by the presidential candidate at the Sri Lanka Civil Appointment was held yesterday (12) at Mihintale.
-
-Speaking on the occasion, Namal Rajapaksa said that the party has the ability to develop the country.
-
-"We are responsible for you to translate this country from the next 10 years to an economy over $ 180 billion.
-
-You can challenge, whether you can challenge, cannot be worried, can't worry, can't do. Those who have not made the village before.
-
-But we also have a responsibility to declare that we can do just do we only do we.
-
-We've been working, we know how to work so we will add. We're not getting off the political platform. "
-
-◼️
-
-[Data](articles/d902f5a3.json)
-
-[Extended Data](ext_articles/d902f5a3.ext.json)
 
 ---

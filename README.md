@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 17:07:48**
+As of **2024-09-14 17:22:21**
 
 ## Newspaper Stats
 
-*Scraped **43,871** Articles*
+*Scraped **43,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,058
 dailymirrorlk | 4,733
-adaderanalk | 5,161
+adaderanalk | 5,163
 tamilmirrorlk | 5,699
-virakesarilk | 6,959
-adaderanasinhalalk | 7,502
+virakesarilk | 6,960
+adaderanasinhalalk | 7,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,871 (100.0%) of 43,871 articles have been extended.
+43,876 (100.0%) of 43,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Liquor shops closed on Sep. 21 and 22
+
+*2024-09-14 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101976/liquor-shops-closed-on-sep-21-and-22) · `en`
+
+All liquor shops and wine stores islandwide will remain closed on 21 and 22 September in view of the Presidential Election, the Commissioner General of Excise announced.
+
+◼️
+
+[Data](articles/04fee15b.json)
+
+[Extended Data](ext_articles/04fee15b.ext.json)
+
+---
+
+### Decision to close down alcohol selling due to election
+
+*2024-09-14 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201021) · `si`
+
+Election commission requests closure of alcohol sales on 21-22. Commissioner general agrees, citing island-wide prohibition during voting days.
+
+🟩
+
+The presidential election will be closed throughout the island on the 21st and 22nd island wide.
+
+The Commissioner General of Excise MG Gunasiri said that action will be taken according to the request of the Election Commission.
+
+He added that all the locals will be closed into 21 and 22 locations, he added.
+
+◼️
+
+[Data](articles/ef0051ff.json)
+
+[Extended Data](ext_articles/ef0051ff.ext.json)
+
+---
+
+### Let's collect all - Anura
+
+*2024-09-14 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201020) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka presidential candidate Anura Kumara Dissanayake emphasizes unity in upcoming elections. He promises strong agricultural programs and calls for national cooperation during a speech in Ampara.
+
+🟩
+
+Presidential candidate Anura Kumara Dissanayake says that the coming elections are the election.
+
+He was speaking at a familiarity in Ampara yesterday.
+
+Anura Kumara Dissanayake, Presidency of the National Fund
+
+"Ranil is home when filled with bundry fertilizers. We implement a strong program for agriculture. Let's make this country together. Therefore, the election is all together. "
+
+◼️
+
+[Data](articles/f2945e6e.json)
+
+[Extended Data](ext_articles/f2945e6e.ext.json)
+
+---
 
 ### Will make a developed country for the future generation of the country - Namal
 
@@ -51,6 +115,52 @@ Namal Rajapaksa, president of the Sri Lanka General Front said.
 [Data](articles/16596840.json)
 
 [Extended Data](ext_articles/16596840.ext.json)
+
+---
+
+### Maha Sangha bestows blessings on Dilith Jayaweera, urges to safeguard the nation
+
+*2024-09-14 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101975/maha-sangha-bestows-blessings-on-dilith-jayaweera-urges-to-safeguard-the-nation) · `en`
+
+A Jaya Pirith chanting ceremony was held this morning (14) in Hikkaduwa to invoke blessings on the ‘Sarvajana Balaya’ presidential candidate, entrepreneur Dilith Jayaweera.
+
+Speaking during the event, the chief incumbent of the Kurunduwatta Bodhimalu Viharaya, Ven. Medamulane Vijayabodhi Thero called on Mr. Jayaweera for the protection of Sri Lanka’s sacred heritage and the Buddha Sasana.
+
+During his address, Ven. Vijayabodhi Thero emphasized the importance of preserving the Kurunduwatta Bodhimalu Vihara and its Buddha statue, urging continued vigilance in safeguarding the nation’s religious and cultural treasures.
+
+“Historically, presidents have sought the wisdom of village monks before visiting the prominent temples. This practice should not be forgotten,” said the Thero.
+
+...
+
+[Data](articles/36e182e8.json)
+
+[Extended Data](ext_articles/36e182e8.ext.json)
+
+---
+
+### 15 -year -old girl in Vavuniya abuse
+
+*2024-09-14 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193692) · `ta`
+
+15-year-old girl abused in Vavuniya; father, youth arrested; case ongoing
+
+🟩
+
+A 15 -year -old girl was arrested by a father and youth in the Vavuniya and Omanthai police division.
+
+It has been confirmed that the girl has been abused after registering voting sources to the girl who rescued a 15 -year -old girl who had rescued the victim of a secretory girl who had received a secretory girl from the Vavuniya and Omanthai Police Station.
+
+It was revealed that the girl had been abused by the girl since 2022 and a youth who was staying at the girl's house had been abused on the 28th of last month.
+
+Subsequently, the girl's father has been arrested and the police have taken steps to arrest the youth.
+
+Meanwhile, the father was arrested in the aftermath of 2020 abusing his eldest daughter and is being heard at the Vavuniya High Court.
+
+◼️
+
+[Data](articles/670e3e67.json)
+
+[Extended Data](ext_articles/670e3e67.ext.json)
 
 ---
 
@@ -134,6 +244,28 @@ Dilith Jayaweera stated that the people have addressed the people.
 
 ---
 
+### The problems of the missing persons will be fully resolved in the next five years - Ranil in Jaffna
+
+*2024-09-14 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/193681) · `ta`
+
+President Ranil Wickremesinghe promises resolution of missing persons cases within 5 years during Jaffna rally. National Land Commission and Truth and Reconciliation Commission support this commitment.
+
+🟩
+
+President Ranil Wickremesinghe said the problems of the missing persons in the next five years would be fully solved.
+
+President Ranil Wickremesinghe made this statement while addressing the 'Ranilal Charm' Victory rally held at the Jaffna Stadium on Saturday.
+
+The National Land Commission and the Truth and Reconciliation Commission (TRC) said that the Judge Nawaz Commission will act according to the report and that the problems of the missing persons will be fully resolved in the next five years.
+
+◼️
+
+[Data](articles/2ba666e5.json)
+
+[Extended Data](ext_articles/2ba666e5.ext.json)
+
+---
+
 ### The GCE Ordinary Level Examination will be released within two weeks - Minister of Education
 
 *2024-09-14 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193678) · `ta`
@@ -185,28 +317,6 @@ Hindi Day is mentioned as the official language of India as the official languag
 [Data](articles/bc7c4ced.json)
 
 [Extended Data](ext_articles/bc7c4ced.ext.json)
-
----
-
-### The problems of the missing persons will be fully resolved in the next five years - Ranil in Jaffna
-
-*2024-09-14 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/193681) · `ta`
-
-President Ranil Wickremesinghe promises resolution of missing persons cases within 5 years during Jaffna rally. National Land Commission and Truth and Reconciliation Commission support this commitment.
-
-🟩
-
-President Ranil Wickremesinghe said the problems of the missing persons in the next five years would be fully solved.
-
-President Ranil Wickremesinghe made this statement while addressing the 'Ranilal Charm' Victory rally held at the Jaffna Stadium on Saturday.
-
-The National Land Commission and the Truth and Reconciliation Commission (TRC) said that the Judge Nawaz Commission will act according to the report and that the problems of the missing persons will be fully resolved in the next five years.
-
-◼️
-
-[Data](articles/2ba666e5.json)
-
-[Extended Data](ext_articles/2ba666e5.ext.json)
 
 ---
 
@@ -2177,113 +2287,5 @@ The driver of the three-wheeler has been arrested by the police and conducting f
 [Data](articles/44b2c9d9.json)
 
 [Extended Data](ext_articles/44b2c9d9.ext.json)
-
----
-
-### Tens of thousands of new entrepreneurs have created - Sajith
-
-*2024-09-13 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201002) · `si`
-
-Sri Lanka: Sajith Premadasa promises 100k new entrepreneurs. Addresses rally, criticizes opponents. Holds Samurdhi conference.
-
-🟩
-
-The presidential candidate Sajith Premadasa, Sagith Premadasa, says that he will produce 100,000 new entrepreneurs in the country.
-
-He was addressing a popularity in Debarawewa in Debarawewa this afternoon.
-
-"By this time, the Sri Lankan University closed due to violence. Rushed threats have been attacked. I would like to ask you to do a politics of interests?Is it the people of this country to fashioned fascism?If you have gone to the vote in the presidential election, give your strength for the public era. We are protecting you. The electricity has been cut today. Everyone knows that the ten hundred thousand of the lights cut off after 21, Sajith Premadasa's government. Anura - Ranil opposes Eve. It also opposes the birth of a new enterprise. Therefore, a public era of public era to defeat Anura and Anura, you will give you the mandate of all of you. "
-
-...
-
-[Data](articles/53cf6e6a.json)
-
-[Extended Data](ext_articles/53cf6e6a.ext.json)
-
----
-
-### ‘Nothing will be derailed but everything would be humanized’ – Sajith on renegotiating IMF deal
-
-*2024-09-13 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101952/nothing-will-be-derailed-but-everything-would-be-humanized-sajith-on-renegotiating-imf-deal) · `en`
-
-Sri Lanka’s main opposition leader said he’ll reopen negotiations with the International Monetary Fund on its $3 billion loan if he wins next week’s presidential election to ease the financial burden on working class people.
-
-Sajith Premadasa, 57, wants rich individuals to bear more of the cost of the economic adjustment that came with the bailout program. The austerity measures that were imposed, such as tax and electricity-price hikes, and the debt restructuring, have made the incumbent leader Ranil Wickremesinghe deeply unpopular, creating a tight race for the Sept. 21 vote.
-
-“We will make sure there is justice and fairness,” Premadasa said in an interview in his Colombo office. “The burden should be shared by the super rich, not the working class poor.”
-
-...
-
-[Data](articles/b68783bf.json)
-
-[Extended Data](ext_articles/b68783bf.ext.json)
-
----
-
-### Rupee buckets of Anura's economic policy - Ranil
-
-*2024-09-13 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201001) · `si`
-
-Ranil Wickremesinghe criticizes Anura Kumara Dissanayake's economic policies, saying they contradict IMF agreements and could harm the rupee. He emphasizes the need to protect the currency and reduce living costs.
-
-🟩
-
-Independent presidential candidate Ranil Wickremesinghe says that the rupee is utilized following the economic policy presented by Anura Kumara Dissanayake.
-
-The President made this observation addressing the Sri Lanka French of Sri Lanka.
-
-"Former Minister of Agriculture Anura Kumara said in Kandy. I didn't. I mean one thing. If I am implementing Anura Kumara's proposals, contrary to the agreement with the IMF. We break the agreement. The dollar is also a delay in the agreement, but the dollar. If you would like to buck himself. I was asked. Why is you buoyed by the rupee?. If the rupee is not protected now, we will vote for them if the weight of the living is increasing.
-
-...
-
-[Data](articles/abb40254.json)
-
-[Extended Data](ext_articles/abb40254.ext.json)
-
----
-
-### Government bus - lorry collision: 8 killed33 people hurt!
-
-*2024-09-13 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193630) · `ta`
-
-Chittoor bus-lorry crash kills 8 injures 33. APSRTC bus collides head-on with lorry on Tirupati-Bangalore highway. Firefighters rescue victims, many hospitalized. Casualties may rise.
-
-🟩
-
-In Chittoor, a state bus and lorry collided head -on and 8 people were killed and more than 33 injured.
-
-The APSRTC bus and lorry, which was traveling from Tirupati to Bangalore on Friday afternoon (September 13) on the Chittoor -Bangalore highway in Andhra Pradesh, India's Andhra Pradesh district.
-
-Eight people were killed on the spot. More than 33 people were injured. All of them have been rescued and taken to a nearby hospital.
-
-Firefighters were involved in disposing of the crashed vehicles. It is feared that the condition of the injured is worrisome and the number of casualties may increase.
-
-◼️
-
-[Data](articles/5e4fceef.json)
-
-[Extended Data](ext_articles/5e4fceef.ext.json)
-
----
-
-### Gazette released by setting the basic salary of plantation workers
-
-*2024-09-13 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/193628) · `ta`
-
-Sri Lanka: New Gazette sets minimum wage for plantation workers at 1350 rupees per day, effective September 10. Includes daily allowance and pension contributions. Tea workers must receive over 50 rupees per kilogram.
-
-🟩
-
-Gazette Notification has been issued for plantation workers with a base salary of 1350 rupees. The Gazette Notification, issued by the Secretary to the Ministry of Industry and Foreign Employment on Thursday (12), will be implemented from September 10.
-
-This gazette has been published under Section 30 of the Salary Councils Command Act. Accordingly, the daily minimum base salary is 1350 rupees and each kg of tea should be paid more than 50 rupees.
-
-It is further stated in the Gazette that the basic salary of 1350 rupees includes the daily budget and the Employees Provident Fund and the Employee Trust Fund.
-
-◼️
-
-[Data](articles/ccf255d6.json)
-
-[Extended Data](ext_articles/ccf255d6.ext.json)
 
 ---

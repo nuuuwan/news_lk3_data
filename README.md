@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 08:56:56**
+As of **2024-09-14 09:09:07**
 
 ## Newspaper Stats
 
-*Scraped **43,816** Articles*
+*Scraped **43,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,675
 dailyftlk | 2,920
 adalk | 4,053
 dailymirrorlk | 4,733
-adaderanalk | 5,145
+adaderanalk | 5,146
 tamilmirrorlk | 5,694
 virakesarilk | 6,946
 adaderanasinhalalk | 7,490
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,490
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,815 (100.0%) of 43,816 articles have been extended.
+43,817 (100.0%) of 43,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Pope slams both Harris and Trump as ‘against life’ and urges Catholics to vote for ‘lesser evil’
+
+*2024-09-14 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101957/pope-slams-both-harris-and-trump-as-against-life-and-urges-catholics-to-vote-for-lesser-evil) · `en`
+
+Pope Francis on Friday slammed both U.S. presidential candidates for what he called antilife policies on abortion and migration, and he advised American Catholics to choose who they think is the “lesser evil” in the upcoming U.S. elections.
+
+“Both are against life, be it the one who kicks out migrants, or be it the one who kills babies,″ Francis said.
+
+The Argentine Jesuit was asked to provide counsel to American Catholic voters during an airborne news conference while he flew back to Rome from his four nation tour through Asia. Francis stressed that he is not an American and would not be voting.
+
+Neither Republican candidate Donald Trump nor the Democratic candidate, Kamala Harris, was mentioned by name.
+
+But Francis nevertheless expressed himself in stark terms when asked to weigh in on their positions on two hot button issues in the U.S. election abortion and migration that are also of major concern to the Catholic Church.
+
+...
+
+[Data](articles/e5c598c6.json)
+
+[Extended Data](ext_articles/e5c598c6.ext.json)
+
+---
 
 ### Distribution of polling cards to be completed today
 
@@ -45,6 +67,8 @@ He stated that this opportunity will be available for the voters until the date 
 ◼️
 
 [Data](articles/97a68786.json)
+
+[Extended Data](ext_articles/97a68786.ext.json)
 
 ---
 
@@ -2293,25 +2317,5 @@ Meanwhile, in June, the Ministry of Finance had announced a plan to gradually li
 [Data](articles/140e9b30.json)
 
 [Extended Data](ext_articles/140e9b30.ext.json)
-
----
-
-### Ex-ASP bailed on the incident
-
-*2024-09-13 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200982) · `si`
-
-Former ASP granted bail in Anuradhapura court over ex-MP's vehicle case.
-
-🟩
-
-Former Assistant Superintendent of Assistant Superintendent of Assistant Superintendent of Assistant Anuradhapura has been granted bail to Anuradhapura Magistrate's Court today (13).
-
-He was arrested by the Criminal Investigations Departments regarding the investigation of former MP Udabbathi Premaratne's vehicle.
-
-◼️
-
-[Data](articles/b3eb2400.json)
-
-[Extended Data](ext_articles/b3eb2400.ext.json)
 
 ---

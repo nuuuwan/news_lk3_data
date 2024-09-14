@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 22:38:09**
+As of **2024-09-14 22:56:05**
 
 ## Newspaper Stats
 
-*Scraped **43,906** Articles*
+*Scraped **43,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,167
 tamilmirrorlk | 5,703
 virakesarilk | 6,964
-adaderanasinhalalk | 7,515
+adaderanasinhalalk | 7,516
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,906 (100.0%) of 43,906 articles have been extended.
+43,907 (100.0%) of 43,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### President's Insulate helicopter lands
+
+*2024-09-14 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201033) · `si`
+
+Here's a 200-character summary:
+
+
+
+Presidential helicopter grounded due to technical issue. SUH 522 model forced to land in Eppawala. Air Force investigating cause. Security forces involved in recovery efforts.
+
+🟩
+
+The insulation helicopter behind the helicopter traveling by President Ranil Wickremesinghe has been piled up by a technical fault.
+
+The helicopter landed the helicopter this evening to Welia, Eppawala.
+
+The helicopter belonging to the Sri Lanka Air Force (SUH 522) has been industrialized by the helicopter.
+
+The Air Force has taken steps to restore the industrial bug and its belongings have been transferred to another airplane from Colombo.
+
+All security forces are conducting further investigations.
+
+◼️
+
+[Data](articles/cb5e6010.json)
+
+[Extended Data](ext_articles/cb5e6010.ext.json)
+
+---
 
 ### Makes the Urivacy Country of Asia - Namal
 
@@ -2349,21 +2379,5 @@ In an era where the internet shapes every aspect of our lives, from learning and
 [Data](articles/8d152c7d.json)
 
 [Extended Data](ext_articles/8d152c7d.ext.json)
-
----
-
-### Virtusa achieves Science Based Targets Initiative validation for Greenhouse gas emissions reduction targets
-
-*2024-09-14 01:49:00* · [`islandlk`](http://island.lk/virtusa-achieves-science-based-targets-initiative-validation-for-greenhouse-gas-emissions-reduction-targets/) · `en`
-
-Virtusa Corporation, a global provider of digital strategy, digital engineering, and IT services and solutions, recently received validation from the Science Based Targets initiative (SBTi) for its greenhouse gas (GHG) emissions reduction targets. These validations cover Virtusa’s Scope 1, 2, and 3 GHG emissions reduction targets, both near-term and long-term, underscoring Virtusa’s commitment to reducing its carbon footprint across all areas of its operations and value chain.
-
-“Climate science demands rapid, deep emissions cuts to achieve global net-zero and prevent the devastating impacts of climate change,” said Susan Jenny Ehr, Interim Chief Executive Officer of the Science Based Targets initiative. “Virtusa’s net-zero targets reflect this urgency and set a clear example for its peers to follow.”
-
-...
-
-[Data](articles/8449359b.json)
-
-[Extended Data](ext_articles/8449359b.ext.json)
 
 ---

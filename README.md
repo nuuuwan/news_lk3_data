@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 09:22:16**
+As of **2024-09-14 09:38:08**
 
 ## Newspaper Stats
 
@@ -89,6 +89,28 @@ According to Deputy Postal Rajitha, Rajitharan Ranasinghe added that if the offi
 [Data](articles/97547c19.json)
 
 [Extended Data](ext_articles/97547c19.ext.json)
+
+---
+
+### Seanu Ramasamy's 'Poultry Selvan' Vijay Sethupathi released the Oudio of the movie 'Poultry Farm Chellaturai'
+
+*2024-09-14 06:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193631) · `ta`
+
+Vijay Sethupathi releases audio of "Poultry Farm Chellaturai" in Chennai. Director Seanu Ramasamy's film stars Egan, Yogi Babu, Brigita. Music by R. Raghunandan. Produced by Arunandandu and Mathew Arulanandu.
+
+🟩
+
+The music release of the film 'Kozhipanni Chellaturai', which plays the lead role as the hero of the story, was held in Chennai. During this time, the film's celebrities including Vijay Sethupathi, including 'Nam Selvan', released the film's Oudio on the role of a special guest.
+
+The National Award -winning creator Seanu Ramaswamy starred in the film 'Kozhip Panni Selvathurai' starring Egan, Yogi Babu, Brigita, Bawa Selvathurai, Leo Sivakumar, Satya Devi, Jaya Surya. Ashok Raj is a cinematographer for this movie. R. Raghunandan has composed the music. The film, which is emotionally described by the brother -in -law, has co -produced the producers Arunandandu and Mathew Arulanandu on behalf of the Vision Cinema House Company.
+
+The music release of the film will be released in Chennai on the twentieth day of the film.. 'People Selvan' Vijay Sethupathi, producer Suresh Kamakshi, director Hariharan, actor Rio Raj and distributor Shakti Velan participated in the event.
+
+...
+
+[Data](articles/1408cdf8.json)
+
+[Extended Data](ext_articles/1408cdf8.ext.json)
 
 ---
 
@@ -733,28 +755,6 @@ Discussions were discussed on the steps to be taken in both export processing zo
 [Data](articles/856c160d.json)
 
 [Extended Data](ext_articles/856c160d.ext.json)
-
----
-
-### Seanu Ramasamy's 'Poultry Selvan' Vijay Sethupathi released the Oudio of the movie 'Poultry Farm Chellaturai'
-
-*2024-09-13 23:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/193631) · `ta`
-
-Vijay Sethupathi releases audio of "Poultry Farm Chellaturai" in Chennai. Director Seanu Ramasamy's film stars Egan, Yogi Babu, Brigita. Music by R. Raghunandan. Produced by Arunandandu and Mathew Arulanandu.
-
-🟩
-
-The music release of the film 'Kozhipanni Chellaturai', which plays the lead role as the hero of the story, was held in Chennai. During this time, the film's celebrities including Vijay Sethupathi, including 'Nam Selvan', released the film's Oudio on the role of a special guest.
-
-The National Award -winning creator Seanu Ramaswamy starred in the film 'Kozhip Panni Selvathurai' starring Egan, Yogi Babu, Brigita, Bawa Selvathurai, Leo Sivakumar, Satya Devi, Jaya Surya. Ashok Raj is a cinematographer for this movie. R. Raghunandan has composed the music. The film, which is emotionally described by the brother -in -law, has co -produced the producers Arunandandu and Mathew Arulanandu on behalf of the Vision Cinema House Company.
-
-The music release of the film will be released in Chennai on the twentieth day of the film.. 'People Selvan' Vijay Sethupathi, producer Suresh Kamakshi, director Hariharan, actor Rio Raj and distributor Shakti Velan participated in the event.
-
-...
-
-[Data](articles/1408cdf8.json)
-
-[Extended Data](ext_articles/1408cdf8.ext.json)
 
 ---
 

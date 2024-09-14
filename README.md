@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 11:22:23**
+As of **2024-09-14 11:38:29**
 
 ## Newspaper Stats
 
-*Scraped **43,829** Articles*
+*Scraped **43,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,055
 dailymirrorlk | 4,733
-adaderanalk | 5,150
+adaderanalk | 5,151
 tamilmirrorlk | 5,695
 virakesarilk | 6,948
 adaderanasinhalalk | 7,492
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,492
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,829 (100.0%) of 43,829 articles have been extended.
+43,829 (100.0%) of 43,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Farmers deserve an income that reflects their hard work, innovation, and dedication – Dilith
+
+*2024-09-14 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101962/farmers-deserve-an-income-that-reflects-their-hard-work-innovation-and-dedication-dilith) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, Dilith Jayaweera states that his national strategic plan includes a comprehensive plan to revamp the agricultural sector and significantly improve the lives and incomes of farmers.
+
+Addressing a public rally held in Kaduruwela, Jayaweera emphasized the urgent need to address the ongoing struggles faced by farmers. He criticized the current system, which he claims benefits only a small segment of the population while leaving farmers to grapple with persistent hardships.
+
+“Nearly 30 percent of our population is directly involved in agriculture, yet they continue to face severe challenges,” Jayaweera stated. “It is unjust that while only a few benefit, the majority of our farmers suffer. Our goal is to transition these farmers to a more lucrative model, enhancing their income while keeping them within the agricultural sector.”
+
+...
+
+[Data](articles/36fc8b39.json)
+
+---
 
 ### All vehicle revenue license issuing counters in WP closed on Friday
 
@@ -2277,25 +2293,5 @@ Presidential Secretary Saman Ekanayake was also present at the occasion.
 [Data](articles/9cfcde99.json)
 
 [Extended Data](ext_articles/9cfcde99.ext.json)
-
----
-
-### Sri Lanka’s PickMe IPO oversubscribed
-
-*2024-09-13 15:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-pickme-ipo-oversubscribed-179564/) · `en`
-
-ECONOMYNEXY – An initial public offer of Digital Mobility Solutions Lanka Limited has been oversubscribed and will close on the opening day of September 13, the Colombo Stock Exchange said.
-
-“The Initial Public Offering (IPO) of Digital Mobility Solutions Lanka Limited (PickMe), offering 43.47M ordinary voting shares at Rs. 36 per share, opened today (13th September 2024) and was fully oversubscribed on the first day,” CSE said on X (twitter).
-
-Shareholders of Digital Mobility Solutions Lanka Limited, which operates Sri Lanka’s PickMe application for booking taxis, were looking to get about 1.5 billion rupees from the public listing.
-
-CT CLSA Capital (Pvt) Ltd and Capital Alliance Partners Limited are advisors. (Colombo/Sep13/2024)
-
-◼️
-
-[Data](articles/f98bc72f.json)
-
-[Extended Data](ext_articles/f98bc72f.ext.json)
 
 ---

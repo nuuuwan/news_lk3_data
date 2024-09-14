@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 21:22:20**
+As of **2024-09-14 21:37:55**
 
 ## Newspaper Stats
 
-*Scraped **43,897** Articles*
+*Scraped **43,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,165
 tamilmirrorlk | 5,703
 virakesarilk | 6,964
-adaderanasinhalalk | 7,511
+adaderanasinhalalk | 7,512
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,897 (100.0%) of 43,897 articles have been extended.
+43,898 (100.0%) of 43,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Sajith cheat all of us - Anura
+
+*2024-09-14 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201029) · `si`
+
+Anura Kumara Dissanayake criticizes Sajith Premadasa's campaign, accusing it of reusing old rhetoric and cheating voters. He emphasizes the need for new ideas and warns against divisive tactics.
+
+🟩
+
+Presidential candidate Anura Kumara Dissanayake says that the reconciliation of the reconciliation is being brought back to the donation.
+
+He was speaking at a rally in Anuradhapura today (14).
+
+Presidential candidate Anura Kumara Dissanayake said,
+
+"I tell Sajith Premadasa to bring some new goods without old goods. Sajith Premadasa camp is repeating the old racist and religious disk. But the masses will not beat.  ජනතාව ආපහු ඒවාට අහුවෙන්නෙ නැහැ. Man, Man, Man,. The guy has both goods at both. There is Champika, but there is Thilangi arroinations.. It is called the leaf of the leaves. The national folk force is the only story. Sajith cheats all we say. Says what we say.. But have you heard?Former presidents and Presidential wives are stopped.. Says.  ඒ දේවලවලට නෝ කතා."
+
+◼️
+
+[Data](articles/d8fad961.json)
+
+[Extended Data](ext_articles/d8fad961.ext.json)
+
+---
 
 ### Differences introduced to Sri Lankan politics
 
@@ -2299,23 +2323,5 @@ It said the largest category of complaints—343 in total—pertains to the misu
 [Data](articles/0e96c481.json)
 
 [Extended Data](ext_articles/0e96c481.ext.json)
-
----
-
-### Sajith’s favourability rating improves; AKD and RW lag
-
-*2024-09-14 00:56:18* · [`dailyftlk`](https://www.ft.lk/news/Sajith-s-favourability-rating-improves-AKD-and-RW-lag/56-766743) · `en`
-
-The public had a negative opinion of all leading Presidential candidates, but A.K. Dissanayake had the least negative rating.
-
-In IHP SLOTS polling for August 2024, the net favourability rating of SJB leader Sajith Premadasa improved to -32 (+10 points compared to July). Meanwhile, NPP/JVP leader A.K. Dissanayake and President Ranil Wickremesinghe saw their favourability ratings drop to -21 (-16 points) and -33 (-4 points) respectively. The favourability rating of Namal Rajapaksa, the SLPP Presidential Election candidate, was -89 in August.
-
-Favourability estimates for each month are based on 100–500 interviews conducted during that month and a few weeks before and after, ensuring a minimum set of responses for key party leaders. The August 2024 estimates are based on 517 interviews for Sajith Premadasa, 491 for A.K. Dissanayake, 530 for Ranil Wickremesinghe, 639 for Namal Rajapaksa, and 384 for Gotabaya Rajapaksa.
-
-...
-
-[Data](articles/59bc1d34.json)
-
-[Extended Data](ext_articles/59bc1d34.ext.json)
 
 ---

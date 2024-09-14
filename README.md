@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 14:56:36**
+As of **2024-09-14 15:07:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,850 (100.0%) of 43,851 articles have been extended.
+43,851 (100.0%) of 43,851 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -220,17 +220,23 @@ The statement states that British officials have been accused of persuading the 
 
 ---
 
-### 05 වසර ශිෂ්‍යත්ව විභාගය හෙට -  දේශපාලන පක්ෂ වලට විශේෂ ඉල්ලීමක්
+### Year 5 Scholarship Examination tomorrow - Special Requests for Political Parties
 
 *2024-09-14 12:46:26* · [`adalk`](https://www.ada.lk/breaking_news/05-වසර-ශිෂ්‍යත්ව-විභාගය-හෙට----දේශපාලන-පක්ෂ-වලට-විශේෂ-ඉල්ලීමක්/11-411943) · `si`
 
-05 වසර ශිෂ්‍යත්ව විභාගය හෙට(15දා) නියමිත පරිදි පැවැත්වෙන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+Tomorrow's Year 5 scholarship exam: Minister Susil Premajayantha announces special requests for political parties regarding the upcoming presidential election press conference during the exam period.
 
-ඒ් අනුව විභාගය පැවැත්වෙන කාල සීමාව තුළ 2024 ජනාධිපතිවරණයට අදාළ ප්‍රචාරණ කටයුතු විභාග මධ්‍යස්ථාන අසල සිදු කිරීමෙන් වලකින ලෙස සියලු පක්ෂ වලින් ඉල්ලීමන් කරන බවද අද(14දා) පැවති මාධ්‍ය හමුවකය එක්වෙමින් ඒ් මහතා සඳහන් කළේය.
+🟩
+
+Minister of Education Susil Premajayantha said that the Year 5 scholarship examination will be held tomorrow (15).
+
+Speaking to the Presidential Election at the 2124 presidential election during the period of the examination will be requested by the press conference.
 
 ◼️
 
 [Data](articles/b670d25b.json)
+
+[Extended Data](ext_articles/b670d25b.ext.json)
 
 ---
 

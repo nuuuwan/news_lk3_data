@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 16:22:14**
+As of **2024-09-14 16:37:49**
 
 ## Newspaper Stats
 
-*Scraped **43,867** Articles*
+*Scraped **43,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,058
 dailymirrorlk | 4,733
-adaderanalk | 5,160
+adaderanalk | 5,161
 tamilmirrorlk | 5,699
 virakesarilk | 6,959
-adaderanasinhalalk | 7,499
+adaderanasinhalalk | 7,500
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,866 (100.0%) of 43,867 articles have been extended.
+43,869 (100.0%) of 43,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Maldives rules out IMF bailout despite financial woes, plans tax hikes to manage debt
+
+*2024-09-14 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101974/maldives-rules-out-imf-bailout-despite-financial-woes-plans-tax-hikes-to-manage-debt) · `en`
+
+The Maldives says its financial troubles are “temporary” and the luxury tourist destination has no plans to seek an International Monetary Fund bailout after warnings of a possible sovereign default.
+
+Foreign minister Moosa Zameer said the Indian Ocean archipelago, best known for its upscale resorts and celebrity visitors, was pressing ahead with tax hikes to meet its debt servicing obligations.
+
+“We have bilateral partners who are very sensitive to our needs and our situation,” Zameer told reporters in Colombo on Friday night.
+
+“I seriously don’t think it is a time where we will be right now engaging with the IMF... The issue that we have is very temporary because currently we are having a dip in reserves.”
+
+He said tax reforms, along with the rationalisation of state-owned enterprises, would improve liquidity.
+
+Zameer was visiting Sri Lanka along with Finance Minister Mohamed Shafeeq to meet with local central bankers and other officials.
+
+...
+
+[Data](articles/1da9f49e.json)
+
+[Extended Data](ext_articles/1da9f49e.ext.json)
+
+---
+
+### Greats for Dilith
+
+*2024-09-14 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201017) · `si`
+
+Here's a 200-character summary:
+
+
+
+Balapitiya rally: Dilith Jayaweera wins. Large crowd supports him. He emphasizes unity, entrepreneurship for Sri Lankan youth. Divided votes create opportunities. No other options, focusing on innovation and job creation.
+
+🟩
+
+The Balapitiya rally, which is the winning of the exempt candidate Dilith Jayaweera, was held today (14).
+
+A large crowd was gonna have been a large number of hostest candidate Dilith Jayaweera.
+
+Dilith Jayaweera stated that the people have addressed the people.
+
+"This presidential election has not come before. The reason for that, the camps are now. Votes are divided. The opportunity to win a political statement like us is now created. Most say that we have not yet thought. That means that other parties are not given. Then we will receive those votes.. Star. There is no other option. We make a state of mind. That's an entreidereneial state. We are talking about creating an entrepreneurship demanding the youth of Sri Lanka. "
+
+◼️
+
+[Data](articles/4076c412.json)
+
+[Extended Data](ext_articles/4076c412.ext.json)
+
+---
 
 ### The GCE Ordinary Level Examination will be released within two weeks - Minister of Education
 
@@ -108,23 +160,29 @@ The National Land Commission and the Truth and Reconciliation Commission (TRC) s
 
 ---
 
-### මව්බිම රනින් සැරසුව අපේ දෙවන පෙළ
+### Our second texts decline in the homeland
 
 *2024-09-14 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201016) · `si`
 
-ඉන්දියාවේ චෙන්නායි නුවර ශ්‍රීමත් ජවහර්ලාර් නේරූ ජාත්‍යන්තර ක්‍රීඩාංගණයේ තෙදිනක් පුරා පැවැත් වූ සිව්වැනි දකුණු ආසියානු කනිෂ්ඨ මලල ක්‍රීඩා තරගාවලියේදී විශිෂ්ට දක්ෂතා දැක් වූ ශ්‍රී ලංකා කණ්ඩායම අද (14) දහවල් ශ්‍රී ලංකාවට පැමිණීමට නියමිත බව මලල ක්‍රීඩා සංගමය පැවසීය.
+Sri Lanka wins 35 golds, 9 silvers, 17 bronzes at South Asian Junior Athletics Championships. India takes 21 golds, 22 silvers, 5 bronzes. Other countries also medal. Event for under 20 athletes.
 
-තෙදිනක් පුරා (සැප්. 11,12,13) පැවැත් වූ මෙම තරගාවලියේදී ශ්‍රී ලංකා කණ්ඩායම රන් පදක්කම් 09ක්, රිදී පදක්කම් 09ක් හා ලෝඩක පදක්කම් 17ක් සමගින් පදක්කම් 35ක් දිනාගනිමින් සමස්ත අනුශූරතාව දිනාගැනීමට සමත් විය.
+🟩
 
-ශ්‍රී ලංකාවට කරට කර සටනක් දුන් ඉන්දියාව රන් පදක්කම් 21ක්, රිදී 22ක් හා ලෝකඩ 05ක් සමගින් පදක්කම් 48ක් දිනාගනිමින් සමස්ත ශූරතාවට හිමිකම් කියුවේය.
+The Sri Lankan team is due to arrive in Sri Lanka today (14) at the fourth South Asian Junior Athletics Championships held at the Shirath Javahrleh International Stadium in Chennai, India.
 
-කෙසේ නමුත් ශ්‍රී ලංකාව හා ඉන්දියාව හැරෙන්න වෙනත් කිසිඳු රටකට රන් හෝ රිදී පදක්කම් දිනාගැනීමට නොහැකි වූ අතර, බංග්ලාදේශය (3), මාලදිවයින (2) හා නේපාලයට (1) ලෝකඩ පදක්කම් පමණක් දිනාගැනීමට හැකිවිය.
+Throughout the three days (Sept. 11,12,13) ​​Sri Lanka won 35 gold medals, nine gold medals, nine silver medals and 17 lots of 17 lotship medals and won the entire run.
 
-දකුණු ආසියානු කනිෂ්ඨ (අවුරුදු 20න් පහළ) මලල ක්‍රීඩක ක්‍රීඩිකාවන්ගේ දක්ෂතා උරගාබැලීම වෙනුවෙන් මෙම තරගාවලිය සංවිධානය කෙරේ.
+India has won 21 gold medals, 22 silver and 5 medals with 5 medals with 5 silver and five bronze with five bronze with five bronze.
+
+However, Sri Lanka and India could not win gold or silver medals, Bangladesh (3), the Maldives (2) and Nepal (1) bronze medals.
+
+The tournament is organized for the skills of the South Asian Junior (Under 20 years) athletics.
 
 ◼️
 
 [Data](articles/ebff5538.json)
+
+[Extended Data](ext_articles/ebff5538.ext.json)
 
 ---
 
@@ -2235,43 +2293,5 @@ Hasitha Dissanayake won a gold medal and won the silver medal.
 [Data](articles/a60c1280.json)
 
 [Extended Data](ext_articles/a60c1280.ext.json)
-
----
-
-### Star who went to the camp
-
-*2024-09-13 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200999) · `si`
-
-Candidate Dilith Jayaweera addresses supporters, urging them to seize opportunities and recognize their own potential as stars in the political landscape. He criticizes opponents' methods and emphasizes the importance of unity and progress.
-
-🟩
-
-The summomone candidate Dilith Jayaweera says that the maximum advantage of the golden chance has been achieved this year's election.
-
-Another public meeting at the "Dilith Gamata" searches was held at the Kaduruwela bus stand this afternoon.
-
-He was speaking at the time, Mr. Dilith Jayaweera said that the people were driven every day and give the star to the preference of all politics.
-
-...
-
-[Data](articles/a24a0e87.json)
-
-[Extended Data](ext_articles/a24a0e87.ext.json)
-
----
-
-### The Incident & Issues Of Academic Freedom: Sri Lankan High Commission’s Involvement & The Implication Of The Indian MEA
-
-*2024-09-13 20:10:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-incident-issues-of-academic-freedom-sri-lankan-high-commissions-involvement-the-implication-of-the-indian-mea/) · `en`
-
-Silence And Choreographed Timidity at South Asian University: Interview of Sasanka Perera by Anushka Kahandagamage and Kaushalya Kumarasinghe.
-
-[Sri Lankan academic Sasanka Perera, left the South Asian University on 31 July 2024 which he had helped establish as a SAARC institution. His leaving was consequent to a targeted attack against him as the only Sri Lankan scholar in the university and one of handful of non-Indian teachers in a heavily Indian dominated space. Perera’s leaving and the widespread global coverage it received is significant black mark against academic freedom in India in general. It also marks the steady Indianization of the South Asian University which was meant to be a place of teaching and reflection for all South Asians. In this wide ranging interview, two former South Asian University students, Anushka Kahandagamage based in New Zealand and Kaushalya Kumarasinghe based in Sri Lanka speak to Perera at length about the incidents itself and its circumstances.]
-
-...
-
-[Data](articles/c19439e0.json)
-
-[Extended Data](ext_articles/c19439e0.ext.json)
 
 ---

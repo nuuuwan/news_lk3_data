@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 18:29:55**
+As of **2024-09-14 18:40:26**
 
 ## Newspaper Stats
 
-*Scraped **43,882** Articles*
+*Scraped **43,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,63 @@ dailymirrorlk | 4,733
 adaderanalk | 5,164
 tamilmirrorlk | 5,701
 virakesarilk | 6,960
-adaderanasinhalalk | 7,506
+adaderanasinhalalk | 7,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,879 (100.0%) of 43,882 articles have been extended.
+43,883 (100.0%) of 43,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
 
-### விஜய்யின் கடைசி படத்தின் அறிவிப்பு வெளியானது
+### Dhamma School Teacher Allowance will be increased by Rs.2,500
+
+*2024-09-14 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201024) · `si`
+
+Dhamma School Teacher Allowance increase: Cabinet approves Rs.2,500 uniform allowance. Annual evaluation planned to boost Rs.5,000 allowance.
+
+🟩
+
+Cabinet approval has been granted to provide a 2,500 uniform allowance for Dhamma School teachers representing all religions.
+
+In view of the Minister of Buddha Sasana and the religious and cultural Affairs, the Minister of Dhamma School teachers have been approved in 2025.
+
+Evaluate the services of Dhamma School teachers and providing an annual teacher allowance of Rs. 5,000 to encourage them.
+
+Accordingly, the annual allowance of the teachers will receive an allowance of Rs.
+
+◼️
+
+[Data](articles/25e37f23.json)
+
+[Extended Data](ext_articles/25e37f23.ext.json)
+
+---
+
+### Vijay's last movie has been released
 
 *2024-09-14 18:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்யின்-கடைசி-படத்தின்-அறிவிப்பு-வெளியானது/175-343746) · `ta`
 
-விஜய்யின் கடைசி படத்திற்கு முந்தைய படமாக கோட் படம் வெளியானது, முதல் நாளில் இருந்தே வசூல் வேட்டை நடத்திவரும் இப்படம் ரூ. 350 கோடியை நெருங்கிவிட்டதாக கூறப்படுகிறது.
+Vijay's latest film released, expected to gross 350 crores. Directed by H. Vinod, it's his 69th project. Collections may rise during upcoming holidays.
 
-வரும் நாட்களில் விடுமுறை நாட்கள் வருவதால் படத்தின் வசூல் இன்னும் அதிகரிக்கும் என எதிர்ப்பார்க்கப்படுகிறது.
+🟩
 
-இந்த நிலையில் நேற்று விஜய்யின் கடைசி படத்தின் அறிவிப்பு இன்று வெளியாக இருப்பதாக எமோஷ்னலான வீடியோவுடன் அறிவித்தார்கள்
+The film was released by Vijay's last film.. 350 crores is said to be approaching.
 
-விஜய்யின் கடைசி படமான அவரது 69வது படத்தை எச்.வினோத் தான் இயக்கப்போகிறாராம், இந்த படத்திற்கு அனிருத் இசை அமைக்கின்றார்.R
+The film's collections are expected to increase as the holidays are coming in the coming days.
+
+At this juncture, Vijay's last film was announced yesterday with the emotional video
+
+H. Vinod is going to direct his 69th film, Vijay's last film.
 
 ◼️
 
 [Data](articles/0ad49c92.json)
+
+[Extended Data](ext_articles/0ad49c92.ext.json)
 
 ---
 
@@ -64,23 +94,31 @@ It is reported that the individual was hit by a express train plying from Marada
 
 [Data](articles/1604a467.json)
 
+[Extended Data](ext_articles/1604a467.ext.json)
+
 ---
 
-### ‍රුසියාවෙන් යුක්‍රේනයට ඩ්‍රොන ප්‍රහාරයක්
+### Arguing to Ukraine from Russia
 
 *2024-09-14 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201023) · `si`
 
-රුසියාව විසින් යුක්‍රේනය වෙත ඩ්‍රෝන ප්‍රහාර මාලාවක් එල්ල කර තිබේ.
+Ukraine: Russia sends drones; 66 destroyed. President Zelenskyy calls for stronger air defenses. He plans US visit late this month.
 
-යුක්‍රේන ගුවන් හමුදාව පවසා ඇත්තේ යුක්‍රේනයේ දකුණු සහ නැගෙනහිර ප්‍රදේශ 12කට එල්ල වු එම ඩ්‍රෝන ප්‍රහාර 76න් 72ක් බිම හෙළීමට කටයුතු කළ බවයි.
+🟩
 
-ප්‍රහාරය සම්බන්ධයෙන් ප්‍රකාශයක් සිදුකරමින් යුක්‍රේන ජනාධිපති වොලොදිමීර් සෙලෙන්ස්කි පවසා ඇත්තේ රුසියාවෙන් එල්ල විය හැකි මෙවැනි ප්‍රහාරවලට මුහුණ දීම සදහා ගුවන් ආරක්ෂක පද්ධතිය ශක්තිමත් කිරීමේ අවශ්‍යතාව පවතින බවය.
+Russia has served a series of drones to Ukraine.
 
-විදෙස් මාධ්‍ය මේ අතර වාර්තා කර ඇත්තේ යුක්‍රේන ජනාධිපතිවරයා මෙම මස අවසානයේදී අමෙරිකාවේ සංචාරයක ද නිරතවීමට තීරණය කර ඇති බවයි.
+According to the Ukrainian Air Force, 72 of the 66 drones were thrown to the ground with the South and East of the Southern and Eastern Provinces in Ukraine.
+
+President Wallodimir Celenceky has said that the attack on the attack has stated that there is a need to strengthen the air defense system to cope with such attacks in Russia.
+
+The Ukraine president has decided to visit the US in the end of this month.
 
 ◼️
 
 [Data](articles/d62db1ec.json)
+
+[Extended Data](ext_articles/d62db1ec.ext.json)
 
 ---
 
@@ -2229,25 +2267,5 @@ The assailant was carried out by the Meditation Member of the Medium Meeting at 
 [Data](articles/d489cfbf.json)
 
 [Extended Data](ext_articles/d489cfbf.ext.json)
-
----
-
-### Vehicle import restrictions to be lifted in stages from Oct. 1
-
-*2024-09-13 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101954/vehicle-import-restrictions-to-be-lifted-in-stages-from-oct-1-) · `en`
-
-Sri Lanka’s State Minister of Finance Shehan Semasinghe says that the Cabinet of Minister has decided to allow the import of vehicles under several stages starting from October 01.
-
-He stated that restrictions on importing public transport vehicles will be removed from October 01, 2024 while the restrictions on importing commercial and goods transport vehicles will be lifted from December 01, 2024.
-
-Meanwhile, the restrictions on importing other passenger vehicles, including cars, will be removed from February 01, 2025, the state minister revealed. Earlier today, Foreign Minister Ali Sabry said that the Cabinet decided to lift all vehicle import restrictions by February 2025.
-
-”With the significant improvement in forex reserves and the strength of the rupee, the Cabinet of Ministers has decided to lift all vehicle import ban/restrictions by February 2025,” he said.
-
-...
-
-[Data](articles/9e7b0f26.json)
-
-[Extended Data](ext_articles/9e7b0f26.ext.json)
 
 ---

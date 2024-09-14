@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 12:22:42**
+As of **2024-09-14 12:38:04**
 
 ## Newspaper Stats
 
-*Scraped **43,836** Articles*
+*Scraped **43,838** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,056
 dailymirrorlk | 4,733
-adaderanalk | 5,152
+adaderanalk | 5,153
 tamilmirrorlk | 5,698
 virakesarilk | 6,948
-adaderanasinhalalk | 7,493
+adaderanasinhalalk | 7,494
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,836 (100.0%) of 43,836 articles have been extended.
+43,838 (100.0%) of 43,838 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### O / L results in two weeks
+
+*2024-09-14 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201010) · `si`
+
+GCE Ordinary Level exam results in two weeks. School term starts Jan 2, 2025. Exams scheduled for July 2025. Scholarship exam tomorrow.
+
+🟩
+
+Minister of Education Susil Premajayantha says that the GCE Ordinary Level Examination results are available within two weeks.
+
+He further stated that it is possible to implement the examination, semesters and examination schedule without any one in July 2025.
+
+"The next year's school term begins on January 2. But the third season has two weeks in the school cover the number of lengths. January 20, 2025, the first day of the first school will begin. Uniforms, textbooks, and all is ready.
+
+All exams were in time. This year's scholarship examination will be held tomorrow. Also, the results of the GCE Ordinary Level examination will be received within the next two weeks. Timetables have been admitted to the monthly A / L examination this year. In 2025, exams, semesters and exam schedule work together ".
+
+◼️
+
+[Data](articles/7b1a9744.json)
+
+[Extended Data](ext_articles/7b1a9744.ext.json)
+
+---
+
+### President Ranil calls for women’s empowerment, revolutionary reforms and economic transformation
+
+*2024-09-14 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101964/president-ranil-calls-for-womens-empowerment-revolutionary-reforms-and-economic-transformation) · `en`
+
+Independent presidential candidate and incumbent President Ranil Wickremesinghe outlined a transformative vision for Sri Lanka’s future, focusing on modernizing the economy, empowering women, and implementing social justice reforms.
+
+Addressing the Women’s Forum ‘A programme for Progress’ at the Galle Face Hotel yesterday (13), he emphasized the need to move beyond the out-dated political systems and embrace a more export-driven, digital, and green economy, while also addressing critical social issues like gender equality and overcoming class and caste bias.
+
+Speaking to entrepreneurs and small business owners, he laid out a framework for significant changes, promising a focus on women’s empowerment, social justice, and opportunities in a revamped economy. He urged the public to support his initiatives in the upcoming vote, symbolized by the gas cylinder on September 21.
+
+...
+
+[Data](articles/979eb8e1.json)
+
+[Extended Data](ext_articles/979eb8e1.ext.json)
+
+---
 
 ### The main notice of the Minister of Education
 
@@ -2219,65 +2261,5 @@ Tissa Attanayake says we stop the procession of the city again. But these are th
 [Data](articles/07ecd533.json)
 
 [Extended Data](ext_articles/07ecd533.ext.json)
-
----
-
-### 'JVP's President' - How does India approach it?
-
-*2024-09-13 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193606) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's presidential election on Sept 21 features 3 key candidates: Ranil Wickremesinghe, Sajith Premadasa, and Anura Kumara Dissanayake. Wickremesinghe lacks party support, while Premadasa focuses on welfare and Tamil-Muslim outreach. Dissanayake represents "system change" but faces concerns about his political ideology. India closely watches the election due to economic ties and Tamil minority issues.
-
-🟩
-
-Anurakumara Dissanayake is one of the three main candidates who are the most successful
-
-'After three years of confusion that the president has reached the bankruptcy and fled the country. Sri Lanka will elect its new president on September 21.
-
-Sri Lanka's next president will have to lead Sri Lanka during the economic crisis.
-
-In 2023, there will be negotiations with the International Monetary Fund for the financial assistance received by Sri Lanka. He will have to engage in a political solution to the post -war war issues, such as justice and accountability.
-
-Only 38 candidates are contesting the election. Only three are considered important.
-
-The current President Ranil Wickremesinghe, who took over after the Gotabhaya Rajapaksa flee, managed the country for two years.
-
-Sajith Premadasa, son of President Ranasinghe Premadasa, who was killed by the Liberation Tigers of Tamil Eelam (LTTE) in 1993, has launched a campaign on the basis of a legitimate government that works for the welfare of all.
-
-...
-
-[Data](articles/e9568151.json)
-
-[Extended Data](ext_articles/e9568151.ext.json)
-
----
-
-### Cabinet decision on reducing PAYE tax
-
-*2024-09-13 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101947/cabinet-decision-on-reducing-paye-tax) · `en`
-
-The Cabinet of Ministers approved the IMF proposal, based on the Sri Lankan Government’s proposal, to reduce the pay-as-you-earn (PAYE) tax from next year, says Cabinet Spokesman Minister Bandula Gunawardena.
-
-He stated that the proposal will be presented with the next budget proposal in November this year.
-
-Gunawardena stated that the government had submitted the relevant proposal to the International Monetary Fund (IMF) and obtained its approval.
-
-According to the proposal, the PAYE tax currently collected from each income structure will be reduced as follows:
-
-The tax of Rs. 3,500 imposed on an individual with a monthly income of Rs. 150,000 will be reduced by Rs. 500 to Rs. 3,000.
-
-The tax of Rs. 10,500 currently imposed on an individual with a monthly income of Rs. 200,000 will be reduced by Rs. 2,100 to Rs. 8,400.
-
-The Rs. 35,000 tax imposed on an individual with a monthly income of Rs. 300,000 will be reduced by Rs. 8,600 to Rs. 26,400.
-
-...
-
-[Data](articles/af697c08.json)
-
-[Extended Data](ext_articles/af697c08.ext.json)
 
 ---

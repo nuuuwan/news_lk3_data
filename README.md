@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 23:22:16**
+As of **2024-09-14 23:38:11**
 
 ## Newspaper Stats
 
-*Scraped **43,908** Articles*
+*Scraped **43,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 426
 colombotelegraphcom | 432
-islandlk | 2,570
+islandlk | 2,573
 economynextcom | 2,679
 dailyftlk | 2,920
 adalk | 4,059
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,908 (100.0%) of 43,908 articles have been extended.
+43,911 (100.0%) of 43,911 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1036,6 +1036,26 @@ Sinhalese and Buddhist chauvinism has almost succeeded in making us withdraw fro
 
 ---
 
+### Cabinet nod to launch ‘ITC She Trades Hub’
+
+*2024-09-14 14:36:00* · [`islandlk`](http://island.lk/cabinet-nod-launch-itc-she-trades-hub/) · `en`
+
+The Cabinet of Ministers has approved the proposal presented by the President in his capacity as the Minister of Investment Promotion to sign the proposed non-financial  Memorandum of Understanding between the Sri Lanka Export Development Board and the International Trade Center to commence an ‘ITC She Trades Hub’ in Sri Lanka to increase the participation and competitiveness in the businesses operated by  women.
+
+Once the ‘ITC She Trades Hub ‘ is established, the women entrepreneurs in Sri Lanka will be able to obtain the necessary training in the relevant topics, such as market and investment opportunities and the required technical assistance.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/cb8e1010.json)
+
+[Extended Data](ext_articles/cb8e1010.ext.json)
+
+---
+
 ### EDB, ITC to establish SheTrades Hub in Sri Lanka
 
 *2024-09-14 14:33:00* · [`economynextcom`](https://economynext.com/edb-itc-to-establish-shetrades-hub-in-sri-lanka-179634/) · `en`
@@ -1123,6 +1143,24 @@ The 51st population rally, organized by the President's Rally the rally, was hel
 [Data](articles/7d12e3e7.json)
 
 [Extended Data](ext_articles/7d12e3e7.ext.json)
+
+---
+
+### Cabinet approves implementing ‘Trade Facilitation Action Plan 2025-2028”’
+
+*2024-09-14 14:12:00* · [`islandlk`](http://island.lk/cabinet-approves-implementing-trade-facilitation-action-plan-2025-2028/) · `en`
+
+In the year 2016, Cabinet approval was granted for the establishment of a National Trade Felicitation Committee for the empowerment of the Trade Felicitation Agreement (TFA) of the World Trade Organization (WTO) and the inter-coordination of institutions in respect of the implementation of 36 obligations included therein. Sri Lanka has committed to implement the plan for implementation of trade facilitation during the period 2017-2030 thereunder.
+
+Even though countries in the region have fulfilled a higher percentage of the overall commitment, Sri Lanka has only fulfilled about 37.4% of
+
+the total commitment. Taking into consideration the prevailing situation, technical assistance has been requested from the Japan International Coordination Agency with the technical expertise of the International Trade Center to provide independent recommendations enabling the implementation of priority activities on a speedy basis after completion of the assessment of the trade facilitation measures.
+
+...
+
+[Data](articles/a6fb7bb8.json)
+
+[Extended Data](ext_articles/a6fb7bb8.ext.json)
 
 ---
 
@@ -1253,6 +1291,26 @@ He said exams, timetables and examination tables could be implemented without de
 [Data](articles/01c7d216.json)
 
 [Extended Data](ext_articles/01c7d216.ext.json)
+
+---
+
+### Individual income tax structure to be amended
+
+*2024-09-14 13:04:00* · [`islandlk`](http://island.lk/individual-income-tax-structure-to-be-amended/) · `en`
+
+The Cabinet of Ministers has approved the proposal presented by the president  to take steps to amend the Inland Revenue Act No. 24 of 2024 so as to enable the imposition of necessary legal provisions to implement the following  reduction to the individual  income tax structure effective 01-04-2025 as follows
+
+Cabinet approves granting Presidential pardon posthumously to Diunuge Edward Henry Pedris who was put to death after an unfair trial
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/f8961c51.json)
+
+[Extended Data](ext_articles/f8961c51.ext.json)
 
 ---
 
@@ -2313,77 +2371,5 @@ While traveling from Velanai area to Arali junction, he was traveling on a motor
 [Data](articles/1c8118a0.json)
 
 [Extended Data](ext_articles/1c8118a0.ext.json)
-
----
-
-### The past governments sowed Christmas and sword cultures - Vijayagala public!
-
-*2024-09-14 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/193636) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Past governments promoted Christmas and militarism. People displaced, lost assets. Former minister claims Ranil Wickremesinghe improved economy, opened northern routes, assisted war-affected women. He fasted for land release in 2013. In 2005, he urged Tamils to vote for him to avoid suffering.
-
-🟩
-
-Killed by many people in the final war. The public displaced their own places and lost their assets. The past governments planted Christmas and sword cultures.
-
-Vijayagala Maheshwaran said that in 2005, Ranil will win the votes that the Tamil people did not give to Ranil.
-
-Former Education Minister and Jaffna District Organizer Vijayagala Maheshwaran said while addressing a rally in support of Ranil Wickremesinghe in Chiripuram today.. As he further stated,
-
-History of the people in the streets to buy essential commodities, fuel and gas 2 years ago.
-
-It was during his reign that the current President Ranil Wickremesinghe was the one who changed the situation and brought the economy of the country to a level.
-
-All three lanes to the North were opened and many of the public lands of high security zones were released.
-
-...
-
-[Data](articles/37e088d1.json)
-
-[Extended Data](ext_articles/37e088d1.ext.json)
-
----
-
-### In the yarns. Petition
-
-*2024-09-14 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193635) · `ta`
-
-Petition filed against Jaffna Police Division's commemoration events. Hearing scheduled for 18th. Key figures summoned: Selvarasa Gajendran and Viswalingam Manivannan.
-
-🟩
-
-Jaffna Police. A petition has been filed in the Magistrate's Court.
-
-The 37th anniversary of the sacrificial fire will be held from the 15th to the 26th of this month.
-
-In the meantime, the Jaffna Magistrate's Court on Friday (13) has filed a petition with the Jaffna Magistrate's Court seeking a ban on commemoration events in the Jaffna Police Division.
-
-The hearing on the petition will be carried out on the 18th and has ordered the appearance of Selvarasa Gajendran and Viswalingam Manivannan, who is named in the petition that day.
-
-◼️
-
-[Data](articles/0a5dec5a.json)
-
-[Extended Data](ext_articles/0a5dec5a.ext.json)
-
----
-
-### CEAT Kelani Holdings rated AA+ by Fitch for 4th successive year
-
-*2024-09-14 01:53:00* · [`islandlk`](http://island.lk/ceat-kelani-holdings-rated-aa-by-fitch-for-4th-successive-year/) · `en`
-
-Sri Lanka’s leading tyre manufacturer CEAT Kelani Holdings (CKH) has been assigned a National Long-Term rating of ‘AA+(lka)/Outlook Stable’ by Fitch Ratings for a fourth consecutive year, a rating Fitch said is supported by CEAT’s sustained leadership in the domestic pneumatic tyre manufacturing industry and the resilience of its financial profile.
-
-In its announcement, Fitch Ratings said: “The Stable Outlook reflects Fitch’s belief in CKH’s ability to retain its market share despite increasing competition from imported tyres. It also indicates our expectation CKH will maintain adequate credit metrics and liquidity, even during periods of intensive investment.”
-
-...
-
-[Data](articles/a4b1d72e.json)
-
-[Extended Data](ext_articles/a4b1d72e.ext.json)
 
 ---

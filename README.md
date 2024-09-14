@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 17:38:41**
+As of **2024-09-14 17:58:41**
 
 ## Newspaper Stats
 
-*Scraped **43,876** Articles*
+*Scraped **43,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 432
 islandlk | 2,567
 economynextcom | 2,676
 dailyftlk | 2,920
-adalk | 4,058
+adalk | 4,059
 dailymirrorlk | 4,733
 adaderanalk | 5,163
 tamilmirrorlk | 5,699
 virakesarilk | 6,960
-adaderanasinhalalk | 7,504
+adaderanasinhalalk | 7,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,876 (100.0%) of 43,876 articles have been extended.
+43,878 (100.0%) of 43,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Man collides in Dehiwala
+
+*2024-09-14 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201022) · `si`
+
+Dehiwala: Man dies after train collision near railway station. Victim hit by train traveling from Maradana to Beliatta.
+
+🟩
+
+The victim has died after collision with the train near the Dehiwala railway station.
+
+It is reported that the man had collided with the stroud train traveling from Maradana to Beliatta.
+
+◼️
+
+[Data](articles/c752add6.json)
+
+[Extended Data](ext_articles/c752add6.ext.json)
+
+---
 
 ### Liquor shops closed on Sep. 21 and 22
 
@@ -429,6 +449,30 @@ Thus, the Cabinet of Ministers has approved the proposal presented by the Minist
 [Data](articles/3afff1e7.json)
 
 [Extended Data](ext_articles/3afff1e7.ext.json)
+
+---
+
+### Maithri answers about Maithri's silence
+
+*2024-09-14 14:25:11* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීගේ-නිහඬතාවය-ගැන-මෛත්‍රීගෙන්ම-පිළිතුරු/11-411944) · `si`
+
+Here's a 200-character summary:
+
+
+
+Former President Maithripala Sirisena responds to questions about his silence. He compares his silence to the Maha Sea during a big storm, suggesting his silence is significant and powerful.
+
+🟩
+
+The issue of former President Maithripala Sirisena on his own register Maithripala Sirisena was answered by the question.
+
+Answer - Am I?When the Maha Sea is silenced, he says big hurricane. So my silence is also.
+
+◼️
+
+[Data](articles/de7099af.json)
+
+[Extended Data](ext_articles/de7099af.ext.json)
 
 ---
 
@@ -2239,53 +2283,5 @@ The arrested suspect is said to be 37 years old from Negombo. Remble
 [Data](articles/4226a3a9.json)
 
 [Extended Data](ext_articles/4226a3a9.ext.json)
-
----
-
-### We have a hive this country to rich - Anura
-
-*2024-09-13 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201003) · `si`
-
-Anura Kumara Dissanayake, UNP candidate, addresses Moneragala gathering. Promises to improve country's wealth and citizens' quality of life through government programs and strong team. Emphasizes decisive leadership and people's support without focusing on political positions.
-
-🟩
-
-UNP candidate candidate Anura Kumara Dissanayake says that the government is making the country and the lives of the people.
-
-He was speaking at the Moneragala morning today (13).
-
-"Can we show miracles? Are we magictors? Are we magicians? Not. But we have a more hiring to make this country a more rich country. Make the lives of the people of this country into a higher life. We'll struggle for that. We have made the necessary program. We have strong people to operate it. Now we do as the government's doing our work. What are you doing? You should help. Ready?Let's grow. This is a decisive government in the country. This is a government and the people who believe. We have not kept politics looking at the chairs. We don't count the chairs. For some, the president chair is big. We're not ... The property is taken over. "
-
-◼️
-
-[Data](articles/cc56eaba.json)
-
-[Extended Data](ext_articles/cc56eaba.ext.json)
-
----
-
-### Pregnant mother falls in three wheelers
-
-*2024-09-13 21:58:29* · [`adalk`](https://www.ada.lk/breaking_news/ගැබිනි-මවක්-ත්‍රීරෝද-රථයක-ගැටී-මරුට/11-411937) · `si`
-
-Pregnant woman dies in three-wheeler crash in Hambantota. Driver arrested. Child survives but injured.
-
-🟩
-
-The Hambantota Police have been killed in a three-wheeler in the palletha road in Hambantota main road.
-
-The deceased has been identified as 23 such 23rd, a resident of the Pallamalawela area in Pallamala area, Madumania. The accident had taken place while he was on the road with a boy with her two and a half and a half years old.
-
-The accident had occurred when a three-wheeler from Hambantota has come out of the road and the child.
-
-The injured woman was admitted to the Hambantota District General Hospital, hospital sources said she had already died.. The dead woman has not been able to save the child in the womb. The young child who traveled with the woman was injured and hospitalized.
-
-The driver of the three-wheeler has been arrested by the police and conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/44b2c9d9.json)
-
-[Extended Data](ext_articles/44b2c9d9.ext.json)
 
 ---

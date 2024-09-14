@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 20:07:59**
+As of **2024-09-14 20:22:21**
 
 ## Newspaper Stats
 
-*Scraped **43,889** Articles*
+*Scraped **43,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,059
 dailymirrorlk | 4,733
 adaderanalk | 5,165
 tamilmirrorlk | 5,703
-virakesarilk | 6,960
+virakesarilk | 6,964
 adaderanasinhalalk | 7,510
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,889 (100.0%) of 43,889 articles have been extended.
+43,889 (100.0%) of 43,893 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -222,6 +222,62 @@ The Ukraine president has decided to visit the US in the end of this month.
 
 ---
 
+### புலனாய்வு விசாரணை வகையில் உருவாகியிருக்கும் 'சட்டம் என் கையில்'
+
+*2024-09-14 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/193702) · `ta`
+
+நகைச்சுவை நடிகராக வெற்றிகரமாக பயணித்து,பின் கதையின் நாயகனாக உயர்ந்து, தனித்துவமான நட்சத்திர நடிகராக உலா வரும் சதீஷ் கதையின் நாயகனாக நடித்திருக்கும் 'சட்டம் என் கையில்' எனும் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+இதனை 'மக்கள் செல்வன்' விஜய் சேதுபதி மற்றும் இயக்குநர் வெங்கட் பிரபு ஆகியோர் இணைந்து அவர்களது இணைய பக்கத்தில் வெளியிட்டு படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+
+'சிக்ஸர்' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் சாச்சி இயக்கத்தில் உருவாகி இருக்கும் 'சட்டம் என் கையில்' எனும் திரைப்படத்தில் சதீஷ், அஜய் ராஜ், பவெல் நவகீதன், மைம் கோபி, ரித்திகா, கே பி ஒய் சதீஷ், வித்யா பிரதீப் , எழுத்தாளரும், நடிகருமான பவா செல்லதுரை, இயக்குநரும், வசனகர்த்தாவும், நடிகருமான ஈ. ராம்தாஸ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பி ஜி முத்தையா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எம். எஸ். ஜோன்ஸ் ரூபெர்ட் இசையமைத்திருக்கிறார்.
+
+...
+
+[Data](articles/05224bb9.json)
+
+---
+
+### சீமான் வெளியிட்ட 'நந்தன்' திரைப்படத்தின் இசை, முன்னோட்டம்
+
+*2024-09-14 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193703) · `ta`
+
+சசிகுமார் நடிப்பில் எதிர்வரும் இருபதாம் திகதி என்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் நந்தன் எனும் திரைப்படத்தின் இசை மற்றும் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+இதனை திரைப்பட இயக்குநரும், நடிகரும், நாம் தமிழர் எனும் அரசியல் கட்சியின் ஒருங்கிணைப்பாளருமான 'செந்தமிழன்' சீமான் வெளியிட்டு, பட குழுவினருக்கு வாழ்த்து தெரிவித்தார்.‌
+
+இயக்குநர் இரா. சரவணன் இயக்கத்தில் உருவாகி இருக்கும் 'நந்தன்' எனும் திரைப்படத்தில் சசிகுமார், சுருதி பெரியசாமி, பாலாஜி சக்திவேல், சமுத்திரக்கனி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஆர். வி. சரண் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜிப்ரான் வைபோதா இசையமைத்திருக்கிறார்.
+
+ஆதிக்க சாதி அரசியலுக்கும் - ஒடுக்கப்பட்ட சாதி அரசியலுக்கும் இடையேயான மோதலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை இரா என்டர்டெயின்மென்ட் எனும் பட நிறுவனம் சார்பில் இயக்குநர் இரா. சரவணன் தயாரித்திருக்கிறார்.
+
+இந்த திரைப்படத்தின் இசை மற்றும் முன்னோட்ட வெளியிட்டு விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+
+...
+
+[Data](articles/5622c53c.json)
+
+---
+
+### மீரிகம, திவுலபிட்டிய பகுதிகளில் பல கட்சி அலுவலகங்கள் தீயில் சேதம் ; பொலிஸார் விசாரணை
+
+*2024-09-14 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193699) · `ta`
+
+மீரிகம, பொகலகம பிரதேசத்தில் உள்ள இரண்டு கட்சி அலுவலகங்களுக்கும் திவுலபிட்டிய கித்துல்வல பிரதேசத்தில் உள்ள கட்சி அலுவலகம் ஒன்றுக்கும் தீ வைக்கப்பட்டு, அந்த அலுவலகங்கள் சேதமாக்கப்பட்டுள்ளதாக பல்லேவெல பொலிஸார் தெரிவித்தனர்.
+
+கித்துல்வல கினிதம்மமன சந்தியில் அமைந்துள்ள கட்சி அலுவலகம் ஒன்றின் பெயர்ப் பலகைகள் தீ வைத்து எரிக்கப்பட்டுள்ளதுடன், ஒன்றரை கிலோமீற்றர் தொலைவில் உள்ள ஹீதிவல கிராமத்தில் உள்ள அலுவலகத்தின் பெயர்ப்பலகைகளும் தீ வைத்து எரிக்கப்பட்டுள்ளன.
+
+இப்பகுதியில் இருந்து சுமார் 200 மீற்றர் தொலைவில் உள்ள மற்றொரு கட்சி அலுவலகத்தின் பெயர்ப் பலகைகளும் எரிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ஹீதிவல பகுதியில் எரிக்கப்பட்ட இரண்டு கட்சி அலுவலகங்களுக்கு அருகில் வைத்து கையால் எழுதப்பட்ட சில சுவரொட்டிகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+இந்த சுவரொட்டிகள் பொலிஸ் விசாரணையை திசை திருப்பும் முயற்சியாக இருக்கலாம் எனவும் பொலிஸார் சந்தேகிக்கின்றனர்.
+
+◼️
+
+[Data](articles/d5e64077.json)
+
+---
+
 ### Brewery will be closed on the 21st and 22nd
 
 *2024-09-14 17:48:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-22-ஆம்-திகதிகளில்-மதுபானசாலைகள்-மூடப்படும்/175-343745) · `ta`
@@ -283,6 +339,26 @@ It is reported that the man had collided with the stroud train traveling from Ma
 [Data](articles/c752add6.json)
 
 [Extended Data](ext_articles/c752add6.ext.json)
+
+---
+
+### கவின் நடிக்கும் 'பிளடி பெக்கர்' பட அப்டேட்
+
+*2024-09-14 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193701) · `ta`
+
+'டாடா', 'ஸ்டார்' ஆகிய படங்களின் வெற்றிக்குப் பிறகு நானும் ஒரு நட்சத்திர நடிகர் தான் என சுயமாக அறிவிப்பை வெளியிட்டு, ரசிகர்களின் கவனத்தைக் கவர்ந்திருக்கும் நடிகர் கவின் நடிப்பில் தயாராகி வரும் ப்ளடி பெக்கர் எனும் திரைப்படத்தினை விளம்பரப்படுத்தும் வகையில் பட குழுவினர் பிரத்யேக பாடலையும் , பாடலுக்கான காணொலியையும் வெளியிட்டுள்ளனர்.
+
+அறிமுக இயக்குநர் சிவபாலன் முத்துக்குமார் இயக்கத்தில் உருவாகி இருக்கும் 'பிளடி பெக்கர்' எனும் திரைப்படத்தில் கவின், ரெடின் கிங்ஸ்லி, மாருதி பிரகாஷ் ராஜ்,  சுனில் சுகதா,  டி. எம். கார்த்திக், ஹர்ஷத், பிரியதர்ஷினி ராஜ்குமார், அக்ஷயா ஹரிஹரன், திவ்யா விக்ரம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+இந்த திரைப்படத்தை பிளமென்ட் பிக்சர்ஸ் நிறுவனம் சார்பில் இயக்குநர் நெல்சன் திலீப் குமார் தயாரித்திருக்கிறார்.
+
+எதிர்வரும் தீபாவளி திருநாளன்று வெளியாகும் என அறிவிக்கப்பட்டிருக்கும் இந்த திரைப்படத்தினை விளம்பரப்படுத்தும் பணிகளை படக்குழு தொடங்கி இருக்கிறது.
+
+அந்த வகையில் 'நான் யார்?' எனும் பிரத்யேக பாடலையும், பாடலுக்கான காணொளியையும் வெளியிட்டிருக்கிறது.
+
+...
+
+[Data](articles/b4dcd087.json)
 
 ---
 
@@ -2191,81 +2267,5 @@ Sri Lanka’s presidential election system is a unique one. It seems to be a com
 [Data](articles/3142b318.json)
 
 [Extended Data](ext_articles/3142b318.ext.json)
-
----
-
-### Yes, future of SL and its people was in our hands to shape for as long as 75 years
-
-*2024-09-14 00:43:47* · [`dailyftlk`](https://www.ft.lk/columns/Yes-future-of-SL-and-its-people-was-in-our-hands-to-shape-for-as-long-as-75-years/4-766736) · `en`
-
-We have a challenging journey ahead, let us be alert, positive, proactive, and constructive, for this, is our only home
-
-Following is a reproduction of a post on LinkedIn by the author about 18 months ago on the occasion of Sri Lanka’s 75th independence on 4 February 2023
-
-Yes *“We did not focus on sustainable social responsiveness and thus there is dissent. We were not sincere and purposeful regarding interreligious, inter-communal, interracial harmony, resulting in intellectual capital flight – brain drain. There are many grievances among those who remained onshore. Reparations, Compensation, genuine initiatives towards National Harmony, are now a National Imperative.”*
-
-It is unwise, insensitive and indeed incomplete to say, as some say rather dismissively, that we have not created, neither built, nor established anything since we gained independence.
-
-...
-
-[Data](articles/d6cc23b6.json)
-
-[Extended Data](ext_articles/d6cc23b6.ext.json)
-
----
-
-### Far horizons
-
-*2024-09-14 00:41:15* · [`dailyftlk`](https://www.ft.lk/columns/Far-horizons/4-766734) · `en`
-
-In the Presidential election to be held in a few days, this country faces its first test of public opinion since the Aragalaya
-
-“There was one daily newspaper in the Ivory Coast, at least, only one came my way. It was called Fraternite’ Matin. Every day on its front page, in the top left-hand corner, it carried a ‘thought’ of the President’s. The thoughts were mainly about development and the economy; and so were big front-page stories”
-
-Of all the extra-parliamentary convulsions that have happened all too regularly in this country since independence, the mass protest movement which occurred two years ago, commonly referred to as the ‘Aragalaya’ (struggle), is certainly unique.
-
-...
-
-[Data](articles/363eecf0.json)
-
-[Extended Data](ext_articles/363eecf0.ext.json)
-
----
-
-### Pelwatte and Sevenagala sugar distilleries – economic disaster
-
-*2024-09-14 00:38:49* · [`dailyftlk`](https://www.ft.lk/columns/Pelwatte-and-Sevenagala-sugar-distilleries-economic-disaster/4-766733) · `en`
-
-Pelwatte and Sevenagala sugar factories are supposed to carry a stock of 1.3 million litres unable to sell
-
-A friend had sent me an extract of a statement made by State Minister for Investment Promotion Dilum Amunugama titled ‘Sri Lanka state sugar firms drowned in unsold ethanol’.
-
-The two sugar firms referred to are Pelwatte and Sevenagala sugar factories. They are supposed to carry a stock of 1.3 million litres unable to sell.
-
-He attributes this problem to the economic crisis and tax hikes.
-
-In 1968 I took over as Distillery Manager at the then Government-owned distillery at the Kantale Sugar Factory. That is the reason for my friend to refer this to me to comment.
-
-...
-
-[Data](articles/e9b9400c.json)
-
-[Extended Data](ext_articles/e9b9400c.ext.json)
-
----
-
-### The race is not to the swift, nor neo-racism to the slick
-
-*2024-09-14 00:07:25* · [`dailyftlk`](https://www.ft.lk/columns/The-race-is-not-to-the-swift-nor-neo-racism-to-the-slick/4-766726) · `en`
-
-We can only trust and hope that an electorate that has repeatedly suffered from the fallout of racial politicking that burned towns and cremated the dead against their religious convictions has learned the lessons of history and won’t provoke the fates by any attempt to repeat the same – Pic by Shehan Gunasekara
-
-The Sihala Urumaya (SU) was formed in April 2000 on the basis that while Tamils and Muslims demonstrably had political parties to safeguard their interests, the majority community suffered from a lacuna in this regard. But the SU may have conveniently – or cynically – overlooked how the United National Party (UNP) as well as the Sri Lanka Freedom Party (SLFP) openly catered primarily to the wellbeing of the island’s Sinhalese Buddhists, and arguably shared the dubious honour of pioneering ‘political Buddhism’
-
-...
-
-[Data](articles/7bc0dff1.json)
-
-[Extended Data](ext_articles/7bc0dff1.ext.json)
 
 ---

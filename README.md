@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 21:57:20**
+As of **2024-09-14 22:11:08**
 
 ## Newspaper Stats
 
-*Scraped **43,901** Articles*
+*Scraped **43,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,167
 tamilmirrorlk | 5,703
 virakesarilk | 6,964
-adaderanasinhalalk | 7,513
+adaderanasinhalalk | 7,514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,901 (100.0%) of 43,901 articles have been extended.
+43,902 (100.0%) of 43,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Export Economy in 2025 - Ranil
+
+*2024-09-14 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201031) · `si`
+
+Ranil Wickremesinghe promotes export economy for 2025 improvement. Lifts vehicle import ban, allows new motorcycle purchases. Focuses on developing exports as key economic strategy.
+
+🟩
+
+Another rally was held in Matale today (14), organizing a rally organized by organizing the 'Sri Lanka' concept of independent presidency.
+
+President Ranil Wickremesinghe said that steps will be taken to improve the country by establishing export economies next year.
+
+"The vehicle import ban is lifted due to money. Now a new motor bicycle can be taken. Will improve in the coming year. Exports an export economy. "
+
+◼️
+
+[Data](articles/1a2e2332.json)
+
+[Extended Data](ext_articles/1a2e2332.ext.json)
+
+---
 
 ### Sri Lanka steps up measures for fighting tuberculosis
 
@@ -2327,21 +2349,5 @@ The stock market bounced back yesterday after experiencing a downfall during the
 [Data](articles/b4b17426.json)
 
 [Extended Data](ext_articles/b4b17426.ext.json)
-
----
-
-### “Climate Challenge SL” invites data professionals to a first ever hackathon aimed at generating innovative data-driven solutions
-
-*2024-09-14 01:20:00* · [`islandlk`](http://island.lk/climate-challenge-sl-invites-data-professionals-to-a-first-ever-hackathon-aimed-at-generating-innovative-data-driven-solutions/) · `en`
-
-With the support of United States Agency for International Development (USAID), and in partnership with the Climate Collective Foundation (CCF), Lanka Impact Investment Network (LIIN), is proud to announce the launch of Sri Lanka’s first-ever data hackathon, “Climate Challenge SL”. This hackathon aims to revolutionize the agriculture and fisheries sectors, by addressing climate change related impacts through innovative data-driven solutions.
-
-Data professionals from across the country are called to apply for “Climate Challenge SL” before October 31, 2024. Primarily a youth-focused initiative, aiming to encourage more youth to engage in climate action, anyone from any part of the country is invited to apply.
-
-...
-
-[Data](articles/50a826d0.json)
-
-[Extended Data](ext_articles/50a826d0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 16:09:36**
+As of **2024-09-14 16:22:14**
 
 ## Newspaper Stats
 
-*Scraped **43,866** Articles*
+*Scraped **43,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,160
 tamilmirrorlk | 5,699
 virakesarilk | 6,959
-adaderanasinhalalk | 7,498
+adaderanasinhalalk | 7,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,866 (100.0%) of 43,866 articles have been extended.
+43,866 (100.0%) of 43,867 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -105,6 +105,26 @@ The National Land Commission and the Truth and Reconciliation Commission (TRC) s
 [Data](articles/2ba666e5.json)
 
 [Extended Data](ext_articles/2ba666e5.ext.json)
+
+---
+
+### මව්බිම රනින් සැරසුව අපේ දෙවන පෙළ
+
+*2024-09-14 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201016) · `si`
+
+ඉන්දියාවේ චෙන්නායි නුවර ශ්‍රීමත් ජවහර්ලාර් නේරූ ජාත්‍යන්තර ක්‍රීඩාංගණයේ තෙදිනක් පුරා පැවැත් වූ සිව්වැනි දකුණු ආසියානු කනිෂ්ඨ මලල ක්‍රීඩා තරගාවලියේදී විශිෂ්ට දක්ෂතා දැක් වූ ශ්‍රී ලංකා කණ්ඩායම අද (14) දහවල් ශ්‍රී ලංකාවට පැමිණීමට නියමිත බව මලල ක්‍රීඩා සංගමය පැවසීය.
+
+තෙදිනක් පුරා (සැප්. 11,12,13) පැවැත් වූ මෙම තරගාවලියේදී ශ්‍රී ලංකා කණ්ඩායම රන් පදක්කම් 09ක්, රිදී පදක්කම් 09ක් හා ලෝඩක පදක්කම් 17ක් සමගින් පදක්කම් 35ක් දිනාගනිමින් සමස්ත අනුශූරතාව දිනාගැනීමට සමත් විය.
+
+ශ්‍රී ලංකාවට කරට කර සටනක් දුන් ඉන්දියාව රන් පදක්කම් 21ක්, රිදී 22ක් හා ලෝකඩ 05ක් සමගින් පදක්කම් 48ක් දිනාගනිමින් සමස්ත ශූරතාවට හිමිකම් කියුවේය.
+
+කෙසේ නමුත් ශ්‍රී ලංකාව හා ඉන්දියාව හැරෙන්න වෙනත් කිසිඳු රටකට රන් හෝ රිදී පදක්කම් දිනාගැනීමට නොහැකි වූ අතර, බංග්ලාදේශය (3), මාලදිවයින (2) හා නේපාලයට (1) ලෝකඩ පදක්කම් පමණක් දිනාගැනීමට හැකිවිය.
+
+දකුණු ආසියානු කනිෂ්ඨ (අවුරුදු 20න් පහළ) මලල ක්‍රීඩක ක්‍රීඩිකාවන්ගේ දක්ෂතා උරගාබැලීම වෙනුවෙන් මෙම තරගාවලිය සංවිධානය කෙරේ.
+
+◼️
+
+[Data](articles/ebff5538.json)
 
 ---
 
@@ -2253,31 +2273,5 @@ Silence And Choreographed Timidity at South Asian University: Interview of Sasa
 [Data](articles/c19439e0.json)
 
 [Extended Data](ext_articles/c19439e0.ext.json)
-
----
-
-### Schoolgirl in the ICU more than a month
-
-*2024-09-13 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200998) · `si`
-
-Teachers released on bail after assaulting schoolgirl. Girl hospitalized over a month without updates from hospital. Court orders suspects to pay medical costs.
-
-🟩
-
-Two school teachers who were arrested for assaulting a schoolgirl have been released on bail.
-
-Two teachers of a major school near Wennappuwa have been released.
-
-Meanwhile, the student who was assaulted was receiving treatment at the ICU of the Colombo National Hospital for more than one month.
-
-Parents said that the authorities of the hospital did not say anything about the girl.
-
-The Magistrate ordered the suspect teachers of Rs. 300,000 to treat the student.
-
-◼️
-
-[Data](articles/4bcde3c9.json)
-
-[Extended Data](ext_articles/4bcde3c9.ext.json)
 
 ---

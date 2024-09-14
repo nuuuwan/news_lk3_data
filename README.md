@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 17:58:41**
+As of **2024-09-14 18:17:17**
 
 ## Newspaper Stats
 
-*Scraped **43,878** Articles*
+*Scraped **43,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
 adaderanalk | 5,163
-tamilmirrorlk | 5,699
+tamilmirrorlk | 5,700
 virakesarilk | 6,960
 adaderanasinhalalk | 7,505
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,878 (100.0%) of 43,878 articles have been extended.
+43,879 (100.0%) of 43,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Resolution to shut down liquor schools
+
+*2024-09-14 17:48:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளை-மூடுவதற்கு-தீர்மானம்/175-343745) · `ta`
+
+Liquor hospitals to close on 21st-22nd due to election. Madhuvari Commissioner General MG Gunasiri announced closure at Elections Commission's request.
+
+🟩
+
+All liquor hospitals will be closed on the 21st and 22nd of this month ahead of the presidential election, the Liquor Department said.
+
+Madhuvari Commissioner General MG Gunasiri said that this action will be taken at the request of the Elections Commission.. Remble
+
+◼️
+
+[Data](articles/709cf122.json)
+
+[Extended Data](ext_articles/709cf122.ext.json)
+
+---
 
 ### Man collides in Dehiwala
 
@@ -2261,27 +2281,5 @@ He urged the public to make the most of what he described as an “unprecedented
 [Data](articles/97be038e.json)
 
 [Extended Data](ext_articles/97be038e.ext.json)
-
----
-
-### Golden powder trapped at the airport
-
-*2024-09-13 22:05:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-சிக்கிய-தங்கத்-தூள்/175-343732) · `ta`
-
-Sri Lanka airport customs seize 1kg 860g gold powder from 37-year-old man from Dubai.
-
-🟩
-
-Airport customs officials have arrested a person with gold powder that was illegally brought to Sri Lanka.
-
-Customs officials have seized 1 kg 860 grams of gold powder from the suspect from Dubai.
-
-The arrested suspect is said to be 37 years old from Negombo. Remble
-
-◼️
-
-[Data](articles/4226a3a9.json)
-
-[Extended Data](ext_articles/4226a3a9.ext.json)
 
 ---

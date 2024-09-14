@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 13:22:22**
+As of **2024-09-14 13:57:41**
 
 ## Newspaper Stats
 
-*Scraped **43,841** Articles*
+*Scraped **43,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 2,920
 adalk | 4,056
 dailymirrorlk | 4,733
 adaderanalk | 5,154
-tamilmirrorlk | 5,698
+tamilmirrorlk | 5,699
 virakesarilk | 6,948
-adaderanasinhalalk | 7,495
+adaderanasinhalalk | 7,496
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,840 (100.0%) of 43,841 articles have been extended.
+43,843 (100.0%) of 43,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Everyone gets relief - Ranil
+
+*2024-09-14 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201013) · `si`
+
+Ranil Wickremesinghe: Economy relief measures implemented. Vehicle imports allowed, income tax reduced. Dollar value stabilizes. Opposition criticizes policies.
+
+🟩
+
+Independent presidential candidate Ranil Wickremesinghe says that the people have been given relief to provide relief to the economy.
+
+Ranil Wickremesinghe made this observation addressing the Sri Lankan famus of Sri Lanka.
+
+Another rally was held at Beruwala yesterday afternoon to ease the 'Sri Lanka' concept of independent presidential candidate Ranil Wickremesinghe.
+
+"Vehicle import lifted ban. Decreases income taxes. Everyone gets some relief. When we developed this way, it is ready to sabotage them. The dollar needs 400 rupees per dollar if Implementing Anura's policy.  අනෙක් පැත්තෙන් ඉන්නවා සජිත්. Seeing everything is free. "
+
+◼️
+
+[Data](articles/c252385f.json)
+
+[Extended Data](ext_articles/c252385f.ext.json)
+
+---
+
+### O/L results within two weeks
+
+*2024-09-14 13:09:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-வாரங்களுக்குள்-O-L-பெறுபேறுகள்/175-343742) · `ta`
+
+GCE Ordinary Level exam rescheduled within two weeks, Education Minister announces. Exams, timetables, and schedules to resume in 2025.
+
+🟩
+
+Education Minister Susil Premajayantha has said that the GCE Ordinary Level examination will be imposed within two weeks.
+
+The Minister, who attended a press conference held this morning (14), said,
+
+He said exams, timetables and examination tables could be implemented without delay in 2025. Remble
+
+◼️
+
+[Data](articles/01c7d216.json)
+
+[Extended Data](ext_articles/01c7d216.ext.json)
+
+---
 
 ### Forgiveness after 109 years of wrongdoing
 
@@ -939,6 +985,8 @@ The “Embassy Festival” is an annual event organized by the Municipality of H
 ...
 
 [Data](articles/07f194b7.json)
+
+[Extended Data](ext_articles/07f194b7.ext.json)
 
 ---
 
@@ -2187,47 +2235,5 @@ In addition, the Criminal Investigation Act (Amendment) Bill is a law to suspend
 [Data](articles/a21dd5f6.json)
 
 [Extended Data](ext_articles/a21dd5f6.ext.json)
-
----
-
-### Oath
-
-*2024-09-13 16:57:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீதா-அரம்பேபொல-பதவிப்-பிரமாணம்/175-343718) · `ta`
-
-Dr. Sita Arambola sworn in as Minister of State for Women and Child Affairs and Health Minister before President Ranil Wickremesinghe.
-
-🟩
-
-Special Dr. Sita Arambola, who was appointed as the Minister of State for Women and Child Affairs, was sworn in in the presence of President Ranil Wickremesinghe at the Presidential Office this morning.
-
-Sita Arambola has been appointed Minister of State for Women and Child Affairs in addition to the post of Health Minister.
-
-◼️
-
-[Data](articles/282dd955.json)
-
-[Extended Data](ext_articles/282dd955.ext.json)
-
----
-
-### Sri Lanka stocks close up, banks and bluechips push turnover
-
-*2024-09-13 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-and-bluechips-push-turnover-179568/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 1.10 percent, or 115.84 points, at 10,683; while the more liquid S&P SL20 Index closed up 1.86 percent, or 54.45 points, at 2,979.
-
-Top turnover generators were Hatton National Bank (up at 159.25), John Keells Holdings (up at 161.00), Richard Pieris and Company (up at 20.50), Hayleys Plc (up at 88.30), and Vallibel One (up at 42.90).
-
-Crossings were recorded on HNB, Richard Pieris, Cable Solutions Limited (flat at 7.20) and Hayleys Fabric (up at 45.10).
-
-Foreign buying was seen in Richard Pieris and Co, Commercial Bank (up at 82.40), Hayleys, Browns Investments (flat at 5.00), LOLC Finance (up at 5.10), and Ambeon Holdings (down at 37.60).
-
-...
-
-[Data](articles/b44473d1.json)
-
-[Extended Data](ext_articles/b44473d1.ext.json)
 
 ---

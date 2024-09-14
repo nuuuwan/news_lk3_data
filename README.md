@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 01:37:53**
+As of **2024-09-15 01:57:12**
 
 ## Newspaper Stats
 
-*Scraped **43,911** Articles*
+*Scraped **43,912** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 426
-colombotelegraphcom | 432
+colombotelegraphcom | 433
 islandlk | 2,573
 economynextcom | 2,679
 dailyftlk | 2,920
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,911 (100.0%) of 43,911 articles have been extended.
+43,912 (100.0%) of 43,912 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -249,6 +249,20 @@ Speaking on, he said that the country was the contents of its strategy plan.
 [Data](articles/6736c600.json)
 
 [Extended Data](ext_articles/6736c600.ext.json)
+
+---
+
+### Turning Manifesto Pledges To Tangible Realities
+
+*2024-09-14 20:00:16* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/turning-manifesto-pledges-to-tangible-realities/) · `en`
+
+Sri Lanka’s Presidential election campaign is in full swing with the nation preparing to elect its ninth Executive President. The airwaves are dominated by spirited debates on television, where representatives from the key political parties dissect policies and exchange sharp criticisms. Meanwhile, YouTube has become a battleground of its own, flooded with videos ranging from well-researched content to speculative and often misleading claims about the candidates and their platforms. Newspapers, too, are teeming with coverage, from vivid reports of massive party rallies to an abundance of opinion pieces, where journalists and citizens alike weigh in with varying takes on the political landscape and the diverse factions vying for power. The atmosphere is charged with anticipation and uncertainty as the nation braces for this pivotal moment in its political history.
+
+...
+
+[Data](articles/06e680aa.json)
+
+[Extended Data](ext_articles/06e680aa.ext.json)
 
 ---
 
@@ -2349,27 +2363,5 @@ Candidates contesting the presidential election from the south are decorating th
 [Data](articles/7d97505c.json)
 
 [Extended Data](ext_articles/7d97505c.ext.json)
-
----
-
-### In the yarns. Accident - Tamil Police Officer Death
-
-*2024-09-14 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/193634) · `ta`
-
-Tamil police officer Kannadasan dies in motorbike accident near Jaffna-Kayts. He was riding with another motorcyclist when struck by a JCP vehicle while traveling from Velanai to Arali junction.
-
-🟩
-
-A Tamil police officer died in an accident on Friday (13) in the Jaffna -Kayts area.
-
-Kannadasan, a police officer from Punguduthivu, who is on duty at the Tellippalai police station, has died.
-
-While traveling from Velanai area to Arali junction, he was traveling on a motorbike with another motorcycle and was killed in a JCP vehicle and died on the spot.
-
-◼️
-
-[Data](articles/1c8118a0.json)
-
-[Extended Data](ext_articles/1c8118a0.ext.json)
 
 ---

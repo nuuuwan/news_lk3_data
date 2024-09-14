@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 07:04:39**
+As of **2024-09-14 07:35:33**
 
 ## Newspaper Stats
 
-*Scraped **43,805** Articles*
+*Scraped **43,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 426
 colombotelegraphcom | 432
-islandlk | 2,557
+islandlk | 2,564
 economynextcom | 2,675
 dailyftlk | 2,920
 adalk | 4,053
 dailymirrorlk | 4,733
 adaderanalk | 5,144
-tamilmirrorlk | 5,692
+tamilmirrorlk | 5,693
 virakesarilk | 6,946
 adaderanasinhalalk | 7,489
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,802 (100.0%) of 43,805 articles have been extended.
+43,805 (100.0%) of 43,813 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,45 +50,75 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 [Data](articles/49d67c41.json)
 
+[Extended Data](ext_articles/49d67c41.ext.json)
+
 ---
 
-### බස්නාහිර සහ සබරගමුවට තද වැසි
+### Heavy rains for Western and Sabaragamuwa
 
 *2024-09-14 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201005) · `si`
 
-අද (14) බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains expected in Western, Sabaragamuwa, and North Western provinces. Thunderstorms possible with strong winds. Public advised to take precautions against flooding and landslides.
 
-එමෙන්ම බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ප්‍රදේශවලට මි.මී. 50ක පමන තරමක තද වැසි ඇතිවිය හැකිය.
+🟩
 
-ඌවපළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් දන්වා සිටියේ ය.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in the Western, Nuwara Eliya, Galle and Matara districts.
 
-මේ අතර මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත්, උතුරු, උතුරුමැද සහ වයඹ පළාත්වලත්, හම්බන්තොට,මොණරාගල සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින්විට පැ.කි.මී. 40-45ක පමණ තද සුළං ඇතිවිය හැකිය.
+Also, some areas in the Western and Sabaragamuwa provinces. Strong rain can occur about 50.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Showers or thundershowers will occur at several places in the UVal or Batticaloa districts, in the Batticaloa and Batticaloa Districts.
+
+Meanwhile, in the North, North and North Central and North Western provinces, Hambantota, Moneragala and Trincomalee districts, Hambantota, North Central and North Western Provinces.. There may be 40-45-strong winds.
+
+The Meteorological Department urges the public to take necessary steps to reduce temporary strong winds and lalnes due to thunderstorms.
 
 ◼️
 
 [Data](articles/1d9c723f.json)
 
+[Extended Data](ext_articles/1d9c723f.ext.json)
+
 ---
 
-### குரங்கம்மை தடுப்பூசிக்கு அனுமதி
+### வாக்காளர் அட்டை விநியோகம் இன்றுடன் நிறைவு
+
+*2024-09-14 06:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-இன்றுடன்-நிறைவு/175-343736) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான உத்தியோகபூர்வ வாக்காளர் அட்டைகளை வீடுகளுக்கு விநியோகிக்கும் பணி இன்றுடன் நிறைவுபெறும் என தபால் திணைக்களம் தெரிவித்துள்ளது.
+
+இதுவரை 80 வீத உத்தியோகபூர்வ வாக்காளர் அட்டைகளைகள் விநியோகிக்கப்பட்டுள்ளன என சிரேஷ்ட பிரதி தபால் மா அதிபர் ராஜித ரணசிங்க குறிப்பிட்டுள்ளார்.
+
+உத்தியோகபூர்வ வாக்காளர் அட்டைகள் கிடைக்கப்பெறாதவர்கள் எதிர்வரும் 18 ஆம் திகதி முதல் 21 ஆம் திகதி வரையான காலப்பகுதியில் அருகாமையிலுள்ள தபால் அலுவலகங்களில் ஆள் அடையாளத்தை உறுதிப்படுத்தி தமது வாக்காளர் அட்டையை பெற்றுக்கொள்ள முடியும் என அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/b72bd90b.json)
+
+---
+
+### Permit for the monkey vaccine
 
 *2024-09-14 06:02:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குரங்கம்மை-தடுப்பூசிக்கு-அனுமதி/50-343735) · `ta`
 
-ஆபிரிக்க நாடுகளில் குரங்கம்மை நோய் வேகமாக பரவி வருகிறது. இதுவரை 700 க்கும் மேற்பட்டோர் இந்த நோய் பாதிப்புக்கு பலியாகி உள்ளனர். கடந்த வாரம் மட்டும் 107 பேர் குரங்கம்மை பாதித்து உயிரிழந்தனர். தொடர்ந்து பரவி வருவது மற்றும் உயிரிழப்பு அதிகரிப்பதைத் தொடர்ந்து, நோய்த்தடுப்பு நடவடிக்கைகள் முடுக்கி விடப்பட்டுள்ளன.
+World Health Organization approves monkey vaccine for adults amid rapid disease spread in Africa. Vaccine production limited to one manufacturer, prompting calls for increased distribution to affected areas.
 
-இந்நிலையில் பெரியவர்கள் குரங்கம்மை நோய்க்கு எதிரான தடுப்பூசியை பயன்படுத்த உலக சுகாதார அமைப்பு அனுமதி வழங்கி உள்ளது.
+🟩
 
-இது ஆபிரிக்கா மற்றும் இதர நாடுகளில் குரங்கம்மை நோய்த்தடுப்பு நடவடிக்கையில் முக்கிய படி என்று உலக சுகாதார அமைப்பு கூறி உள்ளது.
+The disease is spreading rapidly in African countries. More than 700 people have suffered from the disease so far. Last week alone, 107 people died. Following the ongoing spread and increasing death, the immune system has accelerated.
 
-பவேரியன் நார்டிக் ஏ/எஸ் நிறுவனம் தயாரித்துள்ள இந்த தடுப்பூசியை கவி (GAVI) மற்றும் யுனிசெப் (UNICEF) போன்ற நன்கொடையாளர்கள் மட்டுமே வாங்க அனுமதி அளிக்கப்பட்டு இருக்கிறது. ஒரே ஒரு உற்பத்தியாளர் மட்டுமே இருப்பதால் தடுப்பூசி இருப்பு குறைவாகவே இருக்கிறது.
+In this case, the World Health Organization has granted permission to use the vaccine against adults.
 
-நன்கொடையாளர்கள் தடுப்பூசியை கொள்முதல் செய்து உடனடியாக தேவைப்படும் பகுதியில் விரைவாக விநியோகம் செய்ய வேண்டும் என்று உலக சுகாதார அமைப்பின் தலைமை இயக்குநர் கோரிக்கை விடுத்துள்ளார். (a)
+The World Health Organization claims that this is a key step in the immune system in Africa and other countries.
+
+The vaccine produced by the Bavarian Nordic A /S is only allowed to be purchased by donors such as Gavi and UNICEF.. Vaccination balance is low because there is only one manufacturer.
+
+The Chief Director of the World Health Organization has demanded that the donors buy the vaccine and immediately distribute the area in need.. (A)
 
 ◼️
 
 [Data](articles/c3cc3a8e.json)
+
+[Extended Data](ext_articles/c3cc3a8e.ext.json)
 
 ---
 
@@ -253,6 +283,80 @@ The hearing on the petition will be carried out on the 18th and has ordered the 
 [Data](articles/0a5dec5a.json)
 
 [Extended Data](ext_articles/0a5dec5a.ext.json)
+
+---
+
+### CEAT Kelani Holdings rated AA+ by Fitch for 4th successive year
+
+*2024-09-14 01:53:00* · [`islandlk`](http://island.lk/ceat-kelani-holdings-rated-aa-by-fitch-for-4th-successive-year/) · `en`
+
+Sri Lanka’s leading tyre manufacturer CEAT Kelani Holdings (CKH) has been assigned a National Long-Term rating of ‘AA+(lka)/Outlook Stable’ by Fitch Ratings for a fourth consecutive year, a rating Fitch said is supported by CEAT’s sustained leadership in the domestic pneumatic tyre manufacturing industry and the resilience of its financial profile.
+
+In its announcement, Fitch Ratings said: “The Stable Outlook reflects Fitch’s belief in CKH’s ability to retain its market share despite increasing competition from imported tyres. It also indicates our expectation CKH will maintain adequate credit metrics and liquidity, even during periods of intensive investment.”
+
+...
+
+[Data](articles/a4b1d72e.json)
+
+---
+
+### HUTCH Sri Lanka leads the way to ensure safe browsing for children
+
+*2024-09-14 01:52:00* · [`islandlk`](http://island.lk/hutch-sri-lanka-leads-the-way-to-ensure-safe-browsing-for-children/) · `en`
+
+In an era where the internet shapes every aspect of our lives, from learning and communication to entertainment and beyond, its influence is undeniable. However, with this vast digital reach comes the critical responsibility to ensure safe and responsible usage, especially for children who are increasingly connected to the online world. As adults, we are well aware of the dangers that lurk online in the form of harmful content, individuals with malicious intent, and the risks associated with in-app purchases. These dangers are a constant threat to unsupervised children as they explore the internet.
+
+...
+
+[Data](articles/8d152c7d.json)
+
+---
+
+### SriLankan Airlines’ ‘Colours of Jaffna’ campaign wins PATA Gold Award
+
+*2024-09-14 01:24:00* · [`islandlk`](http://island.lk/srilankan-airlines-colours-of-jaffna-campaign-wins-pata-gold-award/) · `en`
+
+SriLankan Airlines bagged a Gold Award in the category of “Marketing-Carrier” at the Pacific Asia Travel Association (PATA) Gold Awards 2024, held in Bangkok on 28 August 2024, reaffirming the global appeal of its marketing communication endeavours. The campaign, “Colours of Jaffna,” is the first marketing campaign by any Sri Lankan entity to exclusively spotlight the island’s vibrant north. The timeliness of the campaign is further reinstated with CNN naming Jaffna as one of Asia’s most underrated places recently.
+
+This year, PATA honoured 24 travel and tourism entities out of 100 entries from around the world, as judged by a panel of 23 industry experts.
+
+One of the most successful campaigns ever to have been executed in the airline’s history, ‘Colours of Jaffna’ garnered a reach of over 14,000,000 across social media platforms with over 500,000 engagements.
+
+...
+
+[Data](articles/56c68633.json)
+
+---
+
+### LTL Holdings not to proceed with planned IPO, but market indices move upward
+
+*2024-09-14 01:21:00* · [`islandlk`](http://island.lk/ltl-holdings-not-to-proceed-with-planned-ipo-but-market-indices-move-upward/) · `en`
+
+The planned IPO of LTL Holdings would not proceed pending clarification on new information, the CSE sources said yesterday.
+
+“In this regard, the CSE has required LTL to provide additional information/clarifications to the CSE for review,” the statement said.
+
+“In view of the aforesaid new information, the Board of Directors of the CSE noted that such information should have been disclosed in the prospectus issued by LTL, they said.
+
+The stock market bounced back yesterday after experiencing a downfall during the past few trading days after the IMF announced that they were expecting to negotiate with the new government after the presidential election, market analysts said.
+
+...
+
+[Data](articles/b4b17426.json)
+
+---
+
+### “Climate Challenge SL” invites data professionals to a first ever hackathon aimed at generating innovative data-driven solutions
+
+*2024-09-14 01:20:00* · [`islandlk`](http://island.lk/climate-challenge-sl-invites-data-professionals-to-a-first-ever-hackathon-aimed-at-generating-innovative-data-driven-solutions/) · `en`
+
+With the support of United States Agency for International Development (USAID), and in partnership with the Climate Collective Foundation (CCF), Lanka Impact Investment Network (LIIN), is proud to announce the launch of Sri Lanka’s first-ever data hackathon, “Climate Challenge SL”. This hackathon aims to revolutionize the agriculture and fisheries sectors, by addressing climate change related impacts through innovative data-driven solutions.
+
+Data professionals from across the country are called to apply for “Climate Challenge SL” before October 31, 2024. Primarily a youth-focused initiative, aiming to encourage more youth to engage in climate action, anyone from any part of the country is invited to apply.
+
+...
+
+[Data](articles/50a826d0.json)
 
 ---
 
@@ -449,6 +553,22 @@ Meanwhile, Dissanayake won the gold medal for Sri Lanka in men's thirties. He re
 [Data](articles/50e01063.json)
 
 [Extended Data](ext_articles/50e01063.ext.json)
+
+---
+
+### Sri Lanka Lifts Import Restrictions on Motor Vehicles Effective October 1, 2024
+
+*2024-09-13 23:44:00* · [`islandlk`](http://island.lk/sri-lanka-lifts-import-restrictions-on-motor-vehicles-effective-october-1-2024/) · `en`
+
+The government has announced the lifting of the temporary suspension on motor vehicle imports, effective October 1, 2024. This decision comes after over four years of stringent import restrictions that were initially imposed to safeguard the country’s foreign exchange reserves during the economic crisis.
+
+The import ban, introduced in March 2020, was aimed at curbing the outflow of foreign exchange amidst the country’s deepening economic troubles. With the ban now lifted, Sri Lanka will begin importing motor vehicles again, starting in stages, as part of a broader economic recovery strategy tied to the Extended Fund Facility (EFF) Programme of the International Monetary Fund (IMF).
+
+Having considered the current economic and environmental factors, the government has decided to make the following proposals for the consideration of the Cabinet of Ministers:
+
+...
+
+[Data](articles/e3101c37.json)
 
 ---
 
@@ -2187,175 +2307,5 @@ The 'Involved' program organized to ensure that Ranil Wickremesinghe was organiz
 [Data](articles/8369d5ec.json)
 
 [Extended Data](ext_articles/8369d5ec.ext.json)
-
----
-
-### Indian arrested at BIA for smuggling medicine worth Rs. 2.5 million
-
-*2024-09-13 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101942/indian-arrested-at-bia-for-smuggling-medicine-worth-rs-25-million) · `en`
-
-An Indian national has been arrested for illegally smuggling a stock of medicinal drugs including cancer medication into Sri Lanka.
-
-The arrest was made by Sri Lanka Customs officers at the Bandaranaike International Airport (BIA) following the suspect’s arrival from Bangalore, India.
-
-He is reported to have smuggled drugs worth approximately Rs. 2.5 million into Sri Lanka. Meanwhile, it has been revealed that the suspect has been involved in smuggling medicines in his luggage and selling them to private pharmacies and hospitals across the country.
-
-The smuggled drugs reportedly include vials of medications for prostate cancer patients and drugs used to improve women’s fertility.
-
-◼️
-
-[Data](articles/7cd3561f.json)
-
-[Extended Data](ext_articles/7cd3561f.ext.json)
-
----
-
-### Sri Lanka to lift all vehicle import restrictions by February 2025: Minister
-
-*2024-09-13 13:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lift-all-vehicle-import-restrictions-by-february-2025-minister-179540/) · `en`
-
-ECONOMYNEXT – Sri Lanka will lift all vehicle import bans and restrictions by February 2025, its Minister of Foreign Affairs and Justice M U M Ali Sabry has said.
-
-“With the significant improvement in forex reserves and the strength of the rupee, the Cabinet of Ministers has decided to lift all vehicle import ban/restrictions by February 2025. This decision is part of our ongoing efforts to restore normalcy in the economy and meet the needs of our people,” Sabry said on X (twitter).
-
-Sri Lanka introduced import restrictions on many goods, and banned vehicle imports, due to a foreign exchange crisis in 2022.
-
-"With the significant improvement in forex reserves and the strength of the rupee, the Cabinet of Ministers has decided to lift all vehicle import ban/restrictions by February 2025. This decision is part of our ongoing efforts to restore normalcy in the economy and meet the needs…
-
-...
-
-[Data](articles/2d27fe62.json)
-
-[Extended Data](ext_articles/2d27fe62.ext.json)
-
----
-
-### Sri Lanka cabinet nod for separate energy regulator, cadre revisal, new salary structure
-
-*2024-09-13 13:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-separate-energy-regulator-cadre-revisal-new-salary-structure-179539/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s cabinet of ministers has approved proposals for a separate energy sector regulator, revisal of cadre and a new salary structure, Power & Energy Minister Kanchana Wijesekara said.
-
-Wijesekara tweeted Friday September 13 afternoon that the cabinet has approved proposals to establish a separate regulator for the energy sector, to revise carder in the state-run Ceylon Electricity Board (CEB) and the Ceylon Petroleum Corporation (CPC) and implement a new salary, allowances and incentives structure for the CEB, CPC and the Ceylon Petroleum Storage Terminals LTD.
-
-According to the minister, the new energy regulator will oversee oil and gas pricing and standards therein based on an experts’ committee report.
-
-The proposed new salary structure and the performance based allowances and incentives scheme for CEB, CPC and CPSTL comes into effect from August 01, 2024, he said.
-
-...
-
-[Data](articles/ea1d3d1e.json)
-
-[Extended Data](ext_articles/ea1d3d1e.ext.json)
-
----
-
-### The only candidate of the people is the only candidate for the people - weakumya
-
-*2024-09-13 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200978) · `si`
-
-Weerasumana Weerasinghe: Only presidential candidate providing accurate assets. Dilith Jayaweera chosen as honest leader. Country needs truthful leadership.
-
-🟩
-
-Parliamentarian Weerasumana Weerasinghe says that the only presidential candidate to the public is the only president of the presidential candidate to the public by providing the accurate asset liabilities.
-
-He was opening of the Matara Weligama Party in Matara under the patronage of MP Weewiyanayake Weerasinghe yesterday (12).
-
-Anuradha Mahinda Rajapaksa's Vasabha, Party People's Party, was also present at the occasion.
-
-"I invited me from other parties and do politics with them. But we are people on a policy. People love the country. So we didn't go to this. The teams of corrupt politics are joining us, because we see corruption pages. There is a leadership with the difference that you can make confidence in the exangerative power. Mr. Dilith Jayaweera ".
-
-The executive council executive speaking at the meeting. And. Mr. Weerasumana Weerasinghe,
-
-"We show the choice of Dilith Jayaweera camp.. That is why our country needs a leader.
-
-...
-
-[Data](articles/06548a64.json)
-
-[Extended Data](ext_articles/06548a64.ext.json)
-
----
-
-### Three -wheeler collided with a train
-
-*2024-09-13 13:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்துடன்-மோதிய-முச்சக்கர-வண்டி-இருவர்-பலி/175-343716) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Two persons died after a three-wheeler crashed into a train at a railway crossing in Ratgama and Wijeratne Mawatha. The incident was confirmed by Deputy Inspector General of Police Nihal Talduwa."
-
-🟩
-
-Two persons were killed when a three -wheeler collided with a train in Ratgama and Wijeratne Mawatha.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa says that the accident occurred at Ratgama and Wijeratne Mawatha railway crossing.. Remble
-
-◼️
-
-[Data](articles/68306d96.json)
-
-[Extended Data](ext_articles/68306d96.ext.json)
-
----
-
-### Italy citizens who illegally collected rare insect species
-
-*2024-09-13 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193571) · `ta`
-
-Italian father-son duo fined €150,000 for illegally collecting 92 butterfly species in Sri Lanka's Yala National Park. They planned to use chemicals to preserve the insects. Wildlife crimes carry hefty penalties in the country.
-
-🟩
-
-Foreign citizens who have collected rare species of insect species, including 92 types of butterflies from the national park, have been fined 6 crore ($ 200,000; euro 150,000).
-
-Luke Ferrari, a 68 -year -old father from Italy, and his 28 -year -old son, Matik, have been fined.
-
-They were arrested by Yala National Park guards on May 8 with the insect species that had reached glass bottles.
-
-Investigations have revealed that they were planning to use wax bags to protect them with chemicals and chemicals.
-
-They were declared guilty at the beginning of September for illegally collecting, kept and transporting insect species. It is also worth noting that wildlife crimes in the country have been fined.
-
-◼️
-
-[Data](articles/f6f103fe.json)
-
-[Extended Data](ext_articles/f6f103fe.ext.json)
-
----
-
-### If I am president, we will create a higher taxpayer for the rich - Sajith to the International Media
-
-*2024-09-13 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/193573) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sajit Premadasa proposes higher taxes for the rich if elected president. He aims to renegotiate IMF agreements to shift tax burden from public to wealthy. Criticizes current president's economic policies, seeking solutions through export-based economy.
-
-🟩
-
-United People's Power Presidential candidate Sajit Breadasa says that if I am the president, the wealthy will be a high taxation.
-
-He said that if I be the president, I will change the agreement with the International Monetary Fund to make the wealthy more paid, ”he said.
-
-Reforms were introduced after Sri Lanka was forced to pay its foreign loans and faced an unprecedented economic crisis in its history.
-
-In an interview with the Associated Presentation, Sajit Premadasa noted that his party has already begun negotiations with international monetary funds to reduce the tax burden faced by the public.
-
-He said the basis of the International Monetary Fund and the Government of Sri Lanka should make fundamental changes, but it should be carried out in a humanitarian manner to reduce the burden on the people.
-
-Sajitpremadasa has told the international media that if the masses are to be imposed on the public, the majority of those burdens should bear the greatest wealthy and rich.
-
-...
-
-[Data](articles/a63e7c7a.json)
-
-[Extended Data](ext_articles/a63e7c7a.ext.json)
 
 ---

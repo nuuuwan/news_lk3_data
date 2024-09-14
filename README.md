@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 03:22:32**
+As of **2024-09-15 03:37:58**
 
 ## Newspaper Stats
 
-*Scraped **43,915** Articles*
+*Scraped **43,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
 adaderanalk | 5,168
-tamilmirrorlk | 5,703
+tamilmirrorlk | 5,705
 virakesarilk | 6,966
 adaderanasinhalalk | 7,516
 
@@ -26,9 +26,65 @@ adaderanasinhalalk | 7,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,915 (100.0%) of 43,915 articles have been extended.
+43,917 (100.0%) of 43,917 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-15 (Sunday)
+
+### Modi named the calf
+
+*2024-09-15 03:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கன்றுக்-குட்டிக்குப்-பெயர்-சூட்டினார்-மோடி/175-343760) · `ta`
+
+Here's a 200-character summary:
+
+
+
+PM Modi names calf, posts video. Takes calf to pooja room, wears shawl. Names calf "fire" due to white mark on forehead.
+
+🟩
+
+Prime Minister Narendra Modi has posted a flexible video of the cow -curse that is maintained at his residence.
+
+In addition, Prime Minister Modi took the calf to his pooja room and wore a shawl.
+
+The Prime Minister also noted that the fire of the calf has been named as a fire as the light is white -like white on the forehead.. (A)
+
+◼️
+
+[Data](articles/03dc5d23.json)
+
+[Extended Data](ext_articles/03dc5d23.ext.json)
+
+---
+
+### Media Meeting from astronaut
+
+*2024-09-15 02:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விண்வெளியிலிருந்து-ஊடக-சந்திப்பு/50-343759) · `ta`
+
+NASA astronauts Sunita Williams and Pudch Wilmore join ISS media briefing after unexpected stay due to spacecraft issues. They express happiness about being in space but concern for families and pets. Return delayed until Feb 2025 for security reasons.
+
+🟩
+
+NASA astronauts Sunita Williams and Pudch Wilmore joined the direct media briefing at the International Space Station.
+
+The two joined the space yesterday (13) at midnight.
+
+Putch Wilmore said he had trained to handle all kinds of circumstances.
+
+Sunita Williams said she was happy in space and was worried that her family and 2 dog cubs were worried.
+
+Due to the problems of the spacecraft, they were staying at the International Space Station unexpectedly.
+
+NASA recently confirmed that the return of astronauts for security reasons will be delayed until February 2025. (A)
+
+◼️
+
+[Data](articles/acf4101a.json)
+
+[Extended Data](ext_articles/acf4101a.ext.json)
+
+---
 
 ### 2024-09-14 (Saturday)
 
@@ -2293,53 +2349,5 @@ It is reported that they will engage in election monitoring from the 18th of thi
 [Data](articles/366014f0.json)
 
 [Extended Data](ext_articles/366014f0.ext.json)
-
----
-
-### Voter card distribution is completed today
-
-*2024-09-14 06:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-இன்றுடன்-நிறைவு/175-343736) · `ta`
-
-Voter card distribution complete today: 80% delivered. Remaining cards available at local post offices from 18th to 21st.
-
-🟩
-
-The Postal Department said that the process of distributing official voter cards to homes for the upcoming presidential election will be completed today.
-
-Senior Deputy Post Office Rajitha Ranasinghe has stated that 80 percent of the official voter cards have been distributed so far.
-
-Those who have not received official voter cards can get their voter card from the postal offices in the adjoining post offices from the 18th to the 21st of this month.. (A)
-
-◼️
-
-[Data](articles/b72bd90b.json)
-
-[Extended Data](ext_articles/b72bd90b.ext.json)
-
----
-
-### Permit for the monkey vaccine
-
-*2024-09-14 06:02:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குரங்கம்மை-தடுப்பூசிக்கு-அனுமதி/50-343735) · `ta`
-
-World Health Organization approves monkey vaccine for adults amid rapid disease spread in Africa. Vaccine production limited to one manufacturer, prompting calls for increased distribution to affected areas.
-
-🟩
-
-The disease is spreading rapidly in African countries. More than 700 people have suffered from the disease so far. Last week alone, 107 people died. Following the ongoing spread and increasing death, the immune system has accelerated.
-
-In this case, the World Health Organization has granted permission to use the vaccine against adults.
-
-The World Health Organization claims that this is a key step in the immune system in Africa and other countries.
-
-The vaccine produced by the Bavarian Nordic A /S is only allowed to be purchased by donors such as Gavi and UNICEF.. Vaccination balance is low because there is only one manufacturer.
-
-The Chief Director of the World Health Organization has demanded that the donors buy the vaccine and immediately distribute the area in need.. (A)
-
-◼️
-
-[Data](articles/c3cc3a8e.json)
-
-[Extended Data](ext_articles/c3cc3a8e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 09:57:22**
+As of **2024-09-14 10:09:52**
 
 ## Newspaper Stats
 
-*Scraped **43,820** Articles*
+*Scraped **43,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 2,675
 dailyftlk | 2,920
 adalk | 4,054
 dailymirrorlk | 4,733
-adaderanalk | 5,147
+adaderanalk | 5,148
 tamilmirrorlk | 5,694
 virakesarilk | 6,946
-adaderanasinhalalk | 7,491
+adaderanasinhalalk | 7,492
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,820 (100.0%) of 43,820 articles have been extended.
+43,822 (100.0%) of 43,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Dilith says the agricultural building strategy
+
+*2024-09-14 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201008) · `si`
+
+Dilith Jayaweera proposes agricultural building strategy in his campaign. He aims to improve farmers' livelihoods through better pricing and increased income. The strategy focuses on promoting scientific farming methods and supporting local entrepreneurs.
+
+🟩
+
+The president presidential candidate Dilith Jayaweera says that the agricultural building strategy is in its strategic plan.
+
+He was speaking at a public meeting held at the Kaduruwela Bus Stand at the Kaduruwela Bus Stand at the Kaduruwela bus stand in the Kaduruwela Bus Stand at the Kaduruwela Bus Stand at the Kaduruwela bus stand in the Kaduruwela bus stand in the Polonnaruwa.
+
+"When I am addressing you, two years ago, the agricultural can't be gone to the tune, but it should be taken to the farmer of agriculture. They can't be grieved every day, we can be pleased. 2 percent, 3 percent in this country and 3. Nearly 30 percent in the country should be restored by the dear citizens of agriculture and change their standard of living. That is why we propose to relocate this farmer as farmers and increase their income.
+
+Mr. Dilith Jayaweera stated that the scientific method is being promoted by the farmer quality of the farmer.
+
+...
+
+[Data](articles/78cb6d41.json)
+
+[Extended Data](ext_articles/78cb6d41.ext.json)
+
+---
+
+### WHO grants first mpox vaccine approval to ramp up response to disease in Africa
+
+*2024-09-14 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101959/who-grants-first-mpox-vaccine-approval-to-ramp-up-response-to-disease-in-africa) · `en`
+
+The World Health Organization said Friday it has granted its first authorization for use of a vaccine against mpox in adults, calling it an important step toward fighting the disease in Africa.
+
+The approval of the vaccine made by Bavarian Nordic A/S means that donors like vaccines alliance Gavi and UNICEF can buy it. But supplies are limited because there’s only a single manufacturer.
+
+“This first (authorization) of a vaccine against mpox is an important step in our fight against the disease, both in the context of the current outbreaks in Africa, and in future,” said WHO Director-General Tedros Adhanom Ghebreyesus.
+
+WHO also said it was creating an “access and allocation mechanism” to try to fairly distribute mpox tests, treatments and vaccines to the countries who need them most.
+
+...
+
+[Data](articles/90143928.json)
+
+[Extended Data](ext_articles/90143928.ext.json)
+
+---
 
 ### Speaker endorses certificate on two Bills
 
@@ -2273,49 +2317,5 @@ The driver of the Panadura Division was arrested by the Panadura Division Crimin
 [Data](articles/f78358cf.json)
 
 [Extended Data](ext_articles/f78358cf.ext.json)
-
----
-
-### Resolution to remove barrier for vehicle imports
-
-*2024-09-13 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/193589) · `ta`
-
-Cabinet removes vehicle import ban in Feb 2025 due to increased forex reserves and currency value.
-
-🟩
-
-External Affairs Minister Alisabri said the Cabinet has decided to remove the import ban for all vehicles in February next year (2025).
-
-The Foreign Minister said that the decision was made on the basis of a significant increase in foreign exchange reserves and an increase in the value of the rupee.
-
-◼️
-
-[Data](articles/ab67fd9b.json)
-
-[Extended Data](ext_articles/ab67fd9b.ext.json)
-
----
-
-### Army is appointed new Staff
-
-*2024-09-13 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200985) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Major General Dinesh Nanayakkara appointed Chief of Sri Lanka Army. Effective September 16, appointed by Commander of the Army.
-
-🟩
-
-Major General Dinesh Nanayakkara has been appointed as the Chief of Sri Lanka Army.
-
-The Army Commander has been appointed by the Commander of the Army to be effective from September 16.
-
-◼️
-
-[Data](articles/fe955cc2.json)
-
-[Extended Data](ext_articles/fe955cc2.ext.json)
 
 ---

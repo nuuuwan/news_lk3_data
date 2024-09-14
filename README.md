@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 14:38:03**
+As of **2024-09-14 14:56:36**
 
 ## Newspaper Stats
 
-*Scraped **43,850** Articles*
+*Scraped **43,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 432
 islandlk | 2,566
 economynextcom | 2,676
 dailyftlk | 2,920
-adalk | 4,057
+adalk | 4,058
 dailymirrorlk | 4,733
 adaderanalk | 5,157
 tamilmirrorlk | 5,699
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,850 (100.0%) of 43,850 articles have been extended.
+43,850 (100.0%) of 43,851 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -217,6 +217,20 @@ The statement states that British officials have been accused of persuading the 
 [Data](articles/57c63cbb.json)
 
 [Extended Data](ext_articles/57c63cbb.ext.json)
+
+---
+
+### 05 වසර ශිෂ්‍යත්ව විභාගය හෙට -  දේශපාලන පක්ෂ වලට විශේෂ ඉල්ලීමක්
+
+*2024-09-14 12:46:26* · [`adalk`](https://www.ada.lk/breaking_news/05-වසර-ශිෂ්‍යත්ව-විභාගය-හෙට----දේශපාලන-පක්ෂ-වලට-විශේෂ-ඉල්ලීමක්/11-411943) · `si`
+
+05 වසර ශිෂ්‍යත්ව විභාගය හෙට(15දා) නියමිත පරිදි පැවැත්වෙන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+ඒ් අනුව විභාගය පැවැත්වෙන කාල සීමාව තුළ 2024 ජනාධිපතිවරණයට අදාළ ප්‍රචාරණ කටයුතු විභාග මධ්‍යස්ථාන අසල සිදු කිරීමෙන් වලකින ලෙස සියලු පක්ෂ වලින් ඉල්ලීමන් කරන බවද අද(14දා) පැවති මාධ්‍ය හමුවකය එක්වෙමින් ඒ් මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b670d25b.json)
 
 ---
 
@@ -2221,25 +2235,5 @@ According to the proposal, the taxes that are currently charged from each pay ra
 [Data](articles/1ae77f34.json)
 
 [Extended Data](ext_articles/1ae77f34.ext.json)
-
----
-
-### Sri Lanka GDP grows 4.7-pct in 2024 second quarter
-
-*2024-09-13 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-gdp-grows-4-7-pct-in-2024-second-quarter-179590/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross domestic product grew 4.7 percent in the second quarter of 2024, helped by low inflation and strong exchange rates, the state statistics office said.
-
-Agriculture grew 1.7 percent, industry 10.9 percent and service 2.5 percent.
-
-Stronger tourist arrivals and higher rainfall which increased the value added in electricity also helped increase GDP, the statistics office said.
-
-Construction sector returned with 15.5 percent growth with manufacturing growing 7 percent. (Colombo/Aug14/2024)
-
-◼️
-
-[Data](articles/49577836.json)
-
-[Extended Data](ext_articles/49577836.ext.json)
 
 ---

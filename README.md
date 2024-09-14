@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 06:28:45**
+As of **2024-09-14 07:04:39**
 
 ## Newspaper Stats
 
-*Scraped **43,802** Articles*
+*Scraped **43,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 2,675
 dailyftlk | 2,920
 adalk | 4,053
 dailymirrorlk | 4,733
-adaderanalk | 5,143
-tamilmirrorlk | 5,691
+adaderanalk | 5,144
+tamilmirrorlk | 5,692
 virakesarilk | 6,946
-adaderanasinhalalk | 7,488
+adaderanasinhalalk | 7,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,802 (100.0%) of 43,802 articles have been extended.
+43,802 (100.0%) of 43,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-09-14 06:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101955/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says that showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts today (14).
+
+Meanwhile, fairly heavy showers about 50 mm are likely at some places in Western and Sabaragamuwa provinces, it added.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night.
+
+Furthermore, the Met. Department stated that strong winds about 40-45kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/49d67c41.json)
+
+---
+
+### බස්නාහිර සහ සබරගමුවට තද වැසි
+
+*2024-09-14 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201005) · `si`
+
+අද (14) බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ප්‍රදේශවලට මි.මී. 50ක පමන තරමක තද වැසි ඇතිවිය හැකිය.
+
+ඌවපළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් දන්වා සිටියේ ය.
+
+මේ අතර මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත්, උතුරු, උතුරුමැද සහ වයඹ පළාත්වලත්, හම්බන්තොට,මොණරාගල සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින්විට පැ.කි.මී. 40-45ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/1d9c723f.json)
+
+---
+
+### குரங்கம்மை தடுப்பூசிக்கு அனுமதி
+
+*2024-09-14 06:02:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குரங்கம்மை-தடுப்பூசிக்கு-அனுமதி/50-343735) · `ta`
+
+ஆபிரிக்க நாடுகளில் குரங்கம்மை நோய் வேகமாக பரவி வருகிறது. இதுவரை 700 க்கும் மேற்பட்டோர் இந்த நோய் பாதிப்புக்கு பலியாகி உள்ளனர். கடந்த வாரம் மட்டும் 107 பேர் குரங்கம்மை பாதித்து உயிரிழந்தனர். தொடர்ந்து பரவி வருவது மற்றும் உயிரிழப்பு அதிகரிப்பதைத் தொடர்ந்து, நோய்த்தடுப்பு நடவடிக்கைகள் முடுக்கி விடப்பட்டுள்ளன.
+
+இந்நிலையில் பெரியவர்கள் குரங்கம்மை நோய்க்கு எதிரான தடுப்பூசியை பயன்படுத்த உலக சுகாதார அமைப்பு அனுமதி வழங்கி உள்ளது.
+
+இது ஆபிரிக்கா மற்றும் இதர நாடுகளில் குரங்கம்மை நோய்த்தடுப்பு நடவடிக்கையில் முக்கிய படி என்று உலக சுகாதார அமைப்பு கூறி உள்ளது.
+
+பவேரியன் நார்டிக் ஏ/எஸ் நிறுவனம் தயாரித்துள்ள இந்த தடுப்பூசியை கவி (GAVI) மற்றும் யுனிசெப் (UNICEF) போன்ற நன்கொடையாளர்கள் மட்டுமே வாங்க அனுமதி அளிக்கப்பட்டு இருக்கிறது. ஒரே ஒரு உற்பத்தியாளர் மட்டுமே இருப்பதால் தடுப்பூசி இருப்பு குறைவாகவே இருக்கிறது.
+
+நன்கொடையாளர்கள் தடுப்பூசியை கொள்முதல் செய்து உடனடியாக தேவைப்படும் பகுதியில் விரைவாக விநியோகம் செய்ய வேண்டும் என்று உலக சுகாதார அமைப்பின் தலைமை இயக்குநர் கோரிக்கை விடுத்துள்ளார். (a)
+
+◼️
+
+[Data](articles/c3cc3a8e.json)
+
+---
 
 ### Discounts of criminal cases against Trump
 
@@ -2297,71 +2357,5 @@ Sajitpremadasa has told the international media that if the masses are to be imp
 [Data](articles/a63e7c7a.json)
 
 [Extended Data](ext_articles/a63e7c7a.ext.json)
-
----
-
-### Happy fell in Kilinochchi to Ranil
-
-*2024-09-13 13:00:49* · [`adalk`](https://www.ada.lk/opinion/රනිල්ට-කිලිනොච්චියේ-දී-වැටුණු-තොප්පිය/2-411933) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Presidential election in Sri Lanka: Ranil Wickremesinghe campaigns independently, facing competition from Sajith Premadasa and Anura Kumara Dissanayake. Social media plays a significant role in the campaign, with biased surveys influencing voters. Candidates focus on economic development and addressing national issues.
-
-🟩
-
-The presidential election is for another 8 days. There are only five candidates in the presidential campaign, despite 39 presidential candidates in the ground.
-
-The President seems to have been fighting against the Presidential president of the President and the presidential candidate Sajith Premadasa president and the presidential candidate of the opposition leader Anura Kumara Dissanayake.
-
-Social media coastal presidential election has come to the presidential election that has never been ever before, and some social media coins have done various surveys at the seat level.. It is reported that these surveys have been biased into the political parties due to the fact that these surveys were conducted properly.
-
-However, Ranil, Sajith holds political meetings throughout the presidential election throughout the country, and their partners and supporters have been enthusiastically engaged in presidential propaganda.
-
-...
-
-[Data](articles/c4c0237b.json)
-
-[Extended Data](ext_articles/c4c0237b.ext.json)
-
----
-
-### 100,000 public and private sector jobs with economic growth
-
-*2024-09-13 12:56:55* · [`adalk`](https://www.ada.lk/picture_story/ආර්ථික-දියුණුවත්-සමඟ-රාජ්‍ය-හා-පෞද්ගලික-අංශයේ-රැකියා-100-000ක්/10-411932) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe announces plans for 100,000 new jobs in public and private sectors. He promotes vocational training and establishment of new educational institutions to meet growing demand for skilled workers in a developing economy.
-
-🟩
-
-President Ranil Wickremesinghe said that the youths will establish many new educational institutions in the country, educating young people to achieve higher education opportunities in accordance with global standards.
-
-The President was addressing the festival at the Galle Face Hotel in Colombo on the inauguration of the Times School of High-of High-of High-Education High School.
-
-The Times of Higher Education has launched a subsidiary of Vijaya Newspaper Company Limited and the SLSI is conducting education in accordance with international standards in accordance with international standards.
-
-A wide range of employment opportunities are maintained here, according to the main categories of employment, Diploma and Higher Diploma Courses, as well as postgraduate programs.
-
-...
-
-[Data](articles/204f938d.json)
-
-[Extended Data](ext_articles/204f938d.ext.json)
-
----
-
-### 2024 A/L exam to commence on Nov. 25
-
-*2024-09-13 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101941/2024-al-exam-to-commence-on-nov-25) · `en`
-
-The Commissioner General of Examinations Amith Jayasundara has announced that the 2024 G.C.E. Advanced Level examination will be held from November 25 to December 20, 2024.
-
-◼️
-
-[Data](articles/54bcef65.json)
-
-[Extended Data](ext_articles/54bcef65.ext.json)
 
 ---

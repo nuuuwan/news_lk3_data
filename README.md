@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 09:09:07**
+As of **2024-09-14 09:22:16**
 
 ## Newspaper Stats
 
-*Scraped **43,817** Articles*
+*Scraped **43,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 432
 islandlk | 2,564
 economynextcom | 2,675
 dailyftlk | 2,920
-adalk | 4,053
+adalk | 4,054
 dailymirrorlk | 4,733
 adaderanalk | 5,146
 tamilmirrorlk | 5,694
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,490
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,817 (100.0%) of 43,817 articles have been extended.
+43,818 (100.0%) of 43,818 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -927,6 +927,32 @@ He was speaking at the Moneragala morning today (13).
 [Data](articles/cc56eaba.json)
 
 [Extended Data](ext_articles/cc56eaba.ext.json)
+
+---
+
+### Pregnant mother falls in three wheelers
+
+*2024-09-13 21:58:29* · [`adalk`](https://www.ada.lk/breaking_news/ගැබිනි-මවක්-ත්‍රීරෝද-රථයක-ගැටී-මරුට/11-411937) · `si`
+
+Pregnant woman dies in three-wheeler crash in Hambantota. Driver arrested. Child survives but injured.
+
+🟩
+
+The Hambantota Police have been killed in a three-wheeler in the palletha road in Hambantota main road.
+
+The deceased has been identified as 23 such 23rd, a resident of the Pallamalawela area in Pallamala area, Madumania. The accident had taken place while he was on the road with a boy with her two and a half and a half years old.
+
+The accident had occurred when a three-wheeler from Hambantota has come out of the road and the child.
+
+The injured woman was admitted to the Hambantota District General Hospital, hospital sources said she had already died.. The dead woman has not been able to save the child in the womb. The young child who traveled with the woman was injured and hospitalized.
+
+The driver of the three-wheeler has been arrested by the police and conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/44b2c9d9.json)
+
+[Extended Data](ext_articles/44b2c9d9.ext.json)
 
 ---
 
@@ -2293,29 +2319,5 @@ July Kosak added, "First, the uprolling election, of course, it is something to 
 [Data](articles/cc116ccb.json)
 
 [Extended Data](ext_articles/cc116ccb.ext.json)
-
----
-
-### Sri Lanka to lift all vehicle import restrictions by February 2025
-
-*2024-09-13 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101944/sri-lanka-to-lift-all-vehicle-import-restrictions-by-february-2025) · `en`
-
-Sri Lanka’s Cabinet of Ministers has decided to lift all vehicle import restrictions by February 2025, according to Foreign Minister Ali Sabry.
-
-“With the significant improvement in forex reserves and the strength of the rupee, the Cabinet of Ministers has decided to lift all vehicle import ban/restrictions by February 2025,” he said.
-
-“This decision is part of our ongoing efforts to restore normalcy in the economy and meet the needs of our people,” the minister said in a post on ‘X’ (formerly Twitter).
-
-The government of Sri Lanka had decided to suspend vehicle imports in 2021 due to the economic crisis triggered by the Covid-19 pandemic.
-
-As the severe economic crisis continued to persist, authorities decided to further continue with the restrictions on vehicle imports.
-
-Meanwhile, in June, the Ministry of Finance had announced a plan to gradually lift the restrictions by 2025.
-
-◼️
-
-[Data](articles/140e9b30.json)
-
-[Extended Data](ext_articles/140e9b30.ext.json)
 
 ---

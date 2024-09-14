@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 09:38:08**
+As of **2024-09-14 09:57:22**
 
 ## Newspaper Stats
 
-*Scraped **43,818** Articles*
+*Scraped **43,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 2,675
 dailyftlk | 2,920
 adalk | 4,054
 dailymirrorlk | 4,733
-adaderanalk | 5,146
+adaderanalk | 5,147
 tamilmirrorlk | 5,694
 virakesarilk | 6,946
-adaderanasinhalalk | 7,490
+adaderanasinhalalk | 7,491
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,818 (100.0%) of 43,818 articles have been extended.
+43,820 (100.0%) of 43,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Speaker endorses certificate on two Bills
+
+*2024-09-14 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101958/speaker-endorses-certificate-on-two-bills) · `en`
+
+The Speaker of Parliament Mahinda Yapa Abeywardana has endorsed the certificate on the Reciprocal Recognition, Registration and Enforcement of Foreign Judgements Bill and the Code of Criminal Procedure (Amendment) Bill yesterday (13), in accordance with Article 79 of the Constitution.
+
+These Bills were passed following the second reading debate held in Parliament on September 3.
+
+The Reciprocal Recognition, Registration and Enforcement of Foreign Judgements Bill provides for the recognition, registration, and enforcement in Sri Lanka of foreign court judgments. It also repeals the Enforcement of Foreign Judgments Ordinance (Chapter 93) and the Reciprocal Enforcement of Judgments Ordinance (Chapter 94).
+
+The Bill will now be known as the Reciprocal Recognition, Registration and Enforcement of Foreign Judgements Act No. 49 of 2024.
+
+...
+
+[Data](articles/9584155b.json)
+
+[Extended Data](ext_articles/9584155b.ext.json)
+
+---
+
+### Increase in presidential election complaints
+
+*2024-09-14 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201007) · `si`
+
+Elections Commission reports 3,828 complaints for 2024 presidential election: 28 related to violence, 3,720 to election law violations. Commissioner General notes slight increase. Attorney general receives 350 additional complaints.
+
+🟩
+
+The Elections Commission stated that 3,828 complaints have been received from the 2024 presidential election.
+
+He added that 28 of the complaints were involved in violence and 3,720 complaints were involved in violating election laws.
+
+Meanwhile, the Commissioner General of Elections RM has seen a small increase in the number of complaints received by the Presidential Election this time.. A. Mr. L Ratnayake said.
+
+Attorney at the Presidential Media Spokesperson SSP lawma Thaluwa also stated that 350 complaints have been received in connection with the presidential election.
+
+◼️
+
+[Data](articles/22e5433b.json)
+
+[Extended Data](ext_articles/22e5433b.ext.json)
+
+---
 
 ### Pope slams both Harris and Trump as ‘against life’ and urges Catholics to vote for ‘lesser evil’
 
@@ -2273,51 +2317,5 @@ The Army Commander has been appointed by the Commander of the Army to be effecti
 [Data](articles/fe955cc2.json)
 
 [Extended Data](ext_articles/fe955cc2.ext.json)
-
----
-
-### Cabinet decision to remove vehicle import boundations
-
-*2024-09-13 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200984) · `si`
-
-Cabinet removes vehicle import restrictions by Feb 2024. Decision based on increased forex reserves and stronger rupee.
-
-🟩
-
-The Cabinet has decided to remove the ban / limits of the vehicle imports of vehicle imports by February next year.
-
-Mr. Ali Sabri said that he issued a message.
-
-The decision has been taken due to the increase in foreign exchange reserves and the rupee strengthening.
-
-◼️
-
-[Data](articles/74fa6501.json)
-
-[Extended Data](ext_articles/74fa6501.ext.json)
-
----
-
-### Sri Lanka - IMF Agreement ChangeIMF response
-
-*2024-09-13 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200983) · `si`
-
-Sri Lanka IMF agreement update: Strong program progress, economic growth, inflation reduction. Risks remain; reforms crucial. Third review post-elections. $3 billion access approved.
-
-🟩
-
-The International Monetary Fund (IMF) says Sri Lanka has a designer with the international Monetary Fund and Sri Lanka.
-
-The Director of the Communication Division of July July The journalist was responding to an eye on the agreement between the President and the International Monetary Fund.
-
-"The progress of the program is strong. The results of reform effort. Economic growth is good. Inflation is reduced. Reserve, international reserves grow. Revenue is strengthened. But there are some risks still. Therefore, it is important to maintain reforms. "
-
-July Kosak added, "First, the uprolling election, of course, it is something to decide that the people of Sri Lanka should decide. It is a key to achieving the goals of the IMF program to get over the worst crisis in history. The country is not completely out of the crisis. So it was worth serving hardships, ".
-
-...
-
-[Data](articles/cc116ccb.json)
-
-[Extended Data](ext_articles/cc116ccb.ext.json)
 
 ---

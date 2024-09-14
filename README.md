@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 10:38:02**
+As of **2024-09-14 10:56:36**
 
 ## Newspaper Stats
 
-*Scraped **43,824** Articles*
+*Scraped **43,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,84 @@ colombotelegraphcom | 432
 islandlk | 2,564
 economynextcom | 2,676
 dailyftlk | 2,920
-adalk | 4,054
+adalk | 4,055
 dailymirrorlk | 4,733
 adaderanalk | 5,149
-tamilmirrorlk | 5,694
-virakesarilk | 6,946
+tamilmirrorlk | 5,695
+virakesarilk | 6,948
 adaderanasinhalalk | 7,492
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,824 (100.0%) of 43,824 articles have been extended.
+43,828 (100.0%) of 43,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Interim Cabinet comprising North East MPs- National People's Power
+
+*2024-09-14 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/193648) · `ta`
+
+National People's Power forms interim cabinet including North East MPs. Party aims to reflect Sri Lanka's diverse political landscape. Tamil Muslim and Malaysian MPs from North East to be involved.
+
+🟩
+
+The party's executive committee member Vasantha Samarasinghe says that the interim cabinet of the National People's Power will be included in the North East.
+
+He said that after the National People's Power won the presidential election, Sri Lanka's wide range of political identity would be reflected in the interim cabinet.
+
+He said his party would try to make an interim cabinet with the help of Tamil Muslim MPs and Malaysian MPs in the North East.
+
+◼️
+
+[Data](articles/5ae334c8.json)
+
+[Extended Data](ext_articles/5ae334c8.ext.json)
+
+---
+
+### Tamil Police Officer Death
+
+*2024-09-14 10:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பொலிஸ்-உத்தியோகத்தர்-மரணம்/175-343738) · `ta`
+
+Tamil Police Officer Death: A Punguduthivu officer died in a crash near Jaffna-Kayts. The incident occurred when a JCP vehicle collided with a motorcycle en route from Velanai to Arali Junction.
+
+🟩
+
+A police officer was killed in an accident in the Jaffna - Kayts area yesterday.
+
+A police officer from Punguduthivu, who is on duty at the Tellipallai police station, has died in the incident.
+
+It is reported that the JCP crashed into a motorcycle while traveling from Velanai to Arali Junction to Arali Junction. Remble
+
+◼️
+
+[Data](articles/59322065.json)
+
+[Extended Data](ext_articles/59322065.ext.json)
+
+---
+
+### The work of distributing voter cards is completed today
+
+*2024-09-14 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193640) · `ta`
+
+The postal department said that the distribution of official voter cards for the presidential election will be completed today.
+
+So far, 84 percent of the official voter cards have been issued, Senior Deputy Deputy Post Office Rajitha Ranasinghe said.
+
+He said that those who do not have official voter cards can obtain their voter card from the postal offices in the adjoining post offices from the 18th to the 21st of this month.
+
+◼️
+
+[Data](articles/536c6ae2.json)
+
+[Extended Data](ext_articles/536c6ae2.ext.json)
+
+---
 
 ### EC receives over 3,800 complaints ahead of Presidential Election
 
@@ -137,6 +199,30 @@ Attorney at the Presidential Media Spokesperson SSP lawma Thaluwa also stated th
 [Data](articles/22e5433b.json)
 
 [Extended Data](ext_articles/22e5433b.ext.json)
+
+---
+
+### Thunder showers in several areas
+
+*2024-09-14 08:53:26* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-කිහිපයකට-අද-ගිගුරුම්-සහිත-වැසි/11-411940) · `si`
+
+Thunderstorms forecasted for Western, Sabaragamuwa, and Northwestern provinces. Heavy rain possible in some areas. Showers expected in Uva Province as well.
+
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in the Mosqueserna, Nuwara Eliya, Galle and Matara districts today (14).
+
+Also, some areas in the Western and Sabaragamuwa provinces. Heavy rains can occur about 50.
+
+Uva Provincial Councils in Ampara and Batticaloa Districts and in the Batticaloa District
+
+Showers or thundershowers will occur at several places in a few.
+
+◼️
+
+[Data](articles/1cb30cb3.json)
+
+[Extended Data](ext_articles/1cb30cb3.ext.json)
 
 ---
 
@@ -2215,97 +2301,5 @@ We've been working, we know how to work so we will add. We're not getting off th
 [Data](articles/d902f5a3.json)
 
 [Extended Data](ext_articles/d902f5a3.ext.json)
-
----
-
-### Former Anuradhapura ASP Sanjeewa Mahanama granted bail
-
-*2024-09-13 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101945/former-anuradhapura-asp-sanjeewa-mahanama-granted-bail) · `en`
-
-The Anuradhapura Magistrate’s Court has granted bail to former Assistant Superintendent of Police (ASP) of Anuradhapura Sanjeewa Mahanama today (13).
-
-The Criminal Investigation Department (CID) had arrested Sanjeewa Mahanama for allegedly assisting in the orchestrated shooting targeting the vehicle of former parliamentarian Uddika Premaratne.
-
-On June 14, Sri Lanka Police said that investigations had uncovered that the incident where several gunshots had been fired at the vehicle belonging to then-Anuradhapura District MP Uddika Premaratne, had been staged by the actor-turned-politician himself with the help of the Anuradhapura ASP.
-
-On September 17, 2023, it was initially reported that a group of unidentified gunmen had opened fire at Premaratne’s car soon after he returned to his residence in Anuradhapura at around 10:35 p.m. and that the parliamentarian had managed to escape unharmed.
-
-...
-
-[Data](articles/9ab12294.json)
-
-[Extended Data](ext_articles/9ab12294.ext.json)
-
----
-
-### Trincomalee District Court Judge Ganesarajah suspended
-
-*2024-09-13 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193590) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Trincomalee District Court Judge Ganesarajah suspended by Judicial Service Commission. Janab Bias Razak appointed district judge. Jeevarani Karupaya becomes Chief Justice Court Judge.
-
-🟩
-
-The Trincomalee District Court Judge Ganesarajah has been suspended today (13) by the Judicial Service Commission.
-
-Following this, Janab Bias Razak was the district judge and Jeevarani Karupaya was the Chief Justice Court Judge today.
-
-◼️
-
-[Data](articles/6aee32cb.json)
-
-[Extended Data](ext_articles/6aee32cb.ext.json)
-
----
-
-### Both killed in railway crash at accident
-
-*2024-09-13 15:16:40* · [`adalk`](https://www.ada.lk/breaking_news/රත්ගම-දුම්රිය-අනතුරින්-ත්‍රිරෝද-රියේ-සිටි-දෙදෙනාම-මරුට/11-411934) · `si`
-
-Two dead in train crash: 49-year-old man and 56-year-old woman killed while riding three-wheeler at railway crossing. Driver died at scene, passenger hospitalized. Police investigating cause.
-
-🟩
-
-The Ratgama Police say that a three-wheeler was operated from the Rathgama, Wijeratne Mawatha's crossroad.
-
-The deceased has been identified as a 49 year old, a 56-year-old Dodaduwa and Kadandu, Dodanduwa, a 56-year-old and the three-wheeler in the three-wheeler in the three-wheeler.
-
-The driver died at the location of the accident and the other was rushed to the Karapitiya Hospital.
-
-The bodies of both of the two have been placed at the Karapitiya Hospital.
-
-The Rathgama Police are conducting further investigations when the accidents were operated by the railway crossing.
-
-◼️
-
-[Data](articles/db6834d9.json)
-
-[Extended Data](ext_articles/db6834d9.ext.json)
-
----
-
-### Sita Arambola sworn in as Minister of State for Women and Child Affairs
-
-*2024-09-13 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/193596) · `ta`
-
-Sita Arambola sworn in as Minister of State for Women and Child Affairs. Appointed alongside Health Minister role.
-
-🟩
-
-Sita Arambola was sworn in as the Minister of State for Women and Child Affairs.
-
-Special Dr. Sita Arambola, who was appointed as the Minister of State for Women and Child Affairs, was sworn in in the presence of President Ranil Wickremesinghe at the Presidential Office this morning.
-
-In addition to the post of Health Minister of Health, Sita Arambola has been appointed Minister of State for Women and Child Affairs.
-
-◼️
-
-[Data](articles/cf2a36fb.json)
-
-[Extended Data](ext_articles/cf2a36fb.ext.json)
 
 ---

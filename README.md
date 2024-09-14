@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 16:37:49**
+As of **2024-09-14 16:54:35**
 
 ## Newspaper Stats
 
-*Scraped **43,869** Articles*
+*Scraped **43,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,161
 tamilmirrorlk | 5,699
 virakesarilk | 6,959
-adaderanasinhalalk | 7,500
+adaderanasinhalalk | 7,501
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,869 (100.0%) of 43,869 articles have been extended.
+43,870 (100.0%) of 43,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### China's solution to the Maldives for the debt
+
+*2024-09-14 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201018) · `si`
+
+China offers financial aid to debt-ridden Maldives. New agreement aims to boost trade and investment between nations. Local currency transactions to enhance economic ties. Details of the deal remain undisclosed. Maldives seeks additional support from India as well.
+
+🟩
+
+Foreign media reports that China and the Maldives have been signed a new agreement that will be given more financial assistance to the Maldives who have already been given to the Maldives.
+
+China says it will help strengthen trade and investment through this.
+
+This MoU to increase investment and business opportunities among countries through local currencies in both countries
+
+However, China has not yet revealed anything about the agreement.
+
+The Maldives with massive debt is engaged in an attempt to avoid debt debt.
+
+It is reported that the Maldives is working with India to enter into an agreement with India in addition to China.
+
+◼️
+
+[Data](articles/5657c696.json)
+
+[Extended Data](ext_articles/5657c696.ext.json)
+
+---
 
 ### Maldives rules out IMF bailout despite financial woes, plans tax hikes to manage debt
 
@@ -2261,37 +2289,5 @@ The 49th People's Alliance organized by the United People's Alliance (UPFA) ahea
 [Data](articles/9ed7b33a.json)
 
 [Extended Data](ext_articles/9ed7b33a.ext.json)
-
----
-
-### Sri Lanka gold and silver medals in South Asian Junior Athletics
-
-*2024-09-13 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201000) · `si`
-
-Sri Lanka wins 1 gold, 3 silver medals in South Asian Junior Athletics. Meron Wijesinghe takes gold in 100m men's event. Team wins gold in 400x4 relay. Hasitha Dissanayake wins gold and silver in separate events.
-
-🟩
-
-Sri Lanka has won 1 gold medals 03 gold medals and silver medals from South Asian Junior Athletics Championships.
-
-Sri Lanka leading Meron Wijesinghe was able to win the gold medal in the event of 100 males of the match.
-
-The finals of the 400x4 meter support of the male was held yesterday and Sri Lanka won a gold medal.
-
-Sri Lanka surrendered at the end of the first 400 meters of the match, while Sri Lanka and India were held between Sri Lanka and India.
-
-Sri Lanka won the Sri Lankan player to win the gold medal with the Indian player, with the exploitation of the Indian player.
-
-Sri Lanka's competition was the time of 3 minutes and 9.27 seconds.
-
-Meanwhile, Sri Lanka won gold and silver medals in the three tournament.
-
-Hasitha Dissanayake won a gold medal and won the silver medal.
-
-◼️
-
-[Data](articles/a60c1280.json)
-
-[Extended Data](ext_articles/a60c1280.ext.json)
 
 ---

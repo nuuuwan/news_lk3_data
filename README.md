@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 22:22:30**
+As of **2024-09-14 22:38:09**
 
 ## Newspaper Stats
 
-*Scraped **43,905** Articles*
+*Scraped **43,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,167
 tamilmirrorlk | 5,703
 virakesarilk | 6,964
-adaderanasinhalalk | 7,514
+adaderanasinhalalk | 7,515
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,902 (100.0%) of 43,905 articles have been extended.
+43,906 (100.0%) of 43,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Makes the Urivacy Country of Asia - Namal
+
+*2024-09-14 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201032) · `si`
+
+Sri Lanka presidential candidate Namal Rajapaksa proposes abolishing party-based politics. He vows to create laws to address leadership issues and develop the country into an Asian powerhouse.
+
+🟩
+
+Presidential candidate named Namal Rajapaksa says that laws will be prepared to abolish the political system of parties.
+
+He was speaking at a seat meeting held in Ampara this afternoon.
+
+Namal Rajapaksa, president of the Sri Lanka General Front said.
+
+"Many people talk about this zilmaar. There is a situation where there is no leaders of the leaders. The former President Mahinda Rajapaksa will not be offended with the loyal. Open that kind of place?Shut up?We make laws for that.  කිසිම දේශපාලන පක්ෂයකට පක්ෂ මාරු කරන දේශපාලනයට තිත තියන්න අවශ්‍ය නීති සම්පාදනය කරන්න මම පිහිටුවන ආණ්ඩුවකින් කටයුතු කරනවා කියන එක ඔබට කියනවා. I am responsible not only touches the development of the past three times and makes it the advanced country of Asia. "
+
+◼️
+
+[Data](articles/6118c1b3.json)
+
+[Extended Data](ext_articles/6118c1b3.ext.json)
+
+---
 
 ### Export Economy in 2025 - Ranil
 
@@ -508,6 +532,8 @@ Approval of the Management Board of the Urban Development Authority and Standing
 
 [Data](articles/94f67a43.json)
 
+[Extended Data](ext_articles/94f67a43.ext.json)
+
 ---
 
 ### Man collides in Dehiwala
@@ -976,6 +1002,8 @@ ITC is a multilateral agency with a joint mandate from the World Trade Organizat
 
 [Data](articles/a4e66dd0.json)
 
+[Extended Data](ext_articles/a4e66dd0.ext.json)
+
 ---
 
 ### Cabinet approval to gazette Penal Code (Amendment) Bill
@@ -1379,6 +1407,8 @@ Though lockdowns in the next month killed domestic credit and led to a recovery 
 ...
 
 [Data](articles/1eed0875.json)
+
+[Extended Data](ext_articles/1eed0875.ext.json)
 
 ---
 
@@ -2335,21 +2365,5 @@ Virtusa Corporation, a global provider of digital strategy, digital engineering
 [Data](articles/8449359b.json)
 
 [Extended Data](ext_articles/8449359b.ext.json)
-
----
-
-### NCE calls for urgent action to address visa and passport crisis impacting business community
-
-*2024-09-14 01:24:00* · [`islandlk`](http://island.lk/nce-calls-for-urgent-action-to-address-visa-and-passport-crisis-impacting-business-community/) · `en`
-
-The recent visa and passport crisis has sparked significant concern among the public, and especially within the business community. Media reports, including those in leading newspapers, have highlighted issues of corruption, and these reports are being amplified internationally through various digital platforms. This is adversely affecting the credibility of Sri Lanka on a global scale.
-
-Sri Lanka is currently advancing as an export-driven economy, a direction supported by both the current government and the presidential candidates running for the upcoming elections in September 2024. The National Chamber of Exporters (NCE) of Sri Lanka, being the sole chamber dedicated to the interests of Sri Lankan exporters, is in full alignment with government efforts. We are committed to supporting and connecting Sri Lankan exporters with international markets through a variety of initiatives, ensuring that they remain competitive on the global stage.
-
-...
-
-[Data](articles/44be43e2.json)
-
-[Extended Data](ext_articles/44be43e2.ext.json)
 
 ---

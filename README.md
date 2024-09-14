@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 21:37:55**
+As of **2024-09-14 21:57:20**
 
 ## Newspaper Stats
 
-*Scraped **43,898** Articles*
+*Scraped **43,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
-adaderanalk | 5,165
+adaderanalk | 5,167
 tamilmirrorlk | 5,703
 virakesarilk | 6,964
-adaderanasinhalalk | 7,512
+adaderanasinhalalk | 7,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,898 (100.0%) of 43,898 articles have been extended.
+43,901 (100.0%) of 43,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Sri Lanka steps up measures for fighting tuberculosis
+
+*2024-09-14 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101980/sri-lanka-steps-up-measures-for-fighting-tuberculosis) · `en`
+
+Sri Lanka’s Cabinet approved a proposal to sign a memorandum of understanding (MoU) to study the effectiveness of a new treatment model to tuberculosis, according to the government’s information department.
+
+The MoU will be signed between the country’s Sri Jayewardenepura University and the International Union Against Tuberculosis and Lung Diseases (IUATLD).
+
+According to the department, tuberculosis is the second most infectious disease in Sri Lanka and the leading cause of death from such illnesses.
+
+In 2021, a guideline was prepared for Sri Lanka following the World Health Organization’s recommendation on tuberculosis preventive treatments, the department said on Saturday.
+
+The department said it is expected to conduct a study to observe the effectiveness of the proposed treatment model under the national program for tuberculosis control and chest diseases.
+
+The IUATLD has agreed to provide a financial grant of 387,280 U.S. dollars.
+
+◼️
+
+[Data](articles/2aac5d8a.json)
+
+[Extended Data](ext_articles/2aac5d8a.ext.json)
+
+---
+
+### Sajith will produce poverty and produce a public era - Sajith
+
+*2024-09-14 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201030) · `si`
+
+Sajith Premadasa promises to end poverty within 2 years, vows to create a public era. He spoke at a rally in Ratnapura, emphasizing his commitment to addressing economic issues.
+
+🟩
+
+The presidential candidate Sajith Premadasa, Sagith Premadasa, says he is committed to producing poverty under a government and to produce a public era.
+
+He was speaking at a rally in Ratnapura today (14).
+
+"To eliminate poverty, the 24-month program a month for 20,000 years a month. We are not as a government to get out of the poverty that he has fallen in the poverty within those two years and finish the money. I declare you all. "
+
+◼️
+
+[Data](articles/c03fce19.json)
+
+[Extended Data](ext_articles/c03fce19.ext.json)
+
+---
 
 ### Sajith cheat all of us - Anura
 
@@ -53,6 +99,28 @@ Presidential candidate Anura Kumara Dissanayake said,
 [Data](articles/d8fad961.json)
 
 [Extended Data](ext_articles/d8fad961.ext.json)
+
+---
+
+### President Ranil vows to resolve missing persons issue within next five years
+
+*2024-09-14 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101979/president-ranil-vows-to-resolve-missing-persons-issue-within-next-five-years) · `en`
+
+President Ranil Wickremesinghe highlighted that the issues in the North cannot be limited to just political problems but also require development.
+
+If development does not take place, the North will fall behind while other provinces move forward, he said, adding that his leadership will address both the political and developmental challenges in the North.
+
+The President reiterated that his policy statement includes strengthening provincial councils and delegating more powers to them.
+
+He also mentioned that, under the framework of nine provincial administrations, development plans will be accelerated to assist the central government.
+
+Additionally, the President said that a National Land Commission and a Truth and Reconciliation Commission (TRC) will be established. Following the recommendations of the “Navas Commission,” he pledged to fully resolve the issue of the disappeared within the next five years.
+
+...
+
+[Data](articles/b7177920.json)
+
+[Extended Data](ext_articles/b7177920.ext.json)
 
 ---
 
@@ -2275,53 +2343,5 @@ Data professionals from across the country are called to apply for “Climate Ch
 [Data](articles/50a826d0.json)
 
 [Extended Data](ext_articles/50a826d0.ext.json)
-
----
-
-### National Chamber of Exporters urges citizens to vote wisely on 21 Sept.
-
-*2024-09-14 01:00:31* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-urges-citizens-to-vote-wisely-on-21-Sept/34-766746) · `en`
-
-As Sri Lanka stands on the cusp of a critical Presidential Election this September, the National Chamber of Exporters (NCE) in a statement called upon all citizens to vote with both their hearts and minds.
-
-“Our beloved nation is at a crossroads, and the decisions made at the ballot box will define the course of Sri Lanka’s future. It is vital that each voter considers the key challenges we face and elect leaders who possess the vision, capability, and integrity to steer us through these turbulent times,” NCE said.
-
-...
-
-[Data](articles/83d04bfc.json)
-
-[Extended Data](ext_articles/83d04bfc.ext.json)
-
----
-
-### NDB Bank partners with OPA for 37th Annual Conference to foster economic growth
-
-*2024-09-14 00:58:39* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-partners-with-OPA-for-37th-Annual-Conference-to-foster-economic-growth/34-766745) · `en`
-
-OPA General Secretary Tisara De Silva, NDB SME, Middle Markets and Business Banking VP Indika Ranaweera , OPA President Sarath Gamage, 37th Annual Conference Committee OPA / Chairman President Elect Attorney-at-Law Sujeewa Lal Dahanayake
-
-Demonstrating its leadership in fostering essential discussions on economic growth, NDB Bank has announced its collaboration with the Organisation of Professional Associations of Sri Lanka (OPA) as a key partner for their 37th Annual Conference, which took place on 26-27 August, 2024, at the Shangri-La Hotel, Colombo. This year’s conference, themed “Towards Sri Lanka’s Sustained Economic Growth,” aligns perfectly with both the country’s ambitions and NDB’s commitment to fostering economic development.
-
-...
-
-[Data](articles/f7e6aae9.json)
-
-[Extended Data](ext_articles/f7e6aae9.ext.json)
-
----
-
-### Public resource misuse sparks over 750 complaints to TISL
-
-*2024-09-14 00:56:27* · [`dailyftlk`](https://www.ft.lk/news/Public-resource-misuse-sparks-over-750-complaints-to-TISL/56-766744) · `en`
-
-The Transparency International Sri Lanka (TISL) said yesterday it has received 758 complaints concerning the misuse of public resources for election campaigning as of 1 September.
-
-It said the largest category of complaints—343 in total—pertains to the misuse of public premises. These include the misuse of public grounds, Government offices, buildings, and schools etc. for election campaigns. Complaints detail instances where such premises were used without paying the required fees, were reserved for one candidate or political party for extended periods or were adorned with posters and cutouts in violation of election laws.
-
-...
-
-[Data](articles/0e96c481.json)
-
-[Extended Data](ext_articles/0e96c481.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 08:39:47**
+As of **2024-09-14 08:56:56**
 
 ## Newspaper Stats
 
-*Scraped **43,815** Articles*
+*Scraped **43,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,675
 dailyftlk | 2,920
 adalk | 4,053
 dailymirrorlk | 4,733
-adaderanalk | 5,144
+adaderanalk | 5,145
 tamilmirrorlk | 5,694
 virakesarilk | 6,946
 adaderanasinhalalk | 7,490
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,490
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,814 (100.0%) of 43,815 articles have been extended.
+43,815 (100.0%) of 43,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Distribution of polling cards to be completed today
+
+*2024-09-14 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101956/distribution-of-polling-cards-to-be-completed-today) · `en`
+
+The Postal Department stated that the distribution of official polling cards to households will be concluded today (14).
+
+Deputy Postmaster General Rajitha Ranasinghe further stated that if any voter has not received their official polling cards by today, they can visit their local post office with their National Identity Card (NIC) to verify their identity and obtain their polling card.
+
+He stated that this opportunity will be available for the voters until the date of the presidential election, which will be held on September 21.
+
+◼️
+
+[Data](articles/97a68786.json)
+
+---
 
 ### Distribution to the homes to the homes of votes
 
@@ -100,19 +116,25 @@ The Meteorological Department urges the public to take necessary steps to reduce
 
 ---
 
-### 9 நாடுகளின் கண்காணிப்பாளர்கள் வருகை
+### Arrival of 9 countries monitors
 
 *2024-09-14 06:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-நாடுகளின்-கண்காணிப்பாளர்கள்-வருகை/175-343737) · `ta`
 
-ஜனாதிபதித் தேர்தல் கண்காணிப்பு நடவடிக்கைகளுக்காக 9 நாடுகளின் தேர்தல் கண்காணிப்பாளர்கள் நாட்டிற்கு வருகை தந்துள்ளனர் என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+Election monitors from 9 countries arrive for presidential election observation. They were invited by the Election Commission and will begin monitoring on the 18th.
 
-ஆணைக்குழுவின் அழைப்பிற்கிணங்க அவர்கள் வருகை தந்துள்ளனர் என அதன் தவிசாளர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+🟩
 
-எதிர்வரும் 18 ஆம் திகதி முதல் அவர்கள் தேர்தல் கண்காணிப்பு நடவடிக்கைகளில் ஈடுபடவுள்ளனர் என தெரிவிக்கப்பட்டுள்ளது. (a)
+The Elections Commission said that the election monitors of 9 countries have visited the country for the presidential election monitoring.
+
+RMAL Ratnayake said that they have been in attendance at the invitation of the Commission.
+
+It is reported that they will engage in election monitoring from the 18th of this month. (A)
 
 ◼️
 
 [Data](articles/366014f0.json)
+
+[Extended Data](ext_articles/366014f0.ext.json)
 
 ---
 
@@ -2291,35 +2313,5 @@ He was arrested by the Criminal Investigations Departments regarding the investi
 [Data](articles/b3eb2400.json)
 
 [Extended Data](ext_articles/b3eb2400.ext.json)
-
----
-
-### Guidelines on Scholarship Examination
-
-*2024-09-13 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200981) · `si`
-
-Sri Lanka Grade 5 Scholarship Exam details: 323,879 candidates, 2,849 centers, 2-part exam, specific pen color rules, prohibited items list.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara said all arrangements have been made to conduct the 15th 100th Sunday, the Grade 5 Scholarship Examination.
-
-He further stated that everything is ready to hold the exam today (13).
-
-He also said that the paper papers are being released on the coordinating centers across Sri Lanka from midnight yesterday (12).
-
-323,879 applicants are eligible for this year's scholarship examination and are due to sit for 2,849 examination centers island wide.
-
-The exam center has been established in 7 examination centers and the children who are receiving treatment at 7 examination centers to children with special needs.
-
-The second sheet of the two-part scholarship examination is held first,. Will be held from 9.30 to 10.45 pm. Then. The first sheet of the first sheet begins at 11.15.
-
-Specialized announcement, the Commissioner General of Examinations said that only black or blue pan could be used if it is written in the pen.
-
-...
-
-[Data](articles/adec25dd.json)
-
-[Extended Data](ext_articles/adec25dd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 14:22:28**
+As of **2024-09-14 14:38:03**
 
 ## Newspaper Stats
 
-*Scraped **43,848** Articles*
+*Scraped **43,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ dailymirrorlk | 4,733
 adaderanalk | 5,157
 tamilmirrorlk | 5,699
 virakesarilk | 6,948
-adaderanasinhalalk | 7,496
+adaderanasinhalalk | 7,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,848 (100.0%) of 43,848 articles have been extended.
+43,850 (100.0%) of 43,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### The eighth traps will not be fooled by the road
+
+*2024-09-14 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201015) · `si`
+
+Sajith Premadasa addresses Matara rally, criticizes government policies, promises tax cuts and relief measures. Denies involvement in violence, vows transparency.
+
+🟩
+
+The presidential candidate Sajith Premadasa, Sagith Premadasa, says that if the government has published at the moment, the public has given the public at the moment or the public.
+
+He made these comments addressing a rally in Matara.
+
+The 51st population rally, organized by the President's Rally the rally, was held yesterday.
+
+"All the weight of the people can be imposed. Now the president issues announcements to compete ... I'll reduce taxes, increase tax, to increase the steps, relief. I would like to ask at least this year, but this year could have given the concessions. "
+
+"Mr. Kumara, too, we heard of violence. We have never implemented violence. None of the posts of Anura Eighth will not be fooled by the road in this country. "
+
+◼️
+
+[Data](articles/7d12e3e7.json)
+
+[Extended Data](ext_articles/7d12e3e7.ext.json)
+
+---
+
+### Blessing of the Great Browsing to Dilith - "Preserve this Fantastic Land"
+
+*2024-09-14 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201014) · `si`
+
+Here's a 200-character summary:
+
+
+
+Pirith ceremony honors Buddha at Hikkaduwa. Chief monk emphasizes preserving Buddhism and protecting heritage sites. Dilith Jayaweera addresses economic development and reducing inequality.
+
+🟩
+
+A Pirithuru held at Hikkaduwa this morning (14) this morning.
+
+The Chief Incumbent of the Pirinduwatta Bodhiralu Vihara, the chief incumbent of the Pirindu, was asked to reserve the Buddha without forget the Buddha Scheme.
+
+"The presidents constantly meet the big mongo of big temples. I went to the village temples of the village temple. Dhamma schools in the village temple and forget the village sarc. Start from the temple temple. Never forget the Buddha Sasana. It is the asset of one's knowledge. Fulfillment of properties, all you consider all of the country. Do not forget the painting and protect the Ruwanweline, to protect the prison, and protect the pinnappiness, protect the prison, "
+
+Meanwhile, another gathering of the "Dilith Ganga Samaga" series meetings was held at the Kaduruwela Bus Stand.
+
+Dilith Jayaweera stated that he was headed by the exemplantic candidate Dilith Jayaweera and join the universal power for a new journey without deceiving traditional politics.
+
+...
+
+[Data](articles/53d515e1.json)
+
+[Extended Data](ext_articles/53d515e1.ext.json)
+
+---
 
 ### Everyone gets relief - Ranil
 
@@ -2185,39 +2241,5 @@ Construction sector returned with 15.5 percent growth with manufacturing growing
 [Data](articles/49577836.json)
 
 [Extended Data](ext_articles/49577836.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 302.25/80, bond yields up
-
-*2024-09-13 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-25-80-bond-yields-up-179577/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.25/80 to the US dollar on Friday, after opening at 300.70/95, dealers said, while bond yields were up.
-
-A bond maturing on 15.06.2029 closed at 13.70/80 percent. (Colombo/Sep13/2024)
-
-◼️
-
-[Data](articles/055ba444.json)
-
-[Extended Data](ext_articles/055ba444.ext.json)
-
----
-
-### Orders to file charges against immigration bridge
-
-*2024-09-13 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200994) · `si`
-
-Supreme Court orders charges against immigration official who insulted court. Electronic visa suspension case related.
-
-🟩
-
-The Supreme Court today (13) ordered that he had been insulted by the Supreme Court with the execution issued by the Supreme Court with the execution of the electronic visa method recently suspended by the Government.
-
-◼️
-
-[Data](articles/7683bf7b.json)
-
-[Extended Data](ext_articles/7683bf7b.ext.json)
 
 ---

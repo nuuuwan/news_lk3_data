@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 08:19:14**
+As of **2024-09-14 08:39:47**
 
 ## Newspaper Stats
 
-*Scraped **43,813** Articles*
+*Scraped **43,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ dailyftlk | 2,920
 adalk | 4,053
 dailymirrorlk | 4,733
 adaderanalk | 5,144
-tamilmirrorlk | 5,693
+tamilmirrorlk | 5,694
 virakesarilk | 6,946
-adaderanasinhalalk | 7,489
+adaderanasinhalalk | 7,490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,813 (100.0%) of 43,813 articles have been extended.
+43,814 (100.0%) of 43,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Distribution to the homes to the homes of votes
+
+*2024-09-14 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201006) · `si`
+
+Postal Department: Official ballot papers distribution ends today. If not received, verify identity.
+
+🟩
+
+Official ballot papers will be concluded today (14), said the Postal Department today.
+
+According to Deputy Postal Rajitha, Rajitharan Ranasinghe added that if the official ballot papers were not received today, they could be verified and obtain the identity.
+
+◼️
+
+[Data](articles/97547c19.json)
+
+[Extended Data](ext_articles/97547c19.ext.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -77,6 +97,22 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/1d9c723f.json)
 
 [Extended Data](ext_articles/1d9c723f.ext.json)
+
+---
+
+### 9 நாடுகளின் கண்காணிப்பாளர்கள் வருகை
+
+*2024-09-14 06:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-நாடுகளின்-கண்காணிப்பாளர்கள்-வருகை/175-343737) · `ta`
+
+ஜனாதிபதித் தேர்தல் கண்காணிப்பு நடவடிக்கைகளுக்காக 9 நாடுகளின் தேர்தல் கண்காணிப்பாளர்கள் நாட்டிற்கு வருகை தந்துள்ளனர் என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+ஆணைக்குழுவின் அழைப்பிற்கிணங்க அவர்கள் வருகை தந்துள்ளனர் என அதன் தவிசாளர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+
+எதிர்வரும் 18 ஆம் திகதி முதல் அவர்கள் தேர்தல் கண்காணிப்பு நடவடிக்கைகளில் ஈடுபடவுள்ளனர் என தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/366014f0.json)
 
 ---
 
@@ -2285,45 +2321,5 @@ Specialized announcement, the Commissioner General of Examinations said that onl
 [Data](articles/adec25dd.json)
 
 [Extended Data](ext_articles/adec25dd.ext.json)
-
----
-
-### New Chief of Staff of Sri Lanka Army appointed
-
-*2024-09-13 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101943/new-chief-of-staff-of-sri-lanka-army-appointed) · `en`
-
-Major General Dinesh Nanayakkara of the Sri Lanka Sinha Regiment has been appointed as the new Chief of Staff of the Sri Lanka Army (SLA).
-
-He has been appointed to the position by the Commander of the Army, effective from September 16, 2024.
-
-◼️
-
-[Data](articles/e2dc8f28.json)
-
-[Extended Data](ext_articles/e2dc8f28.ext.json)
-
----
-
-### I need a rollover - Ranil
-
-*2024-09-13 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200980) · `si`
-
-Ranil Wickremesinghe criticizes opponents, claims system collapse during presidency.
-
-🟩
-
-Independent president of Ranil Wickremesinghe says that those who refused to accept the country in difficult time are delivering the promises of the people.
-
-The President made this observation addressing the Colombo "Compliance" program.
-
-The 'Involved' program organized to ensure that Ranil Wickremesinghe was organized in the presidential election.
-
-"Our system collapsed.. There was no one to take over. What does it understand?.. The Upright Incompatible with Leaders Receive Your Future. Sajith Premadasa changes what he gives every day. He was just the headache not promised so long. He also offers it soon. The Policy Statement of the National Folk Forces. They don't know. "
-
-...
-
-[Data](articles/8369d5ec.json)
-
-[Extended Data](ext_articles/8369d5ec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 18:56:54**
+As of **2024-09-14 19:07:37**
 
 ## Newspaper Stats
 
-*Scraped **43,883** Articles*
+*Scraped **43,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,43 @@ dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
 adaderanalk | 5,164
-tamilmirrorlk | 5,701
+tamilmirrorlk | 5,703
 virakesarilk | 6,960
-adaderanasinhalalk | 7,507
+adaderanasinhalalk | 7,508
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,883 (100.0%) of 43,883 articles have been extended.
+43,886 (100.0%) of 43,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### New Zealand team to visit Sri Lanka
+
+*2024-09-14 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201025) · `si`
+
+New Zealand cricket team arrives Sri Lanka Katunayake Airport two Test matches Galle International Cricket Stadium World Test Championships 2025 presidential election declared holiday
+
+🟩
+
+New Zealand Test team arrived at the Katunayake Airport this afternoon for two Test matches between Sri Lanka and New Zealand.
+
+The two matches will be held at the Galle International Cricket Stadium.
+
+The presidential election will be declared as a holiday due to the presidential election.
+
+This is held under World Test Championships organized by the International Cricket Council - 2025.
+
+◼️
+
+[Data](articles/d3bffcb6.json)
+
+[Extended Data](ext_articles/d3bffcb6.ext.json)
+
+---
 
 ### Dhamma School Teacher Allowance will be increased by Rs.2,500
 
@@ -119,6 +143,30 @@ The Ukraine president has decided to visit the US in the end of this month.
 [Data](articles/d62db1ec.json)
 
 [Extended Data](ext_articles/d62db1ec.ext.json)
+
+---
+
+### Brewery will be closed on the 21st and 22nd
+
+*2024-09-14 17:48:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-22-ஆம்-திகதிகளில்-மதுபானசாலைகள்-மூடப்படும்/175-343745) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Liquor hospitals to close 21st-22nd due to presidential election. Requested by Election Commission. Brewery also closed during same period.
+
+🟩
+
+All liquor hospitals will be closed on the 21st and 22nd of this month ahead of the presidential election, the Liquor Department said.
+
+Madhuvari Commissioner General MG Gunasiri said that this action will be taken at the request of the Elections Commission.. Remble
+
+◼️
+
+[Data](articles/3d388f4e.json)
+
+[Extended Data](ext_articles/3d388f4e.ext.json)
 
 ---
 
@@ -371,6 +419,24 @@ Dilith Jayaweera stated that the people have addressed the people.
 [Data](articles/4076c412.json)
 
 [Extended Data](ext_articles/4076c412.ext.json)
+
+---
+
+### The economy can fall back to the economy
+
+*2024-09-14 16:04:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரம்-மீண்டும்-வீழ்ச்சியடையலாம்/175-343744) · `ta`
+
+Sri Lanka's economy shows promising growth. The country's efforts towards recovery are commendable.
+
+🟩
+
+The current economic progress of Sri Lanka is commendable.Said.
+
+◼️
+
+[Data](articles/ce2fa05e.json)
+
+[Extended Data](ext_articles/ce2fa05e.ext.json)
 
 ---
 
@@ -2205,67 +2271,5 @@ However, by all candidates, Anura Kumara Dissanayake is the minimal negative opi
 [Data](articles/0eeaabb3.json)
 
 [Extended Data](ext_articles/0eeaabb3.ext.json)
-
----
-
-### Voters are confused about the unprecedented and unique scenario
-
-*2024-09-13 23:37:41* · [`dailyftlk`](https://www.ft.lk/opinion/Voters-are-confused-about-the-unprecedented-and-unique-scenario/14-766725) · `en`
-
-Are 17.1 million voters ready to entrust the destinies of this nation to a convict who has violated the fundamental rights of the people of this country, for the next five years? – Pic by Shehan Gunasekara
-
-The simple question that comes to the mind of any fair minded reader is that did all these help and assistance by the Indian government, the IMF, the WHO, the World Bank and various other friendly countries like China and Japan come only because of RW? What a joke. What an insult to these countries and global organisations. They were offered for the people of Sri Lanka, not to the President. Besides all the loans obtained by Sri Lanka have to be repaid by the people of this country with interest after all. Even if Battaramulle Seelarathana Thera was the president at this difficult time, those creditors and international establishments would have given this assistance to Sri Lanka
-
-...
-
-[Data](articles/a0c614cf.json)
-
-[Extended Data](ext_articles/a0c614cf.ext.json)
-
----
-
-### Two export processing zones of the North today
-
-*2024-09-13 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/193632) · `ta`
-
-Two export zones opened in Northern Province: Jaffna-Kankesanthurai and Kilinochchi-Paranthan. Governor Charles, Minister Amunugama attended naming ceremony. Steps discussed for development.
-
-🟩
-
-Two Zones were officially named on Friday (13) of the three export processing zones planned to be established in the Northern Province. Export processing zones of Jaffna Kankesanthurai and Kilinochchi Paranthan were named.
-
-Governor of the Northern Province. S.. M.. Charles, Minister of Investment Promotion Til Amunugama and Investment Representatives were present.
-
-Discussions were discussed on the steps to be taken in both export processing zones.
-
-◼️
-
-[Data](articles/856c160d.json)
-
-[Extended Data](ext_articles/856c160d.ext.json)
-
----
-
-### There is no connection to assault the seminar - Nalinda
-
-*2024-09-13 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201004) · `si`
-
-National Folk Force denies accusations against Patriotic National Front. Seminar attendee claims assault occurred at National Library. Assailant identified as Meditation Member from Medium Meeting.
-
-🟩
-
-The national folk force says that the accusations of the Patriotic Leader who had been attacked by their party to the celebration in Colombo yesterday say that the Patriotic National Front is denied the accusations.
-
-The Executive Councilor Nalinda Jayatissa says that the attack is not involved in the attack.
-
-During a seminar in the National Library and Documentation Center Auditorium, a conflict occurred during a seminar in the National Library and Document Center Auditorium.
-
-The assailant was carried out by the Meditation Member of the Medium Meeting at a press conference held later.
-
-◼️
-
-[Data](articles/d489cfbf.json)
-
-[Extended Data](ext_articles/d489cfbf.ext.json)
 
 ---

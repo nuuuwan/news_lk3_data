@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 12:38:04**
+As of **2024-09-14 12:56:11**
 
 ## Newspaper Stats
 
-*Scraped **43,838** Articles*
+*Scraped **43,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,056
 dailymirrorlk | 4,733
-adaderanalk | 5,153
+adaderanalk | 5,154
 tamilmirrorlk | 5,698
 virakesarilk | 6,948
 adaderanasinhalalk | 7,494
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,838 (100.0%) of 43,838 articles have been extended.
+43,839 (100.0%) of 43,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Presidential pardon granted to Henry Pedris posthumously
+
+*2024-09-14 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101965/presidential-pardon-granted-to-henry-pedris-posthumously) · `en`
+
+President Ranil Wickremesinghe has granted a Presidential Pardon posthumously to Diyunuge Edward Henry Pedris, who was unlawfully executed in 1915 after being unjustly tried by a Court-Martial appointed by the Proclamation issued by Robert Chalmers, the Governor of Ceylon on 25 June 1915.
+
+Issuing an extraordinary gazette notification, President Wickremesinghe has granted the relevant pardon in terms of the powers vested in him under Article 33(h) read with Article 34 of the Constitution of the Democratic Socialist Republic of Sri Lanka, effective from 12 September 2024.
+
+◼️
+
+[Data](articles/d5136930.json)
+
+[Extended Data](ext_articles/d5136930.ext.json)
+
+---
 
 ### O / L results in two weeks
 
@@ -2233,33 +2249,5 @@ Meanwhile, their strategic program has been able to remove their debt to redeem 
 [Data](articles/fd8f1664.json)
 
 [Extended Data](ext_articles/fd8f1664.ext.json)
-
----
-
-### The State Promise
-
-*2024-09-13 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200991) · `si`
-
-Here's a 200-character summary:
-
-
-
-Anura Kumara Dissanayake addressed a rally in Ambalantota, emphasizing the National Folk Force as a program to preserve cultural values for future generations. He criticized the destruction of Buddhist sites and accused certain individuals of stealing artifacts. Dissanayake called for Sajith Premadasa to halt right-wing politics interfering with civilization and culture.
-
-🟩
-
-Another rally was held at Ambalantota last night.
-
-It is the leader of the party's prosecutical candidate Anura Kumara Dissanayake.
-
-Commenting on the occasion, the presidential candidate Anura Kumara Dissanayake said that the national folk force is a program to protect cultural values ​​for future generations.
-
-Tissa Attanayake says we stop the procession of the city again. But these are the climb to the stage where the treasured leaders. These are the people who were looking for the Pilgawa statue of the Buddha.  තැන තැන ගිහිල්ලා දුටුගැමුණු රජ්ජුරුවන්ගේ කඩුව හොයන්න වෙහෙර විහාරස්ථාන විනාශ කරපු අය තමයි මේවා කියන්නේ. It was also a well-known picture of the Mulkirigala. The stolen portaries stolen in Oya Premadasala has come to talk about religion. As a result, the national folk force is a political movement that interferes with our civilization, our cultures and protection for future generations. So we say Sajith Premadasa halts the politics of right. "
-
-◼️
-
-[Data](articles/07ecd533.json)
-
-[Extended Data](ext_articles/07ecd533.ext.json)
 
 ---

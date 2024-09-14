@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 02:38:09**
+As of **2024-09-15 02:55:51**
 
 ## Newspaper Stats
 
-*Scraped **43,912** Articles*
+*Scraped **43,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,059
 dailymirrorlk | 4,733
 adaderanalk | 5,168
 tamilmirrorlk | 5,703
-virakesarilk | 6,964
+virakesarilk | 6,966
 adaderanasinhalalk | 7,516
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,912 (100.0%) of 43,912 articles have been extended.
+43,914 (100.0%) of 43,914 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -217,6 +217,54 @@ Additionally, the President said that a National Land Commission and a Truth and
 [Data](articles/b7177920.json)
 
 [Extended Data](ext_articles/b7177920.ext.json)
+
+---
+
+### Tamil general candidate is a symbol of the unity of the Eelam Tamil people- the priests of the North, East and Peace
+
+*2024-09-14 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193690) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil general candidate represents unity of Eelam Tamil people. They should be elected to North East. Presidential election focuses on vote counts, influencing Tamil and minority votes. Southern candidates emphasize Sinhala Buddhist nationalism, rejecting Tamil rights. Tamil homeland faces repression, militarization. Choosing Tamil candidate strengthens Eelam Tamil politics.
+
+🟩
+
+The Tamil general candidate is a symbol of the unity of the Eelam Tamil people and therefore the Tamils ​​should be elected to the North East.
+
+The country is preparing for a presidential election again. The political knowledge of this presidential election or the presidential candidate has been presented as the history of their individual and collective politics.. It is not necessary to underline how much hope it is. The fact that this presidential election is being held from the frame within the monopoly political system cannot be told.
+
+The fact that the existing democratic system is determined by numbers is common sense. The president's democratic election, centered on the number of votes, is defined as the influence of the votes of the Eelam Tamil people and other minority ethnic groups.
+
+Candidates contesting the presidential election from the south are decorating the campaign platform by emphasizing the management of the Sinhala Buddhist nationalism.
+
+...
+
+[Data](articles/19fafacb.json)
+
+[Extended Data](ext_articles/19fafacb.ext.json)
+
+---
+
+### The Asian Network for Independent Elections
+
+*2024-09-14 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193691) · `ta`
+
+Asian Network for Independent Elections monitors Sri Lanka's presidential election. Deployed in 7 provinces, focusing on 14 major cities. Observes campaign, voting, and post-election processes amid economic challenges and public discontent.
+
+🟩
+
+The Asian Network for Independent Elections has been involved in the election monitoring of Sri Lanka's presidential election.
+
+The presidential election, which takes place at a major moment, will play an important role in determining the political and economic future of Sri Lanka.
+
+...
+
+[Data](articles/3b988763.json)
+
+[Extended Data](ext_articles/3b988763.ext.json)
 
 ---
 
@@ -2303,65 +2351,5 @@ In the meantime, Donald Trump and 14 co -defendants are innocent from all the al
 [Data](articles/0d57cb93.json)
 
 [Extended Data](ext_articles/0d57cb93.ext.json)
-
----
-
-### President Tamil General Candidate Pa. Ariyanethran in Mannar
-
-*2024-09-14 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193638) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Public meeting in Mannar supports Tamil candidate Ariyanethran. Organized by MP Selvam Adakkalanathan. Key speakers include Siddharthan, Suresh Premachandran, Sivasakthi Anandan. Over 1000 attendees. Ariyanethran urges Tamil voters to support Sangam symbol.
-
-🟩
-
-A large public meeting was held at the Mannar city bus station at 4.30 pm on Friday (13).
-
-The general meeting was held in the coordination of former Pradeshiya Sabha member Mohanraj, organized by MP Selvam Adakkalanathan.
-
-The President of Tamil Nadu. The people of Mannar greeted Ariyanethran.
-
-Siddharthan on behalf of the Tamil National General Assembly, APRLF party leader Suresh Premachandran, former MP Sivasakthi Anandan, Tamil National Party leader Senior Attorney Sirikanda, Former Jaffna Mayor Manivannan: PoliticsAnalyst Nilanthan's former militants party representatives and representatives of public organizations addressed the gathering.
-
-At this time, the President of Tamil Nadu, P. Ariyanethran, spoke on why the Tamil people should vote for the Sangam symbol.
-
-Up to a thousand people were present at the meeting.
-
-◼️
-
-[Data](articles/f0106e1a.json)
-
-[Extended Data](ext_articles/f0106e1a.ext.json)
-
----
-
-### Candidates contesting the presidential election from the South are decorating the campaign platforms with the management of Sinhala and Buddhist nationalism
-
-*2024-09-14 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/193637) · `ta`
-
-Southern presidential candidates emphasize Sinhala Buddhism, ignore Tamil minorities. Election system favors majority rule over minority rights. Candidates reject Tamil destruction, promote Sinhalese nationalism. Tamil homeland faces militarization and repression. Tamil unity candidate emerges to represent Eelam Tamils' interests.
-
-🟩
-
-On behalf of the Priests of the Priests of the North and Eastern Provinces, Arutpani Christopher Jayakumar has said that the candidates who are contesting the presidential election from the South are decorating the campaign platforms with the management of the Sinhala and Buddhist nationalism.
-
-The country is preparing for a presidential election again.
-
-There is no need to underline how confident this is. The fact that this presidential election is being conducted from the frame within the monopoly political system cannot be told.
-
-The fact that the existing democratic system is determined by numbers is subject to common sense.
-
-The president's democratic election, centered on the number of votes, is defined as the influence of the votes of the Eelam Tamil people and other minority ethnic groups.
-
-Candidates contesting the presidential election from the south are decorating the campaign platforms by emphasizing the management of the Sinhala and Buddhist nationalism.
-
-...
-
-[Data](articles/7d97505c.json)
-
-[Extended Data](ext_articles/7d97505c.ext.json)
 
 ---

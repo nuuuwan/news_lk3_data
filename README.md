@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 13:07:33**
+As of **2024-09-14 13:22:22**
 
 ## Newspaper Stats
 
-*Scraped **43,840** Articles*
+*Scraped **43,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 426
 colombotelegraphcom | 432
-islandlk | 2,564
+islandlk | 2,565
 economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,056
@@ -26,27 +26,35 @@ adaderanasinhalalk | 7,495
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,839 (100.0%) of 43,840 articles have been extended.
+43,840 (100.0%) of 43,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
 
-### නොකළ වරදකට වසර 109කට පසු ලැබුණු සමාව
+### Forgiveness after 109 years of wrongdoing
 
 *2024-09-14 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201011) · `si`
 
-මීට වසර 109කට පෙර මෙරට සිටි බ්‍රිතාන්‍ය පාලකයන් විසින් අසාධාරණ නඩු විභාගයකින් මරණයට පත් කරනු ලැබූ කපිතාන් දියුණුගේ එඩ්වඩ් හෙන්රි පේද්‍රිස් මහතාට මරණින් පසු ජනාධිපති සමාව ලබා දුන් බව ජනපති මාධ්‍ය අංශය සඳහන් කළේය.
+Sri Lanka's President Ranil Wickremesinghe pardons Henry Pedris, wrongfully executed in 1915, after 109 years. The pardon comes under constitutional powers, addressing a historical injustice related to racial tensions during British rule.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 33(ඌ) ව්‍යවස්ථාව ප්‍රකාරව පැවරී ඇති බලතල අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම සමාව ප්‍රකාශයට පත්කර ඇත.
+🟩
 
-එවකට ලංකාවේ ආණ්ඩුකාරවරයා වූ රොබට් චාමස් විසින් 1915 ජුනි 25 දින නිකුත් කරන ලද ප්‍රකාශයක් මගින් පත් කරනු ලැබූ යුධ අධිකරණයකින් සිදුකළ අසාධාරණ නඩු විභාගයකින් පසු 1915 ජූලි 07 වන කපිතාන් දියුණුගේ එඩ්වඩ් හෙන්රි පේද්‍රිස් මහතාව නීති විරෝධී ලෙස මරණයට පත් කළ බවද ජනාධිපති මාධ්‍ය අංශ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+The Presidential Media Unit said that the Captain Due to the Captain Development Edward Developed by the Captain Due to the department of British rulers in Sri Lanka with 109 years ago, the Presidential pardoned.
 
-1888 අගෝස්තු 16 දින ගාල්ලේදී උපත ලැබූ හෙන්රි පේද්‍රිස් මහතා බ්‍රිතාන්‍ය පාලන සමයේ ලංකාවේ විසූ ප්‍රමුඛ පෙළේ සමාජ ක්‍රියාකාරිකයකු මෙන්ම ලංකා ආරක්ෂක හමුදාවේ සහ කොළඹ නගරාරක්ෂක බළකායේ සේවය කළ කපිතාන් නිලයක් හෙබවූ හමුදා නිලධාරියකුද වේ.
+The apology has been announced by President Ranil Wickremesinghe depending on the powers vested in terms of the Constitution 33 ().
 
-...
+According to a statement issued by the Governor of Sri Lanka, the July 7, 1915, after an unfair trial was issued by a statement issued by a statement issued by a statement issued by a court martial, was illegally killed.
+
+Born in Galle on 16 August 1888, Henry Pedris, a leading social activist in Sri Lanka as well as captain, a captain of the Ceylon Security Forces and Captain serving in the Colombo-e-mail and the Colombo Church.
+
+The statement states that British officials have been accused of persuading the 1915 racist commotion.
+
+◼️
 
 [Data](articles/57c63cbb.json)
+
+[Extended Data](ext_articles/57c63cbb.ext.json)
 
 ---
 
@@ -917,6 +925,20 @@ One of the most successful campaigns ever to have been executed in the airline�
 [Data](articles/56c68633.json)
 
 [Extended Data](ext_articles/56c68633.ext.json)
+
+---
+
+### Sri Lankan tourism, culture, food and tea promoted in Hague
+
+*2024-09-14 01:22:00* · [`islandlk`](http://island.lk/sri-lankan-tourism-culture-food-and-tea-promoted-in-hague/) · `en`
+
+Sri Lanka Tourism Promotion Bureau (SLTPB) , in collaboration with the Embassy of Sri Lanka in the Netherlands, participated at the “Embassy Festival 2024” on 7th September 2024 in Hague, the Netherlands. The Embassy organized two stalls showcasing Sri Lanka tourism, culture, cuisine, tea and handicrafts to the Dutch and other international visitors. This was an excellent opportunity to promote Sri Lanka’s potential as a travel destination to the European continent, in order to encourage more enthusiastic travelers from the region.
+
+The “Embassy Festival” is an annual event organized by the Municipality of Hague in a central location in the city. The Mayor of Hague, Jan Van Zanen opened the Festival where 46 Embassies and international organizations participated attracting over 60,000 visitors.
+
+...
+
+[Data](articles/07f194b7.json)
 
 ---
 
@@ -2207,35 +2229,5 @@ Foreign buying was seen in Richard Pieris and Co, Commercial Bank (up at 82.40),
 [Data](articles/b44473d1.json)
 
 [Extended Data](ext_articles/b44473d1.ext.json)
-
----
-
-### Boil 60 lakhs of the airport in Cyprus and collect visa air tickets.
-
-*2024-09-13 16:49:47* · [`adalk`](https://www.ada.lk/breaking_news/සයිප්‍රසයේ-රස්සා-දෙනවා-කියා-ලක්ෂ-60ක්-අරන්--ගුවන්-තොටුපලටම-ඇවිත්-වීසා-ගුවන්-ටිකට්-පත්-එකතුකරගෙන-පිටු/11-411935) · `si`
-
-Cyprus-bound youth group faces airport issues: Visa and ticket problems lead to police involvement.
-
-🟩
-
-The Katunayake airport was taken to the Katunayaka airport and secured the Katunayake airport to take away Rs.Have been given.
-
-The youths were informed that she sent to Cyprus' jobs 9/13, and some youths were leaving their villages from around 03.00 am and arrived at the Katunayake airport.
-
-These youths had already provided aircraft tickets and visas and instructed the airport departure terminal until this job delegation arrived.
-
-The airplane to take off the aircraft was due to leave at 10.30 am, and the job delegation had arrived at the Katunayake airport around 08.45 am.
-
-She has made all of their visas and aircraft tickets and entered the airport.
-
-The group waited another hour, while he was drowning at the airport and was expelled from the back of the airport and took her to the Katunayake airport police.
-
-The woman had revealed that the woman had made money from 15 others that the Cyprus was promised in the Cyprus.
-
-...
-
-[Data](articles/2bfe5aef.json)
-
-[Extended Data](ext_articles/2bfe5aef.ext.json)
 
 ---

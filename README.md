@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 20:37:50**
+As of **2024-09-14 20:56:35**
 
 ## Newspaper Stats
 
-*Scraped **43,894** Articles*
+*Scraped **43,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,165
 tamilmirrorlk | 5,703
 virakesarilk | 6,964
-adaderanasinhalalk | 7,510
+adaderanasinhalalk | 7,511
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,893 (100.0%) of 43,894 articles have been extended.
+43,895 (100.0%) of 43,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Differences introduced to Sri Lankan politics
+
+*2024-09-14 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201028) · `si`
+
+Dilith Jayaweera introduces strategic plan for Sri Lankan presidency, promising economic changes and debt repayment.
+
+🟩
+
+Dilith Entrepreneurship Dilith Jayaweera says that he has the first strategic plan on the presidential election after independence in Sri Lankan politics.
+
+He was speaking at a public enlaint held in the Akisa area in Matara today (14).
+
+"There are four now, 4 policy publications have been shot. But that one is nominated, no centered program.. Your life is changing. "
+
+"But how your life is changing in the program we present. The change is scientifically and logged in how it will take place. "
+
+"This is not a promived. The first chance in Sri Lanka after the independence of Sri Lankan politics, the first chance of a presidential election. "
+
+This is not a promised sheet of Sri Lankan politics, the first chaired program in Sri Lanka after independence of Sri Lanka. "
+
+Mr. Jayaweera was also present at a familiarity in the Balapitiya area in Galle.
+
+Speaking on, he said that the country was the contents of its strategy plan.
+
+...
+
+[Data](articles/6736c600.json)
+
+[Extended Data](ext_articles/6736c600.ext.json)
+
+---
 
 ### No duty relief in imports of vehicles - Bandula
 
@@ -2285,23 +2317,5 @@ Favourability estimates for each month are based on 100–500 interviews conduct
 [Data](articles/59bc1d34.json)
 
 [Extended Data](ext_articles/59bc1d34.ext.json)
-
----
-
-### Second preference vote is second round in Presidential election
-
-*2024-09-14 00:45:49* · [`dailyftlk`](https://www.ft.lk/columns/Second-preference-vote-is-second-round-in-Presidential-election/4-766737) · `en`
-
-It may be important to pay attention to the second and third preferences in the current Presidential election, which seems to be a three-way battle
-
-Presidential elections of most major democracies are held using two-round systems. It is a more democratic variant of the one-round first-past-the-post systems. Even in a two-round system, if a candidate gets more than 50% of the votes in the first round, there is no need for a second round. If no one gets more than 50%, only the first and second candidates will qualify for the second round.
-
-Sri Lanka’s presidential election system is a unique one. It seems to be a composite of three systems that are currently used internationally to make the first-past-the-post systems more democratic. The three methods are – Supplementary Vote, Ranked Choice and Two-Round methods. For now, I think it’s more practical for us to think of our system as a variant of a two-round system.
-
-...
-
-[Data](articles/3142b318.json)
-
-[Extended Data](ext_articles/3142b318.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 16:54:35**
+As of **2024-09-14 17:07:48**
 
 ## Newspaper Stats
 
-*Scraped **43,870** Articles*
+*Scraped **43,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,161
 tamilmirrorlk | 5,699
 virakesarilk | 6,959
-adaderanasinhalalk | 7,501
+adaderanasinhalalk | 7,502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,870 (100.0%) of 43,870 articles have been extended.
+43,871 (100.0%) of 43,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Will make a developed country for the future generation of the country - Namal
+
+*2024-09-14 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201019) · `si`
+
+Sri Lanka presidential candidate Namal Rajapaksa vows to develop country for future generations. Promises economic growth to $180 billion, emphasizes local development and adherence to national laws.
+
+🟩
+
+The Presidential Presidency of the party says that he has asked the Sri Lanka Civil Appointment to the Sri Lanka Civil Appointment to the Government of Sri Lanka Elections to create a developed country for the future of the country.
+
+Namal Rajapaksa, president of the Sri Lanka General Front said.
+
+"Take this message to the village. We have a program. We have worked to the country. This country has not been against. No law incompatible to our country will not be trying to pass. Our goal is to go to an economy of $ 180 billion.. Those who can't work out, can't do that. But we know how to do it. "
+
+◼️
+
+[Data](articles/16596840.json)
+
+[Extended Data](ext_articles/16596840.ext.json)
+
+---
 
 ### China's solution to the Maldives for the debt
 
@@ -2263,31 +2285,5 @@ It is further stated in the Gazette that the basic salary of 1350 rupees include
 [Data](articles/ccf255d6.json)
 
 [Extended Data](ext_articles/ccf255d6.ext.json)
-
----
-
-### Violence in the country again is lifted;People have no talk and political rights -Sajith Premadasa
-
-*2024-09-13 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193626) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Violence escalates in Sri Lanka. Universities close due to unrest. Opposition leader Sajith Premadasa criticizes government over attacks. He calls for unity against economic challenges and political instability.
-
-🟩
-
-Violence and terrorism are currently heading in the country. University is closed due to violence at Jayawardenapura University. The opposition leader said that this scandalous attack has taken place during the discussion of many social organizations.
-
-There is freedom of expression and politics in this country. We question whether the people support the deadly fascist argument, violence and morality here.. The Opposition Leader said, "We are requesting the United People's Power to get the power to drive for the public."
-
-The 49th People's Alliance organized by the United People's Alliance (UPFA) ahead of the 2024 presidential election was held on September 13 under the leadership of Opposition Leader Sajith Premadasa.. The Leader of the Opposition said this while addressing the event.
-
-...
-
-[Data](articles/9ed7b33a.json)
-
-[Extended Data](ext_articles/9ed7b33a.ext.json)
 
 ---

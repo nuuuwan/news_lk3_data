@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 19:55:47**
+As of **2024-09-14 20:07:59**
 
 ## Newspaper Stats
 
-*Scraped **43,887** Articles*
+*Scraped **43,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ dailymirrorlk | 4,733
 adaderanalk | 5,165
 tamilmirrorlk | 5,703
 virakesarilk | 6,960
-adaderanasinhalalk | 7,508
+adaderanasinhalalk | 7,510
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,887 (100.0%) of 43,887 articles have been extended.
+43,889 (100.0%) of 43,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### No duty relief in imports of vehicles - Bandula
+
+*2024-09-14 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201027) · `si`
+
+Sri Lanka Cabinet spokesperson Bandula Gunawardena announces no duty relief for vehicle imports starting February 1, 2025. Imports subject to IMF conditions, excluding public transport vehicles. Decision aims to balance economic needs and international obligations.
+
+🟩
+
+Cabinet Spokesperson Minister Bandula Gunawardena says that the vehicles have been imported from next year but cannot import vehicles without tariffs.
+
+The decision was taken in accordance with the International Monetary Fund.
+
+The Cabinet has decided to import vehicles for several stages from 1st this year.
+
+Accordingly, the first is the vehicles used for public transport.
+
+Commerce and cargo equipment is imported from December 1st this year and Cabinet Spokesperson Bandula Gunawardena said:
+
+"All types of vehicles permission to import permission from 1 second month.  ඒ අනුව  2025 පෙබරවාරි 01 සිට කාර්, වෑන්, ස්පෝට් යුටිලිටි වාහන පිකප් යන ආදීය වාහන ආනයනය කිරීම සඳහා අවසර ලබාදුන්නා."
+
+"When removing the implementation of the implementation, the Licensee can import vehicles on their license."
+
+Q. The Government of Sri Lanka has promised that the importation of the vehicle imports will not be given a permit to the IMF. Do you fulfill this promise and fulfillment?Or discuss with the IMF?
+
+...
+
+[Data](articles/37c4f4f0.json)
+
+[Extended Data](ext_articles/37c4f4f0.ext.json)
+
+---
+
+### Approval will be amended to amend the Penal Code
+
+*2024-09-14 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201026) · `si`
+
+Cabinet approves amendment to Penal Code. Attorney General clears bill. Justice Minister promotes publication in Parliament. Physical stages banned.
+
+🟩
+
+Cabinet approval has been given to amend the penal code.
+
+The approval of the Cabinet Meeting has been approved by the 29th to be amended and suitable for banning of physical stages.
+
+Accordingly, the Attorney General's clearance has also been received for the Bill, which has been prepared by the Legal Draftsman.
+
+The protoult Minister of Justice and Constitutional reform promotions have been approved by the Cabinet of Justice and Constitution to publish the Bill to Parliament.
+
+◼️
+
+[Data](articles/180241ab.json)
+
+[Extended Data](ext_articles/180241ab.ext.json)
+
+---
 
 ### “This election is about building the country together” - Anura Kumara
 
@@ -2211,59 +2267,5 @@ The Sihala Urumaya (SU) was formed in April 2000 on the basis that while Tamils 
 [Data](articles/7bc0dff1.json)
 
 [Extended Data](ext_articles/7bc0dff1.ext.json)
-
----
-
-### 2024-09-13 (Friday)
-
-### South Asian Junior Athletics Championship 2024Sri Lanka is second in the overall position
-
-*2024-09-13 23:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/193633) · `ta`
-
-Sri Lanka secures 2nd place in South Asian Junior Athletics Championship 2024, winning 16 medals including 5 golds. India leads with 48 medals, Bangladesh third with 3 bronze medals.
-
-🟩
-
-Sri Lanka won 16 medals, including 5 gold medals, on Friday (13), the last day of the fourth South Asian Junior Athletics Championships, which ended at the Jawaharlal Nehru Stadium in Tamil Nadu.
-
-Hindu Vidushan, who completed the men's 200m race in 21.33 seconds, won the gold medal with a new competition record.
-
-Lesant Meaning the gold medal with a new competition record, jumping 2.17 meters high in the men's height flow competition.
-
-In the men's 4 x 100m series, the Sri Lankan team won the gold medal by setting a new match.
-
-The Sri Lankan team won the gold medal in the men's 4 x 400m series in 3 minutes 09.27 seconds.
-
-Meanwhile, Dissanayake won the gold medal for Sri Lanka in men's thirties. He recorded a distance of 15.09 meters in the thirty -three.
-
-1500 meters for men: Brushan Buddha (4 minutes, 03.79 check.) - Bronze.
-
-4 x 100 meters of women for women: Sri Lanka (46.48 CE) Silver
-
-4 x 400 meters of women for women: Sri Lanka (3. 49.99 CE) - Friday
-
-...
-
-[Data](articles/50e01063.json)
-
-[Extended Data](ext_articles/50e01063.ext.json)
-
----
-
-### Sri Lanka Lifts Import Restrictions on Motor Vehicles Effective October 1, 2024
-
-*2024-09-13 23:44:00* · [`islandlk`](http://island.lk/sri-lanka-lifts-import-restrictions-on-motor-vehicles-effective-october-1-2024/) · `en`
-
-The government has announced the lifting of the temporary suspension on motor vehicle imports, effective October 1, 2024. This decision comes after over four years of stringent import restrictions that were initially imposed to safeguard the country’s foreign exchange reserves during the economic crisis.
-
-The import ban, introduced in March 2020, was aimed at curbing the outflow of foreign exchange amidst the country’s deepening economic troubles. With the ban now lifted, Sri Lanka will begin importing motor vehicles again, starting in stages, as part of a broader economic recovery strategy tied to the Extended Fund Facility (EFF) Programme of the International Monetary Fund (IMF).
-
-Having considered the current economic and environmental factors, the government has decided to make the following proposals for the consideration of the Cabinet of Ministers:
-
-...
-
-[Data](articles/e3101c37.json)
-
-[Extended Data](ext_articles/e3101c37.ext.json)
 
 ---

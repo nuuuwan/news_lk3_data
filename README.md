@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 18:17:17**
+As of **2024-09-14 18:29:55**
 
 ## Newspaper Stats
 
-*Scraped **43,879** Articles*
+*Scraped **43,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
-adaderanalk | 5,163
-tamilmirrorlk | 5,700
+adaderanalk | 5,164
+tamilmirrorlk | 5,701
 virakesarilk | 6,960
-adaderanasinhalalk | 7,505
+adaderanasinhalalk | 7,506
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,879 (100.0%) of 43,879 articles have been extended.
+43,879 (100.0%) of 43,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### விஜய்யின் கடைசி படத்தின் அறிவிப்பு வெளியானது
+
+*2024-09-14 18:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்யின்-கடைசி-படத்தின்-அறிவிப்பு-வெளியானது/175-343746) · `ta`
+
+விஜய்யின் கடைசி படத்திற்கு முந்தைய படமாக கோட் படம் வெளியானது, முதல் நாளில் இருந்தே வசூல் வேட்டை நடத்திவரும் இப்படம் ரூ. 350 கோடியை நெருங்கிவிட்டதாக கூறப்படுகிறது.
+
+வரும் நாட்களில் விடுமுறை நாட்கள் வருவதால் படத்தின் வசூல் இன்னும் அதிகரிக்கும் என எதிர்ப்பார்க்கப்படுகிறது.
+
+இந்த நிலையில் நேற்று விஜய்யின் கடைசி படத்தின் அறிவிப்பு இன்று வெளியாக இருப்பதாக எமோஷ்னலான வீடியோவுடன் அறிவித்தார்கள்
+
+விஜய்யின் கடைசி படமான அவரது 69வது படத்தை எச்.வினோத் தான் இயக்கப்போகிறாராம், இந்த படத்திற்கு அனிருத் இசை அமைக்கின்றார்.R
+
+◼️
+
+[Data](articles/0ad49c92.json)
+
+---
+
+### Person killed after being hit by train in Dehiwala
+
+*2024-09-14 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101977/person-killed-after-being-hit-by-train-in-dehiwala) · `en`
+
+A person has reportedly been killed after being hit by a train near the Dehiwala railway station.
+
+The accident had occurred at around 3.00 p.m. today (14), Ada Derana reporter said.
+
+It is reported that the individual was hit by a express train plying from Maradana to Beliatta.
+
+◼️
+
+[Data](articles/1604a467.json)
+
+---
+
+### ‍රුසියාවෙන් යුක්‍රේනයට ඩ්‍රොන ප්‍රහාරයක්
+
+*2024-09-14 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201023) · `si`
+
+රුසියාව විසින් යුක්‍රේනය වෙත ඩ්‍රෝන ප්‍රහාර මාලාවක් එල්ල කර තිබේ.
+
+යුක්‍රේන ගුවන් හමුදාව පවසා ඇත්තේ යුක්‍රේනයේ දකුණු සහ නැගෙනහිර ප්‍රදේශ 12කට එල්ල වු එම ඩ්‍රෝන ප්‍රහාර 76න් 72ක් බිම හෙළීමට කටයුතු කළ බවයි.
+
+ප්‍රහාරය සම්බන්ධයෙන් ප්‍රකාශයක් සිදුකරමින් යුක්‍රේන ජනාධිපති වොලොදිමීර් සෙලෙන්ස්කි පවසා ඇත්තේ රුසියාවෙන් එල්ල විය හැකි මෙවැනි ප්‍රහාරවලට මුහුණ දීම සදහා ගුවන් ආරක්ෂක පද්ධතිය ශක්තිමත් කිරීමේ අවශ්‍යතාව පවතින බවය.
+
+විදෙස් මාධ්‍ය මේ අතර වාර්තා කර ඇත්තේ යුක්‍රේන ජනාධිපතිවරයා මෙම මස අවසානයේදී අමෙරිකාවේ සංචාරයක ද නිරතවීමට තීරණය කර ඇති බවයි.
+
+◼️
+
+[Data](articles/d62db1ec.json)
+
+---
 
 ### Resolution to shut down liquor schools
 
@@ -2197,89 +2249,5 @@ Meanwhile, the restrictions on importing other passenger vehicles, including car
 [Data](articles/9e7b0f26.json)
 
 [Extended Data](ext_articles/9e7b0f26.ext.json)
-
----
-
-### The vehicles will be imported from October
-
-*2024-09-13 22:32:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-முதல்-வாகனங்கள்-இறக்குமதி-செய்யப்படும்/175-343733) · `ta`
-
-Sri Lanka Cabinet approves vehicle imports starting Oct 1, prioritizing public transport. Commercial/freight vehicles allowed Dec 1, private cars Feb 1. Imports suspended since 2021 due to economic crisis. Restrictions eased gradually.
-
-🟩
-
-Finance Minister Shehan Semasinghe said that the Cabinet has approved the importation of vehicles from October 1 this year.
-
-Accordingly, the vehicles used for public transport services have been approved first to import.
-
-It has been decided to import commercial and freight vehicles from December 1 this year.
-
-In addition, motor vehicles will be imported from the first of February next year.
-
-The Sri Lankan government has decided to suspend vehicle imports by 2021 due to the economy crisis due to the Corona infection.
-
-Due to the severe economic crisis that followed, Sri Lankan authorities have decided to continue the ban/control.
-
-Similarly, as the import of more than 2,000 goods has been stopped, they are being relaxed in phase.. Remble
-
-◼️
-
-[Data](articles/76569997.json)
-
-[Extended Data](ext_articles/76569997.ext.json)
-
----
-
-### The dollar is going to Rs. 500 if Anura president
-
-*2024-09-13 22:32:00* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ජනාධිපති-වුණොත්-ඩොලරය-රුපියල්-500ට-යනවා/11-411938) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's currency may drop to Rs. 500 under Anura's presidency. He proposes an import/export economy. President Wickremesinghe criticizes Anura's policies, saying they'll harm the economy. Wickremesinghe removes vehicle import bans and increases tax thresholds. He warns against Anura's economic plans, citing potential IMF withdrawal and currency devaluation.
-
-🟩
-
-Anura's economic policy an import economy?An export economy?The question was three days, Anura quiet
-
-I have to submit the people with stadium with statistics, with statistics with statistical data
-
-Let him argue that he arnses the economy, not to protect the economy
-
-President Ranil Wickremesinghe said that he had not responded to an expertise, the economic policy of the national promos of the National Jones of the National Jone and an Export Economy.President Ranil Wickremesinghe said
-
-He said that former Minister of Agriculture Anura Kumara, Gotabhaya Rajapakse, who defeated the former president, will not allow anyone to break the economy of the economy.
-
-President Ranil Wickremesinghe made this statement addressing the 'Ranil' rally on the Beruwala Coastal Stadium this afternoon.
-
-The proposal to provide a pension and social security benefits to preschool teachers was presented to the President.
-
-...
-
-[Data](articles/b862cba9.json)
-
-[Extended Data](ext_articles/b862cba9.ext.json)
-
----
-
-### Dilith Jayaweera urges voters to seize ‘golden opportunity’ for change
-
-*2024-09-13 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101953/dilith-jayaweera-urges-voters-to-seize-golden-opportunity-for-change) · `en`
-
-The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera emphasized the importance of the upcoming election to bring about the change that everyone expects and therefore called on the public to make the most of the golden opportunity that has been given.
-
-Addressing a public rally held in Kaduruwela, Jayaweera said: “This election presents a golden opportunity to drive out the rulers who have continuously deceived the people. It’s time to prioritize genuine, transparent leadership.”
-
-He urged the public to make the most of what he described as an “unprecedented time in history” and to work collectively towards the change they have long desired.
-
-“On the night of September 21st, a star will rise over Polonnaruwa,” Jayaweera proclaimed. “But remember, you are the true stars of this country. It is time to reject those who only seek to deceive and exploit you for their gain.”
-
-...
-
-[Data](articles/97be038e.json)
-
-[Extended Data](ext_articles/97be038e.ext.json)
 
 ---

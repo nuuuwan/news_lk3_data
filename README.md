@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 08:31:57**
+As of **2024-09-14 08:19:14**
 
 ## Newspaper Stats
 
-*Scraped **43,814** Articles*
+*Scraped **43,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,17 @@ dailymirrorlk | 4,733
 adaderanalk | 5,144
 tamilmirrorlk | 5,693
 virakesarilk | 6,946
-adaderanasinhalalk | 7,490
+adaderanasinhalalk | 7,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,813 (100.0%) of 43,814 articles have been extended.
+43,813 (100.0%) of 43,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
-
-### ඡන්ද දැන්වීම් පත්‍රිකා නිවෙස්වලට බෙදා හැරීම අදින් අවසන්
-
-*2024-09-14 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201006) · `si`
-
-නිල ඡන්ද දැන්වීම් පත්‍රිකා නිවෙස්වලට බෙදා හැරීම අද (14) දිනයෙන් අවසන් කරන බව තැපැල් දෙපාර්තමේන්තුව පැවසීය.
-
-ඒ අනුව අද දිනයේ දී නිල ඡන්ද දැන්වීම් පත්‍රිකා නොලැබුණහොත්, තම ප්‍රදේශයේ පිහිටි තැපැල් කාර්යාලයට ගොස් අනන්‍යතාව තහවුරු කර එය ලබා ගැනීමේ හැකියාව පවතින බව නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා වැඩිදුරටත් පවසා සිටියේය.
-
-◼️
-
-[Data](articles/97547c19.json)
-
----
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -2315,5 +2301,29 @@ He has been appointed to the position by the Commander of the Army, effective fr
 [Data](articles/e2dc8f28.json)
 
 [Extended Data](ext_articles/e2dc8f28.ext.json)
+
+---
+
+### I need a rollover - Ranil
+
+*2024-09-13 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200980) · `si`
+
+Ranil Wickremesinghe criticizes opponents, claims system collapse during presidency.
+
+🟩
+
+Independent president of Ranil Wickremesinghe says that those who refused to accept the country in difficult time are delivering the promises of the people.
+
+The President made this observation addressing the Colombo "Compliance" program.
+
+The 'Involved' program organized to ensure that Ranil Wickremesinghe was organized in the presidential election.
+
+"Our system collapsed.. There was no one to take over. What does it understand?.. The Upright Incompatible with Leaders Receive Your Future. Sajith Premadasa changes what he gives every day. He was just the headache not promised so long. He also offers it soon. The Policy Statement of the National Folk Forces. They don't know. "
+
+...
+
+[Data](articles/8369d5ec.json)
+
+[Extended Data](ext_articles/8369d5ec.ext.json)
 
 ---

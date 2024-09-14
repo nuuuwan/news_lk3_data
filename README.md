@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 22:11:08**
+As of **2024-09-14 22:22:30**
 
 ## Newspaper Stats
 
-*Scraped **43,902** Articles*
+*Scraped **43,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 375
 bbccomsinhala | 426
 colombotelegraphcom | 432
 islandlk | 2,570
-economynextcom | 2,676
+economynextcom | 2,679
 dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,514
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,902 (100.0%) of 43,902 articles have been extended.
+43,902 (100.0%) of 43,905 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -492,6 +492,24 @@ Madhuvari Commissioner General MG Gunasiri said that this action will be taken a
 
 ---
 
+### Sri Lanka UDA land in Kollupitiya to be leased to Global Leasing
+
+*2024-09-14 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-uda-land-in-kollupitiya-to-be-leased-to-global-leasing-179649/) · `en`
+
+ECONOMYNEXT – A land belonging to Sri Lanka’s Urban Development Authority in Colombo is to be leased to Global Leasing Limited for a mixed development project.
+
+The land bearing Assessment No. 135, at Perahera Mawatha, Kollupitiya, Colombo 3 will be provided on a 99-year lease basis, a cabinet statement said.
+
+Proposals were invited from interested investors for the 35.95 perch plot of land.
+
+Approval of the Management Board of the Urban Development Authority and Standing Negotiations Committee appointed by the Cabinet of Ministers was given to release the land to Global Leasing Limited. (Colombo/Sep14/2024)
+
+◼️
+
+[Data](articles/94f67a43.json)
+
+---
+
 ### Man collides in Dehiwala
 
 *2024-09-14 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201022) · `si`
@@ -942,6 +960,24 @@ Sinhalese and Buddhist chauvinism has almost succeeded in making us withdraw fro
 
 ---
 
+### EDB, ITC to establish SheTrades Hub in Sri Lanka
+
+*2024-09-14 14:33:00* · [`economynextcom`](https://economynext.com/edb-itc-to-establish-shetrades-hub-in-sri-lanka-179634/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Export Development Board (EDB) will sign an agreement with the International Trade Center to establish an ITC SheTrades Hub in Sri Lanka, which seeks to promote competitiveness of women-led businesses in the island.
+
+The Cabinet of Ministers has approved the proposal to sign the non-financial agreement, which seeks to increase the participation and competitiveness of businesses operated by women in Sri Lanka within international trade.
+
+Women entrepreneurs will be able to obtain the necessary training in the relevant spheres, such as market and investment opportunities and the required technical assistance through SheTrades Hub, a cabinet statement said.
+
+ITC is a multilateral agency with a joint mandate from the World Trade Organization and the United Nations Conference on Trade and Development. (Colombo/Sep14/2024)
+
+◼️
+
+[Data](articles/a4e66dd0.json)
+
+---
+
 ### Cabinet approval to gazette Penal Code (Amendment) Bill
 
 *2024-09-14 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101970/cabinet-approval-to-gazette-penal-code-amendment-bill) · `en`
@@ -1323,6 +1359,26 @@ Issuing an extraordinary gazette notification, President Wickremesinghe has gran
 [Data](articles/d5136930.json)
 
 [Extended Data](ext_articles/d5136930.ext.json)
+
+---
+
+### Sri Lanka public transport vehicle imports from Oct, trucks from Dec 2024
+
+*2024-09-14 12:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-public-transport-vehicle-imports-from-oct-trucks-from-dec-2024-179629/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has decided to lift a ban on the import of public transport vehicles from October 01 and goods transport vehicles from December 01, a government statement said.
+
+Special purpose vehicles would also be allowed from October 01.
+
+Passenger vehicles, pick-up trucks and SUVs would be allowed from February 2025.
+
+Sri Lanka’s macroeconomists running the central bank and Treasury banned the import of vehicles and about 3,000 other items from March 2020 as the currency collapsed (flexible exchange rate) after as money was printed for potential output targeting.
+
+Though lockdowns in the next month killed domestic credit and led to a recovery in the currency, forex shortages continued as large volumes of money was printed to enforce a low policy rate and yield curve targeting by scuttling bill auctions with a rate ceilings.
+
+...
+
+[Data](articles/1eed0875.json)
 
 ---
 
@@ -2295,59 +2351,5 @@ Sri Lanka is currently advancing as an export-driven economy, a direction suppor
 [Data](articles/44be43e2.json)
 
 [Extended Data](ext_articles/44be43e2.ext.json)
-
----
-
-### SriLankan Airlines’ ‘Colours of Jaffna’ campaign wins PATA Gold Award
-
-*2024-09-14 01:24:00* · [`islandlk`](http://island.lk/srilankan-airlines-colours-of-jaffna-campaign-wins-pata-gold-award/) · `en`
-
-SriLankan Airlines bagged a Gold Award in the category of “Marketing-Carrier” at the Pacific Asia Travel Association (PATA) Gold Awards 2024, held in Bangkok on 28 August 2024, reaffirming the global appeal of its marketing communication endeavours. The campaign, “Colours of Jaffna,” is the first marketing campaign by any Sri Lankan entity to exclusively spotlight the island’s vibrant north. The timeliness of the campaign is further reinstated with CNN naming Jaffna as one of Asia’s most underrated places recently.
-
-This year, PATA honoured 24 travel and tourism entities out of 100 entries from around the world, as judged by a panel of 23 industry experts.
-
-One of the most successful campaigns ever to have been executed in the airline’s history, ‘Colours of Jaffna’ garnered a reach of over 14,000,000 across social media platforms with over 500,000 engagements.
-
-...
-
-[Data](articles/56c68633.json)
-
-[Extended Data](ext_articles/56c68633.ext.json)
-
----
-
-### Sri Lankan tourism, culture, food and tea promoted in Hague
-
-*2024-09-14 01:22:00* · [`islandlk`](http://island.lk/sri-lankan-tourism-culture-food-and-tea-promoted-in-hague/) · `en`
-
-Sri Lanka Tourism Promotion Bureau (SLTPB) , in collaboration with the Embassy of Sri Lanka in the Netherlands, participated at the “Embassy Festival 2024” on 7th September 2024 in Hague, the Netherlands. The Embassy organized two stalls showcasing Sri Lanka tourism, culture, cuisine, tea and handicrafts to the Dutch and other international visitors. This was an excellent opportunity to promote Sri Lanka’s potential as a travel destination to the European continent, in order to encourage more enthusiastic travelers from the region.
-
-The “Embassy Festival” is an annual event organized by the Municipality of Hague in a central location in the city. The Mayor of Hague, Jan Van Zanen opened the Festival where 46 Embassies and international organizations participated attracting over 60,000 visitors.
-
-...
-
-[Data](articles/07f194b7.json)
-
-[Extended Data](ext_articles/07f194b7.ext.json)
-
----
-
-### LTL Holdings not to proceed with planned IPO, but market indices move upward
-
-*2024-09-14 01:21:00* · [`islandlk`](http://island.lk/ltl-holdings-not-to-proceed-with-planned-ipo-but-market-indices-move-upward/) · `en`
-
-The planned IPO of LTL Holdings would not proceed pending clarification on new information, the CSE sources said yesterday.
-
-“In this regard, the CSE has required LTL to provide additional information/clarifications to the CSE for review,” the statement said.
-
-“In view of the aforesaid new information, the Board of Directors of the CSE noted that such information should have been disclosed in the prospectus issued by LTL, they said.
-
-The stock market bounced back yesterday after experiencing a downfall during the past few trading days after the IMF announced that they were expecting to negotiate with the new government after the presidential election, market analysts said.
-
-...
-
-[Data](articles/b4b17426.json)
-
-[Extended Data](ext_articles/b4b17426.ext.json)
 
 ---

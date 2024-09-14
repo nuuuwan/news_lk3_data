@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 10:22:07**
+As of **2024-09-14 10:38:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,492
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,822 (100.0%) of 43,824 articles have been extended.
+43,824 (100.0%) of 43,824 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Meanwhile, Police Spokesman DIG Nihal Thalduwa reported that the police have rec
 ◼️
 
 [Data](articles/ffb1e910.json)
+
+[Extended Data](ext_articles/ffb1e910.ext.json)
 
 ---
 
@@ -153,6 +155,8 @@ The Treasury said the decision was made not to sell the longer tenor as current 
 ...
 
 [Data](articles/e97d4a69.json)
+
+[Extended Data](ext_articles/e97d4a69.ext.json)
 
 ---
 

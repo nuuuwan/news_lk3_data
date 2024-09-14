@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 11:38:29**
+As of **2024-09-14 11:57:52**
 
 ## Newspaper Stats
 
-*Scraped **43,830** Articles*
+*Scraped **43,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 432
 islandlk | 2,564
 economynextcom | 2,676
 dailyftlk | 2,920
-adalk | 4,055
+adalk | 4,056
 dailymirrorlk | 4,733
 adaderanalk | 5,151
 tamilmirrorlk | 5,695
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,492
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,829 (100.0%) of 43,830 articles have been extended.
+43,831 (100.0%) of 43,831 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Addressing a public rally held in Kaduruwela, Jayaweera emphasized the urgent ne
 ...
 
 [Data](articles/36fc8b39.json)
+
+[Extended Data](ext_articles/36fc8b39.ext.json)
 
 ---
 
@@ -151,6 +153,30 @@ Meanwhile, Police Spokesman DIG Nihal Thalduwa reported that the police have rec
 [Data](articles/ffb1e910.json)
 
 [Extended Data](ext_articles/ffb1e910.ext.json)
+
+---
+
+### Presidential election related complaints
+
+*2024-09-14 10:01:12* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-සම්බන්ධ-පැමිණිලි-තවදුරටත්-ඉහළට/11-411941) · `si`
+
+Here's a summary of the presidential election-related complaints in 200 characters:
+
+
+
+"Complaints surge: 3,828 filed in 2024. Most pertain to election law violations. Electoral commission reports increase."
+
+🟩
+
+The number of complaints received from the 2024 has increased to 3,828.
+
+The electoral commission said that the highest number of complaints have been received regarding election law violations.
+
+◼️
+
+[Data](articles/1673ffe2.json)
+
+[Extended Data](ext_articles/1673ffe2.ext.json)
 
 ---
 
@@ -2269,29 +2295,5 @@ Meanwhile, the Department of Railways said that special train trips from Badulla
 [Data](articles/fde03449.json)
 
 [Extended Data](ext_articles/fde03449.ext.json)
-
----
-
-### Seetha sworn in as state minister
-
-*2024-09-13 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200988) · `si`
-
-Dr. Seetha Aravelupola sworn in as Minister of Women and Child Affairs. Also retains Health Ministry position. Ceremony held at Presidential Secretariat with President Ranil Wickremesinghe and Presidential Secretary Saman Ekanayake in attendance.
-
-🟩
-
-Specialist Dr. Sehaetha Aravelupola was sworn in as the Minister of Women and Child Affairs.
-
-She was sworn in before President Ranil Wickremesinghe at the Presidential Secretariat this morning.
-
-Seetha Arambapola appointed Minister of Women and Child Affairs in addition to the post of Health Minister.
-
-Presidential Secretary Saman Ekanayake was also present at the occasion.
-
-◼️
-
-[Data](articles/9cfcde99.json)
-
-[Extended Data](ext_articles/9cfcde99.ext.json)
 
 ---

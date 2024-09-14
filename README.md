@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 10:09:52**
+As of **2024-09-14 10:22:07**
 
 ## Newspaper Stats
 
-*Scraped **43,822** Articles*
+*Scraped **43,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 375
 bbccomsinhala | 426
 colombotelegraphcom | 432
 islandlk | 2,564
-economynextcom | 2,675
+economynextcom | 2,676
 dailyftlk | 2,920
 adalk | 4,054
 dailymirrorlk | 4,733
-adaderanalk | 5,148
+adaderanalk | 5,149
 tamilmirrorlk | 5,694
 virakesarilk | 6,946
 adaderanasinhalalk | 7,492
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,492
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,822 (100.0%) of 43,822 articles have been extended.
+43,822 (100.0%) of 43,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### EC receives over 3,800 complaints ahead of Presidential Election
+
+*2024-09-14 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101960/ec-receives-over-3800-complaints-ahead-of-presidential-election) · `en`
+
+The Election Commission reported that a total of 3,828 complaints have been received thus far in relation to the presidential election.
+
+In a statement, the commission noted that 3,720 these complaints were received related to violations of election laws, and 28 complaints related to acts of violence were reported.
+
+The Chairman of the Election Commission R.M.A.L. Rathnayake said that there is a slight increase in the number of complaints received in relation to the presidential election this year.
+
+Meanwhile, Police Spokesman DIG Nihal Thalduwa reported that the police have received 350 complaints regarding the election.
+
+◼️
+
+[Data](articles/ffb1e910.json)
+
+---
 
 ### Dilith says the agricultural building strategy
 
@@ -117,6 +135,24 @@ Attorney at the Presidential Media Spokesperson SSP lawma Thaluwa also stated th
 [Data](articles/22e5433b.json)
 
 [Extended Data](ext_articles/22e5433b.ext.json)
+
+---
+
+### Sri Lanka Treasury cashflows to finance Rs58.5bn auction shortfall
+
+*2024-09-14 08:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-cashflows-to-finance-rs58-5bn-auction-shortfall-179617/) · `en`
+
+ECONOMYNEXT – A 58.5 billion rupee auction shortfall from the last bond auction will be financed by treasury cashflows, the Finance Ministry said after a plan to sell 2034 bonds was dropped amid spiking rates.
+
+The Treasury said the decision was made not to sell the longer tenor as current high interest rates were considered temporary.
+
+“In recnet weeks there has been a gradual upward pressure on interest yields observed at lamost all recent auctions for Government securities,” the Finance Ministry said.
+
+“Although the fiscal position has improved substantially as a result of the decisive fiscal policy measures implemented by the government, the bidding pattern at recent auctions, including the auction held on 12.09.2024, appears to be driven by other factors which may include the market pricing on risk associated with uncertainties related to the forthcoming elections.
+
+...
+
+[Data](articles/e97d4a69.json)
 
 ---
 
@@ -2267,55 +2303,5 @@ In addition to the post of Health Minister of Health, Sita Arambola has been app
 [Data](articles/cf2a36fb.json)
 
 [Extended Data](ext_articles/cf2a36fb.ext.json)
-
----
-
-### Bore. Correct Recovery from Kaluwanchikudi
-
-*2024-09-13 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/193591) · `ta`
-
-Body found in Batticaloa cemetery; identity unknown; religious rituals restricted; police investigation ongoing
-
-🟩
-
-The body of a man has been recovered from a cemetery belonging to the Kaluwanchikudi police division in Batticaloa, police said.
-
-Police said that there are barriers to religious rituals near the unidentified corpse that has been recovered from the Thetadheevu cemetery.
-
-Investigations have been carried out on whether any Narapali poojas have been conducted in the area, police said.
-
-The Kaluwanchikudi police and the criminal police, who arrived in the area, have been conducting investigations as the body has not yet been identified.
-
-◼️
-
-[Data](articles/d9f47d98.json)
-
-[Extended Data](ext_articles/d9f47d98.ext.json)
-
----
-
-### Club spring murder suspects remanded
-
-*2024-09-13 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200986) · `si`
-
-Amal Silva, former Provincial Councilor, arrested for Club Wasantha's murder. 12 suspects remanded until April 12. Kaduwela Magistrate delivers verdict.
-
-🟩
-
-Former Provincial Councilor Amal Silva arrested for the murder of Club Wasantha, the 12 suspects were remanded till the 12th of this month.
-
-Kaduwela Magistrate Chrishama Wijebandara has been given the verdict after being produced before the Kaduwela Magistrate's Court today (13).
-
-The former member of the Western Provincial Council was arrested on the 29th morning of the murder of Club Wasantha.
-
-He was arrested by the Western South Criminal Crimes Division under the accusation of accommodation and assistance to the crowd.
-
-The driver of the Panadura Division was arrested by the Panadura Division Criminal Unit on the 28th of this month.
-
-◼️
-
-[Data](articles/f78358cf.json)
-
-[Extended Data](ext_articles/f78358cf.ext.json)
 
 ---

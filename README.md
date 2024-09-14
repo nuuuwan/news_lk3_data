@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 22:56:05**
+As of **2024-09-14 23:08:11**
 
 ## Newspaper Stats
 
-*Scraped **43,907** Articles*
+*Scraped **43,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,679
 dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
-adaderanalk | 5,167
+adaderanalk | 5,168
 tamilmirrorlk | 5,703
 virakesarilk | 6,964
 adaderanasinhalalk | 7,516
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,907 (100.0%) of 43,907 articles have been extended.
+43,907 (100.0%) of 43,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Sri Lanka’s GDP grows 4.7% in second quarter of 2024
+
+*2024-09-14 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101981/sri-lankas-gdp-grows-47-in-second-quarter-of-2024) · `en`
+
+Sri Lanka has recorded a 4.7% growth in gross domestic product (GDP) in the second quarter of 2024, marking the fourth consecutive positive growth following six quarters of contraction since 2022, according to the State Minister of Finance.
+
+“This recovery reflects the effectiveness of ongoing reforms,” State Minister Shehan Semasinghe said in a post on ‘X’ (formerly Twitter).
+
+He stated that the growth rate is expected to remain strong, with forecasts suggesting a 4% - 4.5% increase by the end of the year, significantly exceeding the International Monetary Fund’s initial target of 2%.
+
+“This positive trajectory highlights the success of the government’s efforts in stabilizing the economy and promoting sustainable development,” Semasinghe said.
+
+◼️
+
+[Data](articles/1ef24ed6.json)
+
+---
 
 ### President's Insulate helicopter lands
 
@@ -2365,19 +2383,5 @@ In its announcement, Fitch Ratings said: “The Stable Outlook reflects Fitch’
 [Data](articles/a4b1d72e.json)
 
 [Extended Data](ext_articles/a4b1d72e.ext.json)
-
----
-
-### HUTCH Sri Lanka leads the way to ensure safe browsing for children
-
-*2024-09-14 01:52:00* · [`islandlk`](http://island.lk/hutch-sri-lanka-leads-the-way-to-ensure-safe-browsing-for-children/) · `en`
-
-In an era where the internet shapes every aspect of our lives, from learning and communication to entertainment and beyond, its influence is undeniable. However, with this vast digital reach comes the critical responsibility to ensure safe and responsible usage, especially for children who are increasingly connected to the online world. As adults, we are well aware of the dangers that lurk online in the form of harmful content, individuals with malicious intent, and the risks associated with in-app purchases. These dangers are a constant threat to unsupervised children as they explore the internet.
-
-...
-
-[Data](articles/8d152c7d.json)
-
-[Extended Data](ext_articles/8d152c7d.ext.json)
 
 ---

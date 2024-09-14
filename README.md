@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-14 05:43:26**
+As of **2024-09-14 06:05:45**
 
 ## Newspaper Stats
 
-*Scraped **43,801** Articles*
+*Scraped **43,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,053
 dailymirrorlk | 4,733
 adaderanalk | 5,143
-tamilmirrorlk | 5,690
+tamilmirrorlk | 5,691
 virakesarilk | 6,946
 adaderanasinhalalk | 7,488
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 7,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,801 (100.0%) of 43,801 articles have been extended.
+43,802 (100.0%) of 43,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-14 (Saturday)
+
+### Discounts of criminal cases against Trump
+
+*2024-09-14 05:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்பிற்கு-எதிரான-குற்றவியல்-வழக்குகள்-தள்ளுபடி/50-343734) · `ta`
+
+US Georgia court dismisses two criminal cases against Donald Trump related to 2020 election interference. Judge rules state lawyers proved false accusations. Trump and 14 co-defendants found innocent of all allegations.
+
+🟩
+
+The US Georgia court has dismissed two criminal cases against Republican presidential candidate Donald Trump.
+
+These cases were filed in connection with the election interference in 2020.
+
+The judge announced that state lawyers had proved false accusations in the case.
+
+In the 2020 election, Donald was accused of conspiring to defeat Trump's defeat in Georgia.
+
+In the meantime, Donald Trump and 14 co -defendants are innocent from all the allegations.(a)
+
+◼️
+
+[Data](articles/0d57cb93.json)
+
+[Extended Data](ext_articles/0d57cb93.ext.json)
+
+---
 
 ### President Tamil General Candidate Pa. Ariyanethran in Mannar
 
@@ -2337,39 +2363,5 @@ The Commissioner General of Examinations Amith Jayasundara has announced that th
 [Data](articles/54bcef65.json)
 
 [Extended Data](ext_articles/54bcef65.ext.json)
-
----
-
-### Who is the gen zone who is the attention of presidential candidates?What is the Generation you belong to?
-
-*2024-09-13 12:19:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg4y49r2222o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Gen Z is the focus of presidential candidates due to its growing influence. Characteristics include tech-savviness, diversity, and social activism. Born 1997-2012, Gen Z is shaping politics and culture.
-
-🟩
-
-Who is the gen zone who is the attention of presidential candidates?What is the Generation you belong to?
-
-With the warmth of the political sector, politicians who have come to the presidential election this year have been seen in recent years.
-
-President Ranil Wickremesinghe said in a meeting with the youth at Galle Funeral Hotel in GalleThe younger youths in the country will be able to take the opportunity to take.
-
-This is what a young man and the president had come to the above discussion.
-
-Young: a lot of Sarius asked questions. But I'm going to ask a chilled out question. In fact, I have two questions. Is my first question? '
-
-Young man: "Reasoning to the Present Friendship:" You want to drink beer, wine, wine, wine, wine, wine, wine, wine, wine, wine, wine, wine, wine, wine, you like to drink. ".
-
-Young man: Power.. Super ... Super.. No Wonder Been President for the The Last Two Years. Work on the stower.
-
-...
-
-[Data](articles/e6ff95b3.json)
-
-[Extended Data](ext_articles/e6ff95b3.ext.json)
 
 ---

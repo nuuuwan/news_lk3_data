@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 13:58:04**
+As of **2024-09-15 14:10:25**
 
 ## Newspaper Stats
 
-*Scraped **43,985** Articles*
+*Scraped **43,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 436
 islandlk | 2,588
 economynextcom | 2,680
 dailyftlk | 2,920
-adalk | 4,062
+adalk | 4,063
 dailymirrorlk | 4,733
 adaderanalk | 5,179
-tamilmirrorlk | 5,719
+tamilmirrorlk | 5,721
 virakesarilk | 6,975
 adaderanasinhalalk | 7,528
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 7,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,985 (100.0%) of 43,985 articles have been extended.
+43,988 (100.0%) of 43,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Prison to the owner of tomato juice
+
+*2024-09-15 13:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தக்காளிச்சாறு-உரிமையாளருக்கு-சிறை/175-343780) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Owner fined for selling tomato juice containing benzoic acid. Health inspector sued by producer, distributor, and owner. Magistrate's Court ruling in Batticaloa District.
+
+🟩
+
+Benzoic acid that is harmful to human health
+
+The health inspector has been sued by the owner, distribution, and the owner of the production company, which has been used by the artificial chromosome.
+
+The Magistrate's Court on Friday (13) sentenced the owner of the tomato juice mixture to the owner of the tomato juice mixture in the case of Public Health Inspector S. Ravikaran in the Wellaveli Health Officer Division in Batticaloa District.
+
+This was confirmed by the Public Health Inspector of the Wellaveli Health Medical Officer Division S. Ravikaran.
+
+◼️
+
+[Data](articles/4611eb73.json)
+
+[Extended Data](ext_articles/4611eb73.ext.json)
+
+---
 
 ### Woman is the character who can create a happy thing - Dilith
 
@@ -51,6 +79,30 @@ Speaking further Mr. Dilith Jayaweera said,
 [Data](articles/e2e7008c.json)
 
 [Extended Data](ext_articles/e2e7008c.ext.json)
+
+---
+
+### "I'm going to resign in 2 more days"
+
+*2024-09-15 13:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-2-நாட்களில்-ராஜினாமா-செய்யப்-போகிறேன்/175-343779) · `ta`
+
+Arvind Kejriwal announces resignation in 48 hours amid liquor policy corruption case. Supreme Court granted bail with conditions. Opposition calls for his resignation, stirring political turmoil in New Delhi.
+
+🟩
+
+New Delhi Chief Minister Arvind Kejriwal has said that he will resign in the next 48 hours.
+
+In a statement, he said, “I am going to resign as CM in 2 more days. I'm not going to sit in the CM chair anymore. Aam Aadmi Party's future is handed over to the hands of voters. I will no longer go to every house on every street of New Delhi. People voted for me and again made me the first of New Delhi.
+
+The Supreme Court granted bail on September 13 last year against New Delhi Chief Minister Arvind Kejriwal in connection with the New Delhi Liquor Policy Corruption.. Various conditions were imposed on him with bail. In this case, opposition parties, including the BJP, have urged Chief Minister Kejriwal to resign. Heavy criticism was also presented.
+
+New Delhi Chief Minister Arvind Kejriwal has said that he will resign as CM within the next 48 hours. This has caused a stir in the political environment in New Delhi.
+
+◼️
+
+[Data](articles/8d6d0713.json)
+
+[Extended Data](ext_articles/8d6d0713.ext.json)
 
 ---
 
@@ -511,6 +563,28 @@ Two women who were swept away in the water have been rescued by the Dambulla Pol
 [Data](articles/55596107.json)
 
 [Extended Data](ext_articles/55596107.ext.json)
+
+---
+
+### Here is the Sri Lankan who came with the New Zealand team
+
+*2024-09-15 11:01:13* · [`adalk`](https://www.ada.lk/sports/නවසීලන්ත-කණ්ඩායම-සමග-පැමිණි-ශ්‍රී-ලාංකිකයා-මෙන්න/9-411948) · `si`
+
+Sri Lanka: New Zealand cricket team arrives with former spinner Rangana Herath as spin bowling coach for two-test series.
+
+🟩
+
+New Zealand team for the two-match Test series arrived in the island yesterday (14).
+
+Former spinner, Rangana Herath, along with the team, also attended.
+
+He is the spinner coach of New Zealand.
+
+◼️
+
+[Data](articles/81b474c8.json)
+
+[Extended Data](ext_articles/81b474c8.ext.json)
 
 ---
 
@@ -2185,69 +2259,5 @@ The song is written by songwriter Vishnu Edavan and sung by playback singer Arke
 [Data](articles/b4dcd087.json)
 
 [Extended Data](ext_articles/b4dcd087.ext.json)
-
----
-
-### Liquor shops closed on Sep. 21 and 22
-
-*2024-09-14 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101976/liquor-shops-closed-on-sep-21-and-22) · `en`
-
-All liquor shops and wine stores islandwide will remain closed on 21 and 22 September in view of the Presidential Election, the Commissioner General of Excise announced.
-
-◼️
-
-[Data](articles/04fee15b.json)
-
-[Extended Data](ext_articles/04fee15b.ext.json)
-
----
-
-### Decision to close down alcohol selling due to election
-
-*2024-09-14 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201021) · `si`
-
-Election commission requests closure of alcohol sales on 21-22. Commissioner general agrees, citing island-wide prohibition during voting days.
-
-🟩
-
-The presidential election will be closed throughout the island on the 21st and 22nd island wide.
-
-The Commissioner General of Excise MG Gunasiri said that action will be taken according to the request of the Election Commission.
-
-He added that all the locals will be closed into 21 and 22 locations, he added.
-
-◼️
-
-[Data](articles/ef0051ff.json)
-
-[Extended Data](ext_articles/ef0051ff.ext.json)
-
----
-
-### Let's collect all - Anura
-
-*2024-09-14 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201020) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka presidential candidate Anura Kumara Dissanayake emphasizes unity in upcoming elections. He promises strong agricultural programs and calls for national cooperation during a speech in Ampara.
-
-🟩
-
-Presidential candidate Anura Kumara Dissanayake says that the coming elections are the election.
-
-He was speaking at a familiarity in Ampara yesterday.
-
-Anura Kumara Dissanayake, Presidency of the National Fund
-
-"Ranil is home when filled with bundry fertilizers. We implement a strong program for agriculture. Let's make this country together. Therefore, the election is all together. "
-
-◼️
-
-[Data](articles/f2945e6e.json)
-
-[Extended Data](ext_articles/f2945e6e.ext.json)
 
 ---

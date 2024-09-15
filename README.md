@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 04:09:26**
+As of **2024-09-16 04:22:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,072 (100.0%) of 44,073 articles have been extended.
+44,073 (100.0%) of 44,073 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -232,19 +232,25 @@ The president has asked the people not to allow the leaders of false promises no
 
 ---
 
-### எதிர்தரப்பு வேட்பாளர்கள் வாக்கு கோரும் சுதந்திரமான நிலையைக்கூட ஜனாதிபதி ரணில் விக்ரமசிங்கவே உருவாக்கினார் - செந்தில் தொண்டமான்
+### President Ranil Wickremesinghe created the independence of opposition candidates - Senthil Thondaman
 
 *2024-09-16 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193798) · `ta`
 
-"2022 களில் நாட்டு மக்கள் எவராவது தம்மை மீட்க வருவார்களா என்று ஏக்கத்துடன் காத்திருந்த காலத்தில் இன்றிருக்கும் வேட்பாளர்கள் எவரும் வரவில்லை.  நாடு சமூகமான நிலைமைக்கு வந்திருக்கும்போது இன்று மற்றையவர்கள் ஆட்சி அதிகாரம் கேட்கிறார்கள். எனவே நாட்டைப் பாதுகாத்த ஜனாதிபதியுடன் பயணிப்பதே பாதுகாப்பு.
+Senthil Thondaman supports Ranil Wickremesinghe as independent presidential candidate. He criticizes other candidates for not addressing issues like salary increases and land distribution. Thondaman claims Wickremesinghe created opportunities for opposition candidates, comparing his presidency to JR Jayewardene's era.
 
-ஜனாதிபதி ஒருவர் ஒருபோதும் வரிசையில் நிற்க வேண்டியதில்லை. அவர்களைத் தெரிவு செய்யப்போகும் நாட்டு மக்களே வரிசையில் நின்று அல்லல்பட நேரிடும். இன்று 1,350 ரூபா சம்பள அதிகரிப்பைப் பெற்றுத் தந்திருக்கும் அரசாங்கம் விரைவில் மிகுதித் தொகை சம்பள அதிகரிப்பையும் பெற்றுத் தரும் என இலங்கை தொழிலாளர் காங்கிரஸின் தலைவரும், கிழக்கு மாகாண ஆளுநருமான செந்தில் தொண்டமான் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும், சுயேட்சை வேட்பாளரான ரணில் விக்கிரமசிங்கவை ஆதரித்து, நுவரெலியா மாநகரில் 15.09.2024 அன்று மதியம் பிரசாரக் கூட்டம் நடைபெற்றது.
+"When the country was waiting for anyone to come to rescue them in 2022, none of the candidates today came.. So the safety is to travel with the president who defended the country.
+
+The president never had to stand in line. The people who are about to choose them will stand in line. Senthil Thondaman, the President of the Ceylon Workers Congress and the Governor of the Eastern Province, said that the government, which has received a salary increase of 1,350 rupees today, will soon increase the salary increase.
+
+The campaign meeting was held on 15.09.2024 in Nuwara Eliya, supporting the independent candidate Ranil Wickremesinghe, who is contesting the presidential election.
 
 ...
 
 [Data](articles/6c91aebd.json)
+
+[Extended Data](ext_articles/6c91aebd.ext.json)
 
 ---
 

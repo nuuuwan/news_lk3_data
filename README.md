@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 17:07:29**
+As of **2024-09-15 17:22:28**
 
 ## Newspaper Stats
 
-*Scraped **44,007** Articles*
+*Scraped **44,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,182
 tamilmirrorlk | 5,725
 virakesarilk | 6,984
-adaderanasinhalalk | 7,531
+adaderanasinhalalk | 7,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,007 (100.0%) of 44,007 articles have been extended.
+44,008 (100.0%) of 44,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### The number of the deaths of Myanmar due to 'Yagi'
+
+*2024-09-15 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201049) · `si`
+
+"Yagi cyclone death toll: 74 in Myanmar; 89 missing; 240,000 displaced. Southeast Asia impact reported."
+
+🟩
+
+The influence of 'Yagi' cyclone has increased to 74 people from myanmar.
+
+Myanmar authorities have said that 89 others have disappeared and about 240,000 people are displaced.
+
+Previously, Vietnam, Laos, and Thailand were severely affected by the cyclone of the Yagi.
+
+Accordingly, foreign media reports that the total number of deaths occurred over the southeast Asian countries due to the hurricane.
+
+◼️
+
+[Data](articles/310de4b4.json)
+
+[Extended Data](ext_articles/310de4b4.ext.json)
+
+---
 
 ### What if a candidate promotes another candidate
 
@@ -2213,25 +2237,5 @@ In the ongoing campaign trail, what have you seen and heard and what has surpris
 [Data](articles/ee7377bd.json)
 
 [Extended Data](ext_articles/ee7377bd.ext.json)
-
----
-
-### The Asian Network for Independent Elections
-
-*2024-09-14 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193691) · `ta`
-
-Asian Network for Independent Elections monitors Sri Lanka's presidential election. Deployed in 7 provinces, focusing on 14 major cities. Observes campaign, voting, and post-election processes amid economic challenges and public discontent.
-
-🟩
-
-The Asian Network for Independent Elections has been involved in the election monitoring of Sri Lanka's presidential election.
-
-The presidential election, which takes place at a major moment, will play an important role in determining the political and economic future of Sri Lanka.
-
-...
-
-[Data](articles/3b988763.json)
-
-[Extended Data](ext_articles/3b988763.ext.json)
 
 ---

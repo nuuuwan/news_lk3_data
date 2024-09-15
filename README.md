@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 15:37:47**
+As of **2024-09-15 15:56:36**
 
 ## Newspaper Stats
 
-*Scraped **43,993** Articles*
+*Scraped **44,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 2,920
 adalk | 4,063
 dailymirrorlk | 4,733
 adaderanalk | 5,182
-tamilmirrorlk | 5,723
-virakesarilk | 6,975
-adaderanasinhalalk | 7,528
+tamilmirrorlk | 5,724
+virakesarilk | 6,982
+adaderanasinhalalk | 7,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,993 (100.0%) of 43,993 articles have been extended.
+44,002 (100.0%) of 44,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### President apologizes for Henry Petris
+
+*2024-09-15 15:29:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹென்றி-பெட்ரிஸுக்கு-ஜனாதிபதி-மன்னிப்பு/175-343783) · `ta`
+
+Sri Lanka's President Ranil Wickremesinghe pardons Captain Edward Henry Pedris, executed in 1915 for alleged riot provocation. The pardon comes 109 years later under Article 33 of the Constitution.
+
+🟩
+
+109 years after President pardon Henry Pedris, who was killed by unreasonable trial by British
+
+The president has pardoned Captain Edward Henry Bethris after the death of British rulers 109 years ago by British rulers.
+
+President Ranil Wickremesinghe has been pardoned by President Ranil Wickremesinghe in accordance with Article 33 of the Constitution and the special gazette notification was issued on the 12th.
+
+On July 7, 1915, Captain Edward Henry Pedrissu was sentenced to death after an unfair hearing of a military court appointed by the then Governor of Sri Lanka Robert Samas, June 25, 1915.
+
+In this gazette notification, Captain Edward Henry has announced that the president will apologize after death.
+
+Born on August 16, 1888, Henry Pedris was a prominent social activist in Sri Lanka during the British regime, as well as the Sri Lanka Security Forces and the Colombo City Security Force and a military kept.
+
+...
+
+[Data](articles/563a6806.json)
+
+[Extended Data](ext_articles/563a6806.ext.json)
+
+---
+
+### A small moon around the earth at the time soon
+
+*2024-09-15 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201046) · `si`
+
+Small moon discovered orbiting Earth. Astronomers predict 10-meter satellite to circle planet by 2024. Orbit period: 53 days, starting Sept 29.
+
+🟩
+
+Astronomers say that a small moon of about 10 meters is to be orbital around the earth.
+
+The subscriber is 2024 PT FOVE (PT 5), the subscriber, the earth's gravity, will rotate around the earth.
+
+It has shown that 53 days from September 29 to November 29.
+
+◼️
+
+[Data](articles/d0cd643f.json)
+
+[Extended Data](ext_articles/d0cd643f.ext.json)
+
+---
+
+### One person killed by wild elephant
+
+*2024-09-15 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193737) · `ta`
+
+Wild elephant attack kills one near Madhuru Oya reservoir.
+
+🟩
+
+Arakangwila police said that one person was killed when a wild elephant was attacked near the Madhuru Oya reservoir belonging to the Aralangwila police division.
+
+◼️
+
+[Data](articles/6098a901.json)
+
+[Extended Data](ext_articles/6098a901.ext.json)
+
+---
 
 ### 3rd grade student dies of heart attack
 
@@ -51,6 +119,46 @@ It is noteworthy that the girl's parents have accused the girl of not taking any
 [Data](articles/a9970ec4.json)
 
 [Extended Data](ext_articles/a9970ec4.ext.json)
+
+---
+
+### One person arrested in Katunayake with cigarettes brought from Dubai
+
+*2024-09-15 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193741) · `ta`
+
+Person arrested at Katunayake airport with 6200 foreign cigarettes from Dubai. Police investigation ongoing.
+
+🟩
+
+Police have arrested a suspect at the Katunayake airport premises yesterday (14) with 6200 (31 cartoons) foreign cigarettes from Dubai to Sri Lanka.
+
+He was arrested after a group of officials of the Katunayake Airport Division of the Police Bureau of Police.
+
+Further investigations are being carried out by the Police Drug Eradication Bureau Katunayake Airport.
+
+◼️
+
+[Data](articles/b5b6d166.json)
+
+[Extended Data](ext_articles/b5b6d166.ext.json)
+
+---
+
+### Longmade
+
+*2024-09-15 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/193732) · `ta`
+
+Sri Lanka: Gov't forms Truth Reconciliation Commission to shield criminals, allowing perpetrators to evade justice and avoid conviction.
+
+🟩
+
+The Sri Lankan government is going to protect the criminals. It is going to allow the perpetrators to escape. Is going to save from the danger of being convicted. To achieve this purpose, the Truth Reconciliation Commission is to be formed.
+
+◼️
+
+[Data](articles/d781219b.json)
+
+[Extended Data](ext_articles/d781219b.ext.json)
 
 ---
 
@@ -77,6 +185,26 @@ Russia said its released soldiers were in Belarus and would be given the “nece
 [Data](articles/7f3efd49.json)
 
 [Extended Data](ext_articles/7f3efd49.ext.json)
+
+---
+
+### A man arrested with ice drugs in Mattukkuli
+
+*2024-09-15 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/193746) · `ta`
+
+Man arrested with ice drugs in Mattakkuli. Suspect caught in Samitpura area by Colombo Crime Branch officials during raid on Saturday.
+
+🟩
+
+A suspect in the Samitpura area of ​​the Mattakkuli police division has been arrested by the Mattakkuli police on Saturday (14).
+
+He was arrested during a raid carried out by a group of officials of the Colombo Crime Branch.
+
+◼️
+
+[Data](articles/d5442a4b.json)
+
+[Extended Data](ext_articles/d5442a4b.ext.json)
 
 ---
 
@@ -121,6 +249,30 @@ He noted that women constitute 53% of the population, yet many remain underrepre
 [Data](articles/a6ac31fb.json)
 
 [Extended Data](ext_articles/a6ac31fb.ext.json)
+
+---
+
+### Murder of a wife with sharp weapon;Husband arrested;Another woman hurt!
+
+*2024-09-15 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193728) · `ta`
+
+Wife murdered with sharp weapon by husband in Publicittiya. Another woman injured. Husband arrested. Family dispute cited as motive.
+
+🟩
+
+The wife has been assassinated by her husband in a house in the Publicittiya area under the Waduwa Police Division.
+
+In addition, another woman has been admitted to the hospital in the attack and the husband has been arrested in connection with the attack.
+
+The woman, who was injured in the attack, has been admitted to the Nagoda Hospital in Kalutara and the sister of the deceased woman is the police investigation.
+
+Police said the murder had taken place when a husband and wife were attacked by a sharp weapon due to a family dispute.
+
+◼️
+
+[Data](articles/58f56f85.json)
+
+[Extended Data](ext_articles/58f56f85.ext.json)
 
 ---
 
@@ -239,6 +391,46 @@ In the second quarter of 2024, the Department of Census and Statistics have repo
 [Data](articles/97704e79.json)
 
 [Extended Data](ext_articles/97704e79.ext.json)
+
+---
+
+### Waterproofing from 28 September 28 in many parts of Kandy
+
+*2024-09-15 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193736) · `ta`
+
+Kandy water disruption: Sept 28-30, 1pm-6pm. Consumers advised to conserve water. Normal service resumes Sept 30 after 2-day shutdown.
+
+🟩
+
+The National Water Supply and Drainage Board said that water supply will be disrupted for two days from September 28 in many parts of Kandy.
+
+Accordingly, the water supply will be banned from 1 pm on Saturday, September 28, and the water supply will return to normal at 6 pm on September 30.
+
+Therefore, consumers in the area are asked to save enough water to manage their needs during these two days.
+
+◼️
+
+[Data](articles/d328c7d8.json)
+
+[Extended Data](ext_articles/d328c7d8.ext.json)
+
+---
+
+### To whom will Gotabhaya's 69 lakh votes go?
+
+*2024-09-15 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193724) · `ta`
+
+Gotabhaya's 69 lakh votes likely split: Some may go to Anura Bandaranaike in Mahinda's southern stronghold, while others could be influenced by monk-led propaganda supporting Gotabhaya.
+
+🟩
+
+In 2019, secret propaganda activities were carried out in support of Gotabay. Some monks, including Gnanasara, played an important role. The country knows that Gotabhaya was behind the creation of the BBS. Similarly, the substantial of the floating votes is distracted by the page. The Sinhalese votes in the Southern Provincial Council of Mahinda's area have turned to Anura.
+
+◼️
+
+[Data](articles/8c861dfd.json)
+
+[Extended Data](ext_articles/8c861dfd.ext.json)
 
 ---
 
@@ -2041,219 +2233,5 @@ The protoult Minister of Justice and Constitutional reform promotions have been 
 [Data](articles/180241ab.json)
 
 [Extended Data](ext_articles/180241ab.ext.json)
-
----
-
-### “This election is about building the country together” - Anura Kumara
-
-*2024-09-14 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101978/this-election-is-about-building-the-country-together-anura-kumara) · `en`
-
-National People’s Party (NPP) presidential candidate Anura Kumara Dissanayake says that the upcoming election would be a pivotal moment for uniting the country to overcome its challenges.
-
-Speaking at a rally in Ampara yesterday (13), Dissanayake emphasized the collective effort required to drive the nation forward.
-
-“This election is about building the country together,” Dissanayake said.
-
-“When the people needed fertilizer for their crops, Ranil stayed at home. In contrast, we have a strong agricultural plan in place. We are committed to ensuring that the needs of farmers and citizens are met”, he added.
-
-◼️
-
-[Data](articles/b4aaafa0.json)
-
-[Extended Data](ext_articles/b4aaafa0.ext.json)
-
----
-
-### New Zealand team to visit Sri Lanka
-
-*2024-09-14 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201025) · `si`
-
-New Zealand cricket team arrives Sri Lanka Katunayake Airport two Test matches Galle International Cricket Stadium World Test Championships 2025 presidential election declared holiday
-
-🟩
-
-New Zealand Test team arrived at the Katunayake Airport this afternoon for two Test matches between Sri Lanka and New Zealand.
-
-The two matches will be held at the Galle International Cricket Stadium.
-
-The presidential election will be declared as a holiday due to the presidential election.
-
-This is held under World Test Championships organized by the International Cricket Council - 2025.
-
-◼️
-
-[Data](articles/d3bffcb6.json)
-
-[Extended Data](ext_articles/d3bffcb6.ext.json)
-
----
-
-### Dhamma School Teacher Allowance will be increased by Rs.2,500
-
-*2024-09-14 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201024) · `si`
-
-Dhamma School Teacher Allowance increase: Cabinet approves Rs.2,500 uniform allowance. Annual evaluation planned to boost Rs.5,000 allowance.
-
-🟩
-
-Cabinet approval has been granted to provide a 2,500 uniform allowance for Dhamma School teachers representing all religions.
-
-In view of the Minister of Buddha Sasana and the religious and cultural Affairs, the Minister of Dhamma School teachers have been approved in 2025.
-
-Evaluate the services of Dhamma School teachers and providing an annual teacher allowance of Rs. 5,000 to encourage them.
-
-Accordingly, the annual allowance of the teachers will receive an allowance of Rs.
-
-◼️
-
-[Data](articles/25e37f23.json)
-
-[Extended Data](ext_articles/25e37f23.ext.json)
-
----
-
-### Vijay's last movie has been released
-
-*2024-09-14 18:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்யின்-கடைசி-படத்தின்-அறிவிப்பு-வெளியானது/175-343746) · `ta`
-
-Vijay's latest film released, expected to gross 350 crores. Directed by H. Vinod, it's his 69th project. Collections may rise during upcoming holidays.
-
-🟩
-
-The film was released by Vijay's last film.. 350 crores is said to be approaching.
-
-The film's collections are expected to increase as the holidays are coming in the coming days.
-
-At this juncture, Vijay's last film was announced yesterday with the emotional video
-
-H. Vinod is going to direct his 69th film, Vijay's last film.
-
-◼️
-
-[Data](articles/0ad49c92.json)
-
-[Extended Data](ext_articles/0ad49c92.ext.json)
-
----
-
-### Person killed after being hit by train in Dehiwala
-
-*2024-09-14 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101977/person-killed-after-being-hit-by-train-in-dehiwala) · `en`
-
-A person has reportedly been killed after being hit by a train near the Dehiwala railway station.
-
-The accident had occurred at around 3.00 p.m. today (14), Ada Derana reporter said.
-
-It is reported that the individual was hit by a express train plying from Maradana to Beliatta.
-
-◼️
-
-[Data](articles/1604a467.json)
-
-[Extended Data](ext_articles/1604a467.ext.json)
-
----
-
-### Arguing to Ukraine from Russia
-
-*2024-09-14 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201023) · `si`
-
-Ukraine: Russia sends drones; 66 destroyed. President Zelenskyy calls for stronger air defenses. He plans US visit late this month.
-
-🟩
-
-Russia has served a series of drones to Ukraine.
-
-According to the Ukrainian Air Force, 72 of the 66 drones were thrown to the ground with the South and East of the Southern and Eastern Provinces in Ukraine.
-
-President Wallodimir Celenceky has said that the attack on the attack has stated that there is a need to strengthen the air defense system to cope with such attacks in Russia.
-
-The Ukraine president has decided to visit the US in the end of this month.
-
-◼️
-
-[Data](articles/d62db1ec.json)
-
-[Extended Data](ext_articles/d62db1ec.ext.json)
-
----
-
-### The 'law of my hand', which has been formed in the case of investigative investigation
-
-*2024-09-14 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/193702) · `ta`
-
-"Law of My Hand" film summary: Comedy starring Sathish, directed by Sachi, produced by Shanmugam Creations and Seats Entertainment. Released worldwide on 20th day. Satish plays natural and aggressive role. Not related to "Vidyakkaran".
-
-🟩
-
-The film 'Law En Ka Ka', which has been successful as a comedian, rising as the hero of the story, and the hero of the story, Sathish, who plays the hero of the story.
-
-Vijay Sethupathi and director Venkat Prabhu have posted this on their web page and congratulated the film crew.
-
-Directed by director Sachi, directed by director Sachi, directed by director Sachi, Sathish, Ajay Raj, Pavel Navadekithan, Maim Gopi, Ritika, KP Y Satish, Vidya Pradeep, writer and actor Bawa Selvadurai, director and director.E.. Many people including Ramdas. BG Muttiah has recorded the film for this movie. S.. Jones Rubert has composed music.
-
-The film is being produced by Shanmugam Creations and Seats Entertainment, which is being produced by the producers Bharadwaj Murali Krishnan, Ananda Krishnan Shanmugam and Sri Ram Satya Narayanan.
-
-The film, which will be released at the film House around the world on the twentieth day, has been released.
-
-...
-
-[Data](articles/05224bb9.json)
-
-[Extended Data](ext_articles/05224bb9.ext.json)
-
----
-
-### The music of 'Nandan' released by Seeman
-
-*2024-09-14 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193703) · `ta`
-
-"Nandan" film music release: Seeman congratulates crew, highlights caste politics theme. Directed by Saravanan, starring Sasikumar, Suruthi Periyasamy. Music by Saran, produced by Ira Entertainment. Preview event in Chennai with special guests.
-
-🟩
-
-The music and preview of the film Nandan, which will be released in the film mansion worldwide on the upcoming twentieth day of Sasikumar's performance.
-
-The film director, actor and a political party coordinator of the Tamil Nadu, 'Senthamizhan' Seeman congratulated the film crew.
-
-In the director. Sasikumar, Suruthi Periyasamy, Balaji Sakthivel, Samudrakani and many others have starred in the film 'Nandan' directed by Saravanan.. R. V.. The film, which has been recorded by Saran, has composed the film for the film.
-
-The film is being prepared to focus on the conflict between the dominant caste politics and the oppressed caste politics on behalf of the film company Ira Entertainment.. Produced by Saravanan.
-
-The music and preview of the film was held in Chennai.
-
-The leading star director H.. Vinod, Director Rohin Venkatesan, composer Niwas K. Prasanna and 'Senthamizhan' Seeman were the special guests.
-
-...
-
-[Data](articles/5622c53c.json)
-
-[Extended Data](ext_articles/5622c53c.ext.json)
-
----
-
-### Damage to many party offices in Mirigama and Divulapitiya areas;Police investigation
-
-*2024-09-14 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193699) · `ta`
-
-Party offices vandalized in Mirigama and Divulapitiya; police investigating arson attacks and suspicious posters.
-
-🟩
-
-Pallewela police said that the two party offices in the Mirigama and Bogalagama area and a party office in Kittwalawala area in Divulapitiya have been set on fire and the offices have been damaged.
-
-The name boards of a party office located at the Kittalwala Ginithamanammana junction have been set on fire and the names of the office of the office of the office of Heidehwala village, one and a half kilometers away.
-
-Police said that the name boards of another party office, about 200 meters from the area, have been burned.
-
-Some handmade posters have been seized by the police near two party offices burned in the Heidehwala area.
-
-Police suspect that these posters may be an attempt to divert the police investigation.
-
-◼️
-
-[Data](articles/d5e64077.json)
-
-[Extended Data](ext_articles/d5e64077.ext.json)
 
 ---

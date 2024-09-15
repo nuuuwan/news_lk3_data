@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 23:38:34**
+As of **2024-09-15 23:57:41**
 
 ## Newspaper Stats
 
-*Scraped **44,058** Articles*
+*Scraped **44,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 376
 bbccomsinhala | 426
 colombotelegraphcom | 436
 islandlk | 2,588
-economynextcom | 2,680
+economynextcom | 2,681
 dailyftlk | 2,920
 adalk | 4,065
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,058 (100.0%) of 44,058 articles have been extended.
+44,059 (100.0%) of 44,059 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -293,6 +293,26 @@ The commission warned that any candidate found engaging in such prohibited activ
 [Data](articles/64944bdd.json)
 
 [Extended Data](ext_articles/64944bdd.ext.json)
+
+---
+
+### Sri Lanka CEB to seek floating solar investors for three reservoirs
+
+*2024-09-15 19:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-to-seek-floating-solar-investors-for-three-reservoirs-179678/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of minister has given the go ahead for state-run Ceylon Electricity Board to seek private investors to build floating solar power plants in three reservoirs, a statement said.
+
+Sri Lanka’s Mahalweli Authoriy has indentified Randenigala, Moragahakanda reservoirs and the Kalawewa tank as suitable for floating solar plants.
+
+Feasibility studies have now been done for the three reservoirs.
+
+The cabinet had approved a proposal by Power and Energy Minister Kanchana Wijesekera to entrust the CEB to select investors under a competitive procurement process. (Colombo/Aug14/2024)
+
+◼️
+
+[Data](articles/59cd3747.json)
+
+[Extended Data](ext_articles/59cd3747.ext.json)
 
 ---
 
@@ -2241,33 +2261,5 @@ The Commission's Chairman RMAL Ratnayake has stated that the Elections Commissio
 [Data](articles/292d7546.json)
 
 [Extended Data](ext_articles/292d7546.ext.json)
-
----
-
-### Tamil general candidate is a symbol of the unity of the Eelam Tamil people- the priests of the North, East and Peace
-
-*2024-09-15 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193690) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil general candidate represents unity of Eelam Tamil people. They should be elected to North East. Presidential election focuses on vote counts, influencing Tamil and minority votes. Southern candidates emphasize Sinhala Buddhist nationalism, rejecting Tamil rights. Tamil homeland faces repression, militarization. Choosing Tamil candidate strengthens Eelam Tamil politics.
-
-🟩
-
-The Tamil general candidate is a symbol of the unity of the Eelam Tamil people and therefore the Tamils ​​should be elected to the North East.
-
-The country is preparing for a presidential election again. The political knowledge of this presidential election or the presidential candidate has been presented as the history of their individual and collective politics.. It is not necessary to underline how much hope it is. The fact that this presidential election is being held from the frame within the monopoly political system cannot be told.
-
-The fact that the existing democratic system is determined by numbers is common sense. The president's democratic election, centered on the number of votes, is defined as the influence of the votes of the Eelam Tamil people and other minority ethnic groups.
-
-Candidates contesting the presidential election from the south are decorating the campaign platform by emphasizing the management of the Sinhala Buddhist nationalism.
-
-...
-
-[Data](articles/19fafacb.json)
-
-[Extended Data](ext_articles/19fafacb.ext.json)
 
 ---

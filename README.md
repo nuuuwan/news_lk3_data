@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 19:07:45**
+As of **2024-09-15 19:22:30**
 
 ## Newspaper Stats
 
-*Scraped **44,029** Articles*
+*Scraped **44,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,137 @@ dailyftlk | 2,920
 adalk | 4,064
 dailymirrorlk | 4,733
 adaderanalk | 5,184
-tamilmirrorlk | 5,729
+tamilmirrorlk | 5,732
 virakesarilk | 6,994
-adaderanasinhalalk | 7,536
+adaderanasinhalalk | 7,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,028 (100.0%) of 44,029 articles have been extended.
+44,033 (100.0%) of 44,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
 
-### මැතිවරණ පැමිණිලි තවත් ඉහළ ට
+### Scholarship Result in 40 days
+
+*2024-09-15 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201055) · `si`
+
+Grade 5 scholarship exam results to be announced in 40 days. Exam conducted at 2,849 centers, 323,879 students participated. Commissioner General of Examinations Amit Jayasundara made the announcement.
+
+🟩
+
+Commissioner General of Examinations Amit Jayasundara said that the results of the Grade 5 scholarship examination held today (15) will be released in 40 days.
+
+This year's scholarship was held at 2,849 centers and 323,879 students were present.
+
+◼️
+
+[Data](articles/23981143.json)
+
+[Extended Data](ext_articles/23981143.ext.json)
+
+---
+
+### Mud trader killed
+
+*2024-09-15 18:49:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்-வர்த்தகர்-மண்ணுக்குள்-புதையுண்டு-பலி/76-343799) · `ta`
+
+Businessman dies in mud pit accident: 43-year-old Ranasinghe Chanaka Erration fell into a deep pit while operating a pecking machine in Mawathagama, Sri Lanka. Local residents report his body remained buried for about 40 minutes before being discovered.
+
+🟩
+
+Police said that a dealer who was involved in a mud trader had been killed in the mud in the Mawathagama area.
+
+The 43 -year -old Ranasinghe Chanaka Erration, a businessman in the Harankhagoda area of ​​Weduda, has died.
+
+He is a long -time business in Kotikapola area, police said.
+
+It is reported that he fell into a deep pit while working with his peckho machine and died in the collapse of the soil.
+
+Local residents say that his body was invented in removing the soil for about forty minutes and he was dead.
+
+◼️
+
+[Data](articles/6d987332.json)
+
+[Extended Data](ext_articles/6d987332.ext.json)
+
+---
+
+### Warning to Presidential candidates
+
+*2024-09-15 18:46:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களுக்கு-எச்சரிக்கை/175-343798) · `ta`
+
+Sri Lanka Elections Commission warns presidential candidates against illegal campaigning. Candidates must only promote themselves, not others. Violations may result in legal consequences.
+
+🟩
+
+The Sri Lanka Elections Commission has issued a warning to presidential candidates on illegal campaigning ahead of the presidential election on September 21, 2024. The Commission said they had received complaints about some candidates supporting and promoting other candidates.
+
+In the official report, the Chairman of the Elections Commission, RMAL. Ratnayake urged all candidates to campaign only for their own success. "There have been complaints that some candidates are campaigning on behalf of others, which are clearly violated by the election law," the statement said.
+
+The Commission has urged all candidates to stay away from such illegal activities and that any candidate who violates these rules will face legal consequences and two candidates who are advertised and advertised should be held accountable under the Election Act.
+
+◼️
+
+[Data](articles/f664b69b.json)
+
+[Extended Data](ext_articles/f664b69b.ext.json)
+
+---
+
+### Election Complaints
 
 *2024-09-15 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201054) · `si`
 
-ජනාධිපතිවරණයට අදාළව තවත් පැමිණිලි 184ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+Elections Commission reports 184 complaints in 24 hours, including 181 related to violence. Total complaints since July 31 increased to 4215. 3641 resolved, 574 pending.
 
-නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව සඳහන් කර ඇත්තේ ගතවූ පැය 24 තුළ පැමිණිලි 184ක් වාර්තා වූ බවය.
+🟩
 
-ඒ අනුව ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධව පැමිණිලි 01ක්, නීති උල්ලංඝනය කිරීම් සම්බන්ධව 181ක් සහ වෙනත් පැමිණිලි 02ක් ලෙසින් එම පැමිණිලි වාර්තා වී තිබේ.
+The Elections Commission says that 184 complaints have been received in connection with the presidential election.
 
-ඒ අනුව ජූලි 31 වැනිදා සිට මේ දක්වා වාර්තා වී ඇති සමස්ත පැමිණිලි සංඛ්‍යාව 4215ක් දක්වා ඉහළ ගොස් ඇත.
+The Commission issued an announcement, 184 complaints were reported over the past 24 hours.
 
-ලැබී ඇති සමස්ත පැමිණිලි අතරින් 3641ක් විසඳා ඇති අතර, තවත් පැමිණිලි 574ක් විසදීමට ඇති බවත් එම නිවේදනයේ සඳහන්ව තිබේ.
+Accordingly, 1 complaints of complaints regarding violence have been reported as 181 and two other complaints.
+
+Accordingly, the total number of complaints reported from July 31 to 4215 has increased to 4215 complaints.
+
+The announcement states that 3641 complaints have been resolved and another 574 complaints have been resolved.
 
 ◼️
 
 [Data](articles/c3e0ad16.json)
+
+[Extended Data](ext_articles/c3e0ad16.ext.json)
+
+---
+
+### "Problem with dissolving Parliament"
+
+*2024-09-15 18:32:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தைக்-கலைத்தால்-சிக்கல்/175-343797) · `ta`
+
+Ranil Wickremesinghe warns dissolving Parliament post-election could harm Sri Lanka. NPP counters, saying dissolution would be undemocratic and unfair to citizens.
+
+🟩
+
+President Ranil Wickremesinghe has said that if Parliament is dissolved after the presidential election, the constitutional arrangements have been made to rule the new presidential country and will have adverse consequences for the people and the country.
+
+However, at the National People's Power (NPP) media briefing, the transfer of power to the new president elected within the democratic structure should be democratically without a negative effect on the people.
+
+Responding to a question raised by the Prime Minister's speculation that the president would dissolve parliament on September 21 after the presidential election.
+
+Kumarapperuma said that the president had the power to dissolve parliament at any time, and that it would be very dishonest if it did so at this moment.
+
+“The President can dissolve parliament at any time on the basis of the Constitution. There are many rules in such a situation for the new president. However, it can have serious consequences.
+
+...
+
+[Data](articles/0da1c6dc.json)
+
+[Extended Data](ext_articles/0da1c6dc.ext.json)
 
 ---
 
@@ -2205,83 +2305,5 @@ The Prime Minister also noted that the fire of the calf has been named as a fire
 [Data](articles/03dc5d23.json)
 
 [Extended Data](ext_articles/03dc5d23.ext.json)
-
----
-
-### Media Meeting from astronaut
-
-*2024-09-15 02:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விண்வெளியிலிருந்து-ஊடக-சந்திப்பு/50-343759) · `ta`
-
-NASA astronauts Sunita Williams and Pudch Wilmore join ISS media briefing after unexpected stay due to spacecraft issues. They express happiness about being in space but concern for families and pets. Return delayed until Feb 2025 for security reasons.
-
-🟩
-
-NASA astronauts Sunita Williams and Pudch Wilmore joined the direct media briefing at the International Space Station.
-
-The two joined the space yesterday (13) at midnight.
-
-Putch Wilmore said he had trained to handle all kinds of circumstances.
-
-Sunita Williams said she was happy in space and was worried that her family and 2 dog cubs were worried.
-
-Due to the problems of the spacecraft, they were staying at the International Space Station unexpectedly.
-
-NASA recently confirmed that the return of astronauts for security reasons will be delayed until February 2025. (A)
-
-◼️
-
-[Data](articles/acf4101a.json)
-
-[Extended Data](ext_articles/acf4101a.ext.json)
-
----
-
-### MediaDefined Pvt Ltd wins top awards at Commonwealth Business Excellence
-
-*2024-09-15 02:05:00* · [`islandlk`](http://island.lk/mediadefined-pvt-ltd-wins-top-awards-at-commonwealth-business-excellence/) · `en`
-
-MediaDefined Pvt Ltd, an ICT solutions company in Sri Lanka, won the “Best International Collaboration Company/Project of the Year 2024” for Learning and Development at the Commonwealth Business Excellence Awards for the second consecutive year. The ceremony was held at Emperors Palace in Johannesburg. Director L. A. D. E. Vipul Perera also received the ‘Best CEO/Director of the Year 2024’ award in technology for Learning and Development, marking his second consecutive win. Founded in 2007, MediaDefined Pvt Ltd is a subsidiary of MediaDefined Inc, Dallas.
-
-It was founded by Himansu Karunadasa, Vipul Perera, Prof. J. T. F. De Silva (Former General Manager), and three accomplished software engineers.
-
-Fostering inclusive growth: HNB and Sunera Foundation’s landmark partnership for differently-abled youth
-
-The Potential Impact of a Clean, Development-Focused Government on Sri Lanka’s Stock Market
-
-...
-
-[Data](articles/b077b8a0.json)
-
-[Extended Data](ext_articles/b077b8a0.ext.json)
-
----
-
-### CurveUp expands globally, signs key MoU at Collision Conference 2024
-
-*2024-09-15 02:04:00* · [`islandlk`](http://island.lk/curveup-expands-globally-signs-key-mou-at-collision-conference-2024/) · `en`
-
-CurveUp is expanding its global presence by introducing its innovative educational technologies and methodologies to new international markets, building on its success in South Asia and the Gulf regions. Its sister company, BootUp, is also advancing this mission with the launch of a mobile app that enhances digital, AI, and cybersecurity skills, further supporting CurveUp’s global growth.
-
-During a recent visit to Canada, CurveUp made significant strides by participating in the Collision Conference 2024 in Toronto, a major tech event where the company showcased its solutions and networked with industry leaders. A key achievement from the conference was the signing of a Memorandum of Understanding (MoU) with EduvolutionX, under the supervision of Harman Idema, the Consul General at the Netherlands Consulate General. This agreement marks a pivotal step in developing a cutting-edge STEM curriculum, aiming to enhance global educational innovation.
-
-...
-
-[Data](articles/0f29a267.json)
-
-[Extended Data](ext_articles/0f29a267.ext.json)
-
----
-
-### Dialog Crowns Top Digital Innovators at Grand Finale of Innovation Challenge
-
-*2024-09-15 02:02:00* · [`islandlk`](http://island.lk/dialog-crowns-top-digital-innovators-at-grand-finale-of-innovation-challenge/) · `en`
-
-The Dialog Innovation Challenge (DIC), Sri Lanka’s largest digital innovation competition, concluded with an impressive showcase of technological talent. The program, aired on TV Derana and Dialog Television’s Channel One over a span of two months, culminated in a grand finale that highlighted its role in fostering technological advancement and local innovators. Supported by a diverse ecosystem of partners and guided by an esteemed panel of industry experts as judges, the competition proved to be a groundbreaking initiative.
-
-...
-
-[Data](articles/1549cc82.json)
-
-[Extended Data](ext_articles/1549cc82.ext.json)
 
 ---

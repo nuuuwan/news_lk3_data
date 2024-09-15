@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 12:55:25**
+As of **2024-09-15 13:07:29**
 
 ## Newspaper Stats
 
-*Scraped **43,973** Articles*
+*Scraped **43,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,138 @@ economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,062
 dailymirrorlk | 4,733
-adaderanalk | 5,178
-tamilmirrorlk | 5,716
-virakesarilk | 6,969
+adaderanalk | 5,179
+tamilmirrorlk | 5,719
+virakesarilk | 6,975
 adaderanasinhalalk | 7,526
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,973 (100.0%) of 43,973 articles have been extended.
+43,983 (100.0%) of 43,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Sajith's election manifesto is just a skeleton
+
+*2024-09-15 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193738) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sajith's election manifesto lacks substance. Tamils demand sovereignty, self-determination, and national recognition. Key issues: ethnic rights, aggression, normalcy, war impacts. Political solution rejected.
+
+🟩
+
+As far as the Tamil people are concerned, the basic issue of political solution is that there are five issues, such as the issue of responsibility for ethnicity, the issue of aggression, the problem of normalcy, and the problem of war impacts. The Tamil people reject any political solution on the issue of political solutions. They expect national recognition of sovereignty recognition and self -determination.
+
+◼️
+
+[Data](articles/52f77234.json)
+
+[Extended Data](ext_articles/52f77234.ext.json)
+
+---
+
+### Election-related complaints surpass 4,000
+
+*2024-09-15 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101992/election-related-complaints-surpass-4000) · `en`
+
+The Election Commission reported that a total of 4,031 complaints have been received thus far in relation to the presidential election.
+
+This includes a total of 203 more complaints received by the election regulatory body during the past 24 hours.
+
+In a statement, the commission noted that 3,916 these complaints were received related to violations of election laws, and 29 complaints related to acts of violence were reported.
+
+On Saturday (14), Chairman of the Election Commission R.M.A.L. Rathnayake said that there is a slight increase in the number of complaints received in relation to the presidential election this year.
+
+◼️
+
+[Data](articles/5e74f1a3.json)
+
+[Extended Data](ext_articles/5e74f1a3.ext.json)
+
+---
+
+### One person was killed by a sharp weapon
+
+*2024-09-15 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/193723) · `ta`
+
+A 70-year-old man was fatally stabbed in the Heinpalla area. Police are investigating and searching for suspects.
+
+🟩
+
+Investigations have been launched based on information received by the police regarding the death of a man who was attacked by a sharp weapon in the Heinpalla area of ​​the Baduraliya Police Division.
+
+The 70 -year -old man from Morapitiya, Morapitiya, has died in the attack, police said.
+
+Baduraliya police are conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/17a63b89.json)
+
+[Extended Data](ext_articles/17a63b89.ext.json)
+
+---
+
+### Death rite
+
+*2024-09-15 12:40:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்க்கும்-மரணச்-சடங்கு/175-343778) · `ta`
+
+Funeral rites for foster dog Rodweeler "Pisa" in Jaffna-Vaddukoddai. Born 2006, passed away aged 18. Held annual funerals since 2014, mimicking human ceremonies to honor his memory.
+
+🟩
+
+The funeral of a foster dog, like performing a funeral for humans. The incident took place today in Jaffna - Vaddukoddai, Mavadi.
+
+Rodweeler ethnic dog, also known as Pisa, has been born on 20.08.2006. Pisa died on Saturday (2024.09.14) over the age of 18.
+
+The funeral has been raised for the last 10 years. For the past 10 years, he has held a funeral to the penny as a funeral for humans for the loan of gratitude for him.
+
+The body of the penny was taken as a funeral everywhere in the Vaddukoddai area. Then the body of the Ezaman of the penny was well -existed.
+
+◼️
+
+[Data](articles/28b4c716.json)
+
+[Extended Data](ext_articles/28b4c716.ext.json)
+
+---
+
+### “Ranil's success is confirmed”
+
+*2024-09-15 12:39:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வெற்றி-உறுதி/175-343777) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"UNP Ratnapura organizer calls for Tamil-speaking community support for President Ranil Wickremesinghe. Emphasizes voting as a democratic weapon for national progress. Urges voters to choose experienced leaders over inexperienced ones."
+
+🟩
+
+Independent candidate in the presidential election is determined to win President Ranil Wickremesinghe. Therefore, the Tamil -speaking people must be partners of this victory. UNP Ratnapura District Organizer Subbaiah Anandakumar said that the rights and development could be easily won.
+
+Voting is the democratic weapon of the people. He also called for the use of the weapon for the progress of the country and for our progress.
+
+Subbaiah Anandakumar said this while addressing a campaign meeting in Ratnapura. He further stated that
+
+“The day for the presidential election is nearing. People are going to use voting rights after 6 more days. All voters this time must use their vote. Because this is the election that will determine the fate of the country.
+
+It is better to avoid voting for inexperienced, immature politicians. If so, the leader who has recovered the country should be your choice. You do not want to know that the leader is President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/a17f1d52.json)
+
+[Extended Data](ext_articles/a17f1d52.ext.json)
+
+---
 
 ### Disorder
 
@@ -51,6 +169,68 @@ The Sri Lanka Air Force -owned Bell 412 aircraft has been a technical disorder.
 [Data](articles/39b0d6a5.json)
 
 [Extended Data](ext_articles/39b0d6a5.ext.json)
+
+---
+
+### Cellabus
+
+*2024-09-15 12:32:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்புக்கு-சென்ற-உலங்கு-வானூர்தியில்-கோளாறு/175-343775) · `ta`
+
+President Ranil Wickremesinghe's helicopter made emergency landing at Eppawala due to mechanical issues. Repaired and left after about an hour. Bell 412 aircraft experienced technical problems.
+
+🟩
+
+Independent presidential candidate President Ranil Wickremesinghe landed on the Eppawala belt due to the mechanical failure of the Ulangaurdi who came to protect the helicopter.
+
+About an hour later, a helicopter was repaired and departed, a Presidential Security Unit official said.
+
+The Sri Lanka Air Force -owned Bell 412 aircraft has been a technical disorder.
+
+◼️
+
+[Data](articles/b94e2b0d.json)
+
+[Extended Data](ext_articles/b94e2b0d.ext.json)
+
+---
+
+### Will the bud team save Ranil?
+
+*2024-09-15 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/193721) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Will the UNP team save Ranil? His survival depends on MP loyalty. If unsuccessful, both may vanish from history."
+
+🟩
+
+Ranil Wickremesinghe is staying in successful whether MPs will remain with Ranil Wickremesinghe, whether they will give him a long time or a loyal to him.. If he fails, the United National Party and him may disappear from history.
+
+◼️
+
+[Data](articles/0b287abd.json)
+
+[Extended Data](ext_articles/0b287abd.ext.json)
+
+---
+
+### India's wrong attitude
+
+*2024-09-15 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/193718) · `ta`
+
+India rejects Tamil demands from 1980s, citing 13th Amendment as solution to ethnic conflict. This stance ignores decades of unresolved issues and ongoing tensions between Sinhalese and Tamil communities.
+
+🟩
+
+India has openly stated that the provincial councils rejected by moderate Tamil leaders 37 years ago and the 13th Amendment are the solution to the ethnic problem.
+
+◼️
+
+[Data](articles/add52820.json)
+
+[Extended Data](ext_articles/add52820.ext.json)
 
 ---
 
@@ -124,6 +304,44 @@ Katunayake Airport Customs customs have recovered 602 cigarettes cigarettes in t
 
 ---
 
+### The implementation of the 13th Amendment will not affect the unity of the country - we have an obligation to implement it - Sajith
+
+*2024-09-15 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/193726) · `ta`
+
+Here's a summary of the key points in approximately 200 characters:
+
+
+
+Sajith emphasizes implementing the 13th Amendment without affecting national unity. He plans to report progress daily. The amendment aims to reconcile religious groups. Sajith denies fears from other leaders about reporting. He appeals for public support against political crises. On economic reform, he suggests eliminating unnecessary taxes while negotiating with the IMF.
+
+🟩
+
+I have informed the need to implement 13 quarters, and I will report it today and tomorrow. "
+
+'The country's races need to be reconciled among religions, is the 13th Amendment in the legal book? "
+
+The President of the United People's Power, Wade, said, "We have an obligation to implement the 13th Amendment," I know that the other leaders are afraid to report it.Bureau Sajit Breadasa said in an interview
+
+Question - How do you feel a weekly time to take place?
+
+Answer- My challenge is to restore the country, no one you mentioned above is challenging me.
+
+Answer- I can see on September 22, I am not politically experienced.
+
+Question - Does some say that the success of the national popular power is seen?
+
+Answer: The blessing of the majority of the country is the United People's Power. We represent the majority of the country's most communities and religions.
+
+Question - Some people say that Sajith and Ranil have to build the country together?
+
+...
+
+[Data](articles/ed89a847.json)
+
+[Extended Data](ext_articles/ed89a847.ext.json)
+
+---
+
 ### Make your child's tomorrow building responsibility - Namal
 
 *2024-09-15 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201042) · `si`
@@ -152,7 +370,9 @@ The United States looks forward to working closely with the candidate Sri Lankan
 
 Posting a message on ‘ X’  (formerly Twitter) to mark the International Day of Democracy, she highlighted that this day celebrates the principles of any strong and stable democracy, like accountability, human rights, justice, and ensuring that every individual has a say in shaping their future through elections.
 
-“ No process is more essential to Sri Lanka’s democracy than free and fair elections, and the United States looks forward to working closely with the candidate Sri Lankan voters choose to lead their country into the future,”  she added.
+“No process is more essential to Sri Lanka’s democracy than free and fair elections, and the United States looks forward to working closely with the candidate Sri Lankan voters choose to lead their country into the future,”  she added.
+
+With over 17 million registered voters across 22 electoral districts, Sri Lanka is gearing up for the much-awaited presidential polls on September 21, where 38 candidates are vying for the presidency.
 
 ◼️
 
@@ -223,6 +443,28 @@ The women, aged 20 and 25, are residents of Kongahawela and Kagama areas, police
 [Data](articles/a9025f81.json)
 
 [Extended Data](ext_articles/a9025f81.ext.json)
+
+---
+
+### Two women who were swept water in the water as the water level of the Amban River rose
+
+*2024-09-15 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193717) · `ta`
+
+Two women (20, 25) swept away by rising Amban River waters. Rescued by Dambulla Police Life Soldiers. Water level increased after dam opening in Naula Police Division.
+
+🟩
+
+Two women who were drowned in the Moragolla area were swept away and later recovered, police said that the water level of the Amban River has risen due to the opening of the water level in the Naula Police Division.
+
+The two women who were swept water were 20 and 25 years old from Kongahawela and Kakama areas.
+
+Two women who were swept away in the water have been rescued by the Dambulla Police Life Soldiers and handed over to their parents.
+
+◼️
+
+[Data](articles/55596107.json)
+
+[Extended Data](ext_articles/55596107.ext.json)
 
 ---
 
@@ -2003,251 +2245,5 @@ The steps had been taken to release the 2024 presidential election in the 2024 p
 [Data](articles/4948039c.json)
 
 [Extended Data](ext_articles/4948039c.ext.json)
-
----
-
-### Maha Sangha bestows blessings on Dilith Jayaweera, urges to safeguard the nation
-
-*2024-09-14 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101975/maha-sangha-bestows-blessings-on-dilith-jayaweera-urges-to-safeguard-the-nation) · `en`
-
-A Jaya Pirith chanting ceremony was held this morning (14) in Hikkaduwa to invoke blessings on the ‘Sarvajana Balaya’ presidential candidate, entrepreneur Dilith Jayaweera.
-
-Speaking during the event, the chief incumbent of the Kurunduwatta Bodhimalu Viharaya, Ven. Medamulane Vijayabodhi Thero called on Mr. Jayaweera for the protection of Sri Lanka’s sacred heritage and the Buddha Sasana.
-
-During his address, Ven. Vijayabodhi Thero emphasized the importance of preserving the Kurunduwatta Bodhimalu Vihara and its Buddha statue, urging continued vigilance in safeguarding the nation’s religious and cultural treasures.
-
-“Historically, presidents have sought the wisdom of village monks before visiting the prominent temples. This practice should not be forgotten,” said the Thero.
-
-...
-
-[Data](articles/36e182e8.json)
-
-[Extended Data](ext_articles/36e182e8.ext.json)
-
----
-
-### 15 -year -old girl in Vavuniya abuse
-
-*2024-09-14 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193692) · `ta`
-
-15-year-old girl abused in Vavuniya; father, youth arrested; case ongoing
-
-🟩
-
-A 15 -year -old girl was arrested by a father and youth in the Vavuniya and Omanthai police division.
-
-It has been confirmed that the girl has been abused after registering voting sources to the girl who rescued a 15 -year -old girl who had rescued the victim of a secretory girl who had received a secretory girl from the Vavuniya and Omanthai Police Station.
-
-It was revealed that the girl had been abused by the girl since 2022 and a youth who was staying at the girl's house had been abused on the 28th of last month.
-
-Subsequently, the girl's father has been arrested and the police have taken steps to arrest the youth.
-
-Meanwhile, the father was arrested in the aftermath of 2020 abusing his eldest daughter and is being heard at the Vavuniya High Court.
-
-◼️
-
-[Data](articles/670e3e67.json)
-
-[Extended Data](ext_articles/670e3e67.ext.json)
-
----
-
-### China's solution to the Maldives for the debt
-
-*2024-09-14 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201018) · `si`
-
-China offers financial aid to debt-ridden Maldives. New agreement aims to boost trade and investment between nations. Local currency transactions to enhance economic ties. Details of the deal remain undisclosed. Maldives seeks additional support from India as well.
-
-🟩
-
-Foreign media reports that China and the Maldives have been signed a new agreement that will be given more financial assistance to the Maldives who have already been given to the Maldives.
-
-China says it will help strengthen trade and investment through this.
-
-This MoU to increase investment and business opportunities among countries through local currencies in both countries
-
-However, China has not yet revealed anything about the agreement.
-
-The Maldives with massive debt is engaged in an attempt to avoid debt debt.
-
-It is reported that the Maldives is working with India to enter into an agreement with India in addition to China.
-
-◼️
-
-[Data](articles/5657c696.json)
-
-[Extended Data](ext_articles/5657c696.ext.json)
-
----
-
-### Maldives rules out IMF bailout despite financial woes, plans tax hikes to manage debt
-
-*2024-09-14 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101974/maldives-rules-out-imf-bailout-despite-financial-woes-plans-tax-hikes-to-manage-debt) · `en`
-
-The Maldives says its financial troubles are “temporary” and the luxury tourist destination has no plans to seek an International Monetary Fund bailout after warnings of a possible sovereign default.
-
-Foreign minister Moosa Zameer said the Indian Ocean archipelago, best known for its upscale resorts and celebrity visitors, was pressing ahead with tax hikes to meet its debt servicing obligations.
-
-“We have bilateral partners who are very sensitive to our needs and our situation,” Zameer told reporters in Colombo on Friday night.
-
-“I seriously don’t think it is a time where we will be right now engaging with the IMF... The issue that we have is very temporary because currently we are having a dip in reserves.”
-
-He said tax reforms, along with the rationalisation of state-owned enterprises, would improve liquidity.
-
-Zameer was visiting Sri Lanka along with Finance Minister Mohamed Shafeeq to meet with local central bankers and other officials.
-
-...
-
-[Data](articles/1da9f49e.json)
-
-[Extended Data](ext_articles/1da9f49e.ext.json)
-
----
-
-### Greats for Dilith
-
-*2024-09-14 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201017) · `si`
-
-Here's a 200-character summary:
-
-
-
-Balapitiya rally: Dilith Jayaweera wins. Large crowd supports him. He emphasizes unity, entrepreneurship for Sri Lankan youth. Divided votes create opportunities. No other options, focusing on innovation and job creation.
-
-🟩
-
-The Balapitiya rally, which is the winning of the exempt candidate Dilith Jayaweera, was held today (14).
-
-A large crowd was gonna have been a large number of hostest candidate Dilith Jayaweera.
-
-Dilith Jayaweera stated that the people have addressed the people.
-
-"This presidential election has not come before. The reason for that, the camps are now. Votes are divided. The opportunity to win a political statement like us is now created. Most say that we have not yet thought. That means that other parties are not given. Then we will receive those votes.. Star. There is no other option. We make a state of mind. That's an entreidereneial state. We are talking about creating an entrepreneurship demanding the youth of Sri Lanka. "
-
-◼️
-
-[Data](articles/4076c412.json)
-
-[Extended Data](ext_articles/4076c412.ext.json)
-
----
-
-### The economy can fall back to the economy
-
-*2024-09-14 16:04:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரம்-மீண்டும்-வீழ்ச்சியடையலாம்/175-343744) · `ta`
-
-Sri Lanka's economy shows promising growth. The country's efforts towards recovery are commendable.
-
-🟩
-
-The current economic progress of Sri Lanka is commendable.Said.
-
-◼️
-
-[Data](articles/ce2fa05e.json)
-
-[Extended Data](ext_articles/ce2fa05e.ext.json)
-
----
-
-### The problems of the missing persons will be fully resolved in the next five years - Ranil in Jaffna
-
-*2024-09-14 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/193681) · `ta`
-
-President Ranil Wickremesinghe promises resolution of missing persons cases within 5 years during Jaffna rally. National Land Commission and Truth and Reconciliation Commission support this commitment.
-
-🟩
-
-President Ranil Wickremesinghe said the problems of the missing persons in the next five years would be fully solved.
-
-President Ranil Wickremesinghe made this statement while addressing the 'Ranilal Charm' Victory rally held at the Jaffna Stadium on Saturday.
-
-The National Land Commission and the Truth and Reconciliation Commission (TRC) said that the Judge Nawaz Commission will act according to the report and that the problems of the missing persons will be fully resolved in the next five years.
-
-◼️
-
-[Data](articles/2ba666e5.json)
-
-[Extended Data](ext_articles/2ba666e5.ext.json)
-
----
-
-### The GCE Ordinary Level Examination will be released within two weeks - Minister of Education
-
-*2024-09-14 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193678) · `ta`
-
-GCE Ordinary Level Exam 2023 release in 2 weeks: Minister. Grade 5 Scholarship Exam 2024 tomorrow. Education Public Advancement Exam starts Nov 25. Promises timely exams in 2025.
-
-🟩
-
-The GCE Ordinary Level Examination for 2023 will be released within two weeks.
-
-Education Minister Susil Premajayantha said this at a media briefing held on Saturday (14).
-
-The Grade 5 Scholarship Examination for 2024 will be held tomorrow (15).
-
-The Education Public Advancement Examination, which faced a long period of time, is scheduled to commence on the 25th of November.
-
-He also promised that the exams will be held in a timely manner without delay in 2025.
-
-◼️
-
-[Data](articles/87475e99.json)
-
-[Extended Data](ext_articles/87475e99.ext.json)
-
----
-
-### Hindi Day celebrated in Colombo
-
-*2024-09-14 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193676) · `ta`
-
-Colombo celebrates Hindi Day. Swami Vivekananda Cultural Center certifies 30 police officers for completing Hindi lessons. Indian High Commissioner congratulates them. Annual "Sri Lanka Hindi Commonwealth" publication released. Top officials attend event. Hindi Day emphasizes India's official language status.
-
-🟩
-
-Swami Vivekananda Cultural Center, the cultural division of the Indian High Commission in Colombo, celebrated Hindi Day in Colombo yesterday (13) and certified 30 police officers who completed Hindi language learning.
-
-Indian High Commissioner to Sri Lanka Santosh Jha Cultural Center has congratulated the police officers who successfully completed the Hindi speaking lesson.
-
-He also published the annual release of the "Sri Lanka Hindi Commonwealth" Center at the event.
-
-Senior Deputy Inspector General of Police Lalith Patinayake and Medawatta, the Executive Director of the National Police Academy (NPA), Jaliya Senaratne and other top officials were also present.
-
-The Senior Deputy Inspector General of Police, Lalith Patinayake, thanked the Indian High Commission and the Swami Vivekananda Cultural Center for providing training for Hindi language courses to Sri Lankan police officers.
-
-Hindi Day is mentioned as the official language of India as the official language of India.
-
-◼️
-
-[Data](articles/bc7c4ced.json)
-
-[Extended Data](ext_articles/bc7c4ced.ext.json)
-
----
-
-### Our second texts decline in the homeland
-
-*2024-09-14 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201016) · `si`
-
-Sri Lanka wins 35 golds, 9 silvers, 17 bronzes at South Asian Junior Athletics Championships. India takes 21 golds, 22 silvers, 5 bronzes. Other countries also medal. Event for under 20 athletes.
-
-🟩
-
-The Sri Lankan team is due to arrive in Sri Lanka today (14) at the fourth South Asian Junior Athletics Championships held at the Shirath Javahrleh International Stadium in Chennai, India.
-
-Throughout the three days (Sept. 11,12,13) ​​Sri Lanka won 35 gold medals, nine gold medals, nine silver medals and 17 lots of 17 lotship medals and won the entire run.
-
-India has won 21 gold medals, 22 silver and 5 medals with 5 medals with 5 silver and five bronze with five bronze with five bronze.
-
-However, Sri Lanka and India could not win gold or silver medals, Bangladesh (3), the Maldives (2) and Nepal (1) bronze medals.
-
-The tournament is organized for the skills of the South Asian Junior (Under 20 years) athletics.
-
-◼️
-
-[Data](articles/ebff5538.json)
-
-[Extended Data](ext_articles/ebff5538.ext.json)
 
 ---

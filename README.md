@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 11:08:56**
+As of **2024-09-15 11:22:23**
 
 ## Newspaper Stats
 
-*Scraped **43,961** Articles*
+*Scraped **43,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 436
 islandlk | 2,588
 economynextcom | 2,679
 dailyftlk | 2,920
-adalk | 4,061
+adalk | 4,062
 dailymirrorlk | 4,733
-adaderanalk | 5,173
+adaderanalk | 5,174
 tamilmirrorlk | 5,714
 virakesarilk | 6,969
 adaderanasinhalalk | 7,523
@@ -26,23 +26,51 @@ adaderanasinhalalk | 7,523
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,959 (100.0%) of 43,961 articles have been extended.
+43,963 (100.0%) of 43,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
 
-### සජිත්ගෙන් පොරොන්දුවක්
+### Dilith urges to use votes to put an end to ‘politics of thieves’
+
+*2024-09-15 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101987/dilith-urges-to-use-votes-to-put-an-end-to-politics-of-thieves) · `en`
+
+The presidential candidate of ‘Sarvajana Balaya’ alliance Dilith Jayaweera emphasized that his national strategic plan is not about empty promises but rather a strategic program designed for real-world implementation.
+
+Speaking during a public rally held in Akuressa, Jayaweera stated: “This is not just another document of promises. In the history of Sri Lankan politics, this is possibly the first time a strategic program like this has been presented in a presidential election since independence.”
+
+He also mentioned that his proposal is a roadmap to realizing the dream of a developed Sri Lanka, aligning with the hopes and aspirations of the people.
+
+Furthermore, Jayaweera invited voters to support his vision by marking the star symbol on their ballots, symbolizing their commitment to a future built on love and integrity.
+
+He urged the public to use their valuable vote to put an end their anger and hate against the “politics of thieves” which is prevalent in the country.
+
+◼️
+
+[Data](articles/de910df2.json)
+
+[Extended Data](ext_articles/de910df2.ext.json)
+
+---
+
+### Sajith promises
 
 *2024-09-15 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201040) · `si`
 
-මෙරට නිදහස් සෞඛයේ ස්වර්ණමය යුගය 21 වනදායින් පසු බිහිකරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa promises free healthcare reform post-2021. He advocates for innovative approaches beyond government funding, proposing decentralized systems and efficient services across 354 MOH divisions. The goal is to create a "Golden Development Age" of free health, prioritizing preventive care and improving overall public health.
 
-කොළඹ ඊයේ (14) පැවති සෞඛ්‍ය සමුළුවක් අමතමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
+
+The presidential candidate Sajith Premadasa, Sajith Premadasa, says that the golden age of the Free Health Campaign will produce after 21st.
+
+He was speaking at a health conference held in Colombo yesterday.
 
 ...
 
 [Data](articles/1d040c34.json)
+
+[Extended Data](ext_articles/1d040c34.ext.json)
 
 ---
 
@@ -167,6 +195,28 @@ Speaking to ANI, Murugan, one of the protestors, urged the central and state gov
 [Data](articles/04ad5e28.json)
 
 [Extended Data](ext_articles/04ad5e28.ext.json)
+
+---
+
+### Year 05 Scholarship Examination today
+
+*2024-09-15 10:07:29* · [`adalk`](https://www.ada.lk/breaking_news/05-වසර-ශිෂ්‍යත්ව-විභාගය-අද/11-411947) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Year 05 Scholarship Exam: 2,849 centers nationwide. 323,879 eligible candidates. Today's event."
+
+🟩
+
+This year's examination will be held in 2,849 centers across the country and 323,879 candidates have been eligible for this purpose.
+
+◼️
+
+[Data](articles/2bb4dcd0.json)
+
+[Extended Data](ext_articles/2bb4dcd0.ext.json)
 
 ---
 
@@ -589,6 +639,8 @@ However, many choose to stay, risking the tarnishing of their once-glorified ima
 ...
 
 [Data](articles/d4dfada5.json)
+
+[Extended Data](ext_articles/d4dfada5.ext.json)
 
 ---
 
@@ -2205,59 +2257,5 @@ Dilith Jayaweera stated that he was headed by the exemplantic candidate Dilith J
 [Data](articles/53d515e1.json)
 
 [Extended Data](ext_articles/53d515e1.ext.json)
-
----
-
-### Once the scholarship is over, let the students move freely
-
-*2024-09-14 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193659) · `ta`
-
-Summarized: Specialist Rumi Ruben advises parents to allow students freedom after 5th-grade scholarship exam, avoiding comparisons and unnecessary stress. He emphasizes that the exam experience shapes students' lives and shouldn't overshadow childhood.
-
-🟩
-
-Specialist Rumi Ruben has requested the parents of specialist expert Rumi Ruben to keep the students free after the 5th grade scholarship examination to be held tomorrow 15th.
-
-A specialist doctor has asked parents to avoid comparing their children with other children before and after the scholarship examination.
-
-He has said that the students who are preparing for the scholarship exam for the past few months have been in high stress and have no more pressure on the students.
-
-After writing the exam, he emphasized that it is not worth it to give the students back to the exam question, write them down and check if the answers are correct.
-
-He said that the scholarship exam was one of the obstacles that the students encountered in the lives of the students and that such experiences in life would be even greater.
-
-In addition, specialist medical expert Rumi Ruben has asked the parents of the students who lost their childhood during the scholarship exam.
-
-◼️
-
-[Data](articles/a3ac2c4b.json)
-
-[Extended Data](ext_articles/a3ac2c4b.ext.json)
-
----
-
-### Change in the name of the capital of the Andaman, Nicobar Islands
-
-*2024-09-14 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/193666) · `ta`
-
-India changes Port Blair to Sri Vijayapuram, capital of Andaman & Nicobar Islands. Inspired by PM Modi's vision to free India from English rule.
-
-🟩
-
-India has said that the name of the Andaman and Nicobar Islands, "Port Blair" will be changed to "Sri Vijayapuram".
-
-Port Blair is the capital of the Andaman and Nicobar Islands, one of the Union Territories of India.
-
-The Central Government of India has announced that the name of Port Blair will be changed to Sri Vijayapuram. Indian Internal Affairs Minister Amit Shah made the announcement today (13).
-
-In this regard, Indian Internal Affairs Minister Amit Shah posted on his X page.
-
-We have decided to rename the Port Blair name as Sri Vijayapuram, inspired by Modi's vision of Prime Minister Modi to release the country from the colonial (English rule) seals.. The Andaman and Nicobar Islands, which served as the naval base of the Chola Empire. Currently, it is also a major platform for the development of the country. ”
-
-◼️
-
-[Data](articles/a611fa33.json)
-
-[Extended Data](ext_articles/a611fa33.ext.json)
 
 ---

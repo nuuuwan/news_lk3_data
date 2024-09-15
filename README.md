@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 22:37:48**
+As of **2024-09-15 22:55:37**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,541
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,054 (100.0%) of 44,056 articles have been extended.
+44,056 (100.0%) of 44,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
 
-### බලය බෙදන හැටි සජිත් යාපනයේදී කියයි
+### Sajith says power division
 
 *2024-09-15 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201059) · `si`
 
-එක රටක් තුළ උපරිම බලය බෙදීම සිය ප්‍රතිපත්තිය බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa advocates for maximum power devolution in Sri Lanka. He promises to strengthen provincial councils and seek international support for Northern and Eastern regions. Additionally, he vows to revive housing projects if elected president.
 
-ඔහු මේ බව ප්‍රකාශ කළේ අද (15) යාපනයේ මනිපායි ප්‍රදේශයේ පැවති ජනරැලියකදීය.
+🟩
 
-"එක රටක් තුළ උපරිම බලය බෙදීම, කෙටි කාලයක් තුළදී පළාත් සභා මැතිවරණය පැවැත්වීම. පළාත් සභා සතු බලය මධ්‍යම අණ්ඩුවට ලබා නොගැනීම සහ උතුරු නැගෙනහිර ජනතාව වෙනුවෙන් ජාත්‍යන්තර ආධාරක සමුළුවක් පැවැත්වීම. මෙන්ම මේ ප්‍රතිපත්ති පදනම් කරගෙන අනිවාර්යයෙන්ම උතුරු පළාත නැගෙනහිර පළාත කේන්ද්‍රීයකරගෙන යුද්ධය නිසා විශාල හානීයක් සිදු වුණු ඔබගේ ජන ජීවිත ශක්තිමත් කරන්නට අපි අනිවාර්යයෙන් කැප වෙනවා කියන එක මේ අවස්තාවේ ප්‍රකාශ කරනවා...."
+The presidential candidate Sajith Premadasa, Sagith Premadasa, says that the maximum devolution of power in one country is its policy.
 
-මේ අතර සජිත් ප්‍රෙමදාස මහතාගේ ජය තහවුරු කෙරෙන තවත් ජන රැලියක් කිලිනොච්චිය ප්‍රදේශයේදී අද පස්වරුවේ පැවැත්විය.
+He was speaking at a wasland in Manipai area in Jaffna today (15).
 
-"මම පටන් ගත්තු හැම නිවාස ව්‍යාපෘතියක් ම ගෝඨාභය රාජපක්ෂ නතර කළා. රනිල් වික්‍රමසිංහට ඒවා කරන්න වූවමනාවක් තිබුණේ නෑ. 21 අපි දිනුවාහම, අසම්පූර්ණ නිවාස ව්‍යාපෘති යළි පණගන්වනවා. එවා නැවත වරක් ජනතාව අතට පත් කරනවා..."
+"Maximum power of one country in one country. Conducting the Provincial Council's power to obtain the power of the Provincial Council and conducting international support conferences for the people of the North and East. As well as these policies, this principles will definitely say that we are committed to strengthening your lives to strengthen your lives in the war. "
+
+Meanwhile, another popular rally to ensure Mr. Sajith Premadasa was held this afternoon.
+
+"Gotabhaya Rajapakse stopped every housing project that I started. Ranil Wickremesinghe had not had to do so. 21 When we win, imperfect housing projects revived. They will once again put to the people ... "
 
 ◼️
 
 [Data](articles/6ac2976b.json)
+
+[Extended Data](ext_articles/6ac2976b.ext.json)
 
 ---
 
@@ -93,6 +99,8 @@ The injured individual is receiving treatment at Kalubowila Teaching Hospital, a
 ◼️
 
 [Data](articles/e443f4c0.json)
+
+[Extended Data](ext_articles/e443f4c0.ext.json)
 
 ---
 

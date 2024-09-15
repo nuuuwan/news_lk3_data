@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 21:38:02**
+As of **2024-09-15 21:58:00**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 7,539
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,052 (100.0%) of 44,053 articles have been extended.
+44,053 (100.0%) of 44,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
 
-### ගල්කිස්ස බඩෝවිට වෙඩිතැබීමක්
+### Mount Lavinia Badovita shot
 
 *2024-09-15 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201057) · `si`
 
-ගල්කිස්ස බඩෝවිට ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමකින් එක අයෙක් තුවාල ලබා ඇති බව වාර්තා වෙයි.
+Shooting incident in Badowita, Mount Lavinia: one person injured, hospitalized at Kalubowila hospital.
 
-තුවාල ලැබූ පුද්ගලයා කළුබෝවිල රෝහලට ඇතුළු කර ඇති බව පොලීසිය පැවසීය.
+🟩
+
+One person was injured in a shooting conducted in Badowita, Mount Lavinia.
+
+The injured person has been admitted to the Kalubowila hospital.
 
 ◼️
 
 [Data](articles/1e4e65d5.json)
+
+[Extended Data](ext_articles/1e4e65d5.ext.json)
 
 ---
 

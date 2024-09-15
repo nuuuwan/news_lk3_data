@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 10:22:13**
+As of **2024-09-15 10:56:47**
 
 ## Newspaper Stats
 
-*Scraped **43,950** Articles*
+*Scraped **43,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,146 @@ colombotelegraphcom | 435
 islandlk | 2,588
 economynextcom | 2,679
 dailyftlk | 2,920
-adalk | 4,060
+adalk | 4,061
 dailymirrorlk | 4,733
-adaderanalk | 5,171
-tamilmirrorlk | 5,712
-virakesarilk | 6,966
-adaderanasinhalalk | 7,521
+adaderanalk | 5,173
+tamilmirrorlk | 5,714
+virakesarilk | 6,969
+adaderanasinhalalk | 7,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,950 (100.0%) of 43,950 articles have been extended.
+43,959 (100.0%) of 43,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Ranil will lighten next year - Ranil
+
+*2024-09-15 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201039) · `si`
+
+Ranil Wickremesinghe promises relief measures for Sri Lankans, citing progress in reducing living costs and implementing subsidies. He vows further action to ease economic burdens by next year.
+
+🟩
+
+Ranil Wickremesinghe says that the independent presidency is lightening next year.
+
+He was speaking at the Sri Lanka 'Fishing Rally in Kegalle yesterday (14).
+
+"We are systematically trying to lighten the burden of the people. We implemented the programs including the year-wipe for this purpose. Provided the fertilizer subsidy. Raised pension and adult offers. We have reduced the prices of the goods on one side, and in the other hand, we have taken steps to lighten the living weight of the people. I can say that by next year, I can say that the burden of living is lightening. Now we take more steps. The ban of the vehicle has been lifted in our foreign exchange reserve. "
+
+◼️
+
+[Data](articles/e0751893.json)
+
+[Extended Data](ext_articles/e0751893.ext.json)
+
+---
+
+### Resolution to disable social websites?
+
+*2024-09-15 10:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-வலைத்தளங்களை-முடக்க-தீர்மானம்/175-343770) · `ta`
+
+Election Commission plans to temporarily shut down social media sites after presidential campaign ends. Aim: Stop political mudslinging on platforms. Collaboration with telecom and social media regulators. Chairman vows to end campaigns and defamatory content.
+
+🟩
+
+It is reported that the Election Commission is planning to shut down social websites for 48 hours after the presidential campaign is over.
+
+In this context, no election campaign is being carried out on the 19th and 20th, and action will be taken to stop the mud on social media.
+
+The Election Commission has been focused on the project, along with companies belonging to the Telecommunications Regulatory Commission and the Social Media Network.
+
+It is reported that the campaign is completely banned during this period, but it is reported that it is planning to campaign through social websites.
+
+The Commission's Chairman RMAL Ratnayake has stated that the Elections Commission will make serious efforts to halt election campaigns and defamation propaganda in peace after consultation with social media groups.
+
+◼️
+
+[Data](articles/292d7546.json)
+
+[Extended Data](ext_articles/292d7546.ext.json)
+
+---
+
+### Tamil general candidate is a symbol of the unity of the Eelam Tamil people- the priests of the North, East and Peace
+
+*2024-09-15 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193690) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil general candidate represents unity of Eelam Tamil people. They should be elected to North East. Presidential election focuses on vote counts, influencing Tamil and minority votes. Southern candidates emphasize Sinhala Buddhist nationalism, rejecting Tamil rights. Tamil homeland faces repression, militarization. Choosing Tamil candidate strengthens Eelam Tamil politics.
+
+🟩
+
+The Tamil general candidate is a symbol of the unity of the Eelam Tamil people and therefore the Tamils ​​should be elected to the North East.
+
+The country is preparing for a presidential election again. The political knowledge of this presidential election or the presidential candidate has been presented as the history of their individual and collective politics.. It is not necessary to underline how much hope it is. The fact that this presidential election is being held from the frame within the monopoly political system cannot be told.
+
+The fact that the existing democratic system is determined by numbers is common sense. The president's democratic election, centered on the number of votes, is defined as the influence of the votes of the Eelam Tamil people and other minority ethnic groups.
+
+Candidates contesting the presidential election from the south are decorating the campaign platform by emphasizing the management of the Sinhala Buddhist nationalism.
+
+...
+
+[Data](articles/19fafacb.json)
+
+[Extended Data](ext_articles/19fafacb.ext.json)
+
+---
+
+### Threatening the life of Tin's TV Chancellor
+
+*2024-09-15 10:17:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டின்சின்-த-வி-அதிபரின்-உயிருக்கு-அச்சுறுத்தல்/76-343769) · `ta`
+
+Tin's TV Chancellor threatened by Bogawantalawa Tinsin Tamil Vidyalaya students. Police complaint filed. President Prabhakaran criticized students' actions. School administration seeks transfer due to threats. Research conference held despite opposition. Meeting planned against school administration.
+
+🟩
+
+It has been revealed that many sides have been threatened by many sides of Bogawantalawa Tinsin Tamil Vidyalaya.
+
+This is in connection. The Chancellor, who has lodged a complaint at the Bogawantalawa police station, has taken the notice of the Hatton Kotakkal Education Office and the Sri Lanka Teachers Union.
+
+It is also alleged that President Prabhakaran has used hard words and the most ridiculous words when condemning the students.
+
+The Chancellor has spoken to some students with a group of students engaged in illegal activities in the area. After the students and their parents brought to the notice of the Hatton Education Zone Director, some of the students who visited the school have handed over letters to bring them to a smooth environment for the Chancellor.
+
+The Director who bought them said that this is the election period and action will be taken after the election.
+
+Voice posts have been shared on social Facebook to threaten the Chancellor.
+
+...
+
+[Data](articles/c01d5efa.json)
+
+[Extended Data](ext_articles/c01d5efa.ext.json)
+
+---
+
+### 19 Indian fishermen repatriated from Sri Lanka, reach Chennai
+
+*2024-09-15 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101986/19-indian-fishermen-repatriated-from-sri-lanka-reach-chennai) · `en`
+
+Nineteen Indian fishermen who were released from the custody of Sri Lanka reached Chennai, a statement by Indian Embassy in Sri Lanka said.
+
+The statement came on Friday as fishermen community and the villagers in Tharuvaikulam of Tamil Nadu’s Thoothukudi district staged a one-day hunger strike on Monday demanding the release of 22 fishermen “arrested” by the Sri Lankan Navy.
+
+In a post on X, Indian Embassy in Sri Lanka stated, “Returning home to India! 19 Indian fishermen have been safely repatriated from Sri Lanka and are on their way back to Chennai.”
+
+Speaking to ANI, Murugan, one of the protestors, urged the central and state governments to cancel the fine imposed by the court on the fishermen and facilitate the recovery of two powerboats seized by the Sri Lankan Navy along with the release of 22 fishermen.
+
+...
+
+[Data](articles/04ad5e28.json)
+
+[Extended Data](ext_articles/04ad5e28.ext.json)
+
+---
 
 ### Is Bin Laden's son alive?
 
@@ -60,6 +184,90 @@ The 'Mirror' newspaper, headquartered in the European country of Britain, has pu
 
 ---
 
+### Is the army to ensure security?
+
+*2024-09-15 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193715) · `ta`
+
+The army's role in ensuring security is questioned due to ongoing investigations into potential war crimes. Military personnel fear international prosecution in Geneva rather than domestic punishment, creating uncertainty about accountability within the armed forces.
+
+🟩
+
+Investigations are being carried out on the basis of war crimes and the fear that the culprits are punished, and the people in the forces are in fear that they will be scared.. There are fears that they can be taken to Geneva for war crimes, but there is no fear of being punished at home, even if there is no fear of being able to be punished at home.
+
+◼️
+
+[Data](articles/031b11ac.json)
+
+[Extended Data](ext_articles/031b11ac.ext.json)
+
+---
+
+### The future of the Bangladesh clothing industry
+
+*2024-09-15 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193714) · `ta`
+
+Bangladesh clothing industry faces challenges due to power outages caused by unpaid debts from Indian-owned power plant companies. This affects factory operations and productivity.
+
+🟩
+
+The big companies that produce power plants in Bangladesh belong to India. The Bangladesh government has not repaid the amount of debt to be accumulated, and these companies have disabled power supply.. Because of this, the power outage is implemented and the factories operate less than the usual.
+
+◼️
+
+[Data](articles/425a2d13.json)
+
+[Extended Data](ext_articles/425a2d13.ext.json)
+
+---
+
+### Man stabs 23-year-old wife to death, injures sister-in-law
+
+*2024-09-15 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101985/man-stabs-23-year-old-wife-to-death-injures-sister-in-law) · `en`
+
+A woman has been stabbed to death with a sharp weapon by her husband over a personal dispute in the Pothupitiya area of the Wadduwa police division.
+
+The deceased is a 23-year-old resident of the Pothupitiya area in Gorakagahawatta.
+
+Wadduwa Police had been informed by the ‘119’ Information Centre regarding a woman being assaulted by her husband in their home last evening.
+
+Upon arriving at the scene, the police officers discovered that a woman had been murdered with a sharp weapon, and that another woman had sustained injuries in the attack.
+
+The injured woman was admitted to the Kalutara Nagoda Hospital for treatment.
+
+It has been revealed that the woman who sustained injuries is the sister of the deceased.
+
+The 34-year-old suspect who has committed the murder has been arrested and Wadduwa Police is conducting further investigation into the incident.
+
+◼️
+
+[Data](articles/3ada5cb7.json)
+
+[Extended Data](ext_articles/3ada5cb7.ext.json)
+
+---
+
+### Israel's decay
+
+*2024-09-15 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193712) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Israel's decay: Factors like neighboring attacks, civil wars, and failed public services can lead to national decline over time. This gradual process affects both long-term stability and short-term security.
+
+🟩
+
+Historically, a number of factors may cause a nation sink. This can be a result of a series of neighboring attacks or long -term civil war. This may occur following the breakdown of public companies that cannot provide services to citizens. Often this is a slow -decaying process. This is the speed of time and then the short -term, and the short -term, a certain period of time, and the structures that appeared to be solid and firmly.
+
+◼️
+
+[Data](articles/1982abde.json)
+
+[Extended Data](ext_articles/1982abde.ext.json)
+
+---
+
 ### At least 64 people feared dead in Nigeria boat accident
 
 *2024-09-15 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101984/at-least-64-people-feared-dead-in-nigeria-boat-accident) · `en`
@@ -79,6 +287,26 @@ More than 900 farmers rely on crossing the river daily to access their farmlands
 [Data](articles/073bbcde.json)
 
 [Extended Data](ext_articles/073bbcde.ext.json)
+
+---
+
+### Thunder showers in several areas
+
+*2024-09-15 08:54:21* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-කිහිපයකට-අද-ගිගුරුම්-සහිත-වැසි/11-411946) · `si`
+
+Thunderstorms expected in Western, Sabaragamuwa, and Northwestern provinces. Heavy rain possible in Kandy, Nuwara Eliya, Galle, and Matara districts.
+
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in general area Kandy, Nuwara Eliya, Galle and Matara districts.
+
+There are also mm in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.. Heavy rains can occur some 50.
+
+◼️
+
+[Data](articles/561b6c6e.json)
+
+[Extended Data](ext_articles/561b6c6e.ext.json)
 
 ---
 
@@ -905,34 +1133,6 @@ In the ongoing campaign trail, what have you seen and heard and what has surpris
 [Data](articles/ee7377bd.json)
 
 [Extended Data](ext_articles/ee7377bd.ext.json)
-
----
-
-### Tamil general candidate is a symbol of the unity of the Eelam Tamil people- the priests of the North, East and Peace
-
-*2024-09-14 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193690) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil general candidate represents unity of Eelam Tamil people. They should be elected to North East. Presidential election focuses on vote counts, influencing Tamil and minority votes. Southern candidates emphasize Sinhala Buddhist nationalism, rejecting Tamil rights. Tamil homeland faces repression, militarization. Choosing Tamil candidate strengthens Eelam Tamil politics.
-
-🟩
-
-The Tamil general candidate is a symbol of the unity of the Eelam Tamil people and therefore the Tamils ​​should be elected to the North East.
-
-The country is preparing for a presidential election again. The political knowledge of this presidential election or the presidential candidate has been presented as the history of their individual and collective politics.. It is not necessary to underline how much hope it is. The fact that this presidential election is being held from the frame within the monopoly political system cannot be told.
-
-The fact that the existing democratic system is determined by numbers is common sense. The president's democratic election, centered on the number of votes, is defined as the influence of the votes of the Eelam Tamil people and other minority ethnic groups.
-
-Candidates contesting the presidential election from the south are decorating the campaign platform by emphasizing the management of the Sinhala Buddhist nationalism.
-
-...
-
-[Data](articles/19fafacb.json)
-
-[Extended Data](ext_articles/19fafacb.ext.json)
 
 ---
 
@@ -2077,209 +2277,5 @@ He said exams, timetables and examination tables could be implemented without de
 [Data](articles/01c7d216.json)
 
 [Extended Data](ext_articles/01c7d216.ext.json)
-
----
-
-### Individual income tax structure to be amended
-
-*2024-09-14 13:04:00* · [`islandlk`](http://island.lk/individual-income-tax-structure-to-be-amended/) · `en`
-
-The Cabinet of Ministers has approved the proposal presented by the president  to take steps to amend the Inland Revenue Act No. 24 of 2024 so as to enable the imposition of necessary legal provisions to implement the following  reduction to the individual  income tax structure effective 01-04-2025 as follows
-
-Cabinet approves granting Presidential pardon posthumously to Diunuge Edward Henry Pedris who was put to death after an unfair trial
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/f8961c51.json)
-
-[Extended Data](ext_articles/f8961c51.ext.json)
-
----
-
-### 2023 O/L exam results expected within next 2 weeks
-
-*2024-09-14 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101968/2023-ol-exam-results-expected-within-next-2-weeks) · `en`
-
-Minister of Education Susil Premajayantha assured that the results of the 2023 (2024) G.C.E. Ordinary Level examination will be released within the next two weeks.
-
-Joining a press conference held today (14), Premajayantha also addressed current examination schedules, noting that the Grade 05 scholarship examination, which had been postponed, will take place tomorrow (15).
-
-Additionally, he highlighted that the G.C.E. Advanced Level examination, which has faced extended delays, is now scheduled to commence on November 25 this year.
-
-Furthermore, he assured that in 2025, examinations will be implemented without any delay and in a more streamlined and predictable manner.
-
-◼️
-
-[Data](articles/d8e07cd8.json)
-
-[Extended Data](ext_articles/d8e07cd8.ext.json)
-
----
-
-### Dates announced for 2025 new school term
-
-*2024-09-14 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101967/dates-announced-for-2025-new-school-term) · `en`
-
-The new school term for the academic year 2025 is scheduled to commence on January 02, 2025.
-
-Addressing a media briefing this morning (14), Minister of Education Susil Premajayantha stated that significant improvements have been made to the academic calendar and examination schedule for the upcoming years.
-
-Furthermore, he mentioned that in order to address past delays, the ongoing third school term will include an additional two weeks in January 2025, for ensuring a complete and uninterrupted academic year.
-
-Meanwhile, the Minister guaranteed that school uniforms, textbooks, and all necessary materials will be fully prepared to be distributed among the students by January 20, when the 2025 first term will officially begin.
-
-◼️
-
-[Data](articles/165ff345.json)
-
-[Extended Data](ext_articles/165ff345.ext.json)
-
----
-
-### Review for ARM starring Dovino Thomas
-
-*2024-09-14 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193663) · `ta`
-
-Here's a 200-character summary:
-
-
-
-ARM review: Tovino Thomas stars in a Tamil thriller about a stolen statue. Three-dimensional storytelling explores themes of oppression and redemption. Strong performances but predictable plot. Visual effects underutilized. Background score and cinematography praised.
-
-🟩
-
-Tovino Thomas, the leading star star of the Malayalam film industry, made his debut for Tamil fans through 'Mari', is the fiftieth movie ARM, ARM ie Ajayanta Rendam Mokshanam.'Ajayan's second theft' in Tamil. In the film, the hero of the story, Dovino Thomas Ajayan, Maniyan, Kunjigellu, has played three roles.
-
-Is the film, which is a three -dimensional technology, attracted all fans?Or not?We will continue to see.
-
-A grandmother's character is not easy for her grandson and theft.
-
-In that story, a meteorite falls in Kerala in the past century.
-
-They carve a statue because the meteor is a wonderful power. A monarch who ruled the statue then tells the people to the city other than to give the lamp to the people.
-
-The city in that lamp is wealthy prosperous. Thus the people of Aripuram want to bring the lamp to their area.
-
-At this moment, the prince, the son of the king who ruled, is arrested and harassed by strangers for tax collecting taxes.
-
-...
-
-[Data](articles/813b8248.json)
-
-[Extended Data](ext_articles/813b8248.ext.json)
-
----
-
-### China throws fresh support line to crisis-threatened Maldives
-
-*2024-09-14 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101966/china-throws-fresh-support-line-to-crisis-threatened-maldives) · `en`
-
-The Maldives’ hopes of staving off a debt crisis were given a lift on Friday after China agreed to strengthen trade and investment in its latest demonstration of support and influence in the Indian Ocean nation.
-
-Concerns have grown in recent months that the cash-strapped Maldives could become the first country to default on Islamic sovereign debt but this week has seen a sudden improvement in sentiment.
-
-A sharp rebound in its only international market bond - a sharia-compliant sukuk issue - was capped on Friday as China’s central bank, the People’s Bank of China (PBOC) and the Maldivian Ministry of Economic Development and Trade announced a “memorandum of understanding”.
-
-Though the details were limited, the two sides said it was “a framework for cooperation” aimed at “promoting the settlement of current account transactions and direct investments in local currencies,” as well as facilitating smoother trade.
-
-...
-
-[Data](articles/2eb35c23.json)
-
-[Extended Data](ext_articles/2eb35c23.ext.json)
-
----
-
-### Forgiveness after 109 years of wrongdoing
-
-*2024-09-14 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201011) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe pardons Henry Pedris, wrongfully executed in 1915, after 109 years. The pardon comes under constitutional powers, addressing a historical injustice related to racial tensions during British rule.
-
-🟩
-
-The Presidential Media Unit said that the Captain Due to the Captain Development Edward Developed by the Captain Due to the department of British rulers in Sri Lanka with 109 years ago, the Presidential pardoned.
-
-The apology has been announced by President Ranil Wickremesinghe depending on the powers vested in terms of the Constitution 33 ().
-
-According to a statement issued by the Governor of Sri Lanka, the July 7, 1915, after an unfair trial was issued by a statement issued by a statement issued by a statement issued by a court martial, was illegally killed.
-
-Born in Galle on 16 August 1888, Henry Pedris, a leading social activist in Sri Lanka as well as captain, a captain of the Ceylon Security Forces and Captain serving in the Colombo-e-mail and the Colombo Church.
-
-The statement states that British officials have been accused of persuading the 1915 racist commotion.
-
-◼️
-
-[Data](articles/57c63cbb.json)
-
-[Extended Data](ext_articles/57c63cbb.ext.json)
-
----
-
-### Year 5 Scholarship Examination tomorrow - Special Requests for Political Parties
-
-*2024-09-14 12:46:26* · [`adalk`](https://www.ada.lk/breaking_news/05-වසර-ශිෂ්‍යත්ව-විභාගය-හෙට----දේශපාලන-පක්ෂ-වලට-විශේෂ-ඉල්ලීමක්/11-411943) · `si`
-
-Tomorrow's Year 5 scholarship exam: Minister Susil Premajayantha announces special requests for political parties regarding the upcoming presidential election press conference during the exam period.
-
-🟩
-
-Minister of Education Susil Premajayantha said that the Year 5 scholarship examination will be held tomorrow (15).
-
-Speaking to the Presidential Election at the 2124 presidential election during the period of the examination will be requested by the press conference.
-
-◼️
-
-[Data](articles/b670d25b.json)
-
-[Extended Data](ext_articles/b670d25b.ext.json)
-
----
-
-### World Health Organization Allowed to Use Muruga Vaccine in Africa
-
-*2024-09-14 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/193658) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-WHO approves Muruga vaccine for Africa; targets adults; produced by Pawarian Nordic; injectable in 2 doses; aims to combat monkeypox outbreak affecting 3,160 cases and 107 deaths in Congo.
-
-🟩
-
-The World Health Organization on Friday granted permission for the use of a stupid vaccine for people over the age of 18 in Africa.
-
-In the African country of Congo, the 'M box' was originally diagnosed with the disease. 107 people have died in Monkey in Africa so far. 3,160 people have infection.
-
-The germ of the virus family that causes a large number causes the disease. Fever, physical pain, and body chimney are the most common symptoms. Tumors appear in the face, hand, chest and genitals for the most serious victim. Death will occur.
-
-In this case, the Vaccine for Monkey was produced by the Biotechnology Institute called 'Pawarian Nordic' from Denmark. The World Health Organization granted permission for the vaccine yesterday after various phase tests.
-
-...
-
-[Data](articles/f69279b0.json)
-
-[Extended Data](ext_articles/f69279b0.ext.json)
-
----
-
-### Presidential pardon granted to Henry Pedris posthumously
-
-*2024-09-14 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101965/presidential-pardon-granted-to-henry-pedris-posthumously) · `en`
-
-President Ranil Wickremesinghe has granted a Presidential Pardon posthumously to Diyunuge Edward Henry Pedris, who was unlawfully executed in 1915 after being unjustly tried by a Court-Martial appointed by the Proclamation issued by Robert Chalmers, the Governor of Ceylon on 25 June 1915.
-
-Issuing an extraordinary gazette notification, President Wickremesinghe has granted the relevant pardon in terms of the powers vested in him under Article 33(h) read with Article 34 of the Constitution of the Democratic Socialist Republic of Sri Lanka, effective from 12 September 2024.
-
-◼️
-
-[Data](articles/d5136930.json)
-
-[Extended Data](ext_articles/d5136930.ext.json)
 
 ---

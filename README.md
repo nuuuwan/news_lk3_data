@@ -1,36 +1,120 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 08:22:53**
+As of **2024-09-15 08:57:47**
 
 ## Newspaper Stats
 
-*Scraped **43,929** Articles*
+*Scraped **43,939** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 375
+dbsjeyarajcom | 376
 bbccomsinhala | 426
 colombotelegraphcom | 435
-islandlk | 2,579
+islandlk | 2,584
 economynextcom | 2,679
 dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
-adaderanalk | 5,168
+adaderanalk | 5,170
 tamilmirrorlk | 5,707
 virakesarilk | 6,966
-adaderanasinhalalk | 7,519
+adaderanasinhalalk | 7,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,929 (100.0%) of 43,929 articles have been extended.
+43,932 (100.0%) of 43,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Grade 5 Scholarship Exam at 2,849 centres today
+
+*2024-09-15 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101983/grade-5-scholarship-exam-at-2849-centres-today) · `en`
+
+The Grade 05 Scholarship Examination is scheduled to commence at 9.30 a.m. today (15) at exam centers across the island.
+
+The Department of Examination stated that a total of 323,879 applicants are expected to sit for the Grade 5 Scholarship Exam this year.
+
+The Commissioner General of Examinations, Amit Jayasundara, says that the examination is to be held at 2,849 centres across the island and that all necessary arrangements have been made for this.
+
+The Commissioner General also emphasized that all the students sitting for the Grade 05 Scholarship exam should arrive and be seated at their respective examination halls by 9.00 a.m. this morning.
+
+Meanwhile, the Police Spokesman, DIG Nihal Thalduwa, has stated that no one has been authorized to use loudspeakers during the scholarship examination period.
+
+Mental health expert and Consultant Psychiatrist Dr. Rumi Ruben stated that more attention should be paid to the mental well-being of children both before and after the scholarship exam.
+
+◼️
+
+[Data](articles/68e9b7b0.json)
+
+---
+
+### හොර තක්කඩි දේශපාලනය කතිරයෙන් අවසන් කරන්න - දිලිත්
+
+*2024-09-15 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201038) · `si`
+
+තමන් ඉදිරිපත් කර ඇත්තේ පොරොන්දු පත්‍රිකාවක් නොව මහපොළොවේ යථාර්ථයක් කළ හැකි උපායමාර්ගික වැඩපිළිවෙළක් බව සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+අකුරැස්ස ප්‍රදේශයේ පැවති ජනරැලියකට එක්වෙමින් ව්‍යවසායක දිලිත් ජයවීර මහතා මේ බව කියා සිටියේය.
+
+"මේක පොරොන්දු පත්‍රිකාවක් නෙමෙයි. ශ්‍රී ලාංකික දේශපාලනයේ... මම හිතන්නේ නිදහසින් පසු ශ්‍රී ලංකාවේ මෙවැනි උපායමාර්ගික වැඩපිළිවෙළක් ජනාධිපතිවරණයකදී ඉදිරිපත් වන පළවෙනි අවස්ථාව. ඔබ බලාපොරොත්තු වන ශ්‍රී ලංකාව නිර්මාණය වන ආකාරයයි මේ පොතේ සඳහන් වෙලා තියෙන්නේ. ඒ නිසා අපිට ලැබී ඇති මේ තීරණාත්මක අවස්ථාව පාවිච්චිකරමු ඔබත්, අපිත් සිහිනයෙන් දුටු ඒ දියුණු ශ්‍රී ලංකාව නිර්මාණය කර ගන්නට අපි අර පෙට්ටිය ඇතුළට ගිහිල්ලා හෘද ශාක්ෂියට එකඟව ඔබ ප්‍රාර්ථනාකරපු ශ්‍රී ලංකාව ඔබ විසින් නිවැරදි කළයුතු ශ්‍රී ලාංකික දේශපාලනය... මේ හොර තක්කඩි දේශපාලනයට විරුද්ධව ඔබේ හදවතේ නැගෙන වෛරය, කෝපය කතිරයෙන් අවසන් කරන්න පුළුවන්. ඒ වෙනුවෙන් ඔබට පුළුවන් ආදරයේ සලකුණ වන තරුව ඉදිරියේ කතිරය සලකුණු කරන්න."
+
+◼️
+
+[Data](articles/69b988a8.json)
+
+---
+
+### Two young girls are sweeping
+
+*2024-09-15 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201037) · `si`
+
+Two young girls sweeping scene. Two women lower Amban River water level by opening Naula reservoir. Police control situation. Dambulla health services assist. Women from Kongahawela (20) and Kaga (25).
+
+🟩
+
+Two women in the Moragolla have dropped the water level of the Amban River due to the opening of Naula, Bowathena reservoir.
+
+However, immediate police officers have been controlled by the reservoir, which has been carried out immediately.
+
+The Dambulla Police Health Services has been summoned and handed over to the parents who had rescued the first aid.
+
+The two women were residents of 20 and 25 years and are residents of Kongahawela and Kaga.
+
+◼️
+
+[Data](articles/63971739.json)
+
+[Extended Data](ext_articles/63971739.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-09-15 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101982/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says that showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Meanwhile, fairly heavy showers of about 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it added.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night.
+
+Furthermore, the Met. Department stated that strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
+
+Thus, general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/baaaca0f.json)
+
+[Extended Data](ext_articles/baaaca0f.ext.json)
+
+---
 
 ### The deadly attack on husband who killed his wife
 
@@ -216,6 +300,18 @@ NASA recently confirmed that the return of astronauts for security reasons will 
 
 ---
 
+### Dialog Crowns Top Digital Innovators at Grand Finale of Innovation Challenge
+
+*2024-09-15 02:02:00* · [`islandlk`](http://island.lk/dialog-crowns-top-digital-innovators-at-grand-finale-of-innovation-challenge/) · `en`
+
+The Dialog Innovation Challenge (DIC), Sri Lanka’s largest digital innovation competition, concluded with an impressive showcase of technological talent. The program, aired on TV Derana and Dialog Television’s Channel One over a span of two months, culminated in a grand finale that highlighted its role in fostering technological advancement and local innovators. Supported by a diverse ecosystem of partners and guided by an esteemed panel of industry experts as judges, the competition proved to be a groundbreaking initiative.
+
+...
+
+[Data](articles/1549cc82.json)
+
+---
+
 ### HUMAN-ELEPHANT CONFLICT: Who is the real Menace?
 
 *2024-09-15 01:52:00* · [`islandlk`](http://island.lk/human-elephant-conflict-who-is-the-real-menace/) · `en`
@@ -231,6 +327,60 @@ This is a press statement from the only Ministry that is established for conserv
 [Data](articles/7e54d64a.json)
 
 [Extended Data](ext_articles/7e54d64a.ext.json)
+
+---
+
+### The Potential Impact of a Clean, Development-Focused Government on Sri Lanka’s Stock Market
+
+*2024-09-15 01:49:00* · [`islandlk`](http://island.lk/the-potential-impact-of-a-clean-development-focused-government-on-sri-lankas-stock-market/) · `en`
+
+As Sri Lanka navigates through a complex political and economic environment, the need for a shift in governance has become more apparent. After years of economic challenges, corruption scandals, and political instability, the prospect of a political party coming to power with a commitment to zero corruption and high development potential is both timely and crucial. In the context of Sri Lanka’s current situation, such a transition could have far-reaching effects on the stock market, potentially leading to increased investor confidence, economic recovery, and long-term growth.
+
+...
+
+[Data](articles/eaea3139.json)
+
+---
+
+### HIP: the region’s Port of Choice for ship repairs and layups
+
+*2024-09-15 01:46:00* · [`islandlk`](http://island.lk/hip-the-regions-port-of-choice-for-ship-repairs-and-layups/) · `en`
+
+There has been an exponential increase in the number of vessels arriving at Hambantota International Port (HIP) for repairs and layups this year, marking a significant boost in its operational growth. From January to August 2024, the port hosted 23 vessels for these services, a remarkable 53% increase compared to the 15 vessels during the same period in 2023. Two vessels arrived in August alone, while a 3rd which had a 7 month layup at the port concluded its repairs in the same month, an HIP news release said.
+
+Charaka Rupasinghe, Deputy General Manager – Marine Services and Fleet Management at HIP, says, “This particular market in port services is highly competitive and we already have several operators with different expertise offering their services from Hambantota International Port.
+
+...
+
+[Data](articles/a19d8423.json)
+
+---
+
+### HNB Ja-Ela customer centre relocates to new facility
+
+*2024-09-15 01:46:00* · [`islandlk`](http://island.lk/hnb-ja-ela-customer-centre-relocates-to-new-facility/) · `en`
+
+Extending banking facilities to satisfy growing customer demand, HNB PLC, recently ceremonially opened the doors of its new state-of-the-art customer centre at 73 Negombo Road, Ja-Ela, the bnk said in a news release.
+
+“The new relocated Ja-Ela customer centre will cater to the growing needs of businesses and residents in the area. The customer centre was inaugurated by HNB Acting CEO Damith Pallewatte, Ja- Ela Divisional Secretary Asiri Weerasekere, Secretary Ja-Ela Unban Council Dilini Thushara, HNB Assistant General Manager, Network Business Supun Dias, HNB Assistant General Manager Servicers Indrajith Senadhira HNB Regional Business Head- North-Western Region, Sohan Fernando and senior bank representatives,” it said.
+
+...
+
+[Data](articles/eacfd961.json)
+
+---
+
+### Fostering inclusive growth: HNB and Sunera Foundation’s landmark partnership for differently-abled youth
+
+*2024-09-15 01:44:00* · [`islandlk`](http://island.lk/fostering-inclusive-growth-hnb-and-sunera-foundations-landmark-partnership-for-differently-abled-youth/) · `en`
+
+HNB PLC, a leading private sector bank, recently announced a groundbreaking partnership with the Sunera Foundation, a charity dedicated to nurturing the talents of differently-abled young individuals through performing arts.
+
+The MOU was signed at HNB Towers, attended by HNB Acting Chief Executive Officer Damith Pallewatte, Sunera Foundation Chairperson Sunethra Bandaranaike, senior officials, and representatives from both organizations, a news release on the event said
+
+...
+
+[Data](articles/eb39182c.json)
 
 ---
 
@@ -523,6 +673,24 @@ Additionally, the President said that a National Land Commission and a Truth and
 [Data](articles/b7177920.json)
 
 [Extended Data](ext_articles/b7177920.ext.json)
+
+---
+
+### Why Ranil  Wickremesinghe  is  Supremely Confident of Winning the  2024 Presidential Election.
+
+*2024-09-14 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84741) · `en`
+
+Sri Lanka’s ninth presidential election will take place  one week from now on 21 September 2024. Among the 38 contestants, three are regarded as the top contenders. They are President Ranil Wickremesinghe, Leader of the Opposition Sajith Premadasa and JVP/NPP leader Anura Kumara Dissanayake. Three others namely Hambantota District MP Namal Rajapaksa, Ex-Batticaloa MP Packiyaselvam Ariyanethiran and Entrepreneur cum media mogul Dilith Jayaweeraare  are likely to poll a sizeable number of votes.
+
+Incumbent President Ranil Wickremesinghe was interviewed by “Daily FT’editor Nisthar Cassim earlier this week. The exclusive interview commenced with two questions about the  forthcoming presidential election on Sep 21. The first question was –
+
+In the ongoing campaign trail, what have you seen and heard and what has surprised you?
+
+...
+
+[Data](articles/ee7377bd.json)
+
+[Extended Data](ext_articles/ee7377bd.ext.json)
 
 ---
 
@@ -2103,241 +2271,5 @@ Addressing a public rally held in Kaduruwela, Jayaweera emphasized the urgent ne
 [Data](articles/36fc8b39.json)
 
 [Extended Data](ext_articles/36fc8b39.ext.json)
-
----
-
-### The Department of Examinations has appealed to the Presidential candidates!
-
-*2024-09-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193649) · `ta`
-
-Department of Examinations appeals to Presidential candidates: Grade 5 scholarship exam 2024 tomorrow. Election campaigns may disrupt tests. Commissioner General requests candidates avoid campaigning near exam centers. Exam held at 2,849 stations; 320,879 students participating.
-
-🟩
-
-Grade 5 scholarship examination for 2024 will be held tomorrow (15).
-
-Thus, election campaigns can be disrupted for exams. Therefore, the Commissioner General of Examinations Amit Jayasundera has requested the Presidential candidates to avoid campaigning near the examination centers tomorrow morning.
-
-The 5th Scholarship Examination will be held tomorrow at 2,849 stations. It is noteworthy that 320,879 students will appear for the exam this year.
-
-◼️
-
-[Data](articles/c0ce2dae.json)
-
-[Extended Data](ext_articles/c0ce2dae.ext.json)
-
----
-
-### Prabhu - Victory Alliance
-
-*2024-09-14 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193652) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Raja Putran" stars Prabhu, Victory, and others. Directed by Navpal Raja, produced by M.Habi. Shooting complete, post-production underway. Fans excited for Prabhu's rural setting return.
-
-🟩
-
-The film, which co -starred as the heroes of the story for the first time, has been named 'Raja Putran'.
-
-Prabhu, Victory, Komal Kumar, Krishna Priya, Mansoor Alikan, R. V.. Udayakumar, Iman Annachi, Livingston, Thangadurai and many others are acting.
-
-Navpal Raja is composing the film, which is being recorded by Oliver Danny.
-
-The film was made on behalf of Crescent Cine Creations Company. M .Habi produces.
-
-The shooting of the film has been completed and the post -shooting technical work has begun.
-
-Actor Prabhu's appearance in a wonderful village background after a long day has caused great anticipation among fans for the film 'Raja Putran'.
-
-◼️
-
-[Data](articles/02633b69.json)
-
-[Extended Data](ext_articles/02633b69.ext.json)
-
----
-
-### Gautam Karthik joins director Raju Murugan
-
-*2024-09-14 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/193645) · `ta`
-
-Gautam Karthik directs new film, stars as hero. Co-produced by MG Studios, AVP Maran, Ganesh K. Babu. Details of cast and crew to be announced soon. Film announcement set for Karthik's birthday. Director comments: "I'm excited to work with Gautam."
-
-🟩
-
-An official announcement has been made about the new film that will be directed by actor Gautam Karthik.
-
-Gautam Karthik plays the hero of the story in the unnamed film directed by debutant director Dina Raghavan.
-
-The film is co -produced by MG Studios, producer AVP Maran and director Ganesh K. Babu.
-
-Details of other actors, actresses and technicians who are acting in the film are expected to be officially released soon.
-
-The announcement of the new film will be released on the birthday of actor Gautham Karthik, who has acted in two films - Mr. X and 'Criminal'.
-
-Commenting on the film, the director said:
-
-◼️
-
-[Data](articles/1f78fb59.json)
-
-[Extended Data](ext_articles/1f78fb59.ext.json)
-
----
-
-### All vehicle revenue license issuing counters in WP closed on Friday
-
-*2024-09-14 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101961/all-vehicle-revenue-license-issuing-counters-in-wp-closed-on-friday) · `en`
-
-All vehicle revenue license issuing counters in the Western Province will be closed on September 20, 2024, the Department of Government Information (DGI) announced.
-
-This closure will take place in preparation for the upcoming presidential election on September 21, as it is necessary to allow officials to attend the election duties, the DGI said in a statement.
-
-Meanwhile, in order to ensure that vehicle owners can still obtain their revenue licenses without incurring any fines, the revenue licenses which are due to expire on September 20, will be allowed to be obtained on the next working day following the election, not subject to the fines, it added.
-
-For convenience, vehicle owners can also renew their revenue licenses online by visiting the website [www.motortraffic.wp.gov.lk] to complete the process.
-
-◼️
-
-[Data](articles/c9f07320.json)
-
-[Extended Data](ext_articles/c9f07320.ext.json)
-
----
-
-### Interim Cabinet comprising North East MPs- National People's Power
-
-*2024-09-14 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/193648) · `ta`
-
-National People's Power forms interim cabinet including North East MPs. Party aims to reflect Sri Lanka's diverse political landscape. Tamil Muslim and Malaysian MPs from North East to be involved.
-
-🟩
-
-The party's executive committee member Vasantha Samarasinghe says that the interim cabinet of the National People's Power will be included in the North East.
-
-He said that after the National People's Power won the presidential election, Sri Lanka's wide range of political identity would be reflected in the interim cabinet.
-
-He said his party would try to make an interim cabinet with the help of Tamil Muslim MPs and Malaysian MPs in the North East.
-
-◼️
-
-[Data](articles/5ae334c8.json)
-
-[Extended Data](ext_articles/5ae334c8.ext.json)
-
----
-
-### Tamil Police Officer Death
-
-*2024-09-14 10:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பொலிஸ்-உத்தியோகத்தர்-மரணம்/175-343738) · `ta`
-
-Tamil Police Officer Death: A Punguduthivu officer died in a crash near Jaffna-Kayts. The incident occurred when a JCP vehicle collided with a motorcycle en route from Velanai to Arali Junction.
-
-🟩
-
-A police officer was killed in an accident in the Jaffna - Kayts area yesterday.
-
-A police officer from Punguduthivu, who is on duty at the Tellipallai police station, has died in the incident.
-
-It is reported that the JCP crashed into a motorcycle while traveling from Velanai to Arali Junction to Arali Junction. Remble
-
-◼️
-
-[Data](articles/59322065.json)
-
-[Extended Data](ext_articles/59322065.ext.json)
-
----
-
-### The work of distributing voter cards is completed today
-
-*2024-09-14 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193640) · `ta`
-
-Voter card distribution complete: 84% issued. Remaining cards available at nearby post offices from 18th to 21st.
-
-🟩
-
-The postal department said that the distribution of official voter cards for the presidential election will be completed today.
-
-So far, 84 percent of the official voter cards have been issued, Senior Deputy Deputy Post Office Rajitha Ranasinghe said.
-
-He said that those who do not have official voter cards can obtain their voter card from the postal offices in the adjoining post offices from the 18th to the 21st of this month.
-
-◼️
-
-[Data](articles/536c6ae2.json)
-
-[Extended Data](ext_articles/536c6ae2.ext.json)
-
----
-
-### EC receives over 3,800 complaints ahead of Presidential Election
-
-*2024-09-14 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101960/ec-receives-over-3800-complaints-ahead-of-presidential-election) · `en`
-
-The Election Commission reported that a total of 3,828 complaints have been received thus far in relation to the presidential election.
-
-In a statement, the commission noted that 3,720 these complaints were received related to violations of election laws, and 28 complaints related to acts of violence were reported.
-
-The Chairman of the Election Commission R.M.A.L. Rathnayake said that there is a slight increase in the number of complaints received in relation to the presidential election this year.
-
-Meanwhile, Police Spokesman DIG Nihal Thalduwa reported that the police have received 350 complaints regarding the election.
-
-◼️
-
-[Data](articles/ffb1e910.json)
-
-[Extended Data](ext_articles/ffb1e910.ext.json)
-
----
-
-### Presidential election related complaints
-
-*2024-09-14 10:01:12* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-සම්බන්ධ-පැමිණිලි-තවදුරටත්-ඉහළට/11-411941) · `si`
-
-Here's a summary of the presidential election-related complaints in 200 characters:
-
-
-
-"Complaints surge: 3,828 filed in 2024. Most pertain to election law violations. Electoral commission reports increase."
-
-🟩
-
-The number of complaints received from the 2024 has increased to 3,828.
-
-The electoral commission said that the highest number of complaints have been received regarding election law violations.
-
-◼️
-
-[Data](articles/1673ffe2.json)
-
-[Extended Data](ext_articles/1673ffe2.ext.json)
-
----
-
-### Dilith says the agricultural building strategy
-
-*2024-09-14 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201008) · `si`
-
-Dilith Jayaweera proposes agricultural building strategy in his campaign. He aims to improve farmers' livelihoods through better pricing and increased income. The strategy focuses on promoting scientific farming methods and supporting local entrepreneurs.
-
-🟩
-
-The president presidential candidate Dilith Jayaweera says that the agricultural building strategy is in its strategic plan.
-
-He was speaking at a public meeting held at the Kaduruwela Bus Stand at the Kaduruwela Bus Stand at the Kaduruwela bus stand in the Kaduruwela Bus Stand at the Kaduruwela Bus Stand at the Kaduruwela bus stand in the Kaduruwela bus stand in the Polonnaruwa.
-
-"When I am addressing you, two years ago, the agricultural can't be gone to the tune, but it should be taken to the farmer of agriculture. They can't be grieved every day, we can be pleased. 2 percent, 3 percent in this country and 3. Nearly 30 percent in the country should be restored by the dear citizens of agriculture and change their standard of living. That is why we propose to relocate this farmer as farmers and increase their income.
-
-Mr. Dilith Jayaweera stated that the scientific method is being promoted by the farmer quality of the farmer.
-
-...
-
-[Data](articles/78cb6d41.json)
-
-[Extended Data](ext_articles/78cb6d41.ext.json)
 
 ---

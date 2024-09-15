@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 13:38:16**
+As of **2024-09-15 13:58:04**
 
 ## Newspaper Stats
 
-*Scraped **43,984** Articles*
+*Scraped **43,985** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,179
 tamilmirrorlk | 5,719
 virakesarilk | 6,975
-adaderanasinhalalk | 7,527
+adaderanasinhalalk | 7,528
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,984 (100.0%) of 43,984 articles have been extended.
+43,985 (100.0%) of 43,985 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Woman is the character who can create a happy thing - Dilith
+
+*2024-09-15 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201045) · `si`
+
+Dilith Jayaweera emphasizes women's role in boosting GDP and entrepreneurship in Sri Lanka. He believes women can create happiness and manage families effectively, contributing to the country's economic growth.
+
+🟩
+
+Dilith Entrepreneurship Dilith Jayaweera says he intends to involve women who are not involved in the GDP.
+
+He was speaking at a program held in Kalalgoda.
+
+Speaking further Mr. Dilith Jayaweera said,
+
+...
+
+[Data](articles/e2e7008c.json)
+
+[Extended Data](ext_articles/e2e7008c.ext.json)
+
+---
 
 ### 4.7% increase in the country's economy
 
@@ -2227,27 +2249,5 @@ Anura Kumara Dissanayake, Presidency of the National Fund
 [Data](articles/f2945e6e.json)
 
 [Extended Data](ext_articles/f2945e6e.ext.json)
-
----
-
-### Will make a developed country for the future generation of the country - Namal
-
-*2024-09-14 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201019) · `si`
-
-Sri Lanka presidential candidate Namal Rajapaksa vows to develop country for future generations. Promises economic growth to $180 billion, emphasizes local development and adherence to national laws.
-
-🟩
-
-The Presidential Presidency of the party says that he has asked the Sri Lanka Civil Appointment to the Sri Lanka Civil Appointment to the Government of Sri Lanka Elections to create a developed country for the future of the country.
-
-Namal Rajapaksa, president of the Sri Lanka General Front said.
-
-"Take this message to the village. We have a program. We have worked to the country. This country has not been against. No law incompatible to our country will not be trying to pass. Our goal is to go to an economy of $ 180 billion.. Those who can't work out, can't do that. But we know how to do it. "
-
-◼️
-
-[Data](articles/16596840.json)
-
-[Extended Data](ext_articles/16596840.ext.json)
 
 ---

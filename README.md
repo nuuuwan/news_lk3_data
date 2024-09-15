@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 07:26:35**
+As of **2024-09-15 08:03:10**
 
 ## Newspaper Stats
 
-*Scraped **43,927** Articles*
+*Scraped **43,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
 adaderanalk | 5,168
-tamilmirrorlk | 5,706
+tamilmirrorlk | 5,707
 virakesarilk | 6,966
 adaderanasinhalalk | 7,518
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,926 (100.0%) of 43,927 articles have been extended.
+43,928 (100.0%) of 43,928 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -81,6 +81,24 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/b14c69c4.json)
 
 [Extended Data](ext_articles/b14c69c4.ext.json)
+
+---
+
+### Wife murder: Husband arrested
+
+*2024-09-15 03:31:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-படுகொலை-கணவன்-கைது/175-343762) · `ta`
+
+Husband arrested for murdering wife, according to Wadhu police report.
+
+🟩
+
+Wadhu police said yesterday that a husband who allegedly assaulted and murdered his wife had been arrested.
+
+◼️
+
+[Data](articles/8e0a3034.json)
+
+[Extended Data](ext_articles/8e0a3034.ext.json)
 
 ---
 
@@ -279,6 +297,8 @@ The incoherent and blustering Trump undoubtedly made Harris’s debate tasks a w
 ...
 
 [Data](articles/1bd8acab.json)
+
+[Extended Data](ext_articles/1bd8acab.ext.json)
 
 ---
 
@@ -2305,25 +2325,5 @@ WHO also said it was creating an “access and allocation mechanism” to try to
 [Data](articles/90143928.json)
 
 [Extended Data](ext_articles/90143928.ext.json)
-
----
-
-### Speaker endorses certificate on two Bills
-
-*2024-09-14 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101958/speaker-endorses-certificate-on-two-bills) · `en`
-
-The Speaker of Parliament Mahinda Yapa Abeywardana has endorsed the certificate on the Reciprocal Recognition, Registration and Enforcement of Foreign Judgements Bill and the Code of Criminal Procedure (Amendment) Bill yesterday (13), in accordance with Article 79 of the Constitution.
-
-These Bills were passed following the second reading debate held in Parliament on September 3.
-
-The Reciprocal Recognition, Registration and Enforcement of Foreign Judgements Bill provides for the recognition, registration, and enforcement in Sri Lanka of foreign court judgments. It also repeals the Enforcement of Foreign Judgments Ordinance (Chapter 93) and the Reciprocal Enforcement of Judgments Ordinance (Chapter 94).
-
-The Bill will now be known as the Reciprocal Recognition, Registration and Enforcement of Foreign Judgements Act No. 49 of 2024.
-
-...
-
-[Data](articles/9584155b.json)
-
-[Extended Data](ext_articles/9584155b.ext.json)
 
 ---

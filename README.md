@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 11:38:10**
+As of **2024-09-15 11:58:08**
 
 ## Newspaper Stats
 
-*Scraped **43,964** Articles*
+*Scraped **43,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,106 @@ dbsjeyarajcom | 376
 bbccomsinhala | 426
 colombotelegraphcom | 436
 islandlk | 2,588
-economynextcom | 2,679
+economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,062
 dailymirrorlk | 4,733
-adaderanalk | 5,175
+adaderanalk | 5,177
 tamilmirrorlk | 5,714
 virakesarilk | 6,969
-adaderanasinhalalk | 7,523
+adaderanasinhalalk | 7,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,964 (100.0%) of 43,964 articles have been extended.
+43,969 (100.0%) of 43,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Make your child's tomorrow building responsibility - Namal
+
+*2024-09-15 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201042) · `si`
+
+Namal Rajapaksa emphasizes building responsibility for children's future. He criticizes past politicians' actions and promises economic support for farmers. His goal is to develop Sri Lanka sustainably, focusing on infrastructure and agriculture.
+
+🟩
+
+Namal Rajapaksa, president of the Sri Lanka Civil Aru
+
+"Today every candidate talks about the Expressway, Portitiya, Hambantota port and airport. But all these candidates scolded this in 2015. Those who called the white elephant then have decided to refrain from Mahinda Rajapaksa's development. We have to be an inch of all kinds of land that can be in this country. We give the fertilizer subsidy. We take every decision that can strengthen the farmer's economy. Some leaders sell habits harm and unexpected taxes and finds the money for those five. We can't do that, because we're not going to finish politics in five years. We have a medicine about these. I will accept the challenge of making this motherland to make this motherland to make your child tomorrow.
+
+◼️
+
+[Data](articles/c323aaa9.json)
+
+[Extended Data](ext_articles/c323aaa9.ext.json)
+
+---
+
+### Free and fair elections essential to Sri Lanka’ s democracy - US
+
+*2024-09-15 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101990/free-and-fair-elections-essential-to-sri-lanka-s-democracy-us) · `en`
+
+The United States looks forward to working closely with the candidate Sri Lankan voters choose to lead their country into the future, says the US Ambassador to Sri Lanka Julie Chung.
+
+Posting a message on ‘ X’  (formerly Twitter) to mark the International Day of Democracy, she highlighted that this day celebrates the principles of any strong and stable democracy, like accountability, human rights, justice, and ensuring that every individual has a say in shaping their future through elections.
+
+“ No process is more essential to Sri Lanka’s democracy than free and fair elections, and the United States looks forward to working closely with the candidate Sri Lankan voters choose to lead their country into the future,”  she added.
+
+◼️
+
+[Data](articles/d85f7da2.json)
+
+[Extended Data](ext_articles/d85f7da2.ext.json)
+
+---
+
+### Sajith promises to transform Sri Lanka’s healthcare system, address critical issues
+
+*2024-09-15 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101989/sajith-promises-to-transform-sri-lankas-healthcare-system-address-critical-issues-) · `en`
+
+Sajith Premadasa, the presidential candidate of the Samagi Jana Balawegaya (SJB), pledged to usher in a transformative era for Sri Lanka’s healthcare system after September 21.
+
+Speaking at a health conference held in Colombo, Premadasa outlined: “After the 21st, we will have the opportunity to address the critical issues that have long plagued our health system.”
+
+He further emphasized that transforming Sri Lanka’s healthcare infrastructure cannot rely solely on traditional public investment and funding. Instead, he advocated for a fresh approach that includes a robust foster care system for every Medical Officer of Health (MOH) division and hospital across the country.
+
+Premadasa proposed the introduction of a charity system to supplement government funding. “While various stakeholders often highlight allocations as a percentage of GDP, we need to recognize that government investment alone is insufficient to revitalize our health system,” he noted.
+
+...
+
+[Data](articles/9ab5f6c3.json)
+
+[Extended Data](ext_articles/9ab5f6c3.ext.json)
+
+---
+
+### Those who socialize false facts come to court - Anura
+
+*2024-09-15 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201041) · `si`
+
+Here's a 200-character summary:
+
+
+
+Politicians spread false information. Government promises to address reconciled issues. Political opponents criticized for lack of answers. Leaders visit districts, emphasizing national unity over party loyalty. Critics claim government ineffective against challenges.
+
+🟩
+
+The presidency of the National Poor Kumara Dissanayake says that the people who reconcile false issues will be reached by their government to reintegrate false issues.
+
+"Their politics was locked up where they had no answer but not telling the enemy. This is not a normal translation. Generally Ranil Wickremesinghe visits Athaulla in Ampara, Sajith Premadasa goes to Ampara in Ampara. But we went with the national unity of the nationality, that's the dream we saw centuries. Despite the change in so much politics, Sajith Premadasa has no talk again. Tissa Attanayake goes to Kandy and tells the procession if a government's government's government is. Charitha Herath says that if a government's powerful government is stopped at the elephant. Everyone who read it, we get into court. "
+
+◼️
+
+[Data](articles/c941c062.json)
+
+[Extended Data](ext_articles/c941c062.ext.json)
+
+---
 
 ### Two women rescued after being swept away by strong river currents
 
@@ -91,6 +173,28 @@ He was speaking at a health conference held in Colombo yesterday.
 [Data](articles/1d040c34.json)
 
 [Extended Data](ext_articles/1d040c34.ext.json)
+
+---
+
+### Sri Lanka President promises strong exchange rate to reduce cost of living
+
+*2024-09-15 10:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-promises-strong-exchange-rate-to-reduce-cost-of-living-179651/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe said a strong exchange rate has reduced the cost of living a little, and he will continue to work for a strong rupee if elected for a second term.
+
+“When I strengthen the rupee, you’re the burden of living will become lighter,” President Wickremesinghe told a rally in Gampola in the central province.
+
+President Wickremesinghe was echoing the words of Goh Keng Swee, the economic architect of Singapore gave then President J R Jayewardene when the currency was under pressure by 1980 the country was pushed into an IMF program.
+
+Goh warned J R not to depreciate the currency as ‘competitive exchange rate’ became fashionable after the collapse of the Bretton Woods in 1971 and the IMF Second Amendment left Sri Lanka without a credible anchor.
+
+How Sri Lanka rejected Singapore monetary advice and politicians, people paid the price
+
+...
+
+[Data](articles/e831ab05.json)
+
+[Extended Data](ext_articles/e831ab05.ext.json)
 
 ---
 
@@ -2139,113 +2243,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/cb8e1010.json)
 
 [Extended Data](ext_articles/cb8e1010.ext.json)
-
----
-
-### EDB, ITC to establish SheTrades Hub in Sri Lanka
-
-*2024-09-14 14:33:00* · [`economynextcom`](https://economynext.com/edb-itc-to-establish-shetrades-hub-in-sri-lanka-179634/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Export Development Board (EDB) will sign an agreement with the International Trade Center to establish an ITC SheTrades Hub in Sri Lanka, which seeks to promote competitiveness of women-led businesses in the island.
-
-The Cabinet of Ministers has approved the proposal to sign the non-financial agreement, which seeks to increase the participation and competitiveness of businesses operated by women in Sri Lanka within international trade.
-
-Women entrepreneurs will be able to obtain the necessary training in the relevant spheres, such as market and investment opportunities and the required technical assistance through SheTrades Hub, a cabinet statement said.
-
-ITC is a multilateral agency with a joint mandate from the World Trade Organization and the United Nations Conference on Trade and Development. (Colombo/Sep14/2024)
-
-◼️
-
-[Data](articles/a4e66dd0.json)
-
-[Extended Data](ext_articles/a4e66dd0.ext.json)
-
----
-
-### Cabinet approval to gazette Penal Code (Amendment) Bill
-
-*2024-09-14 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101970/cabinet-approval-to-gazette-penal-code-amendment-bill) · `en`
-
-The Cabinet of Ministers has granted approval to publish the Penal Code (Amendment) Bill in the government gazette and thereafter submit it to the Parliament for approval.
-
-The approval had been granted at the cabinet meeting held on 29.04.2024 to amend the Penal Code to prohibit corporal punishment in any form or whatsoever and compile the appropriate laws in that respect.
-
-Accordingly, the clearance of the Attorney General has been received for the draft prepared by the legal draftsman, the Department of Government Information (DGI) said.
-
-Thus, the Cabinet of Ministers has approved the proposal presented by the Minister of Justice, Prisons Affairs and Constitutional Reforms to publish the said bill in the Gazette and thereafter submit it to the Parliament for approval.
-
-◼️
-
-[Data](articles/3afff1e7.json)
-
-[Extended Data](ext_articles/3afff1e7.ext.json)
-
----
-
-### Maithri answers about Maithri's silence
-
-*2024-09-14 14:25:11* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීගේ-නිහඬතාවය-ගැන-මෛත්‍රීගෙන්ම-පිළිතුරු/11-411944) · `si`
-
-Here's a 200-character summary:
-
-
-
-Former President Maithripala Sirisena responds to questions about his silence. He compares his silence to the Maha Sea during a big storm, suggesting his silence is significant and powerful.
-
-🟩
-
-The issue of former President Maithripala Sirisena on his own register Maithripala Sirisena was answered by the question.
-
-Answer - Am I?When the Maha Sea is silenced, he says big hurricane. So my silence is also.
-
-◼️
-
-[Data](articles/de7099af.json)
-
-[Extended Data](ext_articles/de7099af.ext.json)
-
----
-
-### The eighth traps will not be fooled by the road
-
-*2024-09-14 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201015) · `si`
-
-Sajith Premadasa addresses Matara rally, criticizes government policies, promises tax cuts and relief measures. Denies involvement in violence, vows transparency.
-
-🟩
-
-The presidential candidate Sajith Premadasa, Sagith Premadasa, says that if the government has published at the moment, the public has given the public at the moment or the public.
-
-He made these comments addressing a rally in Matara.
-
-The 51st population rally, organized by the President's Rally the rally, was held yesterday.
-
-"All the weight of the people can be imposed. Now the president issues announcements to compete ... I'll reduce taxes, increase tax, to increase the steps, relief. I would like to ask at least this year, but this year could have given the concessions. "
-
-"Mr. Kumara, too, we heard of violence. We have never implemented violence. None of the posts of Anura Eighth will not be fooled by the road in this country. "
-
-◼️
-
-[Data](articles/7d12e3e7.json)
-
-[Extended Data](ext_articles/7d12e3e7.ext.json)
-
----
-
-### Cabinet approves implementing ‘Trade Facilitation Action Plan 2025-2028”’
-
-*2024-09-14 14:12:00* · [`islandlk`](http://island.lk/cabinet-approves-implementing-trade-facilitation-action-plan-2025-2028/) · `en`
-
-In the year 2016, Cabinet approval was granted for the establishment of a National Trade Felicitation Committee for the empowerment of the Trade Felicitation Agreement (TFA) of the World Trade Organization (WTO) and the inter-coordination of institutions in respect of the implementation of 36 obligations included therein. Sri Lanka has committed to implement the plan for implementation of trade facilitation during the period 2017-2030 thereunder.
-
-Even though countries in the region have fulfilled a higher percentage of the overall commitment, Sri Lanka has only fulfilled about 37.4% of
-
-the total commitment. Taking into consideration the prevailing situation, technical assistance has been requested from the Japan International Coordination Agency with the technical expertise of the International Trade Center to provide independent recommendations enabling the implementation of priority activities on a speedy basis after completion of the assessment of the trade facilitation measures.
-
-...
-
-[Data](articles/a6fb7bb8.json)
-
-[Extended Data](ext_articles/a6fb7bb8.ext.json)
 
 ---

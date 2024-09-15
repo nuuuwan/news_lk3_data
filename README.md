@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 08:03:10**
+As of **2024-09-15 08:22:53**
 
 ## Newspaper Stats
 
-*Scraped **43,928** Articles*
+*Scraped **43,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ dailymirrorlk | 4,733
 adaderanalk | 5,168
 tamilmirrorlk | 5,707
 virakesarilk | 6,966
-adaderanasinhalalk | 7,518
+adaderanasinhalalk | 7,519
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,928 (100.0%) of 43,928 articles have been extended.
+43,929 (100.0%) of 43,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### The deadly attack on husband who killed his wife
+
+*2024-09-15 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201036) · `si`
+
+Husband kills wife over land dispute in Sri Lanka. Wife attacks him with sharp object. Suspect arrested. Police investigating.
+
+🟩
+
+Due to a personal dispute, the husband has been assaulted by his wife with a sharp instrument.
+
+In the evening, the murder was held in the Bothupitiya area for Wadduwa area.
+
+The deceased has been identified as a 23 year old resident of the Greakangahawatta, Pothupitiya.
+
+The 119 Information Center, the Wadduwa Police received information from the 119 Information Center that the husband was attacked by her husband.
+
+Accordingly, a woman was killed and another woman was admitted to the Nagoda hospital while another woman was admitted to the Kalutara Nagoda hospital while another woman was injured.
+
+The 34-year-old suspect was arrested, and Wadduwa Police are conducting further investigations.
+
+Meanwhile, a land dispute has been attacked with a sharp instrument and murdered.
+
+Police say the murder was reported from Baduraliya and Hinupalwila.
+
+The deceased has been identified as a 70-year-old resident of the Morawapitiya, Ketapalapitiya.
+
+◼️
+
+[Data](articles/5816e03a.json)
+
+[Extended Data](ext_articles/5816e03a.ext.json)
+
+---
 
 ### Scholarship Examination today
 
@@ -2305,25 +2339,5 @@ Mr. Dilith Jayaweera stated that the scientific method is being promoted by the 
 [Data](articles/78cb6d41.json)
 
 [Extended Data](ext_articles/78cb6d41.ext.json)
-
----
-
-### WHO grants first mpox vaccine approval to ramp up response to disease in Africa
-
-*2024-09-14 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101959/who-grants-first-mpox-vaccine-approval-to-ramp-up-response-to-disease-in-africa) · `en`
-
-The World Health Organization said Friday it has granted its first authorization for use of a vaccine against mpox in adults, calling it an important step toward fighting the disease in Africa.
-
-The approval of the vaccine made by Bavarian Nordic A/S means that donors like vaccines alliance Gavi and UNICEF can buy it. But supplies are limited because there’s only a single manufacturer.
-
-“This first (authorization) of a vaccine against mpox is an important step in our fight against the disease, both in the context of the current outbreaks in Africa, and in future,” said WHO Director-General Tedros Adhanom Ghebreyesus.
-
-WHO also said it was creating an “access and allocation mechanism” to try to fairly distribute mpox tests, treatments and vaccines to the countries who need them most.
-
-...
-
-[Data](articles/90143928.json)
-
-[Extended Data](ext_articles/90143928.ext.json)
 
 ---

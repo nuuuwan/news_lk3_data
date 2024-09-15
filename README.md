@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 13:07:29**
+As of **2024-09-15 13:22:27**
 
 ## Newspaper Stats
 
-*Scraped **43,983** Articles*
+*Scraped **43,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,179
 tamilmirrorlk | 5,719
 virakesarilk | 6,975
-adaderanasinhalalk | 7,526
+adaderanasinhalalk | 7,527
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,983 (100.0%) of 43,983 articles have been extended.
+43,984 (100.0%) of 43,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### 4.7% increase in the country's economy
+
+*2024-09-15 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201044) · `si`
+
+Sri Lanka's economy grew 4.7% in Q2 2024, according to census data. GDP increased from Rs. 2,644,240 million to Rs. 2,768,293 million.
+
+🟩
+
+The Sri Lankan economy recorded a growth of 4.7 percent in the second quarter of 2024, the Department of Census and Statistics.
+
+The Department of Census and Statistics have revealed that the National Account Estimates for the second quarter of 2024.
+
+Accordingly, the first quarter of the second quarter of the second quarter of 2023 was Rs.. 2,644,240 million. It was Rs. 224 in the second quarter of 2024. 2,768,293 million.
+
+In the second quarter of 2024, the Department of Census and Statistics have reportedly reported positions of 1.7 percent and 2.5 percent respectively.
+
+◼️
+
+[Data](articles/97704e79.json)
+
+[Extended Data](ext_articles/97704e79.ext.json)
+
+---
 
 ### Sajith's election manifesto is just a skeleton
 
@@ -2225,25 +2249,5 @@ Namal Rajapaksa, president of the Sri Lanka General Front said.
 [Data](articles/16596840.json)
 
 [Extended Data](ext_articles/16596840.ext.json)
-
----
-
-### Here is the decision about issuing vehicle revenue license in the Western Province
-
-*2024-09-14 16:39:10* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පළාතේ-වාහන-ආදායම්-බලපත්‍ර-නිකුත්-කිරීම-ගැන-ගත්-තීරණය-මෙන්න/11-411945) · `si`
-
-Western Province Vehicle Revenue License closure announced. All licenses to shut down on 20th. Steps taken for 2024 presidential election release on 21st.
-
-🟩
-
-All the licenses implemented to issue Vehicle Revenue License in the Western Province will be closed on the 20th, said the Chief Secretariat.
-
-The steps had been taken to release the 2024 presidential election in the 2024 presidential election on the 21st.
-
-◼️
-
-[Data](articles/4948039c.json)
-
-[Extended Data](ext_articles/4948039c.ext.json)
 
 ---

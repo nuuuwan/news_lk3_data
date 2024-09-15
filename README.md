@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 21:22:16**
+As of **2024-09-15 21:38:02**
 
 ## Newspaper Stats
 
-*Scraped **44,052** Articles*
+*Scraped **44,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ dailymirrorlk | 4,733
 adaderanalk | 5,186
 tamilmirrorlk | 5,733
 virakesarilk | 7,008
-adaderanasinhalalk | 7,538
+adaderanasinhalalk | 7,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,052 (100.0%) of 44,052 articles have been extended.
+44,052 (100.0%) of 44,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### ගල්කිස්ස බඩෝවිට වෙඩිතැබීමක්
+
+*2024-09-15 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201057) · `si`
+
+ගල්කිස්ස බඩෝවිට ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමකින් එක අයෙක් තුවාල ලබා ඇති බව වාර්තා වෙයි.
+
+තුවාල ලැබූ පුද්ගලයා කළුබෝවිල රෝහලට ඇතුළු කර ඇති බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/1e4e65d5.json)
+
+---
 
 ### The country wants money and entrepreneurship Ministry - Dilith
 
@@ -2245,23 +2259,5 @@ Investigations are being carried out on the basis of war crimes and the fear tha
 [Data](articles/031b11ac.json)
 
 [Extended Data](ext_articles/031b11ac.ext.json)
-
----
-
-### The future of the Bangladesh clothing industry
-
-*2024-09-15 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193714) · `ta`
-
-Bangladesh clothing industry faces challenges due to power outages caused by unpaid debts from Indian-owned power plant companies. This affects factory operations and productivity.
-
-🟩
-
-The big companies that produce power plants in Bangladesh belong to India. The Bangladesh government has not repaid the amount of debt to be accumulated, and these companies have disabled power supply.. Because of this, the power outage is implemented and the factories operate less than the usual.
-
-◼️
-
-[Data](articles/425a2d13.json)
-
-[Extended Data](ext_articles/425a2d13.ext.json)
 
 ---

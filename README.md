@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 05:44:22**
+As of **2024-09-15 06:10:24**
 
 ## Newspaper Stats
 
-*Scraped **43,917** Articles*
+*Scraped **43,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 426
 colombotelegraphcom | 434
-islandlk | 2,573
+islandlk | 2,579
 economynextcom | 2,679
 dailyftlk | 2,920
 adalk | 4,059
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,917 (100.0%) of 43,917 articles have been extended.
+43,917 (100.0%) of 43,923 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,98 @@ NASA recently confirmed that the return of astronauts for security reasons will 
 [Data](articles/acf4101a.json)
 
 [Extended Data](ext_articles/acf4101a.ext.json)
+
+---
+
+### HUMAN-ELEPHANT CONFLICT: Who is the real Menace?
+
+*2024-09-15 01:52:00* · [`islandlk`](http://island.lk/human-elephant-conflict-who-is-the-real-menace/) · `en`
+
+As per a media release dated July 29, 2024, in an effort to uplift the ecotourism industry in Sri Lanka, the Ministry of Wildlife, Forest Resources Conservation and Irrigation has proposed several measures, and is preparing legislation to implement them. In addressing Human-Elephant Conflict, their proposition commences,
+
+This is a press statement from the only Ministry that is established for conservation and wildlife, and for the protection of Sri Lanka’s iconic endangered species, the Sri Lankan Elephant. They proclaim an endangered creature whose protection they have responsibility for a ‘menace’!
+
+“…4,700 workers have been hired to maintain the existing 5,390 Km of electric fencing.”
+
+...
+
+[Data](articles/7e54d64a.json)
+
+---
+
+### Dr. NM Perera’s days at S. Thomas’ & Ananda Colleges and entry into films
+
+*2024-09-15 01:34:00* · [`islandlk`](http://island.lk/dr-nm-pereras-days-at-s-thomas-ananda-colleges-and-entry-into-films/) · `en`
+
+(Excerpted from NM – in his own words; as seen by others Edited by Prof. Colvin Goonaratna)
+
+Somewhere towards the end of the war in 1918, I left St. Joseph’s School Grandpass, and sought admission to St. Thomas’ College, where my brothers were already boarded. Rev. Stone, who was Warden at the time, suggested that I make my application a year later, after a year at Cathedral Boy’s School, Mutwal, which was a branch of St. Thomas’ at the old premises.
+
+I spent an uneventful year at the school to which I walked from home every morning, a distance of about three miles. My mother gave me 15 cents to spend on my lunch. I generally ate a bun with a cup of plain tea thrown in. Rest of the money I devoted to gram. After school, I trudged back home for a hefty plate of rice.
+
+...
+
+[Data](articles/474f1a33.json)
+
+---
+
+### JRJ’s San Francisco speech that won Japan’s eternal gratitude
+
+*2024-09-15 01:29:00* · [`islandlk`](http://island.lk/jrjs-san-francisco-speech-that-won-japans-eternal-gratitude/) · `en`
+
+I consider it a great privilege to be afforded the opportunity of placing before this Assembly of 51 nations the views of the Government of Ceylon on the Draft Treaty of Peace which we have been invited to approve of. My statement will consist of the reasons for our acceptance of this Treaty, and I shall also attempt to meet some of the criticisms that have been leveled against it.
+
+It is true that I can speak only on behalf of my Government, but I claim that I can voice the sentiments of the people of Asia in their general attitude towards the future of Japan. I need not deal with the events that led to the formulation of the final Draft of the Treaty which we are considering. Mr (John Foster) Dulles, the American representative, and Mr Kenneth Younger, the British representative, have given us a full and fair account of those events, beginning with the capitulation of Japan in August 1945.
+
+...
+
+[Data](articles/ddf46369.json)
+
+---
+
+### Brilliance at Royal College Colombo during the principalships of Major HL Reed and LHW Sampson
+
+*2024-09-15 01:15:00* · [`islandlk`](http://island.lk/brilliance-at-royal-college-colombo-during-the-principalships-of-major-hl-reed-and-lhw-sampson/) · `en`
+
+Royal College Colombo-7 was formed by the British Government in 1835, primarily for the education of the children of the British administrators.The first principal was Rev. Joseph Marsh, (1835-38) and later Dr Barcroft Boake (1842-1870).
+
+DL Seneviratne, a current vice president of the Royal College Union, took the trouble to visit the place where the then Colombo Academy and Royal College were located. It is a matter of regret that many Royalists did not bother to acquire and read the book edited by DL.
+
+Major HL Reed, MA, was the principal of Royal College Colombo from 1920 to 1932. Major Reed had as his vice principal, LHW Sampson, BA, (1932-38) who succeeded him as principal.
+
+...
+
+[Data](articles/81f5504b.json)
+
+---
+
+### Maids and Ayahs then and now
+
+*2024-09-15 01:09:00* · [`islandlk`](http://island.lk/maids-and-ayahs-then-and-now/) · `en`
+
+As one gets older, far away times somehow do not seem so far away. I can recall a time when maids were called ayahs and were as numerous as those unemployed graduates constantly and publicly demanding government jobs.
+
+Ayahs generally lasted a long time. They came when quite young and often stayed on as family retainers. If they came from family-owned estates, marriages were arranged for them and everyone remained in the ‘big’ house till old age set in. The ayahs dressed comfortably and very prettily in the redda/hette and the word ayah had not become politically incorrect.
+
+It is now. A crisis among my old ayahs (sorry maids) of 15 years had them quarreling mightily with each other (not even with me) and skittering off without so much as a sad backward glance. My home was literally thrown to the wolves. New maids came and went with demands that left me pale with shock.
+
+“About six, including the servants,” (only I didn’t say servants. I said ‘helpers’).
+
+...
+
+[Data](articles/4de4dc4f.json)
+
+---
+
+### Capitalizing on the Sun, Sea, and Sand
+
+*2024-09-15 01:03:00* · [`islandlk`](http://island.lk/capitalizing-on-the-sun-sea-and-sand/) · `en`
+
+During my seven years at beach resorts along Sri Lanka’s west coast—spanning Beruwala, Aluthgama, Bentota, Ambalangoda, and Matara—I discovered that informal events, like beach parties, can create a refreshingly relaxed atmosphere for both guests and staff. While hotels typically operate in a formal setting, occasional events with a casual ambiance can be incredibly popular and add a welcome variety. This realisation influenced my approach to event planning throughout my career as a hotelier. The process of conceptualizing, planning, organising, choreographing, and promoting events is one of the most exciting and enjoyable aspects of the hospitality business. Crafting the right ambience is essential.
+
+...
+
+[Data](articles/7b21bd6c.json)
 
 ---
 
@@ -2219,135 +2311,5 @@ But Francis nevertheless expressed himself in stark terms when asked to weigh in
 [Data](articles/e5c598c6.json)
 
 [Extended Data](ext_articles/e5c598c6.ext.json)
-
----
-
-### Distribution of polling cards to be completed today
-
-*2024-09-14 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101956/distribution-of-polling-cards-to-be-completed-today) · `en`
-
-The Postal Department stated that the distribution of official polling cards to households will be concluded today (14).
-
-Deputy Postmaster General Rajitha Ranasinghe further stated that if any voter has not received their official polling cards by today, they can visit their local post office with their National Identity Card (NIC) to verify their identity and obtain their polling card.
-
-He stated that this opportunity will be available for the voters until the date of the presidential election, which will be held on September 21.
-
-◼️
-
-[Data](articles/97a68786.json)
-
-[Extended Data](ext_articles/97a68786.ext.json)
-
----
-
-### Distribution to the homes to the homes of votes
-
-*2024-09-14 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201006) · `si`
-
-Postal Department: Official ballot papers distribution ends today. If not received, verify identity.
-
-🟩
-
-Official ballot papers will be concluded today (14), said the Postal Department today.
-
-According to Deputy Postal Rajitha, Rajitharan Ranasinghe added that if the official ballot papers were not received today, they could be verified and obtain the identity.
-
-◼️
-
-[Data](articles/97547c19.json)
-
-[Extended Data](ext_articles/97547c19.ext.json)
-
----
-
-### Seanu Ramasamy's 'Poultry Selvan' Vijay Sethupathi released the Oudio of the movie 'Poultry Farm Chellaturai'
-
-*2024-09-14 06:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193631) · `ta`
-
-Vijay Sethupathi releases audio of "Poultry Farm Chellaturai" in Chennai. Director Seanu Ramasamy's film stars Egan, Yogi Babu, Brigita. Music by R. Raghunandan. Produced by Arunandandu and Mathew Arulanandu.
-
-🟩
-
-The music release of the film 'Kozhipanni Chellaturai', which plays the lead role as the hero of the story, was held in Chennai. During this time, the film's celebrities including Vijay Sethupathi, including 'Nam Selvan', released the film's Oudio on the role of a special guest.
-
-The National Award -winning creator Seanu Ramaswamy starred in the film 'Kozhip Panni Selvathurai' starring Egan, Yogi Babu, Brigita, Bawa Selvathurai, Leo Sivakumar, Satya Devi, Jaya Surya. Ashok Raj is a cinematographer for this movie. R. Raghunandan has composed the music. The film, which is emotionally described by the brother -in -law, has co -produced the producers Arunandandu and Mathew Arulanandu on behalf of the Vision Cinema House Company.
-
-The music release of the film will be released in Chennai on the twentieth day of the film.. 'People Selvan' Vijay Sethupathi, producer Suresh Kamakshi, director Hariharan, actor Rio Raj and distributor Shakti Velan participated in the event.
-
-...
-
-[Data](articles/1408cdf8.json)
-
-[Extended Data](ext_articles/1408cdf8.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-09-14 06:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101955/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says that showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts today (14).
-
-Meanwhile, fairly heavy showers about 50 mm are likely at some places in Western and Sabaragamuwa provinces, it added.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night.
-
-Furthermore, the Met. Department stated that strong winds about 40-45kmph can be expected at times over Western slopes of the central hills, Northern, North-central and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/49d67c41.json)
-
-[Extended Data](ext_articles/49d67c41.ext.json)
-
----
-
-### Heavy rains for Western and Sabaragamuwa
-
-*2024-09-14 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201005) · `si`
-
-Heavy rains expected in Western, Sabaragamuwa, and North Western provinces. Thunderstorms possible with strong winds. Public advised to take precautions against flooding and landslides.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in the Western, Nuwara Eliya, Galle and Matara districts.
-
-Also, some areas in the Western and Sabaragamuwa provinces. Strong rain can occur about 50.
-
-Showers or thundershowers will occur at several places in the UVal or Batticaloa districts, in the Batticaloa and Batticaloa Districts.
-
-Meanwhile, in the North, North and North Central and North Western provinces, Hambantota, Moneragala and Trincomalee districts, Hambantota, North Central and North Western Provinces.. There may be 40-45-strong winds.
-
-The Meteorological Department urges the public to take necessary steps to reduce temporary strong winds and lalnes due to thunderstorms.
-
-◼️
-
-[Data](articles/1d9c723f.json)
-
-[Extended Data](ext_articles/1d9c723f.ext.json)
-
----
-
-### Arrival of 9 countries monitors
-
-*2024-09-14 06:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-நாடுகளின்-கண்காணிப்பாளர்கள்-வருகை/175-343737) · `ta`
-
-Election monitors from 9 countries arrive for presidential election observation. They were invited by the Election Commission and will begin monitoring on the 18th.
-
-🟩
-
-The Elections Commission said that the election monitors of 9 countries have visited the country for the presidential election monitoring.
-
-RMAL Ratnayake said that they have been in attendance at the invitation of the Commission.
-
-It is reported that they will engage in election monitoring from the 18th of this month. (A)
-
-◼️
-
-[Data](articles/366014f0.json)
-
-[Extended Data](ext_articles/366014f0.ext.json)
 
 ---

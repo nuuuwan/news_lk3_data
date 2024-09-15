@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 14:56:53**
+As of **2024-09-15 15:07:55**
 
 ## Newspaper Stats
 
-*Scraped **43,990** Articles*
+*Scraped **43,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,063
 dailymirrorlk | 4,733
-adaderanalk | 5,181
-tamilmirrorlk | 5,721
+adaderanalk | 5,182
+tamilmirrorlk | 5,722
 virakesarilk | 6,975
 adaderanasinhalalk | 7,528
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 7,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,989 (100.0%) of 43,990 articles have been extended.
+43,992 (100.0%) of 43,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Russia and Ukraine exchange 206 prisoners
+
+*2024-09-15 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101996/russia-and-ukraine-exchange-206-prisoners) · `en`
+
+Russia and Ukraine have exchanged 206 prisoners of war in a deal brokered by the United Arab Emirates (UAE).
+
+Russia’s ministry of defence said its 103 released servicemen came from among those captured during the Kursk incursion.
+
+Posting pictures of some of those released on Saturday, Ukrainian President Volodymyr Zelensky said: “Our people are home”.
+
+Last month, Ukrainian forces launched a surprise attack across the Russian border, advancing up to 30km (18 miles) into the Kursk region.
+
+Zelensky said those Ukrainians released included 82 privates and sergeants and 21 officers from the armed forces, national guard, border guards, and police.
+
+He said they had been captured defending the regions of Kyiv, Donetsk, Mariupol, Azovstal, Luhansk, Zaporizhzhia, and Kharkiv.
+
+Russia said its released soldiers were in Belarus and would be given the “necessary psychological and medical assistance” and would be allowed to contact their relatives before being returned to Russia.
+
+...
+
+[Data](articles/7f3efd49.json)
+
+[Extended Data](ext_articles/7f3efd49.ext.json)
+
+---
+
+### 25 people killed by leaking fuel
+
+*2024-09-15 14:32:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கசிந்த-எரிபொருளால்-25-பேர்-உடல்-கருகி-பலி/50-343781) · `ta`
+
+Fuel leak explosion kills 25 in Haiti; 40 hospitalized; PM visits, promises aid. Tanker blast occurs during cleanup efforts. Accidents common in area.
+
+🟩
+
+It suddenly exploded when it went to catch the leaked fuel in a tanker lorry in Haiti. At least 25 people were tragically killed in the incident.
+
+At least 40 people have been admitted to hospital in the incident in Mirakone.
+
+As soon as the Prime Minister Kary Gonel visited there, he visited there. Then he said, the incident is very gorgeous. He said he would help the family of the victims.
+
+The tanker was standing at 7 am. Eyewitnesses said that when the fuel was leaked, suddenly exploded. It is noteworthy that accidents are frequent there.
+
+◼️
+
+[Data](articles/738e97a7.json)
+
+[Extended Data](ext_articles/738e97a7.ext.json)
+
+---
 
 ### Dilith Jayaweera advocates for greater economic inclusion of women in Sri Lanka
 
@@ -47,6 +97,8 @@ He noted that women constitute 53% of the population, yet many remain underrepre
 ...
 
 [Data](articles/a6ac31fb.json)
+
+[Extended Data](ext_articles/a6ac31fb.ext.json)
 
 ---
 
@@ -2205,45 +2257,5 @@ Madhuvari Commissioner General MG Gunasiri said that this action will be taken a
 [Data](articles/3d388f4e.json)
 
 [Extended Data](ext_articles/3d388f4e.ext.json)
-
----
-
-### Resolution to shut down liquor schools
-
-*2024-09-14 17:48:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளை-மூடுவதற்கு-தீர்மானம்/175-343745) · `ta`
-
-Liquor hospitals to close on 21st-22nd due to election. Madhuvari Commissioner General MG Gunasiri announced closure at Elections Commission's request.
-
-🟩
-
-All liquor hospitals will be closed on the 21st and 22nd of this month ahead of the presidential election, the Liquor Department said.
-
-Madhuvari Commissioner General MG Gunasiri said that this action will be taken at the request of the Elections Commission.. Remble
-
-◼️
-
-[Data](articles/709cf122.json)
-
-[Extended Data](ext_articles/709cf122.ext.json)
-
----
-
-### Sri Lanka UDA land in Kollupitiya to be leased to Global Leasing
-
-*2024-09-14 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-uda-land-in-kollupitiya-to-be-leased-to-global-leasing-179649/) · `en`
-
-ECONOMYNEXT – A land belonging to Sri Lanka’s Urban Development Authority in Colombo is to be leased to Global Leasing Limited for a mixed development project.
-
-The land bearing Assessment No. 135, at Perahera Mawatha, Kollupitiya, Colombo 3 will be provided on a 99-year lease basis, a cabinet statement said.
-
-Proposals were invited from interested investors for the 35.95 perch plot of land.
-
-Approval of the Management Board of the Urban Development Authority and Standing Negotiations Committee appointed by the Cabinet of Ministers was given to release the land to Global Leasing Limited. (Colombo/Sep14/2024)
-
-◼️
-
-[Data](articles/94f67a43.json)
-
-[Extended Data](ext_articles/94f67a43.ext.json)
 
 ---

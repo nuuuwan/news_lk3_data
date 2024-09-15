@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 23:22:33**
+As of **2024-09-15 23:38:34**
 
 ## Newspaper Stats
 
@@ -142,7 +142,7 @@ A person has been injured and admitted to hospital after he was shot at in the B
 
 Police said that the shooting was carried out by two unidentified men who had arrived on a motorcycle this evening (15).
 
-The injured individual is receiving treatment at Kalubowila Teaching Hospital, according to police.
+The 31-year-old injured individual, identified as Tharindu Madushan Suwaris, is receiving treatment at the Intensive Care Unit (ICU) of the Kalubowila Teaching Hospital, according to police.
 
 ◼️
 

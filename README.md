@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 01:56:52**
+As of **2024-09-16 02:07:54**
 
 ## Newspaper Stats
 
-*Scraped **44,063** Articles*
+*Scraped **44,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,065
 dailymirrorlk | 4,733
 adaderanalk | 5,187
-tamilmirrorlk | 5,733
+tamilmirrorlk | 5,734
 virakesarilk | 7,012
 adaderanasinhalalk | 7,543
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,063 (100.0%) of 44,063 articles have been extended.
+44,063 (100.0%) of 44,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### ’மாகாண சபை தேர்தல் விரைவில் நடத்தப்படும்’
+
+*2024-09-16 01:30:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபை-தேர்தல்-விரைவில்-நடத்தப்படும்/175-343802) · `ta`
+
+ஒன்றிணைந்த நாட்டிற்குள் அதிகார பகிர்வுக்காகக் குறுகிய காலத்திற்குள் மாகாண சபை தேர்தல் நடத்தப்படும் என ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணம் - மானிப்பாய் பகுதியில் நேற்று இடம்பெற்ற தேர்தல் பிரசாரக் கூட்டத்தில் கலந்து கொண்டு கருத்துரைத்த போதே அவர் இதனைக் குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+
+மாகாண சபைகளுக்கான அதிகாரங்களை மத்திய அரசு எடுத்துக்கொள்ளக் கூடாது.  அத்தோடு வட கிழக்கு மக்களுக்காக நன்கொடையாளர்கள் மாநாட்டைக் கூட்டுவோம் என்கின்ற கொள்கை திட்டத்தை அடிப்படையாகக் கொண்டு, வடகிழக்கில் யுத்தத்தினால் பாதிக்கப்பட்ட மக்களின் வாழ்க்கைத் தரத்தை மேம்படுத்துவதற்காக அர்ப்பணிப்புடன் செயல்படுவோம்.
+
+இளைஞர்களின் தொழில் வாய்ப்பு பிரச்சினையைத் தீர்ப்பதற்காக புதிய தொழிற்சாலைகள் ஆரம்பிக்கப்படும். எமது ஆட்சியில் வீடமைப்பு திட்டம் மீண்டும் ஆரம்பிக்கப்படும் என்றார். (a)
+
+◼️
+
+[Data](articles/6f939360.json)
+
+---
 
 ### When the country was in crisis, all those in the opposition were not responsible for the regime
 
@@ -2253,27 +2271,5 @@ He is the spinner coach of New Zealand.
 [Data](articles/81b474c8.json)
 
 [Extended Data](ext_articles/81b474c8.ext.json)
-
----
-
-### Dilith urges to use votes to put an end to ‘politics of thieves’
-
-*2024-09-15 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101987/dilith-urges-to-use-votes-to-put-an-end-to-politics-of-thieves) · `en`
-
-The presidential candidate of ‘Sarvajana Balaya’ alliance Dilith Jayaweera emphasized that his national strategic plan is not about empty promises but rather a strategic program designed for real-world implementation.
-
-Speaking during a public rally held in Akuressa, Jayaweera stated: “This is not just another document of promises. In the history of Sri Lankan politics, this is possibly the first time a strategic program like this has been presented in a presidential election since independence.”
-
-He also mentioned that his proposal is a roadmap to realizing the dream of a developed Sri Lanka, aligning with the hopes and aspirations of the people.
-
-Furthermore, Jayaweera invited voters to support his vision by marking the star symbol on their ballots, symbolizing their commitment to a future built on love and integrity.
-
-He urged the public to use their valuable vote to put an end their anger and hate against the “politics of thieves” which is prevalent in the country.
-
-◼️
-
-[Data](articles/de910df2.json)
-
-[Extended Data](ext_articles/de910df2.ext.json)
 
 ---

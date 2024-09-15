@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 06:43:43**
+As of **2024-09-15 07:26:35**
 
 ## Newspaper Stats
 
-*Scraped **43,925** Articles*
+*Scraped **43,927** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 375
 bbccomsinhala | 426
-colombotelegraphcom | 434
+colombotelegraphcom | 435
 islandlk | 2,579
 economynextcom | 2,679
 dailyftlk | 2,920
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,168
 tamilmirrorlk | 5,706
 virakesarilk | 6,966
-adaderanasinhalalk | 7,517
+adaderanasinhalalk | 7,518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,923 (100.0%) of 43,925 articles have been extended.
+43,926 (100.0%) of 43,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Scholarship Examination today
+
+*2024-09-15 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201035) · `si`
+
+Scholarship exam today: 2,849 centers, 323,879 candidates. Starts 9:30 AM. Arrive early. No loudspeakers allowed. Psychiatrist advises monitoring students' mental health before and after exam.
+
+🟩
+
+This year's examination will be held in 2,849 centers across the country and 323,879 candidates have qualified.
+
+The examination will commence at 09.30 am and the Commissioner General of Examinations Amit Jayasundara said that all the examination hall should be sitting at the examination hall before 09 am.
+
+Commissioner General of Examinations Amithi Jayasundara said that all necessary measures to conduct the examination without any problems have been taken.
+
+Police Media Spokesperson DIG Nihal Talduuwa said that no one has been given permission to use loudspeakers during the scholarship examination.
+
+Psychiatrist Rubune says he should pay more attention to the psychological level of the children's mental level after the start of the scholarship examination and after the end of the examination.
+
+◼️
+
+[Data](articles/d0a3ae35.json)
+
+[Extended Data](ext_articles/d0a3ae35.ext.json)
+
+---
 
 ### Showers in many areas today
 
@@ -224,6 +250,8 @@ It is now. A crisis among my old ayahs (sorry maids) of 15 years had them quarre
 
 [Data](articles/4de4dc4f.json)
 
+[Extended Data](ext_articles/4de4dc4f.ext.json)
+
 ---
 
 ### Capitalizing on the Sun, Sea, and Sand
@@ -235,6 +263,22 @@ During my seven years at beach resorts along Sri Lanka’s west coast—spanning
 ...
 
 [Data](articles/7b21bd6c.json)
+
+[Extended Data](ext_articles/7b21bd6c.ext.json)
+
+---
+
+### The Countdown Week & The Debate Week
+
+*2024-09-15 00:28:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-countdown-week-the-debate-week/) · `en`
+
+As Sri Lanka starts the countdown week before its September 21 presidential vote, the US finished the debate week that is expected to set the campaign tones for the remaining eight weeks before its presidential election on November 5. In a riveting performance last Tuesday, the Democratic candidate Kamala Harris exceeded all expectations and with consummate lawyerly skill laid bare the utter limitations and disqualifications of Donald Trump to be America’s president a second time.
+
+The incoherent and blustering Trump undoubtedly made Harris’s debate tasks a whole lot easier, but the pre-debate onus was on her to show that she could perform in an unscripted engagement just as well as she is showing herself to be in organized rallies and in delivering tele-prompted speeches. And she did that superbly.
+
+...
+
+[Data](articles/1bd8acab.json)
 
 ---
 
@@ -2281,53 +2325,5 @@ The Bill will now be known as the Reciprocal Recognition, Registration and Enfor
 [Data](articles/9584155b.json)
 
 [Extended Data](ext_articles/9584155b.ext.json)
-
----
-
-### Increase in presidential election complaints
-
-*2024-09-14 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201007) · `si`
-
-Elections Commission reports 3,828 complaints for 2024 presidential election: 28 related to violence, 3,720 to election law violations. Commissioner General notes slight increase. Attorney general receives 350 additional complaints.
-
-🟩
-
-The Elections Commission stated that 3,828 complaints have been received from the 2024 presidential election.
-
-He added that 28 of the complaints were involved in violence and 3,720 complaints were involved in violating election laws.
-
-Meanwhile, the Commissioner General of Elections RM has seen a small increase in the number of complaints received by the Presidential Election this time.. A. Mr. L Ratnayake said.
-
-Attorney at the Presidential Media Spokesperson SSP lawma Thaluwa also stated that 350 complaints have been received in connection with the presidential election.
-
-◼️
-
-[Data](articles/22e5433b.json)
-
-[Extended Data](ext_articles/22e5433b.ext.json)
-
----
-
-### Thunder showers in several areas
-
-*2024-09-14 08:53:26* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-කිහිපයකට-අද-ගිගුරුම්-සහිත-වැසි/11-411940) · `si`
-
-Thunderstorms forecasted for Western, Sabaragamuwa, and Northwestern provinces. Heavy rain possible in some areas. Showers expected in Uva Province as well.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in the Mosqueserna, Nuwara Eliya, Galle and Matara districts today (14).
-
-Also, some areas in the Western and Sabaragamuwa provinces. Heavy rains can occur about 50.
-
-Uva Provincial Councils in Ampara and Batticaloa Districts and in the Batticaloa District
-
-Showers or thundershowers will occur at several places in a few.
-
-◼️
-
-[Data](articles/1cb30cb3.json)
-
-[Extended Data](ext_articles/1cb30cb3.ext.json)
 
 ---

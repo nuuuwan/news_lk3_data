@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 09:57:14**
+As of **2024-09-15 10:10:24**
 
 ## Newspaper Stats
 
-*Scraped **43,945** Articles*
+*Scraped **43,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,060
 dailymirrorlk | 4,733
 adaderanalk | 5,171
-tamilmirrorlk | 5,707
+tamilmirrorlk | 5,712
 virakesarilk | 6,966
 adaderanasinhalalk | 7,521
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 7,521
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,945 (100.0%) of 43,945 articles have been extended.
+43,950 (100.0%) of 43,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Is Bin Laden's son alive?
+
+*2024-09-15 09:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உயிருடன்-உள்ளாரா-பின்லேடன்-மகன்/50-343768) · `ta`
+
+Hamza bin Laden's status unclear: reports claim alive, planning attacks; US denies proof of death; allegedly hiding in Afghanistan; Taliban reportedly supporting him.
+
+🟩
+
+It is reported that Hamza bin Laden, the son of the late Osama bin Laden, the terrorist leader of the al -Qaeda Organization, is alive and that he is planning to carry out terrorist attacks on Western countries.
+
+Osama bin Laden, the leader of the al -Qaeda terrorist organization, who threatened and threatened the world in 2001.
+
+Following this, US soldiers ruled out the organization in 2011 and killed Osama bin Laden in Pakistan.
+
+Similarly, Hamza bin Laden, son of Osama bin Laden, died in the 2019 US Air Force's attack, then President Donald Trump said.. However, the US government has not released any evidence of the death of Hamza bin Laden.
+
+It has been reported that Hamza bin Laden is hiding in Tara Abdullah Gale district of Panchir province in Afghanistan.
+
+The 'Mirror' newspaper, headquartered in the European country of Britain, has published an article that the al -Qaeda terrorist organization is functioning alive.
+
+...
+
+[Data](articles/4931a3e6.json)
+
+[Extended Data](ext_articles/4931a3e6.ext.json)
+
+---
 
 ### At least 64 people feared dead in Nigeria boat accident
 
@@ -146,6 +174,82 @@ Thus, general public is kindly requested to take adequate precautions to minimiz
 
 ---
 
+### Not in the 13th Amendment Law Books?
+
+*2024-09-15 08:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13வது-திருத்தம்-சட்டப்-புத்தகங்களில்-இல்லையா/175-343766) · `ta`
+
+Sajith Premadasa reaffirms commitment to implementing 13th Amendment, emphasizing its importance for ethnic and religious reconciliation in Sri Lanka. He emphasizes the legal obligation to enforce the amendment, citing a High Court ruling.
+
+🟩
+
+Opposition leader and presidential candidate Sajith Premadasa has reiterated his commitment to implement the 13th Amendment to the Constitution.
+
+Speaking on the importance of reconciliation between various ethnic and religious communities in Sri Lanka, Premadasa stressed that the amendment to the provincial councils is part of the legal framework of the country.
+
+“I have already spoken about the need to implement the 13th Amendment to the Constitution. It is always wolve. Reconciliation should be made between the ethnicities and religions of the country in particular.
+
+Not in the 13th Amendment Law Books?We are obliged to implement what is stated in the law. It is not harmful to the integrity of the country. It has been confirmed by the High Court ruling. Therefore, we have a duty to implement it.
+
+I know that others are afraid to say this. But i'm not like that. I say the right thing. ”
+
+◼️
+
+[Data](articles/a30678ea.json)
+
+[Extended Data](ext_articles/a30678ea.ext.json)
+
+---
+
+### Grade 5 Scholarship Examination Today
+
+*2024-09-15 07:54:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-5-புலமைப்பரிசில்-பரீட்சை-இன்று/175-343765) · `ta`
+
+Grade 5 Scholarship Exam 2024: Sunday, 2,849 centers, 9:30 AM - 10:45 AM (first paper), 11:15 AM onwards (second paper).
+
+🟩
+
+The Department of Examinations has announced that the Grade 5 Scholarship Examination for 2024 will be held today (15).
+
+Accordingly, the exam will be held today (Sunday) at 2,849 examination centers across the country.
+
+The first paper will start at 9.30 am and end at 10.45 am and the second paper will start at 11.15 am, the department said.
+
+◼️
+
+[Data](articles/dc6789e6.json)
+
+[Extended Data](ext_articles/dc6789e6.ext.json)
+
+---
+
+### "NPP is the only government that can eradicate drugs"
+
+*2024-09-15 07:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-யே-போதைப்பொருளை-ஒழிக்கக்கூடிய-ஒரே-அரசாங்கம்/175-343764) · `ta`
+
+NPP presidential candidate vows to end drug menace, accuses politicians of involvement. Claims NPP alone can eradicate drugs, promising police freedom to maintain law and order.
+
+🟩
+
+NPP Presidential candidate Anura Kumara Dissanayake said yesterday that the National People's Power (NPP) government will eliminate the drug threat that has developed a major consequence in the country.
+
+Speaking at an event in Anuradhapura, he said drug distribution of drugs in various parts of the country is being sponsored by politicians.
+
+“In the country, politicians are behind drug trafficking. Recently, many politicians were caught when they were carrying drugs and cannabis in their jeep, ”he said.
+
+Dissanayake said the children were killed in the threat of drug addiction and that the entire family falls in distress when children are addicted to drugs.
+
+"The holy city of Anuradhapura was very quiet in the past.. We came here with our children and stayed for several days and now there is more drugs in the city, ”he said.
+
+He said NPP was not afraid of anyone, but NPP was the only government that can eradicate narcotics.
+
+...
+
+[Data](articles/82e7e583.json)
+
+[Extended Data](ext_articles/82e7e583.ext.json)
+
+---
+
 ### The deadly attack on husband who killed his wife
 
 *2024-09-15 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201036) · `si`
@@ -229,6 +333,24 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/b14c69c4.json)
 
 [Extended Data](ext_articles/b14c69c4.ext.json)
+
+---
+
+### Otto burned fire
+
+*2024-09-15 03:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓட்டோ-தீப்பற்றி-எரிந்தது/175-343763) · `ta`
+
+Vehicle crash causes fire near Vavuniya-Batticaloa road. Incident occurred last night.
+
+🟩
+
+Otto fire was burnt yesterday evening due to a vehicle crash on the road from Vavuniya to Valawettan in Batticaloa.
+
+◼️
+
+[Data](articles/dd09778e.json)
+
+[Extended Data](ext_articles/dd09778e.ext.json)
 
 ---
 
@@ -2159,115 +2281,5 @@ Issuing an extraordinary gazette notification, President Wickremesinghe has gran
 [Data](articles/d5136930.json)
 
 [Extended Data](ext_articles/d5136930.ext.json)
-
----
-
-### Sri Lanka public transport vehicle imports from Oct, trucks from Dec 2024
-
-*2024-09-14 12:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-public-transport-vehicle-imports-from-oct-trucks-from-dec-2024-179629/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has decided to lift a ban on the import of public transport vehicles from October 01 and goods transport vehicles from December 01, a government statement said.
-
-Special purpose vehicles would also be allowed from October 01.
-
-Passenger vehicles, pick-up trucks and SUVs would be allowed from February 2025.
-
-Sri Lanka’s macroeconomists running the central bank and Treasury banned the import of vehicles and about 3,000 other items from March 2020 as the currency collapsed (flexible exchange rate) after as money was printed for potential output targeting.
-
-Though lockdowns in the next month killed domestic credit and led to a recovery in the currency, forex shortages continued as large volumes of money was printed to enforce a low policy rate and yield curve targeting by scuttling bill auctions with a rate ceilings.
-
-...
-
-[Data](articles/1eed0875.json)
-
-[Extended Data](ext_articles/1eed0875.ext.json)
-
----
-
-### O / L results in two weeks
-
-*2024-09-14 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201010) · `si`
-
-GCE Ordinary Level exam results in two weeks. School term starts Jan 2, 2025. Exams scheduled for July 2025. Scholarship exam tomorrow.
-
-🟩
-
-Minister of Education Susil Premajayantha says that the GCE Ordinary Level Examination results are available within two weeks.
-
-He further stated that it is possible to implement the examination, semesters and examination schedule without any one in July 2025.
-
-"The next year's school term begins on January 2. But the third season has two weeks in the school cover the number of lengths. January 20, 2025, the first day of the first school will begin. Uniforms, textbooks, and all is ready.
-
-All exams were in time. This year's scholarship examination will be held tomorrow. Also, the results of the GCE Ordinary Level examination will be received within the next two weeks. Timetables have been admitted to the monthly A / L examination this year. In 2025, exams, semesters and exam schedule work together ".
-
-◼️
-
-[Data](articles/7b1a9744.json)
-
-[Extended Data](ext_articles/7b1a9744.ext.json)
-
----
-
-### President Ranil calls for women’s empowerment, revolutionary reforms and economic transformation
-
-*2024-09-14 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101964/president-ranil-calls-for-womens-empowerment-revolutionary-reforms-and-economic-transformation) · `en`
-
-Independent presidential candidate and incumbent President Ranil Wickremesinghe outlined a transformative vision for Sri Lanka’s future, focusing on modernizing the economy, empowering women, and implementing social justice reforms.
-
-Addressing the Women’s Forum ‘A programme for Progress’ at the Galle Face Hotel yesterday (13), he emphasized the need to move beyond the out-dated political systems and embrace a more export-driven, digital, and green economy, while also addressing critical social issues like gender equality and overcoming class and caste bias.
-
-Speaking to entrepreneurs and small business owners, he laid out a framework for significant changes, promising a focus on women’s empowerment, social justice, and opportunities in a revamped economy. He urged the public to support his initiatives in the upcoming vote, symbolized by the gas cylinder on September 21.
-
-...
-
-[Data](articles/979eb8e1.json)
-
-[Extended Data](ext_articles/979eb8e1.ext.json)
-
----
-
-### The main notice of the Minister of Education
-
-*2024-09-14 11:39:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சரின்-முக்கிய-அறிவிப்பு/175-343741) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Education Minister Susil Premajayantha announced that the first installment of school activities for 2025 will begin on January 20. This marks the start of educational programs for the upcoming year.
-
-🟩
-
-Education Minister Susil Premajayantha has said that the first installment school activities for 2025 will be launched on January 20. Remble
-
-◼️
-
-[Data](articles/3fea13e0.json)
-
-[Extended Data](ext_articles/3fea13e0.ext.json)
-
----
-
-### Notice of issuing vehicle revenue license in the Western Province
-
-*2024-09-14 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201009) · `si`
-
-Western Province: Vehicle revenue license issuance closes on 20th due to presidential election duties. Online income license available. Last chance for fines-free endemic tax licenses on 20th.
-
-🟩
-
-All licenses implemented to issue vehicle revenue licenses in the Western Province will be closed on Friday, the provincial council on the 20th.
-
-The office said that the move would be release as the officials will be released for the duties of the presidential election on the 21st of the 21st.
-
-The last day of the endemic tax licenses that a vehicle can obtain the fines without fine is to be closed on the 20th the Presidential Election.
-
-The Western Province Chief Secretariat has also announced that the income license is available online.
-
-◼️
-
-[Data](articles/7f99f0b9.json)
-
-[Extended Data](ext_articles/7f99f0b9.ext.json)
 
 ---

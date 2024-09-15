@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 15:22:20**
+As of **2024-09-15 15:37:47**
 
 ## Newspaper Stats
 
-*Scraped **43,992** Articles*
+*Scraped **43,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,063
 dailymirrorlk | 4,733
 adaderanalk | 5,182
-tamilmirrorlk | 5,722
+tamilmirrorlk | 5,723
 virakesarilk | 6,975
 adaderanasinhalalk | 7,528
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,992 (100.0%) of 43,992 articles have been extended.
+43,993 (100.0%) of 43,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### 3rd grade student dies of heart attack
+
+*2024-09-15 15:13:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ஆம்-வகுப்பு-மாணவி-மாரடைப்பால்-மரணம்/175-343782) · `ta`
+
+Young student dies of heart attack due to poor diet. 9-year-old Singh collapses during playtime. Parents claim lack of medical attention.
+
+🟩
+
+Once upon a heart attack came to the elderly. However, without age differences, there is currently a heart attack. This is mentioned due to false eating habits. In this case, a student in Class 3 at the Montford School in Lucknow has died of a heart attack.
+
+A 9 -year -old student named Singh was suddenly fainted while playing with her fellow students and was immediately admitted to the hospital and later transferred to a different hospital.
+
+It is noteworthy that the girl's parents have accused the girl of not taking any action despite the matter.
+
+◼️
+
+[Data](articles/a9970ec4.json)
+
+[Extended Data](ext_articles/a9970ec4.ext.json)
+
+---
 
 ### Russia and Ukraine exchange 206 prisoners
 
@@ -2233,29 +2255,5 @@ Police suspect that these posters may be an attempt to divert the police investi
 [Data](articles/d5e64077.json)
 
 [Extended Data](ext_articles/d5e64077.ext.json)
-
----
-
-### Brewery will be closed on the 21st and 22nd
-
-*2024-09-14 17:48:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-22-ஆம்-திகதிகளில்-மதுபானசாலைகள்-மூடப்படும்/175-343745) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Liquor hospitals to close 21st-22nd due to presidential election. Requested by Election Commission. Brewery also closed during same period.
-
-🟩
-
-All liquor hospitals will be closed on the 21st and 22nd of this month ahead of the presidential election, the Liquor Department said.
-
-Madhuvari Commissioner General MG Gunasiri said that this action will be taken at the request of the Elections Commission.. Remble
-
-◼️
-
-[Data](articles/3d388f4e.json)
-
-[Extended Data](ext_articles/3d388f4e.ext.json)
 
 ---

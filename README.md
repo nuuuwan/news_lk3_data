@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 19:56:06**
+As of **2024-09-15 20:08:11**
 
 ## Newspaper Stats
 
-*Scraped **44,035** Articles*
+*Scraped **44,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 4,064
 dailymirrorlk | 4,733
 adaderanalk | 5,185
 tamilmirrorlk | 5,733
-virakesarilk | 6,994
+virakesarilk | 7,007
 adaderanasinhalalk | 7,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,035 (100.0%) of 44,035 articles have been extended.
+44,035 (100.0%) of 44,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### மினுவாங்கொடையில் பஸ் மோதி பாதசாரி உயிரிழப்பு
+
+*2024-09-15 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/193777) · `ta`
+
+மினுவாங்கொடை பொலிஸ் பிரிவுக்குட்பட்ட திவுலப்பிட்டி - மினுவாங்கொட வீதியில் கல்கந்த பிரதேசத்தில் திவுலப்பிட்டியில் இருந்து மினுவாங்கொடை நோக்கி பயணித்த பஸ் வீதியோரம் நடந்து சென்ற பாதசாரி மீது மோதியதில் பாதசாரி உயிரிழந்ததாக மினுவாங்கொடை பொலிஸார் தெரிவித்தனர்.
+
+இந்நிலையில், சடலம் மினுவாங்கொடை வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதோடு, பஸ் சாரதி கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/9770b744.json)
+
+---
 
 ### EC warns presidential candidates against promoting rivals
 
@@ -49,6 +63,70 @@ The commission warned that any candidate found engaging in such prohibited activ
 [Data](articles/64944bdd.json)
 
 [Extended Data](ext_articles/64944bdd.ext.json)
+
+---
+
+### களுத்துறையில் திருடப்பட்ட வாகனங்களுடன் நால்வர் கைது
+
+*2024-09-15 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193772) · `ta`
+
+களுத்துறை தெற்கு பொலிஸ் பிரிவுக்குட்பட்ட கிதுலாவ பிரதேசத்தில் திருடப்பட்ட 02 முச்சக்கரவண்டிகள் மற்றும் ஒரு மோட்டார் சைக்கிளுடன் 04 சந்தேக நபர்கள் களுத்துறை தெற்கு பொலிஸாரால் நேற்று சனிக்கிழமை (14) கைது செய்யப்பட்டுள்ளனர்.
+
+களுத்துறை பிரதேச குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின் போது இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேகநபர்கள் 29, 34, 40 மற்றும் 60 வயதுடைய களுத்துறை தெற்கு பகுதியை சேர்ந்தவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/9de49b48.json)
+
+---
+
+### முள்ளியவளையில் சட்டவிரோத மதுபானத்துடன் இருவர் கைது
+
+*2024-09-15 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/193767) · `ta`
+
+முள்ளியவளை பொலிஸ் பிரிவுக்குட்பட்ட கோப்பாபிலவு பகுதியில் சட்டவிரோத மதுபானத்துடன் இருவர் நேற்று சனிக்கிழமை (14) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+முல்லைத்தீவு குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகளுக்கு கிடைத்த இரகசியத் தகவலின் பேரில் மேற்கொண்ட சுற்றிவளைப்பின் போது இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபர்கள் முள்ளியவளை பிரதேசத்தை சேர்ந்த 26 மற்றும் 32 வயதுடையவர்கள் ஆவர்.
+
+இவர்களிடமிருந்து 200 லீற்றர் மதுபானம், 1604 லீற்றர் மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் கோடா மற்றும் 08 செப்புச் சுருள்கள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டன.
+
+இதேவேளை, கைது செய்யப்பட்ட நபர்கள் மேலதிக விசாரணைகளுக்காக முள்ளியவளை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/6761c254.json)
+
+---
+
+### ராகம பகுதியில் சட்டவிரோத  மதுபானத்துடன் ஒருவர் கைது
+
+*2024-09-15 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193764) · `ta`
+
+ராகம பொலிஸ் பிரிவிற்குட்பட்ட  நுகேகொட  பிரதேசத்தில் சட்டவிரோத  மதுபானம் வைத்திருந்த ஒருவர் நேற்று சனிக்கிழமை (14) கைது செய்யப்பட்டுள்ளார்.
+
+ராகம பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின் போது இவர் கைது செய்யப்பட்டுள்ளார்.
+
+இந்த நபரிடம் இருந்து 67.5 லீற்றர் (90 போத்தல்கள்) மதுபானம் பொலிஸாரால் கைப்பற்றப்பட்டது.
+
+◼️
+
+[Data](articles/33e27039.json)
+
+---
+
+### தீர்க்கமான தருணம் மக்களே கவனம் !
+
+*2024-09-15 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193790) · `ta`
+
+இது ஒரு எம்.பி.யை, பிரதேச சபை உறுப்பினரை தெரிவு செய்கின்ற தேர்தலோ அல்ல. இந்த நாட்டின் அடுத்த ஐந்து வருடத்திற்கான ஜனாதிபதியை, ஆட்சியாளரை தீர்மானிக்கின்ற தேர்தல் என்பதை நினைவில் வைத்திருக்க வேண்டும். கடந்த காலத்தில் நமது தெரிவுகள் பிழையாக அமைந்ததால் நமக்கு ஏற்பட்ட இழப்புக்களையும் நினைத்துப் பார்க்க வேண்டும்.  எனவே, இலங்கை அரசியலில் நாம் அறிந்த, அனுபவித்த, கடந்தகால நிகழ்வுகளின் அடிப்படையில் பொருத்தமான ஒரு வேட்பாளரை தெரிவு செய்ய மக்கள் வேண்டும். அதற்கான வாக்கை சரியான முறையில் அளிக்க வேண்டும்.
+
+◼️
+
+[Data](articles/1f09e3a3.json)
 
 ---
 
@@ -74,6 +152,20 @@ Meanwhile, the Commission said that 30 complaints of violence and 88 complaints 
 
 ---
 
+### இலங்கை வரும் அமெரிக்கர்களுக்கு எச்சரிக்கை - அமெரிக்க இராஜாங்கத் திணைக்களம்
+
+*2024-09-15 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/193793) · `ta`
+
+இலங்கையின் ஜனாதிபதித் தேர்தல் எதிர்வரும் செப்டெம்பர் 21ஆம் திகதி நடைபெறவுள்ள நிலையில், அந்நாட்டு மக்கள் இலங்கைக்கு பயணம் மேற்கொள்ளும் போது அவதானத்துடன் செயற்படுமாறு அமெரிக்க இராஜாங்கத் திணைக்களம் வேண்டுகோள் விடுத்துள்ளது.
+
+குறித்த திணைக்களம் வெளியிட்டுள்ள பயண ஆலோசனையில், நாட்டில் வசிப்பவர்கள் மக்கள் கூடும் இடங்களுக்கு செல்வதை தவிர்க்குமாறு கேட்டுக் கொள்ளப்படுகிறார்கள்.
+
+◼️
+
+[Data](articles/29e61602.json)
+
+---
+
 ### Scholarship Result in 40 days
 
 *2024-09-15 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201055) · `si`
@@ -91,6 +183,34 @@ This year's scholarship was held at 2,849 centers and 323,879 students were pres
 [Data](articles/23981143.json)
 
 [Extended Data](ext_articles/23981143.ext.json)
+
+---
+
+### ரஷ்யாவின் சிவப்பு எல்லைக் கோடு?
+
+*2024-09-15 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/193788) · `ta`
+
+உக்ரேன் போர் மூன்றாவது ஆண்டை நெருங்கிக் கொண்டிருக்கும் தறுவாயில் இரண்டு தரப்பிலும் பெறுமதியான பல மனித உயிர்கள் இழக்கப்பட்டுவிட்டன. போர் தொடரும் பட்சத்தில் இன்னும் பல ஆயிரக் கணக்கான இறப்புகள் நிகழும் என்பதுவும் நிச்சயமானது. இரண்டாம் உலகப் போரில் அமெரிக்கா செய்ததைப் போன்று அணுவாயுதத்தைப் பாவித்துத்தான் போரை முடிவுக்குக் கொண்டுவர ரஷ்யா  நினைக்குமானால் அது வரலாற்றில் ஒரு கறையாகவே அமையும்.
+
+◼️
+
+[Data](articles/9ef10a70.json)
+
+---
+
+### ரணிலுக்கு அளிக்கப்படும் வாக்குகள் அனுரவையே பலப்படுத்தும் ஆபத்து; ஊழல், இனவாதிகளை தோற்கடிப்போம் - ரிஷாட்
+
+*2024-09-15 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/193786) · `ta`
+
+மூன்றாவது இடத்திலுள்ள ரணில் விக்ரமசிங்கவுக்கு அளிக்கப்படும் வாக்குகள் அனுரகுமார திஸாநாயக்கவுக்கு சார்பானதாகவே அமையும் என்றும் அனுர ஆட்சிக்கு வந்தால், ஆறு மாதங்களில் மீண்டும் வரிசை யுகம் ஏற்படும் எனவும் அகில இலங்கை மக்கள் காங்கிரஸ் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் தெரிவித்தார்.
+
+ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவை ஆதரித்து நேற்று (14) சனிக்கிழமை நிந்தவூரில் இடம்பெற்ற பொதுக்கூட்டத்தில் உரையாற்றிய அவர் குறிப்பிட்டதாவது,
+
+"நடைபெறவுள்ள ஜனாதிபதித் தேர்தல் மிக முக்கியமானது. இந்தத் தேர்தலில் ரணில் விக்ரமசிங்க மூன்றாவது இடத்திலேயே உள்ளார். இத்தேர்தலில் ரணில் வெல்லப்போவதில்லை. சஜித் பிரேமதாசவின் வெற்றியே உறுதியாகிவிட்டது. எனவே, அனுரவுக்கு வாக்களிப்பதும் வீணானதே. ரணிலுக்கு வாக்களித்தால், அனுரவுக்கு வாய்ப்பாகிவிடும். மிகக் கவனமாக சஜித்துக்கு வாக்களியுங்கள்.
+
+...
+
+[Data](articles/7450bbe2.json)
 
 ---
 
@@ -120,6 +240,30 @@ Local residents say that his body was invented in removing the soil for about fo
 
 ---
 
+### கானல் நீராகும் யாழ். முஸ்லிம்களின் மீள்குடியேற்றம்
+
+*2024-09-15 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/193785) · `ta`
+
+1990 ஒக்டோபர் 30 காலை 6 மணி வீதியெங்கும் தமிழீழ விடுதலைப் புலிகளின் ஒலிபெருக்கிகள் அலறின. அவர்களின் அறிவிப்பிற்கேற்ப முஸ்லிம் ஆண்கள் யாழ். ஜின்னா மைதானத்திற்குச் செல்ல முஸ்லிம் பெண்கள் கண்ணீரோடு ஆண்களை வழியனுப்பி வைத்தார்கள். அந்தக் கணங்கள் யாரும் அறிந்திருக்கவில்லை... அந்த அழைப்பு, எம் அகதி வாழ்க்கைக்கான ஒரு முகப்பென்று.
+
+◼️
+
+[Data](articles/e6d89aa4.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலில் மாற்றம் வேண்டுமா, வேண்டாமா?
+
+*2024-09-15 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/193783) · `ta`
+
+இலங்கை தனது ஜனாதிபதித் தேர்தலை நெருங்கும் போது, மேற்கண்ட பல அம்சங்கள் சிக்கலான வழிகளில் மாற்றம் பெறுவதனால், வாக்காளர்களின் முடிவுகளை பாதிக்கின்றன மற்றும் இறுதியில் முடிவை தீர்மானிப்பதாக அமையப்போகின்றது. தற்போதைய ஜனாதிபதி ஆட்சியைத் தக்கவைத்துக்கொள்வாரா அல்லது புதிய வேட்பாளர் வெற்றி பெறுவாரா என்பது இந்த காரணிகள் வாக்காளர்களின் முன்னுரிமைகள் மற்றும் எதிர்பார்ப்புகளுடன் எவ்வாறு ஒத்துப்போகின்றன என்பதைப் பொறுத்தது.
+
+◼️
+
+[Data](articles/fb20f44a.json)
+
+---
+
 ### Warning to Presidential candidates
 
 *2024-09-15 18:46:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களுக்கு-எச்சரிக்கை/175-343798) · `ta`
@@ -139,6 +283,34 @@ The Commission has urged all candidates to stay away from such illegal activitie
 [Data](articles/f664b69b.json)
 
 [Extended Data](ext_articles/f664b69b.ext.json)
+
+---
+
+### யுக்திய நடவடிக்கை : போதைப்பொருள் குற்றம் தொடர்பில் 726 பேர் கைது
+
+*2024-09-15 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/193779) · `ta`
+
+நாடளாவிய ரீதியில் கடந்த 24 மணித்தியாலத்துக்குள் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கையின்போது போதைப்பொருள் குற்றம் தொடர்பில் 726 பேர் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கைதுசெய்யப்பட்ட சந்தேக நபர்களில் 10 பேர் பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டுள்ளதுடன், போதைப்பொருட்களுக்கு அடிமையாகியுள்ள 04 பேரை புனர்வாழ்வு நிலையங்களுக்கு அனுப்பி வைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+சந்தேக நபர்களிடமிருந்து 166 கிராம் ஹெரோயின், 212 கிராம் ஐஸ், மற்றும் 229 கிராம் கஞ்சா ஆகிய போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/ddbab528.json)
+
+---
+
+### பெருமைகள் அழிந்து குழப்பங்கள் வலுக்கும் தமிழ் அரசுக் கட்சி
+
+*2024-09-15 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/193780) · `ta`
+
+ஜனாதிபதித் தேர்தல் உத்தியோக பூர்வமாக அறிவிப்பதற்கு சில தினங்களுக்கு முன்பே தமிழ்த்தேசியப்பரப்பிலுள்ள கட்சிகளான தமிழீழ விடுதலை இயக்கம்,  தமிழ் மக்கள் கூட்டணி,  தமிழீழ மக்கள் விடுதலைக்கழகம், ஈழ மக்கள் புரட்சிகர விடுதலை முன்னணி,  தமிழ்த் தேசியக்கட்சி, ஜனநாயக போராளிகள் கட்சி , தமிழ்த்தேசிய பசுமை இயக்கம்  ஆகிய 7 கட்சிகள் கூட்டு சேர்ந்து தமிழ்த்தேசியக்கட்டமைப்பு என்ற கட்டமைப்பை  உருவாக்கி பொது வேட்பாளர் ஒருவரை நிறுத்துவது தொடர்பாக கலந்துரையாடி வந்துள்ளனர்.
+
+◼️
+
+[Data](articles/b9e53735.json)
 
 ---
 
@@ -237,6 +409,18 @@ Furthermore, the US State Department has advised citizens traveling to Sri Lanka
 [Data](articles/4876324e.json)
 
 [Extended Data](ext_articles/4876324e.ext.json)
+
+---
+
+### புதிய அரசியலமைப்பின் ஊடாக இனப்பிரச்சினைக்கு தீர்வு - ஜனாதிபதி வேட்பாளர் அநுரகுமார உறுதி
+
+*2024-09-15 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/193769) · `ta`
+
+நிறைவேற்றதிகாரம் கொண்ட ஜனாதிபதி முறைமையை அடிப்படையாகக்கொண்ட நிர்வாகத்தைக் காட்டிலும் பாராளுமன்ற முறைமையை முன்னிலைப்படுத்திய நிர்வாகம் மிகவும் சிறந்தது என்ற நிலைப்பாட்டில் நாம் இருக்கின்றோம்.அவ்வாறான நிர்வாக முறைமை எமது அடிப்படை எதிர்பார்ப்பாகும். இருப்பினும் நிறைவேற்றதிகார ஜனாதிபதி முறைமை மற்றும் விகிதாசார தேர்தல் முறைமை ஆகியன ஒன்றோடு ஒன்று தொடர்புடையவையாகும்.பாராளுமன்றத்தில் பலமான நிர்வாகத்தை உருவாக்குவதற்குத் தேவையான அடிப்படையான தேர்தல் முறைமையை அறிமுகப்படுத்தல் மற்றும் நிறைவேற்றதிகார ஜனாதிபதி முறைமையை இரத்துச்செய்தல் என்ற நிலைப்பாட்டில் நாம் இருக்கின்றோம்.
+
+◼️
+
+[Data](articles/d879bf91.json)
 
 ---
 
@@ -1989,311 +2173,5 @@ There are also mm in the Western and Sabaragamuwa provinces and in the Galle and
 [Data](articles/561b6c6e.json)
 
 [Extended Data](ext_articles/561b6c6e.ext.json)
-
----
-
-### Grade 5 Scholarship Exam at 2,849 centres today
-
-*2024-09-15 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101983/grade-5-scholarship-exam-at-2849-centres-today) · `en`
-
-The Grade 05 Scholarship Examination is scheduled to commence at 9.30 a.m. today (15) at exam centers across the island.
-
-The Department of Examination stated that a total of 323,879 applicants are expected to sit for the Grade 5 Scholarship Exam this year.
-
-The Commissioner General of Examinations, Amit Jayasundara, says that the examination is to be held at 2,849 centres across the island and that all necessary arrangements have been made for this.
-
-The Commissioner General also emphasized that all the students sitting for the Grade 05 Scholarship exam should arrive and be seated at their respective examination halls by 9.00 a.m. this morning.
-
-Meanwhile, the Police Spokesman, DIG Nihal Thalduwa, has stated that no one has been authorized to use loudspeakers during the scholarship examination period.
-
-Mental health expert and Consultant Psychiatrist Dr. Rumi Ruben stated that more attention should be paid to the mental well-being of children both before and after the scholarship exam.
-
-◼️
-
-[Data](articles/68e9b7b0.json)
-
-[Extended Data](ext_articles/68e9b7b0.ext.json)
-
----
-
-### Finish the politics of Kirindi - Dilith
-
-*2024-09-15 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201038) · `si`
-
-Dilith Jayaweera, presidential candidate, emphasizes strategic earthquake relief over empty promises. He calls for unity and love in Sri Lankan politics, urging citizens to overcome anger and work towards positive change.
-
-🟩
-
-The presidential candidate entrepreneur Dilith Jayaweera says that he has been presented not a promise of paper but a strategic program in the earthquake.
-
-Addressing Entrepreneral Dilith Jayaweera was speaking at a famil in Akuressa.
-
-"This is not a promived. Sri Lankan politics. I think Sri Lanka's strategic program will come in a presidential election after independence. This book contains how Sri Lanka is creating you expect. So we have received this decisive point of time to create the same box, and the Sri Lankan politics you need to correct the Sri Lankan wishes.. You can end the hatred of your heart and anger against the politics of this query. You can mark the fare to the star of love. "
-
-◼️
-
-[Data](articles/69b988a8.json)
-
-[Extended Data](ext_articles/69b988a8.ext.json)
-
----
-
-### Two young girls are sweeping
-
-*2024-09-15 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201037) · `si`
-
-Two young girls sweeping scene. Two women lower Amban River water level by opening Naula reservoir. Police control situation. Dambulla health services assist. Women from Kongahawela (20) and Kaga (25).
-
-🟩
-
-Two women in the Moragolla have dropped the water level of the Amban River due to the opening of Naula, Bowathena reservoir.
-
-However, immediate police officers have been controlled by the reservoir, which has been carried out immediately.
-
-The Dambulla Police Health Services has been summoned and handed over to the parents who had rescued the first aid.
-
-The two women were residents of 20 and 25 years and are residents of Kongahawela and Kaga.
-
-◼️
-
-[Data](articles/63971739.json)
-
-[Extended Data](ext_articles/63971739.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-09-15 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101982/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says that showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Meanwhile, fairly heavy showers of about 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it added.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night.
-
-Furthermore, the Met. Department stated that strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
-
-Thus, general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/baaaca0f.json)
-
-[Extended Data](ext_articles/baaaca0f.ext.json)
-
----
-
-### Not in the 13th Amendment Law Books?
-
-*2024-09-15 08:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13வது-திருத்தம்-சட்டப்-புத்தகங்களில்-இல்லையா/175-343766) · `ta`
-
-Sajith Premadasa reaffirms commitment to implementing 13th Amendment, emphasizing its importance for ethnic and religious reconciliation in Sri Lanka. He emphasizes the legal obligation to enforce the amendment, citing a High Court ruling.
-
-🟩
-
-Opposition leader and presidential candidate Sajith Premadasa has reiterated his commitment to implement the 13th Amendment to the Constitution.
-
-Speaking on the importance of reconciliation between various ethnic and religious communities in Sri Lanka, Premadasa stressed that the amendment to the provincial councils is part of the legal framework of the country.
-
-“I have already spoken about the need to implement the 13th Amendment to the Constitution. It is always wolve. Reconciliation should be made between the ethnicities and religions of the country in particular.
-
-Not in the 13th Amendment Law Books?We are obliged to implement what is stated in the law. It is not harmful to the integrity of the country. It has been confirmed by the High Court ruling. Therefore, we have a duty to implement it.
-
-I know that others are afraid to say this. But i'm not like that. I say the right thing. ”
-
-◼️
-
-[Data](articles/a30678ea.json)
-
-[Extended Data](ext_articles/a30678ea.ext.json)
-
----
-
-### Grade 5 Scholarship Examination Today
-
-*2024-09-15 07:54:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-5-புலமைப்பரிசில்-பரீட்சை-இன்று/175-343765) · `ta`
-
-Grade 5 Scholarship Exam 2024: Sunday, 2,849 centers, 9:30 AM - 10:45 AM (first paper), 11:15 AM onwards (second paper).
-
-🟩
-
-The Department of Examinations has announced that the Grade 5 Scholarship Examination for 2024 will be held today (15).
-
-Accordingly, the exam will be held today (Sunday) at 2,849 examination centers across the country.
-
-The first paper will start at 9.30 am and end at 10.45 am and the second paper will start at 11.15 am, the department said.
-
-◼️
-
-[Data](articles/dc6789e6.json)
-
-[Extended Data](ext_articles/dc6789e6.ext.json)
-
----
-
-### "NPP is the only government that can eradicate drugs"
-
-*2024-09-15 07:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-யே-போதைப்பொருளை-ஒழிக்கக்கூடிய-ஒரே-அரசாங்கம்/175-343764) · `ta`
-
-NPP presidential candidate vows to end drug menace, accuses politicians of involvement. Claims NPP alone can eradicate drugs, promising police freedom to maintain law and order.
-
-🟩
-
-NPP Presidential candidate Anura Kumara Dissanayake said yesterday that the National People's Power (NPP) government will eliminate the drug threat that has developed a major consequence in the country.
-
-Speaking at an event in Anuradhapura, he said drug distribution of drugs in various parts of the country is being sponsored by politicians.
-
-“In the country, politicians are behind drug trafficking. Recently, many politicians were caught when they were carrying drugs and cannabis in their jeep, ”he said.
-
-Dissanayake said the children were killed in the threat of drug addiction and that the entire family falls in distress when children are addicted to drugs.
-
-"The holy city of Anuradhapura was very quiet in the past.. We came here with our children and stayed for several days and now there is more drugs in the city, ”he said.
-
-He said NPP was not afraid of anyone, but NPP was the only government that can eradicate narcotics.
-
-...
-
-[Data](articles/82e7e583.json)
-
-[Extended Data](ext_articles/82e7e583.ext.json)
-
----
-
-### The deadly attack on husband who killed his wife
-
-*2024-09-15 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201036) · `si`
-
-Husband kills wife over land dispute in Sri Lanka. Wife attacks him with sharp object. Suspect arrested. Police investigating.
-
-🟩
-
-Due to a personal dispute, the husband has been assaulted by his wife with a sharp instrument.
-
-In the evening, the murder was held in the Bothupitiya area for Wadduwa area.
-
-The deceased has been identified as a 23 year old resident of the Greakangahawatta, Pothupitiya.
-
-The 119 Information Center, the Wadduwa Police received information from the 119 Information Center that the husband was attacked by her husband.
-
-Accordingly, a woman was killed and another woman was admitted to the Nagoda hospital while another woman was admitted to the Kalutara Nagoda hospital while another woman was injured.
-
-The 34-year-old suspect was arrested, and Wadduwa Police are conducting further investigations.
-
-Meanwhile, a land dispute has been attacked with a sharp instrument and murdered.
-
-Police say the murder was reported from Baduraliya and Hinupalwila.
-
-The deceased has been identified as a 70-year-old resident of the Morawapitiya, Ketapalapitiya.
-
-◼️
-
-[Data](articles/5816e03a.json)
-
-[Extended Data](ext_articles/5816e03a.ext.json)
-
----
-
-### Scholarship Examination today
-
-*2024-09-15 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201035) · `si`
-
-Scholarship exam today: 2,849 centers, 323,879 candidates. Starts 9:30 AM. Arrive early. No loudspeakers allowed. Psychiatrist advises monitoring students' mental health before and after exam.
-
-🟩
-
-This year's examination will be held in 2,849 centers across the country and 323,879 candidates have qualified.
-
-The examination will commence at 09.30 am and the Commissioner General of Examinations Amit Jayasundara said that all the examination hall should be sitting at the examination hall before 09 am.
-
-Commissioner General of Examinations Amithi Jayasundara said that all necessary measures to conduct the examination without any problems have been taken.
-
-Police Media Spokesperson DIG Nihal Talduuwa said that no one has been given permission to use loudspeakers during the scholarship examination.
-
-Psychiatrist Rubune says he should pay more attention to the psychological level of the children's mental level after the start of the scholarship examination and after the end of the examination.
-
-◼️
-
-[Data](articles/d0a3ae35.json)
-
-[Extended Data](ext_articles/d0a3ae35.ext.json)
-
----
-
-### Showers in many areas today
-
-*2024-09-15 05:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201034) · `si`
-
-Heavy showers/thunderstorms expected in Western, Sabaragamuwa, North Western provinces. Strong winds forecasted. Public advised to be cautious due to potential lightning accidents.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in general area Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The department states in the Western and Sabaragamuwa provinces and in the Galle and Matara Districts. Heavy rains can occur about 50.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-At times, in the Western-mountains of the Central Mountains, the North, North Central and North Western provinces, Hambantota, Moneragala and Trincomalee districts.. The Department of Meteorology states that there are 40-45 feet of strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/b14c69c4.json)
-
-[Extended Data](ext_articles/b14c69c4.ext.json)
-
----
-
-### Is Ranil Committing Harakiri?
-
-*2024-09-15 05:14:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-ranil-committing-harakiri/) · `en`
-
-In leadership, knowing when to step down can be as crucial as knowing when to step up. This principle holds true across various fields, be it politics, the military, or sports. Leaders who exit at their peak often leave behind legacies of dignity and respect.
-
-However, many choose to stay, risking the tarnishing of their once-glorified images. Sri Lanka’s political landscape provides ample examples of this phenomenon, with Ranil Wickremesinghe being the latest figure in the spotlight, in the event he doesn’t succeed in his Presidential aspirations.
-
-...
-
-[Data](articles/d4dfada5.json)
-
-[Extended Data](ext_articles/d4dfada5.ext.json)
-
----
-
-### Otto burned fire
-
-*2024-09-15 03:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓட்டோ-தீப்பற்றி-எரிந்தது/175-343763) · `ta`
-
-Vehicle crash causes fire near Vavuniya-Batticaloa road. Incident occurred last night.
-
-🟩
-
-Otto fire was burnt yesterday evening due to a vehicle crash on the road from Vavuniya to Valawettan in Batticaloa.
-
-◼️
-
-[Data](articles/dd09778e.json)
-
-[Extended Data](ext_articles/dd09778e.ext.json)
-
----
-
-### Wife murder: Husband arrested
-
-*2024-09-15 03:31:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-படுகொலை-கணவன்-கைது/175-343762) · `ta`
-
-Husband arrested for murdering wife, according to Wadhu police report.
-
-🟩
-
-Wadhu police said yesterday that a husband who allegedly assaulted and murdered his wife had been arrested.
-
-◼️
-
-[Data](articles/8e0a3034.json)
-
-[Extended Data](ext_articles/8e0a3034.ext.json)
 
 ---

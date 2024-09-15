@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 03:38:08**
+As of **2024-09-16 03:56:43**
 
 ## Newspaper Stats
 
-*Scraped **44,064** Articles*
+*Scraped **44,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,194 @@ adalk | 4,065
 dailymirrorlk | 4,733
 adaderanalk | 5,187
 tamilmirrorlk | 5,734
-virakesarilk | 7,012
+virakesarilk | 7,021
 adaderanasinhalalk | 7,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,064 (100.0%) of 44,064 articles have been extended.
+44,067 (100.0%) of 44,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### My first purpose is to reduce the burden of the people of the people -the President in Horana
+
+*2024-09-16 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193806) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+President Ranil Wickremesinghe addresses rally, emphasizes reducing people's burden, protecting IMF deals. Criticizes opponents Sajith & Anura over IMF stance. Promises economic reform, export growth. Appeals for support in upcoming election, touting his leadership during crisis.
+
+🟩
+
+President Ranil Wickremesinghe said his first purpose was to reduce the burden of the people. The President pointed out that it is essential to protect the deals signed with the International Monetary Fund and that there is no possibility of changing the agreements, as Sajith and Anura said.
+
+The President also said that the International Monetary Fund had no approval for the suggestions of Sajith and Anura and that the government had support for the program that the government had already initiated, "its communications director Julie Kosech has officially announced that" it is important to protect the achievements of Sri Lanka in the IMF program. "
+
+President Ranil Wickremesinghe made this statement while addressing the "Ranilum Charm" victory rally, which was held on Sunday afternoon at the Horana Public Stadium.
+
+A large number of people participated in the rally, which was organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election.
+
+...
+
+[Data](articles/e011dd8a.json)
+
+[Extended Data](ext_articles/e011dd8a.ext.json)
+
+---
+
+### Prophet Meetan Greetings of Opposition Leader
+
+*2024-09-16 03:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/193805) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Opposition leader Sajith Premadasa greets Prophet Muhammad's birthday, emphasizing his teachings on humanity, brotherhood, and unity. He calls for following Prophet Muhammad's guidance to create a harmonious society beyond racial, religious, and clan differences.
+
+🟩
+
+Today is the birthday of Prophet Muhammad (PBUH), who is dedicated to the creation of humanitarian love and brotherhood and is the guide of Muslims living around the world.. Opposition leader Sajith Premadasa said that I am very happy to send a greeting message.
+
+The basis of the thought and behavior of the human race in any community is the deep religious belief they believed. He is considered a spiritual leader dedicated to make the world full of evil habits and we can learn many things from the teachings that spread around the world.. We also have the opportunity to follow his guidance to create a society that is dedicated to each other, not the race, religion and clan.
+
+The time has come for all who followed his teaching together and re -emerge as a country. For that, we must all unite in this difficult situation.
+
+◼️
+
+[Data](articles/9bb60090.json)
+
+[Extended Data](ext_articles/9bb60090.ext.json)
+
+---
+
+### We do not have politics for privileges and blessings -Opposition Leader in Jaffna
+
+*2024-09-16 03:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193804) · `ta`
+
+Sri Lanka opposition leader Sajith Premadasa addresses rally in Jaffna, promising solutions for displaced people, youth empowerment, and economic development. He vows to resume housing schemes, provide fuel relief, and improve healthcare and education.
+
+🟩
+
+We have no people who have received the Wine Stores Licensing, the Brewery Road Permit,. The people who have received special gifts and gifts are not with us. Opposition leader Sajith Premadasa said that we are with us who have joined the country without racial, religious, clan and party.
+
+The 58th People's Alliance organized by the United People's Alliance (UPFA) ahead of the 2024 presidential election was held on September 15 in Manipay, Jaffna, headed by Opposition Leader Sajith Premadasa.. Opposition leader Sajith Premadasa said this while addressing the gathering.
+
+We will find a solution to the displaced people in the northeastern territory. The problems can be ended only through reconciliation processes. Cannot keep the problem of continuing to scream. The opposition leader said that it would implement a program to strengthen the youth and strengthen the youth as it affects the unity of the country.
+
+...
+
+[Data](articles/ab6e0004.json)
+
+[Extended Data](ext_articles/ab6e0004.ext.json)
+
+---
+
+### மீலாதுன் நபி வாழ்த்துச் செய்தி - ஜனாதிபதி
+
+*2024-09-16 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193803) · `ta`
+
+மீலாத்துன் நபி தினம் அனைத்து முஸ்லிம்களுக்கும் அர்த்தமுள்ளதாகவும் மகிழ்ச்சியானதாகவும் அமைய பிரார்த்திக்கிறேன் என்று தனது வாழ்த்துச்செய்தியில் ்ஜனாதிபதி ரணில் விக்கிரமசிங்க குறிப்பிட்டுள்ளார்.
+
+முஹம்மது நபி(ஸல்) அவர்களின் பிறப்பை நினைவுகூரும் வகையில் மீலாதுன் நபி தினத்தை உலகெங்கிலும் உள்ள முஸ்லிம் சமூகத்துடன் இலங்கை முஸ்லிம்கள் சகோதரத்துவத்துடன் கொண்டாடுகின்றனர்.
+
+மற்றவர்களிடையே நம்பிக்கையை வளர்த்த முஹம்மது நபியவர்கள், அல்-அமீன் என்று (நம்பிக்கையானவர்) அழைக்கப்பட்டார். அவர் தன் வாழ்நாள் முழுவதும் காத்து வந்த நற்பண்புகளுக்காகவும் மனித நேயத்திற்காகவும் செய்த தியாகங்கள் அளவிட முடியாதவை. பரஸ்பர புரிதல், நேர்மை, நல்லிணக்கம் மற்றும் மற்றவர்களை வெறுத்து ஒதுக்காதிருத்தல் போன்றவை இறைத்தூதர் முஹம்மது நபி அவர்களின் அடிப்படை போதனைகளின் மையக்கருவாக அமைந்திருந்தன.
+
+நேர்மையான மனிதர்களுக்கு இறைவன் உதவி புரிகிறார் என்பதையும், அத்தகையவர்கள் இறைவனால் பொருத்தமான, உயர்ந்த இடங்களுக்கு உயர்த்தப்படுவதையும் முஹம்மது நபி அவர்களுடைய வாழ்க்கை மற்றும் தத்துவத்தைப் பற்றி ஆராய்ந்தால் புரிந்துகொள்ளலாம்.
+
+...
+
+[Data](articles/49031f50.json)
+
+---
+
+### கிளிநொச்சியில் 95 கிலோ கஞ்சாவுடன் பெண்ணெருவர் கைது
+
+*2024-09-16 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/193802) · `ta`
+
+கிளிநொச்சி பளை பொலிஸ் பிரிவுக்குட்பட்ட வத்திரையான் பகுதியில் வீடொன்றில் மறைத்து வைக்கப்பட்டிருந்த நிலையில் 95 கிலோ 520 கிராம் கேரளா கஞ்சா சிறப்பு அதிரடி படையினரால் மீட்கப்பட்டுள்ளது.
+
+ஞாயிற்றுக்கிழமை (15) விசேட அதிரடிப் படையினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலை அடுத்து அப்பகுதியை சுற்றி வளைப்பை மேற்கொண்ட சிறப்பு அதிரடிப்படையினர், வீட்டில் மறைத்து வைக்கப்பட்டிருந்த கஞ்சாவை மீட்டுள்ளனர்.
+
+அத்துடன், அப்பகுதியில் நிறுத்தி வைக்கப்பட்டிருந்த வாகனத்திலும் ஒரு பொதி கஞ்சா இருந்தத்துடன் அப்பகுதியில் காணப்பட்ட கப்வாகனத்தையும் சிறப்பு அதிரடிப்படையினர் மீட்டுள்ளனர்
+
+அத்துடன்  இச்சம்வத்துடன் தொடர்புடைய பெண் ஒருவரையும் சந்தேகத்தின் பேரில் சிறப்பு அதிரடிப்படையினர் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் மற்றும் தடையை பொருட்கள் அனைத்தும் பளை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை பளை பொலிஸ் மேற்கொண்டு வருவதாக பொறுப்பதிகாரி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d744823f.json)
+
+---
+
+### யாழில் தந்தை கைப்பேசி கொடுக்காததால் 13 வயதுச் சிறுவன் தவறான முடிவெடுத்து உயிர்மாய்ப்பு!
+
+*2024-09-16 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/193801) · `ta`
+
+விளையாடுவதற்கு தந்தை கைப்பேசி கொடுக்காததால் 13 வயதுச் சிறுவன் ஒருவன் தவறான முடிவெடுத்து ஞாயிற்றுக்கிழமை (15) உயிர்மாய்த்துள்ளான்.
+
+அவனது சடலம் தெல்லிப்பழை ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளது. அளவெட்டி அருணோதயாவில் கல்வி கற்கும் மாணவனே இவ்வாறு உயிரிழந்துள்ளான்.
+
+◼️
+
+[Data](articles/aa29b20b.json)
+
+---
+
+### ரணில் அரியணையேறும் போது அந்த வெற்றியின் பங்காளியாக நாமும் நிற்கவேண்டும் - ஜீவன் தொண்டமான்
+
+*2024-09-16 02:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193800) · `ta`
+
+செப்டம்பர் 21 ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தலில் வெற்றிபெற்று ஜனாதிபதி ரணில் விக்கிரமசிங்க மீண்டும் சிம்மாசனம் ஏறும்போது அந்த வெற்றியின் பங்காளியாக இதொகாவும் கம்பீரமாக நிற்கும். அதுமட்டுமல்ல மலையக மறுமலர்ச்சி திட்டத்தை அவரின் ஆட்சியின்கீழ் வெற்றிகரமாக நிறைவு செய்வோம் - என்று இ.தொ.காவின் பொதுச்செயலாளரும், அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும், சுயேட்சை வேட்பாளரான ரணில் விக்கிரமசிங்கவை ஆதரித்து, நுவரெலியா மாநகரில் 15.09.2024 அன்று மதியம் பிரசாரக் கூட்டம் நடைபெற்றது.
+
+...
+
+[Data](articles/837360d6.json)
+
+---
+
+### ஏனைய மக்களுக்கு கிடைக்கும் வரப்பிரசாதங்களைத்தோட்ட மக்களுக்கும் பெற்றுக்கொடுப்பேன் - ஜனாதிபதி
+
+*2024-09-16 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/193799) · `ta`
+
+பெருந்தோட்ட மக்களுக்கு சகல சலுகைகளையும் வழங்குவதே தமது நோக்கமாகும் எனவும் தோட்ட மக்களுக்கு லயன்களுக்கு  பதிலாக கிராமங்களில் வாழும் உரிமையை வழங்கி சட்டபூர்வமான காணி உரிமை வழங்கும் வேலைத்திட்டம் ஏற்கனவே நடைமுறைப்படுள்ளதாகவும்  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+நுவரெலியாவில் ஞாயிற்றுக்கிழமை (15) பிற்பகல் இடம்பெற்ற 'ரணில் இயலும்' வெற்றிப் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனைக் தெரிவித்தார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விகிரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் வகையில் ஏற்பாடு செய்யப்பட்டிருந்த இந்த பேரணியில் பெருந்திரளான மக்கள் கலந்து கொண்டதுடன், ஜனாதிபதிக்கு உற்சாக வரவேற்பளித்தனர்.
+
+பொய்யான வாக்குறுதிகளை வழங்கும் தலைவர்களுக்கு நாட்டின் பொருளாதாரத்தை அழிக்க இடமளிக்க வேண்டாம் என மக்களிடம் கேட்டுக்கொண்ட ஜனாதிபதி, படிப்படியாக மக்களுக்கு நிவாரணம் வழங்குவதற்காக, அடுத்த 5 வருடங்களில் இந்த நாட்டில் பாரிய பொருளாதார, அரசியல், சமூக புரட்சியை ஏற்படுத்துவதாகவும் உறுதியளித்தார்.
+
+...
+
+[Data](articles/93e178a6.json)
+
+---
+
+### எதிர்தரப்பு வேட்பாளர்கள் வாக்கு கோரும் சுதந்திரமான நிலையைக்கூட ஜனாதிபதி ரணில் விக்ரமசிங்கவே உருவாக்கினார் - செந்தில் தொண்டமான்
+
+*2024-09-16 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193798) · `ta`
+
+"2022 களில் நாட்டு மக்கள் எவராவது தம்மை மீட்க வருவார்களா என்று ஏக்கத்துடன் காத்திருந்த காலத்தில் இன்றிருக்கும் வேட்பாளர்கள் எவரும் வரவில்லை.  நாடு சமூகமான நிலைமைக்கு வந்திருக்கும்போது இன்று மற்றையவர்கள் ஆட்சி அதிகாரம் கேட்கிறார்கள். எனவே நாட்டைப் பாதுகாத்த ஜனாதிபதியுடன் பயணிப்பதே பாதுகாப்பு.
+
+ஜனாதிபதி ஒருவர் ஒருபோதும் வரிசையில் நிற்க வேண்டியதில்லை. அவர்களைத் தெரிவு செய்யப்போகும் நாட்டு மக்களே வரிசையில் நின்று அல்லல்பட நேரிடும். இன்று 1,350 ரூபா சம்பள அதிகரிப்பைப் பெற்றுத் தந்திருக்கும் அரசாங்கம் விரைவில் மிகுதித் தொகை சம்பள அதிகரிப்பையும் பெற்றுத் தரும் என இலங்கை தொழிலாளர் காங்கிரஸின் தலைவரும், கிழக்கு மாகாண ஆளுநருமான செந்தில் தொண்டமான் தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும், சுயேட்சை வேட்பாளரான ரணில் விக்கிரமசிங்கவை ஆதரித்து, நுவரெலியா மாநகரில் 15.09.2024 அன்று மதியம் பிரசாரக் கூட்டம் நடைபெற்றது.
+
+...
+
+[Data](articles/6c91aebd.json)
+
+---
 
 ### The provincial council election will be held soon
 
@@ -2065,217 +2241,5 @@ Dissanayake criticized his political opponents, accusing them of resorting to co
 [Data](articles/26f1d10a.json)
 
 [Extended Data](ext_articles/26f1d10a.ext.json)
-
----
-
-### Two million cigarettes seized from Katunayake
-
-*2024-09-15 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201043) · `si`
-
-Customs seize 2 million cigarettes at Katunayake airport. Suspect arrested, bringing contraband from Dubai flight.
-
-🟩
-
-Customs seized from the Katunayake airport for two crolls of foreign products and electronic cigarettes worth Rs.
-
-Customs personnel have been arrested by the Customs Officers in the Katunayake Airport's at the Arrival airport.
-
-The suspect is a resident of Colombo 13, police said.
-
-The man from Dubai to SriLankan Airlines UL, the airplane was reached at the Katunayake Airport on the 226.
-
-Katunayake Airport Customs customs have recovered 602 cigarettes cigarettes in the aircraft he brought.
-
-◼️
-
-[Data](articles/76db9f31.json)
-
-[Extended Data](ext_articles/76db9f31.ext.json)
-
----
-
-### The implementation of the 13th Amendment will not affect the unity of the country - we have an obligation to implement it - Sajith
-
-*2024-09-15 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/193726) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Sajith emphasizes implementing the 13th Amendment without affecting national unity. He plans to report progress daily. The amendment aims to reconcile religious groups. Sajith denies fears from other leaders about reporting. He appeals for public support against political crises. On economic reform, he suggests eliminating unnecessary taxes while negotiating with the IMF.
-
-🟩
-
-I have informed the need to implement 13 quarters, and I will report it today and tomorrow. "
-
-'The country's races need to be reconciled among religions, is the 13th Amendment in the legal book? "
-
-The President of the United People's Power, Wade, said, "We have an obligation to implement the 13th Amendment," I know that the other leaders are afraid to report it.Bureau Sajit Breadasa said in an interview
-
-Question - How do you feel a weekly time to take place?
-
-Answer- My challenge is to restore the country, no one you mentioned above is challenging me.
-
-Answer- I can see on September 22, I am not politically experienced.
-
-Question - Does some say that the success of the national popular power is seen?
-
-Answer: The blessing of the majority of the country is the United People's Power. We represent the majority of the country's most communities and religions.
-
-Question - Some people say that Sajith and Ranil have to build the country together?
-
-...
-
-[Data](articles/ed89a847.json)
-
-[Extended Data](ext_articles/ed89a847.ext.json)
-
----
-
-### Make your child's tomorrow building responsibility - Namal
-
-*2024-09-15 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201042) · `si`
-
-Namal Rajapaksa emphasizes building responsibility for children's future. He criticizes past politicians' actions and promises economic support for farmers. His goal is to develop Sri Lanka sustainably, focusing on infrastructure and agriculture.
-
-🟩
-
-Namal Rajapaksa, president of the Sri Lanka Civil Aru
-
-"Today every candidate talks about the Expressway, Portitiya, Hambantota port and airport. But all these candidates scolded this in 2015. Those who called the white elephant then have decided to refrain from Mahinda Rajapaksa's development. We have to be an inch of all kinds of land that can be in this country. We give the fertilizer subsidy. We take every decision that can strengthen the farmer's economy. Some leaders sell habits harm and unexpected taxes and finds the money for those five. We can't do that, because we're not going to finish politics in five years. We have a medicine about these. I will accept the challenge of making this motherland to make this motherland to make your child tomorrow.
-
-◼️
-
-[Data](articles/c323aaa9.json)
-
-[Extended Data](ext_articles/c323aaa9.ext.json)
-
----
-
-### Free and fair elections essential to Sri Lanka’ s democracy - US
-
-*2024-09-15 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101990/free-and-fair-elections-essential-to-sri-lanka-s-democracy-us) · `en`
-
-The United States looks forward to working closely with the candidate Sri Lankan voters choose to lead their country into the future, says the US Ambassador to Sri Lanka Julie Chung.
-
-Posting a message on ‘ X’  (formerly Twitter) to mark the International Day of Democracy, she highlighted that this day celebrates the principles of any strong and stable democracy, like accountability, human rights, justice, and ensuring that every individual has a say in shaping their future through elections.
-
-“No process is more essential to Sri Lanka’s democracy than free and fair elections, and the United States looks forward to working closely with the candidate Sri Lankan voters choose to lead their country into the future,”  she added.
-
-With over 17 million registered voters across 22 electoral districts, Sri Lanka is gearing up for the much-awaited presidential polls on September 21, where 38 candidates are vying for the presidency.
-
-◼️
-
-[Data](articles/d85f7da2.json)
-
-[Extended Data](ext_articles/d85f7da2.ext.json)
-
----
-
-### Sajith promises to transform Sri Lanka’s healthcare system, address critical issues
-
-*2024-09-15 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101989/sajith-promises-to-transform-sri-lankas-healthcare-system-address-critical-issues-) · `en`
-
-Sajith Premadasa, the presidential candidate of the Samagi Jana Balawegaya (SJB), pledged to usher in a transformative era for Sri Lanka’s healthcare system after September 21.
-
-Speaking at a health conference held in Colombo, Premadasa outlined: “After the 21st, we will have the opportunity to address the critical issues that have long plagued our health system.”
-
-He further emphasized that transforming Sri Lanka’s healthcare infrastructure cannot rely solely on traditional public investment and funding. Instead, he advocated for a fresh approach that includes a robust foster care system for every Medical Officer of Health (MOH) division and hospital across the country.
-
-Premadasa proposed the introduction of a charity system to supplement government funding. “While various stakeholders often highlight allocations as a percentage of GDP, we need to recognize that government investment alone is insufficient to revitalize our health system,” he noted.
-
-...
-
-[Data](articles/9ab5f6c3.json)
-
-[Extended Data](ext_articles/9ab5f6c3.ext.json)
-
----
-
-### Those who socialize false facts come to court - Anura
-
-*2024-09-15 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201041) · `si`
-
-Here's a 200-character summary:
-
-
-
-Politicians spread false information. Government promises to address reconciled issues. Political opponents criticized for lack of answers. Leaders visit districts, emphasizing national unity over party loyalty. Critics claim government ineffective against challenges.
-
-🟩
-
-The presidency of the National Poor Kumara Dissanayake says that the people who reconcile false issues will be reached by their government to reintegrate false issues.
-
-"Their politics was locked up where they had no answer but not telling the enemy. This is not a normal translation. Generally Ranil Wickremesinghe visits Athaulla in Ampara, Sajith Premadasa goes to Ampara in Ampara. But we went with the national unity of the nationality, that's the dream we saw centuries. Despite the change in so much politics, Sajith Premadasa has no talk again. Tissa Attanayake goes to Kandy and tells the procession if a government's government's government is. Charitha Herath says that if a government's powerful government is stopped at the elephant. Everyone who read it, we get into court. "
-
-◼️
-
-[Data](articles/c941c062.json)
-
-[Extended Data](ext_articles/c941c062.ext.json)
-
----
-
-### Two women rescued after being swept away by strong river currents
-
-*2024-09-15 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101988/two-women-rescued-after-being-swept-away-by-strong-river-currents) · `en`
-
-Two women were rescued by police and lifeguards after being swept away by strong river currents while bathing in the Amban Ganga.
-
-The incident had reportedly occurred in the Moragolla area following the opening of the sluice gates at the Bowatenna Reservoir in Naula.
-
-According to reports, the water levels surged unexpectedly, sweeping the two women away while they were bathing in the river. Naula Police had then taken immediate steps to control the water flow from the reservoir and rescued the two women with the help of police lifeguards.
-
-The women, aged 20 and 25, are residents of Kongahawela and Kagama areas, police said.
-
-◼️
-
-[Data](articles/a9025f81.json)
-
-[Extended Data](ext_articles/a9025f81.ext.json)
-
----
-
-### Two women who were swept water in the water as the water level of the Amban River rose
-
-*2024-09-15 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193717) · `ta`
-
-Two women (20, 25) swept away by rising Amban River waters. Rescued by Dambulla Police Life Soldiers. Water level increased after dam opening in Naula Police Division.
-
-🟩
-
-Two women who were drowned in the Moragolla area were swept away and later recovered, police said that the water level of the Amban River has risen due to the opening of the water level in the Naula Police Division.
-
-The two women who were swept water were 20 and 25 years old from Kongahawela and Kakama areas.
-
-Two women who were swept away in the water have been rescued by the Dambulla Police Life Soldiers and handed over to their parents.
-
-◼️
-
-[Data](articles/55596107.json)
-
-[Extended Data](ext_articles/55596107.ext.json)
-
----
-
-### Here is the Sri Lankan who came with the New Zealand team
-
-*2024-09-15 11:01:13* · [`adalk`](https://www.ada.lk/sports/නවසීලන්ත-කණ්ඩායම-සමග-පැමිණි-ශ්‍රී-ලාංකිකයා-මෙන්න/9-411948) · `si`
-
-Sri Lanka: New Zealand cricket team arrives with former spinner Rangana Herath as spin bowling coach for two-test series.
-
-🟩
-
-New Zealand team for the two-match Test series arrived in the island yesterday (14).
-
-Former spinner, Rangana Herath, along with the team, also attended.
-
-He is the spinner coach of New Zealand.
-
-◼️
-
-[Data](articles/81b474c8.json)
-
-[Extended Data](ext_articles/81b474c8.ext.json)
 
 ---

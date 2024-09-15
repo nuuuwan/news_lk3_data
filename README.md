@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 19:37:50**
+As of **2024-09-15 19:56:06**
 
 ## Newspaper Stats
 
-*Scraped **44,033** Articles*
+*Scraped **44,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,064
 dailymirrorlk | 4,733
-adaderanalk | 5,184
-tamilmirrorlk | 5,732
+adaderanalk | 5,185
+tamilmirrorlk | 5,733
 virakesarilk | 6,994
 adaderanasinhalalk | 7,537
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 7,537
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,033 (100.0%) of 44,033 articles have been extended.
+44,035 (100.0%) of 44,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### EC warns presidential candidates against promoting rivals
+
+*2024-09-15 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102001/ec-warns-presidential-candidates-against-promoting-rivals) · `en`
+
+The Election Commission has emphasized that it is unlawful for any presidential candidate to promote another candidate during the campaign.
+
+In an official statement, the commission clarified that candidates who have filed nominations for the upcoming presidential election are expected to campaign solely for their own victory.
+
+The statement also noted that complaints have been received alleging that some candidates are endorsing or promoting their rivals, in violation of election laws.
+
+The commission warned that any candidate found engaging in such prohibited activities, as well as those being promoted, will face legal consequences in accordance with election regulations.
+
+◼️
+
+[Data](articles/64944bdd.json)
+
+[Extended Data](ext_articles/64944bdd.ext.json)
+
+---
+
+### 4,215 complaints so far
+
+*2024-09-15 19:13:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-4-215-முறைப்பாடுகள்/175-343800) · `ta`
+
+Election Commission reports 4,215 complaints during July 31-September 14 presidential election period. 1,360 to national center, 2,737 to district centers for law violations. 30 violence complaints, 88 to district center.
+
+🟩
+
+The Election Commission said that 4,215 elections have been received within the period from July 31 to September 14 in connection with the presidential election.
+
+Accordingly, 1,360 complaints have been received for the National Election Complaint Management Center and 2,737 to the District Election Complaint Management Center for violating election laws.
+
+Meanwhile, the Commission said that 30 complaints of violence and 88 complaints have been received to the District Election Complaint Management Center.
+
+◼️
+
+[Data](articles/70706775.json)
+
+[Extended Data](ext_articles/70706775.ext.json)
+
+---
 
 ### Scholarship Result in 40 days
 
@@ -2253,57 +2295,5 @@ Wadhu police said yesterday that a husband who allegedly assaulted and murdered 
 [Data](articles/8e0a3034.json)
 
 [Extended Data](ext_articles/8e0a3034.ext.json)
-
----
-
-### Rain in some parts of the country today
-
-*2024-09-15 03:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-இன்று-மழை/175-343761) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Rain/thunderstorms forecasted for Western, Sabaragamuwa, North Western Provinces and Kandy, Nuwara Eliya, Galle, Matara districts today. Rain expected at night in Uva Province. Strong winds predicted in Central Highlands, Northern, North Central, North Western Provinces and Hambantota, Moneragala, Trincomalee districts."
-
-🟩
-
-The Department of Meteorology has predicted rain or thunderstorms in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts today.
-
-In the Uva Province, Ampara and Batticaloa districts, rain or thunderstorms are expected at night.
-
-The Department of Meteorology has forecast strong winds in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Hambantota, Moneragala and Trincomalee districts at 40-45 km / h.. (A)
-
-◼️
-
-[Data](articles/9c469e54.json)
-
-[Extended Data](ext_articles/9c469e54.ext.json)
-
----
-
-### Modi named the calf
-
-*2024-09-15 03:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கன்றுக்-குட்டிக்குப்-பெயர்-சூட்டினார்-மோடி/175-343760) · `ta`
-
-Here's a 200-character summary:
-
-
-
-PM Modi names calf, posts video. Takes calf to pooja room, wears shawl. Names calf "fire" due to white mark on forehead.
-
-🟩
-
-Prime Minister Narendra Modi has posted a flexible video of the cow -curse that is maintained at his residence.
-
-In addition, Prime Minister Modi took the calf to his pooja room and wore a shawl.
-
-The Prime Minister also noted that the fire of the calf has been named as a fire as the light is white -like white on the forehead.. (A)
-
-◼️
-
-[Data](articles/03dc5d23.json)
-
-[Extended Data](ext_articles/03dc5d23.ext.json)
 
 ---

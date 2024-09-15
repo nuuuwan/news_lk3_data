@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 21:07:37**
+As of **2024-09-15 21:22:16**
 
 ## Newspaper Stats
 
-*Scraped **44,050** Articles*
+*Scraped **44,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 4,065
 dailymirrorlk | 4,733
 adaderanalk | 5,186
 tamilmirrorlk | 5,733
-virakesarilk | 7,007
-adaderanasinhalalk | 7,537
+virakesarilk | 7,008
+adaderanasinhalalk | 7,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,049 (100.0%) of 44,050 articles have been extended.
+44,052 (100.0%) of 44,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### The country wants money and entrepreneurship Ministry - Dilith
+
+*2024-09-15 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201056) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's Ministry of Entrepreneurs aims to foster entrepreneurial spirit. Minister Dilith Jayaweera criticizes current economic policies, proposing a new approach to boost wealth and combat threats. He emphasizes unity against divisive politics and promises to protect the nation.
+
+🟩
+
+Dilith Jayaweera says that the Ministry of Entrepreneurs and Entrepreneurship will be aimed at creating an entrepreneurship minded Sri Lankans and advance them.
+
+He added that a weak minister of the debt was unnecessary in the Kiribathgoda this afternoon.
+
+Speaking further Mr. Dilith Jayaweera said,
+
+"We're going to the third world in the third world. Dampea is down. This pyper brings us today a cautious message that understands it well. This historic presidential election. We manage the debt as a person in life's practical. This is a program to do this. The three presidential candidates have not even made a cigar shop, do not pay taxes, do not pay taxes, do not pay taxes.. The way we manage the economy as a person with practical experience of this economics for 30 years. "
+
+...
+
+[Data](articles/a1bc0822.json)
+
+[Extended Data](ext_articles/a1bc0822.ext.json)
+
+---
+
+### Scholarship Examination Released in 40 Days - Commissioner General of Examination
+
+*2024-09-15 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/193794) · `ta`
+
+Scholarship Exam Results: 40-day wait announced. 5th exam held at 2,849 centers; 323,879 students participated. Commissioner General says results will be released soon.
+
+🟩
+
+The Commissioner General of Examination Amit Jayasundara said that the results of the 5th Scholarship Examination held on Sunday 15th are expected to be released in 40 days.
+
+This year's scholarship examination was held in 2,849 centers and 323,879 students appeared for the exam.
+
+◼️
+
+[Data](articles/1fa79f68.json)
+
+[Extended Data](ext_articles/1fa79f68.ext.json)
+
+---
 
 ### Grade 5 Scholarship exam results in 40 days
 
@@ -45,6 +93,26 @@ This year’s Grade 5 Scholarship exams was held in 2,849 centers with the parti
 [Data](articles/a876ec18.json)
 
 [Extended Data](ext_articles/a876ec18.ext.json)
+
+---
+
+### US State Department
+
+*2024-09-15 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/193793) · `ta`
+
+US State Department advises Sri Lankans to stay safe during upcoming presidential election on Sept 21, urging citizens to avoid crowded areas.
+
+🟩
+
+The US State Department has appealed to the people of Sri Lanka to take care of the people of Sri Lanka, as the Sri Lankan presidential election is scheduled for September 21st.
+
+In the travel consultation issued by the Department, residents of the country are asked to avoid going to places where people can gather.
+
+◼️
+
+[Data](articles/29e61602.json)
+
+[Extended Data](ext_articles/29e61602.ext.json)
 
 ---
 
@@ -199,26 +267,6 @@ Meanwhile, the Commission said that 30 complaints of violence and 88 complaints 
 [Data](articles/70706775.json)
 
 [Extended Data](ext_articles/70706775.ext.json)
-
----
-
-### US State Department
-
-*2024-09-15 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/193793) · `ta`
-
-US State Department advises Sri Lankans to stay safe during upcoming presidential election on Sept 21, urging citizens to avoid crowded areas.
-
-🟩
-
-The US State Department has appealed to the people of Sri Lanka to take care of the people of Sri Lanka, as the Sri Lankan presidential election is scheduled for September 21st.
-
-In the travel consultation issued by the Department, residents of the country are asked to avoid going to places where people can gather.
-
-◼️
-
-[Data](articles/29e61602.json)
-
-[Extended Data](ext_articles/29e61602.ext.json)
 
 ---
 
@@ -600,7 +648,7 @@ Ankara's prediction is that Turkey is no longer the time to join the EU. This is
 
 ### More than 4 thousand complaints have been lodged in the presidential election so far
 
-*2024-09-15 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193784) · `ta`
+*2024-09-15 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/193784) · `ta`
 
 Over 4,000 election complaints filed: 1,360 national, 2,737 district, 30 violence reports, 88 other issues.
 
@@ -924,17 +972,23 @@ Accordingly, foreign media reports that the total number of deaths occurred over
 
 ---
 
-### දිවයින පුරා සුරාසැල් දින 02ක් වසා තැබීමට පියවර
+### Measures to be closed for 2 days of liquor stores
 
 *2024-09-15 16:42:26* · [`adalk`](https://www.ada.lk/breaking_news/දිවයින-පුරා-සුරාසැල්-දින-02ක්-වසා-තැබීමට-පියවර/11-411950) · `si`
 
-2024 ජනාධිපතිවරණය හේතුවෙන් දින 02ක් දිවයින පුරා සුරාසැල් වසා තැබීමට තීරණය කර තිබේ.
+Liquor stores closed 2 days nationwide due to presidential election. Excise Commissioner announces shutdown on 21st and 22nd.
 
-ඒ අනුව එළැඹෙන 21 වැනිදා සහ 22 වැනිදා මෙලෙස දිවයින පුරා සුරාසැල් වසා තැබීමට පියවර ගන්නා බව සුරාබදු කොමසාර්ස් ජනරාල් වරයා නිවේදනය කළේය.
+🟩
+
+Two days of the island has decided to be closed down to two days island wide due to the Presidential election.
+
+Accordingly, the Excise Commissioner General of Excise announced the closing of liquor shops throughout the island on the 21st and 22nd.
 
 ◼️
 
 [Data](articles/e2a3681a.json)
+
+[Extended Data](ext_articles/e2a3681a.ext.json)
 
 ---
 
@@ -2209,53 +2263,5 @@ The big companies that produce power plants in Bangladesh belong to India. The B
 [Data](articles/425a2d13.json)
 
 [Extended Data](ext_articles/425a2d13.ext.json)
-
----
-
-### Man stabs 23-year-old wife to death, injures sister-in-law
-
-*2024-09-15 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101985/man-stabs-23-year-old-wife-to-death-injures-sister-in-law) · `en`
-
-A woman has been stabbed to death with a sharp weapon by her husband over a personal dispute in the Pothupitiya area of the Wadduwa police division.
-
-The deceased is a 23-year-old resident of the Pothupitiya area in Gorakagahawatta.
-
-Wadduwa Police had been informed by the ‘119’ Information Centre regarding a woman being assaulted by her husband in their home last evening.
-
-Upon arriving at the scene, the police officers discovered that a woman had been murdered with a sharp weapon, and that another woman had sustained injuries in the attack.
-
-The injured woman was admitted to the Kalutara Nagoda Hospital for treatment.
-
-It has been revealed that the woman who sustained injuries is the sister of the deceased.
-
-The 34-year-old suspect who has committed the murder has been arrested and Wadduwa Police is conducting further investigation into the incident.
-
-◼️
-
-[Data](articles/3ada5cb7.json)
-
-[Extended Data](ext_articles/3ada5cb7.ext.json)
-
----
-
-### Israel's decay
-
-*2024-09-15 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193712) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Israel's decay: Factors like neighboring attacks, civil wars, and failed public services can lead to national decline over time. This gradual process affects both long-term stability and short-term security.
-
-🟩
-
-Historically, a number of factors may cause a nation sink. This can be a result of a series of neighboring attacks or long -term civil war. This may occur following the breakdown of public companies that cannot provide services to citizens. Often this is a slow -decaying process. This is the speed of time and then the short -term, and the short -term, a certain period of time, and the structures that appeared to be solid and firmly.
-
-◼️
-
-[Data](articles/1982abde.json)
-
-[Extended Data](ext_articles/1982abde.ext.json)
 
 ---

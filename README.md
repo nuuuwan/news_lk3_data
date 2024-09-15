@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 09:22:24**
+As of **2024-09-15 09:38:09**
 
 ## Newspaper Stats
 
-*Scraped **43,943** Articles*
+*Scraped **43,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 376
 bbccomsinhala | 426
 colombotelegraphcom | 435
-islandlk | 2,587
+islandlk | 2,588
 economynextcom | 2,679
 dailyftlk | 2,920
 adalk | 4,060
 dailymirrorlk | 4,733
-adaderanalk | 5,170
+adaderanalk | 5,171
 tamilmirrorlk | 5,707
 virakesarilk | 6,966
 adaderanasinhalalk | 7,521
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,521
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,942 (100.0%) of 43,943 articles have been extended.
+43,945 (100.0%) of 43,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### At least 64 people feared dead in Nigeria boat accident
+
+*2024-09-15 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101984/at-least-64-people-feared-dead-in-nigeria-boat-accident) · `en`
+
+At least 64 people were feared dead following a boat accident on a river in Zamfara State in northwest Nigeria, local officials said on Saturday.
+
+A wooden boat carrying 70 farmers capsized as it was transporting them across the river to reach their farmlands close to Gummi town on Saturday morning. Local authorities swiftly mobilised residents for a rescue operation, and after three hours, six survivors were pulled from the water.
+
+“This is the second time such an incident has occurred in the Gummi Local Government Area,” said Aminu Nuhu Falale, a local administrator who led the rescue efforts.
+
+He added that emergency teams were intensifying their search in the hope of finding more survivors.
+
+More than 900 farmers rely on crossing the river daily to access their farmlands, but only two boats are available, often leading to overcrowding, said the local traditional ruler.
+
+...
+
+[Data](articles/073bbcde.json)
+
+[Extended Data](ext_articles/073bbcde.ext.json)
+
+---
 
 ### Grade 5 Scholarship Exam at 2,849 centres today
 
@@ -1346,17 +1368,23 @@ Namal Rajapaksa, president of the Sri Lanka General Front said.
 
 ---
 
-### බස්නාහිර පළාතේ වාහන ආදායම් බලපත්‍ර නිකුත් කිරීම ගැන ගත් තීරණය මෙන්න
+### Here is the decision about issuing vehicle revenue license in the Western Province
 
 *2024-09-14 16:39:10* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පළාතේ-වාහන-ආදායම්-බලපත්‍ර-නිකුත්-කිරීම-ගැන-ගත්-තීරණය-මෙන්න/11-411945) · `si`
 
-බස්නාහිර පළාත තුළ වාහන ආදායම් බලපත්‍ර නිකුත් කිරීම සඳහා ක්‍රියාත්මක සියලුම බලපත්‍ර කවුළු ලබන 20 වැනිදා වසා තැබෙන බව පළාත් ප්‍රධාන ලේකම් කාර්යාලය පැවසීය.
+Western Province Vehicle Revenue License closure announced. All licenses to shut down on 20th. Steps taken for 2024 presidential election release on 21st.
 
-ලබන 21වැනිදා පැවැත්වෙන 2024 ජනාධිපතිවරණයේ රාජකාරී කටයුතු සඳහා නිලධාරීන් මුදා හැරීමට සිදුවන බැවින් එම පියවර ගෙන ඇත.
+🟩
+
+All the licenses implemented to issue Vehicle Revenue License in the Western Province will be closed on the 20th, said the Chief Secretariat.
+
+The steps had been taken to release the 2024 presidential election in the 2024 presidential election on the 21st.
 
 ◼️
 
 [Data](articles/4948039c.json)
+
+[Extended Data](ext_articles/4948039c.ext.json)
 
 ---
 
@@ -2241,27 +2269,5 @@ The Western Province Chief Secretariat has also announced that the income licens
 [Data](articles/7f99f0b9.json)
 
 [Extended Data](ext_articles/7f99f0b9.ext.json)
-
----
-
-### Ranil's success is good for the country
-
-*2024-09-14 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ரணிலின்-வெற்றி-நாட்டுக்கு-நன்மை/73-343740) · `ta`
-
-Ranil Wickremesinghe's campaign gains momentum. Former MP Erajeswaran supports him. Victory seen as positive for country and Tamils. Campaign focuses on key areas: Kalmunai, Pandaruppu, Navithanveli, Samanthurai.
-
-🟩
-
-Former Eastern Provincial Council Member M. Erajeswaran is campaigning in support of President Ranil Wickremesinghe in the upcoming presidential election.
-
-For the past three days, Ranil Wickremesinghe has supported the leaflets in Kalmunai, Pandaruppu, Navithanveli and Samanthurai areas.
-
-Ranil Wickremesinghe's victory will be favorable to the country and the Tamil people, so people should be able to win the gas cylinder and make Ranil Wickremesinghe a success.. Remble
-
-◼️
-
-[Data](articles/1aa5a5ba.json)
-
-[Extended Data](ext_articles/1aa5a5ba.ext.json)
 
 ---

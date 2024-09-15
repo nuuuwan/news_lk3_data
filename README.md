@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 14:37:58**
+As of **2024-09-15 14:56:53**
 
 ## Newspaper Stats
 
-*Scraped **43,989** Articles*
+*Scraped **43,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,063
 dailymirrorlk | 4,733
-adaderanalk | 5,180
+adaderanalk | 5,181
 tamilmirrorlk | 5,721
 virakesarilk | 6,975
 adaderanasinhalalk | 7,528
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,989 (100.0%) of 43,989 articles have been extended.
+43,989 (100.0%) of 43,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Dilith Jayaweera advocates for greater economic inclusion of women in Sri Lanka
+
+*2024-09-15 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101995/dilith-jayaweera-advocates-for-greater-economic-inclusion-of-women-in-sri-lanka) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera emphasized his commitment to integrating more women into Sri Lanka’s economic landscape.
+
+Addressing a rally held in Kalalgoda, Jayaweera highlighted the pivotal role women play in both family and national prosperity, stating: “One of the primary reasons for my political foray is the women of Sri Lanka. For years, I have been advocating for greater recognition of their role in our society. We need to harness and support the entrepreneurship of Sri Lankan women.”
+
+“Despite the challenges of a reduced household income and soaring living costs, Sri Lankan women have maintained the integrity and happiness of their families. This is a testament to their entrepreneurial spirit,” he remarked.
+
+He noted that women constitute 53% of the population, yet many remain underrepresented in the economic sector.
+
+...
+
+[Data](articles/a6ac31fb.json)
+
+---
 
 ### Namal promises long-term political vision over short-term gains
 
@@ -2227,25 +2245,5 @@ Approval of the Management Board of the Urban Development Authority and Standing
 [Data](articles/94f67a43.json)
 
 [Extended Data](ext_articles/94f67a43.ext.json)
-
----
-
-### Man collides in Dehiwala
-
-*2024-09-14 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201022) · `si`
-
-Dehiwala: Man dies after train collision near railway station. Victim hit by train traveling from Maradana to Beliatta.
-
-🟩
-
-The victim has died after collision with the train near the Dehiwala railway station.
-
-It is reported that the man had collided with the stroud train traveling from Maradana to Beliatta.
-
-◼️
-
-[Data](articles/c752add6.json)
-
-[Extended Data](ext_articles/c752add6.ext.json)
 
 ---

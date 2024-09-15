@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 14:10:25**
+As of **2024-09-15 14:22:27**
 
 ## Newspaper Stats
 
-*Scraped **43,988** Articles*
+*Scraped **43,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,063
 dailymirrorlk | 4,733
-adaderanalk | 5,179
+adaderanalk | 5,180
 tamilmirrorlk | 5,721
 virakesarilk | 6,975
 adaderanasinhalalk | 7,528
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,988 (100.0%) of 43,988 articles have been extended.
+43,988 (100.0%) of 43,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Namal promises long-term political vision over short-term gains
+
+*2024-09-15 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101993/namal-promises-long-term-political-vision-over-short-term-gains) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) presidential candidate, Namal Rajapaksa pledged a long-term political commitment, emphasizing his vision for shaping a better future for the next generation, rather than focusing on a conventional five-year term.
+
+Addressing a public rally in Wellawaya yesterday (14), Rajapaksa criticized the current political discourse, highlighting that many candidates who once dismissed key development projects initiated by his father, former President Mahinda Rajapaksa, are now championing them.
+
+“Back in 2015, projects like the expressway, Port City, Hambantota International Port, and the airport were labeled ‘white elephants’. Today, those same critics are eager to build on this progress,” he said.
+
+Furthermore, Rajapaksa outlined his focus on the agricultural sector, underscoring the importance of maximizing the use of cultivable land and supporting farmers with fertilizer subsidies.
+
+...
+
+[Data](articles/d5854b63.json)
+
+---
 
 ### Prison to the owner of tomato juice
 
@@ -2227,37 +2245,5 @@ It is reported that the man had collided with the stroud train traveling from Ma
 [Data](articles/c752add6.json)
 
 [Extended Data](ext_articles/c752add6.ext.json)
-
----
-
-### Gavin starrer 'Bloody Becker' movie update
-
-*2024-09-14 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193701) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Bloodi Becker" movie update: Gavin Starrer, Redin Kingsley, Maruti Prakash Raj star. Directed by Sivapalan Muthukumar. Produced by Nelson Dilip Kumar. Special song released, featuring Vishnu Edavan lyrics and Arke Hari Prasad Ramani vocals. Set for Diwali release.
-
-🟩
-
-After the success of 'Tata' and 'Star', the film crew has released a special song and a video for the song to advertise the film 'Bloodi Becker', which is set to be a star actor, who has fallen attention to fans.
-
-Gavin, Redin Kingsley, Maruti Prakash Raj, Sunil Sukhada, T, directed by debutant director Sivapalan Muthukumar. M.. Karthik, Harshad, Priyadarshini Rajkumar, Akshaya Hariharan, Divya Vikram and many others have been cast.
-
-The film was produced by director Nelson Dilip Kumar on behalf of Flement Pictures.
-
-The film crew has begun to advertise the film, which is expected to be released on the upcoming Diwali day.
-
-In that respect, 'Who am I?'Has released a special song and a song for the song.
-
-The song is written by songwriter Vishnu Edavan and sung by playback singer Arke Hari Prasad Ramani. The video is directed by famous director Nelson Dileep Kumar.
-
-...
-
-[Data](articles/b4dcd087.json)
-
-[Extended Data](ext_articles/b4dcd087.ext.json)
 
 ---

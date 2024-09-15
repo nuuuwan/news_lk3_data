@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 15:56:36**
+As of **2024-09-15 16:09:57**
 
 ## Newspaper Stats
 
-*Scraped **44,002** Articles*
+*Scraped **44,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailyftlk | 2,920
 adalk | 4,063
 dailymirrorlk | 4,733
 adaderanalk | 5,182
-tamilmirrorlk | 5,724
-virakesarilk | 6,982
+tamilmirrorlk | 5,725
+virakesarilk | 6,984
 adaderanasinhalalk | 7,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,002 (100.0%) of 44,002 articles have been extended.
+44,002 (100.0%) of 44,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### கல்கிஸ்ஸையில் ஹெரோயினுடன் ஒருவர் கைது
+
+*2024-09-15 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/193752) · `ta`
+
+கல்கிஸ்ஸ பொலிஸ் பிரிவுக்குட்பட்ட புகையிரத நிலையத்துக்கு அருகாமையில் ஹெரோயின் போதைப்பொருளுடன் ஒருவர் நேற்று சனிக்கிழமை (14) கல்கிஸ்ஸ பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கல்கிஸ்ஸ பொலிஸ் நிலைய அதிகாரிகள் குழுவினர் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் ரத்மலான பிரதேசத்தை சேர்ந்த 47 வயதுடையவர் ஆவார்.
+
+சந்தேக நபரிடமிருந்து 10 கிராம் 200 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டது.
+
+◼️
+
+[Data](articles/cb99fedd.json)
+
+---
+
+### தமிழ் அரசின்   தடுமாற்றம்
+
+*2024-09-15 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/193753) · `ta`
+
+புதிய அரசியலமைப்பில் ‘ஒற்றையாட்சி’ என்ற பதம் இருக்க வேண்டும் என்பதை கலாநிதி ஜயம்பதி விக்கிரமரத்னவின்  97 வயதான தாயார் வலியுறுத்தியதால் அதனை சேர்த்துக் கொள்வதில் அவர் பிடிவாதமாக இருந்தார் என்று இப்போது கூறும் சுமந்திரன்  ‘ஏக்கிய ராஜ்ய’ என்பது,’ஒற்றையாட்சி’ தான் என்பதை ஏற்றுக் கொள்கிறார். அப்படியானால் அப்போது நல்லாட்சிக்காலத்தில் ஏன், அதனை ‘சமஷ்டி’ என்று மக்களுக்குப் பூச்சாண்டி காட்ட முற்பட்டார்?
+
+◼️
+
+[Data](articles/0e26f3ab.json)
+
+---
+
+### அனுர, சஜித் அணியில் இருவர் ரணிலுக்கு ஆதரவு
+
+*2024-09-15 15:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-சஜித்-அணியில்-இருவர்-ரணிலுக்கு-ஆதரவு/175-343784) · `ta`
+
+தேசிய மக்கள் சக்தியின் நிறைவேற்று குழு உறுப்பினர் அனுஷ விமலவீர, தேசிய மக்கள் சக்தியின் குண்டசாலை தொகுதி அமைப்பாளர் சிசிர குமார செம்புவத்த மற்றும் ஐக்கிய மக்கள் சக்தியின் முஸ்லிம் விவகார செயலாளர் ஒ.கே. நவாஸ் ஆகியோர் எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை ஆதரித்து சற்று முன்னர் கண்டியில் நடைபெற்ற "ரணிலால் இயலும்" வெற்றிப் பேரணியில் இணைந்து கொண்டனர்
+
+◼️
+
+[Data](articles/5f9a32d7.json)
+
+---
 
 ### President apologizes for Henry Petris
 
@@ -2163,75 +2205,5 @@ I am elated. For in the 2018-2020 elections I was on the Election Commission and
 [Data](articles/f24d4e7a.json)
 
 [Extended Data](ext_articles/f24d4e7a.ext.json)
-
----
-
-### Turning Manifesto Pledges To Tangible Realities
-
-*2024-09-14 20:00:16* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/turning-manifesto-pledges-to-tangible-realities/) · `en`
-
-Sri Lanka’s Presidential election campaign is in full swing with the nation preparing to elect its ninth Executive President. The airwaves are dominated by spirited debates on television, where representatives from the key political parties dissect policies and exchange sharp criticisms. Meanwhile, YouTube has become a battleground of its own, flooded with videos ranging from well-researched content to speculative and often misleading claims about the candidates and their platforms. Newspapers, too, are teeming with coverage, from vivid reports of massive party rallies to an abundance of opinion pieces, where journalists and citizens alike weigh in with varying takes on the political landscape and the diverse factions vying for power. The atmosphere is charged with anticipation and uncertainty as the nation braces for this pivotal moment in its political history.
-
-...
-
-[Data](articles/06e680aa.json)
-
-[Extended Data](ext_articles/06e680aa.ext.json)
-
----
-
-### No duty relief in imports of vehicles - Bandula
-
-*2024-09-14 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201027) · `si`
-
-Sri Lanka Cabinet spokesperson Bandula Gunawardena announces no duty relief for vehicle imports starting February 1, 2025. Imports subject to IMF conditions, excluding public transport vehicles. Decision aims to balance economic needs and international obligations.
-
-🟩
-
-Cabinet Spokesperson Minister Bandula Gunawardena says that the vehicles have been imported from next year but cannot import vehicles without tariffs.
-
-The decision was taken in accordance with the International Monetary Fund.
-
-The Cabinet has decided to import vehicles for several stages from 1st this year.
-
-Accordingly, the first is the vehicles used for public transport.
-
-Commerce and cargo equipment is imported from December 1st this year and Cabinet Spokesperson Bandula Gunawardena said:
-
-"All types of vehicles permission to import permission from 1 second month.  ඒ අනුව  2025 පෙබරවාරි 01 සිට කාර්, වෑන්, ස්පෝට් යුටිලිටි වාහන පිකප් යන ආදීය වාහන ආනයනය කිරීම සඳහා අවසර ලබාදුන්නා."
-
-"When removing the implementation of the implementation, the Licensee can import vehicles on their license."
-
-Q. The Government of Sri Lanka has promised that the importation of the vehicle imports will not be given a permit to the IMF. Do you fulfill this promise and fulfillment?Or discuss with the IMF?
-
-...
-
-[Data](articles/37c4f4f0.json)
-
-[Extended Data](ext_articles/37c4f4f0.ext.json)
-
----
-
-### Approval will be amended to amend the Penal Code
-
-*2024-09-14 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201026) · `si`
-
-Cabinet approves amendment to Penal Code. Attorney General clears bill. Justice Minister promotes publication in Parliament. Physical stages banned.
-
-🟩
-
-Cabinet approval has been given to amend the penal code.
-
-The approval of the Cabinet Meeting has been approved by the 29th to be amended and suitable for banning of physical stages.
-
-Accordingly, the Attorney General's clearance has also been received for the Bill, which has been prepared by the Legal Draftsman.
-
-The protoult Minister of Justice and Constitutional reform promotions have been approved by the Cabinet of Justice and Constitution to publish the Bill to Parliament.
-
-◼️
-
-[Data](articles/180241ab.json)
-
-[Extended Data](ext_articles/180241ab.ext.json)
 
 ---

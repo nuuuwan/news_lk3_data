@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 12:37:50**
+As of **2024-09-15 12:55:25**
 
 ## Newspaper Stats
 
-*Scraped **43,972** Articles*
+*Scraped **43,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,062
 dailymirrorlk | 4,733
 adaderanalk | 5,178
-tamilmirrorlk | 5,715
+tamilmirrorlk | 5,716
 virakesarilk | 6,969
 adaderanasinhalalk | 7,526
 
@@ -26,29 +26,57 @@ adaderanasinhalalk | 7,526
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,969 (100.0%) of 43,972 articles have been extended.
+43,973 (100.0%) of 43,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
 
-### நைஜீரியாவில் படகு கவிழ்ந்து  விவசாயிகள் 64 பேர் பரிதாப பலி
+### Disorder
+
+*2024-09-15 12:32:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்புக்கு-சென்ற-உலங்குவானூர்தியில்-கோளாறு/175-343775) · `ta`
+
+President Ranil Wickremesinghe's helicopter visit to Eppawala was delayed due to mechanical issues. The Ulangaurdi helicopter arrived but had problems. After repairs, it left about an hour later. The incident involved a Sri Lanka Air Force-owned Bell 412 aircraft experiencing technical difficulties.
+
+🟩
+
+Independent presidential candidate President Ranil Wickremesinghe landed on the Eppawala belt due to the mechanical failure of the Ulangaurdi who came to protect the helicopter.
+
+About an hour later, a helicopter was repaired and departed, a Presidential Security Unit official said.
+
+The Sri Lanka Air Force -owned Bell 412 aircraft has been a technical disorder.
+
+◼️
+
+[Data](articles/39b0d6a5.json)
+
+[Extended Data](ext_articles/39b0d6a5.ext.json)
+
+---
+
+### 64 farmers killed in boat crashes in Nigeria
 
 *2024-09-15 12:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நைஜீரியாவில்-படகு-கவிழ்ந்து-விவசாயிகள்-64-பேர்-பரிதாப-பலி/50-343774) · `ta`
 
-நைஜீரியா நாட்டில் 70க்கும் மேற்பட்ட விவசாயிகளை ஏற்றி சென்ற மரப்படகு ஆற்றில் கவிழ்ந்து விபத்துக்குள்ளானதில், 64 பேர் பரிதாபமாக உயிரிழந்தனர்.
+Nigeria: 64 farmers killed in river boat crash. 70 aboard; 6 rescued. Daily crossing due to limited boats causes congestion. Tragic loss for local agriculture.
 
-வடமேற்கு நைஜீரியாவில் ஜம்பாரா மாநில விவசாயிகள் தங்களுடைய விவசாய பணிகளுக்காக தினந்தோறும் ஆற்றினை கடந்து செல்ல வேண்டும். அந்த வகையில் 70 பேர் படகில் சென்ற போது விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-இதில் விவசாயிகள் 64 பேர் நீரில் மூழ்கி பரிதாபமாக உயிரிழந்தனர். 6 பேர் பத்திரமாக மீட்கப்பட்டனர். இந்த விபத்து அந்த நாட்டில் பெரும் சோகத்தை ஏற்படுத்தியுள்ளது.
+In Nigeria, more than 70 farmers were killed in a river carrying more than 70 farmers, and 64 people were killed.
 
-இதுகுறித்து மீட்புப் படை அதிகாரியொருவர் கூறுகையில், “70 விவசாயிகளை ஏற்றிச் சென்ற மரப் படகு ஒன்று, கும்மி நகருக்கு அருகில் உள்ள அவர்களது விவசாய நிலங்களுக்குச் செல்லும் போது விபத்தில் சிக்கியது. மீட்பு பணிகளுக்கு உள்ளூர் மக்கள் உதவினர்.
+Farmers of Jambara State in Northwest Nigeria must cross the river daily for their agricultural work. The accident occurred when 70 people boarded the boat.
 
-3 மணி நேரமாக போராடி 6 பேரை தான் மீட்க முடிந்தது. 900க்கும் மேற்பட்ட விவசாயிகள் தங்கள் விவசாய நிலங்களை அணுகுவதற்கு தினமும் ஆற்றைக் கடந்து தான் ஆக வேண்டும். இரண்டு படகுகள் மட்டுமே இருக்கின்றன. இது பெரும்பாலும் கூட்ட நெரிசலுக்கு வழிவகுக்கிறது” என்று கூறினார்.S
+Of these, 64 farmers were drowned and tragically killed. 6 people were safely rescued. The accident has caused great tragedy in the country.
+
+A rescue officer said, “A wooden boat carrying 70 farmers crashed into their agricultural lands near Gummi Nagar.. Local people helped the rescue operations.
+
+3 hours of struggling with 6 people to rescue. More than 900 farmers have to cross the river every day to approach their agricultural lands. There are only two boats. This often leads to congestion. ”
 
 ◼️
 
 [Data](articles/0cc6e496.json)
+
+[Extended Data](ext_articles/0cc6e496.ext.json)
 
 ---
 
@@ -66,25 +94,33 @@ Dissanayake criticized his political opponents, accusing them of resorting to co
 
 [Data](articles/26f1d10a.json)
 
+[Extended Data](ext_articles/26f1d10a.ext.json)
+
 ---
 
-### කෝටි දෙකක දුම්වැටි තොගයක් කටුනායකදී අල්ලයි
+### Two million cigarettes seized from Katunayake
 
 *2024-09-15 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201043) · `si`
 
-රුපියල් කෝටි දෙකක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් සහ විද්‍යුත් දුම්වැටි නැවත පිරවීම සඳහා භාවිත කරන රසායනික ද්‍රව්‍ය තොගයක් කටුනායක ගුවන්තොටුපොළේදී රේගු භාරයට ගෙන තිබේ.
+Customs seize 2 million cigarettes at Katunayake airport. Suspect arrested, bringing contraband from Dubai flight.
 
-එම ද්‍රව්‍ය මෙරටට රැගෙන ආ ගුවන් මගියෙකුද කටුනායක ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ දී රේගු නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
+🟩
 
-සැකකරු කොළඹ - 13 ප්‍රදේශයේ පදිංචි අයෙක් බව පොලීසිය සඳහන් කළේය.
+Customs seized from the Katunayake airport for two crolls of foreign products and electronic cigarettes worth Rs.
 
-අදාළ පුද්ගලයා ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරණ ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.
+Customs personnel have been arrested by the Customs Officers in the Katunayake Airport's at the Arrival airport.
 
-ඔහු විසින් රැගෙන ආ ගුවන් මලු තුළ දුම්වැටි 120,400ක් අඩංගු දුම්වැටි කාටූන් 602ක් සඟවා ගෙන පැමිණ සිටියදී, කටුනායක ගුවන්තොටුපොළ රේගු නිලධාරීන් විසින් මෙලෙස සොයා ගෙන තිබේ.
+The suspect is a resident of Colombo 13, police said.
+
+The man from Dubai to SriLankan Airlines UL, the airplane was reached at the Katunayake Airport on the 226.
+
+Katunayake Airport Customs customs have recovered 602 cigarettes cigarettes in the aircraft he brought.
 
 ◼️
 
 [Data](articles/76db9f31.json)
+
+[Extended Data](ext_articles/76db9f31.ext.json)
 
 ---
 
@@ -2213,27 +2249,5 @@ The tournament is organized for the skills of the South Asian Junior (Under 20 y
 [Data](articles/ebff5538.json)
 
 [Extended Data](ext_articles/ebff5538.ext.json)
-
----
-
-### Sajith criticizes govt’s delayed public relief efforts
-
-*2024-09-14 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101972/sajith-criticizes-govts-delayed-public-relief-efforts) · `en`
-
-The Samagi Jana Balawegaya (SJB) presidential candidate Sajith Premadasa emphasized that the public would have reaped greater benefits had the government’s recently announced relief measures been introduced earlier this year.
-
-Addressing a public rally held in Matara, Premadasa stated, “All possible burdens have already been placed on the people. Now, in a rush for the upcoming election, the president is making announcements about reducing taxes, increasing salaries, and offering concessions.”
-
-“These concessions should have been implemented at the start of the year, not at this late stage,” he declared.
-
-He also dismissed claims made by Anura Kumara Dissanayake, the National People’s Power (NPP) presidential candidate, that his party was planning to incite violence.
-
-“I heard Mr. Anura Kumara accuse us of plotting violent acts. We have never engaged in violence. The people of this country will not fall for the traps he’s setting,” Premadasa asserted.
-
-...
-
-[Data](articles/3bbd6610.json)
-
-[Extended Data](ext_articles/3bbd6610.ext.json)
 
 ---

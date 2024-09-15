@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 22:22:54**
+As of **2024-09-15 22:37:48**
 
 ## Newspaper Stats
 
-*Scraped **44,054** Articles*
+*Scraped **44,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,065
 dailymirrorlk | 4,733
-adaderanalk | 5,186
+adaderanalk | 5,187
 tamilmirrorlk | 5,733
 virakesarilk | 7,008
-adaderanasinhalalk | 7,540
+adaderanasinhalalk | 7,541
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,054 (100.0%) of 44,054 articles have been extended.
+44,054 (100.0%) of 44,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### බලය බෙදන හැටි සජිත් යාපනයේදී කියයි
+
+*2024-09-15 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201059) · `si`
+
+එක රටක් තුළ උපරිම බලය බෙදීම සිය ප්‍රතිපත්තිය බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+ඔහු මේ බව ප්‍රකාශ කළේ අද (15) යාපනයේ මනිපායි ප්‍රදේශයේ පැවති ජනරැලියකදීය.
+
+"එක රටක් තුළ උපරිම බලය බෙදීම, කෙටි කාලයක් තුළදී පළාත් සභා මැතිවරණය පැවැත්වීම. පළාත් සභා සතු බලය මධ්‍යම අණ්ඩුවට ලබා නොගැනීම සහ උතුරු නැගෙනහිර ජනතාව වෙනුවෙන් ජාත්‍යන්තර ආධාරක සමුළුවක් පැවැත්වීම. මෙන්ම මේ ප්‍රතිපත්ති පදනම් කරගෙන අනිවාර්යයෙන්ම උතුරු පළාත නැගෙනහිර පළාත කේන්ද්‍රීයකරගෙන යුද්ධය නිසා විශාල හානීයක් සිදු වුණු ඔබගේ ජන ජීවිත ශක්තිමත් කරන්නට අපි අනිවාර්යයෙන් කැප වෙනවා කියන එක මේ අවස්තාවේ ප්‍රකාශ කරනවා...."
+
+මේ අතර සජිත් ප්‍රෙමදාස මහතාගේ ජය තහවුරු කෙරෙන තවත් ජන රැලියක් කිලිනොච්චිය ප්‍රදේශයේදී අද පස්වරුවේ පැවැත්විය.
+
+"මම පටන් ගත්තු හැම නිවාස ව්‍යාපෘතියක් ම ගෝඨාභය රාජපක්ෂ නතර කළා. රනිල් වික්‍රමසිංහට ඒවා කරන්න වූවමනාවක් තිබුණේ නෑ. 21 අපි දිනුවාහම, අසම්පූර්ණ නිවාස ව්‍යාපෘති යළි පණගන්වනවා. එවා නැවත වරක් ජනතාව අතට පත් කරනවා..."
+
+◼️
+
+[Data](articles/6ac2976b.json)
+
+---
 
 ### Give me 5 years to this revolution - Ranil
 
@@ -57,6 +77,22 @@ My main objective Lighten the next five years of living. By the end of 2025, you
 [Data](articles/2f8258bc.json)
 
 [Extended Data](ext_articles/2f8258bc.ext.json)
+
+---
+
+### One person injured in shooting in Badowita
+
+*2024-09-15 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102003/one-person-injured-in-shooting-in-badowita) · `en`
+
+A person has been injured and admitted to hospital after he was shot at in the Badowita area in Mount Lavinia.
+
+Police said that the shooting was carried out by two unidentified men who had arrived on a motorcycle this evening (15).
+
+The injured individual is receiving treatment at Kalubowila Teaching Hospital, according to police.
+
+◼️
+
+[Data](articles/e443f4c0.json)
 
 ---
 
@@ -2225,55 +2261,5 @@ Speaking to ANI, Murugan, one of the protestors, urged the central and state gov
 [Data](articles/04ad5e28.json)
 
 [Extended Data](ext_articles/04ad5e28.ext.json)
-
----
-
-### Year 05 Scholarship Examination today
-
-*2024-09-15 10:07:29* · [`adalk`](https://www.ada.lk/breaking_news/05-වසර-ශිෂ්‍යත්ව-විභාගය-අද/11-411947) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Year 05 Scholarship Exam: 2,849 centers nationwide. 323,879 eligible candidates. Today's event."
-
-🟩
-
-This year's examination will be held in 2,849 centers across the country and 323,879 candidates have been eligible for this purpose.
-
-◼️
-
-[Data](articles/2bb4dcd0.json)
-
-[Extended Data](ext_articles/2bb4dcd0.ext.json)
-
----
-
-### Is Bin Laden's son alive?
-
-*2024-09-15 09:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உயிருடன்-உள்ளாரா-பின்லேடன்-மகன்/50-343768) · `ta`
-
-Hamza bin Laden's status unclear: reports claim alive, planning attacks; US denies proof of death; allegedly hiding in Afghanistan; Taliban reportedly supporting him.
-
-🟩
-
-It is reported that Hamza bin Laden, the son of the late Osama bin Laden, the terrorist leader of the al -Qaeda Organization, is alive and that he is planning to carry out terrorist attacks on Western countries.
-
-Osama bin Laden, the leader of the al -Qaeda terrorist organization, who threatened and threatened the world in 2001.
-
-Following this, US soldiers ruled out the organization in 2011 and killed Osama bin Laden in Pakistan.
-
-Similarly, Hamza bin Laden, son of Osama bin Laden, died in the 2019 US Air Force's attack, then President Donald Trump said.. However, the US government has not released any evidence of the death of Hamza bin Laden.
-
-It has been reported that Hamza bin Laden is hiding in Tara Abdullah Gale district of Panchir province in Afghanistan.
-
-The 'Mirror' newspaper, headquartered in the European country of Britain, has published an article that the al -Qaeda terrorist organization is functioning alive.
-
-...
-
-[Data](articles/4931a3e6.json)
-
-[Extended Data](ext_articles/4931a3e6.ext.json)
 
 ---

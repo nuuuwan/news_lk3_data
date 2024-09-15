@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 23:07:38**
+As of **2024-09-15 23:22:33**
 
 ## Newspaper Stats
 
@@ -26,43 +26,57 @@ adaderanasinhalalk | 7,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,056 (100.0%) of 44,058 articles have been extended.
+44,058 (100.0%) of 44,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
 
-### පාර්ලිමේන්තුවේ 150කට වැඩි පිරිසක් ගෙදර යවනවා - අනුර
+### More than 150 people in Parliament sending home - Anura
 
 *2024-09-15 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201061) · `si`
 
-සිය ජයග්‍රහණයෙන් පසු මාස එකහමාරක් ඇතුළත පාර්ලිමේන්තු මැතිවරණය පවත්වන බවත් එහිදී වත්මන් පාර්ලිමේන්තුවේ සිටින මන්ත්‍රීවරුන්ගේ 150කට වැඩි පිරිසකට ඉවත්වීමට සිදුවන බවත් ජාතික ජන බලවේගයේ ජනාධිපතිධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Sri Lanka: Over 150 MPs may lose seats soon. Anura Kumara Dissanayake claims drug elimination in Sri Lanka under his party's control. He criticizes current politicians and promises better education and job opportunities.
 
-ඔහු මේ බව පැවසුවේ ඊයේ (14) පස්වරුවේ පන්නල නගරයේ පැවති ජනරැලියක් අමතමිනි.
+🟩
 
-"රනිල් වික්‍රමසිංහ මොන තරම් අවලාද කිව්වත්. සජිත් ප්‍රේමදාස මොන තරම් අසත්‍ය කතා කිව්වත්. තවදුරටත් මේ ව්‍යාපාරයේ ගමන පරාද කරන්න බෑ. දැනගන්න රනිල් සජිත් ඔයාලා පරක්කු වැඩියි. Too late 'දැන් පරක්කුයි. අපි ඉක්මනින්ම පාර්ලිමේන්තුව විසුරුවා හරිනවා. මේ පාර්ලිමේන්තුවේ කුණුහරුප වලින් කෑ ගහනවා. මිනි මරලා හිරේ ගියපු, කප්පම් අරගෙන හිරේ ගියපු ත්‍රාඩයන්ගේ තෝතැන්නක් වෙලා තියෙන්නේ. ඕනේද මේ වගේ පාර්ලිමේන්තු.  මාස එකහමාරක් ඇතුළත මහ ඡන්දේ තියනවා. මේ ඉන්න පාර්ලිමේන්තුවේ 150කට වැඩි පිරිසක් ගෙදර යවනවා. අනිත් හැම එකක්ම සජිත් කොපි කරනවා. මේ ටික කොපි කරන්නේ නෑ."
+Anura Kumara Dissanayake says that more than 150 MPs in the present Parliament will have to leave the parliamentary election within a month and a half after their victory.
 
-මේ අතර, ඉදිරි ජනාධිපතිවරණය ඉලක්ක කර ජාතික ජන බලවේගය පවත්වන ජනරැලි මාලාවේ තවත් ජනරැලියක් තලවකැලේ ප්‍රදේශයේ පැවැත්වුණි.
+He was speaking at a famil in Pannala yesterday (14).
+
+"Even though Ranil Wickremesinghe is. Although Sajith Premadasa is the case. No longer can defeat the journey of this business. Ranil Sajith is too late. TOO LATE 'Now too late. We quickly dissolve Parliament. This parliament screams from the garbage. Mini has been killed and extorted in jail and have been a haven of three three places in jail. You want this kind of parliamentary.  මාස එකහමාරක් ඇතුළත මහ ඡන්දේ තියනවා. More than 150 people in Parliament sending home. Sajith cheats all the other. This doesn't cheat. "
+
+Meanwhile, another popularity in the National Federational Council has been established in Talawakele.
+
+Commander of the meeting, Anura Kumara Dissanayake said that drugs will be completely eliminated in Sri Lanka under their control.
 
 ...
 
 [Data](articles/e5037a5e.json)
 
+[Extended Data](ext_articles/e5037a5e.ext.json)
+
 ---
 
-### අපිට නිසි සැලැස්මක් හා වැඩපිළිවෙළක් තියෙනවා - නාමල්
+### We have a proper plan and program - Namal
 
 *2024-09-15 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201060) · `si`
 
-තමා ජනපතිවරණ සටනට ඉදිරිපත්ව සිටින්නේ සැලැස්මක් අතැතිව බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa, presidential candidate, emphasizes having a clear plan and vision for the election. He states they are contesting to win, not just participate, and aim to improve the country through their program.
 
-ඔහු මේ බව ප්‍රකාශ කළේ අද (15) දහවල් මහියංගනය නගරයේ පැවති ජන රැලියකදීය.
+🟩
 
-"මම ඔබට ස්තූතිවන්ත වෙනවා. ඔබ වෙනුවෙන් පෙනී සිටින ඔබේ නායකයා එක්ක මාතෘ භූමියේ ජය තහවුරු කරන්න මේ ලබාදෙන සහයෝගයට. අපට දැක්මක් හා සැලැස්මක් තියෙනවා. අපි හුදෙක් මැතිවරණ වලට බලය ලබා ගැනීමට හෝ ඉදිරිපත් වෙනවාට ඉදිරිපත් වන්නේ නැහැ. අපි මැතිවරණයට ඉදිරිපත් වන්නේ දිනන්න. දිනලා රට හදන්න. අපිට නිසි සැලැස්මක් හා වැඩපිළිවෙළක් තියෙනවා"
+Presidential candidate named Namal Rajapaksa says that the Presidential election has been contesting a plan.
+
+He was speaking at a rallies in Mahiyanganaya today (15).
+
+"I am thankful to you. To support your leader with your leader who stands for you. We have a vision and plan. We are simply not presenting the elections to get or offer. We're contesting to the elections win. Make the country by winning. We have a proper plan and program "
 
 ◼️
 
 [Data](articles/c29b350a.json)
+
+[Extended Data](ext_articles/c29b350a.ext.json)
 
 ---
 

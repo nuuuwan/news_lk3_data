@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 09:11:12**
+As of **2024-09-15 09:22:24**
 
 ## Newspaper Stats
 
-*Scraped **43,940** Articles*
+*Scraped **43,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 376
 bbccomsinhala | 426
 colombotelegraphcom | 435
-islandlk | 2,584
+islandlk | 2,587
 economynextcom | 2,679
 dailyftlk | 2,920
 adalk | 4,060
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,521
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,937 (100.0%) of 43,940 articles have been extended.
+43,942 (100.0%) of 43,943 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -308,6 +308,42 @@ NASA recently confirmed that the return of astronauts for security reasons will 
 
 ---
 
+### MediaDefined Pvt Ltd wins top awards at Commonwealth Business Excellence
+
+*2024-09-15 02:05:00* · [`islandlk`](http://island.lk/mediadefined-pvt-ltd-wins-top-awards-at-commonwealth-business-excellence/) · `en`
+
+MediaDefined Pvt Ltd, an ICT solutions company in Sri Lanka, won the “Best International Collaboration Company/Project of the Year 2024” for Learning and Development at the Commonwealth Business Excellence Awards for the second consecutive year. The ceremony was held at Emperors Palace in Johannesburg. Director L. A. D. E. Vipul Perera also received the ‘Best CEO/Director of the Year 2024’ award in technology for Learning and Development, marking his second consecutive win. Founded in 2007, MediaDefined Pvt Ltd is a subsidiary of MediaDefined Inc, Dallas.
+
+It was founded by Himansu Karunadasa, Vipul Perera, Prof. J. T. F. De Silva (Former General Manager), and three accomplished software engineers.
+
+Fostering inclusive growth: HNB and Sunera Foundation’s landmark partnership for differently-abled youth
+
+The Potential Impact of a Clean, Development-Focused Government on Sri Lanka’s Stock Market
+
+...
+
+[Data](articles/b077b8a0.json)
+
+[Extended Data](ext_articles/b077b8a0.ext.json)
+
+---
+
+### CurveUp expands globally, signs key MoU at Collision Conference 2024
+
+*2024-09-15 02:04:00* · [`islandlk`](http://island.lk/curveup-expands-globally-signs-key-mou-at-collision-conference-2024/) · `en`
+
+CurveUp is expanding its global presence by introducing its innovative educational technologies and methodologies to new international markets, building on its success in South Asia and the Gulf regions. Its sister company, BootUp, is also advancing this mission with the launch of a mobile app that enhances digital, AI, and cybersecurity skills, further supporting CurveUp’s global growth.
+
+During a recent visit to Canada, CurveUp made significant strides by participating in the Collision Conference 2024 in Toronto, a major tech event where the company showcased its solutions and networked with industry leaders. A key achievement from the conference was the signing of a Memorandum of Understanding (MoU) with EduvolutionX, under the supervision of Harman Idema, the Consul General at the Netherlands Consulate General. This agreement marks a pivotal step in developing a cutting-edge STEM curriculum, aiming to enhance global educational innovation.
+
+...
+
+[Data](articles/0f29a267.json)
+
+[Extended Data](ext_articles/0f29a267.ext.json)
+
+---
+
 ### Dialog Crowns Top Digital Innovators at Grand Finale of Innovation Challenge
 
 *2024-09-15 02:02:00* · [`islandlk`](http://island.lk/dialog-crowns-top-digital-innovators-at-grand-finale-of-innovation-challenge/) · `en`
@@ -382,6 +418,8 @@ Extending banking facilities to satisfy growing customer demand, HNB PLC, recent
 
 [Data](articles/eacfd961.json)
 
+[Extended Data](ext_articles/eacfd961.ext.json)
+
 ---
 
 ### Fostering inclusive growth: HNB and Sunera Foundation’s landmark partnership for differently-abled youth
@@ -395,6 +433,24 @@ The MOU was signed at HNB Towers, attended by HNB Acting Chief Executive Officer
 ...
 
 [Data](articles/eb39182c.json)
+
+[Extended Data](ext_articles/eb39182c.ext.json)
+
+---
+
+### Opinions across the Board on SL Presidential Elections
+
+*2024-09-15 01:40:00* · [`islandlk`](http://island.lk/opinions-across-the-board-on-sl-presidential-elections/) · `en`
+
+We are warned by those who are in the political arena and others outside that this presidential election on September 21 is vitally important; it can further break our wonderful country, now sunk in bankruptcy, or usher in much needed change and hope.
+
+To me the most important consideration is the team the winner of the presidential election will harness to govern the country. It is just one of the 39 contesting who will win but many would have earmarked likely cabinet ministers and other top notchers who will carry out their policies as promised in manifestos – or some at least. The general election to follow will choose winners. So we need to consider those in the vanguard of the three main contestants: Ranil, Anura Kumara and Sajith. It is best if the winning president has the most winning the general election in his party, but it could very well be otherwise.
+
+...
+
+[Data](articles/fd1ce6cd.json)
+
+[Extended Data](ext_articles/fd1ce6cd.ext.json)
 
 ---
 
@@ -2207,79 +2263,5 @@ Ranil Wickremesinghe's victory will be favorable to the country and the Tamil pe
 [Data](articles/1aa5a5ba.json)
 
 [Extended Data](ext_articles/1aa5a5ba.ext.json)
-
----
-
-### ‘Sri Lanka in a much better place to keep corruptors away’ - outgoing ICC anti-corruption chief
-
-*2024-09-14 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101963/sri-lanka-in-a-much-better-place-to-keep-corruptors-away-outgoing-icc-anti-corruption-chief) · `en`
-
-The departing head of the ICC Anti Corruption Unit (ACU), Alex Marshall, believes that elite cricket is largely free from corruption, but he cautions that those seeking to manipulate the sport are targeting entry through local T20 leagues that are not under the jurisdiction of the global governing body and are instead managed by the respective boards of member nations.
-
-Marshall, a former British police officer, did not specify which local leagues or member nations he was alluding to.
-
-“I am confident that the cricket you watch is safe and clean,” Marshall told ESPN Cricinfo as per PTI.
-
-“But I am also absolutely sure that corruptors are constantly looking for a route into the game, particularly in badly-run lower-level franchise leagues. The threat to the game is corruptors won’t go away while there is always money to be made and they will look for weakness in the system to get in.” he added.
-
-...
-
-[Data](articles/76370bc4.json)
-
-[Extended Data](ext_articles/76370bc4.ext.json)
-
----
-
-### Eelam Tamil lands are painted
-
-*2024-09-14 11:33:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/ஈழத்தமிழர்-நிலங்கள்-வலிந்து-பறிக்கப்படுகின்றன/72-343739) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Eelam Tamil lands face challenges. Southern presidential candidates emphasize Sinhala-Buddhist nationalism. Existing democratic system favors majority rule. Candidates reject Tamil rights and Joint Political Accord. Military presence increases in Tamil areas. Eelam Tamils' existence threatened. Hope lies in Tamil people's choices strengthening political unity.
-
-🟩
-
-On behalf of the Priests of the North and Eastern Provinces, Arutpani Christopher Jayakumar has said that the candidates who contest the presidential election from the South are decorating the campaign platforms to insist on the management of the Sinhala and Buddhist nationalism.
-
-They issued a media statement yesterday (13). In the statement further,
-
-The country is preparing for a presidential election again.
-
-There is no need to underline how confident this is. The fact that this presidential election is being conducted from the frame within the monopoly political system cannot be told.
-
-The fact that the existing democratic system is determined by numbers is subject to common sense.
-
-The president's democratic election, centered on the number of votes, is defined as the influence of the votes of the Eelam Tamil people and other minority ethnic groups.
-
-...
-
-[Data](articles/ab4917de.json)
-
-[Extended Data](ext_articles/ab4917de.ext.json)
-
----
-
-### International Club of DC Celebrates High Tourism and Investment Promotion
-
-*2024-09-14 11:17:50* · [`adalk`](https://www.ada.lk/breaking_news/International-club-of-DC-උත්සවයෙන්-ලංකාවට-ඉහළ-සංචාරක-හා-ආයෝජන-ප්‍රවර්ධනයක්/11-411942) · `si`
-
-Sri Lanka promotes tourism & investment in Washington. Ambassador Mahinda Samarasinghe highlights Sri Lanka's rich history (2500+ years) compared to USA (246 years). Invites Americans to experience Sri Lanka's heritage and workforce.
-
-🟩
-
-Sri Lanka has been promoted to a large seasonal tourism and investment in Washington's Ambassador to Washington's Ambassador to Washington's Ambassador to Washington's Ambassador.
-
-Ambassador of Ambassador Mahinda Samarasinghe was invited to visit Sri Lanka and to enjoy the good workforce of Sri Lanka and healthy labor and healthy labor.
-
-"Send this message with other American relatives and friends. The US has a 246 year history, but Sri Lanka has a 2500 year old. Portuguese conquered 450 years to the Portuguese and British in our country.. The ruins of the proud history "Ambassador Mahinda Samarasinghe invited him.
-
-◼️
-
-[Data](articles/085ca8a6.json)
-
-[Extended Data](ext_articles/085ca8a6.ext.json)
 
 ---

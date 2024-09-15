@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 10:56:47**
+As of **2024-09-15 11:08:56**
 
 ## Newspaper Stats
 
-*Scraped **43,959** Articles*
+*Scraped **43,961** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 376
 bbccomsinhala | 426
-colombotelegraphcom | 435
+colombotelegraphcom | 436
 islandlk | 2,588
 economynextcom | 2,679
 dailyftlk | 2,920
@@ -20,17 +20,31 @@ dailymirrorlk | 4,733
 adaderanalk | 5,173
 tamilmirrorlk | 5,714
 virakesarilk | 6,969
-adaderanasinhalalk | 7,522
+adaderanasinhalalk | 7,523
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,959 (100.0%) of 43,959 articles have been extended.
+43,959 (100.0%) of 43,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### සජිත්ගෙන් පොරොන්දුවක්
+
+*2024-09-15 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201040) · `si`
+
+මෙරට නිදහස් සෞඛයේ ස්වර්ණමය යුගය 21 වනදායින් පසු බිහිකරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+කොළඹ ඊයේ (14) පැවති සෞඛ්‍ය සමුළුවක් අමතමින් ඔහු මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/1d040c34.json)
+
+---
 
 ### Ranil will lighten next year - Ranil
 
@@ -561,6 +575,20 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/b14c69c4.json)
 
 [Extended Data](ext_articles/b14c69c4.ext.json)
+
+---
+
+### Is Ranil Committing Harakiri?
+
+*2024-09-15 05:14:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-ranil-committing-harakiri/) · `en`
+
+In leadership, knowing when to step down can be as crucial as knowing when to step up. This principle holds true across various fields, be it politics, the military, or sports. Leaders who exit at their peak often leave behind legacies of dignity and respect.
+
+However, many choose to stay, risking the tarnishing of their once-glorified images. Sri Lanka’s political landscape provides ample examples of this phenomenon, with Ranil Wickremesinghe being the latest figure in the spotlight, in the event he doesn’t succeed in his Presidential aspirations.
+
+...
+
+[Data](articles/d4dfada5.json)
 
 ---
 
@@ -2231,51 +2259,5 @@ We have decided to rename the Port Blair name as Sri Vijayapuram, inspired by Mo
 [Data](articles/a611fa33.json)
 
 [Extended Data](ext_articles/a611fa33.ext.json)
-
----
-
-### Everyone gets relief - Ranil
-
-*2024-09-14 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201013) · `si`
-
-Ranil Wickremesinghe: Economy relief measures implemented. Vehicle imports allowed, income tax reduced. Dollar value stabilizes. Opposition criticizes policies.
-
-🟩
-
-Independent presidential candidate Ranil Wickremesinghe says that the people have been given relief to provide relief to the economy.
-
-Ranil Wickremesinghe made this observation addressing the Sri Lankan famus of Sri Lanka.
-
-Another rally was held at Beruwala yesterday afternoon to ease the 'Sri Lanka' concept of independent presidential candidate Ranil Wickremesinghe.
-
-"Vehicle import lifted ban. Decreases income taxes. Everyone gets some relief. When we developed this way, it is ready to sabotage them. The dollar needs 400 rupees per dollar if Implementing Anura's policy.  අනෙක් පැත්තෙන් ඉන්නවා සජිත්. Seeing everything is free. "
-
-◼️
-
-[Data](articles/c252385f.json)
-
-[Extended Data](ext_articles/c252385f.ext.json)
-
----
-
-### O/L results within two weeks
-
-*2024-09-14 13:09:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-வாரங்களுக்குள்-O-L-பெறுபேறுகள்/175-343742) · `ta`
-
-GCE Ordinary Level exam rescheduled within two weeks, Education Minister announces. Exams, timetables, and schedules to resume in 2025.
-
-🟩
-
-Education Minister Susil Premajayantha has said that the GCE Ordinary Level examination will be imposed within two weeks.
-
-The Minister, who attended a press conference held this morning (14), said,
-
-He said exams, timetables and examination tables could be implemented without delay in 2025. Remble
-
-◼️
-
-[Data](articles/01c7d216.json)
-
-[Extended Data](ext_articles/01c7d216.ext.json)
 
 ---

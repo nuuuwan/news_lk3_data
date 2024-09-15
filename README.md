@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 08:57:47**
+As of **2024-09-15 09:11:12**
 
 ## Newspaper Stats
 
-*Scraped **43,939** Articles*
+*Scraped **43,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 435
 islandlk | 2,584
 economynextcom | 2,679
 dailyftlk | 2,920
-adalk | 4,059
+adalk | 4,060
 dailymirrorlk | 4,733
 adaderanalk | 5,170
 tamilmirrorlk | 5,707
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,521
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,932 (100.0%) of 43,939 articles have been extended.
+43,937 (100.0%) of 43,940 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,21 +52,29 @@ Mental health expert and Consultant Psychiatrist Dr. Rumi Ruben stated that more
 
 [Data](articles/68e9b7b0.json)
 
+[Extended Data](ext_articles/68e9b7b0.ext.json)
+
 ---
 
-### හොර තක්කඩි දේශපාලනය කතිරයෙන් අවසන් කරන්න - දිලිත්
+### Finish the politics of Kirindi - Dilith
 
 *2024-09-15 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201038) · `si`
 
-තමන් ඉදිරිපත් කර ඇත්තේ පොරොන්දු පත්‍රිකාවක් නොව මහපොළොවේ යථාර්ථයක් කළ හැකි උපායමාර්ගික වැඩපිළිවෙළක් බව සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera, presidential candidate, emphasizes strategic earthquake relief over empty promises. He calls for unity and love in Sri Lankan politics, urging citizens to overcome anger and work towards positive change.
 
-අකුරැස්ස ප්‍රදේශයේ පැවති ජනරැලියකට එක්වෙමින් ව්‍යවසායක දිලිත් ජයවීර මහතා මේ බව කියා සිටියේය.
+🟩
 
-"මේක පොරොන්දු පත්‍රිකාවක් නෙමෙයි. ශ්‍රී ලාංකික දේශපාලනයේ... මම හිතන්නේ නිදහසින් පසු ශ්‍රී ලංකාවේ මෙවැනි උපායමාර්ගික වැඩපිළිවෙළක් ජනාධිපතිවරණයකදී ඉදිරිපත් වන පළවෙනි අවස්ථාව. ඔබ බලාපොරොත්තු වන ශ්‍රී ලංකාව නිර්මාණය වන ආකාරයයි මේ පොතේ සඳහන් වෙලා තියෙන්නේ. ඒ නිසා අපිට ලැබී ඇති මේ තීරණාත්මක අවස්ථාව පාවිච්චිකරමු ඔබත්, අපිත් සිහිනයෙන් දුටු ඒ දියුණු ශ්‍රී ලංකාව නිර්මාණය කර ගන්නට අපි අර පෙට්ටිය ඇතුළට ගිහිල්ලා හෘද ශාක්ෂියට එකඟව ඔබ ප්‍රාර්ථනාකරපු ශ්‍රී ලංකාව ඔබ විසින් නිවැරදි කළයුතු ශ්‍රී ලාංකික දේශපාලනය... මේ හොර තක්කඩි දේශපාලනයට විරුද්ධව ඔබේ හදවතේ නැගෙන වෛරය, කෝපය කතිරයෙන් අවසන් කරන්න පුළුවන්. ඒ වෙනුවෙන් ඔබට පුළුවන් ආදරයේ සලකුණ වන තරුව ඉදිරියේ කතිරය සලකුණු කරන්න."
+The presidential candidate entrepreneur Dilith Jayaweera says that he has been presented not a promise of paper but a strategic program in the earthquake.
+
+Addressing Entrepreneral Dilith Jayaweera was speaking at a famil in Akuressa.
+
+"This is not a promived. Sri Lankan politics. I think Sri Lanka's strategic program will come in a presidential election after independence. This book contains how Sri Lanka is creating you expect. So we have received this decisive point of time to create the same box, and the Sri Lankan politics you need to correct the Sri Lankan wishes.. You can end the hatred of your heart and anger against the politics of this query. You can mark the fare to the star of love. "
 
 ◼️
 
 [Data](articles/69b988a8.json)
+
+[Extended Data](ext_articles/69b988a8.ext.json)
 
 ---
 
@@ -310,6 +318,8 @@ The Dialog Innovation Challenge (DIC), Sri Lanka’s largest digital innovation 
 
 [Data](articles/1549cc82.json)
 
+[Extended Data](ext_articles/1549cc82.ext.json)
+
 ---
 
 ### HUMAN-ELEPHANT CONFLICT: Who is the real Menace?
@@ -340,6 +350,8 @@ As Sri Lanka navigates through a complex political and economic environment, the
 
 [Data](articles/eaea3139.json)
 
+[Extended Data](ext_articles/eaea3139.ext.json)
+
 ---
 
 ### HIP: the region’s Port of Choice for ship repairs and layups
@@ -353,6 +365,8 @@ Charaka Rupasinghe, Deputy General Manager – Marine Services and Fleet Managem
 ...
 
 [Data](articles/a19d8423.json)
+
+[Extended Data](ext_articles/a19d8423.ext.json)
 
 ---
 
@@ -1273,6 +1287,20 @@ Namal Rajapaksa, president of the Sri Lanka General Front said.
 [Data](articles/16596840.json)
 
 [Extended Data](ext_articles/16596840.ext.json)
+
+---
+
+### බස්නාහිර පළාතේ වාහන ආදායම් බලපත්‍ර නිකුත් කිරීම ගැන ගත් තීරණය මෙන්න
+
+*2024-09-14 16:39:10* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පළාතේ-වාහන-ආදායම්-බලපත්‍ර-නිකුත්-කිරීම-ගැන-ගත්-තීරණය-මෙන්න/11-411945) · `si`
+
+බස්නාහිර පළාත තුළ වාහන ආදායම් බලපත්‍ර නිකුත් කිරීම සඳහා ක්‍රියාත්මක සියලුම බලපත්‍ර කවුළු ලබන 20 වැනිදා වසා තැබෙන බව පළාත් ප්‍රධාන ලේකම් කාර්යාලය පැවසීය.
+
+ලබන 21වැනිදා පැවැත්වෙන 2024 ජනාධිපතිවරණයේ රාජකාරී කටයුතු සඳහා නිලධාරීන් මුදා හැරීමට සිදුවන බැවින් එම පියවර ගෙන ඇත.
+
+◼️
+
+[Data](articles/4948039c.json)
 
 ---
 
@@ -2253,23 +2281,5 @@ Ambassador of Ambassador Mahinda Samarasinghe was invited to visit Sri Lanka and
 [Data](articles/085ca8a6.json)
 
 [Extended Data](ext_articles/085ca8a6.ext.json)
-
----
-
-### Farmers deserve an income that reflects their hard work, innovation, and dedication – Dilith
-
-*2024-09-14 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101962/farmers-deserve-an-income-that-reflects-their-hard-work-innovation-and-dedication-dilith) · `en`
-
-The presidential candidate of the ‘Sarvajana Balaya’ alliance, Dilith Jayaweera states that his national strategic plan includes a comprehensive plan to revamp the agricultural sector and significantly improve the lives and incomes of farmers.
-
-Addressing a public rally held in Kaduruwela, Jayaweera emphasized the urgent need to address the ongoing struggles faced by farmers. He criticized the current system, which he claims benefits only a small segment of the population while leaving farmers to grapple with persistent hardships.
-
-“Nearly 30 percent of our population is directly involved in agriculture, yet they continue to face severe challenges,” Jayaweera stated. “It is unjust that while only a few benefit, the majority of our farmers suffer. Our goal is to transition these farmers to a more lucrative model, enhancing their income while keeping them within the agricultural sector.”
-
-...
-
-[Data](articles/36fc8b39.json)
-
-[Extended Data](ext_articles/36fc8b39.ext.json)
 
 ---

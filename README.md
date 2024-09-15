@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 18:57:04**
+As of **2024-09-15 19:07:45**
 
 ## Newspaper Stats
 
-*Scraped **44,028** Articles*
+*Scraped **44,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,184
 tamilmirrorlk | 5,729
 virakesarilk | 6,994
-adaderanasinhalalk | 7,535
+adaderanasinhalalk | 7,536
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,028 (100.0%) of 44,028 articles have been extended.
+44,028 (100.0%) of 44,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### මැතිවරණ පැමිණිලි තවත් ඉහළ ට
+
+*2024-09-15 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201054) · `si`
+
+ජනාධිපතිවරණයට අදාළව තවත් පැමිණිලි 184ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව සඳහන් කර ඇත්තේ ගතවූ පැය 24 තුළ පැමිණිලි 184ක් වාර්තා වූ බවය.
+
+ඒ අනුව ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධව පැමිණිලි 01ක්, නීති උල්ලංඝනය කිරීම් සම්බන්ධව 181ක් සහ වෙනත් පැමිණිලි 02ක් ලෙසින් එම පැමිණිලි වාර්තා වී තිබේ.
+
+ඒ අනුව ජූලි 31 වැනිදා සිට මේ දක්වා වාර්තා වී ඇති සමස්ත පැමිණිලි සංඛ්‍යාව 4215ක් දක්වා ඉහළ ගොස් ඇත.
+
+ලැබී ඇති සමස්ත පැමිණිලි අතරින් 3641ක් විසඳා ඇති අතර, තවත් පැමිණිලි 574ක් විසදීමට ඇති බවත් එම නිවේදනයේ සඳහන්ව තිබේ.
+
+◼️
+
+[Data](articles/c3e0ad16.json)
+
+---
 
 ### "Problem with dissolving Ranil Parliament"
 
@@ -2263,23 +2283,5 @@ The Dialog Innovation Challenge (DIC), Sri Lanka’s largest digital innovation 
 [Data](articles/1549cc82.json)
 
 [Extended Data](ext_articles/1549cc82.ext.json)
-
----
-
-### HUMAN-ELEPHANT CONFLICT: Who is the real Menace?
-
-*2024-09-15 01:52:00* · [`islandlk`](http://island.lk/human-elephant-conflict-who-is-the-real-menace/) · `en`
-
-As per a media release dated July 29, 2024, in an effort to uplift the ecotourism industry in Sri Lanka, the Ministry of Wildlife, Forest Resources Conservation and Irrigation has proposed several measures, and is preparing legislation to implement them. In addressing Human-Elephant Conflict, their proposition commences,
-
-This is a press statement from the only Ministry that is established for conservation and wildlife, and for the protection of Sri Lanka’s iconic endangered species, the Sri Lankan Elephant. They proclaim an endangered creature whose protection they have responsibility for a ‘menace’!
-
-“…4,700 workers have been hired to maintain the existing 5,390 Km of electric fencing.”
-
-...
-
-[Data](articles/7e54d64a.json)
-
-[Extended Data](ext_articles/7e54d64a.ext.json)
 
 ---

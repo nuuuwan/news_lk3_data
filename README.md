@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 20:37:56**
+As of **2024-09-15 20:56:37**
 
 ## Newspaper Stats
 
-*Scraped **44,048** Articles*
+*Scraped **44,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,064
 dailymirrorlk | 4,733
-adaderanalk | 5,185
+adaderanalk | 5,186
 tamilmirrorlk | 5,733
 virakesarilk | 7,007
 adaderanasinhalalk | 7,537
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,537
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,048 (100.0%) of 44,048 articles have been extended.
+44,048 (100.0%) of 44,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Grade 5 Scholarship exam results in 40 days
+
+*2024-09-15 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102002/grade-5-scholarship-exam-results-in-40-days) · `en`
+
+The Commissioner General of Examinations, Amith Jayasundara says that the results of the Grade 5 Scholarship Examination held today (15), is expected to be released in 40 days.
+
+This year’s Grade 5 Scholarship exams was held in 2,849 centers with the participation of 323,879 students this morning.
+
+◼️
+
+[Data](articles/a876ec18.json)
+
+---
 
 ### Pedestrian death
 
@@ -2249,25 +2263,5 @@ More than 900 farmers rely on crossing the river daily to access their farmlands
 [Data](articles/073bbcde.json)
 
 [Extended Data](ext_articles/073bbcde.ext.json)
-
----
-
-### Thunder showers in several areas
-
-*2024-09-15 08:54:21* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-කිහිපයකට-අද-ගිගුරුම්-සහිත-වැසි/11-411946) · `si`
-
-Thunderstorms expected in Western, Sabaragamuwa, and Northwestern provinces. Heavy rain possible in Kandy, Nuwara Eliya, Galle, and Matara districts.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in general area Kandy, Nuwara Eliya, Galle and Matara districts.
-
-There are also mm in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.. Heavy rains can occur some 50.
-
-◼️
-
-[Data](articles/561b6c6e.json)
-
-[Extended Data](ext_articles/561b6c6e.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 08:22:53**
+As of **2024-09-15 08:43:16**
 
 ## Newspaper Stats
 
-*Scraped **43,929** Articles*
+*Scraped **43,932** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 375
+dbsjeyarajcom | 376
 bbccomsinhala | 426
 colombotelegraphcom | 435
 islandlk | 2,579
@@ -17,20 +17,58 @@ economynextcom | 2,679
 dailyftlk | 2,920
 adalk | 4,059
 dailymirrorlk | 4,733
-adaderanalk | 5,168
+adaderanalk | 5,169
 tamilmirrorlk | 5,707
 virakesarilk | 6,966
-adaderanasinhalalk | 7,519
+adaderanasinhalalk | 7,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,929 (100.0%) of 43,929 articles have been extended.
+43,929 (100.0%) of 43,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### තරුණියන් දෙදෙනෙක් දියේ ගසාගෙන යති
+
+*2024-09-15 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201037) · `si`
+
+නාඋල, බෝවතැන්න ජලාශයේ සොරොව්ව විවෘත කිරීම හේතුවෙන් අඹන් ගඟේ ජල මට්ටම ඉහළ ගොස් මොරගොල්ල ප්‍රදේශයේ දිය නාමින් සිටි කාන්තාවන් දෙදෙනෙකු දියේ ගසාගෙන ගොස් ඇත.
+
+කෙසේ නමුත් මේ පිළිබඳ නාඋල පොලිසියට ලද දැනුම්දීමක් මත වහාම ක්‍රියාත්මක වූ පොලිස් නිලධාරීන්, ජලාශයේ ජලය පාලනය කර තිබේ.
+
+පසුව දඹුල්ල පොලිස් ජීවිතාරක්ෂක නිලධාරීන් කැඳවා දියේ ගිලෙමින් සිටි කාන්තාවන් දෙදෙනා බේරාගෙන ප්‍රථමාධාර ලබාදී දෙමව්පියන් වෙත භාර දී ඇත.
+
+මෙලෙස අනතුරට පත්වූ කාන්තාවන් දෙදෙනා අවුරුදු 20 හා 25 වයස්වල පසුවන කෝන්ගහවෙල හා කාගම ප්‍රදේශවල පදිංචිකාරියන් බව පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/63971739.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-09-15 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101982/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says that showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Meanwhile, fairly heavy showers of about 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it added.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night.
+
+Furthermore, the Met. Department stated that strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
+
+Thus, general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/baaaca0f.json)
+
+---
 
 ### The deadly attack on husband who killed his wife
 
@@ -523,6 +561,22 @@ Additionally, the President said that a National Land Commission and a Truth and
 [Data](articles/b7177920.json)
 
 [Extended Data](ext_articles/b7177920.ext.json)
+
+---
+
+### Why Ranil  Wickremesinghe  is  Supremely Confident of Winning the  2024 Presidential Election.
+
+*2024-09-14 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84741) · `en`
+
+Sri Lanka’s ninth presidential election will take place  one week from now on 21 September 2024. Among the 38 contestants, three are regarded as the top contenders. They are President Ranil Wickremesinghe, Leader of the Opposition Sajith Premadasa and JVP/NPP leader Anura Kumara Dissanayake. Three others namely Hambantota District MP Namal Rajapaksa, Ex-Batticaloa MP Packiyaselvam Ariyanethiran and Entrepreneur cum media mogul Dilith Jayaweeraare  are likely to poll a sizeable number of votes.
+
+Incumbent President Ranil Wickremesinghe was interviewed by “Daily FT’editor Nisthar Cassim earlier this week. The exclusive interview commenced with two questions about the  forthcoming presidential election on Sep 21. The first question was –
+
+In the ongoing campaign trail, what have you seen and heard and what has surprised you?
+
+...
+
+[Data](articles/ee7377bd.json)
 
 ---
 
@@ -2271,73 +2325,5 @@ He said that those who do not have official voter cards can obtain their voter c
 [Data](articles/536c6ae2.json)
 
 [Extended Data](ext_articles/536c6ae2.ext.json)
-
----
-
-### EC receives over 3,800 complaints ahead of Presidential Election
-
-*2024-09-14 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101960/ec-receives-over-3800-complaints-ahead-of-presidential-election) · `en`
-
-The Election Commission reported that a total of 3,828 complaints have been received thus far in relation to the presidential election.
-
-In a statement, the commission noted that 3,720 these complaints were received related to violations of election laws, and 28 complaints related to acts of violence were reported.
-
-The Chairman of the Election Commission R.M.A.L. Rathnayake said that there is a slight increase in the number of complaints received in relation to the presidential election this year.
-
-Meanwhile, Police Spokesman DIG Nihal Thalduwa reported that the police have received 350 complaints regarding the election.
-
-◼️
-
-[Data](articles/ffb1e910.json)
-
-[Extended Data](ext_articles/ffb1e910.ext.json)
-
----
-
-### Presidential election related complaints
-
-*2024-09-14 10:01:12* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-සම්බන්ධ-පැමිණිලි-තවදුරටත්-ඉහළට/11-411941) · `si`
-
-Here's a summary of the presidential election-related complaints in 200 characters:
-
-
-
-"Complaints surge: 3,828 filed in 2024. Most pertain to election law violations. Electoral commission reports increase."
-
-🟩
-
-The number of complaints received from the 2024 has increased to 3,828.
-
-The electoral commission said that the highest number of complaints have been received regarding election law violations.
-
-◼️
-
-[Data](articles/1673ffe2.json)
-
-[Extended Data](ext_articles/1673ffe2.ext.json)
-
----
-
-### Dilith says the agricultural building strategy
-
-*2024-09-14 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201008) · `si`
-
-Dilith Jayaweera proposes agricultural building strategy in his campaign. He aims to improve farmers' livelihoods through better pricing and increased income. The strategy focuses on promoting scientific farming methods and supporting local entrepreneurs.
-
-🟩
-
-The president presidential candidate Dilith Jayaweera says that the agricultural building strategy is in its strategic plan.
-
-He was speaking at a public meeting held at the Kaduruwela Bus Stand at the Kaduruwela Bus Stand at the Kaduruwela bus stand in the Kaduruwela Bus Stand at the Kaduruwela Bus Stand at the Kaduruwela bus stand in the Kaduruwela bus stand in the Polonnaruwa.
-
-"When I am addressing you, two years ago, the agricultural can't be gone to the tune, but it should be taken to the farmer of agriculture. They can't be grieved every day, we can be pleased. 2 percent, 3 percent in this country and 3. Nearly 30 percent in the country should be restored by the dear citizens of agriculture and change their standard of living. That is why we propose to relocate this farmer as farmers and increase their income.
-
-Mr. Dilith Jayaweera stated that the scientific method is being promoted by the farmer quality of the farmer.
-
-...
-
-[Data](articles/78cb6d41.json)
-
-[Extended Data](ext_articles/78cb6d41.ext.json)
 
 ---

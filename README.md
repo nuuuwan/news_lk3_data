@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 01:07:35**
+As of **2024-09-16 01:22:07**
 
 ## Newspaper Stats
 
-*Scraped **44,059** Articles*
+*Scraped **44,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,40 @@ adalk | 4,065
 dailymirrorlk | 4,733
 adaderanalk | 5,187
 tamilmirrorlk | 5,733
-virakesarilk | 7,008
+virakesarilk | 7,012
 adaderanasinhalalk | 7,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,059 (100.0%) of 44,059 articles have been extended.
+44,063 (100.0%) of 44,063 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-16 (Monday)
+
+### When the country was in crisis, all those in the opposition were not responsible for the regime
+
+*2024-09-16 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/193797) · `ta`
+
+Ranil Wickremesinghe seeks re-election, opposition criticizes crisis management. Campaign rally supports his presidency bid. Opposition claims credit for stabilizing economy. Election date set for September 21.
+
+🟩
+
+President Ranil Wickremesinghe is to rule the country for further five years. Maruthapandi Rameshwaran, a CWC's chairman and Nuwara Eliya district parliamentarian, said that the expectation would be expected on September 21.
+
+The campaign meeting was held on 15.09.2024 in Nuwara Eliya, supporting the independent candidate Ranil Wickremesinghe, who is contesting the presidential election.
+
+Presidential candidate Ranil Wickremesinghe, President of the Ceylon Workers Congress, Senthil Thondaman, Governor of the Eastern Province, Senthil Thondaman on behalf of the Ceylon Workers Congress, Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, M. Rameshwaran, Member of Parliament of Nuwara Eliya DistrictDissanayake, MPs SB Dissanayaka, Nimal Piyadissa, Manusha Nanayakkara, former Provincial Council members and Pradeshiya Sabha members were also present.
+
+...
+
+[Data](articles/5b53d9ef.json)
+
+[Extended Data](ext_articles/5b53d9ef.ext.json)
+
+---
 
 ### 2024-09-15 (Sunday)
 
@@ -106,6 +130,32 @@ Meanwhile, another popular rally to ensure Mr. Sajith Premadasa was held this af
 
 ---
 
+### US expects to work with the President of Sri Lanka
+
+*2024-09-15 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/193722) · `ta`
+
+US Ambassador Julie Sung expresses eagerness to collaborate with Sri Lanka's newly elected president. She emphasizes the importance of free and fair elections in maintaining democracy.
+
+🟩
+
+US Ambassador to Sri Lanka Julie Sung says the US is looking forward to working with the president elected by the people of Sri Lanka.
+
+US Ambassador Julie Sung posted this issue on his X (X) site ahead of the presidential election. The US Ambassador to Sri Lanka, Julie Sung, posted this issue today.
+
+On the International Democratic Day today, we celebrate the principles of strong and stable democracy, such as accountability, human rights and justice.We ensure that every individual has a concept in designing their future through elections.
+
+The US is looking forward to working with the president elected by the Sri Lankan people. In the record, the US Ambassador emphasized that conducting an independent and fair election is the main duty of Sri Lanka's democracy.
+
+US Ambassador Julie Sung has posted these comments on his X -X -X -X -X -X -X -X -X -X -X -X -X -X -US asteristener's presidential election on the 21st.
+
+◼️
+
+[Data](articles/91d24813.json)
+
+[Extended Data](ext_articles/91d24813.ext.json)
+
+---
+
 ### Give me 5 years to this revolution - Ranil
 
 *2024-09-15 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201058) · `si`
@@ -134,6 +184,36 @@ My main objective Lighten the next five years of living. By the end of 2025, you
 
 ---
 
+### If the CWC makes a decision, it will never be back;100 % work for Ranil's success - Senthil Thondaman
+
+*2024-09-15 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193796) · `ta`
+
+Here's a 200-character summary:
+
+
+
+CWC supports President Ranil Wickremesinghe 100%, opposes criticism of 1350-rupee salary, demands full 350-rupee raise for plantation workers without conditions.
+
+🟩
+
+Senthil Thondaman, the President of the Eastern Province and the Governor of the Eastern Province, has publicly challenged whether those who criticize the 1350 rupee salary can buy a salary increase of 35 rupees.
+
+He said this while addressing a massive campaign meeting in Nuwara Eliya today in support of President Ranil Wickremesinghe.
+
+2021 and 2022 was the period when Sri Lanka had suffered a severe economic crisis. Sri Lanka did not face such close proximity even during the war. There was no one to come to the forefront of protecting the country.
+
+If President Ranil Wickremesinghe does not take responsibility for the country, the price of gas today will be over 20. The price of rice is 1000 rupees and the price of the parent is 3000 rupees.
+
+After taking over as President Ranil Wickremesinghe, the prices of essential commodities and other goods gradually declined. At the moment when the country is now traveling through the dilemma, everyone is in charge of the regime.
+
+...
+
+[Data](articles/d09297df.json)
+
+[Extended Data](ext_articles/d09297df.ext.json)
+
+---
+
 ### One person injured in shooting in Badowita
 
 *2024-09-15 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102003/one-person-injured-in-shooting-in-badowita) · `en`
@@ -149,6 +229,30 @@ The 31-year-old injured individual, identified as Tharindu Madushan Suwaris, is 
 [Data](articles/e443f4c0.json)
 
 [Extended Data](ext_articles/e443f4c0.ext.json)
+
+---
+
+### A 22 -year -old young woman in Jaffna makes a wrong decision!
+
+*2024-09-15 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193795) · `ta`
+
+Young woman dies in Jaffna due to poor decision-making. 22-year-old Kalachelvan Yadusini passes away on Sunday. Body sent for autopsy before being returned to family.
+
+🟩
+
+On Sunday, the 15th of Jaffna, a woman made a wrong decision and died.
+
+During this time, Kalachelvan Yadusini (age 22) from Kottadi, Jaffna has died.
+
+The girl was at home alone on Sunday (15) after all the people in the house had gone out. During this time, he made a wrong decision.
+
+The body was taken to the Jaffna Teaching Hospital for anatomical testing. The death of his body was carried out by Namasivayam Premkumar.. The body was handed over to relatives after anatomical examination.
+
+◼️
+
+[Data](articles/156a166e.json)
+
+[Extended Data](ext_articles/156a166e.ext.json)
 
 ---
 
@@ -2171,95 +2275,5 @@ He urged the public to use their valuable vote to put an end their anger and hat
 [Data](articles/de910df2.json)
 
 [Extended Data](ext_articles/de910df2.ext.json)
-
----
-
-### Sajith promises
-
-*2024-09-15 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201040) · `si`
-
-Sajith Premadasa promises free healthcare reform post-2021. He advocates for innovative approaches beyond government funding, proposing decentralized systems and efficient services across 354 MOH divisions. The goal is to create a "Golden Development Age" of free health, prioritizing preventive care and improving overall public health.
-
-🟩
-
-The presidential candidate Sajith Premadasa, Sajith Premadasa, says that the golden age of the Free Health Campaign will produce after 21st.
-
-He was speaking at a health conference held in Colombo yesterday.
-
-...
-
-[Data](articles/1d040c34.json)
-
-[Extended Data](ext_articles/1d040c34.ext.json)
-
----
-
-### Sri Lanka President promises strong exchange rate to reduce cost of living
-
-*2024-09-15 10:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-promises-strong-exchange-rate-to-reduce-cost-of-living-179651/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe said a strong exchange rate has reduced the cost of living a little, and he will continue to work for a strong rupee if elected for a second term.
-
-“When I strengthen the rupee, you’re the burden of living will become lighter,” President Wickremesinghe told a rally in Gampola in the central province.
-
-President Wickremesinghe was echoing the words of Goh Keng Swee, the economic architect of Singapore gave then President J R Jayewardene when the currency was under pressure by 1980 the country was pushed into an IMF program.
-
-Goh warned J R not to depreciate the currency as ‘competitive exchange rate’ became fashionable after the collapse of the Bretton Woods in 1971 and the IMF Second Amendment left Sri Lanka without a credible anchor.
-
-How Sri Lanka rejected Singapore monetary advice and politicians, people paid the price
-
-...
-
-[Data](articles/e831ab05.json)
-
-[Extended Data](ext_articles/e831ab05.ext.json)
-
----
-
-### Ranil will lighten next year - Ranil
-
-*2024-09-15 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201039) · `si`
-
-Ranil Wickremesinghe promises relief measures for Sri Lankans, citing progress in reducing living costs and implementing subsidies. He vows further action to ease economic burdens by next year.
-
-🟩
-
-Ranil Wickremesinghe says that the independent presidency is lightening next year.
-
-He was speaking at the Sri Lanka 'Fishing Rally in Kegalle yesterday (14).
-
-"We are systematically trying to lighten the burden of the people. We implemented the programs including the year-wipe for this purpose. Provided the fertilizer subsidy. Raised pension and adult offers. We have reduced the prices of the goods on one side, and in the other hand, we have taken steps to lighten the living weight of the people. I can say that by next year, I can say that the burden of living is lightening. Now we take more steps. The ban of the vehicle has been lifted in our foreign exchange reserve. "
-
-◼️
-
-[Data](articles/e0751893.json)
-
-[Extended Data](ext_articles/e0751893.ext.json)
-
----
-
-### Resolution to disable social websites?
-
-*2024-09-15 10:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-வலைத்தளங்களை-முடக்க-தீர்மானம்/175-343770) · `ta`
-
-Election Commission plans to temporarily shut down social media sites after presidential campaign ends. Aim: Stop political mudslinging on platforms. Collaboration with telecom and social media regulators. Chairman vows to end campaigns and defamatory content.
-
-🟩
-
-It is reported that the Election Commission is planning to shut down social websites for 48 hours after the presidential campaign is over.
-
-In this context, no election campaign is being carried out on the 19th and 20th, and action will be taken to stop the mud on social media.
-
-The Election Commission has been focused on the project, along with companies belonging to the Telecommunications Regulatory Commission and the Social Media Network.
-
-It is reported that the campaign is completely banned during this period, but it is reported that it is planning to campaign through social websites.
-
-The Commission's Chairman RMAL Ratnayake has stated that the Elections Commission will make serious efforts to halt election campaigns and defamation propaganda in peace after consultation with social media groups.
-
-◼️
-
-[Data](articles/292d7546.json)
-
-[Extended Data](ext_articles/292d7546.ext.json)
 
 ---

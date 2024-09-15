@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 17:58:41**
+As of **2024-09-15 18:17:53**
 
 ## Newspaper Stats
 
-*Scraped **44,012** Articles*
+*Scraped **44,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,064
 dailymirrorlk | 4,733
 adaderanalk | 5,183
-tamilmirrorlk | 5,725
+tamilmirrorlk | 5,727
 virakesarilk | 6,984
 adaderanasinhalalk | 7,534
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,012 (100.0%) of 44,012 articles have been extended.
+44,014 (100.0%) of 44,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Dalada put Sajith's Deal
+
+*2024-09-15 17:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-டீலை-போட்டுடைத்தார்-தலதா/175-343795) · `ta`
+
+Sajith Premadasa denies deal politics, but Dalada Athukorala challenges him to reveal actions with Hiru Rajapaksa. Opposition leader accused of "Ranilum Charm" in Ratnapura.
+
+🟩
+
+Although opposition leader Sajith Premadasa has said that he is not going to engage in Deal politics, former United People's Power MP Dalada Athukorala challenged Sajid to reveal what he had already done with Hiru Rajapaksa and Hiru.
+
+He challenged the 'Ranilum Charm', which is currently taking place in Ratnapura.
+
+◼️
+
+[Data](articles/c9eaf6e7.json)
+
+[Extended Data](ext_articles/c9eaf6e7.ext.json)
+
+---
 
 ### Suspect arrested for money to promote a Presidential candidate
 
@@ -103,6 +123,28 @@ Israel launched air strikes to the Season of Benda. Six of of them were killed a
 [Data](articles/9730539b.json)
 
 [Extended Data](ext_articles/9730539b.ext.json)
+
+---
+
+### "We will definitely improve the plantation people"
+
+*2024-09-15 17:12:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெருந்தோட்ட-மக்களை-நிச்சயம்-மேம்படுத்துவோம்/76-343793) · `ta`
+
+Anura Kumara Dissanayake vows to improve hill country plantations, grant land ownership, and enhance education. He promises equal rights, ending cheating politics, and solving housing issues.
+
+🟩
+
+We will definitely improve the livelihood of the people of the mountain plantation. Their land ownership will certainly be granted. The people of the hill country can live in equal rights in this country, ”said Anura Kumara Dissanayake, the Presidential candidate of the National People's Power.
+
+He also said that there is a firm belief that the people of the hill country will be partners in the success of national people's power.
+
+He said this while addressing a campaign meeting held at Nuwara Eliya - Talawakelle on Sunday (15) in support of Anura Kumara Dissanayake, who is contesting the presidential election on behalf of the National People's Power.
+
+...
+
+[Data](articles/35057cd4.json)
+
+[Extended Data](ext_articles/35057cd4.ext.json)
 
 ---
 
@@ -2201,51 +2243,5 @@ Namal Rajapaksa, president of the Sri Lanka General Front said.
 [Data](articles/6118c1b3.json)
 
 [Extended Data](ext_articles/6118c1b3.ext.json)
-
----
-
-### Export Economy in 2025 - Ranil
-
-*2024-09-14 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201031) · `si`
-
-Ranil Wickremesinghe promotes export economy for 2025 improvement. Lifts vehicle import ban, allows new motorcycle purchases. Focuses on developing exports as key economic strategy.
-
-🟩
-
-Another rally was held in Matale today (14), organizing a rally organized by organizing the 'Sri Lanka' concept of independent presidency.
-
-President Ranil Wickremesinghe said that steps will be taken to improve the country by establishing export economies next year.
-
-"The vehicle import ban is lifted due to money. Now a new motor bicycle can be taken. Will improve in the coming year. Exports an export economy. "
-
-◼️
-
-[Data](articles/1a2e2332.json)
-
-[Extended Data](ext_articles/1a2e2332.ext.json)
-
----
-
-### Sri Lanka steps up measures for fighting tuberculosis
-
-*2024-09-14 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101980/sri-lanka-steps-up-measures-for-fighting-tuberculosis) · `en`
-
-Sri Lanka’s Cabinet approved a proposal to sign a memorandum of understanding (MoU) to study the effectiveness of a new treatment model to tuberculosis, according to the government’s information department.
-
-The MoU will be signed between the country’s Sri Jayewardenepura University and the International Union Against Tuberculosis and Lung Diseases (IUATLD).
-
-According to the department, tuberculosis is the second most infectious disease in Sri Lanka and the leading cause of death from such illnesses.
-
-In 2021, a guideline was prepared for Sri Lanka following the World Health Organization’s recommendation on tuberculosis preventive treatments, the department said on Saturday.
-
-The department said it is expected to conduct a study to observe the effectiveness of the proposed treatment model under the national program for tuberculosis control and chest diseases.
-
-The IUATLD has agreed to provide a financial grant of 387,280 U.S. dollars.
-
-◼️
-
-[Data](articles/2aac5d8a.json)
-
-[Extended Data](ext_articles/2aac5d8a.ext.json)
 
 ---

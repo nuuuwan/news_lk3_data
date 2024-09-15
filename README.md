@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 18:30:32**
+As of **2024-09-15 18:40:39**
 
 ## Newspaper Stats
 
-*Scraped **44,014** Articles*
+*Scraped **44,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,226 @@ adalk | 4,064
 dailymirrorlk | 4,733
 adaderanalk | 5,183
 tamilmirrorlk | 5,727
-virakesarilk | 6,984
-adaderanasinhalalk | 7,534
+virakesarilk | 6,994
+adaderanasinhalalk | 7,535
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,014 (100.0%) of 44,014 articles have been extended.
+44,025 (100.0%) of 44,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### We will definitely improve the livelihood of the people of the hill plantation;They too can live in this country - Anuragumara in Talawakelle
+
+*2024-09-15 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/193762) · `ta`
+
+Anura Kumara Dissanayake promises to improve hill plantation residents' livelihoods, grant land ownership, and ensure equal rights. He vows to address issues like education costs, nutrition problems, and language rights in his presidency.
+
+🟩
+
+We will definitely improve the livelihood of the people of the hill plantation. Their land ownership will certainly be granted. The National People's Power Presidential candidate Anura Kumara Dissanayake said that the people of the hill country can live in equal rights in this country.
+
+He also said that there is a firm belief that the people of the hill country are partners in the success of the national people's power.
+
+The day -to -day campaign meeting was held at Nuwara Eliya - Thalawakelle on Sunday (15) in support of Anura Kumara Dissanayake, who is contesting the presidential election on behalf of the national People's Power.
+
+Presidential candidate Anura Kumara Dissanayake, National People's Power Nuwara Eliya District President Manjula Suraweera and National Committee member K Selvi were present at the meeting organized by the Nuwara Eliya District Committee of the National People's Power.Speaking on this occasion, Anuragumara Dissanayake said this.
+
+...
+
+[Data](articles/f51a88e1.json)
+
+[Extended Data](ext_articles/f51a88e1.ext.json)
+
+---
+
+### Special Message to Sri Lanka
+
+*2024-09-15 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201053) · `si`
+
+US State Department advises caution ahead of Sri Lanka's September 21 election, urging citizens to reconsider travel plans.
+
+🟩
+
+The US State Department urges the people of the country to be thoughtful, as Sri Lankan election will be held on September 21st.
+
+The department's travel counsel is urged to the people of the country to avoid going to the people.
+
+◼️
+
+[Data](articles/09fa3094.json)
+
+[Extended Data](ext_articles/09fa3094.ext.json)
+
+---
+
+### Turkish
+
+*2024-09-15 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/193781) · `ta`
+
+Turkey's EU membership prospects uncertain due to global economic shifts. Ankara suggests focusing on domestic growth rather than integration.
+
+🟩
+
+Ankara's prediction is that Turkey is no longer the time to join the EU. This is because 41 percent of the world's population and 37.3 percent of the GDP in the world, the other countries, are the best platform for the market opportunity.
+
+◼️
+
+[Data](articles/4b03afa1.json)
+
+[Extended Data](ext_articles/4b03afa1.ext.json)
+
+---
+
+### More than 4 thousand complaints have been lodged in the presidential election so far
+
+*2024-09-15 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193784) · `ta`
+
+Over 4,000 election complaints filed: 1,360 national, 2,737 district, 30 violence reports, 88 other issues.
+
+🟩
+
+The Election Commission said that 4,215 complaints have been received from the presidential election (from July 31 to September 14).
+
+Accordingly, 1,360 complaints have been received for the National Election Complaint Management Center and 2,737 to the District Election Complaint Management Center for violating election laws.
+
+Meanwhile, the District Election Complaint Management Center has received 30 complaints of violence and 88 complaints.
+
+◼️
+
+[Data](articles/8da45eab.json)
+
+[Extended Data](ext_articles/8da45eab.ext.json)
+
+---
+
+### New Constitution will be created within two years in the new parliament - Presidential candidate Ranil Wickremesinghe Special
+
+*2024-09-15 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193759) · `ta`
+
+Ranil Wickremesinghe promises new constitution within 2 years, addressing Northern issues and 13th Amendment. Focuses on Truth and Reconciliation Commission for political solutions. No racial or religious issues in 2024 election.
+
+🟩
+
+There is no racist issue in the 2024 presidential election. There is no religious issue. However, we have carried out discussions with the problems of the people of the North. We have also focused on the 13th Amendment of the Constitution. Nine provinces have a key role in the country's development journey. This is why we have focused on special issues centered on the North and East, including the political issue. It will be carried out through the Truth and Reconciliation Commission. There may be a small delay, but of course those problems will be solved.
+
+◼️
+
+[Data](articles/e2365e57.json)
+
+[Extended Data](ext_articles/e2365e57.ext.json)
+
+---
+
+### Sumanthiran and Wiki, who carried Fonseka on his shoulder, are making war allegations - Presidential candidate Dilith Jayaweera
+
+*2024-09-15 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193778) · `ta`
+
+Sumanthiran and Wiki accused of war allegations by presidential candidate Dilith Jayaweera. Both sides suffered losses during conflict. Formal inquiries needed to resolve issues. Sumanthiran claims collaboration between Mahinda Rajapaksa and himself would end war allegations.
+
+🟩
+
+There were losses on both sides in the war. To carry out formal inquiries and end this issue. Continue to carry only the cracks are the most. It is a massive prohibition to be fired. Sumanthiran will mention that if Mahinda Rajapaksa and Sumanthiran work together, there is no war allegation.
+
+◼️
+
+[Data](articles/68fa53e6.json)
+
+[Extended Data](ext_articles/68fa53e6.ext.json)
+
+---
+
+### The strength of the second
+
+*2024-09-15 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/193751) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ranil Wickremesinghe met a Tamil Nadu Party general candidate. The purpose might be to gain second preference votes, indicating weakness in his campaign strategy.
+
+🟩
+
+Ranil Wickremesinghe's meeting with the general candidate in the Tamil Nadu Party may be aimed at getting the second preferential votes.. Because it will express their weakness.
+
+◼️
+
+[Data](articles/7e519dd5.json)
+
+[Extended Data](ext_articles/7e519dd5.ext.json)
+
+---
+
+### The challenges of the country and the presidential election
+
+*2024-09-15 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193771) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Country challenges and presidential elections: History shows nations led by individuals often fail. Decision-making under single rule can be detrimental to national progress and stability.
+
+🟩
+
+To make decisions when ruled by a country. The entire world history testifies that all the countries that are dominated by the individual have been destroyed.
+
+◼️
+
+[Data](articles/4c98dfdb.json)
+
+[Extended Data](ext_articles/4c98dfdb.ext.json)
+
+---
+
+### Blank promises of Muslim politicians
+
+*2024-09-15 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193747) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"JVP leader Anura Kumara Dissanayake's campaign focuses on eradicating corruption and arresting corrupt officials. His revolutionary message resonates strongly with youth."
+
+🟩
+
+If the JVP leader and the presidential candidate of the National People's Power, Anura Kumara Dissanayake, who is spreading a major revolution among the youth, is a major revolution with the main slogan that the country will eradicate corruption and the arrest of the country's property, and the arrest of the country's property.The VP was the main reason.
+
+◼️
+
+[Data](articles/b4843b84.json)
+
+[Extended Data](ext_articles/b4843b84.ext.json)
+
+---
+
+### Kilinochchi: Saying Sethi!
+
+*2024-09-15 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193773) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Douglas Devananda led Eelam People's Democratic Party in 2010 Sri Lanka elections. He focused on recapturing Kilinochchi during the war. His political strategy aimed to strengthen his party's position in the region.
+
+🟩
+
+Minister Douglas Devananda, who was involved in the 2010 parliamentary elections on behalf of his Eelam People's Democratic Party in the 2010 parliamentary elections, was in the process of recovering the weaker Kilinochchi district in the war, and he was in the midst of his self -politics.He had come to the conclusion of the handling.
+
+◼️
+
+[Data](articles/46d365c2.json)
+
+[Extended Data](ext_articles/46d365c2.ext.json)
+
+---
 
 ### Dalada put Sajith's Deal
 
@@ -49,6 +257,24 @@ He challenged the 'Ranilum Charm', which is currently taking place in Ratnapura.
 [Data](articles/c9eaf6e7.json)
 
 [Extended Data](ext_articles/c9eaf6e7.ext.json)
+
+---
+
+### I am not complicit in the biggest mistake the Tamil state party has made in the presidential election - Sridharan
+
+*2024-09-15 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/193765) · `ta`
+
+Sridharan criticizes Tamil state party's presidential election decision. He advocates for Tamil national identity acceptance, similar to Sinhala. Offers negotiation with Sinhala government for Tamil political solutions.
+
+🟩
+
+We have fully accepted the uniqueness of the Sinhala nationality in this country. Similarly, Tamils ​​should be accepted as a nationality. However, the Sinhalese leaders do not accept it or bring it to the Sinhalese. However, we are ready to negotiate with the Sinhala government on the political solution for the Tamils.
+
+◼️
+
+[Data](articles/d4a93a9d.json)
+
+[Extended Data](ext_articles/d4a93a9d.ext.json)
 
 ---
 
@@ -2033,215 +2259,5 @@ Extending banking facilities to satisfy growing customer demand, HNB PLC, recent
 [Data](articles/eacfd961.json)
 
 [Extended Data](ext_articles/eacfd961.ext.json)
-
----
-
-### Fostering inclusive growth: HNB and Sunera Foundation’s landmark partnership for differently-abled youth
-
-*2024-09-15 01:44:00* · [`islandlk`](http://island.lk/fostering-inclusive-growth-hnb-and-sunera-foundations-landmark-partnership-for-differently-abled-youth/) · `en`
-
-HNB PLC, a leading private sector bank, recently announced a groundbreaking partnership with the Sunera Foundation, a charity dedicated to nurturing the talents of differently-abled young individuals through performing arts.
-
-The MOU was signed at HNB Towers, attended by HNB Acting Chief Executive Officer Damith Pallewatte, Sunera Foundation Chairperson Sunethra Bandaranaike, senior officials, and representatives from both organizations, a news release on the event said
-
-...
-
-[Data](articles/eb39182c.json)
-
-[Extended Data](ext_articles/eb39182c.ext.json)
-
----
-
-### Opinions across the Board on SL Presidential Elections
-
-*2024-09-15 01:40:00* · [`islandlk`](http://island.lk/opinions-across-the-board-on-sl-presidential-elections/) · `en`
-
-We are warned by those who are in the political arena and others outside that this presidential election on September 21 is vitally important; it can further break our wonderful country, now sunk in bankruptcy, or usher in much needed change and hope.
-
-To me the most important consideration is the team the winner of the presidential election will harness to govern the country. It is just one of the 39 contesting who will win but many would have earmarked likely cabinet ministers and other top notchers who will carry out their policies as promised in manifestos – or some at least. The general election to follow will choose winners. So we need to consider those in the vanguard of the three main contestants: Ranil, Anura Kumara and Sajith. It is best if the winning president has the most winning the general election in his party, but it could very well be otherwise.
-
-...
-
-[Data](articles/fd1ce6cd.json)
-
-[Extended Data](ext_articles/fd1ce6cd.ext.json)
-
----
-
-### Dr. NM Perera’s days at S. Thomas’ & Ananda Colleges and entry into films
-
-*2024-09-15 01:34:00* · [`islandlk`](http://island.lk/dr-nm-pereras-days-at-s-thomas-ananda-colleges-and-entry-into-films/) · `en`
-
-(Excerpted from NM – in his own words; as seen by others Edited by Prof. Colvin Goonaratna)
-
-Somewhere towards the end of the war in 1918, I left St. Joseph’s School Grandpass, and sought admission to St. Thomas’ College, where my brothers were already boarded. Rev. Stone, who was Warden at the time, suggested that I make my application a year later, after a year at Cathedral Boy’s School, Mutwal, which was a branch of St. Thomas’ at the old premises.
-
-I spent an uneventful year at the school to which I walked from home every morning, a distance of about three miles. My mother gave me 15 cents to spend on my lunch. I generally ate a bun with a cup of plain tea thrown in. Rest of the money I devoted to gram. After school, I trudged back home for a hefty plate of rice.
-
-...
-
-[Data](articles/474f1a33.json)
-
-[Extended Data](ext_articles/474f1a33.ext.json)
-
----
-
-### JRJ’s San Francisco speech that won Japan’s eternal gratitude
-
-*2024-09-15 01:29:00* · [`islandlk`](http://island.lk/jrjs-san-francisco-speech-that-won-japans-eternal-gratitude/) · `en`
-
-I consider it a great privilege to be afforded the opportunity of placing before this Assembly of 51 nations the views of the Government of Ceylon on the Draft Treaty of Peace which we have been invited to approve of. My statement will consist of the reasons for our acceptance of this Treaty, and I shall also attempt to meet some of the criticisms that have been leveled against it.
-
-It is true that I can speak only on behalf of my Government, but I claim that I can voice the sentiments of the people of Asia in their general attitude towards the future of Japan. I need not deal with the events that led to the formulation of the final Draft of the Treaty which we are considering. Mr (John Foster) Dulles, the American representative, and Mr Kenneth Younger, the British representative, have given us a full and fair account of those events, beginning with the capitulation of Japan in August 1945.
-
-...
-
-[Data](articles/ddf46369.json)
-
-[Extended Data](ext_articles/ddf46369.ext.json)
-
----
-
-### Brilliance at Royal College Colombo during the principalships of Major HL Reed and LHW Sampson
-
-*2024-09-15 01:15:00* · [`islandlk`](http://island.lk/brilliance-at-royal-college-colombo-during-the-principalships-of-major-hl-reed-and-lhw-sampson/) · `en`
-
-Royal College Colombo-7 was formed by the British Government in 1835, primarily for the education of the children of the British administrators.The first principal was Rev. Joseph Marsh, (1835-38) and later Dr Barcroft Boake (1842-1870).
-
-DL Seneviratne, a current vice president of the Royal College Union, took the trouble to visit the place where the then Colombo Academy and Royal College were located. It is a matter of regret that many Royalists did not bother to acquire and read the book edited by DL.
-
-Major HL Reed, MA, was the principal of Royal College Colombo from 1920 to 1932. Major Reed had as his vice principal, LHW Sampson, BA, (1932-38) who succeeded him as principal.
-
-...
-
-[Data](articles/81f5504b.json)
-
-[Extended Data](ext_articles/81f5504b.ext.json)
-
----
-
-### Maids and Ayahs then and now
-
-*2024-09-15 01:09:00* · [`islandlk`](http://island.lk/maids-and-ayahs-then-and-now/) · `en`
-
-As one gets older, far away times somehow do not seem so far away. I can recall a time when maids were called ayahs and were as numerous as those unemployed graduates constantly and publicly demanding government jobs.
-
-Ayahs generally lasted a long time. They came when quite young and often stayed on as family retainers. If they came from family-owned estates, marriages were arranged for them and everyone remained in the ‘big’ house till old age set in. The ayahs dressed comfortably and very prettily in the redda/hette and the word ayah had not become politically incorrect.
-
-It is now. A crisis among my old ayahs (sorry maids) of 15 years had them quarreling mightily with each other (not even with me) and skittering off without so much as a sad backward glance. My home was literally thrown to the wolves. New maids came and went with demands that left me pale with shock.
-
-“About six, including the servants,” (only I didn’t say servants. I said ‘helpers’).
-
-...
-
-[Data](articles/4de4dc4f.json)
-
-[Extended Data](ext_articles/4de4dc4f.ext.json)
-
----
-
-### Capitalizing on the Sun, Sea, and Sand
-
-*2024-09-15 01:03:00* · [`islandlk`](http://island.lk/capitalizing-on-the-sun-sea-and-sand/) · `en`
-
-During my seven years at beach resorts along Sri Lanka’s west coast—spanning Beruwala, Aluthgama, Bentota, Ambalangoda, and Matara—I discovered that informal events, like beach parties, can create a refreshingly relaxed atmosphere for both guests and staff. While hotels typically operate in a formal setting, occasional events with a casual ambiance can be incredibly popular and add a welcome variety. This realisation influenced my approach to event planning throughout my career as a hotelier. The process of conceptualizing, planning, organising, choreographing, and promoting events is one of the most exciting and enjoyable aspects of the hospitality business. Crafting the right ambience is essential.
-
-...
-
-[Data](articles/7b21bd6c.json)
-
-[Extended Data](ext_articles/7b21bd6c.ext.json)
-
----
-
-### The Countdown Week & The Debate Week
-
-*2024-09-15 00:28:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-countdown-week-the-debate-week/) · `en`
-
-As Sri Lanka starts the countdown week before its September 21 presidential vote, the US finished the debate week that is expected to set the campaign tones for the remaining eight weeks before its presidential election on November 5. In a riveting performance last Tuesday, the Democratic candidate Kamala Harris exceeded all expectations and with consummate lawyerly skill laid bare the utter limitations and disqualifications of Donald Trump to be America’s president a second time.
-
-The incoherent and blustering Trump undoubtedly made Harris’s debate tasks a whole lot easier, but the pre-debate onus was on her to show that she could perform in an unscripted engagement just as well as she is showing herself to be in organized rallies and in delivering tele-prompted speeches. And she did that superbly.
-
-...
-
-[Data](articles/1bd8acab.json)
-
-[Extended Data](ext_articles/1bd8acab.ext.json)
-
----
-
-### 2024-09-14 (Saturday)
-
-### Sri Lanka’s GDP grows 4.7% in second quarter of 2024
-
-*2024-09-14 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101981/sri-lankas-gdp-grows-47-in-second-quarter-of-2024) · `en`
-
-Sri Lanka has recorded a 4.7% growth in gross domestic product (GDP) in the second quarter of 2024, marking the fourth consecutive positive growth following six quarters of contraction since 2022, according to the State Minister of Finance.
-
-“This recovery reflects the effectiveness of ongoing reforms,” State Minister Shehan Semasinghe said in a post on ‘X’ (formerly Twitter).
-
-He stated that the growth rate is expected to remain strong, with forecasts suggesting a 4% - 4.5% increase by the end of the year, significantly exceeding the International Monetary Fund’s initial target of 2%.
-
-“This positive trajectory highlights the success of the government’s efforts in stabilizing the economy and promoting sustainable development,” Semasinghe said.
-
-◼️
-
-[Data](articles/1ef24ed6.json)
-
-[Extended Data](ext_articles/1ef24ed6.ext.json)
-
----
-
-### President's Insulate helicopter lands
-
-*2024-09-14 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201033) · `si`
-
-Here's a 200-character summary:
-
-
-
-Presidential helicopter grounded due to technical issue. SUH 522 model forced to land in Eppawala. Air Force investigating cause. Security forces involved in recovery efforts.
-
-🟩
-
-The insulation helicopter behind the helicopter traveling by President Ranil Wickremesinghe has been piled up by a technical fault.
-
-The helicopter landed the helicopter this evening to Welia, Eppawala.
-
-The helicopter belonging to the Sri Lanka Air Force (SUH 522) has been industrialized by the helicopter.
-
-The Air Force has taken steps to restore the industrial bug and its belongings have been transferred to another airplane from Colombo.
-
-All security forces are conducting further investigations.
-
-◼️
-
-[Data](articles/cb5e6010.json)
-
-[Extended Data](ext_articles/cb5e6010.ext.json)
-
----
-
-### Makes the Urivacy Country of Asia - Namal
-
-*2024-09-14 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201032) · `si`
-
-Sri Lanka presidential candidate Namal Rajapaksa proposes abolishing party-based politics. He vows to create laws to address leadership issues and develop the country into an Asian powerhouse.
-
-🟩
-
-Presidential candidate named Namal Rajapaksa says that laws will be prepared to abolish the political system of parties.
-
-He was speaking at a seat meeting held in Ampara this afternoon.
-
-Namal Rajapaksa, president of the Sri Lanka General Front said.
-
-"Many people talk about this zilmaar. There is a situation where there is no leaders of the leaders. The former President Mahinda Rajapaksa will not be offended with the loyal. Open that kind of place?Shut up?We make laws for that.  කිසිම දේශපාලන පක්ෂයකට පක්ෂ මාරු කරන දේශපාලනයට තිත තියන්න අවශ්‍ය නීති සම්පාදනය කරන්න මම පිහිටුවන ආණ්ඩුවකින් කටයුතු කරනවා කියන එක ඔබට කියනවා. I am responsible not only touches the development of the past three times and makes it the advanced country of Asia. "
-
-◼️
-
-[Data](articles/6118c1b3.json)
-
-[Extended Data](ext_articles/6118c1b3.ext.json)
 
 ---

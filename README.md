@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 20:56:37**
+As of **2024-09-15 21:07:37**
 
 ## Newspaper Stats
 
-*Scraped **44,049** Articles*
+*Scraped **44,050** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 436
 islandlk | 2,588
 economynextcom | 2,680
 dailyftlk | 2,920
-adalk | 4,064
+adalk | 4,065
 dailymirrorlk | 4,733
 adaderanalk | 5,186
 tamilmirrorlk | 5,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,537
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,048 (100.0%) of 44,049 articles have been extended.
+44,049 (100.0%) of 44,050 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ This year’s Grade 5 Scholarship exams was held in 2,849 centers with the parti
 ◼️
 
 [Data](articles/a876ec18.json)
+
+[Extended Data](ext_articles/a876ec18.ext.json)
 
 ---
 
@@ -919,6 +921,20 @@ Accordingly, foreign media reports that the total number of deaths occurred over
 [Data](articles/310de4b4.json)
 
 [Extended Data](ext_articles/310de4b4.ext.json)
+
+---
+
+### දිවයින පුරා සුරාසැල් දින 02ක් වසා තැබීමට පියවර
+
+*2024-09-15 16:42:26* · [`adalk`](https://www.ada.lk/breaking_news/දිවයින-පුරා-සුරාසැල්-දින-02ක්-වසා-තැබීමට-පියවර/11-411950) · `si`
+
+2024 ජනාධිපතිවරණය හේතුවෙන් දින 02ක් දිවයින පුරා සුරාසැල් වසා තැබීමට තීරණය කර තිබේ.
+
+ඒ අනුව එළැඹෙන 21 වැනිදා සහ 22 වැනිදා මෙලෙස දිවයින පුරා සුරාසැල් වසා තැබීමට පියවර ගන්නා බව සුරාබදු කොමසාර්ස් ජනරාල් වරයා නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/e2a3681a.json)
 
 ---
 
@@ -2241,27 +2257,5 @@ Historically, a number of factors may cause a nation sink. This can be a result 
 [Data](articles/1982abde.json)
 
 [Extended Data](ext_articles/1982abde.ext.json)
-
----
-
-### At least 64 people feared dead in Nigeria boat accident
-
-*2024-09-15 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101984/at-least-64-people-feared-dead-in-nigeria-boat-accident) · `en`
-
-At least 64 people were feared dead following a boat accident on a river in Zamfara State in northwest Nigeria, local officials said on Saturday.
-
-A wooden boat carrying 70 farmers capsized as it was transporting them across the river to reach their farmlands close to Gummi town on Saturday morning. Local authorities swiftly mobilised residents for a rescue operation, and after three hours, six survivors were pulled from the water.
-
-“This is the second time such an incident has occurred in the Gummi Local Government Area,” said Aminu Nuhu Falale, a local administrator who led the rescue efforts.
-
-He added that emergency teams were intensifying their search in the hope of finding more survivors.
-
-More than 900 farmers rely on crossing the river daily to access their farmlands, but only two boats are available, often leading to overcrowding, said the local traditional ruler.
-
-...
-
-[Data](articles/073bbcde.json)
-
-[Extended Data](ext_articles/073bbcde.ext.json)
 
 ---

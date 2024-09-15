@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 16:09:57**
+As of **2024-09-15 16:22:19**
 
 ## Newspaper Stats
 
-*Scraped **44,005** Articles*
+*Scraped **44,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,99 @@ dailymirrorlk | 4,733
 adaderanalk | 5,182
 tamilmirrorlk | 5,725
 virakesarilk | 6,984
-adaderanasinhalalk | 7,529
+adaderanasinhalalk | 7,530
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,002 (100.0%) of 44,005 articles have been extended.
+44,005 (100.0%) of 44,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
 
-### கல்கிஸ்ஸையில் ஹெரோயினுடன் ஒருவர் கைது
+### අගමැති මෝදිගේ දීප් ජෝති
+
+*2024-09-15 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201047) · `si`
+
+නවදිල්ලි නුවර පිහිටි ඉන්දීය අගමැති මෝදිගේ ලෝක් කල්යාන් මාග් නිල නිවසේ උපත ලැබූ වසු පැටවා සමග අගමැති මෝදි කාලය ගතකරන අයුරු ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+වසු පැටවාගේ හිසෙහි දක්නට ලැබෙන සුදු පැහැ සලකුණ හේතුවෙන්, ආලෝකයේ සංකේතය යන අර්ථයෙන් "දීප්ජෝති" ලෙස නම් තබා ඇති බව වාර්තා වේ.
+
+අගමැති මෝදි "දීප් ජෝති" පිළිබඳව සිය නිල X ගිණුමේ ද සටහනක් පළකර තිබුණි.
+
+◼️
+
+[Data](articles/d6cc2f53.json)
+
+---
+
+### Arrested with heroin in Kalkissa
 
 *2024-09-15 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/193752) · `ta`
 
-கல்கிஸ்ஸ பொலிஸ் பிரிவுக்குட்பட்ட புகையிரத நிலையத்துக்கு அருகாமையில் ஹெரோயின் போதைப்பொருளுடன் ஒருவர் நேற்று சனிக்கிழமை (14) கல்கிஸ்ஸ பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Kalkissa police arrest 47-year-old man with heroin near railway station. 10g of 200mg heroin seized during raid.
 
-கல்கிஸ்ஸ பொலிஸ் நிலைய அதிகாரிகள் குழுவினர் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் ரத்மலான பிரதேசத்தை சேர்ந்த 47 வயதுடையவர் ஆவார்.
+A man was arrested by the Kalkissa police on Saturday (14) with heroin drugs near the railway station belonging to the Kalkissa Police Division.
 
-சந்தேக நபரிடமிருந்து 10 கிராம் 200 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டது.
+He was arrested during a raid conducted by a team of officials of the Kalkissa police station.
+
+The suspect was 47 years old from Ratmalana area.
+
+10 grams of 200 milligrams of heroin from the suspect was seized by the police.
 
 ◼️
 
 [Data](articles/cb99fedd.json)
 
+[Extended Data](ext_articles/cb99fedd.ext.json)
+
 ---
 
-### தமிழ் அரசின்   தடுமாற்றம்
+### Stumbling block
 
 *2024-09-15 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/193753) · `ta`
 
-புதிய அரசியலமைப்பில் ‘ஒற்றையாட்சி’ என்ற பதம் இருக்க வேண்டும் என்பதை கலாநிதி ஜயம்பதி விக்கிரமரத்னவின்  97 வயதான தாயார் வலியுறுத்தியதால் அதனை சேர்த்துக் கொள்வதில் அவர் பிடிவாதமாக இருந்தார் என்று இப்போது கூறும் சுமந்திரன்  ‘ஏக்கிய ராஜ்ய’ என்பது,’ஒற்றையாட்சி’ தான் என்பதை ஏற்றுக் கொள்கிறார். அப்படியானால் அப்போது நல்லாட்சிக்காலத்தில் ஏன், அதனை ‘சமஷ்டி’ என்று மக்களுக்குப் பூச்சாண்டி காட்ட முற்பட்டார்?
+Here's a 200-character summary:
+
+
+
+Sumanthiran claims 97-year-old woman wants "unity" in new constitution. He calls himself "united kingdom". Critics accuse him of misleading public about federal system.
+
+🟩
+
+Sumanthiran, who is now saying that the 97 -year -old mother of Dr. Jayampathi Wickremaratne's mother has insisted that the word 'unity of the new constitution' should be included in the new constitution, says that Sumanthiran is a united kingdom.. So why did he try to bite it to the people as a federal?
 
 ◼️
 
 [Data](articles/0e26f3ab.json)
 
+[Extended Data](ext_articles/0e26f3ab.ext.json)
+
 ---
 
-### அனுர, சஜித் அணியில் இருவர் ரணிலுக்கு ஆதரவு
+### Two supporters of Ranil in Anura and Sajith team
 
 *2024-09-15 15:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-சஜித்-அணியில்-இருவர்-ரணிலுக்கு-ஆதரவு/175-343784) · `ta`
 
-தேசிய மக்கள் சக்தியின் நிறைவேற்று குழு உறுப்பினர் அனுஷ விமலவீர, தேசிய மக்கள் சக்தியின் குண்டசாலை தொகுதி அமைப்பாளர் சிசிர குமார செம்புவத்த மற்றும் ஐக்கிய மக்கள் சக்தியின் முஸ்லிம் விவகார செயலாளர் ஒ.கே. நவாஸ் ஆகியோர் எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை ஆதரித்து சற்று முன்னர் கண்டியில் நடைபெற்ற "ரணிலால் இயலும்" வெற்றிப் பேரணியில் இணைந்து கொண்டனர்
+Here's a 200-character summary:
+
+
+
+National People's Power Executive Committee members Anura and Sajith support Ranil Wickremesinghe in Kandy. They join forces for his independent presidential campaign.
+
+🟩
+
+Executive Committee of the National People's Power. Nawaz joined the "Ranilum Calam" victory in Kandy in Kandy, in support of Independent candidate President Ranil Wickremesinghe in the upcoming presidential election.
 
 ◼️
 
 [Data](articles/5f9a32d7.json)
+
+[Extended Data](ext_articles/5f9a32d7.ext.json)
 
 ---
 
@@ -2189,21 +2231,5 @@ Speaking on, he said that the country was the contents of its strategy plan.
 [Data](articles/6736c600.json)
 
 [Extended Data](ext_articles/6736c600.ext.json)
-
----
-
-### The Papal Guidance On Voting: The Less Evil Candidate
-
-*2024-09-14 20:17:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-papal-guidance-on-voting-the-less-evil-candidate/) · `en`
-
-Today (14 Sept. 2024, both on the BBC and Al Jazeera) the Holy Father, Pope Francis, urged the faithful to vote for the less evil of the two major US presidential candidates who are “against life.” Kamala Harris is openly for abortion while Trump is waffling – against one day and for the next. The pontiff said not welcoming migrants – seemingly referring to Trump –  is a “grave” sin, and compared Kamala Harris’ stance on abortion to an “assassination”.
-
-I am elated. For in the 2018-2020 elections I was on the Election Commission and could not openly identify with any candidate. As a citizen, however, I felt duty-bound to advise the voters. So I publicly urged voters during the Local Government, Parliamentary and Presidential elections to vote for the least bad of the candidates. Indeed, nearly all of them were bad in some way, while most were murderers and thieves.
-
-...
-
-[Data](articles/f24d4e7a.json)
-
-[Extended Data](ext_articles/f24d4e7a.ext.json)
 
 ---

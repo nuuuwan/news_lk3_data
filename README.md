@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 17:22:28**
+As of **2024-09-15 17:38:39**
 
 ## Newspaper Stats
 
-*Scraped **44,008** Articles*
+*Scraped **44,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,063
 dailymirrorlk | 4,733
-adaderanalk | 5,182
+adaderanalk | 5,183
 tamilmirrorlk | 5,725
 virakesarilk | 6,984
-adaderanasinhalalk | 7,532
+adaderanasinhalalk | 7,534
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,008 (100.0%) of 44,008 articles have been extended.
+44,011 (100.0%) of 44,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Suspect arrested for money to promote a Presidential candidate
+
+*2024-09-15 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201051) · `si`
+
+Person arrested promoting presidential candidate for money. Muttur police investigation reveals suspect took actions to support candidate's political career. Incident occurred in Kinniya area.
+
+🟩
+
+Muttur police have arrested a person who has been distributed to a presidential candidate.
+
+The police arrested in the Kinniya area in the Kinniya area.
+
+The suspect was arrested by the election accusation of the incident in the investigation carried out by the Muttur Police.
+
+Investigation revealed that the suspect had taken action to promote the relevant presidential candidate to enter politics in the future.
+
+◼️
+
+[Data](articles/b8e06e10.json)
+
+[Extended Data](ext_articles/b8e06e10.ext.json)
+
+---
+
+### CaFFE warns over increase in incidents of election-related violence
+
+*2024-09-15 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101999/caffe-warns-over-increase-in-incidents-of-election-related-violence) · `en`
+
+The Campaign for Free and Fair Elections (CaFFE) says that although the pre-election period of the 2024 Presidential Election was peaceful compared to the other years, there has been a marked increase in incidents of election-related violence observed within the period from September 08 to September 14.
+
+The Executive Director of CaFFE, Manas Makeen highlighted that the majority of the incidents reported were of intimidation, assault of political party supporters, and damages to party offices.
+
+Furthermore, it has been observed that there is an increase in posts insulting presidential candidates being shared on social media, he added.
+
+Meanwhile, the Campaign for Free and Fair Elections warned that if the above trends continue, it may be detrimental to holding a free and fair election.
+
+◼️
+
+[Data](articles/70298029.json)
+
+[Extended Data](ext_articles/70298029.ext.json)
+
+---
+
+### Israeli missile attacks from 2,000 km
+
+*2024-09-15 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201050) · `si`
+
+Israeli missile attacks from 2,000km distance. India-Iran collaboration suspected. Netanyahu denies involvement. First rebel attack on Israel. Missile landed in agricultural area. Recent drone strike by Zothy fighters resulted in casualties. Israel retaliated with air strikes in Gaza, causing deaths and injuries.
+
+🟩
+
+International Media stated that Indian militants have been able to borrow Iran to a ballistic missile to a ballistic missile.
+
+Commenting on the attack, the Israeli Prime Minister Benjamin Netanyahu has said that northern Yemen can have a large number of compensation.
+
+The attack on this attack today (15) can be mentioned as the first time the rebellion has been launched.
+
+Hube Spokes Aya Seariya said a hypenic bulistist missile was used for about 2,040 km to the attack.
+
+It was reported that the missiles had fallen into the cultivation of a culture of Israel.
+
+In July this year, Zothy fighters launched a drone strike at the hands of Israel, who was killed and four others were wounded.
+
+Israel launched air strikes to the Season of Benda. Six of of them were killed and 80 injured.
+
+◼️
+
+[Data](articles/9730539b.json)
+
+[Extended Data](ext_articles/9730539b.ext.json)
+
+---
 
 ### The number of the deaths of Myanmar due to 'Yagi'
 
@@ -2173,69 +2247,5 @@ He was speaking at a rally in Ratnapura today (14).
 [Data](articles/c03fce19.json)
 
 [Extended Data](ext_articles/c03fce19.ext.json)
-
----
-
-### Sajith cheat all of us - Anura
-
-*2024-09-14 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201029) · `si`
-
-Anura Kumara Dissanayake criticizes Sajith Premadasa's campaign, accusing it of reusing old rhetoric and cheating voters. He emphasizes the need for new ideas and warns against divisive tactics.
-
-🟩
-
-Presidential candidate Anura Kumara Dissanayake says that the reconciliation of the reconciliation is being brought back to the donation.
-
-He was speaking at a rally in Anuradhapura today (14).
-
-Presidential candidate Anura Kumara Dissanayake said,
-
-"I tell Sajith Premadasa to bring some new goods without old goods. Sajith Premadasa camp is repeating the old racist and religious disk. But the masses will not beat.  ජනතාව ආපහු ඒවාට අහුවෙන්නෙ නැහැ. Man, Man, Man,. The guy has both goods at both. There is Champika, but there is Thilangi arroinations.. It is called the leaf of the leaves. The national folk force is the only story. Sajith cheats all we say. Says what we say.. But have you heard?Former presidents and Presidential wives are stopped.. Says.  ඒ දේවලවලට නෝ කතා."
-
-◼️
-
-[Data](articles/d8fad961.json)
-
-[Extended Data](ext_articles/d8fad961.ext.json)
-
----
-
-### President Ranil vows to resolve missing persons issue within next five years
-
-*2024-09-14 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101979/president-ranil-vows-to-resolve-missing-persons-issue-within-next-five-years) · `en`
-
-President Ranil Wickremesinghe highlighted that the issues in the North cannot be limited to just political problems but also require development.
-
-If development does not take place, the North will fall behind while other provinces move forward, he said, adding that his leadership will address both the political and developmental challenges in the North.
-
-The President reiterated that his policy statement includes strengthening provincial councils and delegating more powers to them.
-
-He also mentioned that, under the framework of nine provincial administrations, development plans will be accelerated to assist the central government.
-
-Additionally, the President said that a National Land Commission and a Truth and Reconciliation Commission (TRC) will be established. Following the recommendations of the “Navas Commission,” he pledged to fully resolve the issue of the disappeared within the next five years.
-
-...
-
-[Data](articles/b7177920.json)
-
-[Extended Data](ext_articles/b7177920.ext.json)
-
----
-
-### Why Ranil  Wickremesinghe  is  Supremely Confident of Winning the  2024 Presidential Election.
-
-*2024-09-14 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84741) · `en`
-
-Sri Lanka’s ninth presidential election will take place  one week from now on 21 September 2024. Among the 38 contestants, three are regarded as the top contenders. They are President Ranil Wickremesinghe, Leader of the Opposition Sajith Premadasa and JVP/NPP leader Anura Kumara Dissanayake. Three others namely Hambantota District MP Namal Rajapaksa, Ex-Batticaloa MP Packiyaselvam Ariyanethiran and Entrepreneur cum media mogul Dilith Jayaweeraare  are likely to poll a sizeable number of votes.
-
-Incumbent President Ranil Wickremesinghe was interviewed by “Daily FT’editor Nisthar Cassim earlier this week. The exclusive interview commenced with two questions about the  forthcoming presidential election on Sep 21. The first question was –
-
-In the ongoing campaign trail, what have you seen and heard and what has surprised you?
-
-...
-
-[Data](articles/ee7377bd.json)
-
-[Extended Data](ext_articles/ee7377bd.ext.json)
 
 ---

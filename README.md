@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 12:22:50**
+As of **2024-09-15 12:37:50**
 
 ## Newspaper Stats
 
-*Scraped **43,969** Articles*
+*Scraped **43,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,062
 dailymirrorlk | 4,733
-adaderanalk | 5,177
-tamilmirrorlk | 5,714
+adaderanalk | 5,178
+tamilmirrorlk | 5,715
 virakesarilk | 6,969
-adaderanasinhalalk | 7,525
+adaderanasinhalalk | 7,526
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,969 (100.0%) of 43,969 articles have been extended.
+43,969 (100.0%) of 43,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### நைஜீரியாவில் படகு கவிழ்ந்து  விவசாயிகள் 64 பேர் பரிதாப பலி
+
+*2024-09-15 12:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நைஜீரியாவில்-படகு-கவிழ்ந்து-விவசாயிகள்-64-பேர்-பரிதாப-பலி/50-343774) · `ta`
+
+நைஜீரியா நாட்டில் 70க்கும் மேற்பட்ட விவசாயிகளை ஏற்றி சென்ற மரப்படகு ஆற்றில் கவிழ்ந்து விபத்துக்குள்ளானதில், 64 பேர் பரிதாபமாக உயிரிழந்தனர்.
+
+வடமேற்கு நைஜீரியாவில் ஜம்பாரா மாநில விவசாயிகள் தங்களுடைய விவசாய பணிகளுக்காக தினந்தோறும் ஆற்றினை கடந்து செல்ல வேண்டும். அந்த வகையில் 70 பேர் படகில் சென்ற போது விபத்து ஏற்பட்டுள்ளது.
+
+இதில் விவசாயிகள் 64 பேர் நீரில் மூழ்கி பரிதாபமாக உயிரிழந்தனர். 6 பேர் பத்திரமாக மீட்கப்பட்டனர். இந்த விபத்து அந்த நாட்டில் பெரும் சோகத்தை ஏற்படுத்தியுள்ளது.
+
+இதுகுறித்து மீட்புப் படை அதிகாரியொருவர் கூறுகையில், “70 விவசாயிகளை ஏற்றிச் சென்ற மரப் படகு ஒன்று, கும்மி நகருக்கு அருகில் உள்ள அவர்களது விவசாய நிலங்களுக்குச் செல்லும் போது விபத்தில் சிக்கியது. மீட்பு பணிகளுக்கு உள்ளூர் மக்கள் உதவினர்.
+
+3 மணி நேரமாக போராடி 6 பேரை தான் மீட்க முடிந்தது. 900க்கும் மேற்பட்ட விவசாயிகள் தங்கள் விவசாய நிலங்களை அணுகுவதற்கு தினமும் ஆற்றைக் கடந்து தான் ஆக வேண்டும். இரண்டு படகுகள் மட்டுமே இருக்கின்றன. இது பெரும்பாலும் கூட்ட நெரிசலுக்கு வழிவகுக்கிறது” என்று கூறினார்.S
+
+◼️
+
+[Data](articles/0cc6e496.json)
+
+---
+
+### Anura Kumara threatens legal action against critics over ‘conspiracy theories’
+
+*2024-09-15 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101991/anura-kumara-threatens-legal-action-against-critics-over-conspiracy-theories) · `en`
+
+Anura Kumara Dissanayake, the presidential candidate of the National People’s Power (NPP), vowed to hold accountable those who spread false information out of fear of the NPP’s potential victory.
+
+Addressing a public rally in Mirigama, Dissanayake expressed his intent to pursue legal action against individuals who disseminate misleading claims.
+
+Dissanayake criticized his political opponents, accusing them of resorting to conspiracy theories as their primary defense. “Their politics have deteriorated to the point where they can only respond with baseless conspiracy theories,” Dissanayake stated. He contrasted his campaign’s focus on national unity with what he described as the divisive rhetoric of his opponents.
+
+...
+
+[Data](articles/26f1d10a.json)
+
+---
+
+### කෝටි දෙකක දුම්වැටි තොගයක් කටුනායකදී අල්ලයි
+
+*2024-09-15 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201043) · `si`
+
+රුපියල් කෝටි දෙකක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් සහ විද්‍යුත් දුම්වැටි නැවත පිරවීම සඳහා භාවිත කරන රසායනික ද්‍රව්‍ය තොගයක් කටුනායක ගුවන්තොටුපොළේදී රේගු භාරයට ගෙන තිබේ.
+
+එම ද්‍රව්‍ය මෙරටට රැගෙන ආ ගුවන් මගියෙකුද කටුනායක ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ දී රේගු නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
+
+සැකකරු කොළඹ - 13 ප්‍රදේශයේ පදිංචි අයෙක් බව පොලීසිය සඳහන් කළේය.
+
+අදාළ පුද්ගලයා ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරණ ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.
+
+ඔහු විසින් රැගෙන ආ ගුවන් මලු තුළ දුම්වැටි 120,400ක් අඩංගු දුම්වැටි කාටූන් 602ක් සඟවා ගෙන පැමිණ සිටියදී, කටුනායක ගුවන්තොටුපොළ රේගු නිලධාරීන් විසින් මෙලෙස සොයා ගෙන තිබේ.
+
+◼️
+
+[Data](articles/76db9f31.json)
+
+---
 
 ### Make your child's tomorrow building responsibility - Namal
 
@@ -2179,69 +2235,5 @@ He also dismissed claims made by Anura Kumara Dissanayake, the National People�
 [Data](articles/3bbd6610.json)
 
 [Extended Data](ext_articles/3bbd6610.ext.json)
-
----
-
-### Hundreds of thousands in Cuba without water
-
-*2024-09-14 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101971/hundreds-of-thousands-in-cuba-without-water) · `en`
-
-Water shortages in Cuba are increasingly flaring tempers, including in capital Havana, as problems mount for hundreds of thousands of residents already ragged from shortfalls in food, fuel and electricity.
-
-Upwards of 600,000 people - more than 1 in 20 on the Caribbean island of 10 million citizens - are suffering from water supply issues, officials said earlier this month.
-
-Havana is the worst affected by water shortages, though most of the country’s largest cities report over 30,000 customers without water, the government has said.
-
-Officials blame the growing problems on crumbling infrastructure and a persistent lack of fuel, symptoms of a festering economic crisis that has blighted growth and left the Communist-run country nearly bankrupt.
-
-Rachel Trimiño, 32, said the root causes are no mystery, even in her Havana neighborhood of Vedado, a comparatively upscale district of the capital.
-
-...
-
-[Data](articles/60a11faa.json)
-
-[Extended Data](ext_articles/60a11faa.ext.json)
-
----
-
-### Vote for the Tamil Nadu in the presidential election - Jaffna University Community Report
-
-*2024-09-14 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193674) · `ta`
-
-Tamil Nadu presidential election: Vote for PA Ariyanethran symbol. Reject Sinhalese Buddhist chauvinism. Support Tamil unity against oppression. Mobilize Tamil people for liberation. Collective decision-making crucial.
-
-🟩
-
-In the upcoming presidential election, the Tamil general candidate will be voted for the symbol of PA Ariyanethran.. The report said that despite the university community and alternative ideas, all the Tamil people living in the North, East, Upcountry and other parts of the country will vote for the symbol and express our accumulation in this election.
-
-Elections to the head of the state of Sri Lanka on September 21 as an inevitable election on our political liberation journey, which is to be the Structural Genocide of Centuries, Structural Genocide.. At this juncture, we are writing to the Tamil people of the Jaffna University as a community of Jaffna University.
-
-Sinhalese and Buddhist chauvinism has almost succeeded in making us withdraw from the thinking and upliftment of the Tamil people over the 15 years since 2009.. The agents and their organizations of the Sri Lankan government have done a great deal of psychological failure and slavery, psychologically defeat and slavery.
-
-...
-
-[Data](articles/61a873cf.json)
-
-[Extended Data](ext_articles/61a873cf.ext.json)
-
----
-
-### Cabinet nod to launch ‘ITC She Trades Hub’
-
-*2024-09-14 14:36:00* · [`islandlk`](http://island.lk/cabinet-nod-launch-itc-she-trades-hub/) · `en`
-
-The Cabinet of Ministers has approved the proposal presented by the President in his capacity as the Minister of Investment Promotion to sign the proposed non-financial  Memorandum of Understanding between the Sri Lanka Export Development Board and the International Trade Center to commence an ‘ITC She Trades Hub’ in Sri Lanka to increase the participation and competitiveness in the businesses operated by  women.
-
-Once the ‘ITC She Trades Hub ‘ is established, the women entrepreneurs in Sri Lanka will be able to obtain the necessary training in the relevant topics, such as market and investment opportunities and the required technical assistance.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/cb8e1010.json)
-
-[Extended Data](ext_articles/cb8e1010.ext.json)
 
 ---

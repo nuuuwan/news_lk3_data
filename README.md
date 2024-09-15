@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 22:11:46**
+As of **2024-09-15 22:22:54**
 
 ## Newspaper Stats
 
-*Scraped **44,053** Articles*
+*Scraped **44,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,186
 tamilmirrorlk | 5,733
 virakesarilk | 7,008
-adaderanasinhalalk | 7,539
+adaderanasinhalalk | 7,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,053 (100.0%) of 44,053 articles have been extended.
+44,054 (100.0%) of 44,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Give me 5 years to this revolution - Ranil
+
+*2024-09-15 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201058) · `si`
+
+Ranil Wickremesinghe calls for unity, stability, and economic transformation over 5 years. He emphasizes building a strong, prosperous Sri Lanka through collective effort and political cooperation.
+
+🟩
+
+Another rally was held in Kandy today (15), organized by organized rally to organize the 'Sri Lanka' concept of independent presidency candidate.
+
+The president asked the country with a single seat and stabilized the country to build a revolution to build a revolution.
+
+"Say Sajaben I quit the contest I have asks for now. They want to know that I'm not a mihih. They are not a man who runs gold from gold.
+
+I mean, get along with me at this time. All the UNP, I say to join me. Sajith Premadasa tells you not to teach that I am unable to teach.
+
+My main objective Lighten the next five years of living. By the end of 2025, you see the result. I stabilized the country with parliamentary power. I ask your voting power to make a revolution.
+
+5 years asks for the full economy and bring a new economy "
+
+◼️
+
+[Data](articles/2f8258bc.json)
+
+[Extended Data](ext_articles/2f8258bc.ext.json)
+
+---
 
 ### Mount Lavinia Badovita shot
 
@@ -2247,23 +2275,5 @@ The 'Mirror' newspaper, headquartered in the European country of Britain, has pu
 [Data](articles/4931a3e6.json)
 
 [Extended Data](ext_articles/4931a3e6.ext.json)
-
----
-
-### Is the army to ensure security?
-
-*2024-09-15 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193715) · `ta`
-
-The army's role in ensuring security is questioned due to ongoing investigations into potential war crimes. Military personnel fear international prosecution in Geneva rather than domestic punishment, creating uncertainty about accountability within the armed forces.
-
-🟩
-
-Investigations are being carried out on the basis of war crimes and the fear that the culprits are punished, and the people in the forces are in fear that they will be scared.. There are fears that they can be taken to Geneva for war crimes, but there is no fear of being punished at home, even if there is no fear of being able to be punished at home.
-
-◼️
-
-[Data](articles/031b11ac.json)
-
-[Extended Data](ext_articles/031b11ac.ext.json)
 
 ---

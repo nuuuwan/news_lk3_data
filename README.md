@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 11:22:23**
+As of **2024-09-15 11:38:10**
 
 ## Newspaper Stats
 
-*Scraped **43,963** Articles*
+*Scraped **43,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,679
 dailyftlk | 2,920
 adalk | 4,062
 dailymirrorlk | 4,733
-adaderanalk | 5,174
+adaderanalk | 5,175
 tamilmirrorlk | 5,714
 virakesarilk | 6,969
 adaderanasinhalalk | 7,523
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,523
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,963 (100.0%) of 43,963 articles have been extended.
+43,964 (100.0%) of 43,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### Two women rescued after being swept away by strong river currents
+
+*2024-09-15 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101988/two-women-rescued-after-being-swept-away-by-strong-river-currents) · `en`
+
+Two women were rescued by police and lifeguards after being swept away by strong river currents while bathing in the Amban Ganga.
+
+The incident had reportedly occurred in the Moragolla area following the opening of the sluice gates at the Bowatenna Reservoir in Naula.
+
+According to reports, the water levels surged unexpectedly, sweeping the two women away while they were bathing in the river. Naula Police had then taken immediate steps to control the water flow from the reservoir and rescued the two women with the help of police lifeguards.
+
+The women, aged 20 and 25, are residents of Kongahawela and Kagama areas, police said.
+
+◼️
+
+[Data](articles/a9025f81.json)
+
+[Extended Data](ext_articles/a9025f81.ext.json)
+
+---
 
 ### Dilith urges to use votes to put an end to ‘politics of thieves’
 
@@ -2227,35 +2247,5 @@ the total commitment. Taking into consideration the prevailing situation, techni
 [Data](articles/a6fb7bb8.json)
 
 [Extended Data](ext_articles/a6fb7bb8.ext.json)
-
----
-
-### Blessing of the Great Browsing to Dilith - "Preserve this Fantastic Land"
-
-*2024-09-14 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201014) · `si`
-
-Here's a 200-character summary:
-
-
-
-Pirith ceremony honors Buddha at Hikkaduwa. Chief monk emphasizes preserving Buddhism and protecting heritage sites. Dilith Jayaweera addresses economic development and reducing inequality.
-
-🟩
-
-A Pirithuru held at Hikkaduwa this morning (14) this morning.
-
-The Chief Incumbent of the Pirinduwatta Bodhiralu Vihara, the chief incumbent of the Pirindu, was asked to reserve the Buddha without forget the Buddha Scheme.
-
-"The presidents constantly meet the big mongo of big temples. I went to the village temples of the village temple. Dhamma schools in the village temple and forget the village sarc. Start from the temple temple. Never forget the Buddha Sasana. It is the asset of one's knowledge. Fulfillment of properties, all you consider all of the country. Do not forget the painting and protect the Ruwanweline, to protect the prison, and protect the pinnappiness, protect the prison, "
-
-Meanwhile, another gathering of the "Dilith Ganga Samaga" series meetings was held at the Kaduruwela Bus Stand.
-
-Dilith Jayaweera stated that he was headed by the exemplantic candidate Dilith Jayaweera and join the universal power for a new journey without deceiving traditional politics.
-
-...
-
-[Data](articles/53d515e1.json)
-
-[Extended Data](ext_articles/53d515e1.ext.json)
 
 ---

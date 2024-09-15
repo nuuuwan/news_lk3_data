@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 17:38:39**
+As of **2024-09-15 17:58:41**
 
 ## Newspaper Stats
 
-*Scraped **44,011** Articles*
+*Scraped **44,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 436
 islandlk | 2,588
 economynextcom | 2,680
 dailyftlk | 2,920
-adalk | 4,063
+adalk | 4,064
 dailymirrorlk | 4,733
 adaderanalk | 5,183
 tamilmirrorlk | 5,725
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,011 (100.0%) of 44,011 articles have been extended.
+44,012 (100.0%) of 44,012 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -489,6 +489,28 @@ Police said the murder had taken place when a husband and wife were attacked by 
 [Data](articles/58f56f85.json)
 
 [Extended Data](ext_articles/58f56f85.ext.json)
+
+---
+
+### Here is the cause of a plane with the President in the Law
+
+*2024-09-15 13:54:01* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සමග-පැමිණි-ගුවන්-යානයක්-හදීසියේ-ගොඩ-බෑමට-හේතුව-මෙන්න/11-411949) · `si`
+
+Plane carrying President lands due to technical issue at Eppawala Police station. No casualties or damage reported.
+
+🟩
+
+An insulated aircraft with President Ranil Wickremesinghe was landed at the Eppawala Police that a flight of Sri Lanka Air Force (SLAF 522) in Eppawala due to a technical prosecution.
+
+The aircraft was built on Eppawala, Quea, Queen of Eppawala, Yaya, 68 canal paddy fields.
+
+The police said that no lives or property damages had been damaged, police said.
+
+◼️
+
+[Data](articles/dc93fd5e.json)
+
+[Extended Data](ext_articles/dc93fd5e.ext.json)
 
 ---
 
@@ -2225,27 +2247,5 @@ The IUATLD has agreed to provide a financial grant of 387,280 U.S. dollars.
 [Data](articles/2aac5d8a.json)
 
 [Extended Data](ext_articles/2aac5d8a.ext.json)
-
----
-
-### Sajith will produce poverty and produce a public era - Sajith
-
-*2024-09-14 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201030) · `si`
-
-Sajith Premadasa promises to end poverty within 2 years, vows to create a public era. He spoke at a rally in Ratnapura, emphasizing his commitment to addressing economic issues.
-
-🟩
-
-The presidential candidate Sajith Premadasa, Sagith Premadasa, says he is committed to producing poverty under a government and to produce a public era.
-
-He was speaking at a rally in Ratnapura today (14).
-
-"To eliminate poverty, the 24-month program a month for 20,000 years a month. We are not as a government to get out of the poverty that he has fallen in the poverty within those two years and finish the money. I declare you all. "
-
-◼️
-
-[Data](articles/c03fce19.json)
-
-[Extended Data](ext_articles/c03fce19.ext.json)
 
 ---

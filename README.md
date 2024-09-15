@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 22:55:37**
+As of **2024-09-15 23:07:38**
 
 ## Newspaper Stats
 
-*Scraped **44,056** Articles*
+*Scraped **44,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ dailymirrorlk | 4,733
 adaderanalk | 5,187
 tamilmirrorlk | 5,733
 virakesarilk | 7,008
-adaderanasinhalalk | 7,541
+adaderanasinhalalk | 7,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,056 (100.0%) of 44,056 articles have been extended.
+44,056 (100.0%) of 44,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### පාර්ලිමේන්තුවේ 150කට වැඩි පිරිසක් ගෙදර යවනවා - අනුර
+
+*2024-09-15 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201061) · `si`
+
+සිය ජයග්‍රහණයෙන් පසු මාස එකහමාරක් ඇතුළත පාර්ලිමේන්තු මැතිවරණය පවත්වන බවත් එහිදී වත්මන් පාර්ලිමේන්තුවේ සිටින මන්ත්‍රීවරුන්ගේ 150කට වැඩි පිරිසකට ඉවත්වීමට සිදුවන බවත් ජාතික ජන බලවේගයේ ජනාධිපතිධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ඔහු මේ බව පැවසුවේ ඊයේ (14) පස්වරුවේ පන්නල නගරයේ පැවති ජනරැලියක් අමතමිනි.
+
+"රනිල් වික්‍රමසිංහ මොන තරම් අවලාද කිව්වත්. සජිත් ප්‍රේමදාස මොන තරම් අසත්‍ය කතා කිව්වත්. තවදුරටත් මේ ව්‍යාපාරයේ ගමන පරාද කරන්න බෑ. දැනගන්න රනිල් සජිත් ඔයාලා පරක්කු වැඩියි. Too late 'දැන් පරක්කුයි. අපි ඉක්මනින්ම පාර්ලිමේන්තුව විසුරුවා හරිනවා. මේ පාර්ලිමේන්තුවේ කුණුහරුප වලින් කෑ ගහනවා. මිනි මරලා හිරේ ගියපු, කප්පම් අරගෙන හිරේ ගියපු ත්‍රාඩයන්ගේ තෝතැන්නක් වෙලා තියෙන්නේ. ඕනේද මේ වගේ පාර්ලිමේන්තු.  මාස එකහමාරක් ඇතුළත මහ ඡන්දේ තියනවා. මේ ඉන්න පාර්ලිමේන්තුවේ 150කට වැඩි පිරිසක් ගෙදර යවනවා. අනිත් හැම එකක්ම සජිත් කොපි කරනවා. මේ ටික කොපි කරන්නේ නෑ."
+
+මේ අතර, ඉදිරි ජනාධිපතිවරණය ඉලක්ක කර ජාතික ජන බලවේගය පවත්වන ජනරැලි මාලාවේ තවත් ජනරැලියක් තලවකැලේ ප්‍රදේශයේ පැවැත්වුණි.
+
+...
+
+[Data](articles/e5037a5e.json)
+
+---
+
+### අපිට නිසි සැලැස්මක් හා වැඩපිළිවෙළක් තියෙනවා - නාමල්
+
+*2024-09-15 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201060) · `si`
+
+තමා ජනපතිවරණ සටනට ඉදිරිපත්ව සිටින්නේ සැලැස්මක් අතැතිව බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+
+ඔහු මේ බව ප්‍රකාශ කළේ අද (15) දහවල් මහියංගනය නගරයේ පැවති ජන රැලියකදීය.
+
+"මම ඔබට ස්තූතිවන්ත වෙනවා. ඔබ වෙනුවෙන් පෙනී සිටින ඔබේ නායකයා එක්ක මාතෘ භූමියේ ජය තහවුරු කරන්න මේ ලබාදෙන සහයෝගයට. අපට දැක්මක් හා සැලැස්මක් තියෙනවා. අපි හුදෙක් මැතිවරණ වලට බලය ලබා ගැනීමට හෝ ඉදිරිපත් වෙනවාට ඉදිරිපත් වන්නේ නැහැ. අපි මැතිවරණයට ඉදිරිපත් වන්නේ දිනන්න. දිනලා රට හදන්න. අපිට නිසි සැලැස්මක් හා වැඩපිළිවෙළක් තියෙනවා"
+
+◼️
+
+[Data](articles/c29b350a.json)
+
+---
 
 ### Sajith says power division
 
@@ -2221,53 +2255,5 @@ Candidates contesting the presidential election from the south are decorating th
 [Data](articles/19fafacb.json)
 
 [Extended Data](ext_articles/19fafacb.ext.json)
-
----
-
-### Threatening the life of Tin's TV Chancellor
-
-*2024-09-15 10:17:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டின்சின்-த-வி-அதிபரின்-உயிருக்கு-அச்சுறுத்தல்/76-343769) · `ta`
-
-Tin's TV Chancellor threatened by Bogawantalawa Tinsin Tamil Vidyalaya students. Police complaint filed. President Prabhakaran criticized students' actions. School administration seeks transfer due to threats. Research conference held despite opposition. Meeting planned against school administration.
-
-🟩
-
-It has been revealed that many sides have been threatened by many sides of Bogawantalawa Tinsin Tamil Vidyalaya.
-
-This is in connection. The Chancellor, who has lodged a complaint at the Bogawantalawa police station, has taken the notice of the Hatton Kotakkal Education Office and the Sri Lanka Teachers Union.
-
-It is also alleged that President Prabhakaran has used hard words and the most ridiculous words when condemning the students.
-
-The Chancellor has spoken to some students with a group of students engaged in illegal activities in the area. After the students and their parents brought to the notice of the Hatton Education Zone Director, some of the students who visited the school have handed over letters to bring them to a smooth environment for the Chancellor.
-
-The Director who bought them said that this is the election period and action will be taken after the election.
-
-Voice posts have been shared on social Facebook to threaten the Chancellor.
-
-...
-
-[Data](articles/c01d5efa.json)
-
-[Extended Data](ext_articles/c01d5efa.ext.json)
-
----
-
-### 19 Indian fishermen repatriated from Sri Lanka, reach Chennai
-
-*2024-09-15 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101986/19-indian-fishermen-repatriated-from-sri-lanka-reach-chennai) · `en`
-
-Nineteen Indian fishermen who were released from the custody of Sri Lanka reached Chennai, a statement by Indian Embassy in Sri Lanka said.
-
-The statement came on Friday as fishermen community and the villagers in Tharuvaikulam of Tamil Nadu’s Thoothukudi district staged a one-day hunger strike on Monday demanding the release of 22 fishermen “arrested” by the Sri Lankan Navy.
-
-In a post on X, Indian Embassy in Sri Lanka stated, “Returning home to India! 19 Indian fishermen have been safely repatriated from Sri Lanka and are on their way back to Chennai.”
-
-Speaking to ANI, Murugan, one of the protestors, urged the central and state governments to cancel the fine imposed by the court on the fishermen and facilitate the recovery of two powerboats seized by the Sri Lankan Navy along with the release of 22 fishermen.
-
-...
-
-[Data](articles/04ad5e28.json)
-
-[Extended Data](ext_articles/04ad5e28.ext.json)
 
 ---

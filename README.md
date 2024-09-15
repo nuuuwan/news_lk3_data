@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 14:22:27**
+As of **2024-09-15 14:37:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-43,988 (100.0%) of 43,989 articles have been extended.
+43,989 (100.0%) of 43,989 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Furthermore, Rajapaksa outlined his focus on the agricultural sector, underscori
 ...
 
 [Data](articles/d5854b63.json)
+
+[Extended Data](ext_articles/d5854b63.ext.json)
 
 ---
 

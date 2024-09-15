@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 16:22:19**
+As of **2024-09-15 16:37:58**
 
 ## Newspaper Stats
 
-*Scraped **44,006** Articles*
+*Scraped **44,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,65 @@ dailymirrorlk | 4,733
 adaderanalk | 5,182
 tamilmirrorlk | 5,725
 virakesarilk | 6,984
-adaderanasinhalalk | 7,530
+adaderanasinhalalk | 7,531
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,005 (100.0%) of 44,006 articles have been extended.
+44,007 (100.0%) of 44,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
 
-### අගමැති මෝදිගේ දීප් ජෝති
+### What if a candidate promotes another candidate
+
+*2024-09-15 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201048) · `si`
+
+Candidate promoting another violates election rules. Election Commission states it's illegal. Candidate and promoter face penalties.
+
+🟩
+
+The Elections Commission says that it is illegal to promote another candidate for a presidential election.
+
+In a statement, the Commission says that a candidate has handed over the nominations for the presidential election.
+
+It has also received complaints regarding the promotion of candidates.
+
+According to the Elections Commission, the candidate and the candidate who promotes the promotion as well as the candidate who promotes the promotion as well as the promotional candidate will be promoted.
+
+◼️
+
+[Data](articles/3813b65a.json)
+
+[Extended Data](ext_articles/3813b65a.ext.json)
+
+---
+
+### Prime Minister Modi's pet depephant
 
 *2024-09-15 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201047) · `si`
 
-නවදිල්ලි නුවර පිහිටි ඉන්දීය අගමැති මෝදිගේ ලෝක් කල්යාන් මාග් නිල නිවසේ උපත ලැබූ වසු පැටවා සමග අගමැති මෝදි කාලය ගතකරන අයුරු ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+Here's a 200-character summary:
 
-වසු පැටවාගේ හිසෙහි දක්නට ලැබෙන සුදු පැහැ සලකුණ හේතුවෙන්, ආලෝකයේ සංකේතය යන අර්ථයෙන් "දීප්ජෝති" ලෙස නම් තබා ඇති බව වාර්තා වේ.
 
-අගමැති මෝදි "දීප් ජෝති" පිළිබඳව සිය නිල X ගිණුමේ ද සටහනක් පළකර තිබුණි.
+
+Prime Minister Modi's pet elephant calf named Deepjyoti. In New Delhi, Modi shares photos of the calf with white markings. He posts updates on his official X account about Deepjyoti's growth and antics.
+
+🟩
+
+Indian Prime Minister Modhi, Modhi, in New Delhi, has reported how to spend time with the calf with the calf of the Maj of Maj.
+
+It is reported that the white mark found in the calves of the calf, is said to be "Deepjothy" in the sense of light.
+
+Prime Minister Modi had published his official X account of "Deep Geothi".
 
 ◼️
 
 [Data](articles/d6cc2f53.json)
+
+[Extended Data](ext_articles/d6cc2f53.ext.json)
 
 ---
 
@@ -2199,37 +2233,5 @@ The presidential election, which takes place at a major moment, will play an imp
 [Data](articles/3b988763.json)
 
 [Extended Data](ext_articles/3b988763.ext.json)
-
----
-
-### Differences introduced to Sri Lankan politics
-
-*2024-09-14 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201028) · `si`
-
-Dilith Jayaweera introduces strategic plan for Sri Lankan presidency, promising economic changes and debt repayment.
-
-🟩
-
-Dilith Entrepreneurship Dilith Jayaweera says that he has the first strategic plan on the presidential election after independence in Sri Lankan politics.
-
-He was speaking at a public enlaint held in the Akisa area in Matara today (14).
-
-"There are four now, 4 policy publications have been shot. But that one is nominated, no centered program.. Your life is changing. "
-
-"But how your life is changing in the program we present. The change is scientifically and logged in how it will take place. "
-
-"This is not a promived. The first chance in Sri Lanka after the independence of Sri Lankan politics, the first chance of a presidential election. "
-
-This is not a promised sheet of Sri Lankan politics, the first chaired program in Sri Lanka after independence of Sri Lanka. "
-
-Mr. Jayaweera was also present at a familiarity in the Balapitiya area in Galle.
-
-Speaking on, he said that the country was the contents of its strategy plan.
-
-...
-
-[Data](articles/6736c600.json)
-
-[Extended Data](ext_articles/6736c600.ext.json)
 
 ---

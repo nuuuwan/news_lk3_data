@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-15 18:40:39**
+As of **2024-09-15 18:57:04**
 
 ## Newspaper Stats
 
-*Scraped **44,025** Articles*
+*Scraped **44,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,680
 dailyftlk | 2,920
 adalk | 4,064
 dailymirrorlk | 4,733
-adaderanalk | 5,183
-tamilmirrorlk | 5,727
+adaderanalk | 5,184
+tamilmirrorlk | 5,729
 virakesarilk | 6,994
 adaderanasinhalalk | 7,535
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 7,535
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,025 (100.0%) of 44,025 articles have been extended.
+44,028 (100.0%) of 44,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-15 (Sunday)
+
+### "Problem with dissolving Ranil Parliament"
+
+*2024-09-15 18:32:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-பாராளுமன்றத்தைக்-கலைத்தால்-சிக்கல்/175-343797) · `ta`
+
+Ranil Wickremesinghe warns dissolving Parliament post-election could harm Sri Lanka. NPP counters, saying dissolution would be unethical and undemocratic.
+
+🟩
+
+President Ranil Wickremesinghe has said that if Parliament is dissolved after the presidential election, the constitutional arrangements have been made to rule the new presidential country and will have adverse consequences for the people and the country.
+
+However, at the National People's Power (NPP) media briefing, the transfer of power to the new president elected within the democratic structure should be democratically without a negative effect on the people.
+
+Responding to a question raised by the Prime Minister's speculation that the president would dissolve parliament on September 21 after the presidential election.
+
+Kumarapperuma said that the president had the power to dissolve parliament at any time, and that it would be very dishonest if it did so at this moment.
+
+“The President can dissolve parliament at any time on the basis of the Constitution. There are many rules in such a situation for the new president. However, it can have serious consequences.
+
+...
+
+[Data](articles/3a98715d.json)
+
+[Extended Data](ext_articles/3a98715d.ext.json)
+
+---
+
+### US updates Sri Lanka travel advisory ahead of presidential election
+
+*2024-09-15 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102000/us-updates-sri-lanka-travel-advisory-ahead-of-presidential-election-) · `en`
+
+The United States’ Department of State has updated its travel advisory for Sri Lanka urging citizens to exercise caution in view of the upcoming presidential election.
+
+The advisory highlights that since Sri Lanka is set to hold presidential elections on September 21, 2024, demonstrations could occur before, during, or after the election.
+
+“In some instances, police have used water cannons and tear gas to disperse protesters. U.S. citizens are reminded to avoid all gatherings, even peaceful ones, as such gatherings can turn violent with little or no warning”, it stated.
+
+Furthermore, the US State Department has advised citizens traveling to Sri Lanka during this period to be aware of surroundings when traveling to tourist locations and crowded public venues, follow the instructions of local authorities, monitor local media for breaking events and adjust your plans based on new information and to avoid demonstrations and crowds.
+
+...
+
+[Data](articles/4876324e.json)
+
+[Extended Data](ext_articles/4876324e.ext.json)
+
+---
 
 ### We will definitely improve the livelihood of the people of the hill plantation;They too can live in this country - Anuragumara in Talawakelle
 
@@ -113,6 +159,28 @@ Meanwhile, the District Election Complaint Management Center has received 30 com
 [Data](articles/8da45eab.json)
 
 [Extended Data](ext_articles/8da45eab.ext.json)
+
+---
+
+### Water supply for two days
+
+*2024-09-15 18:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-நாட்கள்-நீர்-விநியோகம்-தடை/175-343796) · `ta`
+
+Kandy: NWSDB warns of 2-day water disruption starting Sept 28. Normal service resumes Sept 30 at 6 PM. Residents advised to stock up.
+
+🟩
+
+The National Water Supply and Drainage Board (NWSDB) said that water supply will be disrupted for two days from September 28 in many parts of Kandy.
+
+The distribution will be returned to normal at 6.00 pm on September 30, as the water is dragged into the Polkolla Drama Dam by the Mahaweli Authority.
+
+Therefore, consumers in the area are asked to store enough water to manage their needs during these two days.
+
+◼️
+
+[Data](articles/6465fb0c.json)
+
+[Extended Data](ext_articles/6465fb0c.ext.json)
 
 ---
 
@@ -2213,51 +2281,5 @@ This is a press statement from the only Ministry that is established for conserv
 [Data](articles/7e54d64a.json)
 
 [Extended Data](ext_articles/7e54d64a.ext.json)
-
----
-
-### The Potential Impact of a Clean, Development-Focused Government on Sri Lanka’s Stock Market
-
-*2024-09-15 01:49:00* · [`islandlk`](http://island.lk/the-potential-impact-of-a-clean-development-focused-government-on-sri-lankas-stock-market/) · `en`
-
-As Sri Lanka navigates through a complex political and economic environment, the need for a shift in governance has become more apparent. After years of economic challenges, corruption scandals, and political instability, the prospect of a political party coming to power with a commitment to zero corruption and high development potential is both timely and crucial. In the context of Sri Lanka’s current situation, such a transition could have far-reaching effects on the stock market, potentially leading to increased investor confidence, economic recovery, and long-term growth.
-
-...
-
-[Data](articles/eaea3139.json)
-
-[Extended Data](ext_articles/eaea3139.ext.json)
-
----
-
-### HIP: the region’s Port of Choice for ship repairs and layups
-
-*2024-09-15 01:46:00* · [`islandlk`](http://island.lk/hip-the-regions-port-of-choice-for-ship-repairs-and-layups/) · `en`
-
-There has been an exponential increase in the number of vessels arriving at Hambantota International Port (HIP) for repairs and layups this year, marking a significant boost in its operational growth. From January to August 2024, the port hosted 23 vessels for these services, a remarkable 53% increase compared to the 15 vessels during the same period in 2023. Two vessels arrived in August alone, while a 3rd which had a 7 month layup at the port concluded its repairs in the same month, an HIP news release said.
-
-Charaka Rupasinghe, Deputy General Manager – Marine Services and Fleet Management at HIP, says, “This particular market in port services is highly competitive and we already have several operators with different expertise offering their services from Hambantota International Port.
-
-...
-
-[Data](articles/a19d8423.json)
-
-[Extended Data](ext_articles/a19d8423.ext.json)
-
----
-
-### HNB Ja-Ela customer centre relocates to new facility
-
-*2024-09-15 01:46:00* · [`islandlk`](http://island.lk/hnb-ja-ela-customer-centre-relocates-to-new-facility/) · `en`
-
-Extending banking facilities to satisfy growing customer demand, HNB PLC, recently ceremonially opened the doors of its new state-of-the-art customer centre at 73 Negombo Road, Ja-Ela, the bnk said in a news release.
-
-“The new relocated Ja-Ela customer centre will cater to the growing needs of businesses and residents in the area. The customer centre was inaugurated by HNB Acting CEO Damith Pallewatte, Ja- Ela Divisional Secretary Asiri Weerasekere, Secretary Ja-Ela Unban Council Dilini Thushara, HNB Assistant General Manager, Network Business Supun Dias, HNB Assistant General Manager Servicers Indrajith Senadhira HNB Regional Business Head- North-Western Region, Sohan Fernando and senior bank representatives,” it said.
-
-...
-
-[Data](articles/eacfd961.json)
-
-[Extended Data](ext_articles/eacfd961.ext.json)
 
 ---

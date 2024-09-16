@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 09:23:54**
+As of **2024-09-16 09:38:44**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,549
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,102 (100.0%) of 44,110 articles have been extended.
+44,108 (100.0%) of 44,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
 
-### රාගම දුම්රිය ස්ථානය ආසන්නයේ පිලී පැනීමක්
+### A chapter near Ragama Railway Station
 
 *2024-09-16 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201069) · `si`
 
-මහව හන්දිය සිට කොළඹ කොටුව දක්වා ධාවනය වූ සීඝ්‍රගාමී දුම්රියක් රාගම දුම්රිය ස්ථානය ආසන්නයේ දී පිලී පැනීමකට ලක්ව තිබේ.
+Train delay due to diversion near Ragama station affects Colombo-bound trains. Main line service disrupted. All trains passing through Ragama will be delayed.
 
-මේ හේතුවෙන් ප්‍රධාන දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී තිබේ.
+🟩
 
-දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේ රාගම හන්දිය පසුකර ධාවනය වීමට නියමිත දුම්රිය සියල්ල ප්‍රමාද වී ධාවනය වන බවයි.
+A train from Mahawa Junction to Colombo Fort has become an arrangement near Ragama Railway Station.
+
+As a result, the train on the main railway line has been interrupted.
+
+The Railway Department stated that all the train to run through Ragama junction will be late.
 
 ◼️
 
 [Data](articles/7c4f6e99.json)
+
+[Extended Data](ext_articles/7c4f6e99.ext.json)
 
 ---
 
@@ -94,23 +100,31 @@ The Commissioner General of Rehabilitation has informed the Ministry of Justice,
 
 ---
 
-### தேர்தலன்று ஊரடங்குச் சட்டம் அமுலாகுமா?
+### Will the curfew be enacted on the election?
 
 *2024-09-16 08:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலன்று-ஊரடங்குச்-சட்டம்-அமுலாகுமா/175-343833) · `ta`
 
-தேர்தல் தினத்தன்று ஊரடங்குச் சட்டத்தை அமுல்படுத்தும் திட்டம் தற்போதைக்கு இல்லை என்றும், சகல பாதுகாப்பு நடவடிக்கைகளும் அமுலில் உள்ளதாகவும், தேவைப்பட்டால் ஆயுதப்படைகள் தயார் நிலையில் இருப்பதாகவும் பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+Curfew not planned for election day: Ministry of Public Security. Police and STF to conduct security measures. Armed forces ready to assist if needed. No curfew implementation until after voting on September 21. President holds final decision on curfew. Over 500 election rallies held without major incidents. Police efforts focus on ensuring independent and fair elections.
 
-பொது பாதுகாப்பு அமைச்சின் செயலாளர் வியானி குணதிலக்க டெய்லி மிரருக்குத் தெரிவித்ததாவது, தேர்தல் காலத்தில் பொலிஸாரும் விசேட அதிரடிப்படையினரும் (STF) பாதுகாப்பு நடவடிக்கைகளை முன்னெடுப்பார்கள். தேவைப்பட்டால் பொலிஸிற்கு ஆதரவாக முப்படையினரும் தயார் நிலையில் உள்ளனர்.
+🟩
 
-செப்டெம்பர் 21 ஆம் திகதி வாக்களிப்பதன் பின்னர் ஊரடங்குச் சட்டம் அமுல்படுத்தப்படுமா என வினவியபோது, ​​ஊரடங்குச் சட்டத்தை அமுல்படுத்துவதற்கான ஏற்பாடுகள் எதுவும் இல்லை என குணதிலக்க தெரிவித்தார்.
+The Ministry of Public Security has said that there is no plan to implement the curfew on the day of Elections, and that all security measures are in effect and that the armed forces are ready if needed.
 
-ஊரடங்குச் சட்டத்தை அமுல்படுத்தும் தீர்மானம் ஜனாதிபதியிடம் மாத்திரமே உள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+Secretary to the Ministry of Public Security Viani Gunathilaka told the Daily Mirror that the police and the Special Task Force (STF) will carry out security measures during the election period.. The armed forces are also ready to support the police if needed.
 
-பாரிய அசம்பாவிதங்கள் எதுவுமின்றி இதுவரை நாடு முழுவதும் 500க்கும் மேற்பட்ட தேர்தல் பேரணிகள் நடத்தப்பட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+Gunathilaka said that there were no arrangements to implement the curfew, when the curfew would be implemented after voting on September 21.
 
-...
+He added that the president only has a decision to implement the curfew.
+
+He noted that more than 500 election rallies have been held across the country without any massive incidents.
+
+He added that the police continue to make their efforts to ensure the independent and fair election.
+
+◼️
 
 [Data](articles/b6945f96.json)
+
+[Extended Data](ext_articles/b6945f96.ext.json)
 
 ---
 
@@ -134,67 +148,103 @@ In his message for Milad-un-Nabi, the President extended his heartfelt wishes to
 
 ---
 
-### ’மாற்றங்களுக்காக பலிக்கடாக்களாக்காதீர்’
+### Do not sacrifice for telephone changes
 
 *2024-09-16 08:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றங்களுக்காக-பலிக்கடாக்களாக்காதீர்/175-343830) · `ta`
 
-பொருளாதாரத்தை மீதப்படுத்துவதற்காக பாராளுமன்ற உறுப்பினர்களின் ஓய்வூதியத்தை நிறுத்தப்போவதாகக் கூறும் தேசிய மக்கள் சக்தி, தங்களது அரசியல் மேடைகளுக்காக கோடிக்கணக்கான ரூபாக்களை செலவிடுவதாக அகில இலங்கை மக்கள் காங்கிரஸ் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் தெரிவித்தார்.
+Here's a 200-character summary:
 
-ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவை ஆதரித்து, களுத்துறை மாவட்டத்தின் பேருவளை, தர்கா நகர், அடுழுகமை மற்றும் பாணந்துறை ஆகிய பிரதேசங்களில் வெள்ளிக்கிழமை (13)  இடம்பெற்ற பிரச்சாரக் கூட்டங்களில் உரையாற்றிய அவர் மேலும் தெரிவித்ததாவது;
+
+
+Ceylon People's Congress leader Rishad Bathiudeen criticizes Gotabhaya Rajapakse, supports Sajith Premadasa. Promises to combat corruption, reduce MP pensions. Emphasizes unity across ethnic groups in United People's Power alliance.
+
+🟩
+
+All Ceylon People's Congress leader and parliamentarian Rishad Bathiudeen said the national people's power, which claims to stop the pension of MPs to resolve the economy, will spend millions of rupees for their political platforms.
+
+Speaking at the campaign meetings held on Friday (13) in the areas of Beruwala, Dharga Nagar, Aduzhakkam and Panadura in the Kalutara district, supporting the presidential candidate of the United People's Alliance Sajith Premadasa on Friday (13).
+
+“We told you not to vote for Gotabhaya Rajapakse. Some people voted for him not to trust us. He was not able to rule effectively, not even a member of the Pradeshiya Sabha. People's struggle erupted due to the economic crisis. He invited Sajith Premadasa to take over the regime. However, under the leadership of Gotabhaya, Sajith refused to take the post of Prime Minister. Sajith made the decision to consult the parties in his team.
 
 ...
 
 [Data](articles/926e047b.json)
 
+[Extended Data](ext_articles/926e047b.ext.json)
+
 ---
 
-### சிறுபான்மைச் சமூகத்தவர் பிரதமராகும் வாய்ப்பு
+### The chance of the minority community to become prime minister
 
 *2024-09-16 08:15:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுபான்மைச்-சமூகத்தவர்-பிரதமராகும்-வாய்ப்பு/175-343829) · `ta`
 
-இந்த நாட்டில் இனியும் சிறுபான்மைச் சமூகத்தைச் சேர்ந்த ஒருவர் பிரதம மந்திரியாக வர முடியாது என்ற கருத்துக்கு முற்றுப் புள்ளி வைக்கின்ற காலம் நெருங்கிக் கொண்டிருக்கிறது, அதையும் நாங்கள் இறைவன் உதவியால் எங்கள் அரசியல் சரித்திரத்தில் சாதித்துக் காட்டுவோம். ஆட்சியையும் அந்தஸ்தையும் அடைந்து கொள்வதில் எந்த சிரமமும் இருக்கப் போவதில்லை என  வடமேல் மாகாண ஆளுநர் செய்னுலாப்தீன் ஆலிம் நஸீர் அஹமட் தெரிவித்தார்.
+Here's a 200-character summary:
 
-எதிர்வருகின்ற ஜனாதிபதித் தேர்தலில் தற்போதைய ஜனாதிபதி  ரணில் விக்கிரமசிங்ஹவை ஆதரித்து ஏறாவூரில் சனிக்கிழமை (21)    இடம்பெற்ற மாபெரும் பொதுக் கூட்டத்தில் அவர் உரையாற்றினார்.
 
-தமிழ் முஸ்லிம் சிங்கள சமூகங்களைச் இளைஞர்கள் உட்பட பெரும் எண்ணிக்கையிலான  ஆதரவாளர்கள் கலந்து கொண்ட கூட்டத்தில் அவர் உரையாற்றினார்.
+
+Minority community may become PM soon, says NW Governor. Emphasizes equal rights for all citizens. Supports Ranil Wickremesinghe for presidency. Aims to end racism and religious discrimination in Sri Lanka.
+
+🟩
+
+The time is coming to an end to the notion that a minority community cannot become prime minister, and we will achieve our political history with the help of the Lord.. Governor of the North Western Province, Sinulabdeen Alim Nasir Ahmad, said there would be no difficulty in achieving the rule and status.
+
+He addressed a massive public meeting held in Eravur on Saturday (21) in support of the current presidential election in support of Ranil Wickremesinghe.
+
+He addressed a meeting attended by a large number of supporters, including the youth of the Tamil Muslim Sinhala communities.
 
 ...
 
 [Data](articles/692cb6a6.json)
 
+[Extended Data](ext_articles/692cb6a6.ext.json)
+
 ---
 
-### ’அபாயத்திலிருந்து முழுமையாக விடுபடவில்லை’
+### The number is not completely free from the risk
 
 *2024-09-16 08:06:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபாயத்திலிருந்து-முழுமையாக-விடுபடவில்லை/175-343828) · `ta`
 
-இலங்கை இதுவரை பயணித்த பாதையில் பல முன்னேற்றங்களை அடைந்துள்ளது. ஆனாலும் நாடு இன்னும் பொருளாதார ஆபத்தில் இருந்து மீளவில்லை என்றும் சிரமங்களுக்கு மத்தியில் கிடைத்த வெற்றிகளைப் பாதுகாப்பது முக்கியம் என்றும் குறிப்பிடும் சர்வதேச நாணய நிதியத்தின் (IMF) தொடர்பாடல் திணைக்களத்தின் பணிப்பாளர் ஜூலி கொசெக் (Julie Kozack), அதனை எதிர்வரும் தேர்தலில் இலங்கை மக்கள் தீர்மானிக்க வேண்டும் எனவும் தெரிவித்துள்ளார் என ஜனாதிபதி ஊடகப் பிரிவு அறிவித்துள்ளது.
+Sri Lanka's economic recovery progress noted but risks remain. IMF Director emphasizes need for continued efforts post-election. Program achievements crucial for full recovery from historical crisis. Third review discussion planned after presidential election.
 
-வரலாற்றில் ஏற்பட்டுள்ள மோசமான நெருக்கடியிலிருந்து இலங்கைக்கு மீள்வதற்கான வாய்ப்பை வழங்க இந்த வேலைத்திட்டத்தின் இலக்குகளை அடைவது மிகவும் முக்கியமானது என்றும்  ஜூலி கொசெக் (Julie Kozack) கூறியுள்ளார்.
+🟩
 
-சர்வதேச நாணய நிதியத்தின் தொடர்பாடல் திணைக்களத்தின் பணிப்பாளர்  ஜூலி கொசெக் (Julie Kozack) கடந்த 12 ஆம் திகதி நடைபெற்ற சர்வதேச நாணய நிதியத்தின் ஊடகவியலாளர் சந்திப்பில் இதனைத் தெரிவித்தார். அங்கு மேலும் கருத்துத் தெரிவித்த அவர்,
+Sri Lanka has made many improvements on the road traveled so far. However, the Director of the International Monetary Fund (IMF) Communications Department, Julie Kozack, has announced that the Sri Lankan people should decide in the upcoming election, noting that the country has not yet recovered from economic danger and protecting the successes.
+
+Julie Kozack said it was very important to achieve the goals of the program to provide the opportunity to recover from the worst crisis in history.
+
+Julie Kozack, Director of the International Monetary Fund Department, said this at a media briefing of the International Monetary Fund held on the 12th of last month.. He further commented that he said,
+
+“On June 12, our Executive Committee has completed the second value of the program relating to the consultation and extended credit facilities (EFF) being carried out under Article 2024 IV.. Sri Lanka has been released to $ 336 million.
 
 ...
 
 [Data](articles/e2a2bc04.json)
 
+[Extended Data](ext_articles/e2a2bc04.ext.json)
+
 ---
 
-### ரணிலை சாடுகிறார் மனோ
+### Mano
 
 *2024-09-16 08:01:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சாடுகிறார்-மனோ/175-343827) · `ta`
 
-SJB தலைவர் சஜித் பிரேமதாச சர்வதேச நாணய நிதியத்தின் ஆதரவைப் பெறமாட்டார் என ஜனாதிபதி ரணில் விக்கிரமசிங்க அண்மையில் வெளியிட்ட கூற்றை பாராளுமன்ற உறுப்பினர் மனோ கணேசன் கடுமையாக விமர்சித்துள்ளார்.
+Parliamentarian Mano Ganesan criticizes President Ranil Wickremesinghe's claim about SJB leader Sajith Premadasa's IMF support. Wickremesinghe emphasizes importance of IMF contracts, stating changes impossible according to Sajith and Anura.
 
-விக்கிரமசிங்க சர்வதேச நிதி நிறுவனங்களைக் கையாளும் திறன் கொண்ட ஒரேயொரு பொருளாதார நிபுணராக தன்னை நிலைநிறுத்திக் கொள்வதாகக் குற்றம் சாட்டிய கணேசன், குடிமக்களை தவறாக வழிநடத்தும் அவநம்பிக்கையான முயற்சியே இந்தக் கருத்துக்கள் என அவர் சாடினார்.
+🟩
 
-ஹொரணை பொது விளையாட்டரங்கில் நேற்று (15) பிற்பகல் நடைபெற்ற “” ரணில் இயலும் வெற்றிப் பேரணியின் போது சர்வதேச நாணய நிதியத்துடன் (IMF) செய்து கொள்ளப்பட்ட ஒப்பந்தங்களை நிலைநிறுத்துவதன் முக்கியத்துவத்தை ரணில் வலியுறுத்தினார்.
+Parliamentarian Mano Ganesan has strongly criticized President Ranil Wickremesinghe's recent claim that SJB leader Sajith Premadasa will not get the support of the International Monetary Fund.
 
-சஜித் மற்றும் அனுரவின் கூற்றுக்கு ஏற்ப இந்த உடன்படிக்கைகளை மாற்றியமைப்பது சாத்தியமில்லை என ஜனாதிபதி அப்போது தெரிவித்தமை குறிப்பிடத்தக்கது.
+Ganesan, who accused Wickremesinghe of establishing himself as the only economist who is capable of dealing with international financial institutions, said that these comments were a desperate attempt to mislead the citizens.
+
+Ranil emphasized the importance of establishing contracts with the IMF during the Ranil's Victory rally held at the Horana Public Stadium yesterday afternoon.
+
+It is noteworthy that the President then stated that it is not possible to change these agreements in accordance with Sajith and Anura.
 
 ◼️
 
 [Data](articles/abace8e8.json)
+
+[Extended Data](ext_articles/abace8e8.ext.json)
 
 ---
 

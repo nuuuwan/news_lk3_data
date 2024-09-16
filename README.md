@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 10:38:18**
+As of **2024-09-16 10:57:06**
 
 ## Newspaper Stats
 
-*Scraped **44,119** Articles*
+*Scraped **44,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,681
 dailyftlk | 2,920
-adalk | 4,068
+adalk | 4,069
 dailymirrorlk | 4,733
-adaderanalk | 5,194
+adaderanalk | 5,195
 tamilmirrorlk | 5,750
-virakesarilk | 7,023
+virakesarilk | 7,025
 adaderanasinhalalk | 7,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,119 (100.0%) of 44,119 articles have been extended.
+44,123 (100.0%) of 44,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Elephant tears in Majma!
+
+*2024-09-16 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193821) · `ta`
+
+Elephant cries in Majma Nagar. Wildlife officials treating injured elephant.
+
+🟩
+
+An elephant is in tears in the Majma Nagar area of ​​the West Ottamavadi Divisional Secretariat Division of Koralaipattu.
+
+The President of the Majma Nagar Rural Development Association, AL Sameem, has been brought to the notice of wildlife officials on Monday (16).
+
+Wildlife officials are taking steps to treat the elephant who is unable to walk.
+
+◼️
+
+[Data](articles/71101826.json)
+
+[Extended Data](ext_articles/71101826.ext.json)
+
+---
+
+### No intention to announce a curfew - Ministry of Public Safety
+
+*2024-09-16 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/193818) · `ta`
+
+Ministry denies curfew plans for election day. Security measures in place. Police and special forces ready to assist. No election-related violence reported so far in Tamil Nadu.
+
+🟩
+
+The Ministry of Public Security has said that there is no intention of proclaiming curfew on election day.
+
+All security measures have been taken.
+
+The security forces will be prepared to help the police and the Special Task Force.
+
+The President has the authority to decide on this, we have given the necessary orders on the presidential election security, ”he said.
+
+So far, 500 election campaign meetings have not taken place in Tamil Nadu, there has been no violence.
+
+◼️
+
+[Data](articles/927268ea.json)
+
+[Extended Data](ext_articles/927268ea.ext.json)
+
+---
+
+### Typhoon hits Shanghai with 94-mph winds after 400,000 people were evacuated
+
+*2024-09-16 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102011/typhoon-hits-shanghai-with-94-mph-winds-after-400000-people-were-evacuated) · `en`
+
+The strongest typhoon to hit Shanghai since at least 1949 made landfall early Monday with powerful winds and heavy rains after more than 400,000 people were evacuated.
+
+Flights, ferries and train services were suspended in the megacity and in neighboring provinces, disrupting travel during China’s three-day Mid-Autumn Festival. Shanghai’s airports canceled hundreds of flights starting Sunday and through Monday, while in Hangzhou, about 170 kilometers (106 miles) southwest of Shanghai, authorities were also planning to cancel more than 180 flights.
+
+More than 60,000 emergency responders and firefighters were at hand to lend aid in Shanghai, according to state media. More than 414,000 people had been evacuated by Monday.
+
+Bebinca made landfall around 7:30 a.m. in the sprawling Pudong business district with maximum winds of 151 kph (94 mph) near its center. Authorities expected the typhoon would also affect the nearby provinces of Zhejiang, Jiangsu and Anhui.
+
+...
+
+[Data](articles/06a6513e.json)
+
+[Extended Data](ext_articles/06a6513e.ext.json)
+
+---
 
 ### Trains delayed on main line due to derailment
 
@@ -47,6 +115,26 @@ The Railway Department stated that all trains scheduled to pass through Ragama J
 [Data](articles/15703f7f.json)
 
 [Extended Data](ext_articles/15703f7f.ext.json)
+
+---
+
+### Train train accident obstructions
+
+*2024-09-16 09:59:22* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියක්-අනතුරට-ලක්වීමෙන්-ප්‍රධාන-මාර්ගයේ-දුම්රිය-ධාවනයට-බාධා/11-411954) · `si`
+
+Train derailment halted: Main road obstruction; Derailment caused by nearby speeding train near Ragama Railway Station.
+
+🟩
+
+Train train derailment has been interrupted due to the main road.
+
+The train is deracted due to a rapid train near Ragama Railway Station.
+
+◼️
+
+[Data](articles/80b5625f.json)
+
+[Extended Data](ext_articles/80b5625f.ext.json)
 
 ---
 
@@ -2215,93 +2303,5 @@ There were losses on both sides in the war. To carry out formal inquiries and en
 [Data](articles/68fa53e6.json)
 
 [Extended Data](ext_articles/68fa53e6.ext.json)
-
----
-
-### The strength of the second
-
-*2024-09-15 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/193751) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ranil Wickremesinghe met a Tamil Nadu Party general candidate. The purpose might be to gain second preference votes, indicating weakness in his campaign strategy.
-
-🟩
-
-Ranil Wickremesinghe's meeting with the general candidate in the Tamil Nadu Party may be aimed at getting the second preferential votes.. Because it will express their weakness.
-
-◼️
-
-[Data](articles/7e519dd5.json)
-
-[Extended Data](ext_articles/7e519dd5.ext.json)
-
----
-
-### The challenges of the country and the presidential election
-
-*2024-09-15 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193771) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Country challenges and presidential elections: History shows nations led by individuals often fail. Decision-making under single rule can be detrimental to national progress and stability.
-
-🟩
-
-To make decisions when ruled by a country. The entire world history testifies that all the countries that are dominated by the individual have been destroyed.
-
-◼️
-
-[Data](articles/4c98dfdb.json)
-
-[Extended Data](ext_articles/4c98dfdb.ext.json)
-
----
-
-### Blank promises of Muslim politicians
-
-*2024-09-15 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193747) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"JVP leader Anura Kumara Dissanayake's campaign focuses on eradicating corruption and arresting corrupt officials. His revolutionary message resonates strongly with youth."
-
-🟩
-
-If the JVP leader and the presidential candidate of the National People's Power, Anura Kumara Dissanayake, who is spreading a major revolution among the youth, is a major revolution with the main slogan that the country will eradicate corruption and the arrest of the country's property, and the arrest of the country's property.The VP was the main reason.
-
-◼️
-
-[Data](articles/b4843b84.json)
-
-[Extended Data](ext_articles/b4843b84.ext.json)
-
----
-
-### Kilinochchi: Saying Sethi!
-
-*2024-09-15 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193773) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Douglas Devananda led Eelam People's Democratic Party in 2010 Sri Lanka elections. He focused on recapturing Kilinochchi during the war. His political strategy aimed to strengthen his party's position in the region.
-
-🟩
-
-Minister Douglas Devananda, who was involved in the 2010 parliamentary elections on behalf of his Eelam People's Democratic Party in the 2010 parliamentary elections, was in the process of recovering the weaker Kilinochchi district in the war, and he was in the midst of his self -politics.He had come to the conclusion of the handling.
-
-◼️
-
-[Data](articles/46d365c2.json)
-
-[Extended Data](ext_articles/46d365c2.ext.json)
 
 ---

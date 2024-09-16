@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 13:57:52**
+As of **2024-09-16 14:11:42**
 
 ## Newspaper Stats
 
-*Scraped **44,151** Articles*
+*Scraped **44,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,683
 dailyftlk | 2,920
-adalk | 4,073
+adalk | 4,074
 dailymirrorlk | 4,733
 adaderanalk | 5,199
 tamilmirrorlk | 5,752
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,150 (100.0%) of 44,151 articles have been extended.
+44,152 (100.0%) of 44,152 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -222,6 +222,32 @@ Ranil Wickremesinghe won a warm welcome.
 
 ---
 
+### Large devotees to Kataragama
+
+*2024-09-16 12:09:57* · [`adalk`](https://www.ada.lk/breaking_news/කතරගමට-විශාල-බැතිමතුන්-පිරිසක්/11-411959) · `si`
+
+During school breaks, many devotees visit Kataragama. Accommodation shortages occur due to high demand. The Kataragama Devalaya remains open day and night. It's considered crowded after 3000 years.
+
+🟩
+
+On the four-day school holidays, a large number of devotees came to the sacred places and surrounding places.
+
+There was a shortage of shelter in the government and private accommodation in the Kataragama area.
+
+The Kataragama Devalaya was opened for the pilgrims of devotees day and night.
+
+Mr. Diwan Gunasekera, Basnayake Nilase, stated that the Devalaya has been crowded in three thousand years.
+
+Kataragama Kirivehera, pilgrimage, Walliivathiwara, Valleyanaturava, Valleyance and Tissuluwa Tissa, Tissawama, Ven.
+
+◼️
+
+[Data](articles/60e0d110.json)
+
+[Extended Data](ext_articles/60e0d110.ext.json)
+
+---
+
 ### Sri Lanka named Sri Lanka Test squad against New Zealand
 
 *2024-09-16 12:05:26* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-ශ්‍රී-ලංකා-ටෙස්ට්-සංචිතය-නම්-කරයි/9-411958) · `si`
@@ -310,19 +336,29 @@ Addressing the rally the rally, Ranil Wickremesinghe added that he has already c
 
 ---
 
-### யாழில் 13 வயது சிறுவன் உள்ளிட்ட மூவர் தவறான முடிவால் உயிர்மாய்ப்பு
+### Three people, including a 13 -year -old boy in Jaffna
 
 *2024-09-16 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/193832) · `ta`
 
-யாழ்ப்பாணத்தில் நேற்று ஞாயிற்றுக்கிழமை (15) வெவ்வேறு பகுதிகளில் மூவர் தவறான முடிவெடுத்து தமது உயிரை மாய்த்துள்ளார்கள்.
+Here's a summary of the text in approximately 200 characters:
 
-யாழ்ப்பாணம் கொட்டடி பகுதியைச் சேர்ந்த 22 வயதுடைய யுவதி ஒருவர் , வீட்டார் வெளியில் சென்ற சமயம் வீட்டில் தனது உயிரை மாய்த்துள்ளார்.
 
-பெரியவிளான் பகுதியைச் சேர்ந்த 13வயது சிறுவன், தொலைபேசியில் கேம் விளையாட தந்தையிடம் தொலைபேசியை கேட்ட போது தந்தை தொலைபேசியை கொடுக்காததால் வீட்டின் அறை ஒன்றுக்குள் சென்று தனது உயிரை மாய்த்துள்ளான்.
+
+"Tragedy struck in Jaffna: A 22-year-old woman died at home, while a 13-year-old boy entered his house without permission. These incidents highlight the complexities of life and death decisions."
+
+🟩
+
+In Jaffna yesterday (15), three people made a wrong decision in different parts of the country.
+
+A 22 -year -old girl from Kottadi, Jaffna, died at home when he went out of the house.
+
+A 13 -year -old boy from Periyavilan area went into the house of the house as his father did not give the phone when he asked his father to play the game on the phone.
 
 ◼️
 
 [Data](articles/7680fb83.json)
+
+[Extended Data](ext_articles/7680fb83.ext.json)
 
 ---
 
@@ -2281,29 +2317,5 @@ In the travel consultation issued by the Department, residents of the country ar
 [Data](articles/29e61602.json)
 
 [Extended Data](ext_articles/29e61602.ext.json)
-
----
-
-### Five Scholarship Examination results in 40 days
-
-*2024-09-15 20:25:49* · [`adalk`](https://www.ada.lk/breaking_news/05-වසර-ශිෂ්‍යත්ව-විභාගයේ-ප්‍රතිඵල-දින-40කින්/11-411951) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Commissioner General Amithi Jayasundara announced that results of the Five Scholarship Examination will be released within 40 days. While the timeline is set for 40 days, officials hope for faster processing. The statement emphasizes both the established timeframe and the desire for quicker results.
-
-🟩
-
-Commissioner General of Examinations Amithi Jayasundara said that 40 days of the results of this examination and the results are expected to be effective.
-
-About 40 days of the results of the result will take 40 days. But we expect results as soon as possible
-
-◼️
-
-[Data](articles/a5fa81d1.json)
-
-[Extended Data](ext_articles/a5fa81d1.ext.json)
 
 ---

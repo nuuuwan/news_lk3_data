@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 01:07:30**
+As of **2024-09-17 01:22:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,225 (100.0%) of 44,227 articles have been extended.
+44,227 (100.0%) of 44,227 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -228,21 +228,33 @@ In terms of the real number who are likely to go to polls placed at 75%, the num
 
 ---
 
-### தமிழ் பொதுவேட்பாளரை ஆதரிக்கும் பரப்புரைக் கூட்டத்தில்; தமிழின விடுதலைக்கான இலட்சியத்துக்காக அணிதிரண்டுள்ள உங்களைப்போன்று என்னுடைய வாக்கினையும் அளிப்பேன் - மாவை.சோ.சேனாதிராஜா
+### At the propaganda meeting supporting the Tamil general candidate;I will give my vote like you who mobilized for the ideal for the liberation of Tamils ​​- Maui.Senathirajah
 
 *2024-09-16 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/193882) · `ta`
 
-தமிழின விடுதலைக்கான இலட்சியத்துக்கான பயணத்தில் அணிதிரண்டுள்ள பெருந்தொகையான உங்களைப்போன்று என்னுடைய வாக்கினையும் அளிப்பேன் என்ற உறுதிப்பாட்டுடன் தெரிவிக்கின்றேன் என்று இலங்கைத் தமிழரசுக்கட்சியின் தலைவர் மாவை.சோ.சேனாதிராஜா தெரிவித்தார்.
+Here's a 200-character summary:
 
-கிளிநொச்சி பசுமைப்பூங்கவில் திங்கட்கிழமை (16) இலங்கைத் தமிழரசுக் கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரனின் ஏற்பாட்டில் நடைபெற்ற தமிழ் பொதுவேட்பாளர் பா.அரியநேத்திரனை ஆதரித்து ‘தமிழ்த் தேசிய இனத்தின் எழுச்சியே தமிழ்த் தேசத்தின் மீட்சி’ எனும் தொனிப்பொருளில் நடைபெற்ற பரப்புரைக் கூட்டத்தில் உரையாற்றுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
 
-தமிழர்களின் எழுச்சி நிகழ்வான நாளாகவும் தமிழனம் விடுதலை பெறதாத நிலையில் நடைபெறுகின்ற மற்றொரு ஜனாதிபதி தேர்தலாகவும் எதிர்வரும் 21ஆம் திகதி நடைபெறுகின்ற தேர்தல் அமைகின்றது.
 
-அவ்விதமான தேர்தலில் எமது விடுதலையையும், அதற்கான இலட்சியப் பயணதுக்காகவும் எங்களுடைய வாக்குகளை பயன்படுத்துவோம் என்ற உறுதியோடு இந்த எழுச்சி நிகழ்வில் பங்கெடுத்துள்ளீர்கள்.
+TNA leader Mawai Senathirajah vows to vote for Tamil candidates, urging others to do so in upcoming elections. He emphasizes the importance of voting as a means of Tamil liberation and expresses gratitude to those dedicating themselves to the cause.
+
+🟩
+
+Sri Lanka's Tamil National Alliance (TNA) leader Mawai Senathirajah said that I would give my vote like you, like you.
+
+He was speaking at a campaign meeting held at the Green Park in Kilinochchi on Monday (16) in support of the Tamil National Alliance (TNA) parliamentarian Sivagnanam Sridharan in support of the Tamil National Candidate P. Ariyanethran.
+
+The election on the 21st of this month is the day of the rise of the Tamils ​​and another presidential election that is not being liberated.
+
+You have participated in this rebellion with the determination that we will use our votes for our liberation in such elections and for the ideal journey.
+
+We have sacrificed people and militants in the struggle for liberation. In that way, we are sure that we are firm on our journey, and in your presence, which is the ideal of carrying out that journey strongly, I have come to the determination that I will give my vote for that ideal.
 
 ...
 
 [Data](articles/fdeb1313.json)
+
+[Extended Data](ext_articles/fdeb1313.ext.json)
 
 ---
 
@@ -333,6 +345,8 @@ What happened to public sector wages during the economic crisis?
 ...
 
 [Data](articles/b4378369.json)
+
+[Extended Data](ext_articles/b4378369.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 03:22:28**
+As of **2024-09-17 03:36:52**
 
 ## Newspaper Stats
 
-*Scraped **44,232** Articles*
+*Scraped **44,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 426
 colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
-dailyftlk | 2,934
+dailyftlk | 2,935
 adalk | 4,085
 dailymirrorlk | 4,733
 adaderanalk | 5,210
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,232 (100.0%) of 44,232 articles have been extended.
+44,233 (100.0%) of 44,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Presidenshel elecshen gide
+
+*2024-09-17 03:15:08* · [`dailyftlk`](https://www.ft.lk/opinion/Presidenshel-elecshen-gide/14-766793) · `en`
+
+Oll PEC’s must remember to have a Campain Theme. This is the main focus of how you plan to win. How you plan to attack your opponents and most impotent thing, what is main reeson peeples should put you in the Loku Putuwa.
+
+“Wikramata Pulun” - I must say say when I first heard this I was surprised. Then I riyalized that word is Puluwan, my good frend BarrackOberms colling and saying you stealing his campain slogan lu. I said “Yes we can!” Oberms saying “That’s my slogan” and I said your slogan had ‘we’, Wikrama is not tolking about ‘we’. He is tolking about he, he can.
+
+“Rata Warunata” - What do you mean? You want the whole country? Well, if you win then you are the President of whole country only! This is not a good slogan for you becose it sounds like you want to be a king, even though we know you don’t. Even in countries where they have Kings and Queenies like England, when my good frend Queenie passed away, you didn’t hear Charlies iththaas going around saying “Rata Charlieta”
+
+...
+
+[Data](articles/9d47994f.json)
+
+[Extended Data](ext_articles/9d47994f.ext.json)
+
+---
 
 ### J’pura Students’ Union files complaint with ECSL against Sajith
 
@@ -2315,23 +2333,5 @@ Sri Lanka’s plantations workers and other wage earners found their salaries pu
 [Data](articles/4e929b8b.json)
 
 [Extended Data](ext_articles/4e929b8b.ext.json)
-
----
-
-### ‘Misunderstandings’ in ties with India resolved: Maldives
-
-*2024-09-16 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102014/misunderstandings-in-ties-with-india-resolved-maldives) · `en`
-
-Maldives Foreign Minister Moosa Zameer acknowledged that Maldives-India ties witnessed rough patches in the initial days of President Mohammad Muizzu-led government, but insisted that the two countries have resolved those “misunderstandings”.
-
-Zameer made the remarks on Friday during a visit to Sri Lanka, where he stressed the importance of the Indian Ocean archipelago’s relationships with key allies, particularly China and India.
-
-He said relations with India had faced challenges, particularly following Muizzu’s campaign to remove a small contingent of Indian troops from the Maldives. Zameer said the “misunderstandings” had been resolved following the repatriation of Indian troops. “(We) have good relations with both China and India, and both countries continue to support Maldives.”
-
-◼️
-
-[Data](articles/d59da0c3.json)
-
-[Extended Data](ext_articles/d59da0c3.ext.json)
 
 ---

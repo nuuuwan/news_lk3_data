@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 09:57:32**
+As of **2024-09-16 10:11:04**
 
 ## Newspaper Stats
 
-*Scraped **44,111** Articles*
+*Scraped **44,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,681
 dailyftlk | 2,920
-adalk | 4,066
+adalk | 4,067
 dailymirrorlk | 4,733
-adaderanalk | 5,192
-tamilmirrorlk | 5,748
-virakesarilk | 7,021
+adaderanalk | 5,193
+tamilmirrorlk | 5,750
+virakesarilk | 7,023
 adaderanasinhalalk | 7,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,111 (100.0%) of 44,111 articles have been extended.
+44,111 (100.0%) of 44,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### தெஹிவளையில் துப்பாக்கிச் சூடு ; காயமடைந்த நபர் சிகிச்சை பலனின்றி உயிரிழப்பு!
+
+*2024-09-16 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193809) · `ta`
+
+இந்த துப்பாக்கிச் சூடு நேற்று ஞாயிற்றுக்கிழமை (15) இரவு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் படோவிட்ட நான்காம் பிரிவில் உள்ள வீடொன்றுக்கு முன்பாக வைத்து நபரொருவர் மீது துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+
+இதனையடுத்து, காயமடைந்த நபர் சிகிச்சைக்காக களுபோவில வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், துப்பாக்கிச்சூட்டை நடத்தியது யார் என்பது தொடர்பில் இதுவரை எந்த தகவலும் கிடைக்கவில்லை  என்பதுடன், இந்த சம்பவம் தொடர்பாக மேலதிக  விசாரணைகளை தெஹிவளை பொலிஸார் மேற்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/c4953775.json)
+
+---
+
+### இலங்கை வரும் அமெரிக்கப் பிரஜைகளுக்கு எச்சரிக்கை
+
+*2024-09-16 09:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இலங்கை-வரும்-அமெரிக்கப்-பிரஜைகளுக்கு-எச்சரிக்கை/50-343834) · `ta`
+
+இலங்கையில் ஜனாதிபதித் தேர்தல் நடைபெற உள்ள காரணத்தால் இலங்கைக்குச் செல்லும் அமெரிக்கப் பிரஜைகளை எச்சரிக்கையுடன் செயற்படுமாறு அமெரிக்க இராஜாங்கத் திணைக்களம் அறிவித்துள்ளது.
+
+ஜனாதிபதித் தேர்தல் காலப்பகுதியில், தேர்தலுக்கு முன்னரான காலப்பகுதியிலும், அதற்குப் பின்னரான காலப்பகுதியிலும் ஆர்ப்பாட்டங்கள் முன்னெடுக்கப்படலாம்.
+
+ஆகையால் அமெரிக்கப் பிரஜைகள் எச்சரிக்கையாகச் செயற்படுமாறு அமெரிக்க இராஜாங்கத் திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/df59ea1f.json)
+
+---
+
+### பிரதான ரயில் மார்க்கத்தில் ரயில் சேவைகள் பாதிப்பு!
+
+*2024-09-16 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193810) · `ta`
+
+மஹவயிலிருந்து கொழும்பு கோட்டை நோக்கிப் பயணித்த ரயில் ஒன்று ராகம ரயில் நிலையத்தில் தடம் புரண்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+இதன் காரணமாக, பிரதான ரயில் மார்க்கத்தின் ஊடாக பயணிக்கும் அனைத்து ரயில் சேவைகளும் பாதிக்கப்பட்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a0ea0bd4.json)
+
+---
+
+### Dilith proposes National Strategic Planning Authority to move country forward
+
+*2024-09-16 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102009/dilith-proposes-national-strategic-planning-authority-to-move-country-forward) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera, emphasized the need to establish a National Strategic Planning Authority to help the country progress.
+
+He expressed these views during the ‘Derana 360°’ programme, aired on TV Derana last night (16).
+
+Jayaweera stated that the country is burdened with immense debt due to the decisions made by individual ministers.
+
+To prevent this, he suggested that before any ministry takes important decisions, they should be discussed, making a case for the formation of a National Strategic Planning Authority comprising scholars and experts.
+
+“We are proposing a National Strategic Planning Authority through which decisions will be made.”
+
+“There hasn’t been much dialogue about this. We propose that the country’s scholars and experts be included in this authority,” he said.
+
+...
+
+[Data](articles/fb52ded5.json)
+
+---
 
 ### A chapter near Ragama Railway Station
 
@@ -128,6 +198,22 @@ He added that the police continue to make their efforts to ensure the independen
 
 ---
 
+### ගල්කිස්සේ වෙඩි තැබීමකින් පුද්ගලයෙක් මරුට
+
+*2024-09-16 08:27:30* · [`adalk`](https://www.ada.lk/breaking_news/ගල්කිස්සේ-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-411952) · `si`
+
+ගල්කිස්ස බඩෝවිට හතරවන අදියර නිවසකට යතුරු පැදියකින්.හෙල්මට් පැලද පැමිණි පුද්ගලයින් දෙදෙනකු ගෙන් අයෙකු නිවසේ සිටි පුද්ගලයකුට ප.ව.8.45 ට පමණ වෙඩිතබා පලාගොස් ඇතැයි දෙහිවල  පොලීසිය පැවසීය .
+
+මෙම සිදුවීම 15 වනදින ප.ව.8.45 ට පමණ සිදුවී ඇති අතර මෙලෙස ඝාතනයට ලක්වීම ඇත්තේ බඩෝවිට හතරවන  අදියර පදිංචිව සිටි සුවාරිස් තරිදු සුවාරිස් නම් (27 ) හැවිරිදි තරුණයෙකු වේ .
+
+මෙදින රාත්‍රිය 8.45 ට පමණ යතුරු පැදියකින් හෙල්මට් දමා ගෙන පැමිණි පුද්ගලයින් දෙදෙනකු ගෙන් අයෙකු ගිනි අවියකින් වෙඩිතබා එම යතුරු පැදියෙන් පලා ගොස් ඇතැයිද , ඒ.වනවිට නිවසේ ඔහුගේ මව හා පුංචි අම්මා සමග කතාබස් කරමින් සිට ඇති අතර එකවර යතුරු පැදියෙන් පැමිණි පුද්ගලයෙකු ඔහුවෙත වෙඩිතබා නැවත පැමිණි යතුරු පැදියෙන්ම පලාගොස් ඇතැයි පොලිසිය පැවසීය.
+
+...
+
+[Data](articles/749477a3.json)
+
+---
+
 ### Milad-un-Nabi celebrates unity and brotherhood - President
 
 *2024-09-16 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102007/milad-un-nabi-celebrates-unity-and-brotherhood-president) · `en`
@@ -145,6 +231,22 @@ In his message for Milad-un-Nabi, the President extended his heartfelt wishes to
 [Data](articles/4fbb9219.json)
 
 [Extended Data](ext_articles/4fbb9219.ext.json)
+
+---
+
+### ’நல்லடக்கமா? எரிப்பா? நாமே எதிர்த்தோம்’
+
+*2024-09-16 08:23:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லடக்கமா-எரிப்பா-நாமே-எதிர்த்தோம்/175-343832) · `ta`
+
+முஸ்லிம் சமூகத்தின் இஸ்லாமிய கலாச்சாரம் மற்றும் மத உரிமைக்காக அன்று ஐக்கிய மக்கள் சக்தியே முன்நின்றது. ஜனாஸாக்களை நல்லடக்கம் செய்வதா அல்லது எரிப்பதா என்ற பிரச்சினையின் போது நாம் மட்டுமே எதிர்த்தோம் என்று ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சி தலைவருமான சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+இந்த விவகாரத்தின் போது,  தேசியத் தலைவர்கள் என்று கூறிக் கொள்கின்ற ரணிலும் அநுரவும் அந்த மோசமான கொள்கைக்கு எதிராக குரல் எழுப்ப முடியுமாக இருந்த போதிலும் அவர்கள் அதற்காக முன் வரவில்லை. கோட்டாபய ராஜபக்சவின் அன்றைய பிழையான கொள்கைக்கு எதிராக ஐக்கிய மக்கள் சக்தியும் ஐக்கிய மக்கள் கூட்டணியுமே வீதிக்கிறங்கி போராட்டங்களை முன்னெடுத்திருக்கின்றது என்றார்.
+
+அக்கரைப்பற்று நகரில் சனிக்கிழமை (14) நடைபெற்ற ஜனாதிபதி தேர்தல் பிரசாரக் கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் தொடர்ந்து உரையாற்றுகையில்,
+
+...
+
+[Data](articles/e1ba26b1.json)
 
 ---
 
@@ -2153,145 +2255,5 @@ We have fully accepted the uniqueness of the Sinhala nationality in this country
 [Data](articles/d4a93a9d.json)
 
 [Extended Data](ext_articles/d4a93a9d.ext.json)
-
----
-
-### Suspect arrested for money to promote a Presidential candidate
-
-*2024-09-15 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201051) · `si`
-
-Person arrested promoting presidential candidate for money. Muttur police investigation reveals suspect took actions to support candidate's political career. Incident occurred in Kinniya area.
-
-🟩
-
-Muttur police have arrested a person who has been distributed to a presidential candidate.
-
-The police arrested in the Kinniya area in the Kinniya area.
-
-The suspect was arrested by the election accusation of the incident in the investigation carried out by the Muttur Police.
-
-Investigation revealed that the suspect had taken action to promote the relevant presidential candidate to enter politics in the future.
-
-◼️
-
-[Data](articles/b8e06e10.json)
-
-[Extended Data](ext_articles/b8e06e10.ext.json)
-
----
-
-### CaFFE warns over increase in incidents of election-related violence
-
-*2024-09-15 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101999/caffe-warns-over-increase-in-incidents-of-election-related-violence) · `en`
-
-The Campaign for Free and Fair Elections (CaFFE) says that although the pre-election period of the 2024 Presidential Election was peaceful compared to the other years, there has been a marked increase in incidents of election-related violence observed within the period from September 08 to September 14.
-
-The Executive Director of CaFFE, Manas Makeen highlighted that the majority of the incidents reported were of intimidation, assault of political party supporters, and damages to party offices.
-
-Furthermore, it has been observed that there is an increase in posts insulting presidential candidates being shared on social media, he added.
-
-Meanwhile, the Campaign for Free and Fair Elections warned that if the above trends continue, it may be detrimental to holding a free and fair election.
-
-◼️
-
-[Data](articles/70298029.json)
-
-[Extended Data](ext_articles/70298029.ext.json)
-
----
-
-### Israeli missile attacks from 2,000 km
-
-*2024-09-15 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201050) · `si`
-
-Israeli missile attacks from 2,000km distance. India-Iran collaboration suspected. Netanyahu denies involvement. First rebel attack on Israel. Missile landed in agricultural area. Recent drone strike by Zothy fighters resulted in casualties. Israel retaliated with air strikes in Gaza, causing deaths and injuries.
-
-🟩
-
-International Media stated that Indian militants have been able to borrow Iran to a ballistic missile to a ballistic missile.
-
-Commenting on the attack, the Israeli Prime Minister Benjamin Netanyahu has said that northern Yemen can have a large number of compensation.
-
-The attack on this attack today (15) can be mentioned as the first time the rebellion has been launched.
-
-Hube Spokes Aya Seariya said a hypenic bulistist missile was used for about 2,040 km to the attack.
-
-It was reported that the missiles had fallen into the cultivation of a culture of Israel.
-
-In July this year, Zothy fighters launched a drone strike at the hands of Israel, who was killed and four others were wounded.
-
-Israel launched air strikes to the Season of Benda. Six of of them were killed and 80 injured.
-
-◼️
-
-[Data](articles/9730539b.json)
-
-[Extended Data](ext_articles/9730539b.ext.json)
-
----
-
-### "We will definitely improve the plantation people"
-
-*2024-09-15 17:12:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெருந்தோட்ட-மக்களை-நிச்சயம்-மேம்படுத்துவோம்/76-343793) · `ta`
-
-Anura Kumara Dissanayake vows to improve hill country plantations, grant land ownership, and enhance education. He promises equal rights, ending cheating politics, and solving housing issues.
-
-🟩
-
-We will definitely improve the livelihood of the people of the mountain plantation. Their land ownership will certainly be granted. The people of the hill country can live in equal rights in this country, ”said Anura Kumara Dissanayake, the Presidential candidate of the National People's Power.
-
-He also said that there is a firm belief that the people of the hill country will be partners in the success of national people's power.
-
-He said this while addressing a campaign meeting held at Nuwara Eliya - Talawakelle on Sunday (15) in support of Anura Kumara Dissanayake, who is contesting the presidential election on behalf of the National People's Power.
-
-...
-
-[Data](articles/35057cd4.json)
-
-[Extended Data](ext_articles/35057cd4.ext.json)
-
----
-
-### The number of the deaths of Myanmar due to 'Yagi'
-
-*2024-09-15 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201049) · `si`
-
-"Yagi cyclone death toll: 74 in Myanmar; 89 missing; 240,000 displaced. Southeast Asia impact reported."
-
-🟩
-
-The influence of 'Yagi' cyclone has increased to 74 people from myanmar.
-
-Myanmar authorities have said that 89 others have disappeared and about 240,000 people are displaced.
-
-Previously, Vietnam, Laos, and Thailand were severely affected by the cyclone of the Yagi.
-
-Accordingly, foreign media reports that the total number of deaths occurred over the southeast Asian countries due to the hurricane.
-
-◼️
-
-[Data](articles/310de4b4.json)
-
-[Extended Data](ext_articles/310de4b4.ext.json)
-
----
-
-### Measures to be closed for 2 days of liquor stores
-
-*2024-09-15 16:42:26* · [`adalk`](https://www.ada.lk/breaking_news/දිවයින-පුරා-සුරාසැල්-දින-02ක්-වසා-තැබීමට-පියවර/11-411950) · `si`
-
-Liquor stores closed 2 days nationwide due to presidential election. Excise Commissioner announces shutdown on 21st and 22nd.
-
-🟩
-
-Two days of the island has decided to be closed down to two days island wide due to the Presidential election.
-
-Accordingly, the Excise Commissioner General of Excise announced the closing of liquor shops throughout the island on the 21st and 22nd.
-
-◼️
-
-[Data](articles/e2a3681a.json)
-
-[Extended Data](ext_articles/e2a3681a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 17:22:21**
+As of **2024-09-16 17:39:30**
 
 ## Newspaper Stats
 
-*Scraped **44,179** Articles*
+*Scraped **44,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,684
 dailyftlk | 2,920
 adalk | 4,078
 dailymirrorlk | 4,733
-adaderanalk | 5,204
+adaderanalk | 5,205
 tamilmirrorlk | 5,754
 virakesarilk | 7,039
 adaderanasinhalalk | 7,566
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,566
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,179 (100.0%) of 44,179 articles have been extended.
+44,179 (100.0%) of 44,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### ‘Not all foreign debt repayments halted’: Finance Ministry issues clarification on Sri Lanka’s external debt servicing
+
+*2024-09-16 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102022/not-all-foreign-debt-repayments-halted-finance-ministry-issues-clarification-on-sri-lankas-external-debt-servicing-) · `en`
+
+Sri Lanka’s Ministry of Finance, Economic Stabilisation and National Policies has issued a clarification on the country’s external debt service payments in the recent past.
+
+Issuing a statement, the Finance Ministry said it is observed that there is a perception in society that the prevailing economic stabilization in Sri Lanka is entirely due to external debt not being serviced, and that once debt service resumes, economic instability will return.
+
+Furthermore, the ministry mentioned that it is also unfortunate to note that this same narrative is being used to trivialize and undermine the necessity for the critical macroeconomic reforms that are in fact the actual drivers of economic stabilization.
+
+Accordingly, the Finance Ministry clarified that it is incorrect to say that all foreign debt is not being repaid and that the temporary moratorium on selected external debt service that was announced in April 2022 applied to external commercial debt and official bilateral debt.
+
+...
+
+[Data](articles/1f04ffaf.json)
+
+---
 
 ### Facebook raids
 
@@ -2347,23 +2365,5 @@ The Youth Leadership Program is designed to nurture the leadership potential of 
 [Data](articles/ab37d213.json)
 
 [Extended Data](ext_articles/ab37d213.ext.json)
-
----
-
-### Hemas, SLIIT joint venture to elevate Allied Health Sciences education in Sri Lanka
-
-*2024-09-16 02:21:00* · [`islandlk`](http://island.lk/hemas-sliit-joint-venture-to-elevate-allied-health-sciences-education-in-sri-lanka/) · `en`
-
-Hemas Holdings PLC initiated a collaborative educational venture with the Sri Lanka Institute of Information Technology (SLIIT) to elevate the country’s healthcare education to international standards, by providing innovative nursing and allied healthcare education through the newly established entity, The SLIIT-HEMAS Allied Health Sciences Institute (SHAHSI).
-
-Set to open doors for a new intake in October, the venture has a combined student body of over 300 students and counting.
-
-By combining Hemas Hospitals’ extensive experience in private healthcare delivery with SLIIT’s renowned reputation for quality education, the partnership will offer a comprehensive range of programs designed to meet the growing demand for globally employable allied healthcare professionals.
-
-...
-
-[Data](articles/b1daac2a.json)
-
-[Extended Data](ext_articles/b1daac2a.ext.json)
 
 ---

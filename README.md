@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 08:02:19**
+As of **2024-09-16 08:23:46**
 
 ## Newspaper Stats
 
-*Scraped **44,088** Articles*
+*Scraped **44,096** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 376
 bbccomsinhala | 426
-colombotelegraphcom | 436
+colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,681
 dailyftlk | 2,920
 adalk | 4,065
 dailymirrorlk | 4,733
-adaderanalk | 5,187
-tamilmirrorlk | 5,736
+adaderanalk | 5,189
+tamilmirrorlk | 5,741
 virakesarilk | 7,021
 adaderanasinhalalk | 7,546
 
@@ -26,11 +26,87 @@ adaderanasinhalalk | 7,546
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,086 (100.0%) of 44,088 articles have been extended.
+44,086 (100.0%) of 44,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### ரணில் விக்கிரமசிங்க என்ன அரேபிய சுல்தானா?
+
+*2024-09-16 07:52:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விக்கிரமசிங்க-என்ன-அரேபிய-சுல்தானா/175-343826) · `ta`
+
+தான் ஆட்சியில் இல்லாவிட்டால் ஏற்படும் எரிபொருள் தட்டுப்பாட்டைத் தவிர்க்க முடியாது என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்த கூற்றுக்களை தேசிய மக்கள் சக்தியின் (NPP) தலைவர் அனுரகுமார திஸாநாயக்க கடுமையாக விமர்சித்துள்ளார்.
+
+ஒரு பொதுக்கூட்டத்தில் உரையாற்றிய திஸாநாயக்க, “ரணில் விக்கிரமசிங்க ஒரு அரேபிய சுல்தானா?” என்று வினவினார். விக்கிரமசிங்கவின் தலைமையால் மட்டுமே எரிபொருள் நெருக்கடியை தடுக்க முடியும் என்ற கருத்தை நிராகரித்த அவர், இத்தகைய கூற்றுக்கள் அரசியல் கட்டுப்பாட்டை தக்கவைத்துக்கொள்ள பொதுமக்களின் அச்சத்தை தூண்டி அதைக் குழப்பும் முயற்சிகள் என்று குறிப்பிட்டார்.
+
+அத்துடன்  NPP அதிகாரத்தைப் பெற்றால் டொலர் வீதம் உயரும் என்று விக்கிரமசிங்க கூறியதையும் நிராகரித்த அநுர NPP ஆட்சியின் கீழ், ரூபாய் நிலைப்படுத்தப்படும் என்று உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/f6774715.json)
+
+---
+
+### ’கிழக்கில் தமிழர்கள் அழிந்து போகும் ஆபத்து’
+
+*2024-09-16 07:51:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கில்-தமிழர்கள்-அழிந்து-போகும்-ஆபத்து/175-343825) · `ta`
+
+கிழக்கு மாகாணத்தில் இருக்கும் தமிழ் மக்கள் 15 ஆண்டுகளில் இருந்த இடம் தெரியாது அழிந்து போகக் கூடிய ஆபத்து இருக்கிறது ஆகவே இவை எல்லாவற்றுக்கும் முற்றுப்புள்ளி வைக்க வேண்டுமாக இருந்தால் தமிழர் தேசம் ஒன்று அங்கீகரிக்கப்பட்ட தீர்வு எட்டப்பட வேண்டும் என பாராளுமன்ற உறுப்பினர் எஸ்.கஜேந்திரன் தெரிவித்தார்.
+
+தமிழர்களுடைய தலை நகரமான திருகோணமலை இன்று தமிழர்களுக்கு சொந்தமான நிலங்கள் முழுவதும் கபளீகரம் செய்யப்பட்டு, 2 ஆயிரம் ஏக்கர் பரப்பளவில் 32 விகாரைகள் அமைக்கப்பட்டு மிகப் பெரிய பௌத்த மயமாக்கலுக்கு உள்ளாக்கப்பட்டுக் கொண்டிருக்கிறது என்றும் குறிப்பிட்டார்.
+
+மட்டக்களப்பில் தேர்தல் புறக்கணிப்பு பிரச்சாரத்தில் ஈடுபட்டு வரும் தமிழ் தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர்  ஞாயிற்றுக்கிழமை (15)  ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் இவ்வாறு தெரிவித்தார்.
+
+ரணில் விக்கிரமசிங்க ஜனாதிபதியாகவும் சஜித் பிரேமதாச எதிர்க்கட்சித் தலைவராகவும் அனுரா குமார திசாநாயக்க வலிமையான ஒரு எதிரணியின் உடைய கட்சி தலைவராகவும் பாராளுமன்றத்தில் இருந்து கொண்டிருக்கும் போது தான் இந்த பௌத்தமயமாக்கல் இடம்பெற்றுக் கொண்டி ருக்கின்றது.
+
+...
+
+[Data](articles/2098a83b.json)
+
+---
+
+### இன்றைய காலநிலை முன்னறிவிப்பு
+
+*2024-09-16 07:44:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-முன்னறிவிப்பு/175-343824) · `ta`
+
+சப்ரகமுவ மற்றும் மேல் மாகாணங்களிலும் அத்துடன்  காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அடிக்கடி மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இப் பிராந்தியங்களின்  சில இடங்களில் 50 மில்லிமீற்றர் வரையிலான ஓரளவு பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+வடமேல் மாகாணத்திலும் அத்துடன் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் இடைக்கிடையே மழை பெய்யக்கூடும்.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களின்  சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+மத்திய மலைப் பிராந்தியத்தின் மேற்கு சரிவுகளிலும்,வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை , மொனராகலை மற்றும் திருகோணமலை மாவட்டங்களிலும் மணித்தியாலத்திற்கு 40 - 45 கிலோமீற்றர் வேகத்தில் அடிக்கடி பலத்த காற்று வீசக் கூடும்.
+
+சிலாபம் தொடக்கம் கொழும்பு, காலி ஊடாக மாத்தறை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களில் அடிக்கடி மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/99222ae5.json)
+
+---
+
+### Trump safe after apparent assassination attempt, person in custody
+
+*2024-09-16 06:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102005/trump-safe-after-apparent-assassination-attempt-person-in-custody) · `en`
+
+Donald Trump was the target of an apparent assassination attempt Sunday in Florida, the FBI said, with the Republican presidential candidate’s campaign and law enforcement reporting he was safe and unharmed.
+
+The US Secret Service confirmed one or more of its agents “opened fire on a gunman” located near the boundary of Trump’s golf course, and that an “AK-47 style rifle” with a scope was recovered along with a GoPro video camera.
+
+Amid the confrontation with the Secret Service, the suspect bolted out of the shrubbery he had been hiding in and escaped in a black car. A witness helped police identify the vehicle and authorities tracked it down.
+
+“We have somebody in custody right now that is a potential suspect,” Palm Beach County Sheriff Ric Bradshaw told a news conference.
+
+Trump had been golfing at his course in West Palm Beach, Florida, not far from his Mar-a-Lago residence, when the would-be shooter was spotted in bushes one hole ahead of the former president, Bradshaw said.
+
+...
+
+[Data](articles/c3080e16.json)
+
+---
 
 ### Try again to kill Donald Trump?
 
@@ -51,6 +127,22 @@ However, the former American president had no casualties and the security person
 [Data](articles/083225aa.json)
 
 [Extended Data](ext_articles/083225aa.ext.json)
+
+---
+
+### Person injured in Badowita shooting succumbs to injuries
+
+*2024-09-16 06:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102004/person-injured-in-badowita-shooting-succumbs-to-injuries) · `en`
+
+The 31-year-old person injured and admitted to the Kalubowila Hospital, after he was shot last night (15) at Badowita in Dehiwala, has succumbed to his injuries after being transferred to the Colombo National Hospital, the police said.
+
+Police said that the shooting had been carried out by two unidentified men who had arrived on a motorcycle at around 08.30 p.m. last night.
+
+The 31-year-old victim, identified as Tharindu Madushan Suwaris, was a resident of the Badowita area, according to police.
+
+◼️
+
+[Data](articles/0a795399.json)
 
 ---
 
@@ -388,6 +480,28 @@ Under Phase 1 of the GLO programme, five employees from each company benefitted 
 
 ---
 
+### 2024 Presidential Elections: A Mission Impossible For Many Aspirers
+
+*2024-09-16 02:11:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/2024-presidential-elections-a-mission-impossible-for-many-aspirers/) · `en`
+
+Since of late Sr Lankan Presidential Elections have become a battle ground with the number of candidates progressively growing. Last Presidential Election held on 16th Nov 2019 fielded36 contestants while the 2024 candidacy increased to 38 numbers but ironically due to the demise of one candidate the number came down to 37 as of today.
+
+When we look at the results of the last Presidential Election in 2019, The contest was polarized between two main candidates,  and the final result was
+
+Gotabaya Rajapaksa                                                    SLPP       6,924,,255           52.25%
+
+Sajith Premadasa                                                           NDF        5,564,,239          41.99%
+
+Anura kumara Dissanayake                                       NMPP             418,553           3.16%
+
+All 33 other candidates polled a total of  2.6% of the total valid votes with the highest polling  0.37 %.
+
+...
+
+[Data](articles/b4f144db.json)
+
+---
+
 ### Sanasa General Insurance partners with PMF Finance
 
 *2024-09-16 02:11:00* · [`islandlk`](http://island.lk/sanasa-general-insurance-partners-with-pmf-finance/) · `en`
@@ -487,6 +601,38 @@ Industry leaders of the calibre of Hayleys, AgStar, John Deere, DIMO, CIC and Br
 [Data](articles/2d9f4111.json)
 
 [Extended Data](ext_articles/2d9f4111.ext.json)
+
+---
+
+### சஜித் பிரச்சார மேடையில் சுமந்திரன்
+
+*2024-09-16 01:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரச்சார-மேடையில்-சுமந்திரன்/175-343804) · `ta`
+
+யாழ்ப்பாணம் மானிப்பாயில் நடைபெற்ற சஜித் ஆதரவு மக்கள் கூட்டத்தில் வைத்து, இலங்கைத் தமிழரசுக் கட்சியின் பேச்சாளர் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் மேடையேறினார்.
+
+இலங்கைத் தமிழரசுக் கட்சியின் மத்திய செயற்குழு, எதிர்வரும் ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை ஆதரிப்பதற்குத் தீர்மானித்திருந்தது.
+
+இதனையடுத்து அந்தத் தீர்மானம் தொடர்பாகக் கட்சியின் தலைவர் மாவை சேனாதிராஜா உள்ளிட்டவர்கள் மாற்றுக் கருத்துக்களை வெளியிட்டிருந்தாலும், அந்தத் தீர்மானத்தில் எந்த மாற்றங்களும் இல்லை என்று இலங்கைத் தமிழரசுக் கட்சி விசேட ஊடக அறிக்கை ஒன்றை வெளியிட்டு அறிவித்தது.
+
+இந்தநிலையில் நேற்று சஜித் பிரேமதாசவுக்கு ஆதரவாகத் தமிழரசுக் கட்சியின் பேச்சாளர் எம்.ஏ.சுமந்திரன் யாழ்ப்பாணத்தில் மேடையேறி உரையாற்றி இருந்தார். (a)
+
+◼️
+
+[Data](articles/876e44e4.json)
+
+---
+
+### பெண் ஒருவர் சடலமாக மீட்பு
+
+*2024-09-16 01:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-ஒருவர்-சடலமாக-மீட்பு/175-343803) · `ta`
+
+யாழ். கொட்டடி பகுதியைச் சேர்ந்த கலைச்செல்வன் யதுசாயினி என்ற 22 வயது யுவதியே சடலமாக மீட்கப்பட்டுள்ளார்.
+
+வீட்டில் உள்ளவர்கள் அனைவரும் வெளியே சென்றிருந்த நிலையில் மேற்படி யுவதி நேற்று மதியம் தனியாக வீட்டில் இருந்துள்ளார். வெளியே சென்றவர்கள் வீடு திரும்பிய வேளை அந்த யுவதி தூக்கில் தொங்கிய நிலையில் சடலமாகக் காணப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/62402cf7.json)
 
 ---
 
@@ -2073,191 +2219,5 @@ He noted that women constitute 53% of the population, yet many remain underrepre
 [Data](articles/a6ac31fb.json)
 
 [Extended Data](ext_articles/a6ac31fb.ext.json)
-
----
-
-### Murder of a wife with sharp weapon;Husband arrested;Another woman hurt!
-
-*2024-09-15 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193728) · `ta`
-
-Wife murdered with sharp weapon by husband in Publicittiya. Another woman injured. Husband arrested. Family dispute cited as motive.
-
-🟩
-
-The wife has been assassinated by her husband in a house in the Publicittiya area under the Waduwa Police Division.
-
-In addition, another woman has been admitted to the hospital in the attack and the husband has been arrested in connection with the attack.
-
-The woman, who was injured in the attack, has been admitted to the Nagoda Hospital in Kalutara and the sister of the deceased woman is the police investigation.
-
-Police said the murder had taken place when a husband and wife were attacked by a sharp weapon due to a family dispute.
-
-◼️
-
-[Data](articles/58f56f85.json)
-
-[Extended Data](ext_articles/58f56f85.ext.json)
-
----
-
-### Here is the cause of a plane with the President in the Law
-
-*2024-09-15 13:54:01* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සමග-පැමිණි-ගුවන්-යානයක්-හදීසියේ-ගොඩ-බෑමට-හේතුව-මෙන්න/11-411949) · `si`
-
-Plane carrying President lands due to technical issue at Eppawala Police station. No casualties or damage reported.
-
-🟩
-
-An insulated aircraft with President Ranil Wickremesinghe was landed at the Eppawala Police that a flight of Sri Lanka Air Force (SLAF 522) in Eppawala due to a technical prosecution.
-
-The aircraft was built on Eppawala, Quea, Queen of Eppawala, Yaya, 68 canal paddy fields.
-
-The police said that no lives or property damages had been damaged, police said.
-
-◼️
-
-[Data](articles/dc93fd5e.json)
-
-[Extended Data](ext_articles/dc93fd5e.ext.json)
-
----
-
-### Namal promises long-term political vision over short-term gains
-
-*2024-09-15 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101993/namal-promises-long-term-political-vision-over-short-term-gains) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) presidential candidate, Namal Rajapaksa pledged a long-term political commitment, emphasizing his vision for shaping a better future for the next generation, rather than focusing on a conventional five-year term.
-
-Addressing a public rally in Wellawaya yesterday (14), Rajapaksa criticized the current political discourse, highlighting that many candidates who once dismissed key development projects initiated by his father, former President Mahinda Rajapaksa, are now championing them.
-
-“Back in 2015, projects like the expressway, Port City, Hambantota International Port, and the airport were labeled ‘white elephants’. Today, those same critics are eager to build on this progress,” he said.
-
-Furthermore, Rajapaksa outlined his focus on the agricultural sector, underscoring the importance of maximizing the use of cultivable land and supporting farmers with fertilizer subsidies.
-
-...
-
-[Data](articles/d5854b63.json)
-
-[Extended Data](ext_articles/d5854b63.ext.json)
-
----
-
-### Prison to the owner of tomato juice
-
-*2024-09-15 13:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தக்காளிச்சாறு-உரிமையாளருக்கு-சிறை/175-343780) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Owner fined for selling tomato juice containing benzoic acid. Health inspector sued by producer, distributor, and owner. Magistrate's Court ruling in Batticaloa District.
-
-🟩
-
-Benzoic acid that is harmful to human health
-
-The health inspector has been sued by the owner, distribution, and the owner of the production company, which has been used by the artificial chromosome.
-
-The Magistrate's Court on Friday (13) sentenced the owner of the tomato juice mixture to the owner of the tomato juice mixture in the case of Public Health Inspector S. Ravikaran in the Wellaveli Health Officer Division in Batticaloa District.
-
-This was confirmed by the Public Health Inspector of the Wellaveli Health Medical Officer Division S. Ravikaran.
-
-◼️
-
-[Data](articles/4611eb73.json)
-
-[Extended Data](ext_articles/4611eb73.ext.json)
-
----
-
-### Woman is the character who can create a happy thing - Dilith
-
-*2024-09-15 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201045) · `si`
-
-Dilith Jayaweera emphasizes women's role in boosting GDP and entrepreneurship in Sri Lanka. He believes women can create happiness and manage families effectively, contributing to the country's economic growth.
-
-🟩
-
-Dilith Entrepreneurship Dilith Jayaweera says he intends to involve women who are not involved in the GDP.
-
-He was speaking at a program held in Kalalgoda.
-
-Speaking further Mr. Dilith Jayaweera said,
-
-...
-
-[Data](articles/e2e7008c.json)
-
-[Extended Data](ext_articles/e2e7008c.ext.json)
-
----
-
-### "I'm going to resign in 2 more days"
-
-*2024-09-15 13:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-2-நாட்களில்-ராஜினாமா-செய்யப்-போகிறேன்/175-343779) · `ta`
-
-Arvind Kejriwal announces resignation in 48 hours amid liquor policy corruption case. Supreme Court granted bail with conditions. Opposition calls for his resignation, stirring political turmoil in New Delhi.
-
-🟩
-
-New Delhi Chief Minister Arvind Kejriwal has said that he will resign in the next 48 hours.
-
-In a statement, he said, “I am going to resign as CM in 2 more days. I'm not going to sit in the CM chair anymore. Aam Aadmi Party's future is handed over to the hands of voters. I will no longer go to every house on every street of New Delhi. People voted for me and again made me the first of New Delhi.
-
-The Supreme Court granted bail on September 13 last year against New Delhi Chief Minister Arvind Kejriwal in connection with the New Delhi Liquor Policy Corruption.. Various conditions were imposed on him with bail. In this case, opposition parties, including the BJP, have urged Chief Minister Kejriwal to resign. Heavy criticism was also presented.
-
-New Delhi Chief Minister Arvind Kejriwal has said that he will resign as CM within the next 48 hours. This has caused a stir in the political environment in New Delhi.
-
-◼️
-
-[Data](articles/8d6d0713.json)
-
-[Extended Data](ext_articles/8d6d0713.ext.json)
-
----
-
-### 4.7% increase in the country's economy
-
-*2024-09-15 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201044) · `si`
-
-Sri Lanka's economy grew 4.7% in Q2 2024, according to census data. GDP increased from Rs. 2,644,240 million to Rs. 2,768,293 million.
-
-🟩
-
-The Sri Lankan economy recorded a growth of 4.7 percent in the second quarter of 2024, the Department of Census and Statistics.
-
-The Department of Census and Statistics have revealed that the National Account Estimates for the second quarter of 2024.
-
-Accordingly, the first quarter of the second quarter of the second quarter of 2023 was Rs.. 2,644,240 million. It was Rs. 224 in the second quarter of 2024. 2,768,293 million.
-
-In the second quarter of 2024, the Department of Census and Statistics have reportedly reported positions of 1.7 percent and 2.5 percent respectively.
-
-◼️
-
-[Data](articles/97704e79.json)
-
-[Extended Data](ext_articles/97704e79.ext.json)
-
----
-
-### Waterproofing from 28 September 28 in many parts of Kandy
-
-*2024-09-15 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193736) · `ta`
-
-Kandy water disruption: Sept 28-30, 1pm-6pm. Consumers advised to conserve water. Normal service resumes Sept 30 after 2-day shutdown.
-
-🟩
-
-The National Water Supply and Drainage Board said that water supply will be disrupted for two days from September 28 in many parts of Kandy.
-
-Accordingly, the water supply will be banned from 1 pm on Saturday, September 28, and the water supply will return to normal at 6 pm on September 30.
-
-Therefore, consumers in the area are asked to save enough water to manage their needs during these two days.
-
-◼️
-
-[Data](articles/d328c7d8.json)
-
-[Extended Data](ext_articles/d328c7d8.ext.json)
 
 ---

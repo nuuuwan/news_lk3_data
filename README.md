@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 12:38:17**
+As of **2024-09-16 12:56:39**
 
 ## Newspaper Stats
 
-*Scraped **44,139** Articles*
+*Scraped **44,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,197
 tamilmirrorlk | 5,750
 virakesarilk | 7,029
-adaderanasinhalalk | 7,554
+adaderanasinhalalk | 7,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,138 (100.0%) of 44,139 articles have been extended.
+44,140 (100.0%) of 44,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Ranil says that IMF has accepted his program
+
+*2024-09-16 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201076) · `si`
+
+Ranil Wickremesinghe announces IMF program acceptance at rally. Promises economic growth, export focus, and future stability. Criticizes opponents Sajith and Anura over IMF stance and policies. Emphasizes need for long-term vision over short-term gains.
+
+🟩
+
+Ranil Wickremesinghe says the International Monetary Fund has accepted its program.
+
+He was speaking at a 'Ranil' rally held yesterday (15) at the Horana People's Stadium.
+
+Ranil Wickremesinghe won a warm welcome.
+
+...
+
+[Data](articles/4cf9fe4f.json)
+
+[Extended Data](ext_articles/4cf9fe4f.ext.json)
+
+---
 
 ### Pleasing to the change of people - Dilith
 
@@ -52,21 +74,27 @@ He said that yesterday's "Derana 360" Ada Derana 360 "
 
 ---
 
-### ජිවන බර 2025දී අවසන් කරනවා
+### End the burden of living in 2025
 
 *2024-09-16 11:51:59* · [`adalk`](https://www.ada.lk/breaking_news/ජිවන-බර-2025දී-අවසන්-කරනවා/11-411957) · `si`
 
-ජනතාවගේ ජීවන බර පිළිබඳ සටන අවසන් කිරීමට ලබන වසරේදි කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Sri Lanka's President Ranil Wickremesinghe promises economic reforms in 2025 to stabilize the country's currency and economy. He claims to have started new political and economic systems, aiming to end the current burden on citizens.
 
-නිවැරදි ආර්ථික කළමනාකරණය හේතුවෙන් රුපියල තවදුරටත් ශක්තිමත් වීමත් සමඟ රටේ ආර්ථික ස්ථාවරත්වය ද ආරක්ෂා කර ගනිමින් ජනතාවට එම සහන ලබාදීමට හැකිවනු ඇති බව ප්‍රකාශ කළ ජනාධිපතිවරයා රටක බිඳ වැටුණු ආර්ථිකයක් ගොඩගැනීමට අසීරු තීරණ ගැනීමට සිදුවුවද අවසානයේ සහන හිමිවන බව පෙන්වා දුන්නේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ ඊයේ (15) පස්වරුවේ දෙහිවල පැවති "රනිල්ට පුළුවන්" විජයග්‍රාහී ජන රැලිය අමතමිනි.
+President Ranil Wickremesinghe said that it would be done next year to end the life of the life of the living.
 
-ජන රැලිය ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කර සිටියේ අලුත් ආර්ථිකයක්, අලුත් රටක් හා අලුත් දේශපාලන ක්‍රමයක් ගොඩනැගීමේ වැඩසටහන තමා මේ වන විටත් ආරම්භ කර තිබෙන බවයි. තමන්ට අවශ්‍ය රටට අලුත් ආර්ථිකයක් ලබා දීම බව පැවසු ජනාධිපතිවරයා සජිත්ට හෝ අනුරට එය කළ නොහැකි
+The President said that the rupee would be able to make the same concessions to build a crash of the country due to accurate economic management, the President would be able to make the same concessions to build a country's economic stability.
+
+President Ranil Wickremesinghe made these comments addressing the 'Ranil' rally in Dehiwala yesterday afternoon.
+
+Addressing the rally the rally, Ranil Wickremesinghe added that he has already commenced a new economy, new country and a new political system. The president said that the president could not make a new economy to the country he wanted.
 
 ◼️
 
 [Data](articles/38c44f7b.json)
+
+[Extended Data](ext_articles/38c44f7b.ext.json)
 
 ---
 
@@ -2289,31 +2317,5 @@ Corruption government is necessary to restore the economy of the fallen country.
 [Data](articles/7450bbe2.json)
 
 [Extended Data](ext_articles/7450bbe2.ext.json)
-
----
-
-### Mud trader killed
-
-*2024-09-15 18:49:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்-வர்த்தகர்-மண்ணுக்குள்-புதையுண்டு-பலி/76-343799) · `ta`
-
-Businessman dies in mud pit accident: 43-year-old Ranasinghe Chanaka Erration fell into a deep pit while operating a pecking machine in Mawathagama, Sri Lanka. Local residents report his body remained buried for about 40 minutes before being discovered.
-
-🟩
-
-Police said that a dealer who was involved in a mud trader had been killed in the mud in the Mawathagama area.
-
-The 43 -year -old Ranasinghe Chanaka Erration, a businessman in the Harankhagoda area of ​​Weduda, has died.
-
-He is a long -time business in Kotikapola area, police said.
-
-It is reported that he fell into a deep pit while working with his peckho machine and died in the collapse of the soil.
-
-Local residents say that his body was invented in removing the soil for about forty minutes and he was dead.
-
-◼️
-
-[Data](articles/6d987332.json)
-
-[Extended Data](ext_articles/6d987332.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 15:22:43**
+As of **2024-09-16 15:38:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,563
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,164 (100.0%) of 44,166 articles have been extended.
+44,166 (100.0%) of 44,166 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Speaking to the media, Shritharan urged the party’s supporters to back the Tam
 ...
 
 [Data](articles/69e8a35d.json)
+
+[Extended Data](ext_articles/69e8a35d.ext.json)
 
 ---
 
@@ -82,19 +84,25 @@ The Nixti virus has been identified as the fruit of the fruit and pigs such as b
 
 ---
 
-### தனி சக்கரத்தில் விளையாடிய 12 இளைஞர்கள் கைது
+### Arrested in 12 youths played on a separate wheel
 
 *2024-09-16 14:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-சக்கரத்தில்-விளையாடிய-12-இளைஞர்கள்-கைது/175-343848) · `ta`
 
-சமூக வலைத்தளமான Tik Tok ஊடாக கெஸ்பேவ ஜாலியாகொட மாற்றுப் பாதையில் மோட்டார் சைக்கிள்களில் பயணித்த 12 இளைஞர்கள் 18 மோட்டார் சைக்கிள்களுடன் கைது செய்யப்பட்டுள்ளதாக பிலியந்தலை பொலிஸார் தெரிவிக்கின்றனர்.
+12 youths arrested for riding 18 motorcycles on alternative route. Police raided based on noise complaints. Motorcycles seized during arrest.
 
-இந்தச் சோதனை நடவடிக்கையின் போது இளைஞர்கள் அறுவர்,  மோட்டார் சைக்கிள்களை விட்டுவிட்டு  தப்பி ஓடிவிட்டதாக போலிஸார் தெரிவித்தனர்.
+🟩
 
-மாலை முதல் நள்ளிரவு வரை பெருமளவிலான முச்சக்கர வண்டிகள் மற்றும் மோட்டார் சைக்கிள்கள் வீதியில் அதிக சத்தம் எழுப்பி வருவதாக 119 பொலிஸ் அவசர அழைப்பு நிலையம் மற்றும் பிலியந்தலை பொலிஸ் நிலையத்துக்கு தொடர்ந்து வந்த தொலைபேசி அழைப்புகளின் அடிப்படையில் பத்து பொலிஸ் அதிகாரிகள் குழு அங்கு சென்றது. இளைஞர்கள் கைது செய்துள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+Piliyandala police say that 12 youths have been arrested with 18 motorcycles on motorbikes on the Kespeva Jaliyakoda alternate route via social network Tik Tok.
+
+Police said the youth had fled after leaving motorcycles during the raid.
+
+A group of ten police officers went there on the basis of telephone calls that followed the 119 police emergency station and the Piliyandala police station that a large number of three -wheelers and motorcycles were making more noise on the road from evening to midnight.. Police said the youth had been arrested.
 
 ◼️
 
 [Data](articles/3dddb898.json)
+
+[Extended Data](ext_articles/3dddb898.ext.json)
 
 ---
 

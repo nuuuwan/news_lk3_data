@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 17:59:11**
+As of **2024-09-16 18:19:26**
 
 ## Newspaper Stats
 
-*Scraped **44,181** Articles*
+*Scraped **44,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,920
-adalk | 4,078
+adalk | 4,079
 dailymirrorlk | 4,733
-adaderanalk | 5,205
+adaderanalk | 5,206
 tamilmirrorlk | 5,754
 virakesarilk | 7,039
 adaderanasinhalalk | 7,567
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,181 (100.0%) of 44,181 articles have been extended.
+44,183 (100.0%) of 44,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### SJB organiser attacks youth who refused election handbill
+
+*2024-09-16 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102023/sjb-organiser-attacks-youth-who-refused-election-handbill-) · `en`
+
+The Nawalapitiya Organiser of the Samagi Jana Balawega (SJB) has allegedly assaulted the son of a local shop owner after the young man had declined to accept an election leaflet while the former had been engaged in canvassing.
+
+The incident, which was captured on the security camera inside the shop, had taken place at around 11.00 a.m. on Sunday (15), police said.
+
+According to reports, the SJB Electoral Organizer had arrived at a watch repair shop in the Nawalapitiya town accompanied by a group of party supporters. He has reportedly presented a leaflet to the young man, who has been identified as the son of the shop owner.
+
+However, the youth has refused to accept the handbill, prompting an aggressive reaction from the politician in question and his entourage.
+
+The confrontation had escalated quickly, resulting in the youth being attacked. Following the incident, he was admitted to the Nawalapitiya District General Hospital for treatment, police revealed.
+
+...
+
+[Data](articles/549763ce.json)
+
+[Extended Data](ext_articles/549763ce.ext.json)
+
+---
 
 ### This is nonsense politics -
 
@@ -145,6 +167,26 @@ A report was written on it. According to the decision already taken in the repor
 [Data](articles/8b757940.json)
 
 [Extended Data](ext_articles/8b757940.ext.json)
+
+---
+
+### His party opinion states in presidential election
+
+*2024-09-16 16:15:44* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයේදී-සිය-පක්ෂයේ-මතය-ඉලංගෙයි-තමිල්-අරසු-පක්ෂය-ප්‍රකාශ-කරයි/11-411964) · `si`
+
+Ilangai Thamil Arasu Party supports Sajith Premadasa for president. Decision made today at central committee meeting.
+
+🟩
+
+The Ilangai Thamil Arasu Party has decided to support the presidential candidate Sajith Premadasa in the next presidential election.
+
+Speaking at a press conference held at a press conference held at a party central committee decision, he said that the final decision was taken today (16).
+
+◼️
+
+[Data](articles/f16288c6.json)
+
+[Extended Data](ext_articles/f16288c6.ext.json)
 
 ---
 
@@ -2327,45 +2369,5 @@ Presidential candidate Ranil Wickremesinghe, President of the Ceylon Workers Con
 [Data](articles/837360d6.json)
 
 [Extended Data](ext_articles/837360d6.ext.json)
-
----
-
-### 30 people trapped in landslide rescue
-
-*2024-09-16 02:24:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவில்-சிக்கிய-30-பேர்-மீட்பு/175-343806) · `ta`
-
-30 trapped in landslide rescued in Uttarakhand. Sudden slide occurred near Dhagat-Danakpur highway while group was en route to Adi Kailash. All survivors airlifted to safety.
-
-🟩
-
-30 people who were trapped in a landslide in Uttarakhand have been safely rescued.
-
-When all 30 of them were on their way to the Adi Kailash area of ​​Uttarakhand, the sudden landslide near the Dhagat-Danakpur highway.
-
-The Indian media has reported that 30 people who were trapped by the landslide were safely recovered by the aircraft.. (A)
-
-◼️
-
-[Data](articles/1041f53f.json)
-
-[Extended Data](ext_articles/1041f53f.ext.json)
-
----
-
-### People’s Bank relocates Dharga Town Service Centre
-
-*2024-09-16 02:21:00* · [`islandlk`](http://island.lk/peoples-bank-relocates-dharga-town-service-centre/) · `en`
-
-People’s Bank officially inaugurated its Dharga Town Service Centre at a new location recently. Conveniently-located at No.426, Welipenna Road, Dharga Town, the Service Centre is attach of the People’s Bank Aluthgama branch and provides customers with state-of-the-art digital technology and specialised services.
-
-People’s Bank Deputy General Manager (Channel Management) Naleen Pathiranage, Kalutara Regional Manager Monica Sooriyapperuma, Assistant Regional Managers Kapila Withanage, Rohini Kariyawasam, Saranga Sri Vimukthi, Aluthgama Branch Manager Sameera Rupasiri, Service Centre Manager Sachitha Perera and several others including customers participated in the event.
-
-People’s Bank is one of Sri Lanka’s leading banks with assets exceeding LKR 2.5 trillion. With 747 branches and service centres spread across the island, and a customer base of over 15.2 million people, People’s Bank continues to play a pivotal role in serving its expanding customer base.
-
-...
-
-[Data](articles/1c9244a0.json)
-
-[Extended Data](ext_articles/1c9244a0.ext.json)
 
 ---

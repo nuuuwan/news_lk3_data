@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 04:38:31**
+As of **2024-09-17 05:07:31**
 
 ## Newspaper Stats
 
-*Scraped **44,240** Articles*
+*Scraped **44,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,935
 adalk | 4,085
 dailymirrorlk | 4,733
 adaderanalk | 5,210
-tamilmirrorlk | 5,767
+tamilmirrorlk | 5,769
 virakesarilk | 7,051
 adaderanasinhalalk | 7,572
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,240 (100.0%) of 44,240 articles have been extended.
+44,242 (100.0%) of 44,242 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -105,6 +105,56 @@ President Ranil Wickremesinghe does not bring the country to this level easily. 
 [Data](articles/e21cd4b9.json)
 
 [Extended Data](ext_articles/e21cd4b9.ext.json)
+
+---
+
+### Ranil's rule is not recovered
+
+*2024-09-17 02:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-ஆட்சியில்-மீட்சி-ஏற்படாது/175-343871) · `ta`
+
+Ranil Wickremesinghe's rule not restored; Sajith Premadasa wins nationwide. Rishad Bathiudeen criticizes Ranil-Rajapakse alliance, accuses them of looting resources and suppressing minorities. Claims massive corruption under Ranil's cabinet. Sajith Premadasa leads in polls, especially in North and East. Urges voters to support Sajith without wasting votes.
+
+🟩
+
+Sajith Premadasa's victory is all over the country. All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen said that this is based on the experience of being involved in campaigns.
+
+Speaking at a campaign meeting on Sunday (15) in Manipay in support of United People's Alliance leader Sajith Premadasa, he said.
+
+“Those who have partnered with Ranil Wickremesinghe are looting the country. Along with former President Gotabhaya Rajapakse, they were the ones who looted the country's resources. Unleash racism and suppressed communities. The religious beliefs were first placed by our religious beliefs.
+
+The biggest corruption in history featured in Ranil's Cabinet. President Ranil Wickremesinghe, who ruled the rest of Gotabhaya Rajapaksa's period, protects the corrupt people. Thus, the Sinhalese people are opposed to Ranil Wickremesinghe. Ranil is in third place. Sajith Premadasa's victory in the first place is engaged.
+
+...
+
+[Data](articles/be00a1cc.json)
+
+[Extended Data](ext_articles/be00a1cc.ext.json)
+
+---
+
+### The Central Committee Resolution is the "final decision"
+
+*2024-09-17 02:07:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-குழுத்-தீர்மானமே-இறுதி-முடிவு/175-343870) · `ta`
+
+Tamil National Alliance supports Sajith Premadasa for president. Party leaders discuss election strategy focusing on Tamil rights and economic development. Decision made to back United People's Alliance candidate. Some members disagree with the choice.
+
+🟩
+
+The Tamil National Alliance (TNA) has issued a statement saying that voters should give their vote in accordance with the central committee resolution of our party to support the United People's Alliance candidate Sajith Premadasa in the presidential election.
+
+A high -level discussion on the presidential election was held on Monday (16) at the office of the Vavuniya TNA.
+
+At the meeting, party leader Mawaisenathirajah, Members of Parliament MA Sumanthiran, C. Siritharan, Secretary P. Sathiyalingam. Former Mayor of the Municipal Council Saravanapavan and CVK Sivagnanam were also present.
+
+After the discussion, the decision of the TNA was read by the party leader Mawaisenathiraja.
+
+The presidential election will be held on the 21st of this month in Sri Lanka. The election manifesto of three main candidates was considered in this election. The election manifesto was focused on the political solution for the Tamil people and the economic development of the areas of the Tamil people.
+
+...
+
+[Data](articles/de5d2b55.json)
+
+[Extended Data](ext_articles/de5d2b55.ext.json)
 
 ---
 
@@ -2293,49 +2343,5 @@ Kataragama Kirivehera, pilgrimage, Walliivathiwara, Valleyanaturava, Valleyance 
 [Data](articles/60e0d110.json)
 
 [Extended Data](ext_articles/60e0d110.ext.json)
-
----
-
-### Sri Lanka named Sri Lanka Test squad against New Zealand
-
-*2024-09-16 12:05:26* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-ශ්‍රී-ලංකා-ටෙස්ට්-සංචිතය-නම්-කරයි/9-411958) · `si`
-
-Sri Lanka names 16-player Test squad vs New Zealand, Dananjaya de Silva as reserve.
-
-🟩
-
-Sri Lanka have named the squad for the two-match Test series between Sri Lanka and New Zealand.
-
-There are 16 players have been included in the reserve of Dananjaya de Silva.
-
-◼️
-
-[Data](articles/2c3544a0.json)
-
-[Extended Data](ext_articles/2c3544a0.ext.json)
-
----
-
-### Strict law on terrible election campaigns should be implemented - Attorney -at -Law
-
-*2024-09-16 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/193827) · `ta`
-
-Strict election laws needed: attorney calls for monitoring violations, reports 392 complaints including illegal campaigning, violence, and misuse of state resources.
-
-🟩
-
-We have appointed superintendents to monitor the complaints received by the National People's Power Election Monitoring Center at the Divisional and Regional Council level.. Attorney -at -Law Widenga Ugwatta said that the total number of election violations of election violations would be seen as a whole from the beginning.
-
-We have appointed superintendents to monitor the complaints received by the National People's Power Election Monitoring Center at the Divisional and Regional Council level.. Overall, from the beginning to the beginning, there is a rapid increase in election violations.
-
-392 complaints have been reported on the violation of election laws, illegal campaign 186, disrupting legal elections 06, violence 30, improper pressure on public opinion 120, improper use of state resources 73 and government officials 39.
-
-A massive mudslide is being carried out focusing on the National People's Power candidate Anura Kumara Dissanayake.
-
-...
-
-[Data](articles/619cc210.json)
-
-[Extended Data](ext_articles/619cc210.ext.json)
 
 ---

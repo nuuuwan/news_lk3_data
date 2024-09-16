@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 13:22:23**
+As of **2024-09-16 13:38:51**
 
 ## Newspaper Stats
 
-*Scraped **44,141** Articles*
+*Scraped **44,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,197
 tamilmirrorlk | 5,750
 virakesarilk | 7,029
-adaderanasinhalalk | 7,555
+adaderanasinhalalk | 7,556
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,141 (100.0%) of 44,141 articles have been extended.
+44,142 (100.0%) of 44,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### The personal quarrel ends dead
+
+*2024-09-16 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201077) · `si`
+
+Personal dispute leads to assault death in Veyangoda. 49-year-old victim attacked with sharp object. Police investigating incident.
+
+🟩
+
+A person has been assaulted by a sharp object in the Vara, Veyangoda, a sharp object.
+
+The premises have revealed that the murder had been revealed due to a personal dispute, police said.
+
+The deceased has been identified as 49 year old resident of the Veyangoda area in Veyangoda.
+
+◼️
+
+[Data](articles/d9d7904d.json)
+
+[Extended Data](ext_articles/d9d7904d.ext.json)
+
+---
 
 ### Ranil says that IMF has accepted his program
 
@@ -2291,27 +2313,5 @@ This year's scholarship was held at 2,849 centers and 323,879 students were pres
 [Data](articles/23981143.json)
 
 [Extended Data](ext_articles/23981143.ext.json)
-
----
-
-### Russia's red border line?
-
-*2024-09-15 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/193788) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ukraine War enters third year, causing massive loss of life. Nuclear weapons use risks historical stigma. Diplomatic solutions crucial to prevent further devastation.
-
-🟩
-
-The Ukraine War is approaching the third year of the war, and many human lives have been lost on both sides. It is also sure that many thousands of deaths will occur if the war continues. If Russia hopes to end the war by using the nuclear weapon, as the US did in World War II, it would be a stain in history.
-
-◼️
-
-[Data](articles/9ef10a70.json)
-
-[Extended Data](ext_articles/9ef10a70.ext.json)
 
 ---

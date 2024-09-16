@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 19:56:53**
+As of **2024-09-16 20:10:54**
 
 ## Newspaper Stats
 
-*Scraped **44,197** Articles*
+*Scraped **44,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 4,081
 dailymirrorlk | 4,733
 adaderanalk | 5,207
 tamilmirrorlk | 5,760
-virakesarilk | 7,043
+virakesarilk | 7,045
 adaderanasinhalalk | 7,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,197 (100.0%) of 44,197 articles have been extended.
+44,199 (100.0%) of 44,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### The 25th anniversary of the massacre of Mantu was emotionally featured
+
+*2024-09-16 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/193880) · `ta`
+
+Here's a 200-character summary:
+
+
+
+25th anniversary commemorated massacre Mantu Mullaitivu Pudukkudiyiruppu 24 Tamil innocents killed Sri Lankan Air Force strikes September 15, 1999 Thai Tamil Congress Organization Mother Tamil Nadu event Manduvil junction survivors honored
+
+🟩
+
+Mullaitivu - Pudukkudiyiruppu, the 25th anniversary event of the massacre of Manduvil was held on Sunday (15).
+
+Especially on September 15, 1999, 24 innocent Tamil people were assassinated by Sri Lankan Air Force air strikes in Mantuvil junction.
+
+The 24th anniversary of the assassinated innocent Tamil people was carried out by the Thai Tamil Congress Organization and the Mother of Tamil Nadu.
+
+The event was carried out at the Manduvil junction premises where the assassination incident took place.
+
+This commemorative event was launched by the public.. During the murder, the relationships of the victims lit up the public and started the event.
+
+During the massacre, for the images of the survivors, the relationships of the survivors were dressed in garlands, paid their tribute to the flower, and paid their respects.
+
+S. Sathiyaruban, Founder of the Thai Tamil Council Organization, Tamiyat Tamil Congress Organization executives, relations of survivors and civilians during the assassination.
+
+◼️
+
+[Data](articles/2129495f.json)
+
+[Extended Data](ext_articles/2129495f.ext.json)
+
+---
 
 ### All people are being protected - Sajith
 
@@ -51,6 +85,30 @@ Sajith Premadasa, Presidency, the Presidential Examination of the Higher Society
 [Data](articles/23848776.json)
 
 [Extended Data](ext_articles/23848776.ext.json)
+
+---
+
+### The Elections Commission is responsible for holding an independent and fair election - Mark Gunawardena
+
+*2024-09-16 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/193842) · `ta`
+
+Elections Commission ensures fair elections. Police assist. Complaints against commission. Political events criticized. Swift action expected on electoral issues.
+
+🟩
+
+The first seven days of the presidential election today are only seven days.The Elections Commission is responsible for holding an independent and fair election under the law to elect the president.The police and other public services are assisted by the practice of responsibility. Senior Deputy Inspector General of Police, Mark Gunawardena, said that the biggest number of Anura Kumara Dissanayake, who is contesting the presidential election, has been confirmed on all sides of the country.
+
+There is no justification from the Election Commission on the complaints we have so far.
+
+In September 2024, a party was held at the main hall of the Sri Lanka Forum College.This is also a treat for people's opinion to change.
+
+Similarly, the Minister of Health had invited government officials to hold a meeting at the "Voters Ej" hotel. It was conducted.It became lively published by the President's official “Facebook account” without any hesitation or fear. They criticize us in violation of the law.
+
+...
+
+[Data](articles/5647a019.json)
+
+[Extended Data](ext_articles/5647a019.ext.json)
 
 ---
 
@@ -2339,61 +2397,5 @@ Similarly, the Batticaloa border, Mayilathamadu Madhavan, has been destroyed by 
 [Data](articles/2098a83b.json)
 
 [Extended Data](ext_articles/2098a83b.ext.json)
-
----
-
-### Today's climate forecast
-
-*2024-09-16 07:44:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-முன்னறிவிப்பு/175-343824) · `ta`
-
-Climate forecast: Rain/thunderstorms expected in Sabaragamuwa, Western, Galle, Matara. Heavy rainfall (up to 50mm) possible. Strong winds (40-45km/h) in Central Highlands, Northern, North Central, North Western Provinces. Sea conditions rough in coastal areas. Public advised to exercise caution due to strong winds and lightning.
-
-🟩
-
-The Department of Meteorology has said that frequent rain or thunderstorms are expected in Sabaragamuwa and Western Provinces as well as in Galle and Matara districts.
-
-It is expected that some areas of these regions are likely to experience up to 50 millimeters.
-
-Rainfall is expected in the North Western Province as well as the Kandy and Nuwara Eliya districts.
-
-In some parts of the Eastern and Uva provinces, there is a chance of rain or thundershowers in the evening or night.
-
-Heavy winds can be frequent at speeds of 40 - 45 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces as well as in Hambantota, Moneragala and Trincomalee districts.
-
-Rainfall or thunderstorms are expected in the sea regions along the coast of Chilaw to Matara from Chilaw to Colombo and Galle.
-
-Winds from the west or southwest at speeds of 30 - 40 km / h in the sea regions.
-
-...
-
-[Data](articles/99222ae5.json)
-
-[Extended Data](ext_articles/99222ae5.ext.json)
-
----
-
-### Special center for rehabilitation of drug addicted
-
-*2024-09-16 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201066) · `si`
-
-Rehabilitation Bureau establishes special center in Vavuniya for 100 women addicted to hazardous drugs. Center rehabilitates women via court orders. Commissioner General informs Ministry of Justice about the center. Judicial Service Commission instructs judges to refer cases to this center for drug addiction rehabilitation.
-
-🟩
-
-Rehabilitation Bureau has taken steps to set up a special center to rehabilitate the women who are addicted to hazardous drugs.
-
-Established in Vavuniya area, 100 women can rehabilitate 100 women.
-
-Accordingly, drug addicted women have been rehabilitated across the center through court orders.
-
-The Commissioner General of Rehabilitation has informed the Ministry of Justice, Prison and Constitutional Reforms.
-
-The Judicial Service Commission has informed all Judges to refer to the new rehabilitation center in Vavuniya if he is referred to the rehabilitation of drug addicts to rehabilitation.
-
-◼️
-
-[Data](articles/3393262f.json)
-
-[Extended Data](ext_articles/3393262f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 21:39:22**
+As of **2024-09-16 22:13:09**
 
 ## Newspaper Stats
 
-*Scraped **44,209** Articles*
+*Scraped **44,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,209
 tamilmirrorlk | 5,763
 virakesarilk | 7,046
-adaderanasinhalalk | 7,570
+adaderanasinhalalk | 7,571
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,206 (100.0%) of 44,209 articles have been extended.
+44,210 (100.0%) of 44,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Ranil makes a drinking tourism from Point Pedarudda - Ranil
+
+*2024-09-16 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201095) · `si`
+
+President Ranil Wickremesinghe says that the Presidential Expenditure Official Principal President Mahinda Rajapaksa says that the country is being made into a complete tourist zone and the country is a complete tourist zone.
+
+He was speaking at Ranil today (16) at Kantala today.
+
+"Hard, I accept it. That weight I want to. Let's move on. Like the slightest Maldives.  ඒක තමයි දැන් මේක තහවුරු කරන්න ඊළඟ අවුරුදු පහ ඉල්ලන්නේ.  බලන්න...බලන්න, නොවැම්බර් මාසෙන් පස්සේ කන්තලේ සීනි කම්හලයි, තවත් කම්හල් ගණනාවක් දාන්න යනවා. I want to win it all. Otherwise, do nothing. Like it.A complete tourist zone will commence from Point Pedaru. We're going to improve. Come to the place everywhere. Solve the kitchen issue to the gas cylinder. And the rest will I do. "
+
+◼️
+
+[Data](articles/755bc89e.json)
+
+[Extended Data](ext_articles/755bc89e.ext.json)
+
+---
 
 ### More than 200 inmates escape as Nigerian prison wall collapses in floods
 
@@ -49,6 +67,8 @@ Weeks of flooding across Nigeria have led to 269 deaths and displaced more than 
 ...
 
 [Data](articles/68a2eb42.json)
+
+[Extended Data](ext_articles/68a2eb42.ext.json)
 
 ---
 
@@ -128,19 +148,23 @@ He was speaking at a series of famous familion held for the presidential electio
 
 ---
 
-### சகல இன மக்களின் வாக்குகளாலும் வெற்றி பெறக்கூடிய தலைவராக சஜித் - முஜிபுர் ரஹ்மான்
+### Sajid - Mujibur Rahman
 
 *2024-09-16 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193881) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தோல்வியை முன்னரே தெரிந்து கொண்ட பொதுஜன பெரமுனவின் உறுப்பினர்கள் பலரும் தற்போது அமைதியைப் பேணுகின்றனர். எமது வெற்றி உறுதிப்படுத்தப்பட்டுள்ளது. சகல இன மக்களின் வாக்குகளாலும் வெற்றி பெறக் கூடிய தலைவராக சஜித் காணப்படுகின்றார் என பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+Many members of the PA, who have already learned of the defeat of President Ranil Wickremesinghe, are currently maintaining peace. Our success has been confirmed. Parliamentarian Mujibur Rahman said Sajith is seen as the leader of the votes of all ethnicities.
 
-கொழும்பிலுள்ள ஐக்கிய மக்கள் சக்தி அலுவலகத்தில் திங்கட்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated this at a press conference held at the United People's Power Office in Colombo on Monday (16).
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க தேர்தலில் வெற்றி பெற மாட்டார். எனவே தான் பொதுஜன பெரமுனவின் உறுப்பினர்கள் பலரும் அமைதியைப் பேணுகின்றனர். ஜனாதிபதிக்கு ஆதரவளிக்கும் எந்தவொரு எம்.பி.க்களையும் தேர்தல் பிரசார மேடைகளில் காணக்கூடியதாக இல்லை. யானை சின்னத்தில் வெற்றி பெற முடியாது என்பதற்காகவே அவர் எரிவாயு சிலிண்டர் சின்னத்தில் போட்டியிடுகின்றார்.
+President Ranil Wickremesinghe will not win the election. This is why many members of the PA have maintained peace. Any MPs who support the president are not visible on the election campaign platform. He is competing in the gas cylinder symbol so that the elephant cannot win.
+
+So if any of the United National Party supporters decide to vote for him, he must change the decision and vote for Sajith Premadasa. UNP Galle District Leader Vajira Abeywardena says Ranil Wickremesinghe will win 100 lakh votes. If so, why did they not be able to attack the Elpitiya Pradeshiya Sabha election?
 
 ...
 
 [Data](articles/2446c371.json)
+
+[Extended Data](ext_articles/2446c371.ext.json)
 
 ---
 
@@ -360,19 +384,23 @@ This milestone record has been achieved after more than 20 years of efforts by c
 
 ---
 
-### අලුත විවාහවීමට නියමිත යුවළක් දළඳා මාළිගාවේ ඡායාරූප ගැනීම දුරදිග යන හැඩ
+### A newly worthy couple is far-reaching photos in the Dalada Maligawa
 
 *2024-09-16 18:33:18* · [`adalk`](https://www.ada.lk/breaking_news/අලුත-විවාහවීමට-නියමිත-යුවළක්-දළඳා-මාළිගාවේ-ඡායාරූප-ගැනීම-දුරදිග-යන-හැඩ/11-411968) · `si`
 
-අලුත විවාපත් වීමට නියමිතයුවළක් ඓතිහාසික ශ්‍රී දළදා මාළිගාවට පැමිණපූර්ව ඡායාරූපකරණයේ යෙදීමේ සිද්ධිය පිළිබඳවවිධිමත් පරීක්ෂණයක් පවත්වන ලෙසදන්වමින්මල්වතු අස්ගිරි මහනාහිමිවරුන්ට හා ජනාධිපතිවරයාඇතුළු බලධාරීන්ට දන්වමින්කන්ද උඩරට අභිමානයසංවිධානය විසින්ලිපියක් යොමුකොට තිබේ .
+A gemation of the Kandyan Court has set up an announcement to the President Mahinda Rajapaksa and the Presidential Association to appoint a new disclosure.
 
-එම සංවිධානයේ සභාපතිහිටපු බස්නායක නිලමේ සුදන්ත සේනානායකමහතා හා එහි ලේකම්සිවිල් ඉංජිනේරු සුනේත්‍රා හුලංගමුවමහත්මියගේ අත්සනින් යුතුවයොමුකොට ඇතිඑම ලිපියේ සඳහන් වන්නේඑම සිද්ධිය සුළුකොට තැකිය නොහැකි බවත්ශ්‍රී දළදා මාළිගාවේ කීර්ති නාමයටකැලැල් වන ආකාරයටහැසිරුණ එමයුවළ ඇතුළු ඊට සම්බන්ධ වූවන් පිළිබඳවවිධිමත් පරීක්ෂණයක් සිදුකොටඔවුන්ට එරෙහිව දඬුවම් පැමිණවිය යුතු බවයි .
+The summit of the organization was the signature of the organization and the signature of Suneen Ruinana and its senior engineering Suneen, Sainantha Hulangala, and the relevant incident should be punished against them.
 
-ශ්‍රී දළදා මාලිගාව තුළගෙන ඇති එම ඡායාරූපවල පසුබිමේවෙනත් කිසිවෙකුත්පෙනෙන්නට නොමැති බැවින්අනෙකුත් බැතිමතුන් ඉවත් කොටහෝ ශ්‍රී දළදා මාලිගාවේ දොරගුළු වසාඑම ඡායාරූප ගෙන ඇති බවක් පෙනෙන බැවින්ශ්‍රී දළදා මාලිගාවේ ආරක්ෂක අංශ ඇතුළුඅනෙකුත් පරිපාලන නිලධාරීන්ඊට වගකිව යුතුව තිබෙන බවදපවසයි .
+The administrative officers of the Dalada Maligawa are responsible for the administrative officers of the Dalada Maligawa, as they are not able to remove any photos of the Sri Dalada Maligawa.
 
-...
+Meanwhile, he said that he was told by a complaint made by a complaint made by a complaint made by the department of the UPFA regarding the incident.
+
+◼️
 
 [Data](articles/1fb866b7.json)
+
+[Extended Data](ext_articles/1fb866b7.ext.json)
 
 ---
 
@@ -2341,29 +2369,5 @@ He added that the police continue to make their efforts to ensure the independen
 [Data](articles/b6945f96.json)
 
 [Extended Data](ext_articles/b6945f96.ext.json)
-
----
-
-### Man shot dead in Mount Lavinia
-
-*2024-09-16 08:27:30* · [`adalk`](https://www.ada.lk/breaking_news/ගල්කිස්සේ-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-411952) · `si`
-
-Mount Lavinia: Man killed in shooting near Dehiwala. Victim identified as 27-year-old Varindu Saturis. Incident occurred around 8:45 PM. Police investigation ongoing.
-
-🟩
-
-Dehiwala Phase 4, Mount Lavinia House
-
-The incident took place around 8.45 pm and the assassination is a resident of Varindu Saturis (27), a resident of Badtota.
-
-The night was shot dead at a motorcycle at around 8.45 pm and had fled with his mother and little mother in the house.Police said the police said.
-
-Earlier, STI officers had already come to the Mount Lavinia Headquarters Police and Special Task Force officials with the Dehiwala Police and Special Task Force (STF) have been admitted to the Colombo South Teaching Hospital.The LTTE has been transferred to the Tiger Hospital due to the seriousness of the situation, due to the death of the situation.
-
-◼️
-
-[Data](articles/749477a3.json)
-
-[Extended Data](ext_articles/749477a3.ext.json)
 
 ---

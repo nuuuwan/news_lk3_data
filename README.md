@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 15:57:26**
+As of **2024-09-16 16:11:26**
 
 ## Newspaper Stats
 
-*Scraped **44,172** Articles*
+*Scraped **44,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 2,684
 dailyftlk | 2,920
 adalk | 4,076
 dailymirrorlk | 4,733
-adaderanalk | 5,203
+adaderanalk | 5,204
 tamilmirrorlk | 5,753
 virakesarilk | 7,039
-adaderanasinhalalk | 7,563
+adaderanasinhalalk | 7,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,172 (100.0%) of 44,172 articles have been extended.
+44,174 (100.0%) of 44,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Ministry of Finance announced on foreign debt
+
+*2024-09-16 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201087) · `si`
+
+Sri Lanka Ministry of Finance denies foreign debt repayment claims. Suspension applies only to commercial and bilateral loans. Economic stability relies on foreign loans. Repayment resumption expected to stabilize economy. Multilateral debt restructuring ongoing despite suspension. Government continues credit services with Central Bank, State Bank, and Private Sector. Annual average loan service payments maintained pre-April 2022 levels.
+
+🟩
+
+The Ministry of Finance, Economic Stability and National Policy stated that it is false that Sri Lanka is not repaid in April 2022.
+
+The Ministry of Taxes issued an announcement in April 2022, the suspension of temporary debts in April 2022 is only the relevant commercial loans and official bilateral loans.
+
+It also stated that the economic stabilization of Sri Lanka is now based on foreign loans.
+
+The announcement shows that the economic instability is being rehabilitated when the loan service begins again.
+
+It is also unfortunate that it is a very unfortunate that the use of these factors is the use of such factors, which are used and less assessed and less assessed in the economy.
+
+...
+
+[Data](articles/89039421.json)
+
+[Extended Data](ext_articles/89039421.ext.json)
+
+---
+
+### Sajith Premadasa urges people to elect a leader who treats all equally
+
+*2024-09-16 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102021/sajith-premadasa-urges-people-to-elect-a-leader-who-treats-all-equally) · `en`
+
+Sajith Premadasa, the presidential candidate of the Samagi Jana Balawegaya (SJB), emphasized the importance of electing a leader who treats everyone equally, regardless of caste or religion.
+
+He made this statement during a rally held yesterday (15) in the Kaththankudy area.
+
+Drawing a parallel with Malaysia’s thriving tourism industry, Premadasa highlighted the potential for Sri Lanka to strengthen its own tourism sector.
+
+“By taking cues from Malaysia, we can elevate our tourism industry to new heights,” he remarked.
+
+He also pledged to address the housing issues in Kaththankudy by creating housing schemes for families without lands or houses.
+
+Additionally, he also promised to transform all 361 schools in the Batticaloa District into ‘smart schools’ and to upgrade all local hospitals into ‘smart hospitals.’
+
+...
+
+[Data](articles/80d0cd23.json)
+
+[Extended Data](ext_articles/80d0cd23.ext.json)
+
+---
 
 ### I oppose the resolution of the Tamil party - C. Chitran
 
@@ -2291,45 +2341,5 @@ The document outlines a comprehensive policy framework designed to enhance the c
 [Data](articles/b8dc38e4.json)
 
 [Extended Data](ext_articles/b8dc38e4.ext.json)
-
----
-
-### President Ranil Wickremesinghe created the independence of opposition candidates - Senthil Thondaman
-
-*2024-09-16 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193798) · `ta`
-
-Senthil Thondaman supports Ranil Wickremesinghe as independent presidential candidate. He criticizes other candidates for not addressing issues like salary increases and land distribution. Thondaman claims Wickremesinghe created opportunities for opposition candidates, comparing his presidency to JR Jayewardene's era.
-
-🟩
-
-"When the country was waiting for anyone to come to rescue them in 2022, none of the candidates today came.. So the safety is to travel with the president who defended the country.
-
-The president never had to stand in line. The people who are about to choose them will stand in line. Senthil Thondaman, the President of the Ceylon Workers Congress and the Governor of the Eastern Province, said that the government, which has received a salary increase of 1,350 rupees today, will soon increase the salary increase.
-
-The campaign meeting was held on 15.09.2024 in Nuwara Eliya, supporting the independent candidate Ranil Wickremesinghe, who is contesting the presidential election.
-
-...
-
-[Data](articles/6c91aebd.json)
-
-[Extended Data](ext_articles/6c91aebd.ext.json)
-
----
-
-### ComBank promotes smart agriculture practices
-
-*2024-09-16 01:58:00* · [`islandlk`](http://island.lk/combank-promotes-smart-agriculture-practices/) · `en`
-
-Hayleys, AgStar, John Deere, DIMO, CIC and Browns join the bank’s effort
-
-The Commercial Bank of Ceylon recently brought together a coalition of some of the biggest names is Sri Lanka’s agriculture sector to conduct an ‘Agri Modernisation Fair’ for farmers in the Vavuniya area and introduce the latest technologies available to them and promote smart agriculture.
-
-Industry leaders of the calibre of Hayleys, AgStar, John Deere, DIMO, CIC and Browns participated in the day-long fair, alongside representatives of the Drone Unit of the Agrarian Production Centre. The fair was attended by the students of the Agriculture School of Vavuniya, GCE Advanced Level students and teachers of Puthukkulam Maha Vidyalayam, members of farmer societies and entrepreneurs in and around Sasthirikoolankulam.
-
-...
-
-[Data](articles/2d9f4111.json)
-
-[Extended Data](ext_articles/2d9f4111.ext.json)
 
 ---

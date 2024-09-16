@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 01:22:30**
+As of **2024-09-17 01:38:01**
 
 ## Newspaper Stats
 
-*Scraped **44,227** Articles*
+*Scraped **44,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 426
 colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
-dailyftlk | 2,929
+dailyftlk | 2,930
 adalk | 4,085
 dailymirrorlk | 4,733
 adaderanalk | 5,210
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,227 (100.0%) of 44,227 articles have been extended.
+44,227 (100.0%) of 44,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Japan, a true friend
+
+*2024-09-17 01:08:18* · [`dailyftlk`](https://www.ft.lk/columns/Japan-a-true-friend/4-766778) · `en`
+
+Airport expansion will soon begin with the appointment of the new contractor
+
+The spirit of the San Francisco Peace Treaty, that is, reconciliation, fairness, and generosity, was eloquently emphasised by J.R. Jayewardene at the momentous occasion of the Peace Conference in 1951, inspired by the great teachings of Lord Buddha, “Hatred ceases not by hatred, but by love…!”
+
+His words were, “We extend to Japan a hand of friendship, and trust that with the closing of this chapter in the history of man the last page of which we write today and with the beginning of the new one, the first page together to enjoy the full dignity of human life in peace and prosperity.”
+
+...
+
+[Data](articles/111c556a.json)
+
+---
 
 ### Pelwatte Dairy Industries reinforces commitment to safety and environmental sustainability
 
@@ -2329,27 +2345,5 @@ Accordingly, the Judicial Service Commission has announced to all judges to reco
 [Data](articles/793c019d.json)
 
 [Extended Data](ext_articles/793c019d.ext.json)
-
----
-
-### Introduction of Sumanthiran's magazine
-
-*2024-09-16 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/193826) · `ta`
-
-"Sumanthiram" magazine launched by Opposition Leader Sajith Premadasa in Jaffna. Handed over to MP MA Sumanthiran. Contains articles supporting TNA, criticizing Ranil Wickremesinghe, and questioning Tamil general election candidates' viability. Distributed free at Manipay meeting.
-
-🟩
-
-The "Sumanthiram" newspaper has been handed over to the Opposition Leader and introduced by Parliamentarian MP MA Sumanthiran.
-
-Opposition Leader Sajith Premadasa at Manipay in Jaffna handed over the newspaper to the opposition leader and introduced the newspaper to the meeting and distributed freely to those who attended the meeting.
-
-There have been some articles in the newspaper why the TNA supports Sajith, why Ranil should fall and Tamil general candidate political suicide.
-
-◼️
-
-[Data](articles/37426332.json)
-
-[Extended Data](ext_articles/37426332.ext.json)
 
 ---

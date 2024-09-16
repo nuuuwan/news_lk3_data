@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 22:13:09**
+As of **2024-09-16 22:24:49**
 
 ## Newspaper Stats
 
-*Scraped **44,210** Articles*
+*Scraped **44,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 2,684
 dailyftlk | 2,920
 adalk | 4,083
 dailymirrorlk | 4,733
-adaderanalk | 5,209
+adaderanalk | 5,210
 tamilmirrorlk | 5,763
 virakesarilk | 7,046
-adaderanasinhalalk | 7,571
+adaderanasinhalalk | 7,572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,210 (100.0%) of 44,210 articles have been extended.
+44,210 (100.0%) of 44,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### බංග්ලාදේශ අරගලයෙන් පසු ආගම් ඉලක්ක කරගත් ප්‍රහාර තීව්‍රවෙයි
+
+*2024-09-16 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201096) · `si`
+
+අරගලයෙන් පසු බංග්ලාදේශය තුළ ආගම් ඉලක්ක කරගෙන එල්ලවන ප්‍රහාර තවත් තීව්‍ර වී තිබේ.
+
+තරුණ ඉස්ලාමීය සිසුන්ගේ සාමාජිකත්වයෙන් යුතු ජමාත් ඊ ඉස්ලාම් කල්ලි සාමාජිකයින් කාන්තාවන්ට පවා දැඩි හිංසන සිදුකරයි.
+
+මෙම ප්‍රචණ්ඩ ක්‍රියා සිදුව තිබුණේ සංචාරක මර්මස්ථානයක් වන කොක්ස් බසාර් කලාපයේදීය.
+
+මෙම අරගල ක්‍රියාකාරීන් තමන්ට අනන්‍ය ෂරියා ප්‍රතිපත්ති ක්‍රියාත්මක කරමින් සිටින අතර,කාන්තාවන් හිජාබය හෝ බුර්කාව පැළඳ නැතැයි පවසමින්  ඔවුන් මෙලෙස කාන්තාවන්ට පහර දී තිබුණි.
+
+තමන්ගේ පැහැරගත් ජංගම දුරකථනය සොයාදෙන්නැයි ඉල්ලා පොලිස් ස්ථානයකට පැමිණි කාන්තාවක් පොලිස් නිලධාරීන් ඉදිරියේම අරගල ක්‍රියාකාරීන්ගේ තාඩන පීඩනවලට ලක්වන්නේ රට පත්ව ඇති අරාජිකත්වය මොනොවට පෙන්වමිනි.
+
+◼️
+
+[Data](articles/16b70755.json)
+
+---
+
+### Commonwealth marks 200 election observations with Sri Lanka polls
+
+*2024-09-16 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102027/commonwealth-marks-200-election-observations-with-sri-lanka-polls) · `en`
+
+A Commonwealth Observer Group (COG) has arrived in Colombo for Sri Lanka’s presidential election, marking the Commonwealth’s 200th election observation since it began observing in the 1980s.
+
+The country heads to the polls on 21 September, with a 15-person Observer Group deployed by the Commonwealth Secretary-General to observe the entire process, following an invitation from Sri Lanka’s Election Commission.
+
+In a press statement in Colombo, Chairperson of the Group, former President of Seychelles HE Danny Faure, said he was honoured to be in Sri Lanka to mark the Commonwealth’s 200th election observation milestone.
+
+He said: “We are here as part of the Commonwealth’s full electoral cycle approach in its engagement with member countries, to help strengthen democratic institutions and processes, and enable citizen participation and representation during elections.
+
+...
+
+[Data](articles/0f261fde.json)
+
+---
 
 ### Ranil makes a drinking tourism from Point Pedarudda - Ranil
 
@@ -2323,51 +2361,5 @@ Before making a decision, it is proposed that the decision to be taken by the ca
 [Data](articles/bb83ab2a.json)
 
 [Extended Data](ext_articles/bb83ab2a.ext.json)
-
----
-
-### New rehabilitation center for women drug addicts established in Vavuniya
-
-*2024-09-16 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102008/new-rehabilitation-center-for-women-drug-addicts-established-in-vavuniya) · `en`
-
-The Bureau of Rehabilitation has initiated the establishment of a special center dedicated to rehabilitating women addicted to dangerous drugs.
-
-The facility, located in the Vavuniya area, has the capacity to rehabilitate up to 100 women. Rehabilitation will be carried out under court orders, focusing on supporting women struggling with drug addiction.
-
-The Commissioner General of Rehabilitation has informed the Ministry of Justice, Prison Affairs, and Constitutional Reforms about the center, and the Judicial Service Commission has notified all judges to refer women drug addicts in need of rehabilitation to this new facility.
-
-◼️
-
-[Data](articles/e5d063fe.json)
-
-[Extended Data](ext_articles/e5d063fe.ext.json)
-
----
-
-### Will the curfew be enacted on the election?
-
-*2024-09-16 08:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலன்று-ஊரடங்குச்-சட்டம்-அமுலாகுமா/175-343833) · `ta`
-
-Curfew not planned for election day: Ministry of Public Security. Police and STF to conduct security measures. Armed forces ready to assist if needed. No curfew implementation until after voting on September 21. President holds final decision on curfew. Over 500 election rallies held without major incidents. Police efforts focus on ensuring independent and fair elections.
-
-🟩
-
-The Ministry of Public Security has said that there is no plan to implement the curfew on the day of Elections, and that all security measures are in effect and that the armed forces are ready if needed.
-
-Secretary to the Ministry of Public Security Viani Gunathilaka told the Daily Mirror that the police and the Special Task Force (STF) will carry out security measures during the election period.. The armed forces are also ready to support the police if needed.
-
-Gunathilaka said that there were no arrangements to implement the curfew, when the curfew would be implemented after voting on September 21.
-
-He added that the president only has a decision to implement the curfew.
-
-He noted that more than 500 election rallies have been held across the country without any massive incidents.
-
-He added that the police continue to make their efforts to ensure the independent and fair election.
-
-◼️
-
-[Data](articles/b6945f96.json)
-
-[Extended Data](ext_articles/b6945f96.ext.json)
 
 ---

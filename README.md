@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 00:38:17**
+As of **2024-09-17 00:54:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,221 (100.0%) of 44,227 articles have been extended.
+44,223 (100.0%) of 44,227 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -120,21 +120,29 @@ Is it correct that Sri Lanka does not service any of its foreign debt following 
 
 ---
 
-### தொங்கு பாலத்தின் 75% பயணம் முடிந்தது: மீண்டும் வீழ்ச்சியடையாத பொருளாதாரத்தை உருவாக்க ஆணையை எனக்குத் தாருங்கள் - ஜனாதிபதி
+### 75% of the hanging bridge ended: Give me the mandate to create an unprecedented economy - the President
 
 *2024-09-16 23:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193883) · `ta`
 
-நாட்டின் பொருளாதாரத்தை ஸ்திரப்படுத்தி, தற்போது 75% தொங்கு பாலத்தின் பயணத்தை எட்டியுள்ளதுடன், தொங்கு பாலத்தின் பயணத்தை முடித்து, மீண்டும் வீழ்ச்சியடையாத வலுவான பொருளாதாரத்தை நாட்டில் உருவாக்க வேண்டுமென்றால், கட்சி நிற பாகுபாடின்றி இந்த நாட்டு அனைத்து மக்களும் செப்டெம்பர் 21 ஆம் திகதி ஒன்றிணைய வேண்டும் என்றும் தெரிவித்தார்.
+Sri Lanka's President Ranil Wickremesinghe calls for unity to stabilize economy. He urges citizens to vote on Sept 21 without party bias. The president emphasizes his efforts to restore peace and economy after 2022 struggles.
 
-க்ருஷா ஒரு நதாலியாவை எதிர்கொள்ள வேண்டியிருந்தாலும், தான் இரண்டு நதாலியாக்களை எதிர்கொள்ள வேண்டியிருந்தது என்றும், இருவரும் குழந்தையின் உரிமைக்காக குரல் கொடுத்தாலும், தொங்கு  பாலத்தின் பயணத்தை முடித்து நாட்டை வெல்வேன் என்றும் ஜனாதிபதி வலியுறுத்தினார்.
+🟩
 
-அம்பாறையில் திங்கட்கிழமை (16) பிற்பகல் இடம்பெற்ற ‘ரணிலால் இயலும்’ வெற்றிப் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+He said that all the people of this country should unite on September 21 without the party's color discrimination, if the country's economy is to be stabilized and now reached 75% of the hanging bridge, and the country that does not fall back in the country.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியைக் கொண்டாடும் வகையில் ஏற்பாடு செய்யப்பட்டிருந்த இந்த பேரணியில் பெருந்திரளான மக்கள் கலந்துகொண்டனர்.
+The president stressed that even if Krusha had to face a Natalia, he had to face the two Nataliyas and that the two would end the journey of the hanging bridge, even if they were voiced for the right of the child.
+
+President Ranil Wickremesinghe made this statement while addressing the Ranil's Victory rally in Ampara on Monday afternoon.
+
+A large number of people participated in the rally, which was organized to celebrate President Ranil Wickremesinghe's victory in the upcoming presidential election.
+
+Today we face the most important election. This election must be said to be an election that determines the future of the people.
 
 ...
 
 [Data](articles/31706985.json)
+
+[Extended Data](ext_articles/31706985.ext.json)
 
 ---
 
@@ -147,6 +155,8 @@ Ranil Wickremesinghe (RW) has been with the Parliament for about 47 years. Witho
 ...
 
 [Data](articles/867a6595.json)
+
+[Extended Data](ext_articles/867a6595.ext.json)
 
 ---
 

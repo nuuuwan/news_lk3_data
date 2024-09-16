@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 19:38:16**
+As of **2024-09-16 19:56:53**
 
 ## Newspaper Stats
 
-*Scraped **44,196** Articles*
+*Scraped **44,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,207
 tamilmirrorlk | 5,760
 virakesarilk | 7,043
-adaderanasinhalalk | 7,567
+adaderanasinhalalk | 7,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,196 (100.0%) of 44,196 articles have been extended.
+44,197 (100.0%) of 44,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### All people are being protected - Sajith
+
+*2024-09-16 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201092) · `si`
+
+Sajith Premadasa promises protection for all Sri Lankans regardless of race or religion. He emphasizes his commitment to national unity and development during rallies in Anuradhapura and Dambulla.
+
+🟩
+
+Sajith Premadasa emphasized the presidential candidate Sajith Premadasa who is protecting all Sri Lankans after he is President.
+
+He made these comments addressing a rally in Anuradhapura today.
+
+Sajith Premadasa, Presidency, the Presidential Examination of the Higher Society,
+
+...
+
+[Data](articles/23848776.json)
+
+[Extended Data](ext_articles/23848776.ext.json)
+
+---
 
 ### Spontaneous appointments in advance of the election
 
@@ -2373,27 +2395,5 @@ The Judicial Service Commission has informed all Judges to refer to the new reha
 [Data](articles/3393262f.json)
 
 [Extended Data](ext_articles/3393262f.ext.json)
-
----
-
-### Trump safe after apparent assassination attempt, person in custody
-
-*2024-09-16 06:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102005/trump-safe-after-apparent-assassination-attempt-person-in-custody) · `en`
-
-Donald Trump was the target of an apparent assassination attempt Sunday in Florida, the FBI said, with the Republican presidential candidate’s campaign and law enforcement reporting he was safe and unharmed.
-
-The US Secret Service confirmed one or more of its agents “opened fire on a gunman” located near the boundary of Trump’s golf course, and that an “AK-47 style rifle” with a scope was recovered along with a GoPro video camera.
-
-Amid the confrontation with the Secret Service, the suspect bolted out of the shrubbery he had been hiding in and escaped in a black car. A witness helped police identify the vehicle and authorities tracked it down.
-
-“We have somebody in custody right now that is a potential suspect,” Palm Beach County Sheriff Ric Bradshaw told a news conference.
-
-Trump had been golfing at his course in West Palm Beach, Florida, not far from his Mar-a-Lago residence, when the would-be shooter was spotted in bushes one hole ahead of the former president, Bradshaw said.
-
-...
-
-[Data](articles/c3080e16.json)
-
-[Extended Data](ext_articles/c3080e16.ext.json)
 
 ---

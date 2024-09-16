@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 08:44:14**
+As of **2024-09-16 08:58:16**
 
 ## Newspaper Stats
 
-*Scraped **44,097** Articles*
+*Scraped **44,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,84 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,681
 dailyftlk | 2,920
-adalk | 4,065
+adalk | 4,066
 dailymirrorlk | 4,733
-adaderanalk | 5,189
+adaderanalk | 5,191
 tamilmirrorlk | 5,741
 virakesarilk | 7,021
-adaderanasinhalalk | 7,547
+adaderanasinhalalk | 7,548
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,092 (100.0%) of 44,097 articles have been extended.
+44,097 (100.0%) of 44,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### රට ඉදිරියට ගෙනයාමට ජාතික උපායමාර්ගික සැලසුම් අධිකාරියක්
+
+*2024-09-16 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201068) · `si`
+
+රට ඉදිරියට යාමට අවශ්‍යනම් ඒ සඳහා ජාතික උපාය මාර්ගික සැලසුම් අධිකාරියක් අවශ්‍ය බව සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+ඊයේ (15) දෙරණ 360 වැඩසටහනට සහභාගී වෙමින් ඔහු පැවසුවේ අමාත්‍යවරුන් විසින් ගන්නා ලද සිතැඟි තීරණ හේතුවෙන් මෙරට මේ වනවිට විශාල ණය කන්දක සිර වී සිටින බවයි.
+
+මේ හේතුවෙන් අමාත්‍යාංශයක් තීරණයක් ගැනීමට පෙර ඒ ගැන සාකච්ඡා කිරීම කළ යුතු බවත් ඒ සඳහා විද්‍යාර්ථයින් සහ විශේෂඥයින් ඇතුළත් ජාතික උපාය මාර්ගික සැලසුම් අධිකාරියක් අත්‍යවශ්‍ය බව ඔහු එහිදී පැවසීය.
+
+"අපි යෝජනා කරනවා ජාතික උපාය මාර්ගික සැලසුම් අධිකාරියක්. මේ තුළින් තමයි තීන්දු තීරණ ගන්නේ.
+
+මේ පිළිබඳ විශාල සංවාදයක් නැහැ. අපි යෝජනා කරන මේ ජාතික උපායමාර්ගික සැලසුම් අධිකාරියට අපි යෝජනා කරලා තියනවා මේ රටේ විද්‍යාර්ථයින්, විශේෂඥයින්.
+
+අමාත්‍යාංශයක් තීරණයක් ගන්න කලින් ඒක ගැන සාකච්ඡා වෙන්නට ඕන ඒ සියලු අමාත්‍යාංශ නියෝජනය වෙන පිරිස තුළින් ඒ තීරණය ගන්න කොට ඒක මේ රටට බලපාන මුදල් පැත්තෙන්, පරිසරය පැත්තෙන්, දරුවන්ගේ පැත්තෙ, ‍දේ සාකච්ඡා වෙලා තමයි ඒ තීරණය ගන්න ඕන කියන එක තමයි යෝජනා කරලා තියන්නේ.
+
+...
+
+[Data](articles/bb83ab2a.json)
+
+---
+
+### Milad-un-Nabi celebrates unity and brotherhood - President
+
+*2024-09-16 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102007/milad-un-nabi-celebrates-unity-and-brotherhood-president) · `en`
+
+President Ranil Wickremesinghe stated that Sri Lankan Muslims join their fellow believers worldwide in celebrating Milad-un-Nabi, fostering a spirit of unity and brotherhood.
+
+He highlighted that Prophet Muhammad earned the unwavering trust of those around him through his integrity and character and also that his sacrifices for upholding justice, humanity, and righteousness are beyond measure.
+
+He added that the core teachings of Prophet Muhammad emphasize mutual understanding, justice, harmony, and the rejection of hatred.
+
+In his message for Milad-un-Nabi, the President extended his heartfelt wishes to the entire Muslim community in Sri Lanka and around the world for a meaningful celebration, where the values of the Prophet guide efforts to achieve peace and prosperity through unity and understanding.
+
+...
+
+[Data](articles/4fbb9219.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-09-16 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102006/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Fairly heavy showers of about 50 mm are likely at some places in these areas, the department said.
+
+Several spells of showers will occur in North-western province and in Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Eastern and Uva province and in Polonnaruwa district during the evening or night, it said.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/daef24fb.json)
+
+---
 
 ### What Arabian Sultana is Ranil Wickremesinghe?
 
@@ -114,23 +176,29 @@ Winds from the west or southwest at speeds of 30 - 40 km / h in the sea regions.
 
 ---
 
-### මත්ද්‍රව්‍යට ඇබ්බැහි වූ කාන්තාවන් පුනරුත්ථාපනයට විශේෂ මධ්‍යස්ථානයක්
+### Special center for rehabilitation of drug addicted
 
 *2024-09-16 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201066) · `si`
 
-අන්තරායකර ඖෂධ වලට ඇබ්බැහි වූ කාන්තාවන් පුනරුත්ථාපනය කිරීම සඳහා විශේෂ මධ්‍යස්ථානයක් පිහිටුවීමට පුනරුත්ථාපන කාර්යංශය පියවර ගෙන තිබේ.
+Rehabilitation Bureau establishes special center in Vavuniya for 100 women addicted to hazardous drugs. Center rehabilitates women via court orders. Commissioner General informs Ministry of Justice about the center. Judicial Service Commission instructs judges to refer cases to this center for drug addiction rehabilitation.
 
-වව්නියාව ප්‍රදේශයේ ඉදිකර ඇති එම මධ්‍යස්ථානය තුළ කාන්තාවන්  100 දෙනෙකු පුනරුත්ථාපනය කළ හැකි බව වාර්තා වේ.
+🟩
 
-ඒ අනුව අධිකරණ නියෝග යටතේ මත්ද්‍රව්‍ය වලට ඇබ්බැහි වූ කාන්තාවන් මෙම මධ්‍යස්ථානය හරහා පුනරුත්ථාපනය කිරීමට සැලසුම් කර ඇත.
+Rehabilitation Bureau has taken steps to set up a special center to rehabilitate the women who are addicted to hazardous drugs.
 
-ඒ පිළිබඳව පුනරුත්ථාපනය කොමසාරිස් ජනරාල්වරයා විසින් අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යාංශය දැනුවත් කර ඇති බව වාර්තා වේ.
+Established in Vavuniya area, 100 women can rehabilitate 100 women.
 
-ඒ අනුව මත්ද්‍රව්‍යට ඇබ්බැහි වූ කාන්තාවන් පුනරුත්ථාපනය සඳහා යොමු කරන්නේ නම් වව්නියාවේ පිහිටි මෙම නව පුනරුත්ථාපන මධ්‍යස්ථානය වෙත යොමු කරන ලෙස අධිකරණ සේවා කොමිසන් සභාව සියලු විනිසුරුවරුන්ට දැනුම්දී තිබේ.
+Accordingly, drug addicted women have been rehabilitated across the center through court orders.
+
+The Commissioner General of Rehabilitation has informed the Ministry of Justice, Prison and Constitutional Reforms.
+
+The Judicial Service Commission has informed all Judges to refer to the new rehabilitation center in Vavuniya if he is referred to the rehabilitation of drug addicts to rehabilitation.
 
 ◼️
 
 [Data](articles/3393262f.json)
+
+[Extended Data](ext_articles/3393262f.ext.json)
 
 ---
 
@@ -656,35 +724,51 @@ Industry leaders of the calibre of Hayleys, AgStar, John Deere, DIMO, CIC and Br
 
 ---
 
-### சஜித் பிரச்சார மேடையில் சுமந்திரன்
+### Sumanthiran on Sajith's campaign platform
 
 *2024-09-16 01:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரச்சார-மேடையில்-சுமந்திரன்/175-343804) · `ta`
 
-யாழ்ப்பாணம் மானிப்பாயில் நடைபெற்ற சஜித் ஆதரவு மக்கள் கூட்டத்தில் வைத்து, இலங்கைத் தமிழரசுக் கட்சியின் பேச்சாளர் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் மேடையேறினார்.
+Sumanthiran supports Sajith Premadasa in presidential election. TNA central executive committee backs opposition leader. Party denies changing stance despite alternative views from leaders.
 
-இலங்கைத் தமிழரசுக் கட்சியின் மத்திய செயற்குழு, எதிர்வரும் ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை ஆதரிப்பதற்குத் தீர்மானித்திருந்தது.
+🟩
 
-இதனையடுத்து அந்தத் தீர்மானம் தொடர்பாகக் கட்சியின் தலைவர் மாவை சேனாதிராஜா உள்ளிட்டவர்கள் மாற்றுக் கருத்துக்களை வெளியிட்டிருந்தாலும், அந்தத் தீர்மானத்தில் எந்த மாற்றங்களும் இல்லை என்று இலங்கைத் தமிழரசுக் கட்சி விசேட ஊடக அறிக்கை ஒன்றை வெளியிட்டு அறிவித்தது.
+MP MA Sumanthiran, a spokesman for the Sri Lanka Tamil National Party (TNA), held a stage at the Sajith -backed public meeting held at Manipay in Jaffna.
 
-இந்தநிலையில் நேற்று சஜித் பிரேமதாசவுக்கு ஆதரவாகத் தமிழரசுக் கட்சியின் பேச்சாளர் எம்.ஏ.சுமந்திரன் யாழ்ப்பாணத்தில் மேடையேறி உரையாற்றி இருந்தார். (a)
+The central executive committee of the Sri Lanka TNA has decided to support opposition leader Sajith Premadasa in the upcoming presidential election.
+
+Subsequently, the party's leader Mawai Senathirajah and others made alternative comments on the resolution, but the Sri Lanka TNA issued a special media statement that there would be no change in the resolution.
+
+TNA spokesman MA Sumanthiran was speaking in Jaffna yesterday in support of Sajith Premadasa.. (A)
 
 ◼️
 
 [Data](articles/876e44e4.json)
 
+[Extended Data](ext_articles/876e44e4.ext.json)
+
 ---
 
-### பெண் ஒருவர் சடலமாக மீட்பு
+### The woman is a corpse recovery
 
 *2024-09-16 01:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-ஒருவர்-சடலமாக-மீட்பு/175-343803) · `ta`
 
-யாழ். கொட்டடி பகுதியைச் சேர்ந்த கலைச்செல்வன் யதுசாயினி என்ற 22 வயது யுவதியே சடலமாக மீட்கப்பட்டுள்ளார்.
+Here's a 200-character summary:
 
-வீட்டில் உள்ளவர்கள் அனைவரும் வெளியே சென்றிருந்த நிலையில் மேற்படி யுவதி நேற்று மதியம் தனியாக வீட்டில் இருந்துள்ளார். வெளியே சென்றவர்கள் வீடு திரும்பிய வேளை அந்த யுவதி தூக்கில் தொங்கிய நிலையில் சடலமாகக் காணப்பட்டுள்ளார்.
+
+
+Corpse recovery: 22-year-old Yall. Kalachelvan Yadusini found dead at home in Kotadi.
+
+🟩
+
+Yall. Kalachelvan Yadusini, a 22 -year -old woman from Kotadi, has been recovered.
+
+The woman was alone at home yesterday afternoon. When the outsiders returned home, the woman was found dead.
 
 ◼️
 
 [Data](articles/62402cf7.json)
+
+[Extended Data](ext_articles/62402cf7.ext.json)
 
 ---
 
@@ -1037,6 +1121,20 @@ In the travel consultation issued by the Department, residents of the country ar
 [Data](articles/29e61602.json)
 
 [Extended Data](ext_articles/29e61602.ext.json)
+
+---
+
+### 05 වසර ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල දින 40කින්
+
+*2024-09-15 20:25:49* · [`adalk`](https://www.ada.lk/breaking_news/05-වසර-ශිෂ්‍යත්ව-විභාගයේ-ප්‍රතිඵල-දින-40කින්/11-411951) · `si`
+
+මෙම විභාගයේ ප්‍රතිඵල ලබා දීමට දින 40ක පමණ කාලයන් ගත වන බවත්, කෙසේ වෙතත් කඩිනමින් ප්‍රතිඵල ලබා දීමට බලාපොරොත්තු වන බවත් විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසීය.
+
+ප්‍රතිඵල ලබා දීමට දින 40ක පමණ කාලයන් ගත වෙනවා. ඒත් අපි බලාපොරොත්තු වෙනවා හැකි ඉක්මනින් ප්‍රතිඵල ලබා දෙන්න
+
+◼️
+
+[Data](articles/a5fa81d1.json)
 
 ---
 
@@ -2163,93 +2261,5 @@ Further investigations are being carried out by the Police Drug Eradication Bure
 [Data](articles/b5b6d166.json)
 
 [Extended Data](ext_articles/b5b6d166.ext.json)
-
----
-
-### Longmade
-
-*2024-09-15 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/193732) · `ta`
-
-Sri Lanka: Gov't forms Truth Reconciliation Commission to shield criminals, allowing perpetrators to evade justice and avoid conviction.
-
-🟩
-
-The Sri Lankan government is going to protect the criminals. It is going to allow the perpetrators to escape. Is going to save from the danger of being convicted. To achieve this purpose, the Truth Reconciliation Commission is to be formed.
-
-◼️
-
-[Data](articles/d781219b.json)
-
-[Extended Data](ext_articles/d781219b.ext.json)
-
----
-
-### Russia and Ukraine exchange 206 prisoners
-
-*2024-09-15 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101996/russia-and-ukraine-exchange-206-prisoners) · `en`
-
-Russia and Ukraine have exchanged 206 prisoners of war in a deal brokered by the United Arab Emirates (UAE).
-
-Russia’s ministry of defence said its 103 released servicemen came from among those captured during the Kursk incursion.
-
-Posting pictures of some of those released on Saturday, Ukrainian President Volodymyr Zelensky said: “Our people are home”.
-
-Last month, Ukrainian forces launched a surprise attack across the Russian border, advancing up to 30km (18 miles) into the Kursk region.
-
-Zelensky said those Ukrainians released included 82 privates and sergeants and 21 officers from the armed forces, national guard, border guards, and police.
-
-He said they had been captured defending the regions of Kyiv, Donetsk, Mariupol, Azovstal, Luhansk, Zaporizhzhia, and Kharkiv.
-
-Russia said its released soldiers were in Belarus and would be given the “necessary psychological and medical assistance” and would be allowed to contact their relatives before being returned to Russia.
-
-...
-
-[Data](articles/7f3efd49.json)
-
-[Extended Data](ext_articles/7f3efd49.ext.json)
-
----
-
-### A man arrested with ice drugs in Mattukkuli
-
-*2024-09-15 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/193746) · `ta`
-
-Man arrested with ice drugs in Mattakkuli. Suspect caught in Samitpura area by Colombo Crime Branch officials during raid on Saturday.
-
-🟩
-
-A suspect in the Samitpura area of ​​the Mattakkuli police division has been arrested by the Mattakkuli police on Saturday (14).
-
-He was arrested during a raid carried out by a group of officials of the Colombo Crime Branch.
-
-◼️
-
-[Data](articles/d5442a4b.json)
-
-[Extended Data](ext_articles/d5442a4b.ext.json)
-
----
-
-### 25 people killed by leaking fuel
-
-*2024-09-15 14:32:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கசிந்த-எரிபொருளால்-25-பேர்-உடல்-கருகி-பலி/50-343781) · `ta`
-
-Fuel leak explosion kills 25 in Haiti; 40 hospitalized; PM visits, promises aid. Tanker blast occurs during cleanup efforts. Accidents common in area.
-
-🟩
-
-It suddenly exploded when it went to catch the leaked fuel in a tanker lorry in Haiti. At least 25 people were tragically killed in the incident.
-
-At least 40 people have been admitted to hospital in the incident in Mirakone.
-
-As soon as the Prime Minister Kary Gonel visited there, he visited there. Then he said, the incident is very gorgeous. He said he would help the family of the victims.
-
-The tanker was standing at 7 am. Eyewitnesses said that when the fuel was leaked, suddenly exploded. It is noteworthy that accidents are frequent there.
-
-◼️
-
-[Data](articles/738e97a7.json)
-
-[Extended Data](ext_articles/738e97a7.ext.json)
 
 ---

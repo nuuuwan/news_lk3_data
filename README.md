@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 06:43:42**
+As of **2024-09-16 07:26:21**
 
 ## Newspaper Stats
 
-*Scraped **44,075** Articles*
+*Scraped **44,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,187
 tamilmirrorlk | 5,736
 virakesarilk | 7,021
-adaderanasinhalalk | 7,543
+adaderanasinhalalk | 7,544
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,075 (100.0%) of 44,075 articles have been extended.
+44,076 (100.0%) of 44,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Heavy rains in several areas today
+
+*2024-09-16 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201062) · `si`
+
+Heavy rains, thunderstorms forecasted for Western, Sabaragamuwa, Galle, Matara, Kandy, Nuwara Eliya, Eastern, Uva, Polonnaruwa, Trincomalee, Hambantota districts. Strong winds possible in Western, North Central, North Western Provinces. Meteorological Department warns of potential lightning accidents.
+
+🟩
+
+Showers or thundershowers will occur at times in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
+
+There are several closes in the Kandy and Nuwara Eliya districts in the North Western and Nuwara Eliya.
+
+Showers or thundershowers will occur at several places in the Eastern and Uva provinces and in the Polonnaruwa District.
+
+Western, North Central and North Western Provinces and Trincomalee districts, Hambantota, North Central and North Western Provinces, North Central and North Western Provinces.. (40-45) can cause strong winds.
+
+The Department of Meteorology has further informed the Meteorological Department to take necessary steps to reduce temporary strong winds and lightning accidents.
+
+◼️
+
+[Data](articles/0c5c6fdc.json)
+
+[Extended Data](ext_articles/0c5c6fdc.ext.json)
+
+---
 
 ### Try again to kill Trump;Shoot
 
@@ -2265,23 +2291,5 @@ Ranil Wickremesinghe is staying in successful whether MPs will remain with Ranil
 [Data](articles/0b287abd.json)
 
 [Extended Data](ext_articles/0b287abd.ext.json)
-
----
-
-### India's wrong attitude
-
-*2024-09-15 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/193718) · `ta`
-
-India rejects Tamil demands from 1980s, citing 13th Amendment as solution to ethnic conflict. This stance ignores decades of unresolved issues and ongoing tensions between Sinhalese and Tamil communities.
-
-🟩
-
-India has openly stated that the provincial councils rejected by moderate Tamil leaders 37 years ago and the 13th Amendment are the solution to the ethnic problem.
-
-◼️
-
-[Data](articles/add52820.json)
-
-[Extended Data](ext_articles/add52820.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 09:38:44**
+As of **2024-09-16 09:57:32**
 
 ## Newspaper Stats
 
-*Scraped **44,110** Articles*
+*Scraped **44,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,192
 tamilmirrorlk | 5,748
 virakesarilk | 7,021
-adaderanasinhalalk | 7,549
+adaderanasinhalalk | 7,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,108 (100.0%) of 44,110 articles have been extended.
+44,111 (100.0%) of 44,111 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -145,6 +145,38 @@ In his message for Milad-un-Nabi, the President extended his heartfelt wishes to
 [Data](articles/4fbb9219.json)
 
 [Extended Data](ext_articles/4fbb9219.ext.json)
+
+---
+
+### Ms. Ms. They're the Prophet
+
+*2024-09-16 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201067) · `si`
+
+Here's a 200-character summary:
+
+
+
+Muhammad, born in Mecca, Arabia, preached peace and equality. He's considered Allah's chosen Prophet, introducing Islam through sermons, actions, and donations. His birthday is celebrated worldwide as a symbol of prophetic love and human connection.
+
+🟩
+
+They are the birth of the Prophets of Muhammhammi, or Ms.
+
+The local and foreign Islamat is celebrated today, and celebrates the good of the Prophets of Prophets Muhammad.
+
+Muhammad, who preached to the world, was born in Makkari in Arabia, which was based on peace and equality.
+
+From the honor of all, he is the belief that Allah has chosen to be Prophet in the fortymousy man.
+
+Prophet, the core system of the Islam is a unique proposal to the world by his sermon, action, and donation.
+
+The world's birthday is the birthday of the Prophet and the world, who is dedicated to the formation of the Prophetic Human love of the man.
+
+◼️
+
+[Data](articles/8eef80b0.json)
+
+[Extended Data](ext_articles/8eef80b0.ext.json)
 
 ---
 
@@ -708,19 +740,25 @@ Presidential candidate Ranil Wickremesinghe, President of the Ceylon Workers Con
 
 ---
 
-### மண்சரிவில் சிக்கிய 30 பேர் மீட்பு
+### 30 people trapped in landslide rescue
 
 *2024-09-16 02:24:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவில்-சிக்கிய-30-பேர்-மீட்பு/175-343806) · `ta`
 
-உத்தரகாண்ட் மாநிலத்தில் ஏற்பட்ட மண்சரிவில் சிக்கித் தவித்த 30 பேரும் பாதுகாப்பாக மீட்கப்பட்டுள்ளனர்.
+30 trapped in landslide rescued in Uttarakhand. Sudden slide occurred near Dhagat-Danakpur highway while group was en route to Adi Kailash. All survivors airlifted to safety.
 
-மேற்படி 30 பேரும் உத்தரகாண்ட் மாநிலத்தின் ஆதி கைலாஷ் பகுதிக்கு பயணம் மேற்கொண்ட போது தவாகாட்-தானாக்பூர் நெடுஞ்சாலைக்கு அருகில் வைத்துத் திடீரென மண்சரிவு ஏற்பட்டுள்ளது.
+🟩
 
-இதனையடுத்து மண்சரிவினால் சிக்கித் தவித்த 30 பேரும் உலங்கு வானூர்தி மூலம் பாதுகாப்பான முறையில் மீட்கப்பட்டனர் என  இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. (a)
+30 people who were trapped in a landslide in Uttarakhand have been safely rescued.
+
+When all 30 of them were on their way to the Adi Kailash area of ​​Uttarakhand, the sudden landslide near the Dhagat-Danakpur highway.
+
+The Indian media has reported that 30 people who were trapped by the landslide were safely recovered by the aircraft.. (A)
 
 ◼️
 
 [Data](articles/1041f53f.json)
+
+[Extended Data](ext_articles/1041f53f.ext.json)
 
 ---
 
@@ -918,17 +956,23 @@ Industry leaders of the calibre of Hayleys, AgStar, John Deere, DIMO, CIC and Br
 
 ---
 
-### சுற்றுலாப்பயணிகள் வருகை அதிகரிப்பு
+### Increase in attendance of tourists
 
 *2024-09-16 01:56:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்பயணிகள்-வருகை-அதிகரிப்பு/175-343805) · `ta`
 
-இந்த மாதத்தின் கடந்த 11 நாட்களில் மாத்திரம் 44 ஆயிரத்துக்கும் அதிகமான சுற்றுலாப்பயணிகள் நாட்டுக்குப் பிரவேசித்துள்ளனர்.
+Tourist influx surges: 44,977 visitors arrive in 11 days, boosting local economy and attractions.
 
-இதன்படி இந்த காலப்பகுதியில் 44,977 சுற்றுலாப்பயணிகள் நாட்டுக்கு வந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+🟩
+
+More than 44 thousand tourists have entered the country in the last 11 days of this month.
+
+According to the Tourism Development Authority, 44,977 tourists have come to the country during this period.
 
 ◼️
 
 [Data](articles/7bca857d.json)
+
+[Extended Data](ext_articles/7bca857d.ext.json)
 
 ---
 
@@ -2249,29 +2293,5 @@ Accordingly, the Excise Commissioner General of Excise announced the closing of 
 [Data](articles/e2a3681a.json)
 
 [Extended Data](ext_articles/e2a3681a.ext.json)
-
----
-
-### What if a candidate promotes another candidate
-
-*2024-09-15 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201048) · `si`
-
-Candidate promoting another violates election rules. Election Commission states it's illegal. Candidate and promoter face penalties.
-
-🟩
-
-The Elections Commission says that it is illegal to promote another candidate for a presidential election.
-
-In a statement, the Commission says that a candidate has handed over the nominations for the presidential election.
-
-It has also received complaints regarding the promotion of candidates.
-
-According to the Elections Commission, the candidate and the candidate who promotes the promotion as well as the candidate who promotes the promotion as well as the promotional candidate will be promoted.
-
-◼️
-
-[Data](articles/3813b65a.json)
-
-[Extended Data](ext_articles/3813b65a.ext.json)
 
 ---

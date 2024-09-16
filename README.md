@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 15:10:46**
+As of **2024-09-16 15:22:43**
 
 ## Newspaper Stats
 
-*Scraped **44,164** Articles*
+*Scraped **44,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,684
 dailyftlk | 2,920
 adalk | 4,075
 dailymirrorlk | 4,733
-adaderanalk | 5,201
-tamilmirrorlk | 5,752
+adaderanalk | 5,202
+tamilmirrorlk | 5,753
 virakesarilk | 7,035
 adaderanasinhalalk | 7,563
 
@@ -26,33 +26,75 @@ adaderanasinhalalk | 7,563
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,163 (100.0%) of 44,164 articles have been extended.
+44,164 (100.0%) of 44,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
 
-### ඉන්දියාවේ නිපා පැතිරෙයි
+### ITAK takes final decision on endorsing prez candidate despite dissent within party
+
+*2024-09-16 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102019/itak-takes-final-decision-on-endorsing-prez-candidate-despite-dissent-within-party) · `en`
+
+The Ilankai Tamil Arasu Kachchi (ITAK) has officially reached a final decision to endorse Sajith Premadasa, the presidential candidate of the Samagi Jana Balawegaya (SJB), at the upcoming presidential election.
+
+The announcement came after a party meeting held this morning (16) in Vavuniya, where the party’s central committee made the final decision.
+
+Meanwhile, leader of the ITAK Mavai Senathirajah, who earlier extended his support for incumbent President Ranil Wickremesinghe, confirmed the party’s support for Premadasa, as per the decision reached by the party’s central committee following a thorough discussion and deliberation.
+
+However, not all within the party are in agreement, as Jaffna District Member of Parliament, S. Shritharan, has expressed his strong dissent against the party’s decision.
+
+Speaking to the media, Shritharan urged the party’s supporters to back the Tamil common candidate P. Ariyanethiran, who he believes represents the true aspirations of the Tamil people.
+
+...
+
+[Data](articles/69e8a35d.json)
+
+---
+
+### India is spreading
 
 *2024-09-16 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201085) · `si`
 
-නිපා වෛරසය වැළඳී ප්‍රතිකාර ලබමින් සිටි තරුණයෙක් ව ඉන්දීය කේරළ ප්‍රාන්තයේ දී මරණයට පත්වී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Nipah virus outbreak in Kerala, India: Young man dies, 151 contacts quarantined. Second death in Malappuram district. WHO warns, no vaccine available. Virus spreads through bats, pigs, and fruits.
 
-එම 24 හැවිරිදි තරුණයා උසස් අධ්‍යාපනය ලබමින් සිටි අයෙකි. ඔහුට පසුගිය 04 වනදා උණ ගතියක් ඇතිවී තිබුණි.
+🟩
 
-ඔහු මලප්පුරම් ප්‍රදේශයේ පදිංචිව සිටි අයෙක් බව සෞඛ්‍ය අංශ පැවසීය.
+International media reports that a young man who was receiving treatment from the Nippa virus had been killed in the state of Indian Kerala.
 
-එම තරුණයා ගේ සමීපතමයින් 151 දෙනෙක් ව නිරෝධායනය සඳහා යොමුකර ඇති බව සඳහන් ය.
+The 24-year-old youth was a high school. He had a fever on last 4th.
 
-මෙම මරණය මලප්පුරම් ප්‍රදේශයෙන් මෙම වසරේ වාර්තා වූ දෙවැනි නිපා මරණය වන අතර පසුගිය ජූලි මාසයේදී 14 හැවිරිදි පාසල් සිසුවෙක් මරණයට පත්විය.
+He said that he was a resident of the Malapurm.
 
-ලෝක සෞඛ්‍ය සංවිධානය මෙම වෛරසය ගැන අනතුරු අඟවා ඇති අතර ඉන් වැළකීමට එන්නතක් හෝ වෙනත් ප්‍රතිකාරයක් සොයාගෙන නොමැත.
+It is said that 151 close friends of the young man have been directed to quarantine.
 
-නිපා වෛරසය පළතුරු වවුලන්ගෙන් සහ ඌරන් වැනි සතුන්ගෙන් පැතිරෙන බවට හඳුනාගෙන තිබේ.
+The death was death of the second Naval Method of this death in the Malapparam area and a 14-year-old schoolgirl killed in July last July.
+
+The World Health Organization warned about the virus, and no vaccine or other treatment has been found to avoid it.
+
+The Nixti virus has been identified as the fruit of the fruit and pigs such as bats and pigs.
 
 ◼️
 
 [Data](articles/ecb19b86.json)
+
+[Extended Data](ext_articles/ecb19b86.ext.json)
+
+---
+
+### தனி சக்கரத்தில் விளையாடிய 12 இளைஞர்கள் கைது
+
+*2024-09-16 14:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-சக்கரத்தில்-விளையாடிய-12-இளைஞர்கள்-கைது/175-343848) · `ta`
+
+சமூக வலைத்தளமான Tik Tok ஊடாக கெஸ்பேவ ஜாலியாகொட மாற்றுப் பாதையில் மோட்டார் சைக்கிள்களில் பயணித்த 12 இளைஞர்கள் 18 மோட்டார் சைக்கிள்களுடன் கைது செய்யப்பட்டுள்ளதாக பிலியந்தலை பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்தச் சோதனை நடவடிக்கையின் போது இளைஞர்கள் அறுவர்,  மோட்டார் சைக்கிள்களை விட்டுவிட்டு  தப்பி ஓடிவிட்டதாக போலிஸார் தெரிவித்தனர்.
+
+மாலை முதல் நள்ளிரவு வரை பெருமளவிலான முச்சக்கர வண்டிகள் மற்றும் மோட்டார் சைக்கிள்கள் வீதியில் அதிக சத்தம் எழுப்பி வருவதாக 119 பொலிஸ் அவசர அழைப்பு நிலையம் மற்றும் பிலியந்தலை பொலிஸ் நிலையத்துக்கு தொடர்ந்து வந்த தொலைபேசி அழைப்புகளின் அடிப்படையில் பத்து பொலிஸ் அதிகாரிகள் குழு அங்கு சென்றது. இளைஞர்கள் கைது செய்துள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3dddb898.json)
 
 ---
 
@@ -2263,55 +2305,5 @@ Unfortunately, wrath is blinding and not enlightening, a truth The Iliad amply i
 [Data](articles/1a3b003b.json)
 
 [Extended Data](ext_articles/1a3b003b.ext.json)
-
----
-
-### When the country was in crisis, all those in the opposition were not responsible for the regime
-
-*2024-09-16 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/193797) · `ta`
-
-Ranil Wickremesinghe seeks re-election, opposition criticizes crisis management. Campaign rally supports his presidency bid. Opposition claims credit for stabilizing economy. Election date set for September 21.
-
-🟩
-
-President Ranil Wickremesinghe is to rule the country for further five years. Maruthapandi Rameshwaran, a CWC's chairman and Nuwara Eliya district parliamentarian, said that the expectation would be expected on September 21.
-
-The campaign meeting was held on 15.09.2024 in Nuwara Eliya, supporting the independent candidate Ranil Wickremesinghe, who is contesting the presidential election.
-
-Presidential candidate Ranil Wickremesinghe, President of the Ceylon Workers Congress, Senthil Thondaman, Governor of the Eastern Province, Senthil Thondaman on behalf of the Ceylon Workers Congress, Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, M. Rameshwaran, Member of Parliament of Nuwara Eliya DistrictDissanayake, MPs SB Dissanayaka, Nimal Piyadissa, Manusha Nanayakkara, former Provincial Council members and Pradeshiya Sabha members were also present.
-
-...
-
-[Data](articles/5b53d9ef.json)
-
-[Extended Data](ext_articles/5b53d9ef.ext.json)
-
----
-
-### 2024-09-15 (Sunday)
-
-### More than 150 people in Parliament sending home - Anura
-
-*2024-09-15 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201061) · `si`
-
-Sri Lanka: Over 150 MPs may lose seats soon. Anura Kumara Dissanayake claims drug elimination in Sri Lanka under his party's control. He criticizes current politicians and promises better education and job opportunities.
-
-🟩
-
-Anura Kumara Dissanayake says that more than 150 MPs in the present Parliament will have to leave the parliamentary election within a month and a half after their victory.
-
-He was speaking at a famil in Pannala yesterday (14).
-
-"Even though Ranil Wickremesinghe is. Although Sajith Premadasa is the case. No longer can defeat the journey of this business. Ranil Sajith is too late. TOO LATE 'Now too late. We quickly dissolve Parliament. This parliament screams from the garbage. Mini has been killed and extorted in jail and have been a haven of three three places in jail. You want this kind of parliamentary.  මාස එකහමාරක් ඇතුළත මහ ඡන්දේ තියනවා. More than 150 people in Parliament sending home. Sajith cheats all the other. This doesn't cheat. "
-
-Meanwhile, another popularity in the National Federational Council has been established in Talawakele.
-
-Commander of the meeting, Anura Kumara Dissanayake said that drugs will be completely eliminated in Sri Lanka under their control.
-
-...
-
-[Data](articles/e5037a5e.json)
-
-[Extended Data](ext_articles/e5037a5e.ext.json)
 
 ---

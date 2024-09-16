@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 14:23:55**
+As of **2024-09-16 14:38:13**
 
 ## Newspaper Stats
 
-*Scraped **44,158** Articles*
+*Scraped **44,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 2,684
 dailyftlk | 2,920
 adalk | 4,074
 dailymirrorlk | 4,733
-adaderanalk | 5,199
+adaderanalk | 5,200
 tamilmirrorlk | 5,752
 virakesarilk | 7,035
-adaderanasinhalalk | 7,560
+adaderanasinhalalk | 7,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,158 (100.0%) of 44,158 articles have been extended.
+44,160 (100.0%) of 44,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Love Namal
+
+*2024-09-16 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201082) · `si`
+
+Namal Rajapaksa presidential campaign rallies focus on economic growth, technological advancement, and addressing public service issues. He emphasizes his commitment to modernization and improving living standards for future generations.
+
+🟩
+
+Presidential candidate, Namal Rajapaksa, says that the future generations of the future is working in its control.
+
+A rally was held in Kurunegala yesterday (15), organized by Namal Rajapaksa's victory for the presidency of the Sri Lanka General Front.
+
+...
+
+[Data](articles/d2fb4514.json)
+
+[Extended Data](ext_articles/d2fb4514.ext.json)
+
+---
+
+### Sri Lanka’s Harshitha named ICC Women’s Player of the Month
+
+*2024-09-16 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102017/sri-lankas-harshitha-named-icc-womens-player-of-the-month) · `en`
+
+Sri Lanka’s rising superstar took home the ICC Women’s Player of the Month for August 2024.
+
+Harshitha Madavi overcame competition from the Irish duo of Orla Prendergast and Gaby Lewis to win the ICC Women’s Player of the Month for August 2024. The talented left-handed top-order batter has gone from strength to strength in recent months, and continued her stirring form in August against Ireland.
+
+Notably, three of the last four winners have been from Sri Lanka, including Chamari Athapaththu who secured the award in both May and July.
+
+Madavi’s win makes it a double for Sri Lanka with Dunith Wellalage securing the ICC Men’s Player of the Month award for August 2024. This is also the third woman’s award for the island nation in 2024, with Athapaththu having won the award in May and July.
+
+The southpaw dominated Ireland in both ODI and T20I legs of the tour, securing some monster scores on the way.
+
+...
+
+[Data](articles/c2f7a931.json)
+
+[Extended Data](ext_articles/c2f7a931.ext.json)
+
+---
 
 ### Wellala's award received
 
@@ -2281,53 +2323,5 @@ My main objective Lighten the next five years of living. By the end of 2025, you
 [Data](articles/2f8258bc.json)
 
 [Extended Data](ext_articles/2f8258bc.ext.json)
-
----
-
-### If the CWC makes a decision, it will never be back;100 % work for Ranil's success - Senthil Thondaman
-
-*2024-09-15 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193796) · `ta`
-
-Here's a 200-character summary:
-
-
-
-CWC supports President Ranil Wickremesinghe 100%, opposes criticism of 1350-rupee salary, demands full 350-rupee raise for plantation workers without conditions.
-
-🟩
-
-Senthil Thondaman, the President of the Eastern Province and the Governor of the Eastern Province, has publicly challenged whether those who criticize the 1350 rupee salary can buy a salary increase of 35 rupees.
-
-He said this while addressing a massive campaign meeting in Nuwara Eliya today in support of President Ranil Wickremesinghe.
-
-2021 and 2022 was the period when Sri Lanka had suffered a severe economic crisis. Sri Lanka did not face such close proximity even during the war. There was no one to come to the forefront of protecting the country.
-
-If President Ranil Wickremesinghe does not take responsibility for the country, the price of gas today will be over 20. The price of rice is 1000 rupees and the price of the parent is 3000 rupees.
-
-After taking over as President Ranil Wickremesinghe, the prices of essential commodities and other goods gradually declined. At the moment when the country is now traveling through the dilemma, everyone is in charge of the regime.
-
-...
-
-[Data](articles/d09297df.json)
-
-[Extended Data](ext_articles/d09297df.ext.json)
-
----
-
-### One person injured in shooting in Badowita
-
-*2024-09-15 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102003/one-person-injured-in-shooting-in-badowita) · `en`
-
-A person has been injured and admitted to hospital after he was shot at in the Badowita area in Mount Lavinia.
-
-Police said that the shooting was carried out by two unidentified men who had arrived on a motorcycle this evening (15).
-
-The 31-year-old injured individual, identified as Tharindu Madushan Suwaris, is receiving treatment at the Intensive Care Unit (ICU) of the Kalubowila Teaching Hospital, according to police.
-
-◼️
-
-[Data](articles/e443f4c0.json)
-
-[Extended Data](ext_articles/e443f4c0.ext.json)
 
 ---

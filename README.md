@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 19:22:24**
+As of **2024-09-16 19:38:16**
 
 ## Newspaper Stats
 
-*Scraped **44,195** Articles*
+*Scraped **44,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,920
-adalk | 4,080
+adalk | 4,081
 dailymirrorlk | 4,733
 adaderanalk | 5,207
 tamilmirrorlk | 5,760
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,195 (100.0%) of 44,195 articles have been extended.
+44,196 (100.0%) of 44,196 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -177,6 +177,36 @@ However, the question of what the situation is if Sajith Premadasa is successful
 [Data](articles/fc804fd5.json)
 
 [Extended Data](ext_articles/fc804fd5.ext.json)
+
+---
+
+### 75 percent of the rolls of the Velle
+
+*2024-09-16 18:09:59* · [`adalk`](https://www.ada.lk/breaking_news/වැල්පාලමේ-ගමනේ-සියයට-75-ක්-අවසන්/11-411966) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+President Ranil Wickremesinghe addresses an election rally in Ampara, emphasizing economic development and unity. He criticizes opponents for neglecting people's suffering during food shortages and drug crises. Wickremesinghe calls for national unity to achieve strong economy goals.
+
+🟩
+
+It is about 75% of the country's economy and about 75% of the vines bridge and to create a strong economy in the country, all the people should join the country without the division of the vines.President Ranil Wickremesinghe said.
+
+Even though he had to face a journey of the Nathalaya, he said that he had to face two naitheal, and said that he had to face two naithael.
+
+President Ranil Wickremesinghe made this statement addressing the 'Ranil' rally in Ampara this afternoon.
+
+"Today we face a very important election. This year's election must be an election that determines the future of the people. People in this year's election this year's election will be visited if there is a prosperous economy
+
+Should be decided. Therefore, I ask the people to go before us as a country without making the mistake of a priceling era.
+
+...
+
+[Data](articles/3df9e9ad.json)
+
+[Extended Data](ext_articles/3df9e9ad.ext.json)
 
 ---
 
@@ -2365,27 +2395,5 @@ Trump had been golfing at his course in West Palm Beach, Florida, not far from h
 [Data](articles/c3080e16.json)
 
 [Extended Data](ext_articles/c3080e16.ext.json)
-
----
-
-### Try again to kill Donald Trump?
-
-*2024-09-16 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201064) · `si`
-
-Former US President attempts assassination at Florida golf course. Security personnel thwarted attack. No casualties reported. Incident under investigation.
-
-🟩
-
-It is reported that former American President has once again tried to kill Donald Trump.
-
-Foreign media stated that the attempt was taken at his golf course in Florida.
-
-However, the former American president had no casualties and the security personnel had been arrested by security personnel.
-
-◼️
-
-[Data](articles/083225aa.json)
-
-[Extended Data](ext_articles/083225aa.ext.json)
 
 ---

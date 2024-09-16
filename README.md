@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 14:38:13**
+As of **2024-09-16 14:57:32**
 
 ## Newspaper Stats
 
-*Scraped **44,160** Articles*
+*Scraped **44,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,920
-adalk | 4,074
+adalk | 4,075
 dailymirrorlk | 4,733
-adaderanalk | 5,200
+adaderanalk | 5,201
 tamilmirrorlk | 5,752
 virakesarilk | 7,035
-adaderanasinhalalk | 7,561
+adaderanasinhalalk | 7,562
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,160 (100.0%) of 44,160 articles have been extended.
+44,163 (100.0%) of 44,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### ICC Award received received by Hershithe
+
+*2024-09-16 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201084) · `si`
+
+Hershithe receives ICC Award as Sri Lankan women's cricket team member. She joins Chamari Atapattu, who won in May and July.
+
+🟩
+
+The International Cricket Council announced that ICC women's cricketer was selected for August, a member of the Sri Lankan women's cricket team.
+
+The victory has led to the victory at the time of the left.
+
+The Sri Lankan athletes are the winning 3 out of the 4 occasions selected by the month of ICC.
+
+In May and July, Chamari Atapattu won the award.
+
+◼️
+
+[Data](articles/30e56e5e.json)
+
+[Extended Data](ext_articles/30e56e5e.ext.json)
+
+---
 
 ### Love Namal
 
@@ -49,6 +73,26 @@ A rally was held in Kurunegala yesterday (15), organized by Namal Rajapaksa's vi
 [Data](articles/d2fb4514.json)
 
 [Extended Data](ext_articles/d2fb4514.ext.json)
+
+---
+
+### Dunith Wellalage named ICC Men’s Player of the Month
+
+*2024-09-16 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102018/dunith-wellalage-named-icc-mens-player-of-the-month) · `en`
+
+Dunith Wellalage’s all-round brilliance against India helped him win the ICC Men’s Player of the Month award for August 2024. The 21-year-old overcame competition from South Africa’s Keshav Maharaj and West Indies’ Jayden Seales to secure the award.
+
+Wellalage, the former Sri Lanka U19 skipper, made big strides in his nascent international career in August 2024. With his help, Sri Lanka overcame India for the first time in a bilateral ODI series since 1997.
+
+The Island nation had a significant challenge in the form of India, the ICC Men’s Cricket World Cup runner-up. The Men in Blue had already secured a 3-0 T20I series win against Sri Lanka and with the return of top stars like Virat Kohli and Rohit Sharma, India were easily the favourites to win the ODI series.
+
+Wellalage with 108 runs and seven wickets helped Sri Lanka overcome the India challenge in the series, contributing at crucial stages of each game.
+
+...
+
+[Data](articles/c1900289.json)
+
+[Extended Data](ext_articles/c1900289.ext.json)
 
 ---
 
@@ -401,6 +445,30 @@ Ranil Wickremesinghe won a warm welcome.
 [Data](articles/4cf9fe4f.json)
 
 [Extended Data](ext_articles/4cf9fe4f.ext.json)
+
+---
+
+### Party raided in the book of Kadaw
+
+*2024-09-16 12:18:14* · [`adalk`](https://www.ada.lk/breaking_news/කඩවත-පැවැත්වූ-මුහුණ-පොතේ-සාදය-වටලයි/11-411960) · `si`
+
+Book of Kadaw: Party raided, 200mg ice seized, 14 teachers involved. Festival held at Kadawatha. Ages 18-25 targeted. Officials warn about drug use in public spaces.
+
+🟩
+
+The site was raided by the facial and held a festival at Kadawatha town at Kadawatha.
+
+There were nearly 200 milligrams of ice with 14 teachers who were ready to sell drugs in their possession when the relevant office was raided.The office says.
+
+It has been revealed that the people have been identified as 18 to 25 years in various places, including far-places.
+
+Commenting on the raid, an Excase department official said that although these parties have been in the coastal, and even in the city, the adults of young girls come to their children on events.It is necessary to pay attention to places.
+
+◼️
+
+[Data](articles/d976d136.json)
+
+[Extended Data](ext_articles/d976d136.ext.json)
 
 ---
 
@@ -2243,85 +2311,5 @@ He was speaking at a rallies in Mahiyanganaya today (15).
 [Data](articles/c29b350a.json)
 
 [Extended Data](ext_articles/c29b350a.ext.json)
-
----
-
-### Sajith says power division
-
-*2024-09-15 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201059) · `si`
-
-Sajith Premadasa advocates for maximum power devolution in Sri Lanka. He promises to strengthen provincial councils and seek international support for Northern and Eastern regions. Additionally, he vows to revive housing projects if elected president.
-
-🟩
-
-The presidential candidate Sajith Premadasa, Sagith Premadasa, says that the maximum devolution of power in one country is its policy.
-
-He was speaking at a wasland in Manipai area in Jaffna today (15).
-
-"Maximum power of one country in one country. Conducting the Provincial Council's power to obtain the power of the Provincial Council and conducting international support conferences for the people of the North and East. As well as these policies, this principles will definitely say that we are committed to strengthening your lives to strengthen your lives in the war. "
-
-Meanwhile, another popular rally to ensure Mr. Sajith Premadasa was held this afternoon.
-
-"Gotabhaya Rajapakse stopped every housing project that I started. Ranil Wickremesinghe had not had to do so. 21 When we win, imperfect housing projects revived. They will once again put to the people ... "
-
-◼️
-
-[Data](articles/6ac2976b.json)
-
-[Extended Data](ext_articles/6ac2976b.ext.json)
-
----
-
-### US expects to work with the President of Sri Lanka
-
-*2024-09-15 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/193722) · `ta`
-
-US Ambassador Julie Sung expresses eagerness to collaborate with Sri Lanka's newly elected president. She emphasizes the importance of free and fair elections in maintaining democracy.
-
-🟩
-
-US Ambassador to Sri Lanka Julie Sung says the US is looking forward to working with the president elected by the people of Sri Lanka.
-
-US Ambassador Julie Sung posted this issue on his X (X) site ahead of the presidential election. The US Ambassador to Sri Lanka, Julie Sung, posted this issue today.
-
-On the International Democratic Day today, we celebrate the principles of strong and stable democracy, such as accountability, human rights and justice.We ensure that every individual has a concept in designing their future through elections.
-
-The US is looking forward to working with the president elected by the Sri Lankan people. In the record, the US Ambassador emphasized that conducting an independent and fair election is the main duty of Sri Lanka's democracy.
-
-US Ambassador Julie Sung has posted these comments on his X -X -X -X -X -X -X -X -X -X -X -X -X -X -US asteristener's presidential election on the 21st.
-
-◼️
-
-[Data](articles/91d24813.json)
-
-[Extended Data](ext_articles/91d24813.ext.json)
-
----
-
-### Give me 5 years to this revolution - Ranil
-
-*2024-09-15 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201058) · `si`
-
-Ranil Wickremesinghe calls for unity, stability, and economic transformation over 5 years. He emphasizes building a strong, prosperous Sri Lanka through collective effort and political cooperation.
-
-🟩
-
-Another rally was held in Kandy today (15), organized by organized rally to organize the 'Sri Lanka' concept of independent presidency candidate.
-
-The president asked the country with a single seat and stabilized the country to build a revolution to build a revolution.
-
-"Say Sajaben I quit the contest I have asks for now. They want to know that I'm not a mihih. They are not a man who runs gold from gold.
-
-I mean, get along with me at this time. All the UNP, I say to join me. Sajith Premadasa tells you not to teach that I am unable to teach.
-
-My main objective Lighten the next five years of living. By the end of 2025, you see the result. I stabilized the country with parliamentary power. I ask your voting power to make a revolution.
-
-5 years asks for the full economy and bring a new economy "
-
-◼️
-
-[Data](articles/2f8258bc.json)
-
-[Extended Data](ext_articles/2f8258bc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 11:38:50**
+As of **2024-09-16 11:58:07**
 
 ## Newspaper Stats
 
-*Scraped **44,125** Articles*
+*Scraped **44,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,172 @@ dbsjeyarajcom | 377
 bbccomsinhala | 426
 colombotelegraphcom | 437
 islandlk | 2,598
-economynextcom | 2,681
+economynextcom | 2,683
 dailyftlk | 2,920
-adalk | 4,069
+adalk | 4,070
 dailymirrorlk | 4,733
-adaderanalk | 5,195
+adaderanalk | 5,197
 tamilmirrorlk | 5,750
-virakesarilk | 7,025
+virakesarilk | 7,029
 adaderanasinhalalk | 7,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,125 (100.0%) of 44,125 articles have been extended.
+44,134 (100.0%) of 44,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Sri Lanka gazettes tea, rubber wages at Rs1,350 with Rs50 over kilo rate
+
+*2024-09-16 11:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-gazettes-tea-rubber-wages-at-rs1350-with-rs50-over-kilo-rate-179696/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s wage board has mandated daily wages for tea and rubber workers effective from September 10, according to a gazette notice.
+
+The minimum daily wage is 1,350 rupees for a ‘norm’ of each estate, and there will be a 50 rupee payment for each kilo plucked above the ‘norm’.
+
+The norm is the usual leaf that can be plucked for a field. Some fields which are in shadow of mountains or in areas that get lower rainfall have lower ‘norms’.
+
+The new formula was mutually agreed with plantations companies, industry sources said.
+
+An earlier model which mandated a 1,700 rupee minimum wage was resisted by plantations companies, who said it will result in lower volumes of tea being plucked.
+
+Sri Lanka’s plantations workers and other wage earners found their salaries purchasing power destroyed after macroeconomists in the central bank and Treasury cut its policy rate by printing large volumes of money permanently depreciated the currency.
+
+...
+
+[Data](articles/4e929b8b.json)
+
+[Extended Data](ext_articles/4e929b8b.ext.json)
+
+---
+
+### ‘Misunderstandings’ in ties with India resolved: Maldives
+
+*2024-09-16 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102014/misunderstandings-in-ties-with-india-resolved-maldives) · `en`
+
+Maldives Foreign Minister Moosa Zameer acknowledged that Maldives-India ties witnessed rough patches in the initial days of President Mohammad Muizzu-led government, but insisted that the two countries have resolved those “misunderstandings”.
+
+Zameer made the remarks on Friday during a visit to Sri Lanka, where he stressed the importance of the Indian Ocean archipelago’s relationships with key allies, particularly China and India.
+
+He said relations with India had faced challenges, particularly following Muizzu’s campaign to remove a small contingent of Indian troops from the Maldives. Zameer said the “misunderstandings” had been resolved following the repatriation of Indian troops. “(We) have good relations with both China and India, and both countries continue to support Maldives.”
+
+◼️
+
+[Data](articles/d59da0c3.json)
+
+[Extended Data](ext_articles/d59da0c3.ext.json)
+
+---
+
+### The presidential election and racism
+
+*2024-09-16 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/193823) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Presidential election controversy: Casteist Hela Urumaya party fueled Sinhala Buddhist communalism. Tamils now advise voting for Tamil candidates, seen as unusual.
+
+🟩
+
+A few years ago, the casteist Hela Urumaya, a political party, was a symbol of the political party, which developed and developed the Sinhala Buddhist communalism.. Today, the Tamils ​​say that the Tamils ​​should vote for the Tamils ​​are strange.
+
+◼️
+
+[Data](articles/af97db90.json)
+
+[Extended Data](ext_articles/af97db90.ext.json)
+
+---
+
+### TN govt. sanctions INR 300 mln to build new houses for Sri Lankan refugees
+
+*2024-09-16 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102013/tn-govt-sanctions-inr-300-mln-to-build-new-houses-for-sri-lankan-refugees) · `en`
+
+The Tamil Nadu Government has sanctioned 300 million Indian rupees for building new houses for the Sri Lankan Tamils at Kottapattu on the Tiruchi-Pudukotai highway.
+
+There are about 107 rehabilitation camps for Sri Lankan Tamils in the Tamil Nadu state. Most of them came into existence about 37 years ago. The rehabilitation camps at Kottapattu in Tiruchi district and Mandapam in Ramanathapuram district are among the biggest refugee camps in the State.
+
+The camp at Kottapattu has 470 houses and about 1,200 Sri Lankan refugees have been sheltered.
+
+...
+
+[Data](articles/00e0d94d.json)
+
+[Extended Data](ext_articles/00e0d94d.ext.json)
+
+---
+
+### The car collided with a vehicle he was traveling in;The police officer arrested
+
+*2024-09-16 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193820) · `ta`
+
+Car crash involving finance minister: Driver collides with police officer's vehicle. Officer arrested. Police investigate potential intoxication.
+
+🟩
+
+Puttalam police said that a car driver in the police officer crashed into a car with finance minister Shayan Semasinghe.
+
+In addition, the police are investigating whether the police officer was driving the car while intoxicated.
+
+◼️
+
+[Data](articles/0a04678d.json)
+
+[Extended Data](ext_articles/0a04678d.ext.json)
+
+---
+
+### New Rehabilitation Institute for Women who are addicted to drugs
+
+*2024-09-16 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/193819) · `ta`
+
+New rehab center opens in Vavuniya for 100 women addicts. Ministry of Justice promotes facility. Judges encouraged to refer drug addicts.
+
+🟩
+
+A special rehabilitation center has been established for rehabilitation for drug addicts.
+
+This is located in the Vavuniya area. 100 women can be rehabilitated here.
+
+The Commissioner of Rehabilitation has announced the rehabilitation center to the Ministry of Justice, Prison Affairs and Constitutional Reforms.
+
+Accordingly, the Judicial Service Commission has announced to all judges to recommend drug addicts to the new rehabilitation center for rehabilitation.
+
+◼️
+
+[Data](articles/793c019d.json)
+
+[Extended Data](ext_articles/793c019d.ext.json)
+
+---
+
+### Introduction of Sumanthiran's magazine
+
+*2024-09-16 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/193826) · `ta`
+
+"Sumanthiram" magazine launched by Opposition Leader Sajith Premadasa in Jaffna. Handed over to MP MA Sumanthiran. Contains articles supporting TNA, criticizing Ranil Wickremesinghe, and questioning Tamil general election candidates' viability. Distributed free at Manipay meeting.
+
+🟩
+
+The "Sumanthiram" newspaper has been handed over to the Opposition Leader and introduced by Parliamentarian MP MA Sumanthiran.
+
+Opposition Leader Sajith Premadasa at Manipay in Jaffna handed over the newspaper to the opposition leader and introduced the newspaper to the meeting and distributed freely to those who attended the meeting.
+
+There have been some articles in the newspaper why the TNA supports Sajith, why Ranil should fall and Tamil general candidate political suicide.
+
+◼️
+
+[Data](articles/37426332.json)
+
+[Extended Data](ext_articles/37426332.ext.json)
+
+---
 
 ### Elephant tears in Majma!
 
@@ -128,6 +276,28 @@ The government has called for foreign priorities to provide relief to the people
 
 ---
 
+### Tarm aim and a shooting again
+
+*2024-09-16 10:09:43* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්-ඉලක්ක-කර-නැවතත්-වෙඩි-තැබිමක්/11-411955) · `si`
+
+Donald Trump attacked at golf course; shooter arrested with 47 rifle. Incident raises security concerns.
+
+🟩
+
+US President Donald Trump has been awarded again. The shooting was carried out at a golf course he belongs to him. He has not been harmed with that shot.
+
+Police have arrested the suspect in the shooting and was in his possession. K. The police were also inaugurated by a 47 rifle.
+
+The shooting has taken steps to raise the security of Trump.
+
+◼️
+
+[Data](articles/11407b08.json)
+
+[Extended Data](ext_articles/11407b08.ext.json)
+
+---
+
 ### Trains delayed on main line due to derailment
 
 *2024-09-16 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102010/trains-delayed-on-main-line-due-to-derailment) · `en`
@@ -217,6 +387,32 @@ In addition, there is no information on who carried out the shooting and the Deh
 [Data](articles/c4953775.json)
 
 [Extended Data](ext_articles/c4953775.ext.json)
+
+---
+
+### Sri Lanka government, private firms serviced US$2.58bn debt in 2023: FinMin
+
+*2024-09-16 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-private-firms-serviced-us2-58bn-debt-in-2023-finmin-179680/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government and private borrowers has serviced 2.58 billion dollars of debt in 2023 and 2.48 billion in 2022, the year that the country defaulted on external debt, the Finance Ministry said.
+
+In 2022, central government principal repayments fell to 1,236 million dollars from 2,377 million dollars in 2021 after the default. Interest payments fell from 1,187 million dollars to 465 million dollars.
+
+In 2023, Sri Lanka’s government had made 1,043 million in principal repayments and 405 million dollars in interest payments.
+
+“It is incorrect to say that foreign debt is not being repaid,” the Finance Ministry said.
+
+Banks and private corporations had made principal repayments of 769 million US dollars in 2022, down from 1,410 million in 2021.
+
+Interest payments which were 394 million fell to 273 million dollars.
+
+In 2023 banks and private companies had made 405 million dollars of interest payments.
+
+...
+
+[Data](articles/104512b2.json)
+
+[Extended Data](ext_articles/104512b2.ext.json)
 
 ---
 
@@ -2107,209 +2303,5 @@ A few days before the presidential election official, the Tamil National Allianc
 [Data](articles/b9e53735.json)
 
 [Extended Data](ext_articles/b9e53735.ext.json)
-
----
-
-### Election Complaints
-
-*2024-09-15 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201054) · `si`
-
-Elections Commission reports 184 complaints in 24 hours, including 181 related to violence. Total complaints since July 31 increased to 4215. 3641 resolved, 574 pending.
-
-🟩
-
-The Elections Commission says that 184 complaints have been received in connection with the presidential election.
-
-The Commission issued an announcement, 184 complaints were reported over the past 24 hours.
-
-Accordingly, 1 complaints of complaints regarding violence have been reported as 181 and two other complaints.
-
-Accordingly, the total number of complaints reported from July 31 to 4215 has increased to 4215 complaints.
-
-The announcement states that 3641 complaints have been resolved and another 574 complaints have been resolved.
-
-◼️
-
-[Data](articles/c3e0ad16.json)
-
-[Extended Data](ext_articles/c3e0ad16.ext.json)
-
----
-
-### "Problem with dissolving Parliament"
-
-*2024-09-15 18:32:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தைக்-கலைத்தால்-சிக்கல்/175-343797) · `ta`
-
-Ranil Wickremesinghe warns dissolving Parliament post-election could harm Sri Lanka. NPP counters, saying dissolution would be undemocratic and unfair to citizens.
-
-🟩
-
-President Ranil Wickremesinghe has said that if Parliament is dissolved after the presidential election, the constitutional arrangements have been made to rule the new presidential country and will have adverse consequences for the people and the country.
-
-However, at the National People's Power (NPP) media briefing, the transfer of power to the new president elected within the democratic structure should be democratically without a negative effect on the people.
-
-Responding to a question raised by the Prime Minister's speculation that the president would dissolve parliament on September 21 after the presidential election.
-
-Kumarapperuma said that the president had the power to dissolve parliament at any time, and that it would be very dishonest if it did so at this moment.
-
-“The President can dissolve parliament at any time on the basis of the Constitution. There are many rules in such a situation for the new president. However, it can have serious consequences.
-
-...
-
-[Data](articles/0da1c6dc.json)
-
-[Extended Data](ext_articles/0da1c6dc.ext.json)
-
----
-
-### "Problem with dissolving Ranil Parliament"
-
-*2024-09-15 18:32:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-பாராளுமன்றத்தைக்-கலைத்தால்-சிக்கல்/175-343797) · `ta`
-
-Ranil Wickremesinghe warns dissolving Parliament post-election could harm Sri Lanka. NPP counters, saying dissolution would be unethical and undemocratic.
-
-🟩
-
-President Ranil Wickremesinghe has said that if Parliament is dissolved after the presidential election, the constitutional arrangements have been made to rule the new presidential country and will have adverse consequences for the people and the country.
-
-However, at the National People's Power (NPP) media briefing, the transfer of power to the new president elected within the democratic structure should be democratically without a negative effect on the people.
-
-Responding to a question raised by the Prime Minister's speculation that the president would dissolve parliament on September 21 after the presidential election.
-
-Kumarapperuma said that the president had the power to dissolve parliament at any time, and that it would be very dishonest if it did so at this moment.
-
-“The President can dissolve parliament at any time on the basis of the Constitution. There are many rules in such a situation for the new president. However, it can have serious consequences.
-
-...
-
-[Data](articles/3a98715d.json)
-
-[Extended Data](ext_articles/3a98715d.ext.json)
-
----
-
-### US updates Sri Lanka travel advisory ahead of presidential election
-
-*2024-09-15 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102000/us-updates-sri-lanka-travel-advisory-ahead-of-presidential-election-) · `en`
-
-The United States’ Department of State has updated its travel advisory for Sri Lanka urging citizens to exercise caution in view of the upcoming presidential election.
-
-The advisory highlights that since Sri Lanka is set to hold presidential elections on September 21, 2024, demonstrations could occur before, during, or after the election.
-
-“In some instances, police have used water cannons and tear gas to disperse protesters. U.S. citizens are reminded to avoid all gatherings, even peaceful ones, as such gatherings can turn violent with little or no warning”, it stated.
-
-Furthermore, the US State Department has advised citizens traveling to Sri Lanka during this period to be aware of surroundings when traveling to tourist locations and crowded public venues, follow the instructions of local authorities, monitor local media for breaking events and adjust your plans based on new information and to avoid demonstrations and crowds.
-
-...
-
-[Data](articles/4876324e.json)
-
-[Extended Data](ext_articles/4876324e.ext.json)
-
----
-
-### Solve the ethnic problem through the new constitution - Presidential candidate Anurakumara confirms
-
-*2024-09-15 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/193769) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential candidate Anurakumara proposes solving ethnic issues via new constitution. He emphasizes interconnection between executive presidency and proportional electoral system. The current administration prioritizes parliamentary system over executive powers.
-
-🟩
-
-We are in the position that the administration has highlighted the parliamentary system than the administration based on the executive presidency.. However, the executive presidency and the proportional electoral system are interconnected.
-
-◼️
-
-[Data](articles/d879bf91.json)
-
-[Extended Data](ext_articles/d879bf91.ext.json)
-
----
-
-### We will definitely improve the livelihood of the people of the hill plantation;They too can live in this country - Anuragumara in Talawakelle
-
-*2024-09-15 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/193762) · `ta`
-
-Anura Kumara Dissanayake promises to improve hill plantation residents' livelihoods, grant land ownership, and ensure equal rights. He vows to address issues like education costs, nutrition problems, and language rights in his presidency.
-
-🟩
-
-We will definitely improve the livelihood of the people of the hill plantation. Their land ownership will certainly be granted. The National People's Power Presidential candidate Anura Kumara Dissanayake said that the people of the hill country can live in equal rights in this country.
-
-He also said that there is a firm belief that the people of the hill country are partners in the success of the national people's power.
-
-The day -to -day campaign meeting was held at Nuwara Eliya - Thalawakelle on Sunday (15) in support of Anura Kumara Dissanayake, who is contesting the presidential election on behalf of the national People's Power.
-
-Presidential candidate Anura Kumara Dissanayake, National People's Power Nuwara Eliya District President Manjula Suraweera and National Committee member K Selvi were present at the meeting organized by the Nuwara Eliya District Committee of the National People's Power.Speaking on this occasion, Anuragumara Dissanayake said this.
-
-...
-
-[Data](articles/f51a88e1.json)
-
-[Extended Data](ext_articles/f51a88e1.ext.json)
-
----
-
-### Special Message to Sri Lanka
-
-*2024-09-15 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201053) · `si`
-
-US State Department advises caution ahead of Sri Lanka's September 21 election, urging citizens to reconsider travel plans.
-
-🟩
-
-The US State Department urges the people of the country to be thoughtful, as Sri Lankan election will be held on September 21st.
-
-The department's travel counsel is urged to the people of the country to avoid going to the people.
-
-◼️
-
-[Data](articles/09fa3094.json)
-
-[Extended Data](ext_articles/09fa3094.ext.json)
-
----
-
-### Turkish
-
-*2024-09-15 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/193781) · `ta`
-
-Turkey's EU membership prospects uncertain due to global economic shifts. Ankara suggests focusing on domestic growth rather than integration.
-
-🟩
-
-Ankara's prediction is that Turkey is no longer the time to join the EU. This is because 41 percent of the world's population and 37.3 percent of the GDP in the world, the other countries, are the best platform for the market opportunity.
-
-◼️
-
-[Data](articles/4b03afa1.json)
-
-[Extended Data](ext_articles/4b03afa1.ext.json)
-
----
-
-### More than 4 thousand complaints have been lodged in the presidential election so far
-
-*2024-09-15 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/193784) · `ta`
-
-Over 4,000 election complaints filed: 1,360 national, 2,737 district, 30 violence reports, 88 other issues.
-
-🟩
-
-The Election Commission said that 4,215 complaints have been received from the presidential election (from July 31 to September 14).
-
-Accordingly, 1,360 complaints have been received for the National Election Complaint Management Center and 2,737 to the District Election Complaint Management Center for violating election laws.
-
-Meanwhile, the District Election Complaint Management Center has received 30 complaints of violence and 88 complaints.
-
-◼️
-
-[Data](articles/8da45eab.json)
-
-[Extended Data](ext_articles/8da45eab.ext.json)
 
 ---

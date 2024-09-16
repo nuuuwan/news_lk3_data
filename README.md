@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 17:39:30**
+As of **2024-09-16 17:59:11**
 
 ## Newspaper Stats
 
-*Scraped **44,180** Articles*
+*Scraped **44,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 5,205
 tamilmirrorlk | 5,754
 virakesarilk | 7,039
-adaderanasinhalalk | 7,566
+adaderanasinhalalk | 7,567
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,179 (100.0%) of 44,180 articles have been extended.
+44,181 (100.0%) of 44,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### This is nonsense politics -
+
+*2024-09-16 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201091) · `si`
+
+The presidential candidate, entrepreneral Dilith Jayaweera says that the country is a nonsense politics.
+
+Addressing a public brief in Moneragala town today, Dilith Jayaweera said that some political leaders are jokes at the platform.
+
+...
+
+[Data](articles/c93044dd.json)
+
+[Extended Data](ext_articles/c93044dd.ext.json)
+
+---
 
 ### ‘Not all foreign debt repayments halted’: Finance Ministry issues clarification on Sri Lanka’s external debt servicing
 
@@ -47,6 +63,8 @@ Accordingly, the Finance Ministry clarified that it is incorrect to say that all
 ...
 
 [Data](articles/1f04ffaf.json)
+
+[Extended Data](ext_articles/1f04ffaf.ext.json)
 
 ---
 
@@ -2349,21 +2367,5 @@ People’s Bank is one of Sri Lanka’s leading banks with assets exceeding LKR 
 [Data](articles/1c9244a0.json)
 
 [Extended Data](ext_articles/1c9244a0.ext.json)
-
----
-
-### Negombo Speakers Forum Toastmasters Club calls enquiries for 2nd season of youth leadership programme
-
-*2024-09-16 02:21:00* · [`islandlk`](http://island.lk/negombo-speakers-forum-toastmasters-club-calls-enquiries-for-2nd-season-of-youth-leadership-programme/) · `en`
-
-The Negombo Speakers Forum Toastmasters Club has announced the launch of the second season of its Youth Leadership Program, themed “New Stars Found.” Following the resounding success of the first season, which concluded in December 2023 with the participation of around 20 promising youth leaders from across Negombo, this new season promises to be even more impactful.
-
-The Youth Leadership Program is designed to nurture the leadership potential of young individuals aged 12 to 18, offering them a platform to develop essential skills and discover their unique talents. Over the course of 10 comprehensive sessions, participants will engage in various activities that focus on improving communication, leadership, and teamwork, equipping them with the tools they need to succeed in future endeavors.
-
-...
-
-[Data](articles/ab37d213.json)
-
-[Extended Data](ext_articles/ab37d213.ext.json)
 
 ---

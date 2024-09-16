@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 01:38:01**
+As of **2024-09-17 01:57:09**
 
 ## Newspaper Stats
 
-*Scraped **44,228** Articles*
+*Scraped **44,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 426
 colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
-dailyftlk | 2,930
+dailyftlk | 2,934
 adalk | 4,085
 dailymirrorlk | 4,733
 adaderanalk | 5,210
@@ -26,11 +26,81 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,227 (100.0%) of 44,228 articles have been extended.
+44,232 (100.0%) of 44,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### J’pura Students’ Union files complaint with ECSL against Sajith
+
+*2024-09-17 01:29:46* · [`dailyftlk`](https://www.ft.lk/news/J-pura-Students-Union-files-complaint-with-ECSL-against-Sajith/56-766782) · `en`
+
+Says the SJB Presidential candidate is disseminating false information through election platforms in relation to a clash which occurred recently
+
+Claims he is misinterpreting it as an inter-part clash at the University for political gain
+
+Stresses Premadasa’s statements have unfairly tarnished students and the university
+
+Calls on the ECSL to investigate and take immediate action against Premadasa
+
+The General Students’ Union of Sri Jayewardenepura University has lodged a formal complaint with the Election Commission, accusing Samagi Jana Balawegaya (SJB) Presidential candidate Sajith Premadasa and his representatives of disseminating false information through election platforms.
+
+The complaint comes in the wake of unrest at the university, which led to its temporary closure on 12 September.
+
+...
+
+[Data](articles/4a07702c.json)
+
+[Extended Data](ext_articles/4a07702c.ext.json)
+
+---
+
+### Former President and SLPP leader Mahinda Rajapaksa , SLPP Presidential hopeful Namal Rajapaksa, wave to the crowd during a rally in Dambulla
+
+*2024-09-17 01:26:11* · [`dailyftlk`](https://www.ft.lk/news/Former-President-and-SLPP-leader-Mahinda-Rajapaksa-SLPP-Presidential-hopeful-Namal-Rajapaksa-wave-to-the-crowd-during-a-rally-in-Dambulla/56-766781) · `en`
+
+Former President and SLPP leader Mahinda Rajapaksa (left), alongside SLPP Presidential hopeful Namal Rajapaksa, wave to the crowd during a rally in Dambulla yesterday, as the party gears up for the upcoming Presidential election.
+
+◼️
+
+[Data](articles/f1b17ab3.json)
+
+[Extended Data](ext_articles/f1b17ab3.ext.json)
+
+---
+
+### Janaka Ratnayake urges Sri Lankans to vote with reason
+
+*2024-09-17 01:20:54* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-urges-Sri-Lankans-to-vote-with-reason/56-766780) · `en`
+
+Eksath Lanka Podujana Peramuna Presidential candidate Janaka Ratnayake has urged Sri Lankans to make a rational decision at the polls on 21 September, asking them to vote with their minds rather than their hearts. In his address to the nation, Ratnayake emphasised his vision of rebuilding the country, rescuing it from its current economic challenges, and securing a better future for the children of Sri Lanka.
+
+He recalled his time as the Chairperson of the Public Utilities Commission of Sri Lanka (PUCSL), where he consistently advocated for the underprivileged. He alleged that his removal from this position was orchestrated by President Ranil Wickremesinghe, Sri Lanka Podujana Peramuna (SLPP) Presidential candidate Namal Rajapaksa, and National People’s Power (NPP) Presidential candidate Anura Kumara Dissanayake working together.
+
+However, despite these accusations all NPP MPs led by Dissanayake voted against the motion to remove him when it was brought to Parliament on 24 May 2023.
+
+◼️
+
+[Data](articles/f7bb2671.json)
+
+[Extended Data](ext_articles/f7bb2671.ext.json)
+
+---
+
+### International Union against Tuberculosis and Lung Diseases extends grant to study new treatment model
+
+*2024-09-17 01:17:59* · [`dailyftlk`](https://www.ft.lk/news/International-Union-against-Tuberculosis-and-Lung-Diseases-extends-grant-to-study-new-treatment-model/56-766779) · `en`
+
+International Union against Tuberculosis and Lung Diseases has extended a financial grant of $ 387,280 to initiate a study on Tuberculosis (TB) new treatment model as part of its National Program for Tuberculosis Control and Chest Diseases.
+
+...
+
+[Data](articles/ac12f099.json)
+
+[Extended Data](ext_articles/ac12f099.ext.json)
+
+---
 
 ### Japan, a true friend
 
@@ -45,6 +115,8 @@ His words were, “We extend to Japan a hand of friendship, and trust that with 
 ...
 
 [Data](articles/111c556a.json)
+
+[Extended Data](ext_articles/111c556a.ext.json)
 
 ---
 
@@ -2261,89 +2333,5 @@ He said relations with India had faced challenges, particularly following Muizzu
 [Data](articles/d59da0c3.json)
 
 [Extended Data](ext_articles/d59da0c3.ext.json)
-
----
-
-### The presidential election and racism
-
-*2024-09-16 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/193823) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Presidential election controversy: Casteist Hela Urumaya party fueled Sinhala Buddhist communalism. Tamils now advise voting for Tamil candidates, seen as unusual.
-
-🟩
-
-A few years ago, the casteist Hela Urumaya, a political party, was a symbol of the political party, which developed and developed the Sinhala Buddhist communalism.. Today, the Tamils ​​say that the Tamils ​​should vote for the Tamils ​​are strange.
-
-◼️
-
-[Data](articles/af97db90.json)
-
-[Extended Data](ext_articles/af97db90.ext.json)
-
----
-
-### TN govt. sanctions INR 300 mln to build new houses for Sri Lankan refugees
-
-*2024-09-16 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102013/tn-govt-sanctions-inr-300-mln-to-build-new-houses-for-sri-lankan-refugees) · `en`
-
-The Tamil Nadu Government has sanctioned 300 million Indian rupees for building new houses for the Sri Lankan Tamils at Kottapattu on the Tiruchi-Pudukotai highway.
-
-There are about 107 rehabilitation camps for Sri Lankan Tamils in the Tamil Nadu state. Most of them came into existence about 37 years ago. The rehabilitation camps at Kottapattu in Tiruchi district and Mandapam in Ramanathapuram district are among the biggest refugee camps in the State.
-
-The camp at Kottapattu has 470 houses and about 1,200 Sri Lankan refugees have been sheltered.
-
-...
-
-[Data](articles/00e0d94d.json)
-
-[Extended Data](ext_articles/00e0d94d.ext.json)
-
----
-
-### The car collided with a vehicle he was traveling in;The police officer arrested
-
-*2024-09-16 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193820) · `ta`
-
-Car crash involving finance minister: Driver collides with police officer's vehicle. Officer arrested. Police investigate potential intoxication.
-
-🟩
-
-Puttalam police said that a car driver in the police officer crashed into a car with finance minister Shayan Semasinghe.
-
-In addition, the police are investigating whether the police officer was driving the car while intoxicated.
-
-◼️
-
-[Data](articles/0a04678d.json)
-
-[Extended Data](ext_articles/0a04678d.ext.json)
-
----
-
-### New Rehabilitation Institute for Women who are addicted to drugs
-
-*2024-09-16 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/193819) · `ta`
-
-New rehab center opens in Vavuniya for 100 women addicts. Ministry of Justice promotes facility. Judges encouraged to refer drug addicts.
-
-🟩
-
-A special rehabilitation center has been established for rehabilitation for drug addicts.
-
-This is located in the Vavuniya area. 100 women can be rehabilitated here.
-
-The Commissioner of Rehabilitation has announced the rehabilitation center to the Ministry of Justice, Prison Affairs and Constitutional Reforms.
-
-Accordingly, the Judicial Service Commission has announced to all judges to recommend drug addicts to the new rehabilitation center for rehabilitation.
-
-◼️
-
-[Data](articles/793c019d.json)
-
-[Extended Data](ext_articles/793c019d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 16:22:25**
+As of **2024-09-16 16:38:22**
 
 ## Newspaper Stats
 
-*Scraped **44,174** Articles*
+*Scraped **44,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,076
 dailymirrorlk | 4,733
 adaderanalk | 5,204
-tamilmirrorlk | 5,753
+tamilmirrorlk | 5,754
 virakesarilk | 7,039
 adaderanasinhalalk | 7,564
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,174 (100.0%) of 44,174 articles have been extended.
+44,175 (100.0%) of 44,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Sridharan opposed the resolution of the Tamil party
+
+*2024-09-16 16:18:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்கட்சியின்-தீர்மானத்தை-எதிர்த்தார்-சிறிதரன்/175-343852) · `ta`
+
+Sridharan opposes TNA decision. He criticized TNA's choice, saying he doesn't support it. This happened during a meeting where five supported Sajith Premadasa. A report was made about it, confirming Sajith's support for Premadasa.
+
+🟩
+
+I oppose the decision of the TNA. Sridharan said.
+
+He said this while commenting on a group of six people at the party office in Vavuniya.
+
+At today's meeting, five were in support of Sajith Premadasa.
+
+A report was written on it. According to the decision already taken in the report, Sajith was supporting Premadasa.
+
+◼️
+
+[Data](articles/8b757940.json)
+
+[Extended Data](ext_articles/8b757940.ext.json)
+
+---
 
 ### Ministry of Finance announced on foreign debt
 
@@ -2325,21 +2349,5 @@ The president has asked the people not to allow the leaders of false promises no
 [Data](articles/93e178a6.json)
 
 [Extended Data](ext_articles/93e178a6.ext.json)
-
----
-
-### SLASSCOM presents strategic policy framework to presidential candidates
-
-*2024-09-16 02:01:00* · [`islandlk`](http://island.lk/slasscom-presents-strategic-policy-framework-to-presidential-candidates/) · `en`
-
-SLASSCOM, the national chamber for the Knowledge and Innovation (IT&BPM) industry in Sri Lanka, have handed over its strategic policy document titled “Igniting Knowledge, Inspiring Growth” to the country’s leading presidential candidates: President Ranil Wickremasinghe Sajith Premadasa (SJB), Anura Kumara Dissanayake (NPP), and the General Secretary and representatives of the Sri Lanka Podujana Peramuna (SLPP).
-
-The document outlines a comprehensive policy framework designed to enhance the competitiveness of Sri Lanka’s IT & BPM sector. It focuses on ensuring access to skill development and education, fostering entrepreneurship and innovation, and improving the overall business environment to fuel industry growth.
-
-...
-
-[Data](articles/b8dc38e4.json)
-
-[Extended Data](ext_articles/b8dc38e4.ext.json)
 
 ---

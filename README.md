@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 12:56:39**
+As of **2024-09-16 13:08:23**
 
 ## Newspaper Stats
 
-*Scraped **44,140** Articles*
+*Scraped **44,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,683
 dailyftlk | 2,920
-adalk | 4,072
+adalk | 4,073
 dailymirrorlk | 4,733
 adaderanalk | 5,197
 tamilmirrorlk | 5,750
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,555
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,140 (100.0%) of 44,140 articles have been extended.
+44,141 (100.0%) of 44,141 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,26 @@ Ranil Wickremesinghe won a warm welcome.
 [Data](articles/4cf9fe4f.json)
 
 [Extended Data](ext_articles/4cf9fe4f.ext.json)
+
+---
+
+### Sri Lanka named Sri Lanka Test squad against New Zealand
+
+*2024-09-16 12:05:26* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-ශ්‍රී-ලංකා-ටෙස්ට්-සංචිතය-නම්-කරයි/9-411958) · `si`
+
+Sri Lanka names 16-player Test squad vs New Zealand, Dananjaya de Silva as reserve.
+
+🟩
+
+Sri Lanka have named the squad for the two-match Test series between Sri Lanka and New Zealand.
+
+There are 16 players have been included in the reserve of Dananjaya de Silva.
+
+◼️
+
+[Data](articles/2c3544a0.json)
+
+[Extended Data](ext_articles/2c3544a0.ext.json)
 
 ---
 
@@ -2293,29 +2313,5 @@ The Ukraine War is approaching the third year of the war, and many human lives h
 [Data](articles/9ef10a70.json)
 
 [Extended Data](ext_articles/9ef10a70.ext.json)
-
----
-
-### Ranil's votes are at risk of strengthening votes;Corruption, defeat racists - Rishad
-
-*2024-09-15 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/193786) · `ta`
-
-Rishad Bathiudeen warns Ranil Wickremesinghe's votes may strengthen rival Anura Dissanayake. He supports Sajith Premadasa, promising anti-corruption measures and community harmony.
-
-🟩
-
-All Ceylon People's Congress President and Member of Parliament Rishad Bathiudeen said that the votes cast for Ranil Wickremesinghe in third place would be pro -Anuragumara Dissanayake and if the Anura came to power, there would be a re -era in six months.
-
-Speaking at a public meeting held at Nintavur on Saturday (14), supporting the presidential candidate of the United People's Alliance Sajith Premadasa.
-
-“The presidential election is very important. Ranil Wickremesinghe is in third place in this election.Ranil is not going to win this election. Sajith Premadasa's success has been confirmed. Therefore, voting for Anura is in vain. If Ranil vote, it will be an opportunity for Anura. Vote for Sajith very carefully.
-
-Corruption government is necessary to restore the economy of the fallen country. There is a need for harmony among communities, racist rulers are essential. Both of these are possible under the rule of Sajith Premadasa.
-
-...
-
-[Data](articles/7450bbe2.json)
-
-[Extended Data](ext_articles/7450bbe2.ext.json)
 
 ---

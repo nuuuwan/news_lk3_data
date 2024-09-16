@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 03:38:38**
+As of **2024-09-17 03:56:11**
 
 ## Newspaper Stats
 
-*Scraped **44,237** Articles*
+*Scraped **44,238** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 377
 bbccomsinhala | 426
-colombotelegraphcom | 437
+colombotelegraphcom | 438
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,935
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,233 (100.0%) of 44,237 articles have been extended.
+44,235 (100.0%) of 44,238 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,39 +50,61 @@ Oll PEC’s must remember to have a Campain Theme. This is the main focus of how
 
 ---
 
-### நாட்டை மீண்டும் இருளில் தள்ளும் வரிசை யுகம் உருவாக இடமளிக்காதீர்கள் - ஜனாதிபதி
+### Do not allow the country to come back in darkness - the president
 
 *2024-09-17 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/193886) · `ta`
 
-வளமான மற்றும் நிலையான பொருளாதாரம் கொண்ட நாட்டைக் கட்டியெழுப்ப வேண்டுமா அல்லது நாட்டை மீண்டும் வரிசை யுகத்திற்கு தள்ளுவதா என்பதை  எதிர்வரும் ஜனாதிபதி தேர்தலில் மக்கள் தீர்மானிக்க வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe urges voters to choose between prosperity and economic stability vs returning to darkness. He promises continued economic growth and warns against opposing candidates' plans. Rally attendees express strong support for his re-election bid.
 
-பதுளையில் திங்கட்கிழமை (16) பிற்பகல் இடம்பெற்ற 'ரணிலால் இயலும்' பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+🟩
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் வகையில் ஏற்பாடு செய்யப்பட்டிருந்த இந்த பேரணியில் பெருந்திரளான மக்கள் கலந்துகொண்டதுடன் ஜனாதிபதிக்கு உற்சாக வரவேற்பு அளிக்கப்பட்டது.
+President Ranil Wickremesinghe has urged the people to decide on the upcoming presidential election whether to build a country with prosperous and stable economy or whether the country will be reinstated.
 
-நாட்டை இருளில் மூழ்கடிக்கும் வரிசை யுகத்திற்கு இடமளிக்க வேண்டாம் என  அனைத்து மக்களையும் கேட்டுக்கொள்வதாகத் தெரிவித்தார்.
+The President made this statement while addressing the rally in Badulla on Monday afternoon.
 
-நாட்டின் பொருளாதாரத்தை ஸ்திரப்படுத்துவதற்காக கடந்த இரண்டு வருடங்களில் முன்னெடுக்கப்பட்ட வேலைத் திட்டத்தை வலுவாக நடைமுறைப்படுத்த மக்களிடம் ஆணை கேட்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+The rally was organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election and was welcomed by a large number of people.
+
+He said he would ask all the people not to allow the era to sink into the darkness of the country.
+
+The President also said that the people were asking the people to strongly implement the program that has been carried out in the last two years to stabilize the country's economy.
+
+Meanwhile, it is a special feature that some trade union leaders of the National Workers Union and the People's Power Party led by Member of Parliament P.Thambaram have joined the president.
 
 ...
 
 [Data](articles/44e8172d.json)
 
+[Extended Data](ext_articles/44e8172d.ext.json)
+
 ---
 
-### ஜனாதிபதி எப்போதும் தேர்தலுக்காக அன்றி நாட்டு மக்களுக்காகவே செயற்பட்டார் - கோகிலா குணவர்தன
+### The President has always acted for the election, not for the election - Kokila Gunawardena
 
 *2024-09-17 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193885) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க எப்போதும் தேர்தலை இலக்காகக் கொள்ளாமல் நாட்டு மக்களுக்காகவே செயற்பட்டார் என்றும், நாட்டை சிறந்த நிலைக்கு கொண்டு வர வேண்டும் என்றால் அரசியல் தீர்மானங்களை எடுக்கக் கூடாது என அவர் உறுதியாக நம்பியதாகவும் பாராளுமன்ற உறுப்பினர் கோகிலா குணவர்தன தெரிவித்தார்.
+Here's a 200-character summary:
 
-திசைகாட்டி அரசாங்கத்தின் கீழ் “பிளேன்டி” குடிக்குமாறும், துன்பங்களைத் தாங்கிக் கொள்ளுமாறும் விஜித ஹேரத் எச்சரிப்பதாகவும், திசைகாட்டி வெற்றி பெற்றால்,  2022 இல் நாடு இருந்த நிலைக்கு மீண்டும்  திரும்ப நேரிடும் என்பது தெளிவாகத் தெரிகிறது என்றும் அவர் மேலும் குறிப்பிட்டார்.
 
-கொழும்பு, பிளவர் வீதியில் அமைந்துள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அரசியல் அலுவலகத்தில் இன்று (16) நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்ட பாராளுமன்ற உறுப்பினர்  கோகிலா குணவர்தன இவ்வாறு தெரிவித்தார்.
+
+Parliamentarian Kokila Gunawardena defends President Ranil Wickremesinghe, saying he works for the people, not politics. She warns against returning to 2022 economic crisis if opposition wins.
+
+🟩
+
+Parliamentarian Kokila Gunawardena said that President Ranil Wickremesinghe had always worked for the people of the country and that he would not take political decisions if the country was to be brought to a better level.
+
+He further stated that Vijitha Herath warned that "Planti" under the government of the compass and tolerate suffering, and that if the compass wins, it is clear that the country will return to the position of the country in 2022.
+
+Parliamentarian Kokila Gunawardena, who was present at a media briefing held today (16) at the Political Office of President Ranil Wickremesinghe, located on Flower Road, Colombo.
+
+He urged the people not to vote for the country, which is economically stable today, and pointed out that if the programs launched by President Ranil Wickremesinghe are to be implemented, he should be given a clear success on September 21.
+
+President Ranil Wickremesinghe does not bring the country to this level easily. For that time, he had to make serious decisions.
 
 ...
 
 [Data](articles/e21cd4b9.json)
+
+[Extended Data](ext_articles/e21cd4b9.ext.json)
 
 ---
 
@@ -525,6 +547,18 @@ What happened to public sector wages during the economic crisis?
 [Data](articles/b4378369.json)
 
 [Extended Data](ext_articles/b4378369.ext.json)
+
+---
+
+### Sri Lanka Elections: Change Or More Of The Same?
+
+*2024-09-16 21:55:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-elections-change-or-more-of-the-same/) · `en`
+
+According to a Facebook report compiled by two Sri Lankans, Ranil Wickremesinghe and Opposition Leader Sajith Premadasa have spent extensively on ads on Meta. Each has disbursed around Rs 32 million so far. Anura Kumara Dissanayake comes third at Rs 7.1 million, after Wijeyadasa Rajapakshe at Rs 8.6 million. Namal Rajapaksa comes seventh at Rs 665,000, after Dilith Jayaweera, who has spent Rs 1.6 million.
+
+...
+
+[Data](articles/87ea40c5.json)
 
 ---
 
@@ -2279,31 +2313,5 @@ Addressing the rally the rally, Ranil Wickremesinghe added that he has already c
 [Data](articles/38c44f7b.json)
 
 [Extended Data](ext_articles/38c44f7b.ext.json)
-
----
-
-### Three people, including a 13 -year -old boy in Jaffna
-
-*2024-09-16 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/193832) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Tragedy struck in Jaffna: A 22-year-old woman died at home, while a 13-year-old boy entered his house without permission. These incidents highlight the complexities of life and death decisions."
-
-🟩
-
-In Jaffna yesterday (15), three people made a wrong decision in different parts of the country.
-
-A 22 -year -old girl from Kottadi, Jaffna, died at home when he went out of the house.
-
-A 13 -year -old boy from Periyavilan area went into the house of the house as his father did not give the phone when he asked his father to play the game on the phone.
-
-◼️
-
-[Data](articles/7680fb83.json)
-
-[Extended Data](ext_articles/7680fb83.ext.json)
 
 ---

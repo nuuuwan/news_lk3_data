@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 20:22:27**
+As of **2024-09-16 20:38:07**
 
 ## Newspaper Stats
 
-*Scraped **44,201** Articles*
+*Scraped **44,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,208
 tamilmirrorlk | 5,760
 virakesarilk | 7,045
-adaderanasinhalalk | 7,568
+adaderanasinhalalk | 7,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,199 (100.0%) of 44,201 articles have been extended.
+44,203 (100.0%) of 44,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Request for Ranil for Ranil
+
+*2024-09-16 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201094) · `si`
+
+Ranil Wickremesinghe called for unity, citing his leadership as key to national progress. Former President Mahinda Rajapaksa's son Namal faces criticism from Buddhist monk Dodupala Rahula Thera. A summit at Abhayamalama Viharaya discussed political stability and security.
+
+🟩
+
+Dodupala Rahula Thera has called for former President Mahinda Rajapaksa to remove Namal Rajapaksa with the prospect of the presidency.
+
+A summit was held at the Abhayamalama Viharaya in Narahenpita this afternoon.
+
+The Narahenpita Abhayaramati Abhayaramati, University of Colombo, Ven. Muruththewe Ananda Thero,
+
+"I call on anywhere that Ranil Wickremesinghe is the only leader who can bring this country."
+
+"Once your son-silage Sirula is the favor you will be able to send the country's sorts, protection, to the language, you will think of the country and torture in this country, security, security and language.. Sir Omathana, who gave my country's victorious victory in 2009, please tell you that the boys have made this right now before these people have taken the right Son.. Add these votes together. If you are a real leader, if you are a patriot, it is true to this country.. The boys are right now. Namal's son is the right older, Rahula is there that night. You have to build up too. "
+
+◼️
+
+[Data](articles/d78acbdf.json)
+
+[Extended Data](ext_articles/d78acbdf.ext.json)
+
+---
+
+### Ready to remove Anura Vat
+
+*2024-09-16 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201093) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka removes VAT on food, education, healthcare. Electricity bills to be implemented soon. Government support for vulnerable families. Politicians expected to serve public interest rather than personal gain. Focus on national energy resources.
+
+🟩
+
+Anura Kumara Dissanayake says that the VAT that has been completely removed from food, education and health.
+
+He was speaking at a series of famous familion held for the presidential election.
+
+"VAT is completely removed from food, education and health. The electricity bill is implemented within a short period of time. 10,000 forms of uncomfortable families to pay 10,000 rupees and the hardest. They build governments to give up and give up governments. The expectation is to translate politics into a public service by abandoning. They mean if we're coming from oil. Ranil is Sultananda, Araban?. That means Ranil acquires a gas well. We'll assure you, oil, gas, and electricity will do the national folk force of the national society.
+
+◼️
+
+[Data](articles/d4799884.json)
+
+[Extended Data](ext_articles/d4799884.ext.json)
+
+---
 
 ### Dilith hits out at ‘absurd’ political dramas by main presidential candidates
 
@@ -47,6 +99,8 @@ Commenting on President Ranil Wickremesinghe, he said the president is asking th
 ...
 
 [Data](articles/3d99619e.json)
+
+[Extended Data](ext_articles/3d99619e.ext.json)
 
 ---
 
@@ -278,23 +332,33 @@ However, the question of what the situation is if Sajith Premadasa is successful
 
 ---
 
-### සජිත්ගේ පොරොන්දු ක්‍රියාත්මක කරන්න අමතර රු. කෝටි 40000ක් ඕන
+### Protection of Sajith's promises. 40000 crores
 
 *2024-09-16 18:16:55* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-පොරොන්දු-ක්‍රියාත්මක-කරන්න-අමතර-රු--කෝටි-40000ක්-ඕන/11-411967) · `si`
 
-සමගි ජන බලවේගයේ ජනාධිපති අපෙක්ෂක සජිත් ප්‍රේමදාස මහතා ජනාධිපතිවරණ ප්‍රචාරක රැස්විම් වලදි ජනතාවට පොරොන්දු වු දේවල් ලබාදිමට අමතර රු කොටි හතලිස් දහසක් ඔහු සොයාගත යුතු බව නුවරඑලිය දිස්ත්‍රික් පා.ම එස්.බි දිසානායක මහතා පැවසිය.
+Here's a 200-character summary:
 
-එස්.බි දිසානායක මහතා ඒ බැව් කියා සිටියේ (16) දින ජනාධිපති අපෙක්ෂක රනිල් වික්‍රමසිංහ මහතාගේ ජය තහවුරු කිරිම සදහා හැටන් දික්ඔය නගර සභා ශාලාවේ පැවති රැස්විමකදි අදහස් දක්වමිණි.
 
-මෙම රැස්විමේදි වැඩිදුරටත් අදහස් දැක් වු එස්.බි දිසානායක මහතා කියා සිටියේ මේ මස 22 දින වැරදිමකින් හෝ සජිත් ප්‍රේමදාස රටේ ජනාධිපති වුණොත් එයා කොහෙන්ද මේ රු කොටි හතලිස් දහසක මුදල සොයන්නේ?
 
-සජිත්ගේ තාත්තා උතුරේ පළාත් සභා ක්‍රමය ඇති කරන්න දැඩි ලෙස විරුද්ධ වුණ කෙනෙක්, දමිල ජනතාවට කිසිම දෙයක් කරපු නැති නායකයෙක්, එයාගේ පුතා කොහොමවත් දමිල ජනතාවට කිසිම දෙයක් කරන්නේ නැ.
+SB Dissanayake promised 40,000 crore rupees for Sajith Premadasa's projects. He vowed to find 1000 prices if elected president. Sajith's father opposed provincial councils in North. Dissanayake built house during housing ministry tenure.
 
-2015 වසරේ එයා නිවාස ඇමති වුණා, මම හදපු අමාත්‍යාංශය ඒක, ඒ අමාත්‍යාංශයේම ඕන තරම් සල්ලි තියෙනවා නිවසක් නැති කෙනෙකුට දිවයිනේ ඕනැම තැනක නිවසක් ඉදි කරන්න පුළුවන්.වතුකරයේ කාටද එහෙම නිවසක් සජිත් ප්‍රේමදාස හදලා දුන්නේ යනුවෙන් පැවසිය.
+🟩
+
+The number of Rs.
+
+Mr. SB Dissanayake told him (16), commenced at a meeting held at the Hatton Dickoya Urban Council Hall.
+
+Speaking at the meeting, SB Dissanayake added that if he became the president of the country or the president of Sajith Premadasa, he will search for a thousand prices of Rs.
+
+Sajith's father was strongly opposed to create the provincial council system in the North and the leader of the people who had not done anything to the Tamil people, the purposes of the purposes of their son would anymore.
+
+In 2015, he was housing minister, that ministry has plenty of money in that ministry, and he built a house in the island.
 
 ◼️
 
 [Data](articles/4f5e89f2.json)
+
+[Extended Data](ext_articles/4f5e89f2.ext.json)
 
 ---
 
@@ -2335,53 +2399,5 @@ Julie Kozack, Director of the International Monetary Fund Department, said this 
 [Data](articles/e2a2bc04.json)
 
 [Extended Data](ext_articles/e2a2bc04.ext.json)
-
----
-
-### Mano
-
-*2024-09-16 08:01:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சாடுகிறார்-மனோ/175-343827) · `ta`
-
-Parliamentarian Mano Ganesan criticizes President Ranil Wickremesinghe's claim about SJB leader Sajith Premadasa's IMF support. Wickremesinghe emphasizes importance of IMF contracts, stating changes impossible according to Sajith and Anura.
-
-🟩
-
-Parliamentarian Mano Ganesan has strongly criticized President Ranil Wickremesinghe's recent claim that SJB leader Sajith Premadasa will not get the support of the International Monetary Fund.
-
-Ganesan, who accused Wickremesinghe of establishing himself as the only economist who is capable of dealing with international financial institutions, said that these comments were a desperate attempt to mislead the citizens.
-
-Ranil emphasized the importance of establishing contracts with the IMF during the Ranil's Victory rally held at the Horana Public Stadium yesterday afternoon.
-
-It is noteworthy that the President then stated that it is not possible to change these agreements in accordance with Sajith and Anura.
-
-◼️
-
-[Data](articles/abace8e8.json)
-
-[Extended Data](ext_articles/abace8e8.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-09-16 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102006/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Fairly heavy showers of about 50 mm are likely at some places in these areas, the department said.
-
-Several spells of showers will occur in North-western province and in Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at a few places in Eastern and Uva province and in Polonnaruwa district during the evening or night, it said.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, and North-western provinces and in Hambantota, Monaragala and Trincomalee districts.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/daef24fb.json)
-
-[Extended Data](ext_articles/daef24fb.ext.json)
 
 ---

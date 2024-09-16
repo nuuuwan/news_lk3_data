@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 18:46:51**
+As of **2024-09-16 18:58:43**
 
 ## Newspaper Stats
 
-*Scraped **44,185** Articles*
+*Scraped **44,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,126 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,920
-adalk | 4,079
+adalk | 4,080
 dailymirrorlk | 4,733
-adaderanalk | 5,206
-tamilmirrorlk | 5,756
-virakesarilk | 7,039
+adaderanalk | 5,207
+tamilmirrorlk | 5,758
+virakesarilk | 7,043
 adaderanasinhalalk | 7,567
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,185 (100.0%) of 44,185 articles have been extended.
+44,185 (100.0%) of 44,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### ”உடல் ரீதியிலான தண்டனைத் தடை செய்யும் சட்டம் விரைவில்”
+
+*2024-09-16 18:37:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடல்-ரீதியிலான-தண்டனைத்-தடை-செய்யும்-சட்டம்-விரைவில்/175-343858) · `ta`
+
+உடல் ரீதியிலான தண்டனையை தடை செய்யும் சட்டத்தை விரைவில் கொண்டுவருவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்துள்ளார்.
+
+“அனைத்து வடிவங்களிலுமான உடல் ரீதியான தண்டனையை தடைசெய்யும் வகையில் தண்டனைச் சட்டம் மற்றும் குற்றவியல் நடைமுறைச் சட்டத்தில் திருத்தம் செய்வதற்கான முன்மொழிவுக்கு அமைச்சர்கள் அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
+
+குழந்தைகள் பாதுகாப்பு ஆர்வலர்களின் 20 ஆண்டுகளுக்கும் மேலான முயற்சிகளுக்குப் பிறகு இந்த மைல்கல் சாதனை கிடைத்துள்ளது. அரசிதழில் வெளியிடப்பட்டதும், இறுதி ஒப்புதலுக்காக இந்த சட்டமூலம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும், ”என்று அவர் தனது சமீபத்திய எக்ஸ் வலைத்தளத்தில் கூறினார்.
+
+◼️
+
+[Data](articles/5b6a6742.json)
+
+---
+
+### ’’தேர்தலுக்குப் பிறகு கவனித்துக் கொள்கிறேன்’’
+
+*2024-09-16 18:26:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்குப்-பிறகு-கவனித்துக்-கொள்கிறேன்/175-343856) · `ta`
+
+ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவாக ஐக்கிய மக்கள் சக்தி விநியோகித்த துண்டுப் பிரசுரத்தை மறுத்த நபர் ஒருவர் நாவலப்பிட்டி SJB அமைப்பாளர் சசங்க சம்பத் சஞ்சீவவினால் அச்சுறுத்தப்பட்டு தாக்கப்பட்டுள்ளார்.
+
+சம்பவம் இடம்பெற்ற நாவலப்பிட்டி நகரில் பாதிக்கப்பட்ட நபரின் தந்தையால் நடத்தப்படும் கைக்கடிகாரம் பழுதுபார்க்கும் கடையிலுள்ள சிசிடிவி கமெராவில் இந்த சம்பவம் பதிவாகியுள்ளது.
+
+நேற்று ஞாயிற்றுக்கிழமை (15) காலை கடைக்கு அழைத்த ஏற்பாட்டாளர் சசங்க சம்பத் சஞ்சீவ மற்றும் ஆதரவாளர்கள் குழுவினரால் விநியோகிக்கப்பட்ட கையேட்டை ஏற்க அந்த இளைஞன் மறுத்துள்ளார்.
+
+நாவலப்பிட்டி பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த குறித்த நபர் வைத்தியசாலையிலிருந்து வெளியேறியுள்ளார்.
+
+எவ்வாறாயினும், தனது எதிர்கால பாதுகாப்பிற்காக பொலிஸ் நிலையத்தில் சம்பவம் தொடர்பில் முறைப்பாடு செய்துள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/572ac59e.json)
+
+---
+
+### Anura Kumara to ‘definitely cancel’ Adani Group’s energy project if elected
+
+*2024-09-16 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102024/anura-kumara-to-definitely-cancel-adani-groups-energy-project-if-elected) · `en`
+
+The National People’s Power (NPP) on Monday (16) vowed to cancel the Adani Group’s wind power project in Sri Lanka if it gets elected in the presidential election scheduled for the weekend, according to a news report on PTI.
+
+The NPP’s presidential candidate Anura Kumara Dissanayake, who spoke during an Indian political chat show revealed that they would annul the project, the Indian news agency highlighted.
+
+Asked if the project posed a threat to the island nation’s energy sector sovereignty, Dissanayake said: “Yes. We will definitely cancel it as it threatens our energy sovereignty.”
+
+The Adani Group has faced fundamental rights litigation in Sri Lanka’s supreme court after it got approval for the proposed construction of a wind power project in the island nation’s north-eastern regions of Mannar and Pooneryn.
+
+The conglomerate was set to invest over $440 million in the 20-year agreement for the development of 484 megawatts of wind power in the region.
+
+...
+
+[Data](articles/e3c774f1.json)
+
+---
+
+### மூன்று வேட்பாளர்களையும் அதிகாரப்பகிர்வு குறித்த வாக்குறுதியை வழங்கச்செய்திருக்கிறோம்; எந்த வேட்பாளர் வென்றாலும் தீர்வை முன்னிறுத்திப் பணியாற்றுவோம் - சுமந்திரன்
+
+*2024-09-16 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193876) · `ta`
+
+இம்முறை ஜனாதிபதித்தேர்தலில் போட்டியிடும் மூன்று பிரதான வேட்பாளர்களையும் அதிகாரப்பகிர்வு குறித்த வாக்குறுதியைக் கொடுக்க வைத்திருக்கிறோம். எனவே மூவரில் எந்த வேட்பாளர் வென்றாலும், தீர்வினைப் பெற்றுக்கொடுப்பதை முன்னிறுத்திய நடவடிக்கைகளில் தமிழரசுக்கட்சி தொடர்ந்து ஈடுபடும் என இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+
+இம்முறை ஜனாதிபதித்தேர்தலில் மூவர் பிரதான வேட்பாளர்களாக இருக்கின்றார்கள். அவர்கள் மூவருடனும் நாங்கள் பேச்சுவார்த்தை நடத்தியிருக்கின்றோம். மூவருமே உச்சபட்ச அதிகாரப்பகிர்வினை முன்னிறுத்தி செயலாற்றுவதாகக் கூறியிருக்கின்றார்கள். அதில் ஏனைய வேட்பாளர்களை விட சஜித் பிரேமதாச சற்று அதிகமாகக் கூறியிருக்கிறார். எனவே அவருடன் இந்த இணக்கப்பாடு எட்டப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/fc804fd5.json)
+
+---
+
+### வேன் - முச்சக்கரவண்டி மோதி விபத்து ; நால்வர் காயம்
+
+*2024-09-16 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193870) · `ta`
+
+அநுராதபுரம் - கண்டி பிரதான வீதியில் மணிக்கூண்டு கோபுரத்துக்கு அருகில் இடம்பெற்ற விபத்தில் நால்வர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அதிவேகமாக பயணித்த சிறிய ரக வேன் எதிரே அமைக்கப்பட்டிருந்த பொலிஸ் வீதித் தடுப்பு மீது மோதுவதை தவிர்ப்பதற்கு முயன்றபோது வேக கட்டுப்பாட்டை இழந்து எதிரே வந்த முச்சக்கரவண்டியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தின்போது, முச்சக்கரவண்டியில் பயணித்த மூவரும் வேன் சாரதியும் பலத்த காயங்களுக்குள்ளான நிலையில் அநுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a421f8cb.json)
+
+---
+
+### පවුලක මාසික ආදායම රු. 100000ක් කරන්න යන දිලිත්
+
+*2024-09-16 17:57:09* · [`adalk`](https://www.ada.lk/breaking_news/පවුලක-මාසික-ආදායම-රු--100000ක්-කරන්න-යන-දිලිත්/11-411965) · `si`
+
+සෑම පවුලකම අවම මාසික ආදායම රුපියල් ලක්ෂයක් දක්වා විය යුතු බවත් ඒ සඳහා අවශ්‍ය වැඩපිළිවෙල තමා සතු බවත් තරුව ලකුණෙන් ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන ජනාධිපතිධූර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පැවසීය.
+
+ඒ මහතා මේ බැව් පැවසුවේ මොනරාගල නගරයේ පරණ බස් නැවතුම්පොළ අසලදී  (16) වෙනිදා සවස පැවති ජන හමුවක් අමතමිනි.
+
+"අස්වැසුම,සමෘද්ධිය,ජනසවිය වැනි සහනාධාර වැඩසටහන් රට පුරා දියත් කළත් ඒ කිසිවෙකුගෙන් දිළිඳු ජනතාවගේ ආර්ථිකය උසස් මට්ටමකට පත්වුණේ නැහැ.දේශපාලඥයින් පසුපස ගොස් ඒවා ලබාගැනීමට සිදුවුණා.එවැනි වැඩසටහන් අපි ක්‍රියාත්මක කරන්නේ නැහැ.දේශපාලඥයින් පසුපස ගොස් සහනාධාර ලබාගැනීමේ ක්‍රමය අවසන්කොට ගෞරවාන්විතව ආදායම වැඩිකිරීමේ වැඩපිළිවෙලක් අපි දියත් කරනවා.
+
+ලක්ෂයක අවම ආදායමක් ඉපයීමේ මාර්ග සකස්කොට එය ලක්ෂ පහ දක්වා වැඩිකිරීම අපේ අරමුණයි.රජයට බරක් නොවී ණයනොවී ජීවත්වීමේ මාර්ගය සෑම පවුලකටම ලබාදෙනවා.සමෘද්ධිය ලබාදෙන සමෘද්ධි නිලධාරීන් අද අසරණ වෙලා.
+
+...
+
+[Data](articles/b041e30e.json)
+
+---
 
 ### Luxury car accident: injury to someone
 
@@ -53,6 +157,24 @@ Nanuoya police, who are investigating the accident, may have been involved in th
 [Data](articles/1f941cb0.json)
 
 [Extended Data](ext_articles/1f941cb0.ext.json)
+
+---
+
+### செல்லுபடியற்ற சாரதி அனுமதிப்பத்திரத்துடன் காரை செலுத்திய தேரர் கைது
+
+*2024-09-16 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/193866) · `ta`
+
+செல்லுபடியற்ற சாரதி அனுமதிப்பத்திரத்துடன் காரை செலுத்திச் சென்ற குற்றச்சாட்டில் தேரர் ஒருவர் கைது செய்யப்பட்டதாக குருணாகல் பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்டவர் மீரிகமவில் உள்ள விகாரை ஒன்றில் வசிக்கும் 46 வயதான தேரர் என பொலிஸார் தெரிவித்தனர்.
+
+இவர் கண்டியில் இருந்து குளியாப்பிட்டிய கந்தானேகெதர பிரதேசத்தில் உள்ள விகாரையொன்றை நோக்கி  காரில் பயணித்துக்கொண்டிருக்கும்போது குருணாகல் போக்குவரத்து பொலிஸாரால் சோதனைக்கு உட்படுத்தப்பட்டுள்ளார்.
+
+இதனையடுத்து, தேரர் கைது செய்யப்பட்டுள்ள நிலையில் குருணாகல் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/5b6788c9.json)
 
 ---
 
@@ -289,6 +411,22 @@ Additionally, he also promised to transform all 361 schools in the Batticaloa Di
 [Data](articles/80d0cd23.json)
 
 [Extended Data](ext_articles/80d0cd23.ext.json)
+
+---
+
+### சட்டவிரோதமாக மணல் ஏற்றிச் சென்றவர் கைது
+
+*2024-09-16 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193850) · `ta`
+
+அனுமதிப்பத்திரமின்றி சட்டவிரோதமான முறையில் பலாங்கொடையில் இருந்து பொகவந்தலாவை நோக்கி டிப்பர் வாகனத்தில் மணல் ஏற்றிச் சென்ற  சந்தேக நபரொருவர் இன்று திங்கட்கிழமை (16)  கைது செய்யப்பட்டுள்ளதாக பொகவந்தலாவை பொலிஸார் தெரிவித்தனர்.
+
+பொகவந்தலாவை பொலிஸ் நிலையத்திற்கு அருகில் சந்தேகத்திற்கு இடமான முறையில் பயணித்த டிப்பர் வாகனம் ஒன்றில் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபருக்கு எதிராக ஹட்டன் நீதவான் நீதிமன்றில் சட்ட நடவடிக்கை எடுக்கவுள்ளதாக பொகவந்தலாவை பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/6c192a7b.json)
 
 ---
 
@@ -2183,197 +2321,5 @@ The cost of the shooting has not yet been revealed and the Dehiwala Police are c
 [Data](articles/93ee6f4f.json)
 
 [Extended Data](ext_articles/93ee6f4f.ext.json)
-
----
-
-### Heavy rains in several areas today
-
-*2024-09-16 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201062) · `si`
-
-Heavy rains, thunderstorms forecasted for Western, Sabaragamuwa, Galle, Matara, Kandy, Nuwara Eliya, Eastern, Uva, Polonnaruwa, Trincomalee, Hambantota districts. Strong winds possible in Western, North Central, North Western Provinces. Meteorological Department warns of potential lightning accidents.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
-
-There are several closes in the Kandy and Nuwara Eliya districts in the North Western and Nuwara Eliya.
-
-Showers or thundershowers will occur at several places in the Eastern and Uva provinces and in the Polonnaruwa District.
-
-Western, North Central and North Western Provinces and Trincomalee districts, Hambantota, North Central and North Western Provinces, North Central and North Western Provinces.. (40-45) can cause strong winds.
-
-The Department of Meteorology has further informed the Meteorological Department to take necessary steps to reduce temporary strong winds and lightning accidents.
-
-◼️
-
-[Data](articles/0c5c6fdc.json)
-
-[Extended Data](ext_articles/0c5c6fdc.ext.json)
-
----
-
-### Try again to kill Trump;Shoot
-
-*2024-09-16 05:57:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்பை-கொல்ல-மீண்டும்-முயற்சி-துப்பாக்கி-சூட்டால்-பரபரப்பு/50-343808) · `ta`
-
-Trump's security detail fired shots near him at Trump International Golf Club in West Palm Beach. He was quickly moved to safety. No further details have been released about the incident.
-
-🟩
-
-Trump is going to the Trump International Golf Club in West Palm Beach and is playing golf. By then, there was a sudden firing of his viewing distance. He was then taken to a safe area.
-
-According to a statement issued by Steven Siyang, a spokesman for the Trump Campaign Organization. However, no other information has been released on this issue
-
-◼️
-
-[Data](articles/c31d017d.json)
-
-[Extended Data](ext_articles/c31d017d.ext.json)
-
----
-
-### Try again to kill Trump;Shoot
-
-*2024-09-16 05:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்பை-கொல்ல-மீண்டும்-முயற்சி-துப்பாக்கி-சூட்டால்-பரபரப்பு/50-343807) · `ta`
-
-Trump's security detail fired shots near him while he played golf in West Palm Beach. No injuries reported. Incident under investigation.
-
-🟩
-
-Trump is going to the Trump International Golf Club in West Palm Beach and is playing golf. By then, there was a sudden firing of his viewing distance. He was then taken to a safe area.
-
-According to a statement issued by Steven Siyang, a spokesman for the Trump Campaign Organization. However, no other information has been released on this issue
-
-◼️
-
-[Data](articles/d9728e2b.json)
-
-[Extended Data](ext_articles/d9728e2b.ext.json)
-
----
-
-### My first purpose is to reduce the burden of the people of the people -the President in Horana
-
-*2024-09-16 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193806) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Ranil Wickremesinghe addresses rally, emphasizes reducing people's burden, protecting IMF deals. Criticizes opponents Sajith & Anura over IMF stance. Promises economic reform, export growth. Appeals for support in upcoming election, touting his leadership during crisis.
-
-🟩
-
-President Ranil Wickremesinghe said his first purpose was to reduce the burden of the people. The President pointed out that it is essential to protect the deals signed with the International Monetary Fund and that there is no possibility of changing the agreements, as Sajith and Anura said.
-
-The President also said that the International Monetary Fund had no approval for the suggestions of Sajith and Anura and that the government had support for the program that the government had already initiated, "its communications director Julie Kosech has officially announced that" it is important to protect the achievements of Sri Lanka in the IMF program. "
-
-President Ranil Wickremesinghe made this statement while addressing the "Ranilum Charm" victory rally, which was held on Sunday afternoon at the Horana Public Stadium.
-
-A large number of people participated in the rally, which was organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election.
-
-...
-
-[Data](articles/e011dd8a.json)
-
-[Extended Data](ext_articles/e011dd8a.ext.json)
-
----
-
-### Prophet Meetan Greetings of Opposition Leader
-
-*2024-09-16 03:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/193805) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Opposition leader Sajith Premadasa greets Prophet Muhammad's birthday, emphasizing his teachings on humanity, brotherhood, and unity. He calls for following Prophet Muhammad's guidance to create a harmonious society beyond racial, religious, and clan differences.
-
-🟩
-
-Today is the birthday of Prophet Muhammad (PBUH), who is dedicated to the creation of humanitarian love and brotherhood and is the guide of Muslims living around the world.. Opposition leader Sajith Premadasa said that I am very happy to send a greeting message.
-
-The basis of the thought and behavior of the human race in any community is the deep religious belief they believed. He is considered a spiritual leader dedicated to make the world full of evil habits and we can learn many things from the teachings that spread around the world.. We also have the opportunity to follow his guidance to create a society that is dedicated to each other, not the race, religion and clan.
-
-The time has come for all who followed his teaching together and re -emerge as a country. For that, we must all unite in this difficult situation.
-
-◼️
-
-[Data](articles/9bb60090.json)
-
-[Extended Data](ext_articles/9bb60090.ext.json)
-
----
-
-### We do not have politics for privileges and blessings -Opposition Leader in Jaffna
-
-*2024-09-16 03:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193804) · `ta`
-
-Sri Lanka opposition leader Sajith Premadasa addresses rally in Jaffna, promising solutions for displaced people, youth empowerment, and economic development. He vows to resume housing schemes, provide fuel relief, and improve healthcare and education.
-
-🟩
-
-We have no people who have received the Wine Stores Licensing, the Brewery Road Permit,. The people who have received special gifts and gifts are not with us. Opposition leader Sajith Premadasa said that we are with us who have joined the country without racial, religious, clan and party.
-
-The 58th People's Alliance organized by the United People's Alliance (UPFA) ahead of the 2024 presidential election was held on September 15 in Manipay, Jaffna, headed by Opposition Leader Sajith Premadasa.. Opposition leader Sajith Premadasa said this while addressing the gathering.
-
-We will find a solution to the displaced people in the northeastern territory. The problems can be ended only through reconciliation processes. Cannot keep the problem of continuing to scream. The opposition leader said that it would implement a program to strengthen the youth and strengthen the youth as it affects the unity of the country.
-
-...
-
-[Data](articles/ab6e0004.json)
-
-[Extended Data](ext_articles/ab6e0004.ext.json)
-
----
-
-### Prophet's greeting News - President
-
-*2024-09-16 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193803) · `ta`
-
-President Ranil Wickremesinghe congratulates Sri Lanka's Muslim community on Prophet Muhammad's birthday. He emphasizes mutual respect, honesty, and harmony as key teachings of Islam. The celebration aims to promote unity and moral values worldwide.
-
-🟩
-
-In his greeting, President Ranil Wickremesinghe said in his congratulations that the day of the Prophet Meelatun Prophet said to all Muslims meaningful and happy.
-
-Sri Lankan Muslims celebrate the day of the Prophet Muhammad (PBUH) with the Muslim community around the world.
-
-Muhammad who developed confidence among others was called al-Ameen (faithful). The sacrifices he made for the virtues and humanity he had been waiting for the rest of his life were inconvenienced. Mutual understanding, honesty, harmony, and disgusting others were the central theme of the Messenger Muhammad Prophet Muhammad.
-
-The Prophet Muhammad can understand the life and philosophy of the Prophet Muhammad that the Lord helps the honest people and that such people are raised to the suitable and higher places by the Lord.
-
-...
-
-[Data](articles/49031f50.json)
-
-[Extended Data](ext_articles/49031f50.ext.json)
-
----
-
-### Woman arrested with 95 kg of cannabis in Kilinochchi
-
-*2024-09-16 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/193802) · `ta`
-
-Kilinochchi: Woman arrested with 95kg cannabis. STF recovers drugs, arrests suspect. Case under investigation.
-
-🟩
-
-95 kg 520 grams of Kerala cannabis has been recovered by Special Action Force in the Vatrayan area of ​​the Kilinochchi Palai Police Division.
-
-On Sunday (15), Special Task Force (STF), who had surrounded the area after confidential information received by the Special Task Force (STF), rescued cannabis in the house.
-
-In addition, Special Task Force (STF) has recovered the Kapvagana found in the area with a package of cannabis in the area parked in the area.
-
-Special Task Force (STF) has also arrested a woman involved in the incident on suspicion.
-
-The arrested suspect and the barrier have been handed over to the Pali Police Station and further investigations are being carried out by the police.
-
-◼️
-
-[Data](articles/d744823f.json)
-
-[Extended Data](ext_articles/d744823f.ext.json)
 
 ---

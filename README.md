@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 06:08:51**
+As of **2024-09-16 06:43:42**
 
 ## Newspaper Stats
 
-*Scraped **44,073** Articles*
+*Scraped **44,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,065
 dailymirrorlk | 4,733
 adaderanalk | 5,187
-tamilmirrorlk | 5,734
+tamilmirrorlk | 5,736
 virakesarilk | 7,021
 adaderanasinhalalk | 7,543
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 7,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,073 (100.0%) of 44,073 articles have been extended.
+44,075 (100.0%) of 44,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Try again to kill Trump;Shoot
+
+*2024-09-16 05:57:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்பை-கொல்ல-மீண்டும்-முயற்சி-துப்பாக்கி-சூட்டால்-பரபரப்பு/50-343808) · `ta`
+
+Trump's security detail fired shots near him at Trump International Golf Club in West Palm Beach. He was quickly moved to safety. No further details have been released about the incident.
+
+🟩
+
+Trump is going to the Trump International Golf Club in West Palm Beach and is playing golf. By then, there was a sudden firing of his viewing distance. He was then taken to a safe area.
+
+According to a statement issued by Steven Siyang, a spokesman for the Trump Campaign Organization. However, no other information has been released on this issue
+
+◼️
+
+[Data](articles/c31d017d.json)
+
+[Extended Data](ext_articles/c31d017d.ext.json)
+
+---
+
+### Try again to kill Trump;Shoot
+
+*2024-09-16 05:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்பை-கொல்ல-மீண்டும்-முயற்சி-துப்பாக்கி-சூட்டால்-பரபரப்பு/50-343807) · `ta`
+
+Trump's security detail fired shots near him while he played golf in West Palm Beach. No injuries reported. Incident under investigation.
+
+🟩
+
+Trump is going to the Trump International Golf Club in West Palm Beach and is playing golf. By then, there was a sudden firing of his viewing distance. He was then taken to a safe area.
+
+According to a statement issued by Steven Siyang, a spokesman for the Trump Campaign Organization. However, no other information has been released on this issue
+
+◼️
+
+[Data](articles/d9728e2b.json)
+
+[Extended Data](ext_articles/d9728e2b.ext.json)
+
+---
 
 ### My first purpose is to reduce the burden of the people of the people -the President in Horana
 
@@ -2243,49 +2283,5 @@ India has openly stated that the provincial councils rejected by moderate Tamil 
 [Data](articles/add52820.json)
 
 [Extended Data](ext_articles/add52820.ext.json)
-
----
-
-### 64 farmers killed in boat crashes in Nigeria
-
-*2024-09-15 12:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நைஜீரியாவில்-படகு-கவிழ்ந்து-விவசாயிகள்-64-பேர்-பரிதாப-பலி/50-343774) · `ta`
-
-Nigeria: 64 farmers killed in river boat crash. 70 aboard; 6 rescued. Daily crossing due to limited boats causes congestion. Tragic loss for local agriculture.
-
-🟩
-
-In Nigeria, more than 70 farmers were killed in a river carrying more than 70 farmers, and 64 people were killed.
-
-Farmers of Jambara State in Northwest Nigeria must cross the river daily for their agricultural work. The accident occurred when 70 people boarded the boat.
-
-Of these, 64 farmers were drowned and tragically killed. 6 people were safely rescued. The accident has caused great tragedy in the country.
-
-A rescue officer said, “A wooden boat carrying 70 farmers crashed into their agricultural lands near Gummi Nagar.. Local people helped the rescue operations.
-
-3 hours of struggling with 6 people to rescue. More than 900 farmers have to cross the river every day to approach their agricultural lands. There are only two boats. This often leads to congestion. ”
-
-◼️
-
-[Data](articles/0cc6e496.json)
-
-[Extended Data](ext_articles/0cc6e496.ext.json)
-
----
-
-### Anura Kumara threatens legal action against critics over ‘conspiracy theories’
-
-*2024-09-15 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101991/anura-kumara-threatens-legal-action-against-critics-over-conspiracy-theories) · `en`
-
-Anura Kumara Dissanayake, the presidential candidate of the National People’s Power (NPP), vowed to hold accountable those who spread false information out of fear of the NPP’s potential victory.
-
-Addressing a public rally in Mirigama, Dissanayake expressed his intent to pursue legal action against individuals who disseminate misleading claims.
-
-Dissanayake criticized his political opponents, accusing them of resorting to conspiracy theories as their primary defense. “Their politics have deteriorated to the point where they can only respond with baseless conspiracy theories,” Dissanayake stated. He contrasted his campaign’s focus on national unity with what he described as the divisive rhetoric of his opponents.
-
-...
-
-[Data](articles/26f1d10a.json)
-
-[Extended Data](ext_articles/26f1d10a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 13:38:51**
+As of **2024-09-16 13:57:52**
 
 ## Newspaper Stats
 
-*Scraped **44,142** Articles*
+*Scraped **44,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 2,683
 dailyftlk | 2,920
 adalk | 4,073
 dailymirrorlk | 4,733
-adaderanalk | 5,197
-tamilmirrorlk | 5,750
-virakesarilk | 7,029
-adaderanasinhalalk | 7,556
+adaderanalk | 5,199
+tamilmirrorlk | 5,752
+virakesarilk | 7,033
+adaderanasinhalalk | 7,557
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,142 (100.0%) of 44,142 articles have been extended.
+44,150 (100.0%) of 44,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Sri Lanka issues clarification on diplomatic relations with Israel
+
+*2024-09-16 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102016/sri-lanka-issues-clarification-on-diplomatic-relations-with-israel) · `en`
+
+Sri Lanka has issued a clarification on the island nation’s diplomatic representation in Israel, in response to recent public discussions surrounding the country’s diplomatic presence in Israel, in order to prevent any misunderstandings.
+
+Accordingly, Sri Lanka’s Minister of Foreign Affairs Ali Sabry stated that Sri Lanka continues to maintain its official embassy in Tel Aviv, which has been the sole diplomatic mission in Israel since 2000. “The embassy remains fully operational, serving as the primary diplomatic channel between the two countries”, he said in a post on ‘X’ (formerly Twitter).
+
+Meanwhile, Sri Lanka has appointed an honorary consul in the Haifa region to extend consular support to Sri Lankans living and working in the area, the Minister clarified, adding that this appointment, made before the events of 07 October 2023, adheres to standard international practices.
+
+...
+
+[Data](articles/32123a26.json)
+
+[Extended Data](ext_articles/32123a26.ext.json)
+
+---
+
+### Sajith says the country needs a leader who is equal to all
+
+*2024-09-16 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201078) · `si`
+
+Sajith Premadasa calls for equal treatment of citizens regardless of religion. He emphasizes the need for a leader who represents all people equally. The presidential candidate also discusses various development projects in Batticaloa, including tourism, housing schemes, education, healthcare, and infrastructure improvements.
+
+🟩
+
+The presidential candidate Sajith Premadasa, Samajith Premadasa, says that it is the responsibility of the people to bring a leader who treats the country to the country.
+
+He was speaking at a famil yesterday (15) in Kattankudi.
+
+"We can cast the field of tourism industry in Malaysia and master the tourism industry in this territory. We have surrendered to produce housing schemes to landless families, lack of landless families in the wilder earner. Also, in the Batticaloa district 361 schools. They make 361 schools into Smart. All the hospital in the district become smart hospitals. "
+
+...
+
+[Data](articles/5eae7244.json)
+
+[Extended Data](ext_articles/5eae7244.ext.json)
+
+---
+
+### Dilith slams presidential candidates who fail to represent genuine change
+
+*2024-09-16 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102015/dilith-slams-presidential-candidates-who-fail-to-represent-genuine-change-) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance Dilith Jayaweera says that all the major candidates running for the office of the Presiden this year do not represent the change demanded by the Sri Lankan people.
+
+Joining Ada Derana’s special “Derana 360°” program series for the presidential candidates yesterday (15), Jayaweera said that he is not a person-centered politician.
+
+“This year, we are all facing a presidential election set against a backdrop that reflects the psychological demand for change from Sri Lankan society”, he stated, adding that “However, none of the candidates in this presidential race truly represent change, regardless of how they present themselves.”
+
+...
+
+[Data](articles/db64a4af.json)
+
+[Extended Data](ext_articles/db64a4af.ext.json)
+
+---
+
+### Tilakaraj met Sridharan MP
+
+*2024-09-16 13:10:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிதரன்-எம்-பி-யை-சந்தித்தார்-திலகராஜ்/175-343843) · `ta`
+
+Tilakaraj visits Jaffna, meets Sridharan MP, distributes election manifesto.
+
+🟩
+
+Presidential candidate Mayilvankanam Tilakaraj visited Jaffna on Monday (16) and engaged in election campaigns.
+
+Accordingly, Sivagnanam Sridharan, a member of the Sri Lanka Tamil National Alliance (TNA), met with his residence.
+
+It is reported that he has met with many people in Jaffna and handed over his election manifesto.
+
+◼️
+
+[Data](articles/5504bc9d.json)
+
+[Extended Data](ext_articles/5504bc9d.ext.json)
+
+---
 
 ### The personal quarrel ends dead
 
@@ -51,6 +131,72 @@ The deceased has been identified as 49 year old resident of the Veyangoda area i
 [Data](articles/d9d7904d.json)
 
 [Extended Data](ext_articles/d9d7904d.ext.json)
+
+---
+
+### Three boys injured in Otto accident
+
+*2024-09-16 13:02:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓட்டோ-விபத்தில்-சிறுவர்கள்-மூவர்-காயம்/175-343842) · `ta`
+
+Three boys hurt in three-wheeler crash. Motorcycle crosses road, hits vehicle carrying six kids. Three injured, rushed to hospital. Others rescued, returned home safely.
+
+🟩
+
+Three boys were injured in a three -wheeler accident on Monday (16) afternoon on Monday (16) afternoon.
+
+The accident occurred when a motorcycle crossed the main street and crossed the main road when six boys were returning to their homes in a three -wheeler.
+
+Three boys who were traveling in a three -wheeler were injured and admitted to Kattankudy Resource Hospital
+
+Other children in the three -wheeler rescued the three -wheeler and sent them to their homes.
+
+◼️
+
+[Data](articles/fe4f69d8.json)
+
+[Extended Data](ext_articles/fe4f69d8.ext.json)
+
+---
+
+### Mavai Senathirajah met Tamil Nadu Candidate Ariyanethran
+
+*2024-09-16 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193836) · `ta`
+
+Mavai Senathirajah supports Tamil Nadu candidate Ariyanethran. TNA leader met Ariyanethran at Jaffna office, discussing election conditions. Former MP Surespiremachandran attended.
+
+🟩
+
+Tamil National Alliance (TNA) leader Mawai Senathirajah expressed his support and greeter to meet Tamil Nadu candidate Ariyanethran in person.
+
+TNA leader Mawai Senathirajah visited the Tamil National General Structure Regional Office in Jaffna on Sunday evening (15) and met with the Tamil National Alliance candidate Ariyanethran for about 30 minutes and expressed his congratulations and support.
+
+At this meeting he discussed the current situation and election conditions. It is noteworthy that former parliamentarian Surespiremachandran and members of the Public Facilities were present at the meeting.
+
+◼️
+
+[Data](articles/43a76586.json)
+
+[Extended Data](ext_articles/43a76586.ext.json)
+
+---
+
+### Information on the Grade 5 Scholarship Examination results
+
+*2024-09-16 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193828) · `ta`
+
+Grade 5 Scholarship Exam results: Expected release in 40 days. Held at 2,849 centers, 323,879 students passed. Commissioner General Amit Jayasundara announced.
+
+🟩
+
+The Commissioner General of Examinations Amit Jayasundara said that the results of the fifth grade scholarship examination, which was held on Sunday (15), are expected to be released in 40 days.
+
+The Commissioner General of Examinations added that this year's scholarship examination was held at 2,849 exam centers and 323,879 students have passed the exam.
+
+◼️
+
+[Data](articles/a7c890cd.json)
+
+[Extended Data](ext_articles/a7c890cd.ext.json)
 
 ---
 
@@ -96,6 +242,30 @@ There are 16 players have been included in the reserve of Dananjaya de Silva.
 
 ---
 
+### Strict law on terrible election campaigns should be implemented - Attorney -at -Law
+
+*2024-09-16 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/193827) · `ta`
+
+Strict election laws needed: attorney calls for monitoring violations, reports 392 complaints including illegal campaigning, violence, and misuse of state resources.
+
+🟩
+
+We have appointed superintendents to monitor the complaints received by the National People's Power Election Monitoring Center at the Divisional and Regional Council level.. Attorney -at -Law Widenga Ugwatta said that the total number of election violations of election violations would be seen as a whole from the beginning.
+
+We have appointed superintendents to monitor the complaints received by the National People's Power Election Monitoring Center at the Divisional and Regional Council level.. Overall, from the beginning to the beginning, there is a rapid increase in election violations.
+
+392 complaints have been reported on the violation of election laws, illegal campaign 186, disrupting legal elections 06, violence 30, improper pressure on public opinion 120, improper use of state resources 73 and government officials 39.
+
+A massive mudslide is being carried out focusing on the National People's Power candidate Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/619cc210.json)
+
+[Extended Data](ext_articles/619cc210.ext.json)
+
+---
+
 ### Pleasing to the change of people - Dilith
 
 *2024-09-16 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201075) · `si`
@@ -137,6 +307,22 @@ Addressing the rally the rally, Ranil Wickremesinghe added that he has already c
 [Data](articles/38c44f7b.json)
 
 [Extended Data](ext_articles/38c44f7b.ext.json)
+
+---
+
+### யாழில் 13 வயது சிறுவன் உள்ளிட்ட மூவர் தவறான முடிவால் உயிர்மாய்ப்பு
+
+*2024-09-16 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/193832) · `ta`
+
+யாழ்ப்பாணத்தில் நேற்று ஞாயிற்றுக்கிழமை (15) வெவ்வேறு பகுதிகளில் மூவர் தவறான முடிவெடுத்து தமது உயிரை மாய்த்துள்ளார்கள்.
+
+யாழ்ப்பாணம் கொட்டடி பகுதியைச் சேர்ந்த 22 வயதுடைய யுவதி ஒருவர் , வீட்டார் வெளியில் சென்ற சமயம் வீட்டில் தனது உயிரை மாய்த்துள்ளார்.
+
+பெரியவிளான் பகுதியைச் சேர்ந்த 13வயது சிறுவன், தொலைபேசியில் கேம் விளையாட தந்தையிடம் தொலைபேசியை கேட்ட போது தந்தை தொலைபேசியை கொடுக்காததால் வீட்டின் அறை ஒன்றுக்குள் சென்று தனது உயிரை மாய்த்துள்ளான்.
+
+◼️
+
+[Data](articles/7680fb83.json)
 
 ---
 
@@ -2119,199 +2305,5 @@ About 40 days of the results of the result will take 40 days. But we expect resu
 [Data](articles/a5fa81d1.json)
 
 [Extended Data](ext_articles/a5fa81d1.ext.json)
-
----
-
-### Pedestrian death
-
-*2024-09-15 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/193777) · `ta`
-
-A pedestrian died after being hit by a bus on the Divulapitiya-Minuwangoda road. The victim's body is at Minuwangoda Hospital. The bus driver has been detained.
-
-🟩
-
-Minuwangoda police said that a pedestrian was killed when a pedestrian was killed when a bus traveling from Divulapitiya to Minuwangoda from Divulapitiya at the Divulapitiya - Minuwangoda road, which belongs to the Minuwangoda Police Division.
-
-The body has been placed in the funeral room of the Minuwangoda Hospital and the bus driver has been arrested, police said.
-
-◼️
-
-[Data](articles/9770b744.json)
-
-[Extended Data](ext_articles/9770b744.ext.json)
-
----
-
-### EC warns presidential candidates against promoting rivals
-
-*2024-09-15 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102001/ec-warns-presidential-candidates-against-promoting-rivals) · `en`
-
-The Election Commission has emphasized that it is unlawful for any presidential candidate to promote another candidate during the campaign.
-
-In an official statement, the commission clarified that candidates who have filed nominations for the upcoming presidential election are expected to campaign solely for their own victory.
-
-The statement also noted that complaints have been received alleging that some candidates are endorsing or promoting their rivals, in violation of election laws.
-
-The commission warned that any candidate found engaging in such prohibited activities, as well as those being promoted, will face legal consequences in accordance with election regulations.
-
-◼️
-
-[Data](articles/64944bdd.json)
-
-[Extended Data](ext_articles/64944bdd.ext.json)
-
----
-
-### Sri Lanka CEB to seek floating solar investors for three reservoirs
-
-*2024-09-15 19:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-to-seek-floating-solar-investors-for-three-reservoirs-179678/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of minister has given the go ahead for state-run Ceylon Electricity Board to seek private investors to build floating solar power plants in three reservoirs, a statement said.
-
-Sri Lanka’s Mahalweli Authoriy has indentified Randenigala, Moragahakanda reservoirs and the Kalawewa tank as suitable for floating solar plants.
-
-Feasibility studies have now been done for the three reservoirs.
-
-The cabinet had approved a proposal by Power and Energy Minister Kanchana Wijesekera to entrust the CEB to select investors under a competitive procurement process. (Colombo/Aug14/2024)
-
-◼️
-
-[Data](articles/59cd3747.json)
-
-[Extended Data](ext_articles/59cd3747.ext.json)
-
----
-
-### Four arrested with vehicles stolen in Kalutara
-
-*2024-09-15 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193772) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Four men aged 29, 34, 40, and 60 arrested in Kalutara for stealing vehicles. Arrested by local police on Saturday based on divisional investigation."
-
-🟩
-
-Kalutara Southern Police have been arrested by the Kalutara Southern Police on Saturday (14).
-
-They were arrested during a roundup of information received by officials of the Kalutara Divisional Criminal Investigation Division.
-
-The suspects are from the southern part of Kalutara aged 29, 34, 40 and 60.
-
-◼️
-
-[Data](articles/9de49b48.json)
-
-[Extended Data](ext_articles/9de49b48.ext.json)
-
----
-
-### Two persons arrested for illegal liquor at Mulliyawalai
-
-*2024-09-15 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/193767) · `ta`
-
-Two men, ages 26 and 32, arrested in Mulliyawala for illegal liquor. Police seized 200L liquor, 1604L alcohol, and 8 copper coils. Suspects handed to local police station for investigation.
-
-🟩
-
-Two persons have been arrested by the police on Saturday (14) with illegal liquor in the Koppilavu ​​area of ​​the Mulliyawala police division.
-
-They were arrested during a roundup of confidential information received by the Mullaitivu Criminal Investigation Division.
-
-The suspects are aged 26 and 32 from Mulliyawala.
-
-They were seized by the police, 200 liters of liquor, 1604 liters of alcohol and 08 copper coils.
-
-Meanwhile, the arrested persons have been handed over to the Mulliyawala police station for further investigations.
-
-◼️
-
-[Data](articles/6761c254.json)
-
-[Extended Data](ext_articles/6761c254.ext.json)
-
----
-
-### A man arrested for illegal liquor in Ragama area
-
-*2024-09-15 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193764) · `ta`
-
-Man arrested for illegal liquor in Ragama area. Raid conducted based on tip-off. 67.5 liters seized. Incident occurred on Saturday.
-
-🟩
-
-A man who had illegal liquor was arrested on Saturday (14) in the Nugegoda area under the Ragama Police Division.
-
-He was arrested during a raid on the basis of information received by the Ragama Police Station.
-
-67.5 liters (90 bottles) was seized by the police by the police.
-
-◼️
-
-[Data](articles/33e27039.json)
-
-[Extended Data](ext_articles/33e27039.ext.json)
-
----
-
-### The decisive moment people focus!
-
-*2024-09-15 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/193790) · `ta`
-
-Sri Lanka's presidential election: Choose wisely, as it determines the nation's leader for five years. Learn from past mistakes and select an experienced, relevant candidate based on historical events. Your vote matters in shaping the country's future.
-
-🟩
-
-This is not an election that selects an MP and a member of the Pradeshiya Sabha. It must be remembered that the president for the next five years of this country is the election that determines the ruler. We must also remember the losses we have suffered because our choices are wrong in the past. So, in Sri Lankan politics we know, experienced, and people need to choose a relevant candidate based on past events. The vote must be appropriate.
-
-◼️
-
-[Data](articles/1f09e3a3.json)
-
-[Extended Data](ext_articles/1f09e3a3.ext.json)
-
----
-
-### 4,215 complaints so far
-
-*2024-09-15 19:13:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-4-215-முறைப்பாடுகள்/175-343800) · `ta`
-
-Election Commission reports 4,215 complaints during July 31-September 14 presidential election period. 1,360 to national center, 2,737 to district centers for law violations. 30 violence complaints, 88 to district center.
-
-🟩
-
-The Election Commission said that 4,215 elections have been received within the period from July 31 to September 14 in connection with the presidential election.
-
-Accordingly, 1,360 complaints have been received for the National Election Complaint Management Center and 2,737 to the District Election Complaint Management Center for violating election laws.
-
-Meanwhile, the Commission said that 30 complaints of violence and 88 complaints have been received to the District Election Complaint Management Center.
-
-◼️
-
-[Data](articles/70706775.json)
-
-[Extended Data](ext_articles/70706775.ext.json)
-
----
-
-### Scholarship Result in 40 days
-
-*2024-09-15 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201055) · `si`
-
-Grade 5 scholarship exam results to be announced in 40 days. Exam conducted at 2,849 centers, 323,879 students participated. Commissioner General of Examinations Amit Jayasundara made the announcement.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara said that the results of the Grade 5 scholarship examination held today (15) will be released in 40 days.
-
-This year's scholarship was held at 2,849 centers and 323,879 students were present.
-
-◼️
-
-[Data](articles/23981143.json)
-
-[Extended Data](ext_articles/23981143.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 21:22:23**
+As of **2024-09-16 21:39:22**
 
 ## Newspaper Stats
 
-*Scraped **44,206** Articles*
+*Scraped **44,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,920
-adalk | 4,082
+adalk | 4,083
 dailymirrorlk | 4,733
-adaderanalk | 5,208
+adaderanalk | 5,209
 tamilmirrorlk | 5,763
-virakesarilk | 7,045
+virakesarilk | 7,046
 adaderanasinhalalk | 7,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,206 (100.0%) of 44,206 articles have been extended.
+44,206 (100.0%) of 44,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### More than 200 inmates escape as Nigerian prison wall collapses in floods
+
+*2024-09-16 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102026/more-than-200-inmates-escape-as-nigerian-prison-wall-collapses-in-floods) · `en`
+
+At least 274 inmates have escaped from a prison in Nigeria’‘s Borno state following heavy flooding, the Nigerian Correctional Service said, as aid agencies reported more than 1,000 people had died across western and central Africa.
+
+Initially, 281 inmates escaped while they were being transferred to “a safe and secure facility” but seven were recaptured later, Nigerian Correctional Service spokesman Abubakar Umar said in a statement on Sunday.
+
+“The flood brought down the walls of the correctional facilities, including the medium security custodial center Maiduguri (MSCC) as well as the staff quarters in the city,” he said.
+
+Umar added that the service was aware of escapees’‘ identities, including their biometrics, and had made this information “available to the public.”
+
+Weeks of flooding across Nigeria have led to 269 deaths and displaced more than 640,000 people, according to the latest data from the country’‘s disaster management agency NEMA.
+
+...
+
+[Data](articles/68a2eb42.json)
+
+---
 
 ### In the country ...
 
@@ -105,6 +125,22 @@ He was speaking at a series of famous familion held for the presidential electio
 [Data](articles/d4799884.json)
 
 [Extended Data](ext_articles/d4799884.ext.json)
+
+---
+
+### சகல இன மக்களின் வாக்குகளாலும் வெற்றி பெறக்கூடிய தலைவராக சஜித் - முஜிபுர் ரஹ்மான்
+
+*2024-09-16 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193881) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தோல்வியை முன்னரே தெரிந்து கொண்ட பொதுஜன பெரமுனவின் உறுப்பினர்கள் பலரும் தற்போது அமைதியைப் பேணுகின்றனர். எமது வெற்றி உறுதிப்படுத்தப்பட்டுள்ளது. சகல இன மக்களின் வாக்குகளாலும் வெற்றி பெறக் கூடிய தலைவராக சஜித் காணப்படுகின்றார் என பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+
+கொழும்பிலுள்ள ஐக்கிய மக்கள் சக்தி அலுவலகத்தில் திங்கட்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க தேர்தலில் வெற்றி பெற மாட்டார். எனவே தான் பொதுஜன பெரமுனவின் உறுப்பினர்கள் பலரும் அமைதியைப் பேணுகின்றனர். ஜனாதிபதிக்கு ஆதரவளிக்கும் எந்தவொரு எம்.பி.க்களையும் தேர்தல் பிரசார மேடைகளில் காணக்கூடியதாக இல்லை. யானை சின்னத்தில் வெற்றி பெற முடியாது என்பதற்காகவே அவர் எரிவாயு சிலிண்டர் சின்னத்தில் போட்டியிடுகின்றார்.
+
+...
+
+[Data](articles/2446c371.json)
 
 ---
 
@@ -321,6 +357,22 @@ This milestone record has been achieved after more than 20 years of efforts by c
 [Data](articles/5b6a6742.json)
 
 [Extended Data](ext_articles/5b6a6742.ext.json)
+
+---
+
+### අලුත විවාහවීමට නියමිත යුවළක් දළඳා මාළිගාවේ ඡායාරූප ගැනීම දුරදිග යන හැඩ
+
+*2024-09-16 18:33:18* · [`adalk`](https://www.ada.lk/breaking_news/අලුත-විවාහවීමට-නියමිත-යුවළක්-දළඳා-මාළිගාවේ-ඡායාරූප-ගැනීම-දුරදිග-යන-හැඩ/11-411968) · `si`
+
+අලුත විවාපත් වීමට නියමිතයුවළක් ඓතිහාසික ශ්‍රී දළදා මාළිගාවට පැමිණපූර්ව ඡායාරූපකරණයේ යෙදීමේ සිද්ධිය පිළිබඳවවිධිමත් පරීක්ෂණයක් පවත්වන ලෙසදන්වමින්මල්වතු අස්ගිරි මහනාහිමිවරුන්ට හා ජනාධිපතිවරයාඇතුළු බලධාරීන්ට දන්වමින්කන්ද උඩරට අභිමානයසංවිධානය විසින්ලිපියක් යොමුකොට තිබේ .
+
+එම සංවිධානයේ සභාපතිහිටපු බස්නායක නිලමේ සුදන්ත සේනානායකමහතා හා එහි ලේකම්සිවිල් ඉංජිනේරු සුනේත්‍රා හුලංගමුවමහත්මියගේ අත්සනින් යුතුවයොමුකොට ඇතිඑම ලිපියේ සඳහන් වන්නේඑම සිද්ධිය සුළුකොට තැකිය නොහැකි බවත්ශ්‍රී දළදා මාළිගාවේ කීර්ති නාමයටකැලැල් වන ආකාරයටහැසිරුණ එමයුවළ ඇතුළු ඊට සම්බන්ධ වූවන් පිළිබඳවවිධිමත් පරීක්ෂණයක් සිදුකොටඔවුන්ට එරෙහිව දඬුවම් පැමිණවිය යුතු බවයි .
+
+ශ්‍රී දළදා මාලිගාව තුළගෙන ඇති එම ඡායාරූපවල පසුබිමේවෙනත් කිසිවෙකුත්පෙනෙන්නට නොමැති බැවින්අනෙකුත් බැතිමතුන් ඉවත් කොටහෝ ශ්‍රී දළදා මාලිගාවේ දොරගුළු වසාඑම ඡායාරූප ගෙන ඇති බවක් පෙනෙන බැවින්ශ්‍රී දළදා මාලිගාවේ ආරක්ෂක අංශ ඇතුළුඅනෙකුත් පරිපාලන නිලධාරීන්ඊට වගකිව යුතුව තිබෙන බවදපවසයි .
+
+...
+
+[Data](articles/1fb866b7.json)
 
 ---
 
@@ -2313,83 +2365,5 @@ Earlier, STI officers had already come to the Mount Lavinia Headquarters Police 
 [Data](articles/749477a3.json)
 
 [Extended Data](ext_articles/749477a3.ext.json)
-
----
-
-### Milad-un-Nabi celebrates unity and brotherhood - President
-
-*2024-09-16 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102007/milad-un-nabi-celebrates-unity-and-brotherhood-president) · `en`
-
-President Ranil Wickremesinghe stated that Sri Lankan Muslims join their fellow believers worldwide in celebrating Milad-un-Nabi, fostering a spirit of unity and brotherhood.
-
-He highlighted that Prophet Muhammad earned the unwavering trust of those around him through his integrity and character and also that his sacrifices for upholding justice, humanity, and righteousness are beyond measure.
-
-He added that the core teachings of Prophet Muhammad emphasize mutual understanding, justice, harmony, and the rejection of hatred.
-
-In his message for Milad-un-Nabi, the President extended his heartfelt wishes to the entire Muslim community in Sri Lanka and around the world for a meaningful celebration, where the values of the Prophet guide efforts to achieve peace and prosperity through unity and understanding.
-
-...
-
-[Data](articles/4fbb9219.json)
-
-[Extended Data](ext_articles/4fbb9219.ext.json)
-
----
-
-### The model is good?Burn?We opposed ourselves
-
-*2024-09-16 08:23:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லடக்கமா-எரிப்பா-நாமே-எதிர்த்தோம்/175-343832) · `ta`
-
-Here's a 200-character summary:
-
-
-
-United People's Power opposes Gotabhaya Rajapaksa's policies. Leader Sajith Premadasa criticizes national leaders' silence on Muslim rights. Promises economic support for farmers and fishermen. Plans poverty reduction programs and education reforms.
-
-🟩
-
-The United People's Power is on the same day for the Islamic culture and religious rights of the Muslim community. United People's Power Leader and Opposition Leader Sajith Premadasa said that we were the only opposing during the issue of whether or not the Janasas.
-
-During the issue, Ran and Anura, who claims to be national leaders, could voice their voice against that bad policy, but they did not come forward.. He said the United People's Power and the United People's Alliance (UPFA) have launched protests against the false policy of Gotabhaya Rajapaksa.
-
-He said this while addressing the presidential election rally held in Akkaraipattu on Saturday (14). There he continued to address,
-
-...
-
-[Data](articles/e1ba26b1.json)
-
-[Extended Data](ext_articles/e1ba26b1.ext.json)
-
----
-
-### Ms. Ms. They're the Prophet
-
-*2024-09-16 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201067) · `si`
-
-Here's a 200-character summary:
-
-
-
-Muhammad, born in Mecca, Arabia, preached peace and equality. He's considered Allah's chosen Prophet, introducing Islam through sermons, actions, and donations. His birthday is celebrated worldwide as a symbol of prophetic love and human connection.
-
-🟩
-
-They are the birth of the Prophets of Muhammhammi, or Ms.
-
-The local and foreign Islamat is celebrated today, and celebrates the good of the Prophets of Prophets Muhammad.
-
-Muhammad, who preached to the world, was born in Makkari in Arabia, which was based on peace and equality.
-
-From the honor of all, he is the belief that Allah has chosen to be Prophet in the fortymousy man.
-
-Prophet, the core system of the Islam is a unique proposal to the world by his sermon, action, and donation.
-
-The world's birthday is the birthday of the Prophet and the world, who is dedicated to the formation of the Prophetic Human love of the man.
-
-◼️
-
-[Data](articles/8eef80b0.json)
-
-[Extended Data](ext_articles/8eef80b0.ext.json)
 
 ---

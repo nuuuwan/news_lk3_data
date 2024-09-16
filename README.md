@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 23:10:59**
+As of **2024-09-16 23:22:31**
 
 ## Newspaper Stats
 
@@ -36,6 +36,10 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-09-16 22:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பில்-நாளை-விசேட-தீர்மானம்/175-343866) · `ta`
 
+Tomorrow: Election Commission discusses presidential election monitoring with Election Monitoring Organization. Voting preparations complete. Chairman urges early voting, cites reduced election violence.
+
+🟩
+
 A special discussion will be held in Rajagiriya tomorrow (17) between the leaders of the Election Commission and the leaders of the Election Monitoring Organization on the Presidential election monitoring.
 
 Elections Commission Chairman Ananda Ratnayake said that the Asian Network for Independence Elections and the Commonwealth Elections will be participating in the discussion.
@@ -59,6 +63,10 @@ He said that after many supporters pointed out the mistakes, they had corrected 
 ### Religious attacks will intensify after the Bangladesh struggle
 
 *2024-09-16 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201096) · `si`
+
+Bangladesh religious tensions escalate post-struggle. Attacks increase against Islamic youth in Cox's Bazar. Women targeted under strict Shariah laws. Anarchic conditions lead to increased violence and demands for justice.
+
+🟩
 
 After the struggle, religion targeting religion has intensified.
 
@@ -101,6 +109,14 @@ He said: “We are here as part of the Commonwealth’s full electoral cycle app
 ### Ranil makes a drinking tourism from Point Pedarudda - Ranil
 
 *2024-09-16 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201095) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Ranil Wickremesinghe announces Point Pedaru as starting point for transforming Sri Lanka into a complete tourist zone. He promises improvements and encourages visitors to come, addressing issues like cooking gas shortages.
+
+🟩
 
 President Ranil Wickremesinghe says that the Presidential Expenditure Official Principal President Mahinda Rajapaksa says that the country is being made into a complete tourist zone and the country is a complete tourist zone.
 
@@ -217,6 +233,10 @@ He was speaking at a series of famous familion held for the presidential electio
 ### Sajid - Mujibur Rahman
 
 *2024-09-16 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193881) · `ta`
+
+PA members maintain peace after Wickremesinghe's defeat. Sajith Premadasa leads votes across ethnicities. UNP supporters urged to vote for Sajith instead. Final campaign meeting on 18th expected to secure Sajith's victory.
+
+🟩
 
 Many members of the PA, who have already learned of the defeat of President Ranil Wickremesinghe, are currently maintaining peace. Our success has been confirmed. Parliamentarian Mujibur Rahman said Sajith is seen as the leader of the votes of all ethnicities.
 
@@ -336,6 +356,10 @@ Sajith Premadasa, Presidency, the Presidential Examination of the Higher Society
 
 *2024-09-16 19:19:45* · [`adalk`](https://www.ada.lk/breaking_news/අනුරපුර-ජනපති-මන්දිරයට-සජිත්-කරන්න-යන-දේ-කියයි/11-411971) · `si`
 
+Sajith Premadasa addresses Anuradhapura district youth on technology, education, and economic development. Promises smart schools, hospitals, fertilizer subsidies, and human conflict solutions. Criticizes opponents' policies and vows to strengthen local industries and tourism.
+
+🟩
+
 In the proposed community, the new information technology to the youth of the Anuradhapura district, the new technology, and computer science, English, is a hub of the Anuradhapura district, computer science, English and technology that provides the Presidential Palace in Anuradhapura that the Presidentials in Anuradhapura is a hub.Presidential candidate Sajith Premadasa said.
 
 He was speaking at the Anuradhapura Public Exerts held at the Salgadu Pittu in Anuradhapura yesterday (16). Speaking further Mr. Sajith Premadasa.
@@ -407,6 +431,10 @@ Meanwhile, Dr. Saranga Alagapperuma told the Daily Mirror that all recruitments 
 ### Rohini boycotted the road because Lakshman Wasantha
 
 *2024-09-16 18:47:25* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ්මන්-වසන්ත-නිසා-සජබ-වේදිකාව-වර්ජනය-කළ-රෝහිණී/11-411969) · `si`
+
+Rohini boycotts road due to Lakshman Wasantha controversy. Former State Minister refuses to share stage with Sajith Premadasa. Alcohol allegations against ethanol producers. Supreme Buddha criticizes Lakshman Wasantha's absence.
+
+🟩
 
 The Matale District Parliamentarian Ruini Wijeratne refused to rise on the stage of the rally of the folk of the people in Dambulla on the 16th.
 
@@ -491,6 +519,10 @@ This milestone record has been achieved after more than 20 years of efforts by c
 ### A newly worthy couple is far-reaching photos in the Dalada Maligawa
 
 *2024-09-16 18:33:18* · [`adalk`](https://www.ada.lk/breaking_news/අලුත-විවාහවීමට-නියමිත-යුවළක්-දළඳා-මාළිගාවේ-ඡායාරූප-ගැනීම-දුරදිග-යන-හැඩ/11-411968) · `si`
+
+Dalada Maligawa controversy: Kandyan Court announces new investigation request to President Rajapaksa. Senior officials accused of removing photos, sparking public outcry. Administrative officers claim responsibility but face criticism from UPFA department.
+
+🟩
 
 A gemation of the Kandyan Court has set up an announcement to the President Mahinda Rajapaksa and the Presidential Association to appoint a new disclosure.
 

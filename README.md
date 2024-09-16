@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 15:38:35**
+As of **2024-09-16 15:57:26**
 
 ## Newspaper Stats
 
-*Scraped **44,166** Articles*
+*Scraped **44,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,920
-adalk | 4,075
+adalk | 4,076
 dailymirrorlk | 4,733
-adaderanalk | 5,202
+adaderanalk | 5,203
 tamilmirrorlk | 5,753
-virakesarilk | 7,035
+virakesarilk | 7,039
 adaderanasinhalalk | 7,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,166 (100.0%) of 44,166 articles have been extended.
+44,172 (100.0%) of 44,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### I oppose the resolution of the Tamil party - C. Chitran
+
+*2024-09-16 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193855) · `ta`
+
+Tamil party opposes TNA decision supporting Sajith Premadasa. Leader criticizes hasty resolution process. Promises to continue opposing common Tamil candidate. Key figures absent from meeting.
+
+🟩
+
+I oppose the decision of the TNA. Sridharan said.
+
+He said this while commenting on a group of six people at the party office in Vavuniya.
+
+At today's meeting, five were in support of Sajith Premadasa.
+
+A report was written on it. The report was already supported by Sajith Premadasa.
+
+I am also supplying the resolution error in the Central Committee on the first day. As a choice leader, I was in writing and left Britain. I will return to Sri Lanka on the 6th. I was told not to hold the meeting until the seventh.
+
+General Secretary Sathiyalingam also promised me that the decisions would not be taken even if they had such meetings.
+
+When we meet Mawai Senathiraja, the current chairman, we will not pass any resolutions.
+
+On August 18, a six -member committee was appointed on August 18 and the committee did not take a decision and made a hurry to the central committee.They have taken the decision for Sajith Premadasa.
+
+...
+
+[Data](articles/0fb85f56.json)
+
+[Extended Data](ext_articles/0fb85f56.ext.json)
+
+---
+
+### ‘Sajith and Anura’s proposals lack IMF approval’ - President emphasizes need for IMF support and reforms
+
+*2024-09-16 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102020/sajith-and-anuras-proposals-lack-imf-approval-president-emphasizes-need-for-imf-support-and-reforms) · `en`
+
+President Ranil Wickremesinghe has stated that his primary objective is to ease the burden on the lives of the people.
+
+Speaking during a public rally held in Horana, he emphasized the importance of upholding the agreements made with the International Monetary Fund (IMF) and moving forward with them. The President noted that it is not feasible to alter these agreements, contrary to the claims made by Sajith and Anura.
+
+Additionally, President Wickremesinghe pointed out that Sajith and Anura’s proposals lack the approval of the IMF, noting that the IMF’s support is firmly behind the government’s current program.
+
+Furthermore, Wickremesinghe elaborated: “My primary goal is to ease the burden on people’s lives. We must continue to uphold our agreements with the International Monetary Fund (IMF), as we have no other source of support. The IMF has facilitated aid from 18 countries and provided us with a $10 billion advantage in managing our debt interest payments,” he said.
+
+...
+
+[Data](articles/28093b18.json)
+
+[Extended Data](ext_articles/28093b18.ext.json)
+
+---
+
+### The success of the national people's power cannot be reduced by unleashing violence - the Superintendent of Police HU. Procurement
+
+*2024-09-16 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193849) · `ta`
+
+National People's Power appeals against violence, police investigation underway after attack on supporters.
+
+🟩
+
+Most people have decided to appoint the president of the country in six days. Other major candidates are unable to withstand this. However, the leader of the National People's Power, with great care, has appealed to the lower -level members not to understand any harassment. In doing so, the police superintendent of the National People's Power Puttalam District and the Bambala Election Office have been carried out by the Superintendent of Police HU.. Pianantha said.
+
+In addition, our meeting was held at our meeting held at Monaragala last Friday (13) at the UNP in front of the United People's Power Office in Mahabodayaya area.
+
+Today, people are carrying out such attacks without being able to withstand the population of national power. Once we have announced this, we announced to the Budala Police Station Officer in charge and announced a transparent inquiry into the matter.
+
+...
+
+[Data](articles/3e6c6c4d.json)
+
+[Extended Data](ext_articles/3e6c6c4d.ext.json)
+
+---
 
 ### ITAK takes final decision on endorsing prez candidate despite dissent within party
 
@@ -84,6 +158,30 @@ The Nixti virus has been identified as the fruit of the fruit and pigs such as b
 
 ---
 
+### Suspect arrested for cutting down ground power wires on high -speed road
+
+*2024-09-16 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/193839) · `ta`
+
+Arrest made for cutting power lines on expressway. Suspect caught by police tourist unit. 14-foot wires and equipment found. Case transferred to Wattala police for investigation.
+
+🟩
+
+A suspect has been arrested for allegedly cut off ground power lines on the Colombo -Katunayake Expressway.
+
+The suspect has been arrested by a police tourist unit for allegedly engaging in night -time rape on the highway.
+
+Police said that the suspects were seized from the arrested suspect, 14 feet long, 02 power wires and equipment used to disconnect the power wires.
+
+Subsequently, the suspect has been handed over to the Wattala police for further investigations, police said.
+
+◼️
+
+[Data](articles/2b6a089f.json)
+
+[Extended Data](ext_articles/2b6a089f.ext.json)
+
+---
+
 ### Arrested in 12 youths played on a separate wheel
 
 *2024-09-16 14:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-சக்கரத்தில்-விளையாடிய-12-இளைஞர்கள்-கைது/175-343848) · `ta`
@@ -103,6 +201,32 @@ A group of ten police officers went there on the basis of telephone calls that f
 [Data](articles/3dddb898.json)
 
 [Extended Data](ext_articles/3dddb898.ext.json)
+
+---
+
+### Vote for Sajith - TNA high -level committee
+
+*2024-09-16 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193852) · `ta`
+
+TNA supports Sajith Premadasa for president. Party leaders discuss election manifestos focusing on Tamil rights and economic development. They reject prioritizing Buddhism and call for federal structure. After debate, TNA decides to back Sajith Premadasa in upcoming election.
+
+🟩
+
+The TNA has issued a statement saying that voters should give their vote in accordance with the central committee of our party to support the United People's Alliance candidate Sajith Premadasa in the upcoming presidential election.
+
+A high -level discussion on the presidential election was held on Monday (16) at the office of the Vavuniya TNA.
+
+The meeting was attended by party leader Mawaisenathirajah, Members of Parliament MA Sumanthiran, C. Siritharan, Secretary P Sathiyalingam, Mayor Saravanapavan and CVK Sivagnanam.
+
+After the discussion, the decision of the TNA was read by the party leader Mawaisenathiraja.
+
+The presidential election will be held on the 21st of this month in Sri Lanka. The election manifesto of three main candidates was considered in this election. The election manifesto was focused on the political solution for the Tamil people and the economic development of the areas of the Tamil people.
+
+...
+
+[Data](articles/c7b30c67.json)
+
+[Extended Data](ext_articles/c7b30c67.ext.json)
 
 ---
 
@@ -234,6 +358,28 @@ The company made a gross profit of 761,562,327 million for 2023/2024, lower than
 
 ---
 
+### Sri Lanka Test team announces match against New Zealand
+
+*2024-09-16 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193843) · `ta`
+
+Sri Lanka names 16-member squad for NZ Test series. First match starts March 18 at Galle. Tanjaya de Silva leads team.
+
+🟩
+
+Sri Lanka's 16 -member team has announced the selection of Sri Lanka Cricket in the two -match Test series against New Zealand.
+
+The first Test match between the two teams will begin on the 18th of this month at the International Cricket Ground in Galle.
+
+Tanjaya de Silva heads the 16 -member Sri Lankan cricket team.
+
+◼️
+
+[Data](articles/9adcb6ec.json)
+
+[Extended Data](ext_articles/9adcb6ec.ext.json)
+
+---
+
 ### Itak support to Sajith - Sridharan protests
 
 *2024-09-16 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201080) · `si`
@@ -307,28 +453,6 @@ Shanghai is rarely attacked by 25 million people with powerful hurricanes that s
 [Data](articles/72f5321c.json)
 
 [Extended Data](ext_articles/72f5321c.ext.json)
-
----
-
-### Sri Lanka Test team announces match against New Zealand
-
-*2024-09-16 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/193843) · `ta`
-
-Sri Lanka names 16-member squad for NZ Test series. First match starts March 18 at Galle. Tanjaya de Silva leads team.
-
-🟩
-
-Sri Lanka's 16 -member team has announced the selection of Sri Lanka Cricket in the two -match Test series against New Zealand.
-
-The first Test match between the two teams will begin on the 18th of this month at the International Cricket Ground in Galle.
-
-Tanjaya de Silva heads the 16 -member Sri Lankan cricket team.
-
-◼️
-
-[Data](articles/9adcb6ec.json)
-
-[Extended Data](ext_articles/9adcb6ec.ext.json)
 
 ---
 
@@ -477,6 +601,30 @@ At this meeting he discussed the current situation and election conditions. It i
 [Data](articles/43a76586.json)
 
 [Extended Data](ext_articles/43a76586.ext.json)
+
+---
+
+### The JVP opposes technology
+
+*2024-09-16 12:47:24* · [`adalk`](https://www.ada.lk/breaking_news/තාක්ෂණවේදී-විෂයට-ජවිපෙ-විරුද්ධ-වූණා/11-411961) · `si`
+
+JVP opposes technology introduction in Sri Lanka. Minister criticizes JVP's lack of vision, highlighting his own efforts in promoting tech education. JVP disrupted tech school construction. Minister claims responsibility for increased IT/eng tech education.
+
+🟩
+
+The JVP alone did not work against the introduction of technology streams throughout Sri Lanka, he said.
+
+The Minister was speaking at a special discussion held yesterday (15) for the victory of independent candidate Ranil Wickremesinghe who competes in the Gas Linder.
+
+The Minister pointed out that the JVP has no vision.
+
+"To the children where the most important thing to the country is the most important of the country. We had science, art, art, commercial subjects in the country. They cannot face the world in the future. I was called the Minister of Education and introduced new country technological stream. Science streams of information technology, bio-system, engineering technology, and technology. Under that we have a computer laboratory of Sri Lanka's forty computers to the children of Sri Lanka, and the computer has been built throughout Sri Lanka.
+
+...
+
+[Data](articles/6bcbe33d.json)
+
+[Extended Data](ext_articles/6bcbe33d.ext.json)
 
 ---
 
@@ -2183,135 +2331,5 @@ Industry leaders of the calibre of Hayleys, AgStar, John Deere, DIMO, CIC and Br
 [Data](articles/2d9f4111.json)
 
 [Extended Data](ext_articles/2d9f4111.ext.json)
-
----
-
-### Increase in attendance of tourists
-
-*2024-09-16 01:56:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்பயணிகள்-வருகை-அதிகரிப்பு/175-343805) · `ta`
-
-Tourist influx surges: 44,977 visitors arrive in 11 days, boosting local economy and attractions.
-
-🟩
-
-More than 44 thousand tourists have entered the country in the last 11 days of this month.
-
-According to the Tourism Development Authority, 44,977 tourists have come to the country during this period.
-
-◼️
-
-[Data](articles/7bca857d.json)
-
-[Extended Data](ext_articles/7bca857d.ext.json)
-
----
-
-### Sumanthiran on Sajith's campaign platform
-
-*2024-09-16 01:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரச்சார-மேடையில்-சுமந்திரன்/175-343804) · `ta`
-
-Sumanthiran supports Sajith Premadasa in presidential election. TNA central executive committee backs opposition leader. Party denies changing stance despite alternative views from leaders.
-
-🟩
-
-MP MA Sumanthiran, a spokesman for the Sri Lanka Tamil National Party (TNA), held a stage at the Sajith -backed public meeting held at Manipay in Jaffna.
-
-The central executive committee of the Sri Lanka TNA has decided to support opposition leader Sajith Premadasa in the upcoming presidential election.
-
-Subsequently, the party's leader Mawai Senathirajah and others made alternative comments on the resolution, but the Sri Lanka TNA issued a special media statement that there would be no change in the resolution.
-
-TNA spokesman MA Sumanthiran was speaking in Jaffna yesterday in support of Sajith Premadasa.. (A)
-
-◼️
-
-[Data](articles/876e44e4.json)
-
-[Extended Data](ext_articles/876e44e4.ext.json)
-
----
-
-### The woman is a corpse recovery
-
-*2024-09-16 01:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-ஒருவர்-சடலமாக-மீட்பு/175-343803) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Corpse recovery: 22-year-old Yall. Kalachelvan Yadusini found dead at home in Kotadi.
-
-🟩
-
-Yall. Kalachelvan Yadusini, a 22 -year -old woman from Kotadi, has been recovered.
-
-The woman was alone at home yesterday afternoon. When the outsiders returned home, the woman was found dead.
-
-◼️
-
-[Data](articles/62402cf7.json)
-
-[Extended Data](ext_articles/62402cf7.ext.json)
-
----
-
-### The provincial council election will be held soon
-
-*2024-09-16 01:30:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபை-தேர்தல்-விரைவில்-நடத்தப்படும்/175-343802) · `ta`
-
-Sajith Premadasa: Provincial council election imminent. Promises devolution, opposes central control. Focuses on improving lives in war-affected areas. Plans new factories, housing schemes.
-
-🟩
-
-United People's Alliance's presidential candidate Sajith Premadasa says that the provincial council election will be held in a short time for devolution of power within the combined country.
-
-He was speaking at the election campaign meeting held yesterday in the Jaffna - Manipayi area.. As he further stated,
-
-The central government should not take the powers of the provincial councils.Based on the policy plan that donors will convene the conference for the people of the North and East, we will be committed to improve the quality of life of the people affected by the war in the Northeast.
-
-New factories will be launched to solve youth career problem. He said the Housing Scheme would be resumed in our regime. (A)
-
-◼️
-
-[Data](articles/6f939360.json)
-
-[Extended Data](ext_articles/6f939360.ext.json)
-
----
-
-### Why Ranil  Wickremesinghe  is  Supremely Confident of Winning the  2024 Presidential Election.
-
-*2024-09-16 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84741) · `en`
-
-Sri Lanka’s ninth presidential election will take place  one week from now on 21 September 2024. Among the 38 contestants, three are regarded as the top contenders. They are President Ranil Wickremesinghe, Leader of the Opposition Sajith Premadasa and JVP/NPP leader Anura Kumara Dissanayake. Three others namely Hambantota District MP Namal Rajapaksa, Ex-Batticaloa MP Packiyaselvam Ariyanethiran and Entrepreneur cum media mogul Dilith Jayaweeraare  are likely to poll a sizeable number of votes.
-
-Incumbent President Ranil Wickremesinghe was interviewed by “Daily FT’editor Nisthar Cassim earlier this week. The exclusive interview commenced with two questions about the  forthcoming presidential election on Sep 21. The first question was –
-
-In the ongoing campaign trail, what have you seen and heard and what has surprised you?
-
-...
-
-[Data](articles/ee7377bd.json)
-
-[Extended Data](ext_articles/ee7377bd.ext.json)
-
----
-
-### Racism plays no overt role in this election but racism is far from dead. It will raise its destructive head when this lot of dreams too turn into ashes and the new president begins the inevitable transformation from hero to villain.
-
-*2024-09-16 01:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84747) · `en`
-
-“Have you learned nothing from history?” Freud (The Future of an Illusion)
-
-“Wrath” is the opening word of The Iliad. Wrath is a key driver of the upcoming presidential election. People are angry at political leaders for bankrupting the country. Hopefully, the anger is accompanied by reason, not just pointing fingers outward but also looking inward.
-
-Those political leaders did not force themselves into power. They were elected by majorities of Sri Lankans. We too bear some culpability for our tragedy.
-
-Unfortunately, wrath is blinding and not enlightening, a truth The Iliad amply illustrates. Enraged at the injustice done to him by Agamemnon, the supreme commander of the Greek forces, Achilles not only retires from the war against Troy; he also conspires to humiliate Agamemnon by making him go down in utter defeat.
-
-...
-
-[Data](articles/1a3b003b.json)
-
-[Extended Data](ext_articles/1a3b003b.ext.json)
 
 ---

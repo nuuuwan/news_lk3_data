@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 00:12:33**
+As of **2024-09-17 00:38:17**
 
 ## Newspaper Stats
 
-*Scraped **44,216** Articles*
+*Scraped **44,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,141 @@ bbccomsinhala | 426
 colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
-dailyftlk | 2,920
+dailyftlk | 2,929
 adalk | 4,085
 dailymirrorlk | 4,733
 adaderanalk | 5,210
 tamilmirrorlk | 5,765
-virakesarilk | 7,046
+virakesarilk | 7,048
 adaderanasinhalalk | 7,572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,216 (100.0%) of 44,216 articles have been extended.
+44,221 (100.0%) of 44,227 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-09-17 (Tuesday)
+
+### Pelwatte Dairy Industries reinforces commitment to safety and environmental sustainability
+
+*2024-09-17 00:07:32* · [`dailyftlk`](https://www.ft.lk/business/Pelwatte-Dairy-Industries-reinforces-commitment-to-safety-and-environmental-sustainability/34-766772) · `en`
+
+Dairy Industries Ltd., a leading name in Sri Lanka’s dairy industry, hosted a successful press conference to outline its strengthened commitment to promoting a culture of safety and environmental sustainability. The press event emphasised the company’s dedication to fostering a safe workplace while ensuring that its operations align with both local and international standards for health, safety, and environmental protection.
+
+...
+
+[Data](articles/fd6492a0.json)
+
+[Extended Data](ext_articles/fd6492a0.ext.json)
+
+---
+
 ### 2024-09-16 (Monday)
+
+### ComBank conducts “Agri Modernisation Fair” in Vavuniya to promote smart agriculture practices
+
+*2024-09-16 23:57:52* · [`dailyftlk`](https://www.ft.lk/business/ComBank-conducts-Agri-Modernisation-Fair-in-Vavuniya-to-promote-smart-agriculture-practices/34-766771) · `en`
+
+Some of the highlights of the Agri Modernisation Fair organised by Commercial Bank
+
+Hayleys, AgStar, John Deere, DIMO, CIC and Browns join bank effort
+
+The Commercial Bank of Ceylon recently brought together a coalition of some of the biggest names in Sri Lanka’s agriculture sector to conduct an “Agri Modernisation Fair” for farmers in the Vavuniya area and introduce the latest technologies available to them and promote smart agriculture.
+
+Industry leaders of the calibre of Hayleys, AgStar, John Deere, DIMO, CIC and Browns participated in the day-long fair, alongside representatives of the Drone Unit of the Agrarian Production Centre. The fair was attended by the students of the Agriculture School of Vavuniya, GCE Advanced Level students and teachers of Puthukkulam Maha Vidyalayam, members of farmer societies and entrepreneurs in and around Sasthirikoolankulam.
+
+...
+
+[Data](articles/85406a75.json)
+
+[Extended Data](ext_articles/85406a75.ext.json)
+
+---
+
+### DBL partners Sri Lanka State Trading Corporation to bring top-quality tools to market
+
+*2024-09-16 23:49:27* · [`dailyftlk`](https://www.ft.lk/business/DBL-partners-Sri-Lanka-State-Trading-Corporation-to-bring-top-quality-tools-to-market/34-766770) · `en`
+
+Officials of Sri Lanka State Trading Corporation, Deen Brothers Imports, UYUS Tools, and Dongcheng Power Tools
+
+Deen Brothers Imports Ltd., (DBL), Sri Lanka’s leading machinery and tool provider, has recently announced a new partnership with the Sri Lanka State Trading Corporation (STC).
+
+This collaboration introduces UYUS Tools and Dongcheng Power Tools – renowned names in professional power and hand tools – to STC’s shelves, making top-quality tools more accessible than ever. The official launch, held at Nawam Mawatha, Colombo 2, marked a significant milestone in DBL’s journey of growth and expansion.
+
+...
+
+[Data](articles/73c199b6.json)
+
+[Extended Data](ext_articles/73c199b6.ext.json)
+
+---
+
+### CEAT Kelani Holdings rated AA+ by Fitch for 4th successive year
+
+*2024-09-16 23:45:57* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-Holdings-rated-AA-by-Fitch-for-4th-successive-year/34-766769) · `en`
+
+Sri Lanka’s leading tyre manufacturer CEAT Kelani Holdings (CKH) has been assigned a National Long-Term rating of ‘AA+(lka)/Outlook Stable’ by Fitch Ratings for a fourth consecutive year, a rating Fitch said is supported by CEAT’s sustained leadership in the domestic pneumatic tyre manufacturing industry and the resilience of its financial profile.
+
+In its announcement, Fitch Ratings said: “The Stable Outlook reflects Fitch’s belief in CKH’s ability to retain its market share despite increasing competition from imported tyres. It also indicates our expectation CKH will maintain adequate credit metrics and liquidity, even during periods of intensive investment.”
+
+...
+
+[Data](articles/bcfbf9a7.json)
+
+[Extended Data](ext_articles/bcfbf9a7.ext.json)
+
+---
+
+### Finance Ministry on Sri Lanka’s external debt service payments
+
+*2024-09-16 23:38:05* · [`dailyftlk`](https://www.ft.lk/opinion/Finance-Ministry-on-Sri-Lanka-s-external-debt-service-payments/14-766768) · `en`
+
+The objective of the debt standstill was to create some space for Sri Lanka to commence negotiations for restructuring debt in a manner that would enable debt service to resume in the future
+
+The Finance Ministry in a statement said it has observed that there is a perception in society that the prevailing economic stabilisation in Sri Lanka is entirely due to external debt not being serviced, and that once debt service resumes, economic instability will return. It is also unfortunate to note that this same narrative is being used to trivialise and undermine the necessity for the critical macroeconomic reforms that are in fact the actual drivers of economic stabilisation. In this context the Finance Ministry via this statement addresses some of these misperceptions and explains the correct position in this regard to the public.
+
+Is it correct that Sri Lanka does not service any of its foreign debt following the announcement of the debt standstill in April 2022?
+
+...
+
+[Data](articles/db6a3717.json)
+
+[Extended Data](ext_articles/db6a3717.ext.json)
+
+---
+
+### தொங்கு பாலத்தின் 75% பயணம் முடிந்தது: மீண்டும் வீழ்ச்சியடையாத பொருளாதாரத்தை உருவாக்க ஆணையை எனக்குத் தாருங்கள் - ஜனாதிபதி
+
+*2024-09-16 23:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193883) · `ta`
+
+நாட்டின் பொருளாதாரத்தை ஸ்திரப்படுத்தி, தற்போது 75% தொங்கு பாலத்தின் பயணத்தை எட்டியுள்ளதுடன், தொங்கு பாலத்தின் பயணத்தை முடித்து, மீண்டும் வீழ்ச்சியடையாத வலுவான பொருளாதாரத்தை நாட்டில் உருவாக்க வேண்டுமென்றால், கட்சி நிற பாகுபாடின்றி இந்த நாட்டு அனைத்து மக்களும் செப்டெம்பர் 21 ஆம் திகதி ஒன்றிணைய வேண்டும் என்றும் தெரிவித்தார்.
+
+க்ருஷா ஒரு நதாலியாவை எதிர்கொள்ள வேண்டியிருந்தாலும், தான் இரண்டு நதாலியாக்களை எதிர்கொள்ள வேண்டியிருந்தது என்றும், இருவரும் குழந்தையின் உரிமைக்காக குரல் கொடுத்தாலும், தொங்கு  பாலத்தின் பயணத்தை முடித்து நாட்டை வெல்வேன் என்றும் ஜனாதிபதி வலியுறுத்தினார்.
+
+அம்பாறையில் திங்கட்கிழமை (16) பிற்பகல் இடம்பெற்ற ‘ரணிலால் இயலும்’ வெற்றிப் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியைக் கொண்டாடும் வகையில் ஏற்பாடு செய்யப்பட்டிருந்த இந்த பேரணியில் பெருந்திரளான மக்கள் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/31706985.json)
+
+---
+
+### Leadership of President RW and AKD
+
+*2024-09-16 23:10:12* · [`dailyftlk`](https://www.ft.lk/columns/Leadership-of-President-RW-and-AKD/4-766766) · `en`
+
+Ranil Wickremesinghe (RW) has been with the Parliament for about 47 years. Without support from the voters, he became President in 2022 because of his luck. He wants to stay in power, but his leadership is questioned by many, given his performance, particularly over the last two years. Anura Kumara Dissanayake (AKD) has been in the Parliament for about 20 years and was a minister and the Chief Opposition Whip from 2015 to 2018. Both RW and AKD are Presidential candidates. This article is a committed inquiry into the leadership qualities of RW and AKD so that voters can decide who to support to be the next president of Sri Lanka.
+
+...
+
+[Data](articles/867a6595.json)
+
+---
 
 ### To support Namal Ranil - request to Mahinda
 
@@ -53,6 +171,64 @@ Addressing the gathering, the President of the University of Colombo Narahenpitt
 [Data](articles/0b873823.json)
 
 [Extended Data](ext_articles/0b873823.ext.json)
+
+---
+
+### Abolition of Executive Presidency: Voters’ policy guide to 2024 Presidential election in 15 Q&As
+
+*2024-09-16 22:50:27* · [`dailyftlk`](https://www.ft.lk/columns/Abolition-of-Executive-Presidency-Voters-policy-guide-to-2024-Presidential-election-in-15-Q-As/4-766765) · `en`
+
+The Supreme Court has made clear that the abolition of the Executive Presidency cannot be done by an amendment to the 1978 Constitution; it can thus only be done by way of a new Constitution
+
+What is the executive presidential system under the 1978 Constitution?
+
+A President directly elected for a fixed term is the Head of State and the Head of Government who exercises the executive power of the state.
+
+The President exercises executive power with a Prime Minister and a Cabinet of Ministers drawn from Parliament and responsible to both Parliament and the President.
+
+The President is the Head of the Cabinet and appoints and dismisses the Prime Minister and the Cabinet.
+
+The Cabinet is collectively responsible and answerable to Parliament and may be dismissed by Parliament by a vote of no-confidence.
+
+The President is responsible but not answerable to Parliament and may only be dismissed by Parliament by impeachment.
+
+...
+
+[Data](articles/c884432f.json)
+
+---
+
+### How will 1.65 million Muslims vote on Saturday?
+
+*2024-09-16 22:37:42* · [`dailyftlk`](https://www.ft.lk/columns/How-will-1-65-million-Muslims-vote-on-Saturday/4-766764) · `en`
+
+90% of the Muslim voters do not want to live under fears of racial riots
+
+Statistically Muslims constitute only 9.3% of the national population. They are a close second to the Sri Lankan Tamil strength of 11.1% according to the 2012 Census. The statistical difference is only 1.8% unlike the figures before the July 1983 racial riots. The anti-Tamil pogrom led to Tamils emigrating from the island in noticeably large numbers. It must be added that Tamil migration increased the statistical percentages of both Sinhala and Muslim population in the country but not their real numbers.
+
+In terms of the real number who are likely to go to polls placed at 75%, the number of votes cast by the Muslims would be around 1.2 million and Tamil votes around 1.4 million. The difference in the number of voters would be only around point 2 million or 200,000! The Upcountry Tamils, the third largest minority, who vote invariably independent of the Sri Lankan Tamils constitute 4.1% of the national population.
+
+...
+
+[Data](articles/a7c1746d.json)
+
+---
+
+### தமிழ் பொதுவேட்பாளரை ஆதரிக்கும் பரப்புரைக் கூட்டத்தில்; தமிழின விடுதலைக்கான இலட்சியத்துக்காக அணிதிரண்டுள்ள உங்களைப்போன்று என்னுடைய வாக்கினையும் அளிப்பேன் - மாவை.சோ.சேனாதிராஜா
+
+*2024-09-16 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/193882) · `ta`
+
+தமிழின விடுதலைக்கான இலட்சியத்துக்கான பயணத்தில் அணிதிரண்டுள்ள பெருந்தொகையான உங்களைப்போன்று என்னுடைய வாக்கினையும் அளிப்பேன் என்ற உறுதிப்பாட்டுடன் தெரிவிக்கின்றேன் என்று இலங்கைத் தமிழரசுக்கட்சியின் தலைவர் மாவை.சோ.சேனாதிராஜா தெரிவித்தார்.
+
+கிளிநொச்சி பசுமைப்பூங்கவில் திங்கட்கிழமை (16) இலங்கைத் தமிழரசுக் கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரனின் ஏற்பாட்டில் நடைபெற்ற தமிழ் பொதுவேட்பாளர் பா.அரியநேத்திரனை ஆதரித்து ‘தமிழ்த் தேசிய இனத்தின் எழுச்சியே தமிழ்த் தேசத்தின் மீட்சி’ எனும் தொனிப்பொருளில் நடைபெற்ற பரப்புரைக் கூட்டத்தில் உரையாற்றுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+தமிழர்களின் எழுச்சி நிகழ்வான நாளாகவும் தமிழனம் விடுதலை பெறதாத நிலையில் நடைபெறுகின்ற மற்றொரு ஜனாதிபதி தேர்தலாகவும் எதிர்வரும் 21ஆம் திகதி நடைபெறுகின்ற தேர்தல் அமைகின்றது.
+
+அவ்விதமான தேர்தலில் எமது விடுதலையையும், அதற்கான இலட்சியப் பயணதுக்காகவும் எங்களுடைய வாக்குகளை பயன்படுத்துவோம் என்ற உறுதியோடு இந்த எழுச்சி நிகழ்வில் பங்கெடுத்துள்ளீர்கள்.
+
+...
+
+[Data](articles/fdeb1313.json)
 
 ---
 
@@ -127,6 +303,22 @@ He said: “We are here as part of the Commonwealth’s full electoral cycle app
 [Data](articles/0f261fde.json)
 
 [Extended Data](ext_articles/0f261fde.ext.json)
+
+---
+
+### Fiscal considerations of proposed adjustments to public sector salary structure
+
+*2024-09-16 21:58:12* · [`dailyftlk`](https://www.ft.lk/opinion/Fiscal-considerations-of-proposed-adjustments-to-public-sector-salary-structure/14-766763) · `en`
+
+Given the fact that public sector pay was already relatively low, public servants felt a great deal of pain like many others in society
+
+Given the various views, including numerous misconceptions, expressed in print, broadcast and social media in the recent past on public sector wages, the Finance, Economic Stabilisation and National Policies Ministry issued the following statement to correct the position on these matters in the context of responsible management of the Government fiscal operations amidst the ongoing deep, complex and unprecedented economic crisis since 2022.
+
+What happened to public sector wages during the economic crisis?
+
+...
+
+[Data](articles/b4378369.json)
 
 ---
 
@@ -2131,263 +2323,5 @@ There have been some articles in the newspaper why the TNA supports Sajith, why 
 [Data](articles/37426332.json)
 
 [Extended Data](ext_articles/37426332.ext.json)
-
----
-
-### Elephant tears in Majma!
-
-*2024-09-16 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193821) · `ta`
-
-Elephant cries in Majma Nagar. Wildlife officials treating injured elephant.
-
-🟩
-
-An elephant is in tears in the Majma Nagar area of ​​the West Ottamavadi Divisional Secretariat Division of Koralaipattu.
-
-The President of the Majma Nagar Rural Development Association, AL Sameem, has been brought to the notice of wildlife officials on Monday (16).
-
-Wildlife officials are taking steps to treat the elephant who is unable to walk.
-
-◼️
-
-[Data](articles/71101826.json)
-
-[Extended Data](ext_articles/71101826.ext.json)
-
----
-
-### No intention to announce a curfew - Ministry of Public Safety
-
-*2024-09-16 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/193818) · `ta`
-
-Ministry denies curfew plans for election day. Security measures in place. Police and special forces ready to assist. No election-related violence reported so far in Tamil Nadu.
-
-🟩
-
-The Ministry of Public Security has said that there is no intention of proclaiming curfew on election day.
-
-All security measures have been taken.
-
-The security forces will be prepared to help the police and the Special Task Force.
-
-The President has the authority to decide on this, we have given the necessary orders on the presidential election security, ”he said.
-
-So far, 500 election campaign meetings have not taken place in Tamil Nadu, there has been no violence.
-
-◼️
-
-[Data](articles/927268ea.json)
-
-[Extended Data](ext_articles/927268ea.ext.json)
-
----
-
-### Typhoon hits Shanghai with 94-mph winds after 400,000 people were evacuated
-
-*2024-09-16 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102011/typhoon-hits-shanghai-with-94-mph-winds-after-400000-people-were-evacuated) · `en`
-
-The strongest typhoon to hit Shanghai since at least 1949 made landfall early Monday with powerful winds and heavy rains after more than 400,000 people were evacuated.
-
-Flights, ferries and train services were suspended in the megacity and in neighboring provinces, disrupting travel during China’s three-day Mid-Autumn Festival. Shanghai’s airports canceled hundreds of flights starting Sunday and through Monday, while in Hangzhou, about 170 kilometers (106 miles) southwest of Shanghai, authorities were also planning to cancel more than 180 flights.
-
-More than 60,000 emergency responders and firefighters were at hand to lend aid in Shanghai, according to state media. More than 414,000 people had been evacuated by Monday.
-
-Bebinca made landfall around 7:30 a.m. in the sprawling Pudong business district with maximum winds of 151 kph (94 mph) near its center. Authorities expected the typhoon would also affect the nearby provinces of Zhejiang, Jiangsu and Anhui.
-
-...
-
-[Data](articles/06a6513e.json)
-
-[Extended Data](ext_articles/06a6513e.ext.json)
-
----
-
-### Myanmar's victims are more
-
-*2024-09-16 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201070) · `si`
-
-Here's a 200-character summary:
-
-
-
-Over 160 deaths reported in Myanmar due to severe weather. Heavy rains from "Yagi" hurricane cause destruction. Government seeks international aid for relief efforts.
-
-🟩
-
-More than 160 people have died due to inclement weather caused by myanmar.
-
-Foreign media reports that these deaths have occurred due to heavy rains with 'Yagi' hurricane.
-
-The inclement weather has lost their homes for about Rs.
-
-The government has called for foreign priorities to provide relief to the people of Myanmar.
-
-◼️
-
-[Data](articles/be485bea.json)
-
-[Extended Data](ext_articles/be485bea.ext.json)
-
----
-
-### Tarm aim and a shooting again
-
-*2024-09-16 10:09:43* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්-ඉලක්ක-කර-නැවතත්-වෙඩි-තැබිමක්/11-411955) · `si`
-
-Donald Trump attacked at golf course; shooter arrested with 47 rifle. Incident raises security concerns.
-
-🟩
-
-US President Donald Trump has been awarded again. The shooting was carried out at a golf course he belongs to him. He has not been harmed with that shot.
-
-Police have arrested the suspect in the shooting and was in his possession. K. The police were also inaugurated by a 47 rifle.
-
-The shooting has taken steps to raise the security of Trump.
-
-◼️
-
-[Data](articles/11407b08.json)
-
-[Extended Data](ext_articles/11407b08.ext.json)
-
----
-
-### Trains delayed on main line due to derailment
-
-*2024-09-16 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102010/trains-delayed-on-main-line-due-to-derailment) · `en`
-
-A train derailment near the Ragama Railway Station has reportedly caused delays to train services on the main line.
-
-An express train traveling from Mahawa to Colombo Fort has derailed near the Ragama Railway Station, disrupting services on the main line.
-
-The Railway Department stated that all trains scheduled to pass through Ragama Junction will be experiencing delays.
-
-◼️
-
-[Data](articles/15703f7f.json)
-
-[Extended Data](ext_articles/15703f7f.ext.json)
-
----
-
-### Train train accident obstructions
-
-*2024-09-16 09:59:22* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියක්-අනතුරට-ලක්වීමෙන්-ප්‍රධාන-මාර්ගයේ-දුම්රිය-ධාවනයට-බාධා/11-411954) · `si`
-
-Train derailment halted: Main road obstruction; Derailment caused by nearby speeding train near Ragama Railway Station.
-
-🟩
-
-Train train derailment has been interrupted due to the main road.
-
-The train is deracted due to a rapid train near Ragama Railway Station.
-
-◼️
-
-[Data](articles/80b5625f.json)
-
-[Extended Data](ext_articles/80b5625f.ext.json)
-
----
-
-### The racketeer is abducted by the country's employment racket
-
-*2024-09-16 09:40:52* · [`adalk`](https://www.ada.lk/breaking_news/රට-රැකියා-ජාවාරමට-හසුවූ-පුද්ගලයන්-ජාවාරම්කරු-පැහැරගෙන-යයි/11-411953) · `si`
-
-Racketeer abducted by employment scam. Three arrested, including women. Lorries seized. Fraud victims identified across Sri Lanka. Suspects threaten victims via video calls. Police investigating large-scale fraud operation.
-
-🟩
-
-Piliyandala Police say that three persons including three women who were arrested for employment in European countries.
-
-Police also seized two lorries used to abduct the suspects.
-
-The suspects involved in abduction were several people in several people who were caught by the suspect's large scale fraud.
-
-Police investigations have revealed that a large number of persons have been dejected by his girlfriend in the Homagama, Trincomalee, Elahera and China Harbor in the Homagama, Homagama, honored by the abducted person.
-
-The police say that even close relatives have been caught by the suspect's fraud.
-
-The Criminal Investigation Division of the Criminal Investigation Division of the Piliyandala Police have arrested two persons with a complaint lorry from a lorry in the lorry in Piliyandala.
-
-Police investigations have revealed that the person had been transferred to another lorry at the same time.
-
-...
-
-[Data](articles/8156f546.json)
-
-[Extended Data](ext_articles/8156f546.ext.json)
-
----
-
-### Shooting in Dehiwala;The injured person dies without treatment
-
-*2024-09-16 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193809) · `ta`
-
-Dehiwala shooting: Unidentified gunmen on motorcycle shoot victim outside home. Injured person dies after being treated at Kalubowila and Colombo National Hospitals. Police investigating incident.
-
-🟩
-
-The shooting took place last night (15), police said.
-
-Two unidentified men on a motorcycle have fired a person in front of a house in the Fourth Division.
-
-Subsequently, the injured person was admitted to the Kalubowila Hospital for treatment and was transferred to the Colombo National Hospital for further treatment, police said.
-
-In addition, there is no information on who carried out the shooting and the Dehiwala police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/c4953775.json)
-
-[Extended Data](ext_articles/c4953775.ext.json)
-
----
-
-### Sri Lanka government, private firms serviced US$2.58bn debt in 2023: FinMin
-
-*2024-09-16 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-private-firms-serviced-us2-58bn-debt-in-2023-finmin-179680/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government and private borrowers has serviced 2.58 billion dollars of debt in 2023 and 2.48 billion in 2022, the year that the country defaulted on external debt, the Finance Ministry said.
-
-In 2022, central government principal repayments fell to 1,236 million dollars from 2,377 million dollars in 2021 after the default. Interest payments fell from 1,187 million dollars to 465 million dollars.
-
-In 2023, Sri Lanka’s government had made 1,043 million in principal repayments and 405 million dollars in interest payments.
-
-“It is incorrect to say that foreign debt is not being repaid,” the Finance Ministry said.
-
-Banks and private corporations had made principal repayments of 769 million US dollars in 2022, down from 1,410 million in 2021.
-
-Interest payments which were 394 million fell to 273 million dollars.
-
-In 2023 banks and private companies had made 405 million dollars of interest payments.
-
-...
-
-[Data](articles/104512b2.json)
-
-[Extended Data](ext_articles/104512b2.ext.json)
-
----
-
-### Alerted US citizens
-
-*2024-09-16 09:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இலங்கை-வரும்-அமெரிக்கப்-பிரஜைகளுக்கு-எச்சரிக்கை/50-343834) · `ta`
-
-US citizens advised caution when visiting Sri Lanka due to potential demonstrations during the upcoming presidential election. The State Department recommends exercising vigilance during the pre-election and post-election periods.
-
-🟩
-
-The US State Department has announced that US citizens traveling to Sri Lanka will be cautious as the presidential election is held in Sri Lanka.
-
-During the presidential election, demonstrations may be carried out during the pre -election period and the subsequent period.
-
-The US State Department has therefore said that US citizens should be cautious. Remble
-
-◼️
-
-[Data](articles/df59ea1f.json)
-
-[Extended Data](ext_articles/df59ea1f.ext.json)
 
 ---

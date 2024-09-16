@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 08:58:16**
+As of **2024-09-16 09:12:22**
 
 ## Newspaper Stats
 
-*Scraped **44,101** Articles*
+*Scraped **44,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,681
 dailyftlk | 2,920
 adalk | 4,066
 dailymirrorlk | 4,733
-adaderanalk | 5,191
+adaderanalk | 5,192
 tamilmirrorlk | 5,741
 virakesarilk | 7,021
 adaderanasinhalalk | 7,548
@@ -26,31 +26,55 @@ adaderanasinhalalk | 7,548
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,097 (100.0%) of 44,101 articles have been extended.
+44,102 (100.0%) of 44,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
 
-### රට ඉදිරියට ගෙනයාමට ජාතික උපායමාර්ගික සැලසුම් අධිකාරියක්
+### National Strategic Planning Authority to move forward the country
 
 *2024-09-16 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201068) · `si`
 
-රට ඉදිරියට යාමට අවශ්‍යනම් ඒ සඳහා ජාතික උපාය මාර්ගික සැලසුම් අධිකාරියක් අවශ්‍ය බව සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+National Strategic Planning Authority crucial for Sri Lanka's progress. Dilith Jayaweera emphasizes need for cross-ministry consultation before major decisions. Proposed authority would involve experts from various fields to ensure balanced, informed governance.
 
-ඊයේ (15) දෙරණ 360 වැඩසටහනට සහභාගී වෙමින් ඔහු පැවසුවේ අමාත්‍යවරුන් විසින් ගන්නා ලද සිතැඟි තීරණ හේතුවෙන් මෙරට මේ වනවිට විශාල ණය කන්දක සිර වී සිටින බවයි.
+🟩
 
-මේ හේතුවෙන් අමාත්‍යාංශයක් තීරණයක් ගැනීමට පෙර ඒ ගැන සාකච්ඡා කිරීම කළ යුතු බවත් ඒ සඳහා විද්‍යාර්ථයින් සහ විශේෂඥයින් ඇතුළත් ජාතික උපාය මාර්ගික සැලසුම් අධිකාරියක් අත්‍යවශ්‍ය බව ඔහු එහිදී පැවසීය.
+Dilith Jayaweera says that if necessary to go to the country, a national strategic planning authority requires a national strategic planning authority.
 
-"අපි යෝජනා කරනවා ජාතික උපාය මාර්ගික සැලසුම් අධිකාරියක්. මේ තුළින් තමයි තීන්දු තීරණ ගන්නේ.
+He said that the Derana 360 program yesterday (15), he said that the concessionary decisions taken by the Ministers are in a large culprit.
 
-මේ පිළිබඳ විශාල සංවාදයක් නැහැ. අපි යෝජනා කරන මේ ජාතික උපායමාර්ගික සැලසුම් අධිකාරියට අපි යෝජනා කරලා තියනවා මේ රටේ විද්‍යාර්ථයින්, විශේෂඥයින්.
+As a result, a Ministry should be discussed before making a decision and the National Strategic Planning Authority, which includes scarusies and expertise, is essential.
 
-අමාත්‍යාංශයක් තීරණයක් ගන්න කලින් ඒක ගැන සාකච්ඡා වෙන්නට ඕන ඒ සියලු අමාත්‍යාංශ නියෝජනය වෙන පිරිස තුළින් ඒ තීරණය ගන්න කොට ඒක මේ රටට බලපාන මුදල් පැත්තෙන්, පරිසරය පැත්තෙන්, දරුවන්ගේ පැත්තෙ, ‍දේ සාකච්ඡා වෙලා තමයි ඒ තීරණය ගන්න ඕන කියන එක තමයි යෝජනා කරලා තියන්නේ.
+"We suggest a national strategic planning authority. This is the result of making decisions.
+
+There is no big conversation about this. We have proposed to this National Strategic Planning Authority, experts, experts in this country.
+
+Before making a decision, it is proposed that the decision to be taken by the cash, the environment, and on the environment, and children's side, and what the same is to discuss the decision by the people representing all Ministries.
 
 ...
 
 [Data](articles/bb83ab2a.json)
+
+[Extended Data](ext_articles/bb83ab2a.ext.json)
+
+---
+
+### New rehabilitation center for women drug addicts established in Vavuniya
+
+*2024-09-16 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102008/new-rehabilitation-center-for-women-drug-addicts-established-in-vavuniya) · `en`
+
+The Bureau of Rehabilitation has initiated the establishment of a special center dedicated to rehabilitating women addicted to dangerous drugs.
+
+The facility, located in the Vavuniya area, has the capacity to rehabilitate up to 100 women. Rehabilitation will be carried out under court orders, focusing on supporting women struggling with drug addiction.
+
+The Commissioner General of Rehabilitation has informed the Ministry of Justice, Prison Affairs, and Constitutional Reforms about the center, and the Judicial Service Commission has notified all judges to refer women drug addicts in need of rehabilitation to this new facility.
+
+◼️
+
+[Data](articles/e5d063fe.json)
+
+[Extended Data](ext_articles/e5d063fe.ext.json)
 
 ---
 
@@ -69,6 +93,8 @@ In his message for Milad-un-Nabi, the President extended his heartfelt wishes to
 ...
 
 [Data](articles/4fbb9219.json)
+
+[Extended Data](ext_articles/4fbb9219.ext.json)
 
 ---
 
@@ -91,6 +117,8 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/daef24fb.json)
+
+[Extended Data](ext_articles/daef24fb.ext.json)
 
 ---
 
@@ -1124,17 +1152,27 @@ In the travel consultation issued by the Department, residents of the country ar
 
 ---
 
-### 05 වසර ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල දින 40කින්
+### Five Scholarship Examination results in 40 days
 
 *2024-09-15 20:25:49* · [`adalk`](https://www.ada.lk/breaking_news/05-වසර-ශිෂ්‍යත්ව-විභාගයේ-ප්‍රතිඵල-දින-40කින්/11-411951) · `si`
 
-මෙම විභාගයේ ප්‍රතිඵල ලබා දීමට දින 40ක පමණ කාලයන් ගත වන බවත්, කෙසේ වෙතත් කඩිනමින් ප්‍රතිඵල ලබා දීමට බලාපොරොත්තු වන බවත් විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසීය.
+Here's a summary of the text in approximately 200 characters:
 
-ප්‍රතිඵල ලබා දීමට දින 40ක පමණ කාලයන් ගත වෙනවා. ඒත් අපි බලාපොරොත්තු වෙනවා හැකි ඉක්මනින් ප්‍රතිඵල ලබා දෙන්න
+
+
+Commissioner General Amithi Jayasundara announced that results of the Five Scholarship Examination will be released within 40 days. While the timeline is set for 40 days, officials hope for faster processing. The statement emphasizes both the established timeframe and the desire for quicker results.
+
+🟩
+
+Commissioner General of Examinations Amithi Jayasundara said that 40 days of the results of this examination and the results are expected to be effective.
+
+About 40 days of the results of the result will take 40 days. But we expect results as soon as possible
 
 ◼️
 
 [Data](articles/a5fa81d1.json)
+
+[Extended Data](ext_articles/a5fa81d1.ext.json)
 
 ---
 
@@ -2239,27 +2277,5 @@ It is noteworthy that the girl's parents have accused the girl of not taking any
 [Data](articles/a9970ec4.json)
 
 [Extended Data](ext_articles/a9970ec4.ext.json)
-
----
-
-### One person arrested in Katunayake with cigarettes brought from Dubai
-
-*2024-09-15 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193741) · `ta`
-
-Person arrested at Katunayake airport with 6200 foreign cigarettes from Dubai. Police investigation ongoing.
-
-🟩
-
-Police have arrested a suspect at the Katunayake airport premises yesterday (14) with 6200 (31 cartoons) foreign cigarettes from Dubai to Sri Lanka.
-
-He was arrested after a group of officials of the Katunayake Airport Division of the Police Bureau of Police.
-
-Further investigations are being carried out by the Police Drug Eradication Bureau Katunayake Airport.
-
-◼️
-
-[Data](articles/b5b6d166.json)
-
-[Extended Data](ext_articles/b5b6d166.ext.json)
 
 ---

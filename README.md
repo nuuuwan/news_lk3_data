@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 16:55:47**
+As of **2024-09-16 17:07:41**
 
 ## Newspaper Stats
 
-*Scraped **44,178** Articles*
+*Scraped **44,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,71 @@ dailymirrorlk | 4,733
 adaderanalk | 5,204
 tamilmirrorlk | 5,754
 virakesarilk | 7,039
-adaderanasinhalalk | 7,565
+adaderanasinhalalk | 7,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,175 (100.0%) of 44,178 articles have been extended.
+44,179 (100.0%) of 44,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
 
-### ප්‍රතික්ෂේපයට ලැබුණු ගුටිය
+### Facebook raids
+
+*2024-09-16 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201089) · `si`
+
+Facebook party raid: 14 youths arrested in Gampaha, Negombo, and Ja Elasi for using illegal drugs like ice and cocaine. Ages between 19-30. Excise officers made the arrests.
+
+🟩
+
+Fourteen youths were arrested by a Facebook party.
+
+They were arrested in a joint venture in Gampaha, Negombo and Ja Elasi Excise locations yesterday (15).
+
+It is reported that young and young people have joined the party for the party.
+
+A group of young people who joined the party have been arrested by the Excise Officers while using illegal drugs within the rooms.
+
+It was revealed that these young men were using the drug ice and cocaine.
+
+Excise officials said the arrested persons were between 19 and 30 years old.
+
+◼️
+
+[Data](articles/453160c1.json)
+
+[Extended Data](ext_articles/453160c1.ext.json)
+
+---
+
+### Gotu received by the denial
 
 *2024-09-16 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201088) · `si`
 
-අත්පත්‍රිකාවක් භාර ගැනිම ප්‍රතික්ෂේප කළ වෙළෙඳසැලක සිටි පුද්ගලයෙක්ට එම අත්පත්‍රිකා බෙදමින් සිටි පුද්ගලයෙක් පහරදී ඇති බව නාවලපිටියෙන් වාර්තා විය.
+Assault reported: Man attacked after rejection. CCTV footage shows incident. Victim hospitalized. Local politician involved.
 
-අප වාර්තාකරු පැවසුවේ, සමගි ජන බලවේගයේ නාවලපිටිය ආසන සංවිධායකවරයා විසින් එම පහරදීම සිදුකර ඇති බවය.
+🟩
 
-එම පුද්ගලයාට පහර දෙන අයුරු එම වෙළෙඳසැලේ සවි කරතිබු ආරක්ෂිත කැමරාවේ සටහන්ව තිබුණි.
+It was reported that a man was assaulted by a person who was rejected by a rejected shot.
 
-නාවලපිටිය නගර මධ්‍යයේ පිහිටි ඔරලෝසු අලුත්වැඩියා කරන ස්ථානයේ හිමිකරුගේ පුත්‍රයාට මෙසේ පහර දී ඇති අතර, මෙම පහරදිම සිදුකර ඇත්තේ ඊයේ (15) උදැසන 11ට පමණ ය.
+Our correspondent said that the assault was carried out by the Nawalapitiya electorate of the Samagi power.
 
-සජබ නාවලපිටිය ආසන සංවිධායකවරයාගේ ආධාරකරුවන් පිරිසක් සමග එම වෙළෙඳසැල තුළ ට පැමිණ තරුණයාට අත්පත්‍රිකාවක් ලබාදී ඇති බවත්, එම අවස්ථාවේ අත්පත්‍රිකාව ලබා ගැනීම තරුණයා ප්‍රතික්ෂේප කර තිබුණි.
+The attacker camera was recorded on the profitable camera of the shop as to attack that person.
 
-පහර කැමෙන් පසු එම තරුණයා නාවලපිටිය දිස්ත්‍රික් මහ රෝහලට ඇතුළු වී ප්‍රතිකාර ලබා එම රෝහලේ පොලීසිය වෙත ගොස් පැමිණිල්ලක් කර අද (16) දින රෝහලෙන් පිටව ගොස් ඇත.
+The attack was attacked the owner of the clock renovation of Nawalapitiya and the attack was 11 am yesterday (15).
+
+Sajabewa electorate organizer was in the shop with supporters and gave a handicher to the youth.
+
+After the attack, the youth residents and went to the Nawalapitiya District General Hospital and left the hospital today (16).
 
 ◼️
 
 [Data](articles/f231fb62.json)
+
+[Extended Data](ext_articles/f231fb62.ext.json)
 
 ---
 
@@ -160,17 +194,27 @@ On August 18, a six -member committee was appointed on August 18 and the committ
 
 ---
 
-### අගෝස්තු මාසයේ  අයි.සී.සී ක්‍රීඩකයා සහ ක්‍රීඩිකාව ශ්‍රී ලංකාවෙන්
+### ICC player and player in August Sri Lanka
 
 *2024-09-16 15:17:13* · [`adalk`](https://www.ada.lk/sports/අගෝස්තු-මාසයේ--අයි-සී-සී-ක්‍රීඩකයා-සහ-ක්‍රීඩිකාව-ශ්‍රී-ලංකාවෙන්/9-411963) · `si`
 
-අගෝස්තු මාසයට අදාළව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය නම් කරන මාසයේ ක්‍රීඩකයා සහ ක්‍රීඩිකාව ප්‍රකාශයට පත් කර තිබේ.
+Here's a summary of 200 characters:
 
-ඒ අනුව ක්‍රීඩිකාවට හිමි සම්මානය  ශ්‍රී ලංකා ක්‍රීඩිකා හර්ෂිතා මාධවී සමරවික්‍රම විසින් හිමි කරගෙන ඇති අතර, ක්‍රීඩකයාට හිමි සම්මානය දුනිල් වෙල්ලාලගේ විසින් හිමි කර ගෙන තිබේ.
+
+
+Sri Lanka cricket: ICC declares players Hershaya Samarawickrema and Dunil Vellalage winners of awards in August.
+
+🟩
+
+The player and the player named International Cricket Council has been declared in relation to August.
+
+Hershaya Media Samarawickrema has won the Award for the Award and the player Award was won by Dunil Vellalage.
 
 ◼️
 
 [Data](articles/a33b04d8.json)
+
+[Extended Data](ext_articles/a33b04d8.ext.json)
 
 ---
 
@@ -624,19 +668,25 @@ Joining Ada Derana’s special “Derana 360°” program series for the preside
 
 ---
 
-### නැගෙනහිර සංචාරක කලාප යා කරමින් අභ්‍යන්තර ගුවන් සේවයක්
+### Internal airline connecting East Tourism Zones
 
 *2024-09-16 13:13:35* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-සංචාරක-කලාප-යා-කරමින්-අභ්‍යන්තර-ගුවන්-සේවයක්/11-411962) · `si`
 
-නැගෙනහිර පළාතේ සංචාරක කර්මාන්තයේ ප්‍රවර්ධනය උදෙසා  පළාතේ සංචාරක කලාප යාකරමින් අභ්‍යන්තර ගුවන් ගමන් සේවාවක් ආරම්භ කිරීමට නියමිතය .
+East Tourism Zones: New internal flights connect Batticaloa, Arugambuda, and Trincomalee starting January. Promotes tourism in Eastern Province.
 
-ලබන වසරේ ජනවාරි සිට ආරම්භ කරන මෙම අභ්‍යන්තර ගුවන් ගමන් සේවාව තුළින් ත්‍රිකුණාමලයේ "නිලාවේලි" මඩකලපුවේ "පාසිකුඩා" හා අම්පාරේ "අරුගම්බේ" යන සංචාරක කලාප තුන යාකෙරේ.මේ සඳහා වන අවබෝධතා ගිවිසුමට අත්සන් තැබීම ත්‍රිකුණාමලයේ පිහිටි ආණ්ඩුකාර කාර්යාලයේදී ආණ්ඩුකාර සෙන්දිල් තොණ්ඩවන් මහතාගේ මෙහෙයවීම යටතේ සිදුවිය.
+🟩
 
-මේ අනුව පළාත් සංචාරක කාර්යාංශයේ සභාපති එම්.පී. මදනවාසන් හා රුසියාව මූලස්ථානය කරගත් ජාත්‍යන්තර ගුවන් අභ්‍යාවකාශ සමාගමේ සභාපති Shugarev Sergey Nikolaevich යන මහත්වරු මෙම අවබෝධයක් ගිවිසුමට අත්සන් තැබූහ .
+An internal air travel service is to be launched in the province of the province to promote tourism in the Eastern Province.
+
+The internal flight services commences from January next year, the three tourism agreement, Batticaloa, "Arugambuda" tourist in Trincomalee.
+
+Accordingly, the Chairman of the Provincial Tourism Bureau MP. Chairman Shiugarev Sergey Nikolaevich, Chairman of Madannaann and Russia, the Chairman of the International Air Space Line
 
 ◼️
 
 [Data](articles/08093565.json)
+
+[Extended Data](ext_articles/08093565.ext.json)
 
 ---
 
@@ -2315,21 +2365,5 @@ By combining Hemas Hospitals’ extensive experience in private healthcare deliv
 [Data](articles/b1daac2a.json)
 
 [Extended Data](ext_articles/b1daac2a.ext.json)
-
----
-
-### Brandix partners GLO programme for unique learning and development experience
-
-*2024-09-16 02:21:00* · [`islandlk`](http://island.lk/brandix-partners-glo-programme-for-unique-learning-and-development-experience/) · `en`
-
-Brandix rounded out its commitment for the Guiding Leadership and Outreach (GLO) programme this year, empowering up to 50 individuals across its value chain. GLO is conducted in partnership with the Association for HR Professionals in Sri Lanka and AIESEC, involving Brandix, Fortude, SyscoLabs, John Keells Holdings and IFS.
-
-Under Phase 1 of the GLO programme, five employees from each company benefitted from a unique Train-the-Trainers programme, with sessions hosted by Global Learning Lab. With Phase 2, the GLO programme saw each company engaging students from universities across Sri Lanka to design and deliver a two-day GLO leadership academy. Brandix engaged 22 students who were tasked with developing Sustainable Impact Projects, with one chosen to be funded and implemented.
-
-...
-
-[Data](articles/eafa3ef9.json)
-
-[Extended Data](ext_articles/eafa3ef9.ext.json)
 
 ---

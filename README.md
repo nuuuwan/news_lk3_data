@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 00:54:33**
+As of **2024-09-17 01:07:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,223 (100.0%) of 44,227 articles have been extended.
+44,225 (100.0%) of 44,227 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -206,6 +206,8 @@ The President is responsible but not answerable to Parliament and may only be di
 
 [Data](articles/c884432f.json)
 
+[Extended Data](ext_articles/c884432f.ext.json)
+
 ---
 
 ### How will 1.65 million Muslims vote on Saturday?
@@ -221,6 +223,8 @@ In terms of the real number who are likely to go to polls placed at 75%, the num
 ...
 
 [Data](articles/a7c1746d.json)
+
+[Extended Data](ext_articles/a7c1746d.ext.json)
 
 ---
 

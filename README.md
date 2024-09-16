@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 04:07:50**
+As of **2024-09-17 04:22:30**
 
 ## Newspaper Stats
 
-*Scraped **44,239** Articles*
+*Scraped **44,240** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 377
 bbccomsinhala | 426
-colombotelegraphcom | 438
+colombotelegraphcom | 439
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,935
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,239 (100.0%) of 44,239 articles have been extended.
+44,240 (100.0%) of 44,240 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -535,6 +535,20 @@ He said that after many supporters pointed out the mistakes, they had corrected 
 [Data](articles/ca7d548d.json)
 
 [Extended Data](ext_articles/ca7d548d.ext.json)
+
+---
+
+### Three Paths, One Nation: Who Will Lead Sri Lanka In 2024?
+
+*2024-09-16 22:07:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/three-paths-one-nation-who-will-lead-sri-lanka-in-2024/) · `en`
+
+The 2024 Sri Lankan General Election, scheduled for September 21, is one of the most pivotal in recent history, with the country at a crossroads both politically and economically. In the aftermath of significant economic challenges, including hyperinflation, foreign exchange crises, and energy shortages, Sri Lankans are seeking new leadership that can stabilize the nation and foster recovery. Three main contenders stand at the forefront of this election: Ranil Wickremesinghe, Sajith Premadasa, and Anura Kumara Dissanayake, each offering distinct visions for Sri Lanka’s future. Let us delve into their political careers, agendas, and the possible impact they may have on the country.
+
+...
+
+[Data](articles/43ebea4a.json)
+
+[Extended Data](ext_articles/43ebea4a.ext.json)
 
 ---
 
@@ -2323,25 +2337,5 @@ A massive mudslide is being carried out focusing on the National People's Power 
 [Data](articles/619cc210.json)
 
 [Extended Data](ext_articles/619cc210.ext.json)
-
----
-
-### Pleasing to the change of people - Dilith
-
-*2024-09-16 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201075) · `si`
-
-Dilith Jayaweera criticizes mainstream presidential candidates, saying they won't bring real change to Sri Lanka. He emphasizes the need for people-centric policies and entrepreneurship to improve the country's tourism industry.
-
-🟩
-
-Dilith Entrepreneurship Dilith Jayaweera says that all the mainstream candidates who have come forward to the presidential election will not represent the change of Sri Lankan community.
-
-He said that yesterday's "Derana 360" Ada Derana 360 "
-
-...
-
-[Data](articles/67fdb009.json)
-
-[Extended Data](ext_articles/67fdb009.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 03:56:11**
+As of **2024-09-17 04:07:50**
 
 ## Newspaper Stats
 
-*Scraped **44,238** Articles*
+*Scraped **44,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,935
 adalk | 4,085
 dailymirrorlk | 4,733
 adaderanalk | 5,210
-tamilmirrorlk | 5,766
+tamilmirrorlk | 5,767
 virakesarilk | 7,051
 adaderanasinhalalk | 7,572
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,235 (100.0%) of 44,238 articles have been extended.
+44,239 (100.0%) of 44,239 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -108,39 +108,91 @@ President Ranil Wickremesinghe does not bring the country to this level easily. 
 
 ---
 
-### நேரடி வெளிநாட்டு முதலீட்டை ஈர்க்க நாட்டில் ஸ்திரத்தன்மை அவசியம் - நெரஞ்சன் டி சில்வா தேவா ஆதித்ய
+### Stability is essential in the country to attract direct foreign investment - Neranjan de Silva Deva Aditya
 
 *2024-09-17 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193884) · `ta`
 
-ஒரு நாடு நேரடி வெளிநாட்டு முதலீட்டை ஈர்ப்பதற்கு, முதலீட்டாளர்கள் முதலீடு செய்யும் பணம் பாதுகாப்பானது என்பதை உறுதிப்படுத்தும் வகையில், அந்நாட்டில் ஸ்திரத்தன்மை, பாதுகாப்பு ஆகியவற்றை உறுதிப்படுத்தி, நம்பிக்கையைக் கட்டியெழுப்ப வேண்டும் என்று ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் நெரஞ்சன் டி சில்வா தேவா ஆதித்ய தெரிவித்தார்.
+Here's a 200-character summary:
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட 94 சட்டங்கள் இலங்கையை வளமான மற்றும் போட்டிமிக்க பொருளாதாரம் கொண்ட நாடாக மாற்ற வழிவகுத்துள்ளதாகவும் அவர் மேலும் தெரிவித்தார்.
 
-சரிந்த பொருளாதாரத்தை மீளக் கட்டியெழுப்ப ஜனாதிபதி ரணில் விக்ரமசிங்க எடுத்த சரியான மற்றும் துணிச்சலான தீர்மானங்களினால் இலங்கை இதுவரை பல சாதனைகளைப் புரிந்துள்ளதாகவும் அவர் சுட்டிக்காட்டினார்.
 
-கொழும்பு, பிளவர் வீதியில் அமைந்துள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அரசியல் அலுவலகத்தில் இன்று (16) நடைபெற்ற ஊடக சந்திப்பில் கலந்துகொண்டு கருத்துத் தெரிவிக்கையிலேயே ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் நெரஞ்சன் டி சில்வா தேவா ஆதித்ய இதனைத் தெரிவித்தார்.
+Stability crucial for attracting foreign investment, says President's advisor. 94 laws passed to transform Sri Lanka's economy. Long-term security needed for investor confidence. Banking, financial regulations key. Goal: 5% annual economic growth by 2027. Vision: Competitive future in global economy.
+
+🟩
+
+President's Senior Advisor Nranjan de Silva Deva Aditya said that a country should attract direct foreign investment and ensure that the money it invests is safe and ensure stability and safety in the country.
+
+He added that the 94 laws passed by President Ranil Wickremesinghe in Parliament have led to transforming Sri Lanka into a prosperous and competitive economy.
+
+He pointed out that Sri Lanka has achieved many achievements so far due to the proper and brave decisions taken by President Ranil Wickremesinghe to rebuild the collapsed economy.
+
+President Ranil Wickremesinghe's political office located on Flower Road, Colombo, was speaking at a press conference held today (16).
+
+Neranjan de Silva Deva Aditya, the leading politician of the United Kingdom and the European Union, is a member of the British Parliament and is a member of the British Parliament and former vice president of the European Parliament.
 
 ...
 
 [Data](articles/1f025857.json)
 
+[Extended Data](ext_articles/1f025857.ext.json)
+
 ---
 
-### ’வாழ்க்கைச் சுமைக்கான போராட்டம் 2025 இல் முடிவுக்கு வரும்’
+### The winning election is sure to win
+
+*2024-09-17 02:03:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-தேர்தலில்-வெற்றி-நிச்சயம்/175-343869) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National People's Power presidential candidate Anura Kumara Dissanayake promises victory in the upcoming election. He vows to build the country and unite all ethnic groups. Critics spread false information, but Dissanayake denies claims about restricting education or religious freedoms.
+
+🟩
+
+These rulers ruled our country for a long time. The country and the people fell to the grassroots of poverty. The rulers were built and the country fell. "We will win a government election on September 21 and form a government," said Anura Kumara Dissanayake, the presidential candidate of the National People's Power.
+
+"Country Anurawar" was held on Wednesday (13) at Sainthamaruthu -. He said this while addressing it.
+
+We will set up a government of the national people's power that builds this country. The victory of the national people's power in this election is certain. All the Sinhala, Tamil and Muslim people living in the south join hands with the power of the national people. What is the resolution of the Muslim people living in Sainthamaruthu?As you say in the loudness, it is certain to win the power of the national people.
+
+The expectation of national people is to accept your cultural identity and create an independent country.
+
+...
+
+[Data](articles/ec8afb74.json)
+
+[Extended Data](ext_articles/ec8afb74.ext.json)
+
+---
+
+### The struggle for the life load will end in 2025
 
 *2024-09-17 01:59:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாழ்க்கைச்-சுமைக்கான-போராட்டம்-2025-இல்-முடிவுக்கு-வரும்/175-343868) · `ta`
 
-மக்களின் வாழ்க்கைச் சுமைக்கான போராட்டத்தை அடுத்த வருடத்தில் முடிவுக்கு கொண்டுவருவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+Here's a 200-character summary:
 
-பொருளாதாரத்தை முறையாக முகாமைத்துவம் செய்து, ரூபாயை மேலும் வலுவடையச் செய்து, பொருளாதார ஸ்திரத்தன்மையைப் பாதுகாத்து மக்களுக்கு நிவாரணம் வழங்க முடியும் என தெரிவித்த ஜனாதிபதி, நாட்டின் வீழ்ச்சியடைந்த பொருளாதாரத்தை மீட்க கடினமான தீர்மானங்களை எடுக்க வேண்டியுள்ளதாகவும் இறுதியில் நிவாரணம் கிடைக்கும் என்றும் சுட்டிக்காட்டினார்.
 
-தெஹிவளையில் ஞாயிற்றுக்கிழமை (15) பிற்பகல் இடம்பெற்ற ‘ரணிலால் இயலும்’ வெற்றிப் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் வகையில் ஏற்பாடு செய்யப்பட்டிருந்த இந்தக் கூட்டத்தில் பெருந்திரளான மக்கள் கலந்துகொண்டதுடன் அவர்கள் ஜனாதிபதியை மிகவும் உற்சாகமாக வரவேற்றனர்.
+President Ranil Wickremesinghe promises to end Sri Lanka's economic struggles by 2025, strengthening the rupee and providing relief to citizens. He emphasizes the importance of restoring the country's economy and making difficult decisions to achieve stability.
+
+🟩
+
+President Ranil Wickremesinghe said he would end the struggle for the life burden of the people next year.
+
+The President said the economy would manage the economy, strengthen the rupee and protect the economic stability and provide relief to the people, and pointed out that he would have to make difficult decisions to restore the country's collapsed economy and eventually provide relief.
+
+President Ranil Wickremesinghe said this while addressing the success of Ranilal, which was held in Dehiwala on Sunday afternoon.
+
+A large number of people attended the meeting, which was organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election and welcomed the president very excited.
+
+Addressing the gathering, President Ranil Wickremesinghe added that he has already begun a program to build a new economy, a new country and a new political system.The president said his need to provide the new economy to the country and that it could not be done or not.
 
 ...
 
 [Data](articles/56670e82.json)
+
+[Extended Data](ext_articles/56670e82.ext.json)
 
 ---
 
@@ -559,6 +611,8 @@ According to a Facebook report compiled by two Sri Lankans, Ranil Wickremesinghe
 ...
 
 [Data](articles/87ea40c5.json)
+
+[Extended Data](ext_articles/87ea40c5.ext.json)
 
 ---
 
@@ -2289,29 +2343,5 @@ He said that yesterday's "Derana 360" Ada Derana 360 "
 [Data](articles/67fdb009.json)
 
 [Extended Data](ext_articles/67fdb009.ext.json)
-
----
-
-### End the burden of living in 2025
-
-*2024-09-16 11:51:59* · [`adalk`](https://www.ada.lk/breaking_news/ජිවන-බර-2025දී-අවසන්-කරනවා/11-411957) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe promises economic reforms in 2025 to stabilize the country's currency and economy. He claims to have started new political and economic systems, aiming to end the current burden on citizens.
-
-🟩
-
-President Ranil Wickremesinghe said that it would be done next year to end the life of the life of the living.
-
-The President said that the rupee would be able to make the same concessions to build a crash of the country due to accurate economic management, the President would be able to make the same concessions to build a country's economic stability.
-
-President Ranil Wickremesinghe made these comments addressing the 'Ranil' rally in Dehiwala yesterday afternoon.
-
-Addressing the rally the rally, Ranil Wickremesinghe added that he has already commenced a new economy, new country and a new political system. The president said that the president could not make a new economy to the country he wanted.
-
-◼️
-
-[Data](articles/38c44f7b.json)
-
-[Extended Data](ext_articles/38c44f7b.ext.json)
 
 ---

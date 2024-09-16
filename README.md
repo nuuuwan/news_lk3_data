@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 20:38:07**
+As of **2024-09-16 20:57:20**
 
 ## Newspaper Stats
 
-*Scraped **44,203** Articles*
+*Scraped **44,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,082
 dailymirrorlk | 4,733
 adaderanalk | 5,208
-tamilmirrorlk | 5,760
+tamilmirrorlk | 5,763
 virakesarilk | 7,045
 adaderanasinhalalk | 7,570
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,203 (100.0%) of 44,203 articles have been extended.
+44,206 (100.0%) of 44,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### In the country ...
+
+*2024-09-16 20:30:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-முப்படையினரும்-தயார்-நிலையில்/175-343864) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Armed forces prepare for swift action during presidential election on 21st. They'll be on duty starting 8 AM on 20th.
+
+🟩
+
+The armed forces are ready to act swiftly in the event of an emergency during the presidential election on the 21st.
+
+Accordingly, the Armed Forces will be on duty from 08.00 am on the 20th of this month.. Remble
+
+◼️
+
+[Data](articles/00f29c1c.json)
+
+[Extended Data](ext_articles/00f29c1c.ext.json)
+
+---
 
 ### Request for Ranil for Ranil
 
@@ -101,6 +125,28 @@ Commenting on President Ranil Wickremesinghe, he said the president is asking th
 [Data](articles/3d99619e.json)
 
 [Extended Data](ext_articles/3d99619e.ext.json)
+
+---
+
+### Tamil College in Ratnapura in Ranil's next regime
+
+*2024-09-16 19:52:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரணிலின்-அடுத்த-ஆட்சியில்-இரத்தினபுரியில்-தமிழ்-கல்லூரி/76-343862) · `ta`
+
+Sri Lanka Workers Congress plans Tamil College in Ratnapura. Land acquired, awaiting Ranil Wickremesinghe's support for construction.
+
+🟩
+
+The Sri Lanka Workers Congress (Ceylon) General Association at the Sri Lanka Workers Congress at the Ratnapura General Meeting held in Ratnapura, the Ceylon Workers Congress, will take action to build the Tamil National College with all the amenities of high -quality mathematics, science and technology, which can be the long -standing need of the Ratnapura District Tamil community.Said.
+
+At the request of the Ceylon Workers Congress, the Ceylon Workers Congress has already received the 05 acres of land for the project and that the next phase of the presidential election is expected to take place at the end of the presidential election, Hon.
+
+Ranil Wickremesinghe, with the full support of the Ceylon Workers Congress, said that Ranil Wickremesinghe would be fully supported by the Tamil people of the Ratnapura district to re -elected president in the country.
+
+◼️
+
+[Data](articles/c9c8d6f6.json)
+
+[Extended Data](ext_articles/c9c8d6f6.ext.json)
 
 ---
 
@@ -231,6 +277,28 @@ He invited all those who would vote for Wickremesinghe or the Sri Lanka PA to be
 [Data](articles/278f13b4.json)
 
 [Extended Data](ext_articles/278f13b4.ext.json)
+
+---
+
+### "Voting for Ranil is good for Anura"
+
+*2024-09-16 18:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-வாக்களித்தால்-அனுரவுக்கே-நன்மை/175-343859) · `ta`
+
+UNP leader Patali Champika urges voters to support Ranil Wickremesinghe or SLPA, appealing for unity behind Premadasa's victory.
+
+🟩
+
+The UNP leader and parliamentarian Patali Champika has appealed for voters to support Ranil Wickremesinghe or the Sri Lanka PA.
+
+Speaking at a rally in Anuradhapura this morning (16) in support of Opposition Leader and United People's Power Presidential candidate, Ranawaka urged Wickremesinghe to vote for Wickremesinghe eventually.
+
+He invited all those who would vote for Wickremesinghe or the Sri Lanka PA to be united behind Premadasa's victory.
+
+◼️
+
+[Data](articles/91929cc2.json)
+
+[Extended Data](ext_articles/91929cc2.ext.json)
 
 ---
 
@@ -2323,81 +2391,5 @@ The world's birthday is the birthday of the Prophet and the world, who is dedica
 [Data](articles/8eef80b0.json)
 
 [Extended Data](ext_articles/8eef80b0.ext.json)
-
----
-
-### Do not sacrifice for telephone changes
-
-*2024-09-16 08:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றங்களுக்காக-பலிக்கடாக்களாக்காதீர்/175-343830) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ceylon People's Congress leader Rishad Bathiudeen criticizes Gotabhaya Rajapakse, supports Sajith Premadasa. Promises to combat corruption, reduce MP pensions. Emphasizes unity across ethnic groups in United People's Power alliance.
-
-🟩
-
-All Ceylon People's Congress leader and parliamentarian Rishad Bathiudeen said the national people's power, which claims to stop the pension of MPs to resolve the economy, will spend millions of rupees for their political platforms.
-
-Speaking at the campaign meetings held on Friday (13) in the areas of Beruwala, Dharga Nagar, Aduzhakkam and Panadura in the Kalutara district, supporting the presidential candidate of the United People's Alliance Sajith Premadasa on Friday (13).
-
-“We told you not to vote for Gotabhaya Rajapakse. Some people voted for him not to trust us. He was not able to rule effectively, not even a member of the Pradeshiya Sabha. People's struggle erupted due to the economic crisis. He invited Sajith Premadasa to take over the regime. However, under the leadership of Gotabhaya, Sajith refused to take the post of Prime Minister. Sajith made the decision to consult the parties in his team.
-
-...
-
-[Data](articles/926e047b.json)
-
-[Extended Data](ext_articles/926e047b.ext.json)
-
----
-
-### The chance of the minority community to become prime minister
-
-*2024-09-16 08:15:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுபான்மைச்-சமூகத்தவர்-பிரதமராகும்-வாய்ப்பு/175-343829) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Minority community may become PM soon, says NW Governor. Emphasizes equal rights for all citizens. Supports Ranil Wickremesinghe for presidency. Aims to end racism and religious discrimination in Sri Lanka.
-
-🟩
-
-The time is coming to an end to the notion that a minority community cannot become prime minister, and we will achieve our political history with the help of the Lord.. Governor of the North Western Province, Sinulabdeen Alim Nasir Ahmad, said there would be no difficulty in achieving the rule and status.
-
-He addressed a massive public meeting held in Eravur on Saturday (21) in support of the current presidential election in support of Ranil Wickremesinghe.
-
-He addressed a meeting attended by a large number of supporters, including the youth of the Tamil Muslim Sinhala communities.
-
-...
-
-[Data](articles/692cb6a6.json)
-
-[Extended Data](ext_articles/692cb6a6.ext.json)
-
----
-
-### The number is not completely free from the risk
-
-*2024-09-16 08:06:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபாயத்திலிருந்து-முழுமையாக-விடுபடவில்லை/175-343828) · `ta`
-
-Sri Lanka's economic recovery progress noted but risks remain. IMF Director emphasizes need for continued efforts post-election. Program achievements crucial for full recovery from historical crisis. Third review discussion planned after presidential election.
-
-🟩
-
-Sri Lanka has made many improvements on the road traveled so far. However, the Director of the International Monetary Fund (IMF) Communications Department, Julie Kozack, has announced that the Sri Lankan people should decide in the upcoming election, noting that the country has not yet recovered from economic danger and protecting the successes.
-
-Julie Kozack said it was very important to achieve the goals of the program to provide the opportunity to recover from the worst crisis in history.
-
-Julie Kozack, Director of the International Monetary Fund Department, said this at a media briefing of the International Monetary Fund held on the 12th of last month.. He further commented that he said,
-
-“On June 12, our Executive Committee has completed the second value of the program relating to the consultation and extended credit facilities (EFF) being carried out under Article 2024 IV.. Sri Lanka has been released to $ 336 million.
-
-...
-
-[Data](articles/e2a2bc04.json)
-
-[Extended Data](ext_articles/e2a2bc04.ext.json)
 
 ---

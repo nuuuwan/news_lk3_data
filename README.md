@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 10:11:04**
+As of **2024-09-16 10:23:22**
 
 ## Newspaper Stats
 
-*Scraped **44,117** Articles*
+*Scraped **44,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,681
 dailyftlk | 2,920
-adalk | 4,067
+adalk | 4,068
 dailymirrorlk | 4,733
-adaderanalk | 5,193
+adaderanalk | 5,194
 tamilmirrorlk | 5,750
 virakesarilk | 7,023
 adaderanasinhalalk | 7,550
@@ -26,57 +26,113 @@ adaderanasinhalalk | 7,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,111 (100.0%) of 44,117 articles have been extended.
+44,117 (100.0%) of 44,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
 
-### தெஹிவளையில் துப்பாக்கிச் சூடு ; காயமடைந்த நபர் சிகிச்சை பலனின்றி உயிரிழப்பு!
+### Trains delayed on main line due to derailment
+
+*2024-09-16 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102010/trains-delayed-on-main-line-due-to-derailment) · `en`
+
+A train derailment near the Ragama Railway Station has reportedly caused delays to train services on the main line.
+
+An express train traveling from Mahawa to Colombo Fort has derailed near the Ragama Railway Station, disrupting services on the main line.
+
+The Railway Department stated that all trains scheduled to pass through Ragama Junction will be experiencing delays.
+
+◼️
+
+[Data](articles/15703f7f.json)
+
+---
+
+### රට රැකියා ජාවාරමට හසුවූ පුද්ගලයන් ජාවාරම්කරු පැහැරගෙන යයි
+
+*2024-09-16 09:40:52* · [`adalk`](https://www.ada.lk/breaking_news/රට-රැකියා-ජාවාරමට-හසුවූ-පුද්ගලයන්-ජාවාරම්කරු-පැහැරගෙන-යයි/11-411953) · `si`
+
+යුරෝපා රටවල රැකියා සඳහා යවන බව පවසා පුද්ගලයන් රැසකගෙන් රුපියල් කෝටියකට අධික මුදලක් වංචා කළ පුද්ගලයෙකු පැහැරගෙන යමින් සිටි  කාන්තාවන් තිදෙනෙක් ඇතුළු හත් දෙනකු අත්අඩංගුවට ගත් බව පිළියන්දල පොලිසිය කියයි.
+
+සැකකරුවන් පැහැර ගැනීමට යොදාගත් ලොරි රථ දෙකක්ද පොලිස් භාරයට ගෙන ඇත.
+
+පැහැර ගැනීමට සම්බන්ධ සැකකරුවන් සැකකරුගේ මහා පරිමාණ වංචාවට හසුවූ පුද්ගලයන් රැසකගෙන් කීප දෙනෙකු බව පොලිසිය කියයි.
+
+පැහැර ගත් පුද්ගලයා  කැනඩාවේ සිටින බවට හඟවමින් වසරකට ආසන්න කාලයක් තිස්සේ ඔහුගේ පෙම්වතිය විසින් හෝමාගම,  ත්‍රිකුණාමලය, ඇලහැර හා චීන වරාය ආදී ප්‍රදේශවල පුද්ගලයන් විශාල පිරිසක් රවටා මෙම මුදල් වංචාව සිදුකර ඇතැයි පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+සැකකරුගේ මෙම වංචාවට සමීප ඥාතීන් පවා හසුව ඇතැයිද පොලිසිය කියයි.
+
+පිළියන්දල විශ්ව කලාව ප්‍රදේශයේ නිවසකට ලොරියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු තම පුතුව පැහැරගෙන ගිය බවට කාන්තාවක් විසින් කරන ලද පැමිණිල්ලකට අනුව ක්‍රියාත්මක වූ පිළියන්දල පොලිසියේ අපරාධ විමර්ශන අංශයේ නිලධාරීන් එම ලොරියේ ලියාපදිංචි අංකය ඔස්සේ  හා තොරතුරු ඔස්සේ  සිදුකළ විමර්ශනවලදී සැකකරුවන් සහ සැකකාරියන් අත්අඩංගුවට ගෙන ඇත.
+
+...
+
+[Data](articles/8156f546.json)
+
+---
+
+### Shooting in Dehiwala;The injured person dies without treatment
 
 *2024-09-16 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193809) · `ta`
 
-இந்த துப்பாக்கிச் சூடு நேற்று ஞாயிற்றுக்கிழமை (15) இரவு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Dehiwala shooting: Unidentified gunmen on motorcycle shoot victim outside home. Injured person dies after being treated at Kalubowila and Colombo National Hospitals. Police investigating incident.
 
-மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் படோவிட்ட நான்காம் பிரிவில் உள்ள வீடொன்றுக்கு முன்பாக வைத்து நபரொருவர் மீது துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+🟩
 
-இதனையடுத்து, காயமடைந்த நபர் சிகிச்சைக்காக களுபோவில வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The shooting took place last night (15), police said.
 
-மேலும், துப்பாக்கிச்சூட்டை நடத்தியது யார் என்பது தொடர்பில் இதுவரை எந்த தகவலும் கிடைக்கவில்லை  என்பதுடன், இந்த சம்பவம் தொடர்பாக மேலதிக  விசாரணைகளை தெஹிவளை பொலிஸார் மேற்கொண்டுள்ளனர்.
+Two unidentified men on a motorcycle have fired a person in front of a house in the Fourth Division.
+
+Subsequently, the injured person was admitted to the Kalubowila Hospital for treatment and was transferred to the Colombo National Hospital for further treatment, police said.
+
+In addition, there is no information on who carried out the shooting and the Dehiwala police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/c4953775.json)
 
+[Extended Data](ext_articles/c4953775.ext.json)
+
 ---
 
-### இலங்கை வரும் அமெரிக்கப் பிரஜைகளுக்கு எச்சரிக்கை
+### Alerted US citizens
 
 *2024-09-16 09:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இலங்கை-வரும்-அமெரிக்கப்-பிரஜைகளுக்கு-எச்சரிக்கை/50-343834) · `ta`
 
-இலங்கையில் ஜனாதிபதித் தேர்தல் நடைபெற உள்ள காரணத்தால் இலங்கைக்குச் செல்லும் அமெரிக்கப் பிரஜைகளை எச்சரிக்கையுடன் செயற்படுமாறு அமெரிக்க இராஜாங்கத் திணைக்களம் அறிவித்துள்ளது.
+US citizens advised caution when visiting Sri Lanka due to potential demonstrations during the upcoming presidential election. The State Department recommends exercising vigilance during the pre-election and post-election periods.
 
-ஜனாதிபதித் தேர்தல் காலப்பகுதியில், தேர்தலுக்கு முன்னரான காலப்பகுதியிலும், அதற்குப் பின்னரான காலப்பகுதியிலும் ஆர்ப்பாட்டங்கள் முன்னெடுக்கப்படலாம்.
+🟩
 
-ஆகையால் அமெரிக்கப் பிரஜைகள் எச்சரிக்கையாகச் செயற்படுமாறு அமெரிக்க இராஜாங்கத் திணைக்களம் தெரிவித்துள்ளது. R
+The US State Department has announced that US citizens traveling to Sri Lanka will be cautious as the presidential election is held in Sri Lanka.
+
+During the presidential election, demonstrations may be carried out during the pre -election period and the subsequent period.
+
+The US State Department has therefore said that US citizens should be cautious. Remble
 
 ◼️
 
 [Data](articles/df59ea1f.json)
 
+[Extended Data](ext_articles/df59ea1f.ext.json)
+
 ---
 
-### பிரதான ரயில் மார்க்கத்தில் ரயில் சேவைகள் பாதிப்பு!
+### Train services impact on main railway
 
 *2024-09-16 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193810) · `ta`
 
-மஹவயிலிருந்து கொழும்பு கோட்டை நோக்கிப் பயணித்த ரயில் ஒன்று ராகம ரயில் நிலையத்தில் தடம் புரண்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+Train derailment at Ragama station affects all services between Mahavi and Colombo Fort. Main railway operations disrupted due to incident.
 
-இதன் காரணமாக, பிரதான ரயில் மார்க்கத்தின் ஊடாக பயணிக்கும் அனைத்து ரயில் சேவைகளும் பாதிக்கப்பட்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+🟩
+
+A train traveling from Mahavi to Colombo Fort has derailed at the Ragama railway station, the Railway Department said.
+
+As a result, all the train services traveling through the main railway have been affected, the Railway Department said.
 
 ◼️
 
 [Data](articles/a0ea0bd4.json)
+
+[Extended Data](ext_articles/a0ea0bd4.ext.json)
 
 ---
 
@@ -99,6 +155,8 @@ To prevent this, he suggested that before any ministry takes important decisions
 ...
 
 [Data](articles/fb52ded5.json)
+
+[Extended Data](ext_articles/fb52ded5.ext.json)
 
 ---
 
@@ -198,19 +256,27 @@ He added that the police continue to make their efforts to ensure the independen
 
 ---
 
-### ගල්කිස්සේ වෙඩි තැබීමකින් පුද්ගලයෙක් මරුට
+### Man shot dead in Mount Lavinia
 
 *2024-09-16 08:27:30* · [`adalk`](https://www.ada.lk/breaking_news/ගල්කිස්සේ-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-411952) · `si`
 
-ගල්කිස්ස බඩෝවිට හතරවන අදියර නිවසකට යතුරු පැදියකින්.හෙල්මට් පැලද පැමිණි පුද්ගලයින් දෙදෙනකු ගෙන් අයෙකු නිවසේ සිටි පුද්ගලයකුට ප.ව.8.45 ට පමණ වෙඩිතබා පලාගොස් ඇතැයි දෙහිවල  පොලීසිය පැවසීය .
+Mount Lavinia: Man killed in shooting near Dehiwala. Victim identified as 27-year-old Varindu Saturis. Incident occurred around 8:45 PM. Police investigation ongoing.
 
-මෙම සිදුවීම 15 වනදින ප.ව.8.45 ට පමණ සිදුවී ඇති අතර මෙලෙස ඝාතනයට ලක්වීම ඇත්තේ බඩෝවිට හතරවන  අදියර පදිංචිව සිටි සුවාරිස් තරිදු සුවාරිස් නම් (27 ) හැවිරිදි තරුණයෙකු වේ .
+🟩
 
-මෙදින රාත්‍රිය 8.45 ට පමණ යතුරු පැදියකින් හෙල්මට් දමා ගෙන පැමිණි පුද්ගලයින් දෙදෙනකු ගෙන් අයෙකු ගිනි අවියකින් වෙඩිතබා එම යතුරු පැදියෙන් පලා ගොස් ඇතැයිද , ඒ.වනවිට නිවසේ ඔහුගේ මව හා පුංචි අම්මා සමග කතාබස් කරමින් සිට ඇති අතර එකවර යතුරු පැදියෙන් පැමිණි පුද්ගලයෙකු ඔහුවෙත වෙඩිතබා නැවත පැමිණි යතුරු පැදියෙන්ම පලාගොස් ඇතැයි පොලිසිය පැවසීය.
+Dehiwala Phase 4, Mount Lavinia House
 
-...
+The incident took place around 8.45 pm and the assassination is a resident of Varindu Saturis (27), a resident of Badtota.
+
+The night was shot dead at a motorcycle at around 8.45 pm and had fled with his mother and little mother in the house.Police said the police said.
+
+Earlier, STI officers had already come to the Mount Lavinia Headquarters Police and Special Task Force officials with the Dehiwala Police and Special Task Force (STF) have been admitted to the Colombo South Teaching Hospital.The LTTE has been transferred to the Tiger Hospital due to the seriousness of the situation, due to the death of the situation.
+
+◼️
 
 [Data](articles/749477a3.json)
+
+[Extended Data](ext_articles/749477a3.ext.json)
 
 ---
 
@@ -234,19 +300,29 @@ In his message for Milad-un-Nabi, the President extended his heartfelt wishes to
 
 ---
 
-### ’நல்லடக்கமா? எரிப்பா? நாமே எதிர்த்தோம்’
+### The model is good?Burn?We opposed ourselves
 
 *2024-09-16 08:23:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லடக்கமா-எரிப்பா-நாமே-எதிர்த்தோம்/175-343832) · `ta`
 
-முஸ்லிம் சமூகத்தின் இஸ்லாமிய கலாச்சாரம் மற்றும் மத உரிமைக்காக அன்று ஐக்கிய மக்கள் சக்தியே முன்நின்றது. ஜனாஸாக்களை நல்லடக்கம் செய்வதா அல்லது எரிப்பதா என்ற பிரச்சினையின் போது நாம் மட்டுமே எதிர்த்தோம் என்று ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சி தலைவருமான சஜித் பிரேமதாஸ தெரிவித்தார்.
+Here's a 200-character summary:
 
-இந்த விவகாரத்தின் போது,  தேசியத் தலைவர்கள் என்று கூறிக் கொள்கின்ற ரணிலும் அநுரவும் அந்த மோசமான கொள்கைக்கு எதிராக குரல் எழுப்ப முடியுமாக இருந்த போதிலும் அவர்கள் அதற்காக முன் வரவில்லை. கோட்டாபய ராஜபக்சவின் அன்றைய பிழையான கொள்கைக்கு எதிராக ஐக்கிய மக்கள் சக்தியும் ஐக்கிய மக்கள் கூட்டணியுமே வீதிக்கிறங்கி போராட்டங்களை முன்னெடுத்திருக்கின்றது என்றார்.
 
-அக்கரைப்பற்று நகரில் சனிக்கிழமை (14) நடைபெற்ற ஜனாதிபதி தேர்தல் பிரசாரக் கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் தொடர்ந்து உரையாற்றுகையில்,
+
+United People's Power opposes Gotabhaya Rajapaksa's policies. Leader Sajith Premadasa criticizes national leaders' silence on Muslim rights. Promises economic support for farmers and fishermen. Plans poverty reduction programs and education reforms.
+
+🟩
+
+The United People's Power is on the same day for the Islamic culture and religious rights of the Muslim community. United People's Power Leader and Opposition Leader Sajith Premadasa said that we were the only opposing during the issue of whether or not the Janasas.
+
+During the issue, Ran and Anura, who claims to be national leaders, could voice their voice against that bad policy, but they did not come forward.. He said the United People's Power and the United People's Alliance (UPFA) have launched protests against the false policy of Gotabhaya Rajapaksa.
+
+He said this while addressing the presidential election rally held in Akkaraipattu on Saturday (14). There he continued to address,
 
 ...
 
 [Data](articles/e1ba26b1.json)
+
+[Extended Data](ext_articles/e1ba26b1.ext.json)
 
 ---
 
@@ -2217,43 +2293,5 @@ Minister Douglas Devananda, who was involved in the 2010 parliamentary elections
 [Data](articles/46d365c2.json)
 
 [Extended Data](ext_articles/46d365c2.ext.json)
-
----
-
-### Dalada put Sajith's Deal
-
-*2024-09-15 17:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-டீலை-போட்டுடைத்தார்-தலதா/175-343795) · `ta`
-
-Sajith Premadasa denies deal politics, but Dalada Athukorala challenges him to reveal actions with Hiru Rajapaksa. Opposition leader accused of "Ranilum Charm" in Ratnapura.
-
-🟩
-
-Although opposition leader Sajith Premadasa has said that he is not going to engage in Deal politics, former United People's Power MP Dalada Athukorala challenged Sajid to reveal what he had already done with Hiru Rajapaksa and Hiru.
-
-He challenged the 'Ranilum Charm', which is currently taking place in Ratnapura.
-
-◼️
-
-[Data](articles/c9eaf6e7.json)
-
-[Extended Data](ext_articles/c9eaf6e7.ext.json)
-
----
-
-### I am not complicit in the biggest mistake the Tamil state party has made in the presidential election - Sridharan
-
-*2024-09-15 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/193765) · `ta`
-
-Sridharan criticizes Tamil state party's presidential election decision. He advocates for Tamil national identity acceptance, similar to Sinhala. Offers negotiation with Sinhala government for Tamil political solutions.
-
-🟩
-
-We have fully accepted the uniqueness of the Sinhala nationality in this country. Similarly, Tamils ​​should be accepted as a nationality. However, the Sinhalese leaders do not accept it or bring it to the Sinhalese. However, we are ready to negotiate with the Sinhala government on the political solution for the Tamils.
-
-◼️
-
-[Data](articles/d4a93a9d.json)
-
-[Extended Data](ext_articles/d4a93a9d.ext.json)
 
 ---

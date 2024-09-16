@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 22:38:16**
+As of **2024-09-16 22:56:56**
 
 ## Newspaper Stats
 
-*Scraped **44,214** Articles*
+*Scraped **44,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,920
-adalk | 4,084
+adalk | 4,085
 dailymirrorlk | 4,733
 adaderanalk | 5,210
 tamilmirrorlk | 5,764
@@ -26,29 +26,33 @@ adaderanasinhalalk | 7,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,212 (100.0%) of 44,214 articles have been extended.
+44,215 (100.0%) of 44,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
 
-### தேர்தல் தொடர்பில் நாளை விசேட தீர்மானம்
+### Special resolution on election tomorrow
 
 *2024-09-16 22:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பில்-நாளை-விசேட-தீர்மானம்/175-343866) · `ta`
 
-ஜனாதிபதித் தேர்தல் கண்காணிப்பு தொடர்பில் தேர்தல்கள் ஆணைக்குழுவின் தலைவர்களுக்கும் தேர்தல் கண்காணிப்பு அமைப்புகளின் தலைவர்களுக்கும் இடையில் நாளை (17) ராஜகிரியவில் விசேட கலந்துரையாடல் இடம்பெறவுள்ளது.
+A special discussion will be held in Rajagiriya tomorrow (17) between the leaders of the Election Commission and the leaders of the Election Monitoring Organization on the Presidential election monitoring.
 
-சுதந்திர தேர்தல்களுக்கான ஆசிய வலையமைப்பு மற்றும் பொதுநலவாய நாடுகளின் தேர்தல் கண்காணிப்பாளர்கள் இந்த கலந்துரையாடலில் பங்கேற்கவுள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆனந்த ரத்நாயக்க தெரிவித்துள்ளார்.
+Elections Commission Chairman Ananda Ratnayake said that the Asian Network for Independence Elections and the Commonwealth Elections will be participating in the discussion.
 
-இதனிடையே வாக்குப்பதிவு தொடர்பான அனைத்து ஏற்பாடுகளும் தயார் செய்யப்பட்டுள்ளதாகவும், அரசு அதிகாரிகளுக்கு வழங்க வேண்டிய அனைத்து அறிவுரைகளும் வழங்கப்பட்டுள்ளதாகவும் தலைவர் தெரிவித்தார்.
+Meanwhile, all arrangements for voting have been prepared and all the instructions to be given to government officials have been given.
 
-இவ்வருட ஜனாதிபதித் தேர்தலில் வழமையை விட மக்கள் ஆர்வத்துடன் வாக்களிப்பார்கள் என நம்புவதாகத் தெரிவித்த ரத்நாயக்க, அனைத்து மக்களையும் அதிகாலையிலேயே வாக்களிப்பு நிலையத்திற்குச் சென்று வாக்களிக்குமாறு கேட்டுக்கொள்கின்றார்.
+Ratnayake said he hoped people would vote more eagerly than usual in this year's presidential election and urged all people to go to the polling station early in the morning.
 
-ஏனைய தேர்தல்களுடன் ஒப்பிடும் போது தேர்தல் வன்முறைகள் கணிசமான அளவு குறைந்துள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+He added that election violence has declined significantly compared to other elections.
 
-...
+He said that after many supporters pointed out the mistakes, they had corrected them. Remble
+
+◼️
 
 [Data](articles/ca7d548d.json)
+
+[Extended Data](ext_articles/ca7d548d.ext.json)
 
 ---
 
@@ -328,6 +332,26 @@ Sajith Premadasa, Presidency, the Presidential Examination of the Higher Society
 
 ---
 
+### Sajith says to the President of Anuradhapura
+
+*2024-09-16 19:19:45* · [`adalk`](https://www.ada.lk/breaking_news/අනුරපුර-ජනපති-මන්දිරයට-සජිත්-කරන්න-යන-දේ-කියයි/11-411971) · `si`
+
+In the proposed community, the new information technology to the youth of the Anuradhapura district, the new technology, and computer science, English, is a hub of the Anuradhapura district, computer science, English and technology that provides the Presidential Palace in Anuradhapura that the Presidentials in Anuradhapura is a hub.Presidential candidate Sajith Premadasa said.
+
+He was speaking at the Anuradhapura Public Exerts held at the Salgadu Pittu in Anuradhapura yesterday (16). Speaking further Mr. Sajith Premadasa.
+
+"Don't keep any suspicion, this road reconciliation will win over the Anuradhapura district. Seats win. The whole king weakens, in Sri Lanka, the common era of public era is created by reconciliation, and I would like to tell you all.
+
+Scems, the government has given a bar permit to the Kataragama sacred area, and I think this is the policy of providing a beer permit and giving the wine stros beer.
+
+...
+
+[Data](articles/4a5806e3.json)
+
+[Extended Data](ext_articles/4a5806e3.ext.json)
+
+---
+
 ### The Elections Commission is responsible for holding an independent and fair election - Mark Gunawardena
 
 *2024-09-16 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/193842) · `ta`
@@ -380,19 +404,21 @@ Meanwhile, Dr. Saranga Alagapperuma told the Daily Mirror that all recruitments 
 
 ---
 
-### ලක්ෂ්මන් වසන්ත නිසා සජබ වේදිකාව වර්ජනය කළ රෝහිණී
+### Rohini boycotted the road because Lakshman Wasantha
 
 *2024-09-16 18:47:25* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ්මන්-වසන්ත-නිසා-සජබ-වේදිකාව-වර්ජනය-කළ-රෝහිණී/11-411969) · `si`
 
-හිටපු රාජ්‍ය ඇමතිවරයකු වේදිකාවෙන් බැස යන තුරු මාතලේ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීණි රෝහිනී විජේරත්න මහත්මිය 16 දින දඹුල්ලේ පැවති සමගී ජන බලවේගයේ  රැළියේ වේදිකාවට නැගීම ප්‍රතික්ෂේප කළාය.
+The Matale District Parliamentarian Ruini Wijeratne refused to rise on the stage of the rally of the folk of the people in Dambulla on the 16th.
 
-හිටපු රාජ්‍ය අමාත්‍යවරයෙකු වන ලක්ෂ්මන් වසන්ත පෙරේරා මහතා මෙම සමගි ජන බලවේගයේ රැස්වීම අවට ඔහුගේ ඡායාරූපයක් සහ  සමගි ජනබල වේගයේ නායක සජිත් ප්‍රේමදාස මහතාගේ සහිත ඡායාරූප ප්‍රදර්ශනය කරමින් ජනතාව අතර ඔහුගේ නම සහිත හිස් වැසුම් බෙදා දී  ඔහු ද එම වේදිකාවේ අසුන්ගෙන සිටීම නිසාවෙන් ඊට උරන වූ ඇය  ලක්ෂ්මන්  වසන්ත පෙරේරා හිටපු රාජ්‍ය අමාත්‍යවරයා වේදිකාවෙන් බැස පිටව යන තුරු තමන් වේදිකාවට ගොඩ නොවන බව පවසා වේදිකාවෙන් පිටත බොහෝ වේලාවක් රැඳී සිටියාය.
+Lakshman Wasantha Perera, a former state minister Lakshman Wasantha Perera, isolating photos of this reconciliation and the leader of Sajith Premadasa, which is in the vicinity of his name, is Lakshman Spring.The former State Minister had long been on the stage that the former State Minister would not land on the platform until he left the stage.
 
-ඇයගේ පාක්ෂිකයන්ද ඇය සමඟින් එම ස්ථානවල රැඳී සිටිනුු දැකගැනීමට හැකි විය. පසුව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැමිණීමටත් පෙර  වසන්ත පෙරේරා මහතා වේදිකාවෙන් බැස පිටව ගොස් තිබිණිි. ඒ අනුව ඇය සජිත් ප්‍රේමදාස මහතා සමග වේදිකාවට නැග ඉදිරිපෙළ අසුනේ වාඩිවී සිටිනු දැකගැනීමට හැකි විය.
+She was able to see her parties and stayed with her. After the Opposition Leader Sajith Premadasa, Wasantha Perera had come down from the stage. Accordingly, she was on the stage with Sajith Premadasa and saw the presence of the front seat.
 
 ...
 
 [Data](articles/cbd13053.json)
+
+[Extended Data](ext_articles/cbd13053.ext.json)
 
 ---
 
@@ -2327,29 +2353,5 @@ As a result, all the train services traveling through the main railway have been
 [Data](articles/a0ea0bd4.json)
 
 [Extended Data](ext_articles/a0ea0bd4.ext.json)
-
----
-
-### Dilith proposes National Strategic Planning Authority to move country forward
-
-*2024-09-16 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102009/dilith-proposes-national-strategic-planning-authority-to-move-country-forward) · `en`
-
-The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera, emphasized the need to establish a National Strategic Planning Authority to help the country progress.
-
-He expressed these views during the ‘Derana 360°’ programme, aired on TV Derana last night (16).
-
-Jayaweera stated that the country is burdened with immense debt due to the decisions made by individual ministers.
-
-To prevent this, he suggested that before any ministry takes important decisions, they should be discussed, making a case for the formation of a National Strategic Planning Authority comprising scholars and experts.
-
-“We are proposing a National Strategic Planning Authority through which decisions will be made.”
-
-“There hasn’t been much dialogue about this. We propose that the country’s scholars and experts be included in this authority,” he said.
-
-...
-
-[Data](articles/fb52ded5.json)
-
-[Extended Data](ext_articles/fb52ded5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 07:26:21**
+As of **2024-09-16 08:02:19**
 
 ## Newspaper Stats
 
-*Scraped **44,076** Articles*
+*Scraped **44,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 376
 bbccomsinhala | 426
 colombotelegraphcom | 436
-islandlk | 2,588
+islandlk | 2,598
 economynextcom | 2,681
 dailyftlk | 2,920
 adalk | 4,065
@@ -20,17 +20,67 @@ dailymirrorlk | 4,733
 adaderanalk | 5,187
 tamilmirrorlk | 5,736
 virakesarilk | 7,021
-adaderanasinhalalk | 7,544
+adaderanasinhalalk | 7,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,076 (100.0%) of 44,076 articles have been extended.
+44,086 (100.0%) of 44,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Try again to kill Donald Trump?
+
+*2024-09-16 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201064) · `si`
+
+Former US President attempts assassination at Florida golf course. Security personnel thwarted attack. No casualties reported. Incident under investigation.
+
+🟩
+
+It is reported that former American President has once again tried to kill Donald Trump.
+
+Foreign media stated that the attempt was taken at his golf course in Florida.
+
+However, the former American president had no casualties and the security personnel had been arrested by security personnel.
+
+◼️
+
+[Data](articles/083225aa.json)
+
+[Extended Data](ext_articles/083225aa.ext.json)
+
+---
+
+### Man shot dead in Badwita
+
+*2024-09-16 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201063) · `si`
+
+Man fatally shot in Badwita, Mount Lavinia. Victim, 31, died after being rushed to hospitals. Two suspects on motorcycle fled scene. Police investigating incident.
+
+🟩
+
+The person who was injured in the shooting in Badowita, Mount Lavinia was killed.
+
+Police said that two persons from a motorcycle have been shot dead yesterday (15).
+
+The victim was shot dead while in front of his house in front of the four Surface Phase.
+
+The victim was rushed to the Kalubowila hospital for treatment and was admitted to the Colombo National Hospital for further treatment.
+
+The deceased has been a 31 year old resident of the Mount Lavinia, Badtota.
+
+The cost of the shooting has not yet been revealed and the Dehiwala Police are conducting further investigations.
+
+◼️
+
+[Data](articles/93ee6f4f.json)
+
+[Extended Data](ext_articles/93ee6f4f.ext.json)
+
+---
 
 ### Heavy rains in several areas today
 
@@ -270,6 +320,92 @@ Presidential candidate Ranil Wickremesinghe, President of the Ceylon Workers Con
 
 ---
 
+### People’s Bank relocates Dharga Town Service Centre
+
+*2024-09-16 02:21:00* · [`islandlk`](http://island.lk/peoples-bank-relocates-dharga-town-service-centre/) · `en`
+
+People’s Bank officially inaugurated its Dharga Town Service Centre at a new location recently. Conveniently-located at No.426, Welipenna Road, Dharga Town, the Service Centre is attach of the People’s Bank Aluthgama branch and provides customers with state-of-the-art digital technology and specialised services.
+
+People’s Bank Deputy General Manager (Channel Management) Naleen Pathiranage, Kalutara Regional Manager Monica Sooriyapperuma, Assistant Regional Managers Kapila Withanage, Rohini Kariyawasam, Saranga Sri Vimukthi, Aluthgama Branch Manager Sameera Rupasiri, Service Centre Manager Sachitha Perera and several others including customers participated in the event.
+
+People’s Bank is one of Sri Lanka’s leading banks with assets exceeding LKR 2.5 trillion. With 747 branches and service centres spread across the island, and a customer base of over 15.2 million people, People’s Bank continues to play a pivotal role in serving its expanding customer base.
+
+...
+
+[Data](articles/1c9244a0.json)
+
+[Extended Data](ext_articles/1c9244a0.ext.json)
+
+---
+
+### Negombo Speakers Forum Toastmasters Club calls enquiries for 2nd season of youth leadership programme
+
+*2024-09-16 02:21:00* · [`islandlk`](http://island.lk/negombo-speakers-forum-toastmasters-club-calls-enquiries-for-2nd-season-of-youth-leadership-programme/) · `en`
+
+The Negombo Speakers Forum Toastmasters Club has announced the launch of the second season of its Youth Leadership Program, themed “New Stars Found.” Following the resounding success of the first season, which concluded in December 2023 with the participation of around 20 promising youth leaders from across Negombo, this new season promises to be even more impactful.
+
+The Youth Leadership Program is designed to nurture the leadership potential of young individuals aged 12 to 18, offering them a platform to develop essential skills and discover their unique talents. Over the course of 10 comprehensive sessions, participants will engage in various activities that focus on improving communication, leadership, and teamwork, equipping them with the tools they need to succeed in future endeavors.
+
+...
+
+[Data](articles/ab37d213.json)
+
+[Extended Data](ext_articles/ab37d213.ext.json)
+
+---
+
+### Hemas, SLIIT joint venture to elevate Allied Health Sciences education in Sri Lanka
+
+*2024-09-16 02:21:00* · [`islandlk`](http://island.lk/hemas-sliit-joint-venture-to-elevate-allied-health-sciences-education-in-sri-lanka/) · `en`
+
+Hemas Holdings PLC initiated a collaborative educational venture with the Sri Lanka Institute of Information Technology (SLIIT) to elevate the country’s healthcare education to international standards, by providing innovative nursing and allied healthcare education through the newly established entity, The SLIIT-HEMAS Allied Health Sciences Institute (SHAHSI).
+
+Set to open doors for a new intake in October, the venture has a combined student body of over 300 students and counting.
+
+By combining Hemas Hospitals’ extensive experience in private healthcare delivery with SLIIT’s renowned reputation for quality education, the partnership will offer a comprehensive range of programs designed to meet the growing demand for globally employable allied healthcare professionals.
+
+...
+
+[Data](articles/b1daac2a.json)
+
+[Extended Data](ext_articles/b1daac2a.ext.json)
+
+---
+
+### Brandix partners GLO programme for unique learning and development experience
+
+*2024-09-16 02:21:00* · [`islandlk`](http://island.lk/brandix-partners-glo-programme-for-unique-learning-and-development-experience/) · `en`
+
+Brandix rounded out its commitment for the Guiding Leadership and Outreach (GLO) programme this year, empowering up to 50 individuals across its value chain. GLO is conducted in partnership with the Association for HR Professionals in Sri Lanka and AIESEC, involving Brandix, Fortude, SyscoLabs, John Keells Holdings and IFS.
+
+Under Phase 1 of the GLO programme, five employees from each company benefitted from a unique Train-the-Trainers programme, with sessions hosted by Global Learning Lab. With Phase 2, the GLO programme saw each company engaging students from universities across Sri Lanka to design and deliver a two-day GLO leadership academy. Brandix engaged 22 students who were tasked with developing Sustainable Impact Projects, with one chosen to be funded and implemented.
+
+...
+
+[Data](articles/eafa3ef9.json)
+
+[Extended Data](ext_articles/eafa3ef9.ext.json)
+
+---
+
+### Sanasa General Insurance partners with PMF Finance
+
+*2024-09-16 02:11:00* · [`islandlk`](http://island.lk/sanasa-general-insurance-partners-with-pmf-finance/) · `en`
+
+Sanasa General Insurance Company (SGIC) has entered into a strategic partnership with PMF Finance PLC to provide comprehensive insurance services to PMF Finance’s leasing customers.
+
+The related Memorandum of Understanding (MOU) was recently signed by Sanasa General Insurance Chairman Tishan H. Subasinghe and PMF Finance Designated CEO Professor Ajith Mendis.The Occasion was honored by PMF finance Chairman Chandula Abeywickrama, marking a significant milestone in business innovation for both companies. Under this partnership,
+
+PMF Finance will integrate Sanasa General Insurance as its official insurance partner. This collaboration will benefit customers throughout PMF Finance’s islandwide branch network, including its virtual branches.
+
+...
+
+[Data](articles/56503e11.json)
+
+[Extended Data](ext_articles/56503e11.ext.json)
+
+---
+
 ### I will give the people the gifts available to other people - the President
 
 *2024-09-16 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/193799) · `ta`
@@ -298,6 +434,22 @@ The president has asked the people not to allow the leaders of false promises no
 
 ---
 
+### SLASSCOM presents strategic policy framework to presidential candidates
+
+*2024-09-16 02:01:00* · [`islandlk`](http://island.lk/slasscom-presents-strategic-policy-framework-to-presidential-candidates/) · `en`
+
+SLASSCOM, the national chamber for the Knowledge and Innovation (IT&BPM) industry in Sri Lanka, have handed over its strategic policy document titled “Igniting Knowledge, Inspiring Growth” to the country’s leading presidential candidates: President Ranil Wickremasinghe Sajith Premadasa (SJB), Anura Kumara Dissanayake (NPP), and the General Secretary and representatives of the Sri Lanka Podujana Peramuna (SLPP).
+
+The document outlines a comprehensive policy framework designed to enhance the competitiveness of Sri Lanka’s IT & BPM sector. It focuses on ensuring access to skill development and education, fostering entrepreneurship and innovation, and improving the overall business environment to fuel industry growth.
+
+...
+
+[Data](articles/b8dc38e4.json)
+
+[Extended Data](ext_articles/b8dc38e4.ext.json)
+
+---
+
 ### President Ranil Wickremesinghe created the independence of opposition candidates - Senthil Thondaman
 
 *2024-09-16 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193798) · `ta`
@@ -317,6 +469,24 @@ The campaign meeting was held on 15.09.2024 in Nuwara Eliya, supporting the inde
 [Data](articles/6c91aebd.json)
 
 [Extended Data](ext_articles/6c91aebd.ext.json)
+
+---
+
+### ComBank promotes smart agriculture practices
+
+*2024-09-16 01:58:00* · [`islandlk`](http://island.lk/combank-promotes-smart-agriculture-practices/) · `en`
+
+Hayleys, AgStar, John Deere, DIMO, CIC and Browns join the bank’s effort
+
+The Commercial Bank of Ceylon recently brought together a coalition of some of the biggest names is Sri Lanka’s agriculture sector to conduct an ‘Agri Modernisation Fair’ for farmers in the Vavuniya area and introduce the latest technologies available to them and promote smart agriculture.
+
+Industry leaders of the calibre of Hayleys, AgStar, John Deere, DIMO, CIC and Browns participated in the day-long fair, alongside representatives of the Drone Unit of the Agrarian Production Centre. The fair was attended by the students of the Agriculture School of Vavuniya, GCE Advanced Level students and teachers of Puthukkulam Maha Vidyalayam, members of farmer societies and entrepreneurs in and around Sasthirikoolankulam.
+
+...
+
+[Data](articles/2d9f4111.json)
+
+[Extended Data](ext_articles/2d9f4111.ext.json)
 
 ---
 
@@ -2089,207 +2259,5 @@ Therefore, consumers in the area are asked to save enough water to manage their 
 [Data](articles/d328c7d8.json)
 
 [Extended Data](ext_articles/d328c7d8.ext.json)
-
----
-
-### To whom will Gotabhaya's 69 lakh votes go?
-
-*2024-09-15 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193724) · `ta`
-
-Gotabhaya's 69 lakh votes likely split: Some may go to Anura Bandaranaike in Mahinda's southern stronghold, while others could be influenced by monk-led propaganda supporting Gotabhaya.
-
-🟩
-
-In 2019, secret propaganda activities were carried out in support of Gotabay. Some monks, including Gnanasara, played an important role. The country knows that Gotabhaya was behind the creation of the BBS. Similarly, the substantial of the floating votes is distracted by the page. The Sinhalese votes in the Southern Provincial Council of Mahinda's area have turned to Anura.
-
-◼️
-
-[Data](articles/8c861dfd.json)
-
-[Extended Data](ext_articles/8c861dfd.ext.json)
-
----
-
-### Sajith's election manifesto is just a skeleton
-
-*2024-09-15 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193738) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sajith's election manifesto lacks substance. Tamils demand sovereignty, self-determination, and national recognition. Key issues: ethnic rights, aggression, normalcy, war impacts. Political solution rejected.
-
-🟩
-
-As far as the Tamil people are concerned, the basic issue of political solution is that there are five issues, such as the issue of responsibility for ethnicity, the issue of aggression, the problem of normalcy, and the problem of war impacts. The Tamil people reject any political solution on the issue of political solutions. They expect national recognition of sovereignty recognition and self -determination.
-
-◼️
-
-[Data](articles/52f77234.json)
-
-[Extended Data](ext_articles/52f77234.ext.json)
-
----
-
-### Election-related complaints surpass 4,000
-
-*2024-09-15 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101992/election-related-complaints-surpass-4000) · `en`
-
-The Election Commission reported that a total of 4,031 complaints have been received thus far in relation to the presidential election.
-
-This includes a total of 203 more complaints received by the election regulatory body during the past 24 hours.
-
-In a statement, the commission noted that 3,916 these complaints were received related to violations of election laws, and 29 complaints related to acts of violence were reported.
-
-On Saturday (14), Chairman of the Election Commission R.M.A.L. Rathnayake said that there is a slight increase in the number of complaints received in relation to the presidential election this year.
-
-◼️
-
-[Data](articles/5e74f1a3.json)
-
-[Extended Data](ext_articles/5e74f1a3.ext.json)
-
----
-
-### One person was killed by a sharp weapon
-
-*2024-09-15 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/193723) · `ta`
-
-A 70-year-old man was fatally stabbed in the Heinpalla area. Police are investigating and searching for suspects.
-
-🟩
-
-Investigations have been launched based on information received by the police regarding the death of a man who was attacked by a sharp weapon in the Heinpalla area of ​​the Baduraliya Police Division.
-
-The 70 -year -old man from Morapitiya, Morapitiya, has died in the attack, police said.
-
-Baduraliya police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/17a63b89.json)
-
-[Extended Data](ext_articles/17a63b89.ext.json)
-
----
-
-### Death rite
-
-*2024-09-15 12:40:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்க்கும்-மரணச்-சடங்கு/175-343778) · `ta`
-
-Funeral rites for foster dog Rodweeler "Pisa" in Jaffna-Vaddukoddai. Born 2006, passed away aged 18. Held annual funerals since 2014, mimicking human ceremonies to honor his memory.
-
-🟩
-
-The funeral of a foster dog, like performing a funeral for humans. The incident took place today in Jaffna - Vaddukoddai, Mavadi.
-
-Rodweeler ethnic dog, also known as Pisa, has been born on 20.08.2006. Pisa died on Saturday (2024.09.14) over the age of 18.
-
-The funeral has been raised for the last 10 years. For the past 10 years, he has held a funeral to the penny as a funeral for humans for the loan of gratitude for him.
-
-The body of the penny was taken as a funeral everywhere in the Vaddukoddai area. Then the body of the Ezaman of the penny was well -existed.
-
-◼️
-
-[Data](articles/28b4c716.json)
-
-[Extended Data](ext_articles/28b4c716.ext.json)
-
----
-
-### “Ranil's success is confirmed”
-
-*2024-09-15 12:39:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வெற்றி-உறுதி/175-343777) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"UNP Ratnapura organizer calls for Tamil-speaking community support for President Ranil Wickremesinghe. Emphasizes voting as a democratic weapon for national progress. Urges voters to choose experienced leaders over inexperienced ones."
-
-🟩
-
-Independent candidate in the presidential election is determined to win President Ranil Wickremesinghe. Therefore, the Tamil -speaking people must be partners of this victory. UNP Ratnapura District Organizer Subbaiah Anandakumar said that the rights and development could be easily won.
-
-Voting is the democratic weapon of the people. He also called for the use of the weapon for the progress of the country and for our progress.
-
-Subbaiah Anandakumar said this while addressing a campaign meeting in Ratnapura. He further stated that
-
-“The day for the presidential election is nearing. People are going to use voting rights after 6 more days. All voters this time must use their vote. Because this is the election that will determine the fate of the country.
-
-It is better to avoid voting for inexperienced, immature politicians. If so, the leader who has recovered the country should be your choice. You do not want to know that the leader is President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/a17f1d52.json)
-
-[Extended Data](ext_articles/a17f1d52.ext.json)
-
----
-
-### Disorder
-
-*2024-09-15 12:32:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்புக்கு-சென்ற-உலங்குவானூர்தியில்-கோளாறு/175-343775) · `ta`
-
-President Ranil Wickremesinghe's helicopter visit to Eppawala was delayed due to mechanical issues. The Ulangaurdi helicopter arrived but had problems. After repairs, it left about an hour later. The incident involved a Sri Lanka Air Force-owned Bell 412 aircraft experiencing technical difficulties.
-
-🟩
-
-Independent presidential candidate President Ranil Wickremesinghe landed on the Eppawala belt due to the mechanical failure of the Ulangaurdi who came to protect the helicopter.
-
-About an hour later, a helicopter was repaired and departed, a Presidential Security Unit official said.
-
-The Sri Lanka Air Force -owned Bell 412 aircraft has been a technical disorder.
-
-◼️
-
-[Data](articles/39b0d6a5.json)
-
-[Extended Data](ext_articles/39b0d6a5.ext.json)
-
----
-
-### Cellabus
-
-*2024-09-15 12:32:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்புக்கு-சென்ற-உலங்கு-வானூர்தியில்-கோளாறு/175-343775) · `ta`
-
-President Ranil Wickremesinghe's helicopter made emergency landing at Eppawala due to mechanical issues. Repaired and left after about an hour. Bell 412 aircraft experienced technical problems.
-
-🟩
-
-Independent presidential candidate President Ranil Wickremesinghe landed on the Eppawala belt due to the mechanical failure of the Ulangaurdi who came to protect the helicopter.
-
-About an hour later, a helicopter was repaired and departed, a Presidential Security Unit official said.
-
-The Sri Lanka Air Force -owned Bell 412 aircraft has been a technical disorder.
-
-◼️
-
-[Data](articles/b94e2b0d.json)
-
-[Extended Data](ext_articles/b94e2b0d.ext.json)
-
----
-
-### Will the bud team save Ranil?
-
-*2024-09-15 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/193721) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Will the UNP team save Ranil? His survival depends on MP loyalty. If unsuccessful, both may vanish from history."
-
-🟩
-
-Ranil Wickremesinghe is staying in successful whether MPs will remain with Ranil Wickremesinghe, whether they will give him a long time or a loyal to him.. If he fails, the United National Party and him may disappear from history.
-
-◼️
-
-[Data](articles/0b287abd.json)
-
-[Extended Data](ext_articles/0b287abd.ext.json)
 
 ---

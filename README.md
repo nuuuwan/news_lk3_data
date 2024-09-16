@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 18:19:26**
+As of **2024-09-16 18:33:40**
 
 ## Newspaper Stats
 
-*Scraped **44,183** Articles*
+*Scraped **44,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,079
 dailymirrorlk | 4,733
 adaderanalk | 5,206
-tamilmirrorlk | 5,754
+tamilmirrorlk | 5,756
 virakesarilk | 7,039
 adaderanasinhalalk | 7,567
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,183 (100.0%) of 44,183 articles have been extended.
+44,185 (100.0%) of 44,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Luxury car accident: injury to someone
+
+*2024-09-16 17:54:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சொகுசு-கார்-விபத்து-ஒருவருக்கு-காயம்/76-343854) · `ta`
+
+Luxury car crash on Hatton-Nuwara Eliya road. Driver injured, hospitalized. Possible causes: speeding or driver asleep. Investigation ongoing.
+
+🟩
+
+The driver of the Nanu Oya Police Division crashed into a boulder on the Hatton -Nuwara Eliya main road on Monday afternoon (16) after the driver of the driver.
+
+The driver of the 34 -year -old car was admitted to the Nuwara Eliya District General Hospital for treatment and the accident was owned by a specialist at a private hospital in Nuwara Eliya, Nanuoya police said.
+
+It is reported that the luxury car driver from Colombo to Nuwara Eliya lost control of the driver of the car and crashed into a boulder.
+
+Nanuoya police, who are investigating the accident, may have been involved in the speeding of the car that was unable to control the speed of the car or the driver was sleeping.
+
+◼️
+
+[Data](articles/1f941cb0.json)
+
+[Extended Data](ext_articles/1f941cb0.ext.json)
+
+---
 
 ### SJB organiser attacks youth who refused election handbill
 
@@ -57,6 +81,10 @@ The confrontation had escalated quickly, resulting in the youth being attacked. 
 ### This is nonsense politics -
 
 *2024-09-16 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201091) · `si`
+
+Dilith Jayaweera criticizes politicians as "jokes" in Moneragala. Claims leaders failed to improve economy despite promises. Accuses Anura Kumara and Wickremesinghe of neglecting agriculture. Blames them for rising living costs.
+
+🟩
 
 The presidential candidate, entrepreneral Dilith Jayaweera says that the country is a nonsense politics.
 
@@ -143,6 +171,30 @@ After the attack, the youth residents and went to the Nawalapitiya District Gene
 [Data](articles/f231fb62.json)
 
 [Extended Data](ext_articles/f231fb62.ext.json)
+
+---
+
+### Sridharan opposed the party's decision
+
+*2024-09-16 16:18:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சியின்-தீர்மானத்தை-எதிர்த்தார்-சிறிதரன்/175-343852) · `ta`
+
+Sridharan opposes TNA decision. He criticized party's choice at Vavuniya office. Six members supported Sajith Premadasa. Report confirms Sajith backing Premadasa.
+
+🟩
+
+I oppose the decision of the TNA. Sridharan said.
+
+He said this while commenting on a group of six people at the party office in Vavuniya.
+
+At today's meeting, five were in support of Sajith Premadasa.
+
+A report was written on it. According to the decision already taken in the report, Sajith was supporting Premadasa.
+
+◼️
+
+[Data](articles/71edd479.json)
+
+[Extended Data](ext_articles/71edd479.ext.json)
 
 ---
 
@@ -2323,51 +2375,5 @@ The arrested suspect and the barrier have been handed over to the Pali Police St
 [Data](articles/d744823f.json)
 
 [Extended Data](ext_articles/d744823f.ext.json)
-
----
-
-### A 13 -year -old boy made a wrong decision because his father did not give a cell phone in Jaffna!
-
-*2024-09-16 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/193801) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tragedy in Jaffna: A 13-year-old boy died after making a wrong decision due to lack of a cell phone from his father. His body was taken to Tellippalai Resource Hospital. This incident occurred at Alavetti Arunodaya school.
-
-🟩
-
-A 13 -year -old boy made a wrong decision on Sunday (15) as the father did not give a cell phone to play.
-
-His body has been taken to the Tellippalai Resource Hospital. The death of a student in Alavetti Arunodaya has died.
-
-◼️
-
-[Data](articles/aa29b20b.json)
-
-[Extended Data](ext_articles/aa29b20b.ext.json)
-
----
-
-### We must stand as a partner of that victory - Jeevan Thondaman
-
-*2024-09-16 02:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193800) · `ta`
-
-Jeevan Thondaman supports Ranil Wickremesinghe for presidency, citing past achievements and commitment to Upcountry Renaissance Program.
-
-🟩
-
-President Ranil Wickremesinghe will win the presidential election on September 21 and will be a partner of the victory as President Ranil Wickremesinghe rejoins the throne.. We will also successfully complete the Upcountry Renaissance Program under his rule, ”said Jeevan Thondaman, General Secretary and Minister of the CWC.
-
-The campaign meeting was held on 15.09.2024 in Nuwara Eliya, supporting the independent candidate Ranil Wickremesinghe, who is contesting the presidential election.
-
-Presidential candidate Ranil Wickremesinghe, President of the Ceylon Workers Congress, Senthil Thondaman, Governor of the Eastern Province, Senthil Thondaman on behalf of the Ceylon Workers Congress, Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, M. Rameshwaran, Member of Parliament of Nuwara Eliya DistrictDissanayake, MPs SB Dissanayaka, Nimal Piyadissa, Manusha Nanayakkara, former Provincial Council members and Pradeshiya Sabha members were also present.
-
-...
-
-[Data](articles/837360d6.json)
-
-[Extended Data](ext_articles/837360d6.ext.json)
 
 ---

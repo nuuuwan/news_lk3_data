@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 20:10:54**
+As of **2024-09-16 20:22:27**
 
 ## Newspaper Stats
 
-*Scraped **44,199** Articles*
+*Scraped **44,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,920
-adalk | 4,081
+adalk | 4,082
 dailymirrorlk | 4,733
-adaderanalk | 5,207
+adaderanalk | 5,208
 tamilmirrorlk | 5,760
 virakesarilk | 7,045
 adaderanasinhalalk | 7,568
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,568
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,199 (100.0%) of 44,199 articles have been extended.
+44,199 (100.0%) of 44,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Dilith hits out at ‘absurd’ political dramas by main presidential candidates
+
+*2024-09-16 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102025/dilith-hits-out-at-absurd-political-dramas-by-main-presidential-candidates-) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera says that an ‘absurd’ form of politics currently exists in the country.
+
+While attending a public rally held in Monaragala today (16), Jayaweera expressed that certain political leaders are providing each other with jokes on the political stage.
+
+Commenting on President Ranil Wickremesinghe, he said the president is asking the people to give him power again, claiming that he has made a ‘change’ which was sought by the people.
+
+“His good friend Anura Kumara is asking him not to call him a ‘friend’ in public. The most powerful agriculture minister in Sri Lankan history, the former agriculture minister Anura Kumara had the greatest number of institutions under his ministry. “
+
+...
+
+[Data](articles/3d99619e.json)
+
+---
 
 ### The 25th anniversary of the massacre of Mantu was emotionally featured
 
@@ -257,6 +275,26 @@ However, the question of what the situation is if Sajith Premadasa is successful
 [Data](articles/fc804fd5.json)
 
 [Extended Data](ext_articles/fc804fd5.ext.json)
+
+---
+
+### සජිත්ගේ පොරොන්දු ක්‍රියාත්මක කරන්න අමතර රු. කෝටි 40000ක් ඕන
+
+*2024-09-16 18:16:55* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-පොරොන්දු-ක්‍රියාත්මක-කරන්න-අමතර-රු--කෝටි-40000ක්-ඕන/11-411967) · `si`
+
+සමගි ජන බලවේගයේ ජනාධිපති අපෙක්ෂක සජිත් ප්‍රේමදාස මහතා ජනාධිපතිවරණ ප්‍රචාරක රැස්විම් වලදි ජනතාවට පොරොන්දු වු දේවල් ලබාදිමට අමතර රු කොටි හතලිස් දහසක් ඔහු සොයාගත යුතු බව නුවරඑලිය දිස්ත්‍රික් පා.ම එස්.බි දිසානායක මහතා පැවසිය.
+
+එස්.බි දිසානායක මහතා ඒ බැව් කියා සිටියේ (16) දින ජනාධිපති අපෙක්ෂක රනිල් වික්‍රමසිංහ මහතාගේ ජය තහවුරු කිරිම සදහා හැටන් දික්ඔය නගර සභා ශාලාවේ පැවති රැස්විමකදි අදහස් දක්වමිණි.
+
+මෙම රැස්විමේදි වැඩිදුරටත් අදහස් දැක් වු එස්.බි දිසානායක මහතා කියා සිටියේ මේ මස 22 දින වැරදිමකින් හෝ සජිත් ප්‍රේමදාස රටේ ජනාධිපති වුණොත් එයා කොහෙන්ද මේ රු කොටි හතලිස් දහසක මුදල සොයන්නේ?
+
+සජිත්ගේ තාත්තා උතුරේ පළාත් සභා ක්‍රමය ඇති කරන්න දැඩි ලෙස විරුද්ධ වුණ කෙනෙක්, දමිල ජනතාවට කිසිම දෙයක් කරපු නැති නායකයෙක්, එයාගේ පුතා කොහොමවත් දමිල ජනතාවට කිසිම දෙයක් කරන්නේ නැ.
+
+2015 වසරේ එයා නිවාස ඇමති වුණා, මම හදපු අමාත්‍යාංශය ඒක, ඒ අමාත්‍යාංශයේම ඕන තරම් සල්ලි තියෙනවා නිවසක් නැති කෙනෙකුට දිවයිනේ ඕනැම තැනක නිවසක් ඉදි කරන්න පුළුවන්.වතුකරයේ කාටද එහෙම නිවසක් සජිත් ප්‍රේමදාස හදලා දුන්නේ යනුවෙන් පැවසිය.
+
+◼️
+
+[Data](articles/4f5e89f2.json)
 
 ---
 
@@ -2345,57 +2383,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/daef24fb.json)
 
 [Extended Data](ext_articles/daef24fb.ext.json)
-
----
-
-### What Arabian Sultana is Ranil Wickremesinghe?
-
-*2024-09-16 07:52:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விக்கிரமசிங்க-என்ன-அரேபிய-சுல்தானா/175-343826) · `ta`
-
-Ranil Wickremesinghe criticized as "Arabian Sultana" by rival politician. Claims his leadership prevents fuel crisis. Rejects idea NPP would gain power under him.
-
-🟩
-
-President Ranil Wickremesinghe has strongly criticized President Ranil Wickremesinghe's claims that if he is not in power, he has strongly criticized the National People's Power (NPP).
-
-Speaking at a public meeting, Dissanayake said, "Is Ranil Wickremesinghe a Arabian Sultana?"That asked. He rejected the notion that Wickremesinghe's leadership could only prevent the fuel crisis, and said that such claims were trying to confuse the public's fear to maintain political control.
-
-Wickremesinghe also rejected what the NPP power would rise if the NPP authority would rise.
-
-◼️
-
-[Data](articles/f6774715.json)
-
-[Extended Data](ext_articles/f6774715.ext.json)
-
----
-
-### The risk of Tamils ​​in the east of the East
-
-*2024-09-16 07:51:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கில்-தமிழர்கள்-அழிந்து-போகும்-ஆபத்து/175-343825) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Risk of Tamil identity loss in Eastern Sri Lanka due to land grabs and political instability. TNA calls for recognition as a Tamil nation to preserve culture and rights.
-
-🟩
-
-There is a risk that the Tamil people in the Eastern Province are unaware of the place in the Eastern Province, so if all these are to put an end to all these, a Tamil nation should be recognized.
-
-He said that the Tamil -owned head of the Tamils, Trincomalee, today, the entire land belonging to the Tamil land is being dumped and 32 molds are being constructed in 2 thousand acres.
-
-The Tamil National People's Front (TNA) parliamentarian who is campaigning in Batticaloa in Batticaloa, speaking to the media on Sunday (15).
-
-Ranil Wickremesinghe is the president of the Opposition and the leader of the Opposition Party of Sajith Premadasa and Anura Kumara Dissanayake is the party leader of a strong opposition.
-
-Similarly, the Batticaloa border, Mayilathamadu Madhavan, has been destroyed by 3 lakh cows in the pasture of the pasture, and 20 thousand acres of land is occupied by chauvinists.
-
-...
-
-[Data](articles/2098a83b.json)
-
-[Extended Data](ext_articles/2098a83b.ext.json)
 
 ---

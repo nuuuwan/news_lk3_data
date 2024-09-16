@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 14:11:42**
+As of **2024-09-16 14:23:55**
 
 ## Newspaper Stats
 
-*Scraped **44,152** Articles*
+*Scraped **44,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,164 @@ dbsjeyarajcom | 377
 bbccomsinhala | 426
 colombotelegraphcom | 437
 islandlk | 2,598
-economynextcom | 2,683
+economynextcom | 2,684
 dailyftlk | 2,920
 adalk | 4,074
 dailymirrorlk | 4,733
 adaderanalk | 5,199
 tamilmirrorlk | 5,752
-virakesarilk | 7,033
-adaderanasinhalalk | 7,557
+virakesarilk | 7,035
+adaderanasinhalalk | 7,560
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,152 (100.0%) of 44,152 articles have been extended.
+44,158 (100.0%) of 44,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### Wellala's award received
+
+*2024-09-16 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201081) · `si`
+
+Sri Lanka team selected ICC player 2024. Keshesura Maharaj and West Indies islanders also ranked. Wellala received award.
+
+🟩
+
+The Sri Lankan team in August 2024 has been selected to the ICC player.
+
+The two other players who have been ranked by the division and competitions were Keshesura Maharaj and West Indies islanders.
+
+◼️
+
+[Data](articles/a189e7dd.json)
+
+[Extended Data](ext_articles/a189e7dd.ext.json)
+
+---
+
+### After IPO, Sri Lanka’s Cable Solutions looks to expand US operations
+
+*2024-09-16 14:00:00* · [`economynextcom`](https://economynext.com/after-ipo-sri-lankas-cable-solutions-looks-to-expand-us-operations-179699/) · `en`
+
+ECONOMYNEXT – Cable Solutions Limited, a subsidiary of Sri Lanka’s ACL Cables Plc, said it was looking to supply cables to the US operations of a multinational company.
+
+“Our commitment to obtaining international certifications has opened doors to new markets and attracted more discerning customers. For instance, we have begun supplying cables to the UK and potentially the US operations of a multinational company,” Chairman Suren Madanayake told shareholders.
+
+Previously, the company’s products were only available through its Indian plant, he said in the company’s first annual report as a listed company, presenting audited financial statements for the fiscal year ending 2023/2024.
+
+Sri Lanka’s Cable Solutions begins trading on CSE Diri Savi Board
+
+The company made a gross profit of 761,562,327 million for 2023/2024, lower than the 1,084,425,516 in 2022/2023.
+
+...
+
+[Data](articles/b7e618f2.json)
+
+[Extended Data](ext_articles/b7e618f2.ext.json)
+
+---
+
+### Itak support to Sajith - Sridharan protests
+
+*2024-09-16 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201080) · `si`
+
+ITAK supports Sajith Premadasa for presidency. Party leader Mawai Senadhirajah announced decision. Jaffna MP Sridharan disagrees, says Tamil candidate needed for Tamil interests.
+
+🟩
+
+Ilangai Thamil Arasu Kachchi has decided to support the presidential candidate Sajith Premadasa in the next presidential election.
+
+Speaking to the media in Vavuniya this morning (16), the party leader, Mawai Senadhirajah said the party decided to support the presidential passage of the party's central committee presidential decisionThat was done.
+
+Speaking to the media After the meeting, Jaffna District Parliamentarian S. Mr. Sridharan said he would not agree with that view at all.
+
+He also requested the assistance of the Tamil public candidate for the Tamil people in a background that the Sinhalese presidential candidates were not contemplated for the interests of the Tamil people.
+
+◼️
+
+[Data](articles/9ac83a41.json)
+
+[Extended Data](ext_articles/9ac83a41.ext.json)
+
+---
+
+### Change Economic Policy Anura
+
+*2024-09-16 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201079) · `si`
+
+Sri Lanka: Anura Kumara Dissanayake proposes changing economic policy, abolishing vehicle licenses, reducing pensions, and reforming governance. He criticizes current political system and promises to improve country's image.
+
+🟩
+
+Anura Kumara Dissanayake says the presidency of the National Power is working under the government to change the current economic policy in the country.
+
+Another phase of the JVP rarise of the National Folk Council for the presidential election was held at Nawalapitiya.
+
+Speaking further the presidential candidate Anura Kumara Dissanayake said,
+
+...
+
+[Data](articles/fbf45d40.json)
+
+[Extended Data](ext_articles/fbf45d40.ext.json)
+
+---
+
+### Hurricane that hit China's Shanghai;400,000 people discharge
+
+*2024-09-16 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/193845) · `ta`
+
+Powerful hurricane hits Shanghai, 400,000 evacuate. Massive winds, heavy rain cause disruptions. Emergency responders deployed. Similar storms rare in densely populated city.
+
+🟩
+
+A powerful hurricane hit China's Shanghai City after 1949 on Monday (16). This was followed by massive winds and heavy rainfall.
+
+In this case, more than 400,000 people have been evacuated from there. In addition, aircraft, boats and train services have been canceled.
+
+More than 180 flights are scheduled to be canceled from Sunday to Monday due to winds at 170 km / h southwest of Shanghai.
+
+State media reports that more than 60,000 emergency assistants and firefighters are ready to provide assistance in Shanghai.
+
+Pepinka hurricane near its center in the Budang business district caused wind at speeds of 151 km / h.
+
+Officials expected that the hurricane would affect the nearby Jejiang, Jiangsu and Anhui provinces.
+
+Shanghai is rarely attacked by 25 million people with powerful hurricanes that stimulate the landslide in the south of China.
+
+...
+
+[Data](articles/72f5321c.json)
+
+[Extended Data](ext_articles/72f5321c.ext.json)
+
+---
+
+### Sri Lanka Test team announces match against New Zealand
+
+*2024-09-16 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/193843) · `ta`
+
+Sri Lanka names 16-member squad for NZ Test series. First match starts March 18 at Galle. Tanjaya de Silva leads team.
+
+🟩
+
+Sri Lanka's 16 -member team has announced the selection of Sri Lanka Cricket in the two -match Test series against New Zealand.
+
+The first Test match between the two teams will begin on the 18th of this month at the International Cricket Ground in Galle.
+
+Tanjaya de Silva heads the 16 -member Sri Lankan cricket team.
+
+◼️
+
+[Data](articles/9adcb6ec.json)
+
+[Extended Data](ext_articles/9adcb6ec.ext.json)
+
+---
 
 ### Sri Lanka issues clarification on diplomatic relations with Israel
 
@@ -2189,133 +2329,5 @@ The 31-year-old injured individual, identified as Tharindu Madushan Suwaris, is 
 [Data](articles/e443f4c0.json)
 
 [Extended Data](ext_articles/e443f4c0.ext.json)
-
----
-
-### A 22 -year -old young woman in Jaffna makes a wrong decision!
-
-*2024-09-15 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/193795) · `ta`
-
-Young woman dies in Jaffna due to poor decision-making. 22-year-old Kalachelvan Yadusini passes away on Sunday. Body sent for autopsy before being returned to family.
-
-🟩
-
-On Sunday, the 15th of Jaffna, a woman made a wrong decision and died.
-
-During this time, Kalachelvan Yadusini (age 22) from Kottadi, Jaffna has died.
-
-The girl was at home alone on Sunday (15) after all the people in the house had gone out. During this time, he made a wrong decision.
-
-The body was taken to the Jaffna Teaching Hospital for anatomical testing. The death of his body was carried out by Namasivayam Premkumar.. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/156a166e.json)
-
-[Extended Data](ext_articles/156a166e.ext.json)
-
----
-
-### Mount Lavinia Badovita shot
-
-*2024-09-15 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201057) · `si`
-
-Shooting incident in Badowita, Mount Lavinia: one person injured, hospitalized at Kalubowila hospital.
-
-🟩
-
-One person was injured in a shooting conducted in Badowita, Mount Lavinia.
-
-The injured person has been admitted to the Kalubowila hospital.
-
-◼️
-
-[Data](articles/1e4e65d5.json)
-
-[Extended Data](ext_articles/1e4e65d5.ext.json)
-
----
-
-### The country wants money and entrepreneurship Ministry - Dilith
-
-*2024-09-15 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201056) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's Ministry of Entrepreneurs aims to foster entrepreneurial spirit. Minister Dilith Jayaweera criticizes current economic policies, proposing a new approach to boost wealth and combat threats. He emphasizes unity against divisive politics and promises to protect the nation.
-
-🟩
-
-Dilith Jayaweera says that the Ministry of Entrepreneurs and Entrepreneurship will be aimed at creating an entrepreneurship minded Sri Lankans and advance them.
-
-He added that a weak minister of the debt was unnecessary in the Kiribathgoda this afternoon.
-
-Speaking further Mr. Dilith Jayaweera said,
-
-"We're going to the third world in the third world. Dampea is down. This pyper brings us today a cautious message that understands it well. This historic presidential election. We manage the debt as a person in life's practical. This is a program to do this. The three presidential candidates have not even made a cigar shop, do not pay taxes, do not pay taxes, do not pay taxes.. The way we manage the economy as a person with practical experience of this economics for 30 years. "
-
-...
-
-[Data](articles/a1bc0822.json)
-
-[Extended Data](ext_articles/a1bc0822.ext.json)
-
----
-
-### Scholarship Examination Released in 40 Days - Commissioner General of Examination
-
-*2024-09-15 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/193794) · `ta`
-
-Scholarship Exam Results: 40-day wait announced. 5th exam held at 2,849 centers; 323,879 students participated. Commissioner General says results will be released soon.
-
-🟩
-
-The Commissioner General of Examination Amit Jayasundara said that the results of the 5th Scholarship Examination held on Sunday 15th are expected to be released in 40 days.
-
-This year's scholarship examination was held in 2,849 centers and 323,879 students appeared for the exam.
-
-◼️
-
-[Data](articles/1fa79f68.json)
-
-[Extended Data](ext_articles/1fa79f68.ext.json)
-
----
-
-### Grade 5 Scholarship exam results in 40 days
-
-*2024-09-15 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102002/grade-5-scholarship-exam-results-in-40-days) · `en`
-
-The Commissioner General of Examinations, Amith Jayasundara says that the results of the Grade 5 Scholarship Examination held today (15), is expected to be released in 40 days.
-
-This year’s Grade 5 Scholarship exams was held in 2,849 centers with the participation of 323,879 students this morning.
-
-◼️
-
-[Data](articles/a876ec18.json)
-
-[Extended Data](ext_articles/a876ec18.ext.json)
-
----
-
-### US State Department
-
-*2024-09-15 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/193793) · `ta`
-
-US State Department advises Sri Lankans to stay safe during upcoming presidential election on Sept 21, urging citizens to avoid crowded areas.
-
-🟩
-
-The US State Department has appealed to the people of Sri Lanka to take care of the people of Sri Lanka, as the Sri Lankan presidential election is scheduled for September 21st.
-
-In the travel consultation issued by the Department, residents of the country are asked to avoid going to places where people can gather.
-
-◼️
-
-[Data](articles/29e61602.json)
-
-[Extended Data](ext_articles/29e61602.ext.json)
 
 ---

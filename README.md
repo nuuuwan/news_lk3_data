@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 16:38:22**
+As of **2024-09-16 16:55:47**
 
 ## Newspaper Stats
 
-*Scraped **44,175** Articles*
+*Scraped **44,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ colombotelegraphcom | 437
 islandlk | 2,598
 economynextcom | 2,684
 dailyftlk | 2,920
-adalk | 4,076
+adalk | 4,078
 dailymirrorlk | 4,733
 adaderanalk | 5,204
 tamilmirrorlk | 5,754
 virakesarilk | 7,039
-adaderanasinhalalk | 7,564
+adaderanasinhalalk | 7,565
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,175 (100.0%) of 44,175 articles have been extended.
+44,175 (100.0%) of 44,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### ප්‍රතික්ෂේපයට ලැබුණු ගුටිය
+
+*2024-09-16 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201088) · `si`
+
+අත්පත්‍රිකාවක් භාර ගැනිම ප්‍රතික්ෂේප කළ වෙළෙඳසැලක සිටි පුද්ගලයෙක්ට එම අත්පත්‍රිකා බෙදමින් සිටි පුද්ගලයෙක් පහරදී ඇති බව නාවලපිටියෙන් වාර්තා විය.
+
+අප වාර්තාකරු පැවසුවේ, සමගි ජන බලවේගයේ නාවලපිටිය ආසන සංවිධායකවරයා විසින් එම පහරදීම සිදුකර ඇති බවය.
+
+එම පුද්ගලයාට පහර දෙන අයුරු එම වෙළෙඳසැලේ සවි කරතිබු ආරක්ෂිත කැමරාවේ සටහන්ව තිබුණි.
+
+නාවලපිටිය නගර මධ්‍යයේ පිහිටි ඔරලෝසු අලුත්වැඩියා කරන ස්ථානයේ හිමිකරුගේ පුත්‍රයාට මෙසේ පහර දී ඇති අතර, මෙම පහරදිම සිදුකර ඇත්තේ ඊයේ (15) උදැසන 11ට පමණ ය.
+
+සජබ නාවලපිටිය ආසන සංවිධායකවරයාගේ ආධාරකරුවන් පිරිසක් සමග එම වෙළෙඳසැල තුළ ට පැමිණ තරුණයාට අත්පත්‍රිකාවක් ලබාදී ඇති බවත්, එම අවස්ථාවේ අත්පත්‍රිකාව ලබා ගැනීම තරුණයා ප්‍රතික්ෂේප කර තිබුණි.
+
+පහර කැමෙන් පසු එම තරුණයා නාවලපිටිය දිස්ත්‍රික් මහ රෝහලට ඇතුළු වී ප්‍රතිකාර ලබා එම රෝහලේ පොලීසිය වෙත ගොස් පැමිණිල්ලක් කර අද (16) දින රෝහලෙන් පිටව ගොස් ඇත.
+
+◼️
+
+[Data](articles/f231fb62.json)
+
+---
 
 ### Sridharan opposed the resolution of the Tamil party
 
@@ -135,6 +157,20 @@ On August 18, a six -member committee was appointed on August 18 and the committ
 [Data](articles/0fb85f56.json)
 
 [Extended Data](ext_articles/0fb85f56.ext.json)
+
+---
+
+### අගෝස්තු මාසයේ  අයි.සී.සී ක්‍රීඩකයා සහ ක්‍රීඩිකාව ශ්‍රී ලංකාවෙන්
+
+*2024-09-16 15:17:13* · [`adalk`](https://www.ada.lk/sports/අගෝස්තු-මාසයේ--අයි-සී-සී-ක්‍රීඩකයා-සහ-ක්‍රීඩිකාව-ශ්‍රී-ලංකාවෙන්/9-411963) · `si`
+
+අගෝස්තු මාසයට අදාළව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය නම් කරන මාසයේ ක්‍රීඩකයා සහ ක්‍රීඩිකාව ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව ක්‍රීඩිකාවට හිමි සම්මානය  ශ්‍රී ලංකා ක්‍රීඩිකා හර්ෂිතා මාධවී සමරවික්‍රම විසින් හිමි කරගෙන ඇති අතර, ක්‍රීඩකයාට හිමි සම්මානය දුනිල් වෙල්ලාලගේ විසින් හිමි කර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/a33b04d8.json)
 
 ---
 
@@ -585,6 +621,22 @@ Joining Ada Derana’s special “Derana 360°” program series for the preside
 [Data](articles/db64a4af.json)
 
 [Extended Data](ext_articles/db64a4af.ext.json)
+
+---
+
+### නැගෙනහිර සංචාරක කලාප යා කරමින් අභ්‍යන්තර ගුවන් සේවයක්
+
+*2024-09-16 13:13:35* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-සංචාරක-කලාප-යා-කරමින්-අභ්‍යන්තර-ගුවන්-සේවයක්/11-411962) · `si`
+
+නැගෙනහිර පළාතේ සංචාරක කර්මාන්තයේ ප්‍රවර්ධනය උදෙසා  පළාතේ සංචාරක කලාප යාකරමින් අභ්‍යන්තර ගුවන් ගමන් සේවාවක් ආරම්භ කිරීමට නියමිතය .
+
+ලබන වසරේ ජනවාරි සිට ආරම්භ කරන මෙම අභ්‍යන්තර ගුවන් ගමන් සේවාව තුළින් ත්‍රිකුණාමලයේ "නිලාවේලි" මඩකලපුවේ "පාසිකුඩා" හා අම්පාරේ "අරුගම්බේ" යන සංචාරක කලාප තුන යාකෙරේ.මේ සඳහා වන අවබෝධතා ගිවිසුමට අත්සන් තැබීම ත්‍රිකුණාමලයේ පිහිටි ආණ්ඩුකාර කාර්යාලයේදී ආණ්ඩුකාර සෙන්දිල් තොණ්ඩවන් මහතාගේ මෙහෙයවීම යටතේ සිදුවිය.
+
+මේ අනුව පළාත් සංචාරක කාර්යාංශයේ සභාපති එම්.පී. මදනවාසන් හා රුසියාව මූලස්ථානය කරගත් ජාත්‍යන්තර ගුවන් අභ්‍යාවකාශ සමාගමේ සභාපති Shugarev Sergey Nikolaevich යන මහත්වරු මෙම අවබෝධයක් ගිවිසුමට අත්සන් තැබූහ .
+
+◼️
+
+[Data](articles/08093565.json)
 
 ---
 
@@ -2279,75 +2331,5 @@ Under Phase 1 of the GLO programme, five employees from each company benefitted 
 [Data](articles/eafa3ef9.json)
 
 [Extended Data](ext_articles/eafa3ef9.ext.json)
-
----
-
-### 2024 Presidential Elections: A Mission Impossible For Many Aspirers
-
-*2024-09-16 02:11:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/2024-presidential-elections-a-mission-impossible-for-many-aspirers/) · `en`
-
-Since of late Sr Lankan Presidential Elections have become a battle ground with the number of candidates progressively growing. Last Presidential Election held on 16th Nov 2019 fielded36 contestants while the 2024 candidacy increased to 38 numbers but ironically due to the demise of one candidate the number came down to 37 as of today.
-
-When we look at the results of the last Presidential Election in 2019, The contest was polarized between two main candidates,  and the final result was
-
-Gotabaya Rajapaksa                                                    SLPP       6,924,,255           52.25%
-
-Sajith Premadasa                                                           NDF        5,564,,239          41.99%
-
-Anura kumara Dissanayake                                       NMPP             418,553           3.16%
-
-All 33 other candidates polled a total of  2.6% of the total valid votes with the highest polling  0.37 %.
-
-...
-
-[Data](articles/b4f144db.json)
-
-[Extended Data](ext_articles/b4f144db.ext.json)
-
----
-
-### Sanasa General Insurance partners with PMF Finance
-
-*2024-09-16 02:11:00* · [`islandlk`](http://island.lk/sanasa-general-insurance-partners-with-pmf-finance/) · `en`
-
-Sanasa General Insurance Company (SGIC) has entered into a strategic partnership with PMF Finance PLC to provide comprehensive insurance services to PMF Finance’s leasing customers.
-
-The related Memorandum of Understanding (MOU) was recently signed by Sanasa General Insurance Chairman Tishan H. Subasinghe and PMF Finance Designated CEO Professor Ajith Mendis.The Occasion was honored by PMF finance Chairman Chandula Abeywickrama, marking a significant milestone in business innovation for both companies. Under this partnership,
-
-PMF Finance will integrate Sanasa General Insurance as its official insurance partner. This collaboration will benefit customers throughout PMF Finance’s islandwide branch network, including its virtual branches.
-
-...
-
-[Data](articles/56503e11.json)
-
-[Extended Data](ext_articles/56503e11.ext.json)
-
----
-
-### I will give the people the gifts available to other people - the President
-
-*2024-09-16 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/193799) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Ranil Wickremesinghe addresses supporters, promising economic, political, and social reforms. He criticizes opponents for making false promises and vows to strengthen the economy and provide relief to citizens.
-
-🟩
-
-President Ranil Wickremesinghe said that his aim is to make all concessions to the plantation people and that the people of the plantation have already implemented a legal land rights program with the right to live in the villages instead of Lions.
-
-The President made this statement while addressing the 'Ranil Charm' Victory rally in Nuwara Eliya on Sunday afternoon.
-
-A large number of people participated in the rally organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election and greeted the President.
-
-The president has asked the people not to allow the leaders of false promises not to destroy the country's economy and promised to gradually provide a massive economic, political and social revolution in the country in the next five years to provide relief to the people.
-
-...
-
-[Data](articles/93e178a6.json)
-
-[Extended Data](ext_articles/93e178a6.ext.json)
 
 ---

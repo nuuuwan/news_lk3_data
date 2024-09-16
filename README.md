@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 14:57:32**
+As of **2024-09-16 15:10:46**
 
 ## Newspaper Stats
 
-*Scraped **44,163** Articles*
+*Scraped **44,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,201
 tamilmirrorlk | 5,752
 virakesarilk | 7,035
-adaderanasinhalalk | 7,562
+adaderanasinhalalk | 7,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,163 (100.0%) of 44,163 articles have been extended.
+44,163 (100.0%) of 44,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
+
+### ඉන්දියාවේ නිපා පැතිරෙයි
+
+*2024-09-16 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201085) · `si`
+
+නිපා වෛරසය වැළඳී ප්‍රතිකාර ලබමින් සිටි තරුණයෙක් ව ඉන්දීය කේරළ ප්‍රාන්තයේ දී මරණයට පත්වී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+එම 24 හැවිරිදි තරුණයා උසස් අධ්‍යාපනය ලබමින් සිටි අයෙකි. ඔහුට පසුගිය 04 වනදා උණ ගතියක් ඇතිවී තිබුණි.
+
+ඔහු මලප්පුරම් ප්‍රදේශයේ පදිංචිව සිටි අයෙක් බව සෞඛ්‍ය අංශ පැවසීය.
+
+එම තරුණයා ගේ සමීපතමයින් 151 දෙනෙක් ව නිරෝධායනය සඳහා යොමුකර ඇති බව සඳහන් ය.
+
+මෙම මරණය මලප්පුරම් ප්‍රදේශයෙන් මෙම වසරේ වාර්තා වූ දෙවැනි නිපා මරණය වන අතර පසුගිය ජූලි මාසයේදී 14 හැවිරිදි පාසල් සිසුවෙක් මරණයට පත්විය.
+
+ලෝක සෞඛ්‍ය සංවිධානය මෙම වෛරසය ගැන අනතුරු අඟවා ඇති අතර ඉන් වැළකීමට එන්නතක් හෝ වෙනත් ප්‍රතිකාරයක් සොයාගෙන නොමැත.
+
+නිපා වෛරසය පළතුරු වවුලන්ගෙන් සහ ඌරන් වැනි සතුන්ගෙන් පැතිරෙන බවට හඳුනාගෙන තිබේ.
+
+◼️
+
+[Data](articles/ecb19b86.json)
+
+---
 
 ### ICC Award received received by Hershithe
 
@@ -2289,27 +2313,5 @@ Commander of the meeting, Anura Kumara Dissanayake said that drugs will be compl
 [Data](articles/e5037a5e.json)
 
 [Extended Data](ext_articles/e5037a5e.ext.json)
-
----
-
-### We have a proper plan and program - Namal
-
-*2024-09-15 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201060) · `si`
-
-Namal Rajapaksa, presidential candidate, emphasizes having a clear plan and vision for the election. He states they are contesting to win, not just participate, and aim to improve the country through their program.
-
-🟩
-
-Presidential candidate named Namal Rajapaksa says that the Presidential election has been contesting a plan.
-
-He was speaking at a rallies in Mahiyanganaya today (15).
-
-"I am thankful to you. To support your leader with your leader who stands for you. We have a vision and plan. We are simply not presenting the elections to get or offer. We're contesting to the elections win. Make the country by winning. We have a proper plan and program "
-
-◼️
-
-[Data](articles/c29b350a.json)
-
-[Extended Data](ext_articles/c29b350a.ext.json)
 
 ---

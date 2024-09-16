@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 10:57:06**
+As of **2024-09-16 11:10:43**
 
 ## Newspaper Stats
 
-*Scraped **44,123** Articles*
+*Scraped **44,125** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 376
+dbsjeyarajcom | 377
 bbccomsinhala | 426
 colombotelegraphcom | 437
 islandlk | 2,598
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,195
 tamilmirrorlk | 5,750
 virakesarilk | 7,025
-adaderanasinhalalk | 7,550
+adaderanasinhalalk | 7,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,123 (100.0%) of 44,123 articles have been extended.
+44,125 (100.0%) of 44,125 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,34 @@ Bebinca made landfall around 7:30 a.m. in the sprawling Pudong business district
 [Data](articles/06a6513e.json)
 
 [Extended Data](ext_articles/06a6513e.ext.json)
+
+---
+
+### Myanmar's victims are more
+
+*2024-09-16 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201070) · `si`
+
+Here's a 200-character summary:
+
+
+
+Over 160 deaths reported in Myanmar due to severe weather. Heavy rains from "Yagi" hurricane cause destruction. Government seeks international aid for relief efforts.
+
+🟩
+
+More than 160 people have died due to inclement weather caused by myanmar.
+
+Foreign media reports that these deaths have occurred due to heavy rains with 'Yagi' hurricane.
+
+The inclement weather has lost their homes for about Rs.
+
+The government has called for foreign priorities to provide relief to the people of Myanmar.
+
+◼️
+
+[Data](articles/be485bea.json)
+
+[Extended Data](ext_articles/be485bea.ext.json)
 
 ---
 
@@ -1324,6 +1352,44 @@ New factories will be launched to solve youth career problem. He said the Housin
 
 ---
 
+### Why Ranil  Wickremesinghe  is  Supremely Confident of Winning the  2024 Presidential Election.
+
+*2024-09-16 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84741) · `en`
+
+Sri Lanka’s ninth presidential election will take place  one week from now on 21 September 2024. Among the 38 contestants, three are regarded as the top contenders. They are President Ranil Wickremesinghe, Leader of the Opposition Sajith Premadasa and JVP/NPP leader Anura Kumara Dissanayake. Three others namely Hambantota District MP Namal Rajapaksa, Ex-Batticaloa MP Packiyaselvam Ariyanethiran and Entrepreneur cum media mogul Dilith Jayaweeraare  are likely to poll a sizeable number of votes.
+
+Incumbent President Ranil Wickremesinghe was interviewed by “Daily FT’editor Nisthar Cassim earlier this week. The exclusive interview commenced with two questions about the  forthcoming presidential election on Sep 21. The first question was –
+
+In the ongoing campaign trail, what have you seen and heard and what has surprised you?
+
+...
+
+[Data](articles/ee7377bd.json)
+
+[Extended Data](ext_articles/ee7377bd.ext.json)
+
+---
+
+### Racism plays no overt role in this election but racism is far from dead. It will raise its destructive head when this lot of dreams too turn into ashes and the new president begins the inevitable transformation from hero to villain.
+
+*2024-09-16 01:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84747) · `en`
+
+“Have you learned nothing from history?” Freud (The Future of an Illusion)
+
+“Wrath” is the opening word of The Iliad. Wrath is a key driver of the upcoming presidential election. People are angry at political leaders for bankrupting the country. Hopefully, the anger is accompanied by reason, not just pointing fingers outward but also looking inward.
+
+Those political leaders did not force themselves into power. They were elected by majorities of Sri Lankans. We too bear some culpability for our tragedy.
+
+Unfortunately, wrath is blinding and not enlightening, a truth The Iliad amply illustrates. Enraged at the injustice done to him by Agamemnon, the supreme commander of the Greek forces, Achilles not only retires from the war against Troy; he also conspires to humiliate Agamemnon by making him go down in utter defeat.
+
+...
+
+[Data](articles/1a3b003b.json)
+
+[Extended Data](ext_articles/1a3b003b.ext.json)
+
+---
+
 ### When the country was in crisis, all those in the opposition were not responsible for the regime
 
 *2024-09-16 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/193797) · `ta`
@@ -2245,63 +2311,5 @@ Meanwhile, the District Election Complaint Management Center has received 30 com
 [Data](articles/8da45eab.json)
 
 [Extended Data](ext_articles/8da45eab.ext.json)
-
----
-
-### Water supply for two days
-
-*2024-09-15 18:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-நாட்கள்-நீர்-விநியோகம்-தடை/175-343796) · `ta`
-
-Kandy: NWSDB warns of 2-day water disruption starting Sept 28. Normal service resumes Sept 30 at 6 PM. Residents advised to stock up.
-
-🟩
-
-The National Water Supply and Drainage Board (NWSDB) said that water supply will be disrupted for two days from September 28 in many parts of Kandy.
-
-The distribution will be returned to normal at 6.00 pm on September 30, as the water is dragged into the Polkolla Drama Dam by the Mahaweli Authority.
-
-Therefore, consumers in the area are asked to store enough water to manage their needs during these two days.
-
-◼️
-
-[Data](articles/6465fb0c.json)
-
-[Extended Data](ext_articles/6465fb0c.ext.json)
-
----
-
-### New Constitution will be created within two years in the new parliament - Presidential candidate Ranil Wickremesinghe Special
-
-*2024-09-15 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193759) · `ta`
-
-Ranil Wickremesinghe promises new constitution within 2 years, addressing Northern issues and 13th Amendment. Focuses on Truth and Reconciliation Commission for political solutions. No racial or religious issues in 2024 election.
-
-🟩
-
-There is no racist issue in the 2024 presidential election. There is no religious issue. However, we have carried out discussions with the problems of the people of the North. We have also focused on the 13th Amendment of the Constitution. Nine provinces have a key role in the country's development journey. This is why we have focused on special issues centered on the North and East, including the political issue. It will be carried out through the Truth and Reconciliation Commission. There may be a small delay, but of course those problems will be solved.
-
-◼️
-
-[Data](articles/e2365e57.json)
-
-[Extended Data](ext_articles/e2365e57.ext.json)
-
----
-
-### Sumanthiran and Wiki, who carried Fonseka on his shoulder, are making war allegations - Presidential candidate Dilith Jayaweera
-
-*2024-09-15 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193778) · `ta`
-
-Sumanthiran and Wiki accused of war allegations by presidential candidate Dilith Jayaweera. Both sides suffered losses during conflict. Formal inquiries needed to resolve issues. Sumanthiran claims collaboration between Mahinda Rajapaksa and himself would end war allegations.
-
-🟩
-
-There were losses on both sides in the war. To carry out formal inquiries and end this issue. Continue to carry only the cracks are the most. It is a massive prohibition to be fired. Sumanthiran will mention that if Mahinda Rajapaksa and Sumanthiran work together, there is no war allegation.
-
-◼️
-
-[Data](articles/68fa53e6.json)
-
-[Extended Data](ext_articles/68fa53e6.ext.json)
 
 ---

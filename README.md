@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 10:23:22**
+As of **2024-09-16 10:38:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,117 (100.0%) of 44,119 articles have been extended.
+44,119 (100.0%) of 44,119 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,27 +46,37 @@ The Railway Department stated that all trains scheduled to pass through Ragama J
 
 [Data](articles/15703f7f.json)
 
+[Extended Data](ext_articles/15703f7f.ext.json)
+
 ---
 
-### රට රැකියා ජාවාරමට හසුවූ පුද්ගලයන් ජාවාරම්කරු පැහැරගෙන යයි
+### The racketeer is abducted by the country's employment racket
 
 *2024-09-16 09:40:52* · [`adalk`](https://www.ada.lk/breaking_news/රට-රැකියා-ජාවාරමට-හසුවූ-පුද්ගලයන්-ජාවාරම්කරු-පැහැරගෙන-යයි/11-411953) · `si`
 
-යුරෝපා රටවල රැකියා සඳහා යවන බව පවසා පුද්ගලයන් රැසකගෙන් රුපියල් කෝටියකට අධික මුදලක් වංචා කළ පුද්ගලයෙකු පැහැරගෙන යමින් සිටි  කාන්තාවන් තිදෙනෙක් ඇතුළු හත් දෙනකු අත්අඩංගුවට ගත් බව පිළියන්දල පොලිසිය කියයි.
+Racketeer abducted by employment scam. Three arrested, including women. Lorries seized. Fraud victims identified across Sri Lanka. Suspects threaten victims via video calls. Police investigating large-scale fraud operation.
 
-සැකකරුවන් පැහැර ගැනීමට යොදාගත් ලොරි රථ දෙකක්ද පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-පැහැර ගැනීමට සම්බන්ධ සැකකරුවන් සැකකරුගේ මහා පරිමාණ වංචාවට හසුවූ පුද්ගලයන් රැසකගෙන් කීප දෙනෙකු බව පොලිසිය කියයි.
+Piliyandala Police say that three persons including three women who were arrested for employment in European countries.
 
-පැහැර ගත් පුද්ගලයා  කැනඩාවේ සිටින බවට හඟවමින් වසරකට ආසන්න කාලයක් තිස්සේ ඔහුගේ පෙම්වතිය විසින් හෝමාගම,  ත්‍රිකුණාමලය, ඇලහැර හා චීන වරාය ආදී ප්‍රදේශවල පුද්ගලයන් විශාල පිරිසක් රවටා මෙම මුදල් වංචාව සිදුකර ඇතැයි පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+Police also seized two lorries used to abduct the suspects.
 
-සැකකරුගේ මෙම වංචාවට සමීප ඥාතීන් පවා හසුව ඇතැයිද පොලිසිය කියයි.
+The suspects involved in abduction were several people in several people who were caught by the suspect's large scale fraud.
 
-පිළියන්දල විශ්ව කලාව ප්‍රදේශයේ නිවසකට ලොරියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු තම පුතුව පැහැරගෙන ගිය බවට කාන්තාවක් විසින් කරන ලද පැමිණිල්ලකට අනුව ක්‍රියාත්මක වූ පිළියන්දල පොලිසියේ අපරාධ විමර්ශන අංශයේ නිලධාරීන් එම ලොරියේ ලියාපදිංචි අංකය ඔස්සේ  හා තොරතුරු ඔස්සේ  සිදුකළ විමර්ශනවලදී සැකකරුවන් සහ සැකකාරියන් අත්අඩංගුවට ගෙන ඇත.
+Police investigations have revealed that a large number of persons have been dejected by his girlfriend in the Homagama, Trincomalee, Elahera and China Harbor in the Homagama, Homagama, honored by the abducted person.
+
+The police say that even close relatives have been caught by the suspect's fraud.
+
+The Criminal Investigation Division of the Criminal Investigation Division of the Piliyandala Police have arrested two persons with a complaint lorry from a lorry in the lorry in Piliyandala.
+
+Police investigations have revealed that the person had been transferred to another lorry at the same time.
 
 ...
 
 [Data](articles/8156f546.json)
+
+[Extended Data](ext_articles/8156f546.ext.json)
 
 ---
 

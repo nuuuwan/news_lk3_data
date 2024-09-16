@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-16 18:58:43**
+As of **2024-09-16 19:11:38**
 
 ## Newspaper Stats
 
-*Scraped **44,193** Articles*
+*Scraped **44,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,920
 adalk | 4,080
 dailymirrorlk | 4,733
 adaderanalk | 5,207
-tamilmirrorlk | 5,758
+tamilmirrorlk | 5,760
 virakesarilk | 7,043
 adaderanasinhalalk | 7,567
 
@@ -26,45 +26,109 @@ adaderanasinhalalk | 7,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,185 (100.0%) of 44,193 articles have been extended.
+44,195 (100.0%) of 44,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-16 (Monday)
 
-### ”உடல் ரீதியிலான தண்டனைத் தடை செய்யும் சட்டம் விரைவில்”
+### Spontaneous appointments in advance of the election
+
+*2024-09-16 18:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-முன்னிட்டு-தன்னிச்சையான-நியமனங்கள்/175-343860) · `ta`
+
+Sri Lanka: Hospital chief accused of violating election laws through pre-election appointments. Union claims no action from Election Commission despite complaints. Hospital denies wrongdoing, cites commission approvals.
+
+🟩
+
+The All Ceylon Health Service Association has accused the President of the Sri Jayawardenapura General Hospital, Dr. Saranga Alahapperuma, who has been spontaneous recruitment and promotion in violation of election laws.
+
+“Since the presidential election, the leader has been unnecessarily making many appointments.
+
+"Despite many demands to stop recruitment and promotion, the leader did not listen. Therefore, we have informed the Elections Commission about the incidents, ”Kuruke said.
+
+However, the general secretary of the union, Mahinda Kuruke, said that the Election Commission has not taken any action so far.
+
+When the Election Commission asked the official about this, he said he was considering this.
+
+Meanwhile, Dr. Saranga Alagapperuma told the Daily Mirror that all recruitments and promotions were carried out in response to the allegations.
+
+...
+
+[Data](articles/5a8173ce.json)
+
+[Extended Data](ext_articles/5a8173ce.ext.json)
+
+---
+
+### "If Ranil vote for it will benefit the practice"
+
+*2024-09-16 18:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-வாக்களித்தால்-அது-அனுரவுக்கே-நன்மை-பயக்கும்/175-343859) · `ta`
+
+Ranil Wickremesinghe benefits practice UNP leader Patali Champika rally Anuradhapura United People's Power Presidential candidate Ranawaka support Sri Lanka PA Premadasa victory unity
+
+🟩
+
+The UNP leader and parliamentarian Patali Champika has appealed for voters to support Ranil Wickremesinghe or the Sri Lanka PA.
+
+Speaking at a rally in Anuradhapura this morning (16) in support of Opposition Leader and United People's Power Presidential candidate, Ranawaka urged Wickremesinghe to vote for Wickremesinghe eventually.
+
+He invited all those who would vote for Wickremesinghe or the Sri Lanka PA to be united behind Premadasa's victory.
+
+◼️
+
+[Data](articles/278f13b4.json)
+
+[Extended Data](ext_articles/278f13b4.ext.json)
+
+---
+
+### “Body Punishment Act soon”
 
 *2024-09-16 18:37:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடல்-ரீதியிலான-தண்டனைத்-தடை-செய்யும்-சட்டம்-விரைவில்/175-343858) · `ta`
 
-உடல் ரீதியிலான தண்டனையை தடை செய்யும் சட்டத்தை விரைவில் கொண்டுவருவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்துள்ளார்.
+"President Wickremesinghe vows to pass 'Body Punishment Act' soon, ending physical discipline after decades of advocacy."
 
-“அனைத்து வடிவங்களிலுமான உடல் ரீதியான தண்டனையை தடைசெய்யும் வகையில் தண்டனைச் சட்டம் மற்றும் குற்றவியல் நடைமுறைச் சட்டத்தில் திருத்தம் செய்வதற்கான முன்மொழிவுக்கு அமைச்சர்கள் அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
+🟩
 
-குழந்தைகள் பாதுகாப்பு ஆர்வலர்களின் 20 ஆண்டுகளுக்கும் மேலான முயற்சிகளுக்குப் பிறகு இந்த மைல்கல் சாதனை கிடைத்துள்ளது. அரசிதழில் வெளியிடப்பட்டதும், இறுதி ஒப்புதலுக்காக இந்த சட்டமூலம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும், ”என்று அவர் தனது சமீபத்திய எக்ஸ் வலைத்தளத்தில் கூறினார்.
+President Ranil Wickremesinghe has promised to bring a law to prohibit physical punishment soon.
+
+“The Cabinet has approved the proposal for amendment to the Penal Code and Criminal Procedure Act to prevent the physical punishment of all forms.
+
+This milestone record has been achieved after more than 20 years of efforts by child protection enthusiasts. Once the government is published in the government, the bill will be tabled in Parliament for final approval, ”he said on his recent X website.
 
 ◼️
 
 [Data](articles/5b6a6742.json)
 
+[Extended Data](ext_articles/5b6a6742.ext.json)
+
 ---
 
-### ’’தேர்தலுக்குப் பிறகு கவனித்துக் கொள்கிறேன்’’
+### I take care after the election
 
 *2024-09-16 18:26:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்குப்-பிறகு-கவனித்துக்-கொள்கிறேன்/175-343856) · `ta`
 
-ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவாக ஐக்கிய மக்கள் சக்தி விநியோகித்த துண்டுப் பிரசுரத்தை மறுத்த நபர் ஒருவர் நாவலப்பிட்டி SJB அமைப்பாளர் சசங்க சம்பத் சஞ்சீவவினால் அச்சுறுத்தப்பட்டு தாக்கப்பட்டுள்ளார்.
+Election aftermath: Man assaulted for refusing campaign materials. Incident caught on CCTV. Victim hospitalized, filed police report.
 
-சம்பவம் இடம்பெற்ற நாவலப்பிட்டி நகரில் பாதிக்கப்பட்ட நபரின் தந்தையால் நடத்தப்படும் கைக்கடிகாரம் பழுதுபார்க்கும் கடையிலுள்ள சிசிடிவி கமெராவில் இந்த சம்பவம் பதிவாகியுள்ளது.
+🟩
 
-நேற்று ஞாயிற்றுக்கிழமை (15) காலை கடைக்கு அழைத்த ஏற்பாட்டாளர் சசங்க சம்பத் சஞ்சீவ மற்றும் ஆதரவாளர்கள் குழுவினரால் விநியோகிக்கப்பட்ட கையேட்டை ஏற்க அந்த இளைஞன் மறுத்துள்ளார்.
+A person who denied the United People's Power in favor of presidential candidate Sajith Premadasa has been threatened and assaulted by Nawalapitiya SJB organizer Sasanka Sampath Sanjeev.
 
-நாவலப்பிட்டி பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த குறித்த நபர் வைத்தியசாலையிலிருந்து வெளியேறியுள்ளார்.
+The incident has been reported on a CCTV camera in the shopping shop in Nawalapitiya.
 
-எவ்வாறாயினும், தனது எதிர்கால பாதுகாப்பிற்காக பொலிஸ் நிலையத்தில் சம்பவம் தொடர்பில் முறைப்பாடு செய்துள்ளதாக அவர் தெரிவித்துள்ளார்.
+The young man refused to accept the handbook distributed by the organizer Sasanka Sampath Sanjeeva and a team of supporters, who were invited to the shop on Sunday morning.
 
-...
+The person who was admitted to the Nawalapitiya General Hospital has left the hospital.
+
+However, he said that he had lodged a complaint at the police station for his future security.
+
+<iframe width="967" height="544" src="https://www.youtube.com/embed/JX_DcMmYSyU" title="SJB organizer assaults person who refused handbill" frameborder="0" allow="accelerometer;Autoplay;
+
+◼️
 
 [Data](articles/572ac59e.json)
+
+[Extended Data](ext_articles/572ac59e.ext.json)
 
 ---
 
@@ -86,53 +150,89 @@ The conglomerate was set to invest over $440 million in the 20-year agreement fo
 
 [Data](articles/e3c774f1.json)
 
+[Extended Data](ext_articles/e3c774f1.ext.json)
+
 ---
 
-### மூன்று வேட்பாளர்களையும் அதிகாரப்பகிர்வு குறித்த வாக்குறுதியை வழங்கச்செய்திருக்கிறோம்; எந்த வேட்பாளர் வென்றாலும் தீர்வை முன்னிறுத்திப் பணியாற்றுவோம் - சுமந்திரன்
+### We have made all three candidates a promise of devolution;Whenever the candidate wins, we will work on the solution- Sumanthiran
 
 *2024-09-16 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193876) · `ta`
 
-இம்முறை ஜனாதிபதித்தேர்தலில் போட்டியிடும் மூன்று பிரதான வேட்பாளர்களையும் அதிகாரப்பகிர்வு குறித்த வாக்குறுதியைக் கொடுக்க வைத்திருக்கிறோம். எனவே மூவரில் எந்த வேட்பாளர் வென்றாலும், தீர்வினைப் பெற்றுக்கொடுப்பதை முன்னிறுத்திய நடவடிக்கைகளில் தமிழரசுக்கட்சி தொடர்ந்து ஈடுபடும் என இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-இம்முறை ஜனாதிபதித்தேர்தலில் மூவர் பிரதான வேட்பாளர்களாக இருக்கின்றார்கள். அவர்கள் மூவருடனும் நாங்கள் பேச்சுவார்த்தை நடத்தியிருக்கின்றோம். மூவருமே உச்சபட்ச அதிகாரப்பகிர்வினை முன்னிறுத்தி செயலாற்றுவதாகக் கூறியிருக்கின்றார்கள். அதில் ஏனைய வேட்பாளர்களை விட சஜித் பிரேமதாச சற்று அதிகமாகக் கூறியிருக்கிறார். எனவே அவருடன் இந்த இணக்கப்பாடு எட்டப்பட்டிருக்கிறது.
+
+
+Tamil National Alliance promises support to presidential candidates based on devolution commitments. They engaged with three main candidates: Sajith Premadasa, Ranil Wickremesinghe, and Anura Kumara Dissanayake. TNA will back Sajith Premadasa due to his strongest devolution pledge.
+
+🟩
+
+This time we have made the three major candidates contesting the presidential election. The Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that the Tamil National Alliance (TNA) will continue to engage in any of the three candidates.
+
+Three are the main candidates in the presidential election this time. We have negotiated with the three of them. All three have said that the supremacism. Sajith Premadasa has said a little more than the other candidates. So this compliance has been reached with him.
+
+However, the question of what the situation is if Sajith Premadasa is successful in the success of Ranil Wickremesinghe or Anurakumara Dissanayake.. That's a fair question. Our purpose is not to win by him or him. Instead, the aim is to find a permanent political solution for our people.
 
 ...
 
 [Data](articles/fc804fd5.json)
 
+[Extended Data](ext_articles/fc804fd5.ext.json)
+
 ---
 
-### வேன் - முச்சக்கரவண்டி மோதி விபத்து ; நால்வர் காயம்
+### Van - three -wheeler collision accident;Fourth wound
 
 *2024-09-16 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193870) · `ta`
 
-அநுராதபுரம் - கண்டி பிரதான வீதியில் மணிக்கூண்டு கோபுரத்துக்கு அருகில் இடம்பெற்ற விபத்தில் நால்வர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Accident summary: Van crashes into three-wheeler on Anuradhapura-Kandy road, injuring four. Driver and passengers rushed to hospital with serious injuries.
 
-அதிவேகமாக பயணித்த சிறிய ரக வேன் எதிரே அமைக்கப்பட்டிருந்த பொலிஸ் வீதித் தடுப்பு மீது மோதுவதை தவிர்ப்பதற்கு முயன்றபோது வேக கட்டுப்பாட்டை இழந்து எதிரே வந்த முச்சக்கரவண்டியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-விபத்தின்போது, முச்சக்கரவண்டியில் பயணித்த மூவரும் வேன் சாரதியும் பலத்த காயங்களுக்குள்ளான நிலையில் அநுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+Four people were injured in an accident near the Manikkundu tower on the Anuradhapura -Kandy main road, police said.
+
+The accident occurred when a high -speed small van crashed into a three -wheeler when he tried to avoid colliding with a police road.
+
+Police said that the trio and the driver of the three -wheeler were admitted to the Anuradhapura Teaching Hospital with serious injuries.
 
 ◼️
 
 [Data](articles/a421f8cb.json)
 
+[Extended Data](ext_articles/a421f8cb.ext.json)
+
 ---
 
-### පවුලක මාසික ආදායම රු. 100000ක් කරන්න යන දිලිත්
+### Monthly income of a family is Rs. Dilith to do 100000
 
 *2024-09-16 17:57:09* · [`adalk`](https://www.ada.lk/breaking_news/පවුලක-මාසික-ආදායම-රු--100000ක්-කරන්න-යන-දිලිත්/11-411965) · `si`
 
-සෑම පවුලකම අවම මාසික ආදායම රුපියල් ලක්ෂයක් දක්වා විය යුතු බවත් ඒ සඳහා අවශ්‍ය වැඩපිළිවෙල තමා සතු බවත් තරුව ලකුණෙන් ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන ජනාධිපතිධූර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පැවසීය.
+Here's a 200-character summary:
 
-ඒ මහතා මේ බැව් පැවසුවේ මොනරාගල නගරයේ පරණ බස් නැවතුම්පොළ අසලදී  (16) වෙනිදා සවස පැවති ජන හමුවක් අමතමිනි.
 
-"අස්වැසුම,සමෘද්ධිය,ජනසවිය වැනි සහනාධාර වැඩසටහන් රට පුරා දියත් කළත් ඒ කිසිවෙකුගෙන් දිළිඳු ජනතාවගේ ආර්ථිකය උසස් මට්ටමකට පත්වුණේ නැහැ.දේශපාලඥයින් පසුපස ගොස් ඒවා ලබාගැනීමට සිදුවුණා.එවැනි වැඩසටහන් අපි ක්‍රියාත්මක කරන්නේ නැහැ.දේශපාලඥයින් පසුපස ගොස් සහනාධාර ලබාගැනීමේ ක්‍රමය අවසන්කොට ගෞරවාන්විතව ආදායම වැඩිකිරීමේ වැඩපිළිවෙලක් අපි දියත් කරනවා.
 
-ලක්ෂයක අවම ආදායමක් ඉපයීමේ මාර්ග සකස්කොට එය ලක්ෂ පහ දක්වා වැඩිකිරීම අපේ අරමුණයි.රජයට බරක් නොවී ණයනොවී ජීවත්වීමේ මාර්ගය සෑම පවුලකටම ලබාදෙනවා.සමෘද්ධිය ලබාදෙන සමෘද්ධි නිලධාරීන් අද අසරණ වෙලා.
+Family minimum income: 100,000 rupees. Program aims to achieve this through entrepreneurship. Meeting discussed economic issues and government policies. Leaders criticized for tax avoidance and resource mismanagement. Young people urged to support Ranil over Gotabhaya. Electricity abundant but gas usage low due to price hikes. City bills increased by 5%.
+
+🟩
+
+The minimum monthly income of each family should be up to 100,000 rupees and the necessary program is the Entrepreneurship Candidate Entrepreneurship Dilith Jayaraweera.
+
+He was told by a meeting held at the Old Bus Stand at the old bus stand in Moneragala.
+
+"The economicians of the poor have not been able to carry out the government's economic as well.Do it.
+
+Our aim is to set up a cost of earning a minimum income of 100,000.
+
+No salary increment will be given to work in years.
+
+Wellassa area lives in the area.. However, every leader who entered politics in the recent past is to be taxed to the abyss. The EPF EPF continues to lease a large number of employees.
+
+The government that does not borrowed the country's resources that love the people to the country in the next presidential election should not be an unbalanced.. He has no need to protect the country's resources and property.
 
 ...
 
 [Data](articles/b041e30e.json)
+
+[Extended Data](ext_articles/b041e30e.ext.json)
 
 ---
 
@@ -160,21 +260,27 @@ Nanuoya police, who are investigating the accident, may have been involved in th
 
 ---
 
-### செல்லுபடியற்ற சாரதி அனுமதிப்பத்திரத்துடன் காரை செலுத்திய தேரர் கைது
+### Thera arrested for driving a car with an invalid driver's license
 
 *2024-09-16 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/193866) · `ta`
 
-செல்லுபடியற்ற சாரதி அனுமதிப்பத்திரத்துடன் காரை செலுத்திச் சென்ற குற்றச்சாட்டில் தேரர் ஒருவர் கைது செய்யப்பட்டதாக குருணாகல் பொலிஸார் தெரிவித்தனர்.
+Kurunegala police arrest 46-year-old Thera for driving with invalid license. Incident occurred during traffic check near Kandanekederata. Further investigation ongoing.
 
-கைது செய்யப்பட்டவர் மீரிகமவில் உள்ள விகாரை ஒன்றில் வசிக்கும் 46 வயதான தேரர் என பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இவர் கண்டியில் இருந்து குளியாப்பிட்டிய கந்தானேகெதர பிரதேசத்தில் உள்ள விகாரையொன்றை நோக்கி  காரில் பயணித்துக்கொண்டிருக்கும்போது குருணாகல் போக்குவரத்து பொலிஸாரால் சோதனைக்கு உட்படுத்தப்பட்டுள்ளார்.
+The Kurunegala police said that a man was arrested on charges of driving a car with an invalid driver's license.
 
-இதனையடுத்து, தேரர் கைது செய்யப்பட்டுள்ள நிலையில் குருணாகல் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Police said the 46 -year -old Thera was a resident of Vikarai in Mirigama.
+
+He has been raided by the Kurunegala Traffic Police while traveling in a car from Kandanekederata in Kandanekedera in Kuliyapitiya.
+
+Following this, the Kurunegala police are conducting further investigations as Thera has been arrested.
 
 ◼️
 
 [Data](articles/5b6788c9.json)
+
+[Extended Data](ext_articles/5b6788c9.ext.json)
 
 ---
 
@@ -414,19 +520,25 @@ Additionally, he also promised to transform all 361 schools in the Batticaloa Di
 
 ---
 
-### சட்டவிரோதமாக மணல் ஏற்றிச் சென்றவர் கைது
+### Arrest
 
 *2024-09-16 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193850) · `ta`
 
-அனுமதிப்பத்திரமின்றி சட்டவிரோதமான முறையில் பலாங்கொடையில் இருந்து பொகவந்தலாவை நோக்கி டிப்பர் வாகனத்தில் மணல் ஏற்றிச் சென்ற  சந்தேக நபரொருவர் இன்று திங்கட்கிழமை (16)  கைது செய்யப்பட்டுள்ளதாக பொகவந்தலாவை பொலிஸார் தெரிவித்தனர்.
+SUSPECT ARRESTED: Bogawantalawa police detained a man transporting sand illegally in a tipper truck from Balangoda to Bogawantalawa. Legal action will be pursued at Hatton Magistrate's Court.
 
-பொகவந்தலாவை பொலிஸ் நிலையத்திற்கு அருகில் சந்தேகத்திற்கு இடமான முறையில் பயணித்த டிப்பர் வாகனம் ஒன்றில் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபருக்கு எதிராக ஹட்டன் நீதவான் நீதிமன்றில் சட்ட நடவடிக்கை எடுக்கவுள்ளதாக பொகவந்தலாவை பொலிஸார் தெரிவித்தனர்.
+Bogawantalawa police said that a suspect who was carrying sand in a tipper vehicle in a tipper vehicle from Balangoda to Bogawantalawa without permits was arrested on Monday (16).
+
+The suspect has been arrested in a suspicious tipper vehicle near the Bogawantalawa police station.
+
+Bogawantalawa police said that legal action would be taken at the Hatton Magistrate's Court against the arrested suspect.
 
 ◼️
 
 [Data](articles/6c192a7b.json)
+
+[Extended Data](ext_articles/6c192a7b.ext.json)
 
 ---
 
@@ -2275,51 +2387,5 @@ However, the former American president had no casualties and the security person
 [Data](articles/083225aa.json)
 
 [Extended Data](ext_articles/083225aa.ext.json)
-
----
-
-### Person injured in Badowita shooting succumbs to injuries
-
-*2024-09-16 06:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102004/person-injured-in-badowita-shooting-succumbs-to-injuries) · `en`
-
-The 31-year-old person injured and admitted to the Kalubowila Hospital, after he was shot last night (15) at Badowita in Dehiwala, has succumbed to his injuries after being transferred to the Colombo National Hospital, the police said.
-
-Police said that the shooting had been carried out by two unidentified men who had arrived on a motorcycle at around 08.30 p.m. last night.
-
-The 31-year-old victim, identified as Tharindu Madushan Suwaris, was a resident of the Badowita area, according to police.
-
-◼️
-
-[Data](articles/0a795399.json)
-
-[Extended Data](ext_articles/0a795399.ext.json)
-
----
-
-### Man shot dead in Badwita
-
-*2024-09-16 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201063) · `si`
-
-Man fatally shot in Badwita, Mount Lavinia. Victim, 31, died after being rushed to hospitals. Two suspects on motorcycle fled scene. Police investigating incident.
-
-🟩
-
-The person who was injured in the shooting in Badowita, Mount Lavinia was killed.
-
-Police said that two persons from a motorcycle have been shot dead yesterday (15).
-
-The victim was shot dead while in front of his house in front of the four Surface Phase.
-
-The victim was rushed to the Kalubowila hospital for treatment and was admitted to the Colombo National Hospital for further treatment.
-
-The deceased has been a 31 year old resident of the Mount Lavinia, Badtota.
-
-The cost of the shooting has not yet been revealed and the Dehiwala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/93ee6f4f.json)
-
-[Extended Data](ext_articles/93ee6f4f.ext.json)
 
 ---

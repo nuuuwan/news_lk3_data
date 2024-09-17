@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 12:38:15**
+As of **2024-09-17 12:56:01**
 
 ## Newspaper Stats
 
-*Scraped **44,307** Articles*
+*Scraped **44,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,216
 tamilmirrorlk | 5,785
 virakesarilk | 7,057
-adaderanasinhalalk | 7,586
+adaderanasinhalalk | 7,587
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,305 (100.0%) of 44,307 articles have been extended.
+44,308 (100.0%) of 44,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Myanmar's deceased will go up
+
+*2024-09-17 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201111) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Myanmar: Yagi's impact led to 226 deaths from the storm. Additionally, over 500 people died in Vietnam, Thailand, and Laos due to accidents related to the disaster.
+
+🟩
+
+The influence of 'Yagi' was over 200 deceased to 200 Myanmar.
+
+Accordingly, 226 persons have been killed after the affected affected by the storm.
+
+Wetnam, Vietnam, Thailand, Thailand and Via Thailand has been killed and over 500 people have died of the accidents.
+
+◼️
+
+[Data](articles/950404b6.json)
+
+[Extended Data](ext_articles/950404b6.ext.json)
+
+---
 
 ### Police warn against circulating misleading videos on social media
 
@@ -80,19 +106,25 @@ This was reported as the second attempt to kill Trump in three months.
 
 ---
 
-### எழுதியவர் சிக்கினார்
+### The author is trapped
 
 *2024-09-17 11:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எழுதியவர்-சிக்கினார்/175-343888) · `ta`
 
-அத்துருகிரியவில் பச்சை குத்தும் நிலையமொன்றின் திறப்பு விழாவுக்கு வந்த கிளப் வசந்த என அழைக்கப்படும் வர்த்தகர் சுரேந்திர வசந்த பெரேரா உள்ளிட்ட இருவரை சுட்டுக் கொன்று நால்வரை காயப்படுத்திய சம்பவம் தொடர்பில் மற்றுமொரு சந்தேக நபர் கைது செய்யப்பட்டதாக தெரியவந்துள்ளது .
+Author trapped. Suspect arrested for shooting, injuring 4, including businessman Surendra Vasantha Perera. 24-year-old assistant from Aluthgama arrested. Police found KPI bullets. Suspects taken to Kalpotha Road, Athurugiriya.
 
-வர்த்தக நிலையமொன்றில் உதவியாளராகப் பணியாற்றி வந்த அளுத்கம தர்கா நகர் பகுதியைச் சேர்ந்த 24 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-குறித்த நபர் துப்பாக்கிச் சூட்டுக்கு பயன்படுத்தப்பட்ட தோட்டாக்களில் கேபிஐ (KPI) என எழுதியுள்ளார் எனவும் சந்தேகநபர்களை அத்துருகிரிய, கல்பொத்த வீதி பகுதிக்கு காரில் ஏற்றிச் சென்றுள்ளதாகவும்  பொலிஸார் தெரிவித்தனர் .
+Another suspect has been arrested in connection with the shooting and injuring four persons, including a businessman, Surendra Vasantha Perera, who was known as Club Vasantha, who came to the inauguration of a tattooing station in Athurugiriya.
+
+A 24 -year -old man from Aluthgama, who was working as an assistant at a business center, has been arrested.
+
+Police said that the person has written the KPI (KPI) in the bullets used for the shooting and the suspects have been carrying the suspects to Kalpotha Road, Athurugiriya.
 
 ◼️
 
 [Data](articles/66f93ff3.json)
+
+[Extended Data](ext_articles/66f93ff3.ext.json)
 
 ---
 
@@ -1088,27 +1120,39 @@ At times, in the Western-mountains of the Central Mountains, the North, North Ce
 
 ---
 
-### අධික වෙහෙස නිසා  දේශපාලනඥයින්  'Burnout'  විය හැකිද ? එය සැඟවිය යුතු තත්ත්වයක් ද?
+### Can politicians be "burnoT"? Is it a condition that should hide it?
 
 *2024-09-17 06:06:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2y2zxppp2o) · `si`
 
-අධික වෙහෙස නිසා  දේශපාලනඥයින්  'Burnout'  විය හැකිද ? එය සැඟවිය යුතු තත්ත්වයක් ද?
+Here's a 200-character summary:
 
-මෙවර ජනාධිපතිවරණ ප්‍රචාරක සමයේදී  ඇතැම් අපේක්ෂකයින් අධික ලෙස විඩාපත්  බවට පත්වීම, එසේම ඇතැම් අපේක්ෂකයින් විඩාපත් වුවත් ඔවුන්ට වැඩ කිරීමට ඇති  හැකියාව මෙන්ම ඇතැම් අපේක්ෂයින්ට එසේ වැඩ කිරීමට ඇති නොහැකියාව පිළිබඳව සමාජ මාධ්‍ය අවකාශ තුළ සැලකිය යුතු මට්ටමේ අවධානයට ලක්විය.
 
-මනෝ වෛද්‍ය විශේෂඥයින්  පෙන්වා දෙන්නේ ඒකාකාරී කාර්යයක දීර්ඝ කාලයක් අධික ලෙස යෙදී සිටීමෙන් 'Burnout' තත්ත්වයට පත්විය හැකි බව යි. මෙම තත්ත්වය ඕනෑ ම වෘත්තියකට අදාළ වේ.
 
-දේශපාලනඥයින්ට ද මෙම තත්ත්වය ඇති විය හැකි අතර, ලෝක දේශපාලනය තුළ ඊට උදාහරණ ද පවතී.
+Politicians can experience burnout like any profession. It's not something to hide. Burnout is a long-term stress condition affecting mental and physical health. Experts suggest changing lifestyles and seeking help when needed. Some high-profile politicians have stepped down due to burnout concerns.
 
-අධික ලෙස ඒකාකාරීව වැඩ කිරීමෙන් Burnout තත්ත්වයට පත්විය හැකි බව විශේෂඥ මනෝ වෛද්‍ය රූමි රූබන් පවසයි.
+🟩
 
-ඔහු පෙන්වා දුන්නේ, දේශපාලනඥයින්ට පමණක් නොව ඕනෑ ම රැකියාවක නිරත වන පුද්ගලයෙකුට මෙම රෝගී තත්ත්වය ඇති වීමේ හැකියාවක් පවතින බව ය.
+Can politicians be "burnoT"? Is it a condition that should hide it?
 
-“මේක රෝගී තත්ත්වයක්. ඕන ම කෙනෙකුට හැදෙන්න පුළුවන්. ඒ නිසා මේක හංගන්න අවශ්‍ය නෑ. අධික ලෙස වැඩ කිරීම නිසා ඇති වන අධික වෙහෙස නිසා තමයි මේ තත්ත්වයට පත් වෙන්නේ,” වෛද්‍ය රූමි රූබන් පැවසීය.
+This time some candidates to become overly excessive exhausting tipple during presidential propaganda, and some candiates, and some candentation, and some candentally attended significant attention to social media spaces.
+
+Psychologists point out that the 'burnoT' can become 'burnort' in a uniform work. This situation applies to any profession.
+
+There is also an illustration of politicians in the world politics.
+
+Specialist psychiatric, psychiatric, says it is possible to be burned by working hard.
+
+He pointed out that there is a possibility of this disease, not only for politicians but also a job person.
+
+"This is a condition. Anyone can make. So this does not need to hide this. "Dr. Rumi has said," Dr. Rumi has said.
+
+The World Health Organization says that 'burn-out is a disease due to the long-term stresses in the unable to manage success.
 
 ...
 
 [Data](articles/ba21dbf3.json)
+
+[Extended Data](ext_articles/ba21dbf3.ext.json)
 
 ---
 
@@ -2407,39 +2451,5 @@ Anura Kumara Dissanayake made these comments addressing a popularity in the Nawa
 [Data](articles/1451de3f.json)
 
 [Extended Data](ext_articles/1451de3f.ext.json)
-
----
-
-### The 25th anniversary of the massacre of Mantu was emotionally featured
-
-*2024-09-16 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/193880) · `ta`
-
-Here's a 200-character summary:
-
-
-
-25th anniversary commemorated massacre Mantu Mullaitivu Pudukkudiyiruppu 24 Tamil innocents killed Sri Lankan Air Force strikes September 15, 1999 Thai Tamil Congress Organization Mother Tamil Nadu event Manduvil junction survivors honored
-
-🟩
-
-Mullaitivu - Pudukkudiyiruppu, the 25th anniversary event of the massacre of Manduvil was held on Sunday (15).
-
-Especially on September 15, 1999, 24 innocent Tamil people were assassinated by Sri Lankan Air Force air strikes in Mantuvil junction.
-
-The 24th anniversary of the assassinated innocent Tamil people was carried out by the Thai Tamil Congress Organization and the Mother of Tamil Nadu.
-
-The event was carried out at the Manduvil junction premises where the assassination incident took place.
-
-This commemorative event was launched by the public.. During the murder, the relationships of the victims lit up the public and started the event.
-
-During the massacre, for the images of the survivors, the relationships of the survivors were dressed in garlands, paid their tribute to the flower, and paid their respects.
-
-S. Sathiyaruban, Founder of the Thai Tamil Council Organization, Tamiyat Tamil Congress Organization executives, relations of survivors and civilians during the assassination.
-
-◼️
-
-[Data](articles/2129495f.json)
-
-[Extended Data](ext_articles/2129495f.ext.json)
 
 ---

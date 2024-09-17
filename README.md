@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 06:22:33**
+As of **2024-09-17 07:01:15**
 
 ## Newspaper Stats
 
-*Scraped **44,244** Articles*
+*Scraped **44,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 5,210
 tamilmirrorlk | 5,771
 virakesarilk | 7,051
-adaderanasinhalalk | 7,572
+adaderanasinhalalk | 7,573
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,242 (100.0%) of 44,244 articles have been extended.
+44,244 (100.0%) of 44,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### අදත් වැසිවාර කිහිපයක්
+
+*2024-09-17 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201097) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් ව ඇත්තේ නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට, මොනරාගල සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-45) ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/15c5bb1b.json)
+
+---
 
 ### Presidenshel elecshen gide
 
@@ -78,41 +94,57 @@ Meanwhile, it is a special feature that some trade union leaders of the National
 
 ---
 
-### ’சங்குக்கு வாக்களித்து தமிழரின் சங்கையை காப்பாற்றுவோம்’
+### Vote for the telephone and save the Tamil community
 
 *2024-09-17 02:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சங்குக்கு-வாக்களித்து-தமிழரின்-சங்கையை-காப்பாற்றுவோம்/175-343873) · `ta`
 
-தமிழர்களாகிய நாம் அனைவரும் சங்குக்கு வாக்களித்து எமது சங்கையை காப்பாற்றுவோம் என்று இலங்கை தமிழரசுக் கட்சியின் காரைதீவு பிரதேச தலைவரும், முன்னாள் தவிசாளருமான கலாநிதி கிருஸ்ணபிள்ளை ஜெயசிறில் தெரிவித்தார்.
+Tamils urged to vote for Sangam to protect their association. Leader Dr. Krishnapillai emphasizes voting importance. Campaign focuses on improving Tirukovil area. Criticism of previous government's handling of floods and economic issues.
 
-திருக்கோவில் மண்டானைப் பிரதேசத்தில் இடம் பெற்ற பொது வேட்பாளருக்கான பிரச்சாரக் கூட்டத்தில் உரையாற்றிய போது மேற்கண்டவாறு  தெரிவித்தார்.
+🟩
 
-தமிழ் பொது வேட்பாளர் பாக்கிய செல்வம் அரியநேத்திரனுக்கு ஆதரவளிக்கும் இந்நிகழ்வு மண்டானை பிரதேசத்தில் ஞாயிற்றுக்கிழமை (15)  நடைபெற்றது.
+"All of us as Tamils ​​will vote for Sangam and save our association," said Dr. Krishnapillai Jayasiril, the leader and former leader of the Sri Lanka Tamil National Party.
 
-கடந்த எட்டு ஜனாதிபதிக்கு வாக்கு போட்டு தமிழர்கள் கண்ட பலன் என்ன?ஆறு முறை பிரதம மந்திரியாக இருந்த ரணில் இதுவரைக்கும் தமிழருக்கென்று ஆற்றிய பணி என்ன? திருக்கோவில் பிரதேசத்தை முன்னேற்றுவோம் என்று கூறி பலர் வந்தார்கள் என்றார்.
+He was speaking at a campaign meeting for the common candidate in Mandanai area in Tirukovil.
 
-ரணில் அழைத்தார் சென்றேன் என்று கூறி தந்தையைக் கொன்றவனுடன் கைகோர்த்து நிற்கும் அவலக் காட்சிகளை காண்கிறோம். கோடிக்காக ரணில் சஜித் பின்னால் செல்லும் கூட்டத்தை இன்னும் தமிழர்கள் நம்பலாமா? என்றும் கேள்வி எழுப்பினார்.
+The event was held in Mandanai area on Sunday (15) in support of Tamil general candidate Pakistani Selvam Ariyanethran.
 
-...
+What is the benefit of the Tamils ​​voting for the last eight president?Many people came to say that they will improve the Tirukovil area.
+
+We see the scenes of the man who killed his father claiming that he went to Ranil.. Can Tamils ​​still believe the crowd that is going on behind Ranil Sajith for crores?He questioned.
+
+If the floods come here we will come. But have those who come in white red vehicles today come here?Can you see them after the election?Not. But buy what they give. Put your votes to the sang. Mingle. We will save the association.
+
+◼️
 
 [Data](articles/08b1196d.json)
 
+[Extended Data](ext_articles/08b1196d.ext.json)
+
 ---
 
-### ’பிள்ளையானை கைது செய்யவேண்டும்’
+### Arrest
 
 *2024-09-17 02:18:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையானை-கைது-செய்யவேண்டும்/175-343872) · `ta`
 
-ஈஸ்டர் குண்டு தாக்குதல் தொடர்பான பிரதான சூத்திரதாரியினையும் , அதனோடு தொடர்புடைய சகலரையும் கைது செய்து நீதியை நிலைநாட்டுவதோடு , பிள்ளையான் போன்ற கொலையாளிகளும் கைது செய்ய வேண்டுமென வலியுறுத்தப்பட்டது.
+Summarized: Calls for arrests of key figures involved in Easter bombings and other crimes. Promises to address Tamil issues and complete unfinished projects from previous administration.
 
-மட்டக்களப்பு மாவட்ட இலங்கை தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் இரா சாணக்கியன் தலைமையில் களுவாஞ்சிக்குடியில் அமைந்துள்ள அவரது அலுவலகத்தில் ஞாயிற்றுக்கிழமை (15) நடைபெற்ற கூட்டத்திலேயே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-அங்கு கருத்து தெரிவித்த பாராளுமன்ற உறுப்பினர் இரா. சாணக்கியன் மட்டக்களப்பு மாவட்டத்தில் குறிப்பாக மயிலத்தமடு மாதவனை பண்ணையாளர் பிரச்சினைக்கான தீர்வினையும் , பிள்ளையான் போன்ற கொலையாளிகளும் கைது செய்ய வேண்டும் என்றார்.
+It was urged to arrest the main mastermind of the Easter bomb attack and to the arrest of justice and establish justice, and the killers like Pillaiyan should be arrested.
 
-அத்துடன், அம்பாறை கல்முனை வடக்கு பிரதேச செயலகத்திற்கான தீர்வினையும் ,வாகரை இல்மனைற் அகழ்வுடன் தொடர்புடைய காணி திருடர்கள் , சட்டவிரோத மணல் கடத்தல் கார கும்பல் உட்பட பல கள்வர்கள் , மட்டக்களப்பிலிருந்து அகற்றப்பட வேண்டும் எனவும் இவ்வாறான விஷமிகள் கைது செய்யப்பட வேண்டும் என்றார்.
+He was speaking at a meeting held at his office in Kaluwanchikudi on Sunday (15) under the leadership of the Sri Lanka Tamil National Alliance (TNA) parliamentarian of the Batticaloa district.
+
+Member of Parliament. In the Batticaloa district, especially Mayilaththamadu Madhavan, the solution to the farmer issue and the killers like Pillaiyan should be arrested.
+
+He also said that such poisons should be arrested for the removal of a solution to the Ampara Kalmunai North Divisional Secretariat, land thieves associated with the excavation of Vaharai and the illegal sand smuggling gang.
+
+United People's Party's presidential candidate Sajith Premadasa has promised that the permanent political solution for the Tamils ​​in the North and East and all the demands made by such killers and Chanakyan will be established in their rule.
 
 ...
 
 [Data](articles/3df5c950.json)
+
+[Extended Data](ext_articles/3df5c950.ext.json)
 
 ---
 
@@ -2309,27 +2341,5 @@ The Commissioner General of Examinations added that this year's scholarship exam
 [Data](articles/a7c890cd.json)
 
 [Extended Data](ext_articles/a7c890cd.ext.json)
-
----
-
-### Ranil says that IMF has accepted his program
-
-*2024-09-16 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201076) · `si`
-
-Ranil Wickremesinghe announces IMF program acceptance at rally. Promises economic growth, export focus, and future stability. Criticizes opponents Sajith and Anura over IMF stance and policies. Emphasizes need for long-term vision over short-term gains.
-
-🟩
-
-Ranil Wickremesinghe says the International Monetary Fund has accepted its program.
-
-He was speaking at a 'Ranil' rally held yesterday (15) at the Horana People's Stadium.
-
-Ranil Wickremesinghe won a warm welcome.
-
-...
-
-[Data](articles/4cf9fe4f.json)
-
-[Extended Data](ext_articles/4cf9fe4f.ext.json)
 
 ---

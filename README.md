@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 15:22:23**
+As of **2024-09-17 15:38:08**
 
 ## Newspaper Stats
 
-*Scraped **44,338** Articles*
+*Scraped **44,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,59 @@ dailymirrorlk | 4,733
 adaderanalk | 5,220
 tamilmirrorlk | 5,788
 virakesarilk | 7,071
-adaderanasinhalalk | 7,592
+adaderanasinhalalk | 7,593
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,337 (100.0%) of 44,338 articles have been extended.
+44,338 (100.0%) of 44,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### හෙට තරගයට එන ශ්‍රී ලංකා කණ්ඩායම මෙන්න
+### අපිට ඕනේ ඔබ පැතූ ඒ වෙනස ලබාදෙන්න - දිලිත්
+
+*2024-09-17 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201117) · `si`
+
+ජනතාව ප්‍රාර්ථනා කළ වෙනස ඇති කිරීම සඳහා මෙම අවස්ථාව ප්‍රයෝජනයට ගන්නැයි සර්වජන අපේක්ෂක දිලිත් ජයවීර මහතා පැවසීය.
+
+"මේ රටේ දූෂිත දේශපාලනය අවසන් විය යුතුයි. මේ රටේ අහිංසක ජනතාවට තවදුරටත් දුක් දෙන්න බැහැ. ඒ වෙනුවෙන් ඔබ ඉල්ලුවා වෙනසක්. ඒ නිසා ඔබ කිව්වා 225ම එපා කියලා."
+
+"අපි දේශපාලකයින්ට උදව් කළේ කවදා හරි මේ රට හදාගන්න පුළුවන් කියලා. නමුත් ඔවුන් දිගින් දිගටම අපිව පාවා දුන්නා."
+
+"මම දේශපාලනයට ආවේ වත්කම් ප්‍රකාශයක් දීලා. අනෙක් අපේක්ෂකයොත් වත්කම් ප්‍රකාශ දීලා තියෙනවා. පළවෙනි තුන්දෙනාටම රුපියල් ලක්ෂ 2ටත් අඩුයි ආදායම' ලක්ෂ 2යි තුනයි. අන්තිම දුක්ඛිත තත්ත්වයක්."
+
+"අපි මේ අලුත් දේශපාලනය කරන්නේ අපි කියන හැම වචනයේම වගකීම අරගෙන. ඔබ ඒ පැතූ ශ්‍රී ලංකාව නිර්මාණය වෙන ආකාරය අපේ උපාය මාර්ගික වැඩපිළිවෙළ තුළ සඳහන් කර තිබෙනවා. ඒකට විරුද්ධව අද කාටවත් කිසිම වචනයක් කියන්න බැහැ."
+
+"ඒ නිසා මේ රටට ආදරය කරන ශ්‍රී ලාංකිකයින් එකතු කරගෙන අපි ආරම්භ කළා ගමනක්. අපිට ඕන ඔබ පැතූ ඒ වෙනස ලබාදෙන්නට."
+
+"මේ රට හැරයන තරුණයින්ගේ ප්‍රශ්නවලට පිළිතුරු දෙන වැඩපිළිවෙළක් අප සතුයි."
+
+...
+
+[Data](articles/5c24be00.json)
+
+---
+
+### Here is Sri Lanka tomorrow
 
 *2024-09-17 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201116) · `si`
 
-ශ්‍රී ලංකාව සහ නවසීලන්තය අතර පැවැත්වෙන තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලිය සඳහා ශ්‍රී ලංකා කණ්ඩායම නම්කර තිබේ.
+Sri Lanka vs New Zealand Test series: Sri Lankan team announced for two matches starting tomorrow at Galle International Cricket Stadium.
 
-එම ටෙස්ට් තරග ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී පැවැත්වෙන අතර පළමු තරගය හෙට (18) ආරම්භ වෙයි.
+🟩
+
+The Sri Lankan team has been named for the two-match Test series between Sri Lanka and New Zealand.
+
+Tests will be held at Galle International Cricket Stadium and the first match begins tomorrow (18).
 
 ◼️
 
 [Data](articles/341e7927.json)
+
+[Extended Data](ext_articles/341e7927.ext.json)
 
 ---
 
@@ -2543,29 +2573,5 @@ What makes this all the more intriguing is that M.D. Banda was a rare politician
 [Data](articles/0705a2c4.json)
 
 [Extended Data](ext_articles/0705a2c4.ext.json)
-
----
-
-### Mega scene with Gypsies …Down Under
-
-*2024-09-16 23:00:00* · [`islandlk`](http://island.lk/mega-scene-with-gypsies-down-under/) · `en`
-
-The Gypsies is one band that has the ability, and the talent, to cater to the musical tastes of a wide and varied audience and they proved it in a mega way during their recent tour of Australia, taking in Perth, Sydney and Adelaide.
-
-Surprisingly, Melbourne wasn’t included, and that’s a happening place where Sri Lankans are concerned, but leader Piyal Perera has a valid explanation.
-
-“We didn’t take in Melbourne because we were there in February, this year, and we generally like to keep a gap of about one year before we return.”
-
-The concerts in Perth, Sydney and Adelaide were well patronised – in fact, it was ‘sold out’ at all three venues.
-
-On social media, this came up regarding the band’s concert in Perth:
-
-“Sold Out! The Gypsies are ready to bring the house down in Perth on 31st August at the Indian Community Hall! Get ready for an unforgettable night of music and dance. Thank you to all our fans for your incredible support!”
-
-...
-
-[Data](articles/e19e2e96.json)
-
-[Extended Data](ext_articles/e19e2e96.ext.json)
 
 ---

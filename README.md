@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 02:38:08**
+As of **2024-09-18 02:56:42**
 
 ## Newspaper Stats
 
-*Scraped **44,414** Articles*
+*Scraped **44,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 428
 colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,688
-dailyftlk | 2,945
+dailyftlk | 2,946
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,412 (100.0%) of 44,414 articles have been extended.
+44,414 (100.0%) of 44,415 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,6 +60,8 @@ The road to recovery has been difficult, but significant progress has been made 
 
 [Data](articles/c4e49f0a.json)
 
+[Extended Data](ext_articles/c4e49f0a.ext.json)
+
 ---
 
 ### China confident bilateral relations with Sri Lanka will have brighter future
@@ -73,6 +75,8 @@ Following are remarks by Ambassador Qi Zhenhong at a meeting with media journali
 ...
 
 [Data](articles/779e4a61.json)
+
+[Extended Data](ext_articles/779e4a61.ext.json)
 
 ---
 
@@ -139,6 +143,20 @@ Accordingly, agricultural operations have grown by 1.7 per cent, industrial acti
 [Data](articles/aae2f010.json)
 
 [Extended Data](ext_articles/aae2f010.ext.json)
+
+---
+
+### Woe of new President is not just taking baby across coir suspension bridge but complying with binding targets of ETA
+
+*2024-09-18 01:27:04* · [`dailyftlk`](https://www.ft.lk/columns/Woe-of-new-President-is-not-just-taking-baby-across-coir-suspension-bridge-but-complying-with-binding-targets-of-ETA/4-766810) · `en`
+
+Sri Lankans are to elect a new President on 21 September 2024 to rule the country for the next five years. Whether it is the confirmation of the incumbent interim President Ranil Wickremesinghe in the post or the election of one of the two frontrunners to presidency, it is the economy stupid that the new President should tackle immediately. That is because the economy is not stable as claimed by the incumbent President in his election campaign.
+
+Ranil’s aphorism about Grusha of The Caucasian Chalk Circle crossing a suspension bridge
+
+...
+
+[Data](articles/08b0699f.json)
 
 ---
 
@@ -2473,31 +2491,5 @@ Bibila police are conducting further investigations into the incident.
 [Data](articles/cea1438b.json)
 
 [Extended Data](ext_articles/cea1438b.ext.json)
-
----
-
-### Myanmar's deceased will go up
-
-*2024-09-17 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201111) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Myanmar: Yagi's impact led to 226 deaths from the storm. Additionally, over 500 people died in Vietnam, Thailand, and Laos due to accidents related to the disaster.
-
-🟩
-
-The influence of 'Yagi' was over 200 deceased to 200 Myanmar.
-
-Accordingly, 226 persons have been killed after the affected affected by the storm.
-
-Wetnam, Vietnam, Thailand, Thailand and Via Thailand has been killed and over 500 people have died of the accidents.
-
-◼️
-
-[Data](articles/950404b6.json)
-
-[Extended Data](ext_articles/950404b6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 02:08:33**
+As of **2024-09-18 02:22:30**
 
 ## Newspaper Stats
 
-*Scraped **44,411** Articles*
+*Scraped **44,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 428
 colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,688
-dailyftlk | 2,942
+dailyftlk | 2,944
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
@@ -26,11 +26,39 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,408 (100.0%) of 44,411 articles have been extended.
+44,411 (100.0%) of 44,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Sri Lanka’s next leader: can make or break the nation
+
+*2024-09-18 02:03:38* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-next-leader-can-make-or-break-the-nation/4-766815) · `en`
+
+As Sri Lanka prepares for its upcoming Presidential election, the stakes have never been higher. In 2022, the country faced an unprecedented economic crisis that brought the nation to a standstill, marked by fuel shortages, soaring inflation, and widespread protests. Since then, the country has taken steps toward stabilising the economy, but much remains to be done. This election is not just about choosing a leader but about securing the nation’s future and ensuring continued recovery from the devastating economic collapse.
+
+The road to recovery has been difficult, but significant progress has been made since 2022, largely supported by the International Monetary Fund (IMF) program. However, Sri Lanka remains vulnerable, and the next president must navigate the country through this challenging period with a steady hand. Voters, therefore, must consider candidates who possess the qualities necessary to complete the recovery process and set the nation on a path to sustainable growth.
+
+...
+
+[Data](articles/c4e49f0a.json)
+
+---
+
+### China confident bilateral relations with Sri Lanka will have brighter future
+
+*2024-09-18 01:57:33* · [`dailyftlk`](https://www.ft.lk/opinion/China-confident-bilateral-relations-with-Sri-Lanka-will-have-brighter-future/14-766814) · `en`
+
+The next five years will be significant for China, as the session has explicitly requested that “The reform tasks laid out in this resolution shall be completed by the time the People’s Republic of China celebrates its 80th anniversary in 2029”. Sri Lanka is also entering a pivotal five-year period with the Presidential election scheduled for this year. Both countries are at a new starting point, which heralds greater opportunities for cooperation
+
+Following are remarks by Ambassador Qi Zhenhong at a meeting with media journalists in Port City Colombo on 12 September
+
+...
+
+[Data](articles/779e4a61.json)
+
+---
 
 ### System change and economic stabilisation
 
@@ -43,6 +71,8 @@ The success of NPP’s entire economic trajectory hinges on reforming governance
 ...
 
 [Data](articles/36e47c13.json)
+
+[Extended Data](ext_articles/36e47c13.ext.json)
 
 ---
 
@@ -69,6 +99,8 @@ Salary increases and other delectable benefits to the naive uninformed electorat
 ...
 
 [Data](articles/e7fd47d1.json)
+
+[Extended Data](ext_articles/e7fd47d1.ext.json)
 
 ---
 
@@ -107,6 +139,8 @@ There are a number of questions to ask about the current trajectory, but we must
 ...
 
 [Data](articles/42ef306b.json)
+
+[Extended Data](ext_articles/42ef306b.ext.json)
 
 ---
 
@@ -2471,53 +2505,5 @@ Therefore, the police have requested the public to refrain from posting and spre
 [Data](articles/413fbbb3.json)
 
 [Extended Data](ext_articles/413fbbb3.ext.json)
-
----
-
-### Hirikattu Oya
-
-*2024-09-17 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/193910) · `ta`
-
-Young swimmer dies in Hirikattu Oya. Body sent to Balangoda Hospital for autopsy. Samanalawewa police investigating incident.
-
-🟩
-
-Samanalawewa police said that a young man who was swimming in the Hirikattu Oya, which belongs to the Samanalawewa police division, died in the water.
-
-The body of the deceased youth has been placed at the Balangoda Hospital for autopsy and further investigations are being carried out by the Samanalawewa police.
-
-◼️
-
-[Data](articles/549e4dec.json)
-
-[Extended Data](ext_articles/549e4dec.ext.json)
-
----
-
-### Death threatens to Sumanaratana Thero
-
-*2024-09-17 11:46:46* · [`adalk`](https://www.ada.lk/breaking_news/සුමනරතන-හිමියන්ට-මරණ-තර්ජනලු/11-411977) · `si`
-
-Here's a 200-character summary:
-
-
-
-Threats against Sumanaratana Thero over presidential election politics. Death threats from Sri Manhathriama in Batticaloa. Eastern Province issues highlighted. Thero requests protection due to ongoing investigations into death threats.
-
-🟩
-
-The political ideologies of the presidential election have stated that death is not known and not to proclaim his politics to the media and said that death has been threatened by the Sri Manhathriama, Batticaloa.
-
-The Eastern Province, Tamil, Muslim and people's problems and problems have been shown and the people of the province have always made the people of the province and the people of the Eastern Province
-
-Ampitiya Sumanarata Temple, Batticaloa Sumanarata Temple, who is constantly exposed by the casualties that should be selected and that they will continue to be held in the matter.At a press conference held on the 17th.
-
-The Ampara Sumanarathana Thera said that he had complained to the Batticaloa police and had complained to the Batticaloa police.
-
-...
-
-[Data](articles/78e61a15.json)
-
-[Extended Data](ext_articles/78e61a15.ext.json)
 
 ---

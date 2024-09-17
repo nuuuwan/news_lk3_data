@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 07:21:53**
+As of **2024-09-17 07:45:28**
 
 ## Newspaper Stats
 
-*Scraped **44,246** Articles*
+*Scraped **44,258** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 377
 bbccomsinhala | 426
-colombotelegraphcom | 439
-islandlk | 2,598
+colombotelegraphcom | 440
+islandlk | 2,606
 economynextcom | 2,684
 dailyftlk | 2,935
-adalk | 4,085
+adalk | 4,086
 dailymirrorlk | 4,733
 adaderanalk | 5,210
-tamilmirrorlk | 5,771
+tamilmirrorlk | 5,773
 virakesarilk | 7,051
 adaderanasinhalalk | 7,574
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 7,574
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,246 (100.0%) of 44,246 articles have been extended.
+44,251 (100.0%) of 44,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Proclaiming the curfew
+
+*2024-09-17 07:13:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஊரடங்கு-சட்டம்-பிரகடனம்/50-343875) · `ta`
+
+Papua New Guinea: Tribal conflicts over gold mine escalate. Security forces granted special powers. Liquor sales banned. Night-time curfew imposed.
+
+🟩
+
+In Papua New Guinea, there have been massive clashes over the controversial gold mine between two tribal groups.
+
+Special powers have been granted to the security forces to bring in control of violent conflict.
+
+In addition, the sale of liquor has been severely banned and the night -time curfew has been declared. (A)
+
+◼️
+
+[Data](articles/8cd1f4f1.json)
+
+[Extended Data](ext_articles/8cd1f4f1.ext.json)
+
+---
+
+### 7 years from voting for counterfeit voting
+
+*2024-09-17 06:54:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ள-வாக்குப்-போட்டால்-7-ஆண்டுகள்-வாக்களிக்க-தடை/175-343874) · `ta`
+
+Elections Commission warns: Voting for counterfeit ballots punishable by 1-year jail, Rs. 2 lakh fine, or both. Counterfeit voters face 7-year ban on voting and registration.
+
+🟩
+
+According to the Elections Commission, the Elections Commission has stated that those who vote for the presidential election on the 21st of this month will be sentenced to one year in prison and a penalty of Rs.
+
+Many parties have filed allegations to the Elections Commission that some may seek to make more counterfeit votes in the presidential election.
+
+Additional Commissioner of the Commission, Chintaka Gularatne, said that the people who voted for counterfeit could be severely punished through the High Court.
+
+Accordingly, for those who vote for counterfeiters can impose a penalty of Rs 2 lakh. Or can impose a imprisonment for 12 months. Or with a fine of two lakhs, can be sentenced. According to the Act of 1981, the counterfeit voters were sentenced to 500 rupees.
+
+However, the amount was increased to Rs.
+
+...
+
+[Data](articles/25b34a95.json)
+
+[Extended Data](ext_articles/25b34a95.ext.json)
+
+---
 
 ### Buddhism Poya today is today
 
@@ -354,6 +402,20 @@ Addressing the gathering, President Ranil Wickremesinghe added that he has alrea
 
 ---
 
+### President For Tomorrow’s Sri Lanka
+
+*2024-09-17 01:30:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-for-tomorrows-sri-lanka/) · `en`
+
+As the final lap of the presidential election campaign comes to its close at midnight on Wednesday, there is no certainty about the outcome. The only certainty is that it will be one of three candidates—incumbent president Ranil Wickremesinghe, opposition leader Sajith Premadasa or NPP leader Anura Kumara Dissanayake. The other 35 candidates including the young scion of the Rajapaksa family and candidate of the SLPP are at best “also-rans.” But even they are hopeful. There appears to be a substantial number of voters who are undecided, and their hope is that those votes will come their way. Indeed, the principle of the “echo chamber” is working to the fullest extent at this election.
+
+...
+
+[Data](articles/21e80502.json)
+
+[Extended Data](ext_articles/21e80502.ext.json)
+
+---
+
 ### J’pura Students’ Union files complaint with ECSL against Sajith
 
 *2024-09-17 01:29:46* · [`dailyftlk`](https://www.ft.lk/news/J-pura-Students-Union-files-complaint-with-ECSL-against-Sajith/56-766782) · `en`
@@ -638,6 +700,50 @@ In terms of the real number who are likely to go to polls placed at 75%, the num
 
 ---
 
+### Barista unveils cutting-edge “Happiness Hub” to elevate food preparation and distribution
+
+*2024-09-16 22:32:00* · [`islandlk`](http://island.lk/barista-unveils-cutting-edge-happiness-hub-to-elevate-food-preparation-and-distribution/) · `en`
+
+In a bold move to enhance operational efficiency and aggressive expansion while maintaining high standards across its café network, Barista, Sri Lanka’s leading café chain, has officially inaugurated its new state-of-the-art facility, the “Happiness Hub,” in Peliyagoda. This facility will serve as the central hub for procurement, food preparation, storage, and distribution for Barista’s expansive network of cafés.
+
+The grand opening was marked by the presence of Barista’s Directors Hiran Embuldeniya and Nath Kottegoda, CEO/Director Dilupa Pathirana, along with the Head Office team and staff from across the company’s cafés.
+
+...
+
+[Data](articles/714a693c.json)
+
+[Extended Data](ext_articles/714a693c.ext.json)
+
+---
+
+### National Chamber of Exporters of Sri Lanka urges citizens to ‘vote wisely’ in September presidential election
+
+*2024-09-16 22:30:00* · [`islandlk`](http://island.lk/national-chamber-of-exporters-of-sri-lanka-urges-citizens-to-vote-wisely-in-september-presidential-election/) · `en`
+
+As Sri Lanka stands on the cusp of a critical Presidential Election this September, the National Chamber of Exporters (NCE) calls upon all citizens to vote with both their hearts and minds. Our beloved nation is at a crossroads, and the decisions made at the ballot box will define the course of Sri Lanka’s future. It is vital that each voter considers the key challenges we face and elect leaders who possess the vision, capability, and integrity to steer us through these turbulent times.
+
+...
+
+[Data](articles/bdb4242a.json)
+
+[Extended Data](ext_articles/bdb4242a.ext.json)
+
+---
+
+### CMTA and Sudath Perera Associates address legal action to combat fake spare parts
+
+*2024-09-16 22:29:00* · [`islandlk`](http://island.lk/cmta-and-sudath-perera-associates-address-legal-action-to-combat-fake-spare-parts/) · `en`
+
+The Ceylon Motor Traders Association (CMTA), the most senior automotive association in South Asia, and Sudath Perera Associates, one of Sri Lanka’s most reputed legal firms, specializing in intellectual property rights, recently held a highly informative briefing for members of the CMTA at the Ceylon Chamber of Commerce to address the growing market of counterfeit parts in the country.
+
+During the session, Sudath Perera Associates provided CMTA members with valuable insights and a detailed overview of the legal measures available to combat the spread of counterfeit products. It also emphasised the importance of collaboration between industry stakeholders and law enforcement authorities to protect consumers and the broader economy.
+
+...
+
+[Data](articles/b0df5651.json)
+
+---
+
 ### At the propaganda meeting supporting the Tamil general candidate;I will give my vote like you who mobilized for the ideal for the liberation of Tamils ​​- Maui.Senathirajah
 
 *2024-09-16 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/193882) · `ta`
@@ -665,6 +771,74 @@ We have sacrificed people and militants in the struggle for liberation. In that 
 [Data](articles/fdeb1313.json)
 
 [Extended Data](ext_articles/fdeb1313.ext.json)
+
+---
+
+### CSE hosts investor forum in Batticaloa to highlight alternative investment opportunities
+
+*2024-09-16 22:27:00* · [`islandlk`](http://island.lk/cse-hosts-investor-forum-in-batticaloa-to-highlight-alternative-investment-opportunities/) · `en`
+
+The Colombo Stock Exchange (CSE) conducted an investor Forum on 8th September 2024 at Hotel BeachWay in Kattankudi. The forum aimed to showcase alternative investment opportunities and deepen market knowledge for investors in the region.
+
+The forum attracted over 75 participants, providing valuable insights on Sukuks, Debt products such as Green and sustainable Bonds, Stock Borrowing and Lending to both potential and existing investors in the region. Sivananthan Raman Muthukrishnan, Manager of the Batticaloa Branch of CSE, opened the event with remarks on the significance of exploring new investment avenues.
+
+Conducting the first presentation of the forum, Ms. Nilupa Perera, Senior Vice President of Broker Supervision and Listed Entity Compliance at CSE, provided the attendees with a comprehensive overview of Green and Sustainability Bond Issuances. She focused on the role of these bonds in promoting environmental sustainability and their potential benefits for investors.
+
+...
+
+[Data](articles/06877aa0.json)
+
+---
+
+### NDB Bank triumphs at the 39th Mercantile Athletic Championship
+
+*2024-09-16 22:26:00* · [`islandlk`](http://island.lk/ndb-bank-triumphs-at-the-39th-mercantile-athletic-championship/) · `en`
+
+NDB Bank is proud to announce its remarkable success at the 39th Mercantile Athletic Championship, held from 9th to 11thof August, 2024, at the prestigious Sugathadasa Stadium in Colombo. Competing against athletes from 82 member companies and 52 institutions registered with the Mercantile Athletic Association, NDB Bank secured an impressive 23 awards, marking a significant achievement in the bank’s athletic endeavors.
+
+The championship, which has now been officially added to the World Athletic calendar, featured a wide array of track and field events, including high jump, long jump, hurdles, javelin throw, shot put, 100 meters, 200 meters, and 400 meters. NDB Bank’s athletes excelled in these competitions, demonstrating exceptional skill, determination, and sportsmanship.
+
+DFCC Leasing achieves 52.6% portfolio growth in first 8 months of 2024
+
+Barista unveils cutting-edge “Happiness Hub” to elevate food preparation and distribution
+
+...
+
+[Data](articles/5bb12ab1.json)
+
+---
+
+### DFCC Leasing achieves 52.6% portfolio growth in first 8 months of 2024
+
+*2024-09-16 22:25:00* · [`islandlk`](http://island.lk/dfcc-leasing-achieves-52-6-portfolio-growth-in-first-8-months-of-2024/) · `en`
+
+DFCC Leasing has demonstrated remarkable growth in its leasing portfolio during the first eight months of 2024, reflecting its broad customer base’s enduring trust and confidence. As of 31 August 2024, the DFCC Leasing portfolio had surged to LKR 23.55 billion, marking a substantial increase of LKR 8.19 billion from the LKR 15.4 billion recorded on 31 December 2023. This impressive 52.6% growth underscores DFCC Bank’s unwavering commitment to meeting the diverse needs of its customers while offering the most attractive rates and terms in the market.
+
+...
+
+[Data](articles/df3054bb.json)
+
+---
+
+### Digital Mobility Solutions Lanka IPO oversubscribed on opening day
+
+*2024-09-16 22:23:00* · [`islandlk`](http://island.lk/digital-mobility-solutions-lanka-ipo-oversubscribed-on-opening-day/) · `en`
+
+The Initial Public Offering (IPO) of Digital Mobility Solutions Lanka Limited, through an offer for sale of 43,474,179 ordinary voting shares at a price of Rs. 36 per share, opened 13th September 2024 and was oversubscribed on the initial day itself.
+
+The IPO by Digital Mobility Solutions Lanka Limited attracted applications surpassing the offer value, showcasing strong investor demand.
+
+Barista unveils cutting-edge “Happiness Hub” to elevate food preparation and distribution
+
+CMTA and Sudath Perera Associates address legal action to combat fake spare parts
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/09b328dc.json)
 
 ---
 
@@ -975,6 +1149,22 @@ Ranil Wickremesinghe, with the full support of the Ceylon Workers Congress, said
 [Data](articles/c9c8d6f6.json)
 
 [Extended Data](ext_articles/c9c8d6f6.ext.json)
+
+---
+
+### දේශපාලකයා පොදු නීතියට යටත් කරනවා
+
+*2024-09-16 19:40:08* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලකයා-පොදු-නීතියට-යටත්-කරනවා/11-411972) · `si`
+
+නීති රීති ශක්තිමත් කර මහජන දේපොළ හොරකම් කළ අයට නීත්‍යනුකූලව දඬුවම් ලබාදෙන බව ජාතික ජන බලවේගයේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. මහජන ධනය නාස්ති කිරීම නතර කරන බවත්, දේශපාලකයා පොදු නීතියට යටත් කරන බවත් ඔහු සඳහන් කළේය.
+
+'රට අනුරට’ මැයෙන් නාවලපිටියේ පැවති ජාතික ජන බලවේගයේ ජනරැලියක් අමතමින් අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේය. ඔහු මෙසේ ද පැවසීය.
+
+“මහ මැතිවරණයෙන් පස්සේ අපි රටට පලදායක පාර්ලිමේන්තුවක් හදනවා. නීති රීති ශක්තිමත් කර මහජන දේපොළ හොරකම් කළ අයට නීත්‍යනුකූලව අනිවාර්යයෙන්ම දඬුවම් ලබාදෙනවා. මහජන ධනය නාස්ති කිරීම නතර කරනවා. දේශපාලකයා පොදු නීතියට යටත් කරනවා. අපේ පාලනයක් යටතේ අපේ රටේ ප්‍රජාතන්ත්‍රවාදය රැකීම සඳහා අවශ්‍ය ආයතන පද්ධතිය ශක්තිමත් කරනවා. මේ රටේ පොලීසිය, හමුදාව දේශපාලකයන් ඉදිරියේ බාල්දු වෙන්න අපි ඉඩ තියන්නේ නැහැ. පොලීසියේ මහත්වරුන්ගේත් රටේ හා ජනතාවගේත් ආරක්ෂාව හැදුවොත් අපිත් ආරක්ෂා වෙනවා. එවිට වෙනම ආරක්ෂාවක් අපට අවශ්‍ය වෙන්නේ නැහැ. මේ පාලකයන් කරන්නේ, රටත් ජනතාවත් අත්හැරදාලා අනාරක්ෂිත කරලා ඒ ගොල්ලෝ වටේ ආරක්ෂක වළලු දාගන්න එක. අපි මේක නතර කරනවා.
+
+...
+
+[Data](articles/1451de3f.json)
 
 ---
 
@@ -2113,251 +2303,5 @@ He also requested the assistance of the Tamil public candidate for the Tamil peo
 [Data](articles/9ac83a41.json)
 
 [Extended Data](ext_articles/9ac83a41.ext.json)
-
----
-
-### Change Economic Policy Anura
-
-*2024-09-16 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201079) · `si`
-
-Sri Lanka: Anura Kumara Dissanayake proposes changing economic policy, abolishing vehicle licenses, reducing pensions, and reforming governance. He criticizes current political system and promises to improve country's image.
-
-🟩
-
-Anura Kumara Dissanayake says the presidency of the National Power is working under the government to change the current economic policy in the country.
-
-Another phase of the JVP rarise of the National Folk Council for the presidential election was held at Nawalapitiya.
-
-Speaking further the presidential candidate Anura Kumara Dissanayake said,
-
-...
-
-[Data](articles/fbf45d40.json)
-
-[Extended Data](ext_articles/fbf45d40.ext.json)
-
----
-
-### Hurricane that hit China's Shanghai;400,000 people discharge
-
-*2024-09-16 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/193845) · `ta`
-
-Powerful hurricane hits Shanghai, 400,000 evacuate. Massive winds, heavy rain cause disruptions. Emergency responders deployed. Similar storms rare in densely populated city.
-
-🟩
-
-A powerful hurricane hit China's Shanghai City after 1949 on Monday (16). This was followed by massive winds and heavy rainfall.
-
-In this case, more than 400,000 people have been evacuated from there. In addition, aircraft, boats and train services have been canceled.
-
-More than 180 flights are scheduled to be canceled from Sunday to Monday due to winds at 170 km / h southwest of Shanghai.
-
-State media reports that more than 60,000 emergency assistants and firefighters are ready to provide assistance in Shanghai.
-
-Pepinka hurricane near its center in the Budang business district caused wind at speeds of 151 km / h.
-
-Officials expected that the hurricane would affect the nearby Jejiang, Jiangsu and Anhui provinces.
-
-Shanghai is rarely attacked by 25 million people with powerful hurricanes that stimulate the landslide in the south of China.
-
-...
-
-[Data](articles/72f5321c.json)
-
-[Extended Data](ext_articles/72f5321c.ext.json)
-
----
-
-### Sri Lanka issues clarification on diplomatic relations with Israel
-
-*2024-09-16 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102016/sri-lanka-issues-clarification-on-diplomatic-relations-with-israel) · `en`
-
-Sri Lanka has issued a clarification on the island nation’s diplomatic representation in Israel, in response to recent public discussions surrounding the country’s diplomatic presence in Israel, in order to prevent any misunderstandings.
-
-Accordingly, Sri Lanka’s Minister of Foreign Affairs Ali Sabry stated that Sri Lanka continues to maintain its official embassy in Tel Aviv, which has been the sole diplomatic mission in Israel since 2000. “The embassy remains fully operational, serving as the primary diplomatic channel between the two countries”, he said in a post on ‘X’ (formerly Twitter).
-
-Meanwhile, Sri Lanka has appointed an honorary consul in the Haifa region to extend consular support to Sri Lankans living and working in the area, the Minister clarified, adding that this appointment, made before the events of 07 October 2023, adheres to standard international practices.
-
-...
-
-[Data](articles/32123a26.json)
-
-[Extended Data](ext_articles/32123a26.ext.json)
-
----
-
-### Sajith says the country needs a leader who is equal to all
-
-*2024-09-16 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201078) · `si`
-
-Sajith Premadasa calls for equal treatment of citizens regardless of religion. He emphasizes the need for a leader who represents all people equally. The presidential candidate also discusses various development projects in Batticaloa, including tourism, housing schemes, education, healthcare, and infrastructure improvements.
-
-🟩
-
-The presidential candidate Sajith Premadasa, Samajith Premadasa, says that it is the responsibility of the people to bring a leader who treats the country to the country.
-
-He was speaking at a famil yesterday (15) in Kattankudi.
-
-"We can cast the field of tourism industry in Malaysia and master the tourism industry in this territory. We have surrendered to produce housing schemes to landless families, lack of landless families in the wilder earner. Also, in the Batticaloa district 361 schools. They make 361 schools into Smart. All the hospital in the district become smart hospitals. "
-
-...
-
-[Data](articles/5eae7244.json)
-
-[Extended Data](ext_articles/5eae7244.ext.json)
-
----
-
-### Dilith slams presidential candidates who fail to represent genuine change
-
-*2024-09-16 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102015/dilith-slams-presidential-candidates-who-fail-to-represent-genuine-change-) · `en`
-
-The presidential candidate of the ‘Sarvajana Balaya’ alliance Dilith Jayaweera says that all the major candidates running for the office of the Presiden this year do not represent the change demanded by the Sri Lankan people.
-
-Joining Ada Derana’s special “Derana 360°” program series for the presidential candidates yesterday (15), Jayaweera said that he is not a person-centered politician.
-
-“This year, we are all facing a presidential election set against a backdrop that reflects the psychological demand for change from Sri Lankan society”, he stated, adding that “However, none of the candidates in this presidential race truly represent change, regardless of how they present themselves.”
-
-...
-
-[Data](articles/db64a4af.json)
-
-[Extended Data](ext_articles/db64a4af.ext.json)
-
----
-
-### Internal airline connecting East Tourism Zones
-
-*2024-09-16 13:13:35* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-සංචාරක-කලාප-යා-කරමින්-අභ්‍යන්තර-ගුවන්-සේවයක්/11-411962) · `si`
-
-East Tourism Zones: New internal flights connect Batticaloa, Arugambuda, and Trincomalee starting January. Promotes tourism in Eastern Province.
-
-🟩
-
-An internal air travel service is to be launched in the province of the province to promote tourism in the Eastern Province.
-
-The internal flight services commences from January next year, the three tourism agreement, Batticaloa, "Arugambuda" tourist in Trincomalee.
-
-Accordingly, the Chairman of the Provincial Tourism Bureau MP. Chairman Shiugarev Sergey Nikolaevich, Chairman of Madannaann and Russia, the Chairman of the International Air Space Line
-
-◼️
-
-[Data](articles/08093565.json)
-
-[Extended Data](ext_articles/08093565.ext.json)
-
----
-
-### Tilakaraj met Sridharan MP
-
-*2024-09-16 13:10:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிதரன்-எம்-பி-யை-சந்தித்தார்-திலகராஜ்/175-343843) · `ta`
-
-Tilakaraj visits Jaffna, meets Sridharan MP, distributes election manifesto.
-
-🟩
-
-Presidential candidate Mayilvankanam Tilakaraj visited Jaffna on Monday (16) and engaged in election campaigns.
-
-Accordingly, Sivagnanam Sridharan, a member of the Sri Lanka Tamil National Alliance (TNA), met with his residence.
-
-It is reported that he has met with many people in Jaffna and handed over his election manifesto.
-
-◼️
-
-[Data](articles/5504bc9d.json)
-
-[Extended Data](ext_articles/5504bc9d.ext.json)
-
----
-
-### The personal quarrel ends dead
-
-*2024-09-16 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201077) · `si`
-
-Personal dispute leads to assault death in Veyangoda. 49-year-old victim attacked with sharp object. Police investigating incident.
-
-🟩
-
-A person has been assaulted by a sharp object in the Vara, Veyangoda, a sharp object.
-
-The premises have revealed that the murder had been revealed due to a personal dispute, police said.
-
-The deceased has been identified as 49 year old resident of the Veyangoda area in Veyangoda.
-
-◼️
-
-[Data](articles/d9d7904d.json)
-
-[Extended Data](ext_articles/d9d7904d.ext.json)
-
----
-
-### Three boys injured in Otto accident
-
-*2024-09-16 13:02:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓட்டோ-விபத்தில்-சிறுவர்கள்-மூவர்-காயம்/175-343842) · `ta`
-
-Three boys hurt in three-wheeler crash. Motorcycle crosses road, hits vehicle carrying six kids. Three injured, rushed to hospital. Others rescued, returned home safely.
-
-🟩
-
-Three boys were injured in a three -wheeler accident on Monday (16) afternoon on Monday (16) afternoon.
-
-The accident occurred when a motorcycle crossed the main street and crossed the main road when six boys were returning to their homes in a three -wheeler.
-
-Three boys who were traveling in a three -wheeler were injured and admitted to Kattankudy Resource Hospital
-
-Other children in the three -wheeler rescued the three -wheeler and sent them to their homes.
-
-◼️
-
-[Data](articles/fe4f69d8.json)
-
-[Extended Data](ext_articles/fe4f69d8.ext.json)
-
----
-
-### Mavai Senathirajah met Tamil Nadu Candidate Ariyanethran
-
-*2024-09-16 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193836) · `ta`
-
-Mavai Senathirajah supports Tamil Nadu candidate Ariyanethran. TNA leader met Ariyanethran at Jaffna office, discussing election conditions. Former MP Surespiremachandran attended.
-
-🟩
-
-Tamil National Alliance (TNA) leader Mawai Senathirajah expressed his support and greeter to meet Tamil Nadu candidate Ariyanethran in person.
-
-TNA leader Mawai Senathirajah visited the Tamil National General Structure Regional Office in Jaffna on Sunday evening (15) and met with the Tamil National Alliance candidate Ariyanethran for about 30 minutes and expressed his congratulations and support.
-
-At this meeting he discussed the current situation and election conditions. It is noteworthy that former parliamentarian Surespiremachandran and members of the Public Facilities were present at the meeting.
-
-◼️
-
-[Data](articles/43a76586.json)
-
-[Extended Data](ext_articles/43a76586.ext.json)
-
----
-
-### The JVP opposes technology
-
-*2024-09-16 12:47:24* · [`adalk`](https://www.ada.lk/breaking_news/තාක්ෂණවේදී-විෂයට-ජවිපෙ-විරුද්ධ-වූණා/11-411961) · `si`
-
-JVP opposes technology introduction in Sri Lanka. Minister criticizes JVP's lack of vision, highlighting his own efforts in promoting tech education. JVP disrupted tech school construction. Minister claims responsibility for increased IT/eng tech education.
-
-🟩
-
-The JVP alone did not work against the introduction of technology streams throughout Sri Lanka, he said.
-
-The Minister was speaking at a special discussion held yesterday (15) for the victory of independent candidate Ranil Wickremesinghe who competes in the Gas Linder.
-
-The Minister pointed out that the JVP has no vision.
-
-"To the children where the most important thing to the country is the most important of the country. We had science, art, art, commercial subjects in the country. They cannot face the world in the future. I was called the Minister of Education and introduced new country technological stream. Science streams of information technology, bio-system, engineering technology, and technology. Under that we have a computer laboratory of Sri Lanka's forty computers to the children of Sri Lanka, and the computer has been built throughout Sri Lanka.
-
-...
-
-[Data](articles/6bcbe33d.json)
-
-[Extended Data](ext_articles/6bcbe33d.ext.json)
 
 ---

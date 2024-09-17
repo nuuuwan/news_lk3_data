@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 10:57:11**
+As of **2024-09-17 11:09:19**
 
 ## Newspaper Stats
 
-*Scraped **44,290** Articles*
+*Scraped **44,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ colombotelegraphcom | 440
 islandlk | 2,611
 economynextcom | 2,685
 dailyftlk | 2,935
-adalk | 4,088
+adalk | 4,089
 dailymirrorlk | 4,733
-adaderanalk | 5,214
+adaderanalk | 5,215
 tamilmirrorlk | 5,780
 virakesarilk | 7,053
-adaderanasinhalalk | 7,583
+adaderanasinhalalk | 7,584
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,290 (100.0%) of 44,290 articles have been extended.
+44,293 (100.0%) of 44,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Dilith proposes “Hithe Haiya” program to replace welfare schemes
+
+*2024-09-17 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102033/dilith-proposes-hithe-haiya-program-to-replace-welfare-schemes-) · `en`
+
+The presidential candidate of the “Sarvajana Balaya” alliance, entrepreneur Dilith Jayaweera, says that they have planned to implement a new program called “Hithe Haiya” instead of the various welfare schemes that have been provided to the people thus far.
+
+He made these remarks while participating in a rally held in Monaragala.
+
+“The welfare schemes that have been deceiving you all along first came as ‘Janasaviya.’ Then came ‘Samurdhi.’ Then came ‘Aswesuma.’ But now your eyes are open. We have presented the ‘Hithe Haiya’ program,” he said.
+
+Jayaweera stated that the ‘Hithe Haiya’ program is designed to end those programs that turned people into ‘beggars’ and made them dependent on politicians.
+
+“We declare that your household’s minimum income should be Rs. 100,000, and we firmly state that Rs. 100,000 will be provided,” he said.
+
+...
+
+[Data](articles/868c8673.json)
+
+[Extended Data](ext_articles/868c8673.ext.json)
+
+---
+
+### Provide your ment to the public era - Sajith
+
+*2024-09-17 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201108) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sajith Premadasa announces presidential task force for each district. Promises direct connection between citizens and president through local consultations. Urges voters not to waste ballots on other parties. Emphasizes unity in national development.
+
+🟩
+
+Opposition Leader Sajith Premadasa says the presidential candidate for the presidential development Task Force is established for every administrative district of the country.
+
+Sajith Premadasa made this statement participating in a famil yesterday (16) in Dambulla yesterday.
+
+"A Presidential Task Force to establish a Presidential Task Force to every administrative district of this country. A separate unit is established to connect to the people with the President to hold the people in all four-wedding district consultation with the Matale district to the Matale district.
+
+We will resort to a program that will bring town cities. Don't waste your votes for the JVP and the UNP.
+
+I request that everyone with our journey to develop the country without the party differences. Do you give your privilege to the Public Era?You have the verdict.
+
+...
+
+[Data](articles/b5f8cbda.json)
+
+[Extended Data](ext_articles/b5f8cbda.ext.json)
+
+---
 
 ### Modi Birthday: Greetings
 
@@ -1882,6 +1934,30 @@ So if any of the United National Party supporters decide to vote for him, he mus
 
 ---
 
+### The story of not taking all foreign loans is false
+
+*2024-09-16 20:00:01* · [`adalk`](https://www.ada.lk/breaking_news/සියලු-විදේශීය-ණය-ආපසු-නොගෙවනවයි-කියන-කථාව-අසත්‍යයි/11-411974) · `si`
+
+Sri Lanka denies claim of not repaying foreign loans. Ministry states foreign debt repayment continues, including multilateral loans, despite temporary suspension in 2022. Government maintains consistent debt servicing through Central Bank, State Bank, and private sector.
+
+🟩
+
+Ministry of Finance, Economic Stabilization and National PoliciesThe Ministry said that it is false to say that no foreign debt is paid.
+
+The Ministry of Primarily, the economic stabilization of Sri Lanka is now primarily, the Ministry has issued a statement that the foreign loan will not be served.
+
+The announcement shows that the society has a recurrence of economic instability when debt work begins again.
+
+"Not all foreign loans are not returned. Published in April 2022 is only relevant to foreign commercial loans and official bilateral loans. The foreign multilawous loans are continuously served by the government as the foreign multilateral debt is usually done in the prevailing loan restructuring structure.
+
+...
+
+[Data](articles/9c5a2d9b.json)
+
+[Extended Data](ext_articles/9c5a2d9b.ext.json)
+
+---
+
 ### Dilith hits out at ‘absurd’ political dramas by main presidential candidates
 
 *2024-09-16 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102025/dilith-hits-out-at-absurd-political-dramas-by-main-presidential-candidates-) · `en`
@@ -2333,87 +2409,5 @@ However, the question of what the situation is if Sajith Premadasa is successful
 [Data](articles/9f621dbc.json)
 
 [Extended Data](ext_articles/9f621dbc.ext.json)
-
----
-
-### Protection of Sajith's promises. 40000 crores
-
-*2024-09-16 18:16:55* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-පොරොන්දු-ක්‍රියාත්මක-කරන්න-අමතර-රු--කෝටි-40000ක්-ඕන/11-411967) · `si`
-
-Here's a 200-character summary:
-
-
-
-SB Dissanayake promised 40,000 crore rupees for Sajith Premadasa's projects. He vowed to find 1000 prices if elected president. Sajith's father opposed provincial councils in North. Dissanayake built house during housing ministry tenure.
-
-🟩
-
-The number of Rs.
-
-Mr. SB Dissanayake told him (16), commenced at a meeting held at the Hatton Dickoya Urban Council Hall.
-
-Speaking at the meeting, SB Dissanayake added that if he became the president of the country or the president of Sajith Premadasa, he will search for a thousand prices of Rs.
-
-Sajith's father was strongly opposed to create the provincial council system in the North and the leader of the people who had not done anything to the Tamil people, the purposes of the purposes of their son would anymore.
-
-In 2015, he was housing minister, that ministry has plenty of money in that ministry, and he built a house in the island.
-
-◼️
-
-[Data](articles/4f5e89f2.json)
-
-[Extended Data](ext_articles/4f5e89f2.ext.json)
-
----
-
-### 75 percent of the rolls of the Velle
-
-*2024-09-16 18:09:59* · [`adalk`](https://www.ada.lk/breaking_news/වැල්පාලමේ-ගමනේ-සියයට-75-ක්-අවසන්/11-411966) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Ranil Wickremesinghe addresses an election rally in Ampara, emphasizing economic development and unity. He criticizes opponents for neglecting people's suffering during food shortages and drug crises. Wickremesinghe calls for national unity to achieve strong economy goals.
-
-🟩
-
-It is about 75% of the country's economy and about 75% of the vines bridge and to create a strong economy in the country, all the people should join the country without the division of the vines.President Ranil Wickremesinghe said.
-
-Even though he had to face a journey of the Nathalaya, he said that he had to face two naitheal, and said that he had to face two naithael.
-
-President Ranil Wickremesinghe made this statement addressing the 'Ranil' rally in Ampara this afternoon.
-
-"Today we face a very important election. This year's election must be an election that determines the future of the people. People in this year's election this year's election will be visited if there is a prosperous economy
-
-Should be decided. Therefore, I ask the people to go before us as a country without making the mistake of a priceling era.
-
-...
-
-[Data](articles/3df9e9ad.json)
-
-[Extended Data](ext_articles/3df9e9ad.ext.json)
-
----
-
-### Van - three -wheeler collision accident;Fourth wound
-
-*2024-09-16 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193870) · `ta`
-
-Accident summary: Van crashes into three-wheeler on Anuradhapura-Kandy road, injuring four. Driver and passengers rushed to hospital with serious injuries.
-
-🟩
-
-Four people were injured in an accident near the Manikkundu tower on the Anuradhapura -Kandy main road, police said.
-
-The accident occurred when a high -speed small van crashed into a three -wheeler when he tried to avoid colliding with a police road.
-
-Police said that the trio and the driver of the three -wheeler were admitted to the Anuradhapura Teaching Hospital with serious injuries.
-
-◼️
-
-[Data](articles/a421f8cb.json)
-
-[Extended Data](ext_articles/a421f8cb.ext.json)
 
 ---

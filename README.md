@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 01:22:38**
+As of **2024-09-18 01:38:11**
 
 ## Newspaper Stats
 
-*Scraped **44,406** Articles*
+*Scraped **44,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 428
 colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,688
-dailyftlk | 2,938
+dailyftlk | 2,939
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,405 (100.0%) of 44,406 articles have been extended.
+44,406 (100.0%) of 44,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### PRESIDENSHEL ELECSHEN GIDE
+
+*2024-09-18 01:05:02* · [`dailyftlk`](https://www.ft.lk/opinion/PRESIDENSHEL-ELECSHEN-GIDE/14-766808) · `en`
+
+His Glorious Honourable Excellency (Dr X 5) Chaminda Pusswedilla the 1st
+
+Friend of the People, Son of the Village, Servant of the Nation, Father of Democracy, Brother of Freedom Cousin of Human Rights, Close Relation of Media Freedom
+
+Former Two-Times President, Three-times Presidenshel Elecshen (PE) Candidate, Two-Times Winner and One-Times First Runners-up
+
+FREE B’s & Freebies. All PECs are addised not to get these two confused.
+
+FREE B’s - Refers to the only three B’s you can give the voter, before the elecshen. Buth-Packet, Bottle and Bus Ride! With ElectingComishen saying that this giving Free B’s is not good and Poleece cumming  and oll, PEC must find innovative ways to make sure the peeples get the free B’s. Your campain funding  should be done right for this to be acheeved.
+
+FREEBIES - Refers to the things you are giving to Public, AFTER the election, IF you win! This second  clause ‘if you win’ is very impotent in this FREEBIES. With FREEBIES olways adopt a Less-is-More strategy:
+
+...
+
+[Data](articles/6e950b3a.json)
+
+---
 
 ### Tribute to Late Anthony A. Page
 
@@ -77,6 +99,8 @@ The Presidential Election on 21 September could be the most important election f
 ...
 
 [Data](articles/c72baf87.json)
+
+[Extended Data](ext_articles/c72baf87.ext.json)
 
 ---
 
@@ -2513,33 +2537,5 @@ The victim was admitted to the Nawalapitiya Hospital and the suspect has been ar
 [Data](articles/3bb5dd0d.json)
 
 [Extended Data](ext_articles/3bb5dd0d.ext.json)
-
----
-
-### Super Star will be advised by Commander Vijay to be introduced in politics ... !!?
-
-*2024-09-17 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/193908) · `ta`
-
-Rajinikanth enters politics under Commander Vijay's guidance. Film music launch on October 10th. Tamil, Telugu, Malayalam, Kannada, Hindi releases.
-
-🟩
-
-Super Star Rajinikanth is not only acting in films, but he is also a unparalleled powerful man.
-
-He is also popular among all the fans of the 'Kuttikkadam' in his speech on the film -related events.
-
-Director The. Cm. Super Star Rajinikanth, Bollywood Super Star Star Amitabh Bachchan, Rana Dagupati, Bhagat Fossil, Manju Warrior, Ritika Singh, Dushara Vijayan, Rohini, Rao Ramesh, Ramesh Tilak.
-
-S.. R. Anirudh Ravichander has composed the film, which has been recorded by Kadir.
-
-The film is being produced as an exercise entertainer and produced by famous producer Subhashkaran on behalf of Leica Productions.
-
-The music launch of the film, which will be released at the film House in Tamil, Telugu, Malayalam, Kannada and Hindi on the 10th of October.
-
-...
-
-[Data](articles/9b37f74c.json)
-
-[Extended Data](ext_articles/9b37f74c.ext.json)
 
 ---

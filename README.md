@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 18:45:08**
+As of **2024-09-17 18:33:06**
 
 ## Newspaper Stats
 
-*Scraped **44,363** Articles*
+*Scraped **44,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,095
 dailymirrorlk | 4,733
-adaderanalk | 5,225
+adaderanalk | 5,224
 tamilmirrorlk | 5,791
 virakesarilk | 7,079
 adaderanasinhalalk | 7,599
@@ -26,29 +26,11 @@ adaderanasinhalalk | 7,599
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,362 (100.0%) of 44,363 articles have been extended.
+44,362 (100.0%) of 44,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
-
-### Full recovery of Sri Lanka’s economy will take a few more years – President Ranil
-
-*2024-09-17 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102043/full-recovery-of-sri-lankas-economy-will-take-a-few-more-years-president-ranil) · `en`
-
-President Ranil Wickremesinghe cautioned the public against making the “mistake” of transferring a “recovering patient”, who was in critical condition, to the care of an “unqualified doctor” after receiving emergency treatment, on September 21.
-
-He emphasized that, just as a doctor’s license can be revoked by the Sri Lanka Medical Council for refusing to treat a patient, the public should reject politicians who abandoned their duty to revive the country’s economy in 2022.
-
-The President made these remarks while addressing the Public Service United Nurses’ Association’s “2024 Nursing Conference” held today (17) at the Water’s Edge Hotel in Battaramulla.
-
-During the event, Ven. Dr. Venerable Dr. Muruththettuwe Ananda Nayaka Thero, Chancellor of the University of Colombo, presented a memorandum of proposals from the United Nurses’ Association to the President.
-
-...
-
-[Data](articles/ca73243b.json)
-
----
 
 ### Maldivian President turns to India
 
@@ -2663,5 +2645,23 @@ One young woman using the Instagram of them said: "Look!. "Instagram usually usu
 [Data](articles/150d738d.json)
 
 [Extended Data](ext_articles/150d738d.ext.json)
+
+---
+
+### Presidenshel elecshen gide
+
+*2024-09-17 03:15:08* · [`dailyftlk`](https://www.ft.lk/opinion/Presidenshel-elecshen-gide/14-766793) · `en`
+
+Oll PEC’s must remember to have a Campain Theme. This is the main focus of how you plan to win. How you plan to attack your opponents and most impotent thing, what is main reeson peeples should put you in the Loku Putuwa.
+
+“Wikramata Pulun” - I must say say when I first heard this I was surprised. Then I riyalized that word is Puluwan, my good frend BarrackOberms colling and saying you stealing his campain slogan lu. I said “Yes we can!” Oberms saying “That’s my slogan” and I said your slogan had ‘we’, Wikrama is not tolking about ‘we’. He is tolking about he, he can.
+
+“Rata Warunata” - What do you mean? You want the whole country? Well, if you win then you are the President of whole country only! This is not a good slogan for you becose it sounds like you want to be a king, even though we know you don’t. Even in countries where they have Kings and Queenies like England, when my good frend Queenie passed away, you didn’t hear Charlies iththaas going around saying “Rata Charlieta”
+
+...
+
+[Data](articles/9d47994f.json)
+
+[Extended Data](ext_articles/9d47994f.ext.json)
 
 ---

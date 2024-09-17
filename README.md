@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 09:38:19**
+As of **2024-09-17 09:57:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,277 (100.0%) of 44,280 articles have been extended.
+44,279 (100.0%) of 44,280 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Meanwhile, the People’s Action for Free and Fair Elections (PAFFREL) emphasize
 ...
 
 [Data](articles/63241fad.json)
+
+[Extended Data](ext_articles/63241fad.ext.json)
 
 ---
 
@@ -500,27 +502,119 @@ At times, in the Western-mountains of the Central Mountains, the North, North Ce
 
 ---
 
-### සමාජ මාධ්‍යවලට මැතිවරණවලදී ඔබේ මතයට බලපෑම් කළ හැකි ද?
+### Can the social media influence your view in elections?
 
 *2024-09-17 03:32:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqjrr40yl7go) · `si`
 
-"මේ දවස්වල හැම ප්ලැට්ෆෝම් එකක ම වගේ වැඩිපුර පේන්නේ ඡන්ද කැම්පේන් තමයි. එක එක පේජස්වල අපේක්ෂකයෝ සම්බන්ධ ප්‍රමෝෂන්ස් යනවා. මඩ ප්‍රචාර යනවා. මෝඩ කතා යනවා. අපි ඒවා හොයන් යන්නේ නැහැ. අපි ලයික් කරලත් නැහැ. හැබැයි නිව්ස්ෆීඩ් එකට නිකම් ම එනවා."
+Based on the information provided, it seems you are asking about the impact of social media on elections in Sri Lanka. Here's a summary of the key points:
 
-තරුණියන් 6 දෙනෙකුගෙන් සහ තරුණයින් තිදෙනෙකුගෙන් සමන්විත වූ ශ්‍රී ජයවර්ධපුර විශ්වවිද්‍යාලයේ ශිෂ්‍ය කණ්ඩායමක් බීබීසී සිංහල සමග එලෙස පැවසීය.
 
-අප එහි යන විටත් දිවා ආහාරය සඳහා කාලය පැමිණ තිබුණු බැවින් සිසුන් සිටියේ දේශන ශාලාවලින් පිටත ය.
 
-ඔවුන්ගෙන් බහුතරයක් ම සිය 25 වන වියට ආසන්නව සිටි, මෙරට විවිධ ප්‍රදේශවලින් කොළඹට පැමිණ සිටි අය වූහ.
+1. Social media plays a significant role in influencing elections in Sri Lanka.
 
-ෆේස්බුක් පමණක් නොව, මෙටා සමාගම සතු ඉන්ස්ටග්‍රෑම් පරිශීලනය කරන ඔවුහු X (මීට පෙර ට්විටර්) සහ ටික්ටොක් ද පරිශීලනය කරන සමාජ මාධ්‍ය තුළ සක්‍රීය කණ්ඩායමක් වූහ.
 
-ඔවුන් සඳහන් කළේ, මෙම මැතිවරණ කාලයේ සමාජ මාධ්‍ය පරිශීලනය කිරීමේදී, විශේෂයෙන් ෆේස්බුක් භාවිතයේදී ඔවුන් දකින සෑම අන්තර්ගතයන් 10කින් 7ක් හෝ 8ක් පමණ දේශපාලනය සම්බන්ධ ඒවා බව ය.
 
-ඒවා විටෙක, දැන්වීමක් (sponsored ad) ලෙස දිස්වන බව ඔවුහු පැවසූහ.
+2. Candidates and their campaigns heavily utilize social media platforms to disseminate information and sway public opinion.
+
+
+
+3. Disinformation and propaganda spread through social media can be difficult to detect and regulate.
+
+
+
+4. The Election Commission faces challenges in monitoring and regulating social media content during elections.
+
+
+
+5. Some experts suggest strengthening the Election Commission's human resources and technology capabilities to better address these issues.
+
+
+
+6. Social media companies are being called upon to contribute to holding free and fair elections.
+
+
+
+7. The Election Commission has implemented measures to suppress election-related content during the silent period before the election.
+
+
+
+8. While social media may influence public opinion, it is not considered to directly determine voting outcomes on election day.
+
+
+
+9. Younger generations are more active in spreading election-related content on social media platforms.
+
+
+
+10. Traditional methods like banners and posters are seen as less effective compared to social media in modern election campaigns.
+
+
+
+To answer your specific questions:
+
+
+
+1. The generation most focused on by presidential candidates appears to be younger voters, particularly those active on social media platforms.
+
+
+
+2. The Generation Z demographic is likely the primary target for many candidates due to their high social media usage and engagement rates.
+
+
+
+Regarding the results of 8 presidential elections in Sri Lanka, I would need more specific information to provide detailed analysis. However, I can offer general insights:
+
+
+
+1. Sri Lanka has experienced political instability and frequent changes in leadership since gaining independence in 1948.
+
+
+
+2. The country has held eight presidential elections since its first democratic election in 1982.
+
+
+
+3. The most recent presidential election took place in 2019, which saw Gotabaya Rajapaksa elected as president.
+
+
+
+4. Prior to that, Maithripala Sirisena won the 2015 presidential election, defeating incumbent Mahinda Rajapaksa.
+
+
+
+5. Other notable winners include Chandrika Kumaratunga (1994), Ranasinghe Premadasa (1989), and Junius Richard Jayewardene (1978).
+
+
+
+6. The election system in Sri Lanka has evolved over time, with various reforms aimed at improving transparency and fairness.
+
+
+
+To provide more comprehensive analysis of the election results, I would need access to specific data and historical records of each election. If you have any particular aspect of the election results you'd like to explore further, please let me know, and I'll do my best to provide more detailed information.
+
+🟩
+
+"These days are the polling camps that look more like this days. There are standards related to the candidates of each pagees. Muddy propagation is. Silly talks going. We're not going to them. We haven't been licked. But just come to the Newsfield. "
+
+A student of Sri Jayawardenha University comprised of six girls and three young people, a student of the Sri Jayawardenha University.
+
+The students were out of lecture halls, as we went there.
+
+The majority of them were in many parts of the country, near their 25th.
+
+Not only Facebook but also the Instagram of the Meta Company, they were an active group of social media.
+
+They referred to that when the social media perioding the election, especially in the use of Facebook, about 7 or 8 of 8 or eight content they see.
+
+They are sometimes at times of the Sponsored AD.
+
+One young woman using the Instagram of them said: "Look!. "Instagram usually usually comes to the ad when five stores are over."
 
 ...
 
 [Data](articles/150d738d.json)
+
+[Extended Data](ext_articles/150d738d.ext.json)
 
 ---
 

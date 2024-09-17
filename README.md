@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 07:57:57**
+As of **2024-09-17 08:09:09**
 
 ## Newspaper Stats
 
-*Scraped **44,265** Articles*
+*Scraped **44,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,120 @@ economynextcom | 2,684
 dailyftlk | 2,935
 adalk | 4,086
 dailymirrorlk | 4,733
-adaderanalk | 5,210
-tamilmirrorlk | 5,773
+adaderanalk | 5,212
+tamilmirrorlk | 5,775
 virakesarilk | 7,051
-adaderanasinhalalk | 7,576
+adaderanasinhalalk | 7,577
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,258 (100.0%) of 44,265 articles have been extended.
+44,258 (100.0%) of 44,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### உத்தியோகபூர்வ முடிவுகளை வெளியிட மாட்டோம்
+
+*2024-09-17 07:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உத்தியோகபூர்வ-முடிவுகளை-வெளியிட-மாட்டோம்/175-343877) · `ta`
+
+இலங்கை தேர்தல்கள் ஆணைக்குழுவினால் வெளியிடப்பட்டுள்ள வழிகாட்டுதல்களை ஊடக நிறுவனங்கள் கடைப்பிடிப்பதன் முக்கியத்துவத்தை எடுத்துரைத்த ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க, ஜனாதிபதித் தேர்தல்களின் உத்தியோகபூர்வ முடிவுகளை ஊடக வழிகாட்டல்களை பின்பற்றாத ஊடகங்களுக்கு வெளியிட மாட்டோம் என்று எச்சரித்தார்.
+
+தேர்தல் செய்திகளை வெளியிடும் போது ஊடக வழிகாட்டுதல்களை மீறும் அல்லது பின்பற்றாத எந்தவொரு ஊடக நிறுவனத்திற்கும் எதிராக சட்டப்படி நடவடிக்கை எடுக்க முடியாது என்றாலும், ஆணைக்குழு அத்தகைய ஊடக நிறுவனங்களிலிருந்து விலகி இருக்க முடியும் என ஆணையாளர் தெரிவித்தார்.
+
+ஊடக வழிகாட்டுதல்களை மீறும் எந்தவொரு ஊடக நிறுவனத்திற்கும் அது எதிராக எடுக்கப்பட்ட நடவடிக்கைகள் குறித்து கேட்டபோது, ​​​​முதலில் வழிகாட்டுதல்களை மீற வேண்டாம் என்று எச்சரிக்கை விடுப்போம் என்று தலைவர் கூறினார்.
+
+"எந்தவொரு ஊடக நிறுவனமும் எங்களால் வெளியிடப்பட்ட ஊடக வழிகாட்டுதல்களை மீண்டும் மீண்டும் மீறினால், உத்தியோகபூர்வ தேர்தல் முடிவுகளை வெளியிடாத அளவிற்கு செல்வதை நாங்கள் கருத்தில் கொள்வோம்" என்று ரத்நாயக்க கூறினார்.
+
+...
+
+[Data](articles/c181a5b2.json)
+
+---
+
+### ජාත්‍යන්තර මැතිවරණ නිරීක්ෂකයින් සහ කොමිසමේ සාමාජිකයින් අතර හමුවක්
+
+*2024-09-17 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201101) · `si`
+
+ජනාධිපතිවරණයේ නිරීක්ෂණ කටයුතු සඳහා මෙරටට පැමිණ තිබෙන විදේශීය නිරීක්ෂකයින් සහ මැතිවරණ කොමිෂන් සභාව අතර සාකච්ඡාවත් අද පැවැත්වීමට නියමිතව තිබේ.
+
+අද (18) පෙරවරුවේ මැතිවරණ කොමිෂන් සභා පරිශ්‍රයේ දී මෙම සාකච්ඡාව පැවැත්වෙනු ඇත.
+
+ජාත්‍යන්තර නිරීක්ෂකයින් සහ මැතිවරණ කොමිෂන් සභා සාමාජිකයින් අතර පැවැත්වෙන පළමු සාකච්ඡාව ද මෙය වේ.
+
+නිදහස් මැතිවරණයක් සඳහා වූ ආසියානු ජාලය හෙවත් ඇන්ෆරල් සහ පොදුරාජ්‍ය මණ්ඩලීය මැතිවරණ නිරීක්ෂකයින් මෙම සාකච්ඡාවට සහභාගී වනු ඇත.
+
+මෙම නිරීක්ෂකයින් හෙට දිනයේ සිට දිවයිනේ විවිධ දිස්ත්‍රික්කවලට මැතිවරණ නිරීක්ෂණ කටයුතු සඳහා යෑමට නියමිත බැවින් ඔවුන් මෙලෙස අද දිනයේ දී මැතිවරණ කොමිෂන් සභා නිලධාරීන් හමුවීමට නියමිතය.
+
+මේ අතර ජනාධිපතිවරණ සමයේ අවසන් සතිය තුළ නීතිය සහ සාමය ආරක්ෂා කිරීම ඉතා අත්‍යාවශ්‍ය බව පැෆ්රල් සංවිධානය පවසයි.
+
+එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පැවසුවේ, ඇතැම් සාවාද්‍ය කාරණා සම්බන්ධයෙන් ජනතාව අනියත බියක් ඇතිකර ගත නොගත යුතු බවය.
+
+◼️
+
+[Data](articles/09af08a1.json)
+
+---
+
+### இன்று இடைக்கிடையே  மழை பெய்யும்
+
+*2024-09-17 07:46:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடைக்கிடையே-மழை-பெய்யும்/175-343876) · `ta`
+
+சப்ரகமுவ, மேல் மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் கண்டி , நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று (17) இடைக்கிடையே  மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களின் பல இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+மத்திய மலைப் பிராந்தியத்தின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை , மொனராகலை மற்றும் திருகோணமலை மாவட்டங்களிலும் மணித்தியாலத்திற்கு 40 - 45 கிலோமீற்றர் வேகத்தில் அடிக்கடி பலத்த காற்று வீசக் கூடும்.
+
+சிலாபம் தொடக்கம் கொழும்பு, காலி ஊடாக மாத்தறை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களில் அடிக்கடி மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 30 - 40 கிலோமீற்றர் வேகத்தில் மேற்கு அல்லது தென்மேற்குத் திசையில் இருந்து காற்று வீசும்.
+
+...
+
+[Data](articles/37aff360.json)
+
+---
+
+### Trump assassination plot suspect hit with firearms charges after failed attempt
+
+*2024-09-17 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102029/trump-assassination-plot-suspect-hit-with-firearms-charges-after-failed-attempt) · `en`
+
+A man suspected of plotting to assassinate former US president Donald Trump was charged with federal gun crimes yesterday.
+
+Ryan Wesley Routh, 58, was charged with possession of a firearm as a convicted felon and possession of a firearm with an obliterated serial number at his initial court appearance.
+
+Routh, who was arrested on Sunday after an alleged abortive bid to shoot the Republican presidential candidate at his West Palm Beach golf course, is expected to face further charges at a later date.
+
+Routh appeared calm during the brief court hearing before Magistrate Judge Ryon McCabe of the Southern District of Florida, answering “yes” to several questions.
+
+A detention hearing was scheduled for September 23 and an arraignment on further potential charges was set for September 30.
+
+...
+
+[Data](articles/8b0eb5ee.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-09-17 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102028/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in the Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at several places in Eastern and Uva provinces during the evening or night.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, and North-western provinces and in Hambantota, Monaragala and Trincomalee districts, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/24fcfeb1.json)
+
+---
 
 ### වීඩියෝ පට කිහිපයක් ගැන පොලීසියෙන් නිවේදනයක්
 
@@ -2199,117 +2299,5 @@ Subsequently, the suspect has been handed over to the Wattala police for further
 [Data](articles/2b6a089f.json)
 
 [Extended Data](ext_articles/2b6a089f.ext.json)
-
----
-
-### Arrested in 12 youths played on a separate wheel
-
-*2024-09-16 14:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-சக்கரத்தில்-விளையாடிய-12-இளைஞர்கள்-கைது/175-343848) · `ta`
-
-12 youths arrested for riding 18 motorcycles on alternative route. Police raided based on noise complaints. Motorcycles seized during arrest.
-
-🟩
-
-Piliyandala police say that 12 youths have been arrested with 18 motorcycles on motorbikes on the Kespeva Jaliyakoda alternate route via social network Tik Tok.
-
-Police said the youth had fled after leaving motorcycles during the raid.
-
-A group of ten police officers went there on the basis of telephone calls that followed the 119 police emergency station and the Piliyandala police station that a large number of three -wheelers and motorcycles were making more noise on the road from evening to midnight.. Police said the youth had been arrested.
-
-◼️
-
-[Data](articles/3dddb898.json)
-
-[Extended Data](ext_articles/3dddb898.ext.json)
-
----
-
-### Vote for Sajith - TNA high -level committee
-
-*2024-09-16 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193852) · `ta`
-
-TNA supports Sajith Premadasa for president. Party leaders discuss election manifestos focusing on Tamil rights and economic development. They reject prioritizing Buddhism and call for federal structure. After debate, TNA decides to back Sajith Premadasa in upcoming election.
-
-🟩
-
-The TNA has issued a statement saying that voters should give their vote in accordance with the central committee of our party to support the United People's Alliance candidate Sajith Premadasa in the upcoming presidential election.
-
-A high -level discussion on the presidential election was held on Monday (16) at the office of the Vavuniya TNA.
-
-The meeting was attended by party leader Mawaisenathirajah, Members of Parliament MA Sumanthiran, C. Siritharan, Secretary P Sathiyalingam, Mayor Saravanapavan and CVK Sivagnanam.
-
-After the discussion, the decision of the TNA was read by the party leader Mawaisenathiraja.
-
-The presidential election will be held on the 21st of this month in Sri Lanka. The election manifesto of three main candidates was considered in this election. The election manifesto was focused on the political solution for the Tamil people and the economic development of the areas of the Tamil people.
-
-...
-
-[Data](articles/c7b30c67.json)
-
-[Extended Data](ext_articles/c7b30c67.ext.json)
-
----
-
-### ICC Award received received by Hershithe
-
-*2024-09-16 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201084) · `si`
-
-Hershithe receives ICC Award as Sri Lankan women's cricket team member. She joins Chamari Atapattu, who won in May and July.
-
-🟩
-
-The International Cricket Council announced that ICC women's cricketer was selected for August, a member of the Sri Lankan women's cricket team.
-
-The victory has led to the victory at the time of the left.
-
-The Sri Lankan athletes are the winning 3 out of the 4 occasions selected by the month of ICC.
-
-In May and July, Chamari Atapattu won the award.
-
-◼️
-
-[Data](articles/30e56e5e.json)
-
-[Extended Data](ext_articles/30e56e5e.ext.json)
-
----
-
-### Love Namal
-
-*2024-09-16 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201082) · `si`
-
-Namal Rajapaksa presidential campaign rallies focus on economic growth, technological advancement, and addressing public service issues. He emphasizes his commitment to modernization and improving living standards for future generations.
-
-🟩
-
-Presidential candidate, Namal Rajapaksa, says that the future generations of the future is working in its control.
-
-A rally was held in Kurunegala yesterday (15), organized by Namal Rajapaksa's victory for the presidency of the Sri Lanka General Front.
-
-...
-
-[Data](articles/d2fb4514.json)
-
-[Extended Data](ext_articles/d2fb4514.ext.json)
-
----
-
-### Dunith Wellalage named ICC Men’s Player of the Month
-
-*2024-09-16 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102018/dunith-wellalage-named-icc-mens-player-of-the-month) · `en`
-
-Dunith Wellalage’s all-round brilliance against India helped him win the ICC Men’s Player of the Month award for August 2024. The 21-year-old overcame competition from South Africa’s Keshav Maharaj and West Indies’ Jayden Seales to secure the award.
-
-Wellalage, the former Sri Lanka U19 skipper, made big strides in his nascent international career in August 2024. With his help, Sri Lanka overcame India for the first time in a bilateral ODI series since 1997.
-
-The Island nation had a significant challenge in the form of India, the ICC Men’s Cricket World Cup runner-up. The Men in Blue had already secured a 3-0 T20I series win against Sri Lanka and with the return of top stars like Virat Kohli and Rohit Sharma, India were easily the favourites to win the ODI series.
-
-Wellalage with 108 runs and seven wickets helped Sri Lanka overcome the India challenge in the series, contributing at crucial stages of each game.
-
-...
-
-[Data](articles/c1900289.json)
-
-[Extended Data](ext_articles/c1900289.ext.json)
 
 ---

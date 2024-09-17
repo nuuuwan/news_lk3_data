@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 08:57:26**
+As of **2024-09-17 09:09:22**
 
 ## Newspaper Stats
 
-*Scraped **44,275** Articles*
+*Scraped **44,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,41 @@ dailyftlk | 2,935
 adalk | 4,086
 dailymirrorlk | 4,733
 adaderanalk | 5,213
-tamilmirrorlk | 5,775
+tamilmirrorlk | 5,776
 virakesarilk | 7,051
-adaderanasinhalalk | 7,580
+adaderanasinhalalk | 7,581
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,275 (100.0%) of 44,275 articles have been extended.
+44,277 (100.0%) of 44,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Dilith instead of the subsidy system
+
+*2024-09-17 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201105) · `si`
+
+Entrepreneurial Dilith Jayaweera proposes replacing Sri Lanka's subsidy system with a new program. He aims to increase household incomes, reduce dependency on politicians, and boost revenue for Samurdhi officers. His plan includes surveying households and implementing policies to improve economic conditions.
+
+🟩
+
+The execution presidential candidate, entrepreneral Dilith Jayaweera says that a new arrival is planned to replace the subsidy system of Sri Lanka.
+
+Addressing Entrepreneral Dilith Jayaweera made this statement participating in a famil in Moneragala.
+
+"Every day has been deceased every day, the popular Father. Then came prosperity. And then came about the convenience. Now your eyes are not closed. We submitted the proof program. The Supreme Program is a Samurdhi family, you have made the program to follow the politician, and your home's minimum income should be one million. We will definitely refer to that there is 100,000. The following is a specific program for this purpose. Also, we have prepared a program to shut down the Samurdhi officers. We bring a program to double their revenues. There is only one thing to do. Get the pencil, the leaf. 10 has my name. Surveying the snow. A day will come to all of you. There is a star in this sky. Star ahead to hit you to be star. "
+
+◼️
+
+[Data](articles/7e9bc003.json)
+
+[Extended Data](ext_articles/7e9bc003.ext.json)
+
+---
 
 ### Official ballot papers ends 97 percent
 
@@ -147,6 +169,30 @@ Malayalam cinema super stars Mammootty and Mohanlal will star in this film. Loca
 [Data](articles/aae0db1c.json)
 
 [Extended Data](ext_articles/aae0db1c.ext.json)
+
+---
+
+### Problem with sharing Arakala videos
+
+*2024-09-17 07:58:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-காணொளிகளைப்-பகிர்ந்தால்-சிக்கல்/175-343878) · `ta`
+
+Sri Lanka: Legal action against sharing fake Arakala struggle videos for political gain. Police reclaiming footage from social media, citing threat to national security and disruption of law and order.
+
+🟩
+
+Sri Lanka Felis has said that legal action will be taken against persons who share false videos of violence during the 2022 Arakali struggle for political gain.
+
+Police said that the video tests near the Katunayake Airport and the videographers in various parts of the island have been reclaimed on social media.
+
+Police said the videos were creating a false story, misleading the public and disrupting the law and order.
+
+Legal action will be taken against those who register to threaten national security, police said.
+
+◼️
+
+[Data](articles/16672729.json)
+
+[Extended Data](ext_articles/16672729.ext.json)
 
 ---
 
@@ -2287,61 +2333,5 @@ Bogawantalawa police said that legal action would be taken at the Hatton Magistr
 [Data](articles/6c192a7b.json)
 
 [Extended Data](ext_articles/6c192a7b.ext.json)
-
----
-
-### I oppose the resolution of the Tamil party - C. Chitran
-
-*2024-09-16 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193855) · `ta`
-
-Tamil party opposes TNA decision supporting Sajith Premadasa. Leader criticizes hasty resolution process. Promises to continue opposing common Tamil candidate. Key figures absent from meeting.
-
-🟩
-
-I oppose the decision of the TNA. Sridharan said.
-
-He said this while commenting on a group of six people at the party office in Vavuniya.
-
-At today's meeting, five were in support of Sajith Premadasa.
-
-A report was written on it. The report was already supported by Sajith Premadasa.
-
-I am also supplying the resolution error in the Central Committee on the first day. As a choice leader, I was in writing and left Britain. I will return to Sri Lanka on the 6th. I was told not to hold the meeting until the seventh.
-
-General Secretary Sathiyalingam also promised me that the decisions would not be taken even if they had such meetings.
-
-When we meet Mawai Senathiraja, the current chairman, we will not pass any resolutions.
-
-On August 18, a six -member committee was appointed on August 18 and the committee did not take a decision and made a hurry to the central committee.They have taken the decision for Sajith Premadasa.
-
-...
-
-[Data](articles/0fb85f56.json)
-
-[Extended Data](ext_articles/0fb85f56.ext.json)
-
----
-
-### ICC player and player in August Sri Lanka
-
-*2024-09-16 15:17:13* · [`adalk`](https://www.ada.lk/sports/අගෝස්තු-මාසයේ--අයි-සී-සී-ක්‍රීඩකයා-සහ-ක්‍රීඩිකාව-ශ්‍රී-ලංකාවෙන්/9-411963) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka cricket: ICC declares players Hershaya Samarawickrema and Dunil Vellalage winners of awards in August.
-
-🟩
-
-The player and the player named International Cricket Council has been declared in relation to August.
-
-Hershaya Media Samarawickrema has won the Award for the Award and the player Award was won by Dunil Vellalage.
-
-◼️
-
-[Data](articles/a33b04d8.json)
-
-[Extended Data](ext_articles/a33b04d8.ext.json)
 
 ---

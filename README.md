@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 16:55:26**
+As of **2024-09-17 17:07:34**
 
 ## Newspaper Stats
 
-*Scraped **44,351** Articles*
+*Scraped **44,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,221
 tamilmirrorlk | 5,788
 virakesarilk | 7,079
-adaderanasinhalalk | 7,596
+adaderanasinhalalk | 7,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,351 (100.0%) of 44,351 articles have been extended.
+44,352 (100.0%) of 44,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Sampath was killed as a seat organizer
+
+*2024-09-17 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201121) · `si`
+
+Sampath Gamage, SLFP organizer, killed at home. Murdered by someone from a three-wheeler during a casual encounter.
+
+🟩
+
+Sampath Gamage, the main organizer of the Sri Lanka Freedom Party (SLFP Hiniduma electorate) has been murdered at his residence.
+
+The Meegoda Police said that he had committed the crime at the house of the Panagoda Samagi Mawatha, Homagama.
+
+Police further stated that it was revealed about a casual relationship.
+
+Preliminary investigations have revealed that he had been attacked by a hearing by a person from a three-wheeler.
+
+The deceased police officer in the Nugegoda Police said that the deceased has been the Chief Organizer of the Sri Lanka Freedom Party (SLFP Hiniduma electorate).
+
+◼️
+
+[Data](articles/647234f1.json)
+
+[Extended Data](ext_articles/647234f1.ext.json)
+
+---
 
 ### A massive objection begins in Pakistan
 
@@ -2649,29 +2675,5 @@ As the final lap of the presidential election campaign comes to its close at mid
 [Data](articles/21e80502.json)
 
 [Extended Data](ext_articles/21e80502.ext.json)
-
----
-
-### J’pura Students’ Union files complaint with ECSL against Sajith
-
-*2024-09-17 01:29:46* · [`dailyftlk`](https://www.ft.lk/news/J-pura-Students-Union-files-complaint-with-ECSL-against-Sajith/56-766782) · `en`
-
-Says the SJB Presidential candidate is disseminating false information through election platforms in relation to a clash which occurred recently
-
-Claims he is misinterpreting it as an inter-part clash at the University for political gain
-
-Stresses Premadasa’s statements have unfairly tarnished students and the university
-
-Calls on the ECSL to investigate and take immediate action against Premadasa
-
-The General Students’ Union of Sri Jayewardenepura University has lodged a formal complaint with the Election Commission, accusing Samagi Jana Balawegaya (SJB) Presidential candidate Sajith Premadasa and his representatives of disseminating false information through election platforms.
-
-The complaint comes in the wake of unrest at the university, which led to its temporary closure on 12 September.
-
-...
-
-[Data](articles/4a07702c.json)
-
-[Extended Data](ext_articles/4a07702c.ext.json)
 
 ---

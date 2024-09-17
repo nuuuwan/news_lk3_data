@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 12:56:01**
+As of **2024-09-17 13:07:47**
 
 ## Newspaper Stats
 
-*Scraped **44,308** Articles*
+*Scraped **44,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,090
 dailymirrorlk | 4,733
-adaderanalk | 5,216
-tamilmirrorlk | 5,785
+adaderanalk | 5,217
+tamilmirrorlk | 5,786
 virakesarilk | 7,057
-adaderanasinhalalk | 7,587
+adaderanasinhalalk | 7,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,308 (100.0%) of 44,308 articles have been extended.
+44,308 (100.0%) of 44,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### புது டெல்லியின் அடுத்த முதல்வராகிறார்  அதிஷி
+
+*2024-09-17 12:52:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புது-டெல்லியின்-அடுத்த-முதல்வராகிறார்-அதிஷி/175-343893) · `ta`
+
+டெல்லி முதல்வர் அரவிந்த் கெஜ்ரிவால் இன்று மாலை தனது பதவியை இராஜினாமா செய்ய உள்ள நிலையில், டெல்லியின் அடுத்த முதல்வராக அமைச்சர் அதிஷியின் பெயர் முன்மொழியப்பட்டுள்ளது. அனைத்து எம்எல்ஏக்களும் அதற்கு ஒப்புதல் அளித்துள்ளனர்.
+
+மதுபான கொள்கை ஊழல் வழக்கில் டெல்லி திஹார் சிறையில் இருந்த கெஜ்ரிவால் கடந்த 13ஆம் திகதி ஜாமீனில் விடுதலையானார். இதையடுத்து ஆம் ஆத்மி கட்சி நிர்வாகிகள் கூட்டத்தில் அர்விந்த் கெஜ்ரிவால் கடந்த ஞாயிற்றுக்கிழமை (செப்.15) பேசும்போது, “முதல்வர் பதவியை 2 நாட்களில் இராஜினாமா செய்வேன். மக்கள் எனக்கு மீண்டும் வாக்களித்த பிறகு மீண்டும் அப்பதவியில் அமர்வேன்” என்றார்.
+
+இதன்படி இன்று கெஜ்ரிவால் பதவியை இராஜினாமா செய்ய இருக்கிறார். இதற்காக டெல்லி துணை நிலை ஆளுநர் வினய் சக்சேனாவை மாலை 4.30 மணிக்கு சந்தித்து தனது இராஜினமா கடிதத்தை அளிக்கவுள்ளார்.
+
+...
+
+[Data](articles/607728c7.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතනයේ තවත් සැකකරුවෙකු කොටුවෙයි
+
+*2024-09-17 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201112) · `si`
+
+ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත හෙවත් ක්ලබ් වසන්ත ඝාතනයට අදාළ තවත් සැකකරුවෙක් බස්නාහිර දකුණ අපරාධ විමර්ශන ඒකකය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+වෙඩි තැබීම සඳහා යොදාගත් උණ්ඩවල KPI ලෙස සටහන් කිරීම හා මෝටර් රථයකින් සැකකරුවන් අතුරුගිරිය ගල්පොත්ත ප්‍රදේශයට ප්‍රවාහනය කර ඇත්තේ මෙම සැකකරු බව පොලිසිය අනාවරණ කරගෙන තිබේ.
+
+◼️
+
+[Data](articles/f8c2d78b.json)
+
+---
+
+### 97% of polling cards distributed - Postal Dept.
+
+*2024-09-17 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102036/97-of-polling-cards-distributed-postal-dept) · `en`
+
+The Postal Department says that the distribution of around 97% of the official polling cards for the 2024 presidential election has already been completed thus far.
+
+Deputy Postmaster General Rajitha Ranasinghe mentioned that the distribution of official polling cards which commenced on September 03 was ended on the September 14.
+
+However, he said that if any voter has not received their official polling cards as of now, they can visit their local post office with their National Identity Card (NIC) after September 18 to verify their identity and obtain their polling card.
+
+He stated that this opportunity will be available for the voters until the date of the presidential election, which will be held on September 21.
+
+◼️
+
+[Data](articles/63011063.json)
+
+---
 
 ### Myanmar's deceased will go up
 
@@ -2383,73 +2431,5 @@ Commenting on President Ranil Wickremesinghe, he said the president is asking th
 [Data](articles/3d99619e.json)
 
 [Extended Data](ext_articles/3d99619e.ext.json)
-
----
-
-### 38,000 dengue patients this year
-
-*2024-09-16 19:54:49* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-ඩෙංගු-රෝගීන්-38000ක්/11-411973) · `si`
-
-Dengue cases surge: 78,088 reported since Jan 2023. Colombo leads with 24.8%, followed by Gampaha (41.8%) and Northern Province (12.4%). 17 deaths recorded. Dengue eradication efforts underway in 10 districts.
-
-🟩
-
-Says 78088 dengue patients have been reported from 1st January this year.. It is also said that 24.8% of these patients were reported from the Colombo District.
-
-4381 patients from the Gampaha district have been reported from the Western Province as a percentage of 41.8% of the entire patients.
-
-4738 patients were reported from the Northern Province. It is 12.4% as a percentage of overall patients.3895 patients have been reported from the Central Province. It is 10.2% as a percentage of overall patients.2521 patients have been reported from the North Western Province. It is 6.6% as a percentage.2834 patients were reported from the Southern Province.% 74%. 3875 patients were reported from the Sabaragamuwa Province, 10.2% as a percentage.
-
-In the last year, 3897 patients and 389, in July, was Rs.Have been.
-
-17 deaths have been reported due to dengue due to this year. The Health Division points out that the dengue eradication of 10 power areas is spreading in 10 power areas.
-
-◼️
-
-[Data](articles/79f5b42c.json)
-
-[Extended Data](ext_articles/79f5b42c.ext.json)
-
----
-
-### Tamil College in Ratnapura in Ranil's next regime
-
-*2024-09-16 19:52:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரணிலின்-அடுத்த-ஆட்சியில்-இரத்தினபுரியில்-தமிழ்-கல்லூரி/76-343862) · `ta`
-
-Sri Lanka Workers Congress plans Tamil College in Ratnapura. Land acquired, awaiting Ranil Wickremesinghe's support for construction.
-
-🟩
-
-The Sri Lanka Workers Congress (Ceylon) General Association at the Sri Lanka Workers Congress at the Ratnapura General Meeting held in Ratnapura, the Ceylon Workers Congress, will take action to build the Tamil National College with all the amenities of high -quality mathematics, science and technology, which can be the long -standing need of the Ratnapura District Tamil community.Said.
-
-At the request of the Ceylon Workers Congress, the Ceylon Workers Congress has already received the 05 acres of land for the project and that the next phase of the presidential election is expected to take place at the end of the presidential election, Hon.
-
-Ranil Wickremesinghe, with the full support of the Ceylon Workers Congress, said that Ranil Wickremesinghe would be fully supported by the Tamil people of the Ratnapura district to re -elected president in the country.
-
-◼️
-
-[Data](articles/c9c8d6f6.json)
-
-[Extended Data](ext_articles/c9c8d6f6.ext.json)
-
----
-
-### The politician is subject to the common law
-
-*2024-09-16 19:40:08* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලකයා-පොදු-නීතියට-යටත්-කරනවා/11-411972) · `si`
-
-Politician accountable under common law. Anura Kumara Dissanayake vows to punish rule-breakers, stop public wealth misuse. Promises stronger institutions, equal treatment between police and politicians. Criticizes Ranil Wickremesinghe's focus on export economy over domestic production. Emphasizes building local industries and services to boost national economy.
-
-🟩
-
-Anura Kumara Dissanayake said the presidential candidate of the National Power to strengthen the rules and steal public property. He said that public wealth would stop wasting and the politician is subject to the common law.
-
-Anura Kumara Dissanayake made these comments addressing a popularity in the Nawalapitiya held in the Nawalapitiya by the 'country'.. He also said:
-
-...
-
-[Data](articles/1451de3f.json)
-
-[Extended Data](ext_articles/1451de3f.ext.json)
 
 ---

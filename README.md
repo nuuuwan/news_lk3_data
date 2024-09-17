@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 20:09:19**
+As of **2024-09-17 20:22:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,379 (100.0%) of 44,380 articles have been extended.
+44,380 (100.0%) of 44,380 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The police have decided to implement special traffic plans to reduce traffic con
 ◼️
 
 [Data](articles/9fa45ef8.json)
+
+[Extended Data](ext_articles/9fa45ef8.ext.json)
 
 ---
 

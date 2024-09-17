@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 15:08:29**
+As of **2024-09-17 15:22:23**
 
 ## Newspaper Stats
 
-*Scraped **44,337** Articles*
+*Scraped **44,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ dailymirrorlk | 4,733
 adaderanalk | 5,220
 tamilmirrorlk | 5,788
 virakesarilk | 7,071
-adaderanasinhalalk | 7,591
+adaderanasinhalalk | 7,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,337 (100.0%) of 44,337 articles have been extended.
+44,337 (100.0%) of 44,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### හෙට තරගයට එන ශ්‍රී ලංකා කණ්ඩායම මෙන්න
+
+*2024-09-17 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201116) · `si`
+
+ශ්‍රී ලංකාව සහ නවසීලන්තය අතර පැවැත්වෙන තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලිය සඳහා ශ්‍රී ලංකා කණ්ඩායම නම්කර තිබේ.
+
+එම ටෙස්ට් තරග ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී පැවැත්වෙන අතර පළමු තරගය හෙට (18) ආරම්භ වෙයි.
+
+◼️
+
+[Data](articles/341e7927.json)
+
+---
 
 ### Vines can be out of the bridge if the duty are fulfilled - Ranil
 
@@ -2553,29 +2567,5 @@ On social media, this came up regarding the band’s concert in Perth:
 [Data](articles/e19e2e96.json)
 
 [Extended Data](ext_articles/e19e2e96.ext.json)
-
----
-
-### To support Namal Ranil - request to Mahinda
-
-*2024-09-16 22:59:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ரணிலுக்கு-ஆதரவளிக்க-வேண்டும்-மஹிந்தவிடம்-கோரிக்கை/175-343867) · `ta`
-
-Namal Rajapaksa seeks Mahinda's backing; Ranil Wickremesinghe holds Narahenpitiya event.
-
-🟩
-
-The worshiper Thothambahala Rahula Thera today requested former President Mahinda Rajapaksa to support Namal Rajapaksa as the presidential candidate and support the independent candidate Ranil Wickremesinghe.
-
-Independent Presidential candidate Ranil Wickremesinghe's success conference was held this afternoon at the Narahenpitiya Abhayarama Vihara.
-
-Addressing the gathering, the President of the University of Colombo Narahenpitti Abayarama Chairman Muruttettu Ananda Thera.
-
-"I say everywhere that Ranil Wickremesinghe is the only leader who can lead this country."Said. Remble
-
-◼️
-
-[Data](articles/0b873823.json)
-
-[Extended Data](ext_articles/0b873823.ext.json)
 
 ---

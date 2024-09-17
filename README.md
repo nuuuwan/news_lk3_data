@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 14:11:19**
+As of **2024-09-17 14:23:46**
 
 ## Newspaper Stats
 
-*Scraped **44,325** Articles*
+*Scraped **44,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,130 @@ colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,685
 dailyftlk | 2,935
-adalk | 4,090
+adalk | 4,092
 dailymirrorlk | 4,733
-adaderanalk | 5,219
+adaderanalk | 5,220
 tamilmirrorlk | 5,788
-virakesarilk | 7,065
-adaderanasinhalalk | 7,589
+virakesarilk | 7,071
+adaderanasinhalalk | 7,590
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,325 (100.0%) of 44,325 articles have been extended.
+44,325 (100.0%) of 44,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### මිලියන 40කට ආසන්න පිරිසක් මරණට පත්වීමේ අවධානමක්
+
+*2024-09-17 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201114) · `si`
+
+ඖෂධවලින් පාලනය කළ නොහැකි බැක්ටීරියා සහ දිලීර වැනි රෝගකාරක හේතුවෙන් 2025 සහ 2050 අතර කාලය තුළ පුද්ගලයින් මිලියන 40කට ආසන්න පිරිසක් මරණයට පත්විය හැකි බව නවතම වාර්තාවකින් අනාවරණ වී තිබේ.
+
+'ද ලැන්කැස්ට්' සඟරාව පළකළ මෙම වාර්තාව මෙම තත්ත්වය නම් කර ඇත්තේ 'සුපර්බග් ක්‍රයිසිස්' එනම් 'සුපර්බග් අර්බුදය' ලෙසිනි.
+
+ලෝක සෞඛ්‍ය සංවිධානය අනතුරු අඟවා ඇත්තේ ඖෂධවලට ඔරොත්තු නොදෙන මෙවැනි ක්ෂුද්‍රජීවී රෝගකාරක, වර්ධනය වෙමින් පවතින ගෝලීය මහජන සෞඛ්‍ය අවදානමක් බවය.
+
+පුද්ගලයින් මිලියන 520කට ආසන්න පිරිසක් යොදාගෙන කාලයක් පුරා සිදුකළ මෙම පර්යේෂණවලින් සොයාගෙන ඇත්තේ මෙම අර්බුදයේ වැඩි බලපෑම එල්ලවන්නේ වයස්ගත පුද්ගලයින්ට බවයි.
+
+◼️
+
+[Data](articles/6f7a5b0e.json)
+
+---
+
+### பெண்களின் பாரம்பரிய ஆடையை பற்றி பேசும் 'சாரீ '
+
+*2024-09-17 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193926) · `ta`
+
+நடிகை ஆராத்யா தேவி கதையின் நாயகியாக முதன்மையான வேடத்தில் நடித்திருக்கும் திரைப்படத்திற்கு 'சாரீ ' என பெயரிடப்பட்டு, அதன் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் கிரி கிருஷ்ண கமல் இயக்கத்தில் உருவாகி இருக்கும் 'சாரீ' எனும் திரைப்படத்தில் சத்யா யாது , ஆராத்யா தேவி ஆகிய இருவரும் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கிறார்கள்.
+
+உளவியல் ரீதியிலான திகில் படைப்பாக உருவாகி இருக்கும் இந்த திரைப்படத்தை ஆர் ஜி வி ஆர் வி புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் ரவி வர்மா தயாரித்திருக்கிறார்.
+
+இந்தத் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது. இதில் நாயகன் விரும்பும் பெண்கள் அணியும் பாரம்பரிய ஆடையான சேலையை யாராவது அணிந்திருந்தால் அந்தப் பெண்ணை கொலை செய்கிறார் நாயகன். இதன் சுவராசியமான பின்னணி என்ன என்பதுதான் இப்படத்தின் கதை.
+
+இதனை உணர்த்தும் வகையில் கிளர்வோட்டத்தில் நாயகியின் கவர்ச்சியான காட்சிகளும், நாயகனின் மிரட்டும் காட்சிகளும் இடம் பிடித்திருப்பதால் ரசிகர்களை கவர்ந்திருக்கிறது.
+
+...
+
+[Data](articles/3e2ee42b.json)
+
+---
+
+### ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் இந்தியாவிற்கு நிரந்தர உறுப்புரிமையை வழங்கவேண்டும் - சஜித்
+
+*2024-09-17 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193930) · `ta`
+
+ஐநா பாதுகாப்புச்சபையில் இந்தியாவிற்கு நிரந்தர இடம்கிடைப்பதை நான் எப்போதும் ஆதரித்து வந்துள்ளேன் என ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித்பிரேமதாச தெரிவித்துள்ளார்
+
+இந்த தேர்தல் இலங்கை மக்களிற்கு ஏன் முக்கியமானது?உங்களிற்கு ஏன் அவர்கள் வாக்களிக்கவேண்டும் என நீங்கள்கருதுகின்றீர்கள்?
+
+பதில் - இலங்கையின் வரலாற்றில் இது மிகவும் முக்கியமானதொரு தருணம்,புதிய அணுகுமுறை, புதிய பாதையை உருவாக்கும் பார்வை, நீண்டகாலமாக காணப்படும். புதிய சிந்தனைகளை ஏற்க மறுப்பவர்களை அகற்றுதல் ஆகியவற்றிற்கு தங்கள் ஆணையை வழங்குவதற்கான வாய்ப்பு மக்களிற்கு கிடைத்துள்ளது.
+
+நாடு ஒரு பயங்கரமான மனித மற்றும் பொருளாதார சோகத்தை சந்தித்துள்ளது. குழந்தைகள் தாய்மார்கள் இளைஞர்கள்இ அனைவரையும் பாதித்த பேரழிவு நாடு முழுவதும் சூழ்ந்துள்ளது.
+
+பெரும் பணக்காரர்களைத் தவிர சமூகத்தின் அனைத்து அடுக்குகளும் பாதிக்கப்பட்டுள்ளன. பணக்காரர்களையும் துணை முதலாளிகளையும் பாதுகாக்கும் பழைய அணுகுமுறைக்கு எதிராக மக்கள் தேர்வு செய்ய இந்தத் தேர்தல் வாய்ப்பளிக்கும்.
+
+...
+
+[Data](articles/94c7a34e.json)
+
+---
+
+### අම්බලන්තොට රිදියගම ගොවිපොළේ සතුන්ගෙන් රෝගයක්
+
+*2024-09-17 13:57:18* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්තොට-රිදියගම-ගොවිපොළේ-සතුන්ගෙන්-රෝගයක්/11-411979) · `si`
+
+අම්බලන්තොට රිදියගම ගොවිපොළ ආශ්‍රිතව සතුන්ගෙන් වැළඳෙන බෘසෙල්ලෝසිස් (Brucellosis) නමැති රෝගය වැලඳුණු පුද්ගලයන් කිහිපදෙනකු වාර්තා වී ඇතැයි සෞඛ්‍ය අංශ පෙන්වා දෙයි.
+
+ගවයන්, එළුවන්, ඌරන් වැනි සතුන්ගෙන් එම රෝගය මිනිසුන්ට බෝවන අතර සතුන් සමග සමීපව කටයුතු කරන පුද්ගලයන්ට රෝගය වැලඳීමේ වැඩි අවධානමක් ඇත.
+
+රෝගය වැලඳුණු පුද්ගලයන් දස දෙනකු මේ වන විට ප්‍රතිකාර සඳහා හම්බන්තොට මහ රෝහලට ඇතුළත් කර ඇති බව වාර්තා වේ.
+
+මෙහි රෝග ලක්ෂණ ලෙස උණ, හිසරදය, ඇඟපත වේදනාව, වසාගැටිති ඉදිමීම, වමනය, පාචනය ආදී රෝග ලක්ෂණ පෙන්නුම් කරන අතර එවැනි ලක්ෂණ ඇතොත් වහාම වෛද්‍ය ප්‍රතිකාර සඳහා යොමු වන ලෙස සෞඛ්‍ය අංශ ජනතාව දැනුවත් කරයි. මෙම රෝගය වළක්වාගැනීම සම්බන්ධයෙන් ලෝක සෞඛ්‍ය සංවිධානය පෙන්වා දෙන ආකාරයට නිසි සනීපාරක්ෂක ක්‍රමවේද භාවිත කළ යුතු අතර සත්ත්ව අපද්‍රව්‍ය නිසි පරිදි බැහැර කළ බව පවසයි.
+
+තවද සතුන්ට රෝගය වැලඳීමට පෙර නිසි පරිදි එන්නත් කිරීම වැදගත් වන අතර සෑම වයස් කාණ්ඩයකම ජනතාවට රෝගය වැලඳිය හැකි බවත් ආරක්ෂාකාරී පියවර අනුගමනය කිරීමෙන් රෝගය පැතිරීම වළක්වාගත හැකි බව ද එම සංවිධානය පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/06f69e30.json)
+
+---
+
+### பேரினவாதிகளுக்கு வாக்களித்து அவர்களை பலப்படுத்த  தமிழர்கள் முட்டாள்களில்லை  - முன்னாள் தவிசாளர் நிரோஸ்
+
+*2024-09-17 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193921) · `ta`
+
+இலங்கை பொருளாதார ரீதியில் திவாலானமைக்கு தமிழ் மக்கள் மீதான யுத்த செலவீனமும் இனவாதத்தினால் தமிழ் மக்களை நாட்டின் அபிவிருத்தியில் பயன்படுத்தத் தவறியமையுமே காரணம் என்ற உண்மையை ஏற்று  சிந்திக்காத செயல்படாத பேரினவாதத் தலைவர்களை நோக்கி நாம் இனியும் வாக்களிக்க முடியாது  என முன்னாள் வலிகாமம் கிழக்குப் பிரதேச சபையின் முன்னாள் தவிசாளரும் ரெலோவின் தலைமைக்குழு உறுப்பினருமான தியாகராஜா நிரோஸ் தெரிவித்தார்.
+
+அச்சுவேலி முரசொலி முன்றலில் இடம்பெற்ற தமிழ் பொது வேட்பாளரை முன்னிறுத்திய பிரசாரக் கூட்டத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+தமிழ் மக்களின் வாக்குகள் தமக்குத் தேவை என வெற்றிவாய்ப்புக்காக போட்டியீடுகின்ற வேட்பாளர்கள் முன்டியடிக்கின்றனர். அவர்கள் தமிழ் மக்களிடத்தில் வாக்குகளைக் கேட்கும் போது, கடந்த காலத்தில் தமது அரசியல் நீரோட்டத்தில் எந்தளவு தூரம் இனவாத அணுகுமுறைக்குள் இருந்தனர் என்பதை சிந்தித்து நாட்டின் தலைவராவதற்கு அந்தஸ்தற்றவர்கள் என்பதை புரிந்து கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/b141bb6a.json)
+
+---
+
+### Investigation into possible Grade 5 Scholarship Exam paper leak
+
+*2024-09-17 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102039/investigation-into-possible-grade-5-scholarship-exam-paper-leak) · `en`
+
+The Commissioner General of Examinations Amit Jayasundara says that investigations are to be held tomorrow (18) into three questions shared for discussions yesterday being similar to those on the Grade 5 Scholarship exam paper.
+
+Speaking to Ada Derana, he stated that if investigations uncover that the questions have in fact been leaked, these questions would be disregarded during the paper marking process.
+
+◼️
+
+[Data](articles/f3443374.json)
+
+---
 
 ### GMOA strike tomorrow
 
@@ -53,6 +161,56 @@ He said the GMOA would be given 14 days time to launch the restructuring process
 [Data](articles/0b4b136d.json)
 
 [Extended Data](ext_articles/0b4b136d.ext.json)
+
+---
+
+### நம்பிக்கைக்கு எதிரான நம்பிக்கை
+
+*2024-09-17 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193927) · `ta`
+
+ஆங்கிலத்தில் Hope Against Hope என்று ஒரு மரபுத் தொடர் உண்டு. நம்பிக்கைக்கு எதிரான நம்பிக்கை என்று இதைத் தமிழில் நேரடியாக மொழிபெயர்க்கலாம். ஆனால், அது மூலத்தின் பொருளைத் தராது. ஒரு காரியம் நடப்பதற்கு வாய்ப்பில்லை என்று தெரிந்தாலும், அது நடக்கும் என்று நம்புவதை இது குறிக்கும். நம்பிக்கை இழந்த ஒரு சூழலில் ஒரு பற்றுக்கோடாக ஒன்றில் நம்பிக்கைவைக்கும் மனநிலையாக இதனைக் கொள்ளலாம். ஸ்டாலின் காலத்தில் அதிக பாதிப்புக்கு உள்ளாகி மறைந்த, பிரசித்திபெற்ற சோவியத் கவிஞர் ஒசிப் மண்டல்ஸ்தாமின் துயரம் தோய்ந்த வாழ்க்கை வரலாற்றை எழுதிய  அவரது மனைவி நடாஷா மண்டல்ஸ்தாம் அந்த நூலுக்கு வைத்த பெயரும் Hope Against Hope என்பதுதான்.
+
+...
+
+[Data](articles/70ecb1b2.json)
+
+---
+
+### 17 இலட்சம் பெறுமதியுடைய 220 கிராம் அம்பருடன் இருவர் கைது!
+
+*2024-09-17 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/193918) · `ta`
+
+திவுலப்பிட்டி பிரதேசத்தில் விற்பனை செய்வதற்கு தயாராகவிருந்த அம்பர் தொகையுடன் ( திமிங்கலத்தின் வாந்தி) இரண்டு சந்தேக நபர்கள் நேற்று திங்கட்கிழமை (16) கைது செய்யப்பட்டுள்ளதாக திவுலப்பிட்டி பொலிஸார் தெரிவித்துள்ளனர்.
+
+திவுலப்பிட்டி பொலிஸ் அதிகாரிகளுக்கு  கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+நாரஹென்பிட்டி மற்றும் வாதுவை ஆகிய பிரதேசங்களைச் சேர்ந்த 27 மற்றும் 28 வயதுடைய இருவரே கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களிடமிருந்து 17 இலட்சம் ரூபா பெறுமதியுடைய 220 கிராம் அம்பர் தொகை  கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3287391d.json)
+
+---
+
+### ஜனநாயகத்திற்கான ஜோதியை ஏந்தி வரும் விஜய்
+
+*2024-09-17 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193915) · `ta`
+
+விஜய் நடிப்பில் வெளியான 'தி கிரேட்டஸ்ட் ஆஃப் ஆல் டைம்' எனும் திரைப்படம் ,கலவையான விமர்சனங்களை பெற்று வணிக ரீதியான வெற்றியை பெற்றிருந்தாலும் எதிர்பார்த்த அளவிற்கு வசூலில் வெற்றியை பெறாததால் ( இதுவரை படத்தின் பட்ஜட்டான இந்திய மதிப்பில் 400 கோடி ரூபாயை வசூலிக்காததால்) விஜய் மீது திரையுலக வணிகர்களிடையே பெரும் அதிருப்தி ஏற்பட்டிருக்கிறது.
+
+'சதுரங்க வேட்டை', 'தீரன் அதிகாரம் ஒன்று', ' நேர்கொண்ட பார்வை',  'வலிமை', 'துணிவு' ஆகிய படங்களை இயக்கிய இயக்குநர் ஹெச். வினோத் இயக்கத்தில் உருவாகும் படத்திற்கு 'தளபதி 69' என தற்காலிகமாக பெயரிடப்பட்டிருக்கிறது.
+
+இந்த திரைப்படத்திற்கு அனிருத் இசையமைக்கிறார். இந்த திரைப்படத்தை கே வி என் புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் வெங்கட் கே. நாராயணா தயாரிக்கிறார்.
+
+மேலும் இந்த திரைப்படத்தில் ஜெகதீஷ் பழனிச்சாமி மற்றும் என் கே லோஹித் ஆகியோர் இணை தயாரிப்பாளராக பணியாற்றுகிறார்கள்.
+
+மேலும் இந்த திரைப்படம் அடுத்த ஆண்டு ஒக்டோபர் மாதம் வெளியிடப்படும் என்றும் அறிவிப்பு வெளியாகி இருக்கிறது.
+
+...
+
+[Data](articles/5f3da02a.json)
 
 ---
 
@@ -403,6 +561,22 @@ The body of the deceased youth has been placed at the Balangoda Hospital for aut
 [Data](articles/549e4dec.json)
 
 [Extended Data](ext_articles/549e4dec.ext.json)
+
+---
+
+### සුමනරතන හිමියන්ට මරණ තර්ජනලු
+
+*2024-09-17 11:46:46* · [`adalk`](https://www.ada.lk/breaking_news/සුමනරතන-හිමියන්ට-මරණ-තර්ජනලු/11-411977) · `si`
+
+ජනාධිපතිවරණය පිළිබඳව දරන දේශපාලන මතවාදයන්, මින් ඉදිරියටම කතා නොකර ලෙසත්, තම දේශපාලනය අදහස් ඉදිරියට මාධ්‍යය වෙත ප්‍රකාශ ලබා නොදෙන ලෙසට බලපෑම් කරමින් තමාට දුරකථනය ඔස්සේ කරුණා පාර්ශවයේ පිරිසක් යැයි පවසමින් මරණ තර්ජනය සිදුකර ඇති බව මඩකලපුව ශ්‍රී මංගලාරාමාධිපති අම්පිටියේ සුමරතන නාහිමියන් සඳහන් කළහ.
+
+නැගෙනහිර පළාතේ සිංහල, දමිළ, මුස්ලිම්, ජනතාවගේ ප්‍රශ්න හා ගැටලු වෙනුවෙන්  හැමදාමත් පවතින ඕනෑම රජයකට තමා නොබියව ඉදිරිපත් වී අඩුපාඩු පෙන්වා දුන් බවත්, පළාතේ ජනතාවගේ අයිතිවාසිකම් වෙනුවෙන් තමා නිරන්තරයෙන්ම මාධ්‍යයට හා සමාජ මාධ්‍ය ඔස්සේ කරුණු දැක්වූ බවත්, ජනාධිපතිවරණයේදී නැගෙනහිර පළාතේ ජනතාව
+
+තෝරා ගත යුත්තේ  කවුරුන්ද යන්න පසුගිය දිනවල සමාජ මාධ්‍ය ඔස්සේ මෙන්ම විවිධ මාධ්‍ය මගින් හෙළිදරව් කළ බවත්,   මින් ඉදිරියට තම දේශපාලන මතය ඉදිරිපත් නොකරන බවට, කරුණා පාර්ශවය යැයි පවසමින් පිරිසක් දුරකථන ඔස්සේ නිරන්තරයෙන්ම තමා මරාදමන බවට තර්ජනය කරන බවද කරන බව අම්පිටියේ සුමනරතන නාහිමියන් මඩකලපුව පන්සල්ගල  රජමහා විහාරස්ථානයේදී 17 වෙනිදා පැවැති මාධ්‍ය සාකච්ඡාවකදී සඳහන් කළහ.
+
+...
+
+[Data](articles/78e61a15.json)
 
 ---
 
@@ -2311,203 +2485,5 @@ The President is responsible but not answerable to Parliament and may only be di
 [Data](articles/c884432f.json)
 
 [Extended Data](ext_articles/c884432f.ext.json)
-
----
-
-### How will 1.65 million Muslims vote on Saturday?
-
-*2024-09-16 22:37:42* · [`dailyftlk`](https://www.ft.lk/columns/How-will-1-65-million-Muslims-vote-on-Saturday/4-766764) · `en`
-
-90% of the Muslim voters do not want to live under fears of racial riots
-
-Statistically Muslims constitute only 9.3% of the national population. They are a close second to the Sri Lankan Tamil strength of 11.1% according to the 2012 Census. The statistical difference is only 1.8% unlike the figures before the July 1983 racial riots. The anti-Tamil pogrom led to Tamils emigrating from the island in noticeably large numbers. It must be added that Tamil migration increased the statistical percentages of both Sinhala and Muslim population in the country but not their real numbers.
-
-In terms of the real number who are likely to go to polls placed at 75%, the number of votes cast by the Muslims would be around 1.2 million and Tamil votes around 1.4 million. The difference in the number of voters would be only around point 2 million or 200,000! The Upcountry Tamils, the third largest minority, who vote invariably independent of the Sri Lankan Tamils constitute 4.1% of the national population.
-
-...
-
-[Data](articles/a7c1746d.json)
-
-[Extended Data](ext_articles/a7c1746d.ext.json)
-
----
-
-### Barista unveils cutting-edge “Happiness Hub” to elevate food preparation and distribution
-
-*2024-09-16 22:32:00* · [`islandlk`](http://island.lk/barista-unveils-cutting-edge-happiness-hub-to-elevate-food-preparation-and-distribution/) · `en`
-
-In a bold move to enhance operational efficiency and aggressive expansion while maintaining high standards across its café network, Barista, Sri Lanka’s leading café chain, has officially inaugurated its new state-of-the-art facility, the “Happiness Hub,” in Peliyagoda. This facility will serve as the central hub for procurement, food preparation, storage, and distribution for Barista’s expansive network of cafés.
-
-The grand opening was marked by the presence of Barista’s Directors Hiran Embuldeniya and Nath Kottegoda, CEO/Director Dilupa Pathirana, along with the Head Office team and staff from across the company’s cafés.
-
-...
-
-[Data](articles/714a693c.json)
-
-[Extended Data](ext_articles/714a693c.ext.json)
-
----
-
-### National Chamber of Exporters of Sri Lanka urges citizens to ‘vote wisely’ in September presidential election
-
-*2024-09-16 22:30:00* · [`islandlk`](http://island.lk/national-chamber-of-exporters-of-sri-lanka-urges-citizens-to-vote-wisely-in-september-presidential-election/) · `en`
-
-As Sri Lanka stands on the cusp of a critical Presidential Election this September, the National Chamber of Exporters (NCE) calls upon all citizens to vote with both their hearts and minds. Our beloved nation is at a crossroads, and the decisions made at the ballot box will define the course of Sri Lanka’s future. It is vital that each voter considers the key challenges we face and elect leaders who possess the vision, capability, and integrity to steer us through these turbulent times.
-
-...
-
-[Data](articles/bdb4242a.json)
-
-[Extended Data](ext_articles/bdb4242a.ext.json)
-
----
-
-### CMTA and Sudath Perera Associates address legal action to combat fake spare parts
-
-*2024-09-16 22:29:00* · [`islandlk`](http://island.lk/cmta-and-sudath-perera-associates-address-legal-action-to-combat-fake-spare-parts/) · `en`
-
-The Ceylon Motor Traders Association (CMTA), the most senior automotive association in South Asia, and Sudath Perera Associates, one of Sri Lanka’s most reputed legal firms, specializing in intellectual property rights, recently held a highly informative briefing for members of the CMTA at the Ceylon Chamber of Commerce to address the growing market of counterfeit parts in the country.
-
-During the session, Sudath Perera Associates provided CMTA members with valuable insights and a detailed overview of the legal measures available to combat the spread of counterfeit products. It also emphasised the importance of collaboration between industry stakeholders and law enforcement authorities to protect consumers and the broader economy.
-
-...
-
-[Data](articles/b0df5651.json)
-
-[Extended Data](ext_articles/b0df5651.ext.json)
-
----
-
-### At the propaganda meeting supporting the Tamil general candidate;I will give my vote like you who mobilized for the ideal for the liberation of Tamils ​​- Maui.Senathirajah
-
-*2024-09-16 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/193882) · `ta`
-
-Here's a 200-character summary:
-
-
-
-TNA leader Mawai Senathirajah vows to vote for Tamil candidates, urging others to do so in upcoming elections. He emphasizes the importance of voting as a means of Tamil liberation and expresses gratitude to those dedicating themselves to the cause.
-
-🟩
-
-Sri Lanka's Tamil National Alliance (TNA) leader Mawai Senathirajah said that I would give my vote like you, like you.
-
-He was speaking at a campaign meeting held at the Green Park in Kilinochchi on Monday (16) in support of the Tamil National Alliance (TNA) parliamentarian Sivagnanam Sridharan in support of the Tamil National Candidate P. Ariyanethran.
-
-The election on the 21st of this month is the day of the rise of the Tamils ​​and another presidential election that is not being liberated.
-
-You have participated in this rebellion with the determination that we will use our votes for our liberation in such elections and for the ideal journey.
-
-We have sacrificed people and militants in the struggle for liberation. In that way, we are sure that we are firm on our journey, and in your presence, which is the ideal of carrying out that journey strongly, I have come to the determination that I will give my vote for that ideal.
-
-...
-
-[Data](articles/fdeb1313.json)
-
-[Extended Data](ext_articles/fdeb1313.ext.json)
-
----
-
-### CSE hosts investor forum in Batticaloa to highlight alternative investment opportunities
-
-*2024-09-16 22:27:00* · [`islandlk`](http://island.lk/cse-hosts-investor-forum-in-batticaloa-to-highlight-alternative-investment-opportunities/) · `en`
-
-The Colombo Stock Exchange (CSE) conducted an investor Forum on 8th September 2024 at Hotel BeachWay in Kattankudi. The forum aimed to showcase alternative investment opportunities and deepen market knowledge for investors in the region.
-
-The forum attracted over 75 participants, providing valuable insights on Sukuks, Debt products such as Green and sustainable Bonds, Stock Borrowing and Lending to both potential and existing investors in the region. Sivananthan Raman Muthukrishnan, Manager of the Batticaloa Branch of CSE, opened the event with remarks on the significance of exploring new investment avenues.
-
-Conducting the first presentation of the forum, Ms. Nilupa Perera, Senior Vice President of Broker Supervision and Listed Entity Compliance at CSE, provided the attendees with a comprehensive overview of Green and Sustainability Bond Issuances. She focused on the role of these bonds in promoting environmental sustainability and their potential benefits for investors.
-
-...
-
-[Data](articles/06877aa0.json)
-
-[Extended Data](ext_articles/06877aa0.ext.json)
-
----
-
-### NDB Bank triumphs at the 39th Mercantile Athletic Championship
-
-*2024-09-16 22:26:00* · [`islandlk`](http://island.lk/ndb-bank-triumphs-at-the-39th-mercantile-athletic-championship/) · `en`
-
-NDB Bank is proud to announce its remarkable success at the 39th Mercantile Athletic Championship, held from 9th to 11thof August, 2024, at the prestigious Sugathadasa Stadium in Colombo. Competing against athletes from 82 member companies and 52 institutions registered with the Mercantile Athletic Association, NDB Bank secured an impressive 23 awards, marking a significant achievement in the bank’s athletic endeavors.
-
-The championship, which has now been officially added to the World Athletic calendar, featured a wide array of track and field events, including high jump, long jump, hurdles, javelin throw, shot put, 100 meters, 200 meters, and 400 meters. NDB Bank’s athletes excelled in these competitions, demonstrating exceptional skill, determination, and sportsmanship.
-
-DFCC Leasing achieves 52.6% portfolio growth in first 8 months of 2024
-
-Barista unveils cutting-edge “Happiness Hub” to elevate food preparation and distribution
-
-...
-
-[Data](articles/5bb12ab1.json)
-
-[Extended Data](ext_articles/5bb12ab1.ext.json)
-
----
-
-### DFCC Leasing achieves 52.6% portfolio growth in first 8 months of 2024
-
-*2024-09-16 22:25:00* · [`islandlk`](http://island.lk/dfcc-leasing-achieves-52-6-portfolio-growth-in-first-8-months-of-2024/) · `en`
-
-DFCC Leasing has demonstrated remarkable growth in its leasing portfolio during the first eight months of 2024, reflecting its broad customer base’s enduring trust and confidence. As of 31 August 2024, the DFCC Leasing portfolio had surged to LKR 23.55 billion, marking a substantial increase of LKR 8.19 billion from the LKR 15.4 billion recorded on 31 December 2023. This impressive 52.6% growth underscores DFCC Bank’s unwavering commitment to meeting the diverse needs of its customers while offering the most attractive rates and terms in the market.
-
-...
-
-[Data](articles/df3054bb.json)
-
-[Extended Data](ext_articles/df3054bb.ext.json)
-
----
-
-### Digital Mobility Solutions Lanka IPO oversubscribed on opening day
-
-*2024-09-16 22:23:00* · [`islandlk`](http://island.lk/digital-mobility-solutions-lanka-ipo-oversubscribed-on-opening-day/) · `en`
-
-The Initial Public Offering (IPO) of Digital Mobility Solutions Lanka Limited, through an offer for sale of 43,474,179 ordinary voting shares at a price of Rs. 36 per share, opened 13th September 2024 and was oversubscribed on the initial day itself.
-
-The IPO by Digital Mobility Solutions Lanka Limited attracted applications surpassing the offer value, showcasing strong investor demand.
-
-Barista unveils cutting-edge “Happiness Hub” to elevate food preparation and distribution
-
-CMTA and Sudath Perera Associates address legal action to combat fake spare parts
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/09b328dc.json)
-
-[Extended Data](ext_articles/09b328dc.ext.json)
-
----
-
-### Special resolution on election tomorrow
-
-*2024-09-16 22:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பில்-நாளை-விசேட-தீர்மானம்/175-343866) · `ta`
-
-Tomorrow: Election Commission discusses presidential election monitoring with Election Monitoring Organization. Voting preparations complete. Chairman urges early voting, cites reduced election violence.
-
-🟩
-
-A special discussion will be held in Rajagiriya tomorrow (17) between the leaders of the Election Commission and the leaders of the Election Monitoring Organization on the Presidential election monitoring.
-
-Elections Commission Chairman Ananda Ratnayake said that the Asian Network for Independence Elections and the Commonwealth Elections will be participating in the discussion.
-
-Meanwhile, all arrangements for voting have been prepared and all the instructions to be given to government officials have been given.
-
-Ratnayake said he hoped people would vote more eagerly than usual in this year's presidential election and urged all people to go to the polling station early in the morning.
-
-He added that election violence has declined significantly compared to other elections.
-
-He said that after many supporters pointed out the mistakes, they had corrected them. Remble
-
-◼️
-
-[Data](articles/ca7d548d.json)
-
-[Extended Data](ext_articles/ca7d548d.ext.json)
 
 ---

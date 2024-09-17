@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 11:57:45**
+As of **2024-09-17 12:10:42**
 
 ## Newspaper Stats
 
-*Scraped **44,302** Articles*
+*Scraped **44,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ colombotelegraphcom | 440
 islandlk | 2,611
 economynextcom | 2,685
 dailyftlk | 2,935
-adalk | 4,089
+adalk | 4,090
 dailymirrorlk | 4,733
-adaderanalk | 5,215
+adaderanalk | 5,216
 tamilmirrorlk | 5,784
 virakesarilk | 7,057
-adaderanasinhalalk | 7,585
+adaderanasinhalalk | 7,586
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,302 (100.0%) of 44,302 articles have been extended.
+44,302 (100.0%) of 44,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Police warn against circulating misleading videos on social media
+
+*2024-09-17 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102034/police-warn-against-circulating-misleading-videos-on-social-media) · `en`
+
+Sri Lanka Police says that video footage related to past incidents that had occurred at various times in various parts of the country are once again being circulated on social media these days from time to time.
+
+Issuing a statement, the Police Media Spokesperson’s Office stated that videos such as those showing certain vehicles traveling towards the Katunayake Airport being searched by various individuals and videos taken during curfews imposed in the past are currently being reshared.
+
+Police warned that the recirculation of such videos on social media can spread misinformation.
+
+Police stated that sharing these videos on social media, while falsely presenting them as recent events, is misleading the public and directly obstructs the maintaining of public order and law in the country.
+
+Therefore, the police have requested the public to refrain from posting and spreading such videos on social media.
+
+...
+
+[Data](articles/413fbbb3.json)
+
+---
+
+### ට්‍රම්ප් ඝාතන උත්සාහයේ සැකකරු අත්අඩංගුවට
+
+*2024-09-17 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201110) · `si`
+
+හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ගොල්ෆ් ක්‍රීඩා කරමින් සිටි අතරතුර, වෙඩි තබා ඔහු ඝාතනය කිරීමට උත්සාහ කළ බවට චෝදනාවට ලක්වූ රයන් වෙස්ලි රූත් නම් තැනැත්තා අත්අඩංගුවට ගන්නා දර්ශන මාධ්‍යයට නිකුත් කර තිබේ.
+
+ට්‍රම්ප් ඝාතනය කිරීම සඳහා අදාළ සැකකරු පැය 12ක කාලයක් පඳුරක් අතර සැඟවී සිට ඇති බව වැඩිදුරටත් අනාවරණ වී ඇත.
+
+මාස තුනක කාලයකදී ට්‍රම්ප් ඝාතනය කිරීමට ගත් දෙවැනි උත්සාහය ලෙස මෙය වාර්තා වුණි.
+
+◼️
+
+[Data](articles/617ee0e7.json)
+
+---
 
 ### Several special telephone numbers to report election day complaints
 
@@ -285,6 +321,24 @@ Sri Lanka Teachers Union President Priyantha Fernando has confirmed the incident
 [Data](articles/250862aa.json)
 
 [Extended Data](ext_articles/250862aa.ext.json)
+
+---
+
+### Miss International - 2024 කිරුළ ලංකාවේ තිලිණිට
+
+*2024-09-17 10:34:01* · [`adalk`](https://www.ada.lk/picture_story/Miss-International---2024-කිරුළ-ලංකාවේ-තිලිණිට/10-411976) · `si`
+
+ඉන්දුනීසියාවේ පැවති Miss International - 2024 ජාත්‍යන්තර රූ රැජින තරගාවලියට සහභාගී එහි ප්‍රථම ස්ථානය දිනා ගත් තිලිනි කුමාරි 09/16 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය .
+
+මෙම තරගාවලිය ඉන්දුනීසියාවේ බාලි දූපත් හි ලෝකයේ රටවල් 20 ක රූ රැජිනියන්ගේ සහභාගීත්වයෙන් ඉකුත් 09/09 දින සිට 09/16 දින දක්වා පවත්වා තිබුණි .
+
+මෙම තරගාවලියේ ජයග්‍රහණය හිමි කර ගත් තිලිනි 09/17 දින රාත්‍රී ඉන්දුනීසියාවේ ජකර්තා නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 365 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියාය .
+
+හනුවර , පිළිමතලාව ප්‍රදේශයේ පදිංචි ඇය නිළියක , නිවේදිකාවක ඇතුළු ක්ෂේත්‍ර ගනනාවක් සිය දස්කම් විදහා දක්වමින් සිටින්නීය .
+
+◼️
+
+[Data](articles/b5525835.json)
 
 ---
 
@@ -2375,87 +2429,5 @@ Scems, the government has given a bar permit to the Kataragama sacred area, and 
 [Data](articles/4a5806e3.json)
 
 [Extended Data](ext_articles/4a5806e3.ext.json)
-
----
-
-### The Elections Commission is responsible for holding an independent and fair election - Mark Gunawardena
-
-*2024-09-16 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/193842) · `ta`
-
-Elections Commission ensures fair elections. Police assist. Complaints against commission. Political events criticized. Swift action expected on electoral issues.
-
-🟩
-
-The first seven days of the presidential election today are only seven days.The Elections Commission is responsible for holding an independent and fair election under the law to elect the president.The police and other public services are assisted by the practice of responsibility. Senior Deputy Inspector General of Police, Mark Gunawardena, said that the biggest number of Anura Kumara Dissanayake, who is contesting the presidential election, has been confirmed on all sides of the country.
-
-There is no justification from the Election Commission on the complaints we have so far.
-
-In September 2024, a party was held at the main hall of the Sri Lanka Forum College.This is also a treat for people's opinion to change.
-
-Similarly, the Minister of Health had invited government officials to hold a meeting at the "Voters Ej" hotel. It was conducted.It became lively published by the President's official “Facebook account” without any hesitation or fear. They criticize us in violation of the law.
-
-...
-
-[Data](articles/5647a019.json)
-
-[Extended Data](ext_articles/5647a019.ext.json)
-
----
-
-### Police not permits to two wrinkles to be closed down to the President and Sajith roads
-
-*2024-09-16 19:08:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-සජිත්-පාරවල්-වසා-පැවැත්වීමට-ගිය-රැළි-දෙකකට-පොලීසිය-අවසර-නොදෙයි-/11-411970) · `si`
-
-Here's a 200-character summary:
-
-
-
-Police reject permit for rallies on key roads. DIG cites security concerns. Political parties object to restrictions.
-
-🟩
-
-DIG Priyantha Liyanage has been remitted to Dr. Priyantha Liyanage, the two main roads in the Western Province.
-
-DIG Priyantha Liyanage has been rejected not only the final two wallows but also a rally in the presidential election.
-
-The DIG, emphasized that the political wave of political ravages are not suitable for political ravages to hold their political interests at any time in the presidential election.
-
-As a party-endemic candidate, Ranil Wickremesinghe's final rally to the Presidential Election to be held in front of the Eppinton Theater, a member of the JVP as a candidate who is contesting the Presidential Election to the Presidential Election, required to approve the requests to cover the road in front of the Tower Theater.It is reported that the DIG has informed the UPFA Bhadrani Jayatilake to request a letter from the Western Province.
-
-It is reported that the DIG, who have been informed by the 'closure of the public on the holidays, the DIG of the people have been stressed.
-
-◼️
-
-[Data](articles/4fd0f181.json)
-
-[Extended Data](ext_articles/4fd0f181.ext.json)
-
----
-
-### Spontaneous appointments in advance of the election
-
-*2024-09-16 18:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-முன்னிட்டு-தன்னிச்சையான-நியமனங்கள்/175-343860) · `ta`
-
-Sri Lanka: Hospital chief accused of violating election laws through pre-election appointments. Union claims no action from Election Commission despite complaints. Hospital denies wrongdoing, cites commission approvals.
-
-🟩
-
-The All Ceylon Health Service Association has accused the President of the Sri Jayawardenapura General Hospital, Dr. Saranga Alahapperuma, who has been spontaneous recruitment and promotion in violation of election laws.
-
-“Since the presidential election, the leader has been unnecessarily making many appointments.
-
-"Despite many demands to stop recruitment and promotion, the leader did not listen. Therefore, we have informed the Elections Commission about the incidents, ”Kuruke said.
-
-However, the general secretary of the union, Mahinda Kuruke, said that the Election Commission has not taken any action so far.
-
-When the Election Commission asked the official about this, he said he was considering this.
-
-Meanwhile, Dr. Saranga Alagapperuma told the Daily Mirror that all recruitments and promotions were carried out in response to the allegations.
-
-...
-
-[Data](articles/5a8173ce.json)
-
-[Extended Data](ext_articles/5a8173ce.ext.json)
 
 ---

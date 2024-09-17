@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 23:08:50**
+As of **2024-09-17 23:22:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,399 (100.0%) of 44,400 articles have been extended.
+44,400 (100.0%) of 44,400 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -342,21 +342,33 @@ The 41 -year -old motorcycle driver who was injured in the accident has died aft
 
 ---
 
-### மஹிந்த ராஜபக்ஷவுக்கு உண்மையில் நாட்டு பற்று இருக்குமாயின் நாமல் ராஜபக்ஷவுக்கு அறிவுரை வழங்க வேண்டும் - தொடம்பஹால ராஹூல தேரர்
+### If Mahinda Rajapaksa is actually a country, Namal Rajapaksa should advise Rajapaksa
 
 *2024-09-17 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193945) · `ta`
 
-மஹிந்த ராஜபக்ஷவுக்கு உண்மையில் நாட்டு பற்று இருக்குமாயின் நாமல் ராஜபக்ஷவுக்கு அறிவுரை வழங்க வேண்டும். நாமல் ராஜபக்ஷ போட்டியில் இருந்து விலகி ஜனாதிபதி வேட்பாளர் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க வேண்டும் என தொடம்பஹால ராஹூல தேரர் தெரிவித்தார்.
+Here's a 200-character summary:
 
-தலதா மாளிகை இருந்தால் மாத்திரமே பௌத்த சாசனத்தை பாதுகாக்க முடியும். தலதா மாளிகையின் இருப்பதாக குறிப்பிட்டுக் கொண்டு எம்மால் கைகளை கட்டிக் கொண்டு இருக்க முடியாது.
 
-ஒரு சில ஜனாதிபதி வேட்பாளர்களின் கொள்கை பிரகடனம் பௌத்த சாசனத்துக்கு எதிராக உள்ளது. தேசிய கொடியையும், பௌத்த கொடியையும் மாற்றியமைப்பதாக குறிப்பிடுகிறார்கள். இவ்வாறான நிலை  ஏற்பட்டால் பௌத்த சாசனம் இல்லாதொழியும்.
 
-இடம்பெறவுள்ள ஜனாதிபதித் தேர்தல் தீர்மானமிக்கது. நாட்டு மக்கள் சிறந்த தீர்மானத்தை எடுக்க வேண்டும். முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ நாட்டுக்கு அளப்பரிய சேவையாற்றியுள்ளார் என்பதை  ஏற்றுக் கொள்ள வேண்டும். உண்மையில் சேவையாற்றியிருந்தால் அவர் தனது மகனான நாமல் ராஜபக்ஷவுக்கு அறிவுரை  வழங்க  வேண்டும்.
+Mahinda Rajapaksa advises Namal Rajapaksa to support Ranil Wickremesinghe. Economic crisis led to Wickremesinghe's presidency.
+
+🟩
+
+If Mahinda Rajapaksa is actually the country, Namal Rajapaksa should advise Rajapaksa. Thodambahala Rahula Thera said that the presidential candidate should be supported by Namal Rajapaksa and supported Ranil Wickremesinghe.
+
+If there is a Dalada House, you can protect the Buddhist Charter. We cannot tie our hands, noting that the Dalada House is in the House.
+
+The policy of a few presidential candidates is against the Buddhist Charter. Refer to the replacement of the national flag and the Buddhist flag. In the event of this situation, the Buddhist Charter will be abolished.
+
+The presidential election is decisive. The people of the country should make the best decision. Former President Mahinda Rajapaksa should accept that he has served the country. In fact, he should advise his son Namal Rajapaksa.
+
+I humbly request former President Mahinda Rajapaksa to support the presidential candidate Namal Rajapaksa and support Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/2136545e.json)
+
+[Extended Data](ext_articles/2136545e.ext.json)
 
 ---
 

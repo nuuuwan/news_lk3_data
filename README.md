@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 02:56:42**
+As of **2024-09-18 03:22:22**
 
 ## Newspaper Stats
 
-*Scraped **44,415** Articles*
+*Scraped **44,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
 tamilmirrorlk | 5,799
-virakesarilk | 7,095
+virakesarilk | 7,097
 adaderanasinhalalk | 7,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,414 (100.0%) of 44,415 articles have been extended.
+44,417 (100.0%) of 44,417 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,30 @@ The National Single Window (NSW) is an integrated digital platform designed to s
 [Data](articles/574938b7.json)
 
 [Extended Data](ext_articles/574938b7.ext.json)
+
+---
+
+### The new president is essential to prioritize racial reconciliation
+
+*2024-09-18 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/193968) · `ta`
+
+New president prioritizes racial reconciliation, National Peace Council urges focus on inter-government unity. Economic stability and corruption require long-term political solutions based on devolution. True political acceptance of all communities' aspirations essential for national healing and confidence rebuilding. New leader must address Tamil community concerns and promote power sharing in provincial councils. Political commitment and ethnic peace crucial for attracting foreign investment and international support. Building a new social contract respecting all communities' rights and aspirations key to Sri Lanka's future: justice, equality, and sustainable peace.
+
+🟩
+
+The National Peace Council has urged the new presidential election to be given priority to inter -government reconciliation.
+
+In this regard, the report issued by the Peace Council on Tuesday (17).
+
+As the presidential election campaigns end, the focus from the election contest must return to the country's emergency challenges. While the election results are uncertain, the new president is going to take responsibility for a country that is wrestling with the economic stability and the deepest rooted corruption and punishment culture.
+
+A challenge to note in the presence of the new government that requires a long -term racism through a political solution based on devolution. The new president must give priority to this issue to bring about sustainable peace and unity to the country.
+
+...
+
+[Data](articles/29f24a45.json)
+
+[Extended Data](ext_articles/29f24a45.ext.json)
 
 ---
 
@@ -158,6 +182,8 @@ Ranil’s aphorism about Grusha of The Caucasian Chalk Circle crossing a suspens
 
 [Data](articles/08b0699f.json)
 
+[Extended Data](ext_articles/08b0699f.ext.json)
+
 ---
 
 ### Recipe for default: Sri Lanka’s compass in a fog
@@ -199,6 +225,36 @@ FREEBIES - Refers to the things you are giving to Public, AFTER the election, IF
 [Data](articles/6e950b3a.json)
 
 [Extended Data](ext_articles/6e950b3a.ext.json)
+
+---
+
+### The country will not push into the dark era but vote for the progress of the country -the President
+
+*2024-09-18 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193967) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Ranil Wickremesinghe urges unity against "dark era," promises economic growth, criticizes opponents, and vows to strengthen the country's economy and infrastructure.
+
+🟩
+
+President Ranil Wickremesinghe again called on the United National Party, the Mottu Party and the Sri Lanka Freedom Party to prevent the country from being brought into the dark era and unite for the country's progress.
+
+The president said that the dark age of two years ago should not be forgotten and urged everyone to unite to strengthen the country's economy and give the people the people.
+
+President Ranil Wickremesinghe said this while addressing a public meeting held at Kuliyapitiya on Tuesday afternoon.
+
+A large number of people were present at the meeting, which was organized to ensure the success of President Ranil Wickremesinghe.
+
+President Ranil Wickremesinghe said that there was no unity within the United People's Power and that the Pure UNP is under him, and that those who truly love the United National Party will vote for himself on September 21.
+
+...
+
+[Data](articles/e4ee0b86.json)
+
+[Extended Data](ext_articles/e4ee0b86.ext.json)
 
 ---
 
@@ -2443,53 +2499,5 @@ He stated that this opportunity will be available for the voters until the date 
 [Data](articles/63011063.json)
 
 [Extended Data](ext_articles/63011063.ext.json)
-
----
-
-### Sri Lanka awards 21MW of solar IPPs
-
-*2024-09-17 12:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-21mw-of-solar-ipps-179760/) · `en`
-
-ECONOMYNEXT  – Sri Lanka has awarded contracts worth 21 MegaWatts to seven developers as part of procurement of 165MW of solar power by state -run Ceylon Electricity Board.
-
-The cabinet had approved the balance contracts after a procurement appeals board rejected appeals by unsuccessful bidders, a government statement said.
-
-The cabinet had approved the award of contracts to develop 10 MW solar plants as follows at the Anuradhapura grid substation.
-
-Fenton Smart Facilities (Pvt) Ltd has won a deal for 3MW, Hayleys Fenton Limited 3MA, Nanila Publication (Pvt) Ltd 2 MW, Ceylex Renewable (Pvt) Ltd 2MW.
-
-At the Galle substation Austral Solar (Pvt) Ltd was given a contract to run a 1MW solar plant.
-
-At the Deniyaya grid substation, Fortune Green (Pvt) Ltd won a deal for a 3MW plant, Solar One Asia (Pvt) Ltd 5 MW, and Austral Solar (Pvt) Ltd 2 MW. (Colombo/Sept16/2024)
-
-◼️
-
-[Data](articles/39f3f555.json)
-
-[Extended Data](ext_articles/39f3f555.ext.json)
-
----
-
-### Murder of a man who was attacked in conflict with colleagues;05 arrested
-
-*2024-09-17 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193894) · `ta`
-
-Man killed by colleagues in sand quarry dispute. Five suspects arrested. Police investigating.
-
-🟩
-
-Bibila police said that a man was assassinated by colleagues in Hamapola area, which belongs to the Bibila police division.
-
-The murderer was working in a sand quarry in Hamapola area last Sunday night with his colleagues.
-
-The body of the murderer has been placed in the funeral room of the Bibila hospital for autopsy and five suspects have been arrested in connection with the murder, police said.
-
-Bibila police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/cea1438b.json)
-
-[Extended Data](ext_articles/cea1438b.ext.json)
 
 ---

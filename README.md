@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 05:08:28**
+As of **2024-09-18 05:22:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,433 (100.0%) of 44,435 articles have been extended.
+44,435 (100.0%) of 44,435 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -336,35 +336,51 @@ The Sri Lanka Export Development Board (EDB) has established a partnership with 
 
 ---
 
-### தேர்தல் பிரச்சாரங்கள் இன்று நள்ளிரவுடன் நிறைவு; பிரசார நடவடிக்கைகளுக்கு முற்றாக தடை - தேர்தல்கள் ஆணைக்குழு
+### Election campaigns are completed at midnight today;Elections Commission
 
 *2024-09-18 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193971) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கான தேர்தல் பிரச்சாரக் கூட்டங்கள் இன்று (புதன்கிழமை) நள்ளிரவுடன் நிறைவடைகிறது. வேட்பாளர்கள் மற்றும் அவர்களது ஆதரவாளர்கள் நேரடியாகவோ அல்லது மறைமுகமாகவோ தேர்தல் பிரச்சாரங்களில் ஈடுபடுவது முற்றாக தடை செய்யப்பட்டுள்ளது. தேர்தல் சட்டத்துக்கு முரணாக செயற்படுபவர்களுக்கு எதிராக கடுமையான சட்ட நடவடிக்கை எடுக்கப்படும் என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+Election campaigns end tonight; candidates banned from campaigning. Main candidates hold rallies in capital. Public transport disruptions expected. Police advise using alternative routes. Media urged to provide equal coverage. Citizens warned against supporting candidates on social media.
 
-பிரதான ஜனாதிபதி வேட்பாளர்களான ரணில் விக்கிரமசிங்க,சஜித் பிரேமதாச, அனுரகுமார திஸாநாயக்க,  நாமல் ராஜபக்ஷ,  திலித் ஜயவீர, நுவன் போககே ஆகியோர் தலைநகரில் மாபெரும் தேர்தல் பிரச்சாரக் கூட்டத்தை இன்று நடத்தவுள்ளனர்.இதனால் கொழும்பு நகரின் பாதுகாப்பு பலப்படுத்தப்பட்டு, விசேட போக்குவரத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளன.
+🟩
 
-சுயேட்சை வேட்பாளர் ரணில் விக்கிரமசிங்கவின்  தேர்தல் பிரச்சாரக் கூட்டம் கொழும்பு கிரான்ட்பாஸ் பொலிஸ் பிரிவுக்குட்பட்ட கொஸ்கஸ் சந்தியில் இன்று பிற்பகல் 2 மணிக்க இடம்பெறவுள்ளது.
+Election campaign meetings for presidential election ends today (Wednesday). Candidates and their supporters are completely prohibited by engaging in election campaigns directly or indirectly. Elections Commissioner Saman Sri Ratnayake said that strict legal action will be taken against those who act contrary to the election law.
+
+The main presidential candidates Ranil Wickremesinghe, Sajith Premadasa, Anuragumara Dissanayake, Namal Rajapaksa, Dilith Jayaweera and Nuwan Bogake will be held in the capital today.
+
+Independent candidate Ranil Wickremesinghe's election campaign meeting will be held at Kosus Junction in the Grandpass Police Division of Colombo.
+
+This will result in public transportation of the Grandpass Police Division, Jogus Road, Laartis Podwee Road, Grandpass Road, Parakrama Road and Kosus Junction.
+
+Vehicles logging into Colombo via Avissawella Road have been advised to use alternative roads without using Grandpass Road.
 
 ...
 
 [Data](articles/269a45ab.json)
 
+[Extended Data](ext_articles/269a45ab.ext.json)
+
 ---
 
-### 51/1 தீர்மானத்தின் ஊடாக உயர்ஸ்தானிகர் அலுவலகத்துக்கு வழங்கப்பட்ட ஆணையை நீடியுங்கள் - இலங்கை தொடர்பான இணையனுசரணை நாடுகளின் முதல் வரைபில் வலியுறுத்தல்
+### Delete the decree issued to the High Commissioner's Office through the resolution - insist on the first map of Sri Lanka's Internet countries on Sri Lanka
 
 *2024-09-18 03:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/193970) · `ta`
 
-58 ஆவது கூட்டத்தொடரில் வாய்மொழிமூல அறிக்கையும், 60 ஆவது கூட்டத்தொடரில் எழுத்துமூல அறிக்கையும் சமர்ப்பிக்கப்படவேண்டும் எனவும் கோரிக்கை
+Sri Lanka: UNHRC extends 51/1 resolution inquiry. UN Human Rights Commissioner requests verbal report in 58th session and written report in 60th session. Resolution focuses on reconciliation, accountability, and human rights improvements.
 
-இலங்கை தொடர்பில் பிரிட்டன் தலைமையிலான இணையனுசரணை நாடுகளால் தயாரிக்கப்பட்டு, எதிர்வரும் 19 ஆம் திகதி உறுப்புநாடுகளின் பங்கேற்புடன் ஆராயப்படவுள்ள முதல் வரைபில், இலங்கை தொடர்பில் ஏற்கனவே நிறைவேற்றப்பட்ட 51/1 தீர்மானத்தின் ஊடாக ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் அலுவலகத்துக்கு வழங்கப்பட்ட ஆணையை நீடிக்குமாறு ஐ.நா மனித உரிமைகள் பேரவையிடம் கோரப்பட்டுள்ளது.
+🟩
 
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 57 ஆவது கூட்டத்தொடர் கடந்த திங்கட்கிழமை (9) ஜெனிவாவில் ஆரம்பமானது. அன்றைய தினம் உலகளாவிய மனித உரிமைகள் நிலைவரம் தொடர்பான ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டர்க்கின் உரை மற்றும் மியன்மார் மனித உரிமைகள் நிலைவரம் தொடர்பான எழுத்துமூல அறிக்கை, அதன்மீதான விவாதம் என்பவற்றைத் தொடர்ந்து இலங்கை விவகாரம் குறித்து ஆராயப்பட்டது.
+The request is to be submitted by the verbal report of the 58th session and the written report in the 60th session
+
+The UN Human Rights Council (UNHRC) has requested the UN Human Rights Council to extend the order issued by the UN Human Rights High Commission through the 51/1 resolution already passed in Sri Lanka in the first map to be prepared by the British -led internet -headed states and the participation of the members of the Members of the United States on the 19th.
+
+The 57th session of the United Nations Human Rights Council commenced in Geneva last Monday (9). On that day, the Sri Lankan affair was examined following the speech of UN Human Rights Council Volkar Turk's speech on the Global Human Rights Status and the Writing Report on Myanmar Human Rights.
 
 ...
 
 [Data](articles/88fd3800.json)
+
+[Extended Data](ext_articles/88fd3800.ext.json)
 
 ---
 

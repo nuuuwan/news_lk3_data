@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 00:23:07**
+As of **2024-09-18 00:38:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,401 (100.0%) of 44,403 articles have been extended.
+44,403 (100.0%) of 44,403 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -290,19 +290,27 @@ The final rally of the candidate Sajith Premadasa of the Samagiens The last rall
 
 ---
 
-### நாட்டை அபிவிருத்தி செய்வதா? அராஜக நிலைக்கு கொண்டுசெல்வதா? மக்கள் சரியான தீர்மானம் எடுக்க வேண்டும் - ஐ.தே.க. சட்டச் செயலாளர் நிஸ்ஸங்க நாணயக்கார
+### Developing the country?Is it anarchy?People should make the right decision - the UNP. Legal Secretary Nissanka Nanayakkara
 
 *2024-09-17 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/193956) · `ta`
 
-பொருளாதாரத்தை முன்னேற்றி, நாட்டை அபிவிருத்தி செய்துவரும் தற்போதைய வேலைத்திட்டத்தை தொடர்ந்து முன்னெடுத்து செல்வதா? அல்லது கடந்த காலங்களைப்போன்று நாட்டை மீண்டும் அராஜக நிலைக்கு கொண்டு செல்வதா என்பதை தீர்மானிப்பதற்கான சந்தர்ப்பம் மக்களுக்கு கிடைக்கப்பெற்றுள்ளது. மக்கள் சரியான தீர்மானம் எடுக்கும் என நாங்கள் நம்புகிறோம் என ஐக்கிய தேசிய கட்சியின் சட்டச் செயலாளர் ஜனாதிபதி சட்டத்தரணி நிஸ்ஸங்க நாணயக்கார தெரிவித்தார்.
+UNP legal secretary Nissanka Nanayakkara urges voters to choose wisely in upcoming presidential election, warning against potential return to anarchy and promoting economic development under current leadership.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (17) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பி்ட்டார்.
+🟩
 
-ஜனாதிபதி தேர்தல் சூடுபிடித்து, தற்போது இறுதிக்கட்டத்தை அடைந்துள்ளது. தேர்தல் பிரசாரங்கள் இன்றுடன் முடிவடைகின்றன. இன்னும் ஒரு சில தினங்களில் இந்த நாட்டுக்கான தலைவரை தெரிவு செய்துகொள்வதற்கான சந்தர்ப்பம் மக்களுக்கு கிடைக்கிறது.
+Is it going to continue the current program of developing the economy and developing the country?Or has the opportunity to determine whether the country is back in anarchy as in the past. "We hope that the people will make the right decision," the United National Party's legal secretary Nissanka Nanayakkara said.
+
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (17).
+
+The presidential election is hot and is currently reaching the final stage. Election campaigns end today. People have the opportunity to elect the leader of this country in a few days.
+
+So is it going to improve the economy and continue the current program that is developing the country?Or people should decide whether the country will be allowed to take anarchy as an anarchy as in the past. We are confident that people will make the right decision.
 
 ...
 
 [Data](articles/f2638906.json)
+
+[Extended Data](ext_articles/f2638906.ext.json)
 
 ---
 
@@ -382,19 +390,29 @@ The 41 -year -old motorcycle driver who was injured in the accident has died aft
 
 ---
 
-### பெருந்தோட்டப் பாடசாலைகளுக்கான உதவி ஆசிரியர் நியமன விவகாரத்தை இனவாத ரீதியாக அணுகவில்லை - பைசர் முஸ்தபா விளக்கம்
+### Faizer Mustafa Explains Racism
 
 *2024-09-17 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/193947) · `ta`
 
-பெருந்தோட்டப் பாடசாலைகளுக்கான உதவி ஆசிரியர் நியமன விவகாரத்தை நான் இனவாத ரீதியாக அணுகவில்லை. மாறாக அது தொடர்பில் வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலில் காணப்படும் தெளிவின்மை காரணமாகவே நீதிமன்றத்தை நாடியதாக முன்னாள் அமைச்சர் பைசர் முஸ்தபா தெரிவித்தார்.
+Former Minister Faizer Mustafa denies racism in his opposition to a gazette notification for assistant teacher appointments in plantation schools. He claims the notification lacks clarity and fairness, leading to legal challenges.
 
-பெருந்தோட்டப் பாடசாலைகளில் நிலவும் ஆசிரியர் பற்றாக்குறையை நிவர்த்தி செய்வதற்காக உதவி ஆசிரியர்களை நியமிப்பதற்கு தீர்மானிக்கப்பட்டது. இது குறித்த வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டதோடு, கடந்த ஆகஸ்ட் 17ஆம் திகதி போட்டிப்பரீட்சைகளை நடத்துவதற்கான ஏற்பாடுகளும் பூர்த்தி செய்யப்பட்டிருந்தன.
+🟩
 
-எவ்வாறிருப்பினும் பரீட்சைகள் இடம்பெறவிருந்த ஓரிரு தினங்களுக்கு முன்னர் குறித்த வர்த்தமானி அறிவித்தலுக்கு எதிராக முன்னாள் அமைச்சர் பைசர் முஸ்தபா தாக்கல் செய்த மனுவுக்கமைய, நீதிமன்றம் இடைக்கால தடையுத்தரவைப் பிறப்பித்தது. இதனால் பரீட்சைகள் இடைநிறுத்தப்பட்டுள்ளன.
+I am not racist approaching the assistant teacher appointment affair for plantation schools. On the contrary, former minister Faizer Mustafa said that the gazette notified in the gazette notification was sought by the court due to the ambiguity.
+
+It was decided to appoint assistant teachers to address the shortage of teachers in plantation schools. The gazette notification was issued and arrangements were made to conduct competitive examinations on August 17.
+
+However, the court issued an interim injunction under the petition filed by former Minister Faizer Mustafa against the gazette notification of the gazette two days before the exams.. Thus the exams have been suspended.
+
+Minister Jeevan Thondaman and State Minister Vadivel Suresh have stated that President Ranil Wickremesinghe has said that he would request Faizer Mustafa to intervene in this regard.
+
+He was speaking at a press conference held at Bambalapitiya on Tuesday to Faizer Mustafa.
 
 ...
 
 [Data](articles/851fe62d.json)
+
+[Extended Data](ext_articles/851fe62d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 19:56:15**
+As of **2024-09-17 20:09:19**
 
 ## Newspaper Stats
 
-*Scraped **44,379** Articles*
+*Scraped **44,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,097
 dailymirrorlk | 4,733
-adaderanalk | 5,226
+adaderanalk | 5,227
 tamilmirrorlk | 5,796
 virakesarilk | 7,086
 adaderanasinhalalk | 7,600
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,379 (100.0%) of 44,379 articles have been extended.
+44,379 (100.0%) of 44,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Special traffic plans in Colombo, Kottawa and Piliyandala tomorrow
+
+*2024-09-17 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102045/special-traffic-plans-in-colombo-kottawa-and-piliyandala-tomorrow) · `en`
+
+Sri Lanka Police announced that special traffic plans will be implemented in several areas tomorrow (18) due to the final election rallies and public meetings of candidates contesting the presidential election on September 21.
+
+Accordingly, several rallies have been organized centred on Colombo City, Kottawa and Piliyandala areas.
+
+The police have decided to implement special traffic plans to reduce traffic congestion in and around the areas where the meetings are held.
+
+◼️
+
+[Data](articles/9fa45ef8.json)
+
+---
 
 ### Rhythm
 
@@ -2537,35 +2553,5 @@ Mr. Ranil Wickremesinghe made this statement participating in a famil in Ampara.
 [Data](articles/a897aca9.json)
 
 [Extended Data](ext_articles/a897aca9.ext.json)
-
----
-
-### Several deadly road accidents - small girl killed
-
-*2024-09-17 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201102) · `si`
-
-Multiple fatal accidents reported: motorcyclist killed, cyclist dies, three-wheeler crash claims family of four.
-
-🟩
-
-Three people have died due to several fatal accidents around the country during the past 24 hours.
-
-The motorcyclist, a motorbike, which was traveling to Dehiattakandiya and the motorbike was not controlled by the Dehiattakandiya Struggle.
-
-Motorcyclists have been seriously injured and admitted to the Dehiattakandiya hospital while receiving treatment at the Dehiattakandiya Hospital.
-
-The Jaffna Police Division was in front of a three-wheeler near the Medawachchiyawa area near the Medawachchiya road.
-
-One group has died in admission to the Rambewa hospital with a three-wheeler driver, his wife and two children.
-
-Meanwhile, a bicyclist traded in the direction in a bicycle who was traveling to Welipalassa from the Arachchikatta.
-
-Cyclist was killed and 41 years old.
-
-◼️
-
-[Data](articles/97dd7e92.json)
-
-[Extended Data](ext_articles/97dd7e92.ext.json)
 
 ---

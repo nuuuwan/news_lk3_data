@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 15:38:08**
+As of **2024-09-17 15:57:14**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 7,593
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,338 (100.0%) of 44,339 articles have been extended.
+44,339 (100.0%) of 44,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### අපිට ඕනේ ඔබ පැතූ ඒ වෙනස ලබාදෙන්න - දිලිත්
+### We want you to give you that change - Dilith
 
 *2024-09-17 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201117) · `si`
 
-ජනතාව ප්‍රාර්ථනා කළ වෙනස ඇති කිරීම සඳහා මෙම අවස්ථාව ප්‍රයෝජනයට ගන්නැයි සර්වජන අපේක්ෂක දිලිත් ජයවීර මහතා පැවසීය.
+Dilith Jayaweera promises change, criticizes corruption, vows youth-focused programs.
 
-"මේ රටේ දූෂිත දේශපාලනය අවසන් විය යුතුයි. මේ රටේ අහිංසක ජනතාවට තවදුරටත් දුක් දෙන්න බැහැ. ඒ වෙනුවෙන් ඔබ ඉල්ලුවා වෙනසක්. ඒ නිසා ඔබ කිව්වා 225ම එපා කියලා."
+🟩
 
-"අපි දේශපාලකයින්ට උදව් කළේ කවදා හරි මේ රට හදාගන්න පුළුවන් කියලා. නමුත් ඔවුන් දිගින් දිගටම අපිව පාවා දුන්නා."
+The exmongering candidate Dilith Jayaweera stated that the opportunity to make the opportunity to change the people.
 
-"මම දේශපාලනයට ආවේ වත්කම් ප්‍රකාශයක් දීලා. අනෙක් අපේක්ෂකයොත් වත්කම් ප්‍රකාශ දීලා තියෙනවා. පළවෙනි තුන්දෙනාටම රුපියල් ලක්ෂ 2ටත් අඩුයි ආදායම' ලක්ෂ 2යි තුනයි. අන්තිම දුක්ඛිත තත්ත්වයක්."
+"The corrupt politics of this country must end. Innocent people in this country cannot be grieved. You asked for a change. So you said 225 not to say no. "
 
-"අපි මේ අලුත් දේශපාලනය කරන්නේ අපි කියන හැම වචනයේම වගකීම අරගෙන. ඔබ ඒ පැතූ ශ්‍රී ලංකාව නිර්මාණය වෙන ආකාරය අපේ උපාය මාර්ගික වැඩපිළිවෙළ තුළ සඳහන් කර තිබෙනවා. ඒකට විරුද්ධව අද කාටවත් කිසිම වචනයක් කියන්න බැහැ."
+"We helped politicians that someday could make this country. But they continued to betray us. "
 
-"ඒ නිසා මේ රටට ආදරය කරන ශ්‍රී ලාංකිකයින් එකතු කරගෙන අපි ආරම්භ කළා ගමනක්. අපිට ඕන ඔබ පැතූ ඒ වෙනස ලබාදෙන්නට."
+"I came to politics to give an asset statement. Other candidates have given asset statements. The first three revenues 'revenue' Rs. 2 lakhs and three lakhs. A last misery. "
 
-"මේ රට හැරයන තරුණයින්ගේ ප්‍රශ්නවලට පිළිතුරු දෙන වැඩපිළිවෙළක් අප සතුයි."
+"We have the responsibility of all the words we say. Our strategic program is mentioned how Sri Lanka is creating that year. No one can tell anyone today. "
+
+"We started gathering Sri Lankans who love this country and started a journey. We want to give you that change. "
+
+"We have a program to answer the questions of the youths."
 
 ...
 
 [Data](articles/5c24be00.json)
+
+[Extended Data](ext_articles/5c24be00.ext.json)
 
 ---
 
@@ -248,11 +254,15 @@ When the candidates who are considered to be a victory today, the Sri Lankan cou
 
 *2024-09-17 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102039/investigation-into-possible-grade-5-scholarship-exam-paper-leak) · `en`
 
-The Commissioner General of Examinations Amit Jayasundara says that investigations are to be held tomorrow (18) into three questions shared for discussions yesterday being similar to those on the Grade 5 Scholarship exam paper.
+The Commissioner General of Examinations Amit Jayasundara says that investigations are to be held tomorrow (18) into an incident where three questions similar to those on the Grade 5 Scholarship exam paper had allegedly been posted online via a model exam paper.
 
 Speaking to Ada Derana, he stated that if investigations uncover that the questions have in fact been leaked, these questions would be disregarded during the paper marking process.
 
-◼️
+He said that an investigation was conducted based on the information received alleging that a teacher in the Alawwa area had uploaded a model question paper to social media which had included three questions similar to three questions in the first paper of the Grade 5 Scholarship Exam.
+
+Accordingly, the committee that had prepared the question paper of the scholarship examination was convened today for a discussion, and it was decided to remove the three related questions.
+
+...
 
 [Data](articles/f3443374.json)
 

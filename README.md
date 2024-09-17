@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 22:38:25**
+As of **2024-09-17 22:56:34**
 
 ## Newspaper Stats
 
-*Scraped **44,397** Articles*
+*Scraped **44,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,229
 tamilmirrorlk | 5,797
 virakesarilk | 7,091
-adaderanasinhalalk | 7,605
+adaderanasinhalalk | 7,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,397 (100.0%) of 44,397 articles have been extended.
+44,398 (100.0%) of 44,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### No work promises - Namal
+
+*2024-09-17 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201130) · `si`
+
+Namal Rajapaksa, Sri Lanka Civil Front president, addressed a rally in Ratnapura. He criticized political promises, saying "Our policies have no work." Rajapaksa claimed to have made revolutionary changes in the country.
+
+🟩
+
+Namal Rajapaksa, president of the Sri Lanka Civil Aru
+
+He was addressing a rally in Ratnapura today (17).
+
+"Some people diminish different things. People know about political promises.  ජනතාව මෙවැනි සුරංගනා කතා අහලා තියෙනවා. An election to look for this political stage. Our policies have no work. "
+
+The presidency of the Sri Lanka Civil Front Namal Rajapaksa said that he has made a revolutionary change in the country under control.
+
+He was speaking at a public meeting organized by a group of people who had organized a group of people in Kolonnawa electorate.
+
+◼️
+
+[Data](articles/601388b2.json)
+
+[Extended Data](ext_articles/601388b2.ext.json)
+
+---
 
 ### Hezbollah members among hundreds wounded after pagers explode in Lebanon and Syria, officials say
 
@@ -2539,35 +2565,5 @@ The secret service unit knows that it is gunns and they immediately grabbed me a
 [Data](articles/135918b8.json)
 
 [Extended Data](ext_articles/135918b8.ext.json)
-
----
-
-### Arrested for sharing the questionnaire
-
-*2024-09-17 10:39:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாளை-பகிர்ந்த-அறுவர்-கைது/175-343885) · `ta`
-
-Teachers arrested for sharing exam questions before test. Six educators detained, including principal. Investigation reveals widespread distribution of questions in Anuradhapura, Nochchiyagama, and Colombo. Sri Lanka Teachers Union calls for severe punishment.
-
-🟩
-
-Six teachers, including the school principal at an examination center in Anuradhapura, have been arrested by the Department of Examinations Department officials.
-
-According to investigations, individuals are said to have shared photos of the first question ten minutes before the examination.
-
-Accordingly, the Assistant Superintendent and 6 teachers were arrested with their mobile phones for allegedly sharing pictures of the paper.
-
-A principal and teachers belong to the state schools located in Anuradhapura and Nochchiyagama.
-
-Investigations have revealed that the question paper has been sent to several areas including Anuradhapura, Nochchiyagama and Colombo.
-
-Sri Lanka Teachers Union President Priyantha Fernando has confirmed the incident in which the scholarship examination was copied by the cell phone.
-
-“The confidence in the choice has been broken. The authorities should implement the law and be severely punished for all those responsible for the release of the questionnaire, ”Fernando said.
-
-...
-
-[Data](articles/250862aa.json)
-
-[Extended Data](ext_articles/250862aa.ext.json)
 
 ---

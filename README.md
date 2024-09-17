@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 22:56:34**
+As of **2024-09-17 23:08:50**
 
 ## Newspaper Stats
 
-*Scraped **44,398** Articles*
+*Scraped **44,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,74 @@ adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
 tamilmirrorlk | 5,797
-virakesarilk | 7,091
+virakesarilk | 7,093
 adaderanasinhalalk | 7,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,398 (100.0%) of 44,398 articles have been extended.
+44,399 (100.0%) of 44,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Don't hand over the country to politicians who ask for opportunity and darkened the future!- President
+
+*2024-09-17 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193966) · `ta`
+
+This text appears to be a transcript of a speech given by President Ranil Wickremesinghe during a rally in Minuwangoda, Sri Lanka. The speech covers various topics including the upcoming presidential election, economic recovery efforts, international relations, and comparisons with other political leaders. Here's a brief summary of the main points:
+
+
+
+1. President Wickremesinghe emphasizes his role in stabilizing Sri Lanka's economy after the 2022 crisis.
+
+
+
+2. He criticizes opposition leaders Sajith Premadasa and Anura Kumara Dissanayake for fleeing the country during the crisis.
+
+
+
+3. Wickremesinghe highlights his ability to negotiate with international organizations like the IMF to bring about economic recovery.
+
+
+
+4. He contrasts himself with other political leaders who he claims failed to address the crisis.
+
+
+
+5. The president appeals to voters to support him in the upcoming election, emphasizing his experience and international connections.
+
+
+
+6. He mentions various initiatives taken by his government, including land rights programs through Urumaya.
+
+
+
+7. Wickremesinghe frames the election as a choice between stability and potential chaos, urging voters to choose him for continued progress.
+
+
+
+The speech appears to be a campaign rally speech aimed at rallying support for President Wickremesinghe's re-election bid.
+
+🟩
+
+President Ranil Wickremesinghe said that the international community has now accepted that Sri Lanka is the only country that has been the rapidly advanced country after the economic downturn and that the country can certainly be on the path to progress in the next five years by making such a revolution.
+
+The President called on the people to join the project, and asked the people not to dear the country and the future of the country and to make the country and the future dark.
+
+President Ranil Wickremesinghe made this statement while addressing the 'Ranilal Charm' Victory rally in Minuwangoda this afternoon.
+
+A large number of people participated in the rally, which was organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election.
+
+...
+
+[Data](articles/32d742b5.json)
+
+[Extended Data](ext_articles/32d742b5.ext.json)
+
+---
 
 ### No work promises - Namal
 
@@ -283,6 +339,24 @@ The 41 -year -old motorcycle driver who was injured in the accident has died aft
 [Data](articles/fe88bb28.json)
 
 [Extended Data](ext_articles/fe88bb28.ext.json)
+
+---
+
+### மஹிந்த ராஜபக்ஷவுக்கு உண்மையில் நாட்டு பற்று இருக்குமாயின் நாமல் ராஜபக்ஷவுக்கு அறிவுரை வழங்க வேண்டும் - தொடம்பஹால ராஹூல தேரர்
+
+*2024-09-17 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193945) · `ta`
+
+மஹிந்த ராஜபக்ஷவுக்கு உண்மையில் நாட்டு பற்று இருக்குமாயின் நாமல் ராஜபக்ஷவுக்கு அறிவுரை வழங்க வேண்டும். நாமல் ராஜபக்ஷ போட்டியில் இருந்து விலகி ஜனாதிபதி வேட்பாளர் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க வேண்டும் என தொடம்பஹால ராஹூல தேரர் தெரிவித்தார்.
+
+தலதா மாளிகை இருந்தால் மாத்திரமே பௌத்த சாசனத்தை பாதுகாக்க முடியும். தலதா மாளிகையின் இருப்பதாக குறிப்பிட்டுக் கொண்டு எம்மால் கைகளை கட்டிக் கொண்டு இருக்க முடியாது.
+
+ஒரு சில ஜனாதிபதி வேட்பாளர்களின் கொள்கை பிரகடனம் பௌத்த சாசனத்துக்கு எதிராக உள்ளது. தேசிய கொடியையும், பௌத்த கொடியையும் மாற்றியமைப்பதாக குறிப்பிடுகிறார்கள். இவ்வாறான நிலை  ஏற்பட்டால் பௌத்த சாசனம் இல்லாதொழியும்.
+
+இடம்பெறவுள்ள ஜனாதிபதித் தேர்தல் தீர்மானமிக்கது. நாட்டு மக்கள் சிறந்த தீர்மானத்தை எடுக்க வேண்டும். முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ நாட்டுக்கு அளப்பரிய சேவையாற்றியுள்ளார் என்பதை  ஏற்றுக் கொள்ள வேண்டும். உண்மையில் சேவையாற்றியிருந்தால் அவர் தனது மகனான நாமல் ராஜபக்ஷவுக்கு அறிவுரை  வழங்க  வேண்டும்.
+
+...
+
+[Data](articles/2136545e.json)
 
 ---
 
@@ -2503,67 +2577,5 @@ Jayaweera stated that the ‘Hithe Haiya’ program is designed to end those pro
 [Data](articles/868c8673.json)
 
 [Extended Data](ext_articles/868c8673.ext.json)
-
----
-
-### Provide your ment to the public era - Sajith
-
-*2024-09-17 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201108) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sajith Premadasa announces presidential task force for each district. Promises direct connection between citizens and president through local consultations. Urges voters not to waste ballots on other parties. Emphasizes unity in national development.
-
-🟩
-
-Opposition Leader Sajith Premadasa says the presidential candidate for the presidential development Task Force is established for every administrative district of the country.
-
-Sajith Premadasa made this statement participating in a famil yesterday (16) in Dambulla yesterday.
-
-"A Presidential Task Force to establish a Presidential Task Force to every administrative district of this country. A separate unit is established to connect to the people with the President to hold the people in all four-wedding district consultation with the Matale district to the Matale district.
-
-We will resort to a program that will bring town cities. Don't waste your votes for the JVP and the UNP.
-
-I request that everyone with our journey to develop the country without the party differences. Do you give your privilege to the Public Era?You have the verdict.
-
-...
-
-[Data](articles/b5f8cbda.json)
-
-[Extended Data](ext_articles/b5f8cbda.ext.json)
-
----
-
-### Trump's attempt to kill - a suspect waiting for 12 hours
-
-*2024-09-17 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/193904) · `ta`
-
-Trump assassination attempt: Suspect waits 12 hours, police charge gunman. Secret Service fires after seeing weapon near ex-president. Gun and camera recovered. 58-year-old Ryan Ruth arrested 40 minutes later.
-
-🟩
-
-According to reports, the accused of trying to kill former US President Donald Trump has been waiting for Trump for 12 hours.
-
-Police have filed two charges related to guns against a man suspected of trying to kill Trump.
-
-The suspect did not firing on the former president, but the question arises as to how the armed persons were able to approach the former president twice.
-
-Ronald Ravey, director of the US Secret Service Division, said that the visit to Trump's golf grounds has not been publicly announced.
-
-There is no definitive report on whether the suspect was aware of whether Trump would come there.
-
-The secret service unit has fired after a secret service unit, who was involved in the raid in the area, saw a gun from the closest to the former president.
-
-Suddenly we heard the noise of gunfire, and Trump said at a social media event that four noises.
-
-The secret service unit knows that it is gunns and they immediately grabbed me and they were a wonderful manner.
-
-...
-
-[Data](articles/135918b8.json)
-
-[Extended Data](ext_articles/135918b8.ext.json)
 
 ---

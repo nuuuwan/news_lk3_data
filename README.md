@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 10:38:17**
+As of **2024-09-17 10:57:11**
 
 ## Newspaper Stats
 
-*Scraped **44,287** Articles*
+*Scraped **44,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,97 @@ dailyftlk | 2,935
 adalk | 4,088
 dailymirrorlk | 4,733
 adaderanalk | 5,214
-tamilmirrorlk | 5,778
+tamilmirrorlk | 5,780
 virakesarilk | 7,053
-adaderanasinhalalk | 7,582
+adaderanasinhalalk | 7,583
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,287 (100.0%) of 44,287 articles have been extended.
+44,290 (100.0%) of 44,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Modi Birthday: Greetings
+
+*2024-09-17 10:13:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-பிறந்த-நாள்-குவியும்-வாழ்த்துகள்/175-343883) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Prime Minister Modi celebrates 74th birthday. Leaders like President Murmu, Home Minister Shah, and CMs offer greetings. BJP organizes events, welfare programs, and medical camps across India.
+
+🟩
+
+Prime Minister Modi, who is celebrating the 74th birthday today, congratulates President Draupadi Murmu, Ministers and State Chief Ministers.
+
+BJP and volunteers all over the country celebrate his birthday. Various political leaders have congratulated him on this.
+
+President Draupadi Murmu posted a greeting on his social network, saying, "You have enhanced the country's resources and dignity through your excellent leadership."
+
+Home Minister Amit Shah posted on his X website, “Congratulations to the famous Prime Minister Modi. Happy Birthday to Prime Minister Narendra Modi, who has brought the country to change the lives of the people by tireless labor, devotion and visionary vision and gaining a new reputation worldwide.. I pray to the Lord for health and long life. ”
+
+...
+
+[Data](articles/9c9526be.json)
+
+[Extended Data](ext_articles/9c9526be.ext.json)
+
+---
+
+### Namal's target
+
+*2024-09-17 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201107) · `si`
+
+Namal Rajapaksa aims to transform Sri Lanka into the banking and finance hub of South Asia within 5 years. He plans to leverage existing infrastructure like the Colombo Port and expand services to regions like Suriyawewa and Jaffna. The goal is to attract global investors and boost the economy to $180 billion.
+
+🟩
+
+Namal Rajapaksa states that Sri Lanka is the center of banking and financial state of banking and finance in the next 5 years.
+
+He was speaking at a public rally held in Minuwangoda, he said this.
+
+"Many people thought the buildings of the Colombo Port was thought to hear the buildings.. It was a center of transactions. What do we want to use the world to use the world to customize, custody.
+
+We also make the benefits of Suriyawewa and Jaffna with 7 cartshops in Suriyawewa and Galle children to Colombo, Gampaha, Minuwangoda, Suriyawewa, Kurunegala and Kurunegala.
+
+What is our goal?Our goal is to translate the Colombo Port within the next five years as the center of banking and finance and finance South Asia.
+
+On the other hand, the top investors of the world have taken to our country on policy decisions that can benefit our economy and implement the jobs of children in this country and interpreting our economy to an economy over $ 180 billion. "
+
+◼️
+
+[Data](articles/377c2207.json)
+
+[Extended Data](ext_articles/377c2207.ext.json)
+
+---
+
+### 4,411 complaints so far
+
+*2024-09-17 10:02:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-4-411-முறைப்பாடுகள்/175-343882) · `ta`
+
+Election Commission reports 4,411 complaints: 1,379 national, 3,032 district. Over 4,000 violate regulations, 30 involve violence.
+
+🟩
+
+The Election Commission has stated that 4,411 complaints have been received so far regarding the presidential election.
+
+There have been 1,379 complaints for the National Election Complaint Management Center and 3,032 complaints to the District Election Complaint Management Centers.
+
+More than 4,000 complaints have been lodged in violation of election regulations and more than 30 complaints regarding violence.. Remble
+
+◼️
+
+[Data](articles/6584ab75.json)
+
+[Extended Data](ext_articles/6584ab75.ext.json)
+
+---
 
 ### Anura reveals about a conspiracy in the next few days
 
@@ -2337,87 +2415,5 @@ Police said that the trio and the driver of the three -wheeler were admitted to 
 [Data](articles/a421f8cb.json)
 
 [Extended Data](ext_articles/a421f8cb.ext.json)
-
----
-
-### Monthly income of a family is Rs. Dilith to do 100000
-
-*2024-09-16 17:57:09* · [`adalk`](https://www.ada.lk/breaking_news/පවුලක-මාසික-ආදායම-රු--100000ක්-කරන්න-යන-දිලිත්/11-411965) · `si`
-
-Here's a 200-character summary:
-
-
-
-Family minimum income: 100,000 rupees. Program aims to achieve this through entrepreneurship. Meeting discussed economic issues and government policies. Leaders criticized for tax avoidance and resource mismanagement. Young people urged to support Ranil over Gotabhaya. Electricity abundant but gas usage low due to price hikes. City bills increased by 5%.
-
-🟩
-
-The minimum monthly income of each family should be up to 100,000 rupees and the necessary program is the Entrepreneurship Candidate Entrepreneurship Dilith Jayaraweera.
-
-He was told by a meeting held at the Old Bus Stand at the old bus stand in Moneragala.
-
-"The economicians of the poor have not been able to carry out the government's economic as well.Do it.
-
-Our aim is to set up a cost of earning a minimum income of 100,000.
-
-No salary increment will be given to work in years.
-
-Wellassa area lives in the area.. However, every leader who entered politics in the recent past is to be taxed to the abyss. The EPF EPF continues to lease a large number of employees.
-
-The government that does not borrowed the country's resources that love the people to the country in the next presidential election should not be an unbalanced.. He has no need to protect the country's resources and property.
-
-...
-
-[Data](articles/b041e30e.json)
-
-[Extended Data](ext_articles/b041e30e.ext.json)
-
----
-
-### Luxury car accident: injury to someone
-
-*2024-09-16 17:54:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சொகுசு-கார்-விபத்து-ஒருவருக்கு-காயம்/76-343854) · `ta`
-
-Luxury car crash on Hatton-Nuwara Eliya road. Driver injured, hospitalized. Possible causes: speeding or driver asleep. Investigation ongoing.
-
-🟩
-
-The driver of the Nanu Oya Police Division crashed into a boulder on the Hatton -Nuwara Eliya main road on Monday afternoon (16) after the driver of the driver.
-
-The driver of the 34 -year -old car was admitted to the Nuwara Eliya District General Hospital for treatment and the accident was owned by a specialist at a private hospital in Nuwara Eliya, Nanuoya police said.
-
-It is reported that the luxury car driver from Colombo to Nuwara Eliya lost control of the driver of the car and crashed into a boulder.
-
-Nanuoya police, who are investigating the accident, may have been involved in the speeding of the car that was unable to control the speed of the car or the driver was sleeping.
-
-◼️
-
-[Data](articles/1f941cb0.json)
-
-[Extended Data](ext_articles/1f941cb0.ext.json)
-
----
-
-### Thera arrested for driving a car with an invalid driver's license
-
-*2024-09-16 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/193866) · `ta`
-
-Kurunegala police arrest 46-year-old Thera for driving with invalid license. Incident occurred during traffic check near Kandanekederata. Further investigation ongoing.
-
-🟩
-
-The Kurunegala police said that a man was arrested on charges of driving a car with an invalid driver's license.
-
-Police said the 46 -year -old Thera was a resident of Vikarai in Mirigama.
-
-He has been raided by the Kurunegala Traffic Police while traveling in a car from Kandanekederata in Kandanekedera in Kuliyapitiya.
-
-Following this, the Kurunegala police are conducting further investigations as Thera has been arrested.
-
-◼️
-
-[Data](articles/5b6788c9.json)
-
-[Extended Data](ext_articles/5b6788c9.ext.json)
 
 ---

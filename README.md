@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 13:07:47**
+As of **2024-09-17 13:22:35**
 
 ## Newspaper Stats
 
-*Scraped **44,311** Articles*
+*Scraped **44,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,090
 dailymirrorlk | 4,733
-adaderanalk | 5,217
+adaderanalk | 5,218
 tamilmirrorlk | 5,786
 virakesarilk | 7,057
 adaderanasinhalalk | 7,588
@@ -26,39 +26,81 @@ adaderanasinhalalk | 7,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,308 (100.0%) of 44,311 articles have been extended.
+44,311 (100.0%) of 44,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### புது டெல்லியின் அடுத்த முதல்வராகிறார்  அதிஷி
+### Athishi is the next Chief Minister of New Delhi
 
 *2024-09-17 12:52:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புது-டெல்லியின்-அடுத்த-முதல்வராகிறார்-அதிஷி/175-343893) · `ta`
 
-டெல்லி முதல்வர் அரவிந்த் கெஜ்ரிவால் இன்று மாலை தனது பதவியை இராஜினாமா செய்ய உள்ள நிலையில், டெல்லியின் அடுத்த முதல்வராக அமைச்சர் அதிஷியின் பெயர் முன்மொழியப்பட்டுள்ளது. அனைத்து எம்எல்ஏக்களும் அதற்கு ஒப்புதல் அளித்துள்ளனர்.
+Here's a 200-character summary:
 
-மதுபான கொள்கை ஊழல் வழக்கில் டெல்லி திஹார் சிறையில் இருந்த கெஜ்ரிவால் கடந்த 13ஆம் திகதி ஜாமீனில் விடுதலையானார். இதையடுத்து ஆம் ஆத்மி கட்சி நிர்வாகிகள் கூட்டத்தில் அர்விந்த் கெஜ்ரிவால் கடந்த ஞாயிற்றுக்கிழமை (செப்.15) பேசும்போது, “முதல்வர் பதவியை 2 நாட்களில் இராஜினாமா செய்வேன். மக்கள் எனக்கு மீண்டும் வாக்களித்த பிறகு மீண்டும் அப்பதவியில் அமர்வேன்” என்றார்.
 
-இதன்படி இன்று கெஜ்ரிவால் பதவியை இராஜினாமா செய்ய இருக்கிறார். இதற்காக டெல்லி துணை நிலை ஆளுநர் வினய் சக்சேனாவை மாலை 4.30 மணிக்கு சந்தித்து தனது இராஜினமா கடிதத்தை அளிக்கவுள்ளார்.
+
+Arvind Kejriwal resigns as Delhi CM; Atishi named successor. Kejriwal freed on bail after liquor policy case. MLAs approve Atishi as new leader.
+
+🟩
+
+Delhi Chief Minister Arvind Kejriwal is set to resign from his post this evening.. All MLAs have approved it.
+
+Kejriwal, who was in Delhi's Tihar jail in the case of liquor policy corruption, was released on bail on the 13th.. Speaking at a meeting of Aam Aadmi Party executives, Arvind Kejriwal said last Sunday (Sept. 15), “I will resign from the post of Chief Minister in 2 days. After people vote for me, I will sit again. ”
+
+Accordingly, Kejriwal is to resign today. Delhi Deputy Governor Vinay Saxena will meet with his letter of resignation at 4.30 pm.
+
+Meanwhile, Arvind Kejriwal and his former deputy chief minister Manish Sisodia met at Kejriwal's residence and discussed who could lead the Delhi government.. The party's political affairs committee then met and discussed.
+
+Earlier, "Like Arvind Kejriwal I am going to the People's House. If people recognize my honesty in the election, I will be in office again, ”Manish Sisodia said.
 
 ...
 
 [Data](articles/607728c7.json)
 
+[Extended Data](ext_articles/607728c7.ext.json)
+
 ---
 
-### ක්ලබ් වසන්ත ඝාතනයේ තවත් සැකකරුවෙකු කොටුවෙයි
+### Floods wreak damage in Myanmar, killing at least 226
+
+*2024-09-17 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102037/floods-wreak-damage-in-myanmar-killing-at-least-226) · `en`
+
+Floods in Myanmar have killed at least 226 people in just over a week, state media reported on Tuesday, after heavy rains brought on by Typhoon Yagi battered the central provinces of the war-torn Southeast Asian country.
+
+Around a third of Myanmar’s 55 million people are already in need humanitarian aid, following incessant conflict triggered by a Feb. 2021 coup when the powerful military unseated the civilian government of Nobel laureate Aung San Suu Kyi.
+
+The areas hardest hit by the flooding include the second largest city of Mandalay, the capital Naypyitaw and parts of Shan state, a sprawling province that has seen heavy fighting in recent months.
+
+“A total of 388 relief camps were opened in nine regions and states, and the well-wishers donated drinking water, food and clothes,” reported the Global New Light of Myanmar, the newspaper of the military government.
+
+...
+
+[Data](articles/807e647f.json)
+
+---
+
+### Another suspect in Club Wasantha murder
 
 *2024-09-17 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201112) · `si`
 
-ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත හෙවත් ක්ලබ් වසන්ත ඝාතනයට අදාළ තවත් සැකකරුවෙක් බස්නාහිර දකුණ අපරාධ විමර්ශන ඒකකය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a 200-character summary:
 
-වෙඩි තැබීම සඳහා යොදාගත් උණ්ඩවල KPI ලෙස සටහන් කිරීම හා මෝටර් රථයකින් සැකකරුවන් අතුරුගිරිය ගල්පොත්ත ප්‍රදේශයට ප්‍රවාහනය කර ඇත්තේ මෙම සැකකරු බව පොලිසිය අනාවරණ කරගෙන තිබේ.
+
+
+Western Province South Criminal Investigation Unit arrests suspect in Club Wasantha murder case. Suspect reveals use of KPIs (possibly vehicles) for transporting suspects from car to Galpottewatta area in Athurugiriya.
+
+🟩
+
+The Western Province South Criminal Investigation Unit has arrested another suspect in the Western Province South Criminal Investigation Unit.
+
+The suspect has revealed that the suspect was transported as KPI as KPIs in the Ammore used for shooting and transporting the suspects from a car to the Galpottewatta area in Athurugiriya.
 
 ◼️
 
 [Data](articles/f8c2d78b.json)
+
+[Extended Data](ext_articles/f8c2d78b.ext.json)
 
 ---
 
@@ -77,6 +119,8 @@ He stated that this opportunity will be available for the voters until the date 
 ◼️
 
 [Data](articles/63011063.json)
+
+[Extended Data](ext_articles/63011063.ext.json)
 
 ---
 
@@ -2411,25 +2455,5 @@ The announcement shows that the society has a recurrence of economic instability
 [Data](articles/9c5a2d9b.json)
 
 [Extended Data](ext_articles/9c5a2d9b.ext.json)
-
----
-
-### Dilith hits out at ‘absurd’ political dramas by main presidential candidates
-
-*2024-09-16 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102025/dilith-hits-out-at-absurd-political-dramas-by-main-presidential-candidates-) · `en`
-
-The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera says that an ‘absurd’ form of politics currently exists in the country.
-
-While attending a public rally held in Monaragala today (16), Jayaweera expressed that certain political leaders are providing each other with jokes on the political stage.
-
-Commenting on President Ranil Wickremesinghe, he said the president is asking the people to give him power again, claiming that he has made a ‘change’ which was sought by the people.
-
-“His good friend Anura Kumara is asking him not to call him a ‘friend’ in public. The most powerful agriculture minister in Sri Lankan history, the former agriculture minister Anura Kumara had the greatest number of institutions under his ministry. “
-
-...
-
-[Data](articles/3d99619e.json)
-
-[Extended Data](ext_articles/3d99619e.ext.json)
 
 ---

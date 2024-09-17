@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 08:22:27**
+As of **2024-09-17 08:39:04**
 
 ## Newspaper Stats
 
-*Scraped **44,270** Articles*
+*Scraped **44,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,120 @@ dbsjeyarajcom | 377
 bbccomsinhala | 426
 colombotelegraphcom | 440
 islandlk | 2,611
-economynextcom | 2,684
+economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,086
 dailymirrorlk | 4,733
-adaderanalk | 5,212
+adaderanalk | 5,213
 tamilmirrorlk | 5,775
 virakesarilk | 7,051
-adaderanasinhalalk | 7,577
+adaderanasinhalalk | 7,579
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,269 (100.0%) of 44,270 articles have been extended.
+44,274 (100.0%) of 44,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### EC issues statement regarding ballot boxes for Presidential Election
+
+*2024-09-17 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102030/ec-issues-statement-regarding-ballot-boxes-for-presidential-election) · `en`
+
+The Election Commission announced that the cardboard boxes, designated for use as ballot boxes in this year’s presidential election, have been dispatched to all returning officers across the island.
+
+The respective retuning officers will deliver these ballot boxes to polling stations on September 20.
+
+Due to the larger size of the ballot papers, the Election Commission has decided to utilize cardboard boxes instead of the traditional wooden boxes. The commission stated that the boxes have been produced in three different sizes.
+
+Additionally, the Election Commission confirmed that all preparations for the polling process have been completed and necessary instructions have been issued to government officials.
+
+Officials involved in election duties are advised to finalize arrangements and travel to their designated polling stations on the appointed day.
+
+◼️
+
+[Data](articles/10cd2126.json)
+
+[Extended Data](ext_articles/10cd2126.ext.json)
+
+---
+
+### Still not enough ...
+
+*2024-09-17 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201103) · `si`
+
+Ranil Wickremesinghe denies IMF talks with Anura Kumara Dissanayake. Claims IMF requires consent before proceeding. Urges swift action to avoid economic crisis.
+
+🟩
+
+Ranil Wickremesinghe says that Anura Kumara Dissanayake has not been discussed with the International Monetary Fund.
+
+Mr. Ranil Wickremesinghe made this statement participating in a famil in Ampara.
+
+"When everybody's said, we joined the country and changed the country. We joined the side of political parties because we couldn't bear this. Because all people live. We added this country. The rupee was strong. The furnace was gradually reduced. Still not enough. We have to take more. We have come to a half more than. I'm especially acting, especially now, can't fall. It's asking for the millions. What is Sajith say?Anura said to come with a debate. Not yet come. They say the IMF takes the approval. IMF can't get this without consent. Today, I've been looking for the IMF. Only talking here. Don't let the country back to that situation. Schedule in cylinder in front of the September 21 for a good future. "
+
+◼️
+
+[Data](articles/a897aca9.json)
+
+[Extended Data](ext_articles/a897aca9.ext.json)
+
+---
+
+### Several deadly road accidents - small girl killed
+
+*2024-09-17 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201102) · `si`
+
+Multiple fatal accidents reported: motorcyclist killed, cyclist dies, three-wheeler crash claims family of four.
+
+🟩
+
+Three people have died due to several fatal accidents around the country during the past 24 hours.
+
+The motorcyclist, a motorbike, which was traveling to Dehiattakandiya and the motorbike was not controlled by the Dehiattakandiya Struggle.
+
+Motorcyclists have been seriously injured and admitted to the Dehiattakandiya hospital while receiving treatment at the Dehiattakandiya Hospital.
+
+The Jaffna Police Division was in front of a three-wheeler near the Medawachchiyawa area near the Medawachchiya road.
+
+One group has died in admission to the Rambewa hospital with a three-wheeler driver, his wife and two children.
+
+Meanwhile, a bicyclist traded in the direction in a bicycle who was traveling to Welipalassa from the Arachchikatta.
+
+Cyclist was killed and 41 years old.
+
+◼️
+
+[Data](articles/97dd7e92.json)
+
+[Extended Data](ext_articles/97dd7e92.ext.json)
+
+---
+
+### Malayalam movie to be filmed in Sri Lanka
+
+*2024-09-17 08:00:00* · [`economynextcom`](https://economynext.com/malayalam-movie-to-be-filmed-in-sri-lanka-179718/) · `en`
+
+ECONOMYNEXT – A Malayalam movie starring Mammootty and Mohanlal will be filmed on location in Sri Lanka over 30 days, the Prime Minister’s Media said.
+
+Malayalam Film Producers Association President Joseph Anto Athirampuzha, and film directors Narayanan Mahesh and C V Sarathy met Prime Minister Dinesh Gunawardena at Temple Trees on Sunday (15).
+
+The MFPA president and the two directors briefed the premier of their plan to shoot a Malayalam mega film in Sri Lanka in November this year, the PM’s media said in a statement.
+
+Malayalam cinema super stars Mammootty and Mohanlal will star in this film. Location shooting will be done in Sri Lanka for 30 days. The rest of the shooting will be done in Kerala, Delhi and London.
+
+“This is the first time in 20 years that Mammootty and Mohanlal will act together in a film, and it will definitely be a blockbuster,” Director Mahesh was quoted as saying in the statement. (Colombo/Sep17/2024)
+
+◼️
+
+[Data](articles/aae0db1c.json)
+
+[Extended Data](ext_articles/aae0db1c.ext.json)
+
+---
 
 ### We will not publish official results
 
@@ -2245,103 +2341,5 @@ Furthermore, Wickremesinghe elaborated: “My primary goal is to ease the burden
 [Data](articles/28093b18.json)
 
 [Extended Data](ext_articles/28093b18.ext.json)
-
----
-
-### The success of the national people's power cannot be reduced by unleashing violence - the Superintendent of Police HU. Procurement
-
-*2024-09-16 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193849) · `ta`
-
-National People's Power appeals against violence, police investigation underway after attack on supporters.
-
-🟩
-
-Most people have decided to appoint the president of the country in six days. Other major candidates are unable to withstand this. However, the leader of the National People's Power, with great care, has appealed to the lower -level members not to understand any harassment. In doing so, the police superintendent of the National People's Power Puttalam District and the Bambala Election Office have been carried out by the Superintendent of Police HU.. Pianantha said.
-
-In addition, our meeting was held at our meeting held at Monaragala last Friday (13) at the UNP in front of the United People's Power Office in Mahabodayaya area.
-
-Today, people are carrying out such attacks without being able to withstand the population of national power. Once we have announced this, we announced to the Budala Police Station Officer in charge and announced a transparent inquiry into the matter.
-
-...
-
-[Data](articles/3e6c6c4d.json)
-
-[Extended Data](ext_articles/3e6c6c4d.ext.json)
-
----
-
-### ITAK takes final decision on endorsing prez candidate despite dissent within party
-
-*2024-09-16 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102019/itak-takes-final-decision-on-endorsing-prez-candidate-despite-dissent-within-party) · `en`
-
-The Ilankai Tamil Arasu Kachchi (ITAK) has officially reached a final decision to endorse Sajith Premadasa, the presidential candidate of the Samagi Jana Balawegaya (SJB), at the upcoming presidential election.
-
-The announcement came after a party meeting held this morning (16) in Vavuniya, where the party’s central committee made the final decision.
-
-Meanwhile, leader of the ITAK Mavai Senathirajah, who earlier extended his support for incumbent President Ranil Wickremesinghe, confirmed the party’s support for Premadasa, as per the decision reached by the party’s central committee following a thorough discussion and deliberation.
-
-However, not all within the party are in agreement, as Jaffna District Member of Parliament, S. Shritharan, has expressed his strong dissent against the party’s decision.
-
-Speaking to the media, Shritharan urged the party’s supporters to back the Tamil common candidate P. Ariyanethiran, who he believes represents the true aspirations of the Tamil people.
-
-...
-
-[Data](articles/69e8a35d.json)
-
-[Extended Data](ext_articles/69e8a35d.ext.json)
-
----
-
-### India is spreading
-
-*2024-09-16 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201085) · `si`
-
-Nipah virus outbreak in Kerala, India: Young man dies, 151 contacts quarantined. Second death in Malappuram district. WHO warns, no vaccine available. Virus spreads through bats, pigs, and fruits.
-
-🟩
-
-International media reports that a young man who was receiving treatment from the Nippa virus had been killed in the state of Indian Kerala.
-
-The 24-year-old youth was a high school. He had a fever on last 4th.
-
-He said that he was a resident of the Malapurm.
-
-It is said that 151 close friends of the young man have been directed to quarantine.
-
-The death was death of the second Naval Method of this death in the Malapparam area and a 14-year-old schoolgirl killed in July last July.
-
-The World Health Organization warned about the virus, and no vaccine or other treatment has been found to avoid it.
-
-The Nixti virus has been identified as the fruit of the fruit and pigs such as bats and pigs.
-
-◼️
-
-[Data](articles/ecb19b86.json)
-
-[Extended Data](ext_articles/ecb19b86.ext.json)
-
----
-
-### Suspect arrested for cutting down ground power wires on high -speed road
-
-*2024-09-16 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/193839) · `ta`
-
-Arrest made for cutting power lines on expressway. Suspect caught by police tourist unit. 14-foot wires and equipment found. Case transferred to Wattala police for investigation.
-
-🟩
-
-A suspect has been arrested for allegedly cut off ground power lines on the Colombo -Katunayake Expressway.
-
-The suspect has been arrested by a police tourist unit for allegedly engaging in night -time rape on the highway.
-
-Police said that the suspects were seized from the arrested suspect, 14 feet long, 02 power wires and equipment used to disconnect the power wires.
-
-Subsequently, the suspect has been handed over to the Wattala police for further investigations, police said.
-
-◼️
-
-[Data](articles/2b6a089f.json)
-
-[Extended Data](ext_articles/2b6a089f.ext.json)
 
 ---

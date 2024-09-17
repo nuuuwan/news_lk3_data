@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 17:07:34**
+As of **2024-09-17 17:22:23**
 
 ## Newspaper Stats
 
-*Scraped **44,352** Articles*
+*Scraped **44,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,685
 dailyftlk | 2,935
-adalk | 4,093
+adalk | 4,095
 dailymirrorlk | 4,733
 adaderanalk | 5,221
 tamilmirrorlk | 5,788
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,352 (100.0%) of 44,352 articles have been extended.
+44,352 (100.0%) of 44,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### විද්‍යාර්ථ විද්‍යාලයේ දෙවන ජන්ම සංවත්සර සැමරුම අනිද්දා
+
+*2024-09-17 16:42:40* · [`adalk`](https://www.ada.lk/breaking_news/විද්‍යාර්ථ-විද්‍යාලයේ-දෙවන-ජන්ම-සංවත්සර-සැමරුම-අනිද්දා/11-411983) · `si`
+
+කොස්ගම විද්‍යාර්ථ විද්‍යාලයේ දෙවන ජන්ම සංවත්සර සැමරුම් උළෙල ලබන 19 වැනිදා පැවැත්මට කටයුතු සූදානම් කර තිබේ.
+
+මෙම සංවත්සර උළෙල ජාතික අධ්‍යාපන ආයතනයේ අධ්‍යක්ෂ ජනරාල් මහාචාර්ය ප්‍රසාද් සේතුංග මහතාගේ සහ හෝමාගම කලාප අධ්‍යාපන අධ්‍යක්ෂ හේමන්ත ගමගේ මහතාගේ සහභාගීත්වයෙන් ලබන 19 වැනිදා පෙ.ව.09ට විද්‍යාලයීය ප්‍රධාන ශාලාවේදී පැවැත්වීමට කටයුතු යොදා ඇත.
+
+එහිදී විද්‍යාර්ථ සදහම් පූජා- ධර්ම දේශනාමය පිංකම, විද්‍යාර්ථ උත්තම රුහිරු පූජා- ලේ දන්දීමේ වැඩසටහන, විද්‍යාර්ථ පැනසර - අන්තර් පාඨශාලීය තරඟාවලිය, Step to future Vidyartha - 2024 පාගමන සහ විද්‍යාර්ථ සහෝදරත්වයේ සුරත ආදී වැඩසටහන් රැසක් පැවැත්වීමටද කටයුතු යොදා ඇත.
+
+මීට අමතරව කොස්ගම මහා විද්‍යාලය ලෙස තිබූ පාසල් නාමය එදින සිට විද්‍යාර්ථ විද්‍යාලය ලෙස නව නාමකරණයකට ලක් කිරීමට කටයුතු යොදා තිබේ.
+
+◼️
+
+[Data](articles/7b0427c1.json)
+
+---
 
 ### Sampath was killed as a seat organizer
 
@@ -433,6 +451,26 @@ The other problem is there two nauthela two nappyla. That's what happened. Both 
 [Data](articles/4d9452fb.json)
 
 [Extended Data](ext_articles/4d9452fb.ext.json)
+
+---
+
+### අනුර කියපු විවාදයට මම සූදානම්
+
+*2024-09-17 14:24:37* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-කියපු-විවාදයට-මම-සූදානම්/11-411980) · `si`
+
+අසීරුවෙන් රට ලබාගත් ජයග්‍රහණය ආරක්ෂා කර ගනිමින් ඉදිරියට යාමට නම් සැප්තැම්බර් 21 වනදා ගෑස් සිලින්ඩරයට ඡන්දය ලබා දෙන ලෙස තමා ජනතාවගෙන් ඉල්ලා සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ සහාය හිමිව තිබෙන්නේ මේ වන විටත් ආණ්ඩුව ක්‍රියාත්මක කර ඇති වැඩසටහන සඳහා බව පැවසු ජනාධිපතිවරයා ජනතාව ඉදිරියට පැමිණ බොරු පොරොන්දු දෙන සජිත්ට හෝ අනුරට රට ඉදිරියට ගෙන යාමේ වැඩපිළිවෙළක් නොමැති බවද සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඊයේ (16) පස්වරුවේ වැල්ලවායේ පැවති “රනිල්ට පුළුවන්” විජයග්‍රාහී ජන රැලිය අමතමිනි.
+
+එළැඹෙන ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ විජයග්‍රහණය තහවුරු කිරීම වෙනුවෙන් සංවිධානය කර තිබූ මෙම ජන රැලියට අතිවිශාල ජනතාවක් එක්ව සිටියහ.
+
+ජන රැලිය ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය. හම්බන්තොට කර්මාන්ත දියුණු වන විට එහි ආයෝජන කලාපයක් මෙම වැල්ලවාය ප්‍රදේශයට ද ලැබෙනවා. ඒ වගේම මොණාරගල අප පුළුල් සංවර්ධන වැඩපිළිවෙළක් ක්‍රියාත්මක කරනවා. අප ඉල්ලා සිටින්නේ මෙම වැඩසටහන්  ඉදිරියට ගෙනයාමේ ජනවරමයි.
+
+...
+
+[Data](articles/9e99d8c6.json)
 
 ---
 
@@ -2631,49 +2669,5 @@ The expectation of national people is to accept your cultural identity and creat
 [Data](articles/ec8afb74.json)
 
 [Extended Data](ext_articles/ec8afb74.ext.json)
-
----
-
-### The struggle for the life load will end in 2025
-
-*2024-09-17 01:59:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாழ்க்கைச்-சுமைக்கான-போராட்டம்-2025-இல்-முடிவுக்கு-வரும்/175-343868) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Ranil Wickremesinghe promises to end Sri Lanka's economic struggles by 2025, strengthening the rupee and providing relief to citizens. He emphasizes the importance of restoring the country's economy and making difficult decisions to achieve stability.
-
-🟩
-
-President Ranil Wickremesinghe said he would end the struggle for the life burden of the people next year.
-
-The President said the economy would manage the economy, strengthen the rupee and protect the economic stability and provide relief to the people, and pointed out that he would have to make difficult decisions to restore the country's collapsed economy and eventually provide relief.
-
-President Ranil Wickremesinghe said this while addressing the success of Ranilal, which was held in Dehiwala on Sunday afternoon.
-
-A large number of people attended the meeting, which was organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election and welcomed the president very excited.
-
-Addressing the gathering, President Ranil Wickremesinghe added that he has already begun a program to build a new economy, a new country and a new political system.The president said his need to provide the new economy to the country and that it could not be done or not.
-
-...
-
-[Data](articles/56670e82.json)
-
-[Extended Data](ext_articles/56670e82.ext.json)
-
----
-
-### President For Tomorrow’s Sri Lanka
-
-*2024-09-17 01:30:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-for-tomorrows-sri-lanka/) · `en`
-
-As the final lap of the presidential election campaign comes to its close at midnight on Wednesday, there is no certainty about the outcome. The only certainty is that it will be one of three candidates—incumbent president Ranil Wickremesinghe, opposition leader Sajith Premadasa or NPP leader Anura Kumara Dissanayake. The other 35 candidates including the young scion of the Rajapaksa family and candidate of the SLPP are at best “also-rans.” But even they are hopeful. There appears to be a substantial number of voters who are undecided, and their hope is that those votes will come their way. Indeed, the principle of the “echo chamber” is working to the fullest extent at this election.
-
-...
-
-[Data](articles/21e80502.json)
-
-[Extended Data](ext_articles/21e80502.ext.json)
 
 ---

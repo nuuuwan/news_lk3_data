@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 00:11:55**
+As of **2024-09-18 00:23:07**
 
 ## Newspaper Stats
 
-*Scraped **44,401** Articles*
+*Scraped **44,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
 tamilmirrorlk | 5,798
-virakesarilk | 7,093
+virakesarilk | 7,095
 adaderanasinhalalk | 7,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,401 (100.0%) of 44,401 articles have been extended.
+44,401 (100.0%) of 44,403 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -290,6 +290,22 @@ The final rally of the candidate Sajith Premadasa of the Samagiens The last rall
 
 ---
 
+### நாட்டை அபிவிருத்தி செய்வதா? அராஜக நிலைக்கு கொண்டுசெல்வதா? மக்கள் சரியான தீர்மானம் எடுக்க வேண்டும் - ஐ.தே.க. சட்டச் செயலாளர் நிஸ்ஸங்க நாணயக்கார
+
+*2024-09-17 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/193956) · `ta`
+
+பொருளாதாரத்தை முன்னேற்றி, நாட்டை அபிவிருத்தி செய்துவரும் தற்போதைய வேலைத்திட்டத்தை தொடர்ந்து முன்னெடுத்து செல்வதா? அல்லது கடந்த காலங்களைப்போன்று நாட்டை மீண்டும் அராஜக நிலைக்கு கொண்டு செல்வதா என்பதை தீர்மானிப்பதற்கான சந்தர்ப்பம் மக்களுக்கு கிடைக்கப்பெற்றுள்ளது. மக்கள் சரியான தீர்மானம் எடுக்கும் என நாங்கள் நம்புகிறோம் என ஐக்கிய தேசிய கட்சியின் சட்டச் செயலாளர் ஜனாதிபதி சட்டத்தரணி நிஸ்ஸங்க நாணயக்கார தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (17) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பி்ட்டார்.
+
+ஜனாதிபதி தேர்தல் சூடுபிடித்து, தற்போது இறுதிக்கட்டத்தை அடைந்துள்ளது. தேர்தல் பிரசாரங்கள் இன்றுடன் முடிவடைகின்றன. இன்னும் ஒரு சில தினங்களில் இந்த நாட்டுக்கான தலைவரை தெரிவு செய்துகொள்வதற்கான சந்தர்ப்பம் மக்களுக்கு கிடைக்கிறது.
+
+...
+
+[Data](articles/f2638906.json)
+
+---
+
 ### The people should not fail to replace the doctors in the patient's recovery - the president
 
 *2024-09-17 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/193957) · `ta`
@@ -363,6 +379,22 @@ The 41 -year -old motorcycle driver who was injured in the accident has died aft
 [Data](articles/fe88bb28.json)
 
 [Extended Data](ext_articles/fe88bb28.ext.json)
+
+---
+
+### பெருந்தோட்டப் பாடசாலைகளுக்கான உதவி ஆசிரியர் நியமன விவகாரத்தை இனவாத ரீதியாக அணுகவில்லை - பைசர் முஸ்தபா விளக்கம்
+
+*2024-09-17 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/193947) · `ta`
+
+பெருந்தோட்டப் பாடசாலைகளுக்கான உதவி ஆசிரியர் நியமன விவகாரத்தை நான் இனவாத ரீதியாக அணுகவில்லை. மாறாக அது தொடர்பில் வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலில் காணப்படும் தெளிவின்மை காரணமாகவே நீதிமன்றத்தை நாடியதாக முன்னாள் அமைச்சர் பைசர் முஸ்தபா தெரிவித்தார்.
+
+பெருந்தோட்டப் பாடசாலைகளில் நிலவும் ஆசிரியர் பற்றாக்குறையை நிவர்த்தி செய்வதற்காக உதவி ஆசிரியர்களை நியமிப்பதற்கு தீர்மானிக்கப்பட்டது. இது குறித்த வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டதோடு, கடந்த ஆகஸ்ட் 17ஆம் திகதி போட்டிப்பரீட்சைகளை நடத்துவதற்கான ஏற்பாடுகளும் பூர்த்தி செய்யப்பட்டிருந்தன.
+
+எவ்வாறிருப்பினும் பரீட்சைகள் இடம்பெறவிருந்த ஓரிரு தினங்களுக்கு முன்னர் குறித்த வர்த்தமானி அறிவித்தலுக்கு எதிராக முன்னாள் அமைச்சர் பைசர் முஸ்தபா தாக்கல் செய்த மனுவுக்கமைய, நீதிமன்றம் இடைக்கால தடையுத்தரவைப் பிறப்பித்தது. இதனால் பரீட்சைகள் இடைநிறுத்தப்பட்டுள்ளன.
+
+...
+
+[Data](articles/851fe62d.json)
 
 ---
 
@@ -2527,69 +2559,5 @@ A large number of people participated in the rally, which was organized to ensur
 [Data](articles/21b0114e.json)
 
 [Extended Data](ext_articles/21b0114e.ext.json)
-
----
-
-### 'Karthi 29' official announcement
-
-*2024-09-17 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/193902) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Karthi 29": New Tamil film starring Karthi. Directed by Danakkan director. Produced by Dream Warrior Pictures. Co-producers: R.Prakash Babu, S.R. Prabhu, Ishan Saxena, Sunil Shah, Raja Subramanian. Black-and-white trailer hints at ocean theme. "Meyyalakan" releasing globally on 27th.
-
-🟩
-
-The new movie starring Karthi, the hero of the Tamil film industry, has been temporarily titled as 'Karthi 29' and an official announcement has been made.
-
-Karthi is the hero of the story in the film, directed by the director and actor who directed the film 'Danakkan'.
-
-The film was made on behalf of Dream Warrior Pictures Company. R.Prakash Babu & S. R. Prabhu is co -produced.
-
-Along with them, Ishan Saxena, Sunil Shah and Raja Subramanian are working as a co -producer.
-
-A special look at the film has a black -white ship.
-
-It has been observed that the film may be a conscious work that is emotionally described by the sea and sea life.
-
-This is the first time in the Karthi and Tamil Alliance.
-
-Meanwhile, the film 'Meyyalakan', starring actor Karthi, will be released at the film palace worldwide on the 27th of this month.
-
-◼️
-
-[Data](articles/8d9648be.json)
-
-[Extended Data](ext_articles/8d9648be.ext.json)
-
----
-
-### “We are the ones who spoke when the Islamists were injustice"
-
-*2024-09-17 10:49:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/இஸ்லாமியர்களுக்கு-அநீதி-நிகழ்ந்த-போது-நாங்கள்தான்-பேசினோம்/73-343886) · `ta`
-
-Sajith Pramadasa addresses supporters, promising housing, education reforms, healthcare improvements, and addressing land issues. He emphasizes unity across ethnicities and religions.
-
-🟩
-
-The Presidential candidate Sajith Pramadasa said that after the 2019 presidential election, Gotabhaya became the President of the Gotabhaya so that more houses started by us were suspended.
-
-He was speaking at a meeting held at the Ottamavadi Amir Ali Playground on Sunday (15) in support of Presidential candidate Sajith Pramadasa.
-
-I would like to say certain that we will win all the houses found in the area after winning the entire Sri Lanka on the 21st.
-
-It is not only the land and the home without the land, I am informed that we will provide houses under the Gum Udawa Scheme.
-
-We have created plans to create production industrial internships in every Divisional Secretariat and provide employment opportunities for young people and enhance their livelihood.
-
-Thereby creating information technology, English knowledge and computer development, we will bring a massive revolution for all young people.
-
-...
-
-[Data](articles/bb995043.json)
-
-[Extended Data](ext_articles/bb995043.ext.json)
 
 ---

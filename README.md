@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 20:57:09**
+As of **2024-09-17 21:08:59**
 
 ## Newspaper Stats
 
-*Scraped **44,383** Articles*
+*Scraped **44,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,52 @@ dbsjeyarajcom | 378
 bbccomsinhala | 428
 colombotelegraphcom | 441
 islandlk | 2,611
-economynextcom | 2,685
+economynextcom | 2,688
 dailyftlk | 2,935
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,227
 tamilmirrorlk | 5,797
 virakesarilk | 7,086
-adaderanasinhalalk | 7,601
+adaderanasinhalalk | 7,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,383 (100.0%) of 44,383 articles have been extended.
+44,387 (100.0%) of 44,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### You and I become similar citizens in this country - Dilith
+
+*2024-09-17 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201126) · `si`
+
+Dilith Jayaweera challenges presidential candidates over digital ID system. He proposes issuing unique digital numbers to all citizens, linking it to income and expenditure. A women's empowerment event was also held in Kandy.
+
+🟩
+
+Dilith Jayaweera is challenging the other presidential candidates, as every citizen is given to the digital unimouth number.
+
+The Dilith Gatamental Secretariat was held in Yatiyantota town this morning.
+
+"We present a strategic program. It said that in one one ... Your life changes. How to get money for that changing. None of the words against this. "
+
+"We have suggested in this book.. Similar way using modern digitalization. The birthday is the same citizens of this Digital number you and I have one day on one day. "
+
+"I'm asking them one question. Promise if you can issue the digital number. If the income is to tell the income.. Expenditure is spent. "
+
+Meanwhile, a woman who was organized by the Surgeon Power Women's Power Organization, a Women's Warranty, was held in Kandy this afternoon.
+
+◼️
+
+[Data](articles/c6f8fd7c.json)
+
+[Extended Data](ext_articles/c6f8fd7c.ext.json)
+
+---
 
 ### Ranil invited to buds
 
@@ -365,6 +393,28 @@ Parliamentarian Charles Nirmalanathan said that this was a meeting with Member o
 [Data](articles/ad8f6060.json)
 
 [Extended Data](ext_articles/ad8f6060.ext.json)
+
+---
+
+### Sri Lanka food prices sharply down after multiple VAT hikes: Analysis
+
+*2024-09-17 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-food-prices-sharply-down-after-multiple-vat-hikes-analysis-179769/) · `en`
+
+ECONOMYNEXT – Sri Lankas basic food prices are sharply down after multiple value added tax hikes over the past two years, but politicians, who stay mum on import duties, continue to claim that they will reduce VAT to bring down food prices.
+
+After years of pushing the ideology that direct taxes are the best system tax, and indirect taxes were ‘regressive’ both politicians and ‘professionals’ received shock when income tax rates were raised to pay state worker salaries in 2022.
+
+Politicians are usually against tax in a knee-jerk reaction from Western ideology
+
+Now they want to reduce personal income tax. Personal income taxes have a major disadvantage because they undermine individual choice and take taxes away before an economic decision and transaction is made.
+
+Value added tax is collected after an individual makes a choice, guiding the economy towards their needs and then the government collects a tax, analysts say.
+
+...
+
+[Data](articles/51335038.json)
+
+[Extended Data](ext_articles/51335038.ext.json)
 
 ---
 
@@ -1742,6 +1792,30 @@ He stated that this opportunity will be available for the voters until the date 
 
 ---
 
+### Sri Lanka awards 21MW of solar IPPs
+
+*2024-09-17 12:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-21mw-of-solar-ipps-179760/) · `en`
+
+ECONOMYNEXT  – Sri Lanka has awarded contracts worth 21 MegaWatts to seven developers as part of procurement of 165MW of solar power by state -run Ceylon Electricity Board.
+
+The cabinet had approved the balance contracts after a procurement appeals board rejected appeals by unsuccessful bidders, a government statement said.
+
+The cabinet had approved the award of contracts to develop 10 MW solar plants as follows at the Anuradhapura grid substation.
+
+Fenton Smart Facilities (Pvt) Ltd has won a deal for 3MW, Hayleys Fenton Limited 3MA, Nanila Publication (Pvt) Ltd 2 MW, Ceylex Renewable (Pvt) Ltd 2MW.
+
+At the Galle substation Austral Solar (Pvt) Ltd was given a contract to run a 1MW solar plant.
+
+At the Deniyaya grid substation, Fortune Green (Pvt) Ltd won a deal for a 3MW plant, Solar One Asia (Pvt) Ltd 5 MW, and Austral Solar (Pvt) Ltd 2 MW. (Colombo/Sept16/2024)
+
+◼️
+
+[Data](articles/39f3f555.json)
+
+[Extended Data](ext_articles/39f3f555.ext.json)
+
+---
+
 ### Murder of a man who was attacked in conflict with colleagues;05 arrested
 
 *2024-09-17 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193894) · `ta`
@@ -2491,73 +2565,5 @@ Further investigations are being carried out by the police whether the shooting 
 [Data](articles/54220c38.json)
 
 [Extended Data](ext_articles/54220c38.ext.json)
-
----
-
-### International election observers to meet EC members
-
-*2024-09-17 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102032/international-election-observers-to-meet-ec-members) · `en`
-
-A discussion between international election observers who have arrived in Sri Lanka to monitor the upcoming presidential election and members of the Election Commission of Sri Lanka is scheduled to be held today.
-
-The meeting is scheduled to take place at the Election Commission premises this morning (18). It will also mark the first meeting between the international observers monitoring the presidential poll and members of the Election Commission.
-
-The Asian Network for Free Elections (ANFREL) and the Commonwealth Observer Group (COG) are expected to participate in the discussion.
-
-The international observers are meeting with Election Commission officials today as they are scheduled to visit various districts across the island for election monitoring activities from tomorrow.
-
-Meanwhile, the People’s Action for Free and Fair Elections (PAFFREL) emphasized the importance of maintaining law and order during the final week of the presidential election period.
-
-...
-
-[Data](articles/63241fad.json)
-
-[Extended Data](ext_articles/63241fad.ext.json)
-
----
-
-### Dilith instead of the subsidy system
-
-*2024-09-17 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201105) · `si`
-
-Entrepreneurial Dilith Jayaweera proposes replacing Sri Lanka's subsidy system with a new program. He aims to increase household incomes, reduce dependency on politicians, and boost revenue for Samurdhi officers. His plan includes surveying households and implementing policies to improve economic conditions.
-
-🟩
-
-The execution presidential candidate, entrepreneral Dilith Jayaweera says that a new arrival is planned to replace the subsidy system of Sri Lanka.
-
-Addressing Entrepreneral Dilith Jayaweera made this statement participating in a famil in Moneragala.
-
-"Every day has been deceased every day, the popular Father. Then came prosperity. And then came about the convenience. Now your eyes are not closed. We submitted the proof program. The Supreme Program is a Samurdhi family, you have made the program to follow the politician, and your home's minimum income should be one million. We will definitely refer to that there is 100,000. The following is a specific program for this purpose. Also, we have prepared a program to shut down the Samurdhi officers. We bring a program to double their revenues. There is only one thing to do. Get the pencil, the leaf. 10 has my name. Surveying the snow. A day will come to all of you. There is a star in this sky. Star ahead to hit you to be star. "
-
-◼️
-
-[Data](articles/7e9bc003.json)
-
-[Extended Data](ext_articles/7e9bc003.ext.json)
-
----
-
-### Choosing the best president for the country
-
-*2024-09-17 08:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/193889) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka presidential election: Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake lead crowded field. Economic crisis, corruption concerns drive voters. Candidates promise system change, ethnic-religious unity, anti-corruption measures.
-
-🟩
-
-Presidential election campaigns end today at midnight. Its the end of its decisions. It is certain that the current President of the election is the current President of the election, Ranil Wickremesinghe, Opposition Leader Sajith Premadasa and National People's Power Leader Anura Kumara Dissanayake.
-
-Even 35 other candidates, including the young successor of the Rajapaksa family, are also contesting. They are also confident. There seems to be a significant number of voters who do not take any resolution. They believe they will vote for themselves. In fact, the "echo chamber" theory works in full scale in this election.
-
-...
-
-[Data](articles/a2fe31a5.json)
-
-[Extended Data](ext_articles/a2fe31a5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 19:38:02**
+As of **2024-09-17 19:56:15**
 
 ## Newspaper Stats
 
-*Scraped **44,378** Articles*
+*Scraped **44,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,685
 dailyftlk | 2,935
-adalk | 4,096
+adalk | 4,097
 dailymirrorlk | 4,733
 adaderanalk | 5,226
 tamilmirrorlk | 5,796
@@ -26,29 +26,39 @@ adaderanasinhalalk | 7,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,375 (100.0%) of 44,378 articles have been extended.
+44,379 (100.0%) of 44,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### வழிபாட்டில் ஈடுபட்டோருக்கு நேர்ந்த சோகம்
+### Rhythm
 
 *2024-09-17 19:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வழிபாட்டில்-ஈடுபட்டோருக்கு-நேர்ந்த-சோகம்/76-343920) · `ta`
 
-பௌர்ணமி நாளான இன்று மாலை 5.30 மணியளவில் குளவி கொட்டுக்கு இலக்காகிய நிலையில் 6 பேர் மஸ்கெலியா மாவட்ட வைத்திய சாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Here's a 200-character summary:
 
-இச்சம்பவம் இன்று மஸ்கெலியா பொலிஸ் பிரிவில் உள்ள புரவுன்ஷீக் தோட்ட ராணி பிரிவில் இடம் பெற்று உள்ளது.
 
-ராணி தோட்ட பிரிவில் தேயிலை மலை பகுதியில் பாரிய கருங்கல் அடி பகுதியில் உள்ள ஆலயத்தில் அத்தோட்ட மக்கள் வழிபாட்டில் ஈடுபட்டு வந்த வேளையில் இந்த துயர சம்பவம் இடம்பெற்றுள்ளது.
 
-குறித்த வழிபாட்டில் 20 ற்கும் மேற்பட்டோர் கலந்து கொண்டுள்ளதுடன் குளவி கொட்டுக்கு இலக்காகியோர் மஸ்கெலியா மாவட்ட வைத்திய சாலையில் அனுமதிக்க பட்டு சிகிச்சை பெற்று வருகின்றனர்.
+6 hospitalized after temple incident in Maskeliya. 20+ worshippers injured. Victims: 17yo boy, 8yo boy, 40yo woman, 9yo girl, 42yo man, 64yo man. Incident occurred during worship service.
 
-இவர்களில் 17 வயது உடைய எஸ்.விதூஷன்,8 வயது உடைய என்.கிஷாந்தன்,40 வயது உடைய எம்.மாரியம்மாள்,9 வயது உடைய எஸ்.கவிஸ்,42 வயது உடைய டி.சரவணண்,64 வயது உடைய எஸ்.பரமசிவம் ஆகியோரே வைத்திய சாலையில் அனுமதிக்க பட்டு சிகிச்சை பெற்று வருவதாக தெரிய வந்துள்ளது.
+🟩
+
+Six persons have been admitted to the Maskeliya District Hospital at 5.30 pm today.
+
+The incident took place today in the Queen's Division of the Browsheek Estate in the Maskeliya Police Division.
+
+The tragic incident took place while the people of the temple were worshiping at the temple in the Karangal feet in the Queen's estate.
+
+More than 20 people have participated in the worship and are being treated at the Maskeliya District Hospital.
+
+Among them is 17 -year -old S. Vithushan, 8 -year -old N. Kishanthan, 40 -year -old M Mariammal, 9 -year -old S. Kavis, 42 -year -old T. Saravanan and 64 -year -old S. Paramasivam.Has been revealed.
 
 ◼️
 
 [Data](articles/fce23de5.json)
+
+[Extended Data](ext_articles/fce23de5.ext.json)
 
 ---
 
@@ -67,6 +77,8 @@ Jayaweera stated that he entered into politics after declaring his assets. “Th
 ...
 
 [Data](articles/a7303c0b.json)
+
+[Extended Data](ext_articles/a7303c0b.ext.json)
 
 ---
 
@@ -512,6 +524,28 @@ This is the month of Dileepan's life.
 
 ---
 
+### Air transport facilities were paid on the basis of charge
+
+*2024-09-17 16:31:21* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-ප්‍රවාහන-පහසුකම්-දුන්නේ-මුදල්-අයකිරිමේ-පදනම-මතයි/11-411982) · `si`
+
+Sri Lanka Air Force (SLAF) handles presidential transport according to standard procedures. The Air Force emphasizes accuracy in reporting, especially during elections.
+
+🟩
+
+The Air Force emphasizes that presidential candidates have in accordance with the standard operational procedure, on the basis of the presidential transport procedures.
+
+The SLAF has inspected the news that has been reported from the Sri Lanka Air Force to promote election campaign to propagate election campaign to the Sri Lanka Air Force presidential election.
+
+The Air Force has further emphasizes that the SLAF Media Section contains the most accurate news media.
+
+◼️
+
+[Data](articles/26e7ae2c.json)
+
+[Extended Data](ext_articles/26e7ae2c.ext.json)
+
+---
+
 ### “Peace and non -violence are not going to lead to right” - the voice system of the voiceless
 
 *2024-09-17 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193951) · `ta`
@@ -612,23 +646,29 @@ Meanwhile, a suspect has been arrested in Beruwala - Karandagoda area with a 258
 
 ---
 
-### கொழும்பில் வெவ்வேறு பகுதிகளில் ஐஸ் போதைப்பொருளுடன் மூவர் கைது!
+### Three persons arrested in different parts of Colombo
 
 *2024-09-17 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193935) · `ta`
 
-கொழும்பில் வெவ்வேறு பகுதிகளில் ஐஸ் போதைப்பொருளுடன் மூன்று சந்தேக நபர்கள் நேற்று திங்கட்கிழமை (16) கைது செய்யப்பட்டுள்ளதாக பொலிஸ் குற்றப் புலனாய்வு பிரிவினர் தெரிவித்துள்ளனர்.
+Colombo police arrest three suspects with ice drugs in separate raids. Three men aged 45, 46, and 34 arrested in Navagambura, Motaramai, and Dematagoda areas. Total 38g ice seized.
 
-பொலிஸ் குற்றப் புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்புகளில் சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-அதன்படி, கிராண்ட்பாஸ்  பொலிஸ் பிரிவிற்குட்பட்ட   நவகம்புர பகுதியில் 17 கிராம் 890 மில்லி கிராம் ஐஸ் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளார். கொழும்பு - 14 பகுதியைச் சேர்ந்த 45 வயதுடைய நபரொருவரே கைது செய்யப்பட்டுள்ளார்.
+Three suspects have been arrested on Monday (16) with ice drugs in different parts of Colombo, police Criminal Investigation Department said.
 
-இந்நிலையில், மோதரை தொடர்மாடி குடியிருப்பு பகுதியிலிருந்து 10 கிராம் 670 மில்லி கிராம் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார். கைது செய்யப்பட்டவர் கொழும்பு - 15 பகுதியைச் சேர்ந்த 46 வயதுடையவர் ஆவார்.
+The suspects have been arrested in surrounding raids on information received by the Police Criminal Investigation Division.
 
-இதேவேளை, தெமட்டகொடை பகுதியிலிருந்து 11 கிராம் 211 மில்லி கிராம் ஐஸ் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளார். தெமட்டகொடை பகுதியைச் சேர்ந்த 34 வயதுடைய நபரொருவரே கைது செய்யப்பட்டுள்ளார்.
+Accordingly, a suspect has been arrested with 17 grams of 890 milligrams of ice in Navagambura area of ​​the Grandpass Police Division.. A 45 -year -old man from Colombo 14 has been arrested.
+
+In this case, a suspect has been arrested with 10 grams of 670 milligrams of ice from the Motaramai residential area.. The arrested is 46 years old from Colombo - 15.
+
+Meanwhile, a suspect has been arrested with 11 grams of 211 ml of ice from the Dematagoda area.. A 34 -year -old man from Dematagoda has been arrested.
 
 ◼️
 
 [Data](articles/161cd004.json)
+
+[Extended Data](ext_articles/161cd004.ext.json)
 
 ---
 
@@ -2527,21 +2567,5 @@ Cyclist was killed and 41 years old.
 [Data](articles/97dd7e92.json)
 
 [Extended Data](ext_articles/97dd7e92.ext.json)
-
----
-
-### Presidential Election 2024: Who Can Win?
-
-*2024-09-17 08:04:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-election-2024-who-can-win/) · `en`
-
-We are on the verge of the Presidential Election 2024. The election will be held on September 21st, 2024; 17.1 million voters are eligible to vote. Thirty-eight candidates are in the battlefield, but many opinion polls show that only three candidates, who come from the majority Sinhala-Buddhist community, have the potential of leading the competition. They are Mr Ranil Wickremesinghe, the incumbent President, Mr Sajith Premadasa, the Leader of the Opposition and Mr Anura Kumara Dissanayake, the leader of the Janatha Vimukthi Peramuna (JVP)-led Jathika Jana Balawegaya (NPP).
-
-Mr Namal Rajapaksa, the eldest son of former President Mr Mahinda Rajapaksa, can take a significant number of votes, but he may become the fourth in the race.  None of the other candidates would take many votes; each may take less than 50,000.
-
-...
-
-[Data](articles/38cbd46e.json)
-
-[Extended Data](ext_articles/38cbd46e.ext.json)
 
 ---

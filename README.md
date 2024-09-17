@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 12:23:40**
+As of **2024-09-17 12:38:15**
 
 ## Newspaper Stats
 
-*Scraped **44,305** Articles*
+*Scraped **44,307** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 427
+bbccomsinhala | 428
 colombotelegraphcom | 440
 islandlk | 2,611
 economynextcom | 2,685
@@ -18,7 +18,7 @@ dailyftlk | 2,935
 adalk | 4,090
 dailymirrorlk | 4,733
 adaderanalk | 5,216
-tamilmirrorlk | 5,784
+tamilmirrorlk | 5,785
 virakesarilk | 7,057
 adaderanasinhalalk | 7,586
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,305 (100.0%) of 44,305 articles have been extended.
+44,305 (100.0%) of 44,307 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,22 @@ This was reported as the second attempt to kill Trump in three months.
 [Data](articles/617ee0e7.json)
 
 [Extended Data](ext_articles/617ee0e7.ext.json)
+
+---
+
+### எழுதியவர் சிக்கினார்
+
+*2024-09-17 11:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எழுதியவர்-சிக்கினார்/175-343888) · `ta`
+
+அத்துருகிரியவில் பச்சை குத்தும் நிலையமொன்றின் திறப்பு விழாவுக்கு வந்த கிளப் வசந்த என அழைக்கப்படும் வர்த்தகர் சுரேந்திர வசந்த பெரேரா உள்ளிட்ட இருவரை சுட்டுக் கொன்று நால்வரை காயப்படுத்திய சம்பவம் தொடர்பில் மற்றுமொரு சந்தேக நபர் கைது செய்யப்பட்டதாக தெரியவந்துள்ளது .
+
+வர்த்தக நிலையமொன்றில் உதவியாளராகப் பணியாற்றி வந்த அளுத்கம தர்கா நகர் பகுதியைச் சேர்ந்த 24 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த நபர் துப்பாக்கிச் சூட்டுக்கு பயன்படுத்தப்பட்ட தோட்டாக்களில் கேபிஐ (KPI) என எழுதியுள்ளார் எனவும் சந்தேகநபர்களை அத்துருகிரிய, கல்பொத்த வீதி பகுதிக்கு காரில் ஏற்றிச் சென்றுள்ளதாகவும்  பொலிஸார் தெரிவித்தனர் .
+
+◼️
+
+[Data](articles/66f93ff3.json)
 
 ---
 
@@ -1069,6 +1085,30 @@ At times, in the Western-mountains of the Central Mountains, the North, North Ce
 [Data](articles/15c5bb1b.json)
 
 [Extended Data](ext_articles/15c5bb1b.ext.json)
+
+---
+
+### අධික වෙහෙස නිසා  දේශපාලනඥයින්  'Burnout'  විය හැකිද ? එය සැඟවිය යුතු තත්ත්වයක් ද?
+
+*2024-09-17 06:06:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2y2zxppp2o) · `si`
+
+අධික වෙහෙස නිසා  දේශපාලනඥයින්  'Burnout'  විය හැකිද ? එය සැඟවිය යුතු තත්ත්වයක් ද?
+
+මෙවර ජනාධිපතිවරණ ප්‍රචාරක සමයේදී  ඇතැම් අපේක්ෂකයින් අධික ලෙස විඩාපත්  බවට පත්වීම, එසේම ඇතැම් අපේක්ෂකයින් විඩාපත් වුවත් ඔවුන්ට වැඩ කිරීමට ඇති  හැකියාව මෙන්ම ඇතැම් අපේක්ෂයින්ට එසේ වැඩ කිරීමට ඇති නොහැකියාව පිළිබඳව සමාජ මාධ්‍ය අවකාශ තුළ සැලකිය යුතු මට්ටමේ අවධානයට ලක්විය.
+
+මනෝ වෛද්‍ය විශේෂඥයින්  පෙන්වා දෙන්නේ ඒකාකාරී කාර්යයක දීර්ඝ කාලයක් අධික ලෙස යෙදී සිටීමෙන් 'Burnout' තත්ත්වයට පත්විය හැකි බව යි. මෙම තත්ත්වය ඕනෑ ම වෘත්තියකට අදාළ වේ.
+
+දේශපාලනඥයින්ට ද මෙම තත්ත්වය ඇති විය හැකි අතර, ලෝක දේශපාලනය තුළ ඊට උදාහරණ ද පවතී.
+
+අධික ලෙස ඒකාකාරීව වැඩ කිරීමෙන් Burnout තත්ත්වයට පත්විය හැකි බව විශේෂඥ මනෝ වෛද්‍ය රූමි රූබන් පවසයි.
+
+ඔහු පෙන්වා දුන්නේ, දේශපාලනඥයින්ට පමණක් නොව ඕනෑ ම රැකියාවක නිරත වන පුද්ගලයෙකුට මෙම රෝගී තත්ත්වය ඇති වීමේ හැකියාවක් පවතින බව ය.
+
+“මේක රෝගී තත්ත්වයක්. ඕන ම කෙනෙකුට හැදෙන්න පුළුවන්. ඒ නිසා මේක හංගන්න අවශ්‍ය නෑ. අධික ලෙස වැඩ කිරීම නිසා ඇති වන අධික වෙහෙස නිසා තමයි මේ තත්ත්වයට පත් වෙන්නේ,” වෛද්‍ය රූමි රූබන් පැවසීය.
+
+...
+
+[Data](articles/ba21dbf3.json)
 
 ---
 
@@ -2401,51 +2441,5 @@ S. Sathiyaruban, Founder of the Thai Tamil Council Organization, Tamiyat Tamil C
 [Data](articles/2129495f.json)
 
 [Extended Data](ext_articles/2129495f.ext.json)
-
----
-
-### All people are being protected - Sajith
-
-*2024-09-16 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201092) · `si`
-
-Sajith Premadasa promises protection for all Sri Lankans regardless of race or religion. He emphasizes his commitment to national unity and development during rallies in Anuradhapura and Dambulla.
-
-🟩
-
-Sajith Premadasa emphasized the presidential candidate Sajith Premadasa who is protecting all Sri Lankans after he is President.
-
-He made these comments addressing a rally in Anuradhapura today.
-
-Sajith Premadasa, Presidency, the Presidential Examination of the Higher Society,
-
-...
-
-[Data](articles/23848776.json)
-
-[Extended Data](ext_articles/23848776.ext.json)
-
----
-
-### Sajith says to the President of Anuradhapura
-
-*2024-09-16 19:19:45* · [`adalk`](https://www.ada.lk/breaking_news/අනුරපුර-ජනපති-මන්දිරයට-සජිත්-කරන්න-යන-දේ-කියයි/11-411971) · `si`
-
-Sajith Premadasa addresses Anuradhapura district youth on technology, education, and economic development. Promises smart schools, hospitals, fertilizer subsidies, and human conflict solutions. Criticizes opponents' policies and vows to strengthen local industries and tourism.
-
-🟩
-
-In the proposed community, the new information technology to the youth of the Anuradhapura district, the new technology, and computer science, English, is a hub of the Anuradhapura district, computer science, English and technology that provides the Presidential Palace in Anuradhapura that the Presidentials in Anuradhapura is a hub.Presidential candidate Sajith Premadasa said.
-
-He was speaking at the Anuradhapura Public Exerts held at the Salgadu Pittu in Anuradhapura yesterday (16). Speaking further Mr. Sajith Premadasa.
-
-"Don't keep any suspicion, this road reconciliation will win over the Anuradhapura district. Seats win. The whole king weakens, in Sri Lanka, the common era of public era is created by reconciliation, and I would like to tell you all.
-
-Scems, the government has given a bar permit to the Kataragama sacred area, and I think this is the policy of providing a beer permit and giving the wine stros beer.
-
-...
-
-[Data](articles/4a5806e3.json)
-
-[Extended Data](ext_articles/4a5806e3.ext.json)
 
 ---

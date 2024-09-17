@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 04:09:19**
+As of **2024-09-18 04:22:24**
 
 ## Newspaper Stats
 
-*Scraped **44,419** Articles*
+*Scraped **44,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,241 @@ bbccomsinhala | 428
 colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,688
-dailyftlk | 2,948
+dailyftlk | 2,960
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
 tamilmirrorlk | 5,799
-virakesarilk | 7,097
+virakesarilk | 7,101
 adaderanasinhalalk | 7,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,419 (100.0%) of 44,419 articles have been extended.
+44,419 (100.0%) of 44,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### SJB reaffirms commitment to Easter Attack justice after doubts raised
+
+*2024-09-18 03:51:31* · [`dailyftlk`](https://www.ft.lk/news/SJB-reaffirms-commitment-to-Easter-Attack-justice-after-doubts-raised/56-766841) · `en`
+
+Accuses Rienzie Arsecularatne PC of amplifying remarks by Prof. Agalakada Sirisumana Thera that have no bearing on party’s stance
+
+Reaffirms that SJB leader Sajith Premadasa’s promises, both written and verbal, to the Archbishop would not change
+
+Condemns Arsecularatne’s letter, accusing it of being politically motivated and aimed at damaging SJB’s voter base
+
+The Samagi Jana Balawegaya (SJB), through its General Secretary Ranjith Madduma Bandara, yesterday reiterated the party’s and its leader Sajith Premadasa’s unwavering commitment to ensuring justice for the victims of the 2019 Easter Sunday attacks.
+
+This reassurance follows a letter by President’s Counsel Rienzie Arsecularatne to Archbishop of Colombo Malcolm Cardinal Ranjith, which cast doubts on Premadasa’s dedication to this cause.
+
+...
+
+[Data](articles/84b47c9b.json)
+
+---
+
+### LTTE founding member Ragavan warns against common Tamil candidate’s rhetoric
+
+*2024-09-18 03:48:38* · [`dailyftlk`](https://www.ft.lk/news/LTTE-founding-member-Ragavan-warns-against-common-Tamil-candidate-s-rhetoric/56-766840) · `en`
+
+...
+
+[Data](articles/249d7250.json)
+
+---
+
+### TNA’s Sasikala Raviraj and Senathirajah discuss northern development with President
+
+*2024-09-18 03:46:22* · [`dailyftlk`](https://www.ft.lk/news/TNA-s-Sasikala-Raviraj-and-Senathirajah-discuss-northern-development-with-President/56-766839) · `en`
+
+In a series of high-level discussions focused on the future of the Northern Province, Tamil National Alliance (TNA) leaders Sasikala Raviraj and Kalaiamuthan Mavai Senathirajah have taken steps to push forward comprehensive development and investment strategies.
+
+The talks, held recently between President Ranil Wickremesinghe with key TNA members at the Jetwing Hotel, Jaffna, aim to address the long-standing economic and infrastructure challenges faced by the Northern community, with a strong emphasis on inclusive and sustainable development initiatives, the media unit of Wickremesinghe said.
+
+...
+
+[Data](articles/29aeb1d0.json)
+
+---
+
+### Janaka Ratnayake criticises political rallies as ‘business ventures’
+
+*2024-09-18 03:45:47* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-criticises-political-rallies-as-business-ventures/56-766838) · `en`
+
+Eksath Lanka Podujana Peramuna Presidential candidate Janaka Ratnayake yesterday expressed concerns over the state of politics in Sri Lanka, claiming that the political landscape has transformed into a business enterprise over the past 76 years, causing significant hardship for the people. Speaking at a media briefing, Ratnayake alleged that candidates routinely organise large election rallies with the help of companies that specialise in assembling crowds.
+
+He further claimed that individuals attending these rallies are paid between Rs. 3,000 and Rs. 5,000, creating an artificial image of public support.
+
+“These gatherings, featured on social and State media, are not representative of genuine political movements,” Ratnayake said.
+
+He claimed that most people are still undecided on whom to vote for. “Our people have become disillusioned with politics,” he said.
+
+...
+
+[Data](articles/0fd609f3.json)
+
+---
+
+### Pioneering manifesto matching initiative debuts
+
+*2024-09-18 03:39:18* · [`dailyftlk`](https://www.ft.lk/news/Pioneering-manifesto-matching-initiative-debuts/56-766837) · `en`
+
+For the first time in Sri Lanka, the public have access to a digital tool, to easily compare and evaluate the manifesto promises of the three major Presidential candidates – in English, Sinhala and Tamil.
+
+Called Presidential Election Manifesto Match 2024, it has extracted over 1,500 promises that are tied to actions – not aspirational claims or projections.
+
+It has a “Manifesto Comparer”, which allows the side-by-side comparison of manifesto promises of candidates across 15 thematic areas.
+
+It also has a “Manifesto Matchmaker” game. This allows players to design their dream manifesto, and check how closely they align with specific actionable promises of the candidates.
+
+This globally exclusive initiative was launched on the Manthri.lk platform of Verité Research. For more information, visit https://manthri.lk/en/presidential-election-manifesto-2024.
+
+◼️
+
+[Data](articles/49feeb9c.json)
+
+---
+
+### International Crisis Group releases report on Sri Lankan elections in aftermath of economic collapse
+
+*2024-09-18 03:37:26* · [`dailyftlk`](https://www.ft.lk/news/International-Crisis-Group-releases-report-on-Sri-Lankan-elections-in-aftermath-of-economic-collapse/56-766836) · `en`
+
+If these polls are handled responsibly by all sides, and the public sees the final result as credible and legitimate, Sri Lanka could have an opportunity to begin addressing both the unfairness of the current adjustment program as well as the roots of economic mismanagement and political misrule that led to the 2022 collapse. Far from flinching at the prospect, allies, donors and lenders should be ready to listen to the verdict of the ballot box
+
+International Crisis Group has announced the launch of “Sri Lanka’s Bailout Blues: Elections in the Aftermath of Economic Collapse.”
+
+The report looks at the political fallout of Sri Lanka’s devastating economic crisis and the challenges of implementing the economic reform program negotiated with the International Monetary Fund (IMF) following the Government first-ever debt default in 2022.
+
+...
+
+[Data](articles/e1b1e987.json)
+
+---
+
+### Kaushalya Nawaratna alleges malicious campaign against him in resignation letter as BASL President
+
+*2024-09-18 03:34:33* · [`dailyftlk`](https://www.ft.lk/news/Kaushalya-Nawaratna-alleges-malicious-campaign-against-him-in-resignation-letter-as-BASL-President/56-766835) · `en`
+
+Claims he was wrongfully accused and victimised for extraneous reasons to suit the hidden agendas of few unscrupulous members of BASL
+
+Kaushalya Nawaratna, who resigned as the President of the Bar Association of Sri Lanka (BASL) last week has alleged a “pre-organised, sponsored, malicious campaign” against him and he firmly stands by his position that he has not committed any wrongdoing.
+
+In his letter of resignation, Nawartna also said that he has been wrongfully accused and victimised for extraneous reasons to suit the hidden agendas of the said few unscrupulous members of the Bar Association.
+
+Nawaratna also states in his letter that his resignation is tendered strictly without prejudice to his rights to take legal action against all individuals and/or institutions who wilfully and/or deliberately made and/or published and/or disseminated false statements inter alia defaming and/or damaging my impeccable professional and personal reputation and character.
+
+...
+
+[Data](articles/aafb0f9a.json)
+
+---
+
+### தமிழ், சிங்கள, முஸ்லிம் மக்கள் அனைவருக்கும் வளமான எதிர்காலத்தை உருவாக்குவேன் - ஜனாதிபதி
+
+*2024-09-18 03:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193973) · `ta`
+
+தமிழ், சிங்கள, முஸ்லிம் உள்ளிட்ட அனைத்து மக்களுக்கும் வளமான எதிர்காலத்தை உருவாக்கும் வேலைத்திட்டத்துடனே தான் ஜனாதிபதித் தேர்தலில் மக்கள் முன் வந்துள்ளதாகவும், கடந்த பொருளாதார நெருக்கடியினால் பாதிக்கப்பட்ட அனைத்து மக்களுக்கும் துரிதமாக நியாயம் வழங்கப்படும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+வீழ்ச்சியடைந்த நாட்டின் பொருளாதாரத்தை மீட்க கடினமான தீர்மானங்களை எடுக்க நேரிட்டதாகத் தெரிவித்த ஜனாதிபதி, நாட்டு மக்கள் பொறுமை காக்கும் வேளையில், எதிர்க்கட்சியினர் அதிகாரத்தை மட்டுமே குறியாக வைத்து தேர்தல் கோரி போராட்டம் நடத்தியதையும் நினைவு கூர்ந்தார்.
+
+மன்னார் பஸ் நிலையத்திற்கு முன்பாக செவ்வாய்க்கிழமை (17) பிற்பகல் நடைபெற்ற 'ரணிலால் இயலும்' வெற்றிப் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் வகையில் நடைபெற்ற இந்த பேரணியில் பெருந்திரளான மக்கள் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/ccbc68fb.json)
+
+---
+
+### Eran says SJB will start renegotiation with IMF immediately after Sajith becomes President
+
+*2024-09-18 03:30:09* · [`dailyftlk`](https://www.ft.lk/business/Eran-says-SJB-will-start-renegotiation-with-IMF-immediately-after-Sajith-becomes-President/34-766834) · `en`
+
+SJB MP Eran Wickramaratne has revealed that once Sajith Premadasa becomes the President of Sri Lanka on 22 September, the SJB will immediately get into strengthening governance, restructuring of debt, and renegotiating with the IMF after appointing a caretaker Cabinet prior to dissolving Parliament.
+
+“Soon after Sajith Premadasa becomes President, the Parliament will be dissolved after appointing a new Cabinet of Ministers. We will not wait till the end of the general election – we will start maintaining macroeconomic fundamentals, which is the main task of a government,” emphasised SJB Parliamentarian Wickramaratne, speaking among a representative gathering in Rajagiriya yesterday evening.
+
+Wickramaratne, on the need for more professionals coming forward to take the task of governance and administration, said that he and Karu Jayasuriya were the only two corporate sector professionals who came to politics.
+
+...
+
+[Data](articles/2d3faf71.json)
+
+---
+
+### $ 100 m from ADB to boost sustainability, climate resilience of Sri Lanka’s water sector
+
+*2024-09-18 03:27:52* · [`dailyftlk`](https://www.ft.lk/business/100-m-from-ADB-to-boost-sustainability-climate-resilience-of-Sri-Lanka-s-water-sector/34-766833) · `en`
+
+The Asian Development Bank (ADB) has approved a $ 100 million policy-based loan to support Sri Lanka’s water supply and sanitation sector reforms to enhance the country’s resilience to climate change impacts and promote long-term sustainability.
+
+The Water Supply and Sanitation Reform Program, composed of two subprograms of $ 100 million each, will contribute to a more resilient and sustainable delivery of water supply and sanitation services. Subprogram 1 will establish policies and strategies nationally and for the National Water Supply and Drainage Board (NWSDB) while the subprogram 2 will support the implementation of reform actions and guidelines.
+
+...
+
+[Data](articles/e3552505.json)
+
+---
+
+### LTL Holdings puts off IPO opening
+
+*2024-09-18 03:25:49* · [`dailyftlk`](https://www.ft.lk/business/LTL-Holdings-puts-off-IPO-opening/34-766832) · `en`
+
+LTL Holdings Ltd., has announced the postponement of the opening of its Rs. 20 billion worth Initial Public Offering (IPO).
+
+The issue, the biggest in the Colombo stock market’s history, was scheduled to open on 13 September.
+
+The postponement follows the Colombo Stock Exchange requiring LTL Holdings to provide further information in relation to Rividhanavi Ltd., (the special purpose company that is incorporated to undertake the 100MW solar power project in Siyambalanduwa, and for which part of the IPO proceeds were to be invested).
+
+LTL said it will provide the said additional information required by the CSE as soon as possible and in consultation with the CSE provide further information pertaining to the opening date of the subscription list in due course.
+
+◼️
+
+[Data](articles/8f471d89.json)
+
+---
+
+### Court of Appeal enters judgment by granting Constitutional injunction against Health Minister as final relief in arbitration dispute
+
+*2024-09-18 03:24:59* · [`dailyftlk`](https://www.ft.lk/business/Court-of-Appeal-enters-judgment-by-granting-Constitutional-injunction-against-Health-Minister-as-final-relief-in-arbitration-dispute/34-766831) · `en`
+
+Case filed by Spectrum Pharmatech Lanka concerning Pharmaceutical Production Zone in Oyamaduwa, Anuradhapura
+
+The Court of Appeal recently granted, as the final relief, an Injunction against the Minister of Health in Application bearing No: CA/INJ/3/2024.
+
+This was pursuant to an application which was preferred by Spectrum Pharmatech Lanka Ltd., the Zone Developer in the “Suwa Siri Pura” Pharmaceutical Production Zone in Oyamaduwa, Anuradhapura.
+
+In March 2024 the Court of Appeal had granted interim relief as prayed for by the petitioner and injuncted the Minister of Health and State Minister of State Ministry of Production, Supply and Regulation of Pharmaceuticals restraining them from taking any steps to act in contravention to the Development and Management Agreement, the agreement to arbitrate and altering the positions with the investor tenants in the Pharmaceutical Zone in Oyamaduwa until the disputes were heard in Arbitration.
+
+...
+
+[Data](articles/b1db041a.json)
+
+---
+
+### Brandix, Teejay and Fortude partner with InterBalance
+
+*2024-09-18 03:23:58* · [`dailyftlk`](https://www.ft.lk/business/Brandix-Teejay-and-Fortude-partner-with-InterBalance/34-766830) · `en`
+
+Move aimed at implementing ESG management framework aligned with GRI and IFRS S1 and S2 standards
+
+In a significant move towards enhancing sustainability, three of Sri Lanka’s leading companies – Brandix Apparel Ltd., Teejay Lanka PLC, and Fortude Ltd. – have partnered with InterBalance, a pioneering consultancy in sustainability and enterprise risk management, to implement an Environmental, Social and Governance (ESG) and sustainability management framework.
+
+This initiative seeks to align reporting with the latest International Financial Reporting Standards (IFRS) S1 and S2, and the Global Reporting Initiative (GRI) standards, reflecting a global trend of integrating sustainability into corporate governance and risk management.
+
+Brandix Apparel Ltd., Teejay Lanka PLC and Fortude Ltd., are now equipped to identify key sustainability-related risks and opportunities, integrate sustainability with risk management, and establish Key Sustainability Performance Indicators (KSPIs).
+
+...
+
+[Data](articles/6d9fbdf8.json)
+
+---
 
 ### WCIC unveils Prathibhabhisheka – Women Entrepreneur Awards 2024
 
@@ -48,6 +266,24 @@ This national event, held for the third consecutive year, will be held in Januar
 
 ---
 
+### தெற்காசியாவின் மிகப்பெரிய வாகன ஒருங்கிணைப்பு தொழிற்சாலையை குளியாப்பிட்டியவில் ஜனாதிபதி திறந்து வைத்தார்
+
+*2024-09-18 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193972) · `ta`
+
+நாட்டின் வாகன உற்பத்தித் துறையில் தனித்துவமான ஒரு திருப்புமுனையை குறிக்கும் வகையில், குளியாப்பிட்டிய வெஸ்டர்ன் ஓட்டோமொபைல் அசெம்ப்ளி பிரைவேட் லிமிடெட் (WAA) நவீன வாகனங்களை ஒருங்கிணைக்கும் தொழிற்சாலையை ஜனாதிபதி ரணில் விக்ரமசிங்க செவ்வாய்க்கிழமை (17) திறந்து வைத்தார்.
+
+தெற்காசியாவின் மிகப்பெரிய வாகன ஒருங்கிணைப்புத் தொழிற்சாலையான வெஸ்டர்ன் ஓட்டோமொபைல் அசெம்பிளி பிரைவேட் லிமிடெட் தொழிற்சாலையை ஆரம்பிக்க, 27 மில்லியன் டொலர் செலவிடப்பட்டுள்ளது. இந்த தொழிற்சாலையில் ஒருங்கிணைக்கப்பட்ட 15 ஆசனங்களைக் கொண்ட முதல் வாகனம் இம்மாத இறுதியில் சந்தைக்கு வர உள்ளது.
+
+உலகளாவிய வாகனத்துறைசார்  வல்லுநர்களால் வடிவமைக்கப்பட்ட மிக உயர்தரத்திலான சர்வதேச இயந்திரங்களுடன் பொருத்தப்பட்ட இந்தத் தொழிற்சாலை, இளைஞர்களுக்கு நேரடி மற்றும் மறைமுக வேலை வாய்ப்புகளை உருவாக்கும்.
+
+மேலும், உலகளாவிய தொழில்துறை தேவைகளுக்கு இணங்க, சர்வதேச தரத்திலான தொழிற்பயிற்சி நிறுவனமும் இங்கு ஆரம்பிக்கப்பட்டுள்ளதுடன், இப்பயிற்சியின் மூலம் இந்நாட்டு இளைஞர்கள் வெளிநாட்டு வேலைகளுக்கு விண்ணப்பிக்கும் வாய்ப்பும் வழங்கப்படும்.
+
+...
+
+[Data](articles/04759f10.json)
+
+---
+
 ### EDB and University of Moratuwa collaborate to boost engineering excellence of entrepreneurs
 
 *2024-09-18 03:14:37* · [`dailyftlk`](https://www.ft.lk/business/EDB-and-University-of-Moratuwa-collaborate-to-boost-engineering-excellence-of-entrepreneurs/34-766828) · `en`
@@ -61,6 +297,38 @@ The Sri Lanka Export Development Board (EDB) has established a partnership with 
 [Data](articles/47ff0ca6.json)
 
 [Extended Data](ext_articles/47ff0ca6.ext.json)
+
+---
+
+### தேர்தல் பிரச்சாரங்கள் இன்று நள்ளிரவுடன் நிறைவு; பிரசார நடவடிக்கைகளுக்கு முற்றாக தடை - தேர்தல்கள் ஆணைக்குழு
+
+*2024-09-18 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193971) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கான தேர்தல் பிரச்சாரக் கூட்டங்கள் இன்று (புதன்கிழமை) நள்ளிரவுடன் நிறைவடைகிறது. வேட்பாளர்கள் மற்றும் அவர்களது ஆதரவாளர்கள் நேரடியாகவோ அல்லது மறைமுகமாகவோ தேர்தல் பிரச்சாரங்களில் ஈடுபடுவது முற்றாக தடை செய்யப்பட்டுள்ளது. தேர்தல் சட்டத்துக்கு முரணாக செயற்படுபவர்களுக்கு எதிராக கடுமையான சட்ட நடவடிக்கை எடுக்கப்படும் என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+
+பிரதான ஜனாதிபதி வேட்பாளர்களான ரணில் விக்கிரமசிங்க,சஜித் பிரேமதாச, அனுரகுமார திஸாநாயக்க,  நாமல் ராஜபக்ஷ,  திலித் ஜயவீர, நுவன் போககே ஆகியோர் தலைநகரில் மாபெரும் தேர்தல் பிரச்சாரக் கூட்டத்தை இன்று நடத்தவுள்ளனர்.இதனால் கொழும்பு நகரின் பாதுகாப்பு பலப்படுத்தப்பட்டு, விசேட போக்குவரத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளன.
+
+சுயேட்சை வேட்பாளர் ரணில் விக்கிரமசிங்கவின்  தேர்தல் பிரச்சாரக் கூட்டம் கொழும்பு கிரான்ட்பாஸ் பொலிஸ் பிரிவுக்குட்பட்ட கொஸ்கஸ் சந்தியில் இன்று பிற்பகல் 2 மணிக்க இடம்பெறவுள்ளது.
+
+...
+
+[Data](articles/269a45ab.json)
+
+---
+
+### 51/1 தீர்மானத்தின் ஊடாக உயர்ஸ்தானிகர் அலுவலகத்துக்கு வழங்கப்பட்ட ஆணையை நீடியுங்கள் - இலங்கை தொடர்பான இணையனுசரணை நாடுகளின் முதல் வரைபில் வலியுறுத்தல்
+
+*2024-09-18 03:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/193970) · `ta`
+
+58 ஆவது கூட்டத்தொடரில் வாய்மொழிமூல அறிக்கையும், 60 ஆவது கூட்டத்தொடரில் எழுத்துமூல அறிக்கையும் சமர்ப்பிக்கப்படவேண்டும் எனவும் கோரிக்கை
+
+இலங்கை தொடர்பில் பிரிட்டன் தலைமையிலான இணையனுசரணை நாடுகளால் தயாரிக்கப்பட்டு, எதிர்வரும் 19 ஆம் திகதி உறுப்புநாடுகளின் பங்கேற்புடன் ஆராயப்படவுள்ள முதல் வரைபில், இலங்கை தொடர்பில் ஏற்கனவே நிறைவேற்றப்பட்ட 51/1 தீர்மானத்தின் ஊடாக ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் அலுவலகத்துக்கு வழங்கப்பட்ட ஆணையை நீடிக்குமாறு ஐ.நா மனித உரிமைகள் பேரவையிடம் கோரப்பட்டுள்ளது.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 57 ஆவது கூட்டத்தொடர் கடந்த திங்கட்கிழமை (9) ஜெனிவாவில் ஆரம்பமானது. அன்றைய தினம் உலகளாவிய மனித உரிமைகள் நிலைவரம் தொடர்பான ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டர்க்கின் உரை மற்றும் மியன்மார் மனித உரிமைகள் நிலைவரம் தொடர்பான எழுத்துமூல அறிக்கை, அதன்மீதான விவாதம் என்பவற்றைத் தொடர்ந்து இலங்கை விவகாரம் குறித்து ஆராயப்பட்டது.
+
+...
+
+[Data](articles/88fd3800.json)
 
 ---
 
@@ -2073,409 +2341,5 @@ All the layers of the community have been affected by the exception of the rich.
 [Data](articles/94c7a34e.json)
 
 [Extended Data](ext_articles/94c7a34e.ext.json)
-
----
-
-### Disease from Ridiyagama farm farm in Ambalantota
-
-*2024-09-17 13:57:18* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්තොට-රිදියගම-ගොවිපොළේ-සතුන්ගෙන්-රෝගයක්/11-411979) · `si`
-
-Ridiyagama farm Ambalantota outbreak: Cattle, goats, pigs infected. Ten hospitalized. Symptoms: Fever, headache, body pain, vomiting, diarrhea. WHO advises proper hygiene, exclude animal waste. Vaccination crucial for prevention.
-
-🟩
-
-The health sector points out that several people have been reported in the Ridiyagama farm, Ambalantota farm.
-
-The disease, such as cattle, goats, pigs, the disease is infected with the disease.
-
-Ten people have been admitted to the Hambantota General Hospital for treatment.
-
-Symptoms include fever, headache, body pain, vacation, vomiting, diarrhea, and educates the public to address medical treatment if there are such features. The World Health Organization says that the World Health Organization should use proper hygiene techniques and the animal waste has been properly excluded.
-
-It is important to vaccinate the animals before the disease is caused by the people of all ages and that they can prevent safe measures to prevent the spread of disease.
-
-◼️
-
-[Data](articles/06f69e30.json)
-
-[Extended Data](ext_articles/06f69e30.ext.json)
-
----
-
-### Tamils ​​are not fools to vote for chauvinists and strengthen them - former Chairman Niros
-
-*2024-09-17 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193921) · `ta`
-
-Tamil voters urged to reject chauvinist leaders. Former official warns against supporting candidates who ignore economic crisis and neglect Tamil development.
-
-🟩
-
-Former Valikamam East Pradeshiya Sabha member Tyagaraja Niros Niros said that we can no longer vote for chauvinist leaders who have not accepted the fact that Sri Lanka's economically bankruptcy and failing to use the Tamil people in the development of the country due to communalism.
-
-He said this while addressing the campaign meeting of the Tamil general candidate held at the Achchuveli Murasoli premises.
-
-Candidates are contesting for victory as they need the votes of the Tamil people. When they ask for votes in the Tamil people, they need to understand how far they have been in their political stream in the past and are unable to become the leader of the country.
-
-When the candidates who are considered to be a victory today, the Sri Lankan country is economically bankrupt, this bad situation is not clear to the country that the state apparatus was the cause of the state apparatus on a nationwide Tamil people in their own home country.
-
-...
-
-[Data](articles/b141bb6a.json)
-
-[Extended Data](ext_articles/b141bb6a.ext.json)
-
----
-
-### Investigation into possible Grade 5 Scholarship Exam paper leak
-
-*2024-09-17 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102039/investigation-into-possible-grade-5-scholarship-exam-paper-leak) · `en`
-
-The Commissioner General of Examinations Amit Jayasundara says that investigations are to be held tomorrow (18) into an incident where three questions similar to those on the Grade 5 Scholarship exam paper had allegedly been posted online via a model exam paper.
-
-Speaking to Ada Derana, he stated that if investigations uncover that the questions have in fact been leaked, these questions would be disregarded during the paper marking process.
-
-He said that an investigation was conducted based on the information received alleging that a teacher in the Alawwa area had uploaded a model question paper to social media which had included three questions similar to three questions in the first paper of the Grade 5 Scholarship Exam.
-
-Accordingly, the committee that had prepared the question paper of the scholarship examination was convened today for a discussion, and it was decided to remove the three related questions.
-
-...
-
-[Data](articles/f3443374.json)
-
-[Extended Data](ext_articles/f3443374.ext.json)
-
----
-
-### Data of the binter poke of the country is a big environment
-
-*2024-09-17 13:52:38* · [`adalk`](https://www.ada.lk/breaking_news/බිනර-පොහොය-දිනේ-දළඳා-වදින්න-විශාල-පරිසක්/11-411978) · `si`
-
-Here's a 200-character summary:
-
-
-
-Buddha's tooth relic ceremony held today. Many foreign devotees attend. Sri Dalada Maligawa organizes almsgiving events.
-
-🟩
-
-Today, the Buddha's pun has been assembled today (17) and a large number of foreign devotees gathering and engaged in religious activities.
-
-There were many alms of acquisition programs organized by the Sri Dalada Maligawa.
-
-◼️
-
-[Data](articles/75b18293.json)
-
-[Extended Data](ext_articles/75b18293.ext.json)
-
----
-
-### Introduction of Special Telephone Number to announce violations of election rule
-
-*2024-09-17 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/193920) · `ta`
-
-Sri Lanka Election Commission introduces special phone numbers for reporting election violations. Public encouraged to use these lines to report illegal activities during voting process. Aimed at ensuring fair and independent presidential election on January 21st. Contact General Elections Secretariat in Rajagiriya for more details.
-
-🟩
-
-The Election Problems Division has introduced special telephone numbers to complain about election violations and conflicts.
-
-These telephone numbers are aimed at creating an environment for Sri Lanka's ninth presidential election to be held on the 21st of this month as an independent and fair election.
-
-Thereby, the public can file a complaint about the illegal activities that are taking place during the voting.
-
-Accordingly, the Commission has asked the public to contact the Special Division established at the General Elections Secretariat in Rajagiriya.
-
-◼️
-
-[Data](articles/95f18045.json)
-
-[Extended Data](ext_articles/95f18045.ext.json)
-
----
-
-### GMOA strike tomorrow
-
-*2024-09-17 13:40:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/GMOA-நாளை-வேலைநிறுத்தம்/175-343895) · `ta`
-
-GMOA strike tomorrow: Hospitals nationwide affected from 8 AM. Protest against disciplinary actions against Dr. Palitha Rajapakse. 14-day restructuring deadline set.
-
-🟩
-
-The Government Medical Officers Association (GMOA) has announced that a trade union action will be taken on Wednesday (18) targeting hospitals across the country.
-
-He said the strike would begin at 8 am on Wednesday (18) and would cause disruption to medical treatment.
-
-Dr. Wijesinghe said that the work has been taken against the disciplinary measures initiated against Dr. Palitha Rajapakse, Assistant Secretary and Assistant Secretary of the GMOA Provincial Coordinator and Assistant Secretary, without any formal complaint.
-
-He said the GMOA would be given 14 days time to launch the restructuring process on the incident.. If there is no favorable response, the next step will be taken following the Central Committee meeting at the end of the month.
-
-◼️
-
-[Data](articles/0b4b136d.json)
-
-[Extended Data](ext_articles/0b4b136d.ext.json)
-
----
-
-### Confidence against faith
-
-*2024-09-17 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193927) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Hope vs Faith: "Hope Against Hope" concept in politics. Voters' expectations often unmet. Sri Lankan presidential elections highlight cycle of disappointment. Candidates promise change but fail to deliver. Public seeks real transformation beyond economic issues. Political system needs overhaul for lasting reform.
-
-🟩
-
-There is a traditional series called Hope Against Hope in English. It can be translated directly into Tamil as a confidence against trust. But, it does not give the object of the source. Although it knows that a thing is not a chance to happen, it will indicate that it will happen. This can be a mood for belief in one of the most confident environments. Hope Against Hope is the name of his wife Natasha Mandalstam, who wrote the tragic biography of Soviet poet Osip Mandalstam, which was the most vulnerable in Stalin's time.
-
-This is how Sri Lankan politics believes that something good will happen and it does not happen. My own experience is like that. The experience of many of your. Who should vote in the presidential election in a few days?When I read many people in the face and WhatsApp, I appeared to be writing to my role.
-
-...
-
-[Data](articles/70ecb1b2.json)
-
-[Extended Data](ext_articles/70ecb1b2.ext.json)
-
----
-
-### Two persons arrested with 220 grams of Ambar
-
-*2024-09-17 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/193918) · `ta`
-
-Two men arrested with 220g amber worth Rs 17 lakhs in Divulapitiya raid.
-
-🟩
-
-Two suspects have been arrested on Monday (16), with the amber (vomiting of the whale), which was ready to be sold in the Divulapitiya area, the Divulapitiya police said.
-
-The suspects have been arrested in a raid carried out on the basis of information received by the Divulapitiya police officers.
-
-The 27 and 28 -year -old have been arrested from Narahenpita and Waduvai.
-
-Police said that 220 grams of amber worth Rs 17 lakhs was seized from the suspects.
-
-◼️
-
-[Data](articles/3287391d.json)
-
-[Extended Data](ext_articles/3287391d.ext.json)
-
----
-
-### Vijay carrying the pair of democracy
-
-*2024-09-17 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193915) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Vijay's "The Greatest of All Time" faces criticism, underperforming financially. Directed by H., produced by Vinod. Music by Anirudh. Co-produced by Jagadish Palanisamy and N.K. Lohit. Scheduled for October release. Originally titled "Thalavan," now called "Commander 69."
-
-🟩
-
-Vijay starring 'The Greatest of All Time' has received a mixed criticism of the film, but has not been a success in the expected collection as expected (as it has not grossed Rs 400 crore in the film's budget).
-
-Director H.. The film, which is being produced by Vinod, has been temporarily titled 'Commander 69'.
-
-Anirudh has composed music for this movie. Producer Venkat K.. Produced by Narayana.
-
-The film also works as co -producer of Jagadish Palanisamy and N K Lohit.
-
-It is also announced that the film will be released in October next year.
-
-Commander Vijay - H. Vinod's alliance is the final film as he announced on Vijay's film 'Vijay's film'.
-
-Meanwhile, director H. A few months ago, Vinod has made some changes to the story of the film, which decided to be named 'Thalavan', the hero of the story of 'World Man' Kamal Haasan, and that the filmmakers have said that the film is being directed by the film 'Commander 69'.It is also worth noting that.
-
-◼️
-
-[Data](articles/5f3da02a.json)
-
-[Extended Data](ext_articles/5f3da02a.ext.json)
-
----
-
-### The decision taken about the controversial scholarship paper
-
-*2024-09-17 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201113) · `si`
-
-Commissioner removes 3 questions from Year 5 scholarship exam due to complaints. Investigation team leaves tomorrow to review and remove controversial content. Decision aims to address concerns raised about the exam format.
-
-🟩
-
-The Commissioner General of Examinations has decided to remove three questions after a formal test, which has led to the controversial question of the Year 5 scholarship examination last Sunday.
-
-In a query, he said that the decision was taken by a similar decision on complaints that a similar scheme was made to the first sheet of scholarship examination.
-
-According to the Commissioner General of Examinations, a team of question paper will be leaving the area tomorrow (18) and then remove the controversial controversy after a formal investigation.
-
-◼️
-
-[Data](articles/fa7b203f.json)
-
-[Extended Data](ext_articles/fa7b203f.ext.json)
-
----
-
-### Two people in the federation support Ranil
-
-*2024-09-17 13:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டமைப்பில்-இருவர்-ரணிலுக்கு-ஆதரவு/175-343894) · `ta`
-
-TNA leaders meet President Wickremesinghe, discuss Northern development programs during Jaffna campaign.
-
-🟩
-
-The Presidential Media Unit has announced that the leaders of the Tamil National Alliance (TNA) Sasikala Raviraj and Kala Amudan Senathirajah met with President Ranil Wickremesinghe during the Jaffna election campaign and discussed the Northern Provincial Development Programs.
-
-◼️
-
-[Data](articles/06c4eb85.json)
-
-[Extended Data](ext_articles/06c4eb85.ext.json)
-
----
-
-### Anura Kumara warns of possible conspiracies ahead of polls
-
-*2024-09-17 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102038/anura-kumara-warns-of-possible-conspiracies-ahead-of-polls) · `en`
-
-Presidential candidate of the National People’s Power (NPP), Anura Kumara Dissanayake, has warned of the possibility of attempts by certain elements to engage in conspiracies in the next couple of days, ahead of the country’s presidential election.
-
-He revealed this while speaking during Ada Derana’s special “Derana 360°” program series for the presidential candidates, which was aired on TV Derana yesterday (16).
-
-“Definitely our aim in this election campaign was to gain power. We are able to win.” He stated that they have nothing new planned for the next two days and that their expectation is to present their facts again and again, as well as to present facts to society regarding the “criticisms and possible conspiracies against us from the side of the government and Sajith’s camp.”
-
-...
-
-[Data](articles/3028e275.json)
-
-[Extended Data](ext_articles/3028e275.ext.json)
-
----
-
-### We will not submit to any power in geo -political competition - Anuragumara
-
-*2024-09-17 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193922) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Sri Lanka's National People's Power presidential candidate Anuragumara emphasizes:
-
-
-
-1. Rejecting geopolitical competition
-
-2. Ensuring seas, lands, and airspaces aren't used against India or regional stability
-
-3. Promising economic development and public welfare
-
-4. Commitment to sovereignty and foreign policy aligned with national interests
-
-🟩
-
-National People's Power Presidential candidate
-
-We will ensure that our sea land and airspace is not used to threaten India or regional stability
-
-Answer- This is one of the most important elections in the history of Sri Lanka.
-
-But for the past two to three decades, they have been united in a nearly indistinguishable.
-
-Due to this, governments have changed since 1994, but the multi -faceted ministry has remained in the posts of ministry.
-
-Therefore, this election is very important because it gives a unique opportunity to pay the new path to repair the political and socio -economic path of our country.
-
-The election is bringing the government close to the people with the promise of a bright future.
-
-Although we have put forward these goals before, we have the power to make a meaningful change.
-
-Power exchange will be carried out by the public movement rooted in the welfare of the people by departing from the traditional cycles of power
-
-...
-
-[Data](articles/97281146.json)
-
-[Extended Data](ext_articles/97281146.ext.json)
-
----
-
-### Athishi is the next Chief Minister of New Delhi
-
-*2024-09-17 12:52:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புது-டெல்லியின்-அடுத்த-முதல்வராகிறார்-அதிஷி/175-343893) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Arvind Kejriwal resigns as Delhi CM; Atishi named successor. Kejriwal freed on bail after liquor policy case. MLAs approve Atishi as new leader.
-
-🟩
-
-Delhi Chief Minister Arvind Kejriwal is set to resign from his post this evening.. All MLAs have approved it.
-
-Kejriwal, who was in Delhi's Tihar jail in the case of liquor policy corruption, was released on bail on the 13th.. Speaking at a meeting of Aam Aadmi Party executives, Arvind Kejriwal said last Sunday (Sept. 15), “I will resign from the post of Chief Minister in 2 days. After people vote for me, I will sit again. ”
-
-Accordingly, Kejriwal is to resign today. Delhi Deputy Governor Vinay Saxena will meet with his letter of resignation at 4.30 pm.
-
-Meanwhile, Arvind Kejriwal and his former deputy chief minister Manish Sisodia met at Kejriwal's residence and discussed who could lead the Delhi government.. The party's political affairs committee then met and discussed.
-
-Earlier, "Like Arvind Kejriwal I am going to the People's House. If people recognize my honesty in the election, I will be in office again, ”Manish Sisodia said.
-
-...
-
-[Data](articles/607728c7.json)
-
-[Extended Data](ext_articles/607728c7.ext.json)
-
----
-
-### Floods wreak damage in Myanmar, killing at least 226
-
-*2024-09-17 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102037/floods-wreak-damage-in-myanmar-killing-at-least-226) · `en`
-
-Floods in Myanmar have killed at least 226 people in just over a week, state media reported on Tuesday, after heavy rains brought on by Typhoon Yagi battered the central provinces of the war-torn Southeast Asian country.
-
-Around a third of Myanmar’s 55 million people are already in need humanitarian aid, following incessant conflict triggered by a Feb. 2021 coup when the powerful military unseated the civilian government of Nobel laureate Aung San Suu Kyi.
-
-The areas hardest hit by the flooding include the second largest city of Mandalay, the capital Naypyitaw and parts of Shan state, a sprawling province that has seen heavy fighting in recent months.
-
-“A total of 388 relief camps were opened in nine regions and states, and the well-wishers donated drinking water, food and clothes,” reported the Global New Light of Myanmar, the newspaper of the military government.
-
-...
-
-[Data](articles/807e647f.json)
-
-[Extended Data](ext_articles/807e647f.ext.json)
-
----
-
-### Another suspect in Club Wasantha murder
-
-*2024-09-17 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201112) · `si`
-
-Here's a 200-character summary:
-
-
-
-Western Province South Criminal Investigation Unit arrests suspect in Club Wasantha murder case. Suspect reveals use of KPIs (possibly vehicles) for transporting suspects from car to Galpottewatta area in Athurugiriya.
-
-🟩
-
-The Western Province South Criminal Investigation Unit has arrested another suspect in the Western Province South Criminal Investigation Unit.
-
-The suspect has revealed that the suspect was transported as KPI as KPIs in the Ammore used for shooting and transporting the suspects from a car to the Galpottewatta area in Athurugiriya.
-
-◼️
-
-[Data](articles/f8c2d78b.json)
-
-[Extended Data](ext_articles/f8c2d78b.ext.json)
 
 ---

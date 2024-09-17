@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 12:10:42**
+As of **2024-09-17 12:23:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,302 (100.0%) of 44,305 articles have been extended.
+44,305 (100.0%) of 44,305 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,33 @@ Therefore, the police have requested the public to refrain from posting and spre
 
 [Data](articles/413fbbb3.json)
 
+[Extended Data](ext_articles/413fbbb3.ext.json)
+
 ---
 
-### ට්‍රම්ප් ඝාතන උත්සාහයේ සැකකරු අත්අඩංගුවට
+### Suspect arrested in Tremp murder attempt
 
 *2024-09-17 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201110) · `si`
 
-හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ගොල්ෆ් ක්‍රීඩා කරමින් සිටි අතරතුර, වෙඩි තබා ඔහු ඝාතනය කිරීමට උත්සාහ කළ බවට චෝදනාවට ලක්වූ රයන් වෙස්ලි රූත් නම් තැනැත්තා අත්අඩංගුවට ගන්නා දර්ශන මාධ්‍යයට නිකුත් කර තිබේ.
+Here's a 200-character summary:
 
-ට්‍රම්ප් ඝාතනය කිරීම සඳහා අදාළ සැකකරු පැය 12ක කාලයක් පඳුරක් අතර සැඟවී සිට ඇති බව වැඩිදුරටත් අනාවරණ වී ඇත.
 
-මාස තුනක කාලයකදී ට්‍රම්ප් ඝාතනය කිරීමට ගත් දෙවැනි උත්සාහය ලෙස මෙය වාර්තා වුණි.
+
+Suspect Ryan Vesley Ruth arrested for attempting to shoot/kill former US President Donald Trump. Incident occurred on a bus. This marks the second assassination attempt against Trump in three months.
+
+🟩
+
+Ryan Vesley Ruth, who was accused of shooting and attempted to shoot and attempted to kill the former American President Donald Trump.
+
+The suspect has been hidden in between 12 hours of buses to kill Trump.
+
+This was reported as the second attempt to kill Trump in three months.
 
 ◼️
 
 [Data](articles/617ee0e7.json)
+
+[Extended Data](ext_articles/617ee0e7.ext.json)
 
 ---
 
@@ -324,21 +336,27 @@ Sri Lanka Teachers Union President Priyantha Fernando has confirmed the incident
 
 ---
 
-### Miss International - 2024 කිරුළ ලංකාවේ තිලිණිට
+### MISS INTERNATIONAL - TILIDITI CITY IN Sri Lanka
 
 *2024-09-17 10:34:01* · [`adalk`](https://www.ada.lk/picture_story/Miss-International---2024-කිරුළ-ලංකාවේ-තිලිණිට/10-411976) · `si`
 
-ඉන්දුනීසියාවේ පැවති Miss International - 2024 ජාත්‍යන්තර රූ රැජින තරගාවලියට සහභාගී එහි ප්‍රථම ස්ථානය දිනා ගත් තිලිනි කුමාරි 09/16 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය .
+Miss International Tilini Kumari wins in Indonesia, arrives at Katunayake Airport, Sri Lanka. She's a local actress and announcer from Pilimatalawa area.
 
-මෙම තරගාවලිය ඉන්දුනීසියාවේ බාලි දූපත් හි ලෝකයේ රටවල් 20 ක රූ රැජිනියන්ගේ සහභාගීත්වයෙන් ඉකුත් 09/09 දින සිට 09/16 දින දක්වා පවත්වා තිබුණි .
+🟩
 
-මෙම තරගාවලියේ ජයග්‍රහණය හිමි කර ගත් තිලිනි 09/17 දින රාත්‍රී ඉන්දුනීසියාවේ ජකර්තා නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 365 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියාය .
+Tilini Kumari, who won the first place in Indonesia, arrived at the Katunayake Airport on the night of 09/16th last night.
 
-හනුවර , පිළිමතලාව ප්‍රදේශයේ පදිංචි ඇය නිළියක , නිවේදිකාවක ඇතුළු ක්ෂේත්‍ර ගනනාවක් සිය දස්කම් විදහා දක්වමින් සිටින්නීය .
+The tournament was held from 20 countries from 20 countries from the Bali Islands in Indonesia.
+
+Tilinini won the tournament on Norcratia in Indonesia on Norkia on Norkia on Nightnas, Jakarth, UL. The plane was arrived at the Katunayake airport.
+
+She is a resident of Pilimatalawa area in the Pilimatalawa area and demonstrates its performance, an actress and announcer.
 
 ◼️
 
 [Data](articles/b5525835.json)
+
+[Extended Data](ext_articles/b5525835.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 03:22:22**
+As of **2024-09-18 03:39:21**
 
 ## Newspaper Stats
 
-*Scraped **44,417** Articles*
+*Scraped **44,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 428
 colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,688
-dailyftlk | 2,946
+dailyftlk | 2,948
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
@@ -26,11 +26,43 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,417 (100.0%) of 44,417 articles have been extended.
+44,419 (100.0%) of 44,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### WCIC unveils Prathibhabhisheka – Women Entrepreneur Awards 2024
+
+*2024-09-18 03:21:30* · [`dailyftlk`](https://www.ft.lk/business/WCIC-unveils-Prathibhabhisheka-Women-Entrepreneur-Awards-2024/34-766829) · `en`
+
+In its efforts to recognise and reward Sri Lanka’s outstanding female entrepreneurs, Women’s Chamber of Industry and Commerce (WCIC) recently announced the launch of its annual flagship event “WCIC Prathibhabhisheka – Women Entrepreneur Awards 2024”.
+
+This national event, held for the third consecutive year, will be held in January 2025. While primarily recognising Sri Lankan entrepreneurs it is also open to women entrepreneurs from the SAARC region under a special category. The awards ceremony will honour women entrepreneurs for their tenacity to scale and grow, and for their contribution and impact on the economy.
+
+...
+
+[Data](articles/ded71d64.json)
+
+[Extended Data](ext_articles/ded71d64.ext.json)
+
+---
+
+### EDB and University of Moratuwa collaborate to boost engineering excellence of entrepreneurs
+
+*2024-09-18 03:14:37* · [`dailyftlk`](https://www.ft.lk/business/EDB-and-University-of-Moratuwa-collaborate-to-boost-engineering-excellence-of-entrepreneurs/34-766828) · `en`
+
+Projects being tested at LECO-MOU Smart Grid Research Lab at University of Moratuwa
+
+The Sri Lanka Export Development Board (EDB) has established a partnership with the Engineering Faculty of the University of Moratuwa by signing a Memorandum of Understanding (MoU) to enhance collaboration between the academia and the entrepreneurs of construction, power and energy, and engineering services in Sri Lanka.
+
+...
+
+[Data](articles/47ff0ca6.json)
+
+[Extended Data](ext_articles/47ff0ca6.ext.json)
+
+---
 
 ### National Single Window: Game-changer for Sri Lanka’s trading community
 
@@ -2445,59 +2477,5 @@ The suspect has revealed that the suspect was transported as KPI as KPIs in the 
 [Data](articles/f8c2d78b.json)
 
 [Extended Data](ext_articles/f8c2d78b.ext.json)
-
----
-
-### Commonwealth Election Inspectors Committee on 200th Election Monitoring
-
-*2024-09-17 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193913) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Commonwealth Election Inspectors Committee monitors 9th Sri Lankan presidential election. This is their 200th monitoring mission. They assess pre-election, voting day, and post-election periods. The committee evaluates voting procedures, counts results, and interacts with civil society, political parties, and police.
-
-🟩
-
-The Commonwealth Elections Committee (COG) has visited the country to monitor the ninth presidential election of Sri Lanka on the 21st of this month.
-
-This is the 200th election monitoring work of the Commonwealth Elections Superintendent's Committee.
-
-A 15 -member committee appointed by the Commonwealth Secretary has visited the country to accept the invitation of the Election Commission to monitor the presidential election.
-
-The group's president, Danny Bare, said in a media statement.
-
-We are delighted that Sri Lanka has visited Sri Lanka to compensate for the 200th election monitoring of the Commonwealth Organization.
-
-Moreover, as part of the entire election cycle approach of the Commonwealth, we have visited here to help strengthen democratic institutions and processes in its involvement with member states and to implement the public participation and representation during elections.
-
-Our team has also monitored the postal vote held on the 11th and 12th.
-
-...
-
-[Data](articles/82abb507.json)
-
-[Extended Data](ext_articles/82abb507.ext.json)
-
----
-
-### 97% of polling cards distributed - Postal Dept.
-
-*2024-09-17 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102036/97-of-polling-cards-distributed-postal-dept) · `en`
-
-The Postal Department says that the distribution of around 97% of the official polling cards for the 2024 presidential election has already been completed thus far.
-
-Deputy Postmaster General Rajitha Ranasinghe mentioned that the distribution of official polling cards which commenced on September 03 was ended on the September 14.
-
-However, he said that if any voter has not received their official polling cards as of now, they can visit their local post office with their National Identity Card (NIC) after September 18 to verify their identity and obtain their polling card.
-
-He stated that this opportunity will be available for the voters until the date of the presidential election, which will be held on September 21.
-
-◼️
-
-[Data](articles/63011063.json)
-
-[Extended Data](ext_articles/63011063.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 01:57:06**
+As of **2024-09-18 02:08:33**
 
 ## Newspaper Stats
 
-*Scraped **44,408** Articles*
+*Scraped **44,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 428
 colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,688
-dailyftlk | 2,939
+dailyftlk | 2,942
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
@@ -26,11 +26,51 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,408 (100.0%) of 44,408 articles have been extended.
+44,408 (100.0%) of 44,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### System change and economic stabilisation
+
+*2024-09-18 01:42:58* · [`dailyftlk`](https://www.ft.lk/columns/System-change-and-economic-stabilisation/4-766813) · `en`
+
+Either the country enters a new era on 21st with AKD at the helm or continues to struggle facing crisis after crisis under the current system
+
+The success of NPP’s entire economic trajectory hinges on reforming governance. This is the pillar on which the new system would be built and that was the message from the Aragalaya generation. AKD’s resolve to change the rotten political culture and moribund system of governance should therefore stabilise the economy faster with IMF assistance and lay the foundation for sustainable economic growth with equity. Voters seem to have understood this message for the first time
+
+...
+
+[Data](articles/36e47c13.json)
+
+---
+
+### Election turmoil
+
+*2024-09-18 01:36:09* · [`dailyftlk`](https://www.ft.lk/opinion/Election-turmoil/14-766812) · `en`
+
+We need to allow for persons with political will to be given the batten of opportunity to run the relay – Pic by Shehan Gunasekara
+
+Thirty-eight candidates vying for the ‘hot seat’ literally, makes Sri Lanka a laughing stock in the eyes of the world.
+
+The expense of printing ballot papers of the length required is gargantuan. How dysfunctional can a country be, declared bankrupt.
+
+Meaningless exercise in a country struggling under strain of billions of Dollars in Sovereign Debt and no means or plan of payback.
+
+Unrest and conflict in the Middle East and Eastern Europe adding to economic woes.
+
+We the voter who is today the VVIP for all purposes will decide on the proffered one.
+
+Incumbent President has the advantage of media coverage and attention ad lib. He also while promising a rosy future as always, keeps passing bills in parliament to gain favour and fervour.
+
+Salary increases and other delectable benefits to the naive uninformed electorate.
+
+...
+
+[Data](articles/e7fd47d1.json)
+
+---
 
 ### Economy
 
@@ -51,6 +91,22 @@ Accordingly, agricultural operations have grown by 1.7 per cent, industrial acti
 [Data](articles/aae2f010.json)
 
 [Extended Data](ext_articles/aae2f010.ext.json)
+
+---
+
+### Recipe for default: Sri Lanka’s compass in a fog
+
+*2024-09-18 01:15:55* · [`dailyftlk`](https://www.ft.lk/columns/Recipe-for-default-Sri-Lanka-s-compass-in-a-fog/4-766809) · `en`
+
+The notion that Sri Lanka’s debt sustainability is more fragile than the narrative suggests is reinforced by the IMF’s own warnings to Sri Lanka; that its debt sustainability and economic recovery remains on a “knife edge”
+
+This article considers the weaknesses and flaws in the current trajectory of Sri Lanka’s economy and the need to reassess the path we are taking towards debt sustainability. It will present the views of professional economists that have critically evaluated the outcomes of Sri Lanka’s IMF program and debt restructuring negotiations.
+
+There are a number of questions to ask about the current trajectory, but we must first understand that the broad targets are all aimed at generating debt sustainability and increasing Sri Lanka’s international credit ratings so that it is able to re-enter capital markets to finance part of the country’s foreign exchange requirement. Given below are these broad targets of the IMF:
+
+...
+
+[Data](articles/42ef306b.json)
 
 ---
 
@@ -2463,79 +2519,5 @@ The Ampara Sumanarathana Thera said that he had complained to the Batticaloa pol
 [Data](articles/78e61a15.json)
 
 [Extended Data](ext_articles/78e61a15.ext.json)
-
----
-
-### Suspect arrested in Tremp murder attempt
-
-*2024-09-17 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201110) · `si`
-
-Here's a 200-character summary:
-
-
-
-Suspect Ryan Vesley Ruth arrested for attempting to shoot/kill former US President Donald Trump. Incident occurred on a bus. This marks the second assassination attempt against Trump in three months.
-
-🟩
-
-Ryan Vesley Ruth, who was accused of shooting and attempted to shoot and attempted to kill the former American President Donald Trump.
-
-The suspect has been hidden in between 12 hours of buses to kill Trump.
-
-This was reported as the second attempt to kill Trump in three months.
-
-◼️
-
-[Data](articles/617ee0e7.json)
-
-[Extended Data](ext_articles/617ee0e7.ext.json)
-
----
-
-### The author is trapped
-
-*2024-09-17 11:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எழுதியவர்-சிக்கினார்/175-343888) · `ta`
-
-Author trapped. Suspect arrested for shooting, injuring 4, including businessman Surendra Vasantha Perera. 24-year-old assistant from Aluthgama arrested. Police found KPI bullets. Suspects taken to Kalpotha Road, Athurugiriya.
-
-🟩
-
-Another suspect has been arrested in connection with the shooting and injuring four persons, including a businessman, Surendra Vasantha Perera, who was known as Club Vasantha, who came to the inauguration of a tattooing station in Athurugiriya.
-
-A 24 -year -old man from Aluthgama, who was working as an assistant at a business center, has been arrested.
-
-Police said that the person has written the KPI (KPI) in the bullets used for the shooting and the suspects have been carrying the suspects to Kalpotha Road, Athurugiriya.
-
-◼️
-
-[Data](articles/66f93ff3.json)
-
-[Extended Data](ext_articles/66f93ff3.ext.json)
-
----
-
-### Several special telephone numbers to report election day complaints
-
-*2024-09-17 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201109) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Elections Commission introduces special phone numbers for reporting election day complaints about voting irregularities and law violations. Public encouraged to use National Election Secretariat to report incidents.
-
-🟩
-
-The Elections Commission has taken steps to introduce a special telephone number of the Election Commission Elections Commission's Elections Commission.
-
-These telephone numbers were introduced to report free and fairly to the presidential election election on the 21st and fairly violating election laws and violating election laws.
-
-Accordingly, the Commission requested the public to report the incidents on the National Election Secretariat established at the Elections Secretariat.
-
-◼️
-
-[Data](articles/6e3f75b6.json)
-
-[Extended Data](ext_articles/6e3f75b6.ext.json)
 
 ---

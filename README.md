@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 18:33:06**
+As of **2024-09-17 18:58:12**
 
 ## Newspaper Stats
 
-*Scraped **44,362** Articles*
+*Scraped **44,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,095
 dailymirrorlk | 4,733
-adaderanalk | 5,224
-tamilmirrorlk | 5,791
+adaderanalk | 5,225
+tamilmirrorlk | 5,792
 virakesarilk | 7,079
 adaderanasinhalalk | 7,599
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 7,599
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,362 (100.0%) of 44,362 articles have been extended.
+44,363 (100.0%) of 44,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### நுவரெலியாவில் விசித்திர பிரச்சாரம்
+
+*2024-09-17 18:33:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-விசித்திர-பிரச்சாரம்/175-343916) · `ta`
+
+நுவரெலியா பகுதியில் ஜனாதிபதி வேட்பாளரின் படம் மற்றும் தேர்தல் சின்னம் இருபுறமும் அடங்கிய தீப்பெட்டிகளை விநியோகித்த குழு ஒன்று தொடர்பில் PAFFREL க்கு தகவல் கிடைத்துள்ளது.
+
+இந்த விடயம் தொடர்பில் நுவரெலியா மாவட்ட உதவி தேர்தல்கள் ஆணையாளருக்கு அறிவித்துள்ளதாக பெஃப்ரல் அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/26d21dc9.json)
+
+---
+
+### Full recovery of Sri Lanka’s economy will take a few more years – President Ranil
+
+*2024-09-17 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102043/full-recovery-of-sri-lankas-economy-will-take-a-few-more-years-president-ranil) · `en`
+
+President Ranil Wickremesinghe cautioned the public against making the “mistake” of transferring a “recovering patient”, who was in critical condition, to the care of an “unqualified doctor” after receiving emergency treatment, on September 21.
+
+He emphasized that, just as a doctor’s license can be revoked by the Sri Lanka Medical Council for refusing to treat a patient, the public should reject politicians who abandoned their duty to revive the country’s economy in 2022.
+
+The President made these remarks while addressing the Public Service United Nurses’ Association’s “2024 Nursing Conference” held today (17) at the Water’s Edge Hotel in Battaramulla.
+
+During the event, Ven. Dr. Venerable Dr. Muruththettuwe Ananda Nayaka Thero, Chancellor of the University of Colombo, presented a memorandum of proposals from the United Nurses’ Association to the President.
+
+...
+
+[Data](articles/ca73243b.json)
+
+[Extended Data](ext_articles/ca73243b.ext.json)
+
+---
 
 ### Maldivian President turns to India
 
@@ -2529,139 +2563,5 @@ The World Health Organization says that 'burn-out is a disease due to the long-t
 [Data](articles/ba21dbf3.json)
 
 [Extended Data](ext_articles/ba21dbf3.ext.json)
-
----
-
-### Can the social media influence your view in elections?
-
-*2024-09-17 03:32:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqjrr40yl7go) · `si`
-
-Based on the information provided, it seems you are asking about the impact of social media on elections in Sri Lanka. Here's a summary of the key points:
-
-
-
-1. Social media plays a significant role in influencing elections in Sri Lanka.
-
-
-
-2. Candidates and their campaigns heavily utilize social media platforms to disseminate information and sway public opinion.
-
-
-
-3. Disinformation and propaganda spread through social media can be difficult to detect and regulate.
-
-
-
-4. The Election Commission faces challenges in monitoring and regulating social media content during elections.
-
-
-
-5. Some experts suggest strengthening the Election Commission's human resources and technology capabilities to better address these issues.
-
-
-
-6. Social media companies are being called upon to contribute to holding free and fair elections.
-
-
-
-7. The Election Commission has implemented measures to suppress election-related content during the silent period before the election.
-
-
-
-8. While social media may influence public opinion, it is not considered to directly determine voting outcomes on election day.
-
-
-
-9. Younger generations are more active in spreading election-related content on social media platforms.
-
-
-
-10. Traditional methods like banners and posters are seen as less effective compared to social media in modern election campaigns.
-
-
-
-To answer your specific questions:
-
-
-
-1. The generation most focused on by presidential candidates appears to be younger voters, particularly those active on social media platforms.
-
-
-
-2. The Generation Z demographic is likely the primary target for many candidates due to their high social media usage and engagement rates.
-
-
-
-Regarding the results of 8 presidential elections in Sri Lanka, I would need more specific information to provide detailed analysis. However, I can offer general insights:
-
-
-
-1. Sri Lanka has experienced political instability and frequent changes in leadership since gaining independence in 1948.
-
-
-
-2. The country has held eight presidential elections since its first democratic election in 1982.
-
-
-
-3. The most recent presidential election took place in 2019, which saw Gotabaya Rajapaksa elected as president.
-
-
-
-4. Prior to that, Maithripala Sirisena won the 2015 presidential election, defeating incumbent Mahinda Rajapaksa.
-
-
-
-5. Other notable winners include Chandrika Kumaratunga (1994), Ranasinghe Premadasa (1989), and Junius Richard Jayewardene (1978).
-
-
-
-6. The election system in Sri Lanka has evolved over time, with various reforms aimed at improving transparency and fairness.
-
-
-
-To provide more comprehensive analysis of the election results, I would need access to specific data and historical records of each election. If you have any particular aspect of the election results you'd like to explore further, please let me know, and I'll do my best to provide more detailed information.
-
-🟩
-
-"These days are the polling camps that look more like this days. There are standards related to the candidates of each pagees. Muddy propagation is. Silly talks going. We're not going to them. We haven't been licked. But just come to the Newsfield. "
-
-A student of Sri Jayawardenha University comprised of six girls and three young people, a student of the Sri Jayawardenha University.
-
-The students were out of lecture halls, as we went there.
-
-The majority of them were in many parts of the country, near their 25th.
-
-Not only Facebook but also the Instagram of the Meta Company, they were an active group of social media.
-
-They referred to that when the social media perioding the election, especially in the use of Facebook, about 7 or 8 of 8 or eight content they see.
-
-They are sometimes at times of the Sponsored AD.
-
-One young woman using the Instagram of them said: "Look!. "Instagram usually usually comes to the ad when five stores are over."
-
-...
-
-[Data](articles/150d738d.json)
-
-[Extended Data](ext_articles/150d738d.ext.json)
-
----
-
-### Presidenshel elecshen gide
-
-*2024-09-17 03:15:08* · [`dailyftlk`](https://www.ft.lk/opinion/Presidenshel-elecshen-gide/14-766793) · `en`
-
-Oll PEC’s must remember to have a Campain Theme. This is the main focus of how you plan to win. How you plan to attack your opponents and most impotent thing, what is main reeson peeples should put you in the Loku Putuwa.
-
-“Wikramata Pulun” - I must say say when I first heard this I was surprised. Then I riyalized that word is Puluwan, my good frend BarrackOberms colling and saying you stealing his campain slogan lu. I said “Yes we can!” Oberms saying “That’s my slogan” and I said your slogan had ‘we’, Wikrama is not tolking about ‘we’. He is tolking about he, he can.
-
-“Rata Warunata” - What do you mean? You want the whole country? Well, if you win then you are the President of whole country only! This is not a good slogan for you becose it sounds like you want to be a king, even though we know you don’t. Even in countries where they have Kings and Queenies like England, when my good frend Queenie passed away, you didn’t hear Charlies iththaas going around saying “Rata Charlieta”
-
-...
-
-[Data](articles/9d47994f.json)
-
-[Extended Data](ext_articles/9d47994f.ext.json)
 
 ---

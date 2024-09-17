@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 20:38:18**
+As of **2024-09-17 20:57:09**
 
 ## Newspaper Stats
 
-*Scraped **44,382** Articles*
+*Scraped **44,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,227
 tamilmirrorlk | 5,797
 virakesarilk | 7,086
-adaderanasinhalalk | 7,600
+adaderanasinhalalk | 7,601
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,380 (100.0%) of 44,382 articles have been extended.
+44,383 (100.0%) of 44,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Ranil invited to buds
+
+*2024-09-17 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201125) · `si`
+
+Ranil Wickremesinghe invites SLFP and Sri Lanka Civil Front to rebuild the country. He spoke at a rally in Kuliyapitiya, addressing concerns about his presidency and future plans.
+
+🟩
+
+Independent president of Ranil Wickremesinghe says that the Sri Lanka Civil Front and the Sri Lanka Freedom Party (SLFP) are invited to build the country.
+
+He was speaking at a rally rally in Kuliyapitiya today (17).
+
+"I talked to the people of the United National Party and I speak to those in Sri Lanka to those in the Pohot.  මතක තියාගන්න 2022 මැයි මාසේ කොච්චර බයෙන් හිටිය ද? මම ජනාධිපති වුණාට පස්සෙත් බයෙන් හිටියා... Talk to. Some people don't say yet ... Who is the election. All of September 21, let us work on September 21. "
+
+Meanwhile, Ranil can be held to ensure the victory of the independent presidential candidate Ranil Wickremesinghe.
+
+"When you wanted, they were not. Now comes and tell me to give me this. Next year I will lighten more living weight. Give me a mine to do it. "
+
+◼️
+
+[Data](articles/1b9f88ce.json)
+
+[Extended Data](ext_articles/1b9f88ce.ext.json)
+
+---
 
 ### Special traffic plans in Colombo, Kottawa and Piliyandala tomorrow
 
@@ -50,17 +76,23 @@ The police have decided to implement special traffic plans to reduce traffic con
 
 ---
 
-### மரம் முறிந்து விழுந்ததில் பெண் உயிரிழப்பு
+### Dies
 
 *2024-09-17 19:30:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரம்-முறிந்து-விழுந்ததில்-பெண்-உயிரிழப்பு/175-343921) · `ta`
 
-தனமல்வில, குடுஓயா, அடாலிவெவ பிரதேசத்தில் மரம் முறிந்து தலையில் விழுந்ததில் 38 வயதுடைய பெண்ணொருவர் உயிரிழந்துள்ளார்.
+A 38-year-old woman died when a tree fell on her head in Dhanamalwila, Kuduoya and Adalivewa area. She was approaching a small lake to cut firewood when the incident occurred.
 
-குறித்த பெண் விறகு வெட்டுவதற்காக அப்பகுதியில் உள்ள சிறிய ஏரிக்கு அருகில் சென்றிருந்த போது இந்த கோர சம்பவம் இடம்பெற்றுள்ளது. R
+🟩
+
+A 38 -year -old woman has died when a tree fell on her head in Dhanamalwila, Kuduoya and Adalivewa area.
+
+The incident took place when the woman was approaching a small lake in the area to cut firewood. Remble
 
 ◼️
 
 [Data](articles/2e24ba8b.json)
+
+[Extended Data](ext_articles/2e24ba8b.ext.json)
 
 ---
 
@@ -478,17 +510,27 @@ The Tamil nationalist parties in the North and East are the common nature of con
 
 ---
 
-### රු.ලක්ෂ 37ක අනර්තයක් කළ පුද්ගලයෙකු අත්අඩංගුවට
+### 37 million person arrested
 
 *2024-09-17 16:51:13* · [`adalk`](https://www.ada.lk/breaking_news/රු-ලක්ෂ-37ක-අනර්තයක්-කළ-පුද්ගලයෙකු-අත්අඩංගුවට/11-411984) · `si`
 
-ඌවපරණගම සපුගොල්ල විහාරගොඩ ප්‍රදේශයේ තේ වගාවකට සහ දැව කඳන් තොගයකට ගිනි තබා රුපියල් 3,760,000ක පමණ අනර්ථයක් සිදු කළැයි සැකපිට පුද්ගලයකු අද(17දා) අත්අඩංගුවට ගත් බව ඌවපරණගම පොලීසිය සඳහන් කරයි.
+Here's a 200-character summary:
 
-ඌවපරනගම, සපුගොල්ල විහාරගොඩ ප්‍රදේශයේ පදිංචි 68 හැවිරිදි පුද්ගලයකු මෙසේ අත්අඩංගුවට ගනු ලැබ තිබේ.
+
+
+68-year-old man arrested in Uva Sapagolla for illegal logging. Police seized timber stock. Incident occurred in Sapagolla area.
+
+🟩
+
+A person was arrested in the Sapagolla area of ​​Sapagolla area and stock of timber and timber, Uvapatha police said.
+
+A 68-year-old resident of the Uva Sapagolla area in Uvawalanegama has been arrested.
 
 ◼️
 
 [Data](articles/c1ec9838.json)
+
+[Extended Data](ext_articles/c1ec9838.ext.json)
 
 ---
 
@@ -2517,27 +2559,5 @@ Even 35 other candidates, including the young successor of the Rajapaksa family,
 [Data](articles/a2fe31a5.json)
 
 [Extended Data](ext_articles/a2fe31a5.ext.json)
-
----
-
-### Official ballot papers ends 97 percent
-
-*2024-09-17 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201104) · `si`
-
-Presidential election ballot papers: 97% distributed. Differential voting starts March 3rd. Unreceived ballots available at local post offices from March 18th.
-
-🟩
-
-The official ballot papers of the presidential election have been distributed by about 97 percent, the post of Postal Department said.
-
-Differential ballot papers commenced on the 3rd of the 3rd, the distribution of official ballot papers commenced on the 3rd.
-
-However, if there is a person who has not yet received official voter papers, they will be able to obtain them from the post office in their area tomorrow (18).
-
-◼️
-
-[Data](articles/1c6f5f6f.json)
-
-[Extended Data](ext_articles/1c6f5f6f.ext.json)
 
 ---

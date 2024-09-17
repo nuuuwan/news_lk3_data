@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 18:19:11**
+As of **2024-09-17 18:33:06**
 
 ## Newspaper Stats
 
-*Scraped **44,360** Articles*
+*Scraped **44,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,095
 dailymirrorlk | 4,733
-adaderanalk | 5,223
+adaderanalk | 5,224
 tamilmirrorlk | 5,791
 virakesarilk | 7,079
-adaderanasinhalalk | 7,598
+adaderanasinhalalk | 7,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,360 (100.0%) of 44,360 articles have been extended.
+44,362 (100.0%) of 44,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Maldivian President turns to India
+
+*2024-09-17 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201123) · `si`
+
+Maldives faces economic crisis after Moody's downgrade. President seeks aid from India amid foreign reserve depletion and default concerns over upcoming Sukuk bond repayment.
+
+🟩
+
+The International Credit Ranking Company has acted in the event of a economic crisis.
+
+The actions taken under the new President are accused of leading the current economic crisis.
+
+The Maldives were considered as a high demand destination in South Asia.
+
+However, some of the steps taken to the country's president of the country, the Maldives are facing a economic crisis due to some of the measures taken by Mohammed Mischu.
+
+It is in such a background Moody, an international credit rating agency Moody, to reduce the Credit Classification of the Maldives.
+
+Accordingly, the Maldivian loan rating held at CAA1 has been reduced to CAA2 level.
+
+According to Moody's, the Maldives's foreign currency reserves below US $ 50 million.
+
+Also, Sukuk bond owners, which is due to maturity in 2026, is due to be held next month, the Maldivian government has risen to the default payment of the suspect bound.
+
+Meanwhile, Mohammed Misube is to visit India next week as a result of an anti-Indian anti-Indian.
+
+...
+
+[Data](articles/219b1013.json)
+
+[Extended Data](ext_articles/219b1013.ext.json)
+
+---
+
+### Another suspect arrested over ‘Club Wasantha’ murder, detention order issued
+
+*2024-09-17 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102042/another-suspect-arrested-over-club-wasantha-murder-detention-order-issued) · `en`
+
+Police have arrested another suspect in connection with the recent murder of two persons including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’, in Athurugiriya.
+
+The suspect, a 24-year-old residence of Dharga town in Aluthgama, has been arrested by the Western Province (South) Crimes Division.
+
+The Kaduwela Acting Magistrate, D.G.P. Karunarathana has issued a 48-hour detention order to detain and interrogate the suspect, who was produced before the court today (17).
+
+Police have informed the court that it has been uncovered that the bullets used in the shooting were marked with the letters ‘KPI’ by the suspect in question and that he had allegedly visited the Galpotta Road area in Athurigiriya, where the main suspects were staying, and had later transported them in a vehicle.
+
+...
+
+[Data](articles/bd5d0f29.json)
+
+[Extended Data](ext_articles/bd5d0f29.ext.json)
+
+---
 
 ### Ranil met Charles Nirmalanathan
 
@@ -2609,61 +2663,5 @@ Oll PEC’s must remember to have a Campain Theme. This is the main focus of how
 [Data](articles/9d47994f.json)
 
 [Extended Data](ext_articles/9d47994f.ext.json)
-
----
-
-### Do not allow the country to come back in darkness - the president
-
-*2024-09-17 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/193886) · `ta`
-
-President Ranil Wickremesinghe urges voters to choose between prosperity and economic stability vs returning to darkness. He promises continued economic growth and warns against opposing candidates' plans. Rally attendees express strong support for his re-election bid.
-
-🟩
-
-President Ranil Wickremesinghe has urged the people to decide on the upcoming presidential election whether to build a country with prosperous and stable economy or whether the country will be reinstated.
-
-The President made this statement while addressing the rally in Badulla on Monday afternoon.
-
-The rally was organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election and was welcomed by a large number of people.
-
-He said he would ask all the people not to allow the era to sink into the darkness of the country.
-
-The President also said that the people were asking the people to strongly implement the program that has been carried out in the last two years to stabilize the country's economy.
-
-Meanwhile, it is a special feature that some trade union leaders of the National Workers Union and the People's Power Party led by Member of Parliament P.Thambaram have joined the president.
-
-...
-
-[Data](articles/44e8172d.json)
-
-[Extended Data](ext_articles/44e8172d.ext.json)
-
----
-
-### Vote for the telephone and save the Tamil community
-
-*2024-09-17 02:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சங்குக்கு-வாக்களித்து-தமிழரின்-சங்கையை-காப்பாற்றுவோம்/175-343873) · `ta`
-
-Tamils urged to vote for Sangam to protect their association. Leader Dr. Krishnapillai emphasizes voting importance. Campaign focuses on improving Tirukovil area. Criticism of previous government's handling of floods and economic issues.
-
-🟩
-
-"All of us as Tamils ​​will vote for Sangam and save our association," said Dr. Krishnapillai Jayasiril, the leader and former leader of the Sri Lanka Tamil National Party.
-
-He was speaking at a campaign meeting for the common candidate in Mandanai area in Tirukovil.
-
-The event was held in Mandanai area on Sunday (15) in support of Tamil general candidate Pakistani Selvam Ariyanethran.
-
-What is the benefit of the Tamils ​​voting for the last eight president?Many people came to say that they will improve the Tirukovil area.
-
-We see the scenes of the man who killed his father claiming that he went to Ranil.. Can Tamils ​​still believe the crowd that is going on behind Ranil Sajith for crores?He questioned.
-
-If the floods come here we will come. But have those who come in white red vehicles today come here?Can you see them after the election?Not. But buy what they give. Put your votes to the sang. Mingle. We will save the association.
-
-◼️
-
-[Data](articles/08b1196d.json)
-
-[Extended Data](ext_articles/08b1196d.ext.json)
 
 ---

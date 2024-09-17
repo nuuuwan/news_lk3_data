@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 08:39:04**
+As of **2024-09-17 08:57:26**
 
 ## Newspaper Stats
 
-*Scraped **44,274** Articles*
+*Scraped **44,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,213
 tamilmirrorlk | 5,775
 virakesarilk | 7,051
-adaderanasinhalalk | 7,579
+adaderanasinhalalk | 7,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,274 (100.0%) of 44,274 articles have been extended.
+44,275 (100.0%) of 44,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Official ballot papers ends 97 percent
+
+*2024-09-17 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201104) · `si`
+
+Presidential election ballot papers: 97% distributed. Differential voting starts March 3rd. Unreceived ballots available at local post offices from March 18th.
+
+🟩
+
+The official ballot papers of the presidential election have been distributed by about 97 percent, the post of Postal Department said.
+
+Differential ballot papers commenced on the 3rd of the 3rd, the distribution of official ballot papers commenced on the 3rd.
+
+However, if there is a person who has not yet received official voter papers, they will be able to obtain them from the post office in their area tomorrow (18).
+
+◼️
+
+[Data](articles/1c6f5f6f.json)
+
+[Extended Data](ext_articles/1c6f5f6f.ext.json)
+
+---
 
 ### EC issues statement regarding ballot boxes for Presidential Election
 
@@ -2321,25 +2343,5 @@ Hershaya Media Samarawickrema has won the Award for the Award and the player Awa
 [Data](articles/a33b04d8.json)
 
 [Extended Data](ext_articles/a33b04d8.ext.json)
-
----
-
-### ‘Sajith and Anura’s proposals lack IMF approval’ - President emphasizes need for IMF support and reforms
-
-*2024-09-16 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102020/sajith-and-anuras-proposals-lack-imf-approval-president-emphasizes-need-for-imf-support-and-reforms) · `en`
-
-President Ranil Wickremesinghe has stated that his primary objective is to ease the burden on the lives of the people.
-
-Speaking during a public rally held in Horana, he emphasized the importance of upholding the agreements made with the International Monetary Fund (IMF) and moving forward with them. The President noted that it is not feasible to alter these agreements, contrary to the claims made by Sajith and Anura.
-
-Additionally, President Wickremesinghe pointed out that Sajith and Anura’s proposals lack the approval of the IMF, noting that the IMF’s support is firmly behind the government’s current program.
-
-Furthermore, Wickremesinghe elaborated: “My primary goal is to ease the burden on people’s lives. We must continue to uphold our agreements with the International Monetary Fund (IMF), as we have no other source of support. The IMF has facilitated aid from 18 countries and provided us with a $10 billion advantage in managing our debt interest payments,” he said.
-
-...
-
-[Data](articles/28093b18.json)
-
-[Extended Data](ext_articles/28093b18.ext.json)
 
 ---

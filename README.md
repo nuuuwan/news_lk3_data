@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 20:22:33**
+As of **2024-09-17 20:38:18**
 
 ## Newspaper Stats
 
-*Scraped **44,380** Articles*
+*Scraped **44,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,685
 dailyftlk | 2,935
-adalk | 4,097
+adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,227
-tamilmirrorlk | 5,796
+tamilmirrorlk | 5,797
 virakesarilk | 7,086
 adaderanasinhalalk | 7,600
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,380 (100.0%) of 44,380 articles have been extended.
+44,380 (100.0%) of 44,382 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,20 @@ The police have decided to implement special traffic plans to reduce traffic con
 [Data](articles/9fa45ef8.json)
 
 [Extended Data](ext_articles/9fa45ef8.ext.json)
+
+---
+
+### மரம் முறிந்து விழுந்ததில் பெண் உயிரிழப்பு
+
+*2024-09-17 19:30:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரம்-முறிந்து-விழுந்ததில்-பெண்-உயிரிழப்பு/175-343921) · `ta`
+
+தனமல்வில, குடுஓயா, அடாலிவெவ பிரதேசத்தில் மரம் முறிந்து தலையில் விழுந்ததில் 38 வயதுடைய பெண்ணொருவர் உயிரிழந்துள்ளார்.
+
+குறித்த பெண் விறகு வெட்டுவதற்காக அப்பகுதியில் உள்ள சிறிய ஏரிக்கு அருகில் சென்றிருந்த போது இந்த கோர சம்பவம் இடம்பெற்றுள்ளது. R
+
+◼️
+
+[Data](articles/2e24ba8b.json)
 
 ---
 
@@ -461,6 +475,20 @@ The Tamil nationalist parties in the North and East are the common nature of con
 [Data](articles/ba4771e0.json)
 
 [Extended Data](ext_articles/ba4771e0.ext.json)
+
+---
+
+### රු.ලක්ෂ 37ක අනර්තයක් කළ පුද්ගලයෙකු අත්අඩංගුවට
+
+*2024-09-17 16:51:13* · [`adalk`](https://www.ada.lk/breaking_news/රු-ලක්ෂ-37ක-අනර්තයක්-කළ-පුද්ගලයෙකු-අත්අඩංගුවට/11-411984) · `si`
+
+ඌවපරණගම සපුගොල්ල විහාරගොඩ ප්‍රදේශයේ තේ වගාවකට සහ දැව කඳන් තොගයකට ගිනි තබා රුපියල් 3,760,000ක පමණ අනර්ථයක් සිදු කළැයි සැකපිට පුද්ගලයකු අද(17දා) අත්අඩංගුවට ගත් බව ඌවපරණගම පොලීසිය සඳහන් කරයි.
+
+ඌවපරනගම, සපුගොල්ල විහාරගොඩ ප්‍රදේශයේ පදිංචි 68 හැවිරිදි පුද්ගලයකු මෙසේ අත්අඩංගුවට ගනු ලැබ තිබේ.
+
+◼️
+
+[Data](articles/c1ec9838.json)
 
 ---
 
@@ -2511,49 +2539,5 @@ However, if there is a person who has not yet received official voter papers, th
 [Data](articles/1c6f5f6f.json)
 
 [Extended Data](ext_articles/1c6f5f6f.ext.json)
-
----
-
-### EC issues statement regarding ballot boxes for Presidential Election
-
-*2024-09-17 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102030/ec-issues-statement-regarding-ballot-boxes-for-presidential-election) · `en`
-
-The Election Commission announced that the cardboard boxes, designated for use as ballot boxes in this year’s presidential election, have been dispatched to all returning officers across the island.
-
-The respective retuning officers will deliver these ballot boxes to polling stations on September 20.
-
-Due to the larger size of the ballot papers, the Election Commission has decided to utilize cardboard boxes instead of the traditional wooden boxes. The commission stated that the boxes have been produced in three different sizes.
-
-Additionally, the Election Commission confirmed that all preparations for the polling process have been completed and necessary instructions have been issued to government officials.
-
-Officials involved in election duties are advised to finalize arrangements and travel to their designated polling stations on the appointed day.
-
-◼️
-
-[Data](articles/10cd2126.json)
-
-[Extended Data](ext_articles/10cd2126.ext.json)
-
----
-
-### Still not enough ...
-
-*2024-09-17 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201103) · `si`
-
-Ranil Wickremesinghe denies IMF talks with Anura Kumara Dissanayake. Claims IMF requires consent before proceeding. Urges swift action to avoid economic crisis.
-
-🟩
-
-Ranil Wickremesinghe says that Anura Kumara Dissanayake has not been discussed with the International Monetary Fund.
-
-Mr. Ranil Wickremesinghe made this statement participating in a famil in Ampara.
-
-"When everybody's said, we joined the country and changed the country. We joined the side of political parties because we couldn't bear this. Because all people live. We added this country. The rupee was strong. The furnace was gradually reduced. Still not enough. We have to take more. We have come to a half more than. I'm especially acting, especially now, can't fall. It's asking for the millions. What is Sajith say?Anura said to come with a debate. Not yet come. They say the IMF takes the approval. IMF can't get this without consent. Today, I've been looking for the IMF. Only talking here. Don't let the country back to that situation. Schedule in cylinder in front of the September 21 for a good future. "
-
-◼️
-
-[Data](articles/a897aca9.json)
-
-[Extended Data](ext_articles/a897aca9.ext.json)
 
 ---

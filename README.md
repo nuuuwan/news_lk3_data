@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 10:22:34**
+As of **2024-09-17 10:38:17**
 
 ## Newspaper Stats
 
@@ -26,71 +26,101 @@ adaderanasinhalalk | 7,582
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,280 (100.0%) of 44,287 articles have been extended.
+44,287 (100.0%) of 44,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### ඉදිරි දින කිහිපයේ සිදුවන කුමන්ත්‍රණයක් ගැන අනුර හෙළිකරයි
+### Anura reveals about a conspiracy in the next few days
 
 *2024-09-17 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201106) · `si`
 
-ජාතික ජනබලවේගයේ ආණ්ඩුවක් තුළ විදුලි ගාස්තු තවදුරටත් අඩුකිරීමට කටයුතු කරන බව එහි ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Here's a summary of 200 characters:
+
+
+
+Presidential candidate Anura Kumara Dissanayake claims a conspiracy involving electricity tariffs. He promises reduced rates but provides no details. His statement lacks concrete evidence or specific plans. The announcement raises questions about transparency and policy specifics.
+
+🟩
+
+Presidential candidate Anura Kumara Dissanayake says that the electricity tariff will further reduce the electricity tariffs in a government's government.
 
 ◼️
 
 [Data](articles/a45bd7ec.json)
 
+[Extended Data](ext_articles/a45bd7ec.ext.json)
+
 ---
 
-### பெரிய வெங்காயத்தின் விலை அதிகரிப்பு
+### Increase in prices of large onions
 
 *2024-09-17 09:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காயத்தின்-விலை-அதிகரிப்பு/175-343880) · `ta`
 
-தற்போது சந்தையில் உள்நாட்டில் பயிரிடப்படும் பெரிய வெங்காயம் கிலோ ஒன்று 260 ரூபாய் முதல் 280 ரூபாய் வரை விற்பனை செய்யப்பட்டு வருகிறது.
+Large onion prices surge to Rs 260-280/kg due to increased imports, affecting local markets.
 
-பெரிய வெங்காய இறக்குமதிக்குக் கட்டுப்பாடு விதிக்கப்பட்டுள்ளமையே, விலை அதிகரிப்புக்குக் காரணமென சந்தை வட்டாரங்கள் தெரிவித்துள்ளன. R
+🟩
+
+Currently, large onions are sold in the market for Rs 260 to 280 per kg.
+
+Market sources said that the import of big onion imports is responsible for the increase.. Remble
 
 ◼️
 
 [Data](articles/e98ddddb.json)
 
+[Extended Data](ext_articles/e98ddddb.ext.json)
+
 ---
 
-### தவறாக வழிநடத்தி 2022 அரகலய போராட்ட காணொளிகளை பகிர்ந்தால் சட்ட நடவடிக்கை - பொலிஸ் எச்சரிக்கை
+### Legal action if they share videos of the Arakalai struggle - police alert
 
 *2024-09-17 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193893) · `ta`
 
-அரசியல் இலாபத்திற்காக தவறாக வழிநடத்தும் வன்முறைச் சம்பவங்களை தூண்டக்கூடிய குறிப்பாக கடந்த 2022 ஆம் ஆண்டு நடைபெற்ற அரகலய போராட்டம் தொடர்பான காணொளிகளை  பகிர்பவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என பொலிஸ் திணைக்களம் தெரிவித்துள்ளது.
+Legal action against sharing Arakalai struggle videos, especially violent content for political gain. Police warns against misleading public and threatening national security through false information.
 
-கட்டுநாயக்க விமான நிலையத்திற்கு அருகில் முன்னெடுக்கப்படும் வாகன சோதனைகள் மற்றும் 2022 ஆம் ஆண்டு மே 9 ஆம் திகதி ஊரடங்கு சட்டம் அமுலில் இருந்த காட்சிகள் உட்பட நாட்டின் பல்வேறு பகுதிகளில் இடம்பெற்ற சம்பவங்களின் காணொளிகள் சமூக ஊடகங்களில் மீளப் பரப்பப்படுவது தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கடந்த கால நிகழ்வுகளை கொண்ட குறித்த காணொளிகள் தற்போது நடைபெறுவதுபோன்று தவறாக சித்தரித்து பொதுமக்களை தவறாக வழிநடத்தி, சட்டம் ஒழுங்கை சீர்குலைக்கும் வகையில் இருப்பதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Legal action will be taken against those who share videos of the 2022 Arakalai struggle, especially in the event of an abuse of violence for political gains, the Police Department said.
 
-அத்தோடு,  தேசிய பாதுகாப்பிற்கு அச்சுறுத்தல் ஏற்படுத்தும் வகையில் பிழையான தகவல்களை பதிவிடுபவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என பொலிஸார் தெரிவித்துள்ளனர்.
+Police said that videos of various parts of the country have been reclaimed on social media, including vehicle inspections carried out near the Katunayake airport and the vitality of the curfew on May 9, 2022.
+
+Police said the videos of the past events are being misled and misleading the public and disrupting the law and order.
+
+In addition, legal action will be taken against those who record false information to threaten national security, police said.
 
 ◼️
 
 [Data](articles/f75ee5c2.json)
 
+[Extended Data](ext_articles/f75ee5c2.ext.json)
+
 ---
 
-### சம்மாந்துறையில் துப்பாக்கி சூடு:ஒருவர் பலி
+### Firing in Samanthurai: One killed
 
 *2024-09-17 09:24:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்மாந்துறையில்-துப்பாக்கி-சூடு-ஒருவர்-பலி/175-343879) · `ta`
 
-வீடொன்றில் ஏற்பட்ட துப்பாக்கி சூட்டில்  இளம் குடும்பஸ்தர் மரணமடைந்த சம்பவம் ஒன்று சம்மாந்துறை பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+Samanthurai firing: one dead, police investigating. Brother arrested, motive unclear. Incident occurred during presidential election season.
 
-அம்பாறை மாவட்டம் சம்மாந்துறை பொலிஸ் பிரிவிற்குட்பட்ட புறநகர் பகுதி ஒன்றில் உள்ள வீடு ஒன்றில் சகோதரர்களுக்கிடையில் ஏற்பட்ட துப்பாக்கி பிரயோகத்தில் 71 ஏ மல் 15 வீதி புளொக் மேற்கு-2 பகுதியை சேர்ந்த  28 வயதுடைய ஒரு பிள்ளையின் தந்தையான பக்கீர் முகையதீன் றோஜான் என்பவர் சம்பவ இடத்தில் உயிரிழந்துள்ளார்.
+🟩
 
-திங்கட்கிழமை (16) இரவு 10.45 மணியளவில்  குறித்த துப்பாக்கி பிரயோகம் இடம்பெற்றுள்ளதுடன்   ரிப்பிட்டர் ரக  துப்பாக்கியே  குறித்த படுகொலைக்கு  பயன்படுத்தப்பட்டுள்ளதாக ஆரம்ப கட்ட விசாரணையில் இருந்து தெரியவந்தள்ளது.
+The death of a young family member in the house of the Samanthurai police division has taken place.
 
-சம்பவம் தொடர்பில் தம்பி மீது  துப்பாக்கி பிரயோகம் மேற்கொண்டவர்  என கூறப்படும் சந்தேக நபரான   சகோதரரை  சம்மாந்துறை பொலிஸார் கைது செய்து  மேலதிக விசாரணைகளை முன்னெடுத்து வருவதுடன் சடலம் சம்மாந்துறை ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+Pakir Muzhadeen Rojan, father of a 28-year-old child from a 28-year-old child from the West 2, 28, from the West West-2 area of ​​the 71A-Mall 15-Street Plog West-2, has died in a firing between brothers in a suburb of Samanthurai police division of the Ampara district.
 
-...
+The firing took place on Monday (16) at around 10.45 pm and the initial investigation revealed that the rifle rifle was used for the massacre.
+
+Samanthurai police have arrested the brother of the suspect who allegedly fired a shooter in connection with the incident and is conducting further investigations.
+
+Further investigations are being carried out by the police whether the shooting has been carried out due to hostility among the brothers or the contradiction of the upcoming presidential election.
+
+◼️
 
 [Data](articles/54220c38.json)
+
+[Extended Data](ext_articles/54220c38.ext.json)
 
 ---
 
@@ -138,17 +168,27 @@ Addressing Entrepreneral Dilith Jayaweera made this statement participating in a
 
 ---
 
-### நாட்டுக்கு சிறந்த ஜனாதிபதியை தெரிவுசெய்தல்
+### Choosing the best president for the country
 
 *2024-09-17 08:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/193889) · `ta`
 
-ஜனாதிபதி தேர்தல் பிரசாரங்கள் இன்று நள்ளிரவுடன் முடிவுக்கு வருகின்றன. அதன் முடிவுகளைப் பற்றி நிச்சயமாக எதையும் கூறமுடியாத நிலை. தேர்தல் தற்போதைய ஜனாதிபதி  ரணில் விக்கிரமசிங்க, எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச மற்றும் தேசிய மக்கள் சக்தி தலைவர் அநுரா குமார திசாநாயக்க ஆகியோருக்கு இடையிலான மும்முனைப்போட்டி என்பது மாத்திரமே நிச்சயம்.
+Here's a 200-character summary:
 
-ராஜபக்ச குடும்பத்தின் இளம் வாரிசு உட்பட 35 வேறு வேட்பாளர்களும் கூட போட்டியிடுகிறார்கள். அவர்களும் நம்பிக்கையுடன் இருக்கிறார்கள். தீர்மானம் எதையும் எடுக்காமல் இருக்கும் கணிசமான எண்ணிக்கையான வாக்காளர்கள் இருக்கிறார்கள் போன்று தெரிகிறது. அவர்கள் தங்களுக்கு வாக்களிப்பார்கள் என்று இவர்கள் நம்புகிறார்கள். உண்மையில் " எதிரொலி அறை " (Echo chamber ) கோட்பாடு இந்த தேர்தலில் முழு அளவில் வேலை செய்கிறது.
+
+
+Sri Lanka presidential election: Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake lead crowded field. Economic crisis, corruption concerns drive voters. Candidates promise system change, ethnic-religious unity, anti-corruption measures.
+
+🟩
+
+Presidential election campaigns end today at midnight. Its the end of its decisions. It is certain that the current President of the election is the current President of the election, Ranil Wickremesinghe, Opposition Leader Sajith Premadasa and National People's Power Leader Anura Kumara Dissanayake.
+
+Even 35 other candidates, including the young successor of the Rajapaksa family, are also contesting. They are also confident. There seems to be a significant number of voters who do not take any resolution. They believe they will vote for themselves. In fact, the "echo chamber" theory works in full scale in this election.
 
 ...
 
 [Data](articles/a2fe31a5.json)
+
+[Extended Data](ext_articles/a2fe31a5.ext.json)
 
 ---
 
@@ -1784,19 +1824,29 @@ Commenting on President Ranil Wickremesinghe, he said the president is asking th
 
 ---
 
-### මේ වසරේ ඩෙංගු රෝගීන් 38000ක්
+### 38,000 dengue patients this year
 
 *2024-09-16 19:54:49* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-ඩෙංගු-රෝගීන්-38000ක්/11-411973) · `si`
 
-මේ වසරේ ජනවාරි 01 වැනි දින සිට ඊයේ(16දා) දක්වා කාලයෙහිදී ඩෙංගු රෝගීන් 38088ක් වාර්තා වී තිබෙන බව ස්‍යෙඛ්‍ය අංශ පවසයි. එම රෝගීන්ගෙන් 24.8%ක් එනම් රෝගීන් 9451ක් කොළඹ දිස්ත්‍රික්කයෙන් වාර්තා වී තිබෙන බවද පෙන්වා දෙයි.
+Dengue cases surge: 78,088 reported since Jan 2023. Colombo leads with 24.8%, followed by Gampaha (41.8%) and Northern Province (12.4%). 17 deaths recorded. Dengue eradication efforts underway in 10 districts.
 
-ගම්පහ දිස්ත්‍රික්කයෙන් රෝගීන් 4381ක්, කලුතර දිස්ත්‍රික්කයෙන් රෝගීන් 2097 ක් වශයෙන් බස්නාහිර පළාතෙන් රෝගීන් 15929ක් වාර්තා  වී තිබෙන අතර එය සමස්ත රෝගීන්ගේ ප්‍රතිශතයක් ලෙස 41.8% කි.
+🟩
 
-උතුරු පළාතෙන් රෝගීන් 4738 ක් වාර්තා වී ඇත. එය සමස්ත රෝගීන්ගේ ප්‍රතිශතයක් ලෙස 12.4% කි.  මධ්‍යම පළාතෙන් රෝගීන් 3895 ක් වාර්තා වී ඇත. එය සමස්ත රෝගීන්ගේ ප්‍රතිශතයක් ලෙස 10.2% කි.  වයඹ පළාතෙන් රෝගීන් 2521 ක් වාර්තා වී තිබේ. එය ප්‍රතිශතයක් ලෙස 6.6% කි.  දකුණු පළාතෙන් රෝගීන් 2834 ක් වාර්තා වේ.  ප්‍රතිශතය7.4% කි. සබරගමුව පළාතෙන් රෝගීන් 3875 ක් වාර්තා වී තිබෙන අතර එය ප්‍රතිශතයක් ලෙස 10.2% කි.
+Says 78088 dengue patients have been reported from 1st January this year.. It is also said that 24.8% of these patients were reported from the Colombo District.
 
-...
+4381 patients from the Gampaha district have been reported from the Western Province as a percentage of 41.8% of the entire patients.
+
+4738 patients were reported from the Northern Province. It is 12.4% as a percentage of overall patients.3895 patients have been reported from the Central Province. It is 10.2% as a percentage of overall patients.2521 patients have been reported from the North Western Province. It is 6.6% as a percentage.2834 patients were reported from the Southern Province.% 74%. 3875 patients were reported from the Sabaragamuwa Province, 10.2% as a percentage.
+
+In the last year, 3897 patients and 389, in July, was Rs.Have been.
+
+17 deaths have been reported due to dengue due to this year. The Health Division points out that the dengue eradication of 10 power areas is spreading in 10 power areas.
+
+◼️
 
 [Data](articles/79f5b42c.json)
+
+[Extended Data](ext_articles/79f5b42c.ext.json)
 
 ---
 
@@ -2203,6 +2253,8 @@ However, the question of what the situation is if Sajith Premadasa is successful
 ...
 
 [Data](articles/9f621dbc.json)
+
+[Extended Data](ext_articles/9f621dbc.ext.json)
 
 ---
 

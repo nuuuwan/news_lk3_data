@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 17:39:08**
+As of **2024-09-17 17:59:04**
 
 ## Newspaper Stats
 
-*Scraped **44,356** Articles*
+*Scraped **44,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,095
 dailymirrorlk | 4,733
-adaderanalk | 5,221
+adaderanalk | 5,222
 tamilmirrorlk | 5,789
 virakesarilk | 7,079
 adaderanasinhalalk | 7,598
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,356 (100.0%) of 44,356 articles have been extended.
+44,357 (100.0%) of 44,357 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -143,6 +143,30 @@ Private school delegates point out that the general public will not be able to e
 [Data](articles/68053966.json)
 
 [Extended Data](ext_articles/68053966.ext.json)
+
+---
+
+### An SLFP electoral organiser murdered in Panagoda
+
+*2024-09-17 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102041/an-slfp-electoral-organiser-murdered-in-panagoda) · `en`
+
+An individual who had reportedly served as the Sri Lanka Freedom Party’s (SLFP) chief organiser for the Hiniduma Electorate in Galle District has been assaulted and murdered at his residence in Panagoda, Homagama.
+
+Meegoda Police said that while the victim was at his home in Samagi Mawatha, Panagoda today (17), an individual who arrived in a three-wheeler had hit him on the head with a club. He had later died after being admitted to the Homagama Base Hospital with serious injuries.
+
+The deceased is a businessman identified as Sampath Gamage, a resident of Panagoda in Homagama.
+
+The suspect who committed the murder is yet to be identified while investigations are ongoing.
+
+According to reports, the deceased had served as the SLFP’s chief organiser for the Hiniduma electorate.
+
+Scenes of crime officers (SOCOs) of the Nugegoda Police Division and officers of the Meegoda Police Crimes Unit have arrived at the scene of the incident and are conducting investigations.
+
+◼️
+
+[Data](articles/0966d8ef.json)
+
+[Extended Data](ext_articles/0966d8ef.ext.json)
 
 ---
 
@@ -2645,31 +2669,5 @@ The biggest corruption in history featured in Ranil's Cabinet. President Ranil W
 [Data](articles/be00a1cc.json)
 
 [Extended Data](ext_articles/be00a1cc.ext.json)
-
----
-
-### The Central Committee Resolution is the "final decision"
-
-*2024-09-17 02:07:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-குழுத்-தீர்மானமே-இறுதி-முடிவு/175-343870) · `ta`
-
-Tamil National Alliance supports Sajith Premadasa for president. Party leaders discuss election strategy focusing on Tamil rights and economic development. Decision made to back United People's Alliance candidate. Some members disagree with the choice.
-
-🟩
-
-The Tamil National Alliance (TNA) has issued a statement saying that voters should give their vote in accordance with the central committee resolution of our party to support the United People's Alliance candidate Sajith Premadasa in the presidential election.
-
-A high -level discussion on the presidential election was held on Monday (16) at the office of the Vavuniya TNA.
-
-At the meeting, party leader Mawaisenathirajah, Members of Parliament MA Sumanthiran, C. Siritharan, Secretary P. Sathiyalingam. Former Mayor of the Municipal Council Saravanapavan and CVK Sivagnanam were also present.
-
-After the discussion, the decision of the TNA was read by the party leader Mawaisenathiraja.
-
-The presidential election will be held on the 21st of this month in Sri Lanka. The election manifesto of three main candidates was considered in this election. The election manifesto was focused on the political solution for the Tamil people and the economic development of the areas of the Tamil people.
-
-...
-
-[Data](articles/de5d2b55.json)
-
-[Extended Data](ext_articles/de5d2b55.ext.json)
 
 ---

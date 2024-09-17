@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 22:11:54**
+As of **2024-09-17 22:23:42**
 
 ## Newspaper Stats
 
-*Scraped **44,392** Articles*
+*Scraped **44,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,58 +17,198 @@ economynextcom | 2,688
 dailyftlk | 2,935
 adalk | 4,098
 dailymirrorlk | 4,733
-adaderanalk | 5,228
+adaderanalk | 5,229
 tamilmirrorlk | 5,797
-virakesarilk | 7,088
-adaderanasinhalalk | 7,604
+virakesarilk | 7,091
+adaderanasinhalalk | 7,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,390 (100.0%) of 44,392 articles have been extended.
+44,395 (100.0%) of 44,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### අනෙක් පාක්ෂිකයාවත් දිනාගන්න ඕනේ - අනුර
+### Hezbollah members among hundreds wounded after pagers explode in Lebanon and Syria, officials say
+
+*2024-09-17 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102047/hezbollah-members-among-hundreds-wounded-after-pagers-explode-in-lebanon-and-syria-officials-say) · `en`
+
+Hundreds of handheld pagers exploded near simultaneously across Lebanon and in parts of Syria on Tuesday, wounding members of the militant group Hezbollah, the Iranian ambassador and dozens of other people.
+
+Officials pointed the finger at Israel in what appeared to be a sophisticated, remote attack at a time of rising tensions across the Lebanon border.
+
+A Hezbollah official who spoke on condition of anonymity told The Associated Press that “several hundred” people, including members of the group, were wounded in different parts of Lebanon when their handheld pagers exploded. He said a few Hezbollah fighters were also wounded in Syria when the pagers they were carrying exploded, and said it was believed to be an Israeli attack.
+
+The Associated Press reached out to the Israeli military, which declined to comment.
+
+...
+
+[Data](articles/6c673ed0.json)
+
+[Extended Data](ext_articles/6c673ed0.ext.json)
+
+---
+
+### There is a conspiracy to defeat me - Sajith
+
+*2024-09-17 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201129) · `si`
+
+Sajith Premadasa accuses rivals of plotting against him. Claims Ranil Wickremesinghe and Anura Kumara Dissanayake want his defeat. Speaks at rallies in Kegalle and Hettipola.
+
+🟩
+
+The presidential candidate Sajith Premadasa, Sagith Premadasa, says that Ranil Wickremesinghe and Anura Kumara Dissanayake are engaged in defeat.
+
+He was speaking at a rallies in Kegalle this afternoon.
+
+"I have come here to come here and made a meeting here. But it came alone. Mr. Ranil Wickremesinghe did not come. Now just having a deel. You have to defeat Sajith Premadasa. Why?. They're afraid. "
+
+Meanwhile, another rally was held at Hettipola's election campaign to the presidential candidate Sajith Premadasa of the Samagiens.
+
+◼️
+
+[Data](articles/43438011.json)
+
+[Extended Data](ext_articles/43438011.ext.json)
+
+---
+
+### Chameleon Politics
+
+*2024-09-17 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193952) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Chameleon politics fails; social justice activists oppose Indian agreements. Tamils reject compromise. Dileepan's martyrdom fuels resistance against political betrayal and genocide. National aspirations remain unfulfilled despite challenges. Political integrity sought; chauvinist forces countered. Journey continues toward goals despite failures.
+
+🟩
+
+Chameleon politics, the colder of the politics, the pulling us into the powerful politics will fail. Until then, we will travel towards our goal, said Social justice activist and a co -ordinator of the National Organization for the release of political prisoners.
+
+Those who live in the northeastern Tamil homeland are shedding tears day by day when the blood of the genocide is raising the voice for the nationality of the warmacists and the genocide of the war sutras and the genocide.
+
+Tamils ​​are political traitors. In their words, we would like to emphasize that trying to vote and go to the polling booth is like killing the survivors of nationalism.
+
+This is the month of Dileepan's life.
+
+...
+
+[Data](articles/1e26b889.json)
+
+[Extended Data](ext_articles/1e26b889.ext.json)
+
+---
+
+### You need to win the other partner - Anura
 
 *2024-09-17 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201128) · `si`
 
-ජනතාව තමා කෙරෙහි තබන විශ්වාසය අනිවාර්යයෙන්ම ආරක්ෂා කරන බව ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake addresses rallies, promising protection and accountability. He emphasizes winning over voters and forming a responsible government.
 
-මාවතගමදී අද (17) පස්වරුවේ පැවැති ජන රැලියකට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-"නායකයෝ පත් කරලා ටික දවසක් යද්දි වැරදුණානේ කියලා හිතෙනවා. ජනතාවට තවත් සැරයක් වරද්දන්න අපිට අයිතියක් නැහැ. ඔබ අප පිළිබඳ තබන විශ්වාසය නිසැකවම ආරක්ෂා කරනවා. 21 වනදා අපිට ඡන්දය නොදීපු අයට අපරාදේ කියලා හිතෙන්න ඕනේ. අපේ පාලනයක් යටතේ ටික දවසක් යනකොට ඒ අයට හිතෙන්න ඕනේ ඡන්දෙ දෙන්න තිබ්බේ මාලිමාවට තමයි කියලා. අනෙක් පාක්ෂිකයාත් දිනාගන්න ආණ්ඩුවයක් අපි හදන්න ඕනේ"
+The presidency of the National Institute of National Power will protect the people of the people, says Anura Kumara Dissanayake.
 
-මේ අතර ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ජය තහවුරු කිරීම සඳහා තවත් ජන රැලියක් ඊයේ (17) පස්වරුවේ වීරකැටියේදී ද පැවැත්වුණි.
+He was speaking at a rally in Mawathagama today (17).
+
+"It is wrong for leaders that they have been mistaken for a while. We have no right to get the people more times. Surely protecting the confidence you put on us. On the 21st, we want to think that those who did not vote for us. When we go to our administration, they should think that the vote was to be voted. We have to make a government to win the other partner "
+
+Meanwhile, another rally was held at Weeraketiya yesterday (17) to ensure the win of Presidential candidate Anura Kumara Dissanayake.
 
 ◼️
 
 [Data](articles/6e9b49fb.json)
 
+[Extended Data](ext_articles/6e9b49fb.ext.json)
+
 ---
 
-### නිහඬ කාලය ගැන දැනුම්දීමක්
+### Tamil National Parties confuse the people and confuse the people - Douglas Devananda
+
+*2024-09-17 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193955) · `ta`
+
+Douglas Devananda criticizes Tamil nationalist parties for confusing voters in Sri Lanka's elections. He states that people in the North and East understand the presidential election but are unclear about general election candidates. Devananda supports Ranil Wickremesinghe for president and claims Tamil parties confuse themselves and others regarding elections.
+
+🟩
+
+Fisheries Minister KN is the common nature of the Tamil nationalist parties that they and the people are confused about the election.. Douglas Devananda said.
+
+He was speaking at a media briefing after attending an event on Wednesday (17) in Karadivu in Ampara District.
+
+The people of the North and East are clear about the presidential election.. This is because every part of the Northeast may have policy programs.
+
+Apart from this, the election boycott of the general candidates is clear. We will learn about it on the 22nd. However, my Presidential candidate Amman Ranil Wickremesinghe is my choice and will.
+
+The Tamil nationalist parties in the North and East are the common nature of confusing themselves and the people in the matter of election.
+
+◼️
+
+[Data](articles/ba4771e0.json)
+
+[Extended Data](ext_articles/ba4771e0.ext.json)
+
+---
+
+### Notification of Silent Time
 
 *2024-09-17 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201127) · `si`
 
-ජනාධිපතිවරණයට අදාළ මැතිවරණ ප්‍රචාරණ කටයුතු හෙට (18) මධ්‍යම රාත්‍රියෙන් අවසන් වීමට නියමිතය.
+Silent period begins midnight tomorrow until Saturday. No campaigning allowed during this time. Major candidates' final rallies scheduled across Colombo and suburbs. Police and security forces providing special protection for events.
 
-ඒ අනුව හෙට මධ්‍යම රාත්‍රී 12 සිට මැතිවරණය පැවැත්වෙන 21 වන සෙනසුරාදා දක්වා නිහඬ කාලය ක්‍රියාත්මක වනු ඇත.
+🟩
 
-මෙම කාලසීමාව තුළ කිසිදු ආකාරයක ප්‍රචාරණ කටයුත්තක් සිදුකිරීම තහනම් වන අතර මැතිවරණ නීති රීති උල්ලංඝනය කරන ඕනෑම පාර්ශ්යක් අත්අඩංගුවට ගෙන නීතිය ක්‍රියාත්මක කිරීමට පොලීසියට බලය පවරා තිබේ.
+The election campaign to the presidential election is due to expire at midnight tomorrow (18).
 
-ඒ අනුව මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වී සිටින ප්‍රධාන අපේක්ෂකයින්ගේ අවසන් රැලි හෙට පස්වරුවේ කොළඹ සහ තදාසන්න ප්‍රදේශ කිහිපයකදී පැවැත්වීමට නියමිතය.
+Accordingly, the silent period will be carried out from 12 midnight tomorrow to Saturday 21st.
 
-ස්වාධීන අපේක්ෂක රනිල් වික්‍රමසිංහ, සමගි ජන බලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස, සර්වජන අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර, ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ යන මහත්වරුන්ගේ ප්‍රධාන රැලි මෙලෙස පැවැත්වෙනු ඇත.
+During this period, no form of advertising has been promoted to the police to arrest any party that violates election rules and implement the law.
 
-ඒ අනුව ස්වාධීන අපේක්ෂක රනිල් වික්‍රමසිංහ මහතාගේ අවසන් රැලිය මැද කොළඹ ප්‍රදේශයේදී පැවැත්වීමට සැලසුම් කර තිබේ.
+The final waves of the major candidates who have been contesting for the presidential election will be held tomorrow in several parts of Colombo and suburbs.
+
+Independent candidate Ranil Wickremesinghe, Candidate Sajith Premadasa, the presidential candidate entrepreneurship of the Sri Lanka Pranayaka The Chief Justice Namal Rajapaksa is the main waves of Namal Rajapaksa.
+
+Accordingly, the final rally of independent candidate Ranil Wickremesinghe has been planned in the middle of the middle.
+
+The final rally of the candidate Sajith Premadasa of the Samagiens The last rally will be held in the middle of the area.
 
 ...
 
 [Data](articles/16404557.json)
+
+[Extended Data](ext_articles/16404557.ext.json)
+
+---
+
+### The people should not fail to replace the doctors in the patient's recovery - the president
+
+*2024-09-17 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/193957) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka President Ranil Wickremesinghe addresses nurses conference, urging citizens not to replace doctors during patient recovery. He discusses economic recovery plans, healthcare reforms, and nurse training initiatives.
+
+🟩
+
+President Ranil Wickremesinghe said that the people of the country should not make a mistake on September 21, when the patient is recovering after emergency treatment, the doctor will be replaced and allowed in the ordinary ward under the ineligible doctor.
+
+Pointing out that the doctor's certificate of refusal to treat a patient can be canceled and canceled, the President said that the people of the country should reject politicians who ran away without the responsibility of healing the country's economy in 2022.
+
+President Ranil Wickremesinghe made this statement while addressing the 2024 Nurses Conference of the Public Service Joint Nurses Association held at the Voters Age Hotel on Tuesday (17).
+
+Narahenpitiya Abayaramabadi, Chief Sanganayake for the Western Province, Dr.The president was also handed over to the President with the proposals of the Nurses Association of the State Service by Murudetaya Ananda Thera.
+
+...
+
+[Data](articles/91b592c6.json)
+
+[Extended Data](ext_articles/91b592c6.ext.json)
 
 ---
 
@@ -89,6 +229,46 @@ In line with international industry standards, the facility also houses a vocati
 [Data](articles/493a3788.json)
 
 [Extended Data](ext_articles/493a3788.ext.json)
+
+---
+
+### நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற விபத்துக்களில் மூவர் உயிரிழப்பு!
+
+*2024-09-17 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193953) · `ta`
+
+நாட்டின்  வெவ்வேறு பகுதிகளில் நேற்று திங்கட்கிழமை (16) இடம்பெற்ற வாகன விபத்துக்களில் மூவர்  உயிரிழந்துள்ளதாக பொலிஸார்  தெரிவித்துள்ளனர்.
+
+தெஹியத்தகண்டிய - அரலங்வில , ஆராச்சிக்கட்டுவ - வெலிபெலஸ்ஸ ஆகிய பகுதிகளில் இந்த விபத்துக்கள் இடம்பெற்றுள்ளது.
+
+தெஹியத்தகண்டிய பொலிஸ் பிரிவிற்குட்பட்ட  அரலங்வில பகுதியில் வீதியில் அரலங்விலயிலிருந்து தெஹியத்தகண்டிய நோக்கிப் பயணித்த மோட்டார் சைக்கிள் ஒன்று செலுத்துனரின் கட்டுபாட்டை இழந்து மரமொன்றில் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+விபத்தில் படுகாயமடைந்த மோட்டார் சைக்கிளின் செலுத்துனர் தெஹியத்தகண்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+இதேவேளை, ஆராச்சிக்கட்டுவ - வெலிபெலஸ்ஸ பகுதியில் ஆராச்சிக்கட்டுவையிலிருந்து வெலிபெலஸ்ஸ நோக்கிப் பயணித்த முச்சக்கரவண்டி ஒன்று அதே திசையில் பயணித்த மோட்டார் சைக்கிளுடன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+விபத்தின் போது படுகாயமடைந்த 41 வயதுடைய மோட்டார் சைக்கிள் செலுத்துனர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/fe88bb28.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தியின் ஆதரவாளர்களுக்கு ஐக்கிய தேசிய கட்சி விடுத்துள்ள கோரிக்கை
+
+*2024-09-17 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/193942) · `ta`
+
+வெற்றி வேட்பாளராக ரணில் விக்ரமசிங்க இருக்கும் நிலையில் ஐக்கிய மக்கள் சக்தி ஆதரவாளர்கள் தங்களை வாக்குகளை வீணடிக்காமல் ரணில் விக்ரமசிங்கவின் வெற்றியின் பங்காளிகளாக வேண்டும் என முன்னாள் அமைச்சர் அசல ஜாகொட தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (17) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பி்ட்டார்.
+
+அனைத்து தகவல்களின் அடிப்படையில் ரணில் விக்ரமசிங்கவே மீண்டும் ஜனாதிபதியாக தெரிவு செய்யப்படும் வாய்ப்புகள் அதிகம் இருக்கின்றன. ரணில் விக்ரமசிங்க தான்  தோல்வியடைவதாக அச்சம் கொண்டுள்ளதால் தேர்தல் நடத்த மாட்டார்  என சஜித் பிரேமதாச ஏற்கனவே தெரிவித்திருந்தார்.
+
+அவர் தெரிவித்த விடயம் உண்மையாகும். தேர்தலில் வெற்றிபெற முடியும் என்ற நம்பிக்கை ரணில் விக்ரமசிங்கவுக்கு இருந்தமையாலே அவர் தேர்தலில் போட்டியிட தைரியமாக முன்வந்தார்.
+
+...
+
+[Data](articles/af94f6b9.json)
 
 ---
 
@@ -640,32 +820,6 @@ The Executive Director of the February, Rohana Hettiarachchi said that the Nuwar
 
 ---
 
-### Tamil National Parties confuse the people and confuse the people - Douglas Devananda
-
-*2024-09-17 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/193955) · `ta`
-
-Douglas Devananda criticizes Tamil nationalist parties for confusing voters in Sri Lanka's elections. He states that people in the North and East understand the presidential election but are unclear about general election candidates. Devananda supports Ranil Wickremesinghe for president and claims Tamil parties confuse themselves and others regarding elections.
-
-🟩
-
-Fisheries Minister KN is the common nature of the Tamil nationalist parties that they and the people are confused about the election.. Douglas Devananda said.
-
-He was speaking at a media briefing after attending an event on Wednesday (17) in Karadivu in Ampara District.
-
-The people of the North and East are clear about the presidential election.. This is because every part of the Northeast may have policy programs.
-
-Apart from this, the election boycott of the general candidates is clear. We will learn about it on the 22nd. However, my Presidential candidate Amman Ranil Wickremesinghe is my choice and will.
-
-The Tamil nationalist parties in the North and East are the common nature of confusing themselves and the people in the matter of election.
-
-◼️
-
-[Data](articles/ba4771e0.json)
-
-[Extended Data](ext_articles/ba4771e0.ext.json)
-
----
-
 ### 37 million person arrested
 
 *2024-09-17 16:51:13* · [`adalk`](https://www.ada.lk/breaking_news/රු-ලක්ෂ-37ක-අනර්තයක්-කළ-පුද්ගලයෙකු-අත්අඩංගුවට/11-411984) · `si`
@@ -737,34 +891,6 @@ The deceased police officer in the Nugegoda Police said that the deceased has be
 [Data](articles/647234f1.json)
 
 [Extended Data](ext_articles/647234f1.ext.json)
-
----
-
-### Chameleon Politics
-
-*2024-09-17 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/193952) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Chameleon politics fails; social justice activists oppose Indian agreements. Tamils reject compromise. Dileepan's martyrdom fuels resistance against political betrayal and genocide. National aspirations remain unfulfilled despite challenges. Political integrity sought; chauvinist forces countered. Journey continues toward goals despite failures.
-
-🟩
-
-Chameleon politics, the colder of the politics, the pulling us into the powerful politics will fail. Until then, we will travel towards our goal, said Social justice activist and a co -ordinator of the National Organization for the release of political prisoners.
-
-Those who live in the northeastern Tamil homeland are shedding tears day by day when the blood of the genocide is raising the voice for the nationality of the warmacists and the genocide of the war sutras and the genocide.
-
-Tamils ​​are political traitors. In their words, we would like to emphasize that trying to vote and go to the polling booth is like killing the survivors of nationalism.
-
-This is the month of Dileepan's life.
-
-...
-
-[Data](articles/1e26b889.json)
-
-[Extended Data](ext_articles/1e26b889.ext.json)
 
 ---
 
@@ -2429,133 +2555,5 @@ Sri Lanka Teachers Union President Priyantha Fernando has confirmed the incident
 [Data](articles/250862aa.json)
 
 [Extended Data](ext_articles/250862aa.ext.json)
-
----
-
-### MISS INTERNATIONAL - TILIDITI CITY IN Sri Lanka
-
-*2024-09-17 10:34:01* · [`adalk`](https://www.ada.lk/picture_story/Miss-International---2024-කිරුළ-ලංකාවේ-තිලිණිට/10-411976) · `si`
-
-Miss International Tilini Kumari wins in Indonesia, arrives at Katunayake Airport, Sri Lanka. She's a local actress and announcer from Pilimatalawa area.
-
-🟩
-
-Tilini Kumari, who won the first place in Indonesia, arrived at the Katunayake Airport on the night of 09/16th last night.
-
-The tournament was held from 20 countries from 20 countries from the Bali Islands in Indonesia.
-
-Tilinini won the tournament on Norcratia in Indonesia on Norkia on Norkia on Nightnas, Jakarth, UL. The plane was arrived at the Katunayake airport.
-
-She is a resident of Pilimatalawa area in the Pilimatalawa area and demonstrates its performance, an actress and announcer.
-
-◼️
-
-[Data](articles/b5525835.json)
-
-[Extended Data](ext_articles/b5525835.ext.json)
-
----
-
-### Woman death in Wellawaya
-
-*2024-09-17 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/193898) · `ta`
-
-Tree falls on woman cutting firewood in Wellawaya. She died. Body sent for autopsy. Police investigating.
-
-🟩
-
-Police said that she was killed when a tree fell down on a woman who had gone to cut firewood near the Torarara Vaavi, who belongs to the Wellavai - Uva Kuda Oya Police Division.
-
-Subsequently, the body of the deceased has been kept at the Wellava hospital for autopsy and the Uva Kuda Oya police are conducting further investigations.
-
-◼️
-
-[Data](articles/a67ad9d2.json)
-
-[Extended Data](ext_articles/a67ad9d2.ext.json)
-
----
-
-### Birthday to Modi: Greetings accumulate
-
-*2024-09-17 10:13:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடிக்கு-பிறந்த-நாள்-வாழ்த்துகள்-குவிகின்றன/175-343883) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Leaders across parties greet PM Modi on his 74th birthday. President Murmu, Home Minister Shah, CMs offer congratulations. Welfare schemes, public events planned by BJP.
-
-🟩
-
-Prime Minister Modi, who is celebrating the 74th birthday today, congratulates President Draupadi Murmu, Ministers and State Chief Ministers.
-
-BJP and volunteers all over the country celebrate his birthday. Various political leaders have congratulated him on this.
-
-President Draupadi Murmu posted a greeting on his social network, saying, "You have enhanced the country's resources and dignity through your excellent leadership."
-
-Home Minister Amit Shah posted on his X website, “Congratulations to the famous Prime Minister Modi. Happy Birthday to Prime Minister Narendra Modi, who has brought the country to change the lives of the people by tireless labor, devotion and visionary vision and gaining a new reputation worldwide.. I pray to the Lord for health and long life. ”
-
-...
-
-[Data](articles/86bf7acd.json)
-
-[Extended Data](ext_articles/86bf7acd.ext.json)
-
----
-
-### Modi Birthday: Greetings
-
-*2024-09-17 10:13:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-பிறந்த-நாள்-குவியும்-வாழ்த்துகள்/175-343883) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Prime Minister Modi celebrates 74th birthday. Leaders like President Murmu, Home Minister Shah, and CMs offer greetings. BJP organizes events, welfare programs, and medical camps across India.
-
-🟩
-
-Prime Minister Modi, who is celebrating the 74th birthday today, congratulates President Draupadi Murmu, Ministers and State Chief Ministers.
-
-BJP and volunteers all over the country celebrate his birthday. Various political leaders have congratulated him on this.
-
-President Draupadi Murmu posted a greeting on his social network, saying, "You have enhanced the country's resources and dignity through your excellent leadership."
-
-Home Minister Amit Shah posted on his X website, “Congratulations to the famous Prime Minister Modi. Happy Birthday to Prime Minister Narendra Modi, who has brought the country to change the lives of the people by tireless labor, devotion and visionary vision and gaining a new reputation worldwide.. I pray to the Lord for health and long life. ”
-
-...
-
-[Data](articles/9c9526be.json)
-
-[Extended Data](ext_articles/9c9526be.ext.json)
-
----
-
-### Namal's target
-
-*2024-09-17 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201107) · `si`
-
-Namal Rajapaksa aims to transform Sri Lanka into the banking and finance hub of South Asia within 5 years. He plans to leverage existing infrastructure like the Colombo Port and expand services to regions like Suriyawewa and Jaffna. The goal is to attract global investors and boost the economy to $180 billion.
-
-🟩
-
-Namal Rajapaksa states that Sri Lanka is the center of banking and financial state of banking and finance in the next 5 years.
-
-He was speaking at a public rally held in Minuwangoda, he said this.
-
-"Many people thought the buildings of the Colombo Port was thought to hear the buildings.. It was a center of transactions. What do we want to use the world to use the world to customize, custody.
-
-We also make the benefits of Suriyawewa and Jaffna with 7 cartshops in Suriyawewa and Galle children to Colombo, Gampaha, Minuwangoda, Suriyawewa, Kurunegala and Kurunegala.
-
-What is our goal?Our goal is to translate the Colombo Port within the next five years as the center of banking and finance and finance South Asia.
-
-On the other hand, the top investors of the world have taken to our country on policy decisions that can benefit our economy and implement the jobs of children in this country and interpreting our economy to an economy over $ 180 billion. "
-
-◼️
-
-[Data](articles/377c2207.json)
-
-[Extended Data](ext_articles/377c2207.ext.json)
 
 ---

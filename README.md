@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 13:58:04**
+As of **2024-09-17 14:11:19**
 
 ## Newspaper Stats
 
-*Scraped **44,322** Articles*
+*Scraped **44,325** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 428
-colombotelegraphcom | 440
+colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,090
 dailymirrorlk | 4,733
 adaderanalk | 5,219
-tamilmirrorlk | 5,786
+tamilmirrorlk | 5,788
 virakesarilk | 7,065
 adaderanasinhalalk | 7,589
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,322 (100.0%) of 44,322 articles have been extended.
+44,325 (100.0%) of 44,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### GMOA strike tomorrow
+
+*2024-09-17 13:40:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/GMOA-நாளை-வேலைநிறுத்தம்/175-343895) · `ta`
+
+GMOA strike tomorrow: Hospitals nationwide affected from 8 AM. Protest against disciplinary actions against Dr. Palitha Rajapakse. 14-day restructuring deadline set.
+
+🟩
+
+The Government Medical Officers Association (GMOA) has announced that a trade union action will be taken on Wednesday (18) targeting hospitals across the country.
+
+He said the strike would begin at 8 am on Wednesday (18) and would cause disruption to medical treatment.
+
+Dr. Wijesinghe said that the work has been taken against the disciplinary measures initiated against Dr. Palitha Rajapakse, Assistant Secretary and Assistant Secretary of the GMOA Provincial Coordinator and Assistant Secretary, without any formal complaint.
+
+He said the GMOA would be given 14 days time to launch the restructuring process on the incident.. If there is no favorable response, the next step will be taken following the Central Committee meeting at the end of the month.
+
+◼️
+
+[Data](articles/0b4b136d.json)
+
+[Extended Data](ext_articles/0b4b136d.ext.json)
+
+---
 
 ### The decision taken about the controversial scholarship paper
 
@@ -51,6 +75,24 @@ According to the Commissioner General of Examinations, a team of question paper 
 [Data](articles/fa7b203f.json)
 
 [Extended Data](ext_articles/fa7b203f.ext.json)
+
+---
+
+### Two people in the federation support Ranil
+
+*2024-09-17 13:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டமைப்பில்-இருவர்-ரணிலுக்கு-ஆதரவு/175-343894) · `ta`
+
+TNA leaders meet President Wickremesinghe, discuss Northern development programs during Jaffna campaign.
+
+🟩
+
+The Presidential Media Unit has announced that the leaders of the Tamil National Alliance (TNA) Sasikala Raviraj and Kala Amudan Senathirajah met with President Ranil Wickremesinghe during the Jaffna election campaign and discussed the Northern Provincial Development Programs.
+
+◼️
+
+[Data](articles/06c4eb85.json)
+
+[Extended Data](ext_articles/06c4eb85.ext.json)
 
 ---
 
@@ -1157,6 +1199,22 @@ Cyclist was killed and 41 years old.
 [Data](articles/97dd7e92.json)
 
 [Extended Data](ext_articles/97dd7e92.ext.json)
+
+---
+
+### Presidential Election 2024: Who Can Win?
+
+*2024-09-17 08:04:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-election-2024-who-can-win/) · `en`
+
+We are on the verge of the Presidential Election 2024. The election will be held on September 21st, 2024; 17.1 million voters are eligible to vote. Thirty-eight candidates are in the battlefield, but many opinion polls show that only three candidates, who come from the majority Sinhala-Buddhist community, have the potential of leading the competition. They are Mr Ranil Wickremesinghe, the incumbent President, Mr Sajith Premadasa, the Leader of the Opposition and Mr Anura Kumara Dissanayake, the leader of the Janatha Vimukthi Peramuna (JVP)-led Jathika Jana Balawegaya (NPP).
+
+Mr Namal Rajapaksa, the eldest son of former President Mr Mahinda Rajapaksa, can take a significant number of votes, but he may become the fourth in the race.  None of the other candidates would take many votes; each may take less than 50,000.
+
+...
+
+[Data](articles/38cbd46e.json)
+
+[Extended Data](ext_articles/38cbd46e.ext.json)
 
 ---
 
@@ -2451,65 +2509,5 @@ He said that after many supporters pointed out the mistakes, they had corrected 
 [Data](articles/ca7d548d.json)
 
 [Extended Data](ext_articles/ca7d548d.ext.json)
-
----
-
-### Three Paths, One Nation: Who Will Lead Sri Lanka In 2024?
-
-*2024-09-16 22:07:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/three-paths-one-nation-who-will-lead-sri-lanka-in-2024/) · `en`
-
-The 2024 Sri Lankan General Election, scheduled for September 21, is one of the most pivotal in recent history, with the country at a crossroads both politically and economically. In the aftermath of significant economic challenges, including hyperinflation, foreign exchange crises, and energy shortages, Sri Lankans are seeking new leadership that can stabilize the nation and foster recovery. Three main contenders stand at the forefront of this election: Ranil Wickremesinghe, Sajith Premadasa, and Anura Kumara Dissanayake, each offering distinct visions for Sri Lanka’s future. Let us delve into their political careers, agendas, and the possible impact they may have on the country.
-
-...
-
-[Data](articles/43ebea4a.json)
-
-[Extended Data](ext_articles/43ebea4a.ext.json)
-
----
-
-### Religious attacks will intensify after the Bangladesh struggle
-
-*2024-09-16 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201096) · `si`
-
-Bangladesh religious tensions escalate post-struggle. Attacks increase against Islamic youth in Cox's Bazar. Women targeted under strict Shariah laws. Anarchic conditions lead to increased violence and demands for justice.
-
-🟩
-
-After the struggle, religion targeting religion has intensified.
-
-Members of the young Islamic students of young Islamic students and members of the young Islamic students of the young Islamic students.
-
-The violence was in a tourism center, Cowks Bazaar region.
-
-These struggles are implementing unique Shariah policies, saying that women have been attacked by the lack of unique Shariah.
-
-A woman who had come to a police station as demanding his abductor mobile phone was to be stressed by the country's anarchy.
-
-◼️
-
-[Data](articles/16b70755.json)
-
-[Extended Data](ext_articles/16b70755.ext.json)
-
----
-
-### Commonwealth marks 200 election observations with Sri Lanka polls
-
-*2024-09-16 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102027/commonwealth-marks-200-election-observations-with-sri-lanka-polls) · `en`
-
-A Commonwealth Observer Group (COG) has arrived in Colombo for Sri Lanka’s presidential election, marking the Commonwealth’s 200th election observation since it began observing in the 1980s.
-
-The country heads to the polls on 21 September, with a 15-person Observer Group deployed by the Commonwealth Secretary-General to observe the entire process, following an invitation from Sri Lanka’s Election Commission.
-
-In a press statement in Colombo, Chairperson of the Group, former President of Seychelles HE Danny Faure, said he was honoured to be in Sri Lanka to mark the Commonwealth’s 200th election observation milestone.
-
-He said: “We are here as part of the Commonwealth’s full electoral cycle approach in its engagement with member countries, to help strengthen democratic institutions and processes, and enable citizen participation and representation during elections.
-
-...
-
-[Data](articles/0f261fde.json)
-
-[Extended Data](ext_articles/0f261fde.ext.json)
 
 ---

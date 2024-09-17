@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 15:57:14**
+As of **2024-09-17 16:10:45**
 
 ## Newspaper Stats
 
-*Scraped **44,339** Articles*
+*Scraped **44,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,220
 tamilmirrorlk | 5,788
 virakesarilk | 7,071
-adaderanasinhalalk | 7,593
+adaderanasinhalalk | 7,594
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,339 (100.0%) of 44,339 articles have been extended.
+44,340 (100.0%) of 44,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### We want you to give you that change - Dilith
+
+*2024-09-17 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201118) · `si`
+
+Dilith Jayaweera promises change, criticizes corrupt politics, vows youth-focused programs.
+
+🟩
+
+The exmongering candidate Dilith Jayaweera stated that the opportunity to make the opportunity to change the people.
+
+"The corrupt politics of this country must end. Innocent people in this country cannot be grieved. You asked for a change. So you said 225 not to say no. "
+
+"We helped politicians that someday could make this country. But they continued to betray us. "
+
+"I came to politics to give an asset statement. Other candidates have given asset statements. The first three revenues 'revenue' Rs. 2 lakhs and three lakhs. A last misery. "
+
+"We have the responsibility of all the words we say. Our strategic program is mentioned how Sri Lanka is creating that year. No one can tell anyone today. "
+
+"We started gathering Sri Lankans who love this country and started a journey. We want to give you that change. "
+
+"We have a program to answer the questions of the youths."
+
+...
+
+[Data](articles/a746c023.json)
+
+[Extended Data](ext_articles/a746c023.ext.json)
+
+---
 
 ### We want you to give you that change - Dilith
 
@@ -2567,21 +2597,5 @@ Ranil Wickremesinghe (RW) has been with the Parliament for about 47 years. Witho
 [Data](articles/867a6595.json)
 
 [Extended Data](ext_articles/867a6595.ext.json)
-
----
-
-### Lasting legacy of a unique politician – M. D. Banda
-
-*2024-09-16 23:01:00* · [`islandlk`](http://island.lk/lasting-legacy-of-a-unique-politician-m-d-banda/) · `en`
-
-Fifty years is a long time, enough for most things to fade into obscurity. So, it is truly remarkable that the legacy of the late Mr. M.D. Banda continues to endure, even five decades after his passing on September 18, 1974. In a country where memories are often short-lived, the fact that M.D. Banda’s name is still spoken with respect and admiration is indeed a testament to the profound impact he made on Sri Lanka.
-
-What makes this all the more intriguing is that M.D. Banda was a rare politician, one who actively avoided the limelight and personal glorification. He never put his name on plaques or buildings, nor sought to be immortalized in monuments, despite spearheading countless development projects for the people. His greatness lies not in self-promotion, but in his remarkable deeds.
-
-...
-
-[Data](articles/0705a2c4.json)
-
-[Extended Data](ext_articles/0705a2c4.ext.json)
 
 ---

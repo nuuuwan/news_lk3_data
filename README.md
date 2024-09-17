@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 09:22:38**
+As of **2024-09-17 09:38:19**
 
 ## Newspaper Stats
 
-*Scraped **44,277** Articles*
+*Scraped **44,280** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 377
-bbccomsinhala | 426
+bbccomsinhala | 427
 colombotelegraphcom | 440
 islandlk | 2,611
 economynextcom | 2,685
 dailyftlk | 2,935
-adalk | 4,086
+adalk | 4,087
 dailymirrorlk | 4,733
-adaderanalk | 5,213
+adaderanalk | 5,214
 tamilmirrorlk | 5,776
 virakesarilk | 7,051
 adaderanasinhalalk | 7,581
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,277 (100.0%) of 44,277 articles have been extended.
+44,277 (100.0%) of 44,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### International election observers to meet EC members
+
+*2024-09-17 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102032/international-election-observers-to-meet-ec-members) · `en`
+
+A discussion between international election observers who have arrived in Sri Lanka to monitor the upcoming presidential election and members of the Election Commission of Sri Lanka is scheduled to be held today.
+
+The meeting is scheduled to take place at the Election Commission premises this morning (18). It will also mark the first meeting between the international observers monitoring the presidential poll and members of the Election Commission.
+
+The Asian Network for Free Elections (ANFREL) and the Commonwealth Observer Group (COG) are expected to participate in the discussion.
+
+The international observers are meeting with Election Commission officials today as they are scheduled to visit various districts across the island for election monitoring activities from tomorrow.
+
+Meanwhile, the People’s Action for Free and Fair Elections (PAFFREL) emphasized the importance of maintaining law and order during the final week of the presidential election period.
+
+...
+
+[Data](articles/63241fad.json)
+
+---
 
 ### Dilith instead of the subsidy system
 
@@ -477,6 +497,30 @@ At times, in the Western-mountains of the Central Mountains, the North, North Ce
 [Data](articles/15c5bb1b.json)
 
 [Extended Data](ext_articles/15c5bb1b.ext.json)
+
+---
+
+### සමාජ මාධ්‍යවලට මැතිවරණවලදී ඔබේ මතයට බලපෑම් කළ හැකි ද?
+
+*2024-09-17 03:32:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqjrr40yl7go) · `si`
+
+"මේ දවස්වල හැම ප්ලැට්ෆෝම් එකක ම වගේ වැඩිපුර පේන්නේ ඡන්ද කැම්පේන් තමයි. එක එක පේජස්වල අපේක්ෂකයෝ සම්බන්ධ ප්‍රමෝෂන්ස් යනවා. මඩ ප්‍රචාර යනවා. මෝඩ කතා යනවා. අපි ඒවා හොයන් යන්නේ නැහැ. අපි ලයික් කරලත් නැහැ. හැබැයි නිව්ස්ෆීඩ් එකට නිකම් ම එනවා."
+
+තරුණියන් 6 දෙනෙකුගෙන් සහ තරුණයින් තිදෙනෙකුගෙන් සමන්විත වූ ශ්‍රී ජයවර්ධපුර විශ්වවිද්‍යාලයේ ශිෂ්‍ය කණ්ඩායමක් බීබීසී සිංහල සමග එලෙස පැවසීය.
+
+අප එහි යන විටත් දිවා ආහාරය සඳහා කාලය පැමිණ තිබුණු බැවින් සිසුන් සිටියේ දේශන ශාලාවලින් පිටත ය.
+
+ඔවුන්ගෙන් බහුතරයක් ම සිය 25 වන වියට ආසන්නව සිටි, මෙරට විවිධ ප්‍රදේශවලින් කොළඹට පැමිණ සිටි අය වූහ.
+
+ෆේස්බුක් පමණක් නොව, මෙටා සමාගම සතු ඉන්ස්ටග්‍රෑම් පරිශීලනය කරන ඔවුහු X (මීට පෙර ට්විටර්) සහ ටික්ටොක් ද පරිශීලනය කරන සමාජ මාධ්‍ය තුළ සක්‍රීය කණ්ඩායමක් වූහ.
+
+ඔවුන් සඳහන් කළේ, මෙම මැතිවරණ කාලයේ සමාජ මාධ්‍ය පරිශීලනය කිරීමේදී, විශේෂයෙන් ෆේස්බුක් භාවිතයේදී ඔවුන් දකින සෑම අන්තර්ගතයන් 10කින් 7ක් හෝ 8ක් පමණ දේශපාලනය සම්බන්ධ ඒවා බව ය.
+
+ඒවා විටෙක, දැන්වීමක් (sponsored ad) ලෙස දිස්වන බව ඔවුහු පැවසූහ.
+
+...
+
+[Data](articles/150d738d.json)
 
 ---
 
@@ -1698,6 +1742,22 @@ Similarly, the Minister of Health had invited government officials to hold a mee
 
 ---
 
+### ජනපති හා සජිත් පාරවල් වසා පැවැත්වීමට ගිය රැළි දෙකකට පොලීසිය අවසර නොදෙයි?
+
+*2024-09-16 19:08:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-සජිත්-පාරවල්-වසා-පැවැත්වීමට-ගිය-රැළි-දෙකකට-පොලීසිය-අවසර-නොදෙයි-/11-411970) · `si`
+
+රනිල් වික්‍රමසිංහ මහතාගේ සහ සමගි ජන බලවේගය පක්‍ෂයේ ජනාධිපතිවරණ අවසන් මහා රැළි දෙක කොළඹට ඇතුල් වන ප්‍රධාන මාර්ග දෙකක් වසාදමා පැවැත්වීමට අනුමැතියදීම බස්නාහිර පළාතේ රථවාහන දිසාව බාර නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ලියනගේ මහතා ප්‍රතික්‍ෂෙප කර ඇතැයි වාර්තා වේ.
+
+ජනාධිපතිවරණයේ මෙම අවසන් මහා රැළි දෙක පමණක් නොව ප්‍රධාන මාර්ග වසාදමා ජනාධිපතිවරණ කිසිඳු රැළියක් පැවැත්වීමට අනුමැතියදීම තරයේ ප්‍රතික්‍ෂෙප කරන බවද නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ලියනගේ මහතා කොළම මහ නගර සභාවේ නාගරික කොමසාරිස් භද්‍රානි ජයතිලක මහත්මියට ලිඛිතව දැනුම් දී ඇතැයි වාර්තා වේ.
+
+ජනාධිපතිවරණයේදී පමණක් නොව කිසිඳු අවස්ථාවක ප්‍රධාන මාර්ග වසාදමා දේශපාලන රැළි පැවැත්වීමට අනුමැතියදීම යෝග්‍ය නොවන බව අවධාරණය කර ඇති නියෝජ්‍ය පොලිස්පතිවරයා තම තමන්ගේ දේශපාලන හයිය පෙන්වීමට දේශපාලන පක්‍ෂ දරණ උත්සහයේදී මහජනතාව දැඩි අපහසුතාවයකට පත් වීමට හැකියාව ඇති හෙයින් මේ සඳහා ඉඩදීම යෝග්‍ය නොවන බවද පෙන්වා දී ඇත.
+
+...
+
+[Data](articles/4fd0f181.json)
+
+---
+
 ### Spontaneous appointments in advance of the election
 
 *2024-09-16 18:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-முன்னிட்டு-தன்னிச்சையான-நியமனங்கள்/175-343860) · `ta`
@@ -2261,77 +2321,5 @@ Speaking at a press conference held at a press conference held at a party centra
 [Data](articles/f16288c6.json)
 
 [Extended Data](ext_articles/f16288c6.ext.json)
-
----
-
-### Ministry of Finance announced on foreign debt
-
-*2024-09-16 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201087) · `si`
-
-Sri Lanka Ministry of Finance denies foreign debt repayment claims. Suspension applies only to commercial and bilateral loans. Economic stability relies on foreign loans. Repayment resumption expected to stabilize economy. Multilateral debt restructuring ongoing despite suspension. Government continues credit services with Central Bank, State Bank, and Private Sector. Annual average loan service payments maintained pre-April 2022 levels.
-
-🟩
-
-The Ministry of Finance, Economic Stability and National Policy stated that it is false that Sri Lanka is not repaid in April 2022.
-
-The Ministry of Taxes issued an announcement in April 2022, the suspension of temporary debts in April 2022 is only the relevant commercial loans and official bilateral loans.
-
-It also stated that the economic stabilization of Sri Lanka is now based on foreign loans.
-
-The announcement shows that the economic instability is being rehabilitated when the loan service begins again.
-
-It is also unfortunate that it is a very unfortunate that the use of these factors is the use of such factors, which are used and less assessed and less assessed in the economy.
-
-...
-
-[Data](articles/89039421.json)
-
-[Extended Data](ext_articles/89039421.ext.json)
-
----
-
-### Sajith Premadasa urges people to elect a leader who treats all equally
-
-*2024-09-16 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102021/sajith-premadasa-urges-people-to-elect-a-leader-who-treats-all-equally) · `en`
-
-Sajith Premadasa, the presidential candidate of the Samagi Jana Balawegaya (SJB), emphasized the importance of electing a leader who treats everyone equally, regardless of caste or religion.
-
-He made this statement during a rally held yesterday (15) in the Kaththankudy area.
-
-Drawing a parallel with Malaysia’s thriving tourism industry, Premadasa highlighted the potential for Sri Lanka to strengthen its own tourism sector.
-
-“By taking cues from Malaysia, we can elevate our tourism industry to new heights,” he remarked.
-
-He also pledged to address the housing issues in Kaththankudy by creating housing schemes for families without lands or houses.
-
-Additionally, he also promised to transform all 361 schools in the Batticaloa District into ‘smart schools’ and to upgrade all local hospitals into ‘smart hospitals.’
-
-...
-
-[Data](articles/80d0cd23.json)
-
-[Extended Data](ext_articles/80d0cd23.ext.json)
-
----
-
-### Arrest
-
-*2024-09-16 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193850) · `ta`
-
-SUSPECT ARRESTED: Bogawantalawa police detained a man transporting sand illegally in a tipper truck from Balangoda to Bogawantalawa. Legal action will be pursued at Hatton Magistrate's Court.
-
-🟩
-
-Bogawantalawa police said that a suspect who was carrying sand in a tipper vehicle in a tipper vehicle from Balangoda to Bogawantalawa without permits was arrested on Monday (16).
-
-The suspect has been arrested in a suspicious tipper vehicle near the Bogawantalawa police station.
-
-Bogawantalawa police said that legal action would be taken at the Hatton Magistrate's Court against the arrested suspect.
-
-◼️
-
-[Data](articles/6c192a7b.json)
-
-[Extended Data](ext_articles/6c192a7b.ext.json)
 
 ---

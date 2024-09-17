@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 04:22:24**
+As of **2024-09-18 04:38:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,419 (100.0%) of 44,435 articles have been extended.
+44,425 (100.0%) of 44,435 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ This reassurance follows a letter by President’s Counsel Rienzie Arsecularatne
 
 [Data](articles/84b47c9b.json)
 
+[Extended Data](ext_articles/84b47c9b.ext.json)
+
 ---
 
 ### LTTE founding member Ragavan warns against common Tamil candidate’s rhetoric
@@ -59,6 +61,8 @@ This reassurance follows a letter by President’s Counsel Rienzie Arsecularatne
 ...
 
 [Data](articles/249d7250.json)
+
+[Extended Data](ext_articles/249d7250.ext.json)
 
 ---
 
@@ -73,6 +77,8 @@ The talks, held recently between President Ranil Wickremesinghe with key TNA mem
 ...
 
 [Data](articles/29aeb1d0.json)
+
+[Extended Data](ext_articles/29aeb1d0.ext.json)
 
 ---
 
@@ -91,6 +97,8 @@ He claimed that most people are still undecided on whom to vote for. “Our peop
 ...
 
 [Data](articles/0fd609f3.json)
+
+[Extended Data](ext_articles/0fd609f3.ext.json)
 
 ---
 
@@ -112,6 +120,8 @@ This globally exclusive initiative was launched on the Manthri.lk platform of Ve
 
 [Data](articles/49feeb9c.json)
 
+[Extended Data](ext_articles/49feeb9c.ext.json)
+
 ---
 
 ### International Crisis Group releases report on Sri Lankan elections in aftermath of economic collapse
@@ -127,6 +137,8 @@ The report looks at the political fallout of Sri Lanka’s devastating economic 
 ...
 
 [Data](articles/e1b1e987.json)
+
+[Extended Data](ext_articles/e1b1e987.ext.json)
 
 ---
 

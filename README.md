@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 02:22:30**
+As of **2024-09-18 02:38:08**
 
 ## Newspaper Stats
 
-*Scraped **44,413** Articles*
+*Scraped **44,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 428
 colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,688
-dailyftlk | 2,944
+dailyftlk | 2,945
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,411 (100.0%) of 44,413 articles have been extended.
+44,412 (100.0%) of 44,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### National Single Window: Game-changer for Sri Lanka’s trading community
+
+*2024-09-18 02:14:51* · [`dailyftlk`](https://www.ft.lk/opinion/National-Single-Window-Game-changer-for-Sri-Lanka-s-trading-community/14-766816) · `en`
+
+The success stories from other nations provide compelling evidence of the NSW’s potential, and Sri Lanka must now seize this lagging behind opportunity to accelerate its own implementation
+
+The National Single Window (NSW) is an integrated digital platform designed to streamline international trade by allowing parties involved in trade and transport to submit standardised information and documents through a single entry point. This concept, supported by international organisations such as the World Trade Organization (WTO) and the World Customs Organization (WCO), aims to simplify and harmonise the flow of information between traders and government authorities.
+
+...
+
+[Data](articles/574938b7.json)
+
+[Extended Data](ext_articles/574938b7.ext.json)
+
+---
 
 ### Sri Lanka’s next leader: can make or break the nation
 
@@ -2483,27 +2499,5 @@ Wetnam, Vietnam, Thailand, Thailand and Via Thailand has been killed and over 50
 [Data](articles/950404b6.json)
 
 [Extended Data](ext_articles/950404b6.ext.json)
-
----
-
-### Police warn against circulating misleading videos on social media
-
-*2024-09-17 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102034/police-warn-against-circulating-misleading-videos-on-social-media) · `en`
-
-Sri Lanka Police says that video footage related to past incidents that had occurred at various times in various parts of the country are once again being circulated on social media these days from time to time.
-
-Issuing a statement, the Police Media Spokesperson’s Office stated that videos such as those showing certain vehicles traveling towards the Katunayake Airport being searched by various individuals and videos taken during curfews imposed in the past are currently being reshared.
-
-Police warned that the recirculation of such videos on social media can spread misinformation.
-
-Police stated that sharing these videos on social media, while falsely presenting them as recent events, is misleading the public and directly obstructs the maintaining of public order and law in the country.
-
-Therefore, the police have requested the public to refrain from posting and spreading such videos on social media.
-
-...
-
-[Data](articles/413fbbb3.json)
-
-[Extended Data](ext_articles/413fbbb3.ext.json)
 
 ---

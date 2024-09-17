@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 18:58:12**
+As of **2024-09-17 19:09:58**
 
 ## Newspaper Stats
 
-*Scraped **44,364** Articles*
+*Scraped **44,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,113 @@ dailyftlk | 2,935
 adalk | 4,095
 dailymirrorlk | 4,733
 adaderanalk | 5,225
-tamilmirrorlk | 5,792
+tamilmirrorlk | 5,794
 virakesarilk | 7,079
-adaderanasinhalalk | 7,599
+adaderanasinhalalk | 7,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,363 (100.0%) of 44,364 articles have been extended.
+44,367 (100.0%) of 44,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### நுவரெலியாவில் விசித்திர பிரச்சாரம்
+### The massive factory to assivery vehicle assembly opens in Kuliyapitiya
+
+*2024-09-17 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201124) · `si`
+
+New vehicle assembly plant opens in Kuliyapitiya. Cost: Rs 27 billion. First product: 15-seater bus. Creates jobs and offers vocational training.
+
+🟩
+
+Kuliyapitiya Western Automobern Autobile Limited (WA) Modern Vehicle Assembling Factory at President Ranil Wickremesinghe was opened today (17).
+
+The largest vehicles of South Asia, Western Automobile Assweebly spent on the factory, the factory, has spent Rs 27 million for the factory.
+
+A passenger van of 15, a 15 seats of the factory will be released to the market at the end of this month.
+
+The factory consists of the highest level international machinery created by the global auto specialists, the FDI will create many direct and indirect employment opportunities for the youth.
+
+It also provides an international vocational training institute in accordance with global industry needs, and the youth of the country will allow the opportunity to raise foreign employment.
+
+President Ranil Wickremesinghe has unveiled the plaque to the modern vehicle assembly factory at Western Automobile Assembly (WAA) this afternoon.
+
+◼️
+
+[Data](articles/de30e802.json)
+
+[Extended Data](ext_articles/de30e802.ext.json)
+
+---
+
+### Will only be offer to those who are needed
+
+*2024-09-17 18:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவைப்படுபவர்களுக்கு-மட்டும்-சலுகை-வழங்கப்படும்/175-343918) · `ta`
+
+Sajith Premadasa promises fuel benefits to farmers, fishermen, drivers, and essential workers. Support will go only to those who need it, rejecting offers to the wealthy. Emphasizes importance for economy and food security.
+
+🟩
+
+Speaking at the rally, United People's Power Presidential candidate Sajith Premadasa promised to provide fuel privileges to farmers, fishermen, three -wheeler drivers and essential workers such as school van/bus operators.
+
+He emphasized that this support will be given only to those who need this support, rejecting offers to the rich citizens.
+
+Premadasa explained the importance of these groups to maintain the country's economy and ensure food security.
+
+◼️
+
+[Data](articles/f7a0411b.json)
+
+[Extended Data](ext_articles/f7a0411b.ext.json)
+
+---
+
+### Priority to Buddhism - 13 amendment is not in effect
+
+*2024-09-17 18:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்தத்திற்கு-முன்னுரிமை-13-திருத்தம்-அமுலாகாது/175-343917) · `ta`
+
+National People's Power promises to prioritize Buddhism in Sri Lanka's constitution. They vow to maintain Article 9 giving Buddhism top status. The 13th Amendment will remain unchanged, with no police or land powers granted to provincial councils. This stance aims to preserve national unity, sovereignty, and security.
+
+🟩
+
+The National People's Power has promised that the government of the future national power will not change the 9th article of the Constitution that the Republic of Sri Lanka will give Buddhism a first place for Buddhism.
+
+NPP MP Vijitha Herath made this promise during a meeting organized by the All Ceylon Buddhist Congress (ACBC) to discuss the pledge of Buddhism, Buddhism, Sinhala culture and the sovereignty of the country.
+
+He said that a NPP government would maintain and uphold the 9th article of the Constitution while a NPP government would maintain the country's unity, sovereignty and national security, and promised that the JVP had played a major role for it.
+
+He said that the 13th Amendment will be implemented only in the current form and the NPP will not grant police and land powers to the provincial councils.
+
+"We have the idea that the 13th Amendment is not a national issue or a solution to provincial development," he added.
+
+◼️
+
+[Data](articles/745559f8.json)
+
+[Extended Data](ext_articles/745559f8.ext.json)
+
+---
+
+### Fairytale campaign in Nuwara Eliya
 
 *2024-09-17 18:33:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-விசித்திர-பிரச்சாரம்/175-343916) · `ta`
 
-நுவரெலியா பகுதியில் ஜனாதிபதி வேட்பாளரின் படம் மற்றும் தேர்தல் சின்னம் இருபுறமும் அடங்கிய தீப்பெட்டிகளை விநியோகித்த குழு ஒன்று தொடர்பில் PAFFREL க்கு தகவல் கிடைத்துள்ளது.
+Nuwara Eliya fairytale campaign controversy: Pafrel reports distribution of fireplaces as election symbols. District Assistant Elections Commissioner notified.
 
-இந்த விடயம் தொடர்பில் நுவரெலியா மாவட்ட உதவி தேர்தல்கள் ஆணையாளருக்கு அறிவித்துள்ளதாக பெஃப்ரல் அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+🟩
+
+Pafrel has received information on a panel that distributed fireplaces on both sides of the presidential candidate and the election symbol in Nuwara Eliya.
+
+The Executive Director of the Pephral Organization Rohana Hettiarachchi said that the Nuwara Eliya District Assistant Elections Commissioner has been informed about this issue.
 
 ◼️
 
 [Data](articles/26d21dc9.json)
+
+[Extended Data](ext_articles/26d21dc9.ext.json)
 
 ---
 
@@ -2473,95 +2555,5 @@ However, the amount was increased to Rs.
 [Data](articles/25b34a95.json)
 
 [Extended Data](ext_articles/25b34a95.ext.json)
-
----
-
-### Buddhism Poya today is today
-
-*2024-09-17 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201098) · `si`
-
-Buddhist Poya today marks significant events: opening of bhikkhuni order, joining 500 women, Buddha's bowl construction, beginning of fourth monastic group. Religious programs planned in temples and sacred sites. Live broadcasts from Sri Sudarshanarama Viharaya.
-
-🟩
-
-This date is known as a number of important cases in the history of the Sasana, including the opening of the bhikkhuni zasana.
-
-The history of the Sasana states that this Pooh day took place to join the Sasatuna with 500 women, giving birth to women.
-
-The Pohowaila has said that the construction of the Thapasu, the bowls and bowls deposit of the Buddha's dollars.
-
-The fourth group of Buddhist monks begins today as the intermediate pote to be held in a Poya Day today.
-
-A number of religious programs have been organized preparing for the Aminate Temples and Policy Sacrials in the countryside on the panarasekatha.
-
-Meanwhile, the Binara Porana is a lively broadcast with Ada Derana 24 hours of news channel, Opanayaka Akarawa, a lively broadcast, is scheduled to be held from the Sri Sudarshanarama Viharaya.
-
-◼️
-
-[Data](articles/e8df409e.json)
-
-[Extended Data](ext_articles/e8df409e.ext.json)
-
----
-
-### Several closure today
-
-*2024-09-17 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201097) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Weather alert: Closures possible in Kandy, Nuwara Eliya, Galle, Matara due to rain. Showers/thunderstorms expected in Eastern/Uva provinces. Strong winds forecasted in Central/North/Western provinces.
-
-🟩
-
-The Department of Meteorology says that several closes in the Western, Sabaragamuwa and North Western provinces can occur in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The announcement issued by the department states that showers or night thundershowers will occur at night in the Eastern and Uva provinces.
-
-At times, in the Western-mountains of the Central Mountains, the North, North Central and North Western provinces, Hambantota, Moneragala and Trincomalee districts.. (40-45) can cause strong winds.
-
-◼️
-
-[Data](articles/15c5bb1b.json)
-
-[Extended Data](ext_articles/15c5bb1b.ext.json)
-
----
-
-### Can politicians be "burnoT"? Is it a condition that should hide it?
-
-*2024-09-17 06:06:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2y2zxppp2o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Politicians can experience burnout like any profession. It's not something to hide. Burnout is a long-term stress condition affecting mental and physical health. Experts suggest changing lifestyles and seeking help when needed. Some high-profile politicians have stepped down due to burnout concerns.
-
-🟩
-
-Can politicians be "burnoT"? Is it a condition that should hide it?
-
-This time some candidates to become overly excessive exhausting tipple during presidential propaganda, and some candiates, and some candentation, and some candentally attended significant attention to social media spaces.
-
-Psychologists point out that the 'burnoT' can become 'burnort' in a uniform work. This situation applies to any profession.
-
-There is also an illustration of politicians in the world politics.
-
-Specialist psychiatric, psychiatric, says it is possible to be burned by working hard.
-
-He pointed out that there is a possibility of this disease, not only for politicians but also a job person.
-
-"This is a condition. Anyone can make. So this does not need to hide this. "Dr. Rumi has said," Dr. Rumi has said.
-
-The World Health Organization says that 'burn-out is a disease due to the long-term stresses in the unable to manage success.
-
-...
-
-[Data](articles/ba21dbf3.json)
-
-[Extended Data](ext_articles/ba21dbf3.ext.json)
 
 ---

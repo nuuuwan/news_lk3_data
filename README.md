@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 21:22:20**
+As of **2024-09-17 21:38:14**
 
 ## Newspaper Stats
 
-*Scraped **44,387** Articles*
+*Scraped **44,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 2,688
 dailyftlk | 2,935
 adalk | 4,098
 dailymirrorlk | 4,733
-adaderanalk | 5,227
+adaderanalk | 5,228
 tamilmirrorlk | 5,797
-virakesarilk | 7,086
+virakesarilk | 7,088
 adaderanasinhalalk | 7,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,387 (100.0%) of 44,387 articles have been extended.
+44,388 (100.0%) of 44,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Vehicle assembly plant declared open in Kuliyapitiya; first vehicle to enter market by month-end
+
+*2024-09-17 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102046/vehicle-assembly-plant-declared-open-in-kuliyapitiya-first-vehicle-to-enter-market-by-month-end) · `en`
+
+President Ranil Wickremesinghe today (17) inaugurated the Western Automobile Assembly Private Limited (WAA) vehicle assembly plant in Kuliyapitiya, marking a significant milestone in the country’s automotive industry.
+
+This $27 million facility is now the largest vehicle assembly plant in South Asia, according to the President’s Media Division.
+
+The first vehicle to be assembled at the factory, a 15-seater passenger van, is expected to enter the market by the end of the month. The factory, equipped with cutting-edge machinery designed by global automotive experts, will generate both direct and indirect employment opportunities for local youth, the PMD said.
+
+In line with international industry standards, the facility also houses a vocational training institute, offering young people the chance to gain skills that will qualify them for overseas job opportunities.
+
+...
+
+[Data](articles/493a3788.json)
+
+[Extended Data](ext_articles/493a3788.ext.json)
+
+---
 
 ### You and I become similar citizens in this country - Dilith
 
@@ -83,6 +103,40 @@ Meanwhile, Ranil can be held to ensure the victory of the independent presidenti
 [Data](articles/1b9f88ce.json)
 
 [Extended Data](ext_articles/1b9f88ce.ext.json)
+
+---
+
+### திடீரென வெடித்துச்சிதறிய ஹெஸ்புல்லா அமைப்பின் உறுப்பினர்களின் பேஜர்கள் - நூற்றுக்கும் மேற்பட்டவர்கள்  காயம்-
+
+*2024-09-17 20:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/193965) · `ta`
+
+தொலைத்தொடர்பு சாதனங்கள் திடீரென வெடித்துச்சிதறியதில் லெபனானின் ஹெஸ்புல்லா அமைப்பின் நூற்றுக்கும் மேற்பட்ட உறுப்பினர்கள் காயமடைந்துள்ளனர்.
+
+பெய்ரூட்டின் தென்பகுதியில் உள்ள புறநகர் பகுதிகளிலும் லெபானின் ஏனைய பகுதிகளிலும் இந்த வெடிப்பு சம்பவங்கள் இடம்பெற்றுள்ளன.
+
+காயமடைந்தவர்கள் தரையில் அமர்ந்திருப்பதையும் ஏனையவர்கள் மருத்துவமனைக்கு அழைத்து செல்லப்படுவதையும் காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
+
+◼️
+
+[Data](articles/d83cbfe3.json)
+
+---
+
+### சட்டவிரோத மதுபான கடத்தலில் ஈடுபட்டவர் கைது !
+
+*2024-09-17 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/193960) · `ta`
+
+பமுனுகம பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் மோட்டார் சைக்கிளில் சட்டவிரோத மதுபானத்தை கடத்திச் சென்ற சந்தேக நபர்  ஒருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பமுனுகம பொலிஸாருக்கு கிடைக்கப் பெற்ற தகவலுக்கமைய மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் ஜா - எல பகுதியைச் சேர்ந்த 45 வயதுடையவராவார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 67 லீற்றர்  500 மில்லி லீற்றர்  சட்டவிரோத மதுபானம் மற்றும் மதுபான கடத்தலுக்கு பயன்படுத்தப்பட்ட மோட்டார் சைக்கிள் என்பன கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/f1d9e113.json)
 
 ---
 
@@ -2495,75 +2549,5 @@ Presidential candidate Anura Kumara Dissanayake says that the electricity tariff
 [Data](articles/a45bd7ec.json)
 
 [Extended Data](ext_articles/a45bd7ec.ext.json)
-
----
-
-### Legal action if they share videos of the Arakalai struggle - police alert
-
-*2024-09-17 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193893) · `ta`
-
-Legal action against sharing Arakalai struggle videos, especially violent content for political gain. Police warns against misleading public and threatening national security through false information.
-
-🟩
-
-Legal action will be taken against those who share videos of the 2022 Arakalai struggle, especially in the event of an abuse of violence for political gains, the Police Department said.
-
-Police said that videos of various parts of the country have been reclaimed on social media, including vehicle inspections carried out near the Katunayake airport and the vitality of the curfew on May 9, 2022.
-
-Police said the videos of the past events are being misled and misleading the public and disrupting the law and order.
-
-In addition, legal action will be taken against those who record false information to threaten national security, police said.
-
-◼️
-
-[Data](articles/f75ee5c2.json)
-
-[Extended Data](ext_articles/f75ee5c2.ext.json)
-
----
-
-### Increase in prices of large onions
-
-*2024-09-17 09:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காயத்தின்-விலை-அதிகரிப்பு/175-343880) · `ta`
-
-Large onion prices surge to Rs 260-280/kg due to increased imports, affecting local markets.
-
-🟩
-
-Currently, large onions are sold in the market for Rs 260 to 280 per kg.
-
-Market sources said that the import of big onion imports is responsible for the increase.. Remble
-
-◼️
-
-[Data](articles/e98ddddb.json)
-
-[Extended Data](ext_articles/e98ddddb.ext.json)
-
----
-
-### Firing in Samanthurai: One killed
-
-*2024-09-17 09:24:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்மாந்துறையில்-துப்பாக்கி-சூடு-ஒருவர்-பலி/175-343879) · `ta`
-
-Samanthurai firing: one dead, police investigating. Brother arrested, motive unclear. Incident occurred during presidential election season.
-
-🟩
-
-The death of a young family member in the house of the Samanthurai police division has taken place.
-
-Pakir Muzhadeen Rojan, father of a 28-year-old child from a 28-year-old child from the West 2, 28, from the West West-2 area of ​​the 71A-Mall 15-Street Plog West-2, has died in a firing between brothers in a suburb of Samanthurai police division of the Ampara district.
-
-The firing took place on Monday (16) at around 10.45 pm and the initial investigation revealed that the rifle rifle was used for the massacre.
-
-Samanthurai police have arrested the brother of the suspect who allegedly fired a shooter in connection with the incident and is conducting further investigations.
-
-Further investigations are being carried out by the police whether the shooting has been carried out due to hostility among the brothers or the contradiction of the upcoming presidential election.
-
-◼️
-
-[Data](articles/54220c38.json)
-
-[Extended Data](ext_articles/54220c38.ext.json)
 
 ---

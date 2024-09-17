@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 13:38:58**
+As of **2024-09-17 13:58:04**
 
 ## Newspaper Stats
 
-*Scraped **44,320** Articles*
+*Scraped **44,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,60 +17,130 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,090
 dailymirrorlk | 4,733
-adaderanalk | 5,218
+adaderanalk | 5,219
 tamilmirrorlk | 5,786
 virakesarilk | 7,065
-adaderanasinhalalk | 7,588
+adaderanasinhalalk | 7,589
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,312 (100.0%) of 44,320 articles have been extended.
+44,322 (100.0%) of 44,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### புவிசார் அரசியல் போட்டியில் எந்தவொரு சக்திக்கும் அடிபணியமாட்டோம் - அனுரகுமார
+### The decision taken about the controversial scholarship paper
+
+*2024-09-17 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201113) · `si`
+
+Commissioner removes 3 questions from Year 5 scholarship exam due to complaints. Investigation team leaves tomorrow to review and remove controversial content. Decision aims to address concerns raised about the exam format.
+
+🟩
+
+The Commissioner General of Examinations has decided to remove three questions after a formal test, which has led to the controversial question of the Year 5 scholarship examination last Sunday.
+
+In a query, he said that the decision was taken by a similar decision on complaints that a similar scheme was made to the first sheet of scholarship examination.
+
+According to the Commissioner General of Examinations, a team of question paper will be leaving the area tomorrow (18) and then remove the controversial controversy after a formal investigation.
+
+◼️
+
+[Data](articles/fa7b203f.json)
+
+[Extended Data](ext_articles/fa7b203f.ext.json)
+
+---
+
+### Anura Kumara warns of possible conspiracies ahead of polls
+
+*2024-09-17 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102038/anura-kumara-warns-of-possible-conspiracies-ahead-of-polls) · `en`
+
+Presidential candidate of the National People’s Power (NPP), Anura Kumara Dissanayake, has warned of the possibility of attempts by certain elements to engage in conspiracies in the next couple of days, ahead of the country’s presidential election.
+
+He revealed this while speaking during Ada Derana’s special “Derana 360°” program series for the presidential candidates, which was aired on TV Derana yesterday (16).
+
+“Definitely our aim in this election campaign was to gain power. We are able to win.” He stated that they have nothing new planned for the next two days and that their expectation is to present their facts again and again, as well as to present facts to society regarding the “criticisms and possible conspiracies against us from the side of the government and Sajith’s camp.”
+
+...
+
+[Data](articles/3028e275.json)
+
+[Extended Data](ext_articles/3028e275.ext.json)
+
+---
+
+### We will not submit to any power in geo -political competition - Anuragumara
 
 *2024-09-17 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193922) · `ta`
 
-புவிசார் அரசியல் போட்டியில் எந்தவொரு சக்திக்கும் அடிபணியமாட்டோம் என தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அனுரகுமாரதிசநாயக்க தெரிவித்துள்ளார்
+Here's a summary of the key points in approximately 200 characters:
 
-நமது கடல் நிலம் மற்றும் வான்வெளி ஆகியவை இந்தியாவையோ அல்லது பிராந்திய ஸ்திரத்தன்மையையோ அச்சுறுத்தும் வகையில் பயன்படுத்தப்படாமல் இருப்பதை உறுதி செய்வோம்என அவர் தெரிவித்துள்ளார்
 
-பதில்- இதுஇலங்கையின் வரலாற்றில் மிக முக்கியமானதொரு தேர்தல்.ஒவ்வொரு தேர்தலிலும் அதிகாரம் ஆளும் ஒரு தரப்பிலிருந்து மற்றைய தரப்பின் கரங்களிற்கு செல்லும்.
 
-ஆனால் கடந்த இரண்டு மூன்று தசாப்தங்களாக  அவை கிட்டத்தட்ட பிரித்தறிய முடியாத அளவிற்கு ஒன்றிணைந்துள்ளன.
+Sri Lanka's National People's Power presidential candidate Anuragumara emphasizes:
 
-இதன் காரணமாக 1994 முதல் அரசாங்கங்கள் மாறியுள்ள போதிலும்,பலதனிநபர்கள் அமைச்சு பதவிகளில் நீடிக்கின்றனர்.
 
-ஆகவே  எங்கள் நாட்டின் அரசியல் சமூக பொருளாதார பாதையை மீளவடிவமைப்பதற்கு புதிய பாதையில் செலுத்துவதற்கு தனித்துவமான வாய்ப்பை வழங்குவதால் இந்த தேர்தல் மிகவும் முக்கியமானது.
 
-இந்த தேர்தல் ஒளிமயமான எதிர்காலம் என்ற வாக்குறுதியுடன் அரசாங்கத்தை மக்களிற்கு நெருக்கமாக கொண்டுவருகின்றது.
+1. Rejecting geopolitical competition
+
+2. Ensuring seas, lands, and airspaces aren't used against India or regional stability
+
+3. Promising economic development and public welfare
+
+4. Commitment to sovereignty and foreign policy aligned with national interests
+
+🟩
+
+National People's Power Presidential candidate
+
+We will ensure that our sea land and airspace is not used to threaten India or regional stability
+
+Answer- This is one of the most important elections in the history of Sri Lanka.
+
+But for the past two to three decades, they have been united in a nearly indistinguishable.
+
+Due to this, governments have changed since 1994, but the multi -faceted ministry has remained in the posts of ministry.
+
+Therefore, this election is very important because it gives a unique opportunity to pay the new path to repair the political and socio -economic path of our country.
+
+The election is bringing the government close to the people with the promise of a bright future.
+
+Although we have put forward these goals before, we have the power to make a meaningful change.
+
+Power exchange will be carried out by the public movement rooted in the welfare of the people by departing from the traditional cycles of power
 
 ...
 
 [Data](articles/97281146.json)
 
+[Extended Data](ext_articles/97281146.ext.json)
+
 ---
 
-### தேர்தல் விதிமுறை மீறல்கள் குறித்து அறிவிக்க விசேட தொலைபேசி இலக்கங்கள் அறிமுகம்
+### Introduction of Special Telephone Number to announce violations of election rule
 
 *2024-09-17 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/193920) · `ta`
 
-தேர்தல் விதிமுறை மீறல்கள் மற்றும் மோதல்கள் குறித்து முறைப்பாடு செய்ய விசேட தொலைபேசி இலக்கங்களை தேர்தல்கள் சிக்கல்களை தீர்க்கும் பிரிவு அறிமுகப்படுத்தியுள்ளது.
+Sri Lanka Election Commission introduces special phone numbers for reporting election violations. Public encouraged to use these lines to report illegal activities during voting process. Aimed at ensuring fair and independent presidential election on January 21st. Contact General Elections Secretariat in Rajagiriya for more details.
 
-இந்த தொலைபேசி இலக்கங்கள் அறிமுகமானது, எதிர்வரும் 21ஆம் திகதி நடைபெறவுள்ள இலங்கையின் ஒன்பதாவது ஜனாதிபதி தேர்தலை சுதந்திரமானதும் மற்றும் நியாயமானதுமான தேர்தலாக  நடத்துவதற்கான சூழலை உருவாக்குவதை நோக்கமாகக் கொண்டுள்ளன.
+🟩
 
-இதன்மூலம், வாக்குப்பதிவின் போது இடம்பெறும் சட்டவிரோத செயற்பாடுகள் குறித்து பொதுமக்கள் முறைப்பாடு அளிக்க முடியும்.
+The Election Problems Division has introduced special telephone numbers to complain about election violations and conflicts.
 
-அதற்கிணங்க,  இராஜகிரியவில் உள்ள பொதுத் தேர்தல்கள் செயலகத்தில் ஸ்தாபிக்கப்பட்டுள்ள விசேட பிரிவை தொடர்பு கொள்ளுமாறு ஆணைக்குழு பொதுமக்களை கேட்டுக்கொண்டுள்ளது.
+These telephone numbers are aimed at creating an environment for Sri Lanka's ninth presidential election to be held on the 21st of this month as an independent and fair election.
+
+Thereby, the public can file a complaint about the illegal activities that are taking place during the voting.
+
+Accordingly, the Commission has asked the public to contact the Special Division established at the General Elections Secretariat in Rajagiriya.
 
 ◼️
 
 [Data](articles/95f18045.json)
+
+[Extended Data](ext_articles/95f18045.ext.json)
 
 ---
 
@@ -148,25 +218,37 @@ The suspect has revealed that the suspect was transported as KPI as KPIs in the 
 
 ---
 
-### 200 ஆவது தேர்தல் கண்காணிப்பு பணிகளில் பொதுநலவாய தேர்தல் கண்காணிப்பாளர்கள் குழு
+### Commonwealth Election Inspectors Committee on 200th Election Monitoring
 
 *2024-09-17 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193913) · `ta`
 
-எதிர்வரும் 21ஆம் திகதி நடைபெறவுள்ள இலங்கையின் ஒன்பதாவது ஜனாதிபதி தேர்தல் நடவடிக்கைகளை கண்காணிப்பதற்காக பொதுநலவாய தேர்தல் கண்காணிப்பாளர்கள் குழு (COG) நாட்டிற்கு வருகை  தந்துள்ளது.
+Here's a 200-character summary:
 
-இது பொதுநலவாய தேர்தல் கண்காணிப்பாளர்கள் குழுவின் 200 ஆவது தேர்தல் கண்காணிப்பு பணி ஆகும்.
 
-ஜனாதிபதி தேர்தல் நடவடிக்கைகளை கண்காணிப்பதற்காக  தேர்தல் ஆணைக்குழுவின்  அழைப்பை ஏற்று பொதுநலவாய பொதுச்செயலாளரால் நியமிக்கப்பட்ட  15 பேர் கொண்ட குழு நாட்டுக்கு வருகை தந்துள்ளது.
 
-இந்த குழுவின் தலைவர் சிசெல்ஸ் நாட்டின் முன்னாள் ஜனாதிபதி டேனி பாரே  ஊடக அறிக்கையில் தெரிவித்துள்ளதாவது,
+Commonwealth Election Inspectors Committee monitors 9th Sri Lankan presidential election. This is their 200th monitoring mission. They assess pre-election, voting day, and post-election periods. The committee evaluates voting procedures, counts results, and interacts with civil society, political parties, and police.
 
-பொதுநலவாய அமைப்பின் 200 ஆவது தேர்தல் கண்காணிப்பு நடவடிக்கைகளில் ஈடுப்பட இலங்கைக்கு வருகை தந்துள்ளமை எண்ணி பெரும் மகிழ்ச்சியடைகின்றோம்.
+🟩
 
-மேலும், பொதுநலவாய அமைப்பின் முழு தேர்தல் சுழற்சி அணுகுமுறையின் ஒரு பகுதியாக, உறுப்பு நாடுகளுடனான அதன் ஈடுபாட்டில், ஜனநாயக நிறுவனங்கள் மற்றும் செயல்முறைகளை வலுப்படுத்த உதவுவதற்கும், தேர்தல்களின் போது பொதுமக்கள் பங்கேற்பு மற்றும் பிரதிநிதித்துவத்தை செயல்படுத்துவதற்கும் நாங்கள் இங்கு வருகை தந்துள்ளோம்.
+The Commonwealth Elections Committee (COG) has visited the country to monitor the ninth presidential election of Sri Lanka on the 21st of this month.
+
+This is the 200th election monitoring work of the Commonwealth Elections Superintendent's Committee.
+
+A 15 -member committee appointed by the Commonwealth Secretary has visited the country to accept the invitation of the Election Commission to monitor the presidential election.
+
+The group's president, Danny Bare, said in a media statement.
+
+We are delighted that Sri Lanka has visited Sri Lanka to compensate for the 200th election monitoring of the Commonwealth Organization.
+
+Moreover, as part of the entire election cycle approach of the Commonwealth, we have visited here to help strengthen democratic institutions and processes in its involvement with member states and to implement the public participation and representation during elections.
+
+Our team has also monitored the postal vote held on the 11th and 12th.
 
 ...
 
 [Data](articles/82abb507.json)
+
+[Extended Data](ext_articles/82abb507.ext.json)
 
 ---
 
@@ -190,21 +272,27 @@ He stated that this opportunity will be available for the voters until the date 
 
 ---
 
-### சக ஊழியர்களுடன் ஏற்பட்ட முரண்பாட்டில் பொல்லால் தாக்கப்பட்டு ஒருவர் கொலை ; 05 பேர் கைது
+### Murder of a man who was attacked in conflict with colleagues;05 arrested
 
 *2024-09-17 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193894) · `ta`
 
-பிபில பொலிஸ் பிரிவிற்குட்பட்ட ஹாமாபொல பிரதேசத்தில் சக ஊழியர்களால் பொல்லால் தாக்கப்பட்டு ஒருவர் கொலை செய்யப்பட்டுள்ளதாக பிபில பொலிஸார் தெரிவித்துள்ளனர்.
+Man killed by colleagues in sand quarry dispute. Five suspects arrested. Police investigating.
 
-கொலை செய்யப்பட்டவர் ஹாமாபொல பிரதேசத்தில் உள்ள மணல் குவாரி ஒன்றில் பணிபுரிந்து வந்துள்ள நிலையில் கடந்த ஞாயிற்றுக்கிழமை (15) இரவு தனது சக ஊழியர்களுடன் முரண்பாட்டில் ஈடுபட்டுள்ளார்.
+🟩
 
-கொலை செய்யப்பட்டவரது சடலம் பிரேத பரிசோதனைக்காக பிபில வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், கொலையுடன் தொடர்புடைய ஐந்து  சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Bibila police said that a man was assassinated by colleagues in Hamapola area, which belongs to the Bibila police division.
 
-இந்த சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை பிபில பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+The murderer was working in a sand quarry in Hamapola area last Sunday night with his colleagues.
+
+The body of the murderer has been placed in the funeral room of the Bibila hospital for autopsy and five suspects have been arrested in connection with the murder, police said.
+
+Bibila police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/cea1438b.json)
+
+[Extended Data](ext_articles/cea1438b.ext.json)
 
 ---
 
@@ -256,17 +344,23 @@ Therefore, the police have requested the public to refrain from posting and spre
 
 ---
 
-### ஹிரிகட்டு ஓயாவில் முழ்கி இளைஞன் உயிரிழப்பு!
+### Hirikattu Oya
 
 *2024-09-17 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/193910) · `ta`
 
-சமனலவெவ பொலிஸ் பிரிவிற்குட்பட்ட ஹிரிகட்டு ஓயாவில் நீராடிக்கொண்டிருந்த இளைஞன் ஒருவன் நீரில் முழ்கி உயிரிழந்துள்ளதாக சமனலவெவ பொலிஸார் தெரிவித்துள்ளனர்.
+Young swimmer dies in Hirikattu Oya. Body sent to Balangoda Hospital for autopsy. Samanalawewa police investigating incident.
 
-உயிரிழந்த இளைஞனின் சடலம் பலாங்கொடை வைத்தியசாலையில் பிரேத பரிசோதனைக்காக வைக்கப்பட்டுள்ளதுடன், இது தொடர்பாக மேலதிக விசாரணைகளை சமனலவெவ பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+🟩
+
+Samanalawewa police said that a young man who was swimming in the Hirikattu Oya, which belongs to the Samanalawewa police division, died in the water.
+
+The body of the deceased youth has been placed at the Balangoda Hospital for autopsy and further investigations are being carried out by the Samanalawewa police.
 
 ◼️
 
 [Data](articles/549e4dec.json)
+
+[Extended Data](ext_articles/549e4dec.ext.json)
 
 ---
 
@@ -368,43 +462,59 @@ The victim was admitted to the Nawalapitiya Hospital and the suspect has been ar
 
 ---
 
-### அரசியலில் அறிமுகமாகும் தளபதி விஜய்க்கு குட்டிக்கதை மூலம் அறிவுரை சொல்வாரா சுப்பர் ஸ்டார்...!!?
+### Super Star will be advised by Commander Vijay to be introduced in politics ... !!?
 
 *2024-09-17 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/193908) · `ta`
 
-சுப்பர் ஸ்டார் ரஜினிகாந்த் திரைப்படங்களில் நடிப்பதுடன் மட்டுமல்லாமல் அவர் பங்கு பற்றும் விழாக்களையும் இணையத்தில் வைரலாகும் இணையற்ற ஆற்றல் படைத்தவர்.
+Rajinikanth enters politics under Commander Vijay's guidance. Film music launch on October 10th. Tamil, Telugu, Malayalam, Kannada, Hindi releases.
 
-அதிலும் அவர் திரைப்பட விழா தொடர்பான நிகழ்வுகளில் பங்கு பற்றி நிகழ்த்தும் உரையில் இடம்பெறும் 'குட்டிக்கதை' அனைத்து தரப்பு ரசிகர்களிடையே பிரபலமானது.
+🟩
 
-இயக்குநர் த. செ. ஞானவேல் இயக்கத்தில் உருவாகி இருக்கும் 'வேட்டையன்' எனும் திரைப்படத்தில் சுப்பர் ஸ்டார் ரஜினிகாந்த், பொலிவுட் சுப்பர் ஸ்டார் அமிதாப்பச்சன், ரானா டகுபதி, பகத் ஃபாஸில், மஞ்சு வாரியர், ரித்திகா சிங், துஷாரா விஜயன், ரோகிணி, ராவ் ரமேஷ், ரமேஷ் திலக் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+Super Star Rajinikanth is not only acting in films, but he is also a unparalleled powerful man.
 
-எஸ். ஆர். கதிர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் ரவிச்சந்தர் இசையமைத்திருக்கிறார்.
+He is also popular among all the fans of the 'Kuttikkadam' in his speech on the film -related events.
 
-எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் சுபாஷ்கரன் தயாரித்திருக்கிறார்.
+Director The. Cm. Super Star Rajinikanth, Bollywood Super Star Star Amitabh Bachchan, Rana Dagupati, Bhagat Fossil, Manju Warrior, Ritika Singh, Dushara Vijayan, Rohini, Rao Ramesh, Ramesh Tilak.
+
+S.. R. Anirudh Ravichander has composed the film, which has been recorded by Kadir.
+
+The film is being produced as an exercise entertainer and produced by famous producer Subhashkaran on behalf of Leica Productions.
+
+The music launch of the film, which will be released at the film House in Tamil, Telugu, Malayalam, Kannada and Hindi on the 10th of October.
 
 ...
 
 [Data](articles/9b37f74c.json)
 
+[Extended Data](ext_articles/9b37f74c.ext.json)
+
 ---
 
-### நைஜீரியாவில் வெள்ளம் : சிறைச்சாலை சுவர் இடிந்து வீழ்ந்ததில் 200க்கும் மேற்பட்ட கைதிகள் தப்பியோட்டம்
+### Flood in Nigeria: More than 200 prisoners flee
 
 *2024-09-17 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/193901) · `ta`
 
-நைஜீரியாவின் போர்னோ மாநிலத்தில் ஏற்பட்ட  கடும் வெள்ளத்தால் சிறைச்சாலை சுவர் இடிந்து வீழ்ந்jதில் குறைந்தது 274 கைதிகள் தப்பிச் சென்றுள்ளதாக அந்நாட்டு சீர்திருத்த சேவை தெரிவித்துள்ளது.
+Nigeria prison collapse floods 274 escapees 1000 deaths 640,000 displaced
 
-அத்தோடு, மேற்கு மற்றும் மத்திய ஆபிரிக்கா முழுவதும் 1,000 க்கும் மேற்பட்டோர் உயிரிழந்துள்ளனர்.
+🟩
 
-சிறைச்சாலைக்குள் வெள்ளம் சூழ்ந்ததால் கைதிகளை  பாதுக்காப்பான இடத்திற்கு மாற்றும் போது  281 கைதிகள் தப்பிச் சென்றுள்ளனர். அவர்களில்  7 பேர் மீட்கப்பட்டுள்ளதாக நைஜீரிய சீர்திருத்த சேவையின் செய்தித் தொடர்பாளர் அபுபக்கர் உமர் தெரிவித்துள்ளார்.
+At least 274 prisoners have fled the country when the prison wall collapsed due to flooding in Nigeria's Borno state, according to a reform service.
 
-வெள்ளத்தால் நடுத்தர பாதுகாப்பு காவலர் மையம் (எம்.எஸ்.சி.சி) மற்றும் நகரத்திலுள்ள பணியாளர்கள் குடியிருப்பு உள்ளட்டங்களாக  சிறைச்சாலையின் சுவர்கள் இடிந்து வீழ்ந்துள்ளதாக அவர் தெரிவித்துள்ளார்.
+More than 1,000 people have died across the western and central Africa.
 
-இந்நிலையில், சிறைச்சாலையில் இருந்து  தப்பியோடியவர்களின் அடையாளங்கள், அவர்களின் விபரங்கள் உள்ளிட்டவை பொது மக்களுக்கு வழங்கப்பட்டுள்ளது. அத்தோடு, கைதிகளை தேடும் பணி தொடர்ந்து நடைபெற்று வருகிறது என்றார்.
+281 inmates have escaped when the prison is flooded due to flooding in prison. Abubakar Umar, a spokesman for the Nigerian Reform Service, said that seven of them have been recovered.
 
-...
+He said that the walls of the prison have been demolished as a flood middle security guards center (MSCC) and the city's staff in residence.
+
+In this case, the identities and details of those who fled the prison have been given to the public.. He said the search for the prisoners is ongoing.
+
+269 ​​people have been killed and 640,000 displaced in the floods in the past few weeks across Nigeria.
+
+◼️
 
 [Data](articles/79af43aa.json)
+
+[Extended Data](ext_articles/79af43aa.ext.json)
 
 ---
 
@@ -436,21 +546,33 @@ The Executive Director of the February Organization Rohana Hettiarachchi has cal
 
 ---
 
-### கஷ்டப்பட்டு பெற்ற வெற்றியைப் பாதுகாக்க செப்டம்பர் 21 ஆம் திகதி எரிவாயு சிலிண்டருக்கு வாக்களியுங்கள் - ஜனாதிபதி தெரிவிப்பு
+### Vote for the gas cylinder on September 21 to protect the hard victory - President
 
 *2024-09-17 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193905) · `ta`
 
-கஷ்டப்பட்டு அடைந்த வெற்றியைப் பாதுகாக்கும் வகையில் எதிர்வரும் செப்டெம்பர் 21ஆம் திகதி எரிவாயு சிலிண்டருக்காக வாக்களிக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க மக்களிடம் கோரியுள்ளார்.
+Here's a 200-character summary:
 
-அரசாங்கம் ஏற்கனவே அமுல்படுத்திய வேலைத் திட்டத்திற்கே சர்வதேச நாணய நிதியத்தின் ஆதரவு இருப்பதாகத் தெரிவித்த ஜனாதிபதி, மக்களுக்கு பொய்யான வாக்குறுதிகளை வழங்கும் சஜித்துக்கோ அல்லது அநுராவுக்கோ நாட்டை முன்னேற்றுவதற்கான வேலைத் திட்டம் இல்லை எனவும் தெரிவித்தார்.
 
-வெல்லவாயயில் நேற்று திங்கட்கிழமை (16) பிற்பகல் நடைபெற்ற 'ரணிலால் இயலும்' வெற்றிப் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் வகையில் ஏற்பாடு செய்யப்பட்டிருந்த இந்த பேரணியில் பெருமளவான மக்கள் கலந்துகொண்டனர்.
+President Ranil Wickremesinghe urges voters to choose the gas cylinder symbol on Sept 21 to maintain economic stability and development. He criticizes opponents for lack of plans and promises free services.
+
+🟩
+
+President Ranil Wickremesinghe has asked the people to vote for the gas cylinder on September 21 to protect the hardship.
+
+The President said that the government has the support of the International Monetary Fund, which has already implemented the government, and that there is no program to improve the country to the country or to make false promises to the people.
+
+President Ranil Wickremesinghe made this statement while addressing the 'Ranilal' Victory rally held in Wellawaya yesterday (16) afternoon.
+
+A large number of people participated in the rally, which was organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election.
+
+“When the industry is developed, an investment zone will be formed in the Wellawaya area.. In addition, we are going to implement a comprehensive development program in Moneragala. We are asking for a decree to carry out these programs.
 
 ...
 
 [Data](articles/21b0114e.json)
+
+[Extended Data](ext_articles/21b0114e.ext.json)
 
 ---
 
@@ -804,29 +926,9 @@ Presidential candidate Anura Kumara Dissanayake says that the electricity tariff
 
 ---
 
-### Increase in prices of large onions
-
-*2024-09-17 09:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காயத்தின்-விலை-அதிகரிப்பு/175-343880) · `ta`
-
-Large onion prices surge to Rs 260-280/kg due to increased imports, affecting local markets.
-
-🟩
-
-Currently, large onions are sold in the market for Rs 260 to 280 per kg.
-
-Market sources said that the import of big onion imports is responsible for the increase.. Remble
-
-◼️
-
-[Data](articles/e98ddddb.json)
-
-[Extended Data](ext_articles/e98ddddb.ext.json)
-
----
-
 ### Legal action if they share videos of the Arakalai struggle - police alert
 
-*2024-09-17 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193893) · `ta`
+*2024-09-17 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193893) · `ta`
 
 Legal action against sharing Arakalai struggle videos, especially violent content for political gain. Police warns against misleading public and threatening national security through false information.
 
@@ -845,6 +947,26 @@ In addition, legal action will be taken against those who record false informati
 [Data](articles/f75ee5c2.json)
 
 [Extended Data](ext_articles/f75ee5c2.ext.json)
+
+---
+
+### Increase in prices of large onions
+
+*2024-09-17 09:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காயத்தின்-விலை-அதிகரிப்பு/175-343880) · `ta`
+
+Large onion prices surge to Rs 260-280/kg due to increased imports, affecting local markets.
+
+🟩
+
+Currently, large onions are sold in the market for Rs 260 to 280 per kg.
+
+Market sources said that the import of big onion imports is responsible for the increase.. Remble
+
+◼️
+
+[Data](articles/e98ddddb.json)
+
+[Extended Data](ext_articles/e98ddddb.ext.json)
 
 ---
 
@@ -2389,37 +2511,5 @@ He said: “We are here as part of the Commonwealth’s full electoral cycle app
 [Data](articles/0f261fde.json)
 
 [Extended Data](ext_articles/0f261fde.ext.json)
-
----
-
-### Fiscal considerations of proposed adjustments to public sector salary structure
-
-*2024-09-16 21:58:12* · [`dailyftlk`](https://www.ft.lk/opinion/Fiscal-considerations-of-proposed-adjustments-to-public-sector-salary-structure/14-766763) · `en`
-
-Given the fact that public sector pay was already relatively low, public servants felt a great deal of pain like many others in society
-
-Given the various views, including numerous misconceptions, expressed in print, broadcast and social media in the recent past on public sector wages, the Finance, Economic Stabilisation and National Policies Ministry issued the following statement to correct the position on these matters in the context of responsible management of the Government fiscal operations amidst the ongoing deep, complex and unprecedented economic crisis since 2022.
-
-What happened to public sector wages during the economic crisis?
-
-...
-
-[Data](articles/b4378369.json)
-
-[Extended Data](ext_articles/b4378369.ext.json)
-
----
-
-### Sri Lanka Elections: Change Or More Of The Same?
-
-*2024-09-16 21:55:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-elections-change-or-more-of-the-same/) · `en`
-
-According to a Facebook report compiled by two Sri Lankans, Ranil Wickremesinghe and Opposition Leader Sajith Premadasa have spent extensively on ads on Meta. Each has disbursed around Rs 32 million so far. Anura Kumara Dissanayake comes third at Rs 7.1 million, after Wijeyadasa Rajapakshe at Rs 8.6 million. Namal Rajapaksa comes seventh at Rs 665,000, after Dilith Jayaweera, who has spent Rs 1.6 million.
-
-...
-
-[Data](articles/87ea40c5.json)
-
-[Extended Data](ext_articles/87ea40c5.ext.json)
 
 ---

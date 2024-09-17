@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 17:59:04**
+As of **2024-09-17 18:19:11**
 
 ## Newspaper Stats
 
-*Scraped **44,357** Articles*
+*Scraped **44,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,095
 dailymirrorlk | 4,733
-adaderanalk | 5,222
-tamilmirrorlk | 5,789
+adaderanalk | 5,223
+tamilmirrorlk | 5,791
 virakesarilk | 7,079
 adaderanasinhalalk | 7,598
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 7,598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,357 (100.0%) of 44,357 articles have been extended.
+44,360 (100.0%) of 44,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Ranil met Charles Nirmalanathan
+
+*2024-09-17 17:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாள்ஸ்-நிர்மலநாதனை-சந்தித்தார்-ரணில்/175-343913) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Ranil Wickremesinghe met MP Charles Nirmalanathan in Mannar. Local TNA members and public figures supported him. Discussion with youth and local council members followed.
+
+🟩
+
+President Ranil Wickremesinghe, who visited the election campaign in Mannar district, met Parliamentarian Charles Nirmalanathan at his residence on Tuesday (17).
+
+During this time, the members of the Mannar TNA and the representatives of the public organizations, together with the public, expressed their support to President Ranil Wickremesinghe.
+
+At the same time, there was a discussion with the youth team and local council members of the Mannar Branch of the TNA.
+
+Parliamentarian Charles Nirmalanathan said that this was a meeting with Member of Parliament Salnirmalanathan in the wake of the meeting.
+
+◼️
+
+[Data](articles/ad8f6060.json)
+
+[Extended Data](ext_articles/ad8f6060.ext.json)
+
+---
+
+### Dilini Kumari tops the beauty pageant
+
+*2024-09-17 17:30:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அழகிப்-போட்டியில்-திலினி-குமாரிக்கு-முதலிடம்/76-343912) · `ta`
+
+Sri Lanka's Dilini Kumari wins Miss International - 2024 in Bali, Indonesia. She arrived at Katunayake airport after her victory. Dilini is from Kandy and also works as an actress and anchor.
+
+🟩
+
+Thilini Kumari, who was ranked first in the Miss International - 2024 International Competition held in Indonesia, arrived at the Katunayake airport on Monday (16).
+
+The tournament was held from 09/09 to 09/16, attended by aesthetics from 20 countries in Bali, Indonesia.
+
+Dilini, who won the match, arrived at the Katunayake airport on the Sri Lankan Airlines flight from Jakarta, Indonesia.
+
+It is noteworthy that she is a resident of Prematalawa, Kandy and is showing her talent in many fields as an actress and anchor.
+
+◼️
+
+[Data](articles/f30ddf8a.json)
+
+[Extended Data](ext_articles/f30ddf8a.ext.json)
+
+---
 
 ### Prohibit election campaigns
 
@@ -167,6 +219,30 @@ Scenes of crime officers (SOCOs) of the Nugegoda Police Division and officers of
 [Data](articles/0966d8ef.json)
 
 [Extended Data](ext_articles/0966d8ef.ext.json)
+
+---
+
+### An electoral organiser of SLFP murdered in Panagoda
+
+*2024-09-17 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102041/an-electoral-organiser-of-slfp-murdered-in-panagoda) · `en`
+
+An individual who had reportedly served as the Sri Lanka Freedom Party’s (SLFP) chief organiser for the Hiniduma Electorate in Galle District has been assaulted and murdered at his residence in Panagoda, Homagama.
+
+Meegoda Police said that while the victim was at his home in Samagi Mawatha, Panagoda today (17), an individual who arrived in a three-wheeler had hit him on the head with a club. He had later died after being admitted to the Homagama Base Hospital with serious injuries.
+
+The deceased is a businessman identified as Sampath Gamage, a resident of Panagoda in Homagama.
+
+The suspect who committed the murder is yet to be identified while investigations are ongoing.
+
+According to reports, the deceased had served as the SLFP’s chief organiser for the Hiniduma electorate.
+
+Scenes of crime officers (SOCOs) of the Nugegoda Police Division and officers of the Meegoda Police Crimes Unit have arrived at the scene of the incident and are conducting investigations.
+
+◼️
+
+[Data](articles/7f5a52d3.json)
+
+[Extended Data](ext_articles/7f5a52d3.ext.json)
 
 ---
 
@@ -2589,85 +2665,5 @@ If the floods come here we will come. But have those who come in white red vehic
 [Data](articles/08b1196d.json)
 
 [Extended Data](ext_articles/08b1196d.ext.json)
-
----
-
-### Arrest
-
-*2024-09-17 02:18:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையானை-கைது-செய்யவேண்டும்/175-343872) · `ta`
-
-Summarized: Calls for arrests of key figures involved in Easter bombings and other crimes. Promises to address Tamil issues and complete unfinished projects from previous administration.
-
-🟩
-
-It was urged to arrest the main mastermind of the Easter bomb attack and to the arrest of justice and establish justice, and the killers like Pillaiyan should be arrested.
-
-He was speaking at a meeting held at his office in Kaluwanchikudi on Sunday (15) under the leadership of the Sri Lanka Tamil National Alliance (TNA) parliamentarian of the Batticaloa district.
-
-Member of Parliament. In the Batticaloa district, especially Mayilaththamadu Madhavan, the solution to the farmer issue and the killers like Pillaiyan should be arrested.
-
-He also said that such poisons should be arrested for the removal of a solution to the Ampara Kalmunai North Divisional Secretariat, land thieves associated with the excavation of Vaharai and the illegal sand smuggling gang.
-
-United People's Party's presidential candidate Sajith Premadasa has promised that the permanent political solution for the Tamils ​​in the North and East and all the demands made by such killers and Chanakyan will be established in their rule.
-
-...
-
-[Data](articles/3df5c950.json)
-
-[Extended Data](ext_articles/3df5c950.ext.json)
-
----
-
-### The President has always acted for the election, not for the election - Kokila Gunawardena
-
-*2024-09-17 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193885) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Parliamentarian Kokila Gunawardena defends President Ranil Wickremesinghe, saying he works for the people, not politics. She warns against returning to 2022 economic crisis if opposition wins.
-
-🟩
-
-Parliamentarian Kokila Gunawardena said that President Ranil Wickremesinghe had always worked for the people of the country and that he would not take political decisions if the country was to be brought to a better level.
-
-He further stated that Vijitha Herath warned that "Planti" under the government of the compass and tolerate suffering, and that if the compass wins, it is clear that the country will return to the position of the country in 2022.
-
-Parliamentarian Kokila Gunawardena, who was present at a media briefing held today (16) at the Political Office of President Ranil Wickremesinghe, located on Flower Road, Colombo.
-
-He urged the people not to vote for the country, which is economically stable today, and pointed out that if the programs launched by President Ranil Wickremesinghe are to be implemented, he should be given a clear success on September 21.
-
-President Ranil Wickremesinghe does not bring the country to this level easily. For that time, he had to make serious decisions.
-
-...
-
-[Data](articles/e21cd4b9.json)
-
-[Extended Data](ext_articles/e21cd4b9.ext.json)
-
----
-
-### Ranil's rule is not recovered
-
-*2024-09-17 02:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-ஆட்சியில்-மீட்சி-ஏற்படாது/175-343871) · `ta`
-
-Ranil Wickremesinghe's rule not restored; Sajith Premadasa wins nationwide. Rishad Bathiudeen criticizes Ranil-Rajapakse alliance, accuses them of looting resources and suppressing minorities. Claims massive corruption under Ranil's cabinet. Sajith Premadasa leads in polls, especially in North and East. Urges voters to support Sajith without wasting votes.
-
-🟩
-
-Sajith Premadasa's victory is all over the country. All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen said that this is based on the experience of being involved in campaigns.
-
-Speaking at a campaign meeting on Sunday (15) in Manipay in support of United People's Alliance leader Sajith Premadasa, he said.
-
-“Those who have partnered with Ranil Wickremesinghe are looting the country. Along with former President Gotabhaya Rajapakse, they were the ones who looted the country's resources. Unleash racism and suppressed communities. The religious beliefs were first placed by our religious beliefs.
-
-The biggest corruption in history featured in Ranil's Cabinet. President Ranil Wickremesinghe, who ruled the rest of Gotabhaya Rajapaksa's period, protects the corrupt people. Thus, the Sinhalese people are opposed to Ranil Wickremesinghe. Ranil is in third place. Sajith Premadasa's victory in the first place is engaged.
-
-...
-
-[Data](articles/be00a1cc.json)
-
-[Extended Data](ext_articles/be00a1cc.ext.json)
 
 ---

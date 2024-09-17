@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 01:07:35**
+As of **2024-09-18 01:22:38**
 
 ## Newspaper Stats
 
-*Scraped **44,403** Articles*
+*Scraped **44,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 428
 colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,688
-dailyftlk | 2,935
+dailyftlk | 2,938
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
@@ -26,9 +26,59 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,403 (100.0%) of 44,403 articles have been extended.
+44,405 (100.0%) of 44,406 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-18 (Wednesday)
+
+### Tribute to Late Anthony A. Page
+
+*2024-09-18 00:56:57* · [`dailyftlk`](https://www.ft.lk/columns/Tribute-to-Late-Anthony-A-Page/4-766807) · `en`
+
+I first met Anthony A. Page, fondly known as Baba, in early 1992 while conducting an audit of the Ceylon Theatres Group. At the time, I was working as an article clerk at KPMG Ford Rhodes Thornton & Company. During our initial meeting, where he interviewed me for a position within his Group, I was struck by his gentle and humble demeanour. Our conversation revolved around the importance of family, and he shared the story of his father, late Albert Page, who came from Manipay, Jaffna to Colombo, eventually succeeding in business. Little did I realise that this conversation will lay the foundation for a lasting professional and personal relationship.
+
+...
+
+[Data](articles/5e37838f.json)
+
+[Extended Data](ext_articles/5e37838f.ext.json)
+
+---
+
+### Sri Lanka at crucial crossroads
+
+*2024-09-18 00:54:25* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-at-crucial-crossroads/4-766806) · `en`
+
+On 21 September, 17.1 million voters have the power to elect the next President – Pic by Shehan Gunasekara
+
+It is 75 years since we gained our Independence from the British. Our rulers since then, have not made the progress that we are entitled to enjoy as citizens of Sri Lanka.
+
+...
+
+[Data](articles/979d1c4d.json)
+
+[Extended Data](ext_articles/979d1c4d.ext.json)
+
+---
+
+### Renaissance or degeneration
+
+*2024-09-18 00:48:42* · [`dailyftlk`](https://www.ft.lk/opinion/Renaissance-or-degeneration/14-766805) · `en`
+
+Sri Lanka’s economy showing signs of recovery, driven by industrial and service sector growth in 2024
+
+Supporters rally during a key political campaign ahead of Sri Lanka’s pivotal Presidential election
+
+This election season has witnessed an unprecedented amount of fake narratives, disinformation, and rhetoric without any substance. The entire period of 76 years since gaining independence is a curse or misery is the prime narrative driven by extremist/leftist outfits without any basis
+
+The Presidential Election on 21 September could be the most important election for us Sri Lankans in our lifetimes. The outcome of the election could decide the very survival of our nation.
+
+...
+
+[Data](articles/c72baf87.json)
+
+---
 
 ### 2024-09-17 (Tuesday)
 
@@ -2491,91 +2541,5 @@ The music launch of the film, which will be released at the film House in Tamil,
 [Data](articles/9b37f74c.json)
 
 [Extended Data](ext_articles/9b37f74c.ext.json)
-
----
-
-### Flood in Nigeria: More than 200 prisoners flee
-
-*2024-09-17 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/193901) · `ta`
-
-Nigeria prison collapse floods 274 escapees 1000 deaths 640,000 displaced
-
-🟩
-
-At least 274 prisoners have fled the country when the prison wall collapsed due to flooding in Nigeria's Borno state, according to a reform service.
-
-More than 1,000 people have died across the western and central Africa.
-
-281 inmates have escaped when the prison is flooded due to flooding in prison. Abubakar Umar, a spokesman for the Nigerian Reform Service, said that seven of them have been recovered.
-
-He said that the walls of the prison have been demolished as a flood middle security guards center (MSCC) and the city's staff in residence.
-
-In this case, the identities and details of those who fled the prison have been given to the public.. He said the search for the prisoners is ongoing.
-
-269 ​​people have been killed and 640,000 displaced in the floods in the past few weeks across Nigeria.
-
-◼️
-
-[Data](articles/79af43aa.json)
-
-[Extended Data](ext_articles/79af43aa.ext.json)
-
----
-
-### International Election Monitoring Committee - Election Commission members meet
-
-*2024-09-17 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193906) · `ta`
-
-International Election Monitoring Committee meets Election Commission ahead of Sri Lanka's presidential election. Asian Network and Commonwealth Elections Committee join discussion. Monitors visit districts tomorrow. PEFREL emphasizes law enforcement. Public urged to ignore fake news.
-
-🟩
-
-The International Election Monitoring Committee, which will visit the country to monitor the ninth presidential election of Sri Lanka on the 21st of this month, will be held on Tuesday (17).
-
-This is the first meeting between the International Monitoring Committee and the members of the Election Commission to monitor the presidential election.
-
-The Asian Network for Independent Elections and the Commonwealth Elections Committee (COG) is expected to participate in the discussion.
-
-International monitors will meet with the Election Commission officials today as they will visit various districts across the country for election monitoring tomorrow.
-
-Meanwhile, the PEFREL has emphasized the importance of maintaining law and order during the final week of the presidential election.
-
-The Executive Director of the February Organization Rohana Hettiarachchi has called for the public not to be worried about some of the fake news and rumors shared.
-
-◼️
-
-[Data](articles/23862032.json)
-
-[Extended Data](ext_articles/23862032.ext.json)
-
----
-
-### Vote for the gas cylinder on September 21 to protect the hard victory - President
-
-*2024-09-17 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193905) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Ranil Wickremesinghe urges voters to choose the gas cylinder symbol on Sept 21 to maintain economic stability and development. He criticizes opponents for lack of plans and promises free services.
-
-🟩
-
-President Ranil Wickremesinghe has asked the people to vote for the gas cylinder on September 21 to protect the hardship.
-
-The President said that the government has the support of the International Monetary Fund, which has already implemented the government, and that there is no program to improve the country to the country or to make false promises to the people.
-
-President Ranil Wickremesinghe made this statement while addressing the 'Ranilal' Victory rally held in Wellawaya yesterday (16) afternoon.
-
-A large number of people participated in the rally, which was organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election.
-
-“When the industry is developed, an investment zone will be formed in the Wellawaya area.. In addition, we are going to implement a comprehensive development program in Moneragala. We are asking for a decree to carry out these programs.
-
-...
-
-[Data](articles/21b0114e.json)
-
-[Extended Data](ext_articles/21b0114e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 16:10:45**
+As of **2024-09-17 16:22:30**
 
 ## Newspaper Stats
 
-*Scraped **44,340** Articles*
+*Scraped **44,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 4,093
 dailymirrorlk | 4,733
 adaderanalk | 5,220
 tamilmirrorlk | 5,788
-virakesarilk | 7,071
+virakesarilk | 7,079
 adaderanasinhalalk | 7,594
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,340 (100.0%) of 44,340 articles have been extended.
+44,344 (100.0%) of 44,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### World Patient Safety Day today
+
+*2024-09-17 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193931) · `ta`
+
+World Patient Safety Day: A global event highlighting patient safety awareness. It emphasizes collective efforts from patients, families, healthcare professionals, and leaders to ensure safe medical practices and outcomes.
+
+🟩
+
+The day is appointed to consider that patients, families, caregivers, communities, health workers and health care leaders should show their dedication to the safety of the patients.
+
+◼️
+
+[Data](articles/b35dc5a5.json)
+
+[Extended Data](ext_articles/b35dc5a5.ext.json)
+
+---
 
 ### We want you to give you that change - Dilith
 
@@ -59,6 +77,132 @@ The exmongering candidate Dilith Jayaweera stated that the opportunity to make t
 [Data](articles/a746c023.json)
 
 [Extended Data](ext_articles/a746c023.ext.json)
+
+---
+
+### Nayanthara - Sundar. C Mukkuthi Amman 2 '
+
+*2024-09-17 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193940) · `ta`
+
+"Mukkuthi Amman 2": Sundar C directs Nayanthara-starrer sequel. Film set to begin shooting soon, produced by Wales Film International and Rowdy Pictures. Anticipated release following success of "Palace 4".
+
+🟩
+
+Dr. Isari K.. Ganesh's film 'Mukkuthi Amman 2' is 'Commercial King' Sundar. It has been officially announced that C will be operating.
+
+Director and actor Sundar. The film 'Palace 4', which was released on summer vacation this year, grossed over a billion rupees in Indian value.
+
+Following this, director Sundar. 'Mukkuthi Amman 2' is being directed by C's 'Mukkuthi Amman 2'.
+
+The film crew has said that the shooting of the film is set to begin soon at Socio and Spiritual Janener than the first part of the film 'Mukkuthi Amman'.
+
+The film is also being produced by Wales Film International, Rowdy Pictures, Awni Cine Max Private Limited, P4 UM Motion Pictures and IV Y Entertainment.
+
+Sundar is a sense of conflict between evil and evil and the power of the film, as it is beyond imagination and offers a new experience to fans in the film mansion.. There has been great anticipation for the movie 'Mukkuthi Amman 2', which will be formed in the C -Nayanthara alliance.
+
+◼️
+
+[Data](articles/10343b0f.json)
+
+[Extended Data](ext_articles/10343b0f.ext.json)
+
+---
+
+### Sasikala Raviraj with President Ranil and Mawa's son
+
+*2024-09-17 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/193943) · `ta`
+
+Sasikala Raviraj, widow of TNA MP, met President Ranil Wickremesinghe with her son Kala Amudan during Jaffna election campaign. They discussed Northern Province development programs.
+
+🟩
+
+Sasikala, the wife of the late parliamentary member of the Tamil National Alliance (TNA), Sasikala and Mawai Senathirajah's son, Kala Amudan, met with President Ranil Wickremesinghe during the Jaffna election campaign and discussed the Northern Province Development Programs.
+
+◼️
+
+[Data](articles/a90c9331.json)
+
+[Extended Data](ext_articles/a90c9331.ext.json)
+
+---
+
+### We need a country that lives in fear of the ruler of the people - Anura Kumara Dissanayake
+
+*2024-09-17 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193923) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Anura Kumara Dissanayake calls for change in governance, criticizing current rulers who allegedly bribe voters. He promises a government focused on people's needs, addressing issues like housing, education, and drug control. Dissanayake emphasizes the rights of Tamil citizens and plans to boost tourism in Nuwara Eliya.
+
+🟩
+
+How did the rulers of this country get votes so far?They eat, drink, and get the votes. Especially the votes of the plantation people. They get votes.Should we not change this?Should these hill people live as slaves?Do you want to live in fear?Do the people of Hanguranketha should live in fear of SP?The National People's Power Presidential candidate Anura Kumara Dissanayake said that the people of the hill country have been afraid of the Thondamparam.
+
+We need a country that is not afraid of the people's ruler. We now need the government that thinks of the people and rules their expectations.We need to build free people. So we will make a good decision on September 21st. Now the people of the entire country are ready to make that decision.
+
+...
+
+[Data](articles/2788cb11.json)
+
+[Extended Data](ext_articles/2788cb11.ext.json)
+
+---
+
+### இசை வெளியீட்டு விழாவை கலகலப்பாக்கிய விஜய் அண்டனி
+
+*2024-09-17 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193938) · `ta`
+
+விஜய் அண்டனி கதையின் நாயகனாக நடித்து எதிர்வரும் 27 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் 'ஹிட்லர்' எனும் திரைப்படத்தின் இசை வெளியீடு சென்னையில் பிரம்மாண்டமாக நடைபெற்றது.
+
+இந்நிகழ்வில் பங்கு பற்றிய படத்தின் நாயகனான விஜய் அண்டனி மேடை ஏறிய பிறகு கௌதம் வாசுதேவ் மேனன், படத்தின் நாயகியான ரியா சுமன், படத்தில் ஒரே ஒரு பாடலுக்கு நடனமாடி இருக்கும் நடிகை ஐஸ்வர்யா தத்தா மற்றும் இந்நிகழ்ச்சியை தொகுத்து வழங்கிய தொகுப்பாளினி ஆகியோரை மேடையில் வைத்துக் கொண்டு தான் ஒரு காதல் காட்சியில் நடிப்பதற்கான ஒத்திகையை காதலை ரசிகர்கள் விரும்பும் வகையில் வித்தியாசமாக இயக்கம் கௌதம் வாசுதேவ் மேனன் முன்னிலையில் மேற்கொண்டார்.
+
+இயக்குநர் எஸ். ஏ. தனா இயக்கத்தில் உருவாகி இருக்கும் இந்த 'ஹிட்லர்' எனும் திரைப்படத்தில் விஜய் அண்டனி, ரியா சுமன், கௌதம் வாசுதேவ் மேனன், விவேக் பிரசன்னா, ஐஸ்வர்யா தத்தா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+விவேக் , மெர்வின் இசை அமைத்திருக்கும் இந்த படத்தில் இடம்பெறும் பாடல்கள் அனைத்தும் ரசிக்கும் வகையில் இருப்பதால் ரசிகர்களை கவர்ந்தது.
+
+...
+
+[Data](articles/5279538f.json)
+
+---
+
+### சத்யராஜ் நடிக்கும் 'ஜீப்ரா' படத்தின் மோஷன் போஸ்டர் வெளியீடு
+
+*2024-09-17 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193936) · `ta`
+
+'புரட்சித் தமிழன்' சத்யராஜ் ,டாலி தனஞ்செயா ,சத்யதேவ்,  என தமிழ், தெலுங்கு, கன்னட திரையுலகின் முன்னணி நட்சத்திர நடிகர்கள் ஒன்றிணைந்து நடித்திருக்கும் 'ஜீப்ரா' எனும் திரைப்படத்தின் மோசன் போஸ்டர் வெளியிடப்பட்டிருக்கிறது.
+
+அத்துடன் இந்த திரைப்படம் தீபாவளி திருநாளன்று பட மாளிகையில் வெளியாகும் என அறிவிக்கப்பட்டிருக்கிறது.
+
+இயக்குநர் ஈஸ்வர் கார்த்திக் இயக்கத்தில் உருவாகி இருக்கும் 'ஜீப்ரா' எனும் திரைப்படத்தில் சத்யராஜ், டாலி தனஞ்செயா, சத்யதேவ், பிரியா பவானி சங்கர், சுனில், சத்யா, ஜெனிபர் பிசினாடோ, சுரேஷ் மேனன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+நிதி குற்றத்தை மையப்படுத்தி திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஓல்ட் டவுன் பிக்சர்ஸ் மற்றும் பத்மஜா பிலிம்ஸ் இந்தியா பிரைவேட் லிமிடெட் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் எஸ். என். ரெட்டி , எஸ். பத்மஜா , பாலசுந்தரம் , தினேஷ் சுந்தரம் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+இந்தத் திரைப்படத்தின் வெளியீடு குறித்த அறிவிப்பை பிரத்யேக காணொலி மூலம் படக்குழுவினர் வெளியிட்டிருக்கிறார்கள்.
+
+...
+
+[Data](articles/7eff3a59.json)
+
+---
+
+### வாக்கு மோசடியில் ஈடுபடுவோருக்கு அபராதம் விதிக்கப்படும் - தேர்தல் ஆணைக்குழு
+
+*2024-09-17 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193925) · `ta`
+
+வாக்கு மோசடியில் ஈடுபடுவோருக்கு 2 இலட்சம் ரூபாய் அபராதம் விதிக்கப்படும் என தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+வாக்கு மோசடியில் ஈடுபடுவோருக்கு 500 ரூபாய் அபராதம் விதிக்கப்படும் என அறிவிக்கப்பட்டிருந்த நிலையில் தற்போது அந்த தொகை 2 இலட்சம் ரூபாவாக அதிகரிக்கப்பட்டுள்ளது.
+
+இந்தக் குற்றச்சாட்டில் குற்றவாளிகள் என நிரூபிக்கப்படும் நபர்களுக்கு ஓராண்டுக்கு குறையாத காலம் சிறைத்தண்டனை விதிக்கப்படும் எனவும் ஆணைக்குழு குறிப்பிட்டுள்ளது.
+
+2023 ஆம் ஆண்டு 23 ஆம் இலக்க தேர்தல் விசேட ஏற்பாடுகள் சட்டத்தின் கீழ் உரிய சட்டங்களை கடுமையாக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தேர்தல் ஆணைக்குழு மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b5621575.json)
 
 ---
 
@@ -109,6 +253,26 @@ Tests will be held at Galle International Cricket Stadium and the first match be
 [Data](articles/341e7927.json)
 
 [Extended Data](ext_articles/341e7927.ext.json)
+
+---
+
+### நாளையதினம் அரச வைத்திய அதிகாரிகள் சங்கம் பணிப்பகிஷ்கரிப்பு
+
+*2024-09-17 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193939) · `ta`
+
+நாடளாவிய ரீதியிலுள்ள வைத்தியசாலைகளை இலக்கு வைத்து நாளை புதன்கிழமை (18) தொழிற்சங்க நடவடிக்கையை முன்னெடுக்கவுள்ளதாக அரச வைத்திய அதிகாரிகள் சங்கம் அறிவித்துள்ளது.
+
+அதன்படி, நாளைய தினம் காலை 8.00 மணி முதல் பணிப்பகிஷ்கரிப்பை ஆரம்பிக்கவுள்ளதாகவும், இதனால் வைத்திய சிகிச்சை அளிப்பதில் இடையூறு ஏற்படலாம் என  அரச வைத்திய அதிகாரிகள் சங்கத்தின் ஊடக பேச்சாளர்  கலாநிதி சமில் விஜேசிங்க தெரிவித்துள்ளார்.
+
+அரச வைத்திய அதிகாரிகள் சங்கத்தின் ஊவா மாகாண இணைப்பாளரும், உதவி செயலாளர் வைத்தியர் பாலித ராஜபக்ஷவுக்கு எதிராக சுகாதார அமைச்சு முன்னெடுக்கும்  ஒழுக்காற்று நடவடிக்கைக்கு எதிர்ப்பு தெரிவித்தே இந்த பணிபகிஷ்கரிப்பை முன்னெடுக்கவுள்ளனர்.
+
+இந்த சம்பவம் தொடர்பில் மீள் பரீசிலணை செய்வதற்கு சுகாதார அமைச்சுக்கு 14 நாள் கால அவகாசத்தை அரச வைத்திய அதிகாரிகள் சங்கம் வழங்கும்.
+
+அதற்கு சாதாகமான பதில் கிடைக்காவிடின் மாத இறுதியில் நடைபெறும் மத்திய குழுக் கூட்டத்தைத் தொடர்ந்து அடுத்தகட்ட நடவடிக்கை எடுக்கப்படும் எனக் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/ae9eca0e.json)
 
 ---
 
@@ -324,6 +488,30 @@ There were many alms of acquisition programs organized by the Sri Dalada Maligaw
 
 ---
 
+### Introduction of Special Telephone Number to announce violations of election rule
+
+*2024-09-17 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/193920) · `ta`
+
+Sri Lanka Election Commission introduces special phone numbers for reporting election violations. Public encouraged to use these lines to report illegal activities during voting process. Aimed at ensuring fair and independent presidential election on January 21st. Contact General Elections Secretariat in Rajagiriya for more details.
+
+🟩
+
+The Election Problems Division has introduced special telephone numbers to complain about election violations and conflicts.
+
+These telephone numbers are aimed at creating an environment for Sri Lanka's ninth presidential election to be held on the 21st of this month as an independent and fair election.
+
+Thereby, the public can file a complaint about the illegal activities that are taking place during the voting.
+
+Accordingly, the Commission has asked the public to contact the Special Division established at the General Elections Secretariat in Rajagiriya.
+
+◼️
+
+[Data](articles/95f18045.json)
+
+[Extended Data](ext_articles/95f18045.ext.json)
+
+---
+
 ### GMOA strike tomorrow
 
 *2024-09-17 13:40:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/GMOA-நாளை-வேலைநிறுத்தம்/175-343895) · `ta`
@@ -533,30 +721,6 @@ Power exchange will be carried out by the public movement rooted in the welfare 
 [Data](articles/97281146.json)
 
 [Extended Data](ext_articles/97281146.ext.json)
-
----
-
-### Introduction of Special Telephone Number to announce violations of election rule
-
-*2024-09-17 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/193920) · `ta`
-
-Sri Lanka Election Commission introduces special phone numbers for reporting election violations. Public encouraged to use these lines to report illegal activities during voting process. Aimed at ensuring fair and independent presidential election on January 21st. Contact General Elections Secretariat in Rajagiriya for more details.
-
-🟩
-
-The Election Problems Division has introduced special telephone numbers to complain about election violations and conflicts.
-
-These telephone numbers are aimed at creating an environment for Sri Lanka's ninth presidential election to be held on the 21st of this month as an independent and fair election.
-
-Thereby, the public can file a complaint about the illegal activities that are taking place during the voting.
-
-Accordingly, the Commission has asked the public to contact the Special Division established at the General Elections Secretariat in Rajagiriya.
-
-◼️
-
-[Data](articles/95f18045.json)
-
-[Extended Data](ext_articles/95f18045.ext.json)
 
 ---
 
@@ -2451,151 +2615,5 @@ International Union against Tuberculosis and Lung Diseases has extended a financ
 [Data](articles/ac12f099.json)
 
 [Extended Data](ext_articles/ac12f099.ext.json)
-
----
-
-### Japan, a true friend
-
-*2024-09-17 01:08:18* · [`dailyftlk`](https://www.ft.lk/columns/Japan-a-true-friend/4-766778) · `en`
-
-Airport expansion will soon begin with the appointment of the new contractor
-
-The spirit of the San Francisco Peace Treaty, that is, reconciliation, fairness, and generosity, was eloquently emphasised by J.R. Jayewardene at the momentous occasion of the Peace Conference in 1951, inspired by the great teachings of Lord Buddha, “Hatred ceases not by hatred, but by love…!”
-
-His words were, “We extend to Japan a hand of friendship, and trust that with the closing of this chapter in the history of man the last page of which we write today and with the beginning of the new one, the first page together to enjoy the full dignity of human life in peace and prosperity.”
-
-...
-
-[Data](articles/111c556a.json)
-
-[Extended Data](ext_articles/111c556a.ext.json)
-
----
-
-### Pelwatte Dairy Industries reinforces commitment to safety and environmental sustainability
-
-*2024-09-17 00:07:32* · [`dailyftlk`](https://www.ft.lk/business/Pelwatte-Dairy-Industries-reinforces-commitment-to-safety-and-environmental-sustainability/34-766772) · `en`
-
-Dairy Industries Ltd., a leading name in Sri Lanka’s dairy industry, hosted a successful press conference to outline its strengthened commitment to promoting a culture of safety and environmental sustainability. The press event emphasised the company’s dedication to fostering a safe workplace while ensuring that its operations align with both local and international standards for health, safety, and environmental protection.
-
-...
-
-[Data](articles/fd6492a0.json)
-
-[Extended Data](ext_articles/fd6492a0.ext.json)
-
----
-
-### 2024-09-16 (Monday)
-
-### ComBank conducts “Agri Modernisation Fair” in Vavuniya to promote smart agriculture practices
-
-*2024-09-16 23:57:52* · [`dailyftlk`](https://www.ft.lk/business/ComBank-conducts-Agri-Modernisation-Fair-in-Vavuniya-to-promote-smart-agriculture-practices/34-766771) · `en`
-
-Some of the highlights of the Agri Modernisation Fair organised by Commercial Bank
-
-Hayleys, AgStar, John Deere, DIMO, CIC and Browns join bank effort
-
-The Commercial Bank of Ceylon recently brought together a coalition of some of the biggest names in Sri Lanka’s agriculture sector to conduct an “Agri Modernisation Fair” for farmers in the Vavuniya area and introduce the latest technologies available to them and promote smart agriculture.
-
-Industry leaders of the calibre of Hayleys, AgStar, John Deere, DIMO, CIC and Browns participated in the day-long fair, alongside representatives of the Drone Unit of the Agrarian Production Centre. The fair was attended by the students of the Agriculture School of Vavuniya, GCE Advanced Level students and teachers of Puthukkulam Maha Vidyalayam, members of farmer societies and entrepreneurs in and around Sasthirikoolankulam.
-
-...
-
-[Data](articles/85406a75.json)
-
-[Extended Data](ext_articles/85406a75.ext.json)
-
----
-
-### DBL partners Sri Lanka State Trading Corporation to bring top-quality tools to market
-
-*2024-09-16 23:49:27* · [`dailyftlk`](https://www.ft.lk/business/DBL-partners-Sri-Lanka-State-Trading-Corporation-to-bring-top-quality-tools-to-market/34-766770) · `en`
-
-Officials of Sri Lanka State Trading Corporation, Deen Brothers Imports, UYUS Tools, and Dongcheng Power Tools
-
-Deen Brothers Imports Ltd., (DBL), Sri Lanka’s leading machinery and tool provider, has recently announced a new partnership with the Sri Lanka State Trading Corporation (STC).
-
-This collaboration introduces UYUS Tools and Dongcheng Power Tools – renowned names in professional power and hand tools – to STC’s shelves, making top-quality tools more accessible than ever. The official launch, held at Nawam Mawatha, Colombo 2, marked a significant milestone in DBL’s journey of growth and expansion.
-
-...
-
-[Data](articles/73c199b6.json)
-
-[Extended Data](ext_articles/73c199b6.ext.json)
-
----
-
-### CEAT Kelani Holdings rated AA+ by Fitch for 4th successive year
-
-*2024-09-16 23:45:57* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-Holdings-rated-AA-by-Fitch-for-4th-successive-year/34-766769) · `en`
-
-Sri Lanka’s leading tyre manufacturer CEAT Kelani Holdings (CKH) has been assigned a National Long-Term rating of ‘AA+(lka)/Outlook Stable’ by Fitch Ratings for a fourth consecutive year, a rating Fitch said is supported by CEAT’s sustained leadership in the domestic pneumatic tyre manufacturing industry and the resilience of its financial profile.
-
-In its announcement, Fitch Ratings said: “The Stable Outlook reflects Fitch’s belief in CKH’s ability to retain its market share despite increasing competition from imported tyres. It also indicates our expectation CKH will maintain adequate credit metrics and liquidity, even during periods of intensive investment.”
-
-...
-
-[Data](articles/bcfbf9a7.json)
-
-[Extended Data](ext_articles/bcfbf9a7.ext.json)
-
----
-
-### Finance Ministry on Sri Lanka’s external debt service payments
-
-*2024-09-16 23:38:05* · [`dailyftlk`](https://www.ft.lk/opinion/Finance-Ministry-on-Sri-Lanka-s-external-debt-service-payments/14-766768) · `en`
-
-The objective of the debt standstill was to create some space for Sri Lanka to commence negotiations for restructuring debt in a manner that would enable debt service to resume in the future
-
-The Finance Ministry in a statement said it has observed that there is a perception in society that the prevailing economic stabilisation in Sri Lanka is entirely due to external debt not being serviced, and that once debt service resumes, economic instability will return. It is also unfortunate to note that this same narrative is being used to trivialise and undermine the necessity for the critical macroeconomic reforms that are in fact the actual drivers of economic stabilisation. In this context the Finance Ministry via this statement addresses some of these misperceptions and explains the correct position in this regard to the public.
-
-Is it correct that Sri Lanka does not service any of its foreign debt following the announcement of the debt standstill in April 2022?
-
-...
-
-[Data](articles/db6a3717.json)
-
-[Extended Data](ext_articles/db6a3717.ext.json)
-
----
-
-### 75% of the hanging bridge ended: Give me the mandate to create an unprecedented economy - the President
-
-*2024-09-16 23:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193883) · `ta`
-
-Sri Lanka's President Ranil Wickremesinghe calls for unity to stabilize economy. He urges citizens to vote on Sept 21 without party bias. The president emphasizes his efforts to restore peace and economy after 2022 struggles.
-
-🟩
-
-He said that all the people of this country should unite on September 21 without the party's color discrimination, if the country's economy is to be stabilized and now reached 75% of the hanging bridge, and the country that does not fall back in the country.
-
-The president stressed that even if Krusha had to face a Natalia, he had to face the two Nataliyas and that the two would end the journey of the hanging bridge, even if they were voiced for the right of the child.
-
-President Ranil Wickremesinghe made this statement while addressing the Ranil's Victory rally in Ampara on Monday afternoon.
-
-A large number of people participated in the rally, which was organized to celebrate President Ranil Wickremesinghe's victory in the upcoming presidential election.
-
-Today we face the most important election. This election must be said to be an election that determines the future of the people.
-
-...
-
-[Data](articles/31706985.json)
-
-[Extended Data](ext_articles/31706985.ext.json)
-
----
-
-### Leadership of President RW and AKD
-
-*2024-09-16 23:10:12* · [`dailyftlk`](https://www.ft.lk/columns/Leadership-of-President-RW-and-AKD/4-766766) · `en`
-
-Ranil Wickremesinghe (RW) has been with the Parliament for about 47 years. Without support from the voters, he became President in 2022 because of his luck. He wants to stay in power, but his leadership is questioned by many, given his performance, particularly over the last two years. Anura Kumara Dissanayake (AKD) has been in the Parliament for about 20 years and was a minister and the Chief Opposition Whip from 2015 to 2018. Both RW and AKD are Presidential candidates. This article is a committed inquiry into the leadership qualities of RW and AKD so that voters can decide who to support to be the next president of Sri Lanka.
-
-...
-
-[Data](articles/867a6595.json)
-
-[Extended Data](ext_articles/867a6595.ext.json)
 
 ---

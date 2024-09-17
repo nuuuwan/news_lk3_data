@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 14:57:06**
+As of **2024-09-17 15:08:29**
 
 ## Newspaper Stats
 
-*Scraped **44,335** Articles*
+*Scraped **44,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,685
 dailyftlk | 2,935
-adalk | 4,092
+adalk | 4,093
 dailymirrorlk | 4,733
 adaderanalk | 5,220
 tamilmirrorlk | 5,788
 virakesarilk | 7,071
-adaderanasinhalalk | 7,590
+adaderanasinhalalk | 7,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,335 (100.0%) of 44,335 articles have been extended.
+44,337 (100.0%) of 44,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Vines can be out of the bridge if the duty are fulfilled - Ranil
+
+*2024-09-17 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201115) · `si`
+
+Here's a 200-character summary:
+
+
+
+Ranil Wickremesinghe urges citizens to fulfill duties on Sept 21. He promises IMF support for Sri Lanka's economic recovery. Criticizes opposition leaders, saying they can't work together effectively. Emphasizes need for unity to overcome challenges.
+
+🟩
+
+Ranil Wickremesinghe says that if the people will perform their duty on September 21.
+
+Ranil, which was held in Wellawaya yesterday, said that the International Monetary Fund has been supported by the International Monetary Fund.
+
+"I resolve more than 50% of the problems of this country and now bring forward. We have to go further. Woves Duty. The 'Sri Lanka' program has been brought towards the next.
+
+Still the vast bridge is about 25%. Now the vulk bridge is a little. But if we go, however, remember September 21, we can jump out of this vil bridge.
+
+The other problem is there two nauthela two nappyla. That's what happened. Both can speak, can't work. What to Hand over the forefront of ready to back?
+
+...
+
+[Data](articles/4d9452fb.json)
+
+[Extended Data](ext_articles/4d9452fb.ext.json)
+
+---
 
 ### Nearly 40 million people die
 
@@ -183,6 +213,30 @@ Speaking to Ada Derana, he stated that if investigations uncover that the questi
 [Data](articles/f3443374.json)
 
 [Extended Data](ext_articles/f3443374.ext.json)
+
+---
+
+### Data of the binter poke of the country is a big environment
+
+*2024-09-17 13:52:38* · [`adalk`](https://www.ada.lk/breaking_news/බිනර-පොහොය-දිනේ-දළඳා-වදින්න-විශාල-පරිසක්/11-411978) · `si`
+
+Here's a 200-character summary:
+
+
+
+Buddha's tooth relic ceremony held today. Many foreign devotees attend. Sri Dalada Maligawa organizes almsgiving events.
+
+🟩
+
+Today, the Buddha's pun has been assembled today (17) and a large number of foreign devotees gathering and engaged in religious activities.
+
+There were many alms of acquisition programs organized by the Sri Dalada Maligawa.
+
+◼️
+
+[Data](articles/75b18293.json)
+
+[Extended Data](ext_articles/75b18293.ext.json)
 
 ---
 
@@ -2523,57 +2577,5 @@ Addressing the gathering, the President of the University of Colombo Narahenpitt
 [Data](articles/0b873823.json)
 
 [Extended Data](ext_articles/0b873823.ext.json)
-
----
-
-### Doing it in Germany
-
-*2024-09-16 22:54:00* · [`islandlk`](http://island.lk/doing-it-in-germany/) · `en`
-
-Kevin Elias has been a musician for many years now, but, I guess, not many music lovers in the scene here would remember Kevin as he left for Switzerland in 1988.
-
-He is now based in Germany and is quite active in the scene there … as a solo artiste, also as a duo and trio, depending on the occasion.
-
-Right now he is doing the duo scene with former Moonstones’ guitarist Anura Herat.
-
-In the past, he had a four-piece band, but the pandemic changed everything.
-
-Hotels and entertainment venues made drastic cuts, where payments to musicians were concerned, with most venues opting for duos, said Kevin, adding that quite a few nightspots, in Germany, have also put up shutters.
-
-“I’m lucky I have work at hotels, and I also perform on a cruise ship, singing German, Spanish, Italian and English songs. I do a show – let’s say a very entertaining performance!”
-
-In Sri Lanka, Kevin performed with several bands, including Super Pink & Purple and Climax, and had his own band, as well – Zodiac.
-
-...
-
-[Data](articles/4f2db34f.json)
-
-[Extended Data](ext_articles/4f2db34f.ext.json)
-
----
-
-### Abolition of Executive Presidency: Voters’ policy guide to 2024 Presidential election in 15 Q&As
-
-*2024-09-16 22:50:27* · [`dailyftlk`](https://www.ft.lk/columns/Abolition-of-Executive-Presidency-Voters-policy-guide-to-2024-Presidential-election-in-15-Q-As/4-766765) · `en`
-
-The Supreme Court has made clear that the abolition of the Executive Presidency cannot be done by an amendment to the 1978 Constitution; it can thus only be done by way of a new Constitution
-
-What is the executive presidential system under the 1978 Constitution?
-
-A President directly elected for a fixed term is the Head of State and the Head of Government who exercises the executive power of the state.
-
-The President exercises executive power with a Prime Minister and a Cabinet of Ministers drawn from Parliament and responsible to both Parliament and the President.
-
-The President is the Head of the Cabinet and appoints and dismisses the Prime Minister and the Cabinet.
-
-The Cabinet is collectively responsible and answerable to Parliament and may be dismissed by Parliament by a vote of no-confidence.
-
-The President is responsible but not answerable to Parliament and may only be dismissed by Parliament by impeachment.
-
-...
-
-[Data](articles/c884432f.json)
-
-[Extended Data](ext_articles/c884432f.ext.json)
 
 ---

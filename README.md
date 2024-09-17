@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 17:22:23**
+As of **2024-09-17 17:39:08**
 
 ## Newspaper Stats
 
-*Scraped **44,354** Articles*
+*Scraped **44,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,83 @@ dailyftlk | 2,935
 adalk | 4,095
 dailymirrorlk | 4,733
 adaderanalk | 5,221
-tamilmirrorlk | 5,788
+tamilmirrorlk | 5,789
 virakesarilk | 7,079
-adaderanasinhalalk | 7,597
+adaderanasinhalalk | 7,598
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,352 (100.0%) of 44,354 articles have been extended.
+44,356 (100.0%) of 44,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### විද්‍යාර්ථ විද්‍යාලයේ දෙවන ජන්ම සංවත්සර සැමරුම අනිද්දා
+### Prohibit election campaigns
+
+*2024-09-17 17:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-பிரச்சாரங்களுக்கு-தடை/175-343910) · `ta`
+
+Election Commission orders: All campaign activities must end by midnight on Wednesday. Violators face fines of 50,000 rupees and at least one month's suspension.
+
+🟩
+
+All election campaigns related to the presidential election should be completed at 12.00 midnight on Wednesday (18), the Election Commission said.
+
+The Elections Commission said that those who carry out election campaigns after midnight on Wednesday (18) will be fined 50,000 rupees and no less than a month.
+
+◼️
+
+[Data](articles/167347ab.json)
+
+[Extended Data](ext_articles/167347ab.ext.json)
+
+---
+
+### Special traffic plan in Colombo tomorrow
+
+*2024-09-17 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201122) · `si`
+
+Colombo special traffic plan tomorrow: Election campaign propaganda meetings at centers in Colombo, Kottawa, Piliyandala. Measures to reduce congestion implemented.
+
+🟩
+
+The final propaganda meetings relating to election campaigns for the presidential election will be held tomorrow (18).
+
+Accordingly, the curls have been organized by centers in Colombo, Kottawa and Piliyandala.
+
+Steps have been taken to implement a special traffic plan to reduce traffic congestion in the propaganda meetings.
+
+◼️
+
+[Data](articles/07bd8d5d.json)
+
+[Extended Data](ext_articles/07bd8d5d.ext.json)
+
+---
+
+### Second birth anniversary of Vidyartha Vidyalaya
 
 *2024-09-17 16:42:40* · [`adalk`](https://www.ada.lk/breaking_news/විද්‍යාර්ථ-විද්‍යාලයේ-දෙවන-ජන්ම-සංවත්සර-සැමරුම-අනිද්දා/11-411983) · `si`
 
-කොස්ගම විද්‍යාර්ථ විද්‍යාලයේ දෙවන ජන්ම සංවත්සර සැමරුම් උළෙල ලබන 19 වැනිදා පැවැත්මට කටයුතු සූදානම් කර තිබේ.
+Kosgama Vidyare College celebrates its second anniversary. Ceremony features Professor Prasad Sethanga and Homagama Zonal Education Director. School named after founder, Kosgama Maha Vidyalaya. Event honors school's history and growth.
 
-මෙම සංවත්සර උළෙල ජාතික අධ්‍යාපන ආයතනයේ අධ්‍යක්ෂ ජනරාල් මහාචාර්ය ප්‍රසාද් සේතුංග මහතාගේ සහ හෝමාගම කලාප අධ්‍යාපන අධ්‍යක්ෂ හේමන්ත ගමගේ මහතාගේ සහභාගීත්වයෙන් ලබන 19 වැනිදා පෙ.ව.09ට විද්‍යාලයීය ප්‍රධාන ශාලාවේදී පැවැත්වීමට කටයුතු යොදා ඇත.
+🟩
 
-එහිදී විද්‍යාර්ථ සදහම් පූජා- ධර්ම දේශනාමය පිංකම, විද්‍යාර්ථ උත්තම රුහිරු පූජා- ලේ දන්දීමේ වැඩසටහන, විද්‍යාර්ථ පැනසර - අන්තර් පාඨශාලීය තරඟාවලිය, Step to future Vidyartha - 2024 පාගමන සහ විද්‍යාර්ථ සහෝදරත්වයේ සුරත ආදී වැඩසටහන් රැසක් පැවැත්වීමටද කටයුතු යොදා ඇත.
+The second birth anniversary ceremony of Kosgama Vidyare College has arranged for survival on the 19th.
 
-මීට අමතරව කොස්ගම මහා විද්‍යාලය ලෙස තිබූ පාසල් නාමය එදින සිට විද්‍යාර්ථ විද්‍යාලය ලෙස නව නාමකරණයකට ලක් කිරීමට කටයුතු යොදා තිබේ.
+The Anniversary Festival, Director General of the National Institute of Education Professor Prasad Sethanga and Director of Homagama Zonal Education, will be held at the school main hall.
+
+Vidyarts Sacred Sacred Sacred Surveying Pinky
+
+In addition, the schoolmother of the school name of Kosgama Maha Vidyalaya has been appointed as the Vidarus College from that day.
 
 ◼️
 
 [Data](articles/7b0427c1.json)
+
+[Extended Data](ext_articles/7b0427c1.ext.json)
 
 ---
 
@@ -454,23 +502,35 @@ The other problem is there two nauthela two nappyla. That's what happened. Both 
 
 ---
 
-### අනුර කියපු විවාදයට මම සූදානම්
+### I'm ready for the debate on Anura
 
 *2024-09-17 14:24:37* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-කියපු-විවාදයට-මම-සූදානම්/11-411980) · `si`
 
-අසීරුවෙන් රට ලබාගත් ජයග්‍රහණය ආරක්ෂා කර ගනිමින් ඉදිරියට යාමට නම් සැප්තැම්බර් 21 වනදා ගෑස් සිලින්ඩරයට ඡන්දය ලබා දෙන ලෙස තමා ජනතාවගෙන් ඉල්ලා සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Here's a summary of the text in approximately 200 characters:
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ සහාය හිමිව තිබෙන්නේ මේ වන විටත් ආණ්ඩුව ක්‍රියාත්මක කර ඇති වැඩසටහන සඳහා බව පැවසු ජනාධිපතිවරයා ජනතාව ඉදිරියට පැමිණ බොරු පොරොන්දු දෙන සජිත්ට හෝ අනුරට රට ඉදිරියට ගෙන යාමේ වැඩපිළිවෙළක් නොමැති බවද සඳහන් කළේය.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඊයේ (16) පස්වරුවේ වැල්ලවායේ පැවති “රනිල්ට පුළුවන්” විජයග්‍රාහී ජන රැලිය අමතමිනි.
 
-එළැඹෙන ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ විජයග්‍රහණය තහවුරු කිරීම වෙනුවෙන් සංවිධානය කර තිබූ මෙම ජන රැලියට අතිවිශාල ජනතාවක් එක්ව සිටියහ.
+President Ranil Wickremesinghe addresses rally, urging votes for gas cylinder. Promises investments, development programs. Criticizes opposition, IMF support. Invites debate with Anura Kumara, claims readiness. Emphasizes importance of September 21 election.
 
-ජන රැලිය ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය. හම්බන්තොට කර්මාන්ත දියුණු වන විට එහි ආයෝජන කලාපයක් මෙම වැල්ලවාය ප්‍රදේශයට ද ලැබෙනවා. ඒ වගේම මොණාරගල අප පුළුල් සංවර්ධන වැඩපිළිවෙළක් ක්‍රියාත්මක කරනවා. අප ඉල්ලා සිටින්නේ මෙම වැඩසටහන්  ඉදිරියට ගෙනයාමේ ජනවරමයි.
+🟩
+
+President Ranil Wickremesinghe said he had requested the people to vote for the gas cylinder again.
+
+The President said that the President was still for the program that the government has already implemented the government for the program.
+
+President Ranil Wickremesinghe made this statement addressing the 'Ranil' rally in Wellawaya yesterday (16).
+
+In the presidential election, a huge populators were organized to ensure the victory of President Ranil Wickremesinghe.
+
+Addressing the rally, President Ranil Wickremesinghe further added:. The Wellawaya also receives an investment zone in the Wellawaya area as the industry progresses. Also, we will implement a broad development program in Monaragala. We urge the mandates to advance these programs.
+
+Youths in this country were not employed for four years. We have a self employment of the public and private sector in the public and private sector next year. And we expect to provide funds for training in an institution for another 50,000
 
 ...
 
 [Data](articles/9e99d8c6.json)
+
+[Extended Data](ext_articles/9e99d8c6.ext.json)
 
 ---
 
@@ -2611,63 +2671,5 @@ The presidential election will be held on the 21st of this month in Sri Lanka. T
 [Data](articles/de5d2b55.json)
 
 [Extended Data](ext_articles/de5d2b55.ext.json)
-
----
-
-### Stability is essential in the country to attract direct foreign investment - Neranjan de Silva Deva Aditya
-
-*2024-09-17 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193884) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Stability crucial for attracting foreign investment, says President's advisor. 94 laws passed to transform Sri Lanka's economy. Long-term security needed for investor confidence. Banking, financial regulations key. Goal: 5% annual economic growth by 2027. Vision: Competitive future in global economy.
-
-🟩
-
-President's Senior Advisor Nranjan de Silva Deva Aditya said that a country should attract direct foreign investment and ensure that the money it invests is safe and ensure stability and safety in the country.
-
-He added that the 94 laws passed by President Ranil Wickremesinghe in Parliament have led to transforming Sri Lanka into a prosperous and competitive economy.
-
-He pointed out that Sri Lanka has achieved many achievements so far due to the proper and brave decisions taken by President Ranil Wickremesinghe to rebuild the collapsed economy.
-
-President Ranil Wickremesinghe's political office located on Flower Road, Colombo, was speaking at a press conference held today (16).
-
-Neranjan de Silva Deva Aditya, the leading politician of the United Kingdom and the European Union, is a member of the British Parliament and is a member of the British Parliament and former vice president of the European Parliament.
-
-...
-
-[Data](articles/1f025857.json)
-
-[Extended Data](ext_articles/1f025857.ext.json)
-
----
-
-### The winning election is sure to win
-
-*2024-09-17 02:03:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-தேர்தலில்-வெற்றி-நிச்சயம்/175-343869) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National People's Power presidential candidate Anura Kumara Dissanayake promises victory in the upcoming election. He vows to build the country and unite all ethnic groups. Critics spread false information, but Dissanayake denies claims about restricting education or religious freedoms.
-
-🟩
-
-These rulers ruled our country for a long time. The country and the people fell to the grassroots of poverty. The rulers were built and the country fell. "We will win a government election on September 21 and form a government," said Anura Kumara Dissanayake, the presidential candidate of the National People's Power.
-
-"Country Anurawar" was held on Wednesday (13) at Sainthamaruthu -. He said this while addressing it.
-
-We will set up a government of the national people's power that builds this country. The victory of the national people's power in this election is certain. All the Sinhala, Tamil and Muslim people living in the south join hands with the power of the national people. What is the resolution of the Muslim people living in Sainthamaruthu?As you say in the loudness, it is certain to win the power of the national people.
-
-The expectation of national people is to accept your cultural identity and create an independent country.
-
-...
-
-[Data](articles/ec8afb74.json)
-
-[Extended Data](ext_articles/ec8afb74.ext.json)
 
 ---

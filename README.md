@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 19:22:34**
+As of **2024-09-17 19:38:02**
 
 ## Newspaper Stats
 
-*Scraped **44,376** Articles*
+*Scraped **44,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,096
 dailymirrorlk | 4,733
-adaderanalk | 5,225
-tamilmirrorlk | 5,795
+adaderanalk | 5,226
+tamilmirrorlk | 5,796
 virakesarilk | 7,086
 adaderanasinhalalk | 7,600
 
@@ -26,25 +26,71 @@ adaderanasinhalalk | 7,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,367 (100.0%) of 44,376 articles have been extended.
+44,375 (100.0%) of 44,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### பிரச்சாரத்தால் அழகிழந்தது நுவரெலியா
+### வழிபாட்டில் ஈடுபட்டோருக்கு நேர்ந்த சோகம்
 
-*2024-09-17 19:02:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரச்சாரத்தால்-அழகிழந்தது-நுவரெலியா/175-343919) · `ta`
+*2024-09-17 19:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வழிபாட்டில்-ஈடுபட்டோருக்கு-நேர்ந்த-சோகம்/76-343920) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரித்து இலங்கை தொழிலாளர் காங்கிரஸ் (CWC) ஏற்பாடு செய்திருந்த ஜனாதிபதி தேர்தல் பிரசார பேரணியில் கலந்து கொண்டவர்களால் நுவரெலியா நகரின் சுற்றாடல் அழகுக்கு பாரிய சேதங்கள் ஏற்பட்டுள்ளதாக நுவரெலியா மாநகர சபை அதிகாரிகள் தெரிவித்துள்ளனர்.
+பௌர்ணமி நாளான இன்று மாலை 5.30 மணியளவில் குளவி கொட்டுக்கு இலக்காகிய நிலையில் 6 பேர் மஸ்கெலியா மாவட்ட வைத்திய சாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
-பேரணியில் பங்கேற்றவர்கள், நகரின் சுற்றுச்சூழல் அழகை மேம்படுத்துவதற்காக மிகவும் அன்புடனும் அக்கறையுடனும் பராமரிக்கப்படும் மலர் படுக்கைகள் மற்றும் செடிகளை மிதித்ததாக அவர்கள் தெரிவித்தனர்.
+இச்சம்பவம் இன்று மஸ்கெலியா பொலிஸ் பிரிவில் உள்ள புரவுன்ஷீக் தோட்ட ராணி பிரிவில் இடம் பெற்று உள்ளது.
 
-பேரணியை நகரின் மையப் பகுதியில் நடத்தாமல் விளையாட்டு மைதானத்திலோ, கூட்ட அரங்கத்திலோ நடத்தியிருக்க முடியும் என்றும், பேரணியில் ஈடுபட்டிருந்த பொலிஸார் மற்றும் பாதுகாப்புப் பணியாளர்கள் மலர் படுக்கைகள், தாவரங்கள் மற்றும் மரங்கள் போன்றவை அழிக்கப்பட்ட போது கண்மூடித்தனமாக இருந்தது கவலையளிக்கிறது என்றும் அவர்கள் தெரிவித்தனர்.
+ராணி தோட்ட பிரிவில் தேயிலை மலை பகுதியில் பாரிய கருங்கல் அடி பகுதியில் உள்ள ஆலயத்தில் அத்தோட்ட மக்கள் வழிபாட்டில் ஈடுபட்டு வந்த வேளையில் இந்த துயர சம்பவம் இடம்பெற்றுள்ளது.
+
+குறித்த வழிபாட்டில் 20 ற்கும் மேற்பட்டோர் கலந்து கொண்டுள்ளதுடன் குளவி கொட்டுக்கு இலக்காகியோர் மஸ்கெலியா மாவட்ட வைத்திய சாலையில் அனுமதிக்க பட்டு சிகிச்சை பெற்று வருகின்றனர்.
+
+இவர்களில் 17 வயது உடைய எஸ்.விதூஷன்,8 வயது உடைய என்.கிஷாந்தன்,40 வயது உடைய எம்.மாரியம்மாள்,9 வயது உடைய எஸ்.கவிஸ்,42 வயது உடைய டி.சரவணண்,64 வயது உடைய எஸ்.பரமசிவம் ஆகியோரே வைத்திய சாலையில் அனுமதிக்க பட்டு சிகிச்சை பெற்று வருவதாக தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/fce23de5.json)
+
+---
+
+### Dilith pledges to deliver the change people have been hoping for
+
+*2024-09-17 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102044/dilith-pledges-to-deliver-the-change-people-have-been-hoping-for) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera urged voters to make use of this opportunity to bring about the change desired by the people.
+
+Addressing a public rally held in Yatiyanthota today (17), he stated that the “corrupt politics” of this country must end and that the innocent people of this country cannot be made to suffer any more. “For that, you asked for a change. That’s why you said no to all 225.”
+
+“We helped the politicians thinking that they could fix this country one day, but they kept betraying us,” he said.
+
+Jayaweera stated that he entered into politics after declaring his assets. “The other candidates have also given asset declarations. The first three claim to have incomes of less than Rs. 200,000. What a sad situation.”
 
 ...
 
+[Data](articles/a7303c0b.json)
+
+---
+
+### Nuwara Eliya was overwhelmed by the campaign
+
+*2024-09-17 19:02:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரச்சாரத்தால்-அழகிழந்தது-நுவரெலியா/175-343919) · `ta`
+
+Nuwara Eliya campaign rally damaged flower beds, plants. Officials assess damage, plan to charge organizers for restoration costs.
+
+🟩
+
+Nuwara Eliya Municipal Council officials have said that the Sri Lanka Workers Congress (CWC) organized the presidential campaign rally in support of President Ranil Wickremesinghe.
+
+They said that the rally was trampled on flower beds and plants maintained with love and concern to improve the city's environmental beauty.
+
+They said that the rally could have been held at the playground or the meeting, and that the rally was indiscriminately indiscriminate when the rally was destroyed when flower beds, plants and trees were destroyed.
+
+However, when asked by Municipal Commissioner Ishaan Vijayathilaka about this, he said that the amount of damage was being assessed and that no matter what they were, steps would be taken to charge their restoration costs from the rally organizers.
+
+◼️
+
 [Data](articles/67da6f6d.json)
+
+[Extended Data](ext_articles/67da6f6d.ext.json)
 
 ---
 
@@ -312,53 +358,79 @@ Steps have been taken to implement a special traffic plan to reduce traffic cong
 
 ---
 
-### இந்தியாவில் இலங்கையர்கள் மூவர் படகுடன் கைது
+### Three Sri Lankans arrested in India with a boat
 
 *2024-09-17 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193948) · `ta`
 
-ராமநாதபுரம் மாவட்டம் தொண்டி கடற்பரப்பில் சந்தேகத்திற்கு இடமாக நின்று கொண்டிருந்த ஒரு பைப்பர் படகையும் அதிலிருந்த மூன்று இலங்கை மீனவர்களை இந்திய கடலோர காவல் படையினர்  கைது செய்துள்ளனர்.
+Sri Lankan fishermen arrested in India's Ramanathapuram district. Boat damaged mid-sea, suspected illegal activities. Indian Coast Guard investigation ongoing. Trio to be handed over to Marine Police after phone seizures.
 
-கஞ்சா போதை பொருள் அடங்கிய மூட்டைகளை சட்டவிரோதமாக தமிழகத்தைச் சேர்ந்த கடத்தல்காரர்களிடம் இருந்து வாங்கி செல்ல காத்திருந்த போது நடுக்கடலில் படகு பழுதாகி நின்றதாக விசாரணையில் தெரிய வந்துள்ளது.
+🟩
 
-நடுக்கடலில் மீனவர்களிடம் நடத்திய முதல் கட்ட விசாரணையில் காற்றின் வேகம் காரணமாக திசை மாறி இந்திய கடல் பரப்புக்குள் வந்ததாக தெரிவித்துள்ளனர்.
+The Indian Coast Guard has arrested three Sri Lankan fishermen from a suspect in the Ramanathapuram district.
 
-எனினும் இந்திய கடலோர காவல்படை மண்டபம் முகாமில் வைத்து மீனவர்களிடம் முழுமையான விசாரணைக்கு பின்னர் மீனவர்கள் சட்ட விரோத நடவடிக்கை ஈடுபடுவதற்காக இந்திய கடல் பகுதியில் வந்தார்களா அல்லது எல்லை தாண்டி மீன்பிடியில் ஈடுபட்டார்கள் என்பது தெரியவரும் என இந்திய கடலோர காவல் படை அதிகாரிகள் தெரிவித்துள்ளனர்.
+Investigations have revealed that the boat was damaged in the middle of the sea while waiting for the hijackers of Tamil Nadu to be illegally purchased from Tamil Nadu smugglers.
+
+The first phase of the investigation into the fishermen in the Mediterranean said that the Indian Sea was distracted due to wind speed.
+
+However, Indian Coast Guard officials said that after a thorough investigation at the Indian Coast Guard Hall, the fishermen would come to the Indian waters to engage in illegal activities or crossed the border.
+
+Also, when the mysterious persons of the Thondi were waiting in the middle of the Thondi to buy cannabis from the next sandalwood, the soldiers belonging to the Indian Coast Guard were caught when the boat was suspicious of the boat when there was suddenly a boat engine.
 
 ...
 
 [Data](articles/65ac1545.json)
 
+[Extended Data](ext_articles/65ac1545.ext.json)
+
 ---
 
-### நுவரெலியாவில் ஜனாதிபதி வேட்பாளர் ஒருவரின் புகைப்படம் பொறித்த தீப்பெட்டிகள் விநியோகம் ; பெப்ரலுக்கு முறைப்பாடு
+### Distribution of photo boxes of a presidential candidate in Nuwara Eliya;Complaint to Febral
 
 *2024-09-17 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/193949) · `ta`
 
-ஜனாதிபதி வேட்பாளர் ஒருவரின் புகைப்படம்  மற்றும் தேர்தல் சின்னம் பொறித்த தீப்பெட்டிகளை  குழு ஒன்று நுவரெலியாவில் விநியோகித்ததாக பெப்ரல் அமைப்புக்கு தகவல் கிடைத்துள்ளது.
+Here's a 200-character summary:
 
-இந்த விடயம் தொடர்பில் நுவரெலியா மாவட்ட உதவி தேர்தல்கள் ஆணையாளருக்கு அறிவித்துள்ளதாக பெப்ரல் அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+
+
+Presidential candidate distributes photo boxes in Nuwara Eliya. February Organization reports issue to Election Commissioner.
+
+🟩
+
+The February Organization has received information that a group of fireplaces in the presidential candidate and the election symbol have been distributed in Nuwara Eliya.
+
+The Executive Director of the February, Rohana Hettiarachchi said that the Nuwara Eliya District Assistant Elections Commissioner has been informed about this issue.
 
 ◼️
 
 [Data](articles/d6859187.json)
 
+[Extended Data](ext_articles/d6859187.ext.json)
+
 ---
 
-### தமிழ் தேசிய கட்சிகள் தேர்தல் விடயத்தில் தாங்களும் குழம்பி மக்களையும் குழப்புகின்றது - டக்ளஸ் தேவானந்தா
+### Tamil National Parties confuse the people and confuse the people - Douglas Devananda
 
 *2024-09-17 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/193955) · `ta`
 
-தமிழ் தேசியம் பேசுகின்ற கட்சிகள் தேர்தல் விடயத்தில் தாங்களும் குழம்பி மக்களையும்  குழப்புவது தான் அவர்களின் பொதுவான இயல்பு என கடற்றொழில் அமைச்சர் கே.என். டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+Douglas Devananda criticizes Tamil nationalist parties for confusing voters in Sri Lanka's elections. He states that people in the North and East understand the presidential election but are unclear about general election candidates. Devananda supports Ranil Wickremesinghe for president and claims Tamil parties confuse themselves and others regarding elections.
 
-அம்பாறை மாவட்டம் காரைதீவு பகுதியில் இன்று புதன்கிழமை (17) நிகழ்வொன்றில் கலந்து கொண்ட பின் ஊடகவியலாளர் சந்திப்பில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-வடக்கு கிழக்கு மக்கள் ஜனாதிபதி தேர்தல் தொடர்பில்  தெளிவாக இருக்கின்றார்கள் .தேர்தல் தொடர்பில் நீண்ட கால அனுபவங்கள்  அம்மக்களுக்கு இருக்கின்றது.சரியான திசை வழி நோக்கி அம்மக்கள் அணி திரள்வார்கள் என நான் நினைக்கின்றேன். ஏனெனில் வடகிழக்கில் உள்ள ஒவ்வொரு கட்சிகளுக்கும் கொள்கைகள் வேலைத்திட்டங்கள் இருக்கலாம்.அந்த கொள்கைகள் வேலைத்திட்டங்களில் சுயலாபங்கள் தான் கலந்து இருக்கின்றது.
+Fisheries Minister KN is the common nature of the Tamil nationalist parties that they and the people are confused about the election.. Douglas Devananda said.
 
-இது தவிர தேர்தல் புறக்கணிப்பு பொது வேட்பாளர்கள் விடயத்திலும் எம்மக்கள் தெளிவாக இருக்கின்றார்கள். அதனை எதிர்வரும் 22 ஆம் திகதி அறிந்து கொள்வோம். இருந்தாலும் எனது ஜனாதிபதி வேட்பாளர்  அம்மான் ரணில் விக்ரமசிங்க தான் எனது தெரிவும் விருப்பமும் கூட.
+He was speaking at a media briefing after attending an event on Wednesday (17) in Karadivu in Ampara District.
 
-...
+The people of the North and East are clear about the presidential election.. This is because every part of the Northeast may have policy programs.
+
+Apart from this, the election boycott of the general candidates is clear. We will learn about it on the 22nd. However, my Presidential candidate Amman Ranil Wickremesinghe is my choice and will.
+
+The Tamil nationalist parties in the North and East are the common nature of confusing themselves and the people in the matter of election.
+
+◼️
 
 [Data](articles/ba4771e0.json)
+
+[Extended Data](ext_articles/ba4771e0.ext.json)
 
 ---
 
@@ -412,51 +484,83 @@ The deceased police officer in the Nugegoda Police said that the deceased has be
 
 ---
 
-### பச்சோந்தி அரசியலில் குளிர்காய்வோர், வல்லாதிக்க அரசியலுக்குள் எம்மை இழுத்து செல்வோர் தோல்வி காண்பர்  - அருட்தந்தை மா.சத்திவேல்
+### Chameleon Politics
 
 *2024-09-17 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/193952) · `ta`
 
-பச்சோந்தி அரசியலில் குளிர்காய்வோர், வல்லாதிக்க அரசியலுக்குள் எம்மை இழுத்து செல்வோர் தோல்வி காண்பர். அதுவரை எமது இலக்கு நோக்கி இலட்சியத்தோடு பயணிப்போம் என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-வடகிழக்கு தமிழர் தாயகத்தில் யுத்த வடுக்களோடு வாழ்வு போராட்டம் நடத்துபவர்கள் சிந்தும் கண்ணீர் தினம் தினம் தாயக மண்ணில் விழுந்து கொண்டிருக்கையில் இனப்படுகொலையுண்டவர்களின் இரத்தம் தேசியத்திற்காக குரல் எழுப்பிக் கொண்டிருக்கையில் யுத்த சூத்திரதாரிகளை, இனப்படுகொலையாளிகளை மங்கள வாத்தியங்களோடு அழைத்து வந்து பொன்னாடை போர்த்தி மாலையிட்டு மேடையில் அமர்த்துபவர்களும், போலி தேசியம் பேசி தேர்தல் வேட்டையாடுபவர்களும் இன படுகொலையாளர்களே.
 
-தமிழர் தேச அரசியல் துரோகிகளே. இவர்களின் வார்த்தைகளில் மயங்கி வாக்களிக்க முயல்வதும் வாக்கு சாவடிக்கு செல்வதும் தேசியம் காக்க உயிர் கொடையானோரை கொலை செய்வதற்கு ஒப்பாகும் என்பதையும் வலியுறுத்த விரும்புகின்றோம்.
+
+Chameleon politics fails; social justice activists oppose Indian agreements. Tamils reject compromise. Dileepan's martyrdom fuels resistance against political betrayal and genocide. National aspirations remain unfulfilled despite challenges. Political integrity sought; chauvinist forces countered. Journey continues toward goals despite failures.
+
+🟩
+
+Chameleon politics, the colder of the politics, the pulling us into the powerful politics will fail. Until then, we will travel towards our goal, said Social justice activist and a co -ordinator of the National Organization for the release of political prisoners.
+
+Those who live in the northeastern Tamil homeland are shedding tears day by day when the blood of the genocide is raising the voice for the nationality of the warmacists and the genocide of the war sutras and the genocide.
+
+Tamils ​​are political traitors. In their words, we would like to emphasize that trying to vote and go to the polling booth is like killing the survivors of nationalism.
+
+This is the month of Dileepan's life.
 
 ...
 
 [Data](articles/1e26b889.json)
 
+[Extended Data](ext_articles/1e26b889.ext.json)
+
 ---
 
-### "அமைதியும் அகிம்சையும், உரிமைக்கு வழிவகுக்கப் போவதில்லை" - குரலற்றவர்களின் குரல் அமைப்பு
+### “Peace and non -violence are not going to lead to right” - the voice system of the voiceless
 
 *2024-09-17 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193951) · `ta`
 
-"நமக்காக நாமே" என்று வேற்றுமையில் ஒற்றுமை கண்டு இனமாக ஓரணி நின்று, தனிவிரல் எழுச்சிக்கு தமிழர்கள் அடம்பன் கொடியாய் திரண்டிட வேண்டும் என குரலற்றவர்களின் குரல் அமைப்பினர் தெரிவித்துள்ளனர்.
+Here's a 200-character summary:
 
-யாழ். ஊடக அமையத்தில் இன்று செவ்வாய்க்கிழமை (17) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தனர்.
 
-பல தசாப்தங்களாக தமது இருப்புக்கும் உரிமைக்கும் போராடிக் கொண்டிருக்கும் முதுபெரும் இனமான தமிழினம், இத்தனை ஆண்டு காலமாக இலங்கை தேசத்தின் அரியாசன அதிகாரத்திற்கு அயலவரை தெரிவுசெய்து எதனையுமே அடைந்திடாத ஏமாற்றத்தினால் அழுத்துப் போய் இருக்கிறது.
 
-இவ்வேளை, பல்லின கலாச்சார பண்பாட்டினை கொண்ட மக்கள் வாழ்கின்ற இலங்கைத் தீவில், யார் யாரை ஆழ்வது என்கின்ற அரசியல் அதிகார போட்டிக்கு நாடு தயாராகிக் கொண்டிருக்கிறது. இத்தருணத்தில், 'குரலற்றவர்களின் குரல்' அமைப்பினராகிய நாம், காலத் தேவை உணர்ந்து சமூக அக்கறையுடன் இந்த அறிக்கையினை பொதுக் களப்படுத்த கடமைப்படுகிறோம்.
+Tamils call for unity uprising against Sri Lanka's political power struggle. Citing decades of disappointment and empty promises, they reject peace and non-violence as ineffective paths to rights. Advocating for autonomy and self-defense, Tamils urge collective action against oppression.
+
+🟩
+
+The voice of the voices said that the Tamils ​​should raise the uprising of the unity in the unity of "we for us".
+
+Yall. They said this during a media briefing held at the Media Center on Tuesday (17).
+
+The eldest race, which has been fighting for its existence and rights for decades, has been pressed by the disappointment that has chosen the neighbors for the throne of Sri Lanka for so many years.
+
+The country is preparing for the political power competition on the island of Sri Lanka, where people live in a multi -cultural cultural culture.. At this point, we, the 'voice of the voiceless', are obliged to make this statement publicly concerned with the need for time.
+
+As a native history, the Tamils ​​have been engaged in peace talks, relying on the single promise of the bureaucracy, which is "living in unity".
 
 ...
 
 [Data](articles/c2b7002f.json)
 
+[Extended Data](ext_articles/c2b7002f.ext.json)
+
 ---
 
-### මාතරින් රියදුරු බලපත්‍ර නිකුත් කිරීමේදි අක්‍රමිකතා
+### Irregularities to issue a driving license in Matara
 
 *2024-09-17 16:25:36* · [`adalk`](https://www.ada.lk/breaking_news/මාතරින්-රියදුරු-බලපත්‍ර-නිකුත්-කිරීමේදි-අක්‍රමිකතා/11-411981) · `si`
 
-මෝටර් රථ ප්‍රවාහන දේපාර්තමේන්තුවේ  මාතර ශාඛාව විසින්  රියදුරු බලපත්‍ර නිකුත් කිරිමේ ක්‍රියාවලියේ දි සිදුවි ඇති   අක්‍රමිකතා පිළිබද  කඩිනමින් අභ්‍යන්තර පරික්ෂණයක් සිදුකර  ආයතන සංග්‍රහය ප්‍රකාරව   මෙයට සම්බන්ද පාර්ශවයන් සදහා  විනය ක්‍රියාමාර්ග ගැනිමට  කටයුතු කළයුතු බවට ජාතික විගණන කාර්යාලය මගින් නිර් දේශ කොට ඇත.
+National Audit Office investigates irregularities in Matara driving license issuance. Report reveals 18 applicants improperly granted licenses, 10 unlisted for practical tests, and several failed to attend required inspections. Department head denies allegations, claims investigations ongoing.
 
-මාතර ශාඛාව විසින් රියදුරු  බලපත්‍ර ලබාදිම සදහා  සමත්විය යුතු ලිඛිත පරික්ෂණයන් සදහා  ලැයිස්තුගත නොවු අයදුම්කරුවන් 18 දෙනෙකු  සදහා ප්‍රා යෝගික පරික්ෂණ  අවසානයේ වලංගු රියදුරු බලපත්‍රයක් ලබාදිමට කටයුතුකර තිබු බව  ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවේ සදහන් වේ.
+🟩
+
+The National Audit Office has made an internal investigation into the irregularity of the Department of Motor Traffic to the issuance of the Driving License.
+
+The audit report issued by the National Audit Office of the National Audit Office stated that 18 other applicants should have been issued to provide a valid driver's license at the end of the midiculous test.
+
+An applicant has been revealed that an applicant had not attended the writing notes as soon as a written report was not attended by the investigation notes.The audit has also revealed that the update has been implemented to provide a valid driver's license at the end of the correctional inspection and the initial investigation.
 
 ...
 
 [Data](articles/5d75023c.json)
+
+[Extended Data](ext_articles/5d75023c.ext.json)
 
 ---
 
@@ -482,23 +586,29 @@ Private school delegates point out that the general public will not be able to e
 
 ---
 
-### நாட்டின் வெவ்வேறு பகுதிகளில் ஹெரோயின் போதைப்பொருளுடன் மூவர் கைது !
+### Three arrested for heroin drugs in different parts of the country
 
 *2024-09-17 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/193941) · `ta`
 
-நாட்டின் வெவ்வேறு பகுதிகளில் ஹெரோயின் போதைப்பொருளுடன் மூன்று சந்தேக நபர்கள் நேற்று திங்கட்கிழமை (16) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Three arrests made: heroin found in Bulathsingha, Gampaha, and Beruwala. Suspects aged 34, 47, and unknown. Amounts vary from 05 grams to 258 grams.
 
-பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-அதன்படி,புலத்சிங்கள பகுதியில் 05 கிராம் 470 கிலோ கிராம் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளார். புலத்சிங்கள பகுதியைச் சேர்ந்த 34 வயதுடையவரே கைது செய்யப்பட்டுள்ளார்.
+Three suspects were arrested yesterday (16) with heroin drugs in different parts of the country, police said.
 
-இந்நிலையில், கம்பஹா பகுதியில் 05 கிராம் 270 மில்லி கிராம் ஹெரோயின் போதைப்பொருளுடன் பெண் ஒருவர் கைது செய்யப்பட்டுள்ளார். கம்பஹா பகுதியைச் சேர்ந்த 47 வயதுடைய பெண்ணே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+The suspects have been arrested in connection with the information received by the police.
 
-இதேவேளை,  பேருவளை - கரந்தகொடை பகுதியில் 258 கிராம் 960 மில்லிகிராம் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+Accordingly, a suspect has been arrested with 05 grams of 470 kg of heroin.. A 34 -year -old man from Bulathsingha has been arrested.
+
+In this case, a woman has been arrested with 05 grams of 270 ml of heroin in Gampaha. The 47 -year -old woman from Gampaha has been arrested.
+
+Meanwhile, a suspect has been arrested in Beruwala - Karandagoda area with a 258 grams of 960 milligrams of heroin.
 
 ◼️
 
 [Data](articles/872eb4c7.json)
+
+[Extended Data](ext_articles/872eb4c7.ext.json)
 
 ---
 
@@ -2433,51 +2543,5 @@ Mr Namal Rajapaksa, the eldest son of former President Mr Mahinda Rajapaksa, can
 [Data](articles/38cbd46e.json)
 
 [Extended Data](ext_articles/38cbd46e.ext.json)
-
----
-
-### Malayalam movie to be filmed in Sri Lanka
-
-*2024-09-17 08:00:00* · [`economynextcom`](https://economynext.com/malayalam-movie-to-be-filmed-in-sri-lanka-179718/) · `en`
-
-ECONOMYNEXT – A Malayalam movie starring Mammootty and Mohanlal will be filmed on location in Sri Lanka over 30 days, the Prime Minister’s Media said.
-
-Malayalam Film Producers Association President Joseph Anto Athirampuzha, and film directors Narayanan Mahesh and C V Sarathy met Prime Minister Dinesh Gunawardena at Temple Trees on Sunday (15).
-
-The MFPA president and the two directors briefed the premier of their plan to shoot a Malayalam mega film in Sri Lanka in November this year, the PM’s media said in a statement.
-
-Malayalam cinema super stars Mammootty and Mohanlal will star in this film. Location shooting will be done in Sri Lanka for 30 days. The rest of the shooting will be done in Kerala, Delhi and London.
-
-“This is the first time in 20 years that Mammootty and Mohanlal will act together in a film, and it will definitely be a blockbuster,” Director Mahesh was quoted as saying in the statement. (Colombo/Sep17/2024)
-
-◼️
-
-[Data](articles/aae0db1c.json)
-
-[Extended Data](ext_articles/aae0db1c.ext.json)
-
----
-
-### Problem with sharing Arakala videos
-
-*2024-09-17 07:58:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-காணொளிகளைப்-பகிர்ந்தால்-சிக்கல்/175-343878) · `ta`
-
-Sri Lanka: Legal action against sharing fake Arakala struggle videos for political gain. Police reclaiming footage from social media, citing threat to national security and disruption of law and order.
-
-🟩
-
-Sri Lanka Felis has said that legal action will be taken against persons who share false videos of violence during the 2022 Arakali struggle for political gain.
-
-Police said that the video tests near the Katunayake Airport and the videographers in various parts of the island have been reclaimed on social media.
-
-Police said the videos were creating a false story, misleading the public and disrupting the law and order.
-
-Legal action will be taken against those who register to threaten national security, police said.
-
-◼️
-
-[Data](articles/16672729.json)
-
-[Extended Data](ext_articles/16672729.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 01:38:11**
+As of **2024-09-18 01:57:06**
 
 ## Newspaper Stats
 
-*Scraped **44,407** Articles*
+*Scraped **44,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,939
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
-tamilmirrorlk | 5,798
+tamilmirrorlk | 5,799
 virakesarilk | 7,095
 adaderanasinhalalk | 7,606
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,406 (100.0%) of 44,407 articles have been extended.
+44,408 (100.0%) of 44,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Economy
+
+*2024-09-18 01:30:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தில்-வளர்ச்சி/175-343936) · `ta`
+
+Sri Lanka's economy expanded 4.7% in Q2 2024, driven by agriculture (+1.7%), industry (+10.9%), and services (+2.5%).
+
+🟩
+
+Sri Lanka's economy grew by 4.7 per cent in the 2nd quarter of 2024.
+
+According to the Central Bank of Sri Lanka's weekly economic indicator, 3 major economic activities have contributed favorable.
+
+Accordingly, agricultural operations have grown by 1.7 per cent, industrial activity 10.9 per cent and service operations 2.5 per cent.. (A)
+
+◼️
+
+[Data](articles/aae2f010.json)
+
+[Extended Data](ext_articles/aae2f010.ext.json)
+
+---
 
 ### PRESIDENSHEL ELECSHEN GIDE
 
@@ -51,6 +73,8 @@ FREEBIES - Refers to the things you are giving to Public, AFTER the election, IF
 ...
 
 [Data](articles/6e950b3a.json)
+
+[Extended Data](ext_articles/6e950b3a.ext.json)
 
 ---
 
@@ -2513,29 +2537,5 @@ Accordingly, the Commission requested the public to report the incidents on the 
 [Data](articles/6e3f75b6.json)
 
 [Extended Data](ext_articles/6e3f75b6.ext.json)
-
----
-
-### Attack on the one who rejected leaflets
-
-*2024-09-17 11:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/துண்டு-பிரசுரங்களை-நிராகரித்தவர்-மீது-தாக்குதல்/76-343887) · `ta`
-
-Arrest made after assault on man rejecting campaign leaflets in Nawalapitiya. Police investigation reveals suspect distributed materials before incident. Victim hospitalized.
-
-🟩
-
-Nawalapitiya police said that a United People's Power Organizer has been arrested on charges of assaulting a man who has rejected leaflets in support of the United People's Power Presidential candidate Sajith Premadasa.
-
-The 41 -year -old man from Nawalapitiya, Bawgamama area has been arrested.
-
-Police investigations revealed that the suspect, who was distributing the United People's Power Publishers in the Nawalapitiya area, had handed over to the complainant and that the complainant had rejected the complainant.
-
-The victim was admitted to the Nawalapitiya Hospital and the suspect has been arrested, police said.
-
-◼️
-
-[Data](articles/3bb5dd0d.json)
-
-[Extended Data](ext_articles/3bb5dd0d.ext.json)
 
 ---

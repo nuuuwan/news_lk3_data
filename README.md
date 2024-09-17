@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 11:09:19**
+As of **2024-09-17 11:22:41**
 
 ## Newspaper Stats
 
-*Scraped **44,293** Articles*
+*Scraped **44,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,111 @@ dailyftlk | 2,935
 adalk | 4,089
 dailymirrorlk | 4,733
 adaderanalk | 5,215
-tamilmirrorlk | 5,780
-virakesarilk | 7,053
+tamilmirrorlk | 5,783
+virakesarilk | 7,057
 adaderanasinhalalk | 7,584
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,293 (100.0%) of 44,293 articles have been extended.
+44,300 (100.0%) of 44,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### International Election Monitoring Committee - Election Commission members meet
+
+*2024-09-17 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193906) · `ta`
+
+International Election Monitoring Committee meets Election Commission ahead of Sri Lanka's presidential election. Asian Network and Commonwealth Elections Committee join discussion. Monitors visit districts tomorrow. PEFREL emphasizes law enforcement. Public urged to ignore fake news.
+
+🟩
+
+The International Election Monitoring Committee, which will visit the country to monitor the ninth presidential election of Sri Lanka on the 21st of this month, will be held on Tuesday (17).
+
+This is the first meeting between the International Monitoring Committee and the members of the Election Commission to monitor the presidential election.
+
+The Asian Network for Independent Elections and the Commonwealth Elections Committee (COG) is expected to participate in the discussion.
+
+International monitors will meet with the Election Commission officials today as they will visit various districts across the country for election monitoring tomorrow.
+
+Meanwhile, the PEFREL has emphasized the importance of maintaining law and order during the final week of the presidential election.
+
+The Executive Director of the February Organization Rohana Hettiarachchi has called for the public not to be worried about some of the fake news and rumors shared.
+
+◼️
+
+[Data](articles/23862032.json)
+
+[Extended Data](ext_articles/23862032.ext.json)
+
+---
+
+### 'Karthi 29' official announcement
+
+*2024-09-17 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/193902) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Karthi 29": New Tamil film starring Karthi. Directed by Danakkan director. Produced by Dream Warrior Pictures. Co-producers: R.Prakash Babu, S.R. Prabhu, Ishan Saxena, Sunil Shah, Raja Subramanian. Black-and-white trailer hints at ocean theme. "Meyyalakan" releasing globally on 27th.
+
+🟩
+
+The new movie starring Karthi, the hero of the Tamil film industry, has been temporarily titled as 'Karthi 29' and an official announcement has been made.
+
+Karthi is the hero of the story in the film, directed by the director and actor who directed the film 'Danakkan'.
+
+The film was made on behalf of Dream Warrior Pictures Company. R.Prakash Babu & S. R. Prabhu is co -produced.
+
+Along with them, Ishan Saxena, Sunil Shah and Raja Subramanian are working as a co -producer.
+
+A special look at the film has a black -white ship.
+
+It has been observed that the film may be a conscious work that is emotionally described by the sea and sea life.
+
+This is the first time in the Karthi and Tamil Alliance.
+
+Meanwhile, the film 'Meyyalakan', starring actor Karthi, will be released at the film palace worldwide on the 27th of this month.
+
+◼️
+
+[Data](articles/8d9648be.json)
+
+[Extended Data](ext_articles/8d9648be.ext.json)
+
+---
+
+### “We are the ones who spoke when the Islamists were injustice"
+
+*2024-09-17 10:49:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/இஸ்லாமியர்களுக்கு-அநீதி-நிகழ்ந்த-போது-நாங்கள்தான்-பேசினோம்/73-343886) · `ta`
+
+Sajith Pramadasa addresses supporters, promising housing, education reforms, healthcare improvements, and addressing land issues. He emphasizes unity across ethnicities and religions.
+
+🟩
+
+The Presidential candidate Sajith Pramadasa said that after the 2019 presidential election, Gotabhaya became the President of the Gotabhaya so that more houses started by us were suspended.
+
+He was speaking at a meeting held at the Ottamavadi Amir Ali Playground on Sunday (15) in support of Presidential candidate Sajith Pramadasa.
+
+I would like to say certain that we will win all the houses found in the area after winning the entire Sri Lanka on the 21st.
+
+It is not only the land and the home without the land, I am informed that we will provide houses under the Gum Udawa Scheme.
+
+We have created plans to create production industrial internships in every Divisional Secretariat and provide employment opportunities for young people and enhance their livelihood.
+
+Thereby creating information technology, English knowledge and computer development, we will bring a massive revolution for all young people.
+
+...
+
+[Data](articles/bb995043.json)
+
+[Extended Data](ext_articles/bb995043.ext.json)
+
+---
 
 ### Dilith proposes “Hithe Haiya” program to replace welfare schemes
 
@@ -81,6 +173,116 @@ I request that everyone with our journey to develop the country without the part
 [Data](articles/b5f8cbda.json)
 
 [Extended Data](ext_articles/b5f8cbda.ext.json)
+
+---
+
+### Trump's attempt to kill - a suspect waiting for 12 hours
+
+*2024-09-17 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/193904) · `ta`
+
+Trump assassination attempt: Suspect waits 12 hours, police charge gunman. Secret Service fires after seeing weapon near ex-president. Gun and camera recovered. 58-year-old Ryan Ruth arrested 40 minutes later.
+
+🟩
+
+According to reports, the accused of trying to kill former US President Donald Trump has been waiting for Trump for 12 hours.
+
+Police have filed two charges related to guns against a man suspected of trying to kill Trump.
+
+The suspect did not firing on the former president, but the question arises as to how the armed persons were able to approach the former president twice.
+
+Ronald Ravey, director of the US Secret Service Division, said that the visit to Trump's golf grounds has not been publicly announced.
+
+There is no definitive report on whether the suspect was aware of whether Trump would come there.
+
+The secret service unit has fired after a secret service unit, who was involved in the raid in the area, saw a gun from the closest to the former president.
+
+Suddenly we heard the noise of gunfire, and Trump said at a social media event that four noises.
+
+The secret service unit knows that it is gunns and they immediately grabbed me and they were a wonderful manner.
+
+...
+
+[Data](articles/135918b8.json)
+
+[Extended Data](ext_articles/135918b8.ext.json)
+
+---
+
+### Arrested for sharing the questionnaire
+
+*2024-09-17 10:39:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாளை-பகிர்ந்த-அறுவர்-கைது/175-343885) · `ta`
+
+Teachers arrested for sharing exam questions before test. Six educators detained, including principal. Investigation reveals widespread distribution of questions in Anuradhapura, Nochchiyagama, and Colombo. Sri Lanka Teachers Union calls for severe punishment.
+
+🟩
+
+Six teachers, including the school principal at an examination center in Anuradhapura, have been arrested by the Department of Examinations Department officials.
+
+According to investigations, individuals are said to have shared photos of the first question ten minutes before the examination.
+
+Accordingly, the Assistant Superintendent and 6 teachers were arrested with their mobile phones for allegedly sharing pictures of the paper.
+
+A principal and teachers belong to the state schools located in Anuradhapura and Nochchiyagama.
+
+Investigations have revealed that the question paper has been sent to several areas including Anuradhapura, Nochchiyagama and Colombo.
+
+Sri Lanka Teachers Union President Priyantha Fernando has confirmed the incident in which the scholarship examination was copied by the cell phone.
+
+“The confidence in the choice has been broken. The authorities should implement the law and be severely punished for all those responsible for the release of the questionnaire, ”Fernando said.
+
+...
+
+[Data](articles/250862aa.json)
+
+[Extended Data](ext_articles/250862aa.ext.json)
+
+---
+
+### Woman death in Wellawaya
+
+*2024-09-17 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/193898) · `ta`
+
+Tree falls on woman cutting firewood in Wellawaya. She died. Body sent for autopsy. Police investigating.
+
+🟩
+
+Police said that she was killed when a tree fell down on a woman who had gone to cut firewood near the Torarara Vaavi, who belongs to the Wellavai - Uva Kuda Oya Police Division.
+
+Subsequently, the body of the deceased has been kept at the Wellava hospital for autopsy and the Uva Kuda Oya police are conducting further investigations.
+
+◼️
+
+[Data](articles/a67ad9d2.json)
+
+[Extended Data](ext_articles/a67ad9d2.ext.json)
+
+---
+
+### Birthday to Modi: Greetings accumulate
+
+*2024-09-17 10:13:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடிக்கு-பிறந்த-நாள்-வாழ்த்துகள்-குவிகின்றன/175-343883) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Leaders across parties greet PM Modi on his 74th birthday. President Murmu, Home Minister Shah, CMs offer congratulations. Welfare schemes, public events planned by BJP.
+
+🟩
+
+Prime Minister Modi, who is celebrating the 74th birthday today, congratulates President Draupadi Murmu, Ministers and State Chief Ministers.
+
+BJP and volunteers all over the country celebrate his birthday. Various political leaders have congratulated him on this.
+
+President Draupadi Murmu posted a greeting on his social network, saying, "You have enhanced the country's resources and dignity through your excellent leadership."
+
+Home Minister Amit Shah posted on his X website, “Congratulations to the famous Prime Minister Modi. Happy Birthday to Prime Minister Narendra Modi, who has brought the country to change the lives of the people by tireless labor, devotion and visionary vision and gaining a new reputation worldwide.. I pray to the Lord for health and long life. ”
+
+...
+
+[Data](articles/86bf7acd.json)
+
+[Extended Data](ext_articles/86bf7acd.ext.json)
 
 ---
 
@@ -2249,165 +2451,5 @@ He invited all those who would vote for Wickremesinghe or the Sri Lanka PA to be
 [Data](articles/278f13b4.json)
 
 [Extended Data](ext_articles/278f13b4.ext.json)
-
----
-
-### "Voting for Ranil is good for Anura"
-
-*2024-09-16 18:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-வாக்களித்தால்-அனுரவுக்கே-நன்மை/175-343859) · `ta`
-
-UNP leader Patali Champika urges voters to support Ranil Wickremesinghe or SLPA, appealing for unity behind Premadasa's victory.
-
-🟩
-
-The UNP leader and parliamentarian Patali Champika has appealed for voters to support Ranil Wickremesinghe or the Sri Lanka PA.
-
-Speaking at a rally in Anuradhapura this morning (16) in support of Opposition Leader and United People's Power Presidential candidate, Ranawaka urged Wickremesinghe to vote for Wickremesinghe eventually.
-
-He invited all those who would vote for Wickremesinghe or the Sri Lanka PA to be united behind Premadasa's victory.
-
-◼️
-
-[Data](articles/91929cc2.json)
-
-[Extended Data](ext_articles/91929cc2.ext.json)
-
----
-
-### “Body Punishment Act soon”
-
-*2024-09-16 18:37:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடல்-ரீதியிலான-தண்டனைத்-தடை-செய்யும்-சட்டம்-விரைவில்/175-343858) · `ta`
-
-"President Wickremesinghe vows to pass 'Body Punishment Act' soon, ending physical discipline after decades of advocacy."
-
-🟩
-
-President Ranil Wickremesinghe has promised to bring a law to prohibit physical punishment soon.
-
-“The Cabinet has approved the proposal for amendment to the Penal Code and Criminal Procedure Act to prevent the physical punishment of all forms.
-
-This milestone record has been achieved after more than 20 years of efforts by child protection enthusiasts. Once the government is published in the government, the bill will be tabled in Parliament for final approval, ”he said on his recent X website.
-
-◼️
-
-[Data](articles/5b6a6742.json)
-
-[Extended Data](ext_articles/5b6a6742.ext.json)
-
----
-
-### A newly worthy couple is far-reaching photos in the Dalada Maligawa
-
-*2024-09-16 18:33:18* · [`adalk`](https://www.ada.lk/breaking_news/අලුත-විවාහවීමට-නියමිත-යුවළක්-දළඳා-මාළිගාවේ-ඡායාරූප-ගැනීම-දුරදිග-යන-හැඩ/11-411968) · `si`
-
-Dalada Maligawa controversy: Kandyan Court announces new investigation request to President Rajapaksa. Senior officials accused of removing photos, sparking public outcry. Administrative officers claim responsibility but face criticism from UPFA department.
-
-🟩
-
-A gemation of the Kandyan Court has set up an announcement to the President Mahinda Rajapaksa and the Presidential Association to appoint a new disclosure.
-
-The summit of the organization was the signature of the organization and the signature of Suneen Ruinana and its senior engineering Suneen, Sainantha Hulangala, and the relevant incident should be punished against them.
-
-The administrative officers of the Dalada Maligawa are responsible for the administrative officers of the Dalada Maligawa, as they are not able to remove any photos of the Sri Dalada Maligawa.
-
-Meanwhile, he said that he was told by a complaint made by a complaint made by a complaint made by the department of the UPFA regarding the incident.
-
-◼️
-
-[Data](articles/1fb866b7.json)
-
-[Extended Data](ext_articles/1fb866b7.ext.json)
-
----
-
-### I take care after the election
-
-*2024-09-16 18:26:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்குப்-பிறகு-கவனித்துக்-கொள்கிறேன்/175-343856) · `ta`
-
-Election aftermath: Man assaulted for refusing campaign materials. Incident caught on CCTV. Victim hospitalized, filed police report.
-
-🟩
-
-A person who denied the United People's Power in favor of presidential candidate Sajith Premadasa has been threatened and assaulted by Nawalapitiya SJB organizer Sasanka Sampath Sanjeev.
-
-The incident has been reported on a CCTV camera in the shopping shop in Nawalapitiya.
-
-The young man refused to accept the handbook distributed by the organizer Sasanka Sampath Sanjeeva and a team of supporters, who were invited to the shop on Sunday morning.
-
-The person who was admitted to the Nawalapitiya General Hospital has left the hospital.
-
-However, he said that he had lodged a complaint at the police station for his future security.
-
-<iframe width="967" height="544" src="https://www.youtube.com/embed/JX_DcMmYSyU" title="SJB organizer assaults person who refused handbill" frameborder="0" allow="accelerometer;Autoplay;
-
-◼️
-
-[Data](articles/572ac59e.json)
-
-[Extended Data](ext_articles/572ac59e.ext.json)
-
----
-
-### Anura Kumara to ‘definitely cancel’ Adani Group’s energy project if elected
-
-*2024-09-16 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102024/anura-kumara-to-definitely-cancel-adani-groups-energy-project-if-elected) · `en`
-
-The National People’s Power (NPP) on Monday (16) vowed to cancel the Adani Group’s wind power project in Sri Lanka if it gets elected in the presidential election scheduled for the weekend, according to a news report on PTI.
-
-The NPP’s presidential candidate Anura Kumara Dissanayake, who spoke during an Indian political chat show revealed that they would annul the project, the Indian news agency highlighted.
-
-Asked if the project posed a threat to the island nation’s energy sector sovereignty, Dissanayake said: “Yes. We will definitely cancel it as it threatens our energy sovereignty.”
-
-The Adani Group has faced fundamental rights litigation in Sri Lanka’s supreme court after it got approval for the proposed construction of a wind power project in the island nation’s north-eastern regions of Mannar and Pooneryn.
-
-The conglomerate was set to invest over $440 million in the 20-year agreement for the development of 484 megawatts of wind power in the region.
-
-...
-
-[Data](articles/e3c774f1.json)
-
-[Extended Data](ext_articles/e3c774f1.ext.json)
-
----
-
-### We have made all three candidates a promise of devolution;Whenever the candidate wins, we will work on the solution- Sumanthiran
-
-*2024-09-16 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193876) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil National Alliance promises support to presidential candidates based on devolution commitments. They engaged with three main candidates: Sajith Premadasa, Ranil Wickremesinghe, and Anura Kumara Dissanayake. TNA will back Sajith Premadasa due to his strongest devolution pledge.
-
-🟩
-
-This time we have made the three major candidates contesting the presidential election. The Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that the Tamil National Alliance (TNA) will continue to engage in any of the three candidates.
-
-Three are the main candidates in the presidential election this time. We have negotiated with the three of them. All three have said that the supremacism. Sajith Premadasa has said a little more than the other candidates. So this compliance has been reached with him.
-
-However, the question of what the situation is if Sajith Premadasa is successful in the success of Ranil Wickremesinghe or Anurakumara Dissanayake.. That's a fair question. Our purpose is not to win by him or him. Instead, the aim is to find a permanent political solution for our people.
-
-...
-
-[Data](articles/fc804fd5.json)
-
-[Extended Data](ext_articles/fc804fd5.ext.json)
-
----
-
-### 2024 ஜனாதிபதித் தேர்தலில் தானே வெற்றி பெறுவேன் என்று ரணில் அதிக அளவில் நம்பிக்கை கொண்டவராய் இருப்பது ஏன்?
-
-*2024-09-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84753) · `en`
-
-இலங்கையின் ஒன்பதாவது ஜனாதிபதி தேர்தல் எதிர்வரும் சனிக்கிழமை ( செப்டெம்பர் 21)நடைபெறவிருக்கிறது. 38 வேட்பாளர்களில் மூன்று பேரே பிரதான வேட்பாளர்களாக கருதப்படுகிறார்கள். ஜனாதிபதி ரணில் விக்கிரமசிங்க, எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச மற்றும் ஜே.வி.பி. / தேசிய மக்கள் சக்தியின் தலைவர் அநுரா குமார திசாநாயக்க ஆகியோரே அவர்கள். மற்றைய வேட்பாளர்களில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் வேட்பாளரான அம்பாந்தோட்டை பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ச, தமிழ் பொதுவேட்பாளர் என்று வர்ணிக்கப்படும் தமிழ் தேசிய கூட்டமைப்பின் மட்டக்களப்பு மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் பாக்கியசெல்வம் அரியநேத்திரன் மற்றும் பல ஊடக  நிறுவனங்களின் உரிமையாளரான திலித் ஜயவீர ஆகிய மூவரும் கணிசமான வாக்குகளைப் பெறக்கூடிய சாத்தியம் இருக்கிறது.
-
-ஜனாதிபதி ரணில்  விக்கிரமசிங்கவை கடந்தவார முற்பகுதியில் ‘ டெயிலி ஃபைனான்சியல் ரைம்ஸ் பத்திரிகையின் ஆசிரியர் நிஸ்தார் காசிம் பேட்டி கண்டார். அந்த பிரத்தியேக பேட்டி எதிர்வரும் ஜனாதிபதி தேர்தல் தொடர்பில் இரு கேள்விகளுடன் ஆரம்பித்தது.
-
-...
-
-[Data](articles/9f621dbc.json)
-
-[Extended Data](ext_articles/9f621dbc.ext.json)
 
 ---

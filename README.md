@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 14:23:46**
+As of **2024-09-17 14:38:47**
 
 ## Newspaper Stats
 
@@ -26,103 +26,147 @@ adaderanasinhalalk | 7,590
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,325 (100.0%) of 44,335 articles have been extended.
+44,332 (100.0%) of 44,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### මිලියන 40කට ආසන්න පිරිසක් මරණට පත්වීමේ අවධානමක්
+### Nearly 40 million people die
 
 *2024-09-17 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201114) · `si`
 
-ඖෂධවලින් පාලනය කළ නොහැකි බැක්ටීරියා සහ දිලීර වැනි රෝගකාරක හේතුවෙන් 2025 සහ 2050 අතර කාලය තුළ පුද්ගලයින් මිලියන 40කට ආසන්න පිරිසක් මරණයට පත්විය හැකි බව නවතම වාර්තාවකින් අනාවරණ වී තිබේ.
+Here's a 200-character summary:
 
-'ද ලැන්කැස්ට්' සඟරාව පළකළ මෙම වාර්තාව මෙම තත්ත්වය නම් කර ඇත්තේ 'සුපර්බග් ක්‍රයිසිස්' එනම් 'සුපර්බග් අර්බුදය' ලෙසිනි.
 
-ලෝක සෞඛ්‍ය සංවිධානය අනතුරු අඟවා ඇත්තේ ඖෂධවලට ඔරොත්තු නොදෙන මෙවැනි ක්ෂුද්‍රජීවී රෝගකාරක, වර්ධනය වෙමින් පවතින ගෝලීය මහජන සෞඛ්‍ය අවදානමක් බවය.
 
-පුද්ගලයින් මිලියන 520කට ආසන්න පිරිසක් යොදාගෙන කාලයක් පුරා සිදුකළ මෙම පර්යේෂණවලින් සොයාගෙන ඇත්තේ මෙම අර්බුදයේ වැඩි බලපෑම එල්ලවන්නේ වයස්ගත පුද්ගලයින්ට බවයි.
+"Superbug crisis: Nearly 40 million deaths predicted by 2050 due to antibiotic-resistant bacteria and fungi. WHO warns of growing global health threat. Research indicates 520 million affected."
+
+🟩
+
+A new report has revealed that nearly 40 million people could kill, 2025 and 2050 due to non-controlled bacterial and fungus from drugs.
+
+This report posted by the Lancast 'The report is named' Superbag Crisis', the 'Superbag crisis'.
+
+The World Health Organization warned that such microbilics is a growing global public health risk that will not be resistant to drugs.
+
+This research has been discovered that the research has been made by nearly 520 million people, this research has been found in this crisis.
 
 ◼️
 
 [Data](articles/6f7a5b0e.json)
 
+[Extended Data](ext_articles/6f7a5b0e.ext.json)
+
 ---
 
-### பெண்களின் பாரம்பரிய ஆடையை பற்றி பேசும் 'சாரீ '
+### 'Siri' talking about women's traditional dress
 
 *2024-09-17 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193926) · `ta`
 
-நடிகை ஆராத்யா தேவி கதையின் நாயகியாக முதன்மையான வேடத்தில் நடித்திருக்கும் திரைப்படத்திற்கு 'சாரீ ' என பெயரிடப்பட்டு, அதன் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது.
+"Siri" film: Aradhya Devi stars as Siri. Psychological horror about man killing woman wearing traditional dress. Directed by Giri Krishna Kamal, produced by Ravi Verma. Starring Sathya Yadu and Aradhya Devi. Releasing next November in Tamil, Telugu, Malayalam, Hindi.
 
-இயக்குநர் கிரி கிருஷ்ண கமல் இயக்கத்தில் உருவாகி இருக்கும் 'சாரீ' எனும் திரைப்படத்தில் சத்யா யாது , ஆராத்யா தேவி ஆகிய இருவரும் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கிறார்கள்.
+🟩
 
-உளவியல் ரீதியிலான திகில் படைப்பாக உருவாகி இருக்கும் இந்த திரைப்படத்தை ஆர் ஜி வி ஆர் வி புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் ரவி வர்மா தயாரித்திருக்கிறார்.
+Actress Aradhya Devi has been named 'Siri' and has been released.
 
-இந்தத் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது. இதில் நாயகன் விரும்பும் பெண்கள் அணியும் பாரம்பரிய ஆடையான சேலையை யாராவது அணிந்திருந்தால் அந்தப் பெண்ணை கொலை செய்கிறார் நாயகன். இதன் சுவராசியமான பின்னணி என்ன என்பதுதான் இப்படத்தின் கதை.
+Sathya Yadu and Aradhya Devi are playing the lead role in the film 'Sari', directed by director Giri Krishna Kamal.
 
-இதனை உணர்த்தும் வகையில் கிளர்வோட்டத்தில் நாயகியின் கவர்ச்சியான காட்சிகளும், நாயகனின் மிரட்டும் காட்சிகளும் இடம் பிடித்திருப்பதால் ரசிகர்களை கவர்ந்திருக்கிறது.
+The film, which is being developed as a psychological horror work, has produced the producer Ravi Verma on behalf of RGVRV Productions.
 
-...
+The image of the movie has been released. Man kills the woman if someone wears a traditional dress wearing the women who wants the hero. The story of the film is what is the best background.
+
+To make sense of this, the heroine's sexy scenes and the hero's intimidating scenes have attracted fans.
+
+And as Ram Gopal Verma has joined the film, the expectation of the film has increased.
+
+The film has been announced in Tamil, Telugu, Malayalam and Hindi next November.
+
+◼️
 
 [Data](articles/3e2ee42b.json)
 
+[Extended Data](ext_articles/3e2ee42b.ext.json)
+
 ---
 
-### ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் இந்தியாவிற்கு நிரந்தர உறுப்புரிமையை வழங்கவேண்டும் - சஜித்
+### India to grant permanent membership to India in the United Nations Security Council - Sajith
 
 *2024-09-17 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193930) · `ta`
 
-ஐநா பாதுகாப்புச்சபையில் இந்தியாவிற்கு நிரந்தர இடம்கிடைப்பதை நான் எப்போதும் ஆதரித்து வந்துள்ளேன் என ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித்பிரேமதாச தெரிவித்துள்ளார்
+Here's a summary of the key points in approximately 200 characters:
 
-இந்த தேர்தல் இலங்கை மக்களிற்கு ஏன் முக்கியமானது?உங்களிற்கு ஏன் அவர்கள் வாக்களிக்கவேண்டும் என நீங்கள்கருதுகின்றீர்கள்?
 
-பதில் - இலங்கையின் வரலாற்றில் இது மிகவும் முக்கியமானதொரு தருணம்,புதிய அணுகுமுறை, புதிய பாதையை உருவாக்கும் பார்வை, நீண்டகாலமாக காணப்படும். புதிய சிந்தனைகளை ஏற்க மறுப்பவர்களை அகற்றுதல் ஆகியவற்றிற்கு தங்கள் ஆணையை வழங்குவதற்கான வாய்ப்பு மக்களிற்கு கிடைத்துள்ளது.
 
-நாடு ஒரு பயங்கரமான மனித மற்றும் பொருளாதார சோகத்தை சந்தித்துள்ளது. குழந்தைகள் தாய்மார்கள் இளைஞர்கள்இ அனைவரையும் பாதித்த பேரழிவு நாடு முழுவதும் சூழ்ந்துள்ளது.
+Sri Lankan presidential candidate Sajith Freedaasa emphasizes importance of election, criticizes current government's economic policies, promises transparency and social justice. Supports India's permanent UN Security Council membership, vows strong ties with India for national interests. Criticizes President Ranil Wickremesinghe's policies, promising development for all citizens.
 
-பெரும் பணக்காரர்களைத் தவிர சமூகத்தின் அனைத்து அடுக்குகளும் பாதிக்கப்பட்டுள்ளன. பணக்காரர்களையும் துணை முதலாளிகளையும் பாதுகாக்கும் பழைய அணுகுமுறைக்கு எதிராக மக்கள் தேர்வு செய்ய இந்தத் தேர்தல் வாய்ப்பளிக்கும்.
+🟩
+
+United People's Power Presidential candidate Sajit Freedaasa says I have always supported India's permanent place in the UN Security Council.
+
+Why is this election important for the Sri Lankan people and why do you vote for you?
+
+Answer - This is a very important moment in the history of Sri Lanka, the new attitude, the new path, the long -standing view. The people have the opportunity to give their decree for the removal of those who refuse to accept new ideas.
+
+The country has met with a terrible human and economic tragedy. The devastation that has affected all children and young people is surrounded by the country.
+
+All the layers of the community have been affected by the exception of the rich. This election will be a chance to choose people against the old attitude that protects the rich and sub -employers.
 
 ...
 
 [Data](articles/94c7a34e.json)
 
+[Extended Data](ext_articles/94c7a34e.ext.json)
+
 ---
 
-### අම්බලන්තොට රිදියගම ගොවිපොළේ සතුන්ගෙන් රෝගයක්
+### Disease from Ridiyagama farm farm in Ambalantota
 
 *2024-09-17 13:57:18* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්තොට-රිදියගම-ගොවිපොළේ-සතුන්ගෙන්-රෝගයක්/11-411979) · `si`
 
-අම්බලන්තොට රිදියගම ගොවිපොළ ආශ්‍රිතව සතුන්ගෙන් වැළඳෙන බෘසෙල්ලෝසිස් (Brucellosis) නමැති රෝගය වැලඳුණු පුද්ගලයන් කිහිපදෙනකු වාර්තා වී ඇතැයි සෞඛ්‍ය අංශ පෙන්වා දෙයි.
+Ridiyagama farm Ambalantota outbreak: Cattle, goats, pigs infected. Ten hospitalized. Symptoms: Fever, headache, body pain, vomiting, diarrhea. WHO advises proper hygiene, exclude animal waste. Vaccination crucial for prevention.
 
-ගවයන්, එළුවන්, ඌරන් වැනි සතුන්ගෙන් එම රෝගය මිනිසුන්ට බෝවන අතර සතුන් සමග සමීපව කටයුතු කරන පුද්ගලයන්ට රෝගය වැලඳීමේ වැඩි අවධානමක් ඇත.
+🟩
 
-රෝගය වැලඳුණු පුද්ගලයන් දස දෙනකු මේ වන විට ප්‍රතිකාර සඳහා හම්බන්තොට මහ රෝහලට ඇතුළත් කර ඇති බව වාර්තා වේ.
+The health sector points out that several people have been reported in the Ridiyagama farm, Ambalantota farm.
 
-මෙහි රෝග ලක්ෂණ ලෙස උණ, හිසරදය, ඇඟපත වේදනාව, වසාගැටිති ඉදිමීම, වමනය, පාචනය ආදී රෝග ලක්ෂණ පෙන්නුම් කරන අතර එවැනි ලක්ෂණ ඇතොත් වහාම වෛද්‍ය ප්‍රතිකාර සඳහා යොමු වන ලෙස සෞඛ්‍ය අංශ ජනතාව දැනුවත් කරයි. මෙම රෝගය වළක්වාගැනීම සම්බන්ධයෙන් ලෝක සෞඛ්‍ය සංවිධානය පෙන්වා දෙන ආකාරයට නිසි සනීපාරක්ෂක ක්‍රමවේද භාවිත කළ යුතු අතර සත්ත්ව අපද්‍රව්‍ය නිසි පරිදි බැහැර කළ බව පවසයි.
+The disease, such as cattle, goats, pigs, the disease is infected with the disease.
 
-තවද සතුන්ට රෝගය වැලඳීමට පෙර නිසි පරිදි එන්නත් කිරීම වැදගත් වන අතර සෑම වයස් කාණ්ඩයකම ජනතාවට රෝගය වැලඳිය හැකි බවත් ආරක්ෂාකාරී පියවර අනුගමනය කිරීමෙන් රෝගය පැතිරීම වළක්වාගත හැකි බව ද එම සංවිධානය පෙන්වා දෙයි.
+Ten people have been admitted to the Hambantota General Hospital for treatment.
+
+Symptoms include fever, headache, body pain, vacation, vomiting, diarrhea, and educates the public to address medical treatment if there are such features. The World Health Organization says that the World Health Organization should use proper hygiene techniques and the animal waste has been properly excluded.
+
+It is important to vaccinate the animals before the disease is caused by the people of all ages and that they can prevent safe measures to prevent the spread of disease.
 
 ◼️
 
 [Data](articles/06f69e30.json)
 
+[Extended Data](ext_articles/06f69e30.ext.json)
+
 ---
 
-### பேரினவாதிகளுக்கு வாக்களித்து அவர்களை பலப்படுத்த  தமிழர்கள் முட்டாள்களில்லை  - முன்னாள் தவிசாளர் நிரோஸ்
+### Tamils ​​are not fools to vote for chauvinists and strengthen them - former Chairman Niros
 
 *2024-09-17 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193921) · `ta`
 
-இலங்கை பொருளாதார ரீதியில் திவாலானமைக்கு தமிழ் மக்கள் மீதான யுத்த செலவீனமும் இனவாதத்தினால் தமிழ் மக்களை நாட்டின் அபிவிருத்தியில் பயன்படுத்தத் தவறியமையுமே காரணம் என்ற உண்மையை ஏற்று  சிந்திக்காத செயல்படாத பேரினவாதத் தலைவர்களை நோக்கி நாம் இனியும் வாக்களிக்க முடியாது  என முன்னாள் வலிகாமம் கிழக்குப் பிரதேச சபையின் முன்னாள் தவிசாளரும் ரெலோவின் தலைமைக்குழு உறுப்பினருமான தியாகராஜா நிரோஸ் தெரிவித்தார்.
+Tamil voters urged to reject chauvinist leaders. Former official warns against supporting candidates who ignore economic crisis and neglect Tamil development.
 
-அச்சுவேலி முரசொலி முன்றலில் இடம்பெற்ற தமிழ் பொது வேட்பாளரை முன்னிறுத்திய பிரசாரக் கூட்டத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-தமிழ் மக்களின் வாக்குகள் தமக்குத் தேவை என வெற்றிவாய்ப்புக்காக போட்டியீடுகின்ற வேட்பாளர்கள் முன்டியடிக்கின்றனர். அவர்கள் தமிழ் மக்களிடத்தில் வாக்குகளைக் கேட்கும் போது, கடந்த காலத்தில் தமது அரசியல் நீரோட்டத்தில் எந்தளவு தூரம் இனவாத அணுகுமுறைக்குள் இருந்தனர் என்பதை சிந்தித்து நாட்டின் தலைவராவதற்கு அந்தஸ்தற்றவர்கள் என்பதை புரிந்து கொள்ள வேண்டும்.
+Former Valikamam East Pradeshiya Sabha member Tyagaraja Niros Niros said that we can no longer vote for chauvinist leaders who have not accepted the fact that Sri Lanka's economically bankruptcy and failing to use the Tamil people in the development of the country due to communalism.
+
+He said this while addressing the campaign meeting of the Tamil general candidate held at the Achchuveli Murasoli premises.
+
+Candidates are contesting for victory as they need the votes of the Tamil people. When they ask for votes in the Tamil people, they need to understand how far they have been in their political stream in the past and are unable to become the leader of the country.
+
+When the candidates who are considered to be a victory today, the Sri Lankan country is economically bankrupt, this bad situation is not clear to the country that the state apparatus was the cause of the state apparatus on a nationwide Tamil people in their own home country.
 
 ...
 
 [Data](articles/b141bb6a.json)
+
+[Extended Data](ext_articles/b141bb6a.ext.json)
 
 ---
 
@@ -137,6 +181,8 @@ Speaking to Ada Derana, he stated that if investigations uncover that the questi
 ◼️
 
 [Data](articles/f3443374.json)
+
+[Extended Data](ext_articles/f3443374.ext.json)
 
 ---
 
@@ -164,15 +210,27 @@ He said the GMOA would be given 14 days time to launch the restructuring process
 
 ---
 
-### நம்பிக்கைக்கு எதிரான நம்பிக்கை
+### Confidence against faith
 
 *2024-09-17 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193927) · `ta`
 
-ஆங்கிலத்தில் Hope Against Hope என்று ஒரு மரபுத் தொடர் உண்டு. நம்பிக்கைக்கு எதிரான நம்பிக்கை என்று இதைத் தமிழில் நேரடியாக மொழிபெயர்க்கலாம். ஆனால், அது மூலத்தின் பொருளைத் தராது. ஒரு காரியம் நடப்பதற்கு வாய்ப்பில்லை என்று தெரிந்தாலும், அது நடக்கும் என்று நம்புவதை இது குறிக்கும். நம்பிக்கை இழந்த ஒரு சூழலில் ஒரு பற்றுக்கோடாக ஒன்றில் நம்பிக்கைவைக்கும் மனநிலையாக இதனைக் கொள்ளலாம். ஸ்டாலின் காலத்தில் அதிக பாதிப்புக்கு உள்ளாகி மறைந்த, பிரசித்திபெற்ற சோவியத் கவிஞர் ஒசிப் மண்டல்ஸ்தாமின் துயரம் தோய்ந்த வாழ்க்கை வரலாற்றை எழுதிய  அவரது மனைவி நடாஷா மண்டல்ஸ்தாம் அந்த நூலுக்கு வைத்த பெயரும் Hope Against Hope என்பதுதான்.
+Here's a 200-character summary:
+
+
+
+Hope vs Faith: "Hope Against Hope" concept in politics. Voters' expectations often unmet. Sri Lankan presidential elections highlight cycle of disappointment. Candidates promise change but fail to deliver. Public seeks real transformation beyond economic issues. Political system needs overhaul for lasting reform.
+
+🟩
+
+There is a traditional series called Hope Against Hope in English. It can be translated directly into Tamil as a confidence against trust. But, it does not give the object of the source. Although it knows that a thing is not a chance to happen, it will indicate that it will happen. This can be a mood for belief in one of the most confident environments. Hope Against Hope is the name of his wife Natasha Mandalstam, who wrote the tragic biography of Soviet poet Osip Mandalstam, which was the most vulnerable in Stalin's time.
+
+This is how Sri Lankan politics believes that something good will happen and it does not happen. My own experience is like that. The experience of many of your. Who should vote in the presidential election in a few days?When I read many people in the face and WhatsApp, I appeared to be writing to my role.
 
 ...
 
 [Data](articles/70ecb1b2.json)
+
+[Extended Data](ext_articles/70ecb1b2.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 23:38:20**
+As of **2024-09-17 23:58:04**
 
 ## Newspaper Stats
 
-*Scraped **44,400** Articles*
+*Scraped **44,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,935
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
-tamilmirrorlk | 5,797
+tamilmirrorlk | 5,798
 virakesarilk | 7,093
 adaderanasinhalalk | 7,606
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,400 (100.0%) of 44,400 articles have been extended.
+44,401 (100.0%) of 44,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Placement in Israel for Sri Lankans
+
+*2024-09-17 23:27:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இலங்கையர்களுக்கு-இஸ்ரேலில்-வேலை-வாய்ப்பு/50-343935) · `ta`
+
+Sri Lankan workers sent to Israel for hotel and agricultural jobs under MoU between governments. 2,252 youth employed in agriculture, NVQ Grade 3 certified youth in hotels also placed.
+
+🟩
+
+It has been reported that a contract for sending workers from Sri Lanka has been signed to work in the hotel industry in Israel.
+
+Accordingly, the NVQ Grade 3 certified youth in the hotel industry will have the opportunity.
+
+In addition, 2,252 Sri Lankan youth in the field of agriculture in Israel have been given employment.
+
+It was noted that the job was provided under the Memorandum of Understanding between the Israeli government and the Sri Lankan government.
+
+◼️
+
+[Data](articles/fc0fd418.json)
+
+[Extended Data](ext_articles/fc0fd418.ext.json)
+
+---
 
 ### Don't hand over the country to politicians who ask for opportunity and darkened the future!- President
 
@@ -2567,27 +2591,5 @@ Thereby creating information technology, English knowledge and computer developm
 [Data](articles/bb995043.json)
 
 [Extended Data](ext_articles/bb995043.ext.json)
-
----
-
-### Dilith proposes “Hithe Haiya” program to replace welfare schemes
-
-*2024-09-17 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102033/dilith-proposes-hithe-haiya-program-to-replace-welfare-schemes-) · `en`
-
-The presidential candidate of the “Sarvajana Balaya” alliance, entrepreneur Dilith Jayaweera, says that they have planned to implement a new program called “Hithe Haiya” instead of the various welfare schemes that have been provided to the people thus far.
-
-He made these remarks while participating in a rally held in Monaragala.
-
-“The welfare schemes that have been deceiving you all along first came as ‘Janasaviya.’ Then came ‘Samurdhi.’ Then came ‘Aswesuma.’ But now your eyes are open. We have presented the ‘Hithe Haiya’ program,” he said.
-
-Jayaweera stated that the ‘Hithe Haiya’ program is designed to end those programs that turned people into ‘beggars’ and made them dependent on politicians.
-
-“We declare that your household’s minimum income should be Rs. 100,000, and we firmly state that Rs. 100,000 will be provided,” he said.
-
-...
-
-[Data](articles/868c8673.json)
-
-[Extended Data](ext_articles/868c8673.ext.json)
 
 ---

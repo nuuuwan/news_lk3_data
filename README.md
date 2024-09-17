@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 11:38:36**
+As of **2024-09-17 11:57:45**
 
 ## Newspaper Stats
 
-*Scraped **44,300** Articles*
+*Scraped **44,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailyftlk | 2,935
 adalk | 4,089
 dailymirrorlk | 4,733
 adaderanalk | 5,215
-tamilmirrorlk | 5,783
+tamilmirrorlk | 5,784
 virakesarilk | 7,057
-adaderanasinhalalk | 7,584
+adaderanasinhalalk | 7,585
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,300 (100.0%) of 44,300 articles have been extended.
+44,302 (100.0%) of 44,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### Several special telephone numbers to report election day complaints
+
+*2024-09-17 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201109) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Elections Commission introduces special phone numbers for reporting election day complaints about voting irregularities and law violations. Public encouraged to use National Election Secretariat to report incidents.
+
+🟩
+
+The Elections Commission has taken steps to introduce a special telephone number of the Election Commission Elections Commission's Elections Commission.
+
+These telephone numbers were introduced to report free and fairly to the presidential election election on the 21st and fairly violating election laws and violating election laws.
+
+Accordingly, the Commission requested the public to report the incidents on the National Election Secretariat established at the Elections Secretariat.
+
+◼️
+
+[Data](articles/6e3f75b6.json)
+
+[Extended Data](ext_articles/6e3f75b6.ext.json)
+
+---
+
+### Attack on the one who rejected leaflets
+
+*2024-09-17 11:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/துண்டு-பிரசுரங்களை-நிராகரித்தவர்-மீது-தாக்குதல்/76-343887) · `ta`
+
+Arrest made after assault on man rejecting campaign leaflets in Nawalapitiya. Police investigation reveals suspect distributed materials before incident. Victim hospitalized.
+
+🟩
+
+Nawalapitiya police said that a United People's Power Organizer has been arrested on charges of assaulting a man who has rejected leaflets in support of the United People's Power Presidential candidate Sajith Premadasa.
+
+The 41 -year -old man from Nawalapitiya, Bawgamama area has been arrested.
+
+Police investigations revealed that the suspect, who was distributing the United People's Power Publishers in the Nawalapitiya area, had handed over to the complainant and that the complainant had rejected the complainant.
+
+The victim was admitted to the Nawalapitiya Hospital and the suspect has been arrested, police said.
+
+◼️
+
+[Data](articles/3bb5dd0d.json)
+
+[Extended Data](ext_articles/3bb5dd0d.ext.json)
+
+---
 
 ### International Election Monitoring Committee - Election Commission members meet
 
@@ -2407,49 +2457,5 @@ Meanwhile, Dr. Saranga Alagapperuma told the Daily Mirror that all recruitments 
 [Data](articles/5a8173ce.json)
 
 [Extended Data](ext_articles/5a8173ce.ext.json)
-
----
-
-### Rohini boycotted the road because Lakshman Wasantha
-
-*2024-09-16 18:47:25* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ්මන්-වසන්ත-නිසා-සජබ-වේදිකාව-වර්ජනය-කළ-රෝහිණී/11-411969) · `si`
-
-Rohini boycotts road due to Lakshman Wasantha controversy. Former State Minister refuses to share stage with Sajith Premadasa. Alcohol allegations against ethanol producers. Supreme Buddha criticizes Lakshman Wasantha's absence.
-
-🟩
-
-The Matale District Parliamentarian Ruini Wijeratne refused to rise on the stage of the rally of the folk of the people in Dambulla on the 16th.
-
-Lakshman Wasantha Perera, a former state minister Lakshman Wasantha Perera, isolating photos of this reconciliation and the leader of Sajith Premadasa, which is in the vicinity of his name, is Lakshman Spring.The former State Minister had long been on the stage that the former State Minister would not land on the platform until he left the stage.
-
-She was able to see her parties and stayed with her. After the Opposition Leader Sajith Premadasa, Wasantha Perera had come down from the stage. Accordingly, she was on the stage with Sajith Premadasa and saw the presence of the front seat.
-
-...
-
-[Data](articles/cbd13053.json)
-
-[Extended Data](ext_articles/cbd13053.ext.json)
-
----
-
-### "If Ranil vote for it will benefit the practice"
-
-*2024-09-16 18:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-வாக்களித்தால்-அது-அனுரவுக்கே-நன்மை-பயக்கும்/175-343859) · `ta`
-
-Ranil Wickremesinghe benefits practice UNP leader Patali Champika rally Anuradhapura United People's Power Presidential candidate Ranawaka support Sri Lanka PA Premadasa victory unity
-
-🟩
-
-The UNP leader and parliamentarian Patali Champika has appealed for voters to support Ranil Wickremesinghe or the Sri Lanka PA.
-
-Speaking at a rally in Anuradhapura this morning (16) in support of Opposition Leader and United People's Power Presidential candidate, Ranawaka urged Wickremesinghe to vote for Wickremesinghe eventually.
-
-He invited all those who would vote for Wickremesinghe or the Sri Lanka PA to be united behind Premadasa's victory.
-
-◼️
-
-[Data](articles/278f13b4.json)
-
-[Extended Data](ext_articles/278f13b4.ext.json)
 
 ---

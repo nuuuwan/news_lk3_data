@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 10:08:38**
+As of **2024-09-17 10:22:34**
 
 ## Newspaper Stats
 
@@ -1646,6 +1646,24 @@ Weeks of flooding across Nigeria have led to 269 deaths and displaced more than 
 
 ---
 
+### Why Ranil  Wickremesinghe  is  Supremely Confident of Winning the  2024 Presidential Election.
+
+*2024-09-16 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84741) · `en`
+
+Sri Lanka’s ninth presidential election will take place  one week from now on 21 September 2024. Among the 38 contestants, three are regarded as the top contenders. They are President Ranil Wickremesinghe, Leader of the Opposition Sajith Premadasa and JVP/NPP leader Anura Kumara Dissanayake. Three others namely Hambantota District MP Namal Rajapaksa, Ex-Batticaloa MP Packiyaselvam Ariyanethiran and Entrepreneur cum media mogul Dilith Jayaweeraare  are likely to poll a sizeable number of votes.
+
+Incumbent President Ranil Wickremesinghe was interviewed by “Daily FT’editor Nisthar Cassim earlier this week. The exclusive interview commenced with two questions about the  forthcoming presidential election on Sep 21. The first question was –
+
+In the ongoing campaign trail, what have you seen and heard and what has surprised you?
+
+...
+
+[Data](articles/ee7377bd.json)
+
+[Extended Data](ext_articles/ee7377bd.ext.json)
+
+---
+
 ### In the country ...
 
 *2024-09-16 20:30:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-முப்படையினரும்-தயார்-நிலையில்/175-343864) · `ta`
@@ -2349,27 +2367,5 @@ Following this, the Kurunegala police are conducting further investigations as T
 [Data](articles/5b6788c9.json)
 
 [Extended Data](ext_articles/5b6788c9.ext.json)
-
----
-
-### SJB organiser attacks youth who refused election handbill
-
-*2024-09-16 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102023/sjb-organiser-attacks-youth-who-refused-election-handbill-) · `en`
-
-The Nawalapitiya Organiser of the Samagi Jana Balawega (SJB) has allegedly assaulted the son of a local shop owner after the young man had declined to accept an election leaflet while the former had been engaged in canvassing.
-
-The incident, which was captured on the security camera inside the shop, had taken place at around 11.00 a.m. on Sunday (15), police said.
-
-According to reports, the SJB Electoral Organizer had arrived at a watch repair shop in the Nawalapitiya town accompanied by a group of party supporters. He has reportedly presented a leaflet to the young man, who has been identified as the son of the shop owner.
-
-However, the youth has refused to accept the handbill, prompting an aggressive reaction from the politician in question and his entourage.
-
-The confrontation had escalated quickly, resulting in the youth being attacked. Following the incident, he was admitted to the Nawalapitiya District General Hospital for treatment, police revealed.
-
-...
-
-[Data](articles/549763ce.json)
-
-[Extended Data](ext_articles/549763ce.ext.json)
 
 ---

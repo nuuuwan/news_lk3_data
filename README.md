@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 04:57:16**
+As of **2024-09-18 05:08:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,427 (100.0%) of 44,435 articles have been extended.
+44,433 (100.0%) of 44,435 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -200,6 +200,8 @@ Wickramaratne, on the need for more professionals coming forward to take the tas
 
 [Data](articles/2d3faf71.json)
 
+[Extended Data](ext_articles/2d3faf71.ext.json)
+
 ---
 
 ### $ 100 m from ADB to boost sustainability, climate resilience of Sri Lanka’s water sector
@@ -213,6 +215,8 @@ The Water Supply and Sanitation Reform Program, composed of two subprograms of $
 ...
 
 [Data](articles/e3552505.json)
+
+[Extended Data](ext_articles/e3552505.ext.json)
 
 ---
 
@@ -232,6 +236,8 @@ LTL said it will provide the said additional information required by the CSE as 
 
 [Data](articles/8f471d89.json)
 
+[Extended Data](ext_articles/8f471d89.ext.json)
+
 ---
 
 ### Court of Appeal enters judgment by granting Constitutional injunction against Health Minister as final relief in arbitration dispute
@@ -249,6 +255,8 @@ In March 2024 the Court of Appeal had granted interim relief as prayed for by th
 ...
 
 [Data](articles/b1db041a.json)
+
+[Extended Data](ext_articles/b1db041a.ext.json)
 
 ---
 
@@ -268,6 +276,8 @@ Brandix Apparel Ltd., Teejay Lanka PLC and Fortude Ltd., are now equipped to ide
 
 [Data](articles/6d9fbdf8.json)
 
+[Extended Data](ext_articles/6d9fbdf8.ext.json)
+
 ---
 
 ### WCIC unveils Prathibhabhisheka – Women Entrepreneur Awards 2024
@@ -286,21 +296,27 @@ This national event, held for the third consecutive year, will be held in Januar
 
 ---
 
-### தெற்காசியாவின் மிகப்பெரிய வாகன ஒருங்கிணைப்பு தொழிற்சாலையை குளியாப்பிட்டியவில் ஜனாதிபதி திறந்து வைத்தார்
+### The President inaugurated South Asia's largest vehicle coordination factory at Kiliyapitiya
 
 *2024-09-18 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193972) · `ta`
 
-நாட்டின் வாகன உற்பத்தித் துறையில் தனித்துவமான ஒரு திருப்புமுனையை குறிக்கும் வகையில், குளியாப்பிட்டிய வெஸ்டர்ன் ஓட்டோமொபைல் அசெம்ப்ளி பிரைவேட் லிமிடெட் (WAA) நவீன வாகனங்களை ஒருங்கிணைக்கும் தொழிற்சாலையை ஜனாதிபதி ரணில் விக்ரமசிங்க செவ்வாய்க்கிழமை (17) திறந்து வைத்தார்.
+South Asia's largest vehicle factory inaugurated in Kiliyapitiya. $27m investment creates 50,000 annual vehicles. Employs youth, strengthens economy. Project delayed due to opposition, COVID, and economic crisis. President Wickremesinghe vows to support development initiatives.
 
-தெற்காசியாவின் மிகப்பெரிய வாகன ஒருங்கிணைப்புத் தொழிற்சாலையான வெஸ்டர்ன் ஓட்டோமொபைல் அசெம்பிளி பிரைவேட் லிமிடெட் தொழிற்சாலையை ஆரம்பிக்க, 27 மில்லியன் டொலர் செலவிடப்பட்டுள்ளது. இந்த தொழிற்சாலையில் ஒருங்கிணைக்கப்பட்ட 15 ஆசனங்களைக் கொண்ட முதல் வாகனம் இம்மாத இறுதியில் சந்தைக்கு வர உள்ளது.
+🟩
 
-உலகளாவிய வாகனத்துறைசார்  வல்லுநர்களால் வடிவமைக்கப்பட்ட மிக உயர்தரத்திலான சர்வதேச இயந்திரங்களுடன் பொருத்தப்பட்ட இந்தத் தொழிற்சாலை, இளைஞர்களுக்கு நேரடி மற்றும் மறைமுக வேலை வாய்ப்புகளை உருவாக்கும்.
+President Ranil Wickremesinghe on Tuesday (17) inaugurated the factory that integrates modern vehicles to the Western Ottomobile Assembly Limited (WAA), to mark a unique turning point in the country's vehicle manufacturing industry.
 
-மேலும், உலகளாவிய தொழில்துறை தேவைகளுக்கு இணங்க, சர்வதேச தரத்திலான தொழிற்பயிற்சி நிறுவனமும் இங்கு ஆரம்பிக்கப்பட்டுள்ளதுடன், இப்பயிற்சியின் மூலம் இந்நாட்டு இளைஞர்கள் வெளிநாட்டு வேலைகளுக்கு விண்ணப்பிக்கும் வாய்ப்பும் வழங்கப்படும்.
+Western Otomobile Assembly Private Limited, the largest vehicle coordination factory in South Asia, has spent $ 27 million to launch the factory. The first vehicle with 15 seats integrated at the factory is due to come to the market later this month.
+
+The factory, fitted with the high -quality international machines designed by global automotive experts, will create direct and indirect employment opportunities for young people.
+
+In addition to the global industrial needs, the International Quality Vocational Training Institute has been launched here and the opportunity to apply for foreign jobs in this country.
 
 ...
 
 [Data](articles/04759f10.json)
+
+[Extended Data](ext_articles/04759f10.ext.json)
 
 ---
 

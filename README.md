@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 07:45:28**
+As of **2024-09-17 07:57:57**
 
 ## Newspaper Stats
 
-*Scraped **44,258** Articles*
+*Scraped **44,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 377
 bbccomsinhala | 426
 colombotelegraphcom | 440
-islandlk | 2,606
+islandlk | 2,611
 economynextcom | 2,684
 dailyftlk | 2,935
 adalk | 4,086
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,210
 tamilmirrorlk | 5,773
 virakesarilk | 7,051
-adaderanasinhalalk | 7,574
+adaderanasinhalalk | 7,576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,251 (100.0%) of 44,258 articles have been extended.
+44,258 (100.0%) of 44,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### වීඩියෝ පට කිහිපයක් ගැන පොලීසියෙන් නිවේදනයක්
+
+*2024-09-17 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201100) · `si`
+
+දිවයිනේ විවිධ ප්‍රදේශවල විවිධ කාලවලදී ඇතිවූ සිදුවීම්වලට අදාළ වීඩියෝ දර්ශන නැවත සමාජ මාධ්‍ය ඔස්සේ මේ දිනවට විටින් විට සංසරණය වෙමින් පවතින බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාල පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් පොලීසිය සඳහන් කර ඇත්තේ කටුනායක ගුවන්තොටුපොළ දක්වා ගමන් කරන ඇතැම් වාහන විවිධ පුද්ගලයින් විසින් පරීක්ෂා කිරීම, ඇඳිරිනීතිය පනවන ලද අවස්ථාවලදී ලබා ගන්නා ලද වීඩියෝ දර්ශන ආදී වීඩියෝපට මේ දිනවල හුවමාරු වෙමින් පවතින බවයි.
+
+මෙවැනි වීඩියෝ දර්ශන නැවත සමාජ මාධ්‍ය ඔස්සේ සංසරණය වීමෙන් වැරදි මතයක් සමාජ ගතවන බව එහි සඳහන් ව තිබේ.
+
+අදාළ වීඩියෝ පට කාලීන සිදුවීම් ලෙස හුවා දක්වමින් සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරණය කිරීම ජනතාව නොමග යැවීමක් බවත්, එය රට තුළ මහජන සාමය හා නීතිය ආරක්ෂා කිරීමට සෘජු ලෙස බාධා ඇතිවන බවත් පොලීසිය පවසයි.
+
+මේ හේතුවෙන් එවැනි වීඩියෝ දර්ශන සමාජ මාධ්‍ය තුළ පළ කිරීම හා බෙදා හැරීමෙන් වළකින ලෙස පොලීසිය ජනතාවගෙන් ඉල්ලීමක් කර තිබේ.
+
+එවැනි ජාතික ආරක්ෂාවට තර්ජනයක් විය හැකි ආකාරයේ වීඩියෝ  දර්ශන පළ කරනු ලැබුවහොත් එවැනි අයට එරෙහිව නීත්‍යානුකූලව කටයුතු කිරීමට පියවර ගන්නා බව පොලීසිය නිකුත් කළ නිවේදනයේ සඳහන් ව තිබේ.
+
+◼️
+
+[Data](articles/f1dc62d5.json)
+
+---
 
 ### Proclaiming the curfew
 
@@ -51,6 +73,28 @@ In addition, the sale of liquor has been severely banned and the night -time cur
 [Data](articles/8cd1f4f1.json)
 
 [Extended Data](ext_articles/8cd1f4f1.ext.json)
+
+---
+
+### ඡන්ද පෙට්ටි ගැන මැතිවරණ කොමිසමෙන් ප්‍රකාශයක්
+
+*2024-09-17 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201099) · `si`
+
+මෙවර ජනාධිපතිවරණයේ දී ඡන්ද පෙට්ටි ලෙස යොදා ගැනීමට නියමිත කාඩ්බෝට් පෙට්ටි මේ වන විට දිවයිනේ සියලු තේරීම්භාර නිලධාරීන් වෙත යවා අවසන් කර ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+ඒ අනුව තේරීම්භාර නිලධාරීන් විසින් අදාළ ඡන්ද පෙට්ටි එළඹෙන 20 වෙනිදා ඡන්ද මධ්‍යස්ථාන සදහා නිකුත් කරනු ඇති.
+
+ඡන්ද පත්‍රිකාව ප්‍රමාණයෙන් විශාල වීම හේතුවෙන් මෙවර ලී පෙට්ටි වෙනුවට කාඩ්බෝට් පෙට්ටි භාවිත කිරීමට මැතිවරණ කොමිෂන් සභාව තීරණය කළේය.
+
+ඒ අනුව ප්‍රමාණ 3කින් කාඩ්බෝඩ් පෙට්ටි නිර්මාණය කර ඇති බව එම කොමිෂන් සභාව සඳහන් කළේය.
+
+මේ අතර ඡන්ද විමසීමට අදාළ සියලු කටයුතු මේ වන විට අවසන් කර ඇති බවත් රාජ්‍ය නිලධාරීන්ට සියලු උපදෙස් නිකුත් කර ඇති බවත් මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+මැතිවරණ රාජකාරී කටයුතු සඳහා සහභාගී වන නිලධාරීන් ඒ සඳහා අවශ්‍ය කටයුතු සූදානම් කර ගන්නා ලෙසත් නියමිත දිනයේ දී රාජකාරී කටයුතු සිදුකරන ස්ථාන වෙත ගමන් කරන ලෙසත් මැතිවරණ කොමිෂන් සභාව දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/ca20dfc6.json)
 
 ---
 
@@ -632,6 +676,42 @@ Ranil Wickremesinghe (RW) has been with the Parliament for about 47 years. Witho
 
 ---
 
+### Lasting legacy of a unique politician – M. D. Banda
+
+*2024-09-16 23:01:00* · [`islandlk`](http://island.lk/lasting-legacy-of-a-unique-politician-m-d-banda/) · `en`
+
+Fifty years is a long time, enough for most things to fade into obscurity. So, it is truly remarkable that the legacy of the late Mr. M.D. Banda continues to endure, even five decades after his passing on September 18, 1974. In a country where memories are often short-lived, the fact that M.D. Banda’s name is still spoken with respect and admiration is indeed a testament to the profound impact he made on Sri Lanka.
+
+What makes this all the more intriguing is that M.D. Banda was a rare politician, one who actively avoided the limelight and personal glorification. He never put his name on plaques or buildings, nor sought to be immortalized in monuments, despite spearheading countless development projects for the people. His greatness lies not in self-promotion, but in his remarkable deeds.
+
+...
+
+[Data](articles/0705a2c4.json)
+
+---
+
+### Mega scene with Gypsies …Down Under
+
+*2024-09-16 23:00:00* · [`islandlk`](http://island.lk/mega-scene-with-gypsies-down-under/) · `en`
+
+The Gypsies is one band that has the ability, and the talent, to cater to the musical tastes of a wide and varied audience and they proved it in a mega way during their recent tour of Australia, taking in Perth, Sydney and Adelaide.
+
+Surprisingly, Melbourne wasn’t included, and that’s a happening place where Sri Lankans are concerned, but leader Piyal Perera has a valid explanation.
+
+“We didn’t take in Melbourne because we were there in February, this year, and we generally like to keep a gap of about one year before we return.”
+
+The concerts in Perth, Sydney and Adelaide were well patronised – in fact, it was ‘sold out’ at all three venues.
+
+On social media, this came up regarding the band’s concert in Perth:
+
+“Sold Out! The Gypsies are ready to bring the house down in Perth on 31st August at the Indian Community Hall! Get ready for an unforgettable night of music and dance. Thank you to all our fans for your incredible support!”
+
+...
+
+[Data](articles/e19e2e96.json)
+
+---
+
 ### To support Namal Ranil - request to Mahinda
 
 *2024-09-16 22:59:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ரணிலுக்கு-ஆதரவளிக்க-வேண்டும்-மஹிந்தவிடம்-கோரிக்கை/175-343867) · `ta`
@@ -653,6 +733,30 @@ Addressing the gathering, the President of the University of Colombo Narahenpitt
 [Data](articles/0b873823.json)
 
 [Extended Data](ext_articles/0b873823.ext.json)
+
+---
+
+### Doing it in Germany
+
+*2024-09-16 22:54:00* · [`islandlk`](http://island.lk/doing-it-in-germany/) · `en`
+
+Kevin Elias has been a musician for many years now, but, I guess, not many music lovers in the scene here would remember Kevin as he left for Switzerland in 1988.
+
+He is now based in Germany and is quite active in the scene there … as a solo artiste, also as a duo and trio, depending on the occasion.
+
+Right now he is doing the duo scene with former Moonstones’ guitarist Anura Herat.
+
+In the past, he had a four-piece band, but the pandemic changed everything.
+
+Hotels and entertainment venues made drastic cuts, where payments to musicians were concerned, with most venues opting for duos, said Kevin, adding that quite a few nightspots, in Germany, have also put up shutters.
+
+“I’m lucky I have work at hotels, and I also perform on a cruise ship, singing German, Spanish, Italian and English songs. I do a show – let’s say a very entertaining performance!”
+
+In Sri Lanka, Kevin performed with several bands, including Super Pink & Purple and Climax, and had his own band, as well – Zodiac.
+
+...
+
+[Data](articles/4f2db34f.json)
 
 ---
 
@@ -742,6 +846,8 @@ During the session, Sudath Perera Associates provided CMTA members with valuable
 
 [Data](articles/b0df5651.json)
 
+[Extended Data](ext_articles/b0df5651.ext.json)
+
 ---
 
 ### At the propaganda meeting supporting the Tamil general candidate;I will give my vote like you who mobilized for the ideal for the liberation of Tamils ​​- Maui.Senathirajah
@@ -788,6 +894,8 @@ Conducting the first presentation of the forum, Ms. Nilupa Perera, Senior Vice P
 
 [Data](articles/06877aa0.json)
 
+[Extended Data](ext_articles/06877aa0.ext.json)
+
 ---
 
 ### NDB Bank triumphs at the 39th Mercantile Athletic Championship
@@ -806,6 +914,8 @@ Barista unveils cutting-edge “Happiness Hub” to elevate food preparation and
 
 [Data](articles/5bb12ab1.json)
 
+[Extended Data](ext_articles/5bb12ab1.ext.json)
+
 ---
 
 ### DFCC Leasing achieves 52.6% portfolio growth in first 8 months of 2024
@@ -817,6 +927,8 @@ DFCC Leasing has demonstrated remarkable growth in its leasing portfolio during 
 ...
 
 [Data](articles/df3054bb.json)
+
+[Extended Data](ext_articles/df3054bb.ext.json)
 
 ---
 
@@ -839,6 +951,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/09b328dc.json)
+
+[Extended Data](ext_articles/09b328dc.ext.json)
 
 ---
 
@@ -1152,19 +1266,23 @@ Ranil Wickremesinghe, with the full support of the Ceylon Workers Congress, said
 
 ---
 
-### දේශපාලකයා පොදු නීතියට යටත් කරනවා
+### The politician is subject to the common law
 
 *2024-09-16 19:40:08* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලකයා-පොදු-නීතියට-යටත්-කරනවා/11-411972) · `si`
 
-නීති රීති ශක්තිමත් කර මහජන දේපොළ හොරකම් කළ අයට නීත්‍යනුකූලව දඬුවම් ලබාදෙන බව ජාතික ජන බලවේගයේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. මහජන ධනය නාස්ති කිරීම නතර කරන බවත්, දේශපාලකයා පොදු නීතියට යටත් කරන බවත් ඔහු සඳහන් කළේය.
+Politician accountable under common law. Anura Kumara Dissanayake vows to punish rule-breakers, stop public wealth misuse. Promises stronger institutions, equal treatment between police and politicians. Criticizes Ranil Wickremesinghe's focus on export economy over domestic production. Emphasizes building local industries and services to boost national economy.
 
-'රට අනුරට’ මැයෙන් නාවලපිටියේ පැවති ජාතික ජන බලවේගයේ ජනරැලියක් අමතමින් අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේය. ඔහු මෙසේ ද පැවසීය.
+🟩
 
-“මහ මැතිවරණයෙන් පස්සේ අපි රටට පලදායක පාර්ලිමේන්තුවක් හදනවා. නීති රීති ශක්තිමත් කර මහජන දේපොළ හොරකම් කළ අයට නීත්‍යනුකූලව අනිවාර්යයෙන්ම දඬුවම් ලබාදෙනවා. මහජන ධනය නාස්ති කිරීම නතර කරනවා. දේශපාලකයා පොදු නීතියට යටත් කරනවා. අපේ පාලනයක් යටතේ අපේ රටේ ප්‍රජාතන්ත්‍රවාදය රැකීම සඳහා අවශ්‍ය ආයතන පද්ධතිය ශක්තිමත් කරනවා. මේ රටේ පොලීසිය, හමුදාව දේශපාලකයන් ඉදිරියේ බාල්දු වෙන්න අපි ඉඩ තියන්නේ නැහැ. පොලීසියේ මහත්වරුන්ගේත් රටේ හා ජනතාවගේත් ආරක්ෂාව හැදුවොත් අපිත් ආරක්ෂා වෙනවා. එවිට වෙනම ආරක්ෂාවක් අපට අවශ්‍ය වෙන්නේ නැහැ. මේ පාලකයන් කරන්නේ, රටත් ජනතාවත් අත්හැරදාලා අනාරක්ෂිත කරලා ඒ ගොල්ලෝ වටේ ආරක්ෂක වළලු දාගන්න එක. අපි මේක නතර කරනවා.
+Anura Kumara Dissanayake said the presidential candidate of the National Power to strengthen the rules and steal public property. He said that public wealth would stop wasting and the politician is subject to the common law.
+
+Anura Kumara Dissanayake made these comments addressing a popularity in the Nawalapitiya held in the Nawalapitiya by the 'country'.. He also said:
 
 ...
 
 [Data](articles/1451de3f.json)
+
+[Extended Data](ext_articles/1451de3f.ext.json)
 
 ---
 
@@ -2193,115 +2311,5 @@ Wellalage with 108 runs and seven wickets helped Sri Lanka overcome the India ch
 [Data](articles/c1900289.json)
 
 [Extended Data](ext_articles/c1900289.ext.json)
-
----
-
-### Sri Lanka’s Harshitha named ICC Women’s Player of the Month
-
-*2024-09-16 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102017/sri-lankas-harshitha-named-icc-womens-player-of-the-month) · `en`
-
-Sri Lanka’s rising superstar took home the ICC Women’s Player of the Month for August 2024.
-
-Harshitha Madavi overcame competition from the Irish duo of Orla Prendergast and Gaby Lewis to win the ICC Women’s Player of the Month for August 2024. The talented left-handed top-order batter has gone from strength to strength in recent months, and continued her stirring form in August against Ireland.
-
-Notably, three of the last four winners have been from Sri Lanka, including Chamari Athapaththu who secured the award in both May and July.
-
-Madavi’s win makes it a double for Sri Lanka with Dunith Wellalage securing the ICC Men’s Player of the Month award for August 2024. This is also the third woman’s award for the island nation in 2024, with Athapaththu having won the award in May and July.
-
-The southpaw dominated Ireland in both ODI and T20I legs of the tour, securing some monster scores on the way.
-
-...
-
-[Data](articles/c2f7a931.json)
-
-[Extended Data](ext_articles/c2f7a931.ext.json)
-
----
-
-### Wellala's award received
-
-*2024-09-16 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201081) · `si`
-
-Sri Lanka team selected ICC player 2024. Keshesura Maharaj and West Indies islanders also ranked. Wellala received award.
-
-🟩
-
-The Sri Lankan team in August 2024 has been selected to the ICC player.
-
-The two other players who have been ranked by the division and competitions were Keshesura Maharaj and West Indies islanders.
-
-◼️
-
-[Data](articles/a189e7dd.json)
-
-[Extended Data](ext_articles/a189e7dd.ext.json)
-
----
-
-### After IPO, Sri Lanka’s Cable Solutions looks to expand US operations
-
-*2024-09-16 14:00:00* · [`economynextcom`](https://economynext.com/after-ipo-sri-lankas-cable-solutions-looks-to-expand-us-operations-179699/) · `en`
-
-ECONOMYNEXT – Cable Solutions Limited, a subsidiary of Sri Lanka’s ACL Cables Plc, said it was looking to supply cables to the US operations of a multinational company.
-
-“Our commitment to obtaining international certifications has opened doors to new markets and attracted more discerning customers. For instance, we have begun supplying cables to the UK and potentially the US operations of a multinational company,” Chairman Suren Madanayake told shareholders.
-
-Previously, the company’s products were only available through its Indian plant, he said in the company’s first annual report as a listed company, presenting audited financial statements for the fiscal year ending 2023/2024.
-
-Sri Lanka’s Cable Solutions begins trading on CSE Diri Savi Board
-
-The company made a gross profit of 761,562,327 million for 2023/2024, lower than the 1,084,425,516 in 2022/2023.
-
-...
-
-[Data](articles/b7e618f2.json)
-
-[Extended Data](ext_articles/b7e618f2.ext.json)
-
----
-
-### Sri Lanka Test team announces match against New Zealand
-
-*2024-09-16 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193843) · `ta`
-
-Sri Lanka names 16-member squad for NZ Test series. First match starts March 18 at Galle. Tanjaya de Silva leads team.
-
-🟩
-
-Sri Lanka's 16 -member team has announced the selection of Sri Lanka Cricket in the two -match Test series against New Zealand.
-
-The first Test match between the two teams will begin on the 18th of this month at the International Cricket Ground in Galle.
-
-Tanjaya de Silva heads the 16 -member Sri Lankan cricket team.
-
-◼️
-
-[Data](articles/9adcb6ec.json)
-
-[Extended Data](ext_articles/9adcb6ec.ext.json)
-
----
-
-### Itak support to Sajith - Sridharan protests
-
-*2024-09-16 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201080) · `si`
-
-ITAK supports Sajith Premadasa for presidency. Party leader Mawai Senadhirajah announced decision. Jaffna MP Sridharan disagrees, says Tamil candidate needed for Tamil interests.
-
-🟩
-
-Ilangai Thamil Arasu Kachchi has decided to support the presidential candidate Sajith Premadasa in the next presidential election.
-
-Speaking to the media in Vavuniya this morning (16), the party leader, Mawai Senadhirajah said the party decided to support the presidential passage of the party's central committee presidential decisionThat was done.
-
-Speaking to the media After the meeting, Jaffna District Parliamentarian S. Mr. Sridharan said he would not agree with that view at all.
-
-He also requested the assistance of the Tamil public candidate for the Tamil people in a background that the Sinhalese presidential candidates were not contemplated for the interests of the Tamil people.
-
-◼️
-
-[Data](articles/9ac83a41.json)
-
-[Extended Data](ext_articles/9ac83a41.ext.json)
 
 ---

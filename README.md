@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 07:01:15**
+As of **2024-09-17 07:21:53**
 
 ## Newspaper Stats
 
-*Scraped **44,245** Articles*
+*Scraped **44,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,210
 tamilmirrorlk | 5,771
 virakesarilk | 7,051
-adaderanasinhalalk | 7,573
+adaderanasinhalalk | 7,574
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,244 (100.0%) of 44,245 articles have been extended.
+44,246 (100.0%) of 44,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
 
-### අදත් වැසිවාර කිහිපයක්
+### Buddhism Poya today is today
+
+*2024-09-17 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201098) · `si`
+
+Buddhist Poya today marks significant events: opening of bhikkhuni order, joining 500 women, Buddha's bowl construction, beginning of fourth monastic group. Religious programs planned in temples and sacred sites. Live broadcasts from Sri Sudarshanarama Viharaya.
+
+🟩
+
+This date is known as a number of important cases in the history of the Sasana, including the opening of the bhikkhuni zasana.
+
+The history of the Sasana states that this Pooh day took place to join the Sasatuna with 500 women, giving birth to women.
+
+The Pohowaila has said that the construction of the Thapasu, the bowls and bowls deposit of the Buddha's dollars.
+
+The fourth group of Buddhist monks begins today as the intermediate pote to be held in a Poya Day today.
+
+A number of religious programs have been organized preparing for the Aminate Temples and Policy Sacrials in the countryside on the panarasekatha.
+
+Meanwhile, the Binara Porana is a lively broadcast with Ada Derana 24 hours of news channel, Opanayaka Akarawa, a lively broadcast, is scheduled to be held from the Sri Sudarshanarama Viharaya.
+
+◼️
+
+[Data](articles/e8df409e.json)
+
+[Extended Data](ext_articles/e8df409e.ext.json)
+
+---
+
+### Several closure today
 
 *2024-09-17 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201097) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් ව ඇත්තේ නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත්, හම්බන්තොට, මොනරාගල සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-45) ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+Weather alert: Closures possible in Kandy, Nuwara Eliya, Galle, Matara due to rain. Showers/thunderstorms expected in Eastern/Uva provinces. Strong winds forecasted in Central/North/Western provinces.
+
+🟩
+
+The Department of Meteorology says that several closes in the Western, Sabaragamuwa and North Western provinces can occur in the Kandy, Nuwara Eliya, Galle and Matara districts.
+
+The announcement issued by the department states that showers or night thundershowers will occur at night in the Eastern and Uva provinces.
+
+At times, in the Western-mountains of the Central Mountains, the North, North Central and North Western provinces, Hambantota, Moneragala and Trincomalee districts.. (40-45) can cause strong winds.
 
 ◼️
 
 [Data](articles/15c5bb1b.json)
+
+[Extended Data](ext_articles/15c5bb1b.ext.json)
 
 ---
 
@@ -2321,25 +2359,5 @@ The Minister pointed out that the JVP has no vision.
 [Data](articles/6bcbe33d.json)
 
 [Extended Data](ext_articles/6bcbe33d.ext.json)
-
----
-
-### Information on the Grade 5 Scholarship Examination results
-
-*2024-09-16 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193828) · `ta`
-
-Grade 5 Scholarship Exam results: Expected release in 40 days. Held at 2,849 centers, 323,879 students passed. Commissioner General Amit Jayasundara announced.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundara said that the results of the fifth grade scholarship examination, which was held on Sunday (15), are expected to be released in 40 days.
-
-The Commissioner General of Examinations added that this year's scholarship examination was held at 2,849 exam centers and 323,879 students have passed the exam.
-
-◼️
-
-[Data](articles/a7c890cd.json)
-
-[Extended Data](ext_articles/a7c890cd.ext.json)
 
 ---

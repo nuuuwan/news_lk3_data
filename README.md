@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-17 16:22:30**
+As of **2024-09-17 16:55:26**
 
 ## Newspaper Stats
 
-*Scraped **44,348** Articles*
+*Scraped **44,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 2,685
 dailyftlk | 2,935
 adalk | 4,093
 dailymirrorlk | 4,733
-adaderanalk | 5,220
+adaderanalk | 5,221
 tamilmirrorlk | 5,788
 virakesarilk | 7,079
-adaderanasinhalalk | 7,594
+adaderanasinhalalk | 7,596
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,344 (100.0%) of 44,348 articles have been extended.
+44,351 (100.0%) of 44,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-17 (Tuesday)
+
+### A massive objection begins in Pakistan
+
+*2024-09-17 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201120) · `si`
+
+Pakistan protests: Private schools object to government-imposed tax on monthly fees. Education advocates warn it may limit accessibility for students.
+
+🟩
+
+Private educational institutions are protesting over Pakistan throughout Pakistan against the imposition of taxes made by the Government of Pakistan for a monthly fee for private schools.
+
+The government has warned the government that the levy is implemented, foreign media reports say.
+
+Private school delegates point out that the general public will not be able to education by implementing such tax.
+
+◼️
+
+[Data](articles/68053966.json)
+
+[Extended Data](ext_articles/68053966.ext.json)
+
+---
+
+### SLFP’s Hiniduma chief organiser murdered in Panagoda
+
+*2024-09-17 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102041/slfps-hiniduma-chief-organiser-murdered-in-panagoda) · `en`
+
+The Sri Lanka Freedom Party’s (SLFP) chief organiser for the Hiniduma Electorate in Galle District, Sampath Gamage has reportedly been assaulted and murdered at his residence in Panagoda, Homagama.
+
+Meegoda Police said that while the victim was at his home in Samagi Mawatha, Panagoda today (17), an individual who arrived in a three-wheeler had hit him on the head with a club. He had later died after being admitted to the Homagama Base Hospital with serious injuries.
+
+The deceased is a businessman identified as Sampath Gamage, a resident of Panagoda in Homagama.
+
+The suspect who committed the murder is yet to be identified while investigations are ongoing.
+
+According to reports, the deceased had been serving as the SLFP’s chief organiser for the Hiniduma electorate.
+
+Scenes of crime officers (SOCOs) of the Nugegoda Police Division and officers of the Meegoda Police Crimes Unit have arrived at the scene of the incident and are conducting investigations.
+
+◼️
+
+[Data](articles/d1d97295.json)
+
+[Extended Data](ext_articles/d1d97295.ext.json)
+
+---
+
+### The 17th suspect in Club Wasantha murder is detained and questioned
+
+*2024-09-17 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201119) · `si`
+
+17th suspect in Club Wasantha murder case detained. Acting Magistrate grants permission for questioning. Suspect identified as 24-year-old from Dharga town. Police reveal suspect transported other suspects in Athurugiriya. 12 suspects already remanded, four in custody for three months.
+
+🟩
+
+Kaduwela acting Magistrate D. G. P. Karunaratne has been granted permission.
+
+The Western Province South, South Criminal Investigation Unit, was a 24-year-old suspect in Dharga town.
+
+The police have revealed that the suspect was transporting the suspects as a KPI in Athurugiriya, who was used by the suspects and remained suspects in a car.
+
+The suspect has been arrested as the 17th suspect and 12 suspects including a suspect and 12 suspects including a suspect have been remanded.
+
+Four others have been in custody for three months and interrogation orders.
+
+◼️
+
+[Data](articles/72c5cac7.json)
+
+[Extended Data](ext_articles/72c5cac7.ext.json)
+
+---
 
 ### World Patient Safety Day today
 
@@ -150,59 +222,85 @@ We need a country that is not afraid of the people's ruler. We now need the gove
 
 ---
 
-### இசை வெளியீட்டு விழாவை கலகலப்பாக்கிய விஜய் அண்டனி
+### Vijay Antony
 
 *2024-09-17 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193938) · `ta`
 
-விஜய் அண்டனி கதையின் நாயகனாக நடித்து எதிர்வரும் 27 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் 'ஹிட்லர்' எனும் திரைப்படத்தின் இசை வெளியீடு சென்னையில் பிரம்மாண்டமாக நடைபெற்றது.
+"Hitler" film music release: Vijay Antony stars alongside Gautham Vasudev Menon, Riya Suman, Aishwarya Dutta. Music by Vivek-Mervin. Produced by T. De Raja and DR Sanjay Kumar."
 
-இந்நிகழ்வில் பங்கு பற்றிய படத்தின் நாயகனான விஜய் அண்டனி மேடை ஏறிய பிறகு கௌதம் வாசுதேவ் மேனன், படத்தின் நாயகியான ரியா சுமன், படத்தில் ஒரே ஒரு பாடலுக்கு நடனமாடி இருக்கும் நடிகை ஐஸ்வர்யா தத்தா மற்றும் இந்நிகழ்ச்சியை தொகுத்து வழங்கிய தொகுப்பாளினி ஆகியோரை மேடையில் வைத்துக் கொண்டு தான் ஒரு காதல் காட்சியில் நடிப்பதற்கான ஒத்திகையை காதலை ரசிகர்கள் விரும்பும் வகையில் வித்தியாசமாக இயக்கம் கௌதம் வாசுதேவ் மேனன் முன்னிலையில் மேற்கொண்டார்.
+🟩
 
-இயக்குநர் எஸ். ஏ. தனா இயக்கத்தில் உருவாகி இருக்கும் இந்த 'ஹிட்லர்' எனும் திரைப்படத்தில் விஜய் அண்டனி, ரியா சுமன், கௌதம் வாசுதேவ் மேனன், விவேக் பிரசன்னா, ஐஸ்வர்யா தத்தா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+The music release of 'Hitler', which will be released in the film palace worldwide on the 27th of this month, starring Vijay Antony's story.
 
-விவேக் , மெர்வின் இசை அமைத்திருக்கும் இந்த படத்தில் இடம்பெறும் பாடல்கள் அனைத்தும் ரசிக்கும் வகையில் இருப்பதால் ரசிகர்களை கவர்ந்தது.
+Gautham Vasudev Menon, the hero of the film, Riya Suman, the hero of the film, Aishwarya Dutta and the hostess of the film, are playing the role of the film in a romantic scene.Vasudev Menon carried out in the presence of.
 
-...
+Director S.. A.. The film 'Hitler', which is being produced by Tana, has starred in Vijay Antony, Riya Suman, Gautham Vasudev Menon, Vivek Prasanna, Aishwarya Dutta.
+
+Vivek and Mervin's music is a fascination with all the songs featured in the film.
+
+Producer T.. De Raja and DR Sanjay Kumar have co -produced.
+
+◼️
 
 [Data](articles/5279538f.json)
 
+[Extended Data](ext_articles/5279538f.ext.json)
+
 ---
 
-### சத்யராஜ் நடிக்கும் 'ஜீப்ரா' படத்தின் மோஷன் போஸ்டர் வெளியீடு
+### Motion Poster release of Sathyaraj starring 'Zebra'
 
 *2024-09-17 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193936) · `ta`
 
-'புரட்சித் தமிழன்' சத்யராஜ் ,டாலி தனஞ்செயா ,சத்யதேவ்,  என தமிழ், தெலுங்கு, கன்னட திரையுலகின் முன்னணி நட்சத்திர நடிகர்கள் ஒன்றிணைந்து நடித்திருக்கும் 'ஜீப்ரா' எனும் திரைப்படத்தின் மோசன் போஸ்டர் வெளியிடப்பட்டிருக்கிறது.
+Here's a 200-character summary:
 
-அத்துடன் இந்த திரைப்படம் தீபாவளி திருநாளன்று பட மாளிகையில் வெளியாகும் என அறிவிக்கப்பட்டிருக்கிறது.
 
-இயக்குநர் ஈஸ்வர் கார்த்திக் இயக்கத்தில் உருவாகி இருக்கும் 'ஜீப்ரா' எனும் திரைப்படத்தில் சத்யராஜ், டாலி தனஞ்செயா, சத்யதேவ், பிரியா பவானி சங்கர், சுனில், சத்யா, ஜெனிபர் பிசினாடோ, சுரேஷ் மேனன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-நிதி குற்றத்தை மையப்படுத்தி திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஓல்ட் டவுன் பிக்சர்ஸ் மற்றும் பத்மஜா பிலிம்ஸ் இந்தியா பிரைவேட் லிமிடெட் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் எஸ். என். ரெட்டி , எஸ். பத்மஜா , பாலசுந்தரம் , தினேஷ் சுந்தரம் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+"Zebra" starring Sathyaraj releases Oct 31. Directed by Iswar Karthik, produced by Old Town Pictures and Padmaja Films India. Starring Sathyaraj, Dalai Tananjaya, Satyadev, Priya Bhavani Shankar. Released in Tamil, Telugu, Malayalam, Kannada, Hindi.
 
-இந்தத் திரைப்படத்தின் வெளியீடு குறித்த அறிவிப்பை பிரத்யேக காணொலி மூலம் படக்குழுவினர் வெளியிட்டிருக்கிறார்கள்.
+🟩
 
-...
+'Revolutionary Tamil' Satyaraj, Dali Tananjaya, Satyadev, Tamil, Telugu and Kannada filmmaker's leading star actors' 'Zebra' has been released.
+
+It has also been announced that the film will be released at the film mansion on Diwali.
+
+Sathyaraj, Dali Tananjaya, Satyadev, Priya Bhavani Shankar, Sunil, Sunil, Satya, Jennifer Busynado, Suresh Menon, directed by director Iswar Karthik.
+
+Producers SS on behalf of Old Town Pictures and Padmaja Films India Private Limited. My. Reddy, S.. Padmaja, Balasundaram and Dinesh Sundaram are co -produced.
+
+The film crew has released the announcement of the release of the film via special video.
+
+The film will be released on October 31 in Tamil, Telugu, Malayalam, Kannada and Hindi.
+
+◼️
 
 [Data](articles/7eff3a59.json)
 
+[Extended Data](ext_articles/7eff3a59.ext.json)
+
 ---
 
-### வாக்கு மோசடியில் ஈடுபடுவோருக்கு அபராதம் விதிக்கப்படும் - தேர்தல் ஆணைக்குழு
+### Those involved in voting will be fined - the Election Commission
 
 *2024-09-17 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193925) · `ta`
 
-வாக்கு மோசடியில் ஈடுபடுவோருக்கு 2 இலட்சம் ரூபாய் அபராதம் விதிக்கப்படும் என தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+Election Commission fines voters Rs 2 lakh for involvement in ballot fraud. Those found guilty face less than one year imprisonment. Action taken under Elections Act No. 23 of 2023.
 
-வாக்கு மோசடியில் ஈடுபடுவோருக்கு 500 ரூபாய் அபராதம் விதிக்கப்படும் என அறிவிக்கப்பட்டிருந்த நிலையில் தற்போது அந்த தொகை 2 இலட்சம் ரூபாவாக அதிகரிக்கப்பட்டுள்ளது.
+🟩
 
-இந்தக் குற்றச்சாட்டில் குற்றவாளிகள் என நிரூபிக்கப்படும் நபர்களுக்கு ஓராண்டுக்கு குறையாத காலம் சிறைத்தண்டனை விதிக்கப்படும் எனவும் ஆணைக்குழு குறிப்பிட்டுள்ளது.
+The Election Commission has said that those who are involved in the ballot will be fined Rs 2 lakh.
 
-2023 ஆம் ஆண்டு 23 ஆம் இலக்க தேர்தல் விசேட ஏற்பாடுகள் சட்டத்தின் கீழ் உரிய சட்டங்களை கடுமையாக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தேர்தல் ஆணைக்குழு மேலும் தெரிவித்துள்ளது.
+Currently, the amount has been increased to Rs.
+
+The Commission also stated that persons who are guilty of this charge will be sentenced to less than a year.
+
+The Election Commission further stated that action has been taken to tarnish the law under the Elections Act No. 23 of 2023.
 
 ◼️
 
 [Data](articles/b5621575.json)
+
+[Extended Data](ext_articles/b5621575.ext.json)
 
 ---
 
@@ -256,23 +354,29 @@ Tests will be held at Galle International Cricket Stadium and the first match be
 
 ---
 
-### நாளையதினம் அரச வைத்திய அதிகாரிகள் சங்கம் பணிப்பகிஷ்கரிப்பு
+### State Medical Officers Association Tomorrow
 
 *2024-09-17 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193939) · `ta`
 
-நாடளாவிய ரீதியிலுள்ள வைத்தியசாலைகளை இலக்கு வைத்து நாளை புதன்கிழமை (18) தொழிற்சங்க நடவடிக்கையை முன்னெடுக்கவுள்ளதாக அரச வைத்திய அதிகாரிகள் சங்கம் அறிவித்துள்ளது.
+State Medical Officers Association announces strike against hospitals on Wednesday. Union targets disciplinary actions by Health Ministry. 14-day deadline set for review. Next steps determined after Central Committee meeting.
 
-அதன்படி, நாளைய தினம் காலை 8.00 மணி முதல் பணிப்பகிஷ்கரிப்பை ஆரம்பிக்கவுள்ளதாகவும், இதனால் வைத்திய சிகிச்சை அளிப்பதில் இடையூறு ஏற்படலாம் என  அரச வைத்திய அதிகாரிகள் சங்கத்தின் ஊடக பேச்சாளர்  கலாநிதி சமில் விஜேசிங்க தெரிவித்துள்ளார்.
+🟩
 
-அரச வைத்திய அதிகாரிகள் சங்கத்தின் ஊவா மாகாண இணைப்பாளரும், உதவி செயலாளர் வைத்தியர் பாலித ராஜபக்ஷவுக்கு எதிராக சுகாதார அமைச்சு முன்னெடுக்கும்  ஒழுக்காற்று நடவடிக்கைக்கு எதிர்ப்பு தெரிவித்தே இந்த பணிபகிஷ்கரிப்பை முன்னெடுக்கவுள்ளனர்.
+The State Medical Officers Association has announced that it will carry out trade union action on Wednesday (18) targeting hospitals across the country.
 
-இந்த சம்பவம் தொடர்பில் மீள் பரீசிலணை செய்வதற்கு சுகாதார அமைச்சுக்கு 14 நாள் கால அவகாசத்தை அரச வைத்திய அதிகாரிகள் சங்கம் வழங்கும்.
+According to the media spokesman of the State Medical Officers Association, Dr. Samil Wijesinghe said that the work will be started from 8:00 am tomorrow.
 
-அதற்கு சாதாகமான பதில் கிடைக்காவிடின் மாத இறுதியில் நடைபெறும் மத்திய குழுக் கூட்டத்தைத் தொடர்ந்து அடுத்தகட்ட நடவடிக்கை எடுக்கப்படும் எனக் குறிப்பிட்டுள்ளார்.
+The Government Medical Officers Association (UW Province Coordinator and the Assistant Secretary of the Uva Provincial Officers' Association and Assistant Secretary Dr. Palitha Rajapakse will carry out this work in protest of the disciplinary action of the Ministry of Health.
+
+The Government Medical Officers Association will provide a 14 -day time to the Health Ministry to re -examine the incident.
+
+If the answer is not a good response, the next step will be taken following the Central Committee meeting at the end of the month.
 
 ◼️
 
 [Data](articles/ae9eca0e.json)
+
+[Extended Data](ext_articles/ae9eca0e.ext.json)
 
 ---
 
@@ -2569,51 +2673,5 @@ The complaint comes in the wake of unrest at the university, which led to its te
 [Data](articles/4a07702c.json)
 
 [Extended Data](ext_articles/4a07702c.ext.json)
-
----
-
-### Former President and SLPP leader Mahinda Rajapaksa , SLPP Presidential hopeful Namal Rajapaksa, wave to the crowd during a rally in Dambulla
-
-*2024-09-17 01:26:11* · [`dailyftlk`](https://www.ft.lk/news/Former-President-and-SLPP-leader-Mahinda-Rajapaksa-SLPP-Presidential-hopeful-Namal-Rajapaksa-wave-to-the-crowd-during-a-rally-in-Dambulla/56-766781) · `en`
-
-Former President and SLPP leader Mahinda Rajapaksa (left), alongside SLPP Presidential hopeful Namal Rajapaksa, wave to the crowd during a rally in Dambulla yesterday, as the party gears up for the upcoming Presidential election.
-
-◼️
-
-[Data](articles/f1b17ab3.json)
-
-[Extended Data](ext_articles/f1b17ab3.ext.json)
-
----
-
-### Janaka Ratnayake urges Sri Lankans to vote with reason
-
-*2024-09-17 01:20:54* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-urges-Sri-Lankans-to-vote-with-reason/56-766780) · `en`
-
-Eksath Lanka Podujana Peramuna Presidential candidate Janaka Ratnayake has urged Sri Lankans to make a rational decision at the polls on 21 September, asking them to vote with their minds rather than their hearts. In his address to the nation, Ratnayake emphasised his vision of rebuilding the country, rescuing it from its current economic challenges, and securing a better future for the children of Sri Lanka.
-
-He recalled his time as the Chairperson of the Public Utilities Commission of Sri Lanka (PUCSL), where he consistently advocated for the underprivileged. He alleged that his removal from this position was orchestrated by President Ranil Wickremesinghe, Sri Lanka Podujana Peramuna (SLPP) Presidential candidate Namal Rajapaksa, and National People’s Power (NPP) Presidential candidate Anura Kumara Dissanayake working together.
-
-However, despite these accusations all NPP MPs led by Dissanayake voted against the motion to remove him when it was brought to Parliament on 24 May 2023.
-
-◼️
-
-[Data](articles/f7bb2671.json)
-
-[Extended Data](ext_articles/f7bb2671.ext.json)
-
----
-
-### International Union against Tuberculosis and Lung Diseases extends grant to study new treatment model
-
-*2024-09-17 01:17:59* · [`dailyftlk`](https://www.ft.lk/news/International-Union-against-Tuberculosis-and-Lung-Diseases-extends-grant-to-study-new-treatment-model/56-766779) · `en`
-
-International Union against Tuberculosis and Lung Diseases has extended a financial grant of $ 387,280 to initiate a study on Tuberculosis (TB) new treatment model as part of its National Program for Tuberculosis Control and Chest Diseases.
-
-...
-
-[Data](articles/ac12f099.json)
-
-[Extended Data](ext_articles/ac12f099.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 04:38:08**
+As of **2024-09-18 04:57:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,425 (100.0%) of 44,435 articles have been extended.
+44,427 (100.0%) of 44,435 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -158,23 +158,31 @@ Nawaratna also states in his letter that his resignation is tendered strictly wi
 
 [Data](articles/aafb0f9a.json)
 
+[Extended Data](ext_articles/aafb0f9a.ext.json)
+
 ---
 
-### தமிழ், சிங்கள, முஸ்லிம் மக்கள் அனைவருக்கும் வளமான எதிர்காலத்தை உருவாக்குவேன் - ஜனாதிபதி
+### I will create a prosperous future for all Tamil, Sinhala and Muslim people - President
 
 *2024-09-18 03:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193973) · `ta`
 
-தமிழ், சிங்கள, முஸ்லிம் உள்ளிட்ட அனைத்து மக்களுக்கும் வளமான எதிர்காலத்தை உருவாக்கும் வேலைத்திட்டத்துடனே தான் ஜனாதிபதித் தேர்தலில் மக்கள் முன் வந்துள்ளதாகவும், கடந்த பொருளாதார நெருக்கடியினால் பாதிக்கப்பட்ட அனைத்து மக்களுக்கும் துரிதமாக நியாயம் வழங்கப்படும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe promises prosperity for all ethnic groups, addresses economic challenges, and outlines development plans for Mannar. He urges voters to support his vision for Sri Lanka's future on September 21.
 
-வீழ்ச்சியடைந்த நாட்டின் பொருளாதாரத்தை மீட்க கடினமான தீர்மானங்களை எடுக்க நேரிட்டதாகத் தெரிவித்த ஜனாதிபதி, நாட்டு மக்கள் பொறுமை காக்கும் வேளையில், எதிர்க்கட்சியினர் அதிகாரத்தை மட்டுமே குறியாக வைத்து தேர்தல் கோரி போராட்டம் நடத்தியதையும் நினைவு கூர்ந்தார்.
+🟩
 
-மன்னார் பஸ் நிலையத்திற்கு முன்பாக செவ்வாய்க்கிழமை (17) பிற்பகல் நடைபெற்ற 'ரணிலால் இயலும்' வெற்றிப் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said that he had come to the presidential election with a program to create a prosperous future for all people including Tamil, Sinhala and Muslim, and that all the people affected by the last economic crisis would be expedited.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் வகையில் நடைபெற்ற இந்த பேரணியில் பெருந்திரளான மக்கள் கலந்துகொண்டனர்.
+The president said that the country had made difficult decisions to restore the economy of the country, and recalled that while the people of the country were impatient, the opposition parties had a struggle to demand only the power of the opposition.
+
+President Ranil Wickremesinghe made this statement while addressing the 'Ranilal' Victory rally held in front of the Mannar bus station on Tuesday (17).
+
+A large number of people participated in the rally to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election.
 
 ...
 
 [Data](articles/ccbc68fb.json)
+
+[Extended Data](ext_articles/ccbc68fb.ext.json)
 
 ---
 

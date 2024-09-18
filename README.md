@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 14:39:26**
+As of **2024-09-18 14:57:29**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,625
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,530 (100.0%) of 44,532 articles have been extended.
+44,532 (100.0%) of 44,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
 
-### පක්ෂ මාරු කළ නොහැකි නව නීති ගෙන එන බව නාමල් කියයි
+### Namal says that new rules are being transferred to the parties
 
 *2024-09-18 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201151) · `si`
 
-තමන් බලයට පැමිණීමෙන් පසු පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට පක්ෂ මාරු කළ නොහැකි ලෙස නව නීති සම්පාදනය කරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal announces new rules transfer to parties. Presidential candidate promises changes post-election. Criticizes opposition, vows transparency. Emphasizes plans for national development over personal gain.
 
-ඔහු මේ අදහස් පළ කළේ ඊයේ (17) ගාල්ල ප්‍රදේශයේ පැවති ජන රැලියක් අමතමින්.
+🟩
 
-"එදා විපක්ෂය කියන්න බැලුවා රාජපක්ෂලා අපේ කණ්ඩායම හැංගිලා කියලා. නෑ අපි කවදාවත් හැංගිලා හිටියේ නෑ. අපි හැංගෙන්නෙත් නෑ. අපිව හංගන්නත් බෑ. මොකද මට වැඩපිළිවෙලක් තියෙනවා. අපිට රට හදන්න සැලැස්මක් තියෙනවා. අනිත් අයව සල්ලිවලට, වරදානවලට ගන්න පුළුවන් ඇති. හැබැයි ගමේ පාක්ෂිකයාව සල්ලිවලට ගන්න බෑ. ගියපු අයව ගන්න එපාලු. ඒක මං තාත්තාගෙන් අවසර ගත්තා සැලුන්දොර වහන්න. අපේ සැලුන්දොර වහනවා විතරක් නෙමෙයි අපි පාර්ලිමේන්තුවේ නීතියක් ගේනවා කිසිම දේශපාලනඥයෙක්ට වරප්‍රසාදවලට පක්ෂය මාරු කරන්න බැරි නීතියක් අපි පාර්ලිමේන්තුවට ගේනවා. මම ඔබට වගකීමකින් කියනවා ඔබ මං කෙරෙහි තබන විශ්වාසය පළුඳු වෙන්න මෙම ඉඩතියන්නේ නෑ."
+Presidential candidate of the Sri Lanka Ceremony of Publisher says that after his coming to power, the presidency of the Sri Lanka Ceremony of the Sri Lanka Pubelian Publishing Leaders say.
+
+He made these comments addressing a rally held in Galle yesterday (17).
+
+"The opposition asked the Rajapaksas that our team was hiding. No, we never hid. We're not hiding. We can't hide us. Because I have a program. We have a plan to make the country. Money can get the money, in the time. But money cannot buy the village party. Epale to get the goal. It was allowed from my father to close the salon. Not just our loyalty to our loyalty, we bring a law of parliament to parliament that cannot be transferred to privileges. I am responsible for you, this will not allow you to be put in touch. "
 
 ◼️
 
 [Data](articles/ed0daa7a.json)
+
+[Extended Data](ext_articles/ed0daa7a.ext.json)
 
 ---
 
@@ -72,17 +78,27 @@ It is noteworthy that the police and the riot unit were summoned to the site as 
 
 ---
 
-### හෙල්මට් එකක් සහ ජැකට් එකක් උතුරු දුම්රිය මාර්ගයේ දුම්රිය නවත්වයි
+### A helmet and a jacket stops the train on Northern Railway line
 
 *2024-09-18 13:49:25* · [`adalk`](https://www.ada.lk/breaking_news/හෙල්මට්-එකක්-සහ-ජැකට්-එකක්-උතුරු-දුම්රිය-මාර්ගයේ-දුම්රිය-නවත්වයි/11-411998) · `si`
 
-දුම්රිය නියාමකවරයෙකුගේ යතුරු පැදි හිස් වැසුමක් සහ වැසි කබායක් සොරකම් කිරීමේ සිද්ධියක් මුල් කර ගනිමින් ඊයේ (18දා) දා අලුයම සිට දුම්රිය නියාමකවරු ආරම්භ කල වැඩ වර්ජනයක් හේතුවෙන්,  උතුරු දුම්රිය මාර්ගයේ  දුම්රිය රැසක් ධාවනය නොවූ අතර, ඒ හේතුවෙන් විදෙස් සංචාරකයන්, විශ්ව විද්‍යාල සිසුන් , ආරක්ෂක අංශ සාමාජිකයන් ඇතුළු මගීහු විශාල පිරිසක් දැඩි අපහසුතාවයට පත්ව සිටියහ.
+Train halted Northern Railway line due to helmet and jacket obstruction. Motorcycle theft sparks protest affecting commuters, military personnel, and security forces.
 
-මෙම වැඩ වර්ජනය හේතුවෙන් අද (18දා) අළුයම 5ට  අනුරාධපුර සිට මැදවච්චිය දක්වාත්, මැදවච්චිය සිට අනුරාධපුර දක්වාත් ධාවනය වීමට නියමිතව තිබූ රේල් බස්රථය ධාවනය නොවූ අතර , උදෑසන 8.20 ට අනුරාධපුර සිට කන්කසන්තුරේ  දක්වා ධාවනය වීමට නියමිතව තිබූ අංක 4441 අංක දරන දුම්රිය ධාවනය නොවූ බවද මෙහිදී දුම්රිය ප්‍රකාශකයකු පැවසීය.
+🟩
+
+No-railway line has been operated from the early hours of operation of a railway killer and a rainy violence on a rains.A large number of passengers, including members, were very embarrassed.
+
+The train was not running from Anuradhapura to Medawachchiya to Medawachchiya to Medawachchiya to Kawachchiya today (18).Said a spokesman.
+
+From time to time, the train regulators stopped at the train stage and had recently stopped at the motorcycle staff in front of the railway station in front of the railway station in front of the railway station in front of the train staff.The strike says that the strike will be launched with stealing a motorcycle empty and stealing a coat.
+
+When contacted, a train spokesman said that the motorcycle was taken to the ground, carrying parcels and train to the ground, was severely obstructed due to the stopping of the motorcycle train.
 
 ...
 
 [Data](articles/b55dc593.json)
+
+[Extended Data](ext_articles/b55dc593.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 13:22:39**
+As of **2024-09-18 13:38:31**
 
 ## Newspaper Stats
 
-*Scraped **44,520** Articles*
+*Scraped **44,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 430
 colombotelegraphcom | 444
-islandlk | 2,622
+islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
 adalk | 4,106
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,239
 tamilmirrorlk | 5,814
 virakesarilk | 7,115
-adaderanasinhalalk | 7,620
+adaderanasinhalalk | 7,622
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,515 (100.0%) of 44,520 articles have been extended.
+44,521 (100.0%) of 44,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Do you give you chances and lose your future?- Ranil
+
+*2024-09-18 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201148) · `si`
+
+Here's a 200-character summary:
+
+
+
+Ranil Wickremesinghe urges public not to risk lives for Kumara Dialaya. He cites 2022 economic crisis, long queues, political instability. Encourages giving chance to resolve issues without losing future.
+
+🟩
+
+Ranil Wickremesinghe urges the public not to risk your life to Kumara Dialaya, providing a time when the crisis.
+
+"Ranil can participate in Minuwangoda today.
+
+"The country was in a mess of 2022. The gas queue, the diesel queue, was on diesel queue. There was no fertilizer, there was no food. The whole economy collapsed, politics collapsed at the time. The Prime Minister and the government resigned. No one accepted the government. Opposition Leader ran. Harsha de Silva publicly said we would not accept this. I could not find Anura Dissanayaka. They didn't understand that you were in your pain, queues, and running.
+
+...
+
+[Data](articles/90d0481b.json)
+
+[Extended Data](ext_articles/90d0481b.ext.json)
+
+---
+
+### Mathews is notified of the situation
+
+*2024-09-18 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201147) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Angelo Mathews injured while batting. Mahinda Halangoda reports Mathews is recovering well. Mathews expects to return soon, ready to face fast bowling.
+
+🟩
+
+Mahinda Halangoda has explained to Angelo Mathews, who left the top of the right hand, due to the batting.
+
+The Crynfoo website quoted him and reported that Mathews would be in good condition.
+
+He said he is ready to get to the ball to the ground.
+
+◼️
+
+[Data](articles/2c337667.json)
+
+[Extended Data](ext_articles/2c337667.ext.json)
+
+---
 
 ### President promises to improve English proficiency across Sri Lanka within 10 years
 
@@ -48,39 +100,65 @@ He argued that if this program had been implemented at that time, the country wo
 
 [Data](articles/b1bbada6.json)
 
+[Extended Data](ext_articles/b1bbada6.ext.json)
+
 ---
 
-### பெண் மருத்துவரின் விபரங்களை நீக்கியது விக்கிப்பீடியா
+### Wikipedia deleted female doctor's details
 
 *2024-09-18 12:40:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-மருத்துவரின்-விபரங்களை-நீக்கியது-விக்கிப்பீடியா/175-343954) · `ta`
 
-உச்ச நீதிமன்ற உத்தரவை அடுத்து கொல்கத்தா ஆர்.ஜி.கர் மருத்துவமனையில் பாலியல் வன்கொடுமை செய்து, கொலை செய்யப்பட்ட வழக்கில் பாதிக்கப்பட்ட பயிற்சி பெண் மருத்துவரின் பெயர், புகைப்படத்தை விக்கிப்பீடியா நீக்கியுள்ளது.இது தொடர்பாக செவ்வாய்க்கிழமை உச்ச நீதிமன்றம் உத்தரவு பிறப்பித்தது.
+Here's a 200-character summary:
 
-இதையடுத்து விக்கிப்பீடியாவின் தாய் நிறுவனமான விக்கிமீடியா அறக்கட்டளை தரப்பில் விளக்கம் தரப்பட்டுள்ளது. பொதுவாக விக்கிப்பீடியாவில் பதிவாகும் கட்டுரைகளை விக்கிமீடியா அறக்கட்டளை திருத்தவோ அல்லது சென்சார் செய்வதோ இல்லை என்பது குறிப்பிடத்தக்கது. இது கொள்கை ரீதியிலான முடிவு.
+
+
+Wikipedia deletes doctor's name after Supreme Court order. Wikimedia Foundation policy decision. Volunteer editor removes details from article. Foundation responds to safety concerns, respecting local laws. Wikipedia provides free information to millions globally.
+
+🟩
+
+Wikipedia has deleted the name and photo of a female doctor in the case of rape and murder of Kolkata at RG Karkar Hospital following the Supreme Court order.
+
+Subsequently, Wikipedia's mother company, Wikimedia Foundation, has been interpreted. It is noteworthy that the Wikimedia Foundation does not edit or sensor articles in general. This is a policy decision.
+
+However, a representative on behalf of the Foundation participated in the debate attended by users on the issue.. In it, he raised the question of whether the name of the victim's training doctor should mention the Kolkata incident in the article. Subsequently, a volunteer editor was reported to have removed the name and photo of the victim's doctor in the article on the sexual abuse case at Kolkata RG Kar Hospital.
+
+The last amendment was made at 3.22 am today, according to Indian time.
 
 ...
 
 [Data](articles/5e357761.json)
 
+[Extended Data](ext_articles/5e357761.ext.json)
+
 ---
 
-### ලෙබනනයේ ස්ථාන කිහිපයක පිපිරීම් - 3000ට වැඩි පිරිසක් තුවාල ලබයි
+### More than 3000 killed in Lebanon
 
 *2024-09-18 12:20:08* · [`adalk`](https://www.ada.lk/breaking_news/ලෙබනනයේ-ස්ථාන-කිහිපයක-පිපිරීම්---3000ට-වැඩි-පිරිසක්-තුවාල-ලබයි/11-411992) · `si`
 
-ලෙබනනයේ බේරූට් අගනුවර ඇතුළු ප්‍රදේශ කිහිපයක සිදුවූ පිපිරීම් වලින් පුද්ගලයන් 09 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Here's a 200-character summary:
 
-එම පිපිරීම් වලින් 3000ට වැඩි පිරිසක් තුවාල ලබා ඇති අතර, ඉන් 200 දෙනෙකුගේ තත්ත්වය බරපතල  බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
 
-පේජර් පණිවිඩ හුවමාරු යන්ත්‍ර 5000කට පුපුරණ ද්‍රව්‍ය යොදා මෙම පිපිරීම් සිදු කර ඇති බව සඳහන්.
 
-Take a look at where people were and who they were surrounded by when their pagers exploded.
+Lebanon explosions: Over 3000 killed/injured, 200 critical. Explosives used in 5000-page transfer machines. Israel blamed, considered terrorism by West.
 
-This was an indiscriminate attack by Israel on civilians in Lebanon, and it falls under the West’s supposed definition of terrorism.
+🟩
+
+Nine explosions have died in explosives in the Lebanon's Bebange.
+
+Over 3000 explosions were injured and 200 of them were in critical condition.
+
+It is said that the explosions have been carried out using explosives for 5,000 page transfer machines.
+
+Take a look at where People We and the WHO The Wee HER SUREED BY WHEN THEIR PAGERS EXPLODED.
+
+This WASrael On Civanon, And Falls Under The West's Supposed definition of Terroism.
 
 ◼️
 
 [Data](articles/5f2f66e8.json)
+
+[Extended Data](ext_articles/5f2f66e8.ext.json)
 
 ---
 
@@ -490,6 +568,10 @@ He was speaking at a public brief in the Kotikawatta, yesterday (17).
 
 *2024-09-18 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193984) · `ta`
 
+<PHIND_TIMEOUT>
+
+🟩
+
 The Oakland Institute, which is based on the United States, and maintaining land rights, said in a new statement in a new statement that the seizure of resources in the eastern district of Sri Lanka, Trincomalee, is speeding up.
 
 The report points out that due to the pain of the Sinhalese people for decades, the migration of the Trincomalee district has changed significantly and that there is immense inequality in the land belongings.
@@ -529,6 +611,10 @@ The presidential candidate Sajith Premadasa, the Presidential Department of the 
 ### Three -and -a -half -year -old child dies in a vehicle accident
 
 *2024-09-18 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/193981) · `ta`
+
+<PHIND_TIMEOUT>
+
+🟩
 
 A three-and-a-half-year-old child was killed and five others were injured in an accident near the Latpandura Junction Bridge on the Polonnaruwa-Mahiyanganaya road belonging to the Tehiyakkandan police division.
 
@@ -1456,6 +1542,8 @@ Re-orienting the Sri Lankan economy toward the BRICS that is challenging the ‘
 
 [Data](articles/d55b671f.json)
 
+[Extended Data](ext_articles/d55b671f.ext.json)
+
 ---
 
 ### Records are also being published in presidential election flocks
@@ -2209,49 +2297,5 @@ FREEBIES - Refers to the things you are giving to Public, AFTER the election, IF
 [Data](articles/6e950b3a.json)
 
 [Extended Data](ext_articles/6e950b3a.ext.json)
-
----
-
-### The country will not push into the dark era but vote for the progress of the country -the President
-
-*2024-09-18 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193967) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Ranil Wickremesinghe urges unity against "dark era," promises economic growth, criticizes opponents, and vows to strengthen the country's economy and infrastructure.
-
-🟩
-
-President Ranil Wickremesinghe again called on the United National Party, the Mottu Party and the Sri Lanka Freedom Party to prevent the country from being brought into the dark era and unite for the country's progress.
-
-The president said that the dark age of two years ago should not be forgotten and urged everyone to unite to strengthen the country's economy and give the people the people.
-
-President Ranil Wickremesinghe said this while addressing a public meeting held at Kuliyapitiya on Tuesday afternoon.
-
-A large number of people were present at the meeting, which was organized to ensure the success of President Ranil Wickremesinghe.
-
-President Ranil Wickremesinghe said that there was no unity within the United People's Power and that the Pure UNP is under him, and that those who truly love the United National Party will vote for himself on September 21.
-
-...
-
-[Data](articles/e4ee0b86.json)
-
-[Extended Data](ext_articles/e4ee0b86.ext.json)
-
----
-
-### Tribute to Late Anthony A. Page
-
-*2024-09-18 00:56:57* · [`dailyftlk`](https://www.ft.lk/opinion/Tribute-to-Late-Anthony-A-Page/14-766807) · `en`
-
-I first met Anthony A. Page, fondly known as Baba, in early 1992 while conducting an audit of the Ceylon Theatres Group. At the time, I was working as an article clerk at KPMG Ford Rhodes Thornton & Company. During our initial meeting, where he interviewed me for a position within his Group, I was struck by his gentle and humble demeanour. Our conversation revolved around the importance of family, and he shared the story of his father, late Albert Page, who came from Manipay, Jaffna to Colombo, eventually succeeding in business. Little did I realise that this conversation will lay the foundation for a lasting professional and personal relationship.
-
-...
-
-[Data](articles/125a3bcd.json)
-
-[Extended Data](ext_articles/125a3bcd.ext.json)
 
 ---

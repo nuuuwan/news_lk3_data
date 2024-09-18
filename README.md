@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 22:38:02**
+As of **2024-09-18 22:56:12**
 
 ## Newspaper Stats
 
-*Scraped **44,605** Articles*
+*Scraped **44,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 2,694
 dailyftlk | 2,962
 adalk | 4,121
 dailymirrorlk | 4,733
-adaderanalk | 5,248
+adaderanalk | 5,249
 tamilmirrorlk | 5,829
-virakesarilk | 7,137
-adaderanasinhalalk | 7,640
+virakesarilk | 7,139
+adaderanasinhalalk | 7,642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,605 (100.0%) of 44,605 articles have been extended.
+44,605 (100.0%) of 44,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### தமிழர்களின் ஒற்றுமையைப் பறைசாற்றும் குறியீடான சங்குக்கு தமிழ் மக்கள் திரண்டு வந்து வாக்களியுங்கள் - சி.வி.விக்கினேஸ்வரன்
+
+*2024-09-18 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194059) · `ta`
+
+தமிழ் மக்களின் பிரச்சினைகள் இன்னமும் தீர்க்கப்படாமல் இருக்கின்றன என்பதை சர்வதேசத்திடம் சொல்லும் அதேவேளை, தமிழர்களின் ஒற்றுமையைப் பறைசாற்றும் நோக்கில் இம்முறை ஜனாதிபதித்தேர்தலில் களமிறக்கப்பட்டிருக்கும் பொதுவேட்பாளர் பா.அரியநேத்திரனுக்கு தமிழ் மக்கள் அனைவரும் திரண்டுவந்து வாக்களிக்கவேண்டும் என தமிழ் மக்கள் கூட்டணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான சி.வி.விக்கினேஸ்வரன் அறைகூவல் விடுத்துள்ளார்.
+
+நாட்டின் ஒன்பதாவது ஜனாதிபதித்தேர்தல் சனிக்கிழமை (21) நடைபெறவிருக்கும் நிலையில், புதன்கிழமை (18) நள்ளிரவுடன் வேட்பாளர்களின் பிரசார நடவடிக்கைகள் முடிவுக்கு வந்தன. அதன்படி இம்முறை ஜனாதிபதித்தேர்தலில் களமிறக்கப்பட்டிருக்கும் தமிழ் பொதுவேட்பாளர் பா.அரியநேத்திரனுக்கு தமிழ் மக்கள் அனைவரும் வாக்களிக்கவேண்டும் என வலியுறுத்தி புதன்கிழமை (18) கொழும்பிலுள்ள வெஸ்டேர்ன் ஹோட்டலில் ஏற்பாடு செய்யப்பட்டிருந்த ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து வெளியிடுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் மேலும் கூறியதாவது:
+
+...
+
+[Data](articles/cf2dc8c1.json)
+
+---
+
+### பாராளுமன்ற வாக்கெடுப்பில் கூட பின்வாங்கிய சஜித்துக்கு எவ்வாறு தேர்தலில் வெற்றி பெற முடியும்? - பிரதமர் தினேஸ் குணவர்தன
+
+*2024-09-18 22:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194058) · `ta`
+
+பாராளுமன்றத்தில் வாக்கெடுப்பு நடத்தப்பட்ட போது கூட, தன்னால் வெற்றி பெற முடியாது என்று பின்வாங்கிய சஜித் பிரேமதாசவால் எவ்வாறு மக்களின் வாக்குகளைப் பெற்றுக் கொள்ள முடியும்? ஏனையோருக்கு வாக்களித்து பரிசோதிப்பதற்கான சோதனைக் காலம் இதுவல்ல என்பதால் மக்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் மீண்டும் நாட்டை ஒப்படைக்க வேண்டும் என பிரதமர் தினேஸ் குணவர்தன தெரிவித்தார்.
+
+கொழும்பில் புதன்கிழமை (18) இடம்பெற்ற இறுதி தேர்தல் பிரசாரக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ பதவி விலகியதன் பின்னர் ஜனாதிபதியைத் தெரிவு செய்வதற்காக பாராளுமன்றத்தில் வாக்கெடுப்பு நடத்துவதற்கு தீர்மானிக்கப்பட்டது. அந்த சந்தர்ப்பத்தில் சஜித் பிரேமதாச போட்டியிடுவதாகக் கூறினாலும், பின்னர் டலஸ் அழகப்பெருமவே களமிறக்கப்பட்டார்.
+
+...
+
+[Data](articles/e16e7657.json)
+
+---
+
+### වෙඩිවැදී අයෙක් මරුට ?
+
+*2024-09-18 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201171) · `si`
+
+තංගල්ලේ නලගම ප්‍රදේශයේදී වෙඩිවැදුණු බවට සැක කෙරෙන තුවාල සහිතව මියගිය පුද්ගලයෙකුගේ සිරුරක් හමුවී තිබේ.
+
+පොලීසිය සඳහන් කළේ අද (18) රාත්‍රියේදී මෙම පුද්ගල මළසිරුර හමුවී ඇති බවය.
+
+◼️
+
+[Data](articles/f193e305.json)
+
+---
+
+### Second wave of deadly device explosions kill 9, injures at least 300 in Lebanon
+
+*2024-09-18 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102067/second-wave-of-deadly-device-explosions-kill-9-injures-at-least-300-in-lebanon) · `en`
+
+Nine people have died and more than 300 others wounded as walkie-talkies have blown up at Hezbollah strongholds across Lebanon.
+
+This comes a day after pagers exploded across the middle-eastern country, killing twelve people and injuring nearly 3,000 others.
+
+How many walkie-talkies blew up are not know yet. There are reports that landline telephones exploded too at various locations in East Lebanon.
+
+According to reports, the hand-held wireless radio devices and walkie-talkies were bought around five months ago, approximately the same time as the pagers.
+
+Today’s blasts happened across southern Lebanon as well as Beirut’s suburbs. At least one of the blasts happened near a funeral organised by Hezbollah for a member who was killed in yesterday’s pager blasts. A video of the incident was widely circulated on social media platforms.
+
+...
+
+[Data](articles/4bc46089.json)
+
+---
+
+### ආරම්භයේදීම වෙනස්කම් රැසක් පෙන්වන්න ඕනේ - අනුර
+
+*2024-09-18 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201170) · `si`
+
+තම පාලනයක් තුළ ජාතිවාදයට, ආගම්වාදයට හා ගෝත්‍රවාදයට ඉඩක් නොමැති බව ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+කළුතර පැවැති ජනරැලියකට අද (18) පස්වරුවේ එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+"ආරම්භයේදීම අපි වෙනස්කම් රැසක් පෙන්වන්න ඕනේ. නව දේශපාලනයක් ලංකාවේ නිර්මාණය කරනවා. රට තුළ ජාතිවාදයට... ආගම්වාදයට අපි කිසිම ඉඩක් දෙන්නේ නැහැ. ආගම්වාදී ගැටුම් මීට පස්සේ ලංකාවේ තියෙන්න බැහැ."
+
+◼️
+
+[Data](articles/0842d5a0.json)
+
+---
 
 ### Everygo is shortcomings - Namal
 
@@ -2333,123 +2413,5 @@ Many Sri Lankans love to talk about our legacy of women prime ministers. To be m
 [Data](articles/2459713b.json)
 
 [Extended Data](ext_articles/2459713b.ext.json)
-
----
-
-### Anura Kumara outlines plans for IT growth, tourism boost, and agri independence
-
-*2024-09-18 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102054/anura-kumara-outlines-plans-for-it-growth-tourism-boost-and-agri-independence) · `en`
-
-Presidential candidate of the National People’s Power (NPP), Anura Kumara Dissanayake, has outlined his ambitious economic plans, including a goal to generate five billion dollars through the information technology sector and create 500,000 software engineering jobs.
-
-Speaking at a public rally in Ruwanwella, Dissanayake stated, “There is a need to build the economy, and it will take some time to see significant growth. However, we can achieve an immediate boost in the tourism industry. I plan to attract 4 million tourists, which will contribute to an 8 billion dollar economy.”
-
-He also emphasized his plans for the IT industry, saying, “Currently, the export economy is valued at 1.2 billion dollars. My goal is to increase it to 5 billion dollars and create 200,000 software engineering jobs in Sri Lanka.”
-
-...
-
-[Data](articles/82ad6f08.json)
-
-[Extended Data](ext_articles/82ad6f08.ext.json)
-
----
-
-### Don't darken the future of Sajith and Anura
-
-*2024-09-18 11:15:04* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-හා-අනුරගේ-දේශපාලන-බිල්ලක්-වී-අනාගතය-අඳුරු-කර-ගන්න-එපා/11-411989) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-President Wickremesinghe addresses Malwana youth, urging them not to support Sajith and Anura. He emphasizes economic development, IMF support, and warns against tax deductions that could jeopardize this support.
-
-🟩
-
-President Ranil Wickremesinghe said that every child needs access to the English language to every child in the next 10 years.
-
-The President said that the proposal was brought to the South of Education as the Minister of Education as the Minister of Education, he said that if the JVP was able to operate the program, it was not created in the country today.
-
-President Ranil Wickremesinghe has paid this statement after the Malwana people with the Malwana yesterday (17), the government's solution to the problems faced by the youth.
-
-The President requests the youths not to worry about the political needs of Sajith and Anura, who is not a good future for the Gen Z12
-
-When I was contesting the presidential election, I consider it customary to come to the seat, which I represented the mulch and meet the people of Malwana. The people of the Malawana gave me great support to me every time. Malwana is a small town at that time.
-
-...
-
-[Data](articles/5da1f5ac.json)
-
-[Extended Data](ext_articles/5da1f5ac.ext.json)
-
----
-
-### Threaten to a Member of Parliament
-
-*2024-09-18 11:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாராளுமன்ற-உறுப்பினருக்கு-அச்சுறுத்தல்/76-343951) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-A complaint has been lodged at the Kandy Headquarters Police Station regarding the telephone call that threatened the Kandy District Parliamentarian Vasantha Yapa Bandara.
-
-He stated that she had made calls for a woman from two telephone numbers from 12.30 pm on Wednesday (18).
-
-◼️
-
-[Data](articles/dbb78397.json)
-
-[Extended Data](ext_articles/dbb78397.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 303.35/85, bond yields up
-
-*2024-09-18 11:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-303-35-85-bond-yields-up-179869/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 303.35/85 to the US dollar on Wednesday, from 302.25/80 Friday, dealers said, while bond yields were up, as were stocks.
-
-In the secondary market, during the ongoing treasury bill auction, the following bonds were actively quoted;
-
-A bond maturing on 15.12.2028 was quoted at 11.55/65 percent, up from 11.45/80 percent.
-
-A bond maturing on 15.06.2029 was quoted stable at 13.70/80 percent.
-
-In equities, Colombo’s All Share Price Index was 0.56 percent, or 59.78 points, higher at 10,742, while the S&P SL20 of more liquid stocks opened up at 0.87 percent or 26.05 points to 3,005.
-
-◼️
-
-[Data](articles/d04c6305.json)
-
-[Extended Data](ext_articles/d04c6305.ext.json)
-
----
-
-### Greetings from Dilith to Women's Entrepreneurs
-
-*2024-09-18 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201144) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dilith addresses women entrepreneurs at Kandy conference. He criticizes high interest rates in microfinance loans for women. Udaya Gammanpila vows to challenge the 13th Amendment. Both focus on empowering women and reforming governance structures.
-
-🟩
-
-The microfinance of microfinance is said to be completely cutting the interest in the loans obtained by women.
-
-He was speaking at a female conference held in Kandy.
-
-"Entrepreneurship Statement, the concept of this program, to empower you to empower the Sri Lankan woman to empower the capital of the Sri Lankan woman to help the government will help you to catch it.We have referred to. We wanted the woman in Sri Lanka, here's this opportunity to give this opportunity. In addition, microfinance debt has completely deposited that unreasonable loan interest on the microfinance of the Sri Lankan woman to recover today.. How to do so as to how the proposed program is doing. "
-
-Meanwhile, Udaya Gammanpila said that steps will be taken to defeat the 13th Amendment to the 13th Amendment.
-
-◼️
-
-[Data](articles/a19501bd.json)
-
-[Extended Data](ext_articles/a19501bd.ext.json)
 
 ---

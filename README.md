@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 23:08:28**
+As of **2024-09-18 23:22:35**
 
 ## Newspaper Stats
 
-*Scraped **44,610** Articles*
+*Scraped **44,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,121
+adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,249
 tamilmirrorlk | 5,829
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,610 (100.0%) of 44,610 articles have been extended.
+44,610 (100.0%) of 44,611 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -443,6 +443,22 @@ At the meeting held at Nallur Changhiyan Thoppu, Tamil general candidate Pa Ariy
 [Data](articles/4bc80311.json)
 
 [Extended Data](ext_articles/4bc80311.ext.json)
+
+---
+
+### ජනතාව සියවස් ගණනාවක් අපේක්ෂා කළ පරිවර්තනය 21දා සිදුවෙනවා
+
+*2024-09-18 19:52:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-සියවස්-ගණනාවක්-අපේක්ෂා-කළ-පරිවර්තනය-21දා-සිදුවෙනවා/11-412013) · `si`
+
+මෙරට ජනතාව සියවස් ගණනක් අපේක්ෂා කළ දේශපාලන පරිවර්තනය 21වැනිදා සිදුවන බවත්, එය මෙරට දේශපාලනයේ යුග පෙරළියක් බවත් ජාතික ජනබලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. ශ්‍රී ලංකාව පොහොසත් රටක් කිරීමේ වැඩපිළිවෙල ජාතික ජනබලවේගය සතු බව ද ඔහු කීවේය.
+
+සිංහල දෙමළ ජනයා බෙදී වෙන් වී කරන ලද දේශපාලනය එකට එකතු කිරීමට ජාතික ජනබලවේගය සමත් වී ඇති බවත්, ජාතික සමගිය ඇති කිරීමේ ඉදිරි පියවර 21වැනිදායින් පසු ආරම්භ කරන බවත් අනුර කුමාර දිසානායක මහතා පැවසුවේ ඊයේ (18දා) කළුතර, ගම්පහ සහ නුගේගොඩ දී පැවති මැතිවරණ ප්‍රචාරණ අවසන් ජන රැලි අමතමිනි.
+
+ආසියානු කලාපයේ වැඩිම විදුලි බිල , ඉදිරියේ දී ආසියාවේ අඩුම විදුලි බිල බවට පත් කරන බව ද ඔහු ප්‍රකාශ කළේය. නිරෝගි සම්පන්න ජීවිතයක් පුරවැසියාට ලබාදීම රජයක වගකීම බවත්, ඒ සදහා මෙරට සෞඛ්‍ය ක්ෂේත්‍රය පහසුකම් සහිත, විශ්වාසනීය එකක් බවට පත් කරන බවද දිසානායක මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/b619c448.json)
 
 ---
 
@@ -2429,21 +2445,5 @@ They are trying to make himself fail by doing the Deal of Anura Ranil. The oppos
 [Data](articles/df8f53ef.json)
 
 [Extended Data](ext_articles/df8f53ef.ext.json)
-
----
-
-### The Woman Prime Minister
-
-*2024-09-18 11:22:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-woman-prime-minister/) · `en`
-
-NB: This article is dedicated to the memory of thousands of women comrades who were tortured sexually abused and murdered by the Sri Lankan states, due to alleged affiliations to the Janatha Vimukthi Peramuna/ People’s Liberation Front in 1971 and 1988/89
-
-Many Sri Lankans love to talk about our legacy of women prime ministers. To be more precise, our legacy of being home to the world’s first woman prime minister. When the US Democratic Party’s Kamala Harris assumed office as the 49th Vice President of the USA in 2021, many Sri Lankans, including Sri Lankan men with zero interest in parity in politics at home, began a boasting game. “We did it first!” was their byline.
-
-...
-
-[Data](articles/2459713b.json)
-
-[Extended Data](ext_articles/2459713b.ext.json)
 
 ---

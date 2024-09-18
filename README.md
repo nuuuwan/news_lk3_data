@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 11:22:28**
+As of **2024-09-18 11:39:15**
 
 ## Newspaper Stats
 
-*Scraped **44,490** Articles*
+*Scraped **44,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,688
 dailyftlk | 2,962
 adalk | 4,101
 dailymirrorlk | 4,733
-adaderanalk | 5,235
+adaderanalk | 5,236
 tamilmirrorlk | 5,812
 virakesarilk | 7,108
-adaderanasinhalalk | 7,617
+adaderanasinhalalk | 7,618
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,490 (100.0%) of 44,490 articles have been extended.
+44,492 (100.0%) of 44,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Anura Kumara outlines plans for IT growth, tourism boost, and agri independence
+
+*2024-09-18 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102054/anura-kumara-outlines-plans-for-it-growth-tourism-boost-and-agri-independence) · `en`
+
+Presidential candidate of the National People’s Power (NPP), Anura Kumara Dissanayake, has outlined his ambitious economic plans, including a goal to generate five billion dollars through the information technology sector and create 500,000 software engineering jobs.
+
+Speaking at a public rally in Ruwanwella, Dissanayake stated, “There is a need to build the economy, and it will take some time to see significant growth. However, we can achieve an immediate boost in the tourism industry. I plan to attract 4 million tourists, which will contribute to an 8 billion dollar economy.”
+
+He also emphasized his plans for the IT industry, saying, “Currently, the export economy is valued at 1.2 billion dollars. My goal is to increase it to 5 billion dollars and create 200,000 software engineering jobs in Sri Lanka.”
+
+...
+
+[Data](articles/82ad6f08.json)
+
+[Extended Data](ext_articles/82ad6f08.ext.json)
+
+---
+
+### Greetings from Dilith to Women's Entrepreneurs
+
+*2024-09-18 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201144) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dilith addresses women entrepreneurs at Kandy conference. He criticizes high interest rates in microfinance loans for women. Udaya Gammanpila vows to challenge the 13th Amendment. Both focus on empowering women and reforming governance structures.
+
+🟩
+
+The microfinance of microfinance is said to be completely cutting the interest in the loans obtained by women.
+
+He was speaking at a female conference held in Kandy.
+
+"Entrepreneurship Statement, the concept of this program, to empower you to empower the Sri Lankan woman to empower the capital of the Sri Lankan woman to help the government will help you to catch it.We have referred to. We wanted the woman in Sri Lanka, here's this opportunity to give this opportunity. In addition, microfinance debt has completely deposited that unreasonable loan interest on the microfinance of the Sri Lankan woman to recover today.. How to do so as to how the proposed program is doing. "
+
+Meanwhile, Udaya Gammanpila said that steps will be taken to defeat the 13th Amendment to the 13th Amendment.
+
+◼️
+
+[Data](articles/a19501bd.json)
+
+[Extended Data](ext_articles/a19501bd.ext.json)
+
+---
 
 ### Namal ready to accounted for every loan
 
@@ -2267,39 +2313,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/231c3026.json)
 
 [Extended Data](ext_articles/231c3026.ext.json)
-
----
-
-### Jaya Container Terminals celebrates 16 years of success with record-breaking growth
-
-*2024-09-17 19:59:00* · [`islandlk`](http://island.lk/jaya-container-terminals-celebrates-16-years-of-success-with-record-breaking-growth/) · `en`
-
-Jaya Container Terminals Limited (JCT Limited), a fully owned subsidiary of the Sri Lanka Ports Authority (SLPA) recently commemorated its 16th anniversary. Since its inception in 2008, JCT Limited has established itself as a cornerstone of the Sri Lankan maritime industry, consistently exceeding expectations and achieving remarkable milestones.
-
-Over the past three years, JCT Limited has witnessed phenomenal growth, shattering previous records for revenue and profitability. This achievement is a testament to the company’s strategic agility and unwavering commitment to serving diverse client needs.
-
-...
-
-[Data](articles/0ff485f1.json)
-
-[Extended Data](ext_articles/0ff485f1.ext.json)
-
----
-
-### Special traffic plans in Colombo, Kottawa and Piliyandala tomorrow
-
-*2024-09-17 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102045/special-traffic-plans-in-colombo-kottawa-and-piliyandala-tomorrow) · `en`
-
-Sri Lanka Police announced that special traffic plans will be implemented in several areas tomorrow (18) due to the final election rallies and public meetings of candidates contesting the presidential election on September 21.
-
-Accordingly, several rallies have been organized centred on Colombo City, Kottawa and Piliyandala areas.
-
-The police have decided to implement special traffic plans to reduce traffic congestion in and around the areas where the meetings are held.
-
-◼️
-
-[Data](articles/9fa45ef8.json)
-
-[Extended Data](ext_articles/9fa45ef8.ext.json)
 
 ---

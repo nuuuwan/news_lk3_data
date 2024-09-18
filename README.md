@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 18:19:03**
+As of **2024-09-18 18:32:33**
 
 ## Newspaper Stats
 
-*Scraped **44,568** Articles*
+*Scraped **44,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,113
+adalk | 4,115
 dailymirrorlk | 4,733
 adaderanalk | 5,245
 tamilmirrorlk | 5,821
-virakesarilk | 7,127
+virakesarilk | 7,128
 adaderanasinhalalk | 7,633
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,568 (100.0%) of 44,568 articles have been extended.
+44,571 (100.0%) of 44,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Sajith assured that Rajapaksas were kept
+
+*2024-09-18 18:03:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජපක්ෂවරුන්-රකින-බවට-සජිත්-සහතික-වෙලා/11-412002) · `si`
+
+Sajith Premadasa promises to appoint Opposition Leader to support winning presidential election without taking action against Rajapaksas. Unique coalition formed between Sajith and Namal for shared leadership roles.
+
+🟩
+
+Kalutara District MP Dr. Rajitha Senaratne stated that an unique coalition between Namal and Sajith has been established in order to share the post of Opposition and the Leader of the Opposition.
+
+Sajith Premadasa has promised to appoint Opposition Leader to the Opposition Leader to support him to win the presidential election and not to take any action against the Rajapaksas.
+
+Kalutara District MP Dr. Rajitha Senaratne was speaking at a media briefing at Malra Wickremesinghe's Political Office, Colombo, Colombo, Colombo.
+
+He said that none of the unlaw coalitions were established in the next presidential election, but none of them would be successful in the presidential election.
+
+◼️
+
+[Data](articles/7ba18d9f.json)
+
+[Extended Data](ext_articles/7ba18d9f.ext.json)
+
+---
+
+### What is the mindset of the Northern people for a few days for the presidential election?-Indian Express
+
+*2024-09-18 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194034) · `ta`
+
+Northern Sri Lanka's presidential election mindset: Low interest, economic concerns, unresolved post-war issues, minority vote importance.
+
+🟩
+
+Diaz Peppur Sri Lanka Bollas
+
+With just a few days to go to an important presidential election, the northern capital of Sri Lanka, Jaffna, has not reflected the election interest in other parts of Sri Lanka.
+
+There are a total of 39 candidates, including the general candidate, Bhakiyaselvam Ariyanethran.
+
+The widespread campaign in the south is not in the North and the people are engaged in their daily activities.
+
+Fifteen years after the end of the war in May 2009, Sri Lanka's northern impacts continues to spin.
+
+Long -resolved issues in the North are missing during the war, housing livelihoods under military occupation.
+
+At the end of the presidential campaign, the current and common candidate, President Ranil Wickremesinghe, the leader of the National People's Power, Sajith Premadasa and the Marxist National People's Power (NPP) Anura Dissanayake are trying to attract Tamil votes.
+
+...
+
+[Data](articles/c74eec02.json)
+
+[Extended Data](ext_articles/c74eec02.ext.json)
+
+---
 
 ### Kaminda saves innings
 
@@ -104,6 +158,56 @@ The High Court issued an order by banning the relevant property until December 1
 
 ---
 
+### The Tamil people should only give the general candidate - Ariyanendran
+
+*2024-09-18 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194029) · `ta`
+
+Tamil candidate Ariyanendran urges voters to support him exclusively in presidential election, warning against spreading false information via AI technology.
+
+🟩
+
+The Tamil Candidate Paa has said that many parties are planning to spread the Tamil general candidate to spread their votes on the 21st.. Ariyanendran said.
+
+Yall. He said this during a media briefing held at the Media Center on Wednesday (18).
+
+Vote for the Tamil general candidate in the upcoming presidential election. Some say to give preferential votes to other candidates. Won't do so. Vote for the Tamil general candidate alone. That is the historical duty of every Tamil people.
+
+On the 23rd of this month, we started the campaign work on "Nam for us" in Jaffna Police Kandy and carried out campaign work in eight districts. Thereby increasing the reception of the general candidate among the people.
+
+...
+
+[Data](articles/0955bb18.json)
+
+[Extended Data](ext_articles/0955bb18.ext.json)
+
+---
+
+### Sumanthiran, Chanakyan I am not in danger - Tamil general candidate Ariyanethran
+
+*2024-09-18 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194030) · `ta`
+
+Tamil MP Ariyanethran denies threat from Sumanthiran, Chanakyan over candidacy. Claims no pressure to withdraw.
+
+🟩
+
+Members of Parliament are MA.. Tamil general candidate Ba is hoping that Sumanthiran and Rasamanikam Chanakyan will not endanger life.. Said Ariyanethran.
+
+Yall. He said this during a media briefing held on Wednesday at the Media Center.
+
+The letter has been reported by the letter that I have a life threatening. I don't take it as Peris. However, I have now provided two members of the Pramukh Security Division (MSD).
+
+The letter stated that MPs MA, Sumanthiran and Rasamanikam Chanakyan are dissatisfied because I am contesting as a common candidate.
+
+At the same time no one asked me to quit the candidate. I don't give me that kind of pressure on me. Some may not agree because I am competing. He added that no one threatened or pressed me for that.
+
+◼️
+
+[Data](articles/6e82293f.json)
+
+[Extended Data](ext_articles/6e82293f.ext.json)
+
+---
+
 ### Kamindu Mendis slams 4th Test century, equals world Test record
 
 *2024-09-18 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102063/kamindu-mendis-slams-4th-test-century-equals-world-test-record) · `en`
@@ -125,30 +229,6 @@ His achievement surpasses cricketing greats like Sunil Gavaskar (India), Saeed A
 [Data](articles/477a92b9.json)
 
 [Extended Data](ext_articles/477a92b9.ext.json)
-
----
-
-### The Tamil people should only give the general candidate - Ariyanendran
-
-*2024-09-18 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194029) · `ta`
-
-Tamil candidate Ariyanendran urges voters to support him exclusively in presidential election, warning against spreading false information via AI technology.
-
-🟩
-
-The Tamil Candidate Paa has said that many parties are planning to spread the Tamil general candidate to spread their votes on the 21st.. Ariyanendran said.
-
-Yall. He said this during a media briefing held at the Media Center on Wednesday (18).
-
-Vote for the Tamil general candidate in the upcoming presidential election. Some say to give preferential votes to other candidates. Won't do so. Vote for the Tamil general candidate alone. That is the historical duty of every Tamil people.
-
-On the 23rd of this month, we started the campaign work on "Nam for us" in Jaffna Police Kandy and carried out campaign work in eight districts. Thereby increasing the reception of the general candidate among the people.
-
-...
-
-[Data](articles/0955bb18.json)
-
-[Extended Data](ext_articles/0955bb18.ext.json)
 
 ---
 
@@ -220,36 +300,6 @@ The TNA has a policy. It will be stable. There will also be wrong with Sumanthir
 
 ---
 
-### What is the mindset of the Northern people for a few days for the presidential election?-Indian Express
-
-*2024-09-18 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194034) · `ta`
-
-Northern Sri Lanka's presidential election mindset: Low interest, economic concerns, unresolved post-war issues, minority vote importance.
-
-🟩
-
-Diaz Peppur Sri Lanka Bollas
-
-With just a few days to go to an important presidential election, the northern capital of Sri Lanka, Jaffna, has not reflected the election interest in other parts of Sri Lanka.
-
-There are a total of 39 candidates, including the general candidate, Bhakiyaselvam Ariyanethran.
-
-The widespread campaign in the south is not in the North and the people are engaged in their daily activities.
-
-Fifteen years after the end of the war in May 2009, Sri Lanka's northern impacts continues to spin.
-
-Long -resolved issues in the North are missing during the war, housing livelihoods under military occupation.
-
-At the end of the presidential campaign, the current and common candidate, President Ranil Wickremesinghe, the leader of the National People's Power, Sajith Premadasa and the Marxist National People's Power (NPP) Anura Dissanayake are trying to attract Tamil votes.
-
-...
-
-[Data](articles/c74eec02.json)
-
-[Extended Data](ext_articles/c74eec02.ext.json)
-
----
-
 ### Police seek public assistance to trace female suspect
 
 *2024-09-18 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102061/police-seek-public-assistance-to-trace-female-suspect) · `en`
@@ -313,6 +363,24 @@ Subsequently, the 'uneducated genius', 'hand -given goddess', 'thief', 'taputtal
 [Data](articles/453bd201.json)
 
 [Extended Data](ext_articles/453bd201.ext.json)
+
+---
+
+### It is a century for New Zealand
+
+*2024-09-18 16:42:44* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහිව-කමිඳු​ගෙන්-අගනා-ශතකයක්/9-412001) · `si`
+
+New Zealand celebrates its centenary year as Sri Lanka's Mandis scores a century against them.
+
+🟩
+
+Sri Lanka's Malignature batsman Mandis won a century against the New Zealand team.
+
+◼️
+
+[Data](articles/1d34008f.json)
+
+[Extended Data](ext_articles/1d34008f.ext.json)
 
 ---
 
@@ -2307,99 +2375,5 @@ According to Ratnayake, strict regulations are in effect to ensure a fair and in
 [Data](articles/ad84fb02.json)
 
 [Extended Data](ext_articles/ad84fb02.ext.json)
-
----
-
-### Scholarship Examination: 3 Questions Delete
-
-*2024-09-18 07:47:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-3-வினாக்கள்-நீக்கம்/175-343941) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Grade 5 Scholarship Exam: 3 questions deleted from first part. Decision made after Commissioner's discussion. Special committee formed to investigate alleged incident on social media.
-
-🟩
-
-The idea of ​​deleting 3 questions in the first part of the Grade 5 Scholarship Examination held this year has been proposed.
-
-The decision was taken only after a discussion between the Commissioner of Examinations and the answer sheet.
-
-The Commissioner General of Examinations Amit Jayasundera said that a special committee has been appointed to investigate the alleged incident of the first part of the questionnaire on social media.. (A)
-
-◼️
-
-[Data](articles/43505f54.json)
-
-[Extended Data](ext_articles/43505f54.ext.json)
-
----
-
-### In the middle of the middle of the rainfall
-
-*2024-09-18 07:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்கிடையே-மழை-பெய்யக்கூடும்/175-343940) · `ta`
-
-Heavy rainfall expected in Sabaragamuwa, Western, Kandy, and Nuwara Eliya. Thunderstorms possible in Southern Province. Strong winds forecasted in Central Highlands, North Central, and Southern Provinces. Coastal areas to experience rain/thunderstorms. Public advised to exercise caution due to strong winds and lightning.
-
-🟩
-
-Rainfall is expected today (18) in the Sabaragamuwa and the Western Provinces, as well as the Kandy and Nuwara Eliya districts.
-
-The Department of Meteorology has also said that there is a possibility of rain or thunderstorms in the Southern Province.
-
-It is possible to experience rain or thunderstorm in the evening or night in many parts of the Eastern and Uva provinces.
-
-Strong winds can be frequent at speeds of 40 to 45 km / h in the western slopes of the Central Highlands as well as in the North Central and Southern Provinces.
-
-Rain or thunderstorms are likely to occur in the sea regions along the coast of Chilaw to Matara from Chilaw to Colombo and Galle.
-
-Winds from the west or southwest at speeds of 30 - 40 km / h in the sea regions.
-
-From Matara to Hambantota, Pottuvil, from Kankesanthurai to Mannar via Puttalam, the sea will be increasing at 60 kilometers per hour.
-
-...
-
-[Data](articles/6a067f3a.json)
-
-[Extended Data](ext_articles/6a067f3a.ext.json)
-
----
-
-### Israel alleges that hezbullah members' pagers exploded - nine killed - 3,000 injured - Lebanon
-
-*2024-09-18 07:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193975) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Explosion kills 9 injures 3000 in Lebanon Hezbollah claims Israeli responsibility
-
-🟩
-
-Nine people were killed and nine people, including a child, were killed and 3,000 injured.
-
-The explosion took place in the suburbs of Beirut and other parts of Leban.
-
-Videos have been revealed that the injured are sitting on the floor and others are taken to the hospital.
-
-The Hesbullah Organization said eight people were killed in the explosion of members of many sectors and organizations.
-
-The Hesbullah organization, which has accused Israel of reason, has warned of responding.
-
-The people of Lebanon are shocked by the incident on Tuesday.
-
-The Hesbullah Organization said that the pagans used by their members have exploded in large numbers for the mobile phones to be hacked or found.
-
-CCTV footage has shown that a person from a person in a businessman has exploded.
-
-Lebanon's Health Minister said that 200 of the injured were in danger of loading the injured and rushed to the hospitals.
-
-...
-
-[Data](articles/5312ef93.json)
-
-[Extended Data](ext_articles/5312ef93.ext.json)
 
 ---

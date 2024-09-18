@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 19:38:15**
+As of **2024-09-18 19:56:52**
 
 ## Newspaper Stats
 
-*Scraped **44,576** Articles*
+*Scraped **44,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,198 @@ economynextcom | 2,694
 dailyftlk | 2,962
 adalk | 4,117
 dailymirrorlk | 4,733
-adaderanalk | 5,246
-tamilmirrorlk | 5,822
+adaderanalk | 5,247
+tamilmirrorlk | 5,827
 virakesarilk | 7,128
-adaderanasinhalalk | 7,634
+adaderanasinhalalk | 7,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,576 (100.0%) of 44,576 articles have been extended.
+44,583 (100.0%) of 44,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Education Ministry announcement on distribution of school uniforms
+
+*2024-09-18 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102065/education-ministry-announcement-on-distribution-of-school-uniforms) · `en`
+
+The Ministry of Education (MoE) has announced that it will distribute the uniforms necessary for 4.3 million school students and all the needed robes (Sivuru) for 825 ‘Pirivens’ for the upcoming 2025 school term.
+
+Accordingly, the school uniforms and robes are to be distributed before January 20, when the 2025 new school term begins.
+
+The school uniforms have been donated by the Chinese government, following discussions between the Education Minister, the Chinese Ambassador, and other relevant officials of the Chinese government.
+
+According to the announcement, all school uniforms are being provided free of charge and will result in the government saving around Rs. 7 billion.
+
+The Chinese government has confirmed that Sri Lanka will receive the first consignment of uniforms on November 13, the second on November 21, and the third on December 20.
+
+◼️
+
+[Data](articles/777b6247.json)
+
+[Extended Data](ext_articles/777b6247.ext.json)
+
+---
+
+### MP of the federation, confluence with Ranil
+
+*2024-09-18 19:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டமைப்பின்-எம்-பி-ரணிலுடன்-சங்கமம்/175-343974) · `ta`
+
+TNA MP Vino Nogarathalingam supports President Ranil Wickremesinghe in upcoming election. Statement made at media briefing at President's Political Office in Colombo.
+
+🟩
+
+Tamil National Alliance (TNA) Wanni District Parliamentarian Vino Nogarathalingam said he would support the victory of President Ranil Wickremesinghe in the upcoming presidential election.
+
+He made this statement at a media briefing held at the President's Political Office located on Blaver Road, Colombo
+
+◼️
+
+[Data](articles/496a2905.json)
+
+[Extended Data](ext_articles/496a2905.ext.json)
+
+---
+
+### Presidential Election 2024: What Not Silent
+
+*2024-09-18 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201163) · `si`
+
+Here's a 200-character summary:
+
+
+
+Presidential Election 2024: Campaign ends, "silent period" begins midnight. Major candidate rallies in Colombo suburbs. Special traffic plans in Nugegoda area. Schools close Sept 20-23. Polling centers handover Sept 19.
+
+🟩
+
+The election campaign to the Presidential Election ended today (18).
+
+Accordingly, the term "silenced time" has been stated as "silenced time from 12.00 midnight today (18).
+
+From the date of handing over nominations, candidates began and the propaganda and propaganda.
+
+The final waves of major candidates will be held in Colombo and suburbs.
+
+A special traffic plan is being implemented in Nugegoda, Nugegoda, Kottawa and Piliyandala areas, police headquarters.
+
+The Elections Commission said that during the silent period from midnight today, the Elections Commission (EPL) said.
+
+Meanwhile, the Excise Department announced that the presidential election will be closed throughout the 21th and 22nd.
+
+The Commissioner General of Excise M.G. M.G.. Mr. Gunasiri said.
+
+Meanwhile, the Ministry of Education is informed that all schools in the island will be closed on September 20 and will be started as usual again on Monday, September 23.
+
+...
+
+[Data](articles/0727bfc1.json)
+
+[Extended Data](ext_articles/0727bfc1.ext.json)
+
+---
+
+### The Elections Commission requested the Climate Report
+
+*2024-09-18 19:13:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலை-அறிக்கையை-கோரியது-தேர்தல்கள்-ஆணைக்குழு/175-343973) · `ta`
+
+Election Commission requests climate report to prevent voting disruptions due to weather. Meteorology department prepares forecast. Navy readies boats for potential floods. District officials make emergency preparations.
+
+🟩
+
+The Election Commission has received a full report on the country's climate situation in the coming days.
+
+He also said that the Department of Meteorology has received a report in order to prevent the voting disruption in the case of bad weather conditions and prepare it in advance.
+
+In addition, the Election Commission has requested the weather report once every three hours after 3:30 pm on Wednesday (20th).
+
+In the meantime, the Election Commission has recently advised all district election officials to prepare necessary arrangements to prevent voting from bad weather and disaster.
+
+The Election Commission has advised the Navy to prepare boats to deal with the sudden flood.
+
+◼️
+
+[Data](articles/e5f51a79.json)
+
+[Extended Data](ext_articles/e5f51a79.ext.json)
+
+---
+
+### Plan to deliver uniform clothes before January 20
+
+*2024-09-18 19:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீருடை-துணிகளை-ஜனவரி-20-க்கு-முன்-வழங்க-திட்டம்/175-343972) · `ta`
+
+Sri Lanka's Education Ministry plans to distribute 4.3 million school uniforms, funded by China, before January 20, 2025. Three shipments are scheduled for November 13, 21, and December 20. The uniforms will be provided free of charge, saving the government 7 billion rupees. Minister Premajayantha thanked China for the assistance.
+
+🟩
+
+Minister of Education Susil Premajayantha said that the Ministry of Education is ready to provide school uniforms for 2025 with Chinese assistance on January 20.
+
+Following a discussion with the Chinese Ambassador and the Chinese government -related officials, the Chinese government will grant all 4.3 million uniforms for 4.3 million school students before the 2025 new school installment.
+
+Accordingly, the first reserve for uniform cloth will be received on November 13, the second reserve will be received on November 21 and the third reserve will be received on December 20th.
+
+The Government of Sri Lanka has been able to provide these uniforms for 100% free of Rs.. Has been able to save 7,000 million funds. Uniform fabrics are scheduled to be distributed before January 20.
+
+Minister Premajayantha expressed his gratitude to the Chinese government and the Chinese Ambassador for this funding.
+
+◼️
+
+[Data](articles/3b2c80a8.json)
+
+[Extended Data](ext_articles/3b2c80a8.ext.json)
+
+---
+
+### Two killed in Omanthai accident
+
+*2024-09-18 18:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓமந்தை-விபத்தில்-இருவர்-பலி/175-343971) · `ta`
+
+Omanthai accident: Two killed while traveling to fuel station. Victims Sangeethan (40) and Yogarasa (42). Police investigating.
+
+🟩
+
+The accident occurred when two people were traveling from Omanthai swinethakulam to Vavuniya when they were traveling to the Omanthai refueling station when they were traveling to the Omanthai fuel station.
+
+The two injured in the accident were rescued by the road and admitted to the Vavuniya Hospital. However, they have already died at the hospital.
+
+Sangeethan (age 40) from the Omanthai Pandigaiyadakulam area, Yogarasa (age 42) from Mullaitivu.. Omanthai police are conducting investigations into the incident.
+
+◼️
+
+[Data](articles/458ab4a6.json)
+
+[Extended Data](ext_articles/458ab4a6.ext.json)
+
+---
+
+### Closely
+
+*2024-09-18 18:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவருக்கிடையில்-நெருக்கமான-போட்டி/175-343970) · `ta`
+
+Sri Lanka presidential election: Sajith Premadasa vs Anura Kumara Dissanayake lead; Ranil Wickremesinghe third. Polls predict close race, possible second-round voting.
+
+🟩
+
+In the upcoming presidential election, the United People's Power Sajith Premadasa and the National People's Power Anurakumara Dissanayake are in the forefront and President Ranil Wickremesinghe is back in 3rd place.
+
+“When the election results are announced on September 22, one of the two (Sajith Premadasa or Anurakumara Dissanayake) will be declared the ninth executive president of Sri Lanka,” the International current issues magazine and The Diplomate said in a study on Sri Lanka.
+
+Quoting India's "Deccan Herald" polls, there is a fierce rivalry between Opposition Leader Sajith Premadasa and NP's Anura Kumara Dissanayake, “Sajith and Anura can get 35 per cent votes, while Ranil Wickremesinghe secured 24-25 in the third place.In. ”
+
+Many international reports predicted that the election could go to the second preferential vote for the first time in Sri Lankan history.
+
+◼️
+
+[Data](articles/82ca9b2d.json)
+
+[Extended Data](ext_articles/82ca9b2d.ext.json)
+
+---
 
 ### Train services to operate normally on Election Day
 
@@ -2247,151 +2425,5 @@ The Chairman of the Election Commission of Sri Lanka, R.M.A.L. Ratnayake, stated
 [Data](articles/15de339f.json)
 
 [Extended Data](ext_articles/15de339f.ext.json)
-
----
-
-### Indian Coast Guard arrests three Sri Lankan fishermen
-
-*2024-09-18 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102051/indian-coast-guard-arrests-three-sri-lankan-fishermen) · `en`
-
-The Indian Coast Guard has arrested three Sri Lankan fishermen who traversed into Indian waters near Rameswaram on Tuesday.
-
-The three aboard a fibre boat were apprehended during a patrol exercise in the waters of the Bay of Bengal.
-
-The ICGS Mandapam intercepted the Sri Lankan boat bearing registration (OFRP 5671 JFN) and took it into custody. After the formalities, the case was handed over to Tamil Nadu Coastal Security Group, Mandapam.
-
-The arrested have been identified as R. Niroshan (34) of Nedunkulam, Colombuthurai, T Bala Ramesh (37) of Udunthurai, Thalayadi, Jaffna and P Pulaykumar (44) of the same locality in Sri Lanka.
-
-◼️
-
-[Data](articles/2625548d.json)
-
-[Extended Data](ext_articles/2625548d.ext.json)
-
----
-
-### India's keen interest in Sri Lankan presidential election - President Ranil
-
-*2024-09-18 08:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/193977) · `ta`
-
-India's keen interest in Sri Lanka's presidential election. President Ranil Wickremesinghe discusses economic policies, IMF agreements, and corruption laws. Focuses on maintaining current economic plans and avoiding unrealistic promises. Emphasizes the importance of new laws and international cooperation for addressing corruption and managing the budget.
-
-🟩
-
-The demand of many is to hold a parliamentary election after the presidential election. So the first parliamentary election and the next provincial council election will be held. India is interested in Sri Lanka's election. President Ranil Wickremesinghe said Delhi is concerned about the political situation in Sri Lanka after the situation of the Bangladesh.
-
-It is a certain thing that I win the presidential election. So there is no need to talk about the plan 'B'.Sajith Premadasa and Anuragumara Dissanayake will be president in the future. But this time it is not possible, the president said.
-
-President Ranil Wickremesinghe met with journalists on Tuesday (17) and clarified the future plans. He said the above. He continues to say,
-
-Talking about the abolition of the executive presidency and the 13th Amendment, the time has been wasted and no one pays attention to the real problems of the country.. This is why I put my goal into the economy. I have made policies focusing on it.
-
-...
-
-[Data](articles/ec58a0ed.json)
-
-[Extended Data](ext_articles/ec58a0ed.ext.json)
-
----
-
-### Sumanthiran's decision to support the people of the North and East is not affecting President Ranil
-
-*2024-09-18 08:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193976) · `ta`
-
-Sumanthiran supports Sajith Premadasa; TNA divided; Ranil unaffected; 13th Constitution issues; Economic concerns influence voting decisions.
-
-🟩
-
-TNA member MA is going to support United People's Power candidate Sajith Premadasa in the presidential election on Saturday.. President Ranil Wickremesinghe has said that the announcement of Sumanthiran's announcement would not be a hurt for the support of the people of the North and East and pointed out that the other members of the party did not accept the decision and that the TNA had not made any announcement.
-
-President Ranil, who met with journalists on Tuesday (17), said this while responding to his questions.
-
-The presidential election is held in the country in an environment where there is no ethnic and religious issues. There is no problem in the 13th Constitution. Instead there are some problems with its implementation. I have given my suggestions. Therefore, a resolution can be taken on the 13th Constitution in the coming days.
-
-...
-
-[Data](articles/88f1c0e5.json)
-
-[Extended Data](ext_articles/88f1c0e5.ext.json)
-
----
-
-### Impact of train services
-
-*2024-09-18 08:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-பாதிப்பு/175-343946) · `ta`
-
-Train services impacted: Derailment at Kirulappanai delays Kelaniwa route travel.
-
-🟩
-
-The Railway Department has said that the train services going to the Kelaniwa route have been affected due to the derailment of the railway line in the Kirulappanai area.
-
-Therefore, the Railway Department has stated that the passengers traveling to the Kelaniwa route have delayed the train services.. Remble
-
-◼️
-
-[Data](articles/160add5c.json)
-
-[Extended Data](ext_articles/160add5c.ext.json)
-
----
-
-### Special traffic plan in Colombo due to final propaganda rallies
-
-*2024-09-18 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201137) · `si`
-
-Colombo special traffic plan for final presidential election rallies. Candidates' events scheduled across city. Police implementing special measures for security.
-
-🟩
-
-The final waves of the main candidates who have been contesting for the presidential election this year will be held in several parts of Colombo and suburbs.
-
-Independent candidate Ranil Wickremesinghe, Sajith Premadasa, the presidential post candidate of the Sri Lanka Pranayaka, and the main waves of the presidency of the National Jathika Posse.
-
-Accordingly, the final rally of independent candidate Ranil Wickremesinghe has been planned to be held at the Kosgas Junction area.
-
-The final rally of the candidate Sajith Premadasa of the Samagiens is will also be centered on the Tower Hall area.
-
-The final rally of the presidential candidate Dilita Jayaweera, the presidency of the National Husbandry, Entrepreneurship Dilith Jayaweera will be held at Ananda Samarakoon's outdoor theater.
-
-The final rallies of the presidency of the Sri Lanka General Front Namal Rajapaksa will be held in the Piliyandala area.
-
-...
-
-[Data](articles/e1d30add.json)
-
-[Extended Data](ext_articles/e1d30add.ext.json)
-
----
-
-### Trains delayed on Kelani Valley line
-
-*2024-09-18 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102050/trains-delayed-on-kelani-valley-line-) · `en`
-
-Train services on the Kelani Valley line will experience delays due to the derailment of a track maintenance compartment near Kirulapone, according to Sri Lanka Railways.
-
-◼️
-
-[Data](articles/d2521cad.json)
-
-[Extended Data](ext_articles/d2521cad.ext.json)
-
----
-
-### Derailment of Kelani Vilini Railway Line
-
-*2024-09-18 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201136) · `si`
-
-Train services halted due to railway line derailment at Kelani Vilini.
-
-🟩
-
-It is reported that the train services will be held due to a derailment.
-
-◼️
-
-[Data](articles/ce6d3b3b.json)
-
-[Extended Data](ext_articles/ce6d3b3b.ext.json)
 
 ---

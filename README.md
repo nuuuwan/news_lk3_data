@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 12:38:18**
+As of **2024-09-18 12:56:44**
 
 ## Newspaper Stats
 
-*Scraped **44,514** Articles*
+*Scraped **44,516** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 429
+bbccomsinhala | 430
 colombotelegraphcom | 443
 islandlk | 2,622
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,104
+adalk | 4,105
 dailymirrorlk | 4,733
 adaderanalk | 5,238
 tamilmirrorlk | 5,813
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,504 (100.0%) of 44,514 articles have been extended.
+44,506 (100.0%) of 44,516 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,47 @@ He further explained that they have outlined how the government will assist indi
 
 [Data](articles/37341043.json)
 
+[Extended Data](ext_articles/37341043.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தல் சஜித்பிரேமதாச அனுரகுமார என்ற இருவரிடையிலான இருமுனை விளையாட்டு - சஜித்தை நம்புவதே பாதுகாப்பானது - தயான்
+### Bipolar Games between the two -year -old
 
 *2024-09-18 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193998) · `ta`
 
-ஜனாதிபதி தேர்தல் சஜித்பிரேமதாச அனுரகுமார என்ற இருவரிடையிலான இருமுனை விளையாட்டாக மாறுகின்றது போல தோன்றுவதாக அரசியல் ஆய்வாளரும் முன்னாள் இராஜதந்திரியுமான தயான் ஜெயதிலக தெரிவித்துள்ளார்.
+<PHIND_TIMEOUT>
 
-தற்போது தேர்தல் பிரசாரங்கள் இறுதிக்கட்டத்தை எட்டியுள்ள நிலையில் முன்னணி வேட்பாளர்கள் நடத்தும் பிரச்சாரம் குறித்து உங்கள் பார்வை என்ன?
+🟩
 
-. அநுர சஜித் ரணில் ஆகியோருக்கிடையில்  .ஒன்று நீங்கள் எந்த வரிசையில் பட்டியலிட விரும்புகிறீர்களோ ஆனால் அது சஜித் பிரேமதாச மற்றும் அனுரகுமார திஸாநாயக்க ஆகிய இரு இளைய மனிதர்களுக்கிடையில் இருமுனை விளையாட்டாக மாறுவது போல் தெரிகிறது.
+Political analyst and former diplomat, Dayan Jayatilaka, said that the presidential election seems to be a bipolar game between Sajith Breamedasa Anuragumara.
 
-இது உலகளாவிய ரீதியில் வரலாற்றின் ஒரு காலகட்டமாகும் அங்கு பதவியில் இருப்பவருக்கு எதிராக ஒரு பாரிய அலை உள்ளது. இது டைம்ஸ் இதழ் போன்ற சிந்தனைக் குழுக்கள் மற்றும் வெளியீடுகளால் கூட குறிப்பிடப்பட்டுள்ளது. இது ஒரு உலகளாவிய நிகழ்வு.
+What is your view on the campaign campaign by the leading candidates as the election campaigns have reached its final stage?
+
+. Between Anura Sajith Ranil. One way you want to list in any order, it seems to be a bipolar game between Sajith Premadasa and Anuragumara Dissanayake.
+
+This is a period of history globally there is a massive wave against the person in office. It is also mentioned by thinkers and publications such as Times Magazine. This is a universal event.
+
+You have austerity package in Sri Lanka as a result of the agreement between President Wickremesinghe and the International Monetary Fund.. So one must logically consider that voters will vote for change until voters are not considered a masochistic.
 
 ...
 
 [Data](articles/0d914331.json)
+
+[Extended Data](ext_articles/0d914331.ext.json)
+
+---
+
+### නොදැවුනත් ඇන්ජලෝ පිටියෙන් ඉවත් වුණු හේතුව මෙන්න
+
+*2024-09-18 11:57:04* · [`adalk`](https://www.ada.lk/sports/නොදැවුනත්-ඇන්ජලෝ-පිටියෙන්-ඉවත්-වුණු-හේතුව-මෙන්න/9-411991) · `si`
+
+සංචාරක නවසීලන්තයට සහ ශ්‍රී ලංකාව අතර පළමු ටෙස්ට් ක්‍රිකට් තරගය මේ වන විට ගාල්ල ජාත්‍යන්තර ක්‍රීඩාංගනයේදී පැවැත්වේ.
+
+මෙහිදී විලියම් ඕ රුක් යැවූ පන්දුවක් ඇන්ජලෝ මැතිව්ස්ගේ අත් ආවරණයේ වැදීමෙන් සිදු වූ ආබාධයක් හේතුවෙන් ඔහු පිටියෙන් ඉවත් වීමට කටයුතු කළේය.
+
+◼️
+
+[Data](articles/e26fa056.json)
 
 ---
 
@@ -1344,6 +1368,28 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
+### ආප්ත ප්‍රමාණ තර්කාභාසය: ජනප්‍රිය චරිත ඔබේ ඡන්දය කොල්ල කන හැටි ගැන දැනුවත් ද?
+
+*2024-09-18 05:52:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1jddy32dgxo) · `si`
+
+ආප්ත ප්‍රමාණ තර්කාභාසය: ජනප්‍රිය චරිත ඔබේ ඡන්දය කොල්ල කන හැටි ගැන දැනුවත් ද?
+
+ශ්‍රී ලංකාවේ සෑම ජනාධිපතිවරණයකදී මෙන් ම වෙනත් මැතිවරණවලදී ද විවිධ ප්‍රසිද්ධ චරිත ඔවුන් සහය දක්වන අපේක්ෂකයින්ට හෝ දේශපාලන පක්ෂවලට ඡන්දය භාවිත කරන ලෙස ඡන්ද දායකයින් පොළඹවන අවස්ථා සුලභ ය.
+
+මෙය ශ්‍රී ලංකාවේ පමණක් නොව වෙනත් සියලු රටවල පාහේ සිදු වන්නකි.
+
+මෙවර ද අපේක්ෂකයින් රැසක් වෙනුවෙන් පෙනී සිටින කලාකරුවන්, ක්‍රීඩකයින්, ව්‍යාපාරිකයින්, සාහිත්‍යධරයින්, ටියුෂන් ගුරුවරුන්, විශ්වවිද්‍යාල කථිකාචාර්යවරුන් කවුරුන් ද යන්න ඔබ දැනටමත් දැක ඇතිවාට සැකයක් නැත.
+
+මෙම ලිපියෙහි අරමුණ වන්නේ, වෙනත් විෂය ක්ෂේත්‍රයන් සම්බන්ධයෙන් විශේෂඥභාවයක් ඇතත්, දේශපාලනය පිළිබඳ කිසිදු අවබෝධයක් නැති එවැනි පිරිස් කී පමණින් ඔවුන් නම් කරන දේශපාලනඥයෙකුට ඡන්දය භාවිත කිරීම කෙතරම් නිවැරදි ද, තර්කානුකූල ද යන්න විමසා බැලීමට ය.
+
+2019 වසරේ පැවති ජනාධිපතිවරණයේදී ගෝඨාභය රාජපක්ෂ ශ්‍රී ලංකාවේ ජනාධිපති ධූරයට පත්කිරීම සඳහා කලාකරුවන් ඇතුළු ප්‍රසිද්ධ චරිත විශාල පිරිසක් ඉදිරිපත් වූ අයුරු දැක ගත හැකි විය.
+
+...
+
+[Data](articles/ac3b754f.json)
+
+---
+
 ### SJB reaffirms commitment to Easter Attack justice after doubts raised
 
 *2024-09-18 03:51:31* · [`dailyftlk`](https://www.ft.lk/news/SJB-reaffirms-commitment-to-Easter-Attack-justice-after-doubts-raised/56-766841) · `en`
@@ -2137,45 +2183,5 @@ The Presidential Election on 21 September could be the most important election f
 [Data](articles/d77c0789.json)
 
 [Extended Data](ext_articles/d77c0789.ext.json)
-
----
-
-### Conscience At The Polls: A Forgotten Tool To Guide Our Future
-
-*2024-09-18 00:11:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/conscience-at-the-polls-a-forgotten-tool-to-guide-our-future/) · `en`
-
-Why explore the concept of conscience now, on the verge of a presidential election? Though volumes have been written, and it has been the subject of deep discussions by psychologists, researchers, and religions, there’s an urgency to revisit it. The idea of “conscience” often carries moral implications and is typically viewed as an inner sense of integrity. Properly harnessed, conscience—this inner integrity itself—can help anyone attain the highest state of mind, alongside its other functions like providing the ability to discern right from wrong. It equips any healthy individual to monitor, evaluate, and control their actions.
-
-...
-
-[Data](articles/de7cf119.json)
-
-[Extended Data](ext_articles/de7cf119.ext.json)
-
----
-
-### 2024-09-17 (Tuesday)
-
-### Placement in Israel for Sri Lankans
-
-*2024-09-17 23:27:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இலங்கையர்களுக்கு-இஸ்ரேலில்-வேலை-வாய்ப்பு/50-343935) · `ta`
-
-Sri Lankan workers sent to Israel for hotel and agricultural jobs under MoU between governments. 2,252 youth employed in agriculture, NVQ Grade 3 certified youth in hotels also placed.
-
-🟩
-
-It has been reported that a contract for sending workers from Sri Lanka has been signed to work in the hotel industry in Israel.
-
-Accordingly, the NVQ Grade 3 certified youth in the hotel industry will have the opportunity.
-
-In addition, 2,252 Sri Lankan youth in the field of agriculture in Israel have been given employment.
-
-It was noted that the job was provided under the Memorandum of Understanding between the Israeli government and the Sri Lankan government.
-
-◼️
-
-[Data](articles/fc0fd418.json)
-
-[Extended Data](ext_articles/fc0fd418.ext.json)
 
 ---

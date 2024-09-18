@@ -67,5 +67,7 @@
       ]
     }
   },
-  "summary_lines": ""
+  "summary_lines": [
+    "<PHIND_TIMEOUT>"
+  ]
 }

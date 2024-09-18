@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 16:55:23**
+As of **2024-09-18 17:07:37**
 
 ## Newspaper Stats
 
-*Scraped **44,554** Articles*
+*Scraped **44,557** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 430
-colombotelegraphcom | 445
+colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
 adalk | 4,112
 dailymirrorlk | 4,733
-adaderanalk | 5,242
-tamilmirrorlk | 5,819
+adaderanalk | 5,243
+tamilmirrorlk | 5,820
 virakesarilk | 7,123
 adaderanasinhalalk | 7,630
 
@@ -26,23 +26,67 @@ adaderanasinhalalk | 7,630
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,545 (100.0%) of 44,554 articles have been extended.
+44,554 (100.0%) of 44,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
 
-### කමිඳු ගෙන් සුපිරි ශතකයක්
+### Police seek public assistance to trace female suspect
+
+*2024-09-18 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102061/police-seek-public-assistance-to-trace-female-suspect) · `en`
+
+Sri Lanka Police is seeking public assistance to apprehend a female suspect who is wanted in connection with an investigation pertaining to financial fraud.
+
+Issuing a statement, the Police Media Division informs that the suspect in question is wanted over a case involving an unlawful property acquisition carried out using forged documents, for a property valued at Rs. 150 million.
+
+The Criminal Investigation Department (CID) is conducting investigations following a complaint lodged against the suspect. The investigation has revealed that the woman has signed a forged deed while impersonating another individual.
+
+Police have released a photograph of the suspect in question to the media and the relevant photograph is attached below.
+
+Accordingly, any information regarding the relevant suspect is requested to be provided through the following contact numbers:
+
+◼️
+
+[Data](articles/556f4462.json)
+
+---
+
+### பழம்பெறும் நடிகை  சி.ஐ.டி. சகுந்தலா காலமானார்
+
+*2024-09-18 16:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பழம்பெறும்-நடிகை-சி-ஐ-டி-சகுந்தலா-காலமானார்/54-343962) · `ta`
+
+பழம்பெரும் நடிகை சிஐடி சகுந்தலா இன்று உடல்நலக்குறைவால் காலமானார். அவருக்கு வயது 84.
+
+தமிழ், தெலுங்கு, மலையாளம், கன்னடம் உள்ளிட்ட பல மொழிகளில் நடித்து பல இரசிகர்களால் கவரப்பட்டவர் ஏ.சகுந்தலா. இவர் கடந்த 1970ஆம் ஆண்டு ஜெய்சங்கர் நடித்த 'சிஐடி சங்கர்' படத்தின் மூலம் திரையுலகில் அறிமுகமானதால், அவர் பின்னர் ‘சிஐடி’ சகுந்தலா என்று அழைக்கப்பட்டார்.
+
+சேலம் மாவட்டத்தை சேர்ந்த சகுந்தலா, சென்னையில் லலிதா, பத்மினி, ராகினி மூவரும் நடத்தி வந்த நடன நிகழ்ச்சிகளில் பங்கேற்று, தன் நடன திறமையை வெளிப்படுத்தினார். இந்த வாய்ப்புகள் அவர் திரைப்பட உலகில் நுழைய வழிவகுத்தன.
+
+அதன்பின்னர், 'படிக்காத மேதை', 'கை கொடுத்த தெய்வம்', 'திருடன்', 'தவப்புதல்வன்', 'வசந்த மாளிகை', 'நீதி', 'பாரத விலாஸ்', 'ராஜராஜ சோழன்', 'பொன்னூஞ்சல்', 'என் அண்ணன்', 'இதயவீணை' உள்ளிட்ட ஏராளமான தமிழ் படங்களிலும், தெலுங்கு, மலையாளம், கன்னடம் போன்ற மொழி திரைப்படங்களிலும் முக்கியமான கதாபாத்திரங்களில் நடித்துள்ளார்.
+
+...
+
+[Data](articles/453bd201.json)
+
+---
+
+### Super Century from Kamindu
 
 *2024-09-18 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201156) · `si`
 
-ශ්‍රී ලංකාව සහ නවසීලන්තය අතර පළමු ටෙස්ට් තරගයේ පළමු දිනය අද යි.
+Sri Lanka vs New Zealand: Kumindu Mendis scores century on debut in first Test match.
 
-එහිදී ශ්‍රී ලංකා ඉනිමේ ගැලවුම්කරුවා වූ කමිඳු මෙන්ඩිස් ශතකයක් වාර්තා කිරීමට සමත් විය.
+🟩
+
+Sri Lanka and New Zealand today is the first day of the first Test.
+
+Kumindu Mendis, the Savior of the Sri Lankan Innings, was able to record a century.
 
 ◼️
 
 [Data](articles/292aa213.json)
+
+[Extended Data](ext_articles/292aa213.ext.json)
 
 ---
 
@@ -64,99 +108,139 @@ Namal Rajapaksa further stated that if anyone claims that they stole or engaged 
 
 [Data](articles/cb643032.json)
 
+[Extended Data](ext_articles/cb643032.ext.json)
+
 ---
 
-### தமிழ் மக்கள் பொது வேட்பாளருக்கு மாத்திரம் அளிக்க வேண்டும் - அரியநேந்திரன்
+### The Tamil people should only give the general candidate - Ariyanendran
 
 *2024-09-18 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194029) · `ta`
 
-தமிழ் பொது வேட்பாளர் பற்றிய தவறான தகவல்கள், வதந்திகளை பரப்ப பல தரப்பினர்களும் திட்டமிட்டுள்ளதாகவும், அதனால் மக்கள் விழிப்பாக இருந்து 21ஆம் திகதி தமது வாக்குகளை தமிழ் பொது வேட்பாளருக்கு மாத்திரம் அளிக்க வேண்டும் என தமிழ் பொது வேட்பாளர் பா. அரியநேந்திரன் தெரிவித்துள்ளார்.
+Tamil candidate Ariyanendran urges voters to support him exclusively in presidential election, warning against spreading false information via AI technology.
 
-யாழ். ஊடக அமையத்தில் இன்று புதன்கிழமை (18) நடைபெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+🟩
 
-நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளருக்கு மாத்திரம் வாக்களியுங்கள். சிலர் விருப்பு வாக்குகளை ஏனைய வேட்பாளர்களுக்கு அளிக்குமாறு கூறுகின்றார்கள். அவ்வாறு செய்யாது. தனியே தமிழ் பொது வேட்பாளருக்கு மாத்திரம் வாக்களியுங்கள். அதான் ஒவ்வொரு தமிழ் மக்களின் வரலாற்று கடமையாகும்.
+The Tamil Candidate Paa has said that many parties are planning to spread the Tamil general candidate to spread their votes on the 21st.. Ariyanendran said.
 
-கடந்த 23ஆம் திகதி "நமக்காக நாம்" என்ற பிரச்சார பணியை நாம் யாழ்ப்பாணத்தில் பொலி கண்டியில் ஆரம்பித்து, எட்டு மாவட்டங்களிலும் பிரச்சார பணிகளை முன்னெடுத்தோம். அதனூடாக மக்கள் மத்தியில் பொது வேட்பாளருக்கான வரவேற்பு அதிகரித்துள்ளது.
+Yall. He said this during a media briefing held at the Media Center on Wednesday (18).
+
+Vote for the Tamil general candidate in the upcoming presidential election. Some say to give preferential votes to other candidates. Won't do so. Vote for the Tamil general candidate alone. That is the historical duty of every Tamil people.
+
+On the 23rd of this month, we started the campaign work on "Nam for us" in Jaffna Police Kandy and carried out campaign work in eight districts. Thereby increasing the reception of the general candidate among the people.
 
 ...
 
 [Data](articles/0955bb18.json)
 
+[Extended Data](ext_articles/0955bb18.ext.json)
+
 ---
 
-### පාසල් නිල ඇඳුම් ලබාදීම ගැන දැනුම්දීමක්
+### Notice of school uniforms
 
 *2024-09-18 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201155) · `si`
 
-2025 නව පාසල් වාරය වෙනුවෙන් පාසල් ළමුන් ලක්ෂ 43කට අවශ්‍ය නිල ඇඳුම් සහ පිරිවෙන් 825 සඳහා අවශ්‍ය සිවුරු සියල්ලම ඇසුරුම් කර ලබාදීමට නියමිත බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+School uniform distribution update: 825 million students to receive free uniforms by January 20, 2025. First shipment arrives November 13, subsequent shipments on November 21 and December 20. Total cost: Rs. 7,000 million.
 
-ඒ අනුව, 2025 නව පාසල් වාරය ආරම්භ වන ජනවාරි 20 වනදාට පෙර එම නිල ඇඳුම් සහ සිවුරු බෙදාහැරීමට නියමිතය.
+🟩
 
-අධ්‍යාපන අමාත්‍යවරයා සහ චීන තානාපතිවරයා, චීන රජයේ අදාළ නිලධාරීන් සමග සාකච්ඡා කිරීමෙන් අනතුරුව චීන රජය විසින් ප්‍රදානයක් ලෙස මෙය ලබාදී තිබේ.
+The Ministry of Education has announced that all the necessary rooms needed for the new school term and 825 million schools are to be provided with all the necessary number of uniforms and Pirivenas.
 
-ඒ අනුව මෙම නිල ඇඳුම් 100%ක් නොමිලේ හිමිවන අතර එයින් රජයට ඉතිරි වන මුදල රුපියල් මිලියන 7,000ක් බව එම නිවේදනයේ සඳහන් ය.
+Accordingly, the uniforms and robes will be distributed before January 20, which will commence 2025.
 
-මෙම නිල ඇඳුම්වල පළමු තොගය නොවැම්බර් මස 13වන දිනත්, දෙවන තොගය නොවැම්බර් මස 21වන දිනත්, තෙවන තොගය දෙසැම්බර් මස 20වන දිනත් ශ්‍රී ලංකාවට ලැබීමට නියමිත බව මේ වනවිට චීන රජය විසින් තහවුරු කර තිබේ.
+The Minister of Education and the Chinese Ambassador have been given this as a grant by the Chinese government after discussing the Chinese government.
+
+According to the statement, the uniforms will receive 100% free of charge and the government is Rs. 7,000 million.
+
+The first stock of these uniforms is expected to receive the second consignment on November 13, on November 21, and the third stock of stock of thirds will be held on the 20th of December.
 
 ◼️
 
 [Data](articles/f2cfeedf.json)
 
+[Extended Data](ext_articles/f2cfeedf.ext.json)
+
 ---
 
-### வாக்களிப்பது எப்படி ?
+### How to vote?
 
 *2024-09-18 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194013) · `ta`
 
-ஜனாதிபதி தேர்தலுக்கு இன்னும் 3 நாட்களே உள்ளன.  அதன்படி, ஜனாதிபதி தேர்தல் எதிர்வரும் 21ஆம் திகதி சனிக்கிழமை (21) நடைபெறவுள்ளது.
+Here's a 200-character summary:
 
-ஜனாதிபதித் தேர்தலில் வாக்காளர்கள் தமது வாக்கை எவ்வாறு சரியாக அளிக்க வேண்டும் என்பது தொடர்பில் தேர்தல் ஆணைக்குழுவால் விளக்கமளிக்கப்பட்டுள்ளது.
 
-வாக்கினை ‘1’ என்றும் விருப்பு வாக்குகளை ‘2’ மற்றும் ‘3’ என்றும் குறிக்கலாம்.
 
-எனினும், ஒரு வாக்கை அளிக்கும் போது  ‘1’ மற்றும் ‘X’ என்ற இரண்டையும்  குறிக்க வேண்டாம்.
+"Presidential election voting guide: Vote on Saturday (21st). Refer to 1 number or preferential votes. Do not mix 1 and X. Election Commission provides instructions."
+
+🟩
+
+There are still 3 days for the presidential election.Accordingly, the presidential election will be held on Saturday (21st).
+
+The Election Commission has been briefed on how voters should give their vote properly in the presidential election.
+
+The word can be referred to as the 1 number and the preferential votes.
+
+However, when giving a vote, do not refer to both 1 and X's X.
 
 ◼️
 
 [Data](articles/09057665.json)
 
+[Extended Data](ext_articles/09057665.ext.json)
+
 ---
 
-### விபத்தில் பாடசாலை மாணவி பலி
+### School student killed in accident
 
 *2024-09-18 16:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-பாடசாலை-மாணவி-பலி/175-343960) · `ta`
 
-சம்மாந்துறை முஸ்லிம் மத்திய கல்லூரியில் தரம் 9 பயிலும் 14 வயது மாணவி வாகன விபத்தில் பரிதாபகரமாக பலியானார்.
+14-year-old student killed in vehicle accident near Ampara-Kalmunai Road. Private bus crashes into motorcycle carrying student and father. Driver flees scene, later surrenders to police. News spreads quickly in Samanthurai community.
 
-அம்பாறை -  கல்முனை வீதியில் மாவடிப்பள்ளி பெரியபள்ளி வாசலுக்கு முன்பாக   புதன்கிழமை (18) காலை 08.15 மணியளவில் நடைபெற்ற வாகன விபத்தில் 14 வயது சிறுமி  ஸ்தலத்தில் மரணமடைந்துள்ளார்.
+🟩
 
-சம்மாந்துறை வலயக்கல்விப் பணிமனையில் விசேட கல்விக்கு பொறுப்பான ஆசிரிய ஆலோசகர் அகமட்லெவ்வையின் புதல்வியாவார்.
+A 14 -year -old student who studied at the Samanthurai Muslim Central College was tragically killed in a vehicle accident.
 
-மோட்டார் சைக்கிளில் தந்தையுடன் பயணித்துக் கொண்டிருந்த மாணவியின் மீது தனியார் போக்குவரத்து பஸ் ஒன்று மோதியதிலேயே இந்த விபத்து இடம் பெற்றுள்ளதாக தெரிகிறது.
+A 14 -year -old girl has died in a vehicle accident on Wednesday (18) at 08.15 am in front of the Mavadipalli Periyapalli gate on Ampara -Kalmunai Road.
 
-சம்மாந்துறையை சேர்ந்த மாணவி  இவ்வாறு விபத்தில் மரணமடைந்த செய்தி காட்டுத் தீ போல் பரவியது.சம்மாந்துறை சோகமயமாக உள்ளது.
+He is the daughter of the Teacher Advisor to the Special Education at the Samanthurai Zonal Education Workshop.
 
-இந்த விபத்து நடந்தவுடன் குறித்த பஸ்ஸின் சாரதி விபத்து நடந்த இடத்திலிருந்து தப்பி ஓடியுள்ளார் என்றும் இந்நிலையில் தற்போது பஸ் சாரதி காரைதீவு பொலிஸில் சரணடைந்துள்ளார் என்றும் தெரிகிறது.
+The accident seems to have occurred when a private transport bus crashed into a student who was traveling with his father on a motorcycle.
+
+The news of the death of a student from Samanthurai spread like a wildfire.
+
+It is reported that the driver of the bus has fled the scene of the accident and that the bus driver has surrendered to the Karadivu police.
 
 ◼️
 
 [Data](articles/0e86593d.json)
 
+[Extended Data](ext_articles/0e86593d.ext.json)
+
 ---
 
-### துண்டுப்பிரசுரங்களை வழங்கிய மஹிந்த தேசப்பிரிய
+### Mahinda Deshapriya, who provided leaflets
 
 *2024-09-18 15:57:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துண்டுப்பிரசுரங்களை-வழங்கிய-மஹிந்த-தேசப்பிரிய/175-343958) · `ta`
 
-ஜனாதிபதித் தேர்தலில் மக்கள் எவ்வாறு வாக்களிக்க வேண்டும் என்பது தொடர்பான துண்டுப்பிரசுரங்களை தேர்தல்கள் ஆணைக்குழுவின் முன்னாள் தலைவர் மஹிந்த தேசப்பிரிய, அம்பலாங்கொட புகையிரத நிலையத்தில் வைத்து புதன்கிழமை (18) அன்று விநியோகித்தார்.
+Here's a 200-character summary:
 
-தேர்தல் பொறுப்பில் இருந்த முன்னாள் உயர் அதிகாரி ஒருவர், இவ்வாறு செயல்பட்டமை இதுவே முதல் முறையாகும் .
 
-தேர்தலில் வாக்களிப்பது மக்களின் உரிமை , இந்த வாக்குரிமையை புறக்கணிக்கக் கூடாது எனவும் மக்களுக்கு வாக்களிக்கும் உரிமையை காண்பிப்பதே தனது நோக்கம் எனவும் அவர் குறிப்பிட்டுள்ளார் .
+
+Former Election Commissioner Mahinda Deshapriya distributed voting leaflets on the presidential election. This marks the first time a former top election official has done so. He emphasized the importance of exercising the right to vote and aimed to encourage citizens to participate in the election process.
+
+🟩
+
+Former Chairman of the Election Commission Mahinda Deshapriya delivered the leaflets on how to vote in the presidential election on Wednesday (18).
+
+This is the first time a former top official who was in charge of the election was the first time.
+
+He noted that the right to vote in the election should not be ignored by this vote and that his intention is to show the right to vote for the people.
 
 ◼️
 
 [Data](articles/ce5129ef.json)
+
+[Extended Data](ext_articles/ce5129ef.ext.json)
 
 ---
 
@@ -442,23 +526,31 @@ Due to this, several train travels from Anuradhapura to Kilinochchi have been ca
 
 ---
 
-### පුපුරන ද්‍රව්‍ය හා සැක හතරක් නාඋලදී අල්ලයි
+### Four explosives and doubts arrested in Naa
 
 *2024-09-18 13:45:07* · [`adalk`](https://www.ada.lk/breaking_news/පුපුරන-ද්‍රව්‍ය-හා-සැක-හතරක්-නාඋලදී-අල්ලයි/11-411997) · `si`
 
-රාත්‍රි කාලයේ නාඋල ප්‍රදේශයේ සිදුකල මුර සංචාරයක දී සිදුකල රථ වාහන සෝදිසියක දී පුපුරන ද්‍රව්‍ය රැසක් සමග සැකකරුවන සිව් දෙනෙකු අත්අඩංගුවට ගත් බව නාඋල පොලිසිය කියයි.
+Explosives and suspects arrested in Naula: Four individuals detained during nighttime operation. Police seized wire rolls and equipment. Suspects aged 50, 49, 38, residents of Pussellawa. Investigation ongoing under Inspector Tyrone Ratnayake.
 
-පසුගිය දා (18) අළුයම තුනට පමණ නාඋල සිට නිකුල දෙසට ධාවනය වු ත්‍රී රෝද රථයක් පරික්ෂා කිරිමේ දී අඩි තුනක් දිග detonator සහිත රතු පැහැති සේවා නූල් පහක්,අගල් අටක් දිග වෝටර් ජෙල් (water jell) කුරු තුනක්,අඩි දෙක - දෙක  හමාරක් හා 28 cm විශ්කම්බයක් ඇති විදින වානේ කටු එකක් හා නිල් හා ගුරු පාට ඔතන ලද මීටර් පනහක් දිග වයර් රෝලක් පොලිස් භාරයට ගෙන තිබේ.
+🟩
 
-ඉහත උපකරණ සමග ගමන් ගත් සැකකරුවන් සිවි දෙනෙකු ද සැක පිට අත්අඩංගුවට ගත් බව නාඋල පොලිසිය කියයි.
+Naula Police claim that four suspects were arrested in a traffic conducted at a patronage in Naula area at night.
 
-අත්අඩංගුවට පත් සැකකරුවන් නාඋල,පුස්සැල්ලෑව.උඩතලවින්න සහ වත්තේගම  ප්‍රදේශවල පදිංචි වයස අවුරුදු 50,49,38ආදී වයස් වල පසුවන්නනන් බව පොලිසිය කියයි.
+Five red work string with three feet long in Nauatotor towards Naural on Naula from Nau, 8thThe police seized a wire roll of a wire roll of a cm thick steel and blue and teachers.
 
-සිද්ධියට අදාල සැකකරුවන් ඊයේ (18) දින නාඋල මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමට නියමිතව තිබිනි.
+Naula Police claim that a suspects were arrested on suspicion with the above equipment.
 
-...
+The arrested suspects are aged 50,49,38, aged 50,49,38, a resident of Pussellawa.
+
+The suspects were to be produced before the Naula Magistrate yesterday (18).
+
+At the instructions of the Naula Police Inspector Tyrone Ratnayake, the suspects have been investigated by the suspects with the inquiry of the Puviana.
+
+◼️
 
 [Data](articles/a8461ec7.json)
+
+[Extended Data](ext_articles/a8461ec7.ext.json)
 
 ---
 
@@ -1043,6 +1135,20 @@ They are trying to make himself fail by doing the Deal of Anura Ranil. The oppos
 [Data](articles/df8f53ef.json)
 
 [Extended Data](ext_articles/df8f53ef.ext.json)
+
+---
+
+### The Woman Prime Minister
+
+*2024-09-18 11:22:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-woman-prime-minister/) · `en`
+
+NB: This article is dedicated to the memory of thousands of women comrades who were tortured sexually abused and murdered by the Sri Lankan states, due to alleged affiliations to the Janatha Vimukthi Peramuna/ People’s Liberation Front in 1971 and 1988/89
+
+Many Sri Lankans love to talk about our legacy of women prime ministers. To be more precise, our legacy of being home to the world’s first woman prime minister. When the US Democratic Party’s Kamala Harris assumed office as the 49th Vice President of the USA in 2021, many Sri Lankans, including Sri Lankan men with zero interest in parity in politics at home, began a boasting game. “We did it first!” was their byline.
+
+...
+
+[Data](articles/2459713b.json)
 
 ---
 
@@ -1864,19 +1970,25 @@ Deputy Chief Minister Rajitha Ranasinghe said that the official voter card distr
 
 ---
 
-### உயிரிழந்தவருக்கு அளிக்கப்படும் வாக்குகள் என்னவாகும்?
+### What are the votes cast for the deceased?
 
 *2024-09-18 08:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவருக்கு-அளிக்கப்படும்-வாக்குகள்-என்னவாகும்/175-343943) · `ta`
 
-ஒகஸ்ட் 22ஆம் திகதி காலமான, மறைந்த ஜனாதிபதி வேட்பாளர் திரு. இட்றுஸ் மொஹமட் இல்லியாஸ் அவர்களுக்கு அளிக்கப்படும் வாக்குகள் அனைத்தும் நிராகரிக்கப்படும் என தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+Elections Commission rejects votes for deceased presidential candidate Idrus Mohamed Iliyas. His nomination was for September 21, 2024. Ballot removal and invalidation of votes per Section 22(1)(B) of Presidential Election Act No. 15 of 1981.
 
-செப்டம்பர் 21, 2024 அன்று நடைபெறவிருக்கும் ஜனாதிபதித் தேர்தலுக்கு இல்லியாஸ் வேட்புமனுத்தாக்கல் செய்தார். அவர் இல்லாத பட்சத்தில் மூன்று நாட்களுக்குள் அவருக்குப் பதிலாக ஒருவரை நியமிக்க வாய்ப்பு இருந்தபோதிலும், அவரது வேட்பாளர் திரு. கே.எம்.என். சஞ்சய அதை செய்யத் தவறினார்
+🟩
 
-இதனையடுத்து, வாக்குச் சீட்டில் இருந்து திரு.இலியாஸின் பெயர் நீக்கப்படும். அவருக்கு ஏதேனும் வாக்குகள் அளிக்கப்பட்டால், அவை செல்லாததாகக் கருதப்பட்டு நிராகரிக்கப்படும். 1981 ஆம் ஆண்டின் 15 ஆம் இலக்க ஜனாதிபதி தேர்தல் சட்டத்தின் உப பிரிவு 22(1)(b) இன் படி தேர்தல்கள் ஆணைக்குழு இந்த விடயம் தொடர்பாக தெளிவான அறிவுறுத்தல்களை வெளியிட்டுள்ளது.
+The late presidential candidate on August 22. The Elections Commission has announced that all the votes cast by Idrus Mohamed Iliyas will be rejected.
+
+Illiyas nominated for the presidential election on September 21, 2024. Despite the possibility of appointing a person instead of him within three days, his candidate. K.MN. Sanjaya failed to do it
+
+Subsequently, Mr. Ilius's name will be removed from the ballot. If he is given any votes, they will be deemed to be invalid and rejected. According to Section 22 (1) (B) of the Presidential Election Act No. 15 of 1981, the Elections Commission issued a clear instructions on this issue.
 
 ◼️
 
 [Data](articles/23f6ae84.json)
+
+[Extended Data](ext_articles/23f6ae84.ext.json)
 
 ---
 
@@ -2291,53 +2403,5 @@ There, they have created an organization in various fields, "in different fields
 [Data](articles/ac3b754f.json)
 
 [Extended Data](ext_articles/ac3b754f.ext.json)
-
----
-
-### Hobson’s Choice Or Clear Choice
-
-*2024-09-18 05:27:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/hobsons-choice-or-clear-choice/) · `en`
-
-Mr. Silva, a recently retired public official wakes up as usual at the dawn of sunrise on this clear Sunday morning. As he regularly does, makes the short journey by foot to the nearest kiosk selling the Sunday newspapers. The fresh smell and the crispness of the paper is something Mr.Silva has always enjoyed. He would devour every single detail from the front to back during the course of the day. He usually takes home the Sunday Times and Divaina as he thinks it will cover the length and breadth of the weekly affairs and will give him contrasting perspectives. He is not easily swayed but forms an opinion based on his experience and likenesses.
-
-...
-
-[Data](articles/bb382b75.json)
-
-[Extended Data](ext_articles/bb382b75.ext.json)
-
----
-
-### SJB reaffirms commitment to Easter Attack justice after doubts raised
-
-*2024-09-18 03:51:31* · [`dailyftlk`](https://www.ft.lk/news/SJB-reaffirms-commitment-to-Easter-Attack-justice-after-doubts-raised/56-766841) · `en`
-
-Accuses Rienzie Arsecularatne PC of amplifying remarks by Prof. Agalakada Sirisumana Thera that have no bearing on party’s stance
-
-Reaffirms that SJB leader Sajith Premadasa’s promises, both written and verbal, to the Archbishop would not change
-
-Condemns Arsecularatne’s letter, accusing it of being politically motivated and aimed at damaging SJB’s voter base
-
-The Samagi Jana Balawegaya (SJB), through its General Secretary Ranjith Madduma Bandara, yesterday reiterated the party’s and its leader Sajith Premadasa’s unwavering commitment to ensuring justice for the victims of the 2019 Easter Sunday attacks.
-
-This reassurance follows a letter by President’s Counsel Rienzie Arsecularatne to Archbishop of Colombo Malcolm Cardinal Ranjith, which cast doubts on Premadasa’s dedication to this cause.
-
-...
-
-[Data](articles/84b47c9b.json)
-
-[Extended Data](ext_articles/84b47c9b.ext.json)
-
----
-
-### LTTE founding member Ragavan warns against common Tamil candidate’s rhetoric
-
-*2024-09-18 03:48:38* · [`dailyftlk`](https://www.ft.lk/news/LTTE-founding-member-Ragavan-warns-against-common-Tamil-candidate-s-rhetoric/56-766840) · `en`
-
-...
-
-[Data](articles/249d7250.json)
-
-[Extended Data](ext_articles/249d7250.ext.json)
 
 ---

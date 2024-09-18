@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 19:10:17**
+As of **2024-09-18 19:22:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,573 (100.0%) of 44,575 articles have been extended.
+44,575 (100.0%) of 44,575 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Meanwhile, the Department of Railways has taken steps to operate a special train
 ◼️
 
 [Data](articles/dfe5eb67.json)
+
+[Extended Data](ext_articles/dfe5eb67.ext.json)
 
 ---
 
@@ -72,29 +74,41 @@ The department said that the number of short -range train services may occur on 
 
 ---
 
-### හිස්බුල්ලා සටන්කාමීන්ව බියවැද්දූ පේජර් ප්‍රහාරය
+### Hezbollah scaressed pajar attack
 
 *2024-09-18 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201162) · `si`
 
-ලෙබනනයේ හිස්බුල්ලා සටන්කාමීන් ඉලක්ක කර එල්ලකළ පේජර් ප්‍රහාරය සම්බන්ධයෙන් තව තවත් තොරතුරු හෙළිවෙමින් තිබේ.
+Here's a 200-character summary of the Hezbollah pager attack:
 
-ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේ එම ප්‍රහාරයෙන් 12 දෙනෙක් මියගොස් ඇති බවයි.
 
-දැනට හෙළිවී ඇති තොරතුරු අනුව ඊශ්‍රායලයේ මොසාඩ් රහස් ඔත්තු සංවිධානය විසින් හිස්බුල්ලා සාමාජිකයින් යොදාගන්නා පේජර් සඳහා පුපුරණ ද්‍රව්‍ය අටවා ඇති බව හෙළිවිය.
 
-හිස්බුල්ලා සාමාජිකයින් ට ජංගම දුරකථන භාවිතය මීට මාස කිහිපයකට පෙර තහනම් කළ අතර ඒ වෙනුවට තොරතුරු හුවමාරුව සඳහා පේජර් භාවිත කිරීමට පියවර ගැනුණි.
+Hezbollah militants targeted in Lebanon. 12 killed in explosion. Mossad allegedly supplied explosives for pagers. Pagers replaced mobile phones months ago. Gold Apollo denies involvement. Hungarian company claims responsibility. Attack harmed eyes and limbs of victims. Son of MP and daughter of official among casualties.
 
-මෙම ප්‍රශ්නගත පේජර් මෑතකදී මිලදී ගෙන තිබූ අතර හිස්බුල්ලා සංවිධානය, ඊශ්‍රායල සැලැස්ම දැනගනී යැයි අනුමාන කර සැලසුම් කළ දිනට පෙර ඒවා පුපුරුවා ඇති බව සඳහන් ය.
+🟩
 
-පුපුරා ගොස් තිබූ පේජර් වල සන්නාමය තායිවාන සමාගමක් වන Gold Apollo ලෙස සඳහන් වුවද එම සමාගම එම චෝදනාව ප්‍රතික්ෂේප කරයි.
+More information on the pager attack, aimed at the Hebollah militants in Lebanon, is being revealed.
 
-ඔවුන් පවසන්නේ අදාළ පේජර් නිෂ්පාදනය කර ඇත්තේ හංගේරියානු සමාගමක් බවයි.
+International media reported that 12 people were killed in the attack.
 
-එම පිපිරීම් වලින් බොහෝ දෙනෙකුගේ ඇස් වලට සහ අත් පා වලට හානිවී තිබුණි.
+According to the revealed information, the Mossad intelligence organization of Israel has contacted the explosives for the pagers used by Hezbollah.
 
-...
+The use of mobile phones for members of Hezbollah was banned a few months ago, instead of using pagers to interchange.
+
+The questionful pagers had been purchased recently, and Hisbollah said that the Israeli plan was guessed to know the Israeli plan.
+
+The brand of the bribery of the bribery is a Gold Apoollo, a Gold Apoollo, rejects that allegation.
+
+They say that the relevant pagers are produced a Hungarian company.
+
+They were harming the eyes and limbs of many of those explosions.
+
+The international media reported that the son of a Member of Parliament and the daughter of a member of a member of a member of a member of a member of the Becca Valley.
+
+◼️
 
 [Data](articles/27d3669f.json)
+
+[Extended Data](ext_articles/27d3669f.ext.json)
 
 ---
 

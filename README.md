@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 16:38:04**
+As of **2024-09-18 16:55:23**
 
 ## Newspaper Stats
 
-*Scraped **44,547** Articles*
+*Scraped **44,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,112 @@ colombotelegraphcom | 445
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,111
+adalk | 4,112
 dailymirrorlk | 4,733
-adaderanalk | 5,241
-tamilmirrorlk | 5,818
-virakesarilk | 7,121
-adaderanasinhalalk | 7,628
+adaderanalk | 5,242
+tamilmirrorlk | 5,819
+virakesarilk | 7,123
+adaderanasinhalalk | 7,630
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,545 (100.0%) of 44,547 articles have been extended.
+44,545 (100.0%) of 44,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### කමිඳු ගෙන් සුපිරි ශතකයක්
+
+*2024-09-18 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201156) · `si`
+
+ශ්‍රී ලංකාව සහ නවසීලන්තය අතර පළමු ටෙස්ට් තරගයේ පළමු දිනය අද යි.
+
+එහිදී ශ්‍රී ලංකා ඉනිමේ ගැලවුම්කරුවා වූ කමිඳු මෙන්ඩිස් ශතකයක් වාර්තා කිරීමට සමත් විය.
+
+◼️
+
+[Data](articles/292aa213.json)
+
+---
+
+### Namal ready to prove innocence of Rajapaksa govt
+
+*2024-09-18 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102060/namal-ready-to-prove-innocence-of-rajapaksa-govt) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) presidential candidate, MP Namal Rajapaksa stated that he is prepared to prove the innocence of the ‘Rajapaksa government’.
+
+He made these comments while addressing a public rally held in the Kotikawatta area yesterday (17).
+
+“We didn’t carelessly build roads or housing apartments. We also didn’t bring in investors carelessly. We had a plan and a vision to develop this nation. We accountable for every investment made”, he added.
+
+Namal Rajapaksa further stated that if anyone claims that they stole or engaged in corruption, they are prepared to face any international court to prove their innocence. He also stated that in the past they were questioned about their inability to face the elections after the ‘Aragalaya’ movement.
+
+“There may be a different understanding about us. There may be a wrong opinion, but we have the strength to come before the people and ask them to vote for us,” he said.
+
+...
+
+[Data](articles/cb643032.json)
+
+---
+
+### தமிழ் மக்கள் பொது வேட்பாளருக்கு மாத்திரம் அளிக்க வேண்டும் - அரியநேந்திரன்
+
+*2024-09-18 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194029) · `ta`
+
+தமிழ் பொது வேட்பாளர் பற்றிய தவறான தகவல்கள், வதந்திகளை பரப்ப பல தரப்பினர்களும் திட்டமிட்டுள்ளதாகவும், அதனால் மக்கள் விழிப்பாக இருந்து 21ஆம் திகதி தமது வாக்குகளை தமிழ் பொது வேட்பாளருக்கு மாத்திரம் அளிக்க வேண்டும் என தமிழ் பொது வேட்பாளர் பா. அரியநேந்திரன் தெரிவித்துள்ளார்.
+
+யாழ். ஊடக அமையத்தில் இன்று புதன்கிழமை (18) நடைபெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+
+நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளருக்கு மாத்திரம் வாக்களியுங்கள். சிலர் விருப்பு வாக்குகளை ஏனைய வேட்பாளர்களுக்கு அளிக்குமாறு கூறுகின்றார்கள். அவ்வாறு செய்யாது. தனியே தமிழ் பொது வேட்பாளருக்கு மாத்திரம் வாக்களியுங்கள். அதான் ஒவ்வொரு தமிழ் மக்களின் வரலாற்று கடமையாகும்.
+
+கடந்த 23ஆம் திகதி "நமக்காக நாம்" என்ற பிரச்சார பணியை நாம் யாழ்ப்பாணத்தில் பொலி கண்டியில் ஆரம்பித்து, எட்டு மாவட்டங்களிலும் பிரச்சார பணிகளை முன்னெடுத்தோம். அதனூடாக மக்கள் மத்தியில் பொது வேட்பாளருக்கான வரவேற்பு அதிகரித்துள்ளது.
+
+...
+
+[Data](articles/0955bb18.json)
+
+---
+
+### පාසල් නිල ඇඳුම් ලබාදීම ගැන දැනුම්දීමක්
+
+*2024-09-18 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201155) · `si`
+
+2025 නව පාසල් වාරය වෙනුවෙන් පාසල් ළමුන් ලක්ෂ 43කට අවශ්‍ය නිල ඇඳුම් සහ පිරිවෙන් 825 සඳහා අවශ්‍ය සිවුරු සියල්ලම ඇසුරුම් කර ලබාදීමට නියමිත බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+ඒ අනුව, 2025 නව පාසල් වාරය ආරම්භ වන ජනවාරි 20 වනදාට පෙර එම නිල ඇඳුම් සහ සිවුරු බෙදාහැරීමට නියමිතය.
+
+අධ්‍යාපන අමාත්‍යවරයා සහ චීන තානාපතිවරයා, චීන රජයේ අදාළ නිලධාරීන් සමග සාකච්ඡා කිරීමෙන් අනතුරුව චීන රජය විසින් ප්‍රදානයක් ලෙස මෙය ලබාදී තිබේ.
+
+ඒ අනුව මෙම නිල ඇඳුම් 100%ක් නොමිලේ හිමිවන අතර එයින් රජයට ඉතිරි වන මුදල රුපියල් මිලියන 7,000ක් බව එම නිවේදනයේ සඳහන් ය.
+
+මෙම නිල ඇඳුම්වල පළමු තොගය නොවැම්බර් මස 13වන දිනත්, දෙවන තොගය නොවැම්බර් මස 21වන දිනත්, තෙවන තොගය දෙසැම්බර් මස 20වන දිනත් ශ්‍රී ලංකාවට ලැබීමට නියමිත බව මේ වනවිට චීන රජය විසින් තහවුරු කර තිබේ.
+
+◼️
+
+[Data](articles/f2cfeedf.json)
+
+---
+
+### வாக்களிப்பது எப்படி ?
+
+*2024-09-18 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194013) · `ta`
+
+ஜனாதிபதி தேர்தலுக்கு இன்னும் 3 நாட்களே உள்ளன.  அதன்படி, ஜனாதிபதி தேர்தல் எதிர்வரும் 21ஆம் திகதி சனிக்கிழமை (21) நடைபெறவுள்ளது.
+
+ஜனாதிபதித் தேர்தலில் வாக்காளர்கள் தமது வாக்கை எவ்வாறு சரியாக அளிக்க வேண்டும் என்பது தொடர்பில் தேர்தல் ஆணைக்குழுவால் விளக்கமளிக்கப்பட்டுள்ளது.
+
+வாக்கினை ‘1’ என்றும் விருப்பு வாக்குகளை ‘2’ மற்றும் ‘3’ என்றும் குறிக்கலாம்.
+
+எனினும், ஒரு வாக்கை அளிக்கும் போது  ‘1’ மற்றும் ‘X’ என்ற இரண்டையும்  குறிக்க வேண்டாம்.
+
+◼️
+
+[Data](articles/09057665.json)
+
+---
 
 ### விபத்தில் பாடசாலை மாணவி பலி
 
@@ -170,6 +260,28 @@ If something is about her, the police requests the public to inform the followin
 
 ---
 
+### International Election Superintendents have asked the Election Commission that the candidates are only campaigning for the various confusion about the preferential voting process.
+
+*2024-09-18 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194016) · `ta`
+
+International election superintendents express concern over confusion about preferential voting process. Candidates accused of not adequately promoting it. Election Commission responds by explaining voting process in villages. International observers also report campaign irregularities and Election Commission manipulation.
+
+🟩
+
+International Election Superintendents have issued a compassion to the Election Commission that there is a lot of confusion among the people regarding the preferential voting process and that most candidates are proposing to postpone their logo.
+
+As the country's ninth presidential election is scheduled to be held on the 21st of this month, the Election Commission has officially invited the Elections Commission to the Elections Commission, including the European Union, Commonwealth and Independent Elections, as usual to carry out election surveillance work.. They are coming to the country and are carrying out their election monitoring in the nine provinces.
+
+A meeting between officials of the Election Commission and the Elections Superintendent of the Commonwealth and the Asian Network for Independent Elections was held in Colombo on Tuesday.
+
+...
+
+[Data](articles/4ce4c4db.json)
+
+[Extended Data](ext_articles/4ce4c4db.ext.json)
+
+---
+
 ### Sajith says exam paper leaks will be resolve under his govt
 
 *2024-09-18 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102059/sajith-says-exam-paper-leaks-will-be-resolve-under-his-govt) · `en`
@@ -237,28 +349,6 @@ Parents have been protesting in front of the Examinations Department for the can
 [Data](articles/88b1e813.json)
 
 [Extended Data](ext_articles/88b1e813.ext.json)
-
----
-
-### International Election Superintendents have asked the Election Commission that the candidates are only campaigning for the various confusion about the preferential voting process.
-
-*2024-09-18 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194016) · `ta`
-
-International election superintendents express concern over confusion about preferential voting process. Candidates accused of not adequately promoting it. Election Commission responds by explaining voting process in villages. International observers also report campaign irregularities and Election Commission manipulation.
-
-🟩
-
-International Election Superintendents have issued a compassion to the Election Commission that there is a lot of confusion among the people regarding the preferential voting process and that most candidates are proposing to postpone their logo.
-
-As the country's ninth presidential election is scheduled to be held on the 21st of this month, the Election Commission has officially invited the Elections Commission to the Elections Commission, including the European Union, Commonwealth and Independent Elections, as usual to carry out election surveillance work.. They are coming to the country and are carrying out their election monitoring in the nine provinces.
-
-A meeting between officials of the Election Commission and the Elections Superintendent of the Commonwealth and the Asian Network for Independent Elections was held in Colombo on Tuesday.
-
-...
-
-[Data](articles/4ce4c4db.json)
-
-[Extended Data](ext_articles/4ce4c4db.ext.json)
 
 ---
 
@@ -349,6 +439,26 @@ Due to this, several train travels from Anuradhapura to Kilinochchi have been ca
 [Data](articles/a24e3124.json)
 
 [Extended Data](ext_articles/a24e3124.ext.json)
+
+---
+
+### පුපුරන ද්‍රව්‍ය හා සැක හතරක් නාඋලදී අල්ලයි
+
+*2024-09-18 13:45:07* · [`adalk`](https://www.ada.lk/breaking_news/පුපුරන-ද්‍රව්‍ය-හා-සැක-හතරක්-නාඋලදී-අල්ලයි/11-411997) · `si`
+
+රාත්‍රි කාලයේ නාඋල ප්‍රදේශයේ සිදුකල මුර සංචාරයක දී සිදුකල රථ වාහන සෝදිසියක දී පුපුරන ද්‍රව්‍ය රැසක් සමග සැකකරුවන සිව් දෙනෙකු අත්අඩංගුවට ගත් බව නාඋල පොලිසිය කියයි.
+
+පසුගිය දා (18) අළුයම තුනට පමණ නාඋල සිට නිකුල දෙසට ධාවනය වු ත්‍රී රෝද රථයක් පරික්ෂා කිරිමේ දී අඩි තුනක් දිග detonator සහිත රතු පැහැති සේවා නූල් පහක්,අගල් අටක් දිග වෝටර් ජෙල් (water jell) කුරු තුනක්,අඩි දෙක - දෙක  හමාරක් හා 28 cm විශ්කම්බයක් ඇති විදින වානේ කටු එකක් හා නිල් හා ගුරු පාට ඔතන ලද මීටර් පනහක් දිග වයර් රෝලක් පොලිස් භාරයට ගෙන තිබේ.
+
+ඉහත උපකරණ සමග ගමන් ගත් සැකකරුවන් සිවි දෙනෙකු ද සැක පිට අත්අඩංගුවට ගත් බව නාඋල පොලිසිය කියයි.
+
+අත්අඩංගුවට පත් සැකකරුවන් නාඋල,පුස්සැල්ලෑව.උඩතලවින්න සහ වත්තේගම  ප්‍රදේශවල පදිංචි වයස අවුරුදු 50,49,38ආදී වයස් වල පසුවන්නනන් බව පොලිසිය කියයි.
+
+සිද්ධියට අදාල සැකකරුවන් ඊයේ (18) දින නාඋල මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමට නියමිතව තිබිනි.
+
+...
+
+[Data](articles/a8461ec7.json)
 
 ---
 
@@ -1754,6 +1864,22 @@ Deputy Chief Minister Rajitha Ranasinghe said that the official voter card distr
 
 ---
 
+### உயிரிழந்தவருக்கு அளிக்கப்படும் வாக்குகள் என்னவாகும்?
+
+*2024-09-18 08:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவருக்கு-அளிக்கப்படும்-வாக்குகள்-என்னவாகும்/175-343943) · `ta`
+
+ஒகஸ்ட் 22ஆம் திகதி காலமான, மறைந்த ஜனாதிபதி வேட்பாளர் திரு. இட்றுஸ் மொஹமட் இல்லியாஸ் அவர்களுக்கு அளிக்கப்படும் வாக்குகள் அனைத்தும் நிராகரிக்கப்படும் என தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+செப்டம்பர் 21, 2024 அன்று நடைபெறவிருக்கும் ஜனாதிபதித் தேர்தலுக்கு இல்லியாஸ் வேட்புமனுத்தாக்கல் செய்தார். அவர் இல்லாத பட்சத்தில் மூன்று நாட்களுக்குள் அவருக்குப் பதிலாக ஒருவரை நியமிக்க வாய்ப்பு இருந்தபோதிலும், அவரது வேட்பாளர் திரு. கே.எம்.என். சஞ்சய அதை செய்யத் தவறினார்
+
+இதனையடுத்து, வாக்குச் சீட்டில் இருந்து திரு.இலியாஸின் பெயர் நீக்கப்படும். அவருக்கு ஏதேனும் வாக்குகள் அளிக்கப்பட்டால், அவை செல்லாததாகக் கருதப்பட்டு நிராகரிக்கப்படும். 1981 ஆம் ஆண்டின் 15 ஆம் இலக்க ஜனாதிபதி தேர்தல் சட்டத்தின் உப பிரிவு 22(1)(b) இன் படி தேர்தல்கள் ஆணைக்குழு இந்த விடயம் தொடர்பாக தெளிவான அறிவுறுத்தல்களை வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/23f6ae84.json)
+
+---
+
 ### What are the votes cast for the deceased?
 
 *2024-09-18 08:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவருக்கு-அளிக்கப்டும்-வாக்குகள்-என்னவாகும்/175-343943) · `ta`
@@ -2213,143 +2339,5 @@ This reassurance follows a letter by President’s Counsel Rienzie Arsecularatne
 [Data](articles/249d7250.json)
 
 [Extended Data](ext_articles/249d7250.ext.json)
-
----
-
-### TNA’s Sasikala Raviraj and Senathirajah discuss northern development with President
-
-*2024-09-18 03:46:22* · [`dailyftlk`](https://www.ft.lk/news/TNA-s-Sasikala-Raviraj-and-Senathirajah-discuss-northern-development-with-President/56-766839) · `en`
-
-In a series of high-level discussions focused on the future of the Northern Province, Tamil National Alliance (TNA) leaders Sasikala Raviraj and Kalaiamuthan Mavai Senathirajah have taken steps to push forward comprehensive development and investment strategies.
-
-The talks, held recently between President Ranil Wickremesinghe with key TNA members at the Jetwing Hotel, Jaffna, aim to address the long-standing economic and infrastructure challenges faced by the Northern community, with a strong emphasis on inclusive and sustainable development initiatives, the media unit of Wickremesinghe said.
-
-...
-
-[Data](articles/29aeb1d0.json)
-
-[Extended Data](ext_articles/29aeb1d0.ext.json)
-
----
-
-### Janaka Ratnayake criticises political rallies as ‘business ventures’
-
-*2024-09-18 03:45:47* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-criticises-political-rallies-as-business-ventures/56-766838) · `en`
-
-Eksath Lanka Podujana Peramuna Presidential candidate Janaka Ratnayake yesterday expressed concerns over the state of politics in Sri Lanka, claiming that the political landscape has transformed into a business enterprise over the past 76 years, causing significant hardship for the people. Speaking at a media briefing, Ratnayake alleged that candidates routinely organise large election rallies with the help of companies that specialise in assembling crowds.
-
-He further claimed that individuals attending these rallies are paid between Rs. 3,000 and Rs. 5,000, creating an artificial image of public support.
-
-“These gatherings, featured on social and State media, are not representative of genuine political movements,” Ratnayake said.
-
-He claimed that most people are still undecided on whom to vote for. “Our people have become disillusioned with politics,” he said.
-
-...
-
-[Data](articles/0fd609f3.json)
-
-[Extended Data](ext_articles/0fd609f3.ext.json)
-
----
-
-### Pioneering manifesto matching initiative debuts
-
-*2024-09-18 03:39:18* · [`dailyftlk`](https://www.ft.lk/news/Pioneering-manifesto-matching-initiative-debuts/56-766837) · `en`
-
-For the first time in Sri Lanka, the public have access to a digital tool, to easily compare and evaluate the manifesto promises of the three major Presidential candidates – in English, Sinhala and Tamil.
-
-Called Presidential Election Manifesto Match 2024, it has extracted over 1,500 promises that are tied to actions – not aspirational claims or projections.
-
-It has a “Manifesto Comparer”, which allows the side-by-side comparison of manifesto promises of candidates across 15 thematic areas.
-
-It also has a “Manifesto Matchmaker” game. This allows players to design their dream manifesto, and check how closely they align with specific actionable promises of the candidates.
-
-This globally exclusive initiative was launched on the Manthri.lk platform of Verité Research. For more information, visit https://manthri.lk/en/presidential-election-manifesto-2024.
-
-◼️
-
-[Data](articles/49feeb9c.json)
-
-[Extended Data](ext_articles/49feeb9c.ext.json)
-
----
-
-### International Crisis Group releases report on Sri Lankan elections in aftermath of economic collapse
-
-*2024-09-18 03:37:26* · [`dailyftlk`](https://www.ft.lk/news/International-Crisis-Group-releases-report-on-Sri-Lankan-elections-in-aftermath-of-economic-collapse/56-766836) · `en`
-
-If these polls are handled responsibly by all sides, and the public sees the final result as credible and legitimate, Sri Lanka could have an opportunity to begin addressing both the unfairness of the current adjustment program as well as the roots of economic mismanagement and political misrule that led to the 2022 collapse. Far from flinching at the prospect, allies, donors and lenders should be ready to listen to the verdict of the ballot box
-
-International Crisis Group has announced the launch of “Sri Lanka’s Bailout Blues: Elections in the Aftermath of Economic Collapse.”
-
-The report looks at the political fallout of Sri Lanka’s devastating economic crisis and the challenges of implementing the economic reform program negotiated with the International Monetary Fund (IMF) following the Government first-ever debt default in 2022.
-
-...
-
-[Data](articles/e1b1e987.json)
-
-[Extended Data](ext_articles/e1b1e987.ext.json)
-
----
-
-### Kaushalya Nawaratna alleges malicious campaign against him in resignation letter as BASL President
-
-*2024-09-18 03:34:33* · [`dailyftlk`](https://www.ft.lk/news/Kaushalya-Nawaratna-alleges-malicious-campaign-against-him-in-resignation-letter-as-BASL-President/56-766835) · `en`
-
-Claims he was wrongfully accused and victimised for extraneous reasons to suit the hidden agendas of few unscrupulous members of BASL
-
-Kaushalya Nawaratna, who resigned as the President of the Bar Association of Sri Lanka (BASL) last week has alleged a “pre-organised, sponsored, malicious campaign” against him and he firmly stands by his position that he has not committed any wrongdoing.
-
-In his letter of resignation, Nawartna also said that he has been wrongfully accused and victimised for extraneous reasons to suit the hidden agendas of the said few unscrupulous members of the Bar Association.
-
-Nawaratna also states in his letter that his resignation is tendered strictly without prejudice to his rights to take legal action against all individuals and/or institutions who wilfully and/or deliberately made and/or published and/or disseminated false statements inter alia defaming and/or damaging my impeccable professional and personal reputation and character.
-
-...
-
-[Data](articles/aafb0f9a.json)
-
-[Extended Data](ext_articles/aafb0f9a.ext.json)
-
----
-
-### I will create a prosperous future for all Tamil, Sinhala and Muslim people - President
-
-*2024-09-18 03:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/193973) · `ta`
-
-President Ranil Wickremesinghe promises prosperity for all ethnic groups, addresses economic challenges, and outlines development plans for Mannar. He urges voters to support his vision for Sri Lanka's future on September 21.
-
-🟩
-
-President Ranil Wickremesinghe said that he had come to the presidential election with a program to create a prosperous future for all people including Tamil, Sinhala and Muslim, and that all the people affected by the last economic crisis would be expedited.
-
-The president said that the country had made difficult decisions to restore the economy of the country, and recalled that while the people of the country were impatient, the opposition parties had a struggle to demand only the power of the opposition.
-
-President Ranil Wickremesinghe made this statement while addressing the 'Ranilal' Victory rally held in front of the Mannar bus station on Tuesday (17).
-
-A large number of people participated in the rally to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election.
-
-...
-
-[Data](articles/ccbc68fb.json)
-
-[Extended Data](ext_articles/ccbc68fb.ext.json)
-
----
-
-### Eran says SJB will start renegotiation with IMF immediately after Sajith becomes President
-
-*2024-09-18 03:30:09* · [`dailyftlk`](https://www.ft.lk/business/Eran-says-SJB-will-start-renegotiation-with-IMF-immediately-after-Sajith-becomes-President/34-766834) · `en`
-
-SJB MP Eran Wickramaratne has revealed that once Sajith Premadasa becomes the President of Sri Lanka on 22 September, the SJB will immediately get into strengthening governance, restructuring of debt, and renegotiating with the IMF after appointing a caretaker Cabinet prior to dissolving Parliament.
-
-“Soon after Sajith Premadasa becomes President, the Parliament will be dissolved after appointing a new Cabinet of Ministers. We will not wait till the end of the general election – we will start maintaining macroeconomic fundamentals, which is the main task of a government,” emphasised SJB Parliamentarian Wickramaratne, speaking among a representative gathering in Rajagiriya yesterday evening.
-
-Wickramaratne, on the need for more professionals coming forward to take the task of governance and administration, said that he and Karu Jayasuriya were the only two corporate sector professionals who came to politics.
-
-...
-
-[Data](articles/2d3faf71.json)
-
-[Extended Data](ext_articles/2d3faf71.ext.json)
 
 ---

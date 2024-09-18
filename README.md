@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 15:22:34**
+As of **2024-09-18 15:38:14**
 
 ## Newspaper Stats
 
-*Scraped **44,536** Articles*
+*Scraped **44,538** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 444
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,109
+adalk | 4,110
 dailymirrorlk | 4,733
-adaderanalk | 5,240
+adaderanalk | 5,241
 tamilmirrorlk | 5,816
 virakesarilk | 7,119
 adaderanasinhalalk | 7,625
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,625
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,536 (100.0%) of 44,536 articles have been extended.
+44,538 (100.0%) of 44,538 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Sajith says exam paper leaks will be resolve under his govt
+
+*2024-09-18 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102059/sajith-says-exam-paper-leaks-will-be-resolve-under-his-govt) · `en`
+
+The Samagi Jana Balawegaya (SJB) presidential candidate Sajith Premadasa says that the injustice faced by the children who sat for the Grade 5 Scholarship Examination this year will be rectified under his government.
+
+He expressed these views while joining the public rally in Kegalle area.
+
+“Ranil Wickramasinghe says that he “can”. Now the person who “can”, can’t even prevent the question paper of the Grade 5 scholarship exam held by the government under him from being leaked,” he charged.
+
+“What has happened now, the three leaked questions are to be removed,” he said, adding that it is a serious injustice to hundreds of thousands of children who faced the scholarship exam.
+
+The Opposition Leader assured that they would investigate into this repeating issue of examination papers being leaked and vowed to take the strictest possible action against those found responsible.
+
+...
+
+[Data](articles/2f5b81c8.json)
+
+[Extended Data](ext_articles/2f5b81c8.ext.json)
+
+---
 
 ### International Election Superintendents have asked the Election Commission that the candidates are only campaigning for the various confusion about the preferential voting process.
 
@@ -219,6 +241,32 @@ He was speaking at a familiarity held in Melsiripura night yesterday.
 [Data](articles/5cce0ff6.json)
 
 [Extended Data](ext_articles/5cce0ff6.ext.json)
+
+---
+
+### McCovia stops the dinner serving after the meeting
+
+*2024-09-18 13:20:55* · [`adalk`](https://www.ada.lk/breaking_news/රැස්වීමෙන්-පසු-රාත්‍රී-භෝජන-සංග්‍රය-මැකො-නවත්වයි/11-411996) · `si`
+
+Nuwara Eliya hotel event halted: Assistant Election Commissioner cancels banquet due to complaint about unauthorized gathering during presidential election campaign.
+
+🟩
+
+The Assistant Election Commissioner has taken steps to stop a banquet organized at a major tourist hotel in Nuwara Eliya.
+
+The Assistant Election Commissioner has taken steps to stop a supposed night banquet by a meeting of the Presidential Election (17) at the Presidential Election.
+
+The meeting was organized for a select group of selected people in the Nuwara Eliya and the organizers had held a night banquet for the participants.
+
+The organizers have advised the organizers to check for the hotel on a complaint (17) to take a meeting to the Elections Commissioner to conduct the night banquet.
+
+The Assistant Election Commissioner of Elections (
+
+◼️
+
+[Data](articles/54d6c2ab.json)
+
+[Extended Data](ext_articles/54d6c2ab.ext.json)
 
 ---
 
@@ -2283,45 +2331,5 @@ The 57th session of the United Nations Human Rights Council commenced in Geneva 
 [Data](articles/88fd3800.json)
 
 [Extended Data](ext_articles/88fd3800.ext.json)
-
----
-
-### National Single Window: Game-changer for Sri Lanka’s trading community
-
-*2024-09-18 02:14:51* · [`dailyftlk`](https://www.ft.lk/opinion/National-Single-Window-Game-changer-for-Sri-Lanka-s-trading-community/14-766816) · `en`
-
-The success stories from other nations provide compelling evidence of the NSW’s potential, and Sri Lanka must now seize this lagging behind opportunity to accelerate its own implementation
-
-The National Single Window (NSW) is an integrated digital platform designed to streamline international trade by allowing parties involved in trade and transport to submit standardised information and documents through a single entry point. This concept, supported by international organisations such as the World Trade Organization (WTO) and the World Customs Organization (WCO), aims to simplify and harmonise the flow of information between traders and government authorities.
-
-...
-
-[Data](articles/574938b7.json)
-
-[Extended Data](ext_articles/574938b7.ext.json)
-
----
-
-### The new president is essential to prioritize racial reconciliation
-
-*2024-09-18 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/193968) · `ta`
-
-New president prioritizes racial reconciliation, National Peace Council urges focus on inter-government unity. Economic stability and corruption require long-term political solutions based on devolution. True political acceptance of all communities' aspirations essential for national healing and confidence rebuilding. New leader must address Tamil community concerns and promote power sharing in provincial councils. Political commitment and ethnic peace crucial for attracting foreign investment and international support. Building a new social contract respecting all communities' rights and aspirations key to Sri Lanka's future: justice, equality, and sustainable peace.
-
-🟩
-
-The National Peace Council has urged the new presidential election to be given priority to inter -government reconciliation.
-
-In this regard, the report issued by the Peace Council on Tuesday (17).
-
-As the presidential election campaigns end, the focus from the election contest must return to the country's emergency challenges. While the election results are uncertain, the new president is going to take responsibility for a country that is wrestling with the economic stability and the deepest rooted corruption and punishment culture.
-
-A challenge to note in the presence of the new government that requires a long -term racism through a political solution based on devolution. The new president must give priority to this issue to bring about sustainable peace and unity to the country.
-
-...
-
-[Data](articles/29f24a45.json)
-
-[Extended Data](ext_articles/29f24a45.ext.json)
 
 ---

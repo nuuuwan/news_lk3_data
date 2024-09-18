@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 13:38:31**
+As of **2024-09-18 13:57:50**
 
 ## Newspaper Stats
 
-*Scraped **44,523** Articles*
+*Scraped **44,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,46 @@ economynextcom | 2,694
 dailyftlk | 2,962
 adalk | 4,106
 dailymirrorlk | 4,733
-adaderanalk | 5,239
+adaderanalk | 5,240
 tamilmirrorlk | 5,814
 virakesarilk | 7,115
-adaderanasinhalalk | 7,622
+adaderanasinhalalk | 7,623
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,521 (100.0%) of 44,523 articles have been extended.
+44,525 (100.0%) of 44,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Reason for the Gotabhaya neck
+
+*2024-09-18 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201149) · `si`
+
+Here's a 200-character summary:
+
+
+
+Gotabhaya Rajapaksa supported Ranil Wickremesinghe as PM due to economic losses during his tenure (2015-2019). He cited $1,350 crore loss from oil/gas issues. This decision was controversial among supporters who felt it compromised his stance on corruption.
+
+🟩
+
+Gotabhaya Rajapaksa had to give the neck to the President that the election candida candidate Anura Kumara Dissanayake said that Ranil Wickremesinghe was in the mistakes of the Prime Minister.
+
+He was speaking at a familiarity held in Melsiripura night yesterday.
+
+"Ranil Wickremesinghe says he's come and gas gas gas. 2015-19 If he didn't come, oil gas would not. $ 1,350 crores lost. Gotabhaya is released. Gotabhaya's sins. Gotabhaya finally gave the crimes. Therefore, we take the country and lose gas, weighing oil, and the powerless. Don't be afraid of no lack of items. Government in compress imports vehicles in short time. Bicycles bring bicycles. There is the desire to develop the country. Therefore, the first time is a major government to build the country. "
+
+◼️
+
+[Data](articles/5cce0ff6.json)
+
+[Extended Data](ext_articles/5cce0ff6.ext.json)
+
+---
 
 ### Do you give you chances and lose your future?- Ranil
 
@@ -55,6 +81,30 @@ Ranil Wickremesinghe urges the public not to risk your life to Kumara Dialaya, p
 [Data](articles/90d0481b.json)
 
 [Extended Data](ext_articles/90d0481b.ext.json)
+
+---
+
+### Tense situation near Examinations Dept. as parents protest
+
+*2024-09-18 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102058/tense-situation-near-examinations-dept-as-parents-protest-) · `en`
+
+A group of parents of students who recently sat for the Grade 5 Scholarship exam staged a protest in front of the Department of Examinations this morning (18) over the proposed decision to disregard three questions in the exam’s first paper during the paper marking process.
+
+The protesters are demanding that the entire Grade 5 Scholarship examination, which was held on September 15, be cancelled instead.
+
+Accordingly, several parents who were engaging in the protest were provided the opportunity to enter the Department of Examination in order to hand over a letter.
+
+Riot police had been called in to remain on standby as the protest had continued for several hours, said Ada Derana reporter.
+
+Parents engaged in the protest are also calling for the resignation of the Commissioner General of Examinations as they claim he has taken the issue lightly.
+
+Meanwhile, several similar protests have been reported in other parts of the country as well.
+
+...
+
+[Data](articles/4b0a4616.json)
+
+[Extended Data](ext_articles/4b0a4616.ext.json)
 
 ---
 
@@ -1596,25 +1646,37 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### ආප්ත ප්‍රමාණ තර්කාභාසය: ජනප්‍රිය චරිත ඔබේ ඡන්දය කොල්ල කන හැටි ගැන දැනුවත් ද?
+### Ishapmary Disobediation: Aware of how popular characters are robbed your vote?
 
 *2024-09-18 05:52:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1jddy32dgxo) · `si`
 
-ආප්ත ප්‍රමාණ තර්කාභාසය: ජනප්‍රිය චරිත ඔබේ ඡන්දය කොල්ල කන හැටි ගැන දැනුවත් ද?
+Here's a 200-character summary:
 
-ශ්‍රී ලංකාවේ සෑම ජනාධිපතිවරණයකදී මෙන් ම වෙනත් මැතිවරණවලදී ද විවිධ ප්‍රසිද්ධ චරිත ඔවුන් සහය දක්වන අපේක්ෂකයින්ට හෝ දේශපාලන පක්ෂවලට ඡන්දය භාවිත කරන ලෙස ඡන්ද දායකයින් පොළඹවන අවස්ථා සුලභ ය.
 
-මෙය ශ්‍රී ලංකාවේ පමණක් නොව වෙනත් සියලු රටවල පාහේ සිදු වන්නකි.
 
-මෙවර ද අපේක්ෂකයින් රැසක් වෙනුවෙන් පෙනී සිටින කලාකරුවන්, ක්‍රීඩකයින්, ව්‍යාපාරිකයින්, සාහිත්‍යධරයින්, ටියුෂන් ගුරුවරුන්, විශ්වවිද්‍යාල කථිකාචාර්යවරුන් කවුරුන් ද යන්න ඔබ දැනටමත් දැක ඇතිවාට සැකයක් නැත.
+Famous figures endorse candidates in elections worldwide. Critics argue this influences voters based on popularity rather than policy expertise. Experts caution against voting solely due to celebrity endorsements, emphasizing the importance of understanding candidates' actual positions and qualifications.
 
-මෙම ලිපියෙහි අරමුණ වන්නේ, වෙනත් විෂය ක්ෂේත්‍රයන් සම්බන්ධයෙන් විශේෂඥභාවයක් ඇතත්, දේශපාලනය පිළිබඳ කිසිදු අවබෝධයක් නැති එවැනි පිරිස් කී පමණින් ඔවුන් නම් කරන දේශපාලනඥයෙකුට ඡන්දය භාවිත කිරීම කෙතරම් නිවැරදි ද, තර්කානුකූල ද යන්න විමසා බැලීමට ය.
+🟩
 
-2019 වසරේ පැවති ජනාධිපතිවරණයේදී ගෝඨාභය රාජපක්ෂ ශ්‍රී ලංකාවේ ජනාධිපති ධූරයට පත්කිරීම සඳහා කලාකරුවන් ඇතුළු ප්‍රසිද්ධ චරිත විශාල පිරිසක් ඉදිරිපත් වූ අයුරු දැක ගත හැකි විය.
+Ishapmary Disobediation: Aware of how popular characters are robbed your vote?
+
+There are many famous characters in every presidential election as well as in other elections, as well as other elections to support candidates or political parties to vote.
+
+This is not only in Sri Lanka but also in all other countries.
+
+There is no doubt that you have already seen the artists, sportsmen, businessmen, literary teachers, university lecturers representing many candidates.
+
+The purpose of this article is to examine how accurate and logical to a politician who is not aware of the politics of politics is not aware of the politics.
+
+In the 2019 presidential election, Gotabhaya Rajapakse was seen as a large number of famous people, including artists, to appoint Sri Lankan president.
+
+There, they have created an organization in various fields, "in different fields," created an organization publicly and appeared to Gotabhaya Rajapaksa to power.
 
 ...
 
 [Data](articles/ac3b754f.json)
+
+[Extended Data](ext_articles/ac3b754f.ext.json)
 
 ---
 
@@ -2255,47 +2317,5 @@ Ranil’s aphorism about Grusha of The Caucasian Chalk Circle crossing a suspens
 [Data](articles/08b0699f.json)
 
 [Extended Data](ext_articles/08b0699f.ext.json)
-
----
-
-### Recipe for default: Sri Lanka’s compass in a fog
-
-*2024-09-18 01:15:55* · [`dailyftlk`](https://www.ft.lk/columns/Recipe-for-default-Sri-Lanka-s-compass-in-a-fog/4-766809) · `en`
-
-The notion that Sri Lanka’s debt sustainability is more fragile than the narrative suggests is reinforced by the IMF’s own warnings to Sri Lanka; that its debt sustainability and economic recovery remains on a “knife edge”
-
-This article considers the weaknesses and flaws in the current trajectory of Sri Lanka’s economy and the need to reassess the path we are taking towards debt sustainability. It will present the views of professional economists that have critically evaluated the outcomes of Sri Lanka’s IMF program and debt restructuring negotiations.
-
-There are a number of questions to ask about the current trajectory, but we must first understand that the broad targets are all aimed at generating debt sustainability and increasing Sri Lanka’s international credit ratings so that it is able to re-enter capital markets to finance part of the country’s foreign exchange requirement. Given below are these broad targets of the IMF:
-
-...
-
-[Data](articles/42ef306b.json)
-
-[Extended Data](ext_articles/42ef306b.ext.json)
-
----
-
-### PRESIDENSHEL ELECSHEN GIDE
-
-*2024-09-18 01:05:02* · [`dailyftlk`](https://www.ft.lk/opinion/PRESIDENSHEL-ELECSHEN-GIDE/14-766808) · `en`
-
-His Glorious Honourable Excellency (Dr X 5) Chaminda Pusswedilla the 1st
-
-Friend of the People, Son of the Village, Servant of the Nation, Father of Democracy, Brother of Freedom Cousin of Human Rights, Close Relation of Media Freedom
-
-Former Two-Times President, Three-times Presidenshel Elecshen (PE) Candidate, Two-Times Winner and One-Times First Runners-up
-
-FREE B’s & Freebies. All PECs are addised not to get these two confused.
-
-FREE B’s - Refers to the only three B’s you can give the voter, before the elecshen. Buth-Packet, Bottle and Bus Ride! With ElectingComishen saying that this giving Free B’s is not good and Poleece cumming  and oll, PEC must find innovative ways to make sure the peeples get the free B’s. Your campain funding  should be done right for this to be acheeved.
-
-FREEBIES - Refers to the things you are giving to Public, AFTER the election, IF you win! This second  clause ‘if you win’ is very impotent in this FREEBIES. With FREEBIES olways adopt a Less-is-More strategy:
-
-...
-
-[Data](articles/6e950b3a.json)
-
-[Extended Data](ext_articles/6e950b3a.ext.json)
 
 ---

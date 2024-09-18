@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 11:58:19**
+As of **2024-09-18 12:12:54**
 
 ## Newspaper Stats
 
-*Scraped **44,496** Articles*
+*Scraped **44,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,237
 tamilmirrorlk | 5,813
 virakesarilk | 7,108
-adaderanasinhalalk | 7,619
+adaderanasinhalalk | 7,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,496 (100.0%) of 44,496 articles have been extended.
+44,497 (100.0%) of 44,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Hot-riots are called near the Department of Examinations
+
+*2024-09-18 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201146) · `si`
+
+<PHIND_TIMEOUT>
+
+🟩
+
+Three questions on the first question paper of the Grade 5 Scholarship Examination and the department of Examinations will be protesting today (18).
+
+They are requested to cancel the Grade 5 Scholarship Examination.
+
+Accordingly, some of the parents in the protest went to the Department of Examinations and handed over a letter.
+
+Your parents are already protesting, our correspondent said that the police and the riot unit were imported.
+
+Inquiry made by Ada Derana, "parents who arrived at the scene were told that the Commissioner of Examinations had taken this question lightly and he should resign from his post.
+
+The scholarship examination of the Grade 20, 20, had been held on Sunday and 323,879 candidates appeared.
+
+However, there was a meeting of a tuition teacher in Alawwa area before the examination with several issues of this year's scholarship examination.
+
+The Department of Examinations had conducted an accelerated investigation into the incident.
+
+...
+
+[Data](articles/8b38a060.json)
+
+[Extended Data](ext_articles/8b38a060.ext.json)
+
+---
 
 ### A child killed in a hundred and a half
 
@@ -54,15 +86,13 @@ A large number of and a half was killed in an accident at the Anuradhapura road 
 
 *2024-09-18 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102055/pakistan-sri-lanka-trade-dispute-unresolved-report) · `en`
 
-Pakistan and Sri Lanka have yet to operationalise a bilateral dispute resolution body, nearly two decades after signing a treaty, leaving trade disputes unresolved.
+Pakistan and Sri Lanka have yet to operationalise a bilateral dispute resolution body, nearly two decades after signing a treaty, leaving trade disputes unresolved. This could potentially harm Pakistan’s exports to the island nation.
 
-This could potentially harm Pakistan’s exports to the island nation.
-
-On Monday, the Ministry of Commerce informed a Senate Standing Committee on Commerce that Sri Lankan authorities were uncooperative, suggesting the issue now needs to be addressed at the political level.
+On Monday, Pakistan’s Ministry of Commerce informed a Senate Standing Committee on Commerce that Sri Lankan authorities were uncooperative, suggesting the issue now needs to be addressed at the political level.
 
 Senator Anusha Rahman of the Pakistan Muslim League-Nawaz (PML-N) chaired the meeting. Initially, ministry officials implied the dispute resolution forum was effective but later admitted Sri Lanka’s lack of cooperation.
 
-“We have friendly relations with Sri Lanka and want to amicably resolve the trade disputes,” said Minister for Commerce Jam Kamal.
+“We have friendly relations with Sri Lanka and want to amicably resolve the trade disputes,” said Pakistan’s Minister for Commerce Jam Kamal.
 
 ...
 
@@ -2267,33 +2297,5 @@ Battey will be among the three main candidates in the upcoming elections. Ranil 
 [Data](articles/af94f6b9.json)
 
 [Extended Data](ext_articles/af94f6b9.ext.json)
-
----
-
-### You and I become similar citizens in this country - Dilith
-
-*2024-09-17 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201126) · `si`
-
-Dilith Jayaweera challenges presidential candidates over digital ID system. He proposes issuing unique digital numbers to all citizens, linking it to income and expenditure. A women's empowerment event was also held in Kandy.
-
-🟩
-
-Dilith Jayaweera is challenging the other presidential candidates, as every citizen is given to the digital unimouth number.
-
-The Dilith Gatamental Secretariat was held in Yatiyantota town this morning.
-
-"We present a strategic program. It said that in one one ... Your life changes. How to get money for that changing. None of the words against this. "
-
-"We have suggested in this book.. Similar way using modern digitalization. The birthday is the same citizens of this Digital number you and I have one day on one day. "
-
-"I'm asking them one question. Promise if you can issue the digital number. If the income is to tell the income.. Expenditure is spent. "
-
-Meanwhile, a woman who was organized by the Surgeon Power Women's Power Organization, a Women's Warranty, was held in Kandy this afternoon.
-
-◼️
-
-[Data](articles/c6f8fd7c.json)
-
-[Extended Data](ext_articles/c6f8fd7c.ext.json)
 
 ---

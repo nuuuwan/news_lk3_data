@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 16:22:45**
+As of **2024-09-18 16:38:04**
 
 ## Newspaper Stats
 
-*Scraped **44,545** Articles*
+*Scraped **44,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,962
 adalk | 4,111
 dailymirrorlk | 4,733
 adaderanalk | 5,241
-tamilmirrorlk | 5,816
+tamilmirrorlk | 5,818
 virakesarilk | 7,121
 adaderanasinhalalk | 7,628
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 7,628
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,542 (100.0%) of 44,545 articles have been extended.
+44,545 (100.0%) of 44,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### விபத்தில் பாடசாலை மாணவி பலி
+
+*2024-09-18 16:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-பாடசாலை-மாணவி-பலி/175-343960) · `ta`
+
+சம்மாந்துறை முஸ்லிம் மத்திய கல்லூரியில் தரம் 9 பயிலும் 14 வயது மாணவி வாகன விபத்தில் பரிதாபகரமாக பலியானார்.
+
+அம்பாறை -  கல்முனை வீதியில் மாவடிப்பள்ளி பெரியபள்ளி வாசலுக்கு முன்பாக   புதன்கிழமை (18) காலை 08.15 மணியளவில் நடைபெற்ற வாகன விபத்தில் 14 வயது சிறுமி  ஸ்தலத்தில் மரணமடைந்துள்ளார்.
+
+சம்மாந்துறை வலயக்கல்விப் பணிமனையில் விசேட கல்விக்கு பொறுப்பான ஆசிரிய ஆலோசகர் அகமட்லெவ்வையின் புதல்வியாவார்.
+
+மோட்டார் சைக்கிளில் தந்தையுடன் பயணித்துக் கொண்டிருந்த மாணவியின் மீது தனியார் போக்குவரத்து பஸ் ஒன்று மோதியதிலேயே இந்த விபத்து இடம் பெற்றுள்ளதாக தெரிகிறது.
+
+சம்மாந்துறையை சேர்ந்த மாணவி  இவ்வாறு விபத்தில் மரணமடைந்த செய்தி காட்டுத் தீ போல் பரவியது.சம்மாந்துறை சோகமயமாக உள்ளது.
+
+இந்த விபத்து நடந்தவுடன் குறித்த பஸ்ஸின் சாரதி விபத்து நடந்த இடத்திலிருந்து தப்பி ஓடியுள்ளார் என்றும் இந்நிலையில் தற்போது பஸ் சாரதி காரைதீவு பொலிஸில் சரணடைந்துள்ளார் என்றும் தெரிகிறது.
+
+◼️
+
+[Data](articles/0e86593d.json)
+
+---
+
+### துண்டுப்பிரசுரங்களை வழங்கிய மஹிந்த தேசப்பிரிய
+
+*2024-09-18 15:57:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துண்டுப்பிரசுரங்களை-வழங்கிய-மஹிந்த-தேசப்பிரிய/175-343958) · `ta`
+
+ஜனாதிபதித் தேர்தலில் மக்கள் எவ்வாறு வாக்களிக்க வேண்டும் என்பது தொடர்பான துண்டுப்பிரசுரங்களை தேர்தல்கள் ஆணைக்குழுவின் முன்னாள் தலைவர் மஹிந்த தேசப்பிரிய, அம்பலாங்கொட புகையிரத நிலையத்தில் வைத்து புதன்கிழமை (18) அன்று விநியோகித்தார்.
+
+தேர்தல் பொறுப்பில் இருந்த முன்னாள் உயர் அதிகாரி ஒருவர், இவ்வாறு செயல்பட்டமை இதுவே முதல் முறையாகும் .
+
+தேர்தலில் வாக்களிப்பது மக்களின் உரிமை , இந்த வாக்குரிமையை புறக்கணிக்கக் கூடாது எனவும் மக்களுக்கு வாக்களிக்கும் உரிமையை காண்பிப்பதே தனது நோக்கம் எனவும் அவர் குறிப்பிட்டுள்ளார் .
+
+◼️
+
+[Data](articles/ce5129ef.json)
+
+---
 
 ### Another decision of the court regarding Deshabandu's incident
 
@@ -80,19 +118,27 @@ The Pakistan's Group's game player has been able to collect over its first innin
 
 ---
 
-### பழம்பெரும் இந்திய திரைப்பட நடிகை சிஐடி சகுந்தலா காலமானார்
+### Legendary Indian film actress CIT Sakuntala passes away
 
 *2024-09-18 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194022) · `ta`
 
-ஏ.சகுந்தலா தமிழ் தெலுங்கு, மலையாளம், கன்னடம் என பல்வேறு மொழிகளில் நடிகையாக திகழ்ந்தவர்.  1970 ஆம் ஆண்டு ஜெய்சங்கர் நடிப்பில் வெளியான ’சிஐடி சங்கர்’ படத்தில் அறிமுகமானதால், அதன் பிறகு ‘சிஐடி’ சகுந்தலா என்று அழைக்கப்பட்டார்.
+Indian actress CIT Sakuntala passes away. Known for Tamil, Telugu, Malayalam, Kannada films. Debut in 1970. Acted in many movies including "Thirumathi Selvam" and TV series. Died due to chest pain in Bangalore. Condolences from filmmakers.
 
-சேலம் மாவட்டத்தின் அரிசிபாளையத்தைச் சேர்ந்த சகுந்தலா சென்னையில் லலிதா, பத்மினி, ராகினி நடத்தி வந்த நடன நிகழ்ச்சிகளில் பங்கேற்று நடனமாடி வந்தார். அப்போது கிடைத்த அறிமுகங்களின் மூலம் திரையுலகில் நுழைந்து சின்ன சின்ன கதாபாத்திரங்களில் நடித்தார்.
+🟩
 
-‘படிக்காத மேதை’, ‘கை கொடுத்த தெய்வம்’, ‘திருடன்’, ‘தவப்புதல்வன்’, ‘வசந்த மாளிகை’, ‘நீதி’, ‘பாரத விலாஸ்’, ‘ராஜராஜ சோழன்’, ‘பொன்னூஞ்சல்’, ‘என் அண்ணன்’, ‘இதயவீணை’ என ஏராளமான திரைப்படங்களில் நடித்துள்ளார். தமிழ் தவிர, தெலுங்கு, மலையாளம், கன்னடம் உள்ளிட்ட மொழிகளில் நடித்து வந்தார்.
+A. Sakundala is an actress in various languages ​​such as Tamil Telugu, Malayalam and Kannada.Since he made his debut in the 1970 film, Jaishankar starring Jaishankar, he was later called the CIT's Sakuntala.
 
-...
+Sakuntala from Arizipalayam in Salem district attended the dance performances by Lalitha, Padmini and Rakini in Chennai. Through his debut, he entered the film industry and played the role of little roles.
+
+'Unreadable genius', 'hand -given goddess', 'thief', 'taputtalvan', 'Vasantha House', 'Justice', 'Bharata Vilas', 'Rajaraja Chola', 'Ponnununjal', 'My brother', 'Heartbreak'He has acted in numerous movies. Apart from Tamil, he has acted in languages ​​including Telugu, Malayalam and Kannada.
+
+She was acting in serials after leaving the cinema. He was staying at his daughter's house in Bangalore after the age of age, and had a chest pain on Tuesday (17).. He was admitted to a private hospital and died without treatment. Many of the filmmakers are condoled by the demise of Sakuntala.
+
+◼️
 
 [Data](articles/60da1e1e.json)
+
+[Extended Data](ext_articles/60da1e1e.ext.json)
 
 ---
 
@@ -146,25 +192,33 @@ The Opposition Leader assured that they would investigate into this repeating is
 
 ---
 
-### நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற வாகன விபத்தில் மூவர் பலி!
+### Three killed in vehicle accident in different parts of the country
 
 *2024-09-18 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194000) · `ta`
 
-நாட்டின்  வெவ்வேறு பகுதிகளில் நேற்று செவ்வாய்க்கிழமை (17) இடம்பெற்ற வாகன விபத்துக்களில் மூவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Vehicle accidents claim three lives across Sri Lanka on Tuesday. Incidents reported in Embilipitiya, Mirigama, and Rambukkanai regions.
 
-எம்பிலிப்பிட்டிய - நோனாகம ,மீரிகம - பெல்மட மற்றும் ரம்புக்கனை - திஸ்மல்பொல ஆகிய பிரதேசங்களில் இந்த விபத்துக்கள் இடம்பெற்றுள்ளது.
+🟩
 
-எம்பிலிப்பிட்டிய  பொலிஸ் பிரிவிற்குட்பட்ட நோனாகம பகுதியில் நோனாகமவிலிருந்து எம்பிலிப்பிட்டிய நோக்கிப் பயணித்த வேன் ஒன்று பாதையை கடக்க முற்பட்ட பெண் ஒருவர் மீது மோதி விபத்துக்குள்ளாகியுள்ளது.
+Three people have died in vehicle accidents that occurred on Tuesday (17) in different parts of the country, police said.
 
-விபத்தில் வேனின் சாரதியும் பெண்ணும் காயமடைந்துள்ள நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சிகிச்சை பலனின்றி பெண் உயிரிழந்துள்ளார்.
+The accidents took place in the areas of Embilipitiya - Noonama, Mirigama - Pelmada and Rambukkanai - Tissmalola.
 
-ரம்புக்கனை பொலிஸ் பிரிவிற்குட்பட்ட திஸ்மல்பொல வீதியில் லொறியொன்று எதிர்த்திசையில் பயணித்த மோட்டார் சைக்கிளிலுடன் மோதி விபத்துக்குள்ளானதில் மோட்டர் சைக்கிள் செலுத்தனர் ஒருவர் உயிரிழந்துள்ளார்.
+A woman who was traveling from Noonama to Embilipitiya in Nonagama area, which belongs to the Embilipitiya police division, has crashed into a woman who tried to cross the road.
 
-இதேவேளை,மீரிகம பொலிஸ் பிரிவில் மீரிகம - பெல்மட வீதியில் ஹோப்பிட்டிகமயிலிருந்து பெல்மட நோக்கிப் பயணித்த மோட்டார் சைக்கிள் ஒன்று செலுத்துனரின் கட்டுப்பாட்டை இழந்து வீதியிலிருந்த தூணில் மோதி விபத்துக்குள்ளாகியுள்ளது.
+Woman driver and woman died after being admitted to the hospital after the driver of the van and the woman were injured in the accident.
 
-...
+A motorcycle driver was killed when a lorry collided with a motorcycle traveling in Tissmalola Road, which belongs to the Rambukanai police division.
+
+Meanwhile, a motorcycle traveling from Hopitigamayam to Pelmada on the Mirigama Police Division in the Mirigama Police Division has lost control of the driver and crashed into a pillar.
+
+The driver of the motorcycle who was injured in the accident has died after being admitted to the hospital.
+
+◼️
 
 [Data](articles/0a09f331.json)
+
+[Extended Data](ext_articles/0a09f331.ext.json)
 
 ---
 
@@ -2124,6 +2178,8 @@ Mr. Silva, a recently retired public official wakes up as usual at the dawn of s
 
 [Data](articles/bb382b75.json)
 
+[Extended Data](ext_articles/bb382b75.ext.json)
+
 ---
 
 ### SJB reaffirms commitment to Easter Attack justice after doubts raised
@@ -2295,41 +2351,5 @@ Wickramaratne, on the need for more professionals coming forward to take the tas
 [Data](articles/2d3faf71.json)
 
 [Extended Data](ext_articles/2d3faf71.ext.json)
-
----
-
-### $ 100 m from ADB to boost sustainability, climate resilience of Sri Lanka’s water sector
-
-*2024-09-18 03:27:52* · [`dailyftlk`](https://www.ft.lk/business/100-m-from-ADB-to-boost-sustainability-climate-resilience-of-Sri-Lanka-s-water-sector/34-766833) · `en`
-
-The Asian Development Bank (ADB) has approved a $ 100 million policy-based loan to support Sri Lanka’s water supply and sanitation sector reforms to enhance the country’s resilience to climate change impacts and promote long-term sustainability.
-
-The Water Supply and Sanitation Reform Program, composed of two subprograms of $ 100 million each, will contribute to a more resilient and sustainable delivery of water supply and sanitation services. Subprogram 1 will establish policies and strategies nationally and for the National Water Supply and Drainage Board (NWSDB) while the subprogram 2 will support the implementation of reform actions and guidelines.
-
-...
-
-[Data](articles/e3552505.json)
-
-[Extended Data](ext_articles/e3552505.ext.json)
-
----
-
-### LTL Holdings puts off IPO opening
-
-*2024-09-18 03:25:49* · [`dailyftlk`](https://www.ft.lk/business/LTL-Holdings-puts-off-IPO-opening/34-766832) · `en`
-
-LTL Holdings Ltd., has announced the postponement of the opening of its Rs. 20 billion worth Initial Public Offering (IPO).
-
-The issue, the biggest in the Colombo stock market’s history, was scheduled to open on 13 September.
-
-The postponement follows the Colombo Stock Exchange requiring LTL Holdings to provide further information in relation to Rividhanavi Ltd., (the special purpose company that is incorporated to undertake the 100MW solar power project in Siyambalanduwa, and for which part of the IPO proceeds were to be invested).
-
-LTL said it will provide the said additional information required by the CSE as soon as possible and in consultation with the CSE provide further information pertaining to the opening date of the subscription list in due course.
-
-◼️
-
-[Data](articles/8f471d89.json)
-
-[Extended Data](ext_articles/8f471d89.ext.json)
 
 ---

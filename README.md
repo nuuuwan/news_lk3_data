@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 03:07:47**
+As of **2024-09-19 03:22:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,636 (100.0%) of 44,638 articles have been extended.
+44,638 (100.0%) of 44,638 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -294,15 +294,21 @@ This article attempts to expose the more insidious and hidden opportunities give
 
 ---
 
-### தங்காலையில் துப்பாக்கிச் சூட்டுக் காயங்களுடன் சடலம் மீட்பு
+### Correct body recovery with shooting injuries in Tangalle
 
 *2024-09-19 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194060) · `ta`
 
-தங்காலை, நலகம பகுதியில் சந்தேகத்திற்கிடமான துப்பாக்கிச் சூட்டுக் காயங்களுடன் உயிரிழந்த நபரொருவரின் சடலம் கண்டெடுக்கப்பட்டுள்ளது.
+Body recovered from shooting incident in Tangalle's Nalagama area. Suspicious circumstances surrounding death.
+
+🟩
+
+The body of a person who died with suspicious shooting injuries in the Nalagama area in Tangalle has been found.
 
 ◼️
 
 [Data](articles/965dce4a.json)
+
+[Extended Data](ext_articles/965dce4a.ext.json)
 
 ---
 
@@ -570,21 +576,27 @@ Special committees have been appointed to investigate the non -needed campaigns 
 
 ---
 
-### සජිත් ප්‍රේමදාස : 'ජනතා මුදලින් මම වතුර උගුරක්වත් බොන්නේ නෑ'
+### Sajith Premadasa: 'I don't drink water sore' with money 'money'
 
 *2024-09-18 21:03:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gl72n4333o) · `si`
 
-සජිත් ප්‍රේමදාස : 'ජනතා මුදලින් මම වතුර උගුරක්වත් බොන්නේ නෑ'
+Sajith Premadasa claims appointment as first elected President from People's Movement. Promises to prosecute thieves, recover stolen resources, and use funds for national development. Rally held at Colombo 18 Tower Theater.
 
-ජනතා වරමෙන් තෝරා ගන්නා පළමු ස්වේඡා ජනාධිපති බවට තමන් පත්වෙන අතර වැඩි ඡන්ද ලක්ෂ 20කින් ජය ගන්නා බව සමගි ජන සන්ධානයේ ජනාධිපතිධුර අපේක්ෂක සජිත් ප්‍රේමදාස පවසයි.
+🟩
 
-'' මේ රට විනාශ කරපු හොරු ටික නීතිය ඉදිරියට ගෙනිහිල්ලා, මේ රටේ වන්දි ගෙවන තත්ත්වයකට ගෙන එනවා. ඒ විතරක් නෙමෙයි, රටට අහිමි කරපු සම්පත්, මුදල් රටේ දියුණුව උදෙසා ලබා ගන්නවා.'' යනුවෙන් ද ඔහු සඳහන් කළේය.
+Sajith Premadasa: 'I don't drink water sore' with money 'money'
 
-සජිත් ප්‍රේමදාස සහභාගී වූ අවසන් ජන රැළිය සැප්තැම්බර් 18 කොළඹ, මරදාන ටවර් රඟහල අසල දී පැවැත්වුණේය.
+Sajith Premadasa says he is appointed to be the first volugent President to be selected from the People's Meon.
+
+'' The thieves destroyed this country will be brought before the law and bring to compensation in this country. Moreover, the resources lost to the country are acquired for the advancement of the money. "He added.
+
+The final rally participating in Sajith Premadasa was held at the Tower Theater of Colombo 18, Colombo.
 
 ◼️
 
 [Data](articles/3036de90.json)
+
+[Extended Data](ext_articles/3036de90.ext.json)
 
 ---
 

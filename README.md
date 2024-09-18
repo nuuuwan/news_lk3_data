@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 08:57:17**
+As of **2024-09-18 09:09:46**
 
 ## Newspaper Stats
 
-*Scraped **44,466** Articles*
+*Scraped **44,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 443
 islandlk | 2,621
 economynextcom | 2,688
 dailyftlk | 2,961
-adalk | 4,098
+adalk | 4,099
 dailymirrorlk | 4,733
 adaderanalk | 5,232
-tamilmirrorlk | 5,808
+tamilmirrorlk | 5,809
 virakesarilk | 7,101
 adaderanasinhalalk | 7,611
 
@@ -26,29 +26,57 @@ adaderanasinhalalk | 7,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,464 (100.0%) of 44,466 articles have been extended.
+44,468 (100.0%) of 44,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
 
-### අවසන් ප්‍රචාරක රැලි හේතුවෙන් කොළඹට විශේෂ රථවාහන සැලැස්මක්
+### Impact of train services
+
+*2024-09-18 08:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-பாதிப்பு/175-343946) · `ta`
+
+Train services impacted: Derailment at Kirulappanai delays Kelaniwa route travel.
+
+🟩
+
+The Railway Department has said that the train services going to the Kelaniwa route have been affected due to the derailment of the railway line in the Kirulappanai area.
+
+Therefore, the Railway Department has stated that the passengers traveling to the Kelaniwa route have delayed the train services.. Remble
+
+◼️
+
+[Data](articles/160add5c.json)
+
+[Extended Data](ext_articles/160add5c.ext.json)
+
+---
+
+### Special traffic plan in Colombo due to final propaganda rallies
 
 *2024-09-18 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201137) · `si`
 
-මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වී සිටින ප්‍රධාන අපේක්ෂකයින්ගේ අවසන් රැලි අද (18) පස්වරුවේ කොළඹ සහ තදාසන්න ප්‍රදේශ කිහිපයකදී පැවැත්වීමට නියමිතය.
+Colombo special traffic plan for final presidential election rallies. Candidates' events scheduled across city. Police implementing special measures for security.
 
-ස්වාධීන අපේක්ෂක රනිල් වික්‍රමසිංහ, සමගි ජනබලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස, සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර, ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ යන මහත්වරුන්ගේ ප්‍රධාන රැලි මෙලෙස පැවැත්වෙනු ඇත.
+🟩
 
-ඒ අනුව ස්වාධීන අපේක්ෂක රනිල් වික්‍රමසිංහ මහතාගේ අවසන් රැලිය කොස්ගස් හංදිය ප්‍රදේශයේ දී පැවැත්වීමට සැලසුම් කර තිබේ.
+The final waves of the main candidates who have been contesting for the presidential election this year will be held in several parts of Colombo and suburbs.
 
-සමගි ජන බලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස මහතාගේ අවසන් රැලිය ද ටවර් හෝල් ප්‍රදේශය කේන්ද්‍ර කරගනිමින් පැවැත්වීමට නියමිතය.
+Independent candidate Ranil Wickremesinghe, Sajith Premadasa, the presidential post candidate of the Sri Lanka Pranayaka, and the main waves of the presidency of the National Jathika Posse.
 
-සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක, ව්‍යවසායක දිලිත් ජයවීර මහතාගේ අවසන් රැලිය කොට්ටාව නගරයේදීත්, ජාතික ජනබලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ අවසන් රැලිය නුගේගොඩ ආනන්ද සමරකෝන් එළිමහන් රංග පීඨයේදී පැවැත්වැත්වෙනු ඇත.
+Accordingly, the final rally of independent candidate Ranil Wickremesinghe has been planned to be held at the Kosgas Junction area.
+
+The final rally of the candidate Sajith Premadasa of the Samagiens is will also be centered on the Tower Hall area.
+
+The final rally of the presidential candidate Dilita Jayaweera, the presidency of the National Husbandry, Entrepreneurship Dilith Jayaweera will be held at Ananda Samarakoon's outdoor theater.
+
+The final rallies of the presidency of the Sri Lanka General Front Namal Rajapaksa will be held in the Piliyandala area.
 
 ...
 
 [Data](articles/e1d30add.json)
+
+[Extended Data](ext_articles/e1d30add.ext.json)
 
 ---
 
@@ -838,17 +866,27 @@ Some are afraid that if the current economic program is excluded, he will face r
 
 ---
 
-### சார்ள்ஸ் எம்.பியை சந்தித்தார் ரணில்
+### Ranil met Charles MP
 
 *2024-09-18 01:45:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சார்ள்ஸ்-எம்-பியை-சந்தித்தார்-ரணில்/175-343939) · `ta`
 
-மன்னாரில் நேற்று நடைபெற்ற ‘ரணிலால் இயலும்’ வெற்றிப் பேரணியில் இணைந்து கொண்ட ஜனாதிபதி ரணில் விக்கிரமசிங்க, இலங்கைத் தமிழரசுக் கட்சியின் மன்னார் மாவட்டத் தலைவரும் பாராளுமன்ற உறுப்பினருமான சார்ள்ஸ் நிர்மலநாதனை மன்னார் - தாழ்வுபாடுவில் உள்ள அவரின் இல்லத்தில் சந்தித்தார்.
+Here's a 200-character summary:
 
-இதன்போது ஜனாதிபதியை சார்ள்ஸ் நிர்மலநாதன் வரவேற்றார். இருவரும் சமகால அரசியல் விவகாரங்கள் குறித்து சிறு உரையாடலில் ஈடுபட்டனர். (a)
+
+
+President Ranil Wickremesinghe met Charles Nirmalanathan, TNA Mannar district leader, at his residence. They discussed current political issues during a brief conversation.
+
+🟩
+
+President Ranil Wickremesinghe, who joined the Ranil's victory rally in Mannar yesterday, met with the Sri Lanka Tamil National Alliance (TNA) Mannar district leader and Member of Parliament, Charles Nirmalanathan at his residence in Mannar - lowland.
+
+Charles Nirmalanathan welcomed the President. Both were involved in a short conversation on contemporary political affairs. (A)
 
 ◼️
 
 [Data](articles/1ba088cb.json)
+
+[Extended Data](ext_articles/1ba088cb.ext.json)
 
 ---
 
@@ -2084,6 +2122,30 @@ It is noteworthy that she is a resident of Prematalawa, Kandy and is showing her
 
 ---
 
+### Does the batsman work as a batsman?- Answers from Sanath
+
+*2024-09-17 17:28:38* · [`adalk`](https://www.ada.lk/sports/කමිඳු-අංක-03-පිතිකරු-ලෙස-කටයුතු-කරයිද----සනත්ගෙන්-පිළිතුරු/9-411985) · `si`
+
+Sanath Jayasuriya explains batting roles: Kumindu Mendis won't bat at No. 3; he'll play as a middle-order batsman instead. Changes made for upcoming Test against New Zealand.
+
+🟩
+
+The first Test against New Zealand team begins tomorrow (18).
+
+Acting Chief Coach Sanath Jayasuriya said that several changes were made in this match.
+
+Meanwhile, he said that the meeting was not playing at No. 3 on the tournament tomorrow (17), he said.
+
+"Kumindu Mendis number does not play 3. Because it can't do that. He is playing as a middle text batsman. So play as a madapala batsman. "
+
+◼️
+
+[Data](articles/de3e5550.json)
+
+[Extended Data](ext_articles/de3e5550.ext.json)
+
+---
+
 ### Prohibit election campaigns
 
 *2024-09-17 17:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-பிரச்சாரங்களுக்கு-தடை/175-343910) · `ta`
@@ -2247,57 +2309,5 @@ The deceased police officer in the Nugegoda Police said that the deceased has be
 [Data](articles/647234f1.json)
 
 [Extended Data](ext_articles/647234f1.ext.json)
-
----
-
-### Air transport facilities were paid on the basis of charge
-
-*2024-09-17 16:31:21* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-ප්‍රවාහන-පහසුකම්-දුන්නේ-මුදල්-අයකිරිමේ-පදනම-මතයි/11-411982) · `si`
-
-Sri Lanka Air Force (SLAF) handles presidential transport according to standard procedures. The Air Force emphasizes accuracy in reporting, especially during elections.
-
-🟩
-
-The Air Force emphasizes that presidential candidates have in accordance with the standard operational procedure, on the basis of the presidential transport procedures.
-
-The SLAF has inspected the news that has been reported from the Sri Lanka Air Force to promote election campaign to propagate election campaign to the Sri Lanka Air Force presidential election.
-
-The Air Force has further emphasizes that the SLAF Media Section contains the most accurate news media.
-
-◼️
-
-[Data](articles/26e7ae2c.json)
-
-[Extended Data](ext_articles/26e7ae2c.ext.json)
-
----
-
-### “Peace and non -violence are not going to lead to right” - the voice system of the voiceless
-
-*2024-09-17 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/193951) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamils call for unity uprising against Sri Lanka's political power struggle. Citing decades of disappointment and empty promises, they reject peace and non-violence as ineffective paths to rights. Advocating for autonomy and self-defense, Tamils urge collective action against oppression.
-
-🟩
-
-The voice of the voices said that the Tamils ​​should raise the uprising of the unity in the unity of "we for us".
-
-Yall. They said this during a media briefing held at the Media Center on Tuesday (17).
-
-The eldest race, which has been fighting for its existence and rights for decades, has been pressed by the disappointment that has chosen the neighbors for the throne of Sri Lanka for so many years.
-
-The country is preparing for the political power competition on the island of Sri Lanka, where people live in a multi -cultural cultural culture.. At this point, we, the 'voice of the voiceless', are obliged to make this statement publicly concerned with the need for time.
-
-As a native history, the Tamils ​​have been engaged in peace talks, relying on the single promise of the bureaucracy, which is "living in unity".
-
-...
-
-[Data](articles/c2b7002f.json)
-
-[Extended Data](ext_articles/c2b7002f.ext.json)
 
 ---

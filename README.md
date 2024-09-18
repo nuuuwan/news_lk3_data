@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 21:57:47**
+As of **2024-09-18 22:12:09**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 7,637
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,598 (100.0%) of 44,600 articles have been extended.
+44,600 (100.0%) of 44,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
 
-### ජයග්‍රහණය සාමකාමීව සමරන්නැයි සජිත් පාක්ෂිකයන්ට උපදෙස් දෙයි
+### Sajith advises people to celebrate the victory peacefully
 
 *2024-09-18 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201166) · `si`
 
-තමා බලයට පැමිණි පසු මත්ද්‍රව්‍ය සහ පාතාලය මාස 6ක් ඇතුළත සම්පූර්ණයෙන්ම අවසන් කරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa urges peaceful celebration after election win. Promises to combat drugs and crime within 6 months. Emphasizes unity and non-violence.
 
-"මම සියලු දෙනාගෙන්ම ඉල්ලීමක් කරනවා අපේ ජයග්‍රහණය සාමකාමීව භුක්ති විඳින්න. හිංසා කරන්න යන්න එපා, ප්‍රචණ්ඩත්වය එපා.. ඒවා සමගි ජන බලවේගයේ ප්‍රතිපත්ති නෙමෙයි. ජයග්‍රහණය සාමකාමීව භුක්ති විඳලා.. ඊළඟ මොහොතේ සිට රට ගොඩනගන වැඩපිළිවෙළට සූදානම් වෙන්න."
+🟩
 
-"බලයට ඇවිත් ජනතාවගේ ආගම් ඇදහීමේ අයිතිය සුරක්ෂා කරනවා. කුඩු, මත්ද්‍රව්‍ය, පාතාලය මාස 06කින් සම්පූර්ණයෙන්ම අවසන් කරනවා."
+The presidential candidate Sajith Premadasa, Sajith Premadasa, Sagith Premadasa, says he will end the drug and underworld within six months.
+
+"I am requested by all, enjoy our victory peacefully. Don't go to hurt, don't violence.. These are not the principles of unity power. Enjoyed the victory peacefully.. Prepare the country from the next moment. "
+
+"Comes to power and protecting the right to practice the religions of the people. The powder, drugs, underworld will be completed by six months. "
 
 ◼️
 
 [Data](articles/46d9c161.json)
 
+[Extended Data](ext_articles/46d9c161.ext.json)
+
 ---
 
-### 21ஆம் திகதிவரை அமைதியான காலப்பகுதியாக அறிவிப்பு
+### Announced as a quiet period until the 21st
 
 *2024-09-18 21:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21ஆம்-திகதிவரை-அமைதியான-காலப்பகுதியாக-அறிவிப்பு/175-343976) · `ta`
 
-இந்த நிலையில், செப்டெம்பர் 21ஆம் திகதிவரை அமைதியான காலப்பகுதியாக அறிவிக்கப்பட்டுள்ளதாக தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர். எம்.ஏ.எல். ரத்நாயக்க தெரிவித்தார்.
+Quiet period announced until 21st: Election Commission Chairman R.M.A.L. Ratnayake. Special committees formed to investigate unnecessary media and social media campaigns during this time.
 
-இக்காலப்பகுதியில் ஊடகங்களிலும் சமூக வலைத்தளங்களிலும் முன்னெடுக்கப்படும் அவசியமற்ற பிரசாரங்கள் தொடர்பில் விசாரணைகளை முன்னெடுக்க விசேட குழுக்கள் நியமிக்கப்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார். R
+🟩
+
+In this case, the Chairman of the Election Commission R.. MALL. Ratnayake said.
+
+Special committees have been appointed to investigate the non -needed campaigns on the media and social media during this period.. Remble
 
 ◼️
 
 [Data](articles/04a0dcf6.json)
+
+[Extended Data](ext_articles/04a0dcf6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 10:11:01**
+As of **2024-09-18 10:22:48**
 
 ## Newspaper Stats
 
-*Scraped **44,483** Articles*
+*Scraped **44,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,235
 tamilmirrorlk | 5,809
 virakesarilk | 7,108
-adaderanasinhalalk | 7,613
+adaderanasinhalalk | 7,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,480 (100.0%) of 44,483 articles have been extended.
+44,483 (100.0%) of 44,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-09-18 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201141) · `si`
+
+ශ්‍රී ලංකාව සහ නවසීලන්තය අතර තරග දෙකකින් සමන්විත ටෙස්ට් ක්‍රිකට් තරගාවලියේ පළමු තරගය තව ස්වල්ප මොහොතකින් ගාල්ල ක්‍රීඩාංගනයේදී ආරම්භ වේ.
+
+එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+මෙම තරගය  නොමිලේ නැරඹීමට ප්‍රේක්ෂකයින්ට අවස්ථාව සලසා දී ඇති අතර ජනාධිපතිවරණය හේතුවෙන් සැප්තැම්බර් 21වැනිදා තරගයේ විවේක දිනයක් ලෙස නම්කර තිබේ.
+
+අයි.සී.සී ලෝක ටෙස්ට් ශූරතා තරගාවලිය යටතේ පැවැත්වෙන, තරග දෙකකින් සමන්විත ශ්‍රී ලංකා - නවසීලන්ත ටෙස්ට් තරගාවලිය වෙනුවෙන් නවසීලන්ත කණ්ඩායම ඊයේ ගාල්ලේදී  පුහුණුවීම් ආරම්භ කළ අතර ඔවුන්ගේ දඟ පන්දු පුහුණුකරු ලෙස  කටයුතු කරන රංගන හේරත්ද  ඊට එක්ව සිටියේය.
+
+දෙරට අතර මේ දක්වා ටෙස්ට් තරග 38ක් පවත්වා ඇති අතර ඉන් තරග 18ක් නවසීලන්තය ජය ගනිද්දී ශ්‍රී ලංකාව ජයගෙන ඇත්තේ තරග 9ක් පමණි.
+
+ඒ අතරින් ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදි පැවති තරග 4ම ජය ගැනීමට ශ්‍රී ලංකාව සමත්ව තිබේ.
+
+...
+
+[Data](articles/6911a76d.json)
+
+---
 
 ### Four police officers arrested over extortion of Rs. 1.4 million from house
 
@@ -44,21 +66,47 @@ Accordingly, two Constables and a Sergeant attached to the Bloemendhal Police St
 
 [Data](articles/35888634.json)
 
+[Extended Data](ext_articles/35888634.ext.json)
+
 ---
 
-### දැන් රනිල්ගේ ජොබ් එක ඉවරයි
+### Now Ranil's job is over
 
 *2024-09-18 09:37:15* · [`adalk`](https://www.ada.lk/breaking_news/දැන්-රනිල්ගේ-ජොබ්-එක-ඉවරයි/11-411987) · `si`
 
-දැන් රනිල්ගේ ජොබ් එක ඉවරයි. රනිල් වැටිච්ච රටක් නැගිට්ටවලා පෙන්නුවා, නැගිටින්න පුලුවන් කියලා රනිල් පෙන්නුවේ ඔයගොල්ලන්ගේ හයියෙන් නෙමෙයි, පාර්ලිමේන්තුවේ අපේ හයියෙන්.දැන් එහෙම  නම් ජනතාවට තියෙනවා යුතුකමක්, වගකීමක්, ඉතුරු අවුරුදු 05 දී මේ නැගිට්ටා වගේම, තවත් නැගිට්ටවා ගන්නවාද කියලා තීන්දු කරන්න ඕන ඔබතුමන්ලා. ඒ නිසා හරියට බුද්ධියෙන් කල්පනා කරලා මේ 21 වැනිදා තීන්දුව ගන්න ඕනකම තියෙනවා යැයි ශ්‍රී ලංකා නිදහස් පක්ෂ මහ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා පැවසීය.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ, අනුරාධපුර ගල්නෑව ප්‍රදේශයේ පැවති ජනහමුවකදීය,එහිදී වැඩිදුරටත් අදහස් දැක්වූ ඒ මහතා,
 
-සමහරු රට අනුරට කියද්දී රනිල් කියන්නේ පුලුවන් ශ්‍රී ලංකා කියලා, අපි හැමෝම එකතු වුණොත්, අපි හැමෝම අත්වැල් බැඳගත්තොත් මේක අපිට කරන්න පුලුවන් කියලා.බැරි දෙයක් නෙමෙයි.අවුරුදු 02 ක් තුළ වැටිලා තිබුණු රට අද ශක්තිමත් වේගෙන යනවා.එහෙම නම් දැන් රනිල් පාස්, ඒ දවස් වල ෆේල් හැබැයි දැන් පාස් කියලා ඔප්පු කරලා තියෙනවා.ඒ නිසා තමයි ආයේ පාරක් අපි රනිල්ව දිනවමු, රනිල්ට බලය දෙමු, රනිල්ගේ වැඩපිළිවෙල රටට හොඳයි කියලා අපි කියන්නේ.
+
+Ranil Wickremesinghe's term ends. SLFP leader Duminda Dissanayake addresses concerns about Ranil's leadership. Critics argue Ranil prioritized economic growth over political stability. Supporters defend his achievements. The future of Sri Lanka's presidency remains uncertain as elections approach.
+
+🟩
+
+Now Ranil's job is over. Ranil wigged a negotiated country, not the daggering of the people, and the people should decide if they were up and upset, and the rest of the year. So SLFP General Secretary MP Duminda Dissanayake said that the 21th would have to bear the verdict on the 21st.
+
+He was speaking at a public meeting held in the Galnewa area in Anuradhapura.
+
+Some people say that Ranil says that Ranil says that Ranil says Sri Lanka, if we all join us, Ranil Pass is going to be strong.I have been proven to be pass now.
 
 ...
 
 [Data](articles/a71923da.json)
+
+[Extended Data](ext_articles/a71923da.ext.json)
+
+---
+
+### කප්පම් ගත් පොලිස් නිලධාරීන් 4ක් අත්අඩංගුවට
+
+*2024-09-18 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201140) · `si`
+
+කොළඹ 15 ප්‍රදේශයේ නිවසකට තර්ජනය කර රුපියල් ලක්ෂ 14ක මුදලක් කප්පම් ගැනීම සම්බන්ධයෙන් පොලිස් නිලධාරීන් 04ක් මෝදර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එලෙස අත්අඩංගුවට ගෙන ඇත්තේ, බ්ලූමැන්ඩල් පොලීසියට අනුයුක්තව සේවය කරන කොස්තාපල්වරුන් දෙදෙනකු, සැරයන්වරයකු සහ උතුරු කොළඹ බුද්ධි කොට්ඨාසයේ නිලධාරියෙකි.
+
+◼️
+
+[Data](articles/74830b34.json)
 
 ---
 
@@ -646,21 +694,27 @@ According to the explosions, a senior member of the Hezbollah, including a senio
 
 ---
 
-### ජනාධිපතිවරණ ප්‍රචාරක  රැළිවල   වාර්තා පළ කිරීමටත් සීමා පැනවේ
+### Records are also being published in presidential election flocks
 
 *2024-09-18 06:31:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-ප්‍රචාරක--රැළිවල---වාර්තා-පළ-කිරීමටත්-සීමා-පැනවේ/11-411986) · `si`
 
-ජනාධිපතිවරණය සඳහාවූ සියලුම ප්‍රචාරක රැස්වීම් අද (18) රාත්‍රි 12.00 ට අවසන් කළයුතු අතර එම රැස්වීම් පිළිබඳව වාර්තා   සමාජ මාධ්‍ය ඇතුළු   විද්‍යුත් හා මුද්‍රිත මාධ්‍ය මගින් විකාශය කිරීම හෙට (19) දහවල් 12.00 න් අවසන් කළ යුතු බව   මැතිවරණ කොමිෂන් සභාව කියයි.
+Presidential election propaganda meetings deadline: 12 pm today. Broadcasting on all media platforms tomorrow. Elections Commission requests post-meeting reports from all sources.
 
-ජනාධිපතිවරණය සම්බන්ධයෙන්   මැතිවරණ කොමිෂන් සභාව මගින් නිකුත් කරන ලද මාධ්‍ය උපමානයන්ට අනුව  අදින්  අවසන් කෙරෙන ප්‍රචාරක රැස්වීම්වලට අදාල දර්ශන ,ඡායාරූප සහ  විස්තර   අද දින රාත්‍රි   සහ   හෙට දහවල් 12.00  ප්‍රවෘත්ති විකාශවල  මෙන්ම  හෙට දින උදෑසන ප්‍රවෘත්ති පත්‍රවල පමණක් විකාශය කිරීම හා පළකිරීම කළ හැකි  බවත් මැතිවරණ කොමිෂන් සභාව  නිවේදනයක් නිකුත් කරමින් කියයි.
+🟩
 
-ඒ අනුව හෙට දහවල් 12.00 න් පසුව ජනාධිපතිවරණ ප්‍රචාරක රැස්වීම්වල වාර්තා මෙන්ම ප්‍රචාරක දැන්වීම් පළ නොකරන ලෙසද  මැතිවරණ කොමිෂන් සභාව ඉල්ලා සිටී.
+All propaganda meetings for the presidential election should be completed at 12 pm today (18) and broadcasting the meetings on the meetings, including social and print media will be completed tomorrow.
 
-මෙම නියමයන් රූපවාහිනී ,  පුවත්පත් ආයතනවල  හා සෙසු සියලුම සමාජ මාධ්‍ය සඳහාද අදාල බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+Elections Commission announced that these videos and details of the propaganda meetings issued by the Elections Commission on the presidential election.Issuing
+
+Accordingly, the Elections Commission requests reports of the presidential propaganda meetings after 12 noon.
+
+The Elections Commission states that these terms are also relevant for television, newspapers and all other social media.
 
 ◼️
 
 [Data](articles/063dd848.json)
+
+[Extended Data](ext_articles/063dd848.ext.json)
 
 ---
 
@@ -2233,53 +2287,5 @@ President Ranil Wickremesinghe has unveiled the plaque to the modern vehicle ass
 [Data](articles/de30e802.json)
 
 [Extended Data](ext_articles/de30e802.ext.json)
-
----
-
-### Will only be offer to those who are needed
-
-*2024-09-17 18:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவைப்படுபவர்களுக்கு-மட்டும்-சலுகை-வழங்கப்படும்/175-343918) · `ta`
-
-Sajith Premadasa promises fuel benefits to farmers, fishermen, drivers, and essential workers. Support will go only to those who need it, rejecting offers to the wealthy. Emphasizes importance for economy and food security.
-
-🟩
-
-Speaking at the rally, United People's Power Presidential candidate Sajith Premadasa promised to provide fuel privileges to farmers, fishermen, three -wheeler drivers and essential workers such as school van/bus operators.
-
-He emphasized that this support will be given only to those who need this support, rejecting offers to the rich citizens.
-
-Premadasa explained the importance of these groups to maintain the country's economy and ensure food security.
-
-◼️
-
-[Data](articles/f7a0411b.json)
-
-[Extended Data](ext_articles/f7a0411b.ext.json)
-
----
-
-### Priority to Buddhism - 13 amendment is not in effect
-
-*2024-09-17 18:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்தத்திற்கு-முன்னுரிமை-13-திருத்தம்-அமுலாகாது/175-343917) · `ta`
-
-National People's Power promises to prioritize Buddhism in Sri Lanka's constitution. They vow to maintain Article 9 giving Buddhism top status. The 13th Amendment will remain unchanged, with no police or land powers granted to provincial councils. This stance aims to preserve national unity, sovereignty, and security.
-
-🟩
-
-The National People's Power has promised that the government of the future national power will not change the 9th article of the Constitution that the Republic of Sri Lanka will give Buddhism a first place for Buddhism.
-
-NPP MP Vijitha Herath made this promise during a meeting organized by the All Ceylon Buddhist Congress (ACBC) to discuss the pledge of Buddhism, Buddhism, Sinhala culture and the sovereignty of the country.
-
-He said that a NPP government would maintain and uphold the 9th article of the Constitution while a NPP government would maintain the country's unity, sovereignty and national security, and promised that the JVP had played a major role for it.
-
-He said that the 13th Amendment will be implemented only in the current form and the NPP will not grant police and land powers to the provincial councils.
-
-"We have the idea that the 13th Amendment is not a national issue or a solution to provincial development," he added.
-
-◼️
-
-[Data](articles/745559f8.json)
-
-[Extended Data](ext_articles/745559f8.ext.json)
 
 ---

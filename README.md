@@ -1,36 +1,84 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 22:12:09**
+As of **2024-09-18 22:23:46**
 
 ## Newspaper Stats
 
-*Scraped **44,600** Articles*
+*Scraped **44,605** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 430
+bbccomsinhala | 431
 colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,120
+adalk | 4,121
 dailymirrorlk | 4,733
 adaderanalk | 5,248
 tamilmirrorlk | 5,829
 virakesarilk | 7,137
-adaderanasinhalalk | 7,637
+adaderanasinhalalk | 7,640
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,600 (100.0%) of 44,600 articles have been extended.
+44,600 (100.0%) of 44,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### හැමෝගෙම අතින් අඩුපාඩු වෙනවා - නාමල්
+
+*2024-09-18 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201169) · `si`
+
+රාජපක්ෂවරුන් මහජන මුදල් සොරකම් කර නොමැති බව ඕනෑම අධිකරණයක් ඉදිරියේ ඔප්පු කිරීමට තමන් සූදානම් බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+
+ඔහු මෙම අදහස් පළ කළේ ගාල්ල ප්‍රදේශයේ පැවති ජන රැලියක් අමතමිනි.
+
+"යහපාලන ආණ්ඩුව සිතුවා මත්තල හැදුවේ වී ගබඩා කරන්න කියලා. සූරියවැව ක්‍රීඩාංගණය වහලා දැම්මා. අපිව හිරේ දැම්මට අපි සොරකම් කරලා නැහැ. පුළුවන්නම් අපිට නඩු පවරන්න. නිර්දෝෂි භාවය ඔප්පු කරන්න සූදානම්. හැමෝගෙම අතින් අඩුපාඩු වෙනවා. අපි අඩුපාඩු හදාගන්නම්."
+
+◼️
+
+[Data](articles/b0799f09.json)
+
+---
+
+### ඡන්දෙ ඉවරවෙලා සති 2කින් සුබ ආරංචියක් - රනිල්
+
+*2024-09-18 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201168) · `si`
+
+සති දෙකක් තුළ රට නිල වශයෙන් බංකොලොත්භාවයෙන් මිදෙන බව ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා අනාවරණ කරයි.
+
+අද (18) ගාල්ලේ පැවති ''රනිල්ට පුළුවන්'' ජන රැලිය අමතමින් ඔහු මෙම අදහස් පළ කළේය.
+
+"මම IMF සංවිධානයත්...ලෝක බැංකුවත්.. ආසියානු සංවර්ධන බැංකුවත් එක්ක සාකච්ඡා කළා. අපේ වගේ මධ්‍යම ආදායම් රටකට සුදුසු ගිවිසුමකට පැමිණියා. දැන් බංකොලොත්භාවය නැති කරන්න තුන්වැනි කණ්ඩායම සමගත් ගිවිසුමකට එළැඹිය යුතුයි. ඒ තමයි පුද්ගලික බැඳුම්කරුවන්. ඒ ගිවිසුමත් හෙට වෙනකොට අවසන් කරනවා. එහෙමනම් මම මේ ඡන්දෙට එන්නේ මූලික යුතුකම් ඉටු කරලා. මේ රටේ බංකොලොත්භාවය නැති කරන නිල තත්ත්වයට ඇවිත් තියෙන්නේ."
+
+"IMF අධ්‍යක්ෂකවරිය කිව්වා මේවා අපි මාරු කරන්නේ නැහැ කියලා. ඡන්දෙ ඉවරවෙලා සති දෙකකින් ඔවුන් එනවා මේ වැඩකටයුතු ඉවර කරන්න. එතකොට කියන්න යනවා බංකොලොත්භාවය අවසන් කියලා."
+
+◼️
+
+[Data](articles/f52f369e.json)
+
+---
+
+### ලෙබනනයේ තවත් පිපිරීම් මාලාවක්
+
+*2024-09-18 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201167) · `si`
+
+ජාත්‍යන්තර මාධ්‍ය පැවසුවේ "වෝකි ටෝකි" යන්ත්‍ර පිපිරීමෙන් පුද්ගලයන් 09 දෙනෙකු මියගොස් 300කට අධික පිරිසක් තුවාල ලබා ඇති බවය.
+
+මීට දිනකට පෙර ලෙබනනය පුරා පේජර් පුපුරා යෑමෙන් 12 දෙනෙක් මියගොස් තිබූ අතර එහි උණුසුම මැකී යෑමටත් පෙර මෙලෙස වෝකි ටෝකි" යන්ත්‍ර පුපුරා ගොස් තිබේ.
+
+◼️
+
+[Data](articles/8f16797b.json)
+
+---
 
 ### Sajith advises people to celebrate the victory peacefully
 
@@ -287,6 +335,22 @@ So, go and boldly go and vote for the telephone symbol, "said Mano Ganesan, lead
 [Data](articles/1097eb2b.json)
 
 [Extended Data](ext_articles/1097eb2b.ext.json)
+
+---
+
+### අභිමානවත් රටක් ලෙස තුන් සිංහලය ඉදිරියට ගෙනි යනවා
+
+*2024-09-18 19:48:20* · [`adalk`](https://www.ada.lk/breaking_news/අභිමානවත්-රටක්-ලෙස-තුන්-සිංහලය-ඉදිරියට-ගෙනි-යනවා/11-412012) · `si`
+
+නව ආර්ථිකයක් ඇති කරමින් විදේශ විනිමය සිඟා නොකා අභිමානවත් රටක් ලෙස තුන්සිංහලය ඉදිරියට ගෙන යාම වෙනුවෙන් සැප්තැම්බර් 21 වැනිදා ගෑස් සිලින්ඩරයට ඡන්දය ලබාදෙන ලෙස ස්වාධීන ජනාධිපති අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පැවසීය. ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (18දා)  මාතර උයන්වත්ත ක්‍රීඩාංගණය,කළුතර,ගාල්ල,හෝමාගම සහ මැද කොළඹ පැවති “රනිල්ට පුළුවන්” අවසන් ජන රැලි අමතමිනි.
+
+“පුළුවන් ශ්‍රී ලංකා” කියා එදා තමන් ආර්ථික අභියෝගයට මුහුණ දී එය ජයග්‍රහණය කළ බව පැවසු ජනාධිපතිවරයා අද  “පුළුවන් ශ්‍රී ලංකා” කියා කියන්නේ රට දියුණු කිරීමට බව පැවසීය.  ඒ අතර රට ඉදිරියට ගෙන යා හැකි නායකයෙක් තෝරා ගැනීමේ වගකීම ජනතාව සතු බවද අවධාරණය කළේය.
+
+ජන රැලි ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය.“පසුගිය වසරෙ දෙකේදී අප හැම කෙනෙකුටම අලුත් අත්දැකීමක් ලැබුණා. ඔබ විශ්වාසය තැබූ නායකයන් මේ රටේ ප්‍රශ්නයට මුහුණදීමට නොහැකිව වගකීම් ප්‍රතික්ෂේප කර පැන  ගියා.
+
+...
+
+[Data](articles/b6de88c7.json)
 
 ---
 
@@ -1498,6 +1562,26 @@ Parents have been protesting in front of the Examinations Department for the can
 
 ---
 
+### ජනාධිපතිවරණය 2024: ශ්‍රී ලංකාවේ අනාගතය කලාපීය බලවතුන් අතර දෝලනය වෙයි ද?
+
+*2024-09-18 14:38:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5e26q43ewo) · `si`
+
+ජනාධිපතිවරණය 2024: ශ්‍රී ලංකාවේ අනාගතය කලාපීය බලවතුන් අතර දෝලනය වෙයි ද?
+
+මෑත ඉතිහාසය පුරා චීනය, ඉන්දියාව සහ ඇමෙරිකාව යන ලෝකයේ ප්‍රබල රටවල් ශ්‍රී ලංකාව තුළ සිය න්‍යාය පත්‍ර මුදුන්පත් කර ගැනීම වෙනුවෙන් කටයුතු කරන බවට මැතිවරණ වේදිකාවලදී මෙරට ජනතාවට නිරන්තරයෙන් ඇසෙන ජනප්‍රිය කතාවක් වී තිබේ.
+
+බිඳ වැටුණු මෙරට ආර්ථිකය නැවත ගොඩනැගීමට පසුගිය දෙවසර තුළ රජය ගෙන ගිය වැඩපිළිවෙළ හේතුවෙන්, රට ඉදිරියට ගෙන යාමේ ගමනට ඉන්දියාව, ජපානය ඇතුළු සියලු මිත්‍රශීලි රටවල සහය හිමිව තිබෙන බව මීට දින කිහිපයකට පෙර  කන්තලේ ප්‍රදේශයේ පැවති මැතිවරණ ප්‍රචාරක රැස්වීමක් අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ පැවසුවේය.
+
+2019 වසරේ පැවති ශ්‍රී ලංකා ජනාධිපතිවරණයේදී මැතිවරණ වේදිකාව උණුසුම් කළ මාතෘකාවක් බවට පත්වූයේ මිලේනියම් චැලෙන්ජ් කොපරේෂන් හෙවත් MCC ගිවිසුමයි.
+
+2019 වසරේ පැවති ජනාධිපතිවරණයට පෙර MCC ගිවිසුමට අනිවාර්යයෙන්ම අත්සන් තබන බවට සජිත් ප්‍රේමදාස ජනාධිපති අපේකෂකයා ලෙස තරග වැදුණු නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ අවධාරණය කළේය.
+
+...
+
+[Data](articles/e7f822fe.json)
+
+---
+
 ### Namal says that new rules are being transferred to the parties
 
 *2024-09-18 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201151) · `si`
@@ -2331,121 +2415,5 @@ Meanwhile, Udaya Gammanpila said that steps will be taken to defeat the 13th Ame
 [Data](articles/a19501bd.json)
 
 [Extended Data](ext_articles/a19501bd.ext.json)
-
----
-
-### If it is certain that he helped corruption, legal action against Ranil - Sajith
-
-*2024-09-18 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/193989) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-United People's Power Presidential candidate Sajith Premadasa says he will not hesitate to take action against him if President Ranil Wickremesinghe knows that he has helped the scam.
-
-He has promised to take action against the massive frauds of the past, saying that if it is revealed that the current president has helped the crimes of the Sajitprematasa crimes, he will take action against him.
-
-He said that if a person like Ranil Wickremesinghe was found to be helpful, he would take action if it was confirmed.
-
-Sajith Premadasa said his party would implement law on whether the Central Bank would take action on the issue of the VSW issue and the VSW issue.
-
-We have a genuine interest in eradicating corruption, unlike those who say they are taking action against corruption on the election platforms, ”he said.
-
-◼️
-
-[Data](articles/70369f99.json)
-
-[Extended Data](ext_articles/70369f99.ext.json)
-
----
-
-### Namal ready to accounted for every loan
-
-*2024-09-18 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201143) · `si`
-
-Namal claims responsibility for all loans from Rajapaksa era, denies corruption allegations, vows to prove innocence in court.
-
-🟩
-
-Presidential candidates of the CAOs say that he is ready to promote the procurement of the Rajapaksa government.
-
-He was speaking at a public brief in the Kotikawatta, yesterday (17).
-
-"We did not have to develop the roads. We were coming to come to the apartment. Investors did not bring. We had a plan to build this country.. We are responsible for all investments made. All credit has been valued for all the debts. We are responsible for all the loans in the Mahinda Rajapaksa era.
-
-...
-
-[Data](articles/fd4b3d58.json)
-
-[Extended Data](ext_articles/fd4b3d58.ext.json)
-
----
-
-### Intensive land grabbing Tamil and Muslim people in Trincomalee
-
-*2024-09-18 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193984) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-The Oakland Institute, which is based on the United States, and maintaining land rights, said in a new statement in a new statement that the seizure of resources in the eastern district of Sri Lanka, Trincomalee, is speeding up.
-
-The report points out that due to the pain of the Sinhalese people for decades, the migration of the Trincomalee district has changed significantly and that there is immense inequality in the land belongings.
-
-Earlier, Minister Ali Sabri said that 90 percent of the land occupied by the northern lands of the country had been repaid by fair owners.. But the information was wrong that the Sri Lanka Tamil National Party, Jaffna district parliamentarian Sivagnanam Sreedharan denied it.
-
-However, in the context of the Tamil, Muslim and Sinhalese people in the East, the minister did not open the situation in the situation.
-
-Trincomalee is a very important part of Sri Lanka. The report states that the land grabbing is taking place where the natural harbor is proud.
-
-...
-
-[Data](articles/f8ff959a.json)
-
-[Extended Data](ext_articles/f8ff959a.ext.json)
-
----
-
-### Sajith's relief to children faced scholarship
-
-*2024-09-18 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201142) · `si`
-
-Sajith Premadasa, presidential candidate, promises to address injustice in the Grade 5 Scholarship Examination system during his potential presidency.
-
-🟩
-
-The presidential candidate Sajith Premadasa, the Presidential Department of the Power, says that he will work to work injustice under its government this year's Grade 5 Scholarship Examination.
-
-◼️
-
-[Data](articles/a863702b.json)
-
-[Extended Data](ext_articles/a863702b.ext.json)
-
----
-
-### Three -and -a -half -year -old child dies in a vehicle accident
-
-*2024-09-18 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/193981) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-A three-and-a-half-year-old child was killed and five others were injured in an accident near the Latpandura Junction Bridge on the Polonnaruwa-Mahiyanganaya road belonging to the Tehiyakkandan police division.
-
-The accident occurred when a van traveling from Polonnaruwa to Mahiyangan was collided with a three -wheeler.
-
-The driver of the three -wheeler was injured in the accident and his wife and children were injured and the three -and -a -half -year -old child died after being admitted to the Tehiyakkanda hospital, police said.
-
-Meanwhile, the driver of the van has been arrested after the driver of the van and the young man who was traveling in the van was injured.
-
-◼️
-
-[Data](articles/391fd51b.json)
-
-[Extended Data](ext_articles/391fd51b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 17:39:20**
+As of **2024-09-18 17:58:59**
 
 ## Newspaper Stats
 
-*Scraped **44,564** Articles*
+*Scraped **44,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,25 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,245
 tamilmirrorlk | 5,820
 virakesarilk | 7,127
-adaderanasinhalalk | 7,631
+adaderanasinhalalk | 7,632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,564 (100.0%) of 44,564 articles have been extended.
+44,565 (100.0%) of 44,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
 
+### Sanjeewa bans several things belonging to Mahanama
+
+*2024-09-18 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201159) · `si`
+
+Sanjeewa bans Mahanama's properties: 3 lands, 3 vehicles. Order issued by High Court until Dec 18. Requested by Bribery Commission.
+
+🟩
+
+Former Assistant Superintendent of Assistant Assistant Superintendent of Police of Anuradhapura has been banned to ban several property belonging to Mr. Mahanama Mahanama.
+
+The order was issued after considering the request made by the Bribery Commission.
+
+The Bribery Commission had requested the court to issue three lands and three vehicles claimed by the Assistant Superintendent of Police.
+
+The High Court issued an order by banning the relevant property until December 18.
+
+◼️
+
+[Data](articles/9a06bea8.json)
+
+[Extended Data](ext_articles/9a06bea8.ext.json)
+
+---
+
 ### Kamindu Mendis slams 4th Test century, equals world Test record
 
 *2024-09-18 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102063/kamindu-mendis-slams-4th-test-century-equals-world-test-record) · `en`
 
-Kamindu Mendis scored his 4th Test Century while playing against New Zealand in the 1st Test at Galle, and he also equaled a world Test record by scoring 50+ runs in each of his first seven matches.
+Sri Lankan batsman Kamindu Mendis scored his 4th Test Century while playing against New Zealand in the 1st Test at Galle, and he also equaled a world Test record by scoring 50+ runs in each of his first seven matches.
 
-Kamindu Mendis has also broken Michael Vandort’s record for fastest Sri Lankan batter to reach 4 Tests hundreds, in just 11 innings, thus equaling Don Bradman’s record.
+He has also broken Michael Vandort’s record for fastest Sri Lankan batter to reach 4 Tests hundreds, in just 11 innings, thus equaling Don Bradman’s record.
 
 Mendis has joined an elite club, equalling a world Test record by becoming only the second batter to score 50-plus runs in each of his first seven Test matches.
 
@@ -1404,7 +1428,7 @@ He stated that she had made calls for a woman from two telephone numbers from 12
 
 *2024-09-18 11:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-303-35-85-bond-yields-up-179869/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 303.35/85 to the US dollar on Monday, from 302.25/80 Friday, dealers said, while bond yields were up, as were stocks.
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 303.35/85 to the US dollar on Wednesday, from 302.25/80 Friday, dealers said, while bond yields were up, as were stocks.
 
 In the secondary market, during the ongoing treasury bill auction, the following bonds were actively quoted;
 
@@ -2381,29 +2405,5 @@ The ninth presidential election will be held on the 21st. This was the first maj
 [Data](articles/7bd2a809.json)
 
 [Extended Data](ext_articles/7bd2a809.ext.json)
-
----
-
-### Sri Lanka central govt debt falls below 100-pct of GDP in June 2024
-
-*2024-09-18 07:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-govt-debt-falls-below-100-pct-of-gdp-in-june-2024-179787/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central government debt fell to 99.83 percent of gross domestic product by June 2024 from 105.49 percent in December, amid exchange rate stability, a reduced budget deficit, and an expanding economy, official data show.
-
-Public debt with guaranteed debt of state enterprises fell to 105.7 percent of GDP in June 2024, down from 112.74 percent in December 2023.
-
-Rolling GDP to June went up to 28,909 billion rupees, from 27,629 in December 2023.
-
-Guaranteed debt includes a credit to the Reserve Bank of India which the central bank is paying down.
-
-When central banks use proceeds of swaps or other debt, it prints money to keep policy rates down and acquires government debt in the process (to sterilize the intervention by running inflationary policy), driving credit and imports.
-
-As a result, central bank dollar borrowings or reserves which are spent to finance private imports, are fully backed with government debt which have already been issued.
-
-...
-
-[Data](articles/74b5d0f6.json)
-
-[Extended Data](ext_articles/74b5d0f6.ext.json)
 
 ---

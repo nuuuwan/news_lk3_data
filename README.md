@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 20:38:13**
+As of **2024-09-18 20:57:11**
 
 ## Newspaper Stats
 
-*Scraped **44,584** Articles*
+*Scraped **44,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,118
+adalk | 4,119
 dailymirrorlk | 4,733
 adaderanalk | 5,247
 tamilmirrorlk | 5,827
 virakesarilk | 7,128
-adaderanasinhalalk | 7,635
+adaderanasinhalalk | 7,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,584 (100.0%) of 44,584 articles have been extended.
+44,586 (100.0%) of 44,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Here is the full story of the incident that Sajith absented at 360 Derana
+
+*2024-09-18 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201165) · `si`
+
+Sajith Premadasa cancels appearance on Derana 360 program due to scheduling conflict.
+
+🟩
+
+Seven candidates were given 'Derana special 360' program with the balanced policy we follow.
+
+Accordingly, we have been invited by Sajith Premadasa, the presidential power to the president.
+
+We have started the seven special 360 programs broadcast on Thursday, September 12.
+
+After an informs of Sajith Premadasa, the 360 ​​secretary handling his diaries at his instructions was recorded on September 17.
+
+The Ada Changa Director was later transferred with Sajith Premadasa with Sajith Premadasa and broadcast the previous propaganda on September 11.
+
+We also published advertisements on Thursday, Thursday, Friday and Weekend newspaper and Sajith Premadasa will participate in the Derana special 360 program.
+
+Sunday, September 15, discussed the program with the recording of the program with Sajith Premadasa, a member of Sajith Premadasa, that Sajith Premadasa did not participate in the program to stop broadcasting the previous propaganda.Does.
+
+...
+
+[Data](articles/b72b2879.json)
+
+[Extended Data](ext_articles/b72b2879.ext.json)
+
+---
 
 ### Education Ministry announcement on distribution of school uniforms
 
@@ -225,6 +255,34 @@ Meanwhile, the Department of Railways has taken steps to operate a special train
 [Data](articles/dfe5eb67.json)
 
 [Extended Data](ext_articles/dfe5eb67.ext.json)
+
+---
+
+### Dilith says about the decision of the people
+
+*2024-09-18 18:49:42* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-ගත-යුතු-තීරණය-ගැන-දිලිත්-කියයි/11-412007) · `si`
+
+Here's a 200-character summary:
+
+
+
+Presidential candidate Dilith Jayaweera urges voters to reject traditional politics, promising to combat corruption and elevate Sri Lanka from third-world status. He emphasizes the importance of making informed decisions based on conscience rather than party loyalty.
+
+🟩
+
+The presidential candidate entreprene of the presidential candidate Dilith Jayaweera said the people should go beyond the traditional politics of the presidential election.
+
+He was speaking at the last massive rally held in Kottawa today (18).Mr. Jayaweera further said:
+
+"Where's the difference now?225 What happened to us to chase the corruptions that were told to changed the sysmity?All those candidates who are contesting for the presidential election today are all that old face. Now give a difference to those who ask for the difference and bring a political narrative to eliminate corruption and touching thieves.. Thieves.
+
+We're so depressed at this decisive election. We want to send this country in front of. Not to send back. We want to put the country to go to the first world in the third world. Not to take the world to the world.
+
+...
+
+[Data](articles/1651ca3a.json)
+
+[Extended Data](ext_articles/1651ca3a.ext.json)
 
 ---
 
@@ -2389,45 +2447,5 @@ Independent Presidency, Ranil Wickremesinghe says that the rupee will be further
 [Data](articles/c17a0da8.json)
 
 [Extended Data](ext_articles/c17a0da8.ext.json)
-
----
-
-### Suspect arrested for locally manufactured gun
-
-*2024-09-18 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193978) · `ta`
-
-Arrest made in Glacvankulam: Suspect caught with homemade weapon during police raid. Further investigation ongoing.
-
-🟩
-
-A suspect was arrested on Tuesday (17) with a locally manufactured firearm in the Glacvankulam area of ​​the Mankulam police division.
-
-Police said that the arrests were taken when the raid was carried out on information received by Mankulam Posar.
-
-Subsequently, the Mankulam police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/9e98129b.json)
-
-[Extended Data](ext_articles/9e98129b.ext.json)
-
----
-
-### Rail service delay in Kelaniya Religion
-
-*2024-09-18 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/193979) · `ta`
-
-Train derailment causes delays in Kelaniya region. Railway Department reports service disruptions due to incident in Kirulappanai area.
-
-🟩
-
-The Railway Department said that the train services were delayed due to the train derailment in the Kirulappanai area.
-
-◼️
-
-[Data](articles/94cfcf2c.json)
-
-[Extended Data](ext_articles/94cfcf2c.ext.json)
 
 ---

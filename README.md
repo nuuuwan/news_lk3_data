@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 07:57:27**
+As of **2024-09-18 08:19:55**
 
 ## Newspaper Stats
 
-*Scraped **44,451** Articles*
+*Scraped **44,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,229
 tamilmirrorlk | 5,801
 virakesarilk | 7,101
-adaderanasinhalalk | 7,608
+adaderanasinhalalk | 7,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,451 (100.0%) of 44,451 articles have been extended.
+44,452 (100.0%) of 44,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Election propaganda ends midnight today
+
+*2024-09-18 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201135) · `si`
+
+Election propaganda ends midnight today. Silent Saturday on 12th. No campaigning allowed after midnight. Election commission chairman urges candidates to remove advance offices. Police will remove non-compliant offices. Official voter papers not yet distributed.
+
+🟩
+
+The election campaign to the presidential election is due to end a midnight today (18).
+
+Accordingly, Saturdays on the 12th of this month will be operated as silent.
+
+During this period, no propaganda is prohibited and the police have been arrested and the police have been arrested and implemented any part of election rules.
+
+The Chairman of the Elections Commission, Mr. RMAL Ratnayake, the comment on this.
+
+"The polls set up from political parties is different. From the middle of the night of the 19th. The election office may be maintained in the event that the election office is relevant to the electorate.. At least 13,314 persons who have been established to the balace have already been withdrawn from the 19th night. In addition, an election office at the new level of seat level. We urge all candidates to remove the advanced offices. If they do not remove them, they will be necessary to remove the offices by the police. "
+
+...
+
+[Data](articles/8bdee398.json)
+
+[Extended Data](ext_articles/8bdee398.ext.json)
+
+---
 
 ### More than 3,000 injured in prevalence in Lebanon
 
@@ -2299,37 +2325,5 @@ Producer T.. De Raja and DR Sanjay Kumar have co -produced.
 [Data](articles/5279538f.json)
 
 [Extended Data](ext_articles/5279538f.ext.json)
-
----
-
-### Motion Poster release of Sathyaraj starring 'Zebra'
-
-*2024-09-17 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193936) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Zebra" starring Sathyaraj releases Oct 31. Directed by Iswar Karthik, produced by Old Town Pictures and Padmaja Films India. Starring Sathyaraj, Dalai Tananjaya, Satyadev, Priya Bhavani Shankar. Released in Tamil, Telugu, Malayalam, Kannada, Hindi.
-
-🟩
-
-'Revolutionary Tamil' Satyaraj, Dali Tananjaya, Satyadev, Tamil, Telugu and Kannada filmmaker's leading star actors' 'Zebra' has been released.
-
-It has also been announced that the film will be released at the film mansion on Diwali.
-
-Sathyaraj, Dali Tananjaya, Satyadev, Priya Bhavani Shankar, Sunil, Sunil, Satya, Jennifer Busynado, Suresh Menon, directed by director Iswar Karthik.
-
-Producers SS on behalf of Old Town Pictures and Padmaja Films India Private Limited. My. Reddy, S.. Padmaja, Balasundaram and Dinesh Sundaram are co -produced.
-
-The film crew has released the announcement of the release of the film via special video.
-
-The film will be released on October 31 in Tamil, Telugu, Malayalam, Kannada and Hindi.
-
-◼️
-
-[Data](articles/7eff3a59.json)
-
-[Extended Data](ext_articles/7eff3a59.ext.json)
 
 ---

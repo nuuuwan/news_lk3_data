@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 21:22:32**
+As of **2024-09-18 21:39:57**
 
 ## Newspaper Stats
 
-*Scraped **44,588** Articles*
+*Scraped **44,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,118 @@ colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,119
+adalk | 4,120
 dailymirrorlk | 4,733
 adaderanalk | 5,248
 tamilmirrorlk | 5,828
-virakesarilk | 7,128
+virakesarilk | 7,137
 adaderanasinhalalk | 7,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,587 (100.0%) of 44,588 articles have been extended.
+44,594 (100.0%) of 44,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
 
-### வாக்களிப்பு நிலையத்திற்குள் யார் நுழையலாம்?
+### The Tamil National Alliance (TNA) MP expressed his support for President Ranil. Vinonogadalingam!
+
+*2024-09-18 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/194057) · `ta`
+
+TNA MP Vino Nogarathalingam supports President Ranil Wickremesinghe in upcoming election.
+
+🟩
+
+Tamil National Alliance (TNA) Wanni District Parliamentarian Vino Nogarathalingam said he would support the victory of President Ranil Wickremesinghe in the upcoming presidential election.
+
+He made this announcement at a press conference held at the President's Political Office on Wednesday (18) at Blaver Road, Colombo.
+
+◼️
+
+[Data](articles/18352f65.json)
+
+[Extended Data](ext_articles/18352f65.ext.json)
+
+---
+
+### Who can enter the polling station?
 
 *2024-09-18 20:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலையத்திற்குள்-யார்-நுழையலாம்/175-343975) · `ta`
 
-எதிர்வரும் செப்டம்பர் 21, 2024 அன்று நடைபெறவுள்ள ஜனாதிபதித் தேர்தலின் போது வாக்களிப்பு நிலையங்களுக்குள் நுழைய அங்கீகரிக்கப்பட்ட நபர்களை இலங்கை தேர்தல் ஆணைக்குழு அறிவித்துள்ளது.
+Election Commission Sri Lanka: Only eligible voters, polling staff, police, candidates, agents, election monitors allowed entry. Prohibits illegal activities like mobile phones, photography, weapons, intoxication.
 
-அந்தந்த வாக்களிப்பு நிலையங்களுக்கு பதிவு செய்யப்பட்ட வாக்காளர்கள், வாக்குச் சாவடி பணியாளர்கள் மற்றும் தேர்தல் பணிகளுக்காக ஒதுக்கப்பட்ட பொலிஸார் உள்ளிட்ட குறிப்பிட்ட நபர்கள் மட்டுமே வாக்களிப்பு நிலையங்களுக்குள் அனுமதிக்கப்படுவர் என்று ஆணைக்குழு தெரிவித்துள்ளது.
+🟩
 
-தேர்தலில் போட்டியிடும் ஜனாதிபதி வேட்பாளர்கள், அவர்களது தேர்தல் முகவர்கள், அங்கீகரிக்கப்பட்ட முகவர்கள், பிரதேச முகவர்கள் மற்றும் முறையாக நியமிக்கப்பட்ட வாக்களிப்பு நிலைய முகவர்கள் ஆகியோருக்கும் அனுமதி வழங்கப்பட்டுள்ளது.
+The Election Commission of Sri Lanka has announced those who have been approved to enter the polling stations during the presidential election on September 21, 2024.
 
-மேலும், தேர்தல் ஆணைக்குழுவால் அங்கீகரிக்கப்பட்ட உள்ளூர் அல்லது வெளிநாட்டு தேர்தல் கண்காணிப்பு அமைப்புகளின் பிரதிநிதிகள் மற்றும் அந்தந்த தேர்தல் அதிகாரிகளால் அங்கீகரிக்கப்பட்ட அதிகாரிகள் நுழைய அனுமதிக்கப்படுகிறார்கள்.
+Only certain persons, including voters registered for their respective polling stations, polling staff and the police reserved for election work, will be allowed into the polling stations, the Commission said.
+
+The presidential candidates who are contesting the election, their election agents, recognized agents, regional agents and formally appointed voting agents have been granted.
+
+In addition, representatives of the local or foreign election monitoring organizations approved by the Election Commission and the authorities approved by the respective election officials are allowed to enter.
+
+Moreover, the Election Commission has pointed out that illegal activities should be avoided in voting and voting centers.
+
+This includes using mobile phones, photography, recording videos, having a gun and smoking or alcohol.
 
 ...
 
 [Data](articles/dbe7e5e6.json)
+
+[Extended Data](ext_articles/dbe7e5e6.ext.json)
+
+---
+
+### Special Arrangements at Voting Centers - Elections Commission
+
+*2024-09-18 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/194048) · `ta`
+
+Elections Commission makes special arrangements for disabled voters, including sign language assistance and senior staff support. Polling stations open Saturday from 7am to 4pm. Voters must bring valid identification. Campaigns end midnight Wednesday.
+
+🟩
+
+The Commissioner General of Elections Saman Sri Ratnayaka said that the Elections Commission has made arrangements to vote easily with the help of a senior head of the duties when an invisible voter is going to the polling booth when a special need for special needs in the upcoming presidential election.
+
+Meanwhile, it is illegal that a party provides transportation to voters on the election. The Commissioner General of Elections Saman Sri Ratnayake said that if the transportation facilities are provided to those who are inability to provide transportation facilities
+
+The “Awareness of Voters” on the presidential election was held on Wednesday (18) at the Election Commission.
+
+Elections Commission Chairman RMAL Ratnayake, Elections Commissioner Saman Sri Ratnayake, Additional Commissioner of Elections Commission. Achuthan and Deputy Elections Commissioner KJS. Led under the leadership of Madhava.
+
+...
+
+[Data](articles/383fbbad.json)
+
+[Extended Data](ext_articles/383fbbad.ext.json)
+
+---
+
+### Nuwan Bopake should be successful to make a change in the people's requested system - spring first
+
+*2024-09-18 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194056) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Nuwan Bopake, presidential candidate, aims to bring change through the People's Struggle Alliance. Critics argue current policies worsen economic issues and increase costs for citizens. Supporters call for voting for Bopake to address national concerns and implement alternative solutions.
+
+🟩
+
+People demanded a change in the country's economy and political activities. We have put forward this election as a people's struggle alliance. The people's struggle coalition activist Vasantha Mulleke said that the presidential candidate Nuwan Bopake should be won to make that political change.
+
+The final election of the People's Alliance was held on Wednesday (18) in Kiribathgoda Nagar. He said this while addressing the gathering.
+
+In the past, there have been massive opposition and criticism among the people regarding the political system of the country. However, all candidates are making false promises to plunder the opposition of the people within the election heat. The promise of those promises is that people's concern and difficulties are attempted to turn the votes. There is no program that can respond to people's problems.
+
+...
+
+[Data](articles/edf797a5.json)
+
+[Extended Data](ext_articles/edf797a5.ext.json)
 
 ---
 
@@ -104,6 +184,88 @@ Sunday, September 15, discussed the program with the recording of the program wi
 
 ---
 
+### Accident in Omanthai in Vavuniya
+
+*2024-09-18 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194055) · `ta`
+
+Motorcyclists crash in Omanthai, Vavuniya. Two men die after being hit while standing on road. Sangeethan (40) and Yogarasa (42) killed.
+
+🟩
+
+Two motorcyclists were traveling from Omanthai Pairakkayakulam area to Vavuniya when they were traveling to the Omanthai refueling station when they were traveling with a man standing on the road.
+
+The two injured in the accident were rescued by the road and admitted to the Vavuniya Hospital. However, they have already died at the hospital.
+
+Sangeethan age 40 from Omanthai Pandigaiyadakulam area and Yogarasa 42 from Kilinochchi.
+
+◼️
+
+[Data](articles/52a22bb0.json)
+
+[Extended Data](ext_articles/52a22bb0.ext.json)
+
+---
+
+### Final election campaign meeting in Nallur, Jaffna
+
+*2024-09-18 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194054) · `ta`
+
+Nallur, Jaffna: Final election campaign meeting supports Tamil candidate Pa Ariyanethran. Attendees include local politicians, party leaders, and activists. Event promotes Tamil representation in upcoming elections.
+
+🟩
+
+The final election campaign meeting was held on Wednesday in Nallur, Jaffna in support of Tamil general candidate Pa.
+
+At the meeting held at Nallur Changhiyan Thoppu, Tamil general candidate Pa Ariyanethran, Member of Parliament T Siddharthan, Tamil National Party leader N.Rikanta, EPRLF. President Suresh Premachandran, Tamil National Green Movement Leader P Ingaranesan, Tamil People's Alliance V. Manivannan, Relo's Colos, Democratic Militants Party leader Venthan, political researchers Nilanthan, CA Jothilingam and many others were present.
+
+◼️
+
+[Data](articles/4bc80311.json)
+
+[Extended Data](ext_articles/4bc80311.ext.json)
+
+---
+
+### Sajith Premadasa is the only one who has clearly declared practical potential solutions for the Tamil speaking people - Mano Ganesan
+
+*2024-09-18 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194053) · `ta`
+
+Sajith Premadasa offers practical solutions for Tamil-speaking people, addressing housing and education issues. He has formed an alliance with Tamil Progressive Alliance and signed agreements ensuring land rights. Unlike other candidates who have done nothing for years, Premadasa has concrete plans to implement the 13th Amendment and rebuild provincial councils.
+
+🟩
+
+The leader of the United People's Alliance (UPFA), Sajith Premadasa, is the only candidate who has clearly announced the possible solutions to the Tamil speaking people across the country.
+
+Those who have been in the competition with us, leave for two years of chapter and do nothing to the solution to the ethnic problem, and look for the Tamil -speaking politicians who have bribed the Tamil -speaking politicians.Look for those who have forgotten their role in fostering communal ideology in this country and who suddenly affectionately affection for Tamil -speaking people.
+
+So, go and boldly go and vote for the telephone symbol, "said Mano Ganesan, leader of the Tamil Progressive Alliance (TNA), addressing a special media briefing in Colombo.
+
+...
+
+[Data](articles/1097eb2b.json)
+
+[Extended Data](ext_articles/1097eb2b.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் கடமைகளுக்காக கோட்டை – காங்கேசன்துறை புகையிரத சேவை ஆரம்பம் - புகையிரத திணைக்களம்
+
+*2024-09-18 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194052) · `ta`
+
+ஜனாதிபதித் தேர்தல் கடமைகளில் ஈடுபடும் அரச உத்தியோகஸ்த்தர்கள் மற்றும் பாதுகாப்பு தரப்பினருக்காக கொழும்பு கோட்டை – காங்கேசன்துறை இடையிலான புகையிரத சேவை ஆரம்பிக்கப்பட்டுள்ளது என புகையிரத திணைக்களம் அறிவித்துள்ளது.
+
+சனிக்கிழமை (21) இடம்பெறவுள்ள ஜனாதிபதி தேர்தல் வாக்கெடுப்பை முன்னிட்டு  தேர்தல் கடமைகளுக்காக பங்குப்பற்றும் அரச உத்தியோகஸ்த்தர்கள்  மற்றும் பாதுகாப்பு தரப்பினர்களுக்காக விசேட புகையிரதம் சேவையில் ஈடுபடுத்தப்பட்டுள்ளது.
+
+இதற்கமைய 19,21ஆம் திகதிகளில் கொழும்பு கோட்டை-காங்கேசன்துறை வரையில் விசேட புகையிரதம் சேவையில் ஈடுபடவுள்ளது. இன்று காலை 09 மணிக்கு கோட்டை புகையிரத  நிலையத்தில் இருந்து காங்கேசன்துறை புகையிரத நிலையம் நோக்கி விசேட புகையிரதம் பயணிக்கவுள்ளது.
+
+அதேபோல் சனிக்கிழமை (21), மற்றும் எதிர்வரும் ஞாயிற்றுக்கிழமை (22) நண்பகல்  12 மணிக்கு காங்கேசன்துறை புகையிரத நிலையத்தில் இருந்து கொழும்பு கோட்டை புகையிரத நிலையம் நோக்கி விசேட புகையிரதம் புறப்படும்.
+
+◼️
+
+[Data](articles/dd240a1d.json)
+
+---
+
 ### Education Ministry announcement on distribution of school uniforms
 
 *2024-09-18 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102065/education-ministry-announcement-on-distribution-of-school-uniforms) · `en`
@@ -143,6 +305,24 @@ He made this statement at a media briefing held at the President's Political Off
 [Data](articles/496a2905.json)
 
 [Extended Data](ext_articles/496a2905.ext.json)
+
+---
+
+### අපි වැඩි ඡන්ද ලක්ෂ 20කින් ජයග්‍රහණය කරනවා
+
+*2024-09-18 19:24:44* · [`adalk`](https://www.ada.lk/breaking_news/අපි-වැඩි-ඡන්ද-ලක්ෂ-20කින්-ජයග්‍රහණය-කරනවා/11-412011) · `si`
+
+අපි වැඩි ඡන්ද ලක්ෂ විස්සකින් ජයග්‍රහණය කරනවා.බලයට පත්වුණු හැටියේම මම කරන දේ තමයි කතරගම පුදබිමේ මේ ආණ්ඩුව ආරම්භකරපු බාර් එක වහල දමන එක යැයි සමඟි ජන බලවේගයේ ජනාධිපතිධූර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+ඒ මහතා එසේ පැවසුවේ මොනරාගල ප්‍රාදේශීය සභා ක්‍රීඩාංගනයේදී අද (18) වෙනිදා පැවති ජන රැළිය අමතමිනි. එහිදී වැඩිදුරටත් අදහස් දැක්වූ සජිත් ප්‍රේමදාස මහතා,
+
+බුද්ධි අංශ වාර්තා අනුව අපි වැඩි ඡන්ද ලක්ෂ විස්සකින් ජයග්‍රහණය කරනවා.මගේ කකුලෙන් අදින දේශපාලන රනිල් අනුර ජෝඩුව හොඳටම පහළින් ඉන්නේ.උතුම් දළදා වහන්සේට මගේ ප්‍රතිපත්ති ප්‍රකාශය පූජාකරලා මේ මැතිවරණ ව්‍යාපාරය ආරම්භකළා.එසේ කරපු පළවෙනි පාලකයා සජිත් ප්‍රේමදාසයි.ප්‍රතිපත්ති ප්‍රකාශනය ප්‍රතිපත්ති අපි දිවිහිමියෙන් සුරකිනවා.
+
+අපගේ ජයග්‍රහණය ස්ථිරයි.එම ජයග්‍රහණය සාමයයෙන් භුක්ති විඳින්න ඕන.හිංසනය,ප්‍රචණ්ඩත්වය එපා. ඒවා සමඟි ජන බලවේගයේ ප්‍රතිපත්ති නෙවෙයි.රට ගොඩනඟන ඊළඟ පියවරටත් මුළු රටම සූදානම් වෙන්න.විරුද්ධ මත දරන කිසිම කෙනෙකුට හානි කරන්න එපා.ඒ අයවත් රට ගොඩනැගීමේ වැඩපිළිවෙලට එක්කාසු කරගන්නවා.අපි ආගමික නිදහස රකිනවා.
+
+...
+
+[Data](articles/9450dcb4.json)
 
 ---
 
@@ -328,6 +508,20 @@ We're so depressed at this decisive election. We want to send this country in fr
 
 ---
 
+### ஜனாதிபதி மற்றும் எதிர்க்கட்சித் தலைவர் பதவிகளைப் பகிர்ந்து கொள்வதற்காக நாமல், சஜித் நேர்மையற்ற கூட்டணியை உருவாக்கியுள்ளனர் - ராஜித சேனாரத்ன
+
+*2024-09-18 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/194051) · `ta`
+
+ஜனாதிபதி மற்றும் எதிர்க்கட்சித் தலைவர் பதவிகளைப் பகிர்ந்து கொள்வதற்காக நாமலுக்கும் சஜித்துக்கும் இடையில் நேர்மையற்ற கூட்டணி ஒன்று உருவாகியுள்ளதாக களுத்துறை மாவட்ட ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் வைத்தியர் ராஜித சேனாரத்ன தெரிவித்தார். இதன்படி, ஜனாதிபதி தேர்தலில் வெற்றியீட்டுவதற்காக நாமல் ராஜபக்ஷவுக்கு எதிர்க்கட்சித் தலைவர் பதவி வழங்குவதாகவும், அதற்கு பிரதிபலனாக ராஜபக்ஷக்களுக்கு எதிராக எந்த நடவடிக்கையும் எடுக்கப் போவதில்லை என சஜித் பிரேமதாச உறுதியளித்துள்ளதாகவும் அவர் தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கொழும்பு பிளவர் வீதியிலுள்ள அரசியல் அலுவலகத்தில் புதன்கிழமை (18) நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்ட ஐக்கிய மக்கள் சக்தியின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் வைத்தியர் ராஜித சேனாரத்ன மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/62a467ec.json)
+
+---
+
 ### Special train services
 
 *2024-09-18 18:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலன்று-விசேட-ரயில்-சேவைகள்/175-343968) · `ta`
@@ -349,6 +543,22 @@ The department said that the number of short -range train services may occur on 
 [Data](articles/70eafa35.json)
 
 [Extended Data](ext_articles/70eafa35.ext.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தி 20 இலட்சம் மேலதிக வாக்குகளால் வெற்றி பெறும் - சஜித் பிரேமதாச
+
+*2024-09-18 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194050) · `ta`
+
+புலனாய்வுத் துறை அறிக்கையின் பிரகாரம் ஐக்கிய மக்கள் சக்தி 20 இலட்சம் மேலதிக வாக்குகளால் வெற்றி பெறும்.  ரணில் அநுர ஜோடி கீழ் மட்டத்திலே இருக்கிறது. தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிடப்பட்ட விடயங்கள் அனைத்தையும் புத்தபெருமானின் ஆசீர்வாதங்கள் பாதுகாக்கும் என்பதோடு நாம் நிச்சயமாக வெற்றி பெறுவோம். இந்த வெற்றியை அமைதியான முறையில் கொண்டாடுமாறு கேட்டுக் கொள்கின்றேன் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+மொனராகலையில் ஐக்கிய மக்கள் கூட்டணி ஏற்பாடு செய்திருந்த தேர்தல் பிரசாரக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+வன்முறை என்பது ஐக்கிய மக்கள் சக்தியின் கொள்கையல்ல. மாற்றுக் கொள்கையோடு இருக்கின்ற எவருக்கும் எந்த பாதிப்பும் ஏற்படாத வகையில் இந்த நாட்டை கட்டி எழுப்புகின்ற பயணத்தில் அனைவரையும் பங்காளர்களாக இணைத்துக் கொள்வோம்.  மத சுதந்திரத்தை கௌரவப்படுத்துவதோடு, பௌத்தம் இந்து, இஸ்லாம், கத்தோலிக்க ஆகிய மதங்களை பின்பற்றுவதற்கு எவருக்கும் உரிமை இருப்பதனால், அந்த உரிமையை பாதுகாப்போம்.
+
+...
+
+[Data](articles/6ca9b219.json)
 
 ---
 
@@ -2207,245 +2417,5 @@ We will definitely establish a special Presidential Secretariat for amendments t
 [Data](articles/5a10c20e.json)
 
 [Extended Data](ext_articles/5a10c20e.ext.json)
-
----
-
-### 2,700 injured by nine people killed
-
-*2024-09-18 10:18:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பேஜர்கள்-வெடித்து-ஒன்பது-பேர்-பலி-2-700-பேர்-காயம்/50-343948) · `ta`
-
-Explosion kills 9 injures 2700 in Lebanon. Pagers blamed. State of emergency declared. Iran's envoy hurt. Hizbullah accuses Israel.
-
-🟩
-
-Nine people, including the son of Lebanon MP, were killed when a mobile phone, a handheld instrument in Lebanon, exploded. More than 2,700 people were injured.
-
-Hizbullah Armed Forces have accused Israel of being responsible for this incident.
-
-In Lebanon, Hizbullah Armed Forces are using pagers as a mobile phone for communication.
-
-In this case, the handheld pagers held at Al-Shahra Hospital in the southern Lebanon capital of Beirut.. This was followed by a continuous explosion of the pagers held by the Hizbullah armed group who used the pagers.
-
-According to reports, 2,700 people were injured and nine people were killed.
-
-Hizbullah has accused the incident of being a major security violation as the Hizbullah organization has been fighting Israel since October last year.
-
-Pagers holders should throw out immediately. Lebanon has announced a state of emergency across the country to announce not to use it.
-
-...
-
-[Data](articles/85519049.json)
-
-[Extended Data](ext_articles/85519049.ext.json)
-
----
-
-### Sri Lanka in third round of discussions with bondholders: President
-
-*2024-09-18 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-third-round-of-discussions-with-bondholders-president-179843/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in a third round of discussions with bondholders, President Ranil Wickremesinghe has said, as the country heads for Presidential polls on Saturday.
-
-Sri Lanka has discussed with the International Monetary Fund, the World Bank, Asian Development Bank and 18 bilateral creditor nations, he said.
-
-“Now we are talking for the final time with private bondholders,” President Wikremesinghe said during a speech where he opened a vehicle assembly plant.
-
-Sri Lanka has conducted two rounds of direct negotiations with bondholders which led to a preliminary agreement on so-called macro-linked bonds and a governance linked bonds.
-
-The final agreement is still to be reached. Wickremesinghe said there was now talk of re-negotiating agreements.
-
-“Some people are saying they will change them,” Wickremesinghe said.
-
-“Then the co-operation we get and the money we get we will lose.”
-
-◼️
-
-[Data](articles/a7c9c8d2.json)
-
-[Extended Data](ext_articles/a7c9c8d2.ext.json)
-
----
-
-### Four police officers suddenly arrested
-
-*2024-09-18 10:06:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்கு-பொலிஸ்-அதிகாரிகள்-திடீர்-கைது/175-343947) · `ta`
-
-Four police officers arrested by Mottara police for allegedly extorting 1.4 million rupees from residents in Colombo 15. Two constables and a sergeant from Blumental Police Station, plus an intelligence unit officer, were detained.
-
-🟩
-
-Four police officers have been arrested by Mottara police on charges of getting 1.4 million rupees in a manner that threatened residents into a residence in Colombo 15.
-
-Accordingly, two constables and sergeants on duty at the Blumental Police Station and an officer from the Colombo Northern Intelligence Unit have been arrested by the Mottara police.. Remble
-
-◼️
-
-[Data](articles/478c7dc3.json)
-
-[Extended Data](ext_articles/478c7dc3.ext.json)
-
----
-
-### Sri Lanka opposition leader faces criticism after backing out of tv show
-
-*2024-09-18 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leader-faces-criticism-after-backing-out-of-tv-show-179815/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Opposition Leader Sajith Premadasa has faced criticism for his inability to face challenges after he cancelled a live interview with a privately-owned local television channel, and criticism over evading responsibility as a leader.
-
-Sri Lanka’s Derana television channel had informed the public that Premadasa will appear in the live 360 programme late evening on Tuesday.
-
-However, Premadasa’s party has sent a letter citing that he had never been confirmed for a live interview.
-
-“As usual, Sajith Premadasa has evaded facing challenges,” Manusha Nanayakkara, a former legislator from Premadasa’s Samagi Jana Balawegaya (SJB) who is now backing President Ranil Wickremesinghe charged in a live talk show which replaced the opposition leader’s scheduled live 360.
-
-A member of SJB said that the opposition leader did not confirm for a live programme.
-
-...
-
-[Data](articles/c5a15802.json)
-
-[Extended Data](ext_articles/c5a15802.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-09-18 09:56:40* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-411988) · `si`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-Sri Lanka Leader Dhananjaya de Silva won the toss and win the first Test cricket match against New Zealand team.
-
-◼️
-
-[Data](articles/1680416e.json)
-
-[Extended Data](ext_articles/1680416e.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-09-18 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201141) · `si`
-
-Sri Lanka vs New Zealand cricket match summary: Sri Lanka wins coin toss, leads in Galle Stadium. Free viewing due to presidential election. New Zealand trains under Rangana Herath. Historical record shows mixed results between teams. Key players include Dhananjaya de Silva, Dimuth Karunaratne, and Kusal Mendis.
-
-🟩
-
-Sri Lanka and New Zealand The first match of two matches will begin at Galle Stadium.
-
-Sri Lanka won the toss and win the coin.
-
-The match has been given the opportunity to watch this match free of charge and has been named a resting date on September 21 due to the presidential election.
-
-New Zealand team began training in Galle yesterday, with two matches with two matches in the ICC World Test Championship. Rangana Herath who served as their spinner coach.
-
-Among the two countries has conducted 38 Tests and 18 matches have won only 9 matches.
-
-Sri Lanka has won the 4 matches in Galle International Cricket Stadium.
-
-Leader Dhananjaya de Silva, Dunuwath Karunaratne, Dinesh Chandimal, Angelo Mandis, Kusal Mendis, Prabath Jayasuriya and Bathsel Mendis, Bhath Jayasuriya and Asitha Fernando Group.
-
-◼️
-
-[Data](articles/6911a76d.json)
-
-[Extended Data](ext_articles/6911a76d.ext.json)
-
----
-
-### Four police officers arrested over extortion of Rs. 1.4 million from house
-
-*2024-09-18 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102053/four-police-officers-arrested-over-extortion-of-rs-14-million-from-house) · `en`
-
-Four police officers have been arrested by Modara Police for allegedly entering a residence in Colombo 15, threatening its occupants and extorting a sum of Rs. 1.4 million from them.
-
-Accordingly, two Constables and a Sergeant attached to the Bloemendhal Police Station, as well as an officer from the Colombo North Intelligence Division, have been arrested by the Modara Police.
-
-◼️
-
-[Data](articles/35888634.json)
-
-[Extended Data](ext_articles/35888634.ext.json)
-
----
-
-### Now Ranil's job is over
-
-*2024-09-18 09:37:15* · [`adalk`](https://www.ada.lk/breaking_news/දැන්-රනිල්ගේ-ජොබ්-එක-ඉවරයි/11-411987) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ranil Wickremesinghe's term ends. SLFP leader Duminda Dissanayake addresses concerns about Ranil's leadership. Critics argue Ranil prioritized economic growth over political stability. Supporters defend his achievements. The future of Sri Lanka's presidency remains uncertain as elections approach.
-
-🟩
-
-Now Ranil's job is over. Ranil wigged a negotiated country, not the daggering of the people, and the people should decide if they were up and upset, and the rest of the year. So SLFP General Secretary MP Duminda Dissanayake said that the 21th would have to bear the verdict on the 21st.
-
-He was speaking at a public meeting held in the Galnewa area in Anuradhapura.
-
-Some people say that Ranil says that Ranil says that Ranil says Sri Lanka, if we all join us, Ranil Pass is going to be strong.I have been proven to be pass now.
-
-...
-
-[Data](articles/a71923da.json)
-
-[Extended Data](ext_articles/a71923da.ext.json)
-
----
-
-### Four suspensive police officers arrested
-
-*2024-09-18 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201140) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Four police officers arrested: Two constables from Bloomandl Police, a sergeant, and an official in Colombo. They were accused of extortion."
-
-🟩
-
-The Modara Police have arrested four policemen to extort Rs.
-
-Such was arrested, two constables attached to the Bloomandl Police, a sergeant and official in Colombo.
-
-◼️
-
-[Data](articles/74830b34.json)
-
-[Extended Data](ext_articles/74830b34.ext.json)
-
----
-
-### Election campaigns nationwide today
-
-*2024-09-18 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/193980) · `ta`
-
-Presidential election campaign meetings today: Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, Namal Rajapaksa, Dilith Jayaweera, Nuwan Bogake. Locations: Grandpass, Matara, Galle, Kalutara, Homagama, Maradana, Beruwala, Central Colombo, Tower Hol, Nugegoda, Piliyandala, Kottawa, Kiribathgoda.
-
-🟩
-
-Election campaign meetings for the presidential election end on Wednesday (18).
-
-The main presidential candidates Ranil Wickremesinghe, Sajith Premadasa, Anuragumara Dissanayake, Namal Rajapaksa, Dilith Jayaweera and Nuwan Bogake will hold election campaign meetings today.
-
-Independent candidate Ranil Wickremesinghe's election campaign meetings will be held in Grandpass, Matara, Galle, Kalutara, Homagama and Maradana.. The final campaign meeting will be held in Maradana.
-
-The election campaign meetings of the United People's Power President Sajith Premadasa will be held in Galle, Beruwala and Central Colombo. His final election campaign meeting will be held in front of Tower Hol.
-
-The election campaign meetings of Anura Kumara Dissanayake, the President of the National People's Power, will be held in Kalutara, Gampaha and Nugegoda. His final election campaign meeting will be held in Nugegoda.
-
-Sri Lanka PA. His final election campaign meeting will be held in Piliyandala.
-
-...
-
-[Data](articles/41947ecd.json)
-
-[Extended Data](ext_articles/41947ecd.ext.json)
 
 ---

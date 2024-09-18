@@ -1,36 +1,126 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 02:23:00**
+As of **2024-09-19 03:07:47**
 
 ## Newspaper Stats
 
-*Scraped **44,631** Articles*
+*Scraped **44,638** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 432
+bbccomsinhala | 433
 colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,703
-dailyftlk | 2,970
+dailyftlk | 2,973
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,830
-virakesarilk | 7,139
+tamilmirrorlk | 5,832
+virakesarilk | 7,140
 adaderanasinhalalk | 7,642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,629 (100.0%) of 44,631 articles have been extended.
+44,636 (100.0%) of 44,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### MSD security
+
+*2024-09-19 02:18:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியநேத்திரனுக்கு-MSD-பாதுகாப்பு/175-343994) · `ta`
+
+Tamil presidential candidate PA Ariyanethran receives police protection. Two MSD officers assigned to ensure his safety during election campaign.
+
+🟩
+
+Police protection has been given to Tamil general candidate PA Ariyanethran contesting the presidential election.
+
+Recently, security has been issued on the warning issued by the Deputy Inspector General of Police regarding the security of the common candidate.
+
+Two officers of the Cabinet Security Division (MSD) have been carrying out the task of providing security since yesterday.
+
+According to sources, Nine of the Cabinet Security Division (MSD) has been allocated to two Ariyanethran.
+
+◼️
+
+[Data](articles/8ba8c0be.json)
+
+[Extended Data](ext_articles/8ba8c0be.ext.json)
+
+---
+
+### Elite establishment’s last stand
+
+*2024-09-19 02:17:04* · [`dailyftlk`](https://www.ft.lk/columns/Elite-establishment-s-last-stand/4-766866) · `en`
+
+It was always going to come to this. The first Sri Lankan election in generations where even a remotely leftist party stood a chance of winning was always going to end with an almighty Red Scare. So it is that the presidential campaign of National People’s Power (NPP) candidate Anura Kumara Dissanayake (AKD) is inspiring lurid visions of an impending violent, dystopian regime, splayed across news and social media. This is the prophecy of the Sri Lankan elite establishment, a select cross section of the country’s businesspeople, policymakers, professionals, journalists and academics who have been proximate to state power, especially in the last two years. Scrutiny of them and their crescendoing hysteria reveals much about how power and privilege work in Sri Lanka, and what happens when their wielders are threatened.
+
+...
+
+[Data](articles/e1a2394a.json)
+
+[Extended Data](ext_articles/e1a2394a.ext.json)
+
+---
+
+### Voter card can also be obtained on Saturday
+
+*2024-09-19 02:13:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டையை-சனியன்றும்-பெறலாம்/175-343993) · `ta`
+
+Voter cards available until election day: Deputy Postmaster Rajitha Ranasinghe announced that unregistered voters can obtain cards at local post offices until Saturday. About 97% of official cards have been distributed so far.
+
+🟩
+
+Deputy Postmaster Rajitha Ranasinghe said that those who have not received official voter cards can get to the post office in their area until the day of the election (21).
+
+About 97 percent of the official voter cards related to the presidential election have been distributed, the Postal Department said.
+
+Deputy Postmaster Rajitha Ranasinghe said the official voter card distribution of the official voter card, which began on the 3rd, said the voter cards could be obtained at posts until Saturday afternoon.
+
+◼️
+
+[Data](articles/c8a0b6ba.json)
+
+[Extended Data](ext_articles/c8a0b6ba.ext.json)
+
+---
+
+### Greenpeace South Asia calls on Presidential candidates to commit to Global Ocean Treaty
+
+*2024-09-19 02:12:56* · [`dailyftlk`](https://www.ft.lk/opinion/Greenpeace-South-Asia-calls-on-Presidential-candidates-to-commit-to-Global-Ocean-Treaty/14-766865) · `en`
+
+A year ago, during the UN General Assembly, over 80 countries signed the Global Ocean Treaty (also known as the High Seas Treaty or Agreement on Biodiversity Beyond National Jurisdiction - BBNJ) with fine words and big promises. But there is still work to do.
+
+...
+
+[Data](articles/c3e5799e.json)
+
+[Extended Data](ext_articles/c3e5799e.ext.json)
+
+---
+
+### Presidential candidates urged to safeguard children with clear political mandate and timeline
+
+*2024-09-19 02:11:35* · [`dailyftlk`](https://www.ft.lk/opinion/Presidential-candidates-urged-to-safeguard-children-with-clear-political-mandate-and-timeline/14-766864) · `en`
+
+A group of civil society organisations have called upon Presidential candidates to safeguard children and protect children with a clear political mandate and timeline in Sri Lanka’s future administration. The appeal has been endorsed by Sarvodaya Shramadana Movement of Sri Lanka, Children’s Emergency Relief International- Sri Lanka (CERI), Alliance Development Trust (ADT), LEADS, Child Action Lanka, Catholic Care for Children Sri Lanka, Emerge Lanka Foundation, ECPAT Sri Lanka and Community Concern –Kidznet. Following is the full text of the appeal.
+
+We, as a coalition of civil society organisations advocating for the well-being of Children in the country, urge all the Candidates at the 2024 Presidential Elections in Sri Lanka to step up to ensure tangible, timely, and relevant actions in their next government to achieve the aspired impact of development and inclusive societies through the right policy, investment, and action for protecting Children.
+
+...
+
+[Data](articles/16556c62.json)
+
+[Extended Data](ext_articles/16556c62.ext.json)
+
+---
 
 ### Economic stakes of the 2024 Presidential election
 
@@ -105,6 +195,8 @@ That’s why in politics I tend to look for the position in-between; the third s
 ...
 
 [Data](articles/9b3d95b2.json)
+
+[Extended Data](ext_articles/9b3d95b2.ext.json)
 
 ---
 
@@ -197,6 +289,20 @@ This article attempts to expose the more insidious and hidden opportunities give
 ...
 
 [Data](articles/7a5fdf63.json)
+
+[Extended Data](ext_articles/7a5fdf63.ext.json)
+
+---
+
+### தங்காலையில் துப்பாக்கிச் சூட்டுக் காயங்களுடன் சடலம் மீட்பு
+
+*2024-09-19 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194060) · `ta`
+
+தங்காலை, நலகம பகுதியில் சந்தேகத்திற்கிடமான துப்பாக்கிச் சூட்டுக் காயங்களுடன் உயிரிழந்த நபரொருவரின் சடலம் கண்டெடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/965dce4a.json)
 
 ---
 
@@ -464,6 +570,24 @@ Special committees have been appointed to investigate the non -needed campaigns 
 
 ---
 
+### සජිත් ප්‍රේමදාස : 'ජනතා මුදලින් මම වතුර උගුරක්වත් බොන්නේ නෑ'
+
+*2024-09-18 21:03:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gl72n4333o) · `si`
+
+සජිත් ප්‍රේමදාස : 'ජනතා මුදලින් මම වතුර උගුරක්වත් බොන්නේ නෑ'
+
+ජනතා වරමෙන් තෝරා ගන්නා පළමු ස්වේඡා ජනාධිපති බවට තමන් පත්වෙන අතර වැඩි ඡන්ද ලක්ෂ 20කින් ජය ගන්නා බව සමගි ජන සන්ධානයේ ජනාධිපතිධුර අපේක්ෂක සජිත් ප්‍රේමදාස පවසයි.
+
+'' මේ රට විනාශ කරපු හොරු ටික නීතිය ඉදිරියට ගෙනිහිල්ලා, මේ රටේ වන්දි ගෙවන තත්ත්වයකට ගෙන එනවා. ඒ විතරක් නෙමෙයි, රටට අහිමි කරපු සම්පත්, මුදල් රටේ දියුණුව උදෙසා ලබා ගන්නවා.'' යනුවෙන් ද ඔහු සඳහන් කළේය.
+
+සජිත් ප්‍රේමදාස සහභාගී වූ අවසන් ජන රැළිය සැප්තැම්බර් 18 කොළඹ, මරදාන ටවර් රඟහල අසල දී පැවැත්වුණේය.
+
+◼️
+
+[Data](articles/3036de90.json)
+
+---
+
 ### Who can enter the polling station?
 
 *2024-09-18 20:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலையத்திற்குள்-யார்-நுழையலாம்/175-343975) · `ta`
@@ -496,7 +620,7 @@ This includes using mobile phones, photography, recording videos, having a gun a
 
 *2024-09-18 20:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-expects-thursday-talks-with-bondholders-to-end-bankruptcy-179935/) · `en`
 
-ECONOMYNEXT – Sri Lanka will hold talks with sovereign bondholders on Thursday September 19, President Ranil Wickremesinghe was quoted as saying at a rally, signally that he expected talks to conclude successfully.
+ECONOMYNEXT – Sri Lanka will hold talks with sovereign bondholders on Thursday September 19, President Ranil Wickremesinghe was quoted as saying at a rally, signaling that he expected talks to conclude successfully.
 
 Following the talks Sri Lanka’s “bankruptcy will end and support from all countries will be restored”, he was quoted as saying in a text message.
 
@@ -2209,187 +2333,5 @@ Due to this, several train travels from Anuradhapura to Kilinochchi have been ca
 [Data](articles/a24e3124.json)
 
 [Extended Data](ext_articles/a24e3124.ext.json)
-
----
-
-### Four explosives and doubts arrested in Naa
-
-*2024-09-18 13:45:07* · [`adalk`](https://www.ada.lk/breaking_news/පුපුරන-ද්‍රව්‍ය-හා-සැක-හතරක්-නාඋලදී-අල්ලයි/11-411997) · `si`
-
-Explosives and suspects arrested in Naula: Four individuals detained during nighttime operation. Police seized wire rolls and equipment. Suspects aged 50, 49, 38, residents of Pussellawa. Investigation ongoing under Inspector Tyrone Ratnayake.
-
-🟩
-
-Naula Police claim that four suspects were arrested in a traffic conducted at a patronage in Naula area at night.
-
-Five red work string with three feet long in Nauatotor towards Naural on Naula from Nau, 8thThe police seized a wire roll of a wire roll of a cm thick steel and blue and teachers.
-
-Naula Police claim that a suspects were arrested on suspicion with the above equipment.
-
-The arrested suspects are aged 50,49,38, aged 50,49,38, a resident of Pussellawa.
-
-The suspects were to be produced before the Naula Magistrate yesterday (18).
-
-At the instructions of the Naula Police Inspector Tyrone Ratnayake, the suspects have been investigated by the suspects with the inquiry of the Puviana.
-
-◼️
-
-[Data](articles/a8461ec7.json)
-
-[Extended Data](ext_articles/a8461ec7.ext.json)
-
----
-
-### Horys and reinvest in that money - Sajith
-
-*2024-09-18 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201150) · `si`
-
-Sajith Premadasa proposes investing seized funds to benefit citizens. He criticizes thieves and calls for judicial reform. Ranil Wickremesinghe and Anura Kumara Dissanayake also support this stance.
-
-🟩
-
-The presidential candidate Sajith Premadasa, Sagith Premadasa, says that the wealth of the wealth of the country seizes the money.
-
-"The thieves of the country, the country's bankruptcy, to the judiciary, the judiciary, the judiciary, and thieves will be able to devote the money to the people again to invest in our country.. Ranil Wickremesinghe has been revealed to the country today. Ranil Wickremesinghe and Anura Kumara Dissanayake said the phone to win the phone.
-
-◼️
-
-[Data](articles/f489d350.json)
-
-[Extended Data](ext_articles/f489d350.ext.json)
-
----
-
-### Sri Lanka faces the most important election that has not yet recovered from the crisis - BBC
-
-*2024-09-18 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194014) · `ta`
-
-Sri Lanka faces crucial election amid economic crisis. Candidates promise reforms as citizens seek change after protests.
-
-🟩
-
-Brahmanayake, who was in awe of the younger generation, said that I thought I had spent my life fighting all my life.
-
-He said this as he saw the area where he was camping with thousands of demonstrators in Colombo in 2022.
-
-He says he cannot believe that the greenhouse in front of the Presidential Secretariat has been converted into hundreds of demonstrators.
-
-He is a 33 -year -old banker in Sri Lanka, says we are currently more powerful and strong.
-
-Two years ago, a large number of people removed the most hated people of Sri Lanka from power.
-
-At present, voters will be elected president in a few days.
-
-This is the first election after the Arakalaya - the struggle in Sinhala means Arakalaya. Sri Lanka's economic crisis has exploded at 70 %. There was a shortage of food and gas.
-
-Gotabhaya Rajapakse and his government were blamed for this chaos.
-
-...
-
-[Data](articles/13b48ce2.json)
-
-[Extended Data](ext_articles/13b48ce2.ext.json)
-
----
-
-### Reason for the Gotabhaya neck
-
-*2024-09-18 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201149) · `si`
-
-Here's a 200-character summary:
-
-
-
-Gotabhaya Rajapaksa supported Ranil Wickremesinghe as PM due to economic losses during his tenure (2015-2019). He cited $1,350 crore loss from oil/gas issues. This decision was controversial among supporters who felt it compromised his stance on corruption.
-
-🟩
-
-Gotabhaya Rajapaksa had to give the neck to the President that the election candida candidate Anura Kumara Dissanayake said that Ranil Wickremesinghe was in the mistakes of the Prime Minister.
-
-He was speaking at a familiarity held in Melsiripura night yesterday.
-
-"Ranil Wickremesinghe says he's come and gas gas gas. 2015-19 If he didn't come, oil gas would not. $ 1,350 crores lost. Gotabhaya is released. Gotabhaya's sins. Gotabhaya finally gave the crimes. Therefore, we take the country and lose gas, weighing oil, and the powerless. Don't be afraid of no lack of items. Government in compress imports vehicles in short time. Bicycles bring bicycles. There is the desire to develop the country. Therefore, the first time is a major government to build the country. "
-
-◼️
-
-[Data](articles/5cce0ff6.json)
-
-[Extended Data](ext_articles/5cce0ff6.ext.json)
-
----
-
-### McCovia stops the dinner serving after the meeting
-
-*2024-09-18 13:20:55* · [`adalk`](https://www.ada.lk/breaking_news/රැස්වීමෙන්-පසු-රාත්‍රී-භෝජන-සංග්‍රය-මැකො-නවත්වයි/11-411996) · `si`
-
-Nuwara Eliya hotel event halted: Assistant Election Commissioner cancels banquet due to complaint about unauthorized gathering during presidential election campaign.
-
-🟩
-
-The Assistant Election Commissioner has taken steps to stop a banquet organized at a major tourist hotel in Nuwara Eliya.
-
-The Assistant Election Commissioner has taken steps to stop a supposed night banquet by a meeting of the Presidential Election (17) at the Presidential Election.
-
-The meeting was organized for a select group of selected people in the Nuwara Eliya and the organizers had held a night banquet for the participants.
-
-The organizers have advised the organizers to check for the hotel on a complaint (17) to take a meeting to the Elections Commissioner to conduct the night banquet.
-
-The Assistant Election Commissioner of Elections (
-
-◼️
-
-[Data](articles/54d6c2ab.json)
-
-[Extended Data](ext_articles/54d6c2ab.ext.json)
-
----
-
-### Do you give you chances and lose your future?- Ranil
-
-*2024-09-18 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201148) · `si`
-
-Here's a 200-character summary:
-
-
-
-Ranil Wickremesinghe urges public not to risk lives for Kumara Dialaya. He cites 2022 economic crisis, long queues, political instability. Encourages giving chance to resolve issues without losing future.
-
-🟩
-
-Ranil Wickremesinghe urges the public not to risk your life to Kumara Dialaya, providing a time when the crisis.
-
-"Ranil can participate in Minuwangoda today.
-
-"The country was in a mess of 2022. The gas queue, the diesel queue, was on diesel queue. There was no fertilizer, there was no food. The whole economy collapsed, politics collapsed at the time. The Prime Minister and the government resigned. No one accepted the government. Opposition Leader ran. Harsha de Silva publicly said we would not accept this. I could not find Anura Dissanayaka. They didn't understand that you were in your pain, queues, and running.
-
-...
-
-[Data](articles/90d0481b.json)
-
-[Extended Data](ext_articles/90d0481b.ext.json)
-
----
-
-### Tense situation near Examinations Dept. as parents protest
-
-*2024-09-18 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102058/tense-situation-near-examinations-dept-as-parents-protest-) · `en`
-
-A group of parents of students who recently sat for the Grade 5 Scholarship exam staged a protest in front of the Department of Examinations this morning (18) over the proposed decision to disregard three questions in the exam’s first paper during the paper marking process.
-
-The protesters are demanding that the entire Grade 5 Scholarship examination, which was held on September 15, be cancelled instead.
-
-Accordingly, several parents who were engaging in the protest were provided the opportunity to enter the Department of Examination in order to hand over a letter.
-
-Riot police had been called in to remain on standby as the protest had continued for several hours, said Ada Derana reporter.
-
-Parents engaged in the protest are also calling for the resignation of the Commissioner General of Examinations as they claim he has taken the issue lightly.
-
-Meanwhile, several similar protests have been reported in other parts of the country as well.
-
-...
-
-[Data](articles/4b0a4616.json)
-
-[Extended Data](ext_articles/4b0a4616.ext.json)
 
 ---

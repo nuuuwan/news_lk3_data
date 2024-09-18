@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 18:45:25**
+As of **2024-09-18 18:32:33**
 
 ## Newspaper Stats
 
-*Scraped **44,572** Articles*
+*Scraped **44,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,116
+adalk | 4,115
 dailymirrorlk | 4,733
 adaderanalk | 5,245
 tamilmirrorlk | 5,821
@@ -26,31 +26,11 @@ adaderanasinhalalk | 7,633
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,571 (100.0%) of 44,572 articles have been extended.
+44,571 (100.0%) of 44,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
-
-### 2025 නව පාසල් වාරයට පෙර පාසල් නිල ඇඳුම්  සිසුන් අතට
-
-*2024-09-18 18:10:12* · [`adalk`](https://www.ada.lk/breaking_news/2025-නව-පාසල්-වාරයට-පෙර-පාසල්-නිල-ඇඳුම්--සිසුන්-අතට/11-412003) · `si`
-
-2025 නව පාසල් වාරය ආරම්භ කිරීමට පෙර පාසල් නිල ඇඳුම් සිසුන් වෙත ලබා දෙන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් මහතා ප්‍රකාශ කරයි.
-
-චීන රජයේ ප්‍රදානයක් ලෙස සියලුම පාසල් සිසුන් සඳහා මෙම නිල ඇඳුම් ලබාදෙන අතර ඒ අනුව රටට රුපියල් බිලියන 7ක පමණ මුදල් ඉතිරියක් සිදුවෙයි.
-
-අමාත්‍ සුසිල් ප්‍රේමජයන්ත මහතා චීන තානාපති සහ චීන රජයේ අදාළ නිලධාරීන් සමඟ සාකච්ඡා කිරීමේ ප්‍රතිළුලයකට අනුව එම රජය විසින් ප්‍රදානයක් ලෙස 2025 නව පාසල් වාරය වෙනුවෙන් පාසල් ළමුන් ලක්ෂ 43කට අවශ්‍ය නිල ඇඳුම් සහ පිරිවෙන් 825 සඳහා අවශ්‍ය සිවුරු සියල්ල ම ඇසුරුම් කර ලබා දීමට නියමිත ය.
-
-ශ්‍රී ලංකාවට ලැබීමට නියමිත බව මේ වන විටත් චීන රජය විසින් තහවුරු කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය පවසයි.
-
-එමෙන් ම නිල ඇඳුම් තොගය 2025 නව පාසල් වාරය ආරම්භ වන ජනවාරි 20වන දිනට පෙර බෙදාහැරීමට නියමිත ය.
-
-◼️
-
-[Data](articles/14c78ed7.json)
-
----
 
 ### Sajith assured that Rajapaksas were kept
 
@@ -2371,5 +2351,29 @@ Subsequently, Mr. Ilius's name will be removed from the ballot. If he is given a
 [Data](articles/81ff9a02.json)
 
 [Extended Data](ext_articles/81ff9a02.ext.json)
+
+---
+
+### Will be arrested after 12 o'clock
+
+*2024-09-18 07:52:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-மணிக்குப்-பின்-கைது-செய்யப்படுவர்/175-343942) · `ta`
+
+Elections Commission warns illegal campaigning arrests after deadline. Commissioner General states post-propaganda period restrictions on public rallies, advertising, and house-to-house campaigns. Police instructed to take action against violators.
+
+🟩
+
+The Elections Commission has warned that those who are engaged in illegal campaign will be arrested after the deadline, as the propaganda period for the upcoming presidential election ends today (18).
+
+In an interview with the Daily Mirror, the Commissioner General of Elections Saman Sri Ratnayake said, "It is a violation of the election law to propagate or promote any individual or group candidates even after the specified deadline."
+
+According to Ratnayake, strict regulations are in effect to ensure a fair and independent electoral process.
+
+“When the propaganda period is over, public rallies, advertising supplies or home -house campaign will not be allowed. After a certain period of time, the police have been advised to take action against any campaign, ”he added.
+
+◼️
+
+[Data](articles/ad84fb02.json)
+
+[Extended Data](ext_articles/ad84fb02.ext.json)
 
 ---

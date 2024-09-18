@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 14:57:29**
+As of **2024-09-18 15:09:25**
 
 ## Newspaper Stats
 
-*Scraped **44,532** Articles*
+*Scraped **44,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 4,109
 dailymirrorlk | 4,733
 adaderanalk | 5,240
 tamilmirrorlk | 5,816
-virakesarilk | 7,115
+virakesarilk | 7,119
 adaderanasinhalalk | 7,625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,532 (100.0%) of 44,532 articles have been extended.
+44,532 (100.0%) of 44,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### விருப்பு வாக்களிப்பு செயன்முறை தொடர்பில் மக்கள் மத்தியின் பல்வேறு குழப்பங்கள் - வேட்பாளர்களும் புள்ளடி இடுமாறு மாத்திரமே பிரசாரம் செய்வதாக சர்வதேச தேர்தல் கண்காணிப்பாளர்கள் தேர்தல் ஆணைக்குழுவிடம் கரிசனை
+
+*2024-09-18 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194016) · `ta`
+
+விருப்பு வாக்கு அளிக்கும் செயன்முறை தொடர்பில் மக்கள் மத்தியில் பல்வேறு குழப்பங்கள் நிலவுவதாகவும், பெரும்பாலான வேட்பாளர்கள் தமது சின்னத்துக்குப் புள்ளடி இடுமாறு பிரசாரம் செய்துவரும் நிலையில், இது விருப்பு வாக்களிப்பு செயன்முறையில் தாக்கத்தை ஏற்படுத்தும் எனவும் சர்வதேச தேர்தல் கண்காணிப்பாளர்கள் தேர்தல்கள் ஆணைக்குழுவிடம் கரிசனை வெளியிட்டுள்ளனர்.
+
+நாட்டின் ஒன்பதாவது ஜனாதிபதித்தேர்தல் எதிர்வரும் 21 ஆம் திகதி நடைபெறவுள்ள நிலையில், தேர்தல் கண்காணிப்புப்பணிகளை முன்னெடுப்பதற்காக வழமைபோன்று இம்முறையும் ஐரோப்பிய ஒன்றியம், பொதுநலவாய அமைப்பு, சுயாதீன தேர்தல்களுக்கான ஆசிய வலையமைப்பு உள்ளடங்கலாக சர்வதேச நாடுகள் மற்றும் அமைப்புக்களின் தேர்தல் கண்காணிப்பாளர்களுக்கு தேர்தல்கள் ஆணைக்குழுவினால் உத்தியோகபூர்வமாக அழைப்புவிடுக்கப்பட்டது. அதற்கமைய நாட்டுக்கு வருகைதந்திருக்கும் அவர்கள், ஒன்பது மாகாணங்களிலும் பரந்துபட்ட முறையில் தமது தேர்தல் கண்காணிப்புப்பணிகளை முன்னெடுத்துவருகின்றனர்.
+
+...
+
+[Data](articles/4ce4c4db.json)
+
+---
 
 ### Namal says that new rules are being transferred to the parties
 
@@ -139,6 +153,28 @@ The presidential candidate Sajith Premadasa, Sagith Premadasa, says that the wea
 [Data](articles/f489d350.json)
 
 [Extended Data](ext_articles/f489d350.ext.json)
+
+---
+
+### இன்னமும் நெருக்கடியிலிருந்து மீளாத இலங்கை மிக முக்கியமான தேர்தலை எதிர்கொள்கின்றது - பிபிசி
+
+*2024-09-18 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194014) · `ta`
+
+நான் எனது வாழ்க்கை முழுவதும் போராடுவதிலேயே செலவழித்தேன் என நினைத்தேன் ஆனால் இளம் தலைமுறை அற்புதமான விடயத்தை செய்தது என தெரிவிக்கின்றார் சமதி பிரமித்த பிரஹ்மநாயக்க.
+
+2022 இல்  கொழும்பில் ஆயிரக்கணக்கான  ஆர்ப்பாட்டக்காரர்களுடன் தான் முகாமிட்டிருந்த பகுதியை பார்த்தவாறு அவர் இதனை தெரிவிக்கின்றார்.
+
+ஜனாதிபதி செயலகத்திற்கு முன்னால் உள்ள பசுமையான புற்றரை நூற்றுக்கணக்கான ஆர்ப்பாட்டக்காரர்களின் கூடாரங்களாக மாற்றப்பட்டிருந்தது என்பதை தன்னால் நம்பமுடியவில்லை என அவர் தெரிவிக்கின்றார்.
+
+நாங்கள் தற்போது அதிகளவு சக்திவாய்ந்தவர்களாக அதிகளவு வலுவானவர்களாக உள்ளோம் என்கின்றார் இலங்கையின் 33 வயது வங்கியாளரான அவர்.
+
+இரண்டு வருடத்திற்கு முன்னர் பெருமளவு மக்கள் இலங்கையின் மிகவும் வெறுக்கப்பட்ட மக்கள் ஆதரவற்ற தலைவரை அதிகாரத்திலிருந்து அகற்றினார்கள்.
+
+தற்போது வாக்காளர்கள் இன்னும் சில நாட்களில் யார் ஜனாதிபதியாகவேண்டும் என்பதை தெரிவு செய்யவுள்ளனர்.
+
+...
+
+[Data](articles/13b48ce2.json)
 
 ---
 
@@ -264,6 +300,26 @@ He argued that if this program had been implemented at that time, the country wo
 
 ---
 
+### பொது வேட்பாளரை பலப்படுத்துவதே தமிழர்களின் ஒரேயொரு வழி - யாழ். பல்கலைக்கழக சமூகம்
+
+*2024-09-18 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194007) · `ta`
+
+தமிழ்ப்பொது வேட்பாளர் எண்ணக்கருவினை பலப்படுத்துவதே தமிழ் மக்களிற்கு முன்னால் உள்ள ஒரேயொரு வழி என யாழ்ப்பாண பல்கலைக்கழக சமூகத்தினர் தெரிவித்துள்ளனர்.
+
+யாழ். பல்கலைக்கழகத்தில் நேற்று  செவ்வாய்க்கிழமை (17) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தனர்.
+
+தமிழ் மக்கள் 2009 ஆம் ஆண்டுக்கு பின்னரான 15 ஆண்டுகளில் தமிழ் மக்கள் தேசமாக பிரதிநிதித்துவப்படுத்துவதிலிருந்து எழுச்சியடைவதிலிருந்தும் சிங்கள - பௌத்த பேரினவாதம் ஏறக்குறைய வெற்றியடைந்துள்ளது.
+
+இந்நிலையில், தமிழ் மக்கள் சாதிகளாக, மதங்களாக, பிரதேசங்களாக பிரிந்து நிற்பதுடன் தமிழ் மக்களையும் தமிழ் அரசியற்கட்சிகளையும் உதிரிகளாக்கி எங்களின் கூட்டு - மனவலுவைத் தகர்த்தெறிவதில் சிறிலங்கா அரசின் முகவர்களும் அவர்களது அமைப்புக்களும் கனக்கச்சிதமாக செய்து முடித்துள்ளன.
+
+இவ்வாறான சூழ்நிலைகளில் தமிழ் அரசியல் தரப்புக்கள் ஏற்ற உத்தரவாதங்களோ வாக்குறுதிகளோ இன்றி சிங்கள வேட்பாளர்களிடம் தமிழ் மக்களின் அரசியல் வாக்குகளை அடகு வைக்கும் செயல்களில் ஈடுபட்டு வருவதனை பல்கலைக்கழகச் சமூகத்தினர் கடுமையாக விமர்சித்திருந்தனர்.
+
+...
+
+[Data](articles/5754c97a.json)
+
+---
+
 ### Wikipedia deleted female doctor's details
 
 *2024-09-18 12:40:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-மருத்துவரின்-விபரங்களை-நீக்கியது-விக்கிப்பீடியா/175-343954) · `ta`
@@ -313,6 +369,18 @@ Angelo Mathews scored 12 runs while a disorder left the field.
 [Data](articles/ab7e45a9.json)
 
 [Extended Data](ext_articles/ab7e45a9.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-09-18 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194004) · `ta`
+
+இன்று புதன்கிழமை  (18) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 297.7271 ரூபாவாகவும் விற்பனை விலை 307.0166 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/44a347fc.json)
 
 ---
 
@@ -2225,99 +2293,5 @@ A challenge to note in the presence of the new government that requires a long -
 [Data](articles/29f24a45.json)
 
 [Extended Data](ext_articles/29f24a45.ext.json)
-
----
-
-### Sri Lanka’s next leader: can make or break the nation
-
-*2024-09-18 02:03:38* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-next-leader-can-make-or-break-the-nation/4-766815) · `en`
-
-As Sri Lanka prepares for its upcoming Presidential election, the stakes have never been higher. In 2022, the country faced an unprecedented economic crisis that brought the nation to a standstill, marked by fuel shortages, soaring inflation, and widespread protests. Since then, the country has taken steps toward stabilising the economy, but much remains to be done. This election is not just about choosing a leader but about securing the nation’s future and ensuring continued recovery from the devastating economic collapse.
-
-The road to recovery has been difficult, but significant progress has been made since 2022, largely supported by the International Monetary Fund (IMF) program. However, Sri Lanka remains vulnerable, and the next president must navigate the country through this challenging period with a steady hand. Voters, therefore, must consider candidates who possess the qualities necessary to complete the recovery process and set the nation on a path to sustainable growth.
-
-...
-
-[Data](articles/c4e49f0a.json)
-
-[Extended Data](ext_articles/c4e49f0a.ext.json)
-
----
-
-### Woe Of New President Is Not Just Taking Baby Across Coir Suspension Bridge But Complying With Binding Targets Of ETA
-
-*2024-09-18 01:59:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/woe-of-new-president-is-not-just-taking-baby-across-coir-suspension-bridge-but-complying-with-binding-targets-of-eta/) · `en`
-
-Sri Lankans are to elect a new President on 21 September 2024 to rule the country for the next five years. Whether it is the confirmation of the incumbent interim President Ranil Wickremesinghe in the post or the election of one of the two frontrunners to presidency, it is the economy stupid that the new President should tackle immediately. That is because the economy is not stable as claimed by the incumbent President in his election campaign.
-
-Ranil’s aphorism about Grusha of The Caucasian Chalk Circle crossing a suspension bridge
-
-...
-
-[Data](articles/2c2fa53e.json)
-
-[Extended Data](ext_articles/2c2fa53e.ext.json)
-
----
-
-### China confident bilateral relations with Sri Lanka will have brighter future
-
-*2024-09-18 01:57:33* · [`dailyftlk`](https://www.ft.lk/opinion/China-confident-bilateral-relations-with-Sri-Lanka-will-have-brighter-future/14-766814) · `en`
-
-The next five years will be significant for China, as the session has explicitly requested that “The reform tasks laid out in this resolution shall be completed by the time the People’s Republic of China celebrates its 80th anniversary in 2029”. Sri Lanka is also entering a pivotal five-year period with the Presidential election scheduled for this year. Both countries are at a new starting point, which heralds greater opportunities for cooperation
-
-Following are remarks by Ambassador Qi Zhenhong at a meeting with media journalists in Port City Colombo on 12 September
-
-...
-
-[Data](articles/779e4a61.json)
-
-[Extended Data](ext_articles/779e4a61.ext.json)
-
----
-
-### Presidential Election 2024: Is the new President to be reinterested?
-
-*2024-09-18 01:54:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgrg7g5zwko) · `si`
-
-Sri Lanka Presidential Election 2024 summary:
-
-
-
-New president faces major challenges including economic instability, high inflation, and potential bankruptcy. Key issues include:
-
-
-
-1. Managing IMF loan terms (up to 2027)
-
-2. Increasing tax revenue while avoiding excessive burden on citizens
-
-3. Reducing cost of living and addressing poverty
-
-4. Maintaining political stability and preventing mass migration
-
-
-
-Experts warn of potential unrest if economic issues persist. Candidates must balance promises with realistic solutions to address critical national problems.
-
-🟩
-
-Presidential Election 2024: Is the new President to be reinterested?
-
-The next 5 years of the country will be able to find out if the president will win the President on September 22.
-
-This presidential election is special because this is the first presidential election that Gotabhaya Rajapaksa is appointed by the President after weaken the President of the President after weaken the President of the President.
-
-In 2022, the people faced oil poles and daily power cuts, and the service and the economy were severely collapsed. The President will be the main responsibility to the President who is appointed by the next presidential election.
-
-The next President will be the key to the President to create political stability to create economic stability.
-
-Some are afraid that if the current economic program is excluded, he will face reinstatement prices or power cuts. Is there any truth?
-
-...
-
-[Data](articles/07cd2460.json)
-
-[Extended Data](ext_articles/07cd2460.ext.json)
 
 ---

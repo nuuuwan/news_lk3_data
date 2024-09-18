@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 12:56:44**
+As of **2024-09-18 13:07:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,506 (100.0%) of 44,516 articles have been extended.
+44,511 (100.0%) of 44,516 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,17 +80,23 @@ You have austerity package in Sri Lanka as a result of the agreement between Pre
 
 ---
 
-### නොදැවුනත් ඇන්ජලෝ පිටියෙන් ඉවත් වුණු හේතුව මෙන්න
+### Here is the reason why anglo left
 
 *2024-09-18 11:57:04* · [`adalk`](https://www.ada.lk/sports/නොදැවුනත්-ඇන්ජලෝ-පිටියෙන්-ඉවත්-වුණු-හේතුව-මෙන්න/9-411991) · `si`
 
-සංචාරක නවසීලන්තයට සහ ශ්‍රී ලංකාව අතර පළමු ටෙස්ට් ක්‍රිකට් තරගය මේ වන විට ගාල්ල ජාත්‍යන්තර ක්‍රීඩාංගනයේදී පැවැත්වේ.
+Angelo Mathews left the field after a ball from William Oook hit his hands during the first Test match between New Zealand and Sri Lanka at Galle International Stadium.
 
-මෙහිදී විලියම් ඕ රුක් යැවූ පන්දුවක් ඇන්ජලෝ මැතිව්ස්ගේ අත් ආවරණයේ වැදීමෙන් සිදු වූ ආබාධයක් හේතුවෙන් ඔහු පිටියෙන් ඉවත් වීමට කටයුතු කළේය.
+🟩
+
+The first Test match between New Zealand and Sri Lanka will be held at the Galle International Stadium.
+
+A ball sent by William Oook took action to leave the flock due to a disorder of Angelo Mathews's hands.
 
 ◼️
 
 [Data](articles/e26fa056.json)
+
+[Extended Data](ext_articles/e26fa056.ext.json)
 
 ---
 
@@ -126,35 +132,59 @@ The Department of Examinations had conducted an accelerated investigation into t
 
 ---
 
-### அமைச்சர் ஜீவன் தொண்டமானின் தலைமையில் "மலையக சாசனம்" வெளியீடு
+### The release of the "Upcountry Charter" headed by Minister Jeevan Thondaman
 
 *2024-09-18 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193995) · `ta`
 
-இலங்கை நாட்டில்  பொருளாதார, சமூக மற்றும் கலாச்சார கட்டமைப்பில் பெருந்தோட்ட சமூகம் முக்கிய பங்கை தொடர்ந்து வகித்து வருகிறது இந்திய வம்சாவளி தமிழ் (மலையக தமிழர்) பெருந்தோட்ட சமூகம் இலங்கைக்கு வருகை தந்து 200 வது ஆண்டு நிறைவை கௌரவிக்கும் முகமாக "மலையக சாசனம்" வெளியீடு  உத்தியோகபூர்வமாக செவ்வாய்க்கிழமை (17) மாலை நீர் வழங்கள் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சரும், இ.தொ.கா பொதுச் செயலாளருமான ஜீவன் தொண்டமானின் தலைமையில் நுவரெலியாவில் தனியார் ஹோட்டல் ஒன்றில்  நடைபெற்றது.
+Here's a summary of 200 characters:
 
-இதன் போது அமைச்சர் ஜீவன் தொண்டமான் வரவேற்புரை ஆற்றியதுடன், கொள்கை மாற்றுகள்  மையத்தின் ஸ்தாபக நிறைவேற்றுப் பணிப்பாளர் கலாநிதி பாக்கியசோதி சரவணமுத்து சிறப்பு உரையினை ஆற்றினார்.
+
+
+"Upcountry Charter" released by Minister Jeevan Thondaman focuses on improving lives of plantation communities in Sri Lanka. Key features discussed at event attended by intellectuals, legal experts, and government officials.
+
+🟩
+
+The Plantation Society continues to play an important role in the economic, social and cultural structure of Sri Lanka.Development Minister and CWC general secretary Jeevan Thondaman was held at a private hotel in Nuwara Eliya.
+
+Minister Jeevan Thondaman delivered a special speech by Dr. Bhagyasothi Saravanamuttu, Founder of the Founder of the Policy Change Center.
+
+In this charter, the Life of the Plantation Communities should be the life of the plantation community, but the government represents the basic document of the Sri Lankan government's program and the dedicated document for the Sri Lankan government's program and the dedicated dedication to the mountain plantation community.
+
+The event was attended by intellectuals, lawyers, professors, principals, teachers, civil organizations, traders, industry enthusiasts, departmental experts, ministry officials and many others.
 
 ...
 
 [Data](articles/49450560.json)
 
+[Extended Data](ext_articles/49450560.ext.json)
+
 ---
 
-### මන්ත්‍රි වසන්ත යාපාට කාන්තාවකගෙන් තර්ජන
+### MP Wasantha Yapa threatened with a woman
 
 *2024-09-18 11:40:56* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රි-වසන්ත-යාපාට-කාන්තාවකගෙන්-තර්ජන/11-411990) · `si`
 
-මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතාට ජංගම දුරකථන අංක දෙකක් භාවිතා කරමින් බැණ තර්ජනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් ඔහු විසින් මහනුවර මූලස්ථාන පොලිසියට සිදු කරන ලද පැමිණිල්ලකට අනුව පොලිස් විමර්ශන ආරම්භ වී තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ මහතාට අද (18) අලුයම 12.30 සිට එම තර්ජනාත්මක දුරකථන ඇමතුම් ලැබුණ බවත් එය ලබා දුන් දුරකථන අංක දෙක ද සමඟ පැමිණිලි කොට තිබේ.
 
-එම තර්ජනාත්මක දුරකථන ඇමතුම් ලබා දෙනු ලැබූයේ කාන්තාවක් විසින් බවද පැමිණිල්ලේ සඳහන්ය.
 
-මහනුවර කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි අනුරුද්ධ බණ්ඩාරනායක මහතාගේ උපදෙස් පරිදි මූලස්ථාන භාර ප්‍රධාන පොලිස් පරීක්ෂක රසික සම්පත් මහතාගේ මෙහෙයවීම යටතේ සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කෙරේ .
+MP Wasantha Yapa Bandara received threatening phone calls from a woman. The Kandy Headquarters Police launched an investigation based on his complaint. The police inspector in charge will lead further inquiries.
+
+🟩
+
+Police investigations have commenced following a complaint lodged by the Kandy Headquarters Police regarding the Kandy Headquarters Police regarding the Kandy District Parliamentarian Wasantha Yapa Bandara.
+
+He had received the threatening telephone calls from 12.30 am today (18) and has been lodged with the two telephone numbers provided.
+
+The complaint states that the threatening phone calls were made by a woman.
+
+The headquarters of Headquarters is further investigations into the leading Inspector of Police (Senani Bandaranaike) in charge of Kandy.
 
 ◼️
 
 [Data](articles/2e515479.json)
+
+[Extended Data](ext_articles/2e515479.ext.json)
 
 ---
 
@@ -214,21 +244,27 @@ ECONOMYNEXT — There is substantially more support for the ruling Sri Lanka Pod
 
 ---
 
-### ஜனாதிபதி செய்கின்ற அனைத்தும் இன்று வெளியாகிக் கொண்டிருக்கிறது - சஜித் பிரேமதாச
+### Everything that the president does is released today - Sajith Premadasa
 
 *2024-09-18 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/193992) · `ta`
 
-அநுர குமார மற்றும் ரணில் விக்கிரமசிங்க ஆகியோர் ஜோடியாக இணைந்து அரசியல் திருமணம் செய்து கொண்டு இந்த நாட்களில் தேனிலவு கொண்டாடிக் கொண்டிருக்கின்றார்கள். இவர்களின் தேனிலவு கொண்டாட்டம் 21 ஆம் திகதியோடு நிறைவடைகின்றது. இந்த நாட்டு மக்களை வாழவைக்கின்ற பயணம் 21 ஆம் திகதியோடு ஆரம்பமாகின்றது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa: President's actions revealed daily. Anura Kumara Ranil Wickremesinghe in political marriage. 66th UPFA victory rally successful in Kegalle. Criticizes government over scholarship exam issues. Promises protection for SMEs, private sector workers, farmers, and youth. Targets 220 lakh votes for United People's Power on September 21st.
 
-2024 ஆம் ஆண்டு ஜனாதிபதி தேர்தலை முன்னிட்டு ஐக்கிய மக்கள் கூட்டணி ஏற்பாடு செய்த 66 ஆவது வெற்றி பேரணி  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் நேற்று செவ்வாய்க்கிழமை  (17)
+🟩
 
-கேகாலையில் மிக வெற்றிகரமாக முன்னெடுக்கப்பட்டது. இதில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு தெரிவித்தார்.
+Anura Kumara and Ranil Wickremesinghe are married to political marriage and are celebrating honeymoon in these days. Their honeymoon celebration ends on the 21st. Opposition Leader Sajith Premadasa said the journey to live the people of this country begins on the 21st.
 
-அநுர ரணில் டீல் செய்து கொண்டு தன்னை தோல்வியடைய செய்ய முயற்சிக்கின்றனர். தாம் இந்த நாட்டிற்கு சேவை செய்வேன் என்று அவர்கள் அச்சம் கொண்டுள்ளார்கள் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The 66th victory rally organized by the United People's Alliance (UPFA) ahead of the 2024 presidential election, led by Opposition Leader Sajith Premadasa on Tuesday (17)
+
+Was the most successfully carried out in Kegalle. The Opposition Leader said this while participating in the event.
+
+They are trying to make himself fail by doing the Deal of Anura Ranil. The opposition leader said they were afraid that they would serve the country.
 
 ...
 
 [Data](articles/df8f53ef.json)
+
+[Extended Data](ext_articles/df8f53ef.ext.json)
 
 ---
 
@@ -250,21 +286,33 @@ He also emphasized his plans for the IT industry, saying, “Currently, the expo
 
 ---
 
-### සජිත්ගේ හා අනුරගේ දේශපාලන බිල්ලක් වී අනාගතය අඳුරු කර ගන්න එපා
+### Don't darken the future of Sajith and Anura
 
 *2024-09-18 11:15:04* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-හා-අනුරගේ-දේශපාලන-බිල්ලක්-වී-අනාගතය-අඳුරු-කර-ගන්න-එපා/11-411989) · `si`
 
-ඉදිරි වසර 10 තුළ සෑම දරුවෙකුටම ඉංග්‍රීසි භාෂාවේ ප්‍රවීනත්වයක් ලබා ගැනීමට අවශ්‍ය ප්‍රවේශය සකස් කරන බවත් ඒ වෙනුවෙන්  " English for all" වැඩසටහන ක්‍රියාවට නංවන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසිය.
+Here's a summary in 200 characters:
 
-මෙම යෝජනාව  තමා අධ්‍යාපන අමාත්‍යවරයා ලෙස  එදාද අධ්‍යාපන ධවල පත්‍රිකාව මගින් ගෙන ආ අවස්ථාවේ ජනතා විමුක්ති පෙරමුණ ඊට විරුද්ධව පාරට බැස්ස බව සිහිපත් කළ ජනාධිපතිවරයා එදා එම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට හැකි වුවා නම් අද ඉංග්‍රිසි භාෂාව පිළිබඳ ගැටළුවක් රට තුළ නිර්මාණය නොවන බවද පෙන්වා දුන්නේය.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳන් කර සිටියේ ඊයේ (17) මල්වාන ජනතාව සමඟ පැවති හමුවෙන් අනතුරුව ඉංග්‍රීසි භාෂාව පිළිබඳ දැනුමක් නොතිබීම හේතුවෙන් තරුණ තරුණියන් මුහුණ දෙන ගැටළුවලට රජයේ විසදුම කුමක්ද කියා
 
-Gen Z පරපුරට හොඳ අනාගතයක් නිර්මාණය කර දීම තම අරමුණ බව පැවසු ජනාධිපතිවරයා සැලසුම් නොමැති බොරු පොරොන්දුවලට සීමා වූ  සජිත්ගේ සහ අනුරගේ දේශපාලන අවශ්‍යතාවල බිල්ලක් නොවන ලෙසද තරුණ තරුණියන්ගෙන් ඉල්ලා
+President Wickremesinghe addresses Malwana youth, urging them not to support Sajith and Anura. He emphasizes economic development, IMF support, and warns against tax deductions that could jeopardize this support.
+
+🟩
+
+President Ranil Wickremesinghe said that every child needs access to the English language to every child in the next 10 years.
+
+The President said that the proposal was brought to the South of Education as the Minister of Education as the Minister of Education, he said that if the JVP was able to operate the program, it was not created in the country today.
+
+President Ranil Wickremesinghe has paid this statement after the Malwana people with the Malwana yesterday (17), the government's solution to the problems faced by the youth.
+
+The President requests the youths not to worry about the political needs of Sajith and Anura, who is not a good future for the Gen Z12
+
+When I was contesting the presidential election, I consider it customary to come to the seat, which I represented the mulch and meet the people of Malwana. The people of the Malawana gave me great support to me every time. Malwana is a small town at that time.
 
 ...
 
 [Data](articles/5da1f5ac.json)
+
+[Extended Data](ext_articles/5da1f5ac.ext.json)
 
 ---
 

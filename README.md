@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 18:58:20**
+As of **2024-09-18 19:10:17**
 
 ## Newspaper Stats
 
-*Scraped **44,573** Articles*
+*Scraped **44,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,84 @@ economynextcom | 2,694
 dailyftlk | 2,962
 adalk | 4,116
 dailymirrorlk | 4,733
-adaderanalk | 5,245
+adaderanalk | 5,246
 tamilmirrorlk | 5,822
 virakesarilk | 7,128
-adaderanasinhalalk | 7,633
+adaderanasinhalalk | 7,634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,572 (100.0%) of 44,573 articles have been extended.
+44,573 (100.0%) of 44,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
 
-### தேர்தலன்று விசேட ரயில் சேவைகள்
+### Train services to operate normally on Election Day
+
+*2024-09-18 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102064/train-services-to-operate-normally-on-election-day) · `en`
+
+The Deputy General Manager of Railways, Nandana Idipolage stated that the normal train schedule for Saturdays will be implemented on the day of the Presidential Election (Sept. 21).
+
+Responding to a query from Ada Derana, he further stated that long-distance trains will be operated on Sunday (22) and that there could be a certain decrease in short-distance train journeys.
+
+Meanwhile, the Department of Railways has taken steps to operate a special train to between Colombo Fort and Kankesanturai for government officials and security personnel engaging in election duties.
+
+◼️
+
+[Data](articles/dfe5eb67.json)
+
+---
+
+### Special train services
 
 *2024-09-18 18:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலன்று-விசேட-ரயில்-சேவைகள்/175-343968) · `ta`
 
-ஜனாதிபதித் தேர்தல் கடமைகளில் ஈடுபடும் அரச ஊழியர்கள் மற்றும் பாதுகாப்பு அதிகாரிகளுக்கு வசதியாக கொழும்பு கோட்டைக்கும் காங்கேசன்துறைக்கும் (KKS) இடையில் தேர்தல் தினத்தன்று விசேட ரயில் சேவைகள் ஏற்பாடு செய்யப்பட்டுள்ளன.
+Here's a 200-character summary:
 
-ஞாயிற்றுக்கிழமை (22) நீண்ட தூர புகையிரத சேவைகள் இடம்பெறும் எனினும் குறுகிய தூர புகையிரதங்களின் எண்ணிக்கையில் சில குறைப்புகள் ஏற்படக்கூடும் என திணைக்களம் தெரிவித்துள்ளது.
+
+
+"Extra train services run from Colombo Fort to Kankesanthurai for presidential election duties. Short-range trains may operate on Sunday."
+
+🟩
+
+Special train services have been arranged between Colombo Fort and Kankesanthurai (KKS) to facilitate the presidential election duties.
+
+The department said that the number of short -range train services may occur on Sunday (22).
 
 ◼️
 
 [Data](articles/70eafa35.json)
+
+[Extended Data](ext_articles/70eafa35.ext.json)
+
+---
+
+### හිස්බුල්ලා සටන්කාමීන්ව බියවැද්දූ පේජර් ප්‍රහාරය
+
+*2024-09-18 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201162) · `si`
+
+ලෙබනනයේ හිස්බුල්ලා සටන්කාමීන් ඉලක්ක කර එල්ලකළ පේජර් ප්‍රහාරය සම්බන්ධයෙන් තව තවත් තොරතුරු හෙළිවෙමින් තිබේ.
+
+ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේ එම ප්‍රහාරයෙන් 12 දෙනෙක් මියගොස් ඇති බවයි.
+
+දැනට හෙළිවී ඇති තොරතුරු අනුව ඊශ්‍රායලයේ මොසාඩ් රහස් ඔත්තු සංවිධානය විසින් හිස්බුල්ලා සාමාජිකයින් යොදාගන්නා පේජර් සඳහා පුපුරණ ද්‍රව්‍ය අටවා ඇති බව හෙළිවිය.
+
+හිස්බුල්ලා සාමාජිකයින් ට ජංගම දුරකථන භාවිතය මීට මාස කිහිපයකට පෙර තහනම් කළ අතර ඒ වෙනුවට තොරතුරු හුවමාරුව සඳහා පේජර් භාවිත කිරීමට පියවර ගැනුණි.
+
+මෙම ප්‍රශ්නගත පේජර් මෑතකදී මිලදී ගෙන තිබූ අතර හිස්බුල්ලා සංවිධානය, ඊශ්‍රායල සැලැස්ම දැනගනී යැයි අනුමාන කර සැලසුම් කළ දිනට පෙර ඒවා පුපුරුවා ඇති බව සඳහන් ය.
+
+පුපුරා ගොස් තිබූ පේජර් වල සන්නාමය තායිවාන සමාගමක් වන Gold Apollo ලෙස සඳහන් වුවද එම සමාගම එම චෝදනාව ප්‍රතික්ෂේප කරයි.
+
+ඔවුන් පවසන්නේ අදාළ පේජර් නිෂ්පාදනය කර ඇත්තේ හංගේරියානු සමාගමක් බවයි.
+
+එම පිපිරීම් වලින් බොහෝ දෙනෙකුගේ ඇස් වලට සහ අත් පා වලට හානිවී තිබුණි.
+
+...
+
+[Data](articles/27d3669f.json)
 
 ---
 
@@ -2323,51 +2375,5 @@ The Election Commission has issued a statement regarding the holidays to ease vo
 [Data](articles/625037ed.json)
 
 [Extended Data](ext_articles/625037ed.ext.json)
-
----
-
-### Notice for those who are not available voter card
-
-*2024-09-18 08:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-கிடைக்காதவர்களுக்கான-அறிவிப்பு/175-343944) · `ta`
-
-Here's a summary of the notice in 200 characters:
-
-
-
-"Those without voter cards: Deputy Chancellor Rajitha Ranasinghe advises to visit local post office now until election day. Official distribution began on March 3, completed about 97%."
-
-🟩
-
-Deputy Chancellor Rajitha Ranasinghe said that those who have not yet received official voter cards can go to the post office in their area from today (18) to the day of the election.
-
-Deputy Chief Minister Rajitha Ranasinghe said that the official voter card distribution of the official voter card, which commenced on the 3rd of last month, has been distributed about 97 percent.. Remble
-
-◼️
-
-[Data](articles/07cb39ec.json)
-
-[Extended Data](ext_articles/07cb39ec.ext.json)
-
----
-
-### What are the votes cast for the deceased?
-
-*2024-09-18 08:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவருக்கு-அளிக்கப்படும்-வாக்குகள்-என்னவாகும்/175-343943) · `ta`
-
-Elections Commission rejects votes for deceased presidential candidate Idrus Mohamed Iliyas. His nomination was for September 21, 2024. Ballot removal and invalidation of votes per Section 22(1)(B) of Presidential Election Act No. 15 of 1981.
-
-🟩
-
-The late presidential candidate on August 22. The Elections Commission has announced that all the votes cast by Idrus Mohamed Iliyas will be rejected.
-
-Illiyas nominated for the presidential election on September 21, 2024. Despite the possibility of appointing a person instead of him within three days, his candidate. K.MN. Sanjaya failed to do it
-
-Subsequently, Mr. Ilius's name will be removed from the ballot. If he is given any votes, they will be deemed to be invalid and rejected. According to Section 22 (1) (B) of the Presidential Election Act No. 15 of 1981, the Elections Commission issued a clear instructions on this issue.
-
-◼️
-
-[Data](articles/23f6ae84.json)
-
-[Extended Data](ext_articles/23f6ae84.ext.json)
 
 ---

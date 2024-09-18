@@ -1,36 +1,164 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 08:19:55**
+As of **2024-09-18 08:41:56**
 
 ## Newspaper Stats
 
-*Scraped **44,452** Articles*
+*Scraped **44,465** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 428
-colombotelegraphcom | 442
+bbccomsinhala | 429
+colombotelegraphcom | 443
 islandlk | 2,621
 economynextcom | 2,688
 dailyftlk | 2,961
 adalk | 4,098
 dailymirrorlk | 4,733
-adaderanalk | 5,229
-tamilmirrorlk | 5,801
+adaderanalk | 5,232
+tamilmirrorlk | 5,808
 virakesarilk | 7,101
-adaderanasinhalalk | 7,609
+adaderanasinhalalk | 7,610
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,452 (100.0%) of 44,452 articles have been extended.
+44,456 (100.0%) of 44,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Trains delayed on Kelani Valley line
+
+*2024-09-18 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102050/trains-delayed-on-kelani-valley-line-) · `en`
+
+Train services on the Kelani Valley line will experience delays due to the derailment of a track maintenance compartment near Kirulapone, according to Sri Lanka Railways.
+
+◼️
+
+[Data](articles/d2521cad.json)
+
+---
+
+### Derailment of Kelani Vilini Railway Line
+
+*2024-09-18 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201136) · `si`
+
+Train services halted due to railway line derailment at Kelani Vilini.
+
+🟩
+
+It is reported that the train services will be held due to a derailment.
+
+◼️
+
+[Data](articles/ce6d3b3b.json)
+
+[Extended Data](ext_articles/ce6d3b3b.ext.json)
+
+---
+
+### வாக்களிப்பதை இலகுபடுத்தும் விளக்கம்
+
+*2024-09-18 08:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பதை-இலகுபடுத்தும்-விளக்கம்/175-343945) · `ta`
+
+பல்கலைக்கழகங்களின் பணியாட்குழுவினருக்கும் மாணவ, மாணவிகளுக்கும் வாக்களிப்பதை இலகுபடுத்தும் வகையில் விடுமுறை வழங்குதல் தொடர்பாக தேர்தல் ஆணைக்குழு வெளியிட்ட அறிக்கை...
+
+◼️
+
+[Data](articles/625037ed.json)
+
+---
+
+### வாக்காளர் அட்டை கிடைக்காதவர்களுக்கான அறிவிப்பு
+
+*2024-09-18 08:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-கிடைக்காதவர்களுக்கான-அறிவிப்பு/175-343944) · `ta`
+
+இதுவரை உத்தியோகபூர்வ வாக்காளர் அட்டைகள் கிடைக்கப்பெறாதவர்கள், இன்று (18) முதல் தேர்தல் நடைபெறும் தினம் வரை தமது பிரதேசத்திலுள்ள தபால் நிலையத்திற்குச் சென்று வாக்காளர் அட்டைகளைப் பெற்றுக் கொள்ள முடியும் என பிரதி தபால்மா அதிபர் ராஜித ரணசிங்க தெரிவித்தார்.
+
+கடந்த 3ஆம் திகதி ஆரம்பமான உத்தியோகபூர்வ வாக்காளர் அட்டை விநியோகம் 14ஆம் திகதி நிறைவடைந்த நிலையில், சுமார் 97 வீதமானவை விநியோகிக்கப்பட்டுள்ளதாக பிரதி தபால்மா அதிபர் ராஜித ரணசிங்க குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/07cb39ec.json)
+
+---
+
+### உயிரிழந்தவருக்கு அளிக்கப்டும் வாக்குகள் என்னவாகும்?
+
+*2024-09-18 08:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவருக்கு-அளிக்கப்டும்-வாக்குகள்-என்னவாகும்/175-343943) · `ta`
+
+ஒகஸ்ட் 22ஆம் திகதி காலமான, மறைந்த ஜனாதிபதி வேட்பாளர் திரு. இட்றுஸ் மொஹமட் இல்லியாஸ் அவர்களுக்கு அளிக்கப்படும் வாக்குகள் அனைத்தும் நிராகரிக்கப்படும் என தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+செப்டம்பர் 21, 2024 அன்று நடைபெறவிருக்கும் ஜனாதிபதித் தேர்தலுக்கு இல்லியாஸ் வேட்புமனுத்தாக்கல் செய்தார். அவர் இல்லாத பட்சத்தில் மூன்று நாட்களுக்குள் அவருக்குப் பதிலாக ஒருவரை நியமிக்க வாய்ப்பு இருந்தபோதிலும், அவரது வேட்பாளர் திரு. கே.எம்.என். சஞ்சய அதை செய்யத் தவறினார்
+
+இதனையடுத்து, வாக்குச் சீட்டில் இருந்து திரு.இலியாஸின் பெயர் நீக்கப்படும். அவருக்கு ஏதேனும் வாக்குகள் அளிக்கப்பட்டால், அவை செல்லாததாகக் கருதப்பட்டு நிராகரிக்கப்படும். 1981 ஆம் ஆண்டின் 15 ஆம் இலக்க ஜனாதிபதி தேர்தல் சட்டத்தின் உப பிரிவு 22(1)(b) இன் படி தேர்தல்கள் ஆணைக்குழு இந்த விடயம் தொடர்பாக தெளிவான அறிவுறுத்தல்களை வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/81ff9a02.json)
+
+---
+
+### 12 மணிக்குப் பின் கைது செய்யப்படுவர்
+
+*2024-09-18 07:52:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-மணிக்குப்-பின்-கைது-செய்யப்படுவர்/175-343942) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான பிரசாரக் காலம் இன்று (18) நள்ளிரவுடன் முடிவடையவுள்ள நிலையில், குறித்த காலக்கெடுவிற்குப் பின்னர் சட்டவிரோத பிரச்சாரத்தில் ஈடுபடுவோர் கைது செய்யப்பட்டு சட்ட நடவடிக்கை எடுக்கப்படும் என தேர்தல்கள் ஆணைக்குழு எச்சரித்துள்ளது.
+
+டெய்லி மிரருக்குப் பேட்டியளித்த தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க, “குறிப்பிட்ட காலக்கெடுவிற்குப் பின்னரும் எந்தவொரு தனிநபரோ அல்லது குழுவோ வேட்பாளர்களை பிரச்சாரம் செய்வது அல்லது ஊக்குவிப்பது தேர்தல் சட்டத்தை மீறும் செயலாகும்” என்றார்.
+
+ரத்நாயக்கவின் கூற்றுப்படி, நியாயமான மற்றும் சுதந்திரமான தேர்தல் நடைமுறையை உறுதி செய்வதற்காக கடுமையான விதிமுறைகள் நடைமுறையில் உள்ளன.
+
+“பிரச்சாரக் காலம் முடிவடைந்தவுடன், பொதுப் பேரணிகள், விளம்பரப் பொருட்கள் விநியோகம் அல்லது வீடு வீடாகச் சென்று பிரச்சாரம் செய்வது அனுமதிக்கப்படாது. குறிப்பிட்ட காலத்திற்குப் பிறகு எந்தவொரு பிரச்சாரத்திற்கும் எதிராக நடவடிக்கை எடுக்க பொலிஸிற்கு அறிவுறுத்தப்பட்டுள்ளது, ”என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/ad84fb02.json)
+
+---
+
+### புலமைப்பரிசில் பரீட்சை: 3 வினாக்கள் நீக்கம்
+
+*2024-09-18 07:47:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-3-வினாக்கள்-நீக்கம்/175-343941) · `ta`
+
+இம்முறை நடைபெற்ற  தரம் 5 புலமைப்பரிசில் பரீட்சையின் முதலாம் பகுதி வினாத்தாளில் 3 வினாக்களை நீக்குவதற்கு யோசனை முன்வைக்கப்பட்டுள்ளது.
+
+பரீட்சைகள் ஆணையாளர் நாயகம் மற்றும் விடைத்தாள் மதிப்பீட்டாளர்களுக்கிடையில் நேற்று நடைபெற்ற கலந்துரையாடலின் பின்னரே  இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+முதலாம் பகுதி  வினாத்தாள் சமூக வலைத்தளங்களில் பகிரப்பட்டதாக கூறப்படும் சம்பவம் தொடர்பாக விசாரணைகளை மேற்கொள்வதற்கு விசேட குழுவொன்று நியமிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/43505f54.json)
+
+---
+
+### இடைக்கிடையே மழை பெய்யக்கூடும்
+
+*2024-09-18 07:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்கிடையே-மழை-பெய்யக்கூடும்/175-343940) · `ta`
+
+இன்று (18) சப்ரகமுவ மற்றும் மேல் மாகாணங்களிலும் அத்துடன் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் இடைக்கிடையே மழை பெய்யக்கூடும்.
+
+தென் மாகாணத்தில் மழை அல்லது இடியுடன் கூடிய மழை பெய்ய வாய்ப்புள்ளதாகவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களின் பல இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைப் பிராந்தியத்தின் மேற்கு சரிவுகளிலும் அத்துடன் வடமத்திய மற்றும் தென் மாகாணங்களிலும்  மணித்தியாலத்திற்கு 40 - 45 கிலோமீற்றர் வேகத்தில் அடிக்கடி பலத்த காற்று வீசக் கூடும்.
+
+சிலாபம் தொடக்கம் கொழும்பு, காலி ஊடாக மாத்தறை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 30 - 40 கிலோமீற்றர் வேகத்தில் மேற்கு அல்லது தென்மேற்குத் திசையில் இருந்து காற்று வீசும்.
+
+...
+
+[Data](articles/6a067f3a.json)
+
+---
 
 ### Election propaganda ends midnight today
 
@@ -55,6 +183,46 @@ The Chairman of the Elections Commission, Mr. RMAL Ratnayake, the comment on thi
 [Data](articles/8bdee398.json)
 
 [Extended Data](ext_articles/8bdee398.ext.json)
+
+---
+
+### Hezbollah vows retaliation against Israel after pager blasts kill several, wound 2,750 in Lebanon
+
+*2024-09-18 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102049/hezbollah-vows-retaliation-against-israel-after-pager-blasts-kill-several-wound-2750-in-lebanon) · `en`
+
+Militant group Hezbollah promised to retaliate against Israel after accusing it of detonating pagers across Lebanon on Tuesday, killing nine people and wounding nearly 3,000 others, including fighters and Iran’s envoy to Beirut.
+
+Lebanese Information Minister Ziad Makary condemned the late-afternoon detonation of the pagers — handheld devices that Hezbollah and others in Lebanon use to send messages — as an “Israeli aggression.” Hezbollah said Israel would receive “its fair punishment” for the blasts.
+
+The Israeli military declined to comment on Reuters inquiries about the detonations.
+
+A senior Lebanese security source and another source told Reuters that Israel’s Mossad spy agency planted a small amount of explosives inside 5000 Taiwan-made pagers ordered by Hezbollah months before Tuesday’s detonations.
+
+...
+
+[Data](articles/f236ddae.json)
+
+[Extended Data](ext_articles/f236ddae.ext.json)
+
+---
+
+### Several spells of showers expected in parts of Sri Lanka
+
+*2024-09-18 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102048/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
+
+The Meteorology Department says showers or thundershowers will occur in Southern province while several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at several places in Eastern and Uva provinces during the evening or night, it said.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in North-central and Southern provinces.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/75d49c5a.json)
+
+[Extended Data](ext_articles/75d49c5a.ext.json)
 
 ---
 
@@ -524,6 +692,22 @@ The road to recovery has been difficult, but significant progress has been made 
 
 ---
 
+### Woe Of New President Is Not Just Taking Baby Across Coir Suspension Bridge But Complying With Binding Targets Of ETA
+
+*2024-09-18 01:59:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/woe-of-new-president-is-not-just-taking-baby-across-coir-suspension-bridge-but-complying-with-binding-targets-of-eta/) · `en`
+
+Sri Lankans are to elect a new President on 21 September 2024 to rule the country for the next five years. Whether it is the confirmation of the incumbent interim President Ranil Wickremesinghe in the post or the election of one of the two frontrunners to presidency, it is the economy stupid that the new President should tackle immediately. That is because the economy is not stable as claimed by the incumbent President in his election campaign.
+
+Ranil’s aphorism about Grusha of The Caucasian Chalk Circle crossing a suspension bridge
+
+...
+
+[Data](articles/2c2fa53e.json)
+
+[Extended Data](ext_articles/2c2fa53e.ext.json)
+
+---
+
 ### China confident bilateral relations with Sri Lanka will have brighter future
 
 *2024-09-18 01:57:33* · [`dailyftlk`](https://www.ft.lk/opinion/China-confident-bilateral-relations-with-Sri-Lanka-will-have-brighter-future/14-766814) · `en`
@@ -537,6 +721,40 @@ Following are remarks by Ambassador Qi Zhenhong at a meeting with media journali
 [Data](articles/779e4a61.json)
 
 [Extended Data](ext_articles/779e4a61.ext.json)
+
+---
+
+### ජනාධිපතිවරණය 2024: අලුත් ජනපති නැවත අරගලයක් ඇතිවෙන්න ඉඩ තියයි ද?
+
+*2024-09-18 01:54:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgrg7g5zwko) · `si`
+
+ජනාධිපතිවරණය 2024: අලුත් ජනපති නැවත අරගලයක් ඇතිවෙන්න ඉඩ තියයි ද?
+
+රටේ මීළඟ වසර 5 සඳහා පත්වන ජනාධිපතිවරයා කවුරුන් දැයි, සැප්තැම්බර් 22 වැනිදා අළුයම වන විට දැනගත හැකි වනු ඇත.ජනාධිපතිවරණයෙන් දිනන ජනාධිපතිවරයා කවුරුන් වුවද ඔහුට මුහුණ දීමට සිදුවන අභියෝග රැසක් තිබේ.
+
+ශ්‍රී ලංකාවට මෙම ජනාධිපතිවරණය සුවිශේෂි වන්නේ, ජන අරගලයකින් ගෝඨාභය රාජපක්ෂ ජනාධිපතිවරයා ධුරයෙන් පළවා හැරීමෙන් පසු ජනතා ඡන්දයෙන් ජනාධිපතිවරණයෙකු තෝරා පත් කර ගන්නා පළමු ජනාධිපතිවරණය මෙය වන නිසා ය.
+
+2022 වසරේදී ජනතාව තෙල් පොලීම්, ගෑස් පොලිම් සහ දෛනික විදුලි කප්පාදුවකට මුහුණ දුන් අතර සේවා කේෂ්ත්‍රය ද ආර්ථිකය ද දරුණු කඩා වැටීමකට ලක්විය.  ශ්‍රී ලංකාවේ ආර්ථිකය නැවත ගොඩගෙන ඉහළට එසවීම ඉදිරි ජනාධිපතිවරණයෙන් පත්වන ජනාධිපතිවරයාට පැවරෙන ප්‍රධාන වගකීමක් වනු ඇත.
+
+රටේ ආර්ථික ස්ථාවරත්වයක් ඇති කිරීම උදෙසා දේශපාලන ස්ථාවරත්වයක් ඇති කිරීම මීළඟ ජනාධිපතිවරයාට පැවරෙන තවත් ප්‍රධාන කාර්යයක් වනු ඇත.
+
+...
+
+[Data](articles/07cd2460.json)
+
+---
+
+### சார்ள்ஸ் எம்.பியை சந்தித்தார் ரணில்
+
+*2024-09-18 01:45:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சார்ள்ஸ்-எம்-பியை-சந்தித்தார்-ரணில்/175-343939) · `ta`
+
+மன்னாரில் நேற்று நடைபெற்ற ‘ரணிலால் இயலும்’ வெற்றிப் பேரணியில் இணைந்து கொண்ட ஜனாதிபதி ரணில் விக்கிரமசிங்க, இலங்கைத் தமிழரசுக் கட்சியின் மன்னார் மாவட்டத் தலைவரும் பாராளுமன்ற உறுப்பினருமான சார்ள்ஸ் நிர்மலநாதனை மன்னார் - தாழ்வுபாடுவில் உள்ள அவரின் இல்லத்தில் சந்தித்தார்.
+
+இதன்போது ஜனாதிபதியை சார்ள்ஸ் நிர்மலநாதன் வரவேற்றார். இருவரும் சமகால அரசியல் விவகாரங்கள் குறித்து சிறு உரையாடலில் ஈடுபட்டனர். (a)
+
+◼️
+
+[Data](articles/1ba088cb.json)
 
 ---
 
@@ -2009,321 +2227,5 @@ An applicant has been revealed that an applicant had not attended the writing no
 [Data](articles/5d75023c.json)
 
 [Extended Data](ext_articles/5d75023c.ext.json)
-
----
-
-### A massive objection begins in Pakistan
-
-*2024-09-17 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201120) · `si`
-
-Pakistan protests: Private schools object to government-imposed tax on monthly fees. Education advocates warn it may limit accessibility for students.
-
-🟩
-
-Private educational institutions are protesting over Pakistan throughout Pakistan against the imposition of taxes made by the Government of Pakistan for a monthly fee for private schools.
-
-The government has warned the government that the levy is implemented, foreign media reports say.
-
-Private school delegates point out that the general public will not be able to education by implementing such tax.
-
-◼️
-
-[Data](articles/68053966.json)
-
-[Extended Data](ext_articles/68053966.ext.json)
-
----
-
-### Three arrested for heroin drugs in different parts of the country
-
-*2024-09-17 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/193941) · `ta`
-
-Three arrests made: heroin found in Bulathsingha, Gampaha, and Beruwala. Suspects aged 34, 47, and unknown. Amounts vary from 05 grams to 258 grams.
-
-🟩
-
-Three suspects were arrested yesterday (16) with heroin drugs in different parts of the country, police said.
-
-The suspects have been arrested in connection with the information received by the police.
-
-Accordingly, a suspect has been arrested with 05 grams of 470 kg of heroin.. A 34 -year -old man from Bulathsingha has been arrested.
-
-In this case, a woman has been arrested with 05 grams of 270 ml of heroin in Gampaha. The 47 -year -old woman from Gampaha has been arrested.
-
-Meanwhile, a suspect has been arrested in Beruwala - Karandagoda area with a 258 grams of 960 milligrams of heroin.
-
-◼️
-
-[Data](articles/872eb4c7.json)
-
-[Extended Data](ext_articles/872eb4c7.ext.json)
-
----
-
-### Three persons arrested in different parts of Colombo
-
-*2024-09-17 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193935) · `ta`
-
-Colombo police arrest three suspects with ice drugs in separate raids. Three men aged 45, 46, and 34 arrested in Navagambura, Motaramai, and Dematagoda areas. Total 38g ice seized.
-
-🟩
-
-Three suspects have been arrested on Monday (16) with ice drugs in different parts of Colombo, police Criminal Investigation Department said.
-
-The suspects have been arrested in surrounding raids on information received by the Police Criminal Investigation Division.
-
-Accordingly, a suspect has been arrested with 17 grams of 890 milligrams of ice in Navagambura area of ​​the Grandpass Police Division.. A 45 -year -old man from Colombo 14 has been arrested.
-
-In this case, a suspect has been arrested with 10 grams of 670 milligrams of ice from the Motaramai residential area.. The arrested is 46 years old from Colombo - 15.
-
-Meanwhile, a suspect has been arrested with 11 grams of 211 ml of ice from the Dematagoda area.. A 34 -year -old man from Dematagoda has been arrested.
-
-◼️
-
-[Data](articles/161cd004.json)
-
-[Extended Data](ext_articles/161cd004.ext.json)
-
----
-
-### An SLFP electoral organiser murdered in Panagoda
-
-*2024-09-17 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102041/an-slfp-electoral-organiser-murdered-in-panagoda) · `en`
-
-An individual who had reportedly served as the Sri Lanka Freedom Party’s (SLFP) chief organiser for the Hiniduma Electorate in Galle District has been assaulted and murdered at his residence in Panagoda, Homagama.
-
-Meegoda Police said that while the victim was at his home in Samagi Mawatha, Panagoda today (17), an individual who arrived in a three-wheeler had hit him on the head with a club. He had later died after being admitted to the Homagama Base Hospital with serious injuries.
-
-The deceased is a businessman identified as Sampath Gamage, a resident of Panagoda in Homagama.
-
-The suspect who committed the murder is yet to be identified while investigations are ongoing.
-
-According to reports, the deceased had served as the SLFP’s chief organiser for the Hiniduma electorate.
-
-Scenes of crime officers (SOCOs) of the Nugegoda Police Division and officers of the Meegoda Police Crimes Unit have arrived at the scene of the incident and are conducting investigations.
-
-◼️
-
-[Data](articles/0966d8ef.json)
-
-[Extended Data](ext_articles/0966d8ef.ext.json)
-
----
-
-### An electoral organiser of SLFP murdered in Panagoda
-
-*2024-09-17 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102041/an-electoral-organiser-of-slfp-murdered-in-panagoda) · `en`
-
-An individual who had reportedly served as the Sri Lanka Freedom Party’s (SLFP) chief organiser for the Hiniduma Electorate in Galle District has been assaulted and murdered at his residence in Panagoda, Homagama.
-
-Meegoda Police said that while the victim was at his home in Samagi Mawatha, Panagoda today (17), an individual who arrived in a three-wheeler had hit him on the head with a club. He had later died after being admitted to the Homagama Base Hospital with serious injuries.
-
-The deceased is a businessman identified as Sampath Gamage, a resident of Panagoda in Homagama.
-
-The suspect who committed the murder is yet to be identified while investigations are ongoing.
-
-According to reports, the deceased had served as the SLFP’s chief organiser for the Hiniduma electorate.
-
-Scenes of crime officers (SOCOs) of the Nugegoda Police Division and officers of the Meegoda Police Crimes Unit have arrived at the scene of the incident and are conducting investigations.
-
-◼️
-
-[Data](articles/7f5a52d3.json)
-
-[Extended Data](ext_articles/7f5a52d3.ext.json)
-
----
-
-### SLFP’s Hiniduma chief organiser murdered in Panagoda
-
-*2024-09-17 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102041/slfps-hiniduma-chief-organiser-murdered-in-panagoda) · `en`
-
-The Sri Lanka Freedom Party’s (SLFP) chief organiser for the Hiniduma Electorate in Galle District, Sampath Gamage has reportedly been assaulted and murdered at his residence in Panagoda, Homagama.
-
-Meegoda Police said that while the victim was at his home in Samagi Mawatha, Panagoda today (17), an individual who arrived in a three-wheeler had hit him on the head with a club. He had later died after being admitted to the Homagama Base Hospital with serious injuries.
-
-The deceased is a businessman identified as Sampath Gamage, a resident of Panagoda in Homagama.
-
-The suspect who committed the murder is yet to be identified while investigations are ongoing.
-
-According to reports, the deceased had been serving as the SLFP’s chief organiser for the Hiniduma electorate.
-
-Scenes of crime officers (SOCOs) of the Nugegoda Police Division and officers of the Meegoda Police Crimes Unit have arrived at the scene of the incident and are conducting investigations.
-
-◼️
-
-[Data](articles/d1d97295.json)
-
-[Extended Data](ext_articles/d1d97295.ext.json)
-
----
-
-### The 17th suspect in Club Wasantha murder is detained and questioned
-
-*2024-09-17 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201119) · `si`
-
-17th suspect in Club Wasantha murder case detained. Acting Magistrate grants permission for questioning. Suspect identified as 24-year-old from Dharga town. Police reveal suspect transported other suspects in Athurugiriya. 12 suspects already remanded, four in custody for three months.
-
-🟩
-
-Kaduwela acting Magistrate D. G. P. Karunaratne has been granted permission.
-
-The Western Province South, South Criminal Investigation Unit, was a 24-year-old suspect in Dharga town.
-
-The police have revealed that the suspect was transporting the suspects as a KPI in Athurugiriya, who was used by the suspects and remained suspects in a car.
-
-The suspect has been arrested as the 17th suspect and 12 suspects including a suspect and 12 suspects including a suspect have been remanded.
-
-Four others have been in custody for three months and interrogation orders.
-
-◼️
-
-[Data](articles/72c5cac7.json)
-
-[Extended Data](ext_articles/72c5cac7.ext.json)
-
----
-
-### World Patient Safety Day today
-
-*2024-09-17 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193931) · `ta`
-
-World Patient Safety Day: A global event highlighting patient safety awareness. It emphasizes collective efforts from patients, families, healthcare professionals, and leaders to ensure safe medical practices and outcomes.
-
-🟩
-
-The day is appointed to consider that patients, families, caregivers, communities, health workers and health care leaders should show their dedication to the safety of the patients.
-
-◼️
-
-[Data](articles/b35dc5a5.json)
-
-[Extended Data](ext_articles/b35dc5a5.ext.json)
-
----
-
-### We want you to give you that change - Dilith
-
-*2024-09-17 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201118) · `si`
-
-Dilith Jayaweera promises change, criticizes corrupt politics, vows youth-focused programs.
-
-🟩
-
-The exmongering candidate Dilith Jayaweera stated that the opportunity to make the opportunity to change the people.
-
-"The corrupt politics of this country must end. Innocent people in this country cannot be grieved. You asked for a change. So you said 225 not to say no. "
-
-"We helped politicians that someday could make this country. But they continued to betray us. "
-
-"I came to politics to give an asset statement. Other candidates have given asset statements. The first three revenues 'revenue' Rs. 2 lakhs and three lakhs. A last misery. "
-
-"We have the responsibility of all the words we say. Our strategic program is mentioned how Sri Lanka is creating that year. No one can tell anyone today. "
-
-"We started gathering Sri Lankans who love this country and started a journey. We want to give you that change. "
-
-"We have a program to answer the questions of the youths."
-
-...
-
-[Data](articles/a746c023.json)
-
-[Extended Data](ext_articles/a746c023.ext.json)
-
----
-
-### Nayanthara - Sundar. C Mukkuthi Amman 2 '
-
-*2024-09-17 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193940) · `ta`
-
-"Mukkuthi Amman 2": Sundar C directs Nayanthara-starrer sequel. Film set to begin shooting soon, produced by Wales Film International and Rowdy Pictures. Anticipated release following success of "Palace 4".
-
-🟩
-
-Dr. Isari K.. Ganesh's film 'Mukkuthi Amman 2' is 'Commercial King' Sundar. It has been officially announced that C will be operating.
-
-Director and actor Sundar. The film 'Palace 4', which was released on summer vacation this year, grossed over a billion rupees in Indian value.
-
-Following this, director Sundar. 'Mukkuthi Amman 2' is being directed by C's 'Mukkuthi Amman 2'.
-
-The film crew has said that the shooting of the film is set to begin soon at Socio and Spiritual Janener than the first part of the film 'Mukkuthi Amman'.
-
-The film is also being produced by Wales Film International, Rowdy Pictures, Awni Cine Max Private Limited, P4 UM Motion Pictures and IV Y Entertainment.
-
-Sundar is a sense of conflict between evil and evil and the power of the film, as it is beyond imagination and offers a new experience to fans in the film mansion.. There has been great anticipation for the movie 'Mukkuthi Amman 2', which will be formed in the C -Nayanthara alliance.
-
-◼️
-
-[Data](articles/10343b0f.json)
-
-[Extended Data](ext_articles/10343b0f.ext.json)
-
----
-
-### Sasikala Raviraj with President Ranil and Mawa's son
-
-*2024-09-17 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/193943) · `ta`
-
-Sasikala Raviraj, widow of TNA MP, met President Ranil Wickremesinghe with her son Kala Amudan during Jaffna election campaign. They discussed Northern Province development programs.
-
-🟩
-
-Sasikala, the wife of the late parliamentary member of the Tamil National Alliance (TNA), Sasikala and Mawai Senathirajah's son, Kala Amudan, met with President Ranil Wickremesinghe during the Jaffna election campaign and discussed the Northern Province Development Programs.
-
-◼️
-
-[Data](articles/a90c9331.json)
-
-[Extended Data](ext_articles/a90c9331.ext.json)
-
----
-
-### We need a country that lives in fear of the ruler of the people - Anura Kumara Dissanayake
-
-*2024-09-17 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193923) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Anura Kumara Dissanayake calls for change in governance, criticizing current rulers who allegedly bribe voters. He promises a government focused on people's needs, addressing issues like housing, education, and drug control. Dissanayake emphasizes the rights of Tamil citizens and plans to boost tourism in Nuwara Eliya.
-
-🟩
-
-How did the rulers of this country get votes so far?They eat, drink, and get the votes. Especially the votes of the plantation people. They get votes.Should we not change this?Should these hill people live as slaves?Do you want to live in fear?Do the people of Hanguranketha should live in fear of SP?The National People's Power Presidential candidate Anura Kumara Dissanayake said that the people of the hill country have been afraid of the Thondamparam.
-
-We need a country that is not afraid of the people's ruler. We now need the government that thinks of the people and rules their expectations.We need to build free people. So we will make a good decision on September 21st. Now the people of the entire country are ready to make that decision.
-
-...
-
-[Data](articles/2788cb11.json)
-
-[Extended Data](ext_articles/2788cb11.ext.json)
-
----
-
-### Vijay Antony
-
-*2024-09-17 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193938) · `ta`
-
-"Hitler" film music release: Vijay Antony stars alongside Gautham Vasudev Menon, Riya Suman, Aishwarya Dutta. Music by Vivek-Mervin. Produced by T. De Raja and DR Sanjay Kumar."
-
-🟩
-
-The music release of 'Hitler', which will be released in the film palace worldwide on the 27th of this month, starring Vijay Antony's story.
-
-Gautham Vasudev Menon, the hero of the film, Riya Suman, the hero of the film, Aishwarya Dutta and the hostess of the film, are playing the role of the film in a romantic scene.Vasudev Menon carried out in the presence of.
-
-Director S.. A.. The film 'Hitler', which is being produced by Tana, has starred in Vijay Antony, Riya Suman, Gautham Vasudev Menon, Vivek Prasanna, Aishwarya Dutta.
-
-Vivek and Mervin's music is a fascination with all the songs featured in the film.
-
-Producer T.. De Raja and DR Sanjay Kumar have co -produced.
-
-◼️
-
-[Data](articles/5279538f.json)
-
-[Extended Data](ext_articles/5279538f.ext.json)
 
 ---

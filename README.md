@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 09:57:41**
+As of **2024-09-18 10:11:01**
 
 ## Newspaper Stats
 
-*Scraped **44,480** Articles*
+*Scraped **44,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 443
 islandlk | 2,621
 economynextcom | 2,688
 dailyftlk | 2,962
-adalk | 4,099
+adalk | 4,101
 dailymirrorlk | 4,733
-adaderanalk | 5,234
+adaderanalk | 5,235
 tamilmirrorlk | 5,809
 virakesarilk | 7,108
 adaderanasinhalalk | 7,613
@@ -26,11 +26,41 @@ adaderanasinhalalk | 7,613
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,476 (100.0%) of 44,480 articles have been extended.
+44,480 (100.0%) of 44,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Four police officers arrested over extortion of Rs. 1.4 million from house
+
+*2024-09-18 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102053/four-police-officers-arrested-over-extortion-of-rs-14-million-from-house) · `en`
+
+Four police officers have been arrested by Modara Police for allegedly entering a residence in Colombo 15, threatening its occupants and extorting a sum of Rs. 1.4 million from them.
+
+Accordingly, two Constables and a Sergeant attached to the Bloemendhal Police Station, as well as an officer from the Colombo North Intelligence Division, have been arrested by the Modara Police.
+
+◼️
+
+[Data](articles/35888634.json)
+
+---
+
+### දැන් රනිල්ගේ ජොබ් එක ඉවරයි
+
+*2024-09-18 09:37:15* · [`adalk`](https://www.ada.lk/breaking_news/දැන්-රනිල්ගේ-ජොබ්-එක-ඉවරයි/11-411987) · `si`
+
+දැන් රනිල්ගේ ජොබ් එක ඉවරයි. රනිල් වැටිච්ච රටක් නැගිට්ටවලා පෙන්නුවා, නැගිටින්න පුලුවන් කියලා රනිල් පෙන්නුවේ ඔයගොල්ලන්ගේ හයියෙන් නෙමෙයි, පාර්ලිමේන්තුවේ අපේ හයියෙන්.දැන් එහෙම  නම් ජනතාවට තියෙනවා යුතුකමක්, වගකීමක්, ඉතුරු අවුරුදු 05 දී මේ නැගිට්ටා වගේම, තවත් නැගිට්ටවා ගන්නවාද කියලා තීන්දු කරන්න ඕන ඔබතුමන්ලා. ඒ නිසා හරියට බුද්ධියෙන් කල්පනා කරලා මේ 21 වැනිදා තීන්දුව ගන්න ඕනකම තියෙනවා යැයි ශ්‍රී ලංකා නිදහස් පක්ෂ මහ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා පැවසීය.
+
+ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ, අනුරාධපුර ගල්නෑව ප්‍රදේශයේ පැවති ජනහමුවකදීය,එහිදී වැඩිදුරටත් අදහස් දැක්වූ ඒ මහතා,
+
+සමහරු රට අනුරට කියද්දී රනිල් කියන්නේ පුලුවන් ශ්‍රී ලංකා කියලා, අපි හැමෝම එකතු වුණොත්, අපි හැමෝම අත්වැල් බැඳගත්තොත් මේක අපිට කරන්න පුලුවන් කියලා.බැරි දෙයක් නෙමෙයි.අවුරුදු 02 ක් තුළ වැටිලා තිබුණු රට අද ශක්තිමත් වේගෙන යනවා.එහෙම නම් දැන් රනිල් පාස්, ඒ දවස් වල ෆේල් හැබැයි දැන් පාස් කියලා ඔප්පු කරලා තියෙනවා.ඒ නිසා තමයි ආයේ පාරක් අපි රනිල්ව දිනවමු, රනිල්ට බලය දෙමු, රනිල්ගේ වැඩපිළිවෙල රටට හොඳයි කියලා අපි කියන්නේ.
+
+...
+
+[Data](articles/a71923da.json)
+
+---
 
 ### Election campaigns nationwide today
 
@@ -208,19 +238,25 @@ Talking about the abolition of the executive presidency and the 13th Amendment, 
 
 ---
 
-### வடக்கு கிழக்கு மக்களின் ஆதரவுக்கு சுமந்திரனின் தீர்மானம் பாதிப்பாகாது - ஜனாதிபதி ரணில்
+### Sumanthiran's decision to support the people of the North and East is not affecting President Ranil
 
 *2024-09-18 08:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193976) · `ta`
 
-சனிக்கிழமை இடம்பெறவுள்ள ஜனாதிபதி தேர்தலில் ஐக்கிய மக்கள் சக்தியின் வேட்பாளர் சஜித் பிரேமதாசவை ஆதரிக்கப் போவதாக தமிழரசுக் கட்சியின் உறுப்பினர் எம்.ஏ. சுமந்திரன் அறிவித்துள்ளமையானது, வடக்கு கிழக்கு மக்களின் என்மீதான ஆதரவுக்கு பாதிப்பாக அமையாது என தெரிவித்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க, அந்த கட்சியின் ஏனைய உறுப்பினர்கள் அந்த தீர்மானத்தை ஏற்காத நிலையில், தமிழ் தேசிய கூட்டமைப்பு இதுவரையில் எவ்விதமான அறிவிப்பையும் விடுக்க வில்லை என்பதை நினைவில் கொள்ளுமாறு சுட்டிக்காட்டியுள்ளார்.
+Sumanthiran supports Sajith Premadasa; TNA divided; Ranil unaffected; 13th Constitution issues; Economic concerns influence voting decisions.
 
-ஊடகவியலாளர்களை நேற்று செவ்வாய்க்கிழமை (17) சந்தித்த ஜனாதிபதி ரணில் அவர்களின் கேள்விகளுக்கு பதிலளிக்கும் போதே மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-இன மற்றும் மதவாத பிரச்சினைகள் இல்லாத சூழல் ஒன்றில் நாட்டில் ஜனாதிபதி தேர்தல் இடம்பெறுகின்றது. 13 ஆவது அரசியலமைப்பில் எவ்விதமான பிரச்சினையும் இல்லை. மாறாக அதன் அமுலாக்கம் குறித்தே சில சிக்கல்கள் உள்ளன. எனது ஆலோசனைகளை வழங்கியுள்ளேன். எனவே எதிர்வரும் நாட்களில் 13 ஆவது அரசியலமைப்பு அமுலாக்கம் தொடர்பில் தீர்மானம் ஒன்றை எடுக்க முடியும்.
+TNA member MA is going to support United People's Power candidate Sajith Premadasa in the presidential election on Saturday.. President Ranil Wickremesinghe has said that the announcement of Sumanthiran's announcement would not be a hurt for the support of the people of the North and East and pointed out that the other members of the party did not accept the decision and that the TNA had not made any announcement.
+
+President Ranil, who met with journalists on Tuesday (17), said this while responding to his questions.
+
+The presidential election is held in the country in an environment where there is no ethnic and religious issues. There is no problem in the 13th Constitution. Instead there are some problems with its implementation. I have given my suggestions. Therefore, a resolution can be taken on the 13th Constitution in the coming days.
 
 ...
 
 [Data](articles/88f1c0e5.json)
+
+[Extended Data](ext_articles/88f1c0e5.ext.json)
 
 ---
 
@@ -448,25 +484,41 @@ From Matara to Hambantota, Pottuvil, from Kankesanthurai to Mannar via Puttalam,
 
 ---
 
-### ஹெஸ்புல்லா உறுப்பினர்களின் பேஜர்கள் வெடித்து சிதறிய சம்பவத்திற்கு இஸ்ரேல் மீது குற்றச்சாட்டு – 9 பேர் பலி – 3000 பேர் காயம் - அதிர்ச்சியில் லெபனான்
+### Israel alleges that hezbullah members' pagers exploded - nine killed - 3,000 injured - Lebanon
 
 *2024-09-18 07:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193975) · `ta`
 
-ஹெஸ்புல்லா அமைப்பின் உறுப்பினர்கள் பயன்படுத்தும் பேஜர்கள் திடீரென வெடித்துச்சிதறியதில் 9 பேர் கொல்லப்பட்டுள்ளதுடன் குழந்தையொன்று உட்பட 9 பேர் கொல்லப்பட்டுள்ளதுடன் 3000 பேர் காயமடைந்துள்ளனர்.
+Here's a 200-character summary:
 
-பெய்ரூட்டின் தென்பகுதியில் உள்ள புறநகர் பகுதிகளிலும் லெபானின் ஏனைய பகுதிகளிலும் இந்த வெடிப்பு சம்பவங்கள் இடம்பெற்றுள்ளன.
 
-காயமடைந்தவர்கள் தரையில் அமர்ந்திருப்பதையும் ஏனையவர்கள் மருத்துவமனைக்கு அழைத்து செல்லப்படுவதையும் காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
 
-ஹெஸ்புல்லா அமைப்பு தனது பல பிரிவுகள் மற்றும் அமைப்புகளை சேர்ந்த உறுப்பினர்களின் பேஜர்கள் வெடித்துச்சிதறியதில் 8 பேர் உயிரிழந்துள்ளனர் என தெரிவித்துள்ளது.
+Explosion kills 9 injures 3000 in Lebanon Hezbollah claims Israeli responsibility
 
-இஸ்ரேலே இதற்கு காரணம் என குற்றம்சாட்டியுள்ள ஹெஸ்புல்லா அமைப்பு பதில்நடவடிக்கை குறித்து எச்சரித்துள்ளது.
+🟩
 
-செவ்வாய்கிழமை சம்பவம் காரணமாக லெபனான் மக்கள் அதிர்ச்சியடைந்துள்ளனர்இமுன்னருபோதும் இடம்பெற்றிராத இத்தைகைய சம்பவத்தை நம்பமுடியாத நிலையில் லெபனான் மக்கள் காணப்படுகின்றனர்.
+Nine people were killed and nine people, including a child, were killed and 3,000 injured.
+
+The explosion took place in the suburbs of Beirut and other parts of Leban.
+
+Videos have been revealed that the injured are sitting on the floor and others are taken to the hospital.
+
+The Hesbullah Organization said eight people were killed in the explosion of members of many sectors and organizations.
+
+The Hesbullah organization, which has accused Israel of reason, has warned of responding.
+
+The people of Lebanon are shocked by the incident on Tuesday.
+
+The Hesbullah Organization said that the pagans used by their members have exploded in large numbers for the mobile phones to be hacked or found.
+
+CCTV footage has shown that a person from a person in a businessman has exploded.
+
+Lebanon's Health Minister said that 200 of the injured were in danger of loading the injured and rushed to the hospitals.
 
 ...
 
 [Data](articles/5312ef93.json)
+
+[Extended Data](ext_articles/5312ef93.ext.json)
 
 ---
 
@@ -516,15 +568,29 @@ A senior Lebanese security source and another source told Reuters that Israel’
 
 ---
 
-### இனப்பிரச்சினை, அதற்கான தீர்வுக்குள் மாத்திரம் நின்றுவிடாதீர்கள்; தேசிய அரசியல், பொருளாதார சூழ்நிலைகளைப் பகுத்தாராய்ந்து வாக்களியுங்கள் - 15 கல்விமான்கள் கூட்டாக வலியுறுத்தல்
+### Do not stand up to the ethnic problem and the solution;Vote for national politics and economic circumstances -15 educators jointly emphasize
 
 *2024-09-18 07:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193969) · `ta`
 
-நாம் எமது ஜனாதிபதித்தெரிவினை மேற்கொள்ளும்போது தனியே இனப்பிரச்சினை மற்றும் அதற்கான தீர்வுக்குள் மாத்திரம் குறுக்கிவிடாது, நாட்டின் ஒட்டுமொத்த அரசியல், பொருளாதார சூழ்நிலை குறித்துப் பகுத்து ஆராய்வது அவசியமாகும். தமிழ்த்தேசிய அரசியலை மாத்திரம் முன்னிறுத்தி, சர்வதேசத்தின் கவனத்தை ஈர்ப்பதை நோக்கமாகக்கொண்டு தேர்தலில் வாக்குக்கோருவதும், தமிழ்த்தேசிய அடிப்படையிலே தேர்தலைப் புறக்கணிப்பதும் அரசியல் ரீதியில் தமிழ் மக்களுக்குப் பின்னடைவை ஏற்படுத்தக்கூடும் என யாழ்ப்பாணப் பல்கலைக்கழகத்தில் கற்பிக்கும் 15 கல்விமான்கள் கூட்டாக வலியுறுத்தியுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+15 Jaffna University educators urge Tamil voters to support national politics over ethnic issues, citing economic crisis and corruption. They advise voting for candidates promoting unity and addressing poverty, unemployment, and infrastructure challenges across Sri Lanka.
+
+🟩
+
+When we carry out our president, we will not only interfere with the ethnic problem and its solution, but it is necessary to analyze the entire political and economic situation in the country.. The 15 educators at the University of Jaffna have jointly urged the Tamil people to promote the politics of Tamil nationalism and to attract the attention of the international community and boycott the election on the basis of the Tamil nationalism.
+
+Dr. Antonirajan, Dr. S. Ariyavan, Prof. P.Ingasudhan, Dr. S. Jevasudhan, Dr. A. Kathirgamar, Prof. R. Kapilan, Dr. Ramarupan, Dr. N. SarvanandanIn a statement issued by 15 intellectuals - Srinharan, Dr. R. Darshan, Dr. M. Thirurankan, Dr. N. Varathan, Professor K Viknarupan and S.Vimal.
+
+The ninth presidential election will be held on the 21st. This was the first major election in the country after the country's most economic crisis in the country and the resulting people's uprising.
 
 ...
 
 [Data](articles/7bd2a809.json)
+
+[Extended Data](ext_articles/7bd2a809.ext.json)
 
 ---
 
@@ -577,6 +643,24 @@ According to the explosions, a senior member of the Hezbollah, including a senio
 [Data](articles/981f0df3.json)
 
 [Extended Data](ext_articles/981f0df3.ext.json)
+
+---
+
+### ජනාධිපතිවරණ ප්‍රචාරක  රැළිවල   වාර්තා පළ කිරීමටත් සීමා පැනවේ
+
+*2024-09-18 06:31:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-ප්‍රචාරක--රැළිවල---වාර්තා-පළ-කිරීමටත්-සීමා-පැනවේ/11-411986) · `si`
+
+ජනාධිපතිවරණය සඳහාවූ සියලුම ප්‍රචාරක රැස්වීම් අද (18) රාත්‍රි 12.00 ට අවසන් කළයුතු අතර එම රැස්වීම් පිළිබඳව වාර්තා   සමාජ මාධ්‍ය ඇතුළු   විද්‍යුත් හා මුද්‍රිත මාධ්‍ය මගින් විකාශය කිරීම හෙට (19) දහවල් 12.00 න් අවසන් කළ යුතු බව   මැතිවරණ කොමිෂන් සභාව කියයි.
+
+ජනාධිපතිවරණය සම්බන්ධයෙන්   මැතිවරණ කොමිෂන් සභාව මගින් නිකුත් කරන ලද මාධ්‍ය උපමානයන්ට අනුව  අදින්  අවසන් කෙරෙන ප්‍රචාරක රැස්වීම්වලට අදාල දර්ශන ,ඡායාරූප සහ  විස්තර   අද දින රාත්‍රි   සහ   හෙට දහවල් 12.00  ප්‍රවෘත්ති විකාශවල  මෙන්ම  හෙට දින උදෑසන ප්‍රවෘත්ති පත්‍රවල පමණක් විකාශය කිරීම හා පළකිරීම කළ හැකි  බවත් මැතිවරණ කොමිෂන් සභාව  නිවේදනයක් නිකුත් කරමින් කියයි.
+
+ඒ අනුව හෙට දහවල් 12.00 න් පසුව ජනාධිපතිවරණ ප්‍රචාරක රැස්වීම්වල වාර්තා මෙන්ම ප්‍රචාරක දැන්වීම් පළ නොකරන ලෙසද  මැතිවරණ කොමිෂන් සභාව ඉල්ලා සිටී.
+
+මෙම නියමයන් රූපවාහිනී ,  පුවත්පත් ආයතනවල  හා සෙසු සියලුම සමාජ මාධ්‍ය සඳහාද අදාල බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/063dd848.json)
 
 ---
 
@@ -1398,6 +1482,8 @@ The Presidential Election on 21 September could be the most important election f
 
 [Data](articles/d77c0789.json)
 
+[Extended Data](ext_articles/d77c0789.ext.json)
+
 ---
 
 ### Conscience At The Polls: A Forgotten Tool To Guide Our Future
@@ -2195,79 +2281,5 @@ He said that the 13th Amendment will be implemented only in the current form and
 [Data](articles/745559f8.json)
 
 [Extended Data](ext_articles/745559f8.ext.json)
-
----
-
-### Fairytale campaign in Nuwara Eliya
-
-*2024-09-17 18:33:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-விசித்திர-பிரச்சாரம்/175-343916) · `ta`
-
-Nuwara Eliya fairytale campaign controversy: Pafrel reports distribution of fireplaces as election symbols. District Assistant Elections Commissioner notified.
-
-🟩
-
-Pafrel has received information on a panel that distributed fireplaces on both sides of the presidential candidate and the election symbol in Nuwara Eliya.
-
-The Executive Director of the Pephral Organization Rohana Hettiarachchi said that the Nuwara Eliya District Assistant Elections Commissioner has been informed about this issue.
-
-◼️
-
-[Data](articles/26d21dc9.json)
-
-[Extended Data](ext_articles/26d21dc9.ext.json)
-
----
-
-### Full recovery of Sri Lanka’s economy will take a few more years – President Ranil
-
-*2024-09-17 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102043/full-recovery-of-sri-lankas-economy-will-take-a-few-more-years-president-ranil) · `en`
-
-President Ranil Wickremesinghe cautioned the public against making the “mistake” of transferring a “recovering patient”, who was in critical condition, to the care of an “unqualified doctor” after receiving emergency treatment, on September 21.
-
-He emphasized that, just as a doctor’s license can be revoked by the Sri Lanka Medical Council for refusing to treat a patient, the public should reject politicians who abandoned their duty to revive the country’s economy in 2022.
-
-The President made these remarks while addressing the Public Service United Nurses’ Association’s “2024 Nursing Conference” held today (17) at the Water’s Edge Hotel in Battaramulla.
-
-During the event, Ven. Dr. Venerable Dr. Muruththettuwe Ananda Nayaka Thero, Chancellor of the University of Colombo, presented a memorandum of proposals from the United Nurses’ Association to the President.
-
-...
-
-[Data](articles/ca73243b.json)
-
-[Extended Data](ext_articles/ca73243b.ext.json)
-
----
-
-### Maldivian President turns to India
-
-*2024-09-17 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201123) · `si`
-
-Maldives faces economic crisis after Moody's downgrade. President seeks aid from India amid foreign reserve depletion and default concerns over upcoming Sukuk bond repayment.
-
-🟩
-
-The International Credit Ranking Company has acted in the event of a economic crisis.
-
-The actions taken under the new President are accused of leading the current economic crisis.
-
-The Maldives were considered as a high demand destination in South Asia.
-
-However, some of the steps taken to the country's president of the country, the Maldives are facing a economic crisis due to some of the measures taken by Mohammed Mischu.
-
-It is in such a background Moody, an international credit rating agency Moody, to reduce the Credit Classification of the Maldives.
-
-Accordingly, the Maldivian loan rating held at CAA1 has been reduced to CAA2 level.
-
-According to Moody's, the Maldives's foreign currency reserves below US $ 50 million.
-
-Also, Sukuk bond owners, which is due to maturity in 2026, is due to be held next month, the Maldivian government has risen to the default payment of the suspect bound.
-
-Meanwhile, Mohammed Misube is to visit India next week as a result of an anti-Indian anti-Indian.
-
-...
-
-[Data](articles/219b1013.json)
-
-[Extended Data](ext_articles/219b1013.ext.json)
 
 ---

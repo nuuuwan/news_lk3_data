@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 23:58:12**
+As of **2024-09-19 00:12:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,617 (100.0%) of 44,621 articles have been extended.
+44,621 (100.0%) of 44,621 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1608,6 +1608,8 @@ Speaking at an election rally, Dissanayake claimed that Wickremesinghe was the a
 
 [Data](articles/3da27339.json)
 
+[Extended Data](ext_articles/3da27339.ext.json)
+
 ---
 
 ### School student killed in accident
@@ -1699,6 +1701,8 @@ The 12-month bills held steady at 10.07 percent, with only 989 million sold of a
 ◼️
 
 [Data](articles/3937a5bb.json)
+
+[Extended Data](ext_articles/3937a5bb.ext.json)
 
 ---
 
@@ -2355,6 +2359,8 @@ All voters also have a right to cast their second and third preferences for two 
 ...
 
 [Data](articles/8ec005e4.json)
+
+[Extended Data](ext_articles/8ec005e4.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 21:39:57**
+As of **2024-09-18 21:57:47**
 
 ## Newspaper Stats
 
-*Scraped **44,598** Articles*
+*Scraped **44,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 2,962
 adalk | 4,120
 dailymirrorlk | 4,733
 adaderanalk | 5,248
-tamilmirrorlk | 5,828
+tamilmirrorlk | 5,829
 virakesarilk | 7,137
-adaderanasinhalalk | 7,636
+adaderanasinhalalk | 7,637
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,594 (100.0%) of 44,598 articles have been extended.
+44,598 (100.0%) of 44,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### ජයග්‍රහණය සාමකාමීව සමරන්නැයි සජිත් පාක්ෂිකයන්ට උපදෙස් දෙයි
+
+*2024-09-18 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201166) · `si`
+
+තමා බලයට පැමිණි පසු මත්ද්‍රව්‍ය සහ පාතාලය මාස 6ක් ඇතුළත සම්පූර්ණයෙන්ම අවසන් කරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+"මම සියලු දෙනාගෙන්ම ඉල්ලීමක් කරනවා අපේ ජයග්‍රහණය සාමකාමීව භුක්ති විඳින්න. හිංසා කරන්න යන්න එපා, ප්‍රචණ්ඩත්වය එපා.. ඒවා සමගි ජන බලවේගයේ ප්‍රතිපත්ති නෙමෙයි. ජයග්‍රහණය සාමකාමීව භුක්ති විඳලා.. ඊළඟ මොහොතේ සිට රට ගොඩනගන වැඩපිළිවෙළට සූදානම් වෙන්න."
+
+"බලයට ඇවිත් ජනතාවගේ ආගම් ඇදහීමේ අයිතිය සුරක්ෂා කරනවා. කුඩු, මත්ද්‍රව්‍ය, පාතාලය මාස 06කින් සම්පූර්ණයෙන්ම අවසන් කරනවා."
+
+◼️
+
+[Data](articles/46d9c161.json)
+
+---
+
+### 21ஆம் திகதிவரை அமைதியான காலப்பகுதியாக அறிவிப்பு
+
+*2024-09-18 21:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21ஆம்-திகதிவரை-அமைதியான-காலப்பகுதியாக-அறிவிப்பு/175-343976) · `ta`
+
+இந்த நிலையில், செப்டெம்பர் 21ஆம் திகதிவரை அமைதியான காலப்பகுதியாக அறிவிக்கப்பட்டுள்ளதாக தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர். எம்.ஏ.எல். ரத்நாயக்க தெரிவித்தார்.
+
+இக்காலப்பகுதியில் ஊடகங்களிலும் சமூக வலைத்தளங்களிலும் முன்னெடுக்கப்படும் அவசியமற்ற பிரசாரங்கள் தொடர்பில் விசாரணைகளை முன்னெடுக்க விசேட குழுக்கள் நியமிக்கப்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/04a0dcf6.json)
+
+---
 
 ### The Tamil National Alliance (TNA) MP expressed his support for President Ranil. Vinonogadalingam!
 
@@ -248,21 +278,27 @@ So, go and boldly go and vote for the telephone symbol, "said Mano Ganesan, lead
 
 ---
 
-### ஜனாதிபதி தேர்தல் கடமைகளுக்காக கோட்டை – காங்கேசன்துறை புகையிரத சேவை ஆரம்பம் - புகையிரத திணைக்களம்
+### Fort - Kankesanthurai Railway Service for Presidential Election Duties - Railway Department
 
 *2024-09-18 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194052) · `ta`
 
-ஜனாதிபதித் தேர்தல் கடமைகளில் ஈடுபடும் அரச உத்தியோகஸ்த்தர்கள் மற்றும் பாதுகாப்பு தரப்பினருக்காக கொழும்பு கோட்டை – காங்கேசன்துறை இடையிலான புகையிரத சேவை ஆரம்பிக்கப்பட்டுள்ளது என புகையிரத திணைக்களம் அறிவித்துள்ளது.
+Railway Department launches special train service between Colombo Fort and Kankesanthurai for government officials and security forces involved in presidential election duties. Trains run on 19th, 21st, and 22nd.
 
-சனிக்கிழமை (21) இடம்பெறவுள்ள ஜனாதிபதி தேர்தல் வாக்கெடுப்பை முன்னிட்டு  தேர்தல் கடமைகளுக்காக பங்குப்பற்றும் அரச உத்தியோகஸ்த்தர்கள்  மற்றும் பாதுகாப்பு தரப்பினர்களுக்காக விசேட புகையிரதம் சேவையில் ஈடுபடுத்தப்பட்டுள்ளது.
+🟩
 
-இதற்கமைய 19,21ஆம் திகதிகளில் கொழும்பு கோட்டை-காங்கேசன்துறை வரையில் விசேட புகையிரதம் சேவையில் ஈடுபடவுள்ளது. இன்று காலை 09 மணிக்கு கோட்டை புகையிரத  நிலையத்தில் இருந்து காங்கேசன்துறை புகையிரத நிலையம் நோக்கி விசேட புகையிரதம் பயணிக்கவுள்ளது.
+The Railway Department has announced that the Railway Service between the Colombo Fort and Kankesanthurai has been launched for the government officials and security forces who are involved in the presidential election duties.
 
-அதேபோல் சனிக்கிழமை (21), மற்றும் எதிர்வரும் ஞாயிற்றுக்கிழமை (22) நண்பகல்  12 மணிக்கு காங்கேசன்துறை புகையிரத நிலையத்தில் இருந்து கொழும்பு கோட்டை புகையிரத நிலையம் நோக்கி விசேட புகையிரதம் புறப்படும்.
+A special train service has been deployed for public officials and security forces participating in the election duties for the presidential election on Saturday (21).
+
+Accordingly, on the 19th and 21st of this month, the special train will be on service till the Colombo Fort. A special train will be traveling from Fort Railway Station at 9 am this morning.
+
+Similarly, a special train will depart from the Kankesanthurai railway station to Colombo Fort Railway Station at 12 noon on Saturday (21) and next Sunday (22).
 
 ◼️
 
 [Data](articles/dd240a1d.json)
+
+[Extended Data](ext_articles/dd240a1d.ext.json)
 
 ---
 
@@ -308,21 +344,39 @@ He made this statement at a media briefing held at the President's Political Off
 
 ---
 
-### අපි වැඩි ඡන්ද ලක්ෂ 20කින් ජයග්‍රහණය කරනවා
+### We win more by 20 lakh votes
 
 *2024-09-18 19:24:44* · [`adalk`](https://www.ada.lk/breaking_news/අපි-වැඩි-ඡන්ද-ලක්ෂ-20කින්-ජයග්‍රහණය-කරනවා/11-412011) · `si`
 
-අපි වැඩි ඡන්ද ලක්ෂ විස්සකින් ජයග්‍රහණය කරනවා.බලයට පත්වුණු හැටියේම මම කරන දේ තමයි කතරගම පුදබිමේ මේ ආණ්ඩුව ආරම්භකරපු බාර් එක වහල දමන එක යැයි සමඟි ජන බලවේගයේ ජනාධිපතිධූර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Sajith Premadasa addresses rally, claims victory in election. Promises education reform, poverty eradication, and infrastructure development. Emphasizes support for small businesses and youth development. Assures protection of national resources and democratic rights.
 
-ඒ මහතා එසේ පැවසුවේ මොනරාගල ප්‍රාදේශීය සභා ක්‍රීඩාංගනයේදී අද (18) වෙනිදා පැවති ජන රැළිය අමතමිනි. එහිදී වැඩිදුරටත් අදහස් දැක්වූ සජිත් ප්‍රේමදාස මහතා,
+🟩
 
-බුද්ධි අංශ වාර්තා අනුව අපි වැඩි ඡන්ද ලක්ෂ විස්සකින් ජයග්‍රහණය කරනවා.මගේ කකුලෙන් අදින දේශපාලන රනිල් අනුර ජෝඩුව හොඳටම පහළින් ඉන්නේ.උතුම් දළදා වහන්සේට මගේ ප්‍රතිපත්ති ප්‍රකාශය පූජාකරලා මේ මැතිවරණ ව්‍යාපාරය ආරම්භකළා.එසේ කරපු පළවෙනි පාලකයා සජිත් ප්‍රේමදාසයි.ප්‍රතිපත්ති ප්‍රකාශනය ප්‍රතිපත්ති අපි දිවිහිමියෙන් සුරකිනවා.
+We have won the majority of 800 million votes.
 
-අපගේ ජයග්‍රහණය ස්ථිරයි.එම ජයග්‍රහණය සාමයයෙන් භුක්ති විඳින්න ඕන.හිංසනය,ප්‍රචණ්ඩත්වය එපා. ඒවා සමඟි ජන බලවේගයේ ප්‍රතිපත්ති නෙවෙයි.රට ගොඩනඟන ඊළඟ පියවරටත් මුළු රටම සූදානම් වෙන්න.විරුද්ධ මත දරන කිසිම කෙනෙකුට හානි කරන්න එපා.ඒ අයවත් රට ගොඩනැගීමේ වැඩපිළිවෙලට එක්කාසු කරගන්නවා.අපි ආගමික නිදහස රකිනවා.
+He was addressing the rally at the Moneragala Pradeshiya Sabha Stadium today (18). Speaking further Mr. Sajith Premadasa
+
+According to intelligence reports, we have won the majority of thousands of votes.
+
+Our victory is permanent. This victory will enjoy peace.. They are not the principles of the unique people. Do not harm anyone's next step.
+
+The people of this country have the right to practice any religion.. Finished.
+
+For the Commerce, I request a member of all other parties in all other parties.
+
+We do not have political deals. We have not been able to bring down the people of the country with the same type of delegation.
+
+We bring the thieves that destroyed the country.. The Intelligence Tax is dedicated to the country.
+
+At this time we win that the judges of the Supreme Court under a fundamental rights petition of judges.
+
+We will be given to Rupee to rupees to the people who have lost their housing to the people who have been deprived of the poor.
 
 ...
 
 [Data](articles/9450dcb4.json)
+
+[Extended Data](ext_articles/9450dcb4.ext.json)
 
 ---
 
@@ -508,17 +562,25 @@ We're so depressed at this decisive election. We want to send this country in fr
 
 ---
 
-### ஜனாதிபதி மற்றும் எதிர்க்கட்சித் தலைவர் பதவிகளைப் பகிர்ந்து கொள்வதற்காக நாமல், சஜித் நேர்மையற்ற கூட்டணியை உருவாக்கியுள்ளனர் - ராஜித சேனாரத்ன
+### Sajith has formed a dishonest alliance to share the posts of President and Opposition Leader - Rajitha Senaratne
 
 *2024-09-18 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/194051) · `ta`
 
-ஜனாதிபதி மற்றும் எதிர்க்கட்சித் தலைவர் பதவிகளைப் பகிர்ந்து கொள்வதற்காக நாமலுக்கும் சஜித்துக்கும் இடையில் நேர்மையற்ற கூட்டணி ஒன்று உருவாகியுள்ளதாக களுத்துறை மாவட்ட ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் வைத்தியர் ராஜித சேனாரத்ன தெரிவித்தார். இதன்படி, ஜனாதிபதி தேர்தலில் வெற்றியீட்டுவதற்காக நாமல் ராஜபக்ஷவுக்கு எதிர்க்கட்சித் தலைவர் பதவி வழங்குவதாகவும், அதற்கு பிரதிபலனாக ராஜபக்ஷக்களுக்கு எதிராக எந்த நடவடிக்கையும் எடுக்கப் போவதில்லை என சஜித் பிரேமதாச உறுதியளித்துள்ளதாகவும் அவர் தெரிவித்தார்.
+Sajith forms alliance with Namal to share President and Opposition Leader roles. Rajitha Senaratne accuses them of dishonesty. Sajith promises not to act against Rajapaksas. Alliance aims to make Sajith president and Namal opposition leader. President Wickremesinghe accused of protecting Rajapaksas despite economic growth.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கொழும்பு பிளவர் வீதியிலுள்ள அரசியல் அலுவலகத்தில் புதன்கிழமை (18) நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்ட ஐக்கிய மக்கள் சக்தியின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் வைத்தியர் ராஜித சேனாரத்ன மேற்கண்டவாறு தெரிவித்தார்.
+🟩
+
+Kalutara District United People's Power MP Rajitha Senaratne said that a dishonest alliance between Namal and Sajith has been formed to share the posts of the President and Opposition Leader. Accordingly, Sajith Premadasa has promised Namal Rajapaksa to win the presidential election and that he will not take any action against the Rajapaksa in response.
+
+President Ranil Wickremesinghe, a member of the United People's Power Kalutara District Parliamentarian, Rajitha Senaratne, who was present at a media briefing held at the political office at the Political Office of Colombo, Colombo.
+
+He said that whatever alliances were formed to bury President Ranil Wickremesinghe's victory in the upcoming presidential election, none of it would win and the president is still at the forefront of the presidential election.
 
 ...
 
 [Data](articles/62a467ec.json)
+
+[Extended Data](ext_articles/62a467ec.ext.json)
 
 ---
 
@@ -546,19 +608,27 @@ The department said that the number of short -range train services may occur on 
 
 ---
 
-### ஐக்கிய மக்கள் சக்தி 20 இலட்சம் மேலதிக வாக்குகளால் வெற்றி பெறும் - சஜித் பிரேமதாச
+### United People's Power won by 20 lakh votes - Sajith Premadasa
 
 *2024-09-18 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194050) · `ta`
 
-புலனாய்வுத் துறை அறிக்கையின் பிரகாரம் ஐக்கிய மக்கள் சக்தி 20 இலட்சம் மேலதிக வாக்குகளால் வெற்றி பெறும்.  ரணில் அநுர ஜோடி கீழ் மட்டத்திலே இருக்கிறது. தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிடப்பட்ட விடயங்கள் அனைத்தையும் புத்தபெருமானின் ஆசீர்வாதங்கள் பாதுகாக்கும் என்பதோடு நாம் நிச்சயமாக வெற்றி பெறுவோம். இந்த வெற்றியை அமைதியான முறையில் கொண்டாடுமாறு கேட்டுக் கொள்கின்றேன் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Sajith Premadasa predicts United People's Power win by 20 lakh votes. Promises peaceful celebration, protecting Buddha's blessings, stopping drugs, religious freedom, reducing taxes, eliminating corruption, supporting farmers, eradicating poverty, closing liquor shops.
 
-மொனராகலையில் ஐக்கிய மக்கள் கூட்டணி ஏற்பாடு செய்திருந்த தேர்தல் பிரசாரக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-வன்முறை என்பது ஐக்கிய மக்கள் சக்தியின் கொள்கையல்ல. மாற்றுக் கொள்கையோடு இருக்கின்ற எவருக்கும் எந்த பாதிப்பும் ஏற்படாத வகையில் இந்த நாட்டை கட்டி எழுப்புகின்ற பயணத்தில் அனைவரையும் பங்காளர்களாக இணைத்துக் கொள்வோம்.  மத சுதந்திரத்தை கௌரவப்படுத்துவதோடு, பௌத்தம் இந்து, இஸ்லாம், கத்தோலிக்க ஆகிய மதங்களை பின்பற்றுவதற்கு எவருக்கும் உரிமை இருப்பதனால், அந்த உரிமையை பாதுகாப்போம்.
+According to the Intelligence Agency, the United People's Power will win over 20 lakh votes.Ranil is at the lower level. All the things mentioned in the election manifesto will protect the blessings of the Buddha and we will surely succeed. I urge you to celebrate this victory peacefully, ”the opposition leader said.
+
+He said this while addressing the election campaign organized by the United People's Alliance in Moneragala.
+
+Violence is not the policy of the United People's Power. We will join all partners on the journey of building this country so as not to harm anyone with alternative policy.We will protect that right because anyone has the right to adopt religion, Hindu, Islam and Catholicism.
+
+Similarly, we will make maximum decisions required to stop the drug distribution within the country within six months. We will take steps to bring the drug to the end of the drug. Our victory in this upcoming election is sure.
 
 ...
 
 [Data](articles/6ca9b219.json)
+
+[Extended Data](ext_articles/6ca9b219.ext.json)
 
 ---
 
@@ -2365,57 +2435,5 @@ Meanwhile, the driver of the van has been arrested after the driver of the van a
 [Data](articles/391fd51b.json)
 
 [Extended Data](ext_articles/391fd51b.ext.json)
-
----
-
-### Jammu and Kashmir election;Preliminary recording
-
-*2024-09-18 10:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜம்மு-காஷ்மீர்-தேர்தல்-முதற்கட்ட-ஓட்டுப்பதிவு-ஆரம்பம்/175-343949) · `ta`
-
-Jammu & Kashmir election summary: First phase voting begins Sept. 18 in 24 assembly constituencies. Total 90 seats, 219 candidates. Voting ends Oct. 8. PM Modi urges participation.
-
-🟩
-
-The first voting was commenced today (Sept. 18) in 24 assembly constituencies in seven districts of Jammu and Kashmir.
-
-In the Union Territory of Jammu and Kashmir, the election is held in three phases for a total of 90 assembly constituencies. Voting counts on Oct. 8.
-
-The BJP and the People's Democratic Party are contesting alone and the National Convention Party coalition.
-
-There are 219 candidates on the field, including 90 independents. In total, 23.27 lakh voters are eligible to vote.
-
-In this case, the first voting is underway in the 24 assembly constituencies in seven districts today (Sept. 18).. Voting is held in 3,276 polling booths.
-
-Since special status was canceled in 2019, there was no assembly elections. After 10 years, the assembly elections are currently being held.
-
-...
-
-[Data](articles/99fd58f1.json)
-
-[Extended Data](ext_articles/99fd58f1.ext.json)
-
----
-
-### We will transform the rights of children and women into the fundamental rights of the country - Sajith Premadasa
-
-*2024-09-18 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193986) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sajith Premadasa pledges to elevate children and women's rights as fundamental national rights. He proposes constitutional amendments, poverty alleviation programs, anti-violence laws, healthcare initiatives, and economic empowerment for women.
-
-🟩
-
-Girls and boys should be activated together without dividing these two sectors. We will provide a new program for women through the United People's Power Government. The right of women and children is mentioned in the Constitution. Let us bring a new amendment that is particularly referred to in the Constitution and turns it into a fundamental right. The Opposition Leader said that the special reception for children and girls will be given to the honor and respect.
-
-We will definitely establish a special Presidential Secretariat for amendments to the constitution and make the right of women and children into high law. Opposition Leader Sajith Premadasa said that the head of the country, which is elected by the people, will be directly responsible for the matters of boys and girls, and receiving comments that carry out all the responsibilities of responsible activities.
-
-...
-
-[Data](articles/5a10c20e.json)
-
-[Extended Data](ext_articles/5a10c20e.ext.json)
 
 ---

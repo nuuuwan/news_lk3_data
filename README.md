@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 07:23:07**
+As of **2024-09-18 07:57:27**
 
 ## Newspaper Stats
 
-*Scraped **44,449** Articles*
+*Scraped **44,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,75 @@ dailymirrorlk | 4,733
 adaderanalk | 5,229
 tamilmirrorlk | 5,801
 virakesarilk | 7,101
-adaderanasinhalalk | 7,606
+adaderanasinhalalk | 7,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,448 (100.0%) of 44,449 articles have been extended.
+44,451 (100.0%) of 44,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### More than 3,000 injured in prevalence in Lebanon
+
+*2024-09-18 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201134) · `si`
+
+Explosions in Lebanon injure over 3000, kill 9 Hezbollah members. 200 seriously hurt. Blamed on Israel's cyber operation using new radio signals. Senior Hezbollah leader killed.
+
+🟩
+
+There have been many explosions in areas including Lebanon.
+
+Foreign media reports, Nine militants were killed and 3,000 killed in hebollah suffered injuries due to these explosions.
+
+The condition of about 200 people of injuries is serious.
+
+Hezbollah operating in Lebanon is reportedly injured in the explosion of "Pagers' machines used for their message transfers.
+
+The explosions occurred in near road, shopping, shops, and homes.
+
+Hisbollawa militants complains that the explosions were carried out by Israeli security forces.
+
+The cyber operation is said to be used by the Israeli security forces using the newly introduced radio signaling.
+
+According to the explosions, a senior member of the Hezbollah, including a senior leader of the Hezbollah, has been killed.
+
+◼️
+
+[Data](articles/981f0df3.json)
+
+[Extended Data](ext_articles/981f0df3.ext.json)
+
+---
+
+### Heavy rains into several provinces
+
+*2024-09-18 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201132) · `si`
+
+Heavy rains forecasted in Southern, Western, Sabaragamuwa, Kandy, Nuwara Eliya, Eastern, and Uva provinces. Thunderstorms expected in Central Highlands, North-Central, and Southern regions. Public advised to prepare for strong winds and lightning. Approximately 40-45 test areas identified.
+
+🟩
+
+The Department of Meteorology announces that there will be showers at several places in the Southern Province.
+
+Several showers in the Western and Sabaragamuwa provinces and several showers in the Kandy and Nuwara Eliya districts.
+
+Thundershowers will develop at several places in the East and Uva provinces.
+
+Written in the Western balconies of the Central Mountains and at times in the North-central and Southern provinces. There are about 40-45 tests.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/89f0930f.json)
+
+[Extended Data](ext_articles/89f0930f.ext.json)
+
+---
 
 ### SJB reaffirms commitment to Easter Attack justice after doubts raised
 
@@ -2273,59 +2331,5 @@ The film will be released on October 31 in Tamil, Telugu, Malayalam, Kannada and
 [Data](articles/7eff3a59.json)
 
 [Extended Data](ext_articles/7eff3a59.ext.json)
-
----
-
-### Those involved in voting will be fined - the Election Commission
-
-*2024-09-17 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193925) · `ta`
-
-Election Commission fines voters Rs 2 lakh for involvement in ballot fraud. Those found guilty face less than one year imprisonment. Action taken under Elections Act No. 23 of 2023.
-
-🟩
-
-The Election Commission has said that those who are involved in the ballot will be fined Rs 2 lakh.
-
-Currently, the amount has been increased to Rs.
-
-The Commission also stated that persons who are guilty of this charge will be sentenced to less than a year.
-
-The Election Commission further stated that action has been taken to tarnish the law under the Elections Act No. 23 of 2023.
-
-◼️
-
-[Data](articles/b5621575.json)
-
-[Extended Data](ext_articles/b5621575.ext.json)
-
----
-
-### We want you to give you that change - Dilith
-
-*2024-09-17 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201117) · `si`
-
-Dilith Jayaweera promises change, criticizes corruption, vows youth-focused programs.
-
-🟩
-
-The exmongering candidate Dilith Jayaweera stated that the opportunity to make the opportunity to change the people.
-
-"The corrupt politics of this country must end. Innocent people in this country cannot be grieved. You asked for a change. So you said 225 not to say no. "
-
-"We helped politicians that someday could make this country. But they continued to betray us. "
-
-"I came to politics to give an asset statement. Other candidates have given asset statements. The first three revenues 'revenue' Rs. 2 lakhs and three lakhs. A last misery. "
-
-"We have the responsibility of all the words we say. Our strategic program is mentioned how Sri Lanka is creating that year. No one can tell anyone today. "
-
-"We started gathering Sri Lankans who love this country and started a journey. We want to give you that change. "
-
-"We have a program to answer the questions of the youths."
-
-...
-
-[Data](articles/5c24be00.json)
-
-[Extended Data](ext_articles/5c24be00.ext.json)
 
 ---

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 06:43:20**
+As of **2024-09-18 07:23:07**
 
 ## Newspaper Stats
 
-*Scraped **44,447** Articles*
+*Scraped **44,449** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 428
-colombotelegraphcom | 441
+colombotelegraphcom | 442
 islandlk | 2,621
 economynextcom | 2,688
 dailyftlk | 2,961
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
-tamilmirrorlk | 5,800
+tamilmirrorlk | 5,801
 virakesarilk | 7,101
 adaderanasinhalalk | 7,606
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,443 (100.0%) of 44,447 articles have been extended.
+44,448 (100.0%) of 44,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -472,6 +472,28 @@ The success of NPP’s entire economic trajectory hinges on reforming governance
 
 ---
 
+### Special Traffic Arrangements Today
+
+*2024-09-18 01:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசேட-போக்குவரத்து-ஏற்பாடுகள்/175-343938) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Special traffic arrangements today: Final campaign meetings in Grandpass, Maradana, Nugegoda, Piliyandala, Kottawa."
+
+🟩
+
+Final campaign meetings will be held today in Grandpass, Maradana, Nugegoda, Piliyandala and Kottawa.
+
+◼️
+
+[Data](articles/e82d9d8b.json)
+
+[Extended Data](ext_articles/e82d9d8b.ext.json)
+
+---
+
 ### Campaign activities are completed today
 
 *2024-09-18 01:36:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றுடன்-பிரசார-நடவடிக்கைகள்-நிறைவு/175-343937) · `ta`
@@ -697,6 +719,20 @@ The Presidential Election on 21 September could be the most important election f
 [Data](articles/c72baf87.json)
 
 [Extended Data](ext_articles/c72baf87.ext.json)
+
+---
+
+### Conscience At The Polls: A Forgotten Tool To Guide Our Future
+
+*2024-09-18 00:11:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/conscience-at-the-polls-a-forgotten-tool-to-guide-our-future/) · `en`
+
+Why explore the concept of conscience now, on the verge of a presidential election? Though volumes have been written, and it has been the subject of deep discussions by psychologists, researchers, and religions, there’s an urgency to revisit it. The idea of “conscience” often carries moral implications and is typically viewed as an inner sense of integrity. Properly harnessed, conscience—this inner integrity itself—can help anyone attain the highest state of mind, alongside its other functions like providing the ability to discern right from wrong. It equips any healthy individual to monitor, evaluate, and control their actions.
+
+...
+
+[Data](articles/de7cf119.json)
+
+[Extended Data](ext_articles/de7cf119.ext.json)
 
 ---
 
@@ -2291,51 +2327,5 @@ The exmongering candidate Dilith Jayaweera stated that the opportunity to make t
 [Data](articles/5c24be00.json)
 
 [Extended Data](ext_articles/5c24be00.ext.json)
-
----
-
-### Here is Sri Lanka tomorrow
-
-*2024-09-17 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201116) · `si`
-
-Sri Lanka vs New Zealand Test series: Sri Lankan team announced for two matches starting tomorrow at Galle International Cricket Stadium.
-
-🟩
-
-The Sri Lankan team has been named for the two-match Test series between Sri Lanka and New Zealand.
-
-Tests will be held at Galle International Cricket Stadium and the first match begins tomorrow (18).
-
-◼️
-
-[Data](articles/341e7927.json)
-
-[Extended Data](ext_articles/341e7927.ext.json)
-
----
-
-### State Medical Officers Association Tomorrow
-
-*2024-09-17 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/193939) · `ta`
-
-State Medical Officers Association announces strike against hospitals on Wednesday. Union targets disciplinary actions by Health Ministry. 14-day deadline set for review. Next steps determined after Central Committee meeting.
-
-🟩
-
-The State Medical Officers Association has announced that it will carry out trade union action on Wednesday (18) targeting hospitals across the country.
-
-According to the media spokesman of the State Medical Officers Association, Dr. Samil Wijesinghe said that the work will be started from 8:00 am tomorrow.
-
-The Government Medical Officers Association (UW Province Coordinator and the Assistant Secretary of the Uva Provincial Officers' Association and Assistant Secretary Dr. Palitha Rajapakse will carry out this work in protest of the disciplinary action of the Ministry of Health.
-
-The Government Medical Officers Association will provide a 14 -day time to the Health Ministry to re -examine the incident.
-
-If the answer is not a good response, the next step will be taken following the Central Committee meeting at the end of the month.
-
-◼️
-
-[Data](articles/ae9eca0e.json)
-
-[Extended Data](ext_articles/ae9eca0e.ext.json)
 
 ---

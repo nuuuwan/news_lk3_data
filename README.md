@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 17:07:37**
+As of **2024-09-18 17:22:08**
 
 ## Newspaper Stats
 
-*Scraped **44,557** Articles*
+*Scraped **44,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,166 @@ economynextcom | 2,694
 dailyftlk | 2,962
 adalk | 4,112
 dailymirrorlk | 4,733
-adaderanalk | 5,243
+adaderanalk | 5,245
 tamilmirrorlk | 5,820
-virakesarilk | 7,123
-adaderanasinhalalk | 7,630
+virakesarilk | 7,127
+adaderanasinhalalk | 7,631
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,554 (100.0%) of 44,557 articles have been extended.
+44,560 (100.0%) of 44,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Kamindu Mendis slams 4th Test century, equals world Test record
+
+*2024-09-18 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102063/kamindu-mendis-slams-4th-test-century-equals-world-test-record) · `en`
+
+Kamindu Mendis scored his 4th Test Century while playing against New Zealand in the 1st Test at Galle, and he also equaled a world Test record by scoring 50+ runs in each of his first seven matches.
+
+Kamindu Mendis has also broken Michael Vandort’s record for fastest Sri Lankan batter to reach 4 Tests hundreds, in just 11 innings, thus equaling Don Bradman’s record.
+
+Mendis has joined an elite club, equalling a world Test record by becoming only the second batter to score 50-plus runs in each of his first seven Test matches.
+
+Pakistan’s Saud Shakeel is the only other cricketer to have achieved this remarkable feat.
+
+Mendis reached this milestone during the first day of the opening Test against New Zealand in Galle, scoring his eighth 50-plus in Tests.
+
+His achievement surpasses cricketing greats like Sunil Gavaskar (India), Saeed Ahmed (Pakistan), and Basil Butcher (West Indies), who all managed fifties in each of their first six Test matches.
+
+...
+
+[Data](articles/477a92b9.json)
+
+[Extended Data](ext_articles/477a92b9.ext.json)
+
+---
+
+### The Tamil people should only give the general candidate - Ariyanendran
+
+*2024-09-18 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194029) · `ta`
+
+Tamil candidate Ariyanendran urges voters to support him exclusively in presidential election, warning against spreading false information via AI technology.
+
+🟩
+
+The Tamil Candidate Paa has said that many parties are planning to spread the Tamil general candidate to spread their votes on the 21st.. Ariyanendran said.
+
+Yall. He said this during a media briefing held at the Media Center on Wednesday (18).
+
+Vote for the Tamil general candidate in the upcoming presidential election. Some say to give preferential votes to other candidates. Won't do so. Vote for the Tamil general candidate alone. That is the historical duty of every Tamil people.
+
+On the 23rd of this month, we started the campaign work on "Nam for us" in Jaffna Police Kandy and carried out campaign work in eight districts. Thereby increasing the reception of the general candidate among the people.
+
+...
+
+[Data](articles/0955bb18.json)
+
+[Extended Data](ext_articles/0955bb18.ext.json)
+
+---
+
+### SC rejects petition seeking to remove interim order on Deshbandu Tennakoon
+
+*2024-09-18 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102062/sc-rejects-petition-seeking-to-remove-interim-order-on-deshbandu-tennakoon) · `en`
+
+The Supreme Court today (18) dismissed the petition of intervention filed seeking an order suspending the interim injunction issued preventing Deshabandu Tennakoon from functioning as the Inspector General of Police (IGP).
+
+Ven. Dr. Bellanwila Dhammaratana Thero, Ven. Prof Agalakada Sirisumana Thero and Ven. Prof. Kotapitiye Rahula had filed the intervening petition.
+
+The petition of intervention was taken up today (18) before a three-judge Supreme Court bench consisting of Justices Yasantha Kodagoda, Achala Wengappuli and Mahinda Samayawardhena.
+
+Announcing the order, the chair of the judge bench, Justice Yasantha Kodagoda, had informed that the intervening petition would be dismissed as its content was insufficient to maintain a case.
+
+◼️
+
+[Data](articles/2af1f8dd.json)
+
+[Extended Data](ext_articles/2af1f8dd.ext.json)
+
+---
+
+### This is how the train will run next few days
+
+*2024-09-18 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201157) · `si`
+
+Railway schedule changes: Election day (21st) sees implementation. Far-backing trains until 22nd. Special train runs Colombo Fort-Kankesanthurai for election duties.
+
+🟩
+
+The Railway Schedule is being implemented on Saturday on the 21st of the election.
+
+In response to Ada Derana, he said that far as far as far as far as the 22nd Sunday, far backing trains will be implemented and a shortage of the Short Railway Travel.
+
+Meanwhile, the Railway Department has taken steps to run a special train between the Colombo Fort and Kankesanthurai for the participation of election duties.
+
+◼️
+
+[Data](articles/180c6971.json)
+
+[Extended Data](ext_articles/180c6971.ext.json)
+
+---
+
+### The TNA is a party;People need to understand what is happening within the party - CVK Sivagnanam
+
+*2024-09-18 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194035) · `ta`
+
+TNA party internal issues transparency importance CVK Sivagnanam statement
+
+🟩
+
+The Sri Lankan Tamil party's vice president and the chairman of the Northern Provincial Council, CVK Sivagnanam, said that the people should understand what is happening within the party.
+
+He made this statement at a meeting held at the Jaffna Media Center on Wednesday (18).
+
+The TNA. Nobody can change it. During the election period, each will present every opinion.. That's the end of the party. After this many will make many meetings. Thereafter, some conclusions are made by individuals. Likewise, this election has taken place at the time.
+
+Who will take disciplinary action?Take against the leader?Many people meet each of the party as far as the party is concerned. Will ask for their support. People need to know what is going on within the party.
+
+The TNA has a policy. It will be stable. There will also be wrong with Sumanthiran. It can be talked about. The party will be stable. Prevail. The presidential election will be held in the near future.. We will make decisions at that time.
+
+...
+
+[Data](articles/9ce94e0b.json)
+
+[Extended Data](ext_articles/9ce94e0b.ext.json)
+
+---
+
+### What is the mindset of the Northern people for a few days for the presidential election?-Indian Express
+
+*2024-09-18 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194034) · `ta`
+
+Northern Sri Lanka's presidential election mindset: Low interest, economic concerns, unresolved post-war issues, minority vote importance.
+
+🟩
+
+Diaz Peppur Sri Lanka Bollas
+
+With just a few days to go to an important presidential election, the northern capital of Sri Lanka, Jaffna, has not reflected the election interest in other parts of Sri Lanka.
+
+There are a total of 39 candidates, including the general candidate, Bhakiyaselvam Ariyanethran.
+
+The widespread campaign in the south is not in the North and the people are engaged in their daily activities.
+
+Fifteen years after the end of the war in May 2009, Sri Lanka's northern impacts continues to spin.
+
+Long -resolved issues in the North are missing during the war, housing livelihoods under military occupation.
+
+At the end of the presidential campaign, the current and common candidate, President Ranil Wickremesinghe, the leader of the National People's Power, Sajith Premadasa and the Marxist National People's Power (NPP) Anura Dissanayake are trying to attract Tamil votes.
+
+...
+
+[Data](articles/c74eec02.json)
+
+[Extended Data](ext_articles/c74eec02.ext.json)
+
+---
 
 ### Police seek public assistance to trace female suspect
 
@@ -50,6 +196,22 @@ Accordingly, any information regarding the relevant suspect is requested to be p
 
 [Data](articles/556f4462.json)
 
+[Extended Data](ext_articles/556f4462.ext.json)
+
+---
+
+### ஸ்ரீலங்கன் ஏர்லைன்ஸின் எக்கானமி வகுப்பில் உணவை முன்பதிவு செய்ய வசதி
+
+*2024-09-18 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194024) · `ta`
+
+அதன்படி, சால்மன் ஸ்டீக்ஸ், சிக்கன் லம்ப்ரைஸ், மாட்டிறைச்சி பர்கர்கள் போன்ற உணவுகள் மற்றும் சைவம் மற்றும் புரதமற்ற (பசையம்) உணவுகள் உட்பட பல்வேறு காலை உணவு விருப்பங்களைக் கொண்ட தொகுக்கப்பட்ட உணவு வகைகளை பயணிகள் தெரிவு செய்யலாம்.
+
+பயணிகள் விமானம் புறப்படுவதற்கு 48 மணி நேரத்திற்கு முன்னர் விமானத்தின் இணையதளம் அல்லது தொடர்பு மையம் ஊடாக உணவை முன்பதிவு செய்யலாம்.
+
+◼️
+
+[Data](articles/7ad577db.json)
+
 ---
 
 ### பழம்பெறும் நடிகை  சி.ஐ.டி. சகுந்தலா காலமானார்
@@ -67,6 +229,22 @@ Accordingly, any information regarding the relevant suspect is requested to be p
 ...
 
 [Data](articles/453bd201.json)
+
+---
+
+### ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் தமிழ் பொதுவேட்பாளருக்கும் இடையில் தொடர்பு ; சுமந்திரன்
+
+*2024-09-18 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194031) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும், தமிழ் பொதுவேட்பாளருக்கும் இடையிலான தொடர்பு தற்போது அம்பலமாகியுள்ளதாக இலங்கைத் தமிழரசுக்கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+அரியநேத்திரனுக்கு தன்னாலும், சாணக்கியனாலும் அச்சுறுத்தல் இருப்பதாக பிரதிப் பொலிஸ்மா அதிபர் ஒருவர் எழுதியுள்ள கடிதமானது தேர்தல் சட்டங்களை மீறும் ஒரு செயற்பாடு என்றும் அதன் பின்னணியில் யார் இருக்கின்றார்கள் என்பதையும் மக்கள் அறிவார்கள் என்றும் அவர் குறிப்பிட்டார்.
+
+யாழ். ஊடக அமையத்தில் இன்று புதன்கிழமை (18) நடத்திய ஊடவியலாளர் சந்திப்பின்போதே அவர் மேற்கண்டவாறு கூறினார்.
+
+...
+
+[Data](articles/c80bbc75.json)
 
 ---
 
@@ -109,30 +287,6 @@ Namal Rajapaksa further stated that if anyone claims that they stole or engaged 
 [Data](articles/cb643032.json)
 
 [Extended Data](ext_articles/cb643032.ext.json)
-
----
-
-### The Tamil people should only give the general candidate - Ariyanendran
-
-*2024-09-18 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194029) · `ta`
-
-Tamil candidate Ariyanendran urges voters to support him exclusively in presidential election, warning against spreading false information via AI technology.
-
-🟩
-
-The Tamil Candidate Paa has said that many parties are planning to spread the Tamil general candidate to spread their votes on the 21st.. Ariyanendran said.
-
-Yall. He said this during a media briefing held at the Media Center on Wednesday (18).
-
-Vote for the Tamil general candidate in the upcoming presidential election. Some say to give preferential votes to other candidates. Won't do so. Vote for the Tamil general candidate alone. That is the historical duty of every Tamil people.
-
-On the 23rd of this month, we started the campaign work on "Nam for us" in Jaffna Police Kandy and carried out campaign work in eight districts. Thereby increasing the reception of the general candidate among the people.
-
-...
-
-[Data](articles/0955bb18.json)
-
-[Extended Data](ext_articles/0955bb18.ext.json)
 
 ---
 
@@ -2225,183 +2379,5 @@ As a result, central bank dollar borrowings or reserves which are spent to finan
 [Data](articles/74b5d0f6.json)
 
 [Extended Data](ext_articles/74b5d0f6.ext.json)
-
----
-
-### Several spells of showers expected in parts of Sri Lanka
-
-*2024-09-18 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102048/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
-
-The Meteorology Department says showers or thundershowers will occur in Southern province while several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at several places in Eastern and Uva provinces during the evening or night, it said.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in North-central and Southern provinces.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/75d49c5a.json)
-
-[Extended Data](ext_articles/75d49c5a.ext.json)
-
----
-
-### Sri Lanka President opens SKD vehicle assembly plant
-
-*2024-09-18 07:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-opens-skd-vehicle-assembly-plant-179804/) · `en`
-
-ECONOMYNEXT – President Ranil Wickremesinghe opened an assembly plant in Sri Lanka’s Kuliyapitiya area, which will start by putting together a 15-seater passenger van.
-
-The plant will assemble semi-knocked down vehicles imported from abroad, he said.
-
-Western Automobile Assembly Private Limited, promoted by Sri Lanka’s Senok group.
-
-“We approved the establishment of this factory in 2015, but it faced significant opposition and protests. Investigations were even conducted in Parliament,” he was quoted as saying at the opening ceremony Tuesday.
-
-“The project, which was scheduled to launch in 2019, was delayed due to the impacts of COVID-19 and the economic crisis.
-
-After assuming the presidency, I made the decision to restart all these stalled projects. Today, we have finally commenced operations at the Western Automobile Company.
-
-“This factory has the capacity to produce 50,000 vehicles annually, which will strengthen our export sector.”
-
-...
-
-[Data](articles/d3cd08e4.json)
-
-[Extended Data](ext_articles/d3cd08e4.ext.json)
-
----
-
-### More than 3,000 injured in prevalence in Lebanon
-
-*2024-09-18 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201134) · `si`
-
-Explosions in Lebanon injure over 3000, kill 9 Hezbollah members. 200 seriously hurt. Blamed on Israel's cyber operation using new radio signals. Senior Hezbollah leader killed.
-
-🟩
-
-There have been many explosions in areas including Lebanon.
-
-Foreign media reports, Nine militants were killed and 3,000 killed in hebollah suffered injuries due to these explosions.
-
-The condition of about 200 people of injuries is serious.
-
-Hezbollah operating in Lebanon is reportedly injured in the explosion of "Pagers' machines used for their message transfers.
-
-The explosions occurred in near road, shopping, shops, and homes.
-
-Hisbollawa militants complains that the explosions were carried out by Israeli security forces.
-
-The cyber operation is said to be used by the Israeli security forces using the newly introduced radio signaling.
-
-According to the explosions, a senior member of the Hezbollah, including a senior leader of the Hezbollah, has been killed.
-
-◼️
-
-[Data](articles/981f0df3.json)
-
-[Extended Data](ext_articles/981f0df3.ext.json)
-
----
-
-### For New Dawn In Post-Election Sri Lanka, Pivot To The BRICS In A Multipolar World
-
-*2024-09-18 07:00:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/for-new-dawn-in-post-election-sri-lanka-pivot-to-the-brics-in-a-multipolar-world/) · `en`
-
-In the run up to elections the post-Marxist National People’s Power (NPP), has run a high-gloss, foreign-funded election campaign to market its policies as a ‘new dawn’. Remarkably, the NPP and rival political parties alike had ignored wider geopolitical developments that may contribute to such a dawn given the globally networked nature of the geostrategic island’s ‘poly crisis’.
-
-Re-orienting the Sri Lankan economy toward the BRICS that is challenging the ‘exorbitant privileged’ of the US dollar as global reserve currency would be one such step. The US dollar has been long used to debt colonize the Global South. However, all major political parties have done little to educate voters about Sri Lanka’s wider geopolitical challenges, or the need to pivot away from the West’s tired debt trap, neocolonialism.
-
-...
-
-[Data](articles/d55b671f.json)
-
-[Extended Data](ext_articles/d55b671f.ext.json)
-
----
-
-### Records are also being published in presidential election flocks
-
-*2024-09-18 06:31:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-ප්‍රචාරක--රැළිවල---වාර්තා-පළ-කිරීමටත්-සීමා-පැනවේ/11-411986) · `si`
-
-Presidential election propaganda meetings deadline: 12 pm today. Broadcasting on all media platforms tomorrow. Elections Commission requests post-meeting reports from all sources.
-
-🟩
-
-All propaganda meetings for the presidential election should be completed at 12 pm today (18) and broadcasting the meetings on the meetings, including social and print media will be completed tomorrow.
-
-Elections Commission announced that these videos and details of the propaganda meetings issued by the Elections Commission on the presidential election.Issuing
-
-Accordingly, the Elections Commission requests reports of the presidential propaganda meetings after 12 noon.
-
-The Elections Commission states that these terms are also relevant for television, newspapers and all other social media.
-
-◼️
-
-[Data](articles/063dd848.json)
-
-[Extended Data](ext_articles/063dd848.ext.json)
-
----
-
-### Heavy rains into several provinces
-
-*2024-09-18 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201132) · `si`
-
-Heavy rains forecasted in Southern, Western, Sabaragamuwa, Kandy, Nuwara Eliya, Eastern, and Uva provinces. Thunderstorms expected in Central Highlands, North-Central, and Southern regions. Public advised to prepare for strong winds and lightning. Approximately 40-45 test areas identified.
-
-🟩
-
-The Department of Meteorology announces that there will be showers at several places in the Southern Province.
-
-Several showers in the Western and Sabaragamuwa provinces and several showers in the Kandy and Nuwara Eliya districts.
-
-Thundershowers will develop at several places in the East and Uva provinces.
-
-Written in the Western balconies of the Central Mountains and at times in the North-central and Southern provinces. There are about 40-45 tests.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/89f0930f.json)
-
-[Extended Data](ext_articles/89f0930f.ext.json)
-
----
-
-### Ishapmary Disobediation: Aware of how popular characters are robbed your vote?
-
-*2024-09-18 05:52:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1jddy32dgxo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Famous figures endorse candidates in elections worldwide. Critics argue this influences voters based on popularity rather than policy expertise. Experts caution against voting solely due to celebrity endorsements, emphasizing the importance of understanding candidates' actual positions and qualifications.
-
-🟩
-
-Ishapmary Disobediation: Aware of how popular characters are robbed your vote?
-
-There are many famous characters in every presidential election as well as in other elections, as well as other elections to support candidates or political parties to vote.
-
-This is not only in Sri Lanka but also in all other countries.
-
-There is no doubt that you have already seen the artists, sportsmen, businessmen, literary teachers, university lecturers representing many candidates.
-
-The purpose of this article is to examine how accurate and logical to a politician who is not aware of the politics of politics is not aware of the politics.
-
-In the 2019 presidential election, Gotabhaya Rajapakse was seen as a large number of famous people, including artists, to appoint Sri Lankan president.
-
-There, they have created an organization in various fields, "in different fields," created an organization publicly and appeared to Gotabhaya Rajapaksa to power.
-
-...
-
-[Data](articles/ac3b754f.json)
-
-[Extended Data](ext_articles/ac3b754f.ext.json)
 
 ---

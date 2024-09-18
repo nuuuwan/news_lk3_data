@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 11:39:15**
+As of **2024-09-18 11:58:19**
 
 ## Newspaper Stats
 
-*Scraped **44,492** Articles*
+*Scraped **44,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ colombotelegraphcom | 443
 islandlk | 2,621
 economynextcom | 2,688
 dailyftlk | 2,962
-adalk | 4,101
+adalk | 4,102
 dailymirrorlk | 4,733
-adaderanalk | 5,236
-tamilmirrorlk | 5,812
+adaderanalk | 5,237
+tamilmirrorlk | 5,813
 virakesarilk | 7,108
-adaderanasinhalalk | 7,618
+adaderanasinhalalk | 7,619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,492 (100.0%) of 44,492 articles have been extended.
+44,496 (100.0%) of 44,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### A child killed in a hundred and a half
+
+*2024-09-18 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201145) · `si`
+
+<PHIND_TIMEOUT>
+
+🟩
+
+A large number of and a half was killed in an accident at the Anuradhapura road on the Mahiyanganaya Mahiyanganaya road.
+
+◼️
+
+[Data](articles/a5c3c16e.json)
+
+[Extended Data](ext_articles/a5c3c16e.ext.json)
+
+---
+
+### Pakistan-Sri Lanka trade dispute unresolved: Report
+
+*2024-09-18 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102055/pakistan-sri-lanka-trade-dispute-unresolved-report) · `en`
+
+Pakistan and Sri Lanka have yet to operationalise a bilateral dispute resolution body, nearly two decades after signing a treaty, leaving trade disputes unresolved.
+
+This could potentially harm Pakistan’s exports to the island nation.
+
+On Monday, the Ministry of Commerce informed a Senate Standing Committee on Commerce that Sri Lankan authorities were uncooperative, suggesting the issue now needs to be addressed at the political level.
+
+Senator Anusha Rahman of the Pakistan Muslim League-Nawaz (PML-N) chaired the meeting. Initially, ministry officials implied the dispute resolution forum was effective but later admitted Sri Lanka’s lack of cooperation.
+
+“We have friendly relations with Sri Lanka and want to amicably resolve the trade disputes,” said Minister for Commerce Jam Kamal.
+
+...
+
+[Data](articles/58a0e22c.json)
+
+[Extended Data](ext_articles/58a0e22c.ext.json)
+
+---
 
 ### Anura Kumara outlines plans for IT growth, tourism boost, and agri independence
 
@@ -47,6 +87,26 @@ He also emphasized his plans for the IT industry, saying, “Currently, the expo
 [Data](articles/82ad6f08.json)
 
 [Extended Data](ext_articles/82ad6f08.ext.json)
+
+---
+
+### Threaten to a Member of Parliament
+
+*2024-09-18 11:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாராளுமன்ற-உறுப்பினருக்கு-அச்சுறுத்தல்/76-343951) · `ta`
+
+<PHIND_TIMEOUT>
+
+🟩
+
+A complaint has been lodged at the Kandy Headquarters Police Station regarding the telephone call that threatened the Kandy District Parliamentarian Vasantha Yapa Bandara.
+
+He stated that she had made calls for a woman from two telephone numbers from 12.30 pm on Wednesday (18).
+
+◼️
+
+[Data](articles/dbb78397.json)
+
+[Extended Data](ext_articles/dbb78397.ext.json)
 
 ---
 
@@ -193,6 +253,24 @@ Accordingly, two constables and sergeants on duty at the Blumental Police Statio
 [Data](articles/478c7dc3.json)
 
 [Extended Data](ext_articles/478c7dc3.ext.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2024-09-18 09:56:40* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-411988) · `si`
+
+<PHIND_TIMEOUT>
+
+🟩
+
+Sri Lanka Leader Dhananjaya de Silva won the toss and win the first Test cricket match against New Zealand team.
+
+◼️
+
+[Data](articles/1680416e.json)
+
+[Extended Data](ext_articles/1680416e.ext.json)
 
 ---
 
@@ -2217,101 +2295,5 @@ Meanwhile, a woman who was organized by the Surgeon Power Women's Power Organiza
 [Data](articles/c6f8fd7c.json)
 
 [Extended Data](ext_articles/c6f8fd7c.ext.json)
-
----
-
-### Ranil invited to buds
-
-*2024-09-17 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201125) · `si`
-
-Ranil Wickremesinghe invites SLFP and Sri Lanka Civil Front to rebuild the country. He spoke at a rally in Kuliyapitiya, addressing concerns about his presidency and future plans.
-
-🟩
-
-Independent president of Ranil Wickremesinghe says that the Sri Lanka Civil Front and the Sri Lanka Freedom Party (SLFP) are invited to build the country.
-
-He was speaking at a rally rally in Kuliyapitiya today (17).
-
-"I talked to the people of the United National Party and I speak to those in Sri Lanka to those in the Pohot.  මතක තියාගන්න 2022 මැයි මාසේ කොච්චර බයෙන් හිටිය ද? මම ජනාධිපති වුණාට පස්සෙත් බයෙන් හිටියා... Talk to. Some people don't say yet ... Who is the election. All of September 21, let us work on September 21. "
-
-Meanwhile, Ranil can be held to ensure the victory of the independent presidential candidate Ranil Wickremesinghe.
-
-"When you wanted, they were not. Now comes and tell me to give me this. Next year I will lighten more living weight. Give me a mine to do it. "
-
-◼️
-
-[Data](articles/1b9f88ce.json)
-
-[Extended Data](ext_articles/1b9f88ce.ext.json)
-
----
-
-### Pagers of members of the Hesbullah organization that suddenly exploded - more than a hundred people were injured-
-
-*2024-09-17 20:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/193965) · `ta`
-
-Hesbullah members injured in explosion near Beirut. Over 100 hurt when telecom equipment detonated. Videos show victims on floor and being rushed to hospitals. Incident occurred in suburbs of Lebanon's capital.
-
-🟩
-
-More than a hundred members of Lebanon's Hesbullah organization were injured in a sudden explosion of telecommunications equipment.
-
-The explosion took place in the suburbs of Beirut and other parts of Leban.
-
-Videos have been revealed that the injured are sitting on the floor and others are taken to the hospital.
-
-◼️
-
-[Data](articles/d83cbfe3.json)
-
-[Extended Data](ext_articles/d83cbfe3.ext.json)
-
----
-
-### Arrested in illegal liquor smuggling
-
-*2024-09-17 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/193960) · `ta`
-
-Illegal liquor smuggler arrested in Bamunugama. 45-year-old man caught with 67 liters of liquor and motorcycle.
-
-🟩
-
-A suspect has been arrested for kidnapping illegal liquor on a motorcycle in the Bamunugama police division, police said.
-
-The suspect has been arrested during a roundup of information available to the Pamunugama police.
-
-The arrested suspect is a 45 -year -old from the Jha -Ela area.
-
-Police said 67 liters of 500 ml of illegal liquor and a motorcycle used for liquor smuggling from the arrested suspect.
-
-◼️
-
-[Data](articles/f1d9e113.json)
-
-[Extended Data](ext_articles/f1d9e113.ext.json)
-
----
-
-### Mega Lifesciences introduces groundbreaking “WeCare Mother and Child” app
-
-*2024-09-17 20:01:00* · [`islandlk`](http://island.lk/mega-lifesciences-introduces-groundbreaking-wecare-mother-and-child-app/) · `en`
-
-As a company, Mega Lifesciences is present in 33 countries across the world, with products that play a vital role in categories ranging from women’s health including pregnancy and lactation, bone and joint health, cardiovascular and diabetes to skin and liver health.
-
-The Company recently introduced a digital initiative, Health@Home, which aims at giving the younger generation [ that is increasingly technologically savvy], all the information they are seeking to monitor their health, enabling them to reduce avoidable mortality and morbidity.
-
-Jaya Container Terminals celebrates 16 years of success with record-breaking growth
-
-Smart technologies and innovative solutions seen as vital to SL’s stepped-up solar power capability
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/231c3026.json)
-
-[Extended Data](ext_articles/231c3026.ext.json)
 
 ---

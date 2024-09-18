@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 18:32:33**
+As of **2024-09-18 18:58:20**
 
 ## Newspaper Stats
 
-*Scraped **44,571** Articles*
+*Scraped **44,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,115
+adalk | 4,116
 dailymirrorlk | 4,733
 adaderanalk | 5,245
-tamilmirrorlk | 5,821
+tamilmirrorlk | 5,822
 virakesarilk | 7,128
 adaderanasinhalalk | 7,633
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 7,633
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,571 (100.0%) of 44,571 articles have been extended.
+44,572 (100.0%) of 44,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### தேர்தலன்று விசேட ரயில் சேவைகள்
+
+*2024-09-18 18:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலன்று-விசேட-ரயில்-சேவைகள்/175-343968) · `ta`
+
+ஜனாதிபதித் தேர்தல் கடமைகளில் ஈடுபடும் அரச ஊழியர்கள் மற்றும் பாதுகாப்பு அதிகாரிகளுக்கு வசதியாக கொழும்பு கோட்டைக்கும் காங்கேசன்துறைக்கும் (KKS) இடையில் தேர்தல் தினத்தன்று விசேட ரயில் சேவைகள் ஏற்பாடு செய்யப்பட்டுள்ளன.
+
+ஞாயிற்றுக்கிழமை (22) நீண்ட தூர புகையிரத சேவைகள் இடம்பெறும் எனினும் குறுகிய தூர புகையிரதங்களின் எண்ணிக்கையில் சில குறைப்புகள் ஏற்படக்கூடும் என திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/70eafa35.json)
+
+---
+
+### 2025 preschool uniforms to the students
+
+*2024-09-18 18:10:12* · [`adalk`](https://www.ada.lk/breaking_news/2025-නව-පාසල්-වාරයට-පෙර-පාසල්-නිල-ඇඳුම්--සිසුන්-අතට/11-412003) · `si`
+
+Sri Lanka: 2025 preschool uniforms gifted by China. 7 billion rupees allocated. Distribution planned before Jan 20th.
+
+🟩
+
+The Minister of Education Susil Premajay also says that the school uniforms will be given to the students of the 2025.
+
+These uniforms will be provided to all school children as a grant of the Chinese government and the country has about Rs. 7 billion.
+
+According to the recipients of Susil Premajayantha, the Chinese Ambassador and the relevant authorities with the relevant officers with the relevant officers of the Chinese government, is scheduled to be provided with all the rooms required for the 2025 New School and Pirivenas.
+
+According to the Ministry of Education, the Ministry of Education has confirmed that Sri Lanka is due to be received.
+
+The uniform stock is due to be distributed before January 20, which begins the new school term.
+
+◼️
+
+[Data](articles/14c78ed7.json)
+
+[Extended Data](ext_articles/14c78ed7.ext.json)
+
+---
 
 ### Sajith assured that Rajapaksas were kept
 
@@ -2329,51 +2369,5 @@ Subsequently, Mr. Ilius's name will be removed from the ballot. If he is given a
 [Data](articles/23f6ae84.json)
 
 [Extended Data](ext_articles/23f6ae84.ext.json)
-
----
-
-### What are the votes cast for the deceased?
-
-*2024-09-18 08:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவருக்கு-அளிக்கப்டும்-வாக்குகள்-என்னவாகும்/175-343943) · `ta`
-
-Elections Commission rejects votes for deceased presidential candidate Idrus Mohamed Iliyas. His nomination was for September 21, 2024. Candidate K.M.N. Sanjaya failed to replace him within 3 days. Iliyas' name removed from ballot; any votes deemed invalid.
-
-🟩
-
-The late presidential candidate on August 22. The Elections Commission has announced that all the votes cast by Idrus Mohamed Iliyas will be rejected.
-
-Illiyas nominated for the presidential election on September 21, 2024. Despite the possibility of appointing a person instead of him within three days, his candidate. K.MN. Sanjaya failed to do it
-
-Subsequently, Mr. Ilius's name will be removed from the ballot. If he is given any votes, they will be deemed to be invalid and rejected. According to Section 22 (1) (B) of the Presidential Election Act No. 15 of 1981, the Elections Commission issued a clear instructions on this issue.
-
-◼️
-
-[Data](articles/81ff9a02.json)
-
-[Extended Data](ext_articles/81ff9a02.ext.json)
-
----
-
-### Will be arrested after 12 o'clock
-
-*2024-09-18 07:52:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-மணிக்குப்-பின்-கைது-செய்யப்படுவர்/175-343942) · `ta`
-
-Elections Commission warns illegal campaigning arrests after deadline. Commissioner General states post-propaganda period restrictions on public rallies, advertising, and house-to-house campaigns. Police instructed to take action against violators.
-
-🟩
-
-The Elections Commission has warned that those who are engaged in illegal campaign will be arrested after the deadline, as the propaganda period for the upcoming presidential election ends today (18).
-
-In an interview with the Daily Mirror, the Commissioner General of Elections Saman Sri Ratnayake said, "It is a violation of the election law to propagate or promote any individual or group candidates even after the specified deadline."
-
-According to Ratnayake, strict regulations are in effect to ensure a fair and independent electoral process.
-
-“When the propaganda period is over, public rallies, advertising supplies or home -house campaign will not be allowed. After a certain period of time, the police have been advised to take action against any campaign, ”he added.
-
-◼️
-
-[Data](articles/ad84fb02.json)
-
-[Extended Data](ext_articles/ad84fb02.ext.json)
 
 ---

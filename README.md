@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 17:58:59**
+As of **2024-09-18 18:19:03**
 
 ## Newspaper Stats
 
-*Scraped **44,565** Articles*
+*Scraped **44,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,112
+adalk | 4,113
 dailymirrorlk | 4,733
 adaderanalk | 5,245
-tamilmirrorlk | 5,820
+tamilmirrorlk | 5,821
 virakesarilk | 7,127
-adaderanasinhalalk | 7,632
+adaderanasinhalalk | 7,633
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,565 (100.0%) of 44,565 articles have been extended.
+44,568 (100.0%) of 44,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Kaminda saves innings
+
+*2024-09-18 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201161) · `si`
+
+Sri Lanka vs New Zealand Test: Kaminda saves innings as SL scores 302/7. Komindu Mendis shines with 114*. William O'Reilly takes 3 wkts, Glenn Phillips 2.
+
+🟩
+
+Sri Lanka scored 302 runs for the loss of 7 wickets when the first day of the first Test match between Sri Lanka and New Zealand.
+
+Komindu Mendis, who played a supernicropy for Sri Lanka, scored 114 runs.
+
+William O'ruk took 3 wickets in their bowling on New Zealand. Glenn Phillips took 2 wickets.
+
+◼️
+
+[Data](articles/d38d0810.json)
+
+[Extended Data](ext_articles/d38d0810.ext.json)
+
+---
+
+### Sri Lanka on the first day
+
+*2024-09-18 17:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முதலாம்-நாளில்-முன்னிலையில்-இலங்கை/44-343966) · `ta`
+
+Sri Lanka vs New Zealand: Day 1 summary. Sri Lanka's Tanjaya de Silva led the team in the two-match series opener in Galle. The team faced challenges early but recovered through Dinesh Chandimal's partnership with Tim Southee. Key players like Glenn Phillips and Kusal Mendis contributed significantly. Sri Lanka ended the day at 302/9, with Ramesh Mendis on 14* and Prabath Jayasuriya yet to score.
+
+🟩
+
+In the two -match series, Sri Lanka's leader Tanjaya de Silva Damadhani announced that he would win the first round of the tournament, which began today (18) in Galle.
+
+Sri Lanka, who first played in that way, lost to Dimuth Karunaratne at the outset to William O Rurg. Later in a short time, Nisanga scored 27 runs.
+
+Dinesh Chandimal, a pair, then moved to New Zealand captain Tim Saudi with 30 runs as Angelo Madhus innings moved.
+
+De Silva Glenn Philips fell to the Philips, followed by the Mendis on one side, and Madus fell to O Rurg with 36 runs.. Kusal then fell to Philips with 50 runs with Kusal Mendis, with Kusal Mendis.
+
+In the end, Ajaz Patel fell to 114 runs, losing 7 wickets at the end of the first day and Sri Lanka got 302 runs in their first innings.. Ramesh Mendis is on the field with 14 runs and Prabhat Jayasuriya is not getting the run.
+
+◼️
+
+[Data](articles/651eafc5.json)
+
+[Extended Data](ext_articles/651eafc5.ext.json)
+
+---
 
 ### Sanjeewa bans several things belonging to Mahanama
 
@@ -417,6 +465,26 @@ It is reported that the driver of the bus has fled the scene of the accident and
 [Data](articles/0e86593d.json)
 
 [Extended Data](ext_articles/0e86593d.ext.json)
+
+---
+
+### Here is the verdict of the Supreme Court today about the petition against Deshabandu's interim ban
+
+*2024-09-18 16:04:16* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දුගේ-අතුරු-තහනමට-එරෙහි-පෙත්සම-ගැන-ශ්‍රේෂ්ඨාධිකරණය-අද-ගත්-තීන්දුව-මෙන්න/11-412000) · `si`
+
+Supreme Court refuses to lift Deshabandu's interim ban, bench led by Yasanantha Kodagoda.
+
+🟩
+
+The Supreme Court today (18) has refused to remove the interim injunction order which Deshabandu Tennakoon is prevented from duties the interim injunction.
+
+The petition was called before the three-member Supreme Court Bench, Yasanantha Kodagoda, Yasanantha Kodagoda, Aethantha Kodagoda, Aetala Windsuli and Mahinda Samayawardena.
+
+◼️
+
+[Data](articles/88dccec9.json)
+
+[Extended Data](ext_articles/88dccec9.ext.json)
 
 ---
 
@@ -2333,77 +2401,5 @@ Lebanon's Health Minister said that 200 of the injured were in danger of loading
 [Data](articles/5312ef93.json)
 
 [Extended Data](ext_articles/5312ef93.ext.json)
-
----
-
-### Election propaganda ends midnight today
-
-*2024-09-18 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201135) · `si`
-
-Election propaganda ends midnight today. Silent Saturday on 12th. No campaigning allowed after midnight. Election commission chairman urges candidates to remove advance offices. Police will remove non-compliant offices. Official voter papers not yet distributed.
-
-🟩
-
-The election campaign to the presidential election is due to end a midnight today (18).
-
-Accordingly, Saturdays on the 12th of this month will be operated as silent.
-
-During this period, no propaganda is prohibited and the police have been arrested and the police have been arrested and implemented any part of election rules.
-
-The Chairman of the Elections Commission, Mr. RMAL Ratnayake, the comment on this.
-
-"The polls set up from political parties is different. From the middle of the night of the 19th. The election office may be maintained in the event that the election office is relevant to the electorate.. At least 13,314 persons who have been established to the balace have already been withdrawn from the 19th night. In addition, an election office at the new level of seat level. We urge all candidates to remove the advanced offices. If they do not remove them, they will be necessary to remove the offices by the police. "
-
-...
-
-[Data](articles/8bdee398.json)
-
-[Extended Data](ext_articles/8bdee398.ext.json)
-
----
-
-### Hezbollah vows retaliation against Israel after pager blasts kill several, wound 2,750 in Lebanon
-
-*2024-09-18 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102049/hezbollah-vows-retaliation-against-israel-after-pager-blasts-kill-several-wound-2750-in-lebanon) · `en`
-
-Militant group Hezbollah promised to retaliate against Israel after accusing it of detonating pagers across Lebanon on Tuesday, killing nine people and wounding nearly 3,000 others, including fighters and Iran’s envoy to Beirut.
-
-Lebanese Information Minister Ziad Makary condemned the late-afternoon detonation of the pagers — handheld devices that Hezbollah and others in Lebanon use to send messages — as an “Israeli aggression.” Hezbollah said Israel would receive “its fair punishment” for the blasts.
-
-The Israeli military declined to comment on Reuters inquiries about the detonations.
-
-A senior Lebanese security source and another source told Reuters that Israel’s Mossad spy agency planted a small amount of explosives inside 5000 Taiwan-made pagers ordered by Hezbollah months before Tuesday’s detonations.
-
-...
-
-[Data](articles/f236ddae.json)
-
-[Extended Data](ext_articles/f236ddae.ext.json)
-
----
-
-### Do not stand up to the ethnic problem and the solution;Vote for national politics and economic circumstances -15 educators jointly emphasize
-
-*2024-09-18 07:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193969) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-15 Jaffna University educators urge Tamil voters to support national politics over ethnic issues, citing economic crisis and corruption. They advise voting for candidates promoting unity and addressing poverty, unemployment, and infrastructure challenges across Sri Lanka.
-
-🟩
-
-When we carry out our president, we will not only interfere with the ethnic problem and its solution, but it is necessary to analyze the entire political and economic situation in the country.. The 15 educators at the University of Jaffna have jointly urged the Tamil people to promote the politics of Tamil nationalism and to attract the attention of the international community and boycott the election on the basis of the Tamil nationalism.
-
-Dr. Antonirajan, Dr. S. Ariyavan, Prof. P.Ingasudhan, Dr. S. Jevasudhan, Dr. A. Kathirgamar, Prof. R. Kapilan, Dr. Ramarupan, Dr. N. SarvanandanIn a statement issued by 15 intellectuals - Srinharan, Dr. R. Darshan, Dr. M. Thirurankan, Dr. N. Varathan, Professor K Viknarupan and S.Vimal.
-
-The ninth presidential election will be held on the 21st. This was the first major election in the country after the country's most economic crisis in the country and the resulting people's uprising.
-
-...
-
-[Data](articles/7bd2a809.json)
-
-[Extended Data](ext_articles/7bd2a809.ext.json)
 
 ---

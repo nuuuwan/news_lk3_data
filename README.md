@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 09:38:50**
+As of **2024-09-18 09:57:41**
 
 ## Newspaper Stats
 
-*Scraped **44,471** Articles*
+*Scraped **44,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,75 @@ bbccomsinhala | 429
 colombotelegraphcom | 443
 islandlk | 2,621
 economynextcom | 2,688
-dailyftlk | 2,961
+dailyftlk | 2,962
 adalk | 4,099
 dailymirrorlk | 4,733
 adaderanalk | 5,234
 tamilmirrorlk | 5,809
-virakesarilk | 7,101
-adaderanasinhalalk | 7,612
+virakesarilk | 7,108
+adaderanasinhalalk | 7,613
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,471 (100.0%) of 44,471 articles have been extended.
+44,476 (100.0%) of 44,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Election campaigns nationwide today
+
+*2024-09-18 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/193980) · `ta`
+
+Presidential election campaign meetings today: Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, Namal Rajapaksa, Dilith Jayaweera, Nuwan Bogake. Locations: Grandpass, Matara, Galle, Kalutara, Homagama, Maradana, Beruwala, Central Colombo, Tower Hol, Nugegoda, Piliyandala, Kottawa, Kiribathgoda.
+
+🟩
+
+Election campaign meetings for the presidential election end on Wednesday (18).
+
+The main presidential candidates Ranil Wickremesinghe, Sajith Premadasa, Anuragumara Dissanayake, Namal Rajapaksa, Dilith Jayaweera and Nuwan Bogake will hold election campaign meetings today.
+
+Independent candidate Ranil Wickremesinghe's election campaign meetings will be held in Grandpass, Matara, Galle, Kalutara, Homagama and Maradana.. The final campaign meeting will be held in Maradana.
+
+The election campaign meetings of the United People's Power President Sajith Premadasa will be held in Galle, Beruwala and Central Colombo. His final election campaign meeting will be held in front of Tower Hol.
+
+The election campaign meetings of Anura Kumara Dissanayake, the President of the National People's Power, will be held in Kalutara, Gampaha and Nugegoda. His final election campaign meeting will be held in Nugegoda.
+
+Sri Lanka PA. His final election campaign meeting will be held in Piliyandala.
+
+...
+
+[Data](articles/41947ecd.json)
+
+[Extended Data](ext_articles/41947ecd.ext.json)
+
+---
+
+### Anura's design that earns $ 5 billion from IT
+
+*2024-09-18 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201139) · `si`
+
+Sri Lankan presidential candidate Anura Kumara Dissanayake proposes targeting $5 billion from IT, creating 100,000 software engineers, and boosting exports. He also suggests revitalizing industries like tourism, fishing, and agriculture to stimulate the economy.
+
+🟩
+
+The presidential candidate Anura Kumara Dissanayake says that information technology has a target of $ 5 billion to earn the economy.
+
+He says steps will be taken to create 100,000 software engineers.
+
+Anura Kumara Dissanayake made this statement participating at the rally held in Ruwanwella.
+
+"We have to make the economy. A little postponed to make up the big arms. But we can quickly we can take the tourism industry big. It is a $ 8 billion economy to bring about 40 million tourists. The next information technology is the technology industry. Now, increase an export economy of $ 1.2 billion to 5 dollars, in Sri Lanka to build 2. III of software engineers. Women should stop the country.
+
+...
+
+[Data](articles/4584ae43.json)
+
+[Extended Data](ext_articles/4584ae43.ext.json)
+
+---
 
 ### Ranil says next year's relief
 
@@ -47,6 +99,46 @@ Independent Presidency, Ranil Wickremesinghe says that the rupee will be further
 [Data](articles/c17a0da8.json)
 
 [Extended Data](ext_articles/c17a0da8.ext.json)
+
+---
+
+### Suspect arrested for locally manufactured gun
+
+*2024-09-18 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/193978) · `ta`
+
+Arrest made in Glacvankulam: Suspect caught with homemade weapon during police raid. Further investigation ongoing.
+
+🟩
+
+A suspect was arrested on Tuesday (17) with a locally manufactured firearm in the Glacvankulam area of ​​the Mankulam police division.
+
+Police said that the arrests were taken when the raid was carried out on information received by Mankulam Posar.
+
+Subsequently, the Mankulam police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/9e98129b.json)
+
+[Extended Data](ext_articles/9e98129b.ext.json)
+
+---
+
+### Rail service delay in Kelaniya Religion
+
+*2024-09-18 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/193979) · `ta`
+
+Train derailment causes delays in Kelaniya region. Railway Department reports service disruptions due to incident in Kirulappanai area.
+
+🟩
+
+The Railway Department said that the train services were delayed due to the train derailment in the Kirulappanai area.
+
+◼️
+
+[Data](articles/94cfcf2c.json)
+
+[Extended Data](ext_articles/94cfcf2c.ext.json)
 
 ---
 
@@ -89,6 +181,46 @@ The arrested have been identified as R. Niroshan (34) of Nedunkulam, Colombuthur
 [Data](articles/2625548d.json)
 
 [Extended Data](ext_articles/2625548d.ext.json)
+
+---
+
+### India's keen interest in Sri Lankan presidential election - President Ranil
+
+*2024-09-18 08:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/193977) · `ta`
+
+India's keen interest in Sri Lanka's presidential election. President Ranil Wickremesinghe discusses economic policies, IMF agreements, and corruption laws. Focuses on maintaining current economic plans and avoiding unrealistic promises. Emphasizes the importance of new laws and international cooperation for addressing corruption and managing the budget.
+
+🟩
+
+The demand of many is to hold a parliamentary election after the presidential election. So the first parliamentary election and the next provincial council election will be held. India is interested in Sri Lanka's election. President Ranil Wickremesinghe said Delhi is concerned about the political situation in Sri Lanka after the situation of the Bangladesh.
+
+It is a certain thing that I win the presidential election. So there is no need to talk about the plan 'B'.Sajith Premadasa and Anuragumara Dissanayake will be president in the future. But this time it is not possible, the president said.
+
+President Ranil Wickremesinghe met with journalists on Tuesday (17) and clarified the future plans. He said the above. He continues to say,
+
+Talking about the abolition of the executive presidency and the 13th Amendment, the time has been wasted and no one pays attention to the real problems of the country.. This is why I put my goal into the economy. I have made policies focusing on it.
+
+...
+
+[Data](articles/ec58a0ed.json)
+
+[Extended Data](ext_articles/ec58a0ed.ext.json)
+
+---
+
+### வடக்கு கிழக்கு மக்களின் ஆதரவுக்கு சுமந்திரனின் தீர்மானம் பாதிப்பாகாது - ஜனாதிபதி ரணில்
+
+*2024-09-18 08:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/193976) · `ta`
+
+சனிக்கிழமை இடம்பெறவுள்ள ஜனாதிபதி தேர்தலில் ஐக்கிய மக்கள் சக்தியின் வேட்பாளர் சஜித் பிரேமதாசவை ஆதரிக்கப் போவதாக தமிழரசுக் கட்சியின் உறுப்பினர் எம்.ஏ. சுமந்திரன் அறிவித்துள்ளமையானது, வடக்கு கிழக்கு மக்களின் என்மீதான ஆதரவுக்கு பாதிப்பாக அமையாது என தெரிவித்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்க, அந்த கட்சியின் ஏனைய உறுப்பினர்கள் அந்த தீர்மானத்தை ஏற்காத நிலையில், தமிழ் தேசிய கூட்டமைப்பு இதுவரையில் எவ்விதமான அறிவிப்பையும் விடுக்க வில்லை என்பதை நினைவில் கொள்ளுமாறு சுட்டிக்காட்டியுள்ளார்.
+
+ஊடகவியலாளர்களை நேற்று செவ்வாய்க்கிழமை (17) சந்தித்த ஜனாதிபதி ரணில் அவர்களின் கேள்விகளுக்கு பதிலளிக்கும் போதே மேற்கண்டவாறு குறிப்பிட்டார்.
+
+இன மற்றும் மதவாத பிரச்சினைகள் இல்லாத சூழல் ஒன்றில் நாட்டில் ஜனாதிபதி தேர்தல் இடம்பெறுகின்றது. 13 ஆவது அரசியலமைப்பில் எவ்விதமான பிரச்சினையும் இல்லை. மாறாக அதன் அமுலாக்கம் குறித்தே சில சிக்கல்கள் உள்ளன. எனது ஆலோசனைகளை வழங்கியுள்ளேன். எனவே எதிர்வரும் நாட்களில் 13 ஆவது அரசியலமைப்பு அமுலாக்கம் தொடர்பில் தீர்மானம் ஒன்றை எடுக்க முடியும்.
+
+...
+
+[Data](articles/88f1c0e5.json)
 
 ---
 
@@ -316,6 +448,28 @@ From Matara to Hambantota, Pottuvil, from Kankesanthurai to Mannar via Puttalam,
 
 ---
 
+### ஹெஸ்புல்லா உறுப்பினர்களின் பேஜர்கள் வெடித்து சிதறிய சம்பவத்திற்கு இஸ்ரேல் மீது குற்றச்சாட்டு – 9 பேர் பலி – 3000 பேர் காயம் - அதிர்ச்சியில் லெபனான்
+
+*2024-09-18 07:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/193975) · `ta`
+
+ஹெஸ்புல்லா அமைப்பின் உறுப்பினர்கள் பயன்படுத்தும் பேஜர்கள் திடீரென வெடித்துச்சிதறியதில் 9 பேர் கொல்லப்பட்டுள்ளதுடன் குழந்தையொன்று உட்பட 9 பேர் கொல்லப்பட்டுள்ளதுடன் 3000 பேர் காயமடைந்துள்ளனர்.
+
+பெய்ரூட்டின் தென்பகுதியில் உள்ள புறநகர் பகுதிகளிலும் லெபானின் ஏனைய பகுதிகளிலும் இந்த வெடிப்பு சம்பவங்கள் இடம்பெற்றுள்ளன.
+
+காயமடைந்தவர்கள் தரையில் அமர்ந்திருப்பதையும் ஏனையவர்கள் மருத்துவமனைக்கு அழைத்து செல்லப்படுவதையும் காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
+
+ஹெஸ்புல்லா அமைப்பு தனது பல பிரிவுகள் மற்றும் அமைப்புகளை சேர்ந்த உறுப்பினர்களின் பேஜர்கள் வெடித்துச்சிதறியதில் 8 பேர் உயிரிழந்துள்ளனர் என தெரிவித்துள்ளது.
+
+இஸ்ரேலே இதற்கு காரணம் என குற்றம்சாட்டியுள்ள ஹெஸ்புல்லா அமைப்பு பதில்நடவடிக்கை குறித்து எச்சரித்துள்ளது.
+
+செவ்வாய்கிழமை சம்பவம் காரணமாக லெபனான் மக்கள் அதிர்ச்சியடைந்துள்ளனர்இமுன்னருபோதும் இடம்பெற்றிராத இத்தைகைய சம்பவத்தை நம்பமுடியாத நிலையில் லெபனான் மக்கள் காணப்படுகின்றனர்.
+
+...
+
+[Data](articles/5312ef93.json)
+
+---
+
 ### Election propaganda ends midnight today
 
 *2024-09-18 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201135) · `si`
@@ -359,6 +513,18 @@ A senior Lebanese security source and another source told Reuters that Israel’
 [Data](articles/f236ddae.json)
 
 [Extended Data](ext_articles/f236ddae.ext.json)
+
+---
+
+### இனப்பிரச்சினை, அதற்கான தீர்வுக்குள் மாத்திரம் நின்றுவிடாதீர்கள்; தேசிய அரசியல், பொருளாதார சூழ்நிலைகளைப் பகுத்தாராய்ந்து வாக்களியுங்கள் - 15 கல்விமான்கள் கூட்டாக வலியுறுத்தல்
+
+*2024-09-18 07:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193969) · `ta`
+
+நாம் எமது ஜனாதிபதித்தெரிவினை மேற்கொள்ளும்போது தனியே இனப்பிரச்சினை மற்றும் அதற்கான தீர்வுக்குள் மாத்திரம் குறுக்கிவிடாது, நாட்டின் ஒட்டுமொத்த அரசியல், பொருளாதார சூழ்நிலை குறித்துப் பகுத்து ஆராய்வது அவசியமாகும். தமிழ்த்தேசிய அரசியலை மாத்திரம் முன்னிறுத்தி, சர்வதேசத்தின் கவனத்தை ஈர்ப்பதை நோக்கமாகக்கொண்டு தேர்தலில் வாக்குக்கோருவதும், தமிழ்த்தேசிய அடிப்படையிலே தேர்தலைப் புறக்கணிப்பதும் அரசியல் ரீதியில் தமிழ் மக்களுக்குப் பின்னடைவை ஏற்படுத்தக்கூடும் என யாழ்ப்பாணப் பல்கலைக்கழகத்தில் கற்பிக்கும் 15 கல்விமான்கள் கூட்டாக வலியுறுத்தியுள்ளனர்.
+
+...
+
+[Data](articles/7bd2a809.json)
 
 ---
 
@@ -1213,6 +1379,24 @@ The Presidential Election on 21 September could be the most important election f
 [Data](articles/c72baf87.json)
 
 [Extended Data](ext_articles/c72baf87.ext.json)
+
+---
+
+### Renaissance or degeneration
+
+*2024-09-18 00:48:42* · [`dailyftlk`](https://www.ft.lk/columns/Renaissance-or-degeneration/4-766805) · `en`
+
+Sri Lanka’s economy showing signs of recovery, driven by industrial and service sector growth in 2024
+
+Supporters rally during a key political campaign ahead of Sri Lanka’s pivotal Presidential election
+
+This election season has witnessed an unprecedented amount of fake narratives, disinformation, and rhetoric without any substance. The entire period of 76 years since gaining independence is a curse or misery is the prime narrative driven by extremist/leftist outfits without any basis
+
+The Presidential Election on 21 September could be the most important election for us Sri Lankans in our lifetimes. The outcome of the election could decide the very survival of our nation.
+
+...
+
+[Data](articles/d77c0789.json)
 
 ---
 
@@ -2085,215 +2269,5 @@ Meanwhile, Mohammed Misube is to visit India next week as a result of an anti-In
 [Data](articles/219b1013.json)
 
 [Extended Data](ext_articles/219b1013.ext.json)
-
----
-
-### Another suspect arrested over ‘Club Wasantha’ murder, detention order issued
-
-*2024-09-17 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102042/another-suspect-arrested-over-club-wasantha-murder-detention-order-issued) · `en`
-
-Police have arrested another suspect in connection with the recent murder of two persons including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’, in Athurugiriya.
-
-The suspect, a 24-year-old residence of Dharga town in Aluthgama, has been arrested by the Western Province (South) Crimes Division.
-
-The Kaduwela Acting Magistrate, D.G.P. Karunarathana has issued a 48-hour detention order to detain and interrogate the suspect, who was produced before the court today (17).
-
-Police have informed the court that it has been uncovered that the bullets used in the shooting were marked with the letters ‘KPI’ by the suspect in question and that he had allegedly visited the Galpotta Road area in Athurigiriya, where the main suspects were staying, and had later transported them in a vehicle.
-
-...
-
-[Data](articles/bd5d0f29.json)
-
-[Extended Data](ext_articles/bd5d0f29.ext.json)
-
----
-
-### Ranil met Charles Nirmalanathan
-
-*2024-09-17 17:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாள்ஸ்-நிர்மலநாதனை-சந்தித்தார்-ரணில்/175-343913) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Ranil Wickremesinghe met MP Charles Nirmalanathan in Mannar. Local TNA members and public figures supported him. Discussion with youth and local council members followed.
-
-🟩
-
-President Ranil Wickremesinghe, who visited the election campaign in Mannar district, met Parliamentarian Charles Nirmalanathan at his residence on Tuesday (17).
-
-During this time, the members of the Mannar TNA and the representatives of the public organizations, together with the public, expressed their support to President Ranil Wickremesinghe.
-
-At the same time, there was a discussion with the youth team and local council members of the Mannar Branch of the TNA.
-
-Parliamentarian Charles Nirmalanathan said that this was a meeting with Member of Parliament Salnirmalanathan in the wake of the meeting.
-
-◼️
-
-[Data](articles/ad8f6060.json)
-
-[Extended Data](ext_articles/ad8f6060.ext.json)
-
----
-
-### Sri Lanka food prices sharply down after multiple VAT hikes: Analysis
-
-*2024-09-17 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-food-prices-sharply-down-after-multiple-vat-hikes-analysis-179769/) · `en`
-
-ECONOMYNEXT – Sri Lankas basic food prices are sharply down after multiple value added tax hikes over the past two years, but politicians, who stay mum on import duties, continue to claim that they will reduce VAT to bring down food prices.
-
-After years of pushing the ideology that direct taxes are the best system tax, and indirect taxes were ‘regressive’ both politicians and ‘professionals’ received shock when income tax rates were raised to pay state worker salaries in 2022.
-
-Politicians are usually against tax in a knee-jerk reaction from Western ideology
-
-Now they want to reduce personal income tax. Personal income taxes have a major disadvantage because they undermine individual choice and take taxes away before an economic decision and transaction is made.
-
-Value added tax is collected after an individual makes a choice, guiding the economy towards their needs and then the government collects a tax, analysts say.
-
-...
-
-[Data](articles/51335038.json)
-
-[Extended Data](ext_articles/51335038.ext.json)
-
----
-
-### Dilini Kumari tops the beauty pageant
-
-*2024-09-17 17:30:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அழகிப்-போட்டியில்-திலினி-குமாரிக்கு-முதலிடம்/76-343912) · `ta`
-
-Sri Lanka's Dilini Kumari wins Miss International - 2024 in Bali, Indonesia. She arrived at Katunayake airport after her victory. Dilini is from Kandy and also works as an actress and anchor.
-
-🟩
-
-Thilini Kumari, who was ranked first in the Miss International - 2024 International Competition held in Indonesia, arrived at the Katunayake airport on Monday (16).
-
-The tournament was held from 09/09 to 09/16, attended by aesthetics from 20 countries in Bali, Indonesia.
-
-Dilini, who won the match, arrived at the Katunayake airport on the Sri Lankan Airlines flight from Jakarta, Indonesia.
-
-It is noteworthy that she is a resident of Prematalawa, Kandy and is showing her talent in many fields as an actress and anchor.
-
-◼️
-
-[Data](articles/f30ddf8a.json)
-
-[Extended Data](ext_articles/f30ddf8a.ext.json)
-
----
-
-### Does the batsman work as a batsman?- Answers from Sanath
-
-*2024-09-17 17:28:38* · [`adalk`](https://www.ada.lk/sports/කමිඳු-අංක-03-පිතිකරු-ලෙස-කටයුතු-කරයිද----සනත්ගෙන්-පිළිතුරු/9-411985) · `si`
-
-Sanath Jayasuriya explains batting roles: Kumindu Mendis won't bat at No. 3; he'll play as a middle-order batsman instead. Changes made for upcoming Test against New Zealand.
-
-🟩
-
-The first Test against New Zealand team begins tomorrow (18).
-
-Acting Chief Coach Sanath Jayasuriya said that several changes were made in this match.
-
-Meanwhile, he said that the meeting was not playing at No. 3 on the tournament tomorrow (17), he said.
-
-"Kumindu Mendis number does not play 3. Because it can't do that. He is playing as a middle text batsman. So play as a madapala batsman. "
-
-◼️
-
-[Data](articles/de3e5550.json)
-
-[Extended Data](ext_articles/de3e5550.ext.json)
-
----
-
-### Prohibit election campaigns
-
-*2024-09-17 17:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-பிரச்சாரங்களுக்கு-தடை/175-343910) · `ta`
-
-Election Commission orders: All campaign activities must end by midnight on Wednesday. Violators face fines of 50,000 rupees and at least one month's suspension.
-
-🟩
-
-All election campaigns related to the presidential election should be completed at 12.00 midnight on Wednesday (18), the Election Commission said.
-
-The Elections Commission said that those who carry out election campaigns after midnight on Wednesday (18) will be fined 50,000 rupees and no less than a month.
-
-◼️
-
-[Data](articles/167347ab.json)
-
-[Extended Data](ext_articles/167347ab.ext.json)
-
----
-
-### Special traffic plan in Colombo tomorrow
-
-*2024-09-17 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201122) · `si`
-
-Colombo special traffic plan tomorrow: Election campaign propaganda meetings at centers in Colombo, Kottawa, Piliyandala. Measures to reduce congestion implemented.
-
-🟩
-
-The final propaganda meetings relating to election campaigns for the presidential election will be held tomorrow (18).
-
-Accordingly, the curls have been organized by centers in Colombo, Kottawa and Piliyandala.
-
-Steps have been taken to implement a special traffic plan to reduce traffic congestion in the propaganda meetings.
-
-◼️
-
-[Data](articles/07bd8d5d.json)
-
-[Extended Data](ext_articles/07bd8d5d.ext.json)
-
----
-
-### Three Sri Lankans arrested in India with a boat
-
-*2024-09-17 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/193948) · `ta`
-
-Sri Lankan fishermen arrested in India's Ramanathapuram district. Boat damaged mid-sea, suspected illegal activities. Indian Coast Guard investigation ongoing. Trio to be handed over to Marine Police after phone seizures.
-
-🟩
-
-The Indian Coast Guard has arrested three Sri Lankan fishermen from a suspect in the Ramanathapuram district.
-
-Investigations have revealed that the boat was damaged in the middle of the sea while waiting for the hijackers of Tamil Nadu to be illegally purchased from Tamil Nadu smugglers.
-
-The first phase of the investigation into the fishermen in the Mediterranean said that the Indian Sea was distracted due to wind speed.
-
-However, Indian Coast Guard officials said that after a thorough investigation at the Indian Coast Guard Hall, the fishermen would come to the Indian waters to engage in illegal activities or crossed the border.
-
-Also, when the mysterious persons of the Thondi were waiting in the middle of the Thondi to buy cannabis from the next sandalwood, the soldiers belonging to the Indian Coast Guard were caught when the boat was suspicious of the boat when there was suddenly a boat engine.
-
-...
-
-[Data](articles/65ac1545.json)
-
-[Extended Data](ext_articles/65ac1545.ext.json)
-
----
-
-### Distribution of photo boxes of a presidential candidate in Nuwara Eliya;Complaint to Febral
-
-*2024-09-17 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/193949) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential candidate distributes photo boxes in Nuwara Eliya. February Organization reports issue to Election Commissioner.
-
-🟩
-
-The February Organization has received information that a group of fireplaces in the presidential candidate and the election symbol have been distributed in Nuwara Eliya.
-
-The Executive Director of the February, Rohana Hettiarachchi said that the Nuwara Eliya District Assistant Elections Commissioner has been informed about this issue.
-
-◼️
-
-[Data](articles/d6859187.json)
-
-[Extended Data](ext_articles/d6859187.ext.json)
 
 ---

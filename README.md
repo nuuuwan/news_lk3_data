@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 01:57:10**
+As of **2024-09-19 02:08:35**
 
 ## Newspaper Stats
 
-*Scraped **44,624** Articles*
+*Scraped **44,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 432
 colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,703
-dailyftlk | 2,964
+dailyftlk | 2,966
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,829
+tamilmirrorlk | 5,830
 virakesarilk | 7,139
 adaderanasinhalalk | 7,642
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,623 (100.0%) of 44,624 articles have been extended.
+44,626 (100.0%) of 44,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Voting with no confidence
+
+*2024-09-19 01:48:31* · [`dailyftlk`](https://www.ft.lk/columns/Voting-with-no-confidence/4-766859) · `en`
+
+We the voters fail to understand that we are only getting cheated
+
+Twenty-two million Sri Lankans are expected to have another leader for the nation after the national election on 21 September. It is interesting that the Election Commissioner is still expressing the potential leaders concern on rahu times! I wrote on voting without much confidence (https://www.ft.lk/columns/My-vote-goes-to-Voting-without-much-confidence/4-688684) just ahead of the last election as I felt the manifestos really did not offer credible and scientifically sound steps to alleviate national issues and also the fact that simple motherhood statements lack coherence with the candidate – the credibility gap!
+
+...
+
+[Data](articles/a23eb552.json)
+
+[Extended Data](ext_articles/a23eb552.ext.json)
+
+---
+
+### 3 people killed
+
+*2024-09-19 01:47:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வாக்கி-டாக்கிகள்-வெடித்துச்-சிதறியதால்-3-பேர்-பலி/50-343990) · `ta`
+
+Lebanon: 3 killed, 12 dead in explosion linked to Hezbollah. Over 3000 affected. Incident occurred near hospital in Beirut. Communication equipment destroyed. Foreign reports confirm casualties and injuries.
+
+🟩
+
+In Lebanon, 12 people were killed in a subsequent explosion by Hizbullah organizations used by Hizbullah in Lebanon.. Up to more than 3000 people have reached.
+
+The pagans held by Hizbullah members exploded in various places, including the al-Shahra Hospital in Beirut, the capital of Lebanon.
+
+In the meantime, Hizbullavir's communication equipment, Talkie Talkie equipment, has been raging in the southern parts of Lebanon yesterday in the capital Beirut.
+
+Three people have died and 15 have been injured, according to foreign reports.. (A)
+
+◼️
+
+[Data](articles/7032e86e.json)
+
+[Extended Data](ext_articles/7032e86e.ext.json)
+
+---
+
+### Presidenshel Elecshen Gide
+
+*2024-09-19 01:38:58* · [`dailyftlk`](https://www.ft.lk/opinion/Presidenshel-Elecshen-Gide/14-766856) · `en`
+
+Oll are saying that this PE will be the first one decided on a Second Count! Which means the Manaapey olso matters! But before Manaapey counting, first Number 1 & 2 will be decided and then the Manaapeys on every other PEC is counted and winner declared! It is like a game of Musical Chairs, thirty peeples playing, suddenly there is ONLY ONE CHAIR & TWO PEEPLES! And the votes of the eliminated players will determine the winner!
+
+Then you have five happy years of telling the peeples from time to time, “I told you so!”
+
+The day you sit on that chair, everything changes. I know peeples say “The Putuwa won’t change me” I olso said it, before I sat in it, (My dear Frend Wikrama knows oll about this, when he got the Putuwa on a platter from me!) but once you sit on that Putuwa, there are things you must learn to do, you must be SELECTIVE!
+
+SELECT:  What you hear / Who speaks to you / What you remember / Who and What you ignore  (applicable to your manifesto as well)
+
+...
+
+[Data](articles/c1cf3513.json)
+
+[Extended Data](ext_articles/c1cf3513.ext.json)
+
+---
 
 ### Who should be our leader?
 
@@ -1170,15 +1230,13 @@ Last week, Iconic Trust bought 6,654,899 shares of Sierra Cables Plc, increasing
 
 This triggered the threshold limits placed by the Company Takeovers and Mergers Code of the Securities and Exchange Commission of Sri Lanka.
 
-The company is now obliged to make a mandatory offer to purchase the balance 373,991,364 ordinary voting shares,
-
-constituting approximately 69.58% of Sierra Cables held by the remaining holders
+The company is now obliged to make a mandatory offer to purchase the balance 373,991,364 ordinary voting shares, constituting approximately 69.58% of Sierra Cables held by the remaining holders.
 
 “Rs. 8.00 is the highest price paid by the Offeror for an Ordinary Voting Share of the Offeree during the period of one year immediately prior to 11 September 2024,” Iconic Trust said in a stock exchange filing.
 
-Sierra Cables was trading flat at 9.80 rupees on Wednesday (18). (Colombo/Sep18/2024)
+Sierra Cables was trading flat at 9.80 rupees on Wednesday (18).
 
-◼️
+...
 
 [Data](articles/0e694638.json)
 
@@ -2357,67 +2415,5 @@ The last amendment was made at 3.22 am today, according to Indian time.
 [Data](articles/5e357761.json)
 
 [Extended Data](ext_articles/5e357761.ext.json)
-
----
-
-### Sri Lanka scored 88 runs for two wickets at lunch
-
-*2024-09-18 12:37:42* · [`adalk`](https://www.ada.lk/sports/දිවා-ආහාරය-වන-විට-ලංකාව-කඩුලු-දෙකකට-ලකුණු-88යි/9-411995) · `si`
-
-Sri Lanka: 88/2 at lunch. Dinesh Chandimal (30), Kumindu Mendis (13). Nissanka (27*). Angelo Mathews (12) before injury.
-
-🟩
-
-The Sri Lankan team toss the toss of the first Test match with the Tourist New Zealand in Galle was playing 88 runs for two wickets.
-
-Dinesh Chandimal scored 30 runs and Kumindu Mendis, 13 runs in the field.
-
-Dissanayake won by Nissanka 27 runs for 27 runs.
-
-Angelo Mathews scored 12 runs while a disorder left the field.
-
-◼️
-
-[Data](articles/ab7e45a9.json)
-
-[Extended Data](ext_articles/ab7e45a9.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-09-18 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194004) · `ta`
-
-US dollar to Rupee exchange rate: 297.7271 buying price, 307.0166 selling price. Central Bank announcement on Wednesday (18).
-
-🟩
-
-The US dollar purchasing price was 297.7271 rupees and the sales price were Rs 307.0166, based on a currency exchange rate released by the Central Bank on Wednesday (18).
-
-◼️
-
-[Data](articles/44a347fc.json)
-
-[Extended Data](ext_articles/44a347fc.ext.json)
-
----
-
-### Lawyers’ Collective instructs Sri Lanka electors on how to mark ballot paper
-
-*2024-09-18 12:37:00* · [`economynextcom`](https://economynext.com/lawyers-collective-instructs-sri-lanka-electors-on-how-to-mark-ballot-paper-179892/) · `en`
-
-ECONOMYNEXT — The Lawyers’ Collective of Sri Lanka has called on voters to exercise their vote to strengthen democratic governance, the rule of law, and the independence of the judiciary.
-
-The collective in a statement issued on Tuesday September 17 said all voters have a right to cast their vote for the particular candidate of their choice as president.
-
-Voters may mark “X” or “1” against the name of their choice. If a voter marks “X”, no second or third preferences can be marked, the statement said.
-
-All voters also have a right to cast their second and third preferences for two other candidates of their choice. If voters choose to mark second and/or third preferences. Second and/or third preference may be marked by marking “2” or “3” against the names of those other candidates.
-
-...
-
-[Data](articles/8ec005e4.json)
-
-[Extended Data](ext_articles/8ec005e4.ext.json)
 
 ---

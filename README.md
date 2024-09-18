@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 19:56:52**
+As of **2024-09-18 20:22:49**
 
 ## Newspaper Stats
 
-*Scraped **44,583** Articles*
+*Scraped **44,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,117
+adalk | 4,118
 dailymirrorlk | 4,733
 adaderanalk | 5,247
 tamilmirrorlk | 5,827
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,583 (100.0%) of 44,583 articles have been extended.
+44,584 (100.0%) of 44,584 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -287,6 +287,32 @@ The international media reported that the son of a Member of Parliament and the 
 [Data](articles/27d3669f.json)
 
 [Extended Data](ext_articles/27d3669f.ext.json)
+
+---
+
+### Two banned by the party to sell the party
+
+*2024-09-18 18:36:29* · [`adalk`](https://www.ada.lk/breaking_news/ජනකට-පක්ෂය-විකුණන්න-අල්ලස්-ගත්ත-දෙන්නාට-ඇප/11-412005) · `si`
+
+Here's a summary of 200 characters based on the provided text:
+
+
+
+Colombo Chief Magistrate Thilina Gamage banned two people from selling party tickets. They were released on bail but fled abroad without permission.
+
+🟩
+
+Colombo Chief Magistrate Thilina Gamage today (18) ordered.
+
+The bail of two worthy of Rs.
+
+After the bail, the suspects were absolutely avoided abroad without permission.
+
+◼️
+
+[Data](articles/f9d160cc.json)
+
+[Extended Data](ext_articles/f9d160cc.ext.json)
 
 ---
 
@@ -2403,27 +2429,5 @@ The Railway Department said that the train services were delayed due to the trai
 [Data](articles/94cfcf2c.json)
 
 [Extended Data](ext_articles/94cfcf2c.ext.json)
-
----
-
-### Presidential Election campaigning ends at midnight today
-
-*2024-09-18 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102052/presidential-election-campaigning-ends-at-midnight-today) · `en`
-
-The election campaigning activities for the 2024 Presidential Election are scheduled to end at midnight today (18).
-
-Accordingly, the silence period will be in effect from midnight today until Saturday (21), when the election will be held.
-
-During this period, any form of election campaign activities are prohibited, and the police are authorized to arrest any parties that violate election rules and to enforce the law.
-
-The Chairman of the Election Commission of Sri Lanka, R.M.A.L. Ratnayake, stated that all election offices established by political parties must be removed by midnight on the September 19. From that point, only the election office related to the division can be maintained.
-
-“Apart from that, all 13,314 constituency-related offices currently established will be removed by midnight on the 19th. Only one new electoral office can be established at the constituency level,” he said.
-
-...
-
-[Data](articles/15de339f.json)
-
-[Extended Data](ext_articles/15de339f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 19:22:32**
+As of **2024-09-18 19:38:15**
 
 ## Newspaper Stats
 
-*Scraped **44,575** Articles*
+*Scraped **44,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,116
+adalk | 4,117
 dailymirrorlk | 4,733
 adaderanalk | 5,246
 tamilmirrorlk | 5,822
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,575 (100.0%) of 44,575 articles have been extended.
+44,576 (100.0%) of 44,576 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -109,6 +109,28 @@ The international media reported that the son of a Member of Parliament and the 
 [Data](articles/27d3669f.json)
 
 [Extended Data](ext_articles/27d3669f.ext.json)
+
+---
+
+### Sri Lanka is 302 runs for the 7 wickets
+
+*2024-09-18 18:24:36* · [`adalk`](https://www.ada.lk/sports/පළමු-දිනය-නිමාවන-විට-ලංකාව-කඩුලු-7ට-ලකුණු-302යි/9-412004) · `si`
+
+Sri Lanka leads NZ in 1st Test: 302/7. Kumindu Mendis (117), Kusal Mendis (50). Wickets: William O Roke, Glenn Phillips (2).
+
+🟩
+
+Sri Lanka scores 302 runs for the loss of the first Test between the New Zealand team and the first Test match between the Sri Lanka International Cricket Stadium.
+
+Kumindu Mendis scored 117 runs. Kusal Mendis scored 50 runs.
+
+William O Roke wickets and Glenn Phin Phins took two wickets.
+
+◼️
+
+[Data](articles/fb514fa2.json)
+
+[Extended Data](ext_articles/fb514fa2.ext.json)
 
 ---
 
@@ -2371,23 +2393,5 @@ It is reported that the train services will be held due to a derailment.
 [Data](articles/ce6d3b3b.json)
 
 [Extended Data](ext_articles/ce6d3b3b.ext.json)
-
----
-
-### Explanation of voting
-
-*2024-09-18 08:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பதை-இலகுபடுத்தும்-விளக்கம்/175-343945) · `ta`
-
-Election Commission statement: Holidays announced to facilitate university student voting.
-
-🟩
-
-The Election Commission has issued a statement regarding the holidays to ease voting for universities and students and students.
-
-◼️
-
-[Data](articles/625037ed.json)
-
-[Extended Data](ext_articles/625037ed.ext.json)
 
 ---

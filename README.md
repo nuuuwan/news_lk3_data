@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 22:56:12**
+As of **2024-09-18 23:08:28**
 
 ## Newspaper Stats
 
@@ -26,53 +26,77 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,605 (100.0%) of 44,610 articles have been extended.
+44,610 (100.0%) of 44,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
 
-### தமிழர்களின் ஒற்றுமையைப் பறைசாற்றும் குறியீடான சங்குக்கு தமிழ் மக்கள் திரண்டு வந்து வாக்களியுங்கள் - சி.வி.விக்கினேஸ்வரன்
+### Tamil people gather to vote for the symbol of the unity of the Tamils ​​- CV Vigneswaran
 
 *2024-09-18 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194059) · `ta`
 
-தமிழ் மக்களின் பிரச்சினைகள் இன்னமும் தீர்க்கப்படாமல் இருக்கின்றன என்பதை சர்வதேசத்திடம் சொல்லும் அதேவேளை, தமிழர்களின் ஒற்றுமையைப் பறைசாற்றும் நோக்கில் இம்முறை ஜனாதிபதித்தேர்தலில் களமிறக்கப்பட்டிருக்கும் பொதுவேட்பாளர் பா.அரியநேத்திரனுக்கு தமிழ் மக்கள் அனைவரும் திரண்டுவந்து வாக்களிக்கவேண்டும் என தமிழ் மக்கள் கூட்டணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான சி.வி.விக்கினேஸ்வரன் அறைகூவல் விடுத்துள்ளார்.
+Tamil People's Alliance leader CV Vigneswaran calls for unity vote in presidential election. He urges Tamils to support general candidate P. Ariyanethran to address ongoing issues and unite Tamil communities in North and East provinces.
 
-நாட்டின் ஒன்பதாவது ஜனாதிபதித்தேர்தல் சனிக்கிழமை (21) நடைபெறவிருக்கும் நிலையில், புதன்கிழமை (18) நள்ளிரவுடன் வேட்பாளர்களின் பிரசார நடவடிக்கைகள் முடிவுக்கு வந்தன. அதன்படி இம்முறை ஜனாதிபதித்தேர்தலில் களமிறக்கப்பட்டிருக்கும் தமிழ் பொதுவேட்பாளர் பா.அரியநேத்திரனுக்கு தமிழ் மக்கள் அனைவரும் வாக்களிக்கவேண்டும் என வலியுறுத்தி புதன்கிழமை (18) கொழும்பிலுள்ள வெஸ்டேர்ன் ஹோட்டலில் ஏற்பாடு செய்யப்பட்டிருந்த ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து வெளியிடுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் மேலும் கூறியதாவது:
+🟩
+
+While telling the international community that the problems of the Tamil people are still unresolved, the Tamil People's Alliance (TNA) leader and Member of Parliament CV Vigeran has called for all the Tamil people to vote for the general candidate in the presidential election this time to proclaim the unity of the Tamils.
+
+The country's ninth presidential election is scheduled for Saturday (21), and the candidates' campaigns ended on Wednesday (18). Accordingly, he said this while participating in a media briefing held at the Western Hotel in Colombo on Wednesday (18) demanding that all the Tamil people vote for the Tamil general candidate, P. Ariyanethran, who was fielded in the presidential election.. There he added:
 
 ...
 
 [Data](articles/cf2dc8c1.json)
 
+[Extended Data](ext_articles/cf2dc8c1.ext.json)
+
 ---
 
-### பாராளுமன்ற வாக்கெடுப்பில் கூட பின்வாங்கிய சஜித்துக்கு எவ்வாறு தேர்தலில் வெற்றி பெற முடியும்? - பிரதமர் தினேஸ் குணவர்தன
+### How can Sajith win the election even in the parliamentary referendum?- Prime Minister Dinesh Gunawardena
 
 *2024-09-18 22:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194058) · `ta`
 
-பாராளுமன்றத்தில் வாக்கெடுப்பு நடத்தப்பட்ட போது கூட, தன்னால் வெற்றி பெற முடியாது என்று பின்வாங்கிய சஜித் பிரேமதாசவால் எவ்வாறு மக்களின் வாக்குகளைப் பெற்றுக் கொள்ள முடியும்? ஏனையோருக்கு வாக்களித்து பரிசோதிப்பதற்கான சோதனைக் காலம் இதுவல்ல என்பதால் மக்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் மீண்டும் நாட்டை ஒப்படைக்க வேண்டும் என பிரதமர் தினேஸ் குணவர்தன தெரிவித்தார்.
+Sajith Premadasa faces challenges winning election despite withdrawing from parliamentary referendum. Prime Minister Dinesh Gunawardena criticizes Sajith's ability to gain majority support.
 
-கொழும்பில் புதன்கிழமை (18) இடம்பெற்ற இறுதி தேர்தல் பிரசாரக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ பதவி விலகியதன் பின்னர் ஜனாதிபதியைத் தெரிவு செய்வதற்காக பாராளுமன்றத்தில் வாக்கெடுப்பு நடத்துவதற்கு தீர்மானிக்கப்பட்டது. அந்த சந்தர்ப்பத்தில் சஜித் பிரேமதாச போட்டியிடுவதாகக் கூறினாலும், பின்னர் டலஸ் அழகப்பெருமவே களமிறக்கப்பட்டார்.
+Even when a referendum was held in Parliament, how can Sajith Premadasa, who retreated that he could not win, get the votes of the people?Prime Minister Dinesh Gunawardena said that this is not the time for the people to vote and test the country to President Ranil Wickremesinghe.
+
+Speaking at a final election campaign meeting held in Colombo on Wednesday (18), he said this.
+
+After the resignation of former President Gotabhaya Rajapakse, it was decided to hold a referendum in Parliament to elect the president. Although Sajith Premadasa said he was contesting on that occasion, Dullas Alahapperuma was fielded.
+
+Even in Parliament, Sajith retreated on that day, knowing that he could not get too much votes against Ranil Wickremesinghe.. How can such a person win the votes of the majority of the people?
 
 ...
 
 [Data](articles/e16e7657.json)
 
+[Extended Data](ext_articles/e16e7657.ext.json)
+
 ---
 
-### වෙඩිවැදී අයෙක් මරුට ?
+### One dies?
 
 *2024-09-18 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201171) · `si`
 
-තංගල්ලේ නලගම ප්‍රදේශයේදී වෙඩිවැදුණු බවට සැක කෙරෙන තුවාල සහිතව මියගිය පුද්ගලයෙකුගේ සිරුරක් හමුවී තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-පොලීසිය සඳහන් කළේ අද (18) රාත්‍රියේදී මෙම පුද්ගල මළසිරුර හමුවී ඇති බවය.
+
+
+Body found dead in Nalagama, Tangalle. Police report injuries. Incident occurred on 18th day of current month.
+
+🟩
+
+A body of a person was killed with injuries in Nalagama, Tangalle.
+
+Police said the body was found today (18).
 
 ◼️
 
 [Data](articles/f193e305.json)
+
+[Extended Data](ext_articles/f193e305.ext.json)
 
 ---
 
@@ -94,21 +118,29 @@ Today’s blasts happened across southern Lebanon as well as Beirut’s suburbs.
 
 [Data](articles/4bc46089.json)
 
+[Extended Data](ext_articles/4bc46089.ext.json)
+
 ---
 
-### ආරම්භයේදීම වෙනස්කම් රැසක් පෙන්වන්න ඕනේ - අනුර
+### Never show many changes at the beginning - Anura
 
 *2024-09-18 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201170) · `si`
 
-තම පාලනයක් තුළ ජාතිවාදයට, ආගම්වාදයට හා ගෝත්‍රවාදයට ඉඩක් නොමැති බව ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake emphasizes gradual change, rejecting racism, religious conflicts, and tribalism in his presidential administration. He advocates for a new political approach in Sri Lanka, focusing on unity and equality.
 
-කළුතර පැවැති ජනරැලියකට අද (18) පස්වරුවේ එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-"ආරම්භයේදීම අපි වෙනස්කම් රැසක් පෙන්වන්න ඕනේ. නව දේශපාලනයක් ලංකාවේ නිර්මාණය කරනවා. රට තුළ ජාතිවාදයට... ආගම්වාදයට අපි කිසිම ඉඩක් දෙන්නේ නැහැ. ආගම්වාදී ගැටුම් මීට පස්සේ ලංකාවේ තියෙන්න බැහැ."
+Anura Kumara Dissanayake says the presidency of the National Power has not allowed racism, religiousism and tribal in his administration.
+
+He was speaking at a public famous famil this afternoon.
+
+"At the beginning we need to show many changes. Creating a new politics in Sri Lanka. To racism in the country. We do not allow any space for religionism. The religious conflict there is no Sri Lanka. "
 
 ◼️
 
 [Data](articles/0842d5a0.json)
+
+[Extended Data](ext_articles/0842d5a0.ext.json)
 
 ---
 
@@ -200,6 +232,26 @@ The presidential candidate Sajith Premadasa, Sajith Premadasa, Sagith Premadasa,
 
 ---
 
+### The Tamil National Alliance (TNA) MP expressed his support for President Ranil. Vinonogadalingam!
+
+*2024-09-18 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194057) · `ta`
+
+TNA MP Vino Nogarathalingam supports President Ranil Wickremesinghe in upcoming election.
+
+🟩
+
+Tamil National Alliance (TNA) Wanni District Parliamentarian Vino Nogarathalingam said he would support the victory of President Ranil Wickremesinghe in the upcoming presidential election.
+
+He made this announcement at a press conference held at the President's Political Office on Wednesday (18) at Blaver Road, Colombo.
+
+◼️
+
+[Data](articles/18352f65.json)
+
+[Extended Data](ext_articles/18352f65.ext.json)
+
+---
+
 ### Announced as a quiet period until the 21st
 
 *2024-09-18 21:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21ஆம்-திகதிவரை-அமைதியான-காலப்பகுதியாக-அறிவிப்பு/175-343976) · `ta`
@@ -217,26 +269,6 @@ Special committees have been appointed to investigate the non -needed campaigns 
 [Data](articles/04a0dcf6.json)
 
 [Extended Data](ext_articles/04a0dcf6.ext.json)
-
----
-
-### The Tamil National Alliance (TNA) MP expressed his support for President Ranil. Vinonogadalingam!
-
-*2024-09-18 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/194057) · `ta`
-
-TNA MP Vino Nogarathalingam supports President Ranil Wickremesinghe in upcoming election.
-
-🟩
-
-Tamil National Alliance (TNA) Wanni District Parliamentarian Vino Nogarathalingam said he would support the victory of President Ranil Wickremesinghe in the upcoming presidential election.
-
-He made this announcement at a press conference held at the President's Political Office on Wednesday (18) at Blaver Road, Colombo.
-
-◼️
-
-[Data](articles/18352f65.json)
-
-[Extended Data](ext_articles/18352f65.ext.json)
 
 ---
 

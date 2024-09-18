@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 23:38:25**
+As of **2024-09-18 23:58:12**
 
 ## Newspaper Stats
 
-*Scraped **44,612** Articles*
+*Scraped **44,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 378
 bbccomsinhala | 431
 colombotelegraphcom | 446
 islandlk | 2,623
-economynextcom | 2,694
+economynextcom | 2,703
 dailyftlk | 2,962
 adalk | 4,122
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,612 (100.0%) of 44,612 articles have been extended.
+44,617 (100.0%) of 44,621 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -322,6 +322,28 @@ This includes using mobile phones, photography, recording videos, having a gun a
 
 ---
 
+### Sri Lanka President expects Thursday talks with bondholders to ‘end bankruptcy’
+
+*2024-09-18 20:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-expects-thursday-talks-with-bondholders-to-end-bankruptcy-179935/) · `en`
+
+ECONOMYNEXT – Sri Lanka will hold talks with sovereign bondholders on Thursday September 19, President Ranil Wickremesinghe was quoted as saying at a rally, signally that he expected talks to conclude successfully.
+
+Following the talks Sri Lanka’s “bankruptcy will end and support from all countries will be restored”, he was quoted as saying in a text message.
+
+“He was pleased to report that he had completed the task entrusted to him before September 21,” the message said, indicating that President Wickremesinghe expected talks to be successful.
+
+Sri Lanka reached a preliminary framework to restructure defaulted bonds with upside/downside securities linked the future gross domestic product growth.
+
+Sri Lanka is currently rated as being in selective default by rating agencies. Once a deal is reached and new bonds issued, they will be upgraded to a higher level. (Colombo/Aug17/2024)
+
+◼️
+
+[Data](articles/87830d5a.json)
+
+[Extended Data](ext_articles/87830d5a.ext.json)
+
+---
+
 ### Special Arrangements at Voting Centers - Elections Commission
 
 *2024-09-18 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/194048) · `ta`
@@ -423,6 +445,30 @@ Sunday, September 15, discussed the program with the recording of the program wi
 [Data](articles/b72b2879.json)
 
 [Extended Data](ext_articles/b72b2879.ext.json)
+
+---
+
+### Sri Lanka’s NPP to push IMF anti-graft moves, negotiate path to other targets: econ council chief
+
+*2024-09-18 20:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-to-push-imf-anti-graft-moves-negotiate-path-to-other-targets-econ-council-chief-179928/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s National People’s Power is keen to implement the corruption requirements of an International Monetary Fund program, and will negotiate on ways to achieve targets, the head of its economic council, Anil Jayantha said.
+
+The NPP wanted an alternative debt sustainability analysis for future discussions with the IMF, Jayantha, a professor at Sri Lanka’s Jayawardenepura University said.
+
+“Actually, we do not want to replace forcefully with the alternative DSA but it is to get good input and information to go to the next level of discussion with the IMF at the next review.”
+
+“The IMF also had several discussions with us. They showed the willingness to discuss our alternative ways of meeting the targets as long overall objectives are met.”
+
+The NPP also wanted to make Sri Lanka’s debt sustainable and stabilize the macroeconomy and the external sector, he said.
+
+Even a debt to GDP ratio of 95 percent aimed at, in the DSA was quite high for a country like Sri Lanka, he said.
+
+...
+
+[Data](articles/c1bcd20b.json)
+
+[Extended Data](ext_articles/c1bcd20b.ext.json)
 
 ---
 
@@ -1056,6 +1102,32 @@ At the end of the presidential campaign, the current and common candidate, Presi
 
 ---
 
+### Sri Lanka’s Iconic Trust makes mandatory offer for Sierra Cables
+
+*2024-09-18 17:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-iconic-trust-makes-mandatory-offer-for-sierra-cables-179920/) · `en`
+
+ECONOMYNEXT – Iconic Trust (Private) Limited, a wholly-owned subsidiary of Browns Investments Plc, said it is making a mandatory offer to buy the remaining 373,991,364 ordinary voting shares of Sierra Cables Plc at 8.00 rupees a share.
+
+Last week, Iconic Trust bought 6,654,899 shares of Sierra Cables Plc, increasing its stake in the company to 30.42.
+
+This triggered the threshold limits placed by the Company Takeovers and Mergers Code of the Securities and Exchange Commission of Sri Lanka.
+
+The company is now obliged to make a mandatory offer to purchase the balance 373,991,364 ordinary voting shares,
+
+constituting approximately 69.58% of Sierra Cables held by the remaining holders
+
+“Rs. 8.00 is the highest price paid by the Offeror for an Ordinary Voting Share of the Offeree during the period of one year immediately prior to 11 September 2024,” Iconic Trust said in a stock exchange filing.
+
+Sierra Cables was trading flat at 9.80 rupees on Wednesday (18). (Colombo/Sep18/2024)
+
+◼️
+
+[Data](articles/0e694638.json)
+
+[Extended Data](ext_articles/0e694638.ext.json)
+
+---
+
 ### Kaminda saves innings
 
 *2024-09-18 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201161) · `si`
@@ -1128,6 +1200,24 @@ The High Court issued an order by banning the relevant property until December 1
 
 ---
 
+### Sri Lanka rupee closes weaker at 303.75/85, bond yields up
+
+*2024-09-18 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-303-75-85-bond-yields-up-179913/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 303.75/85 to the US dollar on Wednesday, from 302.25/80 on Friday, dealers said, while bond yields were up.
+
+A bond maturing on 15.02.2028 closed at 11.70/80 percent, up from 11.55/65 percent.
+
+A bond maturing on 15.06.2029 closed at 13.80/90 percent, up from 13.70/80 percent. (Colombo/Sep13/2024)
+
+◼️
+
+[Data](articles/25b9742e.json)
+
+[Extended Data](ext_articles/25b9742e.ext.json)
+
+---
+
 ### The Tamil people should only give the general candidate - Ariyanendran
 
 *2024-09-18 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194029) · `ta`
@@ -1149,6 +1239,30 @@ On the 23rd of this month, we started the campaign work on "Nam for us" in Jaffn
 [Data](articles/0955bb18.json)
 
 [Extended Data](ext_articles/0955bb18.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banking shares in green
+
+*2024-09-18 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-shares-in-green-179908/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 1.34 percent, or 143.14 points, at 10,826; while the more liquid S&P SL20 Index closed up 1.92 percent, or 57.36 points, at 3,037.
+
+Turnover was 931 million, with the S&P edging back over3,000.
+
+Bank stocks contributed the most (Rs424mn) to the turnover, and most banks shares closed up.
+
+“Many stocks have bottomed out, so some are collecting, selectively,” stockbrokers said.
+
+Foreign buying was seen in Richard Pieris and Company (flat at 20.50), Ceylinco Holdings non-voting (up at 910.00), Chevron Lubricants Lanka (up at 117.00), LOLC Finance (up at 5.20), Browns Investments (up at 5.10), and Resus Energy (down at 21.50).
+
+...
+
+[Data](articles/1dcea396.json)
+
+[Extended Data](ext_articles/1dcea396.ext.json)
 
 ---
 
@@ -1478,6 +1592,24 @@ However, when giving a vote, do not refer to both 1 and X's X.
 
 ---
 
+### AKD blames Ranil for Sri Lanka financial crisis, absolves Gotabaya
+
+*2024-09-18 16:17:00* · [`economynextcom`](https://economynext.com/akd-blames-ranil-for-sri-lanka-financial-crisis-absolves-gotabaya-179896/) · `en`
+
+ECONOMYNEXT — Presidential candidate Anura Kumara Dissanayake has blamed Sri Lanka’s 2022 financial crisis on incumbent president Ranil Wickremesinghe, largely absolving former president Gotabaya Rajapaksa whose policy missteps Dissanayake attributed to ignorance.
+
+Speaking at an election rally, Dissanayake claimed that Wickremesinghe was the author of the crisis while Rajapaksa had made a few mistakes out of sheer ignorance. Dissanayake also claimed pity for Rajapaksa.
+
+“They ended oil, gas, milk powder, fuel and electricity supply to this country. Ranil Wickremesinghe is one of the main parties responsible for this though he is hiding today. Who became the accused party in the end? Gotabaya. He was there for just two and a half years. Sad (pau).
+
+“Though he made a few mistakes out of ignorance, the major, serious economic assassins were Ranil and company. This crisis happened because of a few things Gotabya did without understanding (notherena),” said Dissanayake.
+
+...
+
+[Data](articles/3da27339.json)
+
+---
+
 ### School student killed in accident
 
 *2024-09-18 16:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-பாடசாலை-மாணவி-பலி/175-343960) · `ta`
@@ -1549,6 +1681,24 @@ He noted that the right to vote in the election should not be ignored by this vo
 [Data](articles/ce5129ef.json)
 
 [Extended Data](ext_articles/ce5129ef.ext.json)
+
+---
+
+### Sri Lanka treasury bill yields spike ahead of elections
+
+*2024-09-18 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-spike-ahead-of-elections-179897/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields shot up across maturities at Wednesday’s auction, ahead of the presidential election this week, with 160.9 billion of an offered 170 billion of bills sold, data from the debt office showed.
+
+The 3-month yield was up 50 basis points to 10.49 percent, with all 90 billion rupees of bills offered sold.
+
+The 6-month yield was up 52 basis points to 10.76 percent, with all 70 billion rupees of bills offered sold.
+
+The 12-month bills held steady at 10.07 percent, with only 989 million sold of an offered 15 billion rupees. (Colombo/Sep18/2024)
+
+◼️
+
+[Data](articles/3937a5bb.json)
 
 ---
 
@@ -2190,6 +2340,24 @@ The US dollar purchasing price was 297.7271 rupees and the sales price were Rs 3
 
 ---
 
+### Lawyers’ Collective instructs Sri Lanka electors on how to mark ballot paper
+
+*2024-09-18 12:37:00* · [`economynextcom`](https://economynext.com/lawyers-collective-instructs-sri-lanka-electors-on-how-to-mark-ballot-paper-179892/) · `en`
+
+ECONOMYNEXT — The Lawyers’ Collective of Sri Lanka has called on voters to exercise their vote to strengthen democratic governance, the rule of law, and the independence of the judiciary.
+
+The collective in a statement issued on Tuesday September 17 said all voters have a right to cast their vote for the particular candidate of their choice as president.
+
+Voters may mark “X” or “1” against the name of their choice. If a voter marks “X”, no second or third preferences can be marked, the statement said.
+
+All voters also have a right to cast their second and third preferences for two other candidates of their choice. If voters choose to mark second and/or third preferences. Second and/or third preference may be marked by marking “2” or “3” against the names of those other candidates.
+
+...
+
+[Data](articles/8ec005e4.json)
+
+---
+
 ### Namal challenges to prove if in any country's abuse wealth
 
 *2024-09-18 12:25:45* · [`adalk`](https://www.ada.lk/breaking_news/අයුතු-ලෙස-උපයාගත්-ධනය-ඕනෑම-රටක-තිබේනම්-ඔප්පු-කරන්නැයි-නාමල්ගෙන්-අභියෝගයක්/11-411993) · `si`
@@ -2261,195 +2429,5 @@ He further explained that they have outlined how the government will assist indi
 [Data](articles/37341043.json)
 
 [Extended Data](ext_articles/37341043.ext.json)
-
----
-
-### Bipolar Games between the two -year -old
-
-*2024-09-18 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193998) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-Political analyst and former diplomat, Dayan Jayatilaka, said that the presidential election seems to be a bipolar game between Sajith Breamedasa Anuragumara.
-
-What is your view on the campaign campaign by the leading candidates as the election campaigns have reached its final stage?
-
-. Between Anura Sajith Ranil. One way you want to list in any order, it seems to be a bipolar game between Sajith Premadasa and Anuragumara Dissanayake.
-
-This is a period of history globally there is a massive wave against the person in office. It is also mentioned by thinkers and publications such as Times Magazine. This is a universal event.
-
-You have austerity package in Sri Lanka as a result of the agreement between President Wickremesinghe and the International Monetary Fund.. So one must logically consider that voters will vote for change until voters are not considered a masochistic.
-
-...
-
-[Data](articles/0d914331.json)
-
-[Extended Data](ext_articles/0d914331.ext.json)
-
----
-
-### Here is the reason why anglo left
-
-*2024-09-18 11:57:04* · [`adalk`](https://www.ada.lk/sports/නොදැවුනත්-ඇන්ජලෝ-පිටියෙන්-ඉවත්-වුණු-හේතුව-මෙන්න/9-411991) · `si`
-
-Angelo Mathews left the field after a ball from William Oook hit his hands during the first Test match between New Zealand and Sri Lanka at Galle International Stadium.
-
-🟩
-
-The first Test match between New Zealand and Sri Lanka will be held at the Galle International Stadium.
-
-A ball sent by William Oook took action to leave the flock due to a disorder of Angelo Mathews's hands.
-
-◼️
-
-[Data](articles/e26fa056.json)
-
-[Extended Data](ext_articles/e26fa056.ext.json)
-
----
-
-### Hot-riots are called near the Department of Examinations
-
-*2024-09-18 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201146) · `si`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-Three questions on the first question paper of the Grade 5 Scholarship Examination and the department of Examinations will be protesting today (18).
-
-They are requested to cancel the Grade 5 Scholarship Examination.
-
-Accordingly, some of the parents in the protest went to the Department of Examinations and handed over a letter.
-
-Your parents are already protesting, our correspondent said that the police and the riot unit were imported.
-
-Inquiry made by Ada Derana, "parents who arrived at the scene were told that the Commissioner of Examinations had taken this question lightly and he should resign from his post.
-
-The scholarship examination of the Grade 20, 20, had been held on Sunday and 323,879 candidates appeared.
-
-However, there was a meeting of a tuition teacher in Alawwa area before the examination with several issues of this year's scholarship examination.
-
-The Department of Examinations had conducted an accelerated investigation into the incident.
-
-...
-
-[Data](articles/8b38a060.json)
-
-[Extended Data](ext_articles/8b38a060.ext.json)
-
----
-
-### The release of the "Upcountry Charter" headed by Minister Jeevan Thondaman
-
-*2024-09-18 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193995) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Upcountry Charter" released by Minister Jeevan Thondaman focuses on improving lives of plantation communities in Sri Lanka. Key features discussed at event attended by intellectuals, legal experts, and government officials.
-
-🟩
-
-The Plantation Society continues to play an important role in the economic, social and cultural structure of Sri Lanka.Development Minister and CWC general secretary Jeevan Thondaman was held at a private hotel in Nuwara Eliya.
-
-Minister Jeevan Thondaman delivered a special speech by Dr. Bhagyasothi Saravanamuttu, Founder of the Founder of the Policy Change Center.
-
-In this charter, the Life of the Plantation Communities should be the life of the plantation community, but the government represents the basic document of the Sri Lankan government's program and the dedicated document for the Sri Lankan government's program and the dedicated dedication to the mountain plantation community.
-
-The event was attended by intellectuals, lawyers, professors, principals, teachers, civil organizations, traders, industry enthusiasts, departmental experts, ministry officials and many others.
-
-...
-
-[Data](articles/49450560.json)
-
-[Extended Data](ext_articles/49450560.ext.json)
-
----
-
-### MP Wasantha Yapa threatened with a woman
-
-*2024-09-18 11:40:56* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රි-වසන්ත-යාපාට-කාන්තාවකගෙන්-තර්ජන/11-411990) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-MP Wasantha Yapa Bandara received threatening phone calls from a woman. The Kandy Headquarters Police launched an investigation based on his complaint. The police inspector in charge will lead further inquiries.
-
-🟩
-
-Police investigations have commenced following a complaint lodged by the Kandy Headquarters Police regarding the Kandy Headquarters Police regarding the Kandy District Parliamentarian Wasantha Yapa Bandara.
-
-He had received the threatening telephone calls from 12.30 am today (18) and has been lodged with the two telephone numbers provided.
-
-The complaint states that the threatening phone calls were made by a woman.
-
-The headquarters of Headquarters is further investigations into the leading Inspector of Police (Senani Bandaranaike) in charge of Kandy.
-
-◼️
-
-[Data](articles/2e515479.json)
-
-[Extended Data](ext_articles/2e515479.ext.json)
-
----
-
-### A child killed in a hundred and a half
-
-*2024-09-18 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201145) · `si`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-A large number of and a half was killed in an accident at the Anuradhapura road on the Mahiyanganaya Mahiyanganaya road.
-
-◼️
-
-[Data](articles/a5c3c16e.json)
-
-[Extended Data](ext_articles/a5c3c16e.ext.json)
-
----
-
-### Pakistan-Sri Lanka trade dispute unresolved: Report
-
-*2024-09-18 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102055/pakistan-sri-lanka-trade-dispute-unresolved-report) · `en`
-
-Pakistan and Sri Lanka have yet to operationalise a bilateral dispute resolution body, nearly two decades after signing a treaty, leaving trade disputes unresolved. This could potentially harm Pakistan’s exports to the island nation.
-
-On Monday, Pakistan’s Ministry of Commerce informed a Senate Standing Committee on Commerce that Sri Lankan authorities were uncooperative, suggesting the issue now needs to be addressed at the political level.
-
-Senator Anusha Rahman of the Pakistan Muslim League-Nawaz (PML-N) chaired the meeting. Initially, ministry officials implied the dispute resolution forum was effective but later admitted Sri Lanka’s lack of cooperation.
-
-“We have friendly relations with Sri Lanka and want to amicably resolve the trade disputes,” said Pakistan’s Minister for Commerce Jam Kamal.
-
-...
-
-[Data](articles/58a0e22c.json)
-
-[Extended Data](ext_articles/58a0e22c.ext.json)
-
----
-
-### More support for SLPP, UNP than either party’s presidential candidate: IHP poll
-
-*2024-09-18 11:25:00* · [`economynextcom`](https://economynext.com/more-support-for-slpp-unp-than-either-partys-presidential-candidate-ihp-poll-179856/) · `en`
-
-ECONOMYNEXT — There is substantially more support for the ruling Sri Lanka Podujana Peramuna (SLPP) and President Ranil Wickremesinghe’s United National Party (UNP) than there is for either party’s presidential candidate, the Institute for Health Policy (IHP)’s monthly poll has found.
-
-(IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS) polling director Dr Ravi Rannan-Eliya was quoted as saying in a statement from the institute that its parliamentary election voting intent survey has revealed “substantially more support for the SLPP in a general election than for their presidential candidate, and similarly more support for Wickremesinghe’s presidential candidacy than for the UNP”.
-
-“It would be unwise to write off the SLPP as a political force, since many SLPP voters appeared in August to be switching their presidential vote to Ranil Wickremesinghe. Of course, they could also do this using their second preference votes, which suggests limited voter understanding of that option,” he said.
-
-...
-
-[Data](articles/ba51d3aa.json)
-
-[Extended Data](ext_articles/ba51d3aa.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 03:56:53**
+As of **2024-09-19 04:09:50**
 
 ## Newspaper Stats
 
-*Scraped **44,646** Articles*
+*Scraped **44,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,833
+tamilmirrorlk | 5,834
 virakesarilk | 7,140
 adaderanasinhalalk | 7,642
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,646 (100.0%) of 44,646 articles have been extended.
+44,647 (100.0%) of 44,647 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,28 @@ The delegation was led by General Manager of Investment Promotion and Marketing 
 [Data](articles/0bf5082f.json)
 
 [Extended Data](ext_articles/0bf5082f.ext.json)
+
+---
+
+### Risk to fisherman because of biting fish
+
+*2024-09-19 02:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்-கடித்ததால்-மீனவருக்கு-ஆபத்து/175-343996) · `ta`
+
+Fishermen face risks when bitten by fish. A fisherman was rescued off the coast and hospitalized after being attacked while fishing in the southern seas. The incident highlights the dangers faced by fishermen during their work.
+
+🟩
+
+A fisherman who was in a state of disrepair in the south sea was rescued on Wednesday (18) and was taken to the Colombo port and admitted to the Colombo National Hospital.
+
+The man who was taken to the hospital was a fisherman who lives on the island of Wennappuwa, the navy said.
+
+Seven fishermen were loaded from the Wennappuwa fishing port for fishing and went to the deep sea on Tuesday (17).. This is the case.
+
+◼️
+
+[Data](articles/21228fa4.json)
+
+[Extended Data](ext_articles/21228fa4.ext.json)
 
 ---
 
@@ -2287,27 +2309,5 @@ If something is about her, the police requests the public to inform the followin
 [Data](articles/18f5ddb8.json)
 
 [Extended Data](ext_articles/18f5ddb8.ext.json)
-
----
-
-### International Election Superintendents have asked the Election Commission that the candidates are only campaigning for the various confusion about the preferential voting process.
-
-*2024-09-18 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194016) · `ta`
-
-International election superintendents express concern over confusion about preferential voting process. Candidates accused of not adequately promoting it. Election Commission responds by explaining voting process in villages. International observers also report campaign irregularities and Election Commission manipulation.
-
-🟩
-
-International Election Superintendents have issued a compassion to the Election Commission that there is a lot of confusion among the people regarding the preferential voting process and that most candidates are proposing to postpone their logo.
-
-As the country's ninth presidential election is scheduled to be held on the 21st of this month, the Election Commission has officially invited the Elections Commission to the Elections Commission, including the European Union, Commonwealth and Independent Elections, as usual to carry out election surveillance work.. They are coming to the country and are carrying out their election monitoring in the nine provinces.
-
-A meeting between officials of the Election Commission and the Elections Superintendent of the Commonwealth and the Asian Network for Independent Elections was held in Colombo on Tuesday.
-
-...
-
-[Data](articles/4ce4c4db.json)
-
-[Extended Data](ext_articles/4ce4c4db.ext.json)
 
 ---

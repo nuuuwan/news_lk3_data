@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 12:12:54**
+As of **2024-09-18 12:23:25**
 
 ## Newspaper Stats
 
-*Scraped **44,497** Articles*
+*Scraped **44,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 429
 colombotelegraphcom | 443
-islandlk | 2,621
-economynextcom | 2,688
+islandlk | 2,622
+economynextcom | 2,694
 dailyftlk | 2,962
 adalk | 4,102
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,497 (100.0%) of 44,497 articles have been extended.
+44,503 (100.0%) of 44,504 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -102,6 +102,24 @@ Senator Anusha Rahman of the Pakistan Muslim League-Nawaz (PML-N) chaired the me
 
 ---
 
+### More support for SLPP, UNP than either party’s presidential candidate: IHP poll
+
+*2024-09-18 11:25:00* · [`economynextcom`](https://economynext.com/more-support-for-slpp-unp-than-either-partys-presidential-candidate-ihp-poll-179856/) · `en`
+
+ECONOMYNEXT — There is substantially more support for the ruling Sri Lanka Podujana Peramuna (SLPP) and President Ranil Wickremesinghe’s United National Party (UNP) than there is for either party’s presidential candidate, the Institute for Health Policy (IHP)’s monthly poll has found.
+
+(IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS) polling director Dr Ravi Rannan-Eliya was quoted as saying in a statement from the institute that its parliamentary election voting intent survey has revealed “substantially more support for the SLPP in a general election than for their presidential candidate, and similarly more support for Wickremesinghe’s presidential candidacy than for the UNP”.
+
+“It would be unwise to write off the SLPP as a political force, since many SLPP voters appeared in August to be switching their presidential vote to Ranil Wickremesinghe. Of course, they could also do this using their second preference votes, which suggests limited voter understanding of that option,” he said.
+
+...
+
+[Data](articles/ba51d3aa.json)
+
+[Extended Data](ext_articles/ba51d3aa.ext.json)
+
+---
+
 ### Anura Kumara outlines plans for IT growth, tourism boost, and agri independence
 
 *2024-09-18 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102054/anura-kumara-outlines-plans-for-it-growth-tourism-boost-and-agri-independence) · `en`
@@ -137,6 +155,28 @@ He stated that she had made calls for a woman from two telephone numbers from 12
 [Data](articles/dbb78397.json)
 
 [Extended Data](ext_articles/dbb78397.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 303.35/85, bond yields up
+
+*2024-09-18 11:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-303-35-85-bond-yields-up-179869/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 303.35/85 to the US dollar on Monday, from 302.25/80 Friday, dealers said, while bond yields were up, as were stocks.
+
+In the secondary market, during the ongoing treasury bill auction, the following bonds were actively quoted;
+
+A bond maturing on 15.12.2028 was quoted at 11.55/65 percent, up from 11.45/80 percent.
+
+A bond maturing on 15.06.2029 was quoted stable at 13.70/80 percent.
+
+In equities, Colombo’s All Share Price Index was 0.56 percent, or 59.78 points, higher at 10,742, while the S&P SL20 of more liquid stocks opened up at 0.87 percent or 26.05 points to 3,005.
+
+◼️
+
+[Data](articles/d04c6305.json)
+
+[Extended Data](ext_articles/d04c6305.ext.json)
 
 ---
 
@@ -266,6 +306,32 @@ Pagers holders should throw out immediately. Lebanon has announced a state of em
 
 ---
 
+### Sri Lanka in third round of discussions with bondholders: President
+
+*2024-09-18 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-third-round-of-discussions-with-bondholders-president-179843/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in a third round of discussions with bondholders, President Ranil Wickremesinghe has said, as the country heads for Presidential polls on Saturday.
+
+Sri Lanka has discussed with the International Monetary Fund, the World Bank, Asian Development Bank and 18 bilateral creditor nations, he said.
+
+“Now we are talking for the final time with private bondholders,” President Wikremesinghe said during a speech where he opened a vehicle assembly plant.
+
+Sri Lanka has conducted two rounds of direct negotiations with bondholders which led to a preliminary agreement on so-called macro-linked bonds and a governance linked bonds.
+
+The final agreement is still to be reached. Wickremesinghe said there was now talk of re-negotiating agreements.
+
+“Some people are saying they will change them,” Wickremesinghe said.
+
+“Then the co-operation we get and the money we get we will lose.”
+
+◼️
+
+[Data](articles/a7c9c8d2.json)
+
+[Extended Data](ext_articles/a7c9c8d2.ext.json)
+
+---
+
 ### Four police officers suddenly arrested
 
 *2024-09-18 10:06:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்கு-பொலிஸ்-அதிகாரிகள்-திடீர்-கைது/175-343947) · `ta`
@@ -283,6 +349,28 @@ Accordingly, two constables and sergeants on duty at the Blumental Police Statio
 [Data](articles/478c7dc3.json)
 
 [Extended Data](ext_articles/478c7dc3.ext.json)
+
+---
+
+### Sri Lanka opposition leader faces criticism after backing out of tv show
+
+*2024-09-18 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leader-faces-criticism-after-backing-out-of-tv-show-179815/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Opposition Leader Sajith Premadasa has faced criticism for his inability to face challenges after he cancelled a live interview with a privately-owned local television channel, and criticism over evading responsibility as a leader.
+
+Sri Lanka’s Derana television channel had informed the public that Premadasa will appear in the live 360 programme late evening on Tuesday.
+
+However, Premadasa’s party has sent a letter citing that he had never been confirmed for a live interview.
+
+“As usual, Sajith Premadasa has evaded facing challenges,” Manusha Nanayakkara, a former legislator from Premadasa’s Samagi Jana Balawegaya (SJB) who is now backing President Ranil Wickremesinghe charged in a live talk show which replaced the opposition leader’s scheduled live 360.
+
+A member of SJB said that the opposition leader did not confirm for a live programme.
+
+...
+
+[Data](articles/c5a15802.json)
+
+[Extended Data](ext_articles/c5a15802.ext.json)
 
 ---
 
@@ -932,6 +1020,30 @@ The ninth presidential election will be held on the 21st. This was the first maj
 
 ---
 
+### Sri Lanka central govt debt falls below 100-pct of GDP in June 2024
+
+*2024-09-18 07:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-govt-debt-falls-below-100-pct-of-gdp-in-june-2024-179787/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central government debt fell to 99.83 percent of gross domestic product by June 2024 from 105.49 percent in December, amid exchange rate stability, a reduced budget deficit, and an expanding economy, official data show.
+
+Public debt with guaranteed debt of state enterprises fell to 105.7 percent of GDP in June 2024, down from 112.74 percent in December 2023.
+
+Rolling GDP to June went up to 28,909 billion rupees, from 27,629 in December 2023.
+
+Guaranteed debt includes a credit to the Reserve Bank of India which the central bank is paying down.
+
+When central banks use proceeds of swaps or other debt, it prints money to keep policy rates down and acquires government debt in the process (to sterilize the intervention by running inflationary policy), driving credit and imports.
+
+As a result, central bank dollar borrowings or reserves which are spent to finance private imports, are fully backed with government debt which have already been issued.
+
+...
+
+[Data](articles/74b5d0f6.json)
+
+[Extended Data](ext_articles/74b5d0f6.ext.json)
+
+---
+
 ### Several spells of showers expected in parts of Sri Lanka
 
 *2024-09-18 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102048/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
@@ -949,6 +1061,32 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/75d49c5a.json)
 
 [Extended Data](ext_articles/75d49c5a.ext.json)
+
+---
+
+### Sri Lanka President opens SKD vehicle assembly plant
+
+*2024-09-18 07:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-opens-skd-vehicle-assembly-plant-179804/) · `en`
+
+ECONOMYNEXT – President Ranil Wickremesinghe opened an assembly plant in Sri Lanka’s Kuliyapitiya area, which will start by putting together a 15-seater passenger van.
+
+The plant will assemble semi-knocked down vehicles imported from abroad, he said.
+
+Western Automobile Assembly Private Limited, promoted by Sri Lanka’s Senok group.
+
+“We approved the establishment of this factory in 2015, but it faced significant opposition and protests. Investigations were even conducted in Parliament,” he was quoted as saying at the opening ceremony Tuesday.
+
+“The project, which was scheduled to launch in 2019, was delayed due to the impacts of COVID-19 and the economic crisis.
+
+After assuming the presidency, I made the decision to restart all these stalled projects. Today, we have finally commenced operations at the Western Automobile Company.
+
+“This factory has the capacity to produce 50,000 vehicles annually, which will strengthen our export sector.”
+
+...
+
+[Data](articles/d3cd08e4.json)
+
+[Extended Data](ext_articles/d3cd08e4.ext.json)
 
 ---
 
@@ -1870,6 +2008,16 @@ It was noted that the job was provided under the Memorandum of Understanding bet
 
 ---
 
+### Hope springs eternal: Not in politics!
+
+*2024-09-17 22:57:00* · [`islandlk`](http://island.lk/hope-springs-eternal-not-in-politics/) · `en`
+
+...
+
+[Data](articles/c596f0ac.json)
+
+---
+
 ### Why the doom and gloom?
 
 *2024-09-17 22:56:00* · [`islandlk`](http://island.lk/why-the-doom-and-gloom/) · `en`
@@ -2115,187 +2263,5 @@ The final rally of the candidate Sajith Premadasa of the Samagiens The last rall
 [Data](articles/16404557.json)
 
 [Extended Data](ext_articles/16404557.ext.json)
-
----
-
-### Developing the country?Is it anarchy?People should make the right decision - the UNP. Legal Secretary Nissanka Nanayakkara
-
-*2024-09-17 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/193956) · `ta`
-
-UNP legal secretary Nissanka Nanayakkara urges voters to choose wisely in upcoming presidential election, warning against potential return to anarchy and promoting economic development under current leadership.
-
-🟩
-
-Is it going to continue the current program of developing the economy and developing the country?Or has the opportunity to determine whether the country is back in anarchy as in the past. "We hope that the people will make the right decision," the United National Party's legal secretary Nissanka Nanayakkara said.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (17).
-
-The presidential election is hot and is currently reaching the final stage. Election campaigns end today. People have the opportunity to elect the leader of this country in a few days.
-
-So is it going to improve the economy and continue the current program that is developing the country?Or people should decide whether the country will be allowed to take anarchy as an anarchy as in the past. We are confident that people will make the right decision.
-
-...
-
-[Data](articles/f2638906.json)
-
-[Extended Data](ext_articles/f2638906.ext.json)
-
----
-
-### The people should not fail to replace the doctors in the patient's recovery - the president
-
-*2024-09-17 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/193957) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka President Ranil Wickremesinghe addresses nurses conference, urging citizens not to replace doctors during patient recovery. He discusses economic recovery plans, healthcare reforms, and nurse training initiatives.
-
-🟩
-
-President Ranil Wickremesinghe said that the people of the country should not make a mistake on September 21, when the patient is recovering after emergency treatment, the doctor will be replaced and allowed in the ordinary ward under the ineligible doctor.
-
-Pointing out that the doctor's certificate of refusal to treat a patient can be canceled and canceled, the President said that the people of the country should reject politicians who ran away without the responsibility of healing the country's economy in 2022.
-
-President Ranil Wickremesinghe made this statement while addressing the 2024 Nurses Conference of the Public Service Joint Nurses Association held at the Voters Age Hotel on Tuesday (17).
-
-Narahenpitiya Abayaramabadi, Chief Sanganayake for the Western Province, Dr.The president was also handed over to the President with the proposals of the Nurses Association of the State Service by Murudetaya Ananda Thera.
-
-...
-
-[Data](articles/91b592c6.json)
-
-[Extended Data](ext_articles/91b592c6.ext.json)
-
----
-
-### Vehicle assembly plant declared open in Kuliyapitiya; first vehicle to enter market by month-end
-
-*2024-09-17 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102046/vehicle-assembly-plant-declared-open-in-kuliyapitiya-first-vehicle-to-enter-market-by-month-end) · `en`
-
-President Ranil Wickremesinghe today (17) inaugurated the Western Automobile Assembly Private Limited (WAA) vehicle assembly plant in Kuliyapitiya, marking a significant milestone in the country’s automotive industry.
-
-This $27 million facility is now the largest vehicle assembly plant in South Asia, according to the President’s Media Division.
-
-The first vehicle to be assembled at the factory, a 15-seater passenger van, is expected to enter the market by the end of the month. The factory, equipped with cutting-edge machinery designed by global automotive experts, will generate both direct and indirect employment opportunities for local youth, the PMD said.
-
-In line with international industry standards, the facility also houses a vocational training institute, offering young people the chance to gain skills that will qualify them for overseas job opportunities.
-
-...
-
-[Data](articles/493a3788.json)
-
-[Extended Data](ext_articles/493a3788.ext.json)
-
----
-
-### Three killed in accidents in different parts of the country
-
-*2024-09-17 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193953) · `ta`
-
-Three killed in separate accidents: motorcycle crashes into tree, three-wheeler collides with another vehicle. Both incidents occurred in different regions of the country on Monday.
-
-🟩
-
-Three people have died in vehicle accidents that occurred on Monday (16) in different parts of the country, police said.
-
-The accidents took place in the Tehiyakandananda - Aralangwila, Arachchikattuwa - Welipelusa areas.
-
-A motorcycle traveling from Aralangwila to Tehiyakkadan on the road in Aralangwila area of ​​the Tehiyakandan police division has lost control of the driver's control and crashed into a tree.
-
-The driver of the motorcycle, who was injured in the accident, died after being admitted to the Tehiyakkandi Hospital.
-
-Meanwhile, a three -wheeler traveling from Arachchikattuwa to Welipelusa in the Arachchikattuwa - Welipelusa area has crashed into the same direction.
-
-The 41 -year -old motorcycle driver who was injured in the accident has died after being admitted to the hospital, police said.
-
-◼️
-
-[Data](articles/fe88bb28.json)
-
-[Extended Data](ext_articles/fe88bb28.ext.json)
-
----
-
-### Faizer Mustafa Explains Racism
-
-*2024-09-17 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/193947) · `ta`
-
-Former Minister Faizer Mustafa denies racism in his opposition to a gazette notification for assistant teacher appointments in plantation schools. He claims the notification lacks clarity and fairness, leading to legal challenges.
-
-🟩
-
-I am not racist approaching the assistant teacher appointment affair for plantation schools. On the contrary, former minister Faizer Mustafa said that the gazette notified in the gazette notification was sought by the court due to the ambiguity.
-
-It was decided to appoint assistant teachers to address the shortage of teachers in plantation schools. The gazette notification was issued and arrangements were made to conduct competitive examinations on August 17.
-
-However, the court issued an interim injunction under the petition filed by former Minister Faizer Mustafa against the gazette notification of the gazette two days before the exams.. Thus the exams have been suspended.
-
-Minister Jeevan Thondaman and State Minister Vadivel Suresh have stated that President Ranil Wickremesinghe has said that he would request Faizer Mustafa to intervene in this regard.
-
-He was speaking at a press conference held at Bambalapitiya on Tuesday to Faizer Mustafa.
-
-...
-
-[Data](articles/851fe62d.json)
-
-[Extended Data](ext_articles/851fe62d.ext.json)
-
----
-
-### If Mahinda Rajapaksa is actually a country, Namal Rajapaksa should advise Rajapaksa
-
-*2024-09-17 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/193945) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Mahinda Rajapaksa advises Namal Rajapaksa to support Ranil Wickremesinghe. Economic crisis led to Wickremesinghe's presidency.
-
-🟩
-
-If Mahinda Rajapaksa is actually the country, Namal Rajapaksa should advise Rajapaksa. Thodambahala Rahula Thera said that the presidential candidate should be supported by Namal Rajapaksa and supported Ranil Wickremesinghe.
-
-If there is a Dalada House, you can protect the Buddhist Charter. We cannot tie our hands, noting that the Dalada House is in the House.
-
-The policy of a few presidential candidates is against the Buddhist Charter. Refer to the replacement of the national flag and the Buddhist flag. In the event of this situation, the Buddhist Charter will be abolished.
-
-The presidential election is decisive. The people of the country should make the best decision. Former President Mahinda Rajapaksa should accept that he has served the country. In fact, he should advise his son Namal Rajapaksa.
-
-I humbly request former President Mahinda Rajapaksa to support the presidential candidate Namal Rajapaksa and support Ranil Wickremesinghe.
-
-...
-
-[Data](articles/2136545e.json)
-
-[Extended Data](ext_articles/2136545e.ext.json)
-
----
-
-### The United National Party (UNP) request to supporters of the United People's Power
-
-*2024-09-17 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/193942) · `ta`
-
-United National Party requests United People's Power supporters to back Ranil Wickremesinghe, citing his strong chances of winning due to party support and potential vote splitting. Former Minister Asala Jagoda urges supporters not to waste votes, emphasizing Ranil Wickremesinghe's likelihood of victory.
-
-🟩
-
-Former Minister Asala Jagoda said that as Ranil Wickremesinghe is a victory candidate, United People's Power supporters should not waste their votes and become partners of Ranil Wickremesinghe's victory.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (17).
-
-Based on all information, Ranil Wickremesinghe is more likely to be elected president again. Sajith Premadasa has already said that Ranil Wickremesinghe will not hold elections as he is afraid of losing.
-
-The matter is true that he said. Ranil Wickremesinghe was confident that he could win the election and boldly offered to contest the election.
-
-Battey will be among the three main candidates in the upcoming elections. Ranil Wickremesinghe is likely to get more votes, even though he analyzed how to split the vote in this election.
-
-...
-
-[Data](articles/af94f6b9.json)
-
-[Extended Data](ext_articles/af94f6b9.ext.json)
 
 ---

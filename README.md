@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 10:38:08**
+As of **2024-09-18 10:57:12**
 
 ## Newspaper Stats
 
-*Scraped **44,485** Articles*
+*Scraped **44,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,235
 tamilmirrorlk | 5,809
 virakesarilk | 7,108
-adaderanasinhalalk | 7,615
+adaderanasinhalalk | 7,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,485 (100.0%) of 44,485 articles have been extended.
+44,486 (100.0%) of 44,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Sajith's relief to children faced scholarship
+
+*2024-09-18 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201142) · `si`
+
+Sajith Premadasa, presidential candidate, promises to address injustice in the Grade 5 Scholarship Examination system during his potential presidency.
+
+🟩
+
+The presidential candidate Sajith Premadasa, the Presidential Department of the Power, says that he will work to work injustice under its government this year's Grade 5 Scholarship Examination.
+
+◼️
+
+[Data](articles/a863702b.json)
+
+[Extended Data](ext_articles/a863702b.ext.json)
+
+---
 
 ### Sri Lanka to benefit the coin
 
@@ -2277,33 +2295,5 @@ However, when asked by Municipal Commissioner Ishaan Vijayathilaka about this, h
 [Data](articles/67da6f6d.json)
 
 [Extended Data](ext_articles/67da6f6d.ext.json)
-
----
-
-### The massive factory to assivery vehicle assembly opens in Kuliyapitiya
-
-*2024-09-17 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201124) · `si`
-
-New vehicle assembly plant opens in Kuliyapitiya. Cost: Rs 27 billion. First product: 15-seater bus. Creates jobs and offers vocational training.
-
-🟩
-
-Kuliyapitiya Western Automobern Autobile Limited (WA) Modern Vehicle Assembling Factory at President Ranil Wickremesinghe was opened today (17).
-
-The largest vehicles of South Asia, Western Automobile Assweebly spent on the factory, the factory, has spent Rs 27 million for the factory.
-
-A passenger van of 15, a 15 seats of the factory will be released to the market at the end of this month.
-
-The factory consists of the highest level international machinery created by the global auto specialists, the FDI will create many direct and indirect employment opportunities for the youth.
-
-It also provides an international vocational training institute in accordance with global industry needs, and the youth of the country will allow the opportunity to raise foreign employment.
-
-President Ranil Wickremesinghe has unveiled the plaque to the modern vehicle assembly factory at Western Automobile Assembly (WAA) this afternoon.
-
-◼️
-
-[Data](articles/de30e802.json)
-
-[Extended Data](ext_articles/de30e802.ext.json)
 
 ---

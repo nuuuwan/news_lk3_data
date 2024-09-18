@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 13:07:49**
+As of **2024-09-18 13:22:39**
 
 ## Newspaper Stats
 
-*Scraped **44,516** Articles*
+*Scraped **44,520** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 430
-colombotelegraphcom | 443
+colombotelegraphcom | 444
 islandlk | 2,622
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,105
+adalk | 4,106
 dailymirrorlk | 4,733
-adaderanalk | 5,238
-tamilmirrorlk | 5,813
+adaderanalk | 5,239
+tamilmirrorlk | 5,814
 virakesarilk | 7,115
 adaderanasinhalalk | 7,620
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 7,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,511 (100.0%) of 44,516 articles have been extended.
+44,515 (100.0%) of 44,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### President promises to improve English proficiency across Sri Lanka within 10 years
+
+*2024-09-18 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102057/president-promises-to-improve-english-proficiency-across-sri-lanka-within-10-years) · `en`
+
+President Ranil Wickremesinghe assured that English language proficiency would be made accessible to every child through the implementation of the “English for All” program within the next decade.
+
+“In the first two years, we will focus on training teachers and then extend training to others. We will also provide opportunities for private institutions to register and teach English. Within 10 years, we can significantly improve English proficiency across the country,” he said.
+
+The President claimed that the JVP had protested against his proposal to introduce English education through the White Paper when he was the Minister of Education.
+
+He argued that if this program had been implemented at that time, the country would not be facing the English language issues it does today.
+
+...
+
+[Data](articles/b1bbada6.json)
+
+---
+
+### பெண் மருத்துவரின் விபரங்களை நீக்கியது விக்கிப்பீடியா
+
+*2024-09-18 12:40:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-மருத்துவரின்-விபரங்களை-நீக்கியது-விக்கிப்பீடியா/175-343954) · `ta`
+
+உச்ச நீதிமன்ற உத்தரவை அடுத்து கொல்கத்தா ஆர்.ஜி.கர் மருத்துவமனையில் பாலியல் வன்கொடுமை செய்து, கொலை செய்யப்பட்ட வழக்கில் பாதிக்கப்பட்ட பயிற்சி பெண் மருத்துவரின் பெயர், புகைப்படத்தை விக்கிப்பீடியா நீக்கியுள்ளது.இது தொடர்பாக செவ்வாய்க்கிழமை உச்ச நீதிமன்றம் உத்தரவு பிறப்பித்தது.
+
+இதையடுத்து விக்கிப்பீடியாவின் தாய் நிறுவனமான விக்கிமீடியா அறக்கட்டளை தரப்பில் விளக்கம் தரப்பட்டுள்ளது. பொதுவாக விக்கிப்பீடியாவில் பதிவாகும் கட்டுரைகளை விக்கிமீடியா அறக்கட்டளை திருத்தவோ அல்லது சென்சார் செய்வதோ இல்லை என்பது குறிப்பிடத்தக்கது. இது கொள்கை ரீதியிலான முடிவு.
+
+...
+
+[Data](articles/5e357761.json)
+
+---
+
+### ලෙබනනයේ ස්ථාන කිහිපයක පිපිරීම් - 3000ට වැඩි පිරිසක් තුවාල ලබයි
+
+*2024-09-18 12:20:08* · [`adalk`](https://www.ada.lk/breaking_news/ලෙබනනයේ-ස්ථාන-කිහිපයක-පිපිරීම්---3000ට-වැඩි-පිරිසක්-තුවාල-ලබයි/11-411992) · `si`
+
+ලෙබනනයේ බේරූට් අගනුවර ඇතුළු ප්‍රදේශ කිහිපයක සිදුවූ පිපිරීම් වලින් පුද්ගලයන් 09 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+එම පිපිරීම් වලින් 3000ට වැඩි පිරිසක් තුවාල ලබා ඇති අතර, ඉන් 200 දෙනෙකුගේ තත්ත්වය බරපතල  බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+පේජර් පණිවිඩ හුවමාරු යන්ත්‍ර 5000කට පුපුරණ ද්‍රව්‍ය යොදා මෙම පිපිරීම් සිදු කර ඇති බව සඳහන්.
+
+Take a look at where people were and who they were surrounded by when their pagers exploded.
+
+This was an indiscriminate attack by Israel on civilians in Lebanon, and it falls under the West’s supposed definition of terrorism.
+
+◼️
+
+[Data](articles/5f2f66e8.json)
+
+---
 
 ### Dilith vows to empower women, write off microfinance loan interest
 
@@ -386,23 +438,29 @@ Meanwhile, Udaya Gammanpila said that steps will be taken to defeat the 13th Ame
 
 ---
 
-### ஊழலிற்கு உதவினார் என்பது உறுதியானால் ரணிலுக்கு எதிராகவும் சட்டநடவடிக்கை - சஜித்
+### If it is certain that he helped corruption, legal action against Ranil - Sajith
 
 *2024-09-18 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/193989) · `ta`
 
-ஜனாதிபதி ரணில்விக்கிரமசிங்க ஊழலிற்கு உதவினார்  என தெரிந்தால் அவருக்கு எதிராக நடவடிக்கை எடுக்க தயங்கமாட்டேன் என ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+<PHIND_TIMEOUT>
 
-கடந்த காலத்தின் பாரிய மோசடிகள் தொடர்பில்சட்ட நடவடிக்கை எடுப்பேன் என உறுதியளித்துள்ள சஜித்பிரேமதாச குற்றங்களிற்கு தற்போதைய ஜனாதிபதி உதவினார் துணைபோனார்  என தெரியவந்தால் அவருக்கு எதிராகவும் நடவடிக்கை எடுப்பேன் என தெரிவித்துள்ளார்.
+🟩
 
-ரணில்விக்கிரமசிங்க போன்ற ஒருவர் ஊழலிற்கு உதவினார் என தெரியவந்தால் என்பது உறுதியானால் நடவடிக்கை எடுப்பீர்களா என்ற கேள்விக்கு 100 வீதம் என அவர் தெரிவித்துள்ளார்.
+United People's Power Presidential candidate Sajith Premadasa says he will not hesitate to take action against him if President Ranil Wickremesinghe knows that he has helped the scam.
 
-மத்திய வங்கி பிணைமுறிமோசடி போன்ற பொதுமக்களாலும் அரசியல்அரங்கிலும் பேசப்படும் மோசடிகள் குறித்தும் விஎஸ்எவ் விவகாரம் குறித்தும் நடவடிக்கை எடுப்பீர்களா என்ற கேள்விக்கு தனது கட்சி சட்டத்தை நடைமுறைப்படுத்தும் என சஜித்பிரேமதாச தெரிவித்துள்ளார்.
+He has promised to take action against the massive frauds of the past, saying that if it is revealed that the current president has helped the crimes of the Sajitprematasa crimes, he will take action against him.
 
-தேர்தல் மேடைகளில்  ஊழலிற்கு எதிராக நடவடிக்கை எடுப்பதாக தெரிவிப்பவர்கள் போல இல்லாமல் நாங்கள் ஊழலை ஒழிப்பது குறித்து உண்மையான ஆர்வத்தை கொண்டுள்ளோம்,என அவர் தெரிவித்துள்ளார்.
+He said that if a person like Ranil Wickremesinghe was found to be helpful, he would take action if it was confirmed.
+
+Sajith Premadasa said his party would implement law on whether the Central Bank would take action on the issue of the VSW issue and the VSW issue.
+
+We have a genuine interest in eradicating corruption, unlike those who say they are taking action against corruption on the election platforms, ”he said.
 
 ◼️
 
 [Data](articles/70369f99.json)
+
+[Extended Data](ext_articles/70369f99.ext.json)
 
 ---
 
@@ -428,19 +486,25 @@ He was speaking at a public brief in the Kotikawatta, yesterday (17).
 
 ---
 
-### திருகோணமலையில் தமிழ், முஸ்லிம் மக்களை அச்சுறுத்தும் தீவிரமடையும் நில அபகரிப்பு
+### Intensive land grabbing Tamil and Muslim people in Trincomalee
 
 *2024-09-18 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193984) · `ta`
 
-அமெரிக்காவை தளமாகக் கொண்டு, பிரதானமாக காணி உரிமைகள் தொடர்பில் ஆய்வுகளை மேற்கொள்ளும் ஓக்லேன்ட் நிலையம் (The Oakland Institute), இலங்கையின் கிழக்கு மாவட்டமான திருகோணமலையில், வளம் மிகுந்த விளை நிலங்கள் அபகரிக்கப்படுவது வேகமெடுத்துள்ளது என தனது புதிய அறிக்கை ஒன்றில் கூறியுள்ளது.
+The Oakland Institute, which is based on the United States, and maintaining land rights, said in a new statement in a new statement that the seizure of resources in the eastern district of Sri Lanka, Trincomalee, is speeding up.
 
-பல தசாப்தங்களாக சிங்கள மக்களின் வலிந்த குடியேற்றம் காரணமாக, திருகோணமலை மாவட்டத்தின் குடிபரம்பல் கணிசமாக மாறியுள்ளது எனவும், நில உடமையில் பாரிய சமமின்மை நிலவுகிறது எனவும் அந்த அறிக்கை சுட்டிக்காட்டுகிறது.
+The report points out that due to the pain of the Sinhalese people for decades, the migration of the Trincomalee district has changed significantly and that there is immense inequality in the land belongings.
 
-முன்னதாக ஜேர்மனியில் அரச ஊடகமான டோய்ச்சு வெலெவிற்கு (Deutsche Welle) அளித்த செவ்வி  ஒன்றில் அமைச்சர் அலி சப்ரி, நாட்டின் வடக்கு பகுதியில் படைகள் ஆக்கிரமித்துள்ள நிலங்களில் 90 சதவீதமான காணிகள் நியாயமான உரிமையாளர்களின் திருப்பி அளிக்கப்பட்டுவிட்டதாக கூறியிருந்தார். ஆனால் அந்த தகவல் தவறு என இலங்கை தமிழரசுக் கட்சியின், யாழ்ப்பாண மாவட்ட நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் அதை மறுத்திருந்தார்.
+Earlier, Minister Ali Sabri said that 90 percent of the land occupied by the northern lands of the country had been repaid by fair owners.. But the information was wrong that the Sri Lanka Tamil National Party, Jaffna district parliamentarian Sivagnanam Sreedharan denied it.
+
+However, in the context of the Tamil, Muslim and Sinhalese people in the East, the minister did not open the situation in the situation.
+
+Trincomalee is a very important part of Sri Lanka. The report states that the land grabbing is taking place where the natural harbor is proud.
 
 ...
 
 [Data](articles/f8ff959a.json)
+
+[Extended Data](ext_articles/f8ff959a.ext.json)
 
 ---
 
@@ -462,21 +526,23 @@ The presidential candidate Sajith Premadasa, the Presidential Department of the 
 
 ---
 
-### வாகன விபத்தில் மூன்றரை வயதுடைய குழந்தை உயிரிழப்பு - ஐவர் காயம் !
+### Three -and -a -half -year -old child dies in a vehicle accident
 
 *2024-09-18 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/193981) · `ta`
 
-தெஹியத்தகண்டிய பொலிஸ் பிரிவிற்குட்பட்ட பொலன்னறுவை-  மஹியங்கனை வீதியில் லத்பந்துர சந்தி பாலத்திற்கு அருகில் இடம்பெற்ற விபத்தில் மூன்றரை வயதுடைய குழந்தை உயிரிழந்துள்ளதுடன், ஐவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A three-and-a-half-year-old child was killed and five others were injured in an accident near the Latpandura Junction Bridge on the Polonnaruwa-Mahiyanganaya road belonging to the Tehiyakkandan police division.
 
-பொலன்னறுவையிலிருந்து மஹியங்கனை நோக்கிப் பயணித்த வேன் ஒன்று எதிர்த்திசையில் பயணித்த முச்சக்கரவண்டியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The accident occurred when a van traveling from Polonnaruwa to Mahiyangan was collided with a three -wheeler.
 
-விபத்தில் முச்சக்கரவண்டியின் சாரதியும் அவருடைய மனைவி மற்றும் பிள்ளைகள் காயமடைந்துள்ளதுடன்  தெஹியத்தகண்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் மூன்றரை வயதுடைய குழந்தை சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The driver of the three -wheeler was injured in the accident and his wife and children were injured and the three -and -a -half -year -old child died after being admitted to the Tehiyakkanda hospital, police said.
 
-இதேவேளை, வேனின் சாரதியும் வேனில் பயணித்த இளைஞனும் காயமடைந்துள்ள நிலையில் தெஹியத்தகண்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் வேனின் சாரதி கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Meanwhile, the driver of the van has been arrested after the driver of the van and the young man who was traveling in the van was injured.
 
 ◼️
 
 [Data](articles/391fd51b.json)
+
+[Extended Data](ext_articles/391fd51b.ext.json)
 
 ---
 
@@ -508,15 +574,27 @@ Since special status was canceled in 2019, there was no assembly elections. Afte
 
 ---
 
-### சிறுவர்கள், பெண்களின் உரிமையை நாட்டின் அடிப்படை உரிமையாக மாற்றி பாதுகாப்பை வழங்குவோம் - சஜித் பிரேமதாச
+### We will transform the rights of children and women into the fundamental rights of the country - Sajith Premadasa
 
 *2024-09-18 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193986) · `ta`
 
-பெண்கள் மற்றும் சிறுவர்கள் இந்த இரண்டு பிரிவினரையும் இரண்டாகப் பிரிக்காமல் ஒன்றாக செயல்படுத்த வேண்டும். ஐக்கிய மக்கள் சக்தி அரசாங்கத்தின் ஊடாக பெண்களுக்கான புதிய வேலைத் திட்டத்தை நாட்டிற்கு வழங்குவோம். பெண்களுக்கும் சிறுவர்களுக்குமான உரிமை அரசியல் யாப்பில் குறிப்பிடப்பட்டிருக்கிறது. இதனை விசேடமாக அரசியல் யாப்பில் குறிப்பிட்டு அதனை அடிப்படை உரிமையாக மாற்றுகின்ற யாப்பு திருத்தம் ஒன்றை கொண்டு வருவோம். அதன் மூலம் சிறுவர்களுக்கும் பெண்களுக்குமான விசேட வரவேற்பும் கௌரவமும் மரியாதையும் கிடைக்கும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sajith Premadasa pledges to elevate children and women's rights as fundamental national rights. He proposes constitutional amendments, poverty alleviation programs, anti-violence laws, healthcare initiatives, and economic empowerment for women.
+
+🟩
+
+Girls and boys should be activated together without dividing these two sectors. We will provide a new program for women through the United People's Power Government. The right of women and children is mentioned in the Constitution. Let us bring a new amendment that is particularly referred to in the Constitution and turns it into a fundamental right. The Opposition Leader said that the special reception for children and girls will be given to the honor and respect.
+
+We will definitely establish a special Presidential Secretariat for amendments to the constitution and make the right of women and children into high law. Opposition Leader Sajith Premadasa said that the head of the country, which is elected by the people, will be directly responsible for the matters of boys and girls, and receiving comments that carry out all the responsibilities of responsible activities.
 
 ...
 
 [Data](articles/5a10c20e.json)
+
+[Extended Data](ext_articles/5a10c20e.ext.json)
 
 ---
 
@@ -1366,6 +1444,20 @@ According to the explosions, a senior member of the Hezbollah, including a senio
 
 ---
 
+### For New Dawn In Post-Election Sri Lanka, Pivot To The BRICS In A Multipolar World
+
+*2024-09-18 07:00:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/for-new-dawn-in-post-election-sri-lanka-pivot-to-the-brics-in-a-multipolar-world/) · `en`
+
+In the run up to elections the post-Marxist National People’s Power (NPP), has run a high-gloss, foreign-funded election campaign to market its policies as a ‘new dawn’. Remarkably, the NPP and rival political parties alike had ignored wider geopolitical developments that may contribute to such a dawn given the globally networked nature of the geostrategic island’s ‘poly crisis’.
+
+Re-orienting the Sri Lankan economy toward the BRICS that is challenging the ‘exorbitant privileged’ of the US dollar as global reserve currency would be one such step. The US dollar has been long used to debt colonize the Global South. However, all major political parties have done little to educate voters about Sri Lanka’s wider geopolitical challenges, or the need to pivot away from the West’s tired debt trap, neocolonialism.
+
+...
+
+[Data](articles/d55b671f.json)
+
+---
+
 ### Records are also being published in presidential election flocks
 
 *2024-09-18 06:31:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-ප්‍රචාරක--රැළිවල---වාර්තා-පළ-කිරීමටත්-සීමා-පැනවේ/11-411986) · `si`
@@ -2161,75 +2253,5 @@ I first met Anthony A. Page, fondly known as Baba, in early 1992 while conductin
 [Data](articles/125a3bcd.json)
 
 [Extended Data](ext_articles/125a3bcd.ext.json)
-
----
-
-### Tribute to Late Anthony A. Page
-
-*2024-09-18 00:56:57* · [`dailyftlk`](https://www.ft.lk/columns/Tribute-to-Late-Anthony-A-Page/4-766807) · `en`
-
-I first met Anthony A. Page, fondly known as Baba, in early 1992 while conducting an audit of the Ceylon Theatres Group. At the time, I was working as an article clerk at KPMG Ford Rhodes Thornton & Company. During our initial meeting, where he interviewed me for a position within his Group, I was struck by his gentle and humble demeanour. Our conversation revolved around the importance of family, and he shared the story of his father, late Albert Page, who came from Manipay, Jaffna to Colombo, eventually succeeding in business. Little did I realise that this conversation will lay the foundation for a lasting professional and personal relationship.
-
-...
-
-[Data](articles/5e37838f.json)
-
-[Extended Data](ext_articles/5e37838f.ext.json)
-
----
-
-### Sri Lanka at crucial crossroads
-
-*2024-09-18 00:54:25* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-at-crucial-crossroads/4-766806) · `en`
-
-On 21 September, 17.1 million voters have the power to elect the next President – Pic by Shehan Gunasekara
-
-It is 75 years since we gained our Independence from the British. Our rulers since then, have not made the progress that we are entitled to enjoy as citizens of Sri Lanka.
-
-...
-
-[Data](articles/979d1c4d.json)
-
-[Extended Data](ext_articles/979d1c4d.ext.json)
-
----
-
-### Renaissance or degeneration
-
-*2024-09-18 00:48:42* · [`dailyftlk`](https://www.ft.lk/opinion/Renaissance-or-degeneration/14-766805) · `en`
-
-Sri Lanka’s economy showing signs of recovery, driven by industrial and service sector growth in 2024
-
-Supporters rally during a key political campaign ahead of Sri Lanka’s pivotal Presidential election
-
-This election season has witnessed an unprecedented amount of fake narratives, disinformation, and rhetoric without any substance. The entire period of 76 years since gaining independence is a curse or misery is the prime narrative driven by extremist/leftist outfits without any basis
-
-The Presidential Election on 21 September could be the most important election for us Sri Lankans in our lifetimes. The outcome of the election could decide the very survival of our nation.
-
-...
-
-[Data](articles/c72baf87.json)
-
-[Extended Data](ext_articles/c72baf87.ext.json)
-
----
-
-### Renaissance or degeneration
-
-*2024-09-18 00:48:42* · [`dailyftlk`](https://www.ft.lk/columns/Renaissance-or-degeneration/4-766805) · `en`
-
-Sri Lanka’s economy showing signs of recovery, driven by industrial and service sector growth in 2024
-
-Supporters rally during a key political campaign ahead of Sri Lanka’s pivotal Presidential election
-
-This election season has witnessed an unprecedented amount of fake narratives, disinformation, and rhetoric without any substance. The entire period of 76 years since gaining independence is a curse or misery is the prime narrative driven by extremist/leftist outfits without any basis
-
-The Presidential Election on 21 September could be the most important election for us Sri Lankans in our lifetimes. The outcome of the election could decide the very survival of our nation.
-
-...
-
-[Data](articles/d77c0789.json)
-
-[Extended Data](ext_articles/d77c0789.ext.json)
 
 ---

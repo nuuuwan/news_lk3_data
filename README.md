@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 05:07:46**
+As of **2024-09-19 05:22:31**
 
 ## Newspaper Stats
 
-*Scraped **44,648** Articles*
+*Scraped **44,650** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 433
+bbccomsinhala | 434
 colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,703
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,835
+tamilmirrorlk | 5,836
 virakesarilk | 7,140
 adaderanasinhalalk | 7,642
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,648 (100.0%) of 44,648 articles have been extended.
+44,650 (100.0%) of 44,650 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,34 @@ The delegation was led by General Manager of Investment Promotion and Marketing 
 [Data](articles/0bf5082f.json)
 
 [Extended Data](ext_articles/0bf5082f.ext.json)
+
+---
+
+### Do not sacrifice politics in darkness
+
+*2024-09-19 02:50:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருளில்-தள்ளும்-அரசியலுக்கு-பலியாகி-விடாதீர்கள்/175-343998) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Wickremesinghe proposes implementing "English For All" program within 10 years to address English language issues. He aims to improve the future for Gen Z, criticizing politicians for prioritizing political interests over youth development. The president highlights economic growth in Malwan, mentioning IMF negotiations and implementation of programs like "Assuma" and Udaya R Senaviratne Committee's report.
+
+🟩
+
+President Ranil Wickremesinghe said that in the next 10 years, every child will be implemented in the "English For All" program to provide the opportunity to get the English language scholarship.
+
+As a minister of education, the President recalled that the JVP had landed on the road when he brought the proposal in the white report and pointed out that if the program was implemented on that day, there would be no English language issue in the country today.
+
+What is the government's solution to the problems faced by young people due to lack of English language knowledge?Responding to a question raised by a youth, President Ranil Wickremesinghe said.. Meeting with Malwana people was held on Tuesday (17). He said this while addressing the gathering.
+
+The President said his aim was to create a better future for the Gen Z generation, and demanded that the youth not be killed for the political interests of Sajith and Anura, who were limited to false promises.
+
+...
+
+[Data](articles/6c8a0f1c.json)
+
+[Extended Data](ext_articles/6c8a0f1c.ext.json)
 
 ---
 
@@ -537,6 +565,30 @@ Following that, on several occasions the Derana News Director exchanged views wi
 [Data](articles/0b84bf2c.json)
 
 [Extended Data](ext_articles/0b84bf2c.ext.json)
+
+---
+
+### Ranil Wickremesinghe: 'Are the people who are in the beggar of the Sex?They must lose them '
+
+*2024-09-18 22:43:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crl8n4e7g05o) · `si`
+
+Ranil Wickremesinghe criticizes Sajith Premadasa's economic abilities, questioning IMF agreements. He urges stopping bankruptcy proceedings and staying focused on development. The statement was made during his final rally in Colombo on September 18th.
+
+🟩
+
+Ranil Wickremesinghe: 'Are the people who are in the beggar of the Sex?They must lose them '
+
+Independence candidate says that Sajith Premadasara has no ability to strengthen the economy, saying that the agreement with the International Monetary Fund (IMF).
+
+'' What do you say in Dissanayaka, what are the journalists?These are newly discussed. We're going to do newly?We will stay aid for us. Ranil Wickremesinghe said, "Stop abolishing our bankruptcy," Ranil Wickremesinghe said.
+
+The final rally participated in Ranil Wickremesinghe was held on September 18, Colombo 18, Colombo, Grandpass, police.
+
+◼️
+
+[Data](articles/2ebce5fc.json)
+
+[Extended Data](ext_articles/2ebce5fc.ext.json)
 
 ---
 
@@ -2259,53 +2311,5 @@ Judge, Judge Yasantha Kodagoda, announced by the intermediate petition, was reve
 [Data](articles/eb5226da.json)
 
 [Extended Data](ext_articles/eb5226da.ext.json)
-
----
-
-### The Kindu is like a world record
-
-*2024-09-18 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201153) · `si`
-
-Kindu Mendis breaks world record in Sri Lanka vs New Zealand test match. He scores 50+ runs, surpassing Pakistan's group mark in first innings.
-
-🟩
-
-Sri Lankan cricket team, Komindu Mendis, has been able to comply with a World Test report.
-
-The Sri Lankan team and the New Zealand team are currently in the first Test match at Galle.
-
-The world's growth was added by a batsman with 50 or 50 runs by a batsman.
-
-The Pakistan's Group's game player has been able to collect over its first innings or 50 marks.
-
-◼️
-
-[Data](articles/0031f9e0.json)
-
-[Extended Data](ext_articles/0031f9e0.ext.json)
-
----
-
-### Legendary Indian film actress CIT Sakuntala passes away
-
-*2024-09-18 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194022) · `ta`
-
-Indian actress CIT Sakuntala passes away. Known for Tamil, Telugu, Malayalam, Kannada films. Debut in 1970. Acted in many movies including "Thirumathi Selvam" and TV series. Died due to chest pain in Bangalore. Condolences from filmmakers.
-
-🟩
-
-A. Sakundala is an actress in various languages ​​such as Tamil Telugu, Malayalam and Kannada.Since he made his debut in the 1970 film, Jaishankar starring Jaishankar, he was later called the CIT's Sakuntala.
-
-Sakuntala from Arizipalayam in Salem district attended the dance performances by Lalitha, Padmini and Rakini in Chennai. Through his debut, he entered the film industry and played the role of little roles.
-
-'Unreadable genius', 'hand -given goddess', 'thief', 'taputtalvan', 'Vasantha House', 'Justice', 'Bharata Vilas', 'Rajaraja Chola', 'Ponnununjal', 'My brother', 'Heartbreak'He has acted in numerous movies. Apart from Tamil, he has acted in languages ​​including Telugu, Malayalam and Kannada.
-
-She was acting in serials after leaving the cinema. He was staying at his daughter's house in Bangalore after the age of age, and had a chest pain on Tuesday (17).. He was admitted to a private hospital and died without treatment. Many of the filmmakers are condoled by the demise of Sakuntala.
-
-◼️
-
-[Data](articles/60da1e1e.json)
-
-[Extended Data](ext_articles/60da1e1e.ext.json)
 
 ---

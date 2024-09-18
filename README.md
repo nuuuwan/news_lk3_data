@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 05:22:16**
+As of **2024-09-18 05:43:45**
 
 ## Newspaper Stats
 
-*Scraped **44,435** Articles*
+*Scraped **44,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 428
 colombotelegraphcom | 441
 islandlk | 2,611
 economynextcom | 2,688
-dailyftlk | 2,960
+dailyftlk | 2,961
 adalk | 4,098
 dailymirrorlk | 4,733
 adaderanalk | 5,229
-tamilmirrorlk | 5,799
+tamilmirrorlk | 5,800
 virakesarilk | 7,101
 adaderanasinhalalk | 7,606
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,435 (100.0%) of 44,435 articles have been extended.
+44,437 (100.0%) of 44,437 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -472,6 +472,32 @@ The success of NPP’s entire economic trajectory hinges on reforming governance
 
 ---
 
+### Campaign activities are completed today
+
+*2024-09-18 01:36:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றுடன்-பிரசார-நடவடிக்கைகள்-நிறைவு/175-343937) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Presidential campaign concludes today. Major candidates hold final meetings in Colombo, Nugegoda, Piliyandala. Wickremesinghe meets in Grandpass, Premadasa in afternoon. Dissanayake in Nugegoda, Rajapaksa in Piliyandala.
+
+🟩
+
+The final campaign meetings of the major candidates have been organized in Colombo, Nugegoda and Piliyandala in Colombo, as the presidential campaign is to be completed today.
+
+Accordingly, Independent candidate President Ranil Wickremesinghe's campaign meeting will be held at the Grandpass - Palamarach junction and the campaign meeting of the United People's Alliance candidate Sajith Premadasa will be held this afternoon.
+
+Meanwhile, the meeting of the National People's Power Anuragumara Dissanayake will be held in Nugegoda in Nugegoda and the campaign meeting of the Sri Lanka PA candidate Namal Rajapaksa in the Piliyandala area this afternoon.. (A)
+
+◼️
+
+[Data](articles/ee6972ff.json)
+
+[Extended Data](ext_articles/ee6972ff.ext.json)
+
+---
+
 ### Election turmoil
 
 *2024-09-18 01:36:09* · [`dailyftlk`](https://www.ft.lk/opinion/Election-turmoil/14-766812) · `en`
@@ -607,6 +633,20 @@ President Ranil Wickremesinghe said that there was no unity within the United Pe
 [Data](articles/e4ee0b86.json)
 
 [Extended Data](ext_articles/e4ee0b86.ext.json)
+
+---
+
+### Tribute to Late Anthony A. Page
+
+*2024-09-18 00:56:57* · [`dailyftlk`](https://www.ft.lk/opinion/Tribute-to-Late-Anthony-A-Page/14-766807) · `en`
+
+I first met Anthony A. Page, fondly known as Baba, in early 1992 while conducting an audit of the Ceylon Theatres Group. At the time, I was working as an article clerk at KPMG Ford Rhodes Thornton & Company. During our initial meeting, where he interviewed me for a position within his Group, I was struck by his gentle and humble demeanour. Our conversation revolved around the importance of family, and he shared the story of his father, late Albert Page, who came from Manipay, Jaffna to Colombo, eventually succeeding in business. Little did I realise that this conversation will lay the foundation for a lasting professional and personal relationship.
+
+...
+
+[Data](articles/125a3bcd.json)
+
+[Extended Data](ext_articles/125a3bcd.ext.json)
 
 ---
 
@@ -2333,65 +2373,5 @@ This research has been discovered that the research has been made by nearly 520 
 [Data](articles/6f7a5b0e.json)
 
 [Extended Data](ext_articles/6f7a5b0e.ext.json)
-
----
-
-### 'Siri' talking about women's traditional dress
-
-*2024-09-17 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/193926) · `ta`
-
-"Siri" film: Aradhya Devi stars as Siri. Psychological horror about man killing woman wearing traditional dress. Directed by Giri Krishna Kamal, produced by Ravi Verma. Starring Sathya Yadu and Aradhya Devi. Releasing next November in Tamil, Telugu, Malayalam, Hindi.
-
-🟩
-
-Actress Aradhya Devi has been named 'Siri' and has been released.
-
-Sathya Yadu and Aradhya Devi are playing the lead role in the film 'Sari', directed by director Giri Krishna Kamal.
-
-The film, which is being developed as a psychological horror work, has produced the producer Ravi Verma on behalf of RGVRV Productions.
-
-The image of the movie has been released. Man kills the woman if someone wears a traditional dress wearing the women who wants the hero. The story of the film is what is the best background.
-
-To make sense of this, the heroine's sexy scenes and the hero's intimidating scenes have attracted fans.
-
-And as Ram Gopal Verma has joined the film, the expectation of the film has increased.
-
-The film has been announced in Tamil, Telugu, Malayalam and Hindi next November.
-
-◼️
-
-[Data](articles/3e2ee42b.json)
-
-[Extended Data](ext_articles/3e2ee42b.ext.json)
-
----
-
-### India to grant permanent membership to India in the United Nations Security Council - Sajith
-
-*2024-09-17 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/193930) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Sri Lankan presidential candidate Sajith Freedaasa emphasizes importance of election, criticizes current government's economic policies, promises transparency and social justice. Supports India's permanent UN Security Council membership, vows strong ties with India for national interests. Criticizes President Ranil Wickremesinghe's policies, promising development for all citizens.
-
-🟩
-
-United People's Power Presidential candidate Sajit Freedaasa says I have always supported India's permanent place in the UN Security Council.
-
-Why is this election important for the Sri Lankan people and why do you vote for you?
-
-Answer - This is a very important moment in the history of Sri Lanka, the new attitude, the new path, the long -standing view. The people have the opportunity to give their decree for the removal of those who refuse to accept new ideas.
-
-The country has met with a terrible human and economic tragedy. The devastation that has affected all children and young people is surrounded by the country.
-
-All the layers of the community have been affected by the exception of the rich. This election will be a chance to choose people against the old attitude that protects the rich and sub -employers.
-
-...
-
-[Data](articles/94c7a34e.json)
-
-[Extended Data](ext_articles/94c7a34e.ext.json)
 
 ---

@@ -1,48 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 08:33:01**
+As of **2024-09-18 08:19:55**
 
 ## Newspaper Stats
 
-*Scraped **44,456** Articles*
+*Scraped **44,452** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 428
-colombotelegraphcom | 443
+colombotelegraphcom | 442
 islandlk | 2,621
 economynextcom | 2,688
 dailyftlk | 2,961
 adalk | 4,098
 dailymirrorlk | 4,733
-adaderanalk | 5,231
+adaderanalk | 5,229
 tamilmirrorlk | 5,801
 virakesarilk | 7,101
-adaderanasinhalalk | 7,610
+adaderanasinhalalk | 7,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,452 (100.0%) of 44,456 articles have been extended.
+44,452 (100.0%) of 44,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
-
-### කැලණිවැලි දුම්රිය මාර්ගයේ පීලි පැනීමක්
-
-*2024-09-18 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201136) · `si`
-
-පීලි පැනීමක් හේතුවෙන් කැලණිවැලි දුම්රිය මාර්ගයේ දුම්රිය ධාවනය පමාවන බව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/ce6d3b3b.json)
-
----
 
 ### Election propaganda ends midnight today
 
@@ -67,42 +55,6 @@ The Chairman of the Elections Commission, Mr. RMAL Ratnayake, the comment on thi
 [Data](articles/8bdee398.json)
 
 [Extended Data](ext_articles/8bdee398.ext.json)
-
----
-
-### Hezbollah vows retaliation against Israel after pager blasts kill several, wound 2,750 in Lebanon
-
-*2024-09-18 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102049/hezbollah-vows-retaliation-against-israel-after-pager-blasts-kill-several-wound-2750-in-lebanon) · `en`
-
-Militant group Hezbollah promised to retaliate against Israel after accusing it of detonating pagers across Lebanon on Tuesday, killing nine people and wounding nearly 3,000 others, including fighters and Iran’s envoy to Beirut.
-
-Lebanese Information Minister Ziad Makary condemned the late-afternoon detonation of the pagers — handheld devices that Hezbollah and others in Lebanon use to send messages — as an “Israeli aggression.” Hezbollah said Israel would receive “its fair punishment” for the blasts.
-
-The Israeli military declined to comment on Reuters inquiries about the detonations.
-
-A senior Lebanese security source and another source told Reuters that Israel’s Mossad spy agency planted a small amount of explosives inside 5000 Taiwan-made pagers ordered by Hezbollah months before Tuesday’s detonations.
-
-...
-
-[Data](articles/f236ddae.json)
-
----
-
-### Several spells of showers expected in parts of Sri Lanka
-
-*2024-09-18 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102048/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
-
-The Meteorology Department says showers or thundershowers will occur in Southern province while several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at several places in Eastern and Uva provinces during the evening or night, it said.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in North-central and Southern provinces.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/75d49c5a.json)
 
 ---
 
@@ -569,20 +521,6 @@ The road to recovery has been difficult, but significant progress has been made 
 [Data](articles/c4e49f0a.json)
 
 [Extended Data](ext_articles/c4e49f0a.ext.json)
-
----
-
-### Woe Of New President Is Not Just Taking Baby Across Coir Suspension Bridge But Complying With Binding Targets Of ETA
-
-*2024-09-18 01:59:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/woe-of-new-president-is-not-just-taking-baby-across-coir-suspension-bridge-but-complying-with-binding-targets-of-eta/) · `en`
-
-Sri Lankans are to elect a new President on 21 September 2024 to rule the country for the next five years. Whether it is the confirmation of the incumbent interim President Ranil Wickremesinghe in the post or the election of one of the two frontrunners to presidency, it is the economy stupid that the new President should tackle immediately. That is because the economy is not stable as claimed by the incumbent President in his election campaign.
-
-Ranil’s aphorism about Grusha of The Caucasian Chalk Circle crossing a suspension bridge
-
-...
-
-[Data](articles/2c2fa53e.json)
 
 ---
 
@@ -2291,5 +2229,101 @@ The exmongering candidate Dilith Jayaweera stated that the opportunity to make t
 [Data](articles/a746c023.json)
 
 [Extended Data](ext_articles/a746c023.ext.json)
+
+---
+
+### Nayanthara - Sundar. C Mukkuthi Amman 2 '
+
+*2024-09-17 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/193940) · `ta`
+
+"Mukkuthi Amman 2": Sundar C directs Nayanthara-starrer sequel. Film set to begin shooting soon, produced by Wales Film International and Rowdy Pictures. Anticipated release following success of "Palace 4".
+
+🟩
+
+Dr. Isari K.. Ganesh's film 'Mukkuthi Amman 2' is 'Commercial King' Sundar. It has been officially announced that C will be operating.
+
+Director and actor Sundar. The film 'Palace 4', which was released on summer vacation this year, grossed over a billion rupees in Indian value.
+
+Following this, director Sundar. 'Mukkuthi Amman 2' is being directed by C's 'Mukkuthi Amman 2'.
+
+The film crew has said that the shooting of the film is set to begin soon at Socio and Spiritual Janener than the first part of the film 'Mukkuthi Amman'.
+
+The film is also being produced by Wales Film International, Rowdy Pictures, Awni Cine Max Private Limited, P4 UM Motion Pictures and IV Y Entertainment.
+
+Sundar is a sense of conflict between evil and evil and the power of the film, as it is beyond imagination and offers a new experience to fans in the film mansion.. There has been great anticipation for the movie 'Mukkuthi Amman 2', which will be formed in the C -Nayanthara alliance.
+
+◼️
+
+[Data](articles/10343b0f.json)
+
+[Extended Data](ext_articles/10343b0f.ext.json)
+
+---
+
+### Sasikala Raviraj with President Ranil and Mawa's son
+
+*2024-09-17 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/193943) · `ta`
+
+Sasikala Raviraj, widow of TNA MP, met President Ranil Wickremesinghe with her son Kala Amudan during Jaffna election campaign. They discussed Northern Province development programs.
+
+🟩
+
+Sasikala, the wife of the late parliamentary member of the Tamil National Alliance (TNA), Sasikala and Mawai Senathirajah's son, Kala Amudan, met with President Ranil Wickremesinghe during the Jaffna election campaign and discussed the Northern Province Development Programs.
+
+◼️
+
+[Data](articles/a90c9331.json)
+
+[Extended Data](ext_articles/a90c9331.ext.json)
+
+---
+
+### We need a country that lives in fear of the ruler of the people - Anura Kumara Dissanayake
+
+*2024-09-17 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/193923) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Anura Kumara Dissanayake calls for change in governance, criticizing current rulers who allegedly bribe voters. He promises a government focused on people's needs, addressing issues like housing, education, and drug control. Dissanayake emphasizes the rights of Tamil citizens and plans to boost tourism in Nuwara Eliya.
+
+🟩
+
+How did the rulers of this country get votes so far?They eat, drink, and get the votes. Especially the votes of the plantation people. They get votes.Should we not change this?Should these hill people live as slaves?Do you want to live in fear?Do the people of Hanguranketha should live in fear of SP?The National People's Power Presidential candidate Anura Kumara Dissanayake said that the people of the hill country have been afraid of the Thondamparam.
+
+We need a country that is not afraid of the people's ruler. We now need the government that thinks of the people and rules their expectations.We need to build free people. So we will make a good decision on September 21st. Now the people of the entire country are ready to make that decision.
+
+...
+
+[Data](articles/2788cb11.json)
+
+[Extended Data](ext_articles/2788cb11.ext.json)
+
+---
+
+### Vijay Antony
+
+*2024-09-17 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/193938) · `ta`
+
+"Hitler" film music release: Vijay Antony stars alongside Gautham Vasudev Menon, Riya Suman, Aishwarya Dutta. Music by Vivek-Mervin. Produced by T. De Raja and DR Sanjay Kumar."
+
+🟩
+
+The music release of 'Hitler', which will be released in the film palace worldwide on the 27th of this month, starring Vijay Antony's story.
+
+Gautham Vasudev Menon, the hero of the film, Riya Suman, the hero of the film, Aishwarya Dutta and the hostess of the film, are playing the role of the film in a romantic scene.Vasudev Menon carried out in the presence of.
+
+Director S.. A.. The film 'Hitler', which is being produced by Tana, has starred in Vijay Antony, Riya Suman, Gautham Vasudev Menon, Vivek Prasanna, Aishwarya Dutta.
+
+Vivek and Mervin's music is a fascination with all the songs featured in the film.
+
+Producer T.. De Raja and DR Sanjay Kumar have co -produced.
+
+◼️
+
+[Data](articles/5279538f.json)
+
+[Extended Data](ext_articles/5279538f.ext.json)
 
 ---

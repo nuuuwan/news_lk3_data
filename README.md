@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 13:57:50**
+As of **2024-09-18 14:10:12**
 
 ## Newspaper Stats
 
-*Scraped **44,525** Articles*
+*Scraped **44,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ colombotelegraphcom | 444
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,106
+adalk | 4,108
 dailymirrorlk | 4,733
 adaderanalk | 5,240
-tamilmirrorlk | 5,814
+tamilmirrorlk | 5,816
 virakesarilk | 7,115
-adaderanasinhalalk | 7,623
+adaderanasinhalalk | 7,624
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,525 (100.0%) of 44,525 articles have been extended.
+44,525 (100.0%) of 44,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### பரீட்சை திணைக்களம் அருகே பரபரப்பு
+
+*2024-09-18 13:51:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சை-திணைக்களம்-அருகே-பரபரப்பு/175-343956) · `ta`
+
+ஐந்தாம் தர புலமைப்பரிசில் பரீட்சையின் முதலாம் தாளில் இருந்து 03 வினாக்களை நீக்கி இறுதி புள்ளிகளை கணக்கிடுவதற்கு பரீட்சை திணைக்களத்தின் தீர்மானத்துக்கு எதிர்ப்பு தெரிவித்து பரீட்சை திணைக்களத்துக்கு முன்பாக பெற்றோர் இன்று (18) ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+அத்துடன், தரம் 5 புலமைப்பரிசில் பரீட்சையை இரத்துச் செய்யுமாறு அவர்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+இதன்போது, எதிர்ப்பு தெரிவித்த பெற்றோர்சிலர், பரீட்சை திணைக்களத்துக்கு சென்று கடிதம் ஒன்றை வழங்கி உள்ளனர்.
+
+பெற்றோர்கள் தொடர்ந்தும் போராட்டம் நடத்தியதால், பொலிஸாரும் கலகத் தடுப்புப் பிரிவினரும் அந்த இடத்திற்கு வரவழைக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/09406950.json)
+
+---
+
+### ரயில்வே கட்டுப்பாட்டாளர்கள் பணிப்புறக்கணிப்பு
+
+*2024-09-18 13:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்வே-கட்டுப்பாட்டாளர்கள்-பணிப்புறக்கணிப்பு/175-343955) · `ta`
+
+அநுராதபுரம் ரயல் நிலைய தரிப்பிடத்தில் ரயில் கட்டுப்பாட்டாளர் ஒருவரின் மோட்டார் சைக்கிளில் இருந்த தலைகவசம் திருடப்பட்டமைக்கு எதிர்ப்பு தெரிவித்து இந்த பணிபுறக்கணிப்பு ஆரம்பிக்கப்பட்டுள்ளது.
+
+இதன் காரணமாக அநுராதபுரத்தில் இருந்து கிளிநொச்சி வரையான பல ரயில் பயணங்கள் ரத்து செய்யப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a24e3124.json)
+
+---
+
+### හොරු අල්ලා එම මුදල් නැවත ආයෝජනය කරනවා -සජිත්
+
+*2024-09-18 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201150) · `si`
+
+මෙරට ධනය සොරාකෑ පිරිස් අල්ලා එම මුදල් නැවත ආයෝජනය කරන බව සමගි ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+"රට බංකොළොත් කරපු හොරු කණ්ඩායම, ජනතාවට, අධිකරණයට, වගකියන තැනට ගෙන ඒම සහ හොරු හොරාකාපු අරමුදල් ටික සම්පත් ටික, නැවත වරක් අපේ රටේ ආයෝජනය කරන්නට ජනතාව වෙනුවෙන් කැප කරන්නට හොරුත් අල්ලනවා, හොරු හොරාකාපු මුදල් ටිකත් අපි මේ රට වෙනුවෙන් ලබාගන්නවා. අද රනිල් වික්‍රමසිංහ අනුර කුමාර දිසානායක දේශපාලන ඩීල් එක රටටම හෙළිදරව් වෙලා හමාරයි. රනිල් වික්‍රමසිංහ, අනුර කුමාර දිසානායක හොර මගඬි දේශපාලන ගනුදෙනුව පරාජය කරන්නට දුරකථනය සමගි ජන බලවේගය ඔබ දිනවන්න."
+
+◼️
+
+[Data](articles/f489d350.json)
+
+---
 
 ### Reason for the Gotabhaya neck
 
@@ -179,6 +225,40 @@ The last amendment was made at 3.22 am today, according to Indian time.
 [Data](articles/5e357761.json)
 
 [Extended Data](ext_articles/5e357761.ext.json)
+
+---
+
+### දිවා ආහාරය වන විට ලංකාව කඩුලු දෙකකට ලකුණු 88යි
+
+*2024-09-18 12:37:42* · [`adalk`](https://www.ada.lk/sports/දිවා-ආහාරය-වන-විට-ලංකාව-කඩුලු-දෙකකට-ලකුණු-88යි/9-411995) · `si`
+
+සංචාරක නවසිලන්ත කණ්ඩායම සමගින් ගාල්ල ජාත්‍යන්තර ක්‍රීඩාගංණයෙන් පැවැත්වෙන පළමු ටෙස්ට් තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදෙමින් සිටින ශ්‍රී ලංකා කණ්ඩායම කඩුලු දෙකකට ලකුණු 88ක් රැස්කරගෙන සිටියි.
+
+දිනේෂ් චන්දිමාල් නොදැවි ලකුණු 30ක් හා කමිඳු මෙන්ඩිස් නොදැවි ලකුණු 13ක් රැස්කරගෙන පිටියේ රැදී සිටියි.
+
+පැතුම් නිශ්ශංක ලකුණු 27කටත් දිමුත් කරුණාරත්න ලකුණු 2කටත් දැවී ගියේය.
+
+ඇන්ජලෝ මැතිව්ස් ලකුණු 12ක් රැස්කරගෙන සිටියදී ආබාධයක් හේතුවෙන් පිටියෙන් ඉවත්විය.
+
+◼️
+
+[Data](articles/ab7e45a9.json)
+
+---
+
+### අයුතු ලෙස උපයාගත් ධනය ඕනෑම රටක තිබේනම් ඔප්පු කරන්නැයි නාමල්ගෙන් අභියෝගයක්
+
+*2024-09-18 12:25:45* · [`adalk`](https://www.ada.lk/breaking_news/අයුතු-ලෙස-උපයාගත්-ධනය-ඕනෑම-රටක-තිබේනම්-ඔප්පු-කරන්නැයි-නාමල්ගෙන්-අභියෝගයක්/11-411993) · `si`
+
+රාජපක්ෂවරු අයුතු ලෙස උපයාගත් වත්කමක් ලොව ඕනෑම තැනක තිබෙන බවට ඔප්පූ කරන්නේ නම් ලෝකයේ ඕනෑම අධිකරණයක් හමුවේ පෙනී සිටීමට සූදානම් බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිධූර අපේක්ෂක, පාර්ලිමේන්තු මන්ත්‍රී නීතීඥ නාමල් රාජපක්ෂ මහතා අවධාරණය කරයි.
+
+ෆයිල් මිටි හංගාගෙන නොසිට ඒවා ඉදිරිපත් කරන්නැයි ඉල්ලීමක් කරන ඒ මහතා හැකි නම් අයුතු ලෙස උපයා ගත්තා යැයි පවසන වත්කම් හෙළි කරන්නැයි අභියෝග කරයි.
+
+2024 ජනාධිපතිවරණයේ දී ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජයග්‍රහණය තහවුරු කිරීම වෙනුවෙන් රත්නපුර නගරයේ දී  (17) පස්වරුවේ පැවැති ජනහමුවට එක්වෙමිනි. ශ්‍රී ලංකා පොදුජන පෙරමුණේ නායක සහ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් මෙම ජන හමුව පැවැත්විණි.
+
+◼️
+
+[Data](articles/aa69ea72.json)
 
 ---
 
@@ -2203,119 +2283,5 @@ The success of NPP’s entire economic trajectory hinges on reforming governance
 [Data](articles/36e47c13.json)
 
 [Extended Data](ext_articles/36e47c13.ext.json)
-
----
-
-### Special Traffic Arrangements Today
-
-*2024-09-18 01:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசேட-போக்குவரத்து-ஏற்பாடுகள்/175-343938) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Special traffic arrangements today: Final campaign meetings in Grandpass, Maradana, Nugegoda, Piliyandala, Kottawa."
-
-🟩
-
-Final campaign meetings will be held today in Grandpass, Maradana, Nugegoda, Piliyandala and Kottawa.
-
-◼️
-
-[Data](articles/e82d9d8b.json)
-
-[Extended Data](ext_articles/e82d9d8b.ext.json)
-
----
-
-### Campaign activities are completed today
-
-*2024-09-18 01:36:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றுடன்-பிரசார-நடவடிக்கைகள்-நிறைவு/175-343937) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential campaign concludes today. Major candidates hold final meetings in Colombo, Nugegoda, Piliyandala. Wickremesinghe meets in Grandpass, Premadasa in afternoon. Dissanayake in Nugegoda, Rajapaksa in Piliyandala.
-
-🟩
-
-The final campaign meetings of the major candidates have been organized in Colombo, Nugegoda and Piliyandala in Colombo, as the presidential campaign is to be completed today.
-
-Accordingly, Independent candidate President Ranil Wickremesinghe's campaign meeting will be held at the Grandpass - Palamarach junction and the campaign meeting of the United People's Alliance candidate Sajith Premadasa will be held this afternoon.
-
-Meanwhile, the meeting of the National People's Power Anuragumara Dissanayake will be held in Nugegoda in Nugegoda and the campaign meeting of the Sri Lanka PA candidate Namal Rajapaksa in the Piliyandala area this afternoon.. (A)
-
-◼️
-
-[Data](articles/ee6972ff.json)
-
-[Extended Data](ext_articles/ee6972ff.ext.json)
-
----
-
-### Election turmoil
-
-*2024-09-18 01:36:09* · [`dailyftlk`](https://www.ft.lk/opinion/Election-turmoil/14-766812) · `en`
-
-We need to allow for persons with political will to be given the batten of opportunity to run the relay – Pic by Shehan Gunasekara
-
-Thirty-eight candidates vying for the ‘hot seat’ literally, makes Sri Lanka a laughing stock in the eyes of the world.
-
-The expense of printing ballot papers of the length required is gargantuan. How dysfunctional can a country be, declared bankrupt.
-
-Meaningless exercise in a country struggling under strain of billions of Dollars in Sovereign Debt and no means or plan of payback.
-
-Unrest and conflict in the Middle East and Eastern Europe adding to economic woes.
-
-We the voter who is today the VVIP for all purposes will decide on the proffered one.
-
-Incumbent President has the advantage of media coverage and attention ad lib. He also while promising a rosy future as always, keeps passing bills in parliament to gain favour and fervour.
-
-Salary increases and other delectable benefits to the naive uninformed electorate.
-
-...
-
-[Data](articles/e7fd47d1.json)
-
-[Extended Data](ext_articles/e7fd47d1.ext.json)
-
----
-
-### Economy
-
-*2024-09-18 01:30:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரத்தில்-வளர்ச்சி/175-343936) · `ta`
-
-Sri Lanka's economy expanded 4.7% in Q2 2024, driven by agriculture (+1.7%), industry (+10.9%), and services (+2.5%).
-
-🟩
-
-Sri Lanka's economy grew by 4.7 per cent in the 2nd quarter of 2024.
-
-According to the Central Bank of Sri Lanka's weekly economic indicator, 3 major economic activities have contributed favorable.
-
-Accordingly, agricultural operations have grown by 1.7 per cent, industrial activity 10.9 per cent and service operations 2.5 per cent.. (A)
-
-◼️
-
-[Data](articles/aae2f010.json)
-
-[Extended Data](ext_articles/aae2f010.ext.json)
-
----
-
-### Woe of new President is not just taking baby across coir suspension bridge but complying with binding targets of ETA
-
-*2024-09-18 01:27:04* · [`dailyftlk`](https://www.ft.lk/columns/Woe-of-new-President-is-not-just-taking-baby-across-coir-suspension-bridge-but-complying-with-binding-targets-of-ETA/4-766810) · `en`
-
-Sri Lankans are to elect a new President on 21 September 2024 to rule the country for the next five years. Whether it is the confirmation of the incumbent interim President Ranil Wickremesinghe in the post or the election of one of the two frontrunners to presidency, it is the economy stupid that the new President should tackle immediately. That is because the economy is not stable as claimed by the incumbent President in his election campaign.
-
-Ranil’s aphorism about Grusha of The Caucasian Chalk Circle crossing a suspension bridge
-
-...
-
-[Data](articles/08b0699f.json)
-
-[Extended Data](ext_articles/08b0699f.ext.json)
 
 ---

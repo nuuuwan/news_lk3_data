@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 08:41:56**
+As of **2024-09-18 08:57:17**
 
 ## Newspaper Stats
 
-*Scraped **44,465** Articles*
+*Scraped **44,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,232
 tamilmirrorlk | 5,808
 virakesarilk | 7,101
-adaderanasinhalalk | 7,610
+adaderanasinhalalk | 7,611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,456 (100.0%) of 44,465 articles have been extended.
+44,464 (100.0%) of 44,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### අවසන් ප්‍රචාරක රැලි හේතුවෙන් කොළඹට විශේෂ රථවාහන සැලැස්මක්
+
+*2024-09-18 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201137) · `si`
+
+මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වී සිටින ප්‍රධාන අපේක්ෂකයින්ගේ අවසන් රැලි අද (18) පස්වරුවේ කොළඹ සහ තදාසන්න ප්‍රදේශ කිහිපයකදී පැවැත්වීමට නියමිතය.
+
+ස්වාධීන අපේක්ෂක රනිල් වික්‍රමසිංහ, සමගි ජනබලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස, සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර, ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ යන මහත්වරුන්ගේ ප්‍රධාන රැලි මෙලෙස පැවැත්වෙනු ඇත.
+
+ඒ අනුව ස්වාධීන අපේක්ෂක රනිල් වික්‍රමසිංහ මහතාගේ අවසන් රැලිය කොස්ගස් හංදිය ප්‍රදේශයේ දී පැවැත්වීමට සැලසුම් කර තිබේ.
+
+සමගි ජන බලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස මහතාගේ අවසන් රැලිය ද ටවර් හෝල් ප්‍රදේශය කේන්ද්‍ර කරගනිමින් පැවැත්වීමට නියමිතය.
+
+සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක, ව්‍යවසායක දිලිත් ජයවීර මහතාගේ අවසන් රැලිය කොට්ටාව නගරයේදීත්, ජාතික ජනබලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ අවසන් රැලිය නුගේගොඩ ආනන්ද සමරකෝන් එළිමහන් රංග පීඨයේදී පැවැත්වැත්වෙනු ඇත.
+
+...
+
+[Data](articles/e1d30add.json)
+
+---
 
 ### Trains delayed on Kelani Valley line
 
@@ -41,6 +61,8 @@ Train services on the Kelani Valley line will experience delays due to the derai
 ◼️
 
 [Data](articles/d2521cad.json)
+
+[Extended Data](ext_articles/d2521cad.ext.json)
 
 ---
 
@@ -62,101 +84,147 @@ It is reported that the train services will be held due to a derailment.
 
 ---
 
-### வாக்களிப்பதை இலகுபடுத்தும் விளக்கம்
+### Explanation of voting
 
 *2024-09-18 08:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பதை-இலகுபடுத்தும்-விளக்கம்/175-343945) · `ta`
 
-பல்கலைக்கழகங்களின் பணியாட்குழுவினருக்கும் மாணவ, மாணவிகளுக்கும் வாக்களிப்பதை இலகுபடுத்தும் வகையில் விடுமுறை வழங்குதல் தொடர்பாக தேர்தல் ஆணைக்குழு வெளியிட்ட அறிக்கை...
+Election Commission statement: Holidays announced to facilitate university student voting.
+
+🟩
+
+The Election Commission has issued a statement regarding the holidays to ease voting for universities and students and students.
 
 ◼️
 
 [Data](articles/625037ed.json)
 
+[Extended Data](ext_articles/625037ed.ext.json)
+
 ---
 
-### வாக்காளர் அட்டை கிடைக்காதவர்களுக்கான அறிவிப்பு
+### Notice for those who are not available voter card
 
 *2024-09-18 08:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-கிடைக்காதவர்களுக்கான-அறிவிப்பு/175-343944) · `ta`
 
-இதுவரை உத்தியோகபூர்வ வாக்காளர் அட்டைகள் கிடைக்கப்பெறாதவர்கள், இன்று (18) முதல் தேர்தல் நடைபெறும் தினம் வரை தமது பிரதேசத்திலுள்ள தபால் நிலையத்திற்குச் சென்று வாக்காளர் அட்டைகளைப் பெற்றுக் கொள்ள முடியும் என பிரதி தபால்மா அதிபர் ராஜித ரணசிங்க தெரிவித்தார்.
+Here's a summary of the notice in 200 characters:
 
-கடந்த 3ஆம் திகதி ஆரம்பமான உத்தியோகபூர்வ வாக்காளர் அட்டை விநியோகம் 14ஆம் திகதி நிறைவடைந்த நிலையில், சுமார் 97 வீதமானவை விநியோகிக்கப்பட்டுள்ளதாக பிரதி தபால்மா அதிபர் ராஜித ரணசிங்க குறிப்பிட்டார். R
+
+
+"Those without voter cards: Deputy Chancellor Rajitha Ranasinghe advises to visit local post office now until election day. Official distribution began on March 3, completed about 97%."
+
+🟩
+
+Deputy Chancellor Rajitha Ranasinghe said that those who have not yet received official voter cards can go to the post office in their area from today (18) to the day of the election.
+
+Deputy Chief Minister Rajitha Ranasinghe said that the official voter card distribution of the official voter card, which commenced on the 3rd of last month, has been distributed about 97 percent.. Remble
 
 ◼️
 
 [Data](articles/07cb39ec.json)
 
+[Extended Data](ext_articles/07cb39ec.ext.json)
+
 ---
 
-### உயிரிழந்தவருக்கு அளிக்கப்டும் வாக்குகள் என்னவாகும்?
+### What are the votes cast for the deceased?
 
 *2024-09-18 08:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவருக்கு-அளிக்கப்டும்-வாக்குகள்-என்னவாகும்/175-343943) · `ta`
 
-ஒகஸ்ட் 22ஆம் திகதி காலமான, மறைந்த ஜனாதிபதி வேட்பாளர் திரு. இட்றுஸ் மொஹமட் இல்லியாஸ் அவர்களுக்கு அளிக்கப்படும் வாக்குகள் அனைத்தும் நிராகரிக்கப்படும் என தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+Elections Commission rejects votes for deceased presidential candidate Idrus Mohamed Iliyas. His nomination was for September 21, 2024. Candidate K.M.N. Sanjaya failed to replace him within 3 days. Iliyas' name removed from ballot; any votes deemed invalid.
 
-செப்டம்பர் 21, 2024 அன்று நடைபெறவிருக்கும் ஜனாதிபதித் தேர்தலுக்கு இல்லியாஸ் வேட்புமனுத்தாக்கல் செய்தார். அவர் இல்லாத பட்சத்தில் மூன்று நாட்களுக்குள் அவருக்குப் பதிலாக ஒருவரை நியமிக்க வாய்ப்பு இருந்தபோதிலும், அவரது வேட்பாளர் திரு. கே.எம்.என். சஞ்சய அதை செய்யத் தவறினார்
+🟩
 
-இதனையடுத்து, வாக்குச் சீட்டில் இருந்து திரு.இலியாஸின் பெயர் நீக்கப்படும். அவருக்கு ஏதேனும் வாக்குகள் அளிக்கப்பட்டால், அவை செல்லாததாகக் கருதப்பட்டு நிராகரிக்கப்படும். 1981 ஆம் ஆண்டின் 15 ஆம் இலக்க ஜனாதிபதி தேர்தல் சட்டத்தின் உப பிரிவு 22(1)(b) இன் படி தேர்தல்கள் ஆணைக்குழு இந்த விடயம் தொடர்பாக தெளிவான அறிவுறுத்தல்களை வெளியிட்டுள்ளது.
+The late presidential candidate on August 22. The Elections Commission has announced that all the votes cast by Idrus Mohamed Iliyas will be rejected.
+
+Illiyas nominated for the presidential election on September 21, 2024. Despite the possibility of appointing a person instead of him within three days, his candidate. K.MN. Sanjaya failed to do it
+
+Subsequently, Mr. Ilius's name will be removed from the ballot. If he is given any votes, they will be deemed to be invalid and rejected. According to Section 22 (1) (B) of the Presidential Election Act No. 15 of 1981, the Elections Commission issued a clear instructions on this issue.
 
 ◼️
 
 [Data](articles/81ff9a02.json)
 
+[Extended Data](ext_articles/81ff9a02.ext.json)
+
 ---
 
-### 12 மணிக்குப் பின் கைது செய்யப்படுவர்
+### Will be arrested after 12 o'clock
 
 *2024-09-18 07:52:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-மணிக்குப்-பின்-கைது-செய்யப்படுவர்/175-343942) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான பிரசாரக் காலம் இன்று (18) நள்ளிரவுடன் முடிவடையவுள்ள நிலையில், குறித்த காலக்கெடுவிற்குப் பின்னர் சட்டவிரோத பிரச்சாரத்தில் ஈடுபடுவோர் கைது செய்யப்பட்டு சட்ட நடவடிக்கை எடுக்கப்படும் என தேர்தல்கள் ஆணைக்குழு எச்சரித்துள்ளது.
+Elections Commission warns illegal campaigning arrests after deadline. Commissioner General states post-propaganda period restrictions on public rallies, advertising, and house-to-house campaigns. Police instructed to take action against violators.
 
-டெய்லி மிரருக்குப் பேட்டியளித்த தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க, “குறிப்பிட்ட காலக்கெடுவிற்குப் பின்னரும் எந்தவொரு தனிநபரோ அல்லது குழுவோ வேட்பாளர்களை பிரச்சாரம் செய்வது அல்லது ஊக்குவிப்பது தேர்தல் சட்டத்தை மீறும் செயலாகும்” என்றார்.
+🟩
 
-ரத்நாயக்கவின் கூற்றுப்படி, நியாயமான மற்றும் சுதந்திரமான தேர்தல் நடைமுறையை உறுதி செய்வதற்காக கடுமையான விதிமுறைகள் நடைமுறையில் உள்ளன.
+The Elections Commission has warned that those who are engaged in illegal campaign will be arrested after the deadline, as the propaganda period for the upcoming presidential election ends today (18).
 
-“பிரச்சாரக் காலம் முடிவடைந்தவுடன், பொதுப் பேரணிகள், விளம்பரப் பொருட்கள் விநியோகம் அல்லது வீடு வீடாகச் சென்று பிரச்சாரம் செய்வது அனுமதிக்கப்படாது. குறிப்பிட்ட காலத்திற்குப் பிறகு எந்தவொரு பிரச்சாரத்திற்கும் எதிராக நடவடிக்கை எடுக்க பொலிஸிற்கு அறிவுறுத்தப்பட்டுள்ளது, ”என்று அவர் மேலும் கூறினார்.
+In an interview with the Daily Mirror, the Commissioner General of Elections Saman Sri Ratnayake said, "It is a violation of the election law to propagate or promote any individual or group candidates even after the specified deadline."
+
+According to Ratnayake, strict regulations are in effect to ensure a fair and independent electoral process.
+
+“When the propaganda period is over, public rallies, advertising supplies or home -house campaign will not be allowed. After a certain period of time, the police have been advised to take action against any campaign, ”he added.
 
 ◼️
 
 [Data](articles/ad84fb02.json)
 
+[Extended Data](ext_articles/ad84fb02.ext.json)
+
 ---
 
-### புலமைப்பரிசில் பரீட்சை: 3 வினாக்கள் நீக்கம்
+### Scholarship Examination: 3 Questions Delete
 
 *2024-09-18 07:47:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-3-வினாக்கள்-நீக்கம்/175-343941) · `ta`
 
-இம்முறை நடைபெற்ற  தரம் 5 புலமைப்பரிசில் பரீட்சையின் முதலாம் பகுதி வினாத்தாளில் 3 வினாக்களை நீக்குவதற்கு யோசனை முன்வைக்கப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-பரீட்சைகள் ஆணையாளர் நாயகம் மற்றும் விடைத்தாள் மதிப்பீட்டாளர்களுக்கிடையில் நேற்று நடைபெற்ற கலந்துரையாடலின் பின்னரே  இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
 
-முதலாம் பகுதி  வினாத்தாள் சமூக வலைத்தளங்களில் பகிரப்பட்டதாக கூறப்படும் சம்பவம் தொடர்பாக விசாரணைகளை மேற்கொள்வதற்கு விசேட குழுவொன்று நியமிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்தார். (a)
+
+Grade 5 Scholarship Exam: 3 questions deleted from first part. Decision made after Commissioner's discussion. Special committee formed to investigate alleged incident on social media.
+
+🟩
+
+The idea of ​​deleting 3 questions in the first part of the Grade 5 Scholarship Examination held this year has been proposed.
+
+The decision was taken only after a discussion between the Commissioner of Examinations and the answer sheet.
+
+The Commissioner General of Examinations Amit Jayasundera said that a special committee has been appointed to investigate the alleged incident of the first part of the questionnaire on social media.. (A)
 
 ◼️
 
 [Data](articles/43505f54.json)
 
+[Extended Data](ext_articles/43505f54.ext.json)
+
 ---
 
-### இடைக்கிடையே மழை பெய்யக்கூடும்
+### In the middle of the middle of the rainfall
 
 *2024-09-18 07:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்கிடையே-மழை-பெய்யக்கூடும்/175-343940) · `ta`
 
-இன்று (18) சப்ரகமுவ மற்றும் மேல் மாகாணங்களிலும் அத்துடன் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் இடைக்கிடையே மழை பெய்யக்கூடும்.
+Heavy rainfall expected in Sabaragamuwa, Western, Kandy, and Nuwara Eliya. Thunderstorms possible in Southern Province. Strong winds forecasted in Central Highlands, North Central, and Southern Provinces. Coastal areas to experience rain/thunderstorms. Public advised to exercise caution due to strong winds and lightning.
 
-தென் மாகாணத்தில் மழை அல்லது இடியுடன் கூடிய மழை பெய்ய வாய்ப்புள்ளதாகவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களின் பல இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய சாத்தியம் காணப்படுகின்றது.
+Rainfall is expected today (18) in the Sabaragamuwa and the Western Provinces, as well as the Kandy and Nuwara Eliya districts.
 
-மத்திய மலைப் பிராந்தியத்தின் மேற்கு சரிவுகளிலும் அத்துடன் வடமத்திய மற்றும் தென் மாகாணங்களிலும்  மணித்தியாலத்திற்கு 40 - 45 கிலோமீற்றர் வேகத்தில் அடிக்கடி பலத்த காற்று வீசக் கூடும்.
+The Department of Meteorology has also said that there is a possibility of rain or thunderstorms in the Southern Province.
 
-சிலாபம் தொடக்கம் கொழும்பு, காலி ஊடாக மாத்தறை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+It is possible to experience rain or thunderstorm in the evening or night in many parts of the Eastern and Uva provinces.
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 30 - 40 கிலோமீற்றர் வேகத்தில் மேற்கு அல்லது தென்மேற்குத் திசையில் இருந்து காற்று வீசும்.
+Strong winds can be frequent at speeds of 40 to 45 km / h in the western slopes of the Central Highlands as well as in the North Central and Southern Provinces.
+
+Rain or thunderstorms are likely to occur in the sea regions along the coast of Chilaw to Matara from Chilaw to Colombo and Galle.
+
+Winds from the west or southwest at speeds of 30 - 40 km / h in the sea regions.
+
+From Matara to Hambantota, Pottuvil, from Kankesanthurai to Mannar via Puttalam, the sea will be increasing at 60 kilometers per hour.
 
 ...
 
 [Data](articles/6a067f3a.json)
+
+[Extended Data](ext_articles/6a067f3a.ext.json)
 
 ---
 
@@ -724,23 +792,49 @@ Following are remarks by Ambassador Qi Zhenhong at a meeting with media journali
 
 ---
 
-### ජනාධිපතිවරණය 2024: අලුත් ජනපති නැවත අරගලයක් ඇතිවෙන්න ඉඩ තියයි ද?
+### Presidential Election 2024: Is the new President to be reinterested?
 
 *2024-09-18 01:54:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgrg7g5zwko) · `si`
 
-ජනාධිපතිවරණය 2024: අලුත් ජනපති නැවත අරගලයක් ඇතිවෙන්න ඉඩ තියයි ද?
+Sri Lanka Presidential Election 2024 summary:
 
-රටේ මීළඟ වසර 5 සඳහා පත්වන ජනාධිපතිවරයා කවුරුන් දැයි, සැප්තැම්බර් 22 වැනිදා අළුයම වන විට දැනගත හැකි වනු ඇත.ජනාධිපතිවරණයෙන් දිනන ජනාධිපතිවරයා කවුරුන් වුවද ඔහුට මුහුණ දීමට සිදුවන අභියෝග රැසක් තිබේ.
 
-ශ්‍රී ලංකාවට මෙම ජනාධිපතිවරණය සුවිශේෂි වන්නේ, ජන අරගලයකින් ගෝඨාභය රාජපක්ෂ ජනාධිපතිවරයා ධුරයෙන් පළවා හැරීමෙන් පසු ජනතා ඡන්දයෙන් ජනාධිපතිවරණයෙකු තෝරා පත් කර ගන්නා පළමු ජනාධිපතිවරණය මෙය වන නිසා ය.
 
-2022 වසරේදී ජනතාව තෙල් පොලීම්, ගෑස් පොලිම් සහ දෛනික විදුලි කප්පාදුවකට මුහුණ දුන් අතර සේවා කේෂ්ත්‍රය ද ආර්ථිකය ද දරුණු කඩා වැටීමකට ලක්විය.  ශ්‍රී ලංකාවේ ආර්ථිකය නැවත ගොඩගෙන ඉහළට එසවීම ඉදිරි ජනාධිපතිවරණයෙන් පත්වන ජනාධිපතිවරයාට පැවරෙන ප්‍රධාන වගකීමක් වනු ඇත.
+New president faces major challenges including economic instability, high inflation, and potential bankruptcy. Key issues include:
 
-රටේ ආර්ථික ස්ථාවරත්වයක් ඇති කිරීම උදෙසා දේශපාලන ස්ථාවරත්වයක් ඇති කිරීම මීළඟ ජනාධිපතිවරයාට පැවරෙන තවත් ප්‍රධාන කාර්යයක් වනු ඇත.
+
+
+1. Managing IMF loan terms (up to 2027)
+
+2. Increasing tax revenue while avoiding excessive burden on citizens
+
+3. Reducing cost of living and addressing poverty
+
+4. Maintaining political stability and preventing mass migration
+
+
+
+Experts warn of potential unrest if economic issues persist. Candidates must balance promises with realistic solutions to address critical national problems.
+
+🟩
+
+Presidential Election 2024: Is the new President to be reinterested?
+
+The next 5 years of the country will be able to find out if the president will win the President on September 22.
+
+This presidential election is special because this is the first presidential election that Gotabhaya Rajapaksa is appointed by the President after weaken the President of the President after weaken the President of the President.
+
+In 2022, the people faced oil poles and daily power cuts, and the service and the economy were severely collapsed. The President will be the main responsibility to the President who is appointed by the next presidential election.
+
+The next President will be the key to the President to create political stability to create economic stability.
+
+Some are afraid that if the current economic program is excluded, he will face reinstatement prices or power cuts. Is there any truth?
 
 ...
 
 [Data](articles/07cd2460.json)
+
+[Extended Data](ext_articles/07cd2460.ext.json)
 
 ---
 
@@ -2205,27 +2299,5 @@ As a native history, the Tamils ​​have been engaged in peace talks, relying 
 [Data](articles/c2b7002f.json)
 
 [Extended Data](ext_articles/c2b7002f.ext.json)
-
----
-
-### Irregularities to issue a driving license in Matara
-
-*2024-09-17 16:25:36* · [`adalk`](https://www.ada.lk/breaking_news/මාතරින්-රියදුරු-බලපත්‍ර-නිකුත්-කිරීමේදි-අක්‍රමිකතා/11-411981) · `si`
-
-National Audit Office investigates irregularities in Matara driving license issuance. Report reveals 18 applicants improperly granted licenses, 10 unlisted for practical tests, and several failed to attend required inspections. Department head denies allegations, claims investigations ongoing.
-
-🟩
-
-The National Audit Office has made an internal investigation into the irregularity of the Department of Motor Traffic to the issuance of the Driving License.
-
-The audit report issued by the National Audit Office of the National Audit Office stated that 18 other applicants should have been issued to provide a valid driver's license at the end of the midiculous test.
-
-An applicant has been revealed that an applicant had not attended the writing notes as soon as a written report was not attended by the investigation notes.The audit has also revealed that the update has been implemented to provide a valid driver's license at the end of the correctional inspection and the initial investigation.
-
-...
-
-[Data](articles/5d75023c.json)
-
-[Extended Data](ext_articles/5d75023c.ext.json)
 
 ---

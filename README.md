@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 00:55:48**
+As of **2024-09-19 01:38:16**
 
 ## Newspaper Stats
 
-*Scraped **44,621** Articles*
+*Scraped **44,622** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 431
+bbccomsinhala | 432
 colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,703
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,621 (100.0%) of 44,621 articles have been extended.
+44,622 (100.0%) of 44,622 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -603,6 +603,30 @@ Similarly, a special train will depart from the Kankesanthurai railway station t
 [Data](articles/dd240a1d.json)
 
 [Extended Data](ext_articles/dd240a1d.ext.json)
+
+---
+
+### Anura Kumara Dissanayake: "We are living in winning national unity '
+
+*2024-09-18 19:34:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crl8n455py1o) · `si`
+
+Anura Kumara Dissanayake claims national unity revival. Criticizes Sajith Premadasa's campaign as racist and religiously biased. Mentions Kandy Perahera restrictions and plans for national development.
+
+🟩
+
+Anura Kumara Dissanayake: "We are living in winning national unity '
+
+Leader of the National Power Anura Kumara Dissanayake says that the national community is revived to national unity.
+
+"Sajith Premadasa's election campaign launched in the aim of racism and religionism. The Kandy Perahera is staying immediately after a government is in power in the national government force. The Perahera of the Ethkanda Viharaya is stopped.. Anura Kumara Dissanayake said at the final rally held in Nugegoda, "said.
+
+He also spoke of the plan to build the country in the national propagation.
+
+◼️
+
+[Data](articles/6690a4ee.json)
+
+[Extended Data](ext_articles/6690a4ee.ext.json)
 
 ---
 
@@ -2413,27 +2437,5 @@ This WASrael On Civanon, And Falls Under The West's Supposed definition of Terro
 [Data](articles/5f2f66e8.json)
 
 [Extended Data](ext_articles/5f2f66e8.ext.json)
-
----
-
-### Dilith vows to empower women, write off microfinance loan interest
-
-*2024-09-18 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102056/dilith-vows-to-empower-women-write-off-microfinance-loan-interest-) · `en`
-
-The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera, announced plans to write off interest on loans obtained by women from microfinance institutions.
-
-He made these remarks while attending a women’s conference held in Kandy.
-
-“Empowering women in Sri Lanka through entrepreneurship is the core concept of the entrepreneurial state concept, which is central to this program. We will provide the capital and strength necessary for that.” he said.
-
-He further explained that they have outlined how the government will assist individuals who start a business and face various challenges. He said they aim to provide this opportunity specifically to Sri Lankan women, emphasizing their commitment to supporting them.
-
-“In addition, we propose to completely write off the unfair interest on microfinance loans to help Sri Lankan women who are currently struggling due to these loans. We have also outlined a plan for implementing this program.” he added.
-
-...
-
-[Data](articles/37341043.json)
-
-[Extended Data](ext_articles/37341043.ext.json)
 
 ---

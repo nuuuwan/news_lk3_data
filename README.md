@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 05:43:45**
+As of **2024-09-18 06:43:20**
 
 ## Newspaper Stats
 
-*Scraped **44,437** Articles*
+*Scraped **44,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 428
 colombotelegraphcom | 441
-islandlk | 2,611
+islandlk | 2,621
 economynextcom | 2,688
 dailyftlk | 2,961
 adalk | 4,098
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,437 (100.0%) of 44,437 articles have been extended.
+44,443 (100.0%) of 44,447 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -726,6 +726,20 @@ It was noted that the job was provided under the Memorandum of Understanding bet
 
 ---
 
+### Why the doom and gloom?
+
+*2024-09-17 22:56:00* · [`islandlk`](http://island.lk/why-the-doom-and-gloom/) · `en`
+
+It is true that in the distant past Sri Lankan elections were emotionally charged affairs resulting in violence. However, as a battle-hardened nation with an increasingly well-informed citizenry, that trend has changed for the better. For example, Sri Lanka 2022 Human Right report stated, “Domestic observers described the election as peaceful, technically well managed, and safe considering the COVID-19 pandemic but noted that unregulated campaign spending, abuse of state resources, and media bias affected the level playing field,” referring to the 2020 election. As of this writing, the Election Commission has reported a 43% drop in violations in the current cycle with eleven instances of violence. Even though no violations can be accepted, this is a promising trend, people are beginning to see through the heinous intentions of the perpetrators. One would expect that trend to continue and, judging by the low-key election fervor, which appears to be the case.
+
+...
+
+[Data](articles/2b83c9cb.json)
+
+[Extended Data](ext_articles/2b83c9cb.ext.json)
+
+---
+
 ### Don't hand over the country to politicians who ask for opportunity and darkened the future!- President
 
 *2024-09-17 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193966) · `ta`
@@ -1239,6 +1253,46 @@ Police said 67 liters of 500 ml of illegal liquor and a motorcycle used for liqu
 [Data](articles/f1d9e113.json)
 
 [Extended Data](ext_articles/f1d9e113.ext.json)
+
+---
+
+### Mega Lifesciences introduces groundbreaking “WeCare Mother and Child” app
+
+*2024-09-17 20:01:00* · [`islandlk`](http://island.lk/mega-lifesciences-introduces-groundbreaking-wecare-mother-and-child-app/) · `en`
+
+As a company, Mega Lifesciences is present in 33 countries across the world, with products that play a vital role in categories ranging from women’s health including pregnancy and lactation, bone and joint health, cardiovascular and diabetes to skin and liver health.
+
+The Company recently introduced a digital initiative, Health@Home, which aims at giving the younger generation [ that is increasingly technologically savvy], all the information they are seeking to monitor their health, enabling them to reduce avoidable mortality and morbidity.
+
+Jaya Container Terminals celebrates 16 years of success with record-breaking growth
+
+Smart technologies and innovative solutions seen as vital to SL’s stepped-up solar power capability
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/231c3026.json)
+
+[Extended Data](ext_articles/231c3026.ext.json)
+
+---
+
+### Jaya Container Terminals celebrates 16 years of success with record-breaking growth
+
+*2024-09-17 19:59:00* · [`islandlk`](http://island.lk/jaya-container-terminals-celebrates-16-years-of-success-with-record-breaking-growth/) · `en`
+
+Jaya Container Terminals Limited (JCT Limited), a fully owned subsidiary of the Sri Lanka Ports Authority (SLPA) recently commemorated its 16th anniversary. Since its inception in 2008, JCT Limited has established itself as a cornerstone of the Sri Lankan maritime industry, consistently exceeding expectations and achieving remarkable milestones.
+
+Over the past three years, JCT Limited has witnessed phenomenal growth, shattering previous records for revenue and profitability. This achievement is a testament to the company’s strategic agility and unwavering commitment to serving diverse client needs.
+
+...
+
+[Data](articles/0ff485f1.json)
+
+[Extended Data](ext_articles/0ff485f1.ext.json)
 
 ---
 
@@ -2283,95 +2337,5 @@ If the answer is not a good response, the next step will be taken following the 
 [Data](articles/ae9eca0e.json)
 
 [Extended Data](ext_articles/ae9eca0e.ext.json)
-
----
-
-### Vines can be out of the bridge if the duty are fulfilled - Ranil
-
-*2024-09-17 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201115) · `si`
-
-Here's a 200-character summary:
-
-
-
-Ranil Wickremesinghe urges citizens to fulfill duties on Sept 21. He promises IMF support for Sri Lanka's economic recovery. Criticizes opposition leaders, saying they can't work together effectively. Emphasizes need for unity to overcome challenges.
-
-🟩
-
-Ranil Wickremesinghe says that if the people will perform their duty on September 21.
-
-Ranil, which was held in Wellawaya yesterday, said that the International Monetary Fund has been supported by the International Monetary Fund.
-
-"I resolve more than 50% of the problems of this country and now bring forward. We have to go further. Woves Duty. The 'Sri Lanka' program has been brought towards the next.
-
-Still the vast bridge is about 25%. Now the vulk bridge is a little. But if we go, however, remember September 21, we can jump out of this vil bridge.
-
-The other problem is there two nauthela two nappyla. That's what happened. Both can speak, can't work. What to Hand over the forefront of ready to back?
-
-...
-
-[Data](articles/4d9452fb.json)
-
-[Extended Data](ext_articles/4d9452fb.ext.json)
-
----
-
-### I'm ready for the debate on Anura
-
-*2024-09-17 14:24:37* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-කියපු-විවාදයට-මම-සූදානම්/11-411980) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Ranil Wickremesinghe addresses rally, urging votes for gas cylinder. Promises investments, development programs. Criticizes opposition, IMF support. Invites debate with Anura Kumara, claims readiness. Emphasizes importance of September 21 election.
-
-🟩
-
-President Ranil Wickremesinghe said he had requested the people to vote for the gas cylinder again.
-
-The President said that the President was still for the program that the government has already implemented the government for the program.
-
-President Ranil Wickremesinghe made this statement addressing the 'Ranil' rally in Wellawaya yesterday (16).
-
-In the presidential election, a huge populators were organized to ensure the victory of President Ranil Wickremesinghe.
-
-Addressing the rally, President Ranil Wickremesinghe further added:. The Wellawaya also receives an investment zone in the Wellawaya area as the industry progresses. Also, we will implement a broad development program in Monaragala. We urge the mandates to advance these programs.
-
-Youths in this country were not employed for four years. We have a self employment of the public and private sector in the public and private sector next year. And we expect to provide funds for training in an institution for another 50,000
-
-...
-
-[Data](articles/9e99d8c6.json)
-
-[Extended Data](ext_articles/9e99d8c6.ext.json)
-
----
-
-### Nearly 40 million people die
-
-*2024-09-17 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201114) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Superbug crisis: Nearly 40 million deaths predicted by 2050 due to antibiotic-resistant bacteria and fungi. WHO warns of growing global health threat. Research indicates 520 million affected."
-
-🟩
-
-A new report has revealed that nearly 40 million people could kill, 2025 and 2050 due to non-controlled bacterial and fungus from drugs.
-
-This report posted by the Lancast 'The report is named' Superbag Crisis', the 'Superbag crisis'.
-
-The World Health Organization warned that such microbilics is a growing global public health risk that will not be resistant to drugs.
-
-This research has been discovered that the research has been made by nearly 520 million people, this research has been found in this crisis.
-
-◼️
-
-[Data](articles/6f7a5b0e.json)
-
-[Extended Data](ext_articles/6f7a5b0e.ext.json)
 
 ---

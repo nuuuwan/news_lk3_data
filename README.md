@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 03:22:28**
+As of **2024-09-19 03:38:09**
 
 ## Newspaper Stats
 
-*Scraped **44,638** Articles*
+*Scraped **44,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 433
 colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,703
-dailyftlk | 2,973
+dailyftlk | 2,980
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,832
+tamilmirrorlk | 5,833
 virakesarilk | 7,140
 adaderanasinhalalk | 7,642
 
@@ -26,11 +26,153 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,638 (100.0%) of 44,638 articles have been extended.
+44,644 (100.0%) of 44,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Rajitha claims Sajith-Namal have made an alliance to be President and Opposition leader
+
+*2024-09-19 03:14:08* · [`dailyftlk`](https://www.ft.lk/news/Rajitha-claims-Sajith-Namal-have-made-an-alliance-to-be-President-and-Opposition-leader/56-766891) · `en`
+
+Alleges Sajith has given his word to safeguard the Rajapaksas
+
+Says regardless of any alliances, President Wickremesinghe is confident of securing victory
+
+Kalutara District MP Dr. Rajitha Senaratne recently made a statement regarding a perceived alliance between Namal and Sajith.
+
+According to Senaratne, Sajith Premadasa has allegedly assured Namal Rajapaksa the position of Opposition leader in exchange for support in the Presidential election. These claims were addressed during a press conference at President Ranil Wickremesinghe’s political office in Flower Road, Colombo.
+
+Senaratne emphasised that despite any efforts to undermine President Wickremesinghe’s victory in the upcoming election, the President remains a formidable contender.
+
+...
+
+[Data](articles/ba3bc46c.json)
+
+[Extended Data](ext_articles/ba3bc46c.ext.json)
+
+---
+
+### IHP reveals election-eve MRP Presidential voting intent estimates
+
+*2024-09-19 03:12:56* · [`dailyftlk`](https://www.ft.lk/news/IHP-reveals-election-eve-MRP-Presidential-voting-intent-estimates/56-766890) · `en`
+
+IHP’s SLOTS MRP estimates using interviews conducted to 13 September indicate that Anura      Dissanayake would have won the Presidential election on a count of second preference votes  if the Presidential election had been held in early September.
+
+In the MRP estimates of the views of all adults, Anura Dissayanake led with 48%, followed by Sajith Premadasa on 25%, Ranil Wickremesinghe on 20%, and Namal Rajapaksa on 5%. These estimates were associated with a margin of error of 3–6% for the three leading candidates. The latest IHP MRP modelling indicates that there was a strong surge in favour of Anura Dissanayake since July, when he briefly trailed Sajith Premadasa in voter preferences.
+
+These MRP estimates are based on a substantially revised MRP model (version 4.0) that is still in beta testing. Data came from 20,714 interviews conducted from 31 August 2021 to 13 September 2024, including 541 interviews conducted in September 2024.
+
+...
+
+[Data](articles/82ba3f5d.json)
+
+[Extended Data](ext_articles/82ba3f5d.ext.json)
+
+---
+
+### New Ambassador to Vietnam Poshitha Perera presents credentials
+
+*2024-09-19 03:12:40* · [`dailyftlk`](https://www.ft.lk/news/New-Ambassador-to-Vietnam-Poshitha-Perera-presents-credentials/56-766889) · `en`
+
+Sri Lanka’s new Ambassador to Vietnam, Poshitha Perera presented his Letters of Credence to General Secretary and President of the Socialist Republic of Vietnam To Lam, during a ceremony at the President’s office in Hanoi on 17 September.
+
+The event featured a ceremonial Guard of Honour, followed by the official presentation of credentials and a courtesy call on the President of Vietnam by the new Ambassador. Senior officials from both the President’s Office and the Ministry of Foreign Affairs of Vietnam were in attendance.
+
+General Secretary and President To Lam extended a warm welcome to Ambassador Perera and conveyed his best wishes for the latter’s tenure in Vietnam. Further, he reaffirmed Vietnam’s commitment to enhance relations with Sri Lanka, recognising the longstanding friendship between the two nations and also acknowledging Sri Lanka’s support to his country in multilateral forums.
+
+...
+
+[Data](articles/e615a1af.json)
+
+[Extended Data](ext_articles/e615a1af.ext.json)
+
+---
+
+### President Ranil Wickremesinghe last night participated in a special “Adishtana Pooja”
+
+*2024-09-19 03:11:38* · [`dailyftlk`](https://www.ft.lk/news/President-Ranil-Wickremesinghe-last-night-participated-in-a-special-Adishtana-Pooja/56-766888) · `en`
+
+President Ranil Wickremesinghe last night participated in a special “Adishtana Pooja” at the Independence Square seeking blessings for his bid at the 21 September election
+
+◼️
+
+[Data](articles/dc1dc194.json)
+
+[Extended Data](ext_articles/dc1dc194.ext.json)
+
+---
+
+### Sri Lanka pavilion shines at 70th Bangkok Gems and Jewellery Fair
+
+*2024-09-19 03:08:57* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-pavilion-shines-at-70thBangkok-Gems-and-Jewellery-Fair/34-766887) · `en`
+
+The Embassy and Permanent Mission of Sri Lanka inaugurated the Sri Lanka Pavilion at the prestigious 70th Bangkok Gems and Jewellery Fair on 9 September.
+
+The Ministry of Commerce of Thailand Permanent Secretary Vuttikrai Leewiraphan, officially inaugurated the Sri Lanka Pavilion, marking a significant milestone in the collaboration between Sri Lanka and Thailand in the gems and jewellery sector.
+
+This year, the Sri Lanka Pavilion featured an impressive line-up of 35 leading Sri Lankan gem and jewellery companies, each showcasing a diverse array of exquisite products. The pavilion highlighted Sri Lanka’s status as a global leader in the gems and jewellery industry, renowned as a cradle of treasures for its precious, natural gemstones and one of the oldest source countries for blue sapphires.
+
+...
+
+[Data](articles/4d20d225.json)
+
+[Extended Data](ext_articles/4d20d225.ext.json)
+
+---
+
+### Sri Lanka-UAE business JV to strengthen industry ties on graphene processing partnership in Sri Lanka
+
+*2024-09-19 03:07:46* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-UAE-business-JV-to-strengthen-industry-ties-on-graphene-processing-partnership-in-Sri-Lanka/34-766886) · `en`
+
+From left: Inovartic Investment Chairman and Co-Founder Saif Aldarmaki, and Abu Dhabi Department of Economic Development (ADDED) in UAE Acting Director General of Economic Affairs Badr Al-Olama
+
+Apex Asia Chairman and Inovartic Investment Lanka Co-Founder Shawn Gajasinghe
+
+Inovartic Investment Lanka to work in collaboration with Abu Dhabi University (ADU) and Sri Lanka Institute of Nanotechnology (SLINTEC) across Sri Lanka and the UAE
+
+Inovartic Investment Lanka Ltd., a joint venture between Sri Lanka’s Apex Asia Holdings and UAE’s Inovartic Investment LLC, has embarked on an initiative to accelerate the advanced manufacturing of graphene and graphene-based products in Sri Lanka and Abu Dhabi.
+
+...
+
+[Data](articles/d5bbc9b0.json)
+
+[Extended Data](ext_articles/d5bbc9b0.ext.json)
+
+---
+
+### Delegation from Port City visits Doha to woo investments
+
+*2024-09-19 03:05:35* · [`dailyftlk`](https://www.ft.lk/business/Delegation-from-Port-City-visits-Doha-to-woo-investments/34-766885) · `en`
+
+Marking a significant step toward fostering stronger business ties between Sri Lanka and Qatar to enhance investment opportunities, a special delegation from Port City, Sri Lanka visited key real estate companies in Doha from 3 to 5 September 2024.
+
+The delegation was facilitated by the Embassy of Sri Lanka in Doha in collaboration with the Qatar -Sri Lanka Business Council.
+
+The delegation was led by General Manager of Investment Promotion and Marketing Tian Zheng and Senior Manager of Investment Promotion and Marketing Asiri Peramunegegama. The visit aimed at promoting real estate investment opportunities in Sri Lanka’s landmark project, Port City Colombo, a vibrant international hub for commerce, finance, and tourism. The delegation engaged in high-level discussions with several leading real estate investment companies in Qatar to explore potential partnerships and investments in diverse sectors.
+
+...
+
+[Data](articles/0bf5082f.json)
+
+---
+
+### இருவருக்கு மட்டுமே தனி வாக்களிப்பு நிலையம்
+
+*2024-09-19 02:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவருக்கு-மட்டுமே-தனி-வாக்களிப்பு-நிலையம்/175-343995) · `ta`
+
+ஒன்பதாவது ஜனாதிபதியை தேர்ந்தெடுக்கும் ஜனாதிபதி தேர்தல் எதிர்வரும் 21 திகதி இடம்பெறவுள்ள நிலையில் மட்டக்களப்பு மாவட்டத்தில் அதற்கான பூர்வாங்க ஏற்பாடுகள் அனைத்தும் நிறைவு செய்யப்பட்டு வருவதாக மட்டக்களப்பு மாவட்ட தெரிவத்தாட்சி அலுவலரும் மாவட்ட அரசாங்க அதிபருமாகிய திருமதி. ஜஸ்டினா முரளிதரன் தெரிவித்துள்ளார்.
+
+அதே வேளை மாவட்டத்தில் இத்தேர்தலில் வாக்களிப்பதற்கு தகுதி பெற்றுள்ள 449,606 பேர் வாக்களிப்பதற்காக 442 வாக்களிப்பு நிலையங்கள் ஏற்பாடு செய்யப்பட்டுள்ளன.
+
+கடந்த தேர்தல்களின் போது மட்டக்களப்பு மாவட்டத்தின் மண்முனை வடக்கு பிரதேச செயலக நிர்வாக எல்லைக்குட்பட்ட மாந்தீவு தொழுநோய் வைத்தியசாலையில் தொடர்ச்சியாக சிகிச்சை பெற்று வந்த 2 நோயாளர்களுக்காக மாந்தீவிலேயே விசேட வாக்களிப்பு நிலையம் நிறுவப்பட்டு வாக்களிப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வந்த நிலையில் தற்சமயம் குறித்த இரண்டு நோயாளர்களும் மாந்தீவு வைத்தியசாலையில் இல்லை.
+
+...
+
+[Data](articles/29183453.json)
+
+---
 
 ### MSD security
 
@@ -2153,197 +2295,5 @@ A meeting between officials of the Election Commission and the Elections Superin
 [Data](articles/4ce4c4db.json)
 
 [Extended Data](ext_articles/4ce4c4db.ext.json)
-
----
-
-### Sajith says exam paper leaks will be resolve under his govt
-
-*2024-09-18 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102059/sajith-says-exam-paper-leaks-will-be-resolve-under-his-govt) · `en`
-
-The Samagi Jana Balawegaya (SJB) presidential candidate Sajith Premadasa says that the injustice faced by the children who sat for the Grade 5 Scholarship Examination this year will be rectified under his government.
-
-He expressed these views while joining the public rally in Kegalle area.
-
-“Ranil Wickramasinghe says that he “can”. Now the person who “can”, can’t even prevent the question paper of the Grade 5 scholarship exam held by the government under him from being leaked,” he charged.
-
-“What has happened now, the three leaked questions are to be removed,” he said, adding that it is a serious injustice to hundreds of thousands of children who faced the scholarship exam.
-
-The Opposition Leader assured that they would investigate into this repeating issue of examination papers being leaked and vowed to take the strictest possible action against those found responsible.
-
-...
-
-[Data](articles/2f5b81c8.json)
-
-[Extended Data](ext_articles/2f5b81c8.ext.json)
-
----
-
-### Three killed in vehicle accident in different parts of the country
-
-*2024-09-18 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194000) · `ta`
-
-Vehicle accidents claim three lives across Sri Lanka on Tuesday. Incidents reported in Embilipitiya, Mirigama, and Rambukkanai regions.
-
-🟩
-
-Three people have died in vehicle accidents that occurred on Tuesday (17) in different parts of the country, police said.
-
-The accidents took place in the areas of Embilipitiya - Noonama, Mirigama - Pelmada and Rambukkanai - Tissmalola.
-
-A woman who was traveling from Noonama to Embilipitiya in Nonagama area, which belongs to the Embilipitiya police division, has crashed into a woman who tried to cross the road.
-
-Woman driver and woman died after being admitted to the hospital after the driver of the van and the woman were injured in the accident.
-
-A motorcycle driver was killed when a lorry collided with a motorcycle traveling in Tissmalola Road, which belongs to the Rambukanai police division.
-
-Meanwhile, a motorcycle traveling from Hopitigamayam to Pelmada on the Mirigama Police Division in the Mirigama Police Division has lost control of the driver and crashed into a pillar.
-
-The driver of the motorcycle who was injured in the accident has died after being admitted to the hospital.
-
-◼️
-
-[Data](articles/0a09f331.json)
-
-[Extended Data](ext_articles/0a09f331.ext.json)
-
----
-
-### The heat found in front of the Examination Department
-
-*2024-09-18 14:55:52* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-දෙපාර්තමේන්තුව-ඉදිරිපිට-ඇති-වූ-උණුසුම/11-411999) · `si`
-
-Parents protest outside Examination Department demanding cancellation of Year 5 scholarship exam due to rising temperatures.
-
-🟩
-
-Parents have been protesting in front of the Examinations Department for the cancellation of the Year 5 scholarship examination recently.
-
-◼️
-
-[Data](articles/88b1e813.json)
-
-[Extended Data](ext_articles/88b1e813.ext.json)
-
----
-
-### Presidential Election 2024: Is the Future of Sri Lanka be split among the regional powers?
-
-*2024-09-18 14:38:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5e26q43ewo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's 2024 presidential election may be influenced by regional powers. India, China, and the US are involved, with each having different interests and strategies. The election could impact Sri Lanka's future and relationships with these nations.
-
-🟩
-
-Presidential Election 2024: Is the Future of Sri Lanka be split among the regional powers?
-
-The people of this country have always been a popular story of the people of Sri Lanka to achieve their agenda in Sri Lanka throughout the recent history.
-
-President Ranil Wickremesinghe addressing a campaign meeting in Kantale a few days ago, President Ranil Wickremesinghe addressing a election campaign in Kantale a few days ago.
-
-The Millennium Changes Regoation, the MCC agreement, became a topic warm presidential election in the 2019 Presidential election.
-
-The New Democratic Front contest to the Presidential Convention that the MCC was signed before the 2019 presidential election.
-
-The Sri Lanka General Front served the President of the Presidential election for the presidential election, and that the agreement is a "American trap" and that the land of Sri Lanka is sold to the "garbage robbery".
-
-...
-
-[Data](articles/e7f822fe.json)
-
-[Extended Data](ext_articles/e7f822fe.ext.json)
-
----
-
-### Namal says that new rules are being transferred to the parties
-
-*2024-09-18 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201151) · `si`
-
-Namal announces new rules transfer to parties. Presidential candidate promises changes post-election. Criticizes opposition, vows transparency. Emphasizes plans for national development over personal gain.
-
-🟩
-
-Presidential candidate of the Sri Lanka Ceremony of Publisher says that after his coming to power, the presidency of the Sri Lanka Ceremony of the Sri Lanka Pubelian Publishing Leaders say.
-
-He made these comments addressing a rally held in Galle yesterday (17).
-
-"The opposition asked the Rajapaksas that our team was hiding. No, we never hid. We're not hiding. We can't hide us. Because I have a program. We have a plan to make the country. Money can get the money, in the time. But money cannot buy the village party. Epale to get the goal. It was allowed from my father to close the salon. Not just our loyalty to our loyalty, we bring a law of parliament to parliament that cannot be transferred to privileges. I am responsible for you, this will not allow you to be put in touch. "
-
-◼️
-
-[Data](articles/ed0daa7a.json)
-
-[Extended Data](ext_articles/ed0daa7a.ext.json)
-
----
-
-### The Department of Examination
-
-*2024-09-18 13:51:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சை-திணைக்களம்-அருகே-பரபரப்பு/175-343956) · `ta`
-
-Parents protest removal of final points from 5th grade exam. Demand cancellation of scholarship exam. Police and riot squad deployed.
-
-🟩
-
-Parents today (18) staged a demonstration in front of the Examination Department in protest of the decision of the Examinations Department to remove the final points from the first paper of the Fifth Grade Scholarship Examination.
-
-They have also requested the cancellation of the Grade 5 scholarship examination.
-
-In the meantime, the parents who protested have gone to the Examination Department and issued a letter.
-
-It is noteworthy that the police and the riot unit were summoned to the site as their parents continued to protest.
-
-◼️
-
-[Data](articles/09406950.json)
-
-[Extended Data](ext_articles/09406950.ext.json)
-
----
-
-### A helmet and a jacket stops the train on Northern Railway line
-
-*2024-09-18 13:49:25* · [`adalk`](https://www.ada.lk/breaking_news/හෙල්මට්-එකක්-සහ-ජැකට්-එකක්-උතුරු-දුම්රිය-මාර්ගයේ-දුම්රිය-නවත්වයි/11-411998) · `si`
-
-Train halted Northern Railway line due to helmet and jacket obstruction. Motorcycle theft sparks protest affecting commuters, military personnel, and security forces.
-
-🟩
-
-No-railway line has been operated from the early hours of operation of a railway killer and a rainy violence on a rains.A large number of passengers, including members, were very embarrassed.
-
-The train was not running from Anuradhapura to Medawachchiya to Medawachchiya to Medawachchiya to Kawachchiya today (18).Said a spokesman.
-
-From time to time, the train regulators stopped at the train stage and had recently stopped at the motorcycle staff in front of the railway station in front of the railway station in front of the railway station in front of the train staff.The strike says that the strike will be launched with stealing a motorcycle empty and stealing a coat.
-
-When contacted, a train spokesman said that the motorcycle was taken to the ground, carrying parcels and train to the ground, was severely obstructed due to the stopping of the motorcycle train.
-
-...
-
-[Data](articles/b55dc593.json)
-
-[Extended Data](ext_articles/b55dc593.ext.json)
-
----
-
-### Railway Controllers Workplace
-
-*2024-09-18 13:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்வே-கட்டுப்பாட்டாளர்கள்-பணிப்புறக்கணிப்பு/175-343955) · `ta`
-
-Protest erupts at Anuradhapura railway station over stolen motorcycle helmet. Train services between Anuradhapura and Kilinochchi suspended due to unrest.
-
-🟩
-
-The work has been launched in protest of the stealing of the helmet from the motorcycle on a motorcycle at the Anuradhapura Riyal Station.
-
-Due to this, several train travels from Anuradhapura to Kilinochchi have been canceled, the Railway Department said.
-
-◼️
-
-[Data](articles/a24e3124.json)
-
-[Extended Data](ext_articles/a24e3124.ext.json)
 
 ---

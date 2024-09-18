@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 16:11:05**
+As of **2024-09-18 16:22:45**
 
 ## Newspaper Stats
 
-*Scraped **44,542** Articles*
+*Scraped **44,545** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 430
-colombotelegraphcom | 444
+colombotelegraphcom | 445
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
@@ -19,14 +19,14 @@ adalk | 4,111
 dailymirrorlk | 4,733
 adaderanalk | 5,241
 tamilmirrorlk | 5,816
-virakesarilk | 7,119
+virakesarilk | 7,121
 adaderanasinhalalk | 7,628
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,542 (100.0%) of 44,542 articles have been extended.
+44,542 (100.0%) of 44,545 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,6 +80,22 @@ The Pakistan's Group's game player has been able to collect over its first innin
 
 ---
 
+### பழம்பெரும் இந்திய திரைப்பட நடிகை சிஐடி சகுந்தலா காலமானார்
+
+*2024-09-18 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194022) · `ta`
+
+ஏ.சகுந்தலா தமிழ் தெலுங்கு, மலையாளம், கன்னடம் என பல்வேறு மொழிகளில் நடிகையாக திகழ்ந்தவர்.  1970 ஆம் ஆண்டு ஜெய்சங்கர் நடிப்பில் வெளியான ’சிஐடி சங்கர்’ படத்தில் அறிமுகமானதால், அதன் பிறகு ‘சிஐடி’ சகுந்தலா என்று அழைக்கப்பட்டார்.
+
+சேலம் மாவட்டத்தின் அரிசிபாளையத்தைச் சேர்ந்த சகுந்தலா சென்னையில் லலிதா, பத்மினி, ராகினி நடத்தி வந்த நடன நிகழ்ச்சிகளில் பங்கேற்று நடனமாடி வந்தார். அப்போது கிடைத்த அறிமுகங்களின் மூலம் திரையுலகில் நுழைந்து சின்ன சின்ன கதாபாத்திரங்களில் நடித்தார்.
+
+‘படிக்காத மேதை’, ‘கை கொடுத்த தெய்வம்’, ‘திருடன்’, ‘தவப்புதல்வன்’, ‘வசந்த மாளிகை’, ‘நீதி’, ‘பாரத விலாஸ்’, ‘ராஜராஜ சோழன்’, ‘பொன்னூஞ்சல்’, ‘என் அண்ணன்’, ‘இதயவீணை’ என ஏராளமான திரைப்படங்களில் நடித்துள்ளார். தமிழ் தவிர, தெலுங்கு, மலையாளம், கன்னடம் உள்ளிட்ட மொழிகளில் நடித்து வந்தார்.
+
+...
+
+[Data](articles/60da1e1e.json)
+
+---
+
 ### Police seek public assistance to arrest a suspect
 
 *2024-09-18 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201152) · `si`
@@ -127,6 +143,28 @@ The Opposition Leader assured that they would investigate into this repeating is
 [Data](articles/2f5b81c8.json)
 
 [Extended Data](ext_articles/2f5b81c8.ext.json)
+
+---
+
+### நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற வாகன விபத்தில் மூவர் பலி!
+
+*2024-09-18 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194000) · `ta`
+
+நாட்டின்  வெவ்வேறு பகுதிகளில் நேற்று செவ்வாய்க்கிழமை (17) இடம்பெற்ற வாகன விபத்துக்களில் மூவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+எம்பிலிப்பிட்டிய - நோனாகம ,மீரிகம - பெல்மட மற்றும் ரம்புக்கனை - திஸ்மல்பொல ஆகிய பிரதேசங்களில் இந்த விபத்துக்கள் இடம்பெற்றுள்ளது.
+
+எம்பிலிப்பிட்டிய  பொலிஸ் பிரிவிற்குட்பட்ட நோனாகம பகுதியில் நோனாகமவிலிருந்து எம்பிலிப்பிட்டிய நோக்கிப் பயணித்த வேன் ஒன்று பாதையை கடக்க முற்பட்ட பெண் ஒருவர் மீது மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+விபத்தில் வேனின் சாரதியும் பெண்ணும் காயமடைந்துள்ள நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சிகிச்சை பலனின்றி பெண் உயிரிழந்துள்ளார்.
+
+ரம்புக்கனை பொலிஸ் பிரிவிற்குட்பட்ட திஸ்மல்பொல வீதியில் லொறியொன்று எதிர்த்திசையில் பயணித்த மோட்டார் சைக்கிளிலுடன் மோதி விபத்துக்குள்ளானதில் மோட்டர் சைக்கிள் செலுத்தனர் ஒருவர் உயிரிழந்துள்ளார்.
+
+இதேவேளை,மீரிகம பொலிஸ் பிரிவில் மீரிகம - பெல்மட வீதியில் ஹோப்பிட்டிகமயிலிருந்து பெல்மட நோக்கிப் பயணித்த மோட்டார் சைக்கிள் ஒன்று செலுத்துனரின் கட்டுப்பாட்டை இழந்து வீதியிலிருந்த தூணில் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+...
+
+[Data](articles/0a09f331.json)
 
 ---
 
@@ -2076,6 +2114,18 @@ There, they have created an organization in various fields, "in different fields
 
 ---
 
+### Hobson’s Choice Or Clear Choice
+
+*2024-09-18 05:27:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/hobsons-choice-or-clear-choice/) · `en`
+
+Mr. Silva, a recently retired public official wakes up as usual at the dawn of sunrise on this clear Sunday morning. As he regularly does, makes the short journey by foot to the nearest kiosk selling the Sunday newspapers. The fresh smell and the crispness of the paper is something Mr.Silva has always enjoyed. He would devour every single detail from the front to back during the course of the day. He usually takes home the Sunday Times and Divaina as he thinks it will cover the length and breadth of the weekly affairs and will give him contrasting perspectives. He is not easily swayed but forms an opinion based on his experience and likenesses.
+
+...
+
+[Data](articles/bb382b75.json)
+
+---
+
 ### SJB reaffirms commitment to Easter Attack justice after doubts raised
 
 *2024-09-18 03:51:31* · [`dailyftlk`](https://www.ft.lk/news/SJB-reaffirms-commitment-to-Easter-Attack-justice-after-doubts-raised/56-766841) · `en`
@@ -2281,61 +2331,5 @@ LTL said it will provide the said additional information required by the CSE as 
 [Data](articles/8f471d89.json)
 
 [Extended Data](ext_articles/8f471d89.ext.json)
-
----
-
-### Court of Appeal enters judgment by granting Constitutional injunction against Health Minister as final relief in arbitration dispute
-
-*2024-09-18 03:24:59* · [`dailyftlk`](https://www.ft.lk/business/Court-of-Appeal-enters-judgment-by-granting-Constitutional-injunction-against-Health-Minister-as-final-relief-in-arbitration-dispute/34-766831) · `en`
-
-Case filed by Spectrum Pharmatech Lanka concerning Pharmaceutical Production Zone in Oyamaduwa, Anuradhapura
-
-The Court of Appeal recently granted, as the final relief, an Injunction against the Minister of Health in Application bearing No: CA/INJ/3/2024.
-
-This was pursuant to an application which was preferred by Spectrum Pharmatech Lanka Ltd., the Zone Developer in the “Suwa Siri Pura” Pharmaceutical Production Zone in Oyamaduwa, Anuradhapura.
-
-In March 2024 the Court of Appeal had granted interim relief as prayed for by the petitioner and injuncted the Minister of Health and State Minister of State Ministry of Production, Supply and Regulation of Pharmaceuticals restraining them from taking any steps to act in contravention to the Development and Management Agreement, the agreement to arbitrate and altering the positions with the investor tenants in the Pharmaceutical Zone in Oyamaduwa until the disputes were heard in Arbitration.
-
-...
-
-[Data](articles/b1db041a.json)
-
-[Extended Data](ext_articles/b1db041a.ext.json)
-
----
-
-### Brandix, Teejay and Fortude partner with InterBalance
-
-*2024-09-18 03:23:58* · [`dailyftlk`](https://www.ft.lk/business/Brandix-Teejay-and-Fortude-partner-with-InterBalance/34-766830) · `en`
-
-Move aimed at implementing ESG management framework aligned with GRI and IFRS S1 and S2 standards
-
-In a significant move towards enhancing sustainability, three of Sri Lanka’s leading companies – Brandix Apparel Ltd., Teejay Lanka PLC, and Fortude Ltd. – have partnered with InterBalance, a pioneering consultancy in sustainability and enterprise risk management, to implement an Environmental, Social and Governance (ESG) and sustainability management framework.
-
-This initiative seeks to align reporting with the latest International Financial Reporting Standards (IFRS) S1 and S2, and the Global Reporting Initiative (GRI) standards, reflecting a global trend of integrating sustainability into corporate governance and risk management.
-
-Brandix Apparel Ltd., Teejay Lanka PLC and Fortude Ltd., are now equipped to identify key sustainability-related risks and opportunities, integrate sustainability with risk management, and establish Key Sustainability Performance Indicators (KSPIs).
-
-...
-
-[Data](articles/6d9fbdf8.json)
-
-[Extended Data](ext_articles/6d9fbdf8.ext.json)
-
----
-
-### WCIC unveils Prathibhabhisheka – Women Entrepreneur Awards 2024
-
-*2024-09-18 03:21:30* · [`dailyftlk`](https://www.ft.lk/business/WCIC-unveils-Prathibhabhisheka-Women-Entrepreneur-Awards-2024/34-766829) · `en`
-
-In its efforts to recognise and reward Sri Lanka’s outstanding female entrepreneurs, Women’s Chamber of Industry and Commerce (WCIC) recently announced the launch of its annual flagship event “WCIC Prathibhabhisheka – Women Entrepreneur Awards 2024”.
-
-This national event, held for the third consecutive year, will be held in January 2025. While primarily recognising Sri Lankan entrepreneurs it is also open to women entrepreneurs from the SAARC region under a special category. The awards ceremony will honour women entrepreneurs for their tenacity to scale and grow, and for their contribution and impact on the economy.
-
-...
-
-[Data](articles/ded71d64.json)
-
-[Extended Data](ext_articles/ded71d64.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 04:09:50**
+As of **2024-09-19 04:38:27**
 
 ## Newspaper Stats
 
-*Scraped **44,647** Articles*
+*Scraped **44,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,834
+tamilmirrorlk | 5,835
 virakesarilk | 7,140
 adaderanasinhalalk | 7,642
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,647 (100.0%) of 44,647 articles have been extended.
+44,648 (100.0%) of 44,648 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,32 @@ The delegation was led by General Manager of Investment Promotion and Marketing 
 [Data](articles/0bf5082f.json)
 
 [Extended Data](ext_articles/0bf5082f.ext.json)
+
+---
+
+### Tells to inspect the head
+
+*2024-09-19 02:46:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதிலளிக்காது-தலையை-பரிசோதிக்க-சொல்கிறார்/175-343997) · `ta`
+
+Sri Lanka politician Hizbullah claims Anura Kumara Dissanayake's election manifesto supports opening gay stations, brothels, and alcoholism nationwide. He accuses Anura Kumara Dissanayake of insulting him instead of addressing allegations.
+
+🟩
+
+Former Governor of the Eastern Province MLA has said that if Anura Kumara Dissanayake comes to power, he said that he would respond to my comment that gay stations and brothels would be opened throughout the country.. Hizbullah said.
+
+He was speaking at a speech at a campaign meeting organized by the Sri Lanka Muslim Congress on Tuesday (17) night in support of Sajith Premadasa in Karadivu, Karadivu, Ampara district.
+
+Muslim Congress House East Regional Organizer. H. Former Governor MLA. Hizbullah further stated
+
+If the National People's Power Leader Anura Kumara Dissanayake comes to power, homosexual stations, brothels and alcoholism will be opened legally.. Even in schools, the Ulama cannot speak to them.
+
+I have been saying this again and again when I read the election manifesto of Anuragumara Dissanayake. That is how Muslims cannot celebrate their majority in their respective days. The majority of all religions can be celebrated in a single day and can be celebrated in one day.
+
+...
+
+[Data](articles/d0629966.json)
+
+[Extended Data](ext_articles/d0629966.ext.json)
 
 ---
 
@@ -2281,33 +2307,5 @@ She was acting in serials after leaving the cinema. He was staying at his daught
 [Data](articles/60da1e1e.json)
 
 [Extended Data](ext_articles/60da1e1e.ext.json)
-
----
-
-### Police seek public assistance to arrest a suspect
-
-*2024-09-18 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201152) · `si`
-
-Police seek public help to arrest suspect involved in property fraud. Woman impersonated another person to sign fake deed. Police investigating, request tips via specific phone numbers.
-
-🟩
-
-Police expect public assistance to arrest a suspect for an investigation.
-
-The police media division in announcement was informed that the relevant suspect was required to prepare the false registers and acquisition of property acquisition of property.
-
-The Criminal Investigations Department is conducting further investigations into a complaint against her.
-
-Investigations have revealed that the woman had appeared as someone else and signed the fake deed.
-
-Police have given the information on the media by the police and the photograph of the photo
-
-If something is about her, the police requests the public to inform the following numbers.
-
-◼️
-
-[Data](articles/18f5ddb8.json)
-
-[Extended Data](ext_articles/18f5ddb8.ext.json)
 
 ---

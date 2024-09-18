@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 23:22:35**
+As of **2024-09-18 23:38:25**
 
 ## Newspaper Stats
 
-*Scraped **44,611** Articles*
+*Scraped **44,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,694
 dailyftlk | 2,962
 adalk | 4,122
 dailymirrorlk | 4,733
-adaderanalk | 5,249
+adaderanalk | 5,250
 tamilmirrorlk | 5,829
 virakesarilk | 7,139
 adaderanasinhalalk | 7,642
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,610 (100.0%) of 44,611 articles have been extended.
+44,612 (100.0%) of 44,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Response to SJB’s allegations over Sajith’s participation in ‘Derana 360°’ program
+
+*2024-09-18 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102068/response-to-sjbs-allegations-over-sajiths-participation-in-derana-360-program) · `en`
+
+Seven candidates contesting the 2024 Presidential Election were each given the opportunity to participate in a special ‘Derana 360°’ program, according to the equal-ground policy followed by Ada Derana.
+
+Accordingly, Ada Derana had also invited the Samagi Jana Balawegaya (SJB) presidential candidate Sajith Premadasa.
+
+The seven special ‘Derana 360°’ programs commenced airing from Thursday (Sept. 12).
+
+After informing SJB leader Sajith Premadasa of this, based on his advice a secretary managing his diary confirmed that the ‘Derana 360°’ program could be conducted as a live recording and the date was also noted down in his diary as September 17.
+
+Following that, on several occasions the Derana News Director exchanged views with Mr. Premadasa over the phone related to this program while the the trailers related to the program also began airing from September 11.
+
+...
+
+[Data](articles/0b84bf2c.json)
+
+[Extended Data](ext_articles/0b84bf2c.ext.json)
+
+---
 
 ### Tamil people gather to vote for the symbol of the unity of the Tamils ​​- CV Vigneswaran
 
@@ -446,19 +468,27 @@ At the meeting held at Nallur Changhiyan Thoppu, Tamil general candidate Pa Ariy
 
 ---
 
-### ජනතාව සියවස් ගණනාවක් අපේක්ෂා කළ පරිවර්තනය 21දා සිදුවෙනවා
+### The people who expected the centuries will take place on the 21st
 
 *2024-09-18 19:52:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-සියවස්-ගණනාවක්-අපේක්ෂා-කළ-පරිවර්තනය-21දා-සිදුවෙනවා/11-412013) · `si`
 
-මෙරට ජනතාව සියවස් ගණනක් අපේක්ෂා කළ දේශපාලන පරිවර්තනය 21වැනිදා සිදුවන බවත්, එය මෙරට දේශපාලනයේ යුග පෙරළියක් බවත් ජාතික ජනබලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පැවසීය. ශ්‍රී ලංකාව පොහොසත් රටක් කිරීමේ වැඩපිළිවෙල ජාතික ජනබලවේගය සතු බව ද ඔහු කීවේය.
+Sri Lankan presidential candidate Anura Kumara Dissanayake promises economic transformation, lower electricity costs, improved healthcare, and local production growth. He vows to end corruption and boost national security, aiming to make Sri Lanka a prosperous nation by the 21st century.
 
-සිංහල දෙමළ ජනයා බෙදී වෙන් වී කරන ලද දේශපාලනය එකට එකතු කිරීමට ජාතික ජනබලවේගය සමත් වී ඇති බවත්, ජාතික සමගිය ඇති කිරීමේ ඉදිරි පියවර 21වැනිදායින් පසු ආරම්භ කරන බවත් අනුර කුමාර දිසානායක මහතා පැවසුවේ ඊයේ (18දා) කළුතර, ගම්පහ සහ නුගේගොඩ දී පැවති මැතිවරණ ප්‍රචාරණ අවසන් ජන රැලි අමතමිනි.
+🟩
 
-ආසියානු කලාපයේ වැඩිම විදුලි බිල , ඉදිරියේ දී ආසියාවේ අඩුම විදුලි බිල බවට පත් කරන බව ද ඔහු ප්‍රකාශ කළේය. නිරෝගි සම්පන්න ජීවිතයක් පුරවැසියාට ලබාදීම රජයක වගකීම බවත්, ඒ සදහා මෙරට සෞඛ්‍ය ක්ෂේත්‍රය පහසුකම් සහිත, විශ්වාසනීය එකක් බවට පත් කරන බවද දිසානායක මහතා සඳහන් කළේය.
+Presidential candidate Anura Kumara Dissanayake said that the political translation of the people expected to centuries will occur on the 21st and that it is a man of politics in Sri Lanka.. He added that the national atonement has the program to make Sri Lanka a rich country.
+
+Anura Kumara Dissanayake said that the national atologge has been able to collect the politics of the Sinhalese and divided politics.Addressing the wrinkles.
+
+He said the highest electricity bill in the Asian region would be made the lowest electricity bill in Asia. Dissanayake added that the provision of a healthy life is responsible for the government and the healthcare industry is a credible one, with healthcare facilities.
+
+"Will not be a mere government shift on the 21st. Another leader is not a member of the leader. This is what dream we saw centuries. The 21st will take place to transform this political culture.
 
 ...
 
 [Data](articles/b619c448.json)
+
+[Extended Data](ext_articles/b619c448.ext.json)
 
 ---
 
@@ -2421,29 +2451,5 @@ ECONOMYNEXT — There is substantially more support for the ruling Sri Lanka Pod
 [Data](articles/ba51d3aa.json)
 
 [Extended Data](ext_articles/ba51d3aa.ext.json)
-
----
-
-### Everything that the president does is released today - Sajith Premadasa
-
-*2024-09-18 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/193992) · `ta`
-
-Sajith Premadasa: President's actions revealed daily. Anura Kumara Ranil Wickremesinghe in political marriage. 66th UPFA victory rally successful in Kegalle. Criticizes government over scholarship exam issues. Promises protection for SMEs, private sector workers, farmers, and youth. Targets 220 lakh votes for United People's Power on September 21st.
-
-🟩
-
-Anura Kumara and Ranil Wickremesinghe are married to political marriage and are celebrating honeymoon in these days. Their honeymoon celebration ends on the 21st. Opposition Leader Sajith Premadasa said the journey to live the people of this country begins on the 21st.
-
-The 66th victory rally organized by the United People's Alliance (UPFA) ahead of the 2024 presidential election, led by Opposition Leader Sajith Premadasa on Tuesday (17)
-
-Was the most successfully carried out in Kegalle. The Opposition Leader said this while participating in the event.
-
-They are trying to make himself fail by doing the Deal of Anura Ranil. The opposition leader said they were afraid that they would serve the country.
-
-...
-
-[Data](articles/df8f53ef.json)
-
-[Extended Data](ext_articles/df8f53ef.ext.json)
 
 ---

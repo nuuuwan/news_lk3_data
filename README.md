@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 09:22:21**
+As of **2024-09-18 09:38:50**
 
 ## Newspaper Stats
 
-*Scraped **44,468** Articles*
+*Scraped **44,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 2,688
 dailyftlk | 2,961
 adalk | 4,099
 dailymirrorlk | 4,733
-adaderanalk | 5,232
+adaderanalk | 5,234
 tamilmirrorlk | 5,809
 virakesarilk | 7,101
-adaderanasinhalalk | 7,611
+adaderanasinhalalk | 7,612
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,468 (100.0%) of 44,468 articles have been extended.
+44,471 (100.0%) of 44,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Ranil says next year's relief
+
+*2024-09-18 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201138) · `si`
+
+Ranil Wickremesinghe predicts rupee strengthening by next year under current economic conditions.
+
+🟩
+
+Independent Presidency, Ranil Wickremesinghe says that the rupee will be further strengthened by next year under the existing economic system.
+
+◼️
+
+[Data](articles/c17a0da8.json)
+
+[Extended Data](ext_articles/c17a0da8.ext.json)
+
+---
+
+### Presidential Election campaigning ends at midnight today
+
+*2024-09-18 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102052/presidential-election-campaigning-ends-at-midnight-today) · `en`
+
+The election campaigning activities for the 2024 Presidential Election are scheduled to end at midnight today (18).
+
+Accordingly, the silence period will be in effect from midnight today until Saturday (21), when the election will be held.
+
+During this period, any form of election campaign activities are prohibited, and the police are authorized to arrest any parties that violate election rules and to enforce the law.
+
+The Chairman of the Election Commission of Sri Lanka, R.M.A.L. Ratnayake, stated that all election offices established by political parties must be removed by midnight on the September 19. From that point, only the election office related to the division can be maintained.
+
+“Apart from that, all 13,314 constituency-related offices currently established will be removed by midnight on the 19th. Only one new electoral office can be established at the constituency level,” he said.
+
+...
+
+[Data](articles/15de339f.json)
+
+[Extended Data](ext_articles/15de339f.ext.json)
+
+---
+
+### Indian Coast Guard arrests three Sri Lankan fishermen
+
+*2024-09-18 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102051/indian-coast-guard-arrests-three-sri-lankan-fishermen) · `en`
+
+The Indian Coast Guard has arrested three Sri Lankan fishermen who traversed into Indian waters near Rameswaram on Tuesday.
+
+The three aboard a fibre boat were apprehended during a patrol exercise in the waters of the Bay of Bengal.
+
+The ICGS Mandapam intercepted the Sri Lankan boat bearing registration (OFRP 5671 JFN) and took it into custody. After the formalities, the case was handed over to Tamil Nadu Coastal Security Group, Mandapam.
+
+The arrested have been identified as R. Niroshan (34) of Nedunkulam, Colombuthurai, T Bala Ramesh (37) of Udunthurai, Thalayadi, Jaffna and P Pulaykumar (44) of the same locality in Sri Lanka.
+
+◼️
+
+[Data](articles/2625548d.json)
+
+[Extended Data](ext_articles/2625548d.ext.json)
+
+---
 
 ### Impact of train services
 
@@ -2235,79 +2295,5 @@ The Executive Director of the February, Rohana Hettiarachchi said that the Nuwar
 [Data](articles/d6859187.json)
 
 [Extended Data](ext_articles/d6859187.ext.json)
-
----
-
-### 37 million person arrested
-
-*2024-09-17 16:51:13* · [`adalk`](https://www.ada.lk/breaking_news/රු-ලක්ෂ-37ක-අනර්තයක්-කළ-පුද්ගලයෙකු-අත්අඩංගුවට/11-411984) · `si`
-
-Here's a 200-character summary:
-
-
-
-68-year-old man arrested in Uva Sapagolla for illegal logging. Police seized timber stock. Incident occurred in Sapagolla area.
-
-🟩
-
-A person was arrested in the Sapagolla area of ​​Sapagolla area and stock of timber and timber, Uvapatha police said.
-
-A 68-year-old resident of the Uva Sapagolla area in Uvawalanegama has been arrested.
-
-◼️
-
-[Data](articles/c1ec9838.json)
-
-[Extended Data](ext_articles/c1ec9838.ext.json)
-
----
-
-### Second birth anniversary of Vidyartha Vidyalaya
-
-*2024-09-17 16:42:40* · [`adalk`](https://www.ada.lk/breaking_news/විද්‍යාර්ථ-විද්‍යාලයේ-දෙවන-ජන්ම-සංවත්සර-සැමරුම-අනිද්දා/11-411983) · `si`
-
-Kosgama Vidyare College celebrates its second anniversary. Ceremony features Professor Prasad Sethanga and Homagama Zonal Education Director. School named after founder, Kosgama Maha Vidyalaya. Event honors school's history and growth.
-
-🟩
-
-The second birth anniversary ceremony of Kosgama Vidyare College has arranged for survival on the 19th.
-
-The Anniversary Festival, Director General of the National Institute of Education Professor Prasad Sethanga and Director of Homagama Zonal Education, will be held at the school main hall.
-
-Vidyarts Sacred Sacred Sacred Surveying Pinky
-
-In addition, the schoolmother of the school name of Kosgama Maha Vidyalaya has been appointed as the Vidarus College from that day.
-
-◼️
-
-[Data](articles/7b0427c1.json)
-
-[Extended Data](ext_articles/7b0427c1.ext.json)
-
----
-
-### Sampath was killed as a seat organizer
-
-*2024-09-17 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201121) · `si`
-
-Sampath Gamage, SLFP organizer, killed at home. Murdered by someone from a three-wheeler during a casual encounter.
-
-🟩
-
-Sampath Gamage, the main organizer of the Sri Lanka Freedom Party (SLFP Hiniduma electorate) has been murdered at his residence.
-
-The Meegoda Police said that he had committed the crime at the house of the Panagoda Samagi Mawatha, Homagama.
-
-Police further stated that it was revealed about a casual relationship.
-
-Preliminary investigations have revealed that he had been attacked by a hearing by a person from a three-wheeler.
-
-The deceased police officer in the Nugegoda Police said that the deceased has been the Chief Organizer of the Sri Lanka Freedom Party (SLFP Hiniduma electorate).
-
-◼️
-
-[Data](articles/647234f1.json)
-
-[Extended Data](ext_articles/647234f1.ext.json)
 
 ---

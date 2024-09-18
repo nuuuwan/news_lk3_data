@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 15:38:14**
+As of **2024-09-18 15:57:22**
 
 ## Newspaper Stats
 
-*Scraped **44,538** Articles*
+*Scraped **44,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ colombotelegraphcom | 444
 islandlk | 2,623
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,110
+adalk | 4,111
 dailymirrorlk | 4,733
 adaderanalk | 5,241
 tamilmirrorlk | 5,816
 virakesarilk | 7,119
-adaderanasinhalalk | 7,625
+adaderanasinhalalk | 7,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,538 (100.0%) of 44,538 articles have been extended.
+44,540 (100.0%) of 44,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Police seek public assistance to arrest a suspect
+
+*2024-09-18 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201152) · `si`
+
+Police seek public help to arrest suspect involved in property fraud. Woman impersonated another person to sign fake deed. Police investigating, request tips via specific phone numbers.
+
+🟩
+
+Police expect public assistance to arrest a suspect for an investigation.
+
+The police media division in announcement was informed that the relevant suspect was required to prepare the false registers and acquisition of property acquisition of property.
+
+The Criminal Investigations Department is conducting further investigations into a complaint against her.
+
+Investigations have revealed that the woman had appeared as someone else and signed the fake deed.
+
+Police have given the information on the media by the police and the photograph of the photo
+
+If something is about her, the police requests the public to inform the following numbers.
+
+◼️
+
+[Data](articles/18f5ddb8.json)
+
+[Extended Data](ext_articles/18f5ddb8.ext.json)
+
+---
 
 ### Sajith says exam paper leaks will be resolve under his govt
 
@@ -51,6 +79,24 @@ The Opposition Leader assured that they would investigate into this repeating is
 [Data](articles/2f5b81c8.json)
 
 [Extended Data](ext_articles/2f5b81c8.ext.json)
+
+---
+
+### The heat found in front of the Examination Department
+
+*2024-09-18 14:55:52* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-දෙපාර්තමේන්තුව-ඉදිරිපිට-ඇති-වූ-උණුසුම/11-411999) · `si`
+
+Parents protest outside Examination Department demanding cancellation of Year 5 scholarship exam due to rising temperatures.
+
+🟩
+
+Parents have been protesting in front of the Examinations Department for the cancellation of the Year 5 scholarship examination recently.
+
+◼️
+
+[Data](articles/88b1e813.json)
+
+[Extended Data](ext_articles/88b1e813.ext.json)
 
 ---
 
@@ -2283,53 +2329,5 @@ The Sri Lanka Export Development Board (EDB) has established a partnership with 
 [Data](articles/47ff0ca6.json)
 
 [Extended Data](ext_articles/47ff0ca6.ext.json)
-
----
-
-### Election campaigns are completed at midnight today;Elections Commission
-
-*2024-09-18 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/193971) · `ta`
-
-Election campaigns end tonight; candidates banned from campaigning. Main candidates hold rallies in capital. Public transport disruptions expected. Police advise using alternative routes. Media urged to provide equal coverage. Citizens warned against supporting candidates on social media.
-
-🟩
-
-Election campaign meetings for presidential election ends today (Wednesday). Candidates and their supporters are completely prohibited by engaging in election campaigns directly or indirectly. Elections Commissioner Saman Sri Ratnayake said that strict legal action will be taken against those who act contrary to the election law.
-
-The main presidential candidates Ranil Wickremesinghe, Sajith Premadasa, Anuragumara Dissanayake, Namal Rajapaksa, Dilith Jayaweera and Nuwan Bogake will be held in the capital today.
-
-Independent candidate Ranil Wickremesinghe's election campaign meeting will be held at Kosus Junction in the Grandpass Police Division of Colombo.
-
-This will result in public transportation of the Grandpass Police Division, Jogus Road, Laartis Podwee Road, Grandpass Road, Parakrama Road and Kosus Junction.
-
-Vehicles logging into Colombo via Avissawella Road have been advised to use alternative roads without using Grandpass Road.
-
-...
-
-[Data](articles/269a45ab.json)
-
-[Extended Data](ext_articles/269a45ab.ext.json)
-
----
-
-### Delete the decree issued to the High Commissioner's Office through the resolution - insist on the first map of Sri Lanka's Internet countries on Sri Lanka
-
-*2024-09-18 03:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/193970) · `ta`
-
-Sri Lanka: UNHRC extends 51/1 resolution inquiry. UN Human Rights Commissioner requests verbal report in 58th session and written report in 60th session. Resolution focuses on reconciliation, accountability, and human rights improvements.
-
-🟩
-
-The request is to be submitted by the verbal report of the 58th session and the written report in the 60th session
-
-The UN Human Rights Council (UNHRC) has requested the UN Human Rights Council to extend the order issued by the UN Human Rights High Commission through the 51/1 resolution already passed in Sri Lanka in the first map to be prepared by the British -led internet -headed states and the participation of the members of the Members of the United States on the 19th.
-
-The 57th session of the United Nations Human Rights Council commenced in Geneva last Monday (9). On that day, the Sri Lankan affair was examined following the speech of UN Human Rights Council Volkar Turk's speech on the Global Human Rights Status and the Writing Report on Myanmar Human Rights.
-
-...
-
-[Data](articles/88fd3800.json)
-
-[Extended Data](ext_articles/88fd3800.ext.json)
 
 ---

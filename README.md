@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 02:08:35**
+As of **2024-09-19 02:23:00**
 
 ## Newspaper Stats
 
-*Scraped **44,627** Articles*
+*Scraped **44,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 432
 colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,703
-dailyftlk | 2,966
+dailyftlk | 2,970
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
@@ -26,11 +26,87 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,626 (100.0%) of 44,627 articles have been extended.
+44,629 (100.0%) of 44,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Economic stakes of the 2024 Presidential election
+
+*2024-09-19 02:05:08* · [`dailyftlk`](https://www.ft.lk/opinion/Economic-stakes-of-the-2024-Presidential-election/14-766863) · `en`
+
+As Sri Lanka gears up for elections, policymakers must avoid rash economic promises that risk a decade of lost growth and an era of relative decline.
+
+As too often in the past, Sri Lanka appears not to have broken its damaging tendency towards ‘competitive populism’ ahead of elections. Fiscally profligate promises ranging from wage increases to loan write-offs and welfare handouts are being made in a bid to win votes. Such pledges often come with a hefty price tag that the country can ill afford, especially given its still fragile economic recovery.
+
+...
+
+[Data](articles/5a397998.json)
+
+[Extended Data](ext_articles/5a397998.ext.json)
+
+---
+
+### Raja Bhavatu Dhammiko: May the ruler be righteous
+
+*2024-09-19 02:02:27* · [`dailyftlk`](https://www.ft.lk/columns/Raja-Bhavatu-Dhammiko-May-the-ruler-be-righteous/4-766862) · `en`
+
+When we reflect on our current predicament we can see how we have treaded the vicious instead of the virtuous cycle expounded in the Dhamma
+
+At the end of almost all Buddhist chantings and during Independence Day celebrations we hear this four-line stanza being chanted. Over the years this has become part of our culture. May be because of that we have forgotten to reflect on the deeper meaning of this wish. It is a blueprint for a comprehensive governance system for the nation.
+
+The four wishes though appearing to be independent are in fact interdependent.
+
+If one refers to the Agganna Sutta (DN2), when the king is not righteous the minister becomes the same and so would the officers and eventually the people to move away from the righteousness. This would impact the total ecosystem which results in poor harvest; when the harvest is poor the population becomes poor. This is a vicious cycle.
+
+...
+
+[Data](articles/f2be7719.json)
+
+[Extended Data](ext_articles/f2be7719.ext.json)
+
+---
+
+### Political culture will keep changing for better, with or without NPP
+
+*2024-09-19 01:59:35* · [`dailyftlk`](https://www.ft.lk/columns/Political-culture-will-keep-changing-for-better-with-or-without-NPP/4-766861) · `en`
+
+As it turns out, the winning proposition of the NPP is the new political culture they hope to usher in.
+
+According to the interview of Anura Kumara Dissanayake (or AKD) of the National People’s Power (NPP) party carried out by Kalindu Karunaratne of Ada Derana on 16 September, NPP has all but conceded the economic issues. What remains is a new political culture of austerity, self-sacrifice and accountability which leaders will demonstrate, and others will emulate. The new political culture is expected to catalyse the socio-economic changes needed to take the country forward.
+
+The good news for the country and the bad news for NPP is that the political culture has changed and will keep changing, with or without the NPP. Further changes will happen not because of a cadre of austere and self-sacrificing politicians, but institutions, laws and economic realities, and social norms driven by these.
+
+...
+
+[Data](articles/b5364f03.json)
+
+[Extended Data](ext_articles/b5364f03.ext.json)
+
+---
+
+### Election 2024 choices for change: Weaponised negativism or progressive centrism
+
+*2024-09-19 01:55:24* · [`dailyftlk`](https://www.ft.lk/columns/Election-2024-choices-for-change-Weaponised-negativism-or-progressive-centrism/4-766860) · `en`
+
+Unless you reject change and vote Ranil, the choice is between two types of change-- as represented by Anura and Sajith.
+
+Anura represents the risk of uncertain, disequilibrating, ‘wild’ change, mainly from below.
+
+Sajith represents the assurance of steady, stable, sustainable, constructive, calibrated change, mainly from above.
+
+As a boy one thing I picked up from Mervyn de Silva, my father, is that every story has to be checked from more than one side and source, and that “the truth usually lies somewhere in the middle”.
+
+This month, September, would have marked his 95th birthday had he lived, but he died with his 70th birthday just out of reach. He’s the one after whom the pinnacle prize of the Annual Journalism Awards presented by the Editors’ Guild and the Publishers’ Society– the Mervyn de Silva Journalist of the Year-- is named.
+
+That’s why in politics I tend to look for the position in-between; the third space—and to persuade players to occupy that space.
+
+...
+
+[Data](articles/9b3d95b2.json)
+
+---
 
 ### Voting with no confidence
 
@@ -2315,105 +2391,5 @@ Meanwhile, several similar protests have been reported in other parts of the cou
 [Data](articles/4b0a4616.json)
 
 [Extended Data](ext_articles/4b0a4616.ext.json)
-
----
-
-### Mathews is notified of the situation
-
-*2024-09-18 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201147) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Angelo Mathews injured while batting. Mahinda Halangoda reports Mathews is recovering well. Mathews expects to return soon, ready to face fast bowling.
-
-🟩
-
-Mahinda Halangoda has explained to Angelo Mathews, who left the top of the right hand, due to the batting.
-
-The Crynfoo website quoted him and reported that Mathews would be in good condition.
-
-He said he is ready to get to the ball to the ground.
-
-◼️
-
-[Data](articles/2c337667.json)
-
-[Extended Data](ext_articles/2c337667.ext.json)
-
----
-
-### President promises to improve English proficiency across Sri Lanka within 10 years
-
-*2024-09-18 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102057/president-promises-to-improve-english-proficiency-across-sri-lanka-within-10-years) · `en`
-
-President Ranil Wickremesinghe assured that English language proficiency would be made accessible to every child through the implementation of the “English for All” program within the next decade.
-
-“In the first two years, we will focus on training teachers and then extend training to others. We will also provide opportunities for private institutions to register and teach English. Within 10 years, we can significantly improve English proficiency across the country,” he said.
-
-The President claimed that the JVP had protested against his proposal to introduce English education through the White Paper when he was the Minister of Education.
-
-He argued that if this program had been implemented at that time, the country would not be facing the English language issues it does today.
-
-...
-
-[Data](articles/b1bbada6.json)
-
-[Extended Data](ext_articles/b1bbada6.ext.json)
-
----
-
-### The only way for Tamils ​​is to strengthen the general candidate - Jaffna. University community
-
-*2024-09-18 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194007) · `ta`
-
-Tamil candidates must be strengthened to counter Sinhalese-Buddhist chauvinism. Jaffna University community emphasizes supporting Tamil politicians over Sinhalese leaders for 13th Amendment implementation.
-
-🟩
-
-The Jaffna University community has said that the only way in front of the Tamil people is to strengthen the Tamil candidate.
-
-Yall. They said this during a media briefing held at the university yesterday (17).
-
-The Sinhala -Buddhist chauvinism has almost succeeded from the uprising of the Tamil people in the 15 years since 2009.
-
-In this case, the Tamil people and their organizations have been able to make the Tamil people and the Tamil people's partnerships and the Tamil people's partnerships to dismantle our alliance.
-
-The university community has strongly criticized the Sinhalese candidates for engaging in the political votes of the Tamil people, without any guarantees or promises of Tamil political parties in such circumstances.
-
-...
-
-[Data](articles/5754c97a.json)
-
-[Extended Data](ext_articles/5754c97a.ext.json)
-
----
-
-### Wikipedia deleted female doctor's details
-
-*2024-09-18 12:40:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-மருத்துவரின்-விபரங்களை-நீக்கியது-விக்கிப்பீடியா/175-343954) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Wikipedia deletes doctor's name after Supreme Court order. Wikimedia Foundation policy decision. Volunteer editor removes details from article. Foundation responds to safety concerns, respecting local laws. Wikipedia provides free information to millions globally.
-
-🟩
-
-Wikipedia has deleted the name and photo of a female doctor in the case of rape and murder of Kolkata at RG Karkar Hospital following the Supreme Court order.
-
-Subsequently, Wikipedia's mother company, Wikimedia Foundation, has been interpreted. It is noteworthy that the Wikimedia Foundation does not edit or sensor articles in general. This is a policy decision.
-
-However, a representative on behalf of the Foundation participated in the debate attended by users on the issue.. In it, he raised the question of whether the name of the victim's training doctor should mention the Kolkata incident in the article. Subsequently, a volunteer editor was reported to have removed the name and photo of the victim's doctor in the article on the sexual abuse case at Kolkata RG Kar Hospital.
-
-The last amendment was made at 3.22 am today, according to Indian time.
-
-...
-
-[Data](articles/5e357761.json)
-
-[Extended Data](ext_articles/5e357761.ext.json)
 
 ---

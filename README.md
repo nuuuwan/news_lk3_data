@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 10:22:48**
+As of **2024-09-18 10:38:08**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 7,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,483 (100.0%) of 44,485 articles have been extended.
+44,485 (100.0%) of 44,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2024-09-18 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201141) · `si`
 
-ශ්‍රී ලංකාව සහ නවසීලන්තය අතර තරග දෙකකින් සමන්විත ටෙස්ට් ක්‍රිකට් තරගාවලියේ පළමු තරගය තව ස්වල්ප මොහොතකින් ගාල්ල ක්‍රීඩාංගනයේදී ආරම්භ වේ.
+Sri Lanka vs New Zealand cricket match summary: Sri Lanka wins coin toss, leads in Galle Stadium. Free viewing due to presidential election. New Zealand trains under Rangana Herath. Historical record shows mixed results between teams. Key players include Dhananjaya de Silva, Dimuth Karunaratne, and Kusal Mendis.
 
-එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+🟩
 
-මෙම තරගය  නොමිලේ නැරඹීමට ප්‍රේක්ෂකයින්ට අවස්ථාව සලසා දී ඇති අතර ජනාධිපතිවරණය හේතුවෙන් සැප්තැම්බර් 21වැනිදා තරගයේ විවේක දිනයක් ලෙස නම්කර තිබේ.
+Sri Lanka and New Zealand The first match of two matches will begin at Galle Stadium.
 
-අයි.සී.සී ලෝක ටෙස්ට් ශූරතා තරගාවලිය යටතේ පැවැත්වෙන, තරග දෙකකින් සමන්විත ශ්‍රී ලංකා - නවසීලන්ත ටෙස්ට් තරගාවලිය වෙනුවෙන් නවසීලන්ත කණ්ඩායම ඊයේ ගාල්ලේදී  පුහුණුවීම් ආරම්භ කළ අතර ඔවුන්ගේ දඟ පන්දු පුහුණුකරු ලෙස  කටයුතු කරන රංගන හේරත්ද  ඊට එක්ව සිටියේය.
+Sri Lanka won the toss and win the coin.
 
-දෙරට අතර මේ දක්වා ටෙස්ට් තරග 38ක් පවත්වා ඇති අතර ඉන් තරග 18ක් නවසීලන්තය ජය ගනිද්දී ශ්‍රී ලංකාව ජයගෙන ඇත්තේ තරග 9ක් පමණි.
+The match has been given the opportunity to watch this match free of charge and has been named a resting date on September 21 due to the presidential election.
 
-ඒ අතරින් ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදි පැවති තරග 4ම ජය ගැනීමට ශ්‍රී ලංකාව සමත්ව තිබේ.
+New Zealand team began training in Galle yesterday, with two matches with two matches in the ICC World Test Championship. Rangana Herath who served as their spinner coach.
 
-...
+Among the two countries has conducted 38 Tests and 18 matches have won only 9 matches.
+
+Sri Lanka has won the 4 matches in Galle International Cricket Stadium.
+
+Leader Dhananjaya de Silva, Dunuwath Karunaratne, Dinesh Chandimal, Angelo Mandis, Kusal Mendis, Prabath Jayasuriya and Bathsel Mendis, Bhath Jayasuriya and Asitha Fernando Group.
+
+◼️
 
 [Data](articles/6911a76d.json)
+
+[Extended Data](ext_articles/6911a76d.ext.json)
 
 ---
 
@@ -96,17 +104,27 @@ Some people say that Ranil says that Ranil says that Ranil says Sri Lanka, if we
 
 ---
 
-### කප්පම් ගත් පොලිස් නිලධාරීන් 4ක් අත්අඩංගුවට
+### Four suspensive police officers arrested
 
 *2024-09-18 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201140) · `si`
 
-කොළඹ 15 ප්‍රදේශයේ නිවසකට තර්ජනය කර රුපියල් ලක්ෂ 14ක මුදලක් කප්පම් ගැනීම සම්බන්ධයෙන් පොලිස් නිලධාරීන් 04ක් මෝදර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ, බ්ලූමැන්ඩල් පොලීසියට අනුයුක්තව සේවය කරන කොස්තාපල්වරුන් දෙදෙනකු, සැරයන්වරයකු සහ උතුරු කොළඹ බුද්ධි කොට්ඨාසයේ නිලධාරියෙකි.
+
+
+"Four police officers arrested: Two constables from Bloomandl Police, a sergeant, and an official in Colombo. They were accused of extortion."
+
+🟩
+
+The Modara Police have arrested four policemen to extort Rs.
+
+Such was arrested, two constables attached to the Bloomandl Police, a sergeant and official in Colombo.
 
 ◼️
 
 [Data](articles/74830b34.json)
+
+[Extended Data](ext_articles/74830b34.ext.json)
 
 ---
 

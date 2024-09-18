@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 12:23:25**
+As of **2024-09-18 12:38:18**
 
 ## Newspaper Stats
 
-*Scraped **44,504** Articles*
+*Scraped **44,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ colombotelegraphcom | 443
 islandlk | 2,622
 economynextcom | 2,694
 dailyftlk | 2,962
-adalk | 4,102
+adalk | 4,104
 dailymirrorlk | 4,733
-adaderanalk | 5,237
+adaderanalk | 5,238
 tamilmirrorlk | 5,813
-virakesarilk | 7,108
+virakesarilk | 7,115
 adaderanasinhalalk | 7,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,503 (100.0%) of 44,504 articles have been extended.
+44,504 (100.0%) of 44,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Dilith vows to empower women, write off microfinance loan interest
+
+*2024-09-18 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102056/dilith-vows-to-empower-women-write-off-microfinance-loan-interest-) · `en`
+
+The presidential candidate of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera, announced plans to write off interest on loans obtained by women from microfinance institutions.
+
+He made these remarks while attending a women’s conference held in Kandy.
+
+“Empowering women in Sri Lanka through entrepreneurship is the core concept of the entrepreneurial state concept, which is central to this program. We will provide the capital and strength necessary for that.” he said.
+
+He further explained that they have outlined how the government will assist individuals who start a business and face various challenges. He said they aim to provide this opportunity specifically to Sri Lankan women, emphasizing their commitment to supporting them.
+
+“In addition, we propose to completely write off the unfair interest on microfinance loans to help Sri Lankan women who are currently struggling due to these loans. We have also outlined a plan for implementing this program.” he added.
+
+...
+
+[Data](articles/37341043.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் சஜித்பிரேமதாச அனுரகுமார என்ற இருவரிடையிலான இருமுனை விளையாட்டு - சஜித்தை நம்புவதே பாதுகாப்பானது - தயான்
+
+*2024-09-18 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/193998) · `ta`
+
+ஜனாதிபதி தேர்தல் சஜித்பிரேமதாச அனுரகுமார என்ற இருவரிடையிலான இருமுனை விளையாட்டாக மாறுகின்றது போல தோன்றுவதாக அரசியல் ஆய்வாளரும் முன்னாள் இராஜதந்திரியுமான தயான் ஜெயதிலக தெரிவித்துள்ளார்.
+
+தற்போது தேர்தல் பிரசாரங்கள் இறுதிக்கட்டத்தை எட்டியுள்ள நிலையில் முன்னணி வேட்பாளர்கள் நடத்தும் பிரச்சாரம் குறித்து உங்கள் பார்வை என்ன?
+
+. அநுர சஜித் ரணில் ஆகியோருக்கிடையில்  .ஒன்று நீங்கள் எந்த வரிசையில் பட்டியலிட விரும்புகிறீர்களோ ஆனால் அது சஜித் பிரேமதாச மற்றும் அனுரகுமார திஸாநாயக்க ஆகிய இரு இளைய மனிதர்களுக்கிடையில் இருமுனை விளையாட்டாக மாறுவது போல் தெரிகிறது.
+
+இது உலகளாவிய ரீதியில் வரலாற்றின் ஒரு காலகட்டமாகும் அங்கு பதவியில் இருப்பவருக்கு எதிராக ஒரு பாரிய அலை உள்ளது. இது டைம்ஸ் இதழ் போன்ற சிந்தனைக் குழுக்கள் மற்றும் வெளியீடுகளால் கூட குறிப்பிடப்பட்டுள்ளது. இது ஒரு உலகளாவிய நிகழ்வு.
+
+...
+
+[Data](articles/0d914331.json)
+
+---
 
 ### Hot-riots are called near the Department of Examinations
 
@@ -61,6 +99,38 @@ The Department of Examinations had conducted an accelerated investigation into t
 [Data](articles/8b38a060.json)
 
 [Extended Data](ext_articles/8b38a060.ext.json)
+
+---
+
+### அமைச்சர் ஜீவன் தொண்டமானின் தலைமையில் "மலையக சாசனம்" வெளியீடு
+
+*2024-09-18 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/193995) · `ta`
+
+இலங்கை நாட்டில்  பொருளாதார, சமூக மற்றும் கலாச்சார கட்டமைப்பில் பெருந்தோட்ட சமூகம் முக்கிய பங்கை தொடர்ந்து வகித்து வருகிறது இந்திய வம்சாவளி தமிழ் (மலையக தமிழர்) பெருந்தோட்ட சமூகம் இலங்கைக்கு வருகை தந்து 200 வது ஆண்டு நிறைவை கௌரவிக்கும் முகமாக "மலையக சாசனம்" வெளியீடு  உத்தியோகபூர்வமாக செவ்வாய்க்கிழமை (17) மாலை நீர் வழங்கள் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சரும், இ.தொ.கா பொதுச் செயலாளருமான ஜீவன் தொண்டமானின் தலைமையில் நுவரெலியாவில் தனியார் ஹோட்டல் ஒன்றில்  நடைபெற்றது.
+
+இதன் போது அமைச்சர் ஜீவன் தொண்டமான் வரவேற்புரை ஆற்றியதுடன், கொள்கை மாற்றுகள்  மையத்தின் ஸ்தாபக நிறைவேற்றுப் பணிப்பாளர் கலாநிதி பாக்கியசோதி சரவணமுத்து சிறப்பு உரையினை ஆற்றினார்.
+
+...
+
+[Data](articles/49450560.json)
+
+---
+
+### මන්ත්‍රි වසන්ත යාපාට කාන්තාවකගෙන් තර්ජන
+
+*2024-09-18 11:40:56* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රි-වසන්ත-යාපාට-කාන්තාවකගෙන්-තර්ජන/11-411990) · `si`
+
+මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතාට ජංගම දුරකථන අංක දෙකක් භාවිතා කරමින් බැණ තර්ජනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් ඔහු විසින් මහනුවර මූලස්ථාන පොලිසියට සිදු කරන ලද පැමිණිල්ලකට අනුව පොලිස් විමර්ශන ආරම්භ වී තිබේ.
+
+ඒ මහතාට අද (18) අලුයම 12.30 සිට එම තර්ජනාත්මක දුරකථන ඇමතුම් ලැබුණ බවත් එය ලබා දුන් දුරකථන අංක දෙක ද සමඟ පැමිණිලි කොට තිබේ.
+
+එම තර්ජනාත්මක දුරකථන ඇමතුම් ලබා දෙනු ලැබූයේ කාන්තාවක් විසින් බවද පැමිණිල්ලේ සඳහන්ය.
+
+මහනුවර කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි අනුරුද්ධ බණ්ඩාරනායක මහතාගේ උපදෙස් පරිදි මූලස්ථාන භාර ප්‍රධාන පොලිස් පරීක්ෂක රසික සම්පත් මහතාගේ මෙහෙයවීම යටතේ සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කෙරේ .
+
+◼️
+
+[Data](articles/2e515479.json)
 
 ---
 
@@ -120,6 +190,24 @@ ECONOMYNEXT — There is substantially more support for the ruling Sri Lanka Pod
 
 ---
 
+### ஜனாதிபதி செய்கின்ற அனைத்தும் இன்று வெளியாகிக் கொண்டிருக்கிறது - சஜித் பிரேமதாச
+
+*2024-09-18 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/193992) · `ta`
+
+அநுர குமார மற்றும் ரணில் விக்கிரமசிங்க ஆகியோர் ஜோடியாக இணைந்து அரசியல் திருமணம் செய்து கொண்டு இந்த நாட்களில் தேனிலவு கொண்டாடிக் கொண்டிருக்கின்றார்கள். இவர்களின் தேனிலவு கொண்டாட்டம் 21 ஆம் திகதியோடு நிறைவடைகின்றது. இந்த நாட்டு மக்களை வாழவைக்கின்ற பயணம் 21 ஆம் திகதியோடு ஆரம்பமாகின்றது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+2024 ஆம் ஆண்டு ஜனாதிபதி தேர்தலை முன்னிட்டு ஐக்கிய மக்கள் கூட்டணி ஏற்பாடு செய்த 66 ஆவது வெற்றி பேரணி  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் நேற்று செவ்வாய்க்கிழமை  (17)
+
+கேகாலையில் மிக வெற்றிகரமாக முன்னெடுக்கப்பட்டது. இதில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு தெரிவித்தார்.
+
+அநுர ரணில் டீல் செய்து கொண்டு தன்னை தோல்வியடைய செய்ய முயற்சிக்கின்றனர். தாம் இந்த நாட்டிற்கு சேவை செய்வேன் என்று அவர்கள் அச்சம் கொண்டுள்ளார்கள் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/df8f53ef.json)
+
+---
+
 ### Anura Kumara outlines plans for IT growth, tourism boost, and agri independence
 
 *2024-09-18 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102054/anura-kumara-outlines-plans-for-it-growth-tourism-boost-and-agri-independence) · `en`
@@ -135,6 +223,24 @@ He also emphasized his plans for the IT industry, saying, “Currently, the expo
 [Data](articles/82ad6f08.json)
 
 [Extended Data](ext_articles/82ad6f08.ext.json)
+
+---
+
+### සජිත්ගේ හා අනුරගේ දේශපාලන බිල්ලක් වී අනාගතය අඳුරු කර ගන්න එපා
+
+*2024-09-18 11:15:04* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-හා-අනුරගේ-දේශපාලන-බිල්ලක්-වී-අනාගතය-අඳුරු-කර-ගන්න-එපා/11-411989) · `si`
+
+ඉදිරි වසර 10 තුළ සෑම දරුවෙකුටම ඉංග්‍රීසි භාෂාවේ ප්‍රවීනත්වයක් ලබා ගැනීමට අවශ්‍ය ප්‍රවේශය සකස් කරන බවත් ඒ වෙනුවෙන්  " English for all" වැඩසටහන ක්‍රියාවට නංවන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසිය.
+
+මෙම යෝජනාව  තමා අධ්‍යාපන අමාත්‍යවරයා ලෙස  එදාද අධ්‍යාපන ධවල පත්‍රිකාව මගින් ගෙන ආ අවස්ථාවේ ජනතා විමුක්ති පෙරමුණ ඊට විරුද්ධව පාරට බැස්ස බව සිහිපත් කළ ජනාධිපතිවරයා එදා එම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට හැකි වුවා නම් අද ඉංග්‍රිසි භාෂාව පිළිබඳ ගැටළුවක් රට තුළ නිර්මාණය නොවන බවද පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳන් කර සිටියේ ඊයේ (17) මල්වාන ජනතාව සමඟ පැවති හමුවෙන් අනතුරුව ඉංග්‍රීසි භාෂාව පිළිබඳ දැනුමක් නොතිබීම හේතුවෙන් තරුණ තරුණියන් මුහුණ දෙන ගැටළුවලට රජයේ විසදුම කුමක්ද කියා
+
+Gen Z පරපුරට හොඳ අනාගතයක් නිර්මාණය කර දීම තම අරමුණ බව පැවසු ජනාධිපතිවරයා සැලසුම් නොමැති බොරු පොරොන්දුවලට සීමා වූ  සජිත්ගේ සහ අනුරගේ දේශපාලන අවශ්‍යතාවල බිල්ලක් නොවන ලෙසද තරුණ තරුණියන්ගෙන් ඉල්ලා
+
+...
+
+[Data](articles/5da1f5ac.json)
 
 ---
 
@@ -208,6 +314,26 @@ Meanwhile, Udaya Gammanpila said that steps will be taken to defeat the 13th Ame
 
 ---
 
+### ஊழலிற்கு உதவினார் என்பது உறுதியானால் ரணிலுக்கு எதிராகவும் சட்டநடவடிக்கை - சஜித்
+
+*2024-09-18 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/193989) · `ta`
+
+ஜனாதிபதி ரணில்விக்கிரமசிங்க ஊழலிற்கு உதவினார்  என தெரிந்தால் அவருக்கு எதிராக நடவடிக்கை எடுக்க தயங்கமாட்டேன் என ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+கடந்த காலத்தின் பாரிய மோசடிகள் தொடர்பில்சட்ட நடவடிக்கை எடுப்பேன் என உறுதியளித்துள்ள சஜித்பிரேமதாச குற்றங்களிற்கு தற்போதைய ஜனாதிபதி உதவினார் துணைபோனார்  என தெரியவந்தால் அவருக்கு எதிராகவும் நடவடிக்கை எடுப்பேன் என தெரிவித்துள்ளார்.
+
+ரணில்விக்கிரமசிங்க போன்ற ஒருவர் ஊழலிற்கு உதவினார் என தெரியவந்தால் என்பது உறுதியானால் நடவடிக்கை எடுப்பீர்களா என்ற கேள்விக்கு 100 வீதம் என அவர் தெரிவித்துள்ளார்.
+
+மத்திய வங்கி பிணைமுறிமோசடி போன்ற பொதுமக்களாலும் அரசியல்அரங்கிலும் பேசப்படும் மோசடிகள் குறித்தும் விஎஸ்எவ் விவகாரம் குறித்தும் நடவடிக்கை எடுப்பீர்களா என்ற கேள்விக்கு தனது கட்சி சட்டத்தை நடைமுறைப்படுத்தும் என சஜித்பிரேமதாச தெரிவித்துள்ளார்.
+
+தேர்தல் மேடைகளில்  ஊழலிற்கு எதிராக நடவடிக்கை எடுப்பதாக தெரிவிப்பவர்கள் போல இல்லாமல் நாங்கள் ஊழலை ஒழிப்பது குறித்து உண்மையான ஆர்வத்தை கொண்டுள்ளோம்,என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/70369f99.json)
+
+---
+
 ### Namal ready to accounted for every loan
 
 *2024-09-18 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201143) · `si`
@@ -230,6 +356,22 @@ He was speaking at a public brief in the Kotikawatta, yesterday (17).
 
 ---
 
+### திருகோணமலையில் தமிழ், முஸ்லிம் மக்களை அச்சுறுத்தும் தீவிரமடையும் நில அபகரிப்பு
+
+*2024-09-18 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/193984) · `ta`
+
+அமெரிக்காவை தளமாகக் கொண்டு, பிரதானமாக காணி உரிமைகள் தொடர்பில் ஆய்வுகளை மேற்கொள்ளும் ஓக்லேன்ட் நிலையம் (The Oakland Institute), இலங்கையின் கிழக்கு மாவட்டமான திருகோணமலையில், வளம் மிகுந்த விளை நிலங்கள் அபகரிக்கப்படுவது வேகமெடுத்துள்ளது என தனது புதிய அறிக்கை ஒன்றில் கூறியுள்ளது.
+
+பல தசாப்தங்களாக சிங்கள மக்களின் வலிந்த குடியேற்றம் காரணமாக, திருகோணமலை மாவட்டத்தின் குடிபரம்பல் கணிசமாக மாறியுள்ளது எனவும், நில உடமையில் பாரிய சமமின்மை நிலவுகிறது எனவும் அந்த அறிக்கை சுட்டிக்காட்டுகிறது.
+
+முன்னதாக ஜேர்மனியில் அரச ஊடகமான டோய்ச்சு வெலெவிற்கு (Deutsche Welle) அளித்த செவ்வி  ஒன்றில் அமைச்சர் அலி சப்ரி, நாட்டின் வடக்கு பகுதியில் படைகள் ஆக்கிரமித்துள்ள நிலங்களில் 90 சதவீதமான காணிகள் நியாயமான உரிமையாளர்களின் திருப்பி அளிக்கப்பட்டுவிட்டதாக கூறியிருந்தார். ஆனால் அந்த தகவல் தவறு என இலங்கை தமிழரசுக் கட்சியின், யாழ்ப்பாண மாவட்ட நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் அதை மறுத்திருந்தார்.
+
+...
+
+[Data](articles/f8ff959a.json)
+
+---
+
 ### Sajith's relief to children faced scholarship
 
 *2024-09-18 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201142) · `si`
@@ -245,6 +387,24 @@ The presidential candidate Sajith Premadasa, the Presidential Department of the 
 [Data](articles/a863702b.json)
 
 [Extended Data](ext_articles/a863702b.ext.json)
+
+---
+
+### வாகன விபத்தில் மூன்றரை வயதுடைய குழந்தை உயிரிழப்பு - ஐவர் காயம் !
+
+*2024-09-18 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/193981) · `ta`
+
+தெஹியத்தகண்டிய பொலிஸ் பிரிவிற்குட்பட்ட பொலன்னறுவை-  மஹியங்கனை வீதியில் லத்பந்துர சந்தி பாலத்திற்கு அருகில் இடம்பெற்ற விபத்தில் மூன்றரை வயதுடைய குழந்தை உயிரிழந்துள்ளதுடன், ஐவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பொலன்னறுவையிலிருந்து மஹியங்கனை நோக்கிப் பயணித்த வேன் ஒன்று எதிர்த்திசையில் பயணித்த முச்சக்கரவண்டியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+விபத்தில் முச்சக்கரவண்டியின் சாரதியும் அவருடைய மனைவி மற்றும் பிள்ளைகள் காயமடைந்துள்ளதுடன்  தெஹியத்தகண்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் மூன்றரை வயதுடைய குழந்தை சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதேவேளை, வேனின் சாரதியும் வேனில் பயணித்த இளைஞனும் காயமடைந்துள்ள நிலையில் தெஹியத்தகண்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் வேனின் சாரதி கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/391fd51b.json)
 
 ---
 
@@ -273,6 +433,18 @@ Since special status was canceled in 2019, there was no assembly elections. Afte
 [Data](articles/99fd58f1.json)
 
 [Extended Data](ext_articles/99fd58f1.ext.json)
+
+---
+
+### சிறுவர்கள், பெண்களின் உரிமையை நாட்டின் அடிப்படை உரிமையாக மாற்றி பாதுகாப்பை வழங்குவோம் - சஜித் பிரேமதாச
+
+*2024-09-18 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/193986) · `ta`
+
+பெண்கள் மற்றும் சிறுவர்கள் இந்த இரண்டு பிரிவினரையும் இரண்டாகப் பிரிக்காமல் ஒன்றாக செயல்படுத்த வேண்டும். ஐக்கிய மக்கள் சக்தி அரசாங்கத்தின் ஊடாக பெண்களுக்கான புதிய வேலைத் திட்டத்தை நாட்டிற்கு வழங்குவோம். பெண்களுக்கும் சிறுவர்களுக்குமான உரிமை அரசியல் யாப்பில் குறிப்பிடப்பட்டிருக்கிறது. இதனை விசேடமாக அரசியல் யாப்பில் குறிப்பிட்டு அதனை அடிப்படை உரிமையாக மாற்றுகின்ற யாப்பு திருத்தம் ஒன்றை கொண்டு வருவோம். அதன் மூலம் சிறுவர்களுக்கும் பெண்களுக்குமான விசேட வரவேற்பும் கௌரவமும் மரியாதையும் கிடைக்கும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/5a10c20e.json)
 
 ---
 
@@ -2005,263 +2177,5 @@ It was noted that the job was provided under the Memorandum of Understanding bet
 [Data](articles/fc0fd418.json)
 
 [Extended Data](ext_articles/fc0fd418.ext.json)
-
----
-
-### Hope springs eternal: Not in politics!
-
-*2024-09-17 22:57:00* · [`islandlk`](http://island.lk/hope-springs-eternal-not-in-politics/) · `en`
-
-...
-
-[Data](articles/c596f0ac.json)
-
----
-
-### Why the doom and gloom?
-
-*2024-09-17 22:56:00* · [`islandlk`](http://island.lk/why-the-doom-and-gloom/) · `en`
-
-It is true that in the distant past Sri Lankan elections were emotionally charged affairs resulting in violence. However, as a battle-hardened nation with an increasingly well-informed citizenry, that trend has changed for the better. For example, Sri Lanka 2022 Human Right report stated, “Domestic observers described the election as peaceful, technically well managed, and safe considering the COVID-19 pandemic but noted that unregulated campaign spending, abuse of state resources, and media bias affected the level playing field,” referring to the 2020 election. As of this writing, the Election Commission has reported a 43% drop in violations in the current cycle with eleven instances of violence. Even though no violations can be accepted, this is a promising trend, people are beginning to see through the heinous intentions of the perpetrators. One would expect that trend to continue and, judging by the low-key election fervor, which appears to be the case.
-
-...
-
-[Data](articles/2b83c9cb.json)
-
-[Extended Data](ext_articles/2b83c9cb.ext.json)
-
----
-
-### Don't hand over the country to politicians who ask for opportunity and darkened the future!- President
-
-*2024-09-17 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193966) · `ta`
-
-This text appears to be a transcript of a speech given by President Ranil Wickremesinghe during a rally in Minuwangoda, Sri Lanka. The speech covers various topics including the upcoming presidential election, economic recovery efforts, international relations, and comparisons with other political leaders. Here's a brief summary of the main points:
-
-
-
-1. President Wickremesinghe emphasizes his role in stabilizing Sri Lanka's economy after the 2022 crisis.
-
-
-
-2. He criticizes opposition leaders Sajith Premadasa and Anura Kumara Dissanayake for fleeing the country during the crisis.
-
-
-
-3. Wickremesinghe highlights his ability to negotiate with international organizations like the IMF to bring about economic recovery.
-
-
-
-4. He contrasts himself with other political leaders who he claims failed to address the crisis.
-
-
-
-5. The president appeals to voters to support him in the upcoming election, emphasizing his experience and international connections.
-
-
-
-6. He mentions various initiatives taken by his government, including land rights programs through Urumaya.
-
-
-
-7. Wickremesinghe frames the election as a choice between stability and potential chaos, urging voters to choose him for continued progress.
-
-
-
-The speech appears to be a campaign rally speech aimed at rallying support for President Wickremesinghe's re-election bid.
-
-🟩
-
-President Ranil Wickremesinghe said that the international community has now accepted that Sri Lanka is the only country that has been the rapidly advanced country after the economic downturn and that the country can certainly be on the path to progress in the next five years by making such a revolution.
-
-The President called on the people to join the project, and asked the people not to dear the country and the future of the country and to make the country and the future dark.
-
-President Ranil Wickremesinghe made this statement while addressing the 'Ranilal Charm' Victory rally in Minuwangoda this afternoon.
-
-A large number of people participated in the rally, which was organized to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election.
-
-...
-
-[Data](articles/32d742b5.json)
-
-[Extended Data](ext_articles/32d742b5.ext.json)
-
----
-
-### No work promises - Namal
-
-*2024-09-17 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201130) · `si`
-
-Namal Rajapaksa, Sri Lanka Civil Front president, addressed a rally in Ratnapura. He criticized political promises, saying "Our policies have no work." Rajapaksa claimed to have made revolutionary changes in the country.
-
-🟩
-
-Namal Rajapaksa, president of the Sri Lanka Civil Aru
-
-He was addressing a rally in Ratnapura today (17).
-
-"Some people diminish different things. People know about political promises.  ජනතාව මෙවැනි සුරංගනා කතා අහලා තියෙනවා. An election to look for this political stage. Our policies have no work. "
-
-The presidency of the Sri Lanka Civil Front Namal Rajapaksa said that he has made a revolutionary change in the country under control.
-
-He was speaking at a public meeting organized by a group of people who had organized a group of people in Kolonnawa electorate.
-
-◼️
-
-[Data](articles/601388b2.json)
-
-[Extended Data](ext_articles/601388b2.ext.json)
-
----
-
-### Hezbollah members among hundreds wounded after pagers explode in Lebanon and Syria, officials say
-
-*2024-09-17 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102047/hezbollah-members-among-hundreds-wounded-after-pagers-explode-in-lebanon-and-syria-officials-say) · `en`
-
-Hundreds of handheld pagers exploded near simultaneously across Lebanon and in parts of Syria on Tuesday, wounding members of the militant group Hezbollah, the Iranian ambassador and dozens of other people.
-
-Officials pointed the finger at Israel in what appeared to be a sophisticated, remote attack at a time of rising tensions across the Lebanon border.
-
-A Hezbollah official who spoke on condition of anonymity told The Associated Press that “several hundred” people, including members of the group, were wounded in different parts of Lebanon when their handheld pagers exploded. He said a few Hezbollah fighters were also wounded in Syria when the pagers they were carrying exploded, and said it was believed to be an Israeli attack.
-
-The Associated Press reached out to the Israeli military, which declined to comment.
-
-...
-
-[Data](articles/6c673ed0.json)
-
-[Extended Data](ext_articles/6c673ed0.ext.json)
-
----
-
-### There is a conspiracy to defeat me - Sajith
-
-*2024-09-17 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201129) · `si`
-
-Sajith Premadasa accuses rivals of plotting against him. Claims Ranil Wickremesinghe and Anura Kumara Dissanayake want his defeat. Speaks at rallies in Kegalle and Hettipola.
-
-🟩
-
-The presidential candidate Sajith Premadasa, Sagith Premadasa, says that Ranil Wickremesinghe and Anura Kumara Dissanayake are engaged in defeat.
-
-He was speaking at a rallies in Kegalle this afternoon.
-
-"I have come here to come here and made a meeting here. But it came alone. Mr. Ranil Wickremesinghe did not come. Now just having a deel. You have to defeat Sajith Premadasa. Why?. They're afraid. "
-
-Meanwhile, another rally was held at Hettipola's election campaign to the presidential candidate Sajith Premadasa of the Samagiens.
-
-◼️
-
-[Data](articles/43438011.json)
-
-[Extended Data](ext_articles/43438011.ext.json)
-
----
-
-### Chameleon Politics
-
-*2024-09-17 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/193952) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Chameleon politics fails; social justice activists oppose Indian agreements. Tamils reject compromise. Dileepan's martyrdom fuels resistance against political betrayal and genocide. National aspirations remain unfulfilled despite challenges. Political integrity sought; chauvinist forces countered. Journey continues toward goals despite failures.
-
-🟩
-
-Chameleon politics, the colder of the politics, the pulling us into the powerful politics will fail. Until then, we will travel towards our goal, said Social justice activist and a co -ordinator of the National Organization for the release of political prisoners.
-
-Those who live in the northeastern Tamil homeland are shedding tears day by day when the blood of the genocide is raising the voice for the nationality of the warmacists and the genocide of the war sutras and the genocide.
-
-Tamils ​​are political traitors. In their words, we would like to emphasize that trying to vote and go to the polling booth is like killing the survivors of nationalism.
-
-This is the month of Dileepan's life.
-
-...
-
-[Data](articles/1e26b889.json)
-
-[Extended Data](ext_articles/1e26b889.ext.json)
-
----
-
-### You need to win the other partner - Anura
-
-*2024-09-17 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201128) · `si`
-
-Anura Kumara Dissanayake addresses rallies, promising protection and accountability. He emphasizes winning over voters and forming a responsible government.
-
-🟩
-
-The presidency of the National Institute of National Power will protect the people of the people, says Anura Kumara Dissanayake.
-
-He was speaking at a rally in Mawathagama today (17).
-
-"It is wrong for leaders that they have been mistaken for a while. We have no right to get the people more times. Surely protecting the confidence you put on us. On the 21st, we want to think that those who did not vote for us. When we go to our administration, they should think that the vote was to be voted. We have to make a government to win the other partner "
-
-Meanwhile, another rally was held at Weeraketiya yesterday (17) to ensure the win of Presidential candidate Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/6e9b49fb.json)
-
-[Extended Data](ext_articles/6e9b49fb.ext.json)
-
----
-
-### Tamil National Parties confuse the people and confuse the people - Douglas Devananda
-
-*2024-09-17 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/193955) · `ta`
-
-Douglas Devananda criticizes Tamil nationalist parties for confusing voters in Sri Lanka's elections. He states that people in the North and East understand the presidential election but are unclear about general election candidates. Devananda supports Ranil Wickremesinghe for president and claims Tamil parties confuse themselves and others regarding elections.
-
-🟩
-
-Fisheries Minister KN is the common nature of the Tamil nationalist parties that they and the people are confused about the election.. Douglas Devananda said.
-
-He was speaking at a media briefing after attending an event on Wednesday (17) in Karadivu in Ampara District.
-
-The people of the North and East are clear about the presidential election.. This is because every part of the Northeast may have policy programs.
-
-Apart from this, the election boycott of the general candidates is clear. We will learn about it on the 22nd. However, my Presidential candidate Amman Ranil Wickremesinghe is my choice and will.
-
-The Tamil nationalist parties in the North and East are the common nature of confusing themselves and the people in the matter of election.
-
-◼️
-
-[Data](articles/ba4771e0.json)
-
-[Extended Data](ext_articles/ba4771e0.ext.json)
-
----
-
-### Notification of Silent Time
-
-*2024-09-17 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201127) · `si`
-
-Silent period begins midnight tomorrow until Saturday. No campaigning allowed during this time. Major candidates' final rallies scheduled across Colombo and suburbs. Police and security forces providing special protection for events.
-
-🟩
-
-The election campaign to the presidential election is due to expire at midnight tomorrow (18).
-
-Accordingly, the silent period will be carried out from 12 midnight tomorrow to Saturday 21st.
-
-During this period, no form of advertising has been promoted to the police to arrest any party that violates election rules and implement the law.
-
-The final waves of the major candidates who have been contesting for the presidential election will be held tomorrow in several parts of Colombo and suburbs.
-
-Independent candidate Ranil Wickremesinghe, Candidate Sajith Premadasa, the presidential candidate entrepreneurship of the Sri Lanka Pranayaka The Chief Justice Namal Rajapaksa is the main waves of Namal Rajapaksa.
-
-Accordingly, the final rally of independent candidate Ranil Wickremesinghe has been planned in the middle of the middle.
-
-The final rally of the candidate Sajith Premadasa of the Samagiens The last rally will be held in the middle of the area.
-
-...
-
-[Data](articles/16404557.json)
-
-[Extended Data](ext_articles/16404557.ext.json)
 
 ---

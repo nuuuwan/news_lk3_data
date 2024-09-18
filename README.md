@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 06:06:34**
+As of **2024-09-18 05:43:45**
 
 ## Newspaper Stats
 
-*Scraped **44,441** Articles*
+*Scraped **44,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 428
 colombotelegraphcom | 441
-islandlk | 2,615
+islandlk | 2,611
 economynextcom | 2,688
 dailyftlk | 2,961
 adalk | 4,098
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,437 (100.0%) of 44,441 articles have been extended.
+44,437 (100.0%) of 44,437 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -723,18 +723,6 @@ It was noted that the job was provided under the Memorandum of Understanding bet
 [Data](articles/fc0fd418.json)
 
 [Extended Data](ext_articles/fc0fd418.ext.json)
-
----
-
-### Why the doom and gloom?
-
-*2024-09-17 22:56:00* · [`islandlk`](http://island.lk/why-the-doom-and-gloom/) · `en`
-
-It is true that in the distant past Sri Lankan elections were emotionally charged affairs resulting in violence. However, as a battle-hardened nation with an increasingly well-informed citizenry, that trend has changed for the better. For example, Sri Lanka 2022 Human Right report stated, “Domestic observers described the election as peaceful, technically well managed, and safe considering the COVID-19 pandemic but noted that unregulated campaign spending, abuse of state resources, and media bias affected the level playing field,” referring to the 2020 election. As of this writing, the Election Commission has reported a 43% drop in violations in the current cycle with eleven instances of violence. Even though no violations can be accepted, this is a promising trend, people are beginning to see through the heinous intentions of the perpetrators. One would expect that trend to continue and, judging by the low-key election fervor, which appears to be the case.
-
-...
-
-[Data](articles/2b83c9cb.json)
 
 ---
 
@@ -2357,5 +2345,33 @@ Youths in this country were not employed for four years. We have a self employme
 [Data](articles/9e99d8c6.json)
 
 [Extended Data](ext_articles/9e99d8c6.ext.json)
+
+---
+
+### Nearly 40 million people die
+
+*2024-09-17 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201114) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Superbug crisis: Nearly 40 million deaths predicted by 2050 due to antibiotic-resistant bacteria and fungi. WHO warns of growing global health threat. Research indicates 520 million affected."
+
+🟩
+
+A new report has revealed that nearly 40 million people could kill, 2025 and 2050 due to non-controlled bacterial and fungus from drugs.
+
+This report posted by the Lancast 'The report is named' Superbag Crisis', the 'Superbag crisis'.
+
+The World Health Organization warned that such microbilics is a growing global public health risk that will not be resistant to drugs.
+
+This research has been discovered that the research has been made by nearly 520 million people, this research has been found in this crisis.
+
+◼️
+
+[Data](articles/6f7a5b0e.json)
+
+[Extended Data](ext_articles/6f7a5b0e.ext.json)
 
 ---

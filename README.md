@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 20:57:11**
+As of **2024-09-18 21:10:03**
 
 ## Newspaper Stats
 
-*Scraped **44,586** Articles*
+*Scraped **44,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,694
 dailyftlk | 2,962
 adalk | 4,119
 dailymirrorlk | 4,733
-adaderanalk | 5,247
+adaderanalk | 5,248
 tamilmirrorlk | 5,827
 virakesarilk | 7,128
 adaderanasinhalalk | 7,636
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,586 (100.0%) of 44,586 articles have been extended.
+44,586 (100.0%) of 44,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Sri Lanka to exit bankruptcy after tomorrow’s talks with sovereign bondholders - President
+
+*2024-09-18 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102066/sri-lanka-to-exit-bankruptcy-after-tomorrows-talks-with-sovereign-bondholders-president) · `en`
+
+President Ranil Wickremesinghe announced that a crucial discussion between the Government of Sri Lanka and international sovereign bondholders will take place tomorrow (19).
+
+Following this meeting, Sri Lanka is expected to receive international support once the country’s bankruptcy is fully resolved, he said.
+
+The President also expressed his satisfaction, stating that he was entrusted with a task and he is pleased to report that the work entrusted to him has been successfully completed by September 21.
+
+He made these remarks during the “Ranil Can” election rally held at the Matara Uyanwatta Stadium earlier today (18).
+
+President Wickremesinghe highlighted that he successfully addressed the country’s economic crisis with the motto “Puluwan Sri Lanka” (Yes we Can) and emphasized that the current focus is on developing the nation under the same banner.
+
+He stressed the importance of electing a leader capable of leading the country forward.
+
+...
+
+[Data](articles/7274c0dc.json)
+
+---
 
 ### Here is the full story of the incident that Sajith absented at 360 Derana
 
@@ -2429,23 +2451,5 @@ Anura Kumara Dissanayake made this statement participating at the rally held in 
 [Data](articles/4584ae43.json)
 
 [Extended Data](ext_articles/4584ae43.ext.json)
-
----
-
-### Ranil says next year's relief
-
-*2024-09-18 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201138) · `si`
-
-Ranil Wickremesinghe predicts rupee strengthening by next year under current economic conditions.
-
-🟩
-
-Independent Presidency, Ranil Wickremesinghe says that the rupee will be further strengthened by next year under the existing economic system.
-
-◼️
-
-[Data](articles/c17a0da8.json)
-
-[Extended Data](ext_articles/c17a0da8.ext.json)
 
 ---

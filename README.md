@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 15:57:22**
+As of **2024-09-18 16:11:05**
 
 ## Newspaper Stats
 
-*Scraped **44,540** Articles*
+*Scraped **44,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,65 @@ dailymirrorlk | 4,733
 adaderanalk | 5,241
 tamilmirrorlk | 5,816
 virakesarilk | 7,119
-adaderanasinhalalk | 7,626
+adaderanasinhalalk | 7,628
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,540 (100.0%) of 44,540 articles have been extended.
+44,542 (100.0%) of 44,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### Another decision of the court regarding Deshabandu's incident
+
+*2024-09-18 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201154) · `si`
+
+Supreme Court rejects interim petition to lift injunction in Deshabandu case. Three judges hear arguments from Buddhist monks and academics. Decision made without disclosing reasoning.
+
+🟩
+
+The Supreme Court today rejected the Supreme Court today (18) a interim petition filed by Deshabandu Tennakoon to remove the interim injunction.
+
+These petitions were presented by Ven. Bellanwila Dhammaratana Thero, Professor Thakkada Sirisumana and Kotipitiya Rahula Thera.
+
+The intermediate petition was called before the three-member Supreme Court Bench, Yasantha Kodagoda, Aethantha Kodagoda, Aetala Windsuli and Mahinda Samayawardena today.
+
+Judge, Judge Yasantha Kodagoda, announced by the intermediate petition, was revealed that he was not disclosed in the context of the intermediate petition.
+
+◼️
+
+[Data](articles/eb5226da.json)
+
+[Extended Data](ext_articles/eb5226da.ext.json)
+
+---
+
+### The Kindu is like a world record
+
+*2024-09-18 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201153) · `si`
+
+Kindu Mendis breaks world record in Sri Lanka vs New Zealand test match. He scores 50+ runs, surpassing Pakistan's group mark in first innings.
+
+🟩
+
+Sri Lankan cricket team, Komindu Mendis, has been able to comply with a World Test report.
+
+The Sri Lankan team and the New Zealand team are currently in the first Test match at Galle.
+
+The world's growth was added by a batsman with 50 or 50 runs by a batsman.
+
+The Pakistan's Group's game player has been able to collect over its first innings or 50 marks.
+
+◼️
+
+[Data](articles/0031f9e0.json)
+
+[Extended Data](ext_articles/0031f9e0.ext.json)
+
+---
 
 ### Police seek public assistance to arrest a suspect
 
@@ -2289,45 +2337,5 @@ This national event, held for the third consecutive year, will be held in Januar
 [Data](articles/ded71d64.json)
 
 [Extended Data](ext_articles/ded71d64.ext.json)
-
----
-
-### The President inaugurated South Asia's largest vehicle coordination factory at Kiliyapitiya
-
-*2024-09-18 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/193972) · `ta`
-
-South Asia's largest vehicle factory inaugurated in Kiliyapitiya. $27m investment creates 50,000 annual vehicles. Employs youth, strengthens economy. Project delayed due to opposition, COVID, and economic crisis. President Wickremesinghe vows to support development initiatives.
-
-🟩
-
-President Ranil Wickremesinghe on Tuesday (17) inaugurated the factory that integrates modern vehicles to the Western Ottomobile Assembly Limited (WAA), to mark a unique turning point in the country's vehicle manufacturing industry.
-
-Western Otomobile Assembly Private Limited, the largest vehicle coordination factory in South Asia, has spent $ 27 million to launch the factory. The first vehicle with 15 seats integrated at the factory is due to come to the market later this month.
-
-The factory, fitted with the high -quality international machines designed by global automotive experts, will create direct and indirect employment opportunities for young people.
-
-In addition to the global industrial needs, the International Quality Vocational Training Institute has been launched here and the opportunity to apply for foreign jobs in this country.
-
-...
-
-[Data](articles/04759f10.json)
-
-[Extended Data](ext_articles/04759f10.ext.json)
-
----
-
-### EDB and University of Moratuwa collaborate to boost engineering excellence of entrepreneurs
-
-*2024-09-18 03:14:37* · [`dailyftlk`](https://www.ft.lk/business/EDB-and-University-of-Moratuwa-collaborate-to-boost-engineering-excellence-of-entrepreneurs/34-766828) · `en`
-
-Projects being tested at LECO-MOU Smart Grid Research Lab at University of Moratuwa
-
-The Sri Lanka Export Development Board (EDB) has established a partnership with the Engineering Faculty of the University of Moratuwa by signing a Memorandum of Understanding (MoU) to enhance collaboration between the academia and the entrepreneurs of construction, power and energy, and engineering services in Sri Lanka.
-
-...
-
-[Data](articles/47ff0ca6.json)
-
-[Extended Data](ext_articles/47ff0ca6.ext.json)
 
 ---

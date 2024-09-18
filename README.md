@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 22:23:46**
+As of **2024-09-18 22:38:02**
 
 ## Newspaper Stats
 
@@ -26,57 +26,75 @@ adaderanasinhalalk | 7,640
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,600 (100.0%) of 44,605 articles have been extended.
+44,605 (100.0%) of 44,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
 
-### හැමෝගෙම අතින් අඩුපාඩු වෙනවා - නාමල්
+### Everygo is shortcomings - Namal
 
 *2024-09-18 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201169) · `si`
 
-රාජපක්ෂවරුන් මහජන මුදල් සොරකම් කර නොමැති බව ඕනෑම අධිකරණයක් ඉදිරියේ ඔප්පු කිරීමට තමන් සූදානම් බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa denies stealing public funds, claims government accused them falsely. He challenges prosecution, stating "We'll make the shortcomings." This statement was made during a rally in Galle.
 
-ඔහු මෙම අදහස් පළ කළේ ගාල්ල ප්‍රදේශයේ පැවති ජන රැලියක් අමතමිනි.
+🟩
 
-"යහපාලන ආණ්ඩුව සිතුවා මත්තල හැදුවේ වී ගබඩා කරන්න කියලා. සූරියවැව ක්‍රීඩාංගණය වහලා දැම්මා. අපිව හිරේ දැම්මට අපි සොරකම් කරලා නැහැ. පුළුවන්නම් අපිට නඩු පවරන්න. නිර්දෝෂි භාවය ඔප්පු කරන්න සූදානම්. හැමෝගෙම අතින් අඩුපාඩු වෙනවා. අපි අඩුපාඩු හදාගන්නම්."
+Presidential candidate at the Sri Lanka General Front Namal Rajapaksa says that the Rajapaksas have not stolen public money.
+
+He made these comments addressing a rally in Galle.
+
+"The government thought it was thought to be stored in Mattala. Sooriyawewa Stadium shutted. We haven't stolen us to put us in jail. If you can prosecute us. Ready to prove innocence. The deficiencies of everyone. We'll make the shortcomings. "
 
 ◼️
 
 [Data](articles/b0799f09.json)
 
+[Extended Data](ext_articles/b0799f09.ext.json)
+
 ---
 
-### ඡන්දෙ ඉවරවෙලා සති 2කින් සුබ ආරංචියක් - රනිල්
+### Happy news in 2 weeks - Ranil
 
 *2024-09-18 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201168) · `si`
 
-සති දෙකක් තුළ රට නිල වශයෙන් බංකොලොත්භාවයෙන් මිදෙන බව ස්වාධීන ජනාධිපති ධුර අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා අනාවරණ කරයි.
+Sri Lanka faces bankruptcy in 2 weeks: President Ranil Wickremesinghe announces IMF agreement, bond restructuring plan to prevent default.
 
-අද (18) ගාල්ලේ පැවති ''රනිල්ට පුළුවන්'' ජන රැලිය අමතමින් ඔහු මෙම අදහස් පළ කළේය.
+🟩
 
-"මම IMF සංවිධානයත්...ලෝක බැංකුවත්.. ආසියානු සංවර්ධන බැංකුවත් එක්ක සාකච්ඡා කළා. අපේ වගේ මධ්‍යම ආදායම් රටකට සුදුසු ගිවිසුමකට පැමිණියා. දැන් බංකොලොත්භාවය නැති කරන්න තුන්වැනි කණ්ඩායම සමගත් ගිවිසුමකට එළැඹිය යුතුයි. ඒ තමයි පුද්ගලික බැඳුම්කරුවන්. ඒ ගිවිසුමත් හෙට වෙනකොට අවසන් කරනවා. එහෙමනම් මම මේ ඡන්දෙට එන්නේ මූලික යුතුකම් ඉටු කරලා. මේ රටේ බංකොලොත්භාවය නැති කරන නිල තත්ත්වයට ඇවිත් තියෙන්නේ."
+Ranil Wickremesinghe reveals that the country is officially drunk in bankruptcy within two weeks.
 
-"IMF අධ්‍යක්ෂකවරිය කිව්වා මේවා අපි මාරු කරන්නේ නැහැ කියලා. ඡන්දෙ ඉවරවෙලා සති දෙකකින් ඔවුන් එනවා මේ වැඩකටයුතු ඉවර කරන්න. එතකොට කියන්න යනවා බංකොලොත්භාවය අවසන් කියලා."
+He was addressing the 'Ranil' to address the rally of the people today (18).
+
+"I am the IMF and the World Bank.. Discussed with Asian Development Bank. We came to an agreement with a central income country like our. Now the third group should enter a covenant agreement to eliminate the bankruptcy. Those are personal bonds. The covenant will be completed tomorrow. Then I am coming to this election fundamental duties. In this country has come to the loss of the bankruptcy. "
+
+"IMF Director said they don't change these. They come in two weeks of the end of the election. Then you say that bankruptcy is over. "
 
 ◼️
 
 [Data](articles/f52f369e.json)
 
+[Extended Data](ext_articles/f52f369e.ext.json)
+
 ---
 
-### ලෙබනනයේ තවත් පිපිරීම් මාලාවක්
+### Another series of explosions in Lebanon
 
 *2024-09-18 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201167) · `si`
 
-ජාත්‍යන්තර මාධ්‍ය පැවසුවේ "වෝකි ටෝකි" යන්ත්‍ර පිපිරීමෙන් පුද්ගලයන් 09 දෙනෙකු මියගොස් 300කට අධික පිරිසක් තුවාල ලබා ඇති බවය.
+Explosions in Lebanon: 9 dead, over 300 injured. Previous blast reported yesterday. War tensions escalate.
 
-මීට දිනකට පෙර ලෙබනනය පුරා පේජර් පුපුරා යෑමෙන් 12 දෙනෙක් මියගොස් තිබූ අතර එහි උණුසුම මැකී යෑමටත් පෙර මෙලෙස වෝකි ටෝකි" යන්ත්‍ර පුපුරා ගොස් තිබේ.
+🟩
+
+The International Media said Nine persons were killed and more than 300 were injured in the explosion of the machine.
+
+Previously, a pabr exploded throughout Lebanon a day ago, 12 wokkey Tokie, "the war has erupted.
 
 ◼️
 
 [Data](articles/8f16797b.json)
+
+[Extended Data](ext_articles/8f16797b.ext.json)
 
 ---
 
@@ -338,19 +356,25 @@ So, go and boldly go and vote for the telephone symbol, "said Mano Ganesan, lead
 
 ---
 
-### අභිමානවත් රටක් ලෙස තුන් සිංහලය ඉදිරියට ගෙනි යනවා
+### The Sinhalese will take a proud country as a proud country
 
 *2024-09-18 19:48:20* · [`adalk`](https://www.ada.lk/breaking_news/අභිමානවත්-රටක්-ලෙස-තුන්-සිංහලය-ඉදිරියට-ගෙනි-යනවා/11-412012) · `si`
 
-නව ආර්ථිකයක් ඇති කරමින් විදේශ විනිමය සිඟා නොකා අභිමානවත් රටක් ලෙස තුන්සිංහලය ඉදිරියට ගෙන යාම වෙනුවෙන් සැප්තැම්බර් 21 වැනිදා ගෑස් සිලින්ඩරයට ඡන්දය ලබාදෙන ලෙස ස්වාධීන ජනාධිපති අපේක්ෂක රනිල් වික්‍රමසිංහ මහතා පැවසීය. ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (18දා)  මාතර උයන්වත්ත ක්‍රීඩාංගණය,කළුතර,ගාල්ල,හෝමාගම සහ මැද කොළඹ පැවති “රනිල්ට පුළුවන්” අවසන් ජන රැලි අමතමිනි.
+Ranil Wickremesinghe addresses crowds, promising economic recovery and leadership during challenging times. He emphasizes facing difficulties head-on and making tough decisions for the nation's progress.
 
-“පුළුවන් ශ්‍රී ලංකා” කියා එදා තමන් ආර්ථික අභියෝගයට මුහුණ දී එය ජයග්‍රහණය කළ බව පැවසු ජනාධිපතිවරයා අද  “පුළුවන් ශ්‍රී ලංකා” කියා කියන්නේ රට දියුණු කිරීමට බව පැවසීය.  ඒ අතර රට ඉදිරියට ගෙන යා හැකි නායකයෙක් තෝරා ගැනීමේ වගකීම ජනතාව සතු බවද අවධාරණය කළේය.
+🟩
 
-ජන රැලි ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය.“පසුගිය වසරෙ දෙකේදී අප හැම කෙනෙකුටම අලුත් අත්දැකීමක් ලැබුණා. ඔබ විශ්වාසය තැබූ නායකයන් මේ රටේ ප්‍රශ්නයට මුහුණදීමට නොහැකිව වගකීම් ප්‍රතික්ෂේප කර පැන  ගියා.
+An independent presidential candidate Ranil Wickremesinghe said that the forex condemnation as a prospective country as a country of foreign exchange as a country of foreign exchange and proceed towards the forest country.. President Ranil Wickremesinghe was speaking at the Uyanwatta Stadium, Kalutara, Galle, Homagama, Homagama and central Colombo.
+
+The President said that "Can Sri Lanka" and that the President was able to face the economic challenge, "Sri Lanka said it was said to improve the country.In the meantime, the people have the responsibility of selecting a leader leader.
+
+Addressing the rally of the people, Ranil Wickremesinghe said: "In the last two years, we all had a new experience. The leaders who trusted you rejected their responsibilities unable to face the problem of this country.
 
 ...
 
 [Data](articles/b6de88c7.json)
+
+[Extended Data](ext_articles/b6de88c7.ext.json)
 
 ---
 
@@ -1562,23 +1586,35 @@ Parents have been protesting in front of the Examinations Department for the can
 
 ---
 
-### ජනාධිපතිවරණය 2024: ශ්‍රී ලංකාවේ අනාගතය කලාපීය බලවතුන් අතර දෝලනය වෙයි ද?
+### Presidential Election 2024: Is the Future of Sri Lanka be split among the regional powers?
 
 *2024-09-18 14:38:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5e26q43ewo) · `si`
 
-ජනාධිපතිවරණය 2024: ශ්‍රී ලංකාවේ අනාගතය කලාපීය බලවතුන් අතර දෝලනය වෙයි ද?
+Here's a 200-character summary:
 
-මෑත ඉතිහාසය පුරා චීනය, ඉන්දියාව සහ ඇමෙරිකාව යන ලෝකයේ ප්‍රබල රටවල් ශ්‍රී ලංකාව තුළ සිය න්‍යාය පත්‍ර මුදුන්පත් කර ගැනීම වෙනුවෙන් කටයුතු කරන බවට මැතිවරණ වේදිකාවලදී මෙරට ජනතාවට නිරන්තරයෙන් ඇසෙන ජනප්‍රිය කතාවක් වී තිබේ.
 
-බිඳ වැටුණු මෙරට ආර්ථිකය නැවත ගොඩනැගීමට පසුගිය දෙවසර තුළ රජය ගෙන ගිය වැඩපිළිවෙළ හේතුවෙන්, රට ඉදිරියට ගෙන යාමේ ගමනට ඉන්දියාව, ජපානය ඇතුළු සියලු මිත්‍රශීලි රටවල සහය හිමිව තිබෙන බව මීට දින කිහිපයකට පෙර  කන්තලේ ප්‍රදේශයේ පැවති මැතිවරණ ප්‍රචාරක රැස්වීමක් අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ පැවසුවේය.
 
-2019 වසරේ පැවති ශ්‍රී ලංකා ජනාධිපතිවරණයේදී මැතිවරණ වේදිකාව උණුසුම් කළ මාතෘකාවක් බවට පත්වූයේ මිලේනියම් චැලෙන්ජ් කොපරේෂන් හෙවත් MCC ගිවිසුමයි.
+Sri Lanka's 2024 presidential election may be influenced by regional powers. India, China, and the US are involved, with each having different interests and strategies. The election could impact Sri Lanka's future and relationships with these nations.
 
-2019 වසරේ පැවති ජනාධිපතිවරණයට පෙර MCC ගිවිසුමට අනිවාර්යයෙන්ම අත්සන් තබන බවට සජිත් ප්‍රේමදාස ජනාධිපති අපේකෂකයා ලෙස තරග වැදුණු නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ අවධාරණය කළේය.
+🟩
+
+Presidential Election 2024: Is the Future of Sri Lanka be split among the regional powers?
+
+The people of this country have always been a popular story of the people of Sri Lanka to achieve their agenda in Sri Lanka throughout the recent history.
+
+President Ranil Wickremesinghe addressing a campaign meeting in Kantale a few days ago, President Ranil Wickremesinghe addressing a election campaign in Kantale a few days ago.
+
+The Millennium Changes Regoation, the MCC agreement, became a topic warm presidential election in the 2019 Presidential election.
+
+The New Democratic Front contest to the Presidential Convention that the MCC was signed before the 2019 presidential election.
+
+The Sri Lanka General Front served the President of the Presidential election for the presidential election, and that the agreement is a "American trap" and that the land of Sri Lanka is sold to the "garbage robbery".
 
 ...
 
 [Data](articles/e7f822fe.json)
+
+[Extended Data](ext_articles/e7f822fe.ext.json)
 
 ---
 

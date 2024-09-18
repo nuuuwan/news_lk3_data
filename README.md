@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 01:38:16**
+As of **2024-09-19 01:57:10**
 
 ## Newspaper Stats
 
-*Scraped **44,622** Articles*
+*Scraped **44,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 432
 colombotelegraphcom | 446
 islandlk | 2,623
 economynextcom | 2,703
-dailyftlk | 2,962
+dailyftlk | 2,964
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
@@ -26,9 +26,43 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,622 (100.0%) of 44,622 articles have been extended.
+44,623 (100.0%) of 44,624 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-19 (Thursday)
+
+### Who should be our leader?
+
+*2024-09-19 01:32:54* · [`dailyftlk`](https://www.ft.lk/columns/Who-should-be-our-leader/4-766855) · `en`
+
+The choice of the most suitable Presidential candidate for Sri Lanka depends on several key factors, including the candidate’s vision for economic recovery, governance, accountability, and social welfare, among other areas. Here are a few qualities and areas of focus that could guide the evaluation of a suitable candidate:
+
+Economic expertise: Given Sri Lanka’s ongoing economic challenges, including debt restructuring and inflation, a candidate with strong economic management skills is essential. They should have a track record in promoting sustainable development, attracting investment, and creating jobs.
+
+Reform-oriented mindset: The candidate should prioritise structural reforms in governance, the judiciary, and public institutions. Addressing corruption and implementing transparency measures are key to restoring public confidence.
+
+...
+
+[Data](articles/c04dd73b.json)
+
+[Extended Data](ext_articles/c04dd73b.ext.json)
+
+---
+
+### Great import/re-export scam set to destroy local production
+
+*2024-09-19 01:24:14* · [`dailyftlk`](https://www.ft.lk/columns/Great-import-re-export-scam-set-todestroylocal-production/4-766854) · `en`
+
+In the run up to the Presidential Elections,  what is very visible to the public eye  are  the many incentives, bribes/handouts, gifting of lands, housing, increased Aswesuma  payments, jobs, write off of farmer debts, salary increases, PAYE tax reductions. “You name it and you get it” kind of inducements are given  to all and sundry. This  is practically at the expense of the people and the scarce resources of a bankrupt and  indebted nation.
+
+This article attempts to expose the more insidious and hidden opportunities given to traders and their political supporters alike for circumvention and fraud to thrive in international trade. This is particularly so since it is on the eve of the elections that the Presidential Candidate who is also the Head of the Finance Ministry has decided  to restore some of the concessions hitherto subject to malpractice, misuse and abuse in the import of items for purported value addition and re-export under certain Free Trade Agreements.
+
+...
+
+[Data](articles/7a5fdf63.json)
+
+---
 
 ### 2024-09-18 (Wednesday)
 
@@ -2385,57 +2419,5 @@ All voters also have a right to cast their second and third preferences for two 
 [Data](articles/8ec005e4.json)
 
 [Extended Data](ext_articles/8ec005e4.ext.json)
-
----
-
-### Namal challenges to prove if in any country's abuse wealth
-
-*2024-09-18 12:25:45* · [`adalk`](https://www.ada.lk/breaking_news/අයුතු-ලෙස-උපයාගත්-ධනය-ඕනෑම-රටක-තිබේනම්-ඔප්පු-කරන්නැයි-නාමල්ගෙන්-අභියෝගයක්/11-411993) · `si`
-
-Namal challenges wealth abuse claims, offers global appearance for injunctions. Files not hidden; assets to be revealed. Participated in presidential election under Mahinda Rajapaksa's patronage.
-
-🟩
-
-Appointment of the President of the Sri Lanka Ceremony, Attorney at the Sri Lanka General Arose, is ready to appear before anywhere in the world if the Rajapaksas have an injunction.
-
-File bundles are not hiding, he is also challenging to reveal the assets that he said.
-
-In the presidential election, participating in the presidential election at the Presidential Election, joined the Jamayana in Ratnapura (17). The public was held under the patronage of the leader and former President Mahinda Rajapaksa.
-
-◼️
-
-[Data](articles/aa69ea72.json)
-
-[Extended Data](ext_articles/aa69ea72.ext.json)
-
----
-
-### More than 3000 killed in Lebanon
-
-*2024-09-18 12:20:08* · [`adalk`](https://www.ada.lk/breaking_news/ලෙබනනයේ-ස්ථාන-කිහිපයක-පිපිරීම්---3000ට-වැඩි-පිරිසක්-තුවාල-ලබයි/11-411992) · `si`
-
-Here's a 200-character summary:
-
-
-
-Lebanon explosions: Over 3000 killed/injured, 200 critical. Explosives used in 5000-page transfer machines. Israel blamed, considered terrorism by West.
-
-🟩
-
-Nine explosions have died in explosives in the Lebanon's Bebange.
-
-Over 3000 explosions were injured and 200 of them were in critical condition.
-
-It is said that the explosions have been carried out using explosives for 5,000 page transfer machines.
-
-Take a look at where People We and the WHO The Wee HER SUREED BY WHEN THEIR PAGERS EXPLODED.
-
-This WASrael On Civanon, And Falls Under The West's Supposed definition of Terroism.
-
-◼️
-
-[Data](articles/5f2f66e8.json)
-
-[Extended Data](ext_articles/5f2f66e8.ext.json)
 
 ---

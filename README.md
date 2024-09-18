@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 17:22:08**
+As of **2024-09-18 17:39:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,631
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,560 (100.0%) of 44,564 articles have been extended.
+44,564 (100.0%) of 44,564 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -200,51 +200,75 @@ Accordingly, any information regarding the relevant suspect is requested to be p
 
 ---
 
-### ஸ்ரீலங்கன் ஏர்லைன்ஸின் எக்கானமி வகுப்பில் உணவை முன்பதிவு செய்ய வசதி
+### Face to booking meals at Economy Class of SriLankan Airlines
 
 *2024-09-18 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194024) · `ta`
 
-அதன்படி, சால்மன் ஸ்டீக்ஸ், சிக்கன் லம்ப்ரைஸ், மாட்டிறைச்சி பர்கர்கள் போன்ற உணவுகள் மற்றும் சைவம் மற்றும் புரதமற்ற (பசையம்) உணவுகள் உட்பட பல்வேறு காலை உணவு விருப்பங்களைக் கொண்ட தொகுக்கப்பட்ட உணவு வகைகளை பயணிகள் தெரிவு செய்யலாம்.
+SriLankan Airlines Economy Class meal booking: Salmon, chicken, beef burgers; vegetarian & gluten-free options available. Book online or call 48 hours pre-flight.
 
-பயணிகள் விமானம் புறப்படுவதற்கு 48 மணி நேரத்திற்கு முன்னர் விமானத்தின் இணையதளம் அல்லது தொடர்பு மையம் ஊடாக உணவை முன்பதிவு செய்யலாம்.
+🟩
+
+Accordingly, travelers can select foods such as salmon steaks, chicken lambris, beef burgers and passenged foods with various breakfast options, including vegetarian and protein (gluten) dishes.
+
+Diet can be booked through the aircraft's website or contact center 48 hours before the passenger flight departure.
 
 ◼️
 
 [Data](articles/7ad577db.json)
 
+[Extended Data](ext_articles/7ad577db.ext.json)
+
 ---
 
-### பழம்பெறும் நடிகை  சி.ஐ.டி. சகுந்தலா காலமானார்
+### Legendary actress CIT. Sakuntala has passed away
 
 *2024-09-18 16:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பழம்பெறும்-நடிகை-சி-ஐ-டி-சகுந்தலா-காலமானார்/54-343962) · `ta`
 
-பழம்பெரும் நடிகை சிஐடி சகுந்தலா இன்று உடல்நலக்குறைவால் காலமானார். அவருக்கு வயது 84.
+Legendary actress CIT Sakuntala passes away at 84. Known for Tamil, Telugu, Malayalam, and Kannada films. Starred in "CIT Shankar" (1970). Played iconic roles like "Uneducated Genius," "Hand-Given Goddess." Transitioned to TV series before death due to illness.
 
-தமிழ், தெலுங்கு, மலையாளம், கன்னடம் உள்ளிட்ட பல மொழிகளில் நடித்து பல இரசிகர்களால் கவரப்பட்டவர் ஏ.சகுந்தலா. இவர் கடந்த 1970ஆம் ஆண்டு ஜெய்சங்கர் நடித்த 'சிஐடி சங்கர்' படத்தின் மூலம் திரையுலகில் அறிமுகமானதால், அவர் பின்னர் ‘சிஐடி’ சகுந்தலா என்று அழைக்கப்பட்டார்.
+🟩
 
-சேலம் மாவட்டத்தை சேர்ந்த சகுந்தலா, சென்னையில் லலிதா, பத்மினி, ராகினி மூவரும் நடத்தி வந்த நடன நிகழ்ச்சிகளில் பங்கேற்று, தன் நடன திறமையை வெளிப்படுத்தினார். இந்த வாய்ப்புகள் அவர் திரைப்பட உலகில் நுழைய வழிவகுத்தன.
+Legendary Actress CIT Sakuntala has passed away today due to ill health. He was 84 years old.
 
-அதன்பின்னர், 'படிக்காத மேதை', 'கை கொடுத்த தெய்வம்', 'திருடன்', 'தவப்புதல்வன்', 'வசந்த மாளிகை', 'நீதி', 'பாரத விலாஸ்', 'ராஜராஜ சோழன்', 'பொன்னூஞ்சல்', 'என் அண்ணன்', 'இதயவீணை' உள்ளிட்ட ஏராளமான தமிழ் படங்களிலும், தெலுங்கு, மலையாளம், கன்னடம் போன்ற மொழி திரைப்படங்களிலும் முக்கியமான கதாபாத்திரங்களில் நடித்துள்ளார்.
+A. Sakundala has been impressed by many fans who have acted in many languages ​​including Tamil, Telugu, Malayalam and Kannada. Since he made his debut in the film 'CIT Shankar' starring Jaishankar in 1970, he later became known as CIT's Sakuntala.
+
+Sakuntala from Salem district participated in the dance performances by Lalitha, Padmini and Ragini in Chennai and showed her dance skills.. These opportunities led to his entering the film world.
+
+Subsequently, the 'uneducated genius', 'hand -given goddess', 'thief', 'taputtalvan', 'Vasantha mansion', 'justice', 'Bharata Vilas', 'Rajaraja Chola', 'Ponnununjal', 'My brother', 'My brother'He has played important roles in a number of Tamil films, including Telugu, Malayalam and Kannada.
 
 ...
 
 [Data](articles/453bd201.json)
 
+[Extended Data](ext_articles/453bd201.ext.json)
+
 ---
 
-### ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் தமிழ் பொதுவேட்பாளருக்கும் இடையில் தொடர்பு ; சுமந்திரன்
+### Contact between President Ranil Wickremesinghe and Tamil general candidate;Sumanthiran
 
 *2024-09-18 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194031) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும், தமிழ் பொதுவேட்பாளருக்கும் இடையிலான தொடர்பு தற்போது அம்பலமாகியுள்ளதாக இலங்கைத் தமிழரசுக்கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+Here's a 200-character summary:
 
-அரியநேத்திரனுக்கு தன்னாலும், சாணக்கியனாலும் அச்சுறுத்தல் இருப்பதாக பிரதிப் பொலிஸ்மா அதிபர் ஒருவர் எழுதியுள்ள கடிதமானது தேர்தல் சட்டங்களை மீறும் ஒரு செயற்பாடு என்றும் அதன் பின்னணியில் யார் இருக்கின்றார்கள் என்பதையும் மக்கள் அறிவார்கள் என்றும் அவர் குறிப்பிட்டார்.
 
-யாழ். ஊடக அமையத்தில் இன்று புதன்கிழமை (18) நடத்திய ஊடவியலாளர் சந்திப்பின்போதே அவர் மேற்கண்டவாறு கூறினார்.
+
+President Ranil Wickremesinghe accused of supporting Tamil candidate Ariyanethran through police threats. MP Sumanthiran claims election law violation. Wickremesinghe denies involvement, calls allegations "political suicide" for Tamils.
+
+🟩
+
+Jaffna MP MA Sumanthiran said that the connection between President Ranil Wickremesinghe and the Tamil general candidate is now exposed.
+
+He said that a letter written by a Deputy Inspector General of Police that Ariyanethran was threatened with himself and a man, and that people know that the people are behind the election law and who is behind it.
+
+Yall. He said this during a media briefing held at the Media Center today (18).
+
+The Deputy Inspector General of Police, which is safe for the president's security and relaxed presidents, can be speculated that the letter will be written.. The connection between President Ranil Wickremesinghe and the Tamil public is currently being exposed. In the letter, the Deputy Inspector General of Police, under the direct supervision of the president, said in a letter that I and Chanakyan were threatening to support Ariyanethran during the election.
 
 ...
 
 [Data](articles/c80bbc75.json)
+
+[Extended Data](ext_articles/c80bbc75.ext.json)
 
 ---
 
@@ -1303,6 +1327,8 @@ Many Sri Lankans love to talk about our legacy of women prime ministers. To be m
 ...
 
 [Data](articles/2459713b.json)
+
+[Extended Data](ext_articles/2459713b.ext.json)
 
 ---
 

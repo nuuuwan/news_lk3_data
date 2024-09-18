@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-18 21:10:03**
+As of **2024-09-18 21:22:32**
 
 ## Newspaper Stats
 
-*Scraped **44,587** Articles*
+*Scraped **44,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,962
 adalk | 4,119
 dailymirrorlk | 4,733
 adaderanalk | 5,248
-tamilmirrorlk | 5,827
+tamilmirrorlk | 5,828
 virakesarilk | 7,128
 adaderanasinhalalk | 7,636
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,586 (100.0%) of 44,587 articles have been extended.
+44,587 (100.0%) of 44,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-18 (Wednesday)
+
+### வாக்களிப்பு நிலையத்திற்குள் யார் நுழையலாம்?
+
+*2024-09-18 20:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலையத்திற்குள்-யார்-நுழையலாம்/175-343975) · `ta`
+
+எதிர்வரும் செப்டம்பர் 21, 2024 அன்று நடைபெறவுள்ள ஜனாதிபதித் தேர்தலின் போது வாக்களிப்பு நிலையங்களுக்குள் நுழைய அங்கீகரிக்கப்பட்ட நபர்களை இலங்கை தேர்தல் ஆணைக்குழு அறிவித்துள்ளது.
+
+அந்தந்த வாக்களிப்பு நிலையங்களுக்கு பதிவு செய்யப்பட்ட வாக்காளர்கள், வாக்குச் சாவடி பணியாளர்கள் மற்றும் தேர்தல் பணிகளுக்காக ஒதுக்கப்பட்ட பொலிஸார் உள்ளிட்ட குறிப்பிட்ட நபர்கள் மட்டுமே வாக்களிப்பு நிலையங்களுக்குள் அனுமதிக்கப்படுவர் என்று ஆணைக்குழு தெரிவித்துள்ளது.
+
+தேர்தலில் போட்டியிடும் ஜனாதிபதி வேட்பாளர்கள், அவர்களது தேர்தல் முகவர்கள், அங்கீகரிக்கப்பட்ட முகவர்கள், பிரதேச முகவர்கள் மற்றும் முறையாக நியமிக்கப்பட்ட வாக்களிப்பு நிலைய முகவர்கள் ஆகியோருக்கும் அனுமதி வழங்கப்பட்டுள்ளது.
+
+மேலும், தேர்தல் ஆணைக்குழுவால் அங்கீகரிக்கப்பட்ட உள்ளூர் அல்லது வெளிநாட்டு தேர்தல் கண்காணிப்பு அமைப்புகளின் பிரதிநிதிகள் மற்றும் அந்தந்த தேர்தல் அதிகாரிகளால் அங்கீகரிக்கப்பட்ட அதிகாரிகள் நுழைய அனுமதிக்கப்படுகிறார்கள்.
+
+...
+
+[Data](articles/dbe7e5e6.json)
+
+---
 
 ### Sri Lanka to exit bankruptcy after tomorrow’s talks with sovereign bondholders - President
 
@@ -51,6 +69,8 @@ He stressed the importance of electing a leader capable of leading the country f
 ...
 
 [Data](articles/7274c0dc.json)
+
+[Extended Data](ext_articles/7274c0dc.ext.json)
 
 ---
 
@@ -2427,29 +2447,5 @@ Sri Lanka PA. His final election campaign meeting will be held in Piliyandala.
 [Data](articles/41947ecd.json)
 
 [Extended Data](ext_articles/41947ecd.ext.json)
-
----
-
-### Anura's design that earns $ 5 billion from IT
-
-*2024-09-18 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201139) · `si`
-
-Sri Lankan presidential candidate Anura Kumara Dissanayake proposes targeting $5 billion from IT, creating 100,000 software engineers, and boosting exports. He also suggests revitalizing industries like tourism, fishing, and agriculture to stimulate the economy.
-
-🟩
-
-The presidential candidate Anura Kumara Dissanayake says that information technology has a target of $ 5 billion to earn the economy.
-
-He says steps will be taken to create 100,000 software engineers.
-
-Anura Kumara Dissanayake made this statement participating at the rally held in Ruwanwella.
-
-"We have to make the economy. A little postponed to make up the big arms. But we can quickly we can take the tourism industry big. It is a $ 8 billion economy to bring about 40 million tourists. The next information technology is the technology industry. Now, increase an export economy of $ 1.2 billion to 5 dollars, in Sri Lanka to build 2. III of software engineers. Women should stop the country.
-
-...
-
-[Data](articles/4584ae43.json)
-
-[Extended Data](ext_articles/4584ae43.ext.json)
 
 ---

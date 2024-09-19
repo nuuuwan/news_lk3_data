@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 07:59:18**
+As of **2024-09-19 08:21:08**
 
 ## Newspaper Stats
 
-*Scraped **44,660** Articles*
+*Scraped **44,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,154 @@ colombotelegraphcom | 446
 islandlk | 2,627
 economynextcom | 2,703
 dailyftlk | 2,980
-adalk | 4,122
+adalk | 4,123
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,840
+tamilmirrorlk | 5,843
 virakesarilk | 7,140
-adaderanasinhalalk | 7,643
+adaderanasinhalalk | 7,645
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,660 (100.0%) of 44,660 articles have been extended.
+44,666 (100.0%) of 44,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Notification of the Excise Department
+
+*2024-09-19 07:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-திணைக்களத்தின்-அறிவிப்பு/175-344002) · `ta`
+
+Excise Department bans liquor sales nationwide except high-end hotels and villas. Outlets must close Sept 21-22. Tourist accommodations exempt. Emergency hotline 1913 available 24/7 for violations.
+
+🟩
+
+The department announced yesterday that it has been banned on the orders of the Head of the Excise Department, except for tourists living in high -quality star hotels and potti villas across the country.
+
+The Department of Excise has issued a special notification that all liquor outlets across the country have been ordered to close all over the country on Saturday and 22nd Sunday, September 21st and 22nd.
+
+However, tourist hotels and potti villas beyond the three -star class limit are exempted from the above order and are allowed to serve their guests and tourists in a timely manner.
+
+Meanwhile, the Emergency Telephone number of the Department of Excise, 1913, has been opened 24 hours a day for public complaints and information on the occasions of violation of the Excise Ordinance, said Sanna Weerakkody, a spokesman for the Department of Excise.
+
+◼️
+
+[Data](articles/3bacd2f1.json)
+
+[Extended Data](ext_articles/3bacd2f1.ext.json)
+
+---
+
+### Today's climate forecast
+
+*2024-09-19 07:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-முன்னறிவிப்பு/175-344001) · `ta`
+
+Climate forecast: Rainfall expected in Sabaragamuwa, Western, Southern Provinces. Strong winds in Central Highlands and coastal areas. Thunderstorms possible in sea regions. Public advised to be cautious due to strong winds and lightning.
+
+🟩
+
+The Department of Meteorology has said that rainfall will occur today (19), the Sabaragamuwa, the Western and Southern Provinces, as well as the Kandy and Nuwara Eliya districts.
+
+There are many places in the Eastern and Uva provinces in the evening or night.
+
+Strong winds can be frequent at speeds of 40 to 45 km / h in the western slopes of the Central Highlands as well as in the North Central and Southern Provinces.
+
+Rainfall or thunderstorms are likely to occur in many parts of the sea regions along the coast of Colombo to Hambantota via Galle.
+
+Winds from the west or southwest at speeds of 30 - 40 km / h in the sea regions.
+
+From Matara to Hambantota, Pottuvil, from Kankesanthurai to Mannar via Puttalam, the sea can be increased at speeds of 60 kilometers per hour.
+
+From Trincomalee to Kankesanthurai to Kankesanthurai, Puttalam to Colombo and Matara, Matara, Matara, Matara will increase between 50 kilometers per hour.
+
+The public is asked to take care in the events of strong winds and lightning.
+
+◼️
+
+[Data](articles/803fabfb.json)
+
+[Extended Data](ext_articles/803fabfb.ext.json)
+
+---
+
+### The construction sector has not yet recovered due to the economic crisis
+
+*2024-09-19 07:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-நெருக்கடியால்-வீழ்ச்சியடைந்த-நிர்மாணத்துறை-இன்னும்-மீளவில்லை/175-344000) · `ta`
+
+Construction sector struggles post-economic crisis in Sri Lanka. Small firms closing, 11 offices shutting down. Government support lacking, foreign funding projects halted. 50 billion rupees allocated for restarting stalled projects in 2024 budget. Domestic sector development crucial for economic recovery.
+
+🟩
+
+Sri Lanka National Construction Association president Daryinton Paul said that the construction sector has not yet recovered the economic crisis in Sri Lanka.
+
+He said that the small construction department from about 2000 to 2500 is now leaving their business, with 11 offices in the 9 provinces of the country, giving clarity to the construction sector and strengthening them.
+
+He pointed out that the Sri Lanka National Construction Association has implemented various activities across the country to provide clarity in the country, with the inadequate clarity of the country's construction laws and the country's small and medium construction sector.
+
+Commenting on the one -day workshop to clarify to those in the construction sector last Friday, he said, “No government has made efforts to strengthen the collapse of the country in the country.. If the best construction sector is able to create in the country, the public can prevent wasting money.
+
+...
+
+[Data](articles/6b1cdbb4.json)
+
+[Extended Data](ext_articles/6b1cdbb4.ext.json)
+
+---
+
+### Commission ready for election
+
+*2024-09-19 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201176) · `si`
+
+Elections Commission prepares for presidential election disruptions. Measures taken to address disappearances. Weather forecast obtained. Special program implemented with Disaster Management Center from today to 22nd.
+
+🟩
+
+The Elections Commission says that all necessary measures have been taken to face disappearances of disappearances during the date of the presidential election campaign.
+
+The Chairman of the top of its president said that the distinguished distinguished distinguishing has been paid to the suspected distress.
+
+The Chairman of the Elections Commission said that the weather conference will also be taken to obtain a weather report from tomorrow (20).
+
+Meanwhile, the Disaster Management Center and the Election Commission are planning to implement a special integrated program to manage the disruption to the presidential election.
+
+According to the Director of the Disaster Management Center Pradeep Kodippili said that the program is scheduled to implement the program from today to 22nd.
+
+◼️
+
+[Data](articles/115d5df1.json)
+
+[Extended Data](ext_articles/115d5df1.ext.json)
+
+---
+
+### Kiwalay shopping - Man dies
+
+*2024-09-19 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201175) · `si`
+
+Man killed in Kohuwala shooting; police investigating incident involving two suspects on motorcycle.
+
+🟩
+
+A man was shot dead in Saranaddara Road, Saranaddara Road, Kohuwala police division.
+
+Investigations have been launched into a message from Kohuwala Police regarding this regard.
+
+The shooting last night was the owner of the shot.
+
+Two unidentified persons who came in a motorbike have been shot.
+
+Kohuwala Police are conducting further investigations.
+
+◼️
+
+[Data](articles/483b3ac6.json)
+
+[Extended Data](ext_articles/483b3ac6.ext.json)
+
+---
 
 ### Thundershowers at several areas and strong winds
 
@@ -1226,6 +1358,42 @@ Even a debt to GDP ratio of 95 percent aimed at, in the DSA was quite high for a
 
 ---
 
+### Sri Lanka is free of bankruptcy after tomorrow's discussion with Snowgings
+
+*2024-09-18 20:08:15* · [`adalk`](https://www.ada.lk/breaking_news/ස්වෛරි-බැදුම්කර-හිමියන්-සමඟ-හෙට-පැවැත්වෙන-සාකච්ඡාවෙන්-පසු-ලංකාව-බංකොළොත්භාවයෙන්-නිදහස්/11-412014) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka faces economic challenges but claims progress under current leadership. President Ranil Wickremesinghe addresses public concerns, emphasizing need for stability and international cooperation. He criticizes opposition for lack of concrete plans, urging voters to consider long-term benefits.
+
+🟩
+
+Sri Lanka said, "Can say that the economic challenge is to face the economic challenge: today," Sri Lanka "is to improve the country
+
+People have the responsibility of selecting a leader who can carry a country
+
+If the country had plans to improve the country, why did the country not be accepted two years ago?
+
+The economy of the country is publicly said that the team with Sajith is
+
+President Ranil Wickremesinghe said that a meeting between the Government of Sri Lanka and the International Sovereign Bonders of Sri Lanka will be held tomorrow.
+
+The President said that if the message that the work was completed was successfully completed if he was handed over to him
+
+President Ranil Wickremesinghe addressing the matter at the Uyanwatta Stadium in Matara this afternoon.
+
+The President said that "Sri Lanka" that he faced the economic challenge and win the economic challenge, said that the people of Sri Lanka said that the country had the responsibility of making a leading leader.
+
+...
+
+[Data](articles/4190eae2.json)
+
+[Extended Data](ext_articles/4190eae2.ext.json)
+
+---
+
 ### Accident in Omanthai in Vavuniya
 
 *2024-09-18 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194055) · `ta`
@@ -2157,137 +2325,5 @@ The TNA has a policy. It will be stable. There will also be wrong with Sumanthir
 [Data](articles/9ce94e0b.json)
 
 [Extended Data](ext_articles/9ce94e0b.ext.json)
-
----
-
-### Police seek public assistance to trace female suspect
-
-*2024-09-18 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102061/police-seek-public-assistance-to-trace-female-suspect) · `en`
-
-Sri Lanka Police is seeking public assistance to apprehend a female suspect who is wanted in connection with an investigation pertaining to financial fraud.
-
-Issuing a statement, the Police Media Division informs that the suspect in question is wanted over a case involving an unlawful property acquisition carried out using forged documents, for a property valued at Rs. 150 million.
-
-The Criminal Investigation Department (CID) is conducting investigations following a complaint lodged against the suspect. The investigation has revealed that the woman has signed a forged deed while impersonating another individual.
-
-Police have released a photograph of the suspect in question to the media and the relevant photograph is attached below.
-
-Accordingly, any information regarding the relevant suspect is requested to be provided through the following contact numbers:
-
-◼️
-
-[Data](articles/556f4462.json)
-
-[Extended Data](ext_articles/556f4462.ext.json)
-
----
-
-### Face to booking meals at Economy Class of SriLankan Airlines
-
-*2024-09-18 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194024) · `ta`
-
-SriLankan Airlines Economy Class meal booking: Salmon, chicken, beef burgers; vegetarian & gluten-free options available. Book online or call 48 hours pre-flight.
-
-🟩
-
-Accordingly, travelers can select foods such as salmon steaks, chicken lambris, beef burgers and passenged foods with various breakfast options, including vegetarian and protein (gluten) dishes.
-
-Diet can be booked through the aircraft's website or contact center 48 hours before the passenger flight departure.
-
-◼️
-
-[Data](articles/7ad577db.json)
-
-[Extended Data](ext_articles/7ad577db.ext.json)
-
----
-
-### Legendary actress CIT. Sakuntala has passed away
-
-*2024-09-18 16:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பழம்பெறும்-நடிகை-சி-ஐ-டி-சகுந்தலா-காலமானார்/54-343962) · `ta`
-
-Legendary actress CIT Sakuntala passes away at 84. Known for Tamil, Telugu, Malayalam, and Kannada films. Starred in "CIT Shankar" (1970). Played iconic roles like "Uneducated Genius," "Hand-Given Goddess." Transitioned to TV series before death due to illness.
-
-🟩
-
-Legendary Actress CIT Sakuntala has passed away today due to ill health. He was 84 years old.
-
-A. Sakundala has been impressed by many fans who have acted in many languages ​​including Tamil, Telugu, Malayalam and Kannada. Since he made his debut in the film 'CIT Shankar' starring Jaishankar in 1970, he later became known as CIT's Sakuntala.
-
-Sakuntala from Salem district participated in the dance performances by Lalitha, Padmini and Ragini in Chennai and showed her dance skills.. These opportunities led to his entering the film world.
-
-Subsequently, the 'uneducated genius', 'hand -given goddess', 'thief', 'taputtalvan', 'Vasantha mansion', 'justice', 'Bharata Vilas', 'Rajaraja Chola', 'Ponnununjal', 'My brother', 'My brother'He has played important roles in a number of Tamil films, including Telugu, Malayalam and Kannada.
-
-...
-
-[Data](articles/453bd201.json)
-
-[Extended Data](ext_articles/453bd201.ext.json)
-
----
-
-### It is a century for New Zealand
-
-*2024-09-18 16:42:44* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහිව-කමිඳු​ගෙන්-අගනා-ශතකයක්/9-412001) · `si`
-
-New Zealand celebrates its centenary year as Sri Lanka's Mandis scores a century against them.
-
-🟩
-
-Sri Lanka's Malignature batsman Mandis won a century against the New Zealand team.
-
-◼️
-
-[Data](articles/1d34008f.json)
-
-[Extended Data](ext_articles/1d34008f.ext.json)
-
----
-
-### Contact between President Ranil Wickremesinghe and Tamil general candidate;Sumanthiran
-
-*2024-09-18 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194031) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Ranil Wickremesinghe accused of supporting Tamil candidate Ariyanethran through police threats. MP Sumanthiran claims election law violation. Wickremesinghe denies involvement, calls allegations "political suicide" for Tamils.
-
-🟩
-
-Jaffna MP MA Sumanthiran said that the connection between President Ranil Wickremesinghe and the Tamil general candidate is now exposed.
-
-He said that a letter written by a Deputy Inspector General of Police that Ariyanethran was threatened with himself and a man, and that people know that the people are behind the election law and who is behind it.
-
-Yall. He said this during a media briefing held at the Media Center today (18).
-
-The Deputy Inspector General of Police, which is safe for the president's security and relaxed presidents, can be speculated that the letter will be written.. The connection between President Ranil Wickremesinghe and the Tamil public is currently being exposed. In the letter, the Deputy Inspector General of Police, under the direct supervision of the president, said in a letter that I and Chanakyan were threatening to support Ariyanethran during the election.
-
-...
-
-[Data](articles/c80bbc75.json)
-
-[Extended Data](ext_articles/c80bbc75.ext.json)
-
----
-
-### Super Century from Kamindu
-
-*2024-09-18 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201156) · `si`
-
-Sri Lanka vs New Zealand: Kumindu Mendis scores century on debut in first Test match.
-
-🟩
-
-Sri Lanka and New Zealand today is the first day of the first Test.
-
-Kumindu Mendis, the Savior of the Sri Lankan Innings, was able to record a century.
-
-◼️
-
-[Data](articles/292aa213.json)
-
-[Extended Data](ext_articles/292aa213.ext.json)
 
 ---

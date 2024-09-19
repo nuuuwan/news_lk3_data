@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 12:38:10**
+As of **2024-09-19 13:07:50**
 
 ## Newspaper Stats
 
-*Scraped **44,721** Articles*
+*Scraped **44,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,125
+adalk | 4,130
 dailymirrorlk | 4,733
-adaderanalk | 5,257
+adaderanalk | 5,258
 tamilmirrorlk | 5,857
 virakesarilk | 7,147
-adaderanasinhalalk | 7,658
+adaderanasinhalalk | 7,659
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,720 (100.0%) of 44,721 articles have been extended.
+44,728 (100.0%) of 44,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### CID and Exams Dept. probing Grade 5 exam paper leak
+
+*2024-09-19 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102076/cid-and-exams-dept-probing-grade-5-exam-paper-leak) · `en`
+
+The Ministry of Education (MoE) has issued a special statement regarding the controversy over the incident of the Grade 5 Scholarship examination paper allegedly being leaked.
+
+The communiqué stated that the Department of Examinations and the Criminal Investigation Department (CID) are conducting an investigation regarding the issue with the first paper of the 2024 Grade 5 Scholarship Examination.
+
+It is further stated that a decision on the matter will be made after the conclusion of these investigations.
+
+◼️
+
+[Data](articles/e5e48c3e.json)
+
+[Extended Data](ext_articles/e5e48c3e.ext.json)
+
+---
+
+### Special decision on controversial scholarship question
+
+*2024-09-19 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201190) · `si`
+
+Ministry of Education issues special announcement regarding Grade 5 Scholarship Examination controversy. Investigations by Department of Examinations and Criminal Investigations Department to be conducted on first question paper issue. Further action pending completion of investigations.
+
+🟩
+
+The Ministry of Education has issued a special announcement on Grade 5 Scholarship Examinations.
+
+It states that the Department of Examinations and the Criminal Investigations Department will be conducted regarding the issue of the first question paper of the Grade 5 Scholarship Examination.
+
+The statement further states that as soon as those investigations are completed, the statement added.
+
+◼️
+
+[Data](articles/b793e425.json)
+
+[Extended Data](ext_articles/b793e425.ext.json)
+
+---
 
 ### Damage to the trade center in Tayantha area
 
@@ -76,6 +116,28 @@ The order was issued by the Colombo High Court today after considering a request
 
 ---
 
+### Rain interrupted the Sri Lanka Test match
+
+*2024-09-19 11:49:58* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා--නවසීලන්ත-ටෙස්ට්-තරගයට-වර්ෂාවෙන්-බාධා/9-412022) · `si`
+
+Sri Lanka Test match interrupted by rain. New Zealand scored 5 runs before stoppage. Sri Lanka batted first, scoring 305 runs in one innings.
+
+🟩
+
+The event was interrupted by the Competition 2nd Test match between Sri Lanka and Sri Lanka.
+
+New Zealand scored five runs in the end of the ball when the match was stopped due to rain.
+
+Batting first Sri Lanka scored 305 runs for the loss of all wickets in their first innings.
+
+◼️
+
+[Data](articles/bd03a1fa.json)
+
+[Extended Data](ext_articles/bd03a1fa.ext.json)
+
+---
+
 ### 16 days of infant death in Jaffna
 
 *2024-09-19 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194076) · `ta`
@@ -98,23 +160,29 @@ In this case, the baby died on the 16th. During the anatomical examination, the 
 
 ---
 
-### රමිත් රඹුක්වැල්ලට අයත් නිවාස දෙකක් පරිහරණය තහනම් කරමින් අධිකරණ නියෝගයක්
+### Court order forbids two houses belonging to Ramith Rambukwella
 
 *2024-09-19 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201189) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍යය කෙහෙළිය රඹුක්වැල්ල මහතාගේ පුත් රමිත් රඹුක්වැල්ල මහතාට අයත් සුඛෝපභෝගී නිවාස දෙකක් පරිහරණය කිරීම තහනම් කරමින් කොළඹ මහාධිකරණය අද (19) නියෝගයක් නිකුත් කර තිබේ.
+Colombo High Court bans use of luxury houses owned by Ramith Rambukwella due to bribery allegations. Order issued until December 19. Bribery Commission requested investigation.
 
-අල්ලස් කොමිසම විසින් කළ ඉල්ලීමක් සලකා බැලූ කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා විසින් මෙම නියෝගය නිකුත් කර ඇත.
+🟩
 
-අල්ලස් කොමිසම අධිකරණයට දැනුම් දී තිබුණේ රමිත් රඹුක්වැල්ල මහතා විසින් කොල්ලුපිටිය ප්‍රදේශයේ පිහිටි සුඛෝපභෝගී නිවාස සංකීර්ණයක නිවාස දෙකක් රුපියල් මිලියන 80ක් සහ රුපියල් මිලියන 65 බැගින් මිලදී ගෙන තිබෙන බවය.
+The Colombo High Court today (19) has issued an order today (19) banning the use of luxury houses of the son of former Health Minister Keheliya Rambukwella.
 
-මේ සම්බන්ධයෙන් විමර්ශනයක් සිදුකරන බවත් ඊට අදාළව එම දේපොළ තහනම් කිරීමේ නියෝගයක් නිකුත් කරන ලෙසත් එම කොමිසම අද අධිකරණයෙන් ඉල්ලා සිටියේය.
+The order was issued by the Colombo High Court Judge Manjula Tilakaratne regarding a request made by the Bribery Commission.
 
-එම ඉල්ලීම සලකා බැලූ මහාධිකරණ විනිසුරුවරයා අදාළ දේපොළ ලබන දෙසැම්බර් මස 19 වනදා දක්වා පරිහරණය කිරීම තහනම් කරමින් නියෝගයක් නිකුත් කළේය.
+The Bribery Commission had informed the court that a luxury housing complex in Kollupitiya has been purchased at two thousand rupees and Rs. 65 million.
+
+The commission also requested the court today to issue an investigation into the matter.
+
+After the request, the High Court judge issued an order to ban the use of the matter until December 19.
 
 ◼️
 
 [Data](articles/5f176ef0.json)
+
+[Extended Data](ext_articles/5f176ef0.ext.json)
 
 ---
 
@@ -421,6 +489,28 @@ Subsequently, the body of the murderer has been placed at the Kodagawala Hospita
 [Data](articles/ce4599f3.json)
 
 [Extended Data](ext_articles/ce4599f3.ext.json)
+
+---
+
+### Tomorrow all school leave
+
+*2024-09-19 10:34:57* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සියලුම-පාසල්-නිවාඩු/11-412019) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Tomorrow, all schools nationwide will close due to a Ministry of Education announcement granting leave for March 20th."
+
+🟩
+
+The Ministry of Education has announced that all schools in the country have been granted leave tomorrow (20).
+
+◼️
+
+[Data](articles/a0aa2b28.json)
+
+[Extended Data](ext_articles/a0aa2b28.ext.json)
 
 ---
 
@@ -1107,6 +1197,36 @@ Commenting on the one -day workshop to clarify to those in the construction sect
 [Data](articles/cfef7293.json)
 
 [Extended Data](ext_articles/cfef7293.ext.json)
+
+---
+
+### Rs. For a parade of police officers who claimed
+
+*2024-09-19 07:34:13* · [`adalk`](https://www.ada.lk/breaking_news/රු--ලක්ෂ-14ක්-කොල්ල-කෑ-බව-කියන-පොලිස්-නිලධාරීන්-හඳුනා-ගැනිමේ-පෙරට්ටුවකට/11-412016) · `si`
+
+Here's a 200-character summary:
+
+
+
+Colombo Additional Magistrate Kamin Damada Perera identified suspects in a police parade case. Residents complained about Modara Police officers. Suspects appeared in court wearing civilian clothes. Attorneys Nishantha Dissanayake and Sanjaya Gamage represented them.
+
+🟩
+
+Colombo Additional Magistrate Kamin Damada Perera was appointed to identify a sum of Rs.
+
+After a complaint lodged by the residents of Modara, a complaint of the officers of the Modara Police were submitted to the courts, to cover the suspects, to hold the suspects in the remand.
+
+The remand was handed over to the Bloonderingal Police, a police sergeant, police sergeant and the Colombo North Intelligence Service.
+
+The suspects of the Modara Police have reportedly appeared to the court and entered the court and entered the house in civilian clothes.
+
+Attorney-at-Law Nissance Dissanayake appeared and Attorney Sanjaya Gamage appeared for the suspect cops.
+
+◼️
+
+[Data](articles/c003610f.json)
+
+[Extended Data](ext_articles/c003610f.ext.json)
 
 ---
 
@@ -2157,107 +2277,5 @@ He was addressing the 'Ranil' to address the rally of the people today (18).
 [Data](articles/f52f369e.json)
 
 [Extended Data](ext_articles/f52f369e.ext.json)
-
----
-
-### Another series of explosions in Lebanon
-
-*2024-09-18 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201167) · `si`
-
-Explosions in Lebanon: 9 dead, over 300 injured. Previous blast reported yesterday. War tensions escalate.
-
-🟩
-
-The International Media said Nine persons were killed and more than 300 were injured in the explosion of the machine.
-
-Previously, a pabr exploded throughout Lebanon a day ago, 12 wokkey Tokie, "the war has erupted.
-
-◼️
-
-[Data](articles/8f16797b.json)
-
-[Extended Data](ext_articles/8f16797b.ext.json)
-
----
-
-### Sajith advises people to celebrate the victory peacefully
-
-*2024-09-18 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201166) · `si`
-
-Sajith Premadasa urges peaceful celebration after election win. Promises to combat drugs and crime within 6 months. Emphasizes unity and non-violence.
-
-🟩
-
-The presidential candidate Sajith Premadasa, Sajith Premadasa, Sagith Premadasa, says he will end the drug and underworld within six months.
-
-"I am requested by all, enjoy our victory peacefully. Don't go to hurt, don't violence.. These are not the principles of unity power. Enjoyed the victory peacefully.. Prepare the country from the next moment. "
-
-"Comes to power and protecting the right to practice the religions of the people. The powder, drugs, underworld will be completed by six months. "
-
-◼️
-
-[Data](articles/46d9c161.json)
-
-[Extended Data](ext_articles/46d9c161.ext.json)
-
----
-
-### The Tamil National Alliance (TNA) MP expressed his support for President Ranil. Vinonogadalingam!
-
-*2024-09-18 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194057) · `ta`
-
-TNA MP Vino Nogarathalingam supports President Ranil Wickremesinghe in upcoming election.
-
-🟩
-
-Tamil National Alliance (TNA) Wanni District Parliamentarian Vino Nogarathalingam said he would support the victory of President Ranil Wickremesinghe in the upcoming presidential election.
-
-He made this announcement at a press conference held at the President's Political Office on Wednesday (18) at Blaver Road, Colombo.
-
-◼️
-
-[Data](articles/18352f65.json)
-
-[Extended Data](ext_articles/18352f65.ext.json)
-
----
-
-### Announced as a quiet period until the 21st
-
-*2024-09-18 21:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21ஆம்-திகதிவரை-அமைதியான-காலப்பகுதியாக-அறிவிப்பு/175-343976) · `ta`
-
-Quiet period announced until 21st: Election Commission Chairman R.M.A.L. Ratnayake. Special committees formed to investigate unnecessary media and social media campaigns during this time.
-
-🟩
-
-In this case, the Chairman of the Election Commission R.. MALL. Ratnayake said.
-
-Special committees have been appointed to investigate the non -needed campaigns on the media and social media during this period.. Remble
-
-◼️
-
-[Data](articles/04a0dcf6.json)
-
-[Extended Data](ext_articles/04a0dcf6.ext.json)
-
----
-
-### Announced as a quiet period until the 21st
-
-*2024-09-18 21:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/21ஆம்-திகதிவரை-அமைதியான-காலப்பகுதியாக-அறிவிப்பு/150-343976) · `ta`
-
-Quiet period announced until 21st. Election Commission Chairman R.M.A.L. Ratnayake stated. Special committees formed to investigate unnecessary media and social media campaigns during this time.
-
-🟩
-
-In this case, the Chairman of the Election Commission R.. MALL. Ratnayake said.
-
-Special committees have been appointed to investigate the non -needed campaigns on the media and social media during this period.. Remble
-
-◼️
-
-[Data](articles/832d5447.json)
-
-[Extended Data](ext_articles/832d5447.ext.json)
 
 ---

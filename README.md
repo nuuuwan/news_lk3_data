@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 12:12:55**
+As of **2024-09-19 12:23:46**
 
 ## Newspaper Stats
 
-*Scraped **44,710** Articles*
+*Scraped **44,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,212 @@ economynextcom | 2,707
 dailyftlk | 2,980
 adalk | 4,125
 dailymirrorlk | 4,733
-adaderanalk | 5,256
+adaderanalk | 5,257
 tamilmirrorlk | 5,857
-virakesarilk | 7,141
-adaderanasinhalalk | 7,654
+virakesarilk | 7,147
+adaderanasinhalalk | 7,657
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,710 (100.0%) of 44,710 articles have been extended.
+44,720 (100.0%) of 44,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Damage to the trade center in Tayantha area
+
+*2024-09-19 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194080) · `ta`
+
+Matara shopping center fire causes 15 lakh rupee damage. Owner reported blaze to police, who helped control it along with residents.
+
+🟩
+
+A shopping center in Matara, Matara, was burnt by fire, police said.
+
+The owner of the shop has telephoned the owner of the shop and informed the fire.
+
+Subsequently, the owner of the shopping center rushed to the scene and immediately informed the police.
+
+Later, the police and the residents of the area have controlled the fire, police said.
+
+The owner of the shopping center said that the fire has caused a loss of about 15 lakh rupees.
+
+◼️
+
+[Data](articles/b2835e70.json)
+
+[Extended Data](ext_articles/b2835e70.ext.json)
+
+---
+
+### HC freezes two luxury apartments purchased by Keheliya’s son
+
+*2024-09-19 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102075/hc-freezes-two-luxury-apartments-purchased-by-keheliyas-son) · `en`
+
+The Colombo High Court has issued an order preventing the use of two luxury apartments located in the Colpetty area which had been purchased by Ramitha Rambukwella, the son of former Health Minister Keheliya Rambukwella.
+
+The two luxury apartments had reportedly been purchased for Rs. 80 million and Rs. 65 million.
+
+The order was issued by the Colombo High Court today after considering a request from the Bribery Commission.
+
+◼️
+
+[Data](articles/c25928f0.json)
+
+[Extended Data](ext_articles/c25928f0.ext.json)
+
+---
+
+### 16 days of infant death in Jaffna
+
+*2024-09-19 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194076) · `ta`
+
+Infant dies after feeding in Jaffna: 16-day-old baby succumbs to germ infection. Milk spills from mouth during feeding. Autopsy reveals infection as cause of death.
+
+🟩
+
+A 16 -day child has died due to a germ infection in the Chunnakam area in Jaffna.
+
+In this case, when the baby is fed to the baby, the milk has come out of the baby's mouth.
+
+In this case, the baby died on the 16th. During the anatomical examination, the infection was found to be the cause of the death toll.
+
+◼️
+
+[Data](articles/16ba6430.json)
+
+[Extended Data](ext_articles/16ba6430.ext.json)
+
+---
+
+### The voter card model can be obtained on the Internet - the Election Commission
+
+*2024-09-19 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194066) · `ta`
+
+Election Commission introduces e-commerce system for obtaining voter cards. Visit www.elections.gov.lk to verify identity and download model. Voters without cards can use National ID to access website or nearby post office.
+
+🟩
+
+The Election Commission has introduced the e -commerce system to check voter cards for the presidential election and to obtain a voter card model.
+
+Accordingly, the Voter Cards can be visited by searching for the seat of the Election Commission www.elections.gov.lk.
+
+Voters who have not yet received the official voter card for voting can confirm the identity of the person and vote at the specified polling station.
+
+If voters do not get a voter card, you can get voter cards that do not access the post offices nearby or get voter cards or get into the web site www.elections.gov.lk, using the National Identity Card.
+
+◼️
+
+[Data](articles/0a71cfbc.json)
+
+[Extended Data](ext_articles/0a71cfbc.ext.json)
+
+---
+
+### Police request from voters
+
+*2024-09-19 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201188) · `si`
+
+Here's a 200-character summary:
+
+
+
+Police advise voters: No alcohol, weapons, or mobile phones at polling stations. Ensure mental clarity and avoid distractions during voting.
+
+🟩
+
+The police have made an informed of what should be taken when voters arrive at the polling station to use their votes.
+
+Police Media Spokesperson DIG Nihal Talduuwa today participated in the incident with Derana Aruna program.
+
+"When his votes comes, the citizen has a responsibility in sanity in a way. We've seen the experience at the morning and in the morning, there is alcohol that can not make a decision to make alcohol and enter their polling station by morning. They specifically notified them. It must be done with understanding of what he does.  ඒ වගේම ඒ ඡන්ද මධ්‍යස්ථානයට බාධාවක් නොවන ලෙස එන්නට ඕනේ. If a person is coming to the place, remove the police. "
+
+...
+
+[Data](articles/268efe6c.json)
+
+[Extended Data](ext_articles/268efe6c.ext.json)
+
+---
+
+### Vacation for Public and Private Sector Employees
+
+*2024-09-19 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201187) · `si`
+
+Elections Commission announces vacation policy for public and private sector employees for 2024 presidential election. Public sector: minimum 4-hour leave. Private sector: 3-day holiday for eligible voters. All institutions must provide paid leave for voting.
+
+🟩
+
+The Elections Commission (EPL) has held a special press conference to inform the Presidential Election 2024.
+
+Accordingly, public sector employees should be granted leave to leave the polls, including a minimum of four hours, including a minimum of four hours, to leave the polls.. M. A. L. Says Mr. Ratnayake.
+
+The private sector employees are also required to be given holidays as follows.
+
+But if there are three days to vote for some voters that have been nominated by their workplace, the Chairman of the Elections. M. A. L. Mr. Ratnayake said.
+
+All institutions including staff and student staff and garment factories in public and private universities and garment factories are president of all institutions to be paid leave to leave the vote leave. M. A. L. Ratnayake made a request made.
+
+◼️
+
+[Data](articles/1b305eb4.json)
+
+[Extended Data](ext_articles/1b305eb4.ext.json)
+
+---
+
+### Sri Lankan innings end
+
+*2024-09-19 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201186) · `si`
+
+Sri Lanka's first innings ended with 305 runs after adding just 2 more points today. They lost 7 wickets yesterday and couldn't improve their score significantly in the second day of the first Test against New Zealand.
+
+🟩
+
+Today is the first day of the first Test match between Sri Lanka and New Zealand.
+
+Sri Lanka scored 303 runs for the loss of 7 wickets at the end of yesterday.
+
+But today they could only add another 2 other points. Accordingly, Sri Lanka's first innings were limited to 305 runs.
+
+◼️
+
+[Data](articles/621ad732.json)
+
+[Extended Data](ext_articles/621ad732.ext.json)
+
+---
+
+### Presidential election;Tomorrow holidays for schools
+
+*2024-09-19 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194072) · `ta`
+
+Schools close tomorrow due to presidential election. Ministry orders schools used as polling stations to hand over facilities.
+
+🟩
+
+The Ministry of Education has announced on Thursday (19) that all schools across the country will be granted holidays tomorrow (20).
+
+The decision was taken on the request of the Election Commission to ahead of the presidential election on Saturday (21).
+
+Accordingly, the Ministry of Education further stated that the schools used as polling stations should be handed over to specific Grama Niladhari after the completion of the school on Thursday (19).
+
+All Zonal Education Directors and Principals have been informed to provide the necessary desks, rays and hall facilities for the voting station.
+
+As mentioned in the circular, the schools used as polling stations will be closed during the relevant period of each school, the Ministry further stated.
+
+The Ministry said that each school mentioned in the circular as schools used as voting centers will be closed only during the respective period.
+
+◼️
+
+[Data](articles/0988556f.json)
+
+[Extended Data](ext_articles/0988556f.ext.json)
+
+---
 
 ### Two people die in vehicle accident
 
@@ -93,6 +285,30 @@ IHP Executive Director Dr Ravi Rannan-Eliya was quoted as saying in a statement 
 [Data](articles/d9e01bfd.json)
 
 [Extended Data](ext_articles/d9e01bfd.ext.json)
+
+---
+
+### Shooting at the fish stall;One kills;Two injured
+
+*2024-09-19 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194071) · `ta`
+
+Gunfire hits fish market: 1 dead, 2 hurt. Police probe links to foreign crime syndicate.
+
+🟩
+
+One person was killed and two others were injured in a firing at a fish stall in Matigama area on Thursday morning (19).
+
+The deceased is a 38 -year -old man who runs a fish business.
+
+Police said that two unidentified men who were on a motorbike at a fish stall had fled the shoot.
+
+Police investigations have revealed that the shooting was carried out by a man from a underworld gang abroad.
+
+◼️
+
+[Data](articles/2ae4033f.json)
+
+[Extended Data](ext_articles/2ae4033f.ext.json)
 
 ---
 
@@ -161,6 +377,30 @@ It is further informed that the schools are set to reopen on September 23.
 [Data](articles/1f269a8f.json)
 
 [Extended Data](ext_articles/1f269a8f.ext.json)
+
+---
+
+### A dispute between two;One kills;Suspect arrested!
+
+*2024-09-19 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194064) · `ta`
+
+Dispute leads to murder in Kalpalya. Victim dies at hospital. Suspect arrested. Body sent for autopsy. Police investigating further.
+
+🟩
+
+Kodagawala police said that one person was assaulted and murdered in a dispute between two persons in the Kalpalya area of ​​the Kodagawala police division.
+
+The victim was admitted to the Kodakawala Hospital after the injured died without treatment, police said.
+
+The suspect has been arrested by the police in connection with the murder, police said.
+
+Subsequently, the body of the murderer has been placed at the Kodagawala Hospital for autopsy and further investigations are being carried out by the Kodakala police.
+
+◼️
+
+[Data](articles/ce4599f3.json)
+
+[Extended Data](ext_articles/ce4599f3.ext.json)
 
 ---
 
@@ -466,7 +706,7 @@ The arrested suspects are residents of Katugastota, Gampola and Udagavi areas, w
 
 ### Shooting in Kohuwala;Death
 
-*2024-09-19 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/194063) · `ta`
+*2024-09-19 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194063) · `ta`
 
 Kohuwala shooting: 1 dead, 43-year-old man killed in shop, no motive revealed, police investigating
 
@@ -2023,263 +2263,5 @@ The final rally participating in Sajith Premadasa was held at the Tower Theater 
 [Data](articles/3036de90.json)
 
 [Extended Data](ext_articles/3036de90.ext.json)
-
----
-
-### Who can enter the polling station?
-
-*2024-09-18 20:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலையத்திற்குள்-யார்-நுழையலாம்/175-343975) · `ta`
-
-Election Commission Sri Lanka: Only eligible voters, polling staff, police, candidates, agents, election monitors allowed entry. Prohibits illegal activities like mobile phones, photography, weapons, intoxication.
-
-🟩
-
-The Election Commission of Sri Lanka has announced those who have been approved to enter the polling stations during the presidential election on September 21, 2024.
-
-Only certain persons, including voters registered for their respective polling stations, polling staff and the police reserved for election work, will be allowed into the polling stations, the Commission said.
-
-The presidential candidates who are contesting the election, their election agents, recognized agents, regional agents and formally appointed voting agents have been granted.
-
-In addition, representatives of the local or foreign election monitoring organizations approved by the Election Commission and the authorities approved by the respective election officials are allowed to enter.
-
-Moreover, the Election Commission has pointed out that illegal activities should be avoided in voting and voting centers.
-
-This includes using mobile phones, photography, recording videos, having a gun and smoking or alcohol.
-
-...
-
-[Data](articles/dbe7e5e6.json)
-
-[Extended Data](ext_articles/dbe7e5e6.ext.json)
-
----
-
-### Sri Lanka President expects Thursday talks with bondholders to ‘end bankruptcy’
-
-*2024-09-18 20:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-expects-thursday-talks-with-bondholders-to-end-bankruptcy-179935/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s talks with sovereign bondholders will end in September 19, President Ranil Wickremesinghe said at a campaign rally, signaling that he expected talks to conclude successfully.
-
-He took over a country that was bankrupt and his task was to end it. He discussed with the IMF and reached an agreement. Then discussions were held with bilateral creditors, with two agreements were reached. One with China and another with other countries.
-
-“By tomorrow the discussions with private bondholders will end,” he told an election rally Wednesday.
-
-“There we will enter into an agreement. When all three agreements are considered, the label of bankruptcy will be removed.”
-
-When combined with earlier agreements, the label of bankruptcy will be removed, he said.
-
-“Though we have made the economy stable, it can reverse. We have to re-inforce it.”
-
-...
-
-[Data](articles/87830d5a.json)
-
-[Extended Data](ext_articles/87830d5a.ext.json)
-
----
-
-### Special Arrangements at Voting Centers - Elections Commission
-
-*2024-09-18 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/194048) · `ta`
-
-Elections Commission makes special arrangements for disabled voters, including sign language assistance and senior staff support. Polling stations open Saturday from 7am to 4pm. Voters must bring valid identification. Campaigns end midnight Wednesday.
-
-🟩
-
-The Commissioner General of Elections Saman Sri Ratnayaka said that the Elections Commission has made arrangements to vote easily with the help of a senior head of the duties when an invisible voter is going to the polling booth when a special need for special needs in the upcoming presidential election.
-
-Meanwhile, it is illegal that a party provides transportation to voters on the election. The Commissioner General of Elections Saman Sri Ratnayake said that if the transportation facilities are provided to those who are inability to provide transportation facilities
-
-The “Awareness of Voters” on the presidential election was held on Wednesday (18) at the Election Commission.
-
-Elections Commission Chairman RMAL Ratnayake, Elections Commissioner Saman Sri Ratnayake, Additional Commissioner of Elections Commission. Achuthan and Deputy Elections Commissioner KJS. Led under the leadership of Madhava.
-
-...
-
-[Data](articles/383fbbad.json)
-
-[Extended Data](ext_articles/383fbbad.ext.json)
-
----
-
-### Nuwan Bopake should be successful to make a change in the people's requested system - spring first
-
-*2024-09-18 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194056) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Nuwan Bopake, presidential candidate, aims to bring change through the People's Struggle Alliance. Critics argue current policies worsen economic issues and increase costs for citizens. Supporters call for voting for Bopake to address national concerns and implement alternative solutions.
-
-🟩
-
-People demanded a change in the country's economy and political activities. We have put forward this election as a people's struggle alliance. The people's struggle coalition activist Vasantha Mulleke said that the presidential candidate Nuwan Bopake should be won to make that political change.
-
-The final election of the People's Alliance was held on Wednesday (18) in Kiribathgoda Nagar. He said this while addressing the gathering.
-
-In the past, there have been massive opposition and criticism among the people regarding the political system of the country. However, all candidates are making false promises to plunder the opposition of the people within the election heat. The promise of those promises is that people's concern and difficulties are attempted to turn the votes. There is no program that can respond to people's problems.
-
-...
-
-[Data](articles/edf797a5.json)
-
-[Extended Data](ext_articles/edf797a5.ext.json)
-
----
-
-### Sri Lanka to exit bankruptcy after tomorrow’s talks with sovereign bondholders - President
-
-*2024-09-18 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102066/sri-lanka-to-exit-bankruptcy-after-tomorrows-talks-with-sovereign-bondholders-president) · `en`
-
-President Ranil Wickremesinghe announced that a crucial discussion between the Government of Sri Lanka and international sovereign bondholders will take place tomorrow (19).
-
-Following this meeting, Sri Lanka is expected to receive international support once the country’s bankruptcy is fully resolved, he said.
-
-The President also expressed his satisfaction, stating that he was entrusted with a task and he is pleased to report that the work entrusted to him has been successfully completed by September 21.
-
-He made these remarks during the “Ranil Can” election rally held at the Matara Uyanwatta Stadium earlier today (18).
-
-President Wickremesinghe highlighted that he successfully addressed the country’s economic crisis with the motto “Puluwan Sri Lanka” (Yes we Can) and emphasized that the current focus is on developing the nation under the same banner.
-
-He stressed the importance of electing a leader capable of leading the country forward.
-
-...
-
-[Data](articles/7274c0dc.json)
-
-[Extended Data](ext_articles/7274c0dc.ext.json)
-
----
-
-### Here is the full story of the incident that Sajith absented at 360 Derana
-
-*2024-09-18 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201165) · `si`
-
-Sajith Premadasa cancels appearance on Derana 360 program due to scheduling conflict.
-
-🟩
-
-Seven candidates were given 'Derana special 360' program with the balanced policy we follow.
-
-Accordingly, we have been invited by Sajith Premadasa, the presidential power to the president.
-
-We have started the seven special 360 programs broadcast on Thursday, September 12.
-
-After an informs of Sajith Premadasa, the 360 ​​secretary handling his diaries at his instructions was recorded on September 17.
-
-The Ada Changa Director was later transferred with Sajith Premadasa with Sajith Premadasa and broadcast the previous propaganda on September 11.
-
-We also published advertisements on Thursday, Thursday, Friday and Weekend newspaper and Sajith Premadasa will participate in the Derana special 360 program.
-
-Sunday, September 15, discussed the program with the recording of the program with Sajith Premadasa, a member of Sajith Premadasa, that Sajith Premadasa did not participate in the program to stop broadcasting the previous propaganda.Does.
-
-...
-
-[Data](articles/b72b2879.json)
-
-[Extended Data](ext_articles/b72b2879.ext.json)
-
----
-
-### Sri Lanka’s NPP to push IMF anti-graft moves, negotiate path to other targets: econ council chief
-
-*2024-09-18 20:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-to-push-imf-anti-graft-moves-negotiate-path-to-other-targets-econ-council-chief-179928/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s National People’s Power is keen to implement the corruption requirements of an International Monetary Fund program, and will negotiate on ways to achieve targets, the head of its economic council, Anil Jayantha said.
-
-The NPP wanted an alternative debt sustainability analysis for future discussions with the IMF, Jayantha, a professor at Sri Lanka’s Jayawardenepura University said.
-
-“Actually, we do not want to replace forcefully with the alternative DSA but it is to get good input and information to go to the next level of discussion with the IMF at the next review.”
-
-“The IMF also had several discussions with us. They showed the willingness to discuss our alternative ways of meeting the targets as long overall objectives are met.”
-
-The NPP also wanted to make Sri Lanka’s debt sustainable and stabilize the macroeconomy and the external sector, he said.
-
-Even a debt to GDP ratio of 95 percent aimed at, in the DSA was quite high for a country like Sri Lanka, he said.
-
-...
-
-[Data](articles/c1bcd20b.json)
-
-[Extended Data](ext_articles/c1bcd20b.ext.json)
-
----
-
-### Sri Lanka is free of bankruptcy after tomorrow's discussion with Snowgings
-
-*2024-09-18 20:08:15* · [`adalk`](https://www.ada.lk/breaking_news/ස්වෛරි-බැදුම්කර-හිමියන්-සමඟ-හෙට-පැවැත්වෙන-සාකච්ඡාවෙන්-පසු-ලංකාව-බංකොළොත්භාවයෙන්-නිදහස්/11-412014) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka faces economic challenges but claims progress under current leadership. President Ranil Wickremesinghe addresses public concerns, emphasizing need for stability and international cooperation. He criticizes opposition for lack of concrete plans, urging voters to consider long-term benefits.
-
-🟩
-
-Sri Lanka said, "Can say that the economic challenge is to face the economic challenge: today," Sri Lanka "is to improve the country
-
-People have the responsibility of selecting a leader who can carry a country
-
-If the country had plans to improve the country, why did the country not be accepted two years ago?
-
-The economy of the country is publicly said that the team with Sajith is
-
-President Ranil Wickremesinghe said that a meeting between the Government of Sri Lanka and the International Sovereign Bonders of Sri Lanka will be held tomorrow.
-
-The President said that if the message that the work was completed was successfully completed if he was handed over to him
-
-President Ranil Wickremesinghe addressing the matter at the Uyanwatta Stadium in Matara this afternoon.
-
-The President said that "Sri Lanka" that he faced the economic challenge and win the economic challenge, said that the people of Sri Lanka said that the country had the responsibility of making a leading leader.
-
-...
-
-[Data](articles/4190eae2.json)
-
-[Extended Data](ext_articles/4190eae2.ext.json)
-
----
-
-### Accident in Omanthai in Vavuniya
-
-*2024-09-18 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194055) · `ta`
-
-Motorcyclists crash in Omanthai, Vavuniya. Two men die after being hit while standing on road. Sangeethan (40) and Yogarasa (42) killed.
-
-🟩
-
-Two motorcyclists were traveling from Omanthai Pairakkayakulam area to Vavuniya when they were traveling to the Omanthai refueling station when they were traveling with a man standing on the road.
-
-The two injured in the accident were rescued by the road and admitted to the Vavuniya Hospital. However, they have already died at the hospital.
-
-Sangeethan age 40 from Omanthai Pandigaiyadakulam area and Yogarasa 42 from Kilinochchi.
-
-◼️
-
-[Data](articles/52a22bb0.json)
-
-[Extended Data](ext_articles/52a22bb0.ext.json)
-
----
-
-### Final election campaign meeting in Nallur, Jaffna
-
-*2024-09-18 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194054) · `ta`
-
-Nallur, Jaffna: Final election campaign meeting supports Tamil candidate Pa Ariyanethran. Attendees include local politicians, party leaders, and activists. Event promotes Tamil representation in upcoming elections.
-
-🟩
-
-The final election campaign meeting was held on Wednesday in Nallur, Jaffna in support of Tamil general candidate Pa.
-
-At the meeting held at Nallur Changhiyan Thoppu, Tamil general candidate Pa Ariyanethran, Member of Parliament T Siddharthan, Tamil National Party leader N.Rikanta, EPRLF. President Suresh Premachandran, Tamil National Green Movement Leader P Ingaranesan, Tamil People's Alliance V. Manivannan, Relo's Colos, Democratic Militants Party leader Venthan, political researchers Nilanthan, CA Jothilingam and many others were present.
-
-◼️
-
-[Data](articles/4bc80311.json)
-
-[Extended Data](ext_articles/4bc80311.ext.json)
 
 ---

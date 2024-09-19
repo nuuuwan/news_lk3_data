@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 05:22:31**
+As of **2024-09-19 05:43:52**
 
 ## Newspaper Stats
 
-*Scraped **44,650** Articles*
+*Scraped **44,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,836
+tamilmirrorlk | 5,837
 virakesarilk | 7,140
 adaderanasinhalalk | 7,642
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,650 (100.0%) of 44,650 articles have been extended.
+44,650 (100.0%) of 44,651 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,24 @@ The delegation was led by General Manager of Investment Promotion and Marketing 
 [Data](articles/0bf5082f.json)
 
 [Extended Data](ext_articles/0bf5082f.ext.json)
+
+---
+
+### ’20 இலட்சம் மேலதிக வாக்குகளால் வெற்றி நிச்சயம்’
+
+*2024-09-19 02:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-இலட்சம்-மேலதிக-வாக்குகளால்-வெற்றி-நிச்சயம்/175-343999) · `ta`
+
+புலனாய்வுத் துறை அறிக்கையின் பிரகாரம் 20 இலட்சம் மேலதிக வாக்குகளால் ஐக்கிய மக்கள் சக்தி வெற்றி பெறும். காலை வாருகின்ற ரணில் அநுர ஜோடி கீழ் மட்டத்திலே இருக்கின்றது.
+
+புனித தலதா மாளிகையில் தேர்தல் விஞ்ஞாபனத்தை முதன் முதலில் சமர்ப்பித்து ஆசிர்வாதத்தை பெற்றுக் கொண்ட பின்னரே நாம் தேர்தல் பணிகளை ஆரம்பித்தோம். தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிடப்பட்ட விடயங்கள் அனைத்தையும் புத்தபெருமானின் ஆசீர்வாதங்கள் பாதுகாக்கும் என்பதோடு நாம் நிச்சயமாக வெற்றி பெறுவோம்.
+
+இந்த வெற்றியை அமைதியான முறையில் கொண்டாடுமாறு கேட்டுக் கொள்கின்றேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+2024 ஆம் ஆண்டு ஜனாதிபதி தேர்தலை முன்னிட்டு ஐக்கிய மக்கள் கூட்டணி ஏற்பாடு செய்த 68 ஆவது மக்கள் வெற்றி பேரணி செப்டம்பர் 18 ஆம் திகதி எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் மொனராகலையில் மிக வெற்றிகரமாக முன்னெடுக்கப்பட்டது. இதில் கலந்துகொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/6dbd4333.json)
 
 ---
 
@@ -2287,29 +2305,5 @@ The 12-month bills held steady at 10.07 percent, with only 989 million sold of a
 [Data](articles/3937a5bb.json)
 
 [Extended Data](ext_articles/3937a5bb.ext.json)
-
----
-
-### Another decision of the court regarding Deshabandu's incident
-
-*2024-09-18 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201154) · `si`
-
-Supreme Court rejects interim petition to lift injunction in Deshabandu case. Three judges hear arguments from Buddhist monks and academics. Decision made without disclosing reasoning.
-
-🟩
-
-The Supreme Court today rejected the Supreme Court today (18) a interim petition filed by Deshabandu Tennakoon to remove the interim injunction.
-
-These petitions were presented by Ven. Bellanwila Dhammaratana Thero, Professor Thakkada Sirisumana and Kotipitiya Rahula Thera.
-
-The intermediate petition was called before the three-member Supreme Court Bench, Yasantha Kodagoda, Aethantha Kodagoda, Aetala Windsuli and Mahinda Samayawardena today.
-
-Judge, Judge Yasantha Kodagoda, announced by the intermediate petition, was revealed that he was not disclosed in the context of the intermediate petition.
-
-◼️
-
-[Data](articles/eb5226da.json)
-
-[Extended Data](ext_articles/eb5226da.ext.json)
 
 ---

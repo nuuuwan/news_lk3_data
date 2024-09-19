@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 10:22:46**
+As of **2024-09-19 10:38:08**
 
 ## Newspaper Stats
 
-*Scraped **44,696** Articles*
+*Scraped **44,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 5,254
 tamilmirrorlk | 5,853
 virakesarilk | 7,141
-adaderanasinhalalk | 7,650
+adaderanasinhalalk | 7,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,688 (100.0%) of 44,696 articles have been extended.
+44,696 (100.0%) of 44,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### පාසල් නිවාඩු දිනයක් ගැන දැනුම්දීමක්
+
+*2024-09-19 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201182) · `si`
+
+සැප්තැම්බර් 20 වන සිකුරාදා දින දිවයිනේ සියලුම පාසල්වලට නිවාඩු දිනයක් බව අධ්‍යාපන අමාත්‍යංශය නිවේදනය කෙරෙයි.
+
+සැප්තැම්බර් මස 21 වන දින පැවැත්වීමට නියමිත ජනාධිපතිවරණය හේතුවෙන් මැතිවරණ කොමිෂන් සභාවේ සභාපතිගේ ඉල්ලීමක් මත අධ්‍යාපන අමාත්‍යංශය විසින් එම තීරණය ගෙන තිබේ.
+
+නැවත පාසල් ආරම්භය සැප්තැම්බර් 23 වන දිනයේදී සිදුවන බව වැඩිදුරටත් දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/43fa9911.json)
+
+---
 
 ### EC prepared for any potential weather disruptions during Presidential Election
 
@@ -50,25 +66,33 @@ Accordingly, the Director of the Disaster Management Centre, Pradeep Kodippili m
 
 [Data](articles/acd08e18.json)
 
+[Extended Data](ext_articles/acd08e18.ext.json)
+
 ---
 
-### வாக்கி-டாக்கி வெடிப்பில்  பலி எண்ணிக்கை 20ஆக அதிகரிப்பு
+### Increase to 20 deaths in walking-tacki explosion
 
 *2024-09-19 10:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வாக்கி-டாக்கி-வெடிப்பில்-பலி-எண்ணிக்கை-20ஆக-அதிகரிப்பு/50-344011) · `ta`
 
-லெபனானில் பேஜர்கள் வெடித்துச் சிதறிய நிலையில், தற்போது ஹிஸ்புல்லா அமைப்பினர் பயன்படுத்திய வாக்கி-டாக்கிகள் வெடித்ததில் 20 பேர் உயிரிழந்தனர். 450க்கும் மேற்பட்டோர் பலத்த காயமுற்றனர்.
+Explosion kills 20 injures 450 in Lebanon. Walkie-talkies detonated during funeral. Israeli intelligence suspected.
 
-மேற்காசிய நாடான இஸ்ரேலுக்கும், ஹமாஸ் பயங்கரவாத அமைப்புக்கும் இடையேயான போர் கடந்தாண்டு அக்., 7இல் தொடங்கியது.
+🟩
 
-ஹமாஸ் அமைப்புக்கு, அண்டை நாடான லெபனானில் இருந்து செயல்படும் ஹிஸ்புல்லா பயங்கரவாத அமைப்பு ஆதரவு அளித்து வருகிறது. ஈரானின் ஆதரவைப் பெற்ற ஹிஸ்புல்லா, இஸ்ரேல் மீது தொடர் தாக்குதலில் ஈடுபட்டு வருகிறது. இஸ்ரேலும் பதில் தாக்குதல் நடத்தி வருகிறது.
+With the explosion of pagers in Lebanon, 20 people were killed when a walkie-talkie exploded by Hizbullah organizations. More than 450 people were seriously injured.
 
-ஹிஸ்புல்லா அமைப்பை, அமெரிக்கா மற்றும் ஐரோப்பிய யூனியன் ஏற்கனவே தடை விதிக்கப்பட்ட பயங்கரவாத அமைப்பாக அறிவித்துள்ளன. இந்நிலையில், லெபனானில் 3,000க்கும் மேற்பட்ட ஹிஸ்புல்லா பயங்கரவாதிகளின் பேஜர் எனப்படும் தகவல்களை அனுப்ப பயன்படுத்தப்படும் மின்னணு சாதனம், நேற்று முன்தினம் வெடித்து சிதறியது.
+The war between the Western country of Israel and the Hamas terrorist organization began on October 7 last year.
 
-பல்வேறு பகுதிகளில் ஒரே சமயத்தில் பேஜர் வெடித்ததில், 12 பேர் பலியாகினர்; 2,750 பேர் காயமடைந்தனர். இவர்களில், 200 பேரின் நிலை கவலைக் கிடமாக உள்ளது.
+The Hizbullah terrorist organization, operating from neighboring Lebanon, is supporting the Hamas organization. Hizbullah, who has received Iran's support, is engaged in a series of attacks on Israel. Israel is also in response.
+
+Hizbullah has declared the US and the European Union as a banned terrorist organization. In the meantime, the electronic device, which was used to send more than 3,000 Hezbollah terrorists' pager in Lebanon, exploded yesterday.
+
+12 people were killed when Page exploded at simultaneously in various areas;2,750 people were injured. Of these, 200 are concerned.
 
 ...
 
 [Data](articles/93a7ce9b.json)
+
+[Extended Data](ext_articles/93a7ce9b.ext.json)
 
 ---
 
@@ -100,59 +124,81 @@ The Election Commission has urged that the election offices functioning beyond t
 
 ---
 
-### “தேர்தல் அலுவலகங்கள் அகற்றப்படும்”
+### “Election offices will be removed”
 
 *2024-09-19 09:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அலுவலகங்கள்-அகற்றப்படும்/175-344009) · `ta`
 
-தேர்தல் காலத்தில் அங்கீகரிக்கப்பட்ட தேர்தல் செயல்பாட்டு நேர வரம்புகளை விவரிக்கும் அறிவிப்பை தேர்தல் ஆணையம் வெளியிட்டுள்ளது.
+"Election offices closing: Branches stop at midnight Thursday. Polling booth offices open Friday, end Sept 22. Presidential candidate home offices banned after Sept 22. Unlawful offices removed."
 
-அந்த அறிவிப்பின்படி, தொகுதி அளவில் அறிவிக்கப்பட்ட கிளை தேர்தல் அலுவலகங்களின் செயல்பாடு வியாழக்கிழமை (19) நள்ளிரவுடன் நிறுத்தப்படும்.
+🟩
 
-ஒவ்வொரு வாக்குச் சாவடியின் மட்டத்திலும் நிறுவப்பட்ட தேர்தல் அலுவலகங்கள் நாளை முதல் செயல்படத் தொடங்கும் மற்றும் செப்டம்பர் 22 ஆம் திகதி வரை பராமரிக்கப்படும். அதேபோல், தொகுதி அளவிலான தேர்தல் அலுவலகங்கள் செயல்படுவதற்கான கால அவகாசமும் செப்டம்பர் 22ஆம் திகதி நள்ளிரவுடன் முடிவடைகிறது.
+The Election Commission has issued a notification that describes the recognized election time limit period during the election period.
 
-மேலும், செப்டம்பர் 22ஆம் திகதி நள்ளிரவில் இருந்து, ஜனாதிபதி வேட்பாளர்களோ அல்லது அவர்களது அங்கீகரிக்கப்பட்ட பிரதிநிதிகளோ தங்கள் வீடுகளை தேர்தல் அலுவலகங்களாக பயன்படுத்த அனுமதிக்கப்பட மாட்டார்கள். இந்த காலக்கெடுவிற்கு அப்பால் செயல்படும் தேர்தல் அலுவலகங்கள் தேர்தல் சட்டத்தின்படி உடனடியாக அகற்றப்படும் என தேர்தல் ஆணைக்குழு வலியுறுத்தியுள்ளது
+According to the announcement, the functioning of the branch election offices announced at the volume will be stopped at midnight on Thursday (19).
+
+Election offices established at the level of each polling booth will begin tomorrow and maintain until September 22. Similarly, the deadline for operating constituencies in volume -level election offices ends at midnight on September 22.
+
+Moreover, from midnight on September 22, the presidential candidates or their recognized representatives will not be allowed to use their homes as election offices. The Election Commission has urged that the election offices functioning beyond the deadline will be immediately removed under the Election Act.
 
 ◼️
 
 [Data](articles/558c8080.json)
 
+[Extended Data](ext_articles/558c8080.ext.json)
+
 ---
 
-### මැතිවරණ රාජකාරී සඳහා බස් 1,358ක් සුදානම්
+### 1,358 buses ready for election duties
 
 *2024-09-19 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201181) · `si`
 
-මෙවර ජනාධිපතිවරණයට අදාළව මැතිවරණ රාජකාරී කටයුතු සඳහා බස් රථ 1,358ක් ලබාදීමට නියමිත බව ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය පවසයි.
+Sri Lanka prepares for elections: 1,358 buses deployed, 175 for police duty. Special bus service planned for villages. Train runs between Colombo Fort and Kankasanthurai. Road issues delay train operation.
 
-එහි නියෝජ්‍ය සාමාන්‍යාධිකාරී පණ්ඩුක ස්වර්ණහංස මහතා සඳහන් කළේ, දිස්ත්‍රික් මැතිවරණ කාර්යාල හරහා සිදුකර ඇති ඉල්ලීම් පරිදි එම බස් රථ ලබාදීමට කටයුතු කරන බවය.
+🟩
 
-ඊට අමතරව මැතිවරණයට අදාළ පොලිස් රාජකාරී කටයුතු සඳහා ද බස් රථ 175ක් ලබාදීමට නියමිතව තිබේ.
+The Sri Lanka Transport Board says that 1,358 buses will be provided with the presidential election this year.
 
-මේ අතර ඡන්දය භාවිත කිරීම සඳහා ගම්බිම් බලා පිටත් වන ජනතාවගේ පහසුව සඳහා අද (20) සහ හෙට (21) යන දිනවල දුර ගමන් සේවා විශේෂ බස් රථ සේවාවක් ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බව ලංකා ගමනාගමන මණ්ඩලය පැවසුවේය.
+The Deputy General Manager of Punchuka Swarnasty said that the buses will be provided as per the District Elections Office.
 
-මේ අතර කොළඹ කොටුව සහ කන්කසන්තුරය අතර අද දින විශේෂ දුම්රියක් ධාවනය කිරීමට සැලසුම් කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+In addition, 175 buses are to be given to the police duties.
 
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව සඳහන් කළේ, අද සහ ලබන 21 වන දින මෙම දුම්රිය කොළඹ කොටුවේ සිට කන්කසන්තුරය දක්වා ධාවනය කරන අතර හෙට සහ 22 වන දින කන්කසන්තුරයේ සිට කොළඹ දක්වා ධාවනය කිරීමට නියමිත බවය.
+Meanwhile, a special bus service is scheduled to implement a special bus service for the convenience of the village and tomorrow (20) and tomorrow (20).
 
-...
+Meanwhile, the Railway Department says that a special train will be operated today between Colombo Fort and Kankasurai.
+
+In a statement, the train will be operated from Colombo Fort on the 21st and the 21st of the 21st of the Kankesanthurai to Colombo.
+
+However, the train drivers' union says that the train will not be added due to the defective condition of Anuradhapura and Mahawa road.
+
+The Locotiv Opposition Engineer Association of Lal, Chandana Lal, said that the reconstruction of the road was completed, but there were signal errors.
+
+◼️
 
 [Data](articles/f4526966.json)
 
+[Extended Data](ext_articles/f4526966.ext.json)
+
 ---
 
-### පුපුරණ ද්‍රව්‍ය සමග සැකකරුවන් පිරිසක් කොටුවෙයි
+### Suspects with explosives
 
 *2024-09-19 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201180) · `si`
 
-නාඋල පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත ඊයේ (18) අලුයම නාඋල බිබිල ප්‍රදේශයේ සිදුකළ වැටලීමක දී මෙම සැකකරුවන් ත්‍රීරෝද රථයකින් ගමන් කරමින් සිටිය දී අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය අංශය පවසයි.
+Explosives suspects arrested in Naula Bibile. Found 5 detonators, water gel, wire. Ages: 38, 49, 50, 65. Residents of Katugastota, Gampola, Udagavi.
 
-එහිදී සැකකරුවන් සතුව තිබී සේවා නූල් සවි කරන ලද ඩෙටනේටර් 05ක්, වෝටර් ජෙල් කූරු 03ක් සහ වයර් රෝලක් සොයාගෙන ඇත.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 38, 49, 50 සහ 65 යන වයස්වල පසුවන කටුගස්තොට, ගම්පොළ, ඇළහැර හා උඩලගවින්න ප්‍රදේශයවල පදිංචිකරුවන් වේ.
+The suspects have been arrested in Naula Bibile in Naula yesterday (18th) at Naula Bibile in Naula yesterday (18th).
+
+Five detonators have been found in the possession of the suspects, five water gel and a wire roll.
+
+The arrested suspects are residents of Katugastota, Gampola and Udagavi areas, who were aged 38, 49, 50 and 65.
 
 ◼️
 
 [Data](articles/08c91c16.json)
+
+[Extended Data](ext_articles/08c91c16.ext.json)
 
 ---
 
@@ -302,19 +348,25 @@ Meanwhile, the Railway Department has taken steps to operate a special train bet
 
 ---
 
-### சனியன்று ரயில்கள் ஓடும்
+### The trains will run on Saturday
 
 *2024-09-19 08:21:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனியன்று-ரயில்கள்-ஓடும்/175-344005) · `ta`
 
-ஜனாதிபதித் தேர்தல் தினத்தன்று வழக்கமான ரயில் நேர அட்டவணை அமுல்படுத்தப்படும் என ரயில்வே பிரதி பொது முகாமையாளர் நந்தன இடிபோலகே தெரிவித்துள்ளார்.
+Trains resume normal service on Sat. Long-distance trains operate Sun. Short-distance routes reduced. Special train runs Colombo-Kankesanthurai for election officials.
 
-ஞாயிற்றுக்கிழமை (22) நீண்ட தூர ரயில்கள் இயக்கப்படும் என்றும், குறுகிய தூர ரயில் பயணங்களில் ஒரு குறிப்பிட்ட அளவு குறையும் என்றும் தெரிவித்தார்.
+🟩
 
-இதேவேளை, தேர்தல் கடமைகளில் ஈடுபடும் அரச அதிகாரிகள் மற்றும் பாதுகாப்பு உத்தியோகத்தர்களுக்காக கொழும்பு கோட்டைக்கும் காங்கேசன்துறைக்கும் இடையில் விசேட புகையிரதத்தை இயக்குவதற்கு ரயில்வே திணைக்களம் நடவடிக்கை எடுத்துள்ளது. R
+Railway Deputy General Manager Nandana Idipolake said that the regular train schedule will be implemented on the presidential election day.
+
+He said long -distance trains will be operated on Sunday (22) and a certain amount of short -distance train travel will be reduced.
+
+Meanwhile, the Railway Department has taken steps to run a special train between Colombo Fort and Kankesanthurai for state officials and security officers who are engaged in election duties.. Remble
 
 ◼️
 
 [Data](articles/90a42f2a.json)
+
+[Extended Data](ext_articles/90a42f2a.ext.json)
 
 ---
 
@@ -510,19 +562,27 @@ Commenting on the one -day workshop to clarify to those in the construction sect
 
 ---
 
-### ’’நிர்மாணத்துறை இன்னும் மீளவில்லை’’
+### Construction Department has not yet recovered
 
 *2024-09-19 07:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்மாணத்துறை-இன்னும்-மீளவில்லை/175-344000) · `ta`
 
-இலங்கையில் ஏற்பட்ட பொருளாதார நெருக்கடியால் மிகவும் பாதிக்கப்பட்ட நிர்மாணத்துறை இன்னும் மீளவில்லை என இலங்கை தேசிய நிர்மாண சங்கத்தின் தலைவர் டேரின்டன் போல் தெரிவித்தார்.
+Sri Lanka's construction sector struggles post-economic crisis. Small firms leave business due to lack of government support. Industry contributes significantly to national economy. Foreign-funded projects halted; 2024 budget allocates funds to restart stalled constructions. Domestic sector development crucial for economic recovery.
 
-சுமார்  2000 முதல் 2500 வரையிலான சிறியளவிலான நிர்மாணத்துறையினர் தற்போது தமது தொழிலில் இருந்து விலகியுள்ள நிலையில், நாட்டின் 9 மாகாணங்களில் உள்ள 11 அலுவலகங்களின் ஊடாக, நிர்மாணத்துறையில் உள்ளவர்களுக்கு தெளிவினை பெற்றுக்கொடுத்து அவர்களை வலுப்படுத்தும் நடவடிக்கைகள் தற்போது முன்னெடுக்கப்பட்டு வருவதாக அவர் கூறினார்.
+🟩
 
-நாட்டில் சிறிய மற்றும் நடுத்தர நிர்மாணத்துறையினரே அதிகளவில் உள்ள நிலையில், நாட்டின் நிர்மாணதுறை சார்ந்த சட்டத்திட்டங்கள் தொடர்பில் அவர்களுக்கு போதிய தெளிவின்மையால் பல்வேறு விதிமீறல்கள் இடம்பெறவதுடன், இது தொடர்பில் தெளிவுப்படுத்தல்களை வழங்குவதற்காக நாடு முழுவதும், பல்வேறு செயமர்வுகளை இலங்கை தேசிய நிர்மாண சங்கம் முன்னெடுத்துள்ளதாக அவர் சுட்டிக்காட்டினார்.
+Sri Lanka National Construction Association president Daryinton Paul said that the construction sector has not yet recovered the economic crisis in Sri Lanka.
+
+He said that the small construction department from about 2000 to 2500 is now leaving their business, with 11 offices in the country's 9 provinces, which are currently underway and strengthening them.
+
+He pointed out that the Sri Lanka National Construction Association has implemented various activities across the country to provide clarity in the country, with the inadequate clarity of them on the country's construction laws and the country's small and medium construction sector.
+
+Commenting on the one -day workshop to clarify to those in the construction sector last Friday, he said, “No government has made efforts to strengthen the collapse of the country in the country.. If the best construction sector is able to create in the country, the public will be wasting money.
 
 ...
 
 [Data](articles/cfef7293.json)
+
+[Extended Data](ext_articles/cfef7293.ext.json)
 
 ---
 
@@ -964,19 +1024,33 @@ As too often in the past, Sri Lanka appears not to have broken its damaging tend
 
 ---
 
-### 45 தமிழக மீனவர்களுக்கு ரூ.10 கோடி  அபராதம்
+### 45 Tamil Nadu fishermen fined Rs 10 crore
 
 *2024-09-19 02:05:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/45-தமிழக-மீனவர்களுக்கு-ரூ-10-கோடி-அபராதம்/175-343992) · `ta`
 
-இலங்கைக் கடற்படையினரால் கைது செய்யப்பட்ட 35 நாட்டுப் படகு மீனவர்கள், 10 விசைப் படகு மீனவர்கள் என 45 தமிழக மீனவர்களுக்கு மொத்தம் பத்துக் கோடி ரூபா அபராதம் விதித்து புத்தளம் நீதிமன்றம் நேற்று  உத்தரவிட்டுள்ளது.
+Tamil Nadu fishermen fined Rs 10 crore by Sri Lankan court for illegal fishing activities. 45 fishermen penalized, some sentenced to imprisonment for failing to pay fines.
 
-இராமேஸ்வரம் அருகே பாம்பன் மீன்பிடி துறைமுகத்திலிருந்து கடலுக்குச் சென்ற  நான்கு நாட்டுப் படகுகளை கைப்பற்றி அதிலிருந்த 35 மீனவர்களை இலங்கைக் கடற்படையினர் கடந்த ஆகஸ்ட் 8 ஆம் திகதியன்று  கைது செய்தனர்.
+🟩
 
-35 மீனவர்கள் மீதும் எல்லை தாண்டி மீன்பிடித்தல், தடை செய்யப்பட்ட வலைகளை பயன்படுத்துதல் உள்ளிட்ட பிரிவுகளின் கீழ் குற்றப்பத்திரிக்கை தாக்கல் செய்யப்பட்டு புத்தளம் மாவட்டம் வாரியாபொல சிறையில் அடைக்கப்பட்டிருந்தனர்.
+The Puttalam court yesterday ordered a total of Rs.
 
-...
+On August 8, the Sri Lankan navy arrested 35 fishermen from the Pamban fishing harbor near Rameswaram.
+
+35 fishermen have been filed under the Criminal Persons under the categories of fishing and the use of banned nets.
+
+Following the fishermen's detention, 35 fishermen were produced before the Puttalam Court. Judge Wimalaratna, who was hearing the case, said that 12 fishermen from a long country boat. 35 lakhs and a fine of Rs.. The Puttalam court has ordered three months' imprisonment for failing to pay the fine.
+
+In addition, 10 fishermen who went to sea from Daruwaikulam in Thoothukudi district were arrested by the Sri Lankan navy in a fishing fishing booth belonging to Anthony Then Denilla.
+
+These 10 fishermen. 35 lakhs fined. The Puttalam court has ordered the sentence to be sentenced to six months in prison for failing to pay the fine.
+
+Accordingly, 45 Tamil Nadu fishermen have been fined Rs 10 crore. (A)
+
+◼️
 
 [Data](articles/350a04fe.json)
+
+[Extended Data](ext_articles/350a04fe.ext.json)
 
 ---
 
@@ -2233,29 +2307,5 @@ He added that the election campaigns ended after 12 pm last night and could run 
 [Data](articles/78b61319.json)
 
 [Extended Data](ext_articles/78b61319.ext.json)
-
----
-
-### Closely
-
-*2024-09-18 18:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவருக்கிடையில்-நெருக்கமான-போட்டி/175-343970) · `ta`
-
-Sri Lanka presidential election: Sajith Premadasa vs Anura Kumara Dissanayake lead; Ranil Wickremesinghe third. Polls predict close race, possible second-round voting.
-
-🟩
-
-In the upcoming presidential election, the United People's Power Sajith Premadasa and the National People's Power Anurakumara Dissanayake are in the forefront and President Ranil Wickremesinghe is back in 3rd place.
-
-“When the election results are announced on September 22, one of the two (Sajith Premadasa or Anurakumara Dissanayake) will be declared the ninth executive president of Sri Lanka,” the International current issues magazine and The Diplomate said in a study on Sri Lanka.
-
-Quoting India's "Deccan Herald" polls, there is a fierce rivalry between Opposition Leader Sajith Premadasa and NP's Anura Kumara Dissanayake, “Sajith and Anura can get 35 per cent votes, while Ranil Wickremesinghe secured 24-25 in the third place.In. ”
-
-Many international reports predicted that the election could go to the second preferential vote for the first time in Sri Lankan history.
-
-◼️
-
-[Data](articles/82ca9b2d.json)
-
-[Extended Data](ext_articles/82ca9b2d.ext.json)
 
 ---

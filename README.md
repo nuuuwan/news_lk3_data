@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 13:22:36**
+As of **2024-09-19 13:38:37**
 
 ## Newspaper Stats
 
-*Scraped **44,732** Articles*
+*Scraped **44,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,130
+adalk | 4,131
 dailymirrorlk | 4,733
 adaderanalk | 5,259
 tamilmirrorlk | 5,858
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,661
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,732 (100.0%) of 44,732 articles have been extended.
+44,732 (100.0%) of 44,733 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -933,6 +933,20 @@ Kohuwala police are conducting further investigations into the shooting incident
 [Data](articles/fc0d8251.json)
 
 [Extended Data](ext_articles/fc0d8251.ext.json)
+
+---
+
+### මීළඟ සමාලෝචනයට අයි.එම්.එෆ්. නිලධාරින් තවත් සති දෙකකින් ලංකාවට
+
+*2024-09-19 09:07:00* · [`adalk`](https://www.ada.lk/breaking_news/මීළඟ-සමාලෝචනයට-අයි-එම්-එෆ්--නිලධාරින්-තවත්-සති-දෙකකින්-ලංකාවට/11-412017) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල ශ්‍රි ලංකාව සම්බන්ධයෙන් ක්‍රියාත්මක කරන විස්තීරණ ණය පහසුකමට අදාළ ඊළඟ වාරිකය වෙනුවෙන් මුදල් ලබාදීමට අදාල සමාලෝන කටයුතු වෙනුවෙන් තවත් සති දෙකකින් එම අරමුදලේ නියෝජිතයින් ලංකාවට පැමිණීමට නියමිත බව ජනපති රනිල් වික්‍රමසිංහ මහතා පැවැසිය.
+
+"ඊළග වාරිකය වෙනුවෙන් මුදල් ලබාදීමට තවත් සති දෙකකින් ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් මෙරටට පැමිණෙනවා. එවිට මේ ගිවිසුම වෙනස් කරන බව අප පැවසුවොත් ඔවුන් අපට මුදල් ලබාදීම නවත්වනවා. එවිට රටේ ආර්ථිකය නැවත කඩා වැටෙනවා."
+
+◼️
+
+[Data](articles/b5054ac4.json)
 
 ---
 
@@ -2257,29 +2271,5 @@ Even in Parliament, Sajith retreated on that day, knowing that he could not get 
 [Data](articles/e16e7657.json)
 
 [Extended Data](ext_articles/e16e7657.ext.json)
-
----
-
-### One dies?
-
-*2024-09-18 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201171) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Body found dead in Nalagama, Tangalle. Police report injuries. Incident occurred on 18th day of current month.
-
-🟩
-
-A body of a person was killed with injuries in Nalagama, Tangalle.
-
-Police said the body was found today (18).
-
-◼️
-
-[Data](articles/f193e305.json)
-
-[Extended Data](ext_articles/f193e305.ext.json)
 
 ---

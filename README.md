@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 08:21:08**
+As of **2024-09-19 08:57:25**
 
 ## Newspaper Stats
 
-*Scraped **44,666** Articles*
+*Scraped **44,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 435
 colombotelegraphcom | 446
-islandlk | 2,627
+islandlk | 2,634
 economynextcom | 2,703
 dailyftlk | 2,980
-adalk | 4,123
+adalk | 4,124
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,843
+tamilmirrorlk | 5,846
 virakesarilk | 7,140
 adaderanasinhalalk | 7,645
 
@@ -26,11 +26,85 @@ adaderanasinhalalk | 7,645
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,666 (100.0%) of 44,666 articles have been extended.
+44,677 (100.0%) of 44,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Death in one of the shootings
+
+*2024-09-19 08:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்/175-344006) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+43-year-old shop owner killed in shooting at Kohuwala grocery store. Another man injured. Police investigating cause and suspects. No details released yet.
+
+🟩
+
+A 43 -year -old shop owner died in a shooting at a grocery store in Saranangara Mawatha, Kohuwala.
+
+A 43 -year -old man from Nedimalai, Dehiwala, was injured after being admitted to the Kalubowila Hospital after being admitted to the Kalubowila Hospital.
+
+No information on the cause of the shooting or the suspects has yet been revealed.
+
+Kohuwala police are conducting further investigations into the murder. Remble
+
+◼️
+
+[Data](articles/c6e56c59.json)
+
+[Extended Data](ext_articles/c6e56c59.ext.json)
+
+---
+
+### Will train services be carried out on election day?
+
+*2024-09-19 08:21:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தினத்தன்று-ரயில்-சேவைகள்-முன்னெடுக்கப்படுமா/175-344005) · `ta`
+
+Train services on election day: Regular schedules maintained, long-distance trains operating, short-distance routes reduced. Special train for election officials between Colombo Fort and Kankesanthurai.
+
+🟩
+
+Railway Deputy General Manager Nandana Idipolake said that the regular train schedule will be implemented on the presidential election day.
+
+He said long -distance trains will be operated on Sunday (22) and a certain amount of short -distance train travel will be reduced.
+
+Meanwhile, the Railway Department has taken steps to operate a special train between Colombo Fort and Kankesanthurai for government officials and security officers who are engaged in election duties.. Remble
+
+◼️
+
+[Data](articles/39bd9f23.json)
+
+[Extended Data](ext_articles/39bd9f23.ext.json)
+
+---
+
+### Will the scholarship exam be canceled?
+
+*2024-09-19 08:06:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-ரத்து-செய்யப்படுமா/175-344004) · `ta`
+
+Scholarship exam not canceled despite leaks. Parents protest over leaked questions. Three questions removed from exam. Investigation ongoing.
+
+🟩
+
+The Commissioner General of Examinations Amit Jayasundara said yesterday that no decision has been taken to cancel the fifth year scholarship examination held last Sunday (15).. Parents and some of the parents staged a demonstration in front of the Department of Examinations yesterday morning (18) demanding justice that some questions were leaked in the exam question.. However, the Commissioner said that he had informed them during a discussion with a committee.
+
+He said that only three questions were leaked before the scholarship examination, but that many teachers had been consulted by many teachers.
+
+He added that if the information of those who attended the discussion proves to be correct within three days, the Department of Examinations will strictly implement the law.
+
+He said that the 16 -question paper was in the debate and that there was only three questions unity.
+
+...
+
+[Data](articles/69a14ba6.json)
+
+[Extended Data](ext_articles/69a14ba6.ext.json)
+
+---
 
 ### Notification of the Excise Department
 
@@ -827,6 +901,40 @@ As too often in the past, Sri Lanka appears not to have broken its damaging tend
 [Data](articles/2a80de03.json)
 
 [Extended Data](ext_articles/2a80de03.ext.json)
+
+---
+
+### AIA Insurance recognised as Sri Lanka’s Most Loved Insurer in the Corporate Brands Category and one of the Topmost Loved Life Insurance Brands
+
+*2024-09-19 00:15:00* · [`islandlk`](http://island.lk/aia-insurance-recognised-as-sri-lankas-most-loved-insurer-in-the-corporate-brands-category-and-one-of-the-topmost-loved-life-insurance-brands/) · `en`
+
+AIA Insurance is proud to announce its recognition as one of the topmost loved life insurance brands in Sri Lanka. This accolade, awarded by LMD based on a comprehensive survey commissioned to PepperCube, marks a significant milestone for AIA Insurance.
+
+Our journey has been guided by a commitment to excellence and an unwavering focus on meeting the needs of our customers. Being named the Most Loved Insurer in the Corporate Brands category (Compiled by LMD based on a survey commissioned to PepperCube) is a testament to the trust and affection that Sri Lankans have placed in us. It is a validation of our efforts to provide unparalleled service and support to our policyholders, ensuring their financial security and peace of mind.
+
+...
+
+[Data](articles/e31a273f.json)
+
+[Extended Data](ext_articles/e31a273f.ext.json)
+
+---
+
+### AAC helps out with Crash helmets for schoolchildren
+
+*2024-09-19 00:11:00* · [`islandlk`](http://island.lk/aac-helps-out-with-crash-helmets-for-schoolchildren/) · `en`
+
+The Automobile Association of Ceylon donated 100 Crash helmets to Lasantha Alagiyawanna, M.P., State Minister of Transport on September 13 at the Transport Ministry to be distributed among schoolchildren in the Western Province. That is, in the Gampaha District, among students of Urapola Madya Maha Vidyalaya, Walpola Ekabadda Vidyalaya, Kooruwamulla Maha Vidyalaya & Galhoragalla Maha Vidyalaya under the Road Safety Programme.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/a33a5c25.json)
+
+[Extended Data](ext_articles/a33a5c25.ext.json)
 
 ---
 
@@ -1858,6 +1966,32 @@ The department said that the number of short -range train services may occur on 
 
 ---
 
+### ASP's assets banned the drawing drama on the irrection
+
+*2024-09-18 18:42:56* · [`adalk`](https://www.ada.lk/breaking_news/උද්දිකට-වෙඩි-තැබූ-නාටකය-ලියූ-ඒ-එස්-පීගේ-වත්කම්-තහනම්-කරයි/11-412006) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former ASP Udabba Uddika Premaratne faces investigation over alleged purchase of luxury cars and land from drug dealers. Assets worth millions, including BMWs and land, may be seized. Judge accepts Bribery Commission's request to probe and potentially ban these assets on Dec 18.
+
+🟩
+
+Former Assistant Superintendent of Assistant Superintendent of Assistant Parliamentarian Udabba Uddika Premaratne has planned to ban a luxury car and two acres of land and two acres of land.On the 18th.
+
+Do the former Assistant Superintendent of Police have purchased these vehicles and lands from drug dealers?The judge who accepted a request made by the Bribery Commission to investigate the request of the Bribery Commission and the two lands of corruption will be accepted by the Investigation Division of the Investigation Division of the Commission.As a result, the BMW type of Luxury Car, No. LL is banned by CBC 7199. Three vehicles, including the lorry, 9725, is larger than four acres of land in the North Central Province, the Central Secretary of the Nuwara Eliya of the North Central Province.
+
+The Finance and Real Estaries of Investigation Division (TEC) in connection with the Investigation Commission of Investigation Commission (ICI)
+
+...
+
+[Data](articles/39442e96.json)
+
+[Extended Data](ext_articles/39442e96.ext.json)
+
+---
+
 ### United People's Power won by 20 lakh votes - Sajith Premadasa
 
 *2024-09-18 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194050) · `ta`
@@ -2183,147 +2317,5 @@ On the 23rd of this month, we started the campaign work on "Nam for us" in Jaffn
 [Data](articles/0955bb18.json)
 
 [Extended Data](ext_articles/0955bb18.ext.json)
-
----
-
-### Sri Lanka stocks close up, banking shares in green
-
-*2024-09-18 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-shares-in-green-179908/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 1.34 percent, or 143.14 points, at 10,826; while the more liquid S&P SL20 Index closed up 1.92 percent, or 57.36 points, at 3,037.
-
-Turnover was 931 million, with the S&P edging back over3,000.
-
-Bank stocks contributed the most (Rs424mn) to the turnover, and most banks shares closed up.
-
-“Many stocks have bottomed out, so some are collecting, selectively,” stockbrokers said.
-
-Foreign buying was seen in Richard Pieris and Company (flat at 20.50), Ceylinco Holdings non-voting (up at 910.00), Chevron Lubricants Lanka (up at 117.00), LOLC Finance (up at 5.20), Browns Investments (up at 5.10), and Resus Energy (down at 21.50).
-
-...
-
-[Data](articles/1dcea396.json)
-
-[Extended Data](ext_articles/1dcea396.ext.json)
-
----
-
-### Sumanthiran, Chanakyan I am not in danger - Tamil general candidate Ariyanethran
-
-*2024-09-18 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194030) · `ta`
-
-Tamil MP Ariyanethran denies threat from Sumanthiran, Chanakyan over candidacy. Claims no pressure to withdraw.
-
-🟩
-
-Members of Parliament are MA.. Tamil general candidate Ba is hoping that Sumanthiran and Rasamanikam Chanakyan will not endanger life.. Said Ariyanethran.
-
-Yall. He said this during a media briefing held on Wednesday at the Media Center.
-
-The letter has been reported by the letter that I have a life threatening. I don't take it as Peris. However, I have now provided two members of the Pramukh Security Division (MSD).
-
-The letter stated that MPs MA, Sumanthiran and Rasamanikam Chanakyan are dissatisfied because I am contesting as a common candidate.
-
-At the same time no one asked me to quit the candidate. I don't give me that kind of pressure on me. Some may not agree because I am competing. He added that no one threatened or pressed me for that.
-
-◼️
-
-[Data](articles/6e82293f.json)
-
-[Extended Data](ext_articles/6e82293f.ext.json)
-
----
-
-### Kamindu Mendis slams 4th Test century, equals world Test record
-
-*2024-09-18 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102063/kamindu-mendis-slams-4th-test-century-equals-world-test-record) · `en`
-
-Sri Lankan batsman Kamindu Mendis scored his 4th Test Century while playing against New Zealand in the 1st Test at Galle, and he also equaled a world Test record by scoring 50+ runs in each of his first seven matches.
-
-He has also broken Michael Vandort’s record for fastest Sri Lankan batter to reach 4 Tests hundreds, in just 11 innings, thus equaling Don Bradman’s record.
-
-Mendis has joined an elite club, equalling a world Test record by becoming only the second batter to score 50-plus runs in each of his first seven Test matches.
-
-Pakistan’s Saud Shakeel is the only other cricketer to have achieved this remarkable feat.
-
-Mendis reached this milestone during the first day of the opening Test against New Zealand in Galle, scoring his eighth 50-plus in Tests.
-
-His achievement surpasses cricketing greats like Sunil Gavaskar (India), Saeed Ahmed (Pakistan), and Basil Butcher (West Indies), who all managed fifties in each of their first six Test matches.
-
-...
-
-[Data](articles/477a92b9.json)
-
-[Extended Data](ext_articles/477a92b9.ext.json)
-
----
-
-### SC rejects petition seeking to remove interim order on Deshbandu Tennakoon
-
-*2024-09-18 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102062/sc-rejects-petition-seeking-to-remove-interim-order-on-deshbandu-tennakoon) · `en`
-
-The Supreme Court today (18) dismissed the petition of intervention filed seeking an order suspending the interim injunction issued preventing Deshabandu Tennakoon from functioning as the Inspector General of Police (IGP).
-
-Ven. Dr. Bellanwila Dhammaratana Thero, Ven. Prof Agalakada Sirisumana Thero and Ven. Prof. Kotapitiye Rahula had filed the intervening petition.
-
-The petition of intervention was taken up today (18) before a three-judge Supreme Court bench consisting of Justices Yasantha Kodagoda, Achala Wengappuli and Mahinda Samayawardhena.
-
-Announcing the order, the chair of the judge bench, Justice Yasantha Kodagoda, had informed that the intervening petition would be dismissed as its content was insufficient to maintain a case.
-
-◼️
-
-[Data](articles/2af1f8dd.json)
-
-[Extended Data](ext_articles/2af1f8dd.ext.json)
-
----
-
-### This is how the train will run next few days
-
-*2024-09-18 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201157) · `si`
-
-Railway schedule changes: Election day (21st) sees implementation. Far-backing trains until 22nd. Special train runs Colombo Fort-Kankesanthurai for election duties.
-
-🟩
-
-The Railway Schedule is being implemented on Saturday on the 21st of the election.
-
-In response to Ada Derana, he said that far as far as far as far as the 22nd Sunday, far backing trains will be implemented and a shortage of the Short Railway Travel.
-
-Meanwhile, the Railway Department has taken steps to run a special train between the Colombo Fort and Kankesanthurai for the participation of election duties.
-
-◼️
-
-[Data](articles/180c6971.json)
-
-[Extended Data](ext_articles/180c6971.ext.json)
-
----
-
-### The TNA is a party;People need to understand what is happening within the party - CVK Sivagnanam
-
-*2024-09-18 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194035) · `ta`
-
-TNA party internal issues transparency importance CVK Sivagnanam statement
-
-🟩
-
-The Sri Lankan Tamil party's vice president and the chairman of the Northern Provincial Council, CVK Sivagnanam, said that the people should understand what is happening within the party.
-
-He made this statement at a meeting held at the Jaffna Media Center on Wednesday (18).
-
-The TNA. Nobody can change it. During the election period, each will present every opinion.. That's the end of the party. After this many will make many meetings. Thereafter, some conclusions are made by individuals. Likewise, this election has taken place at the time.
-
-Who will take disciplinary action?Take against the leader?Many people meet each of the party as far as the party is concerned. Will ask for their support. People need to know what is going on within the party.
-
-The TNA has a policy. It will be stable. There will also be wrong with Sumanthiran. It can be talked about. The party will be stable. Prevail. The presidential election will be held in the near future.. We will make decisions at that time.
-
-...
-
-[Data](articles/9ce94e0b.json)
-
-[Extended Data](ext_articles/9ce94e0b.ext.json)
 
 ---

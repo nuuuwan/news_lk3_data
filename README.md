@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 04:22:26**
+As of **2024-09-20 04:38:39**
 
 ## Newspaper Stats
 
-*Scraped **44,827** Articles*
+*Scraped **44,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,267
-tamilmirrorlk | 5,870
+tamilmirrorlk | 5,872
 virakesarilk | 7,180
 adaderanasinhalalk | 7,679
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,827 (100.0%) of 44,827 articles have been extended.
+44,829 (100.0%) of 44,829 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,30 @@ District Government Agent S Muralitharan said that 400 policemen have been deplo
 [Data](articles/0f8b9cc1.json)
 
 [Extended Data](ext_articles/0f8b9cc1.ext.json)
+
+---
+
+### Prohibition on screening of election results
+
+*2024-09-20 02:36:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முடிவுகளை-திரையிட-தடை/175-344042) · `ta`
+
+Election results ban: Police restricts public viewing due to potential violence. Deputy IG urges citizens to check results privately at home.
+
+🟩
+
+Police said that the presidential election results were banned in public in 2024.
+
+Deputy Inspector General of Police Nihal Dalduwa addressing a special media briefing held at the Government Information Department on Thursday (19)
+
+In the public outer space can cause violent incidents. Therefore, this move has been taken to prevent violence.
+
+I urge the public to visit the presidential election personally in their homes.
+
+◼️
+
+[Data](articles/eb86fef4.json)
+
+[Extended Data](ext_articles/eb86fef4.ext.json)
 
 ---
 
@@ -153,6 +177,34 @@ For this I am ready to create the second part of the film. Because I will always
 [Data](articles/0fd5ee87.json)
 
 [Extended Data](ext_articles/0fd5ee87.ext.json)
+
+---
+
+### It is witchcraft if the situation occurs
+
+*2024-09-20 02:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசம்பாவித-நிலைமை-ஏற்படுமாயின்-சூனியமாகும்/175-344041) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Elections Commission Chairman warns of potential delays due to voting irregularities. Voters can cast ballots without voter cards but must show valid ID. Strict measures enforced to prevent election violations. Security forces deployed to maintain order. Final results delayed if issues occur at polling stations.
+
+🟩
+
+The Chairman of the Elections Commission, RMAL Ratnayake said that if there is any inconvenience in the voting center during the presidential vote, the voting of the polling station will be witching up and the final election results will not be announced until the referendum is held again.
+
+He said that the voter card is not mandatory to vote in the presidential election and that those who do not get the voter card can vote using the valid ID card at the polling station, “Your right and strength.. Use it. ”Asked.
+
+He was speaking at a media briefing held at the Government Information Department on Thursday (19).. There he continued to say,
+
+“All arrangements have been made to hold the presidential election as a fair and free. So, on September 21, go to the house after voting and asking him to go and use voting rights as possible.. He also called for not to engage in election violation and illegal activities.
+
+...
+
+[Data](articles/0af879b5.json)
+
+[Extended Data](ext_articles/0af879b5.ext.json)
 
 ---
 
@@ -2461,49 +2513,5 @@ The commission requested the court today to issue an order to prohibit the prope
 [Data](articles/c25928f0.json)
 
 [Extended Data](ext_articles/c25928f0.ext.json)
-
----
-
-### Rain interrupted the Sri Lanka Test match
-
-*2024-09-19 11:49:58* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා--නවසීලන්ත-ටෙස්ට්-තරගයට-වර්ෂාවෙන්-බාධා/9-412022) · `si`
-
-Sri Lanka Test match interrupted by rain. New Zealand scored 5 runs before stoppage. Sri Lanka batted first, scoring 305 runs in one innings.
-
-🟩
-
-The event was interrupted by the Competition 2nd Test match between Sri Lanka and Sri Lanka.
-
-New Zealand scored five runs in the end of the ball when the match was stopped due to rain.
-
-Batting first Sri Lanka scored 305 runs for the loss of all wickets in their first innings.
-
-◼️
-
-[Data](articles/bd03a1fa.json)
-
-[Extended Data](ext_articles/bd03a1fa.ext.json)
-
----
-
-### 16 days of infant death in Jaffna
-
-*2024-09-19 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194076) · `ta`
-
-Infant dies after feeding in Jaffna: 16-day-old baby succumbs to germ infection. Milk spills from mouth during feeding. Autopsy reveals infection as cause of death.
-
-🟩
-
-A 16 -day child has died due to a germ infection in the Chunnakam area in Jaffna.
-
-In this case, when the baby is fed to the baby, the milk has come out of the baby's mouth.
-
-In this case, the baby died on the 16th. During the anatomical examination, the infection was found to be the cause of the death toll.
-
-◼️
-
-[Data](articles/16ba6430.json)
-
-[Extended Data](ext_articles/16ba6430.ext.json)
 
 ---

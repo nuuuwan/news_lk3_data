@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 06:07:13**
+As of **2024-09-19 06:43:35**
 
 ## Newspaper Stats
 
-*Scraped **44,652** Articles*
+*Scraped **44,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,837
+tamilmirrorlk | 5,838
 virakesarilk | 7,140
 adaderanasinhalalk | 7,642
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,652 (100.0%) of 44,652 articles have been extended.
+44,653 (100.0%) of 44,653 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -869,6 +869,26 @@ Special committees have been appointed to investigate the non -needed campaigns 
 [Data](articles/04a0dcf6.json)
 
 [Extended Data](ext_articles/04a0dcf6.ext.json)
+
+---
+
+### Announced as a quiet period until the 21st
+
+*2024-09-18 21:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/21ஆம்-திகதிவரை-அமைதியான-காலப்பகுதியாக-அறிவிப்பு/150-343976) · `ta`
+
+Quiet period announced until 21st. Election Commission Chairman R.M.A.L. Ratnayake stated. Special committees formed to investigate unnecessary media and social media campaigns during this time.
+
+🟩
+
+In this case, the Chairman of the Election Commission R.. MALL. Ratnayake said.
+
+Special committees have been appointed to investigate the non -needed campaigns on the media and social media during this period.. Remble
+
+◼️
+
+[Data](articles/832d5447.json)
+
+[Extended Data](ext_articles/832d5447.ext.json)
 
 ---
 
@@ -2281,31 +2301,5 @@ The petition was called before the three-member Supreme Court Bench, Yasanantha 
 [Data](articles/88dccec9.json)
 
 [Extended Data](ext_articles/88dccec9.ext.json)
-
----
-
-### Mahinda Deshapriya, who provided leaflets
-
-*2024-09-18 15:57:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துண்டுப்பிரசுரங்களை-வழங்கிய-மஹிந்த-தேசப்பிரிய/175-343958) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former Election Commissioner Mahinda Deshapriya distributed voting leaflets on the presidential election. This marks the first time a former top election official has done so. He emphasized the importance of exercising the right to vote and aimed to encourage citizens to participate in the election process.
-
-🟩
-
-Former Chairman of the Election Commission Mahinda Deshapriya delivered the leaflets on how to vote in the presidential election on Wednesday (18).
-
-This is the first time a former top official who was in charge of the election was the first time.
-
-He noted that the right to vote in the election should not be ignored by this vote and that his intention is to show the right to vote for the people.
-
-◼️
-
-[Data](articles/ce5129ef.json)
-
-[Extended Data](ext_articles/ce5129ef.ext.json)
 
 ---

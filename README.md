@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 19:38:11**
+As of **2024-09-19 19:56:41**
 
 ## Newspaper Stats
 
-*Scraped **44,785** Articles*
+*Scraped **44,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,707
 dailyftlk | 2,980
 adalk | 4,141
 dailymirrorlk | 4,733
-adaderanalk | 5,264
+adaderanalk | 5,265
 tamilmirrorlk | 5,862
 virakesarilk | 7,166
 adaderanasinhalalk | 7,675
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,785 (100.0%) of 44,785 articles have been extended.
+44,786 (100.0%) of 44,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### EC directs to remove election campaign offices at electorate level
+
+*2024-09-19 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102085/ec-directs-to-remove-election-campaign-offices-at-electorate-level) · `en`
+
+The Chairman of the Election Commission, R.M.A.L. Rathnayake, says that all election campaign offices which have been established at the electorate level must be removed after midnight today (19).
+
+During a press conference at the Department of Government Information this morning (19) regarding the presidential poll, he stated that it is essential to remove all current election campaign offices at the constituency level from midnight today.
+
+“Up until yesterday, the maintaining of one main office for the district and one for each constituency related to a polling station had been allowed. However, from midnight today, only one office per election division or district and one for a polling area or previous electoral electorate can be kept open.
+
+“If these offices are not removed, the police will proceed to remove them,” he added.
+
+...
+
+[Data](articles/fbc97b26.json)
+
+[Extended Data](ext_articles/fbc97b26.ext.json)
+
+---
 
 ### Policy compliance with Sri Lanka's foreign private credit providers
 
@@ -2441,29 +2461,5 @@ The body has been placed at the mortuary of the Kalubowila Hospital for the magi
 [Data](articles/ee08d6c4.json)
 
 [Extended Data](ext_articles/ee08d6c4.ext.json)
-
----
-
-### Will the scholarship exam be canceled?
-
-*2024-09-19 08:06:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-ரத்து-செய்யப்படுமா/175-344004) · `ta`
-
-Scholarship exam not canceled despite leaks. Parents protest over leaked questions. Three questions removed from exam. Investigation ongoing.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundara said yesterday that no decision has been taken to cancel the fifth year scholarship examination held last Sunday (15).. Parents and some of the parents staged a demonstration in front of the Department of Examinations yesterday morning (18) demanding justice that some questions were leaked in the exam question.. However, the Commissioner said that he had informed them during a discussion with a committee.
-
-He said that only three questions were leaked before the scholarship examination, but that many teachers had been consulted by many teachers.
-
-He added that if the information of those who attended the discussion proves to be correct within three days, the Department of Examinations will strictly implement the law.
-
-He said that the 16 -question paper was in the debate and that there was only three questions unity.
-
-...
-
-[Data](articles/69a14ba6.json)
-
-[Extended Data](ext_articles/69a14ba6.ext.json)
 
 ---

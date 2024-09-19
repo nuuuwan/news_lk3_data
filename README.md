@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 09:38:28**
+As of **2024-09-19 09:57:54**
 
 ## Newspaper Stats
 
-*Scraped **44,685** Articles*
+*Scraped **44,688** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 435
-colombotelegraphcom | 446
+colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,703
 dailyftlk | 2,980
-adalk | 4,124
+adalk | 4,125
 dailymirrorlk | 4,733
 adaderanalk | 5,253
-tamilmirrorlk | 5,847
+tamilmirrorlk | 5,848
 virakesarilk | 7,141
 adaderanasinhalalk | 7,648
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 7,648
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,685 (100.0%) of 44,685 articles have been extended.
+44,688 (100.0%) of 44,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Notification to election offices
+
+*2024-09-19 09:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அலுவலகங்களுக்கு-அறிவிப்பு/175-344009) · `ta`
+
+Election Commission notification: Branch offices close Sept 20; booth-level offices open Sept 21; constituency operations end Sept 22; no home use as election office after Sept 22. Violations subject to removal under Election Act.
+
+🟩
+
+The Election Commission has issued a notification that describes the recognized election time limit period during the election period.
+
+According to the announcement, the functioning of the branch election offices, which was announced at the volume, will be stopped at midnight on Thursday (19).
+
+Election offices established at the level of each polling booth will begin tomorrow and maintain from tomorrow.
+
+Similarly, the deadline for operating constituencies in volume -level election offices ends at midnight on September 22.
+
+Moreover, since midnight on September 22, the presidential candidates or their recognized representatives will not be allowed to use their homes as election offices.
+
+The Election Commission has urged that the election offices functioning beyond the deadline will be immediately removed under the Election Act.
+
+◼️
+
+[Data](articles/198ac197.json)
+
+[Extended Data](ext_articles/198ac197.ext.json)
+
+---
 
 ### Shooting in Kohuwala;Death
 
@@ -65,6 +93,14 @@ Kohuwala police are conducting further investigations into the shooting incident
 One person is reported dead while two others have been injured in a shooting incident at Midigama in Matara.
 
 Police said that two unidentified gunmen who arrived on a motorcycle had opened fire at them.
+
+Meanwhile, another shooting had taken place at around 10.00 p.m. last night (18) inside a shop at Saranankara Road in Kohuwala police area.
+
+The shop owner, a 43-year-old resident of Nedimala in Dehiwala, had succumbed to injuries after being admitted to the Kalubowila Hospital following the shooting.
+
+The shooting was reportedly carried out by two unidentified gunmen who had arrived on a motorcycle.
+
+The motive behind the shooting or any information regarding the suspects are yet to be uncovered.
 
 ◼️
 
@@ -196,11 +232,13 @@ One person has been killed in a shooting incident inside a shop at Saranankara R
 
 The victim, a 43-year-old resident of Nedimala in Dehiwala, had succumbed to injuries after being admitted to the Kalubowila Hospital.
 
-The shooting had taken place last night (19) while the victim is said to be the owner of the shop in question.
+The shooting had taken place last night (18) while the victim is said to be the owner of the shop in question.
 
 The shooting was reportedly carried out by two unidentified gunmen who had arrived on a motorcycle.
 
 The motive behind the shooting or any information regarding the suspects are yet to be uncovered.
+
+The body has been placed at the mortuary of the Kalubowila Hospital for the magistrate’s inquiry.
 
 ◼️
 
@@ -2024,6 +2062,36 @@ Sangeethan (age 40) from the Omanthai Pandigaiyadakulam area, Yogarasa (age 42) 
 
 ---
 
+### 63,000 policemen from election duties
+
+*2024-09-18 18:54:36* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-රාජකාරියට-පොලීසියේ-63000ක්/11-412008) · `si`
+
+63,000 police, 12,000 civil defense deployed for elections. 449 complaints, 108 arrests. Police patrolling 3083 locations. Special units guarding Election Commission. Social media monitoring for threats. No gatherings near polls. Alcohol, weapons banned.
+
+🟩
+
+Attorney at Law Talduuwa, the DIG Talduuwa said that over 63,000 police officers and 12,000 civil defense department were deployed for election duties.
+
+He said that 449 complaints have been received regarding the presidential election and 108 persons have been arrested so far.
+
+He said that these officials will be deployed to deploy for election centers and 3083 mobile patrols, he said.
+
+He said that roadbloods were being barred by the election day and the election day and the police special officers were deployed in addition to the police officers.
+
+According to Nihal Talduuwa, he has been deployed for the election duties and the police officers have been deployed for election duties, including the power plants and public places.
+
+He added that a special monastery has been provided to the premises of the Election Commission and mobile patrols covering the island.
+
+He added that the election campaigns ended after 12 pm last night and could run the law and other offices.
+
+...
+
+[Data](articles/78b61319.json)
+
+[Extended Data](ext_articles/78b61319.ext.json)
+
+---
+
 ### Closely
 
 *2024-09-18 18:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவருக்கிடையில்-நெருக்கமான-போட்டி/175-343970) · `ta`
@@ -2251,53 +2319,5 @@ After the bail, the suspects were absolutely avoided abroad without permission.
 [Data](articles/f9d160cc.json)
 
 [Extended Data](ext_articles/f9d160cc.ext.json)
-
----
-
-### Sri Lanka is 302 runs for the 7 wickets
-
-*2024-09-18 18:24:36* · [`adalk`](https://www.ada.lk/sports/පළමු-දිනය-නිමාවන-විට-ලංකාව-කඩුලු-7ට-ලකුණු-302යි/9-412004) · `si`
-
-Sri Lanka leads NZ in 1st Test: 302/7. Kumindu Mendis (117), Kusal Mendis (50). Wickets: William O Roke, Glenn Phillips (2).
-
-🟩
-
-Sri Lanka scores 302 runs for the loss of the first Test between the New Zealand team and the first Test match between the Sri Lanka International Cricket Stadium.
-
-Kumindu Mendis scored 117 runs. Kusal Mendis scored 50 runs.
-
-William O Roke wickets and Glenn Phin Phins took two wickets.
-
-◼️
-
-[Data](articles/fb514fa2.json)
-
-[Extended Data](ext_articles/fb514fa2.ext.json)
-
----
-
-### 2025 preschool uniforms to the students
-
-*2024-09-18 18:10:12* · [`adalk`](https://www.ada.lk/breaking_news/2025-නව-පාසල්-වාරයට-පෙර-පාසල්-නිල-ඇඳුම්--සිසුන්-අතට/11-412003) · `si`
-
-Sri Lanka: 2025 preschool uniforms gifted by China. 7 billion rupees allocated. Distribution planned before Jan 20th.
-
-🟩
-
-The Minister of Education Susil Premajay also says that the school uniforms will be given to the students of the 2025.
-
-These uniforms will be provided to all school children as a grant of the Chinese government and the country has about Rs. 7 billion.
-
-According to the recipients of Susil Premajayantha, the Chinese Ambassador and the relevant authorities with the relevant officers with the relevant officers of the Chinese government, is scheduled to be provided with all the rooms required for the 2025 New School and Pirivenas.
-
-According to the Ministry of Education, the Ministry of Education has confirmed that Sri Lanka is due to be received.
-
-The uniform stock is due to be distributed before January 20, which begins the new school term.
-
-◼️
-
-[Data](articles/14c78ed7.json)
-
-[Extended Data](ext_articles/14c78ed7.ext.json)
 
 ---

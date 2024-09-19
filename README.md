@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 23:22:38**
+As of **2024-09-19 23:38:41**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 7,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,807 (100.0%) of 44,808 articles have been extended.
+44,808 (100.0%) of 44,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
 
-### CID-யின் கைகளுக்குச் சென்றது
+### Went to the hands of CID
 
 *2024-09-19 22:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CID-யின்-கைகளுக்குச்-சென்றது/175-344035) · `ta`
 
-ஐந்தாம் தர புலமைப்பரிசில் பரீட்சையில் சில கேள்விகள் கசிந்தமை தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+Here's a summary of the text in 200 characters:
 
-இதேவேளை, நேற்று (17) இடம்பெற்ற கலந்துரையாடல் ஒன்றில் முதல் தாளில் இருந்து மூன்று கேள்விகளை நீக்க முடிவு செய்யப்பட்டமை குறிப்பிடத்தக்கது. R
+
+
+CID investigates leaked exam questions. Three questions removed from first paper after discussion.
+
+🟩
+
+The Criminal Investigation Department (CID) has launched an investigation into some questions leaking at the fifth grade scholarship examination.
+
+Meanwhile, a discussion held yesterday (17) decided to remove three questions from the first paper.. Remble
 
 ◼️
 
 [Data](articles/21a00f6d.json)
+
+[Extended Data](ext_articles/21a00f6d.ext.json)
 
 ---
 

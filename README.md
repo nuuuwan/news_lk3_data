@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 11:38:52**
+As of **2024-09-19 11:58:08**
 
 ## Newspaper Stats
 
-*Scraped **44,706** Articles*
+*Scraped **44,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 378
 bbccomsinhala | 435
 colombotelegraphcom | 447
 islandlk | 2,634
-economynextcom | 2,703
+economynextcom | 2,707
 dailyftlk | 2,980
 adalk | 4,125
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,706 (100.0%) of 44,706 articles have been extended.
+44,710 (100.0%) of 44,710 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,6 +80,22 @@ A spokesman for the Pakamuna and Attanakadawala Hospital said that the status of
 
 ---
 
+### IHP revises Sri Lanka presidential polling model to account for social desirability effect
+
+*2024-09-19 10:53:00* · [`economynextcom`](https://economynext.com/ihp-revises-sri-lanka-presidential-polling-model-to-account-for-social-desirability-effect-180012/) · `en`
+
+ECONOMYNEXT — The Institute for Health Policy (IHP) which has been conducting opinion polls on Sri Lanka’s presidential election said it had to substantially revise its earlier model due to an apparent social desirability effect that had led it to underestimate support for one candidate, though the same effect could also potentially lead to an overestimation.
+
+IHP Executive Director Dr Ravi Rannan-Eliya was quoted as saying in a statement from the institute on Wednesday September 18 that it was forced to revise the model it had used in previous months in order to tackle a substantial rise since July 2024 of respondents over-reporting voting for National People’s Power (NPP) leader Anura Kumara Dissanayake in 2019.
+
+...
+
+[Data](articles/d9e01bfd.json)
+
+[Extended Data](ext_articles/d9e01bfd.ext.json)
+
+---
+
 ### Another shooting: Youth gunned down in Kurunegala
 
 *2024-09-19 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102074/another-shooting-youth-gunned-down-in-kurunegala) · `en`
@@ -88,7 +104,19 @@ A 30-year-old youth has been killed in a shooting incident in the Rasanayakapura
 
 This is the third shooting incident reported in the country within the last 24 hours.
 
-◼️
+Meanwhile, in a separate incident, one person was killed and two others were injured in a shooting incident at Midigama in Matara this morning.
+
+Police said the two unidentified gunmen, who arrived on a motorcycle, had opened fire at a person who was at a fish market in the Goviyapana area in the Midigama police area this morning (19) and had fled the scene.
+
+The owner of the fish stall, who sustained serious injuries from the gunfire, along with two other individuals who had arrived at the stall and were also injured from the shooting were admitted to the Karapitiya Hospital for treatment.
+
+However, the fish market owner had succumbed to his injuries upon admission to the hospital.
+
+The deceased is a 38-year-old resident of the Goviyapana area.
+
+The body has been placed at the mortuary of the Karapitiya Hospital.
+
+...
 
 [Data](articles/cff88ebe.json)
 
@@ -305,6 +333,28 @@ Hizbullah has declared the US and the European Union as a banned terrorist organ
 [Data](articles/93a7ce9b.json)
 
 [Extended Data](ext_articles/93a7ce9b.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 304.25/50, bond yields up
+
+*2024-09-19 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-304-25-50-bond-yields-up-180008/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 304.25/50 to the US dollar on Thursday, from 303.75/85 Wednesday, dealers said. Bond yields were up, they said, while stocks opened up 0.32 percent higher.
+
+In the secondary market, the following bonds were actively quoted;
+
+A bond maturing on 15.12.2028 was quoted at 11.85/90 percent, up from 11.70/80 percent.
+
+A bond maturing on 15.06.2029 was quoted at 13.70/75 percent, down from 13.80/90 percent.
+
+In equities, Colombo’s All Share Price Index was opened 34.15 points higher at 10,860, while the S&P SL20 of more liquid stocks opened up at 0.91 percent or 27.54 points to 3,064.
+
+◼️
+
+[Data](articles/2cad5de7.json)
+
+[Extended Data](ext_articles/2cad5de7.ext.json)
 
 ---
 
@@ -852,6 +902,30 @@ Kohuwala Police are conducting further investigations.
 
 ---
 
+### Sri Lanka expects IMF visit in two weeks: President
+
+*2024-09-19 06:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-imf-visit-in-two-weeks-president-179994/) · `en`
+
+ECONOMYNEXT- Sri Lanka is expecting mission from the International Monetary Fund in two weeks, President Ranil Wickremesinghe told a campaign rally.
+
+“In two weeks when the IMF team comes, we have to say that we will implement the agreement and to give the next instalment,” President Wickremesinghe told a rally in Homagama Wednesday.
+
+“If not, we will have to say that we will change it. Then the installment will not come. Then the rupee will fall to 500 to the dollar.
+
+Sri Lanka’s interest rates have already started to move up amid political uncertainty. The rupee has also slightly weakened.
+
+Currencies typically collapse when soft-pegged central banks resist market interest rate pressure and engages in reverse repo, outright purchases or overnight injections to keep short or long term rates down (prints money), or sterilizes interventions in the forex markets to enforce a policy rate.
+
+President Wickremesinghe said earlier that Sri Lanka expected to reach an agreement with private creditors.
+
+...
+
+[Data](articles/ff65a596.json)
+
+[Extended Data](ext_articles/ff65a596.ext.json)
+
+---
+
 ### Thundershowers at several areas and strong winds
 
 *2024-09-19 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201173) · `si`
@@ -873,6 +947,28 @@ The Department of Meteorology has informed the people to take steps to take nece
 [Data](articles/1ff28fec.json)
 
 [Extended Data](ext_articles/1ff28fec.ext.json)
+
+---
+
+### US Federal Reserve cut rates 50pb, quantity tightening to continue
+
+*2024-09-19 05:49:00* · [`economynextcom`](https://economynext.com/us-federal-reserve-cut-rates-50pb-quantity-tightening-to-continue-179980/) · `en`
+
+ECONOMYNEXT – The US Federal Reserve cut rates 50 basis points to target an overnight rate of 4.75/5.00 percent, with Chair Jerome Powell saying inflation and employment was balanced.
+
+“Inflation is now much closer to our objective, and we have gained greater confidence that inflation is moving sustainably toward 2 percent,” Powell told reporters after the rate cut.
+
+“As inflation has declined and the labor market has cooled, the upside risks to inflation have diminished and the downside risks to employment have increased.
+
+“We now see the risks to achieving our employment and inflation goals as roughly in balance, and we are attentive to the risks to both sides of our dual mandate.”
+
+The Fed’s ‘dual mandate’ is blamed for the current high inflation as well as the 1970s collapse of the Bretton Woods system and subsequent Great Inflation.
+
+...
+
+[Data](articles/d425210a.json)
+
+[Extended Data](ext_articles/d425210a.ext.json)
 
 ---
 
@@ -2185,97 +2281,5 @@ At the meeting held at Nallur Changhiyan Thoppu, Tamil general candidate Pa Ariy
 [Data](articles/4bc80311.json)
 
 [Extended Data](ext_articles/4bc80311.ext.json)
-
----
-
-### The people who expected the centuries will take place on the 21st
-
-*2024-09-18 19:52:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-සියවස්-ගණනාවක්-අපේක්ෂා-කළ-පරිවර්තනය-21දා-සිදුවෙනවා/11-412013) · `si`
-
-Sri Lankan presidential candidate Anura Kumara Dissanayake promises economic transformation, lower electricity costs, improved healthcare, and local production growth. He vows to end corruption and boost national security, aiming to make Sri Lanka a prosperous nation by the 21st century.
-
-🟩
-
-Presidential candidate Anura Kumara Dissanayake said that the political translation of the people expected to centuries will occur on the 21st and that it is a man of politics in Sri Lanka.. He added that the national atonement has the program to make Sri Lanka a rich country.
-
-Anura Kumara Dissanayake said that the national atologge has been able to collect the politics of the Sinhalese and divided politics.Addressing the wrinkles.
-
-He said the highest electricity bill in the Asian region would be made the lowest electricity bill in Asia. Dissanayake added that the provision of a healthy life is responsible for the government and the healthcare industry is a credible one, with healthcare facilities.
-
-"Will not be a mere government shift on the 21st. Another leader is not a member of the leader. This is what dream we saw centuries. The 21st will take place to transform this political culture.
-
-...
-
-[Data](articles/b619c448.json)
-
-[Extended Data](ext_articles/b619c448.ext.json)
-
----
-
-### Sajith Premadasa is the only one who has clearly declared practical potential solutions for the Tamil speaking people - Mano Ganesan
-
-*2024-09-18 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194053) · `ta`
-
-Sajith Premadasa offers practical solutions for Tamil-speaking people, addressing housing and education issues. He has formed an alliance with Tamil Progressive Alliance and signed agreements ensuring land rights. Unlike other candidates who have done nothing for years, Premadasa has concrete plans to implement the 13th Amendment and rebuild provincial councils.
-
-🟩
-
-The leader of the United People's Alliance (UPFA), Sajith Premadasa, is the only candidate who has clearly announced the possible solutions to the Tamil speaking people across the country.
-
-Those who have been in the competition with us, leave for two years of chapter and do nothing to the solution to the ethnic problem, and look for the Tamil -speaking politicians who have bribed the Tamil -speaking politicians.Look for those who have forgotten their role in fostering communal ideology in this country and who suddenly affectionately affection for Tamil -speaking people.
-
-So, go and boldly go and vote for the telephone symbol, "said Mano Ganesan, leader of the Tamil Progressive Alliance (TNA), addressing a special media briefing in Colombo.
-
-...
-
-[Data](articles/1097eb2b.json)
-
-[Extended Data](ext_articles/1097eb2b.ext.json)
-
----
-
-### The Sinhalese will take a proud country as a proud country
-
-*2024-09-18 19:48:20* · [`adalk`](https://www.ada.lk/breaking_news/අභිමානවත්-රටක්-ලෙස-තුන්-සිංහලය-ඉදිරියට-ගෙනි-යනවා/11-412012) · `si`
-
-Ranil Wickremesinghe addresses crowds, promising economic recovery and leadership during challenging times. He emphasizes facing difficulties head-on and making tough decisions for the nation's progress.
-
-🟩
-
-An independent presidential candidate Ranil Wickremesinghe said that the forex condemnation as a prospective country as a country of foreign exchange as a country of foreign exchange and proceed towards the forest country.. President Ranil Wickremesinghe was speaking at the Uyanwatta Stadium, Kalutara, Galle, Homagama, Homagama and central Colombo.
-
-The President said that "Can Sri Lanka" and that the President was able to face the economic challenge, "Sri Lanka said it was said to improve the country.In the meantime, the people have the responsibility of selecting a leader leader.
-
-Addressing the rally of the people, Ranil Wickremesinghe said: "In the last two years, we all had a new experience. The leaders who trusted you rejected their responsibilities unable to face the problem of this country.
-
-...
-
-[Data](articles/b6de88c7.json)
-
-[Extended Data](ext_articles/b6de88c7.ext.json)
-
----
-
-### Fort - Kankesanthurai Railway Service for Presidential Election Duties - Railway Department
-
-*2024-09-18 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194052) · `ta`
-
-Railway Department launches special train service between Colombo Fort and Kankesanthurai for government officials and security forces involved in presidential election duties. Trains run on 19th, 21st, and 22nd.
-
-🟩
-
-The Railway Department has announced that the Railway Service between the Colombo Fort and Kankesanthurai has been launched for the government officials and security forces who are involved in the presidential election duties.
-
-A special train service has been deployed for public officials and security forces participating in the election duties for the presidential election on Saturday (21).
-
-Accordingly, on the 19th and 21st of this month, the special train will be on service till the Colombo Fort. A special train will be traveling from Fort Railway Station at 9 am this morning.
-
-Similarly, a special train will depart from the Kankesanthurai railway station to Colombo Fort Railway Station at 12 noon on Saturday (21) and next Sunday (22).
-
-◼️
-
-[Data](articles/dd240a1d.json)
-
-[Extended Data](ext_articles/dd240a1d.ext.json)
 
 ---

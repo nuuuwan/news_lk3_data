@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 17:39:29**
+As of **2024-09-19 17:59:05**
 
 ## Newspaper Stats
 
-*Scraped **44,763** Articles*
+*Scraped **44,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,137
+adalk | 4,138
 dailymirrorlk | 4,733
-adaderanalk | 5,262
+adaderanalk | 5,263
 tamilmirrorlk | 5,860
 virakesarilk | 7,155
-adaderanasinhalalk | 7,672
+adaderanasinhalalk | 7,673
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,763 (100.0%) of 44,763 articles have been extended.
+44,766 (100.0%) of 44,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### National Security Council meets
+
+*2024-09-19 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201205) · `si`
+
+National Security Council meeting: President Wickremesinghe chairs discussion on election security measures. Focus on protecting candidates and maintaining public order during polls. Heads of security advised to safeguard citizens' daily lives after elections.
+
+🟩
+
+The National Security Council met today (19) a special discussion on the provision of the security forms of the presidential election independent and independent electorate.
+
+The presidential office was presided over by President Ranil Wickremesinghe this morning.
+
+At the election day, the election has been paid to providing necessary support to the Election Commission to ensure the safety of the candidates, ensuring the safety of the candidates, ensuring the safety of the candidates, and enrolling security.
+
+President Ranil Wickremesinghe has also advised the heads of security for security forces to protect the daily lives of the people in the post election.
+
+◼️
+
+[Data](articles/f0fd4069.json)
+
+[Extended Data](ext_articles/f0fd4069.ext.json)
+
+---
+
+### President chairs National Security Council meeting ahead of polls
+
+*2024-09-19 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102082/president-chairs-national-security-council-meeting-ahead-of-polls-) · `en`
+
+The National Security Council of Sri Lanka has met and discussed ensuring security for the 2024 presidential election and maintaining law and order during the post-election period.
+
+The National Security Council, chaired by President Ranil Wickremesinghe, met today (19) at the Presidential Secretariat in Colombo.
+
+They discussed ensuring security for the 2024 presidential election, supporting the Election Commission, securing candidates and polling stations and maintaining law and order post-election without disrupting daily life, the President’s Media Division said.
+
+President Wickremesinghe has also instructed the heads of the security agencies to take all necessary steps to maintain law and order in the country without disrupting the daily lives of the people during the post-election period, the PMD said.
+
+◼️
+
+[Data](articles/b1cfa6e7.json)
+
+[Extended Data](ext_articles/b1cfa6e7.ext.json)
+
+---
 
 ### Sri Lanka agrees with international commercial creditors
 
@@ -58,13 +102,15 @@ The Presidential Media Unit strosizes the financial stability of the country thr
 
 *2024-09-19 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102081/sri-lanka-says-restructuring-deal-with-bondholders-reached) · `en`
 
-Sri Lanka said it’s reached an agreement in principle with bondholders to restructure its $114 billion debt load, just days before the country heads to elections that have rattled investors.
+Sri Lanka said it’s reached an agreement in principle with bondholders to restructure its $114 billion debt load, just days before the country heads for presidential elections.
 
 The government held restricted discussions with nine members of the steering committee of the ad-hoc group of bondholders between September 12th and 18th, it said in a statement on Thursday.
 
 The parties agreed to introduce “governance-linked bond features” as part of the revised bond treatment, it said, referring to clauses that would cut Sri Lanka’s repayments if it meets certain governance and anti-corruption-related targets.
 
-◼️
+Sri Lanka was joined by its legal and financial advisors, Clifford Chance LLP and Lazard, respectively, and the Restricted Members of the Steering Committee were joined by the Group’s legal and financial advisors, White & Case LLP and Rothschild & Co, respectively, the statement said.
+
+...
 
 [Data](articles/cf4ede27.json)
 
@@ -121,6 +167,30 @@ The people of Lebanon are also afraid to use mobile phones.
 [Data](articles/1e02b3d0.json)
 
 [Extended Data](ext_articles/1e02b3d0.ext.json)
+
+---
+
+### Dead body found in coconut land
+
+*2024-09-19 16:01:23* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තබා-ඝාතනය-කළ-තරුණයකුගේ-මළ-සිරුරක්-පොල්-ඉඩමක/11-412026) · `si`
+
+Body found in coconut field: Youth shot dead in Tangalle, police investigating.
+
+🟩
+
+The body of a youth who had been shot dead at around 8 pm yesterday (18) was found in a coconut land in Colombo, Tangalle Police, Tangalle Police said.
+
+According to police, Phan Erandu, a 33 year old cattle, he was a resident of Tangalle, police said.
+
+The police said that his body was found dead in search of his family after the death of the young man
+
+The body was taken to the Tangalle Base Hospital and Tangalle Police are conducting further investigations.
+
+◼️
+
+[Data](articles/cfd8270d.json)
+
+[Extended Data](ext_articles/cfd8270d.ext.json)
 
 ---
 
@@ -2351,83 +2421,5 @@ The delegation was led by General Manager of Investment Promotion and Marketing 
 [Data](articles/0bf5082f.json)
 
 [Extended Data](ext_articles/0bf5082f.ext.json)
-
----
-
-### The victory is sure to be the highest number of votes
-
-*2024-09-19 02:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-இலட்சம்-மேலதிக-வாக்குகளால்-வெற்றி-நிச்சயம்/175-343999) · `ta`
-
-United People's Power likely to win with over 20 lakh votes. Opposition leader Sajith Premadasa urges peaceful celebration. Promises religious freedom, stopping drugs, reducing taxes, increasing investments, eliminating corruption. No political deals or fraud. Focuses on restoring 22 million affected people.
-
-🟩
-
-According to the Investigation Department report, the United People's Power will win with more than 20 lakh votes. Ranil is at the lower level of the pair of Ranil in the morning.
-
-It was only after the first submission of the election manifesto at the Holy Dalada House and obtained the blessings.. We will certainly succeed in protecting the Buddha's blessings of all things mentioned in the election manifesto.
-
-Opposition leader Sajith Premadasa said that I urge you to celebrate this victory peacefully.
-
-The 68th People's Victory rally organized by the United People's Alliance (UPFA) in front of the 2024 presidential election was held on September 18 under the leadership of Opposition Leader Sajith Premadasa in Moneragala.. The Opposition Leader said this while addressing the gathering.
-
-...
-
-[Data](articles/6dbd4333.json)
-
-[Extended Data](ext_articles/6dbd4333.ext.json)
-
----
-
-### Do not sacrifice politics in darkness
-
-*2024-09-19 02:50:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருளில்-தள்ளும்-அரசியலுக்கு-பலியாகி-விடாதீர்கள்/175-343998) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Wickremesinghe proposes implementing "English For All" program within 10 years to address English language issues. He aims to improve the future for Gen Z, criticizing politicians for prioritizing political interests over youth development. The president highlights economic growth in Malwan, mentioning IMF negotiations and implementation of programs like "Assuma" and Udaya R Senaviratne Committee's report.
-
-🟩
-
-President Ranil Wickremesinghe said that in the next 10 years, every child will be implemented in the "English For All" program to provide the opportunity to get the English language scholarship.
-
-As a minister of education, the President recalled that the JVP had landed on the road when he brought the proposal in the white report and pointed out that if the program was implemented on that day, there would be no English language issue in the country today.
-
-What is the government's solution to the problems faced by young people due to lack of English language knowledge?Responding to a question raised by a youth, President Ranil Wickremesinghe said.. Meeting with Malwana people was held on Tuesday (17). He said this while addressing the gathering.
-
-The President said his aim was to create a better future for the Gen Z generation, and demanded that the youth not be killed for the political interests of Sajith and Anura, who were limited to false promises.
-
-...
-
-[Data](articles/6c8a0f1c.json)
-
-[Extended Data](ext_articles/6c8a0f1c.ext.json)
-
----
-
-### Tells to inspect the head
-
-*2024-09-19 02:46:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதிலளிக்காது-தலையை-பரிசோதிக்க-சொல்கிறார்/175-343997) · `ta`
-
-Sri Lanka politician Hizbullah claims Anura Kumara Dissanayake's election manifesto supports opening gay stations, brothels, and alcoholism nationwide. He accuses Anura Kumara Dissanayake of insulting him instead of addressing allegations.
-
-🟩
-
-Former Governor of the Eastern Province MLA has said that if Anura Kumara Dissanayake comes to power, he said that he would respond to my comment that gay stations and brothels would be opened throughout the country.. Hizbullah said.
-
-He was speaking at a speech at a campaign meeting organized by the Sri Lanka Muslim Congress on Tuesday (17) night in support of Sajith Premadasa in Karadivu, Karadivu, Ampara district.
-
-Muslim Congress House East Regional Organizer. H. Former Governor MLA. Hizbullah further stated
-
-If the National People's Power Leader Anura Kumara Dissanayake comes to power, homosexual stations, brothels and alcoholism will be opened legally.. Even in schools, the Ulama cannot speak to them.
-
-I have been saying this again and again when I read the election manifesto of Anuragumara Dissanayake. That is how Muslims cannot celebrate their majority in their respective days. The majority of all religions can be celebrated in a single day and can be celebrated in one day.
-
-...
-
-[Data](articles/d0629966.json)
-
-[Extended Data](ext_articles/d0629966.ext.json)
 
 ---
